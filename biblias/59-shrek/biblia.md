@@ -559,3 +559,234 @@ Fuentes: fichas de Fandom (EN) y Doblaje Wiki, las muestras de voz (punto 8) y f
 
 **Dinámicas para láminas en grupo:** Shrek + Burro (el gruñón y el parlanchín, «Name a more iconic duo» en Reddit) · Burro + Gato (celos cómicos) · Shrek + Fiona (iguales, se ríen juntos) · Gato + Perrito (el que calma al valiente).
 
+## Punto 14 · Poses analizadas
+
+Fotogramas propios de la parte de vídeo (vistos con Read) y renders de las hojas. Minutos de la copia de Archive salvo aviso.
+
+### Shrek (10)
+1. **Presentar su casa** · 1:14 · su manaza verde ocupa el cuadro, dedos abiertos sobre la tapa de cuero del libro ✅
+2. **Asustar / regañar** · 5:56 · de pie ante la turba con antorchas, brazos abiertos, sonrisa amenazante, mirada a cámara ✅
+3. **Actuar / pelear** · 21:00 · entra al ruedo con paso firme, torso adelante, puños sueltos ✅
+4. **Avanzar con cautela** · 30:03 · cruza el puente en llamas con Burro, antorcha en mano, mira arriba ✅
+5. **Explicar** · 43:54 · sentado junto a la fogata, gesticulando con las manos ✅ (la frase de esa escena, ver «Lo que corregí» ⚠️)
+6. **Reír** · 55:05 · apoyado en un árbol, cabeza atrás, boca abierta ✅
+7. **Decidir** · 1:19:50 · de pie, brazos extendidos hacia la luz dorada, palmas abiertas ✅
+8. **Celebrar** · 1:20:57 · frente contra frente con Fiona, luz azul de vitral ✅
+9. **Presentarse con fuerza** · render H1-2 · garras en alto, rodillas dobladas, sonrisa de oreja a oreja ✅
+10. **Explicar con un objeto** · render H1-44 · primer plano con la cebolla en la mano ✅
+
+### Burro (9)
+1. **Acompañar** · 11:00 · trota junto a Shrek, orejas adelante, cuello estirado hacia él ✅
+2. **Presentar (cómico)** · 11:00 · bocarriba en la cama de Shrek, pezuñas al aire ✅
+3. **Miedo** · 35:03 · cara pegada a cámara, ojos enormes, luz roja ✅
+4. **Sorpresa / romance** · 37:57 · envuelto por la cola de la dragona, orejas caídas, mirada de reojo ✅
+5. **Animar** · 52:59 · de perfil riendo con la boca muy abierta, orejas arriba ✅
+6. **Presentar, cuerpo entero** · H3-1 · de pie, sonrisa enorme, patas delanteras sueltas ✅
+7. **Celebrar** · H3-2 · volando con polvo de hada entre caballeros ✅
+8. **Estar en casa** · H3-3 · sentado en el sillón de la cabaña de Shrek ✅
+9. **Asustarse** · H3-4 · pezuña en la boca, orejas atrás ✅
+
+### Fiona (10)
+1. **Alegría** · 49:56 · mano en el pecho, ojos cerrados, cantando al pajarito ✅
+2. **Miedo** · 44:56 · boca abierta, cejas arriba ✅
+3. **Cariño** · 52:59 · cara a cara con Shrek, mentón arriba ✅
+4. **Animar** · 55:05 · tirada en el pasto tras la voltereta, sonriendo ✅
+5. **Decidir** · 1:16:56 · de novia, espalda recta, mirada al altar ✅
+6. **Pelear** · render H1-1 · patada en el aire, corona puesta ✅
+7. **Celebrar** · render H1-7 · salto con el vestido verde ✅
+8. **Guerrera** · render H1-31 · de pie con hacha, armadura de cuero ✅
+9. **Pensar / esperar** · H2-69 · en la ventana de la torre, mano en la mejilla ✅
+10. **Patada contra los hombres de Robin Hood** · «~21:54-22:56» según la parte de vídeo ⚠️ minuto dudoso (ver «Lo que corregí»)
+
+### Gato con Botas (8)
+1. **Presentar / desafiar** · *Shrek 2* 37:27 · reverencia, sombrero en la mano extendida, una pata sobre una roca ✅
+2. **Retar** · *Shrek 2* 38:00 · esgrima, espada en alto, cola erguida, mira hacia arriba a Shrek ✅
+3. **Escala cómica** · *Shrek 2* 38:00 · muy erguido frente a Shrek agachado ✅
+4. **Vigilar** · *Shrek 2* 1:19:10 · montado en Burro hecho caballo blanco, bigotes alerta ✅
+5. **Celebrar** · *Shrek 2* 1:22:30 · pata en un tejado, bota adelante, lengua fuera ✅
+6. **Presentar, cuerpo entero** · H3-5 · pose de esgrima, capa al viento ✅
+7. **Pelear** · H3-6 · contra guardias con espada ✅
+8. **Explicar** · H3-7 · la guía oficial con 4 viñetas de gestos ✅
+- **Falta el gesto más famoso: los ojos de cachorro** ⚠️. Se buscó en *Shrek 2* (30-46 min y 78-86 min) sin dar con el segundo exacto.
+
+### Qué pose para qué
+
+| Para… | Shrek | Burro | Fiona | Gato con Botas |
+|---|---|---|---|---|
+| **Presentar** | H1-2 garras arriba · 1:14 mano en el libro | H3-1 de pie sonriendo | H1-7 salto | 37:27 reverencia |
+| **Explicar** | 43:54 gesticulando · H1-44 con la cebolla | 11:00 trotando a su lado, hablando | (DM) 47:12 sentada junto al fuego | H3-7 guía |
+| **Celebrar** | 1:20:57 · 55:05 riendo | H3-2 volando | 49:56 cantando | 1:22:30 lengua fuera |
+| **Regañar** | 5:56 ante la turba · (DM) 8:24 enseñando dientes | — (no hay rabia) | H1-1 patada | 38:00 espada en alto |
+| **Pensar** | 30:03 mirando arriba · 1:19:50 | 37:57 de reojo | H2-69 ventana | 1:19:10 alerta |
+| **Animar** | 55:05 riendo | 52:59 carcajada | 55:05 en el pasto | 38:00 reto |
+
+## Punto 15 · Vestuario y hex medidos
+
+Medido con `estilo.py` sobre renders oficiales de la wiki (parte de imagen). **No son colores de memoria.**
+
+| Personaje y traje | Imagen medida | Hex | Estado |
+|---|---|---|---|
+| **Shrek, ropa de siempre** (igual en las 4 películas): chaleco de cuero marrón, túnica beige, cinturón, calzas ocres con vendas, botas oscuras | `Shrek_fierce.jpg` 3600×3210 (H1-2) | piel `#7F7240` / `#B8A933` (verde oliva, **más amarillo** de lo que se recuerda) · chaleco `#392E20` · túnica `#C8C2AD` | ✅ |
+| **Fiona ogra** (misma familia de verdes que Shrek) | `Fiona_ogre_2_render.png` (H1-26) | `#86844A` / `#C6BE4D` | ✅ |
+| **Fiona, vestido de viaje verde** ⭐ el icónico: corpiño verde con bordado dorado de enredadera, falda más oscura | `Fiona_kick_alternate.jpg` 3262×3749 (H1-1) | verde `#438D2E` · sombra y enagua `#1B2D18` | ✅ |
+| **Fiona guerrera** (*Shrek para siempre*): cuero con remaches y ribete dorado | `Warrior_Fiona.jpg` 1921×3000 (H1-31) | `#453027` · `#7D5031` · ribete `#B99D30` | ✅ |
+| **Fiona de coronación** (*Shrek tercero*) | `Shrek_Fiona_crowning_outfits.jpeg` 3300×2200 (H1-23) | `#99725D` / `#76462D` / `#B16433`, mezclado con el fondo | ⚠️ hace falta un recorte sólo de tela |
+| **Fiona, vestido azul del baile** (*Shrek 2*) | `Fiona_human_2_pose_full.png` 1681×3300 (H1-34) | azul petróleo apagado `#2F4542` / `#536C6C` | ⚠️ una imagen, fondo oscuro |
+| **Fiona, gala verde azulada con cuello dorado** (postal de DreamWorks) | `Tumblr_b8561e307…1280.jpg` 1200×1200 | `#245152` · pliegues `#07110F` | ✅ |
+| **Burro** (no lleva ropa: su pelaje es su «traje»): gris con hocico claro y crin negra | `DonkeyTransparent.png` 1182×2864 (H3-1) | lomo `#917D6B` · gris medio `#6C5C4C` · crin y orejas `#40362E` · hocico `#B6A18D` | ✅ (cuadra con la wiki: «gray donkey with brown eyes and a black mane») |
+| **Gato con Botas**: naranja atigrado, sombrero y botas negros, pluma amarilla, capa negra | `PussInBootsTransparent.png` 1855×1800 (H3-5) | naranja `#A1662A` · crema de mejillas y pecho `#E4AF57` · capa y sombrero `#40332C` · botas `#0B0A09` | ✅ |
+
+**Peinado de Fiona.** Pelirroja. Suelta con **una trenza fina a un lado** en las apariciones de gala; **trenza gruesa** con la armadura de guerrera ✅ (3 imágenes). Corona dorada de puntas simples en la postal; tiara con gemas en otras escenas.
+
+**Descripción oficial del Gato** (wiki): «gato atigrado jengibre de ojos verdes»; pelaje naranja con rayas marrón rojizo en lomo, patas, cola y cabeza; crema en patas, vientre, hocico, barbilla y cejas ✅.
+
+**La ropa que todos reconocen** (para no dudar):
+- Shrek: **el chaleco marrón** sobre la túnica beige.
+- Fiona: **el vestido verde de viaje** (no el azul ni el morado, que son de arcos concretos).
+- Gato: **sombrero con pluma amarilla y botas**.
+- Burro: nada; su pelaje.
+
+**Trajes de arco** (vistos en las hojas): Shrek vestido de rey en rosa y morado (H2-59, H2-78) · Fiona humana en azul petróleo (H2-79) · Fiona de novia (1:16:56).
+
+**Regla que da la guía oficial:** al transformarse, Fiona **no cambia de vestido**; sólo cambian piel y pelo (punto 1).
+
+## Punto 16 · Ciudades, paisajes y fondos de pantalla
+
+**Los sitios, con su luz y su hora** (paletas completas en el punto 4)
+
+| Sitio | Qué es | Hora y luz | Dónde verlo |
+|---|---|---|---|
+| **El pantano de Shrek** | Su casa: cabaña, letrina, lodo, musgo colgante | De día, sombra verde oliva bajo los árboles (2:20); al atardecer, cálido `#E89F38`; de noche, fogata | 2:20 · 43:54 · H1-43, H1-45, H1-48 |
+| **Duloc** | Ciudad de Farquaad: casas blancas iguales, torres azules, simetría, parodia de Disneylandia con torniquetes y tienda de recuerdos | Día frío y gris (21:00); noche casi negra con antorchas (14:55) | H1-47 · [calle de Duloc, 1920×1080](https://static.wikia.nocookie.net/shrek/images/9/92/Shrek-easter-egg.jpg) |
+| **El castillo de la dragona** | Torre de Fiona sobre un lago de lava, puente colgante | Atardecer rojo y morado, fuego (30:03) | 30:03 · H2-69 |
+| **Muy Muy Lejano** (*Far Far Away*) | Reino de los padres de Fiona, parodia de Beverly Hills: palacio, alfombra roja | Día de piedra clara (*Shrek 2*, 40:00); fiesta de noche con faroles (1:21:43) | H2-65 · H1-36 |
+| **El prado del molino** | Pantano abierto con molino | Anochecer verde musgo | H2-51 |
+| **La playa de la luna de miel** | *Shrek 2* | Sol y mar azul | H1-3, H1-4 |
+
+**Fondos de pantalla en alta** (Wallhaven, sólo aptos; recolector + parte de imagen)
+- 3840×2160 · ♥ 184 · subido por *jrmnt*, origen [artstation.com/omorphia](https://www.artstation.com/omorphia) · [imagen](https://w.wallhaven.cc/full/8g/wallhaven-8gg3lo.jpg). Sus etiquetas no dicen «Shrek» (interior en CGI) ⚠️ comprobar antes de usar.
+- 2730×1536 · ♥ 59 · *Rynios* · el Gato con sombrero y espada · [imagen](https://w.wallhaven.cc/full/ex/wallhaven-exxomo.jpg).
+- 1920×1080 · ♥ 32 · *Bongic* · Shrek y Burro al atardecer · [imagen](https://w.wallhaven.cc/full/yx/wallhaven-yx56mg.jpg).
+- 1920×1080 · ♥ 27 · *Bongic* · fotograma de película · [imagen](https://w.wallhaven.cc/full/we/wallhaven-we69eq.jpg).
+- 3840×2160 · ♥ 21 · *RaidyHD* · humor, personajes · [imagen](https://w.wallhaven.cc/full/lm/wallhaven-lmmjvq.png).
+- 3398×2048 · ♥ 5 · *Russiaoniichan* · Shrek, Burro y la dragona · [imagen](https://w.wallhaven.cc/full/po/wallhaven-pom373.png).
+- 1920×1080 · *CallMeAce* · silueta minimalista con luna · [imagen](https://w.wallhaven.cc/full/83/wallhaven-83y11o.jpg) · y en verde · [imagen](https://w.wallhaven.cc/full/zm/wallhaven-zmerry.jpg).
+- Cruces: 3840×2160 pixel art con Mario, Thanos y Rick (origen [DeviantArt](https://www.deviantart.com/scepterdpinoy/art/Summer-Pixels-4k-Wallpaper-804134544)) · 1920×1080 con Gandalf, Gremlins y E.T. ([imagen](https://w.wallhaven.cc/full/4x/wallhaven-4xexlo.jpg)).
+
+**Fondos oficiales:** no hay un pack de fondos de DreamWorks en las partes. Lo más parecido son los renders panorámicos de la wiki de 4504×1914 (H1-5, H1-6) y 4170×2514 (H1-3, H1-4) ⚠️.
+
+## Punto 17 · Guía para generar con IA (imagen y texto)
+
+Hecha por el redactor con los datos de los puntos 1-16. Sirve para Firefly, Canva o cualquier IA de imagen, y para una IA de texto que escriba sus diálogos.
+
+### 17.1 IA de imagen
+
+**Lo que nunca cambia**
+- **Shrek:** ogro enorme y ancho (213 cm en su ficha ⚠️). Calvo. Orejas cortas en forma de tubo. Piel verde oliva **amarillenta** `#B8A933` con sombras `#7F7240`. Chaleco de cuero marrón muy oscuro `#392E20` sobre túnica beige `#C8C2AD`, cinturón, calzas ocres con vendas, botas oscuras. Sonrisa ancha (H1-2, H1-24).
+- **Burro:** burro gris con lomo `#917D6B`, hocico claro `#B6A18D`, crin y puntas de orejas negras `#40362E`, ojos marrones. **Sonrisa enorme de dientes grandes.** Sin ropa (H3-1).
+- **Fiona humana:** pelirroja con trenza (fina de gala, gruesa de guerrera), ojos azules. Vestido verde `#438D2E` con bordado dorado de enredadera y falda oscura `#1B2D18`. Tiara o corona dorada.
+- **Fiona ogra:** **el mismo vestido y el mismo pelo**, piel verde `#C6BE4D` / `#86844A`. Nunca cambiarle el vestido al transformarla.
+- **Gato con Botas:** gato atigrado naranja `#A1662A` con rayas marrón rojizo y crema `#E4AF57` en pecho, hocico y cejas. **Ojos verdes.** Sombrero negro de ala ancha con **pluma amarilla**, capa negra `#40332C`, botas negras `#0B0A09`, cinturón y espada fina (H3-5).
+
+**Estilo, luz y color**
+- **CG 3D semirrealista de cine**, estilo PDI/DreamWorks 2001-2010. **Sin contorno de tinta.** Sombreado suave, degradado, nunca plano.
+- **Piel con dispersión subsuperficial**: la luz atraviesa orejas y nariz a contraluz (punto 18).
+- **Luz que rebota**: las paredes verdes y la madera tiñen la piel (*bounce light*).
+- **Luz favorita:** atardecer cálido en el pantano (`#A07950`, `#E89F38`) o fuego de hoguera (`#5F483E`, `#BD9C83`). Para un sitio frío, Duloc: grises `#3F3D40` y cielo `#899FDE`.
+- Pelo y pelaje por **mechones finos**; telas con su brillo (satén en Fiona, lino áspero en Shrek).
+
+**Encuadres que salen en las películas** (de los fotogramas vistos, no de una entrevista)
+- **Miedo o amenaza**: primerísimo plano pegado a la cámara (Burro 35:03; Shrek (DM) 8:24).
+- **Conversación**: plano medio de dos (Shrek y Fiona 52:59).
+- **Viaje o épica**: plano general con figuras pequeñas al atardecer (tráiler 0:16; puente 30:03).
+- **Presentar el mundo**: la mano de Shrek sobre el libro llenando el cuadro (1:14).
+
+**Palabras que ayudan** (se pueden poner en inglés): `3D animated film still`, `DreamWorks style CGI`, `subsurface scattering skin`, `soft global illumination`, `warm sunset light`, `murky swamp`, `medieval fairy tale`, `wooden sign`, `parchment storybook`, `cinematic depth of field`. Para el Gato, las etiquetas de Danbooru del recolector: `orange_fur`, `green_eyes`, `cavalier_hat`, `hat_feather`, `black_cape`, `boots`, `holding_sword`. Para Fiona: `red_hair`, `braid`, `blue_eyes`, `green_dress`, `tiara`, `ogre`, `green_skin`.
+
+**Palabras que lo estropean:** `anime`, `manga`, `cel shading`, `lineart`, `outline`, `chibi`, `kawaii`, `flat colors`, `photorealistic` (demasiado real), `meme` o `Shrek Wazowski` (trae deformaciones de meme), `Disney princess` (la saga se burla de ese estilo). Si la IA no acepta el nombre del personaje, describir los rasgos de arriba.
+
+**Imágenes para darle como referencia**
+- Estilo general: H2-51 (grupo en el prado) y [Shrek_fierce.jpg](https://static.wikia.nocookie.net/shrek/images/8/87/Shrek_fierce.jpg).
+- Fiona: H1-1 ([patada](https://static.wikia.nocookie.net/shrek/images/5/51/Fiona_kick_alternate.jpg)), H1-26 (ogra), H1-31 (guerrera).
+- Burro y Gato: H3-1 y H3-5 (recortes sin fondo), H3-7 (guía con gestos).
+- Fondo: [pantano al atardecer](https://static.wikia.nocookie.net/shrek/images/b/b5/Shrek_wolf_swamp.jpg), [Duloc](https://static.wikia.nocookie.net/shrek/images/5/5f/Shrek_welcome_duloc_donkey.jpg), [palacio](https://static.wikia.nocookie.net/shrek/images/c/c5/Shrek_meets_Fiona%27s_parents_palace.jpg).
+- Poses: las del punto 14 según lo que diga el personaje.
+
+**Cómo se ven las emociones en Shrek** (no hay gotas de sudor, fondos de emoción ni *chibi*: es CG de cine)
+- **Burro:** orejas arriba = alegría (58:00); orejas caídas y mirada de reojo = sorpresa o timidez (37:57); pezuña en la boca = miedo (H3-4).
+- **Shrek:** ceño y dientes a la vista = enfado o acto de asustar ((DM) 8:24); cabeza atrás y boca abierta = risa (55:05).
+- **Fiona:** mano en el pecho y ojos cerrados = alegría, canto (49:56).
+- **Gato:** ojos enormes con pupilas dilatadas = súplica o manipulación (su «ataque» de ternura); espada en alto y cola erguida = reto (38:00).
+- **Jengi:** lágrimas de glaseado azul = miedo y pena ((DM) 13:24).
+- **Magia:** luz dorada que envuelve (1:19:50). **Peligro:** luz roja de fuego (30:03, 35:03).
+
+### 17.2 IA de texto: sus diálogos, en su voz
+
+**Cómo habla cada uno**
+- **Shrek:** frases cortas y **lentas**. Lógica aplastante con ejemplos caseros (la cebolla). Sarcasmo seco. Preguntas de maestro: «¿entiendes?». Grita poco, y cuando grita es una orden corta. Nada de palabras finas.
+- **Burro:** **atropellado.** Muchas exclamaciones y preguntas seguidas sin esperar respuesta. Repite palabras («Pregúntame, pregúntame»). **Diminutivos y modismos mexicanos** («pantitas», «cartitas», «animalitos de la creación», «solito», «tamales»). Onomatopeyas sueltas («¡bam!»). Se alaba solo y alaba a sus amigos.
+- **Fiona:** dos registros. Al principio, **castellano antiguo** de princesa («vos me habéis salvado»). Después, directa, segura, con humor.
+- **Gato con Botas:** teatral y caballeroso. Trata de «señor». Exagera la pena para salirse con la suya («¡Ay, mamá!», «¡Piedad!», «mi madre está enfermita»). Amenaza con un bufido: «HISSSS!» (guía oficial, H3-7). Acento español (Banderas), trato formal, aire de Zorro y de mosquetero.
+- **Jengi:** desafiante incluso torturado: se burla de Farquaad con «¿Tú conoces a Pin Pon?». Su muestra de audio está sin transcribir ⚠️.
+
+**Frases reales, ordenadas por emoción**
+- **Alegre** · Burro: «¡Qué increíble reacción en tal situación! ¡Fantástico! […] Pero llegaste así, ¡bam! ¡Pantitas para que las quiero!» ✅ (muestra de Doblaje Wiki)
+- **Enfadado** · Shrek: «¡Fuera de mi pantano!» ⚠️ (sin audio en las partes) · Gato, guía oficial en inglés: «Ha! Fear me… if you DARE! HISSSS!» ✅
+- **Explicando** · Shrek: «¡No! ¡Capas! Los ogros tenemos capas, las cebollas las tienen, ¿entiendes? Ambos tenemos capas.» ✅ · Fiona: «De día soy una, pero de noche otra.» ✅
+- **Animando** · Burro: «Pregúntame, pregúntame» ✅ · Burro cantando: «Al camino voy» ⚠️ · Jengi al final: «Les deseo suerte a todos» ⚠️
+- **Triste o suplicando** · Gato: «¡Ay, mamá! ¡No, por favor! ¡Piedad! ¡Oh, lo suplico!» ✅ (pena **fingida**) · Perrito: «Sólo he tenido una vida, pero compartirla contigo y con Kitty la hizo especial. Quizás… una vida… sea suficiente» ⚠️ (de su ficha; no se comprobó en el doblaje) · meme: «Porque 'toy solito» ⚠️
+- **Burla** · Jengi a Farquaad: «¿Tú conoces a Pin Pon?» ✅ (Doblaje Wiki)
+
+**Vocabulario de la saga** para que suene a Shrek: pantano, ogro, capas, cebolla, Muy Muy Lejano, Duloc, el Hada Madrina, «final feliz», el Espejo Mágico, el beso de amor verdadero, «Había una vez…», Dronkeys.
+
+**Cuidado:** no copiar frases del doblaje de España; no poner a Burro a hablar despacio ni a Shrek a hablar rápido; no hacer al Gato sólo gracioso si el tema es serio (punto 12).
+
+## Punto 18 · Estilo y técnica: cómo replicarlo
+
+**Lo primero:** Shrek es **CG semirrealista, no toon-shading**. No lleva contorno de tinta. Eso cambia la receta de Photoshop y Blender frente a las biblias de anime.
+
+**Cómo se hizo** (parte de texto)
+- **Estudio:** PDI (Pacific Data Images), dentro de DreamWorks Animation. Software **propio** más **Maya** para la ropa simulada y, en *Shrek*, el pelo de Fiona y de Farquaad ✅ ([Linux Journal](https://www.linuxjournal.com/article/9653) + [AWN](https://www.awn.com/animationworld/whats-new-shrek-2)).
+- **Piel con dispersión subsuperficial (SSS):** Juan Buhler, de PDI, hizo un *shader* SSS más rápido, presentado en SIGGRAPH y usado en *Shrek 2*. Suaviza nariz y orejas para que la luz las atraviese a contraluz ✅.
+- **Luz que rebota:** el 80% de los planos de *Shrek 2* usa iluminación global. Ken Bielenberg, supervisor de efectos: *«If light bounces off a yellow wall, it bounces back yellow»* ✅ (AWN).
+- **Pelo y tela:** *shader* de pelo más fino en *Shrek 2* (interpola entre mechones vecinos); tela ajustable a algodón, satén o seda según los hilos ✅.
+- **Fluidos:** el sistema de *Antz* (1998), con Óscar técnico para Nick Foster: fuego, agua, salpicaduras ✅.
+- **Render:** unos 5 millones de horas de CPU para *Shrek* en granjas Linux ⚠️ (una fuente).
+- **Del sombreado, medido:** en el pantano (2:20) el color es **degradado pintado, no plano** ✅ (`estilo.py`).
+
+**Cómo reproducirlo en Blender**
+- **Piel:** Principled BSDF con **Subsurface** subido y radio cálido (rojo y naranja). Que se note en orejas y nariz a contraluz.
+- **Luz:** **Cycles**, no Eevee plano. Paredes de color saturado (verde del pantano, madera) para que tiñan la piel por rebote.
+- **Ropa:** *Cloth simulation*. Rugosidad por prenda: vestido de Fiona en satén con rugosidad baja y brillo; túnica de Shrek en lino con rugosidad alta.
+- **Pelo:** *Hair Curves* con *clumping* e interpolación (orejas de Burro, trenza de Fiona, pelaje del Gato).
+- **Barro y agua:** Mantaflow.
+- **Contorno:** **no usar** Line Art, Freestyle ni Solidify. Sólo para imitar los cómics oficiales o el libro de Steig, que sí llevan tinta.
+- **Modelos:** los de Sketchfab del punto 3 (CC BY, citando al que los subió). El «Shrek Walk Cycle» ya viene animado.
+- **Texturas encima:** ambientCG CC0 (punto 4).
+
+**Cómo reproducirlo en Photoshop**
+- Para lo que es 2D «de cuento» (la página del libro, la cabecera del periódico): pinceles de **acuarela y textura de papel** sobre una capa de pergamino (Paper001), no pincel de tinta dura.
+- Para un cartel tipo póster o el letrero: degradados más un **grano fotográfico ligero**, que imita lo impreso y la madera pintada.
+- Recortes de personajes: por `v3/integrar.py` (regla 3 del dueño), sin halo.
+
+**Encuadres y composición**
+- Responsable de *layout* de *Shrek*: **Simon J. Smith**, que montó el departamento de Layout y Previz de PDI ✅.
+- El director **Andrew Adamson**: la meta era «deconstruir la idea de cuento de hadas y reconstruirla como uno nuevo»; *Shrek* se hizo «como en el garaje de DreamWorks», un proyecto experimental ✅. Eso explica el tono irreverente.
+- **No encontré una entrevista que diga qué plano se usa para cada emoción** ❌. Lo que sí se ve en los fotogramas está en 17.1 (primerísimo plano para el miedo, plano general al atardecer para el viaje).
+
+## Punto 19 · Texturas 2D
+
+Shrek es 3D, no manga: no hay tramas. Aquí «textura 2D» son **las superficies pintadas del mundo**: pergamino, bordados, emblemas, letreros.
+
+- **Las páginas del libro de cuentos.** Pintadas a mano como manuscrito iluminado, capitular decorada, ilustraciones de cuento clásico distintas del render 3D. Vistas en el fotograma de 0:58 ✅. La parte de imagen cita además páginas sueltas (n.º 174 y 193-195 de hojas automáticas que ya no están) ⚠️. **Equivalente libre:** papel con grano [Paper001](https://ambientcg.com/a/Paper001) (y Paper003, 005, 006), CC0.
+- **El bordado dorado del vestido de Fiona.** Enredaderas y hojas doradas sobre el verde del corpiño (H1-1). **No encontré** un pack de pinceles CC0 de bordado medieval: sólo de pago en Etsy y Creative Market ⚠️. Alternativa: dibujarlo a mano con un pincel de grabado; es un motivo simple que se repite.
+- **El cuero del chaleco de Shrek.** Cuero gastado de grano irregular. **Equivalente:** [Leather037](https://ambientcg.com/a/Leather037), CC0 ✅.
+- **La pintura del letrero de madera.** Rojo goteante sobre tabla («BEWARE — OGRE», punto 6). Base: [Wood095](https://ambientcg.com/view?id=Wood095); la pintura, a mano.
+- **El papel del cartel de «WANTED»** de Fiona (H2-75) y el **pergamino con rodillos** del *Far Far Away Times* (punto 6): Paper001 más bordes quemados a mano.
+- **La corona del rey de Muy Muy Lejano**, con ficha propia: [726×726](https://static.wikia.nocookie.net/shrek/images/3/3d/Crown_of_the_King_of_Far_Far_Away.jpeg) ✅.
+- **El logo de Duloc.** Las torres repetidas del arco y las banderas **no tienen ficha de imagen propia** en la wiki (búsquedas «Duloc logo», «Duloc flag», «Duloc coat of arms» con `srwhat=text`) ⚠️. Lo más cercano: los fotogramas de la ciudad (H1-47, 21:00).
+- **El logo «SHREK»** (letras verdes con textura de piel de ogro): ver punto 5.
+- **Pinceladas y tramas del estudio:** no hay artbook que hable de ellas. Era de esperar: la película es 3D con software propio; sólo el libro de apertura es pintura 2D. **No aplica igual** que en anime.
+
+**Las tres capas, juntas:** 3D (modelos del punto 3) + texturas reales CC0 (punto 4) + estas superficies pintadas. No falta ninguna.
+

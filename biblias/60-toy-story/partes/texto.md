@@ -37,7 +37,7 @@ consultas) y sigue desde ahí.
   trazo grueso, tipo placa de nave/traje espacial** (estética Apollo/NASA) — sirve de
   referencia para la «interfaz de juego» y los carteles de Star Command (punto 25).
   Letra libre parecida: **Orbitron** o **Michroma** (Google Fonts, geométricas,
-  «espaciales»); ⚠️ no comprobadas con fontTools todavía (sigue).
+  «espaciales»); las dos comprobadas con fontTools, con tildes, ñ, ¿ y ¡ ✅.
 - **Caja de Buzz Lightyear** (`buzzbox2.jpg`, foto de producto, Online Toys Australia):
   badges de venta («PULL ARM BACK!», «POWER PUNCH!», «50+ PHRASES & SOUNDS») en
   **mayúsculas gruesas, condensadas, con borde negro**, sobre estallidos/etiquetas
@@ -130,6 +130,16 @@ capturas en total.
 - Todas las fichas de Steam listan **español (España e Hispanoamérica en el caso
   de Retro Roundup)** entre los idiomas con voces/texto — dato de la propia ficha
   de Steam (`datos-texto.md`) ✅.
+- Dos capturas más miradas (`contacto_menus.jpg`) confirman el patrón de **contador
+  en píldora dorada** también para monedas/objetos («2160» con icono de moneda,
+  «578» con icono de estrella, arriba a la derecha) y muestran un **letrero de
+  tienda pintado a mano** (una jarra azul sobre tabla de madera gris, en el pueblo
+  del Oeste) — sirve de referencia de letra/rótulo de «cartel del mundo» (punto 5).
+  La segunda captura de Retro Roundup esta vez es un **juego 3D de PS1** (no
+  píxel-art) dentro del mismo marco de TV vieja, con Buzz en un almacén de cajas y
+  una barra de vida rectangular dorada — confirma que la colección mezcla juegos
+  2D y 3D de distintas consolas, coherente con las fichas de TCRF (NES, SNES,
+  Genesis, Game Boy, PlayStation).
 
 ## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
 
@@ -354,17 +364,14 @@ wikitext de cada página, dos o más apariciones en la franquicia) ✅:
   Online Toys Australia, foto de producto usada sólo como referencia de
   tipografía/color, no como arte oficial).
 - **Fuentes libres comprobadas con fontTools** (script propio, `getBestCmap()`,
-  4 archivos `.woff2` de Fontsource bajados y abiertos): Baloo 2, Fredoka, Rammetto
-  One, Luckiest Guy — los 4 con á é í ó ú ñ Ñ ¿ ¡ ü confirmados.
+  6 archivos `.woff2` de Fontsource bajados y abiertos): Baloo 2, Fredoka, Rammetto
+  One, Luckiest Guy, Orbitron, Michroma — las 6 con á é í ó ú ñ Ñ ¿ ¡ ü confirmados.
 - **Sketchfab** (`api.sketchfab.com/v3/search`, `downloadable=true`): «Woody Toy
   Story rigged» y «Buzz Lightyear rig», 7 y 8 resultados respectivamente, todos CC
   Attribution.
 - **Steam** (`store.steampowered.com/api/appdetails`, `l=spanish`): descripciones
   cortas de los 3 juegos de `datos-texto.md`, para confirmar qué es cada uno
   (remaster narrativo, colección retro, juego de 2010).
-
-Sigue: recortar/medir el panel de pecho de Buzz con fontTools contra Orbitron/
-Michroma (letra de interfaz espacial, punto 5); buscar una fuente accesible con
-subtítulos oficiales en español (Disney+) para el tipo de letra exacto; si hay
-tiempo, un segundo intento a los cómics BOOM! Studios por otra vía (p. ej. Google
-Books) para el punto 6.
+- **Google Books** (`googleapis.com/books/v1/volumes`): sin cuota disponible desde
+  este servidor (`RESOURCE_EXHAUSTED`) al intentar buscar el manga con su ISBN;
+  no se insistió más.
