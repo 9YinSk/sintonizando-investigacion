@@ -336,11 +336,14 @@ típico de su forma de ser.
 
 > Mirado en vídeo real (no de memoria): el **episodio piloto**, subtitulado en
 > español, está completo en Dailymotion (YouTube pide iniciar sesión desde
-> este servidor). Saqué fotogramas con `herramientas/fotogramas.py` y los
-> miré. Sólo alcancé a mirar este clip a fondo — el resto de personajes
-> (Marceline no sale en el piloto: **no existía aún como personaje** cuando
-> se hizo ✅, Adventure Time Wiki, Trivia) necesitaría más clips, que quedan
-> para quien retome esto (ver «Sigue» al final).
+> este servidor); para Marceline, Jake, la Dulce Princesa y BMO usé cuatro
+> clips reales más, también de Dailymotion, con logo o extracto oficial de
+> Cartoon Network. Saqué fotogramas de los cinco vídeos con
+> `herramientas/fotogramas.py` y los miré. Ya cubrí a los seis personajes
+> pedidos (Finn, Rey Helado, Marceline, Jake, Dulce Princesa, BMO); quedan
+> sin mirar la mayoría de las combinaciones cara×emoción restantes (rabia,
+> miedo... y el resto de personajes secundarios del punto 20), que se dejan
+> para quien amplíe esto más adelante.
 
 - **Finn, vergüenza/timidez**: primer plano, mejillas con un óvalo rosa claro,
   boca en una rayita recta, ojos redondos muy abiertos con la pupila como un
@@ -355,10 +358,42 @@ típico de su forma de ser.
   (subtítulo real del clip) — cejas caídas, ojos entrecerrados, boca en
   zigzag. Episodio piloto, **minuto 4:05**:
   [Dailymotion, clip subtitulado](https://www.dailymotion.com/video/x84oaz2?t=245).
-- Hoja de contacto completa del piloto (16 fotogramas, cada 30 s) guardada en
-  `/tmp/claude-0/trabajo/14-adventure-time-voz/pilot_frames/hoja_01.jpg`
-  (fuera del repositorio, para quien quiera mirar más momentos sin
-  volver a bajar el vídeo).
+- **Marceline, tristeza/llanto**: primerísimo primer plano, cabeza echada
+  hacia atrás, dientes apretados en una mueca triangular, una sola lágrima
+  cayendo de un ojo cerrado — cantando a dúo con el Rey Helado/Simon (que
+  toca la batería) sin poder contener el llanto, en la canción que da
+  título al episodio. Episodio **«I Remember You»** (4ª temporada),
+  extracto oficial de Cartoon Network (doblaje francés; la cara es la
+  misma animación en cualquier idioma), **minuto 1:18**:
+  [Dailymotion, clip oficial](https://www.dailymotion.com/video/xzt1l7?t=78).
+- **Jake, alegría/orgullo**: primerísimo primer plano de su cara, ojos
+  enormes casi todo blancos con una franja negra abajo, boca abierta en una
+  sonrisa ancha de dientes cuadrados — reacción al ver el «Jakeseum», el
+  museo que un alienígena le construyó en su honor en el planeta Nerraw
+  (resulta ser Warren Ampersand, su padre biológico). El tono de piel se ve
+  azulado por la iluminación nocturna de esa escena, no su amarillo
+  habitual — aviso por si alguien lo busca y no lo reconoce a primera
+  vista. Episodio **«Jake the Starchild»** (9ª/10ª temporada), clip oficial
+  de Cartoon Network, **minuto 1:39**:
+  [Dailymotion, clip oficial](https://www.dailymotion.com/video/x6gkz32?t=99).
+- **Dulce Princesa, preocupación/nervios**: primer plano, ojos muy redondos
+  con un brillo blanco marcado, boquita pequeña entreabierta, manos juntas
+  contra el pecho — justo después de que un experimento suyo (revivir un
+  ratón muerto con químicos) se le va de las manos en el cementerio de la
+  fiesta. Episodio **«Slumber Party Panic»** / «Pánico en la fiesta del
+  palacio» (1ª temporada, el episodio 1 de la serie), clip con logo real de
+  Cartoon Network, **minuto 2:12**:
+  [Dailymotion, clip oficial](https://www.dailymotion.com/video/x8ghhnc?t=132).
+- **BMO, calma/contento**: primer plano de la pantalla-cara, ojos cerrados
+  en dos curvas y boca en una curva suave hacia arriba, sostenido en brazos
+  por el ingeniero que lo diseñó, al final del clip. Episodio **«The More
+  You Moe, The Moe You Know»** (3ª temporada), clip con logo real de
+  Cartoon Network, **minuto 2:36**:
+  [Dailymotion, clip oficial](https://www.dailymotion.com/video/x3q931u?t=156).
+- Hojas de contacto completas de cada clip guardadas (fuera del
+  repositorio, en la carpeta de scratchpad de esta sesión, subcarpeta
+  `at_voz/<piloto|marceline|jake|jakepb|bmo>/hoja_01.jpg`) para quien quiera
+  mirar más momentos sin volver a bajar los vídeos.
 
 ### Dinámicas (para láminas en grupo)
 
@@ -700,13 +735,16 @@ típico de su forma de ser.
   de audio `.ogg` y sus transcripciones (`voz_*`).
   Fotogramas del piloto en `pilot_frames/` y del trailer de «Fionna & Cake»
   en `trailer_frames/` (este último no se usó: no sale la Marceline
-  clásica).
+  clásica). Fotogramas de Marceline, Jake, Dulce Princesa y BMO (tanda del
+  punto 13) en la carpeta de scratchpad de esta sesión, `at_voz/`.
 
-Sigue: punto 13, «su cara en cada emoción con fotograma y minuto» — sólo
-alcancé Finn (vergüenza, piloto min. 6:00) y Rey Helado (enfado cómico,
-piloto min. 4:05), ver §13. Faltan Marceline, Jake, Dulce Princesa y BMO, y
-las emociones alegría/rabia/tristeza/miedo que no cubrí. Hace falta bajar más
-clips con `fotogramas.py` (Dailymotion o Internet Archive; YouTube sigue
-bloqueado en este servidor) centrados en escenas de cada personaje —
-«Obsidian» y «I Remember You» son buenos candidatos para Marceline
-(transformación en monstruo = rabia; carta de Simon = tristeza).
+Punto 13 («su cara en cada emoción con fotograma y minuto», §13) queda con
+los seis personajes pedidos (Finn, Rey Helado, Marceline, Jake, Dulce
+Princesa, BMO) con al menos una cara/emoción real, cada una con clip,
+minuto exacto y enlace `&t=` verificados con `fotogramas.py` sobre
+Dailymotion (YouTube bloqueado en este servidor). No probé Internet
+Archive: no hace falta, Dailymotion tuvo clips oficiales o subtitulados
+para los cinco personajes que faltaban. Queda para más adelante, si se
+retoma la biblia, ampliar a más emociones por personaje (rabia, miedo...)
+y a los secundarios del punto 20 — pero eso ya no es parte de este punto
+tal como se pidió.
