@@ -483,3 +483,289 @@ CC0): **33 §5.4**. Las del paisaje (hierba, corteza, piedra con musgo,
 hielo; ambientCG, CC0): **Punto 19**. Sitios reales fotografiables que se
 parecen al mundo (Yufuin, el campo de nemófilas de Hitachi…): **Punto 18**.
 
+## Punto 5 · Tipografía de la memoria
+
+El logo (Ryūmin estirada, teal, textura de lápida), las letras libres por
+uso y los globos del manga están en **33 §6**. Aquí, las letras para **lo
+que se graba, se escribe a mano o se marca en un mapa**.
+
+### 5.1 Tres letras libres nuevas (comprobadas con fontTools)
+
+La parte de texto bajó cada archivo de `fonts.gstatic.com` y miró su tabla
+de caracteres (`TTFont(f).getBestCmap()`): **las tres traen á é í ó ú Á É
+Í Ó Ú ñ Ñ ¿ ¡ ü** ✅.
+
+| Letra | Licencia | Para qué | Por qué |
+|---|---|---|---|
+| **Kaisei Tokumin** (700/800) | OFL 1.1 · [Google Fonts](https://fonts.google.com/specimen/Kaisei+Tokumin) · [Fontsource](https://fontsource.org/fonts/kaisei-tokumin) | **placa de una estatua, lápida, título grabado** | mincho extra grueso («Tokudai Mincho»), de Font-Kai (金井和夫). ⚠️ Ninguna fuente dice que imite piedra: se elige por peso y aire antiguo |
+| **Zen Antique** | OFL 1.1 · [Google Fonts](https://fonts.google.com/specimen/Zen+Antique) | **título de mapa, letrero viejo** | pensada como «japonés antiguo», de antes de la guerra |
+| **Shippori Antique** | OFL 1.1 · [Fontsource](https://fontsource.org/fonts/shippori-antique) | **diario, carta envejecida** | mincho suave y gastado |
+
+### 5.2 Una letra para cada uso (lo nuevo y lo que remite a 33)
+
+| Uso | Letra | De dónde |
+|---|---|---|
+| **Logo o título** | Zen Old Mincho o Shippori Mincho en mayúsculas espaciadas; para un título grabado, **Kaisei Tokumin** | 33 §6.2 · aquí §5.1 |
+| **«Globo» normal** (la cartela del tráiler) | **Shippori Mincho** Regular, gris `#606A73`, espaciado ancho | 33 §6.2 y §7.1 |
+| **Grito** | **no hay**: en Frieren nadie grita en calma; no usar letra de cómic | 33 §7.5 |
+| **Pensamiento / recuerdo** | **nada** (silencio, Punto 6) o **Klee One** a mano si hace falta | 33 §6.2 · aquí Punto 6 |
+| **Onomatopeya** | no hay una lista propia de la serie ⚠️; en una lámina tranquila, ninguna | 33 §18.7 |
+| **Cartel del mundo** (placa, letrero, mapa) | **Kaisei Tokumin** (grabado), **Zen Antique** (letrero viejo) | aquí §5.1 |
+| **Diario o carta** | **Shippori Antique** o **Klee One** | aquí §5.1 · 33 §6.2 |
+| **Interfaz de juego** | no hay juego propio (Punto 11) | — |
+| **Subtítulos y créditos** | subtítulo de Crunchyroll: palo seco blanca con borde oscuro; rótulo de canción: serif pequeña abajo a la derecha | 33 §7.1 (D, E) |
+
+### 5.3 Los números en círculo del mapa oficial
+
+- La web oficial tiene **«旅の軌跡を辿る地図»** («el mapa que traza las
+  huellas del viaje»): numera **los 28 episodios de la T1 con números en
+  círculo** (①-㉘) junto a su título, **como paradas de un mapa** ·
+  [frieren-anime.jp/special/map/](https://frieren-anime.jp/special/map/) ✅
+  (texto leído con `navegar.py`; ⚠️ el dibujo del mapa no cargó: Cloudflare
+  y JS, dos investigadores, dos vías).
+- Para la lámina: el número en círculo es **un pin de recuerdo**. En latín
+  sirven **①②③…** del bloque Unicode «Enclosed Alphanumerics» ⚠️ no
+  comprobé qué letras libres lo traen: probarlo con fontTools antes de
+  usarlo (si no, dibujar el círculo a mano).
+
+### 5.4 La letra del avance de episodio (sin confirmar)
+
+- Un usuario de [Yahoo!知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14289239084)
+  cree («おそらく», «probablemente») que el rótulo del **次回予告** es
+  **文游明朝体 勇壮かな** (Bungyū Mincho, kana «Yūsō», de pago). La
+  [ficha de Morisawa](https://www.morisawa.co.jp/fonts/specimen/6593) la
+  describe como pensada para **«no ficción e historia»**, de trazo óseo y
+  tenso ⚠️ una sola fuente para su uso en Frieren. Equivalente libre: **Zen
+  Old Mincho** (33 §6.2).
+
+## Punto 6 · Cómo habla la memoria en pantalla (sin globo)
+
+**Lo que ya se sabe** (33 §7): Frieren **no tiene globo**. Habla con
+**cartelas de tráiler** (blanco que se funde a cian, mincho gris pizarra
+`#606A73`, sin marco ni pico), títulos en negro con mincho blanca y libros.
+Frieren **no dice lo que siente**: se ve un **recuerdo de Himmel en luz
+dorada** y suena una frase de él (T1-27, 19:46). Eso sigue valiendo para
+textos cortos. Lo nuevo es **cómo habla la memoria**.
+
+### 6.1 El objeto: la autobiografía de Himmel (T2-37)
+
+- **Qué pasa**: en el lago Korridor el grupo no tiene dinero para el
+  barquero; el precio del pasaje es encontrar **«la autobiografía de
+  Himmel»** (「ヒンメルの自伝」), escondida en **el monasterio de una isla**. La
+  encuentran **junto a una estatua de Himmel**: está escrita **con su propia
+  letra** y cuenta el viaje **desde su punto de vista**, con los días
+  normales del camino · [frieren-anime.jp, sinopsis oficial del ep. 37](https://frieren-anime.jp/story/2nd/ep37/)
+  (emitido el 20-mar-2026; guion Tomohiro Suzuki, storyboard y dirección
+  Yōhei Tsuchiya, dirección de animación Runa Harano) ✅.
+- **Las últimas páginas están en blanco, y Frieren las pasa igual, como si
+  buscara que siguiera**: «ヒンメルの自伝は最後の方が空白ページになっていて、フリーレン
+  は続きを求めるように白いページをめくる» ·
+  [note.com/sakuraigo](https://note.com/sakuraigo/n/n179c6ef7e84e) (21-mar-2026)
+  ✅ (el mismo episodio y el mismo fondo, en
+  [dogadaijobu2025.com](https://dogadaijobu2025.com/archives/8036)). El
+  bloguero lo resume: «quizá la tristeza es como pasar páginas en blanco:
+  termina de golpe, pero seguimos buscando la continuación».
+- **El sitio**: la **biblioteca circular del monasterio**, con **un rayo de
+  luz cenital** sobre la estatua (`paisajes_01` n.º **36**; paleta medida en
+  33 §5.2: azul noche `#1E2B3D` `#375472` `#517595`, luz `#E6F4ED` `#BDDBD2`).
+  La iglesia del mismo monasterio tiene **hierba creciendo entre los
+  bancos** (n.º **33**).
+- **Minuto**: 33 §2 lo sitúa en **T2-37, 15:47** (subtítulos de la emisión).
+
+### 6.2 El silencio también es cuadro de diálogo
+
+- Un ensayo sobre estética japonesa en Frieren (Beatrix Kondo,
+  [Unwinnable, 16-mar-2026](https://unwinnable.com/2026/03/16/the-aesthetics-of-impermanence-how-frieren-visualizes-untranslatable-japanese-philosophy/))
+  describe cómo la serie **evita el monólogo** para el duelo: cuando Frieren
+  **no logra recordar la cara de Himmel, se queda quieta, sin explicarlo**.
+  El **yohaku** (余白, el espacio en blanco a propósito) hace el trabajo del
+  texto ⚠️ un solo artículo, sin minuto de esa escena; pero coincide con las
+  páginas en blanco (arriba) y con la regla de pose de espaldas (Punto 14).
+- **Para una escena de memoria, el mejor texto puede ser ninguno**: una
+  página en blanco, una placa sin leer, un hueco en el cuadro.
+
+### 6.3 Cómo se traduce a una lámina fija (memoria)
+
+1. **La información va escrita en un objeto del sitio**: la **placa de la
+   estatua** (grabada, Kaisei Tokumin), las **páginas del libro** (a mano,
+   Shippori Antique o Klee One), las **etiquetas de un mapa** (números en
+   círculo).
+2. **Deja un hueco**: una página en blanco o un tramo de cielo vacío es
+   parte del mensaje, no un fallo de maquetación.
+3. **Si alguien «habla»**, usa la cartela de 33 §7.4 (blanco que se funde a
+   cian, sin pico), **al lado** del personaje y con una sola frase.
+4. **Si habla un recuerdo** (Himmel), va en **capa translúcida verde-dorada**
+   o en **luz dorada**, nunca sólido (Punto 2, Flamme en Aureole).
+5. **Nada de burbuja blanca con pico**, nada de «¡¡!!», nada de emojis
+   dentro de la lámina (33 §7.5).
+
+## Punto 7 · ¿Quién es el más querido?
+
+Las tres encuestas oficiales con su top 10 y el recuento de un voto por
+persona están en **33 §9**. Lo que añade esta biblia:
+
+- **2.ª encuesta oficial** (Shōnen Sunday, votación 1-24 mar-2024,
+  resultados en el n.º 22-23/2024): **12.688.733 votos** en total ·
+  [Anime Corner](https://animecorner.me/frieren-beyond-journeys-end-reveals-new-character-ranking-poll-with-massive-12-6-million-votes/)
+  ✅ (mismas cifras en [IMDb News](https://www.imdb.com/news/ni64504979/) y
+  [Animehunch](https://animehunch.com/frieren-beyond-journeys-end-popularity-poll-results-aura-the-guillotine-outranks-frieren/)).
+  - **1.º Himmel**, 1.239.533 votos: **gana dos veces seguidas**.
+  - **2.ª Aura la Guillotina**, más de 1.045.369, subiendo desde el 10.º. Su
+    actriz, **Ayana Taketatsu**, se sorprendió: «¿Es que todos están
+    hechizados?» · [ORICON NEWS](https://us.oricon-group.com/news/73/) ✅.
+  - **5.ª Frieren** (bajó del 2.º puesto de la 1.ª).
+- **3.ª encuesta**, corte intermedio del 21-mar-2026: **Aura baja al 6.º**
+  · [ABEMA Times](https://times.abema.tv/en/articles/-/10233980) ⚠️ una
+  fuente (el resultado final, con **Genau 1.º y Himmel 2.º**, está en 33 §9).
+- **Favoritos y dibujos** (recolector): en [AniList](https://anilist.co/anime/154587)
+  Frieren 22.531, Fern 8.681, Stark 5.988, Himmel 4.646; en Danbooru,
+  Frieren 16.294, Fern 9.766, Stark 2.884, Himmel 2.366. **El orden
+  internacional es Frieren > Fern > Stark > Himmel, al revés que la
+  encuesta japonesa**.
+
+**Qué sale de aquí para «paisajes y memoria»**: el héroe **muerto en el
+episodio 1** gana la encuesta oficial dos veces. Es la prueba más clara de
+lo que el dueño sospecha («quizá un secundario es más querido»). Himmel
+**sólo puede salir en recuerdo, estatua o silueta**: justo lo que pide este
+encargo. **Frieren** es la protagonista y la más dibujada: va en todas las
+láminas, pequeña y de espaldas si es de memoria.
+
+## Punto 8 · Doblaje latino
+
+**El reparto y la producción completos, con dos fuentes por nombre, y 13
+frases textuales con clip y minuto, están en 33 §10.** La parte de voz lo
+volvió a comprobar por su cuenta en la API de Doblaje Wiki con el **título
+latino correcto**, «*Frieren: Más allá del final del viaje*» (el
+recolector falló porque probó el inglés) ·
+[Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Frieren:_M%C3%A1s_all%C3%A1_del_final_del_viaje)
++ AniList: coinciden los cuatro principales ✅.
+
+| Personaje | Seiyū | Voz latina |
+|---|---|---|
+| **Frieren** | Atsumi Tanezaki | **Erika Ugalde** ✅ |
+| **Fern** | Kana Ichinose | **Azucena Estrada** ✅ |
+| **Stark** | Chiaki Kobayashi (niño: Arisa Kiyoto) | **Eduardo Martínez** ✅ |
+| **Himmel** | Nobuhiko Okamoto | **Miguel Ángel Leal** ✅ |
+| Heiter · Eisen · Flamme | Hiroki Tōchi · Yōji Ueda · Atsuko Tanaka | Carlo Vázquez · Raúl Solo · **Alexandra Vicencio** ✅ |
+| Serie · Sein (adulto / niño) | Mariya Ise · Yūichi Nakamura / Natsumi Kawaida | Monserrat Mendoza · Mauricio Pérez / Alex Villamar ✅ |
+
+Estudio **VSI México**, dirección **Raúl Estrada**, traducción y adaptación
+**Arturo Moreno**, sobre guiones de **Crunchyroll** ✅ (wikitext oficial;
+igual que 33 §10.1).
+
+### 8.1 Las frases del doblaje que son memoria (de 33 §10.4, con minuto)
+
+| Quién | Frase (doblaje latino) | Clip y minuto |
+|---|---|---|
+| Himmel | «La lluvia de meteoros de Era pasa una vez cada 50 años.» | [3XUKmqUDEZc 0:08](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=8) |
+| **Frieren** | «**Sé de un lugar donde la lluvia de meteoros se puede ver más clara.**» | [3XUKmqUDEZc 0:32](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=32) |
+| Frieren (funeral) | «Viajamos juntos sólo por 10 años.» | [wDWOKITcRzg 0:22](https://www.youtube.com/watch?v=wDWOKITcRzg&t=22) |
+| **Himmel** | «Es porque quiero que todos nos recuerden… Pero hay una razón más: esto es para que no te sientas sola cuando estés en un [futuro] lejano.» ⚠️ la palabra entre corchetes no se oye | [K8XwKilGTg0 0:13](https://www.youtube.com/watch?v=K8XwKilGTg0&t=13) |
+| Frieren → Himmel | «Himmel, tú siempre pides que te hagan estatuas.» | [K8XwKilGTg0 0:07](https://www.youtube.com/watch?v=K8XwKilGTg0&t=7) |
+
+La de Frieren es **la promesa de volver a un sitio** («sé de un lugar»);
+la de Himmel explica **por qué hay estatuas** (concepto A). Las dos, del
+canal oficial **Crunchyroll en Español** (33 §10.4).
+
+### 8.2 Dos clips oficiales nuevos (sin transcribir)
+
+Encontrados en el canal oficial **Crunchyroll en Español** y confirmados
+por oEmbed (título y canal): [«Patitas para que las quiero»](https://www.youtube.com/watch?v=zP5D8_cJFuQ)
+y [«¿Batallas épicas?, Frieren las tiene»](https://www.youtube.com/watch?v=j1-6bsi5K6o).
+⚠️ **No hay frase textual**: YouTube pidió iniciar sesión y no están en
+Dailymotion. No se inventa ninguna.
+
+**Pendiente de 33, sigue igual**: cómo dice el doblaje latino «Himmel lo
+habría hecho». No usarla como frase del doblaje hasta oírla (DECISIONES.md,
+«Oír o ver en persona»).
+
+## Punto 9 · Música: la nostalgia hecha instrumento
+
+Los openings y endings **mirados plano a plano** (YOASOBI, Yorushika,
+milet, Mrs. GREEN APPLE) están en **33 §11.1**. Aquí, **qué busca el
+compositor** y qué suena en las escenas de memoria.
+
+### 9.1 Evan Call, en sus palabras
+
+- **El tono de todo el mundo de la serie**: «traté de mantener el mismo
+  sentimiento en todo el mundo. **Una sensación de nostalgia, una sensación
+  de melancolía, pero no siempre melancólica.** También era alegre, feliz,
+  sólo una sensación agradable en general» ·
+  [Anitrendz, jul-2025 (Anime Expo)](https://www.anitrendz.com/news/2025/07/10/frieren-interview) ✅.
+- **Los instrumentos** · [Epicstream](https://epicstream.com/article/frieren-evan-call-interview-soundtrack)
+  ✅ (leída entera):
+  - **tin whistle** (contrató a un intérprete profesional) y **flauta
+    dulce**: separan «una sensación antigua» de «una sensación emotiva,
+    alegre, folk»;
+  - **shvi** y **tagelharpa** de fondo, «para dar un color, una sensación de
+    **mundo antiguo**»;
+  - **vielle** (viola medieval) y **violín solista**.
+  - «Usé esos instrumentos distintos para dar forma a **una paleta de color
+    única** para la serie».
+- **«One Last Adventure»** suena cuando Himmel y el grupo salen a ver **la
+  lluvia de meteoros por última vez** (misma entrevista) ✅: la escena de
+  T1-01, 06:19-06:46 y 11:47-12:59 (33 §2). Es una de sus favoritas.
+- **Compone «por menú»**: una pieza **por sentimiento**, sin saber en qué
+  escena irá; sólo los 4 primeros episodios y algunas escenas llevan
+  música **hecha a medida**. Por eso **el mismo tema vuelve** en recuerdos
+  muy distintos: se escribió para un sentimiento que se repite ✅.
+- Usó el **hammered dulcimer** (salterio de macillos) para una sensación
+  «mágica»; la parte de vídeo lo liga al tema de **Zoltraak** y al OP de la
+  T2 ⚠️ la nota de la parte está confusa: comprobar en la entrevista antes
+  de citarlo.
+
+### 9.2 Discos publicados ([MusicBrainz](https://musicbrainz.org/release-group/f878ce13-430c-4060-a711-372c08530d43))
+
+- *Original Soundtrack* (T1), Evan Call, **17-abr-2024**.
+- *Season2 Original Soundtrack ～Selected Version～*, **14-feb-2026**, y la
+  *Season2 Original Soundtrack* completa, **15-abr-2026**
+  ([MusicBrainz](https://musicbrainz.org/release-group/23609e59-ec35-4759-8163-f092962a3844)) ✅.
+
+### 9.3 Lo que suena y se ve en la memoria (de 33 §11.1, visto por storyboard)
+
+- **OP T2 «lulu.»**, 0:48-0:52: **la fogata, los meteoros y el funeral vistos
+  entre las piernas de Frieren que camina** (el pasado como paisaje que se
+  cruza).
+- **ED T2 «The Story of Us»**, todo a lápiz de color: 0:03-0:16 **Himmel
+  escribe con pluma y tintero**; 1:11-1:18 Frieren pequeñita entre flores
+  enormes; **1:26-1:28 un libro cerrado con pluma y tintero**.
+- **Efectos de sonido y onomatopeyas propias**: las partes no traen una
+  lista ⚠️ (tampoco 33). En una lámina de memoria, **ninguna**: el silencio
+  es parte del tono.
+
+## Punto 10 · Vídeos, análisis y tendencias
+
+Los tráileres, clips de Crunchyroll en Español y entrevistas a las actrices
+latinas están en **33 §12**. Lo nuevo:
+
+- **Tráiler de la T2**: empieza con la música de Evan Call sobre **el cielo
+  visto a través de la pulsera que Stark le regaló a Fern**; los paisajes
+  son «más amplios y detallados, sobre todo los del norte» ·
+  [Anitrendz](https://www.anitrendz.com/news/2025/11/20/watch-the-trailer-for-frieren-beyond-journeys-end-season-2)
+  y [CBR](https://www.cbr.com/frieren-beyond-journeys-end-season-2-trailer-explained/) ✅.
+- **PV2 de la T1 bajado y medido** (Dailymotion
+  [x8mkolb](https://www.dailymotion.com/video/x8mkolb)): 0:31, 0:41, 0:47 y
+  1:27, con su paleta en el Punto 4 ✅. Tráiler de AniList:
+  [tR8YH0G67Rk](https://www.youtube.com/watch?v=tR8YH0G67Rk).
+- **«Crafting a Tangible, Aging World»** ·
+  [Sakuga Blog, 5-oct-2023](https://blog.sakugabooru.com/2023/10/05/crafting-a-tangible-aging-world-frieren-beyond-journeys-end-production-notes-01-04/)
+  ✅: el análisis de producción más detallado (reparto Yoshioka/Takagi,
+  montajes del paso del tiempo, «textura de decadencia»). No estaba en 33.
+- **«The Art of Frieren»** ·
+  [Where Creativity Works](https://wherecreativityworks.com/the-art-of-frieren/)
+  (artículo): la fogata del ep. 1, «los colores brillantes de las flores
+  contrastan con el fondo oscuro del bosque de noche, **vistos desde abajo
+  con las flores en primer plano**» ✅: es la misma composición del PV2
+  (1:27), dos fuentes de imagen distintas.
+- **«Color Design in Anime: Frieren's Eyes»** ·
+  [YouTube 4GRMlHGB-AM](https://www.youtube.com/watch?v=4GRMlHGB-AM) ⚠️
+  existe y trata la jerarquía de color; no se vio entero.
+- **TikTok**: ediciones **«Frieren aesthetic»** con pasteles apagados, azules
+  suaves, **grano de película y viñeteado**; *edits* del momento de Himmel;
+  un fondo viral, **«Himmel, 30 años después de su muerte»**
+  (`#frierenbeyondjourneysend` `#animeedit`) ⚠️ visto en un agregador; TikTok
+  no deja entrar sin sesión. Cuenta oficial: [@anime_frieren](https://www.tiktok.com/@anime_frieren).
+- **Reddit r/Frieren** (por Arctic Shift): «New background» (**2.401
+  votos**) y «Background practice ft the gang» (25): la comunidad **comparte
+  fondos hechos por fans** ⚠️ sólo el título.
+

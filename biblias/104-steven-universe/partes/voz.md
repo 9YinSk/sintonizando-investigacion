@@ -348,6 +348,22 @@ Personality · ⚠️
 - Su actriz le sube el tono y la expresividad a partir de «Vuelo de
   amistad», siguiendo el cambio de la actriz original · Doblaje Wiki,
   «Interpretación» · ⚠️
+- Miedo/pánico: se tapa toda la cara con las dos manos, sólo se le ven los
+  ojos entre los dedos, atrapada dentro de la nave del Clúster · clip
+  oficial CN «Catch and Release», episodio en el que se revela «The Real
+  Peridot» · https://www.dailymotion.com/video/x3lmesb?t=42 · ✅ (fotograma
+  propio, sacado con `fotogramas.py`) · 0:42
+- Rabia/hostilidad defensiva: puño en alto, postura de combate, de espaldas
+  a Steven cuando la capturan · mismo clip ·
+  https://www.dailymotion.com/video/x3lmesb?t=18 · ✅ · 0:18
+
+**Lapislázuli** — cara en emoción (además de la de audio de arriba): miedo/
+sorpresa con los ojos muy abiertos y azules, mirando el Templo por primera
+vez tras salir del espejo · clip oficial CN «Lapis Lazuli's Backstory
+(Clip) Same Old World» · https://www.dailymotion.com/video/x6viabp?t=8 ·
+✅ (fotograma propio) · 0:08; y alegría — sonrisa suave y relajada junto a
+Steven, tras reconciliarse · mismo clip ·
+https://www.dailymotion.com/video/x6viabp?t=128 · ✅ · 2:08
 
 **Lapislázuli** (voz: Andrea Navas). Marcada por 6000 años atrapada en un
 espejo; desconfiada, cortante, rencorosa al principio, luego protectora con
@@ -621,3 +637,10 @@ Fandom, «Greg Universe», Personality y Trivia · ⚠️
   la cuota compartida del contenedor seguía en 200/200 desde antes del
   relanzo; no se pudo usar el buscador web en esta tanda, todo lo de arriba
   se sacó con `curl`/Python directo.
+- Dailymotion API (`videos?search=...`) para encontrar clips oficiales de
+  Peridot y Lapislázuli específicamente (los dos personajes secundarios más
+  dibujados por el fandom, punto 7), y `fotogramas.py` sobre
+  «The Real Peridot (Clip) Catch And Release» (x3lmesb) y «Lapis Lazuli's
+  Backstory (Clip) Same Old World» (x6viabp) para sacar caras en emoción
+  con minuto exacto que faltaban del punto 13 (antes sólo tenían «forma de
+  hablar», sin cara). `video.mp4` borrado tras sacar las hojas.
