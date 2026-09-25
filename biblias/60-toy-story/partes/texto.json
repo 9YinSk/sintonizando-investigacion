@@ -1,0 +1,110 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/pixar/images/1/16/Andy%27s_Buzz_trapped_in_a_Buzz_Lightyear_box.png/revision/latest?cb=20130314112321",
+  "fuente": "Pixar Wiki (Fandom), archivo local",
+  "ancho": 608,
+  "alto": 352,
+  "que_es": "Fotograma: la caja de juguete de Buzz Lightyear tal como se ve dentro de la película, con el panel de pecho «SPACE RANGER / LIGHTYEAR»",
+  "para_que": "Referencia de tipografía de interfaz/placa espacial (punto 5) y del objeto-caja como «cuadro de diálogo» propio de la franquicia (punto 6)",
+  "licencia": "uso editorial/wiki de fans, no libre; sólo como referencia, nunca para pegar"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/pixar/images/b/b5/Toy-story-power-punch-buzz-lighyear-box.jpg/revision/latest?cb=20170510135703",
+  "fuente": "Pixar Wiki (Fandom), archivo local / foto de producto (Online Toys Australia)",
+  "ancho": 600,
+  "alto": 640,
+  "que_es": "Foto de la caja real del muñeco «Buzz Lightyear Power Punch»: logo «Toy Story» completo y badges de venta",
+  "para_que": "Medir en Pillow el color del banner rojo (~#9F091F) y el amarillo del logo (~#DBCE32, foto con luz de estudio) y ver la forma exacta de la rotulación (punto 5)",
+  "licencia": "foto comercial de tienda, sólo como referencia de tipografía/color, no para pegar"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049180/a47137b2abec5b3640d473d4ad919b84dfb71e95/ss_a47137b2abec5b3640d473d4ad919b84dfb71e95.1920x1080.jpg",
+  "fuente": "Steam (ficha de Disney/Pixar Toy Story 3 Complete Edition)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de juego: HUD con retrato circular del personaje y barra de vida en píldora dorada, estilo cartel del Oeste",
+  "para_que": "Referencia de interfaz de videojuego (punto 11) para la lámina o para un HUD coherente con la franquicia",
+  "licencia": "captura oficial de tienda Steam, sólo como referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049170/216d1b74c2fec0437c82aaabddcb676d4ed50900/ss_216d1b74c2fec0437c82aaabddcb676d4ed50900.1920x1080.jpg",
+  "fuente": "Steam (ficha de Disney/Pixar Toy Story: Retro Roundup!)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de juego retro de 16 bits (Woody corriendo) mostrada dentro del marco de un televisor antiguo, con HUD de letra de píxel (estrella, puntuación, sombrero)",
+  "para_que": "Referencia directa de tipografía de interfaz de videojuego retro (punto 5 y 11); la envoltura «TV vieja» es un recurso de encuadre reutilizable",
+  "licencia": "captura oficial de tienda Steam, sólo como referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-bbe62c1bacf044ba8ab38c2c9bec7642",
+  "fuente": "Sketchfab (usuario xdanni1984x)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Woody con rig completo (\"Woody Toy Story Rig Free Download\", 47 ♥)",
+  "para_que": "Posar a Woody en Blender sin modelar de cero (punto 18); crédito obligatorio a xdanni1984x, CC BY",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-b0407484d7db4049b6b673ebaff08de4",
+  "fuente": "Sketchfab (usuario Toystotororor)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Buzz Lightyear con rig completo (\"Buzz Lightyear rig\", 11 ♥)",
+  "para_que": "Posar a Buzz en Blender sin modelar de cero (punto 18); crédito obligatorio a Toystotororor, CC BY",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-4f6c5b4346a749b29a41b0809e192608",
+  "fuente": "Sketchfab (usuario xdanni1984x)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Buzz Lightyear con rig completo (\"Buzz Lightyear Rig Free Download\", 15 ♥), mismo autor que el rig de Woody de más arriba",
+  "para_que": "Alternativa de Buzz con el mismo estilo de rig que Woody, para que los dos personajes posen con controles parecidos (punto 18)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://fontsource.org/fonts/baloo-2",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tipografía libre Baloo 2 (redondeada, muy parecida al bulto de la rotulación «TOY»); tildes, ñ, ¿ y ¡ comprobados con fontTools",
+  "para_que": "Letra libre para el título de la lámina, sin copiar la rotulación protegida del logo (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://fontsource.org/fonts/rammetto-one",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tipografía libre Rammetto One (efecto 3D/juguete); tildes, ñ, ¿ y ¡ comprobados con fontTools",
+  "para_que": "Letra para carteles del mundo (letreros de madera, empaques) con aspecto de juguete inflado (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://fontsource.org/fonts/orbitron",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tipografía libre Orbitron (geométrica, estética espacial/NASA); tildes, ñ, ¿ y ¡ comprobados con fontTools",
+  "para_que": "Letra para el panel de pecho de Buzz o interfaces de Star Command (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://fontsource.org/fonts/michroma",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tipografía libre Michroma (geométrica, estética espacial), alternativa a Orbitron; tildes, ñ, ¿ y ¡ comprobados con fontTools",
+  "para_que": "Letra para placas/paneles de Buzz Lightyear o carteles de Star Command (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://tcrf.net/Toy_Story_(NES)",
+  "fuente": "The Cutting Room Floor (vía resumen de búsqueda; la página en directo y su copia en Wayback Machine devuelven 403 Cloudflare desde este servidor)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Contenido descartado del Toy Story de NES (1995): un globo de diálogo sin usar con la palabra «Safe»",
+  "para_que": "Nota de investigación (punto 11); pendiente de confirmar en directo cuando el sitio deje pasar la petición",
+  "licencia": "wiki de datos técnicos, sólo como dato, no como imagen"
+ }
+]
