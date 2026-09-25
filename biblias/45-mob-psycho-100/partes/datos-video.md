@@ -1,6 +1,6 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Mob Psycho 100
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -32,17 +32,17 @@ _Fuente: https://api.dailymotion.com_
 **«Mob Psycho 100 ending»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
+- Mob Psycho 100 Trailer Original 2ª Temporada · 1:16 · adorocinema · 2009 vistas · https://www.dailymotion.com/video/x8e6cgw
 - Mob Psycho 100 - trailer de l'anime · 1:56 · Hitek · 1588 vistas · https://www.dailymotion.com/video/x4iijvv
 - RAGE MODE FIGHT (Mob VS Koyama) - Mob Psycho 100 · 4:08 · Best Of Anime · 301 vistas · https://www.dailymotion.com/video/x84g6ar
 - Trailer de Mob Psycho 100 III · 1:53 · 3djuegos · 191 vistas · https://www.dailymotion.com/video/x8gqknz
-- Mob Psycho 100 Mob Vs Hanazawa Full Fight · 4:39 · lawrenceburgos69 · 164 vistas · https://www.dailymotion.com/video/x810m4w
 **«Mob Psycho 100 trailer»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h
 - Mob Psycho 100 - temporada 3 Tráiler VOSE · 1:53 · Sensacine · 8368 vistas · https://www.dailymotion.com/video/x8ec8b9
-- 'Mob Psycho 100' - Trailer de la temporada 3 · 1:10 · Espinof · 2502 vistas · https://www.dailymotion.com/video/x8aqtrw
+- 'Mob Psycho 100' - Trailer final de la temporada 3 · 1:53 · Espinof · 4805 vistas · https://www.dailymotion.com/video/x8e1jea
+- 'Mob Psycho 100' - Trailer de la temporada 3 · 1:10 · Espinof · 2503 vistas · https://www.dailymotion.com/video/x8aqtrw
 - Mob Psycho 100 Trailer Original 2ª Temporada · 1:16 · adorocinema · 2009 vistas · https://www.dailymotion.com/video/x8e6cgw
-- Mob Psycho 100 - trailer de l'anime · 1:56 · Hitek · 1588 vistas · https://www.dailymotion.com/video/x4iijvv
 **«Mob Psycho 100 escena»**
 - Trailer - Mob Psycho 100 · 1:56 · Hitek · 35998 vistas · https://www.dailymotion.com/video/x4g5kft
 - Mob Psycho 100 III | MAIN TRAILER · 2:03 · JeuxVideo.com · 11892 vistas · https://www.dailymotion.com/video/x8e7v5h

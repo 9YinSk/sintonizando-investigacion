@@ -1,0 +1,191 @@
+[
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Wistoria:_Wand_and_Sword",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa de doblaje latino: reparto (más de 40 personajes, seiyū y voz latina), staff (Jorge Reyes dirección, Audiomaster Candiani), voces adicionales y datos de interés; leída por su API con prop=wikitext (la web normal da 402)",
+  "para_que": "Punto 8: reparto de doblaje latino y staff, con nombre de cada actor",
+  "licencia": "wiki colaborativa (Fandom), contenido de referencia editorial"
+ },
+ {
+  "url": "https://www.anmtvla.com/2024/07/crunchyroll-estreno-el-doblaje-latino.html",
+  "fuente": "ANMTV Latinoamérica",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nota de prensa (jul-2024) con el anuncio del elenco y staff del doblaje latino de la T1; segunda fuente que confirma director, estudio, traductora/adaptadora y varios actores del reparto principal",
+  "para_que": "Punto 8: segunda fuente para verificar nombres de actores de doblaje",
+  "licencia": "artículo periodístico, uso editorial"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Fernanda_Ornelas",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la actriz Fernanda Ornelas: NO lista ningún papel en Wistoria, lo que contradice al anuncio de prensa de ANMTV que la daba como voz de Colette Loire",
+  "para_que": "Punto 8: prueba de la discrepancia Colette Loire = Jean Bautista (wiki actual) vs. Fernanda Ornelas (anuncio jul-2024)",
+  "licencia": "wiki colaborativa"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/xa5iqfi",
+  "fuente": "Dailymotion (canal Sensacine, tráiler oficial subtitulado VOS)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tráiler oficial de la temporada 2 (2:14), con hojas de contacto de 78 fotogramas ya extraídas (min. 0:00-2:10); usado para identificar expresiones faciales de Will y Lihanna con minuto exacto",
+  "para_que": "Punto 13: caras en cada emoción (Will: determinación, furia, llanto; Lihanna: determinación, llanto, sorpresa, sonrisa) con minuto y enlace &t=",
+  "licencia": "vídeo promocional oficial de Crunchyroll, republicado por Sensacine; enlace, no descarga"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8slj34",
+  "fuente": "Dailymotion (canal Vidaextra, teaser tráiler T1)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Teaser tráiler de la temporada 1 (0:34), con hoja de contacto de 23 fotogramas (min. 0:00-0:32); muestra a Will, Colette, Sion y Elfaria con expresiones claras",
+  "para_que": "Punto 13: caras en cada emoción (Will foco/determinación; Elfaria elegante/santa; Colette mirada suave; Sion serio) con minuto",
+  "licencia": "vídeo promocional oficial de Crunchyroll, republicado por Vidaextra; enlace, no descarga"
+ },
+ {
+  "url": "https://anilist.co/anime/174576",
+  "fuente": "AniList (API GraphQL)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "averageScore 79/100, popularity 177.066, favourites 5.758 (medido con GraphQL el 24-sep-2026); además favoritos por personaje (Elfaria 1036 > Will 1022) y fichas de edad/altura/cumpleaños",
+  "para_que": "Puntos 7, 20 y 21: popularidad del personaje secundario sobre el protagonista, calificación general, altura/cumpleaños",
+  "licencia": "datos abiertos vía API pública de AniList"
+ },
+ {
+  "url": "https://danbooru.donmai.us/related_tag.json?query=tsue_to_tsurugi_no_wistoria&category=4",
+  "fuente": "Danbooru (API related_tag)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Recuento real de post_count por personaje dentro del tag oficial de la serie (Elfaria 46, Will 25, Colette 17...); corrige un error de datos-voz.md que mezclaba nombres de otra serie (Gundam) en los primeros puestos",
+  "para_que": "Punto 7: popularidad medida en fan art, con aviso de corrección de dato",
+  "licencia": "datos abiertos vía API pública de Danbooru"
+ },
+ {
+  "url": "https://www.cbr.com/crunchyroll-best-fantasy-wistoria-wand-and-sword/",
+  "fuente": "CBR (Comic Book Resources)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo con la calificación 4.8/5 en Crunchyroll (118.000+ votos) y 7.8/10 en IMDb/MyAnimeList, comparación con otros isekai/fantasía (Frieren, Black Clover, TenSura) y razones del éxito (protagonista que no nace fuerte, worldbuilding, animación 2D/3D)",
+  "para_que": "Punto 21: por qué la gente ama la serie, con cifras",
+  "licencia": "artículo periodístico, uso editorial"
+ },
+ {
+  "url": "https://www.reddit.com/r/Wistoria/comments/1t2fwh6/wow_i_teared_up_during_the_ganbare_scene_best/",
+  "fuente": "Reddit r/Wistoria",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Hilo (28 votos) sobre la 'escena Ganbare' de la T2E4: Sion anima a gritos a Will contra un Devander; el fandom llora con esta escena",
+  "para_que": "Punto 21: escena que hace llorar, con contexto de personajes (Will/Sion)",
+  "licencia": "contenido de usuario de Reddit, uso editorial (cita y enlace)"
+ },
+ {
+  "url": "https://www.threads.com/@bakabakashiiiiii/post/DX9pUmQj_Mh/video-wistoria-wand-and-sword-season-episode-i-absolutely-lost-it-when-sion-started/",
+  "fuente": "Threads",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Publicación independiente que describe la misma 'escena Ganbare' (Sion animando a Will) con cita textual de la reacción emocional; segunda fuente que confirma el hilo de Reddit",
+  "para_que": "Punto 21: segunda fuente de la escena que hace llorar",
+  "licencia": "contenido de usuario de Threads, uso editorial"
+ },
+ {
+  "url": "https://www.reddit.com/r/Wistoria/comments/1wn1ma6/that_much_of_obsessed_he_is/",
+  "fuente": "Reddit r/Wistoria",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Hilo (86 votos) y comentarios sobre lo obsesiva que es Elfaria con Will, con cita de un monólogo interno de Will hacia Elfaria (traducción de fans de la novela ligera)",
+  "para_que": "Punto 12: meme/broma recurrente del fandom sobre Elfaria",
+  "licencia": "contenido de usuario de Reddit, uso editorial"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Will_Serfort",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa de Will: personalidad, historia, habilidades (Wis), relaciones con Elfaria/Colette/Sion/Julius, leída con la API (prop=wikitext)",
+  "para_que": "Punto 13: descripción profunda de Will (carácter, arco, dinámicas)",
+  "licencia": "wiki colaborativa (Fandom), contenido de referencia editorial"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Elfaria_Albis_Serfort",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa de Elfaria: personalidad (fachada de 'santa' vs. verdad infantil/celosa), historia, relaciones, ficha de gustos (Trivia)",
+  "para_que": "Punto 13 y 20: descripción profunda y gustos de Elfaria",
+  "licencia": "wiki colaborativa (Fandom)"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Colette_Loire",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa de Colette: historia de la maldición familiar, brazalete Sellasangre, relaciones con Will/Rose/Sion/Elfaria",
+  "para_que": "Punto 13: descripción profunda de Colette, objeto icónico",
+  "licencia": "wiki colaborativa (Fandom)"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Julius_Reinberg",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Julius: personalidad narcisista inicial, historia de desamor con la criada de su familia, ficha de gustos",
+  "para_que": "Puntos 13 y 20",
+  "licencia": "wiki colaborativa (Fandom)"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Lihanna_Owenzaus",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Lihanna: personalidad, historia, ficha de gustos (comilona, primer amor sin nombre)",
+  "para_que": "Puntos 13 y 20",
+  "licencia": "wiki colaborativa (Fandom)"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Sion_Ulster",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Sion: rivalidad con Will, sentimientos no correspondidos por Colette",
+  "para_que": "Punto 13",
+  "licencia": "wiki colaborativa (Fandom)"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Wignall_Lindor",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Wignall: costumbre élfica de contacto físico, meta de llegar a Magia Vander, ficha de gustos",
+  "para_que": "Puntos 13 y 20",
+  "licencia": "wiki colaborativa (Fandom)"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Rosti_Nauman",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Rosti: compañero de cuarto de Will, artífice mágico, ficha de gustos",
+  "para_que": "Puntos 13 y 20",
+  "licencia": "wiki colaborativa (Fandom)"
+ },
+ {
+  "url": "https://wistoria.fandom.com/wiki/Workner_Norgram",
+  "fuente": "Wistoria Wiki (Fandom, en inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Workner: profesor de Magizoología, cuidado de Will, ficha de gustos",
+  "para_que": "Puntos 13 y 20",
+  "licencia": "wiki colaborativa (Fandom)"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Archivo:Wistoria_Wand_and_Sword_-_Episodio_1_COMPLETO_(Doblaje_en_espa%C3%B1ol)",
+  "fuente": "Doblaje Wiki (ficha de archivo del vídeo en YouTube)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Confirma que Crunchyroll Latinoamérica subió el episodio 1 completo con doblaje latino a YouTube; no se pudo reproducir en esta sesión (YouTube pide iniciar sesión) pero el enlace y la descripción del vídeo quedan documentados",
+  "para_que": "Punto 8: fuente pendiente de revisar por otra sesión con acceso a YouTube, para sacar frases textuales con minuto",
+  "licencia": "vídeo oficial de Crunchyroll Latinoamérica en YouTube"
+ }
+]

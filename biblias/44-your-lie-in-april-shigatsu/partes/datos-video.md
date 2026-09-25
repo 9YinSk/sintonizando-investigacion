@@ -1,6 +1,6 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Your Lie in April (Shigatsu)
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -37,6 +37,6 @@ _Fuente: https://archive.org_
 ## Bandas sonoras publicadas (MusicBrainz)
 _Fuente: https://musicbrainz.org_
 
-- 四月は君の嘘 BONUS DISC 4 · 横山克 · 2015-05-27 · https://musicbrainz.org/release-group/5b3f29f0-646c-4276-9e65-86e8c5dcb8c6
 - 四月は君の嘘 BONUS DISC 3 · 横山克 · 2015-04-22 · https://musicbrainz.org/release-group/3a693af8-7ab8-4cdb-aaa1-b37d65444dfe
+- 四月は君の嘘 BONUS DISC 4 · 横山克 · 2015-05-27 · https://musicbrainz.org/release-group/5b3f29f0-646c-4276-9e65-86e8c5dcb8c6
 - 四月は君の嘘 僕と君との音楽帳 · Various Artists · 2014-10-31 · https://musicbrainz.org/release-group/bcba1230-00c7-449d-82ee-d0ff3d85c8ef

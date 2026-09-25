@@ -1,6 +1,6 @@
 # Datos para el investigador de TEXTO, JUEGOS Y TÉCNICA (puntos 5, 6, 11, 18, 24, 25) · Mob Psycho 100
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -10,7 +10,7 @@ No repitas estas consultas: sigue desde aquí y busca lo que falta.
 _Fuente: https://anilist.co/anime/21507_
 
 - Títulos: Mob Psycho 100 · Mob Psycho 100 · モブサイコ100 · también: מוב פסיכו 100, ม็อบไซโค 100 คนพลังจิต, Моб Психо 100
-- Formato TV, año 2016, episodios 12, capítulos None, estado FINISHED, nota media 84, popularidad 628372, favoritos 37300
+- Formato TV, año 2016, episodios 12, capítulos None, estado FINISHED, nota media 84, popularidad 628372, favoritos 37309
 - Estudio: bones · géneros: Action, Comedy, Drama, Psychological, Slice of Life, Supernatural
 - Sinopsis: The story revolves around "Mob," a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname "Mob" because he does not stand out among other people. He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body. · · (Source: Anime News Network)
 - Temas y rasgos (etiquetas, % de acuerdo): Super Power 94%, Coming of Age 88%, Urban Fantasy 85%, Philosophy 84%, Ghost 81%, Surreal Comedy 76%, Primarily Teen Cast 76%, Male Protagonist 75%, Parody 75%, Satire 75%, Urban 74%, Shounen 72%, Disability 70%, Exorcism 70%, Primarily Male Cast 69%, School 65%, Slapstick 64%, Demons 62%, Bullying 58%, School Club 58%, Delinquents 58%, Fitness 56%, Family Life 50%, Cult 50%, Gangs 50%, Unrequited Love 48%, Curses 20%, Denpa 20%, Teacher 20%

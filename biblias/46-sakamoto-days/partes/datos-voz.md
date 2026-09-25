@@ -1,6 +1,6 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Sakamoto Days
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -11,7 +11,7 @@ _Fuente: https://anilist.co/anime/177709_
 
 | # | Personaje | Favoritos | Rol | Seiyū | Voz «Spanish» en AniList ⚠️ |
 |---|---|---|---|---|---|
-| 1 | Narrator (ナレーター) | 2232 | BACKGROUND | Houchuu Ootsuka | Octavio Rojas |
+| 1 | Narrator (ナレーター) | 2233 | BACKGROUND | Houchuu Ootsuka | Octavio Rojas |
 | 2 | Yoichi Nagumo (南雲) | 2211 | SUPPORTING | Natsuki Hanae | Bruno Coronel |
 | 3 | Tarou Sakamoto (坂本太郎) | 1857 | MAIN | Tomokazu Sugita | Óscar López |
 | 4 | Osaragi (大佛) | 1679 | SUPPORTING | Saori Hayami | — |
@@ -21,7 +21,7 @@ _Fuente: https://anilist.co/anime/177709_
 | 8 | Kei Uzuki (有月憬) | 391 | SUPPORTING | Daisuke Namikawa | — |
 | 9 | Shishiba (神々廻) | 364 | SUPPORTING | Taku Yashiro | — |
 | 10 | Natsuki Seba (勢羽夏生) | 331 | SUPPORTING | Nobuhiko Okamoto | — |
-| 11 | Aoi Sakamoto (坂本葵) | 217 | SUPPORTING | Nao Touyama | Angélica Villa |
+| 11 | Aoi Sakamoto (坂本葵) | 216 | SUPPORTING | Nao Touyama | Angélica Villa |
 | 12 | Hana Sakamoto (坂本花) | 70 | SUPPORTING | Hina Kino | — |
 | 13 | Hyou (豹) | 55 | SUPPORTING | Hiroki Yasumoto | — |
 | 14 | Apart (アパート) | 54 | SUPPORTING | Chiaki Kobayashi | — |
@@ -273,7 +273,7 @@ Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans
 4. anya_(spy_x_family) · 6789 dibujos
 5. itadori_yuji · 4399 dibujos
 6. jungle_pocket_(umamusume) · 3300 dibujos
-7. dantsu_flame_(umamusume) · 3097 dibujos
+7. dantsu_flame_(umamusume) · 3098 dibujos
 8. houjou_tokiyuki_(nige_jouzu_no_wakagimi) · 1387 dibujos
 9. yoshida_hirofumi · 1006 dibujos
 10. nagumo_(sakamoto_days) · 325 dibujos
@@ -323,6 +323,13 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/SakamotoDays: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/SakamotoDays_
 
+**«favorite character»**
+- (278 votos, 74 comentarios) Who is your favorite female character? · https://www.reddit.com/r/SakamotoDays/comments/1kto75a/who_is_your_favorite_female_character/
+- (225 votos, 63 comentarios) Who is your favorite female character? · https://www.reddit.com/r/SakamotoDays/comments/1lh83ez/who_is_your_favorite_female_character/
+- (185 votos, 69 comentarios) Who is your favorite male character? · https://www.reddit.com/r/SakamotoDays/comments/1lhuxe7/who_is_your_favorite_male_character/
+- (183 votos, 18 comentarios) Fanart i did of Shishiba from one of my favorite fights in the manga. I end up liking characters like him. What trope… · https://www.reddit.com/r/SakamotoDays/comments/1jwuiok/fanart_i_did_of_shishiba_from_one_of_my_favorite/
+- (153 votos, 39 comentarios) Just got back from Japan. Can you guess my favorite character based on what I bought? · https://www.reddit.com/r/SakamotoDays/comments/1kwn576/just_got_back_from_japan_can_you_guess_my/
+- (106 votos, 8 comentarios) My Favorite Character (Not because she's hot) Rion Akao, The Star Who's Light Faded Too Soon, (Art By… · https://www.reddit.com/r/SakamotoDays/comments/1j95yr3/my_favorite_character_not_because_shes_hot_rion/
 **«why I love»**
 - (253 votos, 23 comentarios) I know it's not the most impressive thing he's ever done, but creative moves like this are why I fell in love with this… · https://www.reddit.com/r/SakamotoDays/comments/11xdqus/i_know_its_not_the_most_impressive_thing_hes_ever/
 - (54 votos, 2 comentarios) Idk why I love this panel so much · https://www.reddit.com/r/SakamotoDays/comments/1prkpgh/idk_why_i_love_this_panel_so_much/
@@ -330,3 +337,6 @@ _Fuente: https://www.reddit.com/r/SakamotoDays_
 - (16 votos, 1 comentarios) One thing I love about Anime and Manga Communities and why its always a blast reading posts complaining about realism. · https://www.reddit.com/r/SakamotoDays/comments/1aogvlj/one_thing_i_love_about_anime_and_manga/
 - (5 votos, 0 comentarios) Bro these moments are why sakamoto days is so enjoyable to me. I mean sakamoto himself can be a mf Jujutsu sorcerer on… · https://www.reddit.com/r/SakamotoDays/comments/1254u6o/bro_these_moments_are_why_sakamoto_days_is_so/
 - (4 votos, 18 comentarios) Why I love Sakamoto days · https://www.reddit.com/r/SakamotoDays/comments/1jd9lox/why_i_love_sakamoto_days/
+**«best scene»**
+- (81 votos, 14 comentarios) Sakamoto vs Kanaguri is literally the Best Choreography of Yuto Suzuki (mainly that shadow and laser beam scene 🔥) · https://www.reddit.com/r/SakamotoDays/comments/1qbhnkr/sakamoto_vs_kanaguri_is_literally_the_best/
+- (38 votos, 0 comentarios) The best scene in CH110 🔥🤣 · https://www.reddit.com/r/SakamotoDays/comments/12cxddp/the_best_scene_in_ch110/

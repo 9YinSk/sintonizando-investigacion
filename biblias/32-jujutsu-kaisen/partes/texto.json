@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://cgworld.jp/article/C01-1a_D301_cameramap_genzu.jpg",
+    "fuente": "CGWORLD, «『劇場版 呪術廻戦 0』にみるMAPPA流・CGと作画の境界を超えた画づくり 3DBG篇» (24-sep-2026)",
+    "ancho": 1920,
+    "alto": 841,
+    "que_es": "Diagrama técnico (wireframe con textura de cuadros) del camera mapping usado por MAPPA en Jujutsu Kaisen 0: geometría 3D simplificada de un pasillo de la Escuela de Kioto, vista",
+    "para_que": "Punto 18: referencia exacta de cómo se monta el contorno/geometría base antes de proyectar el dibujo 2D encima; sirve para explicar la técnica de camera mapping en Blender (geometría simple + proyección de textura)",
+    "licencia": "Captura de un artículo técnico de CGWORLD (Born Digital); imagen de producción de MAPPA/Toho. Sólo como referencia de la técnica, no para copiar el dibujo."
+  },
+  {
+    "url": "https://cgworld.jp/article/C01-2b_D291_bijutsu.jpg",
+    "fuente": "CGWORLD, «『劇場版 呪術廻戦 0』にみるMAPPA流・CGと作画の境界を超えた画づくり 3DBG篇» (24-sep-2026)",
+    "ancho": 1783,
+    "alto": 790,
+    "que_es": "Comparativa en 4 paneles: el arte 2D pintado a mano de un corredor de la Escuela de Kioto proyectado sobre el modelo 3D con camera mapping (visto con la rejilla de calibración, con árboles, y el suelo/tejado ya texturizados)",
+    "para_que": "Punto 18: ejemplo visual paso a paso de cómo el estudio integra dibujo 2D y geometría 3D; útil para justificar en Blender el flujo modelo simple + Line Art/Freestyle + textura pintada encima",
+    "licencia": "Captura de un artículo técnico de CGWORLD (Born Digital); imagen de producción de MAPPA/Toho. Sólo como referencia de la técnica, no para copiar el dibujo."
+  }
+]

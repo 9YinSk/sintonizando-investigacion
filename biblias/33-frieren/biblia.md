@@ -17,9 +17,15 @@ fecha: 2026-09-24
 > - **Límites**: YouTube no dejó bajar vídeo (se miró por storyboards y
 >   miniaturas); la web oficial, TV Tropes y Namu Wiki dieron 403. Todo lo
 >   dudoso lleva ⚠️ y está junto en §20.
+> - **Segunda pasada** el 25-sep-2026 (repaso corto de `EQUIPO.md`): 3
+>   investigadores (imagen, voz, texto) y el redactor añadieron los
+>   **puntos 18-25** de `ENCARGO.md` y la guía para **IA de texto** (§18.7).
+>   Red abierta: wikis en inglés y español por la API, Arctic Shift,
+>   oEmbed de YouTube, ambientCG, webs japonesas de prensa y tiendas.
 
 ## Índice
 
+- Segunda pasada · qué cambió (repaso de los puntos 18-25)
 0. Frieren no tiene canal: dónde encaja mejor
 1. Resumen para quien tenga prisa
 2. Las escenas que sirven (con minuto)
@@ -38,11 +44,72 @@ fecha: 2026-09-24
 15. Poses analizadas por personaje
 16. Vestuario
 17. Paisajes y fondos de pantalla
-18. Guía para generar con IA
+18. Guía para generar con IA (imagen y **texto**, 18.7 nuevo)
+- Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+- Punto 19 · Texturas 2D (tramas, papel, rayas y emblemas)
+- Punto 20 · Gustos y detalles de cada personaje
+- Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+- Punto 22 · Fan dubs y comunidad hispana
+- Punto 23 · Colaboraciones, figuras y cosplay
+- Punto 24 · Obras parecidas y láminas vecinas
+- Punto 25 · El mundo, la historia por arcos y sus símbolos
 19. Tres conceptos de lámina
 20. Lo que no pude verificar
 - Cumplimiento del encargo
 21. Bitácora de búsqueda
+
+## Segunda pasada · qué cambió
+
+Repaso corto del 25-sep-2026 (`EQUIPO.md`): **3 investigadores**
+(imagen, voz, texto) y un redactor. Faltaban los **puntos 18-25** de
+`ENCARGO.md` y la parte de **IA de texto** del punto 17. Lo demás no se
+reescribió.
+
+- **Nuevo**: ocho secciones, «Punto 18» a «Punto 25», entre §18 y §19.
+  - **Técnica** (Punto 18): la dirección de Saitō («lo cotidiano»), la
+    acción dibujada a mano sin CGI, la rotoscopia, el ED de la T2 a
+    **lápiz de color** y el método de Yoshioka (acuarela + 3D + retoque).
+    Recetas para Photoshop y Blender.
+  - **Texturas** (Punto 19): trama de punto del manga **mirada** en un
+    panel; las **rayas de la camisa** de Frieren medidas; el **Emblema
+    Sagrado** medido; 4 texturas CC0 de ambientCG.
+  - **Gustos** (Punto 20): tabla del **Official Fan Book** (pudín Merkur,
+    dulces, Jumbo Berry Special, tortilla Ruf). **No hay cumpleaños
+    oficiales**: campo vacío en las dos wikis.
+  - **Por qué la aman** (Punto 21): Manga Taishō 2021, premios de
+    Crunchyroll, 30 millones de copias; **Stark** como el personaje con
+    el que se identifica el público; **la escena del anillo** como la
+    página más votada (encuesta de Shōgakukan y Reddit).
+  - **Comunidad hispana** (Punto 22): un fandub, **5 covers** del OP en
+    latino, el meme «Frieren hace berrinche», entrevistas a Erika Ugalde
+    y Azucena Estrada.
+  - **Colaboraciones** (Punto 23): Sweets Paradise y «社交界ver.» con
+    **ropa nueva vista**, 10 colaboraciones más, 14 figuras y bolsas
+    oficiales, 18 fotos de cosplay CC BY-SA.
+  - **Obras parecidas** (Punto 24) y **mundo** (Punto 25): lo que dice el
+    editor, la recomendación del autor, láminas vecinas, 5 reglas, 9
+    arcos, símbolos y vocabulario.
+  - **IA de texto** (§18.7): cómo escribir en su voz, con frases reales
+    del doblaje ordenadas por emoción.
+- **Correcciones y matices que salen del repaso**:
+  - El **Emblema Sagrado** (聖杖の証, «prueba del báculo sagrado»): la
+    imagen de la wiki y F9 (§15) muestran que **lo tiene Frieren**
+    (T1-11 ≈09:47). Qué acredita no está claro: una parte dice «insignia
+    de gran mago» y otra «de un personaje religioso» ⚠️ (Punto 19.5).
+  - La **altura** de Stark y Himmel **no está publicada** (Punto 20).
+  - Los **gags del fandom** (Frieren en el Mimic, la hamburguesa de
+    Stark) ya son **figuras oficiales**: se pueden usar sin miedo
+    (Punto 23.2).
+- **Conceptos** (§19): se añade al final qué mejora cada uno con lo nuevo.
+- **`referencias.json`**: de 40 a **163** (ver Punto 19, 20, 21,
+  22 y 23 y la tabla).
+- **Tabla de cumplimiento**: filas de los puntos 18-25 añadidas.
+- **Bitácora**: la de los tres investigadores, en §21 («Segunda pasada»).
+- **Sigue sin resolverse** (⚠️ en su punto): la aberración cromática como
+  filtro del estudio, un emblema propio de la Asociación Continental de
+  Magia, la tela y costura de los cosplays (Wikimedia dio 429), vistas de
+  TikTok y de los covers, la música exacta de la escena del anillo y la
+  colaboración con Uniqlo/GU.
 
 ---
 
@@ -56,7 +123,7 @@ Cómo lo decidí, mirando `servidor/inventario.md`:
 | Canal o sala | Qué es (inventario) | Encaje con Frieren | ¿Ya tiene lámina? ⚠️ |
 |---|---|---|---|
 | **#🧰・recursos** | «Lo que le sirve a los demás… Un hilo por recurso. NADA pirata» | ⭐⭐⭐ Frieren **colecciona magias** y **cobra en grimorios**; «nada pirata» = **el mímico**, que parece un tesoro y muerde | no consta |
-| **#✍️・poemas** | «Se lee despacio: si comentas, comenta el texto» | ⭐⭐⭐ el **diario de Himmel**; el ED de la T2 a lápiz con pluma y tintero | no consta |
+| **#✍️・poemas** | «Se lee despacio: si comentas, comenta el texto» | ⭐⭐⭐ el **diario de Himmel**; el ED de la T2 a lápiz con pluma y tintero | no consta en el inventario, pero la **biblia 22 Violet Evergarden** es para #poemas (Punto 24.3) ⚠️ |
 | **#🎟️・eventos** | «Se convoca con /create y cada uno lo ve en su hora» | ⭐⭐ los **meteoros de Era**, una vez cada 50 años | no consta |
 | #📚・material-de-clase | clases y ejercicios por nivel | ⭐⭐ Frieren **maestra de Fern**; los niveles como **certificados de mago** | sí (`material-de-clase.png`) |
 | #📖・textos | guiones para practicar | ⭐⭐ un guion = un grimorio | sí (`textos.png`) |
@@ -1544,6 +1611,514 @@ chocar con sus condiciones de uso: lo más seguro es usar de referencia
   con las letras de §6.
 - **Brillo de plástico** en piel y pelo: quitarlo; la serie es mate.
 
+### 18.7 Para una IA de texto: cómo escribir en su voz (segunda pasada)
+
+Sale de §8 (cómo habla cada uno) y §10.4 (frases del doblaje latino con
+minuto). Se le da a la IA de texto tal cual.
+
+**Reglas que valen para todos**
+- **Frases cortas.** Una idea por frase. La serie es de **silencio**: el
+  director usa el encuadre y la pausa para contar el tiempo (Punto 18).
+- **Casi sin «¡!»**. Nadie grita en calma. Frieren **nunca** grita ni se
+  ríe a carcajadas (§1, «No hacer»).
+- **Puntos suspensivos** para la duda o la pena: «pero… ¿por qué no…
+  intenté conocerlo mejor?».
+- **Onomatopeyas**: las partes no traen una lista propia de la serie ⚠️.
+  No poner «¡BOOM!» ni onomatopeyas de acción en una lámina tranquila.
+- Humor **seco**, dicho sin cambiar de cara: el chiste está en el contraste.
+
+**Cómo habla cada uno (latino)**
+- **Frieren**: tutea a todos. Plana, sin adornos, como una profesora
+  aburrida. Cuando algo le gusta: «vaya». Con los demonios, fría total.
+- **Fern**: **de usted** y «**Señora Frieren**» (nunca «Frieren-sama» en
+  latino). Regaña **sin gritar**, con frases secas. Se reconoce terca.
+- **Stark**: de colega, rápido, con **miedo a la vista** y valiente igual.
+- **Himmel**: seguro, con humor, **presumido en broma**; mira a los ojos.
+
+**Frases reales, por emoción** (doblaje latino salvo que se diga)
+
+| Emoción | Quién | Frase | Dónde |
+|---|---|---|---|
+| Alegre, presumido | Himmel | «Es una flor de mi país. Es muy hermosa… Bueno, no tan hermosa como yo.» | [sMMRWL0XG5E 0:08](https://www.youtube.com/watch?v=sMMRWL0XG5E&t=8) |
+| Enfadado, regañando | Fern | «De verdad es tan descuidada… diría que hasta es irresponsable.» | [aIFWMH0dhbA 0:45](https://www.youtube.com/watch?v=aIFWMH0dhbA&t=45) |
+| Enfadado, seco | Frieren | «No toques mi cabeza.» | [wDWOKITcRzg 0:52](https://www.youtube.com/watch?v=wDWOKITcRzg&t=52) |
+| Terca | Fern | «Eso ya lo sé. Es sólo que soy muy obstinada.» | [hzcGhesobmY 0:08](https://www.youtube.com/watch?v=hzcGhesobmY&t=8) |
+| Explicando | Himmel | «La lluvia de meteoros de Era pasa una vez cada 50 años.» | [3XUKmqUDEZc 0:08](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=8) |
+| Explicando | Frieren | «Sé de un lugar donde la lluvia de meteoros se puede ver más clara.» | [3XUKmqUDEZc 0:32](https://www.youtube.com/watch?v=3XUKmqUDEZc&t=32) |
+| Animando | Frieren → Fern | «Fern, ve a decirle que te asustó y haz las paces con él.» | [hzcGhesobmY 0:40](https://www.youtube.com/watch?v=hzcGhesobmY&t=40) |
+| Animando, tierno | Himmel | «Esto es para que no te sientas sola cuando estés en un futuro lejano.» ⚠️ «futuro» mal oído | [K8XwKilGTg0 0:13](https://www.youtube.com/watch?v=K8XwKilGTg0&t=13) |
+| Triste | Frieren | «Viajamos juntos sólo por 10 años.» | [wDWOKITcRzg 0:22](https://www.youtube.com/watch?v=wDWOKITcRzg&t=22) |
+| Triste | Frieren | «Sabía que sus vidas son cortas, pero… ¿por qué no… intenté conocerlo mejor?» | [wDWOKITcRzg 0:33](https://www.youtube.com/watch?v=wDWOKITcRzg&t=33) |
+| Frío (con demonios) | Frieren | «Aura, suicídate.» (subtítulo, no doblaje) | T1-10 22:24 (§8) |
+
+**Lo que la estropea**: «¡Vamos, chicos!», emojis, jerga de internet,
+Frieren entusiasmada, Fern tuteando a Frieren, y la frase-meme
+«Himmel lo habría hecho» presentada como la del doblaje (no se encontró,
+§10.4).
+
+**Vocabulario de gestos para la IA de imagen** (con dónde se ve)
+- Sonrisa con **ojos cerrados en «^^»** de Frieren: *closed eyes smile*
+  (PV 2.º cour, 0:52).
+- **Puchero** y **mofletes hinchados** de Fern: *pout, puffed cheeks*
+  (§8; F5 de §15 para el de Frieren).
+- **Mirada de reojo** de Fern: *side glance*.
+- **Mano en la nuca** de Stark, nervioso: *hand on back of head*.
+- **Llanto** de Stark (una de las 3 caras de su Nendoroid, Punto 23.2):
+  *crying, tears*.
+- **Chibi** (versión pequeña y cabezona): la usan la Nendoroid de
+  Frieren y el visual de Sweets Paradise (Punto 23): *chibi*.
+- No hay gotas de sudor ni fondos de emoción propios documentados en las
+  partes ⚠️: no añadirlos.
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+Segunda pasada, del investigador de texto (`partes/texto.md`). Lo ya
+medido de línea y color está en §16, §17 y §18.1; aquí va **cómo se hizo**
+y **cómo copiarlo**.
+
+### 18.a Quién hace el estilo
+- **Madhouse**. Dirección: **Keiichirō Saitō**. Dirección de arte: Sawako
+  Takagi. Color: Harue Oono. Fotografía: Akane Fushihara. **Director de
+  acción**: Tōru Iwazawa (AniList, `partes/datos-texto.md`) ✅.
+
+### 18.b Lo que dicen el estudio y la prensa
+- **La idea de Saitō**: no le importan las peleas vistosas, sino «**cómo
+  mostrar lo cotidiano** que parece no tener importancia». Usa el
+  **encuadre y el silencio** para que se note el tiempo. Ejemplo: en el
+  ep. 22 el restaurante favorito ha cambiado y Frieren no · [Real Sound,
+  7-mar-2024](https://realsound.jp/movie/2024/03/post-1593982.html) ✅.
+- **La acción, a mano y sin CGI**: Iwazawa dibuja a mano hasta el
+  **baile de Fern y Stark** (T1-15) · [Real Sound,
+  18-ene-2024](https://realsound.jp/movie/2024/01/post-1542362_2.html) ✅.
+- **Rotoscopia** (dibujar encima de un vídeo real): los fans la ven al
+  quitarse un abrigo en T1-09 · [Togetter](https://togetter.com/li/2253157)
+  ⚠️; AniList le pone la etiqueta «Rotoscoping» (47 %). Dos fuentes, pero
+  ninguna del estudio.
+- **El ED de la T2, a lápiz de color**: Mimei Aomume lo dibujó a mano en
+  papel; «cada escena de unos segundos pidió docenas de dibujos» ·
+  [Real Sound, ene-2026](https://realsound.jp/book/2026/01/post-2282483.html)
+  y [Where Creativity Works](https://wherecreativityworks.com/the-art-of-frieren/) ✅.
+- **Los fondos de Yoshioka**: base de **acuarela sobre papel** (usa el
+  sangrado del pigmento y la pincelada); luego **modela la ciudad en 3D**,
+  pone cámaras virtuales, **imprime** y **redibuja a mano en Photoshop** ·
+  [MdN 1/2](https://www.mdn.co.jp/design/features/7151) y
+  [MdN 2/2](https://www.mdn.co.jp/design/features/7155) ✅.
+- **Sombreado plano de un solo tono**: un tutorial japonés de estilo
+  Frieren en Clip Studio: línea limpia aparte, **líneas de sombra y brillo
+  en color** (色トレス), **color base plano**, **una sola sombra** (1陰) y
+  un brillo. Pincel de línea de **5-9 px a 350 ppp**. «Lo simple deja ver
+  los errores» · [note.com/manyplay_aihara](https://note.com/manyplay_aihara/n/n515582fd677f)
+  ⚠️ (tutorial de fan, no del estudio). Los espectadores lo comparan con
+  el sombreado **más recargado** de *Vinland Saga* o *Mushoku Tensei*.
+- **Aberración cromática** (borde de color como de lente): sólo la
+  comentan espectadores ⚠️. La técnica general del anime está explicada
+  por la Agencia de Cultura de Japón · [mediag.bunka.go.jp](https://mediag.bunka.go.jp/article/article-18117/)
+  (no habla de Frieren).
+- **El manga**: Tsukasa Abe **lloró dibujando el capítulo 2**, según su
+  editor (Punto 24). No encontré qué programa ni qué tramas usa ⚠️.
+
+### 18.c Cómo hacerlo en Photoshop
+1. **Línea** en capa aparte: 5-9 px a 350 ppp (2-4 px a 150 ppp). **No
+   negro puro**: marrón oscuro en la piel, gris azulado en lo blanco.
+   Capa en **Multiplicar**.
+2. **Color base plano**, sin aerógrafo. «Bloquear píxeles transparentes».
+3. **Una sola sombra**: capa en Multiplicar al 70-85 %, un tono más
+   oscuro y un poco más frío; pincel **duro**, sin difuminar.
+4. **Brillo** (Trama o Luz suave) sólo en pelo y ojos.
+5. **Fondo**: base de acuarela (pincel de acuarela con flujo bajo, o
+   papel escaneado en Multiplicar al 20-30 %) y el detalle de los
+   edificios encima con pincel duro, como Yoshioka.
+6. Opcional: **grano** fino (Ruido 2-3 %) y aberración de 1 px en rojo y
+   azul en los bordes. No confirmado del estudio ⚠️.
+
+### 18.d Cómo hacerlo en Blender
+1. **Objetos**: el bastón de Sketchfab (CC BY 4.0, §4). Personaje: un
+   maniquí libre de cabeza grande y cuerpo esbelto.
+2. **Shader**: *Diffuse BSDF* + *ColorRamp* de 2-3 paradas (sombra, luz,
+   brillo), no *Principled*. O el add-on Malt si está.
+3. **Contorno**: **Freestyle** a 1,5-2 px (se puede colorear por capas) o
+   **Solidify** invertido con material oscuro (más simple).
+4. **Fondos a lo Yoshioka**: bloques simples, cámara con el mismo
+   encuadre que un plano de la serie, render *toon* y retoque a mano.
+5. **Luz**: una luz de área grande y suave y un relleno tenue. Sombras
+   duras sólo en la acción.
+
+### 18.e Encuadres y composición
+- **Planos altos con flores o hierba delante** para dar profundidad; de
+  noche, colores **saturados contra desaturados** · [Where Creativity
+  Works](https://wherecreativityworks.com/the-art-of-frieren/) ⚠️ una
+  fuente.
+- En lo íntimo (la hoguera), **fondo simple**: manda la emoción, no el
+  detalle. Encaja con la idea de Saitō de 18.b.
+- Tiempo que pasa: **mismo sitio, otro momento** (el restaurante del
+  ep. 22). Sirve para una lámina «antes y ahora».
+
+## Punto 19 · Texturas 2D (tramas, papel, rayas y emblemas)
+
+Segunda pasada, del investigador de imagen (`partes/imagen.md`). Las
+texturas reales (madera, piedra) de Poly Haven ya están en §5.4.
+
+### 19.1 Tramas del manga (mirado en un panel real)
+- Panel del **capítulo 41** (llegada al frente norte): las montañas
+  llevan **trama de punto fino en degradado** (más densa arriba) con
+  **rayas blancas verticales** encima. La multitud va con **rayado fino y
+  denso**, casi sin trama. Algunos pechos llevan **cuadros dibujados a
+  mano** · [panel, 595×343](https://static.wikia.nocookie.net/frieren/images/7/70/Northern_Magic_Corps_CH41.png)
+  (visto ampliado ×3) ✅, y páginas de muestra de
+  [Shōgakukan](https://shogakukan-comic.jp/book?isbn=9784098508761).
+- Qué marca de trama usa Abe: **no lo encontré** ⚠️.
+- **Libre para copiarla**: [svg-halftone](https://github.com/evestera/svg-halftone)
+  (código abierto, MIT) ✅; o la web [HalftoneDots](https://halftonedots.com/halftone-pattern)
+  ⚠️ licencia sin aclarar.
+
+### 19.2 Papel
+- La **guía oficial** (§3) va sobre papel **casi blanco** (`#FDFDFD` a
+  `#FFFFFF`, medido) con un **marmolado gris** muy suave ✅.
+- **Libre**: [Paper 006 de ambientCG](https://ambientcg.com/a/Paper006),
+  papel beige con grano, **CC0** (sin crédito) · muestra 1024×1024 ✅.
+
+### 19.3 Pinceladas de acuarela
+- Los fondos son **acuarela pálida** (Yoshioka, §5.1 y Punto 18.b).
+- No encontré una textura de acuarela libre de descarga directa ⚠️
+  (Rawpixel y Freepik piden cuenta). **Plan**: pincel «Acuarela húmeda»
+  de Photoshop sobre Paper 006, o desenfoque gaussiano + papel en
+  Multiplicar.
+
+### 19.4 Patrones de ropa
+- **La camisa de rayas de Frieren**: rayas **gruesas**, del mismo ancho,
+  **blanco `#FFFFFF` y casi negro `#181818`-`#1E1E1E`**, horizontales y
+  curvadas con el cuerpo · medido en la hoja oficial (`referencias.json`
+  n.º 0) ✅ + texto de la wiki
+  («[striped black-and-white shirt](https://frieren.fandom.com/wiki/Frieren#Appearance)») ✅.
+  Se ve sólo en el cuello: fácil de olvidar.
+- **Fern, Stark y Himmel**: ropa de **color liso**; sólo se repite el
+  **ribete dorado** de Frieren y Fern (§16) ✅.
+- **Rayas libres**: [freesvg.org](https://freesvg.org/stripe-seamless-pattern)
+  ⚠️ licencia por archivo sin aclarar. Más seguro: dibujarlas (blanco y
+  negro alterno).
+
+### 19.5 Emblemas
+- **El Emblema Sagrado** (聖杖の証): **rombo de metal** con aspa, un
+  **remache** en cada punta y **dos cuernos curvos** arriba que sujetan
+  una anilla; metal gris mate con manchas oscuras · [wiki, «Holy
+  Emblem»](https://frieren.fandom.com/wiki/Holy_Emblem), imagen de
+  **1920×1080** (EP18), mirada entera ✅.
+  - Medido con `estilo.py`: metal de `#7A868E` a `#A8BECD`, sombra en
+    degradado suave, **contorno fino `#62605B`**; fondo de vidriera
+    `#A4A796`, `#D0ECED`, `#423E3C`.
+  - Frieren lo tiene en la mano en T1-11 ≈09:47 (F9, §15). Qué acredita:
+    una parte dice «insignia de gran mago», otra «de un personaje
+    religioso» ⚠️ (no coinciden).
+  - **Sirve de medalla o botón** en una lámina: objeto real, con historia.
+- La **sala del examen** tiene emblema en el atril y vidrieras
+  geométricas: `pantalla_01` n.º 8 ✅.
+- **No encontré** escudo propio de un gremio, de un país ni de la
+  Asociación Continental de Magia ⚠️ (búsquedas en la wiki con
+  `srwhat=text` y en [scrapbox.io/frieren](https://scrapbox.io/frieren/%E5%A4%A7%E9%99%B8%E9%AD%94%E6%B3%95%E5%8D%94%E4%BC%9A)).
+- **Metal libre**: [Metal 034](https://ambientcg.com/a/Metal034), oro
+  liso, CC0 · 1024×1024 ✅ (cuellos, hebillas o un emblema dorado).
+
+### 19.6 Tela y cuero (complemento de §16)
+- **Lana blanca** (capa de Frieren y Fern): [Fabric 019](https://ambientcg.com/a/Fabric019), CC0 ✅.
+- **Cuero marrón** (botas, correa de Stark): [Leather 037](https://ambientcg.com/a/Leather037), CC0 ✅.
+
+**Las capas, juntas**: 3D (§4) + texturas reales (§5.4) + papel, tela,
+cuero y metal CC0 (aquí) + trama y rayas (19.1, 19.4). No falta ninguna.
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+Segunda pasada, del investigador de voz (`partes/voz.md`). Fuente
+principal: el **Official Fan Book** de Shōgakukan (160 págs.,
+12-ene-2024, ISBN 978-4-09-853106-6), transcrito en la
+[wiki, «Official Fan Book»](https://frieren.fandom.com/wiki/Official_Fan_Book)
+(portada 1304×2048) ✅. Edad y altura, de la ficha de cada uno. Lo que
+tiene una sola fuente lleva ⚠️.
+
+| | Frieren | Fern | Stark | Himmel |
+|---|---|---|---|---|
+| **Comida favorita** | **pudín Merkur** ⚠️ | **dulces** ⚠️ | **Jumbo Berry Special** (la hamburguesa gigante del cumpleaños, §2) ✅ | **tortilla Ruf** ⚠️ |
+| **Lo que ama** | **coleccionar grimorios** y hechizos ⚠️ | la magia: sin ella, «la han tirado a la oscuridad» (cap. 61, pág. 14) ⚠️ | — | que lo recuerden; posar para estatuas (§8) |
+| **Lo que odia** | **la cebolla** (cap. 94, pág. 6) ✅ | — | ser cobarde | — |
+| **Flor** | **flor de cerezo carámbano** en invierno (cap. 36, pág. 11) ⚠️ | motivo **mariposa** en su ropa ⚠️ | — | la **flor de su país** que enseña en T1-02 (§10.4) y el **anillo de loto espejo** que regala (Punto 21) |
+| **Edad** | más de **1000** años | 9 → 19-20 | 17 → 20 | ~26 → ~76 (tras el salto) |
+| **Altura** | **150 cm** (*companion book*) | **162 cm** (152 cm a los 16) | **no publicada** ⚠️ | **no publicada** ⚠️ |
+| **Lo que siempre lleva** | su **bastón**; grimorios que cobra como pago | **broche de mariposa**, regalo de Frieren por sus 16 | **hacha de doble filo** (de Eisen); **brazalete de plata**, regalo de Fern por sus 18 ([wiki en español](https://frieren.fandom.com/es/wiki/Stark)) ✅ | su **espada** (una réplica) y su **diario** del viaje |
+| **Cómo se ve** | «**una chica corriente**», si se quita la magia (cap. 61, pág. 11) ⚠️ | alguien que se aferra a la magia; Heiter la salvó de niña | **se desprecia por cobarde**, y pelea igual | **guapo, en broma**: se llama «hombre atractivo» ✅ (§8) |
+
+**Cumpleaños**: **no hay ninguno oficial**. El campo está **vacío** en la
+wiki en inglés y en la española, en las cuatro fichas ✅. Algunos fans usan
+el **12 de enero** (salida del Fan Book): es una fecha de libro, **no un
+cumpleaños** ⚠️. En la lámina, no poner fecha.
+
+**Secundarios queridos** (Fan Book, una fuente ⚠️):
+- **Heiter**: bebe **alcohol** «más a gusto que comer tres veces al día».
+- **Eisen**: **uvas, cuanto más agrias mejor**.
+- **Übel**: su sonido favorito, **cortar tela** (su hechizo Reelseiden).
+- **Serie**: le gustan **los magos con talento**.
+- **Sein**: le gustan **las mujeres mayores**, beber, apostar y fumar.
+- **Methode**: lo último que le gustó, un **golem escapista**.
+
+**Para la lámina**: el objeto de Frieren para una biblioteca no es sólo el
+bastón: **cobra en grimorios** y **colecciona hechizos inútiles**.
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+Segunda pasada, del investigador de voz. Las **encuestas** ya están en
+§9; aquí van premios, ventas, con quién se identifica el público y qué
+escenas hacen llorar.
+
+### 21.1 Premios y ventas
+- **Manga Taishō 2021**: ganó con **91 puntos**, votado por libreros ·
+  [Anime News Network](https://www.animenewsnetwork.com/news/2021-03-15/frieren-beyond-journey-end-wins-14th-manga-taisho-awards/.170587)
+  ✅ (Goodreads y Manga Republic dan lo mismo).
+- **Crunchyroll Anime Awards** (la parte dice 9.ª edición): Mejor
+  Director (Saitō), Mejor Chico (**Stark**), Mejor Chica (**Fern**),
+  Mejor Adaptación, Mejor Drama y Mejor Opening («勇者», YOASOBI); **2.º**
+  en Anime del Año ·
+  [Anime Corner](https://animecorner.me/frieren-beyond-journeys-end-voted-2024-best-anime-of-the-year-runner-up-wins-5-awards/).
+  El de Saitō lo confirma Wikipedia ✅; el resto, una fuente ⚠️. La parte
+  habla de «5 premios» y enumera 6 ⚠️.
+- **Ventas**: 10 millones antes del anime → **más de 30 millones** en
+  julio de 2025 · [Anime News Network](https://www.animenewsnetwork.com/news/2025-07-17/frieren-beyond-journey-end-manga-exceeds-30-million-copies-in-circulation-worldwide/.226759)
+  ✅. «35 millones» en 2026 sale sólo de Facebook ⚠️.
+
+### 21.2 Con quién se identifica la gente, y por qué
+- **Stark**: **tiene miedo y pelea igual**. Mata a un dragón de un golpe
+  pese al miedo ([Anime News Network, reseña eps. 1-6](https://www.animenewsnetwork.com/review/frieren-beyond-journey-end/episodes-1-6/.203473))
+  y Frieren **aprueba huir** en vez de avergonzarlo
+  ([Crunchyroll, «How Running Away Became Frieren's Most Powerful Skill»](https://www.crunchyroll.com/news/features/2026/3/23/frieren-most-powerful-skill-running-away))
+  ✅. Resumen en [Wikipedia, «Stark (Frieren)»](https://en.wikipedia.org/wiki/Stark_%28Frieren%29).
+  **Sirve** para un canal de miedo escénico (grabar, cantar).
+- **Frieren, para quien perdió a alguien**: una «clase magistral sobre el
+  duelo»; el tema es el **arrepentimiento lento** ·
+  [Screen Rant](https://screenrant.com/frieren-beyond-journeys-end-depression-sad-study-op-ed/)
+  ⚠️; mismo tono en [Medium](https://medium.com/@wasin.silakong/why-frieren-beyond-journeys-end-earned-my-tears-c90115ebd4bb)
+  y el pódcast [Discover More](https://www.discovermorepodcast.com/blog/exploring-grief-time-and-regret-a-psychological-look-at-frieren/).
+- **Sus actrices latinas** lo dicen igual ([Excélsior](https://www.excelsior.com.mx/espectaculos/mensaje-frieren-sobre-tiempo-erika-ugalde-y-azucena-estrada-explican-1),
+  leída entera ✅):
+  - **Erika Ugalde** (Frieren): «Frieren nos enseña: no, espera, **vive
+    para que puedas aprenderlo**» (frente a la respuesta rápida del
+    teléfono).
+  - **Azucena Estrada** (Fern), dirigida por su padre: cada escena la hace
+    «reflexionar sobre el tiempo… y mi tiempo con mi papá».
+
+### 21.3 Las escenas que hacen llorar
+
+| Escena | Dónde | Por qué duele | Cómo reaccionó la gente |
+|---|---|---|---|
+| **Himmel le pone el anillo de loto espejo a Frieren** | manga cap. 30, pág. 18; anime **T1-14 ≈19:35** | promesa callada: ninguno dice lo que siente | **1.ª página** en la encuesta oficial de Shōgakukan ([wiki en español, «Himmel»](https://frieren.fandom.com/es/wiki/Himmel)) ✅ y el post que más hizo llorar en r/Frieren: **3405 votos** ([Reddit](https://www.reddit.com/r/Frieren/comments/1couqzb/i_dont_know_why_but_this_scene_made_me_cry_like_a/); su imagen, [2050×1170](https://i.redd.it/cryrv7eltmzc1.jpeg), es este fotograma) ✅ |
+| **Funeral de Himmel** y la **magia del campo de flores** que los unió | **T1-01 15:00-16:17**; recuerdo en T1-02, T1-10 y T1-27 (§2) | ella tarda **diez años** en entender lo que sentía | «Lloré en cada episodio… sobre todo con Himmel de niño y el hechizo de flores» (traducido del inglés; 403 votos, [Reddit](https://www.reddit.com/r/Frieren/comments/1q2juwv/chapters_that_made_me_cry_all_of_them/)) ⚠️ |
+| **Stark le enseña a Fern sus buenos modales** | manga cap. 32, pág. 10 | ternura entre los dos jóvenes, sin palabras grandes | **3.ª** en la encuesta de Shōgakukan ([wiki en español, «Stark»](https://frieren.fandom.com/es/wiki/Stark)) ⚠️ |
+
+- **Cómo está hecha la del anillo**: ver el fotograma de Reddit y §2.
+  **Qué música suena** a los 19:35: no lo encontré ⚠️ (la lista de §11 no
+  da minutos de la T1).
+- **Para la lámina**: la **escena del anillo** es la imagen que resume
+  «por qué la aman» (1.ª oficial y la más votada en Reddit).
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Segunda pasada, del investigador de voz. Título y canal confirmados con el
+**oEmbed de YouTube** (no pide iniciar sesión). **Vistas: no se pudieron
+medir** ⚠️ (`yt-dlp` pidió iniciar sesión; TikTok no da la cifra).
+
+### 22.1 Fandubs (voces hechas por fans)
+- «**El recuerdo de FRIEREN【Comic Fandub】**», canal **Dari Studio**: voces
+  sobre un fancómic del recuerdo de Frieren ·
+  [YouTube](https://www.youtube.com/watch?v=6PId2CPPt5w) ✅.
+- Hay **episodios enteros «en español latino»** subidos por fans a TikTok
+  y Facebook, sin crédito de estudio ni de actores: **no los cuento** como
+  fandub verificado ⚠️.
+
+### 22.2 Covers de los openings en español latino ✅
+
+| Cover | Canal | Enlace |
+|---|---|---|
+| «Yuusha» (OP1), Fandub | **Lyrical Legends Music** | [YouTube](https://www.youtube.com/watch?v=NxIiFvcV9ek) |
+| «Yuusha『勇者』», versión completa | **Moon • Tsuki** | [YouTube](https://www.youtube.com/watch?v=L2tPUkMr1yU) |
+| «Yuusha \| Cover español» | **Luikitsune covers** | [YouTube](https://www.youtube.com/watch?v=3XOBWyNZQ1w) |
+| «Yuusha», Cover en Español | **nani** | [YouTube](https://www.youtube.com/watch?v=1e3hsZtAIcI) |
+| «Haru / Sunny» (OP2, Yorushika), Fandub | **Lyrical Legends Music** | [YouTube](https://www.youtube.com/watch?v=P91pebm556w) |
+
+- Versión de estudio en español de **Lin** (16-feb-2025), en Apple Music:
+  el cover **llegó a plataformas de pago** ·
+  [Apple Music](https://music.apple.com/gb/album/frieren-opening-1-yuusha-cover-espa%C3%B1ol-single/1796372772) ⚠️.
+
+### 22.3 Memes y parodias hispanas
+- **«Frieren hace berrinche»**: tendencia de TikTok (feb-2026) con la
+  rabieta de tres días de Frieren (§8), subtitulada o comentada en
+  español · [@elchomusuke.jr](https://www.tiktok.com/@elchomusuke.jr/video/7601343621782113556)
+  y [@liamsamano](https://www.tiktok.com/@liamsamano/video/7601529504183438610) ⚠️.
+- «**¡¡FRIEREN HACE BERRINCHE A SUS 1000 AÑITOS!!**», clip del doblaje
+  latino subido por un fan, **205 mil vistas** (§14). Une la edad del
+  Punto 20 con la comunidad.
+
+### 22.4 La comunidad con las voces oficiales
+- Fans etiquetan a **Erika Ugalde** en TikTok («es la voz de uno de mis
+  personajes favoritos») · [@stormky](https://www.tiktok.com/@stormky/video/7574927355974601991) ⚠️.
+- «**¡Conoce a las voces detrás de Frieren y Fern en español latino!**»,
+  canal **Indigo GEEK** · [YouTube](https://www.youtube.com/watch?v=aPOQSpWllg4) ✅.
+- Entrevistas a Ugalde y Estrada: [Excélsior](https://www.excelsior.com.mx/espectaculos/mensaje-frieren-sobre-tiempo-erika-ugalde-y-azucena-estrada-explican-1)
+  ✅ y [La Cosa Cine](https://www.lacosacine.com/videos/frieren-entrevista-erika-ugalde-azucena-estrada/)
+  ⚠️ (sólo el título).
+
+**Para el servidor**: cinco covers latinos son prueba de que la comunidad
+**ya canta la serie**; buen gancho para #🎟️・eventos o un reto de canto.
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+Segunda pasada, del investigador de imagen. Las colaboraciones con
+**videojuegos** y USJ ya están en §13.1; aquí va el resto. Fuente base:
+[collabo-cafe.com, categoría Frieren](https://collabo-cafe.com/events/category/frieren/)
+(24-sep-2026), cruzada con la web de cada marca cuando se pudo.
+
+### 23.1 Marcas, tiendas y eventos
+
+| Colaboración | Fechas | Qué trae | Fuente |
+|---|---|---|---|
+| **Sweets Paradise** (5 tiendas) | 3-31 mar 2026 | **uniforme de pastelero *chibi*** para Frieren, Fern, Stark, Himmel, Heiter y Eisen: gorro blanco con cinta de color, delantal marrón, camisa blanca. Frieren con **batidor y bastón**, Fern con uvas, Stark con tarta, Himmel con **pastel gigante**, Heiter con cuchillo y fruta, Eisen con libro | [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-cafe-sweets-paradise-2026/) · visual **visto** (1500×1060) ✅ |
+| **«社交界ver.» (alta sociedad) × Loft** | 20 feb-8 mar 2026 | **ropa de gala nunca vista**: Frieren con vestido blanco de hombros al aire y una rosa; Fern de lila; Stark con casaca roja y charreteras doradas; Himmel con capa roja, brazo en alto; Heiter de azul con copa; Eisen de verde con monóculo | [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-high-society-pop-up-store-amnibus-loft-2026/) · visual **visto** (1500×842) ✅ |
+| **Frieren Café ~Flower Garden~** | desde 31 jul (Tokio, luego Osaka y Nagoya) | ilustraciones con **trajes de flores** | [frieren-anime.jp/news/4244](https://frieren-anime.jp/news/4244/) ⚠️ (403; visto por el buscador) |
+| **PARCO POP UP** | — | Frieren y Fern leen sobre pilas de libros | `referencias.json` n.º 5 (§3) ✅ |
+| **Seven-Eleven** | 24 sep-7 oct 2026 | helados con acrílicos de regalo | [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-seven-eleven-campaign-2026/) ⚠️ |
+| **USJ**, restaurante | 30 may 2026-11 ene 2027 | menú temático | [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-usj-osaka-restaurant-2026/) + [Famitsu](https://www.famitsu.com/article/202511/58865) ✅ |
+| **Abeno Harukas 300** (mirador, Osaka) | desde 28 abr 2026 | evento en el observatorio | [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-benoharukas-300-2026/) ⚠️ |
+| **Librerías**, feria con la exposición Vermeer | desde 20 jul 2026 | promoción en librerías de Japón | [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-vermeer-exhibition-bookstore-fair-2026/) ⚠️ |
+| **Pico Pale**, llaveros de metal | desde 29 ago 2026 | cápsulas en máquinas | [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-pico-pale-metal-charm-marker-2026/) ⚠️ |
+| **Noodle Stopper**, figuras de premio | desde ago 2026 | figuras nuevas | [collabo-cafe](https://collabo-cafe.com/events/collabo/frieren-noodle-stoper-prize-2026/) ⚠️ |
+| **Real Escape Game** | desde 10 sep 2026 | (§13.1) | — |
+| **Uniqlo UT / GU** | ? | camisetas | sólo redes de terceros: **no verificado** ⚠️ |
+
+La parte escribe el fin de USJ como «11-ene-2026 (año siguiente)»: se
+entiende enero de 2027 ⚠️.
+
+### 23.2 Figuras oficiales (su pose es una referencia 3D)
+
+| Figura | Pose y qué trae | Fuente |
+|---|---|---|
+| **Nendoroid Frieren** (~100 mm) | 3 caras (neutra, pícara, *chibi*); bastón, grimorio, hierba de luna azul | [Good Smile](https://www.goodsmile.com/en/product/56111) ✅ |
+| **Nendoroid Stark** | 3 caras (sonrisa, decisión, **llanto**); hacha; extra: la **hamburguesa enorme** del cumpleaños (T1-12) | [Dengeki Hobby](https://hobby.dengeki.com/news/2362750/) ✅ |
+| **Nendoroid Himmel** | 3 caras (decisión, etérea, ojos cerrados); espada; **corona de loto azul** (ep. 2); extra: anillo de loto espejo | [Dengeki Hobby](https://hobby.dengeki.com/news/2362750/) ✅ |
+| **POP UP PARADE Frieren: Blow Kiss** (165 mm) | **abrigo blanco cruzado de invierno** con botones marrones, **bufanda azul**, botas marrones; manda un beso con la otra mano abierta. Escultor Daigaku | [Good Smile](https://www.goodsmile.com/en/product/60707) · foto **vista** (750×1050) ✅ |
+| **POP UP PARADE Frieren** y **Braids Ver.** (160-165 mm) | de pie con el bastón / con trenzas | `partes/datos-imagen.md` ✅ |
+| **POP UP PARADE Himmel** | **espada clavada en el suelo, sonriendo**: pose de presentar | [Natalie](https://natalie.mu/comic/news/671304) ⚠️ (403; sólo el título) |
+| **Fern 1/7 «追憶のひととき»** (¥22.000, ago-2026) | bastón al hombro, **mariposa azul en la mano**, capa negra abierta | [Hobby Watch](https://hobby.watch.impress.co.jp/docs/news/2035669.html) · foto **vista** ✅ |
+| **Funko Pop!** Frieren, Fern, Himmel, Stark | cada uno con su objeto | [Collider](https://collider.com/frieren-beyond-journeys-end-figures-funko-pop-images/) + [Pop Shop Guide](https://www.popshopguide.com/2025/06/18/funko-pop-frieren/) ✅ |
+| **Funko Pop! «Frieren en un Mimic»** | **el cofre se la está comiendo**: el gag de §14 hecho figura | [Funko](https://funko.com/pop-frieren-in-a-mimic/87125.html) + Collider ✅ |
+| **Funko Pop! Himmel** (*chase*, 1 de 6) | corona de hierba de luna azul | Collider ⚠️ |
+| **Funko Pop! Plus Frieren (Flower Crown)** | corona de flores | [Funko](https://funko.com/pop-plus-frieren-flower-crown/88552.html) ⚠️ |
+| **POP MART**, caja sorpresa | serie de figuras; poses sin comprobar | [POP MART](https://www.popmart.com/us/products/5697/frieren-beyond-journey-s-end-series-figures) ⚠️ |
+| **Loungefly × Crunchyroll** | mochila de **satén** con detalles dorados y rojos; bandolera **irisada** con el bastón en relieve | [Amazon](https://www.amazon.com/Loungefly-September-2025-Catalog-Item/dp/B0DSQXS48Q) + [Merchoid](https://www.merchoid.com/loungefly-crunchyroll-frieren-beyond-journey-s-end-crossbody-bag/) ✅ |
+| **Bolsa de Crunchyroll Store** | las **armas** de la serie estampadas | [Crunchyroll Store](https://store.crunchyroll.com/products/frieren-beyond-journeys-end-frieren-tote-crunchyroll-exclusive-400000043958.html) ⚠️ |
+
+**Lo que confirma**: los gags de fans (Frieren en el Mimic, la hamburguesa
+de Stark) **ya son mercancía oficial**: se pueden usar sin miedo.
+
+### 23.3 Cosplay bien hecho
+- **18 fotos en Wikimedia Commons** (la parte dice 17) de **Benlisquare**, **CC BY-SA 4.0**:
+  Comiket 105 y 107, Comic World Taiwan-Kaohsiung 49 y SMASH 2025.
+  Cosplay de **Frieren, Fern y Übel**, de 3793×5702 a 6048×4024 px. Varias
+  tomas del mismo cosplay a 10-18 mm: sesión cuidada ✅. Ejemplos:
+  [Frieren, Comiket 107](https://upload.wikimedia.org/wikipedia/commons/d/d9/Frieren_cosplay_at_Comiket_107.jpg),
+  [Fern, Comiket 105](https://upload.wikimedia.org/wikipedia/commons/a/a9/Fern_cosplay_at_Comiket_105.jpg).
+  Todas en `referencias.json`.
+- **Tela, costura y volumen, sin mirar** ⚠️: Wikimedia dio **429** tres
+  veces. Queda para quien retome.
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+Segunda pasada, del investigador de texto, y cabeceras de las biblias del
+repositorio.
+
+### 24.1 Obras de tono parecido
+- **Recomendaciones de usuarios** (AniList, `partes/datos-texto.md`):
+  *Violet Evergarden*, *Delicious in Dungeon*, *Wandering Witch*, *To
+  Your Eternity*, *Witch Hat Atelier*, *Mushi-shi*, *The Apothecary
+  Diaries*, *Girls' Last Tour*, *Kino's Journey*, *Maquia*, *Spice and
+  Wolf*, *Mushoku Tensei*.
+- El subgénero: fantasía de **«después de la aventura»** (*post-quest*).
+  La crítica en inglés la compara sobre todo con *The Apothecary Diaries*
+  y *Delicious in Dungeon* (vida diaria en un mundo de fantasía).
+
+### 24.2 Lo que dicen el autor y el editor
+- **El editor, Katsumasa Ogura** (*Shōnen Sunday*): la clave es «la
+  **pureza del sentimiento**»; una historia que **empieza cuando la
+  aventura ya terminó** le pareció nueva por contar algo universal. Supo
+  que funcionaría cuando **Tsukasa Abe lloró dibujando el capítulo 2**
+  («描きながら泣きました») · [Hachimonjiya](https://www.hachimonjiya.co.jp/column/entry-67.html/page/3/) ✅.
+- **Kanehito Yamada** recomendó el manga ***Nemu the Corpse Carrier***:
+  «un viaje para llevar a los muertos que se siente **extrañamente
+  cálido**» (2026) · [CBR](https://www.cbr.com/frieren-creator-recommends-nemu-corpse-bearer-manga/)
+  ⚠️ (una fuente; es una recomendación, no «lo que me influyó»).
+- Una entrevista de Yamada sobre **sus influencias**: no la encontré ⚠️.
+
+### 24.3 Láminas del servidor que se le parecen (para no repetir)
+
+| Biblia | Su canal o idea | Qué comparte con Frieren | Qué no repetir |
+|---|---|---|---|
+| **22 Violet Evergarden** | **#poemas** (escribir con el corazón de otro) | duelo, tiempo que pasa, tono pausado | **choca con el concepto B** (§19, #✍️・poemas): si se usa, que sea el grimorio y la magia de flores, **no cartas** ni máquina de escribir ⚠️ decide el dueño |
+| **77 Wistoria** | Aula (escuela de magia) | exámenes de magos, fantasía medieval | **no poner un aula**: el examen de Frieren es **al aire libre** y en grupo |
+| **03 Solo Leveling** | #guia | rangos de magos (1.º a 9.º) | tono urbano y moderno: poco riesgo |
+| **78 Vinland Saga** | #proyectos (propuesta) | los fans comparan el dibujo: Vinland tiene sombreado **más recargado** (Punto 18.b) | no choca de canal; mantener el sombreado plano de Frieren |
+
+`80-solo-leveling…` y `81-mushoku-tensei` aún no tienen `biblia.md` ⚠️.
+
+## Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+Segunda pasada, del investigador de texto. Fuentes cruzadas:
+[Wikipedia en japonés](https://ja.wikipedia.org/wiki/%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3),
+[frieren.guide](https://www.frieren.guide/magic-guide),
+[296.fm](https://296.fm/sousounohuriren-firstclassmagician/) y
+[scrapbox.io/frieren](https://scrapbox.io/frieren/%E5%A4%A7%E9%99%B8%E9%AD%94%E6%B3%95%E5%8D%94%E4%BC%9A).
+
+### 25.1 Las reglas del mundo en cinco líneas ✅
+1. La magia usa **maná**, un aura que sale de todo ser vivo. Los magos
+   pasan **décadas** aprendiendo a sentirlo.
+2. Tras vencer al Rey Demonio, la magia se volvió **casi académica**: el
+   ***Zoltraak*** (ゾルトラーク), la magia que mataba de los demonios, hoy
+   es el **ataque básico** que se enseña.
+3. La **Asociación Continental de Magia** (大陸魔法協会), de la gran maga
+   **Serie**, da **rangos del 9 al 1**. Sólo hay **45 magos de rango 1**;
+   el título da derecho a pedirle a Serie **un hechizo** (tres fuentes).
+4. **Esconder el maná** (lo que Flamme enseñó a Frieren) vale más que la
+   fuerza: los demonios miden al rival por el maná que ven.
+5. **Vidas de distinto largo**: elfos ~**mil años**, enanos ~**300**,
+   humanos unas décadas. Ese desfase es el motor de la serie.
+
+### 25.2 La historia por arcos (manga)
+
+| Arco | Capítulos | Momento clave |
+|---|---|---|
+| Fin del viaje del héroe | prólogo | vencen al Rey Demonio; prometen ver la **lluvia de estrellas** en 50 años |
+| Reencuentro y muerte de Himmel | 1-5 | el **funeral** de Himmel: Frieren empieza a entender el tiempo humano |
+| **Aura la Guillotina** | 14-23 | primer gran combate; Stark y Fern luchan solos; «Aura, suicídate» |
+| Viaje a Äußerst | 24-36 | se une Sein y se va, a buscar al «Guerrero Gorila» |
+| **Examen de mago de primer nivel** | 37-60 | pruebas al aire libre; aparece **Übel**. **Fin de la T1** del anime |
+| Divine Revolte | 71-76 | Stark muestra su fuerza junto a Genau |
+| **Tierra Dorada** | 77-104 | Denken vuelve a su tierra, Weise; Macht de El Dorado |
+| Viaje al pasado | 105-119 | Frieren vive con Himmel en una ilusión que no se repetirá |
+| Festival de Fundación | 126-en curso (147 a oct-2025) | conspiración de los «Guerreros Sombra»; vuelven el Guerrero Gorila y Sein |
+
+Capítulos de [Game Rant](https://gamerant.com/frieren-before-journeys-end-manga-best-arcs/)
+⚠️ (una fuente); el orden y que la T1 acaba en el examen, confirmados en
+la Wikipedia japonesa ✅.
+
+### 25.3 Emblemas, objetos y palabras que un fan reconoce
+- **Objetos**: el **bastón** de Frieren (cabeza dorada, gema roja, asta
+  roja; modelo 3D en §4), su **capa de viaje**, el **Emblema Sagrado**
+  (Punto 19.5), el **anillo de loto espejo** (Punto 21), los
+  **grimorios** (Punto 20) y la **hamburguesa** de Stark.
+- **La lluvia de estrellas de Era**, cada 50 años: la cita que ordena la
+  serie ✅ ([Wikipedia en inglés](https://en.wikipedia.org/wiki/Frieren) y
+  AniList). Fotograma en `referencias.json` n.º 15.
+- **Emblema de la Asociación**: no encontré un logo oficial, sólo la
+  insignia de rango ⚠️.
+- **Vocabulario**: *Zoltraak*, **maná** y **ocultar el maná**, **mago de
+  primer nivel**, **Aureole** (オレオール, el destino final del viaje),
+  **Mimic** (el cofre que se come a Frieren, §14) y «**Himmel lo habría
+  hecho**» (勇者ヒンメルならそうしました, §9; su versión latina, sin
+  encontrar, §10.4).
+
 ## 19 · Tres conceptos de lámina
 
 Frieren **no tiene canal todavía** (§0). Propongo **tres láminas para tres
@@ -1677,6 +2252,24 @@ justo el tiempo de cada uno.
 - **B** si prefiere lo **emotivo** (Himmel, el más votado en 2022 y 2024).
 - **C** si quiere usar **frases del doblaje latino** textuales.
 
+### Qué mejora cada concepto con la segunda pasada
+- **A · grimorios**: Frieren **cobra en grimorios** y colecciona
+  hechizos (Punto 20): el atril es su gusto real, no un adorno. Tapa del
+  grimorio en Blender con **Leather 037** y hojas con **Paper 006**; si
+  hace falta un sello, el **Emblema Sagrado** (Punto 19.5) como cierre
+  de metal. El gag del **Mimic** ya es figura oficial (Punto 23.2): vale
+  para la lámina 2.
+- **B · diario de Himmel**: **choca con Violet Evergarden**, que ya
+  tiene #poemas (Punto 24.3). Si el dueño lo quiere igual, que no parezca
+  una carta: poner junto al diario el **anillo de loto espejo**, la
+  página más votada por los fans (Punto 21.3), y la **flor de su país**.
+  ⚠️ decide el dueño.
+- **C · meteoros**: la lluvia de estrellas es el símbolo que ordena la
+  serie (Punto 25.3). Para un evento de canto, citar que la comunidad
+  latina **ya canta «Yuusha»** (5 covers, Punto 22.2).
+- **Técnica de las tres**: sombra plana de un tono y línea de color
+  (Punto 18.c); fondo de acuarela con detalle encima, como Yoshioka.
+
 ## 20 · Lo que no pude verificar
 
 **Lo más importante para la lámina**
@@ -1747,19 +2340,27 @@ justo el tiempo de cada uno.
 | 14. Poses analizadas (6-10 por personaje) | ✅ | §15: **10-12 por personaje** (Frieren, Fern, Stark, Himmel), vistas una a una, con episodio, minuto aproximado y enlace; tabla de presentar / explicar / celebrar / regañar / pensar / animar |
 | 15. Vestuario con hex | ✅ | §16: hex medidos en hojas oficiales; ropa icónica, de invierno y de joven |
 | 16. Ciudades, paisajes y fondos de pantalla | ✅ | §17 (+§5.2): hora del día, 9 fondos oficiales y 3 conceptos de Yoshioka medidos, 6 fondos de fans medidos con autor. ⚠️ la web oficial dio 403 |
-| 17. Guía para generar con IA | ✅ | §18: estilo, rasgos fijos con hex, prompts, palabras que ayudan y estropean, referencias de estilo y de pose |
-| 3 conceptos de lámina | ✅ | §19: #🧰・recursos, #✍️・poemas, #🎟️・eventos, con objeto, sitio, pose, cuadro, letra, textos y profundidad; lámina 2 para las etiquetas |
-| 40 fuentes distintas | ✅ | §21: **53 fuentes distintas** numeradas (y más de 180 enlaces en la biblia) |
-| Fuentes oficiales (web, staff, artbooks, Blu-ray) | ⚠️ | guía oficial (diseñadora y director), entrevista a Seiko Yoshioka (MdN), Web Sunday, TOHO animation, Crunchyroll. **Web oficial 403**; sin comentarios de Blu-ray ni artbook |
-| Otros idiomas (japonés, inglés, coreano o chino) | ✅ | japonés (MdN, note, ORICON, Animate Times, 4Gamer, Game8, hokope, Famitsu, subtítulos); inglés (wiki, KYM, Reddit); chino (GamerSky, KitaujiSub, artistas de Pixiv); coreano ⚠️ sólo por el buscador |
-| Wikis de fans, TV Tropes, TCRF, Wayback | ⚠️ | Frieren Wiki y Doblaje Wiki a fondo. **TV Tropes y Namu Wiki: 403**. TCRF no aplica (no hay juego). Wayback no respondió |
-| Foros y comunidades | ⚠️ | Reddit (Arctic Shift, con votos); Ruliweb y X sólo por el buscador. Sin 4chan ni Tumblr |
+| 17. Guía para generar con IA (imagen y texto) | ✅ | §18.1-18.6: estilo, rasgos fijos con hex, prompts, palabras que ayudan y estropean, referencias de estilo y de pose. **§18.7 (nuevo)**: IA de texto, voz de cada uno, 11 frases reales por emoción con minuto, qué la estropea, vocabulario de gestos. ⚠️ sin onomatopeyas ni gotas de sudor documentadas |
+| 18. Estilo de dibujo y técnica, y cómo replicarlo | ✅ | Punto 18: Saitō y Iwazawa (Real Sound, 2 artículos), ED a lápiz de color (Real Sound + Where Creativity Works), método de Yoshioka (MdN, 2 partes), recetas de Photoshop y Blender, encuadres. ⚠️ sombreado de un tono y aberración cromática sin fuente del estudio; programa y tramas del manga sin encontrar |
+| 19. Texturas 2D | ✅ | Punto 19: trama del manga **mirada** en un panel (cap. 41), papel de la guía medido, rayas de la camisa medidas, **Emblema Sagrado** medido con `estilo.py`, 4 texturas CC0 de ambientCG y svg-halftone (MIT). ⚠️ sin acuarela libre de descarga directa; licencias de freesvg y HalftoneDots sin aclarar |
+| 20. Gustos y detalles de cada personaje | ✅ | Punto 20: tabla de los 4 del **Official Fan Book** (vía wiki) y fichas en inglés y español; 6 secundarios. **No hay cumpleaños oficiales** (campo vacío en dos wikis). ⚠️ varios gustos con una fuente; altura de Stark y Himmel no publicada |
+| 21. Por qué la aman y escenas que hacen llorar | ✅ | Punto 21: Manga Taishō (ANN), premios de Crunchyroll, 30 millones (ANN), identificación con Stark (ANN + Crunchyroll) y con el duelo (Screen Rant, Medium, pódcast), actrices latinas (Excélsior); 3 escenas con minuto o página y reacción (encuesta Shōgakukan + Reddit 3405 votos). ⚠️ música de la escena del anillo sin encontrar; 5 de los 6 premios con una fuente |
+| 22. Fan dubs y comunidad hispana | ⚠️ | Punto 22: 1 fandub, 5 covers latinos (oEmbed), versión en Apple Music, meme «Frieren hace berrinche» en TikTok, comunidad con Erika Ugalde. **Vistas sin medir** (YouTube pidió iniciar sesión; TikTok no da la cifra); episodios doblados por fans sin crédito, no contados |
+| 23. Colaboraciones, figuras y cosplay | ✅ | Punto 23: Sweets Paradise y «社交界ver.» **vistas**, 10 más de collabo-cafe, 14 figuras y bolsas oficiales (Good Smile, Dengeki, Hobby Watch, Collider, Funko), 18 fotos de cosplay CC BY-SA. ⚠️ tela de los cosplays sin mirar (Wikimedia 429); Uniqlo/GU sin confirmar; varias con una fuente |
+| 24. Obras parecidas y láminas vecinas | ✅ | Punto 24: 12 obras de AniList, lo que dice el editor (Hachimonjiya), recomendación del autor (CBR), tabla de 4 biblias vecinas: **choque con Violet Evergarden en #poemas**. ⚠️ sin entrevista de Yamada sobre sus influencias |
+| 25. Mundo, historia por arcos y símbolos | ✅ | Punto 25: 5 reglas (Wikipedia ja + frieren.guide + 296.fm), 9 arcos con capítulos (Game Rant ⚠️, orden confirmado en Wikipedia ja), objetos, lluvia de estrellas y vocabulario. ⚠️ sin emblema oficial de la Asociación |
+| 3 conceptos de lámina | ✅ | §19: #🧰・recursos, #✍️・poemas, #🎟️・eventos, con objeto, sitio, pose, cuadro, letra, textos y profundidad; lámina 2 para las etiquetas. Segunda pasada: qué mejora cada uno; ⚠️ B choca con Violet Evergarden (#poemas), decide el dueño |
+| 40 fuentes distintas | ✅ | §21: **53 fuentes distintas** numeradas en la 1.ª pasada; con la segunda, **89 webs distintas enlazadas** (`revisar.py`), 55 nuevas (§21, «Segunda pasada») |
+| Fuentes oficiales (web, staff, artbooks, Blu-ray) | ⚠️ | guía oficial (diseñadora y director), entrevista a Seiko Yoshioka (MdN, 2 partes), Web Sunday, TOHO animation, Crunchyroll; segunda pasada: **Official Fan Book** (vía wiki), editor Ogura (Hachimonjiya), Shōgakukan, Good Smile. **Web oficial 403** otra vez; sin comentarios de Blu-ray ni artbook (FRIEREN ART WORKS sólo por su existencia) |
+| Otros idiomas (japonés, inglés, coreano o chino) | ✅ | japonés (MdN, note, ORICON, Animate Times, 4Gamer, Game8, hokope, Famitsu, subtítulos; en la segunda pasada Real Sound, Hachimonjiya, Wikipedia ja, scrapbox, Togetter, 296.fm, collabo-cafe, Dengeki, Hobby Watch); inglés (wiki, KYM, Reddit); chino (GamerSky, KitaujiSub, artistas de Pixiv); coreano ⚠️ sólo por el buscador |
+| Wikis de fans, TV Tropes, TCRF, Wayback | ⚠️ | Frieren Wiki (inglés y, en la segunda pasada, **español**), scrapbox.io/frieren (japonés) y Doblaje Wiki a fondo. **TV Tropes y Namu Wiki: 403**. TCRF no aplica (no hay juego). Wayback no respondió |
+| Foros y comunidades | ⚠️ | Reddit (Arctic Shift, con votos; 3405 votos en la escena del anillo), Togetter (japonés); Ruliweb y X sólo por el buscador; Tumblr sólo como origen de fan art en `datos.json`. Sin 4chan |
 | Arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | Pixiv (API, con marca de IA) y Wallhaven. **ArtStation y DeviantArt no los busqué** |
-| Vídeo (análisis, staff, TikTok) | ⚠️ | ver punto 10 |
-| Código y recursos (GitHub, Sketchfab, texturas) | ✅ | kitsunekko-mirror (GitHub), Sketchfab API, Poly Haven API, Google Fonts |
+| Vídeo (análisis, staff, TikTok) | ⚠️ | ver punto 10; segunda pasada: 1 fandub, 5 covers y un vídeo de voces por oEmbed de YouTube, 3 TikToks enlazados. Vistas sin medir |
+| Código y recursos (GitHub, Sketchfab, texturas) | ✅ | kitsunekko-mirror y svg-halftone (GitHub), Sketchfab API, Poly Haven API, ambientCG (4 CC0), Google Fonts |
 | Doblaje latino (Doblaje Wiki, ANMTV, entrevistas, créditos) | ✅ | Doblaje Wiki por la API, ANMTV (2 artículos), 2 entrevistas en YouTube con minuto, tarjetas de créditos y póster de Crunchyroll |
 | Hojas de contacto (máx. 3, < 3 MB) | ✅ | `personajes_01.jpg` 721 KB, `escenas_01.jpg` 611 KB, `pantalla_01.jpg` 482 KB; explicadas número a número en §3.1 |
-| `referencias.json` (20-40, medidas) | ✅ | **40 entradas**: 35 imágenes bajadas y medidas con Pillow, 5 vídeos con `&t=`. ⚠️ los 4 de YouTube llevan el tamaño de su miniatura oficial (el vídeo no se pudo bajar) |
+| `referencias.json` (mínimo 20, todas las útiles) | ✅ | **163 entradas**, las mejores primero: las 40 de la 1.ª pasada; luego lo mejor de las partes (Emblema Sagrado, escena del anillo, visuales de colaboración, figuras, Fan Book, panel de manga, 4 texturas CC0, covers y TikToks); luego `datos.json` (28 de arte oficial de la wiki, 18 cosplays CC BY-SA y 1 fan art CC BY-SA de Wikimedia, 6 modelos 3D con miniatura medida por la API, 13 fondos de Wallhaven, 20 fan art, 17 de AniList medidos). ⚠️ vídeos con el tamaño de su miniatura (1280×720) y TikToks con el formato vertical (1080×1920), no medidos. Fuera: fan art de otras series que trajo Safebooru y los artículos de texto (Punto 18, 24, 25), que no son imágenes: están enlazados en la biblia |
 
 ## 21 · Bitácora de búsqueda
 
@@ -1902,3 +2503,145 @@ la API de Jikan (para cifras).
   colores medidos; lo visto en tráileres, OP/ED y clips; tamaños de
   `referencias.json` (bajados y medidos, salvo los vídeos de YouTube).
 - **Dudoso (⚠️)**: todo lo listado en §20.
+
+### Segunda pasada (25-sep-2026): 3 investigadores y el redactor
+
+Juntada de las bitácoras de `partes/imagen.md`, `partes/voz.md` y
+`partes/texto.md`. Cada uno partió de su `datos-<rol>.md` (no repitió las
+consultas del recolector) y de `seccion.py --indice`.
+
+**Imagen (puntos 19 y 23)** · 13 búsquedas
+- Inglés: «Frieren manga … screentone hatching linework»; «free manga
+  screentone halftone brush pack … CC0»; «free seamless stripe pattern SVG
+  CC0»; «open source halftone dot pattern generator SVG»; «Frieren art
+  book making of interview brush pencil watercolor»; «free watercolor paper
+  texture CC0»; «Frieren official figure Good Smile Company Nendoroid POP UP
+  PARADE»; «"Frieren" Uniqlo UT collaboration»; «Frieren Funko Pop official
+  figure release»; «Frieren Loungefly bag Crunchyroll store».
+- Japonés: «葬送のフリーレン 漫画 トーン 作画 インタビュー»; «Frieren コラボ
+  カフェ 期間限定 ポップアップストア 2026»; «グッドスマイルカンパニー フェルン
+  シュタルク ヒンメル フィギュア».
+- Red directa: API de la wiki (search de «emblem», «crest», «guild mark»;
+  wikitext e imageinfo de Holy Emblem, Continental Magic Association y
+  Northern Magic Corps); API de [ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=paper)
+  (paper, fabric, leather, glass, gold, wool, linen); API de
+  [Openverse](https://api.openverse.org/v1/images/?q=halftone%20screentone%20pattern)
+  (sin nada útil con licencia clara); descargas medidas con Pillow y
+  `estilo.py` (hoja oficial, emblema, panel del cap. 41, figura Blow Kiss,
+  visuales de Sweets Paradise y «社交界ver.», Fern 1/7, 4 texturas).
+- Falló: `frieren-anime.jp` y `natalie.mu` 403; `funko.com` 403 (se usó
+  Collider y Pop Shop Guide); `upload.wikimedia.org` 429 tres veces;
+  `publicdomainpictures.net` sin respuesta (2 intentos).
+
+**Voz (puntos 20, 21 y 22)** · 18 búsquedas
+- Inglés: Manga Taishō; Crunchyroll Anime Awards; ventas del manga;
+  «episode 28 flower field reddit cried Himmel»; «which character do you
+  relate to»; «why I love … grief slow living»; «Stark relatable coward»;
+  el artículo de Dockery en Crunchyroll; la reseña de Eisenbeis en ANN.
+- Español: «Frieren fandub español youtube capitulo 1»; «Frieren opening
+  "Yuusha" cover español latino»; «Frieren meme latino "mil añitos" OR "hace
+  berrinche" tiktok»; «Frieren fandub latino capitulo completo»; «Frieren
+  parodia … Erika Ugalde entrevista».
+- Red directa: [wiki en inglés](https://frieren.fandom.com/api.php)
+  (Frieren, Fern, Stark, Himmel, Official Fan Book y los dos *companion
+  books*); **[wiki en español](https://frieren.fandom.com/es/api.php)**
+  (fuente nueva, «Curiosidades» con la encuesta de Shōgakukan);
+  [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Frieren&title=cry)
+  con `title=` (con `query=` da error); [oEmbed de YouTube](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=NxIiFvcV9ek&format=json)
+  para 9 vídeos; [API de Wikipedia](https://en.wikipedia.org/w/api.php?action=query&prop=extracts&titles=Stark_%28Frieren%29)
+  para la recepción de Stark.
+- Falló: Arctic Shift con `query=` (error) y sin pausa (*timeout*);
+  `geek.reporteindigo.com` 403 (2 intentos); `yt-dlp` pidió iniciar sesión.
+
+**Texto (puntos 18, 24 y 25)** · unas 12 búsquedas
+- Japonés: «realsound.jp 葬送のフリーレン 制作 インタビュー 斎藤圭一郎»;
+  «フリーレン アニメ 作画 ロトスコープ 撮影 高木佐和子»; «葬送のフリーレン
+  CGWORLD 撮影 色彩設計 インタビュー» ([cgworld.jp](https://cgworld.jp/),
+  sin entrevista útil); «色彩設計 大野春恵 インタビュー» (nada);
+  «撮影 伏原あかね インタビュー フィルター» (nada); «線 作画 厚塗り セル塗り
+  影»; «色トレス 線 色 アニメ塗り 影一段 フリーレン»; «色収差 撮影効果
+  グレイン» (nada estable); «山田鐘人 影響 好きな漫画 インタビュー»;
+  «大陸魔法協会 紋章 一級魔法使い バッジ».
+- Inglés: «Frieren anime art style flat shading … Madhouse»; «Frieren
+  author influences interview Kanehito Yamada»; «Frieren manga story arcs
+  list chapters»; «Frieren world rules magic system … glossary».
+- Leídas: Real Sound (3), MdN (2), Where Creativity Works, note.com,
+  Hachimonjiya, CBR, Wikipedia (ja y en), Game Rant, frieren.guide,
+  scrapbox.io, Togetter, 296.fm, mediag.bunka.go.jp.
+- Falló: `frieren.fandom.com` por WebFetch (402, Cloudflare): se usó la
+  API y Wikipedia.
+
+**Recolector** (`herramientas/recolectar.py`, en `partes/datos-*.md` y
+`datos.json`; sus datos entran ahora en `referencias.json` y en los
+Puntos 20, 23 y 24): [AniList](https://anilist.co/anime/154587),
+[Danbooru](https://danbooru.donmai.us/posts?tags=sousou_no_frieren),
+[Safebooru](https://safebooru.org/index.php?page=post&s=list&tags=sousou_no_frieren),
+[Openverse](https://openverse.org/search/image?q=frieren%20cosplay),
+[MusicBrainz](https://musicbrainz.org/search?query=Frieren&type=release),
+[Internet Archive](https://archive.org/search?query=frieren),
+[Steam](https://store.steampowered.com/search/?term=frieren) (sin juego
+propio) y la [API de Dailymotion](https://api.dailymotion.com/videos?search=frieren).
+Dónde se ve la serie (AniList): [Netflix](https://www.netflix.com/title/81726714),
+[Hulu](https://www.hulu.com/series/frieren-beyond-journeys-end-1d4725f8-06d1-43fb-a077-72143ac5502f),
+[Prime Video](https://www.primevideo.com/detail/0FCJEHY4FXTDVCLZ5NR9A0N42N) y
+[Bilibili TV](https://www.bilibili.tv/en/media/2090295).
+
+**Redactor**: miniaturas de los 6 modelos de `datos.json` por la
+[API de Sketchfab](https://api.sketchfab.com/v3/models/74eaf58ca80141fb9fa4609e062fdec6)
+(1920×1080, CC BY) y los 17 retratos de AniList medidos con Pillow;
+cabeceras de las biblias 03, 22, 77 y 78 para el Punto 24.
+
+**Fuentes nuevas de la segunda pasada** (con el recolector y las APIs de arriba: 55 webs más, **89 en total**)
+- Oficiales y prensa japonesa: [Real Sound](https://realsound.jp/movie/2024/03/post-1593982.html),
+  [Shōgakukan](https://shogakukan-comic.jp/book?isbn=9784098508761),
+  [web oficial](https://frieren-anime.jp/news/4244/) (403),
+  [Good Smile](https://www.goodsmile.com/en/product/60707),
+  [Dengeki Hobby](https://hobby.dengeki.com/news/2362750/),
+  [Hobby Watch](https://hobby.watch.impress.co.jp/docs/news/2035669.html),
+  [Natalie](https://natalie.mu/comic/news/671304) (403),
+  [Hachimonjiya](https://www.hachimonjiya.co.jp/column/entry-67.html/page/3/),
+  [Agencia de Cultura](https://mediag.bunka.go.jp/article/article-18117/),
+  [296.fm](https://296.fm/sousounohuriren-firstclassmagician/).
+- Wikis y enciclopedias: [Wikipedia ja](https://ja.wikipedia.org/wiki/%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3),
+  [Wikipedia en](https://en.wikipedia.org/wiki/Frieren),
+  [scrapbox.io/frieren](https://scrapbox.io/frieren/%E5%A4%A7%E9%99%B8%E9%AD%94%E6%B3%95%E5%8D%94%E4%BC%9A),
+  [frieren.guide](https://www.frieren.guide/magic-guide),
+  [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/d/d9/Frieren_cosplay_at_Comiket_107.jpg).
+- Prensa y análisis en inglés: [Anime News Network](https://www.animenewsnetwork.com/news/2025-07-17/frieren-beyond-journey-end-manga-exceeds-30-million-copies-in-circulation-worldwide/.226759),
+  [Anime Corner](https://animecorner.me/frieren-beyond-journeys-end-voted-2024-best-anime-of-the-year-runner-up-wins-5-awards/),
+  [Crunchyroll News](https://www.crunchyroll.com/news/features/2026/3/23/frieren-most-powerful-skill-running-away),
+  [Screen Rant](https://screenrant.com/frieren-beyond-journeys-end-depression-sad-study-op-ed/),
+  [CBR](https://www.cbr.com/frieren-creator-recommends-nemu-corpse-bearer-manga/),
+  [Game Rant](https://gamerant.com/frieren-before-journeys-end-manga-best-arcs/),
+  [Collider](https://collider.com/frieren-beyond-journeys-end-figures-funko-pop-images/),
+  [Where Creativity Works](https://wherecreativityworks.com/the-art-of-frieren/),
+  [Medium](https://medium.com/@wasin.silakong/why-frieren-beyond-journeys-end-earned-my-tears-c90115ebd4bb),
+  [Discover More](https://www.discovermorepodcast.com/blog/exploring-grief-time-and-regret-a-psychological-look-at-frieren/).
+- En español: [Excélsior](https://www.excelsior.com.mx/espectaculos/mensaje-frieren-sobre-tiempo-erika-ugalde-y-azucena-estrada-explican-1),
+  [La Cosa Cine](https://www.lacosacine.com/videos/frieren-entrevista-erika-ugalde-azucena-estrada/),
+  [TikTok](https://www.tiktok.com/@liamsamano/video/7601529504183438610),
+  [Apple Music](https://music.apple.com/gb/album/frieren-opening-1-yuusha-cover-espa%C3%B1ol-single/1796372772).
+- Foros: [Togetter](https://togetter.com/li/2253157),
+  [imagen de Reddit](https://i.redd.it/cryrv7eltmzc1.jpeg).
+- Tiendas: [Funko](https://funko.com/pop-frieren-in-a-mimic/87125.html) (403),
+  [Pop Shop Guide](https://www.popshopguide.com/2025/06/18/funko-pop-frieren/),
+  [POP MART](https://www.popmart.com/us/products/5697/frieren-beyond-journey-s-end-series-figures),
+  [Amazon](https://www.amazon.com/Loungefly-September-2025-Catalog-Item/dp/B0DSQXS48Q),
+  [Merchoid](https://www.merchoid.com/loungefly-crunchyroll-frieren-beyond-journey-s-end-crossbody-bag/),
+  [Crunchyroll Store](https://store.crunchyroll.com/products/frieren-beyond-journeys-end-frieren-tote-crunchyroll-exclusive-400000043958.html).
+- Recursos libres: [ambientCG](https://ambientcg.com/a/Paper006),
+  [freesvg.org](https://freesvg.org/stripe-seamless-pattern),
+  [HalftoneDots](https://halftonedots.com/halftone-pattern),
+  [svg-halftone en GitHub](https://github.com/evestera/svg-halftone).
+
+**Lo que NO encontré en la segunda pasada** (búsquedas arriba)
+- Entrevista del estudio sobre **aberración cromática** o grano.
+- **Emblema** propio de la Asociación Continental de Magia.
+- Entrevista de **Yamada** sobre sus influencias.
+- Qué **trama** o programa usa Tsukasa Abe.
+- **Cumpleaños** oficiales (no existen en las fichas) y **altura** de
+  Stark y Himmel.
+- **Vistas** de covers, fandubs y TikToks; **música** de la escena del
+  anillo (T1-14 19:35).
+- **Tela y costura** de los cosplays (Wikimedia 429); textura de
+  **acuarela** libre; confirmación oficial de **Uniqlo/GU**.

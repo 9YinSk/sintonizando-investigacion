@@ -1,125 +1,491 @@
-# Parte del investigador de TEXTO, JUEGOS Y TÉCNICA · Oshi no Ko
+# Texto — Oshi no Ko · repaso corto (puntos 18, 24 y 25)
 
-Repaso corto (25-sep-2026): sólo puntos **18, 24 y 25** de `ENCARGO.md`
-(nuevos, no están en la biblia). Parte de `partes/datos-texto.md` (AniList:
-equipo creativo, obras parecidas/relacionadas) sin repetir esas consultas.
-No toco `biblia.md`: eso es del redactor.
-
-✅ = confirmado en dos fuentes. ⚠️ = una sola fuente o de memoria.
+Investigador de texto, juegos y técnica. Esta biblia ya tiene los puntos
+1-17 (ver `biblia.md`); sólo faltaban los puntos **18** (estilo de dibujo
+y técnica, y cómo replicarlo), **24** (obras parecidas y temas
+relacionados) y **25** (el mundo, la historia y sus símbolos), que no
+estaban. Parto de `datos-texto.md` (ya mirado, no repito esas consultas)
+y de la wiki de Fandom (`oshinoko.fandom.com`, el subdominio bueno según
+`imagen.md` y la nota de la propia biblia — `oshi-no-ko.fandom.com` del
+encargo da 404).
 
 ## Hallazgos
 
 ### Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
 
-**Estudio y equipo (ya en `datos-texto.md`, AniList, no repetido aquí salvo para citar):**
-- Estudio de animación: **Doga Kobo** (動画工房) ✅ (AniList + [Wikipedia: Doga Kobo](https://en.wikipedia.org/wiki/Doga_Kobo), [ABEMA Times, jp](https://times.abema.tv/articles/-/10081313)).
-- Director: **Daisuke Hiramaki** (平牧大輔), las 3 temporadas ✅ (AniList + [ABEMA Times jp](https://times.abema.tv/articles/-/10081313)).
-- Manga: guion **Aka Akasaka** (赤坂アカ), dibujo **Mengo Yokoyari** (横槍メンゴ) ✅ (AniList + [ficha Fandom del manga](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(manga))).
+**Quién lo hace.** Estudio **Doga Kobo** (動画工房); director **Daisuke
+Hiramaki** (平牧大輔, egresado de la escuela Nihon Kogakuin de manga y
+animación); diseñadora de personajes/directora de animación **Kanna
+"Kappe" Hirayama** (平山寛菜); subdirectora de color **Chao "Ciao"
+Nekotomi** (猫富ちゃお); director de fotografía (撮影監督, la etapa que
+pinta luces y filtros encima del dibujo) **Takafumi Kuwano** (桒野貴文).
+✅ (dos fuentes: `datos-texto.md`/AniList Staff + [Real Sound](https://realsound.jp/movie/2023/06/post-1345012.html)
+y [MANTANWEB, entrevista a Hiramaki](https://mantan-web.jp/article/20240816dog00m200078000c.html)).
 
-**Cómo se hizo la animación (entrevistas al staff, jp):**
-- El director propuso un método nuevo para las coreografías de idol: **crear imágenes 3D a partir de vídeos de baile real y dibujar el storyboard según la canción**; las dos cosas se combinan en la fase de animación ⚠️ (una fuente, [Anime Corner, interview staff](https://animecorner.me/interview-oshi-no-ko-staff-on-the-animes-creation-and-popularity/), en inglés, resumen de prensa de una entrevista jp).
-- Se metieron **cortes dibujados a mano con pincel** («hand-drawn cuts with brushes») para dar un estilo «vívido y llamativo» en momentos clave ⚠️ (misma fuente).
-- La ayudante de dirección **Ciao Nekotomi** (猫富ちゃお) lleva el **guion de color** («color script»): decide de antemano el color y la luz de cada escena antes de pasarlo a color y fotografía (compositing); cita del director: «全体の監修はちゃおさんにやってもらっています» (‘la supervisión general de todo se la encargo a Chao’) ✅ ([Febri, entrevista al director, jp](https://febri.jp/topics/oshinoko_imamaki_01/), 1.ª de una serie de entrevistas; confirmado también por su crédito de «color script» citado en [Anime Corner](https://animecorner.me/interview-oshi-no-ko-staff-on-the-animes-creation-and-popularity/)).
-- Sobre la coreografía de las actuaciones de idol: **«パフォーマンスの部分で増幅できるところはかなり増幅していますね»** (‘en las partes de actuación, ampliamos bastante lo que se puede amplificar’ respecto al manga) ✅ ([Febri, jp](https://febri.jp/topics/oshinoko_imamaki_01/)).
-- Filosofía de luz y sombra, citada del *making of*: aunque un pasillo sea oscuro de verdad, **se añade luz cuando el personaje entra al aula**, y el equipo llama a esto **«上手な嘘»** (‘una mentira hábil’): no calcan la realidad, la interpretan para que impacte más. El asistente de dirección ajusta sombras a mano: «dado que la entrada de sombra era densa, la hice un poco más delgada» ✅ ([MANTANWEB, reportaje del rodaje/making of, jp](https://mantan-web.jp/article/20230616dog00m200018000c.html)).
-- Ninguna de las entrevistas encontradas nombra el programa exacto (Clip Studio, Toon Boom, RETAS…) que usa Doga Kobo para producción; es lo normal en estudios de anime TV japoneses (RETAS/CLIP STUDIO son estándar de la industria, pero no confirmado para esta serie en concreto) ⚠️.
+**La línea: al revés de lo normal.** La mayoría de animes simplifican
+las líneas del manga para poder animarlas rápido. Aquí Hiramaki e
+Hirayama hicieron lo contrario: **recogen todo lo posible de las
+sombras y del trazo del manga original**, por eso *Oshi no Ko* «tiene
+más líneas que un anime normal» ✅ (dos fuentes: [MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html)
+y el resumen de esa misma entrevista en [Yahoo/Febri](https://article.yahoo.co.jp/detail/094230118938ecb262b1cc245b02d40caec0224e)).
+Hirayama personalmente corrigió del orden de **~1.000 cortes** sólo en
+el episodio 1 ✅ ([Sakuga Blog](https://blog.sakugabooru.com/2023/04/18/introduction-to-oshi-no-kos-team-maximizing-impact-through-an-adaptation/)).
 
-**El manga (Mengo Yokoyari), línea y estilo:**
-- Ella misma, en una entrevista/tutorial oficial del sitio de **Clip Studio Paint** (el programa que usa para dibujar, confirmado por ser la propia plataforma quien la entrevista), explica su método: pensar el **cuerpo femenino como cilindros** (el masculino, como cubos), **empezar siempre por el gesto y la pose** antes que el detalle, y cuidar sobre todo las **pestañas limpias** y el **pelo con un aire suelto/ligero** («フワッとした感じ») como su sello personal; recomienda mirar vídeos reales para las poses ✅ ([Clip Studio, «【メンゴ先生流】かわいい女の子を描くために考えるべきこと», jp, sitio oficial del programa](https://www.clipstudio.net/oekaki/archives/151231)).
-- Aka Akasaka sobre el trazo de Yokoyari: «tiene una aguja escondida» (針が仕込まれている) y sus dibujos de mujeres llevan siempre **fuerza, una elegancia que no busca agradar** ⚠️ (una fuente, [ar-mag.jp, diálogo Akasaka×Yokoyari, jp](https://ar-mag.jp/articles/-/15015)).
+**Los ojos: la estrella y «más colores, no menos».** Hiramaki consultó
+con Hirayama cómo reproducir **entera** la estrella de seis puntas del
+ojo del manga en animación ✅ ([MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html)).
+Hirayama explicó el porqué del sombreado con muchos tonos en el pelo y
+el iris en una entrevista a ComicBook: *«When you color in animation,
+it becomes one color. The amount of information from the manga to the
+anime gets reduced»* → *«By increasing the number of colors, you can
+achieve a similar effect to the manga»* — **«cuando coloreas en
+animación, se vuelve un solo color; para compensar la información que
+se pierde del manga, subes el número de colores»** ✅ ([ComicBook.com](https://comicbook.com/anime/news/oshi-no-ko-anime-art-style-animation/),
+dos veces citada la misma cita en [otra nota derivada de la misma
+entrevista](https://realsound.jp/movie/2023/06/post-1345012_2.html)).
+**Técnica para replicar:** en vez de un solo tono de sombra plano,
+poner **2-3 franjas de color** en el iris (claro-medio-oscuro) y un
+brillo de forma de estrella encima, no un óvalo blanco genérico.
 
-**Encuadres y composición (coreografía de cámara, confirmado por el director):**
-- El equipo tomó **libertades en cámara y ángulos** respecto a las viñetas del manga para que el espectador sienta lo mismo que el lector, aunque el plano cambie ✅ ([Anime Corner, interview staff](https://animecorner.me/interview-oshi-no-ko-staff-on-the-animes-creation-and-popularity/) + [Febri, jp](https://febri.jp/topics/oshinoko_imamaki_01/)).
-- No se encontró un desglose oficial de «qué plano para qué emoción»; lo que hay de encuadres por emoción con minuto concreto lo cubre el investigador de vídeo (puntos 4/14), que sí miró fotogramas.
+**El color: guión de color (カラースクリプト) antes de animar.**
+Nekotomi, «fuerte en color», hace un **story-board coloreado** (color
+script) que fija el ambiente de cada escena antes de animar; Hiramaki
+confía esa parte con un solo criterio compartido: *«convertir la
+emoción que se sintió al leer el manga»* ✅ (dos fuentes: [MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html)
+y [Sakuga Blog, S2](https://blog.sakugabooru.com/2024/09/04/oshi-no-ko-stage/)).
+Usan **colores saturados incluso en escenas normales**, no sólo en las
+claves — al revés de lo habitual en TV anime, que ahorra saturación
+para los momentos importantes ✅ ([MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html)).
+**Luz:** en las sombras meten **focos de color** (no gris/negro liso),
+técnica que Hiramaki dice tomar del cine real, poniendo como ejemplo
+series de imagen real como *City Hunter* (1999) ⚠️ (una fuente,
+[MANTANWEB](https://mantan-web.jp/article/20240816dog00m200078000c.html)).
 
-**Cómo reproducirlo en Photoshop (pipeline general de cel-shading anime, con fuentes libres):**
-- Capas típicas: color base → sombra en una capa con **máscara de recorte** (`Alt+Ctrl+G` sobre la capa de base) → luces → contornos → texto/decals, pintando con **pincel duro** (sin difuminar) para mantener el borde limpio del cel-shading ✅ (coincide en dos guías: [MicahBuzan.com, cel shading tutorial](https://www.micahbuzan.com/cel-shading-tutorial/) y [Adobe, «Cel Shading, a comprehensive guide»](https://www.adobe.com/uk/creativecloud/animation/discover/cel-shading.html)).
-- Truco de capa: activar **«Bloquear píxeles transparentes»** en la capa a sombrear para no salirse de la silueta, elegir un tono más oscuro que la base y sombrear en bloques, no en degradado ✅ (mismas dos fuentes).
-- Para el «grano» y aberración cromática de la animación: no se encontró un ajuste específico citado por el estudio; en Photoshop se simula con una capa de **ruido (Filtro > Ruido > Añadir ruido, 2-4%)** en modo Superponer y una capa de **desplazamiento de canal rojo/azul de 1-2px** en los bordes ⚠️ (técnica general de posproducción, no confirmada específicamente para Oshi no Ko).
+**Filtros de cámara (撮影/compositing):** la etapa de fotografía es
+donde se añade el color final y los efectos — bengalas, *bokeh*, brillo
+de foco de escenario (ya descrito en el punto 17 de la biblia) — según
+una nota que resume el método de producción como «se elige el color de
+cada elemento y se le añaden efectos en composición» ⚠️ (una fuente,
+[búsqueda agregada, sin el artículo original](https://autoweeb.com/blog/how-color-grading-makes-ai-anime-look-professional-cinematic-prompt-guide)
+más el crédito de Kuwano como director de fotografía, [Real Sound](https://realsound.jp/movie/2023/06/post-1345012.html)).
+**No encontré** el programa exacto (Clip Studio Paint, RETAS, Toon
+Boom…) nombrado para Doga Kobo/*Oshi no Ko* en ninguna entrevista ⚠️:
+el estándar de la industria de TV anime en los 2020 sigue siendo
+**RETAS STUDIO** (con su módulo *CoreRETAS* para los efectos de
+fotografía) o su sucesor **CLIP STUDIO PAINT EX**, según la propia
+página de CLIP STUDIO ([ficha de RETAS STUDIO](https://www.clip-studio.com/clip_site/tool/items/rs_d_plan),
+[wikipedia japonesa](https://ja.wikipedia.org/wiki/RETAS_STUDIO)), pero
+**no es específico de esta serie** — usarlo como referencia general, no
+como dato confirmado del estudio.
 
-**Cómo reproducirlo en Blender (pipeline de toon shading + contorno):**
-- **Sombreado tipo cel/anime**: nodo *Diffuse BSDF* → **Shader to RGB** → **Color Ramp en modo «Constant»**; cada escalón del degradado se vuelve una banda de luz dura (2 escalones = blanco/negro clásico; 3 = con tono medio) ✅ (coincide en dos guías: [Artisticrender.com, «Cel Shading in Blender»](https://artisticrender.com/cel-shading-in-blender/) y [Yarsa DevBlog, toon shader tutorial](https://blog.yarsalabs.com/basic-toon-shader-in-blender/)).
-- **Contorno**: dos rutas válidas, según el pedido del encargo (Line Art, Freestyle o Solidify):
-  - **Freestyle** (Render Properties > Freestyle): rápido, integrado, basta para la mayoría de renders anime ✅ ([Artisticrender.com](https://artisticrender.com/cel-shading-in-blender/)).
-  - **Solidify** (más control por objeto): material nuevo con **Backface Culling** activado; añadir el modificador **Solidify**, grosor pequeño (≈0.01), activar **«Flipped Normals»** y asignar el material de contorno con **Material Offset** ✅ (paso a paso confirmado en [Artisticrender.com](https://artisticrender.com/cel-shading-in-blender/) e [Instructables, «Custom Toon Shader in Blender»](https://www.instructables.com/Custom-Toon-Shader-in-Blender/)).
-  - **Grease Pencil**: da más control aún (línea variable, texturizada) pero exige más trabajo manual, mencionado como alternativa en las mismas guías ⚠️.
-- **Modelos/rigs libres de base** (no hay ningún personaje de Oshi no Ko con licencia libre; sirven como *base* para posar y luego repintar con textura/toon shader propio, igual que hace el investigador de imagen en el punto 3): **«3D Anime Character girl for Blender»**, de un usuario en Sketchfab, **CC Attribution**, dos versiones (C1 y base) ✅ (comprobado con la API de Sketchfab, `search?type=models&q=anime+girl+rigged&downloadable=true`; [enlace C1](https://sketchfab.com/3d-models/none-4592848f6d2d47d1b0544e1ddbbc6e87), [enlace base](https://sketchfab.com/3d-models/none-906b6874327844de9f794c7986127f3f)). Se pueden bajar y adaptar (licencia CC-BY pide crédito), NO representan a ningún personaje de la serie: sólo la base de cuerpo/rig para posar.
+**El episodio 1 (90 minutos, el primero así en la industria):**
+coreografiaron el baile **antes** de tener música y letra definitivas;
+Hiramaki propuso pasar vídeos de baile por **referencia 3D** y dibujar
+el storyboard sobre la canción, uniendo las dos cosas en la fase de
+animación; metieron **cortes pintados a pincel a mano** para lograr un
+estilo «vivid and striking» (vívido y contundente) ✅ (dos fuentes:
+[Wikipedia, «Mother and Children (Oshi no Ko)»](https://en.wikipedia.org/wiki/Mother_and_Children_(Oshi_no_Ko))
+y [Sakuga Blog](https://blog.sakugabooru.com/2023/04/18/introduction-to-oshi-no-kos-team-maximizing-impact-through-an-adaptation/)).
 
-Fuente de la lista de guías de Blender: comparación cruzada de 3 resultados de búsqueda web (Artisticrender.com, Yarsa DevBlog, Instructables), todas coinciden en el mismo pipeline (Shader to RGB + Color Ramp Constant + Freestyle/Solidify), señal de que es el método estándar, no una única opinión.
+**La T2 (2.5D Stage Play, «Tokyo Blade»): cómo se dibuja un teatro
+dentro del anime.** Usan **luz diegética** (la que «existiría» de
+verdad en el escenario) y dejan ver **cables y micros** a propósito,
+para que se note que es una función de teatro, no la realidad ✅
+([Sakuga Blog, S2](https://blog.sakugabooru.com/2024/09/04/oshi-no-ko-stage/)).
+El director de esos capítulos, **Kuniyasu Nishina**, usa **cortes de
+montaje muy marcados** («electrifying match cuts») y planos fijos muy
+compuestos para el golpe emocional; la cámara mezcla **movimiento
+dinámico con planos desde el punto de vista del público** (como si el
+espectador estuviera sentado en la butaca) — la misma mezcla que
+conviene para dibujar «alguien mirando un escenario» en una lámina de
+Discord. El supervisor de animación de acción, apodado **«amoji»**,
+mezcla estilos «cartoon» con **materiales analógicos** (papel, tinta
+suelta) y **imágenes de estrellas** para sacar la emoción del personaje
+fuera de su cuerpo en los momentos de actuación ✅ (mismo Sakuga Blog).
+
+**Encuadres y composición típicos** (con ejemplos ya comprobados con
+minuto en la biblia, §4 y §4.1, no repetidos aquí):
+- **Planos espaciosos** («spacious layouts») que Hiramaki cambia entre
+  **realismo pegado al suelo** (escenas de casting, oficina, ensayo) y
+  **encuadre subjetivo** (dentro de la cabeza del personaje) según lo
+  que pide la escena — p. ej. **distancia física entre el artista y la
+  industria**: el reparto pequeño y el edificio de la agencia enorme
+  detrás ✅ ([Sakuga Blog](https://blog.sakugabooru.com/2023/04/18/introduction-to-oshi-no-kos-team-maximizing-impact-through-an-adaptation/)).
+- **Plano medio en diagonal, señalando a cámara**: el que ya describe
+  el punto 17 de la biblia para los *key visuals* (Ai, MEM-cho).
+- **Punto de vista del público** en las escenas de concierto o teatro
+  (barras de luz, focos hacia la «cámara»): visto en el opening
+  (biblia, V·1-6) y en la lógica del Sakuga Blog para la T2.
+- **Contraste frío/cálido tras bambalinas vs. escenario**: camerinos y
+  pasillos en tonos apagados, escenario y pantallas en colores
+  saturados — coincide con lo que Nekotomi describe de su *color
+  script* y con la paleta ya medida en el punto 6 de la biblia
+  (noche `#222B32` vs. rojo de escenario `#C41E34`).
+
+**Cómo replicarlo en Photoshop:**
+1. **Línea:** pincel de punta dura con *jitter* de grosor bajo (2-4 px a
+   150 dpi), en **negro puro** o un gris muy oscuro casi negro — nunca
+   marrón — para que combine con las sombras en color de encima
+   (coincide con «más líneas que lo normal», arriba).
+2. **Sombreado:** capa en **Multiplicar** con 2-3 tonos (no degradado
+   suave): sombra base + una segunda sombra más oscura en el pliegue.
+   Para el iris, 2-3 franjas de color (claro→oscuro) más una forma de
+   **estrella de 6 puntas** en Modo Aclarar o Trama de líneas encima
+   (imita la técnica de Hirayama de «subir el número de colores»).
+3. **Luz de escenario:** capa en **Trama de color/Aclarar** con
+   pinceles de partícula (destellos, *bokeh*) — hay pinceles de
+   *lens flare*/*bokeh* gratis en Brusheezy y en CLIP STUDIO ASSETS
+   (ya localizados por `imagen.md` para las texturas, mismo tipo de
+   pincel sirve aquí).
+4. **Filtro final (la etapa de fotografía):** una capa de **grano fino**
+   (Filtro > Ruido > Añadir ruido, 2-3 %, monocromático) + un **Mapa de
+   degradado** sutil azul-magenta en Superponer al 15-20 % para simular
+   el *color grading* del estudio (documentado arriba, aunque el
+   programa exacto no se confirmó).
+
+**Cómo replicarlo en Blender:**
+1. **Contorno:** modificador **Solidify** con grosor ~0.01-0.02,
+   normales invertidas y un material con **Backface Culling** activado
+   (la técnica estándar para *outline* de anime en Eevee), o la
+   alternativa con **Freestyle** (Propiedades > Render) si se prefiere
+   una línea que varíe de grosor con la cámara — ambas explicadas en
+   detalle en [Artisticrender, «CEL Shading in Blender»](https://artisticrender.com/cel-shading-in-blender/)
+   y en [StraySpark, guía 2026](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender) ✅.
+2. **Sombreado por celdas:** nodo **Shader to RGB** + **Color Ramp** con
+   2-3 escalones (no degradado), igual que el sombreado a mano descrito
+   arriba — mismas dos fuentes.
+3. **Luz de escenario:** luces de área de colores (rosa, cian, ámbar)
+   apuntando desde varios lados (como los focos del escenario ya
+   medidos en el punto 6 de la biblia) + nodo **Glare** en el
+   compositor (modo *Fog Glow* o *Streaks*) para el *bloom*/destello, y
+   una textura de **ruido** en el compositor para el grano final.
+4. **Modelo base para practicar el *rig* y el *shader*** (no para
+   publicar como propio, es *fan art* 3D): hay al menos **3 modelos de
+   Ai Hoshino en Sketchfab, descargables, licencia CC BY** (comprobado
+   por la API de Sketchfab: `DarienToad`, `higuys920`,
+   `criticaldamage9211`) ✅. Sirven de base gratis para probar el
+   *toon shader* y el contorno de arriba — dan crédito al autor
+   siempre, y no se usan para nada que se publique como si fuera
+   oficial (cruza con el punto 3 de la biblia: fan art 3D, sólo
+   referencia).
 
 ### Punto 24 · Obras parecidas y temas relacionados
 
-**Series de tono o estilo parecido (recomendadas por la comunidad de AniList, ya en `datos-texto.md`):**
-- **Perfect Blue** (película, Satoshi Kon, nota 85/100, 438 votos de similitud) — la más votada; ídolo, industria del espectáculo, thriller psicológico con la identidad de una artista ✅ ([AniList](https://anilist.co/anime/150672)).
-- **ERASED** (nota 81, 285 votos) — misterio con un protagonista que revive el pasado para evitar una tragedia (paralelo con la reencarnación de Aqua) ✅ (misma fuente).
-- **Kaguya-sama: Love is War** (nota 83, 213 votos) — la ópera prima de **Aka Akasaka**, mismo autor ✅ (AniList + confirmado en la [entrevista de Anime Corner](https://animecorner.me/oshi-no-ko-creator-talks-his-heavy-involvement-in-the-anime/), donde Akasaka dice que Oshi no Ko es «su primera adaptación a anime» tras Kaguya-sama).
-- **ODDTAXI**, **Kageki Shojo!!**, **ZOMBIE LAND SAGA**, **NEEDY GIRL OVERDOSE**, **Rascal Does Not Dream of Bunny Girl Senpai**, **Vivy -Fluorite Eye's Song-**, **Looking for the Full Moon**, **Skip Beat!** — todas con votos menores pero repetidas por la comunidad como parecidas (industria del espectáculo, ídolos o doble identidad) ✅ (AniList, mismo listado).
+**Lo que el propio autor cuenta de dónde salió la idea** (Aka Akasaka,
+entrevista completa a Anime News Network, mayo 2023; leída en el
+resumen que reprodujo [@talkingnerd en Tumblr](https://www.tumblr.com/talkingnerd/716972147650838528/highlights-from-aka-akasaka-interview-with-ann)
+enlazando el [artículo original de ANN](https://www.animenewsnetwork.com/feature/2023-05-10/how-accurate-is-oshi-no-ko-about-the-japanese-entertainment-industry-an-interview-with-aka-akasaka/.197795),
+que da 403 directo pero el resumen cita frase por frase — ✅, cita
+textual):
+- La idea nació de una **broma típica en Japón**: «querer renacer como
+  el hijo de tu idol favorita», algo que se tuitea en broma cada vez
+  que una idol anuncia su boda. Akasaka la anotó en su libreta de ideas
+  años antes de usarla.
+- Lo que lo empujó a escribirla **ahora** y **oscura**: rodar la
+  adaptación de imagen real de su propio manga anterior, **Kaguya-sama:
+  Love is War**, y las quejas que empezó a oír sobre el mundo del
+  espectáculo de streamers amigos suyos.
+- Se hizo amigo de un famoso que fue atacado por un fan; parecía «duro»
+  en público pero le confesó en privado que le había dolido mucho —
+  ahí entendió que **los famosos esconden lo que sienten de verdad por
+  el trabajo y por sus fans**. Cita textual: *«I realized that talents
+  hide their true colors for the sake of their works and for their fans
+  who are supporting them (…) I want people to know how young talents
+  are being hurt, exploited, and suffering»*.
+- **No es un documental**: usa piezas de historias reales (una
+  filtración de un reality que acabó en suicidio, YouTube reemplazando
+  a la tele) pero no retrata a nadie en concreto — la única vez que
+  cambiaron un diseño de personaje fue porque se parecía demasiado a
+  una persona real.
+- **Sí cita su propia obra anterior**: dice que el estilo cómico de
+  *Kaguya-sama* fue «una fórmula pedida por la editorial» y que él se
+  siente escritor «del estilo de *Oshi no Ko*»; metió parte de ese humor
+  en *Oshi no Ko* para que se lea más fácil.
 
-**Sobre «Perfect Blue» como influencia directa:** la prensa y los fans comparan mucho el opening «Idol» (T1) con la estética de Perfect Blue, y el argumento (ídolo + industria + lado oscuro) se parece, pero **no se encontró ninguna entrevista donde Akasaka o Yokoyari citen la película como influencia reconocida**; búsquedas específicas en inglés y japonés no dieron esa cita directa ⚠️ (comparación de prensa/fans, no confirmada por el autor: [epicstream.com, «Oshi no Ko vs. Perfect Blue»](https://epicstream.com/article/oshi-no-ko-and-perfect-blue-idol-industry), [Let's Discover Things That Are Good, blog comparativo](https://letsdiscoverthingsthataregood.wordpress.com/2023/04/29/perfect-blue-criticizes-the-idol-industry-oshi-no-ko-does-not/)). No lo presento como «influencia confirmada»: sólo como comparación de crítica.
+**Comparación con Perfect Blue (no es una influencia confirmada por el
+autor, ojo):** varios medios de crítica comparan el tono con la
+película *Perfect Blue* (1997, Satoshi Kon) por tratar el lado oscuro
+del mundo idol, pero **remarcan que son opuestas**: *Perfect Blue* es
+una crítica directa a la industria del ídolo; *Oshi no Ko*, según ese
+mismo análisis, **no** lo es de la misma forma (usa el mundo del
+espectáculo como escenario de un thriller de venganza, no como blanco
+de la crítica) ✅ (dos fuentes: [FandomWire](https://fandomwire.com/oshi-no-ko-fans-have-been-gravely-wrong-about-the-purpose-of-aka-akasakas-manga/)
+y [«Perfect Blue Criticizes The Idol Industry. Oshi no Ko Does Not.»](https://letsdiscoverthingsthataregood.wordpress.com/2023/04/29/perfect-blue-criticizes-the-idol-industry-oshi-no-ko-does-not/)).
+Perfect Blue **sí** aparece primera en la lista de recomendaciones de
+usuarios de AniList (abajo) — es una comparación del público, no del
+autor: usarla con esa distinción en la lámina o en textos del servidor.
 
-**Temas relacionados que el propio Akasaka sí confirma en entrevista:**
-- Dice implicarse en todo el proceso del anime, incluidas las sesiones de doblaje semanales, con peticiones concretas a los actores ✅ ([Anime Corner](https://animecorner.me/oshi-no-ko-creator-talks-his-heavy-involvement-in-the-anime/)).
-- Sobre su primera adaptación a anime (Kaguya-sama) dice que fue un proceso de ilusión progresiva, no de reacción inmediata; con Oshi no Ko: «puedo sonreír durante mucho tiempo, estoy 100% feliz» ✅ (misma fuente).
+**Series recomendadas por el algoritmo de usuarios de AniList**
+(`datos-texto.md`, ⚠️ es del público, no del autor — cada nota es de
+0 a 100 y votos de cuántas personas la recomendaron junto a esta):
+Perfect Blue (nota 85, 438 votos, película), ERASED (81, 285), Kaguya-
+sama: Love is War (83, 213, **la otra obra del mismo autor**), Rascal
+Does Not Dream of Bunny Girl Senpai (81, 150), Skip Beat! (77, 22,
+**venganza + industria del espectáculo, el paralelo temático más
+directo de la lista aunque tenga pocos votos**), Kageki Shojo!! (76,
+50, idols de teatro Takarazuka, tono también oscuro), Zombie Land Saga
+(74, 28, grupo idol, comedia), Oddtaxi (85, 24, misterio adulto),
+NEEDY GIRL OVERDOSE (68, 65, streaming/redes), ReLIFE, Looking for the
+Full Moon, Vivy, Jellyfish Can't Swim in the Night.
 
-**Qué otras láminas ya hechas en el servidor se parecen (para no repetir ideas — comprobado leyendo las biblias ya escritas en `biblias/*/biblia.md`):**
-- **`biblias/29-por-decidir-seis-canales-sin-serie/biblia.md`**, concepto de **Los Simpson** para «Radio 24/7»: la cabina de **Radio KBBL** con el cartel de neón **«EN EL AIRE»** ✅ (l. 1618-1627 de esa biblia). Es **casi el mismo objeto** que el «letrero ON AIR» que propone nuestro encargo para #en-directo: cambiar el color de neón, la tipografía y el objeto de fondo (micro de radio vs. móvil/set de streaming) para que no se vean iguales.
-- **Mismo archivo**, concepto de **Sing** (película) para «#canto»: el **volante amarillo de audición** «OPEN AUDITIONS» del Teatro Moon ✅ (l. 1396-1470 de esa biblia). Es el mismo objeto-concepto que la «hoja de audición» que pide nuestro encargo para #castings: hay que diferenciarlos en formato (nuestra hoja de audición de Oshi no Ko es una ficha de casting de industria del espectáculo con foto y datos, tipo agencia japonesa, no un volante de cine de barrio) y en paleta (evitar el amarillo/rojo de Sing).
-- **`biblias/10-k-on/biblia.md`**, canal #general: club de música escolar, ambiente cálido y de amistad — mismo mundo de «actuación en directo» que B-Komachi, pero **tono opuesto** (K-On es luz, sin industria ni ambición; Oshi no Ko es la cara oscura del mismo mundo) ✅ (l. 1008-1050 de esa biblia). Sirve como contraste, no como repetición: si se usa un escenario o instrumentos, que se note la diferencia de iluminación (K-On cálido/natural vs. Oshi no Ko con neón y luces de estudio).
-- No se encontró ninguna otra biblia ya escrita con un concepto de «teléfono móvil con interfaz de app» (el otro objeto que propone nuestro encargo, «el móvil de B-Komachi»): búsqueda `grep -i "teléfono\|smartphone"` sobre las 36 biblias del repositorio no dio ningún concepto de lámina con un móvil como objeto central ✅ (comprobado sobre el repositorio completo).
+**Obras de la misma franquicia (para no confundir con «parecidas de
+otros autores»):**
+- **Adaptación a imagen real**: serie de Amazon Prime Video (Toei), 8
+  capítulos, estrenada el 27-nov-2024 (los 6 primeros) y el
+  4-dic-2024 (los 2 últimos); película que cierra la historia, *Oshi
+  no Ko -The Final Act-*, en cines japoneses desde el 20-dic-2024 ✅
+  (wiki de Fandom, página «Oshi no Ko (live action)», con las fechas
+  y el reparto: Umi Sakurai de Aqua, Asuka Saito de Ai, Nagisa Saito
+  de Ruby, Nanoka Hara de Kana, Mizuki Kayashima de Akane, Ano de
+  MEM-cho).
+- **Novela ligera spin-off**: *Spica the First Star* (一番星のスピカ,
+  *Ichibanboshi no Supika*), de Hajime Tanaka con un relato corto del
+  propio Akasaka (*POV B*) dentro — cuenta el pasado de Ai antes del
+  centro de B-Komachi y la relación de Sarina y Goro. Publicada en
+  japonés el 17-nov-2023 y en inglés el 8-jul-2025 (Yen Press) ✅
+  (wiki de Fandom, con las dos fechas y editoriales).
+- El título del *spin-off* usa **«Spica»**, la estrella más brillante
+  de Virgo: refuerza el motivo de las estrellas del punto 25.
+
+**Qué otras láminas del servidor tocan temas parecidos** (para no
+repetir idea de objeto o de concepto; revisado en las biblias ya
+hechas del propio repositorio):
+- **K-On! (biblia 10)** — club de música e ídolos escolares: su lámina
+  de #general usa **una carta de té doblada y una pizarra** como
+  objeto-mueble con el texto del canal escrito a mano; buena referencia
+  de «objeto de club con texto a mano», pero el mundo de *Oshi no Ko*
+  es industria profesional, no un club — conviene que el objeto de
+  *Oshi no Ko* se vea **de trabajo** (móvil, guion, ficha de casting),
+  no escolar.
+- **Kakegurui (biblia 12)** — seinen oscuro con protagonistas
+  adolescentes en un mundo adulto retorcido: comparte el tono «bonito
+  por fuera, turbio por dentro», útil como referencia de **cómo dar
+  peso dramático sin caer en gore** en un servidor familiar.
+- **Violet Evergarden (biblia 22)** — drama emotivo con animación muy
+  cuidada: comparte el recurso de **un objeto de trabajo que también es
+  emocional** (allí, cartas escritas; aquí, el guion o la hoja de
+  audición) — mismo mecanismo narrativo, objeto distinto.
+- No hay otra biblia ya hecha sobre idols japonesas (K-On es de banda
+  escolar, no de idol industry): *Oshi no Ko* no repite el hueco de
+  ninguna serie ya ilustrada en el servidor.
 
 ### Punto 25 · El mundo, la historia y sus símbolos
 
-**Las reglas del mundo, en cinco líneas** (comprobado en la wiki, fichas de personaje):
-1. El mundo es el Japón real de hoy y su **industria del espectáculo** (idols, actuación, modelaje, cine): nada de magia visible salvo una excepción.
-2. Esa excepción: quien muere justo cuando nace un bebé puede **reencarnarse** en ese bebé, con los recuerdos de su vida anterior intactos ✅ (ficha de [Aqua Hoshino](https://oshinoko.fandom.com/wiki/Aqua_Hoshino): el doctor **Gorou Amamiya**, asesinado por un acosador de su paciente, renace como Aqua; ficha de [Ruby Hoshino](https://oshinoko.fandom.com/wiki/Ruby_Hoshino): la paciente terminal **Sarina Tendouji**, cuidada por ese mismo doctor, renace como Ruby).
-3. La protagonista original, la idol **Ai Hoshino**, esconde el embarazo de gemelos para no arruinar su imagen; los cría en secreto siendo madre e idol a la vez, hasta que la mentira la alcanza ✅ (ficha de [Ai Hoshino](https://oshinoko.fandom.com/wiki/Ai_Hoshino)).
-4. Ai muere asesinada por **Ryosuke Sugano**, un fan obsesionado con ella ✅ (ficha de [Ryosuke Sugano](https://oshinoko.fandom.com/wiki/Ryosuke_Sugano); coincide con la ficha de Ai, dos páginas de la misma wiki que se citan entre sí y describen el mismo hecho).
-5. A partir de ahí, la historia se mueve entre dos caras del mismo mundo: **Ruby** intenta revivir el sueño de idol de su madre con la banda **B-Komachi**, y **Aqua** persigue una venganza fría contra quien delató a Ai. Todo el elenco (Kana, Akane, MEM-cho…) gira alrededor de la industria: actuación, ídolos, cine y televisión, y sus mentiras «necesarias».
+**Las reglas del mundo en cinco líneas:**
+1. Es la **industria del espectáculo japonesa actual y real** —
+   ídolos, actuación, dramas, cine, YouTube, TV en directo — sin más
+   fantasía que el punto 2.
+2. La única regla fantástica: **reencarnación con la memoria intacta**
+   (Gorou como Aqua; Sarina como Ruby), nunca explicada ni vuelve a
+   pasar en la historia — es el detonante, no un sistema de magia.
+3. **Todo el mundo miente para sobrevivir en el espectáculo**: la serie
+   entera se resume en dos frases que se citan y contradicen —
+   *«この世界において嘘は武器だ»* («en este mundo la mentira es un
+   arma», Gorou, primera viñeta del capítulo 1 ✅ wiki de Fandom,
+   página «Oshi no Ko (manga)», sección Sinopsis) y *«嘘はとびきりの
+   愛なんだよ？»* («la mentira es el amor más grande, ¿sabes?», Ai,
+   capítulo 1/episodio 1, minuto 09:46 — ya en la biblia, punto 4) ✅.
+4. Los nombres son símbolos: **Hoshino** (星野) es «campo de estrellas»
+   (星 hoshi = estrella, 野 no = campo/llanura) ✅ ([jisho.org](https://jisho.org/search/%E6%98%9F%E9%87%8E));
+   sus hijos se llaman **Aquamarine** y **Ruby**, piedras preciosas — el
+   apellido y los nombres de pila juntos dicen «un campo de estrellas
+   que da joyas».
+5. Hay una **agencia («Ichigo Production, Inc», emblema de fresa con
+   corona — ya medido en `imagen.json`) y un colegio especializado en
+   artistas (Youtou High School)** que estructuran quién entra al
+   mundo del espectáculo y cómo.
 
-**La historia por arcos** (11 arcos oficiales del propio autor, según la wiki, con tomos y temporada — ✅ estructura confirmada por la wiki con la etiqueta explícita «officially divided into story arcs by the author»; [fuente](https://oshinoko.fandom.com/wiki/Story_Arcs)):
+**La historia por arcos** (nombre oficial del autor, del tomo del
+manga; fuente: página «Story Arcs» de la wiki de Fandom, con el
+volumen y el capítulo exactos, y las páginas de cada arco con su rango
+de episodios — ✅ wikitext leído directo, `oshinoko.fandom.com`):
 
-| # | Arco | Tomos | Temporada | Momento clave |
-|---|---|---|---|---|
-| 1 | **Prólogo: infancia** | 1 | T1 | El doctor Gorou conoce a Ai embarazada; nacen Aqua y Ruby; Ai muere asesinada por Sugano el mismo día del parto de gemelos ✅. |
-| 2 | **Show Business** | 2 | T1 | Aqua y Ruby, ya niños, entran al mundo del espectáculo; primeros pasos de Ruby como idol. |
-| 3 | **Reality de citas** | 3-4 | T1 | Un programa de citas de la tele expone la doble cara de las apariencias en el mundo del espectáculo. |
-| 4 | **El primer concierto** | 4 | T1 | El primer directo grande de la nueva B-Komachi, con Ruby al frente. |
-| 5 | **Obra 2.5D** | 5-7 | T2 | Aqua y Kana Arima se meten en el teatro «**2.5D**» (adaptaciones escénicas de anime/videojuego, un formato real de la industria japonesa) con la obra ficticia **Tokyo Blade** ✅ (nombre confirmado en la nota de la ficha de [Aqua Hoshino](https://oshinoko.fandom.com/wiki/Aqua_Hoshino)). |
-| 6 | **Privado** | 7-8 | T2 | Se destapan secretos personales del elenco fuera de las cámaras. |
-| 7 | **Mainstay** | 9-10 | T3 | Los protagonistas se consolidan como profesionales del medio. |
-| 8 | **Escándalo** | 11 | T3 | Un escándalo mediático golpea a uno de los personajes principales. |
-| 9 | **Película** | 11-15 | T3 | Se rueda **«The 15 Year Lie»** (１５年の嘘), película biográfica ficticia sobre la vida de Ai Hoshino, dirigida por Taishi Gotanda y producida por Masaya Kaburagi, protagonizada por Ruby, Aqua, Kana, Akane, MEM-cho y más ✅ ([ficha de la película en Fandom](https://oshinoko.fandom.com/wiki/The_15_Year_Lie)). |
-| 10 | **El fin de la obra** | 15 | (sin emitir aún en anime al cierre de esta ficha) | Cierre de la trama de «The 15 Year Lie». |
-| 11 | **Hacia las estrellas y los sueños** | 16 (tomo final) | — | Cierre de la serie (16 tomos en total, publicada 23-abr-2020 a 14-nov-2024) ✅ ([ficha del manga](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(manga))). |
+| # | Arco (JP) | Tomos | Caps. | Episodios | Qué pasa |
+|---|---|---|---|---|---|
+| 1 | Prólogo: Infancia (幼年期) | 1 | 1-10 | 1 | Muere Gorou y renace como Aqua; Ai muere asesinada ante los gemelos; 12 años después, adoptados por Miyako. |
+| 2 | El mundo del espectáculo (芸能界) | 2 | 11-20 | 2-5 | Ruby entra de idol a Ichigo-Pro; Aqua actúa por primera vez para investigar a Kaburagi, posible ligado a su madre. |
+| 3 | Reality de citas (恋愛リアリティショー) | 3-4 | 21-32 | 5-9 | Aqua entra a un reality de citas para acercarse a más pistas; ahí conoce a Akane Kurokawa. |
+| 4 | El primer concierto (ファーストステージ) | 4 | 33-40 | 9-11 | B小町 debuta en vivo con Ruby, Kana y MEM-cho; cierra la temporada 1. |
+| 5 | Obra 2.5D (2.5次元舞台) | 5-7 | 41-66 | 12-20 | Aqua entra al reparto de «Tokyo Blade» para acercarse a la compañía donde Ai conoció a Hikaru Kamiki; temporada 2. |
+| 6 | Privado (プライベート) | 7-8 | 67-80 | 20-24 | Aqua descubre que comparte padre con su compañero Taiki Himekawa; primeras pistas directas de Kamiki. |
+| 7 | Fijo en el reparto (中堅) | 9-10 | 81-100 | 25-31 | Aqua y Akane consiguen papeles estables; arco de transición de «actores nuevos» a «actores con carrera». |
+| 8 | Escándalo (スキャンダル) | 11 | 101-108 | 29-33 | Filtran fotos de Kana con un productor y lo venden como romance falso — crítica directa a la prensa del corazón. |
+| 9 | Película (映画) | 11-15 | 109-147 | 32-35+ | Se rueda «La mentira de 15 años» (15年の嘘), el guion autobiográfico de Aqua para exponer a Kamiki. |
+| 10 | Final de la obra (終劇によせて) | 15 | 148-152 | — | El reparto pasa un día en la playa; Akane le pide a Aqua que no mate a Kamiki. |
+| 11 | Hacia las estrellas y los sueños (星に夢に) | 16 | 153-166 | — | Confrontación final con Kamiki; cierre del manga (**final del manga, no de la T3 emitida**: no usar en lámina). |
 
-La **temporada 3** (invierno 2026, ✅ ya vista y fotografiada por el investigador de vídeo, biblia §14) cubre hasta el arco 9 (Película); los arcos 10 y 11 son el tramo final del manga (tomos 15-16) y **todavía no tienen anime emitido** a la fecha de esta ficha (25-sep-2026) ✅ (cruzado con la biblia §0/§14, que sólo tiene T1-T3).
+⚠️ Sólo confirmé episodios hasta donde llega la temporada 2 (24); los
+tramos de la T3 (arcos 7-9, ep. 25-35+) están en emisión/recientes
+según la propia biblia (§4, nota de T3) y **no llevan minuto exacto**
+por decisión ya tomada por el equipo (parte oscura, sin verificar de
+nuevo aquí).
 
-**Emblemas, logos y objetos icónicos** (nuevos para este punto; el logo de la serie y la estrella de seis puntas en los ojos ya están medidos y descritos a fondo en la biblia, secciones de tipografía y de «cómo hablan en pantalla» — no se repite aquí, sólo se referencia):
-- **B-Komachi** (B小町): el grupo de idols, con su propio logo ya cubierto en la biblia (§3, §7). Nombre real del grupo, no traducido ✅.
-- **Ichigo Production** (苺プロダクション, «Ichigo-Pro», también traducida oficialmente como **«Strawberry Productions»**): la agencia de talentos que fichó a Ai y luego a Ruby; el nombre significa literalmente «fresa» (苺) ✅ ([ficha Fandom](https://oshinoko.fandom.com/wiki/Ichigo_Production,_Inc)); su presidenta es **Miyako Saitou**.
-- **«The 15 Year Lie»** (１５年の嘘): el título de la película-dentro-de-la-serie sobre Ai; funciona como vocabulario propio del fandom para hablar del arco de la película ✅ (misma ficha de arriba).
-- **«Tokyo Blade»**: la obra de teatro 2.5D del arco 5, otro título ficticio propio de la serie que un fan reconoce al instante ✅ (nota en la ficha de Aqua).
-- El **arma del crimen** de Sugano contra Ai no se detalla como objeto de merchandising o icono visual en la wiki (no se encontró una página dedicada al arma); no se afirma qué objeto es para no arriesgar un dato sin comprobar ⚠️.
+**Emblemas, logos y objetos icónicos** (cruzo con lo ya medido por
+`imagen.md`/`imagen.json`, no repito su trabajo, sólo añado lo que
+falta):
+- **Ichigo Production, Inc** (エージェンシー): placa con una fresa
+  coronada — ya medida en `imagen.json` (323×205, ✅).
+- **Logos de B-Komachi**, generación 1 y 2 — ya medidos en
+  `imagen.json` (313×313 y similar, ✅).
+- **La estrella de seis puntas en el ojo**: es EL símbolo central de
+  toda la serie (el propio título viene de la portada con ese ojo); es
+  un rasgo genético de Ai que heredan Aqua y Ruby — no es sólo estilo,
+  es la marca visual de «ser hijo de tu ídolo» (cruza con el punto 17
+  de la biblia, ya descrito ahí como rasgo de diseño; aquí lo confirmo
+  como símbolo narrativo con fuente: MANTANWEB, arriba).
+- **«Tokyo Blade» (東京ブレイド)**: el manga/obra de teatro ficticio
+  dentro de la propia historia — un *shōnen* de espadas y bandas
+  dentro de un *seinen* sobre el mundo del espectáculo (mise en abyme:
+  la ficción habla de gente que hace ficción). Póster oficial **mirado
+  en grande**: reparto con katanas, cuernos de oni, un castillo de
+  neón de fondo — estética shōnen de batallas clásica, muy distinta al
+  dibujo normal de la serie (992×1401, medido por la API de la wiki) ✅.
+  Sirve como ejemplo de que el mismo estudio/autor saben cambiar de
+  estilo dentro de la propia obra: útil para explicarle a una IA de
+  imagen que **no** mezcle este estilo con el del elenco normal.
+- **«15 Years of Lies» / «La mentira de 15 años»**: el guion-película
+  que escribe Aqua, título-objeto que resume el lema del punto 3 de
+  arriba.
+- **«45510»**: la contraseña real del blog de B-Komachi dentro de la
+  ficción, guiño directo al relato corto de Akasaka «45510» que
+  inspiró la serie — ya está en la biblia (§4.1 y §13), no repito la
+  búsqueda, sólo lo listo aquí como vocabulario/símbolo del mundo.
 
-**Vocabulario propio que un fan reconoce al instante:**
-- **【推しの子】** — el título: los **corchetes lenticulares 【 】** son parte oficial del logo (ya medido en la biblia, §7). El título en sí es un juego de palabras: **「推し」(oshi)** es la persona (idol, artista) a la que alguien admira/sigue con devoción, y **「子」(ko)** es «hijo/a»: **「推しの子」** se lee a la vez como «el hijo de mi idol» y «el hijo de [mi] oshi», el doble sentido central de la trama (Aqua y Ruby son literalmente los hijos de la idol Ai) ✅ (confirmado por la propia ficha del manga en Fandom, que da la traducción literal «My Favorite Idol, Their Idol's Children»; [fuente](https://oshinoko.fandom.com/wiki/Oshi_no_Ko_(manga))).
-- **2.5D** (niji-ten-go-dii): término real de la industria japonesa para las obras de teatro que adaptan anime/manga/videojuegos con actores reales; el arco 5 usa este término tal cual, así que sirve como palabra de vocabulario del mundo de la serie ✅ (mismo término usado en el nombre oficial del arco, wiki).
-- El resto del vocabulario de motivos visuales (estrella de seis puntas = carisma/mentira, corchetes del logo, colores del logo) ya está resuelto y medido en la biblia (§7-8): no se repite aquí, sólo se remite a esas secciones para que el redactor no las vuelva a pedir.
+**Vocabulario que un fan reconoce al instante:**
+- **推し (oshi)**: «tu favorito/a», el verbo es 推す (osu, «empujar,
+  apoyar») — de ahí el título entero, *【推しの子】* = «el/la hijo/a de
+  tu oshi». Aparece dicho en voz alta ya en el minuto 1 del episodio 1
+  (biblia, §4: «¡Mi *oshi* es Ai y punto!»).
+- **嘘 (uso, «mentira»)**: la palabra que más se repite en toda la
+  serie — motivo central (dos citas arriba).
+- **2.5次元 (2.5-jigen, «2.5D»)**: término real de la industria japonesa
+  para obras de teatro musical basadas en anime/manga (existen de
+  verdad: Sailor Moon, Haikyuu!! tienen sus propias 2.5D) — la serie lo
+  usa como arco entero (#5 de la tabla).
+- **枕営業 (makura eigyō)**: literalmente «trabajo de almohada»,
+  expresión japonesa real para «acostarse con alguien del medio a
+  cambio de trabajo» — es la acusación falsa que arma el escándalo del
+  arco 8 contra Kana; útil para explicar por qué ese arco pesa tanto en
+  el fandom, pero **no** es apto para una lámina del servidor (es
+  contenido adulto/difamación) — anotado aquí sólo como vocabulario de
+  contexto, con el aviso de no usarlo.
+- **Spica**: la estrella más brillante de Virgo, título del spin-off
+  sobre el pasado de Ai (arriba) — refuerza «estrella» como palabra
+  clave de toda la franquicia junto con «Hoshino» y el ojo con estrella.
 
 ## Lo mejor para la lámina
 
-(pendiente)
+- La **técnica del propio estudio** («más líneas que lo normal», «subir
+  el número de colores en vez de bajarlo») es la mejor guía de estilo
+  para cualquier lámina: no simplificar, sumar tonos.
+- La frase-lema **«嘘はとびきりの愛なんだよ？»** / **«この世界において
+  嘘は武器だ»** (mentira = amor / mentira = arma) es el resumen de toda
+  la serie en una línea: perfecta para un cuadro de diálogo con peso en
+  #redes-y-novedades o #en-directo.
+- **«Tokyo Blade»** (póster mirado, 992×1401) es una referencia lista
+  para una lámina 2 de tono «acción» si el servidor quisiera un canal
+  de ese estilo sin salirse de la franquicia.
+- La tabla de **11 arcos con tomo/capítulo/episodio exactos** (arriba)
+  es la mejor referencia para cualquier texto del bot que resuma «en
+  qué va la historia» sin destripar el final del manga a quien sólo ve
+  el anime.
+- **3 modelos 3D de Ai en Sketchfab, CC BY**, listos para practicar el
+  *toon shader*/contorno de Blender explicado arriba antes de montar la
+  escena final con objetos originales.
 
 ## No encontré
 
-(pendiente)
+- ⚠️ **El programa de dibujo/animación exacto** que usa Doga Kobo para
+  *Oshi no Ko* (Clip Studio Paint, RETAS, Toon Boom…): ninguna
+  entrevista de las leídas (Real Sound, MANTANWEB, Sakuga Blog,
+  ComicBook, Yahoo/Febri) lo nombra. Dejo el estándar de industria
+  (RETAS STUDIO/CLIP STUDIO PAINT) como referencia general, marcado
+  como no confirmado para este estudio en concreto.
+- ⚠️ **Making of o comentario de Blu-ray** en vídeo (con el equipo
+  hablando a cámara): no lo encontré en YouTube sin iniciar sesión ni
+  en Internet Archive; las fuentes que sí hay son entrevistas
+  **escritas** (Real Sound, MANTANWEB, Febri/Yahoo), que cito arriba.
+- ⚠️ El artículo original de **Anime News Network** (la entrevista más
+  completa a Akasaka) da **403 Forbidden** directo y por Wayback
+  Machine no está archivado; usé el resumen con citas literales que
+  reprodujo un tercero en Tumblr, enlazando el original.
+- ⚠️ Ninguna entrevista encontrada dice que **Perfect Blue** sea una
+  influencia reconocida por Akasaka: sólo aparece como comparación de
+  crítica/fandom (marcado así arriba, no como influencia confirmada).
+- No busqué software de audio/edición para las escenas de doblaje: no
+  es parte de mis puntos (18, 24, 25); el punto 18 pide estilo de
+  dibujo y técnica visual, no de sonido.
 
 ## Bitácora de búsqueda
 
-(pendiente)
+**Ya recolectado (no repetido):** `datos-texto.md` — AniList (obra,
+equipo creativo, obras parecidas y relacionadas).
 
-## Cumplimiento de mis puntos (18, 24, 25)
+**Wiki de Fandom** (`oshinoko.fandom.com`, API directa, sin buscador,
+en inglés):
+- `list=allcategories` y `list=search` (`story arc`, `terminology`,
+  `glossary`, `symbol`, `oshi katsu`, `blacklist`, `industry slang`) —
+  para localizar la página «Story Arcs» y comprobar que no hay página
+  de glosario propia.
+- `list=allpages` (488 títulos) filtrado por palabras clave (Season,
+  World, Ichigo, B-Komachi, Group, Agency, Symbol, Logo, Star, Term) —
+  encontré «Entertainment World» (redirige a «Show Business»), «Spica
+  the First Star», «Tokyo Blade».
+- Wikitext completo, `action=parse`/`action=query&prop=revisions`, de:
+  «Story Arcs» (los 11 arcos oficiales), cada uno de los 11 arcos por
+  separado (Kana, romaji, tomos, capítulos, episodios, resumen),
+  «Oshi no Ko (manga)» (sinopsis con la cita de Gorou), «Ai Hoshino»
+  (filosofía de la mentira), «B-Komachi» (discografía con dos títulos
+  de canción que citan «mentira» y «oshi»), «Oshi no Ko (live action)»
+  (fechas y reparto), «Tokyo Blade» (ficha del manga ficticio).
+- `prop=imageinfo&iiprop=url|size` de 3 archivos (Tokyo Blade Anime
+  Poster, Tokyo Blade 2.5D SP Poster, Ichibanboshi no Spica) — medidos.
+- Imagen **mirada de verdad** con Read: el póster de «Tokyo Blade»
+  (992×1401, bajado con `Referer: https://www.fandom.com/`).
 
-(pendiente)
+**Web, en inglés** (WebSearch, 8 búsquedas): influencias de Aka Akasaka
+y Perfect Blue; producción/sakuga del episodio 1; estilo de dibujo y
+entrevista a la animadora (ComicBook); análisis de *color grading*;
+modelos 3D gratis de Ai Hoshino (Booth/Sketchfab/VRoid Hub); tutorial
+de *toon shader* en Blender 2026 (Solidify/Freestyle/Shader to RGB).
 
-Sigue: rellenar los tres puntos.
+**Web, en japonés** (WebSearch, 1 búsqueda): entrevista a Hiramaki
+sobre «盛り» (no simplificar el manga), guión de color, luz de
+escenario — devolvió MANTANWEB, Yahoo/Febri (parte 2 y 3) y Real Sound;
+más una búsqueda de software de animación (`RETAS`/`CLIP STUDIO`) que
+no dio nada específico de Doga Kobo.
+
+**WebFetch** (6 páginas, con 2 fallos por bloqueo): Real Sound (parte 2,
+poco detalle técnico → complementado con más búsqueda), Sakuga Blog
+(introducción al equipo, y el especial de la T2/teatro), MANTANWEB
+(entrevista completa a Hiramaki, sí sirvió), ComicBook (cita textual de
+Hirayama), Tumblr @talkingnerd (resumen con citas de la entrevista de
+ANN). **ANN directo dio 403** (protección Cloudflare) y no está en
+Wayback Machine — until aquí llegó el intento (2 vías probadas, como
+marca `AYUDANTE.md`).
+
+**Otras fuentes:** jisho.org (diccionario, kanji de «Hoshino»);
+api.sketchfab.com (licencia CC BY de 3 modelos de Ai Hoshino,
+`downloadable=true`); Wikipedia en inglés (plot general, «Mother and
+Children (Oshi no Ko)»); Wikipedia en japonés (RETAS STUDIO, software
+genérico); comparé con las biblias ya hechas de K-On, Kakegurui y
+Violet Evergarden (leídas sus tablas de contenido y su sección de
+«tres conceptos») para el punto 24.
+
+Sin usar YouTube directo (según el aviso del jefe): toda la
+información de producción salió de texto (wiki + prensa/entrevistas),
+no hizo falta mirar vídeo para estos tres puntos (no son de fotogramas,
+son de técnica contada por el propio equipo y de texto narrativo).
+
+## Cumplimiento de mis puntos (18, 24 y 25)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 18 · Estilo de dibujo y técnica, y cómo replicarlo | ✅ | Línea, sombreado de ojos, guión de color, luz y filtros de fotografía, todos con cita de entrevistas al director/animadora (varias en dos fuentes); técnica de la T2 (teatro); encuadres típicos con ejemplos ya verificados en la biblia; pasos concretos para Photoshop y Blender (Solidify/Freestyle, Shader to RGB, 3 rigs CC BY en Sketchfab). Sin confirmar sólo el software exacto del estudio (⚠️, en «No encontré») |
+| 24 · Obras parecidas y temas relacionados | ✅ | Influencias en palabras del propio autor (entrevista a ANN, citas textuales); comparación con Perfect Blue bien distinguida de una influencia confirmada; lista curada de AniList con nota de que es del público; live-action y novela ligera como obras de la misma franquicia; 3 biblias ya hechas del servidor comparadas para no repetir idea de lámina |
+| 25 · El mundo, la historia y sus símbolos | ✅ | 5 reglas del mundo con fuente; los 11 arcos oficiales con tomo/capítulo/episodio (wikitext de la wiki, arco por arco); emblemas cruzados con `imagen.md` sin repetir su trabajo + 2 símbolos nuevos (estrella del ojo como símbolo narrativo, «Tokyo Blade» mirado en grande); vocabulario con 6 términos, cada uno con fuente y ejemplo |
+
+Sin `Sigue:` — los tres puntos están completos con lo obligatorio del
+encargo. Lo que falta (el software exacto del estudio, un *making of*
+en vídeo, el artículo íntegro de ANN) son extras y están en «No
+encontré» con las búsquedas hechas, no pendientes de una tanda más.

@@ -8,6 +8,23 @@ fecha: 2026-09-24
 # Biblia · Violet Evergarden — para #poemas
 
 > [!important] Cómo se hizo, y sus límites
+> - **Segunda pasada (24-sep-2026), con la red abierta.** La hizo un
+>   equipo: 4 investigadores (imagen, vídeo, voz, texto) y un redactor.
+>   Se pudo usar: la API de Fandom (wiki de la serie y **Doblaje Wiki**),
+>   `investigar_serie.py` (**2 hojas de contacto** de la wiki),
+>   `fotogramas.py` sobre **6 vídeos mirados de verdad** (opening,
+>   tráiler, ending y 3 escenas, en Dailymotion e Internet Archive),
+>   `voz.py` (Whisper) sobre un audio oficial de Doblaje Wiki, Pillow y
+>   `estilo.py` para **medir colores**, la API de Sketchfab, AniList,
+>   Danbooru, Arctic Shift (Reddit) y fontTools. **YouTube pedía iniciar
+>   sesión** desde el servidor: por eso los clips salen de Dailymotion
+>   (512×288) y no hay fotogramas en 1080p. TV Tropes, TCRF y Wayback
+>   dieron 403 o bloqueo. Lo nuevo está en «Segunda pasada · qué
+>   cambió», justo debajo.
+> - **Formato de minutos en la segunda pasada**: «0:21» es el minuto del
+>   clip que se enlaza (con `?t=` en el enlace); «00:12:37» sigue siendo
+>   el minuto del episodio según el subtítulo japonés.
+> - *Primera pasada (lo que sigue es su nota original):*
 > - La red de esta sesión estaba cerrada. Fandom (incluida Doblaje Wiki y
 >   su API), ANMTV, Bubbleblabber y la mayoría de webs daban **403** o
 >   «bloqueado» por curl y por WebFetch. Por eso **no se pudo correr**
@@ -32,6 +49,70 @@ fecha: 2026-09-24
 > - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto.
 >   ⚠️ **dudoso**: una sola fuente, o lo describo de memoria. Lo de memoria
 >   siempre va marcado.
+
+---
+
+## Segunda pasada · qué cambió
+
+Repaso del 24-sep-2026 con la red abierta. Sale de las partes de los
+cuatro investigadores (`partes/imagen.md`, `video.md`, `voz.md`,
+`texto.md`). Se editó cada sección en su sitio; lo nuevo va marcado con
+«**Nuevo (2.ª pasada)**».
+
+### Corregido (antes → ahora)
+
+| Qué | Antes | Ahora | Fuente |
+|---|---|---|---|
+| Colores de Violet | Todos estimados (dudosos) | **Medidos** con Pillow y `estilo.py`: chaqueta `#2F444F`/`#3B5363`, broche `#4C8669`, lazo del cuello `#ECE2C9`, lazo rojo del pelo `#63394D`, ojos `#3BADB3`, pelo `#CBB56B` | opening 0:21, fotogramas de la wiki (§5.3, §16) |
+| Broche | `#1E8A5A` | `#4C8669`, más verde oliva | opening, [0:48](https://www.dailymotion.com/video/x8c9bet?t=48) |
+| Lazo rojo del pelo | `#9E2630` | `#63394D`, rojo vino apagado | `Violet's smile.jpg`, ep. 5 |
+| Chaqueta | `#003153` / `#1F3A5C` | `#2F444F`–`#3B5363` a contraluz; `#2C3A56` en el databook | opening 0:21 y hoja de modelo |
+| Uniforme militar | de memoria (dudoso) | Existe y se ve: casaca **verde oliva oscura** `#413228`, correa `#6A422A` | hoja 1 nº19-20, `Violet2.jpg` |
+| Sketchfab | «Protoform», licencia sin ver; «Myylo»; «welvdax» | **jonhiggins**, CC BY-NC-SA; **Mylo21**; **KamiPedro** | API de Sketchfab (§4) |
+| Nombre del oficio en la wiki | «Auto Memory Dolls» | La página se llama **«Auto Memories Doll»** | API de Fandom |
+| Special Elite | parecido a ojo | ✅ es la letra **real** de la web oficial | análisis del CSS ([わくぱく](https://wakupaku.hmup.jp/blog/blog/design-anime-violetevergarden)) |
+| Manga | «no encontré manga», dudoso | ✅ no hay manga: las 3 entradas son `NOVEL` | API de AniList |
+| Violet no parpadea | de memoria | ✅ decisión del director Ishidate | [entrevista](https://atmafunomena.wordpress.com/2018/08/26/violet-evergarden-interviews-taichi-ishidate-earnestness-immersion-subtlety/) |
+| Voz japonesa de Hodgins | Takehito Koyasu (una fuente) | ✅ «cv 子安武人» en pantalla | tráiler [0:22](https://www.dailymotion.com/video/x7t0he2?t=22) |
+| Popularidad | Benedict 2.º, una sola fuente | ✅ Benedict 2.º en 2022 y 3.º en 2021 (Hodgins 2.º); **Gilbert** es el 2.º más dibujado | ねとらぼ 2021 y 2022, Danbooru (§9) |
+| Pelo de Gilbert | sin describir | **azul muy oscuro** (hoja 1 nº12, 26, 31). La parte de imagen lo daba «castaño rosado» mirando `Ep1.14.png`, pero esa captura es de **Hodgins** (hoja 1 nº3) | hojas de contacto |
+| Benedict | «uniforme de cartero, pelo largo» (de memoria) | **rubio**, camisa blanca con tirantes; **no usa el uniforme oficial** | tráiler 0:28, Fanbook |
+| Loop de Violet en el ep. 10 | Arruti en toda la serie | En el **ep. 10** la dobla **Nycolle González** | Doblaje Wiki, ANMTV |
+
+### Añadido
+
+- **3 hojas de contacto** (antes 0): `personajes_01.jpg`, `personajes_02.jpg`
+  (wiki) y `escenas_01.jpg` (fotogramas de vídeo). Ver §3.5.
+- **6 vídeos mirados** con `fotogramas.py`: opening, tráiler, vídeo del
+  ending y 3 escenas (ep. 1, ep. 10, ep. 11), con minuto y enlace `?t=`.
+- **La primera frase textual del doblaje latino** (Andrea Arruti), sacada
+  de su audio oficial en Doblaje Wiki (§10).
+- **Reparto latino completo** (31 papeles) con el minuto de la muestra
+  oficial de Doblaje Wiki, y los cambios de voz dentro de la serie.
+- **Caras por emoción** con capturas reales; **altura y grupo sanguíneo**
+  del Starter Book oficial; **Gilbert** en la tabla de poses.
+- **Secciones nuevas para los puntos 18 a 25** de ENCARGO.md: técnica y
+  cómo replicarla, texturas 2D, gustos, por qué la aman, fan dubs y
+  comunidad hispana, colaboraciones, obras parecidas y el mundo.
+- **Cumplimiento del encargo**: la tabla con los 25 puntos, antes de la
+  bitácora.
+- **Aviso para no repetir**: Frieren (biblia 33) ya propone para este
+  mismo canal un **diario con pluma y tintero en luz dorada**. Los
+  conceptos de Violet se quedan con la **máquina de escribir**, el sobre y
+  el casillero (§19).
+
+### Los avisos (⚠️)
+
+- Antes: **70** ⚠️. Después: **126** en total, pero no es que haya más
+  dudas: de los 70 de la primera pasada **se resolvieron unos 33** y
+  **quedan unos 37**; los demás son **datos nuevos con una sola fuente**
+  (unos 80, casi todos en las secciones nuevas de los puntos 18 a 25) y
+  los 8 puntos «a medias» de la tabla de cumplimiento.
+- Siguen dudosos: fotogramas en 1080p (YouTube bloqueado), la secuencia
+  animada del ending, las caras de miedo y vergüenza, caras de Gilbert y
+  Hodgins, comida favorita y cumpleaños (salvo Violet), el compositor por
+  pista del OST, vistas de los fan dubs y el lacre de los sobres visto en
+  un fotograma.
 
 ---
 
@@ -102,9 +183,9 @@ cartas de la oficina de correos.
 | Frase guía del oficio | «Una carta transmite el corazón de alguien. Una buena Doll rescata, de entre lo que la persona dice, **el corazón verdadero que quiere transmitir**» (la instructora, ep. 3, 00:08:23) ✅. Es exactamente lo que se pide al comentar en #poemas: **comentar el texto**. |
 | Cuadro de diálogo propio | **No hay globo.** Los personajes «hablan» con **cartas escritas a máquina**, leídas en voz en off, y con **el sobre** (sello de lacre, sello de correos). En pantalla, la carta se ve como **hoja escrita en el alfabeto inventado** de la serie (el «tellsis», que los fans llaman *nunkish*) ✅. |
 | Objeto para la lámina | **La máquina de escribir de Violet**, con una hoja puesta. Está inspirada en las **Underwood portátiles de cuatro filas de los años veinte** ✅ (fan en ArtStation + Yahoo! Chiebukuro y reventas japonesas). Hay un modelo 3D **libre CC BY** de una Underwood 4-bank portátil **con su maleta** (§4). |
-| El más querido | **Violet**, con muchísima diferencia (53,8 % de los votos en la encuesta de fans de ねとらぼ, 2021) ✅. Detrás, según la encuesta: **Benedict** (2.º en 2022, ⚠️ una fuente), Hodgins y Cattleya (Ranker) ⚠️. No encontré una encuesta **oficial** de Kyoto Animation. |
+| El más querido | **Violet**, con muchísima diferencia (53,8 % de los votos en la encuesta de fans de ねとらぼ, 2021; 48,4 % en la de 2022) ✅. Detrás: **Hodgins** 2.º y **Benedict** 3.º en 2021 (565 y 550 votos); **Benedict** 2.º en 2022 (12,9 %) ✅ (§9). En fan art, **Gilbert** es el 2.º más dibujado (Danbooru) ✅. No encontré una encuesta **oficial** de Kyoto Animation. |
 | Letras | **Special Elite** o **Courier Prime** para la máquina; **Cormorant Garamond** o **IM Fell English** para títulos; **Pinyon Script** para una firma. Todas traen tildes, ñ, ¿ y ¡: **comprobado en el archivo** con fontTools. |
-| Voz latina | Violet: **Andrea Arruti** (serie y especial) ✅; tras su muerte en enero de 2020, **Nycolle González** (Gaiden y película) ✅. Hodgins: **Carlos Hernández** ✅. Cattleya: **Carla Castañeda** ✅. Estudio **SDI Media de México** (luego Iyuno-SDI) ✅. |
+| Voz latina | Violet: **Andrea Arruti** (serie y especial; en el ep. 10, **Nycolle González**) ✅; frase textual suya: «Ya no quiero matar a nadie más. Las órdenes del mayor fueron vivir, nunca fueron matar» (§10) ✅; tras su muerte en enero de 2020, **Nycolle González** (Gaiden y película) ✅. Hodgins: **Carlos Hernández** ✅. Cattleya: **Carla Castañeda** ✅. Estudio **SDI Media de México** (luego Iyuno-SDI) ✅. |
 | Tono | **Luz de tarde, polvo dorado, papel y tinta.** Melancólico y tierno. Nada de chistes sobre la guerra ni sobre el incendio de Kyoto Animation (2019). |
 
 ---
@@ -206,14 +287,30 @@ kitsunekko-mirror) ✅:
 | 00:14:54 a 00:15:01 | El saludo, con subtítulo inglés: «If it is your wish, I will travel anywhere to meet your request. Auto memory doll Violet Evergarden, at your service» | Saludo |
 | (final) | Gilbert en la isla Ecarlate ⚠️ (de memoria) | Tono de cierre |
 
+### 2.4 Escenas miradas en vídeo (Nuevo, 2.ª pasada)
+
+Vistas fotograma a fotograma con `fotogramas.py` (hoja
+`hojas/escenas_01.jpg`). YouTube pedía iniciar sesión: son clips
+reesubidos en **Dailymotion**, a 512×288. El minuto «0:18» es del clip;
+el «00:01:19» es del episodio, cruzado con el subtítulo japonés ✅.
+
+| Escena | Minuto | Qué se ve (mirado, no de memoria) | Para qué sirve |
+|---|---|---|---|
+| **Ep. 1, el primer texto de Violet** | ep. 00:01:19 a 00:01:34; clip [0:18](https://www.dailymotion.com/video/x947zqa?t=18) | Tumbada en el hospital con vendaje en la frente, sólo un ojo en cámara (clip 0:00-0:10). Luego, sentada en la cama, escribe con la **mano de metal**; la pluma tiembla sobre un papel con letras **Tellsis** (0:18-0:22). Subtítulo en español: «Mayor Gilbert, hoy es el día 120 de mi hospitalización… Solicito una pronta reintegración al servicio». Cierra con «Lo lamento» (0:40) ✅✅ (clip y `.srt` japonés) | **El origen de #poemas**: escribe sin saber aún qué es escribir con el corazón. Hoja escenas nº16-17 |
+| **Ep. 10, las 50 cartas** | ep. 00:20:26 a 00:22:38; clip [0:05](https://www.dailymotion.com/video/x80vbaj?t=5), [1:20](https://www.dailymotion.com/video/x80vbaj?t=80), [3:15](https://www.dailymotion.com/video/x80vbaj?t=195) | La casa blanca de Ann (0:05); Ann adulta lee cartas en el campo (1:15); los **montones de cartas atadas** sobre la mesa (2:00): «These letters are to be delivered to Ann Magnolia for the next fifty years» (2:05); Violet llora en la oficina con Cattleya (3:10); cartela 「愛する人は　ずっと見守っている」 (3:15). Subtítulo en inglés, no doblaje ✅ | El episodio que más hace llorar (§21 del encargo, sección «Por qué la aman»). Hoja escenas nº18 |
+| **Ep. 11, el paracaídas** | ep. 00:10:04 a 00:10:15; clip [0:09](https://www.dailymotion.com/video/x8qbypz?t=9) | Soldados entre cruces en la nieve al atardecer; el avión; se abre un **paracaídas naranja** sobre el bosque nevado; primeros planos de ojos azules. Violet cae **de espaldas** a cámara: la reconozco por el argumento (va a buscar al soldado Aidan) y el sonido del avión, no porque se vea ⚠️ | Violet en acción, no sólo en la oficina |
+| **Opening, la máquina sola** | [0:39](https://www.dailymotion.com/video/x8c9bet?t=39) | La máquina negra sobre mesa de madera clara, sin manos, en penumbra ✅ | El objeto del concepto A. Hoja escenas nº2 |
+| **Opening, la mano de metal** | [0:54](https://www.dailymotion.com/video/x8c9bet?t=54) a 1:03 | Dedos de metal que se cierran despacio sobre fondo blanco, las juntas visibles ✅ | Detalle de manos. Hoja escenas nº4 |
+| **Tráiler, manos de metal tecleando** | [1:22](https://www.dailymotion.com/video/x7t0he2?t=82) | Las dos manos mecánicas sobre las teclas redondas de la máquina ✅ | **La mejor referencia de manos + máquina**. Hoja escenas nº14 |
+
 ---
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] Sin hojas de contacto
-> La wiki de Fandom, la web oficial y Kyoto Animation no respondían desde
-> esta sesión. **No bajé ninguna imagen.** Aquí van los enlaces que vi en
-> los resultados, con lo que es cada uno. Antes de dibujar, alguien con
-> red normal tiene que abrirlos y montar las hojas.
+> [!note] Ya hay hojas de contacto (2.ª pasada)
+> En la primera pasada la wiki no respondía y no se bajó ninguna imagen.
+> Ahora hay **3 hojas** en `hojas/` (ver §3.5, qué número sirve para qué)
+> y las mejores imágenes, con su tamaño medido, están en
+> `referencias.json`.
 
 ### 3.1 Webs oficiales (el punto de partida)
 
@@ -231,6 +328,10 @@ kitsunekko-mirror) ✅:
 | Key visual del anime (anuncio de reparto, oct. 2017) | [MANTANWEB](https://mantan-web.jp/article/20171024dog00m200004000c.html) | ✅ existe; imagen sin ver |
 | Key visual del Gaiden | [アニメハック](https://anime.eiga.com/news/109134/) | ✅ existe |
 | Categoría «Key Visuals» de la wiki | [Violet Evergarden Wikia](https://violet-evergarden.fandom.com/wiki/Category:Key_Visuals) | bloqueada aquí |
+| **Nuevo (2.ª pasada)** · Portada oficial del anime (key visual): Violet camina por un campo con su maleta, vestido blanco al viento, nubes pintadas a pincel | [AniList, 460×644](https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png) · [banner 1900×400](https://s4.anilist.co/file/anilistcdn/media/anime/banner/21827-ROucgYiiiSpR.jpg) | ✅ el key visual más reconocible |
+| **Nuevo** · **Hoja de modelo oficial de Violet** (databook): giro con 3 trajes (militar, Doll, de calle) y expresiones; crédito «キャラクターデザイン：高瀬亜貴子» en la cabecera | [wiki, 3000×2357](https://static.wikia.nocookie.net/violet-evergarden/images/8/87/Violet.Evergarden.%28Character%29.full.2707089.jpg) · hoja 1 nº1-2 | ✅ **la mejor referencia de silueta y ropa** |
+| **Nuevo** · Key visual de la película: Violet de pie ante el mar, vestido blanco de gala, luz dorada | [wiki, 1024×799](https://static.wikia.nocookie.net/violet-evergarden/images/6/6e/Violet_movie_%282%29.png) · hoja 2 nº54 | ✅ pose digna, de pie |
+| **Nuevo** · Portada de la novela, tomo 1: Violet de cuerpo entero con capa militar sobre el traje de Doll | [wiki, 1024×1446](https://static.wikia.nocookie.net/violet-evergarden/images/a/ae/Violet_Evergarden_Volume_1.png) · hoja 1 nº27 | ✅ |
 | Blu-ray 1 de la serie (funda especial en la 1.ª edición) | [animate](https://www.animate-onlineshop.jp/products/detail.php?product_id=1502323) | ✅ |
 | **Libro de diseños oficial** «Violet Evergarden Official Design Works»: trae **hojas de modelo de los objetos, con primeros planos de la máquina de escribir** ✅ | [Goodreads](https://www.goodreads.com/book/show/58678237-violet-evergarden-official-design-works) + resultado de búsqueda | **La mejor referencia para modelar la máquina** |
 | Libro de postales «Visual Collection» | [Kyoani Shop](https://kyoanishop.com/shopdetail/000000003413/) | ✅ |
@@ -258,7 +359,18 @@ kitsunekko-mirror) ✅:
   ([ATMA & Funomena](https://atmafunomena.wordpress.com/2018/08/26/violet-evergarden-interviews-taichi-ishidate-earnestness-immersion-subtlety/),
   [JMAG](https://j-mag.org/en/2018/06/07/violet-evergarden_interview-2/)).
   **Para la lámina**: Violet vista de lado o de tres cuartos, trabajando,
-  va con el tono de la serie.
+  va con el tono de la serie. **Ojo (2.ª pasada)**: en la misma
+  entrevista Ishidate dice que **Violet no parpadea** y que **mira a la
+  gente de frente, nunca de reojo** ✅. La cámara puede verla de lado
+  mientras teclea; cuando mira a alguien (o al lector), lo hace de frente.
+- **Nuevo (2.ª pasada)** · Lo que dijo **Akiko Takase** del traje, en la
+  propia hoja de modelo del databook (hoja 1 nº2): «Me fijé en la ropa de
+  las **mujeres trabajadoras de la época Art Nouveau y Art Decó**, para
+  que se notara que es ropa de trabajo y, por el nombre del oficio, que
+  tuviera **aire de muñeca antigua**. La expresión de Violet era muy
+  importante porque iba a madurar. Para que se note la elegancia, como
+  en **cómo se mantiene erguida**, cuidé también la silueta» (traducción
+  del japonés) ✅ (fuente primaria).
 - Las **manos mecánicas**: el equipo ya había aprendido a dar detalle al
   metal en *Sound! Euphonium* (los instrumentos) ⚠️
   ([mesa redonda de animadores](https://ultimatemegax.wordpress.com/2022/01/11/violet-evergarden-roundtable-1-hand-drawn-animation-staff/)).
@@ -284,6 +396,71 @@ minuto (ver §2) salvo que diga otra cosa:
 11. Hoja de modelo de la **máquina** (Official Design Works).
 12. Portada del single **«Michishirube»** (la máquina «oficial»).
 
+**Ya conseguidas en la 2.ª pasada**: nº1 a medias (manos de metal sobre
+la máquina en el tráiler, [1:22](https://www.dailymotion.com/video/x7t0he2?t=82),
+y Cattleya tecleando con manos de carne en
+[0:34](https://www.dailymotion.com/video/x7t0he2?t=34); falta el plano del
+ep. 2); nº10 (el broche en primer plano, opening
+[0:48](https://www.dailymotion.com/video/x8c9bet?t=48)). El resto sigue
+pendiente: YouTube no dejaba bajar los episodios ⚠️.
+
+### 3.5 Las hojas de contacto (Nuevo, 2.ª pasada)
+
+Tres hojas en `hojas/`, miradas una a una. El número es el de la esquina
+amarilla; el tamaño del original va debajo de cada miniatura.
+
+**`personajes_01.jpg`** (wiki, `investigar_serie.py`, nº1-48):
+
+| Nº | Qué es | Para qué |
+|---|---|---|
+| 1-2 | Bocetos y **hoja de modelo oficial** de Violet (databook, 4060×3080 y 3000×2357) | Silueta, trajes, expresiones |
+| 3 | `Ep1.14.png`: **Hodgins** (no Gilbert), «He asked me to come here» | Hodgins en el ep. 1 |
+| 6, 8 | Violet vendada en el hospital (ep. 1) | Origen, pose de pensar |
+| 12, 26, 31 | Gilbert: militar, de joven, ep. 12 (pelo **azul muy oscuro**, ojos verdes) | Gilbert en recuerdos |
+| 13, 37-39 | Iris (asombrada, discutiendo, orgullosa) | Contraste de caras |
+| 19-20 | Violet con el **uniforme militar verde oliva** | Pasado de soldado |
+| 23 | Gilbert le lee a Violet junto a la chimenea | Aprender a leer |
+| 27 | Portada del tomo 1 de la novela (1024×1446) | Pose de cuerpo entero |
+| 33 | Violet con flores y texto vertical (`Violet_Anime.jpg`, 1280×780) | Promocional |
+| 34 | Violet sentada en un muro ante el mar (`Anime icon.jpg`, 870×1106) | Pose sentada |
+| 36 | Gilbert de perfil en la calle de noche | Presentar, pensar |
+| 40 | Violet con su maleta junto a macetas de flores | Llegar a un encargo |
+| 41 | Violet llorando (1280×720) | Tristeza |
+| 42 | Violet sonríe, lazo rojo, cielo (`Violet's smile.jpg`, ep. 5) | Alegría |
+| 44 | Violet de frente, broche verde (ep. 3) | **Presentar** |
+| 46 | Hodgins de joven | — |
+
+**`personajes_02.jpg`** (wiki, nº49-69):
+
+| Nº | Qué es | Para qué |
+|---|---|---|
+| 54 | **Key visual de la película**: Violet ante el mar (1024×799) | Pose digna de pie |
+| 56 | Luculia abraza a Violet | Amistad, grupo |
+| 57 | Cattleya se burla de Hodgins (1200×675) | Humor de oficina |
+| 58 | Gilbert y Violet abrazados | Final |
+| 60, 69 | Fichas de diseño de cuerpo entero (Violet, traje de Doll y abrigo del Gaiden) | Proporciones |
+| 61, 68 | Iris (película y ep. 1) | — |
+| 63 | Violet bajo la lluvia (1024×576) | Luz fría |
+| 64-65 | Violet de frente, broche y lazo | Retrato |
+| 67 | Portada de *Ever After* | — |
+
+**`escenas_01.jpg`** (fotogramas de vídeo, nº1-18; ver §2.4 y §12):
+
+| Nº | Minuto y vídeo | Para qué |
+|---|---|---|
+| 1 | Opening [0:21](https://www.dailymotion.com/video/x8c9bet?t=21): Violet de busto, pelo al viento | Color medido del traje |
+| 2 | Opening 0:39: la máquina sola | **Objeto del concepto A** |
+| 3 | Opening 0:48: el broche | Color del broche |
+| 4 | Opening 1:00: la mano de metal | Manos |
+| 5 | Opening 1:18: la carta sobre la mesa | Papel y luz |
+| 6 | Opening 0:12: letras **Tellsis** en tiza sobre negro | Alfabeto del mundo |
+| 7-12 | Tráiler [0:22](https://www.dailymotion.com/video/x7t0he2?t=22) a 0:36: Hodgins, el **edificio de ladrillo de C.H.**, Benedict, Cattleya, manos tecleando, Erica (con su voz japonesa en pantalla) | Presentar al grupo |
+| 13 | Tráiler [0:56](https://www.dailymotion.com/video/x7t0he2?t=56): Gilbert de noche, faroles | Luz nocturna |
+| 14 | Tráiler 1:22: **manos de metal sobre las teclas** | **La mejor para el concepto A** |
+| 15 | Tráiler 0:48: Violet de perfil ante Leiden y el mar | Fondo de ciudad |
+| 16-17 | Ep. 1 (clip [0:18](https://www.dailymotion.com/video/x947zqa?t=18)): pluma temblando y Violet escribiendo en la cama | Origen de #poemas |
+| 18 | Ep. 10 (clip 3:10): Violet llora en la oficina | Tristeza |
+
 ---
 
 ## 4 · Fan art y 3D (sólo como referencia, o con licencia libre)
@@ -292,17 +469,17 @@ minuto (ver §2) salvo que diga otra cosa:
 
 | Modelo | Autor | Licencia | Para qué |
 |---|---|---|---|
-| [Underwood 4-Bank Typewriter (Portable)](https://sketchfab.com/3d-models/underwood-4-bank-typewriter-portable-b872e2c3f4f7457796edebcb7c0a290e) | Ed Swinbourne (@EdSwinbourne) | **CC BY** ✅ (según el resultado) | **El bueno.** Underwood de 4 filas de finales de los años veinte, **dentro de su maleta portátil**: justo el modelo en que se inspira la de Violet |
+| [Underwood 4-Bank Typewriter (Portable)](https://sketchfab.com/3d-models/underwood-4-bank-typewriter-portable-b872e2c3f4f7457796edebcb7c0a290e) | Ed Swinbourne (@EdSwinbourne) | **CC BY** ✅✅ (API de Sketchfab, descargable) | **El bueno.** Underwood de 4 filas de finales de los años veinte, **dentro de su maleta portátil**: justo el modelo en que se inspira la de Violet |
 | [Underwood Typewriter Vintage Free Raw Scan](https://sketchfab.com/3d-models/underwood-typewriter-vintage-free-raw-scan-4c5e323a09e44c2f909a04c64c0c2cca) | Jordan F (@JordanF3DScans) | CC BY ✅ | Escaneo crudo (Polycam): textura real de metal viejo |
-| [Underwood 5 typewriter](https://sketchfab.com/3d-models/underwood-5-typewriter-ad4df24b943e4f6ea4b8336072b0d6ae) | Museo de Ingeniería y Tecnología de Cracovia | **CC BY-NC-SA** | Máquina de oficina grande (1915-1920). NC: sin uso comercial |
-| [Underwood Standard Portable](https://sketchfab.com/3d-models/underwood-standard-portable-typewriter-f203a8f060f74284833a68203d55a41b) | Protoform | «Download Free»; licencia ⚠️ sin ver | Portátil de 1926 |
-| [Violet Evergarden Typewriter](https://sketchfab.com/3d-models/violet-evergarden-typewriter-f132d3d21ac84410ae64e9c63cf339af) | Andrew Ooi (@ManhattanBat) | **no descargable** (sin «Download Free») | Sólo mirar: la máquina de la serie, en Maya, ZBrush y Substance |
-| [Lowpoly Typewriter for Violet Evergarden](https://sketchfab.com/3d-models/lowpoly-typewriter-for-violet-evergarden-dc4b65aad6e14e5393ef349346941f66) | YoungYeh | **de pago** (Sketchfab Store) | — |
+| [Underwood 5 typewriter](https://sketchfab.com/3d-models/underwood-5-typewriter-ad4df24b943e4f6ea4b8336072b0d6ae) | Museo de Ingeniería y Tecnología de Cracovia (usuario mitkrakow) | **CC BY-NC-SA** ✅ (API) | Máquina de oficina grande (1915-1920). NC: sin uso comercial |
+| [Underwood Standard Portable](https://sketchfab.com/3d-models/underwood-standard-portable-typewriter-f203a8f060f74284833a68203d55a41b) | **jonhiggins** (antes decía «Protoform», que es el nombre de la colección) | **CC BY-NC-SA** ✅ (API, descargable) | Portátil de 1926. NC: sin uso comercial |
+| [Violet Evergarden Typewriter](https://sketchfab.com/3d-models/violet-evergarden-typewriter-f132d3d21ac84410ae64e9c63cf339af) | Andrew Ooi (@ManhattanBat) | **no descargable, sin licencia** ✅ (API) | Sólo mirar: la máquina de la serie, en Maya, ZBrush y Substance |
+| [Lowpoly Typewriter for Violet Evergarden](https://sketchfab.com/3d-models/lowpoly-typewriter-for-violet-evergarden-dc4b65aad6e14e5393ef349346941f66) | YoungYeh | **de pago** (licencia Standard) ✅ (API) | — |
 | [Typewriter for Violet Evergarden](https://www.blenderkit.com/asset-gallery-detail/56c441ae-7eb0-433e-8bc5-c7e8f42af272/) | BlenderKit | ⚠️ sin ver si es gratis; también se vende en [Superhive](https://superhivemarket.com/products/typewriter-for-violet-evergarden) | Hecha ya para Blender |
 
-**Crédito exacto** para el de Ed Swinbourne (si se confirma CC BY al
-abrir la página): «Underwood 4-Bank Typewriter (Portable)» by Ed
-Swinbourne, licensed under CC BY 4.0, sketchfab.com.
+**Crédito exacto** para el de Ed Swinbourne (CC BY confirmado por la API
+de Sketchfab en la 2.ª pasada): «Underwood 4-Bank Typewriter (Portable)»
+by Ed Swinbourne (EdSwinbourne), sketchfab.com, licensed under CC BY 4.0.
 
 La máquina de la serie **no es una Underwood exacta**: es una inspirada
 en las primeras Underwood portátiles de 4 filas, de mediados de los
@@ -342,6 +519,51 @@ compró una máquina tras ver la serie ✅
 | [Violet en VRoid Hub](https://hub.vroid.com/en/characters/7071143261300970946) | fan | Modelo para posar |
 | [Building The Violet Evergarden CH Postal Office](https://www.youtube.com/watch?v=DQgcRfLXGjc) | Carrot (YouTube) | **Alguien reconstruye la oficina de C.H.**: sirve para ver la fachada |
 
+### 4.4 Modelos 3D de fans con licencia, comprobados por la API (Nuevo, 2.ª pasada)
+
+Licencia y usuario leídos en `api.sketchfab.com/v3/search` ✅ (antes
+venían de la página de búsqueda; dos usuarios estaban mal escritos).
+
+| Modelo | Usuario | Licencia | Para qué |
+|---|---|---|---|
+| [Violet Evergarden Realistic Outfit](https://sketchfab.com/3d-models/none-ee5f9ead63c54b938efc619a7382f885) | **Mylo21** (no «Myylo») | CC BY | Volumen del traje de Doll |
+| [Violet Evergarden's Brooch](https://sketchfab.com/3d-models/none-4c9631b0b1f2406f95e4708ba6337784) | Growffle | CC BY | **El broche**, listo para Blender |
+| [Violet Evergarden's brooch base](https://sketchfab.com/3d-models/none-ca6742ec90724ea991482876deb64812) | hoanghuygunneo | CC BY-NC | Montura del broche (sin uso comercial) |
+| [Jewel · Gem · Violet Evergarden Fanart](https://sketchfab.com/3d-models/none-b7d331c18ecf481183403bdf58cf05ef) | GabrielaHGalicia | CC BY | La gema verde |
+| [Violet Evergarden Arm](https://sketchfab.com/3d-models/none-c98c928a1b30411eb9b3e9f88aeb7140) | **KamiPedro** (no «welvdax») | CC BY | **El brazo mecánico** |
+
+### 4.5 Fan art y cosplay con enlace y tamaño (Nuevo, 2.ª pasada)
+
+Del recolector (Safebooru, con el autor u origen), sólo como referencia:
+
+- Violet: [1275×1650](https://safebooru.org/images/4254/91a6f4870040a61acf3dd083c6e38ec1bf24f105.png)
+  (origen [reshanims, Tumblr](https://reshanims.tumblr.com/post/714376654591541248)),
+  [2051×2165](https://safebooru.org/images/3248/a5c5be77c1435b51f833e3e97f2b9ee851c2e5f0.jpg)
+  (Pixiv 84608122, serie de 2020 con Gilbert en las páginas 8 y 10),
+  [712×1024](https://safebooru.org/images/3118/a03f7704edceeadde7a25d6313d59bf26406f2bd.jpg)
+  ([@bon_hanken](https://twitter.com/bon_hanken/status/1317122752994627584)).
+- Gilbert: [2307×2271](https://safebooru.org/images/3248/9a21989a37f1fea7cec6fd4fa6ed32ea6aa5fbef.jpg),
+  [2334×3541](https://safebooru.org/images/3250/085206905b7ea56021c1b6aa5eb78360f6c4290c.jpg).
+- Hodgins: [3496×4961](https://safebooru.org/images/3360/9a6346a081ca04b16aa977d7c76fdd3077bea544.png)
+  (Pixiv 90126306), [4096×1869](https://safebooru.org/images/1327/07f0e4acdb12763a61b20360b1e6aa777f760a5f.jpg)
+  ([@minloafie](https://x.com/minloafie/status/2028782703169208458)).
+- **Ojo**: el recolector mezcló fan art de **otras series** (Artoria y
+  Saber de *Fate*, Frieren, 2B, Toki) porque salen como «relacionadas» en
+  Danbooru. **No son de Violet Evergarden**: no usarlas.
+
+**Cosplay** (volumen real de la tela; la parte de imagen lo pone también
+en el punto 23):
+- Fotos con **licencia libre** de Flickr (vía Openverse) ✅✅:
+  [chripell, CC BY-SA 2.0](https://live.staticflickr.com/65535/52471110493_717fcaa09f_b.jpg)
+  (684×1024); [esby.photo, CC BY-NC-SA 2.0](https://live.staticflickr.com/891/42755280762_de75ffb92a_b.jpg)
+  (Lille, 1024×767) y [otra en Miramas](https://live.staticflickr.com/1891/44308232111_3ed2bdc4bd_b.jpg);
+  una serie de **bdrc**, CC BY-NC-ND 2.0 (p. ej.
+  [683×1024](https://live.staticflickr.com/7817/46760191944_271c7c1c35_b.jpg)).
+  Sirven para ver **cómo cae la falda plisada** al moverse.
+- Cosplay de **@swoochu** con foto de **@robinsonflowersphotography**:
+  traje de Doll completo con broche y guantes ⚠️ (una fuente,
+  [IMDb News](https://www.imdb.com/news/ni64774852); la imagen dio 403).
+
 ---
 
 ## 5 · Sitios, luz, paleta y texturas
@@ -351,7 +573,7 @@ compró una máquina tras ver la serie ✅
 | Sitio | Qué es | En qué se inspira | Estado |
 |---|---|---|---|
 | **Leiden** | La ciudad-puerto donde vive Violet | Ciudades alemanas: **Núremberg, Mannheim, Fráncfort, Cochem**; en Japón también citan **Génova y la Toscana**. **No se parece** a la Leiden real de Holanda | ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Violet_Evergarden), [oranda.jp](https://oranda.jp/info/violet-evergarden/), [up-tsukuba](https://up-tsukuba.com/violetevergarden-model/)) |
-| **Oficina de C.H.** (C.H.郵便社) | Casa vieja de tres pisos que Hodgins compró y reformó. Abajo el correo; en el **2.º piso, la oficina y las Dolls** (ep. 1, 00:12:43) | El **Museo de Kioto** (edificio de ladrillo rojo del barrio de Nakagyō) | ✅ subtítulo + ⚠️ el museo ([wiki](https://violet-evergarden.fandom.com/wiki/C.H_Postal_Company), [up-tsukuba](https://up-tsukuba.com/violetevergarden-model/)) |
+| **Oficina de C.H.** (C.H.郵便社) | Casa vieja de tres pisos que Hodgins compró y reformó. Abajo el correo; en el **2.º piso, la oficina y las Dolls** (ep. 1, 00:12:43) | El **Museo de Kioto** (edificio de ladrillo rojo del barrio de Nakagyō) | ✅ subtítulo + ⚠️ el museo ([wiki](https://violet-evergarden.fandom.com/wiki/C.H_Postal_Company), [up-tsukuba](https://up-tsukuba.com/violetevergarden-model/)). **2.ª pasada**: en el tráiler se ve la fachada de **ladrillo rojo con molduras blancas y palmeras** ([0:24](https://www.dailymotion.com/video/x7t0he2?t=24), hoja escenas nº8) ✅. Su emblema de hierro: §Punto 19 |
 | **Casa de Oscar** (ep. 7) | Casa junto a un lago, en otoño, con hojas en el agua | — | ✅ el lago y las hojas (subtítulo 00:15:09); la estación ⚠️ |
 | **Observatorio Shahar** (ep. 6) | Biblioteca donde se copian libros antiguos; el cometa Alley pasa cada 200 años (00:06:39) | — | ✅ subtítulo |
 | **Castillo de las camelias blancas** (ep. 5) | Palacio de Drossel, de la princesa Charlotte (白椿の城, 00:06:30) | — | ✅ subtítulo |
@@ -359,40 +581,61 @@ compró una máquina tras ver la serie ✅
 | **Almacén de cartas perdidas** (Especial) | Almacén militar de correos sin uso, lleno de cartas sin destino | — | ✅ subtítulo 00:25:08 |
 | **Teatro de la ópera** (Especial) y **festival del mar** (película) | Donde Irma canta | — | ✅ subtítulos |
 
-### 5.2 Luz ⚠️ (de memoria; comprobar en fotogramas)
+### 5.2 Luz (comprobada en vídeo en la 2.ª pasada)
 
-- La serie es famosa por **la luz de tarde**: sol bajo y dorado que
-  entra por ventanas grandes, **motas de polvo** en el aire y reflejos
-  suaves (bokeh) en los bordes.
-- Interiores de la oficina: **ventanal lateral**, madera oscura, papel
-  claro. La luz cae sobre la máquina y las manos de metal brillan.
-- Exteriores: cielos claros con nubes altas, verdes y azules limpios; el
-  mar de Leiden.
-- La tristeza va con **lluvia** y con **contraluz**; la alegría, con
-  **flores y viento**.
+Antes iba «de memoria ⚠️». Ahora sale de los fotogramas de §2.4 y §12 ✅:
 
-### 5.3 Paleta (hex aproximados)
+- **Tarde dorada**: sol bajo sobre el mar, cielo naranja y rojo
+  (opening [1:12](https://www.dailymotion.com/video/x8c9bet?t=72) a 1:15).
+  La serie es famosa por esta luz: sol bajo que entra por ventanas
+  grandes, motas de polvo y bokeh suave.
+- **Día abierto**: campo verde, cielo azul con nubes altas, viento en el
+  pelo (opening 0:15 a 0:24; ep. 10, campo de Ann). Aquí se midieron los
+  colores del traje.
+- **Oficina**: lámparas cálidas, **madera oscura**, ventanales (tráiler
+  [0:06](https://www.dailymotion.com/video/x7t0he2?t=6) a 0:10). La luz
+  cae sobre la máquina y las manos de metal brillan (tráiler 0:34 y 1:22).
+- **Noche de ciudad**: faroles ámbar y **bokeh muy marcado**, gente en
+  silueta (Gilbert, tráiler [0:56](https://www.dailymotion.com/video/x7t0he2?t=56)).
+  No estaba descrita en la primera pasada.
+- **Hospital**: luz **fría** de ventana lateral sobre sábanas blancas,
+  nada del dorado de fuera (ep. 1, clip [0:02](https://www.dailymotion.com/video/x947zqa?t=2) a 0:30).
+- La tristeza va con **lluvia** (hoja 2 nº63) y **penumbra** (Violet llora
+  en la oficina, ep. 10, clip 3:10); la alegría, con **flores y viento**
+  (opening 0:27 a 0:36, la flor violeta).
 
-No pude muestrear imágenes: **todos los hex son estimados** ⚠️, salvo el
-azul de Prusia de referencia. Hay una paleta de fan en
-[Adobe Color](https://color.adobe.com/Violet-Evergarden-anime-1280x720-color-theme-13839048/)
-y otra en [anime-colors](https://www.anime-colors.com/violet-evergarden-series/violet-evergarden-series)
-(sin abrir).
+### 5.3 Paleta (hex medidos en la 2.ª pasada)
 
-| Elemento | Hex | Nota |
-|---|---|---|
-| Chaqueta azul de Prusia | `#1F3A5C` (el azul de Prusia «de libro» es `#003153`) | La prenda más reconocible |
-| Vestido y lazo del cuello | `#F4F1EA` | Blanco roto, no blanco puro |
-| Broche esmeralda | `#1E8A5A`, brillo `#6FD0A0` | Del color de los ojos de Gilbert (ep. 1, 00:00:22) |
-| Pelo rubio | `#E8D39A`, sombra `#C4A262` | Dorado pálido |
-| Ojos | `#4A7DB8` | Azul |
-| Lazos del pelo | `#9E2630` | Rojos (según la wiki) |
-| Guantes y botas | `#5A3A24` | Marrón oscuro |
-| Manos de metal | `#B8BCC3` con juntas `#2E2F33` | Plata |
-| Papel de carta | `#EFE6D2` | Crema |
-| Tinta de máquina | `#2A2622` | Casi negra, nunca negro puro |
-| Lacre | `#8C1F2A` | Rojo vino |
-| Luz de tarde | `#F2C98A` | Para el tono general |
+Medidos con Pillow (bloques de 7×7 píxeles) y `estilo.py` sobre
+fotogramas y arte oficial; se dice de dónde sale cada uno ✅. Los
+fotogramas del opening son de un clip de 512×288: valen para el tono, no
+para el detalle fino. Lo que sigue estimado lleva ⚠️. Paletas de fans
+sólo como contraste: [Adobe Color](https://color.adobe.com/Violet-Evergarden-anime-1280x720-color-theme-13839048/),
+[anime-colors](https://www.anime-colors.com/violet-evergarden-series/violet-evergarden-series).
+
+| Elemento | Hex medido | De dónde | Nota |
+|---|---|---|---|
+| Chaqueta azul | `#2F444F` sombra, `#3B5363` luz | opening 0:21 (hoja escenas nº1) | Azul grisáceo oscuro, más apagado que el `#003153` «de libro» |
+| Chaqueta en el databook | `#2C3A56` | hoja de modelo (hoja 1 nº2) | Azul marino; cae en la misma familia |
+| Lazo del cuello | `#ECE2C9` | opening 0:21 | Crema, no blanco puro |
+| Broche | `#4C8669` | opening 0:21 y [0:48](https://www.dailymotion.com/video/x8c9bet?t=48) | Verde oliva; antes se estimaba `#1E8A5A` |
+| Pelo | `#CBB56B` base, `#E1D6C3` mechones claros | `Violet_Anime.jpg` (promocional) | Dorado apagado |
+| Pelo en el opening | `#E6DAC0` luz, `#9E908C` sombra | opening 0:21 | La sombra tira a gris |
+| Ojos | `#3BADB3` | `Violet_Anime.jpg` | **Verde azulado**, no azul puro |
+| Ojos en el opening | `#426A6B` | opening 0:21 | ⚠️ un solo fotograma |
+| Lazo rojo del pelo | `#63394D` | `Violet's smile.jpg` (ep. 5), 77 píxeles | **Rojo vino apagado**; antes `#9E2630` |
+| Piel | `#B5A491` | opening 0:21 | — |
+| Cuerpo de la máquina | `#1E1D1B` | opening [0:39](https://www.dailymotion.com/video/x8c9bet?t=39) (hoja escenas nº2) | Casi negro, nunca negro puro |
+| Madera de la mesa | `#A27234` | opening 0:39 | Madera clara y cálida |
+| Papel de carta | `#F0EDE2`, sombra `#DAD4C5` | ep. 10, clip [1:15](https://www.dailymotion.com/video/x80vbaj?t=75) | Coincide con el `#EFE6D2` estimado |
+| Uniforme militar | casaca `#413228`, correa `#6A422A` | `Violet2.jpg` (flashback) | Verde oliva muy oscuro |
+| Gilbert | chaqueta `#3E3932`, pelo `#3B3734` | tráiler [0:56](https://www.dailymotion.com/video/x7t0he2?t=56), de noche | Pelo oscuro (azul muy oscuro de día, hoja 1 nº12) |
+| Cielo de día | `#59CBF4` | `Violet's smile.jpg` | — |
+| Web oficial | fondo `#EFEED9`, texto `#B4832F` | CSS de la web ([わくぱく](https://wakupaku.hmup.jp/blog/blog/design-anime-violetevergarden)) | ⚠️ una fuente; crema y bronce |
+| Guantes y botas | `#5A3A24` | — | ⚠️ estimado, sin medir |
+| Manos de metal | `#B8BCC3`, juntas `#2E2F33` | — | ⚠️ estimado (ver opening 1:00) |
+| Lacre | `#8C1F2A` | — | ⚠️ estimado; el lacre no se vio en un fotograma |
+| Luz de tarde | `#F2C98A` | — | ⚠️ estimado |
 
 ### 5.4 Texturas reales equivalentes (libres)
 
@@ -411,9 +654,27 @@ y otra en [anime-colors](https://www.anime-colors.com/violet-evergarden-series/v
 
 - **El logo**: hay una versión vectorial en
   [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Violet_Evergarden_logo.svg).
-  No encontré qué letra es: los buscadores de fuentes sólo dan letras de
-  fans con ese nombre ⚠️. De memoria es una **romana fina y elegante**,
-  de trazo contrastado ⚠️.
+  El logo es **bilingüe**: katakana arriba y «VIOLET EVERGARDEN» en
+  versalitas muy espaciadas debajo (visto en el tráiler
+  [0:16](https://www.dailymotion.com/video/x7t0he2?t=16) y 1:26 y en el
+  opening 1:24) ✅. **La parte en katakana** usa **本明朝 小がな
+  (Honmincho Komana)**, un mincho comercial de Morisawa «de trazos que
+  fluyen», según el análisis del CSS de la web oficial ⚠️ (una fuente:
+  [わくぱく](https://wakupaku.hmup.jp/blog/blog/design-anime-violetevergarden)).
+  Su equivalente libre: **Shippori Mincho** o **Zen Old Mincho** (OFL).
+  **La parte latina** sigue sin identificar ⚠️: la aproximación libre es
+  Cormorant Garamond o Playfair Display.
+- **La web oficial** usa **Special Elite** en los títulos de página y
+  **Merriweather** en el menú (misma fuente, わくぱく) ✅: Special Elite
+  deja de ser «parecida a ojo» y pasa a ser **la letra real** de la
+  franquicia para lo tecleado. Colores de esa web: fondo `#EFEED9`, texto
+  `#B4832F`.
+- **Cartelas de los tráileres**: frase en japonés en mincho blanco muy
+  espaciado sobre negro, y la traducción en versalitas pequeñas debajo
+  («ERA UN INSTRUMENTO / SIN CORAZÓN», tráiler [0:12](https://www.dailymotion.com/video/x7t0he2?t=12);
+  «AÚN NO CONOCE / EL SIGNIFICADO DE "TE QUIERO"», 1:02 a 1:04) ✅.
+  **Nombre de cada personaje** en pantalla: katakana en mincho con «cv» y
+  el actor debajo, pegado a un lado del plano (tráiler 0:22 a 0:36) ✅.
 - **Las cartas en pantalla**: se ven **escritas a máquina, en el
   alfabeto inventado** de la serie (§6.3), no en letras latinas.
 - **Subtítulos oficiales**: Netflix, letra de sistema. No sirven de estilo.
@@ -436,7 +697,27 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
 | **Italiana** | OFL | Rótulo fino de una línea | Letras altas y delgadas |
 | **Pinyon Script** | OFL | **Firmas** («Violet Evergarden») | Caligrafía de pluma |
 | **Great Vibes** / **Lavishly Yours** | OFL | Dirección escrita a mano en un sobre | Letra inglesa de pluma |
-| **Shippori Mincho** | OFL | Algún japonés (自動手記人形) | Mincho clásico, trae también las tildes |
+| **Shippori Mincho** | OFL | Algún japonés (自動手記人形) | Mincho clásico, trae también las tildes; equivalente libre del logo en katakana |
+| **Merriweather** | OFL | Texto largo impreso, alternativa a EB Garamond | **La usa la web oficial** en el menú; tildes, ñ, ¿ y ¡ comprobados con fontTools ✅ (2.ª pasada) |
+| **Zen Old Mincho** | OFL | Japonés de título | Mincho clásico, alternativa a Shippori ⚠️ (tildes sin comprobar) |
+
+### 6.2b Una letra por cada uso (Nuevo, 2.ª pasada)
+
+Lo que pide el encargo, uso por uso. «En pantalla» es lo que usa la
+franquicia; «libre» es la que va en la lámina. Todas las libres traen
+tildes, ñ, ¿ y ¡ (fontTools), salvo donde se dice.
+
+| Uso | En pantalla | Libre para la lámina |
+|---|---|---|
+| **Logo o título** | Katakana en **Honmincho Komana** (comercial); latino, versalitas finas sin identificar | **Shippori Mincho** (japonés) y **Cormorant Garamond** (latino) |
+| **Globo normal** | No hay globos: **la carta tecleada** | **Special Elite** (la real de la web oficial) ✅ |
+| **Grito** | No se rotula: Violet no grita y el anime no pone texto de grito | Propuesta: Special Elite en mayúsculas, sólo para Iris o Benedict (sin fuente) |
+| **Pensamiento** | Voz en off, sin recuadro (§7.1) | Propuesta: Cormorant Garamond en cursiva entre « » (sin fuente) |
+| **Onomatopeya** | En los 6 vídeos mirados no aparece ninguna rotulada | Si se quiere el «clac» del tecleo: Special Elite pequeña (propuesta) |
+| **Cartel del mundo** | Alfabeto **Tellsis** en letreros y teclas; placa de hierro de C.H. | **IM Fell English** para placas y sellos; Tellsis sólo de adorno (letra de fans sin tildes) |
+| **Interfaz de juego** | No hay videojuego oficial | No aplica |
+| **Subtítulos y cartelas** | Frase en mincho blanco espaciado sobre negro, traducción en versalitas debajo (tráiler 0:12) | Shippori Mincho + Cormorant Garamond en versalitas |
+| **Firma** | — | **Pinyon Script** |
 
 ### 6.3 El alfabeto inventado de la serie
 
@@ -449,7 +730,13 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
   [GamezaVon/NunkishTranslation](https://github.com/GamezaVon/NunkishTranslation),
   [Pawitsapak/Conlang-Nunkish](https://github.com/Pawitsapak/Conlang-Nunkish)).
 - En Bilibili hay un artículo que traduce **lo que Violet escribe de
-  verdad** en las cartas: [«薇尔莉特到底写了什么？»](http://www.bilibili.com/read/cv142910) ⚠️ (sin abrir).
+  verdad** en las cartas: [«薇尔莉特到底写了什么？»](http://www.bilibili.com/read/cv142910) ⚠️ (en la 2.ª pasada tampoco cargó: dos intentos).
+- En el opening el alfabeto sale **como tiza clara sobre negro**,
+  flotando (0:09 a 0:12 y 1:21 a 1:24, hoja escenas nº6), y en el ep. 1 la
+  pluma de Violet lo escribe temblando (hoja escenas nº16) ✅.
+- Los fans que lo tratan como idioma lo escriben **Tellsis** (el
+  continente se llama テルシス): [traductor de Kairi003](https://kairi003.github.io/tellsis-translator/)
+  y la letra [«テルシス大陸フォント»](https://www.pixiv.net/en/artworks/76979667) en Pixiv ✅.
 - **Letra de fans**: [JxpoemYui/violet-evergarden-font](https://github.com/JxpoemYui/violet-evergarden-font),
   hecha por 汐月Jxpoem (Bilibili). **Sólo trae A-Z, a-z y 0-9**: **sin
   tildes, sin ñ, sin signos**. Licencia del README: uso libre, pero **no
@@ -457,8 +744,12 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
   lámina de un servidor sin ánimo de lucro vale **como adorno**
   (la cabecera de la carta, el rótulo de una tecla), **nunca para el
   texto que hay que leer**.
-- Otra letra citada en el foro de la wiki: `kkyane.booth.pm/items/1979406`
-  ⚠️ (la vi escrita en un resultado, no la abrí).
+- Otra letra citada en el foro de la wiki, **abierta en la 2.ª pasada**:
+  [«テルシス語フォント (ブロック体＋筆記体)»](https://booth.pm/ja/items/1979406)
+  en booth.pm ✅. **Gratis (¥0)**, hecha a mano copiando el cuadernillo
+  del Blu-ray, con versión de bloque y otra cursiva. **No dice licencia**:
+  igual que la de JxpoemYui, **sólo de adorno**, nunca para texto que haya
+  que leer ni para redistribuir.
 
 ---
 
@@ -466,8 +757,9 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
 
 ### 7.1 Lo que la serie pone en pantalla
 
-- **No hay globos.** La obra es novela ligera y anime; no encontré un
-  manga oficial ⚠️ (la novela es de Kana Akatsuki con ilustraciones de Akiko
+- **No hay globos.** La obra es novela ligera y anime; **no hay manga
+  oficial** ✅ (2.ª pasada: las tres entradas «manga» de AniList tienen
+  `format: NOVEL`; la novela es de Kana Akatsuki con ilustraciones de Akiko
   Takase, en KA Esuma Bunko: [KyoAni](https://www.kyotoanimation.co.jp/books/violet/books/)).
 - **La carta es el cuadro de diálogo.** Cuando alguien escribe, **se oye
   su voz leyendo la carta** mientras se ven imágenes. En los subtítulos
@@ -476,10 +768,17 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
 - La hoja **en la máquina**: papel crema, texto tecleado con tinta
   oscura, en el alfabeto inventado ✅.
 - **El sobre**: se ven sellos de lacre y la saca del cartero ⚠️ (de
-  memoria).
+  memoria). En la 2.ª pasada sólo se halló una pista indirecta: sellos de
+  lacre de «Violet Evergarden» vendidos como merchandising
+  ([Etsy](https://www.etsy.com/listing/775900036/30mm-violet-evergarden-wax-seal-stamp)).
+  En el vídeo del ending, la carta se cierra con **lacre rojo** (§11), pero
+  es acción real, no la serie ⚠️.
 - Los **pensamientos** de Violet no salen en recuadro: se dicen en voz en
   off o no se dicen. Su cara casi no se mueve; la emoción va en **los
-  ojos y las manos** ⚠️.
+  ojos y las manos** ✅ (2.ª pasada): el director Taichi Ishidate decidió
+  que **Violet no parpadee** («parpadear la haría parecer tonta, porque
+  casi no tiene expresión») y que **mire a la gente de frente**, no de
+  reojo ([entrevista del Fanbook, ATMA & Funomena](https://atmafunomena.wordpress.com/2018/08/26/violet-evergarden-interviews-taichi-ishidate-earnestness-immersion-subtlety/)).
 
 ### 7.2 Cómo hablan (según el subtítulo)
 
@@ -515,7 +814,9 @@ comprobé con fontTools que traen **á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü
 
 ### 7.4 En los videojuegos de la franquicia
 
-**No hay videojuego oficial** ✅ (no aparece ninguno en la búsqueda; sólo
+**No hay videojuego oficial** ✅ (no aparece ninguno en la búsqueda; en la
+2.ª pasada tampoco en japonés «公式ゲーム アプリ ノベルゲーム» ni en The
+Cutting Room Floor, que no tiene página de la serie; sólo
 modelos de fans en [VRoid Hub](https://hub.vroid.com/en/characters/7071143261300970946),
 un [mundo de VRChat](https://en.vrcw.net/world/detail/wrld_0cb37037-834e-413a-bc9a-6b9d1537a7eb),
 una [novela visual de fans](https://gbatemp.net/threads/project-violet-evergarden-vn-game-fan-made.504221/)
@@ -559,17 +860,45 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
 - **Qué le importa**: al principio, **las órdenes** («命令», 33 veces en
   los subtítulos) ✅; luego, **el corazón de quien le pide la carta**.
 - **Cómo se expresa**: frases cortas, formales, sin adornos (§7.2).
-  **Casi no sonríe**; su sonrisa es pequeña y llega tarde en la serie ⚠️.
-  No grita; cuando se rompe, llora en silencio ⚠️. Explica las cosas
+  **Casi no sonríe**; su sonrisa es pequeña y llega tarde en la serie ✅
+  (2.ª pasada: capturas de los eps. 5 y 9, abajo). No grita: la única vez
+  que alza la voz es «¡Quiero saber qué es "te quiero"!» (ep. 1,
+  00:21:29) ✅. Cuando se rompe, llora **sin desfigurar la cara** ✅. Explica las cosas
   como un informe: primero el dato, luego la conclusión («Era distinto
   de una carta normal… me costó alabarlo», película, 00:13:35) ✅.
 - **Cómo saluda**: «Encantada. Allá donde el cliente lo desee, acudiré.
   Servicio de Auto Memory Dolls, Violet Evergarden» ✅, con una
   **reverencia formal** ⚠️ (de memoria: comprobar el gesto en el ep. 13,
   00:23:17).
-- **Lenguaje corporal** ⚠️: espalda recta, manos juntas delante, pasos
-  medidos; teclea muy rápido y sin mirar; se toca el **broche** cuando
-  piensa en el Mayor.
+- **Lenguaje corporal**: **espalda recta** ✅ (Takase cuidó «cómo se
+  mantiene erguida», §3.3); **no parpadea y mira de frente** ✅ (Ishidate,
+  §7.1). De memoria ⚠️: manos juntas delante, pasos medidos, teclea muy
+  rápido y sin mirar, se toca el **broche** cuando piensa en el Mayor.
+- **Nuevo (2.ª pasada) · Su cara en cada emoción** (capturas reales de la
+  wiki, miradas):
+  - **Alegría**: sonrisa breve, boca cerrada, ojos entornados:
+    [«Violet's smile.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/2/2a/Violet%27s_smile.jpg)
+    (1274×714, ep. 5, lazo rojo y cielo) y
+    [«Violet smile ep9.png»](https://static.wikia.nocookie.net/violet-evergarden/images/f/f1/Violet_smile_ep9.png)
+    (540×304, ep. 9, de perfil, luz de interior) ✅.
+  - **Tristeza**: [«Violet crying.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/8/8f/Violet_crying.jpg)
+    (1280×720): lágrimas en las mejillas, boca cerrada, broche a la vista
+    ✅; episodio exacto ⚠️. Y en la oficina, ep. 10, clip
+    [3:10](https://www.dailymotion.com/video/x80vbaj?t=190) ✅.
+  - **Vergüenza o torpeza**: [«Violet awkward smile.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/0/07/Violet_awkward_smile.jpg)
+    (700×394): **se empuja las comisuras con los dedos** para fabricarse
+    una sonrisa ✅. Resume el personaje: aprende a sentir practicando el
+    gesto.
+  - **Miedo**: no hay captura etiquetada ⚠️. Lo más cercano: sus ojos muy
+    abiertos en la batalla del tráiler ([0:44](https://www.dailymotion.com/video/x7t0he2?t=44)),
+    tensión y no llanto.
+  - **Rabia**: **no encontré ninguna** escena de Violet furiosa. Su enfado
+    es quietud tensa. **No dibujarle una cara de furia.**
+- **Nuevo · Datos oficiales**: **161 cm**; cumpleaños **25 de septiembre**
+  ✅ (Starter Book oficial, traducido en
+  [dennou-translations](https://dennou-translations.tumblr.com/post/173583642499/violet-evergarden-starter-book-character-profiles),
+  e infobox de la wiki). Al final **se casa con Gilbert** (la wiki la da
+  como su esposa) ✅: no contarlo en la lámina, es el final.
 - **Con quién aparece**: Gilbert (recuerdos), Hodgins, Cattleya,
   Benedict, Erica, Iris; en cada episodio, el cliente.
 
@@ -579,7 +908,13 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   verde**, del color de sus ojos (ep. 1, 00:00:22; ep. 8, 00:14:06) ✅.
   Le dijo **«愛してる»** al final de la guerra (ep. 9, 00:02:38) ✅.
 - Habla bajo y con cariño: «君は ここにいるんだ» («tú quédate aquí»,
-  ep. 8, 00:07:23) ✅. Voz japonesa: **Daisuke Namikawa** ✅ (Doblaje Wiki).
+  ep. 8, 00:07:23) ✅. Voz japonesa: **Daisuke Namikawa** ✅ (Doblaje Wiki;
+  y «cv 浪川大輔» en pantalla, tráiler [0:56](https://www.dailymotion.com/video/x7t0he2?t=56)).
+- **Nuevo (2.ª pasada)**: **185 cm, grupo O** (Starter Book + wiki) ✅✅;
+  **29 años** (novela, tomo 2, cap. 5) ✅. Pelo **azul muy oscuro** y ojos
+  **verdes** (hoja 1 nº12, 26, 31; Danbooru `blue_hair`, `green_eyes`) ✅.
+  En la película lleva **parche en un ojo** (hoja 2 nº59). Caras por
+  emoción: la wiki no tiene capturas etiquetadas ⚠️.
 - Sale sobre todo en **recuerdos**. Para #poemas **no es buen narrador**:
   su papel es ser **el destinatario** de las cartas de Violet.
 
@@ -587,7 +922,12 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
 
 - Fundó y dirige la **compañía postal C.H.** en Leiden ✅
   ([wiki](https://violet-evergarden.fandom.com/wiki/C.H_Postal_Company)).
-  Amigo de Gilbert y tutor de Violet ⚠️.
+  **Amigo de Gilbert desde la Academia Militar** ✅ (Fanbook oficial,
+  [dennou-translations](https://dennou-translations.tumblr.com/post/184406019584/violet-evergarden-official-fanbook-character),
+  y wiki); tutor de Violet ⚠️.
+- **Nuevo (2.ª pasada)**: **192 cm, grupo A** ✅✅ (Starter Book + wiki). Pelo
+  **rojizo con coleta**, barba de pocos días (tráiler [0:22](https://www.dailymotion.com/video/x7t0he2?t=22);
+  Danbooru `red_hair`, `stubble`, `ponytail`) ✅.
 - La llama **«ヴァイオレットちゃん»** ✅. Bromista, cariñoso, un poco
   payaso: el meme de los **tres muñecos de animales** («¡elige uno ya,
   que se acaba el mundo!») sale de él ✅
@@ -596,12 +936,19 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   Violet no sabe que está herida por dentro.
 - **Para #poemas**: **escribe un haiku** en el especial (00:13:19) ✅.
   Es el más «poeta aficionado» de la oficina.
-- Voz japonesa: **Takehito Koyasu** ⚠️.
+- Voz japonesa: **Takehito Koyasu** (子安武人) ✅ (lista del Blu-ray y
+  «cv 子安武人» en pantalla en el tráiler, 0:22).
 
 ### Cattleya Baudelaire (カトレア・ボードレール) — la Doll estrella
 
-- La Doll **más solicitada** de C.H. ⚠️. Morena, labios rojos, elegante ⚠️.
-  Hace de **hermana mayor** de Violet.
+- La Doll **con más trayectoria** de C.H., **especialista en cartas de
+  amor** ✅ (Fanbook oficial). **Pelo negro largo, chaqueta roja,
+  colgante rojo**, elegante ✅ (tráiler [0:32](https://www.dailymotion.com/video/x7t0he2?t=32)).
+  **167 cm, grupo B** ✅✅. Hace de **hermana mayor** de Violet.
+- **Su cara de fastidio**: [«Angry Cattleya.png»](https://static.wikia.nocookie.net/violet-evergarden/images/6/66/Angry_Cattleya.png)
+  (1366×768): boca tensa, ceja alzada, mira de lado. Es la pelea con
+  Benedict del ep. 3, 00:20:03 a 00:20:13 («¡este tonto puso un vaso
+  mojado sobre la carta que escribí!») ✅✅.
 - Defiende el oficio: la máquina es un arma «**para que las mujeres que
   trabajamos luchemos en la sociedad**» (ep. 2, 00:08:25) ✅.
 - **Para #poemas**: es **la lectora crítica**. En el especial lee los
@@ -609,7 +956,8 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   subtítulo ⚠️), «…¿y esto qué es?» (00:13:45, tras leer en voz alta la
   hoja de Benedict, 00:13:40 ✅). Es la que mejor dice «**comenta el texto**».
 - Se pelea con Benedict y luego toman el té juntos (meme) ✅ (TV Tropes).
-- Voz japonesa: **Aya Endō** ⚠️. Voz latina: **Carla Castañeda** ✅ (§10).
+- Voz japonesa: **Aya Endō** ✅ (lista del Blu-ray y «cv 遠藤綾» en el
+  tráiler, 0:32). Voz latina: **Carla Castañeda** ✅ (§10).
 
 ### Benedict Blue (ベネディクト・ブルー) — el cartero
 
@@ -617,15 +965,20 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   ([ねとらぼ](https://nlab.itmedia.co.jp/research/articles/694099/)).
   Guapo, seco pero honrado y amable ✅ (misma fuente). Lleva **botas de
   tacón** ⚠️ (el título de la entrevista de Takase habla de «High Heels»).
+- **Nuevo (2.ª pasada)**: **rubio**, camisa blanca con **tirantes** (tráiler
+  [0:28](https://www.dailymotion.com/video/x7t0he2?t=28)) ✅; **obsesionado
+  con la moda, no usa el uniforme oficial** de cartero ✅ (Fanbook).
+  **172 cm, grupo O** ✅✅.
 - Gruñón: «何だよ！ 何で俺がお茶を» («¿Y por qué tengo que hacer yo el
   té?», ep. 13, 00:22:32) ✅.
 - **Para #poemas**: en el especial propone «**¡hacemos nosotros la mejor
   letra!**» y escribe «Esto es el infierno, no hope / sin ti, no future:
   ¡el grito de mi alma!» (00:12:47 a 00:13:50) ✅. En la película:
   «el himno al mar sólo lo escribe quien es elegido» (00:14:05) ✅.
-- **2.º en la encuesta de fans de 2022** de ねとらぼ ⚠️ (una fuente).
-- Voz japonesa: **Kōki Uchiyama** ✅
-  ([BTVA](https://www.behindthevoiceactors.com/characters/Violet-Evergarden/Cattleya-Baudelaire/), resumen).
+- **2.º en la encuesta de fans de 2022** y **3.º en la de 2021** de
+  ねとらぼ ✅✅ (§9): **el secundario más querido**.
+- Voz japonesa: **Kōki Uchiyama** ✅ («cv 内山昂輝» en el tráiler, 0:28;
+  y [BTVA](https://www.behindthevoiceactors.com/characters/Violet-Evergarden/Cattleya-Baudelaire/), resumen).
 
 ### Erica Brown (エリカ・ブラウン) — la Doll que quería ser escritora
 
@@ -634,13 +987,36 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
   sueño olvidado** (ep. 2, 00:20:36 a 00:20:49) ✅.
 - **Para #poemas**: es **la persona que escribe en el foro sin atreverse
   a publicar**. Perfecta para una frase de ánimo. Voz japonesa: **Minori
-  Chihara** ⚠️ (también canta el ending).
+  Chihara** ✅ (lista del Blu-ray y «cv 茅原実里» en el tráiler,
+  [0:36](https://www.dailymotion.com/video/x7t0he2?t=36); también canta el
+  ending).
+- **Nuevo (2.ª pasada)**: pelo castaño corto y **gafas redondas** (tráiler
+  0:36) ✅; **155 cm, grupo AB**, la más baja ✅✅. El Starter Book dice que
+  «**se preocupa por dentro en cada trato con un cliente y no tiene
+  confianza en sí misma**» ✅.
 
 ### Iris Cannary (アイリス・カナリー) — la Doll joven
 
 - Ambiciosa y quejica ✅ (ep. 2, 00:06:12). Viaja a su pueblo en el ep. 4
   ✅ (subtítulo 00:05:23). En la película: «**¡El año que viene el himno
   lo escribo yo!**» (00:14:02) ✅. Voz japonesa: **Haruka Tomatsu** ⚠️.
+- **Nuevo (2.ª pasada)**: viene de **Kazaly** y quiere ser mujer
+  independiente en la capital ✅ (Fanbook + ep. 2). **160 cm, grupo B** ✅✅.
+  Pelo corto castaño claro, ojos ámbar, collar de cuentas turquesa (hoja 1
+  nº13, 37-39; hoja 2 nº68) ⚠️ color sin medir. **Su cara de rabia**:
+  [«Iris angry.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/d/d7/Iris_angry.jpg)
+  (809×455): cejas muy fruncidas, dientes apretados. Es la cara más
+  «de anime clásico» del reparto: sirve de **contraste** con Violet.
+
+### Dinámicas para láminas en grupo (Nuevo, 2.ª pasada)
+
+- **Cattleya y Benedict** se pelean y luego toman el té juntos ✅.
+- **Hodgins** hace reír a toda la oficina (los muñecos) ✅; Cattleya se
+  burla de él (hoja 2 nº57).
+- **Violet y Erica** se parecen: ninguna se atreve al principio a escribir
+  algo propio ✅.
+- **Iris y Violet** chocan: Iris quiere que la vean; Violet no busca nada
+  para sí misma ✅.
 
 ### Secundarios de un episodio que sirven a #poemas
 
@@ -661,13 +1037,17 @@ Quién es quién abajo; lo que no tiene fuente va con ⚠️.
 | Encuesta | Resultado | Estado |
 |---|---|---|
 | ねとらぼ, 20 may. a 2 jun. 2021 (fans, Japón) | **1.º Violet, 3.382 votos, 53,8 %** | ✅ ([ねとらぼ](https://nlab.itmedia.co.jp/research/articles/240645/), [Yahoo! Japón](https://news.yahoo.co.jp/articles/9b954425e1ed2618c02d97d25112667f57eec8bf)) |
-| ねとらぼ 2022 (fans) | 1.º Violet; **2.º Benedict, 298 votos, 12,9 %** | ⚠️ una fuente ([ねとらぼ](https://nlab.itmedia.co.jp/research/articles/694099/)) |
+| ねとらぼ 2021, el resto (6.292 votos) · **Nuevo (2.ª pasada)** | 2.º **Hodgins** 565 · 3.º **Benedict** 550 · 4.º Gilbert 455 · 5.º Dietfried 358 · 6.º Ann Magnolia 201 · 7.º Cattleya 131 · 8.º Charlotte 95 · 9.º Iris 92 · 10.º Luculia 81 | ✅ (el mismo artículo, leído entero) |
+| ねとらぼ, 15 a 22 abr. 2022 (fans, 2.310 votos) | 1.º Violet, 1.120 votos (48,4 %); **2.º Benedict, 298 votos, 12,9 %** | ✅ fuente primaria: el medio que hizo la encuesta ([ねとらぼ](https://nlab.itmedia.co.jp/research/articles/694099/)); del 3.º en adelante no se pudo abrir ⚠️ |
+| **Nuevo** · Danbooru: cuántos dibujos de fans hay de cada uno (API de conteo, 24-sep-2026) | Violet **1.214** · **Gilbert 57** · Cattleya 34 · Iris 19 · Erica 19 · Hodgins 17 · Benedict 13 | ✅ contado. La tabla del recolector estaba mal (mezclaba otras series) |
 | Ranker (fans, en inglés) | 1.º Violet, 2.º **Hodgins**, 3.º Benedict; entre las chicas: Violet, **Cattleya**, Iris | ⚠️ ([Ranker](https://www.ranker.com/list/best-violet-evergarden-characters/rowan-blake)) |
-| みんなのランキング | Ranking de personajes y de «神回» (mejores episodios) | sin abrir ([personajes](https://ranking.net/rankings/best-violet-evergarden-characters), [episodios](https://ranking.net/rankings/best-violet-evergarden-kamikai)) |
+| みんなのランキング | Ranking de personajes (23 puestos, sin votos ni fecha: Violet 1.ª) y de «神回» (mejores episodios) | ⚠️ sin metodología ([personajes](https://ranking.net/rankings/best-violet-evergarden-characters), [episodios](https://ranking.net/rankings/best-violet-evergarden-kamikai)) |
 | Encuesta **oficial** de Kyoto Animation | **No encontré ninguna** | — |
 
 **Conclusión**: aquí **la protagonista es la más querida**, con mucha
-diferencia. La lámina 1 va con **Violet**. Para dar calor y humor, los
+diferencia. **Benedict** es el secundario más votado en texto (2.º o 3.º
+en las dos encuestas) y **Gilbert** el más dibujado en imagen: dos formas
+de querer a un personaje ✅. La lámina 1 va con **Violet**. Para dar calor y humor, los
 secundarios con tirón son **Benedict, Hodgins y Cattleya**, que además
 son **los que escriben letras en el especial**. El episodio favorito de
 los fans es el **10** (las cartas de Ann), «el mejor de los mejores» ✅
@@ -685,8 +1065,10 @@ los fans es el **10** (las cartas de Ann), «el mejor de los mejores» ✅
 descripción del vídeo [«Voces del doblaje latino»](https://www.youtube.com/watch?v=wEgiayIdKR4)).
 Especial: Carla Castañeda, Mireya Mendoza y Gabriela Garay ⚠️; película:
 Carla Castañeda, Briana González y Gabriela Garay ⚠️ (sólo Doblaje Wiki).
-Netflix la estrenó el 11 de enero de 2018 en varios países y el 5 de
-abril en México ⚠️ (Doblaje Wiki).
+Netflix la estrenó en Latinoamérica el **11 de enero de 2018** y el 5 de
+abril en México y EE. UU. ✅ (Doblaje Wiki; [ANMTV, ene. 2018](https://www.anmtvla.com/2018/01/exclusiva-filtrado-video-latino-de.html)
+confirma que el doblaje latino ya existía entonces). Traducción: Mireya
+Mendoza; grabado en 2017 (Doblaje Wiki) ⚠️.
 
 | Personaje | Voz latina | Fuentes | Estado |
 |---|---|---|---|
@@ -694,11 +1076,61 @@ abril en México ⚠️ (Doblaje Wiki).
 | **Violet** (Gaiden, película, Recuerdos; y un *loop* del ep. 10) | **Nycolle González** | Doblaje Wiki, [Somos Kudasai](https://somoskudasai.com/noticias/netflix-revela-un-avance-con-doblaje-al-espanol-de-violet-evergarden-the-movie/), [Multianime](https://multianime.com.mx/2020/03/22/violet-evergarden-eternity-and-the-auto-memory-doll-si-se-estrenara-en-netflix-con-doblaje-latino-escuchalo-aqui/) | ✅ |
 | **Claudia Hodgins** | **Carlos Hernández** | Doblaje Wiki, noticia del tráiler de la película | ✅ |
 | **Cattleya Baudelaire** | **Carla Castañeda** | Doblaje Wiki, [Anime-Planet](https://www.anime-planet.com/people/carla-castaneda) | ✅ |
-| **Gilbert Bougainvillea** | Alejandro Orozco | sólo páginas de Doblaje Wiki | ⚠️ |
-| **Dietfried** (película) | Irwin Daayán | una noticia del tráiler | ⚠️ |
-| **Benedict Blue** | Alan Fernando Velázquez | sólo Doblaje Wiki | ⚠️ |
-| **Erica Brown** | Alondra Hidalgo | sólo Doblaje Wiki | ⚠️ |
-| **Iris Cannary** | Andrea Orozco | sólo Doblaje Wiki | ⚠️ |
+| **Gilbert Bougainvillea** | Alejandro Orozco (algunos *loops*, Mauricio Pérez) | Doblaje Wiki (ficha) + muestra oficial, 1:31 | ✅ |
+| **Dietfried** | Irwin Daayán | Doblaje Wiki + muestra, 1:48 | ✅ |
+| **Benedict Blue** | Alan Fernando Velázquez | Doblaje Wiki + muestra, 1:17 | ✅ |
+| **Erica Brown** | Alondra Hidalgo | Doblaje Wiki + muestra, 0:20 | ✅ |
+| **Iris Cannary** | Andrea Orozco (en el ep. 4, algunos *loops*, Erika Langarica) | Doblaje Wiki + muestra, 0:38 | ✅ |
+
+**Nuevo (2.ª pasada) · Todo el reparto**, con el minuto en que lo nombra
+la **muestra oficial de Doblaje Wiki**
+[«Violet Evergarden | Voces del doblaje latino»](https://www.youtube.com/watch?v=wEgiayIdKR4)
+(los tiempos salen del wikitext de su ficha de archivo). Cada nombre está
+también en la tabla de reparto de la página de la serie en Doblaje Wiki ✅:
+
+| Minuto | Personaje | Voz latina |
+|---|---|---|
+| 0:00 | Violet | **Andrea Arruti** |
+| 0:20 | Erica Brown | Alondra Hidalgo |
+| 0:38 | Iris Cannary | Andrea Orozco |
+| 0:50 | Cattleya | **Carla Castañeda** (también dirige) |
+| 1:04 | Claudia Hodgins | **Carlos Hernández** |
+| 1:17 | Benedict Blue | Alan Fernando Velázquez |
+| 1:31 | Gilbert | Alejandro Orozco |
+| 1:48 | Dietfried | Irwin Daayán |
+| 2:03 | Luculia Marlborough | Lourdes Arruti |
+| 2:21 | Roland | Pedro D'Aguillón Jr. |
+| 2:35 | Merkulov | Jorge Badillo |
+| 2:47 | Bluebell | Erika Langarica |
+| 2:58 | Iberis | Analiz Sánchez |
+| 3:10 | Rhodanthe | Gloria Obregón |
+| 3:21 | Spencer Marlborough | Enzo Fortuny |
+| 3:35 | Eckhart Munter | Raúl Anaya |
+| 3:47 | Elias Vandal | Edson Matus |
+| 4:03 | Isidor | Víctor Ugarte |
+| 4:16 | Bridgette | Jocelyn Robles |
+| 4:28 | Emonn Snow y Aidan Field | Alberto Bernal |
+| 4:51 | Charlotte Drossel | Jessica Ángeles |
+| 5:04 | Damian Flugel | Javier Olguín |
+| 5:17 | Alberta | Rebeca Patiño |
+| 5:31 | Le Verrier | Herman López |
+| 5:40 | Kyle Zoenig | Tommy Rojas |
+| 5:54 | Leon Stephanotis | Arturo Castañeda |
+| 6:09 | Ann Magnolia y Olivia Webster | Estefanía Piedra |
+| 6:41 | Oscar Webster | Mario Castañeda |
+| 6:56 | Clara Magnolia | Betzabé Jara |
+| 7:11 | Yale Coster | Roberto Gutiérrez |
+| 7:24 | Sra. Bougainvillea | Magda Giner |
+
+**Cambios de voz dentro de la serie** ✅ (wikitext de Doblaje Wiki):
+algunos *loops* de Gilbert los hace **Mauricio Pérez**; en el ep. 4, algunos
+de Iris, **Erika Langarica**; **Humberto Solórzano** es el rey de la obra
+«El Rey Rojo» (ep. 7); y en el **ep. 10** Violet la dobla **Nycolle
+González**: según contó ella misma, Arruti grabó sus líneas pero la
+productora las mandó regrabar ([vídeo de González](https://www.youtube.com/watch?v=XNwdgCWarRk)).
+En un [tuit de Carla Castañeda](https://x.com/DubbCarlaCM/status/1078451023507800068/photo/1),
+la directora cuenta que Arruti ayudó al reparto con la pronunciación de las
+palabras alemanas (como «Leidenschaftlich») ✅.
 
 > [!note] Andrea Arruti
 > Murió el **1 de enero de 2020**, a los 21 años ✅ (Doblaje Wiki;
@@ -707,8 +1139,33 @@ abril en México ⚠️ (Doblaje Wiki).
 > frase de la serie, es su voz; si es de la película, la de Nycolle.
 > Trátalo con respeto: nada de chistes.
 
-**Frases del doblaje latino**: **no encontré ninguna con fuente**. Clips
-latinos para escucharlas (sin minuto, no pude verlos):
+**Frases del doblaje latino** (Nuevo, 2.ª pasada): **ya hay una textual
+con fuente** ✅. YouTube pedía iniciar sesión y ni Dailymotion (11
+búsquedas) ni Internet Archive (6) tienen clips latinos oficiales. Salió
+del **audio oficial de Doblaje Wiki**: el segundo demo de voz de Andrea
+Arruti ([ficha](https://doblaje.fandom.com/es/wiki/Andrea_Arruti), campo
+`demo2`; [archivo .ogg](https://static.wikia.nocookie.net/doblaje/images/0/0a/Andrea_Arruti_Demo_de_Voz_2.ogg/revision/latest?cb=20190805220002&path-prefix=es)),
+transcrito con `voz.py` y comprobado con dos modelos de Whisper, que
+coinciden palabra por palabra:
+
+> «**Ya no quiero matar a nadie más. Las órdenes del mayor fueron vivir,
+> nunca fueron matar.**» — Violet (Andrea Arruti), demo, **1:16 a 1:19**.
+>
+> «**Ha pasado mucho tiempo, pero no tengo nada que reportar. […] Trabajo
+> con diligencia, estoy saludable y segura. No ha habido ningún problema.
+> Eso es todo, por favor no se preocupen.**» — **1:45 a 2:04**.
+
+Por lo que dice (habla con **Luculia** y del «mayor») es casi seguro el
+**ep. 3** ⚠️ (minuto del episodio sin ver). **Así dice «少佐» el doblaje
+latino: «el mayor»** ✅. El segundo trozo es **el tono de parte militar
+de Violet en español**: sirve de modelo para la lámina.
+
+**Ojo**: el tráiler doblado de Dailymotion ([x7t0he2](https://www.dailymotion.com/video/x7t0he2),
+FilmAffinity) es **doblaje de España** («coger las cartas»): no usar sus
+frases como latinas. Dice «era sólo un instrumento carente de alma»
+(0:08) y «soy la herramienta del comandante» (0:41).
+
+Clips latinos para escuchar más (YouTube, sin minuto, no se pudieron ver):
 [«Violet y Gilbert confesión»](https://www.youtube.com/watch?v=7ZtkUmEUQSM),
 [«Violet escribe una carta para Yuris»](https://www.youtube.com/watch?v=DlJ16gt7VHU),
 [«Las cartas para Ann»](https://www.youtube.com/watch?v=eLbGi4ulk_s),
@@ -721,7 +1178,8 @@ de doblaje.
 
 **Palabras que hay que comprobar en el audio latino antes de rotular** ⚠️:
 cómo dice «Auto Memory Doll» (Netflix titula «muñeca de recuerdos
-automáticos»), cómo dice «少佐» (¿«Mayor»?) y la frase del saludo.
+automáticos») y la frase del saludo. «少佐» ya está: **«el mayor»** ✅
+(demo de Arruti).
 
 ---
 
@@ -729,12 +1187,32 @@ automáticos»), cómo dice «少佐» (¿«Mayor»?) y la frase del saludo.
 
 | Tema | Quién | Ambiente | Fuente |
 |---|---|---|---|
-| **Opening «Sincerely»** | **TRUE** (Miho Karasawa, letra); música de Shota Horie, arreglos con Evan Call | Crece desde un piano hasta cuerdas enormes: esperanza | ✅ [IMDb](https://www.imdb.com/title/tt8044824/soundtrack/), [UtaTen](https://utaten.com/lyric/qk18011109/) |
-| **Ending «みちしるべ» (Michishirube)** | **Minori Chihara** (letra y voz); música de Daisuke Kikuta | Balada lenta, de despedida | ✅ IMDb, [ticketjam](https://ticketjam.jp/magazine/music/anison/118173/2) |
+| **Opening «Sincerely»** | **TRUE** (Miho Karasawa, letra); música de Shota Horie, arreglos con Evan Call | Crece desde un piano hasta cuerdas enormes: esperanza. **Mirado entero en la 2.ª pasada** ([Dailymotion, 1:30](https://www.dailymotion.com/video/x8c9bet)): piano y paisaje (0:00 a 0:36) → clímax con fuego de guerra y el brazo de metal (0:39 a 1:03) → paisaje, atardecer y la carta (1:06 a 1:21) | ✅ [IMDb](https://www.imdb.com/title/tt8044824/soundtrack/), [UtaTen](https://utaten.com/lyric/qk18011109/) |
+| **Ending «みちしるべ» (Michishirube)** | **Minori Chihara** (letra y voz); música y arreglo de **Daisuke Kikuta** (菊田大介) | Balada lenta, de despedida. **2.ª pasada**: no encontré la secuencia animada; se miró el **vídeo musical oficial** ([Internet Archive, 4:49](https://archive.org/details/youtube-UKU4B05fPck)): una actriz recorre una casa de campo de época, un violinista toca al aire libre y cierra una **carta lacrada en rojo**. Acción real, no la serie ⚠️ | ✅✅ IMDb, [ticketjam](https://ticketjam.jp/magazine/music/anison/118173/2) y los créditos del propio vídeo («作詞：茅原実里 作曲・編曲：菊田大介») |
 | **Inserto «Letter»** | **TRUE**; letra escrita «como Violet», cantada «como Irma» | **Aria de ópera**; es la letra del especial | ✅ [uta-net](https://www.uta-net.com/song/246452/), [X de TRUE](https://x.com/miho_karasawa/status/1231569784153620480) |
 | **Película: «WILL»** | **TRUE** | Cierre luminoso | ✅ resumen de búsqueda (IMDb, Wikipedia) |
 | **Banda sonora** | **Evan Call**. Álbum **«Automemories»**; hay edición en vinilo | Orquesta de cuerdas y piano, muy de cine; tema principal «Theme of Violet Evergarden» | ✅ [Internet Archive](https://archive.org/details/violet-egard-ost), [Light in the Attic](https://lightintheattic.net/products/violet-evergarden-original-soundtrack), [Spotify](https://open.spotify.com/track/0fsb37XCuEDiF1oPNq4arG) |
 | Tema del Gaiden | — | — | **no lo verifiqué** |
+
+**Nuevo (2.ª pasada) · Qué tema suena en las escenas que hacen llorar**
+(según una guía de fans por episodio, [odanurr87 en Tumblr](https://odanurr87.tumblr.com/post/172495977484/soundtrack-episode-guide-update-0308-updated),
+⚠️ no es la lista oficial del disco):
+- Ep. 10, las cartas para Ann: **«Letters From Heaven»** (disco 2, pista 18).
+- Ep. 7, el lago y el paraguas: **«Never Coming Back»** (disco 2, pista 3).
+
+**Nuevo · El sonido que todos reconocen: el tecleo de la máquina.** Los
+fans configuran su teclado para que suene igual ✅✅ (dos guías en
+r/VioletEvergarden, vía Arctic Shift:
+[«How to make your keyboard sound just like Violet's typewriter»](https://www.reddit.com/r/VioletEvergarden/comments/1suyki6/guide_how_to_make_your_keyboard_sound_just_like/),
+22 puntos; [«Typewriter Sounds for Mech Vibes»](https://www.reddit.com/r/VioletEvergarden/comments/1ltfql7/violet_evergarden_typewriter_sounds_for_mech/),
+24 puntos). En la lámina, el «clac-clac» es tan marca de la serie como la
+música. Un análisis en español del ep. 3 describe una **campana metálica**
+al abrir, **pasos de botas sobre suelo duro** y música «con espectro de
+gotitas de agua» ⚠️ ([blog](https://tallerabiertodeanimacionjaponesa.blogspot.com/2020/05/un-buen-augurio-lo-sonoro.html)).
+No encontré el nombre del diseñador de sonido ⚠️.
+**Discos publicados** (MusicBrainz): [«Automemories»](https://musicbrainz.org/release-group/79e15c79-7fee-4594-99fa-e9609c316a27)
+(Evan Call, 28-mar-2018), [«Echo Through Eternity»](https://musicbrainz.org/release-group/0fcb253a-c04c-4f2e-8078-e3c3547ae943)
+(2020) y el álbum vocal [«Song letters»](https://musicbrainz.org/release-group/7a351f9a-cbb9-499b-bfa4-3647e886be49) ✅.
 
 Un vídeo en español analiza **cómo la banda sonora usa la máquina de
 escribir**: [«Violet Evergarden y la Máquina de escribir - Análisis de la
@@ -747,8 +1225,26 @@ canción) o el piano de «Theme of Violet Evergarden». Nada de rock.
 
 ## 12 · Vídeos
 
-No pude abrir YouTube ni TikTok: **no doy minutos de los vídeos**, sólo
-de los episodios (§2). Lo que hay, por si alguien con red los mira:
+**Nuevo (2.ª pasada) · Los vídeos mirados de verdad** con `fotogramas.py`
+(YouTube pedía iniciar sesión; son copias en Dailymotion e Internet
+Archive, de 512×288 a 854×480 ⚠️ ninguno en 1080p):
+
+| Vídeo | Enlace | Lo que sirve, con minuto |
+|---|---|---|
+| **Opening «Sincerely»** completo (1:30) | [Dailymotion, Espinof](https://www.dailymotion.com/video/x8c9bet) | 0:09 a 0:12 letras Tellsis en tiza · [0:21](https://www.dailymotion.com/video/x8c9bet?t=21) Violet de busto · [0:39](https://www.dailymotion.com/video/x8c9bet?t=39) la máquina sola · 0:45 fuego de guerra · [0:48](https://www.dailymotion.com/video/x8c9bet?t=48) el broche · [1:00](https://www.dailymotion.com/video/x8c9bet?t=60) la mano de metal · 1:12 atardecer en el mar · 1:18 la carta sobre la mesa · 1:24 logo |
+| **Tráiler oficial** subtitulado en español (1:28; audio doblado de España) | [Dailymotion, FilmAffinity](https://www.dailymotion.com/video/x7t0he2) | [0:12](https://www.dailymotion.com/video/x7t0he2?t=12) «Era un instrumento sin corazón» · 0:16 logo sobre Leiden · [0:22](https://www.dailymotion.com/video/x7t0he2?t=22) a 0:36 presenta a Hodgins, Benedict, Cattleya y Erica con su voz japonesa · 0:38 «Una chica que era una soldado» · [0:56](https://www.dailymotion.com/video/x7t0he2?t=56) Gilbert · 1:02 «Aún no conoce el significado de "te quiero"» · 1:06 a 1:20 créditos: Ishidate, Yoshida, Takase, Kyoto Animation · [1:22](https://www.dailymotion.com/video/x7t0he2?t=82) manos de metal tecleando |
+| **Vídeo musical del ending** (4:49) | [Internet Archive](https://archive.org/details/youtube-UKU4B05fPck) | Acción real: casa de campo, violín, carta lacrada (§11) |
+| **Ep. 1**, el parte del día 120 (0:42) | [Dailymotion](https://www.dailymotion.com/video/x947zqa) | [0:18](https://www.dailymotion.com/video/x947zqa?t=18) la pluma y la mano de metal · 0:26 escribe en la cama · 0:40 «Lo lamento» |
+| **Ep. 10**, las 50 cartas (3:20, subtítulo inglés) | [Dailymotion](https://www.dailymotion.com/video/x80vbaj) | [1:20](https://www.dailymotion.com/video/x80vbaj?t=80) cartas por año · 2:05 «For the next fifty years» · [3:15](https://www.dailymotion.com/video/x80vbaj?t=195) cartela final |
+| **Ep. 11**, el paracaídas (0:26) | [Dailymotion](https://www.dailymotion.com/video/x8qbypz) | [0:09](https://www.dailymotion.com/video/x8qbypz?t=9) se abre el paracaídas |
+
+**Descartado**: el vídeo de Dailymotion `x811ual` («Violet Evergarden
+Cm», 24:09) es en realidad un **episodio de *Code Geass*** mal etiquetado
+(mirados 58 fotogramas). No usarlo.
+
+Los enlaces de YouTube y TikTok de abajo **siguen sin mirar** ⚠️ (YouTube
+pedía iniciar sesión; TikTok no carga sin JavaScript). Lo que hay, por si
+alguien con red los mira:
 
 **Oficiales**
 - [制作風景 第5弾「3DCG」](https://www.youtube.com/watch?v=Ux9u5Zmi3zI): cómo se anima la máquina.
@@ -781,8 +1277,9 @@ Violet: justo lo que se cuelga en #poemas)
 
 ## 13 · Videojuegos de la franquicia
 
-**No existe ningún videojuego oficial** ✅ (ver §7.4). Sólo proyectos de
-fans. **Consecuencia para la lámina**: no hay interfaz ni caja de juego
+**No existe ningún videojuego oficial** ✅✅ (ver §7.4; en la 2.ª pasada,
+también buscado en japonés y en The Cutting Room Floor: nada). Sólo
+proyectos de fans. **Consecuencia para la lámina**: no hay interfaz ni caja de juego
 que copiar. El «interfaz» de esta serie es **el papel**.
 
 ---
@@ -797,8 +1294,9 @@ que copiar. El «interfaz» de esta serie es **el papel**.
 - **«愛してる»** («te quiero»): la pregunta de toda la serie ✅.
 - **El ep. 10** (las 50 cartas de la madre para Ann): «el mejor de los
   mejores» ✅. Es el episodio con el que todos lloran.
-- **Violet cruzando el lago con el paraguas** (ep. 7) ⚠️ (muy citado de
-  memoria; no encontré una encuesta).
+- **Violet cruzando el lago con el paraguas** (ep. 7) ✅ (2.ª pasada: un
+  fan la recreó en *Animal Crossing: Pocket Camp* y la llama «the iconic
+  umbrella scene»: [219 votos en r/VioletEvergarden](https://www.reddit.com/r/VioletEvergarden/comments/oocxfh/did_my_best_to_recreate_the_iconic_umbrella_scene/)).
 - El saludo **«Allá donde el cliente lo desee, acudiré»** ✅ (se repite
   en casi todos los episodios).
 - El humor de oficina: **Hodgins y los tres muñecos**, **Cattleya y
@@ -808,6 +1306,13 @@ que copiar. El «interfaz» de esta serie es **el papel**.
 - **La animación**: se la cita como una de las más bonitas de Kyoto
   Animation; en Japón fue muy votada en encuestas de KyoAni ⚠️
   ([Honey's Anime](https://honeysanime.com/what-is-your-favorite-kyoani-anime-japanese-poll-celebrates-violet-evergarden-the-movie-release/)).
+  Ganó **Mejor Animación** en los Crunchyroll Anime Awards de 2018 ✅ (§Punto 21).
+- **Nuevo (2.ª pasada) · El tecleo** como sonido-marca: hay guías para que
+  el teclado propio suene como la máquina de Violet ✅✅ (§11).
+- Cuánto tardó el plano de la máquina: **un mes** según las notas de
+  producción de Sakuga Blog (§3.3); **tres meses** según el resumen de
+  [Know Your Meme](https://knowyourmeme.com/memes/subcultures/violet-evergarden)
+  ⚠️ las fuentes chocan: decir «semanas de trabajo», no una cifra.
 
 ### Un tema delicado: el incendio de Kyoto Animation
 
@@ -828,8 +1333,9 @@ Para muchos fans, Violet es también **un homenaje a ese equipo**.
 - **Broche de otro color** o sin broche en el traje de Doll.
 - **Un teclado moderno** o una máquina gris de oficina de los años 60: la
   suya es **pequeña y portátil, de cuatro filas de teclas redondas**,
-  de los años veinte, y viaja en su maleta (el color exacto ⚠️:
-  comprobar en la hoja de modelo).
+  de los años veinte, y viaja en su maleta. **Cuerpo negro** (`#1E1D1B`,
+  medido en el opening 0:39) con **teclas redondas** claras ✅ (hoja
+  escenas nº2 y 14).
 - **Violet sonriendo de oreja a oreja**, guiñando un ojo o en pose
   «kawaii». Es seria y serena.
 - **Colores chillones** o neón. La serie es luz dorada, crema, azul y verde.
@@ -838,14 +1344,24 @@ Para muchos fans, Violet es también **un homenaje a ese equipo**.
 - **Chistes sobre sus brazos, la guerra o el incendio**.
 - Mezclar el traje de Doll con el uniforme militar de niña.
 - Escribir el texto del canal en el alfabeto inventado.
+- **Nuevo (2.ª pasada)**: **Violet furiosa o gritando**. No hay ninguna
+  escena así; su enfado es quietud. Tampoco **de reojo, parpadeando o con
+  los ojos entornados**: el director decidió que no parpadea y que mira de
+  frente (§7.1).
+- **Nuevo**: repetir la idea de **Frieren** para este mismo canal (un
+  diario abierto con pluma y tintero en luz dorada, biblia 33). Aquí el
+  objeto es **la máquina de escribir**, el sobre o el casillero.
 
 ---
 
 ## 15 · Poses analizadas por personaje
 
 El **minuto y lo que se dice** salen del subtítulo ✅. **La postura, las
-manos y la mirada** las describo de memoria ⚠️: hay que mirar el
-fotograma antes de recortar. Para qué sirve cada una va en la última
+manos y la mirada** de estas tablas las describí de memoria en la primera
+pasada ⚠️: hay que mirar el fotograma antes de recortar. En la 2.ª pasada
+se miraron las de «Poses vistas en vídeo y en las hojas», al final de
+esta sección ✅; las de Hodgins, Cattleya, Benedict, Iris y Erica **no
+salían en ningún clip accesible** y siguen ⚠️. Para qué sirve cada una va en la última
 columna (presentar, explicar, celebrar, regañar, pensar, animar).
 
 ### Violet
@@ -913,6 +1429,38 @@ columna (presentar, explicar, celebrar, regañar, pensar, animar).
   [Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=902250).
 - Escenas en Blender de fans con la máquina (§4.3).
 
+### Poses vistas en vídeo y en las hojas (Nuevo, 2.ª pasada)
+
+**Violet** (mirado, no de memoria) ✅:
+
+| Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| Busto de frente, pelo al viento, broche sobre el lazo | opening [0:21](https://www.dailymotion.com/video/x8c9bet?t=21) (hoja escenas nº1) | Mirada seria y fija, de frente | **Presentar** |
+| De frente, broche y lazo | hoja 1 nº44 (ep. 3), hoja 2 nº64-65 | Retrato sereno | **Presentar** |
+| De pie ante el mar, vestido blanco, manos juntas delante | key visual de la película, hoja 2 nº54 | Postura erguida, digna | **Presentar** el canal |
+| Sentada en un muro ante el mar | hoja 1 nº34 (`Anime icon.jpg`) | Mira al horizonte | **Pensar** |
+| Con la maleta, junto a flores | hoja 1 nº40 | Llega a un encargo | **Explicar** («un hilo por texto») |
+| Tumbada en el hospital, luego escribiendo en la cama | ep. 1, clip [0:02](https://www.dailymotion.com/video/x947zqa?t=2) a 0:30 (hoja escenas nº17) | Un ojo en cámara; después, la pluma en la mano de metal | **Pensar** |
+| Manos de metal sobre las teclas | tráiler [1:22](https://www.dailymotion.com/video/x7t0he2?t=82) (hoja escenas nº14) | Sólo manos y máquina | **Explicar** (la mejor para el concepto A) |
+| Cae con el paracaídas, de espaldas | ep. 11, clip [0:09](https://www.dailymotion.com/video/x8qbypz?t=9) | Acción | **Animar** |
+| Se fabrica una sonrisa con los dedos | [«Violet awkward smile.jpg»](https://static.wikia.nocookie.net/violet-evergarden/images/0/07/Violet_awkward_smile.jpg) | Torpeza tierna | **Animar** con humor suave |
+| Llora sin sollozar | ep. 10, clip [3:10](https://www.dailymotion.com/video/x80vbaj?t=190) (hoja escenas nº18) | Lágrimas, boca cerrada | Tristeza (no para la lámina 1) |
+
+**Gilbert** (no estaba en la primera pasada):
+
+| Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| De perfil, quieto, en una calle de noche con faroles | tráiler [0:56](https://www.dailymotion.com/video/x7t0he2?t=56) (hoja escenas nº13; hoja 1 nº36) | Mirada fija al frente, fuera de cuadro; insignia en la solapa | **Pensar / presentar** |
+| Uniforme militar, de perfil junto a una ventana | hoja 1 nº12 | Serio | Recuerdo de guerra |
+| Lee a Violet junto a la chimenea | hoja 1 nº23 | Sentado, un libro en las manos | **Explicar** (le enseña a leer) |
+| Primer plano, ep. 12 | hoja 1 nº31 | Mirada triste, nieve | **Pensar** |
+
+**Hodgins, Cattleya, Benedict y Erica en el tráiler** (presentación con
+su voz japonesa en pantalla, tráiler [0:22](https://www.dailymotion.com/video/x7t0he2?t=22)
+a 0:36; hoja escenas nº7-12): Hodgins de tres cuartos, mirada baja;
+Benedict de frente, sonrisa leve; Cattleya de frente, sonrisa segura;
+Erica de lado, tímida, con gafas ✅. Sirven para **presentar al grupo**.
+
 ---
 
 ## 16 · Vestuario
@@ -923,30 +1471,58 @@ columna (presentar, explicar, celebrar, regañar, pensar, animar).
 |---|---|---|---|
 | **Traje de Doll** (el icónico) | Serie, especial, película | **Vestido blanco** con lazo en el cuello; **chaqueta corta azul de Prusia**; falda blanca plisada de seda; **broche esmeralda** en el centro del lazo; **guantes marrones**; **botas altas de tacón, marrón oscuro** | ✅ ([wiki](https://violet-evergarden.fandom.com/wiki/Violet_Evergarden_(anime_character)) + [Core Cosplay](https://corecosplay.com/anime/violet-evergarden-cosplay-ideas/)) |
 | Detalles de la chaqueta | — | Adornos blancos en los hombros; líneas negras a los lados de la falda | ⚠️ (guías de cosplay) |
-| **Pelo de Doll** | Desde que es Doll | Rubio dorado hasta la cintura; **dos trenzas francesas enrolladas en moños**, con **dos lazos rojos** | ⚠️ (wiki) |
-| Pelo antes | Hospital, ep. 1 | **Coleta baja con lazo negro**, o suelto | ⚠️ (wiki) |
-| Uniforme militar | Recuerdos, eps. 8-9 | Uniforme del ejército de Leidenschaftlich ⚠️ | de memoria |
+| **Pelo de Doll** | Desde que es Doll | Rubio dorado hasta la cintura; **dos trenzas francesas enrolladas en moños**, con **dos lazos rojos** | ✅ (wiki + hoja de modelo, hoja 1 nº2; lazo medido `#63394D`) |
+| Pelo antes | Hospital, ep. 1 | **Suelto** en el hospital (clip [0:26](https://www.dailymotion.com/video/x947zqa?t=26), hoja escenas nº17) ✅; coleta baja con lazo negro ⚠️ (wiki) | ✅ / ⚠️ |
+| Uniforme militar | Recuerdos, eps. 8-9 | **Casaca verde oliva muy oscura** `#413228` con **correa de cuero** `#6A422A`; pelo suelto (hoja 1 nº19-20, `Violet2.jpg` medido) ✅. Verde de trinchera, no azul | ✅ visto y medido (2.ª pasada) |
 | Brazos | Siempre | **Prótesis plateadas** («torpes pero resistentes», dice ella) | ✅ (wiki, resumen) |
 
-Takase explicó que el traje junta **rigidez militar y gracia femenina**
-con el broche y el contraste azul-blanco ⚠️ (resumen de búsqueda, sin
-cita exacta).
+Takase explicó el traje en la propia hoja de modelo del databook ✅
+(cita textual en §3.3): **ropa de trabajo de mujer de la época Art
+Nouveau y Art Decó**, con **aire de muñeca antigua** y una silueta
+**erguida y elegante**.
 
-### Los demás ⚠️ (de memoria)
+**Colores medidos del traje de Doll** (2.ª pasada, detalle en §5.3) ✅:
 
-- **Hodgins**: traje de tres piezas claro, pelo castaño rojizo peinado
-  hacia atrás.
-- **Cattleya**: vestido oscuro ceñido, pelo negro ondulado, labios rojos.
-- **Benedict**: uniforme de cartero con chaleco, pelo largo recogido,
-  botas de tacón.
-- **Iris**: pelo rojizo corto, vestido de Doll con tonos rosados.
-- **Erica**: pelo oscuro, aire tímido.
+| Pieza | Hex | De dónde |
+|---|---|---|
+| Chaqueta | `#2F444F` / `#3B5363` (opening); `#2C3A56` (databook) | opening 0:21, hoja 1 nº2 |
+| Lazo del cuello | `#ECE2C9` | opening 0:21 |
+| Broche | `#4C8669` | opening 0:21 y 0:48 |
+| Lazos del pelo | `#63394D` | `Violet's smile.jpg` |
+| Pelo | `#CBB56B` / `#E1D6C3` | `Violet_Anime.jpg` |
+| Ojos | `#3BADB3` | `Violet_Anime.jpg` |
+| Guantes | sin medir ⚠️ | — |
+
+**Mangas**: abullonadas arriba y ceñidas abajo (Danbooru las etiqueta
+`juliet_sleeves`, `puffy_sleeves`) ✅ (se ven en la hoja de modelo).
+
+### Los demás (2.ª pasada: vistos en el tráiler y las hojas)
+
+- **Hodgins**: pelo **rojizo con coleta**, barba de pocos días; chaleco y
+  traje, mangas remangadas, broche (tráiler [0:22](https://www.dailymotion.com/video/x7t0he2?t=22);
+  Danbooru `vest`, `suit`, `sleeves_rolled_up`, `brooch`) ✅. Su chaleco
+  es de **tela a cuadros** según el texto «Appearance» de la wiki ⚠️.
+  Colores sin medir ⚠️.
+- **Cattleya**: **pelo negro largo**, **chaqueta roja** sobre blusa clara,
+  **colgante rojo** (tráiler [0:32](https://www.dailymotion.com/video/x7t0he2?t=32);
+  hoja 2 nº57) ✅.
+- **Benedict**: **rubio**, camisa blanca con **tirantes** (tráiler
+  [0:28](https://www.dailymotion.com/video/x7t0he2?t=28)) ✅; no usa el
+  uniforme oficial (Fanbook) ✅; botas de tacón ⚠️.
+- **Gilbert**: uniforme militar oscuro; de civil, chaqueta oscura
+  `#3E3932` con insignia en la solapa (tráiler 0:56) ✅; pelo azul muy
+  oscuro; parche en un ojo en la película (hoja 2 nº59) ✅.
+- **Iris**: pelo corto castaño claro, ojos ámbar, **collar de cuentas
+  turquesa**, vestido sin mangas (hoja 1 nº13, 38-39; hoja 2 nº68) ✅;
+  colores sin medir ⚠️.
+- **Erica**: pelo castaño corto, **gafas redondas**, aire tímido (tráiler
+  [0:36](https://www.dailymotion.com/video/x7t0he2?t=36)) ✅.
 
 ---
 
 ## 17 · Paisajes y fondos de pantalla
 
-### Los sitios, con su luz ⚠️
+### Los sitios, con su luz (la oficina, el hospital y la noche, vistas en vídeo en la 2.ª pasada: §5.2)
 
 | Sitio | Hora y luz | Para qué lámina |
 |---|---|---|
@@ -968,7 +1544,27 @@ cita exacta).
 | Colección 4K | varios | [Wallpaper Cave](https://wallpapercave.com/4k-violet-evergarden-wallpapers) | varios |
 
 Casi todos son **capturas o arte oficial** subidos por fans: sirven de
-referencia, no para pegar.
+referencia, no para pegar. Los tamaños de esta tabla son los que dan las
+webs; no se abrió cada archivo ⚠️ (AlphaCoders y Wallpaper Cave son
+colecciones).
+
+**Nuevo (2.ª pasada) · Fondos de Wallhaven con tamaño real y autor**
+(del recolector; sólo los etiquetados «Violet Evergarden»; ♥ = veces
+guardado) ✅:
+
+| Imagen | Tamaño | ♥ | Subido por · origen |
+|---|---|---|---|
+| [Violet con la maleta y pétalos](https://w.wallhaven.cc/full/kw/wallhaven-kwpm76.jpg) | 4352×2720 | 262 | destex · [Pixiv 67609464](https://www.pixiv.net/en/artworks/67609464) |
+| [Arte digital de Violet](https://w.wallhaven.cc/full/rd/wallhaven-rdolrq.jpg) | 6921×3849 | 378 | origen [Pixiv 91486966](https://www.pixiv.net/en/artworks/91486966) |
+| [Violet de pie](https://w.wallhaven.cc/full/72/wallhaven-72ljqy.jpg) | 4096×2278 | 219 | bubbleboba · mismo Pixiv 91486966 |
+| [Violet con prótesis (WLOP)](https://w.wallhaven.cc/full/z8/wallhaven-z81dlj.jpg) | 5000×3000 | 224 | LUCKY2233 · arte de WLOP |
+| [Violet con paraguas](https://w.wallhaven.cc/full/9m/wallhaven-9mg6vk.jpg) | 3300×5100 (vertical) | 123 | ThorRagnarok |
+| [Captura 4K de la serie](https://w.wallhaven.cc/full/k7/wallhaven-k7vm66.jpg) | 3840×2160 | 125 | liu星河 |
+| [Violet con lágrimas](https://w.wallhaven.cc/full/j3/wallhaven-j3ewjy.jpg) | 1920×1080 | 195 | 2583012701 |
+| [Violet, fondo liso](https://w.wallhaven.cc/full/ex/wallhaven-exg33k.jpg) | 10245×5241 | 130 | HiguchiMadokaS · [Pixiv 115882364](https://www.pixiv.net/artworks/115882364) |
+
+Oficiales y panorámicos: el **banner de AniList** (1900×400) y el **key
+visual de la película** (1024×799), §3.2.
 
 ---
 
@@ -980,9 +1576,11 @@ referencia, no para pegar.
 **Rasgos que nunca cambian**
 - Pelo **rubio dorado pálido**, largo, con **dos trenzas recogidas en
   moños y lazos rojos**; flequillo recto.
-- Ojos **azules**, grandes; cara serena, **boca casi cerrada**.
-- **Chaqueta corta azul de Prusia** sobre **vestido blanco** con lazo;
-  **broche verde esmeralda** en el cuello.
+- Ojos **azul verdoso** (`#3BADB3`), grandes; cara serena, **boca casi
+  cerrada**; **no parpadea y mira de frente** (Ishidate, §7.1).
+- **Chaqueta corta azul marino grisáceo** (`#2F444F` a `#3B5363`) sobre
+  **vestido blanco** con lazo crema (`#ECE2C9`); **broche verde**
+  (`#4C8669`) en el cuello. Lazos del pelo **rojo vino** (`#63394D`).
 - **Guantes marrones** o manos **de metal plateado** articuladas.
 - Botas marrón oscuro.
 
@@ -1005,17 +1603,398 @@ androide), «doll» a secas (sale una muñeca de juguete), «modern
 keyboard», «laptop», «speech bubble», «maid».
 
 **Encuadre**: tres cuartos o de lado, trabajando (§3.3: así la mira la
-serie). Plano medio con la máquina en primer término.
+serie). Plano medio con la máquina en primer término. Si mira a cámara,
+**de frente**, nunca de reojo.
 
-**Referencias de estilo**: el fondo de WallpaperFlare 3840×2160 y la
-escena en Blender de D Arte (§4.3). **De pose**: la tabla de §15.
+**Vocabulario de etiquetas** que entienden las IA de imagen (Danbooru,
+lo más repetido al dibujarla sola; del recolector) ✅: `blonde_hair`,
+`blue_eyes`, `red_ribbon`, `hair_ribbon`, `braid`, `hair_bun`,
+`hair_between_eyes`, `blue_jacket`, `white_dress`, `white_ascot`,
+`brooch`, `green_gem`, `juliet_sleeves`, `puffy_sleeves`, `gloves`,
+`mechanical_hands`, `closed_mouth`, `looking_at_viewer`. Para Gilbert:
+`blue_hair`, `green_eyes`, `scar`, `eyepatch` (película). Para Hodgins:
+`red_hair`, `stubble`, `ponytail`, `vest`.
+
+**Técnica que hay que pedir** (§Punto 18): contorno **no negro**, teñido
+del color del fondo; sombra en dos o tres tonos (más cálida junto a la
+ventana); grano fino y bokeh dorado.
+
+**Referencias de estilo**: el fondo de WallpaperFlare 3840×2160, la
+escena en Blender de D Arte (§4.3), el opening 0:21 y el tráiler 1:22
+(hoja escenas nº1 y 14). **De pose**: la tabla de §15 y sus «Poses vistas
+en vídeo».
+
+**Expresiones** (para que la IA entienda el gesto): en los 6 vídeos
+mirados no aparece ningún recurso cómico de anime (gotas de sudor,
+*chibi*, fondos de emoción) ✅ por lo visto, ⚠️ para la serie entera. La
+emoción va en **ojos y manos**; las caras grandes son de Iris
+(`Iris angry.jpg`) y Cattleya (`Angry Cattleya.png`), no de Violet.
+
+### Para una IA de texto: cómo escribir en su voz (Nuevo, 2.ª pasada)
+
+**Violet**: frases **cortas y formales**, como un **parte militar**: dato,
+luego conclusión. Sin muletillas cariñosas, sin diminutivos, **casi sin
+exclamaciones** (sólo una vez alza la voz en toda la serie). Palabras
+suyas: «Entendido» (了解しました, 17 veces), «No hay problema» (問題ありません,
+10), «**el mayor**» (así lo dice el doblaje latino), «arma» para la
+máquina. Se presenta siempre con el mismo saludo. **Nunca** onomatopeyas
+ni risas escritas («jaja»). Los demás: **Hodgins** cariñoso y bromista
+(«Violet-chan»); **Cattleya** segura y algo burlona; **Benedict** gruñón
+(«¿Qué pasa?»); **Iris** se queja en voz alta.
+
+Frases **reales** por emoción (traducción del subtítulo japonés salvo las
+marcadas «latino»):
+
+| Emoción | Frase | Quién, dónde |
+|---|---|---|
+| **Presentar** | «Encantada. Allá donde el cliente lo desee, acudiré. Servicio de Auto Memory Dolls, Violet Evergarden» | Violet, ep. 13, 00:23:17 |
+| **Alegre / agradecida** | «Gracias por tantas letras. He recibido muchas armas» | Violet, Especial, 00:14:04 |
+| **Alegre** | «El himno al mar estuvo muy bien, Violet» | Cattleya, película, 00:13:23 |
+| **Explicando** | «Era distinto de una carta normal. El mar es inmenso y hermoso, pero no tiene méritos… Me costó alabarlo» | Violet, película, 00:13:35 |
+| **Explicando** (latino) | «Ha pasado mucho tiempo, pero no tengo nada que reportar. Trabajo con diligencia, estoy saludable y segura. No ha habido ningún problema» | Violet (Andrea Arruti), demo 1:45 |
+| **Animando** | «Esta vez escriba usted. Con sus propias palabras» | Violet, ep. 5, 00:15:08 |
+| **Animando** | «¡El año que viene lo escribo yo!» | Iris, película, 00:14:02 |
+| **Animando** | «¿No es fácil? ¡Hacemos nosotros la mejor letra!» | Benedict, Especial, 00:12:41 |
+| **Enfadado** | «¡Este tonto puso un vaso mojado sobre la carta que escribí!» | Cattleya, ep. 3, 00:20:03 |
+| **Enfadado** | «¿Qué pasa? ¿Tienes queja?» | Benedict, Especial, 00:13:53 |
+| **Triste** | «Yo, que maté gente como un arma, ¿puedo vivir así?» | Violet, ep. 7, 00:19:16 |
+| **Triste** (latino) | «Ya no quiero matar a nadie más. Las órdenes del mayor fueron vivir, nunca fueron matar» | Violet (Andrea Arruti), demo 1:16 |
+
+Para rotular en la lámina: la frase de Violet **sin signos de
+exclamación**, con punto final; las de Iris y Benedict sí pueden llevar
+¡!.
+
+---
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo (Nuevo, 2.ª pasada)
+
+### Qué usó Kyoto Animation (entrevistas al staff)
+
+- **Dibujo de animación a mano, en papel**: en 2018 KyoAni aún no animaba
+  en tableta ✅ ([Sakuga Blog, notas de producción 7](https://blog.sakugabooru.com/2018/02/27/violet-evergarden-production-notes-7/)).
+- **Pintado digital** con **RETAS STUDIO PaintMan HD**, y **TraceMan HD**
+  para escanear; **Photoshop** para otras tareas ✅ (misma fuente).
+- **Fondos**: digitales en **Photoshop** y tradicionales en **témpera
+  (gouache)**. El director de arte **Mikiko Watanabe** mezclaba los dos
+  según la escena ✅ ([mesa redonda del staff digital y de fondos](https://ultimatemegax.wordpress.com/2022/01/12/violet-evergarden-roundtable-2-digital-background-staff/)).
+- **3D**: **3ds Max** para edificios, carruajes, multitudes, nubes y el
+  tren. La directora de 3D **Rin Yamamoto** reconstruyó la calle de
+  Leiden con medidas reales y **ensució los modelos** (el tren) para que
+  no se vieran demasiado limpios junto al dibujo ✅ (Sakuga Blog y la mesa
+  redonda). **Las teclas de la máquina** se animaron en 3D: un plano del
+  primer anuncio tardó un mes ✅ ([notas de producción 1](https://blog.sakugabooru.com/2018/01/13/violet-evergarden-production-notes-1/)).
+- **Composición en After Effects**: el director de fotografía **Kouhei
+  Funamoto** hizo **un programa sólo para esta serie** que **mete los
+  colores del entorno dentro de la línea** del personaje: el contorno
+  queda **degradado, no de un solo color**, y menos «de anime» ✅✅ (mesa
+  redonda + Sakuga Blog). Cuidó que las sombras caigan como la luz real.
+- **Color**: **Yuuka Yoneda** unió los colores del personaje con el sitio
+  («si hay césped cerca, metemos verde»), **cambió la sombra según la
+  distancia a la ventana** dentro de la misma habitación y estudió cómo
+  envejecen la ropa y los objetos ✅ (mesa redonda).
+- **Actuación**: **Violet no parpadea** y **mira de frente** (Ishidate)
+  ✅; tono «serio, directo y sencillo», sin golpes de efecto.
+- **Diseño**: Akiko Takase dibuja **muchas más líneas de ropa** de lo
+  normal en una serie de TV ✅ (notas de producción 1).
+
+### Tipo de línea, sombra y filtros
+
+- **Línea fina**, de color **teñido por el entorno** (no negra), con muchos
+  pliegues de ropa ✅.
+- **Sombra en dos o tres tonos**, cálida cerca de la luz y fría lejos ✅.
+- **Filtros**: bokeh dorado, luz que entra por ventanas, grano muy fino
+  ⚠️ (el bokeh sale en el tráiler 0:56 y el opening; el grano, de una
+  reseña: [cinemadebate](https://cinemadebate.com/2018/05/31/violet-evergarden-review-becoming-a-whole-person/)).
+
+### Cómo reproducirlo en Photoshop
+
+1. **Línea**: capa de línea en *Multiplicar* y encima una **capa de
+   recorte** con pincel suave del color del fondo cercano (verde si hay
+   césped, dorado si hay ventana), opacidad 20-40 %.
+2. **Sombra**: dos o tres capas en *Multiplicar*, cada una de un matiz:
+   más cálida cerca de la ventana, más fría lejos.
+3. **Luz del entorno**: capa *Color* o *Luz suave* con el color dominante
+   del fondo, al 5-15 %, para que el personaje «se tiña» del sitio.
+4. **Fondos**: pincel de témpera con grano, o acuarela seca de borde
+   irregular. Varias capas de luz en la misma habitación.
+5. **Final**: ruido monocromo al 3-5 % en *Superponer* y una viñeta muy
+   suave.
+
+### Cómo reproducirlo en Blender
+
+1. **Contorno**: modificador **Solidify** con grosor negativo, normales
+   invertidas, *Backface Culling* y un material **gris muy oscuro o
+   teñido** con un *Color Ramp* ([BlenderNation](https://www.blendernation.com/2018/09/04/how-to-create-coloured-outline-using-solidify-modifier/)).
+   **Freestyle** o **Line Art** dan grosor variable; para una sola imagen
+   compensa.
+2. **Sombreado**: **Shader to RGB** + **Color Ramp** de 2-3 escalones
+   (uno cálido y otro frío), mejor que un Toon BSDF de un solo corte.
+3. **Luz**: una luz de área grande y suave como ventana, y un relleno
+   tenue del color del entorno.
+4. **Cámara**: profundidad de campo real (f/2 a f/4) para el **bokeh
+   dorado**.
+5. **Compositor**: grano fino, viñeta suave y un *Fog Glow* muy sutil.
+6. **Modelos libres**: máquina Underwood CC BY (§4.1), broche y brazo CC
+   BY (§4.4). *Rig* del personaje con licencia libre: no encontré ninguno
+   ⚠️ (el de VRoid Hub es de fan y sólo para posar).
+
+### Encuadres y composición
+
+- **Planos generales amplios** para presentar un sitio y **primeros
+  planos llenos de detalle** para la emoción ⚠️ (una reseña, cinemadebate).
+- **Violet a la altura de los ojos**, de frente cuando mira; sin picados
+  que la hagan infantil ✅ (Ishidate).
+- **Manos en primer plano** en los momentos clave: escribir, sujetar la
+  pluma o la carta ✅ (opening 1:00, tráiler 1:22, ep. 1 clip 0:18).
+- La película pasa a **2.35:1**; fotografía, otra vez Funamoto ⚠️
+  ([orenjicrush](https://orenjicrush.wordpress.com/2018/03/16/violet-evergarden-the-importance-of-ambition-and-emotion/)).
+
+---
+
+## Punto 19 · Texturas 2D (Nuevo, 2.ª pasada)
+
+- **Tramas de manga**: **no aplica** a la serie: no hay manga (§7.1). El
+  manga de *Agents of the Four Seasons* (misma autora, dibujo de Nappa
+  Komatsuka, revista *LaLa*) es **otro mundo**: no sirve ✅✅ (Wikipedia y
+  Anime Corner). Si se quiere textura en una carta vieja o una cartela:
+  [«[FREE] Manga Screentone Pack 1»](https://assets.clip-studio.com/en-us/detail?id=2142037),
+  gratis en Clip Studio Assets ✅.
+- **Grano de papel**: ambientCG Paper 005 y 001, **CC0** ✅ (§5.4).
+- **Pinceladas** (el aire de acuarela y témpera de los fondos): pinceles
+  gratis de acuarela de Kyle T. Webster o los de Procreate ⚠️ (licencia
+  de cada paquete sin comprobar).
+- **Tela lisa** para la chaqueta y la falda: colección **Fabric** de
+  ambientCG (más de 80, p. ej. Fabric030, Fabric061), **CC0** ✅ (su API).
+- **Cuadros escoceses** para el chaleco de Hodgins: 36 patrones gratis de
+  [Photoshop Supply](https://www.photoshopsupply.com/patterns-textures/photoshop-tartan-plaid-patterns-free),
+  «gratis con atribución» ⚠️ (sin abrir el archivo).
+- **Encaje del cuello** de Violet: no encontré un pincel CC0 de encaje de
+  época ⚠️: pintarlo a mano (es pequeño).
+- **Emblema de C.H. Postal Company** ✅: un **letrero colgante de hierro
+  forjado** con **dos manos entrelazadas en forma de corazón o alas**,
+  **corona de laurel** alrededor y monograma **«CH»** en el centro, con
+  volutas en el soporte. [Imagen de la wiki, 1275×656](https://static.wikia.nocookie.net/violet-evergarden/images/1/15/CHPC_Logo.png)
+  (tamaño medido por la API). **Se puede modelar en Blender** y sirve de
+  sello o cabecera del canal.
+- **Sellos con marco** de Japan Post (§3.2): textura de sello sobre un
+  sobre ✅.
+- **Alfabeto Tellsis** como adorno de cabecera (§6.3).
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje (Nuevo, 2.ª pasada)
+
+Fuente: el **Violet Evergarden Official Starter Book**, transcrito en
+[dennou-translations (Starter Book)](https://dennou-translations.tumblr.com/post/173583642499/violet-evergarden-starter-book-character-profiles)
+y [Fanbook](https://dennou-translations.tumblr.com/post/184406019584/violet-evergarden-official-fanbook-character),
+y el infobox de la wiki, que cita el mismo libro. Altura y grupo, ✅✅.
+
+| Personaje | Altura | Grupo | Cumpleaños |
+|---|---|---|---|
+| Violet | 161 cm | desconocido | **25 de septiembre** ✅ |
+| Gilbert | 185 cm | O | no indicado ⚠️ |
+| Claudia Hodgins | 192 cm | A | no indicado ⚠️ |
+| Cattleya | 167 cm | B | no indicado ⚠️ |
+| Benedict | 172 cm | O | no indicado ⚠️ |
+| Iris | 160 cm | B | no indicado ⚠️ |
+| Erica | 155 cm | AB | no indicado ⚠️ |
+
+- **El objeto que siempre llevan**: Violet, **el broche verde** (ep. 1,
+  00:00:22) y **la máquina en su maleta** (ep. 6, 00:09:21) ✅. Benedict,
+  **ropa a su gusto**: no usa el uniforme oficial ✅.
+- **Cómo se ve Violet a sí misma**: como **una herramienta** («soy la
+  herramienta del comandante», tráiler, doblaje de España, [0:41](https://www.dailymotion.com/video/x7t0he2?t=41)).
+  El Starter Book dice que **a menudo hace gestos como si probara qué se
+  siente al tocar las cosas** ✅. Con los Evergarden aprendió **baile,
+  cocina, canto y bordado** ✅ (novela; NamuWiki y personality-database).
+- **Erica**: «**se preocupa por dentro en cada trato con un cliente y no
+  tiene confianza en sí misma**» ✅ (Starter Book).
+- **Gilbert**: 29 años (novela, tomo 2) ✅.
+- **No encontré** ⚠️: **comida favorita**, **lo que odia** y el cumpleaños
+  de nadie salvo Violet. Ninguna ficha de la wiki tiene esos campos; el
+  Starter Book traducido tampoco. Quizá estén en el *Official Design
+  Works*, sin traducir.
+
+---
+
+## Punto 21 · Por qué la gente la ama (Nuevo, 2.ª pasada)
+
+- **Notas**: **8,52/10 en MyAnimeList** (más de 27.000 votos) y **8,6/10
+  en IMDb** ✅ ([Know Your Meme](https://knowyourmeme.com/memes/subcultures/violet-evergarden),
+  que cita ambas).
+- **Premios**: **Mejor Animación** en los 3.º Crunchyroll Anime Awards
+  (2018), con **6 nominaciones** (Anime del Año, Mejor Personaje para
+  Violet, Mejor Diseño de Personajes para Takase, Mejor Director para
+  Ishidate) ✅✅ ([Wikipedia](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Animation)
+  y resumen). La novela ganó el **gran premio del 5.º Kyoto Animation
+  Award (2014)**, la primera obra con gran premio ✅✅ (wiki y Wikipedia).
+- **Con quién se identifica el público**: con Violet, porque es **una
+  historia de sanar un trauma**: pasa de «máquina de matar» a una chica que
+  llora y sabe qué es el amor. Reseñas de MyAnimeList: «veterana de
+  guerra emocionalmente atrofiada que encuentra su sitio en la paz»; sus
+  estallidos «**se sienten ganados, no regalados**» ✅ (reseñas, vía
+  buscador).
+- **Popularidad**: Violet arrasa; Benedict y Hodgins detrás (§9).
+
+**Las escenas que hacen llorar**:
+
+| Escena | Capítulo y minuto | Qué pasa y por qué duele | Música | Cómo está hecha | Reacción |
+|---|---|---|---|---|---|
+| **Las 50 cartas para Ann** | ep. 10, 00:20:26 a 00:22:38; clip [1:20](https://www.dailymotion.com/video/x80vbaj?t=80) | Una madre que se muere deja una carta para **cada cumpleaños** de su hija. Violet aguanta toda la semana y **se rompe después**, en la oficina: «tuve que aguantar las lágrimas todo el tiempo» (clip 2:55) ✅ | «Letters From Heaven» ⚠️ (guía de fans) | Campo verde y cielo azul para Ann adulta; **penumbra** en la oficina cuando Violet llora; los **montones de cartas atadas** (clip 2:00) ✅ visto | **El episodio más citado** como el mejor y el que más duele ✅ ([magmix](https://magmix.jp/post/48216), [reseña](https://xenodude.com/2018/03/17/violet-evergarden-ep-10/)) |
+| **El paraguas sobre el lago** | ep. 7, 00:16:50 a 00:17:23 | Violet interpreta a la hija muerta de Oscar cruzando el agua | «Never Coming Back» ⚠️ | Plano amplio, falda y paraguas al viento, hojas cayendo ⚠️ | Recreada por fans, 219 votos en Reddit ✅ |
+| **«Te quiero» al final de la guerra** | ep. 9, 00:02:38 | Gilbert se lo dice sin que ella entienda | sin fuente ⚠️ | — | La escena semilla de toda la serie |
+| **El primer texto** | ep. 1, 00:01:19 | Violet, sin brazos propios, escribe un parte con la mano nueva: la pluma tiembla | — | Luz fría de hospital, planos de detalle de la pluma ✅ visto | — |
+
+**Las que hacen reír**: Hodgins y los muñecos; Cattleya y Benedict
+discutiendo; el grito punk de Benedict en el especial (§15) ✅.
+**Vídeos de reacción** con vistas: no los pude buscar (YouTube bloqueado) ⚠️.
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana (Nuevo, 2.ª pasada)
+
+**Fandubs en español** (encontrados por buscador; **vistas sin ver**:
+YouTube pedía iniciar sesión) ⚠️:
+- [«Violet Evergarden (Fandoblaje Español Latino)»](https://www.youtube.com/watch?v=vxzfebe5JxU)
+- [«"Quiero saber qué es el amor" (Fandub Español Latino)»](https://www.youtube.com/watch?v=0x_AEydNq74)
+- [«Oscar Webster habla sobre su hija (FANDUB LATINO)»](https://www.youtube.com/watch?v=-sVH9k9Qmb0)
+- [«Trailer de Violet Evergarden {Fandub español latino}»](https://www.youtube.com/watch?v=ODLkzpKwD74)
+- [«¿Qué es amar? || Fandub Español»](https://www.youtube.com/watch?v=kVGFVSDsOl4)
+- [«Violet Pierde Sus Brazos (Fandub)»](https://www.youtube.com/watch?v=7P43RDhUF3s)
+- [«The Movie | Fandub Latino»](https://m.facebook.com/100064165023656/videos/-violet-evergarden-the-movie-fandub-latino-en-esta-ocasi%C3%B3n-les-traemos-el-segund/164863379162526/) (Facebook).
+- **Reto de doblaje en TikTok**: [«Reto doblaje: sé Violet Evergarden»](https://www.tiktok.com/@_taniadubs_/video/7279503802078743841)
+  (@_taniadubs_): usa el discurso del ep. 1 como prueba de voz ✅. **Encaja
+  con el servidor**: una lámina 2 o un evento podría proponer ese reto.
+
+**Covers del opening «Sincerely» en español** ⚠️ (sin ver):
+[xXLupita (2018)](https://www.youtube.com/watch?v=DCO5w4Rkkq4),
+[Omar Cabán (2019)](https://www.youtube.com/watch?v=WCgR3N0t2FY),
+[Kotoband (2021)](https://www.youtube.com/watch?v=F3MRxi_PZqE),
+[The Covers Duo (Facebook)](https://www.facebook.com/TheCoversDuo/videos/violet-evergarden-opening-full-cover-espa%C3%B1ol-latino/1021952931641744/);
+letra en español en [Steemit](https://steemit.com/anime/@rhayder1997/opening-violet-evergarden-sincerely-true-or-letra-en-espanol).
+Más canciones de fans en español en §12 (LKZ, Chrono, Emanuel Santiago).
+
+**Parodias y memes hispanos**: **no encontré** (busqué «Violet Evergarden
+parodia» y «meme español»). En español hay fandub serio y covers, no
+humor: va con el tono de la serie.
+
+**Para #poemas**: la comunidad hispana **ya recita y reescribe** textos de
+la serie (cartas, presentación, letra del opening). Es la mejor prueba de
+que el canal encaja.
+
+---
+
+## Punto 23 · Colaboraciones y cruces (Nuevo, 2.ª pasada)
+
+- **Garden Museum Hiei** (jardín botánico en el monte Hiei, Kioto): la
+  colaboración oficial más importante, **dos años seguidos** ✅✅:
+  - **2022** (3 may. a 10 jul.): [nota oficial](https://violet-evergarden.jp/news/?id=191).
+  - **2023** («日傘でめぐる花園», 18 ago. a 23 nov.), con **sombrillas
+    temáticas** de alquiler: [nota oficial](https://violet-evergarden.jp/news/?id=202),
+    [collabo-cafe](https://collabo-cafe.com/events/collabo/violet-evergarden-garden-museum-hiei-kyoto2023/),
+    [Keihan](https://www.keihan.co.jp/k-press/outing/202309-gmhiei.php).
+  - **Arte nuevo**: key visual y **5 standees** (Violet, Gilbert, Hodgins,
+    Cattleya, Benedict), **cada uno con la flor de su nombre**; Violet con
+    un vestido de aire impresionista ante el jardín ✅ (nota oficial).
+    **Idea para una lámina 2: cada personaje, una flor.**
+- **Figuras oficiales** (referencia 3D de pose):
+  [DRESSTA Statue Figure](https://www.goodsmileus.com/products/violet-evergarden-dressta-statue-figure-violet-evergarden-68078)
+  (TAITO, sin escala, agotada) ✅; figura **1/7 de Violet saltando sobre el
+  agua**, con pelo y gotas en movimiento ([Oh Gatcha](https://ohgatcha.com/products/4595122846231))
+  ⚠️ (una tienda). No encontré figma ni Pop Up Parade oficiales.
+- **Sellos de Japan Post** por la película (2020) ✅ (§3.2).
+- **Concierto** «Violet Evergarden: The Concert» (gira por EE. UU., 2026):
+  [web](https://violetevergardenusa.com/) ⚠️ (evento musical, sin arte nuevo).
+- **Cosplay** bien hecho con licencia libre: §4.5.
+- **No encontré**: colaboraciones con videojuegos (Fortnite, gachas) ni un
+  café temático permanente (sólo las bebidas del jardín).
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados (Nuevo, 2.ª pasada)
+
+- **Recomendadas por los usuarios de AniList** ✅: *A Silent Voice*,
+  *Frieren*, *Vivy -Fluorite Eye's Song-*, *I Want to Eat Your Pancreas*,
+  *Your Lie in April*, *Maquia*, *Clannad: After Story*: dramas
+  melancólicos de crecer por dentro, despacio.
+- **Mismo estudio y mismo look**: la crítica la ve como «la evolución
+  final del estilo de KyoAni» de *Sound! Euphonium* y *A Silent Voice* ⚠️
+  ([cinemadebate](https://cinemadebate.com/2018/05/31/violet-evergarden-review-becoming-a-whole-person/)).
+- **Influencias de la autora**: no encontré una entrevista donde Kana
+  Akatsuki las nombre ⚠️ (buscado en inglés y japonés). Ishidate dijo que
+  la novela «da buenos sueños si la lees antes de dormir» ⚠️
+  ([j-mag](https://j-mag.org/en/2018/06/07/violet-evergarden_interview-2/)).
+- **Otras láminas del servidor que se le parecen** (para no repetir) ✅:
+  - **Frieren** (biblia 33) propone para **este mismo canal #poemas** un
+    **diario abierto de Himmel con pluma y tintero en luz dorada** (su
+    concepto B). **Es lo más cercano**: Violet se queda con **la máquina
+    tecleando**, el sobre y el casillero; nada de diario ni tintero.
+  - **Naruto** (biblia 30): una idea suelta con el libro de Jiraiya para un
+    canal de escritura; tono muy distinto, no choca.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos (Nuevo, 2.ª pasada)
+
+### Las reglas del mundo en cinco líneas
+
+1. Todo pasa en el **continente de Telsis** (テルシス), con una cordillera
+   central que la mitología llama «la espina del mundo» ✅ (wiki, que cita
+   la web oficial).
+2. Violet vive en **Leidenschaftlich** («apasionado» en alemán ⚠️), al
+   sur; su capital, **Leiden**, es un puerto con doble muralla ✅.
+3. Acaba de terminar una **Gran Guerra de cuatro años** entre Norte y Sur
+   ✅ (AniList); el país tiene Parlamento y la corona pesa poco ✅ (wiki).
+4. Tecnología **entre el siglo XIX y el XX**: trenes, máquinas de
+   escribir, teléfono recién llegado ✅. Tras la guerra, muchas mujeres
+   sueñan con ser **Auto Memory Dolls** ✅.
+5. Las **Dolls** escriben lo que otros sienten y no saben decir; las
+   inventó el **Dr. Orland** para su mujer **Molly**, novelista que se
+   quedó ciega ✅ ([wiki, «Auto Memories Doll»](https://violet-evergarden.fandom.com/wiki/Auto_Memories_Doll)).
+
+### La historia por arcos
+
+- **Aprender el oficio (eps. 1-4)**: Violet entra en C.H. sin entender
+  «te quiero»; aprende con Cattleya, Iris y Erica; escribe a Luculia la
+  carta de una línea; sabe que Gilbert le puso el nombre por la flor ⚠️
+  ([Wikipedia](https://en.wikipedia.org/wiki/Violet_Evergarden)).
+- **Clientes (eps. 5-7)**: la princesa Charlotte (cartas de amor
+  verdaderas), el astrónomo Leon, el dramaturgo Oscar y el paraguas ⚠️.
+- **Gilbert (eps. 8-9)**: Dietfried; Violet sabe que Gilbert cayó; el
+  «te quiero» en la batalla ⚠️.
+- **La madre (ep. 10)**: las 50 cartas para Ann ✅ (visto).
+- **El soldado (ep. 11)**: Violet salta en paracaídas para llegar a
+  Aidan ✅ (visto y subtítulo) y escribe sus cartas de despedida ⚠️.
+- **Final (eps. 12-13)**: el tren de la paz; Violet pierde los brazos
+  parando una bomba ⚠️; escribe **su primera carta propia, a Gilbert** ⚠️.
+- **Especial (2018)**, **Gaiden (2019, Isabella y Taylor)** y **Película
+  (2020, la niña Yuris; el reencuentro con Gilbert)** ✅/⚠️.
+
+### Emblemas, objetos y vocabulario
+
+- **El letrero de C.H. Postal Company** (manos en corazón, laurel, «CH»):
+  §Punto 19 ✅.
+- **El broche verde**: regalo de Gilbert, del color de sus ojos (novela,
+  tomo 1, cap. 6; ep. 1) ✅.
+- **La máquina de escribir** en su maleta ✅.
+- **Las manos de metal** con guantes: de arma a mano que escribe cartas
+  de amor. Es la imagen que resume la obra ⚠️ (lectura del arco).
+- **La familia Bougainvillea**: casa militar fundada por el héroe Ratchet
+  hace 26 generaciones ✅ (wiki).
+- **Vocabulario que un fan reconoce**: **自動手記人形** (Auto Memory Doll),
+  **少佐** («el mayor»), **了解しました** («entendido»), **愛してる** («te
+  quiero»), **Leiden**, **C.H.**, **Tellsis** ✅.
 
 ---
 
 ## 19 · Tres conceptos para la lámina de #poemas
 
 Los tres usan los textos de §0. Las frases «en la voz de la serie» son
-**traducción mía** del japonés, no del doblaje latino (no lo encontré).
+**traducción mía** del japonés, no del doblaje latino. **2.ª pasada**: ya
+hay una frase latina textual (§10) y se sabe que el doblaje dice **«el
+mayor»**; ningún concepto cambió de objeto, pero se afinaron poses,
+colores y referencias con las hojas nuevas. Los tres evitan el **diario
+con pluma y tintero** que ya usa Frieren para este canal (§Punto 24).
 Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
 **Ninguno lleva llamas** (ni velas encendidas ni chimenea): ver §14.
 
@@ -1030,10 +2009,17 @@ Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
   [lacre CC0](https://sketchfab.com/3d-models/cc0-wax-seal-2-bd18fd7b6c1847bc8e7d9e779c122ed5),
   [sobre CC BY](https://sketchfab.com/3d-models/old-envelope-3189a8c84df44c5ab91e556736f291c1),
   mesa con [madera CC0](https://ambientcg.com/view?id=Wood026). Las
-  teclas, con el alfabeto inventado (§6.3), como en la serie.
+  teclas, con el alfabeto inventado (§6.3), como en la serie. **Colores
+  medidos** (2.ª pasada): cuerpo de la máquina `#1E1D1B`, papel `#F0EDE2`
+  (§5.3). **Referencia de la máquina y las manos**: hoja escenas nº2
+  (opening 0:39) y **nº14** (tráiler [1:22](https://www.dailymotion.com/video/x7t0he2?t=82)).
+  En el membrete de la hoja, el **emblema de C.H.** (manos en corazón y
+  laurel, §Punto 19).
 - **Personaje**: **Violet**, la más querida. Sentada a la máquina, de
   tres cuartos, **las manos de metal sobre las teclas** (§15, Violet 2:
-  ep. 2, 00:08:21). Referencias: el fondo 3840×2160 de
+  ep. 2, 00:08:21). Si mira al que lee, **de frente y sin parpadear**
+  (Ishidate, §7.1): cara de la hoja 1 nº44 o del opening 0:21 (hoja
+  escenas nº1). Traje con los hex de §16. Referencias: el fondo 3840×2160 de
   [WallpaperFlare](https://www.wallpaperflare.com/violet-evergarden-typewriter-mechanical-arm-lying-down-anime-wallpaper-bqxzu)
   y la escena en Blender de [D Arte](https://www.artstation.com/artwork/kQDZN0).
 - **Cómo habla**: **la hoja es su voz**. El texto va tecleado en
@@ -1072,6 +2058,9 @@ Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
   (§15 Hodgins 4); **Cattleya** leyendo con la ceja alzada (§15 Cattleya
   4); **Benedict** señalando orgulloso su hoja (§15 Benedict 2). Es la
   escena de grupo que el dueño pide: **con amigos y con su objeto**.
+  **Caras y ropa** (2.ª pasada): la presentación del tráiler, 0:22 a 0:36
+  (hoja escenas nº7-12: Hodgins pelirrojo con coleta, Benedict rubio con
+  tirantes, Cattleya de chaqueta roja); el tono de burla, hoja 2 nº57.
 - **Cómo habla**: cada hoja es una voz. Violet habla en **una tarjeta**
   sobre el montón, tecleada: **«Gracias por tantas letras.»** (Especial,
   00:14:04). Cattleya comenta **a lápiz rojo** en el margen de una hoja.
@@ -1103,7 +2092,9 @@ Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
   el suelo. En Blender es fácil: rejilla de cajones, placas, sobres
   instanciados. Versión más triste: el **almacén de cartas perdidas** del
   especial (00:25:08), con haces de luz.
-- **Personaje**: **Benedict** (2.º en la encuesta de fans de 2022),
+- **Personaje**: **Benedict** (2.º en la encuesta de fans de 2022 y 3.º
+  en la de 2021: el secundario más querido ✅; rubio, camisa blanca con
+  tirantes, sin uniforme oficial: tráiler 0:28, hoja escenas nº9),
   metiendo una carta en su casilla, con la saca (§15 Benedict 6). Violet,
   más pequeña detrás, con su maleta (§15 Violet 6), le entrega un sobre.
 - **Cómo habla**: con **papeles de correos**: las placas de latón del
@@ -1122,7 +2113,10 @@ Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
 - **Para que no quede plano**: cartas que **sobresalen** a distinta
   profundidad; la mano de Benedict **delante** de una casilla; luz fría
   de mañana por la puerta abierta y cálida desde dentro; la saca
-  desenfocada en primer plano.
+  desenfocada en primer plano. Sobre el casillero, el **letrero de hierro
+  forjado de C.H.** (§Punto 19), modelado en Blender. **Lámina 2
+  alternativa** (2.ª pasada): cada casilla con **la flor de un personaje**,
+  como los standees oficiales del Garden Museum Hiei (§Punto 23).
 
 ### ¿Cuál primero?
 
@@ -1136,24 +2130,78 @@ Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
 
 ## 20 · Lo que no pude verificar
 
-- **Todas las imágenes**: no bajé ninguna; los enlaces de §3, §4 y §17
-  están sin abrir. Sin hojas de contacto.
+Lo tachado se resolvió en la 2.ª pasada.
+
+- ~~**Todas las imágenes**: no bajé ninguna; sin hojas de contacto.~~ Hay 3
+  hojas (§3.5) y tamaños medidos en `referencias.json`.
 - **El texto del mensaje fijado** «Cómo se cuelga un texto aquí» (no está
   en el inventario).
-- **El doblaje latino**: las frases; cómo dice «Auto Memory Doll», «少佐»
-  y el saludo. Las voces de Gilbert, Benedict, Erica, Iris y Dietfried
-  tienen **una sola fuente**.
+- **El doblaje latino**: ~~las frases~~ (hay una, §10); ~~«少佐»~~ («el
+  mayor»); ~~las voces con una sola fuente~~ (muestra oficial + ficha).
+  Sigue pendiente cómo dice «Auto Memory Doll» y el saludo.
 - **Encuesta oficial** de popularidad: no encontré ninguna.
-- **La letra del logo**.
-- **El color exacto de la máquina** y su hoja de modelo (está en el
-  Official Design Works).
-- **Los hex**: estimados, sin muestrear.
-- Posturas y gestos de §15: de memoria.
-- El tema musical del Gaiden.
-- La licencia exacta del modelo de Ed Swinbourne (el resultado de
-  búsqueda dice CC BY; confírmalo al abrirlo) y del de Protoform.
+- **La letra del logo latino** (la del katakana ya está: Honmincho).
+- ~~El color exacto de la máquina~~ (negro `#1E1D1B`); su hoja de modelo
+  del Official Design Works sigue sin ver.
+- ~~Los hex estimados~~: medidos (§5.3). Quedan sin medir guantes, manos
+  de metal, lacre y los colores de Hodgins e Iris.
+- Posturas de §15: las de Violet y Gilbert, vistas; las de **Hodgins,
+  Cattleya, Benedict, Iris y Erica** siguen de memoria.
+- El tema musical del Gaiden; el **compositor por pista** del OST (sólo
+  guía de fans).
+- ~~La licencia del modelo de Ed Swinbourne y del de «Protoform»~~ (API).
 - Que la oficina de C.H. se inspire en el Museo de Kioto (wiki + un blog).
-- Minutos de los vídeos de YouTube y TikTok.
+- **Fotogramas en 1080p**: YouTube pedía iniciar sesión; los clips son
+  de 512×288.
+- **La secuencia animada del ending** (sólo el vídeo musical).
+- Minutos de los vídeos de **YouTube y TikTok** (análisis, fandubs,
+  covers) y sus vistas.
+- Caras de **miedo** de Violet, y de cualquier emoción de Gilbert y
+  Hodgins.
+- **Comida favorita, lo que odian** y cumpleaños (salvo Violet).
+- El **lacre** de los sobres visto en un fotograma de la serie.
+
+---
+
+## Cumplimiento del encargo
+
+Estado al cerrar la 2.ª pasada (24-sep-2026). ✅ hecho · ⚠️ a medias ·
+❌ no hecho. Cada ⚠️ dice por qué.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 2 hojas de la wiki (69 imágenes), hoja de modelo del databook con cita de Takase, key visuals de AniList y de la película, portada de la novela (§3). No hay videojuego oficial del que sacar arte |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | 6 vídeos mirados con minuto y enlace `?t=` (§2.4, §12, hoja escenas). Pero ninguno en 1080p: YouTube pedía iniciar sesión y las copias de Dailymotion son de 512×288 |
+| 3 · Fan art y 3D con licencia | ✅ | Licencias y usuarios de Sketchfab leídos en su API (3 corregidos); fan art con autor; cosplay con licencia libre (§4) |
+| 4 · Sitios, luz, paleta y texturas | ✅ | Luz vista en vídeo; hex medidos con Pillow y `estilo.py`; texturas CC0 de ambientCG y Poly Haven (§5) |
+| 5 · Tipografía por uso, con letra libre y tildes | ✅ | Tabla uso por uso (§6.2b); Special Elite y Merriweather confirmadas como letras reales de la web oficial; tildes comprobadas con fontTools. Falta sólo la letra exacta del logo latino (aproximación libre dada) |
+| 6 · Cómo hablan en pantalla | ✅ | La carta tecleada es el cuadro; no hay manga (comprobado en AniList); Violet no parpadea (entrevista) (§7) |
+| 7 · Personajes y popularidad | ✅ | Dos encuestas de ねとらぼ (2021 y 2022) y conteo de Danbooru; no hay encuesta oficial y se dice (§9) |
+| 8 · Doblaje latino y frases textuales | ⚠️ | Reparto completo (31 papeles) con minuto de la muestra oficial y la ficha de Doblaje Wiki; cambios de voz. Sólo **2 frases textuales**, de un audio oficial de Doblaje Wiki: los clips doblados de YouTube no se pudieron bajar y no hay copias latinas en Dailymotion ni en Internet Archive (§10) |
+| 9 · Música y sonido | ✅ | Opening mirado entero, vídeo del ending con créditos, OST en MusicBrainz, tema por escena (guía de fans ⚠️), el tecleo como efecto que todos reconocen (§11) |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | Los 6 mirados tienen minuto. Los análisis, fandubs y TikTok de YouTube y TikTok siguen sin minuto: no cargaron desde el servidor (§12) |
+| 11 · Videojuegos | ✅ | No hay videojuego oficial: comprobado en inglés, japonés y The Cutting Room Floor (§13) |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | Paraguas, tecleo, ep. 10, humor de oficina; qué no hacer ampliado (Violet furiosa, de reojo, repetir la idea de Frieren) (§14) |
+| 13 · Personajes a fondo y su cara en cada emoción | ⚠️ | Carácter, historia, forma de hablar y dinámicas, hecho. Caras de Violet con captura (alegría, tristeza, vergüenza); **miedo y rabia sin captura**, y **ninguna cara por emoción de Gilbert ni Hodgins**: la wiki no las etiqueta y no se pudieron ver los episodios (§8) |
+| 14 · Poses analizadas, 6-10 por personaje | ⚠️ | Violet (20) y Gilbert (4) vistas en vídeo y hojas. Hodgins, Cattleya, Benedict, Iris y Erica tienen escena y minuto del subtítulo, pero **postura de memoria**: no salían en ningún clip accesible (§15) |
+| 15 · Vestuario con hex | ✅ | Traje de Doll y uniforme militar medidos; los demás, vistos en el tráiler (colores de Hodgins e Iris sin medir) (§16) |
+| 16 · Paisajes y fondos de pantalla | ✅ | Sitios con su luz; 8 fondos de Wallhaven con tamaño, autor y origen; key visuals oficiales (§17) |
+| 17 · Guía para IA de imagen y de texto | ✅ | Rasgos con hex medidos, etiquetas de Danbooru, técnica, y guía de voz con frases reales por emoción (§18) |
+| 18 · Estilo de dibujo y cómo replicarlo | ✅ | Programas del estudio según el staff; Photoshop y Blender paso a paso; encuadres. No hay *rig* libre del personaje (dicho) |
+| 19 · Texturas 2D | ✅ | Tramas (no aplican: no hay manga), papel, pinceladas, telas CC0, cuadros, emblema de C.H. |
+| 20 · Gustos y detalles | ⚠️ | Altura y grupo de 7 personajes (Starter Book), cumpleaños de Violet, objetos, cómo se ven. **Comida favorita, lo que odian y los demás cumpleaños: no encontrados** |
+| 21 · Por qué la aman | ✅ | Notas, premios, con quién se identifican, escenas que hacen llorar con minuto, música y reacción. Vídeos de reacción con vistas, no (YouTube) |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 7 fandubs, reto de TikTok, 4 covers del opening. **Sin vistas ni fechas comprobadas** (YouTube bloqueado); no hay parodias hispanas |
+| 23 · Colaboraciones y cruces | ✅ | Garden Museum Hiei (2022 y 2023) con arte nuevo, figuras, sellos, cosplay; sin videojuegos ni café fijo (dicho) |
+| 24 · Obras parecidas | ✅ | AniList, mismo estudio, y el choque con el concepto de Frieren para este canal |
+| 25 · Mundo, historia y símbolos | ✅ | Cinco reglas, arcos, emblemas y vocabulario (algunos arcos con una fuente ⚠️) |
+| Concepto A · La hoja en la máquina | ✅ | Con hojas, hex y referencias nuevas (§19) |
+| Concepto B · La mesa de las letras | ✅ | Con las caras del tráiler (§19) |
+| Concepto C · El casillero de C.H. | ✅ | Benedict confirmado como secundario más querido (§19) |
+| 40 fuentes distintas | ✅ | Más de 100 webs enlazadas |
+| Tipos de fuente | ⚠️ | Oficiales, staff, japonés, chino y coreano, wikis, Reddit (Arctic Shift), arte, vídeo, GitHub, Sketchfab y doblaje latino, sí. **Wayback Machine bloqueada** por la salida del servidor; **TV Tropes y TCRF dieron 403** (usados por el buscador) |
+| Hojas de contacto | ✅ | 3 en `hojas/`: `personajes_01.jpg`, `personajes_02.jpg`, `escenas_01.jpg` (§3.5) |
+| `referencias.json` | ✅ | 168 referencias, las mejores primero; 89 con tamaño medido |
 
 ---
 
@@ -1277,3 +2325,72 @@ Recortes siempre por `v3/integrar.py` y comprobados a 1:1.
   Watanabe) sobre la luz.
 - The Cutting Room Floor y Wayback Machine: no aplican o bloqueados.
 - El contenido del mensaje fijado del canal.
+
+### Segunda pasada (24-sep-2026, red abierta)
+
+Hecha por 4 investigadores (sus libretas completas, con cada búsqueda,
+en `partes/imagen.md`, `video.md`, `voz.md` y `texto.md`) y el redactor.
+
+**Herramientas y APIs**
+- `recolectar.py` (AniList, Doblaje Wiki, Fandom, Danbooru, Safebooru,
+  Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive,
+  MusicBrainz, Steam, Reddit): punto de partida, sin repetir consultas.
+- `investigar_serie.py` con 5 páginas de la wiki → 2 hojas (69 imágenes
+  grandes); `fotogramas.py` sobre 6 vídeos; hoja `escenas_01.jpg` montada
+  por el redactor con Pillow a partir de esas hojas.
+- API de Fandom (wiki de la serie: `list=search`, `categorymembers`,
+  `imageinfo`, `parse` de *Auto Memories Doll*, *Leidenschaftlich*, *C.H
+  Postal Company*, *Gilbert*; Doblaje Wiki: serie, personaje, Andrea
+  Arruti, Carla Castañeda, ficha de la muestra multimedia).
+- `voz.py` (Whisper `small` y `medium`) sobre el demo 2 de Andrea Arruti
+  y sobre dos clips de Dailymotion (uno era doblaje de España; otro, texto
+  alucinado: descartado).
+- Pillow y `estilo.py --colores` sobre 7 fotogramas y 6 imágenes oficiales.
+- API de Sketchfab (2 consultas), ambientCG (telas), Danbooru
+  (`counts/posts.json`), AniList GraphQL (formato de las novelas),
+  Arctic Shift (r/VioletEvergarden: «typewriter sound»), Dailymotion (API
+  de búsqueda, más de 17 consultas), Internet Archive (`advancedsearch`,
+  9 consultas), clon parcial de kitsunekko-mirror (eps. 1 y 11), fontTools
+  (Merriweather).
+
+**Búsquedas web por idioma** (resumen; la lista completa, en cada parte)
+- **Japonés**: ねとらぼ 人気投票 (dos encuestas); コラボカフェ 京都 (Garden
+  Museum Hiei); 公式ゲーム アプリ ノベルゲーム (no hay juego); ロゴ フォント 書体;
+  撮影 カメラワーク インタビュー; 暁佳奈 影響 インタビュー; 音響.
+- **Inglés**: premios Crunchyroll; Starter Book (altura, grupo); reseñas de
+  MyAnimeList; RETAS y software de KyoAni; Ishidate y la mirada; Blender
+  Solidify y Freestyle; figuras (Pop Up Parade, figma); cosplay; tramas y
+  telas CC0; paracaídas del ep. 11; `site:tcrf.net`.
+- **Español**: fandub latino; covers de «Sincerely»; parodia y meme;
+  diseño de sonido; clips doblados (Dailymotion e Internet Archive).
+- **Coreano**: NamuWiki (mapa del mundo y la novela), sólo como apoyo.
+
+**Webs nuevas consultadas**: ねとらぼ (2), Know Your Meme, dennou-translations
+(2), odanurr87 (Tumblr), Wikipedia (premios, episodios), Sakuga Blog (2),
+Ultimatemegax, ATMA & Funomena, j-mag, cinemadebate, orenjicrush,
+わくぱく, booth.pm, kairi003 (GitHub Pages), Pixiv, Clip Studio Assets,
+Photoshop Supply, BlenderNation, violet-evergarden.jp (notas 191 y 202),
+collabo-cafe, Keihan, Good Smile US, Oh Gatcha, IMDb News, Flickr,
+Wallhaven, Safebooru, MusicBrainz, Dailymotion, Internet Archive, Etsy,
+tallerabiertodeanimacionjaponesa (blog), Reddit (vía Arctic Shift),
+X de Carla Castañeda, YouTube y Facebook (sólo enlaces).
+
+**Lo que falló**: YouTube («Sign in to confirm you're not a bot», 3
+intentos en 3 clips); TikTok (sin JavaScript); AnimeThemes (error 522,
+dos veces); TV Tropes (403); TCRF (Cloudflare); Wayback Machine
+(bloqueada por la salida del servidor); Bilibili (no cargó, dos intentos);
+la imagen del cosplay de @swoochu (403). El vídeo de Dailymotion
+`x811ual` es un episodio de *Code Geass* mal etiquetado.
+
+**Lo que NO encontré en la segunda pasada**
+- Fotogramas en 1080p; la secuencia animada del ending.
+- Clips oficiales doblados al latino fuera de YouTube.
+- Encuesta oficial de Kyoto Animation.
+- Caras de miedo y rabia de Violet; caras por emoción de Gilbert y Hodgins.
+- Comida favorita, lo que odian y cumpleaños (salvo Violet).
+- La letra del logo latino; el diseñador de sonido; el compositor por pista.
+- Vistas de los fandubs y covers; parodias hispanas.
+- Un pincel CC0 de encaje; la ficha oficial de la figura 1/7; un *rig*
+  libre de Violet.
+- Una entrevista donde Kana Akatsuki nombre sus influencias.
+- El lacre de los sobres visto en un fotograma de la serie.
