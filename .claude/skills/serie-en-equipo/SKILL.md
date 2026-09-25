@@ -57,6 +57,25 @@ El jefe va en Sonnet (el motor ya lo fija; en una sesión suelta, `/model
 sonnet`): sólo lanza, revisa y sube. El modelo de cada agente lo fija el
 `model` al lanzarlo.
 
+## Subagentes ya definidos y flujo guardado (lo más barato para el jefe)
+
+En `.claude/agents/` hay un subagente por rol, con su modelo fijo: `recolector`
+(Haiku), `investigador-imagen`, `investigador-video`, `investigador-voz`,
+`investigador-texto` (Sonnet), `redactor` (Opus) y `cierre` (Haiku). Llevan
+dentro las instrucciones de este documento: lánzalos con `Agent` y
+`subagent_type` y un mensaje corto («Serie <id>, modo <nueva|seguir|relanzo|
+repaso>. Serie hermana: <id>» si la hay) en vez de pegar el texto largo de abajo.
+Los textos de abajo siguen valiendo cuando no se puedan usar.
+
+Series hermanas: `python3 herramientas/hermanas.py <id>` dice si la serie es la
+misma obra que otra ya hecha (43/90, 64/104, 31/79, 33/89, 03/80, 98/102…); en
+ese caso los investigadores y el redactor parten de la primera y no repiten.
+
+Si tienes la herramienta `Workflow`: `Workflow({name: "serie-en-equipo",
+args: {lote: "G", max: 6}})` hace toda la cadena (plan, recolectar, investigar,
+redactar, reparo y cierre) sin que el jefe gaste tokens leyendo y decidiendo;
+sólo hay que dejar antes `herramientas/guardar.sh --cada 300` en segundo plano.
+
 ## El bucle (repítelo hasta que no quede nada o el dueño diga basta)
 
 **1. ¿Qué toca?** `python3 herramientas/siguiente.py 5`. Coge la primera que
