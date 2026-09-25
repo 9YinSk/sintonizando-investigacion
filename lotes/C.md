@@ -1,6 +1,10 @@
+LOTE C TERMINADO
+
 # Lote C: repasos 19-30
 
 Sesión: https://claude.ai/code/session_01Tyk6GzpvzkPnU36EVJt7eZ · rama `claude/amazing-johnson-mxlnjs`
+
+Las 12 series (19-30) están COMPLETAS y subidas. `python3 herramientas/siguiente.py 12 --lote C` da 0 pendientes. No queda nada del lote C: si se retoma esta cuenta, no hay que relanzar nada de aquí.
 
 ## Cambio de cuenta (sesión actual)
 
@@ -45,8 +49,11 @@ recolectados) pendientes.
   referencias, 3 hojas. Cada candidata con su propio cuadro de diálogo
   (el libro de Estela, el plano azul de Phineas, la revista Seireitei
   Tsūshin, el letrero LED, el cartel de Roz, el volante de Sing).
-- **30 Naruto: redactor (Opus, repaso) en marcha — última serie del
-  lote.**
+- **30 Naruto: COMPLETA y subida (repaso). ÚLTIMA SERIE DEL LOTE.** 2132
+  líneas, tabla ✅26 ⚠️4 ❌0, 99 webs, 296 min, 48 hex, 262 referencias,
+  3 hojas. Más querido: Minato (1.º en NARUTOP99, 792 257 votos); en la
+  lámina habla Kakashi. Cuadro de diálogo propio: pergamino o tira de
+  papel a pincel, tablón de misiones, hoja del examen.
 
 ## Avisos para el dueño (esta sesión)
 
@@ -89,6 +96,12 @@ recolectados) pendientes.
   Mario Galaxy es de Brian Tyler, no de Mahito Yokota. Doofenshmirtz no
   lleva morado en ningún arte oficial — si el dueño recuerda una escena
   suya en morado, decir el capítulo para revisarlo.
+- 30 Naruto: #reto-de-la-semana lo piden también Haikyuu (34) y Naruto (ya
+  en DECISIONES.md, no bloquea). Iruka en la primera serie (José Antonio
+  Macías) sólo tiene Doblaje Wiki como fuente, sin audio de muestra. El
+  fotograma de Itachi con la capa en S135 no coincide con el minuto citado
+  en la copia latina de Internet Archive (ahí sale Sasuke niño llorando):
+  revisar en otra copia antes de usarlo en una lámina.
 
 Sesión anterior: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
 Cuenta: cuenta A105
