@@ -810,3 +810,569 @@ túnica gris de Rudeus, el pelo rojo y la diadema de Eris, las orejas y el
 pelo blanco de Sylphiette.
 
 ---
+
+## 17 · Paisajes y fondos de pantalla
+
+### Los sitios con su luz y su hora
+- **Buena Village**: campiña de mediodía, trigales, colinas y montañas,
+  puente de piedra con molino, un **árbol rojo** grande. 8 capturas
+  1920×1080 en la wiki (`fondos_01` n.º 3-10) ✅. Al atardecer, el trigal
+  dorado del tráiler (§5).
+- **Roa**: ciudad amurallada de tejados rojos, río, mercado. Mediodía
+  (`fondos_01` n.º 32-36) ✅.
+- **Millishion**: ciudad santa blanca de cúpulas doradas y obeliscos,
+  plaza con fuente, la catedral del Gremio. Día muy claro. 20 capturas
+  (ep. 16 de la T1 y OVA) ✅.
+- **Sharia y la Universidad de Ranoa**: nieve, piedra clara, gótico. De
+  día, casi monocromo; de noche, azul `#18243E` con ventanas encendidas ✅.
+- **El Continente Demoníaco y el desierto**: arena y roca, tonos tostados
+  (`fondos_01` n.º 39-40; tráiler 1:08) ✅.
+- **La mazmorra**: casi negro, azul verdoso (ep. 5) ✅.
+
+### Fondos de pantalla en alta
+| Qué | Tamaño | Autor | Enlace |
+|---|---|---|---|
+| Blu-ray 3 (oficial) | 4096×2642 | Studio Bind / Kadokawa | [wiki](https://static.wikia.nocookie.net/mushokutensei/images/6/6d/BD_cover_3.jpg) |
+| Digipak 4 (oficial) | 2560×1674 | oficial | [wiki](https://static.wikia.nocookie.net/mushokutensei/images/d/d6/Digipak_4.jpg) |
+| Roxy sentada sobre un mapa | 8640×4860 | pixiv 123786185 | [Wallhaven](https://w.wallhaven.cc/full/x6/wallhaven-x6vlw3.jpg) |
+| Roxy con agua | 5988×4349 | pixiv 121142450 | [Wallhaven](https://w.wallhaven.cc/full/1p/wallhaven-1pvlg9.jpg) |
+| Rudeus, arte de novela | 5120×2880 | pixiv 88777467 | [Wallhaven](https://w.wallhaven.cc/full/j3/wallhaven-j3ym5y.jpg) |
+| Eris con nubes | 3840×2160 | sin autor ⚠️ | [Wallhaven](https://w.wallhaven.cc/full/v9/wallhaven-v936d8.jpg) |
+| Sylphiette en un campo con flores | 3840×2160 | sin autor ⚠️ | [Wallhaven](https://w.wallhaven.cc/full/g7/wallhaven-g76xe3.png) |
+
+No se buscaron fondos **sólo de paisaje, sin personaje** ⚠️. Para eso,
+mejor las capturas 1920×1080 de la wiki (`fondos_01`).
+
+---
+
+## 18 · Guía para generar con IA: imagen y texto
+
+Sirve para Firefly, Canva o cualquier IA. Todo sale de lo medido arriba.
+**Nunca** para inventar referencias: la IA completa, no sustituye.
+
+### Estilo general (va en todos los prompts)
+- **Palabras que ayudan**: *anime de fantasía medieval, Studio Bind,
+  fondos pintados a mano con degradados suaves, línea de tinta fina de
+  grosor variable, sombreado suave de dos tonos, luz natural cálida,
+  arquitectura gótica y europea detallada, paleta apagada y terrosa*.
+- **Palabras que lo estropean**: *chibi* (salvo broma), *neón*, *brillos
+  holográficos*, *HUD*, *cel shading duro*, *colores saturados*, *pose
+  sexy*, *fan service*, *burbuja de cómic*, *armadura de fantasía épica*.
+- **Línea**: más gruesa en el contorno de la figura, fina en pliegues;
+  casi nada de línea en los fondos (medido: línea `#696558` en personaje,
+  `#5C5E56` en piedra).
+- **Sombreado**: degradado suave, no tramas (salvo imitar el manga).
+- **Luz**: *golden hour* en el campo (`#ECAD1F`, `#BE6617`); día claro en
+  ciudades (`#E3E2E2`, `#307CC4`); vela en interiores (`#1E1412`,
+  `#847469`); azul noche en Ranoa (`#18243E`).
+- **Encuadre**: planos medios y generales con mucho paisaje; primeros
+  planos bajo el ala del sombrero para Roxy; contrapicado para Roxy en el
+  muro (autoridad).
+
+### Rasgos que nunca cambian (vocabulario Danbooru, que las IA entienden)
+- **Rudeus**: *brown_hair, green_eyes, mole_under_eye, ahoge, robe, hood,
+  holding_staff*. Túnica gris `#7B7677`.
+- **Roxy**: *blue_hair, blue_eyes, twin_braids, very_long_hair, ahoge,
+  witch_hat, black_hat, staff, skirt*. Crema `#F0ECE6`, sombrero `#353537`.
+  Cuerpo menudo de adulta, **no de niña**.
+- **Eris**: *red_hair, red_eyes, long_hair, black_hairband, ahoge, sword,
+  white_shirt*. Siempre con energía.
+- **Sylphiette**: *pointy_ears, elf, red_eyes, short_hair, white_hair
+  (joven) o green_hair (niña), ahoge, white_jacket*. Guantes blancos.
+
+### Qué imágenes usar de referencia
+- **Estilo de personaje**: hojas «Anime Design» de fondo verde
+  (`modelo_01` n.º 203-216).
+- **Pose con objeto**: Roxy `modelo_01` n.º 210; Rudeus n.º 212.
+- **Estilo de fondo**: `fondos_01` n.º 3 (Buena), 13 (Millishion), 37
+  (llegada de Roxy al trigal).
+- **Pose en acción**: Roxy lanzando fuego (`personajes_01` n.º 105).
+
+### Vocabulario de expresiones (para pedir cada gesto)
+- **Ojos muy abiertos** y pupila pequeña: sorpresa o miedo (Rudeus bebé,
+  2:36; Rudeus ante la hidra).
+- **Rubor y mano en la boca**: vergüenza (Roxy, `personajes_01` n.º 112).
+- **Rascarse la nuca y mirar a otro lado**: timidez (Roxy, ep. 2, 3:44).
+- **Puño en alto, boca abierta, cuerpo hacia delante**: furia cómica
+  (Eris, ep. 5, 6:30).
+- **Capucha puesta, hombros encogidos**: miedo a ser vista (Sylphiette,
+  ep. 3, 5:30).
+- **Ojos cerrados y sonrisa leve**: paz (Sylphiette, ep. 3, 7:00; Roxy
+  explicando, ep. 2, 4:00).
+- **Mano en la barbilla**: pensar (Rudeus, `personajes_01` n.º 143).
+- Gotas de sudor, fondos de emoción y *chibi*: **no se vieron** en los
+  capítulos mirados ⚠️; la serie los usa poco en lo visto. Si se usan, con
+  moderación y sólo en humor.
+
+### Para una IA de texto: cómo escriben en su voz
+- **Rudeus**: educado, **llama «maestra» a Roxy**, entusiasta con la
+  magia, exclama «¡qué increíble!». Por dentro, irónico y adulto. Frases
+  medias. Si piensa, cursiva.
+- **Roxy**: **imperativos cortos en serie**. Da instrucciones y cierra con
+  una prueba. Punto y seguido, pocas exclamaciones.
+- **Eris**: **preguntas encadenadas** con signos de interrogación y un
+  grito al final con exclamación. Nada de rodeos.
+- **Sylphiette**: pregunta bajito, empieza con «Oye», deja frases a medias
+  con puntos suspensivos.
+- **Paul**: «Escúchame, hijo», consejos con picardía (sin cruzar la
+  línea en el servidor).
+- **Ghislaine**: frases de 3 a 6 palabras, repite «¿Qué dijiste?».
+- **Orsted**: solemne, pausado, sin exclamaciones.
+
+**Frases reales por emoción** (doblaje latino, muestras de Doblaje Wiki,
+§10; y del doblaje inglés del ep. 1, traducidas por el redactor ⚠️):
+- **Alegre**: «También sabes usar la magia curativa, ¡qué increíble!»
+  (Rudeus, latino).
+- **Enfadado**: «¿Qué cosa? ¿Me estás llevando la contraria? ¿Quién crees
+  que soy? ¡Debes respetar a tus mayores!» (Eris, latino).
+- **Explicando**: «Obsérvalo bien, memorízalo y hazlo luego. Ese es tu
+  examen final.» (Roxy, latino). Y del ep. 1, 17:00 (inglés): «Los
+  hechizos y los magos se dividen en siete rangos».
+- **Animando**: «Escúchame, hijo. A las mujeres les gustan nuestras
+  fortalezas, pero también nuestras debilidades.» (Paul, latino). Del
+  ep. 1, 20:00 (inglés): «No creo que hoy hayas arruinado nada, maestra.
+  Sólo ganaste experiencia.»
+- **Triste o vulnerable**: «Oye, ¿para ti no es importante cómo me veo?
+  … Mi cabello es de un color diferente al de mis papás.» (Sylphiette,
+  latino).
+- **Solemne**: «Has mejorado considerablemente. Siempre pensé que tenías
+  potencial.» (Orsted, latino).
+
+**Vocabulario del mundo** para que suene a la serie: maná, conjuro,
+hechizo sin conjuro, rango Santo, Water Ball, Gremio de Aventureros,
+Siete Grandes Poderes, Hombre Dios (Hitogami), Dead End, Reina de la
+Espada (§26).
+
+---
+
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+### Quién lo dibuja
+- **Studio Bind**, creado en nov-2018 por White Fox y Egg Firm **sólo para
+  esta serie** ([Wikipedia](https://en.wikipedia.org/wiki/Studio_Bind)) ✅.
+- Director y guion: **Manabu Okamoto**. Diseño original: **Shirotaka**.
+  Diseño del anime: **Kazutaka Sugiyama** (T1), **Sanae Shimada** (T2),
+  **Ryōta Furukawa** (T3): por eso cambia algo el trazo ✅.
+- Fondos: **Masakazu Miyake**. Color: **Makiko Doi**. Fotografía:
+  Shinji Tonsho ([AniList](https://anilist.co/anime/108465/staff)) ✅.
+- [Real Sound](https://realsound.jp/movie/2021/10/post-892127_2.html)
+  (japonés) habla de «美術へのこだわり», obsesión por el arte: cielos
+  abiertos, arquitectura solemne, «textura delicada». Yumi Uchiyama
+  preguntó si aquello podía verse en cines ✅.
+
+### Cómo se ve (medido)
+- **Fondos**: pintados con **degradado**, sin línea dura, mucho detalle
+  arquitectónico (vidrieras, gárgolas). Saturación baja (9-39 %).
+- **Personajes**: más saturados, **contorno de tinta grueso**, sombreado
+  suave, luz de borde cálida en el pelo (portada del manga: `#3D3438`,
+  `#D9B796`, `#0570B4`, `#71C1D8`) ✅.
+- **Cámara**: movimientos pausados, cambios de foco, desenfoque de
+  movimiento en la acción ✅ (Real Sound).
+- **Manga**: tinta negra fina con **tramas de puntos** grises, sin
+  degradado digital ✅.
+- **Qué programa usa el estudio**: no se encontró ⚠️ (búsquedas en
+  japonés e inglés).
+
+### Cómo replicarlo en Photoshop
+- **Fondos**: manchas grandes de color plano (cielo, piedra, hierba);
+  luego pinceles de textura en Multiplicar al 20-40 %; línea fina sólo en
+  lo arquitectónico cercano.
+- **Personajes**: línea de grosor variable; sombra por degradado suave de
+  dos tonos; *rim light* cálida en el pelo.
+- **Integración**: pasar los recortes por `v3/integrar.py` (regla 3 del
+  dueño).
+
+### Cómo replicarlo en Blender
+- Contorno con **Freestyle** o **Solidify** invertido, negro y variable.
+- *Toon shader* de **dos bandas** con un pequeño degradado entre ellas
+  (no un corte duro).
+- Luz: una principal cálida (sol bajo o vela) y un relleno frío.
+- Modelos: el báculo de Roxy y los personajes CC BY de §4 (crédito
+  incluido). Texturas de ambientCG (§5) y el *normal map* de piedra para el
+  escudo de Asura con **Bevel** suave.
+
+### Encuadres típicos
+- **Plano general** de paisaje con figuras pequeñas (el trigal, Roa).
+- **Contrapicado** para autoridad (Roxy en el muro, ep. 2, 7:36).
+- **Primer plano** bajo el sombrero para explicar (ep. 2, 7:44).
+- **De espaldas mirando el paisaje** para pensar (ep. 3, 7:50).
+- **Velas en primer plano** para lo íntimo (`personajes_01` n.º 121).
+
+---
+
+## 20 · Texturas 2D
+
+- **Tramas del manga**: puntos grises sobre tinta fina (capítulos 52 y 66,
+  `modelo_01` n.º 227 y 230). Pinceles libres: [Mabecman's Screentones](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes),
+  34 pinceles, gratis con atribución si se revende ✅.
+- **Pincel del logo**: trazo grueso con textura en los bordes
+  ([logo japonés](https://static.wikia.nocookie.net/mushokutensei/images/2/23/Anime_Logo_JP.png)).
+- **Emblemas**: escudo de Asura ([725×689](https://static.wikia.nocookie.net/mushokutensei/images/9/93/Asura-Kingdom-Emblem-MT-MN-V8-Ch40.png))
+  y emblema de la casa Boreas ([270×291](https://static.wikia.nocookie.net/mushokutensei/images/a/a6/Boreas-Family-Emblem-MT-MN-Ch50.png)) ✅.
+- **Patrón de hiedra** de la caja del juego (§7): relieve de hojas.
+- **Rayas y ribetes de ropa**: el ribete rojo del uniforme de Ranoa; el
+  borde blanco y negro con línea dorada de la capa de Roxy.
+- **Papel, tela, madera y piedra**: ambientCG CC0 (§5).
+- **Grano de papel** propio de la serie: no se buscó por separado ⚠️; el
+  Paper001-006 de ambientCG lo cubre.
+
+Capas completas: 3D (§4), texturas reales (§5) y 2D (aquí).
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+De la wiki (infobox y Trivia) y de AniList. No hay *databook* oficial
+consultado ⚠️.
+
+| | Cumpleaños / nacimiento | Altura | Le encanta | Odia o teme | Siempre lleva | Cómo se ve a sí mismo |
+|---|---|---|---|---|---|---|
+| **Rudeus** | 22 de noviembre (AniList) | 175 cm adulto (AniList); 169 cm de joven (wiki) ⚠️ | La magia, hacerlo todo bien «esta vez» | Volver a ser el NEET | Báculo y túnica gris | Con miedo de repetir su vida pasada |
+| **Roxy** | Año K373 | ⚠️ no encontrada (baja, raza migurd) | **Los dulces**; juró no volver al Continente Demoníaco por no tener dulces | Los pimientos verdes; el alcohol seco; los niños y los Superd | Sombrero de bruja | Insegura por su estatura |
+| **Eris** | Año K405 | 170 cm ⚠️ | La espada; Ghislaine como hermana | Que hablen mal de Rudeus | Dos espadas; diadema negra | Menos que Rudeus |
+| **Sylphiette** | Año K407 | ⚠️ no encontrada | Rudeus, desde niña | El rechazo; el acoso por su pelo | Guantes blancos | Insegura bajo la fachada de Fitz |
+| **Paul** | ⚠️ | ⚠️ | Las mujeres; su familia | — | Espada | Dejó su casa noble a los 12 años |
+| **Ghislaine** | ⚠️ | ⚠️ | Eris | — | Espada; un ojo de demonio que detecta trampas | Aprendió a leer de adulta |
+| **Orsted** | ⚠️ | ⚠️ | — | Su maldición | Abrigo blanco con piel (AniList) | Alguien que no tendrá relaciones normales |
+
+Más detalles: Rudeus tiene 34 años de su vida pasada más 23 de esta
+(AniList). Sylphiette tiene sangre humana, elfa y bestia (AniList) y es
+nieta de Elinalise. Lucy, la hija de Sylphiette y Rudeus, llama a Eris
+«Mamá Roja» (wiki) ⚠️.
+
+---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar o gritar
+
+### Razones concretas
+- **Ventas**: más de **18 millones** de copias de la franquicia
+  ([GameRant](https://gamerant.com/mushoku-tensei-japanese-isekai-series-ending/));
+  eran 10 millones en febrero de 2022
+  ([ANN](https://www.animenewsnetwork.com/news/2022-02-01/mushoku-tensei-franchise-tops-10-million-in-circulation/.182126)) ✅.
+- **Premios**: 4 nominaciones a Mejor Isekai en los Crunchyroll Anime
+  Awards ([Wikipedia](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Isekai_Anime)) ✅;
+  18 nominaciones y 7 victorias en los Anime Trending Awards ✅; entre lo
+  mejor de 2021 para IGN ⚠️.
+- **AniList**: nota 82, casi 460 000 usuarios la siguen, 25 907 favoritos.
+- **Identificación**: el público se ve en Rudeus por su **ansiedad y
+  depresión** en la T2, contadas en serio; un fan comparó sus problemas
+  familiares con los de Rudeus ⚠️ (reseñas). En Reddit: «why i love
+  mushoku tensei (because it broke me)», 225 votos
+  ([hilo](https://www.reddit.com/r/mushokutensei/comments/1601pdr/why_i_love_mushoku_tensei_because_it_broke_me/)).
+- **El arte**: la crítica japonesa la compara con cine (§19).
+
+### Las escenas
+- **Hace llorar: la muerte de Paul** — ep. 46 (T2 ep. 22, «Parents» / 親),
+  17-jun-2024 ([Wikipedia](https://en.wikipedia.org/wiki/Mushoku_Tensei_season_2);
+  [Sportskeeda](https://www.sportskeeda.com/anime/does-paul-die-mushoku-tensei-season-2-fate-rudeus-father-explored)) ✅.
+  En el sexto piso del Laberinto de Teletransporte matan a la hidra que
+  guarda a Zenith. Rudeus pierde la mano izquierda y Paul muere
+  protegiéndolo. Vuelven con Zenith inconsciente.
+  - **Por qué duele**: Rudeus queda vacío; es su segundo padre perdido
+    sin despedirse bien. Comentario de fans: «Feliz día del padre a quien
+    tenga uno. Rudy no, por desgracia» ⚠️ ([foro de MAL](https://myanimelist.net/forum/message/71272868)).
+  - **Minuto, música, luz**: **no se vio el episodio** ⚠️. En el tráiler
+    del arco, Rudeus grita a la luz del fuego ([1:15](https://www.dailymotion.com/video/x8yhi8e?t=75)).
+- **Hace llorar de alegría: Sylphiette se revela** — ep. 37 (T2 ep. 12,
+  «I Want to Tell You»), 25-sep-2023
+  ([wiki](https://mushokutensei.fandom.com/wiki/I_Want_to_Tell_You);
+  [ComicBook](https://comicbook.com/anime/news/mushoku-tensei-season-2-rudeus-sylphie-reunion/)) ✅.
+  En una tormenta de nieve, Fitz se quita las gafas: es Sylphiette. Lo
+  abraza llorando, le dice que lo ama y le pide que no la deje sola.
+  - **Por qué emociona**: el pago de toda una temporada de secreto ✅
+    (ComicBook y [GameRant](https://gamerant.com/mushoku-tensei-season-2-episode-11-review-to-you/)).
+  - Minuto y música: no vistos ⚠️.
+- **Hace llorar (TikTok hispano)**: la muerte de Geese y el reencuentro
+  con Ghislaine, arco avanzado (§12) ✅; minuto no visto ⚠️.
+- **Hace reír**: la primera clase de Roxy (ep. 1, 18:00-19:30): rompe el
+  árbol de Zenith con «Water Ball», se agacha avergonzada y Zenith grita
+  «¡Roxy! ¡No uses mis árboles para practicar!» ✅ (visto). Eris
+  arrastrando a Rudeus (ep. 5, 6:20) ✅.
+- **Hace gritar de emoción**: Rudeus lanza magia sin conjuro y Roxy lo
+  descubre (ep. 1, 19:00: «¿Siempre lo abrevias así?») ✅.
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+YouTube no dejó ver vistas ni duración: todo esto es **título, canal y
+enlace** por buscador ⚠️.
+
+### Covers de openings en español
+- «spiral» (OP T2), versión completa de **Dianilis97 ft. Edgardo Artieda**
+  ([YouTube](https://www.youtube.com/watch?v=y8o-Kgx7gEk)).
+- «spiral», de **André - A! y Dianilis97** ([YouTube](https://www.youtube.com/watch?v=V8syczJILts)).
+- «On the Front Line», de **André - A!** ([YouTube](https://www.youtube.com/watch?v=0wWOARBTAGg))
+  y de **ChemyNoSurfea** ([YouTube](https://www.youtube.com/watch?v=PIfq_SptdrQ)).
+- Medley de la T3 en español ([YouTube](https://www.youtube.com/watch?v=tljpwkl-iOw)).
+
+### Fandubs en latino
+- «Mushoku Tensei Cap 1 en ESPAÑOL LATINO (Escenas)», canal **Nova
+  Senpai** ([YouTube](https://www.youtube.com/watch?v=uqKBBq-E9Is)).
+- «Mushoku Tensei FANDUB LATINO CAP 5» ([YouTube](https://www.youtube.com/watch?v=EAAogXF0iAU)).
+
+### TikTok hispano
+- «Escenas para el episodio 18 de Mushoku Tensei, no quiero llorar» y «La
+  escena que marcó la temporada 2» (§12) ✅.
+
+**Memes y parodias hispanas**: no se encontraron con enlace propio ⚠️.
+«Orstedingus» salió una vez sin fuente y no se usa.
+
+**Para el servidor**: el ep. 1 tiene justo lo que se practica en
+doblaje: **un personaje con dos voces** (niño y adulto) y una clase con
+examen final.
+
+---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+### Colaboraciones con otros juegos (arte y ropa nuevos; no canon)
+- **KonoSuba** × el juego móvil de Mushoku, desde el 15-sep-2021
+  ([QooApp](https://news.qoo-app.com/en/post/74091/qoo-news-mushoku-tensei-x-konosuba-collaboration-begins-september-15)) ✅.
+- **KonoSuba: Fantastic Days**, 20-ene a 10-feb-2023, con Roxy y Eris
+  ([Anime Corner](https://animecorner.me/konosuba-fantastic-days-collabs-with-mushoku-tensei/)) ✅.
+- **The Seven Deadly Sins: Grand Cross**, abril-mayo de 2023, trajes
+  nuevos de Rudeus, Eris, Roxy y Ghislaine
+  ([QooApp](https://news.qoo-app.com/en/post/164825/7ds-grand-cross-x-mushoku-tensei)) ✅.
+- **#Compass** (2023), Roxy jugable ([QooApp](https://news.qoo-app.com/en/post/170811/compass-x-mushoku-tensei-collab)) ✅.
+- **Valkyrie Connect** (2024), los cuatro con voces nuevas
+  ([Pocket Gamer](https://www.pocketgamer.com/valkyrie-connect/mushoku-tensei-crossover/)) ✅.
+- **Summons Board**, segunda colaboración ([QooApp](https://news.qoo-app.com/en/post/176826/summons-board-mushoku-tensei)) ✅.
+- **5.º aniversario** (ene-2026): acrílicos, llaveros y tapices con arte
+  nuevo en Kadokawa Store; especial en ABEMA el 10-ene
+  ([Final Weapon](https://finalweapon.net/2025/12/23/mushoku-tensei-jobless-reincarnation-anime-5th-anniversary-celebrations/)) ⚠️.
+- **Café temático**: no encontrado ⚠️.
+
+### Figuras oficiales (pose en 3D real)
+- **Nendoroid Roxy** ([Good Smile](https://www.goodsmile.info/en/product/11959/Nendoroid+Roxy+Migurdia.html)) ✅.
+- **Nendoroid Sylphiette**, 22-ago-2023: tres caras (sonriente, alegre,
+  llorando), vara y **libro de hechizos**, unos 100 mm
+  ([Good Smile](https://www.goodsmile.com/en/product/11676)) ✅.
+- **Nendoroid Eris** ([Amazon](https://www.amazon.com/Good-Smile-Mushoku-Tensei-Reincarnation/dp/B08WC97N94)) ✅.
+- Figura de Eris de **Kotobukiya** (unboxing en Internet Archive, §12) ⚠️.
+- Tiendas oficiales: [Crunchyroll Store](https://store.crunchyroll.com/collections/mushoku-tensei-jobless-reincarnation)
+  y [Merchoid](https://merchoid.com/brand/mushoku-tensei) ✅.
+
+### Cosplay
+- Tutorial de costura del traje de Roxy ([YouTube](https://www.youtube.com/watch?v=8NWApFtY5kI)) ⚠️.
+- Plano del **báculo de Roxy** en PDF, recomienda **foam HD**
+  ([Etsy](https://www.etsy.com/listing/4316123811/roxys-staff-from-mushoku-tensei-jobless)) ✅.
+- Tutorial del báculo ([YouTube](https://www.youtube.com/watch?v=Uxl80ks1qp0)) ⚠️.
+- Concurso oficial de cosplay: no encontrado ⚠️.
+
+---
+
+## 25 · Obras parecidas y láminas vecinas
+
+- **Recomendadas por usuarios** ([AniList](https://anilist.co/anime/108465)):
+  *Slime* (460 votos), *Shield Hero* (309), *The World's Finest Assassin*
+  (299), *Re:ZERO* (284), *The Eminence in Shadow* (184), *The Beginning
+  After the End* (167), *Ascendance of a Bookworm* (140), *Frieren* (112),
+  *Grimgar* (110), *Overlord* (72) ✅.
+- **Influencias del autor**, Rifujin na Magonote: descubrir *Re:Monster*
+  en una librería le animó a publicar
+  ([Animated Times](https://animatedtimes.com/it-all-began-when-i-discovered-a-book-called-mushoku-tensei-has-a-very-unlikely-inspiration-according-to-author/)) ✅.
+  RPG de los 80 a los 2000 (Dragon Quest, Final Fantasy, Legend of Mana,
+  Ragnarok Online) y *Rance* ([Anime Corner](https://animecorner.me/works-that-inspired-the-author-of-mushoku-tensei/)) ✅.
+  *Re:Zero* en el final; *Isekai Meikyuu de Harem wo*, *Mashou*, *Heal
+  Saikou* ⚠️.
+- **Láminas vecinas del servidor**: **Frieren (33)** es fantasía con
+  magia y elfa, tono contemplativo pastel, y usa #recursos, #poemas y
+  #eventos. **Solo Leveling (03)** usa ventanas holográficas de sistema.
+  Aquí se evita las dos cosas: ni HUD azul ni pastel lavado. My Hero
+  Academia (25) pide #material-de-clase. Los isekai 82-86 (Shield Hero,
+  Overlord, No Game No Life, SAO, Tanya) están pendientes: que no copien
+  la caja de hiedra.
+
+---
+
+## 26 · El mundo, la magia, la historia por arcos y sus símbolos
+
+### Las reglas en cinco líneas
+1. El **Mundo de Seis Caras** es un dado: seis mundos pegados (Dragón,
+   Demonio, Bestia, Océano, Cielo, Humano) y uno vacío en el centro
+   ([wiki](https://mushokutensei.fandom.com/wiki/Six-Faced_World)) ✅.
+2. La **magia** usa **maná**, que todo ser nace teniendo. Se hace con
+   **conjuros** o **círculos mágicos** ([wiki](https://mushokutensei.fandom.com/wiki/Magic)) ✅.
+3. Tres tipos: **ataque, curación e invocación**. Los hechizos van por
+   **rangos**: Elemental → Intermedio → Avanzado → Santo → Rey → Emperador
+   ([wiki](https://mushokutensei.fandom.com/wiki/Magic_Spells)) y, según
+   Roxy en el ep. 1 (17:00), también **Dios** (siete rangos) ⚠️.
+4. Rudeus descubre que **el maná crece si se usa** y que se puede lanzar
+   **sin conjuro** (ep. 1, 10:00): eso lo hace especial.
+5. Hay razas (elfos, enanos, bestias, dragones, demonios, **migurd** como
+   Roxy, **superd** como Ruijerd) y prejuicios entre ellas
+   ([wiki](https://mushokutensei.fandom.com/wiki/Migurd)) ✅.
+
+### La historia por arcos ([wiki](https://mushokutensei.fandom.com/wiki/Story_Arcs))
+- **Infancia**: nace; Roxy le enseña; hace amistad con Sylphiette; es
+  tutor de Eris en Roa. **El Incidente de Teletransporte** lo lanza al
+  Continente Demoníaco.
+- **Viaje**: con Eris y Ruijerd forma «Dead End» y vuelve a casa. Paul
+  busca a la familia dispersa. Eris lo deja para entrenar.
+- **Adolescencia**: Rudeus, deprimido, llega a la **Universidad de
+  Ranoa**; descubre que Fitz es Sylphiette (ep. 37) y se casa. El
+  **Laberinto**: rescatan a Zenith y muere Paul (ep. 46). Roxy será su segunda esposa.
+- **Subordinado del Dios Dragón**: se alía con Orsted contra Hitogami.
+- **Batalla Final** y **Conclusión**.
+
+Las **Guerras Humano-Demonio**: las dos primeras con la emperatriz
+Kishirika; la tercera, la **Guerra de Laplace** ✅.
+
+### Símbolos y objetos que un fan reconoce
+- **Escudo del Reino de Asura**: dos unicornios que sostienen una corona
+  sobre una espada **envuelta en hiedra**, espigas de trigo y una cinta ✅.
+- La **familia Greyrat**: cuatro casas con su emblema, **Notos, Boreas,
+  Euros y Zephyrus** ([wiki](https://mushokutensei.fandom.com/wiki/Greyrat_Family)) ✅.
+- **Monumentos de los Siete Grandes Poderes**: piedras con un «7» tallado
+  y los símbolos de cada poder, que cambian solos
+  ([wiki](https://mushokutensei.fandom.com/wiki/Seven_Great_Powers)) ✅.
+- **Mural del Mundo de Seis Caras** (T3 ep. 13): losa hexagonal, figura
+  con brazos abiertos, seis círculos y **runas inventadas** ✅.
+- **El báculo y el sombrero de Roxy**, el **manual de magia** de Rudeus,
+  la **túnica gris**, las **gafas de Fitz**.
+- **Vocabulario**: Hitogami (Hombre Dios), Orsted, Factor Laplace
+  ([wiki](https://mushokutensei.fandom.com/wiki/Laplace_Factor)), Dead
+  End, Gremio de Aventureros, estilos de espada del Dios del Agua y del
+  Dios del Norte ([wiki](https://mushokutensei.fandom.com/wiki/Classes)),
+  Incidente de Teletransporte, Water Ball.
+
+---
+
+## 27 · Tres conceptos de lámina
+
+Los tres son distintos: interior cálido con un libro, exterior de día con
+un tablón, aula de noche con una pizarra. Cada uno con un personaje
+distinto. La caja de diálogo es siempre la de *Quest of Memories* (§7):
+pestaña ovalada de bronce con el nombre en **Cinzel**, panel oscuro con
+relieve de hiedra y texto blanco en **PT Serif**.
+
+### A · «El manual de magia» → #material-de-clase (recomendada)
+
+- **Objeto y sitio**: el **manual de magia** de Rudeus (su libro favorito,
+  ep. 1, 8:00), abierto sobre la **mesa de estudio de madera** de la casa
+  Greyrat en Buena Village. Se hace en **Blender**: libro con páginas
+  curvas de pergamino (ambientCG Paper005), la tinta sigue la curva. Al
+  lado, el **báculo de Roxy** (modelo CC BY de §4) y un tintero.
+- **Personaje**: **Roxy**, la más querida. Sentada a la mesa, espalda
+  recta, explicando con una mano sobre la página (ep. 2, 2:48 y 4:00, ojos
+  cerrados). Referencia de ropa y cara: `modelo_01` n.º 216 (S1) y el
+  fotograma 101 de `personajes_01` (Roxy con un libro abierto).
+- **Cómo habla**: caja del juego con «Roxy» en la pestaña. En su voz:
+  órdenes cortas y una prueba al final.
+- **Dónde va cada texto**:
+  - Página izquierda, como título a pluma: «Material de clase».
+  - Página derecha, en tres líneas numeradas como un manual: «Un hilo por
+    tema o por alumno», «Sube la clase y los ejercicios», «Etiqueta si es
+    de doblaje o de canto».
+  - Caja de Roxy: «Obsérvalo bien, memorízalo y hazlo luego. Ese es tu
+    ejercicio.»
+  - Las **etiquetas** van como **cintas de marcapáginas** que salen del
+    libro, una por etiqueta (Doblaje, Canto, Locución, Edición, Grabación
+    de la clase, Ejercicio, Material de apoyo, Para principiantes, Nivel
+    medio). Si no caben: **lámina 2**, «el escalafón de la magia», con los
+    rangos de §26 como niveles (Elemental = Para principiantes,
+    Intermedio = Nivel medio).
+- **Que no quede plano**: luz de **ventana lateral** cálida más una **vela**
+  en la mesa (paleta interior `#1E1412`, `#847469`, `#D5C8BE`). El
+  **sombrero de Roxy** apoyado en primer plano, desenfocado. Detrás, por
+  la ventana, el campo de Buena (`#CED692`).
+
+### B · «El tablón del Gremio» → #reto-de-la-semana
+
+- **Objeto y sitio**: un **tablón de misiones** de madera con hojas de
+  pergamino clavadas, en la sede del **Gremio de Aventureros** de
+  Millishion (catedral blanca, `fondos_01` n.º 1). En **Blender**: tablón,
+  clavos, papeles que se curvan. ⚠️ No se encontró un plano cerrado del
+  tablón real con letra legible: se construye con la fachada vista y
+  texturas de madera y papel (§5).
+- **Personaje**: **Eris**, la más dibujada. **Puño en alto**, boca
+  abierta, cuerpo hacia delante (ep. 5, 6:30). Ropa: la de la T3
+  (`modelo_01` n.º 214) o la de niña (n.º 219) si se quiere el tono de la
+  T1. Espadas a la cintura.
+- **Cómo habla**: caja del juego con «Eris». En su voz: preguntas
+  encadenadas y un grito.
+- **Dónde va cada texto**:
+  - Cartel tallado sobre el tablón: «Reto de la semana».
+  - La hoja grande del centro, la misión de la semana: «Una línea. Una
+    escena. Un tono.»
+  - Hoja pequeña: «Se entrega dentro del hilo del reto.»
+  - Hoja pequeña: «No se gana nada. Se graba.»
+  - Caja de Eris: «¿Qué? ¿Tienes miedo? ¡Grábalo ya!»
+  - Etiquetas como **sellos de cera** en las hojas: Reto activo (rojo),
+    Cerrado (tachado), Doblaje, Canto, Locución, Para empezar, Con trampa,
+    Libre.
+  - Guiño para el hilo «La misma frase, tres edades»: Rudeus tiene dos
+    voces, niño y adulto (§10).
+- **Que no quede plano**: **luz de día muy clara** de Millishion
+  (`#E3E2E2`, `#307CC4`) entrando de lado; Eris **delante** del tablón con
+  el puño que sale del marco; un **mostrador** del Gremio en primer plano,
+  desenfocado.
+
+### C · «La pizarra del aula» → #dudas
+
+- **Objeto y sitio**: la **pizarra escrita a tiza** de un aula de la
+  **Universidad de Ranoa** (`personajes_01` n.º 137 y aula del n.º 136),
+  de noche. En **Blender**: pizarra con marco de madera, tiza que sigue el
+  grano, una **lámpara mágica** rosa como la del n.º 137.
+- **Personaje**: **Sylphiette** con el uniforme de Ranoa, pelo blanco,
+  guantes blancos (`modelo_01` n.º 209). Pose de duda tímida: hombros
+  encogidos, mirada de lado (ep. 3, 5:30), una mano con la tiza a medio
+  levantar. Alternativa: el disfraz de Fitz (`modelo_01` n.º 207).
+- **Cómo habla**: caja del juego con «Sylphiette». Su voz: empieza con
+  «Oye», pregunta bajito.
+- **Dónde va cada texto**:
+  - Arriba en la pizarra, grande: «Dudas».
+  - Debajo, a tiza: «Pregunta sin miedo.» «Un hilo por duda.»
+  - Caja de Sylphiette: «Oye… por tonta que te parezca, pregúntala.»
+  - A un lado, una **lista a tiza** con las etiquetas: Doblaje, Canto,
+    Locución, Edición, Del programa, Del micro.
+  - Dos marcas a tiza: una **✓** para «Resuelta» y un **?** para «Sigue
+    abierta».
+- **Que no quede plano**: **noche azul** de Ranoa por la ventana
+  (`#18243E`, `#2C3B5D`) contra la luz rosa de la lámpara; polvo de tiza
+  en el aire; un **pupitre** en primer plano desenfocado.
+
+---
+
+## 28 · Lo que no pude verificar, y lo que choca entre partes
+
+### Lo que choca
+- **Rangos de magia**: Roxy dice **siete** en el ep. 1 (17:00, doblaje
+  inglés, hasta «Dios»); la tabla de la wiki tiene **seis**, hasta
+  Emperador ⚠️.
+- **Primera aparición de Roxy**: la ficha del ep. 1 la muestra llegando a
+  las 16:00; la parte de vídeo ubica en el ep. 2, 2:48 una escena de
+  «presentarse como maestra». Puede ser una clase más, no la presentación ⚠️.
+- **Ropa de Roxy**: en el ep. 1 lleva capa de viaje; la parte de vídeo
+  habla de «uniforme de la S2» en el ep. 2, que es de la T1 ⚠️.
+- **Openings de la T1**: la parte de vídeo cuenta seis variantes de la
+  misma canción (wiki); la de texto, cinco (Wikipedia) ⚠️.
+- **Numeración**: la parte de vídeo mezcla números globales y por
+  temporada (OP7 desde el «ep. 25», OP8 desde el «ep. 18», ED3 en el ep.
+  24) ⚠️. El opening T2 mirado quizá sea el OP6 ⚠️.
+- **Ojos de Sylphiette**: rojos (wiki), rosados (vídeo) ⚠️. Su pelo en el
+  arte de la T3 se ve algo verdoso ⚠️.
+- **Altura de Rudeus**: 175 cm (AniList) o 169 cm (wiki, de joven) ⚠️.
+- **Licencia del báculo 3D**: CC BY, no CC0 como dice un resumen ⚠️.
+- **Cómo muere**: AniList dice que lo atropella un autobús; en el ep. 1 él
+  dice un camión (doblaje inglés) ⚠️.
+- **Elinalise**: Dayana Trujillo o Dayana Santiaguillo ⚠️.
+
+### Lo que no se encontró (con las búsquedas en cada parte)
+- La web oficial japonesa (403, sin Wayback).
+- Clips oficiales doblados al latino (YouTube pide iniciar sesión).
+- Minuto, música y luz de la muerte de Paul y del reencuentro con
+  Sylphiette.
+- 9 de 20 caras por emoción (§8).
+- Globo de grito, pensamiento y onomatopeyas del manga; letra de créditos.
+- Programa de dibujo del estudio.
+- Encuesta oficial de popularidad.
+- Vistas de covers y fandubs.
+- Tablón del Gremio con texto legible.
+- Café temático y concurso oficial de cosplay.
+- Modelo 3D libre de Eris.
+- Fuentes en **coreano**, **TV Tropes**, **TCRF** (Cloudflare) y
+  **repositorios de GitHub** de la serie.
+
+---
