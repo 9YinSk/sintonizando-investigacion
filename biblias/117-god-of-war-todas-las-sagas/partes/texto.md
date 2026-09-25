@@ -54,7 +54,26 @@ Es una libreta de datos: un dato por línea, con fuente, ✅ (dos fuentes) o ⚠
 <a name="punto-6"></a>
 ## Punto 6 — Cuadros de diálogo, cartelas e interfaces
 
-(pendiente)
+**God of War no tiene manga**: su «cuadro de diálogo» real es la interfaz del propio juego (subtítulos/HUD) y, como excepción, el cómic oficial de Dark Horse. No hay burbuja blanca genérica en ninguno de los dos.
+
+### 6.1 El cómic oficial (Dark Horse, 2018-2019) — su «globo» si hiciera falta uno tipo papel
+- Miniserie de **4 números**, guion de Chris Roberson, dibujo de Tony Parker, color de Dan Jackson, publicada nov. 2018 - feb. 2019, precuela/paralela al juego de 2018. ✅ [Dark Horse Digital](https://digital.darkhorse.com/series/897/god-of-war), [Fandom: God of War (Dark Horse Comics)](https://godofwar.fandom.com/wiki/God_of_War_(Dark_Horse_Comics)).
+- **Detalle único de rotulación**: cuando hablan personajes nórdicos, sus globos muestran **runas de verdad** en vez de letras latinas. El lector puede ir cruzando los globos con las traducciones que hace Atreus en la propia escena y comprobar que **las runas dibujadas corresponden letra a letra** a lo que se está diciendo. ✅ [reseña con este análisis, Trophy Unlocked](https://trophyunlocked.blogspot.com/2024/03/god-of-war-dark-horse-comic.html) — ⚠️ una sola fuente que lo detalla así; no vi las páginas originales.
+- **Qué NO hacer**: un globo con letras latinas para un personaje nórdico que «no debería» hablar en el idioma del lector — la gracia del cómic es justo lo contrario.
+
+### 6.2 Subtítulos e interfaz en juego (la caja real de God of War, confirmada por el estudio)
+- **Sin caja de fondo**: los subtítulos de Ragnarök (y del reboot de 2018, misma familia visual) son **texto flotante abajo en el centro/izquierda**, sin panel ni recuadro que lo separe de la imagen — encaja con la filosofía "cinemática, sin cortes" del juego (ver punto 18). La tipografía de cuerpo es **Gill Sans WGL**, la de nombre/encabezado **Berserker** (ver punto 5.2). ✅ confirmado por Zach Bohn (Santa Monica Studio) en GDC 2023, vía [80.lv](https://80.lv/articles/a-deep-dive-into-god-of-war-ragnar-k-s-user-interface).
+- **HUD de combate** (esquina inferior izquierda): salud, ira (Spartan Rage) y habilidades rúnicas equipadas. **HUD de compañero**: el resto de indicadores relacionados con Atreus/el compañero de turno (Freya, Mimir…). Un **gestor de colas de mensajes** limita a **un solo aviso en pantalla a la vez** para no saturar (cita textual de Bohn: «only allow for one message at a time»). Un archivo aparte gestiona hasta **tres barras de jefe simultáneas**. ✅ misma fuente (80.lv/GDC).
+- **Modo Inmersivo** (God of War 2018): activable desde el touchpad de PS4, **oculta todo el HUD** (barra de salud, brújula, indicador de enemigos fuera de pantalla) para dejar la imagen limpia; el jugador puede reactivar sólo lo que quiera. Encaja con la cámara en plano secuencia sin cortes: el estudio quería que la interfaz «desapareciera» cuando no hacía falta. ✅ [Variety: 'God of War' HUD-Free 'Immersive Mode' Explained](https://variety.com/2018/gaming/news/god-of-war-hud-1202750307/) (vía búsqueda; el artículo original de Variety redirige a una versión de pago, cito el titular y resumen del buscador) ⚠️ no leí el cuerpo completo del artículo.
+- **El Codex (diario de Atreus)**: libreta que Atreus lleva y en la que **anota bestiario y lore** de las criaturas y sitios que él y Kratos encuentran; se actualiza sola a medida que se avanza. Tiene bocetos a mano dibujados «por Atreus» junto a cada entrada (ilustración estilo boceto de cuaderno, no arte pulido). Existe en God of War (2018) y Ragnarök. ✅ [Fandom: Codex](https://godofwar.fandom.com/wiki/Codex) (vía API — la web normal da 402 como Doblaje Wiki).
+- El Codex muestra en una imagen concreta **«Runes shown in Atreus' journal»**: las páginas incluyen el alfabeto rúnico que Atreus va aprendiendo a leer con Mimir, ligando la mecánica de progresión de la historia (Atreus no sabe leer runas al principio) con la propia interfaz. ✅ misma fuente.
+- **Barras de jefe / salud de enemigo**: gestionadas para mostrar hasta 3 a la vez sin que se amontonen. ⚠️ no comprobé el color exacto (no tengo una captura con HUD activo; las capturas de Steam de `datos-texto.md` son tomas de marketing sin HUD).
+- **Sistema de runas de habilidad (Runic Attacks)**: los ataques mágicos de las armas (hacha Leviatán, Blades of Chaos, lanza) se llaman **ataques rúnicos** y se representan con **símbolos rúnicos propios** en los botones de habilidad — coherente con toda la simbología nórdica de la interfaz. ⚠️ de memoria/resumen de guías, no medí una captura.
+
+### 6.3 Qué NO hacer
+- Una burbuja de cómic clásica (óvalo blanco con cola) para el diálogo del juego: God of War usa subtítulo flotante sin caja.
+- Poner el Codex como un menú pulido de datos: es un **cuaderno con bocetos a mano** de Atreus, no una ficha de base de datos fría.
+- Mezclar las runas nórdicas con caracteres latinos decorativos: el juego (y el cómic) usan el alfabeto rúnico real (ver 5.3) para todo lo que es "escritura del mundo", reservando el latino sólo para la interfaz jugable en el idioma del usuario.
 
 ---
 
