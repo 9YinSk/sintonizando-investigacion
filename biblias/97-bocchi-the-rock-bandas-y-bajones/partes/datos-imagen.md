@@ -4,13 +4,93 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/130003_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-HTDmeL4RGeJ4.png
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/130003-5F90a7BtsPQN.jpg
+
+## Bocchi the Talk!: las imágenes más grandes de la wiki (12 en total)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Talk%21_
+
+- 1280×720 · Bocchi the Talk 9.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/2/27/Bocchi_the_Talk_9.png
+- 1280×720 · Bocchi the Talk 8.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/f/f0/Bocchi_the_Talk_8.png
+- 1280×720 · Bocchi the Talk 7.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/7/74/Bocchi_the_Talk_7.png
+- 1280×720 · Bocchi the Talk 6.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/3/36/Bocchi_the_Talk_6.png
+- 1280×720 · Bocchi the Talk 5.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/a/a7/Bocchi_the_Talk_5.png
+- 1280×720 · Bocchi the Talk 4.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/c/c2/Bocchi_the_Talk_4.png
+- 1280×720 · Bocchi the Talk 3.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/b/bd/Bocchi_the_Talk_3.png
+- 1280×720 · Bocchi the Talk 2.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/2/29/Bocchi_the_Talk_2.png
+- 1280×720 · Bocchi the Talk 12.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/8/86/Bocchi_the_Talk_12.png
+- 1280×720 · Bocchi the Talk 11.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/2/2b/Bocchi_the_Talk_11.png
+
+## Ikuyo Kita: las imágenes más grandes de la wiki (97 en total)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Ikuyo_Kita_
+
+- 4512×6511 · Ikuyo Kita Model Sheet 3.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/f/f6/Ikuyo_Kita_Model_Sheet_3.png
+- 4456×6443 · Ikuyo Kita Model Sheet 1.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/4/46/Ikuyo_Kita_Model_Sheet_1.png
+- 4369×6531 · Ikuyo Kita Model Sheet 2.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/4/49/Ikuyo_Kita_Model_Sheet_2.png
+- 2894×3280 · EP04 Script Cover.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/1/13/EP04_Script_Cover.png
+- 2554×3605 · Bocchi the Rock! Anime Main Key Visual.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/4/44/Bocchi_the_Rock%21_Anime_Main_Key_Visual.png
+- 2858×3214 · Bocchi the Rock! Anime Countdown Illustration 1.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/e/ee/Bocchi_the_Rock%21_Anime_Countdown_Illustration_1.png
+- 2842×3206 · Bocchi the Rock! Anime Countdown Illustration 2.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/9/90/Bocchi_the_Rock%21_Anime_Countdown_Illustration_2.png
+- 2712×2712 · Distortion!! Digital Cover (ANXX-01128).png · https://static.wikia.nocookie.net/bocchi-the-rock/images/3/35/Distortion%21%21_Digital_Cover_%28ANXX-01128%29.png
+- 2682×2682 · Seiza ni Naretara Digital Cover (ANXX-01157).png · https://static.wikia.nocookie.net/bocchi-the-rock/images/b/b0/Seiza_ni_Naretara_Digital_Cover_%28ANXX-01157%29.png
+- 2420×2720 · Bocchi the Rock! Anime Countdown Illustration 3.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/f/fb/Bocchi_the_Rock%21_Anime_Countdown_Illustration_3.png
+
+## Ikuyo Kita · Appearance (texto de la wiki)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Ikuyo_Kita#Appearance_
+
+Kita has red hair with grown-out bangs and bright Chartreuse eyes. In her uniform, she wears a white chocolate sailor uniform with long sleeves, six yellow buttons at the side and red ribbon ties, a short gray pleated skirt, white socks, and maroon shoes.
+
+## Nijika Ijichi: las imágenes más grandes de la wiki (103 en total)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi_
+
+- 4456×6523 · Nijika Ijichi Model Sheet 3.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/a/a5/Nijika_Ijichi_Model_Sheet_3.png
+- 4411×6532 · Nijika Ijichi Model Sheet 2.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/2/22/Nijika_Ijichi_Model_Sheet_2.png
+- 4419×6433 · Nijika Ijichi Model Sheet 1.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/0/00/Nijika_Ijichi_Model_Sheet_1.png
+- 2894×3306 · EP02 Script Cover.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/4/43/EP02_Script_Cover.png
+- 2554×3605 · Bocchi the Rock! Anime Main Key Visual.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/4/44/Bocchi_the_Rock%21_Anime_Main_Key_Visual.png
+- 2858×3214 · Bocchi the Rock! Anime Countdown Illustration 1.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/e/ee/Bocchi_the_Rock%21_Anime_Countdown_Illustration_1.png
+- 2849×3214 · Bocchi the Rock! Anime Countdown Illustration 6.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/2/20/Bocchi_the_Rock%21_Anime_Countdown_Illustration_6.png
+- 3000×3000 · Nani ga Warui Digital Cover (ANXX-01135).png · https://static.wikia.nocookie.net/bocchi-the-rock/images/a/a0/Nani_ga_Warui_Digital_Cover_%28ANXX-01135%29.png
+- 2758×2758 · Wasurete Yaranai Digital Cover (ANXX-01155).png · https://static.wikia.nocookie.net/bocchi-the-rock/images/a/ac/Wasurete_Yaranai_Digital_Cover_%28ANXX-01155%29.png
+- 2420×2720 · Bocchi the Rock! Anime Countdown Illustration 3.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/f/fb/Bocchi_the_Rock%21_Anime_Countdown_Illustration_3.png
+
+## Nijika Ijichi · Appearance (texto de la wiki)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi#Appearance_
+
+Nijika has long blonde hair with a floating, triangular ahoge worn in a side ponytail and vermilion eyes. In her uniform, she wears a white long-sleeve uniform with a tucked skirt and red ribbon with big polka dots, a dark blue pleated skirt, white socks, and red sneakers with white laces.
+
+## Ryo Yamada: las imágenes más grandes de la wiki (99 en total)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Ryo_Yamada_
+
+- 4462×6603 · Ryo Yamada Model Sheet 1.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/9/9f/Ryo_Yamada_Model_Sheet_1.png
+- 4459×6526 · Ryo Yamada Model Sheet 2.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/d/dd/Ryo_Yamada_Model_Sheet_2.png
+- 4461×6474 · Ryo Yamada Model Sheet 3.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/b/b3/Ryo_Yamada_Model_Sheet_3.png
+- 2894×3278 · EP03 Script Cover.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/2/29/EP03_Script_Cover.png
+- 2554×3605 · Bocchi the Rock! Anime Main Key Visual.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/4/44/Bocchi_the_Rock%21_Anime_Main_Key_Visual.png
+- 2858×3214 · Bocchi the Rock! Anime Countdown Illustration 1.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/e/ee/Bocchi_the_Rock%21_Anime_Countdown_Illustration_1.png
+- 2852×3213 · Bocchi the Rock! Anime Countdown Illustration 4.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/2/21/Bocchi_the_Rock%21_Anime_Countdown_Illustration_4.png
+- 2790×2790 · Karakara Digital Cover (ANXX-01131).png · https://static.wikia.nocookie.net/bocchi-the-rock/images/7/72/Karakara_Digital_Cover_%28ANXX-01131%29.png
+- 2628×2628 · Ano Band Digital Cover (ANXX-01134).png · https://static.wikia.nocookie.net/bocchi-the-rock/images/9/94/Ano_Band_Digital_Cover_%28ANXX-01134%29.png
+- 2420×2720 · Bocchi the Rock! Anime Countdown Illustration 3.png · https://static.wikia.nocookie.net/bocchi-the-rock/images/f/fb/Bocchi_the_Rock%21_Anime_Countdown_Illustration_3.png
+
+## Ryo Yamada · Appearance (texto de la wiki)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Ryo_Yamada#Appearance_
+
+Ryo has short blue hair with two black square hair clips on the right side of her bangs and light golden chartreuse eyes, with a mole on her left cheek. Ryo's uniform consists of a collared white shirt worn with a black ribbon, a dark blue pleated skirt, black leggings, maroon or brown loafers, and a matching long sleeved sweater. This outfit is similar to most Japanese high school uniforms (seifuku).
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de bocchi-the-rock.fandom.com (4 páginas y sus galerías)…
+  173 imágenes enlazadas, 166 grandes → 4 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/bocchi-the-rock-bandas-y-bajones
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

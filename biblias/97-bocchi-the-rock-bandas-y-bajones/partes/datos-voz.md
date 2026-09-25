@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/130003_
@@ -159,6 +159,21 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Bocchi_the_Rock%21#Datos%20de%20inte
 - En el episodio 6, cuando Kikuri le habla a Hitori dirigíendose a una estatua, esta le dice "¿Me estás oyendo, inutil?", haciendo referencia a una de las frases icónicas de la cantante mexicana Paquita la del Barrio. Más adelante, cuando Kikuri presenta a Hitori en el concierto callejero que pretenden dar, esta lo hace diciendo que presentarán "una canción original de kessoku band... o Queso…
 - En el episodio 8, cuando Ryo recuerda cuando Kikuri le pisó la cara en uno de sus conciertos, en dicho recuerdo se escucha a Kikuri decir las frases "¡Gracias totales!" y "¡Y qué viva el rocanrol, hijos de...!", haciendo referencia a las frases icónicas del cantante argentino Gustavo Cerati y el mexicano Alex Lora, respectivamente. En esa misma escena, cuando las chicas observan que Hitori está…
 - En el episodio 11, cuando Nijika y Ryo aceptan ayudar como sirvientas al grupo de Hitori, dos de sus compañeras les dicen "Nos salvaron, estamos agradecidas", haciendo referencia a la frase "Nos han salvado, estamos agradecidos" dicha por unos marcianitos en Toy Story 2.
+
+## Ikuyo Kita · Personality (texto de la wiki)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Ikuyo_Kita#Personality_
+
+Kita is a and one of those , who is sociable and has many friends, as if she calls herself "I love to interact with people", and actively uses . She has good motor skills and can study safely, but she also thinks she is a mediocre person with no special excellence compared to Ryo. She hates her first name and would strongly prefers to be called by her last name. Her name actually sounds the same as and . While living a daily life that felt fun but mediocre, when she saw Ryo at a concert performance on the street of the band she used to belong to, she admired her, saying, "I'm jealous of walking on an unusual road." Although she applied as a guitarist to add to the initial members of Kessoku Band, she escaped from the band just before her first concert because she couldn't play the guitar. She later reconciled herself by reuniting with Ryo and revealing her truth. When Hitori persuaded…
+
+## Nijika Ijichi · Personality (texto de la wiki)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Nijika_Ijichi#Personality_
+
+Nijika is primarily a very kind, sweet, altruistic and friendly girl. She is outgoing, though not as extremely extroverted as Kita. She's naturally very accommodating and makes others feel at ease. She was exposed to band culture at an early age due to the influence of her older sister, Seika, who was once in a band and is now the manager of a live house, and is familiar with the music industry . Nijika is selfless by nature and does her best to support others. Indeed, not only does she work at "STARRY" out of gratitude towards her older sister, but she also holds the group together and alongside Kita, helps Hitori overcome her social anxiety. She also makes an effort to keep her best friend, Ryo Yamada in check whenever she's up to no good. Indeed, despite her kindness, Nijika can be a bit of a tsundere towards her sister due to her stern attitude, and also towards Ryo and Kikuri, who…
+
+## Ryo Yamada · Personality (texto de la wiki)
+_Fuente: https://bocchi-the-rock.fandom.com/wiki/Ryo_Yamada#Personality_
+
+Despite her expressionless exterior, Ryo is an eccentric girl with a mischievous sense of humor, coming across as a person who likes to mess with others. She's fairly tactless and is happy to be called a weirdo. She is quiet and has few friends, but unlike Bocchi, prefers to spend time alone. She has a tendency to make up excuses to get out of social activities, but Nijika sees through them every time. Despite her reserved nature, Ryo enjoys showing off her bass playing skills whenever possible. Ryo has encyclopedic knowledge about her interests and becomes very talkative about them when given the opportunity. Ryo is shown to be an inconsistent student and temporarily forgets her musical knowledge when she studies for upcoming exams. She also has very strong opinions on how bands should present themselves, and encourages Bocchi to write genuine lyrics for Kessoku Band's material.…
 
 ## Los personajes más dibujados por los fans (Danbooru, 31963 dibujos de «bocchi_the_rock!»)
 _Fuente: https://danbooru.donmai.us/posts?tags=bocchi_the_rock%21_
