@@ -199,3 +199,711 @@ Datos que no chocan pero cambian según la fecha o la fuente:
 - Idiomas de los subtítulos de HB2: **26** (3DJuegos, TechRaptor) o «más de 20»
   (LEVEL UP).
 
+## Punto 1 · Arte oficial, en cantidad y variado (y las 3 hojas)
+
+### 1.1 Portadas, key art y logos (tamaños medidos)
+- **Key art vertical de *Hellblade II*** · 2732×4096 · Senua con las manos en
+  la cara · [original](https://static.wikia.nocookie.net/hellblade-nt/images/d/d7/Hellblade_II.jpg) ·
+  ✅ (wiki + portada de senuassaga.com) · `personajes_01` n.º 1.
+- **Retrato oficial de HB1 con runas** · 3840×2160 · la pintura azul más nítida
+  que hay · [Wallhaven](https://w.wallhaven.cc/full/vm/wallhaven-vm8gql.jpg) ·
+  ✅ oficial (sale con el logo en la captura de Steam `ss_0161d…`, §3) ·
+  `arte_01` n.º 15.
+- **Portada de *Senua's Sacrifice*** · 720×1080 ·
+  [original](https://static.wikia.nocookie.net/hellblade-nt/images/7/75/Hellblade_1_cover.png) ·
+  ✅ · `fondos_01` n.º 70.
+- **Arte de *Hellblade II Enhanced*** · 1440×2160 ·
+  [original](https://static.wikia.nocookie.net/hellblade-nt/images/6/61/Hellblade_2_Enhanced.png) ·
+  ⚠️ una fuente · `personajes_01` n.º 5.
+- **Logo rúnico de HB2** (signo blanco sobre verde oliva) · 647×679 ·
+  [original](https://static.wikia.nocookie.net/hellblade-nt/images/9/95/Hellblade_2_Runic_logo.png) ·
+  ✅ · `fondos_01` n.º 82.
+- Logos pequeños: [Senua's Sacrifice](https://static.wikia.nocookie.net/hellblade-nt/images/6/6d/Senua%27s_Sacrifce_Logo.png)
+  256×256 y [icono](https://static.wikia.nocookie.net/hellblade-nt/images/2/2c/Senua_game_logo.png)
+  192×192 ⚠️.
+
+### 1.2 Fondos oficiales en 8K (7680×4320, medidos en la cabecera JPEG)
+Galería oficial de Xbox y Ninja Theory en `senuassaga.com/media` ✅.
+
+| n.º `arte_01` | Nombre | Qué se ve | Sirve para |
+|---|---|---|---|
+| 2 | [Senua's Army](https://admin.senuassaga.com/wp-content/uploads/sites/2/2019/12/SenuaArmy_8K.jpg) | Senua al frente de una fila de guerreros, contraluz; pintura roja en la cara, boca pintada de negro | **grupo y liderazgo** (nada de personaje sola flotando) |
+| 3 | [Senua Chant](https://admin.senuassaga.com/wp-content/uploads/sites/2/2019/12/SenuaChant_8K.jpg) | primer plano gritando o cantando, dientes, rayas rojas verticales, luz de fuego | **voz**, grito, canto |
+| 4 | [Senua Fire](https://theinsightproject.azureedge.net/uploads/2020/12/SenuaFire_8K.jpg) | de perfil junto a una hoguera | **pensar**, calma |
+| 1 | [Arms](https://admin.senuassaga.com/wp-content/uploads/sites/2/2019/12/Arms_8K.jpg) | postes con trofeos de guerra colgados, niebla | fondo duro, sin personaje |
+| 5 | [Skulls](https://admin.senuassaga.com/wp-content/uploads/sites/2/2019/12/Skulls_8K.jpg) | calaveras y huesos en el barro | fondo, suelo |
+| 6 | [Volcano](https://theinsightproject.azureedge.net/uploads/2019/12/Volcano_8K-1.jpg) | Islandia con volcán humeante | **fondo de paisaje** limpio |
+
+### 1.3 Capturas oficiales de Steam (1920×1080, miradas una a una)
+*Hellblade: Senua's Sacrifice* (appid 414340, 11) y *Hellblade II* (appid
+2461850, 8), de la API `appdetails` ✅. Base de la URL:
+`https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/<appid>/ss_<código>.1920x1080.jpg`.
+
+| Código | Juego | Qué se ve (mirado por el redactor) |
+|---|---|---|
+| [`dabe17…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_dabe173084173e66bc9d493d94f2b3b951214658.1920x1080.jpg) | HB1 | **Senua de HB1 completa**: *woad* en los ojos, raya en la barbilla, tocado con piedra turquesa, cuello de lobo; mira arriba, boca entreabierta. **La mejor referencia de vestuario del 1** (`arte_01` n.º 8) |
+| [`0161d…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_0161d2915ff43136bc79ec3ae3c91c00eb2551c7.1920x1080.jpg) | HB1 | logo «HELLBLADE / SENUA'S SACRIFICE» en capitales romanas con el retrato y runas |
+| [`1b5947…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_1b594712d6bb9c5701692cb4f53d4072bd8feae0.1920x1080.jpg) | HB1 | silueta a contraluz dorado junto a un árbol con partículas (`arte_01` n.º 7) |
+| [`c873e1…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_c873e1a5f9e9218d6d3b2038b7063489879d315d.1920x1080.jpg) | HB1 | Senua de espaldas en un pantano con niebla y figuras lejanas |
+| [`6d653f…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_6d653f7215d5a60330a85c27116f07a0c5dbc670.1920x1080.jpg) | HB1 | combate contra un guerrero en llamas (`arte_01` n.º 9) |
+| [`e028a2…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_e028a26ea54438d898a574ebe73d1c633c7cc8eb.1920x1080.jpg) | HB1 | comparación «OLD / UPDATED» del parche gráfico, orilla con postes (`arte_01` n.º 10) |
+| [`f5c08e…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_f5c08e784ff587ad38d775c59ca6ad4bf6166ac9.1920x1080.jpg) | HB1 | primer plano de Senua sucia, pintura corrida, mirada de lado |
+| [`1d4bdc…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_1d4bdcff22d37c9607beda20bf2d5bb2989b55f6.1920x1080.jpg) | HB1 | Senua de espaldas ante un árbol en llamas con ofrendas colgando, agua |
+| [`3d5d94…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_3d5d9400db904c5c9a94f0b36f52e9d3dab20eb2.1920x1080.jpg) | HB1 | Senua pequeña en una cueva dorada, mano gigante en primer plano |
+| [`01a81f…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_01a81f3bd0e4e9586cdd5289449417614a1c8e5c.1920x1080.jpg) | HB1 | Senua con la espada ante una figura de plumas, azul noche |
+| [`4b1def…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_4b1defc3237b654c8baaa2161c9622eda4e38dfa.1920x1080.jpg) | HB1 | combate contra un enemigo con hacha, luz blanca |
+| [`b794c2…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_b794c2a9bcef64ff626ae726c19ceed94d15a234.1920x1080.jpg) | HB2 | Senua de espaldas ante un lago al amanecer, trenza (`arte_01` n.º 14) |
+| [`3a6935…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_3a6935dd5e7a92b21d73521d9c0ca13b88bafa7d.1920x1080.jpg) | HB2 | Senua con arma frente a un guerrero con máscara de cuernos y garrote ardiendo (`arte_01` n.º 11) |
+| [`fbb6d3…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_fbb6d36a25dd1610acc98d0e10d6c6e1cc4ee00a.1920x1080.jpg) | HB2 | Senua ante un reflejo simétrico, dos discos (`arte_01` n.º 12) |
+| [`a900f2…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_a900f22cf32635e1e3177c8954a5ddb56a8d317d.1920x1080.jpg) | HB2 | combate sobre lava y llamas; disco naranja en la cadera (`arte_01` n.º 13) |
+| [`067bf5…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_067bf57d04ccc1322184d6a33fd5284e2252a6b9.1920x1080.jpg) | HB2 | ojo azul en primer plano, mano roja borrosa delante (estilo cámara en mano) |
+| [`10c82e…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_10c82e3cc0f38c433975168679e93a91310ef466.1920x1080.jpg) | HB2 | Senua de espaldas en un valle de roca, noche azul |
+| [`fcb80f…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_fcb80f5cb3eec049b95cdfde2988f919289f9c31.1920x1080.jpg) | HB2 | sendero nocturno con postes y antorchas, figura lejana |
+| [`1428e5…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2461850/ss_1428e5fca7e9670c4f63976f5226ff4a006ba45f.1920x1080.jpg) | HB2 | Senua de espaldas en un desfiladero, torre lejana, luz dorada |
+
+### 1.4 Arte conceptual del estudio (ArtStation da 403: citado por el buscador)
+- **Marco Teixeira**: diseño de Goði y del entorno de Illtauga; «Illtauga 2»
+  finalista de la Concept Art Association 2024 ✅
+  ([ArtStation](https://www.artstation.com/artwork/49mJK8),
+  [CAA](https://www.conceptartassociation.com/2024-caa-finalists/illtauga-2-senuas-saga-hellblade-ii)).
+- **Hugues Giboire** (personaje e ilustración promocional), **Mark Molnar**
+  (conceptos y marketing), **Balazs Kalazdi** (entornos de HB2) ⚠️ una fuente
+  ([Giboire](https://www.artstation.com/artwork/e0zBNJ),
+  [Molnar](https://www.artstation.com/artwork/vVkYv),
+  [Kalazdi](https://www.artstation.com/artwork/lVeb3V)).
+- Concept art de un poblado costero de HB2 ⚠️
+  ([GamesRadar+](https://www.gamesradar.com/hellblade-2-concept-art-shows-off-a-battered-coastal-village/)).
+- **No encontré artbook** («The Art of Hellblade»): sólo un jugador lo pidió en
+  Steam en 2017 y 2021, sin respuesta (partes de imagen y voz).
+
+### 1.5 Las 3 hojas de contacto (`hojas/`), miradas número a número
+Son las del investigador de imagen; el redactor las dejó porque no hay otras
+mejores (arte oficial en 8K, Steam y 82 imágenes grandes de la wiki).
+
+**`arte_01.jpg`** (15 imágenes, oficiales y Steam)
+- 1-6: los fondos 8K oficiales (§1.2). **2** para grupo, **3** para voz,
+  **4** para calma, **6** para paisaje.
+- 7: silueta dorada junto al árbol (HB1). La única imagen cálida y luminosa.
+- 8: Senua de HB1 completa, mirando arriba. **Vestuario y cara del 1.**
+- 9: combate contra un guerrero en llamas.
+- 10: «OLD / UPDATED», orilla con postes (fondo).
+- 11: Senua frente al guerrero de cuernos (HB2).
+- 12: Senua ante su reflejo (HB2). **Para el concepto B.**
+- 13: combate sobre lava (HB2). **Fuego vivo** para fondos.
+- 14: Senua de espaldas ante el lago al amanecer (HB2). **Explorar.**
+- 15: el retrato oficial con runas. **La cara que todos reconocen.**
+
+**`personajes_01.jpg`** (1-48, de la wiki)
+- 1 key art de HB2 · 2 `SenuaEnd` (3840×2160, primer plano con cuello de
+  piel) · 3 Senua contra Valravn con la espada · 4 Senua contra Surtr ·
+  5 arte Enhanced.
+- 6, 8, 17, 18, 51 (en `fondos_01`): **Ástríðr**, retratos de HB2 con
+  pañuelo rojo.
+- 7 la **Puerta de Hel** (piedra, dos antorchas) · 9-10 **Dillion** en visión ·
+  11-13 **Hela** (piel gris agrietada, media cara rota) · 14-16 Senua contra
+  Hela; en el 16, las dos con **espadas azules**.
+- 19 Bardarvik · 20-21 Freyslaug · 22 Helheim · 26 Jarnvior · 27 Raudholar ·
+  36 poblado de Raudholar · 41 ruinas de la fortaleza · 42 dominio de Surtr ·
+  43 fortaleza de Valravn · 45 entrada de Borgarvirki · 46 Reykjanesta ·
+  47 Midgard. **Fondos de sitios reales del juego.**
+- 23-25 capturas del 1: Senua ante un enemigo con cuernos en azul; muelle con
+  una bestia al fondo; **silueta en una puerta frente a montañas nevadas (25)**.
+- 28 Senua frente a un enemigo en el mar de cadáveres · 29 **Senua en el
+  puente** de Helheim.
+- 30-32 Surtr (fuego) · 33-35 Valravn (plumas negras, azul).
+- 37-40 **Gramr**: liberada, en la mano, en el árbol (39: luz dorada y hoja
+  azul, **pose de revelar un objeto**).
+- 44 el sacrificio de Surtr (1920×824).
+- 48 **Lorestone**: tótem con **anillo de runas rojas** alrededor de una runa
+  que brilla. **Para el concepto A.**
+
+**`fondos_01.jpg`** (49-82, de la wiki)
+- 49, 54-56, 58, 59, 61 Dillion y sus visiones (**58 y 61 llevan subtítulo en
+  pantalla**) · 50 Hela · 52 Gramr en mano · 53, 62-66 Hela (**63 y 65 con
+  subtítulo**) · 57, 60, 67 Helheim.
+- 68 **Illtauga** (1000×811) · 69 **HelaBargain**, Senua en azul con subtítulo
+  (**el mejor ejemplo del cuadro de diálogo**, §Punto 6) · 70 portada del 1 ·
+  **71 el espejo de hierro** (1000×715).
+- 72 entrada de Helheim · 73 `SenuaClose`, primer plano sucio · 74 Senua contra
+  Surt · 75 **Fargrímr** · 76 Gramr reforjada en alto · 77 mar de cadáveres ·
+  78 Senua contra Garm (azul) · 79 Surtr · **80 `Full charge`: el espejo con la
+  espiral triple turquesa encendida (Focus)** · 81 el Huldufólk en una cueva
+  verde · 82 logo rúnico.
+- Números y URL de cada original en
+  `herramientas/referencias/hellblade/indice.json` (tamaños por la API).
+
+## Punto 2 · Escenas icónicas en 1080p, con minuto
+
+No hay capítulos: las escenas salen de **los dos tráileres oficiales**,
+bajados del CDN de Steam en **1920×1080 real** y cortados sin reescalar
+(parte de vídeo). Las copias de Dailymotion sólo llegan a 512×288: sirven para
+localizar, no para citar en alta.
+
+### 2.1 Tráiler oficial de *Senua's Sacrifice* (Steam 414340, 2:01)
+Copia en Dailymotion: [x5v5lz0](https://www.dailymotion.com/video/x5v5lz0) ✅.
+
+| Minuto | Escena | Qué se ve |
+|---|---|---|
+| [0:29](https://www.dailymotion.com/video/x5v5lz0?t=29) | **Senua dorada** (no Hela, §3) | primer plano frontal, tocado dorado con gemas turquesa, cuello de piel, sin pintura, prado con flores rosas detrás. Visión serena |
+| [0:33](https://www.dailymotion.com/video/x5v5lz0?t=33) | La sonrisa | Senua pintada, sonrisa amplia y fija en la oscuridad. Delirio, no alegría |
+| [0:38](https://www.dailymotion.com/video/x5v5lz0?t=38) | El árbol de las ofrendas | silueta de árbol muerto con restos colgando, cielo tormentoso violeta |
+| [1:17](https://www.dailymotion.com/video/x5v5lz0?t=77) | Rabia | Senua de rodillas en la noche azul, gritando, con una piedra en la mano |
+| [1:21](https://www.dailymotion.com/video/x5v5lz0?t=81) | La espada rúnica | **Senua** con las dos manos en una espada que brilla azul eléctrico entre ramas negras |
+| [1:34](https://www.dailymotion.com/video/x5v5lz0?t=94) | Combate contra un draugr | lucha cuerpo a cuerpo en luz roja; en la cadera de Senua brilla una **espiral azul-blanca** (el espejo, Focus) |
+| [1:45](https://www.dailymotion.com/video/x5v5lz0?t=105) | Cierre | silueta de Senua caminando hacia una luz blanca; pequeña hoguera a la izquierda |
+| [1:53](https://www.dailymotion.com/video/x5v5lz0?t=113) | Título | «HELLBLADE / SENUA'S SACRIFICE» en capitales romanas espaciadas, blanco |
+
+### 2.2 Tráiler oficial de *Hellblade II* (Steam 2461850, 2:34, el de #TheGameAwards)
+Copia en Dailymotion: [x8qciu2](https://www.dailymotion.com/video/x8qciu2) ✅.
+En la de Steam: costa tras el naufragio a las **0:10**, sendero de calaveras a
+las **0:52**, tarjeta de título a las **2:19** (parte de vídeo).
+
+| Minuto (Dailymotion) | Escena | Qué se ve |
+|---|---|---|
+| [0:00](https://www.dailymotion.com/video/x8qciu2?t=0) | La voz | Senua: «I've dreamt of this. This place of fear and fury.» (§Punto 8) |
+| [0:07](https://www.dailymotion.com/video/x8qciu2?t=7) | **Costa tras el naufragio** | Senua de espaldas ante el mar, niebla, sol velado. La llegada a Islandia |
+| [0:22](https://www.dailymotion.com/video/x8qciu2?t=22) | Cielo rojo | Senua de espaldas bajo un cielo rosa con restos flotando |
+| [0:27](https://www.dailymotion.com/video/x8qciu2?t=27) | Determinación | perfil muy cerrado, ceño y mirada al frente |
+| [0:38](https://www.dailymotion.com/video/x8qciu2?t=38) | Miedo escondido | Senua asoma tras una empalizada, ojos muy abiertos |
+| [0:52](https://www.dailymotion.com/video/x8qciu2?t=52) | Sendero de calaveras | camina hacia una calavera clavada en una rama, niebla ocre, brazos con sangre |
+| [1:19](https://www.dailymotion.com/video/x8qciu2?t=79) | Asombro | Senua mira hacia arriba en la oscuridad |
+| [1:44](https://www.dailymotion.com/video/x8qciu2?t=104) | Terror | primer plano llorando de miedo, cara sucia y mojada |
+| [1:45](https://www.dailymotion.com/video/x8qciu2?t=105) | **La mano corrupta** | una mano gris agarra la cara de Senua; ojos cerrados, grito mudo. La Oscuridad con cuerpo |
+| [1:56](https://www.dailymotion.com/video/x8qciu2?t=116) | Agotamiento | mira hacia abajo, hombros caídos, luz fría |
+
+### 2.3 Otras escenas (sin fotograma propio en alta)
+- **El final del 1**: Senua se rinde ante Hela en el puente de Helheim y deja
+  de luchar; la cámara revela que Hela es la propia Senua. El clímax que más se
+  cita ✅ ([Mic](https://www.mic.com/articles/183609), foros de Steam).
+- **Garm** en la ventisca, casi todo blanco: [0:19](https://www.dailymotion.com/video/x5pbur7?t=19)
+  del «Ragnarok Trailer» ⚠️ 512×288. En alta, en la wiki: `Senua vs Garm.webp`
+  (`fondos_01` n.º 78) y la foto libre de Wikimedia (§Punto 3).
+- **El gigante de fuego** al fondo de un valle, tráiler de HB2
+  [0:36](https://www.dailymotion.com/video/x8qciu2?t=36) ⚠️ baja resolución.
+- **«I know you»**: Senua reconoce a la giganta Illtauga y llora (HB2). Sin
+  minuto: sale de un hilo de Reddit (§Punto 21).
+
+## Punto 3 · Fan art y 3D, sólo como referencia
+
+**Nunca para pegar**: enlace y autor, para mirar poses y estilo.
+
+### 3.1 Modelos 3D descargables (Sketchfab, licencia leída en la API)
+| Modelo | Autor | Licencia | Datos |
+|---|---|---|---|
+| [Senua](https://sketchfab.com/3d-models/none-fd560f8d33ed4d09be36f691b928e6ad) | DshGames | CC Attribution | 125.214 caras, 794 me gusta ✅ |
+| [Senua](https://sketchfab.com/3d-models/none-380abf627b824228b30d53ef0e446b0e) | johnalejandro_13 (antes AsterOmice) | CC Attribution | 120.348 caras ✅ |
+| [Pig Head](https://sketchfab.com/3d-models/none-08ffeea7bf5b463193ce836e2b8bdd5d) (cabeza de cerdo de un Northman) | johnalejandro_13 | CC Attribution | 38.446 caras ✅ |
+
+- Crédito exacto (CC BY): «"Senua" by DshGames, CC BY, sketchfab.com».
+- **No encontré** modelos libres de Gramr, del espejo de hierro ni de la
+  máscara de Valravn (API con `q=hellblade` y `q=senua`) ⚠️. El espejo se
+  modela a mano (§Tres conceptos, B).
+
+### 3.2 Fan art (Safebooru, con su origen)
+- 2691×4177 · [jefwu en DeviantArt](https://www.deviantart.com/jefwu/art/Senua-698695334) ·
+  [imagen](https://safebooru.org/images/3569/946386e530ddc684b3c9b89393638aa64dd4fca8.jpg) ⚠️.
+- 984×984 · [thomasfray en ArtStation](https://thomasfray.artstation.com/projects/LJqNR) ·
+  [imagen](https://safebooru.org/images/3567/6a39bac9062aac563e935bfde66ac695651c9674.jpg) ⚠️.
+- 753×1000 · [firez-da en DeviantArt](https://www.deviantart.com/firez-da/art/Senua-830487734) ·
+  [imagen](https://safebooru.org/images/3581/705d92266606dc0fbd7a210a2e8940e544f9ac5d.jpg) ⚠️.
+- En Danbooru la etiqueta `hellblade` tiene **5 dibujos, todos de Senua**
+  ([Danbooru](https://danbooru.donmai.us/posts?tags=hellblade)).
+
+### 3.3 Fotos con licencia libre (Openverse, de `datos.json`)
+- **Garm en Hellblade** · 1920×1080 · Ahilcaspian · **CC BY-SA 4.0** ·
+  [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/63/Garm_in_Hellblade_Senuas_Sacrifice.png).
+  La única imagen del juego con licencia libre de verdad.
+- 19 capturas de jugadores en Flickr (CC BY-NC, BY-NC-SA, BY-NC-ND, una PDM),
+  p. ej. [«Neon Demons»](https://live.staticflickr.com/4410/35621468424_b8ddd1c464_b.jpg)
+  de AndrewCull (CC BY-NC 2.0) y
+  [«Credits»](https://live.staticflickr.com/4376/35642108733_5c80fa5278_b.jpg)
+  de KarmaChang. Todas en `referencias.json`. **No comerciales**: sólo
+  referencia.
+
+## Punto 4 · Sitios, luz, paleta medida y texturas reales
+
+### 4.1 Dónde pasa cada juego
+- **HB1**: Senua llega en canoa a **Helheim**, el reino nórdico de los muertos,
+  por costas con niebla, bosques (Jarnvior), poblados quemados y el dominio de
+  fuego de Surtr ✅ ([wiki, Helheim](https://thehellblade.fandom.com/wiki/Helheim)).
+  El 1 usó fotogrametría **una sola vez**: sus fondos son sobre todo pintados.
+- **HB2**: la **Islandia del siglo IX**. Senua viene de las **Orcadas**
+  (Escocia), pero allí no se juega ✅
+  ([Windows Central](https://www.windowscentral.com/senuas-saga-hellblade-ii),
+  [Xbox Wire](https://news.xbox.com/en-us/2024/05/20/hellblade-2-environmental-design-inspired-by-iceland/)).
+- Más de **370 piezas de fotogrametría**; rocas islandesas reales guardadas en
+  el estudio; huesos y tótems tallados a mano y escaneados ✅ (Xbox Wire,
+  [Gameranx](https://gameranx.com/updates/id/498673/article/senuas-saga-hellblade-ii-visual-team-discuss-recreating-iceland-for-realism/)).
+- Sitios reales: **Reykjanestá** (costa suroeste: acantilados, roca negra) y
+  **Freyslaug**, inspirado en las termas de **Fosslaug** (norte, colinas
+  verdes) ✅.
+- Dom Matthews: Islandia es «una carta de amor»; su geografía «se siente
+  anclada en la naturaleza, pero casi alienígena». Dan Attwell: «un parque
+  temático geológico» ✅ (Xbox Wire, [PCGamesN](https://www.pcgamesn.com/hellblade-2/preview)).
+
+### 4.2 Luz y paleta medidas en fotogramas (`estilo.py`, parte de vídeo)
+| Sitio o escena | Fuente y minuto | Luz | Paleta (dominante → acentos) |
+|---|---|---|---|
+| Prado con árbol a contraluz, flores lilas | Ragnarok Trailer [0:01](https://www.dailymotion.com/video/x5pbur7?t=1) | sol de frente, niebla que quema | `#FBFAF4` 29 % · `#F4F0DF` 21 % · ocres `#715B32`, `#A18858` · sat. 26 %, brillo 74 % |
+| Primer plano con corona dorada en la niebla | Ragnarok Trailer [0:09](https://www.dailymotion.com/video/x5pbur7?t=9) | niebla difusa, sin sombra | `#6C6C7D` · `#C5C8D6` · `#848597` · sat. 18 % |
+| Ventisca (Garm) | Ragnarok Trailer [0:19](https://www.dailymotion.com/video/x5pbur7?t=19) | luz plana fría | `#9CAABA` · `#D3DAE4` · `#B8C3D0` · marino `#101929` |
+| Relámpago azul bajo la lluvia | Hela Trailer [0:38](https://www.dailymotion.com/video/x5rr6d4?t=38) | noche, sólo el rayo | `#091018` · `#111823` · `#19202E` · sat. 53 %, brillo 13 % |
+| Colina con niebla, figura con tocado | tráiler HB1 [0:07](https://www.dailymotion.com/video/x5v5lz0?t=7) | niebla blanca sin horizonte | `#AFA5BE` · `#746B82` · `#27272B` |
+| Silueta hacia la luz | tráiler HB1 [1:45](https://www.dailymotion.com/video/x5v5lz0?t=105) | contraluz total | `#030206` → `#F7F9F0` |
+| Costa con niebla (Islandia) | tráiler HB2 [0:07](https://www.dailymotion.com/video/x8qciu2?t=7) | niebla marina, sol velado | `#000000` · `#55554D` · `#D5D6D0` · **sat. 7 %** |
+| Empalizada, cielo malva y fuego | tráiler HB2 [0:38](https://www.dailymotion.com/video/x8qciu2?t=38) | anochecer con fuego | `#000001` · `#655777` · `#524867` |
+| Mano corrupta | tráiler HB2 [1:45](https://www.dailymotion.com/video/x8qciu2?t=105) | casi sin luz | `#000000` · `#020202` · `#080608` · brillo 8 % |
+
+**La regla de color de Hellblade**: la niebla lo desatura casi todo (7-26 %);
+**un solo acento** muy saturado, fuego naranja o azul eléctrico. El brillo cae
+a 8-18 % en el miedo y sube a 46-74 % en la naturaleza y las revelaciones.
+
+### 4.3 Sitios de la wiki, medidos (`estilo.py`, parte de imagen)
+- **Helheim** · 1920×1080 · `#1E201D`, `#45444B`, `#CEB4A7`, `#A08983`,
+  `#776561`, `#EDDCCE` · brillo 52 %: niebla blanca-hueso ·
+  [imagen](https://static.wikia.nocookie.net/hellblade-nt/images/c/c3/Helheim.png) ✅.
+- **Jarnvior** (bosque) · 1920×1080 · `#2A241F`, `#1C1714`, **`#8D99AE`**
+  (niebla azul-gris), `#3D342C`, `#51535B` ·
+  [imagen](https://static.wikia.nocookie.net/hellblade-nt/images/d/da/Jarnvior.jpg) ✅.
+- **Illtauga** (gruta) · 1000×811 · tierra `#3E3228`, `#27251E`, `#594031`,
+  `#825943`, verde oscuro `#0A1411` ·
+  [imagen](https://static.wikia.nocookie.net/hellblade-nt/images/9/9b/Illtauga.png) ✅.
+- **Reykjanesta** · 1672×941 · atardecer azul **`#556E8A`**, `#070C13`,
+  `#1A2432`, `#768FA9` · sat. 45 % ·
+  [imagen](https://static.wikia.nocookie.net/hellblade-nt/images/d/dd/Reykjanesta.png) ✅.
+- **Dominio de Surtr** · 1920×1080 · `#100B0F`, `#2A2124`, `#4C3E3B`,
+  `#70615C`, `#928787`: **más ceniza que llama**. Para fuego vivo, la captura
+  `a900f2…` de Steam: `#882F26`, `#CF5F53`, `#FCA82F` ·
+  [imagen](https://static.wikia.nocookie.net/hellblade-nt/images/c/ce/Surtr_Domain.jpg) ✅.
+
+### 4.4 Texturas reales equivalentes (CC0, ambientCG)
+- Roca volcánica (acantilados de Reykjanestá): [Rock064](https://ambientcg.com/view?id=Rock064),
+  Rock063, Rock058 ⚠️ comparación a ojo.
+- Suelo y musgo: [Ground111](https://ambientcg.com/view?id=Ground111), Ground068.
+- Cuero (tocado, cinturón): [Leather037](https://ambientcg.com/a/Leather037),
+  Leather030 ⚠️ una fuente.
+- El estudio usó **Quixel Megascans** (fotogrametría, como estas) ⚠️.
+
+## Punto 5 · Tipografía: una letra para cada uso
+
+### 5.1 Lo que usa la franquicia
+- **Logo del 1**: letras propias, sin fuente identificada. La aproximación que
+  citan los fans es «Sell Your Soul» (Christopher Hansen) ⚠️
+  ([Hyperpix](https://hyperpix.net/fonts/hellblade-senuas-sacrifice-font/)).
+- **Logo del 2**: «como tallado en piedra», bordes de cuchilla; «Senua's Saga»
+  en rojo oscuro y «Hellblade II» en gris metálico ⚠️
+  ([Logos-World](https://logos-world.net/hellblade-2-logo/)).
+- **Web oficial del 1** (`hellblade.com`, CSS de Adobe Fonts leído): **Trajan
+  Pro 3** (romana grabada), **Proxima Nova Extra Condensed** (títulos y
+  menús) y **Lato** (cuerpo) ✅ fuente primaria.
+- **Web oficial del 2** (`senuassaga.com`, CSS leído): **Cinzel** (títulos),
+  **Outfit** (cuerpo) y **Arno Pro** puntual ✅ fuente primaria. **Cinzel y
+  Outfit son libres (OFL, Google Fonts).**
+- **Tarjeta de título del tráiler del 1** ([1:53](https://www.dailymotion.com/video/x5v5lz0?t=113)):
+  capitales romanas espaciadas en blanco, como Trajan. Lo vio el redactor.
+- **Subtítulos del juego**: sans blanca sencilla, con sombra suave (§Punto
+  6). Parecida a Roboto, a ojo ⚠️ (no hay fuente que la nombre).
+- **Runas**: **Futhark Antiguo real** en las puertas y las piedras rúnicas ✅
+  ([Steam](https://steamcommunity.com/app/414340/discussions/0/1815422173039264083/),
+  [wiki, Focus](https://thehellblade.fandom.com/wiki/Focus)).
+
+### 5.2 Una letra para cada uso (letras libres)
+Comprobadas con fontTools por la parte de texto: Cinzel y Outfit traen
+**á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü** completas; Noto Sans Runic trae las
+**24 runas** del Futhark Antiguo.
+
+| Uso | En el juego | Letra libre | Tildes, ñ, ¿, ¡ |
+|---|---|---|---|
+| Logo o título | capitales romanas espaciadas (Trajan en la web del 1) | **[Cinzel](https://fonts.google.com/specimen/Cinzel)**, la de la web del 2 | ✅ fontTools |
+| Globo normal | **no hay globos**: subtítulo flotante | **[Outfit](https://fonts.google.com/specimen/Outfit)** blanca con sombra | ✅ fontTools |
+| Grito | no cambia la letra: grita la voz | Outfit en seminegrita, sin mayúsculas de cómic | ✅ |
+| Pensamiento (las Furias) | **no se escriben: se oyen** por los lados | Outfit más pequeña y más transparente, a izquierda y derecha (propuesta del redactor, §Punto 6) | ✅ |
+| Onomatopeya | **no aplica**: no hay onomatopeyas escritas; los susurros son sonido | ninguna | — |
+| Cartel del mundo (nórdico) | runas del Futhark Antiguo talladas | **[Noto Sans Runic](https://fonts.google.com/noto/specimen/Noto+Sans+Runic)** | runas ✅ (no lleva latín: el texto en español va en Cinzel) |
+| Cartel del mundo (picto, lo de Senua) | espirales y tríadas, **no runas** | dibujo: triskel CC0 (§Punto 19) + Cinzel | ✅ |
+| Interfaz del juego | casi no hay (§Punto 11) | Proxima Nova es de pago: usar **Outfit** | ✅ |
+| Subtítulos o créditos | sans blanca centrada | Outfit (o [Lato](https://fonts.google.com/specimen/Lato), la de la web del 1) | Outfit ✅ · Lato ⚠️ sin comprobar |
+
+- **Qué NO hacer**: Comic Sans, letras de globo de manga, letras «vikingas»
+  de fantasía barata, o runas para escribir en español (no se leen).
+
+## Punto 6 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
+
+**Hellblade no tiene globo, ni caja, ni panel. Nunca.** No hay HUD ni marco ✅
+([Gaming Conceptz](http://gamingconceptz.blogspot.com/2025/10/the-clash-between-diegetic-and-non.html),
+[Steam](https://steamcommunity.com/app/414340/discussions/0/1471966894874945366/)).
+Es el caso más extremo de «nada de burbuja blanca».
+
+### 6.1 El subtítulo, visto de verdad
+El redactor leyó 4 imágenes de la wiki con subtítulo en pantalla (están en
+`fondos_01`):
+
+| n.º | Imagen | Subtítulo (textual, en inglés) |
+|---|---|---|
+| 69 | [HelaBargain.jpg](https://static.wikia.nocookie.net/hellblade-nt/images/1/1f/HelaBargain.jpg) (1200×674) | «You. You took him from me. I beg you. Let him go. I'll give you what you want. I won't resist anymore. Just give him back.» |
+| 61 | [Dillion 5.png](https://static.wikia.nocookie.net/hellblade-nt/images/b/b0/Dillion_5.png) (1279×716) | «This is your fault. You brought this plague to us!» |
+| 58 | [Dillion 7.png](https://static.wikia.nocookie.net/hellblade-nt/images/2/2c/Dillion_7.png) (1278×717) | «You fought for love and spoilt by your darkness within, you fought for your dream... now there is no way to win...» |
+| 65 | [Hela 7.png](https://static.wikia.nocookie.net/hellblade-nt/images/d/d3/Hela_7.png) (1277×715) | «This now will be your story to witness.» |
+
+Cómo es:
+- **Blanco**, letra **sans** sencilla, tamaño pequeño.
+- **Centrado abajo**, en una o dos líneas.
+- **Sin caja, sin fondo, sin nombre** de quién habla. Sólo una sombra suave;
+  se lee igual sobre hierba clara (n.º 58) que sobre negro (n.º 69).
+- Frases cortas separadas por punto; puntos suspensivos cuando la voz se
+  apaga.
+- Tamaño mínimo **1/20 de la pantalla** (46 px en 1080p) y color ajustable ✅
+  ([Family Gaming Database](https://www.familygamingdatabase.com/accessibility/Hellblade+Senuas+Sacrifice),
+  [Can I Play That?](https://caniplaythat.com/2022/02/09/hellblade-senuas-sacrifice-now-lists-accessibility-information-on-steam/)).
+- ⚠️ Quién habla en cada una no lo dice la imagen: se deduce del nombre del
+  archivo (69, Senua a Hela).
+
+### 6.2 En *Hellblade II*: el subtítulo dice de dónde viene la voz
+- Lleva un **indicador de dirección** junto al subtítulo: de qué lado suena la
+  voz. Más opciones de color y tamaño; 26 idiomas ✅
+  ([TechRaptor](https://techraptor.net/gaming/news/senuas-saga-hellblade-2-accessibility),
+  [Can I Play That?](https://caniplaythat.com/2024/07/02/senuas-saga-hellblade-ii-accessibility-review/)).
+- Sigue sin HUD: ni barra de vida, ni mapa, ni objetivo ✅.
+
+### 6.3 El verdadero «cuadro de diálogo»: las voces por los lados
+- Las **Furias** susurran delante, detrás, a un lado, muy cerca del oído.
+  Avisan de enemigos, dan pistas de puzles, animan o se burlan. Hacen de
+  interfaz ✅ ([Gaming Conceptz](http://gamingconceptz.blogspot.com/2025/10/the-clash-between-diegetic-and-non.html),
+  [Inside the Magic](https://insidethemagic.net/2017/08/video-hellblade-senuas-sacrifice-creates-stunningly-nightmarish-audio-experience-using-binaural-audio/)).
+- El juego pide **auriculares** al empezar ✅.
+- La «barra de vida» es el **brazo de Senua**: la Corrupción Oscura sube con
+  cada fallo. El aviso del principio: «The dark rot will grow each time you
+  fail. If the rot reaches Senua's head, her quest is over and all progress
+  will be lost» ✅ ([wiki, Dark Rot](https://thehellblade.fandom.com/wiki/Dark_Rot),
+  [PCGamesN](https://www.pcgamesn.com/hellblade-senuas-sacrifice/hellblade-permadeath-fake)).
+
+### 6.4 El cómic oficial tampoco usa globos
+*Hellblade: Senua's Song #1* (2017, Valiant; guion de Tameem Antoniades, arte
+de **Ben Templesmith**) es un **poema ilustrado**: el texto corre en verso
+junto a la imagen, sin viñetas ni globos ✅
+([Valiant](https://valiantentertainment.com/2017/06/06/ninja-theory-and-valiant-partner-for-hellblade-senuas-song-1-a-pre-order-exclusive-comic-available-on-steam-and-gog-com/),
+[ComicsBeat](https://www.comicsbeat.com/valiant-templesmith-and-ninja-theory-team-for-exclusive-hellblade-senuas-song-digital-comic/)).
+
+### 6.5 Qué cuadro usar en la lámina
+1. **Lo que dice un personaje**: subtítulo blanco en **Outfit**, centrado
+   bajo su figura, **sin caja**, con sombra suave `#000000` al 60 %. Una o dos
+   líneas.
+2. **Lo que dicen las Furias**: frases cortas a **izquierda y derecha** de la
+   cabeza de Senua, más pequeñas y más transparentes, con una marca de
+   dirección (‹ o ›) como en *Hellblade II*. Nunca dentro de una forma.
+3. **La información fija del canal**: **tallada o grabada en el objeto** (la
+   piedra rúnica, el borde del espejo, la roca). El texto en español, en
+   Cinzel; las runas, sólo de adorno.
+4. **El título**: Cinzel en capitales espaciadas, blanco o hueso, como la
+   tarjeta del tráiler.
+- **Nunca**: burbuja blanca, barra de vida roja, marco de videojuego genérico.
+
+## Punto 7 · Los personajes y quién es el más querido
+
+### 7.1 Quién sale
+- **Senua**: la única protagonista jugable de los dos juegos.
+- **En el 1**: Druth (mentor y narrador), Dillion (su amor), Zynbel (su padre,
+  la Sombra), Galena (su madre), Hela, Valravn, Surtr, las Furias y el
+  Narrador.
+- **En el 2**: Thórgestr (esclavista), Ástríðr (guerrera de Bárðarvík),
+  Fargrímr (guía espiritual), Goði, los gigantes (Illtauga, Sjávarrisi) y el
+  Huldufólk.
+
+### 7.2 ¿Quién es el más querido?
+**Senua, sin discusión.**
+- **No hay encuestas de popularidad**, ni oficiales ni de fans: no es una
+  obra de elenco ancho. Buscado en inglés y español (Reddit y web) ⚠️.
+- **Arte de fans**: `hellblade` tiene 5 dibujos en Danbooru, **los 5 de
+  Senua**. `druth`, `dillion`, `zynbel` y `hela_(hellblade)`: **0 cada uno** ✅
+  ([Danbooru, druth](https://danbooru.donmai.us/posts?tags=druth)).
+- **Premios**: el 1 ganó **5 de sus 9 nominaciones** en los BAFTA Games
+  Awards de 2018: Mejor juego británico, Logro artístico, **Mejor intérprete
+  (Melina Juergens, Senua)**, **Logro de audio** y *Game Beyond Entertainment* ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice),
+  [TechSpot](https://www.techspot.com/news/74146-hellblade-senua-sacrifice-biggest-winner-bafta-awards-but.html)).
+- **El secundario más citado: Druth.** Las reseñas (IGN, Giant Bomb) alaban
+  sus relatos de las piedras rúnicas; en Reddit se compara su narración con la
+  de «los Otros» de HB2 («más mitológica o mística») ✅
+  ([Reddit](https://www.reddit.com/r/hellblade/comments/1gs4s4e/), wiki de
+  Druth).
+- **Consecuencia para la lámina**: Senua va delante. Druth puede «hablar» sin
+  salir (es un recuerdo): su voz en un subtítulo o en una piedra rúnica.
+
+## Punto 8 · Doblaje: no hay doblaje latino, sólo subtítulos
+
+### 8.1 No hay doblaje al español (ni latino ni de España) ✅
+- **Doblaje Wiki, por su API**: `Hellblade`, `Hellblade: Senua's Sacrifice`,
+  `Hellblade II` y `Senua's Saga: Hellblade II` → «la página no existe»; la
+  búsqueda de «Hellblade» y «Senua» no da nada ✅
+  ([API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Hellblade)).
+- **3DJuegos LATAM** (21-may-2024): «Hellblade 2 no tendrá doblaje al
+  Español: Xbox opta por seguir con los subtítulos». El director de audio dice
+  que es «por razones de calidad». Subtítulos en 26 idiomas, «incluyendo el
+  Español Latino» ✅
+  ([3DJuegos](https://www.3djuegos.lat/xbox-series-x-s/hellblade-2-no-tendra-doblaje-al-espanol-xbox-opta-seguir-subtitulos-lugar-audio-nuestro-idioma)).
+- **LEVEL UP** (17-abr-2024): «no tendrá doblaje latino ni ningún otro […]
+  sólo con las voces originales al inglés» ✅
+  ([LEVEL UP](https://www.levelup.com/noticias/783046/Senuas-Saga-Hellblade-II-tendra-doblaje-latino-Ninja-Theory-responde)).
+  Hay un vídeo suyo de 49 minutos sobre el tema en
+  [Dailymotion](https://www.dailymotion.com/video/x8xohgk).
+- **El 1 (2017)** tampoco: sólo subtítulos (hilo oficial de Steam «Cómo
+  poner el juego en español»; ANMTV tampoco tiene entrada) ✅.
+- **Por eso no hay** actor latino, estudio ni director de doblaje que citar.
+  Poner «voz de [actor latino]» en una lámina sería **falso**.
+
+### 8.2 Cómo se tradujo (lo que sí hay: subtítulos)
+- «the Furies» → **«las Furias»**; «the Darkness» → **«la Oscuridad»** ✅
+  (reseñas y foros en español; [NextN](https://www.nextn.es/2019/04/analisis-hellblade-senuas-sacrifice-nintendo-switch/)).
+- Los nombres no se traducen: Senua, Druth, Dillion, Zynbel, Hela, Valravn,
+  Surtr, Gramr ✅.
+- ⚠️ «Dark Rot» como «Corrupción Oscura» y «Northmen» en español: **sin
+  comprobar** en los subtítulos oficiales (la primera la usa la parte de
+  texto como traducción).
+- ⚠️ **El texto exacto de los subtítulos en español** de las frases de abajo
+  no se transcribió: haría falta ver el juego con subtítulos en español.
+
+### 8.3 Las voces originales (inglés), cada nombre con sus fuentes
+| Personaje | Actor o actriz | Fuentes |
+|---|---|---|
+| **Senua** | **Melina Juergens** (editora de vídeo del estudio; nunca había actuado) | ✅ [wiki](https://thehellblade.fandom.com/wiki/Senua) + NextN |
+| Las **Furias** | **Abbi Greenland** y **Helen Goalen** (compañía de teatro RashDash); repiten en HB2 | ✅ Wikipedia del 1 y [del 2](https://en.wikipedia.org/wiki/Senua%27s_Saga:_Hellblade_II) + Xbox Wire (escribe «Goalan») |
+| **Druth** | **Nicholas Boulton** | ✅ wiki + Wikipedia |
+| **Dillion** | **Oliver Walker** | ✅ wiki + Wikipedia |
+| **Zynbel** y **la Sombra** (la Oscuridad) | **Steven Hartley** | ✅ wiki + Wikipedia |
+| El **Narrador** | **Chipo Chung** | ⚠️ sólo Wikipedia |
+| **Galena** | **Ellie Piercy** | ⚠️ sólo Wikipedia |
+| **Ástríðr** (HB2) | **Aldís Amah Hamilton** | ⚠️ sólo la wiki (`portrayed_by`) |
+| **Fargrímr** (HB2) | **Guðmundur Thorvaldsson** | ⚠️ sólo la wiki |
+
+- Voces de apoyo de HB2: **Ren** y **Arunka** (canto de garganta), **The
+  Monster Factory** (voces extremas) ⚠️
+  ([A Sound Effect](https://www.asoundeffect.com/senuas-saga-hellblade-ii-game-audio/)).
+
+### 8.4 Frases icónicas, textuales, con fuente y minuto
+Audio original en inglés. La traducción entre paréntesis es **del redactor**,
+para entender el sentido; no es el subtítulo oficial.
+
+| Quién | Frase | Dónde |
+|---|---|---|
+| El Narrador, al empezar | «Hello, who are you? ...It doesn't matter. Welcome. You are safe with me.» (Hola, ¿quién eres? No importa. Bienvenido. Conmigo estás a salvo.) | [audio de la wiki](https://static.wikia.nocookie.net/hellblade-nt/images/b/bd/Senua.mp3) (se llama «Senua», pero es el Narrador) ✅ oído con `voz.py` |
+| Las Furias, en una escalada | «Climb, Senua. Climb. Climb. She's hurt. So tired.» | [audio](https://static.wikia.nocookie.net/hellblade-nt/images/5/5b/The_Furies.mp3) ✅ |
+| La Sombra (Zynbel) | «I am your shadow. And I will be watching when you draw your last dying gasp.» | [audio](https://static.wikia.nocookie.net/hellblade-nt/images/7/78/Shadow.mp3) ✅ |
+| Druth | «Druth is my Truth.» (juego de palabras con *truth*, verdad; no se traduce bien) | [audio](https://static.wikia.nocookie.net/hellblade-nt/images/6/6a/Druth.mp3.mp3) ✅ |
+| El Narrador | «Oh how rude of me...» (presenta a «los otros») | [audio](https://static.wikia.nocookie.net/hellblade-nt/images/4/42/Furies.mp3) ⚠️ frase incompleta |
+| Senua, tráiler de HB2 | «I've dreamt of this. This place of fear and fury. Do you hear it? The heartbeat of the lost ones. Can feel them on my skin.» | [0:00-0:20](https://www.dailymotion.com/video/x8qciu2?t=0) ⚠️ transcripción de Whisper |
+| Senua a Hela | «You. You took him from me. I beg you. Let him go. I'll give you what you want. I won't resist anymore. Just give him back.» | subtítulo en [HelaBargain.jpg](https://static.wikia.nocookie.net/hellblade-nt/images/1/1f/HelaBargain.jpg) ✅ leído |
+| Senua, HB2 | «I know you.» (Te conozco.) Ante la giganta Illtauga, llorando | [Reddit](https://www.reddit.com/r/hellblade/comments/rd4ynb/) ⚠️ sin minuto |
+| Dillion | «A life without loss is one without love.» | parte de voz ⚠️ sin enlace directo |
+
+## Punto 9 · Música y sonido (el binaural)
+
+No hay openings ni endings cantados: la banda sonora es ambiental.
+
+### 9.1 Quién hizo la música
+- **HB1**: **Andy LaPlegua** (Combichrist), anunciado el 24-feb-2015; ya hizo
+  *DmC: Devil May Cry* con Ninja Theory ✅
+  ([MCV/Develop](https://mcvuk.com/development-news/combichrists-andy-laplegua-composing-hellblade-soundtrack/),
+  Wikipedia). Antoniades: «sabía que Andy podía hacer la música de batalla
+  vikinga, pero no estaba seguro de los demás estilos».
+- El disco del 1 (2018-12-04) acredita a **David García Díaz**, director de
+  audio del estudio ✅
+  ([MusicBrainz](https://musicbrainz.org/release-group/c6a0ab26-2cae-4064-b061-4c326692cfdb)).
+- **Jefe final del 1**: «**Hela**» (David García Díaz y **Passarella Death
+  Squad**, 4:16); también se cita «**Just Like Sleep**» (Passarella Death
+  Squad) ✅ ([Spotify](https://open.spotify.com/track/1UaYT2vE5plDKPD8kKOVGQ)).
+  ⚠️ No se sabe cuál suena en el segundo exacto de la rendición.
+- **Créditos del 1**: «**Illusion**» de **VNV Nation** (disco *Judgement*,
+  2007) ✅ ([Internet Archive](https://archive.org/details/HellbladeSenuasSacrificeEndingSongIllusionByVnvNation)).
+- **HB2**: de nuevo **David García Díaz** ✅
+  ([MusicBrainz](https://musicbrainz.org/release-group/0d12dce4-72d6-44da-b366-e5bfcc9609cc));
+  temas propios de **Matteo Tummino** («Sacrifices Must Have Meaning») y
+  **Jamie Molloy** («Ingunn») ✅.
+- **Heilung** (Kai Uwe Faust, Christopher Juul, Maria Franz) puso música al
+  tráiler de **The Game Awards 2019** con «**In Maidjan**» y a parte de la
+  banda sonora ✅
+  ([Louder Sound](https://www.loudersound.com/news/heilung-join-forces-with-ninja-theory-for-hellblade-ii),
+  GamesRadar). El tráiler de 2024 usaría «**Seidh**» ⚠️ sólo el título de un
+  [vídeo de YouTube](https://www.youtube.com/watch?v=85uI1LA5lcc).
+- Qué ambiente dan: tambores y cantos de garganta nórdicos (Heilung),
+  electrónica industrial oscura en los combates del 1 (LaPlegua, Passarella) y
+  una canción de *synth* melancólica en los créditos (VNV Nation).
+
+### 9.2 El sonido binaural (lo que hay que saber)
+- Grabación **binaural**: un micrófono con forma de cabeza humana (Neumann)
+  capta lo que oirían dos oídos. Las voces pasan de un hombro al otro, se
+  acercan por detrás, avisan de un enemigo fuera de cámara ✅
+  ([Forbes](https://www.forbes.com/sites/davidthier/2017/08/10/dont-play-hellbalde-senuas-sacrifice-without-headphones/),
+  [Xbox Wire](https://news.xbox.com/en-us/2024/05/17/hellblade-2-audio-design-is-like-nothing-youve-ever-heard/)).
+- Cada voz tiene **personalidad**: una anima, otra insulta, otra avisa. Se
+  habló con personas que oyen voces ✅ (PCGamesN, [Medium](https://medium.com/channel-cousin/the-incredibly-sound-storytelling-of-hellblade-senuas-sacrifice-533c6b9a7f29)).
+- Unas voces del 1 se grabaron binaurales y otras se procesaron con el plugin
+  **dearVR** ✅ (A Sound Effect).
+- García Díaz hizo **solo** el audio del 1; en el 2 el equipo fue de **7**. Lo
+  compara con el **jazz**: «improvisación, no un guion pactado»; las actrices
+  «debaten» las reacciones de Senua ✅ (Xbox Wire).
+- Equipo de HB2: **Daniele Galante** (charla de GDC 2025 «The Voices of
+  Senua's Saga: Hellblade II»), Alessio Mellina, Pablo Cañas Llorente, Matteo
+  Tummino, Jordan Payne, Jamie Molloy ✅
+  ([GDC](https://schedule.gdconf.com/session/the-voices-of-senuas-saga-hellblade-ii-from-binaural-recording-to-creative-manipulation/907004),
+  [A Sound Effect](https://www.asoundeffect.com/senuas-saga-hellblade-ii-game-audio/)).
+- Galante: las voces están «rotas, deformadas, casi irreconocibles»; palabras
+  como «fracaso» o «culpa» disparan distorsiones ⚠️ (A Sound Effect).
+- Herramientas de HB2: Wwise, Project Acoustics, auriculares Neumann
+  NDH20/NDH30, dearVR, Sound Particles, Ableton Live ⚠️ (A Sound Effect).
+
+### 9.3 Sonidos que todos reconocen
+- El **susurro constante** de las Furias: sonidos «de boca, aireados: sh,
+  tsuk, tishk» ⚠️ (Medium). Es el sonido del juego ✅.
+- El aviso de **jugar con auriculares** ✅.
+- El **graznido de cuervo** de Valravn ⚠️ (deducido de los tráileres).
+- El avance de la **Corrupción** por el brazo ⚠️.
+
+## Punto 10 · Vídeos, análisis y tendencias
+
+### 10.1 Tráileres oficiales (Steam, sin iniciar sesión)
+- *Senua's Sacrifice*: «Official Trailer» (2:01, §Punto 2), «Ragnarok
+  Trailer», «Accolades Trailer» (4:49,
+  [Dailymotion](https://www.dailymotion.com/video/x89mj97)) y «Enhanced for
+  PC» (2021) ✅ ([Steam](https://store.steampowered.com/app/414340)).
+- *Hellblade II*: «Official Trailer» (2:34, §Punto 2) y «Enhanced release
+  trailer» ✅ ([Steam](https://store.steampowered.com/app/2461850)).
+- Anuncio en **The Game Awards 2019** (13-dic-2019), con «In Maidjan»:
+  [YouTube](https://www.youtube.com/watch?v=2TR0gaG01do) ⚠️ no se pudo bajar.
+- Otros clips mirados: «Hela Trailer»
+  ([x5rr6d4](https://www.dailymotion.com/video/x5rr6d4), 1:25) y «Ragnarok
+  Trailer» ([x5pbur7](https://www.dailymotion.com/video/x5pbur7), 1:10).
+
+### 10.2 Making of, visto plano a plano
+- El «Ragnarok Trailer» de Dailymotion **no es sólo tráiler**: desde el 0:20
+  alterna con un **diario de desarrollo**. Sale **Dominic Matthews** hablando a
+  cámara, una reunión, **un artista dibujando a Senua en una tableta Wacom** y
+  una **captura de movimiento** con traje de marcadores:
+  [0:32](https://www.dailymotion.com/video/x5pbur7?t=32),
+  [0:38](https://www.dailymotion.com/video/x5pbur7?t=38),
+  [0:58](https://www.dailymotion.com/video/x5pbur7?t=58) ✅ visto.
+- Hay un documental «Hellblade - Development Diary: The Music»
+  ([YouTube](https://www.youtube.com/watch?v=AY7rg3AbapA)) ⚠️ no se pudo ver.
+- El estudio publicó diarios de desarrollo en YouTube **durante tres años** ✅
+  ([Inverse](https://www.inverse.com/article/19744-hellblade-real-time-custscenes-explained)).
+
+### 10.3 Análisis
+- GDC 2025, Daniele Galante: el análisis más hondo del sonido de HB2 (el vídeo
+  está en GDC Vault, de pago) ⚠️.
+- Xbox Wire: reportajes sobre los paisajes («The Wanderers») y sobre la
+  psicosis ✅.
+
+### 10.4 Tendencias
+- **El farol del *permadeath*** (2017): el aviso de que se borraría la
+  partida se hizo viral en YouTube, Twitter y Reddit; mucha gente dejó de
+  jugar por miedo. Era mentira: PCGamesN murió más de 50 veces sin perder nada ✅
+  (cuatro fuentes: Digital Trends, KitGuru,
+  [PCGamesN](https://www.pcgamesn.com/hellblade-senuas-sacrifice/hellblade-permadeath-fake),
+  [ComicBook](https://comicbook.com/gaming/news/hellblade-senuas-sacrifice-permadeath-is-a-lie/)).
+- **Heilung y los videojuegos**: la prensa de *metal* contó el tráiler de HB2
+  como noticia suya («la música es de una banda real») ✅ (GamesRadar, Louder).
+- **«Juega con auriculares»**: la frase que repiten todas las reseñas y
+  vídeos de reacción ✅.
+- ⚠️ **TikTok**: ningún investigador pudo mirar tendencias de TikTok con
+  vistas (YouTube y TikTok no dejan desde el servidor).
+
+## Punto 11 · Los videojuegos: interfaz, menús y avisos
+
+Hellblade **es** la franquicia de videojuegos (no adapta nada).
+
+### 11.1 Ficha de cada juego
+| Juego | Año y plataformas | Motor | Equipo clave | Duración |
+|---|---|---|---|---|
+| *Hellblade: Senua's Sacrifice* | 2017 (PS4, PC), 2018 Xbox One, 2019 Switch, 2021 Xbox Series, 2025 PS5 | Unreal Engine 4 | dirección Tameem Antoniades; producción Rupert Brooker; diseño Joe Nelson, Juan Fernández; música David García (+ Andy LaPlegua) | 7-8 horas |
+| *VR Edition* | 2018 (PC VR) | UE4 | el mismo | igual, en realidad virtual |
+| *Senua's Saga: Hellblade II* | 2024 (PC, Xbox Series), 2025 PS5 | Unreal Engine 5 | dirección Dan Attwell, David García Díaz, Mark Slater-Tunstill; diseño Rahni Tucker; guion Lara Derham y Antoniades | más corto y más cinematográfico |
+
+✅ [wiki del 1](https://thehellblade.fandom.com/wiki/Hellblade:_Senua's_Sacrifice),
+[wiki del 2](https://thehellblade.fandom.com/wiki/Hellblade_II:_Senua's_Saga)
+y las dos Wikipedias. Extras en Steam: la *VR Edition*
+([747350](https://store.steampowered.com/app/747350)), la banda sonora
+([862810](https://store.steampowered.com/app/862810)) y el cómic digital
+([626750](https://store.steampowered.com/app/626750)).
+
+### 11.2 Sistemas y cómo se ven (sin números en pantalla)
+- **Combate** con espada: ligero, fuerte, esquiva, bloqueo, patada. Sin barras
+  de vida; la salud se nota en la respiración, los gemidos y el cuerpo ✅.
+- **Focus**: se carga golpe a golpe. El **espejo de hierro** de la cadera
+  destella (hasta 3 cargas): frena el tiempo en combate o revela runas. Es a la
+  vez «maná» y «botón de puzle», en un objeto del mundo ✅
+  ([wiki, Focus](https://thehellblade.fandom.com/wiki/Focus),
+  [wiki, Iron Mirror](https://thehellblade.fandom.com/wiki/Iron_Mirror)).
+  El brillo del espejo mide **`#0E6D79`** y **`#61AAB9`** (turquesa) sobre
+  `#0B0505` (`Full charge.png`, `fondos_01` n.º 80) ✅.
+- **Puertas de runas**: la runa roja de la puerta está escondida en el
+  paisaje (a veces sólo aparece alineando un objeto cercano con otro lejano);
+  al mirarla bien pasa de **rojo a blanco azulado** y, con Focus, abre la puerta ✅
+  ([Gameranx](https://gameranx.com/features/id/115013/article/hellblade-senuas-sacrifice-how-to-solve-every-puzzle-solutions-guide/),
+  [PowerPyx](https://www.powerpyx.com/hellblade-senuas-sacrifice-puzzle-solutions-symbol-locations-walkthrough/)).
+- **Las cuatro Pruebas de Odín** (Torre, Pantano, Laberinto, Ceguera), cada
+  una con un síntoma de la psicosis; en la de Ceguera se avanza sólo por el
+  sonido ✅ ([wiki](https://thehellblade.fandom.com/wiki/Trials_of_Odin)).
+- **Piedras rúnicas (Lorestones)**, **44**: tótems que activan un relato de
+  Druth sobre mitología nórdica. Su «contador» es un **anillo de runas**: las
+  encontradas en un color, **las que faltan en rojo** ✅
+  ([wiki](https://thehellblade.fandom.com/wiki/Lorestones)). Imagen:
+  `personajes_01` n.º 48.
+
+### 11.3 Qué cambia en *Hellblade II*
+- **Rostros Escondidos** (*Hidden Faces*): **17 caras talladas en la roca**;
+  unas voces avisan cuando hay una cerca; al enfocarlas se abre el camino a un
+  arbolito (`Landdísasteinar`) ✅
+  ([wiki](https://thehellblade.fandom.com/wiki/Hidden_Faces)).
+- Combate más rápido: **75 días** de captura de movimiento ✅
+  ([TechAcute](https://techacute.com/motion-capture-senuas-saga-hellblade-ii-video/)).
+- **Modo Foto**; en la versión *Enhanced* (2025), **Modo Rendimiento** ✅.
+- **Dark Rot Mode** opcional: *permadeath* de verdad, **4 vidas** en los 6
+  capítulos ✅ ([guía de Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3433636765)).
+- Narración alternativa de «**los Otros**» al terminar el juego (§Punto 12).
+
+### 11.4 Menús y contenido descartado
+- Filtros de la versión de PC: oclusión ambiental, aberración cromática,
+  distorsión de lente, grano ✅
+  ([GitHub, hellblade-graphics-guide](https://github.com/Kataiser/hellblade-graphics-guide)).
+- ⚠️ **Menú principal**: nadie sacó captura propia.
+- ⚠️ **The Cutting Room Floor**: `tcrf.net` da 403 (Cloudflare) para los dos
+  juegos. No sé si tiene páginas; no pude leerlas.
+
+## Punto 12 · Lo que ama el fandom, y qué NO hacer
+
+### 12.1 Lo que ama
+- **El farol del *permadeath***: «The dark rot will grow each time you
+  fail…». Mucha gente creyó que perdería la partida; es mentira. Antoniades:
+  «elegimos la frase con cuidado porque no queríamos mentir al jugador […] gran
+  parte de la enfermedad mental, la psicosis en especial, es miedo» ✅
+  ([PCGamesN](https://www.pcgamesn.com/hellblade-senuas-sacrifice/hellblade-permadeath-fake),
+  [ComicBook](https://comicbook.com/gaming/news/hellblade-senuas-sacrifice-permadeath-is-a-lie/)).
+  **El tema clásico del fandom.**
+- **Jugar con auriculares**, casi una regla no escrita ✅.
+- **Rejugar el 2 con «los Otros»**: al terminar se desbloquea la narración de
+  los tres acompañantes de Senua, empezando por el esclavista Thórgestr, en
+  lugar de Druth ✅
+  ([Kotaku en Español](https://es.kotaku.com/repeticion-del-narrador-de-la-saga-hellblade-2-senuas-1851497170)).
+- **Sentirse comprendido**: gente con TEPT, ansiedad o psicosis cuenta que
+  sudó, lloró e hiperventiló jugando (§Punto 21). No es un meme: es la razón
+  por la que lo defienden ✅.
+- **El giro final del 1**: Hela toma la cara de Galena, la madre de Senua,
+  medio quemada; si miras bien, ves a Hela en el lugar de Senua ✅ (wiki,
+  Trivia).
+- **El mensaje oculto de las runas**: los anillos de las piedras rúnicas
+  deletrean en Futhark «**SEEK HELA'S TRUTH IN MIRROR GODS BETRAY US UNMASK
+  FEAR**» ⚠️ (lo descifraron fans:
+  [Steam](https://steamcommunity.com/app/414340/discussions/0/1471967615867064757/)).
+
+### 12.2 Qué NO hacer (le parecería falso a un fan, o hiere)
+- Todo lo del §2: psicosis como monstruo o chiste, Senua «curada»,
+  sensacionalismo, sexualizarla.
+- **Inventar doblaje latino** o poner un actor latino (§Punto 8).
+- **Burbuja blanca** o **barra de vida**: el juego no tiene ni una.
+- **Mezclar lo picto con lo nórdico**: Senua es picta (azul *woad*, espirales,
+  espejos, tríadas celtas); las **runas son de los Northmen**. Ponerle runas a
+  Senua o a su espejo es el error más fácil (parte de texto, 25.5).
+- **Llamarlos «vikingos»**: el juego dice «**Northmen**».
+- **Ponerle a Senua casco de cuernos**, armadura de fantasía o colores
+  alegres: su ropa es cuero, piel y tela vieja (§Punto 15).
+- **Hacerla reír o celebrar**: no pasa en ningún material revisado.
+
