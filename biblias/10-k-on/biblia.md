@@ -470,6 +470,7 @@ Segunda pasada: la licencia de cada modelo se leyó en la API de Sketchfab
 | [Gibson Les Paul](https://sketchfab.com/3d-models/none-0d42458492a1469a80aeaee52ad78c30) | Ismaele.Giraldo | CC BY ✅ | Otra Les Paul, genérica |
 | [Drum Kit](https://sketchfab.com/3d-models/none-898f2f4ba1704abe9c784066e2b0f751) | art.katja | CC BY ✅ | La batería de Ritsu |
 | [Fender Jazz Sunburst Bass](https://sketchfab.com/3d-models/none-e1c6d381a61040139ac64adee6b6bf93) | boogie4631 | CC BY ✅ | Se parece a **Elizabeth**, el Jazz Bass de Mio (ojo: el de Mio es zurdo) |
+| [Les Paul de Yui en vóxeles](https://sketchfab.com/3d-models/none-5ca2f55afce642c2aae02b00bb3436fb) | KaraBulba4ka | CC BY ✅ (recolector) | La Gitah en estilo vóxel, para un guiño de juego |
 | [Etiqueta k-on](https://sketchfab.com/tags/k-on) | varios | — | Buscar más |
 
 También hay, con CC BY según la parte de texto, un peluche de Yui (huwie)
@@ -631,6 +632,8 @@ saturados que lo medido: no usarlos.
 
 - **El logo «けいおん!»** es rotulado a medida, no una letra comercial ⚠️
   (nadie la identifica; [resultado de búsqueda](https://jref.com/resources/kei-font.174/)).
+  La segunda pasada volvió a buscar en inglés y japonés
+  («けいおん ロゴ フォント 特定»): **no lo encontré**.
 - Existe **«けいふぉんと！» (Keifont)**, una letra **gratuita, también para
   uso comercial**, hecha a partir del logo: base **源真ゴシック Heavy** con
   las kanas redibujadas; «け» e «い» rectas como símbolos, «お» y «ん»
@@ -639,8 +642,11 @@ saturados que lo medido: no usarlos.
   [Coliss](https://coliss.com/articles/freebies/freebies-font-keifont.html),
   [Japaaan](https://mag.japaaan.com/archives/17538),
   [descarga](https://font.sumomo.ne.jp/font_1.html)).
-  ⚠️ Las tildes y la ñ vienen de la base; no pude bajarla para
-  comprobarlo.
+  **Comprobada con fontTools** en la segunda pasada: se bajó el zip
+  oficial (`k-font.zip`) y `keifont.ttf` **trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿
+  ¡ ü Ü y ♪** ✅. Licencia dentro del zip: **Apache 2.0** (uso comercial
+  permitido), y su base M+ trae permiso ilimitado ✅. Es **la letra del
+  título**.
 - **Los títulos de episodio** son una palabra con «!»: «廃部!» (*¡Se
   disuelve el club!*), «Tea Party!», «Clean-up!», «Instrument!», «New Club
   Member!» ✅ ([TheTVDB](https://thetvdb.com/series/k-on/episodes/1083291),
@@ -668,8 +674,34 @@ miré si trae **á é í ó ú ñ Ñ ¿ ¡ ü** y la nota **♪**:
 | **Potta One** | Pincel pop | ✅ | ❌ | ✅ |
 
 Todas son **OFL** (libres, también para uso comercial). Recomendación:
-**Mochiy Pop One** para títulos, **Yusei Magic** para lo escrito a
-rotulador y **Klee One** para el cuaderno de Mio.
+**Keifont** para el título, **Mochiy Pop One** para gritos y títulos
+gordos, **Yusei Magic** para lo escrito a rotulador y **Klee One** para
+el cuaderno de Mio.
+
+### 6.3 Una letra para cada uso
+
+La letra real de la serie sólo se conoce en el logo (rotulado) y en los
+carteles (rotulador a mano). Lo demás es **la libre más parecida** a lo
+visto.
+
+| Uso | Cómo es en la serie | Letra libre | Tildes, ñ, ¿ ¡ |
+|---|---|---|---|
+| Logo o título | 「けいおん!」 rotulado: «け» «い» rectas, «お» «ん» redondas | **Keifont** | ✅ (fontTools) |
+| Globo normal | Manga: texto japonés vertical dentro de óvalos finos | **Zen Maru Gothic** o **Hachi Maru Pop** | ✅ |
+| Grito | Títulos de episodio de una palabra con «!» | **Mochiy Pop One** | ✅ |
+| Pensamiento | Páginas «bonus»: texto suelto con «~», sin globo | **Yomogi** | ✅ |
+| Onomatopeya | Dibujada a mano dentro de la viñeta («ビクッ», hoja 20 #939) | **Potta One** (pincel) o **Yusei Magic** | ✅ |
+| Cartel del mundo | Cartel de reclutamiento a rotulador rojo y verde (visto, §7.1) | **Yusei Magic** | ✅ |
+| Cartel de fantasía | «Peace! in Budokan» (T1 ep. 6): letras gordas redondas, degradado y doble contorno | **Bungee** o **Baloo 2** | ⚠️ no se abrieron con fontTools |
+| Interfaz de juego | PSP: japonés de imprenta y «Perfect» en cursiva blanca con contorno | **M PLUS Rounded 1c** | ✅ |
+| Subtítulos y créditos | Los fansubs usan DF Maru Gothic | **Zen Maru Gothic** | ✅ |
+| Cuaderno de Mio | Lápiz, letra de chica | **Klee One** | ✅ |
+
+El rótulo **«Peace! in Budokan»** se midió con `estilo.py` en
+[`Fuwa_Fuwa_HTT_Poster_full.png`](https://static.wikia.nocookie.net/k-on/images/4/45/Fuwa_Fuwa_HTT_Poster_full.png)
+(1920×1080, T1 ep. 6): `#2E2F12` 42 %, `#822337` 18 %, `#C3C471` 16 %,
+`#796B2C` 14 %, `#B66575` 10 %; línea `#615527`, saturación 63 % ✅.
+Sirve para una lámina 2 en broma, no para #general.
 
 ---
 ## 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
@@ -689,8 +721,18 @@ rotulador y **Klee One** para el cuaderno de Mio.
   «narrar» de la serie.
 - **El manga es 4-koma** (cuatro viñetas en vertical) de kakifly ✅
   ([K-ON! Wiki](https://k-on.fandom.com/wiki/Kakifly),
-  [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/KOn)). ⚠️ El
-  aspecto exacto de sus globos (óvalos finos, mucho blanco) es de memoria.
+  [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/KOn)).
+  **Visto en la segunda pasada** ✅:
+  - **Capítulos** (hoja 20 #937-939, [cap. 2, pág. 2](https://k-on.fandom.com/wiki/File:Ch_2_-_Pg_2.png)):
+    **dos tiras 4-koma por página**, marco negro fino; **globos ovalados
+    altos, de línea fina**, muchas veces cortados por el borde de la
+    viñeta; onomatopeyas a mano con líneas de velocidad. Las primeras
+    páginas van en color. (Visto en la hoja, a tamaño pequeño.)
+  - **Páginas «bonus»** de final de tomo
+    ([tomo 1, cap. 4](https://static.wikia.nocookie.net/k-on/images/3/32/K-ON%21_Volume_1_Chapter_4_Bonus_1.png),
+    1119×1600; [tomo 3, cap. 10](https://static.wikia.nocookie.net/k-on/images/f/fa/K-ON%21_Volume_3_Chapter_10_Bonus_1.png),
+    968×1400): **sin globo**. El texto flota junto al personaje
+    («えへへ…») con una rayita ondulada «~». Línea fina, casi sin trama.
 - **Los papeles del club**, que salen en pantalla y son objetos reales:
   - el **cuaderno de letras de Mio** (T1 ep. 5, 15:14-16:22): «ふわふわ時間»
     habla de peluches y dulces; la famosa línea es
@@ -699,11 +741,26 @@ rotulador y **Klee One** para el cuaderno de Mio.
     [Anime UK News](https://animeuknews.net/2011/11/k-on-volume-2/));
   - la **pizarra** de la sala ✅ (sección 5.1);
   - los **carteles para buscar socios** (T1 ep. 12, 19:00: «buscamos
-    alumnas de primero que se apunten») ✅ (subtítulo).
+    alumnas de primero que se apunten») ✅ (subtítulo);
+  - **el cartel de reclutamiento del ep. 1, visto** ✅
+    ([`Mugi_with_poster.jpg`](https://static.wikia.nocookie.net/k-on/images/f/f6/Mugi_with_poster.jpg),
+    1920×1080, T1 ep. 1 «廃部!»): papel blanco a rotulador; 「軽音部」 en
+    **rojo grueso** de trazo irregular; 「バンドやりませんか」 en **verde**,
+    más pequeño e inclinado; **una guitarra acústica dibujada** a rayas; y
+    「♪ギタリスト募集♪」 en negro fino, con **las ♪ dibujadas**. Colores
+    medidos: `#DAD9D5`, `#CBCAC4`, `#9BA089`, `#BC7E65` (saturación 9 %);
+    línea `#988F89`. tesseract sólo lee trozos (es letra de mano); a la
+    vista se lee entero.
 - **En el videojuego** (PSP, 2010), entre canción y canción salen escenas
   con las chicas en **versión chibi charlando** ✅
   ([UK Anime Network](https://www.uk-anime.net/Games/K-ON!_Houkago_Live!!_(PSP).html)).
-  ⚠️ No pude ver la caja de texto.
+  **La caja de texto, vista** ✅
+  ([captura](https://static.wikia.nocookie.net/k-on/images/d/d1/K-ON%21_Ho-kago_Live%21%21_Events.png),
+  480×272): **rectángulo blanco de esquinas redondas, borde negro fino,
+  pico pequeño arriba a la izquierda y ▼ abajo a la derecha**. Es
+  exactamente la burbuja blanca genérica que el dueño rechaza: **el
+  ejemplo de qué no hacer**. Dice 「このボードゲームが欲しくて
+  替えてもらっちゃった▼」, con las chicas en chibi 3D y traje de maid.
 
 ### 7.2 El cuadro propio que propongo
 
@@ -712,8 +769,8 @@ nota ♪, un trozo de pastel, la tortuga Ton. Nunca una burbuja blanca
 genérica.
 
 - Para **frases dichas**: una **tira 4-koma** vertical, fina, con marco
-  negro y globos ovalados simples. Es el formato del manga ✅; el estilo
-  exacto del globo ⚠️.
+  negro y **globos ovalados altos de línea fina**, cortados por el borde
+  de la viñeta. Es el formato del manga ✅ (visto, hoja 20 #937-939).
 - Para **información fija** (a dónde ir): **la tarjeta del menú del té**,
   **la pizarra** o **la setlist pegada al suelo**. Son objetos que existen
   en la serie y se pueden hacer en Blender.
@@ -723,10 +780,15 @@ genérica.
   («¡pasa~!»); es como alarga las palabras en japonés («おいし～い»).
 - **Azusa**: letra ordenada, **Zen Maru Gothic**, sin adornos: es la
   seria.
+- **El cartel de reclutamiento** del ep. 1 es el modelo exacto del
+  «papel del club»: rojo para el nombre, verde para la pregunta, negro
+  fino para el detalle, ♪ a los lados y un dibujo a mano.
+- **Para pensamientos**: como en las páginas «bonus», texto suelto con
+  «~», sin globo.
 
 ### 7.3 Qué NO hacer con el texto
 
-- Nada de burbuja blanca con pico.
+- Nada de burbuja blanca con pico (es la del juego de PSP: vista, §7.1).
 - Nada de estética de rock duro o neón oscuro: K-On! es pastel y tranquilo
   (lo dice ya la [guía de cuadros](../_ya_hechas/_Cuadros%20de%20dialogo%20por%20franquicia%20(23-sep-2026).md)).
 - No inventar frases «del doblaje»: no hay doblaje latino oficial.
@@ -740,8 +802,12 @@ Voces japonesas del reparto ✅ en conjunto
 Aki Toyosaki, Yōko Hikasa, Satomi Satō, Minako Kotobuki, Ayana
 Taketatsu, Asami Sanada. Mio = **Yōko Hikasa** ✅
 ([IMDb](https://www.imdb.com/title/tt1410218/characters/nm2932868),
-[K-ON! Wiki](https://k-on.fandom.com/wiki/Y%C5%8Dko_Hikasa)); el resto de
-parejas voz-personaje, ⚠️ de memoria.
+[K-ON! Wiki](https://k-on.fandom.com/wiki/Y%C5%8Dko_Hikasa)). Yui = **Aki
+Toyosaki** ✅ ([AniList](https://anilist.co/anime/5680) y
+[Wikipedia](https://en.wikipedia.org/wiki/Aki_Toyosaki): mejor actriz del
+Anime Grand Prix 2009 por Yui). Según AniList, Ritsu = Satomi Satō, Mugi
+= Minako Kotobuki, Azusa = Ayana Taketatsu y Sawako = Asami Sanada ⚠️
+(la pareja voz-personaje, en una sola fuente; los nombres, en dos).
 
 Cómo las vio el staff ⚠️ (un blog que traduce las entrevistas del libro
 oficial;
@@ -765,7 +831,10 @@ entrevistas y
 - **Instrumento:** **zurda**; Fender Japan '62 Jazz Bass, 3-Tone Sunburst,
   llamado **«Elizabeth»** (se lo puso Yui; al principio no le gusta).
   El nombre ✅ ([K-ON! Wiki](https://k-on.fandom.com/wiki/Mio_Akiyama);
-  subtítulo T2 ep. 6, 18:43); el modelo exacto ⚠️ (sólo la wiki).
+  subtítulo T2 ep. 6, 18:43); el modelo, **Fender Japan '62 Reissue Jazz
+  Bass zurdo** ✅ (la wiki y
+  [driftingsoul](https://driftingsoul.home.blog/2020/09/05/music-in-anime-the-k-on-girls-awesome-instruments/)).
+  El apodo es juego de palabras: «bass» y «Beth» suenan igual en japonés.
 - **Relaciones:** amiga de la infancia de Ritsu ✅ (subtítulo T1 ep. 6,
   11:11). Hacen pareja cómica: Ritsu la pica y **Mio le da un coscorrón**
   ✅ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Characters/KOn)).
@@ -773,14 +842,19 @@ entrevistas y
   ([K-ON! Wiki](https://k-on.fandom.com/wiki/Mio_Akiyama); subtítulo T1
   ep. 6, 21:50).
 - **Cómo se expresa:** habla poco y claro; regaña corto
-  («¡El club no es una cafetería!», ⚠️ atribución por contexto). Es
+  («¡El club no es una cafetería!», ⚠️ en el fotograma de 5:32 habla
+  Ritsu, no ella: §2.2). Es
   formal: a Yui la llama «Hirasawa-san» y le cuesta decir «Yui» a secas
   (T1 ep. 2, 05:04-05:18) ✅ (subtítulo). Cuando se avergüenza, se bloquea
   (T1 ep. 6, «ya nadie se casará conmigo», 22:06 ✅ subtítulo y
   [Know Your Meme](https://knowyourmeme.com/forums/just-for-fun/topics/13036-fine-ill-watch-k-on)).
 - **Cuerpo:** Yamada pensó en encorvarla por ser alta y decidió que **se
   queda recta** ⚠️ (una entrevista). Pelo **largo, liso, negro** ✅ (arte
-  oficial y wikis), ojos grises ⚠️ ([NamuWiki](https://en.namu.wiki/w/%EC%95%84%ED%82%A4%EC%95%BC%EB%A7%88%20%EB%AF%B8%EC%98%A4)).
+  oficial y wikis; medido `#2A272E` en hoja 2 #74), ojos **gris azulado**
+  ✅ ([NamuWiki](https://en.namu.wiki/w/%EC%95%84%ED%82%A4%EC%95%BC%EB%A7%88%20%EB%AF%B8%EC%98%A4)
+  y [Anime Characters Database](https://www.animecharactersdatabase.com/characters.php?id=17059)).
+- **Manías** (§C): se «come» el kanji de «persona» escrito tres veces en
+  la palma cuando está nerviosa; fotografía con una Lomo LC-A. Sangre A ✅.
 
 ### Yui Hirasawa — la protagonista (guitarra y voz)
 
@@ -793,9 +867,11 @@ entrevistas y
   no resiste a un perro mono (le encantan los pugs) ⚠️
   ([K-ON! Wiki](https://k-on.fandom.com/wiki/Yui_Hirasawa_Trivia)).
   Cuando se decide, suelta «ふんす!» (T2 ep. 1, 06:30) ✅ (subtítulo).
-- **Instrumento:** Gibson Les Paul Standard '50s **Heritage Cherry
-  Sunburst** ⚠️ (la wiki), a la que llama **«Gitah» (ギー太)** ✅ (wiki y
-  subtítulo T1 ep. 12, 18:41: «perdón por olvidarte, Gitah»).
+- **Instrumento:** una **Gibson Les Paul** ✅ (la wiki y
+  [Anime Herald](https://animeherald.com/2022/02/12/why-k-on-deserved-its-second-chance/)),
+  acabado **Heritage Cherry Sunburst** ⚠️ (sólo la wiki), a la que llama
+  **«Gitah» (ギー太)** ✅ (wiki y subtítulo T1 ep. 12, 18:41: «perdón por
+  olvidarte, Gitah»). Pone nombre a todos los objetos (§C).
 - **Relaciones:** su hermana menor **Ui** la cuida (sus padres viajan
   mucho) ✅ (wiki; subtítulo T1 ep. 1, 00:31: Ui la despierta). Yui le
   escribió «U&I» ✅ (wiki y [ANN](https://www.animenewsnetwork.com/news/2010-09-13/k-on-gohan-wa-okazu/u&i-single-is-no.3-on-weekly-chart)). Pone el mote
@@ -818,9 +894,13 @@ entrevistas y
 - **Instrumento:** Fender Mustang **Candy Apple Red**, llamada
   **«Muttan»** (むったん) «porque es una Mustang» ✅
   ([K-ON! Wiki](https://k-on.fandom.com/wiki/Azusa_Nakano_Trivia);
-  subtítulo T2 ep. 20, 19:24).
+  subtítulo T2 ep. 20, 19:24;
+  [driftingsoul](https://driftingsoul.home.blog/2020/09/05/music-in-anime-the-k-on-girls-awesome-instruments/)).
+  Ojo: en la T1 Azusa toca otra guitarra; Muttan es de la T2 ⚠️ (dato de
+  la primera pasada, sin segunda fuente).
 - **El mote:** Sawako le trae **orejas de gato**, Yui le pide que diga
-  «nya» y nace «Azu-nyan» ✅ (misma wiki; subtítulo T1 ep. 9, 10:59-11:09).
+  «nya» y nace «Azu-nyan» ✅ (misma wiki; **visto**, T1 ep. 9,
+  10:57-11:15: abrazo por detrás, «nya» con gota de sudor, §2.2).
 - **Miedo:** quedarse sola cuando las cuatro se gradúen (T2 ep. 24, 17:43:
   «estoy bien, seguiré con el club… está Ton») ✅ (subtítulo).
 - **Cómo se expresa:** formal con las mayores («先輩»), protesta en voz
@@ -840,9 +920,13 @@ entrevistas y
   Le encanta ver a dos chicas muy unidas ✅
   ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Characters/KOn)).
 - **Instrumento:** Korg Triton Extreme de 76 teclas ⚠️
-  ([K-ON! Wiki](https://k-on.fandom.com/wiki/Tsumugi_Kotobuki)).
+  ([K-ON! Wiki](https://k-on.fandom.com/wiki/Tsumugi_Kotobuki)) y keytar
+  Korg RK-100. Korg sacó la **RK-100S «K-ON! Special»** (300 unidades,
+  2014) ✅ ([Crunchyroll News](https://www.crunchyroll.com/news/latest/2014/11/22/korg-offers-300-limited-keyboard-inspired-by-mugi-from-k-on),
+  [ANN](https://www.animenewsnetwork.com/interest/2015-07-16/mugi-chan-keyboard-being-sold-online-for-k-on-5th-anniversary/.90464)).
 - **Rasgo:** **cejas gruesas**; Yui dice que parecen *takuan* (rábano
-  encurtido) ⚠️ (sólo la wiki). Pelo rubio largo y ondulado ⚠️ (memoria).
+  encurtido) ⚠️ (sólo la wiki). Pelo rubio largo y ondulado ✅ (texto de
+  la wiki y arte oficial; medido `#CEB282` en hoja 2 #73).
 - **Cómo se expresa:** muy educada («召し上がって», *sírvanse*), se ríe
   bajito y se emociona sin freno en el MC («¡la banda es divertidísima!»,
   T2 ep. 20, 12:59) ✅ (subtítulo).
@@ -861,7 +945,10 @@ entrevistas y
   03:58 ✅ subtítulo), grita, juega a los
   «soldados» («りっちゃん隊員», T1 ep. 3, 18:23) ✅ (subtítulo). Su MC en
   el festival dura dos frases (T2 ep. 20, 14:22: «¡qué corto!») ✅.
-- **Cuerpo:** diadema que deja la frente al aire ⚠️ (memoria).
+- **Cuerpo:** diadema que deja la frente al aire ✅ (vista en hoja 2 #72
+  y en el manga, hoja 20 #939).
+- **Gustos** (§C): fan de The Who y de **Keith Moon**; la más
+  malhablada del grupo.
 
 ### Sawako Yamanaka — la profesora consejera
 
@@ -886,6 +973,33 @@ entrevistas y
   ep. 20, 12:20-12:28).
 - **Ton**, la tortuga ✅. Es la mascota más fácil de poner en primer plano.
 
+### 8.1 · Sus caras por emoción (con minuto)
+
+Lo que hay **visto** con minuto, y lo que falta. Las caras sin minuto
+salen de fotogramas de la wiki (hojas).
+
+| Quién | Alegría | Rabia o fastidio | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| Yui | ✌️ en la foto de grupo, T1 ep. 1, 20:34 (visto) | ⚠️ falta | ⚠️ falta | ⚠️ falta | ⚠️ falta |
+| Mio | ⚠️ falta con minuto | Seria, codo en la mesa, T1 ep. 2, 5:32 (visto) | ⚠️ falta | Se tapa: «no veo, no oigo», T1 ep. 5, 02:30 (subtítulo, no visto) | Bloqueada, «nadie se casará conmigo», T1 ep. 6, 22:06 (subtítulo) |
+| Ritsu | Tira del pelo a Mio y Mugi, T1 ep. 1, 20:19 (visto) | ⚠️ falta | ⚠️ falta | ⚠️ falta | ⚠️ falta |
+| Mugi | Manos juntas, emocionada, T1 ep. 1, 20:46 (visto) | ⚠️ falta | ⚠️ falta | ⚠️ falta | ⚠️ falta |
+| Azusa | ⚠️ falta con minuto | «Azusa unamused», hoja 20 #945 (sin minuto) | «Seguiré con el club», T2 ep. 24, 17:43 (subtítulo) | ⚠️ falta | «Nya» con gota de sudor, T1 ep. 9, 11:09-11:15 (visto) |
+| Sawako | ⚠️ falta | Regaña, T1 ep. 5, 14:19 (subtítulo) | ⚠️ falta | ⚠️ falta | ⚠️ falta |
+
+Faltan casi todas las de tristeza y miedo: sólo se miraron tres escenas
+de la T1. Con la copia de Internet Archive se pueden sacar (un recorte por
+escena, §12).
+
+### 8.2 · Sus dinámicas (para láminas en grupo)
+
+- **Ritsu y Mio**: Ritsu la pica, Mio le da el coscorrón ✅.
+- **Yui y Azusa**: Yui la abraza por detrás; Azusa protesta y se deja
+  (visto, T1 ep. 9, 10:57).
+- **Mugi** mira emocionada cuando dos están muy unidas, y sirve el té.
+- **Sawako** regaña y acaba comiendo pastel (T1 ep. 5, 14:19-14:37).
+- **Yui y Ui**: Ui la despierta y la cuida (T1 ep. 1, 00:31).
+
 ---
 ## 9 · ¿Quién es la más querida?
 
@@ -905,6 +1019,8 @@ entrevistas y
 | Minna no Ranking (en curso) | 1 Azusa, 2 Yui, 3 Mio | ⚠️ [ranking.net](https://ranking.net/rankings/best-k-on-characters) |
 | Pregunta de fans en Yahoo! Chiebukuro | orden repetido: Mio, Yui, Azusa, Ritsu, Mugi | ⚠️ [Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1046928525) |
 | International Saimoe 2025, por parejas | **Azusa y Yui** campeonas | ⚠️ [Moegirl](https://zh.moegirl.org.cn/%E7%A7%8B%E5%B1%B1%E6%BE%AA) |
+| **Anime Grand Prix 2009** (revista Animage) | **Yui**, mejor personaje; K-On!, mejor serie; Aki Toyosaki, mejor actriz | ✅ [Wikipedia, lista de ganadores](https://en.wikipedia.org/wiki/List_of_Anime_Grand_Prix_winners), [Wikipedia, Aki Toyosaki](https://en.wikipedia.org/wiki/Aki_Toyosaki) |
+| **AniList**, favoritos de usuarios (2026) | 1 Yui 6262, 2 Mio 6161, 3 Azusa 4237, 4 Mugi 4064, 5 Ritsu 3705 | ✅ [AniList](https://anilist.co/anime/5680) (dato directo de su API) |
 
 - Mio suma **17 títulos**, récord de un personaje de KyoAni, y fue la más
   dibujada en pixiv ⚠️ ([Wikipedia en coreano](https://ko.wikipedia.org/wiki/%EC%95%84%ED%82%A4%EC%95%BC%EB%A7%88_%EB%AF%B8%EC%98%A4)).
@@ -912,6 +1028,10 @@ entrevistas y
   favorita», y además **su papel en la serie es poner orden**: perfecta para
   decir «eso va en otro canal». Yui es la anfitriona natural (habla al
   público). Azusa es la segunda opción fuerte.
+- **Segunda pasada:** Yui gana el primer gran premio (Grand Prix 2009) y
+  va 1.ª en AniList por 101 favoritos. En Occidente van casi empatadas;
+  en Japón, a medio plazo, Mio y luego Azusa. La respuesta corta no
+  cambia: **Mio para mandar, Yui para recibir**.
 
 ---
 
@@ -928,28 +1048,75 @@ entrevistas y
   se borró por derechos de autor
   ([SomosKudasai](https://somoskudasai.com/noticias/el-doblaje-latino-de-k-on-que-quizas-no-conocias/),
   [publicación de FallenSubs en Facebook](https://www.facebook.com/FallenSubsOficial/posts/k-on-episodio-1-en-espa%C3%B1ol-latino-por-elocuencia-studio-compartimos-este-proyect/1780737758752636/)).
-- **Reparto de ese doblaje** ⚠️ **dudoso** (una sola fuente,
-  [SomosKudasai](https://somoskudasai.com/noticias/el-doblaje-latino-de-k-on-que-quizas-no-conocias/);
-  la .org es el mismo medio):
+- **El episodio sigue en línea** ✅: una copia subida por un tercero a
+  Internet Archive,
+  [«K-On! Episodio 1 Latino [Doblaje Elocuencia Studio]»](https://archive.org/details/10000000-149823860194122-1366940053429074551-n)
+  (856×484, 24:11). Es la prueba directa de que el doblaje existe.
+- **Reparto** (segunda pasada): el canal **ROCKERO ISRAEL-anime** habló
+  con la actriz de Yui y con el fundador del estudio, y publicó el reparto
+  por personaje ([vídeo del reparto](https://www.youtube.com/watch?v=1vadpuqpMIU),
+  19-jul-2024, con minuto por personaje). Coincide con SomosKudasai en las
+  cuatro principales:
 
-  | Personaje | Actriz | Ficha de la actriz |
+  | Personaje | Actriz | Confirmación |
   |---|---|---|
-  | Yui | Lucía Suárez | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Luc%C3%ADa_Su%C3%A1rez) |
-  | Mio | Carolina Cortés | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Carolina_Cort%C3%A9s) |
-  | Ritsu | Marlene Pérez | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Marlene_P%C3%A9rez) |
-  | Mugi | Bárbara Bustamante | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/B%C3%A1rbara_Bustamante) |
+  | Yui | [Lucía Suárez](https://doblaje.fandom.com/es/wiki/Luc%C3%ADa_Su%C3%A1rez) | ✅ SomosKudasai + vídeo, 9:12 |
+  | Mio | [Carolina Cortés](https://doblaje.fandom.com/es/wiki/Carolina_Cort%C3%A9s) | ✅ SomosKudasai + vídeo, 8:12 |
+  | Ritsu | [Marlene Pérez](https://doblaje.fandom.com/es/wiki/Marlene_P%C3%A9rez) | ✅ SomosKudasai + vídeo, 7:09 |
+  | Mugi | [Bárbara Bustamante](https://doblaje.fandom.com/es/wiki/B%C3%A1rbara_Bustamante) («Bárbara Usagi») | ✅ SomosKudasai + vídeo, 5:20 |
+  | Ui | Pamela González | ⚠️ sólo el vídeo, 1:37 |
+  | Nodoka | [Belén Marín](https://doblaje.fandom.com/es/wiki/Bel%C3%A9n_Mar%C3%ADn) (el vídeo dice «Belén marine») | ⚠️ sólo el vídeo, 4:23 |
+  | Sawako | María Doris Cuevas | ⚠️ sólo el vídeo, 3:02 |
 
-  Las fichas de las actrices existen, pero **no pude abrirlas** para ver si
-  nombran K-On!. Un TikTok habla de los responsables
-  ([rockeroisrael](https://www.tiktok.com/@rockeroisrael.anime/video/7389514905214340357)),
-  sin ver su contenido.
+  Las fichas de Doblaje Wiki de las siete **no nombran K-On!** (se leyó
+  su wikitext entero): normal en un trabajo nunca facturado. Cuentan como
+  prueba de que la persona existe, no del papel.
+- **Dirección** ⚠️ **dudoso**: según el mismo canal
+  ([«toda la verdad»](https://www.youtube.com/watch?v=BH4oqr_m7Lk),
+  10:20-10:53), **Felipe Waldhorn** fundó Elocuencia, dirigió el doblaje y
+  la mezcla, y el estudio pasó a ser **Sudamerican Voices**. Pero la
+  [ficha de Sudamerican Voices](https://doblaje.fandom.com/es/wiki/Sudamerican_Voices)
+  da otros fundadores (Cecilia Valenzuela y Raúl Valles Contador); la de
+  [Felipe Waldhorn](https://doblaje.fandom.com/es/wiki/Felipe_Waldhorn) lo
+  pone hoy como gerente y coach allí. No se pudo resolver.
+
+### 10.1 · Frases textuales del piloto, con minuto
+
+Oídas con `voz.py` (Whisper) en la
+[copia de Internet Archive](https://archive.org/details/10000000-149823860194122-1366940053429074551-n)
+(el minuto es el del archivo). Son de la escena en que Ritsu arrastra a
+Mio y buscan socias, y de cuando Yui confiesa que no tiene guitarra ✅.
+Sólo se citan líneas sin nombres propios: Whisper escribió «Richo» por
+«Ritsu». ⚠️ El archivo no dice quién dice cada frase: sale del contexto.
+
+| Min. | Frase del doblaje |
+|---|---|
+| 4:08 | «¿Ya han pasado dos semanas desde que iniciamos las clases?» |
+| 4:55 | «¡Al de música ligera, vamos!» |
+| 4:57 | «Pero tenía planeado unirme en la literatura.» |
+| 5:20 | «Todos sus miembros se graduaron la primavera pasada.» |
+| 5:24 | «Por lo que será disuelto si no entran cuatro personas durante este mes.» |
+| 6:30 | «Si me uno ahora, seré la presidenta.» |
+| 6:44 | «Se refiere a música sencilla o popular.» |
+| 21:09 | «¿Al final sí te uniste al club?» |
+| 21:19 | «No tengas fe en mí para tocar la guitarra.» |
+| 21:43 | «¿Qué habrán pensado cuando la dejaron unirse al club?» |
+
+- **Cómo suena**: registro medio-agudo (169-294 Hz según el tramo) y **muy
+  expresivo** (31-33 semitonos de rango). Un doblaje con mucha entonación.
+- **Para la lámina**: si se cita, rotularlo como **«el doblaje perdido»**
+  o «piloto de Elocuencia Studio», nunca como «el doblaje latino de
+  K-On!». Quedan unos 24 minutos sin transcribir.
+- **Ojo con el recolector**: la ficha «Kon» de Doblaje Wiki es de
+  *Bleach* (el peluche), no de K-On!.
+
 - **Dónde se ve en español:** Crunchyroll, **subtitulado** ✅
   ([Crunchyroll](https://www.crunchyroll.com/es/series/GXJHM3N2E/k-on),
   [JustWatch](https://www.justwatch.com/us/tv-show/k-on)).
 - **Consecuencia para la lámina:** las frases van **traducidas del
   japonés por nosotros**, con naturalidad latina. Ninguna se presenta como
-  «frase del doblaje». Hay fandubs en YouTube
-  ([ejemplo](https://www.youtube.com/watch?v=scal1_PRGh8)), no oficiales.
+  «frase del doblaje» oficial; las del piloto, con su aviso (§10.1).
+  Fandubs y covers en español: §E.
 
 ---
 
@@ -957,10 +1124,10 @@ entrevistas y
 
 | Tema | Dónde | Quién canta | Dato | Ambiente |
 |---|---|---|---|---|
-| **Cagayake! GIRLS** | OP de la T1 | Yui (Aki Toyosaki) ⚠️ | n.º 4 en Oricon, unas 62 000 copias ⚠️ W | subidón de primer día de clase |
-| **Don't say "lazy"** | ED de la T1 | **Mio (Yōko Hikasa)** ⚠️ W | n.º 2 en Oricon, 67 000 ⚠️ W | rock chulo, Mio en modo estrella |
-| **GO! GO! MANIAC** | OP 1 de la T2 | Ho-kago Tea Time | **n.º 1**, más de 83 000 ⚠️ W | muy rápido, eufórico |
-| **Listen!!** | ED 1 de la T2 | Ho-kago Tea Time | n.º 2 la misma semana ⚠️ W | himno de banda |
+| **Cagayake! GIRLS** | OP de la T1 | Yui (Aki Toyosaki) ⚠️ | n.º 4 en Oricon, unas 62 000 copias; single n.º 35 de 2009 (150 458) ✅ (W y [generasia](https://www.generasia.com/wiki/Cagayake!_Girls)). Letra de **Shoko Ohmori**, música de **Tom-H@ck** ✅ (créditos del ep. 1 y generasia) | subidón de primer día de clase |
+| **Don't say "lazy"** | ED de la T1 | **Mio (Yōko Hikasa)** ⚠️ W | n.º 2 en Oricon, 67 000 ⚠️ W. Letra de Shoko Ohmori ✅ (créditos del ep. 1) | rock chulo, Mio en modo estrella; en pantalla, alter egos góticos con rótulos de neón (§2.1) |
+| **GO! GO! MANIAC** | OP 1 de la T2 | Ho-kago Tea Time | **n.º 1** ✅ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/AwesomeMusic/KOn), [generasia](https://www.generasia.com/wiki/Go!_Go!_Maniac)); música de Tom-H@ck ✅ | muy rápido, eufórico |
+| **Listen!!** | ED 1 de la T2 | Ho-kago Tea Time | n.º 2 la misma semana ✅ (mismas dos) | himno de banda |
 | **Fuwa Fuwa Time** | T1 ep. 12, 19:18 | Yui | disco de oro ⚠️ W | la canción del club, dulce |
 | **U&I** | T2 | Yui para Ui | single n.º 3 ✅ ([ANN](https://www.animenewsnetwork.com/news/2010-09-13/k-on-gohan-wa-okazu/u&i-single-is-no.3-on-weekly-chart)) | ternura |
 | **Tenshi ni Fureta yo!** | T2 ep. 24, 18:44 | las cuatro para Azusa | ✅ (subtítulo) | despedida, llanto |
@@ -968,13 +1135,22 @@ entrevistas y
 
 - «W» = sólo Wikipedia (una fuente, dudoso, aunque Wikipedia cita a
   Oricon). Con «GO! GO! MANIAC» y «Listen!!», Ho-kago Tea Time fue el
-  **tercer grupo femenino en ocupar a la vez el 1 y el 2** de Oricon, y el
-  primero en 26 años ⚠️ W. «Cagayake!» y «Don't say "lazy"» fueron platino
+  **tercer grupo femenino en ocupar a la vez el 1 y el 2** de Oricon ✅
+  (W y TV Tropes); «el primero en 26 años» sigue ⚠️ W. «Cagayake!» y «Don't say "lazy"» fueron platino
   en descargas ⚠️ W ([Wikipedia](https://en.wikipedia.org/wiki/K-On!),
   [Ho-Kago Tea Time](https://en.wikipedia.org/wiki/Ho-Kago_Tea_Time),
   [discografía](https://en.wikipedia.org/wiki/List_of_K-On!_albums)).
 - Letra de «Don't say "lazy"» en el subtítulo: «能ある鷹はそう 見えないとこに
   ピック隠すんです» (*el halcón listo esconde la púa donde no se ve*) ✅.
+- **Banda sonora** de **Hajime Hyakkoku** (百石元) ✅
+  ([AniList](https://anilist.co/anime/5680/staff),
+  [MusicBrainz](https://musicbrainz.org/release-group/eb7e25b2-d763-45ce-8521-0b542c409893)):
+  *K-ON! Original Sound Track* (3-jun-2009), dos volúmenes de la T2
+  (2010) y el de la película (21-dic-2011).
+- **Efectos de sonido**: Daisuke Jinbo (AniList) ⚠️. **No encontré** un
+  efecto de sonido que todos reconozcan (nadie lo buscó con la red
+  abierta). Onomatopeyas del manga: a mano, como 「ビクッ」 (hoja 20 #939).
+- AnimeThemes.moe dio **522** dos días seguidos: no hay `.webm` limpios.
 - **Para #general:** «Fuwa Fuwa Time» es el ambiente (dulce, de merienda).
   Para #que-estas-escuchando (lámina 2), el guiño es «Don't say "lazy"».
 
@@ -984,17 +1160,31 @@ entrevistas y
 
 - **Canal oficial de Kyoto Animation:** [KyoaniChannel](https://www.youtube.com/channel/UCpGY2vcoKXf7K6tFzsbSv7w)
   y su [lista de vídeos](https://www.youtube.com/playlist?list=PLQoVKoEXurCsfPK_FZNd3ZFaXHjo1y9nU).
-  ⚠️ No localicé el tráiler exacto de K-On!: minuto sin verificar.
+- **Tráiler oficial de la película, visto entero** ✅
+  ([Dailymotion](https://www.dailymotion.com/video/x8hzysi), 1:28): las
+  cinco tazas desde arriba en
+  [`?start=16`](https://www.dailymotion.com/video/x8hzysi?start=16) y la
+  cartela de Londres en
+  [`?start=34`](https://www.dailymotion.com/video/x8hzysi?start=34)
+  (minuto a minuto en §2.1). El tráiler de la T1 que da AniList
+  ([YouTube](https://www.youtube.com/watch?v=mFHue76hqt0)) no se pudo ver
+  ⚠️ (pide iniciar sesión).
+- **Los episodios de la T1 y la T2**, uno por archivo, en
+  [Internet Archive](https://archive.org/details/k-on-s1-2) (640×360): se
+  recortan con `ffmpeg -ss` sin bajar el episodio entero. Es la vía para
+  sacar más fotogramas con minuto.
 - **Análisis:** [K-On | A Kyoto Animation Retrospective](https://www.youtube.com/watch?v=CKn1OgxPK3Y),
   [A Reflection on K-on and Kyoto Animation](https://www.youtube.com/watch?v=q-mjTzzWPak),
   [K-On: Die Krönung Kyoto Animations](https://www.youtube.com/watch?v=fDBb1YRlcx4)
-  (alemán). Minuto sin verificar en todos.
+  (alemán). Minuto sin verificar en todos ⚠️ (YouTube pidió iniciar
+  sesión también en la segunda pasada).
 - **TikTok:** vídeos en español sobre el doblaje perdido
   ([1](https://www.tiktok.com/@rockeroisrael.anime/video/7330431409305160965),
   [2](https://www.tiktok.com/@rockeroisrael.anime/video/7389514905214340357)).
-  **No encontré una tendencia viral** de K-On! en 2024-2026.
-- **Lo más útil para la lámina** son los minutos exactos de la sección 2,
-  sacados de los subtítulos.
+  Son de **ROCKERO ISRAEL-anime** (§E). **No encontré una tendencia
+  viral** de K-On! en 2024-2026 (tampoco en la segunda pasada).
+- **Lo más útil para la lámina** son los minutos exactos de la sección 2:
+  los de los subtítulos y los vistos (§2.1, §2.2).
 
 ---
 
@@ -1008,17 +1198,37 @@ entrevistas y
   [GameBrew](https://www.gamebrew.org/wiki/K-ON!_Houkago_Live!!_PSP_-_English_Translation)).
 - Cada chica se toca distinto: Yui casi todo con **O**, Azusa con **X** y
   **□**, Mio con las **flechas**, Mugi con **□** y **△** manteniendo,
-  Ritsu con **abajo** y **X** ⚠️
-  ([K-ON! Wiki](https://k-on.fandom.com/wiki/K-ON!_Ho-kago_Live!!)).
+  Ritsu con **abajo** y **X** ✅
+  ([K-ON! Wiki](https://k-on.fandom.com/wiki/K-ON!_Ho-kago_Live!!); la
+  reseña de UK Anime Network confirma que Mio va con la cruceta y que Yui
+  y Azusa tienen esquemas distintos).
 - **Escenas chibi** entre canciones, las chicas charlando antes de
   explicar lo que se ha desbloqueado ✅ (UK Anime Network). **Reloj**: la
   chica que elijas te dice la hora ✅. **Trajes** que se ganan ✅.
   **Bañadores** en el menú chibi ✅ (GameBrew).
-- **Idea para la lámina 2:** el menú chibi del juego es un buen precedente
-  de «chicas pequeñas señalando opciones». ⚠️ No vi capturas; sin
-  interfaz verificada, no copiarla.
-- La página de The Cutting Room Floor existe (contenido sin usar), pero no
-  pude abrirla.
+- **Capturas vistas y medidas** (segunda pasada, 480×272, de la wiki) ✅:
+  - [Eventos](https://static.wikia.nocookie.net/k-on/images/d/d1/K-ON%21_Ho-kago_Live%21%21_Events.png):
+    chibis 3D en traje de maid en una calle comercial; la caja de texto es
+    **la burbuja blanca con pico y ▼** (§7.1). No copiarla.
+  - [Pantalla de ritmo](https://static.wikia.nocookie.net/k-on/images/7/7f/K-ON%21_Ho-kago_Live%21%21_Dont_say_Lazy.png):
+    las cinco tocando en chibi, **carriles de notas con los iconos de la
+    PSP en color** (rombo azul, círculo rojo, cruz azul, cuadrado rosa),
+    combo «27» y **«Perfect»** en cursiva blanca con contorno. Paleta
+    `#FCFDFD` 46 %, `#DCE5DA` 18 %, `#39302E` 15 %.
+  - [Elegir canción](https://static.wikia.nocookie.net/k-on/images/a/a4/K-ON%21_Ho-kago_Live%21%21_Song_Select.png):
+    **una franja de color plano por canción**, panel «STAGE» con la villa
+    de Mugi (「紬の別荘」) y **tabla de rango por chica** con estrellas
+    (Mio ★★★ rango **S**). Pie: 「↑↓選択 ○決定 ×戻る」 (tesseract). Paleta
+    muy saturada: `#0E0F0D`, `#479D8E`, `#5DC33B`, `#D16E52`.
+- ***Kirara Fantasia*** (RPG gacha de Aniplex, 2018): junta personajes de
+  toda la revista Manga Time Kirara; **kakifly dibujó a las de K-On!** en
+  versión fantasía ✅ ([QooApp](https://apps.qoo-app.com/en/app/5477) y
+  [Wikipedia en japonés](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8D%E3%81%B5%E3%82%89%E3%81%84)).
+  ⚠️ Su interfaz no se vio (GameFAQs y MobyGames dieron 403).
+- **Idea para la lámina 2:** la **tabla de rango con estrellas** del menú
+  es un buen precedente para una lámina de rangos o etiquetas, en chibi.
+- La página de The Cutting Room Floor existe (contenido sin usar), pero
+  **no cargó** tampoco en la segunda pasada ⚠️.
 
 ---
 
@@ -1048,35 +1258,72 @@ entrevistas y
   real ✅.
 - **Brillos en todo el pelo.** Sólo Mio y Azusa tienen brillo ⚠️.
 - **Mio encorvada.** Está recta aunque sea tímida ⚠️.
-- **Mio diestra.** Es **zurda**: el mástil del bajo va a su derecha ⚠️
-  (la wiki; comprobar en un fotograma).
+- **Mio diestra.** Es **zurda**: el mástil del bajo va a su derecha ✅
+  (visto en hoja 2 #74; kakifly es zurdo y por eso la hizo zurda, según
+  [Wikipedia en japonés](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8D%E3%81%B5%E3%82%89%E3%81%84)
+  y la [K-ON! Wiki](https://k-on.fandom.com/wiki/Kakifly)).
 - **Instrumentos cambiados.** Gitah es cereza con centro dorado, no negra;
-  Muttan es roja; la batería es amarilla ⚠️ (la wiki; comprobar).
+  Muttan es roja; la batería es amarilla ✅ (vistos en hoja 2 #76, #71 y
+  #82).
 - **Cintas de colores mezcladas** (sección 16).
 - **Enseñar la caída de Mio en el festival** (T1 ep. 6, 21:01): es un
   momento famoso, pero es *fanservice*; no va en una lámina.
 - **Chistes con fuego o con el estudio.** En 2019 un incendio provocado en
-  Kyoto Animation mató a 36 personas ✅; entre ellas, según un resumen de prensa,
-  **Junichi Eda**, que animó K-On! ⚠️ ([Wikipedia](https://en.wikipedia.org/wiki/Kyoto_Animation_arson_attack),
+  Kyoto Animation mató a 36 personas ✅; entre ellas **Junichi Eda**, que
+  animó K-On! ✅ (lista de la policía, en
+  [SoraNews24](https://soranews24.com/2019/08/05/names-of-10-kyoto-animation-arson-victims-released-family-and-friends-offer-words-of-remembrance/)
+  y [Animation Magazine](https://www.animationmagazine.net/2019/08/police-release-names-of-10-kyoto-animation-arson-victims/);
+  [Wikipedia](https://en.wikipedia.org/wiki/Kyoto_Animation_arson_attack),
   [Japan Times, homenaje de 2026](https://www.japantimes.co.jp/news/2026/07/18/japan/kyoto-animation-memorial-service/)).
 - **Rock agresivo, neón, oscuridad.** Es pastel y tranquilo.
-- **Presentar frases como «del doblaje latino».** No hay doblaje oficial.
+- **Presentar frases como «del doblaje latino».** No hay doblaje oficial;
+  las del piloto de Elocuencia, sólo como «el doblaje perdido» (§10.1).
+- **La burbuja blanca del juego de PSP** (§7.1): es de la franquicia, pero
+  es justo lo que el dueño rechaza.
+- **Contorno negro puro y sombras duras.** La línea es marrón cálida y la
+  sombra, suave (§A).
 
 ---
 ## 15 · Poses analizadas por personaje
 
 **Cómo leer esto.** El minuto y lo que pasa salen del subtítulo ✅; quién
-habla, por contexto (ver el aviso de la sección 2). **La
-postura, las manos y la mirada son de memoria ⚠️**: no pude ver los
-fotogramas. Antes de dibujar, hay que capturar ese minuto y mirarlo.
-La última columna dice para qué sirve: **presentar, explicar, celebrar,
-regañar, pensar, animar**.
+habla, por contexto (ver el aviso de la sección 2). En las tablas por
+personaje, **la postura, las manos y la mirada son de memoria ⚠️** salvo
+donde dice «visto». Lo visto de verdad está en §15.0. Antes de dibujar
+una pose de memoria, hay que capturar ese minuto y mirarlo. La última
+columna dice para qué sirve: **presentar, explicar, celebrar, regañar,
+pensar, animar**.
+
+### 15.0 · Lo visto de verdad (segunda pasada)
+
+En vídeo (copia de Internet Archive, §2.2):
+
+| Quién | Pose vista | Ep. y minuto | Sirve para |
+|---|---|---|---|
+| Yui + Azusa | Abrazo por detrás, mejilla con mejilla, las dos sonriendo | T1 ep. 9, **10:57** | celebrar, cariño |
+| Grupo (Yui, Mio, Ritsu, Mugi) | Foto de grupo con ✌️, dos disparos | T1 ep. 1, **20:34-20:43** | **celebrar en grupo** |
+| Mugi | Manos juntas, ojos entornados, sonrisa emocionada | T1 ep. 1, **20:46** | animar, conmoverse |
+| Ritsu | Tira a la vez del pelo de Mio y de Mugi | T1 ep. 1, **20:19** | el chiste, dinámica |
+| Azusa | «Nya» forzado, orejas de gato caídas, gota de sudor | T1 ep. 9, **11:09-11:15** | vergüenza |
+| Mio | Sentada, codo en la mesa, cara seria, escuchando | T1 ep. 2, **5:32** | pensar, escuchar con fastidio |
+| Ritsu | Sentada a la mesa, boca abierta, gesto animado | T1 ep. 2, **5:32** | explicar, quejarse |
+
+En arte oficial (hojas, §3.0), sin minuto:
+
+| Quién | Pose | Hoja | Sirve para |
+|---|---|---|---|
+| Cada una | De pie, fondo blanco, **con su instrumento**, mirando al frente | hoja 2 #71-74 y #76 | **presentar** |
+| Mio | De pie con el bajo colgado, zurda | hoja 2 #74 | presentar, **regañar** con la mano libre |
+| Las cinco | Alrededor de la mesa con té y dulces | hoja 1 #24 | **presentar la plaza** |
+| Mugi | Manos juntas delante de la cara | hoja 1 #41 | animar |
+| Las cinco | De pie en la calle, uniforme de invierno | hoja 2 #60 | presentar en grupo |
+| Azusa | Cara de fastidio, primer plano | hoja 20 #945 | regañar |
 
 ### Mio
 
 | Momento | Ep. y min | Qué hace | Pose ⚠️ | Sirve para |
 |---|---|---|---|---|
-| «¡El club no es una cafetería!» ⚠️ | T1 ep. 2, 05:32 | corta a Yui | de pie, brazos cruzados o mano en la cadera, ceño | **regañar / redirigir** |
+| «¡El club no es una cafetería!» ⚠️ ¿es suya? | T1 ep. 2, 05:32 | en el fotograma habla Ritsu; Mio escucha (visto) | **sentada**, codo en la mesa, seria (visto). La pose «de pie, brazos cruzados» no sale en ese minuto | **regañar / redirigir** (con otra imagen) |
 | «No veo, no oigo» | T1 ep. 5, 02:30 | se asusta | agachada, manos en las orejas, ojos cerrados | pensar (miedo) |
 | Le leen sus letras | T1 ep. 5, 15:14-16:22 | se muere de vergüenza | cara roja, manos delante, quiere quitar el cuaderno | **explicar** con humor |
 | Canta «Fuwa Fuwa Time» en su primer festival | T1 ep. 6, 18:19-20:35 | canta y toca | recta, zurda, micro | **celebrar** |
@@ -1089,8 +1336,8 @@ regañar, pensar, animar**.
 | Momento | Ep. y min | Qué hace | Pose ⚠️ | Sirve para |
 |---|---|---|---|---|
 | Se despierta tarde | T1 ep. 1, 00:42-00:58 | corre al colegio | carrera, tostada o bolso, pelo revuelto | animar |
-| «¡Me apunto!» | T1 ep. 1, 20:13 | entra al club | brazos arriba, sonrisa enorme | **celebrar** |
-| Nace «Azu-nyan» | T1 ep. 9, 11:09 | pone el mote | se lanza a abrazar | animar |
+| «¡Me apunto!» y la fiesta | T1 ep. 1, 20:13; fiesta 19:55-20:46 (visto) | entra al club | ✌️ en la foto de grupo, 20:34 (visto) | **celebrar** |
+| Nace «Azu-nyan» | T1 ep. 9, 10:57 (visto) | pone el mote | abraza a Azusa por detrás, mejilla con mejilla (visto) | animar |
 | MC «nuestro Budokan» | T1 ep. 12, 18:32-19:11 | habla al público | micro en mano, Gitah colgada, mirada al frente | **presentar / explicar** |
 | «¡Amo el club!» | T1 ep. 12, 21:57 | grita de alegría | brazos abiertos | **celebrar** |
 | Voz en off, las presenta | T2 ep. 1, 04:13-04:55 | presenta a cada una | (planos de cada chica) | **presentar** |
@@ -1101,7 +1348,7 @@ regañar, pensar, animar**.
 
 | Momento | Ep. y min | Qué hace | Pose ⚠️ | Sirve para |
 |---|---|---|---|---|
-| «Nya» con orejas de gato | T1 ep. 9, 11:02 | dice «nya» a su pesar | manitas de gato, cara roja | el meme |
+| «Nya» con orejas de gato | T1 ep. 9, 11:09-11:15 (visto) | dice «nya» a su pesar | orejas caídas, gota de sudor, fondo de burbujas (visto) | el meme |
 | «¿Y el ensayo?» | T1 ep. 9, 17:47 | protesta | de pie junto a la mesa, puños | **regañar** |
 | «Ensayemos ya» | T1 ep. 12, 06:02 | mete prisa | señala los instrumentos | regañar |
 | Se presenta en el MC | T2 ep. 20, 13:45 | «soy Azusa Nakano, encantada» | reverencia nerviosa | **presentar** |
@@ -1150,24 +1397,59 @@ regañar, pensar, animar**.
   En el año de la T2, **tercero = azul, segundo = rojo, primero = verde**
   ✅ (misma fuente). **Por tanto: Yui, Mio, Ritsu, Mugi y Nodoka van con
   azul; Azusa, Ui y Jun, con rojo** (deducción mía de esas dos reglas).
-- **Colores de la tela** ⚠️ (estimados): blazer azul marino `#2F3553`,
-  falda oscura, camisa `#F7F7F5`, cinta azul `#3A5DAE`, cinta roja
-  `#C2323A`. Hay réplicas licenciadas para comparar la tela:
-  [uniforme de verano](https://b2b.mile-stone.jp/en/products/000378945),
-  [uniforme de invierno](https://b2b.mile-stone.jp/en/products/groups/17474)
-  (MILESTONE).
+- **Colores medidos** ✅ (segunda pasada, `estilo.py` sobre arte oficial,
+  de cada archivo):
+  - **Blazer de invierno `#4E4963`** (azul violáceo oscuro), suéter y
+    bufanda `#A3A5B2`, piel `#F4E2D1`, contorno del pelo `#3F343A` — en
+    [HTT posing](https://static.wikia.nocookie.net/k-on/images/6/6d/HTT_posing.jpg)
+    (hoja 2 #60). **Corrige** el `#2F3553` estimado.
+  - **Yui** ([con su guitarra](https://k-on.fandom.com/wiki/File:Yui_with_her_guitar.png),
+    hoja 2 #76): ⚠️ no se midió. En la portada de *Character Image Songs*,
+    marrón rojizo `#784315`.
+  - **Mio** ([con su bajo](https://static.wikia.nocookie.net/k-on/images/9/98/Mio_with_her_bass_2.png)):
+    pelo `#2A272E`, madera del bajo `#C29550`, piel `#EED0AB`.
+  - **Ritsu** ([con baquetas](https://static.wikia.nocookie.net/k-on/images/3/33/Ritsu_with_her_drumsticks.png)):
+    saco `#191A26`, baquetas `#66522F`, piel `#E9CB9D`; en su portada de
+    CD, marrón `#9F6D24` y `#623B1E`.
+  - **Mugi** ([con su teclado](https://static.wikia.nocookie.net/k-on/images/8/8f/Mugi_with_her_keyboard.png)):
+    rubio `#CEB282`, piel `#F1DDBE`.
+  - **Azusa** ([con su guitarra](https://static.wikia.nocookie.net/k-on/images/1/1c/Azusa_with_her_guitar.png)):
+    pelo negro con tinte morado `#2A2027` (la wiki dice «purple-tinted»),
+    rojo oscuro `#721A28`, piel `#F0CEA8`.
+  - ⚠️ Sin identificar: un verde azulado `#40A496` en la portada de CD de
+    Azusa y un cian `#2499C4` en la de Mio (¿un colgante?).
+  - Camisa `#F7F7F5`, cinta azul `#3A5DAE` y cinta roja `#C2323A` siguen
+    **estimadas** ⚠️. Réplicas licenciadas para ver la tela:
+    [uniforme de verano](https://b2b.mile-stone.jp/en/products/000378945),
+    [uniforme de invierno](https://b2b.mile-stone.jp/en/products/groups/17474)
+    (MILESTONE).
 - **Lo icónico, lo que todos reconocen:** **el uniforme de invierno con su
-  instrumento**. Es la imagen de las portadas y del merchandising ⚠️
-  (impresión de las búsquedas, no medida).
+  instrumento** ✅ (visto: es la pose de las cinco ilustraciones de hoja 2
+  #71-76 y de #60, y la de las figuras oficiales, §F).
 - **Trajes de escenario de Sawako** (T1 ep. 6, 08:00; T1 ep. 12, 03:34:
-  «elijan traje de aquí») ✅ (subtítulo). ⚠️ Cómo son, sin ver.
+  «elijan traje de aquí») ✅ (subtítulo). **Vistos** ✅ en hoja 20 #921-922:
+  Mio con **abrigo largo oscuro entallado**; Ritsu con **sudadera rosa
+  «999»** y pantalón verde. No van iguales: cada una tiene su look.
+- **El traje del ending** «Don't Say Lazy» ✅ (visto, §2.1, y hoja 2
+  #94-95): vestido negro gótico, sombrero de copa o diadema, **medias de
+  rayas**.
+- **Ropa fuera del anime** ✅: **yukata** (tarjeta de Hobunsha, hoja 20
+  #925) y **temporada de lluvias** con paraguas e impermeable (#926).
+  También trajes de **maid** de la T2 (hoja 2 #64) y los de Navidad (hoja 1
+  #3).
 - **Orejas de gato de Azusa** ✅ (sección 8).
 - **Camisetas del último festival**, regalo sorpresa (T2 ep. 20, 15:56:
-  «¡gracias por las camisetas, profe!») ✅ (subtítulo). ⚠️ Diseño sin ver.
-- **Accesorios fijos:** horquillas amarillas de Yui ⚠️, diadema de Ritsu
-  ⚠️, coletas de Azusa ⚠️ (memoria).
+  «¡gracias por las camisetas, profe!») ✅ (subtítulo). En la hoja 2 #87
+  van con **camisetas de colores con un kanji cada una** (桜・高・軽・音・部)
+  ⚠️ (sin confirmar que sean las de ese episodio).
+- **Accesorios fijos:** horquillas de Yui ⚠️ (color sin medir), diadema
+  de Ritsu ✅ y coletas de Azusa ✅ (vistas en hojas 2 y 20).
+- **Color de cada una en el merchandising** (Yui rojo, Mio azul, Ritsu
+  amarillo, Mugi rosa, Azusa verde, §5.4): ⚠️ sigue en una sola fuente de
+  fans. No es el color de su ropa.
 
 ---
+
 
 ## 17 · Paisajes y fondos de pantalla
 
@@ -1182,69 +1464,178 @@ regañar, pensar, animar**.
 - **Londres** (película, viaje de graduación) ✅
   ([K-ON! Wiki](https://k-on.fandom.com/wiki/K-ON!_Movie),
   [Analog Housou](https://analoghousou.com/2011/12/12/nonstop-to-london-k-on-the-movie/)).
-- **Hora del día:** **después de clase**, la tarde, con luz dorada ⚠️
-  (lo pide el nombre de la banda; no medido).
-- **Fondos de pantalla en alta:** ⚠️ no encontré ninguno con tamaño y autor
-  verificables. El mejor candidato oficial es la ilustración de grupo del
-  15.º aniversario (sección 3.2).
+- **Hora del día:** **después de clase**, la tarde ✅. Luz cálida pero
+  **apagada**, medida: pared con luz `#E4D4BE`, madera `#483531` (T1 ep. 1,
+  20:34, §5.4). En el opening, primavera: cerezos `#E6D4DC`, `#F7EBF5`.
+- **Fondos de pantalla oficiales** (Kyoto Animation) ✅:
+  [1920×1080](https://www.zerochan.net/4395127) y
+  [2000×3000 para móvil](https://www.zerochan.net/4375977).
+- **Fondos de pantalla de fans**, con tamaño, autor y origen ✅ (vía
+  [Wallhaven](https://wallhaven.cc), cada uno seguido hasta su origen):
+
+  | Tamaño | Subido por | Qué | Origen |
+  |---|---|---|---|
+  | 2758×1600 | hzqqy | Yui, Ritsu, Mio y Mugi | [pixiv 86083338](https://www.pixiv.net/en/artworks/86083338) · [archivo](https://w.wallhaven.cc/full/v9/wallhaven-v9p915.jpg) |
+  | 2758×1600 | hzqqy | las cinco | [pixiv 84595361](https://www.pixiv.net/en/artworks/84595361) · [archivo](https://w.wallhaven.cc/full/28/wallhaven-2818x9.jpg) |
+  | 2758×1600 | hzqqy | Yui, Ritsu, Mio y Mugi | [pixiv 82026799](https://www.pixiv.net/en/artworks/82026799) · [archivo](https://w.wallhaven.cc/full/3z/wallhaven-3zqz86.jpg) |
+  | 2560×1440 | ludendorf | Mio, Yui y Mugi | [pixiv 57408211](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=57408211) · [archivo](https://w.wallhaven.cc/full/3k/wallhaven-3klgzy.jpg) |
+  | 2048×1579 | (cuenta borrada) | fan art de juralumin_ | [X](https://twitter.com/juralumin_/status/1148082214493708289) · [archivo](https://w.wallhaven.cc/full/g8/wallhaven-g82533.jpg) |
+
+  Son fan art: para mirar y contrastar, nunca para pegar. El autor real
+  es el de la página de origen (pixiv o X).
+- La ilustración de grupo del 15.º aniversario (sección 3.2) sigue siendo
+  el mejor arte oficial nuevo, pero no hay copia grande ⚠️.
 
 ---
-## 18 · Guía para generar con IA (Firefly, Canva)
+## 18 · Guía para generar con IA (Firefly, Canva) — punto 17
 
-Sirve para bocetos de pose o de fondo. **Nunca para la lámina final** (el
-dueño pide que no parezca hecho por IA). Lo final se dibuja o se recorta
-de fotogramas y se integra con `v3/integrar.py`.
+Sirve para bocetos de pose o de fondo, y para escribir textos en su voz.
+**Nunca para la lámina final** (el dueño pide que no parezca hecho por
+IA). Lo final se dibuja o se recorta de fotogramas y se integra con
+`v3/integrar.py`.
 
-### Rasgos que nunca cambian
+### 18.1 · Para la IA de imagen
 
-- **Mio:** pelo negro, largo y liso, flequillo recto; alta y **recta**;
-  bajo **zurdo** sunburst.
-- **Yui:** pelo castaño corto a los hombros, algo revuelto, **dos
-  horquillas amarillas**; guitarra Les Paul cereza con centro dorado.
-- **Azusa:** pelo negro con **dos coletas largas**, la más bajita;
-  guitarra Mustang roja.
-- **Mugi:** pelo rubio claro, largo y ondulado; **cejas gruesas**;
+#### Rasgos que nunca cambian
+
+- **Mio:** pelo negro azulado `#2A272E`, largo y liso, flequillo recto;
+  ojos gris azulado; alta y **recta**; bajo Jazz Bass sunburst **zurdo**
+  (mástil a su derecha).
+- **Yui:** pelo castaño a los hombros, algo revuelto, **dos horquillas**
+  (color sin medir ⚠️); Les Paul **cereza con centro dorado**.
+- **Azusa:** pelo negro con tinte morado `#2A2027`, **dos coletas largas**
+  ✅ (vistas); la más bajita (150 cm); Mustang **roja**.
+- **Mugi:** rubio `#CEB282`, largo y ondulado ✅; **cejas gruesas**;
   teclado; tetera.
-- **Ritsu:** pelo castaño claro, **frente al aire con diadema**; batería
-  amarilla.
-- **Sawako:** adulta, gafas, ropa de profesora ⚠️ (memoria).
-- Todas: **uniforme azul marino** ⚠️ con cinta azul (las mayores) o roja
-  (Azusa).
-- ⚠️ Los peinados de Azusa, Mugi y Ritsu y las gafas de Sawako son de
-  memoria: comprobarlos en las galerías de la sección 3.4.
+- **Ritsu:** castaño claro, **frente al aire con diadema** ✅ (vista);
+  batería **amarilla**.
+- **Sawako:** adulta (165 cm), **gafas** ✅ (vistas en hoja 1 #38), ropa de
+  profesora.
+- Todas: **blazer `#4E4963`** (azul violáceo oscuro, medido), falda de
+  cuadros, cinta **azul** (las cuatro mayores) o **roja** (Azusa).
+- Alturas reales (§C): Azusa 150, Ritsu 154, Yui 156, Mugi 157, Mio 160.
 
-### Estilo
+#### Estilo (medido, no de memoria)
 
-- **Línea:** fina, limpia, marrón oscuro o gris, sin grosor variable
-  exagerado ⚠️ (memoria del estilo KyoAni 2009).
-- **Sombra:** una sola capa de sombra suave, tono frío lavanda; sin
-  brillos en el pelo salvo Mio y Azusa.
+- **Línea:** fina y uniforme, **marrón gris cálido, nunca negra**: medida
+  `#988F89`, `#8A665B`, `#615527` según la imagen (§A). Para pedirla:
+  «thin warm brown line art».
+- **Sombra:** **degradada y suave**, no plana de dos tonos (así salen
+  casi todas las capturas medidas con `estilo.py`). Pelo **sin brillos**,
+  salvo Mio y Azusa ⚠️.
+- **Color:** poco saturado en el día a día (9-27 % de saturación medida);
+  sólo sube en conciertos y carteles de fantasía (63 %).
 - **Cuerpo:** proporciones reales de chica de instituto, **piernas
   llenas**, caras redondas, ojos grandes con pocos reflejos.
-- **Luz:** tarde, sol dorado y bajo entrando por ventanas de madera.
-- **Encuadre:** planos de pies y manos, cámara a la altura de la mesa;
-  profundidad de campo (fondo desenfocado), como en cine.
+- **Luz:** tarde, luz de ventana cálida pero **apagada**: pared `#E4D4BE`,
+  madera `#654436`, sombra `#372826` (§5.4).
+- **Encuadre:** manos sobre el instrumento, planos de cintura para abajo,
+  pies antes que caras; cámara a la altura de la mesa; fondo desenfocado.
 
-### Palabras que ayudan
+#### Palabras que ayudan
 
-«slice of life», «after school», «afternoon golden light», «wooden
-classroom», «tea set and cake», «soft pastel colors», «clean thin line
-art», «flat cel shading», «school blazer», «shallow depth of field».
+«slice of life», «after school», «warm window light», «muted colors»,
+«wooden clubroom», «tea set and cake on a table», «thin warm brown line
+art», «soft gradient shading», «dark navy-violet school blazer, plaid
+skirt, ribbon tie», «full legs, realistic proportions», «shallow depth of
+field». Etiquetas de Danbooru y Wallhaven que entienden las IA de anime:
+`sakuragaoka_high_school_uniform`, `akiyama_mio`, `hirasawa_yui`,
+`nakano_azusa`, `kotobuki_tsumugi`, `tainaka_ritsu`, `k-on!`.
 
-### Palabras que lo estropean
+#### Palabras que lo estropean
 
 «sexy», «glossy hair», «long thin legs», «neon», «grunge», «rock
-concert», «hyper-detailed», «3D render», «dramatic lighting», «dark».
+concert», «hyper-detailed», «3D render», «dramatic lighting», «dark»,
+«black outline», «hard cel shading», «speech bubble».
 
-### Qué imágenes usar como referencia
+#### Vocabulario de expresiones (para que la IA entienda el gesto)
 
-- **Estilo y grupo:** la ilustración del 15.º aniversario de Horiguchi
-  (sección 3.2).
-- **Sala y mesa:** el [modelo del club en Sketchfab](https://sketchfab.com/3d-models/k-on-clubroom-b08830de23c94c8fbfb1218d79c63fd1)
+| Gesto de la serie | Cómo pedirlo | Dónde se ve |
+|---|---|---|
+| Gota de sudor junto a la cara | «sweat drop» | Azusa, T1 ep. 9, 11:09 (visto) |
+| Fondo de burbujas y brillo | «sparkle background, bubbles» | Azusa, T1 ep. 9, 11:06 (visto) |
+| Manos juntas, emocionada | «hands clasped together, happy tears» | Mugi, T1 ep. 1, 20:46 (visto); hoja 1 #41 |
+| ✌️ en foto de grupo | «peace sign, group photo» | T1 ep. 1, 20:34 (visto) |
+| Abrazo por detrás | «hugging from behind, cheek to cheek» | T1 ep. 9, 10:57 (visto) |
+| Orejas de gato | «cat ears headband» | Azusa, T1 ep. 9 |
+| Taparse los oídos de miedo | «covering ears, eyes shut» | Mio, T1 ep. 5, 02:30 (subtítulo) ⚠️ no visto |
+| Chibi | «chibi, super deformed» | juego de PSP (§13); hoja 20 #934 |
+| Cara roja | «blush» | ⚠️ de memoria |
+
+#### Qué imágenes usar como referencia
+
+- **Pose y objeto de cada una:** hoja 2 **#71-74 y #76** (de pie con su
+  instrumento, fondo blanco).
+- **Grupo en la mesa del té:** hoja 1 **#24** y el tráiler en
+  [`?start=16`](https://www.dailymotion.com/video/x8hzysi?start=16)
+  (tazas desde arriba).
+- **La mesa real y su luz:** fotograma de T1 ep. 2, 5:32 (§2.2).
+- **Grupo en uniforme:** hoja 2 **#60**.
+- **Sala:** el [modelo del club en Sketchfab](https://sketchfab.com/3d-models/k-on-clubroom-b08830de23c94c8fbfb1218d79c63fd1)
   y las fotos de Toyosato ([Wayfarer Dave](https://www.wayfarerdaves.com/?p=2483)).
-- **Pose de cada una:** los minutos de la sección 15.
+- **Estilo nuevo de Horiguchi:** la ilustración del 15.º aniversario
+  (sección 3.2).
+- **Poses por emoción:** §15.0 y las tablas de §15.
+
+### 18.2 · Para la IA de texto (sus diálogos, en su voz)
+
+#### Cómo habla cada una
+
+- **Yui:** alarga las vocales con «~» («¡qué ri~co!»), habla de comida y
+  de lo mono, pone nombre a las cosas, se decide con «¡fu-n-su!».
+- **Mio:** frases cortas y correctas; regaña en una línea; cuando se
+  avergüenza, se bloquea o se tapa. Trata de usted a quien no conoce.
+- **Ritsu:** habla como chico («¡sólo lo dije, eh~!»), grita, manda
+  («¡Mugi, el té!»), se justifica con «porque soy la presidenta».
+- **Mugi:** muy educada («sírvanse»), se ríe bajito, se ilusiona con lo
+  normal («siempre quise hacer esto»).
+- **Azusa:** formal con las mayores (senpai), protesta («¿y el ensayo?»),
+  cede al final.
+- **Sawako:** regaña y se contradice (acaba comiendo pastel); anima a lo
+  grande.
+
+#### Reglas de puntuación y tono
+
+- Títulos de una palabra con «¡…!» (como los episodios: «¡Tea Party!»).
+- «~» para alargar (Yui), «…» para dudar (Azusa, Mio).
+- Gritos con «¡…!» y palabras cortas, nunca en mayúsculas enteras.
+- Exageran con ternura, no con drama: la emoción se ve en el gesto.
+- Onomatopeyas de la serie: «nya», «¡fu-n-su!», «¡bikku!» (susto, 「ビクッ」).
+
+#### Frases reales por emoción (con capítulo y minuto)
+
+Japonés literal de los subtítulos (traducción nuestra) o español del
+piloto de Elocuencia (§10.1, no oficial).
+
+| Emoción | Frase | Quién | Dónde |
+|---|---|---|---|
+| **Alegre** | 「おいし～い」 «¡Qué ri~co!» | Yui ⚠️ contexto | T1 ep. 1, 14:38-15:09 |
+| Alegre | 「けいおん大好きーッ！」 «¡Amo el club de música!» | Yui | T1 ep. 12, 21:57 |
+| Alegre | 「一度やってみたかったの」 «Siempre quise hacer esto.» | Mugi | T2 ep. 7, 04:01 |
+| **Enfadada** | 「ここは お茶を飲む場所じゃないのよ」 «¡Esto no es sitio para tomar té!» | Sawako | T1 ep. 5, 14:19 |
+| Enfadada | 「練習はッ？」 «¿Y el ensayo?» | Azusa | T1 ep. 9, 17:47 |
+| Enfadada | 「軽音部は喫茶店じゃないぞ」 «¡El club no es una cafetería!» | ⚠️ Ritsu o Mio | T1 ep. 2, 05:32 |
+| **Explicando** | 「ここが 今いるこの講堂が 私達の武道館です」 «Este salón es nuestro Budokan.» | Yui | T1 ep. 12, 18:45-19:11 |
+| Explicando | 「入りたい人は そこにいる 和ちゃんに言ってください」 «Si quieres entrar, díselo a Nodoka, que está ahí.» | Yui | T2 ep. 20, 12:17-12:20 |
+| Explicando | «Se refiere a música sencilla o popular.» | piloto latino | archivo, 6:44 |
+| **Animando** | 「みんな 輝いてるわよ！」 «¡Brillan todas!» | Sawako | T2 ep. 20, 11:37 |
+| Animando | 「いつでも部室にお越しください 大歓迎ですから」 «Vengan al club cuando quieran.» | ⚠️ Yui o Mugi | T2 ep. 20, 13:17 |
+| Animando | «¡Al de música ligera, vamos!» | piloto latino | archivo, 4:55 |
+| **Triste** | «Estoy bien, seguiré con el club… está Ton.» | Azusa | T2 ep. 24, 17:43 |
+| Triste | 「でも… すっごく楽しかったよね」 «Pero… fue divertidísimo, ¿verdad?» | ⚠️ contexto | T2 ep. 20, 18:40-20:27 |
+| **Miedo** | 「見えない 聞こえない」 «No veo, no oigo.» | Mio | T1 ep. 5, 02:30 |
+| **Vergüenza** | 「かッ かゆい」 «¡Qué cursi, me pica!» | ⚠️ contexto | T1 ep. 5, 15:14-16:22 |
+| Vergüenza | «No tengas fe en mí para tocar la guitarra.» | piloto latino | archivo, 21:19 |
+
+#### Ejemplo de encargo para la IA de texto
+
+«Escribe como Mio Akiyama, de K-On!: frases cortas, correctas, un poco
+tímidas pero firmes. Manda a la gente al canal correcto en una línea.
+Nada de mayúsculas enteras ni de "—". Ejemplo de tono: "¿Micros o voces?
+Eso va en general-doblaje."»
 
 ---
+
 
 ## 19 · Tres conceptos para la lámina de #general
 
