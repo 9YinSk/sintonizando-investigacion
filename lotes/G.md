@@ -36,6 +36,12 @@ Cuenta: cuenta R49
 - 98 El viaje de Chihiro: **COMPLETA y subida**. `revisar.py`: ✅23 ⚠️16 ❌0, 1047 líneas, 230 referencias
   (56 webs distintas, 137 minutos, 114 hex medidos). El redactor siguió desde el punto 24 sin reescribir
   lo anterior. Redactor de 99 lanzado en cuanto se liberó el hueco.
+- 100 La princesa Mononoke: las 4 partes listas, sin `Sigue:` obligatorio. Corrigió otro error del
+  recolector automático: `datos-voz.md` traía el reparto de la SERIE de 2007 «Mononoke», no de la
+  película (tres doblajes latinos reales: Buena Vista/Miramax 2001, Zima 2010, Wild Bunch-Netflix 2020).
+  Redactor en cola para cuando se libere un hueco.
+- 101 Your Name: 4 investigadores (Sonnet) lanzados a la vez con el redactor de 99 (5 agentes vivos);
+  avisado el de voz para revisar con cuidado el reparto del recolector (van dos series con el error).
 
 ## Avisos para el dueño
 
@@ -67,3 +73,7 @@ Cuenta: cuenta R49
 | 99 | video | Sonnet | 20 | 203 mil |
 | 99 | voz | Sonnet | 21 | 238 mil |
 | 98 | redactor (2 tandas: rate limit) | Opus | 10 | 219 mil |
+| 100 | imagen | Sonnet | 13 | 221 mil |
+| 100 | video | Sonnet | 14 | 216 mil |
+| 100 | texto | Sonnet | 16 | 237 mil |
+| 100 | voz | Sonnet | 20 | 289 mil |
