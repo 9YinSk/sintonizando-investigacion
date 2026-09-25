@@ -213,20 +213,49 @@ El **Cutting Room Floor** sólo tiene página propia para *God of War II* y su p
 <a name="lamina"></a>
 ## Lo mejor para la lámina
 
-(pendiente)
+- El **Codex de Atreus** (diario con bocetos a mano y runas) es el objeto perfecto para una lámina: un cuaderno real, con texto propio del mundo, no una interfaz fría.
+- Usar **runas del Futhark Antiguo de verdad** (tabla en 5.3, letra libre Noto Sans Runic) para cualquier inscripción decorativa nórdica, y el **alfabeto griego** para cualquier cosa "de la saga vieja" — nunca un rúnico inventado sin sentido.
+- Tipografía de cuerpo: **Cabin** (gratis, con tildes/ñ/¿/¡ comprobadas) imita la Gill Sans WGL real del juego; para el título/logo, **Cinzel** o **MedievalSharp** (ambas con tildes) como aproximación de Berserker.
+- El subtítulo del juego real **no lleva caja**: sólo texto flotante abajo, con el nombre en un color/peso y la frase en otro — así de limpio debería quedar en la lámina si se imita el estilo GoW.
+- Composición: **cámara al hombro, personaje descentrado, luz fría de contraluz con un único acento cálido** (fuego/runas) — la fórmula visual más reconocible de la saga nórdica (18.1-18.4).
 
 ---
 
 <a name="no-encontre"></a>
 ## No encontré
 
-(pendiente)
+- ⚠️ **El archivo real de la fuente Berserker** (título/logo/encabezados de menú): confirmada por nombre en dos fuentes (GDC/80.lv y foros de Typography.Guru), pero no la descargué — las copias que circulan en internet son de origen dudoso, y no quise comprobarla con fontTools sin poder verificar su procedencia. Búsquedas: "Berserker font God of War dafont", "Berserker God of War OTF download", en inglés.
+- ⚠️ **TCRF (The Cutting Room Floor) — no pude leer el contenido completo**: `tcrf.net` está detrás de un reto de Cloudflare que no se puede saltar desde este contenedor (ni con `curl` directo ni con WebFetch), y `web.archive.org` está bloqueado por la política de red de esta sesión ("Blocked by egress policy"). Sólo tengo confirmado por búsqueda que existen las páginas `God_of_War_II` y `Proto:God_of_War_II` (únicas de la saga en TCRF) y su contenido general (sistema de magia temprano del prototipo de enero de 2007), pero no el detalle línea por línea de texto sin usar. Intentos: `curl` directo (403, Cloudflare), WebFetch (403), Wayback Machine vía API (`archive.org/wayback/available`, sí devuelve snapshot, pero `curl` a `web.archive.org` da "Blocked by egress policy" y WebFetch dice "unable to fetch from web.archive.org").
+- ⚠️ **Game UI Database** (`gameuidatabase.com`) y **Interface In Game** (`interfaceingame.com`): la portada y las fichas individuales (`gameData.php?id=N`) están detrás de un reto de Cloudflare que no salté (igual que documentó ya el archivo `_Cuadros de dialogo por franquicia` sobre esta misma web para otras franquicias); usé resúmenes de búsqueda y el 80.lv/GDC en su lugar, que sí dieron datos confirmados por el propio estudio.
+- ⚠️ **Colores hex exactos del HUD** (barra de salud, ira, subtítulo): no tengo una captura con el HUD activo — las capturas oficiales de Steam en `datos-texto.md` son tomas de marketing sin interfaz. No medí hex porque no es mi tarea (los fondos/paisajes con hex son el punto 16, del investigador de imagen), pero dejo constancia de que la interfaz de combate en sí tampoco está medida por nadie del equipo todavía.
+- ⚠️ **Comic de Dark Horse**: no encontré páginas escaneadas para mirar directamente los globos de grito/pensamiento — sólo una reseña que describe el truco de las runas en los globos nórdicos.
+- ⚠️ **Nombre del artista/diseñador exacto de la tipografía Berserker**: ninguna fuente lo da (ni Typography.Guru ni 80.lv la atribuyen a una persona).
 
 ---
 
 <a name="bitacora"></a>
 ## Bitácora de búsqueda
 
-(pendiente)
+**Punto de partida**: `partes/datos-texto.md` (capturas de Steam de God of War y Ragnarök, sin HUD — son tomas de marketing).
 
-Sigue: rellenar punto 5 (tipografía del logo y del juego).
+**Búsquedas web (en inglés y español; no hizo falta japonés/coreano/chino — la obra no viene de esos países, encargo dice "si la obra viene de ahí")**:
+- Tipografía: `"God of War" 2018 logo font typeface fontsinuse`, `God of War Ragnarok font UI typeface identify`, `"Berserker" font "God of War" dafont OTF download free`, `"Gill Sans" free alternative Google Fonts open source lookalike "Cabin"`, `"Noto Sans Runic" Google Fonts free elder futhark unicode`, `free Greek typeface "GFS Didot" ancient Greek OFL Google Fonts`, `"God of War" runes Norse alphabet in-game symbols meaning translate`.
+- Interfaz/cuadros de diálogo: `God of War Ragnarok Atreus journal codex UI design interview`, `"God of War" Dark Horse comic graphic novel speech bubbles lettering`, `God of War 2018 skill tree Mystic Gateway Nine Realms UI colors screenshot`, `"God of War" 2018 HUD health bar rage meter minimalist interface design`.
+- Videojuegos/HUD histórico: `God of War 2005 original trilogy HUD health orb magic meter red orbs combo`, `"God of War III" 2010 interface changes health orb magic meter item box comparison GoW1`, `"God of War Ragnarok: Valhalla" DLC interface roguelike UI new`.
+- TCRF/contenido cortado: `tcrf.net "God of War" cutting room floor unused`, `tcrf.net "God of War II" unused text debug menu prototype`, `tcrf.net "God of War" 2018 OR "God of War III" unused content debug`.
+- Técnica/estilo (punto 18): `God of War 2018 GDC talk "one shot" camera cinematography Santa Monica Studio`, `God of War 2018 art direction interview Raf Grassetti concept art process ZBrush Substance`, `God of War Ragnarok "making of" behind the scenes engine tools Maya Houdini photogrammetry Santa Monica Studio`, `Digital Foundry God of War Ragnarok tech analysis rendering resolution ray tracing checkerboard`, `God of War 2018 Kratos skin shader subsurface scattering weathered leather texture breakdown`, `God of War PC graphics settings film grain chromatic aberration vignette options list`.
+- Obras parecidas (punto 24): `Cory Barlog God of War 2018 influences inspired by "Children of Men" "Old Man's Journey" interview`, `games similar to God of War 2018 Ragnarok recommended if you like`, `Cory Barlog "Rope" "Birdman" continuous camera interview God of War inspiration`.
+- Mundo/símbolos (punto 25): `God of War series story arcs timeline summary Greek saga Norse saga games order`, `God of War iconic objects Blades of Chaos Leviathan Axe Draupnir Spear symbols meaning fan vocabulary "Boy" "Stranger"`.
+
+**Consultas directas (API, sin gastar cupo de buscador)**:
+- `godofwar.fandom.com/api.php` (formato `action=parse&prop=wikitext`, la web normal da 402): páginas `Languages`, `Codex`, `Cut_Content`, `Nine_Realms`.
+- Descarga y comprobación con **fontTools** de `GODOFWAR.TTF` (dafont, fan font del logo de 2005-2007: sin tildes/ñ/¿, con ¡) y `Cabin[wdth,wght].ttf` (Google Fonts vía GitHub: con á é í ó ú ñ Ñ ¿ ¡ ü Á É completos).
+- `hiddenpalace.org` (prototipo de God of War II, enero 2007).
+- `open3dlab.com` (rig gratuito de Kratos para Blender, licencia CC BY-NC-ND).
+- `glaucolonghi.com`, `80.lv`, `variety.com`, `svg.com`, `foro3d.com`, `screenrant.com`, `sourcegaming.info`, `gamesradar.com`, `thegamer.com`.
+
+**Fuentes que no pude usar** (ver «No encontré» arriba): `tcrf.net` (Cloudflare), `gameuidatabase.com` e `interfaceingame.com` (Cloudflare), `web.archive.org` (bloqueado por política de red de esta sesión).
+
+**Imágenes descargadas y miradas** (capturas de Steam ya listadas en `datos-texto.md`, guardadas en la carpeta de trabajo fuera del repositorio): `gow1_ss1.jpg`, `ragnarok_ss1.jpg`, `ragnarok_ss2.jpg`, `ragnarok_ss3.jpg` — todas tomas de marketing sin HUD visible; confirman el logo/lettering pero no aportan datos de interfaz en juego.
+
+No hace falta relanzar: todos los puntos obligatorios (5, 6, 11, 18, 24, 25) están completos con fuentes dobles donde fue posible. Quedan sólo los ⚠️ de «No encontré» arriba, que son extras (no obligatorios) según el repaso final contra `ENCARGO.md`.

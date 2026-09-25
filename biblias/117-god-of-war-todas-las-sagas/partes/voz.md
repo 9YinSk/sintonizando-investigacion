@@ -69,7 +69,7 @@ comparten actor salvo Atreus):
 |---|---|---|---|---|---|
 | Kratos | Christopher Judge | Idzi Dutkiewicz | Idzi Dutkiewicz | Doblaje Wiki (God_of_War, God_of_War_Ragnarök) + ANMTV | ✅ |
 | Atreus/Loki | Sunny Suljic | Susana Moreno | Carlos Siller | Doblaje Wiki + ANMTV (2018) | ✅ |
-| Freya | Danielle Bisutti | Annie Rojas | Annie Rojas (Betzabé Jara en el DLC Valhalla) | Doblaje Wiki + ANMTV | ✅ |
+| Freya | Danielle Bisutti | Annie Rojas | Annie Rojas (Betzabé Jara en el DLC Valhalla) | Doblaje Wiki (2018 y franquicia) | ⚠️ (ANMTV elogia a «Freya» pero no cita el nombre de la actriz en el fragmento que pude leer; el nombre en sí sólo está confirmado en dos páginas del mismo sitio, Doblaje Wiki) |
 | Mimir | Alastair Duncan | Sergio Gutiérrez Coto | Sergio Gutiérrez Coto | Doblaje Wiki + ANMTV («magistral») | ✅ |
 | Baldur | Jeremy Davies | Enrique Cervantes | Enrique Cervantes (archivo) | Doblaje Wiki (God_of_War_(franquicia)) | ⚠️ (una fuente independiente de Doblaje Wiki) |
 | Brok | Robert Craighead | Beto Castillo | Beto Castillo | Doblaje Wiki + ANMTV | ✅ |
@@ -428,3 +428,70 @@ resultado), **no de haber visto el vídeo**. Lo marco todo ⚠️ por eso, tal c
   (dos fuentes: la ficha de Doblaje Wiki cita directamente el post oficial del blog de PlayStation
   Latinoamérica). Es un dato fuerte para un server de doblaje: la propia Sony invitó a un fan
   hispanohablante a doblar dentro del juego real.
+
+## Lo mejor para la lámina
+
+- El diálogo de cabecera debería ser una frase corta y seca a lo Kratos («Cierra tu corazón…», «boy»)
+  o una de Mimir explicando algo (encaja con canales de guía/reglas) — con la letra grabada en piedra
+  o runa, nunca burbuja de cómic (punto 6, pero aquí lo confirma el tono real del doblaje).
+- Mimir es el secundario más querido y el más "hablador": perfecto para un canal donde alguien tiene
+  que EXPLICAR reglas (es literalmente su función en el juego). Brok/Sindri son la mejor opción para
+  un canal informal o de bienvenida (el fandom los ama tanto como a los protagonistas, ver punto 7).
+- El chiste del "boy" es EL gag reconocible de la saga; una lámina de Kratos+Atreus puede jugar con
+  él sin caer en fan superficial, porque nació y creció en el propio fandom (punto 12).
+- Kratos casi no gesticula ni sonríe: cualquier pose para él debe ser contenida, con la intensidad en
+  la mirada/mandíbula, no en aspavientos — evita que la IA lo dibuje "sonriente y expresivo".
+- El doblaje latino tiene identidad propia frente al de España (Idzi Dutkiewicz vs Rafael Azcárraga):
+  usar SIEMPRE la voz/nombre latino en la biblia, y puede citarse el chiste local que metió el propio
+  doblaje mexicano («No me simpatizas», guiño a El Chavo del 8) para conectar con el público del server.
+
+## No encontré
+
+- ⚠️ Encuesta oficial de popularidad de personajes hecha por Sony/Santa Monica Studio: no apareció en
+  español ni en inglés (busqué «God of War official character popularity poll survey» y variantes).
+  Usé en su lugar Danbooru (recuento real) y Reddit (rankings/hilos con puntuación) como sustituto de
+  fans, aclarado en el punto 7.
+- ⚠️ Reseña de ANMTV (o de otro medio de doblaje) específica de *God of War Ragnarök* con la misma
+  profundidad que la de 2018: no la encontré (busqué «ANMTV God of War Ragnarök crítica doblaje» y
+  variantes); usé en su lugar la ficha propia de Doblaje Wiki (con sus «Datos de interés») y la
+  reseña de 2018 como referencia del tono general de la crítica hispana hacia Pink Noise.
+- ⚠️ Vídeo del momento exacto de la muerte de Brok mirado directamente (minuto y capítulo): YouTube
+  bloqueado (429 todo el rato) y no está en Dailymotion ni Internet Archive con audio latino; la
+  descripción de la escena viene de un solo artículo (Sportskeeda). Sigue pendiente si otro
+  investigador consigue acceso a YouTube más tarde.
+- ⚠️ Cifras de vistas reales de los fandubs de YouTube listados en el punto 22: no las pude verificar
+  (YouTube bloqueado); sólo confirmé que existen por el propio resultado de búsqueda.
+- Cumpleaños/edad exacta in-universo de los personajes: no aplica — God of War no publica ese tipo de
+  ficha "databook" como sí hacen otras franquicias; lo digo explícito en el punto 20.
+
+## Bitácora de búsqueda
+
+- **Doblaje Wiki (API, wikitext completo)**, español: páginas `God_of_War`, `God_of_War_Ragnarök`,
+  `God_of_War_(franquicia)`, `God_of_War:_Ascension`, `God_of_War_Sons_of_Sparta` — saqué yo mismo el
+  wikitext porque la tabla de `recolectar.py` venía rota (mezclaba nombres de archivo de audio en la
+  columna de personaje). Guardado en `/tmp/claude-0/trabajo/117-god-of-war-todas-las-sagas-voz/*.wikitext`.
+- **`herramientas/voz.py` (Whisper local, es)** sobre 7 muestras oficiales de Doblaje Wiki: Kratos
+  (2018 y Ragnarök), Atreus, Baldur, Freya, Mimir, Thor — transcripción + registro/semitonos/velocidad
+  de cada uno, guardado en `/tmp/claude-0/trabajo/117-god-of-war-todas-las-sagas-voz/voz_out/`.
+- **Danbooru API**, directo (no búsqueda web): recuento real de posts por etiqueta de personaje
+  (`kratos_(god_of_war)`, `atreus_(god_of_war)`, etc.), corrigiendo el dato roto de `datos-voz.md`.
+- **eldoblaje.com**: fichas de God of War (2018) y Ragnarök, en español — doblaje de ESPAÑA, para
+  distinguirlo del latino.
+- **Reddit (Arctic Shift API)**, inglés: búsquedas en r/GodofWarRagnarok por «Brok», «cried», con
+  puntuación real de cada hilo.
+- **WebSearch**, español e inglés (9 búsquedas de las ~50 de cupo): popularidad/encuesta de
+  personajes; ranking de personajes según Reddit (ScreenRant); fandubs español latino; entrevistas a
+  Idzi Dutkiewicz/Susana Moreno; reseña ANMTV del doblaje 2018 y de Ragnarök; meme "boy"/"Dad of Boy"
+  (Know Your Meme); escena final de 2018 (Den of Geek, ResetEra); muerte de Brok (Sportskeeda); trivia
+  de Mimir/Puck (TheGamer, ScreenRant); ventas y premios (VGC, Wikipedia, The Game Awards, gamingbolt).
+- **TV Tropes**: bloqueado con 403 tanto por curl directo como por WebFetch y por espejo de Wayback
+  Machine («Blocked by egress policy» al intentar `web.archive.org/.../tvtropes.org/...`); dos
+  intentos, no insistí más (regla de AYUDANTE.md).
+- **YouTube / `yt-dlp`**: pidió iniciar sesión / dio 429 en todos los intentos, incluso pidiendo sólo
+  metadatos (sin descargar vídeo) — confirmado, no soy el único ayudante compartiendo IP.
+- **Dailymotion API**, directo: sin fandubs reales de God of War (sólo tráilers oficiales y una
+  comparativa de doblajes por Vandal, que sí cité).
+
+Sigue: mirar el vídeo real de la muerte de Brok (con minuto exacto) y de un clip de fandub en cuanto
+YouTube deje de bloquear, y buscar una reseña de doblaje dedicada a *Ragnarök* (no sólo a 2018) si
+aparece alguna en ANMTV o similar más adelante.
