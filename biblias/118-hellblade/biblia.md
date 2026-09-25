@@ -724,9 +724,10 @@ No hay openings ni endings cantados: la banda sonora es ambiental.
   ([Louder Sound](https://www.loudersound.com/news/heilung-join-forces-with-ninja-theory-for-hellblade-ii),
   GamesRadar). El tráiler de 2024 usaría «**Seidh**» ⚠️ sólo el título de un
   [vídeo de YouTube](https://www.youtube.com/watch?v=85uI1LA5lcc).
-- Qué ambiente dan: tambores y cantos de garganta nórdicos (Heilung),
-  electrónica industrial oscura en los combates del 1 (LaPlegua, Passarella) y
-  una canción de *synth* melancólica en los créditos (VNV Nation).
+- Qué ambiente dan: «música de batalla vikinga» en el 1 (lo que se pidió a
+  LaPlegua, de la banda industrial Combichrist); el *folk* experimental de
+  Heilung y los cantos de garganta de Ren y Arunka en el 2. ⚠️ Las partes no
+  describen cómo suena «Illusion».
 
 ### 9.2 El sonido binaural (lo que hay que saber)
 - Grabación **binaural**: un micrófono con forma de cabeza humana (Neumann)
