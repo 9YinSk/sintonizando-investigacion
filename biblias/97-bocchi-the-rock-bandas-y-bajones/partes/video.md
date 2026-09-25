@@ -232,6 +232,15 @@ de reintentar en otra tanda.
   - cartel «2024年9月 再演 決定！» (reestreno confirmado, septiembre 2024) ·
     `&t=24` · 0:24
   - Hoja completa: `/tmp/.../live_stage/hoja_01.jpg`
+- **Segundo tráiler oficial (PV2)**, con subtítulos en inglés de Crunchyroll,
+  tarjetas de personaje con el nombre del actor de voz japonés sobreimpreso
+  (p. ej. «後藤ひとり / 青山吉能» = Hitori Gotoh interpretada por Yoshino
+  Aoyama) y créditos de estudio: CloverWorks (animación), Houbunsha
+  (editorial), Aniplex (distribución) · mirado entero cada 3 s (44 fotogramas,
+  0:00-2:10) · https://www.dailymotion.com/video/x8esy25 · ✅ (créditos
+  repetidos dos veces en el propio vídeo, `&t=21` y `&t=97`, coinciden con
+  Wikipedia) · ejemplo de cita: Ryo, sobre las finanzas del grupo, «I don't,
+  actually» (`&t=63`); Kita «I'm broke right now, pay for me» (`&t=75`)
 - **Tendencias en TikTok**: búsqueda web (inglés) muestra ediciones tipo
   CapCut con la canción «Guitar to Kodoku to Aoihoshi», memes de Bocchi
   comparada con Hatsune Miku congelada, y el gag recurrente de «Bocchi
@@ -482,9 +491,15 @@ imagen fija, tal y como permite el punto 14 del encargo.
   compilación de fan). Colores medidos con `estilo.py` sobre 4 fotogramas
   (STARRY ×2, festival, entrada de STARRY).
 
-Sigue: medir con `estilo.py` el cuarto/pasillo de Bocchi (tráiler, `&t=6`);
-reintentar AnimeThemes para el `.webm` del ED; si se libera YouTube,
-`fotogramas.py` directo sobre el ending oficial y sobre clips de análisis
-en YouTube con minuto exacto de las escenas de estilo cambiante (ep. 3 y
-otras) que hoy sólo están confirmadas por capturas fijas + reseñas de texto.
+Sigue: **obligatorio pendiente** — conseguir vídeo real del ending (AYUDANTE.md
+pide mirar «el opening, un ending, un tráiler y 3 escenas icónicas»; el
+opening, el tráiler y las escenas ya están, el ending no: probado en 5
+búsquedas de Dailymotion distintas, el único archivo de Internet Archive
+con «opening/closing» resultó ser el menú del Blu-ray, no la canción, y
+AnimeThemes sigue caído). Reintentar cuando AnimeThemes vuelva
+(`https://api.animethemes.moe/anime?filter[slug]=bocchi-the-rock`) o si
+YouTube deja de pedir login. Como extra, si hay tiempo: medir con
+`estilo.py` el cuarto/pasillo de Bocchi (tráiler, `&t=6`) y sacar minuto
+exacto de más escenas de estilo cambiante en vídeo (hoy sólo confirmadas
+con capturas fijas + reseñas de texto).
 
