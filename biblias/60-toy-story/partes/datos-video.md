@@ -1,6 +1,6 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Toy Story
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -17,26 +17,26 @@ _Fuente: https://api.dailymotion.com_
 - Buzz Lightyear opening scene|Toy Story 2 · 3:37 · Toy Story · 1332 vistas · https://www.dailymotion.com/video/x36dfu8
 - Opening to Toy Story 2000 VHS · 7:42 · Sandlot1992 · 1269 vistas · https://www.dailymotion.com/video/x82l6fi
 **«Toy Story ending»**
-- Toy Story · 0:32 · Télé 7 Jours · 7610 vistas · https://www.dailymotion.com/video/x9g2gi8
+- Toy Story · 0:51 · Unitel Bolivia · 1671 vistas · https://www.dailymotion.com/video/x8r6xto
 - Toy Story 4 Ending Freaked Out Tom Hanks · 1:08 · Celebrity Wire · 639 vistas · https://www.dailymotion.com/video/x6wm2px
 - Toy story 3 ending? · 2:58 · Toy Story 3 · 595 vistas · https://www.dailymotion.com/video/x4ev2r9
 - Toy Story · 0:32 · TV-programme.com · 357 vistas · https://www.dailymotion.com/video/x9sc1a4
-- Toy Story · 0:38 · Tele-Loisirs.fr · 338 vistas · https://www.dailymotion.com/video/x86vq4d
 - Toy Story 3 Alternate Ending · 0:26 · Toy Story 3 · 308 vistas · https://www.dailymotion.com/video/x4fezwh
+- Toy Story 3 Live Action Ending [Espanol Latino] · 7:03 · Marcos Oliveira · 294 vistas · https://www.dailymotion.com/video/x8b7dw5
 **«Toy Story trailer»**
-- Toy Story 5 Tráiler · 2:24 · Sensacine · 50195 vistas · https://www.dailymotion.com/video/xa0f34q
+- Toy Story 5 Tráiler · 2:24 · Sensacine · 50198 vistas · https://www.dailymotion.com/video/xa0f34q
+- Toy Story 4 Tráiler · 1:45 · Sensacine · 46748 vistas · https://www.dailymotion.com/video/x88pg2i
 - Toy story 4 trailer · 2:29 · JeuxVideo.com · 25820 vistas · https://www.dailymotion.com/video/x89nz0o
-- Toy Story 3 Tráiler · 1:33 · Sensacine · 7417 vistas · https://www.dailymotion.com/video/x88nc5x
 - toy story 3 trailer · 2:18 · JeuxVideo.com · 3276 vistas · https://www.dailymotion.com/video/x89nz0s
 - Toy Story Trailer OV · 1:34 · FILMSTARTS · 1670 vistas · https://www.dailymotion.com/video/x88szov
 - Toy story 1 trailer · 3:00 · JeuxVideo.com · 1041 vistas · https://www.dailymotion.com/video/x89nzvp
 **«Toy Story escena»**
 - Toy Story · 0:32 · Télé 7 Jours · 7610 vistas · https://www.dailymotion.com/video/x9g2gi8
 - Toy Story · 0:51 · Unitel Bolivia · 1671 vistas · https://www.dailymotion.com/video/x8r6xto
-- Toy Story (1995) · 1:30 · m0vietrailerpark · 1309 vistas · https://www.dailymotion.com/video/x3a1t5
 - TOY STORY 3 "ESCENA DEL INCINERADOR" LATINO · 3:18 · KARAPULKRA20 · 1109 vistas · https://www.dailymotion.com/video/x3mvnel
-- Toy Story 2 · 1:06 · TEST CMI  MIGRATION · 954 vistas · https://www.dailymotion.com/video/x8ox6by
 - Toy Story · 2:54 · MonProgrammeTV · 618 vistas · https://www.dailymotion.com/video/x3lx6fw
+- Toy Story 5 - Escena eliminada · 1:26 · Espinof · 507 vistas · https://www.dailymotion.com/video/xax3tuu
+- Toy Story · 0:32 · TV-programme.com · 357 vistas · https://www.dailymotion.com/video/x9sc1a4
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
 _Fuente: https://archive.org_
@@ -67,9 +67,9 @@ _Fuente: https://musicbrainz.org_
 
 - Toy Story · Andy Blythe, Marten Joustra, Allister Brimble · 1995-12 · https://musicbrainz.org/release-group/a22dd7e5-feca-49c4-a0de-54095af83d78
 - Toy Story · Randy Newman · 1995-10-24 · https://musicbrainz.org/release-group/7fdc293a-f634-356f-b611-b1e3d94be5e2
-- Toy Story · Various Artists · 1995 · https://musicbrainz.org/release-group/3d6319da-c695-403c-91af-af3eac9c984f
 - Toy Story · Various Artists · 1996-03 · https://musicbrainz.org/release-group/d49cc219-b5ed-4dac-acd1-472ef0c9e9b6
 - Toy Story · Various Artists · 1996 · https://musicbrainz.org/release-group/5db3ab0d-1d20-42ae-b64c-0ca27f57066b
+- Toy Story · Various Artists · 1995 · https://musicbrainz.org/release-group/3d6319da-c695-403c-91af-af3eac9c984f
 - Toy Story · Various Artists · 2019-03-22 · https://musicbrainz.org/release-group/a6559489-2cc2-4538-aa39-2be69d0e5632
 - Toy Story 3 · Randy Newman · 2010-06-15 · https://musicbrainz.org/release-group/c2e0f415-beb5-42d8-a169-f8f101c73d6d
 - Toy Story 2 · Randy Newman · 1999-11-06 · https://musicbrainz.org/release-group/977c1a09-6a07-3b10-9f43-fa4ba68e4eec

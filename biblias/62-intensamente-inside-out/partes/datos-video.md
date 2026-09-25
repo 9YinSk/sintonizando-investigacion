@@ -1,6 +1,6 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Intensamente (Inside Out)
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -53,8 +53,8 @@ _Fuente: https://musicbrainz.org_
 - INSIDE · Martin Stig Andersen, SØS Gunver Ryberg · ? · https://musicbrainz.org/release-group/2a97a7f8-b9e7-4148-9e8e-753ab4621296
 - Inside · Mario Molino · 1975 · https://musicbrainz.org/release-group/1bb14b0a-22ef-4f34-b58c-f1ba1c35c9d2
 - From Inside · Gary Numan, Ade Fenton · 2014-10-07 · https://musicbrainz.org/release-group/8d21c9dc-ae55-4bf5-a884-507fbc96ecc1
-- Devil Inside · London Grammar · 2014-03-24 · https://musicbrainz.org/release-group/a8fa26b8-dcae-4217-9ddd-35d1e348fb7f
 - Inside Chanel · Avia · 2017-10-13 · https://musicbrainz.org/release-group/e8fb01ab-19a0-445b-8d84-5fbb47c2b4fc
+- Devil Inside · London Grammar · 2014-03-24 · https://musicbrainz.org/release-group/a8fa26b8-dcae-4217-9ddd-35d1e348fb7f
 - Stranger Inside · Mychael Danna, Andrew Lockington · ? · https://musicbrainz.org/release-group/2fc5ba3a-5dd1-45f1-8882-b8467916690a
 - Inside Man · Terence Blanchard · 2006-03-20 · https://musicbrainz.org/release-group/2e43d201-61a3-3231-829b-588c4be5fab9
 - Hurting inside · Jo Mersa Marley · 2018-08-17 · https://musicbrainz.org/release-group/8a74df3b-2a55-4787-bbca-4a37bd747dbd

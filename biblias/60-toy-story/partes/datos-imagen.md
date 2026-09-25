@@ -1,6 +1,6 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Toy Story
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -164,8 +164,8 @@ _Fuente: https://wallhaven.cc_
 - 1920x1080 · ♥ 20 · https://w.wallhaven.cc/full/43/wallhaven-43zeed.jpg · subido por nightelf87 · origen: — · Disney, Disney Pixar, movies, animated movies, Toy Story, A Bug's Life
 - 1920x1080 · ♥ 17 · https://w.wallhaven.cc/full/wq/wallhaven-wqmz56.png · subido por Markux · origen: — · Toy Story 3, video games, Pixar Animation Studios, Jessie (Toy Story), Bullseye (Toy Story), Slinky Dog
 - 3840x2160 · ♥ 17 · https://w.wallhaven.cc/full/g8/wallhaven-g86lke.jpg · subido por asaggese · origen: — · Toy Story, Sheriff Woody, Pixar Animation Studios, cartoon, digital art, Buzz Lightyear
-- 1920x1200 · ♥ 16 · https://w.wallhaven.cc/full/4l/wallhaven-4lml6q.jpg · subido por AleMolina · origen: — · Disney, Disney Pixar, movies, animated movies, Toy Story, A Bug's Life
 - 1920x1200 · ♥ 17 · https://w.wallhaven.cc/full/0j/wallhaven-0j55vy.jpg · subido por halogenius · origen: — · Toy Story, Buzz Lightyear, realistic, CGI, artwork, digital art
+- 1920x1200 · ♥ 16 · https://w.wallhaven.cc/full/4l/wallhaven-4lml6q.jpg · subido por AleMolina · origen: — · Disney, Disney Pixar, movies, animated movies, Toy Story, A Bug's Life
 - 1920x1080 · ♥ 15 · https://w.wallhaven.cc/full/kx/wallhaven-kx59mm.jpg · subido por mtbrain · origen: — · monkey, creepy, Toy Story 3, stuffed animal, closeup, frontal view
 - 1920x1080 · ♥ 15 · https://w.wallhaven.cc/full/43/wallhaven-43zmvd.jpg · subido por nightelf87 · origen: — · movies, Toy Story, animated movies, Pixar Animation Studios, Buzz Lightyear, watermarked
 

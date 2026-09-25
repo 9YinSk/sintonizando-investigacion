@@ -910,16 +910,6 @@
   "origen": "recolectar.py"
  },
  {
-  "url": "https://w.wallhaven.cc/full/4l/wallhaven-4lml6q.jpg",
-  "fuente": "Wallhaven",
-  "ancho": 1920,
-  "alto": 1200,
-  "que_es": "Fondo de pantalla (Disney, Disney Pixar, movies, animated movies, Toy Story, A Bug's Life)",
-  "para_que": "fondo o paleta de sitio",
-  "licencia": "subido por AleMolina; © su autor",
-  "origen": "recolectar.py"
- },
- {
   "url": "https://w.wallhaven.cc/full/0j/wallhaven-0j55vy.jpg",
   "fuente": "Wallhaven",
   "ancho": 1920,
@@ -927,6 +917,16 @@
   "que_es": "Fondo de pantalla (Toy Story, Buzz Lightyear, realistic, CGI, artwork, digital art)",
   "para_que": "fondo o paleta de sitio",
   "licencia": "subido por halogenius; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/4l/wallhaven-4lml6q.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fondo de pantalla (Disney, Disney Pixar, movies, animated movies, Toy Story, A Bug's Life)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por AleMolina; © su autor",
   "origen": "recolectar.py"
  },
  {

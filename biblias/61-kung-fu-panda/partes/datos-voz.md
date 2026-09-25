@@ -1,6 +1,6 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Kung Fu Panda
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -104,14 +104,14 @@ _Fuente: https://kungfupanda.fandom.com/wiki/Oogway#Personality_
 _Fuente: https://danbooru.donmai.us/posts?tags=kung_fu_panda_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hong_meiling · 28273 dibujos
-2. link · 21024 dibujos
-3. pikachu · 17606 dibujos
+1. hong_meiling · 28275 dibujos
+2. link · 21025 dibujos
+3. pikachu · 17607 dibujos
 4. kirby · 11064 dibujos
-5. princess_peach · 8656 dibujos
-6. monkey_d._luffy · 8295 dibujos
+5. princess_peach · 8658 dibujos
+6. monkey_d._luffy · 8297 dibujos
 7. son_goku · 7231 dibujos
-8. tsukino_usagi · 6876 dibujos
+8. tsukino_usagi · 6878 dibujos
 9. sonic_the_hedgehog · 6291 dibujos
 10. jinx_(league) · 3613 dibujos
 11. shadow_the_hedgehog · 3447 dibujos
@@ -133,15 +133,15 @@ _Fuente: https://api.dailymotion.com_
 - Kung Fu Panda · 1:10 · Tele-Loisirs.fr · 1731 vistas · https://www.dailymotion.com/video/x86u6kh
 - Kung Fu Panda · 1:10 · Télé 7 Jours · 1012 vistas · https://www.dailymotion.com/video/x8qkuny
 - Kung Fu Panda · 1:10 · TV-programme.com · 564 vistas · https://www.dailymotion.com/video/x8xrmvy
+- Kung Fu Panda · 1:10 · TV-programme.com · 502 vistas · https://www.dailymotion.com/video/x9flap2
 - Kung Fu Panda 3 Español Latino HD · 0:40 · Peppa Pig 720P · 382 vistas · https://www.dailymotion.com/video/x4gkmt7
-- Kung Fu Panda · 1:09 · MyMovies_International · 262 vistas · https://www.dailymotion.com/video/xqrowl
 **«Kung Fu Panda doblaje latino»**
 - Kung Fu Panda 4 -Tráiler doblado latino · 2:30 · FilmAffinity · 5357 vistas · https://www.dailymotion.com/video/x8qj2wr
+- Kung Fu Panda · 1:10 · Tele-Loisirs.fr · 1731 vistas · https://www.dailymotion.com/video/x86u6kh
 - Kung Fu Panda · 1:10 · TV-programme.com · 564 vistas · https://www.dailymotion.com/video/x8xrmvy
+- Kung Fu Panda · 1:10 · TV-programme.com · 502 vistas · https://www.dailymotion.com/video/x9flap2
 - Kung Fu Panda 3 Español Latino HD · 0:40 · Peppa Pig 720P · 382 vistas · https://www.dailymotion.com/video/x4gkmt7
 - Kung Fu Panda · 1:09 · MyMovies_International · 262 vistas · https://www.dailymotion.com/video/xqrowl
-- Kung Fu Panda 1 - Animals of 'Kung Fu Panda · 6:19 · Behind the Scenes · 227 vistas · https://www.dailymotion.com/video/x51tx6k
-- Kung Fu Panda - Kung Fu Fighting · 2:03 · Top-Parents.fr · 178 vistas · https://www.dailymotion.com/video/x5rrlo
 **«Kung Fu Panda fandub español»**
 - Kung Fu Panda 4 - Tráiler oficial español · 2:30 · FilmAffinity · 11151 vistas · https://www.dailymotion.com/video/x8qiyjf
 - Kung Fu Panda 4 - Tráiler español (HD) · 2:30 · El Séptimo Arte · 1999 vistas · https://www.dailymotion.com/video/x8qiyvl
@@ -151,7 +151,7 @@ _Fuente: https://api.dailymotion.com_
 - Kung Fu Panda 4 - Trailer español · 2:30 · Trailers y Estrenos · 659 vistas · https://www.dailymotion.com/video/x8qj2jc
 **«Kung Fu Panda fandub latino»**
 - Kung Fu Panda 4 -Tráiler doblado latino · 2:30 · FilmAffinity · 5357 vistas · https://www.dailymotion.com/video/x8qj2wr
-- Kung Fu Panda · 1:10 · Tele-Loisirs.fr · 1731 vistas · https://www.dailymotion.com/video/x86u6kh
+- Kung Fu Panda · 1:10 · Télé 7 Jours · 1012 vistas · https://www.dailymotion.com/video/x8qkuny
 - Kung Fu Panda · 1:10 · TV-programme.com · 564 vistas · https://www.dailymotion.com/video/x8xrmvy
 - Kung Fu Panda 3 Español Latino HD · 0:40 · Peppa Pig 720P · 382 vistas · https://www.dailymotion.com/video/x4gkmt7
 - Kung Fu Panda · 1:09 · MyMovies_International · 262 vistas · https://www.dailymotion.com/video/xqrowl
@@ -160,10 +160,31 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/kungfupanda: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/kungfupanda_
 
-**«unpopular opinion»**
-- (612 votos, 55 comentarios) Unpopular opinion: Kai’s throwing feat is better than Oogway’s catching feat (let me explain if you’re confused) · https://www.reddit.com/r/kungfupanda/comments/1tz8ozv/unpopular_opinion_kais_throwing_feat_is_better/
-- (89 votos, 19 comentarios) Unpopular opinion · https://www.reddit.com/r/kungfupanda/comments/1ty9xh6/unpopular_opinion/
-- (53 votos, 1 comentarios) Unpopular Opinion: The KFP franchise won't get better until people start dying again. · https://www.reddit.com/r/kungfupanda/comments/1bi1oxm/unpopular_opinion_the_kfp_franchise_wont_get/
-- (46 votos, 67 comentarios) An unpopular opinion that would have you end up in this situation · https://www.reddit.com/r/kungfupanda/comments/1h9whth/an_unpopular_opinion_that_would_have_you_end_up/
-- (44 votos, 1 comentarios) Unpopular opinion · https://www.reddit.com/r/kungfupanda/comments/1bmwzic/unpopular_opinion/
-- (42 votos, 21 comentarios) So after watching all the Kung Fu Panda movies numerous times I can confirm that 3 is my favorite of all of them. Not… · https://www.reddit.com/r/kungfupanda/comments/1eva93x/so_after_watching_all_the_kung_fu_panda_movies/
+**«favorite character»**
+- (178 votos, 78 comentarios) Who's your favorite kung fu panda character and why? · https://www.reddit.com/r/kungfupanda/comments/1g8ntqc/whos_your_favorite_kung_fu_panda_character_and_why/
+- (110 votos, 33 comentarios) Who Is Your Favorite Furious Five Character From Worst To Best? · https://www.reddit.com/r/kungfupanda/comments/1mhthmv/who_is_your_favorite_furious_five_character_from/
+- (103 votos, 48 comentarios) Who is your favorite character and why is it Tai Lung? · https://www.reddit.com/r/kungfupanda/comments/1ehtenm/who_is_your_favorite_character_and_why_is_it_tai/
+- (64 votos, 90 comentarios) I don't get why people say Tai Lung tragic while really he not. (This is not an attack on the character honestly he one… · https://www.reddit.com/r/kungfupanda/comments/1sn4o02/i_dont_get_why_people_say_tai_lung_tragic_while/
+- (60 votos, 18 comentarios) Who is your favorite side character from KFP franchise? · https://www.reddit.com/r/kungfupanda/comments/1fw15hw/who_is_your_favorite_side_character_from_kfp/
+- (53 votos, 51 comentarios) I know this post has been done before but down below tell me you're number 1 favorite and least favorite character of… · https://www.reddit.com/r/kungfupanda/comments/1dif5j2/i_know_this_post_has_been_done_before_but_down/
+**«why I love»**
+- (237 votos, 12 comentarios) I rly love how artists draws a peachick version of Shen🥹 why can’t this become a reality (creds to the artists) · https://www.reddit.com/r/kungfupanda/comments/1uli6ld/i_rly_love_how_artists_draws_a_peachick_version/
+- (102 votos, 20 comentarios) With all the talk about the fourth movie coming soon, and the new character not satisfying some peoples expectations. I… · https://www.reddit.com/r/kungfupanda/comments/197jjlv/with_all_the_talk_about_the_fourth_movie_coming/
+- (30 votos, 4 comentarios) I love this dialogue. Idk why · https://www.reddit.com/r/kungfupanda/comments/icvfuz/i_love_this_dialogue_idk_why/
+- (20 votos, 11 comentarios) Why I Love Tai Lung · https://www.reddit.com/r/kungfupanda/comments/odcihk/why_i_love_tai_lung/
+- (11 votos, 4 comentarios) Why I Love "More Cannons!" So Much · https://www.reddit.com/r/kungfupanda/comments/uzzqho/why_i_love_more_cannons_so_much/
+- (7 votos, 0 comentarios) I made this video about Kung Fu Panda, the moral lessons inside the three films, why I personally love the films and I… · https://www.reddit.com/r/kungfupanda/comments/11g5buz/i_made_this_video_about_kung_fu_panda_the_moral/
+**«best scene»**
+- (112 votos, 45 comentarios) This, in my opinion, is the best scene in the whole KFP franchise. · https://www.reddit.com/r/kungfupanda/comments/1ehw1pa/this_in_my_opinion_is_the_best_scene_in_the_whole/
+- (85 votos, 24 comentarios) KFP4 has the best title sequence BY FAR imo. In terms of the buildup the entire scene, the music itself and the… · https://www.reddit.com/r/kungfupanda/comments/1cxaz7m/kfp4_has_the_best_title_sequence_by_far_imo_in/
+- (66 votos, 4 comentarios) To this day, I still think this entire fight scene had the best teamwork in animation. · https://www.reddit.com/r/kungfupanda/comments/1c2d1kr/to_this_day_i_still_think_this_entire_fight_scene/
+- (18 votos, 0 comentarios) When your soundtrack is so good ("Save Kung Fu") it gets reused in another travelling scene. And honestly, these four… · https://www.reddit.com/r/kungfupanda/comments/1chj680/when_your_soundtrack_is_so_good_save_kung_fu_it/
+- (10 votos, 14 comentarios) Which Kung Fu Panda scene would make the best LEGO set? · https://www.reddit.com/r/kungfupanda/comments/1u0xme8/which_kung_fu_panda_scene_would_make_the_best/
+- (10 votos, 6 comentarios) Out of the 3 movies, which one do you feel had the best opening scene? · https://www.reddit.com/r/kungfupanda/comments/135adrd/out_of_the_3_movies_which_one_do_you_feel_had_the/
+**«iconic»**
+- (581 votos, 16 comentarios) HEADCANON: The Purple blanket that Tai Lung was wrapped in as a cub became his iconic purple pants. If you look… · https://www.reddit.com/r/kungfupanda/comments/1r29jik/headcanon_the_purple_blanket_that_tai_lung_was/
+- (143 votos, 47 comentarios) Which of the Kung Fu Panda characters can truly be called memorable and iconic? · https://www.reddit.com/r/kungfupanda/comments/1h6neyc/which_of_the_kung_fu_panda_characters_can_truly/
+- (118 votos, 27 comentarios) She's too iconic to not return · https://www.reddit.com/r/kungfupanda/comments/18spova/shes_too_iconic_to_not_return/
+- (54 votos, 10 comentarios) Was watching KFP3 for the first time and then noticed this iconic quote from the Minecraft Movie. This movie was really… · https://www.reddit.com/r/kungfupanda/comments/1pgngrw/was_watching_kfp3_for_the_first_time_and_then/
+- (48 votos, 16 comentarios) Which Kung Fu Panda characters really stand out as memorable and iconic? · https://www.reddit.com/r/kungfupanda/comments/1mrjp2o/which_kung_fu_panda_characters_really_stand_out/
+- (34 votos, 6 comentarios) shen's most iconic scene · https://www.reddit.com/r/kungfupanda/comments/1cvxv86/shens_most_iconic_scene/
