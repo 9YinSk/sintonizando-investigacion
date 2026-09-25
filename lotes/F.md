@@ -19,6 +19,7 @@ Cuenta: cuenta A104
 - 80 Solo Leveling: las 4 partes completas; redactor lanzado.
 - 81 Mushoku Tensei: las 4 partes completas; redactor lanzado.
 - 82 The Rising of the Shield Hero: lanzados imagen, texto y voz (vídeo entra al liberarse hueco).
+- **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
 
