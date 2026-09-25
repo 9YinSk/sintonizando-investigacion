@@ -29,11 +29,11 @@ recolectados) pendientes.
   Más querido: Rebecca (la añadió Trigger; favorita del guionista Rafał
   Jaki). Cuadro de diálogo propio: el subtítulo del juego sin caja, nombre
   en coral `#FE6962` y texto en cian `#59E6F0` (Rajdhani).
-- **28 JoJo's Bizarre Adventure: los 4 investigadores terminaron sin
-  pendientes obligatorios** (imagen midió hex de vestuario de 9
-  personajes; vídeo corrigió la gorra de Jotaro a negra con insignia
-  dorada; voz cerró 8 nombres de doblaje con 2.ª fuente y corrigió el
-  dato de Dio en Stone Ocean). Redactor (Opus, repaso) en marcha.
+- **28 JoJo's Bizarre Adventure: COMPLETA y subida (repaso).** 2543
+  líneas, tabla ✅22 ⚠️8 ❌0, 71 webs, 214 min, 105 hex, 200 referencias,
+  3 hojas. Para #memes, Dio y Joseph son los reyes del meme; Jotaro el más
+  reconocible. Cuadro de diálogo propio: fotograma congelado con filtro
+  de color de cada parte y la flecha «To Be Continued», ficha de Stand.
 - **26 Scooby-Doo: COMPLETA y subida (repaso).** 2502 líneas, tabla
   ✅24 ⚠️6 ❌0, 76 webs, 370 min, 61 hex, 157 referencias, 3 hojas. Más
   querido: Shaggy (con quien más se identifica el público); Scooby ganó
@@ -68,6 +68,12 @@ recolectados) pendientes.
   tiene minuto (habría que ver el episodio entero). Guiño sin decidir si
   entra en la lámina: en argot británico «I haven't got a Scooby» es «no
   tengo ni pista».
+- 28 JoJo's Bizarre Adventure: 14 roles menores del doblaje con una sola
+  fuente; varias frases del doblaje sólo las da Doblaje Wiki, hay que
+  oírlas en Netflix antes de ponerlas en una lámina. Joseph y Bucciarati
+  cumplen años el 27 de septiembre (pasado mañana): buena fecha para
+  estrenar el concepto A. Fortnite no tiene colaboración con JoJo
+  (comprobado): no usarlo en ninguna lámina.
 
 Sesión anterior: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
 Cuenta: cuenta A105
