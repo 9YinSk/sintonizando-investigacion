@@ -2416,6 +2416,51 @@ más natural para las horas.
 - Clínica de Doc: Arroyo, Santo Domingo (§5).
 ---
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Dónde | Por qué |
+|---|---|---|---|
+| 1 · Arte oficial variado | ✅ | §3, §3.8 | 128 imágenes de la wiki en hojas (W), 72 de GitHub (G), artbook, litografía, manga *MADNESS* confirmado en 3 fuentes, los dos Kaneko aclarados |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | §2, §2.6 | Minutos exactos por subtítulo y 10 escenas **vistas** con fotogramas; pero en **360p** (Internet Archive), no en 1080p: YouTube pide iniciar sesión |
+| 3 · Fan art y 3D con licencia | ✅ | §4, Punto 18.d | Sketchfab por API con licencia y autor, HDRI de Poly Haven, fan art con origen |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | §5, §5.5 | Sitios con ubicación (Doc y 2nd Amendment confirmados), paleta medida en hojas y en fotogramas propios, texturas CC0 |
+| 5 · Tipografía por uso, con tildes | ✅ | §6, §6.3 | Una letra por uso, todas comprobadas con fontTools. Sólo el logo no tiene letra libre (buscado): se usa como imagen |
+| 6 · Cuadro de diálogo propio | ✅ | §7, §7.7 | Subtítulo del juego sin caja (captura 1920×1080), holo-llamada, HUD, manga. La lista vertical de opciones sigue sin captura (Cloudflare) |
+| 7 · Popularidad | ✅ | §9 | Ranker, Namuwiki, Zhihu, Reddit, premio; favorita del guionista (Rebecca) y del director (Kiwi). No hay encuesta oficial de personajes: buscada, también en japonés |
+| 8 · Doblaje latino y frases | ⚠️ | §10 | Todos los nombres en **dos fuentes** ✅. Las frases latinas salen de subtítulos automáticos de clips con audio latino, con minuto; no se pudieron oír con `voz.py` (YouTube bloqueado) |
+| 9 · Música y sonido | ✅ | §11 | OP, ED y canción de la luna con minuto visto; «BLAM», lluvia; AnimeThemes caído (522) |
+| 10 · Vídeos con minuto | ✅ | §12 | Tráiler, 7 episodios, 4 análisis con capítulos, clips latinos, TikTok |
+| 11 · Videojuegos | ✅ | §13 | *2077* y parche 1.6, recreativas, interfaz, *Edgerunners 2*; TCRF sólo por extracto (403) |
+| 12 · Fandom y qué NO hacer | ✅ | §14, §14.3 | Memes con fuente, polémica de Rebecca con fechas, tatuajes, Kiwi, violencia fuera de cuadro |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | §8 | Carácter, historia (con el *Mission Kit*), cómo ríe, se enfada, explica y saluda, con minuto. Falta la cara de **vergüenza** y **miedo** con fotograma para cada uno |
+| 14 · Poses analizadas | ✅ | §15 | 6-10 por personaje (Maine y Kiwi suben a 6 con fotogramas de la 2.ª pasada) y tabla por intención |
+| 15 · Vestuario con hex | ✅ | §16 | Colores medidos; emblema de David aclarado; réplica real de su chaqueta |
+| 16 · Paisajes y fondos de pantalla | ✅ | §17 | Sitios con hora y luz; fondos de Wallhaven con tamaño y autor |
+| 17 · Guía para IA de imagen y de texto | ✅ | §18, §18.6-18.7 | Rasgos fijos, estilo, palabras que ayudan y estropean, referencias; voz para IA de texto con frases reales por emoción y vocabulario de expresiones |
+| 18 · Técnica y cómo replicarla | ✅ | Punto 18 | Entrevistas (AWN), «estilo Kanada», Photoshop por capas, Blender (Solidify/Freestyle, *Shader to RGB*), rigs CC BY, encuadres. El programa exacto de Trigger no lo dice ninguna entrevista ⚠️ |
+| 19 · Texturas 2D | ✅ | Punto 19 | Trama de rejilla del manga vista, papel CC0, pinceles libres, 9 logos medidos. No hay estampados de tela: comprobado |
+| 20 · Gustos y detalles | ⚠️ | Punto 20 | Gustos, odios, objeto y cómo se ve cada uno, con fuente. **Altura y cumpleaños oficiales no existen**: no hay databook (buscado) |
+| 21 · Por qué la aman | ⚠️ | Punto 21 | Rotten Tomatoes, premio, pico de Steam, 4 escenas que hacen llorar con minuto, música y dibujo. Falta el hilo de Reddit más votado sobre el final (Arctic Shift daba timeout) |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Punto 22 | 4 fandubs, cover de Cesar Powers, TikTok; **vistas sin confirmar** (YouTube bloqueado) y **memes hispanos propios no encontrados** |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Punto 23 | Overwatch (2 fuentes), Insert Coin, Nonsense, tienda oficial, Prime 1, Good Smile, Yaya Han. Fortnite, Apex y Atsuko con una fuente ⚠️ |
+| 24 · Obras parecidas | ✅ | Punto 24 | Influencias del equipo, la casa Trigger, AniList, choque con el encargo 114 anotado |
+| 25 · Mundo, historia y símbolos | ✅ | Punto 25 | 5 reglas, 3 arcos con los 10 episodios, emblemas y glosario de jerga |
+| Conceptos de lámina (3) | ✅ | §19 | Recreativa, carta del Afterlife y panel del NCART, con lámina 2 y mejoras de la 2.ª pasada |
+| Cuarenta fuentes distintas | ✅ | todo | Más de 100 dominios enlazados en el texto |
+| Tipos de fuente: oficiales | ✅ | §3, Punto 18 | Netflix, CD PROJEKT RED, Trigger, entrevistas (AWN, GAME Watch) |
+| Tipos de fuente: otros idiomas | ✅ | §9, §2, bitácora | Japonés (subtítulos, GAME Watch), coreano (Namuwiki), chino (Zhihu), alemán (aniSearch) |
+| Tipos de fuente: wikis, TV Tropes, TCRF, Wayback | ⚠️ | §13.5, bitácora | Fandom y TV Tropes sí; TCRF sólo por extracto y Wayback bloqueado desde el servidor |
+| Tipos de fuente: foros | ✅ | §9, §14 | Reddit por Arctic Shift, AMA de Imaishi |
+| Tipos de fuente: arte | ✅ | §4 | Safebooru, Wallhaven, Sketchfab, Pixiv/ArtStation vía origen |
+| Tipos de fuente: vídeo | ✅ | §12 | Análisis con capítulos, episodios mirados, clips latinos |
+| Tipos de fuente: código y recursos | ✅ | §6, Punto 18 | GitHub (subtítulos, google/fonts), Sketchfab, ambientCG, Poly Haven |
+| Tipos de fuente: doblaje latino | ✅ | §10 | Doblaje Wiki (API), ANMTV, aniSearch, Anime-Planet, entrevista ANISON |
+| Mirar los vídeos de verdad | ✅ | §2.6 | Opening, ending, tráiler y 3 escenas icónicas con `fotogramas.py` |
+| Hojas de contacto | ✅ | §3.1 | 3 JPEG de menos de 1 MB en `hojas/` |
+| referencias.json | ✅ | — | 231 referencias, las mejores primero |
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### 21.1 Estado de la red (24-sep-2026)
