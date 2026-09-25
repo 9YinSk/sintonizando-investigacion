@@ -2,6 +2,7 @@
 
 Sesión: https://claude.ai/code/session_01Efg124nG5yQM7nZKhrgVfM · rama `claude/cool-galileo-vpncap`
 (parte de `claude/peaceful-maxwell-fklpkp`, juntada con los lotes A, B y C).
+Cuenta: cuenta I34
 
 ## Estado
 
@@ -9,8 +10,9 @@ Sesión: https://claude.ai/code/session_01Efg124nG5yQM7nZKhrgVfM · rama `claude
 - 38 Sailor Moon: **COMPLETA** (22:47). ✅23 ⚠️9 ❌0, 191 refs, 54 webs.
 - 39 Saint Seiya: **COMPLETA** (23:31). ✅24 ⚠️8 ❌0, 223 refs, 45 webs.
 - 40 Digimon Adventure: **COMPLETA** (00:03). ✅22 ⚠️10 ❌0, 159 refs, 48 webs.
-- 41 Dandadan: imagen, texto y video completos; voz en marcha.
-- 42 Blue Lock: imagen y texto en marcha. 43-47: recolectados por adelantado.
+- 41 Dandadan: 4 investigadores completos (voz agotó 2 tandas); redactor en marcha.
+- 42 Blue Lock: imagen y texto completos; video y voz en marcha. 43-47: recolectados por adelantado.
+- 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados a las 00:20; el aviso decía «resets 4:30am UTC»). Al reanudar a las 06:44 ya estaba libre; se relanzó todo lo cortado.
 
 ## Avisos para el dueño
 
