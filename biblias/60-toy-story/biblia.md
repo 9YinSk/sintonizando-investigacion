@@ -770,3 +770,301 @@ Escrita por el redactor con todo lo anterior. Sirve para Firefly, Canva o cualqu
 - **Preocupado:** «¿Qué pasa, Woody? Regresa rápido. ¿Dónde está?» (Jessie, TS4) · «Lo siento. Es que me pongo muy nervioso antes de viajar.» (Rex, TS1)
 
 **Ejemplo en su voz** (inventado para una lámina, con sus muletillas): Buzz: «Guardián, tu misión: un hilo con tu nombre. Sube tus demos. ¡Vamos!» · Rex: «Perdón, perdón… ¿con spoiler? ¡Márcalo, por favor!» · Woody: «Recuerden: un casting, un hilo. Se cierra cuando el papel está cubierto. ¿No es cierto?»
+
+## Punto 18 · Estilo y técnica: cómo replicarlo
+
+**Cómo se hizo** (Wikipedia, IEEE Spectrum, Animation Obsessive, VFX Voice; parte de texto)
+- Animación con el programa propio de Pixar, **Menv/Marionette** (Presto llegó después, con *Brave*, 2012). Texturas, reflejos y render con **RenderMan** ✅ Wikipedia + IEEE Spectrum.
+- 1995: unas **7 horas de render por fotograma**, **114.240 fotogramas**, **800.000 horas-máquina** en estaciones Sun, menos de 30 segundos de película al día. **1.561 planos**, más de 77 minutos, render final a **1536×922** ✅ Wikipedia · https://en.wikipedia.org/wiki/Toy_Story
+- **Por qué juguetes:** el plástico rígido y brillante era lo que el software podía hacer «totalmente real» (John Lasseter). La piel, el pelo y la tela eran otro nivel. Por eso los humanos se ven poco, a menudo sólo manos y pies (Pete Docter) ✅ Animation Obsessive (https://animationobsessive.substack.com) + Wikipedia.
+- **Labios a mano:** una semana por cada 8 segundos de diálogo, mirando vídeo de los actores ✅ Wikipedia.
+- **Cámara:** el jefe de *layout*, Craig Good, evitó los barridos flotantes de la animación por computadora de los 90 y buscó cámara de cine real, «con peso» ✅ Wikipedia.
+- **TS4:** RenderMan RIS con trazado de rayos físico, **exposición calibrada** para toda la película y **contraluz de borde** para separar personaje y fondo ✅ VFX Voice (https://vfxvoice.com/renderman-at-30) + Creative Bloq.
+
+**Cómo reproducirlo en Blender** (plástico de juguete, **no** *toon shader*)
+- **Principled BSDF:** Roughness 0,1-0,3 · Specular alto · **IOR ≈ 1,46** · un poco de *Subsurface Scattering* en piezas gruesas (orejas de Woody, cara de Buzz) ✅ themorphicstudio.com + lo que Pixar contó de TS4.
+- **Sin Freestyle ni Solidify**: Toy Story no tiene contorno. Sólo si se quiere un cartel gráfico (el cómic, el juego retro), una línea fina con Freestyle.
+- **Luz:** 2 o 3 luces de área grandes y suaves + un **contraluz de borde**. Encaja con las reglas del dueño 1 y 2: luz real, nunca plano.
+- **Modelos y *rigs*:** Woody y Buzz con *rig* de xdanni1984x (mismo autor, mismo tipo de *rig*); más modelos en el punto 3. Crédito CC BY obligatorio.
+- **Texturas encima:** cartón, plástico y tela de ambientCG (punto 4).
+- **Cámara:** focal larga, a ras del suelo o de la cama, profundidad de campo marcada.
+
+**Cómo reproducirlo en Photoshop** (aquí pinta menos: el trabajo es 3D)
+- **Composición final:** grano de cámara suave, aberración cromática leve, viñeta.
+- **Carteles del mundo** pintados sobre el render: letreros de madera del Oeste, la caja con estallidos, la etiqueta escrita a rotulador.
+- Recortes siempre por `v3/integrar.py` (regla 3 del dueño).
+
+**Encuadres y composición típicos**
+- **Presentar:** plano medio frontal, cámara a la altura del pecho del juguete (Buzz, E-9).
+- **Sorpresa:** primer plano cerrado bajo el ala del sombrero (Woody, E-8).
+- **Grupo:** plano abierto desde el suelo, juguetes en fila, muebles enormes detrás (E-7).
+- **Emoción fuerte:** primer plano con luz dura de un solo color: fuego (E-16), campo dorado (E-14).
+- **Triunfo:** contrapicado, cielo detrás, brazos en cruz (E-1).
+- **Unión:** plano cerrado de las manos (E-15).
+
+## Punto 19 · Texturas 2D
+
+Toy Story es 3D: **no hay tramas de manga ni pinceladas**. Las capas 2D de esta franquicia son **patrones de ropa, emblemas y material impreso**.
+
+- **Estampado de vaca** (chaleco de Woody, chaparreras de Jessie): patrón Holstein blanco y negro. No hay textura CC0 con ese nombre en ambientCG. Se hace con tela lisa (`Fabric061` o `Fabric030`, CC0) y el estampado encima como capa aparte (Photoshop: «Superposición de motivo»).
+- **Vaquero** (pantalón de Woody y Jessie): «Denim» no da resultado en ambientCG ⚠️. Usar `Fabric081C` o `Fabric066` (CC0) teñido con `#194574` o `#1F62A1`.
+- **Plástico** (Buzz, Rex): `Plastic013A`, `Plastic010`, `Plastic006` (CC0).
+- **Cartón de caja** (las cajas de H1-37 y H2-200): `Cardboard001` a `Cardboard004` (CC0).
+- **Madera** del suelo de Andy ⚠️ no consultada (`?type=Material&q=Wood` en ambientCG).
+- **Empapelado de nubes:** nubes blancas crema `#EDF3D2` sobre celeste (punto 4). ⚠️ No se buscó un patrón libre equivalente: se pinta.
+- **Emblemas y logos**
+  - Logo de *Woody's Roundup*: rojo, western, gastado, tipo tele de los 50 (1000×556) ✅.
+  - Star Command: pegatina en el pecho de Buzz ⚠️ no hay imagen del emblema suelto.
+  - «SPACE RANGER» y «LIGHTYEAR» (punto 5).
+  - Logo de sol sonriente de Sunnyside ⚠️ sin imagen.
+  - La firma «ANDY» a rotulador: se hace a mano.
+  - «TO INFINITY AND BEYOND» en la sábana de Buzz (H2-79).
+- **Material impreso:** pósters planos de Toys"R"Us con arte de cómic (H2-200 a H2-205); cajas de venta con estallidos (punto 6).
+
+Con el punto 3 (modelos 3D) y el 4 (texturas reales), las tres capas están cubiertas.
+
+## Punto 20 · Gustos y detalles
+
+De las fichas de Pixar Wiki (parte de voz). ⚠️ **Los juguetes no tienen cumpleaños ni altura oficiales**: son objetos fabricados. No se encontró un *databook* con esos datos y **no se inventó ninguno**.
+
+| Personaje | Le gusta | No soporta | Cómo se ve | Lo que siempre lleva |
+|---|---|---|---|---|
+| **Woody** | ser el favorito, liderar, resolver problemas del grupo | que lo reemplacen, sentirse innecesario | TS1-3: «el juguete de Andy»; desde TS4, alguien con propósito propio | placa de sheriff, cordón de voz |
+| **Buzz** | explorar, la acción, ser útil | la inacción y, en el fondo, la indecisión | tras TS1, un juguete que ayuda a otro a sentirse querido | alas y casco |
+| **Jessie** | el canto tirolés, la vida de vaquera, moverse | la soledad y el encierro (claustrofobia) | antes, fácil de abandonar; hoy, la que no deja a nadie atrás | sombrero y trenza |
+| **Rex** | los videojuegos, sobre todo el de Buzz | las discusiones; que llegue «otro dinosaurio» | el T-Rex menos feroz posible | su cola: choca con todo sin querer (gag) |
+| **Sr. Cara de Papa** | hacer de villano en broma | que le quiten piezas | el gruñón con corazón | sus piezas intercambiables |
+| **Jam** | la tele, saber qué pasa fuera | — | el más listo con los aparatos | monedas (es una alcancía) |
+| **Bo Peep** | la aventura, vivir sin un solo dueño | la pasividad de antes | libre | su cayado, ahora herramienta |
+| **Sid** | de niño, el *heavy metal* y «operar» juguetes; de adulto, sigue el metal | — | — | camiseta de calavera |
+| **Forky** | — | ser un juguete (al principio) | basura, hasta el final de TS4 | intenta tirarse a la basura una y otra vez |
+| **Gabby Gabby** | la compañía, conversar | su caja de voz rota, la soledad | defectuosa, hasta que una niña la quiere | su caja de voz |
+
+- **Planeta de Buzz** en su ficha: Morph ⚠️ una fuente.
+- **Buzz y Rex** son los únicos de Toy Story que salen en todos los formatos (películas, cortos, especiales), hasta que llegó Forky ⚠️ una fuente.
+
+## Punto 21 · Por qué la aman
+
+**Razones concretas**
+- **Hito técnico:** el primer largometraje animado entero por computadora (1995) ✅ prensa del 30 aniversario, p. ej. diariodecuyo.com.ar (https://www.diariodecuyo.com.ar).
+- **Calidad que dura:** TS3 y TS4 ganaron cada una el Óscar a mejor película de animación ⚠️ la parte lo da como dato conocido, sin enlace.
+- **TS5 (2026):** mejor estreno del año en Norteamérica, **160 millones de dólares** el primer fin de semana (TS4 hizo 120). Taquilla mundial: más de 950 millones a 21-jul (Infobae) y más de **1.100 millones** según la parte de voz. **92 %** de la crítica y **95 %** del público en Rotten Tomatoes. Algunas críticas dicen que la historia no justifica otra secuela ✅ Infobae (https://www.infobae.com/estados-unidos/2026/07/21/toy-story-5-supera-los-usd-950-millones-en-taquilla-y-queda-muy-cerca-de-romper-otro-record-historico/), El Tiempo Monclova, Espinof (https://www.espinof.com).
+- **Bo Peep en TS4:** debate real en prensa. Para unos, «moderna, independiente, capaz y segura de sí misma»; para otros, «eso no es feminismo» porque vuelve a enamorarse ✅ El Español, Tomatazos, Milenio, Slate (https://slate.com/culture/2019/06/toy-story-4-bo-peep-female-characters-gender-flip-sequels.html).
+- **Forky:** una crisis existencial adulta dentro de una comedia familiar. Un crítico lo llamó «una mini-criatura de Frankenstein» que Pixar vuelve tierna ✅ BioBioChile (https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2019/06/19/juguetes-en-crisis-existencial-las-claves-de-la-pelicula-que-pone-fin-a-24-anos-de-toy-story.shtml), KQED, Syfy, Wisecrack.
+
+**Con quién se identifica el público**
+- **Woody y Jessie:** el miedo a quedarse viejo o ser reemplazado. Golpea a los adultos que vieron TS1 de niños.
+- **Forky:** la ansiedad de «no saber para qué sirvo».
+- **Bo Peep:** verla crecer de adorno a protagonista.
+
+**Las escenas que hacen llorar**
+1. **El incinerador (TS3).** `x3mvnel` 1:32-1:39 (minuto del clip ⚠️, no de la película).
+   - Qué pasa: acorralados por el fuego, se dan la mano en silencio. Buzz toma la de Jessie, ella la de Bullseye, y Woody cierra el círculo. Los Marcianitos los salvan en el último segundo.
+   - Por qué duele: aceptan el final **juntos**, sin gritar.
+   - Música: tema de tensión que acaba en alivio (probablemente «The Claw» ⚠️).
+   - Cómo está hecha: **luz de fuego** naranja total (`#D1632D`, `#E8A251`), primeros planos de manos (E-15) y de caras (E-16).
+   - Reacción: la escena más citada de la saga en listas de animación ✅ PopMatters (https://www.popmatters.com/toy-story-3-2496175434.html).
+2. **«Cuando ella me amaba» (TS2).** `x7xdru9` 1:04-3:06 (minuto del clip ⚠️).
+   - Qué pasa: Jessie recuerda cómo Emily creció y la dejó en una caja de donación.
+   - Música: la canción entera, voz de Sarah McLachlan en inglés.
+   - Cómo está hecha: **campo dorado** (`#996741`) para el recuerdo feliz; **oscuridad bajo la cama** (`#1A161A`) para el olvido; Jessie mirando a cámara (E-14).
+   - Reacción: hilo «When She Loved Me» en Reddit con 117 votos · https://www.reddit.com/r/toystory/comments/1wn01jc/when_she_loved_me_brennimurasaki/ · y otro sobre «la mejor relación niño-juguete» (38 votos).
+3. **El final de TS3.** Andy, ya mayor, regala sus juguetes a Bonnie y juega con ellos una última vez. En Reddit: «The scene of Woody being given away is still gut wrenching» ⚠️ sin minuto.
+4. **Novedad de TS5:** Bonnie sufre **acoso en internet**. «Did you cry or almost cry when Bonnie was getting cyberbullied?» (33 votos, 14 comentarios) · https://www.reddit.com/r/toystory/comments/1uhktc6/did_you_cry_or_almost_cry_when_bonnie_was_getting/ · y «When did Toy Story become about making "adults cry"?» (34 votos, 26 comentarios) ⚠️ sin minuto.
+
+**Las que hacen reír o gritar de emoción**
+- **Woody y Buzz volando** con el cohete: `x8lhmv2` 1:57-2:01. Triunfo, cielo azul, brazos en cruz (E-1).
+- **Los Marcianitos salvando al grupo** con la garra: `x3mvnel` 2:34-2:55 (E-20).
+- **Rex de fiesta** en *Partysaurus Rex*: `x6ifyrz` 3:20-4:20 (E-21).
+- **El láser de Buzz** contra Woody: `x89nzvp` 1:13 (E-11).
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+**Fan dubs y *covers*** ⚠️ encontrados por búsqueda web; **sin canal, vistas ni enlace comprobados** (YouTube pide iniciar sesión desde el servidor).
+- «Toy Story (*Fandub Español*) (1995) Yo Soy Tu Amigo Fiel»: fandub del tema principal en YouTube.
+- TikTok: «Video De Toy Story Yo Soy Tu Amigo Fiel» y «Yo soy tu amigo fiel Toy Story» (varias cuentas), usados para nostalgia y *lipsync*. Un usuario le cambia el sentido con humor: «la canción favorita de mi amigo que más de 20 veces fue infiel».
+- TikTok: «**Andy tira a Woody, ya no te quiero más**»: edición triste sobre la despedida de Andy.
+
+**Clips doblados en Dailymotion** ✅
+- «Toy Story de Terror - Muestra de Doblaje» (3:11, thebardock23), etiquetado como muestra de doblaje · https://www.dailymotion.com/video/x16nywp
+- «TOY STORY 3 "ESCENA DEL INCINERADOR" LATINO» (3:18): la escena que más canales suben en latino · https://www.dailymotion.com/video/x3mvnel
+- «TOY STORY 2 BUZZ LIGHTYEAR ESPAÑOL LATINO» (0:17) · https://www.dailymotion.com/video/x4ed8tz
+- «Toy Story 3 Live Action Ending [Español Latino]» (7:03, Marcos Oliveira): recreación con juguetes reales y audio latino ⚠️ sin mirar · https://www.dailymotion.com/video/x8b7dw5
+- Tráileres doblados de las 5 películas (FilmAffinity, Tomatazos, HobbyConsolas, El Séptimo Arte, Qore).
+
+**La comunidad hispana del doblaje, en acción** ✅ (punto 8)
+- **La campaña por Carlos Segundo** (más de 5000 firmas, difundida por *Toonlandya*): fans organizándose **por el doblaje**, no por la película.
+- **Actores que se negaron** a hacer el casting de Woody por respeto a Carlos Segundo.
+- **La despedida a Carlos del Campo** en 2026, de parte de Carlos Segundo.
+- Doblaje Wiki guarda los *loops* de cada personaje para comparar voces: Woody de Carlos Segundo contra el de Arturo Mercado Jr. (171 Hz frente a 203 Hz, punto 8).
+
+**Memes hispanos:** «Al infinito y más allá» como expresión de todos los días; «Andy tira a Woody»; los nervios de Rex (punto 12).
+
+**Pista para quien siga:** Internet Archive tiene «Toy Story (1995) Dub Collection» (https://archive.org/details/toy-story-dub-collection) y «Toy Story 1 (Dub Collection)» ⚠️ sin abrir: comprobar si traen el doblaje latino.
+
+## Punto 23 · Colaboraciones y cruces
+
+(Donde se enlaza la portada del medio es porque la parte no guardó el enlace del artículo.)
+
+- **NASA y la Estación Espacial (2008-2009).** Un Buzz de 12 pulgadas voló en el Discovery (misión STS-124, 31-may-2008) y volvió 15 meses después (STS-128). Fue el programa educativo «Toys in Space»: concurso de parches para estudiantes, juegos y vídeos de ciencia. El muñeco está en el **Smithsonian** ✅ Space.com (https://www.space.com) + Smithsonian (https://airandspace.si.edu). Imagen: «BuzzLightyearToyinTheScienceofAdventurewithNASA.jpg» (1280×720).
+- ***Kingdom Hearts III* (2019):** mundo «Toy Box» con Woody y Buzz ⚠️ confirmado sólo por los modelos de Sketchfab que copian su diseño del juego (punto 3).
+- **Fortnite (abril de 2026):** skins de **Buzz** (casco puesto o quitado) y del **Emperador Zurg**; la **camioneta de Pizza Planet como planeador**, un Marcianito de compañero y zapatillas «Alien Shoooooes». En tienda del 10 al 24 de abril, 3400 V-Bucks, a la vez que el estreno de TS5 ✅ NME (https://www.nme.com) + Dexerto (https://www.dexerto.com).
+- **Levi's × Toy Story, 30 aniversario** (2-oct-2025): 23 piezas de estilo western. Chaqueta de mujer con **«Yodelayheehoo» bordado** en la espalda y cuello de vaquero con estampado de vaca; chaqueta de hombre con tachuelas que imitan la hebilla de Woody, el logo de Space Ranger, Pizza Planet y un cactus ✅ Levi's (https://www.levi.com) + WWD (https://wwd.com). **Ropa y poses nuevas para una lámina actual.**
+- **Woody's Lunch Box** (Toy Story Land, Disney's Hollywood Studios): **café temático** de sándwiches de queso, «totchos» y refrescos con helado, decorado como si Andy lo hubiera montado con piezas de Tinkertoy ✅ Disney World (https://disneyworld.disney.go.com) + WDWInfo.
+- **Figuras oficiales Funko POP!** de Buzz y Rex (H2-208, H2-209): de pie, brazos pegados, cabeza grande. Referencia 3D de la versión *chibi* ✅.
+- **Menú infantil:** figuras de Woody, Buzz y Rex en **Burger King** y **McDonald's** (H2-50, H2-193; «Burger King Rex puppet», 1600×1200) ✅ Pixar Wiki, fotos de producto.
+- **Disney On Ice:** número «Woody, Buzz & Aliens» (1000×1000) y fotos antiguas en blanco y negro de un show sobre hielo ⚠️ sólo imágenes de la wiki.
+- **Exposición «The Science Behind Pixar»** (H1-6, 4476×2982) ✅ imagen de la wiki.
+- **Cosplay con materiales reales** ✅ Instructables (https://www.instructables.com) + TheRPF (https://www.therpf.com):
+  - Buzz: **espuma EVA** con piezas cónicas para brazos y piernas; **cúpula del casco en acrílico termoformado**; plantillas de **Pepakura** en papel antes de pasar a fibra o espuma.
+  - Woody: **fieltro** para cinturón y funda; líneas rojas pintadas a mano sobre una camisa normal.
+  - ⚠️ No se encontró una foto de cosplay terminado con autor y evento para enlazar.
+
+## Punto 24 · Obras parecidas
+
+- ***The Brave Little Toaster*** (1987): Lasseter quiso hacerla en 3D en Disney, se lo negaron y lo despidieron. Su idea (objetos vivos con miedo al abandono y cariño por su dueño) acabó en Toy Story. Lasseter y **Joe Ranft**, que trabajó en ella, pasaron a Pixar ✅ Wikipedia + comicbook.com (https://comicbook.com).
+- ***The Indian in the Cupboard*** (1995, el mismo año): un niño y un juguete que cobra vida en un mueble; más tranquila, sin acción ✅ geezezone.com (https://geezezone.com) + Den of Geek (https://www.denofgeek.com).
+- ***Small Soldiers*** (1998): figuras de acción con IA militar que se rebelan; el otro gran «juguetes que se mueven solos» de los 90, más cerca del terror ligero ✅ Den of Geek.
+- **Influencia reconocida por Pixar:** se eligieron juguetes por una **limitación técnica** (punto 18). Esa limitación se volvió la idea central ✅ Wikipedia + Animation Obsessive.
+
+**Otras láminas del servidor que se parecen (para no repetir ideas)** ✅ mirado en sus biblias
+- **Coco (57):** #🎧・que-estas-escuchando, cartas y marco de papel picado.
+- **Encanto (58):** la Casita y sus puertas.
+- **Big Hero 6 (08):** panel de laboratorio.
+- **Shrek (59):** página del cuento, letrero del pantano, periódico.
+- **Hueco libre para Toy Story:** **el objeto de juguete en el cuarto de un niño** (la caja, la suela, la máquina de garra). Ninguna otra biblia lo usa. Evitar «carta o papel» (Coco) y «panel de laboratorio» (Big Hero 6).
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** ✅ Pixar Wiki («Toys») + thepopculturestudio.com (https://thepopculturestudio.com)
+1. Los juguetes cobran vida sólo cuando ningún humano los ve.
+2. Ante un humano se quedan quietos y callados.
+3. Ningún humano debe saber que están vivos: la regla madre.
+4. Su alegría es que un niño juegue con ellos y los quiera.
+5. Cuando el niño crece, lo correcto es pasar a otro niño, no aferrarse.
+
+**La historia por arcos** ✅ Pixar Wiki, argumento de cada película (TS1-4) + fichas de TS5
+- **TS1 (1995):** Woody, favorito de Andy, teme que Buzz lo reemplace. Rivalidad; se pierden fuera de casa; cooperan para escapar de Sid; vuelven a tiempo. **Momento clave:** el vuelo con el cohete pegado a Buzz.
+- **TS2 (1999):** Al, un coleccionista, roba a Woody para venderlo a un museo japonés con el set de *Woody's Roundup* (serie de marionetas de los 50). ¿Vivir jugado y gastado, o completo en una vitrina? Woody vuelve con Andy. Llegan Jessie y Bullseye; el Prospector (Stinky Pete; su nombre latino no está en las partes ⚠️) los traiciona por miedo a quedarse en un estante. **Momento clave:** «Cuando ella me amaba».
+- **TS3 (2010):** Andy se va a la universidad. Los juguetes acaban en la guardería Sunnyside, gobernada por Lotso. Escapan; el incinerador. Andy los regala a Bonnie. **Cierra el arco de Andy.**
+- **TS4 (2019):** Bonnie crea a Forky. Reencuentro con Bo Peep, juguete libre. Woody se va con ella: **primera vez que el protagonista elige no volver con un niño**. Jessie queda de sheriff.
+- **TS5 (2026):** Jessie al centro; Lilypad, una tableta-juguete, amenaza la vida de Bonnie; Buzz se declara a Jessie; Woody ayuda. Vuelve Lotso ⚠️ una fuente (Pixar Wiki) + tráiler.
+
+**Emblemas, objetos y vocabulario** ✅ Pixar Wiki
+- **Camioneta de Pizza Planet:** pickup «1978 Gyoza Mark VII Lite Hauler». Transporte en TS1-3 y **cameo en casi todas las películas de Pixar** (salvo *Los Increíbles*).
+- **La suela con «ANDY».** Así un juguete es de alguien.
+- **Placa de sheriff y cordón de voz** de Woody.
+- **Traje de Buzz:** alas, casco, láser, panel «Space Ranger»; su grito, «¡Al infinito y más allá!».
+- **La Garra:** la máquina de peluches de Pizza Planeta; los Marcianitos la veneran («The Claw is our master»).
+- **Emperador Zurg:** villano del videojuego dentro de la película (TS2) y luego personaje; estética de **Star Command**.
+- **Sunnyside:** logo de sol sonriente; su alegría choca con el gobierno de Lotso.
+- **Al's Toy Barn** (Juguetería Al's Toy): la amenaza de acabar en una caja, en un estante.
+- **Palabras que un fan reconoce:** *moving buddy* (compañero de mudanza) ⚠️ nombre latino sin comprobar · *Woody's Roundup* · *Cowboy Camp* · los juguetes mutantes de Sid · «el incinerador» · «la Garra» · «Guardián Espacial» · «Comisario».
+
+## 3 conceptos de lámina
+
+Tres ideas distintas: **cartón de día**, **cristal y neón de noche**, **tele en la oscuridad**. Tres personajes distintos al frente. Todo el texto va **en un objeto** (punto 6) y con textos cortos, sin «·», «—» ni paréntesis (regla 4 del dueño).
+
+### Concepto A · #🎧・demos — «La caja de tu voz» ⭐ recomendado
+
+**El objeto y el sitio:** una **caja de juguete de cartón con ventana de plástico**, como la de Buzz (H1-37, H2-211), de pie sobre la **cama de Andy** (edredón a rayas). Detrás, el **empapelado de nubes**. Se hace en Blender: cartón `Cardboard002`, ventana de plástico transparente `Plastic013A`, tapa con solapa.
+
+**El personaje:** **Buzz**, pose de **presentar**: mano señalando el botón de su pecho (`x89nzvp` 0:48, E-9). Se posa con el *rig* libre de xdanni1984x (punto 3) y se mira el render H1-1 para el material. La otra mano **apoyada en el borde de la caja**.
+
+**Cómo habla:** con la propia caja. Sus frases van en **estallidos amarillos con borde negro** (Luckiest Guy), como el «50+ PHRASES & SOUNDS» real. Su línea, en un **panel tipo «SPACE RANGER»** (Orbitron). Nada de burbuja.
+
+**Dónde va cada texto** (textos reales del canal)
+- **Arriba, el logo de la caja:** «DEMOS» (Baloo 2 amarillo con filete azul marino) sobre un **banner rojo en trapecio**: «TU FICHA DE DOBLAJE».
+- **Panel del costado** (Orbitron): «Un hilo con tu nombre».
+- **Estallido 1:** «¡TUS DEMOS!» · **Estallido 2:** «¡TU RANGO VOCAL!».
+- **Dentro de la ventana:** una etiqueta blanca escrita **a rotulador**, con letra de niño, como la «ANDY» de la bota: «Tu nombre aquí».
+- **Etiqueta roja en la esquina**, como el «TRY ME!» de H2-211: «¡Léeme primero!», que remite al hilo fijado «Tu ficha de voz».
+- **Buzz** (panel): «Guardián: abre tu hilo y sube tus demos. ¡Al infinito y más allá!»
+
+**Lámina 2 · la parte de atrás de la caja:** «INCLUYE» con casillas, como la lista de accesorios de un juguete. Las 19 etiquetas agrupadas: **Voz** (masculina, femenina, andrógina) · **Edad** (Infantil, Joven, Adulto, Anciano) · **Tipo** (Narración, Comercial, Canto, Imitación) · **Medio** (Anime, Series, Películas, Videojuegos, Audiolibro) · **Estado** (Disponible, Ocupado) · **Colaboración**. Abajo, en letra pequeña, un guiño al doblaje latino: «Hecho en Taiwán».
+
+**Cómo se evita que quede plano**
+- **Luz de tarde** entrando de lado por la ventana (paleta del cuarto de Andy: `#705F71`, `#592B1B`, `#945543`; madera `#B37A54`) y **contraluz de borde** en Buzz.
+- **Reflejo** en la ventana de plástico; sombra de la caja sobre el edredón.
+- Buzz **tapa una esquina** de la caja con el cuerpo y el brazo.
+- **Cámara baja**, a ras del colchón; las nubes del fondo **desenfocadas**.
+- En primer plano, desenfocada, la cabeza de Rex asomando por el borde de la cama.
+
+### Concepto B · #🎬・castings — «La Garra de Pizza Planeta»
+
+**El objeto y el sitio:** la **máquina de garra de Pizza Planeta**: vitrina de cristal, garra metálica colgando, dos palancas rojas (E-20), letrero luminoso arriba. Dentro del **salón de Pizza Planeta de noche**. Se hace en Blender: cristal, metal y luces de emisión.
+
+**Los personajes:** los **Marcianitos**, el secundario que el fandom adora (punto 7), dentro de la vitrina, **mirando arriba a la garra** (E-20, H2-60). Fuera, **Woody** en pose de **dirigir y explicar** (`x8lhmv2` 0:08), con **la mano apoyada en el cristal**. *Rig* libre de Woody (punto 3).
+
+**Cómo habla:** en la máquina. Letrero luminoso arriba (Rammetto One en neón). Las reglas, en la **placa de instrucciones** del frente, como en una recreativa (Fredoka). Los Marcianitos sólo dicen «Ooooh», en una pegatina en el cristal. ⚠️ Su frase exacta en latino no está transcrita: no inventarla.
+
+**Dónde va cada texto**
+- **Letrero de arriba:** «CASTINGS».
+- **Placa de instrucciones:** «Cada casting es un hilo.» / «Ciérralo cuando el papel esté cubierto.»
+- **Dos luces de la máquina:** verde «ABIERTO» y roja «CERRADO»; una tercera, parpadeante, «URGENTE».
+- **Cápsulas de premio** dentro de la vitrina, cada una con una etiqueta: Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro, Canto.
+- **Woody**, en un cartelito de cartón pegado al cristal: «Recuerden: un casting, un hilo. ¿No es cierto?»
+- **Lámina 2 si se satura:** el **tablero de premios** de la pared con el resto de etiquetas: Pagado, Sin paga, Oficial del servidor, +18.
+
+**Cómo se evita que quede plano**
+- **Neón morado y rosa** de Pizza Planeta (`#991EC3`, `#362A76`, `#F27DEE`) con contraluz en Woody.
+- **Reflejos en el cristal** por delante de los Marcianitos: una capa entre ellos y la cámara.
+- **La garra en primer plano**, arriba, desenfocada.
+- Otras máquinas desenfocadas al fondo; brillo general bajo (40 %).
+
+### Concepto C · #📺・que-estas-viendo — «La tele de *Woody's Roundup*»
+
+**El objeto y el sitio:** el **televisor antiguo** del apartamento de Al (TS2), con *Woody's Roundup* en blanco y negro en la pantalla (H2-86). Alrededor, el merchandising: la guitarra «Learn Guitar With Woody» (H2-77), las cajas de ropa western (H2-78), las revistas viejas (H2-88). Se hace en Blender: mueble de madera, pantalla curva de tubo.
+
+**Los personajes:** **Jessie**, la sheriff de hoy, **sentada encima de la tele**, en pose de **animar** (`x7xdru9` 2:29) y con la mano en el ala del sombrero, como en el render de «Jessie tipping her hat» que el fandom adora (punto 12). Modelo libre: Jessie de Neut2000 (punto 3). **Rex** asoma por un lado del mueble, **tapándose la cara** del susto (`x6ifyrz` 2:00, `x89nzvp` 0:31); modelo de JuanG3D.
+
+**Cómo habla:** la **pantalla es la cartela**: título al estilo del logo de *Woody's Roundup* (rojo western, Rammetto One) y debajo, cartela blanca sobre negro, como las del tráiler de TS5 (E-23). Rex sostiene un **cartel de cartón escrito a rotulador**.
+
+**Dónde va cada texto**
+- **Pantalla, título:** «¿QUÉ ESTÁS VIENDO?»
+- **Pantalla, cartelas:** «Series, pelis, anime.» / «Di si lo recomiendas.»
+- **Cartel de Rex:** «¿Spoilers? ¡Márcalos!»
+- **Jessie**, en la placa de la tele: «¡Yodelayheehoo! Cuéntanos qué ves.»
+
+**Cómo se evita que quede plano**
+- **La luz sale de la pantalla**: blanca y fría, ilumina a Jessie desde abajo. El cuarto, en penumbra (paleta de Al's Toy Barn de noche: `#110F10`, `#302F36`, acento `#EAB476`).
+- **La guitarra y las cajas** en primer plano, desenfocadas.
+- **Rex por delante** del borde del mueble.
+- Líneas del tubo y un poco de grano en la pantalla.
+
+## Lo que no pude verificar y lo que corregí de las partes
+
+### Correcciones entre partes (lo que el redactor cambió o avisa)
+- **Sombrero de Jessie:** la parte de imagen dice «camisa y sombrero amarillos». **Es rojo**: se ve en H2-194 y H2-204 y lo dice la etiqueta `red_hat` de Danbooru. La camisa es blanca con canesú. El `#F6D739` queda como amarillo de detalles ⚠️.
+- **El azul de Rex** (`#0C55A2`, «ojos y placas»): la imagen medida (H1-43) tiene **una caja azul** detrás de Rex. Casi seguro es el azul de la caja. No usarlo para Rex.
+- **Hoja 2 de la parte de imagen:** los n.º 149-158 que cita (perfiles, repaquetes de Disney Store, colorscript) son de la **hoja 4**, no de la 2. H2-58 no es una figura de Burger King: es un fotograma de Buzz (la de Burger King es H2-50).
+- **H2-196 y H2-197** son bocetos de **Jessie**, no de «Woody con Bonnie».
+- **Etiquetas de Danbooru:** además del top contaminado que ya avisó la parte de voz (Pikachu, Mario…), **las etiquetas de Rex también lo están** (`glasses`, `adidas`…).
+- **Wallhaven:** el fondo `wallhaven-j8wdem` es de Star Wars, no de Toy Story.
+- **Cartel de *Woody's Roundup*:** la parte de texto no lo encontró, pero la de imagen sí tiene su imagen (`Woody's_Roundup.jpg`, 1000×556). Falta describir bien la letra.
+- **Juegos de Steam:** *Toy Story 3 Complete Edition* y *Retro Roundup!* salen el **15-oct-2026**. A 25-sep aún no han salido.
+- **Años de Orozco:** la parte de voz dice «27 y 27 años». Orozco es Buzz de 1995 a 2026 (31 años); Irán Castillo, de 1999 a 2026 (27).
+- **Dos tráileres latinos de TS5:** `xa0f34q` (Sensacine, parte de vídeo) y `xa0ekdy` (FilmAffinity, parte de voz). Cada minuto va con su clip.
+- **Rex de fiesta:** la hoja E-21 marca 2:40 y la tabla de poses 3:20. Son dos fotogramas del mismo tramo de fiesta.
+- **Taquilla de TS5:** 950 millones a 21-jul (Infobae); 1.100 millones según la parte de voz, más tarde.
+- **Hojas:** había 4 JPEG en `hojas/`. `merchandising_01.jpg` (n.º 193-211) se juntó debajo de `personajes_02.jpg`, con los mismos números, para dejar 3.
+- **Stinky Pete:** su nombre latino no está en las partes; no se puso ninguno.
+
+### Lo que no se pudo verificar (queda para quien lo vea u oiga)
+- **Frases del incinerador en latino** con minuto: pasar `voz.py` por `x3mvnel`.
+- **Qué dicen los Marcianitos en latino** (`Aliens_loop.ogg`, Doblaje Wiki).
+- **Cómo se dobló el «modo español» de Buzz** en TS3.
+- **Estudio y dirección** del doblaje de TS2, TS4 y TS5 (la ficha no los trae).
+- **Una segunda fuente** para Orozco (Buzz) e Irán Castillo (Jessie), fuera de Doblaje Wiki.
+- **Caras de vergüenza** de los cuatro; **tristeza** de Woody y Rex.
+- **Minuto en la película entera** del incinerador y de «Cuando ella me amaba».
+- **Canal, vistas y enlace** de los fandubs (YouTube bloqueado).
+- **El single de Taylor Swift** que se lee en H1-39.
+- **La escena de «I Can't Let You Throw Yourself Away»** en TS4.
+- **El título latino de *Woody's Roundup*.** La parte de voz habla de «la pandilla del Rodeo de Woody», sin fuente de ese nombre ⚠️.
+- **Globos del manga oficial** y de los cómics de BOOM!.
+- **Letras libres** para la cartela del tráiler, el HUD de píxel y el cartel western.
+
+### Confirmado y dudoso
+- **Confirmado (dos fuentes o visto):** reparto de Woody y Rex con sus relevos; muerte de Carlos del Campo; hex de fotogramas y de Buzz; poses con minuto; reglas del mundo y arcos; colaboraciones de NASA, Fortnite, Levi's y Toy Story Land; efectos de sonido de *Jurassic Park*; letras libres con tildes, ñ, ¿ y ¡.
+- **Dudoso (una fuente):** Buzz e Irán Castillo en TS2-5; reparto de TS5; hex de Woody, Jessie y Rex (una imagen cada uno); fan art (sólo Safebooru); Kingdom Hearts III; Disney On Ice; la trama de TS5.

@@ -1,20 +1,100 @@
 [
  {
-  "url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b9/FF4PSP_Porom_Portrait.png",
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ef/Cloud_Strife_from_FFVII_Remake_bust_render.png",
   "fuente": "Fandom finalfantasy",
-  "ancho": 56,
-  "alto": 56,
-  "que_es": "Cloud: FF4PSP Porom Portrait.png",
+  "ancho": 4126,
+  "alto": 4734,
+  "que_es": "Cloud Strife: Cloud Strife from FFVII Remake bust render.png",
   "para_que": "pose, ropa y colores del personaje",
   "licencia": "© titulares; sólo referencia",
   "origen": "recolectar.py"
  },
  {
-  "url": "https://static.wikia.nocookie.net/finalfantasy/images/4/43/FF4PSP_Palom_Portrait.png",
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/2/2e/SSBU_Cloud_Strife_render_001.png",
   "fuente": "Fandom finalfantasy",
-  "ancho": 56,
-  "alto": 56,
-  "que_es": "Cloud: FF4PSP Palom Portrait.png",
+  "ancho": 3997,
+  "alto": 4242,
+  "que_es": "Cloud Strife: SSBU Cloud Strife render 001.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5a/Advent_Children_Cloud_%26_Sephiroth.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 5143,
+  "alto": 3000,
+  "que_es": "Cloud Strife: Advent Children Cloud & Sephiroth.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/9/9b/Cloud_recoded_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3757,
+  "alto": 3520,
+  "que_es": "Cloud Strife: Cloud recoded render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/a/af/Cloud_Strife_from_FFVII_Remake_battle_render.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2970,
+  "alto": 4368,
+  "que_es": "Cloud Strife: Cloud Strife from FFVII Remake battle render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/2/28/Cloud_Dissidia_CG_render_2.jpg",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2881,
+  "alto": 4167,
+  "que_es": "Cloud Strife: Cloud Dissidia CG render 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/a/af/Cloud_Dissidia_Artwork.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 2589,
+  "alto": 4441,
+  "que_es": "Cloud Strife: Cloud Dissidia Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/6/69/SSBU_Cloud_Strife_render_002.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3400,
+  "alto": 3314,
+  "que_es": "Cloud Strife: SSBU Cloud Strife render 002.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e7/MetalChocobo.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3157,
+  "alto": 3532,
+  "que_es": "Cloud Strife: MetalChocobo.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/finalfantasy/images/5/58/FFEF_Cloud.png",
+  "fuente": "Fandom finalfantasy",
+  "ancho": 3061,
+  "alto": 3498,
+  "que_es": "Cloud Strife: FFEF Cloud.png",
   "para_que": "pose, ropa y colores del personaje",
   "licencia": "© titulares; sólo referencia",
   "origen": "recolectar.py"
@@ -235,16 +315,6 @@
   "ancho": 7545,
   "alto": 5756,
   "que_es": "Sephiroth: Sephiroth from Crisis Core Reunion boss render.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5a/Advent_Children_Cloud_%26_Sephiroth.jpg",
-  "fuente": "Fandom finalfantasy",
-  "ancho": 5143,
-  "alto": 3000,
-  "que_es": "Sephiroth: Advent Children Cloud & Sephiroth.jpg",
   "para_que": "pose, ropa y colores del personaje",
   "licencia": "© titulares; sólo referencia",
   "origen": "recolectar.py"

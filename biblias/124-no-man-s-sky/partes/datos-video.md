@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: no encontré la página de «el viajero» · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto)
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
@@ -15,21 +15,21 @@ _Fuente: https://api.dailymotion.com_
 - No Man's Sky - Combate · 1:08 · meristation · 6787 vistas · https://www.dailymotion.com/video/x4l05y0
 - No Man's Sky - The story of No Man's Sky · 7:28 · Gamekult · 4899 vistas · https://www.dailymotion.com/video/x20e3nx
 - No Man's Sky: Echoes · 1:29 · Vidaextra · 3937 vistas · https://www.dailymotion.com/video/x8nggcs
-- No Man's Sky - Supervivencia · 1:06 · meristation · 3491 vistas · https://www.dailymotion.com/video/x4m2q23
+- No Man's Sky: Aquarius · 1:10 · HobbyConsolas · 666 vistas · https://www.dailymotion.com/video/x955kj4
 **«No Man's Sky ending»**
 - No Man's Sky - Omega · 1:32 · Vandal · 10939 vistas · https://www.dailymotion.com/video/x8ssute
 - No Man's Sky · 1:59 · Hitek · 9975 vistas · https://www.dailymotion.com/video/x443jby
 - No Man's Sky - Combate · 1:08 · meristation · 6787 vistas · https://www.dailymotion.com/video/x4l05y0
 - No Man's Sky - The story of No Man's Sky · 7:28 · Gamekult · 4899 vistas · https://www.dailymotion.com/video/x20e3nx
 - No Man's Sky: Echoes · 1:29 · Vidaextra · 3937 vistas · https://www.dailymotion.com/video/x8nggcs
-- No Man's Sky: Aquarius · 1:10 · HobbyConsolas · 666 vistas · https://www.dailymotion.com/video/x955kj4
+- No Man's Sky - Supervivencia · 1:06 · meristation · 3491 vistas · https://www.dailymotion.com/video/x4m2q23
 **«No Man's Sky trailer»**
 - No man's Sky trailer E3 · 5:32 · JeuxVideo.com · 11343 vistas · https://www.dailymotion.com/video/x89lilx
+- No Man’s Sky : Trailer FIGHT · 1:06 · Gameblog · 4143 vistas · https://www.dailymotion.com/video/x4l0rro
 - No Man's Sky : Trailer Survive · 1:06 · Gameblog · 1152 vistas · https://www.dailymotion.com/video/x4m2gdv
 - Trailer - No Man's Sky · 1:59 · IndieMagFR · 942 vistas · https://www.dailymotion.com/video/x189yqf
 - No Man's Sky - Prisms Trailer · 1:49 · JeuxVideo.com · 598 vistas · https://www.dailymotion.com/video/x89nujz
 - No Man's Sky Orbital tráiler · 1:39 · meristation · 383 vistas · https://www.dailymotion.com/video/x8vxx86
-- No Man’s Sky — Explore Trailer · 1:32 · Begeek · 322 vistas · https://www.dailymotion.com/video/x4kb3kw
 **«No Man's Sky escena»**
 - No Man's Sky - Omega · 1:32 · Vandal · 10939 vistas · https://www.dailymotion.com/video/x8ssute
 - No Man's Sky · 1:59 · Hitek · 9975 vistas · https://www.dailymotion.com/video/x443jby

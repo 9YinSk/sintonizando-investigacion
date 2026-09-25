@@ -34,12 +34,40 @@ _Fuente: https://eldenring.fandom.com/wiki/Malenia%2C_Blade_of_Miquella_
 - 2880×1223 · Malenia and Radahn preparing to battle each other.jpg · https://static.wikia.nocookie.net/eldenring/images/0/00/Malenia_and_Radahn_preparing_to_battle_each_other.jpg
 - 2880×1222 · Malenia vs Radahn (story trailer).jpg · https://static.wikia.nocookie.net/eldenring/images/1/10/Malenia_vs_Radahn_%28story_trailer%29.jpg
 
+## Ranni the Witch: las imágenes más grandes de la wiki (112 en total)
+_Fuente: https://eldenring.fandom.com/wiki/Ranni_the_Witch_
+
+- 3132×3132 · Promotional Wallpaper 2.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3132×3132 · Melina Icon.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3840×2160 · ER.Ranni Quest cutscene 4.jpg · https://static.wikia.nocookie.net/eldenring/images/7/76/ER.Ranni_Quest_cutscene_4.jpg
+- 3840×2160 · ER.Ranni Quest cutscene 2.jpg · https://static.wikia.nocookie.net/eldenring/images/c/c0/ER.Ranni_Quest_cutscene_2.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 8.jpg · https://static.wikia.nocookie.net/eldenring/images/8/82/ER.Ranni_AotS_cutscene_8.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 7.jpg · https://static.wikia.nocookie.net/eldenring/images/d/d9/ER.Ranni_AotS_cutscene_7.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 5.jpg · https://static.wikia.nocookie.net/eldenring/images/7/74/ER.Ranni_AotS_cutscene_5.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 3.jpg · https://static.wikia.nocookie.net/eldenring/images/3/30/ER.Ranni_AotS_cutscene_3.jpg
+- 3840×2160 · ER.Ranni AotS cutscene 2.jpg · https://static.wikia.nocookie.net/eldenring/images/b/ba/ER.Ranni_AotS_cutscene_2.jpg
+- 1920×1080 · Three Fingers Icon.png · https://static.wikia.nocookie.net/eldenring/images/f/f8/ER_Promo_Screenshot_20.jpg
+
+## Starscourge Radahn: las imágenes más grandes de la wiki (185 en total)
+_Fuente: https://eldenring.fandom.com/wiki/Starscourge_Radahn_
+
+- 3132×3132 · Promotional Wallpaper 2.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3132×3132 · Melina Icon.png · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png
+- 3840×2160 · Miquella Appearance.jpg · https://static.wikia.nocookie.net/eldenring/images/9/90/Miquella_Appearance.jpg
+- 3840×2160 · Figuarts Mini Radahn.jpg · https://static.wikia.nocookie.net/eldenring/images/5/5e/Figuarts_Mini_Radahn.jpg
+- 3840×2160 · ER trailer demigods fight.jpg · https://static.wikia.nocookie.net/eldenring/images/3/39/ER_trailer_demigods_fight.jpg
+- 1920×2095 · Starscourge Radahn concept art.jpg · https://static.wikia.nocookie.net/eldenring/images/6/64/Starscourge_Radahn_concept_art.jpg
+- 2560×1440 · Promised Consort Radahn Gate.jpg · https://static.wikia.nocookie.net/eldenring/images/2/26/Promised_Consort_Radahn_Gate.jpg
+- 2560×1440 · Promised Consort Radahn CloseUp.jpg · https://static.wikia.nocookie.net/eldenring/images/f/f0/Promised_Consort_Radahn_CloseUp.jpg
+- 2560×1440 · Promised Consort Boss.jpg · https://static.wikia.nocookie.net/eldenring/images/d/da/Promised_Consort_Boss.jpg
+- 2560×1440 · Consort of Miquella Boss.jpg · https://static.wikia.nocookie.net/eldenring/images/c/c7/Consort_of_Miquella_Boss.jpg
+
 ## Hojas de contacto (investigar_serie.py)
 _Fuente: herramientas/referencias/_
 
 ```
-· imágenes de eldenring.fandom.com (2 páginas y sus galerías)…
-  206 imágenes enlazadas, 105 grandes → 3 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/elden-ring
+· imágenes de eldenring.fandom.com (4 páginas y sus galerías)…
+  311 imágenes enlazadas, 208 grandes → 5 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/elden-ring
 
 ```
 
@@ -108,7 +136,7 @@ _Fuente: https://wallhaven.cc_
 - 1920x1080 · ♥ 455 · https://w.wallhaven.cc/full/rd/wallhaven-rd1qrq.jpg · subido por billfinger · origen: — · Malenia (Elden Ring), Elden Ring, artwork, fan art, video games, red
 - 2467x3700 · ♥ 387 · https://w.wallhaven.cc/full/wq/wallhaven-wqkxyp.jpg · subido por ThorRagnarok · origen: — · Ranni (Elden Ring), Elden Ring, video games, video game girls, fantasy girl, hat
 - 3840x2160 · ♥ 365 · https://w.wallhaven.cc/full/3l/wallhaven-3ljjwd.png · subido por ABAnarchy · origen: — · Needle Knight Leda, medieval, digital art, armor, sword, knight
-- 4712x2752 · ♥ 351 · https://w.wallhaven.cc/full/72/wallhaven-72k6py.jpg · subido por ThorRagnarok · origen: — · Ranni (Elden Ring), Elden Ring, video games, video game girls, witch, hat
+- 4712x2752 · ♥ 352 · https://w.wallhaven.cc/full/72/wallhaven-72k6py.jpg · subido por ThorRagnarok · origen: — · Ranni (Elden Ring), Elden Ring, video games, video game girls, witch, hat
 - 8400x4725 · ♥ 345 · https://w.wallhaven.cc/full/d6/wallhaven-d6yrml.jpg · subido por jrmnt · origen: https://t.bilibili.com/940495931191590944 · WLOP, digital art, artwork, illustration, digital painting, women
 - 3840x2160 · ♥ 285 · https://w.wallhaven.cc/full/8o/wallhaven-8ow3q1.jpg · subido por HKkkkkkkkk · origen: — · PlayStation, video game art, video games, Elden Ring
 - 3198x1800 · ♥ 270 · https://w.wallhaven.cc/full/m9/wallhaven-m9mwqy.jpg · subido por stepbro · origen: https://www.pixiv.net/en/artworks/96695071 · anime, anime girls, artwork, weapon, Elden Ring, Malenia (Elden Ring)

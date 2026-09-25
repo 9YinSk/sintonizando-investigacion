@@ -241,8 +241,8 @@ secciones Personality/History/Trivia/Quotes), cruzado con las fichas de voz medi
     https://www.dailymotion.com/video/x88oh56?start=38 [0:38].
   - Sorpresa/miedo: ojos muy abiertos leyendo un pergamino antiguo ·
     mismo vídeo [0:29].
-  - Determinación/rabia contenida: cara iluminada de verde por el chi, mandíbula apretada,
-    encarando a Kai · mismo vídeo [1:07] y [1:16].
+  - Determinación/fiereza: ojos entornados, brazos abiertos, corriendo hacia cámara a
+    contraluz dorado, en la fiesta que interrumpe al llegar de golpe · mismo vídeo [0:28].
   - Ternura/cariño: sonrisa suave rodeado de cachorros panda · mismo vídeo [1:52].
   - Vergüenza: no se encontró un fotograma propio claro en este tráiler (⚠️, ver «No encontré»).
 
@@ -264,7 +264,10 @@ secciones Personality/History/Trivia/Quotes), cruzado con las fichas de voz medi
 - **Dinámicas**: padre/maestro para Tigresa y Po; antiguo maestro roto con Tai Lung; discípulo
   reverente de Oogway.
 - **Cara**: gesto de fastidio/enfado contenido (orejas caídas, boca torcida) en el tráiler de
-  KFP1 · https://www.dailymotion.com/video/x88nbws?start=40 [0:40] ✅.
+  KFP1 · https://www.dailymotion.com/video/x88nbws?start=40 [0:40] ✅. En contraste, calma
+  paternal y afecto contenido (ojos entornados, sonrisa leve) recibiendo a la cachorra Tigresa ·
+  «Secrets of the Furious Five» · https://archive.org/details/secrets-of-the-furious-five?t=1000
+  [16:40] ✅.
 
 ### Maestra Tigresa
 - **Carácter**: la más fuerte y valiente de los Cinco Furiosos, seria, poco sociable, muy
@@ -289,6 +292,11 @@ secciones Personality/History/Trivia/Quotes), cruzado con las fichas de voz medi
 - **Dinámicas**: hija adoptiva de Shifu (relación tensa que se suaviza); hermana adoptiva
   «desheredada» de Tai Lung; líder de facto de los Cinco Furiosos; con Po pasa de desprecio a
   lealtad total.
+- **Cara**: de cachorra, ojos muy abiertos, orejas erguidas, mezcla de nervio y esperanza, justo
+  cuando Shifu la acoge como alumna a la puerta del Palacio de Jade (Shifu, a su lado, tiene la
+  mirada entornada y una sonrisa cansada y paternal — el mismo fotograma sirve para los dos) ·
+  corto oficial «Secrets of the Furious Five» (Internet Archive, mirado con `fotogramas.py
+  --fotograma`) · https://archive.org/details/secrets-of-the-furious-five?t=1000 [16:40] ✅.
 
 ### Maestro Oogway
 - **Carácter**: sereno, enigmático, hablа en acertijos zen («no hay accidentes», «uno se
@@ -365,6 +373,9 @@ citada dentro de la wiki)
   por él; la traición que sintió al ser encerrado lo llenó de un odio que no ha sanado en 500
   años — róbale el chi a los maestros para volver al mundo mortal y vengarse · wiki, Personality
   ✅; voz medida arriba (punto 8): la más grave (94 Hz) y de rango más amplio (27.6 semitonos).
+  Cara: silueta oscura contra un cielo verde de aurora, ojos brillantes turquesa, cuernos y
+  colmillos de jade — la imagen de villano más amenazante encontrada en esta pasada · tráiler
+  KFP3, https://www.dailymotion.com/video/x88oh56?start=67 [1:07] ✅.
 - **La Camaleona** (KFP4): arrogante, manipuladora, fría bajo una fachada calmada; su origen
   (burlada y subestimada por su tamaño en las escuelas de kung fu) llegó tarde a la producción
   y se sintió insuficiente para el fandom (ver punto 12, «qué NO hacer») · wiki, Personality ✅.
@@ -512,11 +523,13 @@ citada dentro de la wiki)
   No parece existir un *databook* oficial de la franquicia con esos datos, a diferencia de lo
   que sí existe para animes.
 - ⚠️ Catálogo completo de «cara en cada emoción» (alegría, rabia, tristeza, miedo, vergüenza)
-  con fotograma propio para los 6 personajes principales: se cubrió Po con 4/5 emociones y
-  Shifu con 1/5 sobre dos tráilers oficiales (KFP1 y KFP3, Dailymotion, mirados con
-  `fotogramas.py --cortes`); faltan Tigresa, Oogway, Tai Lung y Sr. Ping, y la vergüenza de Po.
-  No se procesaron películas completas por presupuesto de acciones de esta tanda — ver «Sigue»
-  si aplica.
+  con fotograma propio para los 6 personajes principales: se cubrió Po (4/5 emociones), Shifu
+  (2/5: fastidio y calma paternal) y Tigresa (1/5: nervio/esperanza de cachorra) sobre dos
+  tráilers (KFP1, KFP3, Dailymotion) y el corto oficial «Secrets of the Furious Five» (Internet
+  Archive), todos mirados con `fotogramas.py`. Faltan Oogway, Tai Lung y Sr. Ping por completo,
+  y varias emociones de Po/Shifu/Tigresa (sobre todo tristeza y vergüenza, poco frecuentes en
+  tráilers y en un corto centrado en los orígenes de los Cinco). No se procesaron películas
+  completas por presupuesto de acciones de esta tanda — ver «Sigue».
 - ⚠️ Meme o parodia hispanohablante propia y documentada de Kung Fu Panda (con enlace y
   cifras). Búsquedas: «Kung Fu Panda meme español», «Kung Fu Panda parodia latino», «Kung Fu
   Panda TikTok español viral». Sólo se encontraron memes en inglés (punto 12) y fandubs sin
@@ -537,7 +550,7 @@ citada dentro de la wiki)
 | 7 | Popularidad, encuestas oficiales y de fans, quién es el más querido de verdad | ⚠️ | Sin encuesta oficial (se buscó y se documenta que no existe); sí hay 3 rankings de fans, Danbooru medido en vivo (dato propio, corrige el fallo del recolector) y el dato objetivo del Kids Choice Awards |
 | 8 | Doblaje latino, actor/estudio/director por dos fuentes, frases textuales | ✅ | Ficha de las 4 películas completa (estudio/dirección/traducción), 17 personajes con actor verificado (la mayoría ✅ en 2+ fichas), 5 frases textuales transcritas y medidas con audio oficial; 1 discrepancia (Han) señalada sin ocultar |
 | 12 | Qué ama el fandom (memes, chistes internos) y qué NO hacer | ✅ | 5 cosas que ama con fuente, 4 reglas de «qué NO hacer» con ejemplos reales y fuentes (Camaleona, MrBeast) |
-| 13 | Descripción profunda: carácter, historia, miedos, qué le importa, relaciones, cómo se expresa, cara por emoción con fotograma/minuto, dinámicas | ⚠️ | Completo en texto para 6 principales + 4 Furiosos + 4 villanos; el catálogo de «cara por emoción con fotograma propio» sólo cubre Po (4/5) y Shifu (1/5) sobre 2 tráilers mirados — falta ampliarlo, ver Sigue |
+| 13 | Descripción profunda: carácter, historia, miedos, qué le importa, relaciones, cómo se expresa, cara por emoción con fotograma/minuto, dinámicas | ⚠️ | Completo en texto para 6 principales + 4 Furiosos + 4 villanos; el catálogo de «cara por emoción con fotograma propio» cubre Po (4/5), Shifu (2/5) y Tigresa (1/5) sobre 2 tráilers + 1 corto oficial mirados — falta ampliarlo para Oogway, Tai Lung, Sr. Ping y las emociones que quedan, ver Sigue |
 | 20 | Gustos y detalles (comida, aficiones, cumpleaños, altura, objeto, autopercepción), con fuente | ⚠️ | Cubierto para Po (altura/peso oficiales, nombre, Furioso favorito), Tigresa (comida), Shifu/Oogway/Tai Lung/Sr. Ping (nombre/trivia); no existe dato oficial de altura/cumpleaños para el resto, y se dice explícitamente |
 | 21 | Por qué la gente la ama: reseñas, Reddit, encuestas, identificación; escenas que hacen llorar con minuto/música/reacción | ✅ | 3 escenas emocionales con fuente y análisis (sopa sin ingrediente, pasado de Po, muerte de Oogway), recepción crítica de KFP4 con 4 fuentes, patrón de identificación del público con 3 personajes distintos |
 | 22 | Fan dubs y comunidad hispana en YouTube/TikTok con canal/enlace/escena/vistas; covers; memes | ⚠️ | 4 fandubs localizados con canal y enlace, sin vistas exactas (YouTube bloqueado); se explica por qué no hay «covers de opening» (la franquicia no tiene canciones con letra propias); no se encontró meme hispano propio documentado |
@@ -563,6 +576,9 @@ citada dentro de la wiki)
   `Tigress_kungfupanda3.ogg`, `Oogway_kungfupanda3.ogg`, `Kai_kungfupanda3.ogg`).
 - `herramientas/fotogramas.py --cortes` sobre 2 tráilers de Dailymotion (KFP1
   `dailymotion.com/video/x88nbws`, KFP3 `dailymotion.com/video/x88oh56`), mirados con `Read`.
+- `herramientas/fotogramas.py --cada 25` y `--fotograma` sobre el corto oficial «Secrets of the
+  Furious Five» (Internet Archive, 1415 s, `archive.org/details/secrets-of-the-furious-five`),
+  mirado con `Read`; da el origen 2D de Tigresa/Víbora/Mantis/Grulla/Mono.
 
 **Búsqueda web (WebSearch), en español salvo que se indique, cupo usado ~18 de 50:**
 - «Kung Fu Panda personaje favorito encuesta ranking»
@@ -593,9 +609,10 @@ citada dentro de la wiki)
 - YouTube: bloqueo de sesión («inicia sesión») en los intentos de vistas de fandubs; no se
   insistió más de 2 veces por video, según indica AYUDANTE.md.
 
-Sigue: ampliar el catálogo de «cara en cada emoción con fotograma propio» del punto 13 para
-Tigresa, Oogway, Tai Lung y Sr. Ping (faltan también rabia/tristeza/vergüenza de Po), sobre
-más tráilers o el corto oficial «Secrets of the Furious Five» (Internet Archive, 23 min,
-`archive.org/details/secrets-of-the-furious-five`, ya localizado y con duración comprobada:
-1415 s) — si se retoma, usar `fotogramas.py --cada 15` sobre ese corto en vez de `--cortes`
-(demasiados planos para un vídeo tan largo) y mirar las hojas con Read antes de citar minuto.
+Sigue: ampliar el catálogo de «cara en cada emoción con fotograma propio» del punto 13 —
+Oogway, Tai Lung y Sr. Ping siguen sin ninguna, y a Po/Shifu/Tigresa les falta sobre todo
+tristeza y vergüenza. Ya se miraron 2 tráilers (Dailymotion) y el corto «Secrets of the Furious
+Five» completo (Internet Archive, `--cada 25`); si se retoma, probar con `Secrets of the
+Masters` o `Secrets of the Scroll` (otros cortos oficiales de la franquicia, buscar su URL en
+Dailymotion/Internet Archive) o con un tramo de una película completa, mirando las hojas con
+Read antes de citar minuto.

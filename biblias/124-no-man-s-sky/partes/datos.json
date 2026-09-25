@@ -1,5 +1,245 @@
 [
  {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/fc/Traveller_-_Heads_2.png",
+  "fuente": "Fandom nomanssky",
+  "ancho": 2486,
+  "alto": 1658,
+  "que_es": "Traveller: Traveller - Heads 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e1/Traveller_-_Heads.png",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1670,
+  "alto": 1740,
+  "que_es": "Traveller: Traveller - Heads.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/d/d4/TravellerInFreighter.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Traveller: TravellerInFreighter.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/5/57/TwoTravellers.png",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1124,
+  "alto": 1011,
+  "que_es": "Traveller: TwoTravellers.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/f5/Hub_Traveler_Reference_2.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1200,
+  "alto": 675,
+  "que_es": "Traveller: Hub Traveler Reference 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/0/0e/Art-PL.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Artemis: Art-PL.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/63/Artemis_Front.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 468,
+  "alto": 1080,
+  "que_es": "Artemis: Artemis Front.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/d/d4/Artemis_2.png",
+  "fuente": "Fandom nomanssky",
+  "ancho": 343,
+  "alto": 285,
+  "que_es": "Artemis: Artemis 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/4d/Nada.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Priest Entity Nada: Nada.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/9/9e/Nada_Cape.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1080,
+  "alto": 1920,
+  "que_es": "Priest Entity Nada: Nada Cape.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/6e/NadaPrisms.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1155,
+  "alto": 1080,
+  "que_es": "Priest Entity Nada: NadaPrisms.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/b/b2/NadaNoAtlas.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Priest Entity Nada: NadaNoAtlas.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/47/NadaLearn.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Priest Entity Nada: NadaLearn.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/9/90/PriestEntityNada.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 480,
+  "alto": 480,
+  "que_es": "Priest Entity Nada: PriestEntityNada.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e9/SpecialistPolo.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Specialist Polo: SpecialistPolo.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/6e/Polo.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Specialist Polo: Polo.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/81/Polo-PL.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Specialist Polo: Polo-PL.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e4/Backstory-PL.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Specialist Polo: Backstory-PL.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/3/31/Polo_pur3.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1061,
+  "que_es": "Specialist Polo: Polo pur3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/fe/Polo_pur2.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1061,
+  "que_es": "Specialist Polo: Polo pur2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/7d/Polo_pur1.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1061,
+  "que_es": "Specialist Polo: Polo pur1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/75/PoloPrisms.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1155,
+  "alto": 1080,
+  "que_es": "Specialist Polo: PoloPrisms.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/8e/NMSAtlas.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1848,
+  "alto": 2167,
+  "que_es": "The Atlas: NMSAtlas.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/88/Atlas-PL.jpg",
+  "fuente": "Fandom nomanssky",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "The Atlas: Atlas-PL.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
   "url": "https://w.wallhaven.cc/full/r2/wallhaven-r2779q.jpg",
   "fuente": "Wallhaven",
   "ancho": 3840,

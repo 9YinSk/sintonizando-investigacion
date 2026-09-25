@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x82hn72?t=19",
+    "fuente": "Dailymotion (NEXO TV)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Clip oficial doblado al español latino del episodio 1 de Overlord (monólogo del narrador sobre Yggdrasil)",
+    "para_que": "Frase textual del doblaje latino con minuto exacto, para el cuadro de diálogo del punto 8",
+    "licencia": "Vídeo de terceros, sólo como referencia de audio/minuto, no para usar el clip en sí"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Overlord",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de doblaje latino de Overlord: estudio, dirección, reparto por personaje y temporada",
+    "para_que": "Verificar actor de doblaje de cada personaje (punto 8)",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://dengekionline.com/article/202410/21787",
+    "fuente": "Dengeki Online",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Resultado de la encuesta oficial de popularidad de personajes de Overlord (sep-2024, con el estreno de la película El Reino Sagrado)",
+    "para_que": "Punto 7: encuesta de popularidad oficial japonesa",
+    "licencia": "Artículo de prensa japonesa, sólo como fuente de datos"
+  },
+  {
+    "url": "https://ln-news.com/archives/42551/post-42551/",
+    "fuente": "LN News Online",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda fuente de los resultados de la encuesta de popularidad oficial de Overlord",
+    "para_que": "Confirmar en dos fuentes la encuesta oficial del punto 7",
+    "licencia": "Artículo de prensa japonesa, sólo como fuente de datos"
+  },
+  {
+    "url": "https://anilist.co/anime/20832",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de la serie con el ranking de favoritos de usuarios por personaje y las fichas de personalidad",
+    "para_que": "Punto 7 (popularidad de fans) y punto 13 (personalidad base)",
+    "licencia": "Datos públicos de la API de AniList"
+  },
+  {
+    "url": "https://danbooru.donmai.us/posts?tags=albedo_%28overlord%29",
+    "fuente": "Danbooru",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Conteo real de posts con la etiqueta albedo_(overlord), para corregir el dato contaminado de datos-voz.md",
+    "para_que": "Punto 7: cuánto dibuja el fandom a cada personaje de Overlord (no de otras series)",
+    "licencia": "Índice público de Danbooru, sin descargar imágenes con derechos ajenos"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Ainz_Ooal_Gown",
+    "fuente": "Fandom (overlordmaruyama)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Ainz Ooal Gown: personalidad, altura (177cm, con tuit del autor), citas textuales, trivia",
+    "para_que": "Puntos 13 y 20: carácter, forma de hablar y datos personales de Ainz",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "fuente": "Fandom (overlordmaruyama)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Albedo: personalidad, altura (170cm), citas textuales, trivia",
+    "para_que": "Puntos 13 y 20: carácter, forma de hablar y datos personales de Albedo",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Shalltear_Bloodfallen",
+    "fuente": "Fandom (overlordmaruyama)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Shalltear: personalidad, altura (140cm, con tuit del autor), citas textuales",
+    "para_que": "Puntos 13 y 20: carácter, forma de hablar y datos personales de Shalltear",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Demiurge",
+    "fuente": "Fandom (overlordmaruyama)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Demiurge: personalidad, altura (181cm, con tuit del autor), citas textuales",
+    "para_que": "Puntos 13 y 20: carácter, forma de hablar y datos personales de Demiurge",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://x.com/maruyama_kugane/status/491174892495065088",
+    "fuente": "X / Twitter del autor Kugane Maruyama",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tuit original del autor confirmando las alturas de Shalltear y Demiurge",
+    "para_que": "Punto 20: dato verificado en fuente primaria (el propio autor)",
+    "licencia": "Publicación pública del autor, citada como fuente, no reproducida como imagen"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/Overlord2012",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de momentos tristes/duros de Overlord (Swords of Darkness, Arche, Blue Roses) con contexto de arco",
+    "para_que": "Punto 21: escenas que hacen llorar, con motivo y arco",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://www.youtube.com/@meap.overlord",
+    "fuente": "YouTube (resultado de búsqueda, no visitado por bloqueo del servidor)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Canal de fandub hispano de manga/cómics de Overlord, «OhMeapLord!»",
+    "para_que": "Punto 22: fan dubs y comunidad hispana",
+    "licencia": "Canal de fans, sólo como referencia/enlace"
+  },
+  {
+    "url": "https://es.memedroid.com/memes/tag/overlord",
+    "fuente": "Memedroid (español)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Etiqueta de memes de Overlord en español",
+    "para_que": "Punto 22: memes hispanos del fandom",
+    "licencia": "Contenido de usuarios, sólo como referencia/enlace"
+  },
+  {
+    "url": "https://www.reddit.com/r/overlord/comments/xsr2pu/why_does_this_guy_have_such_an_insane_swag_i_love/",
+    "fuente": "Reddit r/overlord",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo con 2868 votos sobre por qué el fandom ama a Ainz",
+    "para_que": "Punto 21: razones concretas del cariño del público",
+    "licencia": "Contenido de usuarios, sólo como referencia/enlace"
+  },
+  {
+    "url": "https://neverthinkimpossible.com/2019/05/08/anime-review-overlord/",
+    "fuente": "Reseña independiente (blog)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña que explica el atractivo de la 'fantasía de poder al revés' de Overlord",
+    "para_que": "Punto 21: por qué la gente ama la serie",
+    "licencia": "Artículo de blog, sólo como fuente de texto"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/V%C3%ADctor_Hugo_Aguilar",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del actor Víctor Hugo Aguilar, voz de Ainz Ooal Gown en el doblaje latino",
+    "para_que": "Punto 8: verificación del actor de doblaje en segunda fuente propia del actor",
+    "licencia": "Texto de wiki de fans"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Lupita_Macedo",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la actriz Lupita Macedo, voz de Albedo en el doblaje latino",
+    "para_que": "Punto 8: verificación del actor de doblaje en segunda fuente propia del actor",
+    "licencia": "Texto de wiki de fans"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Azucena_Mart%C3%ADnez",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la actriz/directora Azucena Martínez, voz de Shalltear y directora de doblaje",
+    "para_que": "Punto 8: verificación del actor de doblaje en segunda fuente propia del actor",
+    "licencia": "Texto de wiki de fans"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/C%C3%A9sar_Echeverr%C3%ADa",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del actor César Echeverría, voz de Demiurge/Jaldabaoth en el doblaje latino",
+    "para_que": "Punto 8: verificación del actor de doblaje en segunda fuente propia del actor",
+    "licencia": "Texto de wiki de fans"
+  }
+]

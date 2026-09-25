@@ -44,12 +44,50 @@ _Fuente: https://littlenightmares.fandom.com/wiki/Mono#Appearance_
 
 Mono is a short and scrawny pale-skinned boy whose head is hidden by a light brown paper bag with two round eye holes that allow him to see. He wears a one-buttoned khaki trench coat that reaches below his knees above a brownish-gray shirt tucked into his long brownish-gray pants, rolled up at the end of his legs. His hands and feet are bare. Mono can also wear items like a key on the side of his coat. Under the paper bag he wears, Mono has short, messy black hair that sticks out a little bit. He also has a fairly skinny and slightly more angular facial structure and dark eyes.
 
+## The Janitor: las imágenes más grandes de la wiki (61 en total)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Janitor_
+
+- 3840×2160 · TheJanitor3.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/b3/TheJanitor3.jpg
+- 3840×2160 · TheJanitor2.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/b9/TheJanitor2.jpg
+- 3840×2160 · TheJanitor1.jpg · https://static.wikia.nocookie.net/littlenightmares/images/0/04/TheJanitor1.jpg
+- 2008×3047 · Memories.jpg · https://static.wikia.nocookie.net/littlenightmares/images/8/82/Memories.jpg
+- 2008×3047 · LittleNightmaresComicSeriesJanitorTV.jpg · https://static.wikia.nocookie.net/littlenightmares/images/9/9c/LittleNightmaresComicSeriesJanitorTV.jpg
+- 2008×3047 · JanitorReachComicArt.jpg · https://static.wikia.nocookie.net/littlenightmares/images/1/13/JanitorReachComicArt.jpg
+- 2008×3047 · JanitorArmsComicArt.jpg · https://static.wikia.nocookie.net/littlenightmares/images/e/eb/JanitorArmsComicArt.jpg
+- 2880×1609 · BullyChalkArt.png · https://static.wikia.nocookie.net/littlenightmares/images/3/34/BullyChalkArt.png
+- 1824×1787 · Janitor Rat Key.png · https://static.wikia.nocookie.net/littlenightmares/images/9/98/Janitor_Rat_Key.png
+- 2000×1350 · SecretsOfTheMaw.jpg · https://static.wikia.nocookie.net/littlenightmares/images/a/aa/SecretsOfTheMaw.jpg
+
+## The Janitor · Appearance (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Janitor#Appearance_
+
+The Janitor is humanoid monster whose proportions are greatly warped and exaggerated compared to a normal human. His skin is extremely pale and chalky while his head is large and connected to his torso by a wrinkled neck which bends his back into a hunch by its sheer weight. The most striking feature of his head is how the top half of its skin seems to have collapsed and sags down over his eyes, revealing the top of his bare skull and leaving him blinded by the folds of flesh. His mouth is stretched wide from ear to ear, and almost always wears a sinister grin while grinding his many teeth. More so than his head, The Janitor's arms and legs are the most grossly dis-proportioned: while his legs are almost comically short and stumpy, his arms stretch to over twice his body length, and can stretch even longer at will, ending in large hands with long, bony fingers that constantly twitch and…
+
+## The Lady: las imágenes más grandes de la wiki (45 en total)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Lady_
+
+- 4000×2700 · 1519111647-7518-card.jpg · https://static.wikia.nocookie.net/littlenightmares/images/1/19/1519111647-7518-card.jpg
+- 3840×2160 · The Ladies elevator.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/bd/The_Ladies_elevator.jpg
+- 3840×2160 · Singing Lady.jpg · https://static.wikia.nocookie.net/littlenightmares/images/7/7f/Singing_Lady.jpg
+- 3840×2160 · Ladysquarters5.png · https://static.wikia.nocookie.net/littlenightmares/images/4/49/Ladysquarters5.png
+- 3840×2160 · Final boss battle.jpg · https://static.wikia.nocookie.net/littlenightmares/images/a/a4/Final_boss_battle.jpg
+- 2008×3047 · Memories.jpg · https://static.wikia.nocookie.net/littlenightmares/images/8/82/Memories.jpg
+- 2008×2131 · TheLadyInComic.jpg · https://static.wikia.nocookie.net/littlenightmares/images/c/c6/TheLadyInComic.jpg
+- 2400×1350 · LNI and II buldle poster.jpg · https://static.wikia.nocookie.net/littlenightmares/images/d/db/LNI_and_II_buldle_poster.jpg
+- 2072×1170 · Little Nightmares Papercraft.jpg · https://static.wikia.nocookie.net/littlenightmares/images/6/62/Little_Nightmares_Papercraft.jpg
+- 2048×1152 · TheLadyStartGame.jpg · https://static.wikia.nocookie.net/littlenightmares/images/a/a5/TheLadyStartGame.jpg
+
+## The Lady · Appearance (texto de la wiki)
+_Fuente: https://littlenightmares.fandom.com/wiki/The_Lady#Appearance_
+
+The Lady is an unnaturally tall, slender woman with the appearance of a Japanese geisha. She has long raven-black hair and a large bun over her head. She is adorned in a long dark brown kimono, which seems to trail moderately behind her when she walks. Her face is perpetually covered by a white porcelain mask similar to a Japanese Noh mask, through which two lifeless black eyes stare out. In spite of nearly all of her body being covered, the skin tone on her neck seems to be a pale demitasse color. It is heavily implied from the various mannequins in the Lady’s quarters that the Lady wears a wig over her natural hair.
+
 ## Hojas de contacto (investigar_serie.py)
 _Fuente: herramientas/referencias/_
 
 ```
-· imágenes de littlenightmares.fandom.com (2 páginas y sus galerías)…
-  561 imágenes enlazadas, 470 grandes → 10 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/little-nightmares
+· imágenes de littlenightmares.fandom.com (4 páginas y sus galerías)…
+  621 imágenes enlazadas, 511 grandes → 11 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/little-nightmares
 
 ```
 
@@ -166,7 +204,7 @@ _Fuente: https://sketchfab.com_
 - Mono’s Paper Bag · Gavin Bou - Official · CC Attribution · ♥ 64 · https://sketchfab.com/3d-models/none-9b0939b9a46842f7b666d31a3ab0a71a
 - Mono animation Little nighmares 2 · alex.andain.777 · CC Attribution · ♥ 49 · https://sketchfab.com/3d-models/none-16368d0cf99442759b54857fed7ac42f
 - Little Nightmares - Mono (3D Model) + DL · HiGuys920 · CC Attribution · ♥ 45 · https://sketchfab.com/3d-models/none-f4ffd6f17d834f0c9abe56eacc464332
-- Nightmare Moon (MLP) · VV · CC Attribution · ♥ 35 · https://sketchfab.com/3d-models/none-72e6242c89fa47c588d6ab113ba99fce
+- Nightmare Moon (MLP) · VV · CC Attribution · ♥ 36 · https://sketchfab.com/3d-models/none-72e6242c89fa47c588d6ab113ba99fce
 - Mono · Gavin Bou - Official · CC Attribution · ♥ 31 · https://sketchfab.com/3d-models/none-b2bda2340e9a49819f5e5081d09163c2
 
 ## Fotos con licencia libre (Openverse: cosplay, exposiciones, merchandising, murales)
