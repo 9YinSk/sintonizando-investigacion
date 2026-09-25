@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x8hzysi?start=16",
+    "fuente": "Dailymotion (mirror del tráiler oficial de K-On! The Movie, Shochiku/Kyoto Animation)",
+    "ancho": 480,
+    "alto": 280,
+    "que_es": "Tráiler oficial de la película K-On! (2011), minuto 0:16: las cinco tazas de té vistas desde arriba. Vídeo completo mirado y confirmado oficial por el logo de Shochiku y la tarjeta de estreno del 12 de diciembre dentro del propio vídeo.",
+    "para_que": "Referencia directa de la escena de té para #general; también sirve para el logo animado de la franquicia.",
+    "licencia": "Material promocional oficial (Shochiku / Kyoto Animation / TBS). Sólo referencia, no publicar el vídeo entero."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8hzysi?start=34",
+    "fuente": "Dailymotion (mirror del tráiler oficial de K-On! The Movie)",
+    "ancho": 480,
+    "alto": 280,
+    "que_es": "Minuto 0:34 del tráiler: cartela «Ho-kago Tea Time goes... to London!!», el viaje de graduación del club.",
+    "para_que": "Referencia para una lámina 2 sobre el viaje/graduación, o para mostrar el logo del club en inglés.",
+    "licencia": "Material promocional oficial. Sólo referencia."
+  },
+  {
+    "url": "https://archive.org/download/k-on-s1-2/K-On%20S1%20E01.mp4",
+    "fuente": "Internet Archive, ítem k-on-s1-2 (episodio suelto, Blu-ray T1)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Episodio 1 completo (26:12). Minuto 2:10-3:40: opening 'Cagayake! GIRLS' con cerezos en flor y la placa de la clase 1-3. Minuto 19:55-20:46: el club festeja 'nuevo miembro conseguido' con foto de grupo en señal de paz. Minuto 21:55-23:35: ending 'Don't Say Lazy' con las cuatro en look elegante/gótico. Créditos completos al final (24:09-26:12) con reparto japonés y del doblaje en inglés de Sentai Filmworks.",
+    "para_que": "Fuente primaria para el opening, el ending y la escena de 'Yui se une al club' con minuto exacto; paleta de la sección 4 medida sobre un fotograma de este archivo.",
+    "licencia": "Copia de fans en Internet Archive, con derechos de Kyoto Animation/TBS/Sentai Filmworks. Sólo para mirar y describir con minuto; nunca para publicar el vídeo o los fotogramas sueltos."
+  },
+  {
+    "url": "https://archive.org/download/k-on-s1-2/K-On%20S1%20E02.mp4",
+    "fuente": "Internet Archive, ítem k-on-s1-2 (episodio suelto, Blu-ray T1)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Episodio 2. Minuto 5:32: las cuatro sentadas a una mesa cubierta de pasteles y tazas de té, con guitarra y amplificador al fondo (la escena de 'esto no es una cafetería').",
+    "para_que": "Escena icónica 2 del punto 2; también sirve como referencia de sitio (mesa del club) para el objeto 3D que pide el encargo.",
+    "licencia": "Copia de fans en Internet Archive, con derechos. Sólo para mirar y describir."
+  },
+  {
+    "url": "https://archive.org/download/k-on-s1-2/K-On%20S1%20E09.mp4",
+    "fuente": "Internet Archive, ítem k-on-s1-2 (episodio suelto, Blu-ray T1)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Episodio 9. Minuto 10:57-11:15: nace 'Azu-nyan' — Yui abraza a Azusa por detrás con las orejas de gato puestas; Azusa dice 'nya' a regañadientes con gota de sudor.",
+    "para_que": "Escena icónica 3 del punto 2 y poses de cariño/vergüenza del punto 14 y 17 (vocabulario de expresión).",
+    "licencia": "Copia de fans en Internet Archive, con derechos. Sólo para mirar y describir."
+  },
+  {
+    "url": "https://archive.org/details/k-on-s1-2",
+    "fuente": "Internet Archive",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Índice del ítem: un MP4 por episodio (K-On S1 E01…E13, K-On S2 E01…E26), duración ~24-26 min cada uno.",
+    "para_que": "Punto de partida para sacar cualquier otro minuto de la serie por rango HTTP con ffmpeg, sin YouTube y sin bajar el episodio entero.",
+    "licencia": "Copia de fans, con derechos. Sólo referencia de dónde mirar, no publicar."
+  }
+]

@@ -8,7 +8,18 @@ fecha: 2026-09-24
 # Biblia · Chainsaw Man — para #que-estas-viendo
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada: `community.fandom.com` daba
+> - **Segunda pasada (25-sep-2026), con la red abierta.** La hizo un
+>   equipo: 4 investigadores (imagen, vídeo, voz, texto) y un redactor.
+>   Se pudo usar: la API de la wiki de Fandom (tamaños reales, wikitext),
+>   Doblaje Wiki por su API, AniList, la API de Sketchfab (licencias),
+>   Internet Archive y Dailymotion para **mirar de verdad** la película y
+>   los episodios con `fotogramas.py` (YouTube seguía pidiendo iniciar
+>   sesión), `estilo.py` para **medir colores** en fotogramas y en arte
+>   oficial, CGWORLD y Crank-in! en japonés, y las 3 hojas de contacto de
+>   `hojas/`. Lo que cambió está en «Segunda pasada · qué cambió», justo
+>   debajo. Lo que sigue es la primera pasada (24-sep), corregida en su
+>   sitio donde las partes nuevas decían otra cosa.
+> - Primera pasada: la red de esta sesión estaba cerrada: `community.fandom.com` daba
 >   **000/403**, y también Doblaje Wiki, YouTube, Somos Kudasai y casi todo
 >   lo demás por WebFetch. Por eso **no se pudo correr**
 >   `herramientas/investigar_serie.py`: **no hay hojas de contacto** ni
@@ -36,7 +47,11 @@ fecha: 2026-09-24
 > [!warning] Una corrección al plan
 > El plan dice «butacas de cine y entradas (**la cita del ep. 8**)». La cita
 > en el cine **no está en el episodio 8** ni en la temporada 1 del anime:
-> - En el **manga** es el **capítulo 39** ✅ (tomo 5 ⚠️, de memoria)
+> - Es una cita de **Denji con Makima**, no con Reze ✅ (wikitext del
+>   capítulo 39 y la película vista fotograma a fotograma). Reze aparece
+>   después, en la cabina de teléfono.
+> - En el **manga** es el **capítulo 39**, «Tearjerker» (きっと泣く), primer
+>   capítulo del arco de la Chica Bomba ✅ (tomo 5 ⚠️, de memoria)
 >   ([Chainsaw Man Wiki: Chapter 39](https://chainsaw-man.fandom.com/wiki/Chapter_39),
 >   [Sequential Planet](https://sequentialplanet.com/manga-review-chainsaw-man-chapter-39/),
 >   [Top Level Canon](https://www.toplevelcanon.com/reviews/chainsaw-man-39-43-part-one)).
@@ -53,6 +68,12 @@ fecha: 2026-09-24
 >
 > El objeto (butacas y entradas) **sirve y es el mejor posible** para este
 > canal. Sólo cambia de dónde sale: de la película, no del ep. 8.
+
+---
+
+## Segunda pasada · qué cambió
+
+_(se rellena en esta pasada)_
 
 ---
 
@@ -162,6 +183,59 @@ mismo, y en la última película los dos lloran en una escena «trivial»
 - **Opinar** y **recomendar** es lo que hacen: nota, crítica, veredicto.
 - Es una **cita**, no una pelea: sirve para un canal tranquilo.
 
+### 2.1b La cita, vista en vídeo (segunda pasada) ✅
+
+Mirada con `fotogramas.py` en la película completa subtitulada en inglés
+de Internet Archive ([rezearc](https://archive.org/details/rezearc),
+100:08 min). Los fotogramas que se citan se volvieron a sacar en
+**1920×1080 reales** del .mkv original
+([csmrezearc.mkv](https://archive.org/download/rezearc/csmrezearc.mkv)).
+Este corte va **15 a 20 s por detrás** del subtítulo japonés de arriba:
+el orden y las frases coinciden ✅ (dos fuentes).
+
+| Minuto (corte EN) | Qué se ve |
+|---|---|
+| 6:20 | Denji y Makima en la biblioteca, antes de la cita |
+| 6:52 | Makima de día, luz natural: aquí se midió su pelo (§16) |
+| 6:56 | «¿Vamos a una cita mañana?» |
+| 7:04 | Denji celebra: ojos cerrados, **dos puños a la altura del pecho** |
+| 7:08 | «Llegaste una hora antes» |
+| 7:36-7:40 | «De sala en sala hasta medianoche» |
+| 7:44 | **Sala llena de espaldas**, luz del proyector arriba; música de acción |
+| 8:00-8:16 | Primeras críticas: «no tuvo gracia», «qué cara se ve la pantalla» |
+| 8:28-9:08 | 2.ª y 3.ª película, palomitas, «la música estaba bien» |
+| 9:12 | **Rótulo del cine: シネマ座** en la marquesina; «dicen que es difícil» |
+| 9:28 | Makima, sentada y girada hacia Denji: **«una buena de cada diez, pero esa me cambió la vida»** |
+| 9:43-10:22 | La última película: un drama de campo con otro color (verde azulado) |
+| 10:25 | Denji llora tapándose la boca: «que no me vea Makima» |
+| 10:36-10:37 | **Makima también llora**: de perfil, una lágrima, boca entreabierta |
+| 10:43 | Plano general: las dos siluetas en la sala, pantalla en blanco |
+| 10:49-10:58 | Saliendo: «nunca voy a olvidar esa última escena» / «yo tampoco» / «esa última película hizo que valiera la pena el precio de la entrada» |
+| 11:00 | De noche, caminando: «Makima, ¿tú crees que tengo corazón?» |
+| 11:52-12:40 | Al día siguiente Denji **saca una flor de una caja de donativos** para regalársela a Makima: «eso también significa que tengo corazón» |
+| 13:00-14:08 | Bajo la lluvia decide pedirle que sea su novia; se cruza con Beam; luego la cabina de teléfono con Reze |
+
+Lo nuevo que da el vídeo:
+- **El cine se llama シネマ座** («Cinema-za»): letras plateadas en relieve
+  sobre un panel verde azulado metálico, con 4 focos colgantes (9:12) ✅.
+- **Cada «película falsa» tiene su propia música**. Los subtítulos de
+  sonido lo marcan: «[action music playing]» (7:44), «[viewers
+  sniffling]» (8:32), «[classical music playing]» (8:52) ✅.
+- **La película que los hace llorar** tiene un color aparte, verde azulado
+  y apagado: campo, un soldado con gorra y tirantes, una mujer con pañuelo
+  blanco en la cabeza, se abrazan al final (9:50). Paleta medida en §5.3.
+  No se sabe qué película real homenajea ⚠️ (no lo encontré).
+- **Makima llora en silencio porque así lo pidió la dirección**. Su actriz
+  japonesa, Tomori Kusunoki, lo cuenta: el guion decía «llora en silencio,
+  sin ruido», y ella no quiso sobreactuar; sólo **a ojos de Denji** tenía
+  que parecer tierna ✅
+  ([Crank-in!, 14-sep-2025](https://www.crank-in.net/interview/172244/1)).
+  Kusunoki dijo además que ella quería ver esa escena **en un cine de
+  verdad**.
+- La **flor de la caja de donativos** (11:52) es la misma que Power le
+  quiere quitar al final de la película (§2.2): da un objeto pequeño para
+  una lámina 2.
+
 ### 2.2 Otras escenas de la película que sirven
 
 | Minuto | Escena | Para qué |
@@ -191,11 +265,11 @@ mismo, y en la última película los dos lloran en una escena «trivial»
 | 1 · 9:12-9:16 | Denji sueña con pan con mermelada con Pochita. | «Comeré muchas tostadas con mermelada con Pochita.» |
 | 1 · 23:03-23:50 | **Primera aparición de Makima**: le da a elegir. | «Morir como demonio o que yo te alimente como humano.» «Tostada con mantequilla y mermelada, ensalada, café… quizá un postre.» |
 | 2 · 0:21-0:28 | La regla de Makima. | «Desde ahora eres mi perro. Sólo puedes contestar "sí" o "**guau**".» |
-| 2 · 5:20-5:32 | Makima le da udon en la boca. | «¿Está rico?» / «**Guau.**» |
+| 2 · 5:20-5:32 | Makima le da udon en la boca, en un **área de descanso de carretera al atardecer** (bancas de madera, montañas moradas; visto en el ep. 2 de Internet Archive, 5:30) ✅ | «¿Está rico?» / «**Guau.**» |
 | 2 · 19:16-19:21 | **Entrada de Power.** | «¡Inclínate ante mí, humano! ¡Mi nombre es **Power**!» |
 | 3 · 14:10-14:45 | Power entrega a Denji al demonio murciélago para recuperar a su gata **Nyako** (ニャーコ, «Meowy» en el sub de Netflix). | «Te traje un humano, como quedamos. Devuélveme a Nyako.» |
 | 4 · 20:37-20:42 | Ya en casa de Aki, Power con su gata en brazos. | «Los humanos son un fastidio. ¿Verdad, Nyako?» |
-| 7 · 6:22-6:37 | Himeno a Aki, comiendo: | «Podemos comer en sitios así e **ir al cine de vez en cuando** después del trabajo.» |
+| 7 · 6:22-6:37 | Himeno a Aki, comiendo en un restaurante japonés (mesas bajas, tabique de madera). En el episodio de Internet Archive la escena va de **6:10 a 7:18** ✅ (vista); la frase no se pudo leer ahí (sin subtítulos) ⚠️ | «Podemos comer en sitios así e **ir al cine de vez en cuando** después del trabajo.» |
 | 7 · 7:43-7:58 | Power tiene una idea: | «¡Tuve una idea genial! (…) ¡El Nobel es mío!» |
 | 12 · 22:52-23:09 | Cierre: el sueño de siempre. | «Es el mismo sueño otra vez.» |
 
@@ -209,8 +283,9 @@ Títulos japoneses de los episodios (de los nombres de archivo de
 
 ## 3 · Arte oficial y referencias visuales
 
-Sin red completa no pude bajar ni medir imágenes: **no hay tamaños**. Todo
-va con su enlace para que se baje en el PC.
+Primera pasada: sin red completa no se pudieron bajar ni medir imágenes.
+**Segunda pasada: ahora sí hay tamaños reales** (API de la wiki), en §3.5
+y en `referencias.json`.
 
 ### 3.1 La película *Arco de Reze* (2025)
 - **Visual teaser, visual principal y «visual de después del estreno»**
@@ -243,7 +318,7 @@ va con su enlace para que se baje en el PC.
 - **Logo japonés en SVG** (Wikimedia Commons) — [File:Chainsaw Man (Japanese) logo.svg](https://commons.wikimedia.org/wiki/File:Chainsaw_Man_(Japanese)_logo.svg).
 - La cita del cine: **capítulo 39** ✅. Imágenes del capítulo:
   [Category:Chapter 39 Images](https://chainsaw-man.fandom.com/wiki/Category:Chapter_39_Images)
-  (bloqueado para mí; hay que abrirlo en el PC).
+  (en la primera pasada estaba bloqueado; ya abre: ver §3.5).
 
 - **Portadas de los tomos** que sirven ✅ ([Screen Rant](https://screenrant.com/best-chainsaw-man-covers-ranked/),
   [CBR](https://www.cbr.com/chainsaw-man-best-manga-covers/),
@@ -257,10 +332,141 @@ va con su enlace para que se baje en el PC.
   ([CBR: tomo 24](https://www.cbr.com/chainsaw-man-manga-volume-24-cover-art-denji-analysis/)).
 
 ### 3.4 Lo que falta ⚠️
-- Las portadas de los **demás tomos** (5 y del 7 en adelante), una por
-  una.
-- **Hojas de modelo** del anime y de la película.
-- **Fotogramas** mirados por mí: todo sale de subtítulos y artículos.
+- ~~Las portadas de los demás tomos (5 y del 7 en adelante)~~ → resuelto
+  en la segunda pasada: tomos 1, 2 y 4 a 11 con tamaño (§3.5). Siguen
+  faltando el **3** y del **12 al 24** ⚠️.
+- **Hojas de modelo** internas del estudio: no son públicas ⚠️. Lo más
+  cercano son los **diseños de personaje del arco de Reze** (§3.5) y el
+  «Denji Prototype» (hoja 3, n.º 427).
+- ~~Fotogramas mirados por mí~~ → resuelto: la película y 3 episodios se
+  miraron en vídeo (§2.1b, §15).
+
+### 3.5 Lo nuevo de la segunda pasada (con tamaño medido)
+
+**La escena del objeto, en el manga** (capítulo 39) ✅:
+- [Chapter 39 Title Page.png](https://static.wikia.nocookie.net/chainsaw-man/images/1/16/Chapter_39_Title_Page.png)
+  · 764×1200: la portada del capítulo «Tearjerker» (きっと泣く).
+- [Denji and Makima's movie date.png](https://static.wikia.nocookie.net/chainsaw-man/images/9/9f/Denji_and_Makima%27s_movie_date.png)
+  · 717×582: la sala vista desde atrás, filas de butacas, y primeros
+  planos de Denji y Makima. **El público de fondo tiene caras simples y
+  neutras; sólo ellos dos llevan sombra y detalle**. Es la regla para la
+  lámina: personaje con detalle, público simple.
+- [Makima during her date with Denji.png](https://static.wikia.nocookie.net/chainsaw-man/images/7/7c/Makima_during_her_date_with_Denji.png)
+  · 394×1200: **Makima sin uniforme**, con ropa de calle (ver §16).
+- Resumen del capítulo en la wiki: maratón «hasta medianoche», los dos
+  lloran en la última, al salir Makima le escucha el corazón a Denji ✅
+  ([wikitext del cap. 39](https://chainsaw-man.fandom.com/api.php?action=parse&page=Chapter%2039&format=json&prop=wikitext);
+  su ficha dice `episode = Chainsaw Man – The Movie: Reze Arc`).
+
+**Ilustraciones de revelado**: cada episodio tuvo una ilustración de un
+artista invitado distinto. Por eso hay tanto arte oficial variado ✅ (hoja
+1, n.º 5-7 y 9-13; hoja 2, n.º 49-52): Momo Momozawa (ep. 5-7), Shu (ep. 1,
+2 y 8), RHYTHM BHATTACH, Daniel Kim, Eekee, TOOBOE («努力 未来 A Beautiful
+Star», ep. 1-4 de la 2.ª parte), Aya Yamamoto, Ryu Nakayama, Kanako Nono y
+Nonaka Nono (hoja 3, n.º 429-430).
+
+**Portadas de tomo**, todas 1520×2400 ✅ (API de la wiki; hoja 2, n.º
+62-71): [t.01](https://static.wikia.nocookie.net/chainsaw-man/images/0/0f/Volume_01.png) ·
+[t.02](https://static.wikia.nocookie.net/chainsaw-man/images/6/68/Volume_02.png) ·
+[t.04](https://static.wikia.nocookie.net/chainsaw-man/images/e/ef/Volume_04.png) ·
+[t.05](https://static.wikia.nocookie.net/chainsaw-man/images/c/cf/Volume_05.png) ·
+[t.06](https://static.wikia.nocookie.net/chainsaw-man/images/2/2e/Volume_06.png) ·
+[t.07](https://static.wikia.nocookie.net/chainsaw-man/images/3/36/Volume_07.png) ·
+[t.08](https://static.wikia.nocookie.net/chainsaw-man/images/1/14/Volume_08.png) ·
+[t.09](https://static.wikia.nocookie.net/chainsaw-man/images/f/f3/Volume_09.png) ·
+[t.10](https://static.wikia.nocookie.net/chainsaw-man/images/6/6b/Volume_10.png) ·
+[t.11](https://static.wikia.nocookie.net/chainsaw-man/images/1/1b/Volume_11.png).
+Las versiones **sin letras** (Textless) de los tomos 1, 2, 4 y 11 son la
+misma ilustración sin logo, mejores para recortar una pose:
+[Volume 11 (Textless)](https://static.wikia.nocookie.net/chainsaw-man/images/c/ce/Volume_11_%28Textless%29.png)
+4000×6274 · [Volume 1 (Textless)](https://static.wikia.nocookie.net/chainsaw-man/images/a/a9/Volume_1_%28Textless%29.png)
+3056×4800.
+
+**Película *Arco de Reze***, vistos en la hoja 1 y medidos en la API:
+- [Key Visual 3](https://static.wikia.nocookie.net/chainsaw-man/images/3/32/Chainsaw_Man_Movie_-_Reze_Arc_Key_Visual_3.png)
+  · 2400×3278 (hoja 1, n.º 17): Denji y Reze en el café, ventana con
+  cuadrícula de madera, luz cálida.
+- [IMAX Poster](https://static.wikia.nocookie.net/chainsaw-man/images/e/e4/Chainsaw_Man_Movie_-_Reze_Arc_IMAX_Poster.png)
+  · 2895×4096 (hoja 1, n.º 8).
+- **Ilustración de cuenta atrás de Masato Nakazono**
+  ([original](https://static.wikia.nocookie.net/chainsaw-man/images/a/a0/Reze_Arc_Countdown_Illustration_%28Masato_Nakazono%29.png),
+  1170×1655, hoja 3, n.º 428): Denji con **gafas 3D de cine** y Pochita en
+  brazos, dentro de un **marco de tira de película**, «公開まであと2日»
+  (faltan 2 días para el estreno). Es arte oficial que ya junta cine y
+  personaje: la mejor referencia de tono para este canal (lo vio el
+  redactor en la hoja).
+- [Reze Arc Illustration (min daifuku)](https://static.wikia.nocookie.net/chainsaw-man/images/1/1f/Reze_Arc_Illustration_%28min_daifuku%29.png)
+  · 1692×2048 (hoja 2, n.º 78): **Makima abrazando a Pochita**, fondo
+  blanco. Pose tierna y sin sangre.
+- Los **diseños de personaje del arco de Reze** (Denji, Makima, Power,
+  Aki, Reze), arte plano de MAPPA, de 514 a 694 px de ancho: de ahí salen
+  los hex del uniforme (§16).
+
+**Eventos con arte propio**:
+- **Jump Festa 2025**: Denji, Aki, Makima y Power en cartel pop de un solo
+  color de fondo (naranja, azul, morado, rosa) ✅ (hoja 1, n.º 18-21).
+- **Chainsaw Man Buddy Stories** (spin-off): Denji y Yoru en un acuario y
+  viñetas de sus 4 capítulos ✅ (hoja 2, n.º 61 y 90-92).
+- Portadas de revistas de moda: §18F.
+
+---
+
+## 3A · Las hojas de contacto (qué número sirve)
+
+Tres hojas en `hojas/`, hechas con `investigar_serie.py` sobre la wiki de
+Fandom (1063 imágenes grandes). Las miraron el investigador de imagen y el
+redactor. Debajo de cada miniatura va su tamaño real y el nombre del
+archivo en la wiki.
+
+**`hojas/imagen_01_portadas_y_colabs.jpg`** (n.º 1-48)
+- **n.º 4** · [Men's Non-No n.º 464](https://static.wikia.nocookie.net/chainsaw-man/images/8/87/Men%27s_Non-No_No.464_Special_Edition.png)
+  3197×4093: Reze y Makima en blanco y negro, **sólo el pelo y los ojos a
+  color**. Tratamiento fácil de copiar en Photoshop.
+- **n.º 5-7, 9-13** · ilustraciones de revelado de artistas invitados
+  (Momo Momozawa, RHYTHM BHATTACH, Eekee, Shu). Poses vivas y variadas.
+- **n.º 8** · [cartel IMAX de la película](https://static.wikia.nocookie.net/chainsaw-man/images/e/e4/Chainsaw_Man_Movie_-_Reze_Arc_IMAX_Poster.png)
+  2895×4096. Sirve para la **cartelera** del vestíbulo (concepto B).
+- **n.º 17** · [Key Visual 3](https://static.wikia.nocookie.net/chainsaw-man/images/3/32/Chainsaw_Man_Movie_-_Reze_Arc_Key_Visual_3.png)
+  2400×3278: Denji y Reze en el café. Referencia de luz cálida (concepto C).
+- **n.º 18-21** · Jump Festa 2025 (Denji, Aki, Makima, Power): cuerpo
+  entero en acción sobre un color plano. **Presentar**.
+- **n.º 22** · [CUT oct-2025](https://static.wikia.nocookie.net/chainsaw-man/images/f/f7/CUT_2025-10.png)
+  2343×3000: Denji y Reze con una flor.
+- **n.º 28-43** · páginas de manga: tinta, negros y rayado (§18A, §18B).
+- **n.º 45** · «Aki Makima Prototype»: bocetos de diseño.
+
+**`hojas/imagen_02_tomos_y_revistas.jpg`** (n.º 49-96)
+- **n.º 62-71** · portadas de tomo 1, 5, 6, 7, 8, 11, 4, 9, 2 y 10 (en ese
+  orden en la hoja), 1520×2400 (enlaces en §3.5). Personaje con objeto,
+  arma o en grupo.
+- **n.º 77** · [Makima Infobox](https://static.wikia.nocookie.net/chainsaw-man/images/7/7e/Makima_Infobox.png)
+  1496×2322: Makima de pie, manos juntas delante, uniforme. **Presentar**.
+- **n.º 78** · [Makima con Pochita (min daifuku)](https://static.wikia.nocookie.net/chainsaw-man/images/1/1f/Reze_Arc_Illustration_%28min_daifuku%29.png)
+  1692×2048: pose tierna, sin sangre. **Recomendar, animar**.
+- **n.º 93, 95, 96** · [UOMO](https://static.wikia.nocookie.net/chainsaw-man/images/f/f0/UOMO_2023-1.png),
+  [CUT nov-2022](https://static.wikia.nocookie.net/chainsaw-man/images/0/03/CUT_2022-11.png)
+  y [EYESCREAM](https://static.wikia.nocookie.net/chainsaw-man/images/7/74/EYESCREAM_2023-1.png):
+  las portadas de moda (§18F).
+
+**`hojas/imagen_03_vestuario_color_anime.jpg`** (n.º 385-432)
+- **n.º 385-392** · Power en el anime, 1920×1080: gritos, colmillos,
+  cuernos rojos. **Presentar, celebrar**.
+- **n.º 393-408** · Makima en el anime, 1920×1080. Las mejores:
+  **n.º 406** [«Makima tells Denji the type she likes»](https://static.wikia.nocookie.net/chainsaw-man/images/c/c9/Makima_tells_Denji_the_type_she_likes.png)
+  (sentada a una mesa, mentón en la mano, luz cálida: **explicar**) y
+  **n.º 408** [«Makima watching Power and Denji arguing»](https://static.wikia.nocookie.net/chainsaw-man/images/f/f8/Makima_watching_Power_and_Denji_arguing.png)
+  (mejilla en la mano, sonrisa leve: **escuchar, recomendar**).
+- **n.º 412** · [Makima hugging Denji](https://static.wikia.nocookie.net/chainsaw-man/images/4/43/Makima_hugging_Denji.png)
+  1320×1549.
+- **n.º 414** · [Makita Chainsaw (3).jpg](https://static.wikia.nocookie.net/chainsaw-man/images/b/b2/Makita_Chainsaw_%283%29.jpg)
+  1840×1110: una motosierra Makita naranja de verdad, el juego de palabras
+  del nombre (§18H). La parte de imagen la dio como n.º 413; en la hoja es
+  el **414** (el 413 es la portada del capítulo 177).
+- **n.º 427** · «Denji Prototype»: bocetos de caras de Denji.
+- **n.º 428** · [cuenta atrás de Masato Nakazono](https://static.wikia.nocookie.net/chainsaw-man/images/a/a0/Reze_Arc_Countdown_Illustration_%28Masato_Nakazono%29.png)
+  1170×1655: **Denji con gafas 3D y Pochita, marco de tira de película**.
+  La imagen oficial más «de cine» de las tres hojas.
+- **n.º 429-430** · ilustraciones de Nonaka Nono y Kanako Nono.
 
 ---
 
@@ -1030,6 +1236,54 @@ de fans como referencia de estilo.
 
 ---
 
+## 18A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18B · Texturas 2D (punto 19)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18C · Gustos y detalles de cada personaje (punto 20)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18D · Por qué la gente la ama (punto 21)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18E · Fan dubs y comunidad hispana (punto 22)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18F · Colaboraciones, figuras y cosplay (punto 23)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18G · Obras parecidas y temas relacionados (punto 24)
+
+_(se rellena en esta pasada)_
+
+---
+
+## 18H · El mundo, la historia y sus símbolos (punto 25)
+
+_(se rellena en esta pasada)_
+
+---
+
 ## 19 · Tres conceptos para la lámina de #que-estas-viendo
 
 Los tres usan **el subtítulo de cine** como cuadro de diálogo (§7.2) y
@@ -1142,6 +1396,12 @@ fácil de leer en el celular.
 - **Cine real** que sirvió de modelo a la sala.
 - **Reddit** (bloqueado para la búsqueda), **The Cutting Room Floor**
   (no hay juego publicado) y **Wayback Machine** (no me quedó cupo).
+
+---
+
+## Cumplimiento del encargo
+
+_(se rellena en esta pasada)_
 
 ---
 

@@ -30,6 +30,96 @@ En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del 
 | 24-sep | 02 Attack on Titan | repaso corto (en cadena) | voz (9, 13, 20, 21, 22), tanda 1 | Sonnet | 25 | 279 522 | 583 líneas, 11 referencias; 3 escenas que hacen llorar unidas por «Call of Silence»; «Sigue:» con sus minutos exactos |
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | redactor | Opus | 21 | 393 803 | 92 acciones; 2 353 líneas, 227 referencias, 55 webs, COMPLETA y subida. Total de la serie: ~1,7 M tokens (1,3 M Sonnet + 0,4 M Opus) |
 
+<!-- lotes -->
+## Costos de los lotes (25-09-2026, 02:43 UTC)
+
+Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`).
+
+### Lote A (la central): 02-05 y 31-36
+
+| Serie | Rol | Modelo | Minutos | Tokens |
+|---|---|---|---|---|
+| 02 | redactor (repaso corto) | Opus | 10 | 230 mil |
+| 03 | redactor (repaso corto) | Opus | 4 | 147 mil |
+| 04 | redactor (repaso corto) | Opus | 12 | 210 mil |
+| 05 | redactor (repaso corto) | Opus | 14 | 245 mil |
+| 31 | redactor (repaso corto) | Opus | 13 | 228 mil |
+| 32 | redactor (repaso corto, 2 tandas por límite de uso) | Opus | 18 | 310 mil |
+| 03 | imagen | Sonnet | 11 | 183 mil |
+| 03 | texto | Sonnet | 13 | 205 mil |
+| 03 | voz | Sonnet | 14 | 212 mil |
+| 03 | redactor, 2ª vez en `cool-keller` (cortado y relanzado; duplicado) | Opus | ~25 + 5 | ? + 143 mil |
+| 04 | texto (`cool-keller`) | Sonnet | 11 | 172 mil |
+| 04 | imagen (`cool-keller`) | Sonnet | 12 | 185 mil |
+| 04 | voz (`cool-keller`, cortado al final, ya estaba completo) | Sonnet | ~15 | ? |
+| 33 | redactor (repaso corto) | Opus | 11 | 224 mil |
+| 34 | redactor (repaso corto) | Opus | 12 | 234 mil |
+| 36 | redactor (retomado desde §18) | Opus | 18 | 303 mil |
+
+### Lote B: 06-18 (repasos)
+
+| Serie | Rol | Modelo | Minutos | Tokens |
+|---|---|---|---|---|
+| 11 | texto | Sonnet | 12 | 168 mil |
+| 11 | voz | Sonnet | 12 | 198 mil |
+| 11 | imagen | Sonnet | 16 | 207 mil |
+| 10 | redactor (repaso) | Opus | 16 | 340 mil |
+| 11 | video | Sonnet | 21 | 233 mil |
+| 12 | texto | Sonnet | 13 | 176 mil |
+
+### Lote C: repasos 19-30
+
+| Serie | Rol | Modelo | Minutos | Tokens |
+|---|---|---|---|---|
+| 19 | imagen | Sonnet | 29 | 245 mil |
+| 19 | vídeo | Sonnet | 18 | 197 mil |
+| 19 | voz | Sonnet | 16 | 217 mil |
+| 19 | voz (Sigue) | Sonnet | 12 | 199 mil |
+| 19 | texto | Sonnet | 11 | 172 mil |
+| 19 | redactor | Opus | 18 | 344 mil |
+| 20 | imagen | Sonnet | 16 | 245 mil |
+| 20 | vídeo | Sonnet | 15 | 214 mil |
+| 20 | voz | Sonnet | 14 | 213 mil |
+| 20 | texto | Sonnet | 13 | 219 mil |
+| 20 | redactor | Opus | 16 | 328 mil |
+| 21 | imagen | Sonnet | 10 | 222 mil |
+| 21 | vídeo | Sonnet | 12 | 200 mil |
+| 21 | voz | Sonnet | 13 | 236 mil |
+| 21 | voz (Sigue) | Sonnet | 10 | 191 mil |
+| 21 | texto | Sonnet | 11 | 180 mil |
+| 21 | redactor | Opus | 17 | 333 mil |
+| 22 | imagen | Sonnet | 13 | 205 mil |
+| 22 | vídeo | Sonnet | 16 | 199 mil |
+| 22 | voz | Sonnet | 17 | 218 mil |
+| 22 | voz (Sigue) | Sonnet | 9 | 114 mil |
+| 22 | texto | Sonnet | 10 | 167 mil |
+| 22 | redactor | Opus | 15 | ~330 mil |
+
+### Lote F: series nuevas 77-96
+
+| Serie | Rol | Modelo | Minutos | Tokens |
+|---|---|---|---|---|
+| 77-wistoria-wand-and-sword | video | sonnet | 13 | 177307 |
+| 77-wistoria-wand-and-sword | texto | sonnet | 13 | 255268 |
+| 77-wistoria-wand-and-sword | imagen | sonnet | 16 | 217946 |
+| 77-wistoria-wand-and-sword | voz | sonnet | 16 | 235722 |
+| 78-vinland-saga | imagen | sonnet | 12 | 185385 |
+| 78-vinland-saga | texto | sonnet | 15 | 222527 |
+| 78-vinland-saga | voz | sonnet | 16 | 208945 |
+| 78-vinland-saga | video | sonnet | 19 | 222410 |
+| 77-wistoria-wand-and-sword | redactor (opus) | opus | 19 | 339142 |
+| 78-vinland-saga | video (relanzo) | sonnet | 7 | 116043 |
+| 79-demon-slayer-paisajes-y-auras | texto | sonnet | 13 | 242801 |
+| 79-demon-slayer-paisajes-y-auras | imagen | sonnet | 14 | 224994 |
+| 79-demon-slayer-paisajes-y-auras | video | sonnet | 16 | 187904 |
+| 79-demon-slayer-paisajes-y-auras | voz | sonnet | 17 | 245351 |
+| 78-vinland-saga | redactor (opus) | opus | 21 | 343246 |
+| 80-solo-leveling-el-sistema-y-las-sombras | voz | sonnet | 13 | 217899 |
+| 80-solo-leveling-el-sistema-y-las-sombras | texto | sonnet | 14 | 223273 |
+| 80-solo-leveling-el-sistema-y-las-sombras | imagen | sonnet | 16 | 261111 |
+| 81-mushoku-tensei | imagen (2 tandas: corte+arreglo) | sonnet | 12 | 156421 |
+<!-- /lotes -->
+
 ## Estimación en dólares (24-sep, con lo medido)
 
 Precios por millón de tokens: Opus 5.5, 4 de entrada y 20 de salida; Sonnet 5,

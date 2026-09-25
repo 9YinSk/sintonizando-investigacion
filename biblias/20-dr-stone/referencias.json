@@ -1,5 +1,815 @@
 [
   {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/8/89/Roadmap_Senku_Spaceship.png",
+    "fuente": "Fandom (dr-stone.fandom.com, wiki:Roadmap Diagrams)",
+    "ancho": 1455,
+    "alto": 1063,
+    "que_es": "Doble página del manga: el 'roadmap' de materiales hasta la nave espacial, estilo árbol de habilidades con trama de puntos y rayos de velocidad.",
+    "para_que": "Referencia directa de estilo para el diagrama de materiales del micrófono en #hardware (punto 1 y 19).",
+    "licencia": "Copyright Shueisha/Boichi/Inagaki. Sólo referencia, nunca calcar."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1267",
+    "fuente": "Internet Archive (dr.-stone-sub-19), episodio 1×19 completo con fansub español",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 21:07: la «hoja de ruta» del móvil, un diagrama de árbol tecnológico con materiales (mercurio, oro, plástico, panal, carbón) y un cartel «START».",
+    "para_que": "La mejor referencia de interfaz/diagrama para el concepto A de la lámina (punto 2 y guía de estilo).",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1013",
+    "fuente": "Internet Archive (dr.-stone-sub-11), episodio 1×11 completo con fansub",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 16:53 del episodio 1×11: la entrada del laboratorio de la aldea Ishigami, con Senku y Chrome.",
+    "para_que": "Paleta medida del laboratorio (grises de piedra, madera) y confirmación visual del sitio para el punto 4 y la escena icónica del punto 2.",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1189",
+    "fuente": "Internet Archive (dr.-stone-1-x-23-ola-de-ciencia-by-yumikol), episodio 1×23 con sub. español",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 19:49: Kohaku mirando un vaso con cristales de sal de Rochelle, preguntando cuál es el micrófono.",
+    "para_que": "Pose de curiosidad/pregunta (punto 14) y confirmación visual del material del micrófono (punto 2).",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=137",
+    "fuente": "Internet Archive (dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol), episodio 1×24 con sub. español",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 2:17: la torre-vigía de madera con el megáfono de cobre en forma de trompeta, monos alrededor.",
+    "para_que": "El objeto y sitio real para el concepto de lámina 'la torre del megáfono' (punto 2 y 4, y lo mejor para la lámina).",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-1-x-23-ola-de-ciencia-by-yumikol/Dr.STONE%201X23%20Ola%20de%20ciencia%20ByYumikol.mp4?t=1264",
+    "fuente": "Internet Archive (dr.-stone-1-x-23-ola-de-ciencia-by-yumikol), episodio 1×23 con sub. español",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 21:04: Senku con abrigo de invierno, cuentagotas en mano, muy concentrado.",
+    "para_que": "Pose de explicar/experimentar con vestuario de invierno (punto 14) y paleta medida del interior cálido (punto 4).",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/8/8b/Senku_Ishigami_Portrait.png",
+    "fuente": "Fandom (dr-stone.fandom.com, Senku_11)",
+    "ancho": 1080,
+    "alto": 1080,
+    "que_es": "Retrato oficial de Senku, usado para medir el hex del pelo (verde) y los ojos (rojo) con filtro HSV.",
+    "para_que": "Vestuario y rasgos fijos con color medido (punto 15 y guía de IA).",
+    "licencia": "Copyright TMS Entertainment. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/1/12/Senku%27s_fearlessness.png",
+    "fuente": "Fandom (dr-stone.fandom.com)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma del anime con luz de día neutra: Senku con la túnica crema de temporada 1 y Chrome al fondo.",
+    "para_que": "Hex medido de la túnica (#F5EBD6) y de la roca de fondo (punto 15 y 16).",
+    "licencia": "Copyright TMS Entertainment. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/9/9f/Dr._Stone_Stone_Wars_Key_Visual_3.png",
+    "fuente": "Fandom (dr-stone.fandom.com, Senku_11)",
+    "ancho": 2324,
+    "alto": 3277,
+    "que_es": "Key visual oficial de Stone Wars, Senku de pie con capa verde.",
+    "para_que": "Arte oficial variado (punto 1); imagen más grande de las 8 hojas de contacto.",
+    "licencia": "Copyright TMS Entertainment. Sólo referencia."
+  },
+  {
+    "url": "https://play-lh.googleusercontent.com/PkUHa17AsrSFd-aAR4u6vks7a8RB2IThAY1LkudkxC5iGyp4qyUuVjRGBnnLIvMqfbuYxHuG_TJ8PR50fFrJYg",
+    "fuente": "Google Play (ficha archivada de Dr.STONE Battle Craft, ya cerrado)",
+    "ancho": 512,
+    "alto": 236,
+    "que_es": "Captura del videojuego mostrando el cuadro de diálogo real: caja con esquinas en bisel, borde turquesa, relleno azul-verde oscuro y etiqueta de nombre en diagonal",
+    "para_que": "referencia directa del punto 6 (cómo hablan y piensan en pantalla) y punto 11 (interfaz de videojuego de la franquicia); colores medidos con estilo.py sobre el recorte a mayor tamaño: relleno #21403D/#2F5D5D, borde #7EB6DF/#C7DCEC",
+    "licencia": "© Poppin Games Japan / Dr.STONE Production Committee; sólo referencia, juego cerrado"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/b/b8/Episode_1_Title.png/revision/latest?cb=20190705175621",
+    "fuente": "Dr. Stone Wiki (Fandom)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Cartel de título del episodio 1: logo Dr.STONE en piedra naranja-roja agrietada y el título del episodio en piedra gris",
+    "para_que": "referencia exacta de tipografía y color para el nombre del canal y los rótulos (punto 5); colores medidos con estilo.py: #F29C0F, #E74010 (logo), #A49284, #C6C2BE (título de episodio)",
+    "licencia": "© TMS Entertainment / Dr.STONE Production Committee; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/4/4c/Drago_Coins.png",
+    "fuente": "Fandom (dr-stone.fandom.com, File:Drago Coins.png)",
+    "ancho": 959,
+    "alto": 649,
+    "que_es": "Las 4 monedas Drago (500 a 10.000), grabadas con perfil de personaje y nombre de aleación industrial.",
+    "para_que": "Idea de lámina: un 'precio' grabado en moneda en vez de cartel (punto 1 y concepto de lámina).",
+    "licencia": "Copyright Shueisha/Boichi. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/6/66/Battle_Craft_Intro_Card_Senku.png/revision/latest?cb=20210827131928",
+    "fuente": "Dr. Stone Wiki (Fandom), categoría Battle Craft Assets",
+    "ancho": 1000,
+    "alto": 1000,
+    "que_es": "Arte oficial de Senku del videojuego Dr.STONE Battle Craft: chasquea los dedos sobre un tubo de ensayo con E=mc² escrito en la venda, reacción química en un vaso de precipitados",
+    "para_que": "pose de laboratorio 100% oficial y con licencia visible en la propia imagen; referencia de punto 11 (videojuegos) y punto 18 (encuadre/composición)",
+    "licencia": "©米スタジオ・Boichi／集英社・Dr.STONE製作委員会 ©Poppin Games Japan Co., Ltd.; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/c/c7/Suika_with_Melon_TV_Animation_Design_Sheet.png",
+    "fuente": "Fandom (dr-stone.fandom.com, Suika)",
+    "ancho": 1200,
+    "alto": 848,
+    "que_es": "Hoja de modelo oficial de animación (settei) de Suika con el casco de melón, frente y espalda.",
+    "para_que": "Colores exactos del casco (#B4C856/#70872B) y del poncho (#373C42); la fuente más fiable para vestuario (punto 15).",
+    "licencia": "Copyright TMS Entertainment. Material de producción, sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/5/58/Suika_without_Melon_TV_Animation_Design_Sheet.png",
+    "fuente": "Fandom (dr-stone.fandom.com, Suika)",
+    "ancho": 1200,
+    "alto": 848,
+    "que_es": "Hoja de modelo oficial de animación (settei) de Suika sin el casco.",
+    "para_que": "Color del pelo (#F3DD89) y proporciones sin accesorio (punto 15).",
+    "licencia": "Copyright TMS Entertainment. Material de producción, sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/4/41/Chrome%27s_determination.png",
+    "fuente": "Fandom (dr-stone.fandom.com)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma del anime, primer plano de Chrome con su camisa azul petróleo.",
+    "para_que": "Hex medido de la camisa de Chrome, #245E6B (punto 15).",
+    "licencia": "Copyright TMS Entertainment. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/b/b5/Chrome_Shading_TV_Animation_Design_Sheet.png",
+    "fuente": "Fandom (dr-stone.fandom.com, Chrome)",
+    "ancho": 1200,
+    "alto": 877,
+    "que_es": "Hoja de modelo oficial mostrando cómo se aplica el sombreado (luz y sombra) sobre el diseño de Chrome.",
+    "para_que": "Referencia de técnica de sombreado plano/cel (punto 18, útil también para 19).",
+    "licencia": "Copyright TMS Entertainment. Material de producción, sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/7/71/Kaseki_Anime_Profile.png",
+    "fuente": "Fandom (dr-stone.fandom.com, Kaseki)",
+    "ancho": 621,
+    "alto": 946,
+    "que_es": "Retrato oficial de perfil de Kaseki con su túnica de artesano.",
+    "para_que": "Hex medido de la túnica marrón (#5B4A34/#362C1D) (punto 15).",
+    "licencia": "Copyright TMS Entertainment. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/6/69/Chapter_216.png",
+    "fuente": "Fandom (dr-stone.fandom.com)",
+    "ancho": 2190,
+    "alto": 1600,
+    "que_es": "Doble página del manga (Z=216 HELLO WORLD): screentone de puntos, rayas de velocidad radiales, cross-hatching en el metal del cohete.",
+    "para_que": "Referencia exacta de textura 2D del manga (punto 19).",
+    "licencia": "Copyright Shueisha/Boichi/Inagaki. Sólo referencia."
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51772988428_88df4b0f8b_b.jpg",
+    "fuente": "Openverse / Flickr (esby.photo)",
+    "ancho": 767,
+    "alto": 1024,
+    "que_es": "Foto de cosplay de Senku (Yukika), Roseraie de la Beaujoire, Nantes: túnica crema, vendas, botas de dos piezas.",
+    "para_que": "Referencia real de materiales y volumen del traje de Senku (punto 3 y 15).",
+    "licencia": "CC BY-NC-SA 2.0 — atribuir a esby.photo, no comercial."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/dr-stone-senku-3d-model-environment-props-8dc007444003431f80e8ae69b7a0833d",
+    "fuente": "Sketchfab (jerryteng)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo fan: Senku, laboratorio completo, hacha, poción, teléfono, bandera del Reino de la Ciencia.",
+    "para_que": "Volumen del laboratorio y del teléfono para Blender (punto 3).",
+    "licencia": "CC Attribution (CC BY), confirmada por la API de Sketchfab (license.slug=by). Personaje con copyright: sólo referencia."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/senku-dr-stone-3d-model-e7436cf85cbd483fa08e9922b69ce5f5",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Senku DR Stone 3d model de Leo Nyanko",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution (CC BY), comprobada por la API de Sketchfab (partes/imagen.md §3.1). Personaje con copyright: sólo para mirar pose y volumen."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-sub-19/Dr.%20Stone%20Sub%2019.mp4?t=1242",
+    "fuente": "Internet Archive (dr.-stone-sub-19), episodio 1×19 completo con fansub español",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 20:42: Senku anuncia «¡Smartphones!», sonrisa de suficiencia, fondo de bosque.",
+    "para_que": "Escena icónica y pose de presentar (puntos 2 y 14). Arranca el proyecto del móvil, el centro del canal #hardware.",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-sub-11/Dr.%20Stone%20Sub%2011.mp4?t=1005",
+    "fuente": "Internet Archive (dr.-stone-sub-11), episodio 1×11 completo con fansub",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 16:45: Suika sin su casco de sandía, expresión de sorpresa con sonrojo.",
+    "para_que": "Pose de alegría/sorpresa confirmada con fotograma para el punto 14.",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=78",
+    "fuente": "Internet Archive (dr-stone-op-1-ncbd-1080)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del opening 1 en el minuto 1:18: Senku y Taiju de espaldas, sonriendo, ciudad de noche desenfocada detrás.",
+    "para_que": "Pose de amistad/celebración en pareja para láminas con dos personajes (punto 14).",
+    "licencia": "Material oficial. Sólo consulta."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8bnxd8",
+    "fuente": "Dailymotion",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial del especial Dr. STONE: Ryusui, 1:40, con la fecha de emisión (10-jul-2022) visible en pantalla.",
+    "para_que": "Pose de presentación de Ryusui (puño en alto, 0:27), el patio del cuartel Nanami y el barco con velas, con paleta medida. Puntos 2, 4, 10 y 14.",
+    "licencia": "Material promocional oficial. Sólo consulta."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/a/a5/Moon_Rocket_Roadmap.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 2036,
+    "alto": 352,
+    "que_es": "Senku 11: Moon Rocket Roadmap.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/6/6b/GenAsagiriBrandonSantini.mp3/revision/latest?cb=20231223044242&path-prefix=es",
+    "fuente": "Doblaje Wiki, página de actor Brandon Santini",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio con diálogo real de Gen Asagiri (a Magma), interpretado por Brandon Santini. 28 segundos.",
+    "para_que": "§8.4 y §13: voz medida con voz.py (registro muy agudo 398 Hz, 22,9 semitonos de rango, 3,1 palabras/s) para describir cómo suena Gen con datos, no de memoria.",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki (fair use / muestra corta). Sólo consulta y análisis, no redistribuir el archivo."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Dr._Stone",
+    "fuente": "Doblaje Wiki (API, wikitext completo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa del doblaje latino: reparto principal, secundario, recurrente y episódico; estudio, dirección, traducción; sección «Datos de interés» con cambios de actor y curiosidades de adaptación.",
+    "para_que": "Base de §8 (reparto completo con actores secundarios que no estaban en biblia §10) y de la confirmación con dos fuentes de Tsukasa=Arturo Cataño.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom). Sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8a1zqs",
+    "fuente": "Dailymotion",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial VO (subtítulos FR) de Dr. STONE: Stone Wars, 1:33, publicado por Crunchyroll (fecha de emisión 14-ene-2021 visible en pantalla).",
+    "para_que": "Confirma visualmente el tocadiscos (0:20) y presenta a Nikki y Ukyo con placa de texto (1:00-1:04). Puntos 2 y 10.",
+    "licencia": "Material promocional oficial de Crunchyroll. Sólo consulta."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/5/52/Gen_Asagiri_Full_Body_Anime.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 587,
+    "alto": 1175,
+    "que_es": "Gen Asagiri: Gen Asagiri Full Body Anime.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/c/c6/Chrome_Fullbody.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 490,
+    "alto": 985,
+    "que_es": "Chrome: Chrome Fullbody.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/7/70/Suika_Full_Body_Anime.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 527,
+    "alto": 850,
+    "que_es": "Suika: Suika Full Body Anime.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://images8.alphacoders.com/112/1126614.jpg",
+    "fuente": "Wallpaper Abyss (alphacoders.com)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla 4K de Senku Ishigami, subido a Wallpaper Abyss.",
+    "para_que": "Fondo de pantalla en alta, tamaño medido con Pillow (punto 16).",
+    "licencia": "Arte oficial resubido por fans; uso personal, no redistribuir el archivo."
+  },
+  {
+    "url": "https://images3.alphacoders.com/104/1042353.jpg",
+    "fuente": "Wallpaper Abyss (alphacoders.com, autor: Thomas V. Kristiansen)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla 4K 'Senku & Team', acreditado a Thomas V. Kristiansen.",
+    "para_que": "Fondo de pantalla en alta con autor identificado (punto 16).",
+    "licencia": "Fan art resubido; uso personal, no redistribuir el archivo."
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/9m/wallhaven-9mgkg1.jpg",
+    "fuente": "Wallhaven (autor: ThorRagnarok)",
+    "ancho": 2400,
+    "alto": 3597,
+    "que_es": "El fondo de pantalla de Dr. Stone más guardado en Wallhaven (♥97): Kohaku.",
+    "para_que": "Fondo de pantalla popular medido por la API de Wallhaven (punto 16).",
+    "licencia": "Wallhaven: uso personal como fondo de pantalla, no redistribuir el archivo."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/4/4e/Dr._Stone_Ryusui_Key_Visual_1.png",
+    "fuente": "Fandom (dr-stone.fandom.com, Category:Key Visuals)",
+    "ancho": 1420,
+    "alto": 2000,
+    "que_es": "Key visual oficial del especial Ryusui, el más grande de las 22 imágenes de la categoría oficial de key visuals.",
+    "para_que": "Arte oficial variado por arco/especial (punto 1).",
+    "licencia": "Copyright TMS Entertainment. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/5/5c/Dr._Stone_Science_Future_Key_Visual_1.png",
+    "fuente": "Fandom (dr-stone.fandom.com, Category:Key Visuals)",
+    "ancho": 849,
+    "alto": 1200,
+    "que_es": "Key visual oficial de la temporada final Science Future.",
+    "para_que": "Arte oficial del arco más reciente (punto 1).",
+    "licencia": "Copyright TMS Entertainment. Sólo referencia."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/senku-ishigami-dr-stone-c1979af69a68490482a99d0a43fcf286",
+    "fuente": "Sketchfab (fossyl)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Senku, 327.128 caras.",
+    "para_que": "Referencia de volumen y proporción (punto 3).",
+    "licencia": "CC Attribution (CC BY), confirmada por la API de Sketchfab."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/suika-mask-dr-stone-dd63b40689b146da9858e2f1af04454e",
+    "fuente": "Sketchfab (Axel.Slaughter)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D del casco de sandía de Suika.",
+    "para_que": "Volumen exacto del casco para un render 3D (punto 3 y 15).",
+    "licencia": "CC Attribution (CC BY), confirmada por la API de Sketchfab."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/chemistry-glassware-b8594f7dc7e8442dbaaae7a11da4a962",
+    "fuente": "Sketchfab (maxdragon)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Juego de vasos y matraces de laboratorio.",
+    "para_que": "Relleno del banco de trabajo del laboratorio (punto 3).",
+    "licencia": "CC Attribution (CC BY), confirmada por la API de Sketchfab."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/old-radio-7724f81ad4e043079b7bf4b16146c087",
+    "fuente": "Sketchfab (ponchoguy)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Radio Vintage 1940s con sus piezas internas visibles.",
+    "para_que": "Ver cómo van los tubos de vacío y cables dentro de una caja, para el teléfono (punto 3).",
+    "licencia": "CC Attribution (CC BY), confirmada por la API de Sketchfab."
+  },
+  {
+    "url": "https://www.deviantart.com/jiance/art/Senku-Ishigami-Dr-Stone-812555318",
+    "fuente": "DeviantArt (Jiance)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fan art de Senku Ishigami.",
+    "para_que": "Referencia de pose y color por fans (punto 3).",
+    "licencia": "Todos los derechos reservados (por defecto en DeviantArt). Sólo mirar, nunca usar."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Rope001",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura CC0 de cuerda trenzada.",
+    "para_que": "Cinturones, collares y adornos de cuerda de la aldea (punto 16 y 19).",
+    "licencia": "CC0 (dominio público, todo el catálogo de ambientCG)."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura CC0 de grano de papel.",
+    "para_que": "Aspecto de página de manga impresa (punto 19).",
+    "licencia": "CC0 (dominio público)."
+  },
+  {
+    "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+    "fuente": "Clip Studio Assets",
+    "ancho": null,
+    "alto": null,
+    "que_es": "[FREE] Manga Screentone Pack 1: tramas de puntos listas para Clip Studio Paint.",
+    "para_que": "Reproducir el sombreado de puntos visto en Chapter 216 (punto 19).",
+    "licencia": "Gratis en la tienda de Clip Studio Paint, uso dentro de CSP."
+  },
+  {
+    "url": "https://collabo-cafe.com/events/category/dr-stone/",
+    "fuente": "collabo-cafe.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Listado de todos los cafés colaborativos de Dr. STONE en Japón (Bar Francois, circo, Navidad, picnic, kissaten retro).",
+    "para_que": "Arte de colaboración con ropa/poses nuevas por evento (punto 23).",
+    "licencia": "Página informativa. Enlazar cada evento, no copiar imágenes sin crédito."
+  },
+  {
+    "url": "https://essential-japan.com/news/a-new-dr-stone-collab-is-coming-to-convenience-store-chain-lawson/",
+    "fuente": "Essential Japan (noticias)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Colaboración Dr. STONE × Lawson Store 100: personajes con uniforme de la tienda, comida temática.",
+    "para_que": "Ropa alternativa oficial de Senku/Suika/Gen/Kohaku/Ryusui/Ginro (punto 23).",
+    "licencia": "Artículo de noticias. Sólo referencia del evento."
+  },
+  {
+    "url": "https://www.goodsmile.info/en/product/9106/Nendoroid+Senku+Ishigami.html",
+    "fuente": "Good Smile Company",
+    "ancho": 250,
+    "alto": 250,
+    "que_es": "Nendoroid oficial de Senku Ishigami (nº1262), 3 caras y accesorios de la serie (tarro de piedra formulada, botella de medicina, algodón de azúcar).",
+    "para_que": "Pose 3D oficial sosteniendo objetos fabricados a mano (punto 23).",
+    "licencia": "Producto comercial con licencia oficial. Sólo referencia de pose; la imagen del sitio es un thumbnail de 250×250, no hay versión en alta disponible."
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.poppingames.dsbc",
+    "fuente": "Google Play",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha oficial de Dr. STONE Battle Craft (Poppin Games Japan), videojuego móvil de estrategia con licencia.",
+    "para_que": "Confirmar el videojuego oficial de la franquicia y sus tarjetas de personaje (punto 1).",
+    "licencia": "Página de tienda oficial."
+  },
+  {
+    "url": "https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4",
+    "fuente": "Internet Archive (dr-stone-op-1-ncbd-1080)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Opening 1 «Good Morning World!» sin créditos, BD 1080p, 90 s. Vídeo completo mirado fotograma a fotograma.",
+    "para_que": "El despertar de Senku en el bosque petrificado (0:24), Senku con camiseta E=MC² (0:45), campo de girasoles con Suika (1:12), Senku y Taiju espalda con espalda (1:18). Base del punto 9 y 14.",
+    "licencia": "Material oficial de TMS/OLM subido por un tercero. Sólo consulta/referencia, no descargable para uso propio."
+  },
+  {
+    "url": "https://archive.org/download/dr-stone-op-1-ncbd-1080/DrStone-OP1-NCBD1080.mp4?t=72",
+    "fuente": "Internet Archive (dr-stone-op-1-ncbd-1080)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del opening 1 en el minuto 1:12: la chibi Suika sola en un campo de girasoles enorme, con montañas detrás.",
+    "para_que": "Paleta medida del sitio (amarillo #F2DC3C, cielo #C4F0F9) para el punto 4; referencia de luz de mediodía.",
+    "licencia": "Material oficial. Sólo consulta."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=274",
+    "fuente": "Internet Archive (dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol), episodio 1×24 con sub. español",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 4:34: primer plano de Ruri, expresión de asombro, Kohaku y Chrome detrás con ropa de invierno.",
+    "para_que": "Pose de reacción/asombro (punto 14), personaje secundario reaccionando a la primera prueba del micrófono.",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://archive.org/download/dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol/Dr.STONE%201X24%20Odio%20a%20distancias%20infinitas%20ByYumikol.mp4?t=1360",
+    "fuente": "Internet Archive (dr.-stone-1-x-24-odio-a-distancias-infinitas-by-yumikol), episodio 1×24 con sub. español",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del minuto 22:40: secuencia de ending, acuarela de luna y estrellas con una silueta de pelo claro de espaldas.",
+    "para_que": "Confirma el estilo visual (acuarela) del ending de la 2.ª mitad de T1 para el punto 9 y como dato de técnica para el punto 18.",
+    "licencia": "Episodio subido por un tercero con fansub. Sólo consulta."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8xu1ty",
+    "fuente": "Dailymotion (canal Vidaextra)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial de Dr. Stone en español, 1:42, subido por el medio Vidaextra (subtítulos en español reales).",
+    "para_que": "Escenas icónicas con minuto (Senku liberándose de la piedra, Taiju rompiendo roca, paisajes) para el punto 2 y 10.",
+    "licencia": "Material promocional oficial, repostado por un medio de prensa. Sólo consulta."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8j8l2f",
+    "fuente": "Dailymotion",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial VO (subtítulos FR) de Dr. STONE: New World, 0:47.",
+    "para_que": "Pose de Ryusui icemando velas (0:36) y presentación del arco New World. Puntos 2, 10 y 14.",
+    "licencia": "Material promocional oficial. Sólo consulta."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9boaek",
+    "fuente": "Dailymotion (canal Horizon Manga)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial VOSTFR de Dr.STONE SCIENCE FUTURE, 1:39, con la fecha de emisión (9-ene-2025, Tokyo MX) visible en pantalla.",
+    "para_que": "Confirma el estreno de la 4.ª temporada y da escenas reales con minuto para el punto 2 y 10.",
+    "licencia": "Material promocional oficial, distribuido por Horizon Manga (Francia). Sólo consulta."
+  },
+  {
+    "url": "https://polyhaven.com/a/rock_cliff_large_02",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura CC0 de roca agrietada en 8K (foto-escaneada).",
+    "para_que": "Textura real equivalente para las estatuas de piedra y los muros del laboratorio (punto 4).",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://spice.eplus.jp/articles/257466",
+    "fuente": "SPICE (eplus.jp)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota de prensa japonesa sobre «夢のような» de Yusuke Saeki, ending de la 2.ª mitad de la temporada 1.",
+    "para_que": "Segunda fuente (con Apple Music y BARKS) para subir de ⚠️ a ✅ el ending de T1 2.ª parte. Punto 9.",
+    "licencia": "Artículo de prensa. Sólo consulta/cita."
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2023-08-26/dr-stone-new-world-anime-2nd-part-reveals-october-12-debut-theme-song-artists/.201655",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia que confirma «Haruka» (Ryujin Kiyoshi) como opening de New World 2.ª parte.",
+    "para_que": "Corrige la tabla vieja (tenía «Haruka» sin decir si era OP o ED). Punto 9.",
+    "licencia": "Artículo de prensa. Sólo consulta/cita."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Suki_ni_Shinayo",
+    "fuente": "Dr. Stone Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de «好きにしなよ» (Suki ni Shinayo) de Anly, ending de New World 2.ª parte, con vídeo de arte de arena.",
+    "para_que": "Segunda fuente (con el X oficial de TMS Entertainment USA) para el ending que antes no existía en la biblia. Punto 9.",
+    "licencia": "Wiki de fans. Sólo consulta/cita."
+  },
+  {
+    "url": "https://anime-song-info.com/lp-drstone-op-ed/",
+    "fuente": "anime-song-info.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista completa de openings y endings de Dr.STONE SCIENCE FUTURE (1.ª a 3.ª parte).",
+    "para_que": "Fuente principal para los 6 temas de Science Future que la biblia no tenía. Punto 9.",
+    "licencia": "Sitio especializado en música de anime. Sólo consulta/cita."
+  },
+  {
+    "url": "https://animatetimes.com/news/details.php?id=1736399013",
+    "fuente": "Animate Times",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia «ノンクレジットOP・ED映像解禁» (vídeos sin créditos revelados) de Dr.STONE SCIENCE FUTURE.",
+    "para_que": "Segunda fuente para la música de Science Future (con anime-song-info.com). Punto 9.",
+    "licencia": "Artículo de prensa japonés. Sólo consulta/cita."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/7/76/Alejandro_Orozco_Demo_Voces.ogg/revision/latest?cb=20180708194728&path-prefix=es",
+    "fuente": "Doblaje Wiki, página de actor Alejandro Orozco",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Carrete de demo general del actor (no es diálogo de Dr. Stone): varios personajes y tonos, 2:52.",
+    "para_que": "§8.4: rango vocal del actor de Senku medido con voz.py (registro medio 174 Hz, 26,3 semitonos, velocidad normal). Dato del actor, no del personaje en pantalla.",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki. Sólo consulta y análisis."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Senku_Ishigami#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de la ficha de Senku: catchphrases exactas, alergia a la laca, chiste recurrente del matrimonio-divorcio con Ruri, origen del nombre.",
+    "para_que": "§13 y §20: carácter y gustos de Senku con fuente concreta, no genérica.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Gen_Asagiri#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Gen: mecanismo exacto de su tic verbal (sílabas invertidas), la flor que usa en sus trucos (hierba mora negra = «mentiroso»), que sólo bebe cola, sus tres cartas comodín, su lenguaje corporal (esconde manos, encorva la espalda).",
+    "para_que": "§13 y §20: forma de hablar y gustos de Gen con mecanismo exacto, y §12 (qué NO hacer: nunca con alcohol).",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Chrome#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Chrome: su nombre viene del elemento químico cromo (número atómico 24, igual que su cumpleaños 2/4), gag recurrente de que sólo Kohaku (y a veces Ginro) lo golpea por llamarla gorila.",
+    "para_que": "§13: el chiste de nombre/cumpleaños de Chrome, pensado por el autor.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Kaseki#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Kaseki: se le rompe la ropa cuando se emociona (incluso ropa difícil de hacer), su apego a los vehículos y tristeza cuando los desguazan/reciclan, cumpleaños compartido con Yakov Nikitin.",
+    "para_que": "§12 (qué NO hacer: no dejarlo con ropa impecable) y §13/§20 (su apego a las máquinas).",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Suika#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Suika: hablaba de sí misma en tercera persona de niña y lo dejó al crecer; su casco de sandía original lo hizo Kaseki, no ella.",
+    "para_que": "§13 y §20: forma de hablar y objeto icónico de Suika con fuente.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Kohaku#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Kohaku: primera chica en besar a Senku, primera humana del Stone World en pisar la Luna (más adelante en la historia), gag de que sólo golpea a Chrome/Ginro por llamarla gorila.",
+    "para_que": "§20: cómo se ve a sí misma Kohaku.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Ryusui_Nanami#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Trivia y cita textual de Ryusui: «My sailor's instincts are never wrong!», su postura sobre el amor sin género.",
+    "para_que": "§20: gustos y autopercepción de Ryusui.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Tsukasa_Shishio#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Trivia de Tsukasa: significado de su nombre (rey león), su ideología descrita como anarco-primitivista, puestos en las encuestas de popularidad.",
+    "para_que": "§20: cómo se ve a sí mismo Tsukasa.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://myanimelist.net/anime/38691",
+    "fuente": "MyAnimeList (datos vía api.jikan.moe/v4/anime/38691)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota 8,26/10 (1.191.080 votos), puesto #372 general, #49 en popularidad, 1.974.878 miembros, 31.662 favoritos.",
+    "para_que": "§21.1: números que confirman por qué la gente la ama.",
+    "licencia": "Datos públicos de MyAnimeList vía API no oficial Jikan. Sólo consulta."
+  },
+  {
+    "url": "https://www.fandompost.com/2026/03/22/manga-by-the-numbers-dr-stone-crosses-20-million-volume-mark/",
+    "fuente": "The Fandom Post",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo de marzo de 2026: el manga de Dr. Stone supera los 20 millones de copias en circulación (27 tomos).",
+    "para_que": "§21.1: ventas del manga.",
+    "licencia": "Artículo periodístico. Sólo cita y enlace."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/4th_Crunchyroll_Anime_Awards",
+    "fuente": "Wikipedia (en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de ganadores de los 4.º Crunchyroll Anime Awards (2020): Senku Ishigami, Mejor Protagonista.",
+    "para_que": "§21.1: premio oficial de Senku.",
+    "licencia": "Wikipedia, CC BY-SA."
+  },
+  {
+    "url": "https://www.cbr.com/crunchyroll-anime-award-winners/",
+    "fuente": "CBR (Comic Book Resources)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Repaso de todos los ganadores de los Crunchyroll Anime Awards 2020, confirma a Senku como Mejor Protagonista.",
+    "para_que": "§21.1: segunda fuente del premio de Senku.",
+    "licencia": "Artículo periodístico. Sólo cita y enlace."
+  },
+  {
+    "url": "https://www.reddit.com/r/DrStone/comments/1v6dnxe/",
+    "fuente": "Reddit r/DrStone (vía arctic-shift.photon-reddit.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo «Has Dr. Stone ever made you cry and if so which part?», 734 votos, 94 comentarios: Byakuya, la cámara de Minami, las gafas de Suika, Ruri curada, la invasión de Stanley, el final de la serie (con un comentario en español).",
+    "para_que": "§21.3: escenas que hacen llorar y reacción real del fandom, con un comentario textual en español de un fan hispano.",
+    "licencia": "Contenido público de Reddit, CC-like (licencia de Reddit). Sólo cita corta."
+  },
+  {
+    "url": "https://www.reddit.com/r/DrStone/comments/1v9z5u5/",
+    "fuente": "Reddit r/DrStone (vía arctic-shift.photon-reddit.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo «Who is the character you relate to the most, and why?», 126 votos, 210 comentarios: identificación con Chrome y Gen («coleccionar piedras, cola, chicos científicos»).",
+    "para_que": "§12 y §21.2: con qué personaje se identifica el público y por qué.",
+    "licencia": "Contenido público de Reddit. Sólo cita corta."
+  },
+  {
+    "url": "https://www.reddit.com/r/DrStone/comments/1sn8x9v/",
+    "fuente": "Reddit r/DrStone",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo «As a programmer, Sai is my favorite character and the anime is spot on accurate», 114 votos, 19 comentarios.",
+    "para_que": "§21.2: identificación profesional con un personaje secundario.",
+    "licencia": "Contenido público de Reddit."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0nQIJhVza68",
+    "fuente": "YouTube, canal Alex Fandubs (confirmado con oembed, sin login)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub latino de una escena de Dr. Stone: New World, «Búsqueda del tesoro».",
+    "para_que": "§22.1: fandubs hispanos de escenas.",
+    "licencia": "Vídeo de fans en YouTube. Sólo enlace, no se descarga."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vwxypyHzAN0",
+    "fuente": "YouTube, canal Zacky-Kun Fandubs (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub latino del tráiler de Dr. Stone.",
+    "para_que": "§22.1: fandubs hispanos.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qAwQZEOBDRc",
+    "fuente": "YouTube, canal Olea Dubs (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub latino, «La cocina de Senku».",
+    "para_que": "§22.1: fandubs hispanos.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VmHCWf4_ByU",
+    "fuente": "YouTube, canal EnmaDS - EnmanuelDSite (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub/cover en español del ending de Dr. Stone, versión completa.",
+    "para_que": "§22.1 y §22.2: fandub y cover musical en español.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WT3Gm4_igIs",
+    "fuente": "YouTube, canal David Delgado (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover en español latino del Opening 2 «Sangenshoku».",
+    "para_que": "§22.2: covers de openings en español.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mGPjLinWsO8",
+    "fuente": "YouTube, canal David Delgado (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recopilación «Dr. STONE Todos los Openings en Español Latino».",
+    "para_que": "§22.2: covers de openings en español, uno solo con varios openings.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MAzpBwx41Kc",
+    "fuente": "YouTube, canal André - A! / Edgardo Artieda (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover en español latino del Opening 8 «SKINS».",
+    "para_que": "§22.2: covers de openings en español.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eNZ_2736ZB4",
+    "fuente": "YouTube, canal FUGATOON (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover en español latino del Opening 3 «Rakuen».",
+    "para_que": "§22.2: covers de openings en español.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.tiktok.com/discover/10-mil-millones-por-ciento",
+    "fuente": "TikTok (página de descubrimiento/hashtag)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Actividad de TikTok en español alrededor del meme «10 mil millones por ciento» de Senku, 2022-2026.",
+    "para_que": "§12 y §22.3: meme vivo en la comunidad hispana.",
+    "licencia": "Plataforma pública. Sólo enlace y descripción, no se descarga contenido."
+  },
+  {
+    "url": "https://play-lh.googleusercontent.com/SxCKs_GBz5pXoKi-Yt0k3U993rzJ0tjwGbYsrBRDhM4AOyBU_vSwW-mWvQTbMUJQge7ngfJkZS-RAVisWIb4Vw",
+    "fuente": "Google Play (ficha archivada de Dr.STONE Battle Craft, ya cerrado)",
+    "ancho": 526,
+    "alto": 243,
+    "que_es": "Captura de la pantalla de victoria del videojuego: iconos chibi de los 6 personajes en fila, barra de vida, cronómetro, botón Next",
+    "para_que": "referencia de interfaz de juego (punto 11) y de estilo chibi para posibles etiquetas de la lámina 2",
+    "licencia": "© Poppin Games Japan / Dr.STONE Production Committee; sólo referencia, juego cerrado"
+  },
+  {
+    "url": "https://play-lh.googleusercontent.com/TkkB69zh-01tVzL4O1Pas58x6Q67Vc1ggGKfRZDXLAfwN1AgBZNB5vrilfbM218ntXDmCFCJ-33-q4sDzMPKsho",
+    "fuente": "Google Play (ficha archivada de Dr.STONE Battle Craft, ya cerrado)",
+    "ancho": 526,
+    "alto": 243,
+    "que_es": "Captura del HUD de recursos del videojuego: gema/diamante azul con nivel de recurso, iconos cuadrados de personajes con bandera de nivel, botón Leader dorado",
+    "para_que": "referencia de interfaz de juego (punto 11) para iconos tipo gema/recurso si hace falta un HUD en la lámina 2",
+    "licencia": "© Poppin Games Japan / Dr.STONE Production Committee; sólo referencia, juego cerrado"
+  },
+  {
     "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Dr.%20STONE",
     "fuente": "GitHub (kitsunekko-mirror)",
     "ancho": null,
@@ -108,15 +918,6 @@
     "licencia": "© comité. Sólo referencia."
   },
   {
-    "url": "https://sketchfab.com/3d-models/dr-stone-senku-3d-model-environment-props-8dc007444003431f80e8ae69b7a0833d",
-    "fuente": "Sketchfab (Jerry Teng)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo fan: Senku, laboratorio, hacha, poción, teléfono, cuchillo y escudo de Kohaku, bandera del Reino de la Ciencia.",
-    "para_que": "Volumen del laboratorio y del teléfono para Blender. Sólo mirar.",
-    "licencia": "Descarga gratis (alguna CC; leer en la página). Personaje con copyright."
-  },
-  {
     "url": "https://sketchfab.com/3d-models/vacuum-tube-3867ca5c3cd74cb882b22d0eee75567a",
     "fuente": "Sketchfab (lulu the black dog)",
     "ancho": null,
@@ -133,24 +934,6 @@
     "que_es": "Modelo 3D de un megáfono de mano.",
     "para_que": "Base del megáfono-micrófono de Senku.",
     "licencia": "Descarga gratis; licencia CC a comprobar y acreditar."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/old-radio-7724f81ad4e043079b7bf4b16146c087",
-    "fuente": "Sketchfab (Guy in a Poncho)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Radio Admiral 7T10 de los años 40 con sus piezas internas.",
-    "para_que": "Ver cómo van los tubos y cables dentro de una caja (teléfono del concepto C).",
-    "licencia": "Descarga gratis; licencia CC a comprobar."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/chemistry-glassware-b8594f7dc7e8442dbaaae7a11da4a962",
-    "fuente": "Sketchfab (maxdragonn)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Juego de vasos y matraces de laboratorio.",
-    "para_que": "Relleno del banco del laboratorio.",
-    "licencia": "Descarga gratis; licencia CC a comprobar."
   },
   {
     "url": "https://polyhaven.com/a/rough_wood",
@@ -178,24 +961,6 @@
     "que_es": "Textura de tablones envejecidos (8K).",
     "para_que": "Paredes del laboratorio.",
     "licencia": "CC0"
-  },
-  {
-    "url": "https://wall.alphacoders.com/big.php?i=1126614",
-    "fuente": "Wallpaper Abyss",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Fondo de Senku en 4K.",
-    "para_que": "Referencia de color y línea de Senku.",
-    "licencia": "Arte oficial o captura resubida por fans. Sólo referencia."
-  },
-  {
-    "url": "https://wall.alphacoders.com/big.php?i=1042353",
-    "fuente": "Wallpaper Abyss (Thomas V. Kristiansen)",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Fondo «Senku & Team» en 4K.",
-    "para_que": "Referencia de grupo y paleta.",
-    "licencia": "Sólo referencia."
   },
   {
     "url": "https://www.youtube.com/watch?v=2ei4KpfCOAI",
@@ -313,5 +1078,572 @@
     "que_es": "Qué es la sal de Rochelle: cristal piezoeléctrico usado en micrófonos y agujas de tocadiscos.",
     "para_que": "Confirma que el micrófono de Senku es ciencia real (dato para el texto o para un fan).",
     "licencia": "Artículo. Sólo cita."
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Senkuu Ishigami",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Gen Asagiri",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Kohaku",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 346,
+    "que_es": "Retrato de Chrome",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/124162-htFFNeC04bzw.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 358,
+    "que_es": "Retrato de Suika",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124144-KOjcmhunbvYn.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Tsukasa Shishiou",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Ukyou Saionji",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136446-gpvtw5cb2I3Q.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Kaseki",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124146-TeXd4r0upuIX.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 350,
+    "que_es": "Retrato de Taiju Ooki",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149275-ghZG8Itl5Iz9.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Byakuya Ishigami",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/124147-y3uE9rBepdad.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 358,
+    "que_es": "Retrato de Yuzuriha Ogawa",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145062-eCEE4J0RRGvt.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 338,
+    "que_es": "Retrato de Hyouga",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143271-6dNgt1Mcy3PU.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Kinrou",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143270-8kC2e32r7CyE.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Ginrou",
+    "para_que": "cara y colores base del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg",
+    "fuente": "AniList",
+    "ancho": 460,
+    "alto": 679,
+    "que_es": "Portada oficial",
+    "para_que": "arte oficial / key visual",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105333-KWKGvBM8Hyga.jpg",
+    "fuente": "AniList",
+    "ancho": 1900,
+    "alto": 400,
+    "que_es": "Banner oficial",
+    "para_que": "arte oficial / key visual",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/6/65/Kohaku_Portrait.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 1080,
+    "alto": 1080,
+    "que_es": "Senku 11: Kohaku Portrait.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/1/1e/Moon_Rocket.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 1400,
+    "alto": 477,
+    "que_es": "Senku 11: Moon Rocket.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/7/7e/Stanley_Portrait.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 798,
+    "alto": 799,
+    "que_es": "Senku 11: Stanley Portrait.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/1/15/Ryusui_Portrait.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 740,
+    "alto": 740,
+    "que_es": "Senku 11: Ryusui Portrait.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/6/6b/%22I%27m_an_insanely_smart%2C_genius_sorcerer%22.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 1920,
+    "alto": 2075,
+    "que_es": "Chrome: \"I'm an insanely smart, genius sorcerer\".png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/3/3a/Chrome_Anime_Profile.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 469,
+    "alto": 1221,
+    "que_es": "Chrome: Chrome Anime Profile.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/0/07/Chrome_Icons.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 800,
+    "alto": 489,
+    "que_es": "Chrome: Chrome Icons.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/a/a1/Chrome_defiant_.jpeg",
+    "fuente": "Fandom dr-stone",
+    "ancho": 721,
+    "alto": 401,
+    "que_es": "Chrome: Chrome defiant .jpeg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/3/3a/Gen_Asagiri_Manga.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 603,
+    "alto": 1019,
+    "que_es": "Gen Asagiri: Gen Asagiri Manga.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/5/57/Gen_Icons.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 800,
+    "alto": 489,
+    "que_es": "Gen Asagiri: Gen Icons.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/d/d5/Kaseki.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 542,
+    "alto": 771,
+    "que_es": "Kaseki: Kaseki.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/9/9f/Kaseki_Icons.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 800,
+    "alto": 489,
+    "que_es": "Kaseki: Kaseki Icons.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/5/5f/Chapter_201.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 1095,
+    "alto": 1600,
+    "que_es": "Suika: Chapter 201.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/f/f4/Suika_Post-Timeskip.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 500,
+    "alto": 904,
+    "que_es": "Suika: Suika Post-Timeskip.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/3/35/Suika_Full_Body.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 439,
+    "alto": 955,
+    "que_es": "Suika: Suika Full Body.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/0/0f/Suika_Post-Timeskip_Full_Body_Anime.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 394,
+    "alto": 1020,
+    "que_es": "Suika: Suika Post-Timeskip Full Body Anime.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/2/2f/Suika_Icons.png",
+    "fuente": "Fandom dr-stone",
+    "ancho": 800,
+    "alto": 489,
+    "que_es": "Suika: Suika Icons.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/kw/wallhaven-kw25d6.png",
+    "fuente": "Wallhaven",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla (Dr. Stone, anime, flask, Senkuu Ishigami)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por dexterb8; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/je/wallhaven-jey3gm.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Dr. Stone, anime, flowers, simple background, dark background, petals)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por moon; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/e7/wallhaven-e757vw.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 5500,
+    "alto": 3000,
+    "que_es": "Fondo de pantalla (anime, anime boys, Dr. Stone, Chrome (Dr. Stone), Kohaku (Dr. Stone))",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por Zains; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/lm/wallhaven-lmdx9r.png",
+    "fuente": "Wallhaven",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla (Kohaku (Dr. Stone), blue eyes, blushing, drink, necklace, ponytail)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por 00stoyita00; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/73/wallhaven-73l7l9.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1081,
+    "que_es": "Fondo de pantalla (Senkuu Ishigami, Suika (Dr. Stone), anime, Kinro (Dr. Stone), Ginro (Dr. Stone), Kohaku (Dr. Stone))",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por EsQdero64; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/3z/wallhaven-3z96p3.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Senkuu Ishigami, Dr. Stone, manga, cyan)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por Claresona; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/r2/wallhaven-r21qgq.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla (anime, Dr. Stone, stars, clouds, night, Moon)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por SCPZero; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/39/wallhaven-392wmv.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Dr. Stone, Senkuu Ishigami, red eyes, anime, anime boys)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por Rocketizada; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/dg/wallhaven-dgv81j.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (anime, anime girls, Dr. Stone, Kohaku (Dr. Stone))",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por Aniru; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/zm/wallhaven-zmdzry.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla (Dr. Stone, Senkuu Ishigami, anime, anime boys, flask, science)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por Kenbo; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/dp/wallhaven-dp53rg.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla (anime, anime boys, Dr. Stone, Senkuu Ishigami)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por AHMED53; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/ly/wallhaven-lydvkq.png",
+    "fuente": "Wallhaven",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla (anime, anime girls, screen shot, Dr. Stone, Kohaku (Dr. Stone), shoulder length hair)",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por Xyros; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/vg/wallhaven-vge265.png",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla (anime, anime girls, anime boys, Dr. Stone, Senkuu Ishigami, Kohaku (Dr. Stone))",
+    "para_que": "fondo o paleta de sitio",
+    "licencia": "subido por Aniru; © su autor"
+  },
+  {
+    "url": "https://sketchfab.com/models/e9fee2578f634ea1a9c710ac860844c0",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: Neolithic House, Skara Brae, Orkney de Dr Hugo Anderson-Whymark",
+    "para_que": "Casa neolítica real (Skara Brae): volumen de una cabaña de piedra para la aldea. CC BY-NC: sólo para mirar.",
+    "licencia": "CC Attribution-NonCommercial"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/senku-dr-stone-db3599b14a5f4aa2939b8de61e522035",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D: SENKU Dr Stone de HaroldXd",
+    "para_que": "objeto o personaje 3D para Blender",
+    "licencia": "CC Attribution (CC BY), comprobada por la API de Sketchfab (partes/imagen.md §3.1). Personaje con copyright: sólo para mirar pose y volumen."
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51772988003_e41a9c684d_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 767,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51771920377_8a61b38653_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 767,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51772744091_147b2fdaca_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 767,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51772743776_12144e1ff6_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 767,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51773626800_6e157ea41c_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 767,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51772986288_96bbf265c8_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 767,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51772985473_13330821c1_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 767,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51771917097_93fb62f861_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 767,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51771918557_1a8dd45613_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 767,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51772983593_c373cfde82_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 767,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51773388434_caf84e0358_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 767,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51773624325_c682523ba1_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 767,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51773388779_bc50c901a8_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 767,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51773623095_a6e0c7272f_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 683,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/51771914837_a0a8f363b2_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 683,
+    "alto": 1024,
+    "que_es": "Shoot - Senku Ishigami - Dr Stone - Yukika - Roseraie De La Beaujoire - Nantes…",
+    "para_que": "foto real (cosplay, objeto, evento)",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
   }
 ]

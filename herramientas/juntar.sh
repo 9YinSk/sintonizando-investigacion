@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Junta en la rama actual el trabajo de todas las cuentas (todas las ramas claude/*).
 # Cada biblia vive en su carpeta, así que no chocan. Con --marcar (sólo la central)
-# marca además en TANDAS.md las biblias que revisar.py da por COMPLETAS.
+# marca además en TANDAS.md las biblias que revisar.py da por COMPLETAS, copia lo de
+# lotes/*.md a ESTADO.md, DECISIONES.md y COSTOS.md (juntar_lotes.py) y hace commit.
 #   herramientas/juntar.sh
 #   herramientas/juntar.sh --marcar
 set -uo pipefail
@@ -36,5 +37,9 @@ for i, l in enumerate(t):
 open("TANDAS.md", "w", encoding="utf-8").write("\n".join(t))
 print(f"marcadas: {n}")
 PY
+  python3 herramientas/juntar_lotes.py
+  git add TANDAS.md ESTADO.md DECISIONES.md COSTOS.md
+  pie="$(grep -hoE '(Co-Authored-By|Claude-Session): [^"]*' herramientas/subir.sh)"
+  git diff --cached --quiet || git commit -q -m "Central: TANDAS marcadas y lotes copiados a ESTADO, DECISIONES y COSTOS" -m "$pie"
 fi
 git push -q -u origin "$rama" 2>/dev/null && echo "subido a $rama"

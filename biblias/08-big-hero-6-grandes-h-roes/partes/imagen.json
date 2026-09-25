@@ -1,0 +1,218 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/0/05/Baymax_Render.png",
+    "fuente": "Disney Wiki (Fandom) · render oficial",
+    "ancho": 1280,
+    "alto": 1403,
+    "que_es": "Render oficial de Baymax en vinilo blanco, sin armadura, de pie de frente.",
+    "para_que": "Hex medidos con Pillow y estilo.py: blanco base #F2F3F5, sombra cálida #DAD5D4, ojos #000000. Pose base para el objeto del canal #soporte.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/b/b2/Baymax_Inflight_Render.png",
+    "fuente": "Disney Wiki (Fandom) · render oficial",
+    "ancho": 919,
+    "alto": 758,
+    "que_es": "Render de Baymax con armadura roja volando, puño extendido.",
+    "para_que": "Hex de la armadura (#DD4630 rojo-naranja, #8E7380 acento morado) y pose de acción/vuelo.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/c/ca/Big_Hero_6_poster_2.jpg",
+    "fuente": "Disney Wiki (Fandom) · póster oficial de cine",
+    "ancho": 1985,
+    "alto": 2835,
+    "que_es": "Póster internacional: Hiro con un cuaderno morado junto a Baymax con armadura.",
+    "para_que": "Hex medidos de Hiro (sudadera #3B3D5C, camiseta #DB2C2B, pantalón #7B5836) y de la armadura de Baymax (#ED512D, #926996). Concepto de lámina 1 y 2.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/7d/Hiro_Armor_Render.png",
+    "fuente": "Disney Wiki (Fandom) · render oficial",
+    "ancho": 1280,
+    "alto": 1366,
+    "que_es": "Render de Hiro con su armadura (casco con antenas, traje).",
+    "para_que": "Hex del traje (#3C355D) y del casco (~#8B447A). Pose de superhéroe para conceptos de lámina con acción.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/12/Baymax_Armor_Render.png",
+    "fuente": "Disney Wiki (Fandom) · render oficial (versión anterior/juego)",
+    "ancho": 1280,
+    "alto": 1366,
+    "que_es": "Render de una variante de la armadura de Baymax en naranja quemado con pecho morado.",
+    "para_que": "Contraste de color: muestra que hubo una versión más naranja/oscura antes de fijar el rojo final de la película.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/3/32/Tadashi_and_Go_Go_character_model.jpg",
+    "fuente": "Disney Wiki (Fandom) · hoja de modelo oficial (2015, serie)",
+    "ancho": 1024,
+    "alto": 1225,
+    "que_es": "Hoja de modelo de Tadashi (chaqueta con capucha oliva/gris, gorra, bolso) y GoGo, para Big Hero 6: The Series.",
+    "para_que": "Hex de referencia de Tadashi (gorra #5A5A5A, chaqueta #636C72/#6E7266, bolso #7C595C). Marcado ⚠️: es el look de la serie, no el de la película.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/22/Baymax-manga-preview-ch-0.jpg",
+    "fuente": "Disney Wiki (Fandom) · muestra oficial del manga (Kodansha/Yen Press)",
+    "ancho": 1000,
+    "alto": 1436,
+    "que_es": "Página de muestra del capítulo 0 del manga: Baymax saluda a Hiro por primera vez.",
+    "para_que": "Textura 2D: trama de puntos (halftone), globo ovalado, líneas de velocidad. Referencia para enmarcar la tabla del dolor como viñeta de manga.",
+    "licencia": "© Disney / Kodansha / Yen Press. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/2d/Wappen_Hiro_and_Baymax.jpg",
+    "fuente": "Disney Wiki (Fandom) · merchandising oficial (Disney Store Japón)",
+    "ancho": 800,
+    "alto": 800,
+    "que_es": "Parches de fieltro cosido de Hiro y Baymax, producto 'Back to School'.",
+    "para_que": "Textura de fieltro/parche con puntada en zigzag, por si el canal usa una insignia de tela.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/9/9b/BH6_-_Japanese_Poster.jpg",
+    "fuente": "Disney Wiki (Fandom) · póster oficial (Japón)",
+    "ancho": 1024,
+    "alto": 1444,
+    "que_es": "Póster japonés de la película, con el título en katakana ベイマックス.",
+    "para_que": "Arte oficial variado (punto 1), tipografía japonesa del título.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/baymax-418c455a35d24bcdacf853ebf18ae2ee",
+    "fuente": "Sketchfab (licencia confirmada por su API v3)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Baymax.",
+    "para_que": "Referencia de pose y volumen en 3D, licencia CC Attribution confirmada por API (antes 'sin comprobar').",
+    "licencia": "CC BY 4.0 (autor: etamal1234 según la API; crédito obligatorio)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/baymax-29a502f7c45c4b5e82f74e6d0b5f0066",
+    "fuente": "Sketchfab (licencia confirmada por su API v3)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Baymax.",
+    "para_que": "Referencia de pose y volumen en 3D, licencia CC Attribution confirmada por API.",
+    "licencia": "CC BY 4.0 (autor: yohyoh según la API; crédito obligatorio)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-a6dab787e9094c348cd5ba77e8627b03",
+    "fuente": "Sketchfab · Takoyakixote",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D 'Chibi Baymax'.",
+    "para_que": "Referencia de proporciones chibi para versiones 'cute' de Baymax en textos del bot.",
+    "licencia": "CC BY-NC-SA — no usar para nada comercial, sólo referencia visual."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Plastic013A",
+    "fuente": "ambientCG (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de plástico liso brillante.",
+    "para_que": "Equivalente real de la piel de vinilo de Baymax, para shader en Blender/Photoshop.",
+    "licencia": "CC0 (dominio público, banco ambientCG)."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper006",
+    "fuente": "ambientCG (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de papel con grano.",
+    "para_que": "Grano de papel equivalente para el manga o cartelas impresas del canal.",
+    "licencia": "CC0 (dominio público, banco ambientCG)."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric081C",
+    "fuente": "ambientCG (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de tela tejida.",
+    "para_que": "Equivalente real de la tela de la sudadera de Hiro.",
+    "licencia": "CC0 (dominio público, banco ambientCG)."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal063",
+    "fuente": "ambientCG (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de metal cepillado.",
+    "para_que": "Equivalente real para detalles metálicos de la armadura de Baymax o los microbots.",
+    "licencia": "CC0 (dominio público, banco ambientCG)."
+  },
+  {
+    "url": "https://wallhaven.cc/w/0jojkw",
+    "fuente": "Wallhaven (API v1, tamaño y autor verificados)",
+    "ancho": 4096,
+    "alto": 1716,
+    "que_es": "Fondo de pantalla del equipo Big Hero 6 sobre la ciudad de noche.",
+    "para_que": "Fondo de pantalla en alta para el servidor (48 favoritos, el más guardado de la etiqueta 'baymax').",
+    "licencia": "Uso personal (Wallhaven no da licencia de reventa); autor: quanleloi. Sólo referencia/decorativo interno."
+  },
+  {
+    "url": "https://wallhaven.cc/w/4yzk7g",
+    "fuente": "Wallhaven (API v1, tamaño y autor verificados)",
+    "ancho": 16000,
+    "alto": 9000,
+    "que_es": "Fondo de pantalla fan art de Baymax en muy alta resolución.",
+    "para_que": "Fondo de pantalla de fans en tamaño extremo; es fan art, no oficial.",
+    "licencia": "Uso personal; autor: dominomd. No oficial (fan art)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/8c/Hiro_Hamada_DI2.0_Transparent_Figurine.png",
+    "fuente": "Disney Wiki (Fandom) · render de la figura de Disney Infinity 2.0",
+    "ancho": 2448,
+    "alto": 3319,
+    "que_es": "Render de la figura física de Hiro para el juguete-a-videojuego Disney Infinity.",
+    "para_que": "Punto 23: colaboración con videojuego, figura física real con peana.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://fortnite.fandom.com/wiki/Hero_Baymax",
+    "fuente": "Fortnite Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del traje jugable 'Hero Baymax' en Fortnite (Capítulo 6, temporada Hunters, dic-2024).",
+    "para_que": "Punto 23: colaboración con Fortnite, con mochila 'Megabot' y pico 'Microbot Mallet'. La más reciente y reconocible para jugadores jóvenes.",
+    "licencia": "© Disney / Epic Games. Sólo referencia."
+  },
+  {
+    "url": "https://www.therpf.com/forums/threads/baymax-2-0-armor-with-foam-template-files.234327/",
+    "fuente": "The RPF (comunidad de props y cosplay)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guía de construcción de la armadura de Baymax en foam EVA, con plantillas descargables.",
+    "para_que": "Punto 23: cosplay bien hecho, con materiales y técnica reales (foam EVA, PVA, Plasti Dip) para calibrar el shader de la armadura en Blender.",
+    "licencia": "Contenido de la comunidad; sólo referencia de técnica, no imagen para usar directamente."
+  },
+  {
+    "url": "https://bleedingcool.com/collectibles/big-hero-6-arrives-for-disney-lorcana-azurite-sea-exclusive-reveal/",
+    "fuente": "Bleeding Cool",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anuncio y arte de las cartas de Big Hero 6 en Disney Lorcana: Azurite Sea.",
+    "para_que": "Punto 23: colaboración con el juego de cartas Disney Lorcana (Hiro, Baymax armado, GoGo, Wasabi, Fred, tía Cass).",
+    "licencia": "© Disney / Ravensburger. Sólo referencia."
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2014-08-31/yen-press-licenses-manga-version-of-disney-big-hero-6-film/.78236",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia: Yen Press licencia el manga de Big Hero 6 para EE.UU.",
+    "para_que": "Segunda fuente del manga (punto 1), fechas de publicación de los 2 tomos.",
+    "licencia": "Artículo periodístico; sólo cita, sin imagen propia."
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Baymax",
+    "fuente": "Disney Wiki (Fandom) · wikitexto vía API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha oficial de Baymax con el cuadro de 'juegos' y 'atracciones' donde ha aparecido.",
+    "para_que": "Fuente única de la lista completa de colaboraciones en videojuegos (punto 23) y de la atracción 'The Happy Ride with Baymax'.",
+    "licencia": "Texto CC BY-SA (licencia de Fandom); imágenes propias © Disney."
+  }
+]
