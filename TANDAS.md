@@ -19,7 +19,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [x] repaso 07-pok-mon
 - [x] repaso 08-big-hero-6-grandes-h-roes
 - [x] repaso 09-mafalda
-- [ ] repaso 10-k-on
+- [x] repaso 10-k-on
 - [ ] repaso 11-chainsaw-man
 - [ ] repaso 12-kakegurui
 - [ ] repaso 13-rick-and-morty

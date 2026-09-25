@@ -1,12 +1,12 @@
 # ESTADO — dónde va el trabajo y cómo seguir en otro contenedor
 
-Actualizado: 25-09-2026, 02:38 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
+Actualizado: 25-09-2026, 02:43 UTC. Rama: **`claude/peaceful-maxwell-fklpkp`**
 (`main` todavía no tiene este trabajo).
 
 <!-- lotes -->
-## Cómo va por lotes (25-09-2026, 02:38 UTC)
+## Cómo va por lotes (25-09-2026, 02:43 UTC)
 
-Lo copia la central de `lotes/*.md` con `herramientas/juntar.sh --marcar`. `revisar.py` da por **COMPLETAS 25** biblias: 01, 02, 03, 04, 05, 06, 07, 08, 09, 19, 20, 21, 22, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 77, 78.
+Lo copia la central de `lotes/*.md` con `herramientas/juntar.sh --marcar`. `revisar.py` da por **COMPLETAS 26** biblias: 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 19, 20, 21, 22, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 77, 78.
 
 ### Lote A (la central): 02-05 y 31-36
 
@@ -35,14 +35,29 @@ subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
 *Estado*
 
 - 06-09: ya COMPLETAS (sesiones anteriores).
-- 10 K-On: partes listas (sin `Sigue:` obligatorio); redactor (Opus, repaso) en marcha.
-- 11 Chainsaw Man: 4 investigadores (Sonnet, repaso) en marcha.
+- 10 K-On: **COMPLETA** y subida (02:4x). ✅19 ⚠️11 ❌0, 134 referencias, 106 webs, 2443 líneas.
+- 11 Chainsaw Man: partes listas; redactor (Opus, repaso) en marcha.
+- 12 Kakegurui: 4 investigadores (Sonnet, repaso) en marcha.
 - 12-18: pendientes (12 y 13 ya recolectadas; 14-18 recolectando).
 
 ### Lote C: repasos 19-30
 
-*Estado (22:15 UTC)*
+*Estado (02:50 UTC del 25)*
 
+Desde las 02:45 lo lleva la central: sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb
+· rama `claude/lote-a-series-inxhbf` (la cuenta anterior paró a las 22:59 del 24).
+
+- 23 Lilo & Stitch: imagen, vídeo y texto listos; voz relanzada (tanda corta: caras de
+  miedo, vergüenza y rabia del punto 13); luego su redactor.
+- 24 Assassination Classroom: 4 investigadores (Sonnet) en marcha desde las 02:45.
+- 25-30: datos recolectados; faltan sus equipos.
+
+**Si esta cuenta se corta (iba al 90 % del límite a las 02:43):** la siguiente cuenta del
+lote C sigue así: `herramientas/juntar.sh`, `echo C > .lote` y `siguiente.py 5 --lote C`.
+- 23: si `partes/voz.md` aún acaba en «## Sigue:», no la relances otra vez (ya lleva 2
+  tandas): lanza directamente su redactor en modo `repaso` y que marque ⚠️ lo que falte.
+- 24: sus 4 investigadores empezaron a las 02:42; relanza sólo los roles cuya parte
+  falte o acabe en «Sigue:» (desde donde quedó).
 - **19 Doraemon: COMPLETA y subida.** 2434 líneas, ✅27 ⚠️12 ❌0, 243 referencias,
   124 webs, 134 minutos citados, 79 hex, 3 hojas.
 - **20 Dr. Stone: COMPLETA y subida.** 2498 líneas, ✅27 ⚠️11 ❌0, 183 referencias,
@@ -51,8 +66,6 @@ subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
   197 referencias, 137 webs, 134 minutos citados, 55 hex, 3 hojas.
 - **22 Violet Evergarden: COMPLETA y subida.** 2396 líneas, ✅24 ⚠️8 ❌0,
   168 referencias, 116 webs, 270 minutos citados, 34 hex, 3 hojas.
-- 23 Lilo & Stitch: imagen, vídeo y texto listos; voz en su 2ª tanda; falta
-  el redactor.
 - Datos recolectados (gratis) para 19-30 (lote C entero).
 
 ### Lote D: series nuevas 37-56

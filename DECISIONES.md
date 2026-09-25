@@ -94,7 +94,7 @@ ep. 1, 14:20») y el siguiente ayudante lo confirma.
 - En China el personaje favorito de Attack on Titan es Mikasa, no Levi.
 
 <!-- lotes -->
-## 6. Avisos de los lotes (25-09-2026, 02:38 UTC)
+## 6. Avisos de los lotes (25-09-2026, 02:43 UTC)
 
 Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`). Cuando el dueño decida algo, que lo anote arriba, en su apartado.
 
@@ -157,6 +157,17 @@ Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`). Cuando 
   6 covers latinos; oír si el doblaje dice «Surge»). Más querido: Sung Jinwoo; cuadro de
   diálogo: la ventana del Sistema (`#112A39`, filete `#82F3FA`, rojo `#9F205C`). Láminas:
   A mostrador de la Asociación, B tablón de corcho, C salón del trono con Igris.
+
+### Lote B: 06-18 (repasos)
+
+- 10 K-On: más querida, Mio (Newtype 2009-2010, Saimoe 2010); Azusa la supera en votaciones
+  japonesas recientes y Yui ganó el Anime Grand Prix 2009. Cuadro de diálogo propio: el papel
+  del club a rotulador (cartel de reclutamiento del ep. 1, rojo y verde, ♪ dibujadas) más la
+  4-koma de globos ovalados; la caja blanca del juego de PSP es la que NO se usa. Láminas: A mesa
+  del té con la carta de Mugi (recomendada), B setlist en el escenario, C tablón con Azusa.
+  Ojo: en T1 ep. 2, 05:32 habla Ritsu, no Mio; falta oír quién dice «¡El club no es una
+  cafetería!». El único doblaje latino es el piloto no oficial de Elocuencia Studio (2020):
+  citarlo sólo como «el doblaje perdido».
 
 ### Lote C: repasos 19-30
 

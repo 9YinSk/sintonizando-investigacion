@@ -31,7 +31,7 @@ En esta cuenta: unos 33 dólares desde el piloto, contando la construcción del 
 | 24-sep | 35 One Punch Man | nueva (económico, en cadena) | redactor | Opus | 21 | 393 803 | 92 acciones; 2 353 líneas, 227 referencias, 55 webs, COMPLETA y subida. Total de la serie: ~1,7 M tokens (1,3 M Sonnet + 0,4 M Opus) |
 
 <!-- lotes -->
-## Costos de los lotes (25-09-2026, 02:38 UTC)
+## Costos de los lotes (25-09-2026, 02:43 UTC)
 
 Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`).
 
@@ -55,6 +55,17 @@ Copiados tal cual de `lotes/*.md` por la central (`juntar.sh --marcar`).
 | 33 | redactor (repaso corto) | Opus | 11 | 224 mil |
 | 34 | redactor (repaso corto) | Opus | 12 | 234 mil |
 | 36 | redactor (retomado desde §18) | Opus | 18 | 303 mil |
+
+### Lote B: 06-18 (repasos)
+
+| Serie | Rol | Modelo | Minutos | Tokens |
+|---|---|---|---|---|
+| 11 | texto | Sonnet | 12 | 168 mil |
+| 11 | voz | Sonnet | 12 | 198 mil |
+| 11 | imagen | Sonnet | 16 | 207 mil |
+| 10 | redactor (repaso) | Opus | 16 | 340 mil |
+| 11 | video | Sonnet | 21 | 233 mil |
+| 12 | texto | Sonnet | 13 | 176 mil |
 
 ### Lote C: repasos 19-30
 
