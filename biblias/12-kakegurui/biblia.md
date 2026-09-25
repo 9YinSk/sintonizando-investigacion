@@ -8,6 +8,27 @@ fecha: 2026-09-24
 # Biblia · Kakegurui — para #comandos-y-sorteos
 
 > [!important] Cómo se hizo, y sus límites
+> - **Segunda pasada (25-sep-2026, red abierta)**: un equipo de cuatro
+>   investigadores (imagen, vídeo, voz, texto) y un redactor. Se pudo usar:
+>   las APIs de Fandom (Kakegurui Wiki), **Doblaje Wiki**, Sketchfab,
+>   Poly Haven, ambientCG, Wikipedia, AniList y Arctic Shift (Reddit);
+>   **1051 imágenes de la wiki en 11 hojas de contacto** (3 en `hojas/`,
+>   §3.0); los **episodios 1 y 2 con doblaje latino** de
+>   [Internet Archive](https://archive.org/details/kakegurui-latino) y el
+>   **tráiler oficial** en [Dailymotion](https://www.dailymotion.com/video/x88p1dp),
+>   mirados con `fotogramas.py`; `estilo.py` para medir colores en 9
+>   fotogramas y 5 ilustraciones oficiales; `yt-dlp` para las fichas de
+>   fan dubs y covers (vistas reales).
+> - **Lo que no se pudo en la segunda pasada**: YouTube pidió iniciar
+>   sesión para ver vídeos (sólo dio fichas). Los vídeos mirados son SD:
+>   **854×480** los episodios y **512×288** el tráiler; la copia 720p
+>   Blu-ray se cortó dos veces. AnimeThemes dio 522. TV Tropes, Comic
+>   Natalie, TCRF y VGMdb dieron 403 o Cloudflare. TikTok bloquea `yt-dlp`.
+>   Crunchyroll no se usa.
+> - **Dos formatos de minuto**: `mm:ss` (por ejemplo 12:39) es un minuto
+>   **visto** en la copia de Internet Archive; `00:mm:ss` es el minuto del
+>   **subtítulo** de la primera pasada. Entre los dos hay de 1 a 8 segundos.
+> - **Primera pasada (24-sep-2026)**: lo que sigue.
 > - La red de esta sesión estaba cerrada. Fandom, Doblaje Wiki, TV Tropes,
 >   Tumblr, la web oficial del anime, la de Square Enix, Natalie, G123,
 >   Wayback Machine, Google Fonts y Arctic Shift daban **403** por curl o
@@ -33,6 +54,56 @@ fecha: 2026-09-24
 >   ⚠️ **dudoso**: una sola fuente, o lo describo de memoria. Lo de memoria
 >   siempre va marcado.
 
+> [!note] Segunda pasada · qué cambió
+> **Corregido (antes → ahora)**
+> - **Compositor del opening** «Deal with the devil»: «producción de
+>   TeddyLoid», según un TikTok → **letra, música y arreglo de ryo
+>   (supercell)**, leído en los créditos del ep. 1, en 3:02 (visto). Una
+>   sola fuente, pero es la pantalla misma (§11).
+> - **Voz latina de Kirari, Ririka y dirección**: «no encontrado ❌» →
+>   **Adriana Núñez** dobla a las dos gemelas; dirige **Guillermo Rojas**
+>   (Daniel Lacy en los eps. 17-21). Dos páginas de Doblaje Wiki por
+>   nombre. Se suman Sayaka, Runa, Itsuki, Midari, Yumemi, Kaede y Yuriko
+>   (§10).
+> - **Máscara de Ririka**: «gris `#8E8E94`» → **blanca**, según el texto
+>   «Appearance» de la wiki (§16, §18).
+> - **Luz de la sala del consejo**: «azul verdosa, de memoria» → **acuario
+>   turquesa medido**, `#30B5B9` y `#76FBF8`, en el ep. 2, 21:30 (visto)
+>   (§5, §17).
+> - **Rojo del blazer**: `#C9020F`, de la paleta de un fan → **`#D6362A`**,
+>   medido en 5 ilustraciones oficiales (va de `#C05051` a `#E5392C`; de
+>   noche, `#832B27`) (§16).
+> - **Licencias de Sketchfab**: «⚠️ comprobar» → leídas en su API: 5 son
+>   CC BY 4.0 y 2 son **CC BY-NC-ND** (sólo mirar). Madera de Poly Haven:
+>   CC0 confirmado (§4, §5).
+> - **Encuesta oficial**: Yumeko 5.ª y Kirari por debajo de Mary, antes con
+>   un solo resumen → lo cuenta **el propio Kawamoto** en un podcast
+>   (hilo traducido por un fan) (§9).
+> - **Kirari y Ririka salen en el ep. 2** (1×02, «A Boring Woman»), vistas
+>   en vídeo; las dos tienen la misma seiyū, Miyuki Sawashiro (§8).
+>
+> **Añadido**
+> - Hojas de contacto (§3.0). Opening, ending, tráiler y 3 escenas
+>   **mirados**, con minuto `mm:ss` (§2, §11, §12, §15).
+> - Colores medidos con `estilo.py` en fotogramas y arte oficial (§5, §16).
+> - Pachislot y pachinko oficiales, figuras ARTFX J y Union Creative,
+>   perfumes, cafés, exposición y SINoALICE (§3, §F).
+> - Fondos de pantalla de Wallhaven con tamaño medido (§17).
+> - Puntos nuevos del encargo: estilo y técnica (§A), texturas 2D (§B),
+>   gustos (§C), por qué la aman (§D), fan dubs (§E), colaboraciones (§F),
+>   obras parecidas (§G) y el mundo (§H). Tabla «Cumplimiento del encargo».
+> - Guía para IA de texto con frases reales por emoción (§18).
+>
+> **Sigue dudoso**
+> - Las citas de la **temporada 2 (××)**: el investigador de voz no halló
+>   la carpeta ×× en el espejo de subtítulos en esta pasada; esos minutos
+>   `2×…` son los de la primera pasada, sin volver a comprobar.
+> - Ririka con la cara visible en vídeo: no se vio.
+> - Las cartas y las manos en 3DCG: sigue con una fuente indirecta.
+>
+> **Los ⚠️**: había **73**. El recuento de ahora está al pie de la tabla
+> «Cumplimiento del encargo».
+
 ---
 
 ## 0 · El canal y lo que tiene que decir
@@ -44,6 +115,12 @@ Del inventario (`servidor/inventario.md`, sección LA SALA):
 
 Función según el encargo: **los comandos de los bots (juegos, sorteos,
 economía)**.
+
+> [!info] Esta biblia es general
+> Decisión del dueño (25-sep): la biblia sirve para cualquier uso
+> (láminas, vídeos, diseño, textos, doblaje), no sólo para Discord. El
+> canal #comandos-y-sorteos es una propuesta; ninguna otra biblia lo pide
+> hasta ahora, y si alguna lo pidiera no bloquea nada.
 
 > [!warning] La lista de comandos NO está en el inventario
 > El encargo dice «la lista está en servidor/inventario.md». La busqué con
@@ -97,9 +174,10 @@ alumno** (ver §2). La lámina 2 puede ser ese ranking.
 | Por qué Kakegurui encaja | Es **un colegio donde todo se decide jugando**. El consejo estudiantil **emite las fichas** («100万円チップ», ep. 1×02, 00:08:06), **publica un ranking** de lo que paga cada alumno (1×02, 00:03:42) y **organiza votaciones y sorteos**. Es justo lo que hace un bot de economía. |
 | Cuadro de diálogo propio | No hay globo propio verificado. Lo que la serie usa para poner texto en pantalla son **objetos**: la **carta** que sale de la caja, la **ficha** del consejo, la **placa de mascota** colgada al cuello («BOTTOM-FEEDER 0001 MITTENS», 1×03, 00:20:44) y los **papeles del consejo** (el «人生計画表», plan de vida, 1×04, 00:00:48). Y un gesto fijo: **los ojos que se ponen rojos** cuando Yumeko se emociona ✅. |
 | Objeto para la lámina | **La mesa del voto a piedra, papel o tijera** (ep. 1): la caja de cartas, las fichas en pilas y tres cartas boca arriba. En Blender: caja, cartas, fichas y tapete. Dato de producción: en el anime **las cartas y las manos que las giran se hicieron siempre en 3DCG** ⚠️ (lo dice el resumen de mi búsqueda en japonés sobre el director Hayashi; no pude abrir la página para saber cuál de los resultados lo cuenta). |
-| El más querido | **Mary Saotome**, 1.ª en el **concurso oficial de popularidad de Gangan Joker** («賭ケグルイ頂上戦», 2017) ✅. Yumeko, la protagonista, quedó **5.ª** ⚠️. |
+| El más querido | **Mary Saotome**, 1.ª en el **concurso oficial de popularidad de Gangan Joker** («賭ケグルイ頂上戦», 2017) ✅. Yumeko, la protagonista, quedó **5.ª**: lo dice también el autor, Kawamoto, en un podcast (traducción de un fan, §9). En AniList gana Yumeko (8732 favoritos) ✅. |
 | Letras | **Playfair Display** o **Cormorant Garamond** para los rótulos elegantes. **Bodoni Moda** para cifras de fichas. **Shippori Mincho B1** o **Zen Antique** para algún kanji. Todas traen tildes, ñ, ¿ y ¡: comprobado en el archivo. |
-| Voz latina | Yumeko **Jocelyn Robles** ✅, Mary **Valentina Souza** ✅. Estudio **Sysdub**, México ✅. Kirari y Ririka: **no encontré** su voz latina. |
+| Voz latina | Yumeko **Jocelyn Robles** ✅, Mary **Valentina Souza** ✅, Kirari y Ririka **Adriana Núñez** ✅ (segunda pasada). Estudio **Sysdub**, México; dirige **Guillermo Rojas** ✅. |
+| Lo más visto en vídeo | La **cara de Yumeko con los ojos rojos**, ep. 1, 12:15-12:43 (visto); **Mary con la placa «ミケ»**, ep. 2, 1:00; **Kirari junto al acuario turquesa**, ep. 2, 21:22-21:40. |
 | Tono | Elegante y enfermizo: rojo y negro, sonrisas que dan miedo, **caras exageradas** («顔芸»). Nada de colores alegres ni de chibis. |
 | Juegos de la franquicia | **Kakegurui ALL IN** (G123, 23 de marzo de 2026): un **tablero con dados, monedas y cartas** ✅. Y **Kakegurui Cheating Allowed** (Avex, cerró el 27 de marzo de 2020) ✅. |
 
@@ -111,6 +189,49 @@ Todas salen de los subtítulos de
 [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Kakegurui):
 el texto y el minuto están comprobados ✅. Lo que **se ve** en cada una
 (postura, luz) lo describo de memoria ⚠️: mira el fotograma antes de usarlo.
+Las escenas de la tabla 2.0 sí están **vistas** (segunda pasada).
+
+### 2.0 Visto en vídeo (segunda pasada)
+
+Fuente: episodios 1 y 2 con doblaje latino en
+[Internet Archive](https://archive.org/details/kakegurui-latino)
+(854×480) y el tráiler oficial de Netflix en
+[Dailymotion](https://www.dailymotion.com/video/x88p1dp) (512×288),
+recorridos con `fotogramas.py`. Los minutos son los de esas copias.
+No llegan a 1080p: sirven para pose, minuto y color, no para calcar.
+
+| Dónde | Minuto | Qué se ve | Sirve para |
+|---|---|---|---|
+| Ep. 1 | 0:00-1:33 | Prólogo: un chico pierde contra Mary en el aula | abrir, tono |
+| Ep. 1 | 0:15 | Aula del prólogo: ventana fría, cara cálida (`#D0C1B6` piel, `#43322D` sombra) | luz de aula |
+| Ep. 1 | 1:50-3:26 | Opening entero: dados, cartas, peces y fichas sobre fondo oscuro con acentos rojos; la cámara gira | ritmo, objetos |
+| Ep. 1 | 3:02 | Créditos del opening: «Deal with the devil», Tia; letra, música y arreglo de **ryo (supercell)** | dato de música |
+| Ep. 1 | 6:05-7:41 | La mesa del voto a piedra, papel o tijera: focos sobre la mesa, el aula a oscuras | **objeto del canal** |
+| Ep. 1 | 6:09-6:41 | Mary, de pie junto a Yumeko, mano a la altura del hombro con la palma abierta, explica las reglas | **explicar** |
+| Ep. 1 | 6:29 | La mesa: negro violáceo `#11091F` domina el 38 % del fotograma | fondo |
+| Ep. 1 | 7:29-7:41 | Yumeko sonríe con los ojos cerrados, manos juntas cerca del pecho, inclinada hacia Mary | **animar** |
+| Ep. 1 | 11:55-12:07 | Yumeko echa el cuerpo adelante, brazo en alto hacia Mary | **acusar** |
+| Ep. 1 | 12:15-12:43 | **Los ojos rojos**: boca muy abierta, cabeza atrás y luego adelante, dedos en garra cerca de la cara | **celebrar** |
+| Ep. 1 | 12:31 | Mary: los ojos llenan el plano, con lágrimas | **miedo** |
+| Ep. 1 | 12:39 | Yumeko transformada: fondo `#1D171C` (53 %), rojo `#C23345`, piel `#EFDADC` | paleta |
+| Ep. 1 | 22:40-24:19 | Ending entero: Yumeko baila en silueta blanca entre pétalos; el aura pasa de rojo a verde, magenta y otra vez rojo | cierre |
+| Ep. 1 | 23:25 | Créditos del ending: «LAYon-theLINE», D-selections, TECHNOBOYS PULCRAFT GREEN-FUND | dato de música |
+| Ep. 2 | 1:00 | Mary furiosa levanta en el puño la **placa con cadena «ミケ»** | **regañar** |
+| Ep. 2 | 5:00 | Kirari sola en un pasillo con luz lavanda `#9495D1`, mirada a cámara | **presentar** |
+| Ep. 2 | 20:55 | Vestíbulo: araña dorada, madera oscura | fondo |
+| Ep. 2 | 21:16-21:19 | Kirari de perfil, sonrisa entreabierta, ojos entrecerrados | **pensar** |
+| Ep. 2 | 21:22-21:40 | La sala del consejo con el **acuario**: agua `#30B5B9` y `#76FBF8` | fondo con luz |
+| Ep. 2 | 21:31-21:34 | Kirari, mano en la barbilla, junto al acuario | **proponer** |
+| Ep. 2 | 21:37 | Kirari a la cabecera de la mesa larga del consejo | **presidir** |
+| Tráiler | 0:24 | Mary: «Today's just not your day, huh?» | burla |
+| Tráiler | 0:36 | Yumeko: «Looks like this just got pretty interesting» | gancho |
+| Tráiler | 1:06 | Primer plano de ojos: «Now we're even» | tensión |
+| Tráiler | 1:30 | Créditos del staff: Hayashi, Kobayashi, Akita, TECHNOBOYS, MAPPA | dato |
+
+Enlaces con minuto: [tráiler, 0:36](https://www.dailymotion.com/video/x88p1dp?start=36)
+y [tráiler, 1:30](https://www.dailymotion.com/video/x88p1dp?start=90).
+Los minutos vistos coinciden con los del subtítulo (tabla 2.2) con 1 a 8
+segundos de diferencia.
 
 ### 2.1 El sistema del colegio = el sistema de un bot
 

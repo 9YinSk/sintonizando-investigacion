@@ -224,6 +224,25 @@ por mí con la API de Sketchfab** (`api.sketchfab.com/v3/models/<id>`):
   rampa de color para el sombreado en bloques — es la técnica estándar para
   *toon shading* en Blender, no una confirmación oficial del estudio (ya
   usan Toon Boom 2D, no Blender) ⚠️.
+- **Texturas encima del render** (para que no quede plano de más): la técnica
+  estándar es un nodo **Shader to RGB** + **ColorRamp** en vez de un Principled
+  BSDF (sombreado en bloques real, no degradado), y luego una **textura de
+  papel o grano superpuesta** sobre todo el render en la fase de composición
+  (no sobre el material) ✅ dos fuentes que coinciden ([Blender Studio, blog
+  oficial](https://studio.blender.org/blog/cartoon-character-shading-with-geometry-nodes/),
+  [artisticrender.com](https://artisticrender.com/cel-shading-in-blender/),
+  en inglés). Sigue siendo una técnica **genérica** de *cel shading*, no algo
+  que el estudio de Rick and Morty haya confirmado usar (ellos animan en 2D
+  con Toon Boom, no en Blender).
+- **Filtros de animación de la serie** (grano, brillo, aberración cromática):
+  **no encontré** una fuente que confirme qué filtro de posproducción usa la
+  serie en pantalla completa (busqué «Rick and Morty grain filter chromatic
+  aberration VHS look episode intro visual effect», en inglés, sin resultado
+  específico del estudio, sólo tutoriales genéricos de VHS). Sí hay grano y
+  aberración cromática **dentro** de escenas concretas de cable
+  interdimensional (efecto de «señal de TV vieja»): lo tiene que confirmar
+  quien mire esas escenas fotograma a fotograma (video), yo no lo vi
+  directamente.
 
 **Encuadres y composición**: no encontré una entrevista o *making of*
 específico sobre planos/ángulos por emoción del equipo de animación; lo que
@@ -447,6 +466,9 @@ búsquedas de las ~50 del cupo):
   visual effect» → sin resultado útil específico de la serie.
 - «Pocket Mortys screenshot battle dialogue box interface gameplay» → punto
   11, estructura de combate (Wikipedia).
+- «Blender toon shader add texture overlay paper grain cel shaded render
+  tutorial» → punto 18, técnica de «texturas encima» (Shader to RGB +
+  ColorRamp, textura de papel en composición).
 
 **Red directa** (curl/Python, sin pasar por el buscador):
 - API de **Fandom** (`rickandmorty.fandom.com/api.php`, `action=parse` y
