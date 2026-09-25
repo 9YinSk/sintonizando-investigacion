@@ -10,7 +10,7 @@ fecha: 2026-09-25
 > [!important] Cómo se hizo (léelo primero)
 > - **Toy Story es una franquicia de películas, no una serie.** No hay capítulos, opening ni ending. Son 5 películas (1995, 1999, 2010, 2019 y 2026), los cortos *Toy Story Toons* (*Hawaiian Vacation*, *Small Fry*, *Partysaurus Rex*), 2 especiales de TV (*Toy Story of Terror!*, 2013; *That Time Forgot*, 2014) y la serie *Forky Asks a Question* (2019).
 > - La hicieron **4 investigadores** (imagen, vídeo, voz, texto) y la escribió un redactor con sus partes (`partes/*.md` y `partes/*.json`). **No se añadió nada que no esté en las partes o en las hojas de contacto.** Lo que falta va con ⚠️ o ❌ y se explica.
-> - **Los vídeos se miraron de verdad**, pero en **Dailymotion**: YouTube pide iniciar sesión desde el servidor. Se vieron fotograma a fotograma 9 clips (tráileres de TS1 y TS5, capítulos de TS1, el incinerador de TS3 en latino, el flashback de Jessie y *Partysaurus Rex*). Resolución de esos clips: 720p. **Los minutos son del clip citado, no de la película entera.**
+> - **Los vídeos se miraron de verdad**, pero en **Dailymotion**: YouTube pide iniciar sesión desde el servidor. Se vieron fotograma a fotograma 8 clips (tráileres de TS1 y TS5, capítulos de TS1, el incinerador de TS3 en latino, el flashback de Jessie y *Partysaurus Rex*). Resolución de esos clips: 720p. **Los minutos son del clip citado, no de la película entera.**
 > - **Las voces latinas se oyeron**: 5 muestras oficiales de Doblaje Wiki pasadas por `voz.py` (frase textual, tono en Hz, velocidad).
 > - Película en 3D: **no hay manga, globos ni onomatopeyas en pantalla**. Eso cambia los puntos 5, 6 y 19 (se explica en cada uno).
 
@@ -330,7 +330,7 @@ Según `estilo.py`: sombreado **degradado, casi sin línea**. Saturación del 45
 
 Fichas de `pixar.fandom.com` (inglés) y Doblaje Wiki, leídas por la parte de voz ✅ salvo aviso. Más detalle en el punto 13.
 
-- **Woody** (Comisario Woody Pride). Muñeco de trapo vaquero con cordón y disco de voz en la espalda. Objetos: placa de sheriff, sombrero, **bota con «ANDY»**. Va con Buzz, Jessie, Bullseye y Bo Peep. Líder en TS1-3; en TS4 se va con Bo Peep como «juguete perdido»; en TS5 es **secundario**.
+- **Woody** (Sheriff Woody Pride; en el latino de TS1, «Comisario»). Muñeco de trapo vaquero con cordón y disco de voz en la espalda. Objetos: placa de sheriff, sombrero, **bota con «ANDY»**. Va con Buzz, Jessie, Bullseye y Bo Peep. Líder en TS1-3; en TS4 se va con Bo Peep como «juguete perdido»; en TS5 es **secundario**.
 - **Buzz Lightyear**. Guardián Espacial. En TS1 cree que es un guardián de verdad; en casi cada película aparece otro Buzz que también lo cree (gag fijo). Objetos: alas, casco, láser, botón de frases. Pareja de Jessie; en TS5 se le declara y Bonnie y su amiga Blaze los «casan» jugando ✅ Pixar Wiki (una fuente).
 - **Jessie**. Vaquera, desde TS2. Amigable, excitable, lista, **canta al estilo tirolés (*yodel*)**. Claustrofobia y miedo a no ser querida: Emily la regaló en una caja. Va con Bullseye. **Nueva sheriff al final de TS4 y protagonista de TS5** ✅ Pixar Wiki + tráiler visto.
 - **Rex**. Tiranosaurio de juguete, **tímido y cariñoso**, odia discutir, se fía de todos. Miedo: que lo reemplacen. Fan del videojuego de Buzz. Nervioso al viajar.
@@ -825,7 +825,7 @@ Con el punto 3 (modelos 3D) y el 4 (texturas reales), las tres capas están cubi
 
 ## Punto 20 · Gustos y detalles
 
-De las fichas de Pixar Wiki (parte de voz). ⚠️ **Los juguetes no tienen cumpleaños ni altura oficiales**: son objetos fabricados. No se encontró un *databook* con esos datos y **no se inventó ninguno**.
+De las fichas de Pixar Wiki (parte de voz). ⚠️ **No se encontraron cumpleaños ni alturas oficiales**: son juguetes, objetos fabricados, y no apareció ningún *databook* con esos datos. **No se inventó ninguno**.
 
 | Personaje | Le gusta | No soporta | Cómo se ve | Lo que siempre lleva |
 |---|---|---|---|---|
@@ -1068,3 +1068,103 @@ Tres ideas distintas: **cartón de día**, **cristal y neón de noche**, **tele 
 ### Confirmado y dudoso
 - **Confirmado (dos fuentes o visto):** reparto de Woody y Rex con sus relevos; muerte de Carlos del Campo; hex de fotogramas y de Buzz; poses con minuto; reglas del mundo y arcos; colaboraciones de NASA, Fortnite, Levi's y Toy Story Land; efectos de sonido de *Jurassic Park*; letras libres con tildes, ñ, ¿ y ¡.
 - **Dudoso (una fuente):** Buzz e Irán Castillo en TS2-5; reparto de TS5; hex de Woody, Jessie y Rex (una imagen cada uno); fan art (sólo Safebooru); Kingdom Hearts III; Disney On Ice; la trama de TS5.
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Pósters de TS1, TS4 y TS5; renders con pose viva (H1-1, H1-5, H1-35); fotos fijas de 6K; bocetos y diseños previos (Buzz rojo, Rex naranja); cajas; single de TS5. Las hojas 3 y 4 ya no están en el contenedor |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 7 escenas de 4 películas y un corto, vistas con minuto (E-1 a E-24). Pero en 720p: Dailymotion no da más y YouTube está bloqueado. Los 4K de la wiki no tienen minuto |
+| 3 · Fan art y 3D con licencia | ✅ | 8 piezas de fan art con autor (origen según Safebooru ⚠️); 13 modelos de Sketchfab con autor y licencia, incluidos la camioneta de Pizza Planet, el RC y 3 *rigs*; fotos CC de Flickr. Sin escenarios 3D completos |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | 13 tomas medidas en fotogramas y 5 sitios medidos en imágenes de la wiki; texturas CC0 de ambientCG (cartón, plástico, tela). Faltan madera y vaquero |
+| 5 · Tipografía, una letra por uso | ⚠️ | Logo descrito y 6 letras libres comprobadas con fontTools (tildes, ñ, ¿, ¡). Sin letra libre para la cartela del tráiler, el HUD de píxel y el cartel western; créditos y subtítulos sin identificar |
+| 6 · Cómo hablan en pantalla | ⚠️ | Explicado por qué no hay globos y cuál es el cuadro propio (caja con estallidos, suela escrita, cartela, pantalla, cartel). El manga y los cómics oficiales existen, pero no se pudieron ver por dentro |
+| 7 · Personajes y popularidad | ⚠️ | 14 personajes con rasgos y objetos. No se encontró encuesta oficial; se usaron 3 rankings de fans y los hilos de Reddit |
+| 8 · Doblaje latino y frases textuales | ⚠️ | Reparto de las 5 películas; Woody y Rex con dos fuentes; Buzz, Jessie y TS5 sólo con Doblaje Wiki. 5 frases textuales oídas con `voz.py` (audio oficial, sin minuto de película). Ningún clip doblado transcrito con minuto |
+| 9 · Música y sonido | ✅ | Pistas de las 4 bandas sonoras, títulos latinos, tema de cada escena emotiva (uno deducido ⚠️), rugido de Rex = *Jurassic Park* con fuente, sonidos oídos en el tráiler |
+| 10 · Vídeos y tendencias | ⚠️ | 2 tráileres vistos enteros con minuto y 5 clips más. TikTok y YouTube bloqueados: tendencias sólo por título, sin vistas ni minuto |
+| 11 · Videojuegos | ⚠️ | Interfaz de 3 juegos vista en capturas de Steam (retrato, píldora dorada, tele vieja con píxeles). No hay cajas de diálogo en las capturas; TCRF da 403 |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Frases, escenas, memes, hilos con votos y 9 cosas que no hacer |
+| 13 · Personajes a fondo | ⚠️ | Historia, miedo, cómo habla (con Hz medidos) y dinámicas de los 4 y de 7 secundarios. Tabla de caras: faltan la vergüenza de todos y la tristeza de Woody y Rex |
+| 14 · Poses analizadas | ✅ | 28 poses con clip y minuto: Woody 8, Buzz 7, Jessie 7, Rex 6; y qué pose para qué |
+| 15 · Vestuario y hex medidos | ✅ | Hex medidos de los 4 en imágenes de estudio; cambios por película de Buzz. Corregidos el sombrero de Jessie y el azul de Rex. Una imagen por personaje ⚠️ |
+| 16 · Ciudades, paisajes y fondos de pantalla | ⚠️ | 12 sitios con su luz y 10 fondos de fans con tamaño y autor. No se encontraron fondos oficiales descargables |
+| 17 · Guía para IA de imagen y de texto | ✅ | Hecha por el redactor: rasgos fijos con hex, línea, luz, encuadre, palabras que ayudan y que estropean, referencias; voz de cada personaje y frases reales por emoción |
+| 18 · Estilo y técnica, cómo replicarlo | ✅ | Programas y cifras de producción con fuente; material de Blender, luz, cámara, *rigs*; Photoshop; encuadres por emoción |
+| 19 · Texturas 2D | ✅ | No hay tramas (3D); cubiertos los patrones de ropa, emblemas y material impreso, con texturas CC0 equivalentes |
+| 20 · Gustos y detalles | ⚠️ | Gustos, odios, cómo se ven y objeto fijo de 10 personajes. No se encontraron cumpleaños ni alturas oficiales (son juguetes); no se inventaron |
+| 21 · Por qué la aman | ⚠️ | Taquilla, crítica, debates, identificación; 4 escenas que hacen llorar y 4 de emoción, con luz, música y reacción. Minutos del clip, no de la película; el final de TS3 y la escena de TS5 sin minuto |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Títulos de fandubs y tendencias sin vistas ni canal (YouTube bloqueado); clips doblados en Dailymotion; la campaña de firmas como fenómeno de comunidad |
+| 23 · Colaboraciones y cruces | ✅ | NASA, Fortnite, Levi's, café temático, Funko, menú infantil, Disney On Ice, exposición, cosplay con materiales. Sin foto de cosplay con autor |
+| 24 · Obras parecidas | ✅ | 3 obras con fuente, la influencia reconocida y las 4 láminas del servidor que se parecen |
+| 25 · Mundo, historia y símbolos | ✅ | 5 reglas, los 5 arcos (TS5 con una fuente ⚠️), objetos y vocabulario |
+| 3 conceptos de lámina | ✅ | A #🎧・demos (caja de Buzz) ⭐, B #🎬・castings (la Garra), C #📺・que-estas-viendo (la tele de *Woody's Roundup*): objeto en Blender, personaje con pose y minuto, cuadro y letra, dónde va cada texto, profundidad; lámina 2 en A y B |
+| 40 fuentes distintas | ⚠️ | Más de 70 fuentes consultadas en las partes y más de 50 webs enlazadas aquí. Pero 19 enlaces van a la portada del medio: la parte no guardó el artículo |
+| Oficiales | ✅ | Pixar.com, Disney, Steam, Disney World, Levi's, entrevistas y datos de producción (Wikipedia, IEEE Spectrum, VFX Voice). No se leyó un *artbook* ni comentarios de Blu-ray |
+| Otros idiomas | ⚠️ | Inglés y español. La obra es estadounidense: el japonés o el chino no se buscaron (sólo existe el manga de Tokyopop) |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Pixar Wiki, Doblaje Wiki, Sound Effects Wiki, Toy Story Merchandise Wiki. TCRF y su copia en Wayback dan 403. TV Tropes no se consultó |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift, TheRPF |
+| Arte | ✅ | Safebooru, Danbooru, Pixiv y X (origen), ArtStation, Wallhaven, Openverse |
+| Vídeo | ⚠️ | Dailymotion e Internet Archive. YouTube y TikTok bloqueados |
+| Código y recursos | ⚠️ | Sketchfab, ambientCG, Fontsource, MusicBrainz. GitHub no se usó |
+| Doblaje latino | ✅ | Doblaje Wiki por su API, muestras oídas con `voz.py`, prensa (Milenio, Infobae). ANMTV no se consultó |
+| Hojas de contacto | ✅ | 3 en `hojas/`, descritas número a número en la sección 2 |
+| `referencias.json` | ✅ | 197 referencias de todas las partes, las mejores primero |
+
+## Bitácora de búsqueda
+
+Juntada de las cuatro partes (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md`) y del recolector.
+
+### Paso 0 · Recolector (`herramientas/recolectar.py`, 25-sep-2026, sin IA)
+- Respondieron: Doblaje Wiki (ficha, reparto, 14 muestras de audio, datos de interés), Fandom `pixar` (imágenes grandes de Woody, Buzz, Jessie y Rex; textos de personalidad), Danbooru (etiquetas), Safebooru (fan art), Wallhaven, Sketchfab, Openverse, Dailymotion (https://api.dailymotion.com), Internet Archive, MusicBrainz, Steam y Reddit.
+- Fallaron: AniList (no es anime; https://anilist.co) y AnimeThemes (error 522). El top de Danbooru salió contaminado.
+- `investigar_serie.py --serie "Toy Story" --wiki pixar --paginas "Woody" "Buzz Lightyear" "Jessie" "Rex"`: 712 imágenes enlazadas, 211 grandes, 5 hojas. Quedan 3 en `hojas/`.
+
+### Imagen (puntos 1, 3, 15, 16, 19 y 23)
+- Miró las 5 hojas de contacto una por una.
+- API de Fandom (inglés; la wiki de Pixar no tiene versión en español): wikitext de Woody y «Buzz Lightyear Variations»; imágenes de «Andy's House», «Al's Toy Barn», «Bonnie's House», «Sunnyside Daycare», «Second Chance Antiques», «Star Command», «Woody's Roundup»; búsquedas de texto sobre el rediseño de Buzz y la ropa de Woody.
+- `estilo.py` sobre 4 imágenes de personaje y 5 de sitio.
+- Sketchfab propio (https://api.sketchfab.com/v3/search): «Pizza Planet truck», «Toy Story RC car».
+- ambientCG (https://ambientcg.com/api/v2/full_json): Cardboard, Fabric, Plastic; Denim sin resultado.
+- Buscador web, 7 búsquedas (inglés y español): Buzz y la NASA; Fortnite; cosplay de armadura de Buzz; Levi's y marcas 2026; Woody's Lunch Box; cambios de Buzz en TS4; fondos oficiales de Pixar.
+- Fuentes nuevas: Space.com, Smithsonian, NME, Dexerto, Levi's, WWD, Disney World, WDWInfo, Instructables, TheRPF, Toy Story Merchandise Wiki, ficha de Bandai.
+
+### Vídeo (puntos 2, 4, 9, 10 y 14)
+- Dailymotion (API, inglés): «Toy Story Andy's room playtime scene», «Toy Story 1995 Chapter Number 001/002/003», «Toy Story Andy's Birthday», «Toy Story 2 Jessie When She Loved Me», «Toy Story 2 Jessie introduction scene», «Toy Story Rex I wasn't scary enough», «Toy Story 3 Rex video game controller», «Toy Story Buzz Spanish mode Lightyear». El canal «Sir Evan-McClintock Senior» sólo tiene 6 capítulos de TS1 (9, 11, 15, 16, 19 y 28).
+- Mirados con `fotogramas.py`: `x89nzvp` (128 fotogramas), `x3mvnel` (97), `xa0f34q` (90), `x8lhmv2` (65), `x7xdru9` (33), `x6ifyrz` (18), `x8ljndt` (13). `x343p60` resultó ser anuncios de DVD y `x2wyk69` un póster fijo.
+- `estilo.py` sobre 14 fotogramas.
+- MusicBrainz (API): pistas de TS1-4, edición en español de TS4, *Toy Story of Terror!*.
+- Sound Effects Wiki (API): 3 efectos reciclados.
+- Wikipedia: error 429 (límite); no se insistió.
+- Sin buscador web.
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21 y 22)
+- Doblaje Wiki (API `action=parse`): Toy Story 1 a 5.
+- Pixar Wiki (API): Woody, Buzz, Jessie, Rex, Hamm, Mr. Potato Head, Slinky Dog, Bo Peep, Sid, Lotso, Forky, Bullseye, Buttercup, Gabby Gabby.
+- `voz.py` sobre 5 muestras oficiales: Woody TS1 y TS4, Buzz TS1, Jessie TS4, Rex TS1.
+- `fotogramas.py` sobre `x3mvnel` y `xa0ekdy`.
+- Reddit por Arctic Shift (https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=toystory): «cry», «when she loved me», «underrated» (el parámetro correcto es `query=`, no `q=`).
+- Buscador web, unas 10 búsquedas (español salvo aviso): taquilla y crítica de TS5; encuesta oficial de personajes (sin resultado); ranking de fans (resultados en inglés); Carlos Segundo (sigue vivo) y la muerte de Carlos del Campo; su despedida; fandubs de «Yo soy tu amigo fiel»; el incinerador (inglés); el cameo de Sid (inglés); Bo Peep y el feminismo; la crisis de Forky.
+- Fuentes nuevas: Infobae, El Tiempo Monclova, Espinof, ranker.com, screenrant.com, entoin.com, Milenio, El Horizonte, Info7, UnoTV, Sipse, Tribuna, KCH FM, Diario.mx, PopMatters, SlashFilm, El Español, Hipertextual, Tomatazos, Slate, BioBioChile, KQED, Syfy, Wisecrack, La Máquina Medio, diariodecuyo.com.ar, *El Dubbcast*.
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24 y 25)
+- Buscador web, 10 búsquedas en inglés: *The Brave Little Toaster* y Lasseter; RenderMan y la iluminación; por qué no humanos; Marionette y Presto; material de juguete en Blender; letra del logo; TCRF; películas de juguetes vivos; la regla de quedarse quietos; letra de los créditos.
+- Páginas leídas: madegooddesigns.com, VFX Voice, Wikipedia «Toy Story», INKR (sin imágenes), tcrf.net (403, también en Wayback).
+- Pixar Wiki (API): argumento de TS1-4, «Toy Story (Manga)», «Pizza Planet Truck», búsquedas de «Woody's Roundup», «The Claw», la regla de quedarse quietos.
+- Imágenes miradas: capturas de Steam en 2 hojas propias, la caja de Buzz y el logo recortado.
+- fontTools sobre 6 letras de Fontsource.
+- Sketchfab: *rigs* de Woody (7 resultados) y Buzz (8).
+- Steam (`appdetails`, en español): los 3 juegos.
+- Google Books: sin cuota; no se insistió.
+- Fuentes nuevas: IEEE Spectrum, Animation Obsessive, Creative Bloq, themorphicstudio.com, comicbook.com, geezezone.com, Den of Geek, thepopculturestudio.com.
+
+### Redactor
+- Leyó las 4 partes, los `datos-*.md`, los 5 JSON, el encargo, las reglas del dueño, el inventario y DECISIONES.md.
+- **Miró las 4 hojas de `hojas/`** y juntó `merchandising_01.jpg` debajo de `personajes_02.jpg` para dejar 3.
+- Corrigió con las hojas el sombrero de Jessie, el azul de Rex y varios números de hoja (ver «Lo que corregí»).
+- Escribió el punto 17 y los 3 conceptos.
+- Juntó `referencias.json`: 197 entradas de `imagen.json`, `video.json`, `voz.json`, `texto.json` y `datos.json`, sin el fan art ni los fondos que no son de Toy Story.
+- Miró los canales que piden otras biblias (#demos, #castings, #que-estas-viendo) para anotar los choques.
+
+### Lo que NO se encontró (junto)
+Encuesta oficial de popularidad · fondos de pantalla oficiales · cumpleaños y alturas oficiales (son juguetes; no se inventaron) · globos del manga y de los cómics · letra de los créditos de 1995 · TCRF completo · vistas y canales de fandubs · tendencias de TikTok y YouTube con minuto · frases de clips doblados con minuto · vergüenza de los cuatro con fotograma · modelos 3D de escenarios · textura de vaquero y de madera · foto de cosplay con autor · estudio y dirección de TS2, TS4 y TS5.

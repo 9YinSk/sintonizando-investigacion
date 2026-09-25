@@ -70,6 +70,32 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
     (la cebolla es en un campo de verduras); hay dos copias con relojes distintos (las de Dailymotion
     van marcadas (DM)). No poner en la lámina fija la noticia de Obregón y *Shrek 5*.
 
+- **60 Toy Story** (COMPLETA, 1170 líneas, 197 referencias, 55 webs; ✅20 ⚠️17 ❌0): sin encuesta oficial
+  de popularidad; en listas de fans ganan Woody y Buzz, pero en el canon Jessie es la nueva sheriff
+  (protagonista de TS5) y los Marcianitos son el secundario más querido del fandom. Cuadro de diálogo:
+  no hay globos (3D), el texto va en objetos — el estallido amarillo de la caja de juguete, la suela
+  con «ANDY» a rotulador, la cartela blanca del tráiler y el cartel western de *Woody's Roundup*
+  (letras Baloo 2, Luckiest Guy, Orbitron, con tildes/ñ/¿/¡). Láminas: A #demos ⭐ «La caja de tu voz»
+  (Buzz), B #castings «La Garra de Pizza Planeta» (los Marcianitos y Woody), C #que-estas-viendo
+  «La tele de *Woody's Roundup*» (Jessie y Rex).
+  - Choque: #demos también lo piden Evangelion y Hellblade (sólo nota, no bloquea).
+  - Corregido con las hojas: el sombrero de Jessie es rojo, no amarillo; el azul de Rex era el de su caja.
+  - Por comprobar de oído: las frases latinas del incinerador (Dailymotion `x3mvnel`) y las de los
+    Marcianitos, que nadie transcribió. 19 de las 55 webs enlazan a la portada del medio, no al artículo.
+
+- **61 Kung Fu Panda** (COMPLETA, 1147 líneas, 159 referencias, 52 webs; ✅21 ⚠️16 ❌0): más querida,
+  **Tigresa** (80 dibujos en Danbooru contra 37 de Tai Lung y 35 de Po; sin encuesta oficial). Tai Lung
+  es el villano favorito en Reddit; Po es la cara de la saga (Omar Chaparro en las 4 películas en
+  latino). Cuadro de diálogo: no hay globo, es **el pergamino** — el Sacred Scroll beige con posturas
+  dibujadas y un yin-yang, o el Pergamino del Dragón dorado que refleja a quien lo lee; también el
+  cartel tallado de la fonda. Letras: Rampart One y Yuji Syuku (tildes/ñ/¿/¡ OK). Láminas: A
+  #material-de-clase ⭐ (Shifu y Tigresa con un Sacred Scroll), B #demos o #presentaciones (Po ante el
+  Pergamino del Dragón), C #general (el Sr. Ping en la fonda).
+  - ⚠️ Punto 13 sin cerrar del todo: faltan caras propias de Tigresa, Po, Shifu, Oogway y el Sr. Ping
+    por algunas emociones (relanzado 2 veces, tope de la skill).
+  - Por comprobar de oído: «¡Skadoosh!» y «No hay ingrediente secreto» en el doblaje latino.
+  - YouTube bloqueado por login: los fotogramas quedaron en 320-1280 px, no en 1080p.
+
 ## Costos
 
 | Serie | Rol | Modelo | Minutos | Tokens |
@@ -78,3 +104,4 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
 | 58 | redactor | Opus | 25 | 388 mil |
 | 59 | imagen | Sonnet | 17 | 261 mil |
 | 59 | video, voz, texto y redactor | Sonnet / Opus | — | sin medir (sesión .105; su aviso de fin se perdió) |
+| 60 | redactor (puntos 18-25 y cierre) | Opus | — | sin medir (aviso de fin no trajo tokens) |
