@@ -378,25 +378,25 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Death_Note#Datos%20de%20inter%C3%A9s
 - Eduardo Garza fue llamado para hacer la audición para uno de los protagonistas. Sin embargo, a pesar de su amistad con los dueños de la empresa, no pudo asistir debido a diferencias entre la empresa y la Asociación Nacional de Actores.
 - Es uno de los pocas series de anime donde es pronunciada correctamente la 'R' japonesa, que suena como "ere", a diferencia de otros doblajes donde se pronuncia "erre", o "ele".
 
-## Los personajes más dibujados por los fans (Danbooru, 3464 dibujos de «death_note»)
+## Los personajes más dibujados por los fans (Danbooru, 3465 dibujos de «death_note»)
 _Fuente: https://danbooru.donmai.us/posts?tags=death_note_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hatsune_miku · 146428 dibujos
-2. hakurei_reimu · 101363 dibujos
-3. kirisame_marisa · 87763 dibujos
-4. remilia_scarlet · 62707 dibujos
-5. izayoi_sakuya · 53435 dibujos
-6. artoria_pendragon_(fate) · 46261 dibujos
-7. kochiya_sanae · 41230 dibujos
+1. hatsune_miku · 146438 dibujos
+2. hakurei_reimu · 101365 dibujos
+3. kirisame_marisa · 87765 dibujos
+4. remilia_scarlet · 62708 dibujos
+5. izayoi_sakuya · 53436 dibujos
+6. artoria_pendragon_(fate) · 46262 dibujos
+7. kochiya_sanae · 41231 dibujos
 8. konpaku_youmu · 41018 dibujos
-9. cirno · 40993 dibujos
+9. cirno · 40995 dibujos
 10. admiral_(kancolle) · 39053 dibujos
-11. pikachu · 17607 dibujos
+11. pikachu · 17609 dibujos
 12. ayanami_rei · 10518 dibujos
 13. monkey_d._luffy · 8297 dibujos
 14. son_goku · 7231 dibujos
-15. izumi_konata · 6574 dibujos
+15. izumi_konata · 6577 dibujos
 16. uzumaki_naruto · 5865 dibujos
 17. sailor_moon · 4900 dibujos
 18. lelouch_vi_britannia · 3222 dibujos
@@ -414,12 +414,12 @@ _Fuente: https://api.dailymotion.com_
 - Death Note · 1:42 · Télé 7 Jours · 57 vistas · https://www.dailymotion.com/video/x9o9pzy
 - Death note · 3:46 · Mike · 46 vistas · https://www.dailymotion.com/video/x4lpoz
 **«Death Note doblaje latino»**
+- Death Note · 1:42 · Télé 7 Jours · 57 vistas · https://www.dailymotion.com/video/x9o9pzy
 - death note · 0:47 · mouad bouzerda · 14 vistas · https://www.dailymotion.com/video/x2n3ft
 - Death Note - Ending (Españo Latino) · 1:10 · Takeshi · 11 vistas · https://www.dailymotion.com/video/x394jf
+- Death Note Theme - Death Note Theme {Instrumental} · 0:39 · TheMadnessIsPurple · 7 vistas · https://www.dailymotion.com/video/x9jony
 - Death note · 3:58 · Pearlnoir · 6 vistas · https://www.dailymotion.com/video/x5env6
 - Death note · 3:40 · lust8 · 5 vistas · https://www.dailymotion.com/video/x5f5k1
-- Death note · 3:28 · alebela_team · 4 vistas · https://www.dailymotion.com/video/x34hwo
-- Death Note · 2:32 · Xehano · 4 vistas · https://www.dailymotion.com/video/x73u1z
 **«Death Note fandub español»**
 - Death Note: El nuevo mundo - Tráiler español · 1:07 · FilmAffinity · 5115 vistas · https://www.dailymotion.com/video/x9gu9ls
 - Death Note - Tráiler en español · 1:59 · Tomatazos · 1280 vistas · https://www.dailymotion.com/video/x8x2azk
@@ -430,10 +430,10 @@ _Fuente: https://api.dailymotion.com_
 **«Death Note fandub latino»**
 - DEATH NOTE · 4:53 · kuseninarisou · 206 vistas · https://www.dailymotion.com/video/x33tf9
 - Death Note · 1:04 · Teaser Trailer · 115 vistas · https://www.dailymotion.com/video/x5frb52
-- Death Note · 2:11 · tazdevil19 · 61 vistas · https://www.dailymotion.com/video/x4zav9
-- Death Note · 1:42 · Télé 7 Jours · 57 vistas · https://www.dailymotion.com/video/x9o9pzy
 - Death Note ep 20 clip-fandub preview...clip-thingy(eng) · 1:03 · Neva Aliya · 48 vistas · https://www.dailymotion.com/video/x4jogfh
 - Death Note ~ OP 1 Fandub Latino Full ~ The World【Doblecero】 · 3:47 · Worldlatino · 39 vistas · https://www.dailymotion.com/video/x4xr7h7
+- death note · 0:47 · mouad bouzerda · 14 vistas · https://www.dailymotion.com/video/x2n3ft
+- Death Note - Ending (Españo Latino) · 1:10 · Takeshi · 11 vistas · https://www.dailymotion.com/video/x394jf
 
 ## Reddit r/deathnote: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/deathnote_
@@ -452,6 +452,13 @@ _Fuente: https://www.reddit.com/r/deathnote_
 - (69 votos, 26 comentarios) Which is the best scene in the series and why? · https://www.reddit.com/r/deathnote/comments/1lehkb7/which_is_the_best_scene_in_the_series_and_why/
 - (34 votos, 22 comentarios) What would you say is the best scene of each character? I’ll start with Teru Mikami in this scene. · https://www.reddit.com/r/deathnote/comments/1f1ehb3/what_would_you_say_is_the_best_scene_of_each/
 - (25 votos, 4 comentarios) I’m not the best artist and the proportions and shading are a bit off but here is my sketch of L (recreation from the… · https://www.reddit.com/r/deathnote/comments/f0lsi7/im_not_the_best_artist_and_the_proportions_and/
+**«unpopular opinion»**
+- (123 votos, 24 comentarios) Probably unpopular opinion: L is not socially unaware at all · https://www.reddit.com/r/deathnote/comments/1phlr5p/probably_unpopular_opinion_l_is_not_socially/
+- (70 votos, 73 comentarios) Your unpopular opinion on light yagami's character? · https://www.reddit.com/r/deathnote/comments/1uzuwmu/your_unpopular_opinion_on_light_yagamis_character/
+- (58 votos, 37 comentarios) Unpopular opinion: I like the deathnote ending · https://www.reddit.com/r/deathnote/comments/1k9suaa/unpopular_opinion_i_like_the_deathnote_ending/
+- (40 votos, 14 comentarios) Incredibly Unpopular Opinion · https://www.reddit.com/r/deathnote/comments/1h2fxal/incredibly_unpopular_opinion/
+- (23 votos, 7 comentarios) unpopular opinion but i want a manga on L about his past life and investigations! · https://www.reddit.com/r/deathnote/comments/1osr2ye/unpopular_opinion_but_i_want_a_manga_on_l_about/
+- (22 votos, 14 comentarios) Probably another unpopular opinion : I love that L seemed to follow intuition and instinct · https://www.reddit.com/r/deathnote/comments/1pzr9l3/probably_another_unpopular_opinion_i_love_that_l/
 **«iconic»**
 - (732 votos, 17 comentarios) My Misa Misa cosplay - wearing one of her iconic outfits!! · https://www.reddit.com/r/deathnote/comments/1nqbrei/my_misa_misa_cosplay_wearing_one_of_her_iconic/
 - (704 votos, 25 comentarios) Light’s school uniform is his most iconic outfit, even though he doesn’t wear it that much. · https://www.reddit.com/r/deathnote/comments/1g4dtuj/lights_school_uniform_is_his_most_iconic_outfit/

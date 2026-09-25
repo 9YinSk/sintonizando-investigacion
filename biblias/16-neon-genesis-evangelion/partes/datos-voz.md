@@ -343,14 +343,14 @@ _Fuente: https://evangelion.fandom.com/wiki/Gendo_Ikari#Personality_
 
 "Gendo is the type of person who can see & think about the welfare of an organization as a whole. In other words, he'd do anything to succeed. He takes drastic and extreme measures, by fair means or foul, or by hook or by crook, in order to accomplish his own purpose. In some ways he's mean, he hardly cares about Shinji." His last lines in The End of Evangelion reveal his regret and the true motivations for his ruthless behavior. He intended to use Third Impact to bring his wife Yui Ikari back to life. However, he realizes that his efforts are in vain and that he ignored the real wishes of Yui. She intended to bring about a brighter future for their son Shinji, whom Gendo has sacrificed in order to bring her back. In essence, Yui's dreams and principles were violated to resurrect her. Shortly after, Unit-01 is shown grasping Gendo in its hand before decapitating him, clearly rejecting…
 
-## Los personajes más dibujados por los fans (Danbooru, 36063 dibujos de «neon_genesis_evangelion»)
+## Los personajes más dibujados por los fans (Danbooru, 36064 dibujos de «neon_genesis_evangelion»)
 _Fuente: https://danbooru.donmai.us/posts?tags=neon_genesis_evangelion_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hatsune_miku · 146427 dibujos
-2. kaname_madoka · 30008 dibujos
+1. hatsune_miku · 146436 dibujos
+2. kaname_madoka · 30017 dibujos
 3. souryuu_asuka_langley · 17588 dibujos
-4. suzumiya_haruhi · 11108 dibujos
+4. suzumiya_haruhi · 11109 dibujos
 5. ayanami_rei · 10518 dibujos
 6. ikari_shinji · 6470 dibujos
 7. yoko_littner · 5444 dibujos
@@ -374,28 +374,28 @@ _Fuente: https://api.dailymotion.com_
 **«Neon Genesis Evangelion latino»**
 - Neon Genesis Evangelion anime · 0:56 · JeuxVideo.com · 17428 vistas · https://www.dailymotion.com/video/x89nqnd
 - Neon Genesis Evangelion · 0:56 · Vidaextra · 13569 vistas · https://www.dailymotion.com/video/x8czp5s
-- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9732 vistas · https://www.dailymotion.com/video/x89lzy3
-- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5809 vistas · https://www.dailymotion.com/video/x88ph3s
+- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9733 vistas · https://www.dailymotion.com/video/x89lzy3
+- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5810 vistas · https://www.dailymotion.com/video/x88ph3s
 - Neon Genesis Evangelion Trailer DF · 0:37 · FILMSTARTS · 797 vistas · https://www.dailymotion.com/video/x88ui0b
 - Neon Genesis Evangelion - Opening · 1:31 · Xataka México · 735 vistas · https://www.dailymotion.com/video/x8ait3c
 **«Neon Genesis Evangelion doblaje latino»**
 - Neon Genesis Evangelion anime · 0:56 · JeuxVideo.com · 17428 vistas · https://www.dailymotion.com/video/x89nqnd
 - Neon Genesis Evangelion · 0:56 · Vidaextra · 13569 vistas · https://www.dailymotion.com/video/x8czp5s
-- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9732 vistas · https://www.dailymotion.com/video/x89lzy3
-- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5809 vistas · https://www.dailymotion.com/video/x88ph3s
+- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9733 vistas · https://www.dailymotion.com/video/x89lzy3
+- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5810 vistas · https://www.dailymotion.com/video/x88ph3s
 - Neon Genesis Evangelion Trailer DF · 0:37 · FILMSTARTS · 797 vistas · https://www.dailymotion.com/video/x88ui0b
 - Neon Genesis Evangelion - Opening · 1:31 · Xataka México · 735 vistas · https://www.dailymotion.com/video/x8ait3c
 **«Neon Genesis Evangelion fandub español»**
 - Neon Genesis Evangelion anime · 0:56 · JeuxVideo.com · 17428 vistas · https://www.dailymotion.com/video/x89nqnd
 - Neon Genesis Evangelion · 0:56 · Vidaextra · 13569 vistas · https://www.dailymotion.com/video/x8czp5s
-- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9732 vistas · https://www.dailymotion.com/video/x89lzy3
-- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5809 vistas · https://www.dailymotion.com/video/x88ph3s
+- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9733 vistas · https://www.dailymotion.com/video/x89lzy3
+- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5810 vistas · https://www.dailymotion.com/video/x88ph3s
 - AMV - Neon Genesis Evangelion - Rammstein - Engel · 4:21 · Kareen Duard · 906 vistas · https://www.dailymotion.com/video/x2yjm4k
 - Neon Genesis Evangelion Trailer DF · 0:37 · FILMSTARTS · 797 vistas · https://www.dailymotion.com/video/x88ui0b
 **«Neon Genesis Evangelion fandub latino»**
 - Neon Genesis Evangelion anime · 0:56 · JeuxVideo.com · 17428 vistas · https://www.dailymotion.com/video/x89nqnd
 - Neon Genesis Evangelion · 0:56 · Vidaextra · 13569 vistas · https://www.dailymotion.com/video/x8czp5s
-- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9732 vistas · https://www.dailymotion.com/video/x89lzy3
-- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5809 vistas · https://www.dailymotion.com/video/x88ph3s
+- Neon Genesis Evangelion - Tráiler · 0:37 · xataka · 9733 vistas · https://www.dailymotion.com/video/x89lzy3
+- Neon Genesis Evangelion Tráiler · 0:37 · Sensacine · 5810 vistas · https://www.dailymotion.com/video/x88ph3s
 - Neon Genesis Evangelion Trailer DF · 0:37 · FILMSTARTS · 797 vistas · https://www.dailymotion.com/video/x88ui0b
 - Neon Genesis Evangelion - Opening · 1:31 · Xataka México · 735 vistas · https://www.dailymotion.com/video/x8ait3c
