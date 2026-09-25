@@ -84,9 +84,15 @@ https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&pag
 cruzados con la página del director: https://doblaje.fandom.com/es/wiki/Alan_Prieto,
 que lo describe como actor/director activo en Sysdub — coincide).
 
-### Reparto por personaje (cada nombre, en la ficha de la película + verificado
-al oírlo yo mismo en la muestra de audio de Doblaje Wiki, así que cuenta como
-comprobado, no copiado)
+### Reparto por personaje
+
+Fuente base para las 22 casillas: la ficha oficial de Doblaje Wiki (arriba),
+que trae captura de imagen Y muestra de audio propia por cada actor — no es
+una lista suelta. Los principales (Sophie, Howl, Calcifer) están además
+verificados con una segunda fuente independiente o de oído (detalle abajo de
+la tabla); el resto del reparto (Markl, Bruja, Suliman, Honey, Lettie, Rey,
+Príncipe, Alcalde) queda en ⚠️ una sola fuente —la ficha— aunque esa fuente
+trae su propia prueba de audio por nombre.
 
 | Personaje | Seiyū (JP) | ZIMA 2005 | Wild Bunch 2020 |
 |---|---|---|---|
