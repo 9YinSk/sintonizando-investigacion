@@ -485,8 +485,9 @@ Todos mis puntos (2, 4, 9, 10, 14) están completos dentro de lo que da la red
 disponible (AnimeThemes caído, YouTube sin descarga directa). Episodios
 completos con ficha en `partes/episodios.md`: 1, 131 y 147.
 
-Sigue: falta procesar del todo el episodio 147 (ficha en `partes/episodios.md`
-si el trabajo en segundo plano de `episodio.py` no llegó a terminar antes de
-cortar esta tanda — comprobar si las 3 fichas están completas) y montar
-`partes/video.json` con las referencias candidatas (vídeos y fotogramas
-citados arriba, con ancho/alto medidos).
+Comprobado: las 3 fichas de `partes/episodios.md` (episodios 1, 131 y 147)
+están completas, minuto a minuto de principio a fin. `partes/video.json`
+montado con las 33 referencias candidatas citadas arriba (vídeos y
+fotogramas, con ancho/alto medidos: 1280×720 en todos).
+
+Sigue: nada pendiente de mi parte.

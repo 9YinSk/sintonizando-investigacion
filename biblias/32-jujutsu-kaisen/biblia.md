@@ -1694,7 +1694,8 @@ fotográficos, luz lateral**.
 - **Personaje en Blender con shading anime**: Yuta Okkotsu de **DAL**;
   el desglose es de pago ⚠️ ([80 Level](https://80.lv/articles/artist-shares-tips-on-shading-anime-style-character-model)).
 - Modelos y *rigs* libres: los de Sketchfab con licencia de §4.1 (y la
-  ropa de Nobara de ChamberSu, CC BY, en `referencias.json`). Ninguno se
+  [ropa de Nobara de ChamberSu](https://sketchfab.com/3d-models/none-2f3761fda1de45df97ef6c1fbad63f27), CC BY; es una página de Sketchfab sin tamaño medido,
+  así que no entra en `referencias.json`). Ninguno se
   probó en Blender ⚠️.
 - Boceto de cara al estilo JJK (12 pasos, Yuta): ojos grandes y
   redondos, cejas finas, barbilla puntiaguda suave ⚠️ ([Sketchok](https://sketchok.com/anime/jujutsu-kaisen/yuta-okkotsu-face-drawing-tutorial-jjk-style-in-12-steps/), tutorial de fan).
