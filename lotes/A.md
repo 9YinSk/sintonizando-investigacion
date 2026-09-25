@@ -3,20 +3,26 @@
 Sesión anterior: https://claude.ai/code/session_013iA2pasAVgKJLS4KSumeXo · rama `claude/cool-keller-eyy3i1`
 (parte de `claude/peaceful-maxwell-fklpkp`).
 
-## Estado (22:50 UTC, cuenta nueva)
+## Estado (02:05 UTC del 25, tercera cuenta)
 
-Sigue la sesión https://claude.ai/code/session_01SWqKGHVYpdKBCcFDTYewMq · rama `claude/optimistic-dirac-jejcgu`.
+Sigue la sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb · rama `claude/lote-a-series-inxhbf`.
 
 - 02 Attack on Titan: **COMPLETA** y subida (20:52). ✅33 ⚠️6 ❌0, 218 referencias, 113 webs.
-- 03 Solo Leveling: **COMPLETA** y subida (22:47). ✅31 ⚠️6 ❌0, 148 referencias, 111 webs, 1751 líneas.
+- 03 Solo Leveling: **COMPLETA** y subida (01:17). ✅32 ⚠️5 ❌0, 148 referencias, 111 webs, 1760 líneas.
 - 04 Harry Potter: **COMPLETA** y subida (22:5x). ✅36 ⚠️3 ❌0, 100 referencias, 144 webs, 2943 líneas.
 - 05 Oshi no Ko: **COMPLETA** y subida (23:1x). ✅31 ⚠️6 ❌0, 129 referencias, 108 webs, 3256 líneas.
 - 31 Demon Slayer: **COMPLETA** y subida (23:2x). ✅30 ⚠️7 ❌0, 252 referencias, 84 webs, 2544 líneas.
 - 32 Jujutsu Kaisen: **COMPLETA** y subida (01:1x). ✅31 ⚠️3 ❌0, 52 referencias, 97 webs, 2772 líneas.
-- 33 Frieren: imagen y voz listos; texto (Sonnet) en marcha.
-- 34 Haikyuu: imagen y voz listos; texto (Sonnet) en marcha.
+- 33 Frieren: partes listas; redactor (Opus, repaso corto) en marcha.
+- 34 Haikyuu: partes listas; redactor (Opus, repaso corto) en marcha.
 - 35 One Punch Man: COMPLETA.
-- 36 Hunter x Hunter (nueva): los 4 roles listos; redactor (Opus) en marcha. AnimeThemes sigue caído (522).
+- 36 Hunter x Hunter (nueva): partes listas; redactor (Opus) retomado desde §18 (el anterior
+  dejó escritas §0-17). AnimeThemes sigue caído (522).
+
+Ojo: dos cuentas trabajaron el lote A a la vez (`cool-keller` relanzada a la 01:11 y
+`optimistic-dirac` desde las 22:43) y rehicieron 03, 04, 05 y 31. Al juntar se quedó
+03 de `cool-keller` (✅32 ⚠️5, una ⚠️ menos) y 04, 05 y 31 de `optimistic-dirac` (las
+subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
 
 ## Avisos para el dueño
 
@@ -60,3 +66,10 @@ Sigue la sesión https://claude.ai/code/session_01SWqKGHVYpdKBCcFDTYewMq · rama
 | 05 | redactor (repaso corto) | Opus | 14 | 245 mil |
 | 31 | redactor (repaso corto) | Opus | 13 | 228 mil |
 | 32 | redactor (repaso corto, 2 tandas por límite de uso) | Opus | 18 | 310 mil |
+| 03 | imagen | Sonnet | 11 | 183 mil |
+| 03 | texto | Sonnet | 13 | 205 mil |
+| 03 | voz | Sonnet | 14 | 212 mil |
+| 03 | redactor, 2ª vez en `cool-keller` (cortado y relanzado; duplicado) | Opus | ~25 + 5 | ? + 143 mil |
+| 04 | texto (`cool-keller`) | Sonnet | 11 | 172 mil |
+| 04 | imagen (`cool-keller`) | Sonnet | 12 | 185 mil |
+| 04 | voz (`cool-keller`, cortado al final, ya estaba completo) | Sonnet | ~15 | ? |
