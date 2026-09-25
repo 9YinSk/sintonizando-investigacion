@@ -2202,6 +2202,54 @@ Tachado lo que resolvió la segunda pasada.
 ---
 
 
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Estado tras la
+segunda pasada del equipo (24-25 sep 2026).
+
+| Punto de ENCARGO.md | Dónde | Estado | Por qué |
+|---|---|---|---|
+| 1 · Arte oficial variado | §3, §3.0, §F | ✅ | 958 imágenes de la wiki en 20 hojas (3 aquí, miradas y numeradas); staff de arte con dos fuentes; fondos oficiales de KyoAni con tamaño. Las portadas del Blu-ray, sin ver una por una. |
+| 2 · Fotogramas de escenas icónicas | §2, §2.1, §2.2 | ⚠️ | Opening, ending, tráiler y 3 escenas vistas con minuto exacto, pero en **SD** (640×360 y 480×280): YouTube pidió iniciar sesión. Los 1080p son fotogramas de la wiki, sin minuto. |
+| 3 · Fan art y 3D con licencia | §4, §17 | ✅ | 14 modelos de Sketchfab con licencia leída en su API (vajilla, pastel, instrumentos, «Giita!!!»); fan art con autor y enlace. |
+| 4 · Sitios, luz, paleta y texturas | §5 | ⚠️ | La sala del club, con hex medidos en dos fotogramas y los cerezos en uno; Toyosato con fotos reales; texturas CC0. Faltan medir la escalera y el salón de actos, y la liebre y la tortuga de bronce tienen una fuente. |
+| 5 · Tipografía por uso | §6 | ✅ | Tabla de una letra por uso; Keifont y 10 letras de Google Fonts abiertas con fontTools (tildes, ñ, ¿, ¡). La letra del logo no está identificada; Bungee y Baloo 2 sin abrir. |
+| 6 · Cómo hablan en pantalla | §7 | ✅ | Cartel de reclutamiento visto y medido, páginas del manga vistas (capítulo y «bonus»), caja del juego vista (la burbuja que no se usa). Cuadro propio: el papel del club y la tira 4-koma. |
+| 7 · Personajes y popularidad | §8, §9 | ✅ | 11 votaciones más Anime Grand Prix 2009 y AniList: Mio para mandar, Yui para recibir, Azusa en Japón reciente. |
+| 8 · Doblaje latino y frases | §10, §10.1 | ⚠️ | No hay doblaje oficial (dicho). Del piloto de Elocuencia: 4 actrices con dos fuentes y 10 frases textuales con minuto, oídas. Ui, Nodoka, Sawako y la dirección, con una fuente. |
+| 9 · Música y sonido | §11 | ⚠️ | Temas, compositor y ventas con dos fuentes; banda sonora con autor. No se identificó un efecto de sonido que todos reconozcan; AnimeThemes caído. |
+| 10 · Vídeos y tendencias con minuto | §12, §2.1 | ⚠️ | Tráiler oficial visto entero con minuto; episodios en Internet Archive. Los análisis de YouTube siguen sin minuto (pide iniciar sesión) y no hay tendencia viral en TikTok. |
+| 11 · Videojuegos | §7.1, §13 | ✅ | Juego de PSP con 3 capturas vistas y medidas, botones con dos fuentes; *Kirara Fantasia*. La interfaz de *Kirara* y TCRF no cargaron. |
+| 12 · Lo que ama el fandom y qué no hacer | §14 | ✅ | Memes y momentos con fuente; lista de errores ampliada con lo visto (zurda, colores, burbuja del juego, contorno negro). |
+| 13 · Descripción profunda y caras por emoción | §8, §8.1, §8.2 | ⚠️ | Carácter, miedos, relaciones, forma de hablar y dinámicas de las 6. Caras con minuto: sólo 10 de 30 combinaciones (6 vistas); faltan casi toda la tristeza y el miedo. |
+| 14 · Poses con minuto | §15, §15.0 | ⚠️ | 7 poses vistas en vídeo con minuto y 6 en arte oficial; unas 36 más con el minuto del subtítulo, pero su postura es de memoria. |
+| 15 · Vestuario con hex | §16 | ✅ | Blazer y colores de 5 de las 6 medidos en arte oficial; trajes de escenario, ending, yukata y lluvia vistos. Cintas, camisa y Yui sin medir. |
+| 16 · Ciudades y fondos de pantalla | §17 | ✅ | 2 fondos oficiales y 5 de fans con tamaño, autor y origen; luz medida. |
+| 17 · Guía para IA de imagen y de texto | §18 | ✅ | Rasgos con hex medidos, estilo medido, palabras sí y no, etiquetas, vocabulario de gestos, referencias por número de hoja, forma de hablar de las 6 y 17 frases reales por emoción con minuto. |
+| 18 · Estilo, técnica y cómo replicarlo | §A | ✅ | Línea y sombra medidas, staff, recetas de Photoshop y Blender, encuadres por emoción. Los programas del estudio no se encontraron. |
+| 19 · Texturas 2D | §B | ✅ | Manga mirado, papel y tinta CC0, cuadros generados. Las tramas gratis no tienen licencia clara; no hay icono libre de «taza + nota». |
+| 20 · Gustos y detalles | §C | ✅ | Altura y cumpleaños de las 6 en dos fuentes; comida, manías y objeto de cada una. Peso y 4 grupos sanguíneos, una fuente. |
+| 21 · Por qué la aman | §D | ⚠️ | Ventas, premios, ensayos, Reddit y la escena que hace llorar (T2 ep. 24, con minuto). No se vio cómo está dibujada ni hay reacciones con votos. |
+| 22 · Fan dubs y comunidad hispana | §E | ⚠️ | Investigación de ROCKERO ISRAEL, fandub y cover con vistas; otros covers sin vistas; no encontré memes hispanos propios. |
+| 23 · Colaboraciones, figuras y cosplay | §F | ⚠️ | 6 marcas, IDOLY PRIDE, Korg, pop-ups 2024-2026 y figuras oficiales. Ningún cosplay concreto con autor; figuras sin foto medida. |
+| 24 · Obras parecidas | §G | ✅ | AniList, la inspiración de kakifly, P-MODEL, la carrera de Yamada y el aviso para no chocar con Bocchi (encargo 97). |
+| 25 · El mundo y sus símbolos | §H | ✅ | Reglas en cinco líneas, historia por arcos con fechas, nombre de la banda con dos fuentes, instrumentos con nombre, Ton. |
+| 3 conceptos de lámina | §19 | ✅ | Mesa del té (A), setlist del festival (B) y tablón de la escalera (C), con número de hoja, letra, texto y profundidad. |
+| 40 fuentes distintas | todo | ✅ | Más de 100 webs distintas enlazadas (lo cuenta `revisar.py`). |
+| Tipos de fuente | bitácora | ⚠️ | Oficiales, japonés, coreano y chino, wikis, foros, arte, vídeo, código y doblaje: sí. TCRF no cargó y la Wayback Machine no se usó. |
+| Hojas de contacto | `hojas/`, §3.0 | ✅ | 3 hojas (personajes, objetos, vestuario y texturas), menos de 1 MB cada una, miradas y citadas por número. |
+| `referencias.json` | archivo | ✅ | Todas las útiles de las partes y del recolector, las mejores primero, con tamaño medido donde se midió. |
+
+**⚠️ antes → después**: la primera pasada tenía **94**; ahora hay más
+marcas porque las secciones nuevas (A-H, caras por emoción, gustos)
+señalan una a una lo dudoso. De los 94 viejos se resolvieron, entre otros:
+staff de arte, Keifont, cartel y globos, caja del juego, botones, colores
+medidos, reparto de 4 actrices, Junichi Eda, Oricon, ojos de Mio, zurda,
+colores de instrumentos, fondos de pantalla y licencias de Sketchfab.
+
+---
+
+
 ## 21 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
@@ -2307,10 +2355,87 @@ Tachado lo que resolvió la segunda pasada.
 
 ### Lo que NO encontré
 
-- Doblaje latino oficial (no existe) ni una segunda fuente para el reparto
-  de Elocuencia Studio.
-- Tráiler oficial en YouTube con su enlace exacto.
+- Doblaje latino oficial (no existe). ~~Segunda fuente para el reparto de
+  Elocuencia Studio~~ → encontrada en la segunda pasada.
+- ~~Tráiler oficial~~ → visto en Dailymotion (el de YouTube sigue sin
+  poder verse).
 - Artbook con ficha verificable.
-- Fondos de pantalla con tamaño y autor.
+- ~~Fondos de pantalla con tamaño y autor~~ → 7 (§17).
 - Tendencia de TikTok sobre K-On!.
-- Capturas de la caja de diálogo del juego de PSP.
+- ~~Capturas de la caja de diálogo del juego de PSP~~ → vistas (§13).
+
+### Segunda pasada (24-25 sep 2026, red abierta, equipo de cuatro)
+
+Cada investigador partió de su `partes/datos-<rol>.md` (lo juntó
+`recolectar.py`: AniList, Doblaje Wiki, Fandom, Wallhaven, Sketchfab,
+Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam, Reddit) y no
+repitió esas consultas. Las partes completas están en `partes/`.
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23)
+- Hojas de contacto 1, 2, 10 y 20 miradas (958 imágenes de la wiki).
+- `estilo.py` sobre 9 originales (Character Image Songs, HTT posing, las
+  cinco «con su instrumento», grupo tocando).
+- APIs: Fandom (`list=search` «logo», «emblem»; `allimages`), Sketchfab
+  (`v3/models` para 7 licencias; `v3/search` «Les Paul guitar», «drum
+  kit», «Fender Jazz Bass»), ambientCG («paper», «ink»), Openverse («ink
+  brush stroke black», «houndstooth pattern fabric»).
+- Buscador (9, es/en/ja): cafés de colaboración, figma, staff Takeda y
+  Tamura, screentone gratis, tartán libre, papel CC0, IDOLY PRIDE, cosplay.
+- WebFetch: ipfield.net, collabo-cafe.com, Zerochan (2), ja.wikipedia.org,
+  Clip Studio Assets.
+- **403**: Danbooru, animenewsnetwork.com (directo), texturelabs.org (dos
+  intentos cada uno).
+
+**Vídeo** (puntos 2, 4, 9, 10, 14)
+- `archive.org/metadata/k-on-s1-2`: un MP4 por episodio (13 + 26).
+  Recortes con `ffmpeg -ss` sobre la URL directa (1,6-13 MB cada uno).
+- `fotogramas.py --cada 3` ×6 (opening, ending, tráiler, 3 escenas) y
+  `--fotograma` ×3; `estilo.py` ×2 (4 fotogramas).
+- `yt-dlp` en Dailymotion `x8hzysi` (tráiler, sin bloqueo).
+- AnimeThemes: **522** dos veces. YouTube: «Sign in to confirm you're not
+  a bot».
+- Buscador (2, en): ventas de Oricon de «Cagayake! GIRLS» y de «GO! GO!
+  MANIAC» / «Listen!!» → generasia y TV Tropes.
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22)
+- Doblaje Wiki por su API (wikitext entero): «K-On!» (no existe), «Kon»
+  (es *Bleach*), las 7 actrices, Felipe Waldhorn, Sudamerican Voices;
+  búsqueda de texto con «K-On!», «K-ON», «Houkago Tea Time», «Ho-kago Tea
+  Time», «Sakuragaoka».
+- K-ON! Wiki: fichas y trivia de las seis.
+- `voz.py` sobre el piloto de Elocuencia en Internet Archive (tramos
+  0-240, 240-480 y 1140-1380 s). `yt-dlp` (ficha y subtítulos) de 4 vídeos
+  de YouTube.
+- Arctic Shift (`subreddit=anime&title=K-On`): 10 hilos; luego *timeout*.
+  reddit.com: 403. x.com: 403.
+- Buscador (unas 20, es/en): Elocuencia Studio, fandubs, covers, databook,
+  Grand Prix, Junichi Eda, memes hispanos, ventas, graduación.
+- WebFetch: animeherald.com, bateszi.me, somoskudasai.com.
+
+**Texto, juegos y técnica** (puntos 5, 6, 11, 18, 24, 25)
+- `font.sumomo.ne.jp`: zip de Keifont abierto con fontTools.
+- API de K-ON! Wiki (`allimages`, `imageusage`, `search`, `revisions`):
+  Kakifly, Sakuragaoka High School, Ton, trivia de Mio y Azusa, K-ON!
+  (Anime), «School Festival!», «Disband the Club!».
+- 9 imágenes bajadas (2 carteles, 3 capturas del juego, 2 páginas «bonus»,
+  1 portada de capítulo), 6 medidas con `estilo.py`, 3 leídas con
+  `tesseract -l jpn`.
+- Buscador (en): Yamada y su estilo, *making of* de KyoAni, instrumentos
+  con nombre, Korg RK-100S, Seiki Tamura, composición de Yamada, kakifly,
+  capturas del juego, *Kirara Fantasia*. (ja): 「放課後ティータイム 名前
+  由来」, 「けいおん 登場人物 名前 由来 P-MODEL」, 「佐熊由花里 けいおん
+  名前 由来 スカート」 (sin resultado claro).
+- **403**: gamefaqs.gamespot.com, mobygames.com, TV Tropes (anime). TCRF
+  no cargó.
+
+**Redactor** (esta biblia)
+- Miró las 3 hojas de `hojas/` y un recorte de las páginas del manga
+  (hoja 20 #937-939): globos ovalados altos en los capítulos.
+- Comprobó en `datos-imagen.md` qué archivo de Wallhaven va con cada
+  origen de pixiv.
+
+**Lo que sigue sin encontrarse** (segunda pasada): la letra del logo; un
+cosplay concreto con autor; licencia clara de las tramas gratis; un icono
+libre «taza + nota»; quién fundó Elocuencia; memes hispanos propios;
+vídeos en 1080p; la interfaz de *Kirara Fantasia*; minutos de los
+análisis de YouTube; cómo está dibujada la graduación (T2 ep. 24).
