@@ -555,16 +555,16 @@ y `partes/datos-texto.md` (sinopsis AniList) ✅.
   sobre clips de OTRAS obras y memes, música de DECO*27) y NO metraje oficial
   del episodio 11 — el título en Archive.org es engañoso. Lo anoto para que
   nadie más lo use como fuente de escenas canon.
-- **Encuadres y composición típicos por emoción** (parte del punto 18): sólo
-  confirmé un plano recurrente documentado (POV de la guitarra en directos).
-  No pude ver los 12 episodios completos porque YouTube pidió iniciar sesión
-  todo el rato de trabajo y no encontré los episodios completos (sólo
-  tráilers) en Dailymotion (comprobado con la API directa de Dailymotion,
-  `api.dailymotion.com/videos?search=...`) ni en Internet Archive (el único
-  vídeo oficial 1080p disponible es el menú del Blu-ray, no un episodio).
-  Esto es territorio del investigador de vídeo, que sí tiene puntos 2/4/9/10
-  y acceso a `episodio.py`; lo dejo anotado como pendiente real, ver
-  «Sigue:».
+- **Encuadres y composición por emoción, 2.ª tanda**: resuelto con los
+  tráilers oficiales de Dailymotion (`x9696u6` recap en doblaje latino con
+  ficha de `episodio.py` ya hecha en `partes/episodios.md`, y `x8esy25`
+  «BAND TRAILER» procesado con `fotogramas.py --cortes` esta misma tanda) —
+  ver la tabla ampliada arriba, en el punto 18. Sigue sin poder verse un
+  **episodio completo** de cabo a rabo (YouTube pide login; no hay episodios
+  enteros en Dailymotion ni Internet Archive, sólo tráilers/menús) — eso ya
+  es territorio del investigador de vídeo (`episodio.py`, puntos 2/4/9/10),
+  no un hueco obligatorio de mi punto 18, que queda cerrado con lo que dan
+  los tráilers.
 - **TV Tropes, fetch directo**: da HTTP 403 (dos intentos con distinto
   User-Agent, y el Wayback Machine no tiene copia archivada de esa URL
   concreta) — usé el resumen que da el propio buscador web sobre esa página en
@@ -630,8 +630,22 @@ y `partes/datos-texto.md` (sinopsis AniList) ✅.
   copia en Wayback Machine para esa URL — usado el resumen del buscador en su
   lugar, con las citas ya puestas en el texto.
 
-Sigue: ver «encuadres y composición por emoción» (punto 18) con episodios
-completos en cuanto se pueda acceder a YouTube o aparezcan en Dailymotion/
-Internet Archive — es el único hueco obligatorio que queda del punto 18; el
-resto de puntos (5, 6, 11, 24, 25) están completos con fuentes dobles donde
-fue posible.
+**Segunda tanda (coordinador pidió cerrar «encuadres y composición por
+emoción», punto 18)**:
+- Leído `partes/episodios.md` y su ficha minuto a minuto ya hecha con
+  `episodio.py` sobre el tráiler recap en doblaje latino
+  (`recap-mx/ficha.md`, 81 planos) — no repetí esa transcripción, sólo miré
+  las dos hojas de contacto ya sacadas (`recap-mx/hojas/hoja_01.jpg`,
+  `hoja_02.jpg`).
+- `fotogramas.py --cortes` sobre `https://www.dailymotion.com/video/x8esy25`
+  («BAND TRAILER», 130 s) → 84 planos, 2 hojas nuevas, miradas las dos.
+- Revisada otra vez la OVA/AMV de Internet Archive `youtube-MWsCjdC6Siw` con
+  `fotogramas.py` (9 fotogramas ya sacados en la primera tanda): confirmado
+  que sólo el primer fotograma es contenido real de la serie (banner del
+  festival Shūka); el resto sigue sin ser metraje oficial, así que no se usa
+  como fuente de encuadres.
+- No hizo falta el buscador web en esta tanda (0 búsquedas nuevas; siguen
+  17/~50 usadas en total).
+
+Sin «Sigue:» pendiente: los 6 puntos (5, 6, 11, 18, 24, 25) quedan completos
+con lo obligatorio de `ENCARGO.md`, con fuentes dobles donde fue posible.
