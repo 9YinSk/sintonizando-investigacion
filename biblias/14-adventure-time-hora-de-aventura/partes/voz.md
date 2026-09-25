@@ -332,6 +332,34 @@ típico de su forma de ser.
   final («Come Along With Me») consuela a Finn diciéndole que nadie elige
   cómo morir, pero que al menos estaban juntos ✅.
 
+### Caras vistas de verdad, con fotograma y minuto
+
+> Mirado en vídeo real (no de memoria): el **episodio piloto**, subtitulado en
+> español, está completo en Dailymotion (YouTube pide iniciar sesión desde
+> este servidor). Saqué fotogramas con `herramientas/fotogramas.py` y los
+> miré. Sólo alcancé a mirar este clip a fondo — el resto de personajes
+> (Marceline no sale en el piloto: **no existía aún como personaje** cuando
+> se hizo ✅, Adventure Time Wiki, Trivia) necesitaría más clips, que quedan
+> para quien retome esto (ver «Sigue» al final).
+
+- **Finn, vergüenza/timidez**: primer plano, mejillas con un óvalo rosa claro,
+  boca en una rayita recta, ojos redondos muy abiertos con la pupila como un
+  punto negro descentrado — el estilo «ojos de punto» que ya describe
+  `biblia.md` §18, visto aquí en un fotograma real ✅. Episodio piloto,
+  **minuto 6:00**:
+  [Dailymotion, clip subtitulado](https://www.dailymotion.com/video/x84oaz2?t=360).
+- **Rey Helado, molesto/cómico** (aún no es el personaje trágico de
+  temporadas posteriores: en el piloto es el villano simple, «al estilo
+  Gargamel», tal como dice la crítica en §21): Finn lo tiene en una llave de
+  cabeza por detrás mientras el Rey Helado dice **«Eso... es estúpido»**
+  (subtítulo real del clip) — cejas caídas, ojos entrecerrados, boca en
+  zigzag. Episodio piloto, **minuto 4:05**:
+  [Dailymotion, clip subtitulado](https://www.dailymotion.com/video/x84oaz2?t=245).
+- Hoja de contacto completa del piloto (16 fotogramas, cada 30 s) guardada en
+  `/tmp/claude-0/trabajo/14-adventure-time-voz/pilot_frames/hoja_01.jpg`
+  (fuera del repositorio, para quien quiera mirar más momentos sin
+  volver a bajar el vídeo).
+
 ### Dinámicas (para láminas en grupo)
 
 - **Marceline y la Dulce Princesa**: de tensión con humor («Obsidian», ríen
@@ -670,3 +698,15 @@ típico de su forma de ser.
   (`doblaje_serie.json`, `en_Marceline.json`, `en_Finn.json`, `en_Jake.json`,
   `en_Princess_Bubblegum.json`, `en_BMO.json`, `en_IceKing.json`), 6 muestras
   de audio `.ogg` y sus transcripciones (`voz_*`).
+  Fotogramas del piloto en `pilot_frames/` y del trailer de «Fionna & Cake»
+  en `trailer_frames/` (este último no se usó: no sale la Marceline
+  clásica).
+
+Sigue: punto 13, «su cara en cada emoción con fotograma y minuto» — sólo
+alcancé Finn (vergüenza, piloto min. 6:00) y Rey Helado (enfado cómico,
+piloto min. 4:05), ver §13. Faltan Marceline, Jake, Dulce Princesa y BMO, y
+las emociones alegría/rabia/tristeza/miedo que no cubrí. Hace falta bajar más
+clips con `fotogramas.py` (Dailymotion o Internet Archive; YouTube sigue
+bloqueado en este servidor) centrados en escenas de cada personaje —
+«Obsidian» y «I Remember You» son buenos candidatos para Marceline
+(transformación en monstruo = rabia; carta de Simon = tristeza).
