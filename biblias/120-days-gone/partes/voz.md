@@ -440,12 +440,159 @@ postales, listas), es esto:
 
 ### Punto 21 — Por qué la gente la ama; escenas que emocionan
 
+**Por qué la gente ama Days Gone** (reseñas, Reddit, ventas — ✅ cruzado en dos o más fuentes):
+- El vínculo Deacon-Boozer es la razón más citada, por encima incluso de la trama principal: «best bromance in
+  videogames» (Reddit, punto 12). ✅
+- La libertad de estilo de juego: un hilo con 107 votos se titula «Why I Love Days Gone: It Respects Player
+  Choice and Playstyle». ✅ _reddit.com/r/DaysGone/comments/1qx6b96/_
+- El «vibe» distinto a otros survival/zombis, pese a sus defectos técnicos: «This game has a different vibe.
+  That's why I love this, even with it's shortcomings» (181 votos). ✅ _reddit.com/r/DaysGone/comments/1uks79g/_
+- Cala hondo con el tiempo: «After almost a year, I managed to finish Days Gone. I don't know why, but I'm in
+  love with this game» (121 votos) — varios comentarios describen que el juego «engancha tarde», no en las
+  primeras horas. ⚠️ un hilo, pero coincide con la reputación pública del juego (reseñas de lanzamiento bajas,
+  reputación de culto después) que también documenta Wikipedia. ✅ (dos fuentes: Reddit + reputación
+  documentada por Wikipedia/ScreenRant sobre su «redención» posterior al lanzamiento).
+- El público se identifica sobre todo con **Deacon** (por Sam Witwer/los actores de doblaje, punto 13) y con
+  **Boozer** como «el amigo que todos querríamos tener»; ver también Copeland como personaje secundario que
+  genera identificación por sus ideas polémicas pero «casi siempre acertadas dentro del juego» (punto 7).
+
+**Escena que la gente señala como la más floja emocionalmente — al revés de lo esperado** (para no «sonar
+falso», ver `ENCARGO.md`): el reencuentro final de Deacon y Sarah, que en teoría debería ser el clímax
+emocional del juego, está ampliamente criticado como anticlimático: «no hay diálogo, ni un "me alegra que
+estés viva", ni siquiera se besan» — un artículo llega a titularse «Days Gone Ending Twist Completely Ruins
+All The Character Development». ✅ _screenrant.com/days-gone-ending-twist-deacon-sarah-bad-why/ ·
+comentarios de GameFAQs y Steam Community citados por la misma cobertura._
+- Conclusión práctica para la lámina: **no uses el reencuentro final como «la escena que hace llorar»** — el
+  propio fandom la ve floja. Lo que sí funciona mejor, y así lo documenta la cobertura del juego, es el
+  **duelo de Deacon antes de saber que Sarah vive**: raspa su nombre de una lápida improvisada que él mismo le
+  hizo, y se pone de nuevo el anillo de casado — ✅ escena repetidamente citada como la más conmovedora del
+  arco de Sarah (más que el reencuentro). _screenrant.com/days-gone-ending-twist-deacon-sarah-cure-explained/_
+  Con flashbacks de la boda intercalados mientras Deacon cuida esa tumba. ⚠️ (una fuente concreta de la escena,
+  pero coincide con la ficha de Trivia de Sarah en la wiki, punto 13, que describe la misma secuencia).
+- La otra escena que la comunidad señala como fuerte es el giro de **O'Brian** perdiendo su humanidad bajo
+  NERO (punto 7, «O'Brian goes Thriller mode») — no es una escena que «haga llorar» sino que «impacta»/asusta,
+  el tipo de gran giro que el fandom pide que se explore más en una secuela. ⚠️ un hilo de Reddit.
+
 ### Punto 22 — Fan dubs y comunidad hispana
+
+### Punto 22 — Fan dubs y comunidad hispana
+
+**No es un juego con «openings» tipo anime** (no hay canción de apertura que cubrear) y no encontré fandubs de
+escenas hechos por fans en español (busqué «Days Gone fandub español parodia TikTok», «Days Gone fandub
+latino/español youtube», «Days Gone cover español opening Long Way Home»): lo que sale es contenido oficial de
+prensa (HobbyConsolas, Vandal) o listas genéricas de TikTok sin vídeos concretos con vistas. Lo que sí hay,
+documentado con más detalle:
+- **Comparaciones de doblaje hechas por la comunidad**: un vídeo de YouTube titulado «DAYS GONE: Doblaje
+  ESPAÑA vs LATINOAMÉRICA vs INGLÉS (PS4)» compara los tres audios lado a lado — exactamente el tipo de
+  contenido que interesa a un servidor de doblaje, aunque no pude verificar canal ni vistas (YouTube pide
+  iniciar sesión desde este servidor). ⚠️ una fuente (aparece en resultados de búsqueda, no se pudo abrir).
+- **PlayStation mismo promovió la comparación de doblajes**: Vandal público un tráiler mostrando «las voces en
+  castellano y español latinoamericano» lado a lado antes del lanzamiento — o sea, la propia distribuidora
+  alimentó esa curiosidad comparativa del público hispano. ✅ _vandal.elespanol.com/noticia/1350720398/_
+- **Actividad en TikTok** con las etiquetas «days gone en español», «deacon days gone» y «days gone deacon
+  cosplay» existe (hay vídeos activos, un usuario citado es @ervs.18), pero no logré aislar vídeos concretos
+  con cifras de vistas verificables sin acceso a TikTok con sesión — se anota como pista, no como dato
+  confirmado. ⚠️ _tiktok.com/discover/days-gone-en-espa%C3%B1ol_
+- **Cosplay de Deacon**: hay comunidad activa (grupos de Facebook de cosplay en Filipinas y Sri Lanka
+  encontrados en la búsqueda, guías de disfraz en costumewall.com y carboncostume.com que detallan el kutte de
+  cuero con el parche Mongrels MC, camiseta gris/negra, jeans, botas de moto, gorra negra y pañuelo rojo), pero
+  no encontré específicamente eventos o cosplayers de habla hispana documentados con fuente — punto que le
+  toca en detalle al investigador de imagen (punto 23), aquí sólo se deja la pista. ⚠️
+- **Comunidad de doblaje hispana sobre esta obra en concreto**: no encontré foros o Discords públicos
+  centrados en el doblaje de Days Gone más allá de Doblaje Wiki y doblajevideojuegos.es (que son bases de
+  datos, no comunidades de fandub). Es un dato honesto: a diferencia de anime o Disney, el doblaje de
+  videojuegos como Days Gone no genera tanta comunidad de fandub en español como series con más recorrido.
 
 ## Lo mejor para la lámina
 
+1. **Deacon con su kutte de cuero y el tatuaje de «Sarah» en el cuello**, hablando con el cuadro de diálogo
+   de radio/walkie del juego — es lo que el fandom reconoce al instante (puntos 13, 20).
+2. **Cita real de doblaje latino**: «Nunca hemos hablado de ello… ¿De por qué seguimos llevando los colores?»
+   (tráiler argumental, `partes/episodios.md`) o «¿Me entiendes, Méndez?» como guiño de doblaje (punto 8).
+3. **Copeland y su «Radio Free Oregon»** como gag reconocible: un cuadro de diálogo tipo «transmisión de
+   radio» (estática, micrófono) es un recurso muy propio de la serie y divide cariño/hartazgo real (punto 12).
+4. Si se usa a un secundario en vez del protagonista: **Copeland es, por votos de Reddit, más comentado que
+   Deacon** en «por qué lo amo» — encaja con la petición del dueño de destacar secundarios queridos.
+5. Evitar el reencuentro final Deacon-Sarah como «la escena triste»: usar mejor a Deacon cuidando la lápida
+   improvisada de Sarah y poniéndose el anillo, que es la escena que la crítica sí valora (punto 21).
+
 ## No encontré
+
+- ⚠️ **Encuestas oficiales de popularidad de personajes** (tipo revista/ranking): no existen para este juego;
+  busqué «Days Gone character popularity poll» y «official survey favorite character» en inglés, nada de Sony
+  ni Bend Studio (punto 7).
+- ⚠️ **Segunda fuente totalmente independiente de Doblaje Wiki para el reparto latino completo** (más allá de
+  los 8 personajes de arranque, verificados cruzando ficha de personaje + ficha de actor dentro de la misma
+  wiki): probé ANMTV (sin cobertura de este título), Behind The Voice Actors (403 Forbidden, dos intentos),
+  IMDb full credits (403/202 sin contenido, dos intentos), International Dubbing Wiki (la ficha de Daniel Lacy
+  no llega a listar videojuegos). Es una limitación real del sector: el doblaje latino de videojuegos casi no
+  se documenta fuera de Doblaje Wiki, a diferencia del doblaje de España que sí tiene dos bases de datos
+  independientes (eldoblaje.com y doblajevideojuegos.es).
+- ⚠️ **Altura, cumpleaños o edad exacta de los personajes** (punto 20): no hay «databook» oficial con fichas
+  de estadísticas; ni el artbook *The Art of Days Gone* ni la wiki las traen. Busqué en español e inglés.
+- ⚠️ **Fandubs de escena y covers de canciones en español** (punto 22): el juego no tiene una canción de
+  apertura tipo anime que cubrear, y no encontré canales o vídeos concretos de fandub en español con cifras
+  verificables (sólo etiquetas genéricas de TikTok). Sí hay contenido de comparación de doblajes, que se
+  documenta arriba.
+- ⚠️ **Comunidad de doblaje hispana específica de Days Gone** (foros, Discords públicos): no encontré ninguno
+  dedicado; el interés hispano documentado es sobre todo periodístico (Vandal, HobbyConsolas, LevelUp) o de
+  bases de datos (Doblaje Wiki, DoblajeVideojuegos.es), no de comunidad de fans organizada en torno al doblaje.
+- ⚠️ No profundicé en el hilo «Your Deeks Least favorite or hated character?» (19 votos) por presupuesto de
+  búsquedas — queda pendiente si se retoma este punto.
 
 ## Bitácora de búsqueda
 
-Sigue: escribiendo el punto 8 (reparto latino y de España, con fuentes).
+**Herramientas usadas (no cuentan como «búsqueda web»)**: `curl` directo a la API de Doblaje Wiki
+(`action=parse&prop=wikitext`) para Days Gone y para 11 fichas de actor; `curl` directo a la API de
+`daysgone.fandom.com` para 8 fichas de personaje; `curl` a eldoblaje.com y doblajevideojuegos.es;
+`herramientas/voz.py` (Whisper `small` + Parselmouth) sobre las 8 muestras `.ogg` oficiales de Doblaje Wiki,
+descargadas a `/tmp/claude-0/trabajo/120-days-gone-voz/audio/`; `arctic-shift.photon-reddit.com` para posts y
+comentarios de r/DaysGone (con reintentos por límite de tasa de la API).
+
+**Búsquedas web (WebSearch), todas en español o inglés según el caso** — quedan más de 30 de las 50
+disponibles sin usar, por si el redactor o el jefe piden ampliar algo:
+1. `"Days Gone" eldoblaje.com Claudio Serrano Deacon` — encontró la ficha de eldoblaje.com y confirmó el
+   doblaje de España.
+2. `"Days Gone" doblaje español reparto "Claudio Serrano" Boozer Sarah` — confirmó el vídeo de HobbyConsolas.
+3. `ANMTV "Days Gone" doblaje latino Deacon José Gilberto Vilchis` — sin resultados de ANMTV.
+4. `"Days Gone" "José Gilberto Vilchis" Deacon doblaje` — confirmó a Vilchis para Deacon latino.
+5. `"Days Gone" behindthevoiceactors Latin American Spanish cast Deacon Boozer` — BTVA existe pero bloqueó el
+   acceso directo (403).
+6. `"Beto Castillo" Boozer "Days Gone" doblaje` — confirmó a Castillo para Boozer.
+7. `site:anmtv.mx "Days Gone"` — sin resultados.
+8. `"Days Gone" doblaje latino tráiler PlayStation México Vilchis Deacon voz` — confirmó el tráiler de
+   lanzamiento localizado.
+9. `"Days Gone" "José Gilberto Vilchis" instagram OR entrevista OR twitter` — sin entrevista específica sobre
+   Days Gone.
+10. `"Alejandra Delint" Sarah "Days Gone"` — llevó a descubrir que la ficha actual de la actriz es «Alex(ander)
+    Delint», no binaria.
+11. `"Days Gone" doblaje latino reparto "Erick Selim" OR "Armando Réndiz" OR "Luis Daniel Ramírez" OR "Edurne
+    Keel"` — sin una fuente externa única, resultados dispersos.
+12. `"Beto Castillo" "William Boozer" OR "Boozer Gray" Days Gone personaje` — nada nuevo.
+13. `"Days Gone" créditos doblaje latino reparto completo actores voz México` — nada nuevo.
+14. `"Daniel Lacy" actor de doblaje "Days Gone" O'Brian` — llevó a la página de International Dubbing Wiki
+    (sin la ficha de videojuegos completa).
+15. `"Days Gone" Deacon St. John altura cumpleaños edad "Art of Days Gone" ficha personaje` — confirmó que no
+    hay databook con esos datos.
+16. `"Days Gone" ending Sarah reunion emotional scene reviewers cried moving` — encontró la crítica de
+    ScreenRant sobre el reencuentro anticlimático.
+17. `"Days Gone" most emotional scene favorite reddit tears "Sarah" wedding flashback OR gravestone` — encontró
+    la escena de la lápida y el anillo.
+18. `"Days Gone" fandub español parodia TikTok Deacon` — sólo etiquetas genéricas de TikTok.
+19. `"Days Gone" meme español latino Copeland "Radio Free Oregon" doblaje comunidad` — encontró el mod «Shut Up
+    Cope» en Nexus Mods.
+20. `"Days Gone" cover español opening OR canción fandub youtube "Long Way Home" español` — confirmó que no hay
+    covers relevantes (el juego no tiene opening tipo anime).
+21. `"Days Gone" reacción doblaje español vs latino youtube comparación voces` — encontró el vídeo comparativo
+    de YouTube (no se pudo abrir, YouTube pide sesión).
+22. `"Days Gone" cosplay Deacon español Latinoamérica evento convención` — cosplay documentado en inglés/otros
+    idiomas, nada específicamente hispano con fuente.
+
+**Peticiones directas fallidas** (para no repetirlas sin motivo): `behindthevoiceactors.com` → 403 (dos
+intentos, con y sin WebFetch); `imdb.com/title/tt6795336/fullcredits` → 403 y 202 vacío (dos intentos, con y
+sin user-agent de navegador); `eldoblaje.com/datos/buscar.asp` y variantes → 404 (se resolvió el id real,
+55301, por búsqueda web en vez de adivinar la URL).
+
+Sigue: nada obligatorio pendiente de los puntos 7, 8, 12, 13, 20, 21, 22. Si se retoma esta parte, ampliar el
+hilo de «personaje menos favorito» (punto 7) y, si el jefe lo pide, intentar de nuevo BTVA/IMDb con otra
+salida de red para una segunda fuente externa del reparto latino completo (punto 8).
