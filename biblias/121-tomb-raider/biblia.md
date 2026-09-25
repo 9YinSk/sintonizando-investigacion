@@ -218,3 +218,55 @@ Fuente: Doblaje Wiki por su API ([ficha de Lara Croft](https://doblaje.fandom.co
 - **Serie de Netflix** (dirección **Luis Leonardo Suárez**, **Grande Studios**, México): Sam **Amellalli Guevara**; Jonah **Jaime Collepardo** (1.ª temporada) y **Héctor Estrada** (2.ª); Zip **Emmanuel Bernal**; Cam Roth **Jocelyn Robles**; Abby **Marysol Lobo**; Conrad Roth **Sergio Gutiérrez Coto**; Eva Tong **Lidia Mares**.
 - **[ANMTV](https://www.anmtvla.com/2024/10/tomb-raider-la-leyenda-de-lara-croft_12.html) lo confirma** (segunda fuente) ✅: se grabó en Grande Studios con reparto de México y Argentina. **Marisol Romero no repite como Lara**: dobla a la zorra espíritu Daji. Jonah cambia de voz porque **Jaime Collepardo murió el 29 de septiembre de 2024**.
 - ⚠️ **Frases latinas textuales con minuto: no encontradas.** No hay clips oficiales doblados que se puedan bajar; YouTube pide sesión. Las frases icónicas que siguen son **en inglés original** (punto 13), no del doblaje.
+
+## 9 · Música y sonido
+
+- **TR1 a TR3 (1996-1998): Nathan McCree**, con sintetizador, no con orquesta ✅ (MusicBrainz y la wiki). El tema de las cuevas de los primeros niveles se conoce como **«Cave»**. McCree prefería el **silencio**: la música casi no suena al explorar; entra sólo en momentos concretos para dar tensión. Eso es parte del ambiente de «tumba».
+- **McCree, sobre el reboot sin su tema** (entrevista de Daryl Baxter, 27-nov-2013, [Music of Tomb Raider](http://www.musicoftombraider.com/2013/11/interview-with-tomb-raider-legacy.html)): *«…it is a complete disaster for the franchise. It is like releasing a James Bond movie without Monty Norman's classic theme.»* ✅
+- **The Tomb Raider Suite** (2018): regrabación orquestal de su música ([MusicBrainz](https://musicbrainz.org/release-group/4351e26e-7a97-41b5-afae-55bae4b616b7)).
+- **TR 2013: Jason Graves** ([ficha de la música](https://tombraider.fandom.com/wiki/Tomb_Raider_(2013_Game)/Music)). Se construyó un **instrumento a medida** de madera, vidrio y metal, obra del escultor **Matt McConnell**, que se toca con arco o a golpes. **El arco se modeló sobre el arco improvisado de Lara.** Suena en la misión inicial «Scavenger's Den» y da la tensión de las huidas ✅. El primer tema del disco se llama **«Adventure Found Me»**, la misma frase que dice Lara en **0:00-0:24** del tráiler «Turning Point» ✅.
+- **Rise (2015): Bobby Tahouri**, que reutiliza **«Lara's Theme»** de Graves. Canción promocional: **«I Shall Rise»**, cantada por **Karen O** (Yeah Yeah Yeahs) ✅.
+- **Shadow (2018): Brian D'Oliveira**. Temas con nombre de momento emotivo: «Innocent Death», «Sacrifice», «Baptism of Fire», «Hope», «Death of the Sun», «Goodbye Paititi» ✅ los títulos · ⚠️ no se comprobó qué escena acompaña cada uno.
+- **Qué ambiente dan**: sintetizador y silencio en los clásicos (soledad de tumba); percusión de objetos y cuerda frotada en 2013 (supervivencia); instrumentos andinos y mesoamericanos en *Shadow* (deducido de los títulos y del compositor ⚠️).
+- **Efectos de sonido**: ⚠️ **no encontré** nombres oficiales de los más famosos (el tintineo al recoger un objeto, el cristal de guardado). Existe un banco extraído en [The Sounds Resource](https://sounds.spriters-resource.com/pc_computer/tombraider/asset/428378/), sin texto útil, y un hilo de Tomb Raider Forums bloqueado por Cloudflare.
+
+## 10 · Vídeos y tendencias
+
+- **Tráiler «Turning Point»** (TR 2013), mirado y transcrito. Lo que dice Lara, textual: **0:00** «A famous explorer once said / That the extraordinary is in what we do, not who we are / I'd finally set out to make my mark / To find adventure / But instead / Adventure found me». **1:00** «When life flashes before us / We find something / Something that keeps us going / That pushes us». ✅ ([vídeo, 1:00](https://video.akamai.steamstatic.com/store_trailers/203160/10727/bc433a91a02e76d1ea82a1bfaa6b9bf118a27429/1750498724/hls_264_master.m3u8?t=1447357498&t=60)).
+- **Tráiler de lanzamiento de *Shadow***, transcrito: **0:00** unos versos recitados, «Because I could not stop for death, he kindly stopped for me…», y «Taking the key, you set the apocalypse in motion». **1:00** «…we're going to remake the world» / Lara: «I won't let that happen.» ✅ transcripción automática (Whisper) · ⚠️ el redactor reconoce el poema de Emily Dickinson; no está en las partes.
+- **Análisis**: «Le Fond De L'affaire», del canal francés **Globtopus**, sobre la historia de la saga ([Dailymotion](https://www.dailymotion.com/video/x89cmfn)). **0:30** pasillo con palanca de TR1 · **1:00** broma con un actor ajeno · **4:00-4:30** tumbas egipcias con columnas (TR4) · **5:00** pasillos dorados con Lara pequeña · **7:00-7:30** selva y cueva con antorchas · **8:00** créditos (dirección Maxime Robinet). ✅
+- **TikTok**: [#laracroft](https://www.tiktok.com/tag/laracroft) y [#tombraider](https://www.tiktok.com/tag/tombraider) suman decenas de millones de publicaciones. Lo que más se repite: ***edits* de «glow up»** comparando los diseños de Lara a lo largo de los años, y **caídas y fallos de física** de los juegos nuevos. ⚠️ tendencia general; TikTok no deja citar un clip con minuto.
+- **Comunidad hispana**: «Las Mujeres Detrás De La Voz de Lara Croft en Latino | Iceberg de Rise Of The Tomb Raider» ([YouTube Shorts](https://www.youtube.com/shorts/HQWmJdNdSIU)). ⚠️ sin ver (YouTube bloqueado).
+- **Sin mirar**: tráiler de *Legend* para Xbox 360 en [Internet Archive](https://archive.org/details/tomb_raider_legend_xbox360). ⚠️
+
+## 11 · Los videojuegos: interfaz, menús y cajas
+
+**Los juegos principales**: TR1 (1996), TR2, TR3, *The Last Revelation* (TR4, 1999), *Chronicles*, *Angel of Darkness* (2003) · *Legend* (2006), *Anniversary* (remake de TR1), *Underworld* (2008) · *Guardian of Light* y *Temple of Osiris* (2014, cámara aérea) · *Tomb Raider* (2013), *Rise* (2015), *Shadow* (2018) · remasters de I-III y IV-VI · *Legacy of Atlantis* (remake de TR1, anunciado para el 12-feb-2027, Crystal Dynamics y Flying Wild Hog) y *Catalyst* (2027).
+
+**Interfaz de *Shadow of the Tomb Raider***, mirada en capturas reales de [Interface In Game](https://interfaceingame.com/games/shadow-of-the-tomb-raider/) (`hojas/fondos_interfaz_03.jpg`, nº7 a nº18):
+- **Menú principal** (nº7): la escena del juego difuminada detrás; lista en versales alineada a la izquierda (CONTINUE, LOAD GAME, OPTIONS, CREDITS…). La opción activa lleva **una barra rojo óxido detrás**, de unos `#802810` (medido por el redactor en la miniatura, ⚠️ aproximado). Abajo, un consejo con paginador «1/3». ✅
+- **Objetivo** (nº8): título + línea fina + objetivo, icono redondo, «[TAB] VIEW MAP». ✅
+- **Punto de habilidad** (nº9): **moneda dorada «+1»** (`#E6D178`, medido en la miniatura ⚠️), «+1 SKILL POINT · Upgrade skills at Base Camps» y una barra fina. ✅
+- **Instinto de supervivencia** (nº10): la imagen se apaga a gris azulado y lo útil se **enciende en dorado ámbar**. Es un filtro de pantalla, no un panel. ✅ visto · ⚠️ el diseñador de la interfaz de 2013 es **Shay Casey** según [Behance](https://www.behance.net/gallery/19331563) y [Game UI Database](https://www.gameuidatabase.com/gameData.php?id=339), sólo por el resumen del buscador (403).
+- **Mapa del mundo** (nº12): «WORLD MAP · 1 % COMPLETE», objetivo con flecha («IN THE SHADOWS → Find Dominguez»), zonas sin explorar como **«LOCATION UNKNOWN»**. ✅
+- **Audio e idiomas** (nº13): volumen de música, diálogo y efectos, idioma de voz, **Voice-Over Immersion**, subtítulos y **color de subtítulo**. ✅
+- **Reliquias** (nº14 y nº16): árbol de colecciones por región con su %, **polaroid** del objeto elegido y visor 3D con nombre, facción y párrafo. ✅
+- **Tutoriales** (nº11, nº15, nº18) y **recursos** (nº17): «+15 XP», contadores «+2 +1» arriba a la derecha, «RESOURCE CONTAINERS · Search inside various containers for common resources». ✅
+- **Juegos clásicos**: el **anillo de inventario** («Inventory Ring»), con los objetos girando en 3D en círculo sobre fondo oscuro. ⚠️ confirmado en dos textos (wiki «Tomb Raider Controls» y Stella's Site), sin captura propia.
+- **Contenido de depuración** (The Cutting Room Floor): menú de *debug* con «Escape-Tab» y las opciones `-debugkeys` y `-dev` en el remaster. ⚠️ sólo por el resumen del buscador: TCRF y Wayback bloqueados.
+
+## 12 · Lo que ama el fandom y qué NO hacer
+
+**Lo que ama:**
+- **Encerrar a Winston en el congelador.** En TR2 y TR3 el mayordomo sigue a Lara por la mansión con su **bandeja de té**; el secreto es meterlo en la cámara frigorífica. Un juego posterior trae una nota de Winston quejándose de aquel día, y el remaster lo premia. Los fans bromean: «¿es Tomb Raider si Lara no ha encerrado a Winston?». ✅ ([GAMEPRESSURE](https://www.gamepressure.com/newsroom/tomb-raider-remaster-rewards-freezing-laras-butler-winston/zc6976) y [TheGamer](https://www.thegamer.com/tomb-raider-2-butler-winston-last-minute-addition/)).
+- **La Lara de triángulos** de 1996-2000 (manos y cuerpo de polígonos visibles), los fallos clásicos (atascarse en escaleras, nadar raro, atravesar paredes) y los *speedruns* imposibles. ⚠️ una fuente de resumen ([TheGamer](https://www.thegamer.com/tomb-raider-hilarious-memes-only-fans-understand/)).
+- **«I hate tombs»** («odio las tumbas»), chiste de una Lara joven en el reboot sobre el propio nombre de la saga. ⚠️ una fuente, sin minuto.
+- **570 dibujos** con la etiqueta «lara_croft» en Danbooru (datos del recolector).
+
+**Qué NO hacer:**
+- **No ponerla como víctima ni sexualizarla.** En el E3 2012 un productor dijo que unos saqueadores «intentan violarla» en el reboot. Hubo escándalo; el estudio aclaró que la escena es la de su primera muerte en defensa propia, no una agresión sexual. ✅ ([Kotaku](https://kotaku.com/tomb-raider-creators-are-no-longer-referring-to-games-a-453100845) y [Forbes](https://www.forbes.com/sites/danielnyegriffiths/2012/06/13/crystal-dynamics-tomb-raider/)). **Lección**: Lara siempre en control. Su miedo o su cansancio se ven; el sometimiento, nunca.
+- **No reducirla a su cuerpo.** Cuando el reboot bajó la sexualización y subió su competencia, vendió **un millón de copias en 48 horas**, récord de la saga entonces. Los fans valoran más su cabeza y su tesón ✅ ([The Artifice](https://the-artifice.com/the-metamorphoses-of-lara-croft/) y [Christ and Pop Culture](https://christandpopculture.com/a-tale-of-two-tomb-raiders-sex-and-objectification-in-the-action-franchise/)).
+- **No mezclar épocas sin querer**: la Lara Classic (tank top menta, trenza, dos pistolas, mansión) y la Survivor (tank top sucio, arco, piolet, heridas) son dos personajes para el fan. Si salen juntas, que sea a propósito, como en los collages oficiales.
+- **No hacerla disfrutar matando** en la época Survivor: mata sólo si no queda otra y le pesa (punto 13).
+- **No dibujar globos ni onomatopeyas**: no existen en los juegos (puntos 5 y 6).
+- **No ponerle un habla de barrio**: la Lara clásica tiene acento inglés de clase alta (punto 13).

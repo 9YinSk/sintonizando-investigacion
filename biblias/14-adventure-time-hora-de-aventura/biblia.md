@@ -1041,6 +1041,16 @@ Cuando **aparece texto**, sale en **objetos**:
 Lo que cito entre comillas sale de las transcripciones ✅. Lo demás que
 marco ⚠️ es de memoria o de una sola fuente.
 
+Segunda pasada: cada ficha lleva un bloque **«A fondo»** con la wiki
+inglesa leída entera por su API
+([Marceline](https://adventuretime.fandom.com/wiki/Marceline),
+[Finn](https://adventuretime.fandom.com/wiki/Finn),
+[Jake](https://adventuretime.fandom.com/wiki/Jake),
+[Princess Bubblegum](https://adventuretime.fandom.com/wiki/Princess_Bubblegum),
+[BMO](https://adventuretime.fandom.com/wiki/BMO),
+[Ice King](https://adventuretime.fandom.com/wiki/Ice_King)) y **su cara en
+una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
+
 ### Marceline Abadeer, «la Reina Vampiro» — la elegida
 
 - **Quién es**: vampira de **más de mil años**, hija de **Hunson
@@ -1081,6 +1091,32 @@ marco ⚠️ es de memoria o de una sola fuente.
   orgulloso: «I am proud of my punk daughter!») ✅.
 - **Voces**: inglés **Olivia Olson** ✅; latino **Isabel Martiñón** ✅
   (ver §10).
+- **A fondo** ✅: al principio es **antagonista traviesa** («Evicted!»,
+  1×12) hasta que Finn ve que es «a radical dame who likes to play
+  games». Debajo de la fachada dura es **muy sentimental**: rompió con su
+  ex **Ash** cuando él vendió a Hambo. **Le cuesta decir lo que siente si
+  no es cantando** («Fry Song», «I'm Just Your Problem»). Arco: de villana
+  traviesa → amiga más madura que acepta su inmortalidad → en «Obsidian»,
+  **madura sin perder lo juguetón**. Su miedo de fondo es **el peso de la
+  inmortalidad**: ver morir a quien quiere, y el precio de sus poderes
+  («Stakes»). Pendleton Ward dijo que su popularidad **«creció
+  enormemente»** tras su primer episodio.
+- **Qué transmite**: la amiga mayor, cool y un poco triste. Da ganas de
+  que la dejen tocar en paz y a la vez de abrazarla.
+- **Su cara, vista en vídeo** ✅:
+  - **Tristeza**: primerísimo primer plano, **cabeza echada atrás, dientes
+    apretados en triángulo, una sola lágrima** de un ojo cerrado, cantando
+    con Simon a la batería («I Remember You», clip oficial,
+    [1:18](https://www.dailymotion.com/video/xzt1l7?t=78)).
+  - **Dolor o pensar**: de pie, **mano en la cabeza**, cara de angustia
+    (mismo clip, [0:24](https://www.dailymotion.com/video/xzt1l7?t=24)).
+  - **Rabia al cantar**: **ceño fruncido, colmillos a la vista**, canta con
+    fuerza («I'm Just Your Problem», [0:52](https://www.dailymotion.com/video/x537pqr?t=52)).
+  - **Susto**: ojos muy abiertos, fondo oscuro estrellado (tráiler de
+    «Obsidian», [1:24](https://www.dailymotion.com/video/x7xejon?t=84)).
+  - **Cantar algo íntimo**: ojos entornados, boca abierta («Fry Song»,
+    [0:32](https://www.dailymotion.com/video/x51arca?t=32)).
+  - ⚠️ Alegría y vergüenza: sin fotograma propio todavía.
 
 ### Finn el humano
 
@@ -1096,6 +1132,21 @@ marco ⚠️ es de memoria o de una sola fuente.
   tontas («A Song About Noodles», 3×10) ✅.
 - **Cuerpo**: brazos de fideo, **pulgar arriba** cuando algo sale bien
   («Finn gives Jake a thumbs up», 3×21) ✅; se sonroja con facilidad ✅.
+- **A fondo** ✅: impulsivo y a veces de mal genio, pero **bondadoso,
+  valiente y con un código moral casi absoluto**: le cuesta hasta robar en
+  una misión («City of Thieves»). Hace de «sheriff moral» de Ooo. Arco: al
+  saber que su padre humano es un egoísta («Wake Up», «The Tower») casi cae
+  en la venganza y aprende a controlarla; madura en el amor (besa a la
+  Princesa en «Too Young», sale con la Princesa Flama) tras **vomitar de
+  vergüenza** con escenas románticas en «Go With Me». **Casi nunca llora**:
+  sólo ante algo devastador («Dad's Dungeon»). Sus muletillas matemáticas
+  («mathematical», «rhombus», «algebraic») **le sirven de palabrota**.
+- **Qué transmite**: el niño que crece con su público; *Entertainment
+  Weekly* lo compara con los que crecieron con Harry Potter (punto 21).
+- **Su cara, vista en vídeo** ✅: **vergüenza**, óvalo rosa claro en las
+  mejillas, **boca en rayita recta**, ojos redondos con la pupila de punto
+  descentrada (piloto subtitulado,
+  [6:00](https://www.dailymotion.com/video/x84oaz2?t=360)).
 
 ### Jake el perro
 
@@ -1110,6 +1161,17 @@ marco ⚠️ es de memoria o de una sola fuente.
   Doblaje Wiki por búsqueda). Ver §10.
 - **Cuerpo**: tumbado, relajado; se transforma en cosas (en el final,
   **en megáfono**, 10×13 ≈37:15) ✅.
+- **A fondo** ✅: relajado, **cero preocupado**, tira de sus poderes o de
+  Finn para salir de líos; hace de **mentor sabio** con consejos que van de
+  brillantes a absurdos. A veces es **irresponsable** y deja a Finn solo,
+  pero **siempre aparece cuando hace falta**. La wiki apunta que quizá es
+  disléxico y tiene rasgos de TDAH ⚠️ (lo dice como «posible», no es
+  oficial).
+- **Su cara, vista en vídeo** ✅: **alegría y orgullo**, ojos enormes casi
+  todo blancos con una franja negra abajo y **sonrisa ancha de dientes
+  cuadrados**, al ver el «Jakeseum» («Jake the Starchild», clip oficial,
+  [1:39](https://www.dailymotion.com/video/x6gkz32?t=99)). Ojo: ahí se ve
+  **azulado** por la luz de noche, no amarillo.
 
 ### Dulce Princesa (Princess Bubblegum, Bonnibel)
 
@@ -1125,6 +1187,18 @@ marco ⚠️ es de memoria o de una sola fuente.
   song» («Obsidian») ✅.
 - **Cuerpo**: postura recta, manos juntas o señalando, bata de
   laboratorio en ciencia ⚠️.
+- **A fondo** ✅: amable y educada, pero con un lado **frío y hasta un
+  poco macabro**: corta y reconecta extremidades de criaturitas «sin
+  dolor» («The Lich»), bromea con venenos («The Other Tarts»). **Muy
+  racional**, cree que «toda magia es ciencia». Bajo estrés extremo **come
+  de más**. Tiene **827 años** según *Explore the Dungeon Because I DON'T
+  KNOW!* y es más joven que Marceline según *The Art of Ooo*. Es el
+  personaje con **más vestuarios** de la serie.
+- **Su cara, vista en vídeo** ✅: **preocupación**, ojos muy redondos con
+  brillo blanco, boquita entreabierta y **manos juntas contra el pecho**,
+  cuando su experimento de revivir un ratón se le va de las manos
+  («Slumber Party Panic», 1×01, clip de CN,
+  [2:12](https://www.dailymotion.com/video/x8ghhnc?t=132)).
 
 ### BMO
 
@@ -1135,7 +1209,16 @@ marco ⚠️ es de memoria o de una sola fuente.
   Tiene **disco propio**: «BMO's Mixtape» (§3.4) ✅. La Princesa le hace
   sonar «Sound Structure Alpha» (3×10) ✅.
 - **Cómo habla**: como un niño pequeño muy seguro de sí mismo; habla de
-  sí en tercera persona a veces ⚠️.
+  sí en tercera persona a veces ✅ (confirmado en su ficha de la wiki).
+- **A fondo** ✅: dice «I am incapable of emotion», pero **llora, se enoja
+  y se pone celoso**. Muy protector («If anyone tries to hurt Finn, I will
+  kill them»). **Media cuando Finn y Jake se pelean** (edita su película en
+  «Video Makers» para arreglarlo). **Era el personaje favorito del propio
+  Pendleton Ward** (entrevista con Hot Topic, citada en la wiki).
+- **Su cara, vista en vídeo** ✅: **calma**, ojos cerrados en dos curvas y
+  boca curva hacia arriba, en brazos de su creador («The More You Moe, The
+  Moe You Know», 3.ª temporada,
+  [2:36](https://www.dailymotion.com/video/x3q931u?t=156)).
 
 ### Los secundarios musicales
 
@@ -1149,6 +1232,38 @@ marco ⚠️ es de memoria o de una sola fuente.
   canción nueva** al final de la serie (10×13) ✅. Poco conocido, pero su
   frase es perfecta para el canal.
 - **Glassboy** («Obsidian»): **fan de Marceline**, con muñeca suya ✅.
+
+### Rey Helado / Simon Petrikov (el secundario más querido por la crítica)
+
+- **Como Simon**: arqueólogo inteligente y cariñoso, capaz de un enorme
+  sacrificio: **cuidó a Marceline niña en el apocalipsis** mientras la
+  corona lo volvía loco. Sus cartas a ella («I Remember You») muestran
+  que **temía abandonarla** ✅.
+- **Como Rey Helado**: en las primeras temporadas, **villano pesado «tipo
+  Gargamel»**; desde la 3.ª, **personaje trágico y solo** que quiere
+  casarse con una princesa **sin recordar por qué**: el eco de haber
+  perdido a **Betty** ✅. *Vulture* lo llamó **«el mejor personaje de Adventure
+  Time»** y lee su arco como una metáfora del **Alzheimer** ✅
+  ([Wikipedia: Ice King](https://en.wikipedia.org/wiki/Ice_King)).
+- **Cómo se expresa**: optimista incluso en lo peor. En el final consuela
+  a Finn: nadie elige cómo morir, pero al menos estaban juntos ✅.
+- **Su cara, vista en vídeo** ✅: **molesto y cómico**, en el piloto, con
+  Finn haciéndole una llave por detrás; dice «**Eso... es estúpido**»
+  (subtítulo del clip): cejas caídas, ojos entrecerrados, **boca en
+  zigzag** ([4:05](https://www.dailymotion.com/video/x84oaz2?t=245)).
+- **Voz latina**: **Óscar Flores** en toda la serie ✅ (§10).
+
+### Dinámicas (para láminas en grupo) ✅
+
+- **Marceline y la Dulce Princesa**: de la tensión con humor a **pareja
+  oficial** (beso en el final, 10×13; «Obsidian», ríen juntas).
+- **Marceline y Simon**: padre e hija adoptivos. Ella (y Betty) es la única
+  que lo llama «Simon», y él lo acepta de ella.
+- **BMO media** entre Finn y Jake.
+- **Jake, el hermano sabio pero disperso; Finn, el impulsivo con código
+  moral**: ese contraste es la base cómica del dúo.
+- **Quién hace reír a Marceline**: Finn, al que chincha; **con quién
+  discute**: su padre Hunson y, al principio, la Princesa.
 
 ---
 

@@ -1593,3 +1593,63 @@ y [«¿Batallas épicas?, Frieren las tiene»](https://www.youtube.com/watch?v=j
   líneas, mucho silencio: práctica de **pausa y tono contenido**. Encaja
   con el hilo de ejemplo de #📖・textos («Monólogo, tono contenido») y con
   el concepto C.
+
+## Punto 23 · Colaboraciones, exposición y cruces
+
+Los **cafés, tiendas, figuras oficiales** (Nendoroid con hierba luna azul,
+Funko de Himmel con corona…) y el **cosplay** están en **33 Punto 23**
+(más de 15 colaboraciones). Aquí, lo que encaja con paisajes y memoria.
+
+### 23.1 La exposición: el fondo como obra de museo
+
+- **«アニメ 葬送のフリーレン展 〜冒険の終わりから始まる物語〜»** («La historia
+  que empieza cuando termina la aventura»), itinerante: **Ikebukuro Sunshine
+  City** (abr-2024) → **Sapporo** → **Museo de Arte del Siglo XXI de
+  Kanazawa**, Galería B (**7-ago a 6-sep-2025**) ·
+  [@frieren_ten en X](https://x.com/frieren_ten/status/1920765692581748944)
+  y [Tokyo Weekender](https://www.tokyoweekender.com/event/frieren-beyond-journeys-end-anime-exhibition/)
+  ✅ dos fuentes.
+- Trae **ilustraciones nuevas** hechas para la exposición («Exhibition
+  Illustrations») por el staff: **Reiko Nagasawa**, **Ayaka Minoshima**
+  (una de Frieren y otra de Himmel), **Daiki Tanaka**, **Kanata
+  Yanagisawa** y más · [galería de la T1 en la wiki](https://frieren.fandom.com/wiki/Frieren:_Beyond_Journey%27s_End_Season_1/Gallery)
+  ✅. **Poses y ropa nuevas**: mirarlas antes de elegir pose.
+- **Por qué importa**: el estudio **expone su arte de fondos como pieza de
+  museo**. Es la prueba de que el paisaje de Frieren es arte por sí mismo,
+  no decorado.
+- ⚠️ No se encontró **catálogo impreso** propio de la exposición
+  (búsquedas «フリーレン展 図録» y «Frieren background art exhibition
+  catalog»). Los libros que sí hay: **Official Guide Book** (jul-2024,
+  144 pp., con las planchas de fondo) y **Art Works Vol. 1** (dic-2023,
+  128 pp.) (Punto 1).
+
+### 23.2 MapleStory × Frieren: empieza con una estatua
+
+- **9-sep a 7-oct-2026**. El evento **arranca con una estatua de bronce
+  que aparece en «Mushroom Hill»**, una zona clásica del juego, antes de
+  que llegue el grupo. Misiones para coleccionar **grimorios** («Frieren's
+  Spell Collection Event»), Frieren y Fern ayudan en combate, mascotas
+  «Petite Luna» y trajes ·
+  [Noisy Pixel](https://noisypixel.net/maplestory-frieren-beyond-journeys-end-collaboration-september-2026/)
+  y [Nexon, sitio oficial](https://www.nexon.com/maplestory/micro-site/frieren)
+  ✅.
+- **La estatua viaja**: el símbolo de la memoria de Himmel abre hasta un
+  *crossover*. Un argumento más para el concepto A.
+- ⚠️ No se vieron capturas de sus cajas de diálogo (el evento empezó el
+  mismo día que la tanda).
+
+### 23.3 Cosplay en un paisaje real y tours oficiales
+
+- **Cosplay del grupo del héroe en el campo de nemófilas** de Hitachi,
+  viral con **230 mil «me gusta»** ·
+  [nlab.itmedia.co.jp](https://nlab.itmedia.co.jp/cont/articles/3377207/)
+  ✅. Buena referencia de **volumen de capa y tela al viento** en un
+  paisaje de verdad.
+- **Colaboraciones con sitios reales** (AniTabi, Punto 16.5): el tour
+  «**Welcome to Kumamoto Journey**» en las ruinas del ferrocarril Kumaen y
+  un **evento en Laguna Ten Bosch** (Aichi) ✅ una fuente de mapa + guías
+  japonesas.
+- **Cosplay con licencia libre** (Wikimedia Commons vía Openverse, **CC
+  BY-SA 4.0, foto de Benlisquare**): Fern
+  en Comiket 105 y SMASH 2025, Frieren en Comiket 107, Übel en Comic World
+  Taiwán (6000×4000 o más) · `referencias.json` n.º 65-80 ✅ medidos.

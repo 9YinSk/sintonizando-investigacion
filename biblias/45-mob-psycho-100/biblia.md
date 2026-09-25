@@ -458,3 +458,111 @@ de la T3 (n.º 18).
   metal gris (ver los tonos de arriba).
 
 ---
+
+## 6 · Tipografía: una letra para cada uso
+
+**El logo** es el mismo en manga y anime desde 2012: katakana
+モブサイコ100 en bloque, **cada trazo cortado en diagonal**, como con
+tijera, en un solo magenta plano **`#C01B8B`** (medido sobre el
+[SVG oficial de Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/57/Mob_Psycho_100_logo.svg),
+PD-textlogo, pero es marca registrada). Diseño: **Yasuo Shimura**
+(志村泰央), «Title Logo Design» en las tres temporadas ✅ (AniList +
+Commons).
+
+| Uso | Cómo es en la serie | Letra libre | ¿á ñ ¿ ¡? |
+|---|---|---|---|
+| **Logo o título** | trazos cortados en diagonal, magenta | **Yukarimobile** (Vic Fieger, [dafont](https://www.dafont.com/yukarimobile.font), 100 % gratis) ✅ la identificó un usuario del foro de dafont y se comprobó renderizando «Mob Psycho 100» | ✅ fontTools: á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü (655 glifos) |
+| Logo, plan B | — | **Bangers** ([Google Fonts](https://fonts.google.com/specimen/Bangers), OFL): mismo aire, **sin** el corte diagonal | ⚠️ sin comprobar |
+| **Globo normal** | óvalo simple, línea fina, letra de imprenta sin adornos (en inglés, John Clark para Dark Horse ⚠️) | **Comic Neue** ([Google Fonts](https://fonts.google.com/specimen/Comic+Neue), OFL) | ✅ fontTools |
+| Globo normal, aire manga | — | Anime Ace 2.0 BB (Blambot) | ❌ no trae ¿ ni ¡ (comprobado en la biblia 35): no usar en español |
+| **Grito y nombre de técnica** | **globo dentado** con el texto en mayúsculas siguiendo el borde, líneas de velocidad detrás (hoja n.º 59, 62); en el anime, katakana enormes a pincel rojo y negro (n.º 3, 4) | **Anton** ([Google Fonts](https://fonts.google.com/specimen/Anton), OFL) | ✅ fontTools |
+| **Pensamiento** | casi no hay globo de nube: lo que siente Mob se ve en el **medidor de %** (§7) | Comic Neue en cursiva, si hace falta ⚠️ | ✅ |
+| **Onomatopeya** | katakana negras de trazo desgarrado, sin traducir: ドカドカドカッ, ゴトッ, ガコンッ, ぺた ぺた (n.º 62), ボッ, ドボォ (n.º 66) | **Dela Gothic One** ([Google Fonts](https://fonts.google.com/specimen/Dela+Gothic+One), OFL, japonés) | ✅ fontTools |
+| **Tarjeta de emoción** (el «cartel» de la serie) | kanji gótico muy grueso con bordes rotos, a página entera, y la palabra en inglés en mayúsculas a mano debajo (怒り ANGER) | kanji: **Dela Gothic One**; o Shippori Mincho B1 ExtraBold si se quiere trazo de pincel. Palabra de abajo: **Anton** o Big Shoulders Display | Dela y Anton ✅; Shippori y Big Shoulders ⚠️ sin comprobar |
+| **Cartela de presentación** | rectángulo blanco liso, línea pequeña arriba y nombre grande abajo, mayúsculas de máquina algo irregulares (n.º 29); en el anime, nombre en kanji vertical blanco con filo azul (n.º 41) | **Comic Neue Bold** en mayúsculas ⚠️ (falta una letra de máquina irregular con tildes); kanji: Dela Gothic One | ✅ |
+| **Interfaz de juego** (*Psychic Battle*) | sans redondeada blanca, caja blanca redondeada con el nombre en negrita | **Nunito** ([Google Fonts](https://fonts.google.com/specimen/Nunito), OFL) ⚠️ la letra exacta del juego no se identificó | ✅ fontTools |
+| **Subtítulos y créditos** | los de la plataforma (Crunchyroll, Netflix): sans blanca con borde; los créditos del opening en japonés, blanco fino | una sans neutra (Nunito sirve) ⚠️ sin fotograma de subtítulo en español | ✅ |
+
+**Lo que no hay que hacer**: poner el logo en una letra redonda y
+limpia; perder el corte diagonal lo convierte en otra serie.
+
+---
+
+## 7 · Cómo hablan en pantalla: tarjetas, cartelas y globos
+
+Mob Psycho 100 **no tiene un globo propio como marca**. Tiene cinco
+recursos que no se parecen a los de otra serie. Los cinco se vieron en
+las hojas (recortados y ampliados).
+
+### 7.1 La tarjeta de emoción (lo más reconocible)
+
+- Página entera, **fondo blanco**, un **kanji enorme** de la emoción en
+  negro muy grueso, de bordes rotos, y debajo la palabra **en inglés en
+  mayúsculas** hechas a mano: 怒り ANGER, 殺意 MURDEROUS INTENT, 悲しみ
+  SADNESS, 感謝 GRATITUDE, 優しさ KINDNESS, 勇気 COURAGE, 快感 ECSTASY, 恥
+  SHAME, 敵意 HOSTILITY (hojas n.º 1, 9, 33, 49, 56, 57, 60, 61, 63, 66, 67) ✅.
+- Va **justo antes de que Mob estalle al 100 %**. La emoción no siempre es
+  rabia: puede ser gratitud, vergüenza o tristeza (§26).
+- En el anime se conserva: 殺意 en **rojo sobre negro** (n.º 9) y «怒り /
+  ANGER», «悲しみ / SADNESS» en el ep. 3 ✅ (§2.4).
+- Ejemplos grandes: [怒り ANGER, 2210×1600](https://static.wikia.nocookie.net/mob-psycho-100/images/3/3b/Mob_100%25_Anger.jpg)
+  y [優しさ KINDNESS, 715×1013](https://static.wikia.nocookie.net/mob-psycho-100/images/f/f1/Kindness.jpg).
+
+### 7.2 La cajita de estado «nombre + %»
+
+En la tarjeta 感謝 GRATITUDE (hoja n.º 56,
+[1060×750](https://static.wikia.nocookie.net/mob-psycho-100/images/4/47/Mob_100%25_Gratitude_%28Reigen_1000%25%29.jpg))
+hay un **rectángulo blanco con dos filas**: «MOB 0%» y «REIGEN 1000%», en
+letra de máquina algo torcida, sin marco decorativo ✅. Es del **manga**
+(página en blanco y negro), no del anime (§28). En el anime, lo mismo sale
+como **texto en pantalla**: «Progress Toward Mob's Explosion: 88%» (ep. 3,
+17:15) y el cartel rojo «100%» a toda pantalla (ep. 12, 5:40) ✅.
+
+### 7.3 La cartela de presentación
+
+- **Manga**: rectángulo blanco de esquinas rectas, sin filete ni sombra;
+  arriba una línea pequeña («UPPER CLASS EVIL SPIRIT») y abajo el nombre
+  grande («DIMPLE»), encima del dibujo a página entera (n.º 29,
+  [1084×1600](https://static.wikia.nocookie.net/mob-psycho-100/images/8/84/Dimple_%28upper_class_evil_spirit%29.png)) ✅.
+- **Anime**: el nombre en **kanji vertical blanco con filo azul oscuro**,
+  su lectura en hiragana pequeña al lado (はなざわてるき) y a la derecha el
+  colegio y curso (黒酢中2年, «2.º de la secundaria Black Vinegar»), sobre
+  un fondo apagado con el personaje en color (Teru, n.º 41) ✅ visto en la
+  hoja. Con Dimple, el rótulo sale arriba a la derecha: «Evil Spirit:
+  High-Level Dimple» (n.º 52) ⚠️ puede ser el subtítulo de fans.
+
+### 7.4 El diagrama de técnica (el gag de Reigen)
+
+Cuando Reigen «explica» una técnica que es sólo un golpe, la viñeta se
+vuelve **una lámina de instrucciones**: etiquetas rectangulares de borde
+irregular, unidas con líneas rectas a lo que señalan: «REIGEN ARATAKA'S
+SECRET TECHNIQUE / KNEE STRIKE» en la rodilla y «EVIL SPIRIT» en el
+espíritu (n.º 35,
+[1130×940](https://static.wikia.nocookie.net/mob-psycho-100/images/1/1a/Reigen_Special_Technique_-_Knee_Strike.png)) ✅.
+Es perfecto para **explicar un canal** con la voz de Reigen.
+
+### 7.5 El grito: globo dentado
+
+Globo en forma de **estallido**, texto en mayúsculas pegado al borde,
+líneas de velocidad detrás: «RAINBOW SEAL!!!» (técnica de Reigen, n.º 59)
+y «PICKING EVIL PURIFICATION!» (n.º 62) ✅. En el anime, el nombre de la
+técnica sale en **katakana gigantes a pincel**, rojo y negro, sobre el
+dibujo a lápiz de color (n.º 3 y 4) ✅.
+
+### 7.6 Lo demás
+
+- **Globo normal**: óvalo simple de línea fina ✅.
+- **Pensamiento**: casi no hay nube; el medidor de % hace ese papel. El
+  diálogo interior va en voz en off ⚠️ (sin viñeta concreta).
+- **Juego *Psychic Battle***: caja blanca redondeada con el nombre en
+  negrita («Memory») dentro de un marco de tele, y la frase **debajo, en
+  blanco con contorno negro grueso**, sin globo (§13) ✅.
+- **Subtítulos**: los de la plataforma ⚠️.
+
+**Qué NO hacer**: una burbuja blanca ovalada para un grito (el grito es
+dentado); y olvidar la tarjeta de emoción, que es lo que un fan reconoce
+antes que cualquier globo. No hay entrada de Mob Psycho 100 en
+`biblias/_ya_hechas/_Cuadros de dialogo por franquicia.md`: esta sección
+la puede alimentar.
+
+---

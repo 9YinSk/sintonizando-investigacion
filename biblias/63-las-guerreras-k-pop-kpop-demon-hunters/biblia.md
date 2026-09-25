@@ -661,3 +661,107 @@ muestras.
 - En grupo, Rumi va **en el centro**, Mira a un lado, siempre de
   perfil respecto a cámara («How It's Done» 0:54). ✅
 
+## 9 · ¿Quién es el más querido? (punto 7)
+
+**No hay encuesta oficial por personaje** (ni de Netflix ni de Sony).
+Lo que sí hay:
+
+- **YouGov (EE. UU.), sobre la película**: la conoce el 61%; le gusta
+  al 31% de quienes la conocen; le disgusta al 12%
+  ([YouGov](https://yougov.com/en-us/topics/movies/KPop_Demon_Hunters)). ✅
+- **Ranking de Collider por lo querible** (ago-2025): 1.º **Rumi** («la
+  más humana»), 2.º **Zoey** («la más divertida»), 3.º **Mira**, 4.º
+  **Bobby**, 5.º Jinu, 6.º Derpy y Sussie, 7.º el doctor Han, 8.º los
+  Saja Boys, 9.º Celine, 10.º Gwi-Ma
+  ([Collider](https://collider.com/kpop-demon-hunters-characters-likability-ranked/)). ✅
+- **Reddit, r/KpopDemonhunters**: el debate de siempre es **Mira contra
+  Rumi** («Mira es la dura» / «Rumi es la más identificable»); Zoey
+  tiene un grupo más pequeño. Hilo con más votos: 120 votos y 60
+  comentarios
+  ([hilo del aniversario](https://www.reddit.com/r/KpopDemonhunters/comments/1u24oq4/));
+  otro de 95 votos y 70 comentarios
+  ([«who is your favorite character?»](https://www.reddit.com/r/KpopDemonhunters/comments/1wdm1vs/hi_im_brand_new_herei_discovered_kpdh_not_long/)). ✅
+- ⚠️ El recuento de fan art de Danbooru **no sirve**: el recolector
+  mezcló personajes de otras obras.
+
+**Conclusión para la lámina:**
+- **Rumi** es a la vez la protagonista y la más querida. Aquí no hay un
+  secundario que la supere.
+- **Mira** va muy cerca: la favorita de quien quiere carácter.
+- El secundario que sorprende: **Bobby**, el mánager, por delante de
+  Jinu.
+- El más querido «de meme»: **Derpy** (§14).
+- Jinu es el que más hace llorar (§22).
+
+## 10 · Doblaje latino y frases textuales (punto 8)
+
+**Ficha** (Doblaje Wiki por su API; confirmada por
+[ANMTV](https://www.anmtvla.com/2025/06/las-guerreras-k-pop-ya-esta-disponible.html)):
+- Título: **«Las guerreras k-pop»**.
+- Estudio: **Media Access Company Argentina**.
+- Dirección de doblaje y dirección musical: **Irene Guiser**.
+- Traducción: **Solana Malacco**. Adaptación musical: **Sandra
+  Brizuela**.
+- Grabado en **enero y febrero de 2025**. Con diálogos grabados en
+  España (Azul Bötticher y Luciana Falcón Graña) y en México (Carlo
+  Vázquez Díaz)
+  ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Las_guerreras_k-pop)). ✅
+- En latino **las mismas actrices hablan y cantan**; sólo Celine tiene
+  dos voces (§0). ✅
+
+**Reparto** (dos fuentes: Doblaje Wiki y ANMTV o
+[Infobae](https://www.infobae.com/tecno/2025/11/25/las-guerreras-de-k-pop-como-se-llaman-y-quienes-son-las-voces-en-espanol/)):
+
+| Personaje | Voz latina | Estado |
+|---|---|---|
+| Rumi | **Azul Bötticher** | ✅ Doblaje Wiki, ANMTV, Infobae |
+| Rumi niña | Donna Ponce Carballo | ✅ Doblaje Wiki, Infobae |
+| Mira | **Karin Zavala** | ✅ tres fuentes |
+| Zoey | **Tatul Bernodat** | ✅ tres fuentes |
+| Jinu | **Juan Balvín** | ✅ tres fuentes |
+| Celine | Mara Campanelli (habla) / Paloma Odriozola (canta) | ✅ / ⚠️ sólo Doblaje Wiki |
+| Bobby | Alejandro Bono | ✅ tres fuentes |
+| Abby Saja | Nicolás Ginesin | ✅ (Infobae: «Guinessin») |
+| Romance Saja | Thomas Lepera | ✅ (Infobae: «Tomás») |
+| Gwi-Ma | Carlo Vázquez Díaz (México) | ⚠️ sólo Doblaje Wiki |
+| Mystery Saja | Pablo Gandolfo | ⚠️ sólo Doblaje Wiki |
+| Baby Saja | Mathias Rapisarda | ⚠️ sólo Doblaje Wiki |
+| Doctor Han | Pedro Ruiz | ⚠️ sólo Doblaje Wiki |
+| Anfitrión de los premios Idol | Hernán Tracchia | ⚠️ sólo Doblaje Wiki |
+| Presentadores de «Jueguen con nosotros» | Marcelo Pintos y Alan Kanaan | ⚠️ sólo Doblaje Wiki |
+| Demonio llorón | Luciana Falcón Graña | ⚠️ sólo Doblaje Wiki |
+
+- **Dato para el servidor**: Carlo Vázquez Díaz ya dobló a **Lee
+  Byung-hun** (actor original de Gwi-Ma) en *El juego del calamar*. Por
+  eso el meme del «Front Man» (§14). En Brasil pasa igual con Guilherme
+  Briggs. ✅
+
+**Frases textuales del doblaje latino.** Transcritas con `voz.py`
+(Whisper) de las **muestras oficiales de Doblaje Wiki**, y oídas. El
+minuto es **de la muestra**, no de la película. ✅ salvo lo marcado.
+
+| Quién | Frase | Muestra · minuto |
+|---|---|---|
+| **Rumi** | «Hasta que empezó a destruir lo único que me daba un propósito. Mi voz. Pero desde que te conocí y a medida que hablamos, no lo entiendo, pero de alguna forma mi voz estuvo sanando.» | [Rumi2 LGK.ogg](https://static.wikia.nocookie.net/doblaje/images/3/32/Rumi2_LGK.ogg/revision/latest?cb=20260629225230&path-prefix=es) · 0:08-0:18 |
+| **Mira** | «Miren, soy una persona un poco difícil. Muy franca, temperamental, agresiva. Toda mi vida esos rasgos fueron algo malo. Pero de alguna forma, con ustedes, me siento bien.» | [Mira (Audio)](https://static.wikia.nocookie.net/doblaje/images/b/b5/Mira_%28Audio%29_-_LGK.ogg/revision/latest?cb=20260629225208&path-prefix=es) · 0:27-0:36 |
+| **Zoey** | «¿Cómo lo resolvemos? ¿Qué sabrán los fans? [...] Antes de unirme a Huntrix sentía que mis pensamientos, mis letras y todas mis libretas eran inútiles y raras. Pero con ustedes dos significan algo. Yo tengo valor.» | [Zoey (Audio)](https://static.wikia.nocookie.net/doblaje/images/d/d3/Zoey_%28Audio%29_-_LGK.ogg/revision/latest?cb=20260629225233&path-prefix=es) · 0:00-0:20 |
+| **Jinu** | «Me recuerdan mi vergüenza, una vergüenza de la que no puedo escapar [...] Puedes contármelo, voy a entender. Soy el único que puede.» | [Jinu (Audio)](https://static.wikia.nocookie.net/doblaje/images/e/eb/Jinu_%28Audio%29_-_LGK.ogg/revision/latest?cb=20260629225205&path-prefix=es) · 0:12-0:27 |
+| **Gwi-Ma** | «¡Me pareció que creíste que podía ser libre! [...] Traicionaste a tu propia familia, las dejaste atrás, no olvides nuestro trato [...] No creas que puedes escapar de tu realidad.» ⚠️ una fuente | [Gwi-Ma (Audio)](https://static.wikia.nocookie.net/doblaje/images/a/a5/Gwi-Ma_%28Audio%29_-_LGK.ogg/revision/latest?cb=20260629225200&path-prefix=es) · 0:02-0:26 |
+| **Celine** | «Cubramos tus marcas y resolvamos las cosas. Les diré a Mira y a Zoey que todo fue una mentira, una ilusión de Guima para separarnos.» ⚠️ una fuente | [Celine (Audio)](https://static.wikia.nocookie.net/doblaje/images/8/84/Celine_%28Audio%29_-_LGK.ogg/revision/latest?cb=20260629225114&path-prefix=es) · 0:21-0:30 |
+
+- **Cómo se escriben al oído**: la transcripción revisada de las
+  muestras da «**Guima**» y «**Huntrix**». Para un texto en la voz del
+  doblaje, escribirlos así. ⚠️ (transcripción, no guion oficial)
+- **Cambios de traducción** (Doblaje Wiki, con cita de Azul
+  Bötticher): la burla de Jinu a Rumi, «¡Y tú eres de 1900!», quedó
+  como **«¿Qué eres, del siglo pasado?»**. ✅
+- **Canciones en latino**: «Golden» → **«Dorada»**, «Takedown» →
+  **«Nocaut»**, «Soda Pop» se queda igual. ✅
+- ⚠️ «¡Huntrix no se rinde!» (de «HUNTR/X don't quit!») es muy citada,
+  pero en pantalla sale en inglés. No hay clip doblado que confirme la
+  frase exacta.
+- ⚠️ **No hay clips oficiales doblados** en Dailymotion ni Internet
+  Archive. El tráiler latino subido por fans
+  ([x9tkmqo](https://www.dailymotion.com/video/x9tkmqo), 0:39) no
+  tiene diálogo. El clip `x9sl3s6` ya no existe.
+
