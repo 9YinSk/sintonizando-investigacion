@@ -51,6 +51,60 @@ fecha: 2026-09-24
 >   ⚠️ **dudoso**: una sola fuente, o lo describo de memoria. Lo de memoria
 >   siempre va marcado. **Lo que se VE** en una escena (la pose, la luz) lo
 >   describo de memoria ⚠️: mira el fotograma antes de usarlo.
+> - **Segunda pasada (25-sep-2026), con la red abierta y un equipo de
+>   cuatro investigadores** (imagen, vídeo, voz y texto). Se usó:
+>   `herramientas/fotogramas.py` sobre **episodios completos del doblaje
+>   latino en Internet Archive** (N001, N005, N025, N086; Shippuden 86 y
+>   135) y clips de **Dailymotion**; colores **medidos** con
+>   `herramientas/estilo.py` y Pillow; **Doblaje Wiki por su API** con
+>   segunda fuente (AniList, ANMTV, Fandoblaje Wiki); **Narutopedia por su
+>   API** (databooks, Akatsuki, Jinchūriki, bandana); **API de Sketchfab**
+>   (rigs con licencia); **Arctic Shift** (Reddit); **Jikan** (MyAnimeList).
+>   Siguió cerrado: YouTube desde el servidor («no soy un robot»), TV Tropes
+>   y TCRF directos (403), AnimeThemes (error 522).
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**, todo mirado en fotograma o medido:
+
+- **Naruto acepta la 10.ª pregunta** (N025): «golpea la mesa y se levanta»
+  → **sentado en su pupitre, brazo derecho en alto con el puño cerrado,
+  sudando, ceño fruncido**, 00:10:45-00:10:54
+  ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20025.mp4?t=648)) (§2, §15).
+- **«¡Aprobados!» de Kakashi** (N005, 19:54): «luz de mediodía, se inclina
+  hacia ellos» → **de noche, cielo morado con nubes**; Kakashi **salta en
+  el aire con los brazos cruzados**, Naruto sigue **atado al tocón,
+  riendo** ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=1194)) (§2, §5, §15).
+- **Vendas de Sasuke** (Parte I): «en los brazos» → **en las piernas y
+  tobillos**; jersey `#06406C` medido (§16).
+- **Vestido de Sakura**: `#C8283C` ⚠️ de memoria → **`#85223F`** medido
+  (rojo vino); en el fotograma de N005 a contraluz de atardecer da `#9C2A38` (§5, §16).
+- **Nube de Akatsuki**: «rojo puro `#C0282E`» → **`#58262D` / `#9B3E35`**
+  según la luz, borde hueso `#CFC3B7`; la tela no es negro puro, es
+  `#2A2B33` (§5, §16).
+- **Chaleco de Iruka**: ⚠️ → **`#8F9B7B`**, sombra `#3F4843` (§16).
+- **«Never Ending Spirit»** (Dailymotion): **no es un ending oficial**, es
+  un AMV de fan con marca «AnimeYT.tv». No se cita como oficial (§11).
+- **«Sadness and Sorrow»**: autor dudoso → **Yasuharu Takanashi** (dos
+  fuentes); shakuhachi, shamisen, piano y violín (§11).
+- **Doblaje**: pasan a ✅ con segunda fuente Gaara, Tsunade, Rock Lee,
+  Pain, Shikamaru, Minato (Edson Matus desde 2021), Iruka en Shippuden e
+  Ibiki (§10).
+
+**Añadido**:
+
+- Caras de Naruto y Tsunade por emoción con fotograma (§8).
+- Tendencia de TikTok del **«hand seal dance»** con «Silhouette» (§12).
+- Secciones nuevas de los **puntos 18 a 25**: técnica y cómo
+  replicarla, texturas 2D, gustos (databooks), por qué la aman y qué
+  escenas hacen llorar, fan dubs, colaboraciones y figuras, obras
+  parecidas, el mundo y sus símbolos.
+- Tabla **«Cumplimiento del encargo»** y bitácora de la segunda pasada.
+- `referencias.json` ampliado con las referencias de las cuatro partes.
+
+**⚠️**: había **84**; se resuelven unos 20 (colores, pose, voces, música,
+bandana rayada). Los que quedan se explican donde están y en la tabla de
+cumplimiento.
 
 ---
 
@@ -169,10 +223,10 @@ y N005 «**Fracasados: la conclusión de Kakashi**» (失格カカシの結論).
 | N005 | 00:05:54 | Kakashi, pensando: «**No me da tiempo a leer *Icha Icha Paradise***» | El libro en la mano |
 | N005 | 00:13:11 a 00:13:19 | «¿Saben qué significa **un equipo de tres**? **Trabajo en equipo**» | La respuesta del reto |
 | N005 | 00:13:51 a 00:14:03 | «**Es una prueba hecha a propósito para que se peleen**. Busco a los que pongan al equipo por delante de su propio interés» | **La trampa, explicada** |
-| N005 | 00:15:15 a 00:16:09 | Les muestra **la piedra de los caídos** (慰霊碑): «Aquí está grabado **el nombre de mi mejor amigo**» | Momento serio |
+| N005 | 00:15:15 a 00:16:09 | Les muestra **la piedra de los caídos** (慰霊碑): «Aquí está grabado **el nombre de mi mejor amigo**». A 16:07, **de espaldas, mano en el bolsillo**, luz de atardecer naranja entre los árboles ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=967)) ✅ | Momento serio |
 | N005 | 00:16:53 | «**Aquí, la regla soy yo**» (ここでは 俺がルールだ) | **Frase para la lámina** |
 | N005 | 00:17:40 a 00:18:51 | Sasuke y Sakura **le dan de comer a Naruto**, que está atado al poste, aunque estaba prohibido | Compartir |
-| N005 | 00:19:54 a 00:20:00 | «**¡A-pro-ba-dos!**» (ごうかっく！) | **Celebrar** |
+| N005 | 00:19:54 a 00:20:00 | «**¡A-pro-ba-dos!**» (ごうかっく！). **De noche, cielo morado con nubes**: Kakashi salta en el aire con los brazos cruzados, Sakura a su lado, Naruto **todavía atado al tocón, riendo** ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=1194)) ✅ | **Celebrar** |
 | N005 | 00:20:16 | «**Un ninja debe ver lo que hay debajo de lo de debajo**» (裏の裏を読むべし) | El lema de «Con trampa» |
 | N005 | 00:20:19 a 00:20:27 | «En el mundo ninja, **el que rompe las reglas es escoria. Pero el que abandona a sus compañeros es peor que escoria**» | **La frase más famosa de Kakashi** ✅ |
 | N005 | 00:20:46 | «**El equipo 7 empieza sus misiones mañana**» | Cierre |
@@ -187,7 +241,7 @@ y N005 «**Fracasados: la conclusión de Kakashi**» (失格カカシの結論).
 | N024 | 00:10:20 a 00:10:30 | Sakura entiende: «**No era un examen de conocimientos**» | La trampa |
 | N025 | 00:05:03 | «Primero van a **elegir si hacen o no la 10.ª pregunta**» | El dilema |
 | N025 | 00:06:22 | «**Este año, la regla soy yo**» (今年はこの俺がルールだ) | Eco de Kakashi |
-| N025 | 00:10:55 a 00:11:03 | Naruto golpea la mesa: «**¡No me subestimes! ¡Yo no huyo! La haré**. Aunque me quede de genin toda la vida, **seré Hokage igual**» | **Pose de reto aceptado** |
+| N025 | 00:10:45 a 00:11:03 | Naruto, **sentado en su pupitre**, alza el brazo derecho con **el puño cerrado**, sudando y con el ceño fruncido ([fotograma 10:48](https://archive.org/download/naruto-completo/Naruto%20-%20025.mp4?t=648), corregido en la segunda pasada: no golpea la mesa ni se levanta): «**¡No me subestimes! ¡Yo no huyo! La haré**. Aunque me quede de genin toda la vida, **seré Hokage igual**» | **Pose de reto aceptado** |
 | N025 | 00:11:41 a 00:11:44 | «**No me retracto de mis palabras. Ese es mi camino ninja**» (まっすぐ自分の言葉を曲げねえ 俺の忍道だ) | **El lema de Naruto** ✅ |
 | N025 | 00:12:33 | «**¡Todos los que quedan, aprobados!**» | Celebrar |
 | N025 | 00:12:52 a 00:12:55 | «**Esa pregunta nunca existió.** La elección **era** la 10.ª pregunta» | La trampa revelada |
@@ -214,7 +268,7 @@ y N005 «**Fracasados: la conclusión de Kakashi**» (失格カカシの結論).
 | «Superaré a todos los Hokage» | 先代の どの火影をも超えてやるんだ | N001, 00:05:09 ✅ |
 | «Te voy a enseñar mi técnica sexy» | お色気の術 | N001, 00:03:28 ✅ |
 | «¡Técnica de los clones de sombra!» | 影分身の術 | N001, 00:18:56 ✅ |
-| «Felicidades… te graduaste» (Iruka le da su bandana) | 卒業… おめでとう | N001, 00:20:41 ✅ |
+| «Felicidades… te graduaste» (Iruka le da su bandana) | 卒業… おめでとう | N001, 00:20:41 ✅ (el fotograma es un **primer plano de la bandana ya puesta**, [archivo](https://archive.org/download/naruto-completo/Naruto%20-%20001.mp4?t=1241)) |
 | «No me retracto de mis palabras. Ese es mi camino ninja» | まっすぐ自分の言葉を曲げねえ 俺の忍道だ | N025, 00:11:41; N044, 00:09:21 ✅ |
 | «¡Shannaro!» (la Sakura interior) | しゃーんなろ！ | N001, 00:02:42; N003, 00:03:49 ✅ |
 | «Qué fastidio» (Shikamaru) | めんどくせえ | N001, 00:03:01; N023, 00:04:53 ✅ |
@@ -454,20 +508,20 @@ no hace falta dar crédito, pero lo pongo.
 | **Campo de entrenamiento 3** | Claro del bosque con **tres tocones en fila** (donde Kakashi y el Tercero ataban a sus alumnos), un **río ancho y hondo**, montañas al fondo, y debajo **la piedra de los caídos**, pulida y **con forma de kunai** en el anime (una losa en el manga) | N004-N005 ✅; [Narutopedia: Third Training Ground](https://naruto.fandom.com/wiki/Third_Training_Ground), [Memorial Stone](https://naruto.fandom.com/wiki/Memorial_Stone) ✅ |
 | **La Academia** | Aula con pupitres en gradas; examen de graduación | N001 ✅ |
 | **Oficina de misiones** | Mesa larga con el Hokage e Iruka, y el **listado de misiones** | N006 ✅ |
-| **Aula del examen escrito** | Gradas con 153 aspirantes, Ibiki delante de la pizarra ⚠️ (el número, de memoria) | N024-N025 ✅ |
+| **Aula del examen escrito** | Gradas con 153 aspirantes, Ibiki delante de la pizarra ✅ (el número, en Narutopedia; en la segunda pasada) | N024-N025 ✅ |
 | **La Torre del Bosque de la Muerte** | Sala con el **lema del chūnin escrito en la pared** con huecos | N037, 00:06:02 a 00:06:55 ✅ |
 | **Ichiraku Ramen** | Puesto de ramen con **barra, taburetes y cortinita** (noren) | N001, N037, N055 ✅ |
 | **Roca de los Hokage** | Montaña con **las caras** de los Hokage. Parodia del **monte Rushmore** ✅ ([ScreenRant](https://screenrant.com/naruto-konoha-leaf-village-facts-trivia-secrets/)) | N001 (Naruto la pinta) |
 | **Valle del Fin** | Cascada entre **dos estatuas gigantes** (Hashirama y Madara), con lluvia | N133-N134, S476-S478 ✅ |
 
 **Konoha se inspira en el pueblo de Kishimoto** (Nagi, distrito de Katsuta,
-Okayama) ⚠️ ([ScreenRant](https://screenrant.com/naruto-konoha-leaf-village-facts-trivia-secrets/), una fuente).
+Okayama) ⚠️ ([ScreenRant](https://screenrant.com/naruto-konoha-leaf-village-facts-trivia-secrets/), una fuente; en la segunda pasada se buscó también en japonés, «岸本斉史 出身 ナルト 木ノ葉隠れ 元ネタ», sin segunda fuente).
 
-### 5.2 Luz ⚠️ (de memoria; compruébala en el fotograma)
+### 5.2 Luz (el campo 3, mirado en fotograma en la segunda pasada ✅; lo demás ⚠️ de memoria)
 
 | Sitio | Hora | Luz |
 |---|---|---|
-| Campo 3, los cascabeles | **De mañana a mediodía** (citados a las 5, el reloj suena a las 12 ✅) | Sol alto, **sombras cortas y duras**, verde intenso, cielo limpio |
+| Campo 3, los cascabeles | **De madrugada a mediodía en el reto** (citados a las 5, el reloj suena a las 12 ✅); **de noche en la resolución** | Durante el reto: sol, verde intenso. **El cierre («¡Aprobados!», N005 19:54) es de noche, cielo morado tormentoso con nubes** ✅ ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=1194)). Ante la piedra de los caídos (16:07), **atardecer naranja entre los árboles** ✅ ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=967)) |
 | Ichiraku | Noche o tarde | **Luz cálida** de la bombilla bajo el toldo, calle en penumbra azul |
 | Aula del examen | Día, interior | Luz blanca y plana, ambiente tenso |
 | Valle del Fin (N133) | Tormenta | **Gris azulado**, lluvia, contraluz de los rayos |
@@ -490,12 +544,14 @@ Narutopedia de §3.0. Margen: ±5 por canal. Lo que no pude medir va con ⚠️.
 | **Pelo de Kakashi** | `#D3D6DE` | medido en 498 ✅ |
 | Máscara de Kakashi | `#232526` | medido en 498 ✅ |
 | **Chaleco de jōnin** (verde grisáceo) | `#778372` | medido en 498 ✅ |
+| Chaleco de chūnin de Iruka | `#8F9B7B`, sombra `#3F4843` | medido en `Iruka_full.png` ✅ (segunda pasada) |
+| Jersey de Sasuke (parte 1) | `#06406C`, sombra `#262E38` | medido en `Sasuke_Part_I.png` ✅ (segunda pasada) |
 | **Pelo de Sakura** | `#EBB8BE` | medido en 495 ✅ |
 | Piel de Sakura | `#F4E0D2` | medido en 495 ✅ |
-| Vestido de Sakura | `#C8283C` | ⚠️ de memoria |
+| Vestido de Sakura | **`#85223F`** (rojo vino) | medido con `estilo.py` en la ficha de la wiki ✅ (segunda pasada; antes `#C8283C` de memoria). En el fotograma de N005 16:07, a contraluz de atardecer, da `#9C2A38` |
 | **Haori de Jiraiya** | `#902D43` | medido en 458 ✅ (rojo vino, no rojo puro) |
 | Pelo de Jiraiya | `#F5F5F5` | color dominante en 458 ✅ |
-| Capa de Akatsuki (Itachi) | `#1A1A1F` y nubes `#C0282E` | ⚠️ de memoria |
+| Capa de Akatsuki (Itachi) | Tela `#2A2B33` (azul-negro, no negro puro); **nube `#58262D` / `#9B3E35`** según la luz; borde de la nube hueso `#CFC3B7` / `#DCCFC8` | medido en dos imágenes de la wiki (`Edo_Itachi_NXB.png`, `Itachi_Akatsuki_Mobile.png`) y en un fotograma de Shippuden 86, 15:00 ([archivo](https://archive.org/download/naruto-shippuden-lat/Naruto%20shippuden%20Lat%2086.mp4?t=900)), donde en penumbra la nube baja a `#431C29` ✅ (antes `#1A1A1F`/`#C0282E` de memoria) |
 | **Cielo de Konoha** (detrás de Itachi) | `#609DE1` | medido en 486 ✅ |
 | **Bosque** del campo 3 | `#48832F` | medido en obj 13 ✅ |
 | **Césped** del campo 3 | `#7DBF4E` | medido en obj 13 ✅; desde arriba `#82C36B` (obj 15) |
@@ -542,8 +598,8 @@ Todas **CC0**.
 |---|---|---|
 | **Logo** «NARUTO» | Rotulación propia, de pincel, en **degradado naranja a amarillo** con **contorno rojo** y otro negro; debajo, «ナルト» en rojo. En Shippuden se añade **疾風伝** en pincel rojo oscuro (lo vi: n.º 551, 1250×600). La letra de fans **Ninja Naruto** (sk89q, 2004) lo imita | ✅ ([dafont](https://www.dafont.com/ninja-naruto.font), [1001 Fonts](https://www.1001fonts.com/ninja-naruto-font.html), [logo en la wiki](https://static.wikia.nocookie.net/naruto/images/4/48/Naruto_Shipp%C5%ABden_Logo.png)) |
 | Logo japonés | «NARUTO -ナルト-» con el katakana debajo | ✅ (el título del subtítulo lo escribe así) |
-| **Globos del manga** (VIZ, inglés) | Letra de cómic en mayúsculas ⚠️ (no pude saber cuál) | ⚠️ |
-| **Globos del manga** (Panini, México) | ⚠️ sin datos | ⚠️ |
+| **Globos del manga** (VIZ, inglés) | Letra de cómic en mayúsculas: los rotulistas de manga en inglés usan **CC Wild Words** (Comicraft) para el diálogo y **Anime Ace** (Blambot) para el aire de shōnen de los 2000 ([FontGet](https://www.fontget.com/font/anime-ace-family/), [mangafonts.carrd.co](https://mangafonts.carrd.co/)) | ⚠️ (listas de rotulistas, no un crédito de VIZ). Anime Ace sólo es gratis para cómics sin ánimo de lucro ([Quora](https://www.quora.com/What-free-commercial-font-can-replace-anime-Ace-and-Digital-Strip)): usa **Bangers** |
+| **Globos del manga** (Panini, México) | La traducción es de **Daruma S.L.** (España), no de un estudio mexicano ([mangamexico.blogspot.com](https://mangamexico.blogspot.com/2015/10/mangas-de-panini-comics.html)); la letra de rotulado **no la encontré** | ⚠️ |
 | **Pergaminos y rótulos** dentro de la serie | **Pincel japonés** (kanji a mano) | ⚠️ de memoria |
 | **Títulos de los episodios** | Kanji de pincel sobre fondo ⚠️ | ⚠️ |
 
@@ -594,7 +650,7 @@ blanca.** Va **escrito en objetos del mundo ninja**.
 | **El listado de misiones** | Lo lee el Hokage en la mesa: rangos **A, B, C, D** | ✅ N006 |
 | **La piedra de los caídos** | Nombres **grabados** en piedra negra pulida | ✅ N005, 00:15:16; obj 36 |
 | **El libro de Jiraiya** | Novela con su título y su «continuación» | ✅ S133, S174 |
-| **La bandana** | La hoja de Konoha grabada en metal. **Tachada** = ninja renegado ⚠️ | ⚠️ de memoria |
+| **La bandana** | La hoja de Konoha grabada en metal. **Una raya horizontal sobre el símbolo** = ha renunciado a su aldea (así la llevan los de Akatsuki). En la 4.ª Guerra, las **Fuerzas Aliadas** llevan el kanji **忍** («shinobi») en vez del símbolo de su aldea | ✅ [Narutopedia, «Forehead Protector»](https://naruto.fandom.com/wiki/Forehead_Protector) + ScreenRant (segunda pasada) |
 
 ### 7.2 Cómo piensan (el subtítulo oficial)
 
@@ -698,7 +754,8 @@ Los colores, en §5.3 (medidos).
   00:12:46 ✅), se ríe de pillo ⚠️. Se presenta a gritos con **su nombre
   completo** (N025, 00:08:57 ✅).
 - **Cómo se enfada**: aprieta los puños y **no se rinde**: «¡No me
-  subestimes! ¡Yo no huyo!» (N025, 00:10:55 ✅).
+  subestimes! ¡Yo no huyo!» (N025, 00:10:45-00:11:03 ✅), **sentado, con
+  el puño en alto y sudando**, no de pie ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20025.mp4?t=648)).
 - **Cuerpo**: **pulgar arriba** (n.º 156 ✅), **puño adelante** (n.º 329
   ✅), **manos cruzadas en el sello de los clones** (N001, 00:18:56 ✅),
   **correr con los brazos atrás** («Naruto run», meme ✅ §14). Las manos
@@ -796,7 +853,9 @@ Los colores, en §5.3 (medidos).
   de Akatsuki con nubes rojas**, bandana **tachada** ✅ (n.º 486, 526).
 - **Gesto que todo el mundo conoce**: **toca la frente de Sasuke con dos
   dedos**: «**Perdóname, Sasuke. Otro día será**» (許せ サスケ また今度だ,
-  N084, 00:03:17; S135, 00:01:10 ✅; n.º 265 ✅). En latino, «**otro día
+  N084, 00:03:17; S135, 00:01:10 ✅; n.º 265 ✅). ⚠️ En la copia latina de
+  Internet Archive, S135 a 00:01:10 muestra a **Sasuke niño llorando en el
+  bosque**: el minuto puede moverse en otras copias. En latino, «**otro día
   será**» u «**otra vez será**» ✅ (Doblaje Wiki).
 - Lo que dice como villano: «**Hermanito estúpido**» (愚かなる弟よ, N084,
   00:10:31 ✅), «**Ódiame**» (恨め 憎め, N084, 00:14:41 ✅).
@@ -810,12 +869,31 @@ Los colores, en §5.3 (medidos).
 - **Top 5 en seis de las siete encuestas de la Jump** ✅
   ([Narutopedia](https://naruto.fandom.com/wiki/Naruto_Character_Popularity_Polls)).
 - **Aspecto**: coleta alta, **cicatriz sobre la nariz**, chaleco de chūnin
-  ⚠️; *render* de cuerpo entero **con una carpeta** ✅ (n.º 525).
+  verde grisáceo `#8F9B7B` ✅ (medido en la segunda pasada); *render* de cuerpo entero **con una carpeta** ✅ (n.º 525).
 - Es **el primero que reconoce a Naruto**: le da **su propia bandana**
   (N001, 00:20:41 ✅) y lo invita a ramen.
 - En la **mesa de misiones** reparte encargos y regaña (N006, 00:03:50 ✅).
 - En latino grita «**¡Tatatá!**», como el Profesor Jirafales (ep. 88) ✅
   (Doblaje Wiki).
+
+### La cara en cada emoción, con fotograma (segunda pasada)
+
+Mirado con `fotogramas.py --cortes` en dos clips de Dailymotion (YouTube
+pedía iniciar sesión). El minuto es el del clip.
+
+| Quién | Emoción | Cómo es la cara | Dónde |
+|---|---|---|---|
+| Naruto | **Alegría pilla, presunción** | Se ríe de pillo, **señala con el dedo**, orgulloso de su broma | [«Naruto doing sexy no jutsu!»](https://www.dailymotion.com/video/xsn027), 0:19-0:21 ✅ |
+| Naruto | **Rabia contenida**, a punto de llorar | Primer plano: **ojos muy abiertos, cejas apretadas** | [«Jiraiya is dead»](https://www.dailymotion.com/video/x2f7ri8), 1:14 ✅ |
+| Naruto | **Tristeza que se vuelve grito** | **Boca abierta, cejas caídas hacia dentro**: «¡¿Por qué dejaste que hiciera algo tan arriesgado?!» | mismo clip, 1:17-1:24 ✅ |
+| Naruto | Duelo a solas | Llora con Iruka | mismo clip, 2:38 ✅ |
+| Tsunade | **Tristeza contenida** | **Labios apretados, mirada baja, manos entrelazadas tapando la boca** | mismo clip, 0:24 y 1:20 ✅ |
+| Naruto | **Reto aceptado** | Sentado, **puño en alto**, sudor, ceño fruncido | N025, 00:10:48 ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20025.mp4?t=648)) ✅ |
+| Sasuke, Sakura, Kakashi | Serio «hmph», la Sakura interior, ojo caído aburrido | ver arriba | hojas n.º 232, 461, 498 ✅ |
+
+**Falta** ⚠️: el **miedo** y la **vergüenza** de Naruto con fotograma
+propio, y las caras de Itachi y Jiraiya en escena (búsquedas «naruto
+miedo», «naruto avergonzado» en Dailymotion, sin un primer plano claro).
 
 ### Los secundarios que conviene tener a mano
 
@@ -917,15 +995,15 @@ ficha técnica de Doblaje Wiki lo separa como arriba ⚠️.
 | **Kakashi** | **Alfonso Obregón** (hasta el ep. 433 de Shippuden); **Óscar López** (ep. 440-500) | Doblaje Wiki; [SDV, TikTok «Reto de doblaje n.º 1041»](https://www.tiktok.com/@sdv_serviciosdevoz/video/7266928255179951365); [Mangaka Store](https://mangakastore.cl/blog/audio-de-naruto-shippuden-en-latino) |
 | **Jiraiya** | **Paco Mauri** | Doblaje Wiki; [Cracken Shop, TikTok](https://www.tiktok.com/@crackenshopmex/video/7364625591934487828); [La Mole](https://lamole.com.mx/expositores/paco-mauri/) |
 | **Itachi** | **Héctor Emmanuel Gómez** | Doblaje Wiki; [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Creator/HectorEmmanuelGomez); [SDV «Reto n.º 252»](https://www.tiktok.com/@sdv_serviciosdevoz/video/7080604336459418886) |
-| **Iruka** | **José Antonio Macías** (Naruto); **Arturo Cataño** (Shippuden) | Doblaje Wiki ⚠️ (una fuente) |
+| **Iruka** | **José Antonio Macías** (Naruto); **Arturo Cataño** (Shippuden, desde el ep. 1) | Doblaje Wiki; [Fandoblaje Wiki](https://fandoblaje.fandom.com/es/wiki/Arturo_Cata%C3%B1o) ✅ (Cataño; Macías sigue con una fuente ⚠️) |
 | **Hinata** | **Alondra Hidalgo** | Doblaje Wiki; ANMTV (2021) |
-| **Gaara** | **Eduardo Garza** (el director) | Doblaje Wiki ⚠️ |
-| **Minato** | **Edson Matus** | Doblaje Wiki ⚠️ |
-| **Tsunade** | **Dulce Guerrero** | Doblaje Wiki ⚠️ |
-| **Shikamaru** | **Javier Olguín** | Doblaje Wiki ⚠️ |
-| **Rock Lee** | **Carlos Díaz** | Doblaje Wiki ⚠️ |
-| **Ibiki** | **Carlos Segundo** | Doblaje Wiki ⚠️ |
-| **Pain** | **Arturo Mercado Jr.** | Doblaje Wiki ⚠️ |
+| **Gaara** | **Eduardo Garza** (el director) | Doblaje Wiki; [AniList](https://anilist.co/anime/20/Naruto/characters) ✅ |
+| **Minato** | **Edson Matus** (desde 2021; en *Ultimate Ninja Storm 4* fue Gabriel Ortiz) | Doblaje Wiki; [ANMTV (6-dic-2021)](https://www.anmtvla.com/2021/12/naruto-shippuden-revelados-mas-actores.html) ✅ |
+| **Tsunade** | **Dulce Guerrero** | Doblaje Wiki; [AniList](https://anilist.co/anime/20/Naruto/characters) ✅ |
+| **Shikamaru** | **Javier Olguín** (hizo dos rondas de casting) | Doblaje Wiki; [AniList](https://anilist.co/anime/20/Naruto/characters) ✅ (en AniList su fila sale junto a Jorge Saudinós, la voz de Neji) |
+| **Rock Lee** | **Carlos Díaz** | Doblaje Wiki; [AniList](https://anilist.co/anime/20/Naruto/characters) ✅ |
+| **Ibiki** | **Carlos Segundo** (Naruto, Shippuden y Boruto) | Doblaje Wiki; [daddyjim.ai](https://daddyjim.ai/naruto/voice-actor/carlos-segundo) ✅ |
+| **Pain** | **Arturo Mercado Jr.** | Doblaje Wiki; [AniList](https://anilist.co/anime/20/Naruto/characters) ✅ |
 
 ### 10.3 Cómo se eligió cada voz (Doblaje Wiki, «Datos de interés») ✅
 
@@ -990,11 +1068,16 @@ Punks) · 7 «Namikaze Satellite» (Snorkel) · 8 «Re:member» (FLOW) · 9
 **En la tele latina**, el primer opening **no fue «ROCKS»**: fue el de
 EE. UU., «**Rise**» (Jeremy Sweet e Ian Nickus, ep. 1-52) ✅ (Narutopedia,
 versión inglesa + Doblaje Wiki: la tele usó los temas de EE. UU.). Si se
-quiere tocar la **nostalgia latina** de 2007, es ese ⚠️ (que sonara
-cantado o instrumental en Cartoon Network, no lo comprobé).
+quiere tocar la **nostalgia latina** de 2007, es ese. **Sonó cantado, en
+inglés**, como en EE. UU.; su versión instrumental era el ending ✅
+(segunda pasada: [Wikipedia, temporada 2](https://en.wikipedia.org/wiki/Naruto_season_2) y Doblaje Wiki).
 
 **Endings de Naruto** que se recuerdan: 1 «**Wind**» (Akeboshi) · 13
-«Yellow Moon» (Akeboshi) · 3 «Viva★Rock» (Orange Range) ✅.
+«Yellow Moon» (Akeboshi) · 3 «Viva★Rock» (Orange Range) ✅. Ningún
+ending está mirado en fotograma: el único clip largo que salía como
+«ending», **«Naruto - Never Ending Spirit»** ([Dailymotion](https://www.dailymotion.com/video/x1fsiw), 5:28),
+**es un AMV de fan** con marca «AnimeYT.tv» y el rótulo
+「オープニングアニメーション」 pegado encima. **No lo cites como oficial.**
 
 **Shippuden** (openings): 1 «Hero's Come Back!!» (nobodyknows+) · 3
 «**Blue Bird**» (Ikimono-gakari, ep. 54-77) · 6 «Sign» (FLOW) · 16
@@ -1006,14 +1089,19 @@ cantado o instrumental en Cartoon Network, no lo comprobé).
 - **Toshio Masuda** compuso la música de *Naruto*: «Naruto Main Theme»,
   «**The Raising Fighting Spirit**» ✅ ([Looper](https://www.looper.com/1233948/narutos-composer-was-careful-not-to-spoil-the-story-with-the-music/),
   [Wikipedia](https://en.wikipedia.org/wiki/Toshio_Masuda_(composer))).
-- «**Sadness and Sorrow**» sale en los discos de Masuda, pero según
-  Wikipedia **lo escribió Yasuharu Takanashi**, que debutó ahí ⚠️ (una
-  fuente). Takanashi compuso luego **toda la música de Shippuden** ✅
+- «**Sadness and Sorrow**» sale en los discos de Masuda, pero **lo
+  escribió Yasuharu Takanashi**, que debutó ahí (lo hizo en dos horas y
+  luego lo retocó) ✅ ([Japan Nakama](https://www.japannakama.co.uk/creativity/music/who-composed-sadness-and-sorrow-naruto/) + Wikipedia).
+  Mezcla **shakuhachi y shamisen** con **piano y violín**. Takanashi compuso luego **toda la música de Shippuden** ✅
   ([Wikipedia](https://en.wikipedia.org/wiki/Yasuharu_Takanashi),
   [ANN, entrevista de 2021](https://www.animenewsnetwork.com/interview/2021-11-24/naruto-series-composer-yasuharu-takanashi/.179101)).
   Ganó el **premio internacional de JASRAC cinco veces** por Shippuden ✅.
-- **El ambiente**: flautas japonesas (shakuhachi), taiko y **guitarra
-  eléctrica** juntos ⚠️ (de memoria). «The Raising Fighting Spirit» es **el
+- **El ambiente**: «**Sasuke's Theme**» usa **bajo, taiko, shakuhachi,
+  platillos, claves, guitarra eléctrica y cascabeles** ✅
+  ([Narutopedia ES](https://naruto.fandom.com/es/wiki/Sasuke's_Theme),
+  [Anexo de Wikipedia](https://es.wikipedia.org/wiki/Anexo:Banda_sonora_de_Naruto)).
+  Takanashi (Shippuden) tira de orquesta, coros e instrumentos japoneses;
+  Masuda, más de sintetizador ⚠️ ([dodmagazine.es](https://www.dodmagazine.es/bandas-sonoras-naruto/), una fuente). «The Raising Fighting Spirit» es **el
   tema de «ahora va en serio»**; «Sadness and Sorrow», el de la tristeza.
 
 ### 11.3 Qué música pega a cada lámina
@@ -1022,7 +1110,9 @@ cantado o instrumental en Cartoon Network, no lo comprobé).
 |---|---|
 | Reto (cascabeles, examen) | «**The Raising Fighting Spirit**» (tensión con humor) |
 | Ramen, charla | «Naruto Main Theme» ⚠️ |
-| Jiraiya, libro | «Jiraiya's Theme» ⚠️ (de memoria) |
+| Jiraiya, libro | «Jiraiya no Theme» (2:43) ⚠️: el título existe en el [Anexo de Wikipedia](https://es.wikipedia.org/wiki/Anexo:Banda_sonora_de_Naruto), pero no en las 21 pistas del OST vol. I de MusicBrainz |
+| Algo triste, despedida | «**Sadness and Sorrow**» |
+| Tensión seria, rival | «**Sasuke's Theme**» |
 
 ---
 
@@ -1038,6 +1128,32 @@ cantado o instrumental en Cartoon Network, no lo comprobé).
 | [*Storm*: diálogos de todos los aldeanos](https://www.youtube.com/watch?v=kkVhqfzWWIE) | RuNix | 7:53, con capítulos | **La caja de diálogo del juego** (§7.3) |
 | [Isabel Martiñón en El Retake](https://www.youtube.com/watch?v=LO5_NaIYYhc) | El Retake | 1:06:22 | La voz de Naruto |
 | [Lalo Garza, el origen del «de veras»](https://www.youtube.com/watch?v=dWhSVlugklo) | Entrevistadoz | 2:01 | La frase |
+
+### 12.1 Mirado con fotogramas en la segunda pasada
+
+| Vídeo | Minuto | Qué se ve | Sirve para |
+|---|---|---|---|
+| [Opening de Shippuden (Dailymotion, FILMSTARTS)](https://www.dailymotion.com/video/x88r3bd) | 0:08 | Siluetas del equipo 7 antes del amanecer | Encuadre de grupo a contraluz |
+| ídem | **0:16** | **Logo «NARUTO -ナルト-»** en naranja y rosa | Color del logo en movimiento |
+| ídem | 0:24 | Sakura y Sasuke ante la Roca Hokage | Fondo |
+| ídem | 0:32 | Primer plano de Kakashi | Presentar |
+| ídem | 1:12-1:28 | El equipo camina hacia un atardecer enorme | Cierre, paleta cálida |
+| [«Naruto Tráiler VO» (Sensacine)](https://www.dailymotion.com/video/x8bc8i2) | 1:57 | Tráiler de cine en España de **una película**, sin identificar | ⚠️ no mirado a fondo |
+| [«Never Ending Spirit»](https://www.dailymotion.com/video/x1fsiw) | 5:28 | **AMV de fan**, no ending oficial | Descartado |
+
+⚠️ El opening de Dailymotion no dice cuál es (el título del que lo sube no
+lo precisa).
+
+### 12.2 Tendencia de TikTok: el «hand seal dance»
+
+El **baile de sellos de mano** se hizo viral con «**Silhouette**»
+(KANA-BOON, opening 16 de Shippuden, ep. 380-405). La propia banda lanzó
+**#silhouettetogether** pidiendo covers y el tema llegó a lo más alto de
+las listas de TikTok Japón; hay versiones con efecto de **clon de sombra** ✅
+([TikTok](https://www.tiktok.com/@lento.lento/video/7538352262771395846),
+[Wikipedia, «Silhouette»](https://en.wikipedia.org/wiki/Silhouette_(Kana-Boon_song))).
+No hay una cifra fiable de vídeos ni vistas ⚠️. **Para #reto-de-la-semana
+o un canal de canto es la mejor pieza nueva.**
 
 **Por qué hay pocos minutos exactos de YouTube**: los vídeos consultados
 **no tenían subtítulos** y YouTube bloqueaba las descargas («no soy un
@@ -1109,7 +1225,8 @@ subtítulos de los episodios.
 ## 15 · Poses analizadas por personaje
 
 «Minuto» = la frase está comprobada en el subtítulo; **la pose que se ve**
-en ese minuto la describo de memoria ⚠️. «N.º» = la imagen **la vi** en la
+en ese minuto la describo de memoria ⚠️, salvo las que llevan enlace
+`archive.org`: esas se **miraron en el fotograma** en la segunda pasada ✅. «N.º» = la imagen **la vi** en la
 hoja ✅.
 
 ### Kakashi
@@ -1123,8 +1240,8 @@ hoja ✅.
 | **n.º 129** ✅ | De pie junto a Sasuke, hojas volando | Llegar |
 | N004, 00:08:42 | «**Hola, chicos, buenos días**» (llega tarde, saluda con la mano ⚠️) | **Saludar** |
 | N005, 00:13:07 | Regaña: «¿Tienen **pulpa de tofu** en el cerebro?» (お前らの脳みそは オカラか？; brazos cruzados ⚠️) | **Regañar** |
-| N005, 00:19:54 | «**¡A-pro-ba-dos!**», se inclina hacia ellos con el ojo sonriente ⚠️ | **Celebrar** |
-| N005, 00:16:07 | Ante la piedra, de espaldas, mano en el bolsillo ⚠️ | **Pensar**, tono serio |
+| N005, 00:19:54 | «**¡A-pro-ba-dos!**»: **salta en el aire con los brazos cruzados** sobre el pecho, Sakura a su lado; **de noche, cielo morado** ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=1194)) ✅ | **Celebrar** |
+| N005, 00:16:07 | Ante la piedra, **de espaldas, mano en el bolsillo**, atardecer naranja entre los árboles ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=967)) ✅ | **Pensar**, tono serio |
 
 ### Naruto
 
@@ -1136,7 +1253,7 @@ hoja ✅.
 | **n.º 492** ✅ | Primer plano, **sonrisa de medio lado**, bandana brillante | Cara de «acepto» |
 | **n.º 470** ✅ | En el aula del examen, entre pupitres en gradas | **El examen** (Concepto B) |
 | **n.º 105** ✅ | En la barra de Ichiraku, **palillos en la mano** | **Charlar** (Concepto C) |
-| N025, 00:10:55 | **Golpea la mesa** y se levanta: «¡Yo no huyo!» ⚠️ la pose | **Aceptar el reto** |
+| N025, 00:10:45-00:10:54 | **Sentado en su pupitre, brazo derecho en alto con el puño cerrado, sudando, ceño fruncido**: «¡Yo no huyo!» ([fotograma 10:48](https://archive.org/download/naruto-completo/Naruto%20-%20025.mp4?t=648)) ✅. No golpea la mesa ni se levanta | **Aceptar el reto sentado** (mesa de trabajo, pupitre) |
 | N005, 00:21:15 | **Atado al tocón**, pataleando: «¡Desátenme!» | **Chiste**, primer plano |
 | N001, 00:18:56 | **Dedos en cruz**, cientos de clones | **Celebrar / llenar** |
 
@@ -1160,7 +1277,7 @@ hoja ✅.
 | **n.º 458** ✅ | Primer plano, sonrisa pícara, chapa «油» | Cara |
 | **n.º 113** ✅ | **Huye corriendo** tras espiar | Chiste |
 | N053, 00:02:09 | Pose de kabuki **sobre un sapo** ⚠️ | Presentar |
-| N086, 00:20:15 | Enseña el **globo de agua** en la palma ⚠️ | **Explicar un ejercicio** |
+| N086, 00:20:10-00:20:15 | Enseña el **globo de agua** en la palma hacia 20:10-20:13 ⚠️; a 20:15 es **un primer plano de su cara con el rasguño rojo, mirada de lado**, bosque detrás, sin manos ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20086.mp4?t=1215)) ✅ | **Explicar un ejercicio** |
 
 ### Itachi
 
@@ -1177,7 +1294,7 @@ hoja ✅.
 | Dónde | Qué hace | Sirve para |
 |---|---|---|
 | **n.º 525** ✅ | *Render*: **levanta un papelito** con la mano derecha y **sujeta una carpeta verde** con la izquierda | **Anunciar el reto** |
-| N001, 00:20:41 | Le pone su bandana a Naruto ⚠️ | **Felicitar** |
+| N001, 00:20:40-00:20:41 | Le pone su bandana a Naruto (el gesto, un segundo antes); a 20:41, **primer plano de la bandana ya puesta** ([fotograma](https://archive.org/download/naruto-completo/Naruto%20-%20001.mp4?t=1241)) ✅ | **Felicitar** |
 | N006, 00:03:49 | Grita «¡Idiota!» desde la mesa de misiones ⚠️ | **Regañar** |
 
 ### Resumen: qué pose para qué
@@ -1186,7 +1303,8 @@ hoja ✅.
 |---|---|
 | **Presentar** | Kakashi con los cascabeles (obj 13) o Jiraiya en kabuki (n.º 399) |
 | **Explicar** | Kakashi con el papel (n.º 413) o Iruka con la carpeta (n.º 525) |
-| **Celebrar** | «¡Aprobados!» (N005, 00:19:54) o Naruto con el pulgar (n.º 156) |
+| **Celebrar** | «¡Aprobados!» (N005, 00:19:54, Kakashi en el aire, de noche) o Naruto con el pulgar (n.º 156) |
+| **Aceptar un reto** | Naruto sentado con el puño en alto (N025, 00:10:48) |
 | **Regañar** | Kakashi, N005, 00:13:07; Iruka, N006 |
 | **Pensar** | Kakashi ante la piedra (N005, 00:16:07) |
 | **Animar** | Naruto puño adelante (n.º 329) |
@@ -1200,14 +1318,15 @@ hoja ✅.
 | **Naruto** (parte 1) | **Chándal naranja** con hombros azul marino y cuello blanco; remolino en el hombro | naranja `#FE7A35`, azul `#093C7D` ✅ | Bandana azul, **gafas verdes** en la primera escena ⚠️, portakunais en el muslo |
 | **Naruto** (Shippuden) | Chaqueta **naranja y negra** | negro ⚠️ | Bandana de tela **negra** ⚠️; **capa roja de sabio** en el arco de Pain (n.º 529 ✅) |
 | **Naruto** (adulto) | **Capa de Hokage** blanca con llamas rojas y «七代目火影» | ✅ n.º 134, 554 | |
-| **Sasuke** (parte 1) | Camiseta **azul oscura de cuello alto** con el abanico Uchiha, pantalón corto claro | ⚠️ | Vendas en los brazos |
+| **Sasuke** (parte 1) | Jersey **azul marino de cuello alto**, mangas remangadas, con el abanico Uchiha; pantalón corto blanco grisáceo | `#06406C`, sombra `#262E38` ✅ (medido en `Sasuke_Part_I.png`) | **Vendas blancas en las piernas y tobillos** (no en los brazos), sandalias azul marino, bandana de tela azul marino |
 | **Sasuke** (Shippuden) | **Camisa blanca abierta**, **cuerda morada** gruesa a la cintura | ✅ n.º 2, 511 | Espada a la espalda |
-| **Sakura** | **Vestido rojo** tipo qipao con cremallera, pantalón corto | pelo `#EBB8BE` ✅ | Bandana **como diadema** en el pelo |
+| **Sakura** (parte 1) | **Vestido rojo** tipo qipao corto con cremallera, pantalón corto | vestido **`#85223F`** ✅ medido (antes `#C8283C` de memoria); a contraluz de atardecer `#9C2A38` (N005 16:07); pelo `#EBB8BE` / `#EABABE` ✅ | Bandana **como diadema** en el pelo |
+| **Sakura** (adulta) | Kimono largo **rojo vino**, cuello alto con ribete gris, pelo corto | `#85223F` ✅ | Ojo: la wiki llama a ese archivo «Sakura_Part_1.png», pero el diseño es de adulta |
 | **Kakashi** | Traje azul marino con **chaleco verde grisáceo** de jōnin | `#778372` ✅ | **Máscara**, bandana sobre el ojo izquierdo, *Icha Icha* |
 | **Kakashi** (Hokage) | Sombrero y capa de Hokage «六代目火影» | ✅ n.º 49, 52 | |
 | **Jiraiya** | Kimono corto verde, **haori rojo vino** con círculos | `#902D43` ✅ | Chapa «油» con cuernos, **pergamino enorme a la espalda**, geta |
-| **Itachi** | **Capa de Akatsuki**: negra con **nubes rojas** de borde blanco | ⚠️ | Bandana tachada, collar, uñas pintadas ⚠️ |
-| **Iruka** | Chaleco de chūnin | ⚠️ | Coleta, cicatriz |
+| **Itachi** | **Capa de Akatsuki**: tela azul-negra con **nubes rojas** de borde hueso | tela `#2A2B33`; nube **`#58262D` / `#9B3E35`** según la luz; borde `#CFC3B7` ✅ medido en dos imágenes | Bandana con la raya, collar, anillo 朱 en el anular derecho ✅; uñas pintadas ⚠️ |
+| **Iruka** | Chaleco de chūnin **verde grisáceo**, más claro que el de jōnin | `#8F9B7B`, sombra `#3F4843` ✅ medido | Coleta, cicatriz, carpeta |
 
 **Lo icónico que todos reconocen**: el **chándal naranja** de Naruto, la
 **máscara** de Kakashi, la **capa de Akatsuki**, el **haori rojo** de
@@ -1222,6 +1341,7 @@ Jiraiya y la **bandana** con la hoja.
 | Sitio | Imagen | Luz y color |
 |---|---|---|
 | **Campo 3** desde arriba | obj 15 (1913×1080) | Mediodía, verde intenso (`#82C36B`), sombras cortas |
+| **Campo 3** en «¡Aprobados!» | [fotograma N005 19:54](https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=1194) (1280×966) | **Noche, cielo morado con nubes** ✅ |
 | **Campo 3** al atardecer | obj 39 (800×600) | Sol naranja bajo tras el bosque |
 | **Piedra de los caídos** | obj 36 (1280×716) | Piedra negra pulida, luz filtrada de bosque |
 | **Ichiraku** | obj 23 (1440×1080) | **Atardecer** naranja y malva, letrero blanco, farolillos |
@@ -1235,15 +1355,22 @@ Jiraiya y la **bandana** con la hoja.
 ### 17.2 Fondos de pantalla
 
 - **Oficiales**: la [ANIME GALLERY](https://naruto-official.com/special/anime-gallery)
-  de la web oficial y la web del [20 aniversario](https://naruto-official.com/en/special/20th) ⚠️
-  (no comprobé tamaños).
+  de la web oficial y la web del [20 aniversario](https://naruto-official.com/en/special/20th).
+  La galería trae **20 key visuals** (2002-2017) pero **sólo en vista web,
+  sin descarga ni tamaños** ✅ (comprobado en la segunda pasada).
 - **Fotogramas 4K** de Narutopedia: n.º 13 (Roca, 3840×2152), obj 1
   (Academia, 3840×2152), obj 2 (bandana, 3821×2155), obj 3 (kunai,
   3826×2152) ✅ (tamaño de la API).
 - **De fans**: el paisaje 3D **«Konoha Inspired Village»** de
   **Christoffer Radsby** en [ArtStation](https://www.artstation.com/artwork/rR0Be) ⚠️
   (tamaño sin comprobar).
-- **HDRI libres** para la luz: §5.4.
+- **De fans en Wallhaven** (tamaños de su API ✅): «Kyuubi/Madara»,
+  **3840×2251**, ♥330, de *whendungeonarise*; **logo Uchiha minimalista**,
+  1920×1080, ♥269, de *MegaRepoio21* (mejor como emblema que como
+  paisaje); Sakura e Ino, **5684×3768**, ♥205, origen
+  [x.com/limgae2726](https://x.com/limgae2726/status/1322580348769689600), pero es de la era Boruto ⚠️.
+- **HDRI libres** para la luz: §5.4. No hay HDRI de «aldea ninja»: se usan
+  los de naturaleza.
 
 ---
 
@@ -1265,8 +1392,9 @@ exista en ningún fotograma (un trozo de bosque, un tocón, papel).
   redondas.
 - **Paleta**: la de §5.3 (medida). Verde de bosque `#48832F`, césped
   `#7DBF4E`, cielo `#609DE1`, naranja `#FE7A35`, azul marino `#093C7D`.
-- **Luz**: **mediodía claro** en los exteriores del campo 3; **atardecer
-  naranja y malva** en Konoha e Ichiraku.
+- **Luz**: **mediodía claro** en los exteriores del campo 3 durante el
+  reto; **noche de cielo morado** en el «¡Aprobados!» (N005 19:54, mirado
+  en fotograma); **atardecer naranja y malva** en Konoha e Ichiraku.
 
 ### 18.2 Palabras que ayudan (en inglés, que las entiende mejor)
 
@@ -1298,6 +1426,66 @@ Konoha).
   para dar profundidad.
 - Nada de bustos cortados en recto flotando (regla del dueño): el
   personaje **toca** algo del escenario (el cordel, el pupitre, la barra).
+
+### 18.6 Rasgos que la IA suele romper (y cómo pedirlos)
+
+| Personaje | Nunca cambia | Palabras |
+|---|---|---|
+| Naruto (parte 1) | Pelo **amarillo limón** `#E1E11F` en pinchos, **tres marcas** por mejilla, chándal naranja `#FE7A35` con hombros azul marino `#093C7D` | `lemon yellow spiky hair, three whisker marks on each cheek, orange tracksuit with navy shoulders` |
+| Sasuke (parte 1) | Jersey azul marino `#06406C` de cuello alto, **vendas en las piernas**, abanico Uchiha en la espalda | `navy high-collar shirt, white bandages on legs` |
+| Sakura (parte 1) | Pelo rosa `#EBB8BE`, frente ancha, vestido qipao rojo `#85223F` | `pink hair, wide forehead, red qipao dress` |
+| Kakashi | Máscara hasta la nariz, bandana sobre el ojo izquierdo, chaleco `#778372` | `face mask, headband over left eye, grey-green flak vest` |
+| Akatsuki | Tela `#2A2B33`, **nubes rojas apagadas** `#9B3E35` con borde hueso | `muted maroon clouds with off-white outline`, nunca `bright red` |
+
+La IA no puede con los **emblemas** (hoja de Konoha, abanico Uchiha,
+remolino): se dibujan a mano encima (Punto 19).
+
+### 18.7 Para una IA de texto: cómo escribir en su voz
+
+**Reglas de estilo**:
+
+- **Naruto**: frases cortas, exclamaciones, **«¡de veras!»** al final (en
+  japonés *dattebayo*, 993 veces). Grita su nombre completo, promete
+  («¡Seré Hokage!»), no se retracta. Nada de palabras técnicas.
+- **Kakashi**: tranquilo, irónico, empieza con «**Bueno…**» (まっ), pone
+  excusas absurdas, y **luego** dice lo importante en serio.
+- **Sasuke**: muy poco, «**Hmph**», llama a Naruto «**cabeza hueca**».
+- **Sakura**: educada por fuera; la **Sakura interior** grita «**¡Cha!**».
+- **Jiraiya**: se presenta a lo grande, teatral, «**el Sabio de los
+  Sapos**».
+- **Itachi**: serio, pocas palabras, nunca chistes.
+- **Puntuación**: «¡…!» abundante en Naruto; puntos suspensivos en Kakashi;
+  frases secas con punto en Sasuke e Itachi.
+
+**Frases reales por emoción** (del doblaje latino cuando se sabe; si no,
+traducción de los subtítulos japoneses con su minuto, §2):
+
+| Emoción | Frase | Quién, dónde |
+|---|---|---|
+| **Alegre / presumido** | «**Puedes olvidarte de ser Hokage, porque soy el más perrón aquí**» | Naruto, ep. 44, doblaje latino ✅ |
+| Alegre | «**¡Todos los que quedan, aprobados!**» | Ibiki, N025 00:12:33 |
+| Alegre | «**¡A-pro-ba-dos!**» | Kakashi, N005 00:19:54 |
+| **Enfadado** | «**¡No me subestimes! ¡Yo no huyo! La haré**» | Naruto, N025 00:10:55 |
+| Enfadado | «¿Tienen **pulpa de tofu** en el cerebro?» | Kakashi, N005 00:13:07 |
+| Enfadado | «¡¿Por qué dejaste que hiciera algo tan arriesgado?!» | Naruto a Tsunade, S133 (clip, 1:17) |
+| **Explicando** | «**La tarea de hoy: quitarme estos cascabeles antes del mediodía**. El que no lo logre, se queda sin almuerzo» | Kakashi, N004 00:09:05 |
+| Explicando | «Los encargos se ordenan **por dificultad: A, B, C y D**» | N006 00:04:24 |
+| Explicando | «**Esa pregunta nunca existió.** La elección era la 10.ª pregunta» | Ibiki, N025 00:12:52 |
+| **Animando** | «**No me retracto de mis palabras. Ese es mi camino ninja**» | Naruto, N025 00:11:41 |
+| Animando | «**Todo el mundo empieza por misiones fáciles y sube con la experiencia**» | Iruka, N006 00:03:50 |
+| Animando | «Quienes rompen las reglas son escoria, pero quienes abandonan a sus compañeros son peor que escoria» | Kakashi, N005 00:20:19 |
+| **Triste** | «**Perdóname, Sasuke. Otro día será**» | Itachi, N084 00:03:17 (latino «otro día será» ✅) |
+| Triste | «**Pase lo que pase, siempre te querré**» | Itachi, S339 00:20:49 |
+| Triste | «Aquí está grabado **el nombre de mi mejor amigo**» | Kakashi, N005 00:15:15 |
+
+**Vocabulario de expresiones** (para que la IA de imagen entienda el
+gesto): **gota de sudor** en la sien (vergüenza, «¿en serio?»), **vena**
+en la frente (enfado cómico), **ojos en arco** (ojo sonriente de Kakashi),
+**ojos en blanco con boca enorme** (grito cómico de Naruto), **la Sakura
+interior** (silueta de línea blanca sobre negro con el puño en alto),
+**versión *chibi*** con cabeza enorme para los chistes, **fondo de rayas
+de velocidad** para gritos y sorpresas, **Sharingan** (ojos rojos con
+comas) para el tono serio.
 
 ---
 

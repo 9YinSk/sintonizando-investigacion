@@ -39,7 +39,14 @@ recolectados) pendientes.
   querido: Shaggy (con quien más se identifica el público); Scooby ganó
   la encuesta antigua de Scoobypedia. Cuadro de diálogo propio: fichas de
   pista escritas a mano por Vilma, ficha «Who's Who», sello RESUELTA.
-- 29 en marcha (imagen/vídeo/texto); 30 en cola.
+- **29 (seis canales sin serie: Mario Galaxy, Phineas y Ferb, Bleach,
+  Ralph, Monsters Inc., Sing, Los Simpson): COMPLETA y subida (repaso).**
+  2626 líneas, tabla ✅21 ⚠️9 ❌0, 110 webs, 118 min, 99 hex, 85
+  referencias, 3 hojas. Cada candidata con su propio cuadro de diálogo
+  (el libro de Estela, el plano azul de Phineas, la revista Seireitei
+  Tsūshin, el letrero LED, el cartel de Roz, el volante de Sing).
+- **30 Naruto: redactor (Opus, repaso) en marcha — última serie del
+  lote.**
 
 ## Avisos para el dueño (esta sesión)
 
@@ -74,6 +81,14 @@ recolectados) pendientes.
   cumplen años el 27 de septiembre (pasado mañana): buena fecha para
   estrenar el concepto A. Fortnite no tiene colaboración con JoJo
   (comprobado): no usarlo en ninguna lámina.
+- 29 (seis canales sin serie): no se decidió aún qué serie se queda cada
+  canal (es el propio objeto del encargo). Correcciones hechas: Salvador
+  Delgado no dirigió el doblaje de Bleach de 2010 (sólo la tanda de
+  2023, eps. 230-366; no se encontró quién dirigió la de 2010); los DJ
+  de KBBL (Los Simpson) no tienen actor fijo; la música de la película de
+  Mario Galaxy es de Brian Tyler, no de Mahito Yokota. Doofenshmirtz no
+  lleva morado en ningún arte oficial — si el dueño recuerda una escena
+  suya en morado, decir el capítulo para revisarlo.
 
 Sesión anterior: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
 Cuenta: cuenta A105
