@@ -114,3 +114,1000 @@ Las tres están en `hojas/`. Las dos primeras las hizo `investigar_serie.py` con
 
 **Hoja que no está aquí:** el investigador de voz hizo una hoja de 8 caras por emoción (`emociones_01.jpg`, copia DM) en su carpeta de trabajo, pero **ya no está en el contenedor** ⚠️. Sus minutos están en el punto 13 y se pueden sacar otra vez sobre la misma URL.
 
+## Punto 1 · Arte oficial
+
+**Cuánto hay.** La wiki de Fandom tiene, con tamaño real medido (`iiprop=url|size`): **128 imágenes de Shrek, 156 de Fiona, 70 de Burro y 70 del Gato con Botas**. La mayoría son renders oficiales de 3000 a 4500 px, no capturas comprimidas ✅.
+
+**Las mejores, con enlace a la imagen:**
+- Shrek con las garras en alto, 3600×3210: [Shrek_fierce.jpg](https://static.wikia.nocookie.net/shrek/images/8/87/Shrek_fierce.jpg) (H1-2) ✅
+- Fiona en plena patada, 3262×3749: [Fiona_kick_alternate.jpg](https://static.wikia.nocookie.net/shrek/images/5/51/Fiona_kick_alternate.jpg) (H1-1) ✅
+- Fiona guerrera, 1921×3000: [Warrior_Fiona.jpg](https://static.wikia.nocookie.net/shrek/images/4/4c/Warrior_Fiona.jpg) (H1-31) ✅
+- Burro sin fondo, 1182×2864: [DonkeyTransparent.png](https://static.wikia.nocookie.net/shrek/images/d/dc/DonkeyTransparent.png) (H3-1) ✅
+- El Gato sin fondo, 1855×1800: [PussInBootsTransparent.png](https://static.wikia.nocookie.net/shrek/images/9/9c/PussInBootsTransparent.png) (H3-5) ✅
+- Página de la guía oficial del Gato, 2870×1918: [Puss_in_Boots_essential_guide.png](https://static.wikia.nocookie.net/shrek/images/7/7d/Puss_in_Boots_essential_guide.png) (H3-7). Dice que es «fiera felina», de «acento español suave», temerario e imbatible, y que Burro se pone celoso cuando el Gato se une ✅.
+- Grupo en el prado del molino, 2986×1800: [Shrek_group_windmill_render.jpg](https://static.wikia.nocookie.net/shrek/images/a/a3/Shrek_group_windmill_render.jpg) (H2-51) ✅
+
+**Guías oficiales impresas (DK/Scholastic con el estudio).** H2-49, H2-50, H2-54, H2-55 y H3-7 son páginas completas: texto de personalidad, datos y varias poses pequeñas. Sirven como **hoja de modelo oficial** ✅.
+- Las cartas **antes y después** de Fiona del *Shrek 4 Handbook* (`Fiona ogre curse essential guide.png`, 2839×1910, H2-49) prueban que **la ropa no cambia al transformarse**: sólo cambian la piel y el pelo ✅.
+
+**Carteles.**
+- *El Gato con Botas: El último deseo* (2022), cartel de junio, 3158×5000: [enlace](https://static.wikia.nocookie.net/shrek/images/d/d3/Puss_in_Boots_The_Last_Wish_June_Poster.jpg) ✅
+- Cartel teaser del mismo, 2587×4096: [enlace](https://static.wikia.nocookie.net/shrek/images/a/ac/Puss_in_Boots_the_Last_Wish_Teaser_Poster.jpg) ✅
+- No encontré un **key visual de campaña nuevo** para las películas 1-4, más allá de los carteles de estreno de siempre ⚠️.
+
+***Shrek 5*: arte recién salido.** Con el teaser oficial (Mike Myers, Eddie Murphy, Cameron Diaz y **Zendaya** como la hija de Shrek y Fiona) se repartieron **3 imágenes oficiales**: [Bleeding Cool](https://bleedingcool.com/movies/shrek-5-official-teaser-trailer-and-3-images-released/) + [ResetEra, cartel teaser](https://www.resetera.com/threads/teaser-poster-for-shrek-5-arrives-july-1-2026-with-mike-myers-eddie-murphy-and-cameron-diaz.923049/) ✅. La wiki subió dos «Shrek 5 - Teaser Still» de 1918×1037 y 1918×1035 ⚠️ (la parte de imagen las cita en una hoja automática que ya no está; no están en `hojas/`). Estreno: verano de 2027 según [Movie Insider](https://www.movieinsider.com/m6516/shrek-5); 30-jun-2027 según la wiki ⚠️.
+
+**Postal del 25.º aniversario de DreamWorks Animation** (del estudio, no de la película). 1200×1200, crédito «SHREK © 2020 DREAMWORKS ANIMATION LLC», logo «25 YEARS» y cita de Fiona «By night one way, by day another»: [enlace](https://static.wikia.nocookie.net/shrek/images/8/85/Tumblr_b8561e307d11c41fd924ce1f87595646_38691572_1280.jpg) ✅. Trae un **quinto vestido de Fiona** (verde azulado de gala, punto 15). El 25.º aniversario de la propia *Shrek* cae en 2026; no encontré campaña oficial propia ⚠️.
+
+**Artbooks oficiales.**
+- *Shrek: The Art of the Quest* (Kathleen Jones, ISBN 9781933784182): arte de las 3 primeras películas, bocetos, maquetas y atrezo. [Reseña en Parka Blogs](https://www.parkablogs.com/content/book-review-shrek-art-of-quest) ✅
+- *The Art of DreamWorks Shrek Forever After* (Insight Editions, 2010, 156 págs., ISBN 9781608870028): pinturas digitales, diseño de Rumpelstiltskin y las brujas, storyboards. En préstamo digital en [Internet Archive](https://archive.org/details/artofdreamworkss0000unse) + [Parka Blogs](https://www.parkablogs.com/content/book-review-art-of-shrek-forever-after) ✅
+
+**Arte de videojuegos.** Las cajas de *Shrek 2* y *Shrek SuperSlam* traen al elenco en pose de acción. La parte de imagen vio en una hoja automática una carta Top Trumps de «Handsome Shrek» (980×1577) y fichas de juego con estadísticas ⚠️ (esa hoja ya no está en el contenedor).
+
+## Punto 2 · Fotogramas de escenas icónicas
+
+**Cómo se sacaron.** YouTube pide iniciar sesión desde el servidor. El investigador de vídeo usó copias completas de **Internet Archive** con archivo de vídeo real y sacó cada fotograma con `ffmpeg -ss <segundo>` (pide sólo ese trozo, no baja los 5 GB). Primero ubicó las escenas con las miniaturas de Archive (una por minuto) y después sacó en 1920 px **sólo** las que cita. **Todas se miraron** con Read antes de anotarlas ✅.
+
+***Shrek* (2001)** · [archive.org/details/shrek-1](https://archive.org/details/shrek-1) · 1920×1080 · 90:04
+
+| # | Minuto | Qué se ve | Enlace |
+|---|---|---|---|
+| 1 | 0:58 | El libro de cuentos narra la leyenda de la princesa hechizada («Love's First Kiss»). Página pintada, capitular iluminada | [start=58](https://archive.org/details/shrek-1#start=58) |
+| 2 | 1:14 | La manaza verde de Shrek cierra el libro. Un instante después, la página es papel higiénico | [start=74](https://archive.org/details/shrek-1#start=74) |
+| 3 | 2:20 | Shrek se baña en el lodo con «All Star» | [start=140](https://archive.org/details/shrek-1#start=140) |
+| 4 | 5:56 | Las criaturas de cuento, Burro entre ellas, reunidas por los soldados bajo el cartel de recompensas | [start=356](https://archive.org/details/shrek-1#start=356) |
+| 5 | 11:00 | Burro se cuela en la cama de Shrek la primera noche | [start=660](https://archive.org/details/shrek-1#start=660) |
+| 6 | 17:56 | Farquaad interroga al Hombre de Jengibre; el Lobo y los cerditos presos alrededor | [start=1076](https://archive.org/details/shrek-1#start=1076) |
+| 7 | 21:00 | Torneo de Duloc: Shrek entra al ruedo con la bandera de Duloc | [start=1260](https://archive.org/details/shrek-1#start=1260) |
+| 8 | 30:03 | Shrek y Burro cruzan el puente en llamas hacia la dragona, al atardecer | [start=1803](https://archive.org/details/shrek-1#start=1803) |
+| 9 | 37:57 | La dragona envuelve a Burro con la cola y lo mira enamorada | [start=2277](https://archive.org/details/shrek-1#start=2277) |
+| 10 | 49:56 | Fiona canta a un pajarito azul, mano en el pecho, justo antes de que estalle | [start=2996](https://archive.org/details/shrek-1#start=2996) |
+| 11 | 52:59 | Shrek y Fiona a punto de besarse; Burro asoma entre los dos | [start=3179](https://archive.org/details/shrek-1#start=3179) |
+| 12 | 55:05 | Fiona tirada en el pasto tras una voltereta de artes marciales; Shrek ríe apoyado en un árbol | [start=3305](https://archive.org/details/shrek-1#start=3305) |
+| 13 | 1:16:56 | Boda interrumpida: Fiona de novia, vitrales al fondo | [start=4616](https://archive.org/details/shrek-1#start=4616) |
+| 14 | 1:19:50 | Transformación: Shrek extiende las manos hacia la luz dorada del hechizo | [start=4790](https://archive.org/details/shrek-1#start=4790) |
+| 15 | 1:20:57 | Beso final ya ogros, luz azul de vitral detrás | [start=4857](https://archive.org/details/shrek-1#start=4857) |
+
+***Shrek 2* (2004)** · [archive.org/details/shrek-2-2004-full-screen_202406](https://archive.org/details/shrek-2-2004-full-screen_202406) · edición 4:3 recortada, 1920×1440 ⚠️ (no es el encuadre original)
+
+| # | Minuto | Qué se ve | Enlace |
+|---|---|---|---|
+| 16 | 37:27 | Primera aparición del Gato: reverencia quitándose el sombrero | [start=2247](https://archive.org/details/shrek-2-2004-full-screen_202406#start=2247) |
+| 17 | 38:00 | El Gato desenvaina y reta a Shrek; Shrek agachado en guardia (el chiste de escala) | [start=2280](https://archive.org/details/shrek-2-2004-full-screen_202406#start=2280) |
+| 18 | 1:19:10 | El Gato cabalga sobre Burro hecho caballo blanco, entrando a la fiesta | [start=4750](https://archive.org/details/shrek-2-2004-full-screen_202406#start=4750) |
+| 19 | 1:22:30 | Tarjeta del Gato en los créditos: pata en un tejado, bota por delante, lengua fuera | [start=4950](https://archive.org/details/shrek-2-2004-full-screen_202406#start=4950) |
+
+**Para la lámina.** La n.º 1 (el libro abriéndose) es la más reconocible para decir «esto es un cuento». Las n.º 9 (dragona y Burro) y 10 (el pajarito) son las que más se repiten en memes, según la parte de vídeo ⚠️. La n.º 17 es la pose más viva del Gato.
+
+**Ojo con dos minutos de la parte de vídeo** (explicado en «Lo que corregí»): la patada de Fiona a los hombres de Robin Hood «~21:54-22:56» y la cebolla «en la fogata, 43:54» no cuadran con el resto ⚠️.
+
+## Punto 3 · Fan art y 3D con licencia
+
+**Regla:** todo esto es **referencia**, con enlace y autor. Nunca se pega en una lámina.
+
+**Modelos 3D (Sketchfab).** La licencia se leyó en la API (`https://api.sketchfab.com/v3/models/<uid>`), no sólo en la página ✅. Casi todos son **extracciones de videojuegos oficiales** subidas por fans, con CC BY puesta por quien las subió, no por DreamWorks. Sirven para volumen y *rig*; siempre con el crédito del que subió.
+
+| Modelo | Autor | Licencia | Datos | Enlace |
+|---|---|---|---|---|
+| Puss In Boots | CVRxEarth | CC BY 4.0 | 13.945 vértices, 24.231 vistas | [sketchfab](https://sketchfab.com/3d-models/none-9b657d49d8a847bdb141e156caf55003) |
+| Shrek Walk Cycle (animado) | fredbear1211 | CC BY 4.0 | 4.551 vértices, 75.883 vistas | [sketchfab](https://sketchfab.com/3d-models/none-cd5a1e1cd7dd4effa3df11bcaea915f4) |
+| Donkey (*Pocket Shrek*) con animaciones | guinavarro.al (Guilherme Navarro) | CC BY 4.0 | 8.582 vértices, 19.692 vistas | [sketchfab](https://sketchfab.com/3d-models/none-476adee586fc4aabafa17b00b96f9644) |
+| Fiona (sin el carruaje) | guinavarro.al | CC BY 4.0 | 12.721 vértices | [sketchfab](https://sketchfab.com/3d-models/none-ca41c5be84424a40a73e98703d0f00e3) |
+| Donkey (*DreamWorks All-Star Kart Racing*) | guinavarro.al | CC BY 4.0 (ficha) ⚠️ | del juego de karts | [sketchfab](https://sketchfab.com/3d-models/none-d9b66b79b95a4047bfd6134eef9605cc) |
+| Princess Fiona Clothes (sólo la ropa) | Princess Gowns | CC BY (ficha) ⚠️ | 38 ♥ | [sketchfab](https://sketchfab.com/3d-models/none-6b17a5c08123460ea6bb05ae0e07c933) |
+
+Otros de la búsqueda automática (CC BY según Sketchfab, sin mirar uno por uno ⚠️): Shrek de [burnt.melon](https://sketchfab.com/3d-models/none-ff6a111c58c94d328b0880a38b912428) (♥ 211), Shrek de [HarrisonHag1](https://sketchfab.com/3d-models/none-ee9fbba7e7a841dbb817cc6cec678355), Fiona de *Shrek para siempre* de [Neut2000](https://sketchfab.com/3d-models/none-6a361a614b6b429dae473ac4ddfb1a03), Fiona de *SuperSlam* de [Neut2000](https://sketchfab.com/3d-models/none-45cee17ff1eb4359bcc5767cd7542cc4), Shrek Kart estilo PS1 de [Moustache_Cat](https://sketchfab.com/3d-models/none-58f48d875c004d5693db5202231d45c5). «Shrek Wazowski» es un chiste de fans, no sirve.
+
+**Fan art 2D (Safebooru, tamaño medido, origen enlazado).**
+- **Gato con Botas:** 1446×2048, 3 pts, de [@kaite_xyxy](https://twitter.com/kaite_xyxy/status/1615723972892708864) ✅ · 3500×1373, 4 pts, sin autor claro ⚠️ · 3348×4000 de [Weibo](https://www.weibo.com/5217510292/MDDLX1lRp) · 2879×1681 de [@stasya_sher](https://twitter.com/stasya_sher/status/1627147106585825281).
+- **Fiona:** 2712×3000, 2 pts, de [@xyanaid](https://twitter.com/xyanaid/status/1488742680754810883) ✅ · 1080×1350 de [@BrenniMurasaki](https://twitter.com/BrenniMurasaki/status/1645910229270265856) ✅ · 1371×2048 de [@sora2396](https://twitter.com/sora2396/status/1565826198747418626).
+- **Shrek:** 2924×2202 de [@alpharecdyt](https://x.com/alpharecdyt/status/1900279362097995984) ✅ · 1920×2300 de [jsketch12 en Tumblr](https://jsketch12.tumblr.com/post/736114297827196928) ✅ · un póster-fusión de SiIvaGunner (2500×3500) que es cruce musical, no referencia de estilo.
+- **Burro:** 2000×2122 de [@whisket3_](https://x.com/whisket3_/status/2039267968513937756) ✅ · 1494×1329 de [metaphoricallyrose en Tumblr](https://metaphoricallyrose.tumblr.com/post/755002884444323840) ✅ · 676×446 de [@paigeccino](https://twitter.com/paigeccino/status/1805265161013354910).
+
+**Un dato del fandom.** Shrek y Burro tienen **muy poco fan art «bonito»**: menos de 10 dibujos con puntuación en Safebooru cada uno, frente a cientos de Fiona y el Gato. El fandom dibuja a los «guapos»; con Shrek y Burro hace memes y cruces (punto 23) ✅.
+
+**Descartado:** el «top de personajes más dibujados» de Danbooru que trajo el recolector (Hatsune Miku, Link, Pikachu…) está **contaminado**: es una lista genérica que sale en otras series. No se usó ✅.
+
+## Punto 4 · Sitios: luz, paleta y texturas reales
+
+Hex medidos con `herramientas/estilo.py` (8 colores dominantes por imagen). Son colores **de esa escena con su luz**, no el color «base» del lugar.
+
+**Sobre fotogramas de la película** (parte de vídeo) ✅
+
+| Sitio | Minuto | Paleta medida | Luz |
+|---|---|---|---|
+| **Pantano, baño de lodo** | 2:20 | `#242D23` 23% · `#303B2D` 22% · `#3C4A40` 17% · `#161F12` 16% · acento `#A8B23A` 1,3% | Sombra bajo los árboles. Degradado pintado, no plano. Saturación 37%, brillo 23% |
+| **Fogata nocturna** | 43:54 | `#1D1812` 22% · `#5F483E` 15% · `#8E735A` 6% · `#BD9C83` 4% | Hoguera cálida sobre piel y madera. Brillo 24% |
+| **Calle de Duloc, de noche** | 14:55 | `#101011` 27% · `#080A0C` 25% · `#392A1D` 11% · antorcha `#BD824A` 1,2% | Casi negra, antorchas sueltas. Brillo 13% |
+| **Ruedo del torneo** | 21:00 | `#3F3D40` 22% · `#2F2D30` 19% · cielo `#899FDE` 18% · `#8C9696` 3% | Día, la más luminosa (39%). Saturación baja (24%): Duloc es frío e impersonal |
+| **Puente en llamas** | 30:03 | `#484565` 20% · `#752B2B` 15% · `#863E44` 8% · contorno `#3D1616` | Atardecer y lava. Saturación alta (46%): la más amenazante |
+| **Castillo de Muy Muy Lejano, de día** (*Shrek 2*) | 40:00 | `#0C1314` · `#363520` · cielo `#062231` · `#AC9F7E` · `#8D805E` | Piedra clara y jardín. Saturación 47% |
+| **Fiesta nocturna en Muy Muy Lejano** (*Shrek 2*) | 1:21:43 | `#19140C` 23% · `#271E15` 16% · `#523A26` 11% · dorado `#9E662F` 2% | Faroles sobre casi negro. La más saturada (50%) |
+
+**Sobre renders oficiales de la wiki** (parte de imagen) ✅
+- **Pantano al atardecer** (`Shrek_wolf_swamp.jpg`, 3000×1808): tierra cálida `#A07950`, barro `#705E4F`, sol poniente `#E89F38`, árboles en silueta `#232323` / `#121212`.
+- **Pantano al anochecer** (`Shrek_group_windmill_render.jpg`, 2986×1800): musgo `#4F6220` / `#8D991C` sobre sombra `#323527`.
+- **Duloc** (`Shrek_welcome_duloc_donkey.jpg`, 3000×1808, H1-47): piedra clara `#A49B9C`, torres azul grisáceo `#7E7884` / `#52526D`, sombra `#373A3F`. Cuadra con la wiki: «casas blancas de estilo germánico con detalles azules», simétrica y artificial ([Duloc en Fandom](https://shrek.fandom.com/wiki/Duloc)).
+- **Palacio de Muy Muy Lejano** (`Shrek_meets_Fiona's_parents_palace.jpg`, 2742×1653, H2-65): madera y piedra cálida `#675948`, piedra azul gris `#6A6C7E`, rojo de estandartes y alfombra `#992D29`.
+
+**La idea de color de la saga, en una línea:** el pantano de Shrek es **cálido y orgánico**; Duloc es **frío, gris y simétrico**. Dos ambientes listos para dos láminas distintas.
+
+**Texturas reales equivalentes (CC0, ambientCG, sin atribución obligatoria)** ✅
+- Barro y musgo del pantano: [Ground037](https://ambientcg.com/a/Ground037) («damp earth, forest, moss») y [Moss002](https://ambientcg.com/view?id=Moss002).
+- Tablas de la letrina y la cerca: [Wood095](https://ambientcg.com/view?id=Wood095) (madera vieja); vigas y molino: [Wood094](https://ambientcg.com/a/Wood094).
+- Adoquín de Duloc y Muy Muy Lejano: [PavingStones138](https://ambientcg.com/view?id=PavingStones138).
+- Corteza del bosque: [Bark014](https://ambientcg.com/view?id=Bark014). Prados: [Grass001](https://ambientcg.com/a/Grass001).
+- Armaduras de los soldados de Farquaad: [Metal049A](https://ambientcg.com/view?id=Metal049A).
+- Cuero del chaleco: [Leather037](https://ambientcg.com/a/Leather037). Papel del libro: [Paper001](https://ambientcg.com/a/Paper001).
+
+## Punto 5 · Tipografía: una letra por uso
+
+Shrek no es manga: sus letras salen de los **objetos de la película** (libro, letrero, periódico), del logo y de los juegos. Cada letra libre se **abrió con `fontTools`** para mirar á é í ó ú ñ Ñ ¿ ¡ (parte de texto).
+
+| Uso | Qué usa la saga | Letra libre más parecida | Tildes, ñ, ¿, ¡ | Estado |
+|---|---|---|---|---|
+| **Logo / título** | Tipo «Shrek» de Gerry Chapleski (words+pictures, 1995), de pago en MyFonts, según [Fonts In Use](https://fontsinuse.com/typefaces/27931/shrek) | **«Shrek» de Kevin Wilson / Ding Bang**: calca la S con orejas y el trazo negro grueso. [dafont](https://www.dafont.com/shrek2.font) · copia en [Internet Archive](https://archive.org/details/SHREK_201905). Gratis para uso personal | **Sí**, todo | ✅ letra · ⚠️ origen del logo (una fuente) |
+| **Narración del libro de cuentos** | Cuerpo del texto de «Había una vez…» en estilo uncial grueso, con capitulares ornamentadas | **Bouwsma Uncial** (Mouser Fonts, 100% gratis, uso comercial). Identificada en un [hilo de dafont](https://www.dafont.com/forum/read/51635/shrek-s-fairy-tale-book-font) · [descarga](https://www.dafont.com/bouwsma-uncial.font) | **Sí**, todo | ⚠️ identificación de un solo hilo |
+| **Cartel del mundo (letrero de madera)** | «BEWARE — OGRE» en letras rojas goteantes, a mano, sobre tabla (captura oficial de Steam, punto 6) | **Butcherman** (Google Fonts, OFL). [Ficha](https://raw.githubusercontent.com/google/fonts/main/ofl/butcherman/METADATA.pb) | á é í ó ú ñ Ñ ¡ sí, **¿ NO** | ✅ (ojo con el ¿) |
+| **Cabecera de periódico** | *Far Far Away Times*: blackletter gótica | **UnifrakturMaguntia** (Google Fonts, OFL). [Ficha](https://raw.githubusercontent.com/google/fonts/main/ofl/unifrakturmaguntia/METADATA.pb) | **Sí**, todo | ✅ |
+| **Titular de periódico** | «Royalty Arrested!!!» en serif azul grueso de tabloide | No identificada | — | ⚠️ |
+| **Globo normal, grito, pensamiento, onomatopeya** | Sólo en los cómics oficiales (Dark Horse, Ape, Joe Books); no se pudo ver una página por dentro | No identificada | — | ❌ no encontrado (punto 6) |
+| **Interfaz de juego** | HUD de *Shrek SuperSlam*: icono «SLAM» sobre texto sin serifa genérico, según reseñas | No identificada | — | ⚠️ sin captura en alta |
+| **Subtítulos y créditos** | No hay hilo ni artículo que la nombre | No identificada | — | ❌ no encontrado |
+
+**Cómo usarlas en una lámina (propuesta del redactor, con las letras ya comprobadas):**
+- Título del canal: «Shrek» de Kevin Wilson, en verde con borde oscuro.
+- Texto largo que «se lee»: Bouwsma Uncial sobre pergamino.
+- Aviso o regla corta en un letrero: Butcherman, **sin empezar frases con ¿** (o dibujar el ¿ a mano).
+- Cabecera de periódico: UnifrakturMaguntia.
+- Para los usos que faltan (grito, subtítulo) no hay dato de la saga: no inventar una «letra oficial».
+
+## Punto 6 · Cómo hablan en pantalla (el cuadro de Shrek)
+
+**No hay manga japonés de Shrek.** Es una película CG de DreamWorks/PDI. El punto se cubre con el libro original, los cómics oficiales y, sobre todo, **los objetos con texto de la propia película**.
+
+**El libro de origen.** *Shrek!* (William Steig, 1990) es un **libro-álbum ilustrado**, sin bocadillos: texto e ilustraciones a página completa ✅ ([franquicia en Fandom](https://shrek.fandom.com/wiki/Shrek_(franchise))).
+
+**Tres series de cómic oficial, con globos de verdad** ✅
+- **Dark Horse Comics** (2003): 3 números a color, guion de Mark Evanier, dibujo de Ramon Bachs y Raul Fernandez. [Catálogo](https://www.darkhorse.com/Books/12-541/Shrek-TPB).
+- **Ape Entertainment / KiZoic** (2010): 4 números y una precuela de *Shrek para siempre*.
+- **Joe Books** (2016): 4 números.
+- El recopilatorio de Dark Horse está escaneado en [Internet Archive](https://archive.org/details/shrek00mark), pero es de **préstamo controlado**: no se pudo ver un globo por dentro ❌. Las portadas en Fandom son de 300×456.
+
+**Los «cuadros de diálogo» reales del mundo Shrek** (objetos que se pueden hacer en Blender)
+1. **La página del libro de cuentos** ⭐. Abre las películas (0:58, fotograma 1 del punto 2): pergamino pintado a mano, capitular iluminada, voz en off que lee. El mismo recurso abre **cada capítulo del juego *Shrek 2***, leído por el Espejo Mágico ✅ (wikitext de la franquicia + [transcript del juego](https://shrek.fandom.com/wiki/Shrek_2_(video_game)/Transcript)).
+2. **El letrero de madera pintado a mano.** «BEWARE — OGRE» con la cara de Shrek, pintura roja goteante sobre tabla. Visto en una [captura oficial de Steam de *PowerWash Simulator × Shrek*](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983890/ss_566e139d1b62a989c1434dee30932bf5df3b619b.1920x1080.jpg) (1920×1080, 10-oct-2024) ✅. En el tráiler en español se ve otro letrero real: **«Home Sweet Home»** en la puerta de la letrina (1:28) ✅.
+3. **El periódico *Far Far Away Times*.** Extra del DVD de *Shrek 2*, lema «All the News That's Fit to Print». Cabecera gótica, titular «Royalty Arrested!!!», columnas, pergamino con **rodillos de madera**. [Imagen, 1023×575](https://static.wikia.nocookie.net/shrek/images/1/15/Bandicam_2015-03-14_18-47-25-339.jpg) ✅.
+4. **Las Duloc Dolls («Clockwork Chorus»).** Muñecos autómatas que cantan *Welcome to Duloc* al tirar de una palanca y te dan una foto de recuerdo. Salen en *Shrek* y en *Scared Shrekless*, con letra distinta ✅ ([Fandom](https://shrek.fandom.com/wiki/Duloc_Dolls)).
+5. **El cartel de «WANTED» de Fiona** (*Shrek para siempre*), visto en H2-75: papel clavado con la cara de Fiona ogra. Un cartel de «se busca» real del mundo.
+
+**El que se elige para las láminas.** No un globo blanco. Según lo que haya que decir:
+- **Texto largo o que «se lee»** → la **página del libro de cuentos** (Bouwsma Uncial, capitular grande).
+- **Aviso corto** → el **letrero de madera** (Butcherman roja goteante, sin ¿).
+- **Noticias** → el ***Far Far Away Times*** (UnifrakturMaguntia en la cabecera).
+
+Los tres cumplen la regla 1 del dueño: un objeto real en un sitio real.
+
+## Punto 7 · Personajes y popularidad
+
+**Los principales** (fichas de [Fandom en inglés](https://shrek.fandom.com/wiki/Shrek_(character)) + [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Shrek)) ✅
+- **Shrek.** Ogro verde. Vivía solo porque la gente le temía primero; usa esa fama de monstruo para echar intrusos. Se abre poco a poco con Burro y Fiona. Fiel y protector con los suyos. Manías: baños de lodo, comer cosas asquerosas (gusanos, ojos de rana), enseñar los dientes para asustar. Sale con Burro, Fiona, el Gato y sus trillizos Fergus, Farkle y Felicia.
+- **Burro.** Parlanchín, hiperactivo, ingenuo, sociable hasta cansar. Le encanta cantar y la charla. Miedo a las alturas, hipocondríaco, poco valiente. No lleva objetos: su «objeto» son sus muletillas («¿Ya llegamos?», «Pregúntame, pregúntame»). Casado con la Dragona, 6 hijos «Dronkeys» con nombre de postre.
+- **Fiona.** Humana de día, ogra de noche; al final se queda ogra. Al principio es princesa de manual, formal, esperando un rescate «como es debido». Luego, independiente y ruda: eructa, pelea con **artes marciales**. En *Shrek tercero* lidera a las princesas rebeldes.
+- **Gato con Botas.** Caballero felino, honorable, «galán» con las gatas; cuenta historias, canta, baila, toca la guitarra. Espadachín experto. Su **gesto estrella**: los ojos enormes de cachorro, un «ataque» de ternura. Objetos: botas, espada, sombrero de ala ancha con pluma (parodia del Zorro).
+
+**Los secundarios que todos recuerdan** ✅
+- **Lord Farquaad**: dictador bajito que compensa con un castillo enorme y estatuas de sí mismo. Corona enorme; camina muy tieso. Muere comido por la Dragona y vuelve como fantasma en el especial de 2012.
+- **Dragona**: guardiana del castillo de Fiona; se enamora de Burro a primera vista. No habla: ruge.
+- **Jengi** (el Hombre de Jengibre): galleta con aires de vaquero; torturado por Farquaad (lo mojan en leche).
+- **Kitty Patitas Suaves**: ex ladrona, pareja del Gato desde 2011.
+- **Perrito**: perro terapéutico de *El último deseo*; cree que es gato.
+
+**¿Quién es el más querido?**
+- **No encontré una encuesta oficial** de DreamWorks ⚠️ (búsquedas: «Shrek personaje favorito encuesta oficial DreamWorks», «Shrek official character poll vote»).
+- **Listas de fans:** [Entretería](https://entreteria.com/10-personajes-de-shrek-mejor-clasificados/) pone a **Burro 1.º** «según la mayoría de los fans»; Ranker y varias búsquedas agregadas ponen al **Gato con Botas** arriba. El top 4 es siempre Gato, Burro, Shrek y Fiona; el orden cambia según la lista ⚠️.
+- **Dato objetivo:** el Gato es el **primer personaje de DreamWorks Animation con spin-off propio** (película 2011, serie 2015-2018, secuela 2022) ✅.
+- **Reddit r/Shrek** (títulos con más votos, recolector): «Shrek never fails to surprise me» (830 votos), «Name a more iconic duo… I'll wait» (710, Shrek y Burro), «Will there ever be a more iconic ending» (117) ([r/Shrek](https://www.reddit.com/r/Shrek/comments/obua2h/name_a_more_iconic_duo_ill_wait/)).
+- **Fan art:** Fiona y el Gato tienen cientos de dibujos en Safebooru; Shrek y Burro, menos de 10 con puntos cada uno (punto 3).
+
+**Conclusión del redactor.** Para una lámina en un servidor **latino de doblaje**, el más seguro es **Burro**: sale 1.º en la lista hispana, es la voz de Eugenio Derbez y protagoniza los memes en español (punto 12). **El Gato con Botas** es el más querido fuera de Latinoamérica y el de la película mejor valorada. **Shrek** solo pierde lo que más pide el fandom (punto 12).
+
+## Punto 8 · Doblaje latino y frases textuales
+
+**Fuentes:** Doblaje Wiki por su API (`action=parse&prop=wikitext`, 8 páginas: [Shrek](https://doblaje.fandom.com/es/wiki/Shrek), Shrek 2, [Shrek tercero](https://doblaje.fandom.com/es/wiki/Shrek_tercero), [Shrek para siempre](https://doblaje.fandom.com/es/wiki/Shrek_para_siempre), 2 especiales, [Gato con botas](https://doblaje.fandom.com/es/wiki/Gato_con_botas) y [El último deseo](https://doblaje.fandom.com/es/wiki/Gato_con_botas:_El_%C3%BAltimo_deseo)). Segunda fuente del reparto: [dubdb.fandom.com](https://dubdb.fandom.com/wiki/Shrek), que lista el mismo elenco para Hispanoamérica ✅.
+
+**Ficha técnica por película** ✅ (Doblaje Wiki)
+
+| Película | Estudio | Dirección | Adaptación |
+|---|---|---|---|
+| *Shrek* (2001) | Grabaciones y Doblajes, S.A. | Herman López | Nora Gutiérrez (traducción) / Eugenio Derbez |
+| *Shrek 2* (2004) | Grabaciones y Doblajes Internacionales (ya de Grupo New Art) | Herman López | Nora Gutiérrez / Eugenio Derbez y Gus Rodríguez |
+| *Shrek tercero* (2007) | **SDI Media de México** (por el veto de la ANDA) | Herman López | Jorge Roig y Gaby Cárdenas |
+| *Shrek para siempre* (2010) | New Art Dub | Herman López | — |
+| *Shrek: Espeluznante* (2011) | SDI Media de México | Herman López | Jesús Vallejo |
+| *El Fantasma de Lord Farquaad* (2012) | SDI Media de México | Herman López | — |
+| *Gato con botas* (2011) | New Art Dub | **Ricardo Tejedo** | Juan Carlos Cortés |
+| *El último deseo* (2022) | VSI Mexico City | **Xóchitl Ugarte** (Herman López murió el 19-dic-2021) | — |
+
+**Reparto** ✅ (Doblaje Wiki en cada página + dubdb)
+
+| Personaje | Voz original | Voz latina |
+|---|---|---|
+| Shrek | Mike Myers | **Alfonso Obregón** (películas 1-4 y especiales) |
+| Burro | Eddie Murphy | **Eugenio Derbez** (1-4; también adaptador de la 1 y la 2) |
+| Fiona | Cameron Diaz | **Dulce Guerrero** (1-4) |
+| Gato con Botas | Antonio Banderas | **Antonio Banderas** (él mismo) |
+| Lord Farquaad | John Lithgow | Humberto Vélez (también en el especial de 2012) |
+| Príncipe Encantador | Rupert Everett | Ricardo Tejedo |
+| Rey Harold | John Cleese | Maynardo Zavala (1-3) → Jesse Conde (4) |
+| Reina Lillian | Julie Andrews | Rosanelda Aguirre (1-4) |
+| Jengi | Conrad Vernon | Jesús Barrero (1-4, murió en 2016) → José Gilberto Vilchis, su sobrino (2022) |
+| Espejo Mágico | Chris Miller | Mario Filio |
+| Monsieur Hood | Vincent Cassel | Enrique Mederos |
+| Rumpelstiltskin | Walt Dohrn | Germán Ortega |
+
+**Tres datos que ninguna otra biblia tiene**
+1. **Banderas se dobla a sí mismo en tres idiomas a la vez** ✅✅ (Doblaje Wiki en 5 páginas + [El Informador, «Un felino temerario», 1-dic-2011](https://www.informador.mx/Entretenimiento/Un-felino-temerario-20111201-0239.html)). Graba inglés, español de España y español latino en la misma sesión en Los Ángeles; los directores de España e Italia escuchan para aprovechar tomas. El papel latino iba a ser de **Javier Rivero**, que se quedó como el Anunciador del castillo en *Shrek 2*. Hay vídeos de TikTok que dicen lo contrario; se sigue a Doblaje Wiki y El Informador.
+2. **Guillermo del Toro debuta como actor de voz** en *Gato con botas* (2011), en los tres idiomas, como el Comandante de San Ricardo («un Clint Eastwood mexicano») ✅✅ (mismas dos fuentes). Ricardo Tejedo fue a Toronto a dirigirlo.
+3. **Alfonso Obregón no vuelve como Shrek en *Shrek 5*** ✅✅ ([Infobae, 16-jun-2026](https://www.infobae.com/mexico/2026/06/16/alfonso-obregon-ya-no-le-dara-voz-a-shrek-5-por-que-habrian-cambiado) + [Hollywood Reporter en español](https://es.hollywoodreporter.com/alfonso-obregon-no-regreso-al-elenco-de-doblaje-de-shrek-5/), y según la parte de voz también El Comercio, Milenio, Excélsior, RPP, ABC Noticias y El Gráfico). Pidió mejor pago, dirigir él el doblaje y más peso en la promoción; no hubo acuerdo. En Instagram: «Sin comentarios. Me reservo mi opinión» y «El doblaje no es lo único que hago en la vida».
+   - El reemplazo **no está confirmado**: WikiDoblaje apuntó a **Faisy**, pero Milenio y El Gráfico avisan de que puede ser vandalismo ⚠️.
+   - La parte de voz dice que **Derbez y Dulce Guerrero sí vuelven**. Pero el recolector trajo un vídeo de Milenio titulado «Eugenio Derbez revela que su doblaje latino de *Shrek 5* podría no ser una realidad» ([Dailymotion](https://www.dailymotion.com/video/x9abw7a)), sin fecha vista ⚠️. **Comprobar antes de celebrarlo en una lámina.** También hay «Alfonso Obregón lanza campaña para volver como Shrek» de [Reporte Indigo](https://www.dailymotion.com/video/xa0dz7e) ⚠️.
+
+**Cómo se adaptó** (notas de Doblaje Wiki, «Datos de interés») ⚠️ una fuente, pero es la wiki especializada
+- Jengi: **«¿Tú conoces a Pin Pon?»** en vez de «The Muffin Man». Idea de Gus Rodríguez.
+- Burro cocinará **«tamales»**, no *waffles*.
+- Fiona habla al principio en **castellano antiguo**: «vos me habéis salvado».
+- Burro solo mete **tres frases propias de Derbez**: **«Pregúntame, pregúntame»** (guiño a su personaje Aarón Abasolo), las **«cartitas»** y los **«animalitos de la creación»** con la Dragona (guiño a Julio Esteban), y una al final con la pantalla en negro.
+- La canción «On the Road Again» de Burro quedó como **«Al camino voy»**.
+- Al final, Jengi dice **«Les deseo suerte a todos»** (en inglés, «Dios nos bendiga a todos»).
+- En la 1, Shrek tiene **la voz más aguda** que en las siguientes.
+- «Prince Charming» fue **«Príncipe Azul»** en la 1 y **«Príncipe Encantador»** desde la 2.
+- En *Shrek 2*, el arbusto con forma de Shirley Bassey pasó a **Paquita la del Barrio**.
+- *Shrek tercero* se grabó en SDI por el **veto de la ANDA** a New Art; Obregón temió perder el papel. En la 4 volvió con la condición de que siguiera Herman López.
+- *El último deseo*: Ricitos de Oro y los osos hablan **rioplatense** (el acento español ya era del Gato); el «I don't speak English» de Perrito es **«No hablo con la boca llena»**.
+- **Mario Filio** (Espejo Mágico) se inspiró en presentadores de TV (Jorge Alberto Aguilera, Jaime Kurt, Julio César Palomera) y en 2014 fue Shrek en el musical. **Derbez** ya había doblado a Eddie Murphy como Mushu en *Mulán*.
+
+**Frases textuales, oídas con `voz.py`** (muestras oficiales de Doblaje Wiki; Whisper se puede equivocar en nombres y en quién dice qué)
+- **Shrek, explicando** ([SHK1Shrek.ogg](https://static.wikia.nocookie.net/doblaje/images/7/71/SHK1Shrek.ogg/revision/latest?cb=20161218170027&path-prefix=es)): «Ejemplo, de acuerdo, ¿los ogros son como…?» «¡Cebollas!» «¡No! ¡Capas! Los ogros tenemos capas, las cebollas las tienen, ¿entiendes? Ambos tenemos capas.» · 262 Hz, 15,0 semitonos, **1,71 palabras/s** (lento, marca cada palabra) ✅
+- **Burro, presumiendo** ([SHK1Burro.ogg](https://static.wikia.nocookie.net/doblaje/images/a/a0/SHK1Burro.ogg/revision/latest?cb=20161218170210&path-prefix=es)): «¡Qué increíble reacción en tal situación! ¡Fantástico! […] Esos cuatro me querían como burro de carga. Pero llegaste así, ¡bam! ¡Pantitas para que las quiero!» · 265 Hz, 16,2 semitonos, **3,0 palabras/s** (atropellado) ✅
+- **Fiona, explicando su maldición** ([SHK1Fiona.ogg](https://static.wikia.nocookie.net/doblaje/images/7/78/SHK1Fiona.ogg/revision/latest?cb=20161218170233&path-prefix=es)): «De día soy una, pero de noche otra. Esa será tu apariencia hasta el primer beso del verdadero amor. Y tomarás la forma del verdadero amor.» · 200 Hz, 16,0 semitonos, 2,42 palabras/s ✅
+- **Gato con Botas, suplicando** (*Shrek 2*, [SHK2GatoBotas.ogg](https://static.wikia.nocookie.net/doblaje/images/9/95/SHK2GatoBotas.ogg/revision/latest?cb=20161204052852&path-prefix=es)): «¡Ay, mamá! ¡No, por favor! ¡Piedad! ¡Oh, lo suplico! No era nada personal, señor. Sólo lo he hecho por mi familia. Mi madre está enfermita y mi padre vive de la basura…» · 239 Hz, 16,9 semitonos, **3,51 palabras/s**. El final de la muestra se corta ⚠️.
+
+**Muestras que quedan por oír** (en Doblaje Wiki, sin transcribir): [Jengi](https://static.wikia.nocookie.net/doblaje/images/2/2f/SHK1Jengi.ogg/revision/latest?cb=20161218170600&path-prefix=es), [Lord Farquaad](https://static.wikia.nocookie.net/doblaje/images/b/b4/SHK1LordFarquaad.ogg/revision/latest?cb=20161218170341&path-prefix=es), [Espejo Mágico](https://static.wikia.nocookie.net/doblaje/images/f/fe/SHK1EspejoM%C3%A1gico.ogg/revision/latest?cb=20161218170639&path-prefix=es) y [coro de Duloc](https://static.wikia.nocookie.net/doblaje/images/b/bf/SHK1CoroDuloc.ogg/revision/latest?cb=20161218172140&path-prefix=es) ⚠️.
+
+**Clips oficiales doblados.** No se pudieron ver en YouTube. En Dailymotion hay tráileres en latino, entre ellos el [teaser oficial latino de *Shrek 5*](https://www.dailymotion.com/video/xag8wgm) (FilmAffinity, 1:21) y el especial [*Thriller Night* en latino](https://www.dailymotion.com/video/x2xbz48) (5:06), sin transcribir ⚠️.
+
+## Punto 9 · Música y sonido
+
+No hay opening ni ending de anime. Sus equivalentes: **la canción del arranque** («All Star», con el libro que se cierra) y **la del final** («I'm a Believer»). Fuentes cruzadas: la wiki de Shrek por API + [«List of songs featured in Shrek»](https://en.wikipedia.org/wiki/List_of_songs_featured_in_Shrek) de Wikipedia ✅.
+
+**Las canciones que todos reconocen**
+- **«All Star» (Smash Mouth)**: la rutina de Shrek en el pantano (lodo, gusanos de pasta de dientes), 2:20. También fue la música del **primer tráiler de *Shrek 2*** ✅. Hay un clip oficial de esa escena en [Dailymotion (Espinof, 2:20)](https://www.dailymotion.com/video/x8nqwud) ⚠️ no mirado.
+- **«Hallelujah»**: en el disco la canta Rufus Wainwright, pero **en la película suena la de John Cale** (Wainwright era de DreamWorks Records, Cale no). Suena en **la escena más triste de *Shrek***: Shrek, enfadado, deja a Burro y vuelve solo al pantano mientras Fiona, igual de triste, se prepara para casarse con Farquaad ✅ ([Fandom](https://shrek.fandom.com/wiki/Hallelujah) + Wikipedia).
+- **«I'm a Believer» (Smash Mouth, versión de The Monkees)**: no estaba en el final original. Jeffrey Katzenberg pidió **terminar con una carcajada**. Burro la canta en la fiesta de la boda (cerca de 1:20:57) ✅.
+- **«Accidentally in Love» (Counting Crows)**: abre *Shrek 2* sobre la luna de miel (casa de jengibre, susto a Caperucita, picnic en la playa) ✅ (transcript de la wiki + Wikipedia).
+- En la fiesta final de *Shrek* hay 10 canciones cantadas por personajes: Fiona «Like a Virgin», Farquaad «Stayin' Alive», el Lobo y los cerditos «Who Let the Dogs Out?». En *Shrek 2*, el extra **«Far Far Away Idol»**: el Gato canta «These Boots Are Made for Walkin'» ⚠️ (una fuente).
+- Especiales: Burro canta «Jingle Bells» en *Shrek the Halls*; el Gato, **«Fleas Navidad»**; Burro y el Gato, «Thriller» en *Thriller Night* ⚠️.
+- En el VHS latino, los créditos del doblaje salían durante **«Stay Home» de Self**, la canción de los créditos finales ⚠️ (Doblaje Wiki).
+
+**Partitura y discos** (MusicBrainz, una fuente ⚠️)
+- *Shrek* (2001): **Harry Gregson-Williams y John Powell** ([ficha](https://musicbrainz.org/release-group/0f5d6d61-d404-3e21-8204-71b6d155d583)).
+- *Shrek 2*, *tercero* y *para siempre*: Harry Gregson-Williams.
+- Juego *Shrek 2*: Kevin Manthei y Kevin Riepl. Musical: Jeanine Tesori.
+
+**Sonido y doblaje** (Doblaje Wiki) ⚠️
+- Cuando Burro le canta a Shrek, en inglés suena música de fondo; **en el doblaje latino se quitó**.
+- La risa de Shrek y Burro volando sobre la dragona **no se dobló**.
+- En el segundo tráiler, el «¡Corran!» de Shrek suena normal; en la película se alarga para la cámara lenta.
+- Tras leer el cuento, Shrek casi dice una grosería, tapada por **la cisterna del retrete**.
+
+**Volumen medido** (`ffmpeg -af volumedetect`, 4 s de audio) ✅
+- Turba con antorchas y rugido de Shrek (5:55-5:59): −37,1 dB medio, −21,4 dB pico.
+- Puente en llamas (30:02-30:06): −36,5 dB medio, −19,9 dB pico.
+- Ambiente tranquilo del pantano (0:20-0:24): −41,2 dB medio, −27,0 dB pico.
+- Confirma que las escenas de tensión suenan más fuerte. No dice **qué** efecto suena.
+
+**Efectos y onomatopeyas** ⚠️ No se pudo oír la película entera (sólo fotogramas mudos). Lo que hay sale de la wiki: el **rugido de Shrek** es el remate cómico que se repite («esto es cuando huyen todos», escena de la turba, 5:56) y suena en el tráiler. Los efectos concretos (cisterna, estallido del pajarito, eructos) **quedan por oír**.
+
+## Punto 10 · Vídeos y tendencias
+
+**Tráiler oficial en español, mirado entero** ✅ · «Shrek Tráiler», Sensacine, 1:55 · [Dailymotion x88nk3f](https://www.dailymotion.com/video/x88nk3f) · 15 fotogramas cada 8 s con `fotogramas.py`
+- 0:08 el caballero de Farquaad, de azul, en silueta.
+- 0:16 Shrek y Burro diminutos caminando al atardecer.
+- 0:40 Farquaad prueba un aperitivo de galleta de jengibre.
+- 1:28 el letrero **«Home Sweet Home»** en la puerta de la letrina.
+- 1:36 Shrek y Fiona abrazados por el bosque.
+- 1:52 Shrek y Burro entran a un pueblo.
+
+**Otros tráileres** (catalogados, no mirados fotograma a fotograma ⚠️)
+- Tráiler original en inglés, 2:10: [x88odx5](https://www.dailymotion.com/video/x88odx5).
+- Tráiler de *Shrek 2*, 1:18: [x8jk10v](https://www.dailymotion.com/video/x8jk10v) (el de «All Star», según Wikipedia).
+- Teaser latino de *Shrek 5*, 1:21: [xag8wgm](https://www.dailymotion.com/video/xag8wgm).
+
+**Las películas enteras que se usaron**
+- *Shrek*: [archive.org/details/shrek-1](https://archive.org/details/shrek-1) (1920×1080, 90:04) ✅ y la copia latina [Dailymotion xalipyq](https://www.dailymotion.com/video/xalipyq) (66:03, más corta) ✅.
+- *Shrek 2*: [edición 4:3 en Archive](https://archive.org/details/shrek-2-2004-full-screen_202406) (92:25) ✅.
+- *Shrek para siempre*: [`shrek-4_202107`](https://archive.org/details/shrek-4_202107) (93:14), localizada pero **sin abrir** ⚠️.
+- **No se vio** *El último deseo* (2022) ⚠️.
+
+**Análisis en YouTube** (sólo metadatos con `yt-dlp --skip-download`; YouTube pide iniciar sesión) ⚠️
+- «El Significado OCULTO de SHREK 2 | Análisis», Cineasta Mundial, 11:14: [youtube.com/watch?v=z8R8DZkFJVE](https://www.youtube.com/watch?v=z8R8DZkFJVE).
+- «SHREK 2: La subversión del cuento»: [youtube.com/watch?v=q-G8UnZnUQk](https://www.youtube.com/watch?v=q-G8UnZnUQk).
+
+**Tendencias** (por buscador; TikTok no abre desde aquí) ⚠️
+- **El Príncipe Encantador en TikTok (sep-2026)**: la gente usa el efecto «Face Time Warp» para imitar su cara alargada y hace *playback* de «not here, kitten whiskers». Dos audios con **325 000 vídeos** entre los dos, según [AOL/Yahoo News](https://www.aol.com/news/prince-charming-shrek-memes-taking-203223758.html).
+- **«Shrek is love, Shrek is life»**: sigue viva como etiqueta y plantilla ([TikTok](https://www.tiktok.com/discover/shrek-is-love-shrek-is-life)). Hay una subida con ese nombre en [Internet Archive](https://archive.org/details/ShrekIsLoveShrekIsLife13) (24 646 descargas).
+- **«All Star»** se sigue reutilizando como sonido de meme (etiquetas `shrek-all-star`, `all-star-song-shrek`), sin cifras oficiales.
+
+**Minutos exactos que faltan:** los de los vídeos de análisis y los de TikTok (no se pudieron abrir) ⚠️.
+
+## Punto 11 · Videojuegos
+
+Lista completa sacada del wikitext de [*Shrek (franchise)*](https://shrek.fandom.com/wiki/Shrek_(franchise)), sección «Video Games» ✅.
+
+**Por película (plataformas y peleas):** *Shrek* (2001, GameCube/Xbox; pionero en *deferred shading* y el único «T» de la saga) · *Shrek 2* (2004, Activision; GameCube, PS2, Xbox, GBA, PC) · *Shrek the Third* (2007) · *Shrek Forever After* (2010) · *Puss in Boots* (2011, el último de DreamWorks con THQ).
+
+**Carreras:** *Shrek Swamp Kart Speedway* (2002) · *Shrek Smash n' Crash Racing* (2006) · *Shrek Kart* (2009, iPhone) · *DreamWorks Super Star Kartz* (2011) · *DreamWorks All-Star Kart Racing* (2023, el actual).
+
+**Fiesta:** *Shrek: Treasure Hunt* (2002) · *Shrek Super Party* (2003) · *Shrek's Carnival Craze* (2008).
+
+**Lucha: *Shrek SuperSlam*** (2005, Shaba Games/Activision). **HUD confirmado en dos fuentes** ✅: barra **«Slamergy»** bajo el retrato del personaje, con un icono **«SLAM»** (en GBA y DS se llama «Fairy Dust»); se llena golpeando y se recogen armas y pociones. La excusa: Shrek y sus amigos cuentan historias para dormir a los Dronkeys.
+
+**Otros:** *Shrek: Fairy Tale Freakdown* (2001, GBC; 0,5/5 en Game Informer, el peor de la saga) · *Hassle at the Castle* · *Extra Large* · *Reekin' Havoc* · *Shrek 2: Beg for Mercy* · seis exclusivos de Sky Gamestar en Reino Unido · *Shrek n' Roll* (2007, Xbox Live Arcade) · *Shrek: Ogres & Dronkeys* (2008, DS) · educativos V.Smile · *Shrek's Fairytale Kingdom* (2012, iOS) · *Shrek Alarm* (2013).
+
+**El más reciente: DLC de Shrek para *PowerWash Simulator*** (10-oct-2024, FuturLab) · [Steam](https://store.steampowered.com/app/2983890) · 5 capturas de 1920×1080 miradas ✅. Una trae el **letrero «BEWARE — OGRE»** (punto 6). Está en 11 idiomas, con **español de España, no latino** ✅.
+
+**Cómo hablan en los juegos** ✅
+- ***Shrek 2* (juego)**: cada nivel abre con **una narración de libro de cuentos leída por el Espejo Mágico**. Los diálogos van en formato simple `Personaje: frase`, sin acotaciones ([transcript](https://shrek.fandom.com/wiki/Shrek_2_(video_game)/Transcript)).
+- **Para una lámina:** el formato del juego es el mismo que el de las películas. Libro narrado, no caja de diálogo.
+
+**The Cutting Room Floor.** Existen páginas de TCRF de *Shrek 2* (Windows), *SuperSlam*, *Reekin' Havoc* y *Ogres and Dronkeys*, pero **tcrf.net dio 403 (Cloudflare) dos veces**, directo y por Wayback ⚠️. De segunda mano: *Shrek 2* para PC corre sobre **Unreal Engine** y tiene un modo de depuración por consola ⚠️.
+
+**Lo que falta:** una captura en alta de un menú o una caja de diálogo de un juego clásico ⚠️; la letra de sus menús (punto 5) ❌.
+
+## Punto 12 · Lo que ama el fandom y qué NO hacer
+
+**Memes globales** ✅
+- **«Shrek is love, Shrek is life»**: copypasta nacida en 4chan el 14-ene-2013; lecturas dramáticas en YouTube (feb-2013); explota el 18-mar-2014 con la animación CGI de Sykotic, que llegó a 27 millones de vistas tras la reacción de Fine Bros. De ahí sale el «shrekismo», un culto irónico de nostalgia ([Know Your Meme](https://knowyourmeme.com/sensitive/memes/shrek-is-love-shrek-is-life), Daily Dot).
+- **Shrekfest**: festival real de fans disfrazados en Massachusetts (según Syfy) ⚠️.
+- **Shrek Rave**: fiestas temáticas de promotores independientes (Ka5sh), **no de DreamWorks**. DreamWorks sólo se sumó una vez, en 2022, con el estreno de *El último deseo* ([Vice](https://www.vice.com/en/article/shrek-rave-uk-photos/)) ✅.
+- «All Star» como himno meme de la saga.
+
+**Memes en español, salidos del doblaje** ✅ (TikTok, varias fuentes agregadas)
+- **«Pregúntame, pregúntame»**: la muletilla de Derbez, usada como plantilla de «hazte el interesante».
+- **«Agarro el mínimo de confianza y soy el burro de Shrek»**: para quien se vuelve parlanchín de golpe.
+- **«Porque 'toy solito»**: otra frase de Burro, formato de meme de soledad.
+- Las curiosidades del doblaje (Pin Pon, Paquita la del Barrio) circulan como datos virales entre fans del doblaje.
+
+**Momentos que todo fan reconoce**
+- La cebolla y las capas.
+- «Bienvenidos a Duloc», el número de los muñecos.
+- El pajarito que estalla cuando Fiona canta (49:56).
+- La transformación y el beso en la boda (1:19:50 y 1:20:57).
+- El ataque de pánico del Gato en *El último deseo* (punto 21): el momento más comentado de la saga reciente, y no por gracioso.
+- En Reddit, «john lithgow doing his iconic lord farquaad line» (194 votos) y «Forgot how iconic the scene was» (202) ([r/Shrek](https://www.reddit.com/r/Shrek/comments/1jb5ijm/john_lithgow_doing_his_iconic_lord_farquaad_line/)).
+
+**Qué NO hacer** (lo que a un fan le sonaría falso)
+- **No hacer a Shrek bruto y gritón.** Sus mejores chistes (la cebolla) dependen de que hable **despacio y con lógica aplastante** (1,71 palabras/s en la muestra).
+- **No poner a Shrek solo.** Burro y el Gato roban la película en las listas de fans. Shrek sin compañía pierde lo que el fandom más pide.
+- **No tratar al Gato sólo como chiste.** Su arco de *El último deseo* es sobre el miedo a la muerte y la ansiedad; burlarse de eso es el error que más notaría ese público.
+- **No mezclar el doblaje latino con el de España.** Son equipos distintos, y dentro del latino hay acentos a propósito (rioplatense en *El último deseo*). En un servidor de doblaje se nota.
+- **No dar por hecho que Obregón sigue siendo Shrek.** No vuelve en *Shrek 5*; es un tema sensible ahora mismo.
+- **No inventar una colaboración con Fortnite.** No encontré ninguna oficial: dos fuentes la tratan como rumor (punto 23).
+- **No dibujar contorno negro de anime** ni cel-shading: Shrek es CG sin línea (punto 18).
+- **No cambiar el vestido de Fiona al transformarla**: la ropa es la misma en humana y en ogra (punto 1).
+
+## Punto 13 · Personajes a fondo
+
+Fuentes: fichas de Fandom (EN) y Doblaje Wiki, las muestras de voz (punto 8) y fotogramas propios. Recordatorio: los minutos **(DM)** son de la copia de Dailymotion de 66:03; los demás, de la copia de Archive de 90:04.
+
+### Shrek
+- **Historia.** Vive solo en su pantano porque la gente le teme. Cuando Farquaad destierra a las criaturas de cuento a su pantano, pacta: rescatar a Fiona a cambio de recuperar su casa. Se enamora, no se cree que alguien pueda quererlo y confiesa en la boda. En *Shrek para siempre* firma con Rumpelstiltskin para ser «un ogro de verdad» un día, y casi pierde a su familia.
+- **Miedo.** Que lo juzguen y lo rechacen por su aspecto. Después, perder su libertad al volverse «domesticado».
+- **Qué le importa.** Primero su pantano y su soledad; después su familia, por encima de todo.
+- **Qué transmite.** «No juzgues por las apariencias», sin sermón. Es gruñón y algo egoísta, y por eso es creíble. Da ternura verlo aprender a confiar.
+- **Cómo habla.** Voz aguda para su tamaño (262 Hz), muy expresiva pero **lenta cuando explica** (1,71 palabras/s): casi pedagógico y un poco sarcástico. Su presentación es gritar «¡Fuera de mi pantano!» ⚠️ (sin muestra de audio).
+- **Cuerpo.** Hombros caídos y paso pesado cuando está triste; se yergue y va al frente cuando protege. Para asustar enseña los dientes muy cerca de cámara: es **un acto**, sabe que asusta y lo usa.
+- **Dinámicas.** Burro lo hace reír a su pesar. Discute con Fiona por un malentendido (ella lo oye decir «monstruo» y cree que habla de ella, (DM) ~49-50). Protege a Fiona de Farquaad sin dudar.
+
+### Burro
+- **Historia.** Vendido por su dueña a un mercader de criaturas mágicas, se escapa, se pega a Shrek y no lo suelta. Encuentra el amor con la Dragona.
+- **Miedo.** **La soledad**: todo su parloteo es huir del silencio. Y las alturas.
+- **Qué le importa.** Tener amigos, aunque moleste.
+- **Qué transmite.** Calidez y risa constante. Es el «traductor emocional» de Shrek: dice en voz alta lo que Shrek no admite.
+- **Cómo habla.** Agudo (265 Hz) y **el más rápido** de los cuatro (3,0 palabras/s). Encadena preguntas sin pausa. Carcajada abierta y sonora. Muletillas del doblaje: «¿Ya llegamos?», «Pregúntame, pregúntame».
+- **Cuerpo.** Gesticula con las patas delanteras como un humano. Camina **demasiado cerca** de Shrek cuando tiene miedo.
+- **Dinámicas.** Hace reír a Shrek; amor instantáneo con la Dragona; **rivalidad cómica con el Gato** por ser el mejor amigo de Shrek.
+
+### Fiona
+- **Historia.** Hechizada de niña, encerrada en una torre esperando el amor verdadero. Descubre que su plan de cuento no encaja con la realidad. **Elige quedarse ogra para siempre**, algo rarísimo para una princesa animada en 2001.
+- **Miedo.** Que la vean como un monstruo; más tarde, perder su independencia siendo madre y princesa.
+- **Qué le importa.** Que la quieran por quien es. En *Shrek tercero* no espera rescate: lidera la rebelión.
+- **Qué transmite.** Se ríe del cuento de hadas con cariño. Da gusto verla: eructa, se defiende sola y sigue siendo tierna.
+- **Cómo habla.** Voz media (200 Hz), ritmo normal. Al principio, **castellano antiguo** («vos me habéis salvado»), que se va soltando. Pelea con calma, casi aburrida (parodia de *Matrix*).
+- **Cuerpo.** Muy erguida, «de manual», al principio; luego se sienta en el suelo y ríe con la boca abierta ((DM) 47:12, junto al fuego con Shrek).
+- **Dinámicas.** Discute con Shrek por el malentendido; complicidad de hermanos con Burro; desprecio a Farquaad desde que lo ve.
+
+### Gato con Botas
+- **Historia.** Cazarrecompensas que va a por Shrek en *Shrek 2*, pierde y se une a él. En su película (2011): huérfano criado con Humpty Dumpty, que lo traiciona, y su historia con Kitty. En *El último deseo* (2022) ha gastado **8 de sus 9 vidas** y por primera vez teme morir.
+- **Miedo.** En la trilogía, casi ninguno (ese es el chiste). En *El último deseo*: a la Muerte (un lobo cazarrecompensas), a estar solo, a no ser nadie sin su leyenda.
+- **Qué le importa.** Su honor y su leyenda; al final, Kitty y Perrito, y aprender que una vida basta.
+- **Qué transmite.** Encanto y aventura; en 2022, una historia de ansiedad tratada con un respeto que la crítica llama pionero (punto 21).
+- **Cómo habla.** Más agudo que Shrek (239 Hz) y **muy rápido** (3,51 palabras/s) cuando finge ternura para escapar: un timador con acento español. Los ojos de cachorro son **manipulación consciente**, nunca involuntaria.
+- **Cuerpo.** Reverencias exageradas, mano al pecho al jurar, la espada sale con un giro teatral. En el ataque de pánico todo cambia: se encoge, tiembla, jadea.
+- **Dinámicas.** Rival cómico de Burro; tensión romántica y profesional con Kitty; con Perrito, el mentor acaba siendo calmado por el protegido.
+
+### Los secundarios queridos
+- **Lord Farquaad.** Obsesionado con la perfección y con ser rey casándose con una princesa. Su crueldad es sobrecompensación por su estatura. Villano ridículo **y** despiadado: eso lo hace memorable. Tono cortante y nasal, siempre de mando.
+- **Dragona.** El monstruo que resulta ser lo más tierno de la escena. No habla (en el original, efectos de Frank Welker sin crédito).
+- **Jengi.** Alivio cómico pequeño en escenas tensas; llora glaseado azul.
+- **Kitty** y **Perrito**: el motor emocional de *El último deseo*. La frase de Perrito, según su ficha: «Sólo he tenido una vida, pero compartirla contigo y con Kitty la hizo especial. Quizás… una vida… sea suficiente» ⚠️ (no se comprobó que sea la línea exacta del doblaje latino).
+
+### Su cara en cada emoción
+
+| Personaje | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Shrek** | ✅ (DM) 1:02:04, sonrisa amplia al ver a Fiona ogra · 55:05 riendo apoyado en un árbol | ✅ (DM) 8:24-8:28, grita y enseña los dientes a Burro | ⚠️ (DM) ~49-50 se intuye de espaldas, sin plano frontal | ⚠️ no encontrado | ⚠️ no encontrado |
+| **Burro** | ✅ (DM) 58:00, sonrisa amplia y orejas arriba · 52:59 riendo de perfil | ⚠️ no localizado (su registro es más miedo que ira) | ⚠️ no encontrado | ✅ 35:03, cara pegada a cámara, ojos enormes, luz roja del fuego de la dragona · render H3-4 | ⚠️ no encontrado |
+| **Fiona** | ✅ (DM) 47:12, risa junto al fuego · (DM) 1:02:00, serena tras transformarse · 49:56 cantando | ⚠️ no aislado | ⚠️ candidatas H1-10 y H1-11 («Fiona feels sorry for Shrek», «overhears», 3840×2080), que salen casi negras en la hoja | ✅ 44:56, boca abierta, cejas arriba, mira algo fuera de cuadro | ⚠️ no encontrado |
+| **Gato con Botas** | ✅ *Shrek 2* 1:22:30, tarjeta de créditos, lengua fuera, pose de estrella | ⚠️ *Shrek 2* 38:00 es un reto con la espada, no rabia | ⚠️ no encontrado | ⚠️ ataque de pánico de *El último deseo*, ~55:17-58:37 o ~1:02:32 según fans de Reddit; sin fotograma propio | ⚠️ no encontrado |
+| **Lord Farquaad** | ⚠️ no encontrado | ✅ (DM) 13:08, frío y satisfecho torturando a Jengi · (DM) 1:01:24, furia con la boca abierta al ver a Shrek | ⚠️ | ⚠️ | ⚠️ |
+| **Jengi** | ⚠️ | — no aplica | ✅ (DM) 13:24, llorando glaseado azul | ✅ (DM) 13:24, boca de mermelada temblando en la mesa de tortura | — |
+
+**Resultado: 10 de 30 casillas con fotograma y minuto** ✅. Se recorrió *Shrek* entera (DM) cada 60 s con 3 pasadas de 4 s, y los fotogramas de la copia de Archive. Faltan sobre todo **vergüenza** (nadie) y **tristeza**. Algunas combinaciones quizá no existen como plano propio en *Shrek* (Shrek con miedo, Farquaad alegre) ⚠️.
+
+**Dinámicas para láminas en grupo:** Shrek + Burro (el gruñón y el parlanchín, «Name a more iconic duo» en Reddit) · Burro + Gato (celos cómicos) · Shrek + Fiona (iguales, se ríen juntos) · Gato + Perrito (el que calma al valiente).
+
+## Punto 14 · Poses analizadas
+
+Fotogramas propios de la parte de vídeo (vistos con Read) y renders de las hojas. Minutos de la copia de Archive salvo aviso.
+
+### Shrek (10)
+1. **Presentar su casa** · 1:14 · su manaza verde ocupa el cuadro, dedos abiertos sobre la tapa de cuero del libro ✅
+2. **Asustar / regañar** · 5:56 · de pie ante la turba con antorchas, brazos abiertos, sonrisa amenazante, mirada a cámara ✅
+3. **Actuar / pelear** · 21:00 · entra al ruedo con paso firme, torso adelante, puños sueltos ✅
+4. **Avanzar con cautela** · 30:03 · cruza el puente en llamas con Burro, antorcha en mano, mira arriba ✅
+5. **Explicar** · 43:54 · sentado junto a la fogata, gesticulando con las manos ✅ (la frase de esa escena, ver «Lo que corregí» ⚠️)
+6. **Reír** · 55:05 · apoyado en un árbol, cabeza atrás, boca abierta ✅
+7. **Decidir** · 1:19:50 · de pie, brazos extendidos hacia la luz dorada, palmas abiertas ✅
+8. **Celebrar** · 1:20:57 · frente contra frente con Fiona, luz azul de vitral ✅
+9. **Presentarse con fuerza** · render H1-2 · garras en alto, rodillas dobladas, sonrisa de oreja a oreja ✅
+10. **Explicar con un objeto** · render H1-44 · primer plano con la cebolla en la mano ✅
+
+### Burro (9)
+1. **Acompañar** · 11:00 · trota junto a Shrek, orejas adelante, cuello estirado hacia él ✅
+2. **Presentar (cómico)** · 11:00 · bocarriba en la cama de Shrek, pezuñas al aire ✅
+3. **Miedo** · 35:03 · cara pegada a cámara, ojos enormes, luz roja ✅
+4. **Sorpresa / romance** · 37:57 · envuelto por la cola de la dragona, orejas caídas, mirada de reojo ✅
+5. **Animar** · 52:59 · de perfil riendo con la boca muy abierta, orejas arriba ✅
+6. **Presentar, cuerpo entero** · H3-1 · de pie, sonrisa enorme, patas delanteras sueltas ✅
+7. **Celebrar** · H3-2 · volando con polvo de hada entre caballeros ✅
+8. **Estar en casa** · H3-3 · sentado en el sillón de la cabaña de Shrek ✅
+9. **Asustarse** · H3-4 · pezuña en la boca, orejas atrás ✅
+
+### Fiona (10)
+1. **Alegría** · 49:56 · mano en el pecho, ojos cerrados, cantando al pajarito ✅
+2. **Miedo** · 44:56 · boca abierta, cejas arriba ✅
+3. **Cariño** · 52:59 · cara a cara con Shrek, mentón arriba ✅
+4. **Animar** · 55:05 · tirada en el pasto tras la voltereta, sonriendo ✅
+5. **Decidir** · 1:16:56 · de novia, espalda recta, mirada al altar ✅
+6. **Pelear** · render H1-1 · patada en el aire, corona puesta ✅
+7. **Celebrar** · render H1-7 · salto con el vestido verde ✅
+8. **Guerrera** · render H1-31 · de pie con hacha, armadura de cuero ✅
+9. **Pensar / esperar** · H2-69 · en la ventana de la torre, mano en la mejilla ✅
+10. **Patada contra los hombres de Robin Hood** · «~21:54-22:56» según la parte de vídeo ⚠️ minuto dudoso (ver «Lo que corregí»)
+
+### Gato con Botas (8)
+1. **Presentar / desafiar** · *Shrek 2* 37:27 · reverencia, sombrero en la mano extendida, una pata sobre una roca ✅
+2. **Retar** · *Shrek 2* 38:00 · esgrima, espada en alto, cola erguida, mira hacia arriba a Shrek ✅
+3. **Escala cómica** · *Shrek 2* 38:00 · muy erguido frente a Shrek agachado ✅
+4. **Vigilar** · *Shrek 2* 1:19:10 · montado en Burro hecho caballo blanco, bigotes alerta ✅
+5. **Celebrar** · *Shrek 2* 1:22:30 · pata en un tejado, bota adelante, lengua fuera ✅
+6. **Presentar, cuerpo entero** · H3-5 · pose de esgrima, capa al viento ✅
+7. **Pelear** · H3-6 · contra guardias con espada ✅
+8. **Explicar** · H3-7 · la guía oficial con 4 viñetas de gestos ✅
+- **Falta el gesto más famoso: los ojos de cachorro** ⚠️. Se buscó en *Shrek 2* (30-46 min y 78-86 min) sin dar con el segundo exacto.
+
+### Qué pose para qué
+
+| Para… | Shrek | Burro | Fiona | Gato con Botas |
+|---|---|---|---|---|
+| **Presentar** | H1-2 garras arriba · 1:14 mano en el libro | H3-1 de pie sonriendo | H1-7 salto | 37:27 reverencia |
+| **Explicar** | 43:54 gesticulando · H1-44 con la cebolla | 11:00 trotando a su lado, hablando | (DM) 47:12 sentada junto al fuego | H3-7 guía |
+| **Celebrar** | 1:20:57 · 55:05 riendo | H3-2 volando | 49:56 cantando | 1:22:30 lengua fuera |
+| **Regañar** | 5:56 ante la turba · (DM) 8:24 enseñando dientes | — (no hay rabia) | H1-1 patada | 38:00 espada en alto |
+| **Pensar** | 30:03 mirando arriba · 1:19:50 | 37:57 de reojo | H2-69 ventana | 1:19:10 alerta |
+| **Animar** | 55:05 riendo | 52:59 carcajada | 55:05 en el pasto | 38:00 reto |
+
+## Punto 15 · Vestuario y hex medidos
+
+Medido con `estilo.py` sobre renders oficiales de la wiki (parte de imagen). **No son colores de memoria.**
+
+| Personaje y traje | Imagen medida | Hex | Estado |
+|---|---|---|---|
+| **Shrek, ropa de siempre** (igual en las 4 películas): chaleco de cuero marrón, túnica beige, cinturón, calzas ocres con vendas, botas oscuras | `Shrek_fierce.jpg` 3600×3210 (H1-2) | piel `#7F7240` / `#B8A933` (verde oliva, **más amarillo** de lo que se recuerda) · chaleco `#392E20` · túnica `#C8C2AD` | ✅ |
+| **Fiona ogra** (misma familia de verdes que Shrek) | `Fiona_ogre_2_render.png` (H1-26) | `#86844A` / `#C6BE4D` | ✅ |
+| **Fiona, vestido de viaje verde** ⭐ el icónico: corpiño verde con bordado dorado de enredadera, falda más oscura | `Fiona_kick_alternate.jpg` 3262×3749 (H1-1) | verde `#438D2E` · sombra y enagua `#1B2D18` | ✅ |
+| **Fiona guerrera** (*Shrek para siempre*): cuero con remaches y ribete dorado | `Warrior_Fiona.jpg` 1921×3000 (H1-31) | `#453027` · `#7D5031` · ribete `#B99D30` | ✅ |
+| **Fiona de coronación** (*Shrek tercero*) | `Shrek_Fiona_crowning_outfits.jpeg` 3300×2200 (H1-23) | `#99725D` / `#76462D` / `#B16433`, mezclado con el fondo | ⚠️ hace falta un recorte sólo de tela |
+| **Fiona, vestido azul del baile** (*Shrek 2*) | `Fiona_human_2_pose_full.png` 1681×3300 (H1-34) | azul petróleo apagado `#2F4542` / `#536C6C` | ⚠️ una imagen, fondo oscuro |
+| **Fiona, gala verde azulada con cuello dorado** (postal de DreamWorks) | `Tumblr_b8561e307…1280.jpg` 1200×1200 | `#245152` · pliegues `#07110F` | ✅ |
+| **Burro** (no lleva ropa: su pelaje es su «traje»): gris con hocico claro y crin negra | `DonkeyTransparent.png` 1182×2864 (H3-1) | lomo `#917D6B` · gris medio `#6C5C4C` · crin y orejas `#40362E` · hocico `#B6A18D` | ✅ (cuadra con la wiki: «gray donkey with brown eyes and a black mane») |
+| **Gato con Botas**: naranja atigrado, sombrero y botas negros, pluma amarilla, capa negra | `PussInBootsTransparent.png` 1855×1800 (H3-5) | naranja `#A1662A` · crema de mejillas y pecho `#E4AF57` · capa y sombrero `#40332C` · botas `#0B0A09` | ✅ |
+
+**Peinado de Fiona.** Pelirroja. Suelta con **una trenza fina a un lado** en las apariciones de gala; **trenza gruesa** con la armadura de guerrera ✅ (3 imágenes). Corona dorada de puntas simples en la postal; tiara con gemas en otras escenas.
+
+**Descripción oficial del Gato** (wiki): «gato atigrado jengibre de ojos verdes»; pelaje naranja con rayas marrón rojizo en lomo, patas, cola y cabeza; crema en patas, vientre, hocico, barbilla y cejas ✅.
+
+**La ropa que todos reconocen** (para no dudar):
+- Shrek: **el chaleco marrón** sobre la túnica beige.
+- Fiona: **el vestido verde de viaje** (no el azul ni el morado, que son de arcos concretos).
+- Gato: **sombrero con pluma amarilla y botas**.
+- Burro: nada; su pelaje.
+
+**Trajes de arco** (vistos en las hojas): Shrek vestido de rey en rosa y morado (H2-59, H2-78) · Fiona humana en azul petróleo (H2-79) · Fiona de novia (1:16:56).
+
+**Regla que da la guía oficial:** al transformarse, Fiona **no cambia de vestido**; sólo cambian piel y pelo (punto 1).
+
+## Punto 16 · Ciudades, paisajes y fondos de pantalla
+
+**Los sitios, con su luz y su hora** (paletas completas en el punto 4)
+
+| Sitio | Qué es | Hora y luz | Dónde verlo |
+|---|---|---|---|
+| **El pantano de Shrek** | Su casa: cabaña, letrina, lodo, musgo colgante | De día, sombra verde oliva bajo los árboles (2:20); al atardecer, cálido `#E89F38`; de noche, fogata | 2:20 · 43:54 · H1-43, H1-45, H1-48 |
+| **Duloc** | Ciudad de Farquaad: casas blancas iguales, torres azules, simetría, parodia de Disneylandia con torniquetes y tienda de recuerdos | Día frío y gris (21:00); noche casi negra con antorchas (14:55) | H1-47 · [calle de Duloc, 1920×1080](https://static.wikia.nocookie.net/shrek/images/9/92/Shrek-easter-egg.jpg) |
+| **El castillo de la dragona** | Torre de Fiona sobre un lago de lava, puente colgante | Atardecer rojo y morado, fuego (30:03) | 30:03 · H2-69 |
+| **Muy Muy Lejano** (*Far Far Away*) | Reino de los padres de Fiona, parodia de Beverly Hills: palacio, alfombra roja | Día de piedra clara (*Shrek 2*, 40:00); fiesta de noche con faroles (1:21:43) | H2-65 · H1-36 |
+| **El prado del molino** | Pantano abierto con molino | Anochecer verde musgo | H2-51 |
+| **La playa de la luna de miel** | *Shrek 2* | Sol y mar azul | H1-3, H1-4 |
+
+**Fondos de pantalla en alta** (Wallhaven, sólo aptos; recolector + parte de imagen)
+- 3840×2160 · ♥ 184 · subido por *jrmnt*, origen [artstation.com/omorphia](https://www.artstation.com/omorphia) · [imagen](https://w.wallhaven.cc/full/8g/wallhaven-8gg3lo.jpg). Sus etiquetas no dicen «Shrek» (interior en CGI) ⚠️ comprobar antes de usar.
+- 2730×1536 · ♥ 59 · *Rynios* · el Gato con sombrero y espada · [imagen](https://w.wallhaven.cc/full/ex/wallhaven-exxomo.jpg).
+- 1920×1080 · ♥ 32 · *Bongic* · Shrek y Burro al atardecer · [imagen](https://w.wallhaven.cc/full/yx/wallhaven-yx56mg.jpg).
+- 1920×1080 · ♥ 27 · *Bongic* · fotograma de película · [imagen](https://w.wallhaven.cc/full/we/wallhaven-we69eq.jpg).
+- 3840×2160 · ♥ 21 · *RaidyHD* · humor, personajes · [imagen](https://w.wallhaven.cc/full/lm/wallhaven-lmmjvq.png).
+- 3398×2048 · ♥ 5 · *Russiaoniichan* · Shrek, Burro y la dragona · [imagen](https://w.wallhaven.cc/full/po/wallhaven-pom373.png).
+- 1920×1080 · *CallMeAce* · silueta minimalista con luna · [imagen](https://w.wallhaven.cc/full/83/wallhaven-83y11o.jpg) · y en verde · [imagen](https://w.wallhaven.cc/full/zm/wallhaven-zmerry.jpg).
+- Cruces: 3840×2160 pixel art con Mario, Thanos y Rick (origen [DeviantArt](https://www.deviantart.com/scepterdpinoy/art/Summer-Pixels-4k-Wallpaper-804134544)) · 1920×1080 con Gandalf, Gremlins y E.T. ([imagen](https://w.wallhaven.cc/full/4x/wallhaven-4xexlo.jpg)).
+
+**Fondos oficiales:** no hay un pack de fondos de DreamWorks en las partes. Lo más parecido son los renders panorámicos de la wiki de 4504×1914 (H1-5, H1-6) y 4170×2514 (H1-3, H1-4) ⚠️.
+
+## Punto 17 · Guía para generar con IA (imagen y texto)
+
+Hecha por el redactor con los datos de los puntos 1-16. Sirve para Firefly, Canva o cualquier IA de imagen, y para una IA de texto que escriba sus diálogos.
+
+### 17.1 IA de imagen
+
+**Lo que nunca cambia**
+- **Shrek:** ogro enorme y ancho (213 cm en su ficha ⚠️). Calvo. Orejas cortas en forma de tubo. Piel verde oliva **amarillenta** `#B8A933` con sombras `#7F7240`. Chaleco de cuero marrón muy oscuro `#392E20` sobre túnica beige `#C8C2AD`, cinturón, calzas ocres con vendas, botas oscuras. Sonrisa ancha (H1-2, H1-24).
+- **Burro:** burro gris con lomo `#917D6B`, hocico claro `#B6A18D`, crin y puntas de orejas negras `#40362E`, ojos marrones. **Sonrisa enorme de dientes grandes.** Sin ropa (H3-1).
+- **Fiona humana:** pelirroja con trenza (fina de gala, gruesa de guerrera), ojos azules. Vestido verde `#438D2E` con bordado dorado de enredadera y falda oscura `#1B2D18`. Tiara o corona dorada.
+- **Fiona ogra:** **el mismo vestido y el mismo pelo**, piel verde `#C6BE4D` / `#86844A`. Nunca cambiarle el vestido al transformarla.
+- **Gato con Botas:** gato atigrado naranja `#A1662A` con rayas marrón rojizo y crema `#E4AF57` en pecho, hocico y cejas. **Ojos verdes.** Sombrero negro de ala ancha con **pluma amarilla**, capa negra `#40332C`, botas negras `#0B0A09`, cinturón y espada fina (H3-5).
+
+**Estilo, luz y color**
+- **CG 3D semirrealista de cine**, estilo PDI/DreamWorks 2001-2010. **Sin contorno de tinta.** Sombreado suave, degradado, nunca plano.
+- **Piel con dispersión subsuperficial**: la luz atraviesa orejas y nariz a contraluz (punto 18).
+- **Luz que rebota**: las paredes verdes y la madera tiñen la piel (*bounce light*).
+- **Luz favorita:** atardecer cálido en el pantano (`#A07950`, `#E89F38`) o fuego de hoguera (`#5F483E`, `#BD9C83`). Para un sitio frío, Duloc: grises `#3F3D40` y cielo `#899FDE`.
+- Pelo y pelaje por **mechones finos**; telas con su brillo (satén en Fiona, lino áspero en Shrek).
+
+**Encuadres que salen en las películas** (de los fotogramas vistos, no de una entrevista)
+- **Miedo o amenaza**: primerísimo plano pegado a la cámara (Burro 35:03; Shrek (DM) 8:24).
+- **Conversación**: plano medio de dos (Shrek y Fiona 52:59).
+- **Viaje o épica**: plano general con figuras pequeñas al atardecer (tráiler 0:16; puente 30:03).
+- **Presentar el mundo**: la mano de Shrek sobre el libro llenando el cuadro (1:14).
+
+**Palabras que ayudan** (se pueden poner en inglés): `3D animated film still`, `DreamWorks style CGI`, `subsurface scattering skin`, `soft global illumination`, `warm sunset light`, `murky swamp`, `medieval fairy tale`, `wooden sign`, `parchment storybook`, `cinematic depth of field`. Para el Gato, las etiquetas de Danbooru del recolector: `orange_fur`, `green_eyes`, `cavalier_hat`, `hat_feather`, `black_cape`, `boots`, `holding_sword`. Para Fiona: `red_hair`, `braid`, `blue_eyes`, `green_dress`, `tiara`, `ogre`, `green_skin`.
+
+**Palabras que lo estropean:** `anime`, `manga`, `cel shading`, `lineart`, `outline`, `chibi`, `kawaii`, `flat colors`, `photorealistic` (demasiado real), `meme` o `Shrek Wazowski` (trae deformaciones de meme), `Disney princess` (la saga se burla de ese estilo). Si la IA no acepta el nombre del personaje, describir los rasgos de arriba.
+
+**Imágenes para darle como referencia**
+- Estilo general: H2-51 (grupo en el prado) y [Shrek_fierce.jpg](https://static.wikia.nocookie.net/shrek/images/8/87/Shrek_fierce.jpg).
+- Fiona: H1-1 ([patada](https://static.wikia.nocookie.net/shrek/images/5/51/Fiona_kick_alternate.jpg)), H1-26 (ogra), H1-31 (guerrera).
+- Burro y Gato: H3-1 y H3-5 (recortes sin fondo), H3-7 (guía con gestos).
+- Fondo: [pantano al atardecer](https://static.wikia.nocookie.net/shrek/images/b/b5/Shrek_wolf_swamp.jpg), [Duloc](https://static.wikia.nocookie.net/shrek/images/5/5f/Shrek_welcome_duloc_donkey.jpg), [palacio](https://static.wikia.nocookie.net/shrek/images/c/c5/Shrek_meets_Fiona%27s_parents_palace.jpg).
+- Poses: las del punto 14 según lo que diga el personaje.
+
+**Cómo se ven las emociones en Shrek** (no hay gotas de sudor, fondos de emoción ni *chibi*: es CG de cine)
+- **Burro:** orejas arriba = alegría (58:00); orejas caídas y mirada de reojo = sorpresa o timidez (37:57); pezuña en la boca = miedo (H3-4).
+- **Shrek:** ceño y dientes a la vista = enfado o acto de asustar ((DM) 8:24); cabeza atrás y boca abierta = risa (55:05).
+- **Fiona:** mano en el pecho y ojos cerrados = alegría, canto (49:56).
+- **Gato:** ojos enormes con pupilas dilatadas = súplica o manipulación (su «ataque» de ternura); espada en alto y cola erguida = reto (38:00).
+- **Jengi:** lágrimas de glaseado azul = miedo y pena ((DM) 13:24).
+- **Magia:** luz dorada que envuelve (1:19:50). **Peligro:** luz roja de fuego (30:03, 35:03).
+
+### 17.2 IA de texto: sus diálogos, en su voz
+
+**Cómo habla cada uno**
+- **Shrek:** frases cortas y **lentas**. Lógica aplastante con ejemplos caseros (la cebolla). Sarcasmo seco. Preguntas de maestro: «¿entiendes?». Grita poco, y cuando grita es una orden corta. Nada de palabras finas.
+- **Burro:** **atropellado.** Muchas exclamaciones y preguntas seguidas sin esperar respuesta. Repite palabras («Pregúntame, pregúntame»). **Diminutivos y modismos mexicanos** («pantitas», «cartitas», «animalitos de la creación», «solito», «tamales»). Onomatopeyas sueltas («¡bam!»). Se alaba solo y alaba a sus amigos.
+- **Fiona:** dos registros. Al principio, **castellano antiguo** de princesa («vos me habéis salvado»). Después, directa, segura, con humor.
+- **Gato con Botas:** teatral y caballeroso. Trata de «señor». Exagera la pena para salirse con la suya («¡Ay, mamá!», «¡Piedad!», «mi madre está enfermita»). Amenaza con un bufido: «HISSSS!» (guía oficial, H3-7). Acento español (Banderas), trato formal, aire de Zorro y de mosquetero.
+- **Jengi:** desafiante incluso torturado: se burla de Farquaad con «¿Tú conoces a Pin Pon?». Su muestra de audio está sin transcribir ⚠️.
+
+**Frases reales, ordenadas por emoción**
+- **Alegre** · Burro: «¡Qué increíble reacción en tal situación! ¡Fantástico! […] Pero llegaste así, ¡bam! ¡Pantitas para que las quiero!» ✅ (muestra de Doblaje Wiki)
+- **Enfadado** · Shrek: «¡Fuera de mi pantano!» ⚠️ (sin audio en las partes) · Gato, guía oficial en inglés: «Ha! Fear me… if you DARE! HISSSS!» ✅
+- **Explicando** · Shrek: «¡No! ¡Capas! Los ogros tenemos capas, las cebollas las tienen, ¿entiendes? Ambos tenemos capas.» ✅ · Fiona: «De día soy una, pero de noche otra.» ✅
+- **Animando** · Burro: «Pregúntame, pregúntame» ✅ · Burro cantando: «Al camino voy» ⚠️ · Jengi al final: «Les deseo suerte a todos» ⚠️
+- **Triste o suplicando** · Gato: «¡Ay, mamá! ¡No, por favor! ¡Piedad! ¡Oh, lo suplico!» ✅ (pena **fingida**) · Perrito: «Sólo he tenido una vida, pero compartirla contigo y con Kitty la hizo especial. Quizás… una vida… sea suficiente» ⚠️ (de su ficha; no se comprobó en el doblaje) · meme: «Porque 'toy solito» ⚠️
+- **Burla** · Jengi a Farquaad: «¿Tú conoces a Pin Pon?» ✅ (Doblaje Wiki)
+
+**Vocabulario de la saga** para que suene a Shrek: pantano, ogro, capas, cebolla, Muy Muy Lejano, Duloc, el Hada Madrina, «final feliz», el Espejo Mágico, el beso de amor verdadero, «Había una vez…», Dronkeys.
+
+**Cuidado:** no copiar frases del doblaje de España; no poner a Burro a hablar despacio ni a Shrek a hablar rápido; no hacer al Gato sólo gracioso si el tema es serio (punto 12).
+
+## Punto 18 · Estilo y técnica: cómo replicarlo
+
+**Lo primero:** Shrek es **CG semirrealista, no toon-shading**. No lleva contorno de tinta. Eso cambia la receta de Photoshop y Blender frente a las biblias de anime.
+
+**Cómo se hizo** (parte de texto)
+- **Estudio:** PDI (Pacific Data Images), dentro de DreamWorks Animation. Software **propio** más **Maya** para la ropa simulada y, en *Shrek*, el pelo de Fiona y de Farquaad ✅ ([Linux Journal](https://www.linuxjournal.com/article/9653) + [AWN](https://www.awn.com/animationworld/whats-new-shrek-2)).
+- **Piel con dispersión subsuperficial (SSS):** Juan Buhler, de PDI, hizo un *shader* SSS más rápido, presentado en SIGGRAPH y usado en *Shrek 2*. Suaviza nariz y orejas para que la luz las atraviese a contraluz ✅.
+- **Luz que rebota:** el 80% de los planos de *Shrek 2* usa iluminación global. Ken Bielenberg, supervisor de efectos: *«If light bounces off a yellow wall, it bounces back yellow»* ✅ (AWN).
+- **Pelo y tela:** *shader* de pelo más fino en *Shrek 2* (interpola entre mechones vecinos); tela ajustable a algodón, satén o seda según los hilos ✅.
+- **Fluidos:** el sistema de *Antz* (1998), con Óscar técnico para Nick Foster: fuego, agua, salpicaduras ✅.
+- **Render:** unos 5 millones de horas de CPU para *Shrek* en granjas Linux ⚠️ (una fuente).
+- **Del sombreado, medido:** en el pantano (2:20) el color es **degradado pintado, no plano** ✅ (`estilo.py`).
+
+**Cómo reproducirlo en Blender**
+- **Piel:** Principled BSDF con **Subsurface** subido y radio cálido (rojo y naranja). Que se note en orejas y nariz a contraluz.
+- **Luz:** **Cycles**, no Eevee plano. Paredes de color saturado (verde del pantano, madera) para que tiñan la piel por rebote.
+- **Ropa:** *Cloth simulation*. Rugosidad por prenda: vestido de Fiona en satén con rugosidad baja y brillo; túnica de Shrek en lino con rugosidad alta.
+- **Pelo:** *Hair Curves* con *clumping* e interpolación (orejas de Burro, trenza de Fiona, pelaje del Gato).
+- **Barro y agua:** Mantaflow.
+- **Contorno:** **no usar** Line Art, Freestyle ni Solidify. Sólo para imitar los cómics oficiales o el libro de Steig, que sí llevan tinta.
+- **Modelos:** los de Sketchfab del punto 3 (CC BY, citando al que los subió). El «Shrek Walk Cycle» ya viene animado.
+- **Texturas encima:** ambientCG CC0 (punto 4).
+
+**Cómo reproducirlo en Photoshop**
+- Para lo que es 2D «de cuento» (la página del libro, la cabecera del periódico): pinceles de **acuarela y textura de papel** sobre una capa de pergamino (Paper001), no pincel de tinta dura.
+- Para un cartel tipo póster o el letrero: degradados más un **grano fotográfico ligero**, que imita lo impreso y la madera pintada.
+- Recortes de personajes: por `v3/integrar.py` (regla 3 del dueño), sin halo.
+
+**Encuadres y composición**
+- Responsable de *layout* de *Shrek*: **Simon J. Smith**, que montó el departamento de Layout y Previz de PDI ✅.
+- El director **Andrew Adamson**: la meta era «deconstruir la idea de cuento de hadas y reconstruirla como uno nuevo»; *Shrek* se hizo «como en el garaje de DreamWorks», un proyecto experimental ✅. Eso explica el tono irreverente.
+- **No encontré una entrevista que diga qué plano se usa para cada emoción** ❌. Lo que sí se ve en los fotogramas está en 17.1 (primerísimo plano para el miedo, plano general al atardecer para el viaje).
+
+## Punto 19 · Texturas 2D
+
+Shrek es 3D, no manga: no hay tramas. Aquí «textura 2D» son **las superficies pintadas del mundo**: pergamino, bordados, emblemas, letreros.
+
+- **Las páginas del libro de cuentos.** Pintadas a mano como manuscrito iluminado, capitular decorada, ilustraciones de cuento clásico distintas del render 3D. Vistas en el fotograma de 0:58 ✅. La parte de imagen cita además páginas sueltas (n.º 174 y 193-195 de hojas automáticas que ya no están) ⚠️. **Equivalente libre:** papel con grano [Paper001](https://ambientcg.com/a/Paper001) (y Paper003, 005, 006), CC0.
+- **El bordado dorado del vestido de Fiona.** Enredaderas y hojas doradas sobre el verde del corpiño (H1-1). **No encontré** un pack de pinceles CC0 de bordado medieval: sólo de pago en Etsy y Creative Market ⚠️. Alternativa: dibujarlo a mano con un pincel de grabado; es un motivo simple que se repite.
+- **El cuero del chaleco de Shrek.** Cuero gastado de grano irregular. **Equivalente:** [Leather037](https://ambientcg.com/a/Leather037), CC0 ✅.
+- **La pintura del letrero de madera.** Rojo goteante sobre tabla («BEWARE — OGRE», punto 6). Base: [Wood095](https://ambientcg.com/view?id=Wood095); la pintura, a mano.
+- **El papel del cartel de «WANTED»** de Fiona (H2-75) y el **pergamino con rodillos** del *Far Far Away Times* (punto 6): Paper001 más bordes quemados a mano.
+- **La corona del rey de Muy Muy Lejano**, con ficha propia: [726×726](https://static.wikia.nocookie.net/shrek/images/3/3d/Crown_of_the_King_of_Far_Far_Away.jpeg) ✅.
+- **El logo de Duloc.** Las torres repetidas del arco y las banderas **no tienen ficha de imagen propia** en la wiki (búsquedas «Duloc logo», «Duloc flag», «Duloc coat of arms» con `srwhat=text`) ⚠️. Lo más cercano: los fotogramas de la ciudad (H1-47, 21:00).
+- **El logo «SHREK»** (letras verdes con textura de piel de ogro): ver punto 5.
+- **Pinceladas y tramas del estudio:** no hay artbook que hable de ellas. Era de esperar: la película es 3D con software propio; sólo el libro de apertura es pintura 2D. **No aplica igual** que en anime.
+
+**Las tres capas, juntas:** 3D (modelos del punto 3) + texturas reales CC0 (punto 4) + estas superficies pintadas. No falta ninguna.
+
+## Punto 20 · Gustos y detalles
+
+No hay *databook* oficial de Shrek en las partes (se buscó) ⚠️. Todo sale de las fichas de [Fandom en inglés](https://shrek.fandom.com/wiki/Shrek_(character)) (infobox y cuerpo) y del guion.
+
+| | Shrek | Burro | Fiona | Gato con Botas |
+|---|---|---|---|---|
+| **Cumpleaños** | 5 de abril ⚠️ | 6 de marzo ⚠️ | no encontrado | no encontrado |
+| **Altura / edad** | 213 cm (7'0"); 30 años en la 1, 40 en la 2 ⚠️ | no encontrada | no encontrada | no encontrada |
+| **Le gusta** | Baños de lodo, la soledad, comer cosas asquerosas (gusanos, ojos de rana) | Cantar, charlar, hacer amigos a toda costa | **Las piñas coladas y que la sorprenda la lluvia** (lo dice el Espejo Mágico al presentarla). Eructar sin pena, pelear cuerpo a cuerpo | La aventura, contar historias, cantar, bailar, la guitarra; en 2022, comer sin parar tras dejar de ser héroe |
+| **No le gusta** | Que lo juzguen por su aspecto; que invadan su pantano | El silencio, las alturas, estar solo | Que la traten como princesa indefensa o como trofeo | Que le recuerden que le queda 1 vida de 9; sentirse «ordinario» |
+| **Su objeto** | Su pantano y su cabaña | Ninguno: sus muletillas | Su corona o tiara; la ropa de viaje | Sombrero, botas y espada (los pierde y los recupera en 2011) |
+| **Cómo se ve** | Al principio, «un monstruo que asusta porque así debe ser»; al final, padre y esposo | «El mejor amigo» de quien se cruce, aunque no le correspondan | Al final, una ogra de verdad, por elección | Al principio, una leyenda viva; al final, «sólo el Gato con Botas», y le basta |
+| **Familia** | Fiona; trillizos Fergus, Farkle y Felicia | La Dragona; 6 Dronkeys: Eclair, Peanut, Bananas, Parfait, Coco y Debbie (nombres de postre) | Shrek; sus padres Harold y Lillian | Kitty; Humpty Dumpty (hermano jurado que lo traiciona); los Tres Diablos (adoptados al final de 2022) |
+
+**Secundarios**
+- **Lord Farquaad:** le gusta el orden, la perfección de Duloc y las estatuas de sí mismo. Odia su estatura (sin admitirlo) y a las criaturas de cuento. Se cree «el único capaz de gobernar bien».
+- **Jengi:** hecho por el Hombre de las Galletas («papá»), hermano de Mongo (la galleta gigante). Quiere ser vaquero. Odia que lo mojen en leche.
+- **Dragona:** su castillo y, desde que lo conoce, Burro. Se ve como guardiana; luego como esposa y madre.
+
+**Falta** ⚠️: altura y cumpleaños de Fiona, el Gato y Farquaad (búsqueda «Fiona Shrek altura cumpleaños oficial ficha», sin resultado). La comida favorita de cada uno, salvo las piñas coladas de Fiona.
+
+## Punto 21 · Por qué la aman
+
+**Cifras y premios** ✅ (varias fuentes de prensa)
+- ***Shrek* (2001):** unos 494 millones de dólares, 4.ª más taquillera de 2001. **Primer Óscar a Mejor Película de Animación de la historia** (la categoría nació ese año). Primera animada de estudio en la Selección Oficial de Cannes (palomaynacho.com, socialfuturo.com, excelsior.com.mx).
+- ***Shrek 2* (2004):** **la película más taquillera del mundo en 2004** (unos 919-920 millones), el mayor estreno de una animada hasta entonces y la más taquillera de DreamWorks hasta que la superó *Toy Story 3* (infobae.com, cronista.com, lanueva.com).
+- ***El último deseo* (2022):** **la mejor valorada de la franquicia** en [Rotten Tomatoes](https://www.rottentomatoes.com/m/puss_in_boots_the_last_wish), 97-98% según la fecha ⚠️. Unos 484 millones con 90-110 de presupuesto. Reseñas la llaman «el *Logan* de la saga Shrek» (screenrant.com, comicbook.com).
+
+**Por qué la ama la crítica: Fiona** ✅ (sipse.com, plenitudmental.com, univa.mx)
+- Un icono feminista temprano de la animación de masas: sabe pelear, no espera que la rescaten y **elige quedarse ogra** en vez de «curarse». Da la vuelta al final de cuento.
+- Su maldición se lee como metáfora de **las máscaras** y de los cánones de belleza.
+
+**Con quién se identifica el público**
+- En las clásicas, con **Shrek**, de forma general: «no juzgues por las apariencias».
+- En *El último deseo*, con **el Gato**, en primera persona: «me pasó igual», «así se siente de verdad».
+
+### Las escenas que hacen llorar
+
+**1. El ataque de pánico del Gato** (*El último deseo*, 2022) ✅✅ la razón más citada hoy
+- **Minuto:** según fans de Reddit, la aparición de la Muerte hacia **55:17** y la huida por el bosque de **56:11 a 58:37**; otro fan pone el ataque en **~1:02:32** ([hilo](https://www.reddit.com/r/pussinboots/comments/1es8i42/)) ⚠️ sin fotograma propio; los cortes pueden variar.
+- **Qué pasa:** huyendo de un lobo encapuchado (la Muerte), el Gato entiende que sólo le queda una vida. Tiembla, hiperventila, se desconecta. **Perrito lo calma con presión profunda**, apoyando la cabeza en él.
+- **Por qué duele:** el héroe que «se ríe en la cara de la muerte» tiene miedo de verdad, y la película no lo convierte en chiste.
+- **Cómo está hecha:** el animador **Prashanth Cavale se grabó a sí mismo** para añadir temblores y tics reales. El cuerpo del Gato cambia por completo: se encoge.
+- **Música:** no está en las partes ⚠️.
+- **Reacción:** 9 artículos independientes la elogian como una de las representaciones de un ataque de pánico más precisas del cine familiar ([MovieWeb](https://movieweb.com/puss-in-boots-panic-attack-scene-realistic/), thedigitalfix, ucsdguardian, animatornotebook, sixmilepost, mcccagora, sceneandheardnu). En r/pussinboots: [«What would kitty do if she found puss having his panic attack?»](https://www.reddit.com/r/pussinboots/comments/16t829t/what_would_kitty_do_if_she_found_puss_having_his/) (415 votos, 55 comentarios), «Thoughts on the panic attack scene» (41) y [«27M in the veterinary field and cried uncontrollably»](https://www.reddit.com/r/pussinboots/comments/11ofkpx/27m_in_the_veterinary_field_and_cried/) (17), de alguien del área de la salud que valida el realismo.
+
+**2. «Hallelujah»** (*Shrek*, 2001) ✅
+- **Qué pasa:** Shrek, dolido, deja a Burro y vuelve solo al pantano; Fiona, igual de triste, se prepara para casarse con Farquaad.
+- **Música:** «Hallelujah» en la versión de **John Cale** (punto 9).
+- **Minuto:** no está en las partes ⚠️. Es antes de la boda (1:16:56).
+
+**3. La frase de Perrito** (*El último deseo*): «una vida… sea suficiente». Los mismos hilos de Reddit lo señalan como el que hace llorar de ternura ⚠️ (texto de su ficha).
+
+**4. La transformación en la boda** (*Shrek*) ✅
+- **1:19:50:** Shrek extiende las manos hacia la luz dorada del hechizo. **1:20:57:** beso ya ogros, luz azul de vitral detrás.
+- **Por qué emociona:** Fiona se queda ogra, y es un final feliz.
+- **Reacción:** «Will there ever be a more iconic ending to a movie than this one?» (117 votos, r/Shrek).
+
+### Las que hacen reír
+- El **pajarito que estalla** cuando Fiona canta (49:56).
+- **La cebolla** (Shrek y Burro).
+- **Jengi y «Pin Pon»** en la sala de tortura (17:56).
+- **Burro y la Dragona** (37:57).
+- **«I'm a Believer»** para terminar «con una carcajada», como pidió Katzenberg.
+
+**Lo que falta** ⚠️: un testimonio con nombre y cargo de por qué la gente ama *Shrek* (2001) en concreto; el minuto propio de las escenas de *El último deseo*.
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+**Aviso de método.** YouTube pidió iniciar sesión («Sign in to confirm you're not a bot») y dio 429; TikTok no abre desde el servidor. Se usó Dailymotion por su API y el buscador. **Casi no hay vistas comprobadas** ⚠️.
+
+- **«Bienvenidos A Duloc - Shrek El Musical»**, canal **Teatro Catalina** (Chinandega, Nicaragua), 4:26, **12 311 vistas**, subido el 28-sep-2021: el número musical más citado, en español y en vivo ✅ (metadatos con `yt-dlp --print`) · [youtube.com/watch?v=tVSNUNHA4q8](https://www.youtube.com/watch?v=tVSNUNHA4q8). El fandom hispano no sólo dobla: monta el musical en teatros locales.
+- **Covers en español:** «All Star - Shrek (Cover en Español Latino)» y «Shrek 1- Bienvenidos a Duloc» aparecen en el buscador con esos títulos exactos; **sin canal ni vistas comprobadas** ⚠️.
+- **El musical en México:** Mario Filio, el Espejo Mágico del doblaje, fue **Shrek en el musical de 2014** (Doblaje Wiki) ⚠️.
+- **Especial de Halloween en latino:** «"Shrek" Special De Halloween "Español Latino" (THRILLER) HD», 5:06, 1167 vistas ([Dailymotion](https://www.dailymotion.com/video/x2xbz48)) ⚠️ no mirado.
+- **Memes hispanos del doblaje** (punto 12): «Pregúntame, pregúntame», «Agarro el mínimo de confianza y soy el burro de Shrek», «Porque 'toy solito». Son el «Shrek is love» en español, hechos con las muletillas de Derbez.
+- **La conversación de doblaje de ahora:** la salida de Alfonso Obregón de *Shrek 5* generó reacciones masivas de aficionados al doblaje mexicano en Instagram y redes (Infobae, Milenio, El Gráfico, jun-2026). Justo el tipo de charla de un servidor de doblaje.
+- **Tráileres doblados** en Dailymotion (latino y España) y notas de Reporte Indigo y Milenio sobre Obregón y Derbez (punto 8): material de referencia, no fandub.
+
+**Para practicar en el servidor** (idea del redactor): la escena de la cebolla es corta, para dos voces y con la muestra oficial como guía de ritmo (Shrek a 1,71 palabras/s, Burro a 3,0). Encaja con el concepto A.
+
+**Falta** ⚠️: vistas y canal de los covers; fandubs de TikTok con enlace; covers en español de «All Star» o de «Accidentally in Love» con datos.
+
+## Punto 23 · Colaboraciones y cruces
+
+**Oficiales, con fecha** ✅
+
+| Colaboración | Cuándo | Qué trae de nuevo | Fuente |
+|---|---|---|---|
+| **Crocs × Shrek** («Shrocs») | Sep-2023; repuesto en feb-2025 | Zueco verde lima con nariz y orejas de Shrek, correa trasera «peluda» marrón (el chaleco), Jibbitz de Shrek, Fiona, Burro, el Gato y la Dragona | [CNN](https://www.cnn.com/2023/09/17/style/shrek-crocs-collaboration-cec/index.html) + [Hollywood Reporter](https://www.hollywoodreporter.com/lifestyle/shopping/shrek-crocs-classic-clogs-release-date-pricing-1235588846/) |
+| **McFarlane Toys, «Movie Maniacs» de 12"** | 2024 (el trato con DreamWorks es de 2001) | Shrek y la Dragona en pose de escultor: **referencia 3D real** | [Collider](https://collider.com/shrek-dragon-figures-mcfarlane-toys/) ⚠️ una fuente |
+| **DreamWorks Land** (Universal Orlando) | 14-jun-2024 | Zona con el pantano de Shrek, «Shrekzels», encuentro con Shrek, Fiona y Burro, «King Harold's Swamp Symphony» | [blooloop](https://blooloop.com/theme-park/news/universal-orlando-dreamworks-land-open/) ⚠️ una fuente · foto del encuentro en H2-91 |
+| **«Shrek & Fiona's Happily Ogre After»** (Universal Kids Resort, Texas) | 1-jul-2026 | Primera atracción de paseo de Shrek en EE. UU.: carruajes al aire libre con **viñetas «de madera»** de escenas | [Attractions Magazine](https://attractionsmagazine.com/shrek-ride-fionas-happily-ogre-after-universal-kids-2026/) ⚠️ una fuente |
+| **Shrek the Musical** (Broadway, West End, giras desde 2008) | Activo | Vestuario y decorados teatrales, distintos del 3D. Fotos CC BY 2.0 del Theatre Royal Drury Lane (Londres) | [Openverse](https://openverse.org) · [foto](https://live.staticflickr.com/7009/6447466563_243901daed_b.jpg) |
+| **DLC de *PowerWash Simulator*** | 10-oct-2024 | Casa y letrero del pantano en 3D (punto 11) | [Steam](https://store.steampowered.com/app/2983890) ✅ |
+
+**Figuras y modelos como referencia 3D.** Los Sketchfab del punto 3 salen de juegos con licencia (*Pocket Shrek*, *All-Star Kart Racing*, *SuperSlam*): hay modelos con *rig* sacados de productos oficiales.
+
+**Lo que NO es colaboración oficial** (no inventar)
+- **Fortnite:** no encontré colaboración oficial. Circulan capturas «filtradas» en TikTok, pero Epic no lo confirmó ([TechWiser](https://techwiser.com/fortnite-shrek-collab-skins/) + [esports.gg](https://esports.gg/news/fortnite/is-shrek-in-fortnite-here-is-what-we-know/)) ⚠️. **No usar en láminas.**
+- **Vans:** no encontré nada oficial, sólo zapatillas pintadas por fans ⚠️.
+- **Shrek Rave:** de promotores independientes, no de DreamWorks (salvo una vez en 2022) ([Vice](https://www.vice.com/en/article/shrek-rave-uk-photos/)) ✅.
+
+**Cruces de fans:** el póster-fusión de SiIvaGunner (punto 3), fondos de pantalla con Mario, Thanos o Gandalf (punto 16) y el modelo «Shrek Wazowski» (punto 3).
+
+**Cosplay:** no encontré una foto de cosplay con autor verificable; sólo tiendas de disfraces y Pinterest sin crédito ⚠️. Hay fotos con licencia libre en Openverse de disfraces y figuras, sin autor de cosplay: p. ej. [«Hello I'm Fiona»](https://live.staticflickr.com/2463/3618155269_7c8d848151_b.jpg) (CC BY-NC-SA) y la [figura de cera](https://live.staticflickr.com/4121/4800640370_f13f385bf3_b.jpg) (CC BY-NC-ND).
+
+## Punto 24 · Obras parecidas
+
+- **Mismo estudio, mismo humor:** *Kung Fu Panda* (DreamWorks; encargo 61 de esta biblioteca): chiste físico, guiños para adultos, protagonista grandote e inseguro con un mentor o compañero. También *Madagascar* (2005) y *Flushed Away* (2006) ⚠️ (una fuente agregadora).
+- **Cuentos de hadas «rotos» o parodiados:** *La princesa prometida* (1987), *Hook* (1991) y *Las aventuras del barón Munchausen* (1988) ⚠️ (una lista de ScreenRant).
+- **Su propio universo:** el spin-off del Gato (2011, 2022) y la serie *Las aventuras del Gato con Botas* (2015-2018, no canónica), más de aventura que de parodia ✅.
+- **De dónde sale el tono** ✅ (dos referencias): **Farquaad parodia a Michael Eisner**, entonces jefe de Disney, que había frenado a Jeffrey Katzenberg, cofundador de DreamWorks. **Duloc se parece a Disneylandia** a propósito (torniquetes, tienda de recuerdos, muñecos que cantan). Toda la saga es una pulla a Disney.
+- **Influencia que reconoce el director:** Andrew Adamson quería «deconstruir el cuento de hadas y reconstruirlo como uno nuevo» (punto 18).
+
+**Láminas del servidor que se le parecen** (para no repetir ideas)
+- La «biblioteca sin canal»: **Coco** (57), **Encanto** (58), *Toy Story* (60), *Kung Fu Panda* (61) e *Intensamente* (62). Ninguna es parodia de cuentos; el choque de tono es bajo.
+- **Riesgo de repetir:** Coco usa como concepto 1 **un atado de cartas** («La carta de Recuérdame»). El concepto A de Shrek usa **un libro de cuentos**. No es lo mismo (libro narrado con capitular frente a cartas manuscritas), pero conviene que se vea claramente **libro de cuento medieval**, no «papel con carta» ⚠️.
+- El **periódico** del concepto C y el **letrero** del concepto B no se parecen a nada de las biblias vecinas que miré.
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**El mundo en cinco líneas** (parte de texto)
+1. Un reino de cuento donde conviven **todos** los personajes clásicos a la vez: Blancanieves, los tres cerditos, Pinocho, Caperucita, el Hada Madrina…
+2. Dos polos: el **pantano** de Shrek (naturaleza, aislamiento, feo por fuera) y **Muy Muy Lejano**, la capital, parodia de Beverly Hills.
+3. Las criaturas de cuento son una **clase discriminada**: desterradas al pantano hasta que Shrek negocia su vuelta.
+4. La magia es real pero **burocrática**: pociones de «final feliz» que se fabrican y se venden (la fábrica del Hada Madrina).
+5. El humor nace del choque entre lo medieval y lo moderno: Duloc con torniquetes, telerrealidad, famosos.
+
+**La historia por arcos** ✅ ([Shrek (franchise)](https://shrek.fandom.com/wiki/Shrek_(franchise)))
+1. ***Shrek* (2001):** rescata a Fiona para Farquaad → se enamoran → ella rompe la maldición quedándose ogra → boda en el pantano. **Momentos clave:** el libro (0:58), la cebolla, la dragona (37:57), el pajarito (49:56), la boda y la transformación (1:16:56-1:20:57).
+2. ***Shrek 2* (2004):** visitan a los padres de Fiona en Muy Muy Lejano → el Hada Madrina y el Príncipe Encantador intentan separarlos → se quedan juntos y ogros por decisión propia. **Clave:** llega el Gato (37:27).
+3. ***Shrek tercero* (2007):** Shrek hereda el trono a la fuerza → busca a Arturo (Artie) para que reine → Fiona está embarazada → nacen los trillizos.
+4. ***Shrek para siempre* (2010):** Shrek, «domesticado», firma con Rumpelstiltskin y despierta en un Muy Muy Lejano donde nunca nació → debe reconquistar a Fiona en 24 horas.
+5. **Especiales:** *Shrek the Halls* (Navidad, 2007), *Scared Shrekless* y *Donkey's Christmas Shrektacular* (2010), *Thriller Night* y *The Pig Who Cried Werewolf* (2011).
+6. **El Gato:** *Gato con botas* (2011, precuela) → *El último deseo* (2022, después de *Shrek para siempre*) → corto *The Trident* (2023).
+7. **Lo que viene:** ***Shrek 5*** (30-jun-2027 según la wiki; verano de 2027 según Movie Insider) con Myers, Murphy, Diaz y **Zendaya como Felicia**, la hija; la familia va a la ciudad de **Further Further Away** con los trillizos ya crecidos ⚠️. Un **spin-off de Burro** para 2028 ⚠️ (una fuente wiki).
+
+**Símbolos y objetos que un fan reconoce al instante**
+- **La cebolla y las capas.** La metáfora que define a Shrek, dicha en un campo de verduras camino del castillo. En la boda, una cebolla se convierte en **el carruaje de los novios** (H2-61) ✅ (página «Onions» de la wiki).
+- **El libro de cuentos** que abre y cierra las películas y los capítulos del juego: el narrador oficial del universo.
+- **Duloc:** ciudad perfecta y uniforme, castillo, muñecos que cantan *Welcome to Duloc* ✅.
+- **El *Far Far Away Times*:** el periódico del reino ✅.
+- **La fábrica del Hada Madrina** (pociones en serie) y **el Espejo Mágico**, que funciona como una tele o una agencia de citas: la magia es negocio.
+- **El zapato de cristal, la torre con dragona y el pantano:** «lo que se espera de un cuento» contra «lo que Shrek hace con ello».
+- **La poción de amor marcada «IX»** del Hada Madrina: los fans discuten por qué lleva ese número (807 votos en r/Shrek) ⚠️.
+- **El cartel de «WANTED»** de Fiona en *Shrek para siempre* (H2-75).
+
+**Vocabulario propio:** ogro, pantano, capas, Muy Muy Lejano, Duloc, Dronkeys, el beso de amor verdadero, «Había una vez…», «final feliz», Príncipe Encantador (en la 1, Príncipe Azul).
+
+## 3 conceptos de lámina
+
+Tres ideas distintas: un **libro**, un **letrero** y un **periódico**, en tres sitios distintos (pantano al atardecer, entrada del pantano, palacio de noche) y con tres personajes al frente (Shrek con Burro, Burro solo, el Gato). Los textos del canal son los reales del inventario. Las frases de los personajes son **propuestas en su voz**, no citas; las citas reales están en el punto 17.2.
+
+### Concepto A · #📖・textos — «La página del cuento» ⭐ recomendado
+
+- **Por qué este.** Cada película empieza leyendo un libro en voz alta (0:58). El canal es de **guiones para practicar**, y la escena más famosa de Shrek (la cebolla) es un diálogo para dos voces. Es el que mejor junta la serie y el oficio del servidor.
+- **El sitio real:** el pantano de Shrek **al atardecer**, junto a la puerta de la letrina con su letrero «Home Sweet Home» (tráiler, 1:28). Paleta `#A07950`, `#E89F38`, `#705E4F`, con árboles en silueta `#232323`. Referencia: [Shrek_wolf_swamp.jpg](https://static.wikia.nocookie.net/shrek/images/b/b5/Shrek_wolf_swamp.jpg) y H1-45.
+- **El objeto real (Blender):** **el libro de cuentos abierto**, tapa de cuero gastado (Leather037) y páginas de pergamino con grano (Paper001). Las páginas se curvan hacia el lomo y **la tinta sigue la curva** (regla 1). Capitular iluminada en dorado y rojo, como la del fotograma de 0:58.
+- **Los personajes:**
+  - **Shrek**, sentado en un tocón, sujeta el libro abierto hacia el lector con las dos manos; brazos enteros a la vista (regla 7). Cara de maestro paciente, a media sonrisa: pose de «explicar» (43:54) con la ropa y la escala de H1-24.
+  - **Burro**, pegado a su hombro, **demasiado cerca** (su gesto cuando quiere atención), boca abierta a punto de hablar: pose de 52:59 y H3-1.
+- **Cómo hablan:** no hay globo. **El texto es la página del libro**, en **Bouwsma Uncial** color sepia, con capitular grande. El título va en la tapa, en la letra **«Shrek»** de Kevin Wilson, verde con borde oscuro.
+- **Dónde va cada texto:**
+  - **Tapa o cabecera de página:** «Textos».
+  - **Página izquierda, con capitular:** «Había una vez guiones para practicar: monólogos, diálogos, escenas y narraciones.»
+  - **Página derecha, arriba:** «Un hilo por guion.»
+  - **Página derecha, abajo:** «Di si se puede usar libre o hay que pedir permiso.»
+  - **Shrek (pie de página, en su voz, propuesta):** «Los guiones son como las cebollas. Tienen capas.»
+  - **Burro (un papelito metido entre las páginas, propuesta):** «Pregúntame, pregúntame. Yo hago la otra voz.»
+  - **Etiquetas:** nueve **cintas de marcapáginas** de tela que cuelgan del lomo, cada una con su nombre: Monólogo, Diálogo, Escena de anime, Comercial, Narración, Original, Libre para usar, Pide crédito, Para dos voces.
+- **Que no quede plano:** contraluz de atardecer que **atraviesa las orejas de Shrek** (el SSS del punto 18); **musgo colgante** desenfocado delante (Moss002); barro brillante en el suelo; la letrina desenfocada detrás. Burro corta el borde del cuadro y da profundidad.
+- **Lámina 2 si se satura:** el libro abierto por otra página, con las nueve etiquetas explicadas una por línea (qué es un monólogo, qué es «Pide crédito»…).
+- **Choque:** #textos también lo propone Death Note (18). No bloquea.
+
+### Concepto B · #😂・memes — «El letrero del pantano»
+
+- **El sitio real:** la entrada del pantano de día, sombra verde bajo los árboles (2:20: `#242D23`, `#303B2D`, acento `#A8B23A`), cerca de madera vieja (Wood095).
+- **El objeto real (Blender):** **un letrero de tabla clavado en un poste**, pintado a mano con **rojo goteante** y la cara de Shrek, como el «BEWARE — OGRE» de la [captura oficial de Steam](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983890/ss_566e139d1b62a989c1434dee30932bf5df3b619b.1920x1080.jpg). Pintura con relieve y goterones; vetas y clavos reales. Debajo, **una flecha de madera** que señala hacia fuera.
+- **El personaje:** **Burro**, el más querido en la lista hispana y el rey de los memes en español. Cuerpo entero, sonrisa enorme, **una pata delantera apoyada en el poste** (regla 7) y la otra señalando el letrero: H3-1 con el gesto de «animar» de 52:59. Al fondo, desenfocado, Shrek con el ceño fruncido en la puerta de la cabaña ((DM) 8:24): el chiste de siempre, Burro invadiendo su pantano.
+- **Cómo habla:** el letrero es el cuadro. Letra **Butcherman** roja goteante. **Butcherman no trae ¿**: ninguna frase empieza con pregunta.
+- **Dónde va cada texto:**
+  - **Letrero, arriba:** «Memes».
+  - **Letrero, abajo:** «El meme, sin más.»
+  - **Flecha de madera:** «Si lo doblas, a fandub-de-memes.» ⚠️ **Confirmar que ese canal existe**: no está en el inventario del 23-sep.
+  - **Burro (tablilla pequeña colgada del poste, propuesta):** «Agarré el mínimo de confianza y aquí ando.» (guiño al meme hispano del punto 12).
+- **Que no quede plano:** la flecha en primer plano, girada hacia la cámara; un charco de lodo que refleja el letrero; luz filtrada entre las hojas con manchas de sol sobre Burro; Shrek pequeño y borroso detrás.
+
+### Concepto C · #🍿・noticias-series — «El *Far Far Away Times*»
+
+- **El sitio real:** el palacio de Muy Muy Lejano **de noche, en fiesta**, con faroles: `#19140C`, `#523A26` y dorado `#9E662F` (*Shrek 2*, 1:21:43). Alfombra y estandartes rojos `#992D29` (H2-65).
+- **El objeto real (Blender):** **el periódico-pergamino con dos rodillos de madera**, desenrollado sobre una mesa del palacio, como el [*Far Far Away Times*](https://static.wikia.nocookie.net/shrek/images/1/15/Bandicam_2015-03-14_18-47-25-339.jpg). El papel se enrolla solo en los extremos.
+- **El personaje:** **el Gato con Botas**, el que cuenta historias. De pie sobre la mesa, **una bota sobre el rodillo** (regla 7), la otra pata con la **espada tocando el titular** como puntero: pose de esgrima de H3-5 y reverencia de 37:27. Cara de galán que presume.
+- **Cómo habla:** es un periódico. Cabecera en **UnifrakturMaguntia**; titular en mayúsculas gruesas de tabloide (no hay letra libre identificada para el titular: usar la cabecera o una serif gruesa del sistema ⚠️); cuerpo en columnas.
+- **Dónde va cada texto:**
+  - **Cabecera:** «Noticias de series».
+  - **Titular:** «Estrenos, temporadas y doblajes.»
+  - **Columna:** «Series y cine.»
+  - **Recuadro abajo, con una flecha:** «Para comentar, abre un hilo.»
+  - **El Gato (nota firmada al pie, propuesta):** «Palabra de caballero, señor.»
+- **Que no quede plano:** faroles dorados como luces puntuales; la capa del Gato delante del papel; el rodillo en primer plano desenfocado; el salón y la fiesta detrás con profundidad de campo.
+- **No poner en la lámina fija** la noticia de Obregón y *Shrek 5*: caduca y es delicada. Sirve para un evento o un aviso aparte.
+
+## Lo que no pude verificar y lo que corregí de las partes
+
+### Correcciones entre partes (lo que el redactor cambió o avisa)
+1. **Numeración de las hojas.** La parte de imagen cita en `personajes_02.jpg` los n.º 64, 65, 174, 193-195 y 197-198. **Esa hoja va del 49 al 96**: las guías oficiales son H2-49, H2-50, **H2-54** y **H2-55**. El libro de cuentos (174, 193-195) y los *stills* de *Shrek 5* (197-198) estaban en hojas automáticas de `herramientas/referencias/shrek/`, que **ya no están en el contenedor** ⚠️.
+2. **H2-63 no es el libro de cuentos.** `New_theatrical_opening_of_Dreamworks.jpg` (2880×1609) es el logo de DreamWorks, el niño que pesca en la luna, con Shrek, Fiona y Burro en la colina. `imagen.json` lo describía como página del libro; en `referencias.json` va corregido. El libro de verdad es el fotograma de 0:58.
+3. **Dos copias de *Shrek* con relojes distintos.** Vídeo usó Archive (90:04); voz usó Dailymotion (66:03, más corta). Ejemplo: la transformación es 1:19:50 en una y (DM) 1:02:00 en la otra. En esta biblia, los de Dailymotion llevan **(DM)**.
+4. **La patada de Fiona a los hombres de Robin Hood, «~21:54-22:56».** En esa misma copia, a 21:00 está el torneo de Duloc y Fiona aún no ha salido (el puente a la dragona es 30:03). **Ese minuto no cuadra** ⚠️. Para la pose, usar el render H1-1.
+5. **La cebolla «en la fogata, 43:54».** La parte de vídeo pone ahí «los ogros son como las cebollas», pero la de texto (página «Onions» de la wiki) dice que se dice **en un campo de verduras, camino del castillo**, y el render H1-44 es de día. La fogata de 43:54 es una escena de noche junto al fuego; **qué se dice en ella no está confirmado** ⚠️.
+6. **Fortnite y Vans.** La parte de imagen escribió «confirmé que no existen». Por la regla del encargo, aquí va como «**no encontré** colaboración oficial; dos fuentes la tratan como rumor».
+7. **¿Vuelven Derbez y Dulce Guerrero en *Shrek 5*?** La parte de voz dice que sí. Un vídeo de Milenio en `datos-voz.md` se titula «Eugenio Derbez revela que su doblaje latino de *Shrek 5* podría no ser una realidad», sin fecha vista ⚠️. **Comprobar.**
+8. **Fecha del teaser de *Shrek 5*.** Imagen: 1-jul-2026 (Bleeding Cool, ResetEra). Voz: junio de 2026 (Infobae, 16-jun). Puede que fueran dos avances distintos ⚠️.
+9. **Los trillizos en *Shrek 5*.** La parte de texto nombra «Fergus, Farkle y Tutti Oats»; las fichas de personaje dicen Fergus, Farkle y **Felicia** (que hará Zendaya). «Tutti Oats» es dudoso ⚠️.
+10. **El más querido.** La parte de voz da dos órdenes (el Gato primero por búsquedas agregadas; Burro primero en Entretería). No hay encuesta oficial. La biblia elige **Burro** para Latinoamérica y **el Gato** como el más querido fuera, y lo marca ⚠️.
+11. **Listas contaminadas del recolector.** El top de Danbooru y 33 fan arts de `datos.json` (Hatsune Miku, Link, Pikachu, Gawr Gura, Frieren…) no son de Shrek. **Fuera** de `referencias.json`.
+
+### Lo que no se pudo verificar (queda para quien lo vea u oiga)
+- **Oír:** el rugido y los efectos de sonido; quién dice cada trozo de la muestra de la cebolla; «¡Fuera de mi pantano!» en latino; las muestras sin transcribir de Jengi, Farquaad, el Espejo y el coro de Duloc.
+- **Ver:** el minuto de «Hallelujah» en *Shrek*; los ojos de cachorro del Gato; el ataque de pánico de *El último deseo* con fotograma propio; las caras de vergüenza y tristeza (punto 13); una página interior de los cómics; un menú de videojuego en alta.
+- **Datos:** encuesta oficial de popularidad; cumpleaños y alturas de Fiona, el Gato y Farquaad; la letra de subtítulos, créditos y menús; entrevista sobre planos por emoción; vistas de fandubs y covers; cosplay con autor.
+- **Webs bloqueadas:** TCRF, TV Tropes, MobyGames y Font Meme (403 o Cloudflare); Wayback, bloqueada por la red del contenedor; YouTube (iniciar sesión, 429); TikTok.
+
+### Confirmado y dudoso
+- **Confirmado (dos fuentes o visto):** el reparto latino principal y sus directores; Banderas en tres idiomas; Del Toro de voz; Obregón fuera de *Shrek 5*; los 19 fotogramas del punto 2; los hex del vestuario y de los sitios; las letras libres con fontTools; el HUD de *SuperSlam*; Crocs × Shrek; la técnica de PDI (SSS, luz que rebota).
+- **Dudoso (una fuente):** el origen del logo (Fonts In Use); Bouwsma Uncial como letra del libro; los cumpleaños y la altura de Shrek; la fecha de *Shrek 5*; el spin-off de Burro; los minutos del ataque de pánico; las tendencias de TikTok.
+
+## Cumplimiento del encargo
+
+Hecha por el redactor con lo que **de verdad** está en esta biblia y en las partes. ✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Los ❌ de la columna «Qué falta» son trozos sueltos de un punto que sí tiene lo demás.
+
+| Punto de `ENCARGO.md` | Estado | Qué hay (y dónde) | Qué falta |
+|---|---|---|---|
+| 1 · Arte oficial variado | ✅ | 424 imágenes de la wiki con tamaño real; guías oficiales DK/Scholastic (H2-49, 50, 54, 55; H3-7); 2 artbooks con ficha; carteles de *El último deseo* hasta 3158×5000; imágenes oficiales de *Shrek 5* (dos fuentes); postal de DreamWorks; arte de juegos | ❌ key visual nuevo de campaña para las películas 1-4; los *stills* de *Shrek 5* no están en `hojas/` |
+| 2 · Fotogramas de escenas icónicas con minuto | ✅ | 15 fotogramas de *Shrek* en 1920×1080 y 4 de *Shrek 2*, mirados, con minuto y enlace `start=` | *Shrek 2* sólo en edición 4:3 recortada; nada propio de *Shrek tercero*, *para siempre* ni *El último deseo* |
+| 3 · Fan art y 3D con licencia | ✅ | 6 modelos de Sketchfab con licencia leída en la API y 6 más de la búsqueda; fan art de los 4 principales con tamaño y origen | Pixiv y ArtStation no consultados directamente; poco fan art de Shrek y Burro |
+| 4 · Sitios: luz, paleta y texturas reales | ✅ | 7 sitios medidos en fotogramas y 4 en renders, con hex y luz; 10 texturas CC0 de ambientCG | — |
+| 5 · Tipografía, una letra por uso | ⚠️ | 4 usos con letra libre abierta con fontTools: logo («Shrek»), libro (Bouwsma Uncial), letrero (Butcherman, sin ¿), periódico (UnifrakturMaguntia) | ❌ globo, grito, pensamiento, onomatopeya, interfaz de juego, subtítulos y créditos: no identificados; origen del logo con una fuente |
+| 6 · Cómo hablan en pantalla | ✅ | El libro de cuentos narrado (películas y juego *Shrek 2*), el letrero pintado, el *Far Far Away Times*, las Duloc Dolls, el cartel «WANTED», 3 series de cómic; cuadro elegido para cada tipo de texto | ❌ una página interior de cómic (préstamo controlado) |
+| 7 · Personajes y encuestas de popularidad | ⚠️ | 4 principales y 5 secundarios con carácter, objetos, manías y compañía; 2 listas de fans, el dato del spin-off, votos de Reddit | ❌ encuesta oficial: no encontrada; el orden de las listas de fans no coincide |
+| 8 · Doblaje latino y frases textuales | ✅ | Ficha y reparto de 8 películas en Doblaje Wiki + dubdb; Banderas, Del Toro y Obregón con dos fuentes; 12 notas de adaptación; 4 frases textuales oídas con `voz.py` | Frases de clips oficiales doblados con minuto (YouTube bloqueado); ¿vuelve Derbez en *Shrek 5*? por comprobar |
+| 9 · Música y sonido | ⚠️ | 4 canciones clave con su escena (dos fuentes), partituras en MusicBrainz, especiales, cambios del doblaje, volumen medido con ffmpeg | ❌ efectos y onomatopeyas oídos; minuto de «Hallelujah» |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | Tráiler en español mirado entero con 6 minutos; 3 películas enteras localizadas y 2 usadas; 2 análisis y 3 tendencias | Análisis y TikTok sin minuto (no se pudieron abrir) |
+| 11 · Videojuegos: interfaz y diálogos | ✅ | Más de 25 títulos con año; HUD de *SuperSlam* con dos fuentes; formato del diálogo de *Shrek 2* por su transcript; DLC de *PowerWash Simulator* con capturas | TCRF dio 403; ❌ captura en alta de un menú o caja de diálogo clásica |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Memes en inglés y en español con origen; momentos que todos reconocen; 8 cosas que no hacer | — |
+| 13 · Personajes a fondo | ⚠️ | Historia, miedo, qué transmite, cómo habla (con Hz y palabras/s), cuerpo y dinámicas de 4 principales y 5 secundarios; tabla de caras con 10 de 30 casillas con minuto | ❌ vergüenza de todos; tristeza casi entera; el Gato sin fotograma propio de miedo |
+| 14 · Poses analizadas | ✅ | Shrek 10, Burro 9, Fiona 10, el Gato 8, con minuto o número de hoja; tabla de pose por función | Los ojos de cachorro del Gato sin minuto; minuto dudoso de la patada de Fiona |
+| 15 · Vestuario y hex | ✅ | 9 trajes con hex medidos con `estilo.py`; peinado de Fiona; ropa icónica | Coronación y vestido azul medidos con fondo mezclado ⚠️ |
+| 16 · Ciudades, paisajes y fondos de pantalla | ✅ | 6 sitios con hora y luz; 10 fondos de Wallhaven con tamaño, autor y enlace | ❌ fondos oficiales de DreamWorks |
+| 17 · Guía para IA de imagen y de texto | ⚠️ | Hecha por el redactor: rasgos fijos con hex, estilo, luz, encuadres, palabras que ayudan y que estropean, referencias, cómo se ven las emociones; voz de cada uno y frases reales por emoción | «Enfadado» sin frase latina con audio (la de la guía es en inglés); «triste» con una frase fingida y otra de una sola fuente |
+| 18 · Estilo, técnica y cómo replicarlo | ⚠️ | Pipeline de PDI (Maya, SSS, luz que rebota, pelo, tela, fluidos) con dos fuentes; recetas para Blender y Photoshop; encuadres vistos en fotogramas | ❌ entrevista sobre qué plano se usa para cada emoción |
+| 19 · Texturas 2D | ✅ | Páginas del libro, cuero, pintura del letrero, papel del cartel y del periódico, corona; equivalentes CC0 | ❌ pincel libre de bordado medieval; el logo de Duloc no tiene ficha |
+| 20 · Gustos y detalles | ⚠️ | Tabla de gustos, disgustos, objeto, autoimagen y familia de los 4 principales y 3 secundarios | ❌ cumpleaños y altura de Fiona, el Gato y Farquaad; comidas favoritas; no hay *databook* |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Taquilla, Óscar, Cannes y Rotten Tomatoes; Fiona según la crítica; 4 escenas que hacen llorar y 5 de risa con qué pasa, por qué y cómo reaccionó la gente | Minuto del ataque de pánico sólo de fans; minuto de «Hallelujah»; música del ataque de pánico |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | El musical de Teatro Catalina con canal, vistas y fecha; memes hispanos; especial latino; el debate por Obregón | ❌ vistas y canal de covers y fandubs de YouTube y TikTok (bloqueados) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 6 colaboraciones oficiales con fecha y fuente; figuras McFarlane; lo que no es oficial (Fortnite, Vans, Shrek Rave) | ❌ cosplay con autor verificable |
+| 24 · Obras parecidas | ⚠️ | DreamWorks hermanas, parodias de cuento, la pulla a Disney (dos fuentes), comparación con las láminas vecinas | Influencias sólo de listas agregadoras, sin entrevista |
+| 25 · Mundo, historia y símbolos | ✅ | El mundo en 5 líneas; 7 arcos con momentos clave; 8 símbolos; vocabulario | *Shrek 5* y el spin-off de Burro con una fuente |
+| Conceptos de lámina (3) | ✅ | A #📖・textos ⭐, B #😂・memes, C #🍿・noticias-series; con sitio, objeto de Blender, personaje y pose, letra, sitio de cada texto y profundidad | Confirmar que existe «fandub-de-memes» (concepto B) |
+| Fuentes distintas (40) | ✅ | 57 webs distintas enlazadas en esta biblia, más las citadas por nombre en la bitácora | — |
+| Tipo: oficiales | ⚠️ | Artbooks, guías DK/Scholastic, AWN con Ken Bielenberg, Linux Journal, palabras de Andrew Adamson, Steam, Dark Horse | Web y redes oficiales de DreamWorks; comentarios de los Blu-ray |
+| Tipo: otros idiomas | ✅ | Inglés y español. La obra es estadounidense: japonés, coreano y chino no aplican (dicho en la bitácora) | — |
+| Tipo: wikis, TV Tropes, TCRF y Wayback | ⚠️ | Fandom en inglés y español, Doblaje Wiki, dubdb, Wikipedia | TCRF y TV Tropes dieron 403; Wayback bloqueada por la red |
+| Tipo: foros y comunidades | ✅ | Reddit por Arctic Shift (r/Shrek, r/pussinboots), 4chan por Know Your Meme, Tumblr | Discords públicos no |
+| Tipo: arte | ⚠️ | Safebooru, Danbooru, Wallhaven, X/Twitter, Tumblr, Weibo; ArtStation y DeviantArt como origen | Pixiv y ArtStation no buscados directamente |
+| Tipo: vídeo | ⚠️ | Internet Archive y Dailymotion (películas y tráiler mirados); YouTube sólo metadatos | YouTube y TikTok bloqueados |
+| Tipo: código y recursos | ✅ | API de Sketchfab, ambientCG, fichas de google/fonts en GitHub, fontTools, ffmpeg | GitHub apenas usado |
+| Tipo: doblaje latino | ⚠️ | Doblaje Wiki por API (8 páginas, 4 muestras oídas), dubdb, El Informador, prensa de 2026 | ANMTV y entrevistas a actores en YouTube no |
+| Hojas de contacto (3) | ✅ | `personajes_01.jpg`, `personajes_02.jpg`, `personajes_03.jpg`, miradas y citadas número a número | La hoja de emociones de voz se perdió (no está en el contenedor) |
+| `referencias.json` | ✅ | 189 referencias, las mejores primero, sin las listas contaminadas | Muchas no son imágenes (artículos, audio, modelos): van sin tamaño |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y la del recolector. **Idiomas:** inglés y español. No se buscó en japonés, coreano ni chino: Shrek es una producción estadounidense y sus fuentes originales están en inglés.
+
+### Paso 0 · Recolector (`herramientas/recolectar.py`, 25-sep-2026, sin IA)
+- Fuentes que respondieron: Fandom (`shrek`), Doblaje Wiki (ficha, reparto, 35 muestras .ogg, «Datos de interés»), Danbooru, [Safebooru](https://safebooru.org), [Wallhaven](https://wallhaven.cc), Sketchfab, [Openverse](https://openverse.org), [Dailymotion por API](https://api.dailymotion.com), Internet Archive, [MusicBrainz](https://musicbrainz.org), Steam y Reddit.
+- **Fallaron:** AniList (descartó «Kattobi! Shrek», no es anime) y AnimeThemes (HTTP 522). Esperado: Shrek no es anime.
+- **Contaminado:** el top de personajes de [Danbooru](https://danbooru.donmai.us/posts?tags=shrek_%28series%29) para `shrek_(series)` (Hatsune Miku, Link…) y 33 fan arts de otras series en `datos.json`. No se usaron.
+
+### Imagen (puntos 1, 3, 15, 16, 19, 23)
+- **Buscador (9, en inglés):** «Shrek Fortnite skin 2023 official collaboration» · «Shrek Crocs collaboration 2024 official» · «"Shrek 5" 2026 official teaser poster image» · «"Art of Shrek" artbook official DreamWorks concept art book» · «Shrek Rave event official DreamWorks» · «Shrek Vans shoes collaboration official» · «Shrek McDonald's Happy Meal toys official 2001 promotion» · «DreamWorks Land Universal Studios Shrek attraction 2026» · «Shrek McFarlane Toys NECA figure official 2022» · «Shrek Fiona armor cosplay craftsmanship photos».
+- **WebFetch:** ficha de Internet Archive del artbook de *Shrek Forever After*.
+- **Red directa:** Fandom API (`action=parse` de Duloc; `imageinfo` de la corona; `list=search&srwhat=text` de «coat of arms», «Far Far Away crest seal»); [API de Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=Donkey%20Shrek&downloadable=true) (licencia, vértices y vistas de 4 modelos; «Donkey Shrek» en inglés porque «Shrek Burro» daba 0); Safebooru API (`shrek`, `donkey_(shrek)`); [API de ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=leather) (leather, paper, fabric, wood, moss, grass).
+- **Herramientas:** `estilo.py` sobre 16 imágenes originales; hoja propia `personajes_03.jpg` con Pillow.
+- **No encontré:** key visual de campaña nuevo; pincel CC0 de bordado medieval; logo aislado de Duloc; cosplay con autor; colaboración oficial con Fortnite o Vans.
+
+### Vídeo (puntos 2, 4, 9, 10, 14)
+- **Red directa:** metadatos de Internet Archive (`archive.org/metadata/<id>`): `shrek-1` (1920×1080, 90:04), `shrek-2-2004-full-screen_202406` (4:3, 92:25), `shrek-4_202107` (93:14, sin abrir). El ítem `1.-shrek-2001-1080p-hd` sólo tenía miniaturas: descartado.
+- Miniaturas de Archive (91 de *Shrek*, 93 de *Shrek 2*) para ubicar escenas; `ffmpeg -ss` para 19 fotogramas en alta sin bajar los 5 GB.
+- `fotogramas.py` sobre el tráiler en español ([x88nk3f](https://www.dailymotion.com/video/x88nk3f), cada 8 s).
+- `estilo.py` sobre 7 sitios; `ffmpeg -af volumedetect` sobre 3 tramos de audio.
+- Fandom API: «I'm a Believer», «Hallelujah», «Rufus Wainwright», «Joan Jett», `Shrek 2/Transcript`. Wikipedia API: «List of songs featured in Shrek», «Accidentally in Love (song)».
+- **Buscador (2):** «Shrek TikTok trend viral sound» (inglés) · «Shrek 2 análisis video ensayo YouTube minuto escena» (español).
+- `yt-dlp --skip-download --print` para metadatos de un análisis.
+- **Fallaron:** YouTube (iniciar sesión); TikTok (sin acceso); AniList y AnimeThemes.
+- **No encontré:** los ojos de cachorro del Gato (probados 30-46 y 78-86 min de *Shrek 2*); audio de efectos.
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+- **Red directa:** Doblaje Wiki API (8 fichas y 4 muestras con `imageinfo`); dubdb API; Fandom en inglés y español (9 fichas: Shrek, Burro, Fiona, Farquaad, Dragona, Jengi, Perrito, Kitty, el Gato); Dailymotion API («Shrek cover español», «Bienvenidos a Duloc», «Shrek fandub», «Shrek el musical latino»); [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=pussinboots&query=panic%20attack) (r/Shrek y r/pussinboots, 4 consultas).
+- `fotogramas.py` sobre la copia latina de *Shrek* en Dailymotion (66:03): una pasada cada 60 s, 3 de 4 s y 9 fotogramas sueltos. Vídeo borrado al acabar.
+- `voz.py` sobre 4 muestras .ogg oficiales.
+- **Buscador (~18):** «Shrek personaje más popular encuesta favorito fans» · «Puss in Boots stole the show Shrek 2 most popular character spinoff» (inglés) · «Antonio Banderas dobla a sí mismo Gato con Botas español entrevista» · «Guillermo del Toro voz Comandante Gato con Botas doblaje entrevista» · «"Un felino temerario" Guillermo del Toro Gato con Botas Comandante Informador» · «Shrek Oscar mejor película animada 2001 historia premio» · «"Shrek is love Shrek is life" meme origen historia» (inglés) · «memes Shrek Latinoamérica frases Burro "pregúntame" viral» · «Shrek recaudación taquilla mundial 2001 cifras crítica por qué encantó» · «Puss in Boots Last Wish panic attack scene Death wolf praised mental health reaction» (inglés) · «Shrek Fiona feminista personaje análisis por qué fans la aman princesa» · «reddit r/Shrek cried scene wedding true love's kiss reaction» (inglés) · «Puss in Boots The Last Wish Rotten Tomatoes crítica mejor película franquicia aclamada» · «Shrek 2 récord taquilla película animada más exitosa 2004» · «fandub español latino Shrek "Bienvenidos a Duloc" OR "All Star" cover canal YouTube» · «Shrek altura cumpleaños edad oficial ficha personaje años» · «Alfonso Obregón voz de Shrek entrevista actor doblaje mexicano» · «"Shrek 5" nueva voz actor doblaje Alfonso Obregón reemplazo nombre confirmado» · «entreteria.com "10 personajes de Shrek mejor clasificados" ranking lista».
+- **Fuentes citadas por nombre** (sin enlace en la parte): palomaynacho.com, socialfuturo.com, excelsior.com.mx, cronista.com, lanueva.com, screenrant.com, comicbook.com, sipse.com, plenitudmental.com, univa.mx, thedigitalfix.com, ucsdguardian.org, animatornotebook.com, sixmilepost.com, mcccagora.com, sceneandheardnu.com, ranker.com, buenaventuraenlinea.com, Daily Dot, Syfy, Cine Premiere, El Comercio, Milenio, Excélsior, RPP, ABC Noticias, El Gráfico.
+- **Fallaron:** YouTube (429 y «Sign in to confirm you're not a bot», también con `--js-runtimes node`; un intento por URL). La página de Doblaje Wiki de *Gato con botas* tenía mal el título en el recolector: la real es «Gato con botas».
+- **No encontré:** encuesta oficial; alturas y cumpleaños de Fiona, el Gato y Farquaad; *databook*; el reemplazo confirmado de Obregón; vistas de covers; testimonio con nombre sobre *Shrek* (2001); minuto propio del ataque de pánico; caras de vergüenza.
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+- **Red directa (Fandom API):** `action=parse` de *Shrek (franchise)*, Duloc, Duloc Dolls, Far Far Away Times, Onions, *Shrek 2 (video game)* y su transcript, *Shrek Super Slam*, *Shrek (Dark Horse)*, *Shrek (Ape Entertainment)*, Swamp Talk; `list=search` para juegos, cómics, Duloc y «onions/layers».
+- **Buscador (13, en inglés):** «Shrek movie logo font name identify» · «"Shrek" font dafont.com movie title» · «Bouwsma Uncial font P22 free alternative» · «Shrek 2001 end credits font typeface identify» · «"Shrek" comic book Dark Horse interior page preview speech bubble» · «tcrf.net Shrek 2 Windows unused debug cheat level select» · «Shrek 2001 making of animation software PDI DreamWorks Maya rendering interview» · «Shrek ogre skin subsurface scattering technique SIGGRAPH» · «Shrek film influences director Andrew Adamson interview fairy tale parody inspiration» · «movies similar to Shrek fairy tale parody adult humor animated recommendations» · «Shrek movie logo typography fontsinuse.com» · «Shrek 2 video game 2004 screenshot HUD health bar dialogue box» · «"Donkey" font FG Studios Shrek replica download dafont fontspace».
+- **Letras abiertas con fontTools:** `BouwsUnc.ttf`, `SHREK___.TTF`, `unifraktur.woff2`, `butcherman_latin.woff2`.
+- **Imágenes miradas:** el *Far Far Away Times* (1023×575), la calle de Duloc (1920×1080), 3 capturas de *PowerWash Simulator × Shrek*, una muestra de la letra del logo.
+- **Bloqueadas:** `tcrf.net` (403, directo y por Wayback), `tvtropes.org` (403, curl y WebFetch), `mobygames.com` (0 bytes), `fontmeme.com` (Cloudflare).
+- **No encontré:** letra de subtítulos, créditos y menús; páginas interiores de los cómics; entrevista sobre planos por emoción.
+
+### Redactor
+- Leídas las 4 partes enteras y los `datos-*.md`; miradas las 3 hojas de `hojas/` (de ahí salen las correcciones 1 y 2); inventario del servidor, DECISIONES.md y las biblias vecinas de Coco (57) y Encanto (58) para los choques de canal y de concepto.
+- `referencias.json` juntado de `imagen.json`, `video.json`, `voz.json`, `texto.json` y `datos.json`, sin duplicados y sin las listas contaminadas.
+- No se hicieron búsquedas nuevas: todo lo de esta biblia sale de las partes.
+

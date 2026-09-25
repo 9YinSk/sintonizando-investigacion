@@ -1,0 +1,290 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/6/60/Woody_loop.ogg/revision/latest?cb=20170327003708&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Woody loop.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Woody en Toy Story (1995), voz de Carlos Segundo.",
+    "para_que": "Fuente textual y de tono para el punto 8 y 13 (171 Hz, 26.3 semitonos, 2.47 palabras/s, medido con voz.py).",
+    "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/d/d0/ToyStory4-Woody.ogg/revision/latest?cb=20191005211652&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:ToyStory4-Woody.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Woody en Toy Story 4 (2019), voz de Arturo Mercado Jr.",
+    "para_que": "Comparación medida de tono con la voz original de Woody (203 Hz, 14.8 semitonos, 3.34 palabras/s) para ilustrar el cambio de actor del punto 8.",
+    "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/c/c5/Buzz_loop.ogg/revision/latest?cb=20170327003921&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Buzz loop.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Buzz Lightyear en Toy Story (1995), voz de José Luis Orozco.",
+    "para_que": "Fuente textual y de tono para el punto 8 y 13 (148 Hz, 17.3 semitonos, 3.04 palabras/s).",
+    "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/9/9e/ToyStory4-Jessie.ogg/revision/latest?cb=20191005213306&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:ToyStory4-Jessie.ogg",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino de Jessie en Toy Story 4 (2019), voz de Irán Castillo.",
+    "para_que": "Fuente textual y de tono para el punto 8 y 13 (292 Hz, 29.0 semitonos, 2.38 palabras/s, el registro más agudo y expresivo medido).",
+    "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/2/25/Rex_Barrero_1.mp3/revision/latest?cb=20210303123514&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Rex Barrero 1.mp3",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Compilación de loops oficiales del doblaje latino de Rex en Toy Story (1995), voz de Jesús Barrero.",
+    "para_que": "Fuente textual y de tono para el punto 8 y 13 (297 Hz, 16.3 semitonos, 2.82 palabras/s); monólogo nervioso resume su personalidad.",
+    "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Toy_Story",
+    "fuente": "Doblaje Wiki — ficha de Toy Story (1995)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de doblaje de la 1ª película: estudio, dirección, reparto completo y 'Datos de interés' (adaptaciones, casting).",
+    "para_que": "Base del punto 8: reparto, estudio, adaptaciones (Betty, Jam, Marcianitos, Sargento, Tiburón).",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Toy_Story_2",
+    "fuente": "Doblaje Wiki — ficha de Toy Story 2 (1999)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de doblaje de la 2ª película: reparto completo (~40 roles), debut de Irán Castillo como Jessie.",
+    "para_que": "Base del punto 8: tabla de reparto cruzada entre las 5 películas.",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Toy_Story_3",
+    "fuente": "Doblaje Wiki — ficha de Toy Story 3 (2010)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de doblaje de la 3ª película, con la sección 'Sobre el doblaje' que narra completa la polémica de casting de Woody.",
+    "para_que": "Fuente principal del Caso 1 del punto 8 (Carlos Segundo vs. Arturo Mercado Jr.), la historia más rica de todo este punto.",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Toy_Story_4",
+    "fuente": "Doblaje Wiki — ficha de Toy Story 4 (2019)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de doblaje de la 4ª película, con 'Sobre el reparto': recasting de Rex tras la muerte de Jesús Barrero, regreso de Diana Santos como Bo Peep.",
+    "para_que": "Fuente del Caso 2 del punto 8 (cambio de actor de Rex) y de datos de continuidad de reparto.",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Toy_Story_5",
+    "fuente": "Doblaje Wiki — ficha de Toy Story 5 (2026)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de doblaje de la 5ª película, muy reciente: cameos de Bad Bunny, Bizarrap y Penélope Cruz; muerte de Carlos del Campo (Slinky) semanas tras el estreno.",
+    "para_que": "Fuente de los Casos 3 y 4 del punto 8 (actualidad más caliente de toda la investigación).",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Woody",
+    "fuente": "Pixar Wiki (EN) — ficha de Woody",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: origen de diseño (iba a ser ventrílocuo), el guion original con un Woody antipático, actores considerados antes de Tom Hanks, relaciones, sección de Toy Story 5.",
+    "para_que": "Base de los puntos 7, 13 y 20 para Woody.",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Buzz_Lightyear",
+    "fuente": "Pixar Wiki (EN) — ficha de Buzz Lightyear",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: crisis de identidad recurrente en cada película, arco romántico con Jessie en Toy Story 5.",
+    "para_que": "Base de los puntos 7, 13 y 20 para Buzz.",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Jessie",
+    "fuente": "Pixar Wiki (EN) — ficha de Jessie",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: personalidad, trauma de abandono por Emily, relación con Bo Peep, confirmación de que es la protagonista de Toy Story 5.",
+    "para_que": "Base de los puntos 7, 13, 20 y 21 para Jessie.",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Rex",
+    "fuente": "Pixar Wiki (EN) — ficha de Rex",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: personalidad insegura, miedo a ser reemplazado, gusto por videojuegos.",
+    "para_que": "Base de los puntos 7, 13 y 20 para Rex.",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Bo_Peep",
+    "fuente": "Pixar Wiki (EN) — ficha de Bo Peep",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: reinvención del personaje en Toy Story 4, de figura decorativa a heroína independiente.",
+    "para_que": "Base de los puntos 7, 13, 20 y 21 (debate crítico feminista).",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Sid",
+    "fuente": "Pixar Wiki (EN) — ficha de Sid Phillips",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: personalidad de niño torturador de juguetes y su cameo de adulto como basurero municipal en Toy Story 3.",
+    "para_que": "Base del punto 7 y 13 (arco de redención silencioso).",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Lots-o%27-Huggin%27_Bear",
+    "fuente": "Pixar Wiki (EN) — ficha de Lotso",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: origen del trauma de abandono de Lotso, su regreso confirmado en Toy Story 5.",
+    "para_que": "Base del punto 7 y 13 (contraste con el final feliz de Woody/Jessie).",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Forky",
+    "fuente": "Pixar Wiki (EN) — ficha de Forky",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: personalidad, crisis de identidad de 'ser basura o ser juguete'.",
+    "para_que": "Base del punto 7, 13, 20 y 21 (análisis de crítica sobre su 'crisis existencial').",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://pixar.fandom.com/wiki/Gabby_Gabby",
+    "fuente": "Pixar Wiki (EN) — ficha de Gabby Gabby",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: personalidad de antagonista no-villana, caja de voz rota, deseo de ser querida.",
+    "para_que": "Base del punto 7, 13 y 20.",
+    "licencia": "Contenido de wiki (CC BY-SA vía Fandom)."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3mvnel",
+    "fuente": "Dailymotion — 'TOY STORY 3 ESCENA DEL INCINERADOR LATINO' (KARAPULKRA20)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Clip de la emisión de Disney XD, en doblaje latino, de la escena del incinerador de Toy Story 3 (3:18 min).",
+    "para_que": "Fuente de 10 fotogramas propios (fotogramas.py) para el punto 13 y 21: miedo de Buzz/Jessie/Lotso, la escena que más hace llorar de la franquicia.",
+    "licencia": "Emisión de TV con copyright de Disney/Pixar; clip de fans en Dailymotion, uso como referencia de investigación."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/xa0ekdy",
+    "fuente": "Dailymotion — 'Toy Story 5 - Tráiler Oficial Doblado Latino' (FilmAffinity)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial doblado al español latino de Toy Story 5 (2:24 min).",
+    "para_que": "Fuente de 12 fotogramas propios para el punto 13: Jessie como nueva líder, diseños actuales de personajes.",
+    "licencia": "Material promocional oficial de Disney/Pixar, uso como referencia de investigación."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/6/64/Sargento_De_la_Fuente.mp3/revision/latest?cb=20210303141148&path-prefix=es",
+    "fuente": "Doblaje Wiki — Archivo:Sargento De la Fuente.mp3",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial del doblaje latino del Sargento en Toy Story (1995).",
+    "para_que": "Candidata sin usar aún para ampliar el punto 8/13 con un personaje secundario, disponible para el redactor.",
+    "licencia": "Copyright Disney/Pixar, alojado por Doblaje Wiki (Fandom) como muestra con fines identificativos."
+  },
+  {
+    "url": "https://www.infobae.com/estados-unidos/2026/07/21/toy-story-5-supera-los-usd-950-millones-en-taquilla-y-queda-muy-cerca-de-romper-otro-record-historico/",
+    "fuente": "Infobae (21-jul-2026)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota de prensa sobre la taquilla mundial de Toy Story 5 y su récord de estreno en 2026.",
+    "para_que": "Cifras del punto 21 (por qué la ama el público, éxito comercial).",
+    "licencia": "Artículo periodístico, uso como fuente informativa."
+  },
+  {
+    "url": "https://www.infobae.com/mexico/2026/08/03/murio-carlos-del-campo-actor-de-doblaje-que-dio-voz-a-slinky-c-3po-y-colagusano-en-harry-potter/",
+    "fuente": "Infobae (3-ago-2026)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cobertura del fallecimiento de Carlos del Campo (voz de Slinky en las 4 primeras películas), a los 68 años, semanas tras el estreno de Toy Story 5.",
+    "para_que": "Segunda fuente del Caso 3 del punto 8, muy relevante y reciente para un servidor de doblaje.",
+    "licencia": "Artículo periodístico, uso como fuente informativa."
+  },
+  {
+    "url": "https://www.milenio.com/espectaculos/carlos-razon-ausencia-toy-story-3",
+    "fuente": "Milenio — 'Carlos Segundo y la razón de ausencia de Toy Story 3'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota de prensa sobre por qué Carlos Segundo no dobló a Woody en Toy Story 3.",
+    "para_que": "Segunda fuente del Caso 1 del punto 8 (junto con Doblaje Wiki).",
+    "licencia": "Artículo periodístico, uso como fuente informativa."
+  },
+  {
+    "url": "https://slate.com/culture/2019/06/toy-story-4-bo-peep-female-characters-gender-flip-sequels.html",
+    "fuente": "Slate — 'Toy Story 4 escapes the curse of the feminized sequel, thanks to Bo Peep'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis crítico en inglés sobre la reinvención de Bo Peep en Toy Story 4.",
+    "para_que": "Fuente del debate crítico del punto 12 y 21 sobre Bo Peep.",
+    "licencia": "Artículo periodístico, uso como fuente informativa."
+  },
+  {
+    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2019/06/19/juguetes-en-crisis-existencial-las-claves-de-la-pelicula-que-pone-fin-a-24-anos-de-toy-story.shtml",
+    "fuente": "BioBioChile — 'Juguetes en crisis existencial'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis en español sobre la crisis existencial de Forky y el cierre de la saga original en Toy Story 4.",
+    "para_que": "Fuente del punto 21 (por qué encantó Forky).",
+    "licencia": "Artículo periodístico, uso como fuente informativa."
+  },
+  {
+    "url": "https://www.popmatters.com/toy-story-3-2496175434.html",
+    "fuente": "PopMatters — 'Toy Story 3 and the Best Scene of the Summer'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Crítica en inglés centrada en la escena del incinerador de Toy Story 3.",
+    "para_que": "Fuente del punto 21 (descripción de la escena que más hace llorar).",
+    "licencia": "Artículo periodístico, uso como fuente informativa."
+  },
+  {
+    "url": "https://www.slashfilm.com/1920983/toy-story-3-sid-garbage-truck-easter-egg/",
+    "fuente": "SlashFilm — el easter egg del cameo de Sid en Toy Story 3",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo en inglés que confirma y describe el cameo adulto de Sid Phillips como basurero.",
+    "para_que": "Segunda fuente del dato de Sid del punto 7/13 (junto con Pixar Wiki).",
+    "licencia": "Artículo periodístico, uso como fuente informativa."
+  },
+  {
+    "url": "https://www.reddit.com/r/toystory/comments/1uhktc6/did_you_cry_or_almost_cry_when_bonnie_was_getting/",
+    "fuente": "Reddit r/toystory — hilo sobre la escena de ciberacoso de Bonnie en Toy Story 5",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo de fans (33 votos, 14 comentarios) sobre una escena nueva y reciente que hace llorar.",
+    "para_que": "Fuente del punto 21 (escena que hace llorar, actualidad de 2026).",
+    "licencia": "Contenido generado por usuarios, vía Arctic Shift (espejo público de Reddit)."
+  },
+  {
+    "url": "https://www.reddit.com/r/toystory/comments/1wn01jc/when_she_loved_me_brennimurasaki/",
+    "fuente": "Reddit r/toystory — hilo 'When she loved me'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo de fans (117 votos) sobre la canción/escena de flashback de Jessie con Emily.",
+    "para_que": "Fuente del punto 21 (escena que hace llorar, identificación del público con Jessie).",
+    "licencia": "Contenido generado por usuarios, vía Arctic Shift (espejo público de Reddit)."
+  },
+  {
+    "url": "https://www.reddit.com/r/toystory/comments/1wgzy1s/underrated_character_of_the_week_toy_barn_chicken/",
+    "fuente": "Reddit r/toystory — 'Underrated character of the week: Toy Barn Chicken Statue!'",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo (52 votos, 8 comentarios) de la sección fija del subreddit dedicada a personajes de fondo.",
+    "para_que": "Fuente del punto 7 y 12 (el fandom premia activamente a personajes casi sin diálogo).",
+    "licencia": "Contenido generado por usuarios, vía Arctic Shift (espejo público de Reddit)."
+  }
+]

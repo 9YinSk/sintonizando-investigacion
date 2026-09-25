@@ -1,0 +1,482 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143777-AkDyji8YAIi2.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/92/TPHD_Link_and_Wolf_Link_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 3322,
+  "alto": 3990,
+  "que_es": "Link: TPHD Link and Wolf Link Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1e/ALBW_Link_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 3373,
+  "alto": 3609,
+  "que_es": "Link: ALBW Link Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/3c/TLoZ_Female_Link_Artwork_4.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2790,
+  "alto": 4000,
+  "que_es": "Link: TLoZ Female Link Artwork 4.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c4/ALttP_Link_Fighting_Stalfos_Knights_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 3786,
+  "alto": 2650,
+  "que_es": "Link: ALttP Link Fighting Stalfos Knights Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/29/OoT_Link_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2782,
+  "alto": 3463,
+  "que_es": "Link: OoT Link Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e7/ALBW_Link_Drawing.png",
+  "fuente": "Fandom zelda",
+  "ancho": 3200,
+  "alto": 2853,
+  "que_es": "Link: ALBW Link Drawing.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/30/HW_Link_Render.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2055,
+  "alto": 3896,
+  "que_es": "Link: HW Link Render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/cb/PH_Link_01.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2668,
+  "alto": 2600,
+  "que_es": "Link: PH Link 01.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7c/OoT_Child_Link_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2244,
+  "alto": 3075,
+  "que_es": "Link: OoT Child Link Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/98/MM_Link_Razor_Sword_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2195,
+  "alto": 2766,
+  "que_es": "Link: MM Link Razor Sword Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/83/HW_Zelda_Render.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2107,
+  "alto": 3777,
+  "que_es": "Princess Zelda: HW Zelda Render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0f/BotW_Zelda_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2645,
+  "alto": 2992,
+  "que_es": "Princess Zelda: BotW Zelda Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e4/SS_Zelda_Loftwing_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2061,
+  "alto": 3000,
+  "que_es": "Princess Zelda: SS Zelda Loftwing Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e5/OoT_Sheik_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 1635,
+  "alto": 3780,
+  "que_es": "Princess Zelda: OoT Sheik Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bc/OoT_Adult_Zelda_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 1633,
+  "alto": 3780,
+  "que_es": "Princess Zelda: OoT Adult Zelda Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/48/Zelda_in_The_Legend_of_the_Hero_of_Hyrule.jpg",
+  "fuente": "Fandom zelda",
+  "ancho": 2516,
+  "alto": 2298,
+  "que_es": "Princess Zelda: Zelda in The Legend of the Hero of Hyrule.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/eb/ALBW_Princess_Zelda_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2158,
+  "alto": 2659,
+  "que_es": "Princess Zelda: ALBW Princess Zelda Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/89/Spain_Flag.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2560,
+  "alto": 1707,
+  "que_es": "Princess Zelda: Spain Flag.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c7/OoT_Princess_Zelda_Child_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 1123,
+  "alto": 3267,
+  "que_es": "Princess Zelda: OoT Princess Zelda Child Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/11/Final_Battle_in_Hyrule.jpg",
+  "fuente": "Fandom zelda",
+  "ancho": 5244,
+  "alto": 3968,
+  "que_es": "Ganon: Final Battle in Hyrule.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/ef/MM3D_Majora%27s_Mask_Render.png",
+  "fuente": "Fandom zelda",
+  "ancho": 3940,
+  "alto": 3410,
+  "que_es": "Ganon: MM3D Majora's Mask Render.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8f/HWL_Ganondorf_Thief%27s_Trident_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 3130,
+  "alto": 3810,
+  "que_es": "Ganon: HWL Ganondorf Thief's Trident Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4f/OoT_Ganon_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2814,
+  "alto": 3660,
+  "que_es": "Ganon: OoT Ganon Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f8/OoT_Link_Fighting_Ganondorf_Artwork.jpg",
+  "fuente": "Fandom zelda",
+  "ancho": 2800,
+  "alto": 3639,
+  "que_es": "Ganon: OoT Link Fighting Ganondorf Artwork.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/23/OoT_Ganondorf_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2122,
+  "alto": 3734,
+  "que_es": "Ganon: OoT Ganondorf Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/cc/ALttP%26FS_Agahnim_Artwork.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2176,
+  "alto": 2782,
+  "que_es": "Ganon: ALttP&FS Agahnim Artwork.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/35/Capture_d%E2%80%99%C3%A9cran_2023-05-22_%C3%A0_18.52.17.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2994,
+  "alto": 1927,
+  "que_es": "Ganon: Capture d’écran 2023-05-22 à 18.52.17.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c3/Capture_d%E2%80%99%C3%A9cran_2023-05-22_%C3%A0_18.50.38.png",
+  "fuente": "Fandom zelda",
+  "ancho": 2994,
+  "alto": 1927,
+  "que_es": "Ganon: Capture d’écran 2023-05-22 à 18.50.38.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/567/df3bfac25e6e08c6489ea961a64e2bb62d896df2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 6566,
+  "que_es": "Fan art de link (http://img33.pixiv.net/img/atelieriji/16868303.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/20/1f00a70194c6a61b7598f4a0be8d4d083100e608.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1399,
+  "que_es": "Fan art de link (http://img05.pixiv.net/img/hanokage/3732379.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/768/e40bdc175fe98f678580f5fe88d377b7bfdabdaa.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1223,
+  "que_es": "Fan art de link (http://img20.pixiv.net/img/yuinopartyyou127/25063229.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/266/945a7165ced9a01424323520322346316f7425e0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 960,
+  "que_es": "Fan art de link (http://img12.pixiv.net/img/bonorisu/1642048.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/683/45fd23d64f7b7772c91f6617dfc8fba655fa1940.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 750,
+  "alto": 1100,
+  "que_es": "Fan art de link (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=16376093)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/567/ff3860748c0669c8733a4a78fbc53210689da42e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 699,
+  "alto": 431,
+  "que_es": "Fan art de link (http://img18.pixiv.net/img/kametora/16882180.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/589/dcf303925b63cca685742d2db2a9492dc2a88f80.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 640,
+  "alto": 633,
+  "que_es": "Fan art de princess_zelda (http://img41.pixiv.net/img/10111139/17694481.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/177/13b7d7ec2b2f1938abd8f4b10d7d9c3e8f59b431.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de ganondorf (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/264/f5e4732ccadc1e30c0b7af5f1d35c26f3f214574.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 780,
+  "alto": 780,
+  "que_es": "Fan art de ganondorf (http://suiseistarcomet.ame-zaiku.com/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/51/5abd0210bc6ce4e62194dbf5384778c041aa8362.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de pikachu (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/788/54325ea39f0baa982f77de2fcce49be9f2c6f171.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2027,
+  "alto": 2012,
+  "que_es": "Fan art de pikachu (http://img24.pixiv.net/img/pix-cocobank-loco/25473865.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de pikachu (https://twitter.com/totototo0507/status/1807802641482985883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/993/f3c6da6cbe41f861479e78bd78862e2e365bd91e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de pikachu (http://i1.pixiv.net/img35/img/empty_p/34324859.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4610/46cb694f296c2813324a66b8d0105377bd4dbdbd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1859,
+  "que_es": "Fan art de kirby (https://twitter.com/KirbyEarthbound/status/1856058394563825692)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3047/c3e4ddb8c5804f0e164843f415fe9317e830f67a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1366,
+  "que_es": "Fan art de kirby (https://i.pximg.net/img-original/img/2016/10/12/08/34/39/59434534_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/340/57f7103a51f10e93701d1c013ece20a44d9356cd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1020,
+  "alto": 850,
+  "que_es": "Fan art de princess_peach (http://img40.pixiv.net/img/ja15/9368307.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/863/e9cd4bbba11120beb8f3f4c5747cc9d23db4befd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 768,
+  "alto": 686,
+  "que_es": "Fan art de princess_peach (http://i1.pixiv.net/img41/img/10111139/25084304.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/341/90882d9cc8205320fbefeb575a78e62654e896f1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2770,
+  "alto": 1867,
+  "que_es": "Fan art de samus_aran (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/519/15448ac17a26bd7b6c3418546f968154948449d9.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 545,
+  "que_es": "Fan art de samus_aran (http://img60.pixiv.net/img/y1510/14981003.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ }
+]
