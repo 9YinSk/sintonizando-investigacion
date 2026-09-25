@@ -6,6 +6,14 @@ Escrita por el redactor el 25-sep-2026 con las partes de imagen, vídeo, voz y t
 
 Leyenda: ✅ = dos fuentes o visto/medido · ⚠️ = una fuente, de memoria o a medias · ❌ = no hecho.
 
+## Segunda pasada · qué cambió
+
+El primer redactor se cortó en el punto 13 (25-sep-2026). Esta pasada, el mismo día, **siguió en su sitio** con las mismas partes, sin rehacer lo escrito:
+- **Añadido**: puntos 14 a 25 (con el 17, la guía para IA, escrita por el redactor), «Hojas de contacto», los 3 conceptos de lámina, «Cumplimiento del encargo», la bitácora y `referencias.json` (152 referencias, 101 con tamaño medido; antes no existía).
+- **Visto y medido de nuevo**: las 3 hojas y 6 imágenes de la wiki en grande (hoja 1 nº 28, 30, 33; hoja 2 nº 52, 56, 64), con su tamaño por la API; 10 colores nuevos medidos con Pillow (gorra, despacho, puesto de mando, casco de sensores).
+- **Corregido**: en el punto 13, las caras que faltaban iban con ❌; ahora ⚠️ «no encontrada en los clips mirados», porque sí se buscaron. El orbe de Tanya se ve **rojo con montura de latón** en las hojas (la parte de voz decía «azul»): anotado en el punto 15.
+- **⚠️**: había 54 hasta el punto 13; ahora hay 135 en toda la biblia. Casi todos son datos de una sola fuente o sin minuto; los que importan para una lámina están en la tabla de cumplimiento.
+
 ## Índice
 
 - 0 · En una pantalla
@@ -38,6 +46,7 @@ Leyenda: ✅ = dos fuentes o visto/medido · ⚠️ = una fuente, de memoria o a
 - 3 conceptos de lámina
 - Cumplimiento del encargo
 - Bitácora de búsqueda
+- (arriba) Segunda pasada · qué cambió
 
 ## 0 · En una pantalla
 
@@ -127,7 +136,7 @@ YouTube estaba bloqueado. La parte de vídeo miró los clips en **Dailymotion** 
 - **Mondragón M1908**, el fusil de los magos (también el de Visha) · [modelo](https://sketchfab.com/3d-models/none-2cfae8885fe747feaeb6068133f5fb38) · CC BY.
 - **Luger P08**, la pistola de Tanya en la escena final · [modelo](https://sketchfab.com/3d-models/none-3162bdd6f91d4334bebb40bae461933a) · CC BY.
 - **Mauser C96** (sale en la película junto a un orbe sobre una mesa): no encontré modelo libre con licencia comprobada. ⚠️
-- La wiki cita la base de datos de armas [IMFDB](https://www.imfdb.org/wiki/Saga_of_Tanya_the_Evil); dio 403 dos veces.
+- La wiki cita la base de datos de armas [IMFDB](https://imfdb.org/wiki/Saga_of_Tanya_the_Evil); dio 403 dos veces.
 - **Orbe de cómputo, cruz de hierro, medalla y radio de campaña**: no hay modelos libres en las partes. Se modelan en Blender con geometría simple (ver punto 18). ⚠️
 
 ## 4 · Sitios, luz, paleta y texturas reales
@@ -575,9 +584,9 @@ Del vocabulario de Danbooru (el que usan las IA de anime): `blonde_hair, blue_ey
 
 **Cómo habla Tanya** (latino, Jocelyn Robles; japonés, Aoi Yūki)
 - Formal y burocrática, de **usted**. Habla como un jefe de personal: «costo-beneficio», «recurso», «incompetente», «eficiencia», «retaguardia».
-- Frases largas con subordinadas, como un parte. Pocas exclamaciones: **se enfada bajando la voz**, no gritando.
+- Frases largas con subordinadas, como un parte. Pocas exclamaciones: **enfadada, sube el tono y se vuelve cortante**, sin gritar; su arma es el sarcasmo.
 - Por fuera, cortés y patriótica; **por dentro, sarcástica**. Su monólogo interior va en otra caja y en otro tono.
-- Grita sólo en combate o en arengas, y en alemán: «Los! Los! Los!», «Weiter! Weiter!».
+- Grita en combate y en arengas («Glory to the Empire!»). Sus endings, cantados con su voz, llevan títulos de arenga en alemán: «Los! Los! Los!» y «Weiter! Weiter!»; sirven de grito para una lámina.
 - Muletilla del cuartel alrededor de ella: «Sí, señor», «Mayor», «Cuento con usted».
 
 **Cómo habla Visha**: cálida, admirada, algo nerviosa; se sobresalta con signos de exclamación; cree en Dios y lo dice.
@@ -859,3 +868,79 @@ El encargo no trae canal. Propuestas, sacadas de `servidor/inventario.md`. Las b
 - **Que no quede plana**: el cable del micrófono y una bombilla desenfocada delante; la luz ámbar del dial en la cara de Visha; profundidad hasta la ventana con Tanya y el fuego.
 
 **Notas de canal**: #castings también lo propusieron Oshi no Ko (05) y Hunter x Hunter (36). No bloquea nada.
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 86 imágenes de la wiki en 2 hojas, con tamaño real: visuales de la película, portadas y color de novela y manga, fichas de cuerpo entero, avances, promoción con flores. |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 6 clips mirados con `fotogramas.py` (cap. 1, 5, 6, película, OP, tráiler T2) con minuto, pero en 720p; los 7 fotogramas en 1080p son de la wiki, sin minuto. YouTube bloqueado. |
+| 3 · Fan art y 3D con licencia | ✅ | 6 fan arts con autor u origen; 3 armas en Sketchfab CC Attribution descargables (Gewehr 98, Mondragón M1908, Luger P08). |
+| 4 · Sitios, luz, paleta y texturas reales | ⚠️ | 5 paletas medidas con `estilo.py`; texturas de ambientCG propuestas por nombre, sin enlace comprobado. |
+| 5 · Tipografía, una letra por uso | ✅ | 15 letras libres comprobadas con fontTools (ñ, ¿, ¡, tildes); Goudy Text del logo con una sola fuente. |
+| 6 · Cómo hablan en pantalla | ✅ | Cartelas de fecha, lugar y rango, globo hexagonal de radio, grito en globo negro, monólogo aparte, avances; vistos en el manga y en las hojas. |
+| 7 · Popularidad | ⚠️ | AniList y Danbooru coinciden (Tanya, luego Visha); no hay encuesta oficial (buscada, no encontrada). |
+| 8 · Doblaje latino y frases | ✅ | Reparto en Doblaje Wiki y AniList; 7 muestras oídas con `voz.py`, frases textuales. Being X (Villeli) con una fuente; no hay clips oficiales doblados. |
+| 9 · Música y sonido | ⚠️ | OP y ED de T1 y T2, compositor y OST confirmados; efectos descritos de oído; no se sabe qué tema suena en cada escena emotiva. |
+| 10 · Vídeos y tendencias | ⚠️ | Tráileres y clips con minuto; TikTok sólo con etiquetas, sin vistas; YouTube bloqueado. |
+| 11 · Videojuegos | ⚠️ | El *gacha* existe y cerró en 2022 (dos fuentes); no se encontraron capturas de su interfaz ni de sus cajas de diálogo. |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | Campo de malentendidos, dúo Tanya-Visha, Being X; lista de lo que un fan odiaría. |
+| 13 · Personajes a fondo | ⚠️ | Tanya, Visha y 8 secundarios; caras de Tanya con minuto en 6 emociones; tristeza y vergüenza de Tanya y rabia, tristeza y vergüenza de Visha no se encontraron en los clips. |
+| 14 · Poses analizadas | ⚠️ | Tanya: 9 con minuto y 6 de las hojas; Visha: 3 con minuto y 4 de las hojas sin minuto. |
+| 15 · Vestuario con hex | ✅ | Uniforme, gorra, vestido y casco medidos con Pillow; texto de la ficha oficial en dos páginas. Una medición por color. |
+| 16 · Ciudades y fondos de pantalla | ⚠️ | 9 sitios con hora y luz, 9 fondos con tamaño y autor; la wiki no tiene páginas de lugares y Arene no se vio. |
+| 17 · Guía para IA de imagen y de texto | ✅ | Hecha por el redactor: rasgos fijos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, frases reales por emoción. Falta una frase triste real. |
+| 18 · Estilo y cómo replicarlo | ⚠️ | Staff y paleta medida; receta de Photoshop y Blender inferida, no hay *making of*; sin *rig* libre del personaje. |
+| 19 · Texturas 2D | ⚠️ | Tramas vistas, escudo medido, alfabeto inventado; los pinceles de Brusheezy no se bajaron. |
+| 20 · Gustos y detalles | ⚠️ | Cumpleaños y edad de Tanya, comidas y aficiones de Visha; sin alturas oficiales ni cumpleaños de Visha. |
+| 21 · Por qué la aman | ⚠️ | Razones con cifras y 5 escenas; la muerte de Rudersdorf sin minuto ni música; sin comentarios más votados. |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Ash Fandubs, canal de YouTube, TikTok, covers ruso y alemán; sin vistas; no se encontró cover en español. |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Isekai Quartet (4 entregas), cruce con Overlord, figma 439, 44 cosplays; sin marcas ni cafés (buscado y no encontrado). |
+| 24 · Obras parecidas y láminas vecinas | ✅ | AniList y listas independientes, influencia histórica del autor, biblias vecinas revisadas. |
+| 25 · El mundo, la historia y sus símbolos | ✅ | Cinco reglas, 14 tomos por arcos, emblemas, apodos, vocabulario. |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB en `hojas/`, miradas; números explicados arriba. |
+| 3 conceptos de lámina | ✅ | #castings, #hardware y #en-directo, con objeto, sitio, pose, cuadro, letra y textos. |
+| 40 fuentes distintas | ✅ | Más de 40 webs enlazadas en el texto (lo mide `revisar.py`). |
+| Tipos de fuente | ⚠️ | Oficiales, japonés, wikis, foros, arte, vídeo, recursos y doblaje, sí. No: coreano, TV Tropes y Wayback (bloqueados), The Cutting Room Floor, ANMTV, ArtStation, GitHub. |
+| referencias.json | ✅ | Todas las útiles de las partes, las mejores primero, con tamaños medidos donde es imagen. |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes (`partes/*.md`) y lo que hizo el redactor. ✅ = dos fuentes o visto; ⚠️ = una fuente.
+
+### Recolector (`recolectar.py`, sin IA, 25-sep-2026)
+- [AniList](https://anilist.co/anime/21613) (ficha, staff, personajes, relaciones), [Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Saga_of_Tanya_the_Evil) (reparto y muestras de audio), [Danbooru](https://danbooru.donmai.us/posts?tags=youjo_senki), [Safebooru](https://safebooru.org), [Wallhaven](https://wallhaven.cc), [Sketchfab](https://sketchfab.com), [Dailymotion](https://www.dailymotion.com), [Internet Archive](https://archive.org), [Reddit r/YoujoSenki](https://www.reddit.com/r/YoujoSenki).
+- Sin resultados útiles: [Openverse](https://openverse.org) (vacío), [Steam](https://store.steampowered.com) (no hay juego), [MusicBrainz](https://musicbrainz.org) (trajo otras obras con «Senki»), [AnimeThemes](https://animethemes.moe) (error 522). El encargo no traía wiki: se usó `youjo-senki`.
+
+### Imagen (inglés)
+- API de la wiki de [Fandom](https://youjo-senki.fandom.com/api.php): búsqueda de «Viktoriya», wikitext de Tanya, Visha, *Weapons* y *Silver Wings Assault Medal*; categorías para comprobar que no hay lugares.
+- `investigar_serie.py --wiki youjo-senki --paginas "Tanya von Degurechaff" "Viktoriya Ivanovna Serebryakov"`: 121 imágenes, 86 grandes, 2 hojas. Tercera hoja con Pillow.
+- `estilo.py` sobre 4 imágenes oficiales y Pillow píxel a píxel para uniforme, vestido y bandera.
+- API de Sketchfab para las 3 armas (licencia y descarga). Safebooru con `youjo_senki+scenery`.
+- 6 búsquedas web (uniforme, figuras, Isekai Quartet, cosplay, pinceles, WorldCosplay).
+- Fallaron: [IMFDB](https://imfdb.org/wiki/Saga_of_Tanya_the_Evil) (403, dos intentos) e [ir23.org](https://ir23.org) (DNS).
+
+### Vídeo
+- `fotogramas.py` en 8 vídeos: OP de Dailymotion y de Internet Archive, tráiler T2, cap. 1, cap. 5 (dos clips), cap. 6 y tráiler de la película. `estilo.py` sobre 5 hojas de fotogramas.
+- 8 búsquedas web en inglés: temas musicales, AnimeThemes, compositor, temas de la T2, cap. 6, escenas icónicas, orbe y uniforme, efectos de sonido.
+- No: YouTube (bloqueado), AnimeThemes (522), MusicBrainz, Reddit directo, efectos de sonido, cap. 8.
+
+### Voz y personajes
+- API de Doblaje Wiki (wikitext completo) y AniList (columna *Spanish*) para cada nombre.
+- `voz.py` en 7 muestras: Tanya ×2, Visha, Weiss, Grantz, Drake y Von Han.
+- Búsquedas web en inglés (por qué la aman, citas, escenas de la T2, encuestas) y en español (fandubs, TikTok, covers).
+- [Arctic Shift](https://arctic-shift.photon-reddit.com) para Reddit: funcionó sin filtros, falló con filtros. El tráiler T2 en Dailymotion se cortó en `voz.py`.
+
+### Texto, juegos y técnica
+- Wiki (inglés): *allpages*, wikitext de Operation Orb, Terminologies, Military Rank, Field Assault Badge, Flight Gear, Silver Wings Assault Medal, Empire, Being X, Youjo Senki Timeline, Volume 1, Light Novel, Manga, el juego, Tanya, Sensen no Realism.
+- Búsquedas en inglés (estudio y 3DCG, letra del logo, juego, obras parecidas, estilo sepia, cartelas), en **japonés** («幼女戦記 アニメ 制作 インタビュー CG 演出», interfaz del juego, web oficial del juego) y en español (globos del manga).
+- Fuentes: [dafont](https://www.dafont.com/forum/read/350705/y-jo-senki-saga-of-tanya-the-evil-font), [The True Fork](https://truefork.org/wp/deciphering-youjo-senki-part-1-text/) (3 artículos), [4Gamer](https://www.4gamer.net/games/509/G050970/20201210187/), [gamebiz](https://gamebiz.jp/news/338324), [ANN](https://www.animenewsnetwork.com/news/2021-12-04/saga-of-tanya-the-evil-smartphone-game-ends-service-in-january/.180243), [Denfaminicogamer](https://news.denfaminicogamer.jp/interview/youjo-senki), [Google Fonts](https://fonts.google.com) (15 `.ttf` con fontTools).
+- Fallaron: [TV Tropes](https://tvtropes.org) (Cloudflare), [Wayback Machine](https://web.archive.org) (bloqueado por el proxy), [Wikimedia Commons](https://commons.wikimedia.org) (vacío), Wikipedia de NUT (no cargó el cuerpo). Coreano no buscado: la única pista coreana era otro juego.
+
+### Redactor
+- Leyó las cuatro partes y los `datos-*.md`; miró las 3 hojas y abrió en grande 6 imágenes de la wiki (nº 28, 30, 33, 52, 56, 64), con su tamaño por la API.
+- Midió con Pillow la gorra (`#7B111A`, `#35473A`, `#302F2F`), el despacho (`#FFE65A`, `#432A1C`), el puesto de mando (`#FCFFE9`, `#291912`) y el casco de sensores (`#A3B6B4`, `#63FFED`).
+- No hizo búsquedas web nuevas.
+
+### Lo que NO se encontró (buscado)
+- Encuesta oficial de popularidad. Capturas de la interfaz del juego. *Making of* técnico del estudio. Minuto y música de la muerte de Rudersdorf. Cover en español de los temas. Fandubs con vistas comprobadas. Frases latinas de la T2. Muestra de voz de Being X. Colaboraciones con marcas o cafés. Modelo libre del Mauser C96. Caras de tristeza y vergüenza de Tanya.
