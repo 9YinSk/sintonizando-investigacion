@@ -162,3 +162,10 @@ Cuenta: cuenta A104
 | 83-overlord | redactor (opus, cuenta .104) | opus | 10 | 240466 |
 | 84-no-game-no-life | redactor (opus, cuenta .104) | opus | 14 | 277299 |
 | 85-sword-art-online-todas | redactor (opus, cuenta .104) | opus | 11 | 228393 |
+
+## En marcha (sesión reanudada 2026-09-25 ~19:55 UTC)
+
+- 86-saga-of-tanya-the-evil: voz + video investigadores relanzados (imagen.md y texto.md ya estaban completos)
+- 87-tsukimichi-moonlit-fantasy: imagen + texto investigadores lanzados
+- guardar.sh --cada 300 relanzado (pid 24162)
+- send_later check-in: trig_011nfztpARXkZgq8C5ZHstJH (20:56 UTC)
