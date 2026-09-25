@@ -185,7 +185,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] 61-kung-fu-panda
 - [ ] 62-intensamente-inside-out
 - [ ] 63-las-guerreras-k-pop-kpop-demon-hunters
-- [ ] 64-steven-universe
+- [x] 64-steven-universe
 
 ## Tanda S17
 
@@ -237,7 +237,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 > Haz la tanda S22 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/85-sword-art-online-todas.md`, `encargos/86-saga-of-tanya-the-evil.md`, `encargos/87-tsukimichi-moonlit-fantasy.md`, `encargos/88-konosuba.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [ ] 85-sword-art-online-todas
-- [ ] 86-saga-of-tanya-the-evil
+- [x] 86-saga-of-tanya-the-evil
 - [ ] 87-tsukimichi-moonlit-fantasy
 - [ ] 88-konosuba
 

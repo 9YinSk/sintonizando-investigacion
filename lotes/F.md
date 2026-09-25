@@ -25,7 +25,7 @@ Cuenta: cuenta A104
   murieron antes de escribir nada (84 voz, 84 vídeo, 85 imagen) o a mitad de tanda (85 texto,
   con avance parcial guardado). Relanzados los 4 a las 13:0x UTC.
 - 85 Sword Art Online (todas): **COMPLETA y subida** (13:5x UTC). ✅26 ⚠️11 ❌0, 74 referencias, 52 webs, 828 líneas.
-- 86 Saga of Tanya the Evil: imagen y texto completos; lanzados voz y vídeo.
+- 86 Saga of Tanya the Evil: **COMPLETA y subida** (22:46 UTC). ✅15 ⚠️15 ❌0, 152 referencias, 51 webs, 946 líneas.
 - 87 Tsukimichi: lanzados imagen y texto.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
@@ -105,6 +105,7 @@ Cuenta: cuenta A104
 - **78 Vinland Saga:** ningún vídeo se vio en 1080p (YouTube dio 403 todo el rato); las escenas icónicas sólo se vieron en storyboard de baja resolución. El doblaje latino transcrito es sólo el de Netflix (Eduardo Garza); el de Crunchyroll (Alejandro Eguiza) quedó sin transcribir. No usar el doblaje con IA de Prime Video si aparece por ahí.
 - **Aviso a `recolectar.py`** (bug real, puede afectar a otras series con nombre ambiguo): en 79-demon-slayer-paisajes-y-auras, el AniList y los juegos de Steam que trajo `--hojas` correspondían a otra obra («Onigiri», AniList id 21612), no a Kimetsu no Yaiba. El investigador de texto lo detectó, lo anotó y repitió las consultas a mano con el id correcto (101922). No toqué el script; lo dejo anotado por si el dueño quiere que alguien lo arregle.
 
+- **86 Saga of Tanya the Evil:** personaje más querido es Tanya (6.458 favoritos en AniList, 1.461 dibujos en Danbooru); la segunda es Visha (761). Cuadro de diálogo propio: el parte militar rectangular de esquinas rectas en papel crema con letra Special Elite; radio en globo hexagonal con cola recta («Fairy 08»); pensamiento de Tanya en tira aparte. Láminas: A #castings (expediente de selección del 203.º Batallón, recomendada), B #hardware (banco de pruebas con casco de sensores y orbe Tipo 95), C #en-directo (radio de campaña con Visha narrando y Tanya volando). Quedan 136 ⚠️ en la biblia, casi todos datos de una sola fuente o sin minuto.
 ## Wikis de Fandom del lote
 
 - 77-wistoria-wand-and-sword: `wistoria`
