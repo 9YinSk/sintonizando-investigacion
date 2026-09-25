@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x8a2aga&t=20",
+    "fuente": "Dailymotion (Allociné, tráiler oficial de anuncio T1)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma del tráiler oficial de anuncio de la Temporada 1, Naofumi en primer plano",
+    "para_que": "Referencia de encuadre/luz de presentación del protagonista",
+    "licencia": "Vídeo oficial promocional, sólo como referencia (no descargar y usar el fotograma como arte final)"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8a2aga&t=70",
+    "fuente": "Dailymotion (Allociné, tráiler oficial de anuncio T1)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Naofumi con el escudo brillando en verde durante el combate del tráiler",
+    "para_que": "Referencia de pose de combate y del brillo/activación del escudo",
+    "licencia": "Vídeo oficial promocional, sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8o3ipu&t=80",
+    "fuente": "Dailymotion (Crunchyroll oficial, tráiler T3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Pantalla final del tráiler oficial de Crunchyroll de la Temporada 3 con el logo de la serie",
+    "para_que": "Referencia de tipografía del logo animado y color de marca",
+    "licencia": "Vídeo oficial de Crunchyroll, sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9ia4ma&t=65",
+    "fuente": "Dailymotion (Kadokawa Animation, PV oficial 1 T4)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Filo en su forma de ave filolial gigante en pleno vuelo, plumaje blanco con lazo rojo",
+    "para_que": "Única referencia de vídeo oficial de Filo conseguida; pose de vuelo",
+    "licencia": "PV oficial de Kadokawa Animation, sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9ia4ma&t=20",
+    "fuente": "Dailymotion (Kadokawa Animation, PV oficial 1 T4)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Boceto a lápiz (genga) de un personaje superpuesto al dibujo terminado, detrás de escena de animación",
+    "para_que": "Referencia del proceso de dibujo del estudio (útil para el punto 18, técnica)",
+    "licencia": "PV oficial de Kadokawa Animation, sólo como referencia"
+  },
+  {
+    "url": "https://archive.org/download/tt9529546-1-2/tt9529546-1-2.mp4",
+    "fuente": "Internet Archive (episodio 2, español latino, mp4 directo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Episodio completo con el OP 'RISE' (2:08-3:20) y el ED 'Kimi no Namae' (22:00-22:48)",
+    "para_que": "Fuente primaria para mirar el opening y el ending completos con minuto exacto",
+    "licencia": "Copia de fans en Internet Archive, sólo para investigación/referencia interna, no redistribuir"
+  },
+  {
+    "url": "https://archive.org/download/tt9529546-1-1/tt9529546-1-1.mp4",
+    "fuente": "Internet Archive (episodios 1-2, español latino, mp4 directo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Episodios 1 y 2 completos; contiene la escena del juicio falso (26:00-32:00) y la compra de Raphtalia (42:00-44:24)",
+    "para_que": "Fuente primaria de las escenas icónicas 1 y 2 del punto 2, con capítulo y minuto exacto",
+    "licencia": "Copia de fans en Internet Archive, sólo para investigación/referencia interna, no redistribuir"
+  },
+  {
+    "url": "https://archive.org/download/tt9529546-1-3/tt9529546-1-3.mp4",
+    "fuente": "Internet Archive (episodio 3, español latino, mp4 directo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Episodio 3 'Wave of Catastrophe' completo; primera Ola a los 11:00-15:00",
+    "para_que": "Fuente primaria de la escena icónica 3 del punto 2 y de la pose de Naofumi bloqueando fuego a los 14:00",
+    "licencia": "Copia de fans en Internet Archive, sólo para investigación/referencia interna, no redistribuir"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99263-IwkmdCTsDY1t.jpg",
+    "fuente": "AniList",
+    "ancho": 1600,
+    "alto": 900,
+    "que_es": "Banner oficial del anime en AniList",
+    "para_que": "Arte oficial de referencia general (uso principal del investigador de imagen)",
+    "licencia": "Material promocional oficial, uso editorial/referencia"
+  }
+]
