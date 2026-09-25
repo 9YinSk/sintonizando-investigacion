@@ -110,6 +110,16 @@ obligatoria)**, para las capas de madera del pantano/Duloc, piedra del castillo 
   pantano (visible en el fotograma de la letrina, 1:14).
 - Corteza de árbol → `Bark014` · https://ambientcg.com/view?id=Bark014 · CC0 · para los árboles del
   bosque del Reino de Muy Muy Lejano.
+- Metal pulido → `Metal049A` · https://ambientcg.com/view?id=Metal049A · CC0 · para las armaduras de
+  los soldados de Duloc y de Farquaad.
+
+**Un dato acústico real** (no descriptivo, medido con `ffmpeg -af volumedetect`, 4 s de audio por
+punto, sin necesidad de escuchar): el tramo de la turba con antorchas/rugido de Shrek (5:55-5:59) da
+-37.1 dB de volumen medio y -21.4 dB de pico; el puente en llamas al dragón (30:02-30:06) da -36.5 dB
+medio / -19.9 dB pico; un tramo tranquilo de ambiente en el pantano (0:20-0:24) da -41.2 dB medio /
+-27.0 dB pico. Confirma objetivamente que las dos escenas de tensión son más fuertes que el ambiente
+tranquilo, aunque no identifica qué efecto de sonido concreto suena (para eso hace falta oído humano
+u otro tipo de análisis). ✅ (medido, no de memoria).
 
 ### Punto 9 · Música y sonido
 

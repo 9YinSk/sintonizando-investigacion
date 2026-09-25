@@ -629,10 +629,9 @@ pasada (ver «No encontré»).
   **Teatro Catalina** (Chinandega, Nicaragua), 4:26, **12 311 vistas**, subido 28-sep-2021 —
   representación en vivo, en español, del número musical más citado de la franquicia; muestra
   que el fandom hispano no sólo dobla voces sino que monta el musical completo en teatros
-  locales. ✅ (Dailymotion API, `owner.username=Teatro Catalina`).
-  https://www.dailymotion.com/video/tVSNUNHA4q8 *(nota: enlace real es de YouTube, ver
-  bitácora — se deja el título/canal/vistas como dato verificado por yt-dlp antes del
-  bloqueo de esa consulta puntual)*.
+  locales. ✅ metadatos (título, canal, duración, vistas, fecha) confirmados con
+  `yt-dlp --print` antes de que la siguiente consulta topara con el bloqueo de sesión de
+  YouTube (ver bitácora): https://www.youtube.com/watch?v=tVSNUNHA4q8
 - **Covers de "All Star" y "Bienvenidos a Duloc" en español** (localizados por búsqueda web,
   no verificables en vistas exactas por el bloqueo de YouTube): «All Star - Shrek (Cover en
   Español Latino)» y «Shrek 1- Bienvenidos a Duloc» aparecen como resultados activos de
