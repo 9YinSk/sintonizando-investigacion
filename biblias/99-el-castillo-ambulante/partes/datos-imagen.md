@@ -4,13 +4,79 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/431_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx431-o8Lj3XkjHm2k.jpg
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/431-fLBlvTgdqLCz.jpg
+
+## Howl Jenkins Pendragon: las imágenes más grandes de la wiki (54 en total)
+_Fuente: https://ghibli.fandom.com/wiki/Howl_Jenkins_Pendragon_
+
+- 4664×2160 · Hd-wallpaper.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/1/15/Hd-wallpaper.jpg
+- 1920×1038 · Young howl.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/d/d1/Young_howl.jpg
+- 1920×1038 · Sophie x howl.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/0/01/Sophie_x_howl.jpg
+- 1920×1038 · Sophie tnt dynapoop.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/1/11/Sophie_tnt_dynapoop.jpg
+- 1920×1038 · Sophie im sorry.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/9/94/Sophie_im_sorry.jpg
+- 1920×1038 · Sophie howl.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/0/0e/Sophie_howl.jpg
+- 1920×1038 · Sophie and the crew.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/8d/Sophie_and_the_crew.jpg
+- 1920×1038 · Howls-moving-castle-disneyscreencaps.com-13563.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/5/52/Howls-moving-castle-disneyscreencaps.com-13563.jpg
+- 1920×1038 · Howls-moving-castle-disneyscreencaps.com-13376.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/e/e5/Howls-moving-castle-disneyscreencaps.com-13376.jpg
+- 1920×1038 · Howls-moving-castle-disneyscreencaps.com-13338.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/8e/Howls-moving-castle-disneyscreencaps.com-13338.jpg
+
+## Howl Jenkins Pendragon · Appearance (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Howl_Jenkins_Pendragon#Appearance_
+
+Howl is a tall slender young, handsome man with bright blue eyes and hair that reaches below his chin. At the beginning of the film, his hair is blonde, but because of an incident while Sophie is cleaning Howl's bathroom, he briefly comes to have orange hair, before it finally turns black. Throughout the film, he is seen wearing a plain white shirt and dark pants, with a plaid coat in red and a blue-ish shade of grey, which has yellow rims and sleeve ends. Howl barely uses the sleeves at all and instead lets the coat loosely hang on top of his shoulders. Additionally, he wears a pendant around his neck. In times of danger, he is shown making use of his magical abilities by turning himself into a bird-like creature. His body is then completely covered in black feathers, the only space not affected being the main part of his face. Two black broad wings are shown either on his back or in…
+
+## Sophie Hatter: las imágenes más grandes de la wiki (164 en total)
+_Fuente: https://ghibli.fandom.com/wiki/Sophie_Hatter_
+
+- 1593×3161 · Rare sophie image.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/7/7a/Rare_sophie_image.jpg
+- 2668×1500 · Sophie cry.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/6/64/Sophie_cry.jpg
+- 2668×1500 · Legends - Lil Peep.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/1/1a/Legends_-_Lil_Peep.jpg
+- 1920×1080 · Sophie sleep (1).jpg · https://static.wikia.nocookie.net/studio-ghibli/images/2/29/Sophie_sleep_%281%29.jpg
+- 1920×1080 · Sophie lettie.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/c/ce/Sophie_lettie.jpg
+- 1920×1080 · Sophie holds bucket.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/4/44/Sophie_holds_bucket.jpg
+- 1920×1080 · Sophie door 2.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/0/0a/Sophie_door_2.jpg
+- 1920×1080 · Sophie blu ray.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/5/51/Sophie_blu_ray.jpg
+- 1920×1080 · Sophie blu ray 2.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/8c/Sophie_blu_ray_2.jpg
+- 1920×1080 · Sophie (52).jpg · https://static.wikia.nocookie.net/studio-ghibli/images/4/44/Sophie_%2852%29.jpg
+
+## Sophie Hatter · Appearance (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Sophie_Hatter#Appearance_
+
+Sophie is a relatively plain yet pretty looking slender fair skinned 18-year-old young woman of average height who works at her father's hat shop. She has a straight slim nose and large almond dark chocolate brown eyes and matching dark chocolate brown hair, tied with two pink ribbons in a long braid. She has thick dark brown eyebrows, and Howl says that her smile is beautiful. She wears a cerulean dress with a white neck and black buttons. After receiving a curse by the Witch of the Waste, she is transformed into a 90-year-old woman. She adapts quickly to her situation, remarking she has become more cunning in her old age. As elder Sophie, she continues to wear her cerulean dress, pairing it with a straw hat adorned with a red ribbon. .]]Due to her love for Howl, Sophie de-ages depending on her emotional state. When defending Howl to Sullivan, Sophie briefly regains her original…
+
+## Calcifer: las imágenes más grandes de la wiki (20 en total)
+_Fuente: https://ghibli.fandom.com/wiki/Calcifer_
+
+- 1920×1038 · Sophie tnt.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/f/fb/Sophie_tnt.jpg
+- 1920×1038 · Sophie booty.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/5/5a/Sophie_booty.jpg
+- 1920×1038 · Sophie and the crew.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/8d/Sophie_and_the_crew.jpg
+- 1920×1038 · Sophie and cal.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/e/e2/Sophie_and_cal.jpg
+- 1920×1038 · Ree.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/a/ac/Ree.jpg
+- 1920×1038 · QUACK.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/c/cc/QUACK.jpg
+- 1920×1038 · Howls-moving-castle-disneyscreencaps.com-3555.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/4/40/Howls-moving-castle-disneyscreencaps.com-3555.jpg
+- 1920×1038 · Howls-moving-castle-disneyscreencaps.com-13613.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/1/19/Howls-moving-castle-disneyscreencaps.com-13613.jpg
+- 1920×1038 · Howl048.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/6/63/Howl048.jpg
+- 1920×1038 · Howl044.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/2/21/Howl044.jpg
+
+## Calcifer · Appearance (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Calcifer#Appearance_
+
+Calcifier appears as a living ball of fire with eyes and a mouth. He is usually orange-yellow, but this seems to change with his emotions and size. Calcifier's size also changes depending on the type and amount of fuel he is running on.
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de ghibli.fandom.com (3 páginas y sus galerías)…
+  202 imágenes enlazadas, 176 grandes → 4 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/el-castillo-ambulante
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
