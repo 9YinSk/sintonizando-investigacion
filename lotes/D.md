@@ -1,8 +1,9 @@
 # Lote D: series nuevas 37-56
 
-Sesión: https://claude.ai/code/session_017Bdo1vVTP52B1g5XVhioTn · rama `claude/ecstatic-rubin-o122ix`
+Sesión: https://claude.ai/code/session_016HuCL65kBZKca82w7q7wBB · rama `claude/gracious-rubin-uq9tb3`
 Cuenta: cuenta I43
-(sigue desde `claude/cool-galileo-vpncap`, sesión session_01Efg124nG5yQM7nZKhrgVfM, que hizo 37-40).
+(sigue desde `claude/ecstatic-rubin-o122ix`, sesión session_017Bdo1vVTP52B1g5XVhioTn, que dejó 41-43 a medias;
+antes, `claude/cool-galileo-vpncap`, sesión session_01Efg124nG5yQM7nZKhrgVfM, que hizo 37-40).
 
 ## Estado
 
