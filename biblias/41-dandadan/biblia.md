@@ -544,3 +544,369 @@ Un cartel de lámina puede terminar igual en español: «…¿a poco no?».
   rojo es un error que el director evita a propósito.
 
 ---
+
+## 8 · Los personajes: qué transmiten, su cara y sus dinámicas
+
+Fuentes: la sección *Personality* de cada ficha de la
+[wiki en inglés](https://dandadan.fandom.com/wiki/Momo_Ayase) (leída
+entera por la parte de voz), el *Dandadan Daizukan* que cita la wiki,
+[AniList](https://anilist.co/character/222594) y los fotogramas con
+minuto de las partes. Las frases entre comillas son del subtítulo
+inglés o de la transcripción japonesa, **no del doblaje latino** (ése,
+en §10).
+
+### 8.1 Momo Ayase — la que no deja pasar una injusticia
+
+- **Carácter.** Audaz, segura, brusca. Casi nada la intimida. Pierde los
+  estribos rápido, sobre todo si la desprecian o si sus amigos hacen
+  tonterías; reacciona con violencia cómica y **se arrepiente si se
+  pasa**. A la vez es cálida y alegre: **no puede mirar a otro lado**
+  ante una injusticia. Por eso defiende a Okarun sin conocerlo (ep. 1,
+  16:00) ✅.
+- **Historia.** Vive con su abuela **Seiko**, médium, que la crió sola:
+  «no tengo padres» (ep. 1, 8:00-10:00). De niña se avergonzó de los
+  rituales de la abuela cuando el chico que le gustaba se burló; le dijo
+  «falsa médium» y dejó de hablarle hasta hace poco ✅ (ep. 1, 9:00 y
+  17:00).
+- **Qué le importa, qué teme.** Su abuela y sus amigos. Que la llamen
+  tonta o «de pueblo». Su primer amor (Jiji) la dejó desconfiada del
+  romance ✅.
+- **Qué transmite.** Fuerza con cariño. Da gusto verla ponerse delante
+  de alguien. Es la gyaru que protege al raro de la clase.
+- **Su arco.** No cree en extraterrestres → ve un OVNI, **despierta su
+  poder** y se reconcilia con el legado de la abuela («gracias, abuela»,
+  ep. 1, 18:00) → en el último arco pierde la memoria de todo lo vivido
+  con Okarun (§26).
+- **Cómo habla.** Dice **うち** («yo», de chica de barrio), マジ,
+  超ウケる («qué risa»), うるせーな («cállate») y la muletilla **じゃん**
+  (§7.3). Corta, directa, insulta sin pensarlo. En Crunchyroll, con
+  modismos mexicanos; en Netflix, más neutra (§10).
+- **Cómo se ríe.** Cabeza hacia atrás, ojos cerrados, mano en el pelo
+  (ep. 1, 21:54); o **llora de risa** con la boca muy abierta (ep. 5,
+  15:12).
+- **Cómo se enfada.** Grita con la boca enorme (ep. 1, 4:45), roja de
+  furia (ep. 5, 9:00).
+- **Cómo explica.** Con una historia personal y sin rodeos: «mi abuela
+  me crió sola, por eso creo en fantasmas» (ep. 1, 10:00).
+- **Cómo saluda.** ⚠️ No está en las partes.
+- **Cuerpo.** Manos en los bolsillos al caminar, hombros relajados;
+  cuando pelea, puños cerrados y el cuerpo hacia delante (§15.1).
+- **Su técnica.** La de la abuela: «**mete fuerza bajo el ombligo y
+  saca el *ki* por la coronilla**» (ep. 1, 17:00). Es, casi palabra por
+  palabra, el apoyo de un cantante.
+
+### 8.2 Okarun (Ken Takakura) — el raro que se vuelve valiente
+
+- **Carácter.** Se describe a sí mismo como torpe con la gente.
+  Obsesionado con lo paranormal (OVNIs, críptidos) **desde niño, porque
+  no tenía amigos**: intentaba contactar con extraterrestres para tener
+  alguno. Complejo de inferioridad que no se le quita ni siendo amigo de
+  Momo ✅ (wiki).
+- **Historia.** Sufrió acoso. De niño llamaba al cielo con su revista
+  en la mano: «**No matter how much I called for you, you never showed
+  up!**» (ep. 1, 15:47). Momo es la primera que lo defiende (16:00).
+- **Qué le importa, qué teme.** No encajar; que Momo prefiera a Jiji;
+  **perder el control** de la maldición («Please help! I can't control
+  myself!», ep. 1, 14:39).
+- **Qué transmite.** Ternura. El que nunca tuvo a nadie y, cuando lo
+  tiene, se juega todo: «**If it's for her sake, I'll even become a
+  monster!**» (ep. 1, 16:12).
+- **Su arco.** Maldito por Turbo Granny → gana su velocidad → hace
+  amigos y se entrena (se le marcan los músculos) (§26).
+- **Por qué «Okarun».** Se llama como el actor que idolatra Momo, **Ken
+  Takakura**, y ella se niega a llamarlo así ([AniList](https://anilist.co/character/222593)) ✅.
+  Encima suelta la frase más famosa del actor, «**自分、不器用なんで**»
+  («soy un tipo torpe»), y Momo se sobresalta (ep. 1, 21:00-21:30).
+- **Cómo habla.** Dice **自分** («yo», tieso, a la antigua) y trata a
+  Momo de usted («Ayase-san»). **Tartamudea** cuando se pone nervioso
+  («あ、あ、あやせさ», «倒ぼぼぼ倒しましたよね», ep. 5, 13:00-14:00).
+  Pide perdón a cada rato («すいません», ep. 1, 20:00-21:00). Es
+  **pedante**: «No es OVNI, es UAP» (ep. 1, 4:00). **Por teléfono
+  habla con soltura** (ep. 1, 10:00). Una frase suya que lo resume:
+  «¿Hace falta una razón para que te guste algo?» (好きなものに理由が
+  必要なんですか?, ep. 1, 10:00).
+- **Cuerpo.** **Dos dedos en el puente de los lentes** (tráiler, 0:16;
+  ep. 5, 14:18-14:50; hoja 2 n.º 86). Se rasca la nuca cuando se
+  avergüenza (ep. 1, 21:29). Encogido de hombros.
+- ⚠️ La parte de voz dice que grita «¡Nyoron!» al transformarse. **No
+  lo confirma ninguna fuente**, y «Nyoro~n» sale en la página de
+  mantenimiento de AnimeThemes: probablemente es una confusión. No
+  usarlo.
+
+### 8.3 Turbo Granny (Turbo Babaa; «Turbo Abuela» en Netflix, «Turbo Ruca» en Crunchyroll)
+
+- **Carácter.** Cruel, sádica y «**extremadamente malhablada**» (texto
+  literal de la wiki). Vulgar: le ofrece a Okarun sus pechos a cambio
+  de sus «joyas de la familia». **Orgullosa de su velocidad**: no
+  soporta que la subestimen. **Hace trampa** si hace falta: en el juego
+  de las traes contó mal a propósito ✅ (wiki).
+- **Su lado oculto.** Según Seiko, solía ir a **consolar a los espíritus
+  de niñas muertas trágicamente**; por eso se fundió con el cangrejo
+  espíritu del túnel de Shono ✅ (wiki).
+- **Historia y arco.** Leyenda urbana real: la vieja que persigue coches
+  en los túneles ([fun-japan.jp](https://www.fun-japan.jp/en/articles/14048)) ✅.
+  Villana del primer arco → le roba las «bolas» a Okarun y lo posee →
+  la **sellan en un gato de la suerte** (maneki-neko) → vive en casa de
+  Seiko, gruñendo, como aliada a regañadientes (§26).
+- **Qué transmite.** Peligro y carcajada a la vez. El fandom la quiere
+  **por grosera**, no por tierna (§14).
+- **Cómo habla.** Dice **わし** («yo», de viejo), llama a Okarun
+  **こぞう** («mocoso»), habla golpeado: «si lo quieres de vuelta, **ven
+  al túnel**» (ep. 1, 19:00). Su dicho favorito, según el *Daizukan*:
+  «**shiiit**». En el doblaje de Crunchyroll, Magda Giner le pone **el
+  tono de Zim** (*Invasor Zim*) ✅ (Doblaje Wiki).
+- **Cuerpo.** Encorvada, a cuatro patas cuando corre, brazos en alto con
+  garras cuando ataca (§15.3). En el gato: cara de fastidio (hoja 1
+  n.º 40).
+- **Cuando posee a alguien**, su víctima se vuelve un reflejo de ella
+  con una boca enorme ([AniList](https://anilist.co/character/239956)).
+  Por eso su «cara de malicia» del ep. 1 (14:27-14:46) está en el
+  **cuerpo de Okarun**: «Lemme gobble that weenie!» (14:46) es ella
+  hablando por él.
+
+### 8.4 Aira Shiratori — la reina del instituto que no es lo que parece
+
+- **Carácter.** Por fuera, dulce, inocente y algo despistada. Por
+  dentro, **vanidosa, arrogante e insensible** con quien no es de su
+  círculo. Usa su belleza para burlarse de los chicos. Cuando pierde la
+  popularidad se muestra tal cual: **orgullosa, seria, un poco
+  mandona** (se autoproclama líder del grupo). Pero capaz de **empatía
+  de verdad**: ayuda a Acrobatic Silky a alcanzar el nirvana, llora con
+  la historia de Bamora, se derrite con lo tierno. Enamorada de Okarun
+  sin disimular; celosa ✅ (wiki, texto entero).
+- **Por qué es así.** Perdió a su madre de niña. Su padre le pidió que
+  fuera una mujer de la que su madre «estuviera orgullosa», y ella lo
+  entendió mal: ser popular a toda costa ✅ (wiki).
+- **Qué le importa.** Su reputación; luego, su grupo. Se cree **«la
+  elegida»** para proteger el mundo del mal, y decide que Momo es un
+  demonio ([AniList](https://anilist.co/character/245466)) ✅.
+- **Qué transmite.** Primero rabia, luego ternura. El ep. 7 hace llorar
+  (§22).
+- **Cómo habla.** Dos voces. En público: «すみません», «痛くなかった
+  ですか» («¿no te hice daño?»), «本当にごめんなさい» (ep. 5, 11:00-12:00).
+  En privado: «ese otaku puso una cara de tonto», «seguro que ya se
+  enamoró de mí», «**es divertido hacer que los perdedores se enamoren
+  de ti**» (カスを好きにさせるの), «le estoy regalando un sueño» (ep. 5,
+  12:00-13:00). Y «**I mean, I'm all too pretty!**» (ep. 6, 7:00). Su
+  lema: «**lo lindo es justicia**» (*Daizukan*).
+- **Cuerpo.** En público, inclinada y con las manos juntas; en privado,
+  de espaldas, haciendo la V con sus amigas (ep. 5, 12:53) (§15.4).
+
+### 8.5 Seiko Ayase — la abuela médium (secundaria muy querida)
+
+6.ª en la encuesta oficial y 4.ª en AniList (2200 favoritos) (§9).
+
+- Pelo blanco recogido con una tela blanca, **lentes rojos**, camiseta
+  de tirantes; en el key visual, **bate de béisbol** y chaqueta bordada
+  (hoja 3 n.º 6 y 25). Aparenta mucha menos edad y es muy guapa
+  ([AniList](https://anilist.co/character/234824)).
+- En el ep. 5 (15:17-17:23): examina a Okarun, fuma (16:09), le pega
+  con un abanico de papel, parodia al profesor Kinpachi («el kanji de
+  *persona* son dos palos que se apoyan», 16:24) y da órdenes:
+  «**Momo! Bring me a doll, I don't care what!**» (15:50), «The instant
+  the aura changes colors, pull out that aura» (16:45).
+- Su alias de médium en el doblaje: «**Santa Dodoria**» (Netflix) o
+  «**Dodoria Santa**» (Crunchyroll), ep. 3 (Doblaje Wiki) ✅.
+
+### 8.6 Su cara en cada emoción ⚠️ (13 de 20 con fotograma y minuto)
+
+| | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Momo** | ✅ risa, cabeza atrás (ep. 1, 21:54); llora de risa (ep. 5, 15:12) | ✅ ceño y mirada fija (ep. 1, 2:00); boca enorme (4:45); roja (ep. 5, 9:00) | ✅ lágrimas grandes (ep. 7, 18:45) | ❌ **falta** | ✅ **rubor, mano en la cabeza, mirada abajo**: «I'm not embarrassed about being friendly to you» (ep. 5, 14:26); sonrisa ruborizada (14:43) |
+| **Okarun** | ⚠️ «I'm very happy that I could make amends with you», levantándose los lentes (ep. 5, 14:34); el brillo de los lentes le tapa los ojos | ✅ mirada fija leyendo su revista (ep. 1, 4:15); puño cerrado (7:45) | ✅ **ojos llorosos tras los lentes**: «She actually stood up for me» (ep. 1, 16:02) | ✅ boca abierta, ojos como platos (ep. 1, 4:30); pálido con lágrimas (19:15) | ✅ cabeza baja (ep. 1, 21:30); «So please don't be disappointed with me» (ep. 3, 14:15) |
+| **Turbo Granny** | ❌ falta | ✅ ojos amarillos en la oscuridad (ep. 1, 10:55); forma yokai atacando (18:41-18:59); su cara en Okarun poseído (14:46) | ❌ falta (sólo un producto: el Noodle Stopper con una lágrima, hoja 3 n.º 28) | ❌ falta | ❌ falta |
+| **Aira** | ✅ sonrisa de suficiencia (ep. 6, 7:00); sonrisa halagadora (ep. 5, 12:15) | ✅ perfil serio, ceño (ep. 6, 6:30-6:45) | ❌ **falta** despierta | ✅ mirada tensa hacia atrás (ep. 6, 13:15); sorprendida (ep. 5, 13:36) | ❌ **falta** |
+
+**Lo que dice la parte de voz** (agotó sus 2 tandas):
+
+- Miró completos los episodios **1 a 8** (fotogramas cada 15 s) y el
+  tráiler, más 15 fotogramas sueltos del ep. 3.
+- **Vergüenza de Momo**: no la encontró en los eps. 1-7. **El redactor
+  la vio** en la hoja de la parte de vídeo (ep. 5, n.º 243, 14:26):
+  ese hueco queda cerrado.
+- **Aira despierta, tristeza y vergüenza**: en el ep. 7 sólo sale
+  inconsciente (0:30); **el ep. 8 no tiene a Aira**; los eps. 9-11 no
+  se miraron. La wiki dice que se sonroja a menudo con Okarun y que
+  llora con la historia de Bamora, **sin minuto**.
+- **Turbo Granny**: en los eps. 1, 5-6 y 7 sólo sale amenazando. Su
+  *Daizukan* tampoco describe esas caras. Su única cara segura es la de
+  amenaza y burla.
+- **Miedo de Momo**: ninguna parte lo tiene (el redactor lo nota; no
+  está en la lista de la parte de voz).
+
+**Pistas para la próxima tanda** (de `episodios.md`, sin mirar la cara):
+Momo dice «perdón, abuela, entonces sólo me daba **vergüenza**» (ep. 1,
+~17:10); Aira sale en la niebla con la niña en el ep. 7 (hoja 1 n.º 22,
+«Episode 7.png», sin minuto); probar los eps. 9, 10 y 11 para Aira
+([ep. 9](https://archive.org/details/s-01.-e-09_202411),
+[ep. 10](https://archive.org/details/s-01.-e-10_202412),
+[ep. 11](https://archive.org/details/s-01.-e-11_202412)). En el ep. 10
+Turbo Ruca discute con Okarun mientras comen (Doblaje Wiki): quizá haya
+más caras del gato.
+
+### 8.7 Los secundarios más queridos (sólo ficha)
+
+| Personaje | Encuesta oficial | AniList | Qué es | Voces latinas (Netflix / Crunchyroll) |
+|---|---|---|---|---|
+| **Jiji** (Jin Enjōji) | 4.º | 1782 fav. | amigo de la infancia y primer amor de Momo; hiperactivo, gestos dramáticos, **muletillas raras al final de las frases**, futbolero; noble debajo ([AniList](https://anilist.co/character/258506)) | Dalí González / Marc Winslow |
+| **Seiko Ayase** | 6.ª | 2200 fav. | §8.5 | Karla Falcón / Xóchitl Ugarte |
+| Zuma, Bamora, Rokuro Serpo, Kinta | 7.º-10.º | — | de la T2 en adelante | — |
+| Penny Chinkosu (Dover Demon) | — | 242 fav. | trabaja para los Serpo para pagar las transfusiones de su hijo Chiquitita | Irwin Daayán (Netflix) |
+| Acrobatic Silky | — | 114 fav. | mujer alta, pelo negro sedoso, sombrero y vestido rojos, sonrisa de pintalabios permanente | Rosalba Sotelo |
+
+En Reddit, un hilo de 836 votos dice que **Jiji es su favorito**
+([r/Dandadan](https://www.reddit.com/r/Dandadan/comments/1mm0tss/after_completing_the_recent_episode_jiji_is_by/)).
+
+### 8.8 Dinámicas para láminas en grupo ✅
+
+| Pareja | Cómo es | Escena |
+|---|---|---|
+| Momo y Okarun | discuten (fantasmas contra extraterrestres), se protegen, se piden perdón con vergüenza a la vez; **él la hace reír**, ella lo saca de su cascarón | ep. 1, 4:00-7:00; ep. 5, 14:11-15:12 |
+| Momo y Aira | rivales («es un demonio») que acaban amigas; se insultan | ep. 6, 6:45 |
+| Okarun y Aira | ella está enamorada y celosa; él no se entera | ep. 5, 11:49 |
+| Okarun y Turbo Granny | ella lo posee; luego discuten comiendo | ep. 1, 14:27; ep. 10 (Doblaje Wiki) |
+| Momo y Seiko | la abuela que la crió sola; Momo se avergonzó de ella y le pide perdón | ep. 1, 17:00-18:00 |
+| Seiko y Okarun | la abuela lo examina y le pega; él aguanta en *seiza* | ep. 5, 15:17-16:45 |
+| Okarun y Jiji | rivales por Momo sin decirlo; cantan juntos los temas de *Slam Dunk* | ep. 12 (§11) |
+
+---
+
+## 9 · ¿Quién es el más querido?
+
+### 9.1 Los números
+
+| Fuente | 1.º | 2.º | 3.º | 4.º | 5.º | Otros |
+|---|---|---|---|---|---|---|
+| **1.ª encuesta oficial** (Shueisha/Jump+, 16-dic-2024) ✅ | **Okarun** 38.699 | Momo 25.763 | **Turbo Granny** 22.920 | Jiji | Aira 14.271 | 6.ª Seiko, 7.º Zuma, 8.º Bamora, 9.º Rokuro Serpo, 10.º Kinta |
+| Favoritos del autor (tuit de VIZ) ✅ | Momo | Okarun | Aira | — | — | Tatsu esperaba que ganara «el cangrejo de Hokkaido» |
+| [AniList](https://anilist.co/anime/171018) (fandom internacional) ✅ | **Momo** 7357 | Aira 6137 | Okarun 4709 | Seiko 2200 | Jiji 1782 | Turbo Granny 871 (6.ª) |
+| [Danbooru](https://danbooru.donmai.us/posts?tags=dandadan) (cuánto se dibuja) ✅ | **Momo** 4302 | Okarun 3220 (+1196 transformado) | Turbo Granny 1018 | Seiko 879 | Aira 824 (+159 transformada) | Jiji 553 |
+
+Fuentes de la encuesta: [wiki, Popularity Polls](https://dandadan.fandom.com/wiki/Popularity_Polls),
+[Game Rant](https://www.gamerant.com/dandadan-reveals-results-of-popularity-poll/) y
+[Oricon](https://us.oricon-group.com/news/2823/). Favoritos del autor:
+[tuit de VIZ Media](https://x.com/VIZMedia/status/1843003291971846296).
+
+En Reddit ([r/Dandadan](https://www.reddit.com/r/Dandadan/)): «Unpopular
+Opinion: Aira's the Most Beautiful Female Character» (2021 votos),
+«Aira and Momo carry every time when it comes to fights» (1218), y el
+hilo de Jiji (836) ✅.
+
+### 9.2 Qué significa para la lámina
+
+- **Los cuatro del encargo están en el top 5 oficial.** No hay un
+  secundario escondido que gane al protagonista: Okarun gana en Japón y
+  Momo fuera.
+- **Turbo Granny es la secundaria más votada** (3.ª, por delante de
+  Aira y Jiji). Merece su propia lámina (§27 B).
+- **Aira se vota más de lo que se dibuja**: 2.ª en AniList y 5.ª en la
+  encuesta, pero la última de los cuatro en Danbooru. El fan art no mide
+  todo el cariño.
+- Público latino: **ninguna encuesta latinoamericana** en las partes ⚠️.
+
+---
+
+## 10 · Doblaje latino y frases textuales
+
+### 10.1 La ficha ✅
+
+Hay **dos doblajes latinos**, los dos hechos en Ciudad de México
+([Doblaje Wiki, por la API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Dan_Da_Dan)):
+
+| | **Netflix** | **Crunchyroll** |
+|---|---|---|
+| Estudio | New Art | Audiomaster Candiani |
+| Dirección | **Irwin Daayán** | **Gerardo Márquez** (también dirección musical) |
+| Traducción | Fernando Gurrea | Antonio Valdez (el traductor del manga de Panini) |
+| Adaptación | — | Jaime Chaparro; adaptación musical, Luis Miguel Morales |
+| Guion base | el guion internacional en inglés | los subtítulos de Crunchyroll |
+| Estreno | 3-oct-2024, a la vez que Japón | 24-oct-2024, con 3 semanas de retraso |
+| Estilo | groserías y vocabulario neutro, algo coloquial | **jerga mexicana**, anglicismos, cultura pop e internet |
+| Nombres japoneses | pronunciación llana | pronunciación esdrújula |
+| Canciones de la serie | **en japonés** | **dobladas al español** |
+
+- El primer doblaje, en **Iyuno México**, iba avanzado y se perdió por
+  la **filtración del 9-ago-2024**. Netflix lo rehízo en New Art sin
+  nadie del equipo anterior ✅ (Doblaje Wiki).
+- Gerardo Márquez **ya seguía el manga** y llevó **su colección de
+  tomos** al estudio para enseñar las escenas a los actores ✅ (Doblaje
+  Wiki).
+- Anuncios oficiales: [ANMTV, Netflix](https://www.anmtvla.com/2024/10/dandadan-se-estrena-con-con-doblaje.html)
+  y [ANMTV, Crunchyroll](https://www.anmtvla.com/2024/10/dandadan-recibe-un-segundo-doblaje.html) ✅.
+
+### 10.2 Quién dobla a cada uno (dos fuentes por nombre) ✅
+
+| Personaje | Seiyū | Netflix | Crunchyroll | Fuentes |
+|---|---|---|---|---|
+| Momo Ayase | Shion Wakayama | **Azucena Estrada** | **Alicia Vélez** | Doblaje Wiki + ANMTV (las dos) |
+| Okarun | Natsuki Hanae | **José Luis Piedra** | **Iván Bastidas** | Doblaje Wiki + ANMTV |
+| Turbo Granny | Mayumi Tanaka | **Rebeca Patiño** | **Magda Giner** | Doblaje Wiki + ANMTV |
+| Aira Shiratori | Ayane Sakura | **Fernanda Gastélum** | **Elizabeth Infante** | Doblaje Wiki + [Anime Argentina](https://animeargentina.net/fernanda-gastelum-voz-de-aira-shiratori-en-dandadan/) / Instagram de @wdn.es y sonica.mx |
+| Seiko Ayase | Nana Mizuki | Karla Falcón | Xóchitl Ugarte | Doblaje Wiki + ANMTV |
+| Jiji | Kaito Ishikawa | Dalí González | Marc Winslow | Doblaje Wiki + AniList ⚠️ (Winslow, sólo Doblaje Wiki) |
+
+**Lo que un fan del doblaje sabe** (Doblaje Wiki) ✅:
+
+- Azucena Estrada y Alicia Vélez (las dos Momo) ya compartieron a
+  **Gin Akutagawa** en *Bungo Stray Dogs*.
+- José Luis Piedra e Iván Bastidas (los dos Okarun) son **Zenitsu y
+  Tanjiro** en *Demon Slayer*.
+- Magda Giner rechazó primero el papel en Netflix (pocos *loops* y
+  presencial); meses después la llamó Crunchyroll para el mismo
+  personaje.
+- Marc Winslow es el único del reparto principal de Crunchyroll que sale
+  también en Netflix (allí es Kinta).
+- De niños, en Netflix: Sarah Mendoza (Momo), Ximena Frutos (Aira),
+  Elian Garcés (Jiji). En Crunchyroll los hacen los mismos adultos.
+
+### 10.3 Frases textuales, con su vídeo y minuto
+
+**Oídas con `voz.py`** (Whisper) en el episodio 1 con **audio latino de
+Crunchyroll** ([Internet Archive](https://archive.org/details/dan-da-dan-latino-01)):
+
+| Frase | Quién | Minuto | Cómo suena |
+|---|---|---|---|
+| «**Nos va a tener que dar su banana**» | los Serpo | [14:59](https://archive.org/details/dan-da-dan-latino-01?t=899) ✅ | agudo (304 Hz), muy expresivo (29,6 semitonos), 2,84 palabras/s |
+| «**Maldito ladrón de bananas**» | los Serpo | [15:13](https://archive.org/details/dan-da-dan-latino-01?t=913) ✅ | — |
+| «no me jodas», «a la chingada» | la llamada del principio (Momo y su novio) | [1:31-2:28](https://archive.org/details/dan-da-dan-latino-01?t=91) ⚠️ | 214 Hz, 32,4 semitonos, 3,01 palabras/s. Whisper transcribe con ruido: revisar de oído |
+
+**Citadas por Doblaje Wiki** con su episodio (⚠️ sin minuto; no las
+oímos):
+
+| Frase | Versión | Episodio | De dónde viene |
+|---|---|---|---|
+| «**Chico misterio**» (Momo a Okarun, antes de saber su nombre) | Netflix | 1 | — |
+| «**Ocultista**» (lo mismo) | Crunchyroll | 1 | apodo de Manga Plus |
+| «**Turbo Abuela**» | Netflix | todos | Manga Plus |
+| «**Turbo Ruca**» | Crunchyroll | todos | el manga de Panini |
+| «**Jaimito Maussan**» (así le decían a Okarun de niño) | Crunchyroll | 1 | Jaime Maussan, ufólogo mexicano |
+| «**Santa Dodoria**» / «**Dodoria Santa**» (alias de Seiko) | Netflix / Crunchyroll | 3 | — |
+| «**¿Te parece que somos ricos?**» (Turbo Ruca a Okarun, comiendo) | Crunchyroll | 10 | **Lois de *Malcolm***, también de Magda Giner. Meme |
+| «a mi lado por siempre, **chiquita**» (Okarun, final del ending de *Slam Dunk*) | Crunchyroll | 12 | letra latina de 1998 de Loretta Santini, con una palabra cambiada |
+| «**quiere unas pataditas en sus costillitas**» (Momo, pateando el cadáver de la Gran Serpiente) | Netflix | 14 | **Número 1** de *KND*; Azucena engrosa la voz en homenaje a Blas García |
+| «**Jennifer López, Anaconda**» (técnica de Naki Kito) | Netflix | — | Yolanda Vidal dobló a J. Lo en *Anaconda* |
+| «**Mega Rayo Ternuri**» (Moe Moe Kikoho) | Crunchyroll | 19 | en Netflix se deja «Moe Moe Kikoho», guiño a Ten Shin Han |
+| «**Oye, despacio cerebrito**» (Momo a Okarun) | **Netflix** | penúltimo de la T2 | el Jefe Gorgory, *Los Simpson*. Meme |
+| «**¡Cállense, cállense que me desesperan!**» (Momo) | **Netflix** | último de la T2 | **Quico**, *El Chavo del 8* |
+
+⚠️ **Corrección**: la parte de voz pone las dos últimas en Crunchyroll.
+En el wikitext de Doblaje Wiki están bajo «Versión Netflix».
+
+**La actriz de Aira (Netflix), sobre grabar el ep. 7** ✅
+([Anime Argentina, 24-ago-2025](https://animeargentina.net/fernanda-gastelum-voz-de-aira-shiratori-en-dandadan/)):
+«Ese día yo llegué al estudio y tenía poco para grabar… me dieron ganas
+de llorar y el director me dijo si necesitaba un momento y yo le dije
+que no… el resultado fue maravilloso.» Y: «Me identifico mucho con
+Aira… tengo TDAH, y si no tengo todo planeado me estreso mucho.»
+
+**Errores del doblaje** (Doblaje Wiki, una fuente ⚠️): Netflix ep. 5,
+6:10 (falta una línea de fondo); ep. 8, 1:25 (Aira dice «Takamura»);
+ep. 9 (voces desfasadas en opening y ending, corregido en HBO Max);
+ep. 20 (filtro de voz de Aira irregular). Crunchyroll ep. 3, 7:50 (eco
+por error a Ayase, corregido).
+
+⚠️ **No hay clips oficiales doblados** que se pudieran bajar (YouTube
+pidió iniciar sesión). Las frases con audio salen del episodio completo
+de Internet Archive.
+
+---
