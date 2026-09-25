@@ -151,5 +151,23 @@
     "que_es": "Ficha de la antigua religión que estigmatiza al Héroe del Escudo como demonio",
     "para_que": "Símbolo/conflicto central del mundo para el punto 25",
     "licencia": "CC BY-SA (Fandom); texto citado"
+  },
+  {
+    "url": "https://archive.org/details/kusonimetatenoyuushanonariagari01360p?t=206",
+    "fuente": "Internet Archive (fansub 'kusonime', The Rising of the Shield Hero episodio 1, minuto 3:26)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma del anime mismo: cartela de transición a pantalla negra con el logo rojo con textura de goteo 「盾の勇者の成り上がり」, igual al logo de portada/Steam ya medido en el punto 5",
+    "para_que": "Confirma con el anime real (no sólo arte de caja) que el logo y el color #a3182a son los oficiales, y documenta el punto 6 (cartela dentro del episodio)",
+    "licencia": "Fotograma de una emisión con derechos de Kadokawa/estudio; visto sólo como referencia, mirado con herramientas/episodio.py --ocr, no redistribuido"
+  },
+  {
+    "url": "https://archive.org/details/kusonimetatenoyuushanonariagari01360p?t=162",
+    "fuente": "Internet Archive (fansub 'kusonime', The Rising of the Shield Hero episodio 1, minuto 2:42)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma del anime mismo: primer plano de un libro de leyendas que hojea Naofumi en la biblioteca, con el título impreso en inglés en mayúsculas «THE SHIELD HERO» en letra de palo ancha blanca",
+    "para_que": "Único texto dibujado dentro de un objeto de la escena (prop diegético) encontrado en el anime, para el punto 6",
+    "licencia": "Fotograma de una emisión con derechos de Kadokawa/estudio; visto sólo como referencia, mirado con herramientas/episodio.py --ocr, no redistribuido"
   }
 ]
