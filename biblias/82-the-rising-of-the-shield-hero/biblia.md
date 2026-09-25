@@ -1107,7 +1107,7 @@ Filo en imagen; vistas y enlaces de los fan dubs.
 | 40 fuentes distintas | ✅ | Más de 40 webs enlazadas (revisar.py). |
 | Tipos de fuente | ⚠️ | Oficiales (Steam, Good Smile, X oficial, Crunchyroll), japonés (WebNewtype, 4Gamer), wikis (Fandom, Doblaje Wiki), foros (foro de la wiki, Reddit por Arctic Shift con poco), arte (Pixiv, Safebooru, Wallhaven, DeviantArt), vídeo (Dailymotion, Internet Archive), recursos (Sketchfab, ambientCG, Google Fonts). Sin GitHub; TV Tropes 403; Wayback bloqueado; coreano o chino no buscados. |
 | Hojas de contacto | ✅ | 3 en `hojas/`, miradas y descritas (§3). |
-| referencias.json | ✅ | Todas las útiles de las partes, las mejores primero. |
+| referencias.json | ✅ | 133 referencias: todas las útiles de las partes y de `datos.json` (sin el fan art de otras series ni los iconos de 100×100), las mejores primero. Las páginas, audios y modelos 3D van sin ancho y alto. |
 
 ## 30. Bitácora de búsqueda
 
@@ -1152,7 +1152,9 @@ AnimeThemes (HTTP 522) y Reddit (subreddit no hallado).
 - Fallos: TV Tropes 403 (sin copia en Wayback), foro de la wiki 402 en un hilo, One Peace Books sin páginas de muestra.
 
 **Redactor:** miró las 3 hojas (y recortes de las casillas 97, 115 y 116),
-cruzó las partes y corrigió 3 datos (§28). No hizo búsquedas nuevas.
+cruzó las partes y corrigió 3 datos (§28). No hizo búsquedas nuevas: sólo pidió a la API de
+Fandom la URL y el tamaño de 16 imágenes ya elegidas en las hojas, para `referencias.json`,
+y midió el tamaño de los retratos de AniList.
 
 **Fuentes consultadas** (más de 40 dominios): AniList, Fandom (shield-hero y
 doblaje), Danbooru, Safebooru, Pixiv, Wallhaven, DeviantArt, Sketchfab,

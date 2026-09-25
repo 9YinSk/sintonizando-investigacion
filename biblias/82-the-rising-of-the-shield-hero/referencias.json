@@ -1,0 +1,1199 @@
+[
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146100/ss_3db7a21cefe8a25bfe86cf7841e72866ca884634.1920x1080.jpg?t=1654506120",
+  "fuente": "Steam (store.steampowered.com, appid 1146100)",
+  "ancho": 815,
+  "alto": 625,
+  "que_es": "Captura oficial del cuadro de diálogo del juego: panel verde-azulado oscuro (#3c5051 medido), pestaña de nombre rosa, retrato circular",
+  "para_que": "Referencia directa de 'cómo habla' la serie en pantalla (punto 6), evita la burbuja blanca genérica",
+  "licencia": "Captura de producto oficial en la ficha pública de Steam"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/0/05/Raphtalia_Miko.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 1531,
+  "alto": 2298,
+  "que_es": "Raphtalia con el traje miko (haori blanco, hakama roja, flor de cerezo, katana)",
+  "para_que": "Vestuario especial con hex medidos; pose solemne; cosplay premiado",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/7/7c/Naofumi_Anime_New.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 569,
+  "alto": 1035,
+  "que_es": "Naofumi con la Armadura Bárbara +3, cuerpo entero (anime)",
+  "para_que": "Hoja de modelo y hex del traje icónico (#4E5A41, #DEDCC8)",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/3/3b/Blu-ray_1.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 500,
+  "alto": 625,
+  "que_es": "Blu-ray 1: Naofumi con capa verde, mano en la cadera (hoja objetos, 115)",
+  "para_que": "Pose de presentar; concepto B",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/4/43/Blu-ray_2.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 643,
+  "alto": 800,
+  "que_es": "Blu-ray 2: Raphtalia con armadura de cuero, brazos cruzados (hoja objetos, 97)",
+  "para_que": "Pose de explicar con calma; concepto A",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/2/21/Blu-ray_3.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 500,
+  "alto": 622,
+  "que_es": "Blu-ray 3: Filo humana, brazos abiertos, alas (hoja objetos, 116)",
+  "para_que": "Pose de celebrar; concepto C",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/2/2f/Melromarc_ENG.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 2544,
+  "alto": 2000,
+  "que_es": "Mapa oficial del reino de Melromarc, en inglés",
+  "para_que": "Prop de mapa en Blender; concepto B",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/8/85/Melromarc_Castle.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 1919,
+  "alto": 1041,
+  "que_es": "Castillo de Melromarc de día, torres moradas y cielo turquesa",
+  "para_que": "Fondo diurno con paleta medida (#579FA1, #5F7358, #8CC0C2)",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/e/e1/Castle.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Ciudad amurallada bajo el castillo, de día (hoja fondos, 5)",
+  "para_que": "Fondo lejano del concepto C",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/0/0e/Melromarc_Castle_2.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 960,
+  "alto": 540,
+  "que_es": "Vista aérea del castillo y los jardines",
+  "para_que": "Establecer Castle Town desde arriba",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/c4/Filo_Filolial_Queen.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 1125,
+  "alto": 1600,
+  "que_es": "Filo en forma de reina filolial, panel de manga con tramas",
+  "para_que": "Forma de ave y referencia de trama",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9ia4ma&t=65",
+  "fuente": "Dailymotion (Kadokawa Animation, PV oficial 1 T4)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Filo en su forma de ave filolial gigante en pleno vuelo, plumaje blanco con lazo rojo",
+  "para_que": "Única referencia de vídeo oficial de Filo conseguida; pose de vuelo",
+  "licencia": "PV oficial de Kadokawa Animation, sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/6/65/Small_Shield.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 676,
+  "alto": 675,
+  "que_es": "Small Shield: el escudo inicial, gris con gema verde",
+  "para_que": "Objeto firma de la serie",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/d/d6/Shield_of_Rage.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 617,
+  "alto": 617,
+  "que_es": "Shield of Rage: escudo rojo y negro con ojo rojo",
+  "para_que": "Variante oscura del escudo",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/6/60/Demon_Dragon_Shield.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 1156,
+  "alto": 1156,
+  "que_es": "Demon Dragon Shield en brazo de Naofumi, ilustración a color",
+  "para_que": "Escudo en uso, detalle de la gema",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/0/08/Season_2_Visual_5_New_World_Arc.jpeg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 1280,
+  "alto": 884,
+  "que_es": "Visual T2 New World Arc: batalla con luz de fuego dorada",
+  "para_que": "Luz de acción y composición en grupo",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/e/eb/The_Rising_of_the_Shield_Hero_S3_Official_KV_2x3.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 2000,
+  "alto": 3000,
+  "que_es": "Key visual oficial de la T3",
+  "para_que": "Grupo completo y paleta de la T3",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/e/ec/Blu-ray_Season_3_Vol._1_Front.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 821,
+  "alto": 1000,
+  "que_es": "Blu-ray T3 vol. 1: vidriera con los personajes",
+  "para_que": "Marco de vidriera oficial",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/f/f6/Blu-ray_Season_3_Vol._3_Front.png",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 821,
+  "alto": 1000,
+  "que_es": "Blu-ray T3 vol. 3: vidriera triple",
+  "para_que": "Marco de vidriera oficial",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/6/61/Chimera_Viper_Shield.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 623,
+  "alto": 623,
+  "que_es": "Chimera Viper Shield (serpientes, gema verde)",
+  "para_que": "Variante de escudo para props",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/2/28/Blu-ray_4.jpg",
+  "fuente": "Fandom (shield-hero.fandom.com)",
+  "ancho": 480,
+  "alto": 597,
+  "que_es": "Blu-ray 4: Melty con vestido lila",
+  "para_que": "Vestuario de Melty",
+  "licencia": "© Aneko Yusagi / KADOKAWA / Kinema Citrus; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146100/ss_5771c91618589a4bce8c2147bd8ffdd6d057583e.1920x1080.jpg?t=1654506120",
+  "fuente": "Steam (store.steampowered.com, appid 1146100, The Rising of the Shield Hero: Relive The Animation)",
+  "ancho": 816,
+  "alto": 624,
+  "que_es": "Captura oficial de la pantalla de título del videojuego: logo rojo con textura de goteo y menú New Game/Continue/Options",
+  "para_que": "Referencia real de tipografía de logo (medí el rojo ~#a3182a) y de caja de menú oscura con borde",
+  "licencia": "Captura de producto oficial en la ficha pública de Steam; uso como referencia editorial, no para redistribuir el juego"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146100/ss_ffac4916f520baefc2ebdff65c9f9d6c7ae2834e.1920x1080.jpg?t=1654506120",
+  "fuente": "Steam (store.steampowered.com, appid 1146100)",
+  "ancho": 815,
+  "alto": 624,
+  "que_es": "Captura oficial de la interfaz de batalla por turnos (barras HP/MP/SP, iconos Seize/Protect/Skills/Spells/Equipment/Items)",
+  "para_que": "Referencia de videojuego (punto 11) y de interfaz para IA de imagen/lámina tipo ficha de personaje",
+  "licencia": "Captura de producto oficial en la ficha pública de Steam"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146100/ss_beb25e2dadf8a6d975f4bb734fca4655cd78ec26.1920x1080.jpg?t=1654506120",
+  "fuente": "Steam (store.steampowered.com, appid 1146100)",
+  "ancho": 815,
+  "alto": 624,
+  "que_es": "Captura oficial del menú de estadísticas por personaje (tarjetas teal con nivel, HP, MP)",
+  "para_que": "Referencia de interfaz de juego y color de fondo teal oscuro (#041c1c medido) para paneles de la lámina",
+  "licencia": "Captura de producto oficial en la ficha pública de Steam"
+ },
+ {
+  "url": "https://archive.org/details/kusonimetatenoyuushanonariagari01360p?t=206",
+  "fuente": "Internet Archive (fansub 'kusonime', The Rising of the Shield Hero episodio 1, minuto 3:26)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma del anime mismo: cartela de transición a pantalla negra con el logo rojo con textura de goteo 「盾の勇者の成り上がり」, igual al logo de portada/Steam ya medido en el punto 5",
+  "para_que": "Confirma con el anime real (no sólo arte de caja) que el logo y el color #a3182a son los oficiales, y documenta el punto 6 (cartela dentro del episodio)",
+  "licencia": "Fotograma de una emisión con derechos de Kadokawa/estudio; visto sólo como referencia, mirado con herramientas/episodio.py --ocr, no redistribuido"
+ },
+ {
+  "url": "https://archive.org/details/kusonimetatenoyuushanonariagari01360p?t=162",
+  "fuente": "Internet Archive (fansub 'kusonime', The Rising of the Shield Hero episodio 1, minuto 2:42)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma del anime mismo: primer plano de un libro de leyendas que hojea Naofumi en la biblioteca, con el título impreso en inglés en mayúsculas «THE SHIELD HERO» en letra de palo ancha blanca",
+  "para_que": "Único texto dibujado dentro de un objeto de la escena (prop diegético) encontrado en el anime, para el punto 6",
+  "licencia": "Fotograma de una emisión con derechos de Kadokawa/estudio; visto sólo como referencia, mirado con herramientas/episodio.py --ocr, no redistribuido"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8a2aga&t=20",
+  "fuente": "Dailymotion (Allociné, tráiler oficial de anuncio T1)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma del tráiler oficial de anuncio de la Temporada 1, Naofumi en primer plano",
+  "para_que": "Referencia de encuadre/luz de presentación del protagonista",
+  "licencia": "Vídeo oficial promocional, sólo como referencia (no descargar y usar el fotograma como arte final)"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8a2aga&t=70",
+  "fuente": "Dailymotion (Allociné, tráiler oficial de anuncio T1)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Naofumi con el escudo brillando en verde durante el combate del tráiler",
+  "para_que": "Referencia de pose de combate y del brillo/activación del escudo",
+  "licencia": "Vídeo oficial promocional, sólo como referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9ia4ma&t=20",
+  "fuente": "Dailymotion (Kadokawa Animation, PV oficial 1 T4)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Boceto a lápiz (genga) de un personaje superpuesto al dibujo terminado, detrás de escena de animación",
+  "para_que": "Referencia del proceso de dibujo del estudio (útil para el punto 18, técnica)",
+  "licencia": "PV oficial de Kadokawa Animation, sólo como referencia"
+ },
+ {
+  "url": "https://archive.org/download/tt9529546-1-2/tt9529546-1-2.mp4",
+  "fuente": "Internet Archive (episodio 2, español latino, mp4 directo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Episodio completo con el OP 'RISE' (2:08-3:20) y el ED 'Kimi no Namae' (22:00-22:48)",
+  "para_que": "Fuente primaria para mirar el opening y el ending completos con minuto exacto",
+  "licencia": "Copia de fans en Internet Archive, sólo para investigación/referencia interna, no redistribuir"
+ },
+ {
+  "url": "https://archive.org/download/tt9529546-1-1/tt9529546-1-1.mp4",
+  "fuente": "Internet Archive (episodios 1-2, español latino, mp4 directo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Episodios 1 y 2 completos; contiene la escena del juicio falso (26:00-32:00) y la compra de Raphtalia (42:00-44:24)",
+  "para_que": "Fuente primaria de las escenas icónicas 1 y 2 del punto 2, con capítulo y minuto exacto",
+  "licencia": "Copia de fans en Internet Archive, sólo para investigación/referencia interna, no redistribuir"
+ },
+ {
+  "url": "https://archive.org/download/tt9529546-1-3/tt9529546-1-3.mp4",
+  "fuente": "Internet Archive (episodio 3, español latino, mp4 directo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Episodio 3 'Wave of Catastrophe' completo; primera Ola a los 11:00-15:00",
+  "para_que": "Fuente primaria de la escena icónica 3 del punto 2 y de la pose de Naofumi bloqueando fuego a los 14:00",
+  "licencia": "Copia de fans en Internet Archive, sólo para investigación/referencia interna, no redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/2/27/TateYuusha_Naofumi_Iwatani_%28ESP-LA%29.ogg/revision/latest?cb=20210816190652&path-prefix=es",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra oficial de audio del doblaje latino de Naofumi Iwatani (34 s, transcrita con voz.py)",
+  "para_que": "Frase textual y ficha de voz (registro grave 122 Hz, muy expresiva) para el punto 8 y 13",
+  "licencia": "Muestra promocional de Doblaje Wiki, uso de referencia/estudio, no redistribuir como propia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/1/13/TateYuusha_Raphtalia_%28ESP-LA%29.ogg/revision/latest?cb=20210817022714&path-prefix=es",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra oficial de audio del doblaje latino de Raphtalia (20 s, transcrita con voz.py)",
+  "para_que": "Frase textual y ficha de voz (registro muy agudo 329 Hz, muy expresiva) para el punto 8 y 13",
+  "licencia": "Muestra promocional de Doblaje Wiki, uso de referencia/estudio"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/2/25/TateYuusha_Filo_%28ESP-LA%29.ogg/revision/latest?cb=20210818171623&path-prefix=es",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra oficial de audio del doblaje latino de Filo (24 s, transcrita con voz.py)",
+  "para_que": "Confirma que Filo habla en tercera persona; ficha de voz (muy aguda, 408 Hz) para el punto 8 y 13",
+  "licencia": "Muestra promocional de Doblaje Wiki, uso de referencia/estudio"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8a2aga&t=81",
+  "fuente": "Dailymotion (Allociné)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Fotograma 1:21 del tráiler oficial VO de la temporada 1, cara de furia/angustia de Naofumi",
+  "para_que": "Referencia de expresión facial (punto 13) con minuto exacto",
+  "licencia": "Tráiler oficial promocional, sólo como referencia, no redistribuir el clip"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8opn2z&t=4",
+  "fuente": "Dailymotion (Allociné)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Fotograma 0:04 del tráiler oficial VO de la temporada 3, primer plano de Naofumi con ceño fruncido",
+  "para_que": "Referencia de expresión facial de determinación (punto 13)",
+  "licencia": "Tráiler oficial promocional, sólo como referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8opn2z&t=72",
+  "fuente": "Dailymotion (Allociné)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Fotograma 1:12 del tráiler oficial VO de la temporada 3, Naofumi rodeado de relámpagos azules con cara tensa",
+  "para_que": "Referencia de expresión/pose de poder (punto 13)",
+  "licencia": "Tráiler oficial promocional, sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/e/e8/007.png/revision/latest?cb=20150628095837",
+  "fuente": "Wiki de Fandom shield-hero.fandom.com (archivo 007.png)",
+  "ancho": 1600,
+  "alto": 2276,
+  "que_es": "Página/portada oficial de manga con Raphtalia y su katana, línea limpia y fondo con trama degradada",
+  "para_que": "Referencia de línea y sombreado de manga a replicar en Photoshop (punto 18)",
+  "licencia": "Material con derechos de Aneko Yusagi/Kadokawa; uso como referencia de estilo, no para redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/1/18/006.png/revision/latest?cb=20150625103122",
+  "fuente": "Wiki de Fandom shield-hero.fandom.com (archivo 006.png)",
+  "ancho": 1600,
+  "alto": 2276,
+  "que_es": "Portada de manga con Naofumi y grupo en batalla, líneas de efecto tipo llama/pluma",
+  "para_que": "Referencia de composición en pirámide y efectos de magia dibujados (punto 18)",
+  "licencia": "Material con derechos de Aneko Yusagi/Kadokawa; uso como referencia de estilo"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/d/d2/009.png/revision/latest?cb=20150628100342",
+  "fuente": "Wiki de Fandom shield-hero.fandom.com (archivo 009.png)",
+  "ancho": 1600,
+  "alto": 2276,
+  "que_es": "Portada de manga con grupo de personajes en shock, líneas de choque marcadas detrás de las caras",
+  "para_que": "Referencia de líneas de choque para escenas de sorpresa (punto 18)",
+  "licencia": "Material con derechos de Aneko Yusagi/Kadokawa; uso como referencia de estilo"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/c0/Naofumi_Light_Novel.png",
+  "fuente": "Fandom shield-hero",
+  "ancho": 931,
+  "alto": 1395,
+  "que_es": "Naofumi Iwatani: Naofumi Light Novel.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/a/a5/Naofumi_Manga.png",
+  "fuente": "Fandom shield-hero",
+  "ancho": 718,
+  "alto": 1076,
+  "que_es": "Naofumi Iwatani: Naofumi Manga.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/b/b5/Raphtalia_Manga.png",
+  "fuente": "Fandom shield-hero",
+  "ancho": 1072,
+  "alto": 1610,
+  "que_es": "Raphtalia: Raphtalia Manga.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/7/71/Other_9.png",
+  "fuente": "Fandom shield-hero",
+  "ancho": 517,
+  "alto": 948,
+  "que_es": "Raphtalia: Other 9.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/9/95/Raphtalia_Anime.png",
+  "fuente": "Fandom shield-hero",
+  "ancho": 488,
+  "alto": 938,
+  "que_es": "Raphtalia: Raphtalia Anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/9/92/Firo_Light_Novel.png",
+  "fuente": "Fandom shield-hero",
+  "ancho": 1056,
+  "alto": 1583,
+  "que_es": "Filo: Firo Light Novel.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/7/7b/Filo_Anime.png",
+  "fuente": "Fandom shield-hero",
+  "ancho": 492,
+  "alto": 738,
+  "que_es": "Filo: Filo Anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/f/f1/Filo_Manga.png",
+  "fuente": "Fandom shield-hero",
+  "ancho": 484,
+  "alto": 727,
+  "que_es": "Filo: Filo Manga.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a9a9f59bfd854229a573cc0dfb96bf08",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Shield of Rage [The Rising of The Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-75b58a3f353f46f993d7493b279520c5",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Small Shield [The Rising of The Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-4e756c36f1eb432d9fef5ab4dd07d0ae",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Legendary Spear [The Rising of the Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-653b633275304ef7addc1797de88cec8",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Legendary Sword [The Rising of the Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-dc5a2313e56647c5936771b548a812d0",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Legendary Bow  [The Rising of The Shield Hero] de G.Salmon",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-586d545ab8a14ef08ae3c8c5efa2c072",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Motoyasu spear de GicaPiqueno",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-032a7cc1e8d7454dbeb1b6b1d80fd658",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Filo Hairpin - 3d printing de Nikra",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-0353e0488d2b4ff6a5826ee240c749e6",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: The Rising of The Shield Hero de TurboVarg",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://media.sketchfab.com/models/a9a9f59bfd854229a573cc0dfb96bf08/thumbnails/f2969f41f2e3468c9217a0f69e8392e1/d82e030794454c5f9f0062d811d16f2c.jpeg",
+  "fuente": "Openverse (sketchfab)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Shield of Rage [The Rising of The Shield Hero]",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 4.0, autor G.Salmon"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ey/wallhaven-ey3j3k.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2481,
+  "alto": 3508,
+  "que_es": "Fondo de pantalla (Raphtalia, anime, anime girls, women, fantasy girl, animal ears)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/13/wallhaven-135661.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3532,
+  "alto": 5000,
+  "que_es": "Fondo de pantalla (illustration, artwork, digital art, fan art, drawing, Axsens)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Psychofruit; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/39/wallhaven-39vw93.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (tofumang, Raphtalia, Tate no Yuusha no Nariagari, anime)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MaiSakurajima; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zm/wallhaven-zm237g.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fondo de pantalla (Raphtalia, Tate no Yuusha no Nariagari, animal ears, anime, anime girls, long hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Fennel; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/j5/wallhaven-j5137p.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Iwatani Naofumi, Raphtalia, anime, sword, shield, Tate no Yuusha no Nariagari)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por arlt; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6k/wallhaven-6kw3zw.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (anime, anime girls, Tate no Yuusha no Nariagari, Raphtalia)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Aniru; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/kw/wallhaven-kw5w5q.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Tate no Yuusha no Nariagari, couple, Raphtalia, Iwatani Naofumi, anime)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MaiSakurajima; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/lm/wallhaven-lmkyll.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1111,
+  "que_es": "Fondo de pantalla (Tate no Yuusha no Nariagari, brunette, long hair, fantasy weapon, digital art, Iwatani Naofumi)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zm/wallhaven-zm2k1g.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2000,
+  "alto": 3042,
+  "que_es": "Fondo de pantalla (Tate no Yuusha no Nariagari, anime girls, anime boys, fan art, 2D, long hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/dg/wallhaven-dgezpo.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3000,
+  "alto": 1667,
+  "que_es": "Fondo de pantalla (anime, anime girls, weapon, sword, Tate no Yuusha no Nariagari, Raphtalia)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por gebört; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/wy/wallhaven-wy5117.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (anime, Iwatani Naofumi, Tate no Yuusha no Nariagari, Raphtalia, anime girls, women)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CanadianGuy12; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/5w/wallhaven-5wker8.png",
+  "fuente": "Wallhaven",
+  "ancho": 2000,
+  "alto": 1325,
+  "que_es": "Fondo de pantalla (anime, anime girls, digital art, artwork, simple background, portrait display)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Francazo; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/kw/wallhaven-kwkymm.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Raphtalia, Tate no Yuusha no Nariagari, minimalism, anime girls, animal ears)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Aniru; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/xl/wallhaven-xl3gd3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2000,
+  "alto": 2906,
+  "que_es": "Fondo de pantalla (anime, anime girls, digital art, artwork, 2D, portrait display)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Francazo; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ym/wallhaven-ym5qq7.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Raphtalia, anime girls, anime, red eyes, simple background, Tate no Yuusha no Nariagari)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por thxandbye; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/2768/363d76b3c3796c475aacbbc7cadd21103cee23ca.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1352,
+  "alto": 1584,
+  "que_es": "Fan art de iwatani_naofumi (https://i.pximg.net/img-original/img/2019/02/22/00/00/00/73314286_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2890/9e10d9772af281907d942c31530f5996f4841bff.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 725,
+  "alto": 1017,
+  "que_es": "Fan art de iwatani_naofumi (盾の勇者の成り上がり3)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2755/2524147848398f0d2ddaa2923db8c77745438ebc.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 850,
+  "alto": 850,
+  "que_es": "Fan art de iwatani_naofumi (https://i.pximg.net/img-original/img/2019/06/29/21/11/04/75466675_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2791/3a41b7dfea64ffe4c0129c98ca48cc5165c0c652.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 720,
+  "alto": 1013,
+  "que_es": "Fan art de iwatani_naofumi (盾の勇者の成り上がり2)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2726/92d7cb765fde01b68a7a69c17dd511b36c0172cb.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1350,
+  "alto": 900,
+  "que_es": "Fan art de iwatani_naofumi (https://twitter.com/jamesghio/status/1128790841244475392)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2655/9784880d5bdfb6c2f160d21199174e5915ee757a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 936,
+  "alto": 1368,
+  "que_es": "Fan art de iwatani_naofumi (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=73097174)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2775/fc35f910520956aecf2946a0840ba52b808ae1c8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1327,
+  "alto": 1804,
+  "que_es": "Fan art de raphtalia (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2792/9fe23f53c9eef339c48db7105bd62abcbdbd4bce.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1412,
+  "alto": 2000,
+  "que_es": "Fan art de raphtalia (https://i.pximg.net/img-original/img/2019/10/19/07/23/19/77363720_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4616/7c2f8fbe1b1540af2f5adc4817fbd448a210b547.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 1132,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://babycado.wixsite.com/babycado/fan-art?pgid=k052y56k2-63f3569d-5b28-42f8-ae39-8286a1ea4321)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1541/f25c31732c9b2f56258b29aa609c52810c712fa5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2088,
+  "alto": 1452,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://i.pximg.net/img-original/img/2019/04/06/00/12/29/74061050_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/779/1dd3dfa9b0ed91eb226769c5b1d221eab43f42f3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 480,
+  "alto": 626,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://i.pximg.net/img-original/img/2022/07/11/16/46/57/99653718_p23.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4602/074d78621762a8c3e3e599ae32bb7f34e04dc635.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2800,
+  "alto": 1782,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://i.pximg.net/img-original/img/2024/03/04/20/39/47/116623215_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4366/1b77db66d39d63549352d9d5982f9c78d6e7f387.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://yande.re/post?tags=isekai_quartet)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/3d130cffcf6765c719104b4d95968cc4244c7cb7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2728,
+  "alto": 3508,
+  "que_es": "Fan art de filo_(tate_no_yuusha_no_nariagari) (https://i.pximg.net/img-original/img/2019/03/12/18/51/36/73645519_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato de Raphtalia",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato de Naofumi Iwatani",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato de Filo",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Melty Q Melromarc",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Mirellia Q Melromarc",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136796-V3uZcLtu2IWo.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Glass",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136790-6TkN3qYelIhk.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Fitoria",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136794-yoJxRXGAGMlo.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Rishia Ivyred",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133724-DKBQxDroRlQG.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Erhard",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136793-HfJKb7D6gwxj.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de L'arc  Berg",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129812-mNAmoHxmHCwd.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Ren Amaki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136797-zuXQf5VxGQlp.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Therese Alexandrite",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129808-T5fd863K9TOI.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Malty Melromarc",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136792-xxCXzkPuyvwr.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Keel",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133722-llVcCnu20CnY.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Beloukas",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg",
+  "fuente": "AniList",
+  "ancho": 460,
+  "alto": 698,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99263-IwkmdCTsDY1t.jpg",
+  "fuente": "AniList",
+  "ancho": 1500,
+  "alto": 500,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://webnewtype.com/report/staff/185671.html",
+  "fuente": "WebNewtype (entrevista en japonés al director Takao Abo y al diseñador de personajes Masahiro Suwa)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista oficial de prensa especializada sobre el diseño de personajes de la serie",
+  "para_que": "Cita textual de la filosofía de línea y sombreado ('reducir líneas manteniendo la sensación de detalle') para el punto 18",
+  "licencia": "Artículo periodístico; no es imagen, sólo texto citado con enlace"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Eater",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente tipográfica gratuita 'Eater' (estilo goteo/sangre), comprobada con fontTools: trae ñ, Ñ, á, ¿, ¡",
+  "para_que": "Letra libre equivalente al logo de la serie (punto 5), para el título del canal",
+  "licencia": "SIL Open Font License (OFL), uso comercial libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/M+PLUS+Rounded+1c",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente tipográfica gratuita redondeada de estilo japonés-gaming, comprobada con fontTools: trae ñ, Ñ, á, ¿, ¡",
+  "para_que": "Letra libre equivalente a la interfaz de los videojuegos oficiales (punto 5 y 11)",
+  "licencia": "SIL Open Font License (OFL), uso comercial libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Cinzel",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente tipográfica gratuita serif monumental, comprobada con fontTools: trae ñ, Ñ, á, ¿, ¡",
+  "para_que": "Letra libre para carteles del mundo (reino de Melromarc, letreros medievales) (punto 5)",
+  "licencia": "SIL Open Font License (OFL), uso comercial libre"
+ },
+ {
+  "url": "https://store.steampowered.com/app/1146100/The_Rising_of_the_Shield_Hero__Relive_The_Animation/",
+  "fuente": "Steam (ficha del producto)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial del videojuego RPG 'Relive The Animation', con descripción del sistema de batalla defensivo",
+  "para_que": "Fuente del punto 11 (videojuegos de la franquicia)",
+  "licencia": "Página pública de producto; texto citado como fuente, no redistribuido"
+ },
+ {
+  "url": "https://play.google.com/store/apps/details?id=jp.shieldhero.game",
+  "fuente": "Google Play",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial del RPG idle móvil 'Shield Hero RERISE'",
+  "para_que": "Fuente del punto 11 (videojuegos de la franquicia)",
+  "licencia": "Página pública de producto"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/List_of_The_Rising_of_the_Shield_Hero_episodes",
+  "fuente": "Wikipedia en inglés",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Lista de episodios con fechas y directores por temporada",
+  "para_que": "Estructura de arcos por temporada para el punto 25 (historia por arcos)",
+  "licencia": "CC BY-SA (Wikipedia); texto citado, no imagen"
+ },
+ {
+  "url": "https://shield-hero.fandom.com/wiki/Melromarc",
+  "fuente": "Wiki de Fandom shield-hero.fandom.com",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del reino de Melromarc: sistema matriarcal, religión, esclavitud de demihumanos",
+  "para_que": "Reglas del mundo para el punto 25",
+  "licencia": "CC BY-SA (Fandom); texto citado"
+ },
+ {
+  "url": "https://shield-hero.fandom.com/wiki/Legendary_Weapons",
+  "fuente": "Wiki de Fandom shield-hero.fandom.com",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de las cuatro Armas Legendarias y su origen en las Waves of Calamity",
+  "para_que": "Símbolos y vocabulario del mundo para el punto 25",
+  "licencia": "CC BY-SA (Fandom); texto citado"
+ },
+ {
+  "url": "https://shield-hero.fandom.com/wiki/The_Church_of_the_Three_Heroes",
+  "fuente": "Wiki de Fandom shield-hero.fandom.com",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la antigua religión que estigmatiza al Héroe del Escudo como demonio",
+  "para_que": "Símbolo/conflicto central del mundo para el punto 25",
+  "licencia": "CC BY-SA (Fandom); texto citado"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8o3ipu&t=80",
+  "fuente": "Dailymotion (Crunchyroll oficial, tráiler T3)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Pantalla final del tráiler oficial de Crunchyroll de la Temporada 3 con el logo de la serie",
+  "para_que": "Referencia de tipografía del logo animado y color de marca",
+  "licencia": "Vídeo oficial de Crunchyroll, sólo como referencia"
+ },
+ {
+  "url": "https://vgmdb.net/album/84770",
+  "fuente": "VGMdb",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial del álbum \"The Rising of the Shield Hero Original Soundtrack \"Dusk\"\" (COCX-40782, Kevin Penkin, 2019) con tracklist completo, incluye \"Raphtalia\" (pista 18) y \"Falling Through Starlight\" (ft. Amelia Jones / ft. Asami Seto, pistas 22 y 25)",
+  "para_que": "Confirmar en segunda fuente el tema de la escena mas emotiva de la Temporada 1 (punto 9) y tener el tracklist oficial completo del OST",
+  "licencia": "Ficha de catalogo, solo referencia/consulta"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/interest/2019-01-31/rising-of-the-shield-hero-english-dub-will-include-alternative-insert-song-for-episode-4/.142809",
+  "fuente": "Anime News Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Articulo que confirma el insert song \"Falling Through Starlight\" del episodio 4, con version alternativa en ingles para el doblaje",
+  "para_que": "Fuente 1 de 2 para confirmar el tema de la escena mas emotiva de Raphtalia en la T1 (punto 9)",
+  "licencia": "Articulo periodistico, solo referencia"
+ },
+ {
+  "url": "https://twitter.com/ShieldHeroEN/status/1103859242556108800",
+  "fuente": "X/Twitter oficial (@ShieldHeroEN)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Publicacion oficial con los creditos completos de \"Falling Through Starlight\": compositor Kevin Penkin, version japonesa por Asami Seto (voz de Raphtalia), version inglesa por Amelia Jones",
+  "para_que": "Fuente 2 de 2 para confirmar el tema de la escena mas emotiva de Raphtalia en la T1 (punto 9)",
+  "licencia": "Cuenta oficial del anime, solo referencia"
+ },
+ {
+  "url": "https://www.tiktok.com/discover/the-rising-of-the-shield-hero-fandom",
+  "fuente": "TikTok (pagina de descubrimiento)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Pagina de descubrimiento con hashtags activos (#shieldhero, #raphtalia, #naofumi) y ediciones de fans; sin un trend/audio unico coordinado, actividad dispersa con pico en el estreno de la T4 (jul-sept 2025)",
+  "para_que": "Cubrir el subpunto de tendencias de TikTok/YouTube del punto 10",
+  "licencia": "Plataforma publica, solo referencia de tendencia, no material a reutilizar"
+ },
+ {
+  "url": "https://www.crunchyroll.com/news/latest/2019/5/24/the-rising-of-the-shield-hero-character-popularity-poll-results-are-in",
+  "fuente": "Crunchyroll News",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo con la encuesta oficial de popularidad de personajes (62 876 votos)",
+  "para_que": "Fuente primaria del ranking de popularidad, punto 7 y 21",
+  "licencia": "Artículo periodístico, sólo como fuente, no redistribuir el texto completo"
+ },
+ {
+  "url": "https://shield-hero.fandom.com/wiki/Naofumi_Iwatani",
+  "fuente": "The Rising of the Shield Hero Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa de Naofumi Iwatani (personalidad, trivia, gustos)",
+  "para_que": "Base de los puntos 13 y 20",
+  "licencia": "CC BY-SA (Fandom), texto citable con atribución"
+ },
+ {
+  "url": "https://shield-hero.fandom.com/wiki/Raphtalia",
+  "fuente": "The Rising of the Shield Hero Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa de Raphtalia (personalidad, trasfondo, trivia)",
+  "para_que": "Base de los puntos 13, 20 y 21 (escena fundacional del trauma)",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://shield-hero.fandom.com/wiki/Filo",
+  "fuente": "The Rising of the Shield Hero Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa de Filo (personalidad, trivia, gustos)",
+  "para_que": "Base de los puntos 13 y 20",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://shield-hero.fandom.com/wiki/Melty_Q_Melromarc",
+  "fuente": "The Rising of the Shield Hero Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Melty Q Melromarc (personalidad)",
+  "para_que": "Secundaria más querida (4ª en la encuesta oficial), punto 13",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://shield-hero.fandom.com/wiki/Raph-chan",
+  "fuente": "The Rising of the Shield Hero Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Raph-chan, el familiar hecho con sangre de Naofumi y pelo de Raphtalia",
+  "para_que": "Chiste recurrente del fandom, punto 12",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://www.anmtvla.com/2021/08/the-rising-of-shield-hero-doblaje-al.html",
+  "fuente": "ANMTV",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Noticia del estreno del doblaje latino en Crunchyroll con el reparto principal",
+  "para_que": "Segunda fuente para los 3 actores latinos principales, punto 8",
+  "licencia": "Artículo periodístico, sólo como fuente"
+ },
+ {
+  "url": "https://www.eldoblaje.com/datos/FichaPelicula.asp?id=66912",
+  "fuente": "eldoblaje.com",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del doblaje de España (Luis Torrelles, Clara Schwarze, Laura Jara)",
+  "para_que": "Contraste con el doblaje latino, punto 8 (aclarar que no es el mismo reparto)",
+  "licencia": "Ficha de base de datos, sólo como fuente"
+ },
+ {
+  "url": "https://animecorner.me/the-rising-of-the-shield-hero-light-novel-and-manga-series-surpass-11-million-copies-in-circulation/",
+  "fuente": "Anime Corner",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Noticia de ventas: 11 millones de copias en circulación (novela + manga)",
+  "para_que": "Punto 21, por qué la gente la ama / éxito comercial",
+  "licencia": "Artículo periodístico, sólo como fuente"
+ },
+ {
+  "url": "https://boundingintocomics.com/anime/the-rising-of-the-shield-heros-raphtalia-wins-crunchyrolls-best-girl-award",
+  "fuente": "Bounding Into Comics",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Noticia del premio Best Girl 2020 de Crunchyroll para Raphtalia",
+  "para_que": "Punto 7 y 21, popularidad de la coprotagonista sobre el protagonista",
+  "licencia": "Artículo periodístico, sólo como fuente"
+ },
+ {
+  "url": "https://danbooru.donmai.us/posts?tags=tate_no_yuusha_no_nariagari",
+  "fuente": "Danbooru",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Listado de dibujos de fans etiquetados con la serie, con conteo por personaje",
+  "para_que": "Medida alternativa de popularidad de fans (punto 7)",
+  "licencia": "Índice de base de datos, imágenes individuales bajo licencias variadas de cada autor"
+ },
+ {
+  "url": "https://www.cbr.com/rising-of-the-shield-hero-controversy/",
+  "fuente": "CBR (Comic Book Resources)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo sobre la controversia del episodio 1 y la recepción posterior",
+  "para_que": "Punto 12 (qué no hacer al resumir la serie) y 21 (por qué se sigue amando pese a la polémica)",
+  "licencia": "Artículo periodístico, sólo como fuente"
+ },
+ {
+  "url": "https://anihk.com/en/blogs/characters/naofumi-iwatani-birthday-official-date",
+  "fuente": "ANIHK (blog especializado)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo que confirma que Naofumi no tiene cumpleaños oficial fijado por el autor",
+  "para_que": "Punto 20, evita inventar una fecha de cumpleaños",
+  "licencia": "Artículo de blog, sólo como fuente"
+ },
+ {
+  "url": "https://mocka2000.blogspot.com/2019/05/the-rising-of-shield-hero-character.html",
+  "fuente": "mocka2000 (blog, espejo de Crunchyroll News)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reproduce la tabla completa de la encuesta oficial de popularidad con votos y porcentajes",
+  "para_que": "Segunda fuente del ranking del punto 7 (Crunchyroll no mostró la tabla vía WebFetch)",
+  "licencia": "Artículo de blog, sólo como fuente"
+ }
+]
