@@ -1,0 +1,425 @@
+[
+ {
+  "url": "https://www.ghibli.jp/gallery/howl001.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 1/50: Sophie en la sombrereria",
+  "para_que": "arte oficial, vestuario, interior tienda",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl005.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 5/50: retrato Sophie y Howl",
+  "para_que": "arte oficial, color de piel y vestuario medidos",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl012.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 12/50: Calcifer de cerca",
+  "para_que": "arte oficial, colores de fuego medidos",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl020.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 20/50: interior del castillo (bano)",
+  "para_que": "arte oficial, textura y paleta de interior steampunk",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl025.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 25/50: alcoba de la Bruja en el castillo",
+  "para_que": "arte oficial, decorado y objetos",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl030.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 30/50: Bruja del Yermo y Sophie anciana caminando",
+  "para_que": "arte oficial, vestuario de ambas, fondo de Market Chipping",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl035.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 35/50: Nabo, Markl y Heen en la colina",
+  "para_que": "arte oficial, campos y personajes secundarios",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl040.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 40/50: Howl en forma de ave con Sophie",
+  "para_que": "arte oficial, forma monstruosa de Howl (magia)",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl045.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 45/50: Sophie volando al atardecer",
+  "para_que": "arte oficial, pose viva, luz calida",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/howl050.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp, oficial)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Fotograma oficial 50/50: castillo volando sobre las nubes",
+  "para_que": "arte oficial, el castillo en pleno vuelo",
+  "licencia": "Uso libre no comercial (declarado por Ghibli 2020.10.16)"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx431-o8Lj3XkjHm2k.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial del anime",
+  "para_que": "key visual / portada",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/431-fLBlvTgdqLCz.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial del anime",
+  "para_que": "key visual panoramico",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/1/1c/The_Art_of_Howl%27s_Moving_Castle.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1824,
+  "alto": 2560,
+  "que_es": "Portada del artbook 'The Art of Howl's Moving Castle' (2005, con Hayao Miyazaki)",
+  "para_que": "arte oficial de produccion / concept art",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/9/9e/Howl%27s_Moving_Castle_-_English_Poster.jpeg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1000,
+  "alto": 1363,
+  "que_es": "Poster oficial en ingles del estreno",
+  "para_que": "arte promocional / cartel",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://store.gkids.com/cdn/shop/products/Howls_Angle_SHOPIFY_1200x1720.jpg?v=1613669338",
+  "fuente": "GKIDS (tienda oficial)",
+  "ancho": 1080,
+  "alto": 1548,
+  "que_es": "Portada del Blu-ray Steelbook de GKIDS (edicion coleccionista)",
+  "para_que": "arte oficial de portada fisica",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/1/15/Hd-wallpaper.jpg",
+  "fuente": "Fandom Ghibli (wiki, pagina de Howl)",
+  "ancho": 4664,
+  "alto": 2160,
+  "que_es": "Ilustracion/wallpaper oficial de Howl en alta resolucion",
+  "para_que": "fondo de pantalla oficial en alta",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/7/7a/Rare_sophie_image.jpg",
+  "fuente": "Fandom Ghibli (wiki, pagina de Sophie)",
+  "ancho": 1593,
+  "alto": 3161,
+  "que_es": "Ilustracion poco comun de Sophie de cuerpo entero",
+  "para_que": "pose viva de pie, vestuario completo",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/howls-moving-castle-a5fcd7379db240bea690e4fca032e322",
+  "fuente": "Sketchfab (autor: lsebko)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable del castillo ambulante completo (36 606 caras)",
+  "para_que": "referencia 3D del castillo para Blender",
+  "licencia": "CC Attribution (CC-BY), credito a lsebko"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/howls-moving-castle-calcifer-2d651cf9dc2b4ef59ec7723a08a727bf",
+  "fuente": "Sketchfab (autor: ncd.blueberry)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Calcifer (29 702 caras)",
+  "para_que": "referencia 3D de Calcifer",
+  "licencia": "CC Attribution (CC-BY), credito a ncd.blueberry"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/howls-moving-castle-turnip-head-1e97101c0eec48fab876f366d8e46540",
+  "fuente": "Sketchfab (autor: ncd.blueberry)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable del Espantapajaros Nabo (50 638 caras)",
+  "para_que": "referencia 3D de objeto/personaje secundario",
+  "licencia": "CC Attribution (CC-BY), credito a ncd.blueberry"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/howls-room-c881f51855db460ba832e6d601d9a369",
+  "fuente": "Sketchfab (autor: waltersnchz)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable del interior del cuarto de Howl (400 569 caras)",
+  "para_que": "referencia 3D de interior/set",
+  "licencia": "CC Attribution (CC-BY), credito a waltersnchz"
+ },
+ {
+  "url": "https://safebooru.org/images/1670/08d15960503016067f9573551803e1f4de4f6a7d.jpg",
+  "fuente": "Safebooru (origen: twitter.com/hammar_dobucof)",
+  "ancho": 2048,
+  "alto": 1588,
+  "que_es": "Fan art de Howl mejor valorado (4 puntos)",
+  "para_que": "referencia de pose, nunca para pegar",
+  "licencia": "Fan art; enlazar y citar autor, no usar directo"
+ },
+ {
+  "url": "https://safebooru.org/images/4146/c26022d31a982f39f569154f37c3445e16643c12.jpg",
+  "fuente": "Safebooru (origen: x.com/AkaiguArts)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fan art de Sophie mejor valorado",
+  "para_que": "referencia de pose y vestuario",
+  "licencia": "Fan art; enlazar y citar autor, no usar directo"
+ },
+ {
+  "url": "https://safebooru.org/images/941/c50d15d2dadb62002bc7e3c66b32713a28d06c93.jpg",
+  "fuente": "Safebooru (origen: pixiv/axis04)",
+  "ancho": 636,
+  "alto": 900,
+  "que_es": "Fan art de Calcifer mejor valorado (6 puntos)",
+  "para_que": "referencia de forma de la llama",
+  "licencia": "Fan art; enlazar y citar autor, no usar directo"
+ },
+ {
+  "url": "https://safebooru.org/images/3342/a55a0f8e4f1519bd4ed9aaf0312f45b94a2fea2d.png",
+  "fuente": "Safebooru (origen: pixiv, crossover con Kiki)",
+  "ancho": 3000,
+  "alto": 4000,
+  "que_es": "Fan art crossover con Kiki (bruja hermana tematica)",
+  "para_que": "referencia de estilo para colaboraciones/crossover",
+  "licencia": "Fan art; enlazar y citar autor, no usar directo"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/4/44/Sophie_holds_bucket.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Sophie con el vestido cerulean, escena interior",
+  "para_que": "vestuario base de Sophie",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/9/99/Old_kiki.jpg",
+  "fuente": "Fandom Ghibli (wiki, titulo real: Sophie anciana)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Sophie anciana con sombrero de paja y liston rojo",
+  "para_que": "vestuario version anciana",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/4/43/Witch_of_the_Waste_-_close_up.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Primer plano de la Bruja del Yermo: joyas, maquillaje",
+  "para_que": "vestuario y accesorios de la Bruja",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/0/01/Sophie_x_howl.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Retrato de Howl con el abrigo a cuadros",
+  "para_que": "vestuario de Howl, colores del abrigo",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c0/Markl.png",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 768,
+  "alto": 559,
+  "que_es": "Retrato de Markl con capucha azul",
+  "para_que": "vestuario de Markl",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/0/06/Market_Scene.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1200,
+  "alto": 649,
+  "que_es": "Vista de Market Chipping desde lejos, valle verde",
+  "para_que": "fondo de pueblo/campos",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/6b/Howl%27s_Moving_Castle_-_Porthaven.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Puerto de Porthaven con banderas y barcos",
+  "para_que": "fondo de ciudad portuaria",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/34/The_Wastes.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1024,
+  "alto": 602,
+  "que_es": "El Yermo (The Waste) al atardecer",
+  "para_que": "fondo de paramo/yermo, luz de tarde",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/d/d1/Howl_Palace.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 915,
+  "alto": 515,
+  "que_es": "Puerta dorada del Palacio Real de Kingsbury",
+  "para_que": "fondo de arquitectura real, dorado",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e0/Howl_Hills.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1200,
+  "alto": 661,
+  "que_es": "Colinas verdes sobre el pueblo con techos rojos",
+  "para_que": "fondo de campos (pedido especial del encargo)",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/aa/Military_Parade.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 1118,
+  "alto": 640,
+  "que_es": "Desfile militar en la ciudad, banderas y uniformes",
+  "para_que": "fondo/ambientacion de guerra",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Howls_Castle.jpg",
+  "fuente": "Fandom Ghibli (wiki)",
+  "ancho": 640,
+  "alto": 346,
+  "que_es": "El castillo ambulante completo, exterior, maquinas visibles",
+  "para_que": "fondo/objeto: el castillo (maquinas, pedido especial)",
+  "licencia": "(c) titulares; solo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/48/wallhaven-483yk2.jpg",
+  "fuente": "Wallhaven (subido por JT42)",
+  "ancho": 4000,
+  "alto": 1600,
+  "que_es": "Fondo de pantalla de fans: collage de peliculas Ghibli incl. el castillo",
+  "para_que": "fondo de pantalla de fans en alta, 100 favoritos",
+  "licencia": "Fan art / uso personal; enlazar y citar"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/4g/wallhaven-4g8e2e.jpg",
+  "fuente": "Wallhaven (subido por JT42)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla de fans centrado en Howl",
+  "para_que": "fondo de pantalla de fans en alta, 67 favoritos",
+  "licencia": "Fan art / uso personal; enlazar y citar"
+ },
+ {
+  "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Metal053C.jpg",
+  "fuente": "ambientCG",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura de metal oxidado/latón tileable",
+  "para_que": "equivalente real para el metal remachado del castillo",
+  "licencia": "CC0 (dominio publico)"
+ },
+ {
+  "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Planks009.jpg",
+  "fuente": "ambientCG",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura de madera vieja en tablones",
+  "para_que": "equivalente real para interiores de madera (tienda de sombreros, cabana)",
+  "licencia": "CC0 (dominio publico)"
+ },
+ {
+  "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Paper006.jpg",
+  "fuente": "ambientCG",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura de papel con grano",
+  "para_que": "equivalente al grano de fondo pintado a mano de Ghibli",
+  "licencia": "CC0 (dominio publico)"
+ },
+ {
+  "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/1024-JPG-FFFFFF/Fabric030.jpg",
+  "fuente": "ambientCG",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura de tela lisa tileable",
+  "para_que": "equivalente para vestuario (capa de Sophie, abrigo de Howl)",
+  "licencia": "CC0 (dominio publico)"
+ },
+ {
+  "url": "https://cdn.mos.cms.futurecdn.net/UQLdRs5CXHKahdwZTVVrLV-1540-80.jpg",
+  "fuente": "Wallpaper.com (articulo sobre Loewe x Studio Ghibli)",
+  "ancho": 1540,
+  "alto": 944,
+  "que_es": "Campana de la coleccion Loewe x El castillo ambulante (2023, foto Juergen Teller)",
+  "para_que": "colaboracion de marca: ropa y bolsos con arte del filme",
+  "licencia": "(c) Loewe / titulares; solo referencia editorial"
+ },
+ {
+  "url": "https://blooloop.com/media-library/howl-s-moving-castle-ghibli-park.jpg?id=56472662&width=1200&height=600",
+  "fuente": "blooloop.com (articulo sobre Ghibli Park)",
+  "ancho": 1200,
+  "alto": 600,
+  "que_es": "Replica del castillo a tamano real en el 'Valle de las Brujas' de Ghibli Park (abierto 16-mar-2024)",
+  "para_que": "evento/atraccion oficial: referencia 3D del castillo real",
+  "licencia": "(c) Studio Ghibli / Ghibli Park; solo referencia editorial"
+ },
+ {
+  "url": "https://www.maison-ghibli.com/28813-large_default/figurine-mecanique-chateau-ambulant-le-chateau-ambulant.jpg",
+  "fuente": "Maison Ghibli (tienda oficial licenciada)",
+  "ancho": 800,
+  "alto": 800,
+  "que_es": "Figura mecanica oficial del castillo ambulante (patas que caminan)",
+  "para_que": "figura oficial: referencia 3D de pose/mecanismo de las patas",
+  "licencia": "(c) titulares; producto oficial licenciado, solo referencia"
+ },
+ {
+  "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/01/img_7186.jpeg",
+  "fuente": "ScreenRant (articulo de cosplay)",
+  "ancho": 1200,
+  "alto": 675,
+  "que_es": "Cosplay de Howl con Calcifer 'encendido' en las manos (u/Jiimboart)",
+  "para_que": "cosplay de referencia: materiales y pose",
+  "licencia": "Fan work; enlazar y citar autor, no usar directo"
+ }
+]
