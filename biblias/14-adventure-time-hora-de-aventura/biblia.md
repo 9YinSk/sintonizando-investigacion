@@ -197,7 +197,9 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
   llama «**Canción de las Papas**» ✅
   ([Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Canci%C3%B3n_de_las_Papas));
   un vídeo de la página latina de la serie en Facebook se titula
-  «Marceline: **Papi, te comiste mis papas**» ⚠️ (sólo vi el título).
+  «Marceline: **Papi, te comiste mis papas**», y el disco oficial en
+  español la trae con ese mismo título (pista 6, 1:43) ✅
+  ([MusicBrainz](https://musicbrainz.org/release-group/1f39e3d6-9a3b-4838-bae0-3e59b37e69eb)).
 - **≈2:15**: su padre, Hunson Abadeer, ve el bajo: «Whoa! **Is this the
   family ax?** Did you turn it into some kind of lute?» (¿es el hacha de
   la familia? ¿la convertiste en una especie de laúd?). Y se lo lleva.
@@ -208,6 +210,27 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
 
 > Para la lámina: esta es la escena del **estreno casero**. Un bajo, un
 > micro, un amigo haciendo ritmo y una grabadora.
+
+**Visto en vídeo (segunda pasada)** ✅: clip «Marceline Sing-a-Long Fry
+Song» de la marca «Toon Tunes» de Cartoon Network, 52 s, 1280×720, con la
+letra en pantalla en inglés
+([Dailymotion](https://www.dailymotion.com/video/x51arca)):
+
+- **0:00**: Finn hace beatbox de pie; **Marceline flota bocabajo tocando
+  el bajo-hacha**, en un cuarto de **paredes rosa** con sillones rojos y
+  puerta doble azul.
+- **0:12**: primer plano de **una grabadora amarilla** con su cable sobre
+  la mesa: el objeto que graba la canción.
+- **0:16-0:24**: flota tocando: «Daddy, why did you eat my fries?».
+- **0:28-0:36**: **primer plano de su cara cantando triste**, ojos
+  entornados y boca abierta: «and I cried, but you didn't see me cry».
+- **0:40-0:44**: Finn con **audífonos puestos** sostiene la grabadora en
+  alto.
+- **0:48**: «Daddy, there were tears there», mirada baja.
+
+Ojo: es un **montaje musical** de Cartoon Network, no el metraje crudo
+del episodio. El cuarto rosa puede ser un set simplificado, aunque
+coincide con los colores de su casa por dentro (§5).
 
 ### 2.2 El álbum conceptual secreto (3×21 «Marceline's Closet») ✅
 
@@ -254,6 +277,25 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
 > Para la lámina: la única escena con **los cinco tocando juntos**. Sirve
 > para un concepto de grupo.
 
+**Visto en vídeo (segunda pasada)** ✅: «I'm Just Your Problem», del
+**canal oficial de Cartoon Network**, 2:07, 1280×720
+([Dailymotion](https://www.dailymotion.com/video/x537pqr)):
+
+- **0:00**: la Dulce Princesa sostiene **un aparato verde tipo Game Boy**
+  junto a BMO.
+- **0:04-0:08**: **Jake corre tocando la viola** y alcanza a Finn.
+- **0:12-0:24**: **Marceline entra volando** con el bajo (filos rojos)
+  hacia una **puerta de piedra en arco con círculos dorados**, la del
+  Señor de las Puertas, y toca sobre ella.
+- **0:24-1:00**: lleva **un sombrero de ala ancha color mostaza con cinta
+  azul**; primeros planos cantando, ceño fruncido y colmillos a la vista
+  ([0:52](https://www.dailymotion.com/video/x537pqr?t=52)).
+- **1:12-1:24**: Finn y Jake llegan corriendo junto a la Princesa.
+- **1:32**: Marceline, con el sombrero, **toca apoyada en la puerta**
+  mientras cae la tarde.
+
+Es **de día, al aire libre**, con cielo despejado: no es la cueva.
+
 ### 2.4 Canciones escritas en notas (4×25 «I Remember You», latino «Te recuerdo») ✅
 
 - **≈1:57**: «Marceline rasguea su bajo-hacha» en su cueva y ve entrar al
@@ -268,10 +310,28 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
 - **≈8:49 a 10:29**: Marceline **canta leyendo las notas** que Simón le
   escribió hace mil años («Singing and reading note»). La letra de
   «**Remember You**» sale de esos papeles. En latino, «**Recordándote**»
-  ⚠️ (lo da la lista del disco en español, abajo).
+  ✅ (Doblaje Wiki y la pista 4 del disco en español en
+  [MusicBrainz](https://musicbrainz.org/release-group/1f39e3d6-9a3b-4838-bae0-3e59b37e69eb)).
 
 > Para la lámina: **la letra de una canción escrita en un papel viejo**.
 > Es la escena que más lloran los fans (ver §14).
+
+**Visto en vídeo (segunda pasada)** ✅: metraje real de la emisión de
+Cartoon Network HD, con audio francés, 1:58
+([Dailymotion](https://www.dailymotion.com/video/xzt1l7)):
+
+- **0:00-0:12**: el Rey Helado toca un teclado; **Marceline entra con un
+  papel en la mano** (paredes rosa, piso verde azulado) y discuten.
+- **0:18-0:30**: primer plano de Marceline, **mano en la cabeza, cara de
+  angustia**.
+- **0:42-1:06**: el Rey Helado toca **una batería verde con «#1» en el
+  bombo**; Marceline, sentada, **toca el bajo con cara seria**.
+- **1:18**: primerísimo primer plano: **cabeza hacia atrás, dientes
+  apretados, una sola lágrima** ([1:18](https://www.dailymotion.com/video/xzt1l7?t=78)).
+- **1:36**: **una Polaroid de Marceline niña**, sonriendo. Corrige la
+  primera pasada: no sólo hay notas escritas.
+- **1:42-1:54**: flashback: **Marceline pequeña con un osito rojo**
+  (Hambo) entre ruinas se acerca a Simon.
 
 ### 2.5 El concierto en el cementerio (10×07 «Marcy & Hunson») ✅
 
