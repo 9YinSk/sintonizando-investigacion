@@ -1,6 +1,6 @@
 # Datos para el investigador de TEXTO, JUEGOS Y TÉCNICA (puntos 5, 6, 11, 18, 24, 25) · Sakamoto Days
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -10,7 +10,7 @@ No repitas estas consultas: sigue desde aquí y busca lo que falta.
 _Fuente: https://anilist.co/anime/177709_
 
 - Títulos: SAKAMOTO DAYS · SAKAMOTO DAYS · SAKAMOTO DAYS · también: サカモト デイズ, أيام ساكاموتو, 사카모토 데이즈, 坂本日常, Дни Сакамото
-- Formato ONA, año 2025, episodios 11, capítulos None, estado FINISHED, nota media 76, popularidad 221701, favoritos 4995
+- Formato ONA, año 2025, episodios 11, capítulos None, estado FINISHED, nota media 76, popularidad 221701, favoritos 5003
 - Estudio: TMS Entertainment · géneros: Action, Comedy
 - Sinopsis: When Sakamoto meets Aoi, the convenience store clerk, it’s love at first sight — and just like that, he retires. · · Sakamoto gets married, has a daughter, opens a mom-and-pop store in a quiet town, and completely transforms … into a plus-size man. To ensure a peaceful life with his beloved family, the legendary ex–hit man bands together with comrades to face off against the looming threat of assassins. · · (Source: Netflix TUDUM) · · Note: The series streamed a week in advance on Netflix Japan starting with episode 2 released alongside episode 1.
 - Temas y rasgos (etiquetas, % de acuerdo): Assassins 96%, Urban 95%, Found Family 94%, Konbini 87%, Crime 86%, Primarily Adult Cast 85%, Super Power 84%, Male Protagonist 83%, Family Life 82%, Slapstick 79%, Gangs 78%, Guns 74%, Shounen 71%, Gore 69%, Urban Fantasy 68%, Espionage 66%, Yakuza 61%, Triads 50%

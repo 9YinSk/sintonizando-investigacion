@@ -1,0 +1,245 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/d/d6/SMATSV_Gwen_Stacy.ogg/revision/latest?cb=20230811073309&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio de Alondra Hidalgo (Gwen Stacy) en Spider-Man: A través del Spider-Verso",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Audio real del doblaje latino: monólogo de Gwen a su papá George («esta máscara es mi placa… estoy completamente sola»), 42 s. Transcrito y medido con voz.py: registro agudo 316 Hz, 30,7 semitonos de expresividad (la más alta medida), 2,61 palabras/s.",
+    "para_que": "§8.3, §13 y §21.3: frase textual del doblaje para la escena que más cita el fandom como «hace llorar», y ejemplo de cuadro de diálogo emotivo para la lámina.",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/f/f7/SMATSV_Miles_Morales.ogg/revision/latest?cb=20230811073312&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio de Emilio Treviño (Miles Morales) en Spider-Man: A través del Spider-Verso",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Audio real del doblaje latino: confrontación de Miles con Miguel O'Hara («¿debemos dejar morir a la gente porque un algoritmo lo dice?») y con Gwen, 59 s. Medido con voz.py: registro medio 171 Hz, 26,2 semitonos, 2,97 palabras/s.",
+    "para_que": "§8.3, §13: frase textual del clímax de ATSV, voz de Miles en su momento más serio (no el «gracioso» que ya cubre la biblia).",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/8/81/SMATSV_Peter_B._Parker.ogg/revision/latest?cb=20230811073312&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio de Miguel Ángel Ruiz (Peter B. Parker) en Spider-Man: A través del Spider-Verso",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Audio real del doblaje latino: Peter B. consolando a Miles con su hija Mayday en brazos («te van a pasar cosas malas… también cosas buenas»), 46 s. Medido con voz.py: registro agudo 266 Hz, 19,9 semitonos, 2,75 palabras/s.",
+    "para_que": "§8.3, §20: frase de consejo/consuelo, útil para un cuadro de diálogo «tranquilizador» y para el dato de que ya es papá de Mayday en ATSV.",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/a/a1/SMATSV_Spider-Man_2099.ogg/revision/latest?cb=20230811073314&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio de José Luis Rivera (Miguel O'Hara) en Spider-Man: A través del Spider-Verso",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Audio real del doblaje latino: explicación de los eventos canónicos («esos son el canon… el evento ASM-90»), 48 s. Medido con voz.py: registro grave 99 Hz (el único grave de los cinco medidos), 12,0 semitonos (poco expresivo), 1,98 palabras/s (lento).",
+    "para_que": "§8.3, §13: confirma con audio el tono serio/sin humor de Miguel; frase exacta de la escena ya citada con minuto en biblia §15.",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/1/17/SMATSV_Spider-Punk.ogg/revision/latest?cb=20230811073314&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio de Óscar Garibay (Hobie Brown / Spider-Punk) en Spider-Man: A través del Spider-Verso",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Audio real del doblaje latino: presentación de Hobie («Fuchis las etiquetas, no soy un héroe…»), 30 s. Medido con voz.py: registro medio 178 Hz, 13,4 semitonos, 3,96 palabras/s (el más rápido de los cinco).",
+    "para_que": "§8.3: resuelve parcialmente el «no encontré I hate labels» de la biblia; ejemplo de jerga/ritmo rápido para diálogo de Hobie.",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Spider-Man%3A_Un_nuevo_universo",
+    "fuente": "Doblaje Wiki (API, wikitext completo de Spider-Man: Un nuevo universo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: estudio (New Art Dub), dirección (Gerardo García), traducción, fecha de grabación, reparto bilingüe completo (original + latino) con audio, y sección «Datos de interés» con premios, curiosidades de adaptación y frases («Es agüita», «Sayonara»).",
+    "para_que": "Base de §8.1, §8.2 y §8.4: resuelve el «estudio y director: no los encontré» y confirma con fuente primaria directa las frases del doblaje que antes sólo tenían un extracto de buscador.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Spider-Man%3A_A_trav%C3%A9s_del_Spider-Verso",
+    "fuente": "Doblaje Wiki (API, wikitext completo de Spider-Man: A través del Spider-Verso)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa: estudio (VSI Mexico City), dirección (Gerardo García), traducción, reparto completo (más de 50 personajes) y «Datos de interés» extenso (adaptación de modismos, cambios de actor, curiosidades de mezcla de audio).",
+    "para_que": "Base de §8.1, §8.2 y §8.4; ya usado en parte por datos-voz.md, aquí se leyó el wikitext completo para las curiosidades y el reparto que faltaban.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://www.marvel.com/articles/movies/phil-lord-christopher-miller-spider-man-into-the-spider-verse-interview",
+    "fuente": "Marvel.com, entrevista oficial a Phil Lord y Chris Miller",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista oficial donde los guionistas explican por qué eligieron a Miles Morales como protagonista de Into the Spider-Verse.",
+    "para_que": "§7: razón oficial de por qué Miles es el corazón de la saga, más allá de las encuestas de personaje favorito.",
+    "licencia": "Artículo editorial de Marvel.com, sólo cita y enlace."
+  },
+  {
+    "url": "https://www.vanityfair.com/hollywood/2018/12/spider-man-into-the-spider-verse-end-of-credits-who-is-miguel-ohara",
+    "fuente": "Vanity Fair, entrevista al director Bob Persichetti",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El director explica por qué Miguel O'Hara fue elegido para la escena post-créditos de UNU: el fandom pedía verlo tras no estar en el equipo central de la primera película.",
+    "para_que": "§7: dato nuevo sobre el porqué de la aparición de Miguel y la relación del fandom con el personaje antes de ATSV.",
+    "licencia": "Artículo editorial de Vanity Fair, sólo cita y enlace."
+  },
+  {
+    "url": "https://www.cbr.com/across-the-spider-verse-addresses-anti-miles-morales-spider-man/",
+    "fuente": "CBR (Comic Book Resources)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo que conecta el aislamiento de Miles en ATSV con el rechazo real que sufrió el personaje al debutar en los cómics.",
+    "para_que": "§12: ejemplo de «qué NO hacer» — no tratar a Miles como Spider-Man de segunda, algo que la propia película denuncia.",
+    "licencia": "Artículo editorial, sólo cita y enlace."
+  },
+  {
+    "url": "https://www.sdpnoticias.com/geek/el-doblaje-de-juansguarnizo-para-spider-man-across-the-spider-verse-parece-fandub-y-los-memes-no-lo-perdonan/",
+    "fuente": "SDPnoticias",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cobertura de la polémica por el doblaje de streamers/influencers en ATSV, con el caso concreto de Juan S. Guarnizo y los memes que generó.",
+    "para_que": "§12 y §22: ejemplo real de «qué NO hacer» en doblaje (figura pública sin oficio en un papel con peso) para un servidor de doblaje profesional.",
+    "licencia": "Artículo editorial, sólo cita y enlace."
+  },
+  {
+    "url": "https://www.sdpnoticias.com/geek/staryuuki-no-miente-e-insulta-a-juan-guarnizo-por-su-doblaje-en-spider-man-a-traves-del-spider-verso/",
+    "fuente": "SDPnoticias",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cobertura de la crítica cantada del imitador Staryuuki al doblaje de Juan S. Guarnizo.",
+    "para_que": "§22: ejemplo de contenido de comunidad hispana (crítica/parodia) generado alrededor del doblaje de la película.",
+    "licencia": "Artículo editorial, sólo cita y enlace."
+  },
+  {
+    "url": "https://holacultura.com/miles-morales-el-impacto-y-evolucion-de-un-fenomeno-afrolatino-de-marvel/",
+    "fuente": "Hola Cultura (sitio de cultura latina en EE. UU., en español)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ensayo en español sobre el impacto y evolución de Miles Morales como fenómeno afrolatino de Marvel.",
+    "para_que": "§21.2: fuente en español sobre por qué el público latino se identifica con Miles, directamente citable para el canal.",
+    "licencia": "Artículo editorial, sólo cita y enlace."
+  },
+  {
+    "url": "https://theconversation.com/across-the-spider-verse-and-the-latino-legacy-of-spider-man-205892",
+    "fuente": "The Conversation / Texas A&M",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ensayo académico-divulgativo sobre el legado latino de Spider-Man a partir de ATSV, incluyendo a Miguel O'Hara.",
+    "para_que": "§21.2: fuente sobre identificación del público latino con varios personajes de la saga, no sólo Miles.",
+    "licencia": "Artículo editorial, sólo cita y enlace."
+  },
+  {
+    "url": "https://deadline.com/2019/02/spider-man-into-the-spider-verse-wins-oscar-for-best-animated-feature-marvel-phil-lord-chris-miller-1202563880/",
+    "fuente": "Deadline",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cobertura del Óscar a Mejor Película Animada 2019 para Into the Spider-Verse.",
+    "para_que": "§21.1: premio oficial que respalda «por qué la gente la ama» con un dato de autoridad verificable.",
+    "licencia": "Artículo editorial, sólo cita y enlace."
+  },
+  {
+    "url": "https://collider.com/spider-man-across-the-spider-verse-global-box-office-663-million/",
+    "fuente": "Collider",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cobertura de la taquilla mundial de Across the Spider-Verse (más de 690 millones de dólares).",
+    "para_que": "§21.1: cifra de taquilla verificada para el argumento de éxito comercial.",
+    "licencia": "Artículo editorial, sólo cita y enlace."
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/spider_man_across_the_spider_verse",
+    "fuente": "Rotten Tomatoes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Puntuación de crítica de Across the Spider-Verse: 96 %.",
+    "para_que": "§21.1: dato de crítica agregada para respaldar «por qué la gente la ama».",
+    "licencia": "Página de agregador, sólo cita y enlace."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rwkzupAHHVI",
+    "fuente": "YouTube, canal Shadowcaat Dubs",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub español latino de una escena Miles/Gwen de Into the Spider-Verse («Hey»), 1195 vistas, subido 12-may-2021.",
+    "para_que": "§22.1: ejemplo real y verificable de fandub hispano de la saga (canal, vistas y fecha confirmados con yt-dlp).",
+    "licencia": "Contenido de fans en YouTube; sólo enlace y cita, no descargar/redistribuir."
+  },
+  {
+    "url": "https://androidphoria.com/curiosidades/evento-canonico-significado-origen-frase-viral-tiktok",
+    "fuente": "Androidphoria (en español)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo en español que explica el origen y significado del meme «evento canónico» para público hispanohablante.",
+    "para_que": "§12 y §22: confirma que el meme también es viral en TikTok hispanohablante, no sólo en inglés.",
+    "licencia": "Artículo editorial, sólo cita y enlace."
+  },
+  {
+    "url": "https://spiderverse.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=Miles_Morales_(Earth-1610)",
+    "fuente": "Spider-Verse Wiki (Fandom, API, wikitext completo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Miles Morales: nombre completo, cumpleaños (3 de agosto de 2004), edad, altura (172 cm), peso (58 kg), Trivia (trastorno de ansiedad, inspiración del personaje, easter eggs).",
+    "para_que": "§13 y §20: cumpleaños, altura y peso exactos, y el dato del trastorno de ansiedad.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://spiderverse.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=Gwendolyn_Stacy_(Earth-65)",
+    "fuente": "Spider-Verse Wiki (Fandom, API, wikitext completo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Gwen Stacy: nombre completo, cumpleaños aproximado (mayo de 2003), edad, altura (162 cm), peso (59 kg), detalle de que siempre lleva chucks turquesa, historia de ballet y gimnasia.",
+    "para_que": "§13 y §20: cumpleaños, altura y peso, y el objeto fijo (los tenis) que la biblia no tenía.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://spiderverse.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=Miguel_O%27Hara_(Earth-928)",
+    "fuente": "Spider-Verse Wiki (Fandom, API, wikitext completo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Miguel O'Hara: edad (35), nacimiento (2063-2064), altura (206 cm / 6'9), etnia (mexicana e irlandesa), apodos que le ponen los demás personajes, Trivia sobre el diseño de Nueva York-2099 como reflejo de su personalidad.",
+    "para_que": "§13 y §20: altura exacta y el dato de que la ciudad se diseñó como extensión de su carácter.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://spiderverse.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=Hobart_Brown_(Earth-138)",
+    "fuente": "Spider-Verse Wiki (Fandom, API, wikitext completo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Hobie Brown: altura (195 cm), peso (68 kg), edad (16-17, comparada por el guionista con los Sex Pistols), ocupación (incluye «modelo de pasarela» brevemente, como protesta), anarquismo.",
+    "para_que": "§13 y §20: altura, edad justificada por el equipo de guion, y el dato curioso del «modelo de pasarela».",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://intothespiderverse.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=Peter_Parker_(Earth-616)",
+    "fuente": "Into the Spider-Verse Wiki (Fandom, API, wikitext completo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de Peter B. Parker: nombre completo, nacimiento (1980), edad (38/39), altura (1,78 m), peso (84 kg → 77,2 kg), estado civil (divorciado → vuelto a casar), hija Mayday.",
+    "para_que": "§13 y §20: edad, altura y peso exactos en las dos películas, y confirmación de la familia (Mayday, MJ).",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8pb9nl",
+    "fuente": "Dailymotion, clip de película «Miles Morales VS Miguel O'Hara» (ATSV), mirado entero con fotogramas.py --cortes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Persecución de Miles por el túnel dimensional (anomalía) hasta el choque final: 189 fotogramas, uno por plano, de 0:00 a 6:51. Cara de Miles sin máscara en varios primeros planos: 0:11 cayendo con los ojos muy abiertos (miedo) y 2:26 con los dientes apretados (rabia). ⚠️ El resto de personajes que cruzan el plano (un hombre de chaqueta rosa, una chica rubia, una figura con capa roja) no pude identificarlos con seguridad como Miguel O'Hara u otro personaje concreto — el título del clip puede ser de una recopilación con escenas mezcladas, así que sólo cito lo que reconocí con certeza (la cara de Miles).",
+    "para_que": "§13 (punto 13 de ENCARGO.md): fotograma+minuto real de la cara de Miles en miedo y en rabia.",
+    "licencia": "Clip promocional/reposteado de Sony en Dailymotion (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8l15ul",
+    "fuente": "Dailymotion, clip de película «Missing Class» (ATSV), mirado entero con fotogramas.py --cortes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Miles entre sus padres en la oficina de la directora, 14 fotogramas de 0:00 a 0:31. A 0:28 Miles cierra los ojos con fuerza y arruga la cara, típica postura de vergüenza/pena frente a sus papás.",
+    "para_que": "§13: fotograma+minuto real de la cara de Miles en vergüenza.",
+    "licencia": "Clip promocional/reposteado de Sony en Dailymotion (uso de referencia/análisis, no redistribuir el archivo)."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x87p3jc",
+    "fuente": "Dailymotion, clip de película «Saying Goodbye» (UNU), mirado entero con fotogramas.py --cortes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Escena de despedida de Gwen y batalla final en el colisionador, 45 fotogramas de 0:00 a 1:46. Peter B. Parker sin máscara (piel clara, pelo castaño, distinto del diseño de Miles) en varios primeros planos: 1:08 con el ceño fruncido y la mandíbula tensa (determinación/seriedad, cercano a rabia) y 1:23 con los ojos muy abiertos y las cejas alzadas (miedo/alarma).",
+    "para_que": "§13: fotograma+minuto real de la cara de Peter B. Parker en dos emociones.",
+    "licencia": "Clip promocional/reposteado de Sony en Dailymotion (uso de referencia/análisis, no redistribuir el archivo)."
+  }
+]

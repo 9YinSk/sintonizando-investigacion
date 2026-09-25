@@ -1,6 +1,6 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Mob Psycho 100
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -135,7 +135,7 @@ _Fuente: https://safebooru.org_
 ## Fondos de pantalla más guardados (Wallhaven, sólo aptos, 1920×1080 o más)
 _Fuente: https://wallhaven.cc_
 
-- 1920x2715 · ♥ 719 · https://w.wallhaven.cc/full/yj/wallhaven-yjd3ld.jpg · subido por vandal454 · origen: https://www.kickstarter.com/projects/585926215/universe-113-character-poster · Egor Klyuchnyk, 113 Character, Universe: 113 Character Poster, Portal (game), game posters, Sonic (series)
+- 1920x2715 · ♥ 720 · https://w.wallhaven.cc/full/yj/wallhaven-yjd3ld.jpg · subido por vandal454 · origen: https://www.kickstarter.com/projects/585926215/universe-113-character-poster · Egor Klyuchnyk, 113 Character, Universe: 113 Character Poster, Portal (game), game posters, Sonic (series)
 - 1920x1080 · ♥ 188 · https://w.wallhaven.cc/full/dp/wallhaven-dpgdp3.jpg · subido por káká311610 · origen: — · city, Naruto (anime), One Piece, Spider-Man, Boku no Hero Academia, The Simpsons
 - 2048x1337 · ♥ 144 · https://w.wallhaven.cc/full/5g/wallhaven-5gpkk7.png · subido por pietech · origen: https://twitter.com/blupixl__/status/1705957685399859327/photo/1 · cartoon, anime girls, collage, monochrome, Ladybug (Miraculous Ladybug), BOCCHI THE ROCK!
 - 4096x2160 · ♥ 132 · https://w.wallhaven.cc/full/eo/wallhaven-eog7lr.png · subido por PedroKun · origen: — · Son Goku, Monkey D. Luffy, Uzumaki Naruto, Gon Freecss, Dragneel Natsu, Elric Edward

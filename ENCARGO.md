@@ -10,6 +10,11 @@ y etiquetas reales). En `biblias/_ya_hechas/` hay tres ejemplos del nivel que se
 espera (Dragon Ball, Bocchi, Attack on Titan) y la guía de **cuadros de diálogo
 por franquicia**.
 
+> **Las biblias son generales** (decisión del dueño, 25-sep): sirven para cualquier uso, no sólo
+> para las láminas de Discord. Investiga la serie entera igual de a fondo; el canal y los
+> 3 conceptos de lámina son una propuesta más, y un choque de canal con otra serie no es un
+> problema: anótalo en una línea y sigue.
+
 ## El contexto
 
 «Sintonizando» es un servidor de Discord hispanohablante (Perú, México,

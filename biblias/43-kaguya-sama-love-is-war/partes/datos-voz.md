@@ -1,6 +1,6 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Kaguya-sama: Love is War
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
@@ -11,14 +11,14 @@ _Fuente: https://anilist.co/anime/101921_
 
 | # | Personaje | Favoritos | Rol | Seiyū | Voz «Spanish» en AniList ⚠️ |
 |---|---|---|---|---|---|
-| 1 | Kaguya Shinomiya (四宮かぐや) | 20516 | MAIN | Aoi Koga | Jessica Ángeles |
+| 1 | Kaguya Shinomiya (四宮かぐや) | 20513 | MAIN | Aoi Koga | Jessica Ángeles |
 | 2 | Chika Fujiwara (藤原千花) | 16164 | MAIN | Konomi Kohara | Elizabeth Infante |
-| 3 | Miko Iino (伊井野ミコ) | 15182 | BACKGROUND | — | — |
-| 4 | Yuu Ishigami (石上優) | 14677 | MAIN | Ryouta Suzuki | Alejandro Orozco |
-| 5 | Ai Hayasaka (早坂愛) | 10930 | SUPPORTING | Yumiri Hanamori | Leyla Rangel |
+| 3 | Miko Iino (伊井野ミコ) | 15180 | BACKGROUND | — | — |
+| 4 | Yuu Ishigami (石上優) | 14674 | MAIN | Ryouta Suzuki | Alejandro Orozco |
+| 5 | Ai Hayasaka (早坂愛) | 10924 | SUPPORTING | Yumiri Hanamori | Leyla Rangel |
 | 6 | Miyuki Shirogane (白銀御行) | 9128 | MAIN | Makoto Furukawa | Enzo Fortuny |
-| 7 | Narrator (ナレーター) | 2232 | SUPPORTING | Yutaka Aoyama | Óscar Flores |
-| 8 | Kei Shirogane (白銀圭) | 1740 | SUPPORTING | Sayumi Suzushiro | Amanda Hinojosa |
+| 7 | Narrator (ナレーター) | 2233 | SUPPORTING | Yutaka Aoyama | Óscar Flores |
+| 8 | Kei Shirogane (白銀圭) | 1739 | SUPPORTING | Sayumi Suzushiro | Amanda Hinojosa |
 | 9 | Maki Shijo (四条眞妃) | 818 | BACKGROUND | Kana Ichinose | Susana Cohe |
 | 10 | Shirogane no Chichi (白銀の父) | 700 | SUPPORTING | Takehito Koyasu | Rafael Pacheco |
 | 11 | Nagisa Kashiwagi (柏木渚) | 135 | SUPPORTING | Momo Asakura | Yaha Lima |
@@ -244,28 +244,28 @@ _Fuente: https://api.dailymotion.com_
 
 **«Kaguya-sama: Love is War latino»**
 - Kaguya-Sama: Love is war Tráiler VO · 0:30 · Sensacine · 2780 vistas · https://www.dailymotion.com/video/x88pf8w
-- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1888 vistas · https://www.dailymotion.com/video/x9vqmls
+- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1889 vistas · https://www.dailymotion.com/video/x9vqmls
 - Kaguya-sama: Love is war - temporada 3 Tráiler VOSE · 1:55 · Sensacine · 1116 vistas · https://www.dailymotion.com/video/x8bc80m
 - Kaguya-sama : Love is War saison 1 Bande-annonce VO · 1:40 · Allociné · 740 vistas · https://www.dailymotion.com/video/x8a2p43
 - 'Kaguya-sama: Love Is War – The First Kiss Never Ends' - Tráiler · 0:35 · Espinof · 733 vistas · https://www.dailymotion.com/video/x8f2tz7
 - Kaguya-sama: Love is War? | movie | 2021 | Official Trailer · 1:43 · JustWatch · 477 vistas · https://www.dailymotion.com/video/x8hquut
 **«Kaguya-sama: Love is War doblaje latino»**
 - Kaguya-Sama: Love is war Tráiler VO · 0:30 · Sensacine · 2780 vistas · https://www.dailymotion.com/video/x88pf8w
-- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1888 vistas · https://www.dailymotion.com/video/x9vqmls
+- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1889 vistas · https://www.dailymotion.com/video/x9vqmls
 - Kaguya-sama: Love is war - temporada 3 Tráiler VOSE · 1:55 · Sensacine · 1116 vistas · https://www.dailymotion.com/video/x8bc80m
 - Kaguya-sama : Love is War saison 1 Bande-annonce VO · 1:40 · Allociné · 740 vistas · https://www.dailymotion.com/video/x8a2p43
 - 'Kaguya-sama: Love Is War – The First Kiss Never Ends' - Tráiler · 0:35 · Espinof · 733 vistas · https://www.dailymotion.com/video/x8f2tz7
 - Kaguya-sama: Love is War? | movie | 2021 | Official Trailer · 1:43 · JustWatch · 477 vistas · https://www.dailymotion.com/video/x8hquut
 **«Kaguya-sama: Love is War fandub español»**
 - Kaguya-Sama: Love is war Tráiler VO · 0:30 · Sensacine · 2780 vistas · https://www.dailymotion.com/video/x88pf8w
-- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1888 vistas · https://www.dailymotion.com/video/x9vqmls
+- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1889 vistas · https://www.dailymotion.com/video/x9vqmls
 - Kaguya-sama: Love is war - temporada 3 Tráiler VOSE · 1:55 · Sensacine · 1116 vistas · https://www.dailymotion.com/video/x8bc80m
 - Kaguya-sama : Love is War saison 1 Bande-annonce VO · 1:40 · Allociné · 740 vistas · https://www.dailymotion.com/video/x8a2p43
 - 'Kaguya-sama: Love Is War – The First Kiss Never Ends' - Tráiler · 0:35 · Espinof · 733 vistas · https://www.dailymotion.com/video/x8f2tz7
 - Kaguya-sama: Love is War? | movie | 2021 | Official Trailer · 1:43 · JustWatch · 477 vistas · https://www.dailymotion.com/video/x8hquut
 **«Kaguya-sama: Love is War fandub latino»**
 - Kaguya-Sama: Love is war Tráiler VO · 0:30 · Sensacine · 2780 vistas · https://www.dailymotion.com/video/x88pf8w
-- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1888 vistas · https://www.dailymotion.com/video/x9vqmls
+- Kaguya-sama Love is War - Trailer de Otona e no Kaidan · 1:09 · Espinof · 1889 vistas · https://www.dailymotion.com/video/x9vqmls
 - Kaguya-sama: Love is war - temporada 3 Tráiler VOSE · 1:55 · Sensacine · 1116 vistas · https://www.dailymotion.com/video/x8bc80m
 - Kaguya-sama : Love is War saison 1 Bande-annonce VO · 1:40 · Allociné · 740 vistas · https://www.dailymotion.com/video/x8a2p43
 - 'Kaguya-sama: Love Is War – The First Kiss Never Ends' - Tráiler · 0:35 · Espinof · 733 vistas · https://www.dailymotion.com/video/x8f2tz7

@@ -15,11 +15,11 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [x] repaso 03-solo-leveling
 - [x] repaso 04-harry-potter
 - [x] repaso 05-oshi-no-ko
-- [ ] repaso 06-spy-x-family
-- [ ] repaso 07-pok-mon
-- [ ] repaso 08-big-hero-6-grandes-h-roes
-- [ ] repaso 09-mafalda
-- [ ] repaso 10-k-on
+- [x] repaso 06-spy-x-family
+- [x] repaso 07-pok-mon
+- [x] repaso 08-big-hero-6-grandes-h-roes
+- [x] repaso 09-mafalda
+- [x] repaso 10-k-on
 - [ ] repaso 11-chainsaw-man
 - [ ] repaso 12-kakegurui
 - [ ] repaso 13-rick-and-morty
@@ -28,10 +28,10 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] repaso 16-neon-genesis-evangelion
 - [ ] repaso 17-arcane
 - [ ] repaso 18-death-note
-- [ ] repaso 19-doraemon
-- [ ] repaso 20-dr-stone
-- [ ] repaso 21-spider-man-into-across-the-spider-verse
-- [ ] repaso 22-violet-evergarden
+- [x] repaso 19-doraemon
+- [x] repaso 20-dr-stone
+- [x] repaso 21-spider-man-into-across-the-spider-verse
+- [x] repaso 22-violet-evergarden
 - [ ] repaso 23-lilo-stitch
 - [ ] repaso 24-assassination-classroom
 - [ ] repaso 25-my-hero-academia
@@ -122,16 +122,16 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [x] 33-frieren
 - [x] 34-haikyuu
 - [x] 35-one-punch-man
-- [ ] 36-hunter-x-hunter
+- [x] 36-hunter-x-hunter
 
 ## Tanda S10
 
 > Haz la tanda S10 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/37-fullmetal-alchemist-brotherhood.md`, `encargos/38-sailor-moon.md`, `encargos/39-saint-seiya-los-caballeros-del-zodiaco.md`, `encargos/40-digimon-adventure.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 37-fullmetal-alchemist-brotherhood
-- [ ] 38-sailor-moon
-- [ ] 39-saint-seiya-los-caballeros-del-zodiaco
-- [ ] 40-digimon-adventure
+- [x] 37-fullmetal-alchemist-brotherhood
+- [x] 38-sailor-moon
+- [x] 39-saint-seiya-los-caballeros-del-zodiaco
+- [x] 40-digimon-adventure
 
 ## Tanda S11
 
@@ -218,8 +218,8 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 
 > Haz la tanda S20 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/77-wistoria-wand-and-sword.md`, `encargos/78-vinland-saga.md`, `encargos/79-demon-slayer-paisajes-y-auras.md`, `encargos/80-solo-leveling-el-sistema-y-las-sombras.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 77-wistoria-wand-and-sword
-- [ ] 78-vinland-saga
+- [x] 77-wistoria-wand-and-sword
+- [x] 78-vinland-saga
 - [ ] 79-demon-slayer-paisajes-y-auras
 - [ ] 80-solo-leveling-el-sistema-y-las-sombras
 

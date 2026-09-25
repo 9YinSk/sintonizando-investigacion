@@ -1,0 +1,209 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/k-on/images/1/1c/Azusa_with_her_guitar.png",
+    "fuente": "K-ON! Wiki (Fandom), arte oficial de Kyoto Animation",
+    "ancho": 2452,
+    "alto": 3834,
+    "que_es": "Azusa de pie con su guitarra, fondo blanco",
+    "para_que": "Pose viva con objeto para Azusa; hex de pelo y piel medidos (#2A2027, #F0CEA8)",
+    "licencia": "Derechos de Kyoto Animation, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/k-on/images/3/33/Ritsu_with_her_drumsticks.png",
+    "fuente": "K-ON! Wiki (Fandom), arte oficial de Kyoto Animation",
+    "ancho": 2451,
+    "alto": 3834,
+    "que_es": "Ritsu de pie con sus baquetas, fondo blanco",
+    "para_que": "Pose viva con objeto para Ritsu; hex de madera y piel medidos",
+    "licencia": "Derechos de Kyoto Animation, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/k-on/images/8/8f/Mugi_with_her_keyboard.png",
+    "fuente": "K-ON! Wiki (Fandom), arte oficial de Kyoto Animation",
+    "ancho": 2451,
+    "alto": 3829,
+    "que_es": "Mugi de pie con su teclado, fondo blanco",
+    "para_que": "Pose viva con objeto para Mugi; hex de pelo rubio medido (#CEB282)",
+    "licencia": "Derechos de Kyoto Animation, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/k-on/images/9/98/Mio_with_her_bass_2.png",
+    "fuente": "K-ON! Wiki (Fandom), arte oficial de Kyoto Animation",
+    "ancho": 2448,
+    "alto": 3832,
+    "que_es": "Mio de pie con su bajo, fondo blanco",
+    "para_que": "Pose viva con objeto para Mio (suele ganar las encuestas); hex de madera del bajo y piel medidos",
+    "licencia": "Derechos de Kyoto Animation, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/k-on/images/6/6d/HTT_posing.jpg",
+    "fuente": "K-ON! Wiki (Fandom), arte oficial",
+    "ancho": 3833,
+    "alto": 2521,
+    "que_es": "Las cinco en uniforme de invierno, de pie en la calle",
+    "para_que": "Hex del blazer medido (#4E4963), referencia de grupo en uniforme",
+    "licencia": "Derechos de Kyoto Animation, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/k-on/images/5/52/K-ON!!_Character_Image_Songs_Azusa.jpg",
+    "fuente": "K-ON! Wiki (Fandom), portada de CD (Character Image Songs)",
+    "ancho": 4000,
+    "alto": 4000,
+    "que_es": "Primer plano del torso de Azusa, portada de CD oficial",
+    "para_que": "Hex medido de un accesorio (verde-azulado #40A496, sin identificar objeto)",
+    "licencia": "Derechos de Kyoto Animation/Pony Canyon, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/k-on/images/f/fa/Ch_2_-_Pg_2.png",
+    "fuente": "K-ON! Wiki (Fandom), página real del manga de Kakifly",
+    "ancho": 728,
+    "alto": 1040,
+    "que_es": "Página de manga (capítulo 2), línea y trama reales",
+    "para_que": "Referencia de línea/trama para el punto 19 (texturas 2D) y para el cuadro de diálogo del punto 6",
+    "licencia": "Derechos de Kakifly/Hobunsha, sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/cute-tea-pot-set-blend-d6977572a8214af9b3c16fe5750016a2",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Set de tetera y tazas en 3D, descargable en .blend",
+    "para_que": "Objeto del plan: la mesa del club con tazas",
+    "licencia": "CC Attribution (CC BY) — autor iamartzz"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/tea-set-194d8940512b40c591ee4dccaeabcb68",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Set de té en 3D",
+    "para_que": "Objeto del plan: la mesa del club con tazas",
+    "licencia": "CC Attribution-ShareAlike (CC BY-SA) — autor asiam"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/tea-pot-and-cups-723c265903424b9d8e87cda4d4d63059",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tetera y tazas en 3D",
+    "para_que": "Objeto del plan: la mesa del club con tazas",
+    "licencia": "CC Attribution (CC BY) — autor Pouya.majidi"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/slice-of-cake-1adc97c8421c4f6da647c77362796327",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Rebanada de pastel en 3D",
+    "para_que": "Objeto del plan: el pastel de la mesa del club",
+    "licencia": "CC Attribution (CC BY) — autor marcogodi1"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-0d42458492a1469a80aeaee52ad78c30",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guitarra Gibson Les Paul en 3D",
+    "para_que": "Referencia de la Gitah de Yui",
+    "licencia": "CC Attribution (CC BY) — autor Ismaele.Giraldo"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-898f2f4ba1704abe9c784066e2b0f751",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Batería completa en 3D",
+    "para_que": "Referencia de la batería de Ritsu",
+    "licencia": "CC Attribution (CC BY) — autor art.katja"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e1c6d381a61040139ac64adee6b6bf93",
+    "fuente": "Sketchfab, confirmado por la API v3/models",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Bajo Fender Jazz Sunburst en 3D",
+    "para_que": "Se parece a la Elizabeth de Mio (Jazz Bass 3-tone sunburst)",
+    "licencia": "CC Attribution (CC BY) — autor boogie4631"
+  },
+  {
+    "url": "https://www.zerochan.net/4395127",
+    "fuente": "Zerochan (archivo también en servidores de Amazon)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla oficial de Kyoto Animation",
+    "para_que": "Fondo de pantalla en alta, punto 16",
+    "licencia": "Derechos de Kyoto Animation, sólo referencia"
+  },
+  {
+    "url": "https://www.zerochan.net/4375977",
+    "fuente": "Zerochan",
+    "ancho": 2000,
+    "alto": 3000,
+    "que_es": "Fondo de pantalla oficial para móvil",
+    "para_que": "Fondo de pantalla en alta (formato vertical), punto 16",
+    "licencia": "Derechos de Kyoto Animation, sólo referencia"
+  },
+  {
+    "url": "https://www.pixiv.net/en/artworks/86083338",
+    "fuente": "pixiv (autor hzqqy), vía Wallhaven",
+    "ancho": 2758,
+    "alto": 1600,
+    "que_es": "Fan art de Yui, Ritsu, Mio y Mugi para fondo de pantalla",
+    "para_que": "Fondo de pantalla de fans en alta, con autor, punto 16",
+    "licencia": "Fan art con dueño, sólo referencia y contraste"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de papel (grano)",
+    "para_que": "Equivalente libre del grano de papel del manga, punto 19",
+    "licencia": "CC0 (dominio público), sin crédito"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/%27Small_abstract_02.%27_-_gouache_and_ink_sketch_on_paper_with_black_brush_strokes_and_ink_texture%2C_created_by_Dutch_artist_Fons_Heijnsbroek_in_2004.png",
+    "fuente": "Wikimedia Commons, confirmado por la API de Openverse",
+    "ancho": 5017,
+    "alto": 4084,
+    "que_es": "Pincelada de tinta negra sobre papel",
+    "para_que": "Equivalente libre de pincelada/tinta, punto 19",
+    "licencia": "CC0 (dominio público) — autor Fons Heijnsbroek"
+  },
+  {
+    "url": "https://ipfield.net/tieup-summary/keion/",
+    "fuente": "IPField (resumen de tie-ups de anime, japonés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de colaboraciones históricas de K-On! (Zoff, Denny's, Shimamura, Keihan, censo de Kioto, Lawson)",
+    "para_que": "Fuente para el punto 23 (colaboraciones y cruces)",
+    "licencia": "Página informativa, no es una imagen"
+  },
+  {
+    "url": "https://collabo-cafe.com/events/category/k-on/",
+    "fuente": "Collabo-Cafe.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de eventos y pop-ups recientes de K-On! (Kotobukiya, Cospa, CHILLfigg, POP UP PARADE)",
+    "para_que": "Fuente para el punto 23 (colaboraciones y cruces recientes)",
+    "licencia": "Página informativa, no es una imagen"
+  },
+  {
+    "url": "https://idolypride.jp/gallery/tag/collabo/",
+    "fuente": "Sitio oficial de IDOLY PRIDE",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Galería del crossover IDOLY PRIDE × K-On! (abril-mayo 2023)",
+    "para_que": "Arte nuevo de estilo distinto para el punto 23",
+    "licencia": "Derechos de QualiArts/Bushiroad, sólo referencia"
+  },
+  {
+    "url": "https://www.goodsmile.com/en",
+    "fuente": "Good Smile Company (figma, POP UP PARADE)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Figuras oficiales de K-On! (figma de Mio, POP UP PARADE de Yui y Mio)",
+    "para_que": "Referencia 3D de pose oficial, punto 23",
+    "licencia": "Producto comercial con dueño, sólo referencia de pose"
+  }
+]

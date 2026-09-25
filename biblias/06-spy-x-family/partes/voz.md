@@ -496,6 +496,137 @@ cifra de reacción).
   («Sign in to confirm you're not a bot», error 429), 1 intento, como pide
   `AYUDANTE.md`.
 
-Sigue: nada obligatorio de los puntos 20/21/22 queda pendiente (ver «No
-encontré» para los extras). Falta que el redactor decida si mete la escena de
-«STELLA» y el contraste de encuestas Oriente/Occidente en la biblia.
+---
+
+## Confirmaciones del repaso (repaso completo, puntos 8/12/13 de la biblia)
+
+`COMPLEMENTO.md` pide bajar los ⚠️ de una sola fuente que ya estaban escritos
+en `biblia.md` §8 y §10 (doblaje) y §14 (fandom). Fui punto por punto de lo
+que pidió el coordinador. Los textos entre comillas son para que el redactor
+los pegue en `biblia.md` tal cual (o los adapte).
+
+### 1) Doblaje: nombres con segunda fuente
+
+Encontré la fuente que faltaba para 3 de los 5: **GamerFocus.co**, con la
+tabla completa del reparto de la película *Spy × Family CÓDIGO: Blanco*
+(«Voces de Spy x Family Código: Blanco en español latino»), que es un medio
+totalmente distinto de Doblaje Wiki:
+
+- **Narrador — Carlos Torres**: ✅ (antes ⚠️ una fuente). [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Spy_%C3%97_Family)
+  (ficha de la serie + [página propia del actor](https://doblaje.fandom.com/es/wiki/Carlos_Torres),
+  que lista «Narrador en Spy × Family (2022)» junto a sus otros ~40 papeles) +
+  [GamerFocus.co](https://www.gamerfocus.co/anime/spy-x-family-codigo-blanco-trailer-con-doblaje-de-voces-en-espanol-latino/),
+  tabla de voces de la película, categoría «Personajes secundarios»:
+  «Narrador — Kenichirō Matsuda (JP) — Carlos Torres (latino)».
+- **Fiona Frost — Mariana Ortiz**: ✅ (antes ⚠️ una fuente). Doblaje Wiki
+  (ficha de la serie + [página del actor](https://doblaje.fandom.com/es/wiki/Mariana_Ortiz),
+  que también la acredita en la película) + GamerFocus.co, misma tabla:
+  «Fiona Frost / Nightfall — Ayane Sakura (JP) — Mariana Ortiz (latino)».
+- **Bond Forger — Brandon Montor**: ✅ (antes ⚠️ «dos páginas de Doblaje Wiki,
+  fuera de ella no lo vi»). Ahora sí hay una fuente externa: Doblaje Wiki +
+  GamerFocus.co, misma tabla, entre los 4 protagonistas: «Bond Forger —
+  Kenichirō Matsuda (JP) — Brandon Montor (latino)».
+- **Martha Marriott — Susana Romero**: **sigue ⚠️, una sola fuente**. Busqué
+  a fondo y no encontré una segunda: no sale en la tabla de la película
+  (Martha no aparece en *Código: Blanco*), TierraGamer no la cubre (su nota
+  es de abril de 2022, antes de que Martha apareciera en pantalla), su
+  Wikipedia en inglés («Susana Romero (actress)») es sobre su carrera de
+  actriz de imagen real en España, no de doblaje mexicano — es una
+  homónima, no la misma persona —, su Instagram y una wiki de personajes
+  (anibase.net) no cargaron (403/sin JS). Queda igual que antes: ⚠️ una
+  fuente (Doblaje Wiki, ficha de la serie + [página propia](https://doblaje.fandom.com/es/wiki/Susana_Romero),
+  que sí la acredita en «Spy × Family (2022-presente)», pero es el mismo
+  sitio).
+- **La voz latina de Yuri Briar (el «dato confuso» Héctor Mena / Ricardo
+  Bautista)**: ✅ **resuelto** — y una aclaración: en `biblia.md` §8 este dato
+  está pegado al párrafo de **Yuri Briar**, no al de Franky (Franky ya tiene
+  su propio actor confirmado con dos fuentes, **Miguel Ángel Ruiz**, sin
+  relación con esta confusión). Ahora con dos fuentes independientes:
+  [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Spy_%C3%97_Family) dice
+  que Héctor Mena lo hace de adulto en general y Ricardo Bautista sólo en el
+  episodio 2; y [TierraGamer](https://tierragamer.com/noticias/anime/quienes-son-las-voces-del-doblaje-de-spy-x-family-en-espanol-latino/)
+  confirma, por su cuenta, que «la voz de Yuri Briar... viene de tres
+  actores. De adulto por **Héctor Mena y Ricardo Bautista**; de niño por
+  **Desireé González**» ✅. No es un dato confuso: son dos actores que
+  comparten el papel de adulto (uno para el ep. 2, el otro para el resto), y
+  un tercero para de niño. Texto sugerido para §8: «Voz latina: **Héctor
+  Mena** en casi toda la serie; **Ricardo Bautista** sólo en el episodio 2; de
+  niño, **Desireé González** ✅ (Doblaje Wiki + TierraGamer, dos fuentes)».
+
+### 2) Frases latinas textuales, con minuto
+
+Intenté sacarlas de las muestras oficiales de Doblaje Wiki con `voz.py`
+(transcribí `Anya`, `Damian`, `Yuri` y `Bond`) y de Dailymotion/TikTok, como
+pidió el coordinador. Resultado, honesto:
+
+- Las **muestras de audio de Doblaje Wiki NO traen estas frases**: son clips
+  cortos que la propia wiki eligió (para Anya, una serie de exclamaciones de
+  batalla del ep. 15 en adelante; para Damian, un insulto genérico; para
+  Yuri, su monólogo interno del ep. 2). Transcritas con `voz.py`, ninguna
+  contiene «mimir», «qué emoción», «chihuahita», «Segundo/Menor» ni
+  «Loichi» — comprobado escuchando la transcripción completa de cada una,
+  no sólo el título.
+- **Dailymotion** (`api.dailymotion.com/videos?search=`, en español): busqué
+  «Spy x Family Anya mimir», «papi quiero mimir», «que emocion»,
+  «chihuahita», «Segundo Damian» — ninguna devolvió el clip real (salen
+  vídeos genéricos sin relación, o subtitulados en indonesio). Uno de los
+  candidatos con duración corta dio error 503 al bajarlo con `voz.py`, no
+  insistí una segunda vez.
+- **TikTok**: localicé el vídeo exacto «PAPI QUIERO MIMIR😴» (@mayk_boom) con
+  el buscador, pero `voz.py` (que usa `yt-dlp`) no pudo bajarlo: «Unexpected
+  response from webpage request» (TikTok cambió su web y `yt-dlp` no lo lee
+  bien ahora mismo) — 1 intento, no insistí más.
+- **«¿Qué quieres, chihuahita?»**: una búsqueda sí confirmó el contexto (no
+  el audio): es del **episodio 28**, cuando Yuri visita a su hermana y Anya
+  le lee la mente y lo consuela — coincide con lo que ya decía la biblia.
+  Sigue ⚠️ porque esa descripción sale de un resumen del propio título del
+  clip de YouTube, no de haberlo escuchado.
+- Conclusión: **no pude confirmar el minuto exacto de ninguna de las 5
+  frases** con las herramientas de este servidor (YouTube pide iniciar
+  sesión; Dailymotion no tiene el clip; TikTok bloqueó la descarga). Dejo la
+  bitácora completa para que quien tenga cupo de YouTube limpio lo intente
+  con `fotogramas.py`/`voz.py` directamente sobre los enlaces que ya cita la
+  biblia (`https://www.youtube.com/watch?v=zWtThxfX_iU`,
+  `=0Ol4BMikSkk`, `=OFjTpVJ47Ms`).
+
+### 3) Lo que decía «de memoria»
+
+- **Voz japonesa de Loid — Takuya Eguchi**: ✅ resuelto, sin necesitar
+  buscador. Estaba en dos fuentes que ya teníamos y no se habían cruzado: el
+  campo «Japanese VA» de la ficha de [Loid Forger en Spy x Family Wiki](https://spy-x-family.fandom.com/wiki/Loid_Forger)
+  (`Takuya Eguchi`) y la tabla de AniList que ya está en `datos-voz.md`
+  (`Takuya Eguchi`). Quita el «de memoria» de §8.
+- **El ladrido «¡Bofu!» de Bond**: ✅ confirmado, con un matiz importante:
+  es el sonido **original en japonés**, no necesariamente algo que se oiga
+  así en el doblaje latino (los perros no «hablan» en la mezcla latina).
+  Fuente primaria: la ficha de [Bond Forger](https://spy-x-family.fandom.com/wiki/Bond_Forger)
+  dice que Franky le puso el apodo «Worfles» — en japonés **「ボフ公」
+  (Bofu-kō)**, literalmente «Duque Bofu» (cita: Short Mission 8, pág. 2) — es
+  decir, «bofu» es la onomatopeya de su ladrido en el manga original, de
+  donde sale el apodo. Segunda fuente independiente: mi búsqueda encontró
+  por separado la misma etimología («Bofu» → «Bofu-kō» → «Worfles») sin
+  partir de la wiki. ✅ dos fuentes, pero aclarando en la biblia que es la
+  onomatopeya JAPONESA, no del doblaje latino (que no se comprobó).
+- **Yor se descontrola con alcohol en el ep. 9**: ✅ confirmado con dos
+  fuentes independientes. La sinopsis oficial del episodio (`spy-family.net`,
+  citada por la [ficha del Episodio 9](https://spy-x-family.fandom.com/wiki/Episode_9))
+  dice textual: «Yor can't do this sober, so she ends up downing a bunch of
+  wine and gets drunk» — tiene que besar a Loid delante de Yuri para probar
+  que están casados, no puede hacerlo sobria, y se toma la botella entera.
+  Confirmado además por reseñas independientes del episodio (
+  [CBR](https://www.cbr.com/spy-x-family-episode-9-wild-first-kiss-scene/),
+  [But Why Tho?](https://butwhytho.net/2022/06/review-spy-x-family-episode-9-show-off-how-in-love-you-are/),
+  [ComingSoon.net](https://www.comingsoon.net/anime/reviews/1225075-spy-x-family-episode-9-review-show-off-how-in-love-you-are)),
+  que describen la misma escena: Yor se empina el vino, casi abofetea a
+  Loid ya borracha y termina golpeando por accidente a Yuri, que sangra de
+  la cabeza. Quita el «de memoria» de §8.
+
+---
+
+Sigue: sólo queda pendiente, de lo obligatorio de esta tanda, la segunda
+fuente de **Martha Marriott — Susana Romero** (punto 1): busqué a fondo (ver
+arriba) y no la encontré, no la dejé sin intentar. Si alguien tiene acceso a
+YouTube sin bloqueo, también quedaría mejor el minuto exacto de las 5 frases
+del punto 2 (con `fotogramas.py`/`voz.py` sobre los enlaces ya citados en la
+biblia). Nada más de los puntos 20/21/22 (tanda anterior) ni de esta tanda
+queda obligatorio pendiente.

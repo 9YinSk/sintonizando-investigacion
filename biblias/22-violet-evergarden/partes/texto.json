@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/violet-evergarden/images/1/15/CHPC_Logo.png/revision/latest?cb=20180212135508",
+    "fuente": "Fandom (violet-evergarden.fandom.com, archivo CHPC Logo.png)",
+    "ancho": 1275,
+    "alto": 656,
+    "que_es": "Letrero/placa con el logo de la C.H. Postal Company en la fachada de la oficina",
+    "para_que": "Emblema de grupo para un sello o etiqueta del canal #poemas (punto 25)",
+    "licencia": "Material promocional de Kyoto Animation, sólo referencia (necesita cabecera Referer: https://www.fandom.com/ para descargar)"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Violet_Evergarden_logo.svg",
+    "fuente": "Wikimedia Commons",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Logo oficial bilingüe (katakana + \"Violet Evergarden\" en latín) en SVG vectorial",
+    "para_que": "Referencia de letra del logo (punto 5); no se usa para pegar, sólo para comparar forma",
+    "licencia": "PD/no alcanza el umbral de originalidad en Japón (texto/formas simples), según la propia página de Commons"
+  },
+  {
+    "url": "https://wakupaku.hmup.jp/blog/blog/design-anime-violetevergarden",
+    "fuente": "わくぱく (blog de diseño, análisis del sitio oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis técnico del CSS del sitio oficial: fuentes reales (Honmincho Komana, Special Elite, Merriweather) y colores (#efeed9, #b4832f, #000000)",
+    "para_que": "Confirmar las letras y colores de §5/§6 con una fuente técnica real, no a ojo",
+    "licencia": "Sólo consulta: es un artículo de blog, no un recurso descargable"
+  },
+  {
+    "url": "https://booth.pm/ja/items/1979406",
+    "fuente": "BOOTH (booth.pm, tienda japonesa de creadores)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "テルシス語フォント(ブロック体＋筆記体) — letra fan-made del alfabeto inventado Tellsis, con estilo de bloque y cursivo, hecha a partir del cuadernillo del Blu-ray",
+    "para_que": "Adorno del alfabeto inventado en la cabecera de una carta (punto 5); nunca para texto que haya que leer",
+    "licencia": "Gratis (¥0) para descargar; la ficha no declara licencia de uso/redistribución explícita (copyright por defecto del autor)"
+  },
+  {
+    "url": "https://kairi003.github.io/tellsis-translator/",
+    "fuente": "GitHub Pages (Kairi003/tellsis-translator)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Traductor en línea del alfabeto/idioma inventado Tellsis de la serie",
+    "para_que": "Generar texto correcto en el alfabeto inventado para una cabecera decorativa (punto 5)",
+    "licencia": "Herramienta de fan, código en GitHub; comprobar licencia del repo antes de reusar el código"
+  },
+  {
+    "url": "https://blog.sakugabooru.com/2018/01/13/violet-evergarden-production-notes-1/",
+    "fuente": "Sakuga Blog",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis de producción del episodio 1: línea muy detallada de Akiko Takase, sombreado con luz reflejada del entorno, uso de 3D para las teclas de la máquina de escribir",
+    "para_que": "Base con fuente citable de la técnica de dibujo y sombreado a replicar (punto 18)",
+    "licencia": "Sólo consulta: artículo de análisis, no recurso descargable"
+  },
+  {
+    "url": "https://blog.sakugabooru.com/2018/02/27/violet-evergarden-production-notes-7/",
+    "fuente": "Sakuga Blog",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Detalle del pipeline de software: RETAS STUDIO PaintMan HD, Photoshop, 3ds Max, After Effects; paleta de color del episodio 7",
+    "para_que": "Confirmar qué programas usó KyoAni, para la guía de réplica en Photoshop/Blender (punto 18)",
+    "licencia": "Sólo consulta"
+  },
+  {
+    "url": "https://ultimatemegax.wordpress.com/2022/01/12/violet-evergarden-roundtable-2-digital-background-staff/",
+    "fuente": "Ultimatemegax (traducción de mesa redonda del staff)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista/mesa redonda con el director de fotografía Kouhei Funamoto, la diseñadora de color Yuuka Yoneda, la directora de arte Mikiko Watanabe y la directora de 3D Rin Yamamoto, sobre compositing, color y luz",
+    "para_que": "La fuente técnica más completa para el punto 18: cómo se hizo el 'look' de la serie y cómo replicarlo",
+    "licencia": "Sólo consulta: traducción de fan de una entrevista de una revista japonesa"
+  },
+  {
+    "url": "https://atmafunomena.wordpress.com/2018/08/26/violet-evergarden-interviews-taichi-ishidate-earnestness-immersion-subtlety/",
+    "fuente": "ATMA & Funomena (traducción del fanbook oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista al director Taichi Ishidate: por qué Violet no parpadea, por qué siempre mira de frente, el tono 'serio y sencillo' de la dirección",
+    "para_que": "Regla de dirección real para posar/generar a Violet con IA de imagen (puntos 17/18)",
+    "licencia": "Sólo consulta: traducción de fan del fanbook oficial de Kyoto Animation"
+  },
+  {
+    "url": "https://violet-evergarden.fandom.com/wiki/Leidenschaftlich",
+    "fuente": "Fandom (violet-evergarden.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del país donde vive Violet: geografía, historia, gobierno, tecnología y ejército, citando la web oficial violet-evergarden.jp/world/",
+    "para_que": "Las reglas del mundo en 5 líneas y el trasfondo histórico (punto 25)",
+    "licencia": "Sólo consulta"
+  },
+  {
+    "url": "https://violet-evergarden.fandom.com/wiki/Auto_Memories_Doll",
+    "fuente": "Fandom (violet-evergarden.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del oficio de Auto Memory Doll: origen (Dr. Orland y su esposa Molly), qué hacen, cómo se paga el servicio",
+    "para_que": "Vocabulario y trasfondo del oficio central de la serie (punto 25)",
+    "licencia": "Sólo consulta"
+  },
+  {
+    "url": "https://violet-evergarden.fandom.com/wiki/C.H_Postal_Company",
+    "fuente": "Fandom (violet-evergarden.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la C.H. Postal Company: historia, plantas del edificio, fundador Claudia Hodgins",
+    "para_que": "Datos del sitio/objeto de la lámina y su logo (punto 25)",
+    "licencia": "Sólo consulta"
+  },
+  {
+    "url": "https://violet-evergarden.fandom.com/wiki/Gilbert_Bougainvillea_(anime)",
+    "fuente": "Fandom (violet-evergarden.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Gilbert: confirma con imagen de la novela ligera (Vol. 1, cap. 6) que le regala un broche a Violet",
+    "para_que": "Objeto icónico personal de Violet, alternativa/complemento a la máquina de escribir (punto 25)",
+    "licencia": "Sólo consulta"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Violet_Evergarden",
+    "fuente": "Wikipedia (inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Resumen de la serie y guía de episodios 1-13 con su tema/cliente de cada uno",
+    "para_que": "Historia por arcos con momentos clave (punto 25)",
+    "licencia": "Sólo consulta"
+  },
+  {
+    "url": "https://graphql.anilist.co",
+    "fuente": "API GraphQL de AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Confirma que las tres entradas bajo 'manga' de Violet Evergarden en AniList (id 97298, 109121, 115977) son en realidad format NOVEL, no cómic",
+    "para_que": "Confirmar con dos fuentes que no hay manga oficial (punto 6)",
+    "licencia": "Datos abiertos de AniList, sólo consulta"
+  }
+]

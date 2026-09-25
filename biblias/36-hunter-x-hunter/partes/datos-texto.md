@@ -4,13 +4,13 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: Command '['/usr/local/bin/python3', '/home/user/sintonizando-investigacion/herramientas/investigar_serie.py', '--serie', 'Hunter x Hunter', '--wiki', 'hunterxhu · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## La obra en datos (AniList)
 _Fuente: https://anilist.co/anime/136_
 
 - Títulos: HUNTER×HUNTER · Hunter x Hunter · HUNTER×HUNTER · también: ハンターxハンター, HxH, 全职猎人, القناص
-- Formato TV, año 1999, episodios 62, capítulos None, estado FINISHED, nota media 83, popularidad 135028, favoritos 4439
+- Formato TV, año 1999, episodios 62, capítulos None, estado FINISHED, nota media 83, popularidad 135064, favoritos 4439
 - Estudio: Nippon Animation · géneros: Action, Adventure, Fantasy
 - Sinopsis: A Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him. · · After becoming 12, Gon leaves his home and takes on the task of entering the Hunter exam, notorious for its low success rate and high probability of death to become an official Hunter. He befriends the revenge-driven Kurapika, the doctor-to-be Leorio and the rebellious…
 - Temas y rasgos (etiquetas, % de acuerdo): Shounen 95%, Ensemble Cast 90%, Super Power 80%, Cultivation 80%, Urban Fantasy 79%, Male Protagonist 78%, Primarily Teen Cast 70%, Revenge 68%, Primarily Male Cast 65%, Crime 64%, Assassins 55%, Travel 50%, Kuudere 48%, Food 20%
@@ -70,38 +70,3 @@ _Fuente: https://anilist.co/anime/136_
 - ADAPTATION: Hunter x Hunter (MANGA MANGA)
 - SIDE_STORY: HUNTER×HUNTER Pilot-ban (ANIME OVA)
 - ALTERNATIVE: Hunter x Hunter (2011) (ANIME TV)
-
-## Videojuegos en Steam: interfaz y cuadros de diálogo en capturas 1920×1080
-_Fuente: https://store.steampowered.com_
-
-- **HUNTER×HUNTER NEN×IMPACT** (16 JUL 2025, Bushiroad Games) · https://store.steampowered.com/app/2456420 · 10 capturas · idiomas: Inglés, Chino simplificado, Chino tradicional, Japonés*, Francés, Italiano, Alemán, Español de España, Coreano · *idiomas con localización de audio
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456420/ss_6e33f23aade2685a92c6d2b7b3c7dfa7889ab967.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456420/ss_edca80f98ffd7280dc2804942368c646ada4907d.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456420/ss_a083d85787192c0a323b796c88f87fc5dd2d6758.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456420/ss_10ef8c998f15363cb5d80abf3ece6f343d800a13.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456420/ss_e40035d3f96f6df3bb26ee15bccd19ce3d63e8a8.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456420/ss_7e40563158c6de96a637281be4e5da905943ae7c.1920x1080.jpg
-- **NTR Hunter** (31 JUL 2026, Team18) · https://store.steampowered.com/app/4458730 · 9 capturas · idiomas: Inglés, Chino simplificado, Tailandés, Chino tradicional
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458730/05339ba7b403b1d93a212c308da71e55160b71ef/ss_05339ba7b403b1d93a212c308da71e55160b71ef.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458730/9b86cb63857e33b04f016ce8841c4430447adfcf/ss_9b86cb63857e33b04f016ce8841c4430447adfcf.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458730/a93fddee624b8abffb827e62b48a8496de54302c/ss_a93fddee624b8abffb827e62b48a8496de54302c.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458730/c18007b00ca6b8ce39d8fdb04a52bb38dd26df14/ss_c18007b00ca6b8ce39d8fdb04a52bb38dd26df14.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458730/634aee3169a7c1cf702a31039801dc4b3da124c0/ss_634aee3169a7c1cf702a31039801dc4b3da124c0.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458730/f9c3d8eedadc091985bb841a016dcc12c387dac3/ss_f9c3d8eedadc091985bb841a016dcc12c387dac3.1920x1080.jpg
-- **Hamster Hunter** (31 DIC 2023, Hamuno) · https://store.steampowered.com/app/2726490 · 10 capturas · idiomas: Inglés*, Alemán*, Holandés*, Ruso* · *idiomas con localización de audio
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726490/ss_fd7ca239b2341a20ce85501bc7aa95f446715ea1.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726490/ss_114bad707c997f6d041818e7b58b53d717b25cee.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726490/ss_962a940c912a0ac87d67ac5e0010f89e04d5b24a.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726490/ss_b18063cf8df3de12dd86e0270304d5fa12537675.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726490/ss_fb184bdc7ddf1547d539f81dcacb6d891b99f19c.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726490/ss_51d4a7124d642a39157ef735eaa2aff0b5828c63.1920x1080.jpg
-- **HUNTER×HUNTER NEN×IMPACT Demo** (29 MAY 2025, Bushiroad Games) · https://store.steampowered.com/app/3589100 · 0 capturas · idiomas: Inglés, Chino simplificado, Chino tradicional, Japonés* · *idiomas con localización de audio
-- **Quest Hunter** (8 MAR 2019, 2 Zombie Games) · https://store.steampowered.com/app/487000 · 21 capturas · idiomas: Inglés, Ruso, Alemán, Francés, Chino simplificado, Japonés, Portugués de Brasil, Chino tradicional, Español de España
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487000/ss_a7b623ee0c7ad03cafd3c2eaa0b240da3210523d.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487000/ss_5ad7ac72060a902231f203075eb2a4b69ae4c2d0.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487000/ss_fe9b72b3c0dac223f658209a5b6b19be0dfa9043.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487000/ss_987fa85160926ea95f155b42d2f5fbe199480769.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487000/ss_49a3050d40011729a2cedeeae54acd6cbdbe107a.1920x1080.jpg
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487000/ss_819e3026f01044b38c2a24814f6b75a0d809f0c7.1920x1080.jpg
-- **HUNTER×HUNTER NEN×IMPACT season pass 1** (16 JUL 2025, Bushiroad Games) · https://store.steampowered.com/app/3486300 · 1 capturas · idiomas: Inglés, Chino simplificado, Chino tradicional, Japonés* · *idiomas con localización de audio
-  - https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486300/ss_f0f581b9c3975ae755d934ea27bfabe84b4a75ac.1920x1080.jpg
