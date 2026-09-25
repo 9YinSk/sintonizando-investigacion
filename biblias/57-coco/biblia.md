@@ -920,3 +920,157 @@ Los tres son para **`#🎧・que-estas-escuchando`** (§ El canal). Textos del c
 
 **Si una lámina se satura** (regla 5): la **lámina 2** lleva la lista de «lo que no va aquí» con los tres canales vecinos, en el mismo sitio y con otro plano.
 
+## Cumplimiento del encargo
+
+Hecha por el redactor con lo que **de verdad** está en esta biblia y en las partes. ✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Los ❌ de la columna «Qué falta» son trozos sueltos de un punto que sí tiene lo demás.
+
+| Punto de `ENCARGO.md` | Estado | Qué hay (y dónde) | Qué falta |
+|---|---|---|---|
+| 1 · Arte oficial variado | ✅ | Pósters y stills de prensa hasta 4096 px, renders en fondo blanco (Héctor 2461×4497, Pepita), portadas de DVD, Blu-ray y 4K, maqueta de arcilla de Mamá Coco, arte de la atracción (D23 2026), Speedstorm y Kingdom Hearts IV (§1; hoja A y B) | El artbook «The Art of Coco» sólo con su ficha, sin verlo por dentro; hojas de modelo con una fuente (Tumblr dio 429) ⚠️; Coco VR sin arte. Tomos, singles y cartones no aplican: es una película |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 9 escenas con minuto de la película (±2 s), sacadas de la película entera con `fotogramas.py`; tráiler oficial y tráiler doblado mirados con minuto (§2) | **En 720p, no en 1080p.** La copia de Internet Archive parece un *rip*: aviso al dueño en §2 y fuera de `referencias.json`. Los minutos valen para Disney+ o el Blu-ray |
+| 3 · Fan art y 3D con licencia | ✅ | 6 fan arts con enlace y origen (Pixiv o X), etiquetas de Pixiv (#COCO 141, #ヘクター(COCO) 97), ArtStation y DeviantArt; 14 modelos de Sketchfab con autor y licencia leídos en su API (§3) | Fan art sin nombre de autor, sólo su origen ⚠️; ArtStation dio 403; no hay 3D oficial libre; Poly Haven no se consultó. El Miguel «from coco vr» que añadió el redactor a `referencias.json` tiene licencia dudosa ⚠️ |
+| 4 · Sitios: luz, paleta y texturas reales | ✅ | 9 sitios con minuto, luz y 5 hex medidos con `estilo.py` en fotogramas; su origen real según el equipo (Guanajuato, Palacio de Correos, Coit Tower); madera, papel y cuero CC0 de ambientCG (§4) | Estuco, cera y tela de pétalos sin archivo concreto ⚠️ |
+| 5 · Tipografía, una letra por uso | ✅ | Logo sobre Rockwell Extra Bold (Logopedia y foro de DaFont); 8 usos con su letra libre (Bevan, Alfa Slab One, Roboto Slab, Bangers, Baloo 2, Open Sans); tildes, ñ, ¿ y ¡ comprobadas con fontTools (§5) | La letra original de globos, interfaz y subtítulos no está publicada ⚠️; pensamiento: no se vio ningún ejemplo; onomatopeya no aplica; no se probó ninguna letra manuscrita para el concepto 1 ⚠️ |
+| 6 · Cómo hablan en pantalla | ✅ | 4 maneras: subtítulos y carteles pintados, cómic Cinestory, globos de *Disney Magic Kingdoms* y el marco rojo y dorado de Kingdom Hearts IV (mirado y medido); frases textuales de los juegos; el cuadro elegido para la lámina (§6) | Páginas interiores del Cinestory sin ver (préstamo restringido en Internet Archive) ⚠️; la otra adaptación a cómic, sin ver ⚠️ |
+| 7 · Personajes y encuestas de popularidad | ⚠️ | 8 personajes con carácter, objeto, manía y con quién salen, cruzados en Disney Wiki ES y Pixar Wiki; indicios de que el más querido es Héctor: deuteragonista, 97 dibujos en Pixiv, 152 en Danbooru, 88 ♥ en Sketchfab, compañero en Kingdom Hearts IV (§7) | ❌ Ninguna encuesta oficial ni de fans (buscada en español, inglés y Reddit). El dato de Danbooru venía mezclado con otros fandoms |
+| 8 · Doblaje latino, dos fuentes por nombre, frases textuales | ✅ | 22 papeles con voz original y latina, cada nombre en Doblaje Wiki y The Dubbing Database (muchos también en ANMTV); 9 frases textuales; cómo suena cada voz, medido con `voz.py`; España usó el doblaje latino, con tres fuentes (§8) | Estudio y director (Taller Acústico, Ricardo Tejedo) sólo en Doblaje Wiki ⚠️; sin entrevistas en vídeo a los actores (YouTube pedía iniciar sesión); las muestras oficiales no dicen su minuto en la película ⚠️ |
+| 9 · Música y sonido | ✅ | Partitura de Giacchino y canciones con autoría en dos fuentes; 4 canciones con quién la canta, minuto y ambiente; «Recuérdame» con 4 arreglos; la fanfarria de los alebrijes; 3 sonidos con minuto (§9) | Opening y ending no aplican (película); autoría de «El Mundo Es Mi Familia» con una fuente ⚠️; no hay onomatopeyas dibujadas (3D) |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | Tráiler oficial y tráiler doblado mirados con minuto; 3 tráileres más localizados; la película entera como fuente de escenas (§10) | Sin análisis de YouTube con minuto; TikTok sólo con páginas de etiqueta, sin vistas; sin *challenge* con nombre y fecha; 4 tráileres sin mirar |
+| 11 · Videojuegos: interfaz y cajas | ✅ | Kingdom Hearts IV (mirado y medido), Disney Speedstorm (temporada 22), Disney Magic Kingdoms (diálogos reales), Disney Heroes: Battle Mode; TCRF: comprobado que no tiene ficha (§11) | Coco VR no se vio ⚠️; no se halló Coco en Dreamlight Valley ni un evento en Disney Solitaire |
+| 12 · Lo que ama el fandom y qué NO hacer | ⚠️ | 6 cosas que todo fan reconoce y 8 reglas de qué no hacer (§12) | Memes con una fuente y sin vistas ⚠️; sin chistes internos finos: TV Tropes (y su copia en Wayback) bloqueado y Reddit amplio falló |
+| 13 · Personajes a fondo y cara en cada emoción | ⚠️ | Arco, miedo, qué transmite, cómo habla y dinámicas de 7 personajes (§13); voces medidas (§8); hoja `emociones_01.jpg` con 20 caras | 17 de 30 caras con fotograma y minuto. Las otras 13 no aparecen como plano propio tras recorrer la película (varias no existen); Ernesto avergonzado salió borroso |
+| 14 · Poses analizadas, 6-10 por personaje | ✅ | Miguel 10, Héctor 8, Mamá Coco 6 y Dante 6, con minuto y para qué sirve cada una; tabla «qué pose para qué» (§14) | Las poses 6, 7 y 8 de Héctor chocan con otras partes (quién canta en 1:21:48, dónde cuenta la verdad, si aparece o se desvanece): comprobar ⚠️ |
+| 15 · Vestuario con hex | ⚠️ | Héctor y Mamá Coco medidos en fondo blanco; traje de charro de Miguel medido; la ropa que todos reconocen (§15) | **Sin hex de la sudadera roja de Miguel**, que es la ropa icónica: no hay still con luz neutra. Tampoco de Ernesto, Dante ni el vestido de Imelda (sólo la paleta de su escena) |
+| 16 · Ciudades, paisajes y fondos de pantalla | ⚠️ | 6 sitios de arte oficial con hora, luz y hex, más los 9 de §4; fotogramas oficiales en alta que sirven de fondo (§16) | Un solo fondo de fans en alta (3840×1600), sin autor identificado; no hay pack oficial de fondos |
+| 17 · Guía para IA de imagen y de texto | ✅ | 17.1: frase base, rasgos fijos con hex, paleta, luz y encuadre, palabras que ayudan y que estropean, imágenes de referencia, cómo pedir cada gesto. 17.2: reglas, cómo habla cada uno, frases reales por emoción, vocabulario (§17) | Parte de las frases reales son de los juegos, en inglés; no se sabe cómo dice el doblaje «the Shallows» ni «Final Death» ⚠️ |
+| 18 · Estilo, técnica y cómo replicarlo | ✅ | Viaje de campo, arte conceptual, influencias, la luz en números (fuente oficial de Pixar), telas y esqueletos, receta de Blender en 8 pasos y de Photoshop, encuadres (§18) | Las charlas de SIGGRAPH, sólo con resumen ⚠️; los pétalos en Geometry Nodes, sin tutorial de Pixar ⚠️ |
+| 19 · Texturas 2D | ⚠️ | Papel picado (vectores y un 3D CC BY), madera, papel y cuero CC0, emblemas (logo, guitarra con calavera) (§19) | Papel picado sin archivo verificado (Vecteezy dio 403); sin banco libre de bordado floral ni pincel de calaveras de Posada. Las tramas de manga no aplican |
+| 20 · Gustos y detalles | ⚠️ | Tabla de 7 personajes: lo que ama, lo que odia, su objeto y sus datos; el nacimiento de Imelda, con dos fuentes (§20) | Sin *databook* oficial: faltan casi todos los cumpleaños y alturas; la edad de Mamá Coco, de segunda mano ⚠️ |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Taquilla, premios, notas y testimonios con nombre; 3 escenas que hacen llorar con minuto, música y cómo están hechas; las que hacen reír (§21) | Sin comentarios con más votos ni vídeos de reacción (Reddit amplio falló; r/Pixar trae *Coco 2*); la taquilla en México no cuadra entre partes ⚠️; «el casi olvido de Héctor», con minuto aproximado |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 7 covers y fandubs con canal, duración, vistas y fecha (metadatos con `yt-dlp`), uno en guaraní (§22) | No se miraron por dentro: sin minuto de la mejor parte; sin parodias hispanas con nombre y vistas; memes con una fuente |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Atracción de 2026, Plaza de la Familia, suite de hotel, 4 juegos, baraja Bicycle; figuras Mattel y Funko; el LEGO, aclarado como de fans; cosplay (§23) | Pixar Popcorn, la baraja y la figura de Ernesto, con una fuente ⚠️; ejemplo de cosplay sin foto (Instagram no abre) |
+| 24 · Obras parecidas y láminas vecinas | ✅ | 4 obras con en qué se parecen y en qué no; influencias del equipo; la marca «Día de los Muertos»; láminas del servidor que se le parecen (§24) | *Y tu mamá también* y la Época de Oro, con una fuente ⚠️; TV Tropes bloqueado |
+| 25 · Mundo, historia por arcos y símbolos | ✅ | Reglas en 5 líneas, 6 arcos con su momento clave, 10 símbolos y objetos, vocabulario de la película (§25 y §17.2) | — |
+| Canal propuesto | ✅ | `#🎧・que-estas-escuchando`, libre según `servidor/inventario.md` y `encargos/` (§ El canal) | Encanto (58) puede pedir el mismo: que decida el dueño |
+| Tres conceptos de lámina | ✅ | La carta de «Recuérdame» (Mamá Coco y Miguel), el neón del Sunrise Spectacular (Héctor) y la aduana de las canciones (Héctor); cada uno con sitio, objeto, personaje, cuadro, textos y profundidad (§ 3 conceptos) | Concepto 3: el agente de la aduana y el disfraz de Frida, sin imagen ⚠️. Las frases de personaje van marcadas como «propuesta» |
+| 40 fuentes distintas | ✅ | 58 webs distintas enlazadas en los puntos 1-25 (contadas por `revisar.py`), más las de esta bitácora | — |
+| Tipo de fuente · oficiales | ✅ | Disney Parks Blog, parche oficial de Speedstorm, RenderMan de Pixar, Chronicle Books; entrevistas al equipo (Harley Jessup en VFX Voice, Giacchino en SlashFilm, Germaine Franco en ASCAP y Remezcla, diseño de producción en Inside the Magic); SIGGRAPH | Sin comentarios del Blu-ray; artbook sin ver; SIGGRAPH sólo resumen |
+| Tipo de fuente · otros idiomas | ✅ | Inglés (wikis, prensa, entrevistas) y español de México (El Universal, Milenio, Cine Premiere); japonés en Pixiv | Coreano y chino no aplican (película de EE. UU. sobre México); no se buscaron entrevistas en japonés |
+| Tipo de fuente · wikis, TV Tropes, TCRF, Wayback | ⚠️ | Pixar Wiki, Disney Wiki ES, Doblaje Wiki, The Dubbing Database, Logopedia, Fonts Wiki, wikis de Magic Kingdoms, Heroes y Speedstorm; TCRF comprobado (no hay ficha) | ❌ TV Tropes y su copia en Wayback, bloqueados por la red del contenedor (dos intentos cada uno) |
+| Tipo de fuente · foros y comunidades | ⚠️ | Foro de DaFont; Reddit por Arctic Shift (r/Pixar); Tumblr (hojas de modelo) | Reddit amplio dio 400/422 y r/Pixar sólo trae *Coco 2*; Tumblr dio 429; sin X/Twitter del equipo ni 4chan |
+| Tipo de fuente · arte | ✅ | Pixiv (2 etiquetas), Safebooru y Danbooru, DeviantArt, ArtStation (enlace) | ArtStation dio 403 |
+| Tipo de fuente · vídeo | ⚠️ | Película entera y 2 tráileres mirados (Internet Archive, Dailymotion); metadatos de 7 vídeos de YouTube con `yt-dlp`; TikTok | YouTube pedía iniciar sesión: sin análisis con minuto ni vídeos del equipo; TikTok sin vistas |
+| Tipo de fuente · código y recursos | ⚠️ | Sketchfab (API), ambientCG, Fontsource y fontTools, Openverse, Wallhaven | ❌ No se usó GitHub; Poly Haven no se consultó |
+| Tipo de fuente · doblaje latino | ⚠️ | Doblaje Wiki por la API (ficha y 6 muestras oídas), The Dubbing Database, ANMTV, Milenio y NBC News | Sin entrevistas en vídeo a los actores latinos; Crunchyroll y Netflix no aplican (es de Disney) |
+| Mirar los vídeos de verdad | ✅ | Película entera recorrida dos veces (13 ventanas y 24 fotogramas sueltos; luego cada 20 s con 8 pasadas de zoom), tráiler oficial y tráiler doblado; hojas miradas con Read | Opening y ending no aplican; la copia es de 720p |
+| Frases del doblaje latino textuales, con vídeo y minuto | ⚠️ | 9 frases: 6 de muestras oficiales pasadas por `voz.py` y 3 del tráiler doblado con minuto (§8) | Sin clip oficial doblado de escenas; las muestras, sin minuto de la película |
+| Colores medidos, no inventados | ✅ | 75 hex distintos, de `estilo.py` sobre fotogramas y arte oficial (§4, §15, §16, §17) | Sudadera de Miguel, Ernesto, Imelda y Dante sin medir (§15) |
+| Hojas de contacto | ✅ | 3 JPEG de 250 a 446 KB en `hojas/`, miradas y descritas número a número (§ Las 3 hojas) | — |
+| `referencias.json` | ⚠️ | 100 referencias, las mejores primero: todas las útiles de `partes/*.json` y de `datos.json` (el redactor añadió el Miguel de Sketchfab «from coco vr», con aviso) | 42 sin tamaño (vídeos de YouTube, audio, 3D, texturas y páginas); 15 son artículos o páginas de etiqueta, no imágenes. Fuera a propósito: la copia *rip* de la película y lo de `datos.json` que era de otras «Coco» (VTuber, Coco Bandicoot, cocos, juegos de Steam) |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md`), la del recolector y lo que hizo el redactor. ✅ = confirmado con dos fuentes o visto; ⚠️ = una fuente o por comprobar. Idioma de cada búsqueda entre paréntesis cuando no es español.
+
+### Recolector (`recolectar.py`, 24-sep-2026, sin IA)
+
+- **Sirvió:** Pixar Wiki (las imágenes más grandes de Miguel, Héctor y Dante, con tamaño por la API), Sketchfab, Safebooru (fan art de Miguel y Dante), Dailymotion (tráileres), Internet Archive y MusicBrainz (las dos bandas sonoras). Hojas de contacto con `investigar_serie.py`.
+- **Falló:** AniList (Coco no es anime; descartó «CoCO & NiCO» y «Coco Chanel»); Fandom «Mamá Coco» (la página se llama «Mama Coco», sin tilde); AnimeThemes (HTTP 522).
+- **Vino mezclado por el nombre y se descartó todo:** Doblaje Wiki trajo la ficha de «El Coco» (el Hombre del Saco) con el reparto vacío; Reddit trajo r/CocoLovelockx, que no es la película; la lista de Danbooru salió con hatsune_miku, link o gawr_gura delante; los 30 juegos de Steam se llaman «Coco» y no tienen que ver (Coco Block, Light of Coco, Coco's Revenge…); los 15 fondos de Wallhaven son de la VTuber Kiryu Coco y otras (el bueno lo halló luego la parte de imagen buscando «Coco Pixar»); las 20 fotos de Openverse son cocos, perros y muñecas; en Sketchfab salieron Kiryu Coco, Coco Bandicoot y varias «Mama Coco» de juegos de terror.
+
+### Imagen (puntos 1, 3, 15, 16, 19 y 23)
+
+- **Red directa:** Pixar Wiki por su API (`action=query` y `action=parse`): Miguel Rivera, Héctor Rivera, Dante, Mama Coco, Land of the Dead, Alebrijes, Pepita, Untitled Coco Attraction, Sunrise Spectacular, Ernesto de la Cruz, Imelda Rivera, Coco Home Video, Disney Heroes: Battle Mode, Pixar Popcorn, Coco VR y la categoría «Coco Merchandise».
+- `estilo.py` sobre 15 imágenes, varias recortadas antes al personaje para no medir el fondo.
+- API de Sketchfab (además de lo recolectado): alebrije, ofrenda, papel picado, altar de Día de Muertos, puente de cempasúchil, guitarra mexicana.
+- API de ambientCG (CC0): paper, wood, leather. API de Wallhaven con «Coco Pixar» y la ficha del único resultado bueno.
+- **Buscador (16 de ~50, en español e inglés):** artbook «The Art of Coco»; hojas de modelo oficiales; Kingdom Hearts IV Coco; Disney Heroes: Battle Mode Coco; Funko Pop Coco; figuras Mattel Coco; cosplay de Miguel y Héctor; colaboraciones de Disneyland y D23; «wallpaper oficial Pixar»; fan art en Pixiv y ArtStation; LEGO Coco; texturas libres de papel picado; atracción Coco en el D23.
+- **Webs abiertas:** disneyparksblog.com ✅ (2 artes conceptuales). **Fallaron:** artstation.com (403), funko.com (403), vecteezy.com (403), tumblr.com (429 al reintentar).
+
+### Vídeo (puntos 2, 4, 9, 10 y 14)
+
+- **La película:** YouTube pedía iniciar sesión; plan B de `AYUDANTE.md`. Internet Archive, ítem `Coco.2017.STNAr.720p.BluRay.x264YTS.AG` (720p, 105 min): primero sus 105 miniaturas (una por minuto) como mapa; luego descarga con `yt-dlp`, 13 ventanas de `fotogramas.py --cada 8` (minutos 2 a 99) y 24 fotogramas sueltos con `--fotograma`. Todas las hojas miradas con Read. Vídeo borrado al terminar. ⚠️ Es un *rip*: ver el aviso de §2.
+- El ítem `Coco2017` de Internet Archive (5:49, baja calidad) se descartó: no es la película.
+- **Tráiler oficial** («This Thanksgiving») mirado entero en Dailymotion (Tomatazos), `fotogramas.py --cada 12`: https://www.dailymotion.com/video/x8x30c8
+- `estilo.py --colores 5` sobre 10 fotogramas para las paletas de §4.
+- **Buscador (6 de ~50, en inglés):**
+  1. autores de las canciones («Un Poco Loco», «La Llorona», «Remember Me», Germaine Franco, Kristen Anderson-Lopez) → Wikipedia, ASCAP, Remezcla ✅
+  2. diseño de producción de la Tierra de los Muertos → Inside the Magic, RenderMan de Pixar ✅
+  3. «La Llorona» en la película, quién la canta → Wikipedia, Inside the Magic ✅
+  4. tendencia de TikTok de «Remember Me» → sin tendencia con nombre ❌
+  5. diseño de sonido y alebrijes (Giacchino) → SlashFilm ✅
+  6. Honest Trailers y análisis → sin resultado ❌
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21 y 22)
+
+- **Red directa:** Doblaje Wiki por la API (wikitext de «Coco (Disney•Pixar)» y `imageinfo` de 6 muestras `.ogg` oficiales, oídas con `voz.py`) ✅; Disney Wiki ES (Miguel, Héctor, Mamá Coco, Ernesto, Imelda y Abuelita; la de Abuelita estaba vandalizada y se cambió por la Pixar Wiki); Pixar Wiki (los mismos y Dante) como segunda fuente; The Dubbing Database, «Coco (Latin American Spanish)», como tercera fuente del reparto; `yt-dlp --skip-download` para canal, vistas y fecha de 8 fandubs y covers; `voz.py` sobre el tráiler doblado de Dailymotion; 4 fotogramas del tráiler.
+- **Buscador (~10 de ~50, en español salvo donde se dice):** «ANMTV Coco doblaje latino reparto Marco Antonio Solís Angélica Vale» → ANMTV y noticine ✅ · «Coco Pixar encuesta personaje favorito popularidad Héctor Miguel» → nada ❌ · «Coco Pixar Remember Me scene reaction crying reddit» (inglés) → reseñas, sin hilos citables · «Coco Pixar box office premios Oscar 2018 recaudación crítica» → Deadline, The Hollywood Reporter, Variety ✅ · «Coco Pixar fandub español latino YouTube canal» → fandubs, luego medidos con `yt-dlp` · «Coco Pixar México recepción crítica identificación cultural Día de Muertos reseña» → El Universal, Radiónica, Cine Premiere · «Coco Pixar meme "no me acuerdo"/"recuérdame"» → memes de TikTok ⚠️ · «"Un Poco Loco" cover español fandub YouTube Coco» → covers, confirmados uno a uno · «Coco Pixar "personaje favorito" encuesta votación Héctor vs Miguel Dante» → nada ❌ · «Coco Pixar España estreno doblaje latino cines» → Milenio, 35mm.es y NBC News ✅ (tres fuentes).
+- **Fallaron:** API de es.wikipedia.org (429, no se reintentó); `anmtv.la` (bloqueado por la red; se usó `anmtvla.com`, que sí abrió); `tvtropes.org` y su copia en Wayback Machine (bloqueados por la red, dos intentos cada uno); Arctic Shift sin subreddit o con r/movies (400 y luego 422 o *timeout*); sólo funcionó `subreddit=Pixar&title=Coco`, y los hilos más votados eran de *Coco 2* (2026).
+- **Segunda pasada (13 y 21):** la misma copia de Internet Archive (su audio es en árabe: se usó sólo la imagen). `fotogramas.py --cada 20` sobre la película entera (7 hojas, 316 fotogramas) y 8 pasadas de zoom cada 1-6 s: la pelea por la guitarra (minutos 7-19), la oficina de Imelda (33), la mansión de Ernesto (1:00-1:03), la huida y la confesión (1:04-1:14), el clímax en el escenario (1:20-1:28), «Recuérdame» a Mamá Coco (1:29-1:33) y el reencuentro (1:33-1:36). Luego 28 fotogramas limpios, montados en `hojas/emociones_01.jpg`. Vídeo borrado. No se usó `episodio.py` (habría transcrito el audio en árabe).
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24 y 25)
+
+- **Partida:** `datos-texto.md` sólo traía juegos de Steam llamados «Coco» sin relación: descartados todos, sin repetir la consulta.
+- **Buscador (33, todas en inglés):**
+  1-3. letra del logo: «Coco 2017 Pixar movie logo font identify», «"Coco" Pixar font in use logo title», «"Coco" Pixar "Rockwell" font logo Día de Muertos»
+  4. «The Art of Coco» y entrevista a Harley Jessup
+  5. charlas técnicas de SIGGRAPH (puente, esqueletos)
+  6. luces de RenderMan en la Tierra de los Muertos
+  7. *color script*: Santa Cecilia apagada, Tierra de los Muertos viva
+  8-11. el cómic Cinestory (Joe Books): adaptación, globos y viñetas, formato de la letra, páginas de muestra
+  12. evento de Coco en *Disney Magic Kingdoms*
+  13-14. Miguel en *Disney Speedstorm* y la temporada 22 «Bridge of Marigolds»
+  15. Coco en *Disney Dreamlight Valley* → nada
+  16. Miguel en *Disney Heroes: Battle Mode*
+  17-18. el mundo de Coco en Kingdom Hearts IV y su tráiler
+  19. `site:tcrf.net Coco` → sólo Coco Bandicoot
+  20. Coco frente a *El libro de la vida*
+  21. Coco frente a *Soul*
+  22-23. Disney y la marca «Día de los Muertos»; por qué se cambió el título
+  24. reglas de la Tierra de los Muertos (Muerte Final, olvido, ofrenda)
+  25. resumen por arcos y el giro de Héctor
+  26. alebrijes, Pepita y Dante: su símbolo
+  27. «Remember Me» como nana y su sentido
+  28. evento de Coco en *Disney Solitaire* → nada
+  29-30. arte de la temporada 22 de Speedstorm y carta de Miguel
+  31. ventana de lanzamiento de Kingdom Hearts IV (dentro de 17-18)
+  32. tutorial de Blender: pétalos de cempasúchil y luz de Día de Muertos
+  33. letra de los créditos finales → nada
+- **Red directa:** Fonts Wiki y Logopedia por la API (Rockwell Extra Bold) ✅; foro de DaFont https://www.dafont.com/forum/read/342164/coco-2018-font ✅; API de Fontsource y **fontTools** sobre `bevan.ttf`, `alfaslab.ttf` y `robotoslab900.ttf` (á é í ó ú ñ Ñ ¿ ¡) ✅; Internet Archive (`cococinestorycom0000unse`, préstamo restringido); Disney Wiki (Cinestory Comics, Land of the Dead, Héctor); wikis de *Disney Magic Kingdoms* (diálogos reales de Héctor), *Disney Heroes* y *Speedstorm*; parche oficial de la temporada 22 https://disneyspeedstorm.com/news/disney-speedstorm-patch-notes-season-22 ; RenderMan de Pixar https://renderman.pixar.com/stories/the-world-of-coco ; fxguide, VFX Voice y Remezcla; captura del tráiler de Kingdom Hearts IV en kh13.com (1920×1080, medida con Pillow); API de Sketchfab (alebrije, xoloitzcuintle, esqueleto con *rig*).
+- **Fallaron:** la web normal de Logopedia y Fonts Wiki (402; resuelto con la API); tcrf.net (reto de Cloudflare; resuelto con `site:tcrf.net`); Variety (402; cambiado por RenderMan y fxguide, mismos datos).
+
+### Redactor
+
+- Leyó las cuatro partes, `servidor/inventario.md`, `servidor/reglas_del_dueno.md` y los encargos (con `grep` en `encargos/`) para elegir el canal (§ El canal).
+- Comparó `referencias.json` con `partes/*.json` y `partes/datos.json`: estaban todas las útiles salvo la copia *rip* de la película (fuera a propósito, §2). De las 113 de `datos.json` que no estaban, sólo una era de la película: el modelo de Sketchfab «Miguel» (usuario debbiehalcon), leído en `api.sketchfab.com/v3/models`: descripción «from coco vr», CC BY según Sketchfab, 0 ♥. Se añadió con aviso ⚠️: parece extraído de Coco VR, así que su licencia no es fiable. Lo demás era de otras «Coco» (ver Recolector).
+- Revisó las 3 hojas: 3 JPEG de 250 a 446 KB en `hojas/`.
+
+### Correcciones entre partes (lo que el redactor cambió o avisa)
+
+- **Minutos de la segunda pasada de voz.** Su bitácora dice «min. 104-114, 120-128, 129-133, 133-136», pero la película dura 105 minutos. Son horas y minutos sin los dos puntos: 1:04-1:14, 1:20-1:28, 1:29-1:33 y 1:33-1:36. Así cuadran con las tablas de §13 y §21. Lectura del redactor ⚠️.
+- **La tabla de cumplimiento de voz** (primera pasada) dice «sólo 3 caras» y «sin minuto» en los puntos 13 y 21. Vale lo de la segunda pasada: 17 de 30 caras y minutos exactos.
+- **El fondo de Wallhaven** (3840×1600, con Dante) es **de fans**, no oficial, aunque la parte de imagen lo llame «oficial/de fans».
+- La hoja que la parte de imagen llama `objetos_01.jpg` ahora es el bloque B de `personajes_y_objetos_01.jpg`.
+- **Por comprobar en la película:**
+  - la figura translúcida junto a Miguel en 1:35:47: ¿Mamá Coco o Héctor? (§13);
+  - las poses 6, 7 y 8 de Héctor (§14) chocan con otras partes: según §2, en 1:21:48 canta Imelda; la parte de voz pone la charla de la verdad en 1:12:00, no en 1:24:16; y dice que en 1:34:17 Héctor aparece junto a la ofrenda, no que se desvanezca.
+- **Taquilla en México sin resolver:** 57,8 millones de dólares (parte de voz) o «más de 48 millones» (parte de texto) ⚠️ (§21).
+- **Datos descartados:** la ficha en español da a Miguel «nacido el 22-feb-1991 en Tantoyuca»: imposible (§20). El «Coco Morocco Trailer» de Dailymotion es un anuncio de moda (§10). El nombre correcto del evento es **Sunrise Spectacular**, no «Sunset» (§16).
+
+### Lo que NO se encontró (junto)
+
+- Una encuesta de popularidad, oficial o de fans (§7).
+- Un fotograma en 1080p o más, y una copia oficial para sacarlo (§2).
+- Hex de la sudadera roja de Miguel, de Ernesto, de Dante y del vestido de Imelda (§15).
+- Análisis en YouTube con minuto, tendencia de TikTok con vistas, vídeos de reacción y comentarios con más votos (§10, §21).
+- Entrevistas en vídeo a los actores del doblaje latino y un clip oficial doblado de escenas (§8).
+- *Databook*: cumpleaños y alturas (§20). Chistes internos finos y parodias hispanas con nombre (§12, §22).
+- Páginas interiores del cómic Cinestory; la letra original de globos, interfaz y subtítulos (§5, §6).
+- Banco libre de bordado floral y pincel de calaveras de Posada (§19). Fondo de pantalla oficial (§16).
+- 13 de las 30 caras por emoción (§13). La imagen del agente de la aduana (voz de Trino) y un fotograma de Héctor disfrazado de Frida (concepto 3).
+- GitHub no se usó; Poly Haven no se consultó; TV Tropes y Wayback estaban bloqueados.
+
+### Confirmado y dudoso
+
+- **Confirmado (dos fuentes o visto):** reparto latino completo; España usó el doblaje latino (tres fuentes); logo sobre Rockwell Extra Bold; letras libres con tildes, ñ, ¿ y ¡ (fontTools); todos los minutos de la película (vistos); paletas y hex (medidos); origen de los sitios (entrevistas); autoría de «Recuérdame», «Un Poco Loco» y «La Llorona»; Kingdom Hearts IV, Speedstorm y la atracción de 2026 (fuentes oficiales); modelos de Sketchfab y sus licencias (API).
+- **Dudoso (una fuente) ⚠️:** estudio y director del doblaje; que Héctor sea el más querido (sólo indicios); memes de TikTok; autoría de «El Mundo Es Mi Familia»; edad de Mamá Coco; taquilla en México; hojas de modelo de Tumblr; *Y tu mamá también* como influencia; baraja Bicycle, figura de Ernesto y Pixar Popcorn; licencia del Miguel «from coco vr».
