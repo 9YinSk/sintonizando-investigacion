@@ -1291,3 +1291,722 @@ marrones. Coincide con lo medido.
   anime-dandadan.com ni en Crunchyroll: revisado el HTML).
 
 ---
+
+## 18 · Guía para generar con IA: imagen y texto
+
+> [!warning] Antes de usar una IA con Dandadan
+> El dueño pide que la lámina **no parezca hecha por IA**. Y Dandadan es,
+> literalmente, una serie que presume de lo contrario: su opening se
+> hizo con **recortes de papel y lápiz de verdad** «para ir en contra de
+> la IA» (§11.1). Usar la IA para **bocetos, poses y fondos de prueba**;
+> la lámina final lleva recortes por `v3/integrar.py`, texturas reales y
+> el objeto en Blender.
+
+### 18.1 Rasgos que nunca cambian
+
+- **Momo**: pelo **caoba medio con flequillo cruzado** que enmarca **el
+  lado derecho**; ojos **carmesí**; **aretes redondos verdes** (grandes,
+  «para que la cara se vea más pequeña»); **gargantilla negra**. Suéter
+  rosa, lazo rojo suelto, falda azul marino, calcetas blancas holgadas.
+  Postura de gyaru segura.
+- **Okarun**: bajo y delgado; pelo **negro despeinado** (en el anime);
+  ojos castaños; **lentes redondos** de montura fina; *gakuran* casi
+  negro con **botones dorados**. Hombros encogidos. **Transformado**:
+  pelo blanco de punta, máscara de dientes, ojos amarillos **en espiral**
+  (ep. 1, 16:12-16:22) o uno rojo brillante, marcas rojas.
+- **Turbo Granny**: **en el gato**, porcelana blanca, orejas rojas por
+  dentro, collar rojo y verde, cascabel dorado, **medallón 千万両**, cara
+  de fastidio. **Como yokai**, pelo blanco larguísimo sobre media cara,
+  **ojos amarillos que miran a los lados**, piel rojiza arrugada,
+  *haori* rojo de damasco, descalza con garras. **Nunca tierna.**
+- **Aira**: pelo **rosa claro corto** que enmarca **el lado izquierdo**;
+  ojos rosa oscuro; blazer azul marino con escudo, lazo rojo grande.
+  Guapa y lo sabe.
+
+### 18.2 Paleta (medida, §5, §7 y §16)
+
+| Uso | Hex |
+|---|---|
+| Momo, suéter | #F5C6C1, sombra #CC9694 |
+| Momo, falda | #795566 |
+| Okarun, uniforme | #363838, #1E2020 |
+| Turbo Granny, gato | #F4F4F0, #A2412E, #C2B076, negro #0B0C0A |
+| Aira, blazer | #4A3F59, malva #B87C7F |
+| Bando yokai (rojo) | #C02343 |
+| Bando alienígena (azul) | #1696EB |
+| Bando psíquico (turquesa) | #94EDF4, #5BD5EA |
+| Escena cotidiana (tarde) | #584446, #8C6E68, #EAD4CD |
+| Túnel de noche | #F5C752, #130B06, #E4A73D |
+
+### 18.3 Línea, sombreado, luz y encuadre
+
+- **Línea**: en el anime, **marrón o gris cálido**, no negra (Momo
+  #6F544C, Okarun #5F5F5F, la casa #7C655E). En el manga, tinta negra
+  gruesa en la acción y fina en las caras.
+- **Sombreado**: **plano de cel** en las escenas normales; **degradados
+  y brillos** en lo sobrenatural. En el manga, **trama de puntos**.
+- **Luz**: cotidiana, cálida y apagada (25-27 % de saturación);
+  sobrenatural, fría o roja y muy saturada (49-87 %). **Un color por
+  bando** (§7.2).
+- **Encuadre**: cámara **a la altura de los ojos**, «a la altura
+  humana», nunca picado de vigilancia (Yamashiro, [Gizmodo](https://gizmodo.com/dan-da-dans-director-never-wanted-the-anime-to-compete-with-the-manga-2000550459)) ✅.
+
+### 18.4 Palabras que ayudan (en inglés)
+
+- **Momo**: `Momo Ayase (Dandadan), teenage gyaru girl, medium maroon hair, crossed bangs framing right side of face, crimson eyes, large round green earrings, black choker, long-sleeve light pink sweater over white collared shirt, loose red bow, navy pleated skirt, loose white socks, brown loafers`
+- **Okarun**: `Okarun (Ken Takakura, Dandadan), short slender teenage boy, messy black hair, round thin-frame glasses, black gakuran with gold buttons, white sneakers, hunched shoulders, adjusting glasses with two fingers`
+- **Turbo Granny (gato)**: `white ceramic maneki-neko, red inner ears, red and green collar with gold bell, gold oval koban medallion with kanji 千万両, grumpy half-lidded eyes, paper ofuda talisman taped to its side`
+- **Aira**: `Aira Shiratori (Dandadan), short light pink hair framing left side of face, dark pink eyes, dark navy school blazer with emblem, large red bow, pleated skirt, white knee socks, confident smug smile`
+- **Estilo**: `Science SARU anime style, 2024 TV anime, cel shading, thin warm-brown lineart, desaturated warm afternoon light` (escena normal) o `saturated cyan psychic aura, halftone dots, high contrast, red curse lighting` (sobrenatural). Del manga: `manga screentone, heavy black brush speed lines, scattered debris shards`.
+
+### 18.5 Palabras que lo estropean
+
+- `chibi`, `kawaii pastel`, `Ghibli`, `watercolor`, `3D render`,
+  `glossy plastic` (salvo para la figura del gato), `bokeh portrait`.
+- `brown hair` para Okarun en el anime; `long hair` para Momo o Aira;
+  `glasses` para Momo (sólo en una ropa alternativa); `cute old lady`
+  para Turbo Granny; `blonde`.
+- `Chainsaw Man style` o `Jujutsu Kaisen style`: se parecen de tono pero
+  cambian la línea.
+- Nombres de estudio o de personas reales (`Ken Takakura`): la IA mete la
+  cara del actor.
+
+### 18.6 Imágenes de referencia
+
+| Para | Usar |
+|---|---|
+| estilo y proporciones | key visuals del sitio oficial (hoja 3 n.º 1-6); concept art (hoja 2 n.º 49, 66, 75, 79; hoja 1 n.º 47) |
+| colores exactos de Momo | modelo de color (hoja 3 n.º 7) |
+| luz sobrenatural | fotogramas de la wiki «Psychic Grip», «Momo awakens her psychic power» (hoja 1 n.º 27-30) |
+| volumen 3D del gato | figura a tamaño real (hoja 3 n.º 26) |
+| pose de acción | *Grand Summoners* y *Honor of Kings* (hoja 2 n.º 56-61, 68-69); TENITOL (hoja 3 n.º 23) |
+| *chibi* oficial | *Jump+ Jumble Rush* (hoja 2 n.º 52 y 54) |
+
+### 18.7 Para una IA de texto: cómo escribir en su voz
+
+**Reglas de estilo** (de §8 y §10):
+
+- **Momo**: frases cortas, exclamaciones, insultos cariñosos. «Yo» de
+  chica de barrio; muletilla **«¿no?», «¿a poco no?»** donde el japonés
+  dice じゃん. Si es la versión de Crunchyroll, jerga mexicana («no
+  manches», anglicismos); si es Netflix, más neutra con algún meme
+  («¡Cállense, cállense que me desesperan!»).
+- **Okarun**: habla **de usted** a Momo («Ayase»), se disculpa
+  («perdón», «disculpe»), **tartamudea** repitiendo la primera sílaba
+  («A-a-ayase…»), explica de más con datos («no es OVNI, es UAP»). Con
+  valor, frases firmes y cortas.
+- **Turbo Granny**: vieja **grosera**; llama «mocoso» a Okarun; amenaza
+  en frases de dos golpes; groserías cortas («shiiit»). Presume de
+  rápida. En Crunchyroll, «Turbo Ruca» con tono de Zim; en Netflix,
+  «Turbo Abuela».
+- **Aira**: **dos registros**. En público, dulce y educada («¿estás
+  bien?», «perdón»). En privado, vanidosa y cruel («es divertido hacer
+  que los perdedores se enamoren»). Se cree «la elegida».
+- **Puntuación**: ¡! dobles para los gritos, «…» para Okarun cuando duda,
+  guion de tartamudeo. Nada de emojis.
+
+**Frases reales, por emoción** (fuente y minuto; «sub.» = subtítulo
+inglés, «jap.» = transcripción japonesa, «lat.» = doblaje latino):
+
+| Emoción | Momo | Okarun | Turbo Granny | Aira |
+|---|---|---|---|---|
+| **Alegre** | «What? You change your hairdo?» (sub., ep. 2, 21:30); «超ウケる», «qué risa» (jap., ep. 1, 2:00) | «I'm very happy that I could make amends with you» (sub., ep. 5, 14:34) | ❌ no hay | «I mean, I'm all too pretty!» (sub., ep. 6, 7:00) |
+| **Enfadado** | «うるせーな», «cállate» (jap., ep. 1, 4:00); «¡Cállense, cállense que me desesperan!» (lat. Netflix, final T2) | «So don't you lay a finger on her!» (sub., ep. 1, 16:05) | «Lemme gobble that weenie!» (sub., ep. 1, 14:46); «¿Te parece que somos ricos?» (lat. Crunchyroll, ep. 10) | «Momo Ayase. She's definitely a demon!» (sub., ep. 6, 6:45) |
+| **Explicando** | «creo en mi abuela; por eso creo en los fantasmas» (jap., ep. 1, 10:00) | «No es OVNI, es UAP, fenómeno aéreo no identificado» (jap., ep. 1, 4:00); «¿Hace falta una razón para que te guste algo?» (jap., ep. 1, 10:00) | «si lo quieres de vuelta, ven al túnel» (jap., ep. 1, 19:00) | «le estoy regalando un sueño» (jap., ep. 5, 13:00) |
+| **Animando** | «después de esto no puedo dejarte solo… vamos» (jap., ep. 1, 21:00); «Come on, get a grip!» (sub., ep. 1, 14:48) | «If it's for her sake, I'll even become a monster!» (sub., ep. 1, 16:12) | ❌ no hay | ❌ no hay |
+| **Triste** | «perdón, abuela, entonces sólo me daba vergüenza» (jap., ep. 1, ~17:10) | «No matter how much I called for you, you never showed up!» (sub., ep. 1, 15:47) | ❌ no hay | ❌ no hay (sólo la entrevista de su actriz, §10.3) |
+
+⚠️ Las frases japonesas e inglesas están **traducidas por nosotros**, no
+son el doblaje. Para la voz latina exacta, sólo valen las de §10.3.
+
+### 18.8 Vocabulario visual de las expresiones
+
+| Expresión | Cómo se ve en Dandadan | Dónde |
+|---|---|---|
+| **Rubor** (`blush`) | mejillas rosas con rayitas, mano en la cabeza, mirada abajo | Momo, ep. 5, 14:26 |
+| **Llorar de risa** (`laughing, tears`) | ojos cerrados en arco, boca enorme, lágrimas en las esquinas | Momo, ep. 5, 15:12 |
+| **Ojos brillantes** (`glowing eyes`) | dos puntos amarillos en negro | Turbo Granny, ep. 1, 10:55 |
+| **Ojos en espiral** | amarillos, en espiral, con dientes enormes | Okarun poseído, ep. 1, 16:12-16:22 |
+| **Lentes que brillan** | el reflejo tapa los ojos de Okarun | ep. 5, 14:34 |
+| **Pantalla roja** (fondo de maldición) | todo en rojo y negro | ep. 3-4 y hoja 1 n.º 33-36 |
+| **Aura turquesa** | contorno cian, manos gigantes verdes | hoja 1 n.º 27-30 |
+| **Aura geométrica** | dibujo blanco alrededor de los puños | Momo, ep. 1, 17:45 |
+| **Nube de trama** (lo que se deshace) | puntos blancos dispersos sobre negro | hoja 2 n.º 84 |
+| **Líneas de movimiento** | pinceladas negras gruesas y curvas | manga, hoja 1 n.º 12-17 |
+| ***Chibi*** | cabeza grande, cuerpo pequeño | *Jump+ Jumble Rush*, hoja 2 n.º 52 y 54 |
+| Gota de sudor | ⚠️ no se buscó en las partes | — |
+
+---
+
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+### 19.1 Quién lo hizo ✅
+
+- **Manga**: Yukinobu Tatsu. Fue **asistente de Tatsuki Fujimoto** (*Fire
+  Punch*, *Chainsaw Man*) y de **Yuji Kaku** (*Hell's Paradise*)
+  ([Wikipedia](https://en.wikipedia.org/wiki/Yukinobu_Tatsu)).
+- **Anime** (Science SARU; créditos vistos en el tráiler, 0:13-0:24):
+  dirección **Fūga Yamashiro** (su debut), diseño de personajes
+  **Naoyuki Onda**, diseño de criaturas y yokai **Yoshimichi Kameda**,
+  música **Kensuke Ushio**. Composición de la serie **Hiroshi Seko**;
+  dirección de arte **Junichi Higashi**; color **Satoshi Hashimoto** y
+  **Makiho Kondou**; fotografía **Kazuto Izumita**
+  ([AniList](https://anilist.co/anime/171018/staff)).
+
+### 19.2 Cómo se dibuja ✅
+
+- **Tatsu dibuja a mano en papel** (boceto y línea) y **remata en
+  digital** (sombras y detalle). **Degradados = energía oculta**; **trama
+  limpia = lo alienígena y tecnológico**. Influencias: **anime de los 90,
+  carteles de kaiju de la era Showa y memes de internet**. Dice que
+  intenta «que no se vea falso»
+  ([ComicBook.com](https://comicbook.com/anime/news/dandadan-creator-interview-manga-artwork/),
+  [ScreenRant](https://screenrant.com/dandadan-52-shonen-jump-best-manga-art/)).
+- Línea **gruesa y claustrofóbica** en las dobles páginas (ScreenRant).
+- **Onda** diseña con «tridimensionalidad implícita» (pide mucha
+  preparación a los animadores); **Kameda**, al estilo «Kanada moderno»,
+  poses expresivas (Sakuga Blog).
+- **3D para los extraterrestres, 2D a mano para los yokai** (§7.2).
+- **Ritmo**: el anime va a **1,25 veces** el ritmo normal, con **pausas
+  a propósito** en lo romántico o íntimo, para que el contraste golpee.
+  Mucho ***match cut*** y sombras que cuentan. Yamashiro se pregunta de
+  cada plano «¿por qué hace falta esta imagen?»
+  ([Gizmodo](https://gizmodo.com/dan-da-dans-director-never-wanted-the-anime-to-compete-with-the-manga-2000550459),
+  Sakuga Blog) ✅.
+- ⚠️ **Programa exacto** del anime (Clip Studio, Toon Boom, Animate):
+  ninguna entrevista lo dice para esta serie.
+
+### 19.3 Cómo reproducirlo en Photoshop
+
+1. **Línea**: pincel de entintar con grano de papel, grosor variable (el
+   doble en los impactos). Nada de línea vectorial perfecta. En color:
+   marrón cálido (#6F544C) para personajes.
+2. **Sombras**: en lo yokai o paranormal, **capa de trama de puntos en
+   Multiplicar**; en lo alienígena, **plano y limpio**, sin trama.
+3. **Color por bando antes que por escena**: decidir rojo, azul o
+   turquesa (§7.2) y no cambiarlo aunque cambie la luz.
+4. **Textura real, no filtro**: si hace falta «hecho a mano», un recorte
+   o un trazo escaneado de verdad (§5.4, §20).
+5. Escena normal: bajar saturación al 25-27 %. Escena sobrenatural:
+   subirla al 50-85 %.
+
+### 19.4 Cómo reproducirlo en Blender
+
+- **Contorno**: Freestyle o Solidify invertido, **más grueso en los
+  yokai**, más fino y regular en lo alienígena.
+- ***Toon shader*** de dos tonos, con **la paleta del bando** fija en el
+  nodo de color.
+- **Modelos libres** (§4.1, CC-BY, crédito al autor de Sketchfab):
+  Momo, Okarun, Okarun con Turbo Granny, Aira, Serpo. Para el gato,
+  modelar a partir de la **figura a tamaño real** (hoja 3 n.º 26).
+- **Objetos de los conceptos** (§27): revista con páginas curvas y papel
+  satinado; gato de cerámica blanca brillante con talismán de papel
+  *washi* pegado; mesa baja y tatami.
+- **Luz**: una principal cálida de tarde para lo cotidiano; un relleno
+  de color del bando para lo sobrenatural.
+
+### 19.5 Encuadres y composición
+
+- **A la altura de los ojos** del personaje (Yamashiro).
+- **Algo que cruce delante** (un cable, una rama, el borde de un
+  mueble) para la profundidad, como piden las reglas del dueño.
+- **Presentar**: plano medio de frente (key visuals). **Amenazar**:
+  sólo los ojos en la oscuridad (ep. 1, 10:55). **Emoción íntima**:
+  primerísimo plano de los ojos (Okarun, ep. 1, 16:02; Momo, ep. 7,
+  18:45). **Poder**: plano abierto con el aura (ep. 1, 17:45).
+
+---
+
+## 20 · Texturas 2D
+
+| Qué | Dónde | Licencia |
+|---|---|---|
+| **Trama de puntos** del manga (densa en la ropa de yokai, en explosiones y sombras) | vista en hoja 1 n.º 12-17 y hoja 2 n.º 65-74, 84 ✅ | — (referencia) |
+| **8 tramas de punto** (10-80 lpp, 4500×4500) | [Manga with Stef](https://manga-with-stef.com/free-screen-tone-collection-1) ✅ | «free to download and use in your artwork»; no redistribuir el archivo |
+| Muestra de tramas para Procreate, Photoshop y Clip Studio | [Ittai Manero, Gumroad](https://ittaimanero.gumroad.com/l/FREESuperScreentoneSample) | ⚠️ gratis, licencia de uso sin detallar |
+| 34 pinceles de trama para Photoshop | [Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes) | ⚠️ revisar la licencia del autor al bajarlos |
+| **Logo** ダンダダン, rojo con grano | [wiki, 1320×975](https://static.wikia.nocookie.net/dandadan/images/3/3d/Dandadan_Logo_%28Anime%29.png) ✅ | © Tatsu/Shueisha, referencia |
+| **Medallón 千万両** del gato | [wiki, 1125×1528](https://static.wikia.nocookie.net/dandadan/images/6/69/Turbo_Granny_%28Doll%29_Infobox.png) ✅ | referencia |
+| **Talismán** «家内安全 / 厄除» con un dibujo de una deidad | ep. 5, 16:05-17:16 (visto por el redactor) ✅ | referencia |
+| **Damasco rojo sobre rojo** del *haori* de Turbo Granny | key visual yokai ✅ | referencia |
+| **Carteles de caligrafía 勇気** del aula | ep. 1, 15:50 ✅ | referencia |
+| Escudo de Kami High | ⚠️ sin imagen suelta | — |
+| Grano de papel, pinceladas libres | ⚠️ no buscado en las partes | — |
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+Del *Dandadan Daizukan* (databook oficial, agosto 2025, 230 páginas,
+ISBN 978-4-08-884647-7), tal como lo cita la wiki en inglés
+([ficha del Daizukan](https://dandadan.fandom.com/wiki/Dandadan_Daizukan)) ✅.
+
+| | Momo | Okarun | Turbo Granny | Aira |
+|---|---|---|---|---|
+| Le gusta | el **cangrejo** y el «pampi» | **extraterrestres**, críptidos (UMA), teorías de conspiración | botanas (YumSticks, Hard Chiple), **baños públicos**, futones | los **niños**, el **piano**, los **peluches** |
+| Odia | las faldas largas; la gente irracional | los eventos del colegio | el calor, **los ordenadores** | los chicos groseros o vulgares |
+| Aficiones | **cine (yakuza de la era Shōwa)**, comedia, artes marciales, moda | **coleccionar revistas ocultistas**, visitar *power spots*, pesas | **ver la tele educativa**, comer caminando | leer revistas de todo tipo; **maquillaje** |
+| Lema o dicho | «**quiero comer cangrejo**» | «**estamos en el mismo barco**» | «**shiiit**» | «**lo lindo es justicia**» |
+| Duerme | 7 h | **3,5 h** (reparte periódicos y estudia) | — | 8 h |
+| Detalle | aretes grandes «para que la cara se vea más pequeña»; 2 h libres al día = **llamadas con Kei viendo pelis de Ken Takakura**; fuerte en física y química, floja en inglés | «excesivamente cuidadoso» para no descartar nada | se sostiene en equilibrio sobre un hombro | nunca escatima en hidratarse la piel; fuerte en historia universal y **música** |
+| Cómo se ve | cree que la tratan injusto en los trabajos (según Miko, choca con los jefes) | torpe, que no encaja | la más rápida | la elegida |
+
+- ⚠️ **Sin cumpleaños ni altura** para ninguno: ni la wiki ni las
+  páginas citadas del *Daizukan* los traen. Sólo la edad de curso
+  (16-17 años).
+
+---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar
+
+### 22.1 Las razones ✅
+
+- **Audiencia**: percentil **99,4 de la comedia** en EE. UU., con 22,4
+  veces la demanda media ([Parrot Analytics](https://tv.parrotanalytics.com/US/dandadan-dandadan-mbs));
+  **4.ª en el Top 10 global de Netflix** (TV no inglesa, 9,3 millones de
+  horas en una semana) y **1.ª de la temporada de otoño 2024 en
+  Niconico** ([CBR](https://www.cbr.com/anime-most-streamed-year-dandadan/)).
+- **Premios**: **Mejor Secuencia de Apertura** y **Mejor Diseño de
+  Personajes** en los 9.º Crunchyroll Anime Awards, con **22
+  nominaciones**, la serie con más ese año; no ganó Anime del Año
+  ([Wikipedia](https://en.wikipedia.org/wiki/9th_Crunchyroll_Anime_Awards)).
+- **La mezcla**: terror de verdad, comedia verde y romance, sin bajar
+  ninguno (§26). Por eso la comparan con *Mob Psycho 100* y *Chainsaw
+  Man* (§25).
+- **Con quién se identifica el público**: la actriz de Aira se
+  identifica con ella por su TDAH y su perfeccionismo (§10.3). En
+  Reddit, el hilo más votado sobre personajes (1218) pregunta **junto a
+  quién te sentarías**: el público se imagina conviviendo con ellos.
+
+### 22.2 La escena que hace llorar ✅
+
+**Ep. 7, «優しい世界へ» («Hacia un mundo más amable»)**, ~17:00-20:00
+([Internet Archive](https://archive.org/details/s-01.-e-07_202411)):
+
+- **Qué pasa**: se cuenta la historia de **Acrobatic Silky** y su hija
+  (AniList tiene ficha de «la hija de Acrobatic Silky»; la parte de voz
+  habla de «la niña ahogada»). Aira la abraza para que alcance el
+  nirvana.
+- **Por qué duele**: la villana que daba miedo era una madre rota.
+- **Cómo está hecha**: primerísimos planos de **ojos llorosos** (Momo,
+  18:45); magentas y rosas saturados que **se apagan a blanco** en el
+  clímax; niebla blanca (hoja 1 n.º 22); siluetas a contraluz subiendo
+  al cielo (hoja 1 n.º 18).
+- **Música**: **baja a silencio** en los momentos clave.
+- **Reacción**: «Third time I've drowned in tears with this story»,
+  «made a grown man shed a tear», «I spent most of the runtime ugly
+  crying» ([Sportskeeda](https://www.sportskeeda.com/anime/dandadan-episode-7-review-science-saru-proves-perfect-blend-action-emotion), que cita MyAnimeList).
+- La actriz latina de Aira casi lloró al grabarla (§10.3).
+- ⚠️ El minuto es aproximado (fotogramas cada 15 s). **Sin vídeos de
+  reacción** (YouTube bloqueado).
+
+### 22.3 Las que hacen gritar de emoción
+
+- **Despertar de Momo** (ep. 1, 13:16-14:10): todo se vuelve cian y la
+  música sube ✅.
+- **«If it's for her sake, I'll even become a monster!»** (ep. 1,
+  16:12) ✅.
+- **Okarun dice su nombre y explota el fondo** (Reddit, 3515 votos) ⚠️
+  sin minuto.
+
+### 22.4 Las que hacen reír
+
+- **El robo de las bolas** y la «banana» de los Serpo (ep. 1, 12:00-15:13) ✅.
+- **Momo llorando de risa** porque a Okarun le falta una (ep. 5, 15:12) ✅.
+- **«Soy un tipo torpe»**: Okarun suelta la frase de Ken Takakura sin
+  saberlo (ep. 1, 21:00) ✅.
+- Los memes del doblaje (§10.3). ⚠️ Sin cifras de vídeos de risa.
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+| Qué | Dónde | Vistas | Estado |
+|---|---|---|---|
+| «Otonoke» versión completa, **cover en español** | [0uter ft. Zero, YouTube](https://www.youtube.com/watch?v=AP_MgIEtFPw), 12-oct-2024 | **217.162** | ✅ metadatos con yt-dlp |
+| «OTONOKE» en español latino | [David Delgado, YouTube](https://www.youtube.com/watch?v=HLvL0NIRxDc), 30-oct-2024 | 5.544 | ✅ |
+| «DANDADAN OP 1 · OTONOKE» | André - A!, YouTube | — | ⚠️ sólo en el buscador |
+| Covers en TikTok (#otonoke #cover #español) | TikTok | — | ⚠️ sin sesión, sin cifras |
+| Clips de fans | [Baks_otaku, Dailymotion](https://www.dailymotion.com/video/x9poeha) | 1.875 y 925 | ✅ |
+| «Dandadan - Ep 12 - Fandub Latino» | TokyVideo | — | ⚠️ |
+| Doblaje «peruano» de parodia | TikTok, @borink_zzz | — | ⚠️ |
+| **Parodia con las voces oficiales**: Azucena Estrada, José Luis Piedra y Magda Giner | canal **Cool Bread**, YouTube | — | ✅ Doblaje Wiki |
+| Pódcast de **Pratz** con Azucena Estrada e Iván Bastidas: «doblaje en vivo» de una parodia para adultos; hubo polémica y se borró el fragmento | YouTube | — | ✅ Doblaje Wiki |
+
+- La cultura de parodia **la alimentan los propios actores**, no sólo
+  los fans.
+- ⚠️ No hay fandubs de episodios enteros con miles de vistas: casi todo
+  son clips, memes de audio y covers del opening.
+
+---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+### 24.1 Colaboraciones
+
+| Con quién | Cuándo | Qué | Fuentes |
+|---|---|---|---|
+| ***Honor of Kings*** | ago 2026 | aspectos de Okarun, Momo y Turbo Granny/Jiji; mapa y voces (§13) | [UNGEEK](https://www.ungeek.ph/2026/08/honor-of-kings-x-dandadan-collab-is-live-now-until-august-31/), [LapakGaming](https://www.lapakgaming.com/blog/en-my/honor-of-kings-x-dandadan/) ✅ |
+| ***Monster Strike*** | 1-14 oct 2025 | unidades con sus seiyū (§13) | Animeworld ⚠️ |
+| ***Jump+ Jumble Rush***, ***Grand Summoners*** | — | *sprites* y arte de acción (hoja 2 n.º 52-61) | wiki ✅ |
+| **Uniqlo UT** | feb 2025 (4 camisetas, 1500 yenes) y jul 2025 (paleta más apagada) | camisetas con escenas | [CBR feb](https://www.cbr.com/dandadan-uniqlo-new-t-shirt-collection-february-release/), [CBR jul](https://www.cbr.com/uniqlo-dandadan-collection-summer-2025/) ✅ |
+| Bandai **Ichiban Kuji** | — | pegatinas y premios | ⚠️ sólo una reventa en eBay |
+| Tienda Muse Land (Taipéi) y Pier-2 (Taiwán) | 2025-2026 | camiseta y exposición | fotos CC de §4.2 ⚠️ sin mirar |
+
+- ⚠️ **Sin café temático ni Fortnite** oficiales (sólo ideas de fans).
+
+### 24.2 Figuras (referencia de pose en 3D) ✅
+
+- **Nendoroid** n.º 2701 Momo y n.º 2702 Okarun (Good Smile), ~100 mm,
+  6500 yenes, caras intercambiables ([Oricon](https://us.oricon-group.com/news/3257/),
+  [AmiAmi](https://www.amiami.com/eng/detail/?gcode=FIGURE-181917)).
+- **POP UP PARADE** Okarun y Momo, ~170 mm, 5500 yenes, nov 2025
+  ([Essential Japan](https://essential-japan.com/news/dandadans-okarun-joins-good-smile-companys-pop-up-parade-line/)).
+- **FuRyu TENITOL, Okarun transformado**, ~140 mm, agachado sobre
+  escombros ([imagen 900×1200](https://www.goodsmileus.com/cdn/shop/files/102_2411011136136933.jpg);
+  [otra vista](https://www.goodsmileus.com/cdn/shop/files/101_241101113613722.jpg)).
+  Las dos imágenes son de **Okarun** (§28).
+- **FuRyu F:NEX**: **Seiko 1/7** con bate ([750×1000](https://www.goodsmileus.com/cdn/shop/files/05_Seiko17ScaleFigure_2412231034474566.jpg))
+  y **el gato de Turbo Granny a tamaño real** en vinilo
+  ([750×1000](https://www.goodsmileus.com/cdn/shop/files/06_TurboGrannyBeckoningcat11ScaleSoftVinylFigure_2412231023424582.jpg)).
+- Turbo Granny: peluche, Noodle Stopper, llavero, daruma y kit PLAMAX
+  ([tienda de Good Smile US](https://www.goodsmileus.com/collections/dandadan)).
+- *figma* de Okarun transformado: ⚠️ sólo en Walmart.
+- En Reddit: estatuas de resina 1/6 de Momo y Aira en «su escena
+  icónica» (361 votos)
+  ([hilo](https://www.reddit.com/r/Dandadan/comments/1r1klvv/momo_ayase_and_aira_shiratori_iconic_scene_16/)) ⚠️.
+
+### 24.3 Cosplay bien hecho
+
+- Guía de Momo con piezas reales ([Carbon Costume](https://carboncostume.com/momo-ayase-from-dandadan/)) ✅ (§16.3).
+- **La obra de teatro** es el mejor «cosplay» oficial: pelucas y trajes
+  de verdad en 2520-2756 px (hoja 1 n.º 4-9) ✅.
+- Tutoriales de peluca y traje de Okarun en espuma: ⚠️ sin canal ni
+  cifras.
+
+---
+
+## 25 · Obras parecidas y láminas vecinas
+
+### 25.1 Parecidas, según la comunidad de AniList ✅
+
+[AniList](https://anilist.co/anime/171018), por votos: *Mob Psycho 100*
+(543), *Chainsaw Man* (381), *FLCL* (214), *Kill la Kill* (173),
+*Gachiakuta* (106), *Devilman Crybaby* (77), *Tengoku Daimakyo* (70),
+*Dorohedoro* (63), *SANDA* (57), *Jujutsu Kaisen* (55), *Undead Unluck*,
+*Soul Eater*, *Bakemonogatari*, *Gintama*, *Noragami*.
+
+Etiquetas de AniList: *Urban Fantasy* 97 %, *Youkai* 96 %, *Ghost* 96 %,
+*Aliens* 94 %, *Surreal Comedy* 87 %, *Henshin* 84 %, *Gyaru* 61 %,
+*Tokusatsu* 36 %.
+
+### 25.2 Influencias ✅
+
+- **Anime de los 90, carteles de kaiju de la era Showa, memes de
+  internet** (Tatsu, ComicBook.com).
+- **Fujimoto y Kaku**, de quienes fue asistente: de ahí el parecido con
+  *Chainsaw Man* que también vota la comunidad (dos fuentes que apuntan
+  a lo mismo).
+- **Ultraman**: Okarun transformado se queda «rojo» como un héroe
+  *tokusatsu* (Yamashiro).
+- **Leyendas reales**: Turbo Granny (la vieja de los túneles), el
+  Flatwoods Monster (Virginia Occidental, 1952, y el «incidente de
+  Kofu»), Acrobatic Silky (una leyenda de Fukushima que corrió por
+  2channel) ([fun-japan.jp](https://www.fun-japan.jp/en/articles/14048)) ✅.
+- **Ken Takakura**, el actor de las pelis de yakuza que idolatra Momo:
+  da nombre y frase a Okarun.
+
+### 25.3 Láminas vecinas del servidor (para no repetir)
+
+| Serie vecina | Canal | Qué comparte | Cómo no repetir |
+|---|---|---|---|
+| **Chainsaw Man** (11) | #que-estas-viendo | Fujimoto, tono de terror y comedia, mismo público | Dandadan no usa sangre como clave: usa **color por bando** |
+| **JoJo** (28) | #memes | memes del doblaje | Dandadan va a la radio, no a los memes |
+| **Jujutsu Kaisen** (32) | ➕ CREAR SALA | maldiciones y yokai, AniList la vota parecida | el tono de Dandadan es más cómico y más cálido |
+| **Mob Psycho 100** (45, por hacer) | — | poderes psíquicos, la más votada como parecida | vigilar que no se pidan los mismos canales |
+| **Bocchi** (`_ya_hechas`) | #demos-canto | música, objeto real (la caja de mangos) | Dandadan usa una revista, no una caja |
+| **Digimon** (40) | #que-estas-escuchando | música y objeto en Blender (la armónica) | la radio de Dandadan es de pedir, no de compartir lo que escuchas |
+| **Oshi no Ko** (05) | #en-directo | directos | — |
+
+---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas del mundo, en cinco líneas ✅
+
+1. Japón de hoy, real, con **dos capas invisibles**: **fantasmas y
+   yokai** (folclore japonés) y **extraterrestres** (ufología moderna).
+2. Un encuentro paranormal fuerte **despierta poderes**: a Momo, ver un
+   OVNI; a Okarun, la maldición de un yokai.
+3. Las **bolas doradas** (*kintama*: literalmente, los testículos
+   robados de Okarun) dan un poder de vida sobrenatural; los yokai las
+   quieren ([wiki: Kintama](https://dandadan.fandom.com/wiki/Kintama)).
+4. Extraterrestres y yokai **tampoco se llevan bien**: no es humanos
+   contra monstruos, son bandos cruzados.
+5. El **chiste convive con el terror**: ninguno baja el volumen del
+   otro.
+
+### 26.2 La historia por arcos ✅ (nombres de la comunidad, no oficiales)
+
+De la [wiki, Story Arcs](https://dandadan.fandom.com/wiki/Story_Arcs):
+
+**Saga «Kintama Hunt»**
+
+1. **Turbo Granny**: Momo y Okarun se retan (fantasmas contra
+   extraterrestres); la maldición le roba las bolas a Okarun.
+2. **Acrobatic Silky**: aparece Aira, con otra bola.
+3. **Serpo**: vuelven los extraterrestres; Aira despierta su poder.
+4. **Cursed House**: conocen a **Jiji** y a su familia, los Kito.
+5. **Evil Eye**: exorcizar el mal de ojo de Jiji.
+6. **Kaiju**: aparece Bamora; otra bola es un ser vivo.
+
+**Saga «Ultimate Yokai»**
+
+7. **Space Globalists**: invasión a gran escala; aparece Reiko Kashima.
+8. **Onbusuman**: ayudan a la delegada, Rin.
+9. **Danmara**: una bola atrapada en un objeto maldito.
+10. **Kozuka Knives**: Momo es el blanco de Koki, manipulada por «el
+    Orquestador».
+11. **Typhoon Human**: secuestro de avión camino de Shimane.
+12. **Shimane**: el martillo **Uchide-no-Kozuchi** para levantar
+    maldiciones.
+13. **Six Curses**: **Momo pierde la memoria** de todo lo vivido con
+    Okarun.
+
+- ⚠️ Según la wiki (una fuente), casi todos los arcos se cierran con
+  **una cena en doble página**.
+- La T1 del anime termina entrando en el arco 4 (ep. 12, «呪いの家へ
+  レッツゴー», «¡Vamos a la casa maldita!»). La película «**Evil Eye**»
+  junta los 3 primeros episodios de la T2 (cines, 7 de junio).
+
+### 26.3 Objetos y emblemas que un fan reconoce al instante
+
+- **Las bolas doradas** (hoja 2 n.º 87; tráiler T2, 0:23 «金玉の謎»).
+- **El gato de la suerte de Turbo Granny** con su medallón **千万両** y
+  el **talismán** «家内安全 / 厄除» (ep. 5).
+- **Los lentes redondos** de Okarun; los **aretes verdes** y la
+  **gargantilla** de Momo.
+- **La revista ocultista** de Okarun (titular «…人の呼び方», ep. 1,
+  15:43).
+- **El bate de Seiko** (key visual).
+- **El OVNI de los Serpo** y sus cuerpos de rayas blancas y negras
+  (ep. 1, 15:00-15:17).
+- **El logo rojo rasgado** ダンダダン.
+- ⚠️ El **escudo de Kami High**: sólo descrito.
+
+### 26.4 El vocabulario propio ✅
+
+| Palabra | Qué es |
+|---|---|
+| **Okarun** | apodo de Ken Takakura: «el del ocultismo». En latino, «Chico misterio» (Netflix) u «Ocultista» (Crunchyroll), antes de saber su nombre |
+| **Turbo Babaa** | «Turbo Abuela» (Netflix) o «Turbo Ruca» (Crunchyroll) |
+| **Kintama** | las bolas doradas; en el doblaje de Crunchyroll, «banana» |
+| **Serpo** | la raza de extraterrestres, sólo machos, que viene del planeta Serpo |
+| **UAP** | lo que Okarun dice en vez de OVNI |
+| **Kami High** | el instituto de Momo, Okarun y Aira |
+| **Kamigoe** | la ciudad (basada en Kawagoe) |
+| **Médium** (霊媒師) | lo que es Seiko; su alias, «Santa Dodoria» (Netflix) o «Dodoria Santa» (Crunchyroll) |
+| **Daizukan** | el databook oficial |
+| **じゃん(よ)** | la muletilla de Momo con la que terminan los títulos |
+
+---
+
+## 27 · Tres conceptos de lámina
+
+Los tres cumplen las reglas del dueño: un objeto real de la serie en un
+sitio real, que se hace en Blender; personajes con pose y cara de lo que
+dicen; textos cortos en la voz de la serie; y el tono de Dandadan
+(cotidiano cálido, lo sobrenatural encendido). Los recortes, por
+`v3/integrar.py`.
+
+### A · 📻 RADIO EN VIVO — «Cómo llamar a la radio» ⭐ el recomendado
+
+- **El objeto real en un sitio real.** **La revista ocultista de
+  Okarun**, abierta sobre **el pupitre de madera del aula** donde leía
+  de niño (ep. 1, 15:50-15:57: pizarra, casilleros, carteles de
+  caligrafía **勇気**, «valor»). En el recuerdo, la revista tiene
+  **cabecera roja en katakana** y el titular **«…人の呼び方»** («cómo
+  llamar a…», 15:43). Se hace en **Blender**: páginas curvas, papel
+  satinado, grapas en el lomo; la tinta del artículo sigue la curva de
+  la hoja.
+  ⚠️ En el fotograma la cabecera se ve de lado: copiar la forma y el
+  rojo, **no un nombre de revista real**.
+- **La idea.** De niño, Okarun **llamaba al cielo y nadie venía** («No
+  matter how much I called for you, you never showed up!», 15:47). En la
+  radio de la casa sí: **lo pides y suena**.
+- **Quién y con qué pose.** **Okarun**, 1.º de la encuesta oficial, con
+  su *gakuran*, sentado al pupitre, **dos dedos en el puente de los
+  lentes** (pose 6, ep. 5, 14:18-14:50; hoja 2 n.º 86) mirando al
+  lector por encima de la revista. Proporciones y ropa: key visual (hoja
+  3 n.º 2). Referencia del pupitre: hoja 2 n.º 77.
+- **Cómo habla.** **Globo del manga**: óvalo fino, colita puntiaguda
+  (§7.4), letra Anime Ace 2.0 BB con ¿ y ¡ de Bangers.
+  El artículo de la revista: cabecera en **Rubik Glitch** roja
+  (**#C02343**), texto en **Zen Kaku Gothic New**.
+- **Dónde va cada texto** («La radio de la casa. Pides por comandos y
+  suena aquí.»):
+  - Cabecera roja de la revista: **RADIO EN VIVO**
+  - Titular del artículo: **Cómo llamar a la radio**
+  - Paso 1, con un dibujo de antena: «Escribe el comando.»
+    ⚠️ **El comando real lo tiene que dar el dueño**: no está en el
+    inventario (Kakegurui, 12, avisa de lo mismo). No se inventa.
+  - Paso 2: «Suena aquí, para todos.»
+  - Globo de Okarun, arriba a la izquierda: «Llamé al cielo toda la
+    vida. Nadie vino.»
+  - Globo más pequeño, abajo a la derecha: «Aquí sí. Lo pides y suena.»
+- **Cómo no queda plano.** La **revista delante**, curva y un poco
+  desenfocada en el borde, con el brillo de la lámpara en el papel. El
+  **borde del pupitre** cruza el primer plano. Detrás, la **ventana** con
+  la **luna azul pálida**, que en Dandadan es un OVNI disfrazado
+  (Mantan-Web): los dos bandos en una imagen, cálido dentro (**#584446**,
+  **#EAD4CD**) y frío fuera (**#1696EB**). Carteles 勇気 desenfocados en
+  la pared.
+- **Guiño opcional:** el **gato de Turbo Granny** en una estantería,
+  con la pata alzada.
+- **Lámina 2** (si hace falta la lista de comandos): una **ficha de
+  avistamiento** de la revista, un comando por casilla.
+
+### B · #log-mod (privado) — «La sancionada»
+
+- **El objeto real en un sitio real.** **El gato de la suerte de Turbo
+  Granny** sobre **la mesa baja de madera** del cuarto de tatami de
+  Seiko, con **el talismán de papel pegado al costado** (ep. 5, 16:05 y
+  17:16). Se hace en **Blender** a partir de la **figura oficial a tamaño
+  real** (hoja 3 n.º 26): cerámica blanca brillante, collar rojo y
+  verde, cascabel dorado, medallón **千万両**. El talismán, papel *washi*
+  que se curva sobre la cerámica.
+- **La idea.** Turbo Granny, la villana, **acabó sellada en un gato con
+  un talismán «contra el mal»** (家内安全 / 厄除). Nadie explica mejor
+  qué es una sanción.
+- **Quién y con qué pose.** **Turbo Granny** (3.ª de la encuesta), en
+  el gato, **con la pata alzada** y cara de fastidio (ep. 5, 16:51; hoja
+  1 n.º 40). Detrás, de pie, **Seiko** con su **abanico de papel** (pose
+  de §15.5, ep. 5, 16:45) y los lentes rojos: la que manda.
+  **Nunca un gato tierno.**
+- **Cómo habla.** Turbo Granny, **globo dentado de grito** con **borde
+  rojo #C02343** y Bangers (su bando). Seiko, globo normal. El talismán,
+  con letra de pincel **Chokokutai**.
+- **Dónde va cada texto** («Cada sanción, quién y por qué.»):
+  - Arriba del talismán, los kanji de verdad: **厄除** (un fan los
+    reconoce).
+  - Debajo, en el mismo papel: «Quién.» «Qué sanción.» «Por qué.»
+  - Grito de Turbo Granny: «¡A mí me encerraron en un gato por menos!»
+  - Globo de Seiko: «Aquí queda escrito. Todo.»
+- **Cómo no queda plano.** El **talismán en primer plano**, doblado sobre
+  la curva del gato, con su sombra. El **cascabel** con un brillo. El
+  **abanico de Seiko** entra por un lado del encuadre. Detrás, **puertas
+  correderas** entreabiertas con la luz de la tarde (**#8C6E68**,
+  **#EAD4CD**).
+- ⚠️ Es un canal **privado**: sólo tiene sentido si los privados llevan
+  lámina.
+
+### C · 🍿 Cine (voz) — «Dos horas de Ken Takakura»
+
+- **El objeto real en un sitio real.** **La tele del cuarto de tatami**
+  de la casa de Seiko (se ve en el ep. 5, 16:12 y 16:39) y **el celular
+  de Momo en altavoz**, apoyado en la mesa baja. Blender: la mesa, el
+  celular con la pantalla de llamada, un **plato de cangrejo** (su comida
+  favorita, *Daizukan*).
+- **La idea.** Momo pasa **sus 2 horas libres del día al teléfono con su
+  amiga Kei, viendo pelis de Ken Takakura** (*Daizukan*). Es justo lo que
+  se hace en la sala: ver algo juntos, cada uno en su casa.
+- **Quién y con qué pose.** **Momo** (1.ª en AniList, la más dibujada),
+  sentada en el tatami con su **sudadera verde de casa** (ep. 5, 17:08),
+  **riendo con la cabeza hacia atrás** (pose 6, ep. 1, 21:54). Kei no
+  sale (⚠️ no hay imagen suya en las partes): sólo su voz desde el
+  celular.
+- **La pantalla.** La regla del dueño dice que en una pantalla va un
+  fotograma. Aquí la tele se ve **de lado o de espaldas**: sólo su **luz
+  azulada en la cara de Momo**. No se pone una peli real de Ken Takakura.
+- **Cómo habla.** Globo normal para Momo; el de Kei, con la **colita
+  hacia el celular**.
+- **Dónde va cada texto** (⚠️ la sala no tiene descripción en el
+  inventario: el texto lo confirma el dueño):
+  - Pantalla del celular: **🍿 CINE**, con el contador de la llamada.
+  - Globo de Momo: «¡Pon la peli y entra!»
+  - Globo de Kei, desde el celular: «Yo la veo desde mi casa.»
+  - Un tercer globo, pequeño: «Se comenta en vivo, ¿a poco no?»
+- **Cómo no queda plano.** El **plato de cangrejo y el celular delante**,
+  algo desenfocados. Dos luces: **cálida de lámpara** a un lado
+  (**#584446**) y **azul de la tele** al otro. El **gato de Turbo
+  Granny** en la estantería del fondo.
+- ⚠️ La sala la tiene propuesta Los Simpson (29, el sillón frente a la
+  tele): **las dos usan una tele**. El dueño decide.
+
+### Las tres, en una tabla
+
+| | A | B | C |
+|---|---|---|---|
+| Canal | 📻 RADIO EN VIVO | #log-mod (privado) | 🍿 Cine (voz) |
+| Objeto (Blender) | revista ocultista abierta | gato de la suerte con talismán | celular en altavoz, mesa baja, plato de cangrejo |
+| Sitio | aula de la infancia de Okarun | cuarto de tatami de Seiko | cuarto de tatami de Seiko, de noche |
+| Personajes | Okarun | Turbo Granny (y Seiko) | Momo |
+| Cuadro | globo del manga + cabecera de revista | globo de grito rojo + talismán | globo normal + globo desde el celular |
+| Luz | cálida dentro, luna azul fuera | tarde por las puertas correderas | lámpara cálida y tele azul |
+| Choca con | **nadie** | nadie (Attack on Titan lo nombra) | Los Simpson (29) |
+
+---
+
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### 28.1 Lo que corregí (mirando las hojas de las partes y sus datos)
+
+| Lo que decía la parte | Lo que es | Cómo lo comprobé |
+|---|---|---|
+| Vídeo (puntos 2 y 14): «la forma humana anciana de Turbo Granny», ep. 5, 15:12-17:23, con 3 poses | **Es Seiko**, la abuela de Momo | hoja `ep05/hoja_06.jpg` de la parte de vídeo: lentes rojos, fuma (16:09), «Momo! Bring me a doll, I don't care what!» (15:50). Turbo Granny ya está sellada en el gato (wiki, *Appearance*) |
+| Imagen: figura «TENITOL Momo» | **Okarun transformado**, otra vista de la misma figura; la marca es **FuRyu** (TENITOL y F:NEX), vendida por Good Smile US | hoja 3 n.º 23 y 24, con los logos FuRyu y TENITOL |
+| Voz: «Oye, despacio cerebrito» y «¡Cállense, cállense…!» en Crunchyroll | son de **Netflix** | wikitext de Doblaje Wiki, bajo «Versión Netflix» |
+| Voz: las dos versiones cantan *Slam Dunk* y *Ranma* | **sólo Crunchyroll** las canta en español; Netflix las deja en japonés | `datos-voz.md`, Doblaje Wiki |
+| Voz: en el ep. 14 «la Gran Serpiente grita» lo de las pataditas | lo dice **Momo** (Azucena engrosa la voz) | Doblaje Wiki |
+| Voz: Okarun grita «¡Nyoron!» | **sin fuente**; «Nyoro~n» sale en la página de mantenimiento de AnimeThemes | no aparece en ninguna otra parte |
+| Voz: ep. 1, 17:15, «flashback de Okarun niño feliz con un adulto» | es **Momo niña con Seiko** | `episodios.md`: «もも、待ちなさい» («Momo, espera»), «バーちゃんなんて大嫌い» |
+| Voz: «la cara de malicia de Turbo Granny», ep. 1, 14:30-14:45 | es **Okarun poseído** (con la cara y la voz de ella) | hoja `ep01/hoja_07.jpg`: «Turbo Granny has cursed me!» (14:27) |
+| Voz: la llamada del principio es «la ex de Miko» | es **Momo cortando con su novio** | `episodios.md`, 1:00-2:30 |
+| Voz: traductor de Netflix «Fernanda Gurrea» | **Fernando Gurrea** | wikitext de Doblaje Wiki |
+| Vídeo: «If it's for her sake…», ep. 1, 14:34 | llega a las **16:12-16:16** | hoja `ep01/hoja_07.jpg`, n.º 331-333 |
+| Imagen: la Casa Maldita es «el escenario del arco inicial» y sus fotos son «de noche con linterna» | la Casa Maldita es el **arco 4** (Jiji); el primero es el **túnel**. Las dos fotos (hoja 3 n.º 14 y 15) se ven **de día** | wiki, *Story Arcs*; hoja 3 |
+| Imagen: *Honor of Kings* en hoja 2 n.º 76; *Jump+* en 52-53 | *Honor of Kings* es **68-69** (la 76 es «Oni Club Unleashed»); *Jump+* es **52 y 54** | hoja 2 |
+| Vídeo: «Aira kicks Chorus giant» hoja 1 n.º 28; concept art de Turbo Granny hoja 2 n.º 74 | son **hoja 1 n.º 20** y **hoja 2 n.º 75** | hojas 1 y 2 |
+| Voz: sin vergüenza de Momo, sin tristeza de Okarun | **vergüenza de Momo**, ep. 5, 14:26; **ojos llorosos de Okarun**, ep. 1, 16:02 | hojas de la parte de vídeo (`ep05/hoja_06.jpg` n.º 243; `ep01/hoja_07.jpg` n.º 326) |
+| Recolector: fan art de Okarun | era de Momo repetido; la etiqueta buena es `takakura_ken_(dandadan)` | lo corrigió la parte de imagen |
+
+### 28.2 Lo que sigue sin comprobar ⚠️
+
+- **Punto 13**: miedo de Momo; tristeza y vergüenza de Aira despierta;
+  alegría, tristeza, miedo y vergüenza de Turbo Granny; alegría de
+  Okarun con los ojos visibles (§8.6).
+- **Frases latinas**: sólo 2 oídas; las de Doblaje Wiki, sin minuto.
+- **El opening y el ending** no se miraron como vídeo propio.
+- **Fotogramas en 1080p con minuto**: no hay.
+- **Texturas reales** (papel, tatami, madera): no se buscaron.
+- **Cumpleaños y altura**: no están en la wiki ni en lo citado del
+  *Daizukan*.
+- **TikTok, análisis en vídeo, vídeos de reacción**: bloqueados o no
+  encontrados.
+- **Interfaz de las colaboraciones** (*Monster Strike*, *Honor of
+  Kings*): no se vio.
+- **Programa de animación** de Science SARU para esta serie.
+- **Onomatopeyas del manga** vistas de cerca; letra del opening.
+- **Coreano y chino**: no se buscó en esos idiomas; **GitHub**: nada.
+- La **cena en doble página** que cierra los arcos: una sola fuente.
+- Una página a color «Dandadan (Marvel Comics)» (hoja 2 n.º 64): nadie
+  dice qué es.
+
+### 28.3 Para el dueño
+
+- **Canal**: propongo **📻 RADIO EN VIVO** (nadie lo pide). Reservas:
+  #log-mod (privado) y 🍿 Cine (choca con Los Simpson, 29). Ninguna
+  choca con 37-40.
+- **Los comandos de la radio**: hace falta la lista real (qué bot, qué
+  comando) para rotular la lámina A.
+- **#general-doblaje**: es el mejor sitio para el dato de los **dos
+  doblajes latinos** de Dandadan, pero ya lo piden 29, 37, 39 y 38. Si
+  se reparte por turnos, Dandadan tiene lámina (Turbo Abuela contra
+  Turbo Ruca).
+- **Oír en persona**: cómo dice Momo, en los dos doblajes, «perdón,
+  abuela, entonces sólo me daba vergüenza» (ep. 1, ~17:10) y «por
+  teléfono hablas con soltura» (ep. 1, ~10:00). Y los minutos de «Oye,
+  despacio cerebrito» y «¡Cállense, cállense que me desesperan!»
+  (Netflix, T2).
+
+---

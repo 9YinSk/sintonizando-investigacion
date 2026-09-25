@@ -38,6 +38,13 @@ antes de citar cualquier minuto. Carpeta de trabajo:
   - 1:36 — key visual de cierre con 5 personajes juntos (Isagi al centro) y el
     logo, «The Blue Lock anime starts in October 2022».
   - Enlace directo al momento: https://archive.org/details/youtube-QAlsuW5EXUg?t=91
+  - Nota: el tramo 13:00-23:51 de este mismo episodio (2x14) se pasó por
+    `episodio.py` con audio en japonés (Whisper) → ficha minuto a minuto en
+    `partes/episodios.md`. Confirma en japonés lo que el VOSTFR francés
+    resume: a las 22:00 Rin le dice a Isagi «今この瞬間から お前は俺のライバルだ»
+    (desde este momento eres mi rival) tras perder, y a las 19:00 Ego da su
+    discurso de la «fase 2» del proyecto Blue Lock. Whisper puede fallar
+    nombres propios: revisar antes de citar textual en la biblia final.
 - **Blue Lock vs. U-20 Japan — tráiler oficial** (Dailymotion, sube el mismo
   spot que Crunchyroll): https://www.dailymotion.com/video/x98n4ks · 0:45 · ✅
   (marca de agua «WATCH ON Crunchyroll» en el propio vídeo + coincide con el
@@ -107,6 +114,18 @@ antes de citar cualquier minuto. Carpeta de trabajo:
   se midió el hex a mano (no se sacó fotograma aparte para `estilo.py`; los
   colores de arriba ya cubren el cupo de tiempo de esta tanda). Confirmar en
   una tanda siguiente si hace falta el hex exacto del estadio.
+- **Texturas reales equivalentes** (lo pide el punto 4 además del hex), de
+  ambientCG (CC0, gratis, sin atribución obligatoria):
+  - Para los paneles/casilleros oscuros de la sala interior: **Metal063**
+    (metal cepillado oscuro) https://ambientcg.com/view?id=Metal063 y
+    **CorrugatedSteel009** (chapa ondulada, para el efecto industrial de la
+    instalación) https://ambientcg.com/view?id=CorrugatedSteel009.
+  - Para las paredes de hormigón del edificio exterior y del camino de
+    acceso: **Concrete034** https://ambientcg.com/view?id=Concrete034 y
+    **Concrete048** https://ambientcg.com/view?id=Concrete048.
+  - ✅ (buscado directo en la API de ambientCG, `q=metal` y `q=concrete`,
+    licencia CC0 confirmada en la propia respuesta de la API — es el banco
+    que ya usa el equipo, mismo que en `AYUDANTE.md`).
 - Nota para quien haga fondos de pantalla (punto 16, es de `imagen.md` pero
   relevante aquí): la sala de rejilla azul (arriba) es el sitio más reconocible
   de la serie para cualquier fan — más que el estadio.
@@ -132,9 +151,20 @@ antes de citar cualquier minuto. Carpeta de trabajo:
   (recolectada de AniList) y el título del álbum en Internet Archive «Blue
   Lock VS. U-20 Japan Exclusive Theme Songs Soundtrack by Jun Murayama»
   (https://archive.org/details/1200x-1200bb_202505). ✅
-- **La banda sonora del arco U-20 está subida en Internet Archive** (se puede
-  escuchar completa, útil para quien monte la lámina con música de fondo):
-  - Álbum: https://archive.org/details/1200x-1200bb_202505 (audio)
+- **Temas musicales por personaje** (el dato más útil de este punto): dentro
+  del álbum de Internet Archive de arriba hay **pistas con el nombre de cada
+  personaje**, compuestas por Jun Murayama — confirma que la serie usa
+  «leitmotiv» por personaje, no sólo un tema genérico de batalla:
+  - `NAGI.mp3` (1:03) · `RIN.mp3` (2:34) · `SpotifyMate.com - BACHIRA -
+    村山_潤.mp3` (1:49, nombre del compositor 村山潤 = Jun Murayama en el
+    propio archivo, segunda confirmación del compositor) · `REO.mp3` (2:30) ·
+    `Reo & Nagi.mp3` (1:24, tema a dúo) · `CHIGIRI.mp3` (1:40) ·
+    «Awakening of BAROU» (2:51). ✅ (listado de archivos de
+    https://archive.org/details/1200x-1200bb_202505, comprobado con
+    `archive.org/metadata`) — ⚠️ no encontré una pista con el nombre
+    «ISAGI» en este álbum en concreto (puede estar en otro álbum de la T1 no
+    localizado en esta tanda).
+  - Álbum completo: https://archive.org/details/1200x-1200bb_202505 (audio)
   - Full OST del partido (1h19m40s): https://archive.org/details/blue-lock-vs.-u-20-japan-full-original-soundtrack-blue-lock-season-2-ost-full-01-19-40
 - ⚠️ **No pude decir qué pista suena en cada escena emotiva concreta**:
   `fotogramas.py` baja el vídeo SIN audio (es su diseño, para mirar rápido);
@@ -413,6 +443,22 @@ coincide con la ficha de personaje de `datos-voz.md`. 6 poses:
   distintos** procesados con el visor de fotogramas.
 - `estilo.py` corrido 3 veces sobre fotogramas propios (no imágenes de stock)
   para los hex de fondos del punto 4.
+
+- `herramientas/episodio.py` corrido en **2 trozos clave** (con `--id
+  42-blue-lock`, quedaron en `partes/episodios.md`, 344 planos entre los dos):
+  - Tramo final del episodio 2x14 (13:00-23:51, audio japonés con Whisper) —
+    revela el discurso de Ego («才能の原石ども… 俺はこの中から世界一のストライカーを
+    作り出す», talentos en bruto, de aquí sacaré al mejor delantero del mundo)
+    y la frase de Rin aceptando a Isagi como rival tras perder («今この瞬間か
+    ら お前は俺のライバルだ»). Detalle citado también en el punto 2.
+  - Tramo de la película «Episode Nagi», 30:00-40:00 (Nagi se integra al
+    equipo de Reo) — confirma con sus propias palabras el carácter perezoso
+    («めんどくさがりや», alguien a quien todo le da pereza) y deja una frase de
+    su familia que explica su arco: «本当にかしこい人間は馬鹿にバカって言わない優し
+    さを持ってる» (la gente de verdad inteligente tiene la amabilidad de no
+    llamar tonto a un tonto) — útil para la investigadora de voz (punto 13,
+    carácter) y para el redactor. ⚠️ Whisper confunde el nombre «凪誠士郎»
+    (Nagi Seishirou) en varias líneas: revisar antes de citar textual.
 
 Sigue: bajar el audio (yt-dlp/voz.py) de 1-2 escenas clave del episodio 14 de
 la temporada 2 para identificar la pista de música exacta (punto 9, hoy sólo
