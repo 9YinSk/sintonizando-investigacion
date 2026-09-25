@@ -492,10 +492,6 @@ resultado), **no de haber visto el vídeo**. Lo marco todo ⚠️ por eso, tal c
 - **Dailymotion API**, directo: sin fandubs reales de God of War (sólo tráilers oficiales y una
   comparativa de doblajes por Vandal, que sí cité).
 
-Sigue: mirar el vídeo real de la muerte de Brok (con minuto exacto) y de un clip de fandub en cuanto
-YouTube deje de bloquear, y buscar una reseña de doblaje dedicada a *Ragnarök* (no sólo a 2018) si
-aparece alguna en ANMTV o similar más adelante.
-
 **Cara y lenguaje corporal, visto en fotogramas** (tráiler de *Ragnarök*, con las hojas de contacto ya
 sacadas por el investigador de vídeo con `episodio.py` en
 `/tmp/claude-0/trabajo/117-episodios/ragnarok-trailer/hojas/`, miradas por mí con `Read`; cito minuto
@@ -521,3 +517,8 @@ y enlace con `&t=` sobre la fuente real, Dailymotion) · https://www.dailymotion
 Estos 5 fotogramas son un complemento con lo que ya vio el investigador de vídeo para el punto 14
 (poses); aquí los uso sólo para la cara/cuerpo en cada emoción del punto 13, no repito el resto de
 su ficha de planos.
+
+He terminado los 7 puntos (7, 8, 12, 13, 20, 21, 22) a fondo. No dejo «Sigue» de tareas obligatorias
+pendientes: lo único que falta (vídeo directo de la muerte de Brok, cifras de fandubs de YouTube,
+reseña de doblaje dedicada a Ragnarök) es extra bloqueado por el 429 de YouTube durante toda la
+tanda, ya está en «No encontré» con las búsquedas hechas.
