@@ -8,27 +8,73 @@ fecha: 2026-09-24
 # Biblia · K-On! — para #general
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada: `community.fandom.com` dio **000/403**.
->   Fandom, Doblaje Wiki, SomosKudasai, Sketchfab, Poly Haven y los blogs
->   daban 403 por curl y por WebFetch. Por eso **no se pudo correr**
->   `herramientas/investigar_serie.py`: **no hay hojas de contacto** ni
->   carpeta `hojas/`.
-> - Hice búsquedas web en español, inglés, japonés, chino y coreano (lista
->   al final, en la bitácora). De Fandom sólo tengo lo que dicen los
->   resultados de búsqueda, no las páginas abiertas.
-> - GitHub sí respondía. De ahí saqué lo más útil: **los subtítulos
->   japoneses de las dos temporadas, con sus tiempos**
->   ([Matchoo95/JP-Subtitles, carpeta K-ON!](https://github.com/Matchoo95/JP-Subtitles/tree/master/K-ON!)).
->   La temporada 1 es del Blu-ray; la 2, de la emisión de TBS. Con ellos doy
->   **el minuto de cada escena y la frase exacta en japonés**. El minuto
->   puede moverse uno o dos según la plataforma.
-> - También bajé de [google/fonts](https://github.com/google/fonts) las
->   letras propuestas y comprobé una a una, con fontTools, si traen
->   á é í ó ú ñ ¿ ¡ y la nota ♪.
+> - **Primera pasada (red cerrada)**: sólo buscador web y GitHub. Fandom,
+>   Doblaje Wiki, SomosKudasai, Sketchfab y Poly Haven daban 403. De GitHub
+>   salieron **los subtítulos japoneses de las dos temporadas, con sus
+>   tiempos** ([Matchoo95/JP-Subtitles, carpeta K-ON!](https://github.com/Matchoo95/JP-Subtitles/tree/master/K-ON!)):
+>   la T1 es del Blu-ray; la T2, de la emisión de TBS. De ahí salen los
+>   minutos en formato 00:00 (pueden moverse uno o dos según la
+>   plataforma). Las letras de [google/fonts](https://github.com/google/fonts)
+>   se comprobaron con fontTools.
+> - **Segunda pasada (24-25 sep 2026, red abierta)**: un equipo de cuatro
+>   investigadores (imagen, vídeo, voz, texto) y un redactor. Se pudo usar:
+>   APIs de Fandom (K-On! Wiki), Doblaje Wiki, Sketchfab, ambientCG,
+>   Openverse, AniList y Arctic Shift (Reddit); **958 imágenes de la wiki en
+>   20 hojas de contacto** (3 en `hojas/`, §3.0); **episodios de la T1 en
+>   Internet Archive** y el **tráiler oficial de la película en
+>   Dailymotion**, mirados con `fotogramas.py`; `estilo.py` para medir
+>   colores; `voz.py` (Whisper) para oír el **piloto latino de Elocuencia
+>   Studio**; tesseract y fontTools.
+> - **Lo que no se pudo**: YouTube pidió iniciar sesión todo el día (sólo
+>   fichas y subtítulos de algunos vídeos). Los vídeos mirados son **SD**
+>   (640×360 los episodios, 480×280 el tráiler): sirven para pose, minuto y
+>   color, no para calcar en 1080p. AnimeThemes dio 522. Danbooru, ANN
+>   directo, GameFAQs, MobyGames y TV Tropes (anime) dieron 403.
+>   Crunchyroll no se usa.
+> - Los minutos **vistos** en vídeo dicen «visto»; son los de la copia de
+>   Internet Archive (`k-on-s1-2`, un MP4 por episodio).
 > - ✅ **confirmado**: dos fuentes, o la fuente primaria misma (el
->   subtítulo del episodio, la web o la tienda oficial). ⚠️ **dudoso**: una
->   sola fuente de segunda mano (una wiki, un blog, Wikipedia sola), o lo
->   describo de memoria. Lo de memoria siempre lo digo.
+>   episodio, la web o la tienda oficial). ⚠️ **dudoso**: una sola fuente o
+>   sin mirar. Todo lo dudoso va marcado.
+
+> [!note] Segunda pasada · qué cambió
+> **Corregido (antes → ahora)**
+> - «¡El club no es una cafetería!» (T1 ep. 2, 05:32): «Mio, de pie, brazos
+>   cruzados» → en el fotograma de ese minuto **las cuatro están sentadas** y
+>   quien habla es **Ritsu**; Mio escucha con el codo en la mesa (visto,
+>   §2.2 y §15). Falta oír el segundo exacto: queda ⚠️ quién dice la frase.
+> - Yui entra al club (T1 ep. 1): «20:13, presentar» → la escena real es la
+>   **fiesta de después, 19:55-20:46**: pizarra 「新入部員獲得!!」, foto con
+>   ✌️ (20:34) y Mugi con las manos juntas (20:46) (visto).
+> - Azu-nyan (T1 ep. 9): «10:59-11:09, de memoria» → **10:57-11:15**, visto
+>   gesto a gesto.
+> - Blazer de invierno: `#2F3553` (estimado) → **`#4E4963`** (medido en
+>   arte oficial, hoja 2 #60).
+> - Madera y luz del club: naranja/crema estimado → **marrón grisáceo
+>   medido** (`#654436`, `#483531`, `#E4D4BE`) en fotogramas.
+> - Doblaje latino: «un doblaje chileno de una sola fuente» → el **episodio
+>   1 doblado por Elocuencia Studio existe y se puede oír** (Internet
+>   Archive); reparto de 4 actrices en **dos fuentes**; **13 frases
+>   textuales con minuto**. Sigue sin haber doblaje latino **oficial**.
+> - Dos datos del recolector eran de otra serie: «Kon» de Doblaje Wiki es
+>   de *Bleach* y el Reddit «r/Konosuba» es de *Konosuba*. No se usan.
+>
+> **Añadido**
+> - Hojas de contacto (§3.0); licencias de Sketchfab leídas en su API y
+>   modelos nuevos (Les Paul, batería, Jazz Bass, «Giita!!!») (§4).
+> - Keifont comprobada con fontTools (trae todo) y su licencia Apache 2.0
+>   (§6); el cartel de reclutamiento visto; las páginas «bonus» del manga
+>   sin bocadillo; la caja de texto del juego de PSP (la burbuja blanca que
+>   no hay que copiar) (§7, §13).
+> - Opening, ending, tráiler y tres escenas mirados con minuto (§2, §12);
+>   compositor Tom-H@ck y ventas de Oricon con segunda fuente (§11).
+> - Puntos nuevos del encargo: estilo y técnica (§A), texturas 2D (§B),
+>   gustos (§C), por qué la aman (§D), fan dubs (§E), colaboraciones (§F),
+>   obras parecidas (§G) y el mundo (§H). Tabla «Cumplimiento del encargo».
+> - Anime Grand Prix 2009: mejor serie, Yui mejor personaje (§9).
+>
+> **Los ⚠️**: había **94**. Quedan los que se dicen en cada sección y en la
+> tabla de cumplimiento (el recuento final, al pie de la tabla).
 
 ---
 
@@ -81,10 +127,14 @@ Yui lo dice en su presentación: «毎日 楽しくお茶してます» (*todos 
 tomamos té, y lo pasamos bien*), temporada 2, episodio 1, **min 04:55** ✅
 (subtítulo). Y Mio, la seria, lo resume al revés:
 «軽音部は喫茶店じゃないぞ» (*¡el club de música no es una cafetería!*),
-temporada 1, episodio 2, **min 05:32** ✅ (subtítulo). ⚠️ El subtítulo no
-dice quién habla: por el contexto es Mio (acaba de preguntarle a Yui por
-la guitarra); hay que confirmarlo mirando la escena. Esa pareja de frases
-es exactamente el canal: aquí se charla; lo del oficio, en su sitio.
+temporada 1, episodio 2, **min 05:32** ✅ (subtítulo). ⚠️ **Quién la dice
+sigue sin confirmar**: en la primera pasada se supuso Mio por contexto;
+en la segunda se miró el fotograma de ese minuto y **quien tiene la boca
+abierta es Ritsu**, con Mio sentada al fondo, seria, escuchando (visto,
+§2.2). Hay que oír el segundo exacto antes de ponerla en boca de nadie.
+Si va en la lámina, mejor sin dueño o dicha por Mio como guiño («lo diría
+ella»). Esa pareja de frases es exactamente el canal: aquí se charla; lo
+del oficio, en su sitio.
 
 Además, en el último festival (T2, ep. 20) Yui presenta a cada una y **manda
 al público a otro sitio**: «澪ちゃんには ファンクラブもあるんです 入りたい人は
@@ -106,7 +156,8 @@ dice). Es la función de #general dicha por la serie.
   Yoshida**, diseño de personajes y jefa de animación **Yukiko Horiguchi**
   ✅ ([ficha oficial de KyoAni](https://www.kyotoanimation.co.jp/works/k-on/),
   [entrevistas traducidas](https://ultimatemegax.wordpress.com/2016/01/07/k-on-staff-interviews-pt-1-director-naoko-yamada-series-composer-reiko-yoshida-dialogue/)).
-  T1 en TBS desde el 3 de abril de 2009 ⚠️ ([TheTVDB](https://thetvdb.com/series/k-on/episodes/1083291)),
+  T1 en TBS desde el 3 de abril de 2009 ✅ ([TheTVDB](https://thetvdb.com/series/k-on/episodes/1083291)
+  y la ficha del ep. 1 en la [K-ON! Wiki](https://k-on.fandom.com/wiki/K-ON!_(Anime))),
   T2 «K-On!!» en 2010 y película en 2011 (viaje a Londres) ✅
   ([K-ON! Wiki](https://k-on.fandom.com/wiki/K-ON!_Movie), [IMDb](https://www.imdb.com/title/tt1909796/)).
 - **El sitio:** el club de música ligera del instituto Sakuragaoka. Su
@@ -122,14 +173,23 @@ dice). Es la función de #general dicha por la serie.
   [Moegirl](https://zh.moegirl.org.cn/%E7%A7%8B%E5%B1%B1%E6%BE%AA)), y fue
   n.º 1 de Newtype en 2009-2010 ✅ ([LH Yeung](https://blog.lhyeung.net/2009/08/11/top-10-anime-characters-in-septembers-newtype/),
   [NamuWiki](https://en.namu.wiki/w/%EC%95%84%ED%82%A4%EC%95%BC%EB%A7%88%20%EB%AF%B8%EC%98%A4)).
-  **Ojo:** en votaciones japonesas más recientes gana **Azusa** (sección 9).
-- **Doblaje latino oficial: no existe** ✅. Hubo un doblaje chileno no
-  autorizado (Elocuencia Studio) que se filtró y se borró (sección 10).
-  Las frases de la lámina, por tanto, son **traducción nuestra del japonés**.
+  **Ojo:** en votaciones japonesas más recientes gana **Azusa** (sección 9),
+  y en AniList **Yui** va 1.ª por un pelo (6262 favoritos contra 6161 de
+  Mio). Yui ganó además el **Anime Grand Prix 2009** a mejor personaje ✅.
+- **Doblaje latino oficial: no existe** ✅. Hubo un **piloto chileno no
+  oficial** (Elocuencia Studio, 2020): el episodio 1 completo **sigue en
+  Internet Archive** y de ahí salen 13 frases textuales con minuto
+  (sección 10). Para la lámina: traducción nuestra del japonés, o una
+  frase del piloto rotulada como «el doblaje perdido».
 - **Cuadro de diálogo propio:** el anime casi no pone texto en pantalla.
   Lo que sí es de la serie son **los papeles del club** escritos a mano
   (el cuaderno de letras de Mio, la pizarra, los carteles para captar
-  socios) y **la tira 4-koma** del manga (sección 7).
+  socios) y **la tira 4-koma** del manga (sección 7). El cartel de
+  reclutamiento del ep. 1 se ha **visto**: rotulador rojo y verde, una
+  guitarra dibujada y notas ♪. La caja de texto del juego de PSP es la
+  burbuja blanca con pico: **eso no** (§7, §13).
+- **El estilo:** línea fina marrón cálida, nunca negra; sombra suave,
+  degradada; luz de ventana de tarde (§A).
 
 ---
 
@@ -153,7 +213,7 @@ el episodio 13 es «Invierno» y el 14 es «¡Live House!» (los especiales).
 | # | Escena | Ep. y minuto | Frase literal | Qué dice (traducción) | Sirve para |
 |---|---|---|---|---|---|
 | 1 | Yui presenta al club, en off | T2 ep. 1, **04:13-04:55** | 〈毎日 楽しくお茶してます〉 | «Todos los días tomamos té y lo pasamos bien.» | Presentar la plaza |
-| 2 | Mio (⚠️ por contexto) corta a Yui | T1 ep. 2, **05:32** | 軽音部は喫茶店じゃないぞ | «¡El club no es una cafetería!» | Redirigir, con humor |
+| 2 | ⚠️ ¿Ritsu o Mio? En el fotograma habla Ritsu (visto, §2.2) | T1 ep. 2, **05:32** | 軽音部は喫茶店じゃないぞ | «¡El club no es una cafetería!» | Redirigir, con humor |
 | 3 | Sawako regaña… y acepta pastel | T1 ep. 5, **14:19-14:37** | ここは お茶を飲む場所じゃないのよ / ケ…ケーキ いかがですか？ / いただきます | «¡Esto no es sitio para tomar té!» «¿Pastel?» «Gracias.» | El chiste de la charla que siempre gana |
 | 4 | Yui presenta a cada una y manda al público a Nodoka | T2 ep. 20, **11:45-14:22** | 入りたい人は そこにいる 和ちゃんに言ってください | «Si quieres entrar, díselo a Nodoka, que está ahí.» | La función exacta de #general |
 | 5 | «Vengan cuando quieran» | T2 ep. 20, **13:17-13:31** | いつでも部室にお越しください 大歓迎ですから | «Vengan al club cuando quieran, son muy bienvenidos.» | Bienvenida |
@@ -164,11 +224,11 @@ el episodio 13 es «Invierno» y el 14 es «¡Live House!» (los especiales).
 |---|---|---|
 | Yui se despierta tarde y corre | T1 ep. 1, 00:42-00:58 | はッ ８時！ / ちこく～ッ |
 | Primer té: «¡Mugi, prepara el té!» | T1 ep. 1, 14:38-15:09 | ようこそ 軽音部へ / よ～し ムギ お茶の準備だ / おいし～い |
-| Yui se apunta al club | T1 ep. 1, 20:13 | 私 この部に入部します！ |
+| Yui se apunta al club, y la fiesta (visto, §2.2) | T1 ep. 1, 20:13 (frase); 19:55-20:46 (fiesta, visto) | 私 この部に入部します！ / pizarra 「新入部員獲得!!」 |
 | Mio con miedo: «no veo, no oigo» | T1 ep. 5, 02:30 | 見えない 聞こえない |
 | El cuaderno de letras de Mio | T1 ep. 5, 15:14-16:22 | できた？！ / かッ かゆい (*¡qué cursi, me pica!*) |
 | Sawako trae trajes | T1 ep. 6, 08:00 | 衣装 作ってきましたーッ！ |
-| Nace «Azu-nyan» | T1 ep. 9, 10:59-11:09 | ニャーって言ってみて / あだ名は あずにゃんで決定だね |
+| Nace «Azu-nyan» (visto, §2.2) | T1 ep. 9, 10:57-11:15 | ニャーって言ってみて / あだ名は あずにゃんで決定だね |
 | Azusa: «¿y el ensayo?» | T1 ep. 9, 17:47 | 練習はッ？ |
 | «Este salón es nuestro Budokan» | T1 ep. 12, 18:45-19:11 | ここが 今いるこの講堂が 私達の武道館です |
 | «¡Amo el club de música!» | T1 ep. 12, 21:57 | けいおん大好きーッ！ |
@@ -183,8 +243,142 @@ el episodio 13 es «Invierno» y el 14 es «¡Live House!» (los especiales).
 > de fans, díselo a Nodoka»; «vengan al club, allí está Ton»). Es #general
 > hecho escena: la plaza que presenta y redirige.
 
+### 2.1 · Opening, ending y tráiler, mirados de verdad (segunda pasada)
+
+YouTube pidió iniciar sesión. Se miró la copia de **Internet Archive**
+([`k-on-s1-2`](https://archive.org/details/k-on-s1-2), un MP4 por episodio,
+640×360, reedición de Sentai de 2015) recortando sólo el tramo con
+`ffmpeg`, y el **tráiler en Dailymotion**. Todo con `fotogramas.py` y las
+hojas abiertas una a una. Son **SD**: valen para pose, minuto y color, no
+para calcar en 1080p.
+
+**Opening «Cagayake! GIRLS»** ✅ (visto; letra de Shoko Ohmori en los
+créditos del propio ep. 1). En el ep. 1 va de **2:10 a 3:40** aprox. ⚠️
+(corte a ojo).
+- 2:19: logo 「けいおん!」 sobre **lunares rosas**.
+- Cada chica con su instrumento, con garabatos de purpurina alrededor.
+- 3:10: **las cuatro en bicicleta** por un camino entre arrozales.
+- 3:31-3:49: **cerezos en flor**; Yui sola debajo y luego el grupo.
+- Después ya es el episodio: la placa del aula 「1-3」 (3:55) y Yui con un
+  dulce en la boca junto a Nodoka.
+
+**Ending «Don't Say "Lazy"»** ✅ (visto). En el ep. 1, **21:55-23:35**.
+- Un **alter ego gótico**: vestido negro, sombrero de copa o diadema,
+  medias de rayas.
+- Cada una con **su rótulo de neón**: «DRUMS RITSU», «GUITAR YUI»,
+  «KEYBOARD TSUMUGI», «BASS MIO» (22:13-22:49).
+- Luego una pompa de jabón en la ventana y Mio flotando en un fondo verde
+  brillante, como de noche de neón (22:52-23:37).
+- 23:43, avance del próximo episodio 「次回予告」; 24:10-26:12, créditos.
+
+**Tráiler de *K-On! The Movie* (2011)** ✅ (visto entero, 1:28;
+[Dailymotion](https://www.dailymotion.com/video/x8hzysi), 480×280). Es
+oficial: sale el **logo de Shochiku** (0:02), «Directed by Naoko Yamada»,
+«A Kyoto Animation film» (1:00-1:08) y la fecha 「12月3日(土) 全国ロードショー」
+con el logo de TBS.
+- **0:16: las cinco tazas de té vistas desde arriba, en círculo**
+  ([`?start=16`](https://www.dailymotion.com/video/x8hzysi?start=16)). La
+  imagen más «tea time» del tráiler: sirve tal cual para #general.
+- 0:18-0:22: cartel 「祝★卒業!!」 y el logo 「映画けいおん!」.
+- 0:34: cartela 「放課後ティータイムロンドンへ!!」
+  ([`?start=34`](https://www.dailymotion.com/video/x8hzysi?start=34)).
+- 0:36-0:42: Big Ben, «London rocks!» y 「海外デビュー!？」.
+- 1:00: la estación de metro **Camden Town**.
+- 1:04-1:10: taza con pastelitos en primer plano, cartela 「一生の宝物」.
+- 1:12-1:22: **「HO-KAGO TEA TIME!」** en letras de luces; la banda toca.
+
+### 2.2 · Tres escenas, vistas gesto a gesto (segunda pasada)
+
+**1. La fiesta cuando Yui entra al club** (T1 ep. 1, **19:55-20:46**,
+visto; [episodio](https://archive.org/download/k-on-s1-2/K-On%20S1%20E01.mp4)).
+- 19:55: Yui, de pie junto a la puerta, oye tocar a las otras tres.
+- 19:58-20:04: en la pizarra blanca escriben **「新入部員獲得!!」**
+  (*¡nuevo miembro conseguido!*).
+- 20:19: Ritsu tira en broma del pelo de Mio y de Mugi a la vez.
+- **20:34-20:43: foto de grupo con ✌️**, dos disparos seguidos.
+- **20:46: Mugi con las manos juntas**, ojos entornados, emocionada.
+- Sirve para **celebrar en grupo**, más que para «presentar».
+
+**2. La merienda que parece cafetería** (T1 ep. 2, **05:00-06:30**,
+fotograma exacto en **5:32**, visto;
+[episodio](https://archive.org/download/k-on-s1-2/K-On%20S1%20E02.mp4)).
+- La mesa está **cubierta de platos de pastel**, con tetera blanca y
+  cuatro tazas; al fondo, un amplificador y una funda de guitarra de pie,
+  y un piano vertical a la izquierda. La «cafetería» es literal.
+- **Las cuatro están sentadas.** Quien habla en 5:32 es **Ritsu** (a la
+  derecha, de medio lado); **Mio** está al fondo a la izquierda, codo en
+  la mesa, cara seria, escuchando.
+- ⚠️ Por eso la frase 「軽音部は喫茶店じゃないぞ」 queda sin dueño seguro:
+  falta oír el segundo exacto (la pose «Mio de pie, brazos cruzados» de la
+  primera pasada no sale en ese minuto).
+
+**3. Nace «Azu-nyan»** (T1 ep. 9, **10:57-11:15**, visto;
+[episodio](https://archive.org/download/k-on-s1-2/K-On%20S1%20E09.mp4)).
+- 10:57: **Yui abraza a Azusa por detrás, mejilla con mejilla**; Azusa
+  lleva la diadema de orejas de gato.
+- 11:06: fondo de burbujas y brillo alrededor de Azusa (vergüenza y
+  ternura).
+- 11:09-11:15: Azusa dice «nya» a regañadientes, con **gota de sudor** y
+  las orejas «caídas».
+- 11:21: separador de mitad de episodio: **una cinta de casete rosa** con
+  el logo 「けいおん!」, estética de pegatina. Buena textura para #general.
+
 ---
 ## 3 · Arte oficial y referencias visuales
+
+### 3.0 · Las hojas de contacto (segunda pasada) ✅
+
+`investigar_serie.py` bajó **958 imágenes** de las galerías de Yui, Mio,
+Ritsu, Mugi, Azusa y Sawako en la [K-ON! Wiki](https://k-on.fandom.com/)
+y las montó en 20 hojas numeradas. Quedan tres en `hojas/`, **miradas**.
+Cada número enlaza su ficha en la wiki (ahí está el original a tamaño
+completo).
+
+**`hojas/personajes_01.jpg`** (hoja 1, n.º 1-48): arte oficial de grupo,
+casi todo por encima de 4000 px.
+- **#24** [The new LMC](https://k-on.fandom.com/wiki/File:The_new_LMC.jpg) (5938×4078): **las cinco
+  alrededor de la mesa del club con té y dulces**. La mejor referencia de
+  grupo para #general.
+- **#1** [AfterschoolTeaTime(129)](https://k-on.fandom.com/wiki/File:AfterschoolTeaTime(129).jpg)
+  (6069×9053): el grupo entre pasteles y tazas, vertical.
+- **#16** [Girls with glasses](https://k-on.fandom.com/wiki/File:Girls_with_glasses.jpg) (6012×4103):
+  las cinco con gafas sobre la bandera británica.
+- **#15** [graduación](https://k-on.fandom.com/wiki/File:Mio,_Mugi,_Ritsu_and_Yui_graduating.jpg)
+  (4400×5640) y **#3** [Navidad](https://k-on.fandom.com/wiki/File:HTT_during_christmas.jpg) (7009×4990).
+- **#34-37** portadas de *Character Image Songs* (4000×4000): primer plano
+  de Azusa, Mio, Ritsu y Yui, con la mano cerca de la cara.
+- **#41** [Tsumugi](https://k-on.fandom.com/wiki/File:Tsumugi.jpg) (3265×4064): Mugi con las manos
+  juntas, la pose de «qué ilusión».
+
+**`hojas/objetos_01.jpg`** (hoja 2, n.º 49-96): cada una **con su
+instrumento**, y el grupo en otros trajes.
+- **#71-74 y #76**, de pie, fondo blanco, como hoja de modelo:
+  [Azusa con su guitarra](https://k-on.fandom.com/wiki/File:Azusa_with_her_guitar.png) (2452×3834),
+  [Ritsu con sus baquetas](https://k-on.fandom.com/wiki/File:Ritsu_with_her_drumsticks.png) (2451×3834),
+  [Mugi con su teclado](https://k-on.fandom.com/wiki/File:Mugi_with_her_keyboard.png) (2451×3829),
+  [Mio con su bajo](https://k-on.fandom.com/wiki/File:Mio_with_her_bass_2.png) (2448×3832) y
+  [Yui con su guitarra](https://k-on.fandom.com/wiki/File:Yui_with_her_guitar.png) (2448×3829). De aquí
+  salen los hex medidos del §16.
+- **#60** [HTT posing](https://k-on.fandom.com/wiki/File:HTT_posing.jpg) (3833×2521): las cinco en
+  uniforme de invierno, de pie en la calle.
+- **#56** [HTT group image 3](https://k-on.fandom.com/wiki/File:HTT_group_image_3.png) (3827×2599): el
+  grupo en la sala del club, con la pizarra detrás.
+- **#82** [HTT group image 2](https://k-on.fandom.com/wiki/File:HTT_group_image_2.png) (3346×2695): con
+  todos los instrumentos, sobre verde.
+- **#64** trajes de maid (T2), **#87** camisetas con kanji 「桜高軽音部」,
+  **#81** Mio de *Death Devil*, **#94-95** Mio y Ritsu con el traje del
+  ending «Don't Say Lazy».
+
+**`hojas/vestuario_texturas_01.jpg`** (hoja 20, n.º 913-958): manga, ropa
+fuera del anime y fotogramas.
+- **#937-939** [páginas reales del manga, cap. 2](https://k-on.fandom.com/wiki/File:Ch_2_-_Pg_2.png)
+  (728×1040): línea fina, casi sin trama (§B).
+- **#921-922** trajes de escenario de Mio y Ritsu (856×980 y 760×1080).
+- **#925-926** tarjetas de Hobunsha: **yukata** y **temporada de lluvias**,
+  con paraguas.
+- **#935** ilustración del manga a color: el grupo en la mesa con té.
+- **#920** ficha de personaje de Sawako; **#943** Ritsu en portada de DVD;
+  **#956-957** portadas alternativas de *College* y *High School*.
 
 ### 3.1 Fichas oficiales de Kyoto Animation (key visuals)
 
@@ -192,9 +386,17 @@ el episodio 13 es «Invierno» y el 14 es «¡Live House!» (los especiales).
   [けいおん！！ (T2)](https://www.kyotoanimation.co.jp/works/k-on02/) y
   [映画けいおん！](https://www.kyotoanimation.co.jp/works/k-onMovie/): la
   web del estudio. Ahí está la imagen principal de cada una y la lista de
-  staff. Según el resumen de búsqueda, el **color** es de **Akiyo Takeda**
-  (竹田明代) y el **fondo** de **Seiki Tamura** (田村せいき) ⚠️ (no pude
-  abrir la página para confirmarlo).
+  staff. El **diseño de color** es de **Akiyo Takeda** (竹田明代) y la
+  **dirección de arte** de **Seiki Tamura** (田村せいき) en las tres
+  producciones ✅ (web de KyoAni y [Wikipedia en japonés](https://ja.wikipedia.org/wiki/けいおん!),
+  sección スタッフ).
+- **Portada y banner de AniList** ✅:
+  [portada](https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5680-r3AI3Cwfv0Aq.png),
+  [banner](https://s4.anilist.co/file/anilistcdn/media/anime/banner/5680-Mc9n4eFI4i0Y.jpg).
+- **Fondos de pantalla oficiales de Kyoto Animation** ✅ (Zerochan los
+  etiqueta «Official Art» y el archivo circula en servidores de Amazon):
+  [1920×1080](https://www.zerochan.net/4395127) y
+  [2000×3000 para móvil](https://www.zerochan.net/4375977).
 
 ### 3.2 Arte nuevo de Horiguchi (15.º aniversario, 2024)
 
@@ -222,14 +424,14 @@ el episodio 13 es «Invierno» y el 14 es «¡Live House!» (los especiales).
   el tomo 7 de la T2 ✅ ([Animaru](https://animaru.jp/anmr/product/P0078060)).
 - Lista de productos oficiales en la wiki japonesa de fans ✅
   ([atwiki keionbu](https://w.atwiki.jp/keionbu/pages/17.html)).
-- ⚠️ No pude ver las portadas una por una (sin red de imágenes). De memoria,
-  cada tomo del Blu-ray lleva a una o dos chicas con su instrumento; hay
-  que mirarlas antes de usarlas.
+- ⚠️ Las portadas de cada tomo del Blu-ray siguen sin verse una por una
+  (sólo la de Ritsu en DVD, hoja 20 #943). De memoria, cada tomo lleva a
+  una o dos chicas con su instrumento: mirarlas antes de usarlas.
 
-### 3.4 Galerías de la wiki (para cuando haya red)
+### 3.4 Galerías de la wiki (ya bajadas: §3.0)
 
-Cada una tiene fotogramas y arte oficial por personaje. Son las páginas que
-`investigar_serie.py` debería bajar cuando se pueda:
+Cada una tiene fotogramas y arte oficial por personaje. En la segunda
+pasada se bajaron las seis (958 imágenes):
 [Yui](https://k-on.fandom.com/wiki/Yui_Hirasawa's_Gallery),
 [Mio](https://k-on.fandom.com/wiki/Mio_Akiyama's_Gallery),
 [Ritsu](https://k-on.fandom.com/wiki/Ritsu_Tainaka's_Gallery),
@@ -237,42 +439,55 @@ Cada una tiene fotogramas y arte oficial por personaje. Son las páginas que
 [Azusa](https://k-on.fandom.com/wiki/Azusa_Nakano's_Gallery),
 [Azu-nyan con orejas](https://k-on.fandom.com/wiki/Category:Azu-nyan_2_Images).
 
-Comando sugerido (cuando la red lo permita):
+Comando usado:
 
 ```
 python herramientas/investigar_serie.py --serie "K-On!" --wiki k-on --paginas "Mio Akiyama" "Yui Hirasawa" "Azusa Nakano" "Tsumugi Kotobuki" "Ritsu Tainaka" "Sawako Yamanaka" "Tea time" "Sakuragaoka High School Light Music Club"
 ```
 
-### 3.5 Lo que falta ⚠️
+### 3.5 Lo que falta
 
-- Ninguna imagen se abrió ni se midió. No hay tamaños (`ancho`/`alto` van a
-  `null` en `referencias.json`).
-- No encontré artbook con nombre y ficha verificables en esta sesión.
+- ~~Ninguna imagen se abrió ni se midió~~ → resuelto: 958 imágenes con su
+  tamaño real; las que se citan van medidas en `referencias.json`.
+- ⚠️ No encontré artbook con nombre y ficha verificables (tampoco en la
+  segunda pasada: nadie lo buscó con la red abierta).
 
 ---
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
-### 4.1 Modelos 3D en Sketchfab
+### 4.1 Modelos 3D en Sketchfab (licencia leída en su API) ✅
 
-| Modelo | Autor | Para qué | Licencia |
+Segunda pasada: la licencia de cada modelo se leyó en la API de Sketchfab
+(`/v3/models/<uid>`, campo `license`), no sólo en la página.
+
+| Modelo | Autor | Licencia (API) | Para qué |
 |---|---|---|---|
-| [K-ON! Clubroom](https://sketchfab.com/3d-models/k-on-clubroom-b08830de23c94c8fbfb1218d79c63fd1) | sodiepoppy | **La sala del club en 3D**: ver dónde van la mesa, la pizarra y las ventanas | ⚠️ sin ver; fan art de una obra con derechos: sólo para mirar la distribución |
-| [Azusa Nakano (K-On!)](https://sketchfab.com/3d-models/azusa-nakano-k-on-f09132fa11d64b8cba8f3bf9036a02c0) | Euan_Chew | Pose y proporciones de Azusa (hecho en Blender, con esqueleto) | ⚠️ sin ver; sólo referencia |
-| [Etiqueta k-on](https://sketchfab.com/tags/k-on) | varios | Buscar más | — |
+| [K-ON! Clubroom](https://sketchfab.com/3d-models/k-on-clubroom-b08830de23c94c8fbfb1218d79c63fd1) | sodiepoppy | Estándar, no descargable ✅ | **La sala del club en 3D**: sólo mirar dónde van la mesa, la pizarra y las ventanas |
+| [Azusa Nakano (K-On!)](https://sketchfab.com/3d-models/azusa-nakano-k-on-f09132fa11d64b8cba8f3bf9036a02c0) | Euan_Chew | Estándar, no descargable ✅ | Pose y proporciones de Azusa (con esqueleto): sólo mirar |
+| [Yui Hirasawa](https://sketchfab.com/3d-models/yui-hirasawa-501de09aedc34f1598e3a536e16313df) | dwtornier | **CC BY-NC-SA** ✅ | Yui completa y con *rig*. **No comercial**: referencia de pose y proporción, no render final |
+| [«Giita!!!»](https://sketchfab.com/3d-models/giita-87d99d809938482bb95d0f293550f778) | elbert.nathanaeltkg | **CC BY** ✅ | **La Les Paul de Yui** con su apodo. Vale para la lámina, con crédito |
+| [Gibson Les Paul](https://sketchfab.com/3d-models/none-0d42458492a1469a80aeaee52ad78c30) | Ismaele.Giraldo | CC BY ✅ | Otra Les Paul, genérica |
+| [Drum Kit](https://sketchfab.com/3d-models/none-898f2f4ba1704abe9c784066e2b0f751) | art.katja | CC BY ✅ | La batería de Ritsu |
+| [Fender Jazz Sunburst Bass](https://sketchfab.com/3d-models/none-e1c6d381a61040139ac64adee6b6bf93) | boogie4631 | CC BY ✅ | Se parece a **Elizabeth**, el Jazz Bass de Mio (ojo: el de Mio es zurdo) |
+| [Etiqueta k-on](https://sketchfab.com/tags/k-on) | varios | — | Buscar más |
 
-### 4.2 Objetos libres para la mesa del té (Blender)
+También hay, con CC BY según la parte de texto, un peluche de Yui (huwie)
+y otra guitarra «Hirasawa Yui Guitar» (kaif.3d) ⚠️ (sin enlace en las
+partes).
 
-| Modelo | Autor | Licencia |
-|---|---|---|
-| [Cute tea pot set (.blend)](https://sketchfab.com/3d-models/cute-tea-pot-set-blend-d6977572a8214af9b3c16fe5750016a2) | iamartzz | CC BY según el resumen de búsqueda ⚠️ (confirmar en la página) |
-| [Tea set](https://sketchfab.com/3d-models/tea-set-194d8940512b40c591ee4dccaeabcb68) | Asia Matusik (@asiam) | Creative Commons, se descarga gratis ⚠️ (el buscador habla de CC BY-SA para uno de los «Tea set») |
-| [Tea set](https://sketchfab.com/3d-models/tea-set-3e6331747fb84794a35ed869e4f65714) | 3dhdscan | descarga gratis ⚠️ licencia sin ver |
-| [Tea Pot and Cups](https://sketchfab.com/3d-models/tea-pot-and-cups-723c265903424b9d8e87cda4d4d63059) | Pouya.majidi | descarga gratis ⚠️ licencia sin ver |
-| [Slice of cake](https://sketchfab.com/3d-models/slice-of-cake-1adc97c8421c4f6da647c77362796327) | mrcgdi (@marcogodi1) | descarga gratis ⚠️ licencia sin ver |
+### 4.2 Objetos libres para la mesa del té (Blender) ✅
 
-Crédito si es CC BY: «“Nombre” de Autor (Sketchfab), CC BY 4.0». Si una
-dice «NC» o «ND», no se usa.
+| Modelo | Autor | Licencia (API) | Se descarga |
+|---|---|---|---|
+| [Cute tea pot set (.blend)](https://sketchfab.com/3d-models/cute-tea-pot-set-blend-d6977572a8214af9b3c16fe5750016a2) | iamartzz | **CC BY** ✅ | Sí |
+| [Tea set](https://sketchfab.com/3d-models/tea-set-194d8940512b40c591ee4dccaeabcb68) | asiam | **CC BY-SA** ✅ | Sí |
+| [Tea set](https://sketchfab.com/3d-models/tea-set-3e6331747fb84794a35ed869e4f65714) | 3dhdscan | **CC BY** ✅ | Sí |
+| [Tea Pot and Cups](https://sketchfab.com/3d-models/tea-pot-and-cups-723c265903424b9d8e87cda4d4d63059) | Pouya.majidi | **CC BY** ✅ | Sí |
+| [Slice of cake](https://sketchfab.com/3d-models/slice-of-cake-1adc97c8421c4f6da647c77362796327) | marcogodi1 | **CC BY** ✅ | Sí |
+
+Crédito siempre: «"Nombre" de Autor (Sketchfab), CC BY 4.0» (o CC BY-SA
+4.0). Lo que diga «NC» o «ND» no va en el render final.
 
 ### 4.3 Fan art 2D (mirar, nunca pegar)
 
@@ -286,6 +501,7 @@ dice «NC» o «ND», no se usa.
   de Yxero.
 - [Mio y Ho-kago Tea Time en pixiv](https://www.pixiv.net/en/artworks/82675277)
   (autor sin ver).
+- Fondos de pantalla de fans con autor y tamaño: §17.
 - Hay muchas escenas en **MMD** (MikuMikuDance) en DeviantArt, p. ej.
   [MikeLaruku](https://www.deviantart.com/mikelaruku/art/MMD-K-ON-Houkago-Tea-Time-328626414)
   y [Shin001](https://www.deviantart.com/shin001/art/MMD-Houkago-Tea-Time-337857231):
@@ -313,8 +529,12 @@ dice «NC» o «ND», no se usa.
   vive allí en su pecera ✅ ([K-ON! Wiki](https://k-on.fandom.com/wiki/Ton);
   subtítulo T2 ep. 20, 13:28).
 - **Luz:** la hora es siempre **después de clase**, la tarde. Luz cálida y
-  baja entrando por ventanas altas de madera ⚠️ (descripción mía de las
-  fotos de peregrinación, no medida).
+  baja entrando por ventanas altas de madera ✅ (fotos de peregrinación y
+  **medida** en el fotograma de T1 ep. 1, 20:34: ver §5.4). El color real
+  es **más apagado** de lo que se estimaba: marrón grisáceo, no naranja.
+- **La mesa, vista** (T1 ep. 2, 5:32): pupitres juntos con mantel, platos
+  de pastel apilados, tetera blanca, cuatro tazas; amplificador y funda de
+  guitarra al fondo; piano vertical a la izquierda (§2.2).
 
 ### 5.2 La escalera de la liebre y la tortuga (concepto C)
 
@@ -338,7 +558,26 @@ dice «NC» o «ND», no se usa.
   Fuwa Fuwa Time, en rosa» (「ふわふわ時間」のサビはピンクで), T1 ep. 14,
   **12:16** ✅ (subtítulo). Luz de escenario rosa para la canción de Mio.
 
-### 5.4 Paleta ⚠️ (aproximada, sin medir)
+### 5.4 Paleta
+
+#### Medida en fotogramas (segunda pasada) ✅
+
+Con `herramientas/estilo.py` (Pillow, color dominante por área) sobre
+fotogramas propios de la copia de Internet Archive. Una escena cada una:
+antes de dar un hex por «el» color de un sitio, conviene promediar dos o
+tres fotogramas más ⚠️.
+
+| Sitio y fotograma | Colores (porcentaje del área) |
+|---|---|
+| **Mesa de té del club**, T1 ep. 2, 5:32 | `#654436` madera media 35 % · `#372826` madera en sombra 23 % · `#8D6852` madera clara 15 % · `#39404F` azul apagado (uniforme, amplificador) 11 % · `#EADFC7` mantel y platos 9 % · `#B6A895` pared 7 % |
+| **Club con luz de tarde**, T1 ep. 1, 20:34 | `#483531` madera oscura 35 % · `#6D554F` madera media 20 % · `#B9AA9B` pared clara 20 % · `#E4D4BE` pared con luz de ventana 14 % · `#9C8976` madera clara 12 % |
+| **Cerezos del opening**, T1 ep. 1, 3:31 | `#E6D4DC` rosa pálido 28 % · `#F7EBF5` blanco rosado 27 % · `#4D4542` uniforme y contorno 24 % · `#CFABCA` rosa 14 % · `#9F8C94` gris malva 7 % |
+
+Para la lámina: madera `#654436` y sombra `#372826` en la mesa, mantel
+`#EADFC7`, luz de ventana `#E4D4BE`. La de los cerezos es la paleta de
+primavera, distinta a la del club.
+
+#### Estimada en la primera pasada ⚠️ (sólo como contraste)
 
 **Colores de cada una** (los usa el merchandising y los CD, según un blog
 de fans ⚠️ una fuente:
@@ -358,9 +597,10 @@ sin decir qué color es de quién): `#747374`, `#987B47`, `#876945`,
 Azusa; los marrones con Yui y Ritsu; el `#D3C29B` con el rubio de Mugi ⚠️
 (mi lectura).
 
-**La sala a media tarde** (estimado, para empezar a probar):
-madera `#B4855A`, pared crema `#EEE5D0`, luz de ventana `#FFE7B3`, sombra
-malva `#8B86A5`, mantel o servilleta blanca `#FAF7F0`.
+**La sala a media tarde** (estimado; **lo sustituye la tabla medida de
+arriba**): madera `#B4855A`, pared crema `#EEE5D0`, luz de ventana
+`#FFE7B3`, sombra malva `#8B86A5`, mantel `#FAF7F0`. Son más claros y
+saturados que lo medido: no usarlos.
 
 **Instrumentos** (el color del modelo real, hex estimado):
 - Gitah, Les Paul **Heritage Cherry Sunburst**: borde `#7E1A1A`, centro `#E0A03C`.
@@ -379,8 +619,9 @@ malva `#8B86A5`, mantel o servilleta blanca `#FAF7F0`.
   [Dark Wooden Planks](https://polyhaven.com/a/dark_wooden_planks).
 - Alternativa: [ambientCG Wood Floor 040](https://ambientcg.com/view?id=WoodFloor040).
 - Poly Haven y ambientCG son CC0 (dominio público): no piden crédito.
-- ⚠️ Pizarra, papel de cuaderno y corcho: no los busqué; buscarlos en el
-  mismo sitio.
+- Papel: [Paper001](https://ambientcg.com/view?id=Paper001) a Paper006
+  de ambientCG, CC0 ✅ (licencia leída en su API; más capas 2D en §B).
+- ⚠️ Pizarra y corcho: siguen sin buscar.
 
 ---
 
