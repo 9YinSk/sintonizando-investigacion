@@ -12,6 +12,13 @@ Desde las 02:45 lo lleva la central: sesión https://claude.ai/code/session_01RJ
   miedo, vergüenza y rabia del punto 13); luego su redactor.
 - 24 Assassination Classroom: 4 investigadores (Sonnet) en marcha desde las 02:45.
 - 25-30: datos recolectados; faltan sus equipos.
+
+**Si esta cuenta se corta (iba al 90 % del límite a las 02:43):** la siguiente cuenta del
+lote C sigue así: `herramientas/juntar.sh`, `echo C > .lote` y `siguiente.py 5 --lote C`.
+- 23: si `partes/voz.md` aún acaba en «## Sigue:», no la relances otra vez (ya lleva 2
+  tandas): lanza directamente su redactor en modo `repaso` y que marque ⚠️ lo que falte.
+- 24: sus 4 investigadores empezaron a las 02:42; relanza sólo los roles cuya parte
+  falte o acabe en «Sigue:» (desde donde quedó).
 - **19 Doraemon: COMPLETA y subida.** 2434 líneas, ✅27 ⚠️12 ❌0, 243 referencias,
   124 webs, 134 minutos citados, 79 hex, 3 hojas.
 - **20 Dr. Stone: COMPLETA y subida.** 2498 líneas, ✅27 ⚠️11 ❌0, 183 referencias,
