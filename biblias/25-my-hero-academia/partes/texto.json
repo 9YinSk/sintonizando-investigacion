@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/5/57/Shigaraki_%28Single-Minded%29.png/revision/latest?cb=20251117021719",
+    "fuente": "MHA Wiki (Fandom)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Retrato muy cerrado de Shigaraki con las manos cosidas de su familia envolviendo su cara, punto rojo brillante bajo la barbilla. Vista y confirmada por mí (convertida de WebP a JPEG para verla).",
+    "para_que": "Referencia visual del símbolo de las manos de la Liga de Villanos (punto 25): representa su don Decay y su transformación en villano.",
+    "licencia": "© Shueisha/Bones; sólo referencia, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/2/28/The_%22Ultra%22_Stage_-_A_Real_Hero_PLUS_ULTRA_ver._Logo.png/revision/latest?cb=20220819135307",
+    "fuente": "MHA Wiki (Fandom)",
+    "ancho": 767,
+    "alto": 421,
+    "que_es": "Logo oficial de la película \"The Ultra Stage\", con el lema PLUS ULTRA en letra 3D de cómic azul-rojo-blanco y el subtítulo japonés 本物の英雄. Vista y confirmada por mí.",
+    "para_que": "Referencia tipográfica para el lema PLUS ULTRA (punto 25) y ejemplo de letra de cómic 3D (punto 18/6).",
+    "licencia": "© Shueisha/Toho; sólo referencia, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/2/2e/League_of_Villains_%28Merry-Go-Round%29.png/revision/latest?cb=20251102002305",
+    "fuente": "MHA Wiki (Fandom)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Ilustración de grupo de la Liga de Villanos completa (Merry-Go-Round).",
+    "para_que": "Referencia de conjunto para el punto 25 (símbolos y grupo de villanos) y para vestuario/poses de los personajes secundarios villanos.",
+    "licencia": "© Shueisha/Bones; sólo referencia, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a7/U.A._Main_Building.png/revision/latest?cb=20250618031358",
+    "fuente": "MHA Wiki (Fandom)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Edificio principal de U.A. High School, la academia de héroes.",
+    "para_que": "Referencia de sitio y silueta para el punto 25 (el mundo) y de fondo para el punto 16 (ya cubierto por imagen, se deja aquí como candidata extra).",
+    "licencia": "© Shueisha/Bones; sólo referencia, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/7/75/Hosu_Nomu.png/revision/latest?cb=20260903022617",
+    "fuente": "MHA Wiki (Fandom)",
+    "ancho": 1920,
+    "alto": 2524,
+    "que_es": "Retrato de un Nomu (humano modificado, sin mente, con varios Quirks).",
+    "para_que": "Referencia visual del vocabulario propio del punto 25 (\"Nomu\").",
+    "licencia": "© Shueisha/Bones; sólo referencia, no para pegar"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/deku-rigged-893606cb00174b1dbf978d89da220e97",
+    "fuente": "Sketchfab (Jjustttt)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Deku, ya rigueado (etiquetado \"blender\", \"rigged\"), 102 132 caras.",
+    "para_que": "Punto 18: modelo y rig libre para posar a Deku en Blender, listo para animar sin partir de cero.",
+    "licencia": "CC Attribution (CC BY 4.0): crédito \"by Jjustttt\". Comprobado por la API de Sketchfab."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/all-might-0f9f56926b3d4597ae56bbcc8b92bb98",
+    "fuente": "Sketchfab (20062020year)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de All Might (versión musculosa), 25 460 caras. El mismo autor tiene además All_Might_Weak, All_Might_Small y All_Might_Small_Casual: la serie completa con estilo consistente.",
+    "para_que": "Punto 18: modelo libre para posar a All Might en Blender, con variantes de su versión débil y con ropa casual.",
+    "licencia": "CC Attribution (CC BY 4.0): crédito \"by 20062020year\". Comprobado por la API de Sketchfab."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/shoto-todoroki-my-hero-academia-425b6bce192c420bac15629703b41670",
+    "fuente": "Sketchfab (almardur09)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Shoto Todoroki, 51 895 caras.",
+    "para_que": "Punto 18: modelo libre para posar a Todoroki en Blender.",
+    "licencia": "CC Attribution (CC BY 4.0): crédito \"by almardur09\". Comprobado por la API de Sketchfab."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/arpant-bakugou-19a07665a8964133a805cdba181f9ef6",
+    "fuente": "Sketchfab (Phoen.nyx)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Katsuki Bakugo, 184 030 caras (pesado: conviene decimar antes de usar).",
+    "para_que": "Punto 18: modelo libre para posar a Bakugo en Blender.",
+    "licencia": "CC Attribution (CC BY 4.0): crédito \"by Phoen.nyx\". Comprobado por la API de Sketchfab."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/katsuki-bakugo-hero-cc8fcd2f64784f9292a279ef4a670ac9",
+    "fuente": "Sketchfab (20062020year)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D alternativo de Bakugo en traje de héroe, del mismo autor que la serie de All Might (estilo consistente si se combinan).",
+    "para_que": "Punto 18: modelo libre alternativo para Bakugo, combinable con los modelos de All Might del mismo autor.",
+    "licencia": "CC Attribution (CC BY 4.0): crédito \"by 20062020year\". Licencia comprobada por la API de Sketchfab; peso en caras no comprobado."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/uraraka-ochako-a-pose-d924d3e080194050b5ba04e1debfae87",
+    "fuente": "Sketchfab (padalab)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Ochaco Uraraka en pose A.",
+    "para_que": "Punto 18: referencia de modelo para Uraraka, pero OJO con la licencia (ver campo licencia): no usar la malla para nada comercial ni redistribuirla.",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike (CC BY-NC-SA): sólo como referencia de pose, no reutilizar la malla en algo público. Comprobado por la API de Sketchfab."
+  }
+]
