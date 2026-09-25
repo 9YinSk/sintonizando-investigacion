@@ -17,18 +17,44 @@ acaba, **todo lo necesario está aquí y en la rama**.
   COMPLETAS). `lotes/<L>.md` es orientativo; el disco manda.
 - Series hermanas (misma obra, dos encargos): `python3 herramientas/hermanas.py`.
 
-## 2. Qué corría al escribir esto (para no duplicar)
+## 2. Estado al entregar (25-09-2026 23:09 UTC) y qué toma la cuenta siguiente
 
-Sesión central (esta rama, guardado automático cada 5 min): flujos por lote con
-las series **D** 45, 46, 47 · **E** 63, 65, 66 · **F** 89, 90, 91 · **G** 104,
-108, 105 · **H** 124, 125, 126 · **B** 14-18 (repasos) · sólo redactor: 64, 86,
-100, 101, 121, 122 · roles que faltaban: 42, 43, 87, 102.
-Sesión aparte del **lote C** (misma rama): https://claude.ai/code/session_01Tyk6GzpvzkPnU36EVJt7eZ.
+**Nada corre ya desde la sesión central**: todos sus flujos se pararon a las
+23:10 UTC y todo quedó guardado y subido en la rama. La sesión aparte del
+**lote C** (https://claude.ai/code/session_01Tyk6GzpvzkPnU36EVJt7eZ) iba en la
+misma cuenta y puede haberse parado también: antes de tomar el C, mira si sus
+series (24-30) cambiaron en la última hora (`git log --oneline -5 -- biblias/24* biblias/25* biblias/27*`).
 
-Cómo saber si siguen vivas: `git log --oneline -10 origin/claude/amazing-johnson-mxlnjs`
-(el guardado dice qué series se tocaron y cuándo) y las fechas de
-`biblias/<id>/partes/*.md`. Si una serie no cambia en más de una hora, está
-libre.
+| Lote | Series | Completas | A medias | Sólo datos | Sin empezar | Avance |
+|---|---|---|---|---|---|---|
+| A | 10 | 10 | 0 | 0 | 0 | 100 % |
+| B | 13 | 9 | 4 | 0 | 0 | 69 % |
+| C | 12 | 12 | 0 | 0 | 0 | 100 % |
+| D | 20 | 6 | 2 | 4 | 8 | 30 % |
+| E | 20 | 6 | 1 | 4 | 9 | 30 % |
+| F | 20 | 10 | 2 | 7 | 1 | 50 % |
+| G | 20 | 3 | 4 | 3 | 10 | 15 % |
+| H | 15 | 4 | 3 | 4 | 4 | 26 % |
+| Todo | 130 | 60 | 16 | 22 | 32 | 46 % |
+
+Cerradas en la sesión central el 25-sep: 64 Steven Universe, 86 Saga of Tanya
+the Evil, 42 Blue Lock y 15 Bob Esponja. Con trabajo a medias guardado (se
+retoma solo con `siguiente.py`): 100, 101, 104, 124, 45, 63, 89, 43, 16 y las
+del lote C.
+
+**Qué toca en cada lote** (`siguiente.py 9 --lote L`, en orden; el modo dice
+qué lanza el flujo):
+- B: 14 (redactar) · 16 (repaso) · 17 (repaso) · 18 (repaso) · 4 (pendientes)
+- C: 0 (pendientes)
+- D: 43 (seguir) · 45 (redactar) · 44 (nueva) · 46 (nueva) · 47 (nueva) · 48 (nueva)
+- E: 63 (redactar) · 62 (nueva) · 65 (nueva) · 66 (nueva) · 67 (nueva) · 68 (nueva)
+- F: 87 (seguir) · 89 (redactar) · 88 (nueva) · 90 (nueva) · 91 (nueva) · 92 (nueva)
+- G: 102 (seguir) · 104 (redactar) · 100 (redactar) · 101 (redactar) · 103 (nueva) · 105 (nueva)
+- H: 121 (redactar) · 122 (redactar) · 124 (redactar) · 123 (nueva) · 125 (nueva) · 126 (nueva)
+
+**Mensaje para pegar en la sesión nueva** (cuenta Max, entorno con red abierta):
+
+> Lee CONTINUAR.md y sigue el punto 3. Trae la rama `claude/amazing-johnson-mxlnjs`, instala las herramientas, deja `herramientas/guardar.sh --cada 300` en segundo plano y lanza un flujo por lote con la herramienta Workflow, en este orden: `Workflow({name: "serie-en-equipo", args: {lote: "G", ids: ["102-el-estilo-ghibli-en-general", "104-steven-universe", "100-la-princesa-mononoke", "101-your-name-cielos-y-ciudades"], esfuerzo: {inv: "medium", red: "high", aux: "low"}}})`, y lo mismo para H con ["121-tomb-raider", "122-little-nightmares", "124-no-man-s-sky", "123-reanimal"], D con ["43-kaguya-sama-love-is-war", "45-mob-psycho-100", "44-your-lie-in-april-shigatsu", "46-sakamoto-days"], E con ["63-las-guerreras-k-pop-kpop-demon-hunters", "62-intensamente-inside-out", "65-the-legend-of-zelda", "66-persona-5"], F con ["87-tsukimichi-moonlit-fantasy", "89-frieren-paisajes-y-memoria", "88-konosuba", "90-kaguya-sama-love-is-war"] y B con ["14-adventure-time-hora-de-aventura", "16-neon-genesis-evangelion", "17-arcane", "18-death-note"]. El lote C sólo si sus series no cambiaron en la última hora: ["0"]. Cuando un flujo acabe sus series, relánzalo con las siguientes de `siguiente.py 9 --lote L`. No toques `main`; no pulses el botón de parar mientras corran agentes.
 
 ## 3. Seguir desde una sesión nueva en la nube (cuenta Max)
 
