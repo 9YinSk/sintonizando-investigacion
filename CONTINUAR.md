@@ -21,9 +21,8 @@ acaba, **todo lo necesario está aquí y en la rama**.
 
 **Nada corre ya desde la sesión central**: todos sus flujos se pararon a las
 23:10 UTC y todo quedó guardado y subido en la rama. La sesión aparte del
-**lote C** (https://claude.ai/code/session_01Tyk6GzpvzkPnU36EVJt7eZ) iba en la
-misma cuenta y puede haberse parado también: antes de tomar el C, mira si sus
-series (24-30) cambiaron en la última hora (`git log --oneline -5 -- biblias/24* biblias/25* biblias/27*`).
+**lote C** (https://claude.ai/code/session_01Tyk6GzpvzkPnU36EVJt7eZ) terminó su
+lote: las 12 biblias de 19-30 dan COMPLETA.
 
 | Lote | Series | Completas | A medias | Sólo datos | Sin empezar | Avance |
 |---|---|---|---|---|---|---|
@@ -45,7 +44,7 @@ del lote C.
 **Qué toca en cada lote** (`siguiente.py 9 --lote L`, en orden; el modo dice
 qué lanza el flujo):
 - B: 14 (redactar) · 16 (repaso) · 17 (repaso) · 18 (repaso) · 4 (pendientes)
-- C: 0 (pendientes)
+- C: terminado (12 de 12 COMPLETAS; lo cerró la sesión aparte)
 - D: 43 (seguir) · 45 (redactar) · 44 (nueva) · 46 (nueva) · 47 (nueva) · 48 (nueva)
 - E: 63 (redactar) · 62 (nueva) · 65 (nueva) · 66 (nueva) · 67 (nueva) · 68 (nueva)
 - F: 87 (seguir) · 89 (redactar) · 88 (nueva) · 90 (nueva) · 91 (nueva) · 92 (nueva)
@@ -54,7 +53,7 @@ qué lanza el flujo):
 
 **Mensaje para pegar en la sesión nueva** (cuenta Max, entorno con red abierta):
 
-> Lee CONTINUAR.md y sigue el punto 3. Trae la rama `claude/amazing-johnson-mxlnjs`, instala las herramientas, deja `herramientas/guardar.sh --cada 300` en segundo plano y lanza un flujo por lote con la herramienta Workflow, en este orden: `Workflow({name: "serie-en-equipo", args: {lote: "G", ids: ["102-el-estilo-ghibli-en-general", "104-steven-universe", "100-la-princesa-mononoke", "101-your-name-cielos-y-ciudades"], esfuerzo: {inv: "medium", red: "high", aux: "low"}}})`, y lo mismo para H con ["121-tomb-raider", "122-little-nightmares", "124-no-man-s-sky", "123-reanimal"], D con ["43-kaguya-sama-love-is-war", "45-mob-psycho-100", "44-your-lie-in-april-shigatsu", "46-sakamoto-days"], E con ["63-las-guerreras-k-pop-kpop-demon-hunters", "62-intensamente-inside-out", "65-the-legend-of-zelda", "66-persona-5"], F con ["87-tsukimichi-moonlit-fantasy", "89-frieren-paisajes-y-memoria", "88-konosuba", "90-kaguya-sama-love-is-war"] y B con ["14-adventure-time-hora-de-aventura", "16-neon-genesis-evangelion", "17-arcane", "18-death-note"]. El lote C sólo si sus series no cambiaron en la última hora: ["0"]. Cuando un flujo acabe sus series, relánzalo con las siguientes de `siguiente.py 9 --lote L`. No toques `main`; no pulses el botón de parar mientras corran agentes.
+> Lee CONTINUAR.md y sigue el punto 3. Trae la rama `claude/amazing-johnson-mxlnjs`, instala las herramientas, deja `herramientas/guardar.sh --cada 300` en segundo plano y lanza un flujo por lote con la herramienta Workflow, en este orden: `Workflow({name: "serie-en-equipo", args: {lote: "G", ids: ["102-el-estilo-ghibli-en-general", "104-steven-universe", "100-la-princesa-mononoke", "101-your-name-cielos-y-ciudades"], esfuerzo: {inv: "medium", red: "high", aux: "low"}}})`, y lo mismo para H con ["121-tomb-raider", "122-little-nightmares", "124-no-man-s-sky", "123-reanimal"], D con ["43-kaguya-sama-love-is-war", "45-mob-psycho-100", "44-your-lie-in-april-shigatsu", "46-sakamoto-days"], E con ["63-las-guerreras-k-pop-kpop-demon-hunters", "62-intensamente-inside-out", "65-the-legend-of-zelda", "66-persona-5"], F con ["87-tsukimichi-moonlit-fantasy", "89-frieren-paisajes-y-memoria", "88-konosuba", "90-kaguya-sama-love-is-war"] y B con ["14-adventure-time-hora-de-aventura", "16-neon-genesis-evangelion", "17-arcane", "18-death-note"]. El lote C ya está terminado: no lo toques. Cuando un flujo acabe sus series, relánzalo con las siguientes de `siguiente.py 9 --lote L`. No toques `main`; no pulses el botón de parar mientras corran agentes.
 
 ## 3. Seguir desde una sesión nueva en la nube (cuenta Max)
 
