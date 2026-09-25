@@ -1,6 +1,6 @@
 name: Lote con la Max
 run-name: "Lote ${{ inputs.lote || 'todos los activos' }} (${{ github.event_name == 'schedule' && 'cron' || 'lanzada' }})"
-# Un jefe de lote trabajando ~5 h 20 por vuelta en una máquina de GitHub, con
+# Un jefe de lote trabajando 5 h por vuelta en una máquina de GitHub, con
 # la suscripción Max del dueño: el secreto CLAUDE_CODE_OAUTH_TOKEN, que se crea
 # en la PC con «MAX EN GITHUB.cmd» (corre `claude setup-token`; vale un año).
 # Al terminar, cada lote lanza su vuelta siguiente si su letra sigue en
@@ -65,7 +65,7 @@ jobs:
       group: lote-${{ matrix.lote }}
       cancel-in-progress: false
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 355   # GitHub corta a las 6 h; el motor trabaja 5 h y guarda
     env:
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1"
@@ -103,11 +103,16 @@ jobs:
           if [ -f /tmp/lote-terminado ]; then
             # El lote acabó todas sus series: se quita solo de la lista para que
             # el cron no lo vuelva a lanzar (en una copia aparte de main).
-            git worktree add -q /tmp/main origin/main
-            sed -i "/^[[:space:]]*${L}[[:space:]]*$/Id" /tmp/main/.github/lotes-activos
+            rm -rf /tmp/main && git worktree add -q /tmp/main origin/main
+            f=/tmp/main/.github/lotes-activos
+            tr -cs 'A-Za-z' '\n' < "$f" | grep -vix "$L" | grep . > "$f.new" || true
+            mv "$f.new" "$f"
             git -C /tmp/main add .github/lotes-activos
-            git -C /tmp/main commit -q -m "Lote $L terminado: fuera de .github/lotes-activos" && git -C /tmp/main push -q origin HEAD:main || true
-            echo "El lote $L terminó todas sus series."
+            if git -C /tmp/main commit -q -m "Lote $L terminado: fuera de .github/lotes-activos" && git -C /tmp/main push -q origin HEAD:main; then
+              echo "El lote $L terminó todas sus series y salió de .github/lotes-activos."
+            else
+              echo "::warning::El lote $L terminó todas sus series, pero no pude quitar su letra de .github/lotes-activos en main: quítala a mano."
+            fi
             exit 0
           fi
           if [ ! -f /tmp/vuelta-ok ]; then

@@ -28,8 +28,8 @@ from revisar import revisar  # noqa: E402
 LOTES = {"A": [(2, 5), (31, 36)], "B": [(6, 18)], "C": [(19, 30)], "D": [(37, 56)], "E": [(57, 76)],
          "F": [(77, 96)], "G": [(97, 116)], "H": [(117, 131)]}
 ROLES = {"imagen", "video", "voz", "texto"}
-SIGUE = re.compile(r"^(?:#+\s*)?Sigue:\s*(.*)$", re.M)
-NADA = re.compile(r"^(nada|ningun|ninguna|no queda|no hay|sin pendientes|sin nada|listo|completo|—|-\s*$|$)", re.I)
+SIGUE = re.compile(r"^(?:#+\s*)?Sigue:[ \t]*(.*)$", re.M)
+NADA = re.compile(r"^(nada\b|ningun[oa]\b|no queda nada|no hay nada|sin (nada|pendientes)\b|[—-]?\s*$)", re.I)
 
 
 def num(i):
@@ -41,7 +41,13 @@ def pendiente(texto):
     «Sigue:» que pida algo de verdad («Sigue: nada obligatorio pendiente» no)."""
     if re.search(r"_\((pendiente|en curso)\)_", texto):
         return True
-    return any(not NADA.match(m.group(1).strip()) for m in SIGUE.finditer(texto))
+    for m in SIGUE.finditer(texto):
+        resto = m.group(1).strip()
+        if not resto:  # «## Sigue:» como título: lo que pide va en la línea siguiente
+            resto = next((l.strip() for l in texto[m.end():].split("\n") if l.strip()), "")
+        if not NADA.match(resto):
+            return True
+    return False
 
 
 def main():

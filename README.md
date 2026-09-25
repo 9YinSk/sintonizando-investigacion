@@ -42,7 +42,7 @@ y pégala en una sesión nueva; la sesión hace los cuatro a la vez con ayudante
 ## Los lotes en GitHub (con la suscripción Max)
 
 Los lotes de series (REPARTO.md: D, E, F, G y H) corren solos en máquinas de
-GitHub Actions, 5 horas y 20 minutos por vuelta, encadenando vueltas mientras su
+GitHub Actions, 5 horas por vuelta, encadenando vueltas mientras su
 letra esté en `.github/lotes-activos`. Cada lote trabaja en su rama
 `claude/lote-<letra>-local` y apunta su estado en `lotes/<letra>.md`.
 

@@ -18,8 +18,9 @@ def main():
     motivo = sys.argv[2] if len(sys.argv) > 2 else "vuelta completa"
     p = RAIZ / "lotes" / f"{L}.md"
     t = p.read_text(encoding="utf-8")
-    cola = subprocess.run([sys.executable, str(RAIZ / "herramientas" / "siguiente.py"), "6", "--lote", L],
-                          capture_output=True, text=True).stdout.strip()
+    r = subprocess.run([sys.executable, str(RAIZ / "herramientas" / "siguiente.py"), "6", "--lote", L],
+                       capture_output=True, text=True)
+    cola = r.stdout.strip() or ("siguiente.py falló: " + r.stderr.strip()[-600:])
     hora = datetime.datetime.now(datetime.timezone.utc).strftime("%d-%m-%Y %H:%M")
     bloque = (f"<!-- motor -->\n### Para quien siga (motor de GitHub, {hora} UTC, {motivo})\n\n"
               f"Estado real en disco al cerrar la vuelta, según `siguiente.py 6 --lote {L}` "

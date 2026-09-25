@@ -19,7 +19,9 @@ for r in $(git for-each-ref --format='%(refname:short)' refs/remotes/origin/clau
   if git merge -q --no-edit -m "Juntar: $r" "$r" >/dev/null 2>&1; then
     echo "juntada: $r"
   else
-    echo "::warning::juntar.sh: CHOQUE con $r en: $(git diff --name-only --diff-filter=U | tr '\n' ' ') (esa rama queda sin juntar; hay que resolverlo a mano)"; git merge --abort
+    en_choque=$(git diff --name-only --diff-filter=U | tr '\n' ' ')
+    echo "::warning::juntar.sh: no pude juntar $r: ${en_choque:+choque en: $en_choque}${en_choque:-cambios locales sin guardar en el árbol (o error de git)} (esa rama queda sin juntar)"
+    git merge --abort >/dev/null 2>&1 || true
   fi
 done
 if [[ "${1:-}" == "--marcar" ]]; then

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Una vuelta del jefe de un lote en una máquina de GitHub Actions (la lanza
 # .github/workflows/lote.yml), con la suscripción Max del dueño (el secreto
-# CLAUDE_CODE_OAUTH_TOKEN). Trabaja ~5 h 20, lo deja todo guardado y la vuelta
+# CLAUDE_CODE_OAUTH_TOKEN). Trabaja 5 h, lo deja todo guardado y la vuelta
 # siguiente sigue desde lotes/<L>.md.
 #   herramientas/motor_github.sh G
 #
@@ -24,7 +24,7 @@ fi
 cd "${GITHUB_WORKSPACE:?corre dentro de GitHub Actions}"
 
 L="${1:?falta la letra del lote}"; L="${L^^}"; l="${L,,}"
-LIMITE="${LIMITE:-19200}"   # segundos de jefe por vuelta (5 h 20)
+LIMITE="${LIMITE:-18000}"   # segundos de jefe por vuelta (5 h; GitHub corta el job a las 6 h)
 rama="claude/lote-$l-local"
 resumen="${GITHUB_STEP_SUMMARY:-/dev/null}"
 : "${CLAUDE_CODE_OAUTH_TOKEN:?falta el secreto CLAUDE_CODE_OAUTH_TOKEN}"
@@ -63,7 +63,7 @@ herramientas/guardar.sh --cada 300 &
 guardador=$!
 
 fin_vuelta=$(date -u -d "@$(( $(date +%s) + LIMITE ))" +%H:%M)
-msg="Eres el jefe del lote $L, en una máquina de GitHub Actions (Ubuntu) que va con la suscripción Max del dueño. Esta vuelta termina a las $fin_vuelta UTC (unas 5 horas); al acabar se guarda todo y otra máquina sigue desde lo que haya en GitHub. En los últimos 30 minutos no lances agentes nuevos: cierra lo que puedas y deja lotes/$L.md al día.
+msg="Eres el jefe del lote $L, en una máquina de GitHub Actions (Ubuntu) que va con la suscripción Max del dueño. Esta vuelta termina a las $fin_vuelta UTC (5 horas); al acabar se guarda todo y otra máquina sigue desde lo que haya en GitHub. En los últimos 30 minutos no lances agentes nuevos: cierra lo que puedas y deja lotes/$L.md al día.
 1. Ya estás en la rama $rama. Corre herramientas/juntar.sh (el .lote ya dice $L).
 2. Lee REPARTO.md y lotes/$L.md y sigue con la skill serie-en-equipo sólo con tu lote (python3 herramientas/siguiente.py 5 --lote $L), en cadena. Lo que diga siguiente.py manda (mira el disco); lotes/$L.md es orientativo y puede estar viejo. Relanza primero lo que quedó cortado: modo «seguir» = sólo los roles a medias o que falten; modo «redactar» = sólo el redactor.
 Aquí las herramientas ya están instaladas y herramientas/guardar.sh --cada 300 ya corre: no instales nada ni lo lances otra vez. No hay send_later ni enlace de sesión: sáltate esos pasos. /home/user/sintonizando-investigacion apunta a este repo.
@@ -90,7 +90,7 @@ actividad_reciente() {
 
 lanzar "$msg"
 atender_dialogos
-inicio=$(date +%s); ultima_foto=0; relanzadas=0; ultimo_empujon=0; fin_anticipado=""
+inicio=$(date +%s); ultima_foto=$inicio; relanzadas=0; ultimo_empujon=0; fin_anticipado=""
 while (( $(date +%s) - inicio < LIMITE )); do
   sleep 60
   if ! tmux has-session -t jefe 2>/dev/null; then
@@ -106,22 +106,25 @@ while (( $(date +%s) - inicio < LIMITE )); do
     pantalla=$(tmux capture-pane -p -t jefe 2>/dev/null | grep -v '^[[:space:]]*$' | tail -25)
     echo "── $(date -u +%H:%M) pantalla del jefe ──"
     echo "$pantalla"
-    if grep -qi 'continuing automatically' <<<"$pantalla"; then
+    # Los avisos de límite se buscan sólo abajo (barra de estado y últimas
+    # líneas), no en lo que escribe el jefe, que habla del límite en su texto.
+    barra=$(tail -8 <<<"$pantalla")
+    if grep -qs "LOTE $L TERMINADO" "lotes/$L.md"; then
+      echo "::notice::Lote $L: el jefe dice que no queda nada por hacer en su lote."
+      fin_anticipado="lote terminado"
+      break
+    elif grep -qi 'continuing automatically' <<<"$barra"; then
       echo "   (límite de la Max: Claude Code espera y sigue solo)"
-    elif grep -qiE 'will not resume on its own|more than 24 hours|rate-limit-options' <<<"$pantalla"; then
+    elif grep -qE 'will not resume on its own|/rate-limit-options' <<<"$barra"; then
       echo "::notice::Lote $L: la cuenta Max topó un límite que tarda en recargarse (semanal o de más de 24 h). Termino la vuelta sin encadenar otra; el cron lo reintenta cada 3 h."
       fin_anticipado="límite largo de la Max"
       break
-    elif grep -qiE 'usage limit|limit reached|hit your limit|limit will reset|resets (at|in) ' <<<"$pantalla"; then
+    elif grep -qiE "usage limit reached|you've hit your|hit your (usage )?limit|limit will reset|resets (at|in) " <<<"$barra"; then
       if (( ahora - ultimo_empujon >= 1800 )); then
         ultimo_empujon=$ahora
         tmux send-keys -t jefe "sigue" Enter
         echo "   (límite de la cuenta sin espera automática: le digo que siga)"
       fi
-    elif grep -qs "LOTE $L TERMINADO" "lotes/$L.md"; then
-      echo "::notice::Lote $L: el jefe dice que no queda nada por hacer en su lote."
-      fin_anticipado="lote terminado"
-      break
     elif ! grep -q 'esc to interrupt' <<<"$pantalla" && ! actividad_reciente && (( ahora - ultimo_empujon >= 1800 )); then
       ultimo_empujon=$ahora
       tmux send-keys -t jefe "Sigue con la skill serie-en-equipo: relanza lo que quedó cortado y continúa con la siguiente serie del lote $L (python3 herramientas/siguiente.py 5 --lote $L). Si no queda nada, escribe «LOTE $L TERMINADO» en la primera línea de lotes/$L.md, súbelo y para." Enter
@@ -151,7 +154,7 @@ esac
   echo
   echo "**Subido en esta vuelta** (rama \`$rama\`):"
   echo
-  subido=$(git log --oneline "$sha_inicio..HEAD" 2>/dev/null | head -40)
+  subido=$(git log --oneline --first-parent "$sha_inicio..HEAD" 2>/dev/null | grep -v "^[0-9a-f]* Juntar: " | head -40)
   if [[ -n "$subido" ]]; then echo "$subido" | sed 's/^/- /'; else echo "- nada"; fi
   echo
   python3 - <<'PY'
