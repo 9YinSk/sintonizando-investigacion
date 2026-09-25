@@ -17,6 +17,26 @@ Investigador de imagen · puntos 1, 3, 15, 16, 19 y 23 de ENCARGO.md. Libreta de
 
 ## Punto 3 · Fan art y renders 3D (referencia) y modelos 3D con licencia
 
+**Modelos 3D con licencia libre (Sketchfab, comprobados con la API `v3/search`, todos descargables)**
+- No Man's Sky Portal · locopixel · CC BY-NC · miniatura 1920×1080 · https://sketchfab.com/3d-models/none-c30efda62567455d9f0644f55abc06f7 · ✅ (API Sketchfab, ya en datos-imagen.md con otro nombre de portada)
+- No Man's Sky - Radiant Pillar BC1 · locopixel · CC BY-NC · 1920×1080 · https://sketchfab.com/3d-models/none-97e9276d86454c92af42c50aefa8d405 · ✅
+- No Man's Sky - Golden Vector (nave) · locopixel · CC BY-NC · 1920×1080 · https://sketchfab.com/3d-models/none-ccb55b1309434d51875cbe2860d78e2f · ✅
+- No Man's Sky Atlas (el monumento/entidad Atlas) · locopixel · CC BY-NC · 1920×1080 · https://sketchfab.com/3d-models/none-10618c9fb65b459886c591e043852692 · ✅
+- No Man's Sky Sentinel Drone · locopixel · CC BY-NC · 1920×1080 · https://sketchfab.com/3d-models/none-64e8761b44aa4eb99fb936887e576965 · ✅
+- No Man's Sky Sentinel Summoner Drone · locopixel · CC BY-NC · 1920×1080 · https://sketchfab.com/3d-models/none-68f2c0d1d0ee4ba7b6f3fe2c798bc2bc · ✅
+- No Man's sky Fan art (nave, modelado libre inspirado en el juego) · Rasmus.Eist · **CC Attribution** (permite uso comercial con crédito, la más permisiva de la lista) · 1920×1080 · https://sketchfab.com/3d-models/none-cfe751694fc94bdfae9aae3a4aaed999 · ✅
+- NMS Starship · cmzw · CC Attribution · 1920×1080 · https://sketchfab.com/3d-models/none-25e26f50065c433f8120c5257d683250 · ✅ (ya en datos-imagen.md)
+- Sci-Fi Aircraft | Spaceship Fighter (genérico, sirve de referencia de nave alienígena, no oficial de NMS) · valterjherson1 · CC Attribution · https://sketchfab.com/3d-models/none-99c1d15965c74f3aa7b5999e2d4e42e1 · ⚠️ (no es un modelo de NMS, sólo referencia de estilo)
+
+**Fan art como referencia (enlace y autor, nunca para pegar)**
+- «No man's sky fan art» · Alexander Kovyazin · ArtStation · https://www.artstation.com/artwork/5Wkxg · ⚠️ (una fuente, es la propia página del autor)
+- «No Man's Sky FanArt» · Emanuele Mattia Nava · ArtStation · https://www.artstation.com/artwork/qA0d6P · ⚠️
+- «No Man's Sky fanart - Unreal Engine» (recreación de un paisaje del juego en Unreal Engine) · Thomas Corvée · ArtStation · https://www.artstation.com/artwork/18lGzo · ⚠️
+- «No Mans Sky Concept FanArt» · Artby Tessab · ArtStation · https://www.artstation.com/artwork/EL0mK8 · ⚠️
+- Presencia en Pixiv escasa: la etiqueta「No_Man's_Sky」tiene muy pocas ilustraciones listadas (comprobado en la propia página) · https://www.pixiv.net/en/tags/No_Man's_Sky · ⚠️ (dato negativo, útil para no esperar mucho fan art japonés)
+- Fondos de fans "en cruce" con otras franquicias, con más ♥ en Wallhaven: crossover con Rick and Morty de kasqay (2 wallpapers distintos) · ya en datos-imagen.md · ✅
+- Portadas retro hechas por el fan ichtyander, reconocidas por el director de arte Grant Duncan (ver punto 1) · https://www.pushsquare.com/news/2016/07/these_alternate_no_mans_sky_ps4_covers_look_just_like_classic_sci-fi_books · ⚠️
+
 ## Punto 15 · Vestuario (colores hex medidos)
 
 ## Punto 16 · Ciudades, paisajes y fondos de pantalla
