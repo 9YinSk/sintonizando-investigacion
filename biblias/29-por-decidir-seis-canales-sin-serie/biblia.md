@@ -500,6 +500,11 @@ biblia completa).
 sobre un pedestal del Observatorio, con el texto en la caja del juego. Sólo
 si hace falta una versión pequeña (miniatura o icono).
 
+**Mejora de la segunda pasada**: en el concepto B, Estela puede tomar la pose
+de la **figura amiibo** (varita alzada, pose 3D oficial). Si la lámina va con
+el estilo de **la película**, usar el fotograma del [tráiler, 2:00](https://www.dailymotion.com/video/xa1o2hg?t=120)
+y un fondo más frío y saturado (`#A4ECFA`).
+
 ---
 
 ## 2 · #eventos → Phineas y Ferb
@@ -634,10 +639,10 @@ Wiki). La T5 también es de **DNA** con **Francisco Colmenero** ✅.
 | **Candace** | **Christine Byrd** | **Fernanda Gastélum** | ✅ buscador (Byrd se retiró en 2016) |
 | **Isabella** | **Paulina García Casillas** | **Habana Zoé** | ✅ buscador |
 | **Doofenshmirtz** | **Germán Fabregat** | Germán Fabregat | ✅ [Doblaje Wiki: Germán Fabregat](https://doblaje.fandom.com/es/wiki/Germ%C3%A1n_Fabregat) |
-| Perry | Luis Daniel Ramírez | (sin voz, N/A) | ⚠️ sólo Doblaje Wiki |
+| Perry | Luis Daniel Ramírez | (sin voz, N/A) | ✅ ficha de la serie + [su ficha](https://doblaje.fandom.com/es/wiki/Luis_Daniel_Ram%C3%ADrez) |
 | Baljeet | Héctor Cuevas Ireta de Alba | Héctor Ireta de Alba | ✅ [su vídeo](https://www.youtube.com/watch?v=JncOXUN0Nrw) |
 | Buford | Rodrigo Gutiérrez | Carlos Siller | ⚠️ sólo Doblaje Wiki |
-| Mayor Monograma | Mario Díaz Mercado | — | ⚠️ sólo Doblaje Wiki |
+| Mayor Monograma | Mario Díaz Mercado | — | ✅ ficha de la serie + [su ficha](https://doblaje.fandom.com/es/wiki/Mario_D%C3%ADaz_Mercado) |
 | Vanessa | Erica Edwards | Erica Edwards | ⚠️ sólo Doblaje Wiki |
 
 Datos que gustan ✅ (Doblaje Wiki):
@@ -814,6 +819,12 @@ secreto»** en la lámina.
   un panel de la máquina.
 - **Que no quede plano**: contraluz de atardecer detrás del edificio
   morado; Perry delante, cortado por el borde.
+
+**Mejora de la segunda pasada**: el sello de **«evento secreto»** puede ser
+el logo de la **O.S.B.A.** (§2.7 bis); la pantalla del **Mayor Monograma**
+con «MM» ([tráiler T5, 0:20](https://www.dailymotion.com/video/x9ozu2m?t=20))
+sirve para un anuncio de evento «de misión». Doofenshmirtz se pinta sin
+morado (bata blanca `#FFFFFD`).
 
 ---
 
@@ -1208,6 +1219,12 @@ sirve de **sello** en una esquina de la lámina.
   cielo, estilo poema de tomo.
 - **Que no quede plano**: atardecer naranja detrás; tejados en primer plano.
 
+**Mejora de la segunda pasada**: el **rombo del Gotei 13** con el «9» (la
+división de Hisagi) va como **sello** en una esquina; el uniforme, en
+`#26272D`, no negro puro. Para la caja de texto, tomar la de ***Rebirth of
+Souls*** (§3.8 bis). Variante «última hora»: franja magenta `#EA006F` de
+la campaña de TYBW. Noticia de ejemplo real: **Bleach × Fortnite** (dic. 2025).
+
 ---
 
 ## 4 · #noticias-gaming → Ralph el demoledor
@@ -1524,6 +1541,11 @@ Vanellope), **regenerar**, «fuera de servicio».
 - **Que no quede plano**: la pantalla es la única luz; brillo en la cara de
   Ralph; el cable de la regleta en primer plano.
 
+**Mejora de la segunda pasada**: la pose de pareja de Ralph y Vanellope
+([clip, 2:05](https://www.dailymotion.com/video/x39ewi4?t=125)) sirve para
+«explicar»; la afirmación del villano, con minuto (§4.7 bis), puede ir tal
+cual como texto de lámina 2. Vanellope en `#79AA8D`, no `#4FC3A1`.
+
 ---
 
 ## 5 · #general-doblaje → Monsters, Inc. (y Monsters University)
@@ -1631,8 +1653,8 @@ un chiste **sólo del doblaje mexicano** ✅ (Doblaje Wiki).
 | **Sulley** | **Víctor Trujillo** | ✅ [Milenio](https://www.milenio.com/espectaculos/cine/victor-trujillo-sus-personajes-de-doblaje), [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Monsters,_Inc.) |
 | **Roz** | **Humberto Vélez** (se inspiró en la voz de una delegada de la ANDA) | ✅ dos fuentes flojas: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Monsters,_Inc.) y [TikTok «Roz latino»](https://www.tiktok.com/discover/roz-monsters-inc-latino) |
 | Mike en *Monsters at Work* | **Erick Salinas** (Bustamante no volvió) | ✅ [Doblaje Wiki: Mike](https://doblaje.fandom.com/es/wiki/Mike_Wazowski), [DubDB](https://dubdb.fandom.com/wiki/Monsters_at_Work_(Latin_American_Spanish)) |
-| Sulley en *Monsters at Work* | **Gerardo Vásquez** (Trujillo tampoco volvió) | ⚠️ sólo Doblaje Wiki |
-| Tylor (el novato de *Monsters at Work*) | Jerry Velázquez | ⚠️ sólo Doblaje Wiki |
+| Sulley en *Monsters at Work* | **Gerardo Vásquez** (Trujillo tampoco volvió) | ✅ ficha de la serie + [su ficha](https://doblaje.fandom.com/es/wiki/Gerardo_V%C3%A1squez) |
+| Tylor (el novato de *Monsters at Work*) | Jerry Velázquez | ✅ ficha de la serie + [su ficha](https://doblaje.fandom.com/es/wiki/Jerry_Vel%C3%A1zquez), con muestra de audio |
 
 Erick Salinas ya había hecho a Mike en los tráileres de MU y en *Disney
 Infinity* ✅ (las mismas dos fuentes).
@@ -1724,6 +1746,88 @@ Infinity* ✅ (las mismas dos fuentes).
 - Dar miedo de verdad: el tono es comedia de oficina.
 - Mezclar las rayas de Sulley: son **manchas**, no rayas.
 
+### 5.7 bis · Segunda pasada: vídeo, juegos, técnica, cruces y mundo
+
+**Mirado en vídeo, con minuto** ([tráiler original de 2001](https://www.dailymotion.com/video/x889mq6),
+1:40, `fotogramas.py`):
+- [**0:30**](https://www.dailymotion.com/video/x889mq6?t=30): Mike apoyado en
+  la ventanilla de Roz, ella con la mirada fija. Pose de **regañar** (la #56,
+  ahora también en vídeo).
+- [**0:45**](https://www.dailymotion.com/video/x889mq6?t=45): un monstruo se
+  acerca con un tanque a una **puerta roja** con piloto encendido (`#42030E`
+  en sombra, luz `#BC010C`). Otra puerta, distinta de la amarilla #66:
+  **cada puerta cambia de color**.
+- La escena de Roz y el papeleo no sale en el tráiler; la película entera no
+  está en Internet Archive ⚠️.
+
+**Fan art (3)**: [kukakooo en Danbooru](https://danbooru.donmai.us/posts/5421397),
+Mike, 2048×1369 ✅. **Fondos de pantalla (16)**: [wallhaven 0q6zxr](https://wallhaven.cc/w/0q6zxr),
+4096×2304, *Monsters University*, subido por **zuki**; [wallhaven 43g97v](https://wallhaven.cc/w/43g97v),
+2880×1800, subido por **poune** ✅ (buenos para la sala Aula).
+
+**Videojuegos (11)**: *Monsters, Inc. Scream Team* (PC/PS1, 2001-02): 10
+actividades y hasta 300 niveles con uno de 6 monstruos ✅ ([Disney Wiki](https://disney.fandom.com/wiki/Monsters,_Inc._Scream_Team_Training),
+[pantalla de título](https://www.spriters-resource.com/playstation/monstersincscreamteam/asset/210061/)).
+**Monstrópolis** es un mundo jugable de ***Kingdom Hearts III*** (2019), con
+Mike y Sulley de aliados y el HUD de Kingdom Hearts sobre la fábrica ✅
+([Kingdom Hearts Wiki](https://kingdomhearts.fandom.com/wiki/Monstropolis)).
+
+**Técnica y cómo replicarla (18)**: Pixar, con **RenderMan**. El hito: el
+pelo de Sulley, **2.320.413 pelos** simulados con tecnología nueva, y **2,5
+millones de *render marks***, más que las tres películas anteriores de Pixar
+juntas ✅ ([Computer Graphics World](https://www.cgw.com/Publications/CGW/2001/Volume-24-Issue-10-October-2001-/Monster-Mash.aspx),
+[MoMA, estudios de pelaje de Jerome Ranft](https://www.moma.org/audio/playlist/192/2569)).
+- **Blender**: **partículas de pelo** con *children* (volumen sin disparar el
+  render), **Principled Hair BSDF** con tinte verde azulado (`#2C7D74`).
+- **Photoshop**: las manchas de Sulley (`#234163`) con **pincel de textura de
+  pelo**, nunca un círculo liso: el borde tiene que verse peludo.
+
+**Doblaje (8)**: Gerardo Vásquez (Sulley en *Monsters at Work*) y Jerry
+Velázquez (Tylor) pasan a ✅ con su ficha de actor (tabla §5.4).
+
+**Por qué la aman, y qué hace llorar (21)**:
+- **El final**: la puerta de Boo, reconstruida astilla a astilla; Sulley la
+  abre, se oye «Kitty» y **no se ve** a Boo, sólo la cara de Sulley. El
+  director **peleó por ese final** frente a uno más explícito ✅
+  ([CinemaBlend](https://www.cinemablend.com/movies/just-found-out-monsters-inc-ending-couldve-been-different-director-decided-to-fight)).
+  Duele porque cada quien imagina el reencuentro. En TikTok se comparte como
+  «la que me hace llorar de Pixar» ([«Crying at Monsters Inc
+  Ending»](https://www.tiktok.com/discover/crying-at-monsters-inc-ending),
+  [«Boo Crying»](https://www.tiktok.com/discover/boo-crying-monsters-inc-clip?lang=en)).
+- **Roz** es meme **por la voz latina**: en los TikTok de su frase piden «el
+  audio completo en latino». Encaja con #general-doblaje ✅.
+
+**Fan dubs (22)**: más que fandubs largos, **retos de doblaje** imitando a
+Mike y Roz ✅ ([TikTok: Monsters Inc Doblaje](https://www.tiktok.com/discover/monsters-inc-doblaje)).
+
+**Gustos (20)**: Mike quiere **ser asustador** aunque no dé miedo; odia que lo
+confundan con una pelota o un juguete ⚠️ (del guion; Pixar no publica
+fichas oficiales).
+
+**Cruces y figuras (23)**: las versiones de *Kingdom Hearts III* tienen
+**Funko Pop oficiales** (Sora #407, Donald, Goofy #409 «Monsters Inc.») ✅
+([KH Wiki: Funko Pop](https://www.khwiki.com/Funko_Pop!),
+[Amazon](https://www.amazon.com/Funko-Pop-Disney-Collectible-Multicolor/dp/B07DFGTG8H),
+[BoxLunch](https://www.boxlunch.com/product/funko-pop-disney-kingdom-hearts-iii-sora-monsters-inc.-vinyl-figure/11569682.html)):
+pose 3D estilizada de referencia. Cosplay de Mike y Sulley: no se buscó ⚠️.
+
+**Obras parecidas (24)**: *Toy Story* (mismo estudio, «buddy film» con un
+niño de por medio y un villano castigado, no muerto) ✅ ([Pixar Planet
+Forums](https://pixarplanet.com/forums/t/monsters-inc-similar-to-toy-story/6640)).
+Teoría de fans del «universo compartido Pixar» con *Onward* ⚠️
+([ScreenRant](https://screenrant.com/onward-movie-pixar-shared-universe-theory-toy-story-ratatouille/)).
+
+**El mundo en cinco líneas (25)** ✅ ([Disney Wiki: Monsters, Inc. (empresa)](https://disney.fandom.com/wiki/Monsters,_Inc._(company)),
+[Disney Wiki: CDA](https://disney.fandom.com/wiki/Child_Detection_Agency)):
+1. **Monstrópolis** se alimenta de los **gritos** de los niños.
+2. Se captan por **puertas-portal** a los armarios infantiles, en el **Piso
+   de Sustos**, y se guardan en **tanques**.
+3. La **CDA** vigila que nada humano cruce; Roz es su agente encubierta.
+4. Al final se descubre que las **risas** dan diez veces más energía.
+5. El Piso de Sustos pasa a ser **Piso de Risas**.
+Símbolo: la **«M» azul con un ojo** de la empresa: sirve de **sello del
+canal**, como el logo de un estudio de doblaje.
+
 ### 5.8 Conceptos de lámina
 
 **Concepto A · La estación del Piso de Sustos** (el recomendado)
@@ -1746,6 +1850,11 @@ Infinity* ✅ (las mismas dos fuentes).
 - **Personaje**: Mike en primera fila, levantando la mano con una duda.
 - **Texto**: la pizarra con los cuatro temas; la duda de Mike en su libreta.
 - **Que no quede plano**: luz de ventanal; pupitres en primer plano.
+
+**Mejora de la segunda pasada**: la **«M» con un ojo** de la empresa como
+sello del canal (logo de «estudio»). Colores corregidos: Mike `#87A851`,
+Sulley `#559C94` con manchas `#234163`. Para la pose de regañar de Roz, el
+[tráiler, 0:30](https://www.dailymotion.com/video/x889mq6?t=30).
 
 ---
 
@@ -1851,8 +1960,8 @@ imágenes grandes**, muchas en 4K; ✅ vistas y medidas):
 | Clay Calloway (*Sing 2*) | **Chayanne** | ✅ Espinof, [SensaCine México](https://www.sensacine.com.mx/peliculas/pelicula-253538/reparto/) |
 | Porsha Crystal (*Sing 2*) | **Greeicy Rendón** | ✅ Espinof y [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Sing_2:_%C2%A1Ven_y_canta_de_nuevo!) |
 | Gunter (las dos) | **Rubén Cerda** | ✅ Espinof y Doblaje Wiki |
-| **Srta. Crawly** | **Óscar Flores** (un actor, como en inglés, donde la hace el director Garth Jennings) | ⚠️ sólo Doblaje Wiki |
-| Nana Noodleman | Marcela Páez | ⚠️ sólo Doblaje Wiki |
+| **Srta. Crawly** | **Óscar Flores** (un actor, como en inglés, donde la hace el director Garth Jennings) | ✅ ficha de la película + [su ficha](https://doblaje.fandom.com/es/wiki/%C3%93scar_Flores) |
+| Nana Noodleman | Marcela Páez | ✅ ficha de la película + [su ficha](https://doblaje.fandom.com/es/wiki/Marcela_P%C3%A1ez) |
 
 **Estudio** ✅ (Doblaje Wiki): *Sing* en **Dubbing House**, *Sing 2* en
 **Iyuno-SDI México**; las dos dirigidas por **Pepe Toño Macías** (el Luigi
@@ -1920,6 +2029,85 @@ Dirección musical de *Sing*: **Gaby Cárdenas**.
 - Confundir el estilo de Illumination con el de Pixar: Sing tiene formas más
   redondas y ojos grandes.
 
+### 6.7 bis · Segunda pasada: frases con minuto, técnica, cruces y mundo
+
+**Frases del doblaje latino, textuales y con minuto (8)** ✅ ([tráiler
+oficial en español](https://www.dailymotion.com/video/x8x2jzo), `voz.py` y
+revisado de oído). Antes la biblia decía que no había ninguna de Buster:
+- [**0:04**](https://www.dailymotion.com/video/x8x2jzo?t=4) Buster: «¿Cómo van esos volantes, señorita Crawly?» (Whisper escribió «Crowley»).
+- [**0:06**](https://www.dailymotion.com/video/x8x2jzo?t=6) Srta. Crawly (Óscar Flores): «¡Listos para repartirse!»
+- [**0:29-0:38**](https://www.dailymotion.com/video/x8x2jzo?t=29) Buster:
+  «¡Oye, oye, oye! […] Una competencia de canto. […] Todos en la ciudad
+  tendrán una oportunidad de ser estrella en vivo, en mi escenario.» **Es la
+  frase que mejor lo define**: vendedor entusiasta que no para.
+- **Cómo suena Buster** (`voz.py`): registro agudo (**315 Hz**), muy expresivo
+  (**31,7 semitonos**), velocidad normal (**2,95 palabras/s**).
+- Óscar Flores también sale como **Buster en el tráiler 2** (2016), antes de
+  que el papel pasara a Benny Ibarra ⚠️ (sólo su ficha): **no** es «la voz de
+  Buster».
+
+**Mirado en vídeo, con minuto** ([tráiler largo 2](https://www.dailymotion.com/video/x889jpx), 3:01):
+- [**0:40**](https://www.dailymotion.com/video/x889jpx?t=40): el **volante**
+  en primer plano, legible: «SINGING COMPETITION AUDITIONS» y «THE GRAND
+  PRIZE $100,000», sostenido por dos elefantes que lo leen con la boca
+  abierta. **Es el fotograma del concepto A** (resuelve el «diseño exacto del
+  volante» que faltaba en §9.2). Pose de **sorpresa/gancho**.
+- [**2:20**](https://www.dailymotion.com/video/x889jpx?t=140): Buster y la
+  Srta. Crawly por el pasillo del teatro, Buster señalando el escenario.
+  Pose de **presentar el sitio**. Butacas `#471A17`, moldura `#CE704A` ✅.
+- El cartel final dice sólo «**¡CANTA!**»: título corto para un logo compacto.
+
+**Doblaje (8)**: Óscar Flores (Crawly) y Marcela Páez (Nana) pasan a ✅
+(tabla §6.4).
+
+**Fan art (3)**: [jayivee en Danbooru](https://danbooru.donmai.us/posts/10928302),
+grupo, 4096×4096 ✅. **Fondo de pantalla (16)**: [Buster Moon en Wallpaper
+Abyss](https://wall.alphacoders.com/big.php?i=813662), 1920×1080 ✅. El único
+de Wallhaven era de otra película (*Sing a Bit of Harmony*): descartado.
+
+**Videojuego (11)**: **no hay** videojuego oficial con los personajes; sólo
+apps genéricas de karaoke (Smule, Let's Sing). Comprobado con dos búsquedas
+(español e inglés) ⚠️: no aplica.
+
+**Técnica y cómo replicarla (18)**: Illumination (2016); diseño de producción
+de **Eric Guillon**, dirección de arte de **François Moret** ✅
+([Wikipedia](https://en.wikipedia.org/wiki/Sing_(2016_American_film))). Mismo
+flujo que Mario (Maya + Nuke, render propio). El Teatro Moon se pensó primero
+como **maqueta** en el arte de producción de Gregory Georges ⚠️.
+- **Blender**: telón con Principled BSDF de *sheen* alto y la textura
+  [velour_velvet](https://polyhaven.com/a/velour_velvet) (Poly Haven, CC0).
+- **Encuadre**: foco cenital sobre el micro, sala en penumbra detrás.
+
+**Por qué la aman (21) y comunidad (22)**: el gancho en redes hispanas es que
+**cantantes latinos reales** (Ha\*Ash, Chayanne) doblan a los que cantan ⚠️
+(deducido del reparto, sin encuesta). En TikTok se hace viral explicar
+**quién dobla a quién** («Benny Ibarra es la voz latina de Buster Moon») ✅
+([TikTok, @soylatina.1](https://www.tiktok.com/@soylatina.1/video/7438024665215421752)).
+
+**Gustos (20)**: Buster ama el teatro que heredó de su padre y **no se ve
+como fracasado** aunque lo pierde dos veces ⚠️ (de la trama; Illumination no
+publica fichas).
+
+**Cruces (23)**: **Sing on Tour**, espectáculo musical inmersivo en Universal
+Studios Japón y Universal Studios Pekín ✅ ([Wikipedia: Sing (franchise)](https://en.wikipedia.org/wiki/Sing_(franchise))).
+Colaboración de marca o *crossover*: no la encontré ⚠️.
+
+**Obras parecidas (24)**: comparada con ***Zootopia*** (mismo año, ciudad de
+animales sin humanos) y con ***Trolls*** (película de versiones) ✅
+([FreshFiction](https://freshfiction.tv/movie-review-sing-is-like-zootopia-without-the-smarts-heart/),
+[The Numbers](https://m.the-numbers.com/movies/custom-comparisons/Zootopia-(2016)/Sing-(2016))).
+Si el servidor usa Zootopia en otro canal, no repetir la ciudad de animales.
+
+**El mundo en cinco líneas (25)**:
+1. Una gran ciudad de animales, sin humanos (§6.6).
+2. El koala **Buster Moon** tiene un teatro en quiebra.
+3. Organiza un **concurso de canto**; un error de la Srta. Crawly pone
+   «$100,000» en el volante.
+4. Se presentan **Meena**, **Rosita**, **Johnny** y **Ash**, entre otros (§6.3).
+5. Buster **pierde el teatro** (en las dos películas) y no se rinde.
+Símbolos: el **volante amarillo**, la marquesina «**MOON**», el micrófono de
+pie bajo un foco.
+
 ### 6.8 Conceptos de lámina
 
 **Concepto A · El volante de la audición en la puerta del Teatro Moon**
@@ -1946,6 +2134,12 @@ Dirección musical de *Sing*: **Gaby Cárdenas**.
 - **Texto**: la marquesina (título) y las reglas escritas en la **lista de
   turnos** pegada en la pared del escenario.
 - **Que no quede plano**: contraluz del foco; butacas rojas oscuras delante.
+
+**Mejora de la segunda pasada**: el volante del concepto A ya tiene
+fotograma exacto, legible, en el [tráiler largo, 0:40](https://www.dailymotion.com/video/x889jpx?t=40)
+(«SINGING COMPETITION AUDITIONS», «THE GRAND PRIZE $100,000»). Buster puede
+«decir» su frase real: «Todos en la ciudad tendrán una oportunidad de ser
+estrella en vivo, en mi escenario» (0:38). Butacas `#471A17`, moldura `#CE704A`.
 
 ---
 
@@ -2033,6 +2227,29 @@ público latino**, y su doblaje es parte de la historia del oficio.
   - #1 [Simpsonsbg 2013 r1 sofa hires2.jpg](https://static.wikia.nocookie.net/simpsons/images/0/00/Simpsonsbg_2013_r1_sofa_hires2.jpg) (8334×4688): **el sillón**, la familia entera, en alta (8334×4688): para el Cine.
   - #2 [WoSEBGamesKBBLBillAndMarty.jpg](https://static.wikia.nocookie.net/simpsons/images/d/d2/WoSEBGamesKBBLBillAndMarty.jpg) (1600×1364): las figuras de juguete de Bill y Marty (*World of Springfield*).
 
+**Segunda pasada · Los Simpson**
+- **Fan art (3)**: [cogum3li en Danbooru](https://danbooru.donmai.us/posts/6297355),
+  Bart, 2048×2040 ✅.
+- **Fondo de pantalla (16)**: [wallhaven o3r2kl](https://wallhaven.cc/w/o3r2kl),
+  1920×1080, Bart en estilo **LoFi**, subido por **zenphyr** (147 favoritos)
+  ✅. Da a la Radio 24/7 un aire cálido y nostálgico, distinto del Cine.
+- **Videojuegos (11)**: la **torre KBBL** jugable en *The Simpsons Game*
+  (2007) y el edificio de KBBL como icono en *Tapped Out* (imágenes #3 y #12
+  de arriba) ✅.
+- **Colaboración real (23)**: en julio de 2007, **12 tiendas 7-Eleven** de
+  EE. UU. y Canadá se volvieron **Kwik-E-Mart** de verdad, con cereal
+  KrustyO's, cómics de Radioactive Man y «Squishees» ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Kwik-E-Mart),
+  [Wikinews](https://en.wikinews.org/wiki/A_dozen_7-Elevens_transformed_into_Kwik-E-Marts_to_promote_Simpsons_movie),
+  [ABC News](https://abcnews.com/Business/FunMoney/story?id=3404784&page=1)).
+  Un «objeto real en sitio real» ya hecho, por si se usa en otra sala.
+- **Técnica (18)**: Povenmire (Phineas y Ferb) aprendió de Matt Groening la
+  regla de las **siluetas reconocibles** (§2.7 bis): vale igual aquí. Colores
+  planos, contorno negro fino.
+- **Símbolos y vocabulario (25)**: la **pizarra de Bart**, el letrero
+  **KBBL**, «¡Ay, caramba!», «Multitrabajos», Duff, Springfield sin estado
+  (broma recurrente).
+- **Doblaje**: los DJ de KBBL no tienen actor fijo (corregido arriba).
+
 **Concepto · La cabina de KBBL (Radio 24/7)**
 - **Objeto real en sitio real**: el **micrófono** de la cabina de KBBL, con
   el **mostrador rojo y blanco «KBBL»** (#8) y un cartel «EN EL AIRE»
@@ -2112,14 +2329,17 @@ imitarlo con una letra.
 - **Minutos exactos en los vídeos de YouTube**: YouTube pidió «confirmar que
   no soy un bot» y no dejó bajar subtítulos. Doy el enlace y la duración.
   Sólo Bleach tiene minuto exacto (subtítulos de kitsunekko).
-- **Frases latinas de Estela, Buster, Meena y Hisagi**: no encontré
-  ninguna que el público cite. Las frases de la lámina **no se pueden
+  **Segunda pasada**: resuelto en parte con **Dailymotion**: 6 tráileres
+  mirados con minuto (uno por serie, en cada «bis»).
+- **Frases latinas de Estela, Meena y Hisagi**: no encontré
+  ninguna que el público cite (Buster **sí**, con minuto: §6.7 bis). Las frases de la lámina **no se pueden
   presentar como del doblaje** si no lo son.
 - **La página de dentro del libro de Estela**: tengo la tapa (#69) y la
   escena (#82), no una página con dibujos. Hay que sacarla de un vídeo del
   juego.
-- **El diseño exacto del volante de Sing** (letras, colores): sólo sé que es
-  amarillo. Sacarlo de la escena.
+- **El diseño exacto del volante de Sing**: **resuelto** en la segunda
+  pasada: tráiler largo, min. 0:40 (§6.7 bis). Falta el hex medido del
+  amarillo ⚠️.
 - **Voces latinas de Bill y Marty** (KBBL): no hay actor fijo; varía por
   episodio (T4 y T5 comprobadas, segunda pasada). No se nombra a nadie.
 - **Encuestas de popularidad** de Phineas y Ferb, Ralph, Monsters y Sing:
@@ -2127,9 +2347,12 @@ imitarlo con una letra.
   el doblaje y los memes.
 - **TV Tropes, The Cutting Room Floor y Wikipedia** no respondieron (403 y
   429).
-- **Fan art** (Pixiv, DeviantArt, ArtStation): no lo busqué; con el arte
-  oficial de las wikis (2.800 imágenes grandes) había de sobra para este
-  encargo de decisión. Queda para cada biblia completa.
+- **Fan art**: en la segunda pasada, **uno por serie** en Danbooru
+  (`rating:g`, con autor y tamaño). Pixiv, DeviantArt y ArtStation siguen
+  sin revisar ⚠️.
+- **La cara en las 5 emociones** (punto 13): sólo 2 de Ralph con minuto;
+  el resto queda para cada biblia completa ⚠️.
+- **Fan dubs**: título y canal, sin vistas (YouTube bloqueado) ⚠️.
 
 ### 9.3 Guía corta para IA (Firefly, Canva)
 
@@ -2145,7 +2368,96 @@ personajes se recortan del arte oficial (las tablas de imágenes de cada secció
 | Monsters, Inc. | «nave industrial de los años 50, persiana metálica azul violeta, puerta en un marco de metal con luz roja, 3D de Pixar» | «terror», «sangre», «oscuro» |
 | Sing | «teatro barroco antiguo, telón de terciopelo rojo, bombillas, foco cálido, 3D de Illumination» | «teatro moderno», «pantalla LED», «neón» |
 
+
+#### 9.3.1 IA de imagen: lo que nunca cambia (segunda pasada)
+
+Para **poses o fondos de prueba**, usar como referencia de estilo las
+imágenes citadas (número de hoja o enlace), nunca la memoria de la IA.
+
+| Serie | Rasgos fijos | Paleta (medida) | Línea y sombreado | Luz y encuadre | Referencia de estilo / pose |
+|---|---|---|---|---|---|
+| Mario Galaxy | Estela: pelo rubio platino tapando un ojo, corona, vestido turquesa, varita de estrella | `#54C0B4`, `#141F49`, `#FFE08B`; película `#A4ECFA` | 3D saturado, sin línea negra | lámpara cálida en la Biblioteca; plano medio sentada | #43, #82; [tráiler 2:00](https://www.dailymotion.com/video/xa1o2hg?t=120); amiibo |
+| Phineas y Ferb | Phineas cabeza triangular de perfil; Ferb pelo verde | `#FA8836`, `#31B536`, `#1E507C`, `#CF9D58` | 2D plano, contorno negro fino uniforme, sin degradado | mañana de verano; plano medio frente a la cerca | #21, #33; [tráiler T5 0:00](https://www.dailymotion.com/video/x9ozu2m) |
+| Bleach | Hisagi: «69» tatuado en la mejilla izquierda, franja azul en la nariz, tres cicatrices sobre el ojo derecho, shihakusho negro azulado | `#26272D`, `#B3B1AA`, `#303030`, `#EA006F` | línea de grosor variable, sombra dura de una banda | fluorescente de redacción; alto contraste en TYBW | #282, #283; [tráiler TYBW 1:00](https://www.dailymotion.com/video/x8c7qz9?t=60) |
+| Ralph | Ralph: manos enormes, pelo castaño revuelto, camisa roja-naranja rota, overol, descalzo; Vanellope: sudadera menta, medias a rayas | `#5F8C73`, `#79AA8D`, `#60AF90` | 3D Disney; el 8 bits en píxel real | letreros LED rojos, haz de luz; plano de pareja caminando | #53, #41; [clip 2:05](https://www.dailymotion.com/video/x39ewi4?t=125) |
+| Monsters, Inc. | Mike: un ojo, verde oliva; Sulley: pelaje verde azulado con manchas | `#87A851`, `#375B5B`, `#559C94`, `#234163` | 3D Pixar, pelo con volumen | nave industrial, piloto rojo sobre la puerta | #66, #56; [tráiler 0:30](https://www.dailymotion.com/video/x889mq6?t=30) |
+| Sing | Buster: koala con micro (render #2); Meena: elefanta tímida (render #1) | `#471A17`, `#CE704A`, `#9E1B2F` | 3D Illumination, terciopelo con *sheen* | cañón de seguimiento sobre escenario oscuro | #58, #61, #122; [tráiler 0:40](https://www.dailymotion.com/video/x889jpx?t=40) |
+
+**Palabras que lo estropean en todas**: «realista», «fotografía»,
+«hiperdetallado», «estilo anime» (salvo Bleach), «burbuja blanca». Y los
+colores viejos a ojo (`#121212`, `#4FC3A1`, `#9BCB3C`, `#3AB4E8`,
+`#8A4FBF`, `#6A3D9A`): **no usarlos**.
+
+#### 9.3.2 IA de texto: cómo escriben, con frases reales
+
+Reglas: frases cortas; **no inventar frases y presentarlas como del
+doblaje**; las de abajo son reales (fuente y minuto en su sección).
+
+| Emoción | Ralph (§4.7 bis) | Buster Moon (§6.7 bis) | Otros |
+|---|---|---|---|
+| Alegre | «¡Soy feliz!» (2:03) | «¡Oye, oye, oye!» (0:29) | Boo: «¡Gatito!» (§5.3) |
+| Enfadado / regañando | «¡Soy malo!» (1:53) | — | Roz: «¿No ordenaste tu papeleo anoche?» ⚠️; Hitsugaya: «Es *capitán* Hitsugaya» (ep. 126, 4:31, japonés traducido) |
+| Explicando | «Nadie cambia lo que es» (1:32) | «Una competencia de canto» (0:33) | Phineas: «Ya sé qué vamos a hacer hoy» (§2.4) |
+| Animando | «No voy a dejarte aquí sola» (1:44) | «Todos en la ciudad tendrán una oportunidad de ser estrella en vivo, en mi escenario» (0:38) | Crawly: «¡Listos para repartirse!» (0:06) |
+| Triste | Vanellope: «Todos dicen que fui una equivocación» (1:38) | — | — |
+
+- **Cómo suenan**: Ralph atropellado y con mucho vaivén (3,08 palabras/s,
+  29,8 semitonos); Buster agudo y vendedor (315 Hz, 31,7 semitonos).
+- **Muletillas y vocabulario** que una IA debe usar: «-inador» y «¿Y
+  Perry?» (Phineas y Ferb); «capitán», «bankai», «Gotei 13» (Bleach);
+  «Turbo», «glitch», «fuera de servicio» (Ralph); «papeleo», «Wazowski»,
+  «gritos», «risas» (Monsters); «volante», «audición», «escenario» (Sing).
+- **Estela, Hisagi y Meena** no tienen frase latina comprobada: para ellos,
+  escribir en neutro y **no** atribuirles una frase del doblaje.
+- **Vocabulario de expresiones para la IA de imagen**: Bleach usa el de anime
+  (gota de sudor, venas de enfado, fondo de líneas de velocidad); las otras
+  cinco son occidentales y exageran con **el cuerpo entero** (manos abiertas
+  de Ralph a las 2:01, encogido a la 1:53), no con símbolos.
+
 ---
+
+## Cumplimiento del encargo
+
+Estado tras la segunda pasada (25-sep-2026). Este encargo **no es una sola
+serie**: son 6 propuestas (y Los Simpson para dos salas). Cada punto se
+cumple para las seis «en lo esencial»; lo que falta es de su biblia completa.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 7 wikis de Fandom, 2.809 imágenes en 62 hojas, citadas con número, tamaño y URL en §1-§7; amiibo y arte de *Monsters at Work* añadidos |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | Hay capturas oficiales 1920×1080 por serie, Bleach con minuto (subtítulos) y 6 tráileres con minuto (Dailymotion). Faltan el plano azul de Phineas y el papeleo de Roz: no están en ningún tráiler y las obras no están en Internet Archive |
+| 3 · Fan art y 3D con licencia | ✅ | Sketchfab CC BY con crédito en cada serie; un fan art por serie en Danbooru (`rating:g`, autor y tamaño) |
+| 4 · Fondos, luz, paleta y texturas reales | ✅ | Tablas de hex medidos por serie (Pillow sobre hojas y fotogramas), Poly Haven CC0 |
+| 5 · Tipografía por uso, con tildes | ✅ | §8, comprobado con fontTools; Mario: «Classic HUD font» (una fuente) |
+| 6 · Cómo hablan en pantalla | ✅ | Un cuadro propio por serie (libro de Estela, plano azul, revista, letrero LED, cartel de Roz, volante); cajas de *Rebirth of Souls* y *Brave Souls* |
+| 7 · Personajes y popularidad | ⚠️ | Hitsugaya con encuestas oficiales de Jump; Disney, Pixar e Illumination **no publican** encuestas (buscado dos veces): se usa taquilla, doblaje y memes |
+| 8 · Doblaje latino y frases textuales | ⚠️ | Repartos con dos fichas (7 nombres más en esta pasada); frases con minuto de Ralph y Buster. Sin frase latina comprobada de Estela, Hisagi y Meena; Delgado y KBBL corregidos |
+| 9 · Música y sonido | ✅ | Por serie; TYBW con openings y endings de las 4 partes; compositores de Mario (Brian Tyler) y Ralph con una sola fuente ⚠️ |
+| 10 · Vídeos con minuto | ✅ | 6 tráileres mirados con `fotogramas.py`, con `?t=`; TikTok de Monsters (papeleo, Wazowski, final que hace llorar) |
+| 11 · Videojuegos y su interfaz | ✅ | Galaxy (Wii), *Across the 2nd Dimension*, *Rebirth of Souls* y *Brave Souls*, *Wreck-It Ralph* (iOS), *Scream Team* y *Kingdom Hearts III*, *The Simpsons Game*. **Sing no tiene videojuego oficial** (comprobado con dos búsquedas): no aplica |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | «Qué NO hacer» por serie; memes de Roz, «Soy malo y eso es bueno», la Chilindrina |
+| 13 · Carácter, forma de hablar y cara en cada emoción | ⚠️ | Carácter y forma de hablar de los principales; medidas de voz de Ralph y Buster. La cara en las 5 emociones sólo está en Ralph (2 de 5, con minuto): el resto va a cada biblia completa |
+| 14 · Poses analizadas (6-10 por personaje) | ⚠️ | Tablas de arte oficial con uso (presentar, explicar, regañar…) por personaje y 9 poses en vídeo con minuto; no llega a 6-10 fotogramas de vídeo por personaje |
+| 15 · Vestuario con hex | ✅ | Estela, Hisagi, Vanellope, Mike, Sulley y Doofenshmirtz medidos en arte oficial; 5 hex a ojo corregidos |
+| 16 · Fondos de pantalla (tamaño y autor) | ✅ | Uno o dos por serie en Wallhaven y Wallpaper Abyss, con autor y tamaño; falsos positivos descartados |
+| 17 · Guía para IA de imagen y de texto | ✅ | §9.3: palabras que ayudan y estropean, rasgos fijos, paleta, luz, referencias; IA de texto con frases reales por emoción |
+| 18 · Técnica y cómo replicarla | ✅ | Illumination (Maya + Nuke), Toon Boom, Pierrot, RenderMan y el pelo de Sulley, Hyperion (no en Ralph 1), con recetas de Photoshop y Blender. El software de Pierrot no es público ⚠️ |
+| 19 · Texturas 2D | ✅ | Tramas de Clip Studio para Bleach, pixel art CC0 para Ralph (listado), terciopelo y papel en Poly Haven |
+| 20 · Gustos y detalles | ⚠️ | Vanellope, Doofenshmirtz y Estela con fuente; Buster, Mike y Phineas sólo de la trama. No hay *databooks* oficiales de estas obras |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Taquilla, doblaje y memes por serie; escenas que hacen llorar con fuente en Monsters (el final) y Bleach (Bazz-B). Sin escena con fuente para Mario, Phineas, Ralph y Sing |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Fandubs de Bleach y Phineas (título y canal), retos de doblaje de Monsters y TikTok de Sing. Sin vistas: YouTube bloqueado. De Ralph y Mario no encontré |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | amiibo y cosplay de Rosalina, Mission Marvel y Star Wars, Bleach × Fortnite, princesas y Disney Infinity, *Kingdom Hearts III* y Funko, Sing on Tour, Kwik-E-Mart |
+| 24 · Obras parecidas | ✅ | Influencias de Kubo (entrevista VIZ), Toy Story para Ralph y Monsters, Zootopia y Trolls para Sing; choques con otras láminas anotados |
+| 25 · El mundo y sus símbolos | ✅ | Cinco líneas y vocabulario por serie; Gotei 13, O.S.B.A., «M» con ojo, Estación Central, Superestrellas |
+| 3 conceptos de lámina | ✅ | Dos o tres por canal y uno por sala de voz, con objeto, pose (número o minuto), cuadro, textos y profundidad; mejoras de la segunda pasada en cada uno |
+| 40 fuentes distintas | ✅ | Más de 100 webs distintas enlazadas |
+| Tipos de fuente | ⚠️ | Oficiales, wikis en español, inglés y japonés, foros (Arctic Shift), GitHub, Sketchfab, Doblaje Wiki, Dailymotion. TV Tropes y TCRF dieron 403; Pixiv, DeviantArt y ArtStation sin revisar; coreano o chino no aplica (obras occidentales, salvo Bleach, que tiene fuentes japonesas) |
+| Hojas de contacto | ✅ | 3 JPEG en `hojas/` (objetos y sitios, personajes, letras), menos de 1 MB cada uno |
+| `referencias.json` | ✅ | 85 referencias, las imágenes de wiki primero; tamaños medidos (vídeos y páginas sin tamaño) |
+
+**⚠️ en el texto**: 93 antes de la segunda pasada; más ahora, porque se
+añadió mucho material y cada dato de una sola fuente lleva su aviso (133 al cerrar). Los que
+eran «a ojo» en vestuario y la pantalla del Mayor Monograma pasaron a ✅.
 
 ## Bitácora de búsqueda
 
@@ -2251,3 +2563,64 @@ personajes se recortan del arte oficial (las tablas de imágenes de cada secció
 - **Encuestas oficiales** de popularidad para las series occidentales.
 - **Minutos exactos** en YouTube (bloqueado); **TV Tropes**, **TCRF** y
   **Wikipedia** (bloqueados o saturados).
+
+### Segunda pasada (25-sep-2026)
+
+Equipo de 4 investigadores (imagen, vídeo, voz, texto) y redactor. El
+recolector automático (`recolectar.py`) **no sirvió** para este encargo:
+buscó el título «Por decidir…» y no las series; nadie repitió esas consultas.
+
+**Imagen**
+- Wallhaven, API: «Super Mario Galaxy», «Rosalina Mario», «Phineas and Ferb»
+  (0), «Phineas Ferb» (0), «Phineas y Ferb» (0), «Phineas Flynn» (0),
+  «Candace Flynn» (0), «Bleach anime», «Bleach Ichigo Hitsugaya», «Wreck It
+  Ralph», «Vanellope Ralph», «Monsters Inc», «Mike Wazowski», «Monsters
+  University», «Sing movie», «Buster Moon Sing» (0), «Sulley Monsters» (0),
+  «The Simpsons», «Bart Simpson». Varios eran carteles mezcla de 6-8
+  franquicias: descartados por sus `tags`.
+- Alphacoders / Wallpaper Abyss: Sing y Phineas y Ferb.
+- Danbooru, API, `rating:g`: rosalina_(mario), kurosaki_ichigo,
+  vanellope_von_schweetz, mike_wazowski, phineas_flynn, ferb_fletcher,
+  sing_(movie), bart_simpson; vacíos: buster_moon, meena_(sing).
+- Fandom API (`imageinfo`): Bleach, Wreck-It Ralph, Pixar, Phineas and Ferb;
+  hex medidos con Pillow.
+- Buscador (español e inglés, 12): colaboraciones, amiibo, cosplay, Mission
+  Marvel, princesas Disney, Kingdom Hearts III, Kwik-E-Mart, tramas de
+  manga, pixel art CC0, Sing y marcas (sin resultado).
+
+**Vídeo**
+- Dailymotion (API + `fotogramas.py`): 6 tráileres, uno por serie, sin
+  bloqueo. YouTube seguía pidiendo iniciar sesión.
+- AnimeThemes dio **522** dos veces: Bleach se resolvió con Wikipedia (que
+  cita ANN y Natalie).
+- Wikipedia API (inglés): bandas sonoras de Mario Galaxy (película), Ralph,
+  Phineas y Ferb, Bleach TYBW.
+
+**Voz y personajes**
+- Doblaje Wiki, API (20 consultas): fichas de actor de Roberto Carrillo,
+  Gerardo Vásquez, Jerry Velázquez, Luis Daniel Ramírez, Carlos Siller, Mario
+  Díaz Mercado, Erica Edwards, Paco Mauri, Yamil Atala, Óscar Flores, Marcela
+  Páez, **Salvador Delgado** (de ahí la corrección de Bleach), Agustín
+  Sauret, Alejandro Mayén; Los Simpson T4 y **T5** (de ahí la corrección de
+  KBBL). No existen: Diana Vanessa Suárez, Metzin R. Beyer.
+- Dailymotion + `voz.py` (Whisper): tráileres de Sing y Ralph (citables),
+  Mario Galaxy y un clip de Mike (audio sucio, **no citables**).
+- Buscador (6): fandubs de Phineas, Bleach, Monsters y Sing; escenas que
+  hacen llorar (CinemaBlend, Sportskeeda).
+- Arctic Shift (r/pixar): timeout; no se insistió.
+
+**Texto, juegos y técnica**
+- Buscador (inglés): interfaces de Galaxy, *Across the 2nd Dimension*, Ralph,
+  *Scream Team*, *Rebirth of Souls*; Toon Boom y Povenmire; Pierrot; Hyperion
+  y Meander; RenderMan y el pelo de Sulley; pipeline de Illumination;
+  influencias de Kubo; comparaciones (Toy Story, Zootopia, Trolls, Onward).
+- Buscador (español): *Brave Souls*, Gotei 13, Estación Central, CDA,
+  O.S.B.A., técnica de Mario Galaxy, videojuego de Sing.
+- WebFetch: pipeline de Illumination Studios Paris, fuentes internas de Super
+  Mario Wiki; Game UI Database dio **403**.
+
+**No encontré (segunda pasada)**: frase latina de Estela, Hisagi y Meena;
+vistas de los fandubs; el minuto del plano azul y del papeleo de Roz; la cara
+en las 5 emociones salvo Ralph; el programa 2D de Pierrot; el nombre del
+render de Illumination; un café temático de Bleach con fecha; una
+colaboración de marca de Sing; quién dirigió el doblaje de Bleach en 2010.
