@@ -2391,7 +2391,43 @@ Estado tras la 2.ª pasada. Tachado = resuelto (dice dónde).
 
 ## Cumplimiento del encargo
 
-_(pendiente)_
+Estado al cerrar la 2.ª pasada (25-sep-2026). ✅ hecho · ⚠️ a medias ·
+❌ no hecho. Cada ⚠️ dice por qué. Las partes de **voz** y **vídeo**
+acabaron sus 2 tandas y no se relanzan: lo que dejaron pendiente va
+aquí como ⚠️.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Artbook confirmado, key visual de 3523×5000, hoja de modelo de Pleakley, poses de hula de Lilo, arte de desarrollo, más de 15 portadas de Dynamite, revistas, pósteres, figuras, cartas de Lorcana; 3 hojas miradas (§3.6, hojas) |
+| 2 · Fotogramas de escenas icónicas en 1080p con minuto | ⚠️ | Película entera, tráiler, créditos y luau mirados, con minuto y enlace `?t=` (§2.4, §8.2). Pero **sólo el luau está en 1080p**; la película es una copia de 85 min con fotogramas de 1280 px y el tráiler de 2002, 640×346. Sin fotograma de la cámara (00:22:54), del «TIMER DINGS» ni de la lección de Elvis (lo que falta de vídeo) |
+| 3 · Fan art y 3D con licencia | ✅ | Licencias leídas en la API de Sketchfab (una corregida a CC BY-NC-SA), 4 *rigs* CC BY con caras contadas, fondos de fans con autor (§4, §17.2). Fan art de Lilo con cámara: no encontrado, dicho |
+| 4 · Sitios, luz, paleta y texturas | ✅ | Luau, cuarto, bosque y mar 2025 vistos y **medidos** con `estilo.py` (§5.3, §5.4b); texturas CC0 de ambientCG y Poly Haven. Foto libre de Hanapepe: Wikimedia dio 429 (§17.2) |
+| 5 · Tipografía por uso, con letra libre y tildes | ✅ | 9 usos con su letra libre y tildes, ñ, ¿ ¡ comprobadas con fontTools (§6.3); variantes del logo vistas. Buka Bird sin comprobar (no se puede bajar) |
+| 6 · Cómo hablan en pantalla (cuadro de diálogo) | ✅ | Bocadillo real del cómic Dynamite visto (óvalo, borde grueso, mayúsculas, cursiva), cartela azul, globos vacíos de 2006, el globo del libro del Patito Feo (§7.6) |
+| 7 · Personajes y popularidad | ✅ | Stitch el más querido (ventas, taquilla, rankings japoneses); Pleakley el secundario más querido; no hay encuesta oficial y se dice (§9) |
+| 8 · Doblaje latino y frases textuales | ⚠️ | Reparto 2002 y 2025 con dos fuentes (Doblaje Wiki y The Dubbing Database), 2 nombres de 2025 corregidos (§10). Pero **la frase de la pared de fotos en latino no se encontró** y **el director de 2002 sigue en duda** (Tejedo o Moreno): quedaron en el «Sigue:» de la parte de voz. Sólo 2 frases latinas textuales, de listas oficiales de Disney Latino, no de clip con minuto |
+| 9 · Música y sonido | ✅ | Créditos leídos en pantalla (intérpretes, coro y su directora, orquestadores), tema por escena con minuto, silencio del Patito Feo, *featurette* 2025 (§11, §11.1). Onomatopeyas: la película casi no tiene; dicho |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | 6 vídeos mirados con minuto (§12.1). Los de YouTube y TikTok de §12.2 siguen **sin mirar** (YouTube pedía iniciar sesión; TikTok no abre desde el servidor) |
+| 11 · Videojuegos | ✅ | Lista completa con dos fuentes (§13.1); pantalla de título del GBA vista; ningún juego tiene cuadro de diálogo propio. Capturas de juego y la caja de Dreamlight Valley, sin ver (403) |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | Memes, Stitch Day, la hamaca, «está tocándome»; qué no hacer ampliado con la escena cortada de los turistas y los patrones hawaianos (§14) |
+| 13 · Personajes a fondo y su cara en cada emoción | ⚠️ | Carácter, arco, miedos, qué transmite y dinámicas, hecho (§8, §8.1). **Caras con fotograma: 14 de 25** (§8.2). Faltan miedo y vergüenza de Jumba y Pleakley, rabia y miedo de Lilo, miedo y vergüenza de Nani, y el resto de Jumba y Pleakley: el «Sigue:» de la parte de voz, que ya no se relanza. Stitch no muestra miedo ni vergüenza en pantalla |
+| 14 · Poses analizadas con minuto | ⚠️ | 18 poses **vistas** con minuto y enlace, con su uso (presentar, explicar, celebrar, regañar, pensar, animar) (§15.1). Las de la lista de Elvis, el ukelele y Stitch-Elvis siguen de memoria (sin clip) y Jumba tiene pocas |
+| 15 · Vestuario con hex medidos | ⚠️ | Hex medidos de Stitch, Lilo, Nani y Pleakley, y variantes por escena (§16.1). Sin hex de Jumba, Cobra y David, y el azul plano de Stitch sin medir (sólo con luz de atardecer o de escenario) |
+| 16 · Paisajes y fondos de pantalla con tamaño y autor | ✅ | 8 fondos oficiales con tamaño de la API y 10 de fans con autor y tamaño (§17.1, §17.2) |
+| 17 · Guía para IA de imagen y de texto | ✅ | Rasgos, paleta medida, línea, luz, encuadre, *prompt*, palabras que ayudan y estropean, gestos por emoción con fotograma, referencias de estilo y pose; voz de cada personaje y frases reales por emoción (§18, §18.7, §18.8) |
+| 18 · Estilo de dibujo y cómo replicarlo | ✅ | Entrevistas con citas (Sluiter, Howard, Nichols, Felix, DeBlois), receta para Photoshop y Blender, encuadres. Falta sólo el nombre del programa de color digital (Punto 18) |
+| 19 · Texturas 2D | ⚠️ | Emblema, estampado del vestido, patrones oficiales, papel y sal (Punto 19). **No hay estampado hawaiano ni kapa CC0**: sólo bases de tela lisa |
+| 20 · Gustos y detalles | ⚠️ | Tabla de gustos de los 5 con fuente y cruces con la película (Punto 20). Todo de una wiki de fans; **sin cumpleaños oficiales** y sólo la altura de Stitch (una fuente) |
+| 21 · Por qué la aman | ⚠️ | Razones con fuente y 7 escenas con minuto, música y cómo están hechas (Punto 21). Falta la reacción medida (vídeos de reacción y comentarios con votos): YouTube y TikTok no dejaron |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 3 fandubs con vistas medidas con yt-dlp y el meme «está tocándome» (Punto 22). Vistas del cover y escena exacta de cada fandub, sin medir |
+| 23 · Colaboraciones y cruces | ✅ | Más de 12 colaboraciones con fuente: Lorcana, KH, Marvel, Funko, Loungefly, Crocs, parques, cafés; figuras y cosplay oficial vistos en hojas (Punto 23). Fortnite sólo filtración, dicho. Un dato de la parte de imagen retirado (KH III) |
+| 24 · Obras parecidas | ✅ | Totoro y E.T. con cita, las tres relecturas asiáticas con fuentes en japonés, y las láminas del servidor que se parecen (Doraemon, Big Hero 6, Scooby-Doo) (Punto 24) |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas en cinco líneas, historia por arcos, objetos y glosario (Punto 25). Sin escudo de la Federación |
+| Conceptos de lámina (3) | ✅ | A la pared de Lilo, B el álbum de *ohana*, C las diapositivas de Pleakley, con referencias vistas (§19) |
+| Fuentes distintas (mínimo 40) | ✅ | Más de 120 webs distintas enlazadas (`revisar.py`) |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | Oficiales, entrevistas del staff, japonés, chino y coreano, wikis, TV Tropes, arte, vídeo, GitHub, Sketchfab, doblaje: sí. **Reddit** sólo citado de segunda mano; **Wayback Machine** no se usó; **TCRF** y MobyGames dieron 403 en la 2.ª pasada; **ANMTV**, no |
+| Hojas de contacto (3) | ✅ | 3 JPEG de menos de 1 MB, miradas, con qué número sirve para qué («Las hojas de contacto») |
+| `referencias.json` (mínimo 20) | ✅ | Todas las útiles de las partes y de `datos.json`, las mejores primero, con tamaño medido donde se pudo |
 
 ---
 
