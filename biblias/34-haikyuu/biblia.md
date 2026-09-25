@@ -22,6 +22,9 @@ fecha: 2026-09-24
 >   API, ANMTV, créditos de Max en pantalla, wiki en español).
 > - ✅ = dos fuentes o visto con minuto; ⚠️ = una sola fuente o sin
 >   comprobar. Lo que falta está en §20 y en la tabla de cumplimiento.
+> - **Segunda pasada (24 y 25-sep-2026)**: repaso corto con los puntos
+>   18-25 del encargo (P18-P25, entre §18 y §19). Ver «Segunda pasada ·
+>   qué cambió», justo debajo del índice.
 
 ## Índice
 
@@ -2642,7 +2645,7 @@ Todo lo que lleva ⚠️ en la biblia, junto y por orden de importancia.
 |---|---|---|
 | 3 conceptos de lámina | ✅ | Marcador (A), pizarra (B), formulario (C), cada uno con canal, objeto para Blender, pose, cuadro, textos y profundidad (§19) |
 | Canal propuesto | ✅ | #reto-de-la-semana, con dos reservas; choque con Naruto avisado (§0) |
-| Mínimo 40 fuentes | ✅ | **73 webs distintas enlazadas** (`revisar.py`, tras la segunda pasada; antes 31). Lista en §21 |
+| Mínimo 40 fuentes | ✅ | **83 webs distintas enlazadas** (`revisar.py`, tras la segunda pasada; antes 31). Lista en §21 |
 | Vídeos: opening, ending, tráiler y 3 escenas | ✅ | OP2, ED1, OP de T4, 2 tráileres, 5 escenas y 3 vídeos de juegos, fotograma a fotograma (§12.1) |
 | Colores medidos con Pillow | ✅ | Todos con su fotograma o imagen de origen (§5.2) |
 | Frases latinas textuales con vídeo y minuto | ⚠️ | Sí de los clips de Crunchyroll y de subidas de fan; faltan las escenas clave (§10.4) |
@@ -2807,8 +2810,8 @@ falta) y el redactor. Sus libretas completas están en `partes/`.
   scene».
 - Pillow: 13 imágenes medidas (escudos, uniformes, figuras, café).
 
-**Fuentes nuevas de la segunda pasada** (42 webs que no salían en la
-biblia; enlaces en P18-P25)
+**Fuentes nuevas de la segunda pasada** (52 webs que no salían en la
+biblia: de 31 a 83; enlaces en P18-P25)
 
 - **Producción y staff**: [Sakuga Blog](https://blog.sakugabooru.com/2020/02/04/the-evolution-of-haikyuus-exceptional-production-refining-reality/) ·
   [Wave Motion Cannon](https://wavemotioncannon.com/2016/12/22/interview-haikyuus-boya-liang/) ·
