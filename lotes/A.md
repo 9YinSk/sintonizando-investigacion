@@ -13,7 +13,7 @@ Sigue la sesión https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb · rama
 - 05 Oshi no Ko: **COMPLETA** y subida (23:1x). ✅31 ⚠️6 ❌0, 129 referencias, 108 webs, 3256 líneas.
 - 31 Demon Slayer: **COMPLETA** y subida (23:2x). ✅30 ⚠️7 ❌0, 252 referencias, 84 webs, 2544 líneas.
 - 32 Jujutsu Kaisen: **COMPLETA** y subida (01:1x). ✅31 ⚠️3 ❌0, 52 referencias, 97 webs, 2772 líneas.
-- 33 Frieren: partes listas; redactor (Opus, repaso corto) en marcha.
+- 33 Frieren: **COMPLETA** y subida (02:16). ✅30 ⚠️7 ❌0, 163 referencias, 89 webs, 2647 líneas.
 - 34 Haikyuu: partes listas; redactor (Opus, repaso corto) en marcha.
 - 35 One Punch Man: COMPLETA.
 - 36 Hunter x Hunter (nueva): partes listas; redactor (Opus) retomado desde §18 (el anterior
@@ -25,6 +25,15 @@ Ojo: dos cuentas trabajaron el lote A a la vez (`cool-keller` relanzada a la 01:
 subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
 
 ## Avisos para el dueño
+
+- 33 Frieren: más querida, Frieren (1.ª en 2026 con un voto por persona); Himmel ganó
+  2022 y 2024 y su escena del anillo (T1-14 ≈19:35) es la más votada. Cuadro de diálogo
+  propio: la cartela de los tráileres (fondo blanco, niebla cian, mincho gris `#606A73`,
+  sin marco). Láminas: A #recursos «La colección de grimorios» (recomendada), B #poemas
+  «El diario de Himmel», C #eventos «Los meteoros de Era». **Choque:** B pide #poemas,
+  que ya propone Violet Evergarden (22): decide usted. Quedan ⚠️ vistas de TikTok y de
+  los covers, tela de los cosplays (Wikimedia 429), Uniqlo/GU sin confirmar y el sentido
+  del Emblema Sagrado (las partes no coinciden).
 
 - 02: quedan ⚠️ el punto 20 (comida favorita de Erwin, Hange, Eren y Mikasa: no
   encontrada) y el 22 (vistas de fan dubs en YouTube sin comprobar: pide iniciar
@@ -73,3 +82,4 @@ subidas como COMPLETAS; las de `cool-keller` eran guardados a medias).
 | 04 | texto (`cool-keller`) | Sonnet | 11 | 172 mil |
 | 04 | imagen (`cool-keller`) | Sonnet | 12 | 185 mil |
 | 04 | voz (`cool-keller`, cortado al final, ya estaba completo) | Sonnet | ~15 | ? |
+| 33 | redactor (repaso corto) | Opus | 11 | 224 mil |
