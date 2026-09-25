@@ -1,0 +1,326 @@
+[
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke001.jpg",
+    "fuente": "Studio Ghibli oficial (ghibli.jp)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial de la película, uno de 50 liberados por el estudio en 2020",
+    "para_que": "Fondo limpio o plano de personaje en alta, punto 1 y 16",
+    "licencia": "Uso libre 'dentro del sentido común', no comercial explícito, sin redistribuir el archivo"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke025.jpg",
+    "fuente": "Studio Ghibli oficial (ghibli.jp)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial de la película (nº 25 de 50)",
+    "para_que": "Escena o pose adicional para lámina, punto 1",
+    "licencia": "Uso libre 'dentro del sentido común'"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke050.jpg",
+    "fuente": "Studio Ghibli oficial (ghibli.jp)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial de la película (nº 50 de 50)",
+    "para_que": "Escena o pose adicional para lámina, punto 1",
+    "licencia": "Uso libre 'dentro del sentido común'"
+  },
+  {
+    "url": "https://www.ghibli.jp/images/mononoke1.jpg",
+    "fuente": "Studio Ghibli oficial (ghibli.jp)",
+    "ancho": 1920,
+    "alto": 1081,
+    "que_es": "Fondo de pantalla oficial para videollamadas",
+    "para_que": "Fondo de pantalla oficial, punto 16",
+    "licencia": "Sólo uso personal/no comercial, no redistribuir el archivo, se permite recortar"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164-ySuGzCWVw2cL.jpg",
+    "fuente": "AniList",
+    "ancho": 460,
+    "alto": 650,
+    "que_es": "Portada oficial de la película en AniList",
+    "para_que": "Arte oficial, punto 1",
+    "licencia": "Mirror de material oficial, ver términos de AniList"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164-Aj6MINy7VTfs.jpg",
+    "fuente": "AniList",
+    "ancho": 1600,
+    "alto": 900,
+    "que_es": "Banner oficial de la película en AniList",
+    "para_que": "Arte oficial panorámico, punto 1",
+    "licencia": "Mirror de material oficial, ver términos de AniList"
+  },
+  {
+    "url": "https://archive.org/details/artof-mononoke",
+    "fuente": "Internet Archive (escaneo del artbook)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Escaneo completo de 'The Art of Princess Mononoke' (artbook oficial de Miyazaki)",
+    "para_que": "Arte oficial variado (bocetos, fondos, cels), punto 1",
+    "licencia": "Escaneo de libro con derechos; revisar términos de Internet Archive antes de reusar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/0/06/San_HD.jpg",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma grande de San, escena nocturna",
+    "para_que": "Vestuario y paleta de San, punto 15 (hex medidos con estilo.py)",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom (fair use editorial)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/6f/San_hi_koality.jpg",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma grande de San con la capa de piel visible",
+    "para_que": "Vestuario y paleta de San, punto 15 (hex medidos con estilo.py)",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/64/Ashitaka_1.jpg",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma grande de Ashitaka",
+    "para_que": "Vestuario de Ashitaka, punto 15",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/8/8e/Ashitaka_looks.jpg",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 1504,
+    "alto": 846,
+    "que_es": "Primer plano de día de Ashitaka",
+    "para_que": "Paleta de piel y túnica, punto 15 (hex medidos con estilo.py)",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c9/Cursed_Arm.png",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 1366,
+    "alto": 738,
+    "que_es": "Primer plano del brazo maldito de Ashitaka con las marcas de la maldición",
+    "para_que": "Textura 2D icónica (patrón de la maldición), punto 19",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/8/87/Moro.jpg",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma grande de Moro",
+    "para_que": "Vestuario/pelaje de Moro, punto 15",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/ae/Eboshi_%282%29.png",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 627,
+    "alto": 648,
+    "que_es": "Primer plano de Lady Eboshi",
+    "para_que": "Vestuario/kimono de Eboshi, punto 15 (hex medidos con estilo.py)",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/7/7d/Mononoke_Forest.jpg",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 2048,
+    "alto": 850,
+    "que_es": "Panorámica del bosque de los espíritus de día",
+    "para_que": "Paleta y luz del bosque, punto 16",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/5/58/Deer_God_Transforming.jpeg",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "El Dios Ciervo transformándose de noche",
+    "para_que": "Paleta nocturna azul del bosque, punto 16",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e4/Princess_Mononoke_Screenshot_3089.jpg",
+    "fuente": "Fandom (ghibli.fandom.com)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Interior del templo de Irontown de noche",
+    "para_que": "Paleta y luz de Irontown, punto 16",
+    "licencia": "Captura de la película, uso bajo licencia de la wiki Fandom"
+  },
+  {
+    "url": "https://safebooru.org/images/1670/08d15960503016067f9573551803e1f4de4f6a7d.jpg",
+    "fuente": "Safebooru / Twitter (hammar_dobucof)",
+    "ancho": 2048,
+    "alto": 1588,
+    "que_es": "Fan art de San, el mejor puntuado del personaje en Safebooru",
+    "para_que": "Referencia de pose (fan art, nunca para pegar), punto 3",
+    "licencia": "Derechos del autor original; sólo como referencia de estilo/pose"
+  },
+  {
+    "url": "https://safebooru.org/images/777/be418205801ab09059db966ab584048464555621.jpg",
+    "fuente": "Safebooru / Pixiv (caramelo)",
+    "ancho": 1337,
+    "alto": 699,
+    "que_es": "Fan art de Ashitaka, el mejor puntuado del personaje en Safebooru",
+    "para_que": "Referencia de pose (fan art, nunca para pegar), punto 3",
+    "licencia": "Derechos del autor original; sólo como referencia de estilo/pose"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-2981b7c17eaa4978880801e913f3ce03",
+    "fuente": "Sketchfab (patrakeevasveta)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de un kodama (espíritu del bosque)",
+    "para_que": "Referencia 3D con licencia libre, punto 3",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-c33d11c71fd245ec9855e207dc6701be",
+    "fuente": "Sketchfab (brundolf)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D 'Forest Deity', similar al Dios Ciervo/Shishigami",
+    "para_que": "Referencia 3D con licencia libre, punto 3",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-c80934d58a74424192a8cd7aa0dbf0dc",
+    "fuente": "Sketchfab (raven-woods)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D 'Deer God'",
+    "para_que": "Referencia 3D con licencia libre, punto 3",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-ce144a94070d45be8cf344c0313266b7",
+    "fuente": "Sketchfab (flioink)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de máscara de lobo",
+    "para_que": "Referencia 3D para la máscara de San/Moro, punto 3",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-83ca4c9081564ae39425c23e2c244d7f",
+    "fuente": "Sketchfab (chakib2456) — ya en datos-imagen.md",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D 'spirit' inspirado en Mononoke",
+    "para_que": "Referencia 3D con licencia libre, punto 3",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-8d58161d9506468d87e70c5ea8c754d7",
+    "fuente": "Sketchfab (remoj) — ya en datos-imagen.md",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de la máscara de San",
+    "para_que": "Referencia 3D con licencia libre, punto 3",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "AmbientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de grano de papel, CC0",
+    "para_que": "Textura 2D equivalente (grano de papel), punto 19",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric061",
+    "fuente": "AmbientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de tela, CC0",
+    "para_que": "Patrón de ropa equivalente (San/Ashitaka/Eboshi), punto 19",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Bark014",
+    "fuente": "AmbientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de corteza de árbol, CC0",
+    "para_que": "Base para simular el patrón de la maldición y troncos del bosque, punto 19",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://www.brusheezy.com/brushes/1183-sumi-ink-brushes",
+    "fuente": "Brusheezy",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Set de pinceles de tinta sumi-e para Photoshop",
+    "para_que": "Pinceladas equivalentes al estilo pintado a mano, punto 19",
+    "licencia": "Gratis, según la ficha del recurso"
+  },
+  {
+    "url": "https://www.uniqlo.com/us/en/products/E480855-000/00",
+    "fuente": "Uniqlo (tienda oficial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Sudadera de la colaboración UNIQLO UT x Studio Ghibli 2025 con diseño de Mononoke",
+    "para_que": "Colaboración/merchandising oficial, punto 23",
+    "licencia": "Producto oficial con licencia de Studio Ghibli"
+  },
+  {
+    "url": "https://ghibli-park.jp/en/info/info20230720.html",
+    "fuente": "Ghibli Park (web oficial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Anuncio oficial de la apertura de Mononoke Village en Ghibli Park",
+    "para_que": "Colaboración/evento oficial (recreación 3D del pueblo), punto 23",
+    "licencia": "Página oficial del parque"
+  },
+  {
+    "url": "https://p-bandai.com/us/series/princessmononoke/",
+    "fuente": "Premium Bandai (tienda oficial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Catálogo oficial de figuras y merchandising de Princess Mononoke",
+    "para_que": "Figuras oficiales (referencia de pose 3D), punto 23",
+    "licencia": "Tienda oficial con licencia"
+  },
+  {
+    "url": "https://www.tiffanygordoncosplay.com/san-princess-mononoke",
+    "fuente": "Tiffany Gordon Cosplay",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Cosplay de San con notas de construcción del traje y la máscara",
+    "para_que": "Cosplay bien hecho (materiales y volumen reales), punto 23",
+    "licencia": "Trabajo del cosplayer, citar como referencia"
+  },
+  {
+    "url": "https://www.instructables.com/Princess-Mononoke-Costume/",
+    "fuente": "Instructables",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Guía paso a paso (9 pasos) de construcción del disfraz de San: PVC, madera, goma EVA",
+    "para_que": "Materiales y volumen reales para el disfraz, punto 23",
+    "licencia": "Tutorial público, citar autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/z8/wallhaven-z8zkmw.jpg",
+    "fuente": "Wallhaven (Anato Finnstark / ArtStation)",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla de fans más votado (bosque con ciervo)",
+    "para_que": "Fondo de pantalla de fans en alta, punto 16",
+    "licencia": "Derechos del autor original, ver ArtStation"
+  },
+  {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%AE%E3%81%AE%E3%81%91%E5%A7%AB_%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF",
+    "fuente": "Wikipedia (japonés)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la banda sonora de Joe Hisaishi, con la portada del vinilo 2020",
+    "para_que": "Arte oficial de la BSO, punto 1",
+    "licencia": "Wikipedia, ver la portada en la tienda oficial (Tower Records/Oricon)"
+  }
+]

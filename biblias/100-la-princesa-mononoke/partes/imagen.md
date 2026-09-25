@@ -31,6 +31,15 @@ colores medidos, texturas 2D y colaboraciones/cosplay/figuras.
 - **Artbook de fondos** «男鹿和雄画集Ⅱ» del director de arte Kazuo Oga (fondos de Mononoke +
   Pom Poko, organizado por técnica): https://www.ghibli-museum-shop.jp/i/9784198620745 · ⚠️ (una
   fuente, tienda oficial).
+- **Single del tema principal**: 米良美一 (Mera Yoshikazu) — «もののけ姫», TKCA-72759, con el tema y
+  su versión instrumental; reeditado como maxi-single el 27-oct-2004 (734 yenes). Ficha con portada:
+  https://store.shopping.yahoo.co.jp/onhome/tkca-72759.html · ✅ (Yahoo Shopping/onHOME + recochoku
+  https://recochoku.jp/song/S20322586/).
+- **Arte de videojuegos: no aplica**. Busqué "Princess Mononoke video game official Ghibli
+  licensed" y no hay ningún videojuego con licencia oficial de Studio Ghibli sobre esta película (a
+  diferencia de "Ni no Kuni", que Ghibli sólo animó, con control creativo de Level-5). Lo que sí
+  existe es "Soulframe" (Digital Extremes), inspirado libremente en Mononoke pero sin licencia; y un
+  remix fan de 8-bit de CineFix (no oficial). No lo cuentes como mercancía oficial.
 - **Banda sonora** de Joe Hisaishi (Tokuma Japan, 2-jul-1997, 33 pistas, Tokyo City Philharmonic):
   primera edición en vinilo LP en 2020, remasterizada, con **portada nueva**: 
   https://ja.wikipedia.org/wiki/もののけ姫_サウンドトラック · ✅ (Wikipedia JA + Oricon
@@ -186,6 +195,13 @@ color plano — el % es la proporción de píxeles de ese tono en la imagen ente
   ficha — "Sumi Ink Brushes" (https://www.brusheezy.com/brushes/1183-sumi-ink-brushes) y "82 Sumi
   Strokes" (https://www.brusheezy.com/brushes/21160-82-sumi-strokes). ✅ (dos fichas de Brusheezy,
   ambas explícitas en su licencia "free").
+- **Tramas de manga**: Mononoke **no tiene manga dibujado a mano** (no es una adaptación de manga
+  como Nausicaä); lo que existe es el «フィルムコミック もののけ姫 完全版» (Film Comic, Tokuma
+  Shoten/Animage Comics Special, 5 tomos): usa fotogramas reales de la película recortados en viñetas,
+  con los diálogos en bocadillos — **no hay tramas (screentone) dibujadas**, es fotografía de cine
+  montada como cómic. https://www.tokuma.jp/book/b503719.html · ✅ (Tokuma Shoten oficial + Kinokuniya
+  https://www.kinokuniya.co.jp/f/dsg-01-9784197700745). Útil para el punto 6 del compañero de texto
+  (cómo se ven los bocadillos), no para tramas 2D.
 - **Emblemas y logos**: **no encontré** un escudo o emblema heráldico oficial de Irontown ni del clan
   del lobo — la película pasa en el Japón del periodo Muromachi y no usa heráldica tipo occidental.
   Busqué "emblem", "crest", "insignia" en el texto de la wiki (búsqueda de texto en inglés) y en las
@@ -278,10 +294,11 @@ color plano — el % es la proporción de píxeles de ese tono en la imagen ente
   2023 2024"; ""San" Princess Mononoke cosplay award winning craftsmanship"; "Princess Mononoke Bandai
   Figuarts Zero Boar God OR Shishigami figure"; "Princess Mononoke GKIDS Blu-ray cover art"; "Princess
   Mononoke video game crossover collaboration gacha OR Fortnite OR skin"; "sumi-e ink brush texture
-  pack free CC0 Procreate Photoshop".
+  pack free CC0 Procreate Photoshop"; "Princess Mononoke video game official Ghibli licensed".
 - Japonés (WebSearch): "もののけ姫 画集 スタジオジブリ 表紙"; "もののけ姫 サントラ 久石譲 アルバム
   ジャケット"; "スタジオジブリ 壁紙 無料 配布 公式 もののけ姫"; "ghibli.jp 高解像度 場面写真 もののけ姫
-  無料提供 使用条件".
+  無料提供 使用条件"; "もののけ姫 コミック版 漫画 スクリーントーン フィルムコミック"; "もののけ姫 主題歌
+  米良美一 シングル CD ジャケット".
 - Directo (sin buscador, cuota de 50 búsquedas ahorrada): API de Fandom (`ghibli.fandom.com/api.php`)
   para el wikitext de San, Lady Eboshi, Irontown, Emishi y Nightwalker; `ghibli.jp` (páginas de
   novedades 013251, 013344, 013358, 013772, y la página de la obra `/works/mononoke/`) para confirmar
