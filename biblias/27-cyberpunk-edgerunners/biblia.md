@@ -2171,10 +2171,11 @@ inglés); no digo que no exista.
 Duraciones de la [wiki](https://cyberpunk.fandom.com/wiki/Cyberpunk:_Edgerunners#Episodes) ✅.
 
 **Arco 1 · De la calle a edgerunner (ep. 1-4)**
-- ep. 1 «Let You Down» (24:14): David, hijo de Gloria, en H4; se pone la
-  Sandevistan; muere su madre.
-- ep. 2 «Like A Boy» (24:12): venganza en la Academia Arasaka; conoce a
-  Lucy en el tren; la luna del BD (19:30).
+- ep. 1 «Let You Down» (24:14): David y Gloria en H4; muere su madre;
+  «It's high time I chromed up» (22:22).
+- ep. 2 «Like A Boy» (24:12): Doc le pone la Sandevistan (00:11); venganza
+  en la Academia Arasaka; conoce a Lucy en el tren (07:46); la luna del BD
+  (19:30).
 - ep. 3 «Smooth Criminal» (24:20): entra en el equipo de Maine.
 - ep. 4 «Lucky You» (24:12): Lucy lo entrena; la promesa de la luna (21:54).
 
@@ -2344,6 +2345,32 @@ latino ✅ clip). El tren elevado es un sitio que el jugador reconoce.
   al fondo.
 - **Lámina 2**: el **mismo panel** con la tabla de horas por país
   (encaja de forma natural: es un horario).
+
+### Mejoras de la segunda pasada (sin cambiar los tres conceptos)
+
+- **A · la recreativa**: luz del charco sacada de la pelea bajo la lluvia
+  que abre la serie (ep. 1, 0:24-0:56, §2.6): azul de sirena `#3C6C9C`
+  con un toque malva `#906C84` sobre negro azulado `#000C24` (§5.5).
+  En el costado de la máquina, **pegatinas de corporaciones recreadas**
+  (Arasaka, Militech, Kiroshi, Trauma Team, Punto 19), como la «Corporate
+  Jacket» de Nonsense (Punto 23). Encima, un detalle tierno: un **cachorro
+  de peluche** (a Rebecca le pierden los perros) o la **bolsa de gofres**
+  de Lucy (Punto 20). La escopeta apoyada se llama **Guts**: si se rotula
+  algo en ella, ese nombre.
+- **A · frase opcional** en un cartelito de la marquesina, con dato real:
+  «La serie que llenó Night City de jugadores otra vez» (de 15.000 a más
+  de 85.000 en Steam en 24 horas, Punto 21).
+- **B · el Afterlife**: nueva pose para quien lleve la carta: **Lucy
+  apoyada de espaldas en la barra**, relajada (figura de Prime 1 Studio,
+  [Sideshow](https://www.sideshow.com/collectibles/cyberpunk-2077-lucy-prime-1-studio-914452)),
+  la pose de «esperar a que se arme la partida». Maine tiene ahora
+  fotograma para su frase: **de espaldas en la barra, capucha roja
+  subida, ep. 3, 18:00**, justo cuando dice «Everybody gets a fair shake»
+  (18:02), §15.
+- **C · el NCART**: sin cambios. Si se quiere un verde, el del HUD
+  `#0C5400`, nunca el verde de la luna (§5.5).
+- **Para las tres**: nada de estampados en la ropa, nada de burbuja; la
+  violencia, si sale, fuera de cuadro (§14.3).
 
 ### ¿Cuál primero?
 

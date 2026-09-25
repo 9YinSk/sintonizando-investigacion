@@ -171,6 +171,15 @@
     "licencia": "CC Attribution (crédito a Maxime66410), confirmado por la API de Sketchfab"
   },
   {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "AmbientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de papel CC0 (serie Paper001-006), para grano encima del render/compuesto",
+    "para_que": "Punto 18: textura libre para poner encima del shader/render en Photoshop o Blender",
+    "licencia": "CC0"
+  },
+  {
     "url": "https://madegooddesigns.com/jojos-bizarre-adventure-font/",
     "fuente": "Made Good Designs",
     "ancho": null,

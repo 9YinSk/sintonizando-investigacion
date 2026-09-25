@@ -136,6 +136,27 @@ Las más relevantes para una lámina (marcas, arte nuevo, poses nuevas):
 | **KFC × JOJO** (China) | 27 oct 2023 | Restaurantes de KFC en Shanghái y Pekín con decoración temática de Stone Ocean, cajas y coleccionables exclusivos; lema «JO-level Flavor» | ✅ ([JoJo Wiki: KFC × JOJO](https://jojowiki.com/KFC_%C3%97_JOJO), [X/Twitter oficial del anime](https://x.com/anime_jojo/status/1715956325698740329)) |
 | **Uniqlo/GU × JoJo** | 2006 (Uniqlo) y 27 feb 2026 (GU) | Camisetas con arte de las partes 1-7 (de Phantom Blood a Steel Ball Run) | ⚠️ (una fuente concreta con fecha del anuncio de GU 2026 no confirmada en dos fuentes independientes; el tuit de Araki de 2006 sí es de una cuenta verificada) |
 
+**Cafés temáticos** (menú y decoración con arte nuevo) ✅
+
+- **JOJO CAFE** (Animax Cafe+, Harajuku): 12 abr-12 may 2019, tema Golden
+  Wind, comida y bebida con los diseños de Bucciarati y su banda; parte de la
+  «Golden Wind Campaign in Harajuku» ✅ ([JoJo Wiki: JOJO CAFE](https://jojowiki.com/JOJO_CAFE)).
+- **Stone Ocean Collaboration Café** (Animax Cafe+, CoLaBoNo, Osaka): 1 jun-13
+  jul 2022, tema Stone Ocean, en 3 locales distintos de Japón ✅
+  ([JoJo Wiki: Stone Ocean Collaboration Café](https://jojowiki.com/JoJo%27s_Bizarre_Adventure_Stone_Ocean_Collaboration_Caf%C3%A9)).
+- **No hay colaboración real con Fortnite** (lo comprobé porque lo pide el
+  encargo como ejemplo): en enero de 2023 Fortnite sacó un skin original
+  llamado «Hana» que los fans señalaron como calcado de Jolyne Cujoh, pero
+  Epic Games nunca lo presentó como cruce oficial ✅ ([Hypebeast](https://hypebeast.com/2023/1/fortnite-skin-hana-keleritas-jojos-bizarre-adventure-stone-ocean-jolyne-cujoh),
+  [GameRevolution](https://www.gamerevolution.com/guides/714226-fortnite-x-jojo-collab-jojos-bizarre-adventure-skins-outfits)).
+  Los «anuncios» de un crossover que circulan en TikTok son montajes de fans,
+  no oficiales.
+- ⚠️ No encontré una colaboración con un juego **gacha** de otra franquicia
+  (tipo Fate/Grand Order o Puzzle & Dragons); JoJo tiene sus propios juegos
+  (ya cubiertos por el investigador de texto/juegos, punto 11), pero no un
+  cruce dentro de un gacha ajeno. Búsqueda hecha: «JoJo's Bizarre Adventure
+  gacha collaboration crossover».
+
 **Figuras oficiales** (referencia de pose 3D real, no fan-made) ✅
 
 - **Medicos Entertainment — Super Action Statue (S.A.S)**: la línea oficial

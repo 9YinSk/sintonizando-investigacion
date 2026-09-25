@@ -164,6 +164,12 @@ aplicada al estilo descrito arriba):
 - También hay varios modelos estáticos de Jotaro en CC Attribution (sin
   rig, para referencia de forma): p. ej. «Jotaro from JOJO» y «Jotaro Kujo
   (JoJo)», ambos CC BY · [Sketchfab: búsqueda "jojo jotaro"](https://sketchfab.com/search?q=jojo+jotaro&type=models) · ⚠️ (no comprobé rig/animación de éstos, sólo el primero)
+- **Textura encima del render** (lo que pide el punto 18 tras el shader):
+  para dar «grano de papel» al compuesto final, hay materiales CC0 listos
+  en AmbientCG (`Paper001` a `Paper006`), que se pueden meter como capa de
+  textura en modo Multiplicar sobre el render de Blender o el compuesto de
+  Photoshop, igual que se hace con las texturas de fondo del punto 4 ·
+  [AmbientCG: Paper001](https://ambientcg.com/view?id=Paper001) · ✅ (CC0, API propia de AmbientCG)
 
 **Encuadres y composición típicos** (de lo ya visto en video/imagen y
 confirmado en las citas de Araki de arriba): planos cerrados en el
