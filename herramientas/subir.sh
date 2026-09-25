@@ -87,7 +87,7 @@ if git diff --cached --quiet; then
   echo "Nada nuevo que subir en $dir"; exit 0
 fi
 git commit -q -m "$msg" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01TveMHTy85SKiqE5NxgSVyw"
+Claude-Session: https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb"
 
 for espera in 0 2 4 8 16; do
   sleep "$espera"
