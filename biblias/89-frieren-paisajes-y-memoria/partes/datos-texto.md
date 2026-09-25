@@ -10,7 +10,7 @@ No repitas estas consultas: sigue desde aquí y busca lo que falta.
 _Fuente: https://anilist.co/anime/154587_
 
 - Títulos: Sousou no Frieren · Frieren: Beyond Journey’s End · 葬送のフリーレン · también: Frieren at the Funeral, 장송의 프리렌, Frieren - Oltre la Fine del Viaggio, คำอธิษฐานในวันที่จากลา Frieren, Frieren e a Jornada para o Além, Frieren – Nach dem Ende der Reise
-- Formato TV, año 2023, episodios 28, capítulos None, estado FINISHED, nota media 91, popularidad 483010, favoritos 56353
+- Formato TV, año 2023, episodios 28, capítulos None, estado FINISHED, nota media 91, popularidad 483340, favoritos 56353
 - Estudio: MADHOUSE · géneros: Adventure, Drama, Fantasy
 - Sinopsis: The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure… · · (Source: Crunchyroll)
 - Temas y rasgos (etiquetas, % de acuerdo): Travel 96%, Magic 95%, Elf 91%, Female Protagonist 85%, Philosophy 84%, Medieval 82%, Found Family 79%, Kuudere 75%, Demons 71%, Shounen 71%, Foreign 69%, Iyashikei 63%, Adoption 61%, Rural 60%, Heterosexual 58%, Aromantic 58%, Dungeon 56%, Asexual 55%, Episodic 54%, Religion 47%, Rotoscoping 47%, Snowscape 43%, Spearplay 42%, Dragons 38%, CGI 37%, Food 36%, Horticulture 30%
@@ -47,15 +47,15 @@ _Fuente: https://anilist.co/anime/154587/staff_
 ## Obras parecidas (recomendaciones de usuarios de AniList)
 _Fuente: https://anilist.co/anime/154587_
 
-- Violet Evergarden (TV, nota 85) · votos 1186
+- Violet Evergarden (TV, nota 85) · votos 1187
 - Delicious in Dungeon (TV, nota 85) · votos 765
 - Wandering Witch: The Journey of Elaina (TV, nota 74) · votos 502
 - To Your Eternity (TV, nota 81) · votos 423
 - Witch Hat Atelier (ONA, nota 85) · votos 397
 - MUSHI-SHI (TV, nota 85) · votos 298
 - The Apothecary Diaries (TV, nota 88) · votos 271
+- Kino's Journey (TV, nota 81) · votos 256
 - Girls' Last Tour (TV, nota 81) · votos 256
-- Kino's Journey (TV, nota 81) · votos 255
 - Maquia: When the Promised Flower Blooms (MOVIE, nota 82) · votos 233
 - Spice and Wolf: MERCHANT MEETS THE WISE WOLF (TV, nota 79) · votos 193
 - Secrets of the Silent Witch (TV, nota 81) · votos 180

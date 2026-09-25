@@ -95,23 +95,23 @@ _Fuente: https://doblaje.fandom.com/es/wiki/KONOSUBA_-God%27s_blessing_on_this_w
 |  | Darkness | Ai Kayano | Mireya Mendoza |  |  |  |
 |  | Darkness | Ai Kayano | Mildred Barrera |  |  |  |
 
-## Los personajes más dibujados por los fans (Danbooru, 22359 dibujos de «kono_subarashii_sekai_ni_shukufuku_wo!»)
+## Los personajes más dibujados por los fans (Danbooru, 22360 dibujos de «kono_subarashii_sekai_ni_shukufuku_wo!»)
 _Fuente: https://danbooru.donmai.us/posts?tags=kono_subarashii_sekai_ni_shukufuku_wo%21_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. artoria_pendragon_(fate) · 46262 dibujos
-2. frieren · 16292 dibujos
-3. megumin · 10878 dibujos
-4. rem_(re:zero) · 10293 dibujos
+1. artoria_pendragon_(fate) · 46263 dibujos
+2. frieren · 16294 dibujos
+3. megumin · 10879 dibujos
+4. rem_(re:zero) · 10295 dibujos
 5. aqua_(konosuba) · 6801 dibujos
-6. emilia_(re:zero) · 5305 dibujos
+6. emilia_(re:zero) · 5306 dibujos
 7. satou_kazuma · 3725 dibujos
 8. darkness_(konosuba) · 3584 dibujos
-9. ram_(re:zero) · 3551 dibujos
-10. natsuki_subaru · 3444 dibujos
-11. roxy_migurdia · 2714 dibujos
+9. ram_(re:zero) · 3554 dibujos
+10. natsuki_subaru · 3447 dibujos
+11. roxy_migurdia · 2715 dibujos
 12. yunyun_(konosuba) · 1743 dibujos
-13. albedo_(overlord) · 1577 dibujos
+13. albedo_(overlord) · 1578 dibujos
 14. tanya_degurechaff · 1461 dibujos
 15. wiz_(konosuba) · 1191 dibujos
 16. chomusuke · 1081 dibujos
