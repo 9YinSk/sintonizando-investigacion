@@ -35,7 +35,7 @@ log(`plan: ${items.map(i => `${i.id} (${i.modo})`).join(', ') || 'nada que hacer
 
 const etapaReco = async (_, it) => {
   if (it.modo !== 'nueva') return { estado: 'sigue' }
-  const r = await seguro(() => agent(`Serie ${it.id}.${hermana(it)}`, { label: `recolectar:${it.id}`, phase: 'Recolectar', schema: OK, agentType: 'recolector', effort: EF.aux }))
+  const r = await seguro(() => agent(ROL('recolector') + `Serie ${it.id}.${hermana(it)}`, { label: `recolectar:${it.id}`, phase: 'Recolectar', schema: OK, effort: EF.aux }))
   if (!r) return { estado: 'cortada', donde: 'recolectar' }
   return { estado: 'sigue' }
 }
@@ -46,21 +46,21 @@ const etapaInv = async (s, it) => {
   if (!roles.length) return s
   const modoDe = rol => it.modo === 'nueva' ? 'nueva' : (it.modo === 'repaso' || it.modo === 'repaso-corto') ? 'repaso' : (it.relanzar.includes(rol) ? 'seguir' : 'nueva')
   const nota = it.modo === 'repaso-corto' ? ' Repaso corto: sólo tus puntos de los 18-25, que son nuevos en el encargo y no están en la biblia; mira `python3 herramientas/seccion.py <id> --indice` para no repetir nada.' : ''
-  const r1 = await parallel(roles.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo ${modoDe(rol)}.${nota}${hermana(it)}`, { label: `inv:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
+  const r1 = await parallel(roles.map(rol => () => seguro(() => agent(ROL(`investigador-${rol}`) + `Serie ${it.id}, modo ${modoDe(rol)}.${nota}${hermana(it)}`, { label: `inv:${it.id}:${rol}`, phase: 'Investigar', schema: INV, effort: EF.inv }))))
   if (roles.some((_, i) => !r1[i])) return { ...s, estado: 'cortada', donde: `investigadores (${roles.filter((_, i) => !r1[i]).join(', ')})` }
   const pend = roles.filter((_, i) => r1[i].sigue_pendiente)
   if (pend.length) {
     log(`${it.id}: relanzo ${pend.join(', ')}`)
-    const r2 = await parallel(pend.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo relanzo.${hermana(it)}`, { label: `inv2:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
+    const r2 = await parallel(pend.map(rol => () => seguro(() => agent(ROL(`investigador-${rol}`) + `Serie ${it.id}, modo relanzo.${hermana(it)}`, { label: `inv2:${it.id}:${rol}`, phase: 'Investigar', schema: INV, effort: EF.inv }))))
     if (pend.some((_, i) => !r2[i])) return { ...s, estado: 'cortada', donde: 'relanzo' }
   }
   // medir las partes antes de pagar el redactor: lo flojo se relanza una vez más (modo seguir)
   if (it.modo !== 'repaso-corto') {
-    const rp = await seguro(() => agent(`Serie ${it.id}. Roles: ${roles.join(', ')}.`, { label: `revisor-partes:${it.id}`, phase: 'Investigar', schema: FLOJAS, agentType: 'revisor-partes', effort: EF.aux }))
+    const rp = await seguro(() => agent(ROL('revisor-partes') + `Serie ${it.id}. Roles: ${roles.join(', ')}.`, { label: `revisor-partes:${it.id}`, phase: 'Investigar', schema: FLOJAS, effort: EF.aux }))
     const flojas = rp ? rp.flojas.filter(f => roles.includes(f.rol) && !pend.includes(f.rol)) : []
     if (flojas.length) {
       log(`${it.id}: partes flojas: ${flojas.map(f => `${f.rol} (${f.por_que || ''})`).join(', ')}; un relanzo`)
-      const r3 = await parallel(flojas.map(f => () => seguro(() => agent(`Serie ${it.id}, modo seguir. Tu parte está floja según revisar_partes.py: ${f.por_que || 'corta'}. Completa lo obligatorio que falte de tus puntos, hasta 50 acciones.${hermana(it)}`, { label: `inv3:${it.id}:${f.rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${f.rol}`, effort: EF.inv }))))
+      const r3 = await parallel(flojas.map(f => () => seguro(() => agent(ROL(`investigador-${f.rol}`) + `Serie ${it.id}, modo seguir. Tu parte está floja según revisar_partes.py: ${f.por_que || 'corta'}. Completa lo obligatorio que falte de tus puntos, hasta 50 acciones.${hermana(it)}`, { label: `inv3:${it.id}:${f.rol}`, phase: 'Investigar', schema: INV, effort: EF.inv }))))
       if (flojas.some((_, i) => !r3[i])) return { ...s, estado: 'cortada', donde: 'relanzo de partes flojas' }
     }
   }
@@ -69,13 +69,13 @@ const etapaInv = async (s, it) => {
 const etapaRedactor = async (s, it) => {
   if (s.estado !== 'sigue') return s
   const modo = it.modo === 'repaso-corto' ? 'repaso-corto' : it.modo === 'repaso' ? 'repaso' : (it.biblia_existe ? 'seguir' : 'nueva')
-  const r = await seguro(() => agent(`Serie ${it.id}, modo ${modo}.${hermana(it)}`, { label: `redactor:${it.id}`, phase: 'Redactar', schema: RED, agentType: 'redactor', effort: EF.red }))
+  const r = await seguro(() => agent(ROL('redactor') + `Serie ${it.id}, modo ${modo}.${hermana(it)}`, { label: `redactor:${it.id}`, phase: 'Redactar', schema: RED, effort: EF.red }))
   if (!r) return { ...s, estado: 'cortada', donde: 'redactor' }
   return { ...s, estado: 'cerrar', red: `${r.resumen}${r.avisos ? ' · AVISOS: ' + r.avisos : ''}` }
 }
 const cierre = (ultimo) => async (s, it) => {
   if (s.estado !== (ultimo ? 'cerrar2' : 'cerrar')) return s
-  const r = await seguro(() => agent(`Serie ${it.id}, lote ${it.lote}.${ultimo ? ' Es el intento final.' : ''} Resumen y avisos del redactor: «${(s.red || '').replace(/`/g, "'").slice(0, 1500)}»`, { label: `${ultimo ? 'cierre2' : 'cierre'}:${it.id}`, phase: 'Cerrar', schema: CIERRE, agentType: 'cierre', effort: EF.aux }))
+  const r = await seguro(() => agent(ROL('cierre') + `Serie ${it.id}, lote ${it.lote}.${ultimo ? ' Es el intento final.' : ''} Resumen y avisos del redactor: «${(s.red || '').replace(/`/g, "'").slice(0, 1500)}»`, { label: `${ultimo ? 'cierre2' : 'cierre'}:${it.id}`, phase: 'Cerrar', schema: CIERRE, effort: EF.aux }))
   if (!r) return { ...s, estado: 'cortada', donde: 'cierre' }
   if (r.completa && r.subido) { log(`${it.id}: COMPLETA y subida`); return { ...s, estado: 'completa' } }
   if (ultimo) { log(`${it.id}: se queda a medias (${r.falta})`); return { ...s, estado: 'a medias', falta: r.falta } }
@@ -84,7 +84,7 @@ const cierre = (ultimo) => async (s, it) => {
 }
 const etapaReparo = async (s, it) => {
   if (s.estado !== 'reparar') return s
-  const r = await seguro(() => agent(`Serie ${it.id}, modo reparo. Falta según revisar.py: «${s.falta}».${hermana(it)}`, { label: `reparo:${it.id}`, phase: 'Redactar', schema: RED, agentType: 'redactor', effort: EF.red }))
+  const r = await seguro(() => agent(ROL('redactor') + `Serie ${it.id}, modo reparo. Falta según revisar.py: «${s.falta}».${hermana(it)}`, { label: `reparo:${it.id}`, phase: 'Redactar', schema: RED, effort: EF.red }))
   if (!r) return { ...s, estado: 'cortada', donde: 'reparo' }
   return { ...s, estado: 'cerrar2', red: `${r.resumen}${r.avisos ? ' · AVISOS: ' + r.avisos : ''}` }
 }
