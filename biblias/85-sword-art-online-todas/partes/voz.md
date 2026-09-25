@@ -273,6 +273,32 @@ relaciones)._
   «pegamento familiar» entre Kirito y Asuna. — ✅ (todas de las fichas
   citadas arriba).
 
+**Caras en cada emoción, miradas de verdad (tráiler oficial de Alicization,
+Aniplex, mirado fotograma a fotograma con `fotogramas.py`, cada 3 s, hoja de
+contacto en `/tmp/claude-0/trabajo/85-sao-voz/fotogramas/trailer_alicization/
+hoja_01.jpg`; Dailymotion, video id x8qqmbf, 75 s):**
+
+- **Kirito, confusión/desconcierto** — fotograma 4, minuto 0:09
+  (dailymotion.com/video/x8qqmbf&t=9s): cejas juntas, boca entreabierta,
+  mirada perdida al frente, subtítulo «What's… going on?». Sirve para un
+  cuadro de diálogo de «no entiendo qué pasa». — ✅ (visto directamente).
+- **Eugeo, calidez/simpatía** — fotograma 6, minuto 0:15: ojos cerrados en
+  una sonrisa suave, cabeza ligeramente inclinada, subtítulo «My name is
+  Eugeo. Nice to meet you.» Sirve como pose de saludo/bienvenida. — ✅.
+- **Alice, alerta/duda** — fotograma 11, minuto 0:30: sólo un ojo en cuadro,
+  mirada de lado, ceño algo fruncido, subtítulo «The Taboo Index?» —
+  desconfianza/cautela, útil para un cuadro que «advierte» algo. — ✅.
+- **Kirito, tensión/miedo** (primer plano extremo de un solo ojo) —
+  fotograma 14, minuto 0:39, subtítulo «What are you?» — mirada muy abierta,
+  pupila contraída: sirve para un momento de shock breve. — ✅.
+- **Asuna, sorpresa/preocupación** — fotograma 18, minuto 0:51: boca
+  entreabierta, cejas levantadas, ojos muy abiertos mirando hacia algo
+  fuera de cuadro — encaja con un aviso o alerta en la lámina. — ✅.
+- **Kirito, melancolía/pensativo** — fotograma 22, minuto 1:03: sentado con
+  las rodillas dobladas, mirando hacia abajo, subtítulo «…for you to come
+  for us.» — pose de reflexión, útil para un rincón «de pensar» del canal.
+  — ✅.
+
 ## Punto 20 — Gustos y detalles de cada personaje
 
 _(De las fichas «Trivia» de la wiki, con fuente primaria citada por la
@@ -378,24 +404,40 @@ autor, Character Books oficiales)._
 
 ## Punto 22 — Fan dubs y comunidad hispana
 
-- **Fandubs en español** encontrados por búsqueda directa (YouTube bloquea
-  el acceso a metadatos desde este servidor — `yt-dlp` devuelve «Sign in to
-  confirm you're not a bot», confirmado en un intento, ver Bitácora — así
-  que estos enlaces se citan con lo que da la búsqueda, sin duración/vistas
-  verificadas por mí; **⚠️ dato de una fuente, no verificado en vídeo**):
+- **Covers en español VERIFICADOS directamente** (Dailymotion, API +
+  `yt-dlp --skip-download` sí funciona ahí, a diferencia de YouTube — con
+  duración y vistas reales comprobadas por mí, no de memoria):
+  - «Sword Art Online: Alicization ♥ ADAMAS Cover Español», canal
+    **ilonkaplay** — dailymotion.com/video/x7lomd8 — 3:49 min, **58
+    vistas**. Cover del ending «ADAMAS» (LiSA). — ✅ (comprobado con
+    yt-dlp).
+  - «LiSA - Crossing Field Cover Español Video Official», canal
+    **cupidomegas** — dailymotion.com/video/x8q623x — 4:18 min, **20
+    vistas**. Cover del opening 1. — ✅ (comprobado con yt-dlp).
+  - «Sword Art Online Opening 1 [FULL] Español Latino», canal **Tetuk** —
+    dailymotion.com/video/x62b4zs — 4:20 min, **20 vistas**: es un cover de
+    fan (canal personal, pocas vistas), no el doblaje oficial — el doblaje
+    oficial latino de Alicization mantiene los openings en japonés sin
+    doblar (dato cruzado con `datos-voz.md` y con la propia ficha de
+    Doblaje Wiki, que no lista actor de canción para los openings). — ✅.
+  - «[German Fandub] Sword Art Online - Ich werde Asuna retten!» —
+    dailymotion.com/video/x348lqs (354 s): fandub en alemán, no hispano,
+    se descarta para este punto pero confirma que el fenómeno de fandub de
+    SAO es internacional. — ✅ (dato de contexto).
+- **Fandubs en español encontrados sólo por buscador web** (YouTube bloquea
+  `yt-dlp` en este servidor con «Sign in to confirm you're not a bot»,
+  confirmado, ver Bitácora; estos enlaces **no pude verificar duración ni
+  vistas yo misma, ⚠️ una fuente**):
   - «Kirito se reencuentra con Yui (Fandub Español Latino - Sword Art
     Online)» — youtube.com/watch?v=Gf8Uc74IECw (marzo 2021).
   - «Sword Art Online Fandub - Kirito Meets Asuna» —
     youtube.com/watch?v=nd_yL2BACYI (marzo 2016).
   - Canal dedicado «Sword Art online 2 Español latino Fandub» —
     youtube.com/@swordartonline2espanollati150.
-- **Covers en español de los openings**: «Crossing Field» (Sword Art
-  Online, OP1) tiene al menos dos covers en español encontrados: uno de
-  Salome Anjari (youtube.com/watch?v=3G2mc2YNZjU) y uno de Omar Cabán
-  (youtube.com/watch?v=XALCxZIQxZw), además de un cover instrumental
-  metalero de Paulo Cuevas que mezcla «Ignite» y «Crossing Field». — ⚠️
-  (mismos motivos: no pude confirmar vistas/duración por el bloqueo de
-  YouTube).
+  - Covers de «Crossing Field» de Salome Anjari
+    (youtube.com/watch?v=diPLHZVBJR4) y Omar Cabán
+    (youtube.com/watch?v=XALCxZIQxZw), y un medley metalero de Paulo Cuevas
+    con «Ignite» y «Crossing Field».
 - **Parodias/memes hispanos**: no encontré un caso puntual y verificado de
   parodia hispana viral (tipo «SAO Abridged» pero en español); lo que sí
   está extendido en foros hispanos es el chiste recurrente sobre el «harem»
@@ -441,11 +483,10 @@ autor, Character Books oficiales)._
   información obligatoria del punto 7 (la encuesta de 2015 + Kono Light
   Novel ga Sugoi ya cubren «encuesta oficial + de fans»).
 - ⚠️ Confirmación en vídeo (duración/vistas reales) de los fandubs y covers
-  del punto 22: YouTube bloquea `yt-dlp` en este servidor («Sign in to
-  confirm you're not a bot»); Dailymotion e Internet Archive no tenían
-  resultados propios para «Sword Art Online fandub español» al buscar en
-  `datos-voz.md` (la búsqueda de Dailymotion sólo devolvió los términos de
-  búsqueda, sin resultados listados).
+  de YouTube del punto 22: YouTube bloquea `yt-dlp` en este servidor («Sign
+  in to confirm you're not a bot»). Sí conseguí verificar directamente 3
+  covers reales en Dailymotion (con vistas y duración exactas) buscando en
+  la API directa en vez de repetir la búsqueda vacía de `datos-video.md`.
 - ⚠️ Parodia o meme hispano puntual y viral (más allá del chiste genérico
   del «harem» de Kirito): no until encontré un caso concreto con enlace.
   Búsquedas: «Sword Art Online parodia meme español», «SAO meme
@@ -498,6 +539,16 @@ autor, Character Books oficiales)._
 - `herramientas/voz.py` (Whisper local) sobre las muestras .ogg de Doblaje
   Wiki ya listadas en `datos-voz.md`: Kirito, Asuna, Sinon, Alice Schuberg,
   Eugeo, Silica. Salidas en `/tmp/claude-0/trabajo/85-sao-voz/voz/`.
+- Dailymotion, API directa (`api.dailymotion.com/videos?search=…`, no el
+  buscador web): sí devolvió tráilers oficiales reales (a diferencia de lo
+  que dejó `datos-video.md`, que buscó literalmente «Sword Art Online
+  (todas)» con paréntesis y no encontró nada). Con «Sword Art Online trailer
+  oficial» y «Sword Art Online Alicization trailer» aparecieron varios
+  tráilers oficiales de Aniplex. Se miró (`fotogramas.py --cada 3`) el
+  tráiler oficial de Alicization (dailymotion.com/video/x8qqmbf, 75 s) para
+  sacar las caras por emoción del punto 13. Aviso para el investigador de
+  vídeo: repetir esta búsqueda directa en Dailymotion, no confiar en el
+  `datos-video.md` vacío.
 - TV Tropes: `YMMV/SwordArtOnline` y `Memes/SwordArtOnline` dieron 403
   directo (WebFetch) y Wayback Machine no es accesible desde esta
   herramienta («Claude Code is unable to fetch from web.archive.org»); se

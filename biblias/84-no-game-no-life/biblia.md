@@ -62,7 +62,7 @@ Tamaños medidos (Pillow o `imageinfo` de la API de Fandom). Las imágenes de `s
 - Hoja de modelo «CHARACTER 04» de Jibril (vistas y expresiones), 3022×4458: https://static.wikia.nocookie.net/no-game-no-life/images/3/3f/02.jpg ✅.
 
 **Portadas y key visuals**
-- Portada de AniList, 225×319, y banner 1900×600: https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg · https://s4.anilist.co/file/anilistcdn/media/anime/banner/19815-BqbuD0wyBS3P.jpg ✅.
+- Portada de AniList, 225×319, y banner 1900×400 (medido): https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg · https://s4.anilist.co/file/anilistcdn/media/anime/banner/19815-BqbuD0wyBS3P.jpg ✅.
 - **Artbook oficial** *No Game No Life: Yuu Kamiya Art Works* (MF Bunko J, 1-abr-2019, 148 páginas, caja ilustrada y póster B2) ✅ (Fandom + AmiAmi + Archonia): https://no-game-no-life.fandom.com/wiki/No_Game_No_Life_Yuu_Kamiya_Art_Works · https://www.amiami.com/eng/detail/?gcode=MED-BOOK-017986 · https://www.archonia.com/en-us/product/358870/no-game-no-life-yu-kamiya-art-works-illustration-book
   - Portada, 1061×1500: https://static.wikia.nocookie.net/no-game-no-life/images/a/a9/Artbook_cover.jpg (Sora y Shiro saltando, cartas y piezas alrededor).
   - Caja, 1061×1500: https://static.wikia.nocookie.net/no-game-no-life/images/5/5f/Artbook_Box1.jpg
@@ -608,7 +608,7 @@ Vocabulario de Danbooru útil (de la parte de datos): Sora `spiked_hair, red_eye
 
 ## Hojas de contacto
 
-Tres hojas en `hojas/` (JPEG de menos de 1 MB cada una). Las otras ocho (las de `investigar_serie.py` y las de vídeo sueltas) se movieron a `herramientas/referencias/no-game-no-life/hojas_descartadas/`, fuera de git: dos de ellas incluían ilustraciones de la novela con desnudos censurados (§12).
+Tres hojas en `hojas/` (JPEG de menos de 1 MB cada una). Las otras nueve (dos de `investigar_serie.py` y siete de vídeo sueltas) se movieron a `herramientas/referencias/no-game-no-life/hojas_descartadas/`, fuera de git: dos de ellas incluían ilustraciones de la novela con desnudos censurados (§12).
 
 1. **`escenas_01.jpg`** (2560×1440, 16 fotogramas de episodios 1, 6, 8 y 9, montada por el redactor). Las mejores: nº 3 (Disboard y la cartela de los Pactos), nº 2 (el texto de Tet), nº 8 (la Gran Biblioteca), nº 7 y 9 (Jibril), nº 12 y 13 (Sora), nº 10 (よしよし), nº 14 (el logo).
 2. **`fondos_01.jpg`** (48 fotogramas del anime de la wiki, nº 193 a 240). Las mejores: nº 206 (tablero morado), nº 237 (grupo en el campo), nº 202 (Sora retando), nº 212 (Jibril feliz en la biblioteca), nº 207 (cartel 絶望), nº 230 («ふぇ…»), nº 228 (grupo en sala azul), nº 225 (la caída a Disboard), nº 194 (biblioteca con Sora, Shiro y Jibril).
@@ -708,7 +708,7 @@ La serie no tiene canal. Se proponen tres, distintos entre sí. Textos del canal
 
 **Redactor (25-sep)**
 - Miradas las 11 hojas. Correcciones hechas al mirar: el fotograma del ep. 6, 14:00 es **Steph**, no Jibril; el del discurso a las 3:20 es **Steph**, no Sora y Shiro; en el ep. 9, 11:40 detrás de Steph está **Jibril**, no Shiro; en el opening, detrás de los hermanos hay edificios, no un tablero. La parte de texto decía que no había doblaje latino: sí lo hay (§8). El juego de Steam probablemente no es de la franquicia (§11).
-- Sacadas del repositorio 8 hojas: `personajes_01.jpg` y `objetos_01.jpg` incluían ilustraciones con desnudos censurados, una con Shiro; las de vídeo se juntaron en `escenas_01.jpg` (montada con Pillow).
+- Sacadas del repositorio 9 de las 11 hojas: `personajes_01.jpg` y `objetos_01.jpg` incluían ilustraciones con desnudos censurados, una con Shiro; las de vídeo se juntaron en `escenas_01.jpg` (montada con Pillow).
 - Revisados a ojo 9 fondos y fan arts (miniaturas de Wallhaven y Safebooru): todos aptos.
 - Medido con Pillow el color de la cartela de los Pactos (`#E8E0F8`).
 

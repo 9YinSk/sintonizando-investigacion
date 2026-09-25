@@ -171,6 +171,15 @@
     "licencia": "Muestra de audio de la wiki de fans, uso como referencia de estudio, no para redistribuir"
   },
   {
+    "url": "https://www.dailymotion.com/video/x8qqmbf",
+    "fuente": "Dailymotion, tráiler oficial de Aniplex para Sword Art Online: Alicization",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial (75 s) mirado fotograma a fotograma con herramientas/fotogramas.py para sacar la cara de cada personaje en varias emociones",
+    "para_que": "Fuente de las caras por emoción con minuto exacto del punto 13 (Kirito confundido 0:09, Eugeo cálido 0:15, Alice cautelosa 0:30, Asuna sorprendida 0:51)",
+    "licencia": "Tráiler oficial de Aniplex, con copyright; sólo como referencia, no reutilizable"
+  },
+  {
     "url": "https://www.reddit.com/r/swordartonline/comments/1v0g0h0/what_are_yalls_favorite_character_and_arc/",
     "fuente": "Reddit r/swordartonline (vía Arctic Shift)",
     "ancho": 0,
