@@ -1,0 +1,112 @@
+name: Lote con MWAPI
+# Un jefe de lote trabajando ~5 h 20 por vuelta en una máquina de GitHub, con
+# el saldo de MWAPI (secreto MWAPI_KEY). Al terminar lanza la vuelta siguiente
+# si su letra sigue en .github/lotes-activos.
+# Para pararlo: quitar la letra de ese archivo (la vuelta en curso termina y
+# no se lanza otra) o cancelar el run en la pestaña Actions.
+
+on:
+  workflow_dispatch:
+    inputs:
+      lote:
+        description: "Letra del lote"
+        required: true
+        default: "G"
+  schedule:
+    # Red de seguridad por si una vuelta no encadena: el cron de GitHub llega
+    # tarde, pero la concurrencia impide que se pisen dos vueltas del mismo lote.
+    - cron: "23 */3 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      lotes: ${{ steps.l.outputs.lotes }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github
+      - id: l
+        env:
+          PEDIDO: ${{ github.event.inputs.lote }}
+        run: |
+          activos=$(tr -cs 'A-Za-z' '\n' < .github/lotes-activos | tr a-z A-Z | grep -xE '[A-Z]' | sort -u || true)
+          if [ -n "$PEDIDO" ]; then
+            p=$(echo "$PEDIDO" | tr a-z A-Z)
+            lista=$(echo "$activos" | grep -x "$p" || true)
+          else
+            lista="$activos"
+          fi
+          echo "lotes=$(echo "$lista" | python3 -c 'import sys,json; print(json.dumps([l.strip() for l in sys.stdin if l.strip()]))')" >> "$GITHUB_OUTPUT"
+          echo "activos: $(echo $activos) | esta vez: $(echo $lista)"
+
+  lote:
+    needs: plan
+    if: needs.plan.outputs.lotes != '[]'
+    strategy:
+      fail-fast: false
+      matrix:
+        lote: ${{ fromJSON(needs.plan.outputs.lotes) }}
+    concurrency:
+      group: lote-${{ matrix.lote }}
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      ANTHROPIC_BASE_URL: https://api.mwapi.dev
+      ANTHROPIC_AUTH_TOKEN: ${{ secrets.MWAPI_KEY }}
+      ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ vars.MODELO_OPUS || 'claude-opus-5' }}
+      ANTHROPIC_DEFAULT_SONNET_MODEL: claude-sonnet-5
+      ANTHROPIC_DEFAULT_HAIKU_MODEL: claude-sonnet-5
+      CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1"
+    steps:
+      - name: Llave de MWAPI
+        run: |
+          if [ -z "$ANTHROPIC_AUTH_TOKEN" ]; then
+            echo "::error::Falta el secreto MWAPI_KEY (repo → Settings → Secrets and variables → Actions)"
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Herramientas
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg tesseract-ocr tesseract-ocr-jpn tesseract-ocr-spa tmux
+          pip3 install -q --user --break-system-packages -U "yt-dlp[default]" Pillow fontTools requests \
+            faster-whisper scenedetect opencv-python-headless praat-parselmouth onnxruntime
+          curl -fsSL https://claude.ai/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          sudo mkdir -p /home/user
+          sudo ln -sfn "$GITHUB_WORKSPACE" /home/user/sintonizando-investigacion
+          mkdir -p ~/.claude
+          echo '{"theme":"dark","skipDangerousModePermissionPrompt":true}' > ~/.claude/settings.json
+          python3 -c 'import json,os; json.dump({"hasCompletedOnboarding": True, "projects": {os.environ["GITHUB_WORKSPACE"]: {"hasTrustDialogAccepted": True}}}, open(os.path.expanduser("~/.claude.json"), "w"))'
+          git config --global user.name "YinX (lote en GitHub)"
+          git config --global user.email "226780449+9YinSk@users.noreply.github.com"
+
+      - name: Jefe del lote ${{ matrix.lote }}
+        run: bash herramientas/motor_github.sh "${{ matrix.lote }}"
+
+      - name: Vuelta siguiente
+        if: success() || failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -f /tmp/vuelta-ok ]; then
+            echo "Esta vuelta no llegó a trabajar 30 minutos: no encadeno otra (la red de seguridad lo reintenta)."
+            exit 0
+          fi
+          git fetch -q origin main
+          if git show origin/main:.github/lotes-activos | tr -cs 'A-Za-z' '\n' | tr a-z A-Z | grep -qx "${{ matrix.lote }}"; then
+            gh workflow run lote.yml --ref main -f lote=${{ matrix.lote }}
+            echo "Lanzada la vuelta siguiente del lote ${{ matrix.lote }}"
+          else
+            echo "El lote ${{ matrix.lote }} ya no está en .github/lotes-activos: no sigo."
+          fi
