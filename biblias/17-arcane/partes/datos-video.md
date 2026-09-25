@@ -15,7 +15,7 @@ _Fuente: https://api.dailymotion.com_
 - Blindbox Arcane ! #Exclu #LeagueOfLegend #Box #Arcane · 1:36 · EQ_Valou · 2330 vistas · https://www.dailymotion.com/video/x9pc2yw
 - L'ARTBOOK ARCANE · 0:46 · UnePetiteMarie · 1967 vistas · https://www.dailymotion.com/video/x9baxdi
 - Arcane - Trailer · 2:44 · xataka · 1332 vistas · https://www.dailymotion.com/video/x85f7g5
-- ARCANE XIII · 2:20 · Nikon Film Festival · 1045 vistas · https://www.dailymotion.com/video/x8hjp10
+- 5CAS Arcane · 8:00 · JeuxVideo.com · 1142 vistas · https://www.dailymotion.com/video/x89nxim
 **«Arcane ending»**
 - Arcane · 1:53 · JeuxVideo.com · 49110 vistas · https://www.dailymotion.com/video/x89n6ax
 - Arcane Tráiler · 2:45 · Sensacine · 3279 vistas · https://www.dailymotion.com/video/x88qbzq
@@ -70,13 +70,13 @@ _Fuente: https://musicbrainz.org_
 - Arcane: Hexcore Nights (Wavedash Remixes) · Arcane · 2025-11-28 · https://musicbrainz.org/release-group/193b05b8-df22-4281-a54c-ab757c4b303d
 - Enemy (from the animated series Arcane) · Imagine Dragons · 2021-11-12 · https://musicbrainz.org/release-group/8668ecdc-b292-4a1e-b519-10f15e2a942c
 - Viktor, the Herald of the Arcane · League of Legends, Alexander Temple · 2024-12-20 · https://musicbrainz.org/release-group/72e5c256-e7f8-4167-a316-b3193ba248e4
-- Fantastic (from the series Arcane League of Legends) · King Princess · 2024-11-23 · https://musicbrainz.org/release-group/776adb04-14b4-4c40-bde6-2ad80248e129
 - Tyrion Cuthbert: Attorney of the Arcane Original Soundtrack · insaneintherainmusic · 2023-06-23 · https://musicbrainz.org/release-group/713e3165-b289-464a-8284-8f5580531882
+- Fantastic (from the series Arcane League of Legends) · King Princess · 2024-11-23 · https://musicbrainz.org/release-group/776adb04-14b4-4c40-bde6-2ad80248e129
 - Hellfire (From the Series Arcane League of Legends) · FEVER 333 · 2024-11-09 · https://musicbrainz.org/release-group/2aafab26-3c8f-44f4-87e4-ca338ad1868b
-- Sucker (from the series Arcane League of Legends) · Marcus King, Arcane, League of Legends · 2024-11-08 · https://musicbrainz.org/release-group/b0add7e1-1466-4981-a7ea-37f76bf5952d
 - Arcane Archive (Goddess of Victory: NIKKE Original Soundtrack) · LEVEL NINE, Feryquitous · 2025-05-15 · https://musicbrainz.org/release-group/c9fb785d-31b8-4341-a287-6b393c5ee6a7
+- Sucker (from the series Arcane League of Legends) · Marcus King, Arcane, League of Legends · 2024-11-08 · https://musicbrainz.org/release-group/b0add7e1-1466-4981-a7ea-37f76bf5952d
 - Arcane: League of Legends: Season Two Original Soundtrack · Arcane, League of Legends · 2024-11-09 · https://musicbrainz.org/release-group/9d5812a8-056f-45ad-9d8d-60763e785896
 - Sucker (from the series Arcane League of Legends) · Arcane, League of Legends · 2024-11-08 · https://musicbrainz.org/release-group/2e5851f6-6d65-43e2-a7e3-8a78c16dfeed
 - Tyrion Cuthbert: Attorney of the Arcane (Original Soundtrack Preview) · insaneintherainmusic, Shady Cicada · 2021-08-21 · https://musicbrainz.org/release-group/54b8c1e5-63e4-4987-892f-3ee2f66eda5b
-- Arcane: League of Legends: Season Two Score, Vol. 1 · Arcane · 2024-11-09 · https://musicbrainz.org/release-group/122da933-4200-498e-81e2-bb10f89427d2
-- The Line (from the series Arcane League of Legends) · twenty one pilots, Arcane, League of Legends · 2024-11-22 · https://musicbrainz.org/release-group/b2d5357f-c71d-42a8-a659-9b884b2b28fb
+- Enemy (from the animated series Arcane: League of Legends) · Imagine Dragons, JID · 2021-10-28 · https://musicbrainz.org/release-group/35990e4e-72da-4ca1-9193-2ee30cc23050
+- Arcane: League of Legends: Season Two Score, Vol. 3 · Arcane · 2024-11-24 · https://musicbrainz.org/release-group/735a7d08-d991-47f2-bc8c-f2eb5bd09433
