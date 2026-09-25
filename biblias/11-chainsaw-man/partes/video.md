@@ -242,9 +242,12 @@ corte (sin subtítulos); la cito de la biblia con su fuente ya existente.
   para esa escena en particular (sí lo hizo para el opening, ya listado en
   la biblia). ⚠️ No digo que no exista la referencia, sólo que no la hallé.
 - **Qué cine real inspiró シネマ座**: la biblia ya avisaba de esto (§5.1);
-  con el nombre exacto ahora en mano (シネマ座) intenté `srsearch=シネマ座`
-  en la wiki japonesa y una búsqueda en japonés sin resultados fuera de la
-  propia ficción. Sigue sin confirmarse un local real.
+  con el nombre exacto ahora en mano probé `srsearch=シネマ座` en la API de
+  `chainsaw-man.fandom.com` (da sólo la página de «Chainsaw Man The Stage» y
+  la de la propia película, sin trivia) y leí el wikitext completo de la
+  página «Chainsaw Man – The Movie: Reze Arc» buscando una sección de
+  trivia: no tiene ninguna sobre el cine. Sigue sin confirmarse un local
+  real que haya inspirado el nombre.
 - **AnimeThemes** para tener los .webm de OP/ED sin bajar el episodio
   completo: sigue caído (522) en `api.animethemes.moe` y en la CDN
   `v.animethemes.moe`. Se resolvió por Internet Archive, así que no bloqueó
