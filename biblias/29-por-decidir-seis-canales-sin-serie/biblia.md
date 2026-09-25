@@ -1314,7 +1314,7 @@ pelo rubio corto, dura y seca.
 | **Vanellope** | **María Antonieta de las Nieves** («La Chilindrina») | ✅ [Milenio](https://www.milenio.com/espectaculos/cine/vanellope-voz-chilindrina-ralph-demoledor-2), [Sopitas](https://www.sopitas.com/noticias/wifi-ralph-doblaje-mexico-disney-sopitas-memo-aponte-influencers/) |
 | **Félix** | **Moisés Iván Mora** | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Mois%C3%A9s_Iv%C3%A1n_Mora), [Fandoblaje Wiki](https://fandoblaje.fandom.com/es/wiki/Mois%C3%A9s_Iv%C3%A1n_Mora) |
 | Calhoun | **Rebeca Patiño** | ✅ Doblaje Wiki (API) y el buscador |
-| Rey Dulce / Turbo | Roberto Carrillo | ⚠️ sólo Doblaje Wiki |
+| Rey Dulce / Turbo | Roberto Carrillo | ✅ ficha de la película + [su ficha de actor](https://doblaje.fandom.com/es/wiki/Roberto_Carrillo) (segunda pasada) |
 | Sr. Litwak | Paco Mauri | ⚠️ sólo Doblaje Wiki |
 | **Tapper** | **Mario Castañeda** (el Goku latino) | ✅ Doblaje Wiki; y él mismo dirige el doblaje (abajo) |
 | Sonic (1.ª película) | **Yamil Atala** | ⚠️ sólo Doblaje Wiki |
@@ -1400,6 +1400,101 @@ Disney **no siguió** con La Chilindrina para la secuela ✅ (Milenio).
   ella lo odia).
 - Llenar la lámina de logos de juegos reales: en la película salen, pero en
   la lámina se ven como publicidad.
+
+### 4.7 bis · Segunda pasada: frases con minuto, juego, técnica, cruces y mundo
+
+**Frases del doblaje latino, textuales y con minuto (8)** ✅, del [tráiler
+oficial latino](https://www.dailymotion.com/video/x8x2a6q) transcrito con
+`voz.py` (Whisper) y revisado de oído:
+- [**1:32**](https://www.dailymotion.com/video/x8x2a6q?t=92) «Nadie cambia lo que es».
+- [**1:38**](https://www.dailymotion.com/video/x8x2a6q?t=98) Vanellope: «Todos dicen que fui una equivocación».
+- [**1:44**](https://www.dailymotion.com/video/x8x2a6q?t=104) Ralph: «No voy a dejarte aquí sola».
+- [**1:51**](https://www.dailymotion.com/video/x8x2a6q?t=111) «Terminemos recitando la afirmación del villano».
+- **1:53-1:58** «¡Soy malo! […] Y eso es bueno. [Yo nunca seré bueno] […] Y
+  eso no es malo.» (Whisper oyó «yo camáseré bueno»; la frase completa es la
+  de §4.3).
+- [**2:01-2:03**](https://www.dailymotion.com/video/x8x2a6q?t=121) «No quiero ser nadie más […] ¡Soy feliz!».
+- **Cómo suena Ralph** (`voz.py`): registro medio (**198 Hz**), muy
+  expresivo (**29,8 semitonos**), rápido (**3,08 palabras/s**). Habla
+  atropellado y con mucho vaivén: bruto por fuera, tierno por dentro.
+
+**Su cara en dos emociones (13)**, fotogramas mirados:
+- **Vergüenza aceptada**, [1:53](https://www.dailymotion.com/video/x8x2a6q?t=113):
+  sentado y encogido en el círculo del grupo de villanos, brazos cruzados
+  sobre las rodillas, hombros caídos.
+- **Confundido y dolido**, [2:01](https://www.dailymotion.com/video/x8x2a6q?t=121):
+  en la barra de Tapper, **manos abiertas hacia arriba**, cejas juntas, boca
+  entreabierta. Sirve para «explicar con angustia».
+- Alegría, rabia y miedo francos: no salen de Ralph en el tráiler ⚠️.
+
+**Poses en vídeo (14)**, [clip «Ralph vs. Turbo», Disney XD
+latino](https://www.dailymotion.com/video/x39ewi4) (4:10):
+- [**0:50**](https://www.dailymotion.com/video/x39ewi4?t=50): Ralph atraviesa
+  a puñetazos una estructura de caramelo, cuerpo inclinado: **regañar/pelear**.
+- [**2:05**](https://www.dailymotion.com/video/x39ewi4?t=125): Ralph y
+  Vanellope por la **carretera arcoíris**, ella señalando al frente:
+  **explicar o animar en pareja**.
+
+**Doblaje (8)**: **Roberto Carrillo** es el Rey Dulce/Turbo ✅ ([su ficha](https://doblaje.fandom.com/es/wiki/Roberto_Carrillo)).
+Paco Mauri (Litwak) y Yamil Atala (Sonic): sus fichas de actor **no** listan
+el papel ⚠️ (posible error de atribución; no confirmar).
+
+**Música (9)**: **Henry Jackman**; canciones de **Owl City**, **AKB48** y
+**Skrillex** ⚠️ (una fuente: [Wikipedia](https://en.wikipedia.org/wiki/Wreck-It_Ralph)).
+
+**Lo que ama el fandom (12, 21)**: «Soy malo y eso es bueno» se repite fuera
+de contexto como lema; y **La Chilindrina como Vanellope** es el dato de
+doblaje más comentado en México (Milenio, §4.4) ✅.
+
+**Gustos (20)**: Vanellope vive en un juego de **dulces**; su kart lo arma
+ella misma con dulces del juego, y el **volante** es su objeto de siempre ✅
+([Wreck-It Ralph Wiki](https://wreckitralph.fandom.com/wiki/Vanellope_von_Schweetz), API).
+
+**Fan art (3)**: [juanmao en Danbooru](https://danbooru.donmai.us/posts/3152497),
+Vanellope, 2048×1328 ✅. **Fondo de pantalla (16)**: [wallhaven 45k535](https://wallhaven.cc/w/45k535),
+3840×2160, cartel de 2012, subido por **JosephTeAu** ✅.
+
+**Videojuego e interfaz (11)**: *Wreck-It Ralph* (iOS, Disney
+Interactive/Activision, 2012), en la **Estación Central**, con tres
+minijuegos: **Fix-It Felix Jr.** (8 bits), **Hero's Duty** (HUD militar) y
+**Sugar Rush** (kart en rosa) ✅ ([Arcade Heroes](https://arcadeheroes.com/2012/10/18/taking-a-look-at-two-fantasy-arcade-titles-from-disneys-wreck-it-ralph/),
+[wiki: Sugar Rush](https://wreckitralph.fandom.com/wiki/Sugar_Rush)). Tres
+interfaces en un juego: buena idea para una lámina 2 de #noticias-gaming.
+
+**Técnica y cómo replicarla (18)**: Walt Disney Animation Studios. Ralph
+(2012) **no** usó **Hyperion**, que llegó con *Big Hero 6* (2014); la
+secuela de 2018 sí ✅ ([ACM](https://dl.acm.org/doi/fullHtml/10.1145/3182159),
+[Disney Animation](https://disneyanimation.com/technology/hyperion/)). La
+herramienta **Meander** es del corto *Paperman*, no de Ralph ⚠️.
+- **Blender**: el 8 bits de Félix con **píxeles reales** (textura pequeña,
+  interpolación *Closest*), no con filtros. Los caramelos de Sugar Rush:
+  colores saturados y un falso *subsurface* (difuso + translúcido).
+
+**Texturas 2D (19)**: packs de **pixel art CC0** en [itch.io](https://itch.io/game-assets/free/tag-cc0/tag-pixel-art)
+para los letreros LED y las recreativas ⚠️ (listado general: comprobar la
+licencia del pack elegido).
+
+**Cruces y figuras (23)**: la escena de las **princesas Disney** con
+Vanellope en *Ralph Breaks the Internet* (2018) es el cruce más citado ✅
+([Den of Geek](https://www.denofgeek.com/movies/ralph-breaks-the-internet-disney-princesses-scene/),
+[Critical Media Project](https://criticalmediaproject.org/wreck-it-ralph-2-ralph-breaks-the-internet-vanellope-meets-disney-princess/)).
+Ralph y Vanellope tuvieron **figura física** en **Disney Infinity** ✅
+([Disney Wiki](https://disney.fandom.com/wiki/Vanellope_von_Schweetz)).
+
+**Obras parecidas (24)**: «*Toy Story* rehecho para la generación de los
+videojuegos» ✅ ([TIME](https://entertainment.time.com/2012/11/01/wreck-it-ralph-toy-story-with-avatars/),
+[Movie Smackdown](http://www.moviesmackdown.com/2012/11/wreck-it-ralph-vs-toy-story/)).
+Cerca en tono: *Free Guy* (2021) y *Turbo* (DreamWorks, 2013).
+
+**El mundo en cinco líneas (25)** ✅ ([wiki: Game Central Station](https://wreckitralph.fandom.com/wiki/Game_Central_Station)):
+1. Cuando cierra **Litwak's Arcade**, los personajes de los juegos viven.
+2. Viajan por los cables hasta la **Estación Central**, que por fuera es una
+   **regleta de corriente**.
+3. Allí conviven Sonic, los fantasmas de Pac-Man, Q*bert…
+4. Perder una vida y volver a aparecer es **regenerar**.
+5. Un juego sin su personaje queda «**fuera de servicio**».
+Vocabulario: **Turbo** («usurpar un juego ajeno»), **glitch** (el «fallo» de
+Vanellope), **regenerar**, «fuera de servicio».
 
 ### 4.8 Conceptos de lámina
 
