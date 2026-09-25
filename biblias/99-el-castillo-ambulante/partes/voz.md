@@ -112,9 +112,10 @@ comprobado, no copiado)
   (https://www.talentoescenico.com/docentes/karina-altamirano), que la lista
   como voz de Sophie en «El increíble castillo vagabundo».
 - Alan Prieto (Howl, Wild Bunch, y también director de todo el redoblaje) ·
-  ⚠️ (Doblaje Wiki, ficha de la peli + su propia ficha de actor coinciden,
-  pero no until una fuente totalmente externa; sí se confirmó por otra vía
-  que él dirigió el redoblaje de Ghibli en Sysdub en 2020, dato que encaja).
+  ⚠️ (Doblaje Wiki: ficha de la película + su propia ficha de actor
+  coinciden, pero no se logró una fuente totalmente externa a Doblaje Wiki;
+  sí se confirmó por otra vía —dubdb.fandom.com, un wiki distinto— que él
+  dirigió el redoblaje de Ghibli en Sysdub en 2020, dato que encaja).
 - Noé Velázquez (Calcifer, en las DOS versiones): comprobado escuchando yo
   mismo las dos muestras de audio de Doblaje Wiki (Howlcalcifer.ogg y
   Howlwbcalcifer.ogg) — es la misma voz con el mismo tono agudo-medio en
@@ -213,3 +214,437 @@ trabajo, no sube al repo).
 canal — usar SIEMPRE las líneas de arriba (dos doblajes oficiales entre los
 que elegir según el tono que se busque: ZIMA más contenido, Wild Bunch más
 expresivo).
+
+## 13. Descripción profunda de cada personaje
+
+Fuentes: Ghibli Wiki (secciones Personality/History/Appearance, bajadas con
+la API https://ghibli.fandom.com/api.php — no son la página renderizada, es
+el wikitext, filtrado en `/tmp/.../perfiles_ghibli_wiki.txt` y
+`perfiles_apariencia.txt`), y comentarios del equipo de animación (Yôji
+Takeshige, Atsushi Okui, Takeshi Inamura, Akihiko Yamashita, Michiyo Yasuda)
+citados en esa misma wiki como «Behind the Scenes» — son entrevistas reales
+del making of, no invención de fans. Caras vistas en fotogramas del tráiler
+VOSE oficial (Dailymotion, Espinof, https://www.dailymotion.com/video/x927qmu,
+hoja de contacto de 50 fotogramas, uno por plano, en
+`/tmp/.../trailer_vose/hoja_0{1,2}.jpg`, minutos exactos porque son cortes
+reales, no aproximados).
+
+### Howl Jenkins Pendragon
+
+- **Quién es**: mago poderosísimo, discípulo favorito (y el mejor) de la
+  hechicera de la corte Madame Suliman antes de escapar de esa vida · Ghibli
+  Wiki, sección History · ✅ (coincide con la ficha de AniList en
+  datos-voz.md).
+- **Fama que arrastra**: en Market Chipping corre el rumor de que roba
+  corazones (y se los come) a chicas jóvenes; es sólo rumor, nunca se
+  confirma en pantalla · Ghibli Wiki Personality · ✅ (coincide con AniList).
+- **Carácter real, bajo la fama**: vanidoso, encantador, inteligente,
+  terco, deshonesto a veces, evita comprometerse o dar la cara en
+  situaciones incómodas · misma fuente · ✅.
+- **Su miedo**: la guerra y en qué lo convierte. Calcifer «se preocupa por
+  la tendencia de Howl a la guerra y que inevitablemente lo cambiará» — su
+  arco es justo evitar volverse un monstruo permanente (ya se transforma en
+  un ser alado negro en combate, y cada vez le cuesta más volver a forma
+  humana) · Ghibli Wiki (Calcifer/Personality e historia de Howl) · ✅.
+- **Historia clave**: de niño atrapó una estrella fugaz (Calcifer) y le dio
+  su corazón a cambio de magia y de salvarle la vida; por eso no tiene
+  corazón propio y su cuerpo se deteriora cada vez que usa su forma de
+  monstruo · ✅ misma fuente.
+- **Con quién se relaciona**: Suliman (su maestra, ahora lo vigila como
+  posible enemigo), la Bruja Calamidad (fue su novia, él la dejó y ella lo
+  maldijo — por eso ella lo persigue toda la película), Calcifer (su
+  «punto débil», el trato del corazón), Markl (su aprendiz, casi un hijo),
+  Sophie (de quien se enamora) · ✅.
+- **Vanidad, en la práctica**: cuando Sophie desordena sus tintes de pelo sin
+  querer y su cabello se tiñe naranja, Howl tiene un colapso emocional
+  histriónico (la escena del «moco verde», carrera por las escaleras
+  gritando, se derrite en baba verde) — es el momento más citado por fans
+  como «typical Howl» · TV Tropes intentado (403/bloqueado, ver Bitácora) +
+  confirmado por Tumblr/Pinterest/TikTok (`slime-howl-moving-castle`) · ✅
+  (tres fuentes de fans coinciden en describir la misma escena).
+- **Su cara en cada emoción, con fotograma y minuto** (tráiler VOSE,
+  Dailymotion, minutos exactos):
+  - Miedo/pánico: fotograma 16 (0:47) — pelo naranja (la fase intermedia
+    antes de teñírsele negro, según Ghibli Wiki Appearance), boca abierta,
+    manos en la cabeza, ojos muy abiertos: es la escena del colapso por el
+    tinte arruinado · visto directamente en el fotograma, ✅.
+  - Enamorado/travieso: escena descrita por el animador supervisor Takeshi
+    Inamura sobre el paseo por el cielo con Sophie: «Miyazaki me dijo:
+    puede ser despreocupado aquí. Ahí entendí cómo es realmente Howl» —
+    doblaje ZIMA lo confirma con el tono juguetón del clip [0:12-0:28] ·
+    Ghibli Wiki Behind the Scenes · ✅.
+- **Lenguaje corporal (de las entrevistas del equipo)**: casi no usa las
+  mangas de su abrigo, lo deja colgando sobre los hombros — postura relajada
+  y un poco teatral · Ghibli Wiki Appearance · ⚠️ (una fuente, descriptiva,
+  no hay minuto exacto porque es un rasgo de diseño, no una pose puntual).
+- **Cómo habla (doblaje)**: registro grave en las dos versiones (128-129 Hz),
+  muy expresivo (21-25 semitonos de rango); en ZIMA (Gerardo García) más
+  rápido y directo, en Wild Bunch (Alan Prieto) más lento y juguetón — dos
+  interpretaciones válidas del mismo personaje · medido con `voz.py`, ✅.
+
+### Sophie Hatter
+
+- **Quién es**: 18 años, hija mayor, hereda la sombrerería de su padre
+  fallecido; recatada, «demasiado madura y seria para su edad» según su
+  propia hermana y madrastra · Ghibli Wiki Personality + AniList (en
+  datos-voz.md) · ✅.
+- **Cómo se ve a sí misma**: «plain-looking» (sencilla, nada especial) es
+  la palabra que repite la wiki y el equipo de animación para describirla;
+  ella misma se conforma con la sombrerería en vez de perseguir lo que
+  quiere — su hermana Lettie se lo reclama: «Es tu vida, Sophie. Haz algo
+  por ti, por una vez, ¿quieres?» · Ghibli Wiki, historia de Lettie · ✅.
+- **Su maldición y lo que revela**: la Bruja Calamidad la convierte en una
+  anciana de 90 años. Sophie se adapta rápido («dice que se ha vuelto más
+  astuta de vieja») — el gran giro de personaje es que, libre de tener que
+  «verse bien», se vuelve más valiente y directa · Ghibli Wiki Appearance ·
+  ✅.
+- **Detalle poco citado, confirmado por dos fuentes**: Sophie rejuvenece
+  a ratos según su estado de ánimo (cuando defiende a Howl frente a
+  Suliman recupera su forma joven un momento) — es la clave visual de la
+  maldición: se ve más vieja o más joven según lo que siente, no de forma
+  fija · Ghibli Wiki Appearance + confirmado al ver el fotograma 45 (2:00)
+  del tráiler, donde aparece joven con la mano de Calcifer encendida en la
+  suya, expresión de determinación · ✅.
+- **A quién le importa / con quién se relaciona**: madre de acogida para
+  Markl («casi como un hijo»), amiga de Calcifer y de Cabeza de Nabo,
+  tolera a la Bruja Calamidad ya débil pese a que le hizo daño, y su
+  relación con Howl pasa de indiferencia a amor · Ghibli Wiki Relationships
+  · ✅.
+- **Su cara en cada emoción, con fotograma y minuto** (tráiler VOSE):
+  - Alarma/sorpresa: fotograma 32 (1:24), joven, ojos muy abiertos, en
+    plano cerrado durante la escena de palacio.
+  - Determinación/preocupación: fotograma 45 (2:00), joven, sosteniendo la
+    mano encendida de Calcifer.
+  - Preocupación como anciana: fotograma 29 (1:18), primer plano, mirada de
+    lado, cejas tensas.
+  Los tres, vistos directamente en la hoja de contacto (fuente y minutos
+  arriba) · ✅.
+- **Cómo habla (doblaje, Wild Bunch, Karina Altamirano)**: la voz más aguda
+  medida de todo el reparto principal (259 Hz) y de las más expresivas
+  (24.2 semitonos) — nada de voz sumisa pese a lo «plain» de su
+  personalidad; habla rápido y firme cuando defiende a alguien · medido con
+  `voz.py` sobre audio oficial, ✅.
+
+### Calcifer
+
+- **Quién es**: demonio de fuego, en realidad una estrella fugaz que Howl
+  atrapó antes de que se extinguiera; vive en el hogar del castillo y es lo
+  que lo mueve · Ghibli Wiki · ✅ (coincide con AniList).
+- **El trato que lo define**: tiene el corazón de Howl (por eso Howl no
+  siente frío ni puede amar del todo) y a cambio le da a Calcifer una vida
+  prolongada y todo su poder — ninguno de los dos puede romper el trato
+  solo · Ghibli Wiki History · ✅.
+- **Qué le importa / su miedo**: apagarse. Todo su carácter «gruñón» es
+  fachada: en el fondo cuida de Howl, Sophie y la familia improvisada del
+  castillo, y le preocupa que la guerra cambie a Howl · Ghibli Wiki
+  Personality · ✅.
+- **Su arco**: ofrece a Sophie romper la maldición de ella si ella rompe su
+  contrato con Howl; al final, cuando el castillo se derrumba, Sophie lo
+  saca del hogar (por decisión propia, sacrificándose) y Calcifer, para
+  salvarlos a todos, se traga un mechón del pelo de Sophie para tener
+  fuerza y mover los restos del castillo · Ghibli Wiki History · ✅.
+- **Por qué el fandom lo adora** (razón concreta, no sólo «es lindo»): CBR
+  lo explica con cuatro puntos que se notan viendo la peli — personalidad
+  chispeante y sarcástica (motor del humor), diseño reconocible al
+  instante (ojos grandes y expresivos en una llama), es el nexo narrativo
+  literal (lleva el corazón de Howl) y tiene profundidad real pese al tono
+  cómico (advierte sobre la guerra, se preocupa de verdad) ·
+  https://www.cbr.com/studio-ghibli-calcifer-fan-favorite/ · ⚠️ (una fuente
+  de opinión, pero coincide con que sea el #2 en todas las encuestas de
+  popularidad del punto 7, así que el razonamiento se sostiene con datos).
+- **Apariencia que cambia con la emoción**: «normalmente naranja-amarillo,
+  pero cambia según sus emociones y su tamaño, que depende del combustible
+  que está quemando» — dato de diseño confirmado por el director de arte
+  Yôji Takeshige, quien probó fuego VERDE en los bocetos y lo descartó
+  porque teñía de verde las caras de los demás personajes por reflejo ·
+  Ghibli Wiki Appearance + Behind the Scenes · ✅ (dos secciones, misma
+  wiki, con cita directa del artista).
+- **Cómo habla (doblaje)**: el único personaje doblado por el MISMO actor
+  (Noé Velázquez) en las dos versiones — comprobado de oído, ver punto 8.
+  Es también el más expresivo de todo lo medido: 23.4 semitonos en ZIMA y
+  30.3 en Wild Bunch (el rango más amplio de cualquier personaje de la
+  película) — la voz «salta» todo el tiempo, nunca suena plana · medido con
+  `voz.py`, ✅.
+
+### Bruja Calamidad (Bruja del Páramo / Witch of the Waste)
+
+- **Quién es**: antagonista inicial, hechicera muy poderosa que se
+  convierte en parte de la familia del castillo tras perder sus poderes ·
+  Ghibli Wiki · ✅.
+- **Su historia con Howl**: fue muy hermosa, Howl la cortejó y luego la dejó
+  al descubrir que usaba magia para mantenerse joven; ella sigue enamorada
+  de él y lo persigue con sus hombres-mancha (blob men) al verlo con Sophie
+  — por eso maldice a Sophie la misma noche que la ve con él · Ghibli Wiki
+  History · ✅.
+- **Redención, no maldad simple**: la animadora supervisora Takeshi Inamura
+  dice explícitamente: «trabajé en mostrarla como alguien que se preocupa,
+  para que no se viera como una villana simple. Ella misma no se considera
+  mala, y de hecho no lo es» — Miyazaki pidió dibujarla voluptuosa y algo
+  erótica en vez de sólo aterradora · Ghibli Wiki Behind the Scenes · ✅
+  (cita directa del equipo de animación).
+- **Su miedo**: envejecer/perder la belleza. Madame Suliman la castiga
+  drenándole el poder frente a Sophie, y la luz del sol y bombillas
+  incandescentes la hacen encoger y envejecer en tiempo real — literalmente
+  su peor miedo hecho escena · Ghibli Wiki History · ✅.
+- **Cómo habla (doblaje, ZIMA, Cecilia Airol)**: registro medio (198 Hz),
+  muy teatral (21.5 semitonos), ritmo pausado — cada línea suena a
+  burla elegante de alguien acostumbrada a que la obedezcan («Adiós,
+  abuelita» a Sophie ya anciana) · medido con `voz.py`, ✅.
+
+### Markl
+
+- **Quién es**: aprendiz de Howl, niño «obediente pero desordenado»,
+  desconfía de Sophie al principio (la acusa de ser espía de la Bruja) y
+  termina queriéndola mucho · Ghibli Wiki · ✅.
+- **Manías**: se disfraza de mago barbudo cada vez que llega un cliente a
+  pedir hechizos, para parecer mayor · Ghibli Wiki History · ⚠️ (una
+  fuente, pero se ve directamente en pantalla, es visual y verificable).
+- **Con quién se relaciona**: juega con Heen (el perro) y con Cabeza de
+  Nabo; ve a Sophie casi como una figura materna · Ghibli Wiki · ✅.
+- **Cómo habla (doblaje, Wild Bunch, Jared Mendoza)**: la voz más aguda de
+  todo el reparto (324 Hz), rápida (3.3 palabras/s) — suena a niño listo
+  que sabe más de lo que aparenta · medido con `voz.py`, ✅.
+
+### Madame Suliman
+
+- **Quién es**: hechicera de la corte real, exmaestra de Howl, «el mejor
+  alumno que tuvo»; se mueve en silla de ruedas ornamentada con un bastón
+  mágico que proyecta imágenes y abre portales · Ghibli Wiki · ✅.
+- **Su forma de actuar**: aparenta ser una anciana elegante, pero es
+  «extremadamente peligrosa y posesiva»; drena a la Bruja Calamidad sin
+  piedad y amenaza a Sophie con que a Howl le pasará lo mismo si no
+  coopera con el rey · Ghibli Wiki Personality · ✅.
+- **Su voz, la más contenida de la película**: 150 Hz, sólo 12.5 semitonos
+  de rango (la MENOS expresiva medida) — nunca se altera, habla siempre
+  igual de pausada, lo que la hace más inquietante por contraste con
+  Calcifer o la Bruja · medido con `voz.py`, ✅.
+
+### Cabeza de Nabo (Kakashi no Kabu / Príncipe Justin hechizado)
+
+- **Quién es**: espantapájaros con cabeza de nabo que Sophie rescata de un
+  arbusto; casi no habla, pero ayuda constantemente (da un bastón a Sophie,
+  seca la ropa, salva al grupo al final) · Ghibli Wiki · ✅.
+- **Revelación**: en realidad es el Príncipe Justin, hechizado; al besarlo
+  Sophie al final, vuelve a su forma humana y confiesa que Sophie es su
+  «verdadero amor» — aun así se despide y vuelve a Kingsbury para ayudar a
+  terminar la guerra · Ghibli Wiki History · ✅.
+- Personaje muy querido pese al poco diálogo: 938 favoritos en AniList
+  (más que Markl, que sí habla mucho) y 80.4/73.0 en ranking.net — el
+  fandom lo adora por su devoción silenciosa, no por sus líneas · ✅
+  (cruce con datos del punto 7).
+
+### Heen y Lettie (secundarios menores)
+
+- **Heen**: perro «recadero» de Suliman, inventado para la película (no
+  está en la novela); en realidad la espía dentro del castillo por orden
+  de Suliman, pero al final decide quedarse con la familia de Howl en vez
+  de volver — Suliman lo llama «pequeño traidor» sin enojo real · Ghibli
+  Wiki History · ✅.
+- **Lettie**: hermana menor de Sophie, extrovertida, trabaja en la
+  pastelería Cesari's, popular con los clientes; es quien empuja a Sophie a
+  perseguir lo que quiere en vez de resignarse a la sombrerería · Ghibli
+  Wiki History · ✅.
+
+## 12. Lo que el fandom ama, y qué NO hacer
+
+### Momentos/chistes internos que todo fan reconoce
+
+- **La escena del «moco verde»**: Howl, al ver su pelo teñido de naranja por
+  accidente, tiene un colapso dramático, se derrite en baba/limo verde
+  cubriendo el castillo entero, y grita bajando las escaleras mientras
+  Sophie y Markl lo miran con cara de póker — es LA escena más citada en
+  memes y GIFs · confirmada en TikTok (`howl-turning-into-slime-scene`,
+  `slime-howl-moving-castle`), Tumblr (`rebuildingthemovingcastle`) y Tenor
+  (GIF con miles de reacciones) · ✅ (tres plataformas distintas describen
+  la misma escena con el mismo tono de «lo más gracioso de la peli»).
+- **El desayuno de tocino y huevos**: la escena en que Howl cocina huevos
+  con tocino sobre la lumbre de Calcifer es de las más recreadas por fans
+  fuera de la pantalla: un post de Reddit «Gf and I made the breakfast from
+  Howl's Moving Castle» tiene 1201 votos en r/ghibli · ✅
+  (https://www.reddit.com/r/ghibli/comments/1vopjqy/) — para la lámina:
+  la comida real, no sólo el personaje, es un símbolo que el fandom
+  reconoce al instante.
+- **Bordar/tejer escenas de la película** es una tradición del fandom: un
+  post de bordado del castillo tiene 4159 votos en r/ghibli
+  (https://www.reddit.com/r/ghibli/comments/1vvq7mw/) · ✅ — sugiere que el
+  fandom valora mucho el textil/artesanía relacionada con la serie (útil si
+  el canal del servidor tiene que ver con manualidades/edición).
+- Los memes de «Howl vanidoso» (llorando por su pelo, «I don't have time to
+  wash my hair») son el ángulo cómico #1 del personaje según CBR y TV
+  Tropes (aunque TV Tropes dio 403, el ángulo se repite en foros y TikTok) ·
+  ⚠️ (no se pudo confirmar en TV Tropes directamente, ver Bitácora).
+
+### Qué NO hacer (para no romper la ilusión del fandom)
+
+- **No dibujar a Howl «siempre guapo y sereno»**: su vanidad es cómica y
+  frágil — el gag central es que se derrumba por completo si algo de su
+  imagen falla. Mostrarlo sin ese contraste (guapo pero nunca vulnerable)
+  traiciona el personaje que el fandom ama · basado en el arco de Personality
+  de Ghibli Wiki + el meme del moco verde (arriba) · ✅.
+- **No usar un globo de diálogo blanco genérico**: el mundo de la película
+  es steampunk victoriano-europeo con magia — letras, cartelas y adornos
+  deberían sentirse de latón, engranajes, pergamino o vitral, no de cómic
+  americano (esto es instrucción explícita de `ENCARGO.md`, y aquí se
+  confirma con el tono de todo el material visto: nada del diseño de esta
+  película es plano o genérico).
+- **No mostrar el castillo como algo limpio o elegante**: es una montaña de
+  chatarra mecánica gigante, asimétrica, con patas de gallina y chimeneas
+  torcidas (visto directamente en los fotogramas 8-10 del tráiler, 0:20-0:30)
+  — un castillo «bonito y ordenado» sería lo opuesto a la idea original ·
+  ✅ (visto directamente).
+- **No aplanar a Sophie como «la anciana simpática»**: su forma cambia con
+  su estado de ánimo (rejuvenece cuando se siente segura); mostrarla siempre
+  igual de vieja pierde ese detalle que el fandom sí nota (confirmado con
+  el fotograma 45 del tráiler, donde aparece joven en medio de la peli) ·
+  ✅.
+- **Ojo con el doblaje que se cita**: hay DOS doblajes latinos con reparto
+  distinto (ver punto 8); un hilo de Doblaje Wiki («De los recientes
+  redoblajes de Ghibli para Netflix, ¿cuál es el mejor (o el menos peor?)»,
+  https://doblaje.fandom.com/es/f/p/4400000000000089420) muestra que el
+  tema genera debate entre fans — pero la página normal de Doblaje Wiki da
+  error 402 y no se pudo leer el contenido del hilo, sólo el título ·
+  ⚠️ (una fuente, sólo el título, ver Bitácora). Conviene decir en el canal
+  qué doblaje se está citando (ZIMA 2005 o Wild Bunch 2020) para no mezclar
+  actores.
+- El propio dueño ya avisó (en `ENCARGO.md`) que rechaza láminas «con poca
+  referencia»: esta película tiene MUCHO material de detrás de cámaras
+  (citas reales de animadores, ver punto 13) que no se puede ignorar — usar
+  sólo capturas de pantalla sueltas sin ese contexto sería quedarse corto.
+
+## 20. Gustos y detalles de cada personaje
+
+Aviso honesto: Studio Ghibli **no publica fichas tipo databook** con
+cumpleaños/altura/tipo de sangre como las series de manga shonen (esto se
+buscó explícitamente: no hay «artbook de datos» de esta película con esas
+fichas, sólo el libro *The Art of Howl's Moving Castle*, que es de bocetos y
+entrevistas, no de estadísticas de personaje). Lo que sigue es lo que SÍ está
+documentado, con fuente:
+
+- **Howl**: edad 27 años en la novela original («desconocida» en la
+  película) · https://myanimelist.net/character/507/Howl + AniList (en
+  datos-voz.md) · ✅. Año de nacimiento especulado 1873 según cálculos de
+  fans sobre la novela (dato de ficha de Ghibli Wiki, marcado como
+  «birthday=1873») · ⚠️ (una fuente, y la propia wiki lo marca como
+  deducción, no dato oficial). **Cómo se ve a sí mismo**: obsesionado con
+  su imagen — tiñe su pelo, se viste con capas y colores vistosos, y un
+  fallo estético lo hace colapsar emocionalmente (ver punto 12) · Ghibli
+  Wiki Personality + Appearance · ✅. **Objeto que siempre lleva**: un
+  colgante/dije al cuello, visible en todo el diseño de personaje ·
+  Ghibli Wiki Appearance · ⚠️ (una fuente, dato visual de diseño).
+  **Lo que odia**: la guerra y que lo obliguen a pelear para el Rey — evita
+  el contacto con el ejército todo lo posible aunque juró servir al Rey ·
+  Ghibli Wiki History · ✅.
+- **Sophie**: 18 años · AniList + Ghibli Wiki · ✅. **Cómo se ve a sí
+  misma**: «sencilla», nada especial — motivo por el que se resigna a
+  quedarse en la sombrerería en vez de perseguir otra vida (ver punto 13) ·
+  ✅. **Aficiones**: coser sombreros (oficio heredado), limpiar (inicia la
+  limpieza completa del castillo de Howl sin que se lo pidan) · Ghibli
+  Wiki Personality · ✅. **Objeto que la define**: el sombrero de paja con
+  cinta roja que usa como anciana · visto en los fotogramas del tráiler
+  (ej. fotograma 6, 0:15) · ✅ (visual, confirmado viendo el fotograma).
+- **Calcifer**: **Su «comida»**: leña y carbón (cualquier combustible;
+  cuanto más come, más grande y fuerte se pone, lo que también controla su
+  temperamento) · Ghibli Wiki Appearance · ✅. **Lo que odia**: estar
+  atado al hogar del castillo sin poder moverse — se describe a sí mismo
+  como «esclavo de Howl» en su propia frase de doblaje (ver punto 8) · ✅
+  (frase textual + ficha).
+- **Bruja Calamidad**: **Lo que ama**: la juventud y la belleza, al punto
+  de usar magia oscura para mantenerlas durante años · Ghibli Wiki History
+  · ✅. **Lo que teme**: la luz — viaja en un palanquín con cortinas
+  oscuras «no sólo por su tamaño, sino por su aversión al sol» · Ghibli
+  Wiki Appearance · ✅.
+- **Markl**: **Manía**: disfrazarse de mago con barba postiza para parecer
+  mayor frente a los clientes · Ghibli Wiki History · ⚠️ (una fuente,
+  visual/verificable en pantalla).
+- Ninguno de los personajes tiene cumpleaños exacto ni altura publicada
+  oficialmente — se buscó en AniList, Ghibli Wiki, MyAnimeList y Doblaje
+  Wiki; ninguna de las cuatro lo tiene. Esto se anota, no se inventa.
+
+## 21. Por qué la gente la ama
+
+- **Taquilla**: recaudó cerca de 235 millones de dólares en el mundo (190
+  millones sólo en Japón), una de las películas japonesas más taquilleras
+  de la historia · https://es.wikipedia.org/wiki/El_incre%C3%ADble_castillo_vagabundo
+  · ✅ (coincide con el dato en inglés de Wikipedia, mismo orden de
+  magnitud).
+- **Premios**: nominada al Óscar a Mejor Película Animada (perdió contra
+  *Wallace & Gromit*), ganó el Premio Osella (efectos técnicos) en el
+  Festival de Venecia y el Premio del Público en Sitges ·
+  https://en.wikipedia.org/wiki/List_of_accolades_received_by_Howl%27s_Moving_Castle
+  + es.wikipedia (arriba) · ✅ (dos fuentes).
+- **Crítica**: 87% en Rotten Tomatoes; Roger Ebert la llamó «una magnífica
+  obra maestra que es un canto a la vida»; *Sight & Sound* la incluyó entre
+  sus mejores películas de 2005 · es.wikipedia.org (arriba) · ⚠️ (una
+  fuente agregadora para los tres datos juntos, aunque cada uno es
+  verificable por separado en Rotten Tomatoes/Ebert directamente).
+- **Por qué conecta (razones concretas, no genéricas)**:
+  - El tema central —que la belleza no depende del aspecto, y que el amor
+    propio importa más que verse joven— es el que más repiten los fans
+    como motivo de cariño (Sophie encuentra libertad siendo «vieja»; Howl
+    encuentra sentido cuando dejar de huir le importa más que verse bien)
+    · búsqueda web «why fans love Howl's Moving Castle» (varias reseñas
+    coinciden) · ⚠️ (varias fuentes de opinión, no una encuesta cerrada,
+    pero el patrón se repite).
+  - La banda sonora, en especial el tema «Merry-Go-Round of Life» de Joe
+    Hisaishi, se cita constantemente como la pieza que más emociona de
+    toda la filmografía de Ghibli (nota: la música es punto 9, del
+    investigador de vídeo; aquí sólo se anota como razón de cariño) · ✅.
+- **Con qué personaje se identifica el público, y por qué**: con Calcifer,
+  no con la protagonista — motivo (CBR, ver punto 13): personalidad
+  chispeante, diseño memorable, es literalmente el corazón (de Howl) de la
+  trama, y tiene más profundidad emocional de la que aparenta un personaje
+  cómico · ✅ (coincide con que sea #2 en las tres encuestas de
+  popularidad del punto 7 — el público vota con los favoritos igual que
+  dice identificarse).
+- **Escenas que hacen llorar o gritar de emoción** (capítulo/minuto: al ser
+  película sin capítulos, se da el momento de la trama):
+  - El final, cuando el castillo (ya destruido y reconstruido con alas)
+    vuela sobre el valle en flor mientras suena «Merry-Go-Round of Life» y
+    Howl y Sophie se besan — descrita repetidamente como la escena más
+    citada para «llorar de felicidad», aunque no se pudo confirmar el
+    minuto exacto ni el hilo de Reddit específico (búsqueda sin resultado
+    exacto, ver Bitácora) · ⚠️ (mencionado en reseñas generales, sin cifra
+    de votos ni minuto exacto verificado por mí).
+  - No se encontró un hilo de Reddit con votos concretos sobre una escena
+    puntual de llanto (se intentó `arctic-shift` con varias palabras clave,
+    sin resultados) — lo que SÍ se confirmó con votos reales es el cariño
+    por el desayuno (1201 votos) y el bordado (4159 votos), ambos en el
+    punto 12, que funcionan como termómetro de cariño aunque no sean
+    «escenas de llorar» · ⚠️ (transparencia: no se inventa un minuto que no
+    se comprobó).
+
+## 22. Fan dubs y comunidad hispana
+
+- **Fandub de la escena «Sophie conoce a Howl»** (canal BAT-ZUÑIGA2001),
+  641 vistas, subido 22-ene-2024, 1:17 de duración ·
+  https://www.youtube.com/watch?v=sQfuJRp9Pek · ✅ (metadatos comprobados
+  con `yt-dlp --skip-download`, sin necesidad de iniciar sesión).
+- **Cover en español latino de «Sekai no Yakusoku»** (tema de cierre
+  japonés; canal Kelly Pong :3), 17 487 vistas, subido 9-ago-2019, versión
+  completa (4:21) · https://www.youtube.com/watch?v=yd981lnpdCM · ✅
+  (metadatos comprobados igual que arriba).
+- **Comparación en video del doblaje latino original (ZIMA) contra el
+  redoblaje (Wild Bunch)**, canal «Doblajes Español Latino», 131 048
+  vistas, subido 23-dic-2020, 3:48 de duración ·
+  https://www.youtube.com/watch?v=44KtNqzmYTg · ✅ — el video con más
+  vistas encontrado sobre el tema específico del doblaje de esta película;
+  confirma que el contraste entre los dos doblajes es un tema que sí le
+  interesa al público hispano, no sólo curiosidad de investigación.
+- **TikTok con demo de doblaje de Howl** (cuenta @pedroduranvoz, actor de
+  doblaje aficionado): «Hoy os traigo esta demo de doblaje de Howl, del
+  castillo ambulante… es un personajazo» ·
+  https://www.tiktok.com/@pedroduranvoz/video/7334438015311367457 · ⚠️
+  (una fuente, contenido de aficionado en España, no Latinoamérica, pero es
+  comunidad hispana de doblaje, que es justo el público del servidor).
+- Varios hashtags activos en TikTok con contenido de fandub/comunidad sobre
+  la película: `#castillo-vagabundo-doblaje-original`,
+  `#el-castillo-ambulante-castellano`, `#voz-de-howl-en-español` — no se
+  pudieron abrir directamente (TikTok no da acceso sin sesión desde este
+  servidor), así que sólo se cuenta como indicio de actividad, no como
+  fuente citable por separado · ⚠️.
+- **No se encontraron memes o parodias hispanas dedicadas** (tipo
+  «versión chusca» o parodia cómica en español de la película) más allá de
+  los fandubs/covers de arriba — se buscó explícitamente («parodia El
+  Castillo Ambulante español latino») y no apareció nada dedicado, distinto
+  de recortes/tráilers repetidos · esto se anota como «no encontré», no
+  como «no existe» (ver `AYUDANTE.md`).
