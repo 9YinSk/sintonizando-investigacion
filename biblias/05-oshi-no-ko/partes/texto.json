@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://sketchfab.com/3d-models/3d-anime-character-girl-for-blender-c1-4592848f6d2d47d1b0544e1ddbbc6e87",
+    "fuente": "Sketchfab (Youcef.Solo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D base rigged de chica anime para Blender (C1), descargable",
+    "para_que": "Punto 18: base de cuerpo/rig libre para posar en Blender con toon shader propio; no representa a ningún personaje de Oshi no Ko",
+    "licencia": "CC Attribution (CC-BY, pide crédito al autor)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/3d-anime-character-girl-for-blender-906b6874327844de9f794c7986127f3f",
+    "fuente": "Sketchfab (CGBlender)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D base rigged de chica anime para Blender, descargable",
+    "para_que": "Punto 18: alternativa de base de cuerpo/rig libre para posar en Blender",
+    "licencia": "CC Attribution (CC-BY, pide crédito al autor)"
+  },
+  {
+    "url": "https://www.clipstudio.net/oekaki/archives/151231",
+    "fuente": "Clip Studio (sitio oficial del programa)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Entrevista/tutorial oficial de Mengo Yokoyari (dibujante de Oshi no Ko) sobre su técnica de dibujo",
+    "para_que": "Punto 18: cita textual sobre su método de dibujo (gesto antes que detalle, pestañas, pelo suelto), confirma que usa Clip Studio Paint",
+    "licencia": "Artículo de texto, no imagen para usar en la lámina; sólo como fuente"
+  },
+  {
+    "url": "https://febri.jp/topics/oshinoko_imamaki_01/",
+    "fuente": "Febri (entrevista al director Daisuke Hiramaki, japonés)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Entrevista oficial de prensa japonesa sobre la producción de la animación",
+    "para_que": "Punto 18: citas textuales del director sobre el guion de color y la amplificación de las coreografías",
+    "licencia": "Artículo de texto, sólo como fuente"
+  }
+]
