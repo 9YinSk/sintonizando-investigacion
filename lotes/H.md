@@ -19,6 +19,10 @@ ahora lleva el lote H.)
   119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
   120: imagen y voz listas; texto vacío y sin video → texto y video (Sonnet) relanzados.
   121-126: recolectando otra vez con hojas (se perdieron con el contenedor).
+- 120 Days Gone: 4 partes listas (13:42); redactor (Opus) en marcha.
+- 121 Tomb Raider: imagen lista; video, voz y texto (Sonnet) en marcha desde 13:22-13:40.
+- 122-126: datos recolectados; Fandom repetido con su wiki (littlenightmares, reanimal, nomanssky,
+  eldenring, finalfantasy) porque los encargos no la traen.
 
 ## Avisos para el dueño
 
@@ -69,3 +73,6 @@ ahora lleva el lote H.)
 | 120 | imagen | Sonnet | 12 | 181 mil |
 | 119 | video | Sonnet | 18 | 225 mil |
 | 118 | redactor | Opus | 21 | 372 mil |
+| 120 | texto (reescrito desde cero) | Sonnet | 16 | 205 mil |
+| 121 | imagen | Sonnet | 15 | 222 mil |
+| 120 | video | Sonnet | 21 | 233 mil |
