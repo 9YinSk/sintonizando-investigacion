@@ -126,3 +126,140 @@ biblia sirve igual para cualquier uso.
 - **Doblaje latino**: Haymillian México / BDG Studios (T1-T2, Cuernavaca) y
   TransPerfect Media (T3), dirección de **Denisse Leguizamo**, que además es
   Sylphiette. Roxy es **Effy Estrada**; Eris, **Rose Mendoza** (§10).
+- **Tono**: fantasía medieval luminosa (trigales, ciudades blancas) con
+  momentos muy oscuros (mazmorra de Eris, brillo 12 %, §5). Nada de colores
+  chillones: la serie pinta con degradados suaves y poca saturación (§19).
+- **Lo que más duele**: la muerte de Paul (ep. 46, T2 ep. 22). **Lo que más
+  alegra**: Sylphiette revelada bajo el disfraz de Fitz (ep. 37) (§22).
+- **Tres láminas propuestas** (§27): A, el manual de magia en la mesa de
+  estudio con Roxy (#material-de-clase); B, el tablón del Gremio de
+  Aventureros con Eris (#reto-de-la-semana); C, la pizarra del aula de
+  Ranoa con Sylphiette (#dudas).
+
+---
+
+## 2 · Las escenas que sirven, con minuto
+
+Todo esto lo **miró el equipo** con `fotogramas.py` o `episodio.py`. Los
+episodios salen del lote de Internet Archive (doblaje inglés, 1080p;
+[E1](https://archive.org/download/mushoku-tensei-jobless-reincarnation-e-2-1080p/Mushoku_Tensei_Jobless_Reincarnation-E1-1080p.mp4),
+E2, E3 y E5; falta el E6 y el lote sólo llega al E11). El tráiler, de
+[Dailymotion x8bc8ii](https://www.dailymotion.com/video/x8bc8ii) (1280×720).
+
+| Escena | Dónde y minuto | Qué se ve | Estado |
+|---|---|---|---|
+| Nace Rudeus | ep. 1, 2:36-2:48 | Bebé en un paño, **ojos verdes muy abiertos**: mirada de adulto en cuerpo de bebé. Luego tres velas encendidas. Sin música, sólo ambiente | ✅ |
+| Lee el manual de magia | ep. 1, 8:00 | «El manual de magia es mi favorito». Dos formas de hacer magia: conjuros y círculos mágicos | ✅ (transcripción) |
+| Primer hechizo sin conjuro | ep. 1, 9:00-10:00 | «Concéntrate, imagínalo una y otra vez… y suéltalo» | ✅ (transcripción) |
+| Llega Roxy | ep. 1, 16:00 | «Me llamo Roxy Migurdia». Paul y Zenith se sorprenden de lo pequeña que es | ✅ |
+| La clase en el jardín | ep. 1, 17:00-19:30 | Tres tipos de magia (ataque, curación, invocación) y **siete rangos**. Roxy lanza «Water Ball» con el báculo contra el árbol de Zenith (18:07) y luego se agacha junto al tocón (18:25) | ✅ |
+| «Ganaste experiencia» | ep. 1, 20:00-21:00 | Rudeus consuela a Roxy tras el regaño de Zenith. Luego cena de bienvenida con velas (21:54) | ✅ |
+| Cartela del título | ep. 1, 22:10 | «第一話 無職転生» sobre **fondo rojo con textura de tela** | ✅ |
+| Roxy en el muro | ep. 2, 7:36 | Sentada en lo alto de un muro de piedra, sombrero y báculo, mirando abajo a Rudeus | ✅ |
+| Llega Sylphiette | ep. 3, 5:30-5:40 | Capucha puesta; se la baja y se ven las orejas de elfo | ✅ |
+| Estudian juntos | ep. 3, 6:40 | Sentados en el pasto, cada uno con un libro abierto | ✅ |
+| Eris furiosa | ep. 5, 6:20-6:30 | Arrastra a Rudeus y grita con el **puño en alto** | ✅ |
+| Eris en la mazmorra | ep. 5, 12:20 | Tras las rejas, araña la pared; azul casi negro | ✅ |
+| Niño en el trigal dorado | [tráiler 0:08](https://www.dailymotion.com/video/x8bc8ii?t=8) | El plano de la promoción: niño corriendo en un trigal al atardecer | ✅ |
+| Isla flotante | [tráiler 0:24](https://www.dailymotion.com/video/x8bc8ii?t=24) | Templo sobre el mar, celeste lavado | ✅ |
+| Manos en oración | [tráiler 1:12](https://www.dailymotion.com/video/x8bc8ii?t=72) | Manos entrelazadas, luz dorada | ✅ |
+| Combate final | [tráiler 1:42](https://www.dailymotion.com/video/x8bc8ii?t=102) | Relámpagos contra una criatura de ojo rojo | ✅ |
+| Lanza contra bestia blanca | [tráiler 0:48-1:00](https://www.dailymotion.com/video/x8bc8ii?t=48) | Personaje sin identificar (¿Ruijerd? ¿Eris?) | ⚠️ |
+
+Del **tráiler del nuevo arco** ([Dailymotion x8yhi8e](https://www.dailymotion.com/video/x8yhi8e)):
+Rudeus adulto protector ([0:30](https://www.dailymotion.com/video/x8yhi8e?t=30)),
+con miedo frente a la hidra ([1:09](https://www.dailymotion.com/video/x8yhi8e?t=69))
+y gritando de rabia a la luz del fuego ([1:15](https://www.dailymotion.com/video/x8yhi8e?t=75)).
+
+**Faltan** (⚠️): los episodios de la T2 y la T3 no se vieron enteros. La
+muerte de Paul (ep. 46) y el reencuentro con Sylphiette (ep. 37) están
+documentados por wiki y reseñas, **sin fotograma propio** (§22).
+
+---
+
+## 3 · Arte oficial y hojas de contacto
+
+### Las 3 hojas de `hojas/` (mirar el número amarillo de cada miniatura)
+
+Cada hoja mide 2400×1704. Salen de `investigar_serie.py` sobre la wiki.
+
+**`hojas/personajes_01.jpg`** (n.º 97-144, capturas 1920×1080 de la T2):
+- **99-101**: Roxy con Rudeus en un interior de madera; en el 101, Roxy
+  sentada con un **libro abierto** sobre la mesa. Referencia de «clase».
+- **105-106**: Roxy en acción: lanza fuego con el báculo (105) y pelea con
+  sombrero y capa ante una criatura (106).
+- **110**: dos personajes junto a una hoguera, de noche. Luz cálida real.
+- **112**: Roxy ruborizada, mano en la boca: su cara de **vergüenza**.
+- **114**: Roxy con el sombrero de bruja en un paisaje nevado.
+- **120**: Roxy sonriendo junto a una chica de pelo naranja (T2 ep. 24).
+- **121**: tres velas encendidas en primer plano: fondo de interior.
+- **123**: mercado con puestos de comida; **125**: comedor con mesa larga.
+- **133**: Rudeus, Sylphiette y Ariel con el **uniforme de Ranoa**.
+- **136**: aula de Ranoa con alumnos en pupitres.
+- **137**: Rudeus ante una **pizarra escrita a tiza**, con una lámpara
+  mágica rosa. Base del concepto C.
+- **141-142**: Rudeus y Sylphiette en el patio y la biblioteca de Ranoa.
+- **143**: Rudeus, pensativo, mano en la barbilla, junto a una chica pelirroja.
+
+**`hojas/modelo_01.jpg`** (n.º 193-237, hojas de modelo y manga):
+- **203, 210, 216, 233**: Roxy de cuerpo entero sobre fondo verde (S3, S3
+  v2 con el **báculo**, S1 y una ilustración con maleta). La 210 es la
+  mejor pose de Roxy con su objeto.
+- **204**: Roxy de la T2 con capa marrón y sombrero.
+- **206, 208**: Rudeus con el uniforme de Ranoa (T2).
+- **207**: Sylphiette disfrazada de **Fitz**, con gafas oscuras y capa azul.
+- **205, 209, 215**: Sylphiette de la T2 y la T3 (capa verde oliva).
+- **211-212**: Rudeus de la T3 con túnica gris; en la 212, el **báculo con
+  orbe azul**.
+- **213**: Sylphiette con capa roja y verde (arco del Laberinto).
+- **214, 228**: Eris de la T3 (traje blanco) y en ropa de entrenamiento.
+- **217-219**: diseños de 2020 de Rudeus niño, Sylphiette de pelo verde y
+  Eris con vestido y diadema negra.
+- **221, 226, 227, 229, 230**: páginas de manga en blanco y negro (Eris
+  entrenando, Fitz contra Nightseye Crow, capítulos 52, 57 y 66). En la 230
+  se ven **globos con texto** en inglés.
+- **225**: Roxy en portada de tomo; **231**: Rudeus adulto; **232**:
+  Sylphiette de 17 años con uniforme de guardia; **236**: Rudeus a los 3, 5 y 6
+  años (tres tallas); **237**: Eris adulta.
+
+**`hojas/fondos_01.jpg`** (n.º 1-48, sitios):
+- **1**: sede del **Gremio de Aventureros** de Millishion, catedral blanca
+  (1920×2080). Base del concepto B.
+- **2**: key visual de la T2 (Rudeus con el uniforme de Ranoa).
+- **3-10**: **Buena Village**: campos, colinas, puente de piedra con molino
+  (7), bosque de otoño (8-9) y el **árbol rojo** (10).
+- **11-16**: **Millishion**: ciudad blanca, puente, catedral de cúpulas
+  doradas (13), obelisco (15) y plaza con fuente (16).
+- **26**: fachada de piedra clara con jardín; **27-30**: interiores
+  oscuros de piedra (círculo mágico en el suelo en el 25, rosetón en el 28,
+  laboratorio en el 30).
+- **31**: Paul y Zenith bajo un árbol al atardecer (PV de la T1).
+- **32-36**: la **ciudadela de Roa**: tejados rojos, mercado y calles.
+- **37**: **la llegada de Roxy**: Paul y Rudeus sentados en el trigal y Roxy
+  de espaldas con el sombrero.
+- **38**: Rudeus niño comiendo una galleta, ojos verdes.
+- **39-40**: desierto y rocas. **41**: un **medallón** con emblema.
+- **44**: dormitorio con cama con dosel; **47-48**: salas de la academia.
+
+### Arte oficial fuera de las hojas (tamaños medidos)
+
+- **Key visual** de AniList y **banner**
+  ([portada](https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg)) ✅.
+- **Blu-ray**: [BD cover 3, 4096×2642](https://static.wikia.nocookie.net/mushokutensei/images/6/6d/BD_cover_3.jpg)
+  (la más grande), BD cover 1 (1536×993), BD cover 4 (2057×1323),
+  Digipak 4 (2560×1674) ✅.
+- **Key visual T2**: [1353×1920](https://static.wikia.nocookie.net/mushokutensei/images/9/9f/Season_2_KV_1.png) ✅.
+- **Novela**: ilustración del tomo 8 con Fitz (1350×958), tomo 15
+  (1080×1530), retrato «Fitts LN» (1125×1600) ✅.
+- **Manga**: portada de *Roxy Gets Serious* de Yuka Fujikawa
+  ([1358×1290](https://static.wikia.nocookie.net/mushokutensei/images/0/00/Roxy_Manga_Yuka_Fujikawa.jpg)) ✅;
+  Luke con la espada al cuello de Ariel (1058×1500), buena pose de combate
+  a dos ✅.
+- **Oficial disfrazado de fan art**: una Roxy de 2896×4096 en Safebooru
+  viene de la cuenta oficial [@mushokutensei_A](https://twitter.com/mushokutensei_A/) ✅.
+- **Juego móvil**: sólo la [imagen promocional, 1024×538](https://static.wikia.nocookie.net/mushokutensei/images/b/b4/Mobile_game_visual.jpg) ✅.
+- **No se pudo**: la web oficial [mushokutensei.jp](https://mushokutensei.jp/)
+  da 403 y no tiene copia en Wayback. Se cubrió con las hojas «Anime
+  Design» de la wiki, que son el mismo arte de producción ⚠️.
+
+---
