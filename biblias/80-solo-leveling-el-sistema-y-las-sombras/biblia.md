@@ -278,3 +278,33 @@ investigador de vídeo (salvo donde se dice).
 - ⚠️ **Faltan** texturas reales de hielo, piedra de templo, lluvia o
   asfalto mojado con licencia: ninguna parte las buscó.
 
+## 5 · Tipografía, una letra por uso
+
+El investigador de texto bajó cada `.ttf` de Fontsource y miró con
+`fontTools` si trae **á é í ó ú ñ Ñ ¿ ¡ ü**. Todas son SIL OFL (gratis, uso
+comercial). También hizo una plancha con «STATUS 100 Nv. ñÑ¿¡áéíóú».
+
+| Uso | Cómo es en la serie | Letra libre | ¿Tildes, ñ, ¿ ¡? |
+|---|---|---|---|
+| **Logo o título** | logo «SOLO LEVELING» angular con resplandor azul sobre circuito (tráiler 0:00-0:16) | **Audiowide** para títulos cortos tipo «SISTEMA»; el logo real, en la biblia 03 | ✅ las 9 |
+| **Cabecera y número de la ventana** | «STATUS» y «100»: palo seco geométrico, curvas redondeadas | **Exo 2 Bold** (la más parecida) | ✅ las 9 |
+| **Etiquetas de la ventana** | JOB, TITLE, STR, AGI en mayúsculas pequeñas | **Rajdhani Bold** | ✅ las 9 |
+| **Etiquetas mínimas** | HP, MP, botones | **Electrolize** | ✅ las 9 |
+| **Ventana violeta del Monarca / cartela de jefe** | más angular; la cartela de Igris (ep. 11 · 0:06) es azul y angular | **Orbitron Bold** | ✅ las 9 |
+| **Interfaz del videojuego** | «RESULT» y «SSS» de *ARISE OVERDRIVE*: condensada, cursiva, deportiva | **Teko Bold** | ✅ las 9 |
+| **Globo normal** | «SHOP.»: palo seco en mayúsculas, trazo grueso (webtoon en inglés) | **Anime Ace 2.0 BB** o **Komika Axis** | ⚠️ sin comprobar |
+| **Onomatopeya del Sistema** | «DING»: letras gruesas redondeadas, azul `#3B84BD` con borde blanco | **Bangers** o **Krona One** | ⚠️ sólo por catálogo |
+| **Grito** | no se encontró una viñeta legible | ⚠️ sin propuesta | — |
+| **Pensamiento** | en los subtítulos del anime, cursiva sin globo (según la biblia 03) | cualquiera de arriba en cursiva | ⚠️ |
+| **Cartel del mundo** | no se encontró un cartel legible propio | ⚠️ sin propuesta | — |
+| **Subtítulos y créditos** | título del ending medido en la biblia 03 | Anton o Bebas Neue (biblia 03) | ⚠️ no revisado aquí |
+
+- ⚠️ **Ojo con Anime Ace**: en Haikyuu no traía ¿ ni ¡ (`DECISIONES.md`).
+  Hay que mirarla con `fontTools` antes de usarla. Allí se cambió por Comic Neue.
+- ⚠️ **La letra oficial de la ventana** no la nombra ninguna fuente oficial.
+  Los fans citan Trueno Round, Circe Rounded o Caros Soft, sin prueba.
+- Letras: [Exo 2](https://cdn.jsdelivr.net/fontsource/fonts/exo-2@latest/latin-700-normal.ttf) ·
+  [Rajdhani](https://cdn.jsdelivr.net/fontsource/fonts/rajdhani@latest/latin-700-normal.ttf) ·
+  [Orbitron](https://cdn.jsdelivr.net/fontsource/fonts/orbitron@latest/latin-700-normal.ttf) ·
+  ficha de cada una en [api.fontsource.org](https://api.fontsource.org/v1/fonts?subsets=latin-ext).
+

@@ -249,8 +249,11 @@ créditos; no lo confirma ninguna wiki en texto)
 Fuente de las 7: E1 Internet Archive (dub 1080p) · `ep01_inicio/hoja_01.jpg` ·
 minutos exactos arriba.
 
-### Roxy Migurdia (ep. 2 «Master», la introduce como maestra de magia de
-Rudeus; lleva su sombrero de bruja de ala ancha y trenza turquesa)
+### Roxy Migurdia (aparece por primera vez ya en el propio ep. 1, min.
+16:00-21:00 —confirmado por la transcripción de `episodio.py`: «My name's
+Roxy Migurdia, pleased to meet you»— y el ep. 2 «Master» sigue con ella como
+maestra de magia de Rudeus; lleva su sombrero de bruja de ala ancha y trenza
+turquesa)
 1. 2:48 — Sentada junto a Rudeus en la mesa de estudio, postura recta,
    presentándose como su nueva maestra. Sirve para **presentar**. ✅
 2. 3:44 — Se rasca la nuca, algo azorada, mirando hacia otro lado. Sirve para
