@@ -711,3 +711,146 @@ Lo que las partes decían y no cuadra con lo mirado o con otra parte:
 5. **El anillo** más buscado por los fans es el de **Deacon** (hilo «Deacons iconic ring»), no el de Sarah.
 6. **El chaleco**: la wiki dice cuero negro; medido y visto es azul petróleo apagado. Queda como ⚠️ por mirar de cerca (§15).
 7. **El culto**: la wiki del juego dice **Rippers**; Doblaje Wiki escribe «Reapers». Por oír en el juego (§8).
+
+## 3 conceptos de lámina
+
+Canales propuestos (Days Gone no tenía canal): **#hardware**, **#textos** y **#en-directo**. Textos reales de `servidor/inventario.md`. Si otra serie pide el mismo canal, no bloquea nada (nota al final).
+Para las tres: mundo frío y apagado (regla 6), **una sola luz cálida**, cuadro de diálogo **sin globo**: la **barra negra de subtítulos** con «NOMBRE:» en **Oswald** negrita y la frase en Oswald normal; títulos en **Bebas Neue**; parches y carteles en **Rye**. Las tres traen ñ, tildes, ¿ y ¡ (§5). Sin rayas ni «·» en los textos (regla 4), aunque el juego use rayas.
+
+### A · #hardware — «La Drifter en el taller» (recomendada)
+- **Objeto real en un sitio real**: la **Drifter** en un caballete, con el depósito abierto, en el **taller del mecánico de un campamento** (el menú **MECHANIC**, §11; la moto estuvo retenida en el campamento de Copeland, §25). El taller es el **cobertizo de madera con palés** del vídeo, [1:22](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=82): `#3C4241`, `#281E19`, madera `#483427`, luz cálida de ventana lateral. En Blender: la moto mirando la réplica real (`simbolos_02` n.º 3) y el modelo de 47fortyseven (sólo mirar), banco con `Planks012`, piezas con `Metal063`, trapo con `Fabric030`.
+- **Personajes**: **Deacon**, agachado junto a la moto, mirando la pieza que tiene en las manos (pose 10, [13:03](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=783)), con el chaleco y «NOMAD» visibles (Steam n.º 3). **Boozer**, apoyado en el banco con los brazos cruzados, es quien dice la verdad sin rodeos (§13) ⚠️ no hay imagen suya en las partes: buscar en la wiki antes de hacerla. Si no se encuentra, Deacon solo.
+- **Cómo hablan**: barra negra de subtítulos abajo.
+  - DEACON: «Un hilo por cacharro. Con el precio delante.»
+  - BOOZER: «Y si lo tienes, cuenta cómo te fue. De verdad, hermano.»
+- **Dónde va cada texto**:
+  - Arriba a la izquierda, como el título del mecánico: «HARDWARE», y debajo la **etiqueta naranja**: «Micros, interfaces, auriculares y cámaras».
+  - En **etiquetas de cartón colgadas con alambre** de las piezas del banco: Micrófono, Interfaz, Auriculares, Cámara, Tratamiento acústico.
+  - En **tarjetas de precio** como las del mercader, en créditos: Menos de 50, De 50 a 150, De 150 a 400, Más de 400.
+  - Como **pegatinas en el depósito** (el juego da calcas para la moto): Lo tengo y lo recomiendo, No lo compres, Alternativa barata.
+  - Si las 12 etiquetas saturan: **lámina 2** con la pantalla MECHANIC y la lista completa.
+- **Que no quede plano**: la rueda delantera en primer plano, desenfocada; polvo en el haz de la ventana; por la puerta abierta, el bosque con niebla en azul frío (`#596460`, `#EDECE8`) contra la luz cálida del taller; llaves colgadas en la pared.
+
+### B · #textos — «La grabación de campo»
+- **Objeto real en un sitio real**: una **grabadora de NERO** sobre una mesa plegable en un **puesto de control de NERO abandonado**: vallas, carteles de cuarentena, un **traje HAZMAT amarillo** tirado (§25). Al lado, una **caja de cintas** y la hoja con la transcripción. ⚠️ El aspecto exacto de la grabadora no está en las partes; se sabe cómo se ve su texto (§6). En Blender: grabadora y cintas sencillas, papel con curva, valla con `Metal063`.
+- **Personaje**: **Deacon**, agachado, cabeza gacha, **escuchando** (pose 2, [1:22](https://archive.org/download/DaysGoneE3VsRetailDirectComparison/Days%20Gone%20E3%20vs%20Retail%20Direct%20Comparison.mp4?t=82)). En el juego rastrea estos puestos buscando a Sarah. La segunda voz de la cinta es **O'Brian**, de NERO: se oye, no se ve.
+- **Cómo hablan**: la **pantalla de grabación de campo** del juego: fondo oscuro con la foto del sitio apagada, cabecera en versales y el texto como **guion de radio**, «NOMBRE: frase». Es literalmente un guion: encaja con un canal de guiones.
+- **Dónde va cada texto**:
+  - Cabecera: «TEXTOS», y debajo, pequeño: «GRABACIÓN DE CAMPO 120».
+  - En el guion:
+    - O'BRIAN: «Guiones para practicar. Monólogos, diálogos, escenas y narraciones.»
+    - DEACON: «Un hilo por guion.»
+    - O'BRIAN: «Y di si se puede usar libre o hay que pedir permiso.»
+  - Etiquetas, **una por cinta**, escritas a mano en la caja: Monólogo, Diálogo, Escena de anime, Comercial, Narración, Original, Libre para usar, Pide crédito, Para dos voces. Si no se leen: **lámina 2** con la lista de STORYLINES y sus pestañas.
+- **Que no quede plano**: noche azul del cementerio (`#08141C`, `#18313D`) con niebla entre los pinos; una linterna cálida sobre la mesa como única luz; la valla de cuarentena delante, desenfocada; el amarillo del traje, apagado por la niebla.
+
+### C · #en-directo — «Radio Free Oregon»
+- **Objeto real en un sitio real**: la **radio de mano de Deacon**, encendida, sobre el depósito de la **Drifter** parada en el arcén de la **Highway 97** al anochecer. Copeland está en el aire con **Radio Free Oregon** (§6, §13). ⚠️ La radio no está documentada en las partes; hay bocetos de walkie-talkies de Katie Scott en el artbook (§1). Carretera de noche: Steam n.º 6.
+- **Personajes**: **Copeland**, el secundario más discutido, **sólo como voz**. **Deacon**, de perfil, quieto, escuchando (pose 4, [0:52](https://www.dailymotion.com/video/x84cgbc?t=52)), a punto de soltar un comentario con sorna, que es lo que los fans disfrutan (§13). ❌ No hay imagen de Copeland en las partes: si se quiere verlo, hay que buscarla.
+- **Cómo hablan**: barra negra de subtítulos, como cuando suena la radio en el juego.
+  - COPELAND: «¿Estás haciendo algo ahora? Dilo aquí.»
+  - COPELAND: «Y quien quiera, que se meta a mirar.»
+  - DEACON: «Ya salió Cope en el aire.»
+- **Dónde va cada texto**:
+  - Arriba a la izquierda, como título de misión: «EN DIRECTO», con la **etiqueta naranja**: «RADIO FREE OREGON».
+  - La descripción del canal, entera, en las dos líneas de Copeland.
+  - El canal no tiene etiquetas: no hace falta lámina 2.
+- **Que no quede plano**: el faro de la moto abre un cono en la niebla del arcén; el manillar en primer plano, desenfocado; pinos en silueta contra el cielo azul oscuro (`#0E1F2A`); lejos, una hoguera naranja como único punto cálido.
+
+**Reservas**: para C, la sala **📻 RADIO EN VIVO** («La radio de la casa»). Otra idea que queda: **#castings** con el **tablón de recompensas** de un campamento (menú BOUNTIES, fichas como naipes con una pica, §11): Deacon es cazarrecompensas y cada casting es un encargo.
+
+**Choques de canal** (sólo nota): #hardware también lo piden Dr. Stone (20), Shield Hero (82) y God of War (117); #textos, Death Note (18), Shrek (59), Vinland Saga (78, lámina 2), Hellblade (118) y A Plague Tale (119); #en-directo, One Punch Man (35) y Bocchi (97); #castings, Oshi no Ko (05), Hunter x Hunter (36) y Bocchi (97).
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Portada con pose viva, artbook entero (OCR), hoja de modelo, conceptos, 14 capturas de Steam miradas, modo foto elegido por PlayStation, réplica real de la moto. ArtStation sólo citado (403) |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 8 escenas con minuto, miradas fotograma a fotograma; sólo 3 en 1080p (el resto 512×288, YouTube pidió sesión). Las cinemáticas con Boozer y Sarah no se miraron |
+| 3 · Fan art y 3D con licencia | ⚠️ | 2 fan art con autor, 2 modelos de la obra sin licencia (sólo mirar), 6 modelos CC BY de atrezo y HDRI CC0. Ningún modelo libre de la moto, el chaleco o la radio |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | 7 sitios con hex medidos en vídeo y Steam, luz y hora de cada uno; 6 texturas CC0 de ambientCG comprobadas; vagones sin medir |
+| 5 · Tipografía por uso | ✅ | Logo, menú, interfaz, cartela, grito, parche y subtítulos, con letra libre comprobada con fontTools (Anton, Oswald, Bebas Neue, Rye, Fjalla One) y Config del estudio abierta. Logo con una fuente; pensamiento y onomatopeya no aplican |
+| 6 · Cómo hablan y piensan en pantalla | ✅ | 8 formatos vistos en capturas reales: barra negra con «NOMBRE:», título de misión, objetivo, grabación de campo, alerta, radio, interfaz. Sin globos; pensamiento sólo deducido |
+| 7 · Popularidad | ⚠️ | No hay encuesta oficial (buscada). Hilos de Reddit con votos: Deacon y Boozer arriba, Copeland el más discutido. Hilo de «menos queridos» sin leer |
+| 8 · Doblaje latino y frases | ⚠️ | Estudio, dirección y reparto latino y de España. Deacon y Boozer latinos con dos fuentes; otros seis sólo dentro de Doblaje Wiki. 8 frases latinas textuales de audio oficial, sin vídeo ni minuto; las frases con minuto son del doblaje de España |
+| 9 · Música y sonido | ✅ | Compositor con dos fuentes; 12 pistas con su escena, dichas por el propio compositor; ambiente folk sin rock; 3 sonidos reconocibles |
+| 10 · Vídeos y tendencias | ✅ | 6 vídeos oficiales mirados con minuto exacto; análisis y pódcast localizados sin mirar; tendencia de TikTok buscada y no encontrada |
+| 11 · Videojuego: interfaz y menús | ✅ | Menú, rueda, campamentos, confianza, habilidades, inventario, mapa, «785 DAYS GONE» y contenido cortado, vistos o de la wiki. TCRF no tiene página |
+| 12 · Fandom y qué NO hacer | ✅ | Bromance, Rippers, frases de combate, anillo, radio de Copeland, con votos; 8 cosas que no hacer con su porqué |
+| 13 · Personajes a fondo | ⚠️ | 8 personajes con carácter, arco, voz medida y dinámicas. Caras por emoción casi sin hacer: sólo 4 de Deacon, ninguna de los demás; faltan tristeza, miedo y vergüenza |
+| 14 · Poses analizadas | ⚠️ | Deacon: 10 poses de vídeo con minuto y uso, más 4 de arte oficial. Sarah sólo 2 ilustraciones; Boozer ninguna; celebrar sin pose |
+| 15 · Vestuario con hex | ⚠️ | Deacon completo: ropa, 8 parches, anillos, 12 tatuajes, 3 etapas, 7 hex medidos. Boozer, Sarah y secundarios sin medir; cuero o vaquero del chaleco por mirar |
+| 16 · Paisajes y fondos de pantalla | ✅ | Oregón central con cita del artbook, sitios reales con nombre, fotografía de Chemult, luz por hora, 7 fondos de Wallhaven con tamaño; sin galería oficial |
+| 17 · Guía para IA de imagen y texto | ✅ | Hecha por el redactor: rasgos fijos, paleta, sin línea, luz, encuadre, palabras que ayudan y que estropean, referencias, ejemplo, gestos; voz de 6 personajes y frases reales por emoción. Nombres latinos de los Freakers sin encontrar |
+| 18 · Estilo y cómo replicarlo | ✅ | Motor, hordas (GDC, IGN), piel, pelo, captura de movimiento y fotografía real con fuentes; encuadres vistos; receta de Blender y Photoshop. Sin rig libre |
+| 19 · Texturas 2D | ⚠️ | Parches bordados (cita del artbook), logos medidos, 6 texturas CC0. Sin pinceles libres de bordado, papel topográfico ni mancha; tramas no aplican |
+| 20 · Gustos y detalles | ⚠️ | Objetos, gustos y cómo se ven 8 personajes, de la wiki. No hay ficha oficial de altura, edad ni cumpleaños |
+| 21 · Por qué la aman | ⚠️ | 6 razones con votos y fuentes; 7 escenas con qué pasa y música. Sin minuto de juego ni vídeos de reacción |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | No encontré fandubs ni covers con canal y vistas; tráiler oficial comparando doblajes, reportaje de Claudio Serrano, el meme «¿Me entiendes, Méndez?» |
+| 23 · Colaboraciones, figuras y cosplay | ⚠️ | Estatua oficial con escultor, temas y avatares, réplica de la moto; cosplay y guiños con una fuente; colaboraciones de marca no encontradas |
+| 24 · Obras parecidas y láminas vecinas | ✅ | 5 influencias que reconoce Garvin, TV Tropes, 9 juegos parecidos, láminas vecinas del servidor revisadas |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas en 5 líneas, 5 arcos, 4 facciones con su emblema, objetos y glosario de Freakers |
+| 3 conceptos de lámina | ✅ | #hardware, #textos y #en-directo, con objeto, sitio, pose con minuto, cuadro, letra, textos reales y profundidad. La radio y la grabadora no están documentadas; sin imagen de Boozer ni de Copeland |
+| 40 fuentes distintas | ✅ | Más de 50 dominios enlazados |
+| Oficiales (web, staff, artbook, blogs) | ✅ | Bend Studio, blog de PlayStation (compositor, hordas), artbook, GDC, ArtStation del equipo |
+| Otros idiomas | ⚠️ | Obra de EE. UU.: no aplican japonés, coreano ni chino. Fuentes en inglés, español, francés (JeuxVideo), italiano (entrevista de Garvin) y polaco (GRYOnline) |
+| Wikis, TV Tropes, TCRF y Wayback | ⚠️ | Fandom del juego, Doblaje Wiki, Villains Wiki, Wayback para Game UI Database; TV Tropes sólo por extracto (403); TCRF sin página del juego |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift, Nexus Mods, foro de dafont |
+| Arte | ✅ | ArtStation, DeviantArt, Wallhaven, Flickr |
+| Vídeo con minuto | ✅ | Dailymotion e Internet Archive; YouTube bloqueado (sólo oEmbed) |
+| Código y recursos | ⚠️ | Sketchfab, ambientCG, Poly Haven, archivos de letra del estudio. Ningún repositorio de GitHub |
+| Doblaje latino | ⚠️ | Doblaje Wiki por su API y sus muestras; ANMTV no cubre el juego; BTVA e IMDb dieron 403 |
+| Hojas de contacto | ✅ | 3 JPEG en `hojas/`, todos de menos de 0,5 MB, mirados y descritos número a número |
+| referencias.json | ✅ | 114 referencias, las mejores primero, con tamaños medidos; pies de foto corregidos donde las partes se equivocaban |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de `partes/imagen.md`, `video.md`, `voz.md` y `texto.md`, más lo que hizo el redactor. ✅ = dos fuentes o visto; ⚠️ = una fuente.
+
+### Punto de partida (gratis)
+- `herramientas/recolectar.py 120-days-gone --hojas`: wiki de Fandom, Doblaje Wiki (ficha, 36 muestras de audio y «Datos de interés»), Wallhaven, Sketchfab, Openverse, [Dailymotion](https://api.dailymotion.com), Internet Archive, MusicBrainz, Steam y Reddit por [Arctic Shift](https://arctic-shift.photon-reddit.com). Fallaron AniList (no aplica a un juego) y Danbooru (sin etiqueta). La tabla de reparto latino salió rota y la parte de voz la rehízo desde el wikitext.
+
+### Imagen (8 búsquedas web, en inglés)
+- «Days Gone concept art ArtStation Bend Studio artist» · «"Days Gone" artbook key art official cover» · «"Days Gone" box art image high resolution» · «"Days Gone" crossover Horizon Zero Dawn Uncharted easter egg» · «"Days Gone" Deacon statue figure» · «"Days Gone" Deacon cosplay official» · «"Days Gone" PS4 dynamic theme avatars» · «"Days Gone" Deacon fan art deviantart».
+- Red directa: API de Steam (`appdetails`, 14 capturas), API de Fandom (imágenes y el wikitext de vestuario de Deacon), Internet Archive (OCR completo del artbook, sin bajar el PDF de 950 MB), Sketchfab, Wallhaven, Poly Haven, ambientCG, DeviantArt (og:image). ArtStation dio 403 (GET y POST) y Flickr 429.
+- `estilo.py` sobre 7 imágenes (paleta y cómo está pintado).
+
+### Vídeo (13 búsquedas web, inglés y español)
+- «Nathan Whitehead Days Gone score interview Sarah's Theme» (llevó al blog oficial) · «Days Gone Freaker sound design horde screech» · «Days Gone cave knife fight Rippers cutscene» (identificó «I Kept My Name») · «Days Gone TikTok trend viral moto Deacon 2024 2025» (nada) · «"Days Gone" escena que hace llorar Boozer» (español).
+- API de Fandom (Horde Killer, I Kept My Name, Screamers), MusicBrainz, metadatos de Internet Archive; guías de GameFAQs, Neoseeker, Orcz y samurai-gamers para la misión del clip.
+- `fotogramas.py` sobre 6 clips: E3 contra versión final (259 planos, 1080p), tráiler argumental (54), lanzamiento (16), «Combat final» (18), remaster (23); `episodio.py` sobre el tráiler argumental y «El mundo de Days Gone 2». YouTube pidió sesión toda la tanda (dos esperas de 3-5 minutos).
+
+### Voz (22 búsquedas web, español e inglés)
+- Doblaje: «"Days Gone" eldoblaje.com Claudio Serrano Deacon» · «ANMTV "Days Gone" doblaje latino José Gilberto Vilchis» (sin resultados) · «"Beto Castillo" Boozer "Days Gone"» · «"Alejandra Delint" Sarah "Days Gone"» · «"Daniel Lacy" "Days Gone" O'Brian» · «"Days Gone" doblaje latino tráiler PlayStation México» · `site:anmtv.mx "Days Gone"` (nada) y otras 6 sobre el reparto.
+- Personajes y fandom: «Days Gone Deacon altura cumpleaños ficha» (no hay) · «Days Gone ending Sarah reunion emotional» (ScreenRant) · «"Days Gone" most emotional scene gravestone» · «"Days Gone" fandub español parodia TikTok» · «"Days Gone" meme español Copeland Radio Free Oregon» (mod de Nexus) · «"Days Gone" cover español opening» · «"Days Gone" doblaje español vs latino youtube» · «"Days Gone" cosplay Deacon Latinoamérica».
+- API de Doblaje Wiki (serie y 11 fichas de actor), API de la wiki del juego (8 fichas), eldoblaje.com, doblajevideojuegos.es, `voz.py` (Whisper + Parselmouth) sobre 8 muestras `.ogg`, comentarios de Reddit por Arctic Shift.
+- Fallaron: Behind The Voice Actors (403, dos intentos), IMDb (403 y 202 vacío), buscador de eldoblaje (404; se sacó el id por búsqueda).
+
+### Texto, juegos y técnica
+- Búsquedas web en inglés: «tvtropes.org VideoGame DaysGone tropes» · «tcrf.net "Days Gone" cut content» · «"Deschutes County Militia" Days Gone» · «"Adam Ladd" "Config" font» · «Days Gone review compared to The Last of Us State of Decay» · «Days Gone "better than" Dying Light "Mad Max"» · «Variety Days Gone John Garvin influences».
+- Red directa: API de la wiki (Freakers, Milicia, Trust Level, Survival Wheel, Skills, Rippers, NERO, Drifter, Mongrels, contenido cortado), CSS y `.woff2` de Bend Studio, capturas de Game UI Database por Wayback, hilo de dafont, API de ambientCG, oEmbed de YouTube. Segunda fuente de la Milicia: [Villains Wiki](https://villains.fandom.com/wiki/Deschutes_County_Militia).
+- WebFetch: GameRant, WellPlayed y DualShockers (✅ con cita); consolecreatures.com vacío; GamesBeat y VentureBeat 403; Variety por Wayback, cortado dos veces.
+- fontTools sobre Anton y Config (Bold y Regular).
+- Fallaron: TCRF (403 y sin copia en Wayback), TV Tropes (403; r.jina.ai bloqueado), IGN y PSU (403 a curl, citados igual).
+
+### Redactor
+- Leyó las cuatro partes, `episodios.md`, los `datos-*.md`, los JSON, `servidor/inventario.md`, `servidor/reglas_del_dueno.md` y `DECISIONES.md`.
+- Miró las 3 hojas y amplió 3 casillas de `capturas_03`; bajó 2 capturas de Steam en pequeño para comprobar pies de foto; midió el tamaño real de 15 capturas de Steam (dos son 1920×809).
+- Comparó el texto del tráiler argumental con las muestras latinas: es el doblaje de España.
+- Revisó la carpeta `biblias/` para las láminas vecinas y los choques de canal.
+
+### Lo que NO se encontró
+- Encuesta oficial de personajes; ficha con altura, edad o cumpleaños.
+- Segunda fuente fuera de Doblaje Wiki para el reparto latino (salvo Deacon y Boozer); voz latina de Lisa.
+- Clips oficiales con el **doblaje latino** en vídeo: las frases latinas son sólo de las muestras de audio, sin minuto.
+- Fandubs y covers en español con canal y vistas; tendencia viral de TikTok.
+- Caras por emoción con minuto (salvo 4 de Deacon); poses de vídeo de Boozer y Sarah; cualquier imagen de Boozer o Copeland en las hojas.
+- Minuto de juego de las escenas emotivas (lápida, boda, reencuentro, giro de O'Brian).
+- Modelos 3D libres de la moto, el chaleco o una radio; pinceles libres de bordado; rig libre de Deacon.
+- Colaboraciones de marca (Fortnite, cafés); el post original de Bend Studio sobre el cosplay.
+- Página de TCRF; texto completo de TV Tropes; repositorio de GitHub útil.
+- Nombres latinos de los tipos de Freaker.
+
+### Confirmado y dudoso
+- **Confirmado (✅)**: estudios y dirección de los dos doblajes; Vilchis y Castillo en latino; todo el reparto de España; compositor y temas por escena; parches, tatuajes y colores del club; paletas medidas; formatos de texto en pantalla; motor y hordas; influencias de Garvin; reglas del mundo y arcos.
+- **Dudoso (⚠️)**: la letra del logo (una fuente); que el juego use Config; el reparto latino fuera de Deacon y Boozer; que «You're Safe Now» suene en el rescate de Lisa; los guiños a otros juegos; el cosplay compartido por Bend; los peluches del sorteo; la comparación con Opie; cuero o vaquero del chaleco; «Reapers» o «Rippers» en el doblaje latino.
