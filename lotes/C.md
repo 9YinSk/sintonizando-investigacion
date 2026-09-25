@@ -29,12 +29,17 @@ recolectados) pendientes.
   Más querido: Rebecca (la añadió Trigger; favorita del guionista Rafał
   Jaki). Cuadro de diálogo propio: el subtítulo del juego sin caja, nombre
   en coral `#FE6962` y texto en cian `#59E6F0` (Rajdhani).
-- 28 JoJo's Bizarre Adventure: repaso, imagen/vídeo/texto terminados sin
-  pendientes obligatorios (imagen midió de verdad los hex de vestuario de
-  9 personajes; vídeo corrigió la gorra de Jotaro a negra con insignia
-  dorada, no blanca); voz en marcha.
-- **26 Scooby-Doo: redactor (Opus, repaso) en marcha.**
-- 29, 30: en cola, se lanzan según se libera hueco (máx. 5 agentes vivos).
+- **28 JoJo's Bizarre Adventure: los 4 investigadores terminaron sin
+  pendientes obligatorios** (imagen midió hex de vestuario de 9
+  personajes; vídeo corrigió la gorra de Jotaro a negra con insignia
+  dorada; voz cerró 8 nombres de doblaje con 2.ª fuente y corrigió el
+  dato de Dio en Stone Ocean). Redactor (Opus, repaso) en marcha.
+- **26 Scooby-Doo: COMPLETA y subida (repaso).** 2502 líneas, tabla
+  ✅24 ⚠️6 ❌0, 76 webs, 370 min, 61 hex, 157 referencias, 3 hojas. Más
+  querido: Shaggy (con quien más se identifica el público); Scooby ganó
+  la encuesta antigua de Scoobypedia. Cuadro de diálogo propio: fichas de
+  pista escritas a mano por Vilma, ficha «Who's Who», sello RESUELTA.
+- 29 en marcha (imagen/vídeo/texto); 30 en cola.
 
 ## Avisos para el dueño (esta sesión)
 
@@ -58,6 +63,11 @@ recolectados) pendientes.
   objeto al hacer la nueva. Quedan ⚠️ sin resolver: fotogramas sólo en
   360p (habría que verlos en Netflix a 1080p) y las frases en latino de
   §10.4 sólo confirmadas por subtítulo automático, no oídas.
+- 26 Scooby-Doo: faltan fotogramas de rabia y tristeza de la pandilla; la
+  muerte de Hot Dog Water en «Through the Curtain» (Misterios S.A.) no
+  tiene minuto (habría que ver el episodio entero). Guiño sin decidir si
+  entra en la lámina: en argot británico «I haven't got a Scooby» es «no
+  tengo ni pista».
 
 Sesión anterior: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
 Cuenta: cuenta A105
