@@ -45,6 +45,10 @@ fecha: 2026-09-24
 >   de 47). «KJ-3» es el episodio 3 del **課外授業編**. «peli» es la
 >   película de 2026. El minuto va así: 00:12:37 (es el del archivo: puede
 >   moverse uno o dos minutos según la plataforma).
+> - **Redactor de la 2.ª pasada**: editó en su sitio cada sección con las
+>   partes, montó la 3.ª hoja (`fotogramas_01.jpg`) y juntó
+>   `referencias.json`. La tabla «Cumplimiento del encargo» va antes de
+>   la bitácora.
 > - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto,
 >   o se vio en el fotograma. ⚠️ **dudoso**: una sola fuente, o de
 >   memoria. ❌ **no encontrado**.
@@ -105,11 +109,29 @@ partes (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md` y los
   probablemente es Karasuma ⚠️. No usarla para Karma.
 - **Koro-sensei en *J-Stars Victory VS***: ⚠️ de memoria → ✅ jugable
   (Kanzenshuu y GameFAQs).
+- **La lista final (2×24, 7:21)**: «con una carpeta amarilla» (parte de
+  vídeo) → **con el libro de asistencia negro «出席簿»** ✅ (visto por el
+  redactor en `fotogramas_01` n.º 7).
+- **La pizarra**: «verde `#2E4A3B`» y «no pintarla negra» → es **verde
+  casi negra `#272726`** ✅ (medida en 2×06, 0:02). Corregidos §5, §14 y la
+  guía para IA.
+- **El nombre de Koro-sensei**: «juego de palabras, de memoria» → ✅ y
+  **se lo puso Kayano** (manga cap. 1).
+- **Voces de Carlos Olízar, Yanelly Sandoval y del director** (⚠️
+  extracto) → ✅ con el wikitext completo de Doblaje Wiki.
+- **Hoja de la wiki n.º 64** (`personajes_02`): no es la encuesta del
+  tomo 12 sino otra votación («スペシャルテーマ決定総選挙») ⚠️.
+- **Arcos**: la parte de texto ponía el viaje a Kioto en otoño; es de la
+  T1 (web oficial), así que va en primavera ⚠️ (§18.8).
 
 **Añadido**
 
-- **3 hojas de contacto** en `hojas/` y la sección «Las hojas de
-  contacto» (qué número sirve para qué).
+- **3 hojas de contacto** en `hojas/` y la sección §3.0 (qué número
+  sirve para qué): `personajes_01` y `personajes_02` (wiki, 80 imágenes)
+  y **`fotogramas_01`**, 16 fotogramas del anime con su minuto, montada
+  por el redactor con `ffmpeg` sobre Internet Archive.
+- **Formatos de texto reales** para la lámina: tiza de tres colores
+  (rosa, blanco, amarillo) y la cartela «Ⅲ-E〔7〕茅野カエデ» (§7.4).
 - **§2.5**: 16 escenas vistas en vídeo con episodio y minuto (Internet
   Archive y Dailymotion), y la hoja `fotogramas_01.jpg`.
 - Encuesta oficial de Jump hasta el 9.º puesto, con el reparto chicas y
@@ -122,12 +144,19 @@ partes (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md` y los
   (ventas, premios, reseñas), fan dubs, colaboraciones (cafés 2026,
   figuras, J-Stars), obras parecidas y el mundo por arcos (§18.1-18.8).
 - La guía para IA (§18) con **IA de texto**: frases reales por emoción.
-- La tabla **«Cumplimiento del encargo»**.
+- La tabla **«Cumplimiento del encargo»** (antes de la bitácora).
+- `referencias.json`: **35 → 157** referencias (99 con tamaño medido);
+  **102 webs distintas** enlazadas en la biblia.
 
-**Los ⚠️**: había **99**; quedan los que se cuentan al final de la tabla
-de cumplimiento. Los que siguen: frases latinas con minuto (YouTube
-bloqueado), vídeo en 480p, fan dubs sin vistas, Irina enfadada y Nagisa
-triste o con miedo sin fotograma, emblema de la 3-E sin encontrar.
+**Los ⚠️**: había **99** en la 1.ª pasada. Se resolvieron unos **30**
+(los de arriba), pero la biblia casi duplicó su contenido y cada dato
+nuevo de una sola fuente lleva su ⚠️: en las secciones de la 1.ª pasada
+(§0-§17 y §19) las **líneas con ⚠️ pasan de 89 a 88**; las nuevas §18.1-
+§18.8 suman 18; y el archivo entero tiene **149 marcas ⚠️** contando la
+tabla y §20, que las repiten. Lo que sigue dudoso: frases latinas con
+minuto (YouTube bloqueado), vídeo en 480p, fan dubs sin vistas, varias
+caras por emoción sin fotograma (Irina enfadada, Nagisa y Karma tristes),
+emblema de la 3-E y fondos oficiales sin encontrar.
 
 ---
 
@@ -183,7 +212,7 @@ clase (ver §2, 2×06, 00:00:02).
 | Aviso oficial que imitar | «**#殺せんせーの抜き打ちテスト**», el aviso semanal de la cuenta oficial: 🎓🌕, «ヌルフフフフ〜♪», ⏰ plazo, 🎯 cómo ✅ (§7.7). |
 | Objeto para la lámina | **La pizarra del aula de madera** (concepto A). Alternativas: **la guía de 2.400 páginas** que Koro-sensei escribe a mano (B) y **la caja de Ritsu con los móviles de la clase** (C). |
 | El más querido | **Karma**, 1.º en la encuesta oficial de Jump (432 votos). Nagisa 2.º, **Koro-sensei 3.º**, Karasuma 4.º, Irina 5.ª ✅. |
-| Voz latina | Koro-sensei **Carlos Segundo** ✅, Nagisa **María José Moreno** ✅, Karma **Iván Fernández** ✅, Irina **Cristina Hernández** ✅. Estudio **The Kitchen** (Cuernavaca), para Funimation; hoy en Crunchyroll ✅. |
+| Voz latina | Koro-sensei **Carlos Segundo** ✅, Nagisa **María José Moreno** ✅, Karma **Iván Fernández** (también director) ✅, Irina **Cristina Hernández** ✅, Karasuma **Juan Carlos Román** ✅, Kayano **María García** ✅, Ritsu **Leyla Rangel** ✅. Estudio **The Kitchen** (Cuernavaca), para Funimation; hoy en Crunchyroll ✅. |
 | Letras | **Yusei Magic** (tiza), **Klee One** (a mano), **Kalam**, **M PLUS Rounded 1c** (pantalla de Ritsu), **Dela Gothic One** (onomatopeya). Todas con tildes, ñ, ¿ y ¡: comprobado en el archivo. |
 | Tono | **Luminoso, cálido y cómico**, con momentos muy emotivos. Nada sombrío. |
 | Novedad | **Película de 2026**, «劇場版「暗殺教室」みんなの時間» (20 de marzo), y reemisión por el **10.º aniversario** ✅. |
@@ -1450,35 +1479,338 @@ reemisión (se venden en acrílico) ⚠️ ([Mercari](https://jp.mercari.com/ite
 > recortan de fotogramas u oficiales (regla 3 del dueño), no se inventan.
 
 **Rasgos que nunca cambian**
-- Koro-sensei: **cabeza redonda amarilla y lisa**, **sonrisa enorme
-  fija con muchos dientes**, **ojos de punto negro pequeños**, toga negra,
-  birrete pequeño, corbata con luna. **Dos dedos** por tentáculo-brazo.
-- Aula 3-E: **madera vieja**, **pizarra verde**, ventanas grandes,
-  pupitres de madera y metal.
-- Cielo nocturno: **luna en creciente fijo**.
+- Koro-sensei: **cabeza redonda amarilla y lisa** (`#FFF661`), **sonrisa
+  enorme fija con muchos dientes**, **ojos de punto negro pequeños**,
+  toga gris carbón `#2D2D2D` con forro rojo `#A2393C`, birrete con borla
+  amarilla, cordón dorado, corbata con luna creciente. **Dos dedos** por
+  tentáculo-brazo. Nunca pierde la sonrisa.
+- Nagisa: pelo azul claro `#B8E1FC` en **dos coletas cortas**, ojos
+  azules, chaleco azul marino `#2E355C`, camisa blanca remangada,
+  **corbata negra**. Bajito, cara andrógina.
+- Karma: pelo rojo `#D84646`, ojos ámbar, **chaqueta negra abierta sin
+  corbata**, cinturón de hebilla cuadrada, sonrisa de lado.
+- Irina: rubia `#E3AD67`, pelo largo ondulado con raya al medio, ojos
+  verde-azulados, traje sastre `#90AFBA`, gargantilla negra.
+- Aula 3-E: **madera vieja**, **pizarra verde casi negra** (`#272726`),
+  ventanas grandes de cuarterones, pupitres de madera y metal.
+- Cielo nocturno: **luna en creciente fijo**, azul marino `#14214E`.
 
-**Estilo de dibujo**: anime de TV de 2015, **línea fina y limpia**,
-sombreado de **dos tonos** (cel), colores **saturados y claros**, fondos
-pintados con detalle y luz suave.
+**Estilo de dibujo (medido, §18.1)**: anime de TV de 2015. En los
+personajes, **sombreado plano de dos tonos** (82-86 % de la imagen) y
+**línea de color, no negra** (gris-marrón `#5C4C4D`, `#4E5358`), poca
+línea. En los fondos, **pintura con degradados suaves** y casi sin línea.
+Colores **saturados y claros**, brillo medio.
 
 **Palabras que ayudan** (inglés para Firefly):
-`old wooden Japanese classroom, green chalkboard with chalk writing,
-warm morning sunlight through large windows, wooden desks, dust in the
-light, anime background art, 2015 TV anime style, clean cel shading,
-soft painted background, mountain school building surrounded by forest,
-crescent moon`.
+`old wooden Japanese classroom, very dark green chalkboard with pink,
+white and yellow chalk writing, warm daylight through large paned
+windows, wooden desks, dust in the light, anime background art, 2015 TV
+anime style, flat two-tone cel shading, colored lineart, soft painted
+background, wooden school building on a forested mountain, deep blue
+night sky with crescent moon`.
+Para personajes de apoyo, el vocabulario de Danbooru que entienden las
+IA (del recolector): Nagisa `blue_hair, short_twintails, blue_eyes, vest,
+black_necktie, white_shirt, kunugigaoka_middle_school_uniform`; Karma
+`red_hair, yellow_eyes, black_jacket, open_jacket, white_shirt,
+black_belt, grey_pants, knife`; Irina `blonde_hair, long_hair,
+wavy_hair, parted_bangs, choker, suit, pencil_skirt`.
 
-**Palabras que lo estropean**: `black chalkboard`, `modern classroom`,
+**Palabras que lo estropean**: `white board`, `modern classroom`,
 `glass walls`, `realistic photo`, `dark gritty`, `horror`, `octopus`
-(sale un pulpo de verdad), `full moon`, `3D render`, `chibi`.
+(sale un pulpo de verdad), `full moon`, `3D render`, `black lineart`
+(la línea es de color), `crossdressing` (etiqueta frecuente de Nagisa
+en Danbooru: **evitarla**), `chibi` salvo que se quiera el estilo de
+*Koro-Sensei Quest!*.
 
 **Encuadre**: plano medio desde los pupitres, con uno desenfocado
-delante; cámara a la altura de un alumno sentado.
+delante; cámara a la altura de un alumno sentado. Las emociones fuertes
+de Koro-sensei se cierran mucho en su cara (para que se vea el color)
+✅ (visto en 2×21, 0:18).
 
-**Referencias de estilo**: el visual de la película 2026 (pasillo,
-§3.2), el [inicio de la película](https://www.youtube.com/watch?v=HtOZQ0pYyWk)
-(aula), y las portadas de Blu-ray (§3.1). **Referencia de pose**: la tabla
-de §15 (mirar el fotograma).
+**Vocabulario de expresiones** (para pedir cada gesto):
+- **La cara de Koro-sensei cambia de color** (§7.1): amarilla lisa =
+  normal; **rayas verdes** `#57DE54` = se burla («qué fácil»); naranja
+  con ◯ rojo = correcto; morada con ✕ = mal; rosa = pervertido; negra =
+  furia. Mejillas rosas y **burbujas blancas** = celebra (2×21, 0:18).
+- **Ojos «＞＜»** y cara entera rosa = vergüenza cómica (Irina, 2×01,
+  14:31). **Rayitas diagonales de sonrojo** bajo los ojos = emoción
+  tímida (Irina, 2×07, 6:22).
+- **«Cara de demonio»** de Nagisa: dientes afilados, ojos en blanco (hoja
+  de Lerche, `personajes_01` n.º 6).
+- **Sonrisa lateral serena** = calma que da miedo (Nagisa, 2×25, 22:28).
+- **SD/chibi** (2 cabezas): el estilo de los juegos (retratos de 3DS y
+  *Koro-Sensei Quest!*).
+
+**Referencias de estilo**: arte del 10.º aniversario (`personajes_01`
+n.º 16-18), aula vacía (`fotogramas_01` n.º 11), edificio de día (n.º
+5), pizarra con tiza (n.º 1-2), el visual de la película 2026 (pasillo,
+§3.2). **Referencias de pose**: §15 (filas «visto») y los recortes
+`personajes_02` n.º 65, 69 y 71.
+
+### Guía para una IA de texto (cómo escriben en su voz)
+
+**Koro-sensei**: profe cortés y entusiasta. Habla en «です/ます», repite
+cuando se anima («¡Con ganas! ¡Con ganas!»), ríe «**Nurufufufu**»
+(ヌルフフフ), se asusta «**¡Nyuya!**» (にゅやッ), convierte todo en
+lección. Signos: muchos **¡!**, alguna tilde alargada («～»). En latino,
+guiños a su actor (Woody). Títulos «**Hora de…**».
+**Nagisa**: frases cortas, suaves, observador; a veces una frase amable
+que da miedo. **Karma**: arrastra las palabras («Heeee…», «Bueno, da
+igual»), llama «-chan» a las chicas, se burla. **Irina**: mandona y
+creída, grita «¡Kiii!» cuando se enfada, se ríe «Ufufufu» cuando trama.
+**Karasuma**: seco, militar, frases cortas. **Ritsu**: educada, de
+máquina («Salgo del modo reposo»).
+
+**Frases reales, por emoción** (japonés con su minuto, §2 y §15;
+traducción de la biblia):
+
+| Emoción | Quién | Frase | Dónde |
+|---|---|---|---|
+| Alegre | Koro-sensei | «第２志望以内で全員合格！ おめでとうございます» (¡Todos aprobados! ¡Felicidades!) | 2×21, 0:13 |
+| Alegre | Irina | «やば… 超うれしい» (Ay… qué feliz) | 2×07, 6:22 |
+| Alegre | Karma | «やるね 茅野ちゃん» (Bien hecho, Kayano-chan) | 2×02, 5:35 |
+| Enfadado | Irina | «キ～ッ！» / «あー やってらんない！» (¡Ya no aguanto!) | peli 2016, 12:04 / 2×01, 8:13 |
+| Enfadado | Karasuma | «物で釣られたな！» (¡Te han sobornado!) | 2×02, 13:33 |
+| Explicando | Koro-sensei | «人生は 365日 勉強です 卒業の１秒前まで 授業は続きますよ» (La vida es estudiar los 365 días; hasta un segundo antes de graduarse, la clase sigue) | peli 2026, 49:25 |
+| Explicando | Karma | «真犯人は別にいた» (El verdadero culpable era otro) | 2×02, 20:05 |
+| Animando | Koro-sensei | «熱く行きましょう！ 熱く 熱く！» (¡Con ganas! ¡Con ganas!) | 2×06, 0:02 |
+| Animando | Ritsu | «それでは 皆さん 起立！» (Bien, todos, ¡de pie!) | peli 2026, 49:35 |
+| Animando | Nagisa | «席に着いて 授業を始めます！» (A sus asientos. Empieza la clase) | 2×25, 22:50 |
+| Triste | Koro-sensei | «最後に出欠を取ります 一人一人 先生の目を見て…» (Por último, voy a pasar lista…) | 2×24, 7:18 |
+| Triste | Nagisa | «卒業おめでとう» (Felicidades por graduarse) | 2×24, 17:08 |
+| Vergüenza | Irina | «バカバカバカ 死ね 私！» (¡Tonta, tonta, tonta!) | 2×01, 14:30 |
+
+**Frases del doblaje latino** (textuales, con episodio, de Doblaje Wiki;
+**sin minuto** ⚠️): Koro-sensei «**Eres mi alguacil favorito**» (ep. 43);
+«**Me amarraron como puerco**» (ep. 21); Terasaka «**Es como la llave del
+Santo**» (ep. 39); título «**Aula de Asesinato**» (ep. 18). No se
+encontraron más (§10).
+
+**No hacer**: burlarse de la lista final o de la muerte de Koro-sensei;
+poner «Bitch-sensei» en un texto del servidor; revelar el secreto de
+Kayano.
+
+---
+
+### 18.1 · Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+**Quién lo hizo** ✅: estudio **Lerche**; director **Seiji Kishi**;
+guion **Makoto Uezu**; diseño de personajes **Kazuaki Morita**
+([AniList](https://anilist.co/anime/20755/staff), [web oficial](https://www.ansatsu-anime.com/2014-2016/special/special0001.php));
+manga de **Yūsei Matsui** (antes *Neuro*, después *El joven Ashigaru
+astuto*; [にじめん](https://nijimen.kusuguru.co.jp/topics/605488)).
+Entrevista Kishi y Uezu en [Comic Natalie](https://natalie.mu/comic/pp/ansatsu)
+⚠️ (sólo el titular: el cuerpo dio 403).
+
+**Cómo dibuja Matsui**: imaginó primero la escena clave del cap. 1
+(págs. 2-3) y construyó la historia alrededor ⚠️ (paráfrasis de
+にじめん). Cuida mucho **el blanco** (余白) de la página
+([Oricon](https://www.oricon.co.jp/news/2069215/), «松井優征が語る"白"のこだわり»;
+el texto completo es de pago ⚠️). Qué programa usa: **no lo encontré** ❌.
+En las páginas miradas (cap. 43 y 59): **viñetas cortadas en diagonal**,
+una viñeta en **estallido dentado**, agua con **trama de puntos
+gruesa**, sombras en **negro sólido**, follaje con **rayado a mano** ✅
+(`partes/imagen.md`; `personajes_01` n.º 10).
+
+**Cómo está pintado el anime, medido con `estilo.py`** ✅:
+
+| Imagen | Sombreado | Línea | Color de línea |
+|---|---|---|---|
+| Arte del 10.º aniversario (3 piezas) | plano, 82-86 % | poca (2,3-3,2 %) | gris-marrón `#5C4C4D`, `#3A392A`, `#4E5358` |
+| Fondo del edificio (2×24) | degradado, 60-72 % | 0-2,4 % | verdoso `#9DAF97` o nada |
+| Interior con luz (2×06) | mixto: 29-50 % degradado | 3,9-4,8 % | marrón `#7F704B`, `#605E50` |
+
+**En Photoshop**: línea de 2-4 px (a 2000 px de ancho) en **gris-marrón
+`#4E4A4A`**, no negra; sombra en capa Multiplicar con **borde duro**, un
+solo tono por zona; en la cabeza de Koro-sensei un brillo oval blanco al
+40-60 % en Trama arriba a la izquierda; los fondos, en cambio, con
+aerógrafo suave en varias capas.
+**En Blender**: Freestyle 1,5-2,5 px en gris-marrón (o Solidify
+invertido); **Shader to RGB + Color Ramp de 2-3 escalones** sobre un
+Principled mate; luz de área grande y suave más un relleno tenue; Eevee
+con Bloom suave para ventanas y luna. Modelos: el aula y los pupitres CC
+BY de §4.1. Para Koro-sensei como objeto, la cabeza esférica de la
+película de imagen real (`personajes_02` n.º 62-63) y el cosplay de
+poliestireno (§4.2) dan el volumen ✅.
+
+**Encuadres**: plano medio desde los pupitres; primeros planos muy
+cerrados de la cara de Koro-sensei en las emociones; la clase de
+espaldas en fila para los momentos solemnes (2×24, 7:29) ✅.
+
+### 18.2 · Punto 19 · Texturas 2D
+
+- **Trama de manga**: [*[FREE] Manga Screentone Pack 1*](https://assets.clip-studio.com/en-us/detail?id=2142037)
+  (CLIP STUDIO ASSETS, gratis con cuenta) ✅; generador de trama libre
+  [evestera/svg-halftone](https://github.com/evestera/svg-halftone)
+  (MIT) ✅. Qué trama usa Matsui: no confirmado ⚠️.
+- **Papel y madera** (CC0, ambientCG): Paper006, WoodFloor043,
+  PaintedWood009C ✅ (§4.1).
+- **Tiza**: se pinta (no hay pizarra en ambientCG ❌); tres colores rosa,
+  blanco y amarillo (§7.4).
+- **Crayón del ending**: trazo blanco sobre sepia `#E8744C` (2×06, 21:38)
+  ✅, para un fondo «de cuaderno».
+- **Emblema de Kunugigaoka o de la 3-E**: **no lo encontré** ❌
+  (búsquedas 「椚ヶ丘中学校 校章」, 「E組 エンブレム」). Lo que usa el fandom es
+  la **letra «E»** (va en el chándal de la clase, visto en 2×24) y
+  «Ⅲ-E» en las cartelas.
+- **Luna creciente** de la corbata y del cielo: el símbolo de la serie.
+
+### 18.3 · Punto 20 · Gustos y detalles de cada personaje
+
+Wiki de la serie (cita volumen y capítulo del manga) + AniList; ✅ donde
+coinciden, ⚠️ donde sólo está la wiki (`partes/voz.md`).
+
+| Quién | Cumpleaños | Altura | Sangre | Come / bebe | Afición | Lleva siempre | Odia |
+|---|---|---|---|---|---|---|---|
+| **Koro-sensei** | 13 de marzo (puesto, no real) | 3 m | AB | **botan-ebi** en sushi; dulces | dibujarse como pulpo | la corbata con la luna, regalo de Aguri | conducir |
+| **Nagisa** | 20 de julio | 159 → 160 cm | A | no consta | investigar puntos débiles | su cuaderno | ciencias |
+| **Karma** | 25 de diciembre | 175 → 185 cm | AB | bebidas **～煮オ・レ**; colecciona especias | hacer rabiar | cuchillo mariposa de espuma, hecho por él | japonés (asignatura) |
+| **Irina** | 10 de octubre | 170 cm | — | no consta | seducir; idiomas | pintalabios-arma | que le recuerden la edad ⚠️ |
+| **Karasuma** | 15 de agosto | 180 cm | — | hamburguesas o fideos instantáneos | ninguna declarada | — | — (le ladran los perros) |
+| **Kayano** | 9 nov. (real) / 9 ene. (falso) | 143 → 157 cm | AB | **pudín** | puntuar en el karaoke | — | educación física |
+| **Ritsu** | 1 de enero (como Gakushū) | 170 cm | — | «recarga» | fabricar objetos de plástico | — | que la hackeen |
+
+**Cómo se ven a sí mismos**: Koro-sensei se dibuja siempre como un pulpo;
+Nagisa se sabe el más débil y apuesta por observar; Kayano se ve primero
+como un arma de venganza y luego quiere «ser una mujer capaz» ✅ (wiki).
+
+### 18.4 · Punto 21 · Por qué la gente la ama
+
+- **Ventas**: más de **27 millones** de copias (oct-2023) ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Assassination_Classroom));
+  7.º manga más vendido de Japón en 2013, 10.º en 2014 y **4.º en 2015**
+  (8 605 861) ✅ ([ANN](https://www.animenewsnetwork.com/encyclopedia/manga.php?id=15018)).
+- **Premios**: **1.º en *Kono Manga ga Sugoi! 2014*** (lectores
+  hombres); nominado al Manga Taishō, al Tezuka (2015) y al Eisner (2016);
+  **51.º** en el *Manga Sōsenkyo 2021* de TV Asahi ✅.
+- **Qué dicen**: «By the end of episode 1 I was crying like a baby»
+  (Kei_z, 10/10); «the sound… made you tear up» (KittyNom, 9/10) ✅
+  ([MAL](https://myanimelist.net/anime/26243/Ansatsu_Kyoushitsu_2nd_Season/reviews)).
+  El motivo que más se repite: **el contraste** entre la premisa absurda
+  y un mensaje real sobre **el valor de cada alumno** ✅
+  ([hilo de MAL](https://myanimelist.net/forum/message/46792292?goto=topic)).
+- **Con quién se identifican**: con **Nagisa**, el débil que encuentra su
+  talento (el más dibujado, §9), y con **Karma** (el más votado) ✅.
+- **Las escenas que hacen llorar**:
+  - **2×24 (ep. 46), 7:05-9:45: la última lista**. De noche, al aire
+    libre, Koro-sensei con el 出席簿; primeros planos de cada alumno
+    diciendo «はい», varios llorando (Kayano con su cartela, 8:50) ✅
+    visto. Termina en el aula vacía de día (9:29).
+  - **Ep. 46: la muerte de Koro-sensei**, con el insert **«旅立ちの歌»**.
+    Los alumnos lloran **uno a uno, encadenados** (primero Nagisa, al
+    final Nagisa otra vez) y él **se deshace en luz dejando sólo la
+    ropa** ✅ ([wiki, Episode 46](https://ansatsukyoshitsu.fandom.com/wiki/Episode_46)).
+  - **Ep. 47: siete años después**, Nagisa profesor; suena «また君に会える日»
+    ✅.
+  - **Reírse**: Irina muerta de vergüenza (2×01, 14:31); Koro-sensei
+    sobornado con una revista (2×02, 13:31) ✅.
+- **Reddit**: r/AssassinationClassroom no responde en Arctic Shift (0
+  resultados) ❌.
+
+### 18.5 · Punto 22 · Fan dubs y comunidad hispana
+
+- *«Assassination Classroom: Escenas de práctica - Fandub Español
+  Latino»* ([YouTube](https://www.youtube.com/watch?v=AkbT2qpyz1U)) ⚠️ sin
+  abrir ni contar vistas (YouTube pide sesión).
+- *«[FANDUB] Assassination Classroom - Ending 1 - Letra Español Latino»*
+  ([YouTube](https://www.youtube.com/watch?v=2PJNb3BOsZ8)) ⚠️ igual. Es el
+  **único cover en español** hallado; de los openings sólo hay cover en
+  inglés ❌.
+- TikTok hispano: los vídeos de duelo por Koro-sensei (§14) ✅; cifras sin
+  contar ⚠️.
+- Dailymotion: **ningún fandub** (634 resultados, todos prensa francesa)
+  ✅ comprobado.
+- Para el servidor de doblaje: Carlos Segundo saluda como Koro-sensei en
+  convenciones ([TikTok](https://www.tiktok.com/@rebecavirgen/video/7186783988743261446))
+  ⚠️ sin ver; y en *Los Simpson* T32 hace un guiño a Koro-sensei como Phil
+  ✅ (Doblaje Wiki).
+
+### 18.6 · Punto 23 · Colaboraciones, figuras y cosplay
+
+- **Videojuego cruzado**: Koro-sensei jugable en *J-Stars Victory VS*
+  (2014) ✅ (§13).
+- **Cafés del 10.º aniversario (2026)**, con ilustraciones nuevas ✅:
+  **RAKU CAFE** Ikebukuro y Shinsaibashi, 8-ene a 3-feb
+  ([アニメ！アニメ！](https://animeanime.jp/article/2026/01/03/94883.html),
+  [PR Times](https://prtimes.jp/main/html/rd/p/000000192.000108434.html));
+  **Sweets Paradise**, desde 17-mar en Tokio y Osaka
+  ([web](https://www.sweets-paradise.jp/collaboration/ansatsu-anime2));
+  **Animate Café Stand** Hareza Ikebukuro, desde 27-feb, posavasos con
+  arte nuevo **de ajedrez** ([collabo-cafe](https://collabo-cafe.com/events/collabo/ansatsu-movie-takeout-animate-cafe-stand-hareza-ikebukuro-2026/)).
+  Las ilustraciones sueltas no se pudieron abrir ⚠️.
+- **Figuras**: Banpresto **DXF Koro-sensei vol. 1**, ~17 cm, en 4 colores
+  (amarillo, **rojo = enfadado**, **negro = furioso**, rosa) ✅
+  ([Tokyo Otaku Mode](https://otakumode.com/shop/566e26ea3c9c45be02d89289/Assassination-Classroom-Koro-sensei-DXF-Figures-Vol-1));
+  **Pop Up Parade** de Karma y Nagisa ⚠️ (sólo en tiendas de reventa).
+- **Imagen real** (2015-16): cabeza esférica física, toga y birrete, y un
+  disfraz de policía azul (`personajes_02` n.º 62-63) ✅.
+- **Cosplay**: fotos CC BY y cómo se hace la cabeza (§4.2) ✅.
+- **Libros de estudio reales «殺たん»** (§3.2) ✅.
+
+### 18.7 · Punto 24 · Obras parecidas
+
+| Obra | Por qué se parece | Fuente |
+|---|---|---|
+| **Great Teacher Onizuka** | profesor raro que salva a una clase problemática | AniList (84, 104 votos) ✅; TV Tropes: «GTO con ciencia ficción y espías» ⚠️ |
+| **My Hero Academia** | clase con letra, reparto coral, Jump de la misma época | AniList (76, 176 votos) ✅ |
+| **Danganronpa** | jóvenes en un «mata o te matan» | AniList (69) + TV Tropes ⚠️ |
+| **Classroom of the Elite** | instituto y juegos de poder | AniList (76, 362 votos) ✅ |
+| **Talentless Nana** | alumnos con una misión de asesinato secreta | AniList (70) ✅ |
+| **Neuro** (mismo autor) | un ser sobrehumano de moral ambigua que mejora a quien toca | TV Tropes + にじめん ✅ |
+
+El manga hace **guiños a Doraemon y a El Puño de la Estrella del Norte**
+⚠️ (TV Tropes, sólo vía buscador: la web da 403).
+**Otras láminas del servidor**: **25 · My Hero Academia** también es de
+aula (canal #material-de-clase, vecino de #avisos-clases): **no repetir
+«aula con pizarra al fondo»** en las dos ✅. **19 · Doraemon** ya tiene su
+biblia (guiño cruzado posible).
+
+### 18.8 · Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas, en cinco líneas**
+1. Un ser amarillo con tentáculos **destruye el 70 % de la Luna** y
+   avisa de que destruirá la Tierra en marzo ✅.
+2. Pide ser profesor de la **3-E de Kunugigaoka**, la clase de los
+   peores; el Gobierno paga **100億円 (10 000 millones de yenes)** a quien
+   lo mate ✅ ([ja.wikipedia](https://ja.wikipedia.org/wiki/%E6%9A%97%E6%AE%BA%E6%95%99%E5%AE%A4)).
+3. **Nunca puede herir a un alumno**; ellos tienen **armas de colores**
+   que sólo le hacen daño a él ✅.
+4. El plazo es **el fin del curso** ✅. Si alguien cuenta el secreto, le
+   borran la memoria ⚠️ (una fuente).
+5. Vuela a **Mach 20**, se regenera y el agua lo frena ✅.
+
+**La historia por arcos** (nombres de la web oficial y fuentes
+japonesas; **los meses** son de la parte de texto ⚠️: el viaje a Kioto es
+de la T1, [web oficial](https://www.ansatsu-anime.com/2014-2016/story/detail_1st.php?id=1000361),
+así que va en primavera, no en otoño):
+
+| Arco | Momento clave |
+|---|---|
+| Llegada de Koro-sensei | la clase decide matarlo |
+| Llegada de Irina | la asesina se hace profe de inglés |
+| **Viaje a Kioto** (修学旅行の時間) | la guía-diccionario de 2.400 páginas (§2.4) |
+| Llegada de **Ritsu** y de **Itona** | la caja que se vuelve alumna |
+| Agua y exámenes contra la clase A | se descubre que el agua lo frena |
+| **Isla de verano** | un virus pone a la clase en peligro |
+| **Festival cultural** | puesto de comida del monte: 3.º del colegio |
+| Exámenes finales | toda la 3-E entre los 50 mejores |
+| **El pasado de Koro-sensei** (過去の時間) | fue **el Segador** (死神), convertido por **Yanagisawa** (Shiro) |
+| **Batalla final y graduación** | contra **群狼** (Manada de Lobos, de Craig Hōjō); lo matan juntos, por cariño |
+
+**Después**: la recompensa sube a **300億円**; pagan estudios y **compran
+el monte** del edificio viejo, «el sitio al que siempre pueden volver» ✅
+(ja.wikipedia + [blog](https://anime-mahoubako.hatenablog.com/entry/ansatsu-saisyuukai)).
+
+**Símbolos y objetos**: la **luna creciente**; la **pizarra**; el
+**cuaderno de puntos débiles** de Nagisa (弱点その…); la **guía de viaje**
+gigante; la **caja de Ritsu**; el **出席簿** de la lista final; la
+**letra «E»**; las **armas de colores** anti-sensei. Emblema de la clase:
+no encontrado ❌.
+
+**Vocabulario que un fan reconoce**: 暗殺教室 (aula de asesinato) ·
+殺せんせー · E組 / 3年E組 / «la E del final» (エンドのE組) · 椚ヶ丘 · 死神 ·
+群狼 · 弱点 · 手入れ (cuidar) · 第二の刃 (el segundo filo) ·
+抜き打ちテスト (examen sorpresa) · «Hora de…» ✅.
 
 ---
 
@@ -1494,14 +1826,24 @@ Y hay un formato oficial de aviso que imitar (§7.7).
 - **Objeto y sitio**: **la pizarra verde del aula de madera** del
   edificio viejo. En Blender: la pizarra con el texto de tiza como
   textura (con restos de borrado), **la repisa con tizas de colores y el
-  borrador**, imanes, y la pared de tablones. Detalle japonés real ⚠️:
+  borrador**, imanes, y la pared de tablones. **2.ª pasada**: la pizarra
+  del anime es **verde casi negra `#272726`** (medida en 2×06, 0:02), no
+  verde medio; y en la repisa puede ir **el 出席簿**, el libro de
+  asistencia negro de la lista final (2×24, 7:21). Detalle japonés real ⚠️:
   en el **borde derecho** de la pizarra se escribe en vertical **la
   fecha y el «日直»** (encargado del día).
 - **Personaje**: **Koro-sensei** escribiendo con un tentáculo, con
   **dos o tres imágenes fantasma** (va a Mach 20). Cara **naranja con el
   ◯ rojo** apuntando al texto de «activa el aviso». Pose: §15, Koro-sensei
-  1 (2×06, 00:00:02) o 7 (peli, 00:49:25).
-- **Cómo habla**: **con tiza**. Título en **Yusei Magic** blanca; los
+  1 (2×06, 00:00:02, **visto**: `fotogramas_01` n.º 1-2, con su traje
+  ceremonial de cuello dorado, perfecto para «anunciar») o 7 (peli,
+  00:49:25). Recorte limpio de cuerpo entero: arte del 10.º aniversario
+  (`personajes_01` n.º 17) o `personajes_02` n.º 69; para la versión
+  «¡todos aprobados!», la pose de celebrar (n.º 6 de `fotogramas_01`).
+- **Cómo habla**: **con tiza**, con **los tres colores de la serie**:
+  rosa para la palabra que avisa, dentro de un **estallido dentado**
+  («¡Aviso!», como el «対» de 2×06), blanco para el qué, amarillo para lo
+  importante ✅ visto. Título en **Yusei Magic** blanca; los
   bloques en **Kalam**; el ◯ y la X, dibujados a mano. Un «ヌルフフフ»
   pequeño en **Dela Gothic One** junto a su cabeza.
 - **Dónde va cada texto**:
@@ -1515,8 +1857,9 @@ Y hay un formato oficial de aviso que imitar (§7.7).
   - Abajo a la derecha, rodeado por un **◯ rojo de tiza**: **«Activa el
     aviso que te interese»** y **«Lo tienes en Canales y roles»**.
 - **Que no quede plano**: un **pupitre desenfocado delante** con el
-  cuaderno de Nagisa abierto y un cartón de zumo (el de Karma ⚠️); luz de
-  mañana entrando **de lado**, con **polvo de tiza** en el haz; la
+  cuaderno de Nagisa abierto y una **bebida láctea de cartón «～煮オ・レ»**
+  (la de Karma ✅, 2.ª pasada); luz de día blanca y cálida entrando **de
+  lado** (paleta del aula, `#CAC1AA`, 2×24, 9:29), con **polvo de tiza** en el haz; la
   pizarra un poco en ángulo, no de frente.
 
 ### Concepto B — «La guía de Koro-sensei» (el libro de 2.400 páginas)
@@ -1529,7 +1872,11 @@ Y hay un formato oficial de aviso que imitar (§7.7).
 - **Personajes**: **Karma** (el más votado), echado hacia atrás en la
   silla, con la guía en la mano y cara de «¿esto es un diccionario?»
   (la reacción real de la clase); **Nagisa** al lado, apuntando en su
-  cuaderno. Poses: §15, Karma 2 (2×01, 00:16:42) y Nagisa 7.
+  cuaderno. Poses: §15, Karma 2 (2×01, 00:16:42) y Nagisa 7. **2.ª
+  pasada**: referencia del libro gordo, Koro-sensei con un tomo enorme y
+  pilas de libros (`personajes_02` n.º 72); Karma con chaqueta abierta
+  (`personajes_01` n.º 16 o `personajes_02` n.º 71); Nagisa con chaleco y
+  corbata negra (`personajes_01` n.º 18) y su cuaderno (n.º 9).
 - **Cómo habla**: la guía está **escrita por Koro-sensei** con letra a
   mano redonda (**Klee One**) y dibujitos suyos en los márgenes; lo de
   Nagisa, a lápiz en su cuaderno (**Klee One** fina), numerado como sus
@@ -1562,7 +1909,12 @@ Y hay un formato oficial de aviso que imitar (§7.7).
   cara amarilla normal. Poses: §15, Ritsu 1 y Koro-sensei 5.
 - **Cómo habla**: **en su pantalla y en las notificaciones**. Letra
   **M PLUS Rounded 1c** (o **DotGothic16** para un toque de máquina).
-  Barra de título con 🎓🌕 como los avisos oficiales (§7.7).
+  Barra de título con 🎓🌕 como los avisos oficiales (§7.7). **2.ª
+  pasada**: las notificaciones de los móviles pueden copiar **la caja de
+  diálogo real de los juegos de 3DS**: etiqueta **amarilla `#FFEA62`** con
+  el nombre («Ritsu») y caja **crema `#F5F7E2`** con gótica negra (§7.5)
+  ✅. Y cada interruptor puede llevar la cartela de la lista final:
+  **«Ⅲ-E〔1〕Doblaje»**, **«Ⅲ-E〔2〕Canto»** (2×24, 8:50) ✅.
 - **Dónde va cada texto**:
   - Pantalla de la caja, arriba: **«Avisos de clases»**.
   - Debajo: **«Cuándo hay clase y de qué»**.
@@ -1585,6 +1937,12 @@ Y hay un formato oficial de aviso que imitar (§7.7).
 3. **B**: el más «de Blender» (papel curvado) y el que usa al más
    querido (Karma).
 
+**Cambió en la 2.ª pasada**: ningún concepto cambia de objeto; ahora
+cada uno tiene imagen propia (hojas numeradas), paleta medida y un
+formato de texto real de la serie (tiza de tres colores, cartela «Ⅲ-E»,
+caja de los juegos). Nota de canal: **25 · My Hero Academia** también es
+de aula (§18.7); si las dos láminas se hacen, que A no repita su pizarra.
+
 **Lámina 2** (el horario): en la **pared lateral del aula**, un **tablero
 de horario** (時間割表) de corcho o imanes con fichas «Doblaje» y
 «Canto» por día. Huecos en blanco hasta que el dueño pase el horario real.
@@ -1593,27 +1951,95 @@ de horario** (時間割表) de corcho o imanes con fichas «Doblaje» y
 
 ## 20 · Lo que no pude verificar
 
-- **Todas las imágenes**: no pude bajar ni mirar ninguna. No hay hojas de
-  contacto; **la paleta no está medida**.
-- **Las posturas** de §15: deducidas de la frase ⚠️.
-- **Temporada 1 sin subtítulos**: sus escenas (la guía del ep. 7, el
-  cuaderno de Nagisa, las clases con clones) van **sin minuto**.
-- **Doblaje latino**: Karasuma, Kayano y el director (Iván Fernández ⚠️)
-  sin segunda fuente; **ninguna frase latina** de Koro-sensei salvo la
-  del «alguacil» (una fuente); **cómo llaman a Irina** en latino ❌; si la
-  película 2026 tiene doblaje latino ❌.
-- **Encuestas**: si hubo más de una oficial (namu dice que sí) ⚠️.
-- **Endings de la T1** ❌ y de la T2 (una fuente) ⚠️.
-- **Letra del logo japonés** ❌; Futura para el inglés, una fuente ⚠️.
-- **Cajas de diálogo de los juegos de 3DS** ❌.
-- **Colores de pelo y ropa** de Karma, Ritsu, Irina, Karasuma ⚠️.
-- Que el antiguo colegio Irisugawa sea el modelo **del anime** ⚠️ (sí lo
-  es del rodaje de la película de imagen real).
-- Que cada clon de Koro-sensei lleve **una cinta con la asignatura** ⚠️.
-- El **detalle de la fecha y el 日直 en el borde derecho de la pizarra**
-  es costumbre de las aulas japonesas; que se vea en la 3-E ⚠️.
-- La **Doblaje Wiki** entera: no respondía; los nombres salen de
-  extractos de búsqueda.
+**2.ª pasada · lo que se resolvió** (antes → ahora): imágenes y hojas
+(ninguna → 3 hojas, 96 imágenes miradas) ✅; paleta (no medida → medida)
+✅; posturas (deducidas → 16 vistas en fotograma) ✅; voces de Karasuma,
+Kayano, Ritsu y el director (sin fuente → dos fuentes) ✅; endings de T1
+y T2 ✅; Futura del logo inglés ✅; cajas de diálogo de los juegos ✅;
+colores de Karma e Irina ✅; J-Stars ✅; Doblaje Wiki (extractos → wikitext
+completo) ✅.
+
+**Lo que sigue sin verificar**:
+- **Frases del doblaje latino con minuto** ❌: YouTube pide iniciar sesión,
+  las muestras de Doblaje Wiki están vacías y no hay clips doblados en
+  Dailymotion. Sólo hay frases con episodio (§10).
+- **Cómo llaman a Irina en latino** ❌; **doblaje latino de la película
+  2026** ❌.
+- **Vídeo en 480p**, no 1080p ⚠️ (Internet Archive; los `.mkv` de 5 GB
+  por episodio no caben).
+- **Caras sin fotograma** ⚠️: Koro-sensei triste, con miedo o furioso
+  (hay figuras DXF de colores); Nagisa triste, con miedo o avergonzado;
+  Karma triste, con miedo o avergonzado; **Irina enfadada** (la película
+  de 2016 entera no está en Internet Archive ni Dailymotion).
+- **Temporada 1 sin subtítulos**: la guía del ep. 7, el cuaderno y las
+  clases con clones van **sin minuto** ⚠️.
+- **Encuestas**: si hubo más de una oficial (sólo namu) ⚠️.
+- **Letra del logo japonés** y de los títulos de episodio ❌.
+- **Emblema de Kunugigaoka o de la 3-E** ❌ (no encontrado; se usa la «E»).
+- **Fondos de pantalla oficiales** ❌ (sólo de fans).
+- **Tráiler de la película 2026** fuera de YouTube ⚠️.
+- **Fan dubs y covers**: títulos encontrados, **vistas sin contar** ⚠️.
+- **Ritsu**: color de pelo y aspecto en pantalla ⚠️ (sin fotograma).
+- **Kiiro Shingo, Setsuna Blossom, Spica** (temas de la reemisión): una
+  fuente ⚠️.
+- **Programa de dibujo de Matsui** y **trama exacta** del manga ❌.
+- Pop Up Parade de Karma y Nagisa: sin ficha oficial ⚠️.
+- Que el colegio Irisugawa sea el modelo **del anime** ⚠️; que cada clon
+  lleve **una cinta con la asignatura** ⚠️; la **fecha y el 日直 en la
+  pizarra** de la 3-E ⚠️.
+- Reddit (r/AssassinationClassroom): 0 resultados en Arctic Shift ❌.
+
+---
+
+## Cumplimiento del encargo
+
+Estado tras la 2.ª pasada (25-sep-2026). ✅ hecho · ⚠️ a medias · ❌ no
+hecho, con el porqué.
+
+| # | Punto de ENCARGO.md | Estado | Por qué / dónde |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | Hojas de modelo de Lerche, arte del 10.º aniv., visual de la T2, ficha de Karma, imagen real, logo; 80 imágenes en 2 hojas (§3.0) |
+| 2 | Fotogramas de escenas icónicas con minuto | ⚠️ | 16 fotogramas con episodio y minuto, vistos (§2.5, `fotogramas_01`); **en 480p, no 1080p** (YouTube bloqueado; los originales pesan 5 GB) |
+| 3 | Fan art y 3D con licencia | ✅ | 7 modelos de Sketchfab CC BY por API; fan art con autor (Safebooru); cosplay CC BY (§4). pixiv cerrado |
+| 4 | Sitios, luz, paleta medida, texturas | ✅ | Paleta medida en 9 escenas (§5.2b); luz vista; texturas CC0 enlazadas. Pizarra sin textura libre ❌ (se pinta) |
+| 5 | Tipografía por uso, con tildes | ⚠️ | Letras libres comprobadas con fontTools (§6.2); Futura ✅. Logo japonés y títulos de episodio sin identificar ❌ |
+| 6 | Cómo hablan en pantalla / cuadro de diálogo | ✅ | Cara de colores, tiza de tres colores, cartela «Ⅲ-E〔n〕», caja de los juegos de 3DS medida (§7) |
+| 7 | Personajes y popularidad | ✅ | Encuesta oficial hasta el 9.º con reparto por sexo, AniList y Danbooru (§9) |
+| 8 | Doblaje latino y frases | ⚠️ | Reparto completo con dos fuentes y ficha técnica ✅ (§10). **Frases latinas sólo con episodio, sin minuto ni clip** ❌ (YouTube pide sesión; muestras vacías) |
+| 9 | Música y sonido | ✅ | Todos los temas originales, la reemisión 2025-26, las dos películas (始業のベル = 2016), el insert de la muerte; risas y ruidos (§11, §2.3) |
+| 10 | Vídeos con minuto | ⚠️ | PV T2, featurette 2016 y 7 episodios mirados con minuto (§12). Tráiler 2026 y TikTok sin ver |
+| 11 | Videojuegos: interfaz y diálogos | ✅ | Dos juegos de 3DS vistos en capturas, J-Stars, Koro-Sensei Quest! (§13, §7.5) |
+| 12 | Lo que ama el fandom y qué no hacer | ✅ | §14, con duelo hispano en TikTok y nuevos «no hacer» |
+| 13 | Descripción profunda y cara en cada emoción | ⚠️ | Carácter, historia, datos y dinámicas ✅ (§8). **Caras**: faltan tristeza, miedo y rabia de Koro-sensei; tristeza, miedo y vergüenza de Nagisa y Karma; Irina enfadada |
+| 14 | Poses analizadas con minuto | ⚠️ | 34 escenas con minuto; **9 vistas** en fotograma (más las poses de las hojas de la wiki), el resto deducidas (§15) |
+| 15 | Vestuario con hex | ✅ | Koro-sensei, Nagisa, Karma e Irina medidos (§16); vivos morados de la toga sin hex ⚠️ |
+| 16 | Paisajes y fondos de pantalla | ⚠️ | Sitios con luz vista; 8 fondos con tamaño y autor (§17); **oficiales no existen para descargar** ❌ |
+| 17 | Guía para IA de imagen y de texto | ✅ | Rasgos fijos, estilo medido, palabras, vocabulario de Danbooru y de expresiones, frases reales por emoción (§18) |
+| 18 | Estilo y técnica, cómo replicarlo | ✅ | Staff, manga mirado, sombreado y línea medidos, receta de Photoshop y Blender (§18.1). Programa de Matsui ❌ |
+| 19 | Texturas 2D | ⚠️ | Trama libre, papel, crayón, tiza (§18.2); **emblema de la escuela no encontrado** ❌ |
+| 20 | Gustos y detalles | ✅ | Tabla de 7 personajes con cumpleaños, altura, comida, afición, objeto (§18.3) |
+| 21 | Por qué la aman, escenas que hacen llorar | ✅ | Ventas, premios, reseñas con cita, lista final vista con minuto, ep. 46 con su música (§18.4). Reddit sin datos ❌ |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | 2 fandubs y el cover del ending encontrados, **sin vistas** (YouTube pide sesión) (§18.5) |
+| 23 | Colaboraciones, figuras, cosplay | ✅ | J-Stars, 3 cafés 2026, DXF, Pop Up Parade ⚠️, imagen real, cosplay (§18.6) |
+| 24 | Obras parecidas y láminas cercanas | ✅ | AniList, TV Tropes (vía buscador ⚠️), mismo autor; choque con MHA (§18.7) |
+| 25 | Mundo, historia por arcos, símbolos | ✅ | Reglas, 10 arcos, final, símbolos y vocabulario (§18.8); orden por meses ⚠️ |
+| — | **3 conceptos de lámina** | ✅ | A pizarra, B guía, C Ritsu, con imagen numerada, letra, textos y profundidad (§19) |
+| — | **40 fuentes distintas** | ✅ | **102 webs distintas** enlazadas |
+| — | Oficiales | ✅ | ansatsu-anime.com, Shueisha, Nintendo, Bandai Namco, avex, PR Times; entrevistas (Natalie, Oricon) sólo titular ⚠️ |
+| — | Otros idiomas (japonés, inglés, coreano, chino) | ✅ | ja.wikipedia, pixiv百科, Famitsu, 4Gamer; Namuwiki; 萌娘百科 |
+| — | Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (dos), Doblaje Wiki, Wikipedia ✅; TV Tropes 403 (sólo vía buscador); TCRF no aplica (sin betas documentadas); Wayback rechazado |
+| — | Foros y comunidades | ⚠️ | MyAnimeList, Yahoo!知恵袋, dafont, cosplay.com ✅; Reddit por Arctic Shift sin resultados ❌ |
+| — | Arte (pixiv, ArtStation…) | ⚠️ | Safebooru, Wallhaven, Behance ✅; pixiv pide sesión ❌ |
+| — | Vídeo con minuto | ✅ | Internet Archive y Dailymotion mirados; YouTube sólo enlazado |
+| — | Código y recursos | ✅ | GitHub (kitsunekko, google/fonts, svg-halftone), Sketchfab, ambientCG, Clip Studio Assets |
+| — | Doblaje latino | ✅ | Doblaje Wiki por API, ANMTV, Crunchyroll, AniList |
+| — | **Hojas de contacto** | ✅ | 3 en `hojas/`: `personajes_01`, `personajes_02`, `fotogramas_01` (nueva), todas < 1 MB (§3.0) |
+| — | **referencias.json** | ✅ | **157** referencias (99 con tamaño medido), las mejores primero |
+
+**Resumen**: 16 ✅ y 9 ⚠️ de los 25 puntos; ningún punto sin hacer. Lo
+que falta de verdad son **frases latinas con minuto**, **vídeo en
+1080p**, **algunas caras por emoción** y el **emblema de la escuela**,
+todo por bloqueos o porque no se encontró, no por no buscar.
 
 ---
 
@@ -1733,3 +2159,83 @@ todos bloqueados.
 - Fan art concreto con autor (pixiv cerrado).
 - Una textura concreta de pizarra verde con su enlace.
 - Los endings de la temporada 1.
+
+### Segunda pasada (25-sep-2026): red abierta y método de equipo
+
+Junta las bitácoras de `partes/imagen.md`, `video.md`, `voz.md` y
+`texto.md`, más lo que hizo el redactor.
+
+**Comprobación de red**
+- **Ahora responden**: Fandom (`ansatsukyoshitsu`; `assassinationclassroom`
+  da 404), Doblaje Wiki por API (`prop=wikitext`), Sketchfab API,
+  ambientCG API, Wallhaven, Internet Archive, Dailymotion API, ja y en
+  Wikipedia, Famitsu, 4Gamer, Dengeki, Oricon (en Shift-JIS, a mano),
+  MusicBrainz, GitHub.
+- **Siguen cerrados**: YouTube (lista formatos, pero bajar da 403),
+  TikTok, pixiv (302 a login), TV Tropes (403 Cloudflare, dos
+  intentos), AnimeThemes (522 y 403), Wayback (rechazado), Comic Natalie
+  (403 en el cuerpo), Reddit por Arctic Shift (0 resultados).
+
+**APIs y herramientas (sin cupo de buscador)**
+- `investigar_serie.py --wiki ansatsukyoshitsu --paginas "Korosensei"
+  "Nagisa Shiota" "Karma Akabane" "Irina Jelavić"` → 80 imágenes, 2 hojas.
+- Fandom `api.php?action=parse&prop=wikitext` sobre Korosensei,
+  Nagisa_Shiota, Karma_Akabane, Irina_Jelavić, Tadaomi_Karasuma,
+  Kaede_Kayano, Ritsu, Episode_46, Episode_47 y «Assassination Classroom
+  Openings and Endings».
+- Doblaje Wiki: `Assassination_Classroom` (22 509 caracteres), páginas
+  de Juan Carlos Román y María García.
+- `api.sketchfab.com/v3/models/<uid>` ×7; ambientCG `q=wood planks`,
+  `old wood`, `paper` (con resultado), `chalkboard` (0).
+- Internet Archive: `AnsatsuKyoushitsuEpisode001480pX264`,
+  `anime-kage-assassination-classroom-01-ro-sub` y
+  `ansatsu-kyoushitsu-2x-23_20260520` (2×01, 06, 07, 21, 24, 25) con
+  `fotogramas.py` y `ffmpeg -ss` (sólo segundos sueltos); vídeos borrados.
+- **Redactor**: 16 fotogramas sueltos con `ffmpeg -ss` sobre los mismos
+  mp4 de Internet Archive → `hojas/fotogramas_01.jpg`, mirada entera (de
+  ahí el 出席簿 de 2×24, 7:21 y la cartela «Ⅲ-E〔7〕» de 8:50).
+- Dailymotion API en japonés: «暗殺教室 PV» → `x3kret1`; «暗殺教室
+  みんなの時間» → sólo `x8o319m` (película 2016); «fandub español» → 634
+  resultados, ninguno fandub.
+- `estilo.py` ×5 sobre fotogramas y sobre el arte del 10.º aniversario;
+  Pillow para hex de vestuario, de caras y de los juegos.
+- `referencias.json`: tamaños medidos bajando cada imagen (99 de 157).
+
+**Búsquedas web (47 de la 1.ª pasada + 47 nuevas: 12 + 4 + 13 + 18)**
+- Imagen (12; es, en, ja): cafés 2026 (「暗殺教室 コラボ カフェ 2026」),
+  figuras, J-Stars, cosplay de la cabeza, tramas gratis, emblema
+  (「椚ヶ丘中学校 校章 エンブレム」).
+- Vídeo (4; ja): temas de la reemisión («Last Look», «月の舟» de ATARAYO,
+  友成空) y el tema de la película 2026.
+- Voz (13; es, en, ko): reparto latino, «Bitch-sensei» en latino, fandubs,
+  covers, ventas, *Kono Manga ga Sugoi*, reseñas «made me cry», encuestas
+  de namu.wiki.
+- Texto (18; ja, en): staff y técnica de Lerche, TV Tropes, vocabulario,
+  recompensa (100億円, 300億円), arcos, 群狼, logo (Futura, 書体),
+  entrevista de Matsui sobre el «blanco».
+
+**Fuentes nuevas por tipo**
+- **Oficiales**: ansatsu-anime.com (historia, 10.º aniv.), avex, PR Times,
+  Sweets Paradise, Famitsu, 4Gamer, Dengeki.
+- **Otros idiomas**: ja.wikipedia, pixiv百科, アニメ！アニメ！, にじめん,
+  OTOTOY, animatetimes, utaten (japonés); Namuwiki (coreano).
+- **Wikis**: ansatsukyoshitsu.fandom.com, Doblaje Wiki, en.wikipedia.
+- **Foros y fans**: MyAnimeList (reseñas y foro), cosplay.com, Kanzenshuu,
+  GameFAQs, blogs japoneses.
+- **Arte y recursos**: Safebooru, Wallhaven, Openverse/Wikimedia, Behance,
+  Sketchfab, ambientCG, Clip Studio Assets, GitHub (svg-halftone).
+- **Vídeo**: Internet Archive, Dailymotion, TikTok (enlaces).
+
+**Lo que NO encontré en la 2.ª pasada** (con la búsqueda hecha)
+- Frases del doblaje latino con minuto (YouTube 403; muestras de Doblaje
+  Wiki vacías; Dailymotion sin clips doblados).
+- El apodo latino de Irina («profesora bitch», «Bitch-sensei apodo
+  latino», wikitext de Doblaje Wiki).
+- Doblaje latino de la película 2026 (ANMTV, Doblaje Wiki, eldoblaje.com).
+- La película de 2016 entera (Internet Archive: `365日の時間`,
+  `ansatsu kyoushitsu graduation`; Dailymotion) → sin Irina enfadada.
+- Tráiler de la película 2026 fuera de YouTube.
+- Fondos oficiales (`/10th/wallpaper/` 404).
+- Emblema de la escuela («校章», «エンブレム»).
+- Diseñador del logo japonés y programa de dibujo de Matsui.
+- Hilos de r/AssassinationClassroom (Arctic Shift, tres variantes).
