@@ -1634,3 +1634,216 @@ la película, sin «·», «—» ni paréntesis (regla 4 del dueño).
   primer plano; un **colibrí** (le encantan, §21) cerca de su hombro; luz
   de tarde rasante con sombras largas en el adobe; polvo en el aire.
 
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### Correcciones (con la prueba)
+
+1. **Luisa**: la parte de voz copió el carácter de **la Luisa de *Elena
+   de Ávalor*** (equipo de Olaball, la reina Lucía, Esteban): la ficha
+   `disney.fandom.com/wiki/Luisa` no es Luisa Madrigal (`datos-voz.md`).
+   Quitado. También decía «overol verde»: lleva blusa blanca y falda
+   oscura (color key y `objetos_01` #83).
+2. **Falda de Mirabel**: la parte de imagen la daba naranja o amarilla;
+   es **verde azulado** con bordados (`personajes_01` #13, #19, #20;
+   `objetos_01` #68 y #72; `fondos_01` #428).
+3. **Títulos latinos**: la canción de Luisa es **«En lo profundo»** (no
+   «De mi propia presión») y la de Isabela **«Inspiración»** (no «El
+   poder de mi don» ni «Lo que se siente»). El encargo **no** menciona
+   «Lo que se siente», aunque la parte de vídeo lo atribuía al encargo.
+4. **Tráiler latino, 0:38**: «divinamente perfecta como la señorita
+   perfecta» lo dice **Mirabel**, no Isabela (la muestra oficial de
+   Mirabel trae la frase entera).
+5. **Tráiler latino, 1:26**: la parte escribía 1:29 y enlazaba 1:26.
+6. **Casita de Sketchfab**: la parte de texto la daba por útil; es un
+   icono de 16 vértices (la parte de imagen miró la malla). Descartada.
+7. ***Disney Emoji Blitz* y *Disney Heroes***: la parte de imagen los dejaba
+   ⚠️; la de texto confirmó personajes y habilidades en sus wikis ✅.
+8. **Maluma**: la parte de vídeo dudaba si sólo actuaba; hace a Mariano
+   en inglés y en español ✅ (voz).
+9. **LEGO**: «Iselabela's» → «Isabela's Magical Door» (nombre del archivo,
+   `objetos_01` #61).
+10. **Imágenes coladas** de otras series en las hojas (#3, #46, #52, #96,
+    #406): marcadas para no usarlas.
+11. **Frase «arepa con queso»**: la parte de voz la convertía en chiste
+    de Mirabel; es una transcripción rota de Whisper. No se cita.
+
+### Por comprobar de oído o viendo la película
+
+- **Qué reparto suena en el tráiler latino** `x88agws`: el de la película
+  (Olga Lucía Vives…) o el de los tráileres (Meli G, Gabriela Guzmán,
+  Alicia Vélez).
+- **Quién dice** «¡Cobarde!» (2:02), «Hasta los momentos más difíciles…»
+  (1:40) y «el destino de la familia…» (1:26).
+- La letra latina de **«En lo profundo»** («No pregunto, ejecuto»), sólo
+  por Whisper.
+- **El tráiler de Sensacine** (`x88qgbc`), que la parte de vídeo llama
+  «doblado en España»: Encanto no tiene doblaje de España.
+- La frase de **Camilo** (Whisper confunde el principio).
+- Si «**Hernando**» y «**Jorge**» son de Bruno o de la familia.
+- El **minuto dentro de la película** de la disculpa en el río y de
+  «Un regalo mágico».
+
+### No encontrado (con la búsqueda hecha)
+
+- **Bruno en vídeo** (ninguna pose con minuto) y su **voz latina**.
+- **Caras de vergüenza** de todos; tristeza y miedo de Luisa e Isabela.
+- **Encuesta oficial** de popularidad; **altura** y **cumpleaños**
+  oficiales.
+- **Fotogramas propios en 1080p** (YouTube pidió iniciar sesión).
+- **Vistas** de fandubs y covers; vídeos de TikTok con minuto;
+  comentarios con más votos.
+- **Hex** del interior de la Casita, del escondite de Bruno y de la
+  falda de Mirabel medida aparte.
+- **Páginas interiores del cómic** (grito, pensamiento).
+- **Modelo 3D libre** de la Casita y de la Abuela; pincel del bordado.
+- **Fortnite** y **cafés temáticos**; **Kingdom Hearts**; página en **TCRF**.
+- **ANMTV** sobre el doblaje de Encanto; **TV Tropes** (bloqueado).
+
+## Cumplimiento del encargo
+
+| Punto de `ENCARGO.md` | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 3 hojas miradas número a número (144 imágenes): grupo, pósters de personaje, libros, muñecas, LEGO, Lorcana, bocetos; 5 renders de perfil; 21 pósters; artbook y entrevista a Lorelay Bové (§3). Imágenes de otras series marcadas |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 10 escenas con minuto, vistas de verdad (§2). **Ninguna propia en 1080p** (720p; YouTube pidió iniciar sesión); hay capturas 4K de la wiki, pero sin minuto. Los minutos son del clip, no de la película |
+| 3 · Fan art y 3D con licencia | ✅ | 7 fan art con autor; 9 modelos de Sketchfab CC BY (uno con malla comprobada); la Casita falsa descartada (§4). **Sin modelo libre de la Casita ni de la Abuela** ⚠️ |
+| 4 · Fondos, luz, paleta y texturas reales | ✅ | 6 sitios medidos en fotogramas con `estilo.py`; Barichara y Cartagena vistas en los *making of*; 7 texturas CC0 (§5). Interior de la Casita y escondite de Bruno sin hex ⚠️ |
+| 5 · Tipografía, una letra por uso | ✅ | 8 usos con letra libre comprobada con fontTools (tildes, ñ, ¿ y ¡); aviso de `latin-ext`; fuente de fans con licencia dudosa avisada (§6). Grito y pensamiento sin modelo oficial ⚠️ |
+| 6 · Cómo hablan en pantalla | ✅ | 9 formas reales (puerta dorada, tableta, mural 2D, cita de *Disney Heroes*, carta de Lorcana, misiones, cómic, cartas, subtítulos) y receta (§7). Interior del cómic no visto ⚠️ |
+| 7 · Personajes y encuestas de popularidad | ⚠️ | 12 personajes descritos (§8). **No hay encuesta oficial**: se usa el foro (Luisa, 378 votos) y la prensa (§9) |
+| 8 · Doblaje latino, dos fuentes por nombre, frases textuales | ✅ | ficha y 20 papeles con estado; 7 muestras oficiales y 9 frases del tráiler con minuto (§10). **Bruno sin muestra** y reparto del tráiler por oír ⚠️ |
+| 9 · Música y sonido | ✅ | compositores, 8 títulos latinos con fuente (2 corregidos), lo que suena en la escena más triste, invitados, *foley* de las maracas (§11). Lista oficial de efectos no encontrada ⚠️ |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | 11 vídeos mirados, tráiler minuto a minuto, tendencias con dos fuentes (§12). **Sin vídeos de TikTok con minuto** y los análisis en español sin mirar |
+| 11 · Videojuegos: interfaz y cajas | ✅ | 8 juegos con lo que traen, su interfaz y su texto; Kingdom Hearts, TCRF y POP TOWN aclarados (§13) |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | 6 cosas que todo fan reconoce y 9 reglas de qué no hacer (§14) |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | carácter, miedo, arco, voz medida y dinámicas (§8). **Caras: 13 de 25** con fotograma o imagen; **Bruno ninguna** y **vergüenza de nadie** |
+| 14 · Poses analizadas, 6-10 por personaje | ⚠️ | Mirabel 13, Luisa 10, Isabela 7, Alma 7, con minuto o imagen y uso (§15). **Bruno: ninguna en vídeo** |
+| 15 · Vestuario con hex | ✅ | color key oficial medido para 6 personajes, contrastado; falda de Mirabel y ropa de Luisa corregidas mirando las hojas (§16). Falda sin medir aparte ⚠️ |
+| 16 · Ciudades, paisajes y fondos de pantalla | ✅ | 10 sitios con hora y luz; fondo de 4050×3375 con autor; Wallhaven vacío comprobado (§17) |
+| 17 · Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, etiquetas, plantilla, cómo habla cada uno, 10 frases reales por emoción y vocabulario visual con *chibi* oficial (§18) |
+| 18 · Estilo, técnica y cómo replicarlo | ✅ | Hyperion, blog del ingeniero, SIGGRAPH 2022, vestuario, dirección de arte, encuadre; receta de Blender y Photoshop (§19) |
+| 19 · Texturas 2D | ✅ | bordado, mural, gouache, tela y papel CC0, emblema (§20). Sin pincel libre del bordado ⚠️ |
+| 20 · Gustos y detalles | ⚠️ | gustos, odios, edad, don y objeto de 12 personajes, con comida colombiana real (§21). **Sin altura ni cumpleaños oficiales** |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | 5 razones y 3 escenas con qué pasa, música y cómo están hechas (§22). **Sin minuto de la película ni comentarios con más votos** |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | covers, TikTok, entrevistas a Mauro Castillo, análisis en español (§23). **Sin vistas** (YouTube y TikTok bloqueados) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 8 juegos, 8 espectáculos y parques, Funko, Disney Store, Jim Shore, LEGO, pin de D23, cosplay con patrones (§24). Varios sólo vistos en la hoja ⚠️ |
+| 24 · Obras parecidas y láminas vecinas | ✅ | Coco, *Vivo*, *Cien años de soledad*, *Turning Red* ⚠️; 6 láminas vecinas del servidor (§25) |
+| 25 · El mundo, la historia y sus símbolos | ✅ | 5 reglas, 5 arcos, 11 símbolos y palabras (§26) |
+| 3 conceptos de lámina | ✅ | A #presentaciones ⭐, B #eventos, C #dudas; distintos en sitio, objeto y personaje (§27) |
+| 40 fuentes distintas | ✅ | 53 webs distintas enlazadas (lo cuenta `revisar.py`), de todos los tipos de abajo |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | oficiales, wikis, foros, arte, vídeo, doblaje y recursos, sí. **TV Tropes y Wayback bloqueados**, ANMTV sin artículo, GitHub no se usó. Japonés, coreano y chino no aplican: la obra es estadounidense y colombiana |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB, miradas número a número (§3.1) |
+| `referencias.json` | ✅ | 138 referencias, las mejores primero, sin las que no son de Encanto |
+
+## 29 · Bitácora de búsqueda
+
+Juntada de las cuatro partes y del redactor. Idioma entre paréntesis.
+Japonés, coreano y chino **no aplican**: la obra es de Estados Unidos,
+ambientada en Colombia.
+
+### Recolector (`recolectar.py`, sin IA)
+
+- AniList: no es anime (descartó *Crazy Beautiful*). AnimeThemes: HTTP 522.
+- Fandom: no encontró «Abuela Alma» (la página es «Alma Madrigal»); «Luisa»
+  y «Bruno» sin apellido trajeron otras series.
+- [Danbooru](https://danbooru.donmai.us/posts?tags=encanto): la etiqueta
+  mezcla otras obras; sólo sirven las etiquetas por personaje.
+- Steam: dos juegos que se llaman «Encanto» por coincidencia
+  ([DOA6](https://store.steampowered.com/app/5172900), [Buena Pizza](https://store.steampowered.com/app/2648490)).
+- Openverse: casi todo falsos positivos; sólo la foto de Jessica Darrow.
+
+### Imagen
+
+- API de `disney.fandom.com`: páginas correctas de Luisa, Bruno y Alma
+  Madrigal; galerías y `imageinfo` de Casa Madrigal y de cada personaje.
+- [Wallhaven](https://wallhaven.cc/api/v1/search?q=encanto): «encanto»,
+  «encanto disney», «madrigal», «mirabel»: 0 resultados.
+- [API de Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=Isabela%20Madrigal&downloadable=true):
+  «Isabela Madrigal», «Abuela Alma Encanto» (0), «Madrigal house colombia»
+  (0); ficha de 7 modelos (licencia, vértices).
+- [API de ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=paper):
+  roof, tiles, wood, door, brick, paper, fabric, embroidery.
+- IMP Awards por `curl`: 21 pósters; 4 bajados (510×755).
+- Color: `estilo.py` en los 5 renders y Pillow en el color key.
+- Buscador (inglés y español, 11): fondos oficiales 4K; concept art en
+  ArtStation; *The Art of Encanto* y Lorelay Bové; cosplay; Casita en
+  Sketchfab; Fortnite y cafés temáticos; figuras D23; fan art en Pixiv y
+  DeviantArt; bordado y papel picado libres; variantes de póster;
+  Alphacoders.
+- Fallaron: DeviantArt (403), AnimeThemes (522), Wallhaven (vacío).
+
+### Vídeo
+
+- [API de Dailymotion](https://api.dailymotion.com/videos?search=No%20se%20habla%20de%20Bruno)
+  (español e inglés): «No se habla de Bruno», «Colombia Mi Encanto»,
+  «What Else Can I Do Encanto», «Isabela Encanto flor», «Encanto Bruno
+  torre arena», «Encanto Antonio Bruno clip official», «Encanto casita se
+  derrumba» (sin resultado útil).
+- Internet Archive (`advancedsearch`): Bruno, Colombia, «What Else Can I
+  Do», casa que se derrumba, tráiler 2, Antonio y jaguar.
+- MusicBrainz: el álbum mexicano en español, pistas por duración.
+- Disney Wiki en español: «Surface Pressure» por `action=parse`.
+- `fotogramas.py` en 11 vídeos y `estilo.py` en 7 fotogramas. Vídeos
+  borrados al terminar; quedan las hojas en la carpeta de trabajo.
+- Buscador (2): «Lo que se siente» Encanto (español); tendencia de TikTok
+  y Billboard (inglés).
+
+### Voz y personajes
+
+- [API de Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Encanto):
+  reparto, ficha y datos de interés; `list=search` y `list=allimages`
+  buscando audio de Bruno (nada).
+- API de `disney.fandom.com` (inglés): *Personality*, *Background* e
+  infobox de 12 personajes.
+- Wikipedia en español: reparto y doblaje.
+- `voz.py` en 7 muestras de Doblaje Wiki y en el tráiler latino;
+  `fotogramas.py --cortes` en el tráiler (90 fotogramas).
+- Dailymotion (español): «No se habla de Bruno cover», «Dos Oruguitas
+  cover», «Encanto fandub», «Encanto parodia».
+- [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Encanto&query=favorite)
+  (inglés): underrated, Camilo, Dolores, meme, favorite; «cry», «worst» e
+  «iconic» sin resultados.
+- Buscador (9, español e inglés): doblaje, ANMTV y Ricardo Tejedo;
+  fandubs de «No se habla de Bruno»; Óscar, Grammy y Billboard; memes;
+  crítica sobre la representación de Colombia; encuesta de favorito; sin
+  doblaje de España; edades de D23; la disculpa de la Abuela.
+- Fallaron: TV Tropes (403) y su copia en Wayback (bloqueada por la red);
+  disneylatino.com (403); eldoblaje.com con otro ID (salió otra película);
+  la película completa en Dailymotion (dada de baja).
+
+### Texto, juegos y técnica
+
+- APIs de las wikis de Disney, [Logopedia](https://logos.fandom.com/api.php),
+  Magic Kingdoms, Speedstorm, *Disney Heroes*, Dreamlight Valley (tras 4
+  dominios con 404), Solitaire y Emoji Blitz.
+- TCRF por API: 403; por buscador: sin página.
+- Letras: [1001fonts](https://www.1001fonts.com/download/madrigal.zip),
+  [API de Fontsource](https://api.fontsource.org/v1/fonts?subsets=latin-ext)
+  y los `.ttf` de [jsDelivr](https://cdn.jsdelivr.net/fontsource/fonts/yeseva-one@latest/latin-400-normal.ttf),
+  abiertos con fontTools.
+- Sketchfab: «encanto casita», «colombian ruana poncho», «butterfly low
+  poly». ambientCG: 7 telas.
+- Buscador (24, inglés): cómic de Papercutz; fuente del logo; *The Art
+  of Encanto*; consultores colombianos; Hyperion; ruana y mochila; símbolos
+  de la vela y las mariposas; Coco y *Vivo*; TV Tropes; libros; Colombian
+  Cultural Trust; Neysa Bové; créditos de arte; letrero del pueblo; TCRF;
+  Kingdom Hearts; NubeFonts; Sorcerer's Arena; Solitaire; «Dos
+  Oruguitas»; falda de Isabela; etalonaje y grano.
+- Leídos enteros: Wikipedia de Bruno y de la película; dos entradas del
+  blog de Yining Karl Li.
+
+### Redactor
+
+- Leídas las 4 partes, los `datos-*.md` y los `.json`.
+- **Miradas las 3 hojas** número a número, con recortes ampliados de las
+  cartas de Lorcana (#385, #402), la progresión del baile (#423), los
+  créditos (#31), el mural (#22, #39), las cartas (#71, #72) y el logo
+  (#63). Colores de los créditos y del mural medidos con Pillow en la
+  miniatura (aproximados).
+- Cruzadas las partes entre sí: 11 correcciones (§28).
+- Leídas las otras biblias para los choques de canal y las láminas
+  vecinas (Coco, Spy×Family, Frieren, Sing, Lilo & Stitch, Big Hero 6).
+- `referencias.json`: 138 entradas de `partes/*.json` y `datos.json`,
+  sin duplicados ni imágenes de otras series.
+
+**Lo que NO se encontró** está en §28.
+
