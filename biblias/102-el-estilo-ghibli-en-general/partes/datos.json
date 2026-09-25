@@ -1,1 +1,532 @@
-[]
+[
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/8/8f/Studio_Ghibli_-_All_Characters.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 3556,
+  "alto": 2844,
+  "que_es": "Studio Ghibli: Studio Ghibli - All Characters.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/1/15/Hd-wallpaper.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 4664,
+  "alto": 2160,
+  "que_es": "Studio Ghibli: Hd-wallpaper.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/5/53/Totoro.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 3622,
+  "alto": 1936,
+  "que_es": "Studio Ghibli: Totoro.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/2/23/Spirited_Away_streets.JPG",
+  "fuente": "Fandom ghibli",
+  "ancho": 3250,
+  "alto": 1757,
+  "que_es": "Studio Ghibli: Spirited Away streets.JPG",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/3d/40-maliciasan.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 1726,
+  "alto": 1382,
+  "que_es": "Studio Ghibli: 40-maliciasan.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Bathhouse_workers_cheer.JPG",
+  "fuente": "Fandom ghibli",
+  "ancho": 2010,
+  "alto": 1086,
+  "que_es": "Studio Ghibli: Bathhouse workers cheer.JPG",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c3/Studio_Ghibli_Wallpaper.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Studio Ghibli: Studio Ghibli Wallpaper.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/30/Ghibli_wallpaper.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Studio Ghibli: Ghibli wallpaper.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/0/06/Totoro-allsleep.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 1600,
+  "alto": 1280,
+  "que_es": "Studio Ghibli: Totoro-allsleep.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/31/Miyazaki_and_otto.png",
+  "fuente": "Fandom ghibli",
+  "ancho": 700,
+  "alto": 440,
+  "que_es": "Hayao Miyazaki: Miyazaki and otto.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/d/da/Hayao_miyazaki_2024.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 381,
+  "alto": 508,
+  "que_es": "Hayao Miyazaki: Hayao miyazaki 2024.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/ef/Hayao_Miyazaki.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 250,
+  "alto": 375,
+  "que_es": "Hayao Miyazaki: Hayao Miyazaki.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/ce/Wikipedia_Logo.png",
+  "fuente": "Fandom ghibli",
+  "ancho": 103,
+  "alto": 94,
+  "que_es": "Hayao Miyazaki: Wikipedia Logo.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/2/2d/IMDb_Favicon.png",
+  "fuente": "Fandom ghibli",
+  "ancho": 16,
+  "alto": 15,
+  "que_es": "Hayao Miyazaki: IMDb Favicon.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/9/90/ANN.png",
+  "fuente": "Fandom ghibli",
+  "ancho": 15,
+  "alto": 15,
+  "que_es": "Hayao Miyazaki: ANN.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/f/ff/Totoro_Oga.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 2098,
+  "alto": 1336,
+  "que_es": "Kazuo Oga: Totoro Oga.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a5/Art-kazuo-oga-only-yesterday.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 2512,
+  "alto": 850,
+  "que_es": "Kazuo Oga: Art-kazuo-oga-only-yesterday.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e1/Mononoke_Forest_New.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 603,
+  "alto": 770,
+  "que_es": "Kazuo Oga: Mononoke Forest New.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/4/42/Ghibli_Oga.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 595,
+  "alto": 679,
+  "que_es": "Kazuo Oga: Ghibli Oga.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b5/Akita_Oga.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 1032,
+  "alto": 375,
+  "que_es": "Kazuo Oga: Akita Oga.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a1/Kazuo_Oga.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 400,
+  "alto": 500,
+  "que_es": "Kazuo Oga: Kazuo Oga.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b6/Isao_Takahata.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 367,
+  "alto": 489,
+  "que_es": "Isao Takahata: Isao Takahata.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/68/Takahata_hols_prince_of_the_sun.jpg",
+  "fuente": "Fandom ghibli",
+  "ancho": 440,
+  "alto": 358,
+  "que_es": "Isao Takahata: Takahata hols prince of the sun.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3342/a55a0f8e4f1519bd4ed9aaf0312f45b94a2fea2d.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 4000,
+  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2025/05/19/09/37/18/130574498_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4190/b946628973a7f53d7e9efd2d2f0057155c366b94.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/Noche_official_/status/1498250015101227008)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4155/b692b1f83a69926b85c6e670a485641474fc8f1c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3300,
+  "alto": 5100,
+  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://lilystrations.tumblr.com/post/712715047766540288)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4116/3f8c9046eceb1b91d7c3e569959589c9112c198e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1152,
+  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/cloudtrumpets/status/1598352685811597312)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4116/1521f986b1ae5dd858dd4cecc0b4cf5bed20c490.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1152,
+  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/cloudtrumpets/status/1598352685811597312)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4021/18f116c3f7d42f015056ee930f9e7c15ecfd75dc.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2022/04/30/11/19/13/97982236_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1670/08d15960503016067f9573551803e1f4de4f6a7d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1588,
+  "que_es": "Fan art de san_(mononoke_hime) (http://twitter.com/hammar_dobucof/status/1256366755401707520)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3925/bcff741463b7dffe52be33f92d81056606814284.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1300,
+  "que_es": "Fan art de san_(mononoke_hime) (https://twitter.com/Seraziel/status/1538328293295812608)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3562/5c98cd0ece482fabf8eb06dd495fdad727edbbfe.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2891,
+  "alto": 4096,
+  "que_es": "Fan art de san_(mononoke_hime) (https://twitter.com/yoshi55level/status/1113143189739732992)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3686/942d6fd9dd95a368015c7069a7668b5c82c43a5c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 2003,
+  "que_es": "Fan art de san_(mononoke_hime) (https://www.pillowfort.social/posts/1501544)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4618/8a156e94fe0ff7ec0acf7c20ae6e6414189777aa.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 1457,
+  "que_es": "Fan art de san_(mononoke_hime) (https://i.pximg.net/img-original/img/2017/02/20/04/52/58/61548214_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4189/6e6dc8684a56abee080e6ec1cec8cfb339d62764.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1797,
+  "alto": 1750,
+  "que_es": "Fan art de san_(mononoke_hime) (https://i.pximg.net/img-original/img/2020/07/23/01/40/34/83152684_p1.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3589/1a74360396bc32416fd34539d59f3fef6159d484.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 6000,
+  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://i.pximg.net/img-original/img/2013/01/04/23/35/30/32640741_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2694/52f09313b86929eb43c7775364fdfbe6fd6f9395.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1593,
+  "alto": 2138,
+  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://twitter.com/matata_tatabi/status/1112236379562369024)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1534/80e37eb078d14a6cf1c8d55dea5577ba740b8e51.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 822,
+  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (http://i2.pixiv.net/img-original/img/2015/07/29/15/49/33/51669489_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2547/5e415d76bbcdfc2bc740ebb86be97651ebd6724f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1160,
+  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=70644738)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3119/607b4bd94354ae8698dfa5b8fcba0c6a2b406bf0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1063,
+  "alto": 685,
+  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://twitter.com/denaseey/status/1267835240833118210)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1023,
+  "alto": 3043,
+  "que_es": "Fan art de ogino_chihiro (https://static.zerochan.net/Cross-Over.full.1643400.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/500/07fe53756529792fec42e09ce3218780c8df4656.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1074,
+  "alto": 1517,
+  "que_es": "Fan art de ogino_chihiro (http://img39.pixiv.net/img/tottorimegane/8597139.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/539/de555b3bedce6a431fad79e436f56edf2a772195.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1300,
+  "alto": 800,
+  "que_es": "Fan art de ogino_chihiro (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/543/36077cd7f173cfb8196bcb76d8871e7f089cbc6f.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1089,
+  "que_es": "Fan art de ogino_chihiro (http://img50.pixiv.net/img/kazoku3103/15814082.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/438/a83b588c8a5895b0d27eb7652c4f3d2e73feb19d.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 600,
+  "que_es": "Fan art de ogino_chihiro (http://img16.pixiv.net/img/hiyo_226/10064476.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4126/b3cc1f6fa0f5c96e8117be97b4d19435724b0b09.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3600,
+  "alto": 3600,
+  "que_es": "Fan art de ogino_chihiro (https://twitter.com/saghaley/status/1975710304282812650)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/645/6849a3114ed009749dfaad98dbaf8e3d02f27723.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 440,
+  "alto": 780,
+  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://paulrobertson.mechafetus.com/coolcats02.gif)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1414/0c4383c29be5784bf929cb3b3a6f641f96e312b5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 900,
+  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://kr0npr1nz.tumblr.com/post/117678512290/kiki-and-the-first-snow)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2930/7a7dbfdbd8e968cbc3d61b7afad64fb88deb18fd.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 920,
+  "alto": 672,
+  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2020/04/01/12/30/33/80490270_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/59/5649988be249ff454aeaf1f7e448f16843663cd6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1593,
+  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (https://x.com/doremifaso64/status/2051643073260892442)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/631/e13be9f51c304f47f890c342d54f6526.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 724,
+  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://img01.pixiv.net/img/massala/11924179.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/258/a83a2d58dc31266aa2b18a08e4d94b7a9f2449ae.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 1147,
+  "que_es": "Fan art de nausicaa (Image board)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/426/b4eb88644808a0d4b3fab3624c1c53f40f31a5fb.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 600,
+  "alto": 500,
+  "que_es": "Fan art de nausicaa (http://www005.upp.so-net.ne.jp/doraneko-21/gallery/ghiblies/ghiblies.html)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ }
+]

@@ -4,13 +4,74 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/164_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164-ySuGzCWVw2cL.jpg
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/164-Aj6MINy7VTfs.jpg
+
+## San: las imágenes más grandes de la wiki (51 en total)
+_Fuente: https://ghibli.fandom.com/wiki/San_
+
+- 1920×1084 · San and Moro.png · https://static.wikia.nocookie.net/studio-ghibli/images/e/ed/San_and_Moro.png
+- 1920×1038 · San hi koality.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/6/6f/San_hi_koality.jpg
+- 1920×1038 · San HD.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/0/06/San_HD.jpg
+- 1920×1038 · Princess Mononoke Screenshot 3472.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/3/37/Princess_Mononoke_Screenshot_3472.jpg
+- 1920×1038 · Princess Mononoke Screenshot 3089.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/e/e4/Princess_Mononoke_Screenshot_3089.jpg
+- 1920×1038 · Princess Mononoke Screenshot 3018.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/4/49/Princess_Mononoke_Screenshot_3018.jpg
+- 1920×1038 · Princess Mononoke Screenshot 1711.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/3/3c/Princess_Mononoke_Screenshot_1711.jpg
+- 1920×1038 · Princess Mononoke Screenshot 1705.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/e/eb/Princess_Mononoke_Screenshot_1705.jpg
+- 1920×1038 · Pretty hi koality.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/a/ac/Pretty_hi_koality.jpg
+- 1920×1038 · Mononoke049.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/5/5e/Mononoke049.jpg
+
+## Ashitaka: las imágenes más grandes de la wiki (25 en total)
+_Fuente: https://ghibli.fandom.com/wiki/Ashitaka_
+
+- 1920×1038 · Yakul and ashitaka.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/e/e8/Yakul_and_ashitaka.jpg
+- 1920×1038 · Ashitaka 2.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/83/Ashitaka_2.jpg
+- 1920×1038 · Ashitaka 1.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/6/64/Ashitaka_1.jpg
+- 1504×846 · Mononoke-disneyscreencaps.com-15113.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/3/32/Mononoke-disneyscreencaps.com-15113.jpg
+- 1504×846 · Ashitaka looks.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/8e/Ashitaka_looks.jpg
+- 1366×738 · Cursed Arm.png · https://static.wikia.nocookie.net/studio-ghibli/images/c/c9/Cursed_Arm.png
+- 1364×739 · Paying for Rice.png · https://static.wikia.nocookie.net/studio-ghibli/images/8/8c/Paying_for_Rice.png
+- 700×951 · Mononoke with San and Ashitaka - figurine.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/d/d7/Mononoke_with_San_and_Ashitaka_-_figurine.jpg
+- 1100×601 · San and Ashitaka Promo.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/3/39/San_and_Ashitaka_Promo.jpg
+- 853×480 · Ashitaka and Moro.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/a/a4/Ashitaka_and_Moro.jpg
+
+## Ashitaka · Appearance (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Ashitaka#Appearance_
+
+At the beginning of the movie, Ashitaka is depicted as a slender handsome young man of average height who has long hair that is tied into a bun, but he cuts it off after he is told to leave the village. His hair then has a layered cut with wild bangs cut over his eyebrows. His hair is short and dark brown his skin is fair and he has greyish-brown/brownish-grey eyes. His clothing consists of a blue tunic and peach-white pants, as well as brown bottom warmers and shoes made out of fabric. He also wears blue arm sleeves and a red-orange hood to cover his face. He wears a cloak made out of hay for a small portion of the movie. He wears his fiancée's crystal dagger (In the English dub, everyone calls each other brother and sister, even if they are not related) before he gives it to San. After San's attack on Irontown, Ashitaka has a slash scar on his left cheek where San slashed him with her…
+
+## Moro: las imágenes más grandes de la wiki (10 en total)
+_Fuente: https://ghibli.fandom.com/wiki/Moro_
+
+- 1920×1084 · San and Moro.png · https://static.wikia.nocookie.net/studio-ghibli/images/e/ed/San_and_Moro.png
+- 1920×1038 · Moro.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/87/Moro.jpg
+- 1920×1038 · Moro laughing.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/b/b2/Moro_laughing.jpg
+- 1920×1038 · Mononoke wolf.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/f/fe/Mononoke_wolf.jpg
+- 603×605 · Moro.png · https://static.wikia.nocookie.net/studio-ghibli/images/5/5e/Moro.png
+- 800×433 · Moro and her pups.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/c/c8/Moro_and_her_pups.jpg
+- 640×414 · Moro shots.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/2/2c/Moro_shots.jpg
+- 640×353 · Wolves and spirit deaths.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/4/4b/Wolves_and_spirit_deaths.jpg
+- 640×350 · Moro angry.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/7/77/Moro_angry.jpg
+- 600×308 · Moro and Ashitaka.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/b/bf/Moro_and_Ashitaka.jpg
+
+## Moro · Appearance (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Moro#Appearance_
+
+Moro has long white fur, olive eyes with red whites (possibly because of being bloodshot), large teeth and a purple-brown nose. She is relatively big as when she is sitting down, San is as tall as her head. She also has two tails which none of the other wolves have, this was to help her stand out.
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de ghibli.fandom.com (3 páginas y sus galerías)…
+  84 imágenes enlazadas, 51 grandes → 2 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/la-princesa-mononoke
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

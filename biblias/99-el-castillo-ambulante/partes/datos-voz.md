@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/431_
@@ -84,6 +84,21 @@ _Fuente: https://doblaje.fandom.com/es/wiki/El_castillo_maldito_
 |  | Camarero #2 |  | Juan José Hurtado |  |  |  |
 |  | Capitán de barco |  | Esteban Siller |  |  |  |
 |  | Acensorista |  | Eladio González Garza |  |  |  |
+
+## Howl Jenkins Pendragon · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Howl_Jenkins_Pendragon#Personality_
+
+At the beginning of the movie, Howl is known as rather flamboyant and rumored to have a wicked personality. A rumor that has begun to spread among the residents of Market Chipping even say that he is searching young women whose hearts he may steal and subsequently eat, or that he will devour their souls. He appears rather vain, as well as confident, and does not really seem to care about a lot of others besides himself. Unlike these rumors, he is kind enough to let Sophie clean the castle. As time goes on, his actual personality comes to light, which is that of an endearing, charming and intelligent young man, who, unfortunately, has a tendency to be stubborn and dishonest, as well as to become secretive when it comes to his own life. He commonly avoids getting involved in uncomfortable situations or those which require his committed participation. His vanity is also a very distinct…
+
+## Sophie Hatter · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Sophie_Hatter#Personality_
+
+Sophie is a reserved, plain-looking young woman. She is far too mature and serious for her age, much to the chagrin of her sister Lettie and stepmother Honey. Tired of wizard Howl's indolence, she initiates cleaning his castle. She develops feelings for the poor, cowardly wizard. She also serves as a maternal figure to Markl and a friend to Calcifer and Turnip Head. Despite her misgivings, she ends up tolerating the Witch of the Waste after she is turned feeble by the royal sorceress Madame Suliman.
+
+## Calcifer · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Calcifer#Personality_
+
+Calcifer is bound to the confines of Howl's Castle after he struck a deal with Howl years prior. He later strikes another magical bargain with Sophie, hoping she can break his curse. Calcifer cares about Howl, Sophie, and their makeshift family despite his grandiose threats and prickly demeanor. He worries about Howl's penchant for war and that it will inevitably change him.
 
 ## Los personajes más dibujados por los fans (Danbooru, 924 dibujos de «howl_no_ugoku_shiro»)
 _Fuente: https://danbooru.donmai.us/posts?tags=howl_no_ugoku_shiro_
