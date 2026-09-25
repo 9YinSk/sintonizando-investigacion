@@ -214,5 +214,23 @@
     "que_es": "Álbum debut homónimo 結束バンド (2022-12-25), con todos los endings e inserts de la temporada 1",
     "para_que": "Dato de música confirmado para el punto 9, contexto del disco completo",
     "licencia": "base de datos abierta (MusicBrainz, CC0 en los metadatos); no es una imagen"
+  },
+  {
+    "url": "https://web.archive.org/web/20240412231907id_/https://v.animethemes.moe/BocchiTheRock-ED1.webm&t=44",
+    "fuente": "AnimeThemes (vía copia archivada en Wayback Machine, api.animethemes.moe caído)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Ending 1 «Distortion!!» completo: las cuatro integrantes en un panel de color cada una (rosa/amarillo/rojo/azul), estilo de recorte de papel",
+    "para_que": "Referencia de paleta pastel del ending (medida con estilo.py) y del estilo 'papercraft' distinto al de los episodios",
+    "licencia": "ending oficial de Aniplex/CloverWorks/AnimeThemes; enlazar o citar el fotograma, no redistribuir el archivo completo"
+  },
+  {
+    "url": "https://web.archive.org/web/20240412231907id_/https://v.animethemes.moe/BocchiTheRock-ED1.webm&t=46",
+    "fuente": "AnimeThemes (vía copia archivada en Wayback Machine)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Carta con el título «Distortion!!» y el logo de Kessoku Band sobre un vinilo girando",
+    "para_que": "Referencia de tipografía/logo del sencillo para el punto 5 (texto) y de cómo cierra el ending",
+    "licencia": "ending oficial de Aniplex/CloverWorks/AnimeThemes; enlazar o citar el fotograma, no redistribuir el archivo completo"
   }
 ]
