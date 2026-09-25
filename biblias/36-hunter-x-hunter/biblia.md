@@ -128,9 +128,10 @@ logo de VIZ). Visto por el redactor en las dos hojas de contacto.
 |---|---|---|
 | [0:02](https://www.dailymotion.com/video/x8hzbhf?t=2) | niebla sobre el bosque, dos ojos rojos (el Amo del Pantano) | apertura misteriosa |
 | [0:05](https://www.dailymotion.com/video/x8hzbhf?t=5) | Gon pescando sentado en una rama sobre el agua, con un sombrero de hojas, ardillas y conejos al lado | Isla Ballena, luz de mañana |
-| [0:10](https://www.dailymotion.com/video/x8hzbhf?t=10) | Gon con la caña al hombro ante una puerta; detrás, **Mito** (su tía) | Gon con su objeto |
+| [0:10](https://www.dailymotion.com/video/x8hzbhf?t=10) | las manos de Gon tensan la caña (manga verde con hojas) (corregido, §28) | Gon con su objeto |
 | [0:12](https://www.dailymotion.com/video/x8hzbhf?t=12) | el pez gigante azul ante todo el pueblo | celebrar |
-| [0:21](https://www.dailymotion.com/video/x8hzbhf?t=21) | **promesa con el meñique** entre Gon (manga verde) y Mito (manga roja) | despedida |
+| [0:20](https://www.dailymotion.com/video/x8hzbhf?t=20) | Gon, con mochila y caña, mira a **Mito** (su tía, vestido rojo) bajo el cielo azul | despedida |
+| [0:22](https://www.dailymotion.com/video/x8hzbhf?t=22) | **promesa con el meñique** entre Gon (manga verde) y Mito (manga roja) | despedida |
 | [0:25](https://www.dailymotion.com/video/x8hzbhf?t=25) | rótulo «A GREAT ADVENTURE BEGINS» sobre un mapa viejo | rótulo de la serie (§7) |
 | [0:38](https://www.dailymotion.com/video/x8hzbhf?t=38) | el capitán del barco, barba blanca y pipa | secundario |
 | [0:44](https://www.dailymotion.com/video/x8hzbhf?t=44) | Satotz (examinador) en el túnel; aspirantes corriendo detrás | la primera fase del examen |
@@ -138,7 +139,7 @@ logo de VIZ). Visto por el redactor en las dos hojas de contacto.
 | [0:57](https://www.dailymotion.com/video/x8hzbhf?t=57) | rótulo «WHO WILL PASS?» | rótulo |
 | [1:04](https://www.dailymotion.com/video/x8hzbhf?t=64) | **ojo escarlata de Kurapika** en primerísimo plano | su imagen más icónica |
 | [1:08](https://www.dailymotion.com/video/x8hzbhf?t=68) | rótulo «WHO WILL FAIL?» | rótulo |
-| [1:18](https://www.dailymotion.com/video/x8hzbhf?t=78) | Leorio sin camisa, sudando, mirada seria | Leorio serio |
+| [1:19](https://www.dailymotion.com/video/x8hzbhf?t=79) | Leorio sin camisa, sudando, mirada seria (en 1:18 aún es Hisoka, §28) | Leorio serio |
 | [1:27](https://www.dailymotion.com/video/x8hzbhf?t=87) | Kurapika, Gon y Leorio de espaldas hacia una puerta de luz blanca | cierre, «el viaje» |
 | [1:29](https://www.dailymotion.com/video/x8hzbhf?t=89) | logo HUNTER×HUNTER sobre el mapa | logo (§6) |
 
@@ -447,8 +448,9 @@ Carácter de las fichas de la wiki y de AniList (https://anilist.co/character/30
 - **Objeto**: la **caña de pescar**, siempre (objetos #7). Ropa verde.
 - **Su cara**:
   - alegría: sonrisa grande en el [ED1 1:06](https://archive.org/download/HUNTER-x-HUNTER-2011-ed-1-6-creditless/Hunter%20x%20Hunter%20%282011%29%20NCED%201%20%28BD%201280x720%20x264%20Hi444pp%20FLAC%29.mp4?t=66) (visto); promesa con el meñique en el [tráiler 0:21](https://www.dailymotion.com/video/x8hzbhf?t=21) ✅
-  - rabia/esfuerzo: boca muy abierta, cuerpo lanzado, [tráiler 0:55](https://www.dailymotion.com/video/x8hzbhf?t=55) ✅
-  - sorpresa: ojos redondos ante Mito, [tráiler 0:10](https://www.dailymotion.com/video/x8hzbhf?t=10) ✅
+  - sonrisa de perfil, hablando, en el túnel del examen: [tráiler 0:55](https://www.dailymotion.com/video/x8hzbhf?t=55) ✅ (corregido, §28: no es rabia)
+  - rabia: ⚠️ sin fotograma en el tráiler; la furia está en la ira del ep. 131 (§2.2)
+  - sorpresa: ojos redondos ante Mito, [tráiler 0:20](https://www.dailymotion.com/video/x8hzbhf?t=20) ✅ (corregido, §28: en 0:10 sólo se ven sus manos en la caña)
   - tristeza/vacío: de lado, sin expresión, luz de fuego, [clip ep. 131, 0:42](https://www.dailymotion.com/video/x4jib2p?t=42) ✅
   - miedo y vergüenza: ⚠️ sin fotograma.
 
@@ -496,7 +498,7 @@ Carácter de las fichas de la wiki y de AniList (https://anilist.co/character/30
 - **Cómo habla**: grita mucho y exagera con las manos; sus discursos serios
   son los más largos del grupo ✅. Se ofende si no lo toman en serio.
 - **Objeto**: el **maletín**; traje azul, gafas pequeñas.
-- **Su cara**: furia, [tráiler 0:46](https://www.dailymotion.com/video/x8hzbhf?t=46) y [1:16](https://www.dailymotion.com/video/x8hzbhf?t=76) ✅ · seriedad, [1:18](https://www.dailymotion.com/video/x8hzbhf?t=78) ✅ · alegría, tristeza, miedo, vergüenza ⚠️.
+- **Su cara**: furia, [tráiler 0:46](https://www.dailymotion.com/video/x8hzbhf?t=46) y [1:16](https://www.dailymotion.com/video/x8hzbhf?t=76) ✅ · seriedad, [1:19](https://www.dailymotion.com/video/x8hzbhf?t=79) ✅ · alegría, tristeza, miedo, vergüenza ⚠️.
 
 ### Hisoka Morow — el villano que todos quieren
 - **Quién es**: mago-bufón, 187 cm, **cartas de póker** como arma. Sólo le
@@ -757,7 +759,7 @@ donde la parte de vídeo se equivocó (§28).
 | 3 | ED1 0:06 | de traje, mano en el bolsillo (blanco y negro) | grupo |
 | 4 | ED1 1:15 | mano en la nuca, de pie | celebrar a su manera |
 | 5 | [tráiler 0:46](https://www.dailymotion.com/video/x8hzbhf?t=46) | dientes apretados, de perfil | regañar |
-| 6 | [tráiler 1:18](https://www.dailymotion.com/video/x8hzbhf?t=78) | sin camisa, serio, sudando | esfuerzo |
+| 6 | [tráiler 1:19](https://www.dailymotion.com/video/x8hzbhf?t=79) | sin camisa, serio, sudando | esfuerzo |
 
 **Hisoka** (7)
 | # | Dónde | Qué hace | Sirve para |
@@ -1290,4 +1292,176 @@ Siete arcos oficiales ✅ (https://hunterxhunter.fandom.com/wiki/Story_Arcs).
 **Vocabulario**: Nen, aura, Ten, Zetsu, Ren, Hatsu, **Restricción y Voto**
 (una técnica es más fuerte cuanto más grande el sacrificio), Cazador,
 Examen Hunter, Jenny, Zodiacos, la Araña, Continente Oscuro, Jajanken ✅.
+
+## 27 · Tres conceptos de lámina
+
+Letras comprobadas por el redactor con `fontTools` (archivos de Fontsource,
+https://api.fontsource.org/v1/fonts/cinzel): **Cinzel**, **Barlow Condensed**,
+**Lato** y **Comic Neue** traen tildes, ñ, ¿, ¡ y «×» ✅. Cinzel es la serifa
+en mayúsculas más cercana al rótulo del tráiler ⚠️ (parecido a ojo).
+
+### A · #castings — «¿Quién pasa?»: las placas del Examen (la mejor)
+
+- **Objeto real en un sitio real**: una **bandeja de madera llena de placas
+  numeradas** (discos blancos con número negro, objetos #8) a la entrada del
+  **túnel de la primera fase**: ladrillo verdoso y lámparas rojas pequeñas en
+  la pared ([tráiler 0:44-0:48](https://www.dailymotion.com/video/x8hzbhf?t=44), visto).
+  Las placas y la bandeja se hacen en **Blender** (cilindros chatos con
+  alfiler; madera de §5). Encima de la placa «Cerrado», una **Licencia de
+  Cazador**: el papel ya está cubierto.
+- **Personaje**: **Killua**, el favorito de las tres encuestas de Jump (§9),
+  con su placa **99** en el pecho. Pose: **índice levantado, explicando**
+  ([clip Uvogin 0:14](https://www.dailymotion.com/video/x816c25?t=14)) y la
+  sonrisa ladina del [ED1 0:18](https://archive.org/download/HUNTER-x-HUNTER-2011-ed-1-6-creditless/Hunter%20x%20Hunter%20%282011%29%20NCED%201%20%28BD%201280x720%20x264%20Hi444pp%20FLAC%29.mp4?t=18).
+  Proporciones: personajes #18. Detrás, **Gon (405)** sonriendo de perfil,
+  como en el [tráiler 0:55](https://www.dailymotion.com/video/x8hzbhf?t=55).
+- **Cómo habla**: con la **tarjeta de rótulo del tráiler** (§7, n.º 1): mapa viejo
+  marrón, texto blanco con serifa, línea pequeña arriba y grande abajo, signos
+  del alfabeto Hunter en una esquina. Letra **Cinzel**. Sus frases, cortas y
+  secas (§18.6).
+- **Dónde va cada texto** (inventario de #castings):
+  - Rótulo grande, arriba: pequeño «UN CASTING COMO NINGÚN OTRO», grande
+    «¿QUIÉN PASA?» (eco de «A TEST UNLIKE ANY OTHER» y «WHO WILL PASS?»).
+  - Rótulo de Killua, junto a su mano: «Cada casting es un hilo.» y, aparte,
+    «¿El papel ya tiene voz? Ciérralo.»
+  - En la bandeja, a la vista, tres placas: **Abierto**, **Urgente**,
+    **Cerrado** (con la licencia encima).
+  - Abajo, rótulo pequeño: «Antes de abrir uno, lee el fijado.»
+  - **Lámina 2** (las 15 etiquetas no caben): 15 placas en la bandeja,
+    agrupadas por **tipo** (Anime, Videojuego, Serie, Película, Corto,
+    Comercial, Audiolibro, Canto), **pago** (Pagado, Sin paga), **estado**
+    (Abierto, Cerrado, Urgente) y **otras** (Oficial del servidor, +18).
+- **Que no quede plano**: la bandeja **delante** de Killua, con el borde
+  desenfocado; al fondo, los aspirantes corriendo tras Satotz (tráiler 0:45)
+  en desenfoque; la luz roja de las lámparas en el metal de las placas;
+  sombra dura de dos tonos.
+- **Choque**: #castings también lo pide Oshi no Ko (05). Decide el dueño.
+
+### B · #postulaciones — «Solicitud a la Asociación»: la Licencia en el dirigible
+
+- **Objeto real en un sitio real**: la **Licencia de Cazador** (tarjeta con
+  doble marco; panel negro con el rombo rojo `#B4181E`; panel claro en
+  alfabeto Hunter, objetos #1) sobre la mesa del **dirigible del Examen**
+  (fondos #13). La tarjeta se hace en Blender; el dirigible tiene modelo
+  **CC BY** en Sketchfab
+  (https://sketchfab.com/3d-models/none-1334ed31b8ef4542bc4843c79dab12aa ,
+  con crédito) ⚠️.
+- **Personaje**: **Kurapika**, segundo en Jump y primero en Animate Times
+  (§9). Hoy es uno de los **Zodiacos**, el «staff» de la Asociación (§26):
+  encaja con «solicitudes de staff». Traje azul o negro de la Elección
+  (wiki). Pose: **recto y formal**
+  ([clip Uvogin 0:45](https://www.dailymotion.com/video/x816c25?t=45)) con la
+  cara de decisión de tres cuartos
+  ([tráiler 0:53](https://www.dailymotion.com/video/x8hzbhf?t=53)).
+  Referencias: personajes #20 y #22.
+- **Cómo habla**: dos piezas de la serie. Arriba, una **franja de narrador**
+  (la serie cuenta lo de dentro con voz en off, §7). Al lado de Kurapika, un
+  **panel claro con doble marco**, igual que el de la licencia. Cabecera en
+  **Archivo Black**; frases en **Lato**. **Nunca** texto en español dentro
+  de la licencia (§14).
+- **Dónde va cada texto** (inventario: «Solicitudes de staff y de proyectos»):
+  - Franja del narrador: «Solicitudes de staff y de proyectos.»
+  - Kurapika, en su panel: «¿Quieres ser staff? Preséntate aquí.» y, aparte,
+    «¿Tienes un proyecto? También aquí.»
+  - La licencia, sin texto en español: sólo el rombo y el alfabeto Hunter.
+  - ⚠️ El canal está en PRIVADOS: confirmar quién lo ve antes de hacerla.
+- **Que no quede plano**: luz de **atardecer** por la ventana del dirigible
+  contra el azul del traje; la licencia **delante**, con un brillo de
+  plástico y el borde desenfocado; nubes fuera.
+
+### C · 🎲 Juegos — «Greed Island»: el libro y las cartas
+
+- **Objeto real en un sitio real**: el **libro de Greed Island** abierto,
+  con sus **casillas numeradas** (objetos #3-#4), y **cartas de hechizo**
+  alrededor (objetos #21), en el **puerto de Greed Island** (fondos #4,
+  3506×1967). Libro y cartas, en Blender. ⚠️ No hay imagen de la consola
+  JoyStation en las partes.
+- **Personajes**: **Gon y Killua juntos**, la pareja que más ve el fandom
+  (§12). En Greed Island, Gon va **sin chaqueta** y con el **Collar del
+  Paladín** ✅ (wiki). Killua, sentado abrazando las rodillas con su sonrisa
+  ladina (ED1 0:18); Gon, de pie, mirando las cartas. Referencias:
+  personajes #17 y #18.
+- **Cómo habla**: **cada frase es una carta de Greed Island** (§7, n.º 2): marco
+  rojo, «Lv.» y rango arriba, dibujo en medio, caja de texto abajo. Nivel,
+  rango y nombre en **Barlow Condensed**; la frase, en **Lato**.
+- **Dónde va cada texto**: ⚠️ **el inventario no trae texto** para esta sala
+  de voz. Propuesta, para que el dueño decida:
+  - Carta de Killua («Lv. 1 · rango A»): «Sala de voz para jugar juntos.»
+  - Carta de Gon: «Entra, di a qué juegas y únete.»
+  - El libro abierto: casillas con los juegos del momento (se cambian a mano).
+- **Que no quede plano**: una carta **muy cerca de la cámara**, desenfocada;
+  sol del puerto y sombra dura de dos tonos; las otras cartas en abanico.
+- **Choque**: 🎲 Juegos lo piden Ralph (29) y One Punch Man (35).
+
+## 28 · Lo que no pude verificar
+
+### 28.1 Datos de las partes que estaban mal
+La cabecera anuncia tres correcciones. El redactor anterior se cortó antes de
+escribir esta sección y **no dejó dicho cuáles eran**. En el texto de §2,
+§6.2, §8 y §15 marcó estas. **Las volví a comprobar** con mis propias hojas
+de contacto (hoy, `fotogramas.py`: tráiler entero cada 3 s y cada 1 s en los
+tramos dudosos; OP1 de 0:26 a 0:34 cada 1 s) ✅:
+
+1. **Tráiler 1:04**: la parte de vídeo dice «ojo de Hisoka, guiñando». Es el
+   **ojo escarlata de Kurapika** (pelo rubio, iris rojo)
+   ([1:04](https://www.dailymotion.com/video/x8hzbhf?t=64)). La parte de voz
+   acertaba.
+2. **Tráiler 0:21**: la parte de voz dice «choque de puños con Leorio (manga
+   roja)». Es **Mito**, la tía de Gon (vestido rojo, pelo naranja): en 0:20
+   hablan y en 0:22 hacen la **promesa con el meñique**. Leorio no sale hasta
+   el 0:33. Tampoco hay «Gon conoce a Leorio» en 0:10: ahí sólo se ven las
+   manos de Gon en la caña.
+3. **OP1 0:28-0:30**: la parte de vídeo dice «fondo de cartas de Hisoka».
+   Son **franjas rosa y morado con signos del alfabeto Hunter**. Y en 0:29 el
+   ojo de Kurapika **pasa a rojo** un instante (dato nuevo).
+
+**Más errores que salieron al mirar** (corregidos en su sitio o en `referencias.json`):
+
+4. **Tráiler 0:55**: la parte de voz dice «Gon grita de rabia, boca en
+   diagonal». Gon **sonríe y habla de perfil** en el túnel, justo después de
+   Killua (0:54). Corregido en §8.
+5. **Tráiler 1:21**: la parte de vídeo dice «Killua cae tras una descarga» y
+   la de voz «Gon sopla un globo». Es **Gon acercando una vela a una
+   antorcha** en un muro de piedra. Killua patea a Netero en 1:20 y sale con
+   luz eléctrica azul en 1:24.
+6. **Tráiler 1:09-1:15**: la parte de vídeo dice «Leorio en una sauna, con
+   una aguja». Ahí están el rótulo «WHO WILL FAIL?» (1:09), gente en un
+   acantilado (1:12) y un luchador azul gritando (1:15). **Leorio sin
+   camisa** sale en 0:51-0:52 y en **1:19** (en 1:18 aún es Hisoka).
+   Corregido en §2.1, §8 y §15.
+7. **Clip Kastro 0:00**: el puño con «Begin!» es **del árbitro**, no de
+   Hisoka (lo vio el redactor anterior; yo no lo volví a mirar).
+8. «Finalmente hablaste como tú, Killua»: ⚠️ quién lo dice, sin confirmar (§10.3).
+9. Matiz: en el tráiler 0:54 veo a Killua **atento, de perfil**, más que con
+   miedo (§8 lo pone como miedo) ⚠️. Y en 1:27 no vi a los tres de espaldas
+   ante la luz: en 1:25-1:27 Gon anda solo de noche y en 1:28 hay un
+   destello; puede ser un plano de menos de un segundo ⚠️.
+
+### 28.2 Lo que queda sin comprobar
+- **Una página de manga** (globo, grito, nube de pensamiento, onomatopeya):
+  Manga Plus y Viz son sólo JavaScript; TV Tropes y Wayback, bloqueados.
+- **Frases textuales del doblaje 2011** (Netflix): no hay clip doblado
+  abierto. Todo lo latino textual es de Cazador X (1999).
+- **Minuto exacto** de las escenas de los ep. 37, 130 y 135.
+- **Caras** de tristeza y vergüenza de casi todos; miedo de Gon; alegría de
+  Kurapika, Leorio y Hisoka.
+- **Música** de las escenas tristes; el compositor 2011 con una sola fuente.
+- **Fondos oficiales** (hunterxhunter.co.jp no respondió); modelos 3D de
+  sitios (sólo el dirigible).
+- **% de trama** del manga; metal para las cadenas; letra libre del alfabeto
+  Hunter (hay que dibujarla con objetos #32).
+- **Interfaz de *Nen × Impact*** (sin Steam aquí): sólo reseñas.
+- **Fuentes primarias de Togashi** sobre sus herramientas (el documental
+  «Jump Ryuu!» no se pudo ver) y la influencia de Giger.
+- **Comunidad hispana**: vistas de los fandubs, memes propios, una encuesta.
+- **Foros**: no se citó ningún hilo de Reddit (las búsquedas web no dieron
+  nada citable; Arctic Shift no se usó). The Cutting Room Floor no tiene
+  página de HxH. No se buscó en coreano ni en chino.
+- **Continente Oscuro** y el detalle de la venta de los Ojos Escarlata: una
+  sola fuente.
+
+### 28.3 Para el dueño (oír o ver)
+- Una frase del **doblaje latino 2011** con episodio y minuto: Gon (Susana
+  Moreno) o Hisoka (Gerardo Reyero, con su acento francés).
+- ¿**#castings** (choca con Oshi no Ko) o **#postulaciones**?
 
