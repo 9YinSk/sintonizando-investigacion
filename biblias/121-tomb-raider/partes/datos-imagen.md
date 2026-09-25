@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: no encontré la página de «Sam Nishimura»
 
 ## Lara Croft: las imágenes más grandes de la wiki (24 en total)
 _Fuente: https://tombraider.fandom.com/wiki/Lara_Croft_
@@ -20,11 +20,19 @@ _Fuente: https://tombraider.fandom.com/wiki/Lara_Croft_
 - 1920×1080 · TRU Lara Infront of Mansion.jpg · https://static.wikia.nocookie.net/laracroft/images/e/e3/TRU_Lara_Infront_of_Mansion.jpg
 - 1920×1080 · Gol1.jpg · https://static.wikia.nocookie.net/laracroft/images/8/8b/Gol1.jpg
 
+## Jonah Maiava: las imágenes más grandes de la wiki (0 en total)
+_Fuente: https://tombraider.fandom.com/wiki/Jonah_Maiava_
+
+
+## Conrad Roth: las imágenes más grandes de la wiki (0 en total)
+_Fuente: https://tombraider.fandom.com/wiki/Conrad_Roth_
+
+
 ## Hojas de contacto (investigar_serie.py)
 _Fuente: herramientas/referencias/_
 
 ```
-· imágenes de tombraider.fandom.com (1 páginas y sus galerías)…
+· imágenes de tombraider.fandom.com (3 páginas y sus galerías)…
   24 imágenes enlazadas, 20 grandes → 1 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/tomb-raider
 
 ```

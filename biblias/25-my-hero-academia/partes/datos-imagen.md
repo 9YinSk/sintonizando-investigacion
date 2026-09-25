@@ -1,10 +1,10 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · My Hero Academia
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: Command '['/usr/local/bin/python3', '/home/user/sintonizando-investigacion/herramientas/investigar_serie.py', '--serie', 'My Hero Academia', '--wiki', 'myheroac · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/21459_
@@ -15,7 +15,7 @@ _Fuente: https://anilist.co/anime/21459_
 ## Izuku Midoriya: las imágenes más grandes de la wiki (57 en total)
 _Fuente: https://myheroacademia.fandom.com/wiki/Izuku_Midoriya_
 
-- 1910×2472 · Deku 2.0.png · https://static.wikia.nocookie.net/bokunoheroacademia/images/2/2e/Deku_2.0.png
+- 1920×2479 · Deku 2.0.png · https://static.wikia.nocookie.net/bokunoheroacademia/images/2/2e/Deku_2.0.png
 - 1920×1957 · Izuku thinks of his classmates.png · https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0e/Izuku_thinks_of_his_classmates.png
 - 1920×1808 · Shota gives Izuku the refugee's shirt.png · https://static.wikia.nocookie.net/bokunoheroacademia/images/3/34/Shota_gives_Izuku_the_refugee%27s_shirt.png
 - 1920×1488 · Izuku meets the former One For All heirs.png · https://static.wikia.nocookie.net/bokunoheroacademia/images/9/9c/Izuku_meets_the_former_One_For_All_heirs.png
@@ -107,6 +107,15 @@ _Fuente: https://myheroacademia.fandom.com/wiki/Shota_Aizawa_
 _Fuente: https://myheroacademia.fandom.com/wiki/Shota_Aizawa#Appearance_
 
 Shota is a slender and tall, pale-skinned man with messy, shoulder-length black hair that partially hangs in front of his face and half-opened black eyes. He is usually recognized for his worn-out appearance, often looking fatigued. His facial hair is almost always in a stubbly, unkempt state (shaved for the press), and his eyes tired, bloodshot, and flat unless he's in combat. During his second and third years of high school at U.A., Shota's hero costume was a separate black jacket with shorter sleeves, pants, and shoes. He also sported a pair of black fingerless gloves and a wrap scarf. In his second year, Shota added beige goggles with sliver lenses to his costume, and later in his third year, they resemble more closely the ones he wears today. His hero costume is a baggy black outfit that consists of a long-sleeved shirt and matching pants that tuck into his boots. He also wears a…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de myheroacademia.fandom.com (6 páginas y sus galerías)…
+  4949 imágenes enlazadas, 4397 grandes → 92 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/my-hero-academia
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

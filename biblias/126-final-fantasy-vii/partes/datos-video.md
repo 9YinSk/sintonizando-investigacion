@@ -24,11 +24,11 @@ _Fuente: https://api.dailymotion.com_
 - Final Fantasy VII · 7:12 · Level Up · 954 vistas · https://www.dailymotion.com/video/x8x1cxw
 - final fantasy VII · 3:27 · tsuna · 899 vistas · https://www.dailymotion.com/video/x2too1
 **«Final Fantasy VII trailer»**
-- Final Fantasy VII Rebirth Trailer · 1:14 · MGG France · 3293136 vistas · https://www.dailymotion.com/video/x8gpv1b
+- Final Fantasy VII Rebirth Trailer · 1:14 · MGG France · 3293425 vistas · https://www.dailymotion.com/video/x8gpv1b
 - Final Fantasy VII : Trailer cinématiques · 1:58 · JeuxVideo.com · 49598 vistas · https://www.dailymotion.com/video/x89cm5z
 - Tráiler final de Final Fantasy VII: Rebirth · 4:08 · 3djuegos · 43325 vistas · https://www.dailymotion.com/video/x8sb9z6
 - FINAL FANTASY VII REBIRTH Trailer · 3:27 · JeuxVideo.com · 34354 vistas · https://www.dailymotion.com/video/x8lmfpp
-- Final Fantasy VII Remake Intergrade - Trailer Final · 3:39 · JeuxVideo.com · 16705 vistas · https://www.dailymotion.com/video/x89ntye
+- Final Fantasy VII Remake Intergrade - Trailer Final · 3:39 · JeuxVideo.com · 16706 vistas · https://www.dailymotion.com/video/x89ntye
 - FINAL FANTASY VII - Trailer · 1:02 · Vidaextra · 10285 vistas · https://www.dailymotion.com/video/x7zzg04
 **«Final Fantasy VII escena»**
 - Final Fantasy VII · 1:45 · JeuxVideo.com · 16012 vistas · https://www.dailymotion.com/video/x89l8en
@@ -55,7 +55,7 @@ _Fuente: https://archive.org_
 - Final Fantasy VII recomendacion lode · audio · 13941 descargas · https://archive.org/details/FinalFantasyViiRecomendacionLode
 - FINAL FANTASY VII REBIRTH Original Soundtrack ~ Special Edit Version~ · audio · 12484 descargas · https://archive.org/details/final-fantasy-vii-rebirth-original-soundtrack-special-edit-version_202404
 - FINAL FANTASY VII ADVENT CHILDREN · movies · 9251 descargas · https://archive.org/details/FINALFANTASYVIIADVENTCHILDREN
-- Dirge of Cerberus: Final Fantasy VII Original Soundtrack · audio · 6969 descargas · https://archive.org/details/2-13-fight-tune-the-immaculate
+- Dirge of Cerberus: Final Fantasy VII Original Soundtrack · audio · 6976 descargas · https://archive.org/details/2-13-fight-tune-the-immaculate
 - [CL] 13x19 - El Complejo Lambda - 'Final Fantasy VII: Remake' · audio · 6551 descargas · https://archive.org/details/cl-13x-19-el-complejo-lambda_202005
 - "Final Fantasy VII" Original DVD High Quality CG Collection (DVDZ-9037) · movies · 5719 descargas · https://archive.org/details/DVDZ-9037
 - Final Fantasy VII Remake: Intergrade OST · audio · 5082 descargas · https://archive.org/details/14-ramuh-lord-of-levin

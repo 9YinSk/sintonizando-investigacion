@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://sketchfab.com/3d-models/scrappy-doo-v2026-scooby-doo-b7e17227352142c9a271232d62a9bdad",
+    "fuente": "Sketchfab (autor: jacobq1004)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Scrappy-Doo con animación incluida (animationCount: 1 en la API), 108 694 caras; el único rig libre encontrado ya en movimiento",
+    "para_que": "Referencia de rig/huesos libre para posar personajes en Blender, punto 18 (no calca el estilo, sirve de base técnica)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/scooby-doo-29c1fffa88794e408b5579889eb091bc",
+    "fuente": "Sketchfab (autor: gaddiellartey2010)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D bajo poli de Scooby-Doo (2796 caras), sin animar",
+    "para_que": "Base rápida para posar a mano en Blender, punto 18",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/daphne-blake-60c98889d23c46e992867af623cd130e",
+    "fuente": "Sketchfab (autor: placidone)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Daphne Blake en alto detalle (281 440 caras), sin animar",
+    "para_que": "Referencia de modelado/proporciones para 3D, punto 18",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/velma-dinkley-fb8d2ee3f6604e88b7993cc6664a1d34",
+    "fuente": "Sketchfab (autor: placidone)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Velma (Vilma) Dinkley en alto detalle (62 811 caras), sin animar",
+    "para_que": "Referencia de modelado/proporciones para 3D, punto 18",
+    "licencia": "CC Attribution-ShareAlike (cualquier derivado debe compartirse con la misma licencia)"
+  },
+  {
+    "url": "https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender",
+    "fuente": "StraySpark Studio (tutorial técnico)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guía práctica del método «inverted hull» (Solidify + Flip Normals + Backface Culling) y de Shader to RGB + Color Ramp constante para cel shading en Blender/Eevee",
+    "para_que": "Receta técnica citada en el punto 18 para reproducir el contorno y el color plano de 1969 en 3D",
+    "licencia": "Artículo de blog, sólo consulta (no es un asset)"
+  },
+  {
+    "url": "https://www.3dsecrets.com/secrets/inverted-hull-toon-outline-bnpr-blender-tutorial",
+    "fuente": "Blender Secrets (tutorial técnico)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda fuente que confirma el método «inverted hull» del modificador Solidify para el contorno de estilo caricatura",
+    "para_que": "Segunda fuente del punto 18 (contorno en Blender), para llevarlo a ✅",
+    "licencia": "Artículo de blog, sólo consulta (no es un asset)"
+  }
+]

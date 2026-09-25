@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: el encargo no trae wiki (usa --wiki)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: no encontré la página de «los dos hermanos»
 
 ## Doblaje latino: ficha de «REANIMAL» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/REANIMAL_
@@ -62,12 +62,12 @@ _Fuente: https://doblaje.fandom.com/es/wiki/REANIMAL#Datos%20de%20inter%C3%A9s_
 _Fuente: https://danbooru.donmai.us/posts?tags=reanimal_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hakurei_reimu · 101363 dibujos
-2. kirisame_marisa · 87763 dibujos
-3. flandre_scarlet · 63302 dibujos
-4. sakayori_iroha · 10232 dibujos
-5. runami_yachiyo · 6816 dibujos
-6. sakayori_iroha_(tsukuyomi) · 3382 dibujos
+1. hakurei_reimu · 101390 dibujos
+2. kirisame_marisa · 87781 dibujos
+3. flandre_scarlet · 63313 dibujos
+4. sakayori_iroha · 10237 dibujos
+5. runami_yachiyo · 6821 dibujos
+6. sakayori_iroha_(tsukuyomi) · 3383 dibujos
 7. girl_(reanimal) · 6 dibujos
 8. boy_(reanimal) · 5 dibujos
 9. bandage_(reanimal) · 4 dibujos
@@ -95,14 +95,13 @@ _Fuente: https://api.dailymotion.com_
 - Reanimal - Launch Trailer · 1:30 · GRYOnline.pl · 324 vistas · https://www.dailymotion.com/video/x9zxg82
 - REANIMAL - Demo Trailer · 0:16 · GRYOnline.pl · 119 vistas · https://www.dailymotion.com/video/x9s4eww
 **«Reanimal fandub latino»**
-- Reanimal teaser · 1:33 · JeuxVideo.com · 37823 vistas · https://www.dailymotion.com/video/xa1mxgm
+- Reanimal - Announcement Trailer · 1:18 · Gamer Warrior 6022 · 31 vistas · https://www.dailymotion.com/video/x94rucw
 - REANIMAL | Announcement Trailer · 1:15 · Gamesurf.it · 19 vistas · https://www.dailymotion.com/video/x94de2a
-- REANIMAL - Gameplay · 1:26 · Vandal · 7 vistas · https://www.dailymotion.com/video/x9xxbbm
+- REANIMAL - Prerreserva · 1:15 · Vandal · 3 vistas · https://www.dailymotion.com/video/x9xxbii
 
 ## Reddit r/ReanimalGame: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/ReanimalGame_
 
+**«favorite character»**
 **«why I love»**
 **«best scene»**
-**«unpopular opinion»**
-**«iconic»**

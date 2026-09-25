@@ -1,32 +1,32 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · My Hero Academia
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: Command '['/usr/local/bin/python3', '/home/user/sintonizando-investigacion/herramientas/investigar_serie.py', '--serie', 'My Hero Academia', '--wiki', 'myheroac · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/21459_
 
 | # | Personaje | Favoritos | Rol | Seiyū | Voz «Spanish» en AniList ⚠️ |
 |---|---|---|---|---|---|
-| 1 | Shouto Todoroki (轟焦凍) | 16812 | SUPPORTING | Yuuki Kaji | Jordi Navarro, Juan Felipe Sierra Cortes |
-| 2 | Katsuki Bakugou (爆豪勝己) | 16228 | MAIN | Nobuhiko Okamoto, Sachi Kokuryuu | David Jenner, Rómulo Bernal, Judith Noguera, Maria Rosa Guillén |
-| 3 | Izuku Midoriya (緑谷出久) | 14062 | MAIN | Daiki Yamashita, Akeno Watanabe | Victor Casademunt, Sebastián Reggio, Lourdes Fabrés, Adriel Cortez |
-| 4 | Shouta Aizawa (相澤消太) | 8770 | SUPPORTING | Junichi Suwabe | Ernesto Rumbaut |
-| 5 | Toshinori Yagi (八木俊典) | 6864 | MAIN | Kenta Miyake | Ramon Rocabayera, Orlando Noguera |
-| 6 | Eijirou Kirishima (切島鋭児郎) | 6496 | SUPPORTING | Toshiki Masuda | Ledner Belisario |
+| 1 | Shouto Todoroki (轟焦凍) | 16811 | SUPPORTING | Yuuki Kaji | Jordi Navarro, Juan Felipe Sierra Cortes |
+| 2 | Katsuki Bakugou (爆豪勝己) | 16234 | MAIN | Nobuhiko Okamoto, Sachi Kokuryuu | David Jenner, Rómulo Bernal, Judith Noguera, Maria Rosa Guillén |
+| 3 | Izuku Midoriya (緑谷出久) | 14063 | MAIN | Daiki Yamashita, Akeno Watanabe | Victor Casademunt, Sebastián Reggio, Lourdes Fabrés, Adriel Cortez |
+| 4 | Shouta Aizawa (相澤消太) | 8771 | SUPPORTING | Junichi Suwabe | Ernesto Rumbaut |
+| 5 | Toshinori Yagi (八木俊典) | 6866 | MAIN | Kenta Miyake | Ramon Rocabayera, Orlando Noguera |
+| 6 | Eijirou Kirishima (切島鋭児郎) | 6493 | SUPPORTING | Toshiki Masuda | Ledner Belisario |
 | 7 | Ochako Uraraka (麗日お茶子) | 5521 | MAIN | Ayane Sakura | Andrea Villaverde |
 | 8 | Tomura Shigaraki (死柄木弔) | 5480 | SUPPORTING | Kouki Uchiyama | Jordi Navarro, Rómulo Bernal |
 | 9 | Denki Kaminari (上鳴電気) | 4509 | SUPPORTING | Tasuku Hatanaka | Juan Sebastian Naranjo |
-| 10 | Tsuyu Asui (蛙吹梅雨) | 4213 | SUPPORTING | Aoi Yuuki | María José Estévez |
-| 11 | Kyouka Jirou (耳郎響香) | 4000 | SUPPORTING | Kei Shindou | Patricia Azan |
+| 10 | Tsuyu Asui (蛙吹梅雨) | 4215 | SUPPORTING | Aoi Yuuki | María José Estévez |
+| 11 | Kyouka Jirou (耳郎響香) | 3998 | SUPPORTING | Kei Shindou | Patricia Azan |
 | 12 | Fumikage Tokoyami (常闇踏陰) | 3508 | SUPPORTING | Yoshimasa Hosoya | Jonathan Ramírez |
-| 13 | Momo Yaoyorozu (八百万百) | 3428 | SUPPORTING | Marina Inoue | María José Estévez |
-| 14 | Mina Ashido (芦戸三奈) | 2438 | SUPPORTING | Eri Kitamura | Nathalie Varona |
+| 13 | Momo Yaoyorozu (八百万百) | 3426 | SUPPORTING | Marina Inoue | María José Estévez |
+| 14 | Mina Ashido (芦戸三奈) | 2439 | SUPPORTING | Eri Kitamura | Nathalie Varona |
 | 15 | Tenya Iida (飯田天哉) | 1904 | SUPPORTING | Kaito Ishikawa | Sergio Mesa, Luis Carreño |
-| 16 | Nemuri Kayama (香山睡) | 1049 | SUPPORTING | Akeno Watanabe | Carmen Ambrós, Giset Blanco |
+| 16 | Nemuri Kayama (香山睡) | 1048 | SUPPORTING | Akeno Watanabe | Carmen Ambrós, Giset Blanco |
 | 17 | Yuu Takeyama (岳山優) | 1014 | SUPPORTING | Kaori Nazuka | Paula Barros |
 | 18 | Hanta Sero (瀬呂範太) | 1006 | SUPPORTING | Kiyotaka Furushima | Carlos Lladó, Braulio Hernández |
 | 19 | Yuuga Aoyama (青山優雅) | 601 | SUPPORTING | Kousuke Kuwano | Jordi Navarro, Hernán Chavarro |
@@ -34,8 +34,8 @@ _Fuente: https://anilist.co/anime/21459_
 | 21 | All For One (オール・フォー・ワン) | 572 | SUPPORTING | Akio Ootsuka | Manolo Coego |
 | 22 | Hizashi Yamada (山田ひざし) | 530 | SUPPORTING | Hiroyuki Yoshino | Jorge Luis García |
 | 23 | Minoru Mineta (峰田実) | 466 | SUPPORTING | Ryou Hirohashi | Carmen Ambrós, Paula Barros |
-| 24 | Mezou Shouji (障子目蔵) | 454 | SUPPORTING | Masakazu Nishida | Ernesto Rumbaut |
-| 25 | Mashirao Ojiro (尾白猿夫) | 311 | SUPPORTING | Kousuke Miyoshi | Enrique Hernández, Juank Jurado |
+| 24 | Mezou Shouji (障子目蔵) | 453 | SUPPORTING | Masakazu Nishida | Ernesto Rumbaut |
+| 25 | Mashirao Ojiro (尾白猿夫) | 310 | SUPPORTING | Kousuke Miyoshi | Enrique Hernández, Juank Jurado |
 
 _«Spanish» en AniList mezcla España y Latinoamérica: el reparto latino, en Doblaje Wiki (abajo)._
 
@@ -533,7 +533,7 @@ _Fuente: https://doblaje.fandom.com/es/wiki/My_Hero_Academia#Datos%20de%20inter%
 ## Izuku Midoriya · Personality (texto de la wiki)
 _Fuente: https://myheroacademia.fandom.com/wiki/Izuku_Midoriya#Personality_
 
-Izuku is a very timid, reserved, and polite boy, frequently overreacting to abnormal situations with exaggerated expressions. Due to yeаrs of being looked down on by Katsuki for lacking a Quirk, he is initially portrayed as insecure, tearful, vulnerable, and non-expressive. These traits are especially present around Katsuki, who also constantly harangued him for his aspirations to become a hero. However, after being accepted into U.A., making new friends, and facing Katsuki during the Battle Trial Arc, Izuku gradually matures into a more confident and braver person who's always eager to prove his worth as a hero, eventually developing strong leadership skills, which combined with his passion and strategic abilities, have turned him into a central figure within Class 1-A alongside Katsuki. Izuku is a quite diligent and strong-willed student, being extremely (and sometimes scarily)…
+Izuku is a very timid, reserved, and polite boy, frequently overreacting to abnormal situations with exaggerated expressions. Due to yeаrs of being looked down on by Katsuki for lacking a Quirk, he is initially portrayed as insecure, tearful, vulnerable, and non-expressive. These traits are especially present around Katsuki, who constantly bullied him for his aspirations to become a hero. However, after being accepted into U.A., making new friends, and facing Katsuki during the Battle Trial Arc, Izuku gradually matures into a more confident and braver person who's always eager to prove his worth as a hero, eventually developing strong leadership skills, which combined with his passion and strategic abilities, have turned him into a central figure within Class 1-A alongside Katsuki. Izuku is a quite diligent and strong-willed student, being extremely (and sometimes scarily) enthusiastic…
 
 ## Izuku Midoriya · Abilities (texto de la wiki)
 _Fuente: https://myheroacademia.fandom.com/wiki/Izuku_Midoriya#Abilities_
@@ -580,7 +580,7 @@ _Fuente: https://myheroacademia.fandom.com/wiki/Shota_Aizawa#Abilities_
 
 Overall Abilities: Eraser Head has demonstrated exceptional combat prowess, tactical intelligence, and adaptability, making him one of the most formidable teachers and Pro Heroes at U.A. High School. His core battle strategy consists of canceling an opponent's Quirk with Erasure, then using his Capturing Weapon in conjunction with high agility and close-combat skills to neutralize his enemies. Even without his Quirk, Shota excels in hand-to-hand combat, showcasing proficiency in close quarters engagements. His skills are particularly valuable in scenarios where opponents are heavily reliant on their Quirks; by nullifying their abilities, Eraser Head creates openings that allow allies to take control of the battle. During his time as a student at U.A., Hizashi stated that, even though he lacks in taking the initiative because of his rational thinking, once he sets up his mind, he becomes…
 
-## Los personajes más dibujados por los fans (Danbooru, 44837 dibujos de «boku_no_hero_academia»)
+## Los personajes más dibujados por los fans (Danbooru, 44839 dibujos de «boku_no_hero_academia»)
 _Fuente: https://danbooru.donmai.us/posts?tags=boku_no_hero_academia_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
@@ -588,7 +588,7 @@ Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans
 2. bakugou_katsuki · 7781 dibujos
 3. mirko · 6442 dibujos
 4. uraraka_ochaco · 5933 dibujos
-5. toga_himiko · 3800 dibujos
+5. toga_himiko · 3802 dibujos
 6. todoroki_shoto · 2893 dibujos
 7. asui_tsuyu · 2589 dibujos
 8. endeavor_(boku_no_hero_academia) · 2471 dibujos
@@ -640,24 +640,10 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/BokuNoHeroAcademia: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/BokuNoHeroAcademia_
 
-**«favorite character»**
-- (1919 votos, 146 comentarios) Which is your favorite of the official genderswapped character designs? · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1r1ejr7/which_is_your_favorite_of_the_official/
-- (1789 votos, 225 comentarios) In light of the anime ending with the OVA, who is your favorite female character from Mha? · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1tbcecs/in_light_of_the_anime_ending_with_the_ova_who_is/
-- (523 votos, 259 comentarios) If you dont like Endeavour, then you're not allowed to have a villain as your favorite character. · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1pi6i37/if_you_dont_like_endeavour_then_youre_not_allowed/
-- (127 votos, 21 comentarios) Who is your favorite female character in the show and why it's Nana Shimura? · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1qr1g57/who_is_your_favorite_female_character_in_the_show/
-- (112 votos, 51 comentarios) Favorite character with wasted potential? · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1vea2y6/favorite_character_with_wasted_potential/
-- (68 votos, 21 comentarios) I bet you would never guess who my favorite character is · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1vd0ptp/i_bet_you_would_never_guess_who_my_favorite/
-**«why I love»**
-- (61 votos, 34 comentarios) Hey guys i am new to this Anime I just Started watching and i dont know Why but i love this 🗿🙌🏻❤️‍🔥 · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1i1s4bu/hey_guys_i_am_new_to_this_anime_i_just_started/
-- (56 votos, 2 comentarios) The moment heroes became real to Hawks is one of my favorites in the series. I feel like Horikoshi does such a great… · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1p5m8pg/the_moment_heroes_became_real_to_hawks_is_one_of/
-- (54 votos, 29 comentarios) I mean I get it ppl on internet these day love to troll & push hate agenda for their own sick amusement but WHY does… · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1no3m0k/i_mean_i_get_it_ppl_on_internet_these_day_love_to/
-- (54 votos, 3 comentarios) Small details like this are why I love the series · https://www.reddit.com/r/BokuNoHeroAcademia/comments/18ig195/small_details_like_this_are_why_i_love_the_series/
-- (24 votos, 3 comentarios) Why I love MHA (TW: scars mentioned) · https://www.reddit.com/r/BokuNoHeroAcademia/comments/n4iuax/why_i_love_mha_tw_scars_mentioned/
-- (23 votos, 2 comentarios) I love this shot so much and I don’t know why · https://www.reddit.com/r/BokuNoHeroAcademia/comments/pltly0/i_love_this_shot_so_much_and_i_dont_know_why/
-**«iconic»**
-- (1672 votos, 40 comentarios) [OC] Lady nagant has the same voice actor as anya so here's a drawing of her doing the iconic smug face · https://www.reddit.com/r/BokuNoHeroAcademia/comments/10cupxm/oc_lady_nagant_has_the_same_voice_actor_as_anya/
-- (1400 votos, 36 comentarios) I colored an iconic page of Deku from manga chapter 317, which was adapted in yesterday's anime episode! · https://www.reddit.com/r/BokuNoHeroAcademia/comments/11jeh3t/i_colored_an_iconic_page_of_deku_from_manga/
-- (226 votos, 8 comentarios) Know Your Seiyuu 🗣️: Appreciation post to Daiki Yamashita for his consistently amazing and heroic performance as the… · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1q073pq/know_your_seiyuu_appreciation_post_to_daiki/
-- (130 votos, 61 comentarios) Does MHA have an iconic item? · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1tc6gqe/does_mha_have_an_iconic_item/
-- (129 votos, 79 comentarios) What's the most iconic moment in MHA? · https://www.reddit.com/r/BokuNoHeroAcademia/comments/18nkiid/whats_the_most_iconic_moment_in_mha/
-- (108 votos, 12 comentarios) Happy 45th birthday to the iconic and versatile Hiro Shimono! 🥳🎂💖 · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1k3oi2q/happy_45th_birthday_to_the_iconic_and_versatile/
+**«best scene»**
+- (1279 votos, 44 comentarios) This scene always breaks my heart. Papa All Might doing his best to look out for Izuku :( · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1qw1t61/this_scene_always_breaks_my_heart_papa_all_might/
+- (239 votos, 8 comentarios) (Maybe) Unpopular Opinion: I think that this scene where All for One and All Might talk in Tartarus in season is the… · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1s9wwjj/maybe_unpopular_opinion_i_think_that_this_scene/
+- (180 votos, 15 comentarios) The VA pooped off here! These 3 lines were the best lines from her all seasons. You can literally hear almost voice… · https://www.reddit.com/r/BokuNoHeroAcademia/comments/1d6wkq1/the_va_pooped_off_here_these_3_lines_were_the/
+- (109 votos, 1 comentarios) Rate my drawing guys? Done with a black pen…I think it’s my best one from BNHA. Was so happy to be able to capture the… · https://www.reddit.com/r/BokuNoHeroAcademia/comments/s2fpzj/rate_my_drawing_guys_done_with_a_black_peni_think/
+- (78 votos, 36 comentarios) Best Final Scene to Season 6? · https://www.reddit.com/r/BokuNoHeroAcademia/comments/yl0eu5/best_final_scene_to_season_6/
+- (60 votos, 13 comentarios) My Hero Academia S4 won Best Fight Scene (Deku vs Overhaul) for the Crunchyroll Anime Awards! · https://www.reddit.com/r/BokuNoHeroAcademia/comments/lo4don/my_hero_academia_s4_won_best_fight_scene_deku_vs/

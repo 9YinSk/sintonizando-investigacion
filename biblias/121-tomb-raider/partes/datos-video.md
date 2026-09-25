@@ -4,39 +4,39 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: no encontré la página de «Sam Nishimura»
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
 
 **«Tomb Raider opening»**
-- Tomb Raider : Tomb Raider · 8:01 · JeuxVideo.com · 16015 vistas · https://www.dailymotion.com/video/x89cmfn
+- Tomb Raider : Tomb Raider · 8:01 · JeuxVideo.com · 16017 vistas · https://www.dailymotion.com/video/x89cmfn
+- Tomb Raider · 1:27 · Télé 7 Jours · 7640 vistas · https://www.dailymotion.com/video/x9b9eto
 - Tomb Raider · 1:27 · Télé 7 Jours · 5190 vistas · https://www.dailymotion.com/video/x8rlcqg
+- Tomb raider · 0:31 · utada_hikaru_fr · 1359 vistas · https://www.dailymotion.com/video/x283ok
 - Tomb Raider · 5:03 · Télé 7 Jours · 1275 vistas · https://www.dailymotion.com/video/x9w5td0
 - Tomb Raider · 1:27 · Tele-Loisirs.fr · 886 vistas · https://www.dailymotion.com/video/x86t112
-- Tomb Raider · 1:27 · TV-programme.com · 857 vistas · https://www.dailymotion.com/video/x9mv08a
-- Tomb Raider · 1:05 · Tele-Loisirs.fr · 585 vistas · https://www.dailymotion.com/video/x89y89b
 **«Tomb Raider ending»**
-- Tomb Raider : Tomb Raider · 8:01 · JeuxVideo.com · 16015 vistas · https://www.dailymotion.com/video/x89cmfn
-- Tomb Raider · 1:27 · Télé 7 Jours · 5190 vistas · https://www.dailymotion.com/video/x8rlcqg
-- Tomb Raider · 5:03 · Télé 7 Jours · 1275 vistas · https://www.dailymotion.com/video/x9w5td0
-- Tomb Raider · 1:27 · Tele-Loisirs.fr · 886 vistas · https://www.dailymotion.com/video/x86t112
-- Tomb Raider · 1:27 · TV-programme.com · 857 vistas · https://www.dailymotion.com/video/x9mv08a
-- Tomb Raider · 1:05 · Tele-Loisirs.fr · 585 vistas · https://www.dailymotion.com/video/x89y89b
-**«Tomb Raider trailer»**
-- Tomb Raider Tráiler (2) · 2:00 · Sensacine · 48769 vistas · https://www.dailymotion.com/video/x88oz8h
-- Tomb Raider Tráiler · 2:24 · Sensacine · 33599 vistas · https://www.dailymotion.com/video/x88p4ip
-- Tomb Raider : Tomb Raider · 8:01 · JeuxVideo.com · 16015 vistas · https://www.dailymotion.com/video/x89cmfn
-- Tomb Raider trailer gamescom · 1:04 · JeuxVideo.com · 5485 vistas · https://www.dailymotion.com/video/x89lm42
-- Tomb Raider - Trailer · 2:19 · Filmow · 2637 vistas · https://www.dailymotion.com/video/x6i35pz
-- 'Tomb Raider' - Trailer 2 · 2:24 · MassGeekdom · 2494 vistas · https://www.dailymotion.com/video/x6dbslt
-**«Tomb Raider escena»**
-- Tomb Raider : Tomb Raider · 8:01 · JeuxVideo.com · 16015 vistas · https://www.dailymotion.com/video/x89cmfn
-- Tomb Raider · 1:27 · Tele-Loisirs.fr · 1453 vistas · https://www.dailymotion.com/video/x86t2uv
+- Tomb Raider : Tomb Raider · 8:01 · JeuxVideo.com · 16017 vistas · https://www.dailymotion.com/video/x89cmfn
+- Tomb Raider · 1:27 · Télé 7 Jours · 7640 vistas · https://www.dailymotion.com/video/x9b9eto
 - Tomb raider · 0:31 · utada_hikaru_fr · 1359 vistas · https://www.dailymotion.com/video/x283ok
 - Tomb Raider · 5:03 · Télé 7 Jours · 1275 vistas · https://www.dailymotion.com/video/x9w5td0
 - Tomb Raider · 1:27 · Tele-Loisirs.fr · 886 vistas · https://www.dailymotion.com/video/x86t112
 - Tomb Raider · 1:27 · TV-programme.com · 857 vistas · https://www.dailymotion.com/video/x9mv08a
+**«Tomb Raider trailer»**
+- Tomb Raider Tráiler (2) · 2:00 · Sensacine · 48769 vistas · https://www.dailymotion.com/video/x88oz8h
+- Tomb Raider Tráiler · 2:24 · Sensacine · 33599 vistas · https://www.dailymotion.com/video/x88p4ip
+- Tomb Raider : Tomb Raider · 8:01 · JeuxVideo.com · 16017 vistas · https://www.dailymotion.com/video/x89cmfn
+- Tomb Raider trailer gamescom · 1:04 · JeuxVideo.com · 5485 vistas · https://www.dailymotion.com/video/x89lm42
+- Tomb Raider - Trailer · 2:19 · Filmow · 2637 vistas · https://www.dailymotion.com/video/x6i35pz
+- 'Tomb Raider' - Trailer 2 · 2:24 · MassGeekdom · 2494 vistas · https://www.dailymotion.com/video/x6dbslt
+**«Tomb Raider escena»**
+- Tomb Raider : Tomb Raider · 8:01 · JeuxVideo.com · 16017 vistas · https://www.dailymotion.com/video/x89cmfn
+- Tomb Raider · 1:27 · Télé 7 Jours · 7640 vistas · https://www.dailymotion.com/video/x9b9eto
+- Tomb Raider · 1:27 · Tele-Loisirs.fr · 1453 vistas · https://www.dailymotion.com/video/x86t2uv
+- Tomb raider · 0:31 · utada_hikaru_fr · 1359 vistas · https://www.dailymotion.com/video/x283ok
+- Tomb Raider · 5:03 · Télé 7 Jours · 1275 vistas · https://www.dailymotion.com/video/x9w5td0
+- Tomb Raider · 1:27 · Tele-Loisirs.fr · 886 vistas · https://www.dailymotion.com/video/x86t112
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
 _Fuente: https://archive.org_
@@ -60,7 +60,7 @@ _Fuente: https://archive.org_
 - Tomb Raider 1-3 Remastered Soundtrack Steam Sourced Audio Files · audio · 3905 descargas · https://archive.org/details/tomb-raider-1-3-remastered-soundtrack-steam-sourced-audio-files
 - Tomb Raider III - The Lost Artefact (Europe) Premier Collection · movies · 3549 descargas · https://archive.org/details/tombraideriiipremiercollectioneurope
 - Tomb Raider II Gold (USA) · movies · 3504 descargas · https://archive.org/details/TombRaiderIIGoldUSA
-- Tomb Raider Review · audio · 2822 descargas · https://archive.org/details/20180319TombRaider
+- The Unofficial Tomb Raider Homepage 1997 · movies · 2888 descargas · https://archive.org/details/reference_202004
 
 ## Bandas sonoras publicadas (MusicBrainz)
 _Fuente: https://musicbrainz.org_

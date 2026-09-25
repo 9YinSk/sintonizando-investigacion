@@ -110,6 +110,16 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Final_Fantasy_XVI#Datos%20de%20inter
 - Octavio Rojas es acreditado como Zoltan, cuando este en realidad dobló a Elwin Rosfield.
 - Gerardo Ortega y David Allende no son acreditados.
 
+## Cloud Strife · Personality (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_Strife#Personality_
+
+On the surface, Cloud Strife presents himself as a hardened warrior, cocky and headstrong, coldhearted, and disinterested in anything beyond completing the hired job at hand. He tells others, often dismissively and with snark, that he has no interest in larger causes, such as the plight of the planet, and appears unshaken by the devastation the bombings he helped carry out cause. He is cool-headed and mostly carries himself as an expert and professional.{{note|Cloud is especially cool-headed next to Barret, more often intervening to stop fights rather than start them. Cloud stops Barret from arguing with passengers on the train to Sector 4, and during the raid on the Shinra Building, vetoes his head-on assault plan. Additionally, Cloud brings his expertise to help Barret, instructing him when fighting the Scorpion Sentinel, and teaching him to use materia.|name=cloud barret}} Beneath…
+
+## Cloud Strife · Abilities (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_Strife#Abilities_
+
+Cloud's greatest strength is in his swordsmanship. Though Cloud fell short of the standards of candidates admitted into SOLDIER, his swordsmanship nonetheless impressed one of the Turks. As a result of mako experimentation by Hojo, Cloud was greatly enhanced as a super soldier, with superhuman strength, speed, and agility. This, coupled with him incorporating Zack Fair's fighting abilities into his own, made him capable of easily handling other SOLDIER members and Turks. In time, Cloud developed skills on his own, independently from Zack. Cloud has many swordsmanship techniques, seen most prominently in his limit breaks. The most potent and noteworthy of these is Omnislash (and Omnislash Version 5 with his Fusion Swords), in which Cloud performs a quick succession of powerful strikes from his sword. Cloud's abilities also allow him to use magic from his sword, seen in the form of firing…
+
 ## Tifa Lockhart · Personality (texto de la wiki)
 _Fuente: https://finalfantasy.fandom.com/wiki/Tifa_Lockhart#Personality_
 
@@ -140,19 +150,19 @@ _Fuente: https://finalfantasy.fandom.com/wiki/Sephiroth#Abilities_
 
 Sephiroth is regarded as the greatest SOLDIER 1st Class of all time, whose legendary accomplishments in the field of battle inspired many to join SOLDIER.{{note|Cloud told Tifa at the water tower that his plan was to join SOLDIER and become like Sephiroth. Genesis' old diary also denotes his plans to join SOLDIER to become like Sephiroth, his hero.}} Being the greatest byproduct of the Jenova Project, he has incredible inhuman physical prowess, extremely powerful magic skills, and is an extraordinarily skilled swordsman. Sephiroth's strength and swordsmanship are such that he can wield his Masamune, an ōdachi that is longer than he is tall, effortlessly with one hand and ambidextrously shift from his left to right hand with little loss of efficiency. His physical strength was also seen with his ability to rip bolted down metal structures with his own hands with little effort when he…
 
-## Los personajes más dibujados por los fans (Danbooru, 41873 dibujos de «final_fantasy_vii»)
+## Los personajes más dibujados por los fans (Danbooru, 41876 dibujos de «final_fantasy_vii»)
 _Fuente: https://danbooru.donmai.us/posts?tags=final_fantasy_vii_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. tifa_lockhart · 17111 dibujos
-2. cloud_strife · 16035 dibujos
-3. 2b_(nier:automata) · 12427 dibujos
-4. aerith_gainsborough · 11983 dibujos
-5. kirby · 11064 dibujos
+1. tifa_lockhart · 17112 dibujos
+2. cloud_strife · 16037 dibujos
+3. 2b_(nier:automata) · 12428 dibujos
+4. aerith_gainsborough · 11984 dibujos
+5. kirby · 11065 dibujos
 6. sephiroth · 5855 dibujos
 7. zack_fair · 3373 dibujos
 8. yuffie_kisaragi · 2894 dibujos
-9. moogle · 2444 dibujos
+9. moogle · 2445 dibujos
 10. terra_branford · 2407 dibujos
 11. sora_(kingdom_hearts) · 2368 dibujos
 12. squall_leonhart · 2153 dibujos
@@ -200,13 +210,6 @@ _Fuente: https://api.dailymotion.com_
 ## Reddit r/FinalFantasyVII: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/FinalFantasyVII_
 
-**«favorite character»**
-- (242 votos, 166 comentarios) What are your favorite qualities of this character? · https://www.reddit.com/r/FinalFantasyVII/comments/1im6duz/what_are_your_favorite_qualities_of_this_character/
-- (140 votos, 151 comentarios) Who is your favorite side character? · https://www.reddit.com/r/FinalFantasyVII/comments/1bl0157/who_is_your_favorite_side_character/
-- (91 votos, 38 comentarios) Why Cloud is my favorite character in all Final Fantasy · https://www.reddit.com/r/FinalFantasyVII/comments/1gsdcqe/why_cloud_is_my_favorite_character_in_all_final/
-- (57 votos, 95 comentarios) Who Is your favorite Final Fantasy VII character ? · https://www.reddit.com/r/FinalFantasyVII/comments/18qys0o/who_is_your_favorite_final_fantasy_vii_character/
-- (55 votos, 175 comentarios) Who's your Least Favorite Character in the Compilation? · https://www.reddit.com/r/FinalFantasyVII/comments/173p5dn/whos_your_least_favorite_character_in_the/
-- (51 votos, 87 comentarios) Who’s your favorite side character voice actor? · https://www.reddit.com/r/FinalFantasyVII/comments/1btfun8/whos_your_favorite_side_character_voice_actor/
 **«why I love»**
 - (18 votos, 3 comentarios) Why I LOVE Final Fantasy VII · https://www.reddit.com/r/FinalFantasyVII/comments/8mhixf/why_i_love_final_fantasy_vii/
 - (10 votos, 1 comentarios) One reason why I love FF7, to make references in moments like these. · https://www.reddit.com/r/FinalFantasyVII/comments/zbx9kg/one_reason_why_i_love_ff7_to_make_references_in/
@@ -228,3 +231,10 @@ _Fuente: https://www.reddit.com/r/FinalFantasyVII_
 - (57 votos, 69 comentarios) A very unpopular opinion but · https://www.reddit.com/r/FinalFantasyVII/comments/1fn8x9l/a_very_unpopular_opinion_but/
 - (54 votos, 321 comentarios) *Maybe unpopular opinion about where the plot of Remake trilogy is going · https://www.reddit.com/r/FinalFantasyVII/comments/1cphpbn/maybe_unpopular_opinion_about_where_the_plot_of/
 - (41 votos, 42 comentarios) Unpopular opinion: Dyne and Barret’s arc in Rebirth is really good · https://www.reddit.com/r/FinalFantasyVII/comments/1wih4it/unpopular_opinion_dyne_and_barrets_arc_in_rebirth/
+**«iconic»**
+- (1072 votos, 44 comentarios) Painted this iconic scene from this amazing game · https://www.reddit.com/r/FinalFantasyVII/comments/198b4sc/painted_this_iconic_scene_from_this_amazing_game/
+- (621 votos, 16 comentarios) They only had the remake variant, but I'm now a proud owner of the iconic sword · https://www.reddit.com/r/FinalFantasyVII/comments/sxb9u5/they_only_had_the_remake_variant_but_im_now_a/
+- (348 votos, 26 comentarios) Sephiroth walking through the flames will never stop being iconic 🔥 · https://www.reddit.com/r/FinalFantasyVII/comments/1w18t5t/sephiroth_walking_through_the_flames_will_never/
+- (249 votos, 21 comentarios) Rebirth Iconic Shot · https://www.reddit.com/r/FinalFantasyVII/comments/1amdw75/rebirth_iconic_shot/
+- (193 votos, 5 comentarios) My Timelapse of me painting this iconic battle · https://www.reddit.com/r/FinalFantasyVII/comments/199t72k/my_timelapse_of_me_painting_this_iconic_battle/
+- (138 votos, 111 comentarios) What, in your opinion, makes Cloud Strife such an iconic character? · https://www.reddit.com/r/FinalFantasyVII/comments/1c4sr2a/what_in_your_opinion_makes_cloud_strife_such_an/

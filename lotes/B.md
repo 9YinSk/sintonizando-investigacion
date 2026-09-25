@@ -20,7 +20,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
   12: video (Sonnet) sigue en marcha. 13: 4 investigadores (Sonnet, repaso) en marcha desde 06:39.
   14-18: recolectando datos y hojas.
 - 12: 4 partes listas → redactor (Opus, repaso) en marcha desde 06:51.
-  13: video, imagen y voz terminados; texto (Sonnet) en marcha.
+  13: las 4 partes terminadas → redactor (Opus, repaso) en marcha desde 06:57.
   14: datos listos → 4 investigadores (Sonnet, repaso) en marcha desde 06:54. 15-18: recolectando.
 
 ## Avisos para el dueño

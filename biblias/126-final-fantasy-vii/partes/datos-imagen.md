@@ -6,11 +6,24 @@ No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
 **Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es)
 
-## Cloud: las imágenes más grandes de la wiki (2 en total)
-_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_
+## Cloud Strife: las imágenes más grandes de la wiki (456 en total)
+_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_Strife_
 
-- 56×56 · FF4PSP Porom Portrait.png · https://static.wikia.nocookie.net/finalfantasy/images/b/b9/FF4PSP_Porom_Portrait.png
-- 56×56 · FF4PSP Palom Portrait.png · https://static.wikia.nocookie.net/finalfantasy/images/4/43/FF4PSP_Palom_Portrait.png
+- 4126×4734 · Cloud Strife from FFVII Remake bust render.png · https://static.wikia.nocookie.net/finalfantasy/images/e/ef/Cloud_Strife_from_FFVII_Remake_bust_render.png
+- 3997×4242 · SSBU Cloud Strife render 001.png · https://static.wikia.nocookie.net/finalfantasy/images/2/2e/SSBU_Cloud_Strife_render_001.png
+- 5143×3000 · Advent Children Cloud & Sephiroth.jpg · https://static.wikia.nocookie.net/finalfantasy/images/5/5a/Advent_Children_Cloud_%26_Sephiroth.jpg
+- 3757×3520 · Cloud recoded render.png · https://static.wikia.nocookie.net/finalfantasy/images/9/9b/Cloud_recoded_render.png
+- 2970×4368 · Cloud Strife from FFVII Remake battle render.png · https://static.wikia.nocookie.net/finalfantasy/images/a/af/Cloud_Strife_from_FFVII_Remake_battle_render.png
+- 2881×4167 · Cloud Dissidia CG render 2.jpg · https://static.wikia.nocookie.net/finalfantasy/images/2/28/Cloud_Dissidia_CG_render_2.jpg
+- 2589×4441 · Cloud Dissidia Artwork.png · https://static.wikia.nocookie.net/finalfantasy/images/a/af/Cloud_Dissidia_Artwork.png
+- 3400×3314 · SSBU Cloud Strife render 002.png · https://static.wikia.nocookie.net/finalfantasy/images/6/69/SSBU_Cloud_Strife_render_002.png
+- 3157×3532 · MetalChocobo.png · https://static.wikia.nocookie.net/finalfantasy/images/e/e7/MetalChocobo.png
+- 3061×3498 · FFEF Cloud.png · https://static.wikia.nocookie.net/finalfantasy/images/5/58/FFEF_Cloud.png
+
+## Cloud Strife · Appearance (texto de la wiki)
+_Fuente: https://finalfantasy.fandom.com/wiki/Cloud_Strife#Appearance_
+
+Cloud is a young man with a lean and toned build and spiky blond hair. Cloud has blue eyes, which glow due to him having been exposed to mako. Because "mako eyes" are iconic to members of SOLDIER, Cloud is often assumed to be one. Cloud carries a large broadsword as his weapon of choice, with his three trademark weapons being the Buster Sword (a massive sword over five feet long), a set of Fusion Swords (six individual interconnecting swords that form one similar to the Buster Sword), and the Hardedge (another large broadsword with a different shape). He also has a silver earring in his left ear. Cloud's typical outfit is a variated standard uniform for a SOLDIER, seen first in Final Fantasy VII and most commonly throughout his appearances (with slight variations). This uniform comprises of indigo pants with a sleeveless shirt and a belt. Cloud also wears brown boots, gauntlets with a…
 
 ## Tifa Lockhart: las imágenes más grandes de la wiki (302 en total)
 _Fuente: https://finalfantasy.fandom.com/wiki/Tifa_Lockhart_
@@ -74,7 +87,7 @@ _Fuente: herramientas/referencias/_
 
 ```
 · imágenes de finalfantasy.fandom.com (4 páginas y sus galerías)…
-  777 imágenes enlazadas, 339 grandes → 8 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/final-fantasy-vii
+  1186 imágenes enlazadas, 539 grandes → 12 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/final-fantasy-vii
 
 ```
 
