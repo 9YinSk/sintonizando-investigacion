@@ -28,3 +28,4 @@ Cuenta: cuenta A102
 | 11 | texto | Sonnet | 12 | 168 mil |
 | 11 | voz | Sonnet | 12 | 198 mil |
 | 11 | imagen | Sonnet | 16 | 207 mil |
+| 10 | redactor (repaso) | Opus | 16 | 340 mil |
