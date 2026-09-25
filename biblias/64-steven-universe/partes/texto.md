@@ -199,12 +199,41 @@ Lista curada por ScreenRant, con el porqué de cada comparación · [ScreenRant:
 
 ## Lo mejor para la lámina
 
-(pendiente)
+- La estrella de 5 gemas de la Puerta del Templo (`Better Temple Door.png`, punto 25) es el emblema real y más reconocible del grupo — mejor que inventar un logo nuevo para las Crystal Gems.
+- **Crewniverse** (DaFont) es una letra libre y comprobada (tildes, ñ, ¿, ¡ incluidos) que replica las cartelas de título reales de la serie: úsala para cualquier texto largo en español antes que Creditverse (que no tiene tildes).
+- El Gem Glyph (escritura logográfica del mundo) es mucho más fiel que un cartel con letras latinas si la lámina necesita un «cartel del mundo» de fondo — y ya se sabe cómo leerlo: una barra en una de 4 direcciones sobre un rombo indica a qué Diamante se refiere.
+- El Comunicador de las Diamantes (pantalla holográfica octaédrica) es mejor que una burbuja blanca si la lámina necesita mostrar «alguien hablando a distancia».
+- La barra de vida de los videojuegos se llama «harmony», no «HP»: un guiño de vocabulario que un fan reconoce al instante si la lámina toca el canal de videojuegos.
 
 ## No encontré
 
-(pendiente)
+Aquí van las búsquedas obligatorias del encargo que sí hice pero no dieron resultado verificable — no es que el dato «no exista», es que no lo encontré con lo que probé en esta tanda:
+
+- ⚠️ **Letra de los globos, gritos, pensamientos y onomatopeyas del cómic oficial** (BOOM! Studios): no encontré el nombre del rotulista en Fandom, en ComicsAlliance ni en las reseñas que pude abrir (`comicosity.com` no resolvió DNS, dos intentos con la página de ComicsVerse no mencionó lettering). Tampoco pude ver una página completa del cómic para describir a ojo el globo. Búsquedas: «Steven Universe comic BOOM Studios lettering font credits letterer» (inglés), «Steven Universe comic review word balloon speech bubble style Katy Farina art» (inglés), wikitext de `Steven Universe (comic series)` sin la palabra «letter». Pendiente: si el redactor o el investigador de imagen tiene acceso a un número físico o a una vista previa de BOOM con imágenes, se puede completar mirándolo directamente.
+- ⚠️ **Tipografía de la interfaz/HUD de los tres videojuegos** (*Attack the Light*, *Save the Light*, *Unleash the Light*) y de los subtítulos/CC oficiales de Cartoon Network: `gameuidatabase.com` está bloqueado por un reto de Cloudflare (confirmado, coincide con lo que ya anotó otro equipo en `biblias/_ya_hechas/_Cuadros de dialogo por franquicia`). Búsqueda: «Steven Universe game font UI» (inglés).
+- ⚠️ **Contenido descartado de *Save the Light*** en The Cutting Room Floor: `tcrf.net` dio 403 tanto por curl directo como por la copia de Wayback Machine (dos intentos con esa página). La página existe (`https://tcrf.net/Steven_Universe:_Save_the_Light_(Windows)`), simplemente no pude leerla en esta tanda.
+- ⚠️ **Rig o modelo 3D libre de un personaje de Steven Universe** en Sketchfab con licencia libre: no lo busqué a fondo en esta tanda porque el punto 3 (modelos 3D con licencia) es del investigador de imagen; se lo dejo anotado para que lo cruce si hace falta para el punto 18.
+- ⚠️ **Diseño exacto de la caja de diálogo** en los tres videojuegos (forma, color, si tiene retrato) — sin capturas propias verificadas, sólo texto (ver arriba, Game UI Database bloqueado).
 
 ## Bitácora
 
-(pendiente)
+- Fandom (`steven-universe.fandom.com/api.php`, `action=parse&prop=wikitext`, español no aplica — la wiki es en inglés): páginas `Gems`, `Gem_Glyph`, `The_Great_Diamond_Authority`, `The_Cluster`, `Kindergarten`, `Crystal_Temple`, `Diamond_Communicator`, `Attack_the_Light`, `Save_the_Light`, `Unleash_the_Light`, `Steven_Universe_Beach-A-Palooza_Card_Battling_Game`, `Steven_Universe_(comic_series)`, `Keep_Beach_City_Weird_(blog)`, `Rebecca_Sugar`. Búsquedas de texto (`list=search`): «arc season story», «story arc timeline», «Diamond Authority», «text message phone screen», «Temple Gate star», «Soundtrack Attack game», «Beach-A-Palooza card».
+- Wikipedia (inglés, vía WebFetch): `Steven_Universe`, `List_of_Steven_Universe_episodes`, `Rebecca_Sugar`, `Cartoon_Network:_Battle_Crashers` (implícito en la búsqueda).
+- WebSearch (inglés, cupo usado: 13 de ~50): software de animación y Toon Boom; diseño de personajes por formas (Bauhaus); línea, sombreado y color script; fuente del logo; fuente/rotulista del cómic; letterer del cómic; influencias de Rebecca Sugar (Utena, Sailor Moon, Dragon Ball); series parecidas; Adventure Time y Rebecca Sugar; interfaz de Attack the Light y Save the Light; crossover Battle Crashers.
+- WebFetch: `chromosphere-la.com/case-study/steven` (estudio oficial), `cbr.com/anime-that-influenced-steven-universe`, `screenrant.com/steven-universe-shows-watch-if-miss`, `toonboom.com` (blog), `isaacgordon50.wordpress.com` (análisis de estilo), `comicosity.com` (falló, DNS), `comicsverse.com` (no tenía el dato), `boom-studios.com` (sin URLs de imagen extraíbles).
+- Sitios bloqueados o caídos (máximo dos intentos cada uno, según la regla): `tcrf.net` (403, directo y por Wayback), `gameuidatabase.com` (reto de Cloudflare), `comicosity.com` (DNS no resuelve), `web.archive.org` vía WebFetch (rechazado por la herramienta, se intentó por curl y dio 403).
+- Descargas propias verificadas con `fontTools` (no de memoria): `crewniverse_font.ttf` y `creditverse_font.ttf` de DaFont, comprobados carácter por carácter (á é í ó ú, mayúsculas, ñ, Ñ, ¿, ¡, ü). `crystal-universe.zip` no se pudo descargar (0 bytes, dos intentos).
+- No usé YouTube en esta tanda: los seis puntos de mi rol (tipografía, cuadros de diálogo, videojuegos, técnica, obras parecidas, mundo y símbolos) se apoyan en wiki, prensa especializada y páginas oficiales de producción, no en mirar escenas — eso lo cubre el investigador de vídeo.
+
+## Cumplimiento del encargo (mis puntos)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 5 · Tipografía | ⚠️ a medias | Logo, cartelas de título y créditos con letra libre comprobada (2 con fontTools). Faltan: letra de globo/grito/pensamiento/onomatopeya del cómic (rotulista no encontrado) e interfaz de videojuego/subtítulos (sitios bloqueados). |
+| 6 · Cómo hablan y piensan en pantalla | ⚠️ a medias | Objetos reales del mundo (Comunicador de Diamantes, Gem Glyph, blog de Ronaldo) confirmados. Sin verificar: diseño exacto del globo del cómic y de las cajas de videojuego (fuentes bloqueadas o caídas). |
+| 11 · Videojuegos | ✅ hecho | Los 5 juegos de la franquicia (Attack the Light, Save the Light, Unleash the Light, Soundtrack Attack, Beach-A-Palooza) más el crossover Battle Crashers, con mecánicas e interfaz descritas por texto. Sin capturas de UI propias (Game UI Database y TCRF bloqueados). |
+| 18 · Estilo y cómo replicarlo | ✅ hecho | Software real confirmado (Storyboard Pro, estudios coreanos, Chromosphere/After Effects/Blender), diseño por formas (Bauhaus), color script, línea y sombreado, guía de réplica en Photoshop y Blender. Sin rig 3D libre encontrado (a cruzar con imagen). |
+| 24 · Obras parecidas | ✅ hecho | Influencias directas citadas por la autora (Utena, Sailor Moon, DBZ, Evangelion, Gurren Lagann, Captain Harlock) con episodio exacto; lista de series de tono parecido; cruce con la propia biblia de Adventure Time y con el resto de `biblias/`. |
+| 25 · El mundo y sus símbolos | ✅ hecho | Reglas del mundo, arcos de la historia con momentos clave, emblemas (estrella, logo de Diamantes, Gem Glyph descifrado), vocabulario propio, objetos icónicos. |
+
+**Sigue:** completar si aparece acceso — letra de globo/grito/onomatopeya del cómic de BOOM! Studios (rotulista sin identificar) y capturas de interfaz de los tres videojuegos (`tcrf.net` y `gameuidatabase.com` siguen bloqueados). Es lo único obligatorio del punto 5 y 6 que quedó a medias; el resto de mis puntos (11, 18, 24, 25) está completo.

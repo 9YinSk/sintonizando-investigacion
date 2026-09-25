@@ -912,3 +912,236 @@ Hecha por el redactor con los datos de esta biblia. Sirve para Firefly, Canva o 
 - El *star talent*: Omar Chaparro (Po) y Aida López (la Camaleona). Y Tai Lung, que se quedó con **Blas García** porque el famoso no convenció.
 
 **Tráileres en español en Dailymotion** (de `datos-voz.md`): [KFP4 doblado latino](https://www.dailymotion.com/video/x8qj2wr) (FilmAffinity, 5357 vistas) · [«Tráiler oficial español» de KFP4](https://www.dailymotion.com/video/x8qiyjf) (11151 vistas; probablemente el de España ⚠️) · [KFP2 tráiler final](https://www.dailymotion.com/video/x7tzf8o).
+
+## Punto 23 · Colaboraciones y cruces
+
+**Parques temáticos** (los personajes en volumen real):
+- **Kung Fu Panda Land of Awesomeness**, Universal Beijing Resort: la primera zona **totalmente techada** de un parque Universal, con el Palacio de Jade, la Aldea Panda y el Árbol de la Sabiduría Celestial ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Universal_Studios_Beijing) y [web del parque](https://www.universalbeijingresort.com/en/themelands/kungfupanda)).
+- **DreamWorks Theatre featuring Kung Fu Panda: The Emperor's Quest**, Universal Studios Hollywood: Po pide ayuda al público para llevar el «Líquido de Poder Ilimitado» al Palacio ✅ ([Comcast](https://corporate.comcast.com/press/releases/universal-studios-hollywood-celebrates-the-opening-of-dreamworks-theatre-featuring-kung-fu-panda-the-emperors-quest) y [Discover Universal](https://blog.discoveruniversal.com/attractions/dreamworks-theatre-featuring-kung-fu-panda-universal-studios-hollywood/)).
+- Una zona con el mismo nombre en **Dreamworld** (Australia, 2012) ⚠️ una fuente.
+
+**Comida y bebida:** **Kung Fu Tea × Kung Fu Panda 4** (1 al 15 de marzo de 2024): 4 bebidas de edición limitada, *Chameleon's Sesame Matcha*, *The Dragon Warrior*, ***Po's Skadoosh Slush*** (vainilla y Oreo) y *Zhen's Taro Treasure*, con pegatinas de regalo ✅ ([Kung Fu Tea](https://www.kungfutea.com/kung-fu-tea-partners-with-dreamworks-animation-for-kung-fu-panda-4-in-theaters-nationwide-march-8th/) y [PR Newswire](https://www.prnewswire.com/news-releases/kung-fu-tea-partners-with-dreamworks-animation-for-kung-fu-panda-4-in-theaters-nationwide-march-8-302076720.html)).
+
+**Videojuegos de otros** (traen poses y trajes nuevos):
+- **Mobile Legends: Bang Bang × Kung Fu Panda** (20-ago al 18-oct de 2022): skins de evento, **Akai «Kung Fu Panda»**, **Thamuz «General Kai»** y **Ling «Lord Shen»**, con animaciones, gestos e iconos propios ✅ ([Moonton](https://en.moonton.com/news/76.html) y [ONE Esports](https://www.oneesports.gg/mobile-legends/mlbb-kung-fu-panda-skins-rewards/)).
+- **Brawlhalla × Kung Fu Panda** (24-mar-2021, parche 5.05): **Po, Tigresa y Tai Lung jugables** para siempre, mapa «Spirit Realm», modo Showdown, y Shifu, Mantis, Grulla, Mono y Víbora de apoyo ✅ ([Ubisoft](https://news.ubisoft.com/en-us/article/6ThI4zNhqF7ZrAQlPo9YM1/kung-fu-panda-comes-to-brawlhalla) y [Steam](https://store.steampowered.com/news/app/291550/view/3008941395558540620)).
+- **Zooba** (Wildlife Studios): Po en un evento ⚠️ ([una fuente](https://wildlifestudios.com/games/zooba/news/kung-fu-panda-arrives-in-zooba-event/)).
+- Minecraft y Castle Clash: nombrados de pasada, sin fuente propia ⚠️.
+
+**Editoriales:** el manga de Kadokawa y el cómic de Ape Entertainment (punto 1).
+
+**Figuras oficiales** (pose = referencia 3D real):
+- **McFarlane Toys, «Po» de 6"** (Movie Maniacs): muy detallada, con peana impresa, fondo de cartón y tarjeta de arte ✅ ([McFarlane](https://mcfarlane.com/toys/po-kung-fu-panda/) y [Collider](https://collider.com/kung-fu-panda-mcfarlane-figure-image/)).
+- **Mattel, «Master Tigress» (Claw Attack, 5") y «Tai Lung» (Spear Assault, 5")** ⚠️ (sólo una tienda de reventa, ToyWiz).
+
+**Cosplay:** tutorial **«Tigress cosplay tutorial AWESOMENESS»** en [YouTube](https://www.youtube.com/watch?v=kFUeS4i0Yw4): cabeza de tigresa estilo *fursuit*, con materiales y volumen reales ⚠️ (localizado, **no mirado**; sin minuto).
+
+**Actores reales en la promoción** (Openverse, CC BY-SA 2.0): Jack Black y Lucy Liu en la premier de Sídney; Angelina Jolie junto a un render de Tigresa (H3-49).
+
+## Punto 24 · Obras parecidas
+
+- **Mismo estudio, mismo humor:** **Shrek** (encargo 59, ya en la biblioteca): chiste físico, guiños para adultos, protagonista inseguro con mentor ✅ (el cruce está anotado en las dos biblias). En listas de recomendación salen también **El Gato con Botas**, **Madagascar**, **Cómo entrenar a tu dragón** y **Mulan** (mentor, elegido, animales que pelean) ⚠️ (un agregador, tipo BestSimilar).
+- **Cine de artes marciales que el propio equipo cita:** ***Hero*** (2002), ***Tigre y dragón*** (2000) y ***La casa de las dagas voladoras*** (2004), nombradas por Raymond Zibach como fuente de color y encuadre ✅. ***El reino prohibido*** (Jackie Chan y Jet Li, 2008) sale en listas de «si te gustó…» ⚠️.
+- **Bruce Lee, dos veces:**
+  1. El episodio de *LoA* **«Enter the Dragon»** cita la película de 1973 ✅.
+  2. El giro del **Pergamino del Dragón** («no hay ingrediente secreto, eres tú») repite casi punto por punto ***The Silent Flute***, historia que coescribió Bruce Lee y que se filmó como ***Circle of Iron*** (1978): un guerrero busca el «Libro de la Iluminación» y sólo encuentra espejos. La sabiduría está dentro ([ScreenRant](https://screenrant.com/kung-fu-panda-bruce-lee-circle-iron-movie-connection/)) ⚠️ una fuente.
+- **Otras láminas del servidor que se le parecen:**
+  - La «biblioteca sin canal»: Coco (57), Encanto (58), Shrek (59), Toy Story (60), Kung Fu Panda (61) e Intensamente (62). **Ninguna es de artes marciales**: el choque de tema es bajo.
+  - **Riesgo real: el objeto.** Shrek usa «un libro de cuentos que se abre». Aquí debe ser **el Sacred Scroll con figuritas** o **el Pergamino del Dragón reflectante**, nunca «un libro que se abre» genérico.
+  - Toy Story (60) también propone #🎧・demos (choque anotado en el apartado 0; no bloquea).
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**El mundo en cinco líneas** ✅ (fichas [Valley of Peace](https://kungfupanda.fandom.com/wiki/Valley_of_Peace) y [Jade Palace](https://kungfupanda.fandom.com/wiki/Jade_Palace)):
+1. Una **China de fantasía *wuxia*** de animales que hablan: conejos, cerdos, gansos, patos y pandas.
+2. El **Valle de la Paz** está protegido por montañas; lo domina el **Palacio de Jade**, sede de los maestros, al que se sube por una escalinata tallada en el acantilado.
+3. Hace casi mil años, **Oogway** lloró por «los oprimidos» y creó el kung fu para defender a «los suaves y débiles» de «los duros y fuertes».
+4. El **chi** es la energía vital: sana o daña. La Llave de Wuxi manda al rival al **Reino de los Espíritus**; allí está Oogway en KFP3, y de allí vuelve Kai robando chi.
+5. Desde KFP4 el mundo se abre a **Juniper City**, una ciudad costera tipo Times Square, hecha a otra escala para que Po se sienta forastero.
+
+**La historia por arcos** ✅ (cronología de la wiki):
+1. **KFP1** (2008) → *Secrets of the Furious Five* (2008) → *Holiday* (2010): Po, elegido por accidente, vence a Tai Lung y entra en la familia de los Cinco. Momentos: Oogway asciende; «no hay ingrediente secreto»; el Pergamino en blanco; «¡Skadoosh!».
+2. **KFP2** (2011) → *Legends of Awesomeness* (2011-2016) → *Secrets of the Masters* (2011): Po descubre la matanza de los pandas por Lord Shen y aprende la **paz interior** (la gota de agua).
+3. ***Secrets of the Scroll*** (2015): cómo se formaron los Cinco, diez años antes; Tigresa fracasa su primera misión.
+4. **KFP3** (2016): aparece Li, el padre de Po, y la aldea panda; Po aprende el **chi** y vence a Kai. Se pone el traje dorado y recibe el Bastón de Oogway.
+5. ***The Paws of Destiny*** (2018-19) → ***The Dragon Knight*** (Netflix, 2022-23, 3 temporadas, 42 episodios): Po sale del Valle, llega hasta Inglaterra, busca las **Armas Tianshang** con la caballera **Wandering Blade** contra las comadrejas **Klaus** y **Veruca**.
+6. **KFP4** (2024) → *Dueling Dumplings* (2024): Po elige sucesor como Guerrero Dragón (Zhen) y se enfrenta a la Camaleona en Juniper City.
+7. **Futuro:** Jeffrey Katzenberg habló en 2010 de un plan de **seis películas** (Empire, citado por la wiki) ✅.
+
+**Símbolos, objetos y vocabulario que un fan reconoce al instante:**
+- **El Pergamino del Dragón:** rojo y verde, en estuche de metal con dragones dorados; dentro, oro reflectante en blanco ✅.
+- **La Llave del Dedo de Wuxi:** se agarra el dedo del rival con el pulgar y el índice, **meñique en alto**, y se dobla: lo manda al Reino de los Espíritus. Amenaza de Shifu y arma de Po ✅ ([ficha](https://kungfupanda.fandom.com/wiki/Wuxi_Finger_Hold)).
+- **El Árbol del Durazno de la Sabiduría Celestial:** plantado por Oogway en la colina; allí habla con Po y con Shifu ✅.
+- **El Bastón de la Sabiduría** de Oogway (dos modelos 3D libres, punto 3).
+- **El chi (氣/气)** ✅.
+- **El Salón de los Guerreros:** artefactos de maestros, el Moon Pool y los mil pergaminos ✅.
+- **Los Sacred Scrolls** y el **yin-yang** ✅.
+- **Los amuletos de jade** de Kai (H1-43, H2-202).
+- **La fonda «Dragon Warrior Noodles & Tofu»** ✅.
+- **«¡Skadoosh!»:** Jack Black lo usó como etiqueta en su propio anuncio de *TDK* ✅.
+- **Palabras:** Guerrero Dragón, los Cinco Furiosos, paz interior, «no hay accidentes», «no hay ingrediente secreto», *dumplings*.
+
+## 3 conceptos de lámina
+
+Tres ideas distintas: un pergamino que enseña (A), un pergamino que refleja (B) y un cartel tallado (C). Las tres cumplen las reglas del dueño: **objeto real en un sitio real**, pose y cara que van con lo que se dice, textos cortos en la voz de la serie, y **lámina 2** si no cabe.
+
+### A ⭐ #📚・material-de-clase · «El pergamino que enseña»
+
+- **Objeto y sitio:** un **Sacred Scroll** desenrollado sobre una mesa baja, en la **Cueva de los Misterios** bajo el Palacio de Jade, con estanterías de rollos al fondo (son 10.000). En Blender: plano curvado en las dos varas de madera, papel CC0 [`Paper004`](https://ambientcg.com/view?id=Paper004), mesa `chinese_tea_table` de Poly Haven. La tinta sigue la curva del papel. Color del papel bajo la luz jade: `#BFB55B` `#C3C38C`; yin-yang `#4E4D36` (fotograma de [*LoA*](https://static.wikia.nocookie.net/kungfupanda/images/7/75/Sacred-scroll.JPG)).
+- **Personajes:**
+  - **Shifu** explica, con el brazo extendido señalando el pergamino (pose del tráiler de KFP1, [0:48](https://www.dailymotion.com/video/x7b9lb?t=48)); ropa jade de H3-50 o H2-236. Cara seria, orejas alzadas.
+  - **Tigresa**, la más querida por los fans, **hace la postura** de la primera figurita del pergamino: guardia de H1-24 ([Tigress2.jpg](https://static.wikia.nocookie.net/kungfupanda/images/7/71/Tigress2.jpg)). Qipao `#C17128`, pantalón `#211814`. Sin garras.
+- **Cómo habla:** **sin globo**. El texto está **pintado en el pergamino**, como las lecciones de los Sacred Scrolls: figuritas en fila, cada una con su palabra. Letra **Yuji Syuku** (con tildes, ñ, ¿ y ¡) en tinta oscura; título en rojo.
+- **Dónde va cada texto:**
+  - Arriba, junto al yin-yang: **«Material de clase»**.
+  - Tres líneas, una idea cada una: «Lo que se da en clase y los ejercicios de cada alumno.» · «Un hilo por tema o por alumno.» · «Etiqueta si es de doblaje o de canto.»
+  - Las **9 etiquetas**, como 9 figuritas en fila (Doblaje, Canto, Locución, Edición, Grabación de la clase, Ejercicio, Material de apoyo, Para principiantes, Nivel medio).
+  - Al pie, la frase real de Shifu en latino: «Antes de una batalla de puños, viene la batalla de mente.» ✅ (punto 8).
+- **Lámina 2:** «Clase 1 — Respiración y apoyo» con **Po meditando** (pose de [1:43](https://www.dailymotion.com/video/x7zgad7?t=103)) y la gota de agua, y el hilo fijado para los profesores.
+- **Que no quede plano:** luz jade desde arriba y un farol cálido (`wooden_lantern_01`, CC0) delante a la izquierda; rollos al fondo perdiéndose en la oscuridad; una vara del pergamino en primer plano, desenfocada; la sombra de Tigresa cae sobre el papel.
+
+### B #🎧・demos (o #🪪・presentaciones) · «El Pergamino del Dragón»
+
+- **Objeto y sitio:** el **Pergamino del Dragón** abierto, **rojo y verde por fuera, oro reflectante y en blanco por dentro**, con su estuche de metal y dragones dorados al lado. Sitio: la **escalinata del Palacio de Jade al atardecer** (como en el tráiler, [0:48](https://www.dailymotion.com/video/x7b9lb?t=48)). En Blender: metal dorado con poca rugosidad que refleje el cielo `#CD8D43` `#DFB05F`.
+- **Personaje:** **Po**, sentado, sujetando el pergamino con las dos manos (como el *dumpling* de [0:37](https://www.dailymotion.com/video/x7vydwp?t=37)), mirando **su propia cara reflejada** (H3-83). Cara de descubrimiento: ojos muy abiertos ([0:29](https://www.dailymotion.com/video/x88oh56?start=29)) que pasan a sonrisa. Modelo con esqueleto de Sketchfab para posarlo.
+- **Cómo habla:** el oro **se queda en blanco**: sólo refleja. El título va en la banda roja de arriba, en **Rampart One** oro `#F0C42D` con borde `#E66A1D` (como el logo). El resto, en las bandas verdes, en Noto Sans SC.
+- **Dónde va cada texto:**
+  - Banda roja: **«Demos»**.
+  - Bandas verdes: «Tu ficha de doblaje.» · «Un hilo con tu nombre, tus demos y tu rango vocal.»
+  - En boca de Po, como rótulo grande a pincel dentro del dibujo (no globo): una frase suya. La idea de fondo es la del Sr. Ping, «no hay ingrediente secreto»: tu voz ya es el ingrediente. **Confirmar la frase textual en latino antes de rotularla** ⚠️.
+- **Lámina 2:** las **19 etiquetas** en las etiquetas de **los mil pergaminos del Salón de los Guerreros**, uno por etiqueta (Voz masculina, Voz femenina, Anciano, Narración…).
+- **Que no quede plano:** contraluz dorado detrás de Po; el oro del pergamino devuelve la luz a su cara; niebla entre los picos al fondo; el estuche con dragones delante, desenfocado.
+- Para #🪪・presentaciones funciona igual: «es lo que hace que la gente te ponga cara» = el pergamino que te devuelve tu cara.
+
+### C #🌐・general · «La fonda del Sr. Ping»
+
+- **Objeto y sitio:** la entrada de **«Dragon Warrior Noodles & Tofu»**: el **cartel de madera tallado** con caracteres rojos (神龍大侠, 麵) **entre dos dragones**, sobre el **arco de luna**, y el cartel pequeño a juego con la silueta de Po ([fotograma](https://static.wikia.nocookie.net/kungfupanda/images/4/47/Newnoodleshop.jpg), 1920×816). Madera `#974C2F`, letras `#652013`, arco `#BF9256`. En Blender: tabla con relieve (desplazamiento) y la textura de madera [`Wood095`](https://ambientcg.com/view?id=Wood095); las letras se hunden en la madera.
+- **Personajes:** el **Sr. Ping** recibe en la puerta, con **el ala en alto y los ojos muy abiertos** (su gesto de [2:05](https://www.dailymotion.com/video/xaa228o?t=125)); ropa de H2-225. Detrás, **Po** con un cuenco o un *dumpling* en alto ([0:37](https://www.dailymotion.com/video/x7vydwp?t=37)).
+- **Cómo habla:** como el cartel del mundo: **letras talladas y pintadas en rojo** sobre madera. Letra **Yuji Syuku** en `#652013`. Los caracteres chinos reales se quedan como están.
+- **Dónde va cada texto:**
+  - Cartel pequeño junto al arco: **«General»** · «La plaza: aquí se habla de lo que sea.»
+  - Las dos columnas del arco, una frase en cada una: «¿Del oficio? A general-doblaje.» · «¿Tu voz grabada? A demos.» (Que la fonda tenga texto en las columnas **no está en las partes** ⚠️: es una propuesta de diseño; si se prefiere no añadir nada, estas dos frases van a una lámina 2.)
+- **Que no quede plano:** luz cálida del interior saliendo por el arco de luna; **vapor de los fideos** delante del Sr. Ping; un cuenco desenfocado en primer plano; la calle del Valle al fondo con niebla (H3-96).
+
+**Idea de reserva (no desarrollada):** Oogway saltando ante la luna llena ([1:21](https://www.dailymotion.com/video/x2si6nd?t=81)), la silueta más fuerte de la saga según la parte de vídeo, para un canal de eventos o del Escenario.
+
+## Lo que no pude verificar y lo que corregí de las partes
+
+### Correcciones entre partes (lo que el redactor cambió o avisa)
+1. **Listas contaminadas del recolector.** El top de Danbooru de `datos-voz.md` y el fan art de Safebooru de `datos.json` con Hong Meiling, Link, Pikachu, Kirby, Peach y Luffy **no son de Kung Fu Panda**. Tampoco el fondo de Wallhaven de 3840×2160 (♥184, «Omorphia»). **Fuera** de `referencias.json`. La popularidad se midió aparte (punto 7).
+2. **`Kung Fu Panda 3 01.jpg` (H1-11) son Po y su padre Li**, dos pandas, no «Po y Shifu abrazados» como decía la parte de imagen (miré la hoja).
+3. **Números de las hojas.** La parte de imagen sitúa «Kai's amulets» en `personajes_02`: está en **H1-43**. El póster «See it in Real D 3D» no está en `personajes_03`: es **H2-201**. Y los disfraces de la Camaleona en las hojas son **rinoceronte (H2-204), leopardo de las nieves (H2-227), cocodrilo (H3-53) y lobo (H3-63)**; no vi el «elefante» que cita la parte ⚠️.
+4. **El ingrediente secreto es de KFP1, no de KFP2.** La parte de voz, en el punto 13, pone la confesión de la sopa en KFP2; en el punto 21 y en el clip (titulado «(2008)») es KFP1. Lo que el Sr. Ping confiesa en KFP2 sería la adopción (la caja de rábanos) ⚠️. Además, **lo que dice el Sr. Ping en 2:05** del clip [xaa228o](https://www.dailymotion.com/video/xaa228o?t=125) la parte lo describe como «recordando el día en que encontró a Po»: **está por oír** ⚠️.
+5. **El «duelo de los *dumplings*» y «Po vs Tai Lung».** La parte de vídeo da los dos nombres al mismo clip ([x7vydwp](https://www.dailymotion.com/video/x7vydwp)) y asocia la pista «Po Vs Tai Lung» al duelo de *dumplings*. **Quién es el rival en ese clip está por comprobar** ⚠️. Las poses valen igual.
+6. **El sitio del clip de la paz interior.** La parte de vídeo lo llama «Estanque Sagrado de las Lágrimas» (KFP2) y a la vez dice que la pista «Sacred Pool of Tears» es de KFP1. **Nombre del sitio por comprobar** ⚠️; los hex medidos valen.
+7. **Estudio de KFP1.** La ficha dice «Genaud S.A. de C.V.», y en sus datos de interés, que es la primera de DreamWorks **doblada en New Art Dub** desde *Shrek 2*. Parecen el mismo estudio (razón social y nombre comercial) ⚠️.
+8. **Colores de la túnica de Shifu.** Imagen: borgoña con faja marrón (medido en jade desde KFP2). Voz: blanco, naranja y café, según el artbook (p. 34). El blog de simbolismo: marrón = trabajo duro. Las dos citas del significado son de una sola fuente ⚠️.
+9. **La voz de Han** (KFP4): Nicolás Frías (Doblaje Wiki) o Roberto Salguero (SDP Noticias) ⚠️.
+10. **El clip `x22o11a`** («Most Notorious Villain Clip»): la bitácora de voz dice que se usó en el punto 12, pero **no aparece en el texto** de la parte. No se usa aquí.
+11. **Autor del manga.** ANN: guion de Hanten Ōkuma y dibujo de Takafumi Adachi. AniList: Adachi, «Story & Art» ⚠️.
+12. **Tigresa y las garras.** La parte de vídeo describe su salto del tráiler con las «garras por delante»; la wiki dice que nunca las usa en combate. Aquí se escribe «zarpas por delante» y se avisa en la guía de IA ⚠️.
+
+### Lo que no se pudo verificar (queda para quien lo vea u oiga)
+- **Oír:** «¡Skadoosh!» en el doblaje latino; «No hay ingrediente secreto» textual en latino; el tráiler doblado latino de KFP4 (sin transcribir); qué música suena en la sopa y en el pasado de Po.
+- **Ver:** caras propias de tristeza y vergüenza de Tigresa, tristeza de Po, miedo y vergüenza de Shifu, las emociones de Oogway (salvo la serenidad) y del Sr. Ping (salvo dos); las escenas en 1080p; el minuto del pasado de Po (KFP2); una página de cómic con globos; una captura de caja de diálogo o HUD de un juego; el vídeo de cosplay de Tigresa.
+- **Datos:** encuesta oficial de popularidad; alturas y cumpleaños salvo los de Po; la letra del logo (sólo réplica de uso personal), de los subtítulos y de los créditos; una entrevista sobre planos por emoción; vistas de los fandubs; memes hispanos propios; pinceles de tinta libres; modelo 3D libre del Palacio; figuras de Mattel en fuente oficial.
+- **Webs bloqueadas:** YouTube (iniciar sesión), TikTok, TV Tropes (403), Ranker (401), TCRF y Game UI Database (403 de Cloudflare), Variety y la wiki de logos (402).
+
+### Confirmado y dudoso
+- **Confirmado (dos fuentes o visto):** el reparto latino principal y sus directores; el cambio de voz de Shifu; las 11 frases latinas oídas; los fotogramas y minutos del punto 2; los hex de sitios y trajes; el logo medido; las letras abiertas con fontTools; el manga y el cómic; las colaboraciones con Mobile Legends, Brawlhalla, Kung Fu Tea y los parques; los modelos 3D CC BY.
+- **Dudoso (una fuente):** el simbolismo de los colores; los KCA de Omar Chaparro; la comida favorita de Tigresa; la edad de Oogway; la lista de villanos de Ranker; *Circle of Iron*; Zooba y Dreamworld; las tendencias de TikTok.
+
+## Cumplimiento del encargo
+
+Hecha por el redactor con lo que **de verdad** está en esta biblia y en las partes. ✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Los ❌ de la columna «Qué falta» son trozos sueltos de un punto que sí tiene lo demás.
+
+| Punto de `ENCARGO.md` | Estado | Qué hay (y dónde) | Qué falta |
+|---|---|---|---|
+| 1 · Arte oficial variado | ✅ | 283 imágenes de 10 fichas con tamaño real; pósters hasta 2316×3667; hojas de modelo; concept art y hojas de expresiones; fotogramas 3840×1636; 2D oficial; manga japonés y cómic con dos fuentes; 3 hojas citadas número a número | ❌ key visuals o fondos de la web de DreamWorks; artbook no visto directamente |
+| 2 · Fotogramas de escenas icónicas con minuto | ⚠️ | 17 escenas vistas con minuto y enlace (tabla del punto 2) y sus equivalentes oficiales en 1920×816 | Ninguna a 1080p (máximo 1280×720; muchas a 512 px) porque YouTube bloqueó; ❌ minuto del pasado de Po (KFP2) |
+| 3 · Fan art y 3D con licencia | ✅ | Fan art de Po, Shifu, Oogway y Tigresa con tamaño y origen; 11 modelos CC BY de Sketchfab (Po y Tigresa con esqueleto, el bastón de Oogway, *props*); texturas y muebles chinos CC0 de Poly Haven | ❌ modelo libre del Palacio de Jade o del Valle; poco fan art de Tigresa fuera de Wallhaven |
+| 4 · Sitios: luz, paleta y texturas reales | ✅ | 13 sitios con hora, luz y hex medidos con `estilo.py` o Pillow; texturas CC0 de ambientCG y Poly Haven | Textura de musgo sobre piedra (sólo aproximadas) ⚠️ |
+| 5 · Tipografía, una letra por uso | ⚠️ | Logo medido; letra libre para logo, cartel, pergamino, onomatopeya, interfaz y subtítulos, abiertas con fontTools (tildes, ñ, ¿, ¡) | ❌ letra real del logo (sólo réplica de uso personal); ❌ forma y letra propias de globo, pensamiento, interfaz y subtítulos (no identificadas) |
+| 6 · Cómo hablan en pantalla | ✅ | Sacred Scrolls y Pergamino del Dragón (vistos y medidos), narración del juego de 2008, manga japonés visto, cómic, cambio de marco en *TDK*, cartel de la fonda; qué cuadro usar para cada cosa | ❌ una página de cómic con globos |
+| 7 · Personajes y encuestas de popularidad | ⚠️ | Danbooru medido en vivo (Tigresa 80, Tai Lung 37, Po 35); 5 hilos de Reddit con votos; lista de villanos; tabla de quién es quién | ❌ encuesta oficial: no existe o no se encontró; Ranker y TV Tropes sólo por resumen |
+| 8 · Doblaje latino y frases textuales | ✅ | Ficha de las 4 películas (estudio, dirección, traducción); 18 personajes con actor, casi todos en 2+ fichas o prensa; 11 frases oídas con `voz.py` con tono y velocidad | ⚠️ «¡Skadoosh!» en latino; frases de clips doblados con minuto de película; Han sin resolver |
+| 9 · Música y sonido | ✅ | Bandas sonoras de las 4 películas y *TDK* (MusicBrainz); tema de *LoA* con letra; música de las escenas emotivas oída; «¡Skadoosh!» con dos fuentes; sonido de las peleas | ⚠️ música de la escena de la sopa; autoría del tema de *LoA* con una fuente |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | 6 tráileres y 9 escenas mirados con `fotogramas.py`, con minuto; 2 análisis escritos; 3 tendencias | ❌ video-ensayo mirado; tendencias de TikTok sin cifras (TikTok no abre) |
+| 11 · Videojuegos: interfaz y diálogos | ⚠️ | Lista completa con año y estudio; narración del juego de 2008 y HUD de *Showdown* descritos en la wiki; datos de TCRF por resumen | ❌ ninguna captura de caja de diálogo, menú o HUD; TCRF y Game UI Database dieron 403 |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Memes («Skadoosh», el pavo real), Tai Lung y su pantalón, secundarios raros; 9 cosas que no hacer con ejemplos reales (la Camaleona, MrBeast) | Memes con una sola fuente ⚠️ |
+| 13 · Personajes a fondo | ⚠️ | Carácter, historia, miedo, qué le importa, qué transmite, cómo habla (Hz y palabras/s), cuerpo y dinámicas de 6 principales, los Cinco y 4 villanos; tabla de caras con 14 casillas con minuto (11 son de verdad la cara de esa emoción) | ⚠️ **sin cara propia**: tristeza y vergüenza de Tigresa, tristeza de Po, miedo y vergüenza de Shifu, casi todo Oogway y el Sr. Ping (la parte de voz se relanzó dos veces y no las encontró) |
+| 14 · Poses analizadas | ✅ | Po 9, Shifu 6, Tigresa 6, Oogway 6, con minuto, enlace y qué hace; tabla de pose por función | Resolución baja ⚠️; huecos en la tabla (Shifu celebrando, Tigresa pensando, Oogway regañando) |
+| 15 · Vestuario y hex | ✅ | Trajes por película de Po, Shifu, Tigresa, Oogway, Tai Lung, Grulla y Mono; 11 imágenes medidas con `estilo.py`; ropa icónica señalada | Trajes de *Holiday* sólo por la wiki ⚠️; simbolismo del color con una fuente |
+| 16 · Ciudades, paisajes y fondos de pantalla | ✅ | 8 sitios con hora y luz; 10 fondos de Wallhaven con tamaño, enlace y quién lo subió (uno descartado por no ser de la serie); fotogramas oficiales panorámicos como fondo | ❌ fondos oficiales de DreamWorks; Juniper City sin paleta |
+| 17 · Guía para IA de imagen y de texto | ✅ | Hecha por el redactor: base de prompt, rasgos fijos con hex, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, referencias de estilo y pose, cómo se ve cada emoción; voz de cada uno y frases reales por emoción | ⚠️ algunas frases «sabias» y «animando» son traducción, no textuales del doblaje; «¡Skadoosh!» sin versión latina |
+| 18 · Estilo, técnica y cómo replicarlo | ⚠️ | Zibach, Tang Heng, Nico Marlet; 2D de James Baxter, Reel FX y Film Roman; teatro de sombras; Go-Po y el *rig* de 8.130 controles; recetas para Blender y Photoshop | ❌ entrevista sobre qué plano se usa para cada emoción; los dos 2D de KFP2 con una fuente |
+| 19 · Texturas 2D | ✅ | Manga, cómic y secuencias 2D; 8 emblemas y patrones; papel y tela CC0 | ❌ pinceles de tinta china con licencia libre |
+| 20 · Gustos y detalles | ⚠️ | Tabla de 7 personajes: altura y peso de Po, nombres y su significado, comida de Tigresa, objetos, chistes propios | ❌ alturas y cumpleaños del resto; comidas favoritas salvo Po y Tigresa; no hay *databook* |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | 5 razones con fuente; 4 escenas que hacen llorar con qué pasa, por qué duele, música y dibujo; 5 de risa o emoción | ❌ minuto del pasado de Po (KFP2); música de dos escenas; cifras de reacción a la muerte de Oogway |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 4 fandubs latinos con canal y enlace; la escuela Da Vinci; notas del doblaje para la comunidad; por qué no hay covers de opening | ❌ vistas (YouTube bloqueado); ❌ meme hispano propio con fuente |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 2 parques con dos fuentes; Kung Fu Tea; Mobile Legends y Brawlhalla con dos fuentes; figura de McFarlane; manga y cómic | Mattel, Zooba y Dreamworld con una fuente ⚠️; cosplay sin mirar |
+| 24 · Obras parecidas | ✅ | Shrek (cruce en las dos biblias), cine *wuxia* citado por el propio equipo, Bruce Lee y *Circle of Iron*, comparación con la biblioteca del servidor | Recomendaciones de agregador con una fuente ⚠️ |
+| 25 · Mundo, historia y símbolos | ✅ | El mundo en 5 líneas; 7 arcos con sus momentos; 11 símbolos y vocabulario | — |
+| Conceptos de lámina (3) | ✅ | A #📚・material-de-clase ⭐ (Shifu y Tigresa, Sacred Scroll), B #🎧・demos (Po, Pergamino del Dragón), C #🌐・general (Sr. Ping, fonda); con sitio, objeto de Blender, personaje y pose, letra, sitio de cada texto, lámina 2 y profundidad | Confirmar la frase latina del concepto B; el texto en las columnas de C es propuesta ⚠️ |
+| Fuentes distintas (40) | ✅ | 52 dominios enlazados en esta biblia (unos 46 sitios si se juntan subdominios), más los citados por nombre en la bitácora | — |
+| Tipo: oficiales | ⚠️ | AWN (Zibach), Art of the Title, NBCUniversal (KFP4), Moonton, Ubisoft, Comcast, Universal Beijing, Kung Fu Tea, McFarlane, web oficial vía la wiki | Artbook no visto directamente; comentarios del Blu-ray; web y redes de DreamWorks no consultadas |
+| Tipo: otros idiomas | ⚠️ | Inglés y español; el manga japonés, por ANN, AniList y dos páginas vistas | No se buscó en japonés ni en chino nativos (obra estadounidense, ambientada en China) |
+| Tipo: wikis, TV Tropes, TCRF y Wayback | ⚠️ | Fandom (kungfupanda), Doblaje Wiki, dubdb, Wikipedia | TV Tropes, TCRF y Game UI Database dieron 403; Wayback no se usó |
+| Tipo: foros y comunidades | ⚠️ | Reddit r/kungfupanda (hilos con votos), hilo de la wiki | 4chan, Discords públicos y Tumblr no buscados |
+| Tipo: arte | ⚠️ | Safebooru, Danbooru, Wallhaven; Pixiv, FurAffinity, X, Tumblr y DeviantArt como origen | ArtStation y Pixiv no buscados directamente |
+| Tipo: vídeo | ⚠️ | Dailymotion e Internet Archive: tráileres, escenas y un corto entero mirados | YouTube y TikTok bloqueados |
+| Tipo: código y recursos | ✅ | API de Sketchfab, ambientCG, Poly Haven, Fontsource y fontTools, MusicBrainz | GitHub no usado |
+| Tipo: doblaje latino | ✅ | Doblaje Wiki por API (4 fichas y 5 muestras oídas), dubdb, prensa (El Sol de México, SDP Noticias, Milenio, Univision) | ANMTV y entrevistas en YouTube no |
+| Hojas de contacto (3) | ✅ | `personajes_01.jpg`, `personajes_02.jpg`, `personajes_03.jpg`, miradas y citadas número a número | — |
+| `referencias.json` | ✅ | Todas las útiles de las partes y de `datos.json`, las mejores primero, sin las listas contaminadas | Muchas no son imágenes (audio, modelos, texturas, fuentes): van sin tamaño |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y la del recolector, todo del 25-sep-2026. **Idiomas:** inglés y español. **No se buscó en japonés ni en chino nativos**: Kung Fu Panda es una producción estadounidense (DreamWorks); el único material japonés, el manga de Kadokawa, se documentó por ANN, AniList y dos páginas vistas. Si se retoma: `カンフー・パンダ 漫画` y búsquedas en chino sobre Universal Beijing.
+
+### Paso 0 · Recolector (`herramientas/recolectar.py`, sin IA)
+- Respondieron: [AniList](https://anilist.co/manga/90886) (sólo el manga), Doblaje Wiki (ficha y reparto de KFP1, datos de interés), Fandom (`kungfupanda`), Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse, Dailymotion, Internet Archive, MusicBrainz, Steam (vacío) y Reddit.
+- Falló: AnimeThemes (HTTP 522). No aplica: la saga no tiene openings de anime.
+- Contaminado: el top de Danbooru y parte del fan art (otras series). Descartado (ver correcciones).
+
+### Imagen (puntos 1, 3, 15, 16, 19, 23)
+- `investigar_serie.py --wiki kungfupanda` sobre 10 páginas → 283 imágenes, 6 hojas, todas miradas; 3 copiadas a `hojas/`.
+- API de la wiki en inglés (`action=parse&prop=wikitext`): Jade Palace, Valley of Peace, Spirit Realm, Po, Shifu, Tigress, Oogway, Tai Lung, Crane, Monkey, Furious Five action figures.
+- `estilo.py` sobre 14 imágenes de `static.wikia.nocookie.net`.
+- API de Sketchfab en inglés: «Jade Palace», «Valley of Peace», «Dragon Scroll», «Oogway staff», «Chinese pagoda».
+- API de Poly Haven (bambú, muebles chinos, papel, farolillos); API de ambientCG («paper», «fabric»); API de Openverse («chinese cloud pattern fabric», «ink brush stroke texture»: sin pinceles libres).
+- AniList GraphQL: ficha del manga (id 90886).
+- Buscador web, 9 de ~50, en inglés: diseño de personajes y color; Universal Land of Awesomeness; cómic de Ape Entertainment; manga de 2008; secuencia 2D del sueño; cosplay; figuras McFarlane y NECA; colaboraciones de móviles, Fortnite o gachas; Mobile Legends y Kai; Brawlhalla.
+- No encontrado: modelo libre del Palacio; página suelta del manga o del cómic con licencia; pinceles de tinta libres; ficha oficial de Mattel; segunda fuente de Dreamworld y Zooba; la entrevista original sobre el simbolismo del color.
+
+### Vídeo (puntos 2, 4, 9, 10, 14)
+- YouTube: bloqueado por inicio de sesión; no se insistió. Todo por **Dailymotion** y dos por **Internet Archive**. `yt-dlp -F` confirmó que esas copias sólo existen en baja resolución.
+- API de Dailymotion, en inglés: «Kung Fu Panda official trailer», «Legends of Awesomeness intro», «The Dragon Knight trailer», «Skadoosh scene», «Oogway there are no accidents», «Inner Peace scene», «Po vs Tai Lung final battle», «Kung Fu Panda 2 Po origin flashback», «Kung Fu Panda 3 Po meets father Li», «Legends of Awesomeness opening theme song», «Po Oogway death scene», «meme office», «Legends of Awesomeness episode 1 full», «Dragon Knight opening credits».
+- En español: «Kung Fu Panda escena icónica», «Kung Fu Panda paz interior minuto» (nada nuevo).
+- `archive.org/advancedsearch.php`: «Kung Fu Panda Legends of Awesomeness». Encontrado también el [DVD de *The Scorpion Sting*](https://archive.org/details/opening-to-kung-fu-panda-legends-of-awesomeness-the-scorpion-sting-2013-dvd), que no es la cabecera de la serie.
+- MusicBrainz: listas de pistas de KFP1 y KFP2. Wikipedia: *Legends of Awesomeness* y «Panda Boi» (descartado, no es de la saga).
+- ambientCG: «Moss», «Bamboo», «WoodPlanks», «RoofingTiles», «StoneWall», «Moss002», «Wood», «Tile».
+- Buscador web, 4 de ~50, en inglés: tendencia «Skadoosh» en TikTok; quién canta el tema de *LoA*; video-ensayos sobre la fotografía de la saga; tendencia «office guy» 2024.
+- No encontrado: video-ensayo que se pudiera mirar; cifras de tendencias de TikTok; musgo sobre piedra CC0; la cabecera animada de *LoA*.
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+- Doblaje Wiki por API: Kung Fu Panda 1 a 4 y Omar Chaparro. [dubdb](https://dubdb.fandom.com): Kung Fu Panda, versión latina.
+- Wiki en inglés por API: Po, Shifu, Tigress, Oogway, Tai Lung, Mr. Ping, Monkey, Mantis, Viper, Crane, Shen, Kai, The Chameleon, Zhen.
+- Danbooru `counts/posts.json`: `kung_fu_panda`, `po_(kung_fu_panda)`, `tigress_(kung_fu_panda)`, `master_shifu`, `tai_lung`, `oogway`, `master_tigress`.
+- `voz.py` (Whisper y Parselmouth) sobre 5 muestras `.ogg` de KFP3: Po, Shifu, Tigresa, Oogway y Kai.
+- `fotogramas.py` sobre los tráileres `x88nbws` y `x88oh56`, el corto *Secrets of the Furious Five* (Archive, 1415 s) y, en la 2.ª tanda, `x22o11a`, `x7vtk1n`, `xa9x3qe` y `xaa228o`. Descartado `x8uxhl4` («Secrets of the Scroll»): no se pudo identificar al personaje.
+- Buscador web, ~18 de ~50 (en español salvo que se indique): «Kung Fu Panda personaje favorito encuesta ranking» · «Omar Chaparro voz de Po entrevista doblaje» · «ANMTV Kung Fu Panda 4 doblaje latino reparto» · «Pedro Armendáriz Jr. Shifu doblaje fallecimiento» · «"La Camaleona" Kung Fu Panda 4 doblaje latino Aida López» · «Oogway muerte escena fans llorar reddit reaction» (inglés) · «"skadoosh" meme viral» (inglés) · «Kung Fu Panda fandub español latino youtube canal» · «Kung Fu Panda 4 review why fans love reception» (inglés) · «"no secret ingredient" ending emotional» · «"Ensemble Dark Horse" TV Tropes» (inglés) · «"Memetic Mutation" TV Tropes» (inglés) · «Kung Fu Panda 2 Po discovers parents scene fans cried» (inglés) · «MrBeast Panda Pig reacción fans molestos» · «Kung Fu Panda 4 Chameleon bad villain criticism» (inglés) · «Kung Fu Panda meme español», «parodia latino», «TikTok español viral».
+- Fallaron: tvtropes.org (403, dos páginas), ranker.com (401), YouTube (iniciar sesión, dos intentos por vídeo).
+- No encontrado: encuesta oficial; la gala de los KCA de Omar Chaparro; «¡Skadoosh!» en latino; alturas y cumpleaños salvo Po; varias caras por emoción (punto 13); meme hispano propio; vistas de los fandubs; cifras de Reddit sobre la muerte de Oogway.
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+- Wiki en inglés por API: Kung Fu Panda (franchise), The Game, 2: The Game, Showdown of Legendary Legends, Kung Fu Panda World, The Board Game, Dragon Scroll, Secrets of the Scroll, Secrets of the Furious Five, Kung Fu Panda Issue 1, Kung Fu Panda (manga), Legends of Awesomeness, The Dragon Knight, Sacred Scrolls, Wuxi Finger Hold, Peach Tree of Heavenly Wisdom, Chi, Valley of Peace, Jade Palace; `list=allpages` (2145 páginas) y `list=search`.
+- Imágenes miradas con Read: dos páginas del manga, dos del cómic, el Sacred Scroll, el logo oficial y los títulos de *TDK*.
+- fontTools sobre 8 letras: Rampart One, Noto Sans SC, Yuji Boku y Yuji Syuku (completas); Long Cang, Ma Shan Zheng, Zhi Mang Xing y Liu Jian Mao Cao (sin tildes, ñ ni ¿ ¡).
+- Buscador web, 10 de ~50, en inglés: secuencias 2D planas; pintura a la aguada y el director de arte; la letra del logo (dos búsquedas); obras parecidas *wuxia*; Bruce Lee y *Enter the Dragon*; `site:tcrf.net`; y 3 de apoyo.
+- WebFetch que funcionó: AWN, Art of the Title, el blog de *The Art of Kung Fu Panda 3*, NBCUniversal, ScreenRant. Falló: la wiki de logos y Variety (402), [tcrf.net](https://tcrf.net) (403, dos intentos), [Game UI Database](https://www.gameuidatabase.com) (403, dos intentos).
+- No encontrado: globo de pensamiento o de grito propio; la letra real del logo; la letra de subtítulos y créditos; una página de cómic con globos; una captura de HUD o caja de diálogo; una entrevista sobre planos por emoción.
+
+### Redactor
+- Leídas las cuatro partes, los `datos-*.md`, `datos.json` y los cinco `.json`; miradas las 3 hojas enteras (de ahí las correcciones 2 y 3).
+- Sin búsquedas nuevas: todo lo de esta biblia sale de las partes.

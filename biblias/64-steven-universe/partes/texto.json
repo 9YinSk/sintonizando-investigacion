@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://www.dafont.com/crewniverse.font",
+    "fuente": "DaFont (MaxiGamer)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente libre que replica la letra de las cartelas de título de cada episodio de Steven Universe (y el logo del tumblr del Crewniverse). Descargué el .ttf y comprobé con fontTools (getBestCmap): SÍ trae á é í ó ú, Á É Í Ó Ú, ñ, Ñ, ¿, ¡ y ü.",
+    "para_que": "Punto 5: letra libre para las cartelas de título de la lámina, con tildes y tantos comprobados.",
+    "licencia": "100% Free (según su ficha de DaFont)"
+  },
+  {
+    "url": "https://www.dafont.com/creditverse.font",
+    "fuente": "DaFont (MaxiGamer)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente libre que replica la letra de los créditos finales de Steven Universe. Comprobado con fontTools: NO trae tildes, ñ, ¿ ni ¡ (0 de 14 caracteres probados).",
+    "para_que": "Punto 5: sólo sirve para palabras sueltas sin tilde/ñ en la lámina (p. ej. nombres propios); para texto largo en español hay que sustituir caracteres a mano.",
+    "licencia": "100% Free (según su ficha de DaFont)"
+  },
+  {
+    "url": "https://www.dafont.com/crystal-universe.font",
+    "fuente": "DaFont (MaxiGamer)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente libre que replica el logo de Steven Universe. No pude comprobar sus caracteres con fontTools: la descarga del .zip falló dos veces (0 bytes).",
+    "para_que": "Punto 5: candidata para el título/logo de la lámina, pendiente de comprobar tildes/ñ/¿/¡ antes de usarla en texto largo.",
+    "licencia": "100% Free según la ficha de DaFont (sin comprobar el archivo real)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/2/27/The_Reef_gem_glyph.webp",
+    "fuente": "Fandom (steven-universe.fandom.com), imageinfo por API",
+    "ancho": 629,
+    "alto": 617,
+    "que_es": "Notas de Steven Sugar (diseñador de fondos) sobre el Gem Glyph de la colonia «The Reef», del artbook End of an Era.",
+    "para_que": "Puntos 5 y 25: referencia directa de cómo se construye el glifo gema (la escritura logográfica del mundo).",
+    "licencia": "© Cartoon Network / Warner Bros. Discovery. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/7/7d/Homeworld_banner_zoomed_in.PNG",
+    "fuente": "Fandom, imageinfo por API",
+    "ancho": 366,
+    "alto": 516,
+    "que_es": "Banner con Gem Glyph a la entrada de la residencia de las Diamantes en Steven Universe Future, con el logo de las Diamantes invertido (Steven/Rosa arriba tras la película).",
+    "para_que": "Punto 25: ejemplo real del logo de la Diamond Authority y de cómo cambia tras la reforma de Era 3.",
+    "licencia": "© Cartoon Network / Warner Bros. Discovery. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/6/6a/Little_Homeschool_259.png",
+    "fuente": "Fandom, imageinfo por API (fotograma del episodio «Little Homeschool»)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma con carteles en Gem Glyph en el fondo de Little Homeworld.",
+    "para_que": "Punto 5 (cartel del mundo) y punto 25 (vocabulario visual): cómo se ve el glifo en un cartel real de la serie, en 1080p.",
+    "licencia": "© Cartoon Network / Warner Bros. Discovery. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/e/eb/Better_Temple_Door.png",
+    "fuente": "Fandom, imageinfo por API",
+    "ancho": 1953,
+    "alto": 3105,
+    "que_es": "La Puerta del Templo con la estrella de 5 gemas (rosa, crema, morada, roja, azul) que identifica a cada Crystal Gem — el emblema más repetido de la franquicia.",
+    "para_que": "Punto 25 (emblema principal del grupo) y guía de imagen (punto 17, del redactor): referencia exacta del símbolo antes de dibujarlo en una lámina.",
+    "licencia": "© Cartoon Network / Warner Bros. Discovery. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/d/d5/Diamond_Communicator.png",
+    "fuente": "Fandom, imageinfo por API",
+    "ancho": 1000,
+    "alto": 1034,
+    "que_es": "El Comunicador de las Diamantes: objeto octaédrico que proyecta una pantalla holográfica para hablar a distancia con una Diamante.",
+    "para_que": "Punto 6: el objeto que hace de «videollamada» en el mundo de la serie, útil si una lámina necesita mostrar comunicación a distancia sin una burbuja de cómic genérica.",
+    "licencia": "© Cartoon Network / Warner Bros. Discovery. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/c/c4/Attack_The_Light.png",
+    "fuente": "Fandom, imageinfo por API",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Icono/arte de portada de Steven Universe: Attack the Light (2015, GrumpyFace Studios), el primer videojuego de la franquicia.",
+    "para_que": "Punto 11: identificación visual del primer juego (RPG estilo Paper Mario, descatalogado en dic. 2024).",
+    "licencia": "© Cartoon Network / Warner Bros. Discovery / GrumpyFace Studios. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/9/95/SU_Beach-A-Palooza_Beauty_Shot.png",
+    "fuente": "Fandom, imageinfo por API",
+    "ancho": 1655,
+    "alto": 916,
+    "que_es": "Foto del producto del juego de cartas «Steven Universe Beach-a-Palooza Card Battling Game» (Cryptozoic Entertainment, dic. 2020, sólo para mecenas de Kickstarter).",
+    "para_que": "Punto 11: el videojuego/juego de mesa menos conocido de la franquicia, con mecánica de formar una banda musical.",
+    "licencia": "© Cartoon Network / Warner Bros. Discovery / Cryptozoic Entertainment. Sólo referencia."
+  },
+  {
+    "url": "https://chromosphere-la.com/case-study/steven/",
+    "fuente": "Chromosphere LA (estudio oficial de producción de las secuencias de la película)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Caso de estudio propio del estudio que animó la intro de Steven Universe: The Movie: confirma After Effects para composición, Blender para elementos 3D (la gema giratoria del teaser), colorscript de Elle Michalka y la textura granulada deliberada.",
+    "para_que": "Punto 18: fuente oficial y directa para 'cómo replicarlo' (Blender + After Effects reales del propio equipo).",
+    "licencia": "Página promocional pública del estudio; sólo consulta, no se descarga nada de aquí."
+  },
+  {
+    "url": "https://www.cbr.com/anime-that-influenced-steven-universe/",
+    "fuente": "CBR (Comic Book Resources)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo que desglosa, episodio por episodio, las referencias visuales de Steven Universe a Revolutionary Girl Utena, Sailor Moon, Dragon Ball Z, Neon Genesis Evangelion, Tengen Toppa Gurren Lagann y Captain Harlock.",
+    "para_que": "Punto 24: base de las influencias/obras parecidas citadas con episodio exacto.",
+    "licencia": "Artículo periodístico; sólo consulta y cita, no reproducir imágenes de ahí."
+  },
+  {
+    "url": "https://screenrant.com/steven-universe-shows-watch-if-miss/",
+    "fuente": "ScreenRant",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de 10 series recomendadas a quien le gustó Steven Universe (The Owl House, Gravity Falls, She-Ra, etc.) con el motivo de cada comparación.",
+    "para_que": "Punto 24: series de tono parecido, para proponer canal y no repetir ideas ya usadas en otras láminas del servidor.",
+    "licencia": "Artículo periodístico; sólo consulta."
+  },
+  {
+    "url": "https://www.upi.com/Entertainment_News/2016/08/18/Cartoon-Network-Battle-Crashers-Adventure-Time-Steven-Universe-team-up-in-new-game/7091471540606/",
+    "fuente": "UPI",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota de prensa sobre Cartoon Network: Battle Crashers (2016), el beat 'em up crossover donde Steven Universe es personaje jugable junto a Adventure Time, Gumball, Regular Show y Clarence.",
+    "para_que": "Punto 11: confirmación del crossover con fuente de prensa (más Wikipedia y Fandom).",
+    "licencia": "Artículo periodístico; sólo consulta."
+  }
+]
