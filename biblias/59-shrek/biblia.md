@@ -993,3 +993,28 @@ Tres ideas distintas: un **libro**, un **letrero** y un **periódico**, en tres 
 - **Que no quede plano:** faroles dorados como luces puntuales; la capa del Gato delante del papel; el rodillo en primer plano desenfocado; el salón y la fiesta detrás con profundidad de campo.
 - **No poner en la lámina fija** la noticia de Obregón y *Shrek 5*: caduca y es delicada. Sirve para un evento o un aviso aparte.
 
+## Lo que no pude verificar y lo que corregí de las partes
+
+### Correcciones entre partes (lo que el redactor cambió o avisa)
+1. **Numeración de las hojas.** La parte de imagen cita en `personajes_02.jpg` los n.º 64, 65, 174, 193-195 y 197-198. **Esa hoja va del 49 al 96**: las guías oficiales son H2-49, H2-50, **H2-54** y **H2-55**. El libro de cuentos (174, 193-195) y los *stills* de *Shrek 5* (197-198) estaban en hojas automáticas de `herramientas/referencias/shrek/`, que **ya no están en el contenedor** ⚠️.
+2. **H2-63 no es el libro de cuentos.** `New_theatrical_opening_of_Dreamworks.jpg` (2880×1609) es el logo de DreamWorks, el niño que pesca en la luna, con Shrek, Fiona y Burro en la colina. `imagen.json` lo describía como página del libro; en `referencias.json` va corregido. El libro de verdad es el fotograma de 0:58.
+3. **Dos copias de *Shrek* con relojes distintos.** Vídeo usó Archive (90:04); voz usó Dailymotion (66:03, más corta). Ejemplo: la transformación es 1:19:50 en una y (DM) 1:02:00 en la otra. En esta biblia, los de Dailymotion llevan **(DM)**.
+4. **La patada de Fiona a los hombres de Robin Hood, «~21:54-22:56».** En esa misma copia, a 21:00 está el torneo de Duloc y Fiona aún no ha salido (el puente a la dragona es 30:03). **Ese minuto no cuadra** ⚠️. Para la pose, usar el render H1-1.
+5. **La cebolla «en la fogata, 43:54».** La parte de vídeo pone ahí «los ogros son como las cebollas», pero la de texto (página «Onions» de la wiki) dice que se dice **en un campo de verduras, camino del castillo**, y el render H1-44 es de día. La fogata de 43:54 es una escena de noche junto al fuego; **qué se dice en ella no está confirmado** ⚠️.
+6. **Fortnite y Vans.** La parte de imagen escribió «confirmé que no existen». Por la regla del encargo, aquí va como «**no encontré** colaboración oficial; dos fuentes la tratan como rumor».
+7. **¿Vuelven Derbez y Dulce Guerrero en *Shrek 5*?** La parte de voz dice que sí. Un vídeo de Milenio en `datos-voz.md` se titula «Eugenio Derbez revela que su doblaje latino de *Shrek 5* podría no ser una realidad», sin fecha vista ⚠️. **Comprobar.**
+8. **Fecha del teaser de *Shrek 5*.** Imagen: 1-jul-2026 (Bleeding Cool, ResetEra). Voz: junio de 2026 (Infobae, 16-jun). Puede que fueran dos avances distintos ⚠️.
+9. **Los trillizos en *Shrek 5*.** La parte de texto nombra «Fergus, Farkle y Tutti Oats»; las fichas de personaje dicen Fergus, Farkle y **Felicia** (que hará Zendaya). «Tutti Oats» es dudoso ⚠️.
+10. **El más querido.** La parte de voz da dos órdenes (el Gato primero por búsquedas agregadas; Burro primero en Entretería). No hay encuesta oficial. La biblia elige **Burro** para Latinoamérica y **el Gato** como el más querido fuera, y lo marca ⚠️.
+11. **Listas contaminadas del recolector.** El top de Danbooru y 33 fan arts de `datos.json` (Hatsune Miku, Link, Pikachu, Gawr Gura, Frieren…) no son de Shrek. **Fuera** de `referencias.json`.
+
+### Lo que no se pudo verificar (queda para quien lo vea u oiga)
+- **Oír:** el rugido y los efectos de sonido; quién dice cada trozo de la muestra de la cebolla; «¡Fuera de mi pantano!» en latino; las muestras sin transcribir de Jengi, Farquaad, el Espejo y el coro de Duloc.
+- **Ver:** el minuto de «Hallelujah» en *Shrek*; los ojos de cachorro del Gato; el ataque de pánico de *El último deseo* con fotograma propio; las caras de vergüenza y tristeza (punto 13); una página interior de los cómics; un menú de videojuego en alta.
+- **Datos:** encuesta oficial de popularidad; cumpleaños y alturas de Fiona, el Gato y Farquaad; la letra de subtítulos, créditos y menús; entrevista sobre planos por emoción; vistas de fandubs y covers; cosplay con autor.
+- **Webs bloqueadas:** TCRF, TV Tropes, MobyGames y Font Meme (403 o Cloudflare); Wayback, bloqueada por la red del contenedor; YouTube (iniciar sesión, 429); TikTok.
+
+### Confirmado y dudoso
+- **Confirmado (dos fuentes o visto):** el reparto latino principal y sus directores; Banderas en tres idiomas; Del Toro de voz; Obregón fuera de *Shrek 5*; los 19 fotogramas del punto 2; los hex del vestuario y de los sitios; las letras libres con fontTools; el HUD de *SuperSlam*; Crocs × Shrek; la técnica de PDI (SSS, luz que rebota).
+- **Dudoso (una fuente):** el origen del logo (Fonts In Use); Bouwsma Uncial como letra del libro; los cumpleaños y la altura de Shrek; la fecha de *Shrek 5*; el spin-off de Burro; los minutos del ataque de pánico; las tendencias de TikTok.
+
