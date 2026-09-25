@@ -1603,6 +1603,705 @@ extra fingers, basketball hoop, soccer, 3d, blurry`.
 - Firefly y Canva cambian sus opciones a menudo: **no comprobé** hoy qué
   permite cada una con imágenes de referencia ⚠️.
 
+### 18.7 Lo que añade la segunda pasada (P18-P25)
+
+**Para la IA de imagen**:
+- **Nunca efectos de poder**: ni rayos, ni auras, ni remates imposibles.
+  El autor lo evita a propósito (P18.1). Palabras que lo estropean:
+  `glowing aura`, `energy beam`, `lightning`, `fire trail`, `magic`.
+- **Palabras que ayudan** (de P18): `flat cel shading, two-tone
+  shadows, solid black shadow under the chin, thin uniform lineart,
+  realistic volleyball technique, harsh gym lighting`. Para un remate:
+  `cut-in close-up, thicker ink lineart, near monochrome`.
+- **Referencias nuevas**: pose de **equipo** → key visual del café
+  (P23.2); pose de **celebrar** → figura de Bokuto de Ichiban Kuji
+  (P23.3); versión ***chibi*** → Nendoroid de Hinata (P23.3); **escudos**
+  para el pecho o un sello → P19.1.
+
+**Para la IA de texto**:
+- **Detalles que suenan a la serie** (P20): Kageyama y su cartón de
+  leche; Nishinoya y sus camisetas con dichos de cuatro kanji; Kenma,
+  que «odia cansarse»; Bokuto en «modo depre» con el pelo desinflado.
+- **Lemas de los equipos** (P25.3) como remate de una frase: 「飛べ」
+  «¡Vuela!», 「繋げ」 «¡Conecta!».
+- **Guiños del doblaje latino** (P22.5) sólo si la lámina es de
+  doblaje: «¡No contaban con mi astucia!» es de Tanaka, no de otro.
+
+## Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+Segunda pasada (25-sep-2026), con lo del investigador de texto
+(`partes/texto.md`). Va con §5.2 (colores medidos), §3.5 (entrevistas
+del staff), §4 (modelos 3D) y §18 (guía para la IA).
+
+### P18.1 La línea y el sombreado
+
+- **Casi todo el partido es realista.** En los **remates clave** cambia
+  de golpe: «a complete switch from realism to exaggeration that favors
+  thicker ink-like linework». Es como un *cut-in* de videojuego, que
+  hasta ignora la perspectiva de la cancha.
+  [Sakuga Blog, 4-feb-2020](https://blog.sakugabooru.com/2020/02/04/the-evolution-of-haikyuus-exceptional-production-refining-reality/)
+  ✅ (coincide con la entrevista de Liang, abajo).
+- **Takahiro Chiba**, director de animación jefe
+  ([AniList, staff](https://anilist.co/anime/20464/staff)): pliegues de
+  ropa y pelo con detalle, rasgos de la cara realistas. Sakuga Blog +
+  AniList ✅.
+- **Shinji Suetomi** da volumen, *timing* calculado y un contacto con el
+  balón «perfecto». **Takashi Mukouda** hace lo contrario: «dobla la
+  realidad» sin perder la anatomía, para la emoción pura del clímax.
+  Sakuga Blog ⚠️ (una fuente).
+- **BoYa Liang**, animadora del remate de «Mad Dog» (T2): pone **la mano
+  del personaje delante de la cámara**, tapando la cara, justo antes del
+  impacto. Usa una **imagen casi monocroma** para que se note la textura
+  de la línea, a propósito, por «el estilo áspero de Furudate» en el
+  manga. 1,5 días para el boceto y casi 4 para los intermedios.
+  [Wave Motion Cannon, 22-dic-2016](https://wavemotioncannon.com/2016/12/22/interview-haikyuus-boya-liang/) ✅.
+- **Color plano**, sin degradado dentro de la prenda. **Barbilla,
+  cuello y algunas puntas del pelo** llevan sombra **negra sólida**. Las
+  luces del flequillo son trazos rectos, gruesos arriba y finos abajo.
+  [Tutorial de enzirin en DeviantArt](https://www.deviantart.com/enzirin/art/ART-TUTORIAL-Haikyuu-Art-Style-Old-Animation-866245874)
+  ⚠️ (fan, una fuente; cuadra con los colores planos medidos en §5.2).
+- **El vóley es de verdad.** El olímpico **Erik Shoji** dijo que «the
+  technique in this anime is very high-quality» y que los saques llegan
+  a unas 70 millas por hora, como en el profesional.
+  [CBR](https://www.cbr.com/how-realistic-is-haikyuu-volleyball/) ⚠️
+  (falta el vídeo original de Shoji).
+- **Sin técnicas especiales.** Furudate: 「ただ、『独創的でかっこいい
+  所謂"少年漫画的必殺技"』に対して、常に憧れと劣等感は有ります。」 →
+  «Siento admiración y a la vez complejo de inferioridad ante esas
+  técnicas especiales tan de shonen». [Volleyball Magazine](https://vbm.link/5437/)
+  ⚠️ (una fuente). **Regla**: en una lámina de Haikyuu!! nunca va un
+  rayo, un aura ni un remate imposible.
+
+### P18.2 Quién lo hizo y con qué programas
+
+| Qué | Dato | Estado |
+|---|---|---|
+| Estudio | Production I.G | AniList ✅ (y §3.5) |
+| Dirección | Susumu Mitsunaka en T1-T3, «painstakingly realistic»; viene de animar béisbol. En **T4** (2020) cambia la dirección (Masako Sato) y el diseño se estiliza | Sakuga Blog + AniList ✅ |
+| Diseño, arte y foto | Takahiro Kishida (personajes), Ichirō Tatsuda (arte), Yumiko Nakata (fotografía) | AniList ⚠️ una fuente |
+| Programa del manga | **No lo encontré.** Busqué 「デジタル作画」, 「ペンタブレット」 y 「クリスタ」. Casi todo Jump usa Clip Studio Paint, pero **nadie lo dice de Haikyuu!!** | ⚠️ no encontré |
+| Programa 3D o de composición del anime | **No lo encontré** | ⚠️ no encontré |
+
+### P18.3 Encuadres y composición
+
+- La cámara **sigue el balón** pero **respeta la escala** real de la
+  cancha: «precise down to the millimeter». Sakuga Blog ✅.
+- El **clímax** rompe esa regla: plano **cortado aparte**, más cerrado,
+  línea más gruesa, casi sin color. Sakuga Blog + Liang ✅.
+- La cámara, **a la altura del jugador** (Mitsunaka, §3.5).
+- Por emoción, lo que dicen las fuentes:
+  - **explicar o presentar**: plano abierto, cancha a escala real;
+  - **remate o celebración**: *cut-in* cerrado, línea gruesa;
+  - **tensión justo antes del golpe**: la mano delante de la cámara
+    tapando la cara (Liang).
+  - Las demás emociones: ver las poses con minuto de §15.
+
+### P18.4 Cómo replicarlo en Photoshop
+
+- **Línea**: pincel de tinta duro, grosor variable de 1 a 3 px a 300 dpi.
+  Más gruesa **sólo** en el remate del clímax.
+- **Sombra**: plana, 1 o 2 tonos en capa **Multiplicar**. Degradado sólo
+  en la luz del gimnasio (hex de §5). Para aspecto de manga, **trama de
+  puntos** en vez de degradado (P19).
+- **Pinceles libres**:
+  [GraphicsBunker, tramas de cómic](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/)
+  (gratis escribiendo «$0» en Gumroad) y el
+  [Manga Brush Pack de AntoChibiArt](https://www.deviantart.com/antochibiart/art/Manga-Brush-Pack-for-Photoshop-933133265)
+  (gratis según su ficha). ⚠️ Ninguno dice si permite uso comercial:
+  usarlos para trabajar, no repartir el pack.
+- **Filtros**: grano fino y un brillo cálido sólo en *flashbacks* y
+  remates. **Sin aberración cromática** ⚠️ (dato de la parte de texto;
+  hay que confirmarlo en los fotogramas de §12).
+
+### P18.5 Cómo replicarlo en Blender
+
+- **Contorno**: **Freestyle** por ángulo para la línea fina y uniforme
+  de la acción. **Solidify** (normales invertidas) sólo si se quiere el
+  contorno grueso del remate.
+- **Toon shader**: Diffuse → Shader to RGB → ColorRamp de **2 colores**,
+  sin degradado. Flujo de
+  [Blender Studio, «Toon Character Workflow»](https://studio.blender.org/training/toon-character-workflow/)
+  (tutorial genérico, no de Haikyuu!!).
+- **Rig libre de un personaje de Haikyuu!!**: **no lo encontré**
+  (Sketchfab por API, VRoid Hub, VRCMods) ⚠️. Hay una **base genérica**
+  con rig: [«Anime Model, Beautiful Boy, Rigged!», de dequeijospizza](https://sketchfab.com/3d-models/anime-model-beuatiful-boy-rigged-b1beef2688a1411ba88909f9089a1747),
+  [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) (comprobada
+  por la API). Se le pone el uniforme de §16 y se cita al autor. Los
+  modelos de Hinata y Oikawa de §4.1 no traen rig comprobado.
+- **Luz y render**: luz **dura** de gimnasio, dos fuentes (cenital y
+  rebote del suelo de madera), sombra de contacto marcada. **EEVEE**,
+  sin iluminación global de más: si no, se pierde lo plano.
+- **Texturas encima**: las de P19 (trama, papel).
+
+TV Tropes siguió dando **403** (dos intentos en total).
+
+## Punto 19 · Texturas 2D: tramas, papel, patrones y escudos
+
+Segunda pasada, con lo del investigador de imagen (`partes/imagen.md`).
+Va con §4 (3D con licencia) y §5.3 (texturas reales): así están todas
+las capas.
+
+### P19.1 Los escudos de cada instituto
+
+Bajados de la wiki con `imageinfo` y **medidos con Pillow** ✅. Son los
+escudos que llevan en el pecho junto al número. Sirven de **sello o
+marca de agua** por canal o por equipo, sin tocar el logo de la serie.
+
+| Instituto | Cómo es | Colores medidos | Tamaño | Original |
+|---|---|---|---|---|
+| **Karasuno** (烏野) | óvalo partido en dos, con 烏高 y una corona de espigas | verde azulado `#518297`, negro azulado `#56555E`, espigas `#9C6833`, fondo `#865225` | 104×152 | [Karasuno school crest s4-e6-1.png](https://static.wikia.nocookie.net/haikyuu/images/e/e4/Karasuno_school_crest_s4-e6-1.png) |
+| **Nekoma** (音駒) | flor de cinco pétalos rojos, anillo morado y el kanji **駒** en dorado con un casco encima | rojo `#B23E41`, morado `#8C5569`, aro `#CA915B`, kanji `#B26F3C` | 264×263 | [Nekoma school crest s2-e1-1.png](https://static.wikia.nocookie.net/haikyuu/images/d/d0/Nekoma_school_crest_s2-e1-1.png) |
+| **Shiratorizawa** (白鳥沢) | una **S** cursiva magenta entre alas blancas (白鳥 = cisne) | fondo `#8FA6B1`, S `#995884` | 273×195 | [Shiratorizawa crest s4-e2-1.png](https://static.wikia.nocookie.net/haikyuu/images/3/32/Shiratorizawa_crest_s4-e2-1.png) |
+| **Date Tech** (伊達工) | rombo militar, **伊達工** en vertical y dos ramas de pino | kanji `#9B8E72` sobre `#F4F1EB` (copia clara; el original es oliva casi negro) | 172×183 | [Date Tech school crest OVA 3-1.png](https://static.wikia.nocookie.net/haikyuu/images/f/f5/Date_Tech_school_crest_OVA_3-1.png) |
+| **Inarizaki** (稲荷崎) | estandarte a pincel con un zorro (稲荷 = Inari) | ⚠️ sin medir (JPEG de imprenta con ruido) | 1274×583 | [Inarizaki Banner Manga.png](https://static.wikia.nocookie.net/haikyuu/images/e/e7/Inarizaki_Banner_Manga.png) |
+
+⚠️ Las espigas de Karasuno se describen «plateadas», pero el hex medido
+sale **marrón**: medir otra vez en una captura mejor antes de usarlo.
+El escudo oliva de Date Tech se ve mejor en
+[Date Tech banner OVA 3-1.png](https://static.wikia.nocookie.net/haikyuu/images/e/e4/Date_Tech_banner_OVA_3-1.png)
+(baja resolución, sin medir ⚠️).
+
+### P19.2 Patrones de ropa (además del uniforme de §16)
+
+- **Nekoma**: blazer azul marino y corbata a **rayas diagonales** rojo
+  `#C34C4B` y azul marino. Arte oficial de Ichiban Kuji:
+  [Nekoma colour uniform.jpg](https://static.wikia.nocookie.net/haikyuu/images/f/f0/Nekoma_colour_uniform.jpg),
+  736×520 ✅ visto.
+- **Shiratorizawa**: uniforme blanco con **tartán morado y burdeos** y
+  corbata morada; las animadoras, **chevron rosa y morado**.
+  [Shiratorizawa uniforms s3-e1-1.png](https://static.wikia.nocookie.net/haikyuu/images/7/73/Shiratorizawa_uniforms_s3-e1-1.png)
+  (1355×756) y [Shiratorizawa uniform.jpg](https://static.wikia.nocookie.net/haikyuu/images/d/df/Shiratorizawa_uniform.jpg)
+  (289×400) ✅ visto.
+- **Aoba Johsai**: fondo de pósters con **hojas y enredadera turquesa**
+  `#A3CFC8` repetidas, sobre blazer beige.
+  [AobaJohsai(uniform).jpg](https://static.wikia.nocookie.net/haikyuu/images/3/39/AobaJohsai%28uniform%29.jpg),
+  412×581 ✅ visto.
+- **Fukurōdani**: camiseta de juego con **rayas diagonales doradas**
+  sobre gris y blanco, y «ics» y 梟谷 en el pecho. Sólo visto en la
+  figura de Bokuto (P23). En la wiki no hay imagen del uniforme ⚠️.
+
+### P19.3 Tramas, papel e iconos libres (con licencia)
+
+| Para qué | Recurso | Licencia |
+|---|---|---|
+| **Trama de puntos** (screentone) para sombrear a mano un recorte | [Manga with Stef, «Free Screen Tone Collection 1»](https://manga-with-stef.com/free-screen-tone-collection-1): 8 PNG de 4500×4500, de 10 a 80 puntos por pulgada a 300 dpi | libre para usar en tu obra; **prohibido** redistribuir los archivos ✅ (leída en la página). No dice nada del uso comercial ⚠️ |
+| **Pinceles de trama** (Photoshop, Procreate, Clip Studio) | [GraphicsBunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/) → [ittaimanero en Gumroad, «FREE Super Screentone Sample»](https://ittaimanero.gumroad.com/l/FREESuperScreentoneSample) | gratis con «$0»; **sin términos** de uso ⚠️ |
+| **Grano de papel** (tomo, cartela, cartón del marcador) | [ambientCG, Paper004](https://ambientcg.com/get?file=Paper004_2K-JPG.zip): papel de estraza, hasta 4K | **CC0** ✅ |
+| **Silueta de cuervo** (marca de agua sutil, no el logo) | [Flaticon, iconos «crow»](https://www.flaticon.com/free-icons/crow), más de 1200 | gratis **con atribución** (Flaticon Free License). La página de cada icono dio 403: no enlazo uno concreto ⚠️ |
+| Qué es una trama, para quien no lo sepa | [Screentone, Manga Wiki](https://manga.fandom.com/wiki/Screentone) | genérico, no de Haikyuu!! ⚠️ |
+
+**No encontré** un *making of* que diga **qué trama concreta** usa
+Furudate ⚠️. Las pinceladas y la línea, en P18.1.
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+Segunda pasada, con lo del investigador de voz (`partes/voz.md`) y las
+fichas de AniList (`partes/datos-voz.md`).
+
+**De dónde sale.** El *databook* oficial ***Haikyū!! Complete Guidebook
+Volleyball Book!*** (Furudate, Shueisha, 3-oct-2015, ISBN
+978-4-08-880553-5; hay edición china de Tong Li y coreana de Daewon).
+La sección «Trivia» de cada ficha de Haikyuu!! Wiki lo traslada.
+Portada: [Complete Guidebook, 763×1200](https://static.wikia.nocookie.net/haikyuu/images/d/df/Haikyu_Complete_Guidebook_Volleyball_Book_cover.jpg).
+Cumpleaños y alturas, cruzados con AniList. **Sirve para una «ficha de
+jugador»** tipo cromo: comida, manía, cómo se ve.
+
+### P20.1 Los cinco del encargo
+
+**Shōyō Hinata** · [wiki](https://haikyuu.fandom.com/wiki/Sh%C5%8Dy%C5%8D_Hinata#Trivia) + [AniList](https://anilist.co/character/64769) ✅
+- **Cumple** el 21 de junio (solsticio de verano). **164,2 cm** a mitad
+  de 1.º.
+- **Come**: *tamago kake gohan* (arroz con huevo crudo); le gustan
+  también los panecillos de carne.
+- **Odia**: ser bajito, estudiar, quedarse quieto. Peor asignatura:
+  inglés (pone las respuestas buenas en la línea equivocada).
+- **Lleva**: ningún accesorio propio. Lo suyo son las **zapatillas
+  blancas con rojo** y el **dorsal 10**, el del Pequeño Gigante.
+- **Tras el salto temporal**: compró demasiado protector solar en Río y
+  no sabe qué hacer con él.
+- **Cómo se ve**: no como el as, sino como **el señuelo**: «No soy un
+  as, pero puedo abrir camino frente al as. ¡Seré el señuelo más
+  fuerte!».
+
+**Tobio Kageyama** · [wiki](https://haikyuu.fandom.com/wiki/Tobio_Kageyama#Trivia) + [AniList](https://anilist.co/character/64771) ✅
+- **Cumple** el 22 de diciembre (solsticio de invierno: el opuesto de
+  Hinata, a propósito). **180,6 cm** en 1.º; **188 cm** tras el salto.
+- **Come**: curry de cerdo con un huevo *onsen* encima. Le gustan la
+  **leche** y el **yogur**.
+- **Manía**: compra un cartón de leche o yogur casi cada almuerzo. Usa
+  iPhone.
+- **Estudia mal** el vocabulario de inglés, pero memorizó las señas
+  tácticas en un día.
+- **Cómo se ve**: «No voy a disculparme nunca más por subirla de forma
+  tan lamentable». Y: «Cuanto más geniales son los rematadores, más feliz
+  soy como colocador».
+
+**Yū Nishinoya** · [wiki](https://haikyuu.fandom.com/wiki/Y%C5%AB_Nishinoya#Trivia) + [AniList](https://anilist.co/character/67327) ✅
+- **Cumple** el 10 de octubre. **159,3 cm**, el más bajo del equipo (el
+  pelo de punta le suma unos 10 cm).
+- **Come**: polo **Gari-Gari-kun de soda**. Tercer mayor comilón de la
+  serie, tras Daichi y Kamasaki.
+- **Le gustan**: los **dichos de cuatro kanji** y Kiyoko. **Odia**: las
+  cebollas, las polillas, a quien coquetee con Kiyoko y a los chicos que
+  llaman mucho la atención (pone a Oikawa de ejemplo).
+- **Lleva**: camisetas chillonas con un dicho de cuatro kanji, el
+  mechón rubio y la **codera sólo en el brazo derecho**.
+- De niño «le tenía miedo a todo: bichos, perros, pájaros».
+- **Cómo se ve**: el escudo del equipo («Su espalda la cuido yo»,
+  T1-16 20:08, §2.2) y «los 2 cm entre el balón y el suelo son la vida
+  del as».
+
+**Tōru Oikawa** · [wiki](https://haikyuu.fandom.com/wiki/T%C5%8Dru_Oikawa#Trivia) + [AniList](https://anilist.co/character/71611) ✅
+- **Cumple** el 20 de julio (los fans lo leen como guiño a Alejandro
+  Magno, «el Gran Rey» como él ⚠️ lectura de fans). **184 cm**.
+- **Come**: **pan de leche**. **Odia**: los saques flotantes en salto.
+- Tuvo novia y lo dejaron. Usa Android.
+- En su tiempo libre ayuda en una **escuelita de vóley** de niños, con
+  su sobrino Takeru.
+- Frase favorita: «Si vas a golpearla, golpéala hasta que se rompa».
+- **Cómo se ve**: no le gana en talento a Kageyama, sí en confianza:
+  «Tengo la confianza de armar los mejores pases para todos. Por eso no
+  voy a perder como colocador».
+
+**Kōtarō Bokuto** · [wiki](https://haikyuu.fandom.com/wiki/K%C5%8Dtar%C5%8D_Bokuto#Trivia) ⚠️ (una fuente)
+- **Cumple** «tres días antes del equinoccio de otoño», según la parte;
+  sin la fecha exacta ⚠️. **Altura**: la parte no la trae ⚠️.
+- **Come**: *yakiniku*. Peor asignatura: matemáticas.
+- Según Akaashi tiene «**al menos 37 debilidades**»: le encanta
+  presumir, y si se obsesiona con algo se olvida de todo lo demás.
+- **Manía**: en «modo depre» **se le desinfla el pelo** (que imita a un
+  búho cornudo). Compró una camiseta de «La sabiduría del as» que sólo a
+  él y a Hinata les pareció genial.
+- **Cómo se ve**: capitán que vive del subidón («¡Hey, hey, hey!»). A
+  Akaashi: lo que importa no es lo fácil, sino lo divertido.
+- ⚠️ El enlace de AniList que da la parte (`character/76816`) es el de
+  **Ushijima** en `datos.json`, no el de Bokuto: por eso queda con una
+  sola fuente.
+
+### P20.2 Cinco secundarios muy queridos
+
+| Quién | Cumple y altura | Come | Detalle que lo define | Fuente |
+|---|---|---|---|---|
+| **Kenma Kozume** | 16-oct · 169,2 cm | tarta de manzana | se tiñó de rubio **para no destacar** (le dijeron que parecía Sadako) y lo lleva largo porque ver demasiado campo le da ansiedad. «Ni le gusta ni le odia el vóley: odia cansarse». Hijo único | [wiki](https://haikyuu.fandom.com/wiki/Kenma_Kozume#Trivia) + [AniList](https://anilist.co/character/71267) ✅ |
+| **Kei Tsukishima** | 27-sep · 188 cm | pastel de fresas | le gustan los **dinosaurios**; odia a la gente efusiva; **audífonos blancos «Somy»** al cuello; se toca los dedos cuando está nervioso | [wiki](https://haikyuu.fandom.com/wiki/Kei_Tsukishima#Trivia) + [AniList](https://anilist.co/character/67329) ✅ |
+| **Tetsurō Kuroo** | 17-nov · 187,7 cm | *sanma* a la sal | le gustan los balones Mikasa, la playa en verano y los perros; el pelo, de **dormir bocabajo entre dos almohadas** (según Kenma) | [wiki](https://haikyuu.fandom.com/wiki/Tetsur%C5%8D_Kuroo#Trivia) + [AniList](https://anilist.co/character/71269) ✅ |
+| **Keiji Akaashi** | — ⚠️ | flor de colza con mostaza; le encanta el *onigiri* | se toca los dedos como Tsukishima; **manos más grandes que Bokuto** | [wiki](https://haikyuu.fandom.com/wiki/Keiji_Akaashi#Trivia) ⚠️ una fuente |
+| **Wakatoshi Ushijima** | — ⚠️ | arroz con *hayashi* | **zurdo** | [AniList](https://anilist.co/character/76816) (`datos-voz.md`) ✅ según la parte |
+
+Otros cumpleaños y alturas (AniList, `datos-voz.md`): Sugawara 13-jun,
+174 cm; Tanaka 3-mar, 177,2 cm; Yamaguchi 10-nov, 179,5-180 cm; Kiyoko
+6-ene, 166,2 cm; Asahi 1-ene, 184,7 cm; Daichi 31-dic, 176,8 cm; Ukai
+5-abr, 178,2 cm ⚠️ (una fuente).
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+Segunda pasada, con lo del investigador de voz. Las **encuestas** ya
+están en §9 y lo que ama el fandom, en §14: aquí van las **razones**,
+las cifras y las escenas.
+
+### P21.1 Las cifras
+
+- **Ventas del manga**: 20 millones en dic-2016, 50 en nov-2020, **70
+  en dic-2024** y 75 en dic-2025. En Japón, 6.º manga más vendido de
+  2015, 8.º de 2019 y **4.º de 2020** (7,2 millones ese año).
+  [Wikipedia en inglés](https://en.wikipedia.org/wiki/Haikyu!!) +
+  [Oricon](https://us.oricon-group.com/news/2860) ✅.
+- **Premios**: **61.º Premio Shogakukan**, categoría *shōnen*, 2016 ✅.
+  En los **V Crunchyroll Anime Awards**, **Hinata ganó «Best Boy»**; fue
+  candidato a Mejor Protagonista, y «PHOENIX» (BURNOUT SYNDROMES), a
+  Mejor Opening. Funimation la votó «Serie deportiva de la década» ⚠️
+  (todo de Wikipedia; no lo crucé premio por premio).
+- **La película *La Batalla del Basurero* (2024)**: **¥11.050
+  millones** (unos 74,2 millones de dólares) y **7,71 millones de
+  entradas** en Japón; **2.ª película japonesa más taquillera de 2024**;
+  100,1 millones de dólares en el mundo. Crunchyroll News, ComicBook.com,
+  AnimeExplained y Dexerto coinciden ✅ (la parte no guardó sus enlaces).
+
+### P21.2 Por qué conecta, en palabras de la gente
+
+- **«Aunque sea pequeño, es feroz.»** Hinata compensa la estatura con
+  salto: la historia del que nadie ve venir. Y el ataque rápido **no es
+  una técnica rota**: cada uno sigue siendo necesario.
+  [Give It a Shot Review, 2019](https://giveitashotreview.wordpress.com/2019/08/19/unpacking-the-obsession-haikyuu/)
+  ⚠️ (un blog; la idea se repite en foros).
+- **Hilo de r/haikyuu con 791 votos**, «I just finished reading the
+  manga. I feel so full and empty at the same time»: temía que la
+  derrota en cuartos le arruinara el final, y acabó feliz «porque
+  vencieron a equipos más fuertes»; su arco favorito, **Brasil**; y el
+  porqué de la serie: «**de verdad quieres alentar a todos**».
+  [Reddit](https://www.reddit.com/r/haikyuu/comments/1odjpum/i_just_finished_reading_the_manga_i_feel_so_full/)
+  ✅ (coincide con el blog). La parte le pone una fecha imposible
+  (oct-2026): la fecha queda ⚠️.
+- **Ningún rival es un villano**: los otros equipos también aman el
+  vóley, y el reparto es tan amplio que «parece que todos son
+  protagonistas» ⚠️ (síntesis de varias reseñas y foros).
+- **Con quién se identifica cada uno** ⚠️ (misma síntesis):
+  - quien fue **bajito** o se quedó en el banquillo → **Hinata** o
+    **Nishinoya**;
+  - quien es **perfeccionista** y no sabe pedir ayuda → **Kageyama**;
+  - quien es **introvertido** y prefiere su videojuego → **Kenma**;
+  - quien ya no espera nada de nadie hasta que un grupo lo cambia →
+    **Tsukishima**.
+
+### P21.3 Las escenas que hacen llorar
+
+YouTube pide iniciar sesión y no hay clips oficiales doblados de estas
+escenas: **sin minuto** salvo donde §2 ya lo tenía ⚠️.
+
+| Escena | Dónde | Qué pasa y por qué duele | Estado |
+|---|---|---|---|
+| **«El tercer día»** | T1, ep. 25 (manga 70-71; emitido 21-sep-2014) | Tras perder con Aoba Johsai, **el equipo llora y come junto**; Hinata y Kageyama se desahogan en el gimnasio y deciden seguir. Es la que más sale en los hilos de «qué episodio te hizo llorar» | [wiki](https://haikyuu.fandom.com/wiki/The_Third_Day_%28Episode%29) + [lista de episodios](https://en.wikipedia.org/wiki/List_of_Haiky%C5%AB!!_episodes) ✅; minuto ⚠️ |
+| **Oikawa e Iwaizumi**, camino a casa tras quedarse sin Nacionales | extra «The Fight Is Not Over», tomo 17; película *Talent and Sense* | Oikawa a los de tercero: «**¡Gracias por estos tres años!!!**» y **chocan los puños** | cita en la wikitext de Oikawa ✅; la música de fondo ⚠️ sin fuente |
+| **Hinata a Yachi**: «no sólo hice un amigo, hice un compañero de verdad» | T2, arco de Tokio | Hinata deja de necesitar aprobación y ve el equipo como algo de todos. «Hace llorar cada vez» | ⚠️ varios hilos, sin episodio |
+| **La pelea de Hinata y Kageyama** | T1, formación del equipo | La primera vez que se teme que el equipo se rompa antes de empezar | ⚠️ un hilo, sin episodio |
+
+**Corrección**: T3, ep. 7 «Obsesión» (manga 174-178, 18-nov-2016)
+**no** es un *flashback* de Ushijima: es de **Tendō**, al que su
+entrenadora regañaba por jugar «a corazonadas». Es tensión de partido,
+no una escena de llorar. [wiki](https://haikyuu.fandom.com/wiki/Obsession_%28Episode%29) ✅.
+
+### P21.4 Las que hacen gritar o reír (ya con minuto en §2)
+
+- **Kiyoko desenrolla el estandarte 「飛べ」**: T1-14, 19:08-19:56 (§2.1
+  n.º 7). La que casi no habla dice bajito 「がんばれ」, «ánimo».
+- **Nishinoya**: «Su espalda la cuido yo», T1-16, 20:01-20:08 (§2.1 n.º 8).
+- **Ukai**: «¡No miren al suelo!», T3-08, 20:20-20:31 (§2.1 n.º 10).
+- **«El Aldeano B tiene lo suyo»**, T2-03, 11:58-12:17 (§2.1 n.º 9): la
+  que hace reír y a la vez consuela.
+- **Bokuto**: «¡Hey, hey, heeey!», T2-04, *streaming* 11:26 (§2.0).
+
+**Cómo está dibujada y cómo reaccionó la gente**: sólo lo del hilo de
+791 votos y lo de P18 (el *cut-in* del remate). Vídeos de reacción con
+minuto: **no encontré** ⚠️ (YouTube bloqueado).
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Segunda pasada, con lo del investigador de voz. YouTube pide iniciar
+sesión desde aquí: los vídeos de YouTube **no se pudieron abrir** ni
+contar sus vistas ⚠️. Lo de Dailymotion sí está medido.
+
+### P22.1 Mirado y medido
+
+- ***Haikyuu!! – «Imaginación» Opening Español Latino***, canal
+  **luna-azul2**: cover cantado del OP1 en español. **1:40**,
+  **1440×1080**, **60 vistas** (API de Dailymotion).
+  [Dailymotion](https://www.dailymotion.com/video/x4qw5me) ✅. Es la
+  única prueba de fandub que se puede enlazar sin depender de YouTube.
+
+### P22.2 Fandubs latinos (hallados por búsqueda, sin abrir ⚠️)
+
+| Vídeo | Escena | Enlace |
+|---|---|---|
+| «[Haikyuu!!] El Rey De La Cancha - Fandub latino» (ago-2020) | voces: *Denki* (Hinata) y *yo mero* (Kageyama) | [YouTube](https://www.youtube.com/watch?v=OHKGgQKWjp8) |
+| «Hinata y Kageyama usan el ataque rápido por primera vez» (abr-2020) | el nacimiento del ataque rápido (§2.1 n.º 4) | [YouTube](https://www.youtube.com/watch?v=zsbgd6zEbqI) |
+| «Clip Fandub Latino - Hinata y Kageyama Discuten» (feb-2020) | sólo la voz de Hinata | [YouTube](https://www.youtube.com/watch?v=HFokSa0z4EI) |
+| «La voz de Tendou Satori en Español Latino» | Tendō | [YouTube](https://www.youtube.com/watch?v=9zpcXHCyGUQ) |
+| «Haikyuu Fandub español latino» | título genérico | [YouTube](https://www.youtube.com/watch?v=dBR-QTZ5He0) |
+| «Haikyuu Temporada 3 Capítulo 1-25 en Español Latino» | **temporada entera** de fandub | [lista de YouTube](https://www.youtube.com/playlist?list=PLJ3xnlouRJUC-mXi0rtjoljO94f-dlTwW) |
+
+### P22.3 Covers de los openings en español (sin oír ⚠️)
+
+- **OP1 «Imagination»**: por **Ryuken** para **IGStudiosMx**
+  ([YouTube](https://www.youtube.com/watch?v=Np7CAAbRr74)); otro cover
+  completo ([YouTube](https://www.youtube.com/watch?v=eV0L1CieFNw)).
+- **OP2 «I'm a Believer»**: por **Laharl Square**
+  ([SoundCloud](https://soundcloud.com/laharl-square/haikyuu-2-opening-im-a-believer-espanol-latino));
+  por **RTV (Rise The Voice)** ([YouTube](https://www.youtube.com/watch?v=24EiGLQiZWc)).
+- **OP5 «Hikari Are»**: por **ジzamaelジ**
+  ([SoundCloud](https://soundcloud.com/zamaelsounds/haikyuu-opening-5-hikari-are-cover-latino)).
+- **Medley OP1 y OP5**: «2x1 Haikyuu!! Opening 1 & 5 Cover Latino»
+  ([YouTube](https://www.youtube.com/watch?v=7bXR3vt2Pjk)).
+- **«PHOENIX» (T4)** en latino, de James Mart: ya en §12.4.
+
+### P22.4 TikTok (sin vistas: no se deja leer ⚠️)
+
+- **@fandoblajes**: qué pasó con el doblaje de la 3.ª temporada
+  (#haikyuulatino #doblajelatino).
+  [TikTok](https://www.tiktok.com/@fandoblajes/video/7361780024053206278).
+- Etiqueta «doblaje haikyuu español»: **comparaciones** del doblaje
+  latino con el japonés.
+  [TikTok](https://www.tiktok.com/discover/doblaje-haikyuu-espa%C3%B1ol).
+- Etiqueta «no debí hacer eso meme haikyuu»: una frase del doblaje
+  latino convertida en **sonido** de TikTok.
+  [TikTok](https://www.tiktok.com/discover/no-deb%C3%AD-hacer-eso-meme-haikyuu).
+
+### P22.5 Memes hispanos
+
+- **Los del propio doblaje mexicano** (ya en §10.3, de
+  [Doblaje Wiki, «Datos de interés»](https://doblaje.fandom.com/es/wiki/Haikyu%21#Datos%20de%20inter%C3%A9s) ✅):
+  «¡No vayas a chocar con el techo, **Jirafales**!» (ep. 6), Ukai cantando
+  «Los caminos de la vida» (ep. 9), Tanaka con «**¡No contaban con mi
+  astucia!**» (ep. 52) y Tendō cantando «No rompas mi corazón». Son el
+  gancho perfecto para un servidor de doblaje.
+- Colecciones: [Memedroid, etiqueta «haikyuu!!!»](https://es.memedroid.com/memes/tag/haikyuu!!!)
+  y [Pinterest, «Memes de haikyuu»](https://cl.pinterest.com/chumchum7_982/memes-de-haikyuu/)
+  ⚠️ (sin autor único; Pinterest, sólo para llegar a la fuente).
+
+**No encontré**: vistas y «me gusta» de YouTube y TikTok, ni más
+fandubs en Dailymotion ⚠️.
+
+## Punto 23 · Colaboraciones, figuras, cafés y cosplay
+
+Segunda pasada, con lo del investigador de imagen. Los **juegos** de la
+franquicia y sus cruces ya están en §13. Aquí: el deporte real, los
+cafés, las figuras, las exposiciones y el cosplay. Su arte trae **poses
+y ropa nuevas**.
+
+### P23.1 Con el vóley de verdad: la SV.LEAGUE
+
+- Para abrir la temporada 2024-25 de la liga profesional japonesa,
+  **Furudate dibujó una ilustración nueva**: Hinata y Kageyama junto a
+  jugadores reales de los clubes campeones, con el lema **«ATTACK THE
+  TOP»**. Se usó en la web, redes, guías y el programa del partido
+  inaugural (11-oct-2024).
+  [SV.LEAGUE, 10-oct-2024](https://www.svleague.jp/ja/topics/detail/23198)
+  ⚠️ (una fuente; la página no sirve la imagen, sólo una genérica).
+- **Sigue cada temporada**: arte y productos en el *SV.LEAGUE
+  CHAMPIONSHIP* 2024-25 y otra ronda para marzo de 2026 («春こそバレー祭»),
+  con Furudate dibujando otra vez y bromeando con que «Yū queda
+  demasiado blanco».
+  [SV.LEAGUE, productos](https://www.svleague.jp/ja/sv_men/topics/detail/23463)
+  + [cuenta oficial en X](https://x.com/haikyu_com/status/2002714408242524226) ✅.
+- **Para la lámina**: es el cruce más fuerte. **El propio autor dibuja
+  para la liga real.**
+
+### P23.2 Cafés temáticos (arte exclusivo)
+
+- **«Haikyu!! ～勝利への道筋カフェ～»** («Camino a la victoria»), del
+  5-sep al 10-oct-2025, en BOX cafe&space (Tokio y Osaka) y BALLER:S
+  Aeon Mall Shintoshi (Miyagi). **Ilustración nueva por parejas de 6
+  institutos**, cada una con su lema: Karasuno 「飛べ」 (Vuela), Nekoma
+  「繋げ」 (Conecta), Aoba Johsai 「コートを制す」 (Domina la cancha),
+  Shiratorizawa 「強者であれ」 (Sé fuerte), Fukurōdani 「一球入魂」 (Alma
+  en cada balón) e Inarizaki 「思い出なんかいらん」 (No hacen falta los
+  recuerdos). Posavasos de 6 diseños; postal con ¥2.200 de compra.
+  - **Key visual**, 1280×720:
+    [collabo-cafe.com](https://collabo-cafe.com/wp-content/uploads/035ea73e6065ebfba5b263425b6f7caf.jpg)
+    ([artículo, 27-ago-2025](https://collabo-cafe.com/events/collabo/haikyu-box-cafe-tokyo-osaka-miyagi2025/)).
+  - Confirmado en [Rakuten Books, «推し楽»](https://fan.books.rakuten.co.jp/articles/2941)
+    y en la [web oficial](https://haikyu.jp/news/4097/) ✅ (tres fuentes).
+  - ⚠️ La parte de imagen pone el último lema a Date Tech, pero Date
+    Tech no está entre los 6 del café, y la parte de texto (P25) lo da
+    a **Inarizaki**.
+  - **Útil**: enseña cómo empareja la serie a **as y colocador** de cada
+    equipo, de **brazos cruzados o con el balón**. Pose de «equipo»,
+    distinta de la del partido.
+  - El **plato con 「飛べ」 escrito en polvo sobre pasta negra**, 760×550:
+    [collabo-cafe.com](https://collabo-cafe.com/wp-content/uploads/4a8e87b6ecf20adcbb010231301d3802.jpg).
+- **Animate Café Ikebukuro**, 26-jul a 20-ago-2025, con ilustraciones
+  ***chibi*** exclusivas: [Animate Café](https://www.animatecafe.jp/event/ac000636)
+  + [collabo-cafe.com](https://collabo-cafe.com/events/collabo/haikyu-animate-cafe-stand-ikebukuro2025/) ✅.
+
+### P23.3 Figuras oficiales (su pose es una referencia 3D; sólo mirar)
+
+- **Nendoroid Shōyō Hinata** (Good Smile Company, n.º 4644): **3 caras**
+  (sonrisa, confianza, grito), balón, red y peana de cancha; unos 100
+  mm. Original ene-2015, reedición dic-2020, ¥4.074.
+  [Ficha](https://www.goodsmile.info/en/product/4644/Nendoroid+Shoyo+Hinata.html),
+  [foto, 550×800](https://images.goodsmile.info/cgm/images/product/20140929/4644/30706/large/dfcccc79f269b2f3ec5f58a60226a2ef.jpg) ✅.
+- **Ichiban Kuji «ハイキュー!! ～全国への道～»** (BANDAI SPIRITS,
+  ago-2025): **Bokuto con el puño en alto y la chaqueta al vuelo** (la
+  pose de «celebrar», §15) y **Akaashi serio con el balón**. Se ve de
+  cerca la camiseta de Fukurōdani (P19.2).
+  [Ficha](https://1kuji.com/products/haikyu30),
+  [foto de Bokuto, 1600×1600](https://assets.1kuji.com/uploads/product_gallery/image/282/a01591a2-ebe4-4147-8161-e76d99564d51.jpg),
+  [banner, 1280×720](https://assets.1kuji.com/uploads/product/top_banner/10481/6108fe00-ee67-42cc-a6e1-4841fb5d8ed6.jpg) ✅.
+- **Toda la serie Ichiban Kuji**: al menos **6 lanzamientos** desde
+  ago-2024 (10.º aniversario, *La Batalla del Basurero 2*, *Camino a lo
+  nacional*, *El retador más fuerte*, *El futuro de Karasuno*…), cada uno
+  con **arte nuevo**. [Índice de Haikyuu!! en 1kuji.com](https://1kuji.com/characters/203) ✅.
+- **Foto libre de una figura**: Nendoroid de **Tsukishima**, 500×500,
+  de animaster, **CC BY 2.0**, vía [Openverse](https://openverse.org):
+  [Flickr](https://live.staticflickr.com/1533/24873959725_86c2ecf2ea.jpg) ✅ (licencia de la API).
+
+### P23.4 Exposiciones de arte original (原画展)
+
+- **Exposición de *La Batalla del Basurero***, de gira: Matsuya Ginza
+  (27-dic-2024 a 22-ene-2025) → Hankyu Umeda → Daimaru Sapporo (15-oct
+  a 3-nov-2025) → Niigata (8-nov a 1-dic-2025).
+  [Museo de manga y anime de Niigata](https://museum.nmam.jp/2025/10/07/haikyu_gomisuteba_ex/),
+  [Hankyu Umeda](https://website.hankyu-dept.co.jp/honten/h/gallery_haikyu/),
+  [collabo-cafe.com (Sapporo)](https://collabo-cafe.com/events/collabo/haikyu-movie-exhibition-sapporo-2025/) ✅.
+- **«ハイキュー!!アニメ10周年記念展 全感覚EXHIBITION»** (10 años del
+  anime), con Ayumu Murase (Hinata) y Kaito Ishikawa (Kageyama) el
+  2-mar. [Web oficial](https://haikyu-anime-10th-exhibition.com/) +
+  [Dengeki Online](https://dengekionline.com/article/202408/14639) ✅.
+- **«古舘春一 ハイキュー!!展 挑戦者たち»**, con páginas originales del
+  autor, Mori Arts Center Gallery, 30-oct-2026 a 11-ene-2027.
+  [Web oficial](https://haikyu-challengers-ex.com/) +
+  [Animate Times](https://www.animatetimes.com/news/details.php?id=1776147080)
+  ⚠️ (aún no ha abierto: sólo hay key visual).
+
+### P23.5 Cosplay bien hecho
+
+- **La camiseta de Karasuno**: patrón *raglan*, **cuello marinero de 5-6
+  cm cosido aparte**, líneas blancas con **cinta al bies de 12 mm
+  planchada** (ni pintada ni termoadhesiva). La autora avisa: el cuello
+  es lo más difícil.
+  [Danidere Cosplay en Tumblr](https://daniderecosplay.tumblr.com/post/123242897968/haikyuu-jersey-tips-links-for-patterns) ⚠️ (una fuente).
+- **Galería de 16 cosplayers de 8 países** (Oikawa, Kageyama, Kuroo,
+  Nishinoya, Hinata, Tsukishima, Yamaguchi, Yachi).
+  [Animate Times, 28-nov-2015](https://www.animatetimes.com/news/details.php?id=1448472851)
+  ⚠️ (vieja, pero con criterio editorial).
+- **Fotos libres**: «Haikyu! Cosplay», de Dapper Geek News, 1024×684,
+  **CC BY-NC 2.0**:
+  [Flickr](https://live.staticflickr.com/544/19339245994_5bcab61ee3_b.jpg).
+  Hay 18 fotos más de **bdrc** tituladas «Haikyu» (CC BY-NC-ND 2.0, en
+  `partes/datos-imagen.md`), **sin mirar** ⚠️.
+- **Cosplay premiado en 2025-2026**: no encontré datos que se puedan
+  comprobar ⚠️.
+
+### P23.6 Otros cruces
+
+- **Puzzle & Dragons**: colaboración del 21-mar al 7-abr-2025, sólo en
+  un agregador ([hokope.com](https://hokope.com/archives/58023)). Sin
+  nota oficial de GungHo ni de Jump ⚠️.
+- **Japan Airlines**: busqué un avión de Haikyuu!! y **no lo encontré**.
+
+**Lo mejor para la lámina**: el key visual del café (pose de equipo),
+la figura de Bokuto (pose de celebrar ya en 3D con luz real) y la
+SV.LEAGUE (el cruce con el deporte de verdad).
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+Segunda pasada, con lo del investigador de texto y las recomendaciones
+de AniList (`partes/datos-texto.md`).
+
+### P24.1 Series parecidas (lo que recomiendan los usuarios)
+
+[AniList](https://anilist.co/anime/20464), con nota y votos:
+
+| Serie | Nota | Votos |
+|---|---|---|
+| Run with the Wind | 83 | 353 |
+| Aoashi | 81 | 280 |
+| Kuroko's Basketball | 78 | 210 |
+| BLUE LOCK | 79 | 140 |
+| Ahiru no Sora | 70 | 91 |
+| Free! | 71 | 84 |
+| Chihayafuru | 80 | 63 |
+| Ace of the Diamond | 80 | 57 |
+| Tsurune | 76 | 43 |
+| THE FIRST SLAM DUNK | 87 | 33 |
+
+También: Backflip!!, *2.43: Seiin High School Boys Volleyball Team*
+(el otro vóley), Welcome to the Ballroom, Stars Align, Salaryman's Club.
+
+### P24.2 Influencias que reconoce el autor
+
+- Mangas favoritos de Furudate: ***ONE PIECE*** (Oda) y
+  ***Tekkonkinkreet*** (鉄コン筋クリート, Taiyō Matsumoto).
+  [Wikipedia en japonés, 古舘春一](https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%88%98%E6%98%A5%E4%B8%80)
+  + [Nijimen](https://nijimen.kusuguru.co.jp/topics/137872) ✅.
+- **Por qué vóley**: jugó de **central** en secundaria y bachillerato,
+  sin destacar. Se hizo mangaka para dibujar un manga de vóley: «quería
+  volver a jugar, aunque fuera en forma de manga». Wikipedia en japonés ✅.
+- **Frente a Naruto o My Hero Academia**: admira sus técnicas
+  especiales y siente «complejo de inferioridad» ante ellas; por eso
+  Haikyuu!! se queda en **técnica real** (P18.1).
+  [Volleyball Magazine](https://vbm.link/5437/) ⚠️ (una fuente).
+- **Lo que la separa de otros animes de deporte**: nada de ataques
+  imposibles, y los **rivales** tienen tanta hondura como el
+  protagonista. [CBR](https://www.cbr.com/how-realistic-is-haikyuu-volleyball/)
+  ⚠️ (una fuente).
+
+### P24.3 Láminas del servidor que se le parecen (para no repetir)
+
+- **Naruto (30)** pide el **mismo canal**, #reto-de-la-semana, con los
+  cascabeles de Kakashi. Ya avisado en §0 y en `DECISIONES.md`.
+- **La pizarra del concepto B** se parece a tres láminas ya propuestas:
+  **My Hero Academia (25)**, «El cuaderno de Deku-sensei» y «Clase
+  especial: Bakugo, profesor invitado» (una pizarra), y
+  **Assassination Classroom (24)**, «La pizarra de la 3-E».
+  **Para diferenciarla**: que sea la pizarra **del juego** (marco de
+  aluminio, imanes azules, cartela amarilla), no la de un aula; o usar
+  la **pizarrita del marcador** (§0.1), pequeña y de resultado
+  deportivo.
+- **Otros deportes en marcha**: **Blue Lock (42)** y **Captain Tsubasa
+  (47)** tienen encargo, pero **aún no tienen biblia** (sólo `partes/`).
+  Haikyuu!! es la **primera biblia deportiva terminada**. Que esas dos
+  no repitan el marcador de cartones ni la tablilla del formulario. (La
+  parte de texto decía que no había otro encargo deportivo: lo corregí
+  mirando `encargos/`.)
+- TV Tropes, que compararía tropos con otras obras, dio **403** ⚠️.
+
+## Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+Segunda pasada, con lo del investigador de texto (wiki por la API,
+`action=parse&prop=wikitext`; la web normal da 402) y los lemas del
+café de P23.2.
+
+### P25.1 Las reglas del mundo, en cinco líneas
+
+1. **Vóley de instituto japonés real**: 6 por lado, 3 toques como
+   mucho, nadie toca dos veces seguidas. Wiki («Positions») +
+   [CBR](https://www.cbr.com/how-realistic-is-haikyuu-volleyball/) ✅.
+2. **Cada saque da un punto**, gane quien gane; el equipo que lo gana
+   **rota** en el sentido del reloj. CBR ✅.
+3. **Sets a 25** (15 el último). CBR dice «a 3 de 5 sets» ⚠️: el
+   primer partido de Hinata acaba **2-0** (§2.1 n.º 2), así que no todos
+   los partidos son a cinco. Comprobar cada torneo antes de ponerlo en
+   una lámina.
+4. **El líbero** lleva **otra camiseta**, sólo defiende: no ataca por
+   encima de la red ni saca como los demás. Wiki + CBR ✅.
+5. **Sin magia**: la única fantasía es el nivel de juego. Hasta un
+   olímpico validó la técnica (P18.1).
+
+### P25.2 La historia por arcos
+
+[Haikyuu!! Wiki, «Arcs»](https://haikyuu.fandom.com/wiki/Arcs) (por la
+API) ✅, coincide con el resumen de AniList.
+
+| Arco | Manga | Anime | Qué pasa y el momento clave |
+|---|---|---|---|
+| **Formación de Karasuno** | 1-35 | T1, 1-14 | Hinata ve al **Pequeño Gigante**, revive el club de su secundaria y pierde su único partido contra Kageyama. En Karasuno descubren que son **compañeros** |
+| **Interhigh** | 36-71 | T1, 15-25 | Vencen al **Muro de Hierro** de Date Tech y caen contra Aoba Johsai (Oikawa); «El tercer día» (P21.3) |
+| **Expedición a Tokio** | 72-96 | T2, 1-11 | **Campamento** con Fukurōdani, Shinzen y Ubugawa; se pule el **ataque rápido raro** |
+| **Preliminares de primavera** | 97-206 | T2, 11-25, y T3 | Revancha contra Aoba Johsai y **final contra Shiratorizawa** (Ushijima) para ir por Miyagi |
+| **Nacionales de Tokio** | 207-369 | T4 y las películas *La Batalla del Basurero* y *VS The Little Giant* | Inarizaki, **la batalla del basurero contra Nekoma**, y Kamomedai, con su propio «pequeño gigante» |
+| **Arco final** | 370-402 | sin anime en 2026 | Hinata juega **vóley playa en Río**, se reencuentra con Oikawa y **debuta como profesional** (MSBY Black Jackals) contra Kageyama y Ushijima |
+
+### P25.3 Los estandartes: símbolo y lema de cada equipo
+
+Cada uno es un **cartel real del gimnasio**: listo para Blender.
+[ani-hub.com, «Haikyu!! Team Banners»](https://ani-hub.com/en/entertainment/haikyu-high-school-volleyball-team-banner-list/),
+cruzado con el café de P23.2 (collabo-cafe.com, Rakuten Books,
+haikyu.jp) y los fotogramas de `referencias.json`.
+
+| Equipo | Lema | Qué significa | Estado |
+|---|---|---|---|
+| **Karasuno** | 「飛べ」 · *Fly* | vuelen: superen sus límites como el Pequeño Gigante; los llamaban «los cuervos sin alas» | ✅ ani-hub + café + wiki + fotograma T4-10 |
+| **Nekoma** | 「繋げ」 · *Connect* | conectar: el equipo y la comunicación ante todo | ✅ ani-hub + café + fotograma T4-17 |
+| **Aoba Johsai** | 「コートを制す」 · *Rule the Court* | dominar la cancha con estrategia, con Oikawa | ✅ ani-hub + café |
+| **Shiratorizawa** | 「強者であれ」 · *Be Courageous Warriors* | sé fuerte; Ushijima de capitán | ✅ ani-hub + café (la traducción inglesa difiere) |
+| **Fukurōdani** | 「一球入魂」 · *On the Ball, Heart and Soul* | el alma en cada balón | ✅ ani-hub + café |
+| **Inarizaki** | 「思い出なんかいらん」 · *We Don't Need Memories* | ganar de verdad, no los buenos recuerdos | ✅ ani-hub + café |
+| **Date Tech** | *Iron Wall of Date* | el muro de hierro: su bloqueo | ⚠️ sólo ani-hub |
+| **Itachiyama** | *Effort* | el esfuerzo, como el entrenamiento de Sakusa | ⚠️ sólo ani-hub |
+
+### P25.4 Objetos icónicos y palabras que un fan reconoce
+
+- **El marcador de cartones con la pizarrita de tiza** (T2-09, §0.1) ✅.
+- **El balón Mikasa amarillo y azul** (cartel de T4 en
+  `referencias.json`; modelos en §4.1): el balón real de las
+  competiciones, no uno inventado ✅.
+- **El «ataque rápido raro»** (変人速攻, *Freak Quick*): el remate
+  relámpago de Hinata y Kageyama, bautizado así por los rivales.
+  Capítulo «Freak Quick Unleashed»; la búsqueda en la wiki da 5
+  páginas ✅.
+- **El Pequeño Gigante** (Tenma Udai): la leyenda que inspira a Hinata;
+  por él los cuervos llevan con orgullo ser bajitos. Wiki, «Arcs» y
+  «Karasuno High» ✅.
+- **«No se puede ganar solo, así es esto»** (Kageyama; *«you can't win
+  alone, that's just how it is»*): el tema de toda la serie.
+  [Goodreads](https://www.goodreads.com/quotes/tag/haikyuu) ⚠️ (sin el
+  japonés ni el capítulo).
+- **Los números no son al azar**: Kageyama **9**, Hinata **10** (el del
+  Pequeño Gigante), Tsukishima **11** ⚠️ (Quora y Wikipedia de
+  personajes; sin *databook* citado).
+- Las demás palabras del fandom («Oya oya oya», «Hey, hey, hey»,
+  «Jirafales»…), en §14 y P22.
+
 ## 19 · Tres conceptos de lámina
 
 Los tres son distintos: **un marcador** (A), **una pizarra** (B) y **un
@@ -1777,6 +2476,36 @@ la esquina de abajo; la **puerta corredera** como marco; luz fría del
 patio contra luz cálida del gimnasio; Hinata y Kageyama **desenfocados**
 al fondo.
 
+### Mejoras de la segunda pasada (A, B y C)
+
+Los tres conceptos se quedan. Lo nuevo de P18-P25 los mejora así:
+
+- **A, el marcador**:
+  - **Lámina 2**, cuando alguien gana el reto: Bokuto con **el puño en
+    alto y la chaqueta al vuelo**, la pose de la figura de Ichiban Kuji
+    ([foto, 1600×1600](https://assets.1kuji.com/uploads/product_gallery/image/282/a01591a2-ebe4-4147-8161-e76d99564d51.jpg),
+    P23.3). Es una pose ya resuelta en 3D con luz real: sirve de
+    modelo, no de recorte.
+  - **Los cartones**, con grano de papel CC0
+    ([ambientCG, Paper004](https://ambientcg.com/get?file=Paper004_2K-JPG.zip),
+    P19.3), y la camiseta de Bokuto con las **rayas doradas** de
+    Fukurōdani (P19.2).
+  - En la pizarrita, junto al 「正」, el lema 「一球入魂」 de Fukurōdani
+    («alma en cada balón», P25.3), si cabe.
+- **B, la pizarra**: para que no se parezca a las de My Hero Academia y
+  Assassination Classroom (P24.3), que se vea que es **la del juego**:
+  marco de aluminio, imanes azules y cartela amarilla. Para
+  #general-doblaje, un «POINT» puede citar el propio doblaje latino:
+  «¡No contaban con mi astucia!» es de **Tanaka** (P22.5); si se usa,
+  que lo diga Tanaka, no Nishinoya. En la camiseta de Nishinoya, **un
+  dicho de cuatro kanji** (P20.1).
+- **C, el formulario**: la hoja puede imitar la **ficha del *databook***
+  (P20): casillas de «Comida favorita», «Preocupación», «Cómo me veo».
+  Es el formato que los fans reconocen del *Complete Guidebook*. En la
+  esquina, el **escudo de Karasuno** como sello (P19.1).
+- **En las tres**: sombra plana de 2 tonos, contorno Freestyle y la
+  línea gruesa sólo si hay un remate (P18.4 y P18.5).
+
 ### Qué NO hacer en ninguna de las tres
 
 - Burbuja blanca redonda con colita (§7.5).
@@ -1784,6 +2513,9 @@ al fondo.
   cancha (el líbero va de naranja), Kenma gritando (§14.2).
 - Poner el logo japonés escrito con otra letra (§6.3).
 - Usar capturas de T4 para medir color (filtro cálido, §5.2).
+- Rayos, auras o remates imposibles: Haikyuu!! no tiene técnicas
+  especiales (P18.1).
+- Poner a Date Tech el lema 「思い出なんかいらん」: es de Inarizaki (P25.3).
 
 ## 20 · Lo que no pude verificar
 
