@@ -7,7 +7,8 @@ Cuenta: cuenta A102
 
 - 06-09: ya COMPLETAS (sesiones anteriores).
 - 10 K-On: **COMPLETA** y subida (02:4x). ✅19 ⚠️11 ❌0, 134 referencias, 106 webs, 2443 líneas.
-- 11 Chainsaw Man: 4 investigadores (Sonnet, repaso) en marcha.
+- 11 Chainsaw Man: partes listas; redactor (Opus, repaso) en marcha.
+- 12 Kakegurui: 4 investigadores (Sonnet, repaso) en marcha.
 - 12-18: pendientes (12 y 13 ya recolectadas; 14-18 recolectando).
 
 ## Avisos para el dueño
@@ -29,3 +30,4 @@ Cuenta: cuenta A102
 | 11 | voz | Sonnet | 12 | 198 mil |
 | 11 | imagen | Sonnet | 16 | 207 mil |
 | 10 | redactor (repaso) | Opus | 16 | 340 mil |
+| 11 | video | Sonnet | 21 | 233 mil |
