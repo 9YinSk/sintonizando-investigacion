@@ -329,6 +329,7 @@ encontré sueltos en Dailymotion/Internet Archive con esos nombres.
   Valley, Great Pyramid ×2, Turning Point, SOTTR Launch, Dailymotion Globtopus)
   y `estilo.py` (2 veces, 4 imágenes) para paleta y luz medidas.
 
-Sigue: nada obligatorio pendiente de mis puntos (2, 4, 9, 10, 14) — quedan
-sólo extras marcados con ⚠️ en «No encontré» (SFX con nombre oficial, tráiler
-de Legend sin mirar, TikTok con minuto propio, 4 poses sociales sin hallar).
+Parte terminada: los 5 puntos (2, 4, 9, 10, 14) tienen lo obligatorio del
+encargo con fuente, minuto y ✅/⚠️. Lo que falta son extras, ya listados en
+«No encontré» (SFX con nombre oficial, tráiler de Legend sin mirar fotograma a
+fotograma, TikTok con minuto propio, 4 de las 6 poses sociales del punto 14).
