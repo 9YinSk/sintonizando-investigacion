@@ -61,6 +61,53 @@ fecha: 2026-09-24
 > - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su
 >   minuto, o lo vi en la imagen original. ⚠️ **dudoso**: una sola
 >   fuente, o de memoria. Lo de memoria siempre va marcado.
+> - **Segunda pasada (25-sep-2026, red abierta, equipo de 4
+>   investigadores + redactor)**: vídeos **mirados** con `fotogramas.py`
+>   en Internet Archive y Dailymotion (YouTube seguía pidiendo sesión);
+>   colores de ropa **medidos** con `estilo.py`; doblaje cruzado con
+>   FUNiAnime LA, SomosKudasai y Gamerfocus; fichas de datos del manga
+>   por la API de la wiki; técnica de Araki por la API de JoJo Wiki;
+>   Arctic Shift para Reddit. Se añadieron los puntos 18 a 25 del
+>   encargo y la tabla de cumplimiento.
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora)**:
+
+- **Gorra de Jotaro en SC**: «blanco del gorro» → **negra con insignia
+  dorada** (tráiler ASBR, [Dailymotion](https://www.dailymotion.com/video/x8x1bgw) 1:20, y hojas) (§5.3).
+- **Dio en el doblaje latino**: «Sergio Becerril en la parte 1 de SO» →
+  **Marc Winslow es la voz base en las partes 1, 3 y 6**; Becerril sólo
+  dobla **SO ep. 12**. El artículo de ANMTV que pone a Becerril en
+  Phantom Blood **tiene el dato mal** (§8, §10.2).
+- **Colores de ropa**: a ojo ⚠️ → **medidos** con `estilo.py` en arte
+  oficial (§5.3). El lima de Jolyne era `#9CCB3C` → `#B7B338`; el verde
+  de Rohan es gris `#718F71`; el traje de Bucciarati es crema
+  `#F4E6D3`, no blanco puro.
+- **Ending «Roundabout»**: «una máscara al final» (de memoria) → **dos
+  máscaras** a 1:28-1:36, cartela de créditos a 0:56 (§11.2).
+- **Voces** que pasan de ⚠️ a ✅ con segunda fuente: Speedwagon, Erina,
+  Caesar, Kars, Wamuu, Esidisi, Hol Horse, Fugo, Diavolo y Pucci (§10.2).
+
+**Añadido**:
+
+- Tabla de **vídeos mirados con minuto** (§12.1) y **poses de vídeo
+  real** (§15).
+- Guía para **IA de texto** con frases reales por emoción y vocabulario
+  de gestos (§18.6-18.7).
+- Secciones nuevas de los **puntos 18 a 25**: técnica y cómo replicarla,
+  texturas 2D, gustos de cada personaje, por qué la aman (y la escena
+  que hace llorar), fan dubs y covers, colaboraciones y figuras, obras
+  parecidas e influencias, el mundo y sus símbolos.
+- Nuevas voces con una fuente: Doppio, Holly, Enyaba, Mariah, Foo
+  Fighters, Pale Snake, Johngalli A.
+- Mejoras de los tres conceptos (§19) y la tabla **Cumplimiento del
+  encargo**.
+
+**⚠️**: había **86**. Se resolvieron unos **15** (voces, colores,
+ending, fondo de pantalla 1920×1080 medido); las secciones nuevas
+añaden los suyos. Quedan **125** marcas ⚠️, casi todas datos de una sola
+fuente, dichos en cada sitio y resumidos en §20.
 
 ---
 
@@ -1310,6 +1357,21 @@ No pude ver los vídeos ni sus minutos.
 
 ---
 
+**Contenido descartado (segunda pasada, TCRF por buscador; en directo
+sigue el reto de Cloudflare, 403 dos veces)**:
+
+- En *Heritage for the Future* (arcade de Capcom, 1999) la ROM usa sólo
+  el **60-70 %** de lo que se hizo: **Tower of Gray** y **Death 13**
+  jugables por modo *debug*, y fotogramas sin usar tachados con una X
+  ([TCRF: Arcade](https://tcrf.net/JoJo's_Bizarre_Adventure_(Arcade)),
+  [Unused Characters](https://tcrf.net/JoJo's_Bizarre_Adventure_(Arcade)/Unused_Characters),
+  [Unfinished Animation Frames](https://tcrf.net/JoJo's_Bizarre_Adventure_(Arcade)/Unfinished_Animation_Frames)) ✅.
+- Un bucle de 8 s parecido al tema de Dio, sin usar en el arcade, pasó
+  al segmento «DIO's World» de la versión de PlayStation ⚠️.
+- Las páginas de TCRF de [Dreamcast](https://tcrf.net/JoJo's_Bizarre_Adventure_(Dreamcast))
+  y [Phantom Blood (PS2)](https://tcrf.net/JoJo_no_Kimyou_na_Bouken:_Phantom_Blood)
+  existen, pero no se pudieron leer; Wayback no tiene copias ⚠️.
+
 ## 14 · Lo que ama el fandom, y qué NO hacer
 
 ### 14.1 Lo que todos reconocen
@@ -1461,7 +1523,9 @@ arriba (que usan hojas F-n, en más resolución).
 | Josuke | [Avance DU ep. 33](https://www.dailymotion.com/video/x5mk7ho) | 0:00-0:01 | De perfil, aura violeta, manos en el cinturón, cadera ladeada | **Presentar** |
 | Killer Queen (Kira) | [Avance DU ep. 36](https://www.dailymotion.com/video/x547qml) | 0:04 | Primer plano, ojos rojos, puño con el disco dorado | **Amenazar, regañar** |
 
-## 16 · Vestuario ⚠️ (visto en las hojas; colores a ojo)
+## 16 · Vestuario (visto en las hojas; colores medidos en §5.3)
+
+> Segunda pasada: los hex de cada traje están **medidos** con `estilo.py` en §5.3 ✅. Patrones de ropa (lunares, cuadros, calaveras) en §Punto 19.
 
 | Personaje | Ropa icónica | Detalles que no pueden faltar |
 |---|---|---|
@@ -1521,6 +1585,7 @@ de color** y el logo «JOJO THE ANIMATION» abajo a la derecha.
 | GW · Giorno | [PC](https://jojo-portal.com/special/digital-contents/assets/images/common/wallpaper_pc_golden-wind.jpg) | [móvil](https://jojo-portal.com/special/digital-contents/assets/images/common/wallpaper_sp_golden-wind.jpg) |
 
 - El anuncio oficial en X: [@anime_jojo](https://x.com/anime_jojo/status/1355078246447022080) ✅.
+- **Segunda pasada**: el de SC (PC) se bajó y se midió con Pillow: **1920×1080**, 529 427 bytes ✅. Los demás siguen el mismo patrón de nombre.
 - **Fondos de fans**: hay webs de fondos japonesas
   ([kabekin](https://kabekin.com/tags/jojowp),
   [sumakabe](http://sumakabe.com/anime/jojo.html)) ⚠️ sin autor claro:
@@ -1669,6 +1734,354 @@ traducción de la biblia salvo donde dice «doblaje»):
 - **Pose JoJo** (*contorted fashion pose, twisted torso*): presentarse.
 - **Chibi**: la serie **no** usa *chibi* ni caras deformadas tiernas;
   el humor sale de la exageración dramática. No pedirlo.
+
+---
+
+## Punto 18 · Estilo de dibujo, técnica y cómo replicarlo (segunda pasada)
+
+### Cómo dibuja Araki ✅
+
+- **Proceso del manga**: lápiz azul para la postura, lápiz mecánico
+  para el segundo boceto, tinta en globos y viñetas y, al final,
+  rotulador o plumilla fina para el personaje ([Three Steps Over Japan: Jump Ryuu 25](http://threestepsoverjapan.blogspot.com/2017/01/jump-ryuu-25-hirohiko-araki.html),
+  [JoJo Wiki: Manga Technique](https://jojo.fandom.com/wiki/Hirohiko_Araki's_Manga_Technique)) ✅.
+- **Color no naturalista, a propósito**. Influencia de **Paul Gauguin**:
+  labios azules, piel de colores «raros». Preguntado por el color de
+  Jotaro para el anime, dijo que **cualquiera, si encaja con la imagen**
+  (Quarterly S, junio 2005, en [JoJo Wiki: Hirohiko Araki](https://jojowiki.com/Hirohiko_Araki)) ✅.
+- **Planos grandes estilo *ukiyo-e***, con **complementarios** en luces
+  y sombras para no perder volumen. **Azul claro + rosa** es su combo,
+  sobre todo en Golden Wind (Decode, 2013) ✅.
+- **Imprimación desde Steel Ball Run**: fondo de gris, sepia o amarillo,
+  capas de color encima y blancos al final; así el dibujo queda «más
+  tranquilo y unificado» (Decode, 2013) ✅.
+- **Sigue en analógico**. Hace miles de fotos de referencia pero las
+  **redibuja a mano**: una foto sin retrabajar «no tiene volumen»
+  (*New Manga Techniques*, cap. 3) ✅.
+- **Naturaleza**: el fuego se dibuja por el aire que mueve; la luz, por
+  la sombra que proyecta; las rocas con masas de negro sólido
+  (*New Manga Techniques*, cap. 5) ✅.
+- **Por qué las poses**: dos años antes de Phantom Blood viajó a Italia;
+  le marcó **«Apolo y Dafne» de Bernini** (Galería Borghese). De ahí la
+  pose como centro del dibujo, y la idea de que un personaje se
+  reconozca **por la silueta**, como Mickey Mouse o Miguel Ángel
+  (charlas de Tokai 2006 y Tohoku 2007) ✅.
+
+### El estudio del anime
+
+- **David Production**: fundado en 2007 por Kōji Kajita y Taito Okiura
+  (ex Gonzo); Fuji TV lo compró en 2014 ([JoJo Wiki: David Production](https://jojowiki.com/David_Production),
+  [Fandom](https://jojo.fandom.com/wiki/David_Production)) ✅.
+- Usa **3DCG** para edificios, coches y fondos desde SC ⚠️ (notas de
+  prensa; no encontré el *making of* con nombres).
+- Software de coloreado (Toon Boom, RETAS): **no lo encontré nombrado**
+  en ninguna fuente ⚠️. La técnica de SBR (Netflix, New Art) aún no
+  tiene entrevistas ⚠️.
+- Lo que sí se ve en pantalla (medido con `estilo.py`, §Punto 15):
+  **color base plano** (*cel*), con **degradados sueltos** en pelo y
+  luces especiales (Josuke, Rohan, Kira) ✅; **filtro de color por
+  parte** en el fotograma congelado (sepia en SC, magenta en DU, verde
+  agua en GW; §2.2 y §5.2) ✅.
+
+### Cómo replicarlo en Photoshop
+
+1. **Línea** en capa aparte, modo **Multiplicar**; más gruesa en el
+   borde del cuerpo, fina en arrugas; **rayado cruzado** en cara y cuello.
+2. **Imprimación** (método SBR): rellenar la figura con gris, sepia o
+   amarillo apagado a baja opacidad.
+3. **Color plano** encima; sombra en capa recortada (*clipping mask*)
+   en Multiplicar con el **complementario**; luz en Superponer o
+   Sobreexponer lineal.
+4. **Blancos** casi opacos sólo en los brillos.
+5. **Acabado de anime**: ruido en Superponer al 5-8 %, viñeta suave y
+   una capa de color sólido de la parte (sepia, magenta, verde agua) en
+   modo Color al 15-25 %.
+6. **Grano de papel**: textura CC0 de [AmbientCG: Paper001](https://ambientcg.com/view?id=Paper001)
+   en Multiplicar ✅.
+
+### Cómo replicarlo en Blender
+
+- **Contorno**: modificador **Line Art** (Blender 2.93+), el más limpio
+  ([tutorial](https://www.youtube.com/watch?v=-6eo703C1A8)) ✅; o
+  **Solidify** con grosor ≈0,01 y normales invertidas, más barato
+  ([Yarsa Labs](https://blog.yarsalabs.com/basic-toon-shader-in-blender/)) ✅;
+  o **Freestyle** si hace falta variar el grosor por distancia.
+- **Sombreado cel**: **Shader to RGB** (Eevee) a una rampa de color de
+  2-3 escalones ([StraySpark](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender)) ✅.
+- **Rig libre**: «Jotaro Kujo · Idle · Unity» de Maxime66410, **CC BY**,
+  con una animación, 3.846 caras ([Sketchfab](https://sketchfab.com/3d-models/jotaro-kujo-idle-unity-03309a5dd9bc413fa0105597a7755ae9)) ✅.
+- **Objetos libres** ya en §4.1: la flecha (Miaru3d, CC BY) y la
+  máscara de piedra (Sungsoo Park, CC BY) ✅.
+- **Luz**: una clave dura desde abajo o de lado y contraluz de color
+  (violeta en El Cairo, tráiler ASBR 1:20).
+
+### Encuadres y composición
+
+- **Contrapicado** para presentar o amenazar (Jotaro, tráiler ASBR 1:20).
+- **Perfil o tres cuartos** en la pose, con **fondo de color plano**
+  (Josuke, avance DU ep. 33, 0:00).
+- **Primer plano de ojos** para el miedo (Dio, tráiler ASBR 0:50;
+  Killer Queen, avance DU ep. 36, 0:04).
+- **Viñeta torcida** y líneas de velocidad en la acción (OP1, 0:12).
+- **Dos personajes caminando de frente** para el duelo (SC ep. 46,
+  00:19:59, §2.1).
+
+## Punto 19 · Texturas 2D (segunda pasada)
+
+- **Tramas del manga**: Araki usa G-pen y **tramas de puntos** para los
+  grises, como el shōnen de Shueisha de los 90; el grano se ve en los
+  escaneos de JoJonium (F67-F69) ⚠️ (no hay entrevista de Araki sobre
+  sus tramas).
+- **Packs libres de tramas** (licencia según la propia web, sin registro
+  CC comprobable) ⚠️:
+  - [PhotoshopSupply: Halftone](https://www.photoshopsupply.com/patterns-textures/halftone-texture):
+    uso personal y comercial con atribución.
+  - [Manga with Stef: Screen Tone Collection 1](https://manga-with-stef.com/free-screen-tone-collection-1):
+    Krita y Procreate.
+  - [GraphicsBunker: SuperScreentones](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/):
+    Photoshop, Clip Studio y Procreate, precio mínimo 0.
+- **Papel**: [AmbientCG Paper001-006](https://ambientcg.com/view?id=Paper001),
+  CC0 ✅ (Poly Haven no tiene uno bueno, §5.4).
+- **Patrones de ropa**:
+  - **Bucciarati**: traje crema con **lunares negros** y cremalleras ✅;
+    lunares libres en [Vecteezy](https://www.vecteezy.com/free-vector/polka-dot-pattern)
+    (con atribución) ⚠️.
+  - **Giorno**: **cola del traje a cuadros**, dicho así en la wiki
+    («checkered coat tail») ✅; cuadros en [Vecteezy](https://www.vecteezy.com/free-vector/checkered-pattern) ⚠️.
+  - **Kira**: corbata con **calaveras** pequeñas repetidas ✅.
+- **Emblemas para calcar** (no inventar):
+
+| Emblema | Dónde sale | Imagen |
+|---|---|---|
+| Estrella de nacimiento Joestar | todos los Joestar, hombro o nuca ✅ | hojas F10-F34 |
+| Mariquita de Giorno | pecho y zapatos ✅ | [Giorno's Brooch Anime.png](https://static.wikia.nocookie.net/jjba/images/5/59/Giorno%27s_Brooch_Anime.png) 648×827 |
+| Corazón y símbolo de la paz | broches dorados de Josuke ✅ | Josuke_Higashikata.png (§5.3) |
+| Escudo Higashikata | JoJolion cap. 7, pág. 9 ✅ | [recorte](https://static.wikia.nocookie.net/jjba/images/6/62/Higashikata_family_crest_jojolion_ch7_pg9.png) 119×157 (sólo forma) |
+| Logo Higashikata Fruits Company | JoJolion cap. 7 ✅ | [recorte](https://static.wikia.nocookie.net/jjba/images/4/40/Higashikata_fruits_company_logo_jojolion_ch7_pg9.png) 120×139 |
+| ゴゴゴゴ (gogogo) | la textura de tensión más reconocible ✅ | modelo 3D «Menacing ゴ Symbol», CC BY, [Sketchfab](https://sketchfab.com/3d-models/9b0d8b545cc14f1597199c11d8095015) |
+
+## Punto 20 · Gustos y detalles de cada personaje (segunda pasada)
+
+Salen de las **fichas de datos que dibujó Araki en el manga**,
+transcritas en la plantilla de cada personaje de [JoJo's Bizarre Wiki](https://jojo.fandom.com/)
+(dos fuentes: el manga y la wiki que lo cita) ✅ salvo donde se dice.
+
+| Personaje | Altura · sangre · cumpleaños | Come | Le gusta | Odia | Se ve a sí mismo |
+|---|---|---|---|---|---|
+| [Jotaro](https://jojo.fandom.com/wiki/Jotaro_Kujo) | 195 cm, 82 kg · B · 1971 (Acuario) | **la comida de su mamá** | libros de aviones y barcos; música de Toshinobu Kubota | **las mujeres escandalosas** | cree que sus emociones **se ven con sólo mirarlo**; no las explica |
+| [Dio](https://jojo.fandom.com/wiki/Dio_Brando) | 185 cm, 90 kg (PB) · 1867-68 | **vino tinto**; de vampiro, sangre | leer | **los perros** | destinado a estar **por encima de la humanidad** |
+| [Joseph](https://jojo.fandom.com/wiki/Joseph_Joestar) | 195 cm, 97 kg · B · **27 sep. 1920** (Libra) | **pollo frito** | coleccionar cómics y manga; quería ser piloto | **las vacas** («porque babean») | — |
+| [Giorno](https://jojo.fandom.com/wiki/Giorno_Giovanna) | 172 cm · AB · **16 abr. 1985** (Aries), 15 años | **chocolate, pudín, ensalada de pulpo** | música de Jeff Beck | — | definido por su **determinación** (覚悟) |
+| [Josuke](https://jojo.fandom.com/wiki/Josuke_Higashikata) | 180 cm, 82 kg · B · 1983 (Géminis), 16 años | — | TV, **videojuegos**, música; su favorito, **Prince** | **que insulten su peinado**; las tortugas | — |
+| [Rohan](https://jojo.fandom.com/wiki/Rohan_Kishibe) | 175 cm · B · 1979, 20 años | — | **dibujar manga** («para que me lean», §8) | — | — |
+| [Bucciarati](https://jojo.fandom.com/wiki/Bruno_Bucciarati) | 178 cm · A · **27 sep. 1980** (Libra, mismo día que Joseph) | **pasta con calamares, porcini, vieiras a la parrilla** | — | **los frijoles y las manzanas** | — |
+| [Kira](https://jojo.fandom.com/wiki/Yoshikage_Kira) | sangre A · **30 ene. 1966** (Acuario), 33 años | comida sencilla, vino, **ceremonia del té** | **coleccionar y medir sus propias uñas** | — | alguien que «siempre desea **la paz mental**» (DU ep. 21, 00:20:25) |
+| [Jolyne](https://jojo.fandom.com/wiki/Jolyne_Cujoh) | 1991-92, 19 años en SO | ⚠️ no cargó | — | — | quiere recuperar el disco de su padre ⚠️ |
+
+- **Objeto que siempre lleva**: Jotaro la **gorra y la cadena**; Joseph
+  el **guante** y la cámara de la foto psíquica (念写, SC ep. 1); Josuke los **broches**
+  de corazón y paz; Giorno la **mariquita**; Rohan la **plumilla** en
+  las orejas y su cuaderno; Kira su **corbata de calaveras** (§16 y
+  §Punto 19) ✅.
+- **Para #memes**: el dato de Kira y sus uñas ya es un meme por sí
+  solo; y Joseph y Bucciarati **cumplen años el 27 de septiembre**
+  (dos días después de la fecha de esta biblia): excusa para un post.
+- Altura, peso, comida y aficiones de **Jolyne** no salieron en el
+  wikitext descargado ⚠️.
+
+## Punto 21 · Por qué la gente la ama (segunda pasada)
+
+**Razones concretas**:
+
+- **Encuesta oficial JOJODAY 2025** (50.390 votos): el episodio más
+  votado de toda la serie es **BT ep. 20, la muerte de Caesar**, con el
+  **55 %** de su parte (§9) ✅. Lo que más se ama no es un meme: es un
+  duelo.
+- **Mezcla de drama serio y exageración que da risa**, y el hilo de
+  familia Joestar de parte en parte (reseñas de MyAnimeList y
+  Sportskeeda) ⚠️ (resúmenes, no reseñas enteras).
+- **Cada parte es otra serie**: otra época, otro país, otro JoJo; el
+  fan elige «su» parte y discute cuál es la mejor (§Punto 25).
+- **Frases con minuto que todo el mundo reconoce**: más de 40 en §2.1.
+- **Con quién se identifica**: Joseph, el más votado en Nlab 2021 (§9),
+  porque gana con trampas y humor, no con fuerza; Josuke, el favorito
+  del propio Araki, porque es un chico normal con un peinado que
+  defiende a muerte ✅ (§9).
+
+**La escena que hace llorar**: la muerte de Caesar, **BT ep. 20**
+(«Caesar, una juventud solitaria», [JoJo Wiki: Episode 20](https://jojowiki.com/Episode_20)) ✅.
+
+- **Qué pasa**: en su pelea final con Wamuu, Caesar da su último Hamon
+  a Joseph y muere aplastado por un techo ✅.
+- **Por qué duele**: es la primera gran muerte de un aliado, tras
+  episodios de Caesar y Joseph peleándose y haciéndose amigos ⚠️ (de la
+  sinopsis).
+- **Cómo reaccionó la gente**: en r/StardustCrusaders, «I just started
+  JoJo's a few days ago and I just finished S1E20. Who wrote this and
+  are they going to pay for my therapy bills?!», **165 votos**
+  ([Reddit](https://reddit.com/r/StardustCrusaders/comments/1wa977a/i_just_started_jojos_a_few_days_ago_and_i_just/)) ✅.
+- El grito **«¡CAESAAAAR!»** de Joseph es meme del fandom ⚠️.
+- **Minuto exacto**: no se sacó (sin subtítulos locales de BT ep. 20 en
+  esta pasada) ⚠️.
+
+**Las que hacen gritar de emoción** (con minuto, §2.1): «¿Oh? ¿Te
+acercas a mí?» (SC ep. 46, 00:19:59); «¡ZA WARUDO!» (SC ep. 46,
+00:23:37); «¡ROAD ROLLER DA!» (SC ep. 48, 00:08:36); «Este Giorno
+Giovanna tiene un sueño» con «Il vento d'oro» (GW ep. 5, 00:22:49);
+Gold Experience Requiem (GW ep. 37, 00:20:46) ✅.
+
+**Las que hacen reír**: «¡Nigerundayo!» (BT ep. 11, 00:08:44); el
+llanto de Esidisi (BT ep. 16, 00:25:05); Kakyoin y la cereza (SC ep. 9,
+00:07:03); Pucci contando primos (SO ep. 12, 00:12:31); DU ep. 10, el
+restaurante de Tonio, el más votado de DU (15 %) ✅.
+
+## Punto 22 · Fan dubs y comunidad hispana (segunda pasada)
+
+**Fandubs de escenas** (ya en §10.3): «Ay, no me jodas!» de Sebastián
+Ono ([YouTube](https://www.youtube.com/watch?v=BhLhA0PnQTI), 30 s);
+«ROAD ROLLER-DA» de Eiji Animator ([YouTube](https://www.youtube.com/watch?v=6rICMl_QaQs), 37 s);
+«Giorno Giovanna tiene sueño» de MrpoopJPG ([YouTube](https://www.youtube.com/watch?v=qJnYsgjxx10), 21 s) ✅.
+
+**Covers de los openings en español** (nuevo):
+
+- «Sono Chi no Sadame» en español latino: **Iris ft. @yzyxmusic**,
+  2022 ([YouTube](https://www.youtube.com/watch?v=Z955AmhcGok)) ✅.
+- «Sono Chi No Sadame (Español) Cover #1»: **Kalcifer Vallarta**, 2016
+  ([YouTube](https://www.youtube.com/watch?v=OKxu8ygPeMo)) ⚠️ (vistas no
+  comprobadas).
+- «Vento aureo (Latino)», cover de «Il vento d'oro»
+  ([YouTube](https://www.youtube.com/watch?v=xm6oQLJ2tA8)) ⚠️ (sin fecha).
+
+**Memes hispanos dentro del doblaje oficial** (§10.3): «Ya siéntese,
+señora» (SC ep. 15), «¿Ya estamos al aire? Avísenme» (DU ep. 35),
+«Chile Popó» (DU ep. 12) ⚠️ Doblaje Wiki.
+
+**Lo que no hay que usar**: «doblajes latinos con IA» que ya circulan
+([ejemplo](https://www.youtube.com/watch?v=Kr-vJ0N1WIw)) ✅.
+
+**No encontré** vistas comprobadas de TikTok (bloqueado sin sesión,
+§12.3) ⚠️.
+
+## Punto 23 · Colaboraciones, figuras y cosplay (segunda pasada)
+
+JoJo Wiki tiene más de 80 colaboraciones y exposiciones en
+[Category:Events](https://jojowiki.com/Category:Events) ✅. Las que traen
+arte o poses nuevas:
+
+| Colaboración | Cuándo | Qué trajo | Fuente |
+|---|---|---|---|
+| **Gucci × Araki × SPUR** | 2013 | Cómic «Jolyne, Fly High with GUCCI» y escaparates en 70+ tiendas Gucci. Antes, «Kishibe Rohan Meets Gucci» (2011, SPUR) | ✅ [Hypebeast](https://hypebeast.com/2013/1/hirohiko-arakas-manga-for-gucci), [Crunchyroll](https://www.crunchyroll.com/news/latest/2013/1/3/jojos-bizarre-adventure-creators-gucci-collaboration-goes-global), [JoJo Wiki](https://jojo.fandom.com/wiki/Jolyne,_Fly_High_with_GUCCI) |
+| **El Louvre invita al cómic** | 2009 (y 2010) | Araki, único mangaka; de ahí nace «Rohan au Louvre» (2010) | ✅ [JoJo Wiki](https://jojowiki.com/The_Louvre_Invites_the_Comics), [Louvre archivado](https://web.archive.org/web/20201023035450/http://www.louvre.fr/en/expositions/louvre-invites-comics) |
+| **Bulgari × Araki** | nov. 2017 | Colgantes y pulseras diseñados por Araki | ✅ [JoJo Wiki](https://jojowiki.com/BVLGARI_%E2%9C%B4_Hirohiko_ARAKI) |
+| **Converse** | 2013, 2014, 2016, 2023 | Zapatillas por parte (PB, SC, DU, SO) | ✅ [JoJo Wiki](https://jojowiki.com/JoJo%27s_Bizarre_Adventure_%C3%97_Converse) |
+| **Golden Wind × VANS** | mar. 2019 | Vans con los colores de la banda de Bucciarati | ✅ [JoJo Wiki](https://jojowiki.com/JoJo%27s_Bizarre_Adventure_Golden_Wind_%C3%97_VANS) |
+| **KFC × JOJO** (China) | oct. 2023 | Locales en Shanghái y Pekín con Stone Ocean; lema «JO-level Flavor» | ✅ [JoJo Wiki](https://jojowiki.com/KFC_%C3%97_JOJO), [X del anime](https://x.com/anime_jojo/status/1715956325698740329) |
+| **Uniqlo / GU** | 2006 y feb. 2026 | Camisetas de las partes 1-7 | ⚠️ (GU 2026 sin segunda fuente) |
+
+- **Cafés**: **JOJO CAFE** (Harajuku, abr.-may. 2019, Golden Wind)
+  ([JoJo Wiki](https://jojowiki.com/JOJO_CAFE)) ✅; **Stone Ocean
+  Collaboration Café** (3 locales, jun.-jul. 2022)
+  ([JoJo Wiki](https://jojowiki.com/JoJo%27s_Bizarre_Adventure_Stone_Ocean_Collaboration_Caf%C3%A9)) ✅.
+- **Fortnite: no hay colaboración**. La skin «Hana» (enero 2023) se
+  parece a Jolyne, pero Epic nunca la presentó como cruce
+  ([Hypebeast](https://hypebeast.com/2023/1/fortnite-skin-hana-keleritas-jojos-bizarre-adventure-stone-ocean-jolyne-cujoh),
+  [GameRevolution](https://www.gamerevolution.com/guides/714226-fortnite-x-jojo-collab-jojos-bizarre-adventure-skins-outfits)) ✅.
+  Los «anuncios» de TikTok son montajes.
+- **Gachas ajenos**: no encontré ningún cruce ⚠️ (JoJo tiene sus
+  propios juegos, §13).
+- **Figuras oficiales**: **Medicos Super Action Statue**, de Phantom
+  Blood a JoJolion; **los colores los aprueba Araki**
+  ([JoJo Wiki](https://jojo.fandom.com/wiki/Super_Action_Statue),
+  [Plaza Japan](https://www.plazajapan.com/medicos/),
+  [Gundam Planet](https://www.gundamplanet.com/collections/super-action-statue)) ✅.
+  Son la mejor **referencia 3D de pose**. También **Statue Legend**
+  (Josuke 490×696, Kira 465×800, en la wiki) ✅.
+- **Cosplay**: SeanpaiSenpai recreó «Dio y Jotaro cara a cara» con la
+  **luz amarilla del panel del manga** ([CBR](https://www.cbr.com/jotaro-kujo-dio-brando-joestar-meme-cosplay-jojos-bizarre-adventure/),
+  [ScreenRant](https://screenrant.com/jojo-bizarre-adventure-jotaro-dio-cosplay-recreates-series-most-iconic-moment-style/)) ✅:
+  sirve para ver el abrigo largo y la cadena en volumen. Premios de
+  cosplay en convenciones: no encontré ⚠️.
+
+## Punto 24 · Obras parecidas e influencias (segunda pasada)
+
+**Lo que Araki reconoce como influencia** ([JoJo Wiki: Hirohiko Araki](https://jojowiki.com/Hirohiko_Araki), que cita cada entrevista) ✅:
+
+- **Manga**: *Babel II* (Yokoyama), Ikki Kajiwara, Tezuka, samuráis y
+  el **horror de Kazuo Umezu**.
+- **Cine**: los *spaghetti western* de **Sergio Leone** y **Clint
+  Eastwood** (la pose de Jotaro señalando viene de Eastwood con su
+  Magnum; entrevista «Araki meets Clint Eastwood», oct. 2012).
+- **Pintura y escultura**: **Gauguin**, **Jasper Johns**, **Bernini**.
+- **Moda**: **Gucci**, **Versace**, **Moschino** y la revista *Vogue*
+  (Anime Expo 2017; Shonen Jump 2006).
+- **Carteles**: **Bob Peak** (*Star Trek: The Motion Picture*): las
+  franjas de arcoíris de Stone Ocean.
+- **Heroínas**: la **Ripley de *Alien*** le abrió el camino a Jolyne
+  (*New Manga Techniques*, cap. 2).
+
+**Series de tono parecido** (recomendaciones de usuarios de
+[AniList](https://anilist.co/anime/666)): *Fist of the North Star*,
+*Baki Hanma*, *Dorohedoro*, *Sakigake!! Otokojuku*, *Ninja Scroll*,
+*Hunter x Hunter (2011)*, *Redline* ⚠️ (votos de usuarios, no del
+autor).
+
+**Otras láminas del servidor que se le parecen** (para no repetir):
+*One Punch Man* (biblia 35) y *Saint Seiya* (biblia 39) comparten
+acción exagerada y poses; **ninguna usa el fotograma congelado con
+flecha**, así que los conceptos de #memes no chocan ✅ (listado de
+carpetas, no leídas enteras).
+
+## Punto 25 · El mundo, la historia y sus símbolos (segunda pasada)
+
+**Las reglas del mundo, en cinco líneas** ✅:
+
+1. El **Stand** es la energía vital hecha cuerpo; sólo quien tiene Stand
+   ve o hiere a otro Stand. Se llama así por *Stand by Me*
+   ([JoJo Wiki: Stand](https://jojowiki.com/Stand); manga cap. 114, SC ep. 1).
+2. El **Hamon** («Jámon» en el doblaje) es respirar para convertir la
+   energía del sol en arma contra vampiros y Hombres del Pilar
+   ([JoJo Wiki: Ripple](https://jojowiki.com/Ripple); PB ep. 4).
+3. Todo Joestar lleva una **estrella de nacimiento** en el hombro o la
+   nuca ([JoJo Wiki: Star Birthmark](https://jojowiki.com/Star_Birthmark)).
+4. La **flecha** despierta Stands al herir; quien la controla
+   «controla el mundo» ([JoJo Wiki: Bow and Arrow](https://jojowiki.com/Bow_and_Arrow)).
+5. Cada parte pasa a otro Joestar con un **objeto único** (máscara,
+   flecha, Cuerpo del Santo) y un villano que **explica su filosofía en
+   voz alta**; el gran villano es **DIO**.
+
+**La historia por partes**:
+
+- **Phantom Blood** (años 1880, Inglaterra): Jonathan contra su hermano
+  adoptivo Dio, que se hace vampiro con la máscara; Jonathan se
+  sacrifica.
+- **Battle Tendency** (1938, Italia y EE. UU.): Joseph aprende el Hamon
+  contra los Hombres del Pilar; muere Caesar (ep. 20); Kars acaba en el
+  espacio (ep. 26, 00:14:40).
+- **Stardust Crusaders** (1988-89, de Japón a Egipto): Jotaro y su grupo
+  viajan a matar a DIO; «Za Warudo» y la apisonadora (SC eps. 46-48).
+- **Diamond is Unbreakable** (1999, Morioh): Josuke contra el asesino
+  **Kira**, el que quiere dormir ocho horas.
+- **Golden Wind** (Italia): Giorno, hijo de DIO, quiere ser un
+  mafioso bueno y sube en **Passione** hasta Diavolo
+  ([JoJo Wiki: Passione](https://jojowiki.com/Passione)).
+- **Stone Ocean** (cárcel de Florida): Jolyne contra el plan de
+  Pucci de reiniciar el universo.
+- **Steel Ball Run** (EE. UU., universo alterno): Johnny y Gyro en
+  una carrera a caballo por el **Cuerpo del Santo**
+  ([JoJo Wiki: Saint's Corpse](https://jojowiki.com/Saint's_Corpse));
+  semanal en Netflix desde el 25-sep-2026.
+
+**Símbolos y vocabulario que un fan reconoce al instante** ✅:
+
+- **Speedwagon Foundation** (1910, Washington): paga y ayuda en casi
+  todas las partes ([JoJo Wiki](https://jojowiki.com/Speedwagon_Foundation)).
+- **Passione**: la mafia de GW; su logo cambia entre manga y anime.
+- **La máscara de piedra**, **la flecha**, **el Cuerpo del Santo**.
+- **La ficha de Stand** con sus seis notas A-E (§3.1).
+- **ORA ORA / MUDA MUDA / ARI ARI**, ゴゴゴゴ, «To Be Continued».
+- **La pose JoJo**, nacida de Bernini y la silueta (§Punto 18).
+- **Nombres de Stands tomados de canciones y grupos**: Killer Queen,
+  Sticky Fingers, Stone Free (§7.2).
 
 ---
 
@@ -1827,14 +2240,34 @@ La lámina es **ese momento, parado**, con el filtro rojo-violeta de SC
   una, **B** funciona como «lámina 2: ficha del canal».
 
 
+### Mejoras de la segunda pasada (sin cambiar los conceptos)
+
+- **A · Polaroid de Joseph**: nueva pose de vídeo real, **Joseph joven
+  con la mano en la barbilla y sonrisa de lado** (ending, [Dailymotion x3j25ta](https://www.dailymotion.com/video/x3j25ta), 2:40):
+  va perfecta con «Tu siguiente frase será…». Ropa medida: verde
+  botella `#11563A`, piel `#CEAB8B` (§5.3). Joseph cumple años el
+  **27 de septiembre** (§Punto 20): la lámina puede estrenarse ese día.
+- **B · Ficha de Rohan**: chaqueta **verde apagado `#718F71`** medida,
+  no un verde vivo; sobre la hoja, **trama de puntos** (packs de
+  §Punto 19) y grano de papel CC0 de AmbientCG, para que parezca página
+  impresa de verdad.
+- **C · Apisonadora de Dio**: oro medido `#BA963C` y `#916F38` en su
+  ropa. Para la pose en 3D, las figuras **Medicos Super Action Statue**
+  (§Punto 23) dan el volumen real de los brazos abiertos.
+- **Los tres**: detrás del personaje, **ゴゴゴゴ** en katakana grande y
+  en perspectiva (modelo CC BY de §4.1); luz como Araki, **por la
+  sombra** que proyecta (§Punto 18); gorra de Jotaro, si sale, **negra
+  con insignia dorada**.
+
 ---
 
 ## 20 · Lo que no pude verificar
 
-- **Minutos dentro de los vídeos de YouTube**: `yt-dlp` sólo pudo leer
-  título, duración, fecha y vistas; YouTube pedía iniciar sesión para
-  capítulos y subtítulos. Los minutos de escenas salen de los
-  **subtítulos japoneses** (§2), no de YouTube.
+- **Minutos dentro de los vídeos de YouTube**: YouTube sigue pidiendo
+  iniciar sesión. **Resuelto en parte** en la segunda pasada: opening,
+  ending, tráiler y dos avances **mirados de verdad** en Internet
+  Archive y Dailymotion, con minuto (§12.1). Sigue sin minutos el
+  tráiler de SBR de Netflix ⚠️.
 - **Frases del doblaje latino** que sólo recoge Doblaje Wiki (⚠️ en
   §10.3): «¡Toma, toma, toma!», «Jámon», «¡Maldición!», «Gángster
   estrella», «Ya siéntese, señora», «¿Ya estamos al aire? Avísenme».
@@ -1843,8 +2276,11 @@ La lámina es **ese momento, parado**, con el filtro rojo-violeta de SC
   automático del clip dice «sigan el plan hasta que ya no puedan
   respirar…»; no es claro ⚠️.
 - **«Aplanadora»** por *road roller*: sólo el título de un clip ⚠️.
-- **Voces** con una sola fuente (⚠️ en §10.2): Speedwagon, Caesar, Lisa
-  Lisa, Pucci, Diavolo, Hol Horse, Terence, Tonio.
+- **Voces** con una sola fuente (⚠️ en §10.2): **quedan** Lisa Lisa,
+  Terence, Tonio, Doppio, Holly, Enyaba, Mariah, Foo Fighters, Pale
+  Snake, Johngalli A, Pocoloco, Sand Man, las voces de Star Platinum y
+  The World. **Pasaron a ✅**: Speedwagon, Erina, Caesar, Kars, Wamuu,
+  Esidisi, Hol Horse, Fugo, Diavolo y Pucci.
 - **Estudio de SO partes 2-3 y SBR (New Art)**: sólo Doblaje Wiki.
 - **El key visual del 10.º aniversario y el de SBR a tamaño real**: no
   están en las wikis; no los medí.
@@ -1856,10 +2292,54 @@ La lámina es **ese momento, parado**, con el filtro rojo-violeta de SC
   oficial de **episodios** (2025) y encuestas de fans.
 - **Las 3 últimas hojas** de contacto de Fandom (imágenes más pequeñas)
   no se generaron.
-- **Colores de ropa** de §5.3 y §16: a ojo ⚠️.
+- **Colores de ropa**: **resuelto**, medidos con `estilo.py` (§5.3). Sólo
+  Jotaro en DU sigue a ojo ⚠️.
+- **Minuto de la muerte de Caesar** (BT ep. 20): sin subtítulos locales
+  en esta pasada ⚠️.
+- **Técnica del estudio** (software de color, *making of* del 3DCG, SBR
+  de New Art): no encontrado ⚠️.
+- **Licencias de los packs de tramas**: sólo lo que dice cada web ⚠️.
+- **Gustos de Jolyne** y colaboración **GU 2026**: una fuente o ninguna ⚠️.
 - **Búsquedas en coreano**: no hice; la obra es japonesa y el resto de
   idiomas cubrió lo necesario. Los subtítulos de GW traen también
   **chino** (grupo Kamigami), que no usé.
+
+---
+
+## Cumplimiento del encargo
+
+| Punto | Qué pide | Estado | Por qué, y dónde |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | §3: fichas de Stand, tarot, TBC, key visuals, W1-W25 y F-n con tamaño medido; 4 tamaños recomprobados |
+| 2 | Fotogramas de escenas icónicas con minuto | ✅ | §2.1 (más de 40 con minuto de subtítulo) y §12.1 (OP, ending, tráiler y dos avances mirados con `fotogramas.py`) |
+| 3 | Fan art y 3D con licencia | ✅ | §4: Sketchfab CC BY con autor, GitHub, Pixiv y Safebooru; rig de Jotaro CC BY (§Punto 18) |
+| 4 | Sitios, luz, paleta y texturas reales | ✅ | §5: paleta medida en F-n y en vídeo; Poly Haven CC0 |
+| 5 | Tipografía por uso, con tildes | ✅ | §6: letras de google/fonts comprobadas con fontTools |
+| 6 | Cómo hablan en pantalla | ✅ | §7: globos, cartelas, ficha de Stand, fotograma congelado |
+| 7 | Personajes y popularidad | ✅ | §8 y §9: lista de Araki, JOJODAY 2025, Nlab y otras |
+| 8 | Doblaje latino, dos fuentes, frases | ⚠️ | §10: los cinco del encargo ✅; Dio corregido (Winslow; Becerril sólo SO ep. 12); 10 voces más pasan a ✅; quedan 14 roles menores con una fuente y frases que sólo da Doblaje Wiki |
+| 9 | Música y sonido | ✅ | §11: openings y endings (JoJo Wiki), ending mirado con minuto; «SPIN» de SBR sin clip todavía ⚠️ |
+| 10 | Vídeos con minuto | ⚠️ | §12: vídeos mirados con minuto en Archive y Dailymotion; YouTube pide sesión, TikTok no se abre sin sesión, tráiler SBR sin minutos |
+| 11 | Videojuegos: interfaz y diálogos | ✅ | §13, más TCRF del arcade (personajes y fotogramas sin usar); TCRF en directo bloqueado |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | §14 |
+| 13 | Descripción profunda de cada personaje | ✅ | §8, con caras y minutos de §2 |
+| 14 | Poses analizadas con minuto | ✅ | §15 con F-n y cinco poses nuevas de vídeo real con minuto |
+| 15 | Vestuario con hex | ✅ | §5.3 y §16: hex **medidos** con `estilo.py`; gorra de Jotaro corregida; Jotaro DU sigue a ojo |
+| 16 | Paisajes y fondos de pantalla | ✅ | §17: fondos oficiales 1920×1080 (uno medido al bajarlo) y de fans |
+| 17 | Guía para IA de imagen y de texto | ✅ | §18: rasgos, estilo, plantilla, palabras que ayudan y estropean, hex medidos, frases reales por emoción y vocabulario de gestos |
+| 18 | Estilo, técnica y cómo replicarlo | ⚠️ | §Punto 18: técnica de Araki con fuente, Photoshop y Blender paso a paso; no encontré el software de color de David Production ni *making of* del 3DCG |
+| 19 | Texturas 2D | ⚠️ | §Punto 19: tramas, papel CC0, patrones y emblemas; licencias de los packs de tramas sólo según cada web; sin entrevista de Araki sobre tramas |
+| 20 | Gustos y detalles | ⚠️ | §Punto 20: fichas del manga de 9 personajes; faltan gustos, altura y peso de Jolyne |
+| 21 | Por qué la aman, escenas que hacen llorar | ⚠️ | §Punto 21: JOJODAY, Reddit con votos, Caesar en BT ep. 20; falta el minuto exacto de su muerte |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | §Punto 22: fandubs y covers en YouTube; vistas de TikTok no comprobables sin sesión |
+| 23 | Colaboraciones, figuras, cosplay | ✅ | §Punto 23: Gucci, Louvre, Bulgari, Converse, VANS, KFC, cafés, Medicos, cosplay; Fortnite comprobado que no existe; gachas ajenos no encontrados |
+| 24 | Obras parecidas | ✅ | §Punto 24: influencias con entrevista, AniList y láminas del servidor |
+| 25 | Mundo, historia y símbolos | ✅ | §Punto 25: cinco reglas, historia por partes, símbolos |
+| Conceptos | 3 conceptos distintos | ✅ | §19, con mejoras de la segunda pasada |
+| Fuentes | 40 webs distintas | ✅ | 71 dominios distintos enlazados en el cuerpo (revisar.py) |
+| Tipos de fuente | Oficial, idiomas, wikis, foros, arte, vídeo, código, doblaje | ⚠️ | todos cubiertos; coreano no buscado (obra japonesa), TV Tropes y TCRF en directo bloqueados |
+| Hojas | 3 hojas de contacto | ✅ | `hojas/`: 3 JPEG de menos de 1 MB |
+| Referencias | `referencias.json` ≥ 20 | ✅ | 200 referencias, las imágenes medidas primero |
 
 ---
 
@@ -2004,3 +2484,60 @@ La lámina es **ese momento, parado**, con el filtro rojo-violeta de SC
   acercas a mí?»: no hay clip con subtítulo que lo confirme.
 - Fondos de pantalla oficiales de **SO y SBR** (la campaña de 2021 sólo
   llega a GW).
+
+### 21.6 Segunda pasada (25-sep-2026)
+
+Juntada de las cuatro partes de `partes/` (imagen, vídeo, voz, texto).
+
+**Imagen**
+- `estilo.py` sobre 9 imágenes oficiales de cuerpo entero (Jotaro, Dio,
+  Joseph, Josuke, Giorno, Bucciarati, Kira, Rohan, Jolyne).
+- API de `jojo.fandom.com` (búsquedas en inglés: «Josuke anime ref»,
+  «family crest emblem logo», «screentone», «checkered pattern») y de
+  `jojowiki.com` (KFC × JOJO, Louvre, Bulgari, VANS, Converse).
+- Fondo de pantalla de SC bajado y medido con Pillow.
+- Buscador (inglés): packs de tramas CC0, Gucci 2013, cafés y Uniqlo,
+  Medicos Super Action Statue, cosplay de Jotaro y Dio.
+- **No encontré**: entrevista de Araki sobre tramas; licencias
+  registradas de los packs; GU 2026 en dos fuentes; premios de cosplay.
+
+**Vídeo**
+- `fotogramas.py` sobre el OP1 y el OP2 de Internet Archive y cuatro
+  vídeos de Dailymotion (ending, tráiler ASBR, avances DU 33 y 36);
+  hex con Pillow (`quantize` y recortes).
+- AnimeThemes: 522 en dos endpoints. YouTube: pidió sesión y se colgó
+  con el tráiler de SBR (`tZRpLrZgr6w`). TikTok: sin sesión.
+- **No encontré**: clip de «SPIN»; minutos del tráiler de SBR.
+
+**Voz y personajes**
+- API de Doblaje Wiki (ficha de Dio Brando y fichas de actores).
+- Segunda fuente del reparto: FUNiAnime LA (cuatro artículos, uno por
+  parte), SomosKudasai, Gamerfocus, World Dubbing News ES en X.
+- ANMTV leído en HTML crudo: confirma su error con Dio en PB.
+- `eldoblaje.com`: sólo doblaje de España, no sirve para el latino.
+  Senpai.com.mx: 503 dos veces. Aweita: DNS no resolvió.
+- Fichas de datos del manga por la API de `jojo.fandom.com`.
+- Arctic Shift: r/StardustCrusaders «Caesar» (post de 165 votos);
+  r/Animemes sin resultado útil.
+- Búsquedas (español): «"<actor>" "<personaje>" doblaje latino JoJo»,
+  covers de «Sono Chi no Sadame» y «Il vento d'oro». (Inglés): por qué
+  la aman.
+- **No encontré**: segunda fuente de 14 roles menores; minuto de la
+  muerte de Caesar; encuesta oficial reciente de personajes; gustos de
+  Jolyne.
+
+**Texto, juegos y técnica**
+- API de JoJo Wiki: Hirohiko Araki, Manga Techniques, New Manga
+  Techniques, David Production, Stand, Ripple, Speedwagon Foundation,
+  Passione, Bow and Arrow, Star Birthmark, Saint's Corpse.
+- TCRF: 403 (Cloudflare) dos veces; Wayback sin copias; se usaron los
+  resúmenes indexados del buscador.
+- Buscador (inglés): técnica de Araki, 3DCG de David Production, Line
+  Art de Blender, TCRF de JoJo.
+- **No encontré**: software de color del estudio; *making of* del 3DCG;
+  técnica de SBR (New Art).
+
+**Redactor**: correcciones pedidas por el jefe (gorra de Jotaro y
+Dio en el doblaje) aplicadas en §5.3, §8 y §10.2. `referencias.json`
+pasa de 39 a 200 (partes/imagen.json, video.json, texto.json y
+datos.json). Hojas: se mantienen las 3.
