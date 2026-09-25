@@ -5,7 +5,10 @@ Cuenta: cuenta A102
 
 ## Estado
 
-- Empieza (25 sep). Pendientes según `siguiente.py --lote B`: 10 K-On (seguir), 11, 12, 13, 14 y 4 más.
+- 06-09: ya COMPLETAS (sesiones anteriores).
+- 10 K-On: partes listas (sin `Sigue:` obligatorio); redactor (Opus, repaso) en marcha.
+- 11 Chainsaw Man: 4 investigadores (Sonnet, repaso) en marcha.
+- 12-18: pendientes (12 y 13 ya recolectadas; 14-18 recolectando).
 
 ## Avisos para el dueño
 
