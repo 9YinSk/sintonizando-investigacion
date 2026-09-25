@@ -1018,3 +1018,96 @@ Tres ideas distintas: un **libro**, un **letrero** y un **periódico**, en tres 
 - **Confirmado (dos fuentes o visto):** el reparto latino principal y sus directores; Banderas en tres idiomas; Del Toro de voz; Obregón fuera de *Shrek 5*; los 19 fotogramas del punto 2; los hex del vestuario y de los sitios; las letras libres con fontTools; el HUD de *SuperSlam*; Crocs × Shrek; la técnica de PDI (SSS, luz que rebota).
 - **Dudoso (una fuente):** el origen del logo (Fonts In Use); Bouwsma Uncial como letra del libro; los cumpleaños y la altura de Shrek; la fecha de *Shrek 5*; el spin-off de Burro; los minutos del ataque de pánico; las tendencias de TikTok.
 
+## Cumplimiento del encargo
+
+Hecha por el redactor con lo que **de verdad** está en esta biblia y en las partes. ✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Los ❌ de la columna «Qué falta» son trozos sueltos de un punto que sí tiene lo demás.
+
+| Punto de `ENCARGO.md` | Estado | Qué hay (y dónde) | Qué falta |
+|---|---|---|---|
+| 1 · Arte oficial variado | ✅ | 424 imágenes de la wiki con tamaño real; guías oficiales DK/Scholastic (H2-49, 50, 54, 55; H3-7); 2 artbooks con ficha; carteles de *El último deseo* hasta 3158×5000; imágenes oficiales de *Shrek 5* (dos fuentes); postal de DreamWorks; arte de juegos | ❌ key visual nuevo de campaña para las películas 1-4; los *stills* de *Shrek 5* no están en `hojas/` |
+| 2 · Fotogramas de escenas icónicas con minuto | ✅ | 15 fotogramas de *Shrek* en 1920×1080 y 4 de *Shrek 2*, mirados, con minuto y enlace `start=` | *Shrek 2* sólo en edición 4:3 recortada; nada propio de *Shrek tercero*, *para siempre* ni *El último deseo* |
+| 3 · Fan art y 3D con licencia | ✅ | 6 modelos de Sketchfab con licencia leída en la API y 6 más de la búsqueda; fan art de los 4 principales con tamaño y origen | Pixiv y ArtStation no consultados directamente; poco fan art de Shrek y Burro |
+| 4 · Sitios: luz, paleta y texturas reales | ✅ | 7 sitios medidos en fotogramas y 4 en renders, con hex y luz; 10 texturas CC0 de ambientCG | — |
+| 5 · Tipografía, una letra por uso | ⚠️ | 4 usos con letra libre abierta con fontTools: logo («Shrek»), libro (Bouwsma Uncial), letrero (Butcherman, sin ¿), periódico (UnifrakturMaguntia) | ❌ globo, grito, pensamiento, onomatopeya, interfaz de juego, subtítulos y créditos: no identificados; origen del logo con una fuente |
+| 6 · Cómo hablan en pantalla | ✅ | El libro de cuentos narrado (películas y juego *Shrek 2*), el letrero pintado, el *Far Far Away Times*, las Duloc Dolls, el cartel «WANTED», 3 series de cómic; cuadro elegido para cada tipo de texto | ❌ una página interior de cómic (préstamo controlado) |
+| 7 · Personajes y encuestas de popularidad | ⚠️ | 4 principales y 5 secundarios con carácter, objetos, manías y compañía; 2 listas de fans, el dato del spin-off, votos de Reddit | ❌ encuesta oficial: no encontrada; el orden de las listas de fans no coincide |
+| 8 · Doblaje latino y frases textuales | ✅ | Ficha y reparto de 8 películas en Doblaje Wiki + dubdb; Banderas, Del Toro y Obregón con dos fuentes; 12 notas de adaptación; 4 frases textuales oídas con `voz.py` | Frases de clips oficiales doblados con minuto (YouTube bloqueado); ¿vuelve Derbez en *Shrek 5*? por comprobar |
+| 9 · Música y sonido | ⚠️ | 4 canciones clave con su escena (dos fuentes), partituras en MusicBrainz, especiales, cambios del doblaje, volumen medido con ffmpeg | ❌ efectos y onomatopeyas oídos; minuto de «Hallelujah» |
+| 10 · Vídeos y tendencias con minuto | ⚠️ | Tráiler en español mirado entero con 6 minutos; 3 películas enteras localizadas y 2 usadas; 2 análisis y 3 tendencias | Análisis y TikTok sin minuto (no se pudieron abrir) |
+| 11 · Videojuegos: interfaz y diálogos | ✅ | Más de 25 títulos con año; HUD de *SuperSlam* con dos fuentes; formato del diálogo de *Shrek 2* por su transcript; DLC de *PowerWash Simulator* con capturas | TCRF dio 403; ❌ captura en alta de un menú o caja de diálogo clásica |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Memes en inglés y en español con origen; momentos que todos reconocen; 8 cosas que no hacer | — |
+| 13 · Personajes a fondo | ⚠️ | Historia, miedo, qué transmite, cómo habla (con Hz y palabras/s), cuerpo y dinámicas de 4 principales y 5 secundarios; tabla de caras con 10 de 30 casillas con minuto | ❌ vergüenza de todos; tristeza casi entera; el Gato sin fotograma propio de miedo |
+| 14 · Poses analizadas | ✅ | Shrek 10, Burro 9, Fiona 10, el Gato 8, con minuto o número de hoja; tabla de pose por función | Los ojos de cachorro del Gato sin minuto; minuto dudoso de la patada de Fiona |
+| 15 · Vestuario y hex | ✅ | 9 trajes con hex medidos con `estilo.py`; peinado de Fiona; ropa icónica | Coronación y vestido azul medidos con fondo mezclado ⚠️ |
+| 16 · Ciudades, paisajes y fondos de pantalla | ✅ | 6 sitios con hora y luz; 10 fondos de Wallhaven con tamaño, autor y enlace | ❌ fondos oficiales de DreamWorks |
+| 17 · Guía para IA de imagen y de texto | ⚠️ | Hecha por el redactor: rasgos fijos con hex, estilo, luz, encuadres, palabras que ayudan y que estropean, referencias, cómo se ven las emociones; voz de cada uno y frases reales por emoción | «Enfadado» sin frase latina con audio (la de la guía es en inglés); «triste» con una frase fingida y otra de una sola fuente |
+| 18 · Estilo, técnica y cómo replicarlo | ⚠️ | Pipeline de PDI (Maya, SSS, luz que rebota, pelo, tela, fluidos) con dos fuentes; recetas para Blender y Photoshop; encuadres vistos en fotogramas | ❌ entrevista sobre qué plano se usa para cada emoción |
+| 19 · Texturas 2D | ✅ | Páginas del libro, cuero, pintura del letrero, papel del cartel y del periódico, corona; equivalentes CC0 | ❌ pincel libre de bordado medieval; el logo de Duloc no tiene ficha |
+| 20 · Gustos y detalles | ⚠️ | Tabla de gustos, disgustos, objeto, autoimagen y familia de los 4 principales y 3 secundarios | ❌ cumpleaños y altura de Fiona, el Gato y Farquaad; comidas favoritas; no hay *databook* |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Taquilla, Óscar, Cannes y Rotten Tomatoes; Fiona según la crítica; 4 escenas que hacen llorar y 5 de risa con qué pasa, por qué y cómo reaccionó la gente | Minuto del ataque de pánico sólo de fans; minuto de «Hallelujah»; música del ataque de pánico |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | El musical de Teatro Catalina con canal, vistas y fecha; memes hispanos; especial latino; el debate por Obregón | ❌ vistas y canal de covers y fandubs de YouTube y TikTok (bloqueados) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 6 colaboraciones oficiales con fecha y fuente; figuras McFarlane; lo que no es oficial (Fortnite, Vans, Shrek Rave) | ❌ cosplay con autor verificable |
+| 24 · Obras parecidas | ⚠️ | DreamWorks hermanas, parodias de cuento, la pulla a Disney (dos fuentes), comparación con las láminas vecinas | Influencias sólo de listas agregadoras, sin entrevista |
+| 25 · Mundo, historia y símbolos | ✅ | El mundo en 5 líneas; 7 arcos con momentos clave; 8 símbolos; vocabulario | *Shrek 5* y el spin-off de Burro con una fuente |
+| Conceptos de lámina (3) | ✅ | A #📖・textos ⭐, B #😂・memes, C #🍿・noticias-series; con sitio, objeto de Blender, personaje y pose, letra, sitio de cada texto y profundidad | Confirmar que existe «fandub-de-memes» (concepto B) |
+| Fuentes distintas (40) | ✅ | 57 webs distintas enlazadas en esta biblia, más las citadas por nombre en la bitácora | — |
+| Tipo: oficiales | ⚠️ | Artbooks, guías DK/Scholastic, AWN con Ken Bielenberg, Linux Journal, palabras de Andrew Adamson, Steam, Dark Horse | Web y redes oficiales de DreamWorks; comentarios de los Blu-ray |
+| Tipo: otros idiomas | ✅ | Inglés y español. La obra es estadounidense: japonés, coreano y chino no aplican (dicho en la bitácora) | — |
+| Tipo: wikis, TV Tropes, TCRF y Wayback | ⚠️ | Fandom en inglés y español, Doblaje Wiki, dubdb, Wikipedia | TCRF y TV Tropes dieron 403; Wayback bloqueada por la red |
+| Tipo: foros y comunidades | ✅ | Reddit por Arctic Shift (r/Shrek, r/pussinboots), 4chan por Know Your Meme, Tumblr | Discords públicos no |
+| Tipo: arte | ⚠️ | Safebooru, Danbooru, Wallhaven, X/Twitter, Tumblr, Weibo; ArtStation y DeviantArt como origen | Pixiv y ArtStation no buscados directamente |
+| Tipo: vídeo | ⚠️ | Internet Archive y Dailymotion (películas y tráiler mirados); YouTube sólo metadatos | YouTube y TikTok bloqueados |
+| Tipo: código y recursos | ✅ | API de Sketchfab, ambientCG, fichas de google/fonts en GitHub, fontTools, ffmpeg | GitHub apenas usado |
+| Tipo: doblaje latino | ⚠️ | Doblaje Wiki por API (8 páginas, 4 muestras oídas), dubdb, El Informador, prensa de 2026 | ANMTV y entrevistas a actores en YouTube no |
+| Hojas de contacto (3) | ✅ | `personajes_01.jpg`, `personajes_02.jpg`, `personajes_03.jpg`, miradas y citadas número a número | La hoja de emociones de voz se perdió (no está en el contenedor) |
+| `referencias.json` | ✅ | 189 referencias, las mejores primero, sin las listas contaminadas | Muchas no son imágenes (artículos, audio, modelos): van sin tamaño |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes y la del recolector. **Idiomas:** inglés y español. No se buscó en japonés, coreano ni chino: Shrek es una producción estadounidense y sus fuentes originales están en inglés.
+
+### Paso 0 · Recolector (`herramientas/recolectar.py`, 25-sep-2026, sin IA)
+- Fuentes que respondieron: Fandom (`shrek`), Doblaje Wiki (ficha, reparto, 35 muestras .ogg, «Datos de interés»), Danbooru, [Safebooru](https://safebooru.org), [Wallhaven](https://wallhaven.cc), Sketchfab, [Openverse](https://openverse.org), [Dailymotion por API](https://api.dailymotion.com), Internet Archive, [MusicBrainz](https://musicbrainz.org), Steam y Reddit.
+- **Fallaron:** AniList (descartó «Kattobi! Shrek», no es anime) y AnimeThemes (HTTP 522). Esperado: Shrek no es anime.
+- **Contaminado:** el top de personajes de [Danbooru](https://danbooru.donmai.us/posts?tags=shrek_%28series%29) para `shrek_(series)` (Hatsune Miku, Link…) y 33 fan arts de otras series en `datos.json`. No se usaron.
+
+### Imagen (puntos 1, 3, 15, 16, 19, 23)
+- **Buscador (9, en inglés):** «Shrek Fortnite skin 2023 official collaboration» · «Shrek Crocs collaboration 2024 official» · «"Shrek 5" 2026 official teaser poster image» · «"Art of Shrek" artbook official DreamWorks concept art book» · «Shrek Rave event official DreamWorks» · «Shrek Vans shoes collaboration official» · «Shrek McDonald's Happy Meal toys official 2001 promotion» · «DreamWorks Land Universal Studios Shrek attraction 2026» · «Shrek McFarlane Toys NECA figure official 2022» · «Shrek Fiona armor cosplay craftsmanship photos».
+- **WebFetch:** ficha de Internet Archive del artbook de *Shrek Forever After*.
+- **Red directa:** Fandom API (`action=parse` de Duloc; `imageinfo` de la corona; `list=search&srwhat=text` de «coat of arms», «Far Far Away crest seal»); [API de Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=Donkey%20Shrek&downloadable=true) (licencia, vértices y vistas de 4 modelos; «Donkey Shrek» en inglés porque «Shrek Burro» daba 0); Safebooru API (`shrek`, `donkey_(shrek)`); [API de ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=leather) (leather, paper, fabric, wood, moss, grass).
+- **Herramientas:** `estilo.py` sobre 16 imágenes originales; hoja propia `personajes_03.jpg` con Pillow.
+- **No encontré:** key visual de campaña nuevo; pincel CC0 de bordado medieval; logo aislado de Duloc; cosplay con autor; colaboración oficial con Fortnite o Vans.
+
+### Vídeo (puntos 2, 4, 9, 10, 14)
+- **Red directa:** metadatos de Internet Archive (`archive.org/metadata/<id>`): `shrek-1` (1920×1080, 90:04), `shrek-2-2004-full-screen_202406` (4:3, 92:25), `shrek-4_202107` (93:14, sin abrir). El ítem `1.-shrek-2001-1080p-hd` sólo tenía miniaturas: descartado.
+- Miniaturas de Archive (91 de *Shrek*, 93 de *Shrek 2*) para ubicar escenas; `ffmpeg -ss` para 19 fotogramas en alta sin bajar los 5 GB.
+- `fotogramas.py` sobre el tráiler en español ([x88nk3f](https://www.dailymotion.com/video/x88nk3f), cada 8 s).
+- `estilo.py` sobre 7 sitios; `ffmpeg -af volumedetect` sobre 3 tramos de audio.
+- Fandom API: «I'm a Believer», «Hallelujah», «Rufus Wainwright», «Joan Jett», `Shrek 2/Transcript`. Wikipedia API: «List of songs featured in Shrek», «Accidentally in Love (song)».
+- **Buscador (2):** «Shrek TikTok trend viral sound» (inglés) · «Shrek 2 análisis video ensayo YouTube minuto escena» (español).
+- `yt-dlp --skip-download --print` para metadatos de un análisis.
+- **Fallaron:** YouTube (iniciar sesión); TikTok (sin acceso); AniList y AnimeThemes.
+- **No encontré:** los ojos de cachorro del Gato (probados 30-46 y 78-86 min de *Shrek 2*); audio de efectos.
+
+### Voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+- **Red directa:** Doblaje Wiki API (8 fichas y 4 muestras con `imageinfo`); dubdb API; Fandom en inglés y español (9 fichas: Shrek, Burro, Fiona, Farquaad, Dragona, Jengi, Perrito, Kitty, el Gato); Dailymotion API («Shrek cover español», «Bienvenidos a Duloc», «Shrek fandub», «Shrek el musical latino»); [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=pussinboots&query=panic%20attack) (r/Shrek y r/pussinboots, 4 consultas).
+- `fotogramas.py` sobre la copia latina de *Shrek* en Dailymotion (66:03): una pasada cada 60 s, 3 de 4 s y 9 fotogramas sueltos. Vídeo borrado al acabar.
+- `voz.py` sobre 4 muestras .ogg oficiales.
+- **Buscador (~18):** «Shrek personaje más popular encuesta favorito fans» · «Puss in Boots stole the show Shrek 2 most popular character spinoff» (inglés) · «Antonio Banderas dobla a sí mismo Gato con Botas español entrevista» · «Guillermo del Toro voz Comandante Gato con Botas doblaje entrevista» · «"Un felino temerario" Guillermo del Toro Gato con Botas Comandante Informador» · «Shrek Oscar mejor película animada 2001 historia premio» · «"Shrek is love Shrek is life" meme origen historia» (inglés) · «memes Shrek Latinoamérica frases Burro "pregúntame" viral» · «Shrek recaudación taquilla mundial 2001 cifras crítica por qué encantó» · «Puss in Boots Last Wish panic attack scene Death wolf praised mental health reaction» (inglés) · «Shrek Fiona feminista personaje análisis por qué fans la aman princesa» · «reddit r/Shrek cried scene wedding true love's kiss reaction» (inglés) · «Puss in Boots The Last Wish Rotten Tomatoes crítica mejor película franquicia aclamada» · «Shrek 2 récord taquilla película animada más exitosa 2004» · «fandub español latino Shrek "Bienvenidos a Duloc" OR "All Star" cover canal YouTube» · «Shrek altura cumpleaños edad oficial ficha personaje años» · «Alfonso Obregón voz de Shrek entrevista actor doblaje mexicano» · «"Shrek 5" nueva voz actor doblaje Alfonso Obregón reemplazo nombre confirmado» · «entreteria.com "10 personajes de Shrek mejor clasificados" ranking lista».
+- **Fuentes citadas por nombre** (sin enlace en la parte): palomaynacho.com, socialfuturo.com, excelsior.com.mx, cronista.com, lanueva.com, screenrant.com, comicbook.com, sipse.com, plenitudmental.com, univa.mx, thedigitalfix.com, ucsdguardian.org, animatornotebook.com, sixmilepost.com, mcccagora.com, sceneandheardnu.com, ranker.com, buenaventuraenlinea.com, Daily Dot, Syfy, Cine Premiere, El Comercio, Milenio, Excélsior, RPP, ABC Noticias, El Gráfico.
+- **Fallaron:** YouTube (429 y «Sign in to confirm you're not a bot», también con `--js-runtimes node`; un intento por URL). La página de Doblaje Wiki de *Gato con botas* tenía mal el título en el recolector: la real es «Gato con botas».
+- **No encontré:** encuesta oficial; alturas y cumpleaños de Fiona, el Gato y Farquaad; *databook*; el reemplazo confirmado de Obregón; vistas de covers; testimonio con nombre sobre *Shrek* (2001); minuto propio del ataque de pánico; caras de vergüenza.
+
+### Texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+- **Red directa (Fandom API):** `action=parse` de *Shrek (franchise)*, Duloc, Duloc Dolls, Far Far Away Times, Onions, *Shrek 2 (video game)* y su transcript, *Shrek Super Slam*, *Shrek (Dark Horse)*, *Shrek (Ape Entertainment)*, Swamp Talk; `list=search` para juegos, cómics, Duloc y «onions/layers».
+- **Buscador (13, en inglés):** «Shrek movie logo font name identify» · «"Shrek" font dafont.com movie title» · «Bouwsma Uncial font P22 free alternative» · «Shrek 2001 end credits font typeface identify» · «"Shrek" comic book Dark Horse interior page preview speech bubble» · «tcrf.net Shrek 2 Windows unused debug cheat level select» · «Shrek 2001 making of animation software PDI DreamWorks Maya rendering interview» · «Shrek ogre skin subsurface scattering technique SIGGRAPH» · «Shrek film influences director Andrew Adamson interview fairy tale parody inspiration» · «movies similar to Shrek fairy tale parody adult humor animated recommendations» · «Shrek movie logo typography fontsinuse.com» · «Shrek 2 video game 2004 screenshot HUD health bar dialogue box» · «"Donkey" font FG Studios Shrek replica download dafont fontspace».
+- **Letras abiertas con fontTools:** `BouwsUnc.ttf`, `SHREK___.TTF`, `unifraktur.woff2`, `butcherman_latin.woff2`.
+- **Imágenes miradas:** el *Far Far Away Times* (1023×575), la calle de Duloc (1920×1080), 3 capturas de *PowerWash Simulator × Shrek*, una muestra de la letra del logo.
+- **Bloqueadas:** `tcrf.net` (403, directo y por Wayback), `tvtropes.org` (403, curl y WebFetch), `mobygames.com` (0 bytes), `fontmeme.com` (Cloudflare).
+- **No encontré:** letra de subtítulos, créditos y menús; páginas interiores de los cómics; entrevista sobre planos por emoción.
+
+### Redactor
+- Leídas las 4 partes enteras y los `datos-*.md`; miradas las 3 hojas de `hojas/` (de ahí salen las correcciones 1 y 2); inventario del servidor, DECISIONES.md y las biblias vecinas de Coco (57) y Encanto (58) para los choques de canal y de concepto.
+- `referencias.json` juntado de `imagen.json`, `video.json`, `voz.json`, `texto.json` y `datos.json`, sin duplicados y sin las listas contaminadas.
+- No se hicieron búsquedas nuevas: todo lo de esta biblia sale de las partes.
+
