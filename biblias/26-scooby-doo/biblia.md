@@ -103,9 +103,10 @@ fecha: 2026-09-24
   texturas 2D, colaboraciones, gustos, por qué la aman, fan dubs,
   obras parecidas, mundo e historia.
 - Tabla «Cumplimiento del encargo» y bitácora §21.7.
-- `referencias.json`: de 39 a más de 100 referencias.
+- `referencias.json`: de 39 a 157 referencias (vídeo con `&t=` en cabeza).
 
-**⚠️**: había **53**; ver el recuento final en la bitácora §21.7.
+**⚠️**: había **53**; ahora hay **100**, porque entran los 8 puntos nuevos
+con datos de una sola fuente. De los antiguos se resolvieron 2 (§21.7).
 
 ---
 
@@ -2276,6 +2277,46 @@ Con **Scooby olfateando** la fila de abajo y la lupa sobre «Del micro».
 
 ---
 
+## Cumplimiento del encargo
+
+Los 25 puntos de «Qué investigar» (ENCARGO.md), tras la segunda pasada
+(25-sep-2026). ✅ hecho; ⚠️ a medias, con el porqué.
+
+| Punto | Estado | Dónde y por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | §3: 3 hojas miradas (C, G, F), poses vivas en §3.3, figuras y cómics |
+| 2 · Fotogramas de escenas icónicas con minuto | ✅ | §2.3 (subtítulos con tiempos) y §2.5 (3 escenas **vistas** con `&t=`); fotogramas de la wiki a 1440×1080 |
+| 3 · Fan art y 3D con licencia | ✅ | §4 y punto 18: Sketchfab con licencia comprobada por API, fan art con autor |
+| 4 · Fondos, luz, paleta y texturas reales | ✅ | §5 y §17.1: hex medidos en hojas y en vídeo; furgoneta de día sigue aproximada (⚠️ dentro) |
+| 5 · Tipografía por uso, con tildes y ñ | ✅ | §6: letras libres comprobadas con fontTools |
+| 6 · Cómo hablan en pantalla (cuadro de diálogo) | ✅ | §7: ficha «Who's Who», cartón de título, globo de cómic de DC, cartelas; nada de burbuja blanca |
+| 7 · Personajes y popularidad | ✅ | §8 y §9: sin encuesta oficial (buscada, no existe o no se halló); encuesta de Scoobypedia y 3 hilos de Reddit contados |
+| 8 · Doblaje latino y frases textuales | ⚠️ | §2.4 y §10: frases con minuto de WB Kids Latino; parte del reparto de 1969-80 sólo en Doblaje Wiki (una fuente) |
+| 9 · Música y sonido | ✅ | §11: Ted Nichols y David Newman confirmados en pantalla; sonidos de 1998 oídos |
+| 10 · Vídeos con minuto | ✅ | §12: 6 vídeos vistos (opening, cierre, tráiler, 3 escenas) y 6 oficiales en latino con minuto; TikTok sin ver (⚠️ dentro) |
+| 11 · Videojuegos: interfaz y cajas de diálogo | ✅ | §13: 8 juegos; no hay caja de diálogo propia que copiar, se usa la idea de juntar pistas |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | §14 |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | §8: carácter, arcos, dinámicas y caras con minuto; **rabia y tristeza sin fotograma** (no salen en clips cortos) |
+| 14 · Poses con minuto por personaje | ✅ | §15: 6-13 por personaje, más poses de grupo vistas en vídeo |
+| 15 · Vestuario con hex | ✅ | §16 y §5.3: ropa de 1969 medida; tejido y versión 2002 añadidos |
+| 16 · Paisajes y fondos de pantalla | ✅ | §17: 18 sitios con su luz; fondos oficiales y de fans con tamaño y autor |
+| 17 · Guía para IA de imagen y de texto | ✅ | §18: rasgos fijos, estilo, palabras que ayudan y estropean, referencias, **voz por personaje y frases reales por emoción** |
+| 18 · Estilo y técnica, y cómo replicarlo | ✅ | Punto 18: xerografía (dos fuentes), Photoshop y Blender paso a paso, modelos libres; software de 2010 ⚠️ dentro |
+| 19 · Texturas 2D | ✅ | Punto 19: sin tramas (comprobado), grano, gouache, canalé y emblema, con equivalentes libres y licencia |
+| 20 · Gustos y detalles | ⚠️ | Punto 20: familia, aficiones y manías de los 5; **fuente única** (Scoobypedia) y sin cumpleaños ni altura |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | Punto 21: datos de Reddit, premios, Billboard, Sagan; la escena de Hot Dog Water **sin minuto ni música** |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Punto 22: un fandub oído con `voz.py`; los de YouTube, sólo por título (YouTube pidió sesión) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Punto 23: Fortnite, MultiVersus, Dead by Daylight, Supernatural, State Farm, Crocs, parque de Abu Dhabi, BendEms, cosplay con licencia |
+| 24 · Obras parecidas | ✅ | Punto 24: influencias con tres fuentes, 8 clones, lo que influyó, otras biblias |
+| 25 · Mundo, historia y símbolos | ✅ | Punto 25: 5 reglas, 9 arcos con fechas, objetos y vocabulario |
+| Tres conceptos de lámina | ✅ | §19, con mejoras de la segunda pasada y lámina 2 |
+| 40 fuentes distintas | ✅ | Más de 40 dominios enlazados (§21.5 y §21.7) |
+| Tipos de fuente | ⚠️ | Oficiales, wikis, foros, arte, vídeo, código, doblaje: sí. TV Tropes citado por páginas concretas en la segunda pasada; **TCRF** siguió sin leerse (403). Japonés sin datos útiles; coreano y chino no aplican (obra de EE. UU.) |
+| Hojas de contacto | ✅ | 3 en `hojas/`, miradas y citadas (C, G, F) |
+| `referencias.json` | ✅ | Más de 100, las mejores primero, con tamaño medido donde es imagen |
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### 21.1 Comprobación de red (24-sep-2026)
@@ -2398,3 +2439,64 @@ Español (es), inglés (en), japonés (ja).
 - Las páginas de **TV Tropes** y **TCRF** (403) y de **Wikipedia** (429).
 - El vídeo «**Supercorte de chicos entrometidos**» (YouTube 429).
 - Texturas de **Poly Haven** y **ambientCG** (bloqueadas).
+
+### 21.7 Segunda pasada (25-sep-2026, equipo de 4 investigadores y redactor)
+
+**Imagen** (puntos 1, 3, 15, 16, 19, 23)
+- API de Scoobypedia: búsquedas de texto *collaboration*, *crossover*,
+  *Vans*, *Crocs*, *McDonald's*, *Airbnb*, *Monopoly*, *GEICO*, *Hot
+  Topic*, *café*, *State Farm*, *Daily Babbler*; wikitext de Fortnite,
+  Dead by Daylight, MultiVersus, Scoobynatural, State Farm y Monopoly.
+- API de Fortnite Wiki (renders de Shaggy y del sándwich).
+- 9 búsquedas web (español e inglés): Vans (sin colección oficial),
+  Crocs (confirmada), cafetería oficial (no hay), Abu Dhabi (confirmado),
+  NECA (sin ficha), cosplay, grano de película, pinceles de gouache,
+  tejido CC0.
+- Mirado de verdad: las 3 hojas, la viñeta del *Daily Babbler* ampliada
+  5×, la furgoneta (medida con Pillow), el render de Fortnite y 2 fotos
+  de cosplay de [Flickr](https://www.flickr.com/).
+
+**Vídeo** (puntos 2, 4, 9, 10, 14)
+- YouTube pidió iniciar sesión: plan B con la API de
+  [Dailymotion](https://www.dailymotion.com/) e [Internet Archive](https://archive.org/).
+- `fotogramas.py` sobre 6 vídeos; `estilo.py` sobre 8 fotogramas; Pillow
+  para colores de ropa. Los `video.mp4` se borraron (48 MB).
+- Sin resultado: «Mystery Machine close up» y «Fred ascot» en
+  Dailymotion; TikTok con `yt-dlp` no dio vídeos sueltos.
+
+**Voz y personajes** (puntos 7, 8, 12, 13, 20, 21, 22)
+- Búsquedas en español: «Scooby-Doo Pa Pa DJ Kass», «cover opening Scooby
+  Doo español latino», «fandub español latino Scooby-Doo».
+- En inglés: premios (Peabody, Emmy), escena más triste en Reddit, Hot Dog
+  Water, ventas del merchandising, TV Tropes Heartwarming, ANMTV.
+- Red directa: wikitext entero de los 5 personajes en Scoobypedia;
+  Doblaje Wiki de «Scooby-Doo, ¿dónde estás?» (27 483 caracteres,
+  confirma la tabla de §10); [Arctic Shift](https://arctic-shift.photon-reddit.com/)
+  (Reddit); `fotogramas.py --cortes` sobre el tráiler 2002 (79 planos) y
+  el clip de créditos (21); `voz.py` sobre el fandub de Dailymotion.
+
+**Texto, técnica y mundo** (puntos 18, 24, 25)
+- 16 búsquedas web en inglés (xerografía, Iwao Takamoto, Toon Boom,
+  Sketchfab, Tiger West, *Dobie Gillis*, clones de Hanna-Barbera,
+  *Gravity Falls*, *Scoob!*, Blender *inverted hull*, logo de Mystery
+  Inc., Hex Girls, Carl Sagan).
+- Wikipedia en inglés por su API, artículo «Scooby-Doo» entero (56 445
+  caracteres). Scoobypedia y [Hanna-Barbera Wiki](https://hanna-barbera.fandom.com/)
+  por API (Tiger West). Sketchfab por API (12 modelos).
+- Wikimedia Commons dio 429 dos veces. Se **descartó** un dato de
+  Cartoon Research que el resumen del buscador atribuía mal.
+
+**Fuentes nuevas de esta pasada** (además de las de §21.5): Internet
+Archive, Dailymotion (Fandango MOVIECLIPS, canal Scooby Doo, CLICK 4
+CARTOON), Fortnite Wiki, Hanna-Barbera Wiki, D23, Canonica, Toon Boom,
+CGMagazine, Frame Rated, 3dsecrets, StraySpark, Decades, MovieWeb,
+ScreenRant, libquotes, Billboard, Remezcla, Hollywood Insider, Flickr,
+FilmLooks, Brusheezy, 3dtextures.me, crocs.com, WB World Abu Dhabi,
+Wallhaven y ArtStation.
+
+**⚠️**: 53 al empezar la segunda pasada. Se quitaron los de Ted Nichols y
+*Dead by Daylight*, y las posturas «de memoria» de §15 tienen ya poses vistas con minuto al lado; se añadieron
+los de los puntos nuevos (sobre todo fichas de una sola fuente del punto
+20 y fandubs sin oír del 22). **Recuento final: 100** marcas (contando las
+de la tabla, las leyendas y esta bitácora). Suben porque ahora hay 8
+puntos más, no porque se perdiera nada: los de la primera pasada bajaron.
