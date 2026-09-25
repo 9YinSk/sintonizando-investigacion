@@ -252,3 +252,113 @@ Y en la **color key oficial de Beach City** (pintura de fondo de producción, 12
 - Arena: **Ground054** · https://ambientcg.com/view?id=Ground054 y **Ground080** · https://ambientcg.com/view?id=Ground080
 - Roca del Templo y acantilados (sólo el relieve; el tono es el hex medido): **Rock064** · https://ambientcg.com/view?id=Rock064
 
+## Punto 5 · Tipografía: una letra por uso
+
+Steven Universe no es manga: **no hay letra de globo, de grito ni de onomatopeya en pantalla**. Hay logo, cartelas de título, créditos, el cómic de BOOM!, la escritura del mundo (Gem Glyph) y los juegos. Las tres letras libres son de MaxiGamer en [DaFont](https://www.dafont.com/), «100% Free».
+
+| Uso | Letra de la serie | Letra libre más parecida | ¿Tildes, ñ, ¿ y ¡? |
+|---|---|---|---|
+| **Logo / título** | rotulación propia, redondeada, con brillo de gema ([MadeGoodDesigns](https://madegooddesigns.com/steven-universe-font/), ⚠️) | **Crystal Universe** · https://www.dafont.com/crystal-universe.font | ⚠️ sin comprobar: la descarga dio 0 bytes dos veces |
+| **Cartela de título** (el «globo» de la serie) | la de las cartelas de cada capítulo | **Crewniverse** · https://www.dafont.com/crewniverse.font | ✅ **sí**: á é í ó ú, Á É Í Ó Ú, ñ, Ñ, ¿, ¡, ü (comprobado con fontTools) |
+| **Créditos / subtítulos** | la de los créditos finales | **Creditverse** · https://www.dafont.com/creditverse.font | ⚠️ **no**: 0 de 14 caracteres (fontTools). No sirve para español sin arreglos |
+| **Globo normal, grito, pensamiento, onomatopeya** | sólo existen en el cómic de BOOM! | ⚠️ no encontré el rotulista ni la letra | — |
+| **Cartel del mundo** | **Gem Glyph** (escritura logográfica; punto 25) | en *Unleash the Light* es una letra real letra a letra | no aplica (no son letras latinas) |
+| **Interfaz de juego** | ⚠️ sin identificar (Game UI Database bloqueado) | — | — |
+
+**Para la lámina: usa Crewniverse** en todo el texto en español. Es la única comprobada con tildes y ñ, y es la letra de las cartelas reales.
+
+Cómic: dos series oficiales. Miniserie 2014-2015 (guion Jeremy Sorese, dibujo Coleman Engle) y serie regular desde 2017 (guion Melanie Gillman, dibujo Katy Farina, color Whitney Cogar) · [Fandom](https://steven-universe.fandom.com/wiki/Steven_Universe_(comic_series)) + [ComicsAlliance](https://comicsalliance.com/boom-steven-universe-ongoing-melanie-gilman-katy-farina/) · ✅. Una reseña dice que los globos de la miniserie eran «caprichosos y difíciles de leer» (⚠️ una sola fuente, no se pudo abrir el original).
+
+## Punto 6 · Cómo hablan en pantalla (el «cuadro» de Steven Universe)
+
+**La serie casi nunca usa globos.** Se habla con voz y gesto. Por eso la lámina **no debe llevar una burbuja blanca de cómic**. Lo que sí es de la serie:
+
+1. **La cartela de título de cada capítulo** con la letra Crewniverse (punto 5). La de Garnet lleva una **estrella doble**, pista de que es una fusión ([Garnet · Trivia](https://steven-universe.fandom.com/wiki/Garnet#Trivia), ✅). ⚠️ El diseño exacto de las cartelas (fondo, marco, colores) no está descrito en las partes: mirar una antes de copiarla.
+2. **El Comunicador de las Diamantes**: objeto **octaédrico** con una cara de color por Diamante (blanca, amarilla, azul, rosa). Se gira y **proyecta una pantalla holográfica** para hablar en directo. Es la «videollamada» de la serie · [Diamond Communicator](https://steven-universe.fandom.com/wiki/Diamond_Communicator) · imagen 1000×1034 · https://static.wikia.nocookie.net/steven-universe/images/d/d5/Diamond_Communicator.png · ✅ la función, ⚠️ la forma exacta de la pantalla.
+3. **Carteles en Gem Glyph** en Little Homeworld, las columnas del Sky Arena y la Fragua. Fotograma 1920×1080 con carteles de fondo · https://static.wikia.nocookie.net/steven-universe/images/6/6a/Little_Homeschool_259.png · banner de Homeworld · https://static.wikia.nocookie.net/steven-universe/images/7/7d/Homeworld_banner_zoomed_in.PNG · ✅
+4. **El libro «Tale of Steven»** que lee White Diamond en la película: inglés y Gem Glyph en la misma página. Único caso con las dos escrituras juntas · [Gem Glyph](https://steven-universe.fandom.com/wiki/Gem_Glyph) · ✅
+5. **El blog de Ronaldo, «Keep Beach City Weird»**: un Tumblr real (desde el 19-sep-2013, antes del estreno) donde el personaje cuenta cosas raras del pueblo · [Fandom](https://steven-universe.fandom.com/wiki/Keep_Beach_City_Weird_(blog)) · ✅
+
+**Pensamientos:** no hay nubes de pensamiento. Los recuerdos y sueños se animan como escena entera. ⚠️ Deducción: «thought bubble» no aparece en la wiki.
+
+**Videojuegos:** la vida no se llama «HP» sino **«harmony»** (punto 11). ⚠️ No se vio la caja de diálogo de ningún juego.
+
+**Cómic:** ⚠️ no se vio una página para describir el globo.
+
+## Punto 7 · Personajes y popularidad
+
+**No hay encuesta oficial** de Cartoon Network: se buscó en inglés y español («favorite character poll», «encuesta personaje favorito oficial»). Lo que hay:
+
+**Dibujos de fans en [Danbooru](https://danbooru.donmai.us/posts?tags=steven_universe)** (2213 dibujos de la serie; cifra exacta) · ✅:
+
+| Puesto | Personaje | Dibujos |
+|---|---|---|
+| 1 | **Perla** | 414 |
+| 2 | **Lapis Lázuli** | 394 |
+| 3 | **Peridot** | 355 |
+| 4 | Steven | 264 |
+| 5 | Amatista | 209 |
+| 6 | Garnet | 175 |
+| 7 | Blue Diamond | 153 |
+| 8 | Rose Quartz | 134 |
+| 9 | Connie / Jasper | 122 |
+| 10 | Spinel | 92 |
+
+(Hatsune Miku, Kirby y Sonic salen antes por un cruce de etiquetas; no son de la serie.)
+
+- **Ranking de IGN** (2019): Garnet 1.ª, luego Steven y Peridot · https://www.ign.com/articles/2019/07/03/every-steven-universe-character-ranked · ⚠️ (una fuente; la lista completa no se pudo abrir).
+- **[Reddit r/stevenuniverse](https://www.reddit.com/r/stevenuniverse)**: en los hilos de «mejor escena» e «icónico» salen sobre todo **Garnet, Lapis y Rose / Pink Diamond**. Steven sale en «opinión impopular»: «Steven era mucho más molesto en las primeras temporadas» (241 votos, 155 comentarios) · ⚠️ (títulos de hilos, no encuesta).
+- Hilos con más votos: «Rose burlándose de White Diamond es icónico» (1576 votos) · https://www.reddit.com/r/stevenuniverse/comments/1p0mk6n/rose_making_fun_of_white_diamond_is_iconic/ · «la mejor escena del final» (1090 votos) · https://www.reddit.com/r/stevenuniverse/comments/fq9wza/the_best_scene_from_the_finale/ · «Lapis se luce en esta escena» (883 votos).
+- Favoritos del equipo: Garnet es la favorita de Ian Jones-Quartey (co-showrunner) y Steven la de Joe Johnston (animador) · Trivia de [Garnet](https://steven-universe.fandom.com/wiki/Garnet#Trivia) y [Steven](https://steven-universe.fandom.com/wiki/Steven_Universe_(character)#Trivia) · ✅
+
+**Conclusión para la lámina:** Perla es la más dibujada; Garnet la mejor valorada por la prensa y el equipo; Lapis y Peridot, las secundarias con más tirón. Steven es el centro, pero no el más querido.
+
+**Personajes y con quién aparecen** (detalle en el punto 13):
+- **Steven**: niño medio Gema, con las tres Gemas, su padre Greg, su amiga Connie y León.
+- **Garnet**: la líder; separa a Perla y Amatista cuando discuten.
+- **Amatista**: la bromista; hace reír a Steven, comparte con él la comida basura.
+- **Perla**: la perfeccionista; sobreprotege y corrige a Steven.
+
+## Punto 8 · Doblaje latino y frases textuales
+
+**Ficha** ([Doblaje Wiki por la API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Steven_Universe) + [ANMTV](https://www.anmtvla.com/2014/03/steven-universe-estrena-en-abril-por.html)) · ✅:
+- Estudio **Etcétera Group**, **Venezuela**. Dirección de casting **Walter Véliz** y **Ángel Lugo**. Dirección musical **Marielba Suárez**. Ingeniera de grabación **Gabriela Belén** (T3-T5).
+- Grabado de diciembre de 2013 a enero de 2018. Estreno en Latinoamérica el **7 de abril de 2014** (preestreno el 30 de marzo) en el bloque *Tele Héroes*. 5 temporadas, 160 capítulos.
+- Sólo se emitió por **Cartoon Network Latinoamérica**; no hay otro doblaje de Netflix o Crunchyroll.
+- Traducción y letras: **Germán Esaá** (p. ej. «El Señor Greg», canción «Nada nos cuesta») y **Jorge Bringas** («En Esa Costa»).
+- Curiosidad: los únicos Steven doblados en **México** fueron dos promos cruzadas (*Power Rangers: Dino Charge* y *Hora de aventura: Estacas*), con una actriz mexicana desconocida.
+
+**Reparto principal (dos fuentes cada nombre):**
+
+| Personaje | Original | Latino | Fuente 2 |
+|---|---|---|---|
+| Steven | Zach Callison | **Leisha Medina** | [ANMTV](https://www.anmtvla.com/2020/01/leisha-medina-habla-sobre-los-motivos.html) (sobre su renuncia) ✅ |
+| Garnet | Estelle | **Rocío Mallo** | [ModoGeeks](https://modogeeks.com/2018/07/07/vig-entrevista-a-rocio-mallo-voz-de-garnet-en-steven-universe/) (entrevista) ✅ |
+| Amatista | Michaela Dietz | **Stefani Villarroel** (desde el ep. 147 grabó autodirigida desde Chile, con un tono algo distinto) | [ANMTV](https://www.anmtvla.com/2013/12/el-universo-de-steven-comienza-doblaje.html) ✅ |
+| Perla | Deedee Magno | **María José Estévez** (T1-T2 en Venezuela; T2-T5 desde Miami) | [Steven Universe Wiki en español](https://steven-universe.fandom.com/es/wiki/Mar%C3%ADa_Jos%C3%A9_Est%C3%A9vez) ✅ |
+
+**Secundarios** (sólo Doblaje Wiki, ⚠️ una fuente): Connie **Yasmil López** · Greg **Henrique Palacios** (canta «Soy un cometa» **Adrián Blanco**) · Lars **Ángel Lugo** · Sadie **Karina Parra** / **Mariangny Álvarez** · Peridot **Sofía Narváez** / **Mariangny Álvarez** · Lapis **Andrea Navas** · Rose / Pink Diamond **Maythe Guedes** · Rubí **Judith Noguera** · Zafiro **Arelys González** · Bismuto **Ivette García**, **Alix Ramírez**, **Catherine Reyes** · Yellow Diamond **Elena Díaz Toledo** · Blue Diamond **Rebeca Aponte** / **Leisha Medina** · White Diamond **Aura Caamaño** · Jasper **Valentina Toro** · Stevonnie **Yojeved Meyer** · Sardonyx **Claudia Álvarez** · Ópalo **Aura Caamaño** · Sugilite **Lileana Chacón** · Cuarzo Arcoíris 2.0 **David D'Urso** (✅ también lo confirma el traductor en [Twitter](https://twitter.com/lobo_jurji/status/1097474721627676672)).
+
+⚠️ María José Estévez dobla a **todas** las Perlas (también a Perla Blanca), según un resumen de búsqueda.
+
+**Frases textuales** (muestras de Doblaje Wiki oídas con `voz.py`, Whisper local; el minuto es el de la muestra):
+
+| Personaje | Frase (textual) | Min. | Cómo suena |
+|---|---|---|---|
+| **Perla** | «¡Oh, Steven! Los humanos tienen una vida tan corta, aburrida e insignificante que inventan historias para sentir que forman parte de algo más grande» | 0:00 | aguda (263 Hz), muy expresiva (20.8 semitonos), rápida (3.0 palabras/s) |
+| Perla | «Quieren responsabilizar por todos los problemas del mundo a un solo enemigo que puedan combatir y no entienden que es una compleja red de fuerzas interrelacionadas que nadie puede controlar» | 0:07 | — |
+| **Garnet** | «Cuando dos gemas se combinan crean algo más grande que la suma de sus partes, por eso soy tan genial» | 0:00 | media (190 Hz), muy expresiva (25.0 semitonos), normal (2.57 palabras/s): grave y firme |
+| Garnet | «Para que Amatista pudiera ser ella, para que Perla fuese libre y para que pudiéramos estar juntas» · «Para que existieras tú» | 0:12 · 0:18 | — |
+| Garnet (cantado) | «No destruirás lo que tenemos, juntos por siempre así estaremos» · «Si tú nos separas nos uniremos, y siempre seremos mejores que tú» | 0:21 · 0:25 | — |
+| **Amatista** | «¡Nunca pedí ser lo que soy! ¡Nunca pedí ser creada!» | 0:00 | muy aguda (449 Hz), expresiva (9.3 semitonos), normal (2.33 palabras/s) |
+| **Steven** | «Sí, pero nada permanece en la tierra, las cosas siempre están cambiando, las hojas, las ciudades, incluso Jersey cambia» | 0:00 | aguda (244 Hz), muy expresiva (17.9 semitonos), rápida (3.29 palabras/s) |
+| Steven | «Mi papá dice que las paradas de descanso eran asquerosas, pero ahora venden sushi» · «Este no es el mismo mundo que te mantuvo atrapada, ya no lo es» · «Y sé que no se siente como un hogar, pero tal vez eso pueda cambiar» | 0:09 · 0:13 · 0:17 | — |
+
+Muestras: [Perla.ogg](https://static.wikia.nocookie.net/doblaje/images/8/87/Perla.ogg/revision/latest?cb=20170601232503&path-prefix=es) · [Garnet.ogg](https://static.wikia.nocookie.net/doblaje/images/b/bd/Garnet.ogg/revision/latest?cb=20170620183938&path-prefix=es) · [Amatista.ogg](https://static.wikia.nocookie.net/doblaje/images/a/a6/Amatista.ogg/revision/latest?cb=20170130215341&path-prefix=es) · [Steven.ogg](https://static.wikia.nocookie.net/doblaje/images/a/af/Steven.ogg/revision/latest?cb=20170614194925&path-prefix=es).
+
+- La de Perla es la versión latina de su frase de «Keep Beach City Weird» («Humans just live short, boring, insignificant lives…») · ✅
+- ⚠️ **La de Garnet parece un montaje de varias escenas**, no sólo la canción «Stronger Than You» como dice la parte de voz: «la Tierra era de Diamante Rosado…» (0:06) no es de la pelea con Jasper. Sólo 0:21-0:25 suena a la letra cantada. No se sabe de qué capítulo es cada frase.
+- ⚠️ La de Amatista encaja con su pelea con Perla en «On the Run», pero la muestra no dice el capítulo. La de Steven tampoco.
+- En 0:17 de Perla.ogg Whisper oyó mal un verso cantado: **no citarlo**.
+- ⚠️ **No hay clips oficiales doblados transcritos.** El clip `TIO` (doblado) se miró en fotogramas, no se transcribió.
+
