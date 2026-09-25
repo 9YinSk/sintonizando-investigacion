@@ -16,3 +16,4 @@ Cuenta: cuenta A102
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 11 | texto | Sonnet | 12 | 168 mil |
