@@ -25,6 +25,7 @@ fecha: 2026-09-24
 
 ## Índice
 
+- Segunda pasada · qué cambió (repaso corto: puntos 18-25 del encargo)
 0. Haikyuu!! no tiene canal: dónde encaja mejor
 1. Resumen para quien tenga prisa
 2. Las escenas que sirven (con minuto)
@@ -43,8 +44,16 @@ fecha: 2026-09-24
 15. Poses analizadas por personaje
 16. Vestuario
 17. Paisajes y fondos de pantalla
-18. Guía para generar con IA
-19. Tres conceptos de lámina
+18. Guía para generar con IA (punto 17 del encargo; 18.7 nuevo)
+- Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+- Punto 19 · Texturas 2D: tramas, papel, patrones y escudos
+- Punto 20 · Gustos y detalles de cada personaje
+- Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+- Punto 22 · Fan dubs y comunidad hispana
+- Punto 23 · Colaboraciones, figuras, cafés y cosplay
+- Punto 24 · Obras parecidas y láminas vecinas
+- Punto 25 · El mundo, la historia por arcos y sus símbolos
+19. Tres conceptos de lámina (con mejoras de la segunda pasada)
 20. Lo que no pude verificar
 - Cumplimiento del encargo
 21. Bitácora de búsqueda
