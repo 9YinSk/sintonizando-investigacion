@@ -1,10 +1,10 @@
 # Datos para el investigador de TEXTO, JUEGOS Y TÉCNICA (puntos 5, 6, 11, 18, 24, 25) · Shrek
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Kattobi! Shrek» (ONE_SHOT, parecido 0.59 con «Shrek»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fandom: no encontré la página de «Burro» · fandom: no encontré la página de «el Gato con Botas» · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Kattobi! Shrek» (ONE_SHOT, parecido 0.59 con «Shrek»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · animethemes: HTTP Error 522: <none>
 
 ## Videojuegos en Steam: interfaz y cuadros de diálogo en capturas 1920×1080
 _Fuente: https://store.steampowered.com_

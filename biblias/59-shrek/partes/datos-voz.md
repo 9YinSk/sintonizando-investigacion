@@ -1,10 +1,10 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Shrek
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Kattobi! Shrek» (ONE_SHOT, parecido 0.59 con «Shrek»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fandom: no encontré la página de «Burro» · fandom: no encontré la página de «el Gato con Botas» · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: descarté «Kattobi! Shrek» (ONE_SHOT, parecido 0.59 con «Shrek»); si es la obra, usa --nombres · anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · animethemes: HTTP Error 522: <none>
 
 ## Doblaje latino: ficha de «Shrek» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/Shrek_
@@ -149,27 +149,42 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Shrek#Datos%20de%20inter%C3%A9s_
 - El VHS original de la película, incluía la sinopsis de la película al reverso, y acreditaba a Alfonso Obregón, Eugenio Derbez, Dulce Guerrero y Humberto Vélez.
 - A su vez, en este formato los créditos del doblaje aparecían durante la canción Stay Home de Self que se escucha en los créditos finales de la película, mientras en otros formatos se mostraban hasta el final, incluso al principio del largometraje, tanto el nombre de la película como los nombres del elenco en inglés no aparecen y están en blanco.
 
+## Donkey · Personality (texto de la wiki)
+_Fuente: https://shrek.fandom.com/wiki/Donkey#Personality_
+
+Contrary to his species' stubborn stereotypes, Donkey is a hyperactive, simple-minded chatterbox, whimsical, and sociable to a fault. He enjoys singing, idle chatter and often speaks ebonics, and while rarely ill-intentioned can prove rather oblivious and irritating those around him (especially Shrek). Donkey is also often quite gutless and tends to freak out in the face of danger, which often proves trying in emergencies while coupled with his impatience and short attention span. Some of Donkey's foibles include noisiness, acrophobia, colorblindness, hypochondria (fear of illness), and gutlessness. For these reasons and more, Donkey can prove to be somewhat of a (dense, irritating, miniature beast of) burden while journeying with others. However, there's one thing Donkey is very obstinate about - making friends. Despite his many flaws, Donkey is a steadfast character whose friendliness…
+
 ## Fiona · Personality (texto de la wiki)
 _Fuente: https://shrek.fandom.com/wiki/Fiona#Personality_
 
 Fiona initially behaves like an archetypal fairytale princess when she meets Shrek. She speaks formally in matters of courtship and has particular expectations of how she is to be rescued, who is to rescue her, and so forth. Later, Princess Fiona's true self emerges, revealing a down-to-earth and independent woman who is a match for Shrek when it comes to the bad habits he has. She enjoys burping and likes to get foot massages. She’s a loyal friend and wife, and unlike princesses of fairy tales, an old pro in hand-to-hand combat with knowledge of Japanese martial arts, leading a rebellion with the princesses while pregnant with Shrek's children. She also has very poor manners (just like Shrek), since she is an ogre. According to the Magic Mirror, she is a feisty woman who likes Pina coladas and getting caught in the rain. She's shown to be very nurturing and proves to be a great mother…
 
+## Puss in Boots · Personality (texto de la wiki)
+_Fuente: https://shrek.fandom.com/wiki/Puss_in_Boots#Personality_
+
+Aside from being a protective and honorable fighter, Puss is a "ladies' cat" as well. Puss likes to tell stories, sing and dance. He is always on the lookout for an adventure and will do anything to protect his friends. Despite Donkey's antagonizing nature towards him, Puss is the less proactive of the two as usual, as well as often trying to be the voice of reason between conflicting parties. Overtime, after his adventures with Kitty and Humpty Dumpty, Puss continued to build his "legend" as heroic outlaw, feared by his enemies yet beloved by the people he helped. His ego grew along with his "legend" in that Puss came to constantly declare "Puss in Boots laughs in the face of death", which unfortunately caused Puss to become dismissive of his own wellbeing due to being a cat and having nine lives. As he kept thinking he had lives to spare, Puss engaged in some frivolous activities that…
+
+## Puss in Boots · Abilities (texto de la wiki)
+_Fuente: https://shrek.fandom.com/wiki/Puss_in_Boots#Abilities_
+
+*Combat Proficiency: Despite his small size, Puss is a capable fighter even when outnumbered against much larger opponents. *Master Swordsman: Puss possesses incredible skills in the use of a sword, mostly in combat. *Cute Nature: Puss' trademark attack is by using his cute nature, shown when he stares up at his opponents with an innocent, wide-eyed expression, softening his foes' hearts. *Guitar Proficiency: Puss seems to know how to play with a guitar. *Expert Dancer: Puss is shown to be an expert at dancing, as shown when he was challenged by Kitty Softpaws to a dance fight. *Sharp Claws: Like all cats, Puss has razor-sharp claws which are sufficient to rend most substances. His claws can also hurt Shrek, even though the ogre's green skin is very tough and can even pierce glass or open locks as well. *Expert Thief and Hunter: Puss is known to be a master of thievery since he is…
+
 ## Los personajes más dibujados por los fans (Danbooru, 585 dibujos de «shrek_(series)»)
 _Fuente: https://danbooru.donmai.us/posts?tags=shrek_%28series%29_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hatsune_miku · 146413 dibujos
-2. link · 21024 dibujos
-3. pikachu · 17606 dibujos
+1. hatsune_miku · 146428 dibujos
+2. link · 21025 dibujos
+3. pikachu · 17607 dibujos
 4. gawr_gura · 16506 dibujos
-5. frieren · 16290 dibujos
-6. ninomae_ina'nis · 12804 dibujos
+5. frieren · 16292 dibujos
+6. ninomae_ina'nis · 12805 dibujos
 7. mori_calliope · 12726 dibujos
 8. kirby · 11064 dibujos
-9. takanashi_kiara · 10568 dibujos
+9. takanashi_kiara · 10569 dibujos
 10. watson_amelia · 7445 dibujos
 11. son_goku · 7231 dibujos
-12. tsukino_usagi · 6876 dibujos
+12. tsukino_usagi · 6878 dibujos
 13. mario · 6326 dibujos
 14. sonic_the_hedgehog · 6291 dibujos
 15. sailor_moon · 4900 dibujos
@@ -185,35 +200,27 @@ _Fuente: https://api.dailymotion.com_
 **«Shrek latino»**
 - Shrek & Shrek 2 · 0:30 · Tele-Loisirs.fr · 30287 vistas · https://www.dailymotion.com/video/x86rksj
 - Shrek 5 - Teaser Tráiler Oficial Latino · 1:21 · FilmAffinity · 2158 vistas · https://www.dailymotion.com/video/xag8wgm
+- Shrek · 2:22 · theoxe · 1838 vistas · https://www.dailymotion.com/video/x3zgrw
 - "Shrek" Special De Halloween "Español Latino" (THRILLER) HD · 5:06 · Katrice Canada · 1167 vistas · https://www.dailymotion.com/video/x2xbz48
 - Shrek · 2:06 · MonProgrammeTV · 953 vistas · https://www.dailymotion.com/video/x3lvf4d
-- Shrek the Third (Shrek 3) · 2:03 · Teaser Trailer · 826 vistas · https://www.dailymotion.com/video/x4hgwvw
-- shrek... · 0:31 · jak  salim · 651 vistas · https://www.dailymotion.com/video/xh9hl
+- Shrek · 0:35 · Télé 7 Jours · 918 vistas · https://www.dailymotion.com/video/x9fke7k
 **«Shrek doblaje latino»**
 - Alfonso Obregón lanza campaña para volver como Shrek | Reporte Indigo · 0:43 · Reporte Indigo · 47 vistas · https://www.dailymotion.com/video/xa0dz7e
 - Eugenio Derbez revela que su doblaje latino de 'Shrek 5' podría no ser una realidad · 1:53 · Milenio · 42 vistas · https://www.dailymotion.com/video/x9abw7a
 **«Shrek fandub español»**
-- Shrek 5 - Teaser tráiler oficial español · 1:21 · FilmAffinity · 3625 vistas · https://www.dailymotion.com/video/xag88p6
+- Shrek 5 - Teaser tráiler oficial español · 1:21 · FilmAffinity · 3626 vistas · https://www.dailymotion.com/video/xag88p6
 - Shrek - Tráiler español · 1:55 · FilmAffinity · 2570 vistas · https://www.dailymotion.com/video/x87l7w8
 - Shrek 5 - Trailer español · 1:21 · Trailers y Estrenos · 2342 vistas · https://www.dailymotion.com/video/xag6jsy
-- Shrek 2 - Tráiler español · 2:04 · FilmAffinity · 1601 vistas · https://www.dailymotion.com/video/x8gl4fv
+- Shrek 2 - Tráiler español · 2:04 · FilmAffinity · 1603 vistas · https://www.dailymotion.com/video/x8gl4fv
 - Shrek Tercero Trailer doblado al español · 2:29 · Tomatazos · 423 vistas · https://www.dailymotion.com/video/x8x2k04
 - Shrek (2001) pelicula completa español latino · 66:03 · Peliculas y mas · 83 vistas · https://www.dailymotion.com/video/xalipyq
 **«Shrek fandub latino»**
 - Shrek 5 - Teaser Tráiler Oficial Latino · 1:21 · FilmAffinity · 2158 vistas · https://www.dailymotion.com/video/xag8wgm
-- Shrek Thriller homenaje a Michael Jackson (Latino) · 3:44 · Misti Cleary · 147 vistas · https://www.dailymotion.com/video/x359rk0
 - Shrek (2001) pelicula completa español latino · 66:03 · Peliculas y mas · 83 vistas · https://www.dailymotion.com/video/xalipyq
 
 ## Reddit r/Shrek: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/Shrek_
 
-**«favorite character»**
-- (1099 votos, 3 comentarios) Shrek's favorite LEGO Star Wars character · https://www.reddit.com/r/Shrek/comments/con5gc/shreks_favorite_lego_star_wars_character/
-- (282 votos, 25 comentarios) Who is this plz let me know it my favorite character · https://www.reddit.com/r/Shrek/comments/spy6ii/who_is_this_plz_let_me_know_it_my_favorite/
-- (87 votos, 46 comentarios) who is your all-time favorite character in the Shrek franchise I'll go first: · https://www.reddit.com/r/Shrek/comments/1rjci1q/who_is_your_alltime_favorite_character_in_the/
-- (75 votos, 30 comentarios) Who is your favorite character? · https://www.reddit.com/r/Shrek/comments/1pbl9l2/who_is_your_favorite_character/
-- (69 votos, 36 comentarios) Attention Shrek fans who is your number 1 favorite character from the Shrek movies and why (you can't say Shrek is your… · https://www.reddit.com/r/Shrek/comments/1su0y2i/attention_shrek_fans_who_is_your_number_1/
-- (64 votos, 57 comentarios) there we no bad boys allowed to comment on my posts. however, let's move on to the question. What is your favorite… · https://www.reddit.com/r/Shrek/comments/1jefy1s/there_we_no_bad_boys_allowed_to_comment_on_my/
 **«why I love»**
 - (830 votos, 20 comentarios) Shrek never fails to surprise me, and that's why I love him so much · https://www.reddit.com/r/Shrek/comments/mcbh0s/shrek_never_fails_to_surprise_me_and_thats_why_i/
 - (807 votos, 31 comentarios) Why is the Love Potion from the Fairy Godmother in Shrek 2 labeled IX which is roman numerals to "9"? Maybe its obvious… · https://www.reddit.com/r/Shrek/comments/1k1l7aj/why_is_the_love_potion_from_the_fairy_godmother/
@@ -221,3 +228,10 @@ _Fuente: https://www.reddit.com/r/Shrek_
 - (14 votos, 5 comentarios) People ask why I love Shrek · https://www.reddit.com/r/Shrek/comments/xlswwk/people_ask_why_i_love_shrek/
 - (7 votos, 0 comentarios) A remix that i did of I Need Your Love by Calvin Harris and Escape From The Dragon, i have no idea why i made this,… · https://www.reddit.com/r/Shrek/comments/u38urs/a_remix_that_i_did_of_i_need_your_love_by_calvin/
 - (2 votos, 1 comentarios) Why do I love shrek you ask? · https://www.reddit.com/r/Shrek/comments/bt1pwv/why_do_i_love_shrek_you_ask/
+**«iconic»**
+- (710 votos, 23 comentarios) Name a more iconic duo… I’ll wait · https://www.reddit.com/r/Shrek/comments/obua2h/name_a_more_iconic_duo_ill_wait/
+- (202 votos, 8 comentarios) Forgot how iconic the scene was · https://www.reddit.com/r/Shrek/comments/1lh0hk7/forgot_how_iconic_the_scene_was/
+- (194 votos, 7 comentarios) john lithgow doing his iconic lord farquaad line ! · https://www.reddit.com/r/Shrek/comments/1jb5ijm/john_lithgow_doing_his_iconic_lord_farquaad_line/
+- (117 votos, 25 comentarios) Will there ever be a more iconic ending to a movie than this one? · https://www.reddit.com/r/Shrek/comments/1kit0iw/will_there_ever_be_a_more_iconic_ending_to_a/
+- (96 votos, 4 comentarios) happy 20 years to the iconic animated film that started it all !!! · https://www.reddit.com/r/Shrek/comments/mw7x00/happy_20_years_to_the_iconic_animated_film_that/
+- (44 votos, 1 comentarios) Until Shrek 5 hits the theaters, I'm recreating random movie posters with Shrek. This time i recreated the iconic… · https://www.reddit.com/r/Shrek/comments/1ing9wi/until_shrek_5_hits_the_theaters_im_recreating/
