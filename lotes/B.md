@@ -22,6 +22,12 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 - 12: 4 partes listas → redactor (Opus, repaso) en marcha desde 06:51.
   13: las 4 partes terminadas → redactor (Opus, repaso) en marcha desde 06:57.
   14: datos listos → 4 investigadores (Sonnet, repaso) en marcha desde 06:54. 15-18: recolectando.
+- **Corte por límite de sesión** (07:29-19:29 UTC, `rate_limit`, «resets 11:30am UTC»): los 6 agentes vivos murieron a mitad de tanda (12 redactor, 13 redactor, 14 los 4 investigadores). guardar.sh había subido lo hecho hasta el corte, así que no se perdió nada terminado.
+  12 Kakegurui: el redactor llegó casi al final (1556 líneas, hojas y 37 referencias); sólo falta la tabla «Cumplimiento del encargo». Relanzado 19:30 UTC, sólo para esa tabla.
+  13 Rick and Morty: el redactor llegó hasta §10 (corrigió el estudio de doblaje); faltan «Segunda pasada», «3A hojas», 18A-18H (puntos 19-25) y la tabla. Relanzado 19:30 UTC, corto.
+  14 Adventure Time: los 4 investigadores murieron sin escribir nada (sólo los datos gratis seguían). Relanzados desde cero a las 19:31 UTC.
+  15-18: datos y hojas recolectados; siguen pendientes sus equipos.
+  guardar.sh --cada 300 relanzado a las 19:29 UTC tras el reinicio del contenedor.
 
 ## Avisos para el dueño
 
