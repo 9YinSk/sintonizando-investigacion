@@ -1,0 +1,135 @@
+[
+  {
+    "url": "https://frieren-anime.jp/special/map/",
+    "fuente": "Sitio oficial de Frieren, «旅の軌跡を辿る地図» (el mapa que traza las huellas del viaje)",
+    "que_es": "Página especial oficial que numera los 28 episodios de la T1 con números en círculo (①-㉘) como si fueran paradas de un mapa del viaje.",
+    "para_que": "Punto 5 (tipografía de números-marcador) y Punto 25 (el mundo como mapa de recuerdos): inspiración directa para un concepto de lámina en forma de mapa. El dibujo visual del mapa está protegido con JS/Cloudflare; sólo se pudo leer el texto.",
+    "licencia": "Web oficial del anime; sólo cita y enlace, no reproducir el diseño."
+  },
+  {
+    "url": "https://frieren-anime.jp/story/2nd/ep37/",
+    "fuente": "Sitio oficial de Frieren, sinopsis del episodio 37 «ヒンメルの自伝» (T2), emitido 20-mar-2026",
+    "que_es": "Sinopsis y créditos oficiales (guion, storyboard, dirección de animación) del episodio donde se encuentra la autobiografía de Himmel en un monasterio del Lago Korridor.",
+    "para_que": "Punto 6: fuente principal y oficial del objeto de memoria más fuerte encontrado (el libro de Himmel con páginas en blanco al final).",
+    "licencia": "Web oficial del anime; sólo cita y enlace."
+  },
+  {
+    "url": "https://anitabi.jp/works/36?lang=en",
+    "fuente": "AniTabi, mapa de peregrinaje de anime para Frieren: Beyond Journey's End",
+    "que_es": "Mapa colaborativo con 7 sitios reales de Japón que los fans identifican como parecidos al mundo de Frieren (Yufuin, Huis Ten Bosch, Warmth Forest, Lockheart Castle, ruinas de Kumaen, Laguna Ten Bosch, Parque Marino de Hitachi).",
+    "para_que": "Punto 18: referencias reales fotografiables para pintar o describir a una IA de imagen los fondos y la luz del mundo de Frieren.",
+    "licencia": "Base de datos colaborativa de fans (AniTabi); enlazar como referencia, no como fuente oficial del estudio."
+  },
+  {
+    "url": "https://www.anitabi.jp/spots/2841",
+    "fuente": "AniTabi, ficha del Parque Marino Nacional de Hitachi (colina Miharashi)",
+    "que_es": "Ficha del campo de nemófilas (flores azules) que los fans y varios blogs japoneses identifican como el modelo real de la «hierba luna azul» (蒼月草) de Frieren.",
+    "para_que": "Punto 18/25: referencia real y fotografiable para el campo de flores de la memoria de Himmel; mejor que inventar un azul de fantasía sin referencia.",
+    "licencia": "Ficha de base de datos de fans; el parque en sí es un lugar público, fotografiable por cualquiera."
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/cont/articles/3377207/",
+    "fuente": "ねとらぼ (ITmedia), «『葬送のフリーレン』の勇者一行、ネモフィラ畑に現る»",
+    "que_es": "Reportaje sobre el cosplay viral (230 mil «me gusta») de fans vestidos de Frieren en el campo de nemófilas de Hitachi.",
+    "para_que": "Punto 18: segunda fuente que confirma el campo de nemófilas como referencia real del campo de flores de la serie.",
+    "licencia": "Artículo editorial de ITmedia; sólo cita y enlace."
+  },
+  {
+    "url": "https://unwinnable.com/2026/03/16/the-aesthetics-of-impermanence-how-frieren-visualizes-untranslatable-japanese-philosophy/",
+    "fuente": "Unwinnable, «The Aesthetics of Impermanence: How Frieren Visualizes Untranslatable Japanese Philosophy» (Beatrix Kondo, 16-mar-2026)",
+    "que_es": "Ensayo crítico en inglés que analiza el estilo visual de Frieren con conceptos de estética japonesa: mono no aware, ma, yūgen, shizukesa, hakanai, wabi-sabi y yohaku.",
+    "para_que": "Punto 18: vocabulario y ejemplos concretos (ruinas, paisajes revisitados, paleta pastel, espacio en blanco) para la guía de estilo/melancolía.",
+    "licencia": "Artículo editorial con derechos de Unwinnable; sólo cita y enlace."
+  },
+  {
+    "url": "https://fandomwire.com/frieren-beyond-journeys-end-has-the-essence-of-a-studio-ghibli-film/",
+    "fuente": "FandomWire, «'Frieren: Beyond Journey's End' Has the Essence of a Studio Ghibli Film» (Aaheli Pradhan, 28-jun-2025)",
+    "que_es": "Artículo que compara directamente los fondos, la paleta y el estilo de Frieren con Studio Ghibli, con citas textuales.",
+    "para_que": "Punto 18/24: cita concreta y comparación con Ghibli para la guía de estilo y para «obras parecidas».",
+    "licencia": "Artículo editorial; sólo cita y enlace."
+  },
+  {
+    "url": "https://www.cbr.com/10-cozy-anime-that-are-surprisingly-deep/",
+    "fuente": "CBR, «10 Cozy Anime as Surprisingly Deep as Frieren»",
+    "que_es": "Lista de animes recomendados junto a Frieren por su profundidad emocional, incluidos Yokohama Kaidashi Kikou, Mushishi, Kino's Journey, Spice & Wolf y Girls' Last Tour.",
+    "para_que": "Punto 24: obras parecidas centradas en paisaje/melancolía, distintas de la lista general de AniList que ya tiene la biblia hermana.",
+    "licencia": "Artículo editorial; sólo cita y enlace."
+  },
+  {
+    "url": "https://blog.sakugabooru.com/2023/10/05/crafting-a-tangible-aging-world-frieren-beyond-journeys-end-production-notes-01-04/",
+    "fuente": "Sakuga Blog, «Crafting a Tangible, Aging World – Frieren: Beyond Journey's End Production Notes 01-04» (kViN, 5-oct-2023)",
+    "que_es": "Análisis técnico especializado en producción de anime sobre los episodios 1-4: el rol exacto de Seiko Yoshioka (concept art, layout, worldview illustrator), Sawako Takagi y el estudio Wyeth, y la animación de «textura de decadencia».",
+    "para_que": "Punto 18: fuente técnica nueva (no citada por la biblia hermana) sobre cómo se construyen los fondos y la sensación de paso del tiempo.",
+    "licencia": "Artículo editorial especializado; sólo cita y enlace."
+  },
+  {
+    "url": "https://office-tokiwa.com/eiga24/",
+    "fuente": "ときわきよこ行政書士事務所 (despacho de una notaria/gestora administrativa japonesa), «ヒンメルの銅像に学ぶ「継承」の形», 30-ago-2024",
+    "que_es": "Ensayo que analiza la estatua de Himmel con el lenguaje legal/simbólico de una tumba real: función de apoyo espiritual (心の拠り所) y transmisión de valores (継承) a Frieren, Fern y Stark.",
+    "para_que": "Punto 25: lectura simbólica del monumento como objeto de memoria, con vocabulario (継承, 心の拠り所) útil para textos del canal.",
+    "licencia": "Blog profesional; sólo cita y enlace."
+  },
+  {
+    "url": "https://note.com/sakuraigo/n/n179c6ef7e84e",
+    "fuente": "note.com, SakuraiG, reseña del episodio 37, 21-mar-2026",
+    "que_es": "Reseña corta que describe el detalle exacto de las páginas en blanco al final de la autobiografía de Himmel y cómo Frieren las pasa buscando que continúe.",
+    "para_que": "Punto 6: cita textual exacta del objeto de memoria más fuerte de esta parte.",
+    "licencia": "Blog personal; sólo cita y enlace."
+  },
+  {
+    "url": "https://noisypixel.net/maplestory-frieren-beyond-journeys-end-collaboration-september-2026/",
+    "fuente": "Noisy Pixel, «MapleStory X Frieren Collaboration Begins September 9…»",
+    "que_es": "Cobertura de prensa especializada del crossover MapleStory × Frieren (9-sep a 7-oct-2026): la estatua de bronce en Mushroom Hill, misiones de grimorios y mascotas temáticas.",
+    "para_que": "Punto 11: dato nuevo (no estaba en la biblia hermana) de cómo el motivo del monumento conmemorativo cruza a otro videojuego.",
+    "licencia": "Artículo editorial; sólo cita y enlace."
+  },
+  {
+    "url": "https://www.nexon.com/maplestory/micro-site/frieren",
+    "fuente": "Nexon, micro-sitio oficial de la colaboración MapleStory × Frieren",
+    "que_es": "Página oficial de Nexon sobre el evento de colaboración, con fechas y actividades.",
+    "para_que": "Punto 11: segunda fuente (oficial) que confirma el crossover y sus fechas.",
+    "licencia": "Web oficial de Nexon/MapleStory; sólo cita y enlace."
+  },
+  {
+    "url": "https://www.morisawa.co.jp/fonts/specimen/6593",
+    "fuente": "Morisawa, ficha oficial del tipo «文游明朝体 勇壮かな»",
+    "que_es": "Ficha de fuente tipográfica japonesa de pago (Morisawa): mincho de trazo óseo y tenso, pensado para no ficción e historia.",
+    "para_que": "Punto 5: posible referencia del rótulo del avance de episodio (次回予告); sólo una fuente de fans lo asocia a Frieren, sin confirmar del estudio.",
+    "licencia": "Fuente comercial de pago (Morisawa); no usar el archivo, sólo como referencia de estilo."
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Kaisei+Tokumin",
+    "fuente": "Google Fonts, especímen de «Kaisei Tokumin» (Font-Kai, 金井和夫)",
+    "que_es": "Letra libre (OFL 1.1) serif japonesa pesada, comprobada por mí con fontTools: trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü.",
+    "para_que": "Punto 5: letra libre para texto grabado (monumento, lápida) en una lámina de memoria.",
+    "licencia": "OFL 1.1, uso comercial libre."
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Zen+Antique",
+    "fuente": "Google Fonts, especímen de «Zen Antique»",
+    "que_es": "Letra libre (OFL 1.1) con look de japonés antiguo, comprobada por mí con fontTools: trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü.",
+    "para_que": "Punto 5: letra libre alternativa para el mismo registro de memoria/objeto antiguo.",
+    "licencia": "OFL 1.1, uso comercial libre."
+  },
+  {
+    "url": "https://fontsource.org/fonts/shippori-antique",
+    "fuente": "Fontsource, ficha de «Shippori Antique»",
+    "que_es": "Letra libre (OFL 1.1) mincho suave y gastado, comprobada por mí con fontTools: trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü.",
+    "para_que": "Punto 5: letra libre para texto de diario o carta envejecida (registro íntimo, distinto del monumento).",
+    "licencia": "OFL 1.1, uso comercial libre."
+  },
+  {
+    "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14289239084",
+    "fuente": "Yahoo!知恵袋, pregunta sobre la fuente del avance de episodio de Frieren",
+    "que_es": "Respuesta de un usuario identificando (con duda) la fuente 文游明朝体 勇壮かな para el «次回予告» de la serie.",
+    "para_que": "Punto 5: pista sin confirmar sobre la tipografía del avance de episodio.",
+    "licencia": "Foro de preguntas y respuestas; sólo cita y enlace, dato marcado ⚠️ sin segunda fuente."
+  },
+  {
+    "url": "https://libert.co.jp/pilgrimage-guild/frieren-pilgrimage/",
+    "fuente": "libert.co.jp, guía de peregrinaje «葬送のフリーレン 聖地巡礼！モデルとなった場所はドイツ…»",
+    "que_es": "Guía de turismo de fans sobre los lugares reales (Alemania, Chequia) que se parecen al mundo de Frieren.",
+    "para_que": "Punto 18: contexto de referencia real para el mundo, marcado como atmósfera, no confirmación oficial del estudio.",
+    "licencia": "Blog de turismo; sólo cita y enlace."
+  }
+]

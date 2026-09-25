@@ -14,6 +14,17 @@ Escrita por el redactor con las partes de los 4 investigadores (`partes/imagen.m
 > El recolector buscó mal. El reparto bueno, con los **tres doblajes latinos** que sí tiene
 > esta película, es el de `partes/voz.md` (punto 8 de esta biblia). No uses el otro.
 
+> **Cómo se hizo.** Primera redacción (25-sep-2026) con las 4 partes. **Segunda pasada del
+> redactor (25-sep-2026, modo «seguir»)**: se releyeron las 4 partes y los `datos-*.md`, se
+> **miraron de verdad las 3 hojas** de `hojas/` (varias descripciones de números estaban mal) y
+> se comprobó que los `MononokeNNN.jpg` de la wiki son **los mismos 50 fotogramas oficiales de
+> ghibli.jp** (comparados píxel a píxel a tamaño reducido: diferencia media 0,1-0,3 sobre 255).
+> Con eso se midieron 6 fotogramas oficiales más con `estilo.py`. Qué cambió: ver abajo.
+
+## Segunda pasada · qué cambió
+
+*(Se completa al cerrar la pasada; ver la lista al final de esta sección.)*
+
 ## Índice
 
 0. Ficha rápida y para qué sirve esta biblia
@@ -56,7 +67,7 @@ Escrita por el redactor con las partes de los 4 investigadores (`partes/imagen.m
 - **Es película, no serie.** No hay *opening* ni *ending* semanal ni capítulos. Los minutos de esta biblia son **de la película** (133 min), vista entera por el investigador de vídeo en Internet Archive ([enlace](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke)).
 - **No viene de un manga.** Viene de la propia cabeza de Miyazaki (con un cuento ilustrado suyo de 1980 como semilla). No hay tomos de manga ni globos oficiales de cómic; sí existe un «Film Comic» de 5 tomos con fotogramas reales recortados en viñetas (punto 19). No hay videojuego oficial con licencia de Ghibli (punto 11).
 - **Sirve para todo.** Esta biblia es general: láminas, vídeos, diseño, textos del bot, doblajes. El canal de los 3 conceptos es sólo una propuesta.
-- **Canal propuesto.** No tiene canal. El encargo pide fijarse en **el bosque, espíritus**: encaja con **#🌿 fotos** (tiene etiqueta «Naturaleza») o, mejor, con un canal de ambiente/lore si el servidor lo crea. Ver «3 conceptos de lámina» para las 3 propuestas completas con razón por canal.
+- **Canal propuesto.** No tiene canal. El encargo pide fijarse en **el bosque, espíritus**: encaja con **#📸・fotos** (foro, etiqueta «Naturaleza»), con **#🎨・arte** (foro, etiqueta «Fanart») y, por el tema cantado por un contratenor, con **#🎼・demos-canto** (etiqueta «Falsete»). Ver «3 conceptos de lámina» para las 3 propuestas completas con razón por canal.
 - **Lo más querido.** En Occidente ([AniList](https://anilist.co/anime/164) + [MyAnimeList](https://myanimelist.net/anime/164/Mononoke_Hime/characters), mismo orden en las dos) gana **San**; en Japón ([ranking.net](https://ranking.net/rankings/best-mononokehime-characters) + una encuesta de medios de [ITmedia/ねとらぼ](https://nlab.itmedia.co.jp/research/articles/765102/)) gana **Ashitaka**. Los cuatro personajes Moro, Yakul, Kodama y Eboshi compiten muy cerca entre sí por debajo de los protagonistas. ✅ (detalle en el punto 7).
 - **Cuadro de diálogo propio.** No hay burbuja oficial ni globo de manga. Lo único con globos es el **Film Comic** (fotogramas reales recortados en viñetas de cómic, punto 19). El mundo es Japón rural del período Muromachi (1336-1573): madera vieja, piedra, metal forjado y sangre, no papel europeo ni imprenta. Para la lámina: nunca burbuja blanca de cómic occidental.
 - **Tres doblajes latinos.** Buena Vista/Miramax (2001, VHS, doblado del inglés), Zima Entertainment (2010, DVD, directo del japonés) y Wild Bunch/Netflix (2020, directo del japonés, «el más fiel»). Al citar una frase, di siempre de cuál es. Ficha de reparto: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/La_princesa_Mononoke).
@@ -75,11 +86,15 @@ Escrita por el redactor con las partes de los 4 investigadores (`partes/imagen.m
 - **Single del tema principal**, Yoshikazu Mera, «もののけ姫» (TKCA-72759): https://store.shopping.yahoo.co.jp/onhome/tkca-72759.html ✅ (Yahoo Shopping + [recochoku](https://recochoku.jp/song/S20322586/)).
 - **Banda sonora**, Joe Hisaishi (Tokuma Japan, 2-jul-1997, 33 pistas), reeditada en vinilo en 2020 con portada nueva: https://ja.wikipedia.org/wiki/もののけ姫_サウンドトラック ✅ (Wikipedia JA + [Oricon](https://music.oricon.co.jp/php/cd/CdTop.php?cd=SPC00378123) + Tower Records).
 - **Restauración 4K / IMAX** por el 40º aniversario de Ghibli, exclusiva en Norteamérica desde el 26-mar-2025, con cartel nuevo: https://gkids.com/2025/03/11/new-princess-mononoke-4k-restorationto-debut-exclusively-in-imax-theatres-in-north-america-march-26/ ✅ (GKIDS + [Animation Magazine](https://www.animationmagazine.net/2025/03/gkids-brings-princess-mononoke-to-imax-in-40th-anniversary-4k-restoration/)).
-- **Hoja de modelo (character sheet)**: en `hojas/arte_01.jpg`, recuadro **98** — turnarounds de un personaje con anotaciones de color. Visto directamente ✅.
-- **Storyboard real de producción**: en `hojas/escenas_02.jpg`, recuadro **76** — página de guion gráfico con notas manuscritas de cámara. Visto directamente ✅.
-- **Key visual pintado** (San de cuerpo entero con lanza): en `hojas/arte_01.jpg`, recuadro **97** ✅.
-- **Figurín oficial** San+Ashitaka+lobo: en `hojas/escenas_01.jpg` recuadro 8 y en `hojas/arte_01.jpg` recuadro 100 ⚠️ una fuente (la wiki).
-- ⚠️ **Nota del redactor.** En `hojas/arte_01.jpg` recuadro **103** («Muromachi_Period.jpg») hay una pintura ukiyo-e con jinetes: es **referencia histórica de época** que usa la wiki para dar contexto, **no arte promocional de Ghibli**. No la rotules como key visual.
+- **Hoja de modelo (settei) de verdad**: `hojas/escenas_02.jpg` recuadro **73** = [Mononoke_char_3.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/f/f6/Mononoke_char_3.jpg) (1419×1283): Ashitaka de frente a color (ropa ocre de viaje, mangas azules, aljaba), Ashitaka disparando a lomos de Yakul (rótulo アシタカ) y modelos a línea de **じいじ, カヤ y ヒイ様** en versiones A y B. Visto directamente ✅. *(Corrección: la primera redacción daba el recuadro 98 de `arte_01` como hoja de modelo.)*
+- **Hojas de color (色指定) de la colorista Michiyo Yasuda**: `hojas/escenas_02.jpg` recuadro **76** = [CelMichiyo.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/3/3e/CelMichiyo.jpg) (1350×1013): cuatro capturas de un *making of* con el rótulo en pantalla 色彩設計 保田道世 y modelos de color de ヒイさま, los ancianos Emishi y じいじ, llenos de flechas y códigos de pintura. Visto directamente ✅. *(Corrección: no es un storyboard, como decía la primera redacción.)*
+- **Pared de modelos de color** de un *making of*: `hojas/arte_01.jpg` recuadro **98** = [Mononoke_Char.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/9/9e/Mononoke_Char.jpg) (1381×504): recortes de personajes (Kaya, Hii-sama, jabalíes) clavados en una pared. Visto ✅.
+- **Bocetos en acuarela** (la wiki los titula «Princess Mononoke sketch»; autor no confirmado en las partes ⚠️): San con máscara y lanza (`arte_01` **97**, [992×710](https://static.wikia.nocookie.net/studio-ghibli/images/d/df/Princess_Mononoke_sketch_%2802%29.jpg)); San de cuerpo entero con lanza (`escenas_02` **72**, [1018×1848](https://static.wikia.nocookie.net/studio-ghibli/images/a/aa/Princess_Mononoke_sketch_%2805%29.jpg)); San con capucha roja entre kodama (`arte_01` **121**); San con los lobos (`arte_01` **115**); San de pie en el bosque (`arte_01` **117**). Sirven para ver la mano pintada: línea de lápiz fina y aguada suelta.
+- **Carteles oficiales con el logo y el eslogan 生きろ。**: cartel japonés de San con la máscara y Moro (`escenas_01` **3**, [1200×1800](https://static.wikia.nocookie.net/studio-ghibli/images/4/4e/Mononoke_JP_Poster.png)); cartel japonés de Ashitaka sobre Yakul (`escenas_02` **75**, [1062×1510](https://static.wikia.nocookie.net/studio-ghibli/images/8/86/Mononoke_Poster_1.jpg)); cartel de la salida en LaserDisc «6·26» (`arte_01` **106**, [600×850](https://static.wikia.nocookie.net/studio-ghibli/images/8/8d/Mononoke_Poster_2.jpg)); cartel en inglés «PRINCESS MONONOKE» con Moro y San (`escenas_01` **1**, [2000×3000](https://static.wikia.nocookie.net/studio-ghibli/images/c/c6/Princess_Mononoke.jpg)). Vistos ✅.
+- **Promocionales de grupo** (San sobre la loba, Ashitaka sobre Yakul, prado de día): `escenas_01` **2** ([2560×1024](https://static.wikia.nocookie.net/studio-ghibli/images/2/2f/San_and_Ashitaka.jpg)) y `arte_01` **101** ([1100×601](https://static.wikia.nocookie.net/studio-ghibli/images/3/39/San_and_Ashitaka_Promo.jpg)) ✅. Es la mejor pose de grupo «tranquila» de todo el material.
+- **Figurín oficial** San+Ashitaka+lobo (mercancía, figura sobre peana): `hojas/arte_01.jpg` recuadro **100** ([700×951](https://static.wikia.nocookie.net/studio-ghibli/images/d/d7/Mononoke_with_San_and_Ashitaka_-_figurine.jpg)) ⚠️ una fuente (la wiki). *(Corrección: el recuadro 8 de `escenas_01` no es el figurín, es el fotograma oficial 007 de San con sangre en la boca.)*
+- **Los fotogramas `MononokeNNN.jpg` de la wiki son los oficiales de ghibli.jp** (comprobado por el redactor: 013, 042, 050 y 010 comparados con [ghibli.jp/gallery](https://www.ghibli.jp/gallery/mononoke013.jpg), diferencia media 0,1-0,3). Así, cada recuadro con ese nombre en las hojas tiene su enlace oficial: `https://www.ghibli.jp/gallery/mononokeNNN.jpg` ✅.
+- ⚠️ **Nota del redactor (corregida).** La pintura de época con jinetes («Muromachi_Period.jpg», [1200×627](https://static.wikia.nocookie.net/studio-ghibli/images/d/db/Muromachi_Period.jpg)) es el recuadro **96 de `escenas_02`**, no el 103 de `arte_01`: es **referencia histórica** que usa la wiki, **no arte de Ghibli**. El 103 de `arte_01` es otra cosa: una página ilustrada de *El viaje de Shuna* (1983) con un jinete sobre un yakul ([Shuna_Yakul.jpeg](https://static.wikia.nocookie.net/studio-ghibli/images/3/3f/Shuna_Yakul.jpeg), 825×750), el antecedente de Yakul (punto 24).
 
 **Lo que no aplica o no encontré.**
 - Tomos de manga y globos de cómic propios: no hay (no viene de manga).
@@ -105,7 +120,23 @@ Todos en **1920×1040**, sacados por streaming HTTP directo de la copia de Inter
 | 1:56:00 | Ashitaka y San se abrazan por detrás, escena final de despedida | [t=6960](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=6960) |
 | 2:07:00 | El bosque renace tras la muerte del dios ciervo: colinas verdes con troncos quemados todavía en pie | [t=7620](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=7620) |
 
-- ⚠️ **No aislado por presupuesto de red**: el fotograma exacto del Shishigami de día caminando sobre el agua («cada paso hace brotar y marchitar flores»); sólo están confirmados su encuentro con San/Okkoto (1:12:05) y su forma nocturna (1:54:00).
+- ⚠️ **No aislado con minuto por presupuesto de red**: el fotograma exacto del Shishigami de día caminando sobre el agua («cada paso hace brotar y marchitar flores»); con minuto sólo están su encuentro con San/Okkoto (1:12:05) y su forma nocturna (1:54:00). **Segunda pasada:** su forma de día sí está en un fotograma oficial sin minuto, [mononoke010.jpg](https://www.ghibli.jp/gallery/mononoke010.jpg) (1920×1038, `escenas_01` recuadro **32**): el ciervo de cornamenta ramificada, de pie sobre raíces con musgo, entre dos troncos enormes, con motas de luz dorada cayendo como nieve. Mirado ✅.
+
+**Otras escenas icónicas en fotogramas oficiales de ghibli.jp** (1920×1038, sin minuto; vistas en las hojas y abiertas en grande por el redactor):
+
+| Fotograma oficial | Escena | Recuadro en hojas |
+|---|---|---|
+| [mononoke013](https://www.ghibli.jp/gallery/mononoke013.jpg) | Ashitaka, con el torso desnudo, tira de la cuerda del **fuelle de Tatara-ba** con las mujeres (pañuelo blanco en la cabeza, kimonos cortos de colores pastel y uno rojo); ellas ríen | `escenas_02` 51 |
+| [mononoke024](https://www.ghibli.jp/gallery/mononoke024.jpg) | Cientos de **kodama** cubren una colina al anochecer, bajo un cielo azul | `escenas_02` 57 |
+| [mononoke023](https://www.ghibli.jp/gallery/mononoke023.jpg) | Kodama brillando en el bosque oscuro | `escenas_02` 56 |
+| [mononoke042](https://www.ghibli.jp/gallery/mononoke042.jpg) | **Eboshi apunta su ishibiya** en el bosque, sombrero cónico rojo y capa azul-morada, con hojas enganchadas en el cañón | `escenas_02` 66 |
+| [mononoke050](https://www.ghibli.jp/gallery/mononoke050.jpg) | **Eboshi sonríe**, labios rojos, junto a un muro de piedra | `escenas_02` 69 |
+| [mononoke028](https://www.ghibli.jp/gallery/mononoke028.jpg) | **Jigo** sonríe de lado, gorro rojo, nariz roja, carga a la espalda y un palo al hombro | `escenas_02` 60 |
+| [mononoke003](https://www.ghibli.jp/gallery/mononoke003.jpg) | Ashitaka tensa el arco a lomos de Yakul, dientes apretados, con los gusanos del dios maldito encima del plano (fondo verde barrido por la velocidad) | `escenas_01` 43 |
+| [mononoke007](https://www.ghibli.jp/gallery/mononoke007.jpg) | San con sangre en la boca, cuchillo en la mano, capa de piel blanca y la máscara roja colgada a la espalda: su presentación | `escenas_01` 8 |
+| [mononoke005](https://www.ghibli.jp/gallery/mononoke005.jpg) | Ashitaka se corta el moño con el cuchillo delante de los ancianos (el destierro) | `escenas_01` 45 |
+| [mononoke039](https://www.ghibli.jp/gallery/mononoke039.jpg) | San atrapada entre los gusanos rojos de la maldición | `escenas_01` 22 |
+| [mononoke025](https://www.ghibli.jp/gallery/mononoke025.jpg) | El Nightwalker, gigante azul translúcido | `escenas_02` 58 |
 - Copia de trabajo en 480p usada para localizar escenas antes de sacar el fotograma en HD: `archive.org/details/so-3f-cb-vwqm-0-d`.
 
 ## 3. Fan art y 3D con licencia
@@ -114,6 +145,9 @@ Todos en **1920×1040**, sacados por streaming HTTP directo de la copia de Inter
 - San, 2048×1588, 4 puntos · [imagen](https://safebooru.org/images/1670/08d15960503016067f9573551803e1f4de4f6a7d.jpg) · autor: [hammar_dobucof](http://twitter.com/hammar_dobucof/status/1256366755401707520) ✅
 - Ashitaka, 1337×699, 6 puntos · [imagen](https://safebooru.org/images/777/be418205801ab09059db966ab584048464555621.jpg) · autor: pixiv (caramelo, id 25443130).
 - Más fan art de San (Pixiv/X/Instagram, vía Safebooru, `datos.json`): [1](https://safebooru.org/images/3925/bcff741463b7dffe52be33f92d81056606814284.jpg) · [2](https://safebooru.org/images/3562/5c98cd0ece482fabf8eb06dd495fdad727edbbfe.jpg) · [3](https://safebooru.org/images/3686/942d6fd9dd95a368015c7069a7668b5c82c43a5c.jpg) · [4](https://safebooru.org/images/4618/8a156e94fe0ff7ec0acf7c20ae6e6414189777aa.png).
+- **Con autor y original** (segunda pasada, sacado de `datos-imagen.md`): San 900×1300 de [Seraziel en X](https://twitter.com/Seraziel/status/1538328293295812608); San 2891×4096 de [yoshi55level](https://twitter.com/yoshi55level/status/1113143189739732992); San 1600×2003 en [Pillowfort](https://www.pillowfort.social/posts/1501544); San 1024×1457 original en [Pixiv](https://i.pximg.net/img-original/img/2017/02/20/04/52/58/61548214_p0.png); Ashitaka 2894×4093 original en [Pixiv](https://i.pximg.net/img-original/img/2020/10/04/01/13/33/84783589_p0.jpg); Moro y San 1350×1350 en [Pixiv](https://i.pximg.net/img-original/img/2022/02/22/03/27/02/96430408_p0.jpg); Moro 1080×782 en [Instagram de east_blue95](https://www.instagram.com/east_blue95/p/CBJIpgACQLG/). Sólo referencia, siempre con crédito.
+- **Fan art famoso fuera de los booru** (vía Wallhaven, con su origen): San con el lobo de perfil, 2250×1266, ♥496, de [artfulbeast en ArtStation](https://www.artstation.com/artfulbeast); San de Sakimichan, 1920×1080, ♥190, [en DeviantArt](http://sakimichan.deviantart.com/art/Princess-Mononoke-Prints-for-sale-275280478); San de robusta-mania, 3535×5047, ♥178, [en DeviantArt](https://www.deviantart.com/robusta-mania/art/Ms-Sammy-Artwork-06-Mononokehime-674195728); San entre espíritus, 2000×1334, ♥109, [en Pixiv](https://www.pixiv.net/en/artworks/77601882); kodama minimalista, 1920×1200, ♥128, de [SLiD3](http://cargocollective.com/SLiD3/). ⚠️ Licencia de cada autor: sólo referencia.
+- **Cosplay con licencia Creative Commons** (Openverse → Flickr, `datos.json`): sesión «Shooting Mononoke» en Nantes de esby.photos, CC BY-NC-SA 2.0 ([foto](https://live.staticflickr.com/65535/51325923277_ee86ec35bf_b.jpg), 1024×767); «Megan Marie as San» de Gabbo T, CC BY-NC-SA 2.0 ([foto](https://live.staticflickr.com/8464/8137492787_a8b360f86c_b.jpg), 1024×683); dos fotos de Liebre.De.Mar, **CC BY 2.0** ([1](https://live.staticflickr.com/8564/16727026042_164a84f4ab_b.jpg), 896×1024 · [2](https://live.staticflickr.com/8594/16540680940_b2e5015b8b_b.jpg), 768×1024). Útiles para ver volumen real de la capa de piel y la máscara (punto 23).
 - Volumen de fan art ([Danbooru](https://danbooru.donmai.us/posts?tags=mononoke_hime), tag mixto de la obra): San 786, Ashitaka 272, Kodama 192 (`datos-voz.md`) ✅.
 - Ilustración de fans en alta calidad fuera de los booru: el eclipse solar sobre Irontown de Anato Finnstark en [ArtStation](https://www.artstation.com/artwork/NR65d) (2560×1176), también espejado como fondo de pantalla en [Wallhaven](https://w.wallhaven.cc/full/z8/wallhaven-z8zkmw.jpg) ⚠️ (licencia del autor, pedir permiso antes de reutilizar).
 
@@ -127,13 +161,16 @@ Todos en **1920×1040**, sacados por streaming HTTP directo de la copia de Inter
 | Deer God / Shishigami («Forest Deity») | brundolf | https://sketchfab.com/3d-models/none-c33d11c71fd245ec9855e207dc6701be |
 | Deer God («Deer God») | raven-woods | https://sketchfab.com/3d-models/none-c80934d58a74424192a8cd7aa0dbf0dc |
 | Máscara de lobo (San o Moro) | flioink | https://sketchfab.com/3d-models/none-ce144a94070d45be8cf344c0313266b7 |
-| «Spirit» inspirado en Mononoke | chakib2456 | ver `partes/datos-imagen.md` |
-| Máscara de San | remoj | ver `partes/datos-imagen.md` |
+| Kodama | papercolt | https://sketchfab.com/3d-models/none-e6aff4c883d446039f3a9e5ceea77af3 |
+| Kodama | itsbishoperic | https://sketchfab.com/3d-models/none-5ccc597ff8ab4aebbb0afd3ce49bea00 |
+| «Spirit» inspirado en Mononoke (♥57) | chakib2456 | https://sketchfab.com/3d-models/none-83ca4c9081564ae39425c23e2c244d7f |
+| San's Mask of Mononoke Hime (♥19) | remoj | https://sketchfab.com/3d-models/none-8d58161d9506468d87e70c5ea8c754d7 |
+| San (modelo completo, ~559.000 caras) | amandadollar | https://sketchfab.com/3d-models/none-9f8755e5444b40c2a2f35f2ce07a8fcc |
 
 - ⚠️ Descartado: «Princess Mononoke - Forest Spirit» de alen60303, licencia «Free Standard» (NO es libre), no cumple el requisito del encargo.
-- ⚠️ «Small Shrine in the forest» (DuckbillStudio) es **CC Attribution-NonCommercial**: sólo uso no comercial, avisar antes de usarlo.
-- ❌ No encontré modelo de la fragua/horno tatara de Irontown con licencia libre (ni Sketchfab ni Poly Haven, que sólo tiene materiales).
-- Modelo 3D de San hecho por fans (licencia libre, miniatura 1920×1080): https://media.sketchfab.com/models/9f8755e5444b40c2a2f35f2ce07a8fcc/ (de `texto.json`) ✅.
+- ⚠️ «Small Shrine in the forest» (DuckbillStudio, [ficha](https://sketchfab.com/3d-models/none-047577bff1fb448c9c11f984ea1948b6)) es **CC Attribution-NonCommercial**: sólo uso no comercial, avisar antes de usarlo. No sale literal en la película; sirve de arquitectura de santuario.
+- ⚠️ No hay modelo de la fragua/horno tatara de Irontown con licencia libre: buscado en Sketchfab («tatara furnace», sin resultados) y en Poly Haven (sólo tiene materiales). Comprobado, no es falta de búsqueda.
+- Miniatura del modelo de San (1920×1080): https://media.sketchfab.com/models/9f8755e5444b40c2a2f35f2ce07a8fcc/ (de `texto.json`) ✅.
 
 ## 4. Fondos y sitios: luz, paleta y texturas reales
 
@@ -145,6 +182,13 @@ Paletas medidas con `herramientas/estilo.py` sobre fotogramas HD reales (1920×1
 | Bosque profundo del dios ciervo (musgo) | [1:09](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4195) | filtrada verde-azulada, casi submarina, incluso de día | `#404F20` `#728A1D` `#576B17` `#366278` `#527C36` · saturación 63% (la más alta medida), brillo 45% | [Ground037](https://ambientcg.com/a/Ground037) · [Rock064](https://ambientcg.com/a/Rock064) |
 | Puerta y murallas de Irontown (Tatara-ba), de noche | [1:14:40](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4480) | antorchas y fuego de fragua, cielo casi negro | `#1A1917` `#2D2A25` `#423F37` `#9DC3AC` `#76091D` (rojo escaso, estandartes) · saturación 22% (la más baja medida), brillo 30% | [Wood095](https://ambientcg.com/a/Wood095) · [Wood094](https://ambientcg.com/a/Wood094) · [Metal063](https://ambientcg.com/a/Metal063) · [CorrugatedSteel009](https://ambientcg.com/a/CorrugatedSteel009) |
 | Cima donde vive Moro, escena nocturna | [1:21](https://archive.org/details/1997-mononoke-hime-la-princesa-mononoke?t=4860) | luz de luna fría azul-verdosa | `#14233C` (cielo, 30.3%) `#A3C7AF` (pelaje iluminado, 22.2%) `#749F98` (pelaje en sombra) · saturación 44%, brillo 46% | — |
+| Bosque de los espíritus de día ([Mononoke_Forest.jpg](https://static.wikia.nocookie.net/studio-ghibli/images/7/7d/Mononoke_Forest.jpg), 2048×850, `escenas_02` 74) | sin minuto | verde saturado, troncos a contraluz | `#475D53` 12.9% `#567966` 12.6% `#69947E` 9.4% · sombra morada `#231324` 18.9% `#1A0514` 15.1% · línea `#2D3735` (de las pocas escenas con contorno visible sobre el fondo) | [Bark014](https://ambientcg.com/view?id=Bark014) · [Bark015](https://ambientcg.com/view?id=Bark015) |
+| Santuario del Shishigami de día ([mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg), oficial) | sin minuto | luz dorada que cae entre los troncos, motas como nieve | `#3C3326` 22.9% `#2A2522` 19.0% `#524327` 17.2% `#CDC878` 14.6% (la luz) `#705921` 9.9% `#97791B` 7.0% · saturación 44%, brillo 42%, degradado 77%, línea `#6C5228` · medido por el redactor | [Ground037](https://ambientcg.com/a/Ground037) |
+| Colina de los kodama al anochecer ([mononoke024](https://www.ghibli.jp/gallery/mononoke024.jpg), oficial) | sin minuto | azul frío, los kodama como puntos blancos | `#254150` 21.0% `#076698` 20.4% `#1F2B35` 17.8% `#0D81A6` 14.1% `#195E71` 11.0% `#93C0BC` 6.7% · saturación 64% (la más alta medida en toda la biblia) · medido por el redactor | — |
+| Transformación del dios ciervo, noche ([Deer_God_Transforming](https://static.wikia.nocookie.net/studio-ghibli/images/5/58/Deer_God_Transforming.jpeg), 1920×1038, `escenas_01` 30) | sin minuto | noche azul, cuerpo translúcido | `#959383` 16.7% (hueso) `#212A35` 16.1% `#191B22` 15.7% `#2A5D92` 10.8% (cuerpo azul) | — |
+| Fuelle de Tatara-ba, interior de día ([mononoke013](https://www.ghibli.jp/gallery/mononoke013.jpg), oficial) | sin minuto | cálida, madera y piel | `#523D37` 22.6% `#262227` 18.1% `#8E4A38` 15.3% `#9D8A88` 15.2% `#CDB0A4` 13.8% `#B76258` 3.8% (kimono rojo) · saturación 34%, brillo 47%, línea `#5C4441` · medido por el redactor | [Wood095](https://ambientcg.com/a/Wood095) · [Metal063](https://ambientcg.com/a/Metal063) |
+| Templo de Irontown de noche ([Screenshot_3089](https://static.wikia.nocookie.net/studio-ghibli/images/e/e4/Princess_Mononoke_Screenshot_3089.jpg), `escenas_01` 37) | sin minuto | casi monocroma, fuego y velas puntuales | `#160F16` `#3E3B41` `#737475` `#202023` (más del 65%) · rojo `#38121C` 4.3% | [Wood094](https://ambientcg.com/a/Wood094) |
+| Bosque al atardecer, San con espada ([Screenshot_3018](https://static.wikia.nocookie.net/studio-ghibli/images/4/49/Princess_Mononoke_Screenshot_3018.jpg), `escenas_01` 36) | sin minuto | niebla beige | `#B0A592` 19% `#17201F` 19% `#101513` 18.8% `#22332B` 9.3% | [Rock064](https://ambientcg.com/a/Rock064) |
 
 - **Cel vs. pintado**: los personajes llevan sombreado **plano (cel-shading)**; los fondos son **pintura digital con degradado**. Contraste claro entre los dos (dato clave para el punto 17). ✅
 - Los 4 sitios medidos tienen paleta y temperatura de color claramente distintas entre sí: día limpio (Emishi), verde-azulado saturado (santuario), gris-marrón apagado con fuego puntual (Irontown), luna fría (cima de Moro).
@@ -154,6 +198,7 @@ Paletas medidas con `herramientas/estilo.py` sobre fotogramas HD reales (1920×1
 - **Logo japonés** («もののけ姫»): diseño acreditado a Kaoru Mano y Yukari Yoshida en el staff oficial de AniList ✅; parece caligrafía a pincel hecha a mano, no una fuente comercial ⚠️ (sin confirmar con una fuente que lo diga explícitamente).
 - **Logo inglés** («PRINCESS MONONOKE», cartel Miramax): grabado tipo madera/sello. La comunidad de [dafont.com](https://www.dafont.com/forum/read/467592/princess-mononoke-title) identifica **Eremaeus** como similar al título de la edición FRANCESA en DVD (alternativa: Optimus Princeps) ⚠️ (identificación de aficionados, y es sobre el póster francés, no el japonés ni el original de EEUU).
 - **Eslogan** «生きろ。» / «Live.» (Shigesato Itoi): texto grande y centrado, tipo frase-sello ✅.
+- **Dónde ver el logo japonés entero** (segunda pasada, mirado en las hojas): cartel de San con la máscara (`escenas_01` 3), cartel de Ashitaka sobre Yakul (`escenas_02` 75) y cartel del LaserDisc (`arte_01` 106). En los tres, «もののけ姫» va en **rojo, trazo de pincel grueso y contorno claro**, abajo; 生きろ。 va en vertical, arriba a la izquierda, en pincel negro. Visto en miniatura ✅; para calcarlo, abrir el original enlazado en el punto 1.
 - **Edición manga/cine-cómic oficial**: «フィルムコミック もののけ姫 完全版» ([Tokuma Shoten](https://www.tokuma.jp/book/b503719.html), 5 tomos; ficha de librería en [Kinokuniya](https://www.kinokuniya.co.jp/f/dsg-01-9784197700745)) usa fotogramas reales con diálogo tipografiado encima — formato «cine-cómic», no viñetas dibujadas con globos clásicos ✅.
 
 **Las 8 letras libres que pide el encargo**, comprobadas con fontTools (ñ/tildes/¿/¡ presentes en todas):
@@ -183,19 +228,28 @@ Todas ✅, comprobadas descargando el subconjunto de fonts.googleapis.com con `t
 
 ## 7. Personajes y popularidad
 
-| Personaje | [AniList](https://anilist.co/anime/164/characters) (favoritos) | [MyAnimeList](https://myanimelist.net/anime/164/Mononoke_Hime/characters) | [ranking.net](https://ranking.net/rankings/best-mononokehime-characters) (Japón, 1-18) | [Danbooru](https://danbooru.donmai.us/posts?tags=mononoke_hime) (posts) |
+| Personaje | [AniList](https://anilist.co/anime/164/characters) (favoritos) | [MyAnimeList](https://myanimelist.net/anime/164/Mononoke_Hime/characters) (favoritos) | [ranking.net](https://ranking.net/rankings/best-mononokehime-characters) (Japón, puesto) | [Danbooru](https://danbooru.donmai.us/posts?tags=mononoke_hime) (dibujos) |
 |---|---|---|---|---|
-| San | más alto del reparto | más alto | 2º | alto |
-| Ashitaka | 2º | 2º | **1º** | medio |
-| Moro | 3º | 3º | alto | medio |
-| Yakul | 4º (coincide en las 3 fuentes) | 4º | alto | bajo (sin diálogo) |
-| Dama Eboshi | — | — | alto | medio |
-| Jigo | — | — | medio | bajo |
+| San | **2471** | **3546** | 2 | 786 |
+| Ashitaka | 1485 | 2197 | **1** | 272 |
+| Moro | 320 | 227 | 3 | — |
+| Yakul | 250 | 253 | 4 | — |
+| Cachorros de Moro | — | — | 5 | — |
+| Toki | 62 | 17 | 6 | — |
+| Kodama | 225 | 311 | 7 | 192 |
+| Dama Eboshi | 318 | 339 | 8 | — |
+| Kaya | 9 | 3 | 9 | — |
+| Okkoto | 20 | 16 | 11 | — |
+| Shishigami | 98 | 116 | 13 | — |
+| Jigo | 20 | 17 | 15 | — |
+
+*(Segunda pasada: la tabla daba sólo «alto/medio»; ahora lleva las cifras de `partes/voz.md`. El tag de Danbooru mezcla la obra con otros títulos de Ghibli.)*
+- **Sorpresa japonesa**: **Toki** (secundaria de Irontown; su ficha no está en las partes) es **6.ª en Japón**, por encima de los kodama y de Eboshi, aunque en Occidente casi no tiene favoritos (62 y 17) ✅ (ranking.net + AniList/MAL).
 
 - **San gana en Occidente** (AniList y MyAnimeList); **Ashitaka gana en Japón** (ranking.net, y consistente con una encuesta de medios 2022 de [ねとらぼ/Nlab](https://nlab.itmedia.co.jp/research/articles/765102/), ⚠️ una fuente pero misma dirección) ✅.
 - **Yakul** (el elk rojo, sin ninguna línea de diálogo) es 4º en las tres fuentes que dan un top: la lealtad silenciosa pesa tanto como el diálogo para este fandom ✅.
 - ⚠️ No hay conteo de votos exacto detrás del orden de ranking.net (carga por JavaScript, el HTML estático sólo trae el orden final).
-- ❌ Studio Ghibli no publica encuestas oficiales de personajes; todo lo de arriba es de medios/fans.
+- ⚠️ Studio Ghibli no publica encuestas oficiales de personajes (buscado a propósito, igual que en *El castillo ambulante*); todo lo de arriba es de medios y fans.
 
 ## 8. Doblaje latino y frases textuales
 
