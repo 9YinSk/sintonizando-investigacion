@@ -120,13 +120,14 @@ fotograma antes de usarlo.
 ### 2.1 «Rixty Minutes» (1×08): nace el cable interdimensional
 
 En España se llamó «Sesenta Rick-nutos». La wiki en español lo titula
-«Televisión Interdimensional» ⚠️
+«Televisión Interdimensional» ✅ (segunda pasada: también en Doblaje Wiki,
+«Rick y Morty/1.ª temporada»; el 2×08 es «Televisión interdimensional 2»)
 ([Wiki de Rick & Morty](https://wiki-de-rick-morty.fandom.com/es/wiki/Televisi%C3%B3n_Interdimensional)).
 
 | Minuto | Qué pasa y qué se dice (inglés) | Para qué sirve |
 |---|---|---|
-| 0:04 | La familia ve un reality en la tele del salón. Alguien (Rick, creo ⚠️; el subtítulo no dice quién): «none of it mattered and the entire show was stupid» (0:19) | Abre con **la familia criticando la tele**: el debate |
-| 0:21 | Jerry ⚠️: «Okay, I've got an idea, Rick. You show us your concept of good TV, and we'll crap all over that» | El espíritu del canal: **enseña y se comenta** |
+| 0:04 | La familia ve un reality en la tele del salón. **Rick** ✅ (el subtítulo no dice quién; lo confirma el [transcript de la wiki](https://rickandmorty.fandom.com/wiki/Rixty_Minutes/Transcript), segunda pasada): «none of it mattered and the entire show was stupid» (0:19) | Abre con **la familia criticando la tele**: el debate |
+| 0:21 | Jerry ✅ (subtítulo + transcript): «Okay, I've got an idea, Rick. You show us your concept of good TV, and we'll crap all over that» | El espíritu del canal: **enseña y se comenta** |
 | 0:30 | Morty: «Is that crystallized xanthanite?» «It conducts electrons across dimensions» | **El cristal** que se mete en la caja: detalle para el objeto |
 | 0:38 | Rick: «I just upgraded our cable package with programming from every conceivable reality» | La frase que explica el canal |
 | 1:00 | Rick: «This is **infinite TV from infinite universes**» | **Lema posible** del canal |
@@ -189,6 +190,28 @@ Nota: en la versión de TV (subtítulo de Addic7ed) la frase empieza en
 | | 2×05, la canción | 5:54 | «You gotta **get schwifty**» |
 | | 3×01, la salsa | 5:03 | «a bunch of the **Szechuan sauce**» |
 | **Mr. Poopybutthole** | 2×10, la escena final | 22:01 | «Hi, I'm Mr. Poopybutthole from episode 204» |
+
+### 2.4 Segunda pasada: escenas miradas en vídeo (25-sep-2026)
+
+YouTube pedía iniciar sesión. Los clips se miraron en **Dailymotion** e
+**Internet Archive** con `fotogramas.py` (cada 2-6 s, hojas miradas con
+Read). 7 vídeos, unos 7,5 minutos. Detalle en `partes/video.md`.
+
+| Vídeo | Minuto | Qué se ve | Para qué |
+|---|---|---|---|
+| [Intro (viñeta previa al título)](https://www.dailymotion.com/video/x8x2x8y?t=8) | 0:08 | Rick **arrastra a Morty del brazo** por un planeta árido | Pose de «vamos» |
+| [La misma](https://www.dailymotion.com/video/x8x2x8y?t=32) | 0:32 | Tarjeta «RICK AND MORTY», **cursiva turquesa sobre negro** | El logo real |
+| [Clip Meeseeks, 1×05](https://www.dailymotion.com/video/x7xeqwl?t=16) | 0:00-0:18 | Rick **levanta la caja con una mano**; el Meeseeks sale **brazos arriba, dedos abiertos** | Confirma la pose de «Look at me!» ✅ |
+| [Meeseeks y el golf, 1×05](https://www.dailymotion.com/video/x8bmk63?t=70) | 1:00-1:25 | La sala **llena de Meeseeks** gritando, pared marrón anaranjada | El caos de «Existence is pain» |
+| [Promo de «Televisión interdimensional 2»](https://www.dailymotion.com/video/x3jf16p?t=8) | 0:08 | **Sala de espera** del hospital espacial: fondo azul marino estrellado, monitor turquesa | Resuelve «luz de hospital, de memoria» ✅ |
+| [La misma](https://www.dailymotion.com/video/x3jf16p?t=20) | 0:20-0:22 | **Portal verde lima** y tarjeta «Next Sunday @ 11:30p» | Color del portal medido (§5) |
+| [Promo «Pickle Rick»](https://www.dailymotion.com/video/x5ve1xh) | 0:02 | Morty **inyecta el suero** al pepino **sobre el banco** | Confirma el banco del garaje (3×03, 0:20) ✅ |
+| [Tráiler T1, Turner](https://archive.org/details/turner_video_391819) | 1:12 | **Rick, Beth y Summer con armas en alto**, dentro de casa | Pose de grupo |
+| [El mismo](https://archive.org/details/turner_video_391819) | 1:36 | Créditos: Sarah Chalke, Chris Parnell, Spencer Grammer; música de **Ryan Elder** | Confirma reparto y compositor ✅ |
+| [Tráiler T9 subtitulado, HBO Max](https://www.dailymotion.com/video/xae2lba?t=51) | 0:51 | Tarjeta «**NUEVA TEMPORADA 25 DE MAYO**», **morada** con rayos | Noticia real en español para el canal |
+
+Y del transcript de la wiki: en **21:45** del 1×08 Rick dice «All right,
+that's it» **y saca la pistola de portales** ✅ (nueva pose, §15).
 
 ---
 
@@ -750,10 +773,15 @@ desde la T7 ✅ ([Variety](https://variety.com/2023/tv/news/rick-and-morty-ian-c
 
 **Rick y Morty: El anime** (2024, dirigido por **Takashi Sano**, de
 Telecom Animation Film; estreno 15 de agosto de 2024, en Max): **Rick
-Gerardo Reyero** y **Morty Miguel Ángel Leal**, mexicanos, porque a
-Warner no le convencieron las pruebas venezolanas ✅ (Doblaje Wiki,
-ANMTV, TVLaint, FUNiAnime). Summer **Constanza de la Rosa**, Beth
-**Elena Díaz Toledo**, Jerry **Héctor Indriago** ⚠️.
+Gerardo Reyero** y **Morty Miguel Ángel Leal**, mexicanos ✅ (Doblaje
+Wiki, ANMTV, TVLaint, FUNiAnime). Summer **Constanza de la Rosa**, Beth
+**Elena Díaz Toledo**, Jerry **Héctor Indriago** y Elle (nueva)
+**Abigaly Claro** ✅ (segunda pasada: [ANMTV, 11-jul-2024](https://www.anmtvla.com/2024/07/rick-y-morty-el-anime-max-revela.html),
+con el elenco citado, y [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Rick_y_Morty:_El_anime)).
+**Corregido**: la primera pasada decía que cambiaron el reparto «porque a
+Warner no le convencieron las pruebas venezolanas». ANMTV no dice eso:
+fue **una medida global de Max** «para dar un grado de diferencia» con la
+serie original ✅.
 
 ### Frases en latino (con su fuente)
 
@@ -959,8 +987,8 @@ vídeo en ese minuto y compruébala.
 
 | Personaje | Ropa icónica (la que todos reconocen) | Colores | Variantes |
 |---|---|---|---|
-| **Rick** | **Bata blanca** abierta, camisa **celeste verdoso**, pantalón marrón ✅ (visto y ggsci) | bata `#E8E8E8`, camisa `#97D7D7`, pantalón `#917C5D` ⚠️, pelo `#AAD3E9` | Pepinillo Rick, Tiny Rick, **Rick luchador** (T9) ✅ |
-| **Morty** | **Camiseta amarilla** y pantalón azul ✅ | `#FAFD7C`, pantalón `#24325F` ⚠️, pelo `#82491E` | **Morty cabeza de tele** (T9) ✅, Evil Morty con parche ✅ |
+| **Rick** | **Bata blanca** abierta, camisa **celeste verdoso**, pantalón marrón ✅ (visto y ggsci) | bata `#E8E8E8`, camisa `#97D7D7`, pantalón `#8E774D` ✅ (medido con Pillow en la hoja de modelo [FullBodyRick](https://static.wikia.nocookie.net/rickandmorty/images/6/68/FullBodyRick.png), hoja 210; ggsci da `#917C5D`), pelo `#AAD3E9` | Pepinillo Rick, Tiny Rick, **Rick luchador** (T9) ✅ |
+| **Morty** | **Camiseta amarilla** y pantalón azul ✅ | `#FAFD7C` (hoja de modelo: `#FEF665`), pantalón `#314568` ✅ (medido en la [hoja de modelo de Starburns](https://static.wikia.nocookie.net/rickandmorty/images/9/9e/Morty_model_sheet.jpg), hoja 1; ggsci da `#24325F`), pelo `#82491E` | **Morty cabeza de tele** (T9) ✅, Evil Morty con parche ✅ |
 | **Summer** | **Camiseta de tirantes rosa**, pelo naranja recogido ✅ | `#E762D7`, pelo `#E89242` | **Atleta olímpica con medalla** (T9) ✅ |
 | **Sr. Meeseeks** | Sin ropa: **todo azul** ✅ | `#69C8EC` | Meeseeks marca Kirkland, rosa (524) ✅ |
 | **Pepinillo Rick** | **Pepinillo verde** con la cara de Rick; luego traje de ratas ✅ | `#659025` | — |
@@ -1044,49 +1072,569 @@ deformada).
 
 ## 18A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
 
-_(pendiente: se rellena en esta segunda pasada)_
+### Con qué se hace (el estudio)
+
+- **Storyboard y animación**: **Toon Boom Storyboard Pro** y **Toon Boom
+  Harmony** ✅ ([blog de Toon Boom](https://www.toonboom.com/top-animation-news-mifa-rick-and-morty-the-dragon-prince-and-more)
+  y Wikipedia). Es animación **2D**, no 3D.
+- **Fondos y diseño de personajes**: **Adobe Photoshop**. Posproducción:
+  **After Effects** ✅ (Wikipedia + lo vi en pantalla, abajo).
+- **Estudios**: **Bardel Entertainment** (Vancouver), T1-T8. Desde la T9,
+  **Mercury Filmworks** (Ottawa). **Lighthouse Studios** (Irlanda) ayuda
+  desde la T7. La T1 la produjo **Starburns Industries** (su tarjeta sale
+  en el [tráiler de la T1](https://archive.org/details/turner_video_391819),
+  0:24) ✅.
+- **El orden de trabajo**: storyboard, diseños, *color keys* y fondos en
+  Burbank; se montan en Vancouver ⚠️ (cita de Justin Roiland en
+  animationmagazine.net, que dio 403: una fuente).
+- **Se ve en la hoja `arte-produccion_01.jpg`** (3×03): boceto de fondo de
+  **Tommy Scott** (196-203) → pintura final de **Corey Booth** (194, 205,
+  207) → personajes encima. Conceptos de línea sin color de **Justin
+  Noel** (209, 215-217) ✅.
+
+### Lo vi: el vídeo oficial «Style Guide»
+
+El director de arte **Jeffrey Thompson** dibuja a Morty y a Rick en 2:42
+([ficha en Adult Swim](https://www.adultswim.com/videos/rick-and-morty/rick-and-morty-style-guide)).
+YouTube pedía iniciar sesión: lo miré en su copia de
+[Internet Archive](https://archive.org/details/rick-and-morty-style-guide)
+(640×360), con `fotogramas.py --cortes` (66 planos, mirados con Read).
+**Esto resuelve el «no pude verlo» de la primera pasada** ✅.
+
+- **0:14**: la barra de título dice **Adobe Photoshop CC 2016.3** (leído
+  en dos fotogramas) ✅. Trabaja con 8-11 capas: guías y línea final.
+- **0:26-1:22, Morty**: cabeza ovalada con **una guía curva cruzada**;
+  **dos ojos de tamaño distinto** con la pupila en el centro; boca de una
+  sola curva; orejas pegadas. El cuerpo, primero como **muñeco de
+  palitos**, luego la ropa lisa.
+- **1:16-2:42, Rick**: **primero el pelo en zigzag**, luego cejas
+  fruncidas, arrugas de la frente, **un ojo más cerrado que el otro**,
+  boca abierta con dientes.
+- **La regla de oro: asimetría a propósito**. Thompson: «the characters
+  are often drawn with odd or asymmetrical features, in order to avoid
+  looking too normal» ✅ (cita + lo vi en el vídeo: los ojos nunca son
+  iguales).
+
+### Lo que dicen los directores de arte
+
+- **James McDermott** (T1-T2), en
+  [It's Nice That](https://www.itsnicethat.com/features/inside-rick-and-morty-art-director-james-mcdermotts-sketchbooks-250717):
+  todo es **«shape language»** (el dibujo funciona por cómo hablan sus
+  formas); los alienígenas, **«squishy and gross but also familiar»**; lo
+  doméstico, **cutre a propósito**, para que contraste con lo alienígena;
+  cada mundo con su lógica (en un planeta de perros, hasta los coches
+  parecen perros). Inspiración: la ciencia ficción de los 70 (*Zardoz*,
+  Roger Corman) ✅.
+- **Jeffrey Thompson** (T3, venía de *Gravity Falls*), en el
+  [Toronto Guardian](https://torontoguardian.com/2017/01/rick-and-morty-artist-jeffrey-thompson/):
+  fija el ánimo de cada episodio con **color keys** antes de animar ✅.
+- **Justin Roiland**: los dientes y las bocas, por *Los Simpson*; la
+  **«boca en W»**, por *Ren & Stimpy* ✅ (Wikipedia, con cita).
+
+### Línea, color y filtros
+
+- **Línea**: negra, gruesa e irregular, casi sin variar de grosor ⚠️
+  (análisis de terceros; coincide con lo medido en §5).
+- **Sombreado**: **plano**, un solo tono más oscuro, sin degradado. Los
+  portales llevan **luz de borde** (*rim light*) verde ⚠️.
+- **Baba y líquidos**: formas gráficas planas (gotas, burbujas, anillos),
+  nunca fluido realista ⚠️.
+- **Filtros**: en los 7 vídeos mirados (§12) no se ve grano ni
+  aberración en las escenas normales: imagen limpia. La «señal de tele
+  vieja» sólo aparece dentro de los anuncios del cable ⚠️ (no encontré
+  fuente del estudio; hay que mirarlo en el 1×08).
+
+### Cómo replicarlo en Photoshop
+
+1. Capa de **guías** (óvalo + cruz), capa de **línea**, capa de
+   **relleno** debajo. Como en el Style Guide.
+2. Pincel **duro, negro, sin presión** para la línea. Temblor ligero:
+   no la hagas perfecta.
+3. Relleno plano con el cubo. Bloquea transparencia (candado Alfa) y
+   colorea dentro sin salirte ✅ (tutorial de
+   [Jason Piperberg](https://jasonpiperberg.com/4140/4140/)).
+4. **Sombra**: capa en Multiplicar, un tono, pincel duro. **Brillo** de
+   portal: aerógrafo suave en capa **Trama** o **Luz suave** ✅ (mismo
+   tutorial).
+5. Ojos distintos, pelo de Rick en zigzag, babas sólo en la comisura.
+
+### Cómo replicarlo en Blender
+
+- **Sombreado**: nodo **Shader to RGB** + **ColorRamp** en modo
+  *Constant* (dos o tres bloques, no degradado), o **Toon BSDF** ✅ (dos
+  fuentes: [Blender Studio](https://studio.blender.org/blog/cartoon-character-shading-with-geometry-nodes/)
+  y [artisticrender](https://artisticrender.com/cel-shading-in-blender/)).
+- **Contorno**: **Line Art** o **Freestyle** negro, o **Solidify**
+  invertido (normales hacia dentro) con material negro sin luz ⚠️
+  (técnica genérica; el estudio no usa Blender).
+- **Luz**: una sola luz principal fuerte + una de borde verde si hay
+  portal. **Render**: Eevee, sin desenfoque de movimiento ni profundidad
+  de campo exagerada.
+- **Encima, en composición**: una textura de papel o grano **muy
+  suave** sobre todo el render, no en el material ✅ (mismas dos
+  fuentes). Para la pantalla de la tele, la estática de §18B.
+- **Modelos y rigs libres** (licencia leída en la API de Sketchfab):
+  [Morty Rig Blender](https://sketchfab.com/3d-models/morty-rig-blender-c99a7fbd39b84428ab99ec1af4b15800)
+  de mfxmotions y [Portal gun](https://sketchfab.com/3d-models/portal-gun-rick-and-morty-ac3226c6b9e64142af2065409f0162ee)
+  de kreems, los dos **CC BY 4.0** ✅ (crédito: «<modelo>» de <autor>
+  (Sketchfab), CC BY 4.0). La **Meeseeks Box** de MagunDongle ya **no
+  devuelve licencia**: sólo para mirar ⚠️. Más modelos con licencia en
+  §4 y §18F.
+
+### Encuadres y composición (lo que vi en vídeo)
+
+- **Presentar**: plano medio frontal, personaje centrado, brazos arriba
+  (Meeseeks saliendo de la caja,
+  [1×05, 0:16](https://www.dailymotion.com/video/x7xeqwl?t=16)).
+- **Grupo**: todos de pie en fila, armas en alto, cámara a la altura del
+  pecho ([tráiler T1, 1:12](https://archive.org/details/turner_video_391819)).
+- **Caos**: plano general lleno hasta los bordes (la sala de Meeseeks,
+  [1×05, 1:10](https://www.dailymotion.com/video/x8bmk63?t=70)).
+- **Cansancio o drama**: primer plano de Rick con la lata
+  ([tráiler T9, 0:57](https://www.dailymotion.com/video/xae2lba?t=57)).
+- **Amenaza o poder**: contrapicado (el rascacielos de Tommy Scott, hoja
+  196); **algo delante del personaje** (hombros de los agentes, hoja 173).
+- No encontré una entrevista del estudio sobre planos por emoción: lo de
+  arriba sale de mirar los vídeos, no de una regla escrita.
 
 ---
 
 ## 18B · Texturas 2D (punto 19)
 
-_(pendiente: se rellena en esta segunda pasada)_
+**Lo primero**: Rick y Morty está pintada **plana** (§18A). No es manga:
+**no hay tramas** de puntos ni pinceladas a la vista. Su «textura 2D»
+está en los **emblemas y logos**, en algún **patrón de ropa** y en el
+**ruido de tele** de los anuncios del cable. Si una capa de la lámina
+lleva textura, que sea poca.
+
+### Emblemas y logos de la serie (tamaño medido con la API de Fandom)
+
+| Emblema | Tamaño | Para qué |
+|---|---|---|
+| [Insignia del Consejo de Ricks](https://static.wikia.nocookie.net/rickandmorty/images/0/02/RickCouncilBadge.png): escudo dorado tipo placa | 830×962 | **Sello** o marca de agua en una lámina «oficial» ✅ |
+| [Logo de Blips and Chitz](https://static.wikia.nocookie.net/rickandmorty/images/b/b8/BlipsChitzBack.png), el salón recreativo galáctico | 263×266 | Rótulo de neón de un sitio de la serie ✅ |
+| [Logo de Adult Swim](https://static.wikia.nocookie.net/rickandmorty/images/d/dc/2000px-Adult_Swim_2003_logo.svg.png), la cadena | 2000×370 | Cartela de «presenta» ✅ (marca registrada: sólo como referencia) |
+| [Caja del juguete Story Train](https://static.wikia.nocookie.net/rickandmorty/images/a/ac/Story_train.png) (3×02) | 774×444 | Cómo es **el envoltorio de un juguete** dentro de la serie: sirve para la funda de la caja Meeseeks del concepto C ✅ |
+
+El logo de la serie y su letra están en §6.
+
+### Patrones de ropa
+
+- Los protagonistas visten **colores lisos**, sin estampado (medido en
+  §16: bata `#E8E8E8` y pantalón `#8E774D` de Rick; camiseta `#FEF665` y
+  pantalón `#314568` de Morty, medidos en las hojas de modelo 210 y 1).
+- Los únicos patrones reales: el **mono a rayas de presidiario** de Rick
+  (varios capítulos) y el **traje de rombos** del Sr. Pantalones de Popó
+  (Mr. Poopybutthole) ⚠️ (vistos, no medidos).
+
+### Texturas y pinceles libres (licencia leída en su página)
+
+| Para qué | Recurso | Licencia |
+|---|---|---|
+| **Estática de tele** (la pantalla sin señal, el efecto VHS del noticiero) | [CC0 Textures](https://cc0-textures.com/) y la textura «AbstractVarious0025» (*noise TV static*) de Textures.com | CC0 / uso libre con cuenta gratis ✅ |
+| **Trama de puntos** de cómic (fondo de un rótulo, el periódico del concepto C) | [Brusheezy, «comic halftone»](https://www.brusheezy.com/free/comic-halftone) (155 pinceles) | Creative Commons / Free: **mira cada pack** ✅ |
+| **Grano de papel** encima del render (muy suave) | [Paper 006](https://ambientcg.com/a/Paper006) y [Paper 001](https://ambientcg.com/a/Paper001) de ambientCG | **CC0** ✅ (todo ambientCG es CC0) |
+| **Tela** del sofá o del cojín | [Fabric 061](https://ambientcg.com/a/Fabric061) de ambientCG | **CC0** ✅ |
+
+Las texturas reales de madera, metal y vidrio (tele, mueble, garaje)
+están en §5, con Poly Haven (CC0). Los modelos 3D, en §4.
+
+- ⚠️ No encontré un *artbook* ni un *making of* que enseñe los
+  archivos de textura del estudio: el «Style Guide» sólo enseña reglas de
+  dibujo.
 
 ---
 
 ## 18C · Gustos y detalles de cada personaje (punto 20)
 
-_(pendiente: se rellena en esta segunda pasada)_
+**No hay ficha oficial** con altura, cumpleaños o comida favorita del
+reparto principal. Busqué el *Rick and Morty Character Guide* (Dark
+Horse, 2020): es un libro de personajes secundarios, narrado como informe
+de un gromflomita, y no trae esos datos ⚠️
+([ficha en Fandom](https://rickandmorty.fandom.com/wiki/Rick_and_Morty_Character_Guide)).
+La wiki sólo da altura y grupo sanguíneo de **Mullet Rick** y su Morty
+(versiones alternativas de «Fighting Mother») y avisa de que **no se
+sabe si valen** para los protagonistas ✅. No lo uses para Rick C-137.
+
+Todo lo de abajo sale de la wiki en inglés (secciones *Trivia* y
+*Relationships*, leídas en su wikitexto por la API), con el capítulo.
+
+| Personaje | Objeto que siempre lleva | Le encanta | Odia o le da miedo | Cómo se ve a sí mismo |
+|---|---|---|---|---|
+| **Rick** | La **pistola de portales**; bebida en la mano **izquierda** ⚠️ | El **bajo**: tocaba en **The Flesh Curtains** con Squanchy y Ave Persona («Get Schwifty» y 5×08) ✅. Los planetas ⚠️ («Childrick of Mort») | **Los piratas** ✅ («Anatomy Park» y «Unmortricken»). La rutina: quema su propia tienda antes que atarse a ella («Something Ricked This Way Comes») ✅ | «The hardest working liver in the galaxy» («Look Who's Purging Now») y, desde la T3, «el ser más listo del universo» ✅ |
+| **Morty** | Nada fijo: depende del capítulo | **Jessica**, su compañera de clase, desde el 1×01 ✅. Los juegos de **Blips and Chitz** | El caos que trae Rick; se avergüenza fácil | Se cree normal y torpe. La serie lo muestra más valiente de lo que cree («Raising Gazorpazorp», «Anatomy Park») ✅ |
+| **Summer** | El **móvil** (al principio); trofeos de voleibol en su cuarto ⚠️ | Los mundos **posapocalípticos** («Rickmancing the Stone») ⚠️. Dice «**boo-yah**» ✅ | La película *The Purge*; que la traten de niña ⚠️ | Empieza pendiente de su popularidad; luego compite con Morty por ir de aventura con Rick |
+| **Sr. Meeseeks** | **La caja** de la que sale | Cumplir su tarea y **desaparecer** ✅ (1×05) | Una tarea imposible: «Existence is pain» (1×05, 16:42) ✅ | Una herramienta feliz, nunca alguien con derecho a seguir existiendo |
+| **Pepinillo Rick** | El **traje de ratas** cosidas: sus «brazos» ✅ | Presumir: «Boom! Big reveal!» ✅ | **La terapia familiar**: por eso se volvió pepinillo (3×03) ✅ | Invencible («I'm Pickle Rick!»), aunque sólo mueve ojos y boca |
+
+**Más detalles con fuente** (útiles para escribir en su voz):
+
+- **Rick llora a escondidas por Morty**: en «Close Rick-counters of the
+  Rick Kind» (1×10) ve recuerdos de Morty, se le escapan las lágrimas y
+  dice que es «alérgico a los idiotas» ✅. En «A Rickle in Time» (2×01)
+  se ofrece a sacrificarse por él ✅. Esto quita el ⚠️ «de memoria» de §8.
+- **Rick es ambidiestro**: escribe con la derecha, bebe y dispara con la
+  izquierda ⚠️ (una fuente). Grupo sanguíneo **B negativo** ⚠️.
+- **Rick hispano**: en el comentario de audio de «Auto Erotic
+  Assimilation» (2×03) los creadores dicen que es de origen hispano,
+  medio en broma ⚠️ (una fuente, no lo oí).
+- **Morty**: agnóstico ⚠️. Bajo la Federación Galáctica su «edad legal»
+  pasa a 35 años (3×01): es un chiste, tiene 14 ✅.
+- **Summer**: la wiki calcula que nació el **23 de noviembre de 1996**
+  (17 años en 2013) ⚠️ (cálculo, no se dice en pantalla). **Bisexual**,
+  confirmado en «The Old Man and the Seat» (4×02) ✅.
+- **Sr. Meeseeks**: casi no cambia de nombre al doblarse (en francés,
+  «Monsieur Larbin»; en italiano, «Mr. Miguardi») ⚠️. Sale también en el
+  videojuego de Blips and Chitz dando consejos («Mortynight Run») ✅. El
+  bot **MEE6** de Discord tomó su nombre y su cara ⚠️ (wiki, *Trivia*).
 
 ---
 
 ## 18D · Por qué la gente la ama (punto 21)
 
-_(pendiente: se rellena en esta segunda pasada)_
+### Las razones, con cifras
+
+- **Dos Emmy a Mejor Programa Animado**: 2018 por «Pickle Rick» y 2020
+  por «The Vat of Acid Episode» (4×08) ✅
+  ([Deadline](https://deadline.com/2020/09/rick-and-morty-outstanding-animated-program-1234580001/),
+  [IndieWire](https://www.indiewire.com/awards/industry/rick-and-morty-wins-emmy-outstanding-animated-program-1234585898/)).
+  Nominada otra vez en 2022 ✅
+  ([Nerds and Beyond](https://www.nerdsandbeyond.com/2022/07/12/rick-and-morty-nominated-for-outstanding-animated-program-at-the-2022-emmys/)).
+- **Crítica**: T1 con 97 % en Rotten Tomatoes; T3 y T4, 96 %. La **T9
+  (2026) empezó con 100 % de crítica y 89 % de público**, su mejor
+  arranque sin Justin Roiland ✅
+  ([CBR](https://www.cbr.com/rick-and-morty-season-9-rotten-tomatoes-score/),
+  [Screen Rant](https://screenrant.com/rick-morty-season-9-audience-rotten-tomatoes-score-debut/)).
+- **Se ve mucho**: en 2026, n.º 2 del top 10 mundial de HBO Max (tras
+  *Euphoria*) y n.º 1 en Apple TV ✅
+  ([CBR](https://www.cbr.com/rick-and-morty-season-9-instant-success/)).
+- **Mueve cosas fuera de la tele**: una frase de Rick sobre la salsa
+  Szechuan (3×01, 5:03) acabó en **20 millones de sobres** de McDonald's
+  (§18F) ✅.
+- **El porqué, en corto**: ciencia ficción de verdad (Dan Harmon:
+  «*Los Simpson* con *Futurama*»), chistes rápidos y, de golpe, **una
+  escena que duele**. Rick parece cínico pero **quiere a Morty**
+  (llora a escondidas en 1×10, §18C). Esa mezcla es lo que más se repite
+  en Reddit.
+
+### Con quién se identifica la gente
+
+En el hilo de Reddit [«Which character do you identify with most?»](https://www.reddit.com/r/rickandmorty/comments/1r2zhxh/which_character_do_you_identify_with_most/)
+(833 votos, 475 comentarios; citas leídas con Arctic Shift) ✅:
+
+- **Beth**: «I relate to Beth (…) I grew up without my dad around». El
+  padre ausente y el talento que no llegó a usar.
+- **Jerry**: «Jerry 100%. I need a job». La inseguridad, con humor.
+- **Summer**: «Summer 10000000%». La segunda más repetida.
+- **Morty**: «on my best days I'm Morty. I'm generally a Jerry». Morty
+  es el «yo ideal»; Jerry, el «yo real».
+- **Rick**: pocos se reconocen en él: lo quieren **como aspiración**.
+
+**Para el canal**: la gente se ríe con Rick, pero **se reconoce** en Beth,
+Jerry y Summer. Summer, la que opina fuerte, funciona como voz de un canal
+de comentarios (ya lo decía §9).
+
+### Las escenas que hacen llorar
+
+| Escena | Qué pasa | Por qué duele | Música y dibujo | Cómo reaccionó la gente |
+|---|---|---|---|---|
+| **1×08, 18:01-18:06** «Nobody exists on purpose» | Morty le cuenta a Summer que su Morty original murió y que él lo enterró en el jardín | El protagonista miedoso dice lo más duro de la serie **y lo cierra con un «Come watch TV»** | Los dos solos junto a la tumba del jardín, sin música de fondo ⚠️ (de memoria, sin fotograma; la tumba viene del 1×06: hoja 185, Rick y Morty cavando) | Es **la frase más citada** del episodio (§2) ✅ |
+| **1×08, 20:14** | Beth y Jerry deciden seguir juntos | La pareja que no se aguanta elige quedarse | Suena **Mazzy Star** («Give me a name / Hear my faith…») ✅ subtítulo | — |
+| **1×11, 18:22** «Wubba lubba dub dub» | Ave Persona le explica a Morty qué significa la frase de Rick | El grito de fiesta de Rick era, en su idioma, **«estoy sufriendo mucho, ayúdenme»** ✅ | Charla tranquila en plano medio ⚠️ | Se volvió un dato que todo fan conoce (§18H) |
+| **5×03** «A Rickconvenient Mort» (4-jul-2021) | Morty rompe con **Planetina**, su primera novia de verdad, y llora en brazos de **Beth** | La misma canción sonó antes en el montaje feliz de la pareja: **vuelve para la ruptura** | **«I Am the Antichrist to You», de Kishi Bashi** ✅ | Adult Swim sacó un **vídeo musical** de la escena ✅ ([ComicBook](https://comicbook.com/anime/news/rick-and-morty-season-5-morty-planetina-break-up-flowers-music-video-adult-swim/), [Newsweek](https://www.newsweek.com/rick-morty-season-5-episode-3-morty-planetina-relationship-explained-1606826)). Minuto sin medir ⚠️ |
+| **7×04** «That's Amorte» (5-nov-2023) | Un anciano cuenta que fue **el último de su planeta en quitarse la vida** | La serie habla de salud mental sin chiste; el episodio abre con **aviso de contenido** | Flashback ⚠️ (sin ver) | En Reddit: «the flashback from the old man (…) just hit me. It humanizes him» ✅ ([Variety](https://variety.com/2023/tv/news/dan-harmon-rick-and-morty-season-7-episode-4-spaghetti-interview-1235779646/), [Reddit](https://www.reddit.com/r/rickandmorty/comments/1mde14b/what_is_the_saddest_episode_of_rick_and_morty/)) |
+
+Los hilos [«What is the saddest episode?»](https://www.reddit.com/r/rickandmorty/comments/1mde14b/what_is_the_saddest_episode_of_rick_and_morty/)
+(403 votos), «What is your saddest scene?» (625) e «Is this the saddest
+scene in the entire show?» (2004) repiten Planetina y el espagueti. Citan
+también el final de la T8, sin decir el capítulo ⚠️.
+
+### Las que hacen reír o gritar
+
+- **3×03, 0:34 y 0:55**: «Boom! Big reveal... I'm a pickle» y «**I'm
+  Pickle Rick!**» ✅ (subtítulo). Ganó el Emmy de 2018.
+- **1×05, 2:35**: «**I'm Mr. Meeseeks! Look at me!**», brazos arriba
+  ([vídeo, 0:16](https://www.dailymotion.com/video/x7xeqwl?t=16)) ✅. Y la
+  sala llena de Meeseeks gritando
+  ([vídeo, 1:10](https://www.dailymotion.com/video/x8bmk63?t=70)) ✅.
+- **2×05, 0:32 y 5:54**: «**Show me what you got**» y «**Get schwifty**» ✅.
+- **1×08, 3:37 y 9:59**: *Ants in My Eyes Johnson* y *Real Fake Doors*,
+  los anuncios más compartidos ✅ (§2).
 
 ---
 
 ## 18E · Fan dubs y comunidad hispana (punto 22)
 
-_(pendiente: se rellena en esta segunda pasada)_
+### Doblajes de fans en YouTube
+
+Canal, fecha y vistas sacados con `yt-dlp --skip-download` (no de
+memoria), el 25-sep-2026.
+
+| Fandub | Canal | Fecha | Vistas | Enlace |
+|---|---|---|---|---|
+| Escena de **Pepinillo Rick** doblada por fans | zeusupchuck | 8-ago-2017 | 17 820 | [YouTube](https://www.youtube.com/watch?v=54KRtXDG1jU) ✅ |
+| «Rick & Morty - Allahu Akbar», escena de humor | Kitsumaur | 3-may-2017 | 6 037 | [YouTube](https://www.youtube.com/watch?v=nKvcKRyR_fY) ✅ |
+| «Rick and Morty **Señor Mezeeks** Fandub»: **un solo actor dobla a todos** (primer trabajo del canal) | Moises Aldana | 13-jul-2018 | 81 | [YouTube](https://www.youtube.com/watch?v=RKui4ah87xY) ✅ |
+| «RICK Y MORTY ROBAN EL OMNITRIX»: cruce con *Ben 10* | Kicker Professional | sin dato | sin dato | [YouTube](https://www.youtube.com/watch?v=UL5uk05WVCg) ⚠️ (yt-dlp no respondió) |
+| «EL FUTURO DE RICK Y MORTY» (*short*) | CHUCKLEBONE | sin dato | sin dato | [YouTube](https://www.youtube.com/shorts/vugSeeML1nQ) ⚠️ |
+
+- **Redoblaje de fans del gag de *Los Simpson***: las primeras voces
+  latinas de Rick y Morty fueron mexicanas, en el gag del sofá de
+  «Hazaña matemática» (2015): **Ismael Castro** (Rick) y **Bruno
+  Coronel** (Morty) ✅ (§10). En 2020, **Juan Guzmán y Eder La Barrera**
+  lo redoblaron por su cuenta para el canal DALEHHOR STUDIOS ⚠️ (Doblaje
+  Wiki, [vídeo](https://youtu.be/QaQdbhepkH8)).
+
+### Covers del opening
+
+**No hay**: la serie no tiene canción de entrada con letra. Abre con una
+viñeta distinta cada vez y la tarjeta del título sobre un riff de Ryan
+Elder ([intro vista, 0:32](https://www.dailymotion.com/video/x8x2x8y?t=32)) ✅.
+Por eso no busques covers cantados: los fans doblan **escenas**.
+
+### Memes y comunidad en español
+
+- **Memes**: colección activa en [Memedroid, «Rick Y Morty en
+  español»](https://es.memedroid.com/memes/tag/rick+y+morty) ⚠️ (sin contar
+  vistas).
+- **Audios en TikTok**: categoría [«Audios De Rick Y Morty En
+  Español»](https://www.tiktok.com/discover/audios-de-rick-y-morty-en-espa%C3%B1ol) ⚠️.
+- **Los actores y el cambio de voces**: la comunidad de doblaje sigue de
+  cerca los cambios de reparto. El canal de TikTok
+  [estrelladoblaje](https://www.tiktok.com/@estrelladoblaje/video/6994486723602386182)
+  habla del cambio de voz de **Beth** ⚠️. Y en YouTube hay recopilaciones
+  como «Voces de RICK Y MORTY en 1 minuto» y «Evolución de todas las
+  voces… en español latino (2013-2024)» (§12).
+- **Beth cambia de voz tres veces**: Rebeca Aponte (T1-T6), Carmen Lugo
+  (T7-T8) y **Arlet Matute** (T9) ✅ (§10). Es un buen tema para el canal:
+  «¿qué voz de Beth prefieres?».
+- **Para Sintonizando**: las frases que más se doblan en fandubs son las
+  de §2 y §10 («¡Soy el Señor Meeseeks!» ✅; «I'm Pickle Rick!» en su
+  versión latina, sin fuente textual ⚠️). Un
+  **reto de doblaje** con la escena de Pepinillo Rick (3×03, 0:34-0:55)
+  encaja con el servidor.
 
 ---
 
 ## 18F · Colaboraciones, figuras y cosplay (punto 23)
 
-_(pendiente: se rellena en esta segunda pasada)_
+Su arte trae **ropa y poses nuevas**: sirve como referencia extra.
+
+### En otros juegos
+
+- **Fortnite**, tres tandas ✅ (dos fuentes cada una):
+  - **1**: Rick Sanchez, pase de batalla del Capítulo 2 Temporada 7 (8
+    de junio de 2021).
+  - **2**: **Mecha Morty**, **Queen Summer** y **Mr. Poopybutthole**, en
+    la tienda el 22 de agosto de 2021.
+  - **3**: **Pepinillo Rick** y **Rick Prime**, el **7 de marzo de 2026**,
+    con Mr. PB y Squanchy de acompañantes
+    ([esports.gg](https://esports.gg/news/fortnite/fortnite-x-rick-and-morty-wave-3/),
+    [Beebom](https://beebom.com/rick-and-morty-skins-in-fortnite/)).
+    **El Pepinillo en 3D, con pose de juego**: referencia viva para el
+    concepto B.
+- **MultiVersus** (lucha de Warner): **Morty** desde el 23-ago-2022 y
+  **Rick** desde el 27-sep-2022 (usa sus inventos); **Evil Morty** en la
+  beta ✅ (Variety, Multiversus Wiki, Destructoid). Dejó de venderse el
+  30-may-2025; se juega sin conexión.
+- **Merge Dragons!**: evento «Froopy Flight» (hasta el 13-jul-2020) ✅
+  (Bleeding Cool + ficha del juego).
+- **DOTA 2**: paquete de voces de anunciador de Rick y Morty ✅ (Game Rant).
+- **Clone Rumble**: juego propio de colección para móvil (2020) ⚠️ (una
+  fuente, Android Police).
+
+### Marcas, tele y cómic
+
+- **McDonald's y la salsa Szechuan**: Rick la pide en el 3×01 (5:03).
+  Promo fallida el **7-oct-2017** (unos 20 sobres por local, colas y
+  enfados) y relanzamiento el **26-feb-2018** con **20 millones de
+  sobres** ✅ (Time, Snopes, Fortune). Ojo con celebrarlo: ver «qué NO
+  hacer» en §14.
+- **Gag del sofá de *Los Simpson*** (mayo de 2015): **2 min 21 s**, el
+  más largo de *Los Simpson*; Roiland pone las voces ✅ (The Hollywood
+  Reporter, Wikisimpsons).
+- **Corto de anime oficial «Samurai & Shogun»** (29-mar-2020, Toonami):
+  lo hizo **Studio DEEN**, dirigido por **Kaichi Satō**. Rick samurái,
+  Morty *shōgun*, **hablado en japonés** con las voces del **doblaje
+  japonés** de la serie (**Youhei Tadano** y **Keisuke Chiba**) ✅ (Anime
+  News Network, GameSpot, Toonami Wiki). **Para un servidor de doblaje,
+  la colaboración más interesante.**
+- **Cómic *Rick and Morty vs. Dungeons & Dragons*** (IDW y Oni Press) ✅.
+
+### Eventos y bares
+
+- **Bar temporal «Wubba Lubba Dub PUB»** (Washington D. C., agosto de
+  2018): tres barras (el garaje de Rick, Anatomy Park, la nave), cócteles
+  con nombres de la serie, *Real Fake Doors* y un plumbus en el techo ✅
+  (Inverse, The Manual). Hubo más de este tipo, también en Latinoamérica.
+- **El Rickmobile** (la autocaravana oficial de la gira) en el **desfile
+  de Dragon Con**, Atlanta, **5-sep-2026**, con cosplayers elegidos por
+  Adult Swim y máscaras gratis para el público ✅
+  ([X oficial](https://x.com/RickandMorty/status/2095612579389345981),
+  [Adult Swim Central](https://adultswimcentral.com/2026/08/07/rickmobile-dragon-con-parade/),
+  [Bleeding Cool](https://bleedingcool.com/tv/calling-all-cosplayers-rick-and-morty-needs-some-help-at-dragon-con/)).
+- **Mural pintado a mano** por **Colossal Media** en Los Ángeles para la
+  T9 ✅.
+
+### Figuras oficiales (su pose es referencia 3D)
+
+- **Funko Pop!**: desde 2016; unas **103 figuras**, entre ellas Rick y
+  Morty armados, Sr. Meeseeks, Mr. Poopybutthole, Ave Persona, Squanchy,
+  Snowball y **seis Pepinillo Rick** distintos ✅ (GrailNest, Cardboard
+  Connection). Sirven para ver **al Pepinillo en volumen**.
+- **McFarlane Toys**: sets de bloques compatibles, como «Spaceship and
+  Garage» (unas 294 piezas) y «Evil Rick and Morty» con portal ✅
+  (mcfarlane.com, Walmart). **El set del garaje** es una maqueta real del
+  sitio del concepto B.
+- **No hay LEGO oficial**: lo que sale como «Rick and Morty Lego» son
+  montajes de fans ✅.
+- **Pelota antiestrés del Sr. Meeseeks**: producto oficial (hoja 218).
+
+### Cosplay
+
+- El de referencia es el **oficial de Dragon Con 2026** (arriba): trajes
+  hechos para Adult Swim, con volumen real.
+- Lo que un cosplay bien hecho tiene que tener: la bata **blanca y
+  rígida**, la camisa `#97D7D7`, el **pelo de Rick en pinchos** hacia
+  atrás y la pistola de portales con **líquido verde** que brilla (§16) ⚠️
+  (consejos míos a partir de §16; no encontré un tutorial con materiales
+  que valga la pena citar).
 
 ---
 
 ## 18G · Obras parecidas y temas relacionados (punto 24)
 
-_(pendiente: se rellena en esta segunda pasada)_
+### De dónde viene
+
+- **Nació de una parodia de *Volver al futuro***: el corto de 2006 **«The
+  Real Animated Adventures of Doc and Mharti»**, de Justin Roiland, para
+  el festival **Channel 101** (cofundado por Dan Harmon). Doc y Mharti
+  pasaron a ser Rick y Morty; el viaje en el tiempo se volvió viaje entre
+  dimensiones para evitar líos legales ✅ (tres fuentes:
+  [wiki](https://rickandmorty.fandom.com/wiki/The_Real_Animated_Adventures_of_Doc_and_Mharti),
+  [Inverse](https://www.inverse.com/article/30812-rick-and-morty-troll-back-to-the-future-justin-roiland-origin-original-short),
+  [Screen Rant](https://screenrant.com/rick-and-morty-back-to-the-future-origins-explained/)).
+- **Harmon la define** como *Los Simpson* cruzado con *Futurama*:
+  familia normal + ciencia ficción dura ✅ (Wikipedia, con cita).
+- **Influencias británicas**: *The Hitchhiker's Guide to the Galaxy* y
+  *Doctor Who* ✅ (Wikipedia).
+- **Dibujo**: la boca en W viene de *Ren & Stimpy*; los dientes, de *Los
+  Simpson*; el diseño, de la ciencia ficción de los 70 (*Zardoz*, Roger
+  Corman) ✅ (§18A).
+
+### Series del mismo tono
+
+- **La más cercana: *Solar Opposites*** (Hulu), de **Justin Roiland y
+  Mike McMahan**, los dos de Rick y Morty. Mismo dibujo y mismo humor,
+  pero **sin** el «círculo de historia» (*story circle*) de Dan Harmon
+  que ordena cada capítulo de Rick y Morty ✅
+  ([Bubbleblabber](https://www.bubbleblabber.com/2020/06/exploring-the-similarities-and-differences-between-rick-and-morty-and-solar-opposites/),
+  [Inverse](https://www.inverse.com/entertainment/solar-opposites-review-justin-roiland-hulu)).
+- **Lista de TVLine** («si te gusta Rick y Morty») ✅
+  ([TVLine](https://www.tvline.com/2121225/tv-shows-like-rick-and-morty/)):
+  *Futurama*, *Star Trek: Lower Decks* (también de Mike McMahan), *The
+  Venture Bros.*, *Doctor Who*, *Back to the Future: The Animated
+  Series*, *Space Ghost Coast to Coast*, *South Park*, *American Dad!*,
+  *BoJack Horseman*, *Loki*, *The Sandman*, *Bill & Ted*, *Voyagers!* y
+  *Aeon Flux*.
+- **Su propio anime**: *Rick y Morty: El anime* (2024), con otro reparto
+  latino (§10), y el corto de Studio DEEN (§18F).
+
+### Otras láminas del servidor (para no repetir ideas)
+
+- **Ningún otro encargo usa #noticias-series** (`grep -il noticias-series
+  encargos/*.md` sólo da este) ✅: no hay choque de canal.
+- **Parecidas por tono o dibujo**, y qué no repetir:
+  - **14 · Hora de aventura** (#musica-nueva): su concepto C es la
+    «mixtape de **BMO**», una consola con pantalla. **No repitas** «un
+    personaje dentro de una pantalla» igual: en el concepto A de Rick y
+    Morty la tele es **un aparato del salón**, con la caja del cable
+    abierta, no un personaje.
+  - **15 · Bob Esponja** (#ofertas-y-gratis): su concepto A es «la caja
+    de Don Cangrejo». La **caja Meeseeks** (concepto C) tiene que verse
+    distinta: **caja de juguete con botón y funda impresa**, no una caja
+    registradora.
+  - **26 · Scooby-Doo** (#dudas): dibujo animado occidental, pero de
+    misterio y tablero de pistas: no choca.
+  - **27 · Cyberpunk: Edgerunners** (#a-que-juegas): ciencia ficción
+    adulta, pero en estilo anime y con recreativa y neones. Evita el
+    **neón morado**: aquí manda el verde de portal.
+- Ninguna otra comparte el humor cínico y adulto de Rick y Morty.
 
 ---
 
 ## 18H · El mundo, la historia y sus símbolos (punto 25)
 
-_(pendiente: se rellena en esta segunda pasada)_
+### Las reglas del mundo, en cinco líneas
+
+1. Hay **infinitos universos**. Rick salta entre ellos con la **pistola
+   de portales** ✅ ([wiki, *Portal Gun*](https://rickandmorty.fandom.com/wiki/Portal_Gun)).
+2. Todos los Ricks viven dentro de la **Curva Finita Central**: un muro
+   que encierra los universos donde **Rick es el más listo**. Fuera, no
+   lo sería ✅ ([wiki](https://rickandmorty.fandom.com/wiki/Central_Finite_Curve); lo cuenta Evil Morty en 5×10).
+3. Los Ricks de mil dimensiones viven en **la Ciudadela**, gobernada
+   primero por el **Consejo de Ricks** y luego por un Morty presidente
+   (Evil Morty) ✅ ([wiki](https://rickandmorty.fandom.com/wiki/The_Citadel)).
+4. La pistola la inventó **Rick Prime**, que mató a la mujer y a la hija
+   de Rick C-137 (Diane y Beth). De ahí sale su venganza ✅ (wiki).
+5. Pase lo que pase en el espacio, **todo vuelve a la casa de los Smith**,
+   una casa normal de las afueras. Lo doméstico, cutre; lo alienígena,
+   elaborado ✅ (James McDermott, §18A).
+
+### La historia por arcos
+
+Fuente: [Den of Geek, «Just the Lore Episodes»](https://www.denofgeek.com/tv/rick-and-morty-just-the-lore-episodes/),
+cruzada con la wiki ✅.
+
+- **1 · El multiverso** (T1): en «Rick Potion #9» (1×06) Rick y Morty
+  **rompen su mundo** y se mudan a otro donde sus «yo» acaban de morir:
+  **se entierran a sí mismos** en el jardín. En 1×10 aparecen la
+  Ciudadela, el Consejo y **Evil Morty**.
+- **2 · La Federación Galáctica** (T2-T3): la boda de Ave Persona
+  (2×10) es una trampa; la Federación ocupa la Tierra y Rick se entrega.
+  «The Rickshank Rickdemption» (3×01) lo libera. En «The Ricklantis
+  Mixup» (3×07) **Evil Morty llega al poder** en la Ciudadela.
+- **3 · El pasado de Rick** (T5-T6): «Rickternal Friendshine of the
+  Spotless Mort» (5×08) enseña su vida joven y la muerte de Diane.
+  «Rickmurai Jack» (5×10) explica la Curva. En la T6 se sabe que el
+  asesino fue **Rick Prime**.
+- **4 · La caza de Rick Prime** (T7): en «Unmortricken» (7×05) Rick y
+  Evil Morty se alían y casi lo vencen. «Fear No Mort» (7×10) enseña la
+  vida que Rick pudo tener.
+- **5 · Después** (T8-T9): en la T8, Summer y Morty escapan de una
+  simulación. La **T9** (estreno: 25-may-2026, §12) abre con «There's
+  Something About Morty»: Rick y Evil Morty trabajaban juntos en secreto
+  contra una amenaza nueva para la Curva, **el Colectivo** ⚠️ (T9: una
+  sola fuente).
+
+### Símbolos, objetos y palabras que un fan reconoce al instante
+
+| Símbolo | Qué es | Dónde |
+|---|---|---|
+| **La pistola de portales** | Abre un **portal verde en espiral**; necesita un líquido verde que brilla | [wiki](https://rickandmorty.fandom.com/wiki/Portal_Gun) · verde medido en §5 |
+| **El portal** | Anillo lima `#AFDB30` con centro `#DAF81E`, casi blanco `#DEF7D7` si es suave | medido en [vídeo, 0:20](https://www.dailymotion.com/video/x3jf16p?t=20) ✅ |
+| **La insignia del Consejo** | Escudo dorado de los Ricks | [imagen, 830×962](https://static.wikia.nocookie.net/rickandmorty/images/0/02/RickCouncilBadge.png) (§18B) |
+| **La caja Meeseeks** | Aprietas el botón y sale un Meeseeks que cumple un deseo y desaparece | 1×05, 2:31 (§2) |
+| **El plumbus** | Objeto doméstico alienígena que nadie entiende | 2×08, 8:03 y 14:52 (§2) |
+| **El cable interdimensional** | La tele que ve todos los universos | 1×08 y 2×08 (§2) |
+| **Blips and Chitz** | Recreativa galáctica con el juego «Roy: A Life Well Lived» | [wiki](https://rickandmorty.fandom.com/wiki/Blips_and_Chitz) |
+| **Jerryboree** | Guardería de Jerrys en un asteroide | [wiki](https://rickandmorty.fandom.com/wiki/Jerryboree) |
+| **Los Vindicadores** | Equipo de superhéroes, parodia de Los Vengadores | [wiki](https://rickandmorty.fandom.com/wiki/The_Vindicators) |
+| **Cristales de la muerte** | Enseñan cómo vas a morir | [wiki](https://rickandmorty.fandom.com/wiki/Death_Crystal) |
+| **El mundo Cronenberg** | Humanidad convertida en monstruos por un antídoto de Rick (1×06) | [wiki](https://rickandmorty.fandom.com/wiki/Cronenberg_World) |
+| **Mr. Poopybutthole** | Amigo de la familia; dice «**Ooh-wee!**» y resume las temporadas | [wiki](https://rickandmorty.fandom.com/wiki/Mr._Poopybutthole) · 2×10, 22:01 |
+
+**Palabras propias** (en el doblaje latino se dejan casi todas en
+inglés, §7 y §10):
+
+- «**Wubba lubba dub dub**»: el grito de Rick. En el idioma de Ave
+  Persona significa «estoy sufriendo mucho, ayúdenme» (1×11, 18:22) ✅
+  ([wiki, *Birdperson*](https://rickandmorty.fandom.com/wiki/Birdperson)).
+- «**Get schwifty**» (2×05, 5:54), «**Show me what you got**» (2×05, 0:32).
+- «**I'm Pickle Rick!**» (3×03, 0:55); «**Existence is pain**» (1×05,
+  16:42).
+- **Salsa Szechuan** (3×01, 5:03), **Cronenberg** (monstruo mutante),
+  **Squanch** (el verbo de Squanchy, vale para todo) ⚠️ (de memoria).
 
 ---
 
