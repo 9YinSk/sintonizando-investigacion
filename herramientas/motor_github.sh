@@ -37,7 +37,7 @@ echo "Lote $L en $rama (desde $desde)"
 herramientas/guardar.sh --cada 300 &
 guardador=$!
 
-msg="Eres el jefe del lote $L, en una máquina de GitHub Actions (Ubuntu) que va con MWAPI. Esta vuelta dura unas 5 horas; al acabar se guarda todo y otra máquina sigue desde lo que haya en GitHub.
+msg="Eres el jefe del lote $L, en una máquina de GitHub Actions (Ubuntu) que va con la suscripción Max del dueño. Esta vuelta dura unas 5 horas; al acabar se guarda todo y otra máquina sigue desde lo que haya en GitHub.
 1. Ya estás en la rama $rama. Corre herramientas/juntar.sh (el .lote ya dice $L).
 2. Lee REPARTO.md y lotes/$L.md y sigue con la skill serie-en-equipo sólo con tu lote (python3 herramientas/siguiente.py 5 --lote $L), en cadena, desde lo que dice lotes/$L.md. Relanza primero lo que quedó cortado (partes con «Sigue:» o a medias, redactores sin cerrar).
 Aquí las herramientas ya están instaladas y herramientas/guardar.sh --cada 300 ya corre: no instales nada ni lo lances otra vez. No hay send_later ni enlace de sesión: sáltate esos pasos. /home/user/sintonizando-investigacion apunta a este repo. Apunta en lotes/$L.md el estado, los avisos y los tokens de cada agente al cerrar cada serie. No escribas correos de cuentas en ningún archivo. No toques ESTADO.md, DECISIONES.md, COSTOS.md ni TANDAS.md."
@@ -57,7 +57,7 @@ atender_dialogos() {
 
 lanzar "$msg"
 atender_dialogos
-inicio=$(date +%s); ultima_foto=0; relanzadas=0
+inicio=$(date +%s); ultima_foto=0; relanzadas=0; ultimo_empujon=0
 while (( $(date +%s) - inicio < LIMITE )); do
   sleep 60
   if ! tmux has-session -t jefe 2>/dev/null; then
@@ -70,8 +70,17 @@ while (( $(date +%s) - inicio < LIMITE )); do
   fi
   if (( $(date +%s) - ultima_foto >= 600 )); then
     ultima_foto=$(date +%s)
+    pantalla=$(tmux capture-pane -p -t jefe 2>/dev/null | grep -v '^[[:space:]]*$' | tail -25)
     echo "── $(date -u +%H:%M) pantalla del jefe ──"
-    tmux capture-pane -p -t jefe 2>/dev/null | grep -v '^[[:space:]]*$' | tail -25
+    echo "$pantalla"
+    # Con la Max, al topar el límite de 5 horas el jefe se queda esperando una
+    # orden: cada 30 minutos se le dice que siga, y en cuanto se recargue sigue.
+    if grep -qiE 'usage limit|limit reached|hit your limit|limit will reset|resets (at|in) ' <<<"$pantalla" \
+       && (( $(date +%s) - ultimo_empujon >= 1800 )); then
+      ultimo_empujon=$(date +%s)
+      tmux send-keys -t jefe "sigue" Enter
+      echo "   (límite de la cuenta: le digo que siga)"
+    fi
   fi
 done
 

@@ -1,7 +1,9 @@
-name: Lote con MWAPI
+name: Lote con la Max
 # Un jefe de lote trabajando ~5 h 20 por vuelta en una máquina de GitHub, con
-# el saldo de MWAPI (secreto MWAPI_KEY). Al terminar lanza la vuelta siguiente
-# si su letra sigue en .github/lotes-activos.
+# la suscripción Max del dueño (secreto CLAUDE_CODE_OAUTH_TOKEN, sacado con
+# `claude setup-token`). Al terminar lanza la vuelta siguiente si su letra
+# sigue en .github/lotes-activos. (Antes fue con MWAPI: el 25-sep-2026 se
+# quemaron 500 USD en 2 h, sin caché y a doble tarifa.)
 # Para pararlo: quitar la letra de ese archivo (la vuelta en curso termina y
 # no se lanza otra) o cancelar el run en la pestaña Actions.
 
@@ -57,17 +59,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     env:
-      ANTHROPIC_BASE_URL: https://api.mwapi.dev
-      ANTHROPIC_AUTH_TOKEN: ${{ secrets.MWAPI_KEY }}
-      ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ vars.MODELO_OPUS || 'claude-opus-5' }}
-      ANTHROPIC_DEFAULT_SONNET_MODEL: claude-sonnet-5
-      ANTHROPIC_DEFAULT_HAIKU_MODEL: claude-sonnet-5
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC: "1"
     steps:
-      - name: Llave de MWAPI
+      - name: Pase de la cuenta Max
         run: |
-          if [ -z "$ANTHROPIC_AUTH_TOKEN" ]; then
-            echo "::error::Falta el secreto MWAPI_KEY (repo → Settings → Secrets and variables → Actions)"
+          if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
+            echo "::error::Falta el secreto CLAUDE_CODE_OAUTH_TOKEN (en la PC: MAX EN GITHUB.cmd)"
             exit 1
           fi
 
