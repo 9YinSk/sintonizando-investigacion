@@ -172,3 +172,30 @@ tiene que estar a esa altura. Esto sale de las partes de voz y de texto.
 8. **Tono**: serio y contenido. Senua **no se ríe** en ningún material
    revisado (parte de voz, búsqueda de «laugh», «smile», «joke» en su ficha).
 
+## 3 · Correcciones entre las partes (lo que comprobó el redactor)
+
+Algunas partes chocaban. El redactor miró las imágenes que ya habían bajado
+los investigadores (no buscó nada nuevo) y esto es lo que queda:
+
+| Qué decía una parte | Lo que es | Cómo se comprobó |
+|---|---|---|
+| Vídeo: en el tráiler de HB1, 0:29, «retrato de **Hela**» con corona dorada y gema turquesa; 1:22, «Hela empuña una espada» | Es **Senua** las dos veces | Mirados los fotogramas 1920×1080 del tráiler de Steam (`hi_29`, `hi_82`). La wiki llama a la primera `Senua in golden.png`; la parte de voz también dice Senua |
+| Vídeo: en el tráiler de HB1 por Dailymotion, 0:07, «Hela de perfil» | Figura con tocado en la niebla, sobre una roca; **no se distingue quién es** ⚠️ | Hoja de `episodio.py`, plano 2 |
+| Voz: la «sonrisa inquietante» está en el [0:38](https://www.dailymotion.com/video/x5v5lz0?t=38) | Está en el **[0:33](https://www.dailymotion.com/video/x5v5lz0?t=33)** (y el [0:36](https://www.dailymotion.com/video/x5v5lz0?t=36), dientes en la oscuridad). El 0:38 es el cielo violeta con el árbol | Hoja de `episodio.py`, planos 10-12 |
+| Vídeo: la mano que agarra la cara en el tráiler de HB2 por Dailymotion, 1:46 | Es el **[1:45](https://www.dailymotion.com/video/x8qciu2?t=105)** (plano 39); el 1:46 es un plano rojo borroso | Hoja de `episodio.py`, planos 38-40 |
+| Imagen (`imagen.json`): la captura de Steam `ss_dabe17…` es «Senua niña, capucha de piel» | Es **Senua adulta** de HB1: pintura *woad*, tocado con piedra turquesa, cuello de lobo, mira hacia arriba con la boca entreabierta | Mirada la captura `hb1_9` |
+| Imagen: la captura `ss_b794…` es «Senua junto a un aliado» | `ss_b794…` es **Senua de espaldas ante un lago al amanecer**. La del guerrero es `ss_3a6935…`, y por la máscara de cuernos y el garrote ardiendo **parece un rival** ⚠️ | Miradas `hb2_3` y `hb2_4` |
+| Imagen: el retrato `wallhaven-vm8gql.jpg` es «probablemente» arte oficial ⚠️ | **Es arte oficial**: el mismo retrato, con las runas a la izquierda, sale con el logo en la captura oficial de Steam `ss_0161d…` ✅ | Mirada la captura `hb1_10` |
+| Voz: «los subtítulos usan tipografía rúnica/tallada» | **No**: el subtítulo es una **sans blanca sencilla, sin caja**. Lo rúnico sólo está en los puzles y las piedras | 4 imágenes de la wiki con subtítulo (§Punto 6) |
+| Wiki del recolector: `hellblade.fandom.com` | La buena es **`thehellblade.fandom.com`** (su API responde); las imágenes siguen en `static.wikia.nocookie.net/hellblade-nt/` | Consulta a la API del redactor (Senua, Psychosis, Iron Mirror existen) |
+| Texto: la música de HB2 es «Heilung» | Director de audio y compositor del disco: **David García Díaz**; **Heilung** puso música al tráiler de 2019 y a parte de la banda sonora | Parte de vídeo (MusicBrainz, Louder Sound) |
+
+Datos que no chocan pero cambian según la fecha o la fuente:
+- Ventas del 1: «más de un millón» a junio de 2018 (Wikipedia) y «más de
+  1,5 millones en 18 idiomas» más tarde (Cambridge).
+- Islandia: Antoniades visitó **40 sitios** (vídeo, Xbox Wire); el equipo de
+  escaneo viajó **11 días por 21 sitios** con drones (texto, Xbox Wire). Pueden
+  ser viajes distintos ⚠️.
+- Idiomas de los subtítulos de HB2: **26** (3DJuegos, TechRaptor) o «más de 20»
+  (LEVEL UP).
+
