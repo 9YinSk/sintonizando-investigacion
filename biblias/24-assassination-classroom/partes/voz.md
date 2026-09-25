@@ -475,3 +475,116 @@ texto de arriba.
 
 ---
 
+## Lo mejor para la lámina (máximo 5 líneas)
+
+1. **Koro-sensei con la cara a rayas verdes** (hex medido `#57DE54`,
+   fotograma propio, ep. 1, 3:00) para el tono «serio pero sonriente» del
+   canal de avisos — más fiel que la cara amarilla lisa por defecto.
+2. **La frase de Nagisa al final, «授業を始めます」/ «Empieza la clase»**
+   (2×25, 00:22:50) sigue siendo la mejor opción de cuadro de diálogo para
+   #avisos-clases: la dice un personaje que se vuelve profesor.
+3. **El dato de Ritsu y los 5 ¥ que le quedan a Koro-sensei** tras
+   remodelarla: gancho simpático y muy concreto para un texto corto de
+   Discord sobre gastos/horarios.
+4. **Karma 1.º en la encuesta oficial, pero Nagisa 1.º en fan art**: da
+   pie a dos láminas distintas sin repetir personaje protagonista.
+5. La canción **«Tabidachi no Uta»** (insert de la escena de la muerte de
+   Koro-sensei) es la referencia de ambiente si se hace un evento o
+   anuncio especial sobre el final de un ciclo de clases.
+
+## No encontré (obligatorio del encargo, no resuelto)
+
+- **Cómo llaman a Irina («Bitch-sensei») en el doblaje LATINO**: busqué
+  «profesora bitch doblaje latino», «Bitch-sensei apodo latino» y revisé
+  el wikitext completo de Doblaje Wiki (`Assassination_Classroom`) sin
+  encontrar el diálogo citado. No es que no exista el doblaje (sí existe,
+  Funimation/The Kitchen, 2020): es el apodo concreto el que no aparece
+  documentado en ninguna fuente que abrí.
+- **Doblaje latino de la película *Assassination Classroom* de 2026**
+  (imagen real o animación, según corresponda): sin rastro en ANMTV,
+  Doblaje Wiki ni eldoblaje.com con las búsquedas hechas.
+- **Subreddit r/AssassinationClassroom vía Arctic Shift**: 0 resultados
+  en varias variantes del nombre; puede que el filtro de subreddit de esa
+  API no cubra este caso, no que el subreddit no exista.
+- **2.ª, 3.ª, 4.ª y 5.ª encuestas oficiales de popularidad** que menciona
+  namu.wiki (coreano): sólo aparecen ahí, sin la fuente japonesa original
+  (busqué `暗殺教室 人気投票 2回目/3回目` sin resultado).
+- **Fandubs y covers hispanos vistos de verdad** (más allá del título):
+  el bloqueo de sesión de YouTube en este servidor impidió comprobar
+  vistas, calidad de las voces o si el canal sigue activo.
+- **Caras en cada emoción de Nagisa, Karma e Irina con fotograma propio**
+  (rabia, tristeza, miedo, vergüenza): sólo Koro-sensei tiene fotograma
+  propio (arriba, §13), porque sólo encontré la Temporada 1 en Internet
+  Archive (episodios 1-9) y las escenas clave de esos personajes son de
+  la Temporada 2. Lo que hay son minutos de subtítulo, ya en la biblia.
+
+## Bitácora de búsqueda (parte de voz)
+
+**APIs directas (sin gastar cupo de buscador)**:
+- Doblaje Wiki, `action=parse&prop=wikitext` sobre `Assassination_Classroom`
+  (22 509 caracteres, cast completo con tabla de reparto y «Datos de
+  interés» literal) y sobre las páginas propias de **Juan Carlos Román**
+  y **María García** (confirmación cruzada de Karasuma y Kayano).
+- Assassination Classroom Wiki (Fandom, `ansatsukyoshitsu.fandom.com`),
+  `action=parse&prop=wikitext` sobre **Korosensei, Nagisa_Shiota,
+  Karma_Akabane, Irina_Jelavić, Tadaomi_Karasuma, Kaede_Kayano, Ritsu,
+  Episode_46 y Episode_47** — la fuente principal de los puntos 13, 20 y
+  21 (cada trivia cita volumen/capítulo del manga).
+- Arctic Shift (Reddit) sobre `r/AssassinationClassroom` y variantes: 0
+  resultados, igual que ya constaba en `datos-voz.md`.
+- API de Dailymotion (`api.dailymotion.com/videos?search=…`) repetida con
+  «fandub español»: confirma que no hay contenido de fandub, sólo prensa
+  francesa (634 resultados, ninguno útil).
+
+**Buscador web** (español salvo que se indique; cupo usado: 11 de ~50):
+1. Assassination Classroom doblaje latino Karasuma Kayano Ritsu ANMTV
+2. Assassination Classroom "Bitch-sensei" doblaje latino apodo
+3. Assassination Classroom fandub español latino youtube opening cover
+4. "Assassination Classroom" reddit "why do you love" OR "made me cry"
+   graduation scene (en inglés)
+5. "Doblaje Latino" "Voz de" Kayano "Assassination Classroom" youtube
+6. Assassination Classroom manga ventas millones copias premio "Kono
+   Manga ga Sugoi"
+7. Assassination Classroom episode 47 graduation ending song "Reason"
+   review emotional (en inglés)
+8. Assassination Classroom manga sales "million copies" Weekly Shonen
+   Jump (en inglés)
+9. Assassination Classroom cover español latino opening "Seishun
+   Satsubatsu-ron" OR "Jiriki Hongan Revolution"
+10. Assassination Classroom encuesta popularidad segunda tercera cuarta
+    quinta Jump namu.wiki
+11. "profesora bitch" OR "Bitch-sensei" Assassination Classroom doblaje
+    capitulo español
+12. Assassination Classroom TikTok meme hispano "Koro sensei" español
+    viral
+13. "Assassination Classroom" fandub latino canal youtube escena completa
+
+**Vídeo mirado de verdad**: episodio 1 completo descargado
+(`anime-kage-assassination-classroom-01-ro-sub`, Internet Archive, copia
+con subtítulo rumano, sin relación con el doblaje — la imagen es la
+original japonesa). `fotogramas.py --desde 0 --hasta 300 --cada 5` para
+la hoja de contacto de los primeros 5 minutos, y `--fotograma 95 180 645`
+para las capturas grandes usadas en el hex de Koro-sensei (§13). Vídeo
+borrado tras sacar las hojas (135 MB, disco compartido).
+
+**Lo que falló**: YouTube pide iniciar sesión en este servidor para todo
+(no sólo streaming, también para citar vistas de un vídeo ya encontrado
+por buscador); Reddit vía Arctic Shift no tiene el subreddit de la serie;
+Doblaje Wiki con `prop=wikitext` **sí funcionó** esta vez (a diferencia de
+lo que registró el investigador de datos automático, que tuvo 403).
+
+**Sigue:** todo lo obligatorio de los puntos 7, 8, 12, 20, 21 y 22 está
+hecho, con lo que no encontré declarado arriba (no inventado). Queda **un
+solo pendiente obligatorio real** del punto 13: el encargo pide «su cara
+en cada emoción (alegría, rabia, tristeza, miedo, vergüenza) con
+fotograma y minuto» para los personajes principales, y sólo conseguí
+fotograma propio de **Koro-sensei** (2 estados, ep. 1, T1 — que es lo que
+había disponible sin YouTube). Nagisa, Karma e Irina se quedan con los
+minutos de subtítulo que ya traía la biblia (⚠️ deducidos, no vistos),
+porque sus escenas clave de emoción son de la **Temporada 2**, que no
+encontré en Internet Archive y no pude abrir en YouTube (bloqueo de
+sesión de este servidor). Si en un relanzamiento ya hay T2 disponible
+(Internet Archive, Dailymotion o YouTube desbloqueado), sacar con
+`fotogramas.py` las caras de Nagisa (2×25, 00:22:28 y 00:22:50), Karma
+(2×24, 00:07:51) e Irina (2×01, 00:14:30 vergüenza; peli 00:12:04 enfado)
+y medir el hex con Pillow, igual que aquí con Koro-sensei.

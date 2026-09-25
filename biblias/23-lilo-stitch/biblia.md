@@ -1914,7 +1914,7 @@ número de hoja.
   ✅; manga de KH II con Stitch (hoja 3, n.º 553). La parte de imagen
   dijo que KH III incluye «Stitch's Great Escape» de Shanghái (hoja 3,
   n.º 535): **no se sostiene**, el n.º 535 es una foto de **Stitch
-  Encounter en Shanghai Disneyland**, no del juego. No usar ❌→ dato
+  Encounter en Shanghai Disneyland**, no del juego. Dato
   retirado.
 - **Disney Infinity** (hoja 3, n.º 546), **Disney Heroes: Battle Mode**,
   **Tsum Tsum 15.º aniversario** (hoja 3, n.º 547), **Dreamlight Valley**
@@ -2058,13 +2058,130 @@ La franquicia es **más popular en Asia que en Occidente desde 2006** ✅
 
 ## Punto 25 · El mundo, la historia y sus símbolos (2.ª pasada)
 
-_(pendiente)_
+### Las reglas del mundo, en cinco líneas
+
+1. Hay un gobierno espacial, la **Federación Galáctica Unida**, con sede
+   en el planeta **Turo** y dirigida por la **Gran Concejal** ✅
+   ([Disney Wiki](https://disney.fandom.com/wiki/Grand_Councilwoman)).
+2. **Jumba** crea **626 experimentos** genéticos ilegales y numerados;
+   Stitch es el **626**, el último. La Federación los llama
+   «abominaciones» ✅ ([Disney Wiki, Experiments](https://disney.fandom.com/wiki/Experiments)).
+3. La Tierra es **reserva natural protegida** por la Federación
+   (00:07:23): por eso los alienígenas se disfrazan de humanos ✅.
+4. ***Ohana***, «nadie se queda atrás ni se olvida», es la regla que
+   convierte un arma en familia ✅ (película y cómic de 2024, §7.6).
+5. ***Kuleana*** (responsabilidad) y ***mālama ʻāina*** (cuidar la
+   tierra) son la *ohana* de los mayores: cuidar también de la
+   comunidad y del lugar (David en el cómic) ✅.
+
+### La historia por arcos
+
+- **La película (2002)**: juicio y exilio del 626; cae en Kauai; Lilo lo
+  adopta creyendo que es un perro; Nani lucha por la custodia; Cobra
+  vigila; Stitch entra en la *ohana* ✅. Momentos: la pared de fotos
+  (00:22), la lección de Elvis (00:42), el Patito Feo (00:55), «chiquita
+  y rota» (01:15), el álbum final (01:17).
+- **La caza de los primos (2003-2006)**: *Stitch! The Movie* (2003,
+  Gantu y el 625 **Reuben**) → *Lilo & Stitch: la serie* (buscar y
+  **rehabilitar** a los demás experimentos) → *Stitch en cortocircuito*
+  (2005, un fallo le devuelve a su programa destructivo) → *Leroy y
+  Stitch* (2006, el clon malo **Leroy**) ✅ ([Disney Wiki](https://disney.fandom.com/wiki/Lilo_%26_Stitch_(franchise))).
+- **Relecturas en Asia, sin Lilo (2008-2021)**: *Stitch!* (Okinawa),
+  *Stitch & Ai* (China), *Stitch & the Samurai* (Japón feudal) ✅
+  (Punto 24).
+- **Imagen real (2025-)**: remake con **Maia Kealoha** de Lilo; segunda
+  parte anunciada para **2028** ✅ (Disney Wiki). En ella Jumba acaba de
+  malo y Nani deja la tutela (§8, §14.2).
+
+### Emblemas, objetos y palabras que un fan reconoce al instante
+
+- **626**: de número de arma a nombre propio; el **26 de junio** es su
+  día ✅.
+- **Scrump**: la muñeca que Lilo se cosió; se inspira en un **muñeco
+  vudú y el monstruo de Frankenstein** ✅ ([Disney Wiki](https://disney.fandom.com/wiki/Scrump);
+  [imagen, 1806×1080](https://static.wikia.nocookie.net/disney/images/9/9d/Lilo_%26_Stitch_-_Lilo_holding_Scrump.png/revision/latest?cb=20230820215155)).
+  Lilo fabrica sus cosas y las quiere: como quien hace sus fotos con lo
+  que tiene.
+- **El libro del Patito Feo**: el patito dice «I'm lost!» y en la página
+  siguiente vuelve con su familia; es el espejo de Stitch y de Lilo ✅
+  ([ScreenRant](https://screenrant.com/lilo-and-stitch-ugly-ducking-im-lost-scene-left-out/),
+  [Disney Wiki](https://disney.fandom.com/wiki/The_Ugly_Duckling_(character))).
+- **La cámara y la pared de fotos** de Lilo; **la foto de sus padres**;
+  **el papel de adopción con sello** («See this stamp? I own him»,
+  01:15:48) ✅.
+- **La cápsula azul** de Stitch con la fotito de Lilo dentro (tráiler,
+  [1:48](https://archive.org/details/LiloStitchTrailer?t=108)) ✅.
+- **El emblema** dorado del traje espacial (`#F9E03E`) ✅; **escudo de la
+  Federación**: no encontrado ⚠️.
+- **Glosario corto** (para el bot o las etiquetas): *ohana*, *kuleana*,
+  *mālama ʻāina*, 626, «primos», Federación Galáctica, Gran Concejal,
+  «Pato el pez», «Meega, nala kweesta!», «blue punch buggy».
 
 ---
 
 ## Las hojas de contacto (2.ª pasada)
 
-_(pendiente)_
+Salen de `herramientas/investigar_serie.py` sobre la wiki `disney`
+(12 hojas en `herramientas/referencias/lilo-stitch/`). La parte de
+imagen eligió estas 3; el redactor las **miró** y corrigió dos números.
+Cada número lleva debajo el tamaño y el nombre del archivo en la wiki
+(`https://disney.fandom.com/wiki/File:<nombre>`).
+
+### `hojas/imagen_01_arte-oficial.jpg` (n.º 1-48)
+
+| N.º | Qué es | Sirve para |
+|---|---|---|
+| **2** | key visual «promo art 2», 3523×5000 | **luz y color**; pose de complicidad (concepto A) |
+| 7 · 17 | portadas Dynamite: Stitch surfeando · Stitch de agente con traje y gafas | poses nuevas; guiño «detrás de cámara» |
+| **10** | arte de la serie: Lilo y Stitch en el **coche rojo** | objeto real, viaje |
+| 12 · 13-14 | figura Britto · playsets de figuritas | pose 3D |
+| 16 | arte de desarrollo de Stitch, 3338×2160 | proporciones |
+| 18 · 19 | pósteres: «There's one in every family» · los tres surfeando | encuadre de cartel |
+| **20** | fotograma «big wave», 3000×1782 | **color plano** medido (§16.1) |
+| 24 | fondo oficial de *Stitch! The Movie*, 3000×1535 | fondo (§17.1) |
+| 25 · 29-34 | portadas de Marvel con Stitch colado | gag de colarse (Punto 23) |
+| 26 · 28 · 35-36 | libros «Agent Stitch» | poses de acción |
+| 37 | peluche de Lilo, Animators' Collection | volumen de Lilo |
+| 39-47 | revistas *Disney Adventures* | arte de época |
+| 3 · 8-9 · 21-22 | Stitch Encounter, Disney on Ice, desfiles | trajes reales (cosplay) |
+
+### `hojas/imagen_02_concept-y-crossovers.jpg` (n.º 49-96)
+
+| N.º | Qué es | Sirve para |
+|---|---|---|
+| 49-51 | «Stitch Day Crashes Disney» (Big Hero 6, El Rey León, Winnie the Pooh) | gag de colarse |
+| 53 | la *ohana* Pelekai en *Stitch! The Movie* | foto de familia, Jumba con camisa |
+| 54 | estatua dorada Fab 50 | emblema |
+| 55 · 82 | Stitch con traje espacial y de peluche en el parque | traje espacial en 3D |
+| 59 | portada Dynamite: Lilo con el vestido rojo | vestido de Lilo |
+| **62** | Stitch con Scrump, el sándwich y Pato, firmado por Sanders | **estilo Sanders puro** |
+| **63** | **hoja de modelo de Pleakley** («Rough Model Sheet») | proporciones y caras de Pleakley |
+| 72 | *Greatest Hawaiian*: Stitch con ukelele sobre kapa | textura hawaiana (Punto 19) |
+| 74 | Jim Shore «'Ohana» | figura, abrazo |
+| 76 · 81 | experimentos y *ohana* · puzle de experimentos | patrón |
+| 77 | Nani sacando la lengua | cara de Nani |
+| 83-93 | fotogramas de *Stitch! The Movie* (Nani y David, Pleakley cocinando, Jumba, Lilo) | ropa de Jumba y Cobra (n.º 88, 90-91) |
+
+### `hojas/imagen_03_colaboraciones.jpg` (n.º 529-559)
+
+| N.º | Qué es | Sirve para |
+|---|---|---|
+| **529 · 530** | cartas de Lorcana: Lilo «Galactic Hero» y Jumba «Renegade Scientist» | poses nuevas con objeto |
+| 531 | tortuga de resina de fan | pose (no oficial) |
+| 532 · 542 | desfiles | movimiento |
+| 534 | Stitch's Great Escape (Magic Kingdom) | parques |
+| 535 | Stitch Encounter Shanghai (**no** Kingdom Hearts III, corregido) | parques |
+| 536-540 | Lilo y Jumba de parque (Florida, París, Tokio) | **cosplay oficial** |
+| 546 · 547 | Disney Infinity · Tsum Tsum 15.º aniversario | colaboraciones |
+| 551 | póster de *Stitch & Ai* | Punto 24 |
+| 553 | manga de Kingdom Hearts II con Stitch | cruce |
+| 558 | boceto a lápiz de Lilo y Stitch | línea de producción |
+| 559 | «Catch Stitch!», Disney Cruise Line (**no** el n.º 554, corregido) | colaboración |
+
+- Correcciones del redactor al mirarlas: la figura Britto es el **n.º
+  12** (no el 4, que son figuritas de «It's a Small World»); Disney Cruise
+  Line es el **n.º 559** (el 554 es Stitch y Angel de picnic); el 535 no
+  es de Kingdom Hearts III.
 
 ---
 
@@ -2073,6 +2190,22 @@ _(pendiente)_
 Las tres cumplen las reglas del dueño: **objeto real en un sitio real**,
 **hecho en Blender**, personaje con **pose que va con lo que dice**,
 **sin burbuja blanca**, texto corto en la voz de la serie.
+
+> [!note] Qué cambió en la 2.ª pasada
+> Los tres siguen, pero **con imágenes vistas** en vez de memoria:
+> - **A**: la pared ya tiene fotograma ([22:10](https://archive.org/details/lilo-stitch-2002_202609?t=1330));
+>   la luz del cuarto de noche es **morada y roja con lámpara cálida**,
+>   no azul (tráiler, [2:12](https://archive.org/details/LiloStitchTrailer?t=132)),
+>   y en la mesilla va la **lámpara verde con base de piña**.
+> - **B**: gana la mejor referencia de todas: **el *collage* de los
+>   créditos**, fotos de borde blanco pegadas en ángulo con cinta y
+>   **Stitch sentado fuera del marco** de una foto de familia
+>   ([1:20](https://archive.org/details/lilo-stitch-3?t=80)). Luz del
+>   key visual «promo art 2» (hoja 1, n.º 2).
+> - **C**: poses de Pleakley de su **hoja de modelo** (hoja 2, n.º 63) y
+>   del fotograma de Jumba y Pleakley riendo ([38:40](https://archive.org/details/lilo-stitch-2002_202609?t=2320)).
+> - Licencias leídas en la API de Sketchfab: álbum, corcho y Canon AE-1
+>   son **CC BY**; el carrete de 35 mm sigue sin licencia vista ⚠️.
 
 ### Concepto A — «La pared de Lilo» (el cuarto de Lilo, de noche)
 
@@ -2106,6 +2239,14 @@ Las tres cumplen las reglas del dueño: **objeto real en un sitio real**,
 - **Referencias**: fotograma 00:22:54-00:22:57; [filmboards](https://filmboards.com/board/t/Lilos-obsession-with-fat-people-1118389/)
   (la pared); [Cork Board de rickmaolly](https://sketchfab.com/3d-models/cork-board-9534ee2ad4344ea6b02b95b61bd4a913);
   [cámara de Marc Sawyer](https://sketchfab.com/3d-models/canon-ae-1-program-35mm-film-camera-03b0ac7d99c44197a09640179f360f3c) sin marca.
+  **2.ª pasada**: la pared vista ([22:10](https://archive.org/details/lilo-stitch-2002_202609?t=1330));
+  cara de Lilo orgullosa y tímida para enseñar algo suyo
+  ([14:35](https://archive.org/details/lilo-stitch-2002_202609?t=875));
+  poses de Lilo en «LiloStudyAD» (1600×1058); paleta del cuarto
+  `#432626`, `#62414D`, `#954D2D` (§5.4b); edredón rojo y blanco de
+  flores. La pose de «levantar la cámara» (00:22:54) **sigue sin
+  fotograma** ⚠️; no hay *rig* libre de Lilo, así que va en 2D sobre
+  «LiloStudyAD».
 
 ### Concepto B — «El álbum de ohana» (el porche, al atardecer)
 
@@ -2137,6 +2278,17 @@ Las tres cumplen las reglas del dueño: **objeto real en un sitio real**,
   [pins de los créditos](https://pinandpop.com/series/lilo-stitch-end-credits-snapshot-photos);
   [la foto de familia comparada](https://www.deviantart.com/danielnewton/journal/Lilo-s-Family-Photo-Comparison-872752082);
   HDRI [Secluded Beach](https://polyhaven.com/a/secluded_beach).
+  **2.ª pasada**: el *collage* de los créditos ([0:00](https://archive.org/details/lilo-stitch-3?t=0)-1:20)
+  para cómo se pegan las fotos (borde blanco, cinta, en ángulo); en la
+  última página, **Stitch colado fuera del marco** de la foto de familia,
+  como en [1:20](https://archive.org/details/lilo-stitch-3?t=80); y,
+  escondida entre las fotos, la **fotito de Lilo que Stitch llevaba en su
+  cápsula** ([tráiler, 1:48](https://archive.org/details/LiloStitchTrailer?t=108)),
+  para el fan que se fije. Luz de atardecer del key visual
+  ([3523×5000](https://static.wikia.nocookie.net/disney/images/1/1b/Lilo_%26_Stitch_promo_art_2.jpg)).
+  Stitch en 3D con el [rig de werasik2aa1](https://sketchfab.com/3d-models/stitch-626-from-lilo-and-stitch-rigged-5ae4cd66c67d42c49202f2003fe7f559)
+  (CC BY) para girar la pose de la cámara; no hay fotograma de Stitch con
+  cámara ⚠️.
 
 ### Concepto C — «Las diapositivas del experto» (el salón, de noche)
 
@@ -2161,6 +2313,15 @@ Las tres cumplen las reglas del dueño: **objeto real en un sitio real**,
 - **Por qué es distinto**: es **de noche**, es de **secundarios** y es
   **cómico**. Sirve también para la etiqueta «Nocturna» y para
   «Detrás de cámara».
+- **Referencias (2.ª pasada)**: hoja de modelo de Pleakley firmada por
+  Sanders ([2048×1319](https://static.wikia.nocookie.net/disney/images/7/7b/Pleakley_concept_art.jpg));
+  Jumba y Pleakley riendo, [38:40](https://archive.org/details/lilo-stitch-2002_202609?t=2320);
+  escondidos, [28:37](https://archive.org/details/lilo-stitch-2002_202609?t=1717);
+  [rig de Pleakley](https://sketchfab.com/3d-models/pleakley-lilo-stitch-3a4305debb52451a8ba5ccb8a174e7ef)
+  (CC BY, **260 220 caras**: regla 9, no saturar el PC). Letra de las
+  diapositivas: **Actor** (pantallas de la Federación, §6.3). Ojo: la
+  broma de Stitch colado también la usa B; si se hacen las dos, en C
+  quitar la sombra de Stitch.
 
 ### Lámina 2 (las 11 etiquetas)
 
@@ -2182,29 +2343,49 @@ dice **la fotógrafa**, y Stitch también sale. **B** va segunda: es el
 
 ## 20 · Lo que no pude verificar
 
-- **Cualquier imagen**: no vi ni un fotograma, póster ni vídeo. Todas
-  las posturas (§15), la luz (§5.3) y la paleta (§5.4) son de memoria o
-  propuesta ⚠️.
+Estado tras la 2.ª pasada. Tachado = resuelto (dice dónde).
+
+- ~~Cualquier imagen~~ → vistas: película entera, tráiler, créditos,
+  luau, tráiler 2025, 3 hojas de contacto (§2.4, §8.2, §15.1). Las
+  posturas de la tabla vieja de §15 que no están en §15.1 siguen de
+  memoria ⚠️.
 - **La cámara de Lilo**: ¿compacta de carrete, Kodak, o instantánea?
-  Las fuentes no coinciden ⚠️. Mirar 00:22:54.
-- **Qué es el «TIMER DINGS»** de 01:17:56 ⚠️.
-- Si en 00:44 **los turistas le hacen fotos con flash** a Stitch ⚠️.
-- **Si Lilo hace fotos en la película de 2025**: no lo encontré.
+  Sigue sin fotograma de 00:22:54 ⚠️.
+- **Qué es el «TIMER DINGS»** de 01:17:56 ⚠️ (el vídeo de créditos
+  empieza con el *collage* ya avanzado).
+- Si en 00:44 **los turistas le hacen fotos con flash** a Stitch ⚠️ (no
+  hay clip de la lección de Elvis).
+- **Si Lilo hace fotos en la película de 2025**: no lo encontré ⚠️.
 - **Frase latina de «My camera's full again» / «Aren't they
-  beautiful?»**: no encontrada ❌.
-- **Voces latinas de 2002 de Nani, Pleakley, Cobra y David**: no
-  encontradas ❌. Jumba (Maynardo Zavala) sólo en Doblaje Wiki ⚠️.
-- **Qué se oyó en cine como voz de Stitch en 2002** (¿Sanders, Aldana,
-  mezcla?) ⚠️.
-- **Estudio y director** del doblaje de 2002 ⚠️ (un resumen cada uno).
-- **Lilo 2025 en latino** (Aurora Villegas Romero) ⚠️.
-- **Intérprete de «Muero de amor por ti»** ❌.
+  beautiful?»** ⚠️: la parte de voz lo dejó en su «Sigue:» y ya no se
+  relanza. Hay que oírla en Disney+.
+- ~~Voces latinas de Nani, Pleakley, Cobra y David~~ → ✅✅ Claudia
+  Garzón, Rubén Trujillo, Rubén Moya, Noé Velázquez (§10.1).
+- ~~Qué se oyó en cine como voz de Stitch~~ → Aldana, sólo los diálogos
+  en español; los ruidos, Sanders (Doblaje Wiki, §10.1) ⚠️ una fuente.
+- ~~Estudio~~ → ✅✅ Doblaje Audio Traducción. **Director del doblaje de
+  2002**: Ricardo Tejedo (ficha de Doblaje Wiki) o José Carlos Moreno
+  (1.ª pasada) ⚠️; está en el «Sigue:» de la parte de voz.
+- ~~Lilo 2025 en latino~~ → ✅✅ Aurora Villegas Romero. Corregidos
+  Nani (Alicia Vélez) y Pleakley (Armando Guerrero).
+- ~~Intérprete de «Muero de amor por ti»~~ → Bandana (Argentina) ⚠️ una
+  fuente.
 - **La letra Buka Bird**: licencia personal, tildes sin comprobar ⚠️.
-- **Licencias de Sketchfab**: las del buscador; hay que mirarlas ⚠️.
-- **Caja de diálogo de Dreamlight Valley**: no la vi ⚠️.
-- **Fondos de pantalla oficiales** en alta: no encontrados ❌.
-- **Encuesta oficial** de popularidad por personaje: no existe o no la
-  encontré ❌.
+- ~~Licencias de Sketchfab~~ → leídas en la API (una corregida, §4.1);
+  quedan sin ver Low Poly Camera, 35mm Film Roll y los dos Corkboard ⚠️.
+- **Caja de diálogo de Dreamlight Valley**: no la vi ⚠️. Tampoco
+  capturas de juego del GBA (MobyGames y TCRF, 403).
+- ~~Fondos de pantalla oficiales~~ → 7 con tamaño (§17.1).
+- **Encuesta oficial** de popularidad por personaje: no la encontré
+  tras buscar otra vez en español e inglés ⚠️.
+- **Caras por emoción que faltan** (§8.2): 11 de 25 ⚠️.
+- **Hex planos** de Stitch (sin luz de atardecer), Jumba, Cobra y David
+  ⚠️ (§16.1).
+- **Carátulas de Blu-ray** sin mirar ⚠️. **Emblema de la Federación** no
+  encontrado ⚠️. **Rig libre de Lilo o Jumba**, no hay ⚠️.
+- **Vídeos de YouTube y TikTok** de la tabla §12.2: sin mirar (YouTube
+  pedía iniciar sesión; TikTok no abre) ⚠️. Vistas de reacciones y del
+  cover de «Hawaiian Roller Coaster Ride», sin medir ⚠️.
 
 ---
 
