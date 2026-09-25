@@ -74,13 +74,13 @@ _Fuente: https://wallhaven.cc_
 ## Modelos 3D descargables con licencia (Sketchfab)
 _Fuente: https://sketchfab.com_
 
-**«REANIMAL»**
+**«Reanimal»**
 - REANIMAL - The Girl · MG Rips · CC Attribution-NonCommercial · ♥ 201 · https://sketchfab.com/3d-models/none-b6694df5a3f24ab7998563951513846e
 - REANIMAL - The Boy · MG Rips · CC Attribution-NonCommercial · ♥ 107 · https://sketchfab.com/3d-models/none-533847f610574fe4abf7c897644a58b9
 - REANIMAL - Mother · MG Rips · CC Attribution-NonCommercial · ♥ 69 · https://sketchfab.com/3d-models/none-c1d994838ec24cc389de038b18aa5aba
 - REANIMAL - Hood · MG Rips · CC Attribution-NonCommercial · ♥ 56 · https://sketchfab.com/3d-models/none-24fb5e0998bf4358944a59b8b062d8ad
+- REANIMAL - Sniffer · MG Rips · CC Attribution-NonCommercial · ♥ 51 · https://sketchfab.com/3d-models/none-6efa301fa2b84779b2fdbac7807000c8
 - REANIMAL - Bandage · MG Rips · CC Attribution-NonCommercial · ♥ 50 · https://sketchfab.com/3d-models/none-010ebfd6326a49648a527515d92beed8
-- REANIMAL - Sniffer · MG Rips · CC Attribution-NonCommercial · ♥ 50 · https://sketchfab.com/3d-models/none-6efa301fa2b84779b2fdbac7807000c8
 
 ## Fotos con licencia libre (Openverse: cosplay, exposiciones, merchandising, murales)
 _Fuente: https://openverse.org_

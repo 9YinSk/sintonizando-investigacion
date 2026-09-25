@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki)
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
@@ -14,19 +14,19 @@ _Fuente: https://api.dailymotion.com_
 - Little Nightmares 3 - Anuncio · 1:32 · Vandal · 6984 vistas · https://www.dailymotion.com/video/x8netvo
 - Little Nightmares 2 Début · 26:00 · JeuxVideo.com · 2232 vistas · https://www.dailymotion.com/video/x89npp9
 - Little Nightmares III · 1:32 · Vidaextra · 2194 vistas · https://www.dailymotion.com/video/x8neyaa
+- Little Nightmares 2 Orphelinat · 5:30 · JeuxVideo.com · 1634 vistas · https://www.dailymotion.com/video/x89npot
 - Little Nightmares - Jugabilidad · 7:55 · Vandal · 891 vistas · https://www.dailymotion.com/video/x72n8v0
-- Little Nightmares II trailer · 1:50 · JeuxVideo.com · 715 vistas · https://www.dailymotion.com/video/x89nj59
 **«Little Nightmares ending»**
 - Little Nightmares 3 · 1:32 · JeuxVideo.com · 11751 vistas · https://www.dailymotion.com/video/x8nfeuk
 - Little Nightmares 3 - Anuncio · 1:32 · Vandal · 6984 vistas · https://www.dailymotion.com/video/x8netvo
 - Little Nightmares 2 Début · 26:00 · JeuxVideo.com · 2232 vistas · https://www.dailymotion.com/video/x89npp9
 - Little Nightmares III · 1:32 · Vidaextra · 2194 vistas · https://www.dailymotion.com/video/x8neyaa
-- Little Nightmares 2 Orphelinat · 5:30 · JeuxVideo.com · 1634 vistas · https://www.dailymotion.com/video/x89npot
 - Little Nightmares - Jugabilidad · 7:55 · Vandal · 891 vistas · https://www.dailymotion.com/video/x72n8v0
+- Little Nightmares II trailer · 1:50 · JeuxVideo.com · 715 vistas · https://www.dailymotion.com/video/x89nj59
 **«Little Nightmares trailer»**
 - Little Nightmares - Launch Trailer · 2:05 · xataka · 17323 vistas · https://www.dailymotion.com/video/x81r05h
-- Little Nightmares II - Tráiler lanzamiento · 1:44 · Vidaextra · 6617 vistas · https://www.dailymotion.com/video/x80xg6n
-- Little Nightmares : Trailer Accolades · 1:10 · JeuxVideo.com · 5894 vistas · https://www.dailymotion.com/video/x89mf1a
+- Little Nightmares II - Tráiler lanzamiento · 1:44 · Vidaextra · 6618 vistas · https://www.dailymotion.com/video/x80xg6n
+- Little Nightmares : Trailer Accolades · 1:10 · JeuxVideo.com · 5895 vistas · https://www.dailymotion.com/video/x89mf1a
 - Little Nightmares : trailer de précommande · 1:06 · JeuxVideo.com · 5795 vistas · https://www.dailymotion.com/video/x89m6xj
 - Little Nightmares - Accolades Trailer · 1:07 · JeuxVideo.com · 1297 vistas · https://www.dailymotion.com/video/x89nq6q
 - Little Nightmares II trailer · 1:50 · JeuxVideo.com · 715 vistas · https://www.dailymotion.com/video/x89nj59
@@ -67,8 +67,8 @@ _Fuente: https://musicbrainz.org_
 
 - Little Nightmares · Tobias Lilja · 2017-04-28 · https://musicbrainz.org/release-group/a23f78a2-5bb6-49eb-a131-ddcbd33cba77
 - Little Nightmares II · Tobias Lilja · 2021-02-11 · https://musicbrainz.org/release-group/f0cc1256-865a-46a9-9fca-82908e8bcc23
-- Nightmares · Isaac Nite · 2021-06-21 · https://musicbrainz.org/release-group/09e24f05-5b99-49a2-af41-14127e0a6f3a
 - Nightmares · Lilx Brxaker · 2022-03-22 · https://musicbrainz.org/release-group/1688d0fb-fd71-4832-acf4-92e63720f3c0
+- Nightmares · Isaac Nite · 2021-06-21 · https://musicbrainz.org/release-group/09e24f05-5b99-49a2-af41-14127e0a6f3a
 - Urban Nightmares · Colin Orr · ? · https://musicbrainz.org/release-group/4ae716fc-def2-3dcf-a12b-b8e16c31c987
 - Nightmares and Dreamscapes · Jeff Beal · ? · https://musicbrainz.org/release-group/2a43bf1c-d733-4999-9827-c9094d990fe3
 - Little Nightmares: Secrets of the Maw · Tobias Lilja · 2021-06-30 · https://musicbrainz.org/release-group/303acef0-f877-4126-981b-ea04013fc12c
@@ -77,6 +77,6 @@ _Fuente: https://musicbrainz.org_
 - Hollow Knight: Gods & Nightmares · Christopher Larkin · 2018-08-09 · https://musicbrainz.org/release-group/b1c402a5-2595-4276-a668-ce7001f7193a
 - Magethadon: The Carnival of Nightmares Soundtrack · The Enigma TNG · 2024-03-24 · https://musicbrainz.org/release-group/9eef2238-d5ae-4eba-b1e6-7e07ca6be981
 - Dreams In Nightmares: Original Motion Picture Soundtrack · Lia Ouyang Rusli · 2026-08-19 · https://musicbrainz.org/release-group/c6a44e23-b651-405c-9123-30f0dacd2306
-- Freddy's Nightmares the Series (original Broadcast Soundtrack) · Nicholas Pike, Gary Scott, Randy Tico, Junior Homrich · 2021-11-12 · https://musicbrainz.org/release-group/f8e57655-b836-45d1-a3ff-21b147e21618
 - Les cauchemars naissent la nuit (Nightmares Come at Night) · Bruno Nicolai · 2008 · https://musicbrainz.org/release-group/a88591b3-6a0e-4ff8-8ad1-94e813bb4663
+- Freddy's Nightmares the Series (original Broadcast Soundtrack) · Nicholas Pike, Gary Scott, Randy Tico, Junior Homrich · 2021-11-12 · https://musicbrainz.org/release-group/f8e57655-b836-45d1-a3ff-21b147e21618
 - NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks · 岡部啓一, oriori, 石濱翔, 高田龍一, 帆足圭吾, 田中秀和 · 2010-12-08 · https://musicbrainz.org/release-group/81e16967-fbb8-45ca-a329-b28c2fdd5aea

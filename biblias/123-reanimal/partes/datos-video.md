@@ -9,21 +9,21 @@ No repitas estas consultas: sigue desde aquí y busca lo que falta.
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
 
-**«REANIMAL opening»**
+**«Reanimal opening»**
 - Reanimal teaser · 1:33 · JeuxVideo.com · 37823 vistas · https://www.dailymotion.com/video/xa1mxgm
 - Tráiler de anuncio de REANIMAL · 1:15 · 3djuegos · 13460 vistas · https://www.dailymotion.com/video/x94c4ui
 - Reanimal - Tráiler del Anuncio · 1:15 · Vidaextra · 9596 vistas · https://www.dailymotion.com/video/x94d3qq
 - Reanimal - Bande-annonce · 1:15 · Gamekult · 6693 vistas · https://www.dailymotion.com/video/x94b3oy
 - REANIMAL - Trailer d'annonce · 1:15 · ActuGaming · 6055 vistas · https://www.dailymotion.com/video/x94n12i
 - REANIMAL - Vistazo a la jugabilidad · 3:17 · Vandal · 5155 vistas · https://www.dailymotion.com/video/x9xxb36
-**«REANIMAL ending»**
+**«Reanimal ending»**
 - Reanimal teaser · 1:33 · JeuxVideo.com · 37823 vistas · https://www.dailymotion.com/video/xa1mxgm
 - Tráiler de anuncio de REANIMAL · 1:15 · 3djuegos · 13460 vistas · https://www.dailymotion.com/video/x94c4ui
 - Reanimal - Tráiler del Anuncio · 1:15 · Vidaextra · 9596 vistas · https://www.dailymotion.com/video/x94d3qq
 - Reanimal - Bande-annonce · 1:15 · Gamekult · 6693 vistas · https://www.dailymotion.com/video/x94b3oy
 - REANIMAL - Trailer d'annonce · 1:15 · ActuGaming · 6055 vistas · https://www.dailymotion.com/video/x94n12i
 - REANIMAL - Vistazo a la jugabilidad · 3:17 · Vandal · 5155 vistas · https://www.dailymotion.com/video/x9xxb36
-**«REANIMAL trailer»**
+**«Reanimal trailer»**
 - Reanimal teaser · 1:33 · JeuxVideo.com · 37823 vistas · https://www.dailymotion.com/video/xa1mxgm
 - Tráiler de anuncio de REANIMAL · 1:15 · 3djuegos · 13460 vistas · https://www.dailymotion.com/video/x94c4ui
 - Reanimal - Tráiler del Anuncio · 1:15 · Vidaextra · 9596 vistas · https://www.dailymotion.com/video/x94d3qq

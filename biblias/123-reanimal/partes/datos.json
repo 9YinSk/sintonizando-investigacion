@@ -390,21 +390,21 @@
   "origen": "recolectar.py"
  },
  {
-  "url": "https://sketchfab.com/3d-models/none-010ebfd6326a49648a527515d92beed8",
-  "fuente": "Sketchfab",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D: REANIMAL - Bandage de MG Rips",
-  "para_que": "objeto o personaje 3D para Blender",
-  "licencia": "CC Attribution-NonCommercial",
-  "origen": "recolectar.py"
- },
- {
   "url": "https://sketchfab.com/3d-models/none-6efa301fa2b84779b2fdbac7807000c8",
   "fuente": "Sketchfab",
   "ancho": null,
   "alto": null,
   "que_es": "Modelo 3D: REANIMAL - Sniffer de MG Rips",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-010ebfd6326a49648a527515d92beed8",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: REANIMAL - Bandage de MG Rips",
   "para_que": "objeto o personaje 3D para Blender",
   "licencia": "CC Attribution-NonCommercial",
   "origen": "recolectar.py"

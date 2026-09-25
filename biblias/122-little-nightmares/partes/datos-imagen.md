@@ -4,54 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino)
-
-## Six: las imágenes más grandes de la wiki (384 en total)
-_Fuente: https://littlenightmares.fandom.com/wiki/Six_
-
-- 3000×3000 · Little Dreams logo.png · https://static.wikia.nocookie.net/littlenightmares/images/a/a8/Little_Dreams_logo.png
-- 3840×2160 · TheLairBookcase.jpg · https://static.wikia.nocookie.net/littlenightmares/images/6/6a/TheLairBookcase.jpg
-- 3840×2160 · TheJanitor3.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/b3/TheJanitor3.jpg
-- 3840×2160 · TheJanitor2.jpg · https://static.wikia.nocookie.net/littlenightmares/images/b/b9/TheJanitor2.jpg
-- 3840×2160 · TheJanitor1.jpg · https://static.wikia.nocookie.net/littlenightmares/images/0/04/TheJanitor1.jpg
-- 3840×2160 · StatueSecretroom.jpg · https://static.wikia.nocookie.net/littlenightmares/images/f/f5/StatueSecretroom.jpg
-- 3840×2160 · Singing Lady.jpg · https://static.wikia.nocookie.net/littlenightmares/images/7/7f/Singing_Lady.jpg
-- 3840×2160 · RatDeath.jpg · https://static.wikia.nocookie.net/littlenightmares/images/6/6c/RatDeath.jpg
-- 3840×2160 · PrisonNomes.jpg · https://static.wikia.nocookie.net/littlenightmares/images/5/59/PrisonNomes.jpg
-- 3840×2160 · Ladysquarters5.png · https://static.wikia.nocookie.net/littlenightmares/images/4/49/Ladysquarters5.png
-
-## Six · Appearance (texto de la wiki)
-_Fuente: https://littlenightmares.fandom.com/wiki/Six#Appearance_
-
-Six is much smaller than the adult characters of the series, being barely a third of their height with an extremely small, thin frame. She wears a bright yellow raincoat that ends just above her knees with three buttons, two pockets, and a rhombus-shaped hood. Up close, she has messy black bob-cut hair with long bangs that completely obscure the top half of her face, only revealing her pointed chin and tiny nose and mouth. Her feet and hands are bare. Her only possession is a zippo lighter. In Very Little Nightmares she wore a white, short-sleeved shirt and matching shorts. Her hair also looks neatly combed compared to other designs of her in other Little Nightmares media. This appearance of Six is similar to that of her in the concept art of the six children. In Little Nightmares II, Six wears a charcoal shirt under a button-up, stained, gray cardigan that reaches to her knees instead…
-
-## Mono: las imágenes más grandes de la wiki (235 en total)
-_Fuente: https://littlenightmares.fandom.com/wiki/Mono_
-
-- 3840×2160 · Gc little nightmares ii unveiled-21096.jpg · https://static.wikia.nocookie.net/littlenightmares/images/1/1f/Gc_little_nightmares_ii_unveiled-21096.jpg
-- 3328×1872 · SixMonoThinManEmergeVR.jpg · https://static.wikia.nocookie.net/littlenightmares/images/0/07/SixMonoThinManEmergeVR.jpg
-- 3328×1872 · SixKidnappedVR.jpg · https://static.wikia.nocookie.net/littlenightmares/images/8/85/SixKidnappedVR.jpg
-- 3328×1872 · DarkSixSeparatedVR.jpg · https://static.wikia.nocookie.net/littlenightmares/images/e/ef/DarkSixSeparatedVR.jpg
-- 2008×3047 · DtNCover4.jpg · https://static.wikia.nocookie.net/littlenightmares/images/5/52/DtNCover4.jpg
-- 2346×2346 · Mono Statues Gecco.jpg · https://static.wikia.nocookie.net/littlenightmares/images/4/4d/Mono_Statues_Gecco.jpg
-- 2560×1440 · M-iTlhY zeY.jpg · https://static.wikia.nocookie.net/littlenightmares/images/8/85/M-iTlhY_zeY.jpg
-- 2560×1440 · Eo41PK0W8AAnodY.jpg · https://static.wikia.nocookie.net/littlenightmares/images/7/75/Eo41PK0W8AAnodY.jpg
-- 2560×1440 · ElCRARiXUAMpXBT.png · https://static.wikia.nocookie.net/littlenightmares/images/6/63/ElCRARiXUAMpXBT.png
-- 2400×1350 · LNI and II buldle poster.jpg · https://static.wikia.nocookie.net/littlenightmares/images/d/db/LNI_and_II_buldle_poster.jpg
-
-## Mono · Appearance (texto de la wiki)
-_Fuente: https://littlenightmares.fandom.com/wiki/Mono#Appearance_
-
-Mono is a short and scrawny pale-skinned boy whose head is hidden by a light brown paper bag with two round eye holes that allow him to see. He wears a one-buttoned khaki trench coat that reaches below his knees above a brownish-gray shirt tucked into his long brownish-gray pants, rolled up at the end of his legs. His hands and feet are bare. Mono can also wear items like a key on the side of his coat. Under the paper bag he wears, Mono has short, messy black hair that sticks out a little bit. He also has a fairly skinny and slightly more angular facial structure and dark eyes.
-
-## Hojas de contacto (investigar_serie.py)
-_Fuente: herramientas/referencias/_
-
-```
-· imágenes de littlenightmares.fandom.com (2 páginas y sus galerías)…
-  561 imágenes enlazadas, 470 grandes → 10 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/little-nightmares
-
-```
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki)
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
@@ -166,7 +119,7 @@ _Fuente: https://sketchfab.com_
 - Mono’s Paper Bag · Gavin Bou - Official · CC Attribution · ♥ 64 · https://sketchfab.com/3d-models/none-9b0939b9a46842f7b666d31a3ab0a71a
 - Mono animation Little nighmares 2 · alex.andain.777 · CC Attribution · ♥ 49 · https://sketchfab.com/3d-models/none-16368d0cf99442759b54857fed7ac42f
 - Little Nightmares - Mono (3D Model) + DL · HiGuys920 · CC Attribution · ♥ 45 · https://sketchfab.com/3d-models/none-f4ffd6f17d834f0c9abe56eacc464332
-- Nightmare Moon (MLP) · VV · CC Attribution · ♥ 35 · https://sketchfab.com/3d-models/none-72e6242c89fa47c588d6ab113ba99fce
+- Nightmare Moon (MLP) · VV · CC Attribution · ♥ 36 · https://sketchfab.com/3d-models/none-72e6242c89fa47c588d6ab113ba99fce
 - Mono · Gavin Bou - Official · CC Attribution · ♥ 31 · https://sketchfab.com/3d-models/none-b2bda2340e9a49819f5e5081d09163c2
 
 ## Fotos con licencia libre (Openverse: cosplay, exposiciones, merchandising, murales)
