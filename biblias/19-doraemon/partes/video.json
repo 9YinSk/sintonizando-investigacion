@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x8k1ck8?t=40",
+    "fuente": "Dailymotion · «Doraemon 1979 - Opening en Español Latino»",
+    "ancho": 1280,
+    "alto": 756,
+    "que_es": "Fotograma real del opening 1979 'Doraemon no Uta': Doraemon vuela con el Takecopter sobre un fondo de bocetos de Leonardo da Vinci, con Nobita/Shizuka/Suneo/Gigante mirando hacia arriba. Visto y confirmado por audio (voz.py transcribe 'Doraemon, el gato cósmico' en 0:13)",
+    "para_que": "Punto 2 y 14: pose de vuelo de Doraemon con un invento, pose de grupo mirando hacia arriba",
+    "licencia": "Vídeo de terceros en Dailymotion (posible resubida de TV, doblaje latino antiguo); sólo como referencia visual con enlace &t=, no descargable para el canal"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8k1ck8?t=5",
+    "fuente": "Dailymotion · «Doraemon 1979 - Opening en Español Latino»",
+    "ancho": 1280,
+    "alto": 756,
+    "que_es": "Fotograma del túnel del tiempo azul girando de donde sale Doraemon; paleta medida con estilo.py: #0F1113, #2F4863, #3F728B",
+    "para_que": "Punto 4: luz y paleta del túnel del tiempo",
+    "licencia": "Vídeo de terceros en Dailymotion; sólo referencia visual, no descargable"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3402n2?t=20",
+    "fuente": "Dailymotion · «Doraemon song Gigante»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma de Gigante dando su recital en el descampado: esmoquin blanco, capa roja, micrófono, confeti cayendo con focos de colores. Coincide con la escena ya citada por subtítulo en la biblia (2006-09-08, 'Empieza el recital')",
+    "para_que": "Punto 2 y 14: escena icónica de Gigante, pose 'presentar/celebrar' con el micrófono (icono de 'pista sin voz' del canal)",
+    "licencia": "Vídeo de terceros en Dailymotion; sólo referencia visual, no descargable"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x33a56v?t=60",
+    "fuente": "Dailymotion · «STAND BY ME DORAEMON Trailer 1 Oficial Español 1080p»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del tráiler oficial en español: Doraemon y Nobita gritan abrazados sobre el tatami, de noche, con la cómoda de madera oscura detrás. Paleta medida: #0F0905, #2F2313, #1C0E05 (brillo muy bajo, 13%)",
+    "para_que": "Punto 4 y 14: luz nocturna real del cuarto en 3D, pose de susto compartida",
+    "licencia": "Vídeo de terceros en Dailymotion (tráiler oficial resubido); sólo referencia visual, no descargable"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x33a56v?t=30",
+    "fuente": "Dailymotion · «STAND BY ME DORAEMON Trailer 1 Oficial Español 1080p»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del mismo tráiler, de día: cuarto de Nobita en 3D con luz clara, puertas correderas crema. Paleta medida: #A09B7F, #B8B495, #F9F9E1 (brillo 61%)",
+    "para_que": "Punto 4: paleta clara del cuarto de día, mejor opción para el fondo del canal (de uso diario) que el túnel oscuro",
+    "licencia": "Vídeo de terceros en Dailymotion; sólo referencia visual, no descargable"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2vhonl?t=10",
+    "fuente": "Dailymotion · «Ending Doraemon Castellano»",
+    "ancho": 1280,
+    "alto": 960,
+    "que_es": "Fotograma del ending (doblaje de España, no latino): cielo con nubes y siluetas de niños en un cerro, sombreado plano (cel), sin degradado. Copia descolorida (posible VHS)",
+    "para_que": "Punto 4 y 9: contraste de sombreado 'plano' de la serie clásica frente al degradado 3D de las películas",
+    "licencia": "Vídeo de terceros en Dailymotion; sólo referencia visual, no descargable"
+  },
+  {
+    "url": "https://archive.org/details/episodio-737-chip-de-reservacion",
+    "fuente": "Internet Archive · colección de episodios doblados (reutilizada de partes/voz.json, no repetida)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Episodio 01 'El Pueblo de Nobita', doblaje latino real, grabación de TV con logo de canal ecuatoriano. Fotogramas vistos en 0:30 (casa, exterior), 1:30 (tatami verde real), 3:00 y 5:00 (pueblo en miniatura, el invento en uso)",
+    "para_que": "Punto 2, 4 y 14: escena icónica real con doblaje latino, paleta real de la casa/calle y del tatami (corrige el hex 'de memoria' de la biblia), pose de Nobita usando un invento",
+    "licencia": "Resubida de fans en Internet Archive; sólo cita e investigación, no redistribuir el vídeo"
+  },
+  {
+    "url": "https://archive.org/download/episodio-737-chip-de-reservacion/Episodio%2001%20-%20El%20Pueblo%20de%20Nobita.mp4?t=90",
+    "fuente": "Internet Archive · episodio-737-chip-de-reservacion",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma del cuarto de Nobita en la serie clásica 2D: tatami verde-amarillento (#A7A741, #658D36), Doraemon sentado junto a la estantería de juguetes",
+    "para_que": "Punto 4: paleta real del tatami, corrige el hex de memoria (#B9B77A) que traía la biblia",
+    "licencia": "Resubida de fans en Internet Archive; sólo cita, no redistribuir"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2uugoz?t=10",
+    "fuente": "Dailymotion · copia con anuncio de canal pirata superpuesto (contenido original de Doraemon, película sin identificar con certeza)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma de Gigante con expresión de sorpresa/miedo (cejas en zigzag, ojos muy abiertos) junto a un personaje con uniforme, dentro de una posible nave o cabina",
+    "para_que": "Punto 14: expresión real de sorpresa de Gigante (referencia secundaria, con aviso de calidad/identidad de la fuente)",
+    "licencia": "Copia de fans con texto de canal superpuesto; sólo referencia, calidad dudosa, no usar para recorte final"
+  }
+]

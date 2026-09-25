@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/b/b8/Episode_1_Title.png/revision/latest?cb=20190705175621",
+    "fuente": "Dr. Stone Wiki (Fandom)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Cartel de título del episodio 1: logo Dr.STONE en piedra naranja-roja agrietada y el título del episodio en piedra gris",
+    "para_que": "referencia exacta de tipografía y color para el nombre del canal y los rótulos (punto 5); colores medidos con estilo.py: #F29C0F, #E74010 (logo), #A49284, #C6C2BE (título de episodio)",
+    "licencia": "© TMS Entertainment / Dr.STONE Production Committee; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/dr-stone/images/6/66/Battle_Craft_Intro_Card_Senku.png/revision/latest?cb=20210827131928",
+    "fuente": "Dr. Stone Wiki (Fandom), categoría Battle Craft Assets",
+    "ancho": 1000,
+    "alto": 1000,
+    "que_es": "Arte oficial de Senku del videojuego Dr.STONE Battle Craft: chasquea los dedos sobre un tubo de ensayo con E=mc² escrito en la venda, reacción química en un vaso de precipitados",
+    "para_que": "pose de laboratorio 100% oficial y con licencia visible en la propia imagen; referencia de punto 11 (videojuegos) y punto 18 (encuadre/composición)",
+    "licencia": "©米スタジオ・Boichi／集英社・Dr.STONE製作委員会 ©Poppin Games Japan Co., Ltd.; sólo referencia"
+  },
+  {
+    "url": "https://play-lh.googleusercontent.com/PkUHa17AsrSFd-aAR4u6vks7a8RB2IThAY1LkudkxC5iGyp4qyUuVjRGBnnLIvMqfbuYxHuG_TJ8PR50fFrJYg",
+    "fuente": "Google Play (ficha archivada de Dr.STONE Battle Craft, ya cerrado)",
+    "ancho": 512,
+    "alto": 236,
+    "que_es": "Captura del videojuego mostrando el cuadro de diálogo real: caja con esquinas en bisel, borde turquesa, relleno azul-verde oscuro y etiqueta de nombre en diagonal",
+    "para_que": "referencia directa del punto 6 (cómo hablan y piensan en pantalla) y punto 11 (interfaz de videojuego de la franquicia); colores medidos con estilo.py sobre el recorte a mayor tamaño: relleno #21403D/#2F5D5D, borde #7EB6DF/#C7DCEC",
+    "licencia": "© Poppin Games Japan / Dr.STONE Production Committee; sólo referencia, juego cerrado"
+  },
+  {
+    "url": "https://play-lh.googleusercontent.com/SxCKs_GBz5pXoKi-Yt0k3U993rzJ0tjwGbYsrBRDhM4AOyBU_vSwW-mWvQTbMUJQge7ngfJkZS-RAVisWIb4Vw",
+    "fuente": "Google Play (ficha archivada de Dr.STONE Battle Craft, ya cerrado)",
+    "ancho": 526,
+    "alto": 243,
+    "que_es": "Captura de la pantalla de victoria del videojuego: iconos chibi de los 6 personajes en fila, barra de vida, cronómetro, botón Next",
+    "para_que": "referencia de interfaz de juego (punto 11) y de estilo chibi para posibles etiquetas de la lámina 2",
+    "licencia": "© Poppin Games Japan / Dr.STONE Production Committee; sólo referencia, juego cerrado"
+  },
+  {
+    "url": "https://play-lh.googleusercontent.com/TkkB69zh-01tVzL4O1Pas58x6Q67Vc1ggGKfRZDXLAfwN1AgBZNB5vrilfbM218ntXDmCFCJ-33-q4sDzMPKsho",
+    "fuente": "Google Play (ficha archivada de Dr.STONE Battle Craft, ya cerrado)",
+    "ancho": 526,
+    "alto": 243,
+    "que_es": "Captura del HUD de recursos del videojuego: gema/diamante azul con nivel de recurso, iconos cuadrados de personajes con bandera de nivel, botón Leader dorado",
+    "para_que": "referencia de interfaz de juego (punto 11) para iconos tipo gema/recurso si hace falta un HUD en la lámina 2",
+    "licencia": "© Poppin Games Japan / Dr.STONE Production Committee; sólo referencia, juego cerrado"
+  }
+]

@@ -1,0 +1,848 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+  "fuente": "AniList (anilist.co/anime/108465), API media",
+  "ancho": 460,
+  "alto": 647,
+  "que_es": "Portada oficial (key visual) del anime",
+  "para_que": "Referencia de portada/arte clave para la lámina",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108465-RgsRpTMhP9Sv.jpg",
+  "fuente": "AniList (anilist.co/anime/108465), API media",
+  "ancho": 1900,
+  "alto": 400,
+  "que_es": "Banner horizontal oficial del anime",
+  "para_que": "Formato ancho, útil para cabeceras",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png",
+  "fuente": "AniList (anilist.co/anime/108465), API media",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato oficial de Rudeus Greyrat (recorte de cara limpio, fondo simple)",
+  "para_que": "Referencia de cara/expresión de Rudeus",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png",
+  "fuente": "AniList (anilist.co/anime/108465), API media",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato oficial de Roxy Migurdia (recorte de cara limpio, fondo simple)",
+  "para_que": "Referencia de cara/expresión de Roxy",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png",
+  "fuente": "AniList (anilist.co/anime/108465), API media",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato oficial de Eris Boreas Greyrat (recorte de cara limpio, fondo simple)",
+  "para_que": "Referencia de cara/expresión de Eris",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png",
+  "fuente": "AniList (anilist.co/anime/108465), API media",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato oficial de Sylphiette Greyrat (recorte de cara limpio, fondo simple)",
+  "para_que": "Referencia de cara/expresión de Sylphiette",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/e/ec/MT-AN-S2-Rudeus-Uniform-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 707,
+  "alto": 1294,
+  "que_es": "Rudeus, hoja de modelo de producción, uniforme de Ranoa Magic Academy (S2)",
+  "para_que": "Pose y vestuario real del anime para dibujar a Rudeus adolescente",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/8/84/MT-AN-S2P2-Rudeus-Uniform-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 707,
+  "alto": 1287,
+  "que_es": "Rudeus, hoja de modelo, uniforme S2 parte 2",
+  "para_que": "Variante de pose del mismo uniforme",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/05/MT-AN-S3P1-Rudeus-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 705,
+  "alto": 1290,
+  "que_es": "Rudeus, hoja de modelo S3 parte 1 v1, ropa de viaje adulto",
+  "para_que": "Referencia de vestuario adulto de viaje; paleta medida con estilo.py",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/2d/MT-AN-S3P1v2-Rudeus-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 705,
+  "alto": 1290,
+  "que_es": "Rudeus, hoja de modelo S3 parte 1 v2, ropa de viaje adulto",
+  "para_que": "Segunda variante de pose de la misma ropa de viaje",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/5/56/Rudeus_7-10_yr_teacher.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 488,
+  "alto": 1346,
+  "que_es": "Rudeus niño (7-10 años), túnica de profesor",
+  "para_que": "Referencia de vestuario/proporciones de Rudeus niño",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/26/Rudeus_3-5-6_yr.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 714,
+  "alto": 738,
+  "que_es": "Rudeus niño, tres edades (3, 5 y 6 años) en una lámina",
+  "para_que": "Referencia de proporciones infantiles en una sola imagen",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/5/57/Rudeus_12_yr_colour.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 642,
+  "alto": 1733,
+  "que_es": "Rudeus 12 años a color, túnica gris de viaje",
+  "para_que": "Referencia de vestuario preadolescente a color",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/e/ee/Rudeus_18_yr_Casual.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 544,
+  "alto": 994,
+  "que_es": "Rudeus 18 años, ropa casual",
+  "para_que": "Referencia de vestuario informal adulto",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/a/ad/Rudeus_Greyrat_Adult.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 703,
+  "alto": 861,
+  "que_es": "Rudeus adulto, concept art con capa larga",
+  "para_que": "Referencia de silueta y capa para Rudeus adulto",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/b/b2/Roxy-Migurdia-Season2-Anime-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 709,
+  "alto": 1320,
+  "que_es": "Roxy, hoja de modelo, uniforme S2",
+  "para_que": "Pose y vestuario real del anime para Roxy en la academia",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/1/1f/MT-AN-S3P1-Roxy-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 705,
+  "alto": 1342,
+  "que_es": "Roxy, hoja de modelo S3 parte 1 v1, ropa de viaje",
+  "para_que": "Paleta medida con estilo.py: blanco crema #F0ECE6, azul-gris #353537/#5B5D67, lavanda-gris #9493A4",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/49/MT-AN-S3P1v2-Roxy-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 705,
+  "alto": 1290,
+  "que_es": "Roxy, hoja de modelo S3 parte 1 v2, ropa de viaje",
+  "para_que": "Segunda variante de pose del mismo traje de viaje",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/e/e5/RoxyAnime.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 674,
+  "alto": 1309,
+  "que_es": "Roxy, diseño original de anime (2020, S1)",
+  "para_que": "Referencia del diseño base antes de los cambios de temporada",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/90/MT-AN-S3-Eris-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 705,
+  "alto": 1280,
+  "que_es": "Eris, hoja de modelo S3, armadura ligera de viaje",
+  "para_que": "Paleta medida: crema/beige #E7E3DB, rojo-marrón #7C473D, oscuros #181616/#43322F",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/0b/MT-AN-S3SK-Eris-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 586,
+  "alto": 1088,
+  "que_es": "Eris, hoja de modelo S3 «SK», traje de entrenamiento/espada",
+  "para_que": "Referencia de traje deportivo ceñido para escenas de combate",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/7/72/ErisAnime.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 673,
+  "alto": 1309,
+  "que_es": "Eris, diseño original de anime (2020, S1)",
+  "para_que": "Referencia del diseño base, incluye diadema/cintillo negro",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/d/d1/Adult_Eris_Concept_Art.jpg",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 520,
+  "alto": 997,
+  "que_es": "Eris adulta, concept art",
+  "para_que": "Referencia de cómo envejece el diseño de Eris",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/5/5d/MT-AN-S2-Fitts-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 707,
+  "alto": 1293,
+  "que_es": "Sylphiette disfrazada de «Fitts» (caballero/chico), S2",
+  "para_que": "Referencia del disfraz con el que se hace pasar por chico en la academia",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/5/58/MT-AN-S2-Sylphiette-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 707,
+  "alto": 1287,
+  "que_es": "Sylphiette, hoja de modelo, uniforme S2 (pelo ya blanco)",
+  "para_que": "Pose y vestuario real del anime en la academia",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/24/Sylphiette-Greyrat-AnimeLabyrinthArc-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 711,
+  "alto": 1314,
+  "que_es": "Sylphiette, traje del arco del Laberinto (S2)",
+  "para_que": "Referencia de vestuario de aventura",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/e/e2/MT-AN-S3P1-Sylphiette-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 705,
+  "alto": 1280,
+  "que_es": "Sylphiette, hoja de modelo S3 parte 1 v1, ropa de viaje",
+  "para_que": "Paleta medida: crema #EFE9DF, verde oliva #8F9166/#55523A/#7A7151, piel #DFCBB8",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/c/cf/MT-AN-S3P1v2-Sylphiette-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 705,
+  "alto": 1290,
+  "que_es": "Sylphiette, hoja de modelo S3 parte 1 v2, ropa de viaje",
+  "para_que": "Segunda variante de pose del mismo traje de viaje",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/3/34/SylphyAnime.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 674,
+  "alto": 1309,
+  "que_es": "Sylphiette, diseño original de anime (2020, S1)",
+  "para_que": "Referencia del diseño base, pelo verde corto de niña",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/93/Sylphi_17Yr_Guard2.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 534,
+  "alto": 1128,
+  "que_es": "Sylphi 17 años, uniforme de guardia (concept art)",
+  "para_que": "Referencia de vestuario de guardia adolescente",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/5/50/MT-AN-S2-Ariel-FullBody.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 707,
+  "alto": 1293,
+  "que_es": "Ariel Anemoi Asura, hoja de modelo, uniforme S2 (personaje secundario clave)",
+  "para_que": "Referencia de personaje secundario para escenas de grupo en la academia",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/c/c2/LN_08_12.jpg",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1350,
+  "alto": 958,
+  "que_es": "LN volumen 8, ilustración interior a color (Fitts/Sylphiette disfrazada de caballero)",
+  "para_que": "Referencia a color del disfraz de Fitts, de la novela original",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/4f/LN_15_02.jpg",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1080,
+  "alto": 1530,
+  "que_es": "LN volumen 15, ilustración interior a color",
+  "para_que": "Arte oficial adicional de novela ligera",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/96/Fitts_LN.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1125,
+  "alto": 1600,
+  "que_es": "«Fitts LN», retrato a color de Sylphiette adolescente disfrazada",
+  "para_que": "Referencia de retrato de novela, buena calidad de cara",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/00/Roxy_Manga_Yuka_Fujikawa.jpg",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1358,
+  "alto": 1290,
+  "que_es": "Portada del manga «Roxy Gets Serious» (ilustradora Yuka Fujikawa)",
+  "para_que": "Referencia de portada de manga oficial, confirma nombre de la ilustradora",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/e/e9/I_spent_an_hour_stiching_this_together.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1080,
+  "alto": 1448,
+  "que_es": "Página de manga: viñeta de acción de Rudeus/Eris",
+  "para_que": "Referencia de composición y acción a dos personajes",
+  "licencia": "uso editorial/fair use; una sola fuente, sin confirmar tomo/capítulo exacto"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/5/50/Chapter_52.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 826,
+  "alto": 758,
+  "que_es": "Página de manga, capítulo 52 (escena de Eris)",
+  "para_que": "Referencia de línea/trama de manga clásica a tinta",
+  "licencia": "uso editorial/fair use; una sola fuente, sin confirmar tomo/capítulo exacto"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/28/Chapter_66.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 776,
+  "alto": 833,
+  "que_es": "Página de manga, capítulo 66 (escena de Eris)",
+  "para_que": "Referencia de línea/trama de manga clásica a tinta",
+  "licencia": "uso editorial/fair use; una sola fuente, sin confirmar tomo/capítulo exacto"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/6/6f/Luke_holding_a_sword_to_Ariel%27s_throat.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1058,
+  "alto": 1500,
+  "que_es": "Página de manga: Luke sosteniendo espada al cuello de Ariel",
+  "para_que": "Buena referencia de pose de combate con dos personajes",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/8/8a/BD_cover_1.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1536,
+  "alto": 993,
+  "que_es": "Portada de Blu-ray nº1",
+  "para_que": "Arte oficial de disco, alta resolución",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/6/6d/BD_cover_3.jpg",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 4096,
+  "alto": 2642,
+  "que_es": "Portada de Blu-ray nº3 (la más grande de la colección)",
+  "para_que": "Arte oficial de disco en muy alta resolución",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/2d/BD_cover_4.jpg",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 2057,
+  "alto": 1323,
+  "que_es": "Portada de Blu-ray nº4",
+  "para_que": "Arte oficial de disco, alta resolución",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/d/d6/Digipak_4.jpg",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 2560,
+  "alto": 1674,
+  "que_es": "Digipak 4 (caja coleccionable)",
+  "para_que": "Arte oficial de empaque coleccionable",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/9f/Season_2_KV_1.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1353,
+  "alto": 1920,
+  "que_es": "Key visual de temporada 2 (con Millishion de fondo)",
+  "para_que": "Referencia de composición personaje + ciudad de fondo",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://safebooru.org/images/3959/0f019ffd0b62e7ba513da208cb7dd031be4c3ebc.jpg",
+  "fuente": "Safebooru (API)",
+  "ancho": 936,
+  "alto": 1204,
+  "que_es": "Ilustración de Rudeus re-etiquetada como fan art",
+  "para_que": "Referencia (mirar, no pegar); origen real: cuenta editorial twitter.com/MFBooks_Edit",
+  "licencia": "arte promocional re-etiquetado como fan art; usar con esa aclaración"
+ },
+ {
+  "url": "https://safebooru.org/images/4580/0edec0efac2821aa8033e2499819f468b4257201.png",
+  "fuente": "Safebooru (API)",
+  "ancho": 4093,
+  "alto": 2894,
+  "que_es": "Fan art de Rudeus (origen Pixiv, alta resolución)",
+  "para_que": "Referencia de estilo de fan art (mirar, no pegar)",
+  "licencia": "derechos del autor de Pixiv, no identificado por nombre; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3726/19be2414cb0917e0ec524465dd394b4b68b700e6.jpg",
+  "fuente": "Safebooru (API)",
+  "ancho": 3112,
+  "alto": 4000,
+  "que_es": "Fan art de Roxy (origen Pixiv, alta resolución)",
+  "para_que": "Referencia de estilo de fan art (mirar, no pegar)",
+  "licencia": "derechos del autor de Pixiv, no identificado por nombre; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4156/a626c6ec34cf17469fd76555528f56adcbc74fc9.jpg",
+  "fuente": "Safebooru (API)",
+  "ancho": 2896,
+  "alto": 4096,
+  "que_es": "Ilustración de Roxy de la cuenta OFICIAL de X del anime (@mushokutensei_A)",
+  "para_que": "Usar como arte oficial, no como fan art",
+  "licencia": "uso editorial/fair use, cuenta oficial del anime"
+ },
+ {
+  "url": "https://safebooru.org/images/3589/063205f649fc222e59e280d3e04d1a0da9912c7e.jpg",
+  "fuente": "Safebooru (API)",
+  "ancho": 2100,
+  "alto": 3000,
+  "que_es": "Fan art de Eris (artista recurrente twitter.com/khyleri)",
+  "para_que": "Referencia de estilo de fan art (mirar, no pegar)",
+  "licencia": "derechos de la autora; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4136/118b06634a86bd5ffbd4a85273d72cf7dcf76087.jpg",
+  "fuente": "Safebooru (API)",
+  "ancho": 4189,
+  "alto": 2511,
+  "que_es": "Fan art de Eris (origen Bilibili, China)",
+  "para_que": "Referencia de estilo de fan art (mirar, no pegar)",
+  "licencia": "derechos del autor, no especificado; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4455/889fd7f3bde4dd8d0f4d2581d0c9ec50bda0ec38.jpg",
+  "fuente": "Safebooru (API)",
+  "ancho": 1500,
+  "alto": 2250,
+  "que_es": "Fan art de Sylphiette (origen twitter.com/SirRappa)",
+  "para_que": "Referencia de estilo de fan art (mirar, no pegar)",
+  "licencia": "derechos del autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/v9/wallhaven-v936d8.jpg",
+  "fuente": "Wallhaven (API)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla de fans: Eris con nubes (♥204 favoritos)",
+  "para_que": "Fondo de pantalla alternativo en alta resolución",
+  "licencia": "según autor (sin origen declarado); sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/x6/wallhaven-x6vlw3.jpg",
+  "fuente": "Wallhaven (API)",
+  "ancho": 8640,
+  "alto": 4860,
+  "que_es": "Fondo de pantalla de fans: Roxy sentada con mapa (♥178, origen Pixiv)",
+  "para_que": "Fondo de pantalla alternativo en muy alta resolución",
+  "licencia": "según autor en Pixiv; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/1p/wallhaven-1pvlg9.jpg",
+  "fuente": "Wallhaven (API)",
+  "ancho": 5988,
+  "alto": 4349,
+  "que_es": "Fondo de pantalla de fans: Roxy con agua (♥144, origen Pixiv)",
+  "para_que": "Fondo de pantalla alternativo en alta resolución",
+  "licencia": "según autor en Pixiv; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/j3/wallhaven-j3ym5y.jpg",
+  "fuente": "Wallhaven (API)",
+  "ancho": 5120,
+  "alto": 2880,
+  "que_es": "Fondo de pantalla de fans: Rudeus, arte de novela (♥119, origen Pixiv)",
+  "para_que": "Fondo de pantalla alternativo en alta resolución",
+  "licencia": "según autor en Pixiv; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/g7/wallhaven-g76xe3.png",
+  "fuente": "Wallhaven (API)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla de fans: Sylphiette en campo abierto (♥101)",
+  "para_que": "Fondo de pantalla con personaje + paisaje",
+  "licencia": "según autor (sin origen declarado); sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-5eed685a1ce04d6d9bd4020bd805ca8d",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D «Roxy Migurdia» (autor: kam), cuerpo completo rigged",
+  "para_que": "Referencia 3D de pose/proporciones, nunca para pegar",
+  "licencia": "CC Attribution-ShareAlike"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2ffd9eb1aa254b9494ec5d220f6bdc96",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D «Roxy Migurdia» (autor: OSad), variante distinta",
+  "para_que": "Referencia 3D alternativa de Roxy",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-684aa94f9e32479985d82908da342728",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D «Mushoku Tensei-Roxy» (autor: HaiHan)",
+  "para_que": "Referencia 3D adicional de Roxy",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d4a417e18ea748e395d3b85033e6d378",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D «Mushoku Tensei-Sylphiette Greyrat» (autor: HaiHan)",
+  "para_que": "Referencia 3D de pose/proporciones de Sylphiette",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ccd835f6963b4a20b97315ce2e50bdd2",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D «Rudeus Greyrat - Mushoku Tensei» (autor: oimoyu)",
+  "para_que": "Referencia 3D de pose/proporciones de Rudeus",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7f44931f68104f91a23f3cc6bc75a4de",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D del bastón de Roxy Migurdia, sólo el prop (autor: Josevan Danusastra, ♥19)",
+  "para_que": "Accesorio permanente de Roxy en todas sus apariciones; referencia 3D del prop",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9e2d01fe35a54f9abe290ac73c723935",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Jobless Reincarnation (Mushoku Tensei) 3D Map», mapa del mundo (autor: Lugremg, ♥16)",
+  "para_que": "Referencia 3D del mapa del mundo de la serie",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-79c370479d724a39962f6e0fe6f50201",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D «Eris Boreas Greyrat» (autor: youseuf98)",
+  "para_que": "Existe pero no se puede reutilizar; sólo mirar",
+  "licencia": "licencia Editorial (NO libre: sólo referencia visual, no descargable para reuso)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/04/Buena_Village.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Buena Village: vista general de campos de cultivo, pueblo natal de Rudeus",
+  "para_que": "Fondo de sitio; paleta medida con estilo.py: verde amarillento #CED692, salvia #8EAB98, oliva #ACB86B, sombra #4B6730/#213618",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/0e/MT-AN-S1-E16-PNG-19.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Millishion: ciudad santa amurallada con cúpulas doradas y obeliscos",
+  "para_que": "Fondo de sitio; paleta medida: blanco piedra #E3E2E2, azules de cúpula #3A7287/#307CC4/#96C5E4/#639ED2",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/a/aa/Roa_Aerial_View.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Citadel of Roa: vista aérea de la ciudad amurallada donde vive Roxy",
+  "para_que": "Fondo de sitio; paleta medida: verde claro/cielo #DDEADE, azul agua #ACD6E0, sombra #425F64",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/0/0d/Sharia-AN-S2-PV.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Sharia: vista panorámica de la ciudad universitaria nevada (Ranoa Magic Academy)",
+  "para_que": "Fondo de sitio; paleta medida: gris azulado #D9DDE2/#CBD1D8/#B6BBC5, casi monocroma, saturación 9%",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/1/1b/Sharia-Commerce-District-Restaurant-MT-MN-Ch59.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 993,
+  "alto": 895,
+  "que_es": "Sharia, distrito comercial (arte de manga)",
+  "para_que": "Referencia de arquitectura y ambiente comercial de la ciudad",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/1/16/Slave-Market-MT-MN-Ch58.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1032,
+  "alto": 742,
+  "que_es": "Sharia, mercado de esclavos (arte de manga, parte oscura de la historia)",
+  "para_que": "Referencia de sitio narrativo importante de la ciudad",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/4f/Ranoa-Magic-Academy-MT-MN-Ch54.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 741,
+  "alto": 1293,
+  "que_es": "Ranoa Magic Academy, fachada gótica de piedra clara con torres (arte de manga)",
+  "para_que": "Referencia arquitectónica de la academia donde ocurre gran parte de la serie",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/2/23/Anime_Logo_JP.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 1336,
+  "alto": 544,
+  "que_es": "Logo japonés del anime, fondo transparente, caligrafía de pincel",
+  "para_que": "Referencia de trazo de pincel para tipografía/rótulos (hereda el investigador de texto",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/93/Asura-Kingdom-Emblem-MT-MN-V8-Ch40.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 725,
+  "alto": 689,
+  "que_es": "Emblema del Reino de Asura (donde nace Eris), arte de manga vol. 8 cap. 40",
+  "para_que": "Referencia heráldica, corona/blasón dorado sobre fondo oscuro",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mushokutensei/images/a/a6/Boreas-Family-Emblem-MT-MN-Ch50.png",
+  "fuente": "Fandom Wiki (mushokutensei.fandom.com), API imageinfo",
+  "ancho": 270,
+  "alto": 291,
+  "que_es": "Emblema de la familia Boreas (rama de Eris), arte de manga cap. 50",
+  "para_que": "Referencia heráldica de la casa real de Asura",
+  "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa/CloverWorks vía AniList o Fandom Wiki)"
+ },
+ {
+  "url": "https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes",
+  "fuente": "Brusheezy",
+  "ancho": null,
+  "alto": null,
+  "que_es": "34 pinceles de screentone/halftone de manga en alta resolución (gratis)",
+  "para_que": "Pinceles para replicar la trama de puntos vista en las páginas de manga citadas",
+  "licencia": "gratis; uso personal/comercial con atribución si se revende"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper001",
+  "fuente": "ambientCG (API)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de papel/pergamino (Paper001, varias resoluciones)",
+  "para_que": "Capa de tela para cartas y libros de hechizos (Ranoa tiene mucha biblioteca)",
+  "licencia": "CC0 1.0, sin atribución necesaria"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Wood092",
+  "fuente": "ambientCG (API)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de madera realista (Wood092, varias resoluciones)",
+  "para_que": "Capa para casas de Buena Village y muebles",
+  "licencia": "CC0 1.0, sin atribución necesaria"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Fabric061",
+  "fuente": "ambientCG (API)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de tela realista (Fabric061, varias resoluciones)",
+  "para_que": "Capa para túnicas y capas de Roxy y Rudeus",
+  "licencia": "CC0 1.0, sin atribución necesaria"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=PavingStones151",
+  "fuente": "ambientCG (API)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de piedra clara (PavingStones151, varias resoluciones)",
+  "para_que": "Capa para la fachada gótica de Sharia/Ranoa Magic Academy",
+  "licencia": "CC0 1.0, sin atribución necesaria"
+ },
+ {
+  "url": "https://news.qoo-app.com/en/post/74091/qoo-news-mushoku-tensei-x-konosuba-collaboration-begins-september-15",
+  "fuente": "QooApp News",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colaboración oficial KonoSuba × juego móvil de Mushoku Tensei (Beaglee), desde 15-sep-2021",
+  "para_que": "Referencia de crossover con arte/outfits nuevos",
+  "licencia": "cobertura de noticias, evento oficial del juego"
+ },
+ {
+  "url": "https://news.qoo-app.com/en/post/164825/7ds-grand-cross-x-mushoku-tensei",
+  "fuente": "QooApp News",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colaboración oficial The Seven Deadly Sins: Grand Cross × Mushoku Tensei (2023), con outfits nuevos de los 4 protagonistas + Ghislaine",
+  "para_que": "Referencia de pose «de evento» con varios personajes juntos",
+  "licencia": "cobertura de noticias, evento oficial del juego"
+ },
+ {
+  "url": "https://animecorner.me/konosuba-fantastic-days-collabs-with-mushoku-tensei/",
+  "fuente": "Anime Corner",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colaboración oficial KonoSuba: Fantastic Days × Mushoku Tensei (2023), Roxy y Eris jugables",
+  "para_que": "Referencia de crossover adicional",
+  "licencia": "cobertura de noticias, evento oficial del juego"
+ },
+ {
+  "url": "https://news.qoo-app.com/en/post/170811/compass-x-mushoku-tensei-collab",
+  "fuente": "QooApp News",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colaboración oficial #Compass × Mushoku Tensei (2023), Roxy Migurdia jugable",
+  "para_que": "Referencia de crossover adicional",
+  "licencia": "cobertura de noticias, evento oficial del juego"
+ },
+ {
+  "url": "https://www.pocketgamer.com/valkyrie-connect/mushoku-tensei-crossover/",
+  "fuente": "Pocket Gamer",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colaboración oficial Valkyrie Connect × Mushoku Tensei (2024), con voces nuevas grabadas",
+  "para_que": "Referencia de crossover con los 4 protagonistas y voces nuevas",
+  "licencia": "cobertura de noticias, evento oficial del juego"
+ },
+ {
+  "url": "https://news.qoo-app.com/en/post/176826/summons-board-mushoku-tensei",
+  "fuente": "QooApp News",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colaboración oficial Summons Board × Mushoku Tensei 2 (segunda colaboración)",
+  "para_que": "Referencia de crossover adicional",
+  "licencia": "cobertura de noticias, evento oficial del juego"
+ },
+ {
+  "url": "https://www.goodsmile.info/en/product/11959/Nendoroid+Roxy+Migurdia.html",
+  "fuente": "Good Smile Company",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nendoroid oficial de Roxy Migurdia",
+  "para_que": "Referencia de pose y proporciones chibi, merchandising oficial",
+  "licencia": "producto oficial con licencia, ficha de venta"
+ },
+ {
+  "url": "https://www.goodsmile.com/en/product/11676",
+  "fuente": "Good Smile Company",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nendoroid oficial de Sylphiette (3 caras intercambiables, lanzada 22-ago-2023)",
+  "para_que": "Referencia de pose y accesorios (vara, libro de hechizos), merchandising oficial",
+  "licencia": "producto oficial con licencia, ficha de venta"
+ },
+ {
+  "url": "https://www.amazon.com/Good-Smile-Mushoku-Tensei-Reincarnation/dp/B08WC97N94",
+  "fuente": "Amazon (listado oficial de Good Smile Company)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nendoroid oficial de Eris Boreas Greyrat",
+  "para_que": "Referencia de pose y proporciones chibi, merchandising oficial",
+  "licencia": "producto oficial con licencia, ficha de venta"
+ },
+ {
+  "url": "https://finalweapon.net/2025/12/23/mushoku-tensei-jobless-reincarnation-anime-5th-anniversary-celebrations/",
+  "fuente": "Final Weapon",
+  "ancho": null,
+  "alto": null,
+  "que_es": "5º aniversario del anime (ene-2026): merchandising celebratorio de Kadokawa Store",
+  "para_que": "Referencia de qué merchandising nuevo puede salir en esas fechas",
+  "licencia": "cobertura de noticias; una sola fuente, sin confirmar directamente en Kadokawa Store por bloqueo regional"
+ },
+ {
+  "url": "https://store.crunchyroll.com/collections/mushoku-tensei-jobless-reincarnation",
+  "fuente": "Crunchyroll Store",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tienda oficial licenciada con catálogo de merchandising (ropa, posters, acrílicos)",
+  "para_que": "Referencia de productos oficiales disponibles",
+  "licencia": "tienda oficial licenciada"
+ },
+ {
+  "url": "https://merchoid.com/brand/mushoku-tensei",
+  "fuente": "Merchoid",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tienda oficial licenciada con catálogo de merchandising",
+  "para_que": "Referencia de productos oficiales disponibles",
+  "licencia": "tienda oficial licenciada"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=8NWApFtY5kI",
+  "fuente": "YouTube",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tutorial completo de costura del traje de Roxy Migurdia (paso a paso, video)",
+  "para_que": "Referencia de materiales y método real de cosplay",
+  "licencia": "vídeo de fan; una sola fuente, sin confirmar canal/cosplayer ni vistas"
+ },
+ {
+  "url": "https://www.etsy.com/listing/4316123811/roxys-staff-from-mushoku-tensei-jobless",
+  "fuente": "Etsy",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Plano/blueprint descargable del bastón de Roxy (PDF 2D, foam HD recomendado)",
+  "para_que": "Referencia de construcción real del prop de Roxy",
+  "licencia": "producto de venta de un fan cosplayer; plano descargable"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=Uxl80ks1qp0",
+  "fuente": "YouTube",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tutorial en video de cómo construir el bastón de Roxy (prop)",
+  "para_que": "Referencia de construcción real del prop de Roxy",
+  "licencia": "vídeo de fan; una sola fuente"
+ }
+]

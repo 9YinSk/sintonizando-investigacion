@@ -1,0 +1,191 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/2/28/Scale_8.png/revision/latest?cb=20190927174559",
+    "fuente": "Fandom, bighero6.fandom.com · File:Scale 8.png (Big Hero 6: The Series)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real: Baymax proyecta en el pecho la escala del dolor Wong-Baker, 10 caritas de amarillo a rojo numeradas.",
+    "para_que": "Objeto central del canal #soporte: la 'tabla del dolor de verdad'. Hex medidos: fondo #FDF9EF, cara 1 #F1E815, cara 10 #F0764E.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/a/aa/Big_Hero_6_logo.png/revision/latest?cb=20170927200324",
+    "fuente": "Fandom, bighero6.fandom.com · File:Big Hero 6 logo.png",
+    "ancho": 800,
+    "alto": 310,
+    "que_es": "Logo oficial de la película, letras gruesas redondeadas hechas a mano, rojo/negro/blanco.",
+    "para_que": "Referencia de tipografía (punto 5) y símbolo (punto 25). Hex medidos: #E00318, #020000, #FEFDFE.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/7/7e/SFIT_Logo.png/revision/latest?cb=20170427235236",
+    "fuente": "Fandom, bighero6.fandom.com · File:SFIT Logo.png",
+    "ancho": 700,
+    "alto": 700,
+    "que_es": "Sello circular del San Fransokyo Institute of Technology, engranaje dorado con centro azul marino.",
+    "para_que": "Símbolo del mundo (punto 25) y ejemplo de letra redondeada gruesa (punto 5). Hex: #FDD340, #100730, #A82512.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/c/ce/Baymax%27s_Healthcare_Chip.jpg/revision/latest?cb=20181111040242",
+    "fuente": "Fandom, bighero6.fandom.com · File:Baymax's Healthcare Chip.jpg",
+    "ancho": 1920,
+    "alto": 808,
+    "que_es": "El chip verde de cuidados de Baymax, icono de doctor sonriente.",
+    "para_que": "Cuadro/símbolo de personalidad de Baymax (puntos 6 y 25). Hex medidos: #546B60, #78968B sobre #232627.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/b/b8/Baymax%27s_Fighting_Chip.jpg/revision/latest?cb=20170517182209",
+    "fuente": "Fandom, bighero6.fandom.com · File:Baymax's Fighting Chip.jpg",
+    "ancho": 1416,
+    "alto": 808,
+    "que_es": "El chip rojo de pelea de Baymax, calavera con tibias cruzadas.",
+    "para_que": "Contraste de color/uso frente al chip verde (punto 6). Hex medidos: #811A1D, #9A3640 sobre #28151C.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/c/cc/Baymax_scanning_eyes.png/revision/latest?cb=20181006234332",
+    "fuente": "Fandom, bighero6.fandom.com · File:Baymax scanning eyes.png",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de la serie: los 'ojos' de Baymax en forma de obturador de cámara al escanear.",
+    "para_que": "Cómo 'piensa' Baymax en pantalla (punto 6), gesto que no estaba documentado antes.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/5/59/Baymax_scanning.png/revision/latest?cb=20180819023436",
+    "fuente": "Fandom, bighero6.fandom.com · File:Baymax scanning.png",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma con el puerto de chips de Baymax visible en su costado.",
+    "para_que": "Referencia de vestuario/accesorio técnico (puntos 6 y 25).",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/baymax-rigged-be0f190b63d546af8fdd53f49da0e8b6",
+    "fuente": "Sketchfab · modelo de DownbeatFusion (confirmado por la API v3/search)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Baymax ya montado con huesos (rig), listo para posar en Blender.",
+    "para_que": "Punto de partida gratuito para poses/render en Blender (punto 18).",
+    "licencia": "CC Attribution (confirmada en la respuesta de la API de Sketchfab)."
+  },
+  {
+    "url": "https://blendswap.com/blend/13951",
+    "fuente": "BlendSwap · 'Baymax(from Disney's Big Hero 6)' por DoodleNotes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo de Baymax en formato .blend, rig completo para animación.",
+    "para_que": "Alternativa a Sketchfab para Blender (punto 18); revisar la licencia antes de usar (no comercial).",
+    "licencia": "CC BY-NC (no comercial), según la ficha de BlendSwap."
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Comic+Neue",
+    "fuente": "Google Fonts · Comic Neue",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre tipo cómic/manga, comprobada con fontTools: trae á é í ó ú ñ ¿ ¡ ü.",
+    "para_que": "Globo de diálogo normal del manga o del ticket (punto 5).",
+    "licencia": "SIL Open Font License (OFL)."
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts · Bangers",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre de cómic en mayúsculas con impacto, comprobada con fontTools: trae todo el juego pedido.",
+    "para_que": "Gritos y onomatopeyas (punto 5).",
+    "licencia": "SIL Open Font License (OFL)."
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Permanent+Marker",
+    "fuente": "Google Fonts · Permanent Marker",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre tipo rotulador, comprobada con fontTools: trae todo el juego pedido.",
+    "para_que": "Carteles pintados a mano del mundo de San Fransokyo (punto 5).",
+    "licencia": "SIL Open Font License (OFL)."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Big_Hero_6_(film)",
+    "fuente": "Wikipedia (en) · Big Hero 6 (film)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo completo con la sección de producción (Hyperion, Denizen, Bonsai, influencias de diseño) y la trama por actos.",
+    "para_que": "Base de los puntos 18 (técnica) y 25 (historia por arcos).",
+    "licencia": "Texto bajo CC BY-SA; usar como fuente, no copiar imágenes de ahí."
+  },
+  {
+    "url": "https://decentfilms.com/reviews/bighero6",
+    "fuente": "Decent Films · reseña de Steven D. Greydanus",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña que compara a Baymax con El gigante de hierro y T2, y con el manejo del duelo frente a Frozen.",
+    "para_que": "Punto 24, obras parecidas: cita textual confirmada leyendo la página completa.",
+    "licencia": "© Decent Films. Sólo cita y enlace, no reproducir el artículo entero."
+  },
+  {
+    "url": "https://charactermedia.com/big-hero-6-animators-discuss-their-creative-process/",
+    "fuente": "Character Media (KoreAm) · entrevista a animadores de Big Hero 6",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista a Shiyoon Kim (diseñador principal de personajes) y Hyun-min Lee (animador de Baymax).",
+    "para_que": "Confirma quién propuso quitarle la boca a Baymax (punto 6), corrige la duda Jin/Shiyoon Kim.",
+    "licencia": "© Character Media. Sólo cita y enlace."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Big_Hero_6_(manga)",
+    "fuente": "Fandom · Big Hero 6 (manga)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del manga oficial 'Baymax' (ベイマックス) de Haruki Ueno, Kodansha/Yen Press.",
+    "para_que": "Base para el punto 5 (letras de los globos del manga oficial).",
+    "licencia": "Wiki de fans (CC BY-SA de Fandom); imágenes del manga son © Disney/Kodansha/Yen Press."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Big_Hero_6_(Marvel_Comics)",
+    "fuente": "Fandom · Big Hero 6 (Marvel Comics)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Historial de los cómics originales de Marvel (1998 y 2008) de los que salió el nombre del equipo.",
+    "para_que": "Punto 24, obra de origen muy distinta en estilo a la película.",
+    "licencia": "Wiki de fans (CC BY-SA de Fandom)."
+  },
+  {
+    "url": "https://www.khwiki.com/San_Fransokyo",
+    "fuente": "Kingdom Hearts Wiki (khwiki.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del mundo San Fransokyo en Kingdom Hearts III, con nombres de temas musicales.",
+    "para_que": "Punto 11, videojuegos: refuerza con nuevo dato (nombres de música) lo ya confirmado.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Big_Hero_6_(film)/Transcript",
+    "fuente": "Fandom · transcripción completa de la película",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guion original en inglés, diálogo por diálogo, de toda la película.",
+    "para_que": "Frases textuales para el punto 6 (escena de la pantalla de Baymax) y el 25 (vocabulario propio, 'Woman up', 'Tadashi is here').",
+    "licencia": "Wiki de fans (CC BY-SA); el diálogo en sí es © Disney."
+  },
+  {
+    "url": "https://ia600403.us.archive.org/7/items/bighero6vol10000ueno/__ia_thumb.jpg",
+    "fuente": "Internet Archive · portada del tomo 1 del manga (préstamo digital)",
+    "ancho": 180,
+    "alto": 276,
+    "que_es": "Portada oficial de 'Big Hero 6' Vol. 1 (Yen Press/Haruki Ueno): título en letra de palo blanca gruesa sobre banda roja.",
+    "para_que": "Punto 5: muestra que la letra del manga es distinta a la del logo de la película.",
+    "licencia": "© Disney/Kodansha/Yen Press. Sólo referencia interna del servidor, miniatura de catálogo."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Microbots",
+    "fuente": "Fandom · Microbots",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del objeto icónico creado por Hiro, con su mecanismo de control (máscara neuro-craneal).",
+    "para_que": "Punto 25, objetos icónicos y vocabulario del mundo.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  }
+]

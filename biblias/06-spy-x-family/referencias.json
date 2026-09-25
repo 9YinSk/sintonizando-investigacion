@@ -1,317 +1,1649 @@
 [
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/91/WISE%27s_files_on_Donovan_Desmond_Anime.png/revision/latest?cb=20241029001112",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[O·1] Portada del expediente de WISE en el anime (ep. 7): «CLASSIFIED» a máquina, búho de WISE y sello rojo «TOP SECRET».",
-  "para_que": "El objeto del concepto A tal como sale en la serie: copiar la composición (emblema arriba, título a máquina, sello en diagonal).",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/12/WISE%27s_files_on_Loid_Forger_Anime.png/revision/latest?cb=20241031061207",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[O·2] Ficha de WISE de Loid Forger (ep. 7): foto de carné con fondo azul y nombre «LOID FORGER» en mayúsculas.",
-  "para_que": "Plantilla de la hoja interior de la ficha: foto a la izquierda, nombre debajo, texto en columnas.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/a/a3/Volume_6_Mission%2C_Key_Person%2C_and_Story_Page.png/revision/latest?cb=20201227164541",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1440,
-  "alto": 2180,
-  "que_es": "[O·10] Página «MISSION / TARGET / KEY PERSON / STORY» del tomo 6.",
-  "para_que": "Maquetación de ficha del propio manga: cabecera en caja negra, recuadros por campo, caras pequeñas. Modelo para los seis campos del canal.",
-  "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/55/Volume_11_Confidential_Files_Bonus.png/revision/latest?cb=20230609135656",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1222,
-  "alto": 1920,
-  "que_es": "[O·9] «SPY×FAMILY CONFIDENTIAL FILES (OMAKE)» del tomo 11, con sello «TOP SECRET · EYES ONLY».",
-  "para_que": "Rótulo de cabecera a máquina para la ficha y sello para «ES OPCIONAL».",
-  "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/4/48/US_Volume_2_Back_Cover.png/revision/latest?cb=20200511125044",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1400,
-  "alto": 2100,
-  "que_es": "[O·12] Contraportada del tomo 2 de VIZ (EE. UU.): hojas de expediente con fotos sujetas con clip y rótulos a mano.",
-  "para_que": "Cómo va la foto con clip sobre la hoja; lámina 1 y tapa de la lámina 2.",
-  "licencia": "© Tatsuya Endo / Shueisha / VIZ Media. Sólo referencia."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c1/Volume_4_Illustration_2.png/revision/latest?cb=20200508135816",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 764,
-  "alto": 1200,
-  "que_es": "[O·16] Ilustración del tomo 4: objetos de espía vistos desde arriba (pistola, sombrero, gafas, pajarita, maletín, lupa).",
-  "para_que": "Atrezo para Blender alrededor del expediente y paleta de objetos.",
-  "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c6/Volume_2_Anya%27s_Favorite_Things.png/revision/latest?cb=20240218013234",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1080,
-  "alto": 1554,
-  "que_es": "[O·17] «Las cosas favoritas de Anya» (extra del tomo 2): lista dibujada por Anya.",
-  "para_que": "El campo «Me gusta» con la voz de Anya; letra y dibujos de niña.",
-  "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/80/Nijigen_no_Mori_2024_Gift_26.png/revision/latest?cb=20241012122341",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 2048,
-  "alto": 1455,
-  "que_es": "[O·14] Tarjetas de nombre de los ocho personajes (Nijigen no Mori 2024).",
-  "para_que": "Formato «Me llamo»: tarjeta con marco y nombre en letra inglesa.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/6/60/WISE%27s_files_on_Melinda_Anime.png/revision/latest?cb=20251101153122",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[O·5] Fichas de Melinda clavadas en un corcho (ep. 42).",
-  "para_que": "Idea para la lámina 2: etiquetas como fichas clavadas con chinchetas.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/09/Anya%27s_undecipherable_notebook.png/revision/latest?cb=20240124175039",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[O·21] El cuaderno indescifrable de Anya (ep. 20).",
-  "para_que": "La letra real de Anya: garabatos grandes y torcidos (concepto C).",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/91/Exhibition_Merchandise_31.png/revision/latest?cb=20230627032905",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 944,
-  "alto": 697,
-  "que_es": "[O·22] Cuaderno «EDEN NOTEBOOK» (producto de la exposición SPY×FAMILY展).",
-  "para_que": "Tapa del cuaderno de Eden para el concepto C.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/9c/Loid_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125912",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1089,
-  "alto": 2175,
-  "que_es": "[P·1] Loid, cuerpo entero a color (arte del tomo 1): sentado, pierna cruzada, leyendo el periódico.",
-  "para_que": "Pose de analizar para el concepto A; traje y peinado.",
-  "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/3/34/Yor_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125726",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1137,
-  "alto": 2001,
-  "que_es": "[P·2] Yor como Thorn Princess, cuerpo entero a color (tomo 3).",
-  "para_que": "Vestuario de «Dato raro»: vestido negro, diadema de rosas, agujas.",
-  "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/7/7e/Anya_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125814",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 586,
-  "alto": 1180,
-  "que_es": "[P·3] Anya, cuerpo entero a color (tomo 2): sentada en el sofá rojo con el uniforme de Eden.",
-  "para_que": "Pose de presentarse sentada (conceptos B y C).",
-  "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c3/Bond_Forger_Colored_Full_Body.png/revision/latest?cb=20200714131106",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1004,
-  "alto": 1322,
-  "que_es": "[P·4] Bond, cuerpo entero a color (tomo 4), con pajarita.",
-  "para_que": "Volumen y pelaje de Bond (concepto C).",
-  "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c5/Damian_Desmond_Colored_Character_Sheet.png/revision/latest?cb=20240915134825",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1496,
-  "alto": 895,
-  "que_es": "[P·5] Hoja de modelo a color de Damian (guía oficial MISSION REPORT): frente, perfil, espalda, botones e insignia.",
-  "para_que": "Uniforme de Eden exacto; colores medidos (§16).",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/06/Becky_Blackbell_Colored_Character_Sheet.png/revision/latest?cb=20240915134627",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1496,
-  "alto": 915,
-  "que_es": "[P·6] Hoja de modelo a color de Becky (guía oficial): uniforme, lazo rojo, zapatos.",
-  "para_que": "Uniforme femenino de Eden; colores medidos (§16).",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/00/Character_Popularity_Poll_Top_10_Ranking_Illustration.png/revision/latest?cb=20251221150144",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1280,
-  "alto": 1006,
-  "que_es": "[P·7] Ilustración oficial del top 10 del primer concurso de popularidad (2025): todos de gala, Loid con el trofeo.",
-  "para_que": "Quién es el más querido y pose de celebrar en grupo.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/e/e8/SPY_x_FAMILY_Season_3_Key_Visual.png/revision/latest?cb=20250831030035",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 2000,
-  "alto": 2827,
-  "que_es": "[P·8] Key visual de la temporada 3.",
-  "para_que": "Estilo actual del anime (línea, sombra de dos tonos, paleta).",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/55/SPY_x_FAMILY_Key_Visual_2_Clean.png/revision/latest?cb=20250615042001",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 2159,
-  "alto": 3072,
-  "que_es": "[P·9] Key visual 2 limpio (sin letras): Anya con abrigo azul y la familia.",
-  "para_que": "La mejor referencia de estilo para pedir a una IA o para calcar proporciones.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/cb/Tobu_Zoo_2023_Main_Key_Visual.png/revision/latest?cb=20230904001757",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 2834,
-  "alto": 1917,
-  "que_es": "[P·11] Key visual del Tobu Zoo 2023: un retrato por personaje, cada uno en su cuadro de color.",
-  "para_que": "Formato «foto de ficha» para los seis campos.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/a/a2/Anya_using_her_telepathy_during_the_Old_Maid_game.png/revision/latest?cb=20260804094454",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[P·14] Anya leyendo mentes en el juego de la vieja (ep. 29): destello blanco de cuatro puntas junto a la cabeza.",
-  "para_que": "Cómo se dibuja su telepatía (el «cuadro de diálogo» de Anya).",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/12/Anya%27s_smug_face_Anime.png/revision/latest?cb=20240530192725",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[P·13] La cara «Heh» de Anya en el anime (ep. 6).",
-  "para_que": "El meme más reconocible; pose burlona.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/8f/Anya_names_Bond.png/revision/latest?cb=20240530194716",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[P·16] Anya presenta a Bond en el salón, tele antigua detrás (ep. 15).",
-  "para_que": "Pose de presentar con Bond; colores de Anya y Bond medidos aquí.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/2/20/Loid_scolds_Anya_for_spelling_mistakes.png/revision/latest?cb=20250601191910",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[P·22] Loid corrige los deberes de Anya en la mesa del salón; Yor trae la bandeja (ep. 11).",
-  "para_que": "El escritorio de Loid en casa: sitio del concepto A.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/8c/Season_3_Countdown_7_Days.png/revision/latest?cb=20250927100152",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 3335,
-  "alto": 3748,
-  "que_es": "[P·24] Cuenta atrás oficial de la T3 (7 días): Becky escribiendo con pluma.",
-  "para_que": "Pose de rellenar la ficha.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/f/fd/US_Volume_9.png/revision/latest?cb=20221127233453",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1400,
-  "alto": 2100,
-  "que_es": "[P·28] Portada del tomo 9 (VIZ): Becky en la Coconut Chair de George Nelson.",
-  "para_que": "Idea de «foto de ficha» con silla de diseño.",
-  "licencia": "© Tatsuya Endo / Shueisha / VIZ Media. Sólo referencia."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/4/4f/128_Park_Avenue_Forgers%27_Living_Room_Anime.png/revision/latest?cb=20221019051227",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[F·4] Salón del piso Forger (ep. 11): sofá LC2 negro, alfombra geométrica, madera oscura, tele.",
-  "para_que": "Fondo de los conceptos A y C; colores medidos (§5.3).",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/1f/128_Park_Avenue_Anya%27s_Bedroom_Anime.png/revision/latest?cb=20240821044008",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[F·7] Cuarto de Anya (ep. 36): papel pintado rosa, estantería y peluches.",
-  "para_que": "Sitio del concepto C.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/7/78/128_Park_Avenue_Exterior_Anime.png/revision/latest?cb=20221017044415",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[F·8] Fachada del 128 de Park Avenue, Berlint (ep. 7).",
-  "para_que": "La calle de la ficha «Vengo de».",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/6/6a/Berlint_Anime.png/revision/latest?cb=20240525222224",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[F·9] Berlint desde lo alto al atardecer (ep. 9).",
-  "para_que": "Fondo de ventana para el concepto A.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/52/WISE_HQ_Anime.png/revision/latest?cb=20240530162938",
-  "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "[F·24] Central de WISE (ep. 5): paredes de pantallas y consolas.",
-  "para_que": "Ambiente de oficina de espías, luz fría.",
-  "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
- },
- {
-  "url": "https://media.sketchfab.com/models/11390179bba7462484d344e2fe22c703/thumbnails/ab4e2276ee4244628249f65388e5a98a/5d5312f0c02a4b8e803cdb336429ca32.jpeg",
-  "fuente": "Sketchfab (API: licencia y tamaño de la miniatura)",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "Modelo 3D «Document File Folder» de Kami Rapacz (Sketchfab), carpeta de documentos A4.",
-  "para_que": "Base en Blender de la carpeta del expediente (concepto A). Página: https://sketchfab.com/3d-models/document-file-folder-11390179bba7462484d344e2fe22c703",
-  "licencia": "CC Attribution. Crédito: «Document File Folder» by Kami Rapacz, CC Attribution, Sketchfab."
- },
- {
-  "url": "https://media.sketchfab.com/models/b8a2aed8d7304d8d97f5593b11a10ca4/thumbnails/b33017de3c3c4365aa5442fc652e99ae/1840d4b93ca44e58a149855b1dccfe19.jpeg",
-  "fuente": "Sketchfab (API: licencia y tamaño de la miniatura)",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "Modelo 3D «Super Secret File» de DaBois22 (Sketchfab).",
-  "para_que": "Carpeta «secreta» alternativa. Página: https://sketchfab.com/3d-models/super-secret-file-b8a2aed8d7304d8d97f5593b11a10ca4",
-  "licencia": "CC Attribution. Crédito: «Super Secret File» by ☕️Mr. DaBois☕️ YT, CC Attribution, Sketchfab."
- },
- {
-  "url": "https://media.sketchfab.com/models/1d6009449fe84fd79454c4081eb743bf/thumbnails/4633d82f1207472bbdeba7a00ca774f6/a41b57838083422fa923e913fb233457.jpeg",
-  "fuente": "Sketchfab (API: licencia y tamaño de la miniatura)",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "Modelo 3D «1930s style typewriter - w/o branding» de KWojcik (Sketchfab).",
-  "para_que": "Máquina de escribir para el escritorio de Loid (concepto A), en segundo plano. Página: https://sketchfab.com/3d-models/1d6009449fe84fd79454c4081eb743bf",
-  "licencia": "CC Attribution. Crédito: «1930s style typewriter - w/o branding» by Kuba \"Volant\" Wójcik, CC Attribution, Sketchfab."
- }
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/91/WISE%27s_files_on_Donovan_Desmond_Anime.png/revision/latest?cb=20241029001112",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[O·1] Portada del expediente de WISE en el anime (ep. 7): «CLASSIFIED» a máquina, búho de WISE y sello rojo «TOP SECRET».",
+    "para_que": "El objeto del concepto A tal como sale en la serie: copiar la composición (emblema arriba, título a máquina, sello en diagonal).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/12/WISE%27s_files_on_Loid_Forger_Anime.png/revision/latest?cb=20241031061207",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[O·2] Ficha de WISE de Loid Forger (ep. 7): foto de carné con fondo azul y nombre «LOID FORGER» en mayúsculas.",
+    "para_que": "Plantilla de la hoja interior de la ficha: foto a la izquierda, nombre debajo, texto en columnas.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-01-720p?start=276",
+    "fuente": "Internet Archive — «SPY×FAMILY - Season 1» (copia de fans, 1280×720), episodio 1",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real: mano firmando «Loid Forger» sobre el contrato del piso, minuto 00:04:36 del episodio 1.",
+    "para_que": "Pose exacta para el objeto/expediente del concepto de lámina (punto 2 y 14); plano de mano y papel, sin cara.",
+    "licencia": "copia de fans en Internet Archive; usar sólo como referencia de encuadre y minuto, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c9/Volume_2_Confidential_Files_Bonus_-_Franky%27s_Secret_Files.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 764,
+    "alto": 1198,
+    "que_es": "«Confidential Files» de Franky, extra del tomo 2: fichas de expediente dibujadas por Endo.",
+    "para_que": "Concepto A: modelo de hoja de expediente con datos de cada personaje.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-03-720p?start=340",
+    "fuente": "Internet Archive — episodio 3 (1280×720)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real: Anya presenta su peluche Chimera con las dos manos en alto; Yor se agacha para saludarlo (minuto 00:05:40).",
+    "para_que": "La mejor pose de \"presentar con un objeto\" de toda la serie, vista en vídeo (punto 2 y 14); referencia directa para el concepto de lámina.",
+    "licencia": "copia de fans en Internet Archive; sólo como referencia, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-04-720p?start=949",
+    "fuente": "Internet Archive — episodio 4 (1280×720)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real: primer plano de los ojos de Anya, muy abiertos, justo antes de decir «I'm Anya Forger!» (minuto 00:15:49).",
+    "para_que": "Pose de \"Me llamo\" del canal #presentaciones, con expresión de nervio real y no sólo el texto del subtítulo.",
+    "licencia": "copia de fans en Internet Archive; sólo como referencia, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-06-720p?start=1106",
+    "fuente": "Internet Archive — episodio 6 (1280×720)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real de la cara «Heh» de Anya: párpados a media altura, sonrisa torcida, barbilla arriba (minuto 00:18:26-00:18:28).",
+    "para_que": "La pose más pedida por el fandom (punto 12/14), ahora con fotograma propio y minuto exacto, no sólo la fuente de fans.",
+    "licencia": "copia de fans en Internet Archive; sólo como referencia, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-01-720p?start=406",
+    "fuente": "Internet Archive — episodio 1 (1280×720)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real de Anya frente al televisor viendo «SPY WARS», abrazada a Chimera, ojos muy abiertos (minuto 00:06:46).",
+    "para_que": "Pose confirmada de entusiasmo/celebración con objeto (punto 14, antes ⚠️ de memoria, ahora vista).",
+    "licencia": "copia de fans en Internet Archive; sólo como referencia, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-01-720p?start=1373",
+    "fuente": "Internet Archive — episodio 1 (1280×720)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Créditos de cierre reales sobre fondos fijos de las calles de Berlint (edificios de piedra rosa/crema), con el texto en pantalla «エンディング主題歌『喜劇』星野源» (minuto 00:22:53).",
+    "para_que": "Fondo de ciudad ya pensado por la propia serie para llevar texto encima (punto 4); fuente primaria del ending T1 parte 1 (punto 9).",
+    "licencia": "copia de fans en Internet Archive; sólo como referencia, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/a/a3/Volume_6_Mission%2C_Key_Person%2C_and_Story_Page.png/revision/latest?cb=20201227164541",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1440,
+    "alto": 2180,
+    "que_es": "[O·10] Página «MISSION / TARGET / KEY PERSON / STORY» del tomo 6.",
+    "para_que": "Maquetación de ficha del propio manga: cabecera en caja negra, recuadros por campo, caras pequeñas. Modelo para los seis campos del canal.",
+    "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/55/Volume_11_Confidential_Files_Bonus.png/revision/latest?cb=20230609135656",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1222,
+    "alto": 1920,
+    "que_es": "[O·9] «SPY×FAMILY CONFIDENTIAL FILES (OMAKE)» del tomo 11, con sello «TOP SECRET · EYES ONLY».",
+    "para_que": "Rótulo de cabecera a máquina para la ficha y sello para «ES OPCIONAL».",
+    "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/4/48/US_Volume_2_Back_Cover.png/revision/latest?cb=20200511125044",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1400,
+    "alto": 2100,
+    "que_es": "[O·12] Contraportada del tomo 2 de VIZ (EE. UU.): hojas de expediente con fotos sujetas con clip y rótulos a mano.",
+    "para_que": "Cómo va la foto con clip sobre la hoja; lámina 1 y tapa de la lámina 2.",
+    "licencia": "© Tatsuya Endo / Shueisha / VIZ Media. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c1/Volume_4_Illustration_2.png/revision/latest?cb=20200508135816",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 764,
+    "alto": 1200,
+    "que_es": "[O·16] Ilustración del tomo 4: objetos de espía vistos desde arriba (pistola, sombrero, gafas, pajarita, maletín, lupa).",
+    "para_que": "Atrezo para Blender alrededor del expediente y paleta de objetos.",
+    "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c6/Volume_2_Anya%27s_Favorite_Things.png/revision/latest?cb=20240218013234",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1080,
+    "alto": 1554,
+    "que_es": "[O·17] «Las cosas favoritas de Anya» (extra del tomo 2): lista dibujada por Anya.",
+    "para_que": "El campo «Me gusta» con la voz de Anya; letra y dibujos de niña.",
+    "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/80/Nijigen_no_Mori_2024_Gift_26.png/revision/latest?cb=20241012122341",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 2048,
+    "alto": 1455,
+    "que_es": "[O·14] Tarjetas de nombre de los ocho personajes (Nijigen no Mori 2024).",
+    "para_que": "Formato «Me llamo»: tarjeta con marco y nombre en letra inglesa.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/6/60/WISE%27s_files_on_Melinda_Anime.png/revision/latest?cb=20251101153122",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[O·5] Fichas de Melinda clavadas en un corcho (ep. 42).",
+    "para_que": "Idea para la lámina 2: etiquetas como fichas clavadas con chinchetas.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/09/Anya%27s_undecipherable_notebook.png/revision/latest?cb=20240124175039",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[O·21] El cuaderno indescifrable de Anya (ep. 20).",
+    "para_que": "La letra real de Anya: garabatos grandes y torcidos (concepto C).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/91/Exhibition_Merchandise_31.png/revision/latest?cb=20230627032905",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 944,
+    "alto": 697,
+    "que_es": "[O·22] Cuaderno «EDEN NOTEBOOK» (producto de la exposición SPY×FAMILY展).",
+    "para_que": "Tapa del cuaderno de Eden para el concepto C.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/4/44/AEON_MALL_2022_Poster.png/revision/latest?cb=20250422215449",
+    "fuente": "Wiki de Fandom (spy-x-family.fandom.com), hoja personajes_01.jpg #30",
+    "ancho": 1920,
+    "alto": 1375,
+    "que_es": "Cartel de la colaboración AEON MALL (2022): los cuatro Forger caminando con bolsas de compra frente a escaparates de un centro comercial",
+    "para_que": "Pose de familia completa en la calle (no en casa ni en el colegio); punto 1 (arte oficial) y 23 (colaboraciones)",
+    "licencia": "Arte oficial de Shueisha/Wit Studio/CloverWorks para una campaña promocional; sólo como referencia, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/50/Eden_Academy_Emblem.png/revision/latest?cb=20260526043545",
+    "fuente": "Wiki de Fandom, hex medidos con Pillow por este investigador",
+    "ancho": 355,
+    "alto": 355,
+    "que_es": "Escudo/emblema de Eden Academy: turquesa #66BAAE y naranja #D35C17, con una manzana partida y una C a cada lado",
+    "para_que": "Punto 19 (emblema/logo con hex real, listo para bordar o grabar en un objeto 3D)",
+    "licencia": "Arte oficial del anime/manga; sólo como referencia de diseño"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/b/bb/WISE.png/revision/latest?cb=20191012101856",
+    "fuente": "Wiki de Fandom",
+    "ancho": 494,
+    "alto": 438,
+    "que_es": "Logo de WISE: rombo con un ojo/media luna, línea limpia en blanco y negro",
+    "para_que": "Punto 19 (logo/emblema); combina con el sello TOP SECRET ya medido en la biblia",
+    "licencia": "Arte oficial del anime/manga; sólo como referencia de diseño"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/10/Stella_Star.png/revision/latest?cb=20230202185353",
+    "fuente": "Spy x Family Wiki (Fandom), ya en referencias.json de la biblia (O·19)",
+    "ancho": 808,
+    "alto": 808,
+    "que_es": "La Estrella Stella, insignia dorada de logro académico en Eden Academy",
+    "para_que": "Punto 25: símbolo/objeto icónico del mundo (premio académico); citado también junto al Rayo Tonitrus",
+    "licencia": "Fair use / arte oficial de la franquicia, vía wiki de fans"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/9c/Loid_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125912",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1089,
+    "alto": 2175,
+    "que_es": "[P·1] Loid, cuerpo entero a color (arte del tomo 1): sentado, pierna cruzada, leyendo el periódico.",
+    "para_que": "Pose de analizar para el concepto A; traje y peinado.",
+    "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/3/34/Yor_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125726",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1137,
+    "alto": 2001,
+    "que_es": "[P·2] Yor como Thorn Princess, cuerpo entero a color (tomo 3).",
+    "para_que": "Vestuario de «Dato raro»: vestido negro, diadema de rosas, agujas.",
+    "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/7/7e/Anya_Forger_Colored_Full_Body.png/revision/latest?cb=20200714125814",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 586,
+    "alto": 1180,
+    "que_es": "[P·3] Anya, cuerpo entero a color (tomo 2): sentada en el sofá rojo con el uniforme de Eden.",
+    "para_que": "Pose de presentarse sentada (conceptos B y C).",
+    "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c3/Bond_Forger_Colored_Full_Body.png/revision/latest?cb=20200714131106",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1004,
+    "alto": 1322,
+    "que_es": "[P·4] Bond, cuerpo entero a color (tomo 4), con pajarita.",
+    "para_que": "Volumen y pelaje de Bond (concepto C).",
+    "licencia": "© Tatsuya Endo / Shueisha. Sólo referencia, no pegar (Spy x Family Wiki, uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c5/Damian_Desmond_Colored_Character_Sheet.png/revision/latest?cb=20240915134825",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1496,
+    "alto": 895,
+    "que_es": "[P·5] Hoja de modelo a color de Damian (guía oficial MISSION REPORT): frente, perfil, espalda, botones e insignia.",
+    "para_que": "Uniforme de Eden exacto; colores medidos (§16).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/06/Becky_Blackbell_Colored_Character_Sheet.png/revision/latest?cb=20240915134627",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1496,
+    "alto": 915,
+    "que_es": "[P·6] Hoja de modelo a color de Becky (guía oficial): uniforme, lazo rojo, zapatos.",
+    "para_que": "Uniforme femenino de Eden; colores medidos (§16).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/00/Character_Popularity_Poll_Top_10_Ranking_Illustration.png/revision/latest?cb=20251221150144",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1280,
+    "alto": 1006,
+    "que_es": "[P·7] Ilustración oficial del top 10 del primer concurso de popularidad (2025): todos de gala, Loid con el trofeo.",
+    "para_que": "Quién es el más querido y pose de celebrar en grupo.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/e/e8/SPY_x_FAMILY_Season_3_Key_Visual.png/revision/latest?cb=20250831030035",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 2000,
+    "alto": 2827,
+    "que_es": "[P·8] Key visual de la temporada 3.",
+    "para_que": "Estilo actual del anime (línea, sombra de dos tonos, paleta).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/55/SPY_x_FAMILY_Key_Visual_2_Clean.png/revision/latest?cb=20250615042001",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 2159,
+    "alto": 3072,
+    "que_es": "[P·9] Key visual 2 limpio (sin letras): Anya con abrigo azul y la familia.",
+    "para_que": "La mejor referencia de estilo para pedir a una IA o para calcar proporciones.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/cb/Tobu_Zoo_2023_Main_Key_Visual.png/revision/latest?cb=20230904001757",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 2834,
+    "alto": 1917,
+    "que_es": "[P·11] Key visual del Tobu Zoo 2023: un retrato por personaje, cada uno en su cuadro de color.",
+    "para_que": "Formato «foto de ficha» para los seis campos.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/a/a2/Anya_using_her_telepathy_during_the_Old_Maid_game.png/revision/latest?cb=20260804094454",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[P·14] Anya leyendo mentes en el juego de la vieja (ep. 29): destello blanco de cuatro puntas junto a la cabeza.",
+    "para_que": "Cómo se dibuja su telepatía (el «cuadro de diálogo» de Anya).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/12/Anya%27s_smug_face_Anime.png/revision/latest?cb=20240530192725",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[P·13] La cara «Heh» de Anya en el anime (ep. 6).",
+    "para_que": "El meme más reconocible; pose burlona.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/8f/Anya_names_Bond.png/revision/latest?cb=20240530194716",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[P·16] Anya presenta a Bond en el salón, tele antigua detrás (ep. 15).",
+    "para_que": "Pose de presentar con Bond; colores de Anya y Bond medidos aquí.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/2/20/Loid_scolds_Anya_for_spelling_mistakes.png/revision/latest?cb=20250601191910",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[P·22] Loid corrige los deberes de Anya en la mesa del salón; Yor trae la bandeja (ep. 11).",
+    "para_que": "El escritorio de Loid en casa: sitio del concepto A.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/8c/Season_3_Countdown_7_Days.png/revision/latest?cb=20250927100152",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 3335,
+    "alto": 3748,
+    "que_es": "[P·24] Cuenta atrás oficial de la T3 (7 días): Becky escribiendo con pluma.",
+    "para_que": "Pose de rellenar la ficha.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/f/fd/US_Volume_9.png/revision/latest?cb=20221127233453",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1400,
+    "alto": 2100,
+    "que_es": "[P·28] Portada del tomo 9 (VIZ): Becky en la Coconut Chair de George Nelson.",
+    "para_que": "Idea de «foto de ficha» con silla de diseño.",
+    "licencia": "© Tatsuya Endo / Shueisha / VIZ Media. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/4/4f/128_Park_Avenue_Forgers%27_Living_Room_Anime.png/revision/latest?cb=20221019051227",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[F·4] Salón del piso Forger (ep. 11): sofá LC2 negro, alfombra geométrica, madera oscura, tele.",
+    "para_que": "Fondo de los conceptos A y C; colores medidos (§5.3).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/1f/128_Park_Avenue_Anya%27s_Bedroom_Anime.png/revision/latest?cb=20240821044008",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[F·7] Cuarto de Anya (ep. 36): papel pintado rosa, estantería y peluches.",
+    "para_que": "Sitio del concepto C.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/7/78/128_Park_Avenue_Exterior_Anime.png/revision/latest?cb=20221017044415",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[F·8] Fachada del 128 de Park Avenue, Berlint (ep. 7).",
+    "para_que": "La calle de la ficha «Vengo de».",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/6/6a/Berlint_Anime.png/revision/latest?cb=20240525222224",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[F·9] Berlint desde lo alto al atardecer (ep. 9).",
+    "para_que": "Fondo de ventana para el concepto A.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/52/WISE_HQ_Anime.png/revision/latest?cb=20240530162938",
+    "fuente": "Spy x Family Wiki (Fandom), tamaño medido por su API",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "[F·24] Central de WISE (ep. 5): paredes de pantallas y consolas.",
+    "para_que": "Ambiente de oficina de espías, luz fría.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY製作委員会. Sólo referencia, no pegar (subida a Spy x Family Wiki como uso legítimo)."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/ef354530387548fcb230ff7a86897bad/thumbnails/7efbc77ce7694670a7ffbe1db93cfa4e/fcc1cb17ddff473197c4ede8f4722dd7.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Spy x Family Anya's bedroom» de hwzzz, descargable: el cuarto de Anya.",
+    "para_que": "Concepto C: base en Blender del cuarto de Anya (papel rosa a rayas, muebles blancos).",
+    "licencia": "CC Attribution. Crédito: «Spy x Family Anya's bedroom» by hwzzz, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/11390179bba7462484d344e2fe22c703/thumbnails/ab4e2276ee4244628249f65388e5a98a/5d5312f0c02a4b8e803cdb336429ca32.jpeg",
+    "fuente": "Sketchfab (API: licencia y tamaño de la miniatura)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Document File Folder» de Kami Rapacz (Sketchfab), carpeta de documentos A4.",
+    "para_que": "Base en Blender de la carpeta del expediente (concepto A). Página: https://sketchfab.com/3d-models/document-file-folder-11390179bba7462484d344e2fe22c703",
+    "licencia": "CC Attribution. Crédito: «Document File Folder» by Kami Rapacz, CC Attribution, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/b8a2aed8d7304d8d97f5593b11a10ca4/thumbnails/b33017de3c3c4365aa5442fc652e99ae/1840d4b93ca44e58a149855b1dccfe19.jpeg",
+    "fuente": "Sketchfab (API: licencia y tamaño de la miniatura)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Super Secret File» de DaBois22 (Sketchfab).",
+    "para_que": "Carpeta «secreta» alternativa. Página: https://sketchfab.com/3d-models/super-secret-file-b8a2aed8d7304d8d97f5593b11a10ca4",
+    "licencia": "CC Attribution. Crédito: «Super Secret File» by ☕️Mr. DaBois☕️ YT, CC Attribution, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/1d6009449fe84fd79454c4081eb743bf/thumbnails/4633d82f1207472bbdeba7a00ca774f6/a41b57838083422fa923e913fb233457.jpeg",
+    "fuente": "Sketchfab (API: licencia y tamaño de la miniatura)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «1930s style typewriter - w/o branding» de KWojcik (Sketchfab).",
+    "para_que": "Máquina de escribir para el escritorio de Loid (concepto A), en segundo plano. Página: https://sketchfab.com/3d-models/1d6009449fe84fd79454c4081eb743bf",
+    "licencia": "CC Attribution. Crédito: «1930s style typewriter - w/o branding» by Kuba \"Volant\" Wójcik, CC Attribution, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/a00408ce59324b2dbda2b45357e51b6e/thumbnails/f522a596e72d49dfb4721d0d0ee055df/318c36a6db1f41e49367d4f5e24a4e7a.jpeg",
+    "fuente": "Sketchfab (tonyhoni) — https://sketchfab.com/3d-models/anya-forger-spy-x-family-a00408ce59324b2dbda2b45357e51b6e",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D descargable de Anya Forger, 67640 caras, sin rig confirmado",
+    "para_que": "Punto 18: base real para Blender (contorno, shader tipo cel, luz)",
+    "licencia": "CC Attribution (CC-BY 4.0) — uso comercial permitido citando a tonyhoni, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/688f5be5228a41eb9a7cd0817d46b8f3/thumbnails/bb680ad50dc446a1ba3e087c680c3e03/4d56d18811084beb8761771fa4dda15d.jpeg",
+    "fuente": "Sketchfab (Acadd) — https://sketchfab.com/3d-models/none-688f5be5228a41eb9a7cd0817d46b8f3",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Yor Forger",
+    "para_que": "Punto 18: base real para Blender",
+    "licencia": "CC Attribution (CC-BY 4.0), autor Acadd, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/481783da76df4e419132062b77c1527b/thumbnails/159b43244f894ef1b1a78c81c1c62b38/9239bb0efb6148fda80c328329a5b57d.jpeg",
+    "fuente": "Sketchfab (won1) — https://sketchfab.com/3d-models/none-481783da76df4e419132062b77c1527b",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Bond Forger",
+    "para_que": "Punto 18: base real para Blender",
+    "licencia": "CC Attribution (CC-BY 4.0), autor won1, confirmado por la API de Sketchfab"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/470b41ca5e074f1493a26940fa371ec3/thumbnails/16c08f0bccb941f697705c0affd8e7c3/baa5ad8f1ae44d7eb6d7a67d147ad7d8.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Anya Forger (Spy x Family)» de Hasksoft (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Anya Forger (Spy x Family)» by Hasksoft, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/0ca18112f5e84b97a2117cf5949d0921/thumbnails/e958a83fdb8e4bfab7b7c2727b154c23/89b91db677f14bc891d03c88ee7dbb87.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Yor Forger Spy x Family - (Proof of Concept)» de 3dcinetv (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Yor Forger Spy x Family - (Proof of Concept)» by 3dcinetv, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/73455709d34c4f1583bd3514341edecc/thumbnails/a7628db14a7f450b9856d9f5d04767cd/e774b14211934015ae2b21107e92eb36.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «spy x family - Anya Forger» de { ililium }; (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «spy x family - Anya Forger» by { ililium };, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/b2b2abbdb3c340c4ab3cf9ee1ad35f2c/thumbnails/7c01932878394c8b8c97467e4acf46b3/d821c0a4d8224de1b6ca022427df96f1.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Anya Forger spy x family» de hiko9 (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Anya Forger spy x family» by hiko9, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/6d2be9a7bac1492fb207eacba9694ba7/thumbnails/3d5d8ddd5c594ff995725219e32cd400/1ec028d25dae490db1c7f2ae65412cd9.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Anya Forger from Spy X Family» de shandrew (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Anya Forger from Spy X Family» by shandrew, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/b712fe92e16f4ccdb6d9f82b63f47a3a/thumbnails/d55e03ab7b354f71a8f7bc2d64d2e77c/197c038a3131412aaba81cde6f9680ae.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Anya Forger» de RECZ P3D (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Anya Forger» by RECZ P3D, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/f3686250212146ba96cf4fb95f24ed74/thumbnails/f684d2188e434db4b6485a5c782ce2a7/f96516d02e5e495da253c62ea1d6e4c0.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Anya Forger» de RECZ P3D (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Anya Forger» by RECZ P3D, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/84aa90e6e6084868966e09aab6abe43c/thumbnails/81febf53fdae4f3ea47f4b894c7542ba/b429431f9c6a4659bbdd0affd88e6f6b.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «( spy x family ) yor_forger» de HLfilmsboi (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «( spy x family ) yor_forger» by HLfilmsboi, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/46254f969a9848bea6a85aab2d646de2/thumbnails/b39b7d06804742e4b48acd93d14ff2f7/2bd439f8997c4e34b8a00a68779902ad.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Yor Forger (Spy x Family)» de Scorpion4241 (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Yor Forger (Spy x Family)» by Scorpion4241, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/7cb75cecb7a4400aafc7da531c04da29/thumbnails/115e68477f5b40f2a55656daf9d86116/a219dcc87156469fb96021500d3f1b9d.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Yor Forger Assasin Dress Cosplay Accesories» de wray2064 (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Yor Forger Assasin Dress Cosplay Accesories» by wray2064, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://media.sketchfab.com/models/5eca7b7a317242319e7bd92dc3c0e6cd/thumbnails/0cde341a6ef94eb6a024325c4f3753cd/8a4506f7a30f440788df49963e6c893a.jpeg",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D «Confident Charm yor forger» de jiraiya sensei (fan art 3D, descargable).",
+    "para_que": "Volumen y pose en 3D del personaje; sólo mirar, el personaje es de Endo.",
+    "licencia": "CC Attribution. Crédito: «Confident Charm yor forger» by jiraiya sensei, CC BY 4.0, Sketchfab."
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-12-tvq-720p?start=765",
+    "fuente": "Internet Archive — episodio 12 (1280×720)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real de Loid disfrazado de cuidador de pingüinos (mono azul, gorra blanca), con el rótulo japonés «エージェント〈黄昏〉特技：変装» (Agente Twilight, habilidad especial: disfraz) sobre su cara.",
+    "para_que": "Pose confirmada del punto 14 (Loid #8, antes ⚠️ de memoria); ejemplo directo de cómo la propia serie presenta la habilidad de Loid con texto en pantalla.",
+    "licencia": "copia de fans en Internet Archive; sólo como referencia, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-02-720p?start=1115",
+    "fuente": "Internet Archive — episodio 2 (1280×720)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real de Loid y Yor bajando una escalera del brazo, ambos de gala, entrando juntos a una fiesta.",
+    "para_que": "Pose confirmada del punto 14 (Loid #5); entrada formal en pareja, útil para un concepto de lámina con los dos juntos.",
+    "licencia": "copia de fans en Internet Archive; sólo como referencia, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://archive.org/embed/spy-family-07-720p?start=413",
+    "fuente": "Internet Archive — episodio 7 (1280×720)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real de Damian con las mejillas muy rojas y los ojos muy abiertos, junto a Anya.",
+    "para_que": "Pose confirmada del punto 14 (Damian #2); expresión de vergüenza/enamoramiento cómico, útil para la guía de emociones (punto 17).",
+    "licencia": "copia de fans en Internet Archive; sólo como referencia, no reutilizar el vídeo"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8ar3pt?start=72",
+    "fuente": "Dailymotion (JeuxVideo.com) — «SPY x FAMILY Official Trailer Netflix Anime»",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Cartela «Opening Theme: \"Mixed Nuts\" OFFICIAL HIGE DANDISM» sobre una silueta de acción de Loid; créditos completos del tráiler oficial de Netflix (estudio WIT STUDIO × CloverWorks, director Kazuhiro Furuhashi, música (K)NoW_NAME) a partir de 1:48.",
+    "para_que": "Fuente primaria (créditos en pantalla) del opening T1 y del estudio/director (punto 9); plantilla de cartela «nombre + rol» (00:20-00:28) para el estilo de ficha del canal #presentaciones.",
+    "licencia": "tráiler oficial de Netflix, subido por un medio (JeuxVideo.com) a Dailymotion; sólo como referencia, no descargar/reusar el clip"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8r5lrz?start=0",
+    "fuente": "Dailymotion (JeuxVideo.com) — «trailer spy family code white»",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler oficial de la película CODE: White (2:03), con las cartelas en pantalla del opening «SOULSOUP» de Official HIGE DANdism (1:08) y del ending «光の跡» de Gen Hoshino (0:20).",
+    "para_que": "Fuente primaria de la música de la película (punto 9); escena de Anya llorando (2:00) y cartela «hay algo que proteger» (1:36) como referencia de pose/emoción para quien trabaje personajes.",
+    "licencia": "tráiler oficial (Toho/CloverWorks), subido por un medio a Dailymotion; sólo como referencia, no descargar/reusar el clip"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9ndxls?start=0",
+    "fuente": "Dailymotion (Espinof) — «Spy x Family - Temporada 3 Trailer»",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Teaser oficial de la Temporada 3 (0:48): Anya y Bond comiendo helado, flashback de Loid de niño en una ciudad bombardeada, cartela «Season 3, octubre».",
+    "para_que": "Vídeo con minuto exacto para el punto 10 (tendencias/tráilers); confirma la fecha de estreno de la T3 y el gancho del arco del pasado de Loid.",
+    "licencia": "tráiler oficial, subido por un medio (Espinof) a Dailymotion; sólo como referencia, no descargar/reusar el clip"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/1c/Chapter_127.1_Illustration.png/revision/latest",
+    "fuente": "Spy x Family Wiki (Fandom), imageinfo API (tamaño medido) · ilustración de agradecimiento de Tatsuya Endo tras la encuesta de popularidad",
+    "ancho": 2717,
+    "alto": 2915,
+    "que_es": "Ilustración «Gracias por participar» publicada junto al capítulo 127.1, con los personajes de la encuesta.",
+    "para_que": "Arte oficial reciente (dic-2025) en alta resolución, alternativa a la de arriba si se necesita más definición.",
+    "licencia": "© Tatsuya Endo / Shueisha. Ilustración oficial, sólo como referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/91/Episode_40_Title_Card.png/revision/latest?cb=20251018151458",
+    "fuente": "Spy x Family Wiki (Fandom), imageinfo API (tamaño medido) · cartela de título oficial del episodio 40",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Cartela de título del episodio 40 («■■■■'S MEMORIES II»), el clímax del arco del pasado de Loid (punto 21). Estrenado en Japón 18-oct-2025.",
+    "para_que": "Referencia de tipografía de cartela de episodio (útil también para el investigador de texto) y de fecha exacta del episodio más citado por el fandom como tearjerker reciente.",
+    "licencia": "© Tatsuya Endo / Shueisha / Wit Studio-CloverWorks. Cartela oficial de emisión, sólo como referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/f/f8/SPY_x_FAMILY_CODE_White_Street_Fighter_6_Collab_Poster.png/revision/latest?cb=20260113212114",
+    "fuente": "Wiki de Fandom, página SPY x FAMILY CODE: White x Street Fighter 6 Collaboration (2024)",
+    "ancho": 1460,
+    "alto": 2064,
+    "que_es": "Póster oficial de la colaboración con el videojuego Street Fighter 6 (Capcom), enero 2024: trajes de avatar y corto animado",
+    "para_que": "Punto 23 (colaboraciones con videojuegos, el equivalente japonés a un crossover con Fortnite)",
+    "licencia": "Arte oficial de la campaña Spy x Family CODE: White x Capcom; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/14/Sanrio_2025_Poster_1.png/revision/latest?cb=20250610032146",
+    "fuente": "Wiki de Fandom, página SPY x FAMILY x Sanrio Collaboration (2025)",
+    "ancho": 1200,
+    "alto": 1940,
+    "que_es": "Póster oficial de la colaboración con Sanrio (ago-oct 2025): cada Forger intercambia ropa con un personaje de Sanrio (Anya/Hello Kitty, Loid/Pompompurin, Yor/My Melody)",
+    "para_que": "Punto 23 (colaboración con otra marca de personajes; ropa nueva por el cruce)",
+    "licencia": "Arte oficial de la campaña; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/2/2c/Universal_Studios_Japan_2025-2026_Poster_1.png/revision/latest?cb=20250709161956",
+    "fuente": "Wiki de Fandom, página SPY x FAMILY x Universal Studios Japan Collaboration (2025-2026)",
+    "ancho": 3900,
+    "alto": 2757,
+    "que_es": "Póster oficial de la colaboración con el parque temático Universal Studios Japan (jul-2025 a ene-2026): primera atracción de realidad virtual de la serie",
+    "para_que": "Punto 23 (evento/colaboración con parque temático)",
+    "licencia": "Arte oficial de la campaña USJ x Spy x Family; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/0e/Capcom_Cafe_2023-2024_Main_Visual.png/revision/latest?cb=20231130035046",
+    "fuente": "Wiki de Fandom, página SPY x FAMILY CODE: White x Capcom Café Collaboration (2023-2024)",
+    "ancho": 3508,
+    "alto": 2481,
+    "que_es": "Ilustración principal de la colaboración con Capcom Café (Ikebukuro y Umeda, dic-2023 a ene-2024): menú temático y mercancía",
+    "para_que": "Punto 23 (café temático); idea de fondo o menú con letras a mano para el canal de doblaje",
+    "licencia": "Arte oficial de la campaña; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/a/a1/Ichiban_Kuji_1_Banner.png/revision/latest?cb=20230410131916",
+    "fuente": "Wiki de Fandom, página SPY x FAMILY x Ichiban Kuji Collaboration",
+    "ancho": 1002,
+    "alto": 429,
+    "que_es": "Banner de la primera tanda (jul-2021) de la lotería de premios Ichiban Kuji (Bandai Spirits); hubo 12 tandas hasta dic-2025",
+    "para_que": "Punto 23 (mercancía coleccionable y figuras premio, referencia de qué merchandising real existe)",
+    "licencia": "Arte oficial de la campaña Bandai Spirits x Spy x Family; sólo como referencia"
+  },
+  {
+    "url": "http://images.goodsmile.info/cgm/images/product/20220609/12801/99720/medium/7fec8b71e233b447fd98440c8bf76914.jpg",
+    "fuente": "Good Smile Company, ficha oficial del producto (goodsmile.info); confirmado también en Kahotan's Blog",
+    "ancho": 250,
+    "alto": 250,
+    "que_es": "Foto de catálogo del Nendoroid Anya Forger (Good Smile Company, 2022), ~100 mm, con 4 caras intercambiables",
+    "para_que": "Punto 23 (figura oficial: su pose y proporciones sirven de referencia 3D); hay versiones más grandes en la ficha oficial, no medidas",
+    "licencia": "Producto comercial con derechos; foto de catálogo del fabricante, sólo como referencia de pose/proporción"
+  },
+  {
+    "url": "http://images.goodsmile.info/cgm/images/product/20220926/13302/104855/medium/89061e29f9de0be96ebe017ba8705c72.jpg",
+    "fuente": "Good Smile Company, ficha oficial del producto; confirmado también en MyFigureCollection",
+    "ancho": 250,
+    "alto": 250,
+    "que_es": "Foto de catálogo de la figura POP UP PARADE Loid Forger (Good Smile Company), escala ~17-18 cm, pose de pie con gabardina",
+    "para_que": "Punto 23 (figura oficial como referencia 3D de pose); versión grande en la ficha oficial, no medida",
+    "licencia": "Producto comercial con derechos; foto de catálogo del fabricante, sólo como referencia de pose"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/50/Loid_showing_genuine_emotion_with_his_family.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1916,
+    "alto": 1656,
+    "que_es": "Loid sonríe de verdad con su familia (arte a color).",
+    "para_que": "Pose de ternura de Loid; plano de familia.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/d/da/Anya_shows_Loid_her_sheep_keychain.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Anya enseña a Loid su llavero de oveja (anime).",
+    "para_que": "Gag del llavero «Lady Sheep» (§C); pose de Anya presentando un objeto.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/a/a8/Forgers%27_dinner.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "La cena de los Forger (anime).",
+    "para_que": "Familia en la mesa del salón: plano general a la altura de alguien sentado (§A.4).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/00/Anya%2C_Becky%2C_Bill%2C_and_Damian_receive_a_Stella.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Anya, Becky, Bill y Damian reciben una Stella (anime).",
+    "para_que": "La Stella en escena; grupo de Eden celebrando.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/e/ed/Anya_and_her_friends_receive_a_Stella_Volume_17.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 951,
+    "alto": 1082,
+    "que_es": "Anya y sus amigos reciben una Stella (tomo 17, color).",
+    "para_que": "Grupo de Eden, arte de Endo.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/90/Episode_11-2.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Episodio 11, fotograma 2 («STELLA»).",
+    "para_que": "La escena que hace gritar de alegría (§D.5).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/e/ea/Episode_11-1.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Episodio 11, fotograma 1 («STELLA»).",
+    "para_que": "La escena que hace gritar de alegría (§D.5).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/ce/Young_Twilight_Crying.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Twilight de niño llorando (arco del pasado).",
+    "para_que": "La escena que hace llorar (§D.4): cara triste de Loid niño.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/94/Loid_reflects_on_his_ignorance.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Loid piensa en su ignorancia (arco del pasado).",
+    "para_que": "§D.4: «La ignorancia es un pecado»; Loid serio.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/3/34/Yor_worries_about_being_normal.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor se preocupa por no ser normal (anime).",
+    "para_que": "Cara de duda de Yor; «Dato raro».",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/0/03/Yor_is_learning_to_cook.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor aprende a cocinar (anime).",
+    "para_que": "Pose del «Busco» de Yor (ayúdenme a cocinar).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/f/f3/Yor%27s_minestrone.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "El minestrone de Yor (anime).",
+    "para_que": "Gag de la comida de Yor que Bond odia (§C).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/d/d9/Yor_revitalized.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor revitalizada (anime).",
+    "para_que": "Cara de alegría de Yor.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/cb/Yor_forgot_to_tell_Yuri_about_her_marriage.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor olvidó contarle a Yuri su boda (anime).",
+    "para_que": "Cara de apuro de Yor.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/18/Yor_holds_a_diced_tennis_ball.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor sostiene una pelota de tenis cortada en dados (anime).",
+    "para_que": "Humor: su fuerza sin medida (§C).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/3/31/Yor_scares_the_dog.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor asusta al perro (anime).",
+    "para_que": "Humor de Yor con Bond.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/4/4c/Loid_holding_Anya%27s_Classical_Language_test.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Loid sostiene el examen de Lengua Clásica de Anya (anime).",
+    "para_que": "Pose de Loid explicando o regañando suave.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/4/46/Loid_thinks_Anya_got_another_Tonitrus.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Loid cree que Anya sacó otro Tonitrus (anime).",
+    "para_que": "Cara de pánico interior de Loid.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/8d/Loid_tired_from_the_extra_missions.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Loid agotado por las misiones extra (anime).",
+    "para_que": "Cara cansada de Loid.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/b/b7/Loid_reveals_the_I.D._is_a_fake.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Loid revela que el carné es falso (anime).",
+    "para_que": "Tono espía: documento falso.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/7/70/Loid%27s_dishes_for_dinner_with_Yuri.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Los platos de Loid para la cena con Yuri (anime).",
+    "para_que": "Loid cocinero (§C).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/e/e7/Bond_makes_a_boy_drop_his_ice_cream.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Bond hace que a un niño se le caiga el helado (anime).",
+    "para_que": "Humor de Bond.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/9/9f/Bond%27s_vision_of_the_Forgers_without_Loid.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "La visión de Bond: los Forger sin Loid (anime).",
+    "para_que": "El poder de Bond (visión del futuro).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/f/f8/Bond_and_Loid_in_the_burning_building.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Bond y Loid en el edificio en llamas (anime).",
+    "para_que": "Acción de Bond con Loid.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/d/da/Bond_Forger_Anime.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 518,
+    "alto": 643,
+    "que_es": "Bond en el anime, retrato.",
+    "para_que": "Rasgos de Bond: pajarita, patas negras.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/2/22/Bond_Forger_Manga_Infobox.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 379,
+    "alto": 504,
+    "que_es": "Bond en el manga, retrato.",
+    "para_que": "Línea del manga.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/2/28/Damian_talks_to_Donovan.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Damian habla con su padre, Donovan (anime).",
+    "para_que": "La tristeza de Damian (§C: quiere que su padre lo mire).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/8/89/Damian_gets_a_high_score_on_his_History_midterm.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Damian saca nota alta en Historia (anime).",
+    "para_que": "Damian orgulloso.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/5a/Damian_is_reprimanded_by_Henry.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Henderson regaña a Damian (anime).",
+    "para_que": "Damian regañado.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/c/c8/Damian_blocks_the_ball.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Damian para el balón (anime).",
+    "para_que": "Acción de Damian en el balón prisionero.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/17/Damian_and_friends_bullying_Anya.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Damian y sus amigos se burlan de Anya (anime).",
+    "para_que": "Dinámica Damian contra Anya.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/3/39/Damian%2C_Ewen%2C_and_Emile_go_on_an_expedition.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 700,
+    "alto": 680,
+    "que_es": "Damian, Ewen y Emile de expedición (color).",
+    "para_que": "Damian con sus secuaces.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/3/3c/Episode_6-6.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Episodio 6, fotograma 6 (Becky).",
+    "para_que": "Becky en el ep. 6, el de la cara «Heh».",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/d/d7/Becky_accepts_the_keychain.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Becky acepta el llavero (anime).",
+    "para_que": "El llavero a juego con Anya (§C).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/6/66/Becky_shows_off_her_paper_Loid_model.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Becky presume su maqueta de papel de Loid (anime).",
+    "para_que": "Becky enamorada de Loid.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/5/5d/Becky%27s_Rewards_Anime.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Las recompensas de Becky (anime).",
+    "para_que": "Becky rica y dramática.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/2/23/Yor_trains_Becky.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor entrena a Becky (anime).",
+    "para_que": "Dinámica Yor y Becky.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/d/d4/Becky_and_Damian_demand_the_macaron_set_from_George.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Becky y Damian exigen los macarons a George (anime).",
+    "para_que": "Grupo de Eden.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/3/3a/Becky_teases_the_other_kids.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1748,
+    "alto": 864,
+    "que_es": "Becky se burla de otros niños (anime).",
+    "para_que": "Becky altiva al llegar a Eden.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/3/30/Loid_saves_Ken_and_Anya.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Loid salva a Ken y a Anya (anime).",
+    "para_que": "Loid protector.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/e/ee/Disguised_Loid_saves_Anya_from_Edgar.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Loid disfrazado salva a Anya de Edgar (anime).",
+    "para_que": "Disfraz de Loid.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/a/a9/Billy_attempts_to_remove_Anya_from_the_bus.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Billy intenta sacar a Anya del autobús (anime).",
+    "para_que": "Arco del autobús (§H.2).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/1/19/Becky_is_scared_when_Anya_whacks_on_her_bomb.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Becky se asusta cuando Anya golpea su broche de bomba (anime).",
+    "para_que": "El broche de bomba de Becky (§C).",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/b/be/Yor_kicks_aquarium_terrorist.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor patea a un terrorista del acuario (anime).",
+    "para_que": "Sólo para el guiño de «Dato raro»: no es el tono de la lámina.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/4/48/Yor_imagines_killing_Zachry_Feiss.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Yor imagina matar a Zachry Feiss (anime).",
+    "para_que": "Sólo «Dato raro»; tono oscuro, no para la lámina principal.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/a/a3/Loid_vs._Aaron.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Loid contra Aaron (anime).",
+    "para_que": "Acción; no para el tono principal.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spy-x-family9171/images/d/df/Bond_knocks_out_a_scientist.png",
+    "fuente": "Spy x Family Wiki (Fandom), imagen de la galería del personaje",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Bond noquea a un científico (anime).",
+    "para_que": "Pasado de Bond en el Proyecto Apple.",
+    "licencia": "© Tatsuya Endo / Shueisha / SPY×FAMILY Production Committee. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Westalis_and_Ostania_map_from_Spy_%C3%97_Family_overlaid_on_West_and_East_Germany_map.jpg",
+    "fuente": "Wikimedia Commons (vía Openverse)",
+    "ancho": 1513,
+    "alto": 2047,
+    "que_es": "Mapa de Westalis y Ostania sobre el de la RFA y la RDA, por Lizerlig.",
+    "para_que": "§5.2 y §H.1: el mundo es la Alemania de la Guerra Fría; fondo de mapa para una lámina 2.",
+    "licencia": "CC BY-SA 4.0, autor Lizerlig"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/jx/wallhaven-jxqjv5.png",
+    "fuente": "Wallhaven (wallhaven.cc), origen declarado: DeviantArt de cr1one",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de fan: Yor Forger junto a Chun-Li, crossover Street Fighter 6 x Spy x Family CODE: White",
+    "para_que": "Punto 16 (fondo de pantalla de fans en alta) y 23 (conecta con la colaboración oficial real de Street Fighter 6)",
+    "licencia": "Fan art (Deviantart cr1one); sólo como referencia, crédito al autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/x8/wallhaven-x8gkvz.jpg",
+    "fuente": "Wallhaven, origen declarado: ArtStation de joaohfs16",
+    "ancho": 3840,
+    "alto": 2156,
+    "que_es": "Fondo de pantalla de fan en muy alta resolución: Yor Forger con flor en el pelo, vestido negro",
+    "para_que": "Punto 16 (fondo de pantalla de fans en alta, con autor y origen)",
+    "licencia": "Fan art (ArtStation joaohfs16); sólo como referencia, crédito al autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/we/wallhaven-wemdqr.jpg",
+    "fuente": "Wallhaven, subido por jrmnt, ilustración de Nixeu",
+    "ancho": 4200,
+    "alto": 2585,
+    "que_es": "Fondo de pantalla de fan de Yor Forger por el ilustrador profesional Nixeu",
+    "para_que": "Punto 16 (fondo de pantalla de fans en alta calidad artística)",
+    "licencia": "Fan art (Nixeu); sólo como referencia, crédito al autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/85/wallhaven-853yj2.jpg",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 6800,
+    "alto": 3824,
+    "que_es": "Fondo de pantalla de fan: Anya sentada, estilo Anya Taylor-Joy (el más grande).",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por Zains; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/o5/wallhaven-o53v3m.jpg",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla de fan: Yor, fan art de FrAg MenT.",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por Avispon217; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/8o/wallhaven-8omkpo.jpg",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 3600,
+    "alto": 2144,
+    "que_es": "Fondo de pantalla de fan: Yor, fan art (origen Pixiv 97882990).",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por Zains; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/rd/wallhaven-rd1v61.jpg",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 2539,
+    "alto": 1300,
+    "que_es": "Fondo de pantalla de fan: Yor, Anya y Loid juntos, fan art.",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por stepbro; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/57/wallhaven-57vw73.jpg",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 3360,
+    "alto": 1440,
+    "que_es": "Fondo de pantalla de fan: Yor y Anya, fan art.",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por Kisarashi; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/y8/wallhaven-y8oewl.jpg",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 3000,
+    "alto": 1662,
+    "que_es": "Fondo de pantalla de fan: Yor y Anya mirando al espectador, fan art.",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por Zains; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/kx/wallhaven-kx9o61.jpg",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 2626,
+    "alto": 4096,
+    "que_es": "Fondo de pantalla de fan: Yor en una escalera, fan art vertical.",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por Zains; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/m9/wallhaven-m9kx6m.png",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de fan: Yor de espaldas con vestido negro, fan art.",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por zooli55; © su autor"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/rr/wallhaven-rr77y1.jpg",
+    "fuente": "Wallhaven (API: tamaño real del archivo)",
+    "ancho": 4000,
+    "alto": 6221,
+    "que_es": "Fondo de pantalla de fan: Yor, fan art de Gwan-E (vertical, muy alto).",
+    "para_que": "§17: fondos en alta; luz y color de fans, sólo como contraste.",
+    "licencia": "subido por Avispon217; © su autor"
+  },
+  {
+    "url": "https://safebooru.org/images/4175/d8a04410a6288b7d54453fba2753deb2e543f1cd.jpg",
+    "fuente": "Safebooru (origen: spy_x_family) (https://twitter.com/spyfamily_anime/status/1656826531631738880)",
+    "ancho": 1200,
+    "alto": 1200,
+    "que_es": "Ilustración publicada por la cuenta oficial del anime (@spyfamily_anime) de anya_(spy_x_family).",
+    "para_que": "Pose y expresión de anya_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3836/cdb417c9e3b3facbc2862cdbca414287591d0aab.jpg",
+    "fuente": "Safebooru (origen: https://twitter.com/spyfamily_anime/status/1525400531052613632)",
+    "ancho": 960,
+    "alto": 1280,
+    "que_es": "Ilustración publicada por la cuenta oficial del anime (@spyfamily_anime) de yor_briar.",
+    "para_que": "Pose y expresión de yor_briar fuera del anime; sólo mirar.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4196/c7d2d8dc391b62ae48af5e72f442d9c29b34c339.png",
+    "fuente": "Safebooru (origen: https://twitter.com/_tatsuyaendo_/status/1650355183241801728)",
+    "ancho": 1080,
+    "alto": 1080,
+    "que_es": "Ilustración publicada por la cuenta oficial de Tatsuya Endo de damian_desmond.",
+    "para_que": "Pose y expresión de damian_desmond fuera del anime; sólo mirar.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4031/05237a8a3e63d2eda6df5ea2a3c9d81d3d6a09b7.jpg",
+    "fuente": "Safebooru (origen: spy_x_family) (https://twitter.com/khyleri/status/1595447090632527874)",
+    "ancho": 2100,
+    "alto": 3000,
+    "que_es": "Fan art de anya_(spy_x_family).",
+    "para_que": "Pose y expresión de anya_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4254/91a6f4870040a61acf3dd083c6e38ec1bf24f105.png",
+    "fuente": "Safebooru (origen: spy_x_family) (https://reshanims.tumblr.com/post/714376654591541248)",
+    "ancho": 1275,
+    "alto": 1650,
+    "que_es": "Fan art de anya_(spy_x_family).",
+    "para_que": "Pose y expresión de anya_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4203/87f503c6563c3b2aa4329bc957c5142a6627d722.jpg",
+    "fuente": "Safebooru (origen: spy_x_family) (https://twitter.com/tomata_y/status/1518955385020837889)",
+    "ancho": 1240,
+    "alto": 1754,
+    "que_es": "Fan art de anya_(spy_x_family).",
+    "para_que": "Pose y expresión de anya_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4215/0e4cdd7bfe43987e99aae3a8e94051de15d152de.jpg",
+    "fuente": "Safebooru (origen: spy_x_family) (https://twitter.com/asgykk/status/1638002970045599745)",
+    "ancho": 2380,
+    "alto": 2400,
+    "que_es": "Fan art de anya_(spy_x_family).",
+    "para_que": "Pose y expresión de anya_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4221/54f22bb61e2114bde6dbe9ae3eae8becbce81f01.jpg",
+    "fuente": "Safebooru (origen: spy_x_family) (https://twitter.com/koichame/status/1640881593886842884)",
+    "ancho": 1100,
+    "alto": 1500,
+    "que_es": "Fan art de anya_(spy_x_family).",
+    "para_que": "Pose y expresión de anya_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4139/e4edc49fe0f30e16e534b57fa09d381b2d2ab0d6.jpg",
+    "fuente": "Safebooru (origen: https://spyfamily-ex.com/)",
+    "ancho": 1460,
+    "alto": 1032,
+    "que_es": "Fan art de yor_briar.",
+    "para_que": "Pose y expresión de yor_briar fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4193/b9a04889db87d9a5e06281c3406d8307bc17caf2.jpg",
+    "fuente": "Safebooru (origen: https://i.pximg.net/img-original/img/2022/05/26/09/36/46/98609382_p0.jpg)",
+    "ancho": 4093,
+    "alto": 2894,
+    "que_es": "Fan art de yor_briar.",
+    "para_que": "Pose y expresión de yor_briar fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4150/d43000561b223b99facbacb13e62a10d294d0c1d.jpg",
+    "fuente": "Safebooru (origen: spy_x_family) (https://twitter.com/khyleri/status/1649442879348314112)",
+    "ancho": 2400,
+    "alto": 3000,
+    "que_es": "Fan art de bond_(spy_x_family).",
+    "para_que": "Pose y expresión de bond_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4170/6bf54901f232e86fcc2ff91f10f735828eeb923e.jpg",
+    "fuente": "Safebooru (origen: spy_x_family) (https://twitter.com/koichame/status/1542530901334278146)",
+    "ancho": 1061,
+    "alto": 1500,
+    "que_es": "Fan art de bond_(spy_x_family).",
+    "para_que": "Pose y expresión de bond_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3996/cd170a5f9c8cf67608c70bfc975cdf61e1c2b7f7.jpg",
+    "fuente": "Safebooru (origen: spy_x_family) (https://twitter.com/khyleri/status/1582763512899964929)",
+    "ancho": 2100,
+    "alto": 3000,
+    "que_es": "Fan art de bond_(spy_x_family).",
+    "para_que": "Pose y expresión de bond_(spy_x_family) fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4131/75b71d83804b61cd5abd2919b0d97a040a1464d7.jpg",
+    "fuente": "Safebooru (origen: https://i.pximg.net/img-original/img/2022/09/04/22/35/10/101001047_p6.jpg)",
+    "ancho": 988,
+    "alto": 700,
+    "que_es": "Fan art de damian_desmond.",
+    "para_que": "Pose y expresión de damian_desmond fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4130/cf87f79f494240d5efb7156321cd245fbbd1892f.jpg",
+    "fuente": "Safebooru (origen: https://i.pximg.net/img-original/img/2023/01/08/22/22/29/104355759_p13.jpg)",
+    "ancho": 700,
+    "alto": 988,
+    "que_es": "Fan art de damian_desmond.",
+    "para_que": "Pose y expresión de damian_desmond fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3821/588f7133b42aa061f236e33e2f934bd4e93e4d03.jpg",
+    "fuente": "Safebooru (origen: https://twitter.com/_Ren_Noble/status/1517680936321957888)",
+    "ancho": 2080,
+    "alto": 3000,
+    "que_es": "Fan art de damian_desmond.",
+    "para_que": "Pose y expresión de damian_desmond fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4219/c7de4f9bafdfbf281337eaab69fd464c56713bb0.jpg",
+    "fuente": "Safebooru (origen: https://twitter.com/asgykk/status/1632211525036560384)",
+    "ancho": 2300,
+    "alto": 2788,
+    "que_es": "Fan art de becky_blackbell.",
+    "para_que": "Pose y expresión de becky_blackbell fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4003/d032a773e79575bfbad34bb6e1645b78ff53eb55.jpg",
+    "fuente": "Safebooru (origen: https://i.pximg.net/img-original/img/2022/05/16/11/59/49/98384866_p0.jpg)",
+    "ancho": 748,
+    "alto": 1093,
+    "que_es": "Fan art de becky_blackbell.",
+    "para_que": "Pose y expresión de becky_blackbell fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4061/1c1f45d521019ce1b9022fafe460caf45f30db03.jpg",
+    "fuente": "Safebooru (origen: https://i.pximg.net/img-original/img/2022/11/26/23/35/29/103122992_p0.jpg)",
+    "ancho": 4093,
+    "alto": 3946,
+    "que_es": "Fan art de becky_blackbell.",
+    "para_que": "Pose y expresión de becky_blackbell fuera del anime; sólo mirar.",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306732895_25bbf1f16b_b.jpg",
+    "fuente": "Openverse / Flickr, fotógrafo esby.photo, festival Luciole Éteinte (Lyon, Francia)",
+    "ancho": 769,
+    "alto": 1024,
+    "que_es": "Foto real de cosplay de Yor Forger, de pie con la falda del vestido en movimiento, mostrando el volumen real de la tela",
+    "para_que": "Punto 23 (cosplay bien hecho: materiales y volumen reales, no plano); referencia de cómo cae el vestido negro con movimiento",
+    "licencia": "CC BY-NC-SA 2.0 (comprobado en la página de Flickr); crédito a esby.photo, uso no comercial"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52305476777_88d04c6a9a_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 682,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52305473717_903ffa4ae1_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 682,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306718889_5126999e25_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 769,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306664798_81c4e9b810_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 769,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306664523_253e47ac31_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 769,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306731275_7c476076ed_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 769,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52305479927_c77cf0af62_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 769,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52305477212_6fef254d56_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 769,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306663733_8fbce25273_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 1024,
+    "alto": 769,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306732395_61dd6a0277_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 1024,
+    "alto": 769,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306716914_0ddfbb294a_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 769,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306731015_074fbd6f98_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 1024,
+    "alto": 769,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306715814_b0b6ca1e98_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 682,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306199376_29074a78e4_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 682,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306728795_dc545c47c8_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 1024,
+    "alto": 682,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306716424_3835aafb29_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 682,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52305477772_ebc5a2a17c_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 1024,
+    "alto": 769,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/52306728440_52aac287a0_b.jpg",
+    "fuente": "Flickr (vía Openverse)",
+    "ancho": 682,
+    "alto": 1024,
+    "que_es": "Cosplay real de Yor (Thorn Princess) por esby.photo, festival Luciole Éteinte, Lyon.",
+    "para_que": "§F.5: volumen y caída real de la tela del vestido.",
+    "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3068520/ss_665027001661820b7e35bbe636db68d0000497b6.1920x1080.jpg",
+    "fuente": "Steam (API)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Taiko no Tatsujin: Rhythm Festival, pack de SPY×FAMILY.",
+    "para_que": "§13: interfaz de un juego con la serie.",
+    "licencia": "© Bandai Namco / Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato oficial de Anya (ficha de AniList).",
+    "para_que": "Cara de frente, colores; pequeño.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato oficial de Loid (ficha de AniList).",
+    "para_que": "Cara de frente, colores; pequeño.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato oficial de Yor (ficha de AniList).",
+    "para_que": "Cara de frente, colores; pequeño.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato oficial de Bond (ficha de AniList).",
+    "para_que": "Cara de frente, colores; pequeño.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150424-4B4psF6I4dgO.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato oficial de Damian (ficha de AniList).",
+    "para_que": "Cara de frente, colores; pequeño.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150423-RxXwrHzeLCss.jpg",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 346,
+    "que_es": "Retrato oficial de Becky (ficha de AniList).",
+    "para_que": "Cara de frente, colores; pequeño.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140960-Z7xSvkRxHKfj.jpg",
+    "fuente": "AniList",
+    "ancho": 1900,
+    "alto": 400,
+    "que_es": "Banner oficial del anime (AniList).",
+    "para_que": "Composición horizontal de la familia.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+    "fuente": "AniList",
+    "ancho": 460,
+    "alto": 650,
+    "que_es": "Portada oficial del anime (AniList).",
+    "para_que": "Key visual pequeño.",
+    "licencia": "© Tatsuya Endo / Shueisha; sólo referencia"
+  }
 ]

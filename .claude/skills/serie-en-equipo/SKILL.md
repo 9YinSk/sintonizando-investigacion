@@ -102,4 +102,5 @@ tokens del aviso de fin). Vuelve al paso 1.
 
 Frases cortas, sólo al terminar cada serie o si algo se atasca: serie,
 completa o no, personaje más querido, cuadro de diálogo, 3 láminas, costo
-medido y avisos. Todo guardado y subido antes de contestar.
+medido y avisos. Las biblias son generales, no sólo para Discord: un choque de canal
+entre series no es un aviso que decidir, sólo una nota de una línea. Todo guardado y subido antes de contestar.

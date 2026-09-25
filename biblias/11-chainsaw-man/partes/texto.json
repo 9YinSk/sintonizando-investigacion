@@ -1,0 +1,200 @@
+[
+  {
+    "url": "https://cgworld.jp/article/202303-chainsawman1.html",
+    "fuente": "CGWORLD (revista técnica japonesa)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo 1/4 del making-of del CG del anime: modelado (3ds Max, ZBrush, Substance 3D Painter, Pencil+ 4, KM-3D Cloth Deform).",
+    "para_que": "Punto 18: software y pipeline 3D real de MAPPA, para traducirlo a Blender.",
+    "licencia": "Texto y capturas © CGWORLD/MAPPA; se usa como fuente, no se copian imágenes."
+  },
+  {
+    "url": "https://cgworld.jp/article/202303-chainsawman3.html",
+    "fuente": "CGWORLD (revista técnica japonesa)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo 3/4 del making-of: fotografía/compositing (After Effects, Magic Bullet Looks, PSOFT CelFX, grading de Teppei Itō).",
+    "para_que": "Punto 18: cómo se logra el color apagado y el aire de cámara real; guía para Photoshop.",
+    "licencia": "Texto y capturas © CGWORLD/MAPPA; se usa como fuente, no se copian imágenes."
+  },
+  {
+    "url": "https://www.animeherald.com/2023/06/03/how-the-chainsaw-man-anime-adaptation-grounded-itself-in-filmic-realism/",
+    "fuente": "Anime Herald (cita a Kevin Cirugeda / Sakuga Blog)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis de cámara y composición: homenajes a Tarantino, Ozu, POV en primera persona, planos generales tras las peleas.",
+    "para_que": "Punto 18: encuadres y composición típicos, con ejemplos por episodio.",
+    "licencia": "Texto © Anime Herald; se usa como fuente."
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/feature/2022-11-18/the-chainsaw-man-anime-style-feels-off/.191720",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis crítico del estilo visual del anime frente al manga.",
+    "para_que": "Punto 18: contraste entre línea/sombreado del manga y el acabado del anime.",
+    "licencia": "Texto © ANN; se usa como fuente."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chainsaw_Man",
+    "fuente": "Wikipedia (inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo general: mundo (demonios, contratos, híbridos), sagas e influencias citadas por Fujimoto (Dorohedoro, JJK, FLCL, Abara, El gran Lebowski, Kizumonogatari).",
+    "para_que": "Puntos 24 y 25: segunda fuente para el mundo, y lista de influencias del autor.",
+    "licencia": "Texto CC BY-SA de Wikipedia."
+  },
+  {
+    "url": "https://chainsaw-man.fandom.com/wiki/Public_Safety_Saga",
+    "fuente": "Chainsaw Man Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la Parte 1 (Saga de Seguridad Pública): resumen de la trama y los 8 arcos con capítulos.",
+    "para_que": "Punto 25: historia por arcos, con capítulo exacto de cada uno.",
+    "licencia": "Texto CC BY-SA de Fandom; imágenes © Fujimoto/Shueisha."
+  },
+  {
+    "url": "https://chainsaw-man.fandom.com/wiki/Academy_Saga",
+    "fuente": "Chainsaw Man Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la Parte 2 (Saga de la Academia): resumen de la trama y los 6 arcos con capítulos, hasta el final de la serie.",
+    "para_que": "Punto 25: historia por arcos de la 2.ª parte.",
+    "licencia": "Texto CC BY-SA de Fandom; imágenes © Fujimoto/Shueisha."
+  },
+  {
+    "url": "https://chainsaw-man.fandom.com/wiki/Devil",
+    "fuente": "Chainsaw Man Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del concepto «Demonio»: origen en el miedo colectivo, relación entre el nombre/concepto y el poder.",
+    "para_que": "Punto 25: regla 1 y 2 del mundo en 5 líneas.",
+    "licencia": "Texto CC BY-SA de Fandom."
+  },
+  {
+    "url": "https://chainsaw-man.fandom.com/wiki/Contract",
+    "fuente": "Chainsaw Man Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del concepto «Contrato» entre demonio y humano.",
+    "para_que": "Punto 25: regla del mundo sobre los contratos.",
+    "licencia": "Texto CC BY-SA de Fandom."
+  },
+  {
+    "url": "https://chainsaw-man.fandom.com/wiki/Fiend",
+    "fuente": "Chainsaw Man Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del concepto «Endemoniado» (Fiend/Majin), demonio que ocupa un cadáver.",
+    "para_que": "Punto 25: vocabulario propio y regla del mundo.",
+    "licencia": "Texto CC BY-SA de Fandom."
+  },
+  {
+    "url": "https://chainsaw-man.fandom.com/wiki/Devil_Hunter",
+    "fuente": "Chainsaw Man Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de los Cazadores de Demonios: Seguridad Pública vs. Sector Privado, marco legal.",
+    "para_que": "Punto 25: regla del mundo sobre quién puede cazar demonios.",
+    "licencia": "Texto CC BY-SA de Fandom."
+  },
+  {
+    "url": "https://chainsaw-man.fandom.com/wiki/Four_Horsemen",
+    "fuente": "Chainsaw Man Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de los Cuatro Jinetes: Control (Makima/Nayuta), Guerra (Yoru), Hambruna (Fami), Muerte.",
+    "para_que": "Punto 25: emblema/símbolo de los demonios más poderosos y vocabulario propio.",
+    "licencia": "Texto CC BY-SA de Fandom."
+  },
+  {
+    "url": "https://www.cbr.com/chainsaw-man-public-safety-commission-explained/",
+    "fuente": "CBR",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Explicación de la Comisión/División de Seguridad Pública y su uniforme (traje negro resistente al fuego).",
+    "para_que": "Punto 25: objeto/uniforme icónico de los Cazadores de Demonios.",
+    "licencia": "Texto © CBR; se usa como fuente."
+  },
+  {
+    "url": "https://www.cbr.com/devliman-chainsaw-man-anime/",
+    "fuente": "CBR",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la influencia de Devilman (Go Nagai) en Chainsaw Man.",
+    "para_que": "Punto 24: comparación crítica con obra parecida/influencia.",
+    "licencia": "Texto © CBR; se usa como fuente."
+  },
+  {
+    "url": "https://www.seizethepress.com/2024/02/10/rip-and-tear-stp9/",
+    "fuente": "Seize the Press",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ensayo crítico sobre identidad y temporalidad en Chainsaw Man, con comparación a Devilman y otras obras.",
+    "para_que": "Punto 24: segunda fuente de la comparación con Devilman.",
+    "licencia": "Texto © Seize the Press; se usa como fuente."
+  },
+  {
+    "url": "https://www.slashfilm.com/2020861/chainsaw-man-the-movie-reze-arc-romance-before-sunrise-inspiration/",
+    "fuente": "SlashFilm",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la influencia de Before Sunrise (Linklater) y Jin-Roh en la película Arco de Reze.",
+    "para_que": "Punto 24: influencias directas citadas por el staff/autor.",
+    "licencia": "Texto © SlashFilm; se usa como fuente."
+  },
+  {
+    "url": "https://realsound.jp/book/2023/01/post-1229201.html",
+    "fuente": "Real Sound (japonés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis en japonés de cómo el «cine» es la palabra clave para entender la obra de Fujimoto.",
+    "para_que": "Punto 24: fuente en japonés sobre las influencias cinéfilas del autor.",
+    "licencia": "Texto © Real Sound; se usa como fuente."
+  },
+  {
+    "url": "https://epicstream.com/article/things-that-inspired-chainsaw-man-creator-tatsuki-fujimoto",
+    "fuente": "EpicStream",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de 6 cosas que inspiraron a Fujimoto (incluye Sharknado, Winnie the Pooh, FLCL, Jin-Roh).",
+    "para_que": "Punto 24: influencias variadas y curiosas del autor, en inglés.",
+    "licencia": "Texto © EpicStream; se usa como fuente."
+  },
+  {
+    "url": "https://chainsaw-man.fandom.com/wiki/Denji",
+    "fuente": "Chainsaw Man Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Denji: confirma el cordón en el pecho que activa la transformación en Chainsaw Man.",
+    "para_que": "Punto 25: objeto icónico (el cordón/cremallera).",
+    "licencia": "Texto CC BY-SA de Fandom; imágenes © Fujimoto/Shueisha."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-bdd7c53adfc54033b47fb8e3f60545b1",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D fan-made «Denji (Chainsaw-Man) (Yes Rigged bone)», ya con esqueleto/rig.",
+    "para_que": "Punto 18: rig libre de partida para posar a Denji en Blender, en vez de modelar desde cero.",
+    "licencia": "CC Attribution (CC-BY), según la API de Sketchfab; verificar en la página y dar crédito al autor. Personaje © Fujimoto/Shueisha."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-55234e1109bc40819168fadbf5869fca",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D fan-made «Denji (Chainsaw Man)», alternativa sin confirmar si trae rig.",
+    "para_que": "Punto 18: segunda opción de modelo libre de Denji.",
+    "licencia": "CC Attribution (CC-BY), según la API de Sketchfab; verificar en la página. Personaje © Fujimoto/Shueisha."
+  },
+  {
+    "url": "https://vsbattles.fandom.com/wiki/Special_Division_4",
+    "fuente": "VS Battles Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la Tokyo Special Division 4 (nombre completo de la unidad de Makima).",
+    "para_que": "Punto 25: nombre exacto de la organización, para el vocabulario propio.",
+    "licencia": "Texto CC BY-SA de Fandom."
+  }
+]
