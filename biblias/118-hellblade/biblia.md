@@ -907,3 +907,489 @@ y las dos Wikipedias. Extras en Steam: la *VR Edition*
   alegres: su ropa es cuero, piel y tela vieja (§Punto 15).
 - **Hacerla reír o celebrar**: no pasa en ningún material revisado.
 
+## Punto 13 · Los personajes a fondo
+
+### 13.1 Senua · la protagonista (y la más querida)
+**Quién es**: guerrera picta de las Orcadas. Pelo castaño oscuro, ojos azul
+claro, piel clara con cicatrices finas; delgada y fuerte ✅
+([wiki, Senua](https://thehellblade.fandom.com/wiki/Senua)). La interpreta y le
+pone voz **Melina Juergens**: era editora de vídeo en Ninja Theory, hizo la
+prueba de captura «para probar la tecnología» y se quedó el papel ✅.
+
+- **Carácter**: reservada, retraída, «mansa» al principio por años de
+  aislamiento y maltrato. Terca y decidida pese al pánico. Saca la espada en
+  cuanto la amenazan. Con la Oscuridad muestra rabia ✅ (wiki, Personality).
+  En el 2 gana **empatía**: siente el dolor de la gente que encuentra.
+- **Historia**: su padre, **Zynbel**, druida fanático, **quemó viva a su
+  madre** Galena por tener «la misma maldición» y maltrató a Senua durante
+  años. Aprendió a luchar mirando a **Dillion**. Los Northmen mataron a su
+  pueblo y sacrificaron a Dillion ✅ (wiki, Wikipedia).
+- **Miedos**: perder a quien ama; ser «el monstruo» que decía su padre; que su
+  psicosis dañe a los demás.
+- **Qué le importa**: la verdad de Druth y el recuerdo de su madre, que le
+  pedía mirar el mundo «con ojos brillantes».
+- **Qué transmite**: angustia contenida que se vuelve **determinación**. No da
+  alivio cómico nunca. Reseñas: «piercing intensity», «legitimately
+  affected» ✅ (parte de voz).
+- **Arco**: de creer que su psicosis es una maldición que hay que ocultar (1)
+  a usarla como herramienta y ser «faro de esperanza» para otros (2). Momento
+  clave del 1: el puente de Helheim, sin nada más que dar, y aun así en pie.
+  Del 2: «I know you» ante Illtauga.
+
+**Cómo se expresa**
+- **Tono**: habla poco, frases cortas y graves, declarativas. Nunca bromea.
+  Las preguntas retóricas las hacen las Furias, no ella.
+- **Cómo se ríe**: **no se ríe** en ningún material revisado (búsqueda de
+  «laugh», «smile», «joke» en su ficha). La única «sonrisa» del tráiler es un
+  delirio ([0:33](https://www.dailymotion.com/video/x5v5lz0?t=33)).
+- **Cómo se enfada**: grita con los dientes apretados; jadea en combate.
+  Pelea «más por instinto de supervivencia que por técnica elegante» (wiki).
+- **Cómo explica algo**: en frases declarativas cortas.
+- **Cómo saluda**: no saluda. A los vivos (Ástríðr, Fargrímr, Thórgestr) los
+  aborda directa, seria y cautelosa; con los muertos habla en su cabeza.
+- **Con quién discute**: con la Sombra, todo el tiempo; a ratos con sus
+  propias Furias, para que la dejen en paz (wiki).
+- **Quién la hace reír**: nadie. Ni Dillion, la relación más cálida.
+- **Su voz medida** (`voz.py`, tráiler de HB2): 208 Hz de media, **muy
+  expresiva** (30,1 semitonos), **lenta** (1,89 palabras/s) ⚠️ los Hz son
+  orientativos por la música de fondo.
+- **Método**: para el 2, Juergens viajó a Islandia, entrenó esgrima y artes
+  marciales y pasaba **ocho horas** en maquillaje antes de grabar ✅
+  (Wikipedia del 2).
+
+**Su cara en cada emoción** (fotograma y minuto)
+| Emoción | Dónde | Cómo es |
+|---|---|---|
+| Serenidad (lo más cercano a la alegría) | tráiler HB1 [0:29](https://www.dailymotion.com/video/x5v5lz0?t=29) | cara limpia, tocado dorado, boca relajada, casi una sonrisa: una visión |
+| «Sonrisa» de delirio | tráiler HB1 [0:33](https://www.dailymotion.com/video/x5v5lz0?t=33) | sonrisa ancha y fija con la pintura; no encaja: inquieta |
+| Rabia | tráiler HB1 [1:17](https://www.dailymotion.com/video/x5v5lz0?t=77) | de rodillas, grita con los dientes apretados, piedra en la mano, pintura con sangre |
+| Miedo | tráiler HB1 [1:31](https://www.dailymotion.com/video/x5v5lz0?t=91); HB2 [1:44](https://www.dailymotion.com/video/x8qciu2?t=104) | ojos muy abiertos, boca entreabierta; en el 2, llorando, cara sucia y mojada |
+| Determinación | tráiler HB2 [0:27](https://www.dailymotion.com/video/x8qciu2?t=27) | perfil muy cerrado, ceño, mirada al frente |
+| Tristeza y agotamiento | tráiler HB2 [1:56](https://www.dailymotion.com/video/x8qciu2?t=116) | mira abajo, hombros caídos, luz fría |
+| Dolor extremo | tráiler HB2 [1:45](https://www.dailymotion.com/video/x8qciu2?t=105) | ojos cerrados con fuerza, grito mudo, una mano ajena en la cara |
+| Vergüenza | ⚠️ **no encontrada** | los tráileres son de acción; haría falta una escena de historia |
+
+### 13.2 Los secundarios
+- **Druth** (Nicholas Boulton): antiguo esclavo irlandés, se llamaba
+  **Findan** antes de escapar. Mentor y **narrador**: cuenta los mitos
+  nórdicos de las piedras rúnicas. Muere antes del viaje y sigue como
+  recuerdo. Se llama a sí mismo y a Senua ***geilt*** (irlandés: enloquecido
+  por el terror o la batalla). Lleva un gorro de cuero con una calavera
+  pequeña de animal y plumas ✅ ([wiki](https://thehellblade.fandom.com/wiki/Druth), Wikipedia).
+  **Transmite**: calma, sabiduría triste.
+- **Dillion** (Oliver Walker): su amor, el único que la vio más allá de su
+  enfermedad. Su cabeza cortada es lo que Senua carga en el 1 ✅.
+  **Transmite**: calor, pérdida.
+- **Zynbel / la Sombra** (Steven Hartley): el padre druida fanático. Tras
+  morir, es **la Sombra**, la voz más cruel, que la degrada todo el viaje ✅
+  ([wiki](https://thehellblade.fandom.com/wiki/Zynbel)). Voz procesada, rápida
+  (3,57 palabras/s) y amenazante.
+- **Galena** (Ellie Piercy ⚠️): la madre. También tenía psicosis, pero la vivía
+  como **un don**. Zynbel la quemó.
+- **El Narrador** (Chipo Chung ⚠️): la voz que rompe la cuarta pared y **te
+  habla a ti**. Susurro pausado, casi de nana: 117 Hz, muy expresiva,
+  **1,26 palabras/s** (`voz.py`).
+- **Las Furias** (Abbi Greenland y Helen Goalen): el coro. En pánico, rápidas
+  (**3,5 palabras/s**), se pisan y se contradicen: unas animan, otras se
+  burlan ✅ ([wiki, Psychosis](https://thehellblade.fandom.com/wiki/Psychosis)).
+  No hay lista oficial de cuántas son ni sus nombres ⚠️.
+- **Hela**: diosa de los muertos; piel gris agrietada, media cara rota
+  (`personajes_01` n.º 11-13). Al final toma la cara de Galena.
+- **Valravn** (dios de la ilusión, cuervo y hombre) y **Surtr** (gigante de
+  fuego): los guardianes del 1 ✅.
+- **Ástríðr** (Aldís Amah Hamilton ⚠️): líder guerrera de Bárðarvík (HB2);
+  pañuelo rojo en sus retratos (`personajes_01` n.º 6, 8, 17, 18).
+- **Fargrímr** (Guðmundur Thorvaldsson ⚠️): guía espiritual y líder en
+  Borgarvirki; cree que Senua es vidente (`fondos_01` n.º 75).
+- **Thórgestr**: el esclavista al que Senua captura; su padre, **Goði**, es el
+  último gigante. Abre la narración de «los Otros».
+- **Illtauga** (antes **Ingunn**): giganta; una madre que dejó a su bebé en las
+  cuevas del Huldufólk y a la que la rabia transformó ✅
+  ([Game Rant](https://gamerant.com/hellblade-2-giant-lore-explained-illtauga-sjavarrisi-tyrant/)).
+
+### 13.3 Dinámicas (para láminas en grupo)
+- **Senua y las Furias**: nunca está sola; la presión le viene de los lados.
+- **Senua y la Sombra**: el choque de siempre; ella le planta cara.
+- **Senua y Druth**: él cuenta, ella escucha. La pareja de la «narración».
+- **Senua y Dillion**: el recuerdo cálido, en luz dorada.
+- **Senua y Ástríðr, Fargrímr, Thórgestr** (HB2): ya no pelea sola; lidera
+  (fondo oficial «Senua's Army»).
+
+## Punto 14 · Poses analizadas
+
+De la parte de vídeo: 10 fotogramas propios; los 6 primeros en **1920×1080**
+del tráiler de Steam, los otros de Dailymotion. Los minutos de Dailymotion
+están corregidos por el redactor (§3). El tono es sombrío de principio a fin:
+**no hay pose de celebrar ni de animar alegre**; se da la más cercana.
+
+| # | Fuente y minuto | Postura, manos, mirada, gesto | Sirve para |
+|---|---|---|---|
+| 1 | tráiler HB1 (Steam) 0:29 · [Dailymotion](https://www.dailymotion.com/video/x5v5lz0?t=29) | de frente, brazos fuera de plano, mirada baja y fija, boca cerrada, cejas tensas | **presentar** |
+| 2 | tráiler HB1 (Steam) 1:22 · [Dailymotion](https://www.dailymotion.com/video/x5v5lz0?t=81) | dos manos en la empuñadura de una espada azul, cuerpo de perfil, mirada de reojo | **explicar** o mostrar un poder |
+| 3 | tráiler HB1 (Steam) 1:34 · [Dailymotion](https://www.dailymotion.com/video/x5v5lz0?t=94) | torso girado, un brazo empuja al enemigo, mirada fija en él | **regañar** o enfrentarse |
+| 4 | tráiler HB1 (Steam) 1:45 · [Dailymotion](https://www.dailymotion.com/video/x5v5lz0?t=105) | de pie, brazos sueltos algo separados, cabeza baja, camina hacia la luz | **pensar**, aceptar |
+| 5 | tráiler HB2 (Steam) 0:10 · [Dailymotion](https://www.dailymotion.com/video/x8qciu2?t=7) | de espaldas, una mano sube al pelo, piernas firmes en la roca, mira el mar | **animar** (mirar adelante pese al temporal), explorar |
+| 6 | tráiler HB2 (Steam) 0:52 · [Dailymotion](https://www.dailymotion.com/video/x8qciu2?t=52) | camina de espaldas, brazos caídos con sangre, cabeza hacia la calavera | avanzar con cautela, **advertir** |
+| 7 | tráiler HB2 [0:38](https://www.dailymotion.com/video/x8qciu2?t=38) | asoma tras una empalizada, ojos muy abiertos, boca entreabierta | **avisar** de un peligro |
+| 8 | tráiler HB2 [1:45](https://www.dailymotion.com/video/x8qciu2?t=105) | una mano ajena en la cara, ojos cerrados con fuerza, grito mudo | dolor extremo (no usar en láminas de canal) |
+| 9 | Ragnarok Trailer [0:22](https://www.dailymotion.com/video/x5pbur7?t=22) | primer plano gritando, cejas juntas, pintura azul corrida | **regañar**, rabia |
+| 10 | tráiler HB1 (Steam) ~1:21 · [Dailymotion](https://www.dailymotion.com/video/x5v5lz0?t=81) | brazo estirado, **mano abierta hacia una esfera de luz azul**, cuerpo inclinado | **explicar** o señalar un objeto |
+
+**Patrón de manos** (parte de vídeo): en combate y poder, al menos una mano
+**cerrada con fuerza**; en el miedo, las manos no son suyas o cuelgan; en lo
+contemplativo, brazos sueltos. **Mano cerrada = determinación; mano suelta =
+duelo o aceptación.**
+
+**Más poses en las hojas**: `personajes_01` n.º 39 (Gramr en alto con luz
+dorada: **celebrar** un logro, lo más cercano), n.º 25 (silueta en una puerta
+ante montañas: **presentar un lugar**), n.º 29 (en el puente), `fondos_01`
+n.º 76 (Gramr reforjada en alto) y `arte_01` n.º 2 (al frente de un grupo:
+**liderar**).
+
+**Qué pose para qué**
+| Para… | Pose |
+|---|---|
+| Presentar | 1, o `arte_01` n.º 8 (mira arriba) |
+| Explicar | 10 (mano abierta hacia la luz) o 2 |
+| Celebrar | no existe: `personajes_01` n.º 39 o `fondos_01` n.º 76 (espada en alto) |
+| Regañar | 3 o 9 |
+| Pensar | 4, o «Senua Fire» (`arte_01` n.º 4) |
+| Animar | 5 (de espaldas, mirando adelante) o «Senua's Army» (`arte_01` n.º 2) |
+
+## Punto 15 · Vestuario, con hex medidos
+
+### 15.1 *Senua's Sacrifice* (2017), el traje que todos reconocen
+- **Pintura *woad* azul**, fuerte alrededor de los ojos, en el **brazo
+  izquierdo**, las clavículas y el **labio inferior** (una raya baja hasta la
+  barbilla). Es picta: «pictos» viene de Eumenio, 297 d.C., «el pueblo
+  pintado» ✅ ([wiki](https://thehellblade.fandom.com/wiki/Senua)).
+- La pintura **se hizo a mano de verdad**: pintaron patrones en papel, los
+  escanearon y se los pusieron; por eso hay marcas de dedos ✅
+  ([Heavenly Nariko](https://heavenlynariko.wordpress.com/2017/04/10/revealing-the-finer-details-of-hellblades-mysterious-heroine/)).
+- **Pelo**: castaño oscuro, **coleta alta**, trenzas y rastas **untadas con
+  cal**, con cuentas ✅.
+- **Tocado**: cuero con un gran adorno de plata con **piedras azules** al frente
+  y **triskeles** cosidos a los lados. El equipo lo pensó como **protección
+  psicológica** contra las voces ✅. En la visión dorada (0:29) el tocado se ve
+  dorado con gemas turquesa.
+- **Ropa**: cuero y tela a cuadros; pechera trabajada; **brazos al aire**;
+  **cuello de piel de lobo** cerrado con un **broche de plata** de tríadas ✅.
+- **Cinturón**: la espada a la izquierda, una bolsa con la cabeza de Dillion y
+  el **espejo de hierro** ✅.
+- Durante el juego la pintura **se lava** y la **Corrupción** le sube del brazo
+  hacia el cuello ✅. Con **Focus** desbloqueado: armadura de piezas de cuero
+  en pecho y hombros con anillas y una tira de tela en el antebrazo derecho ✅.
+- **Referencias**: `arte_01` n.º 8 y 15; captura
+  [`dabe17…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_dabe173084173e66bc9d493d94f2b3b951214658.1920x1080.jpg).
+
+### 15.2 *Hellblade II* (2024)
+- Más pesada, cansada y brutal: **ojeras**, cicatrices, suciedad siempre ✅
+  (wiki).
+- La pintura **ya no es azul**: más oscura y agresiva en ojos y mejillas; a la
+  luz del fuego lee **rojiza**. En «Senua's Army» y «Senua Chant»: **rayas
+  rojas verticales** y la **boca y la barbilla pintadas de negro** (visto en
+  `arte_01` n.º 2 y 3) ✅.
+- **Pelo** en trenzas celta-nórdicas, casi siempre mojado ✅.
+- Chaleco de cuero, telas viejas, pieles y adornos tribales; barro, sangre y
+  hollín ✅. En la cadera, un **disco** (naranja a la luz de la lava, captura
+  `a900f2…`).
+- Aro de hueso o plata en la cabeza en «Senua Chant» y «Senua's Army» ⚠️
+  (lectura de la parte de imagen).
+
+### 15.3 Hex medidos (`estilo.py`, parte de imagen)
+| Qué | Hex | De dónde |
+|---|---|---|
+| Pintura *woad* (HB1) | **`#29394A`**, brillos `#314252` | recorte de la frente del retrato oficial `vm8gql` (3840×2160) ✅ medido dos veces |
+| Portada del 1 | fondo `#060404` (47,7 %), piel y luz `#CDC1B8` | [portada](https://static.wikia.nocookie.net/hellblade-nt/images/7/75/Hellblade_1_cover.png) ✅ |
+| Key art del 2 | `#040609` y `#0C1017` (74 % juntos): casi monocromo azul-negro | [key art](https://static.wikia.nocookie.net/hellblade-nt/images/d/d7/Hellblade_II.jpg) ✅ |
+| Brillo del espejo (Focus) | `#0E6D79`, `#61AAB9` sobre `#0B0505` | `Full charge.png` ✅ |
+| Piel y pintura a la luz del fuego (HB2) | `#24170A`, `#3C2410`, `#9A5D32` | «Senua Chant» 8K ✅ |
+| Silueta dorada (HB1) | `#A2741D`, `#CEA74F`, `#F8F4E8` | captura `1b5947…` ✅ |
+
+### 15.4 Guía oficial de cosplay (2016)
+Ninja Theory publicó una **guía de cosplay de Senua** con el modelo **de frente
+y de espaldas**, la espada y el espejo ✅
+([Steam News](https://store.steampowered.com/news/app/414340/view/4546903098693967625),
+Facebook oficial).
+
+## Punto 16 · Paisajes y fondos de pantalla
+
+- **La hora y la luz**: casi nunca sol limpio. Niebla de mañana en la costa,
+  noche azul en los bosques, **atardecer** en Reykjanesta, contraluz dorado en
+  las visiones, fuego de noche (§Punto 4).
+- **Fondos oficiales en alta**: los 6 de 8K (§1.2); «Volcano», «Arms» y
+  «Skulls» **no llevan personaje**: fondos listos. Y las capturas de Steam de
+  paisaje: lago al amanecer (`b794c2…`), valle nocturno (`10c82e…`),
+  desfiladero dorado (`1428e5…`), orilla con postes (`e028a2…`).
+- **Sitios de la wiki en 1920×1080** (`personajes_01` n.º 19-22, 26-27, 36,
+  41-47): Bardarvik, Freyslaug, Helheim, Jarnvior, Raudholar, Borgarvirki,
+  Reykjanesta, Midgard.
+- **Fondos de fans** (Wallhaven; tamaños **re-medidos** con Pillow por la
+  parte de imagen):
+  - 3508×2105 · ♥135 · guerrera sobre paisaje · monxef · [imagen](https://w.wallhaven.cc/full/k9/wallhaven-k9olx7.jpg) ✅
+  - 3840×2160 · ♥61 · mirando a lo lejos · Highwind · [imagen](https://w.wallhaven.cc/full/76/wallhaven-76jyq3.jpg) ✅
+  - 1920×1080 · ♥59 · paisaje · aminagha · [imagen](https://w.wallhaven.cc/full/g7/wallhaven-g7l8me.png) ✅
+  - 3840×2160 · ♥55 · el retrato oficial · [imagen](https://w.wallhaven.cc/full/vm/wallhaven-vm8gql.jpg) ✅
+  - Otras 11 (hasta 4100×1850, ultrapanorámica con Fenrir de Highwind) en
+    `referencias.json`, con el tamaño que dio Wallhaven ⚠️ sin re-medir.
+
+## Punto 17 · Guía para generar con IA (imagen y texto)
+
+Lo escribe el redactor con todo lo anterior. Sirve para Firefly, Canva o
+cualquier IA de imagen, y para una IA de texto. **La IA sólo propone**: lo
+final se corrige a mano con las referencias reales.
+
+### 17.1 El estilo en palabras
+- **No es dibujo**: es **3D fotorrealista** en tiempo real (Unreal Engine),
+  con captura de la cara de una actriz real. **Sin contorno**, sin sombreado
+  plano, sin *cel shading*.
+- **Parece cine**: cámara pegada a la cara o al hombro, planos casi continuos,
+  grano fino, algo de aberración cromática y distorsión de lente (son ajustes
+  reales del juego, §Punto 11).
+- **Luz**: niebla que desatura (7-26 %), **un único acento** de fuego naranja
+  o azul eléctrico, contraluces. Brillo bajo en el miedo (8-18 %).
+- **Materia**: piel con poros, barro, sangre seca, pintura agrietada con
+  marcas de dedos, cuero gastado, piel de lobo, roca volcánica mojada.
+
+### 17.2 Rasgos que nunca cambian (si falta uno, ya no es Senua)
+**Senua de *Hellblade* (2017)**
+1. Mujer joven delgada y fuerte, piel clara, **ojos azul claro**, cicatrices
+   finas.
+2. **Pintura *woad* azul oscura `#29394A`** en una franja ancha a la altura de
+   los ojos, **una raya del labio inferior a la barbilla**, el brazo izquierdo
+   y las clavículas. Agrietada, hecha a dedo.
+3. Pelo **castaño oscuro** en **coleta alta** de rastas y trenzas con cal y
+   cuentas.
+4. **Tocado** de cuero con adorno de plata y **piedra turquesa** en la frente.
+5. **Cuello de piel de lobo** gris y marrón; brazos al aire.
+6. En la cadera, el **espejo de hierro** redondo con espiral triple; espada a
+   la izquierda.
+
+**Senua de *Hellblade II* (2024)**
+1. La misma cara, **más cansada**: ojeras, suciedad, pelo **mojado en trenzas**.
+2. Pintura **oscura o rojiza**: rayas verticales rojas y **boca y barbilla
+   negras**.
+3. **Chaleco de cuero** gastado, sin el gran cuello de lobo; barro y hollín.
+
+**Paleta** (hex medidos, §Punto 4 y 15): `#29394A` pintura · `#CDC1B8` piel
+iluminada · `#060404` fondo · `#8D99AE` niebla de bosque · `#556E8A` atardecer
+frío · `#9A5D32` luz de fuego · `#61AAB9` brillo del espejo · `#FCA82F`
+llama viva.
+
+### 17.3 Descripciones listas (en inglés, que las IA entienden mejor)
+1. **Senua, retrato del 1**: `photorealistic close-up portrait of a young
+   Pictish warrior woman, pale blue eyes, dark blue woad war paint in a wide
+   band across the eyes and a single stripe from lower lip to chin, cracked
+   hand-applied paint texture, high ponytail of lime-coated dreadlocks with
+   beads, leather headdress with silver ornament and a turquoise stone, grey
+   wolf fur collar, bare shoulders, light scars, overcast foggy light, dark
+   background, cinematic 35mm, shallow depth of field, subtle film grain,
+   Unreal Engine realism`.
+2. **Senua del 2, de espaldas**: `back view of a tired Celtic warrior woman
+   with wet dark braids and a worn leather vest, standing on black volcanic
+   rocks facing a misty grey sea, shipwreck debris on the shore, 9th-century
+   Iceland, desaturated palette, soft veiled sun, volumetric fog,
+   photogrammetry realism`.
+3. **Fondo de Helheim**: `misty bone-white wasteland, dead trees with hanging
+   offerings, stormy violet sky, Norse underworld, heavy fog, muted colors,
+   one warm fire accent, no people`.
+4. **La piedra rúnica** (concepto A): `ancient standing stone totem in a
+   foggy dark forest, a ring of carved Elder Futhark runes around a glowing
+   central rune, some runes red, cold blue night light, moss, wet stone,
+   photorealistic`.
+5. **El espejo de hierro** (concepto B): `round polished iron hand mirror with
+   engraved Celtic triple spiral (triskelion), leather strap, hanging from a
+   worn leather belt, glowing faint turquoise, firelight, dark background,
+   macro photo`.
+
+### 17.4 Palabras que ayudan y palabras que lo estropean
+- **Ayudan**: *photorealistic, cinematic, overcast, fog, volumetric light,
+  film grain, woad war paint, Pictish, Celtic, triskelion, wolf fur collar,
+  lime-coated dreadlocks, worn leather, mud, black volcanic rock, Iceland,
+  Norse underworld, close-up, over-the-shoulder*. Del vocabulario de
+  Danbooru (parte de imagen): `facepaint, war_paint, celtic, long_hair,
+  ponytail, fur_collar, headdress, holding_sword, fighting_stance,
+  bags_under_eyes`.
+- **Estropean**: *anime, manga, cel shading, cartoon, chibi, outline, bright
+  colors, pastel, fantasy armor, bikini armor, sexy, glamour, clean skin,
+  horned helmet, Viking helmet* (en Senua), *runes on her skin* (lo picto no
+  lleva runas), *possessed, demonic, glowing eyes, horror monster, smiling
+  happily*, y *blue skin* (la pintura es una franja, no toda la cara).
+- **Cómo se nota que es IA** (corregir a mano): pintura simétrica y limpia;
+  tocado de fantasía con cuernos o alas; ojos marrones; pelo suelto y
+  sedoso; el espejo con runas; manos con dedos de más en la espada.
+
+### 17.5 Qué imágenes usar de referencia
+| Para | Imagen |
+|---|---|
+| **Estilo y cara del 1** | `arte_01` n.º 15 ([retrato oficial](https://w.wallhaven.cc/full/vm/wallhaven-vm8gql.jpg)) y n.º 8 ([`dabe17…`](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_dabe173084173e66bc9d493d94f2b3b951214658.1920x1080.jpg)) |
+| **Estilo del 2** | `arte_01` n.º 2 y 3 (8K), `personajes_01` n.º 1 |
+| **Luz cálida** | `arte_01` n.º 7 y 4 |
+| **Pose de presentar** | §Punto 14, pose 1 |
+| **Pose de explicar** | pose 10 (mano hacia la luz) |
+| **Pose de liderar** | «Senua's Army» |
+| **Objeto: espejo** | `fondos_01` n.º 71 y 80 |
+| **Objeto: piedra rúnica** | `personajes_01` n.º 48 |
+| **Fondo sin personaje** | «Volcano», «Arms», «Skulls» 8K |
+
+### 17.6 Para una IA de texto: cómo escribir en su voz
+**Reglas de cada voz**
+- **Senua**: frases **cortas y graves**, en presente, declarativas. **Sin
+  bromas, sin exclamaciones alegres, sin preguntas retóricas.** Cuando se
+  rompe, **ruega** con frases de tres o cuatro palabras seguidas («I beg you.
+  Let him go.»).
+- **Las Furias**: **imperativos repetidos** y el nombre de Senua («Climb,
+  Senua. Climb. Climb.»); **hablan de ella en tercera persona** («She's hurt.
+  So tired.»); se pisan y se contradicen; preguntas («Do you hear it?»).
+- **El Narrador**: **habla contigo**, lento, casi de nana; pausas con puntos
+  suspensivos («Hello, who are you? ...It doesn't matter.»).
+- **La Sombra**: amenaza en primera persona, frases largas y crueles con la
+  muerte al final («...when you draw your last dying gasp.»).
+- **Druth**: cuenta mitos, juega con las palabras («Druth is my Truth.»).
+- **Puntuación**: puntos, muchos; puntos suspensivos para la voz que se
+  apaga; **casi nunca** signos de exclamación (sólo en acusaciones: «This is
+  your fault. You brought this plague to us!»). **Sin onomatopeyas escritas.**
+- **Cómo exagera las emociones**: no subiendo el tono con signos, sino
+  **repitiendo** y **acortando**.
+
+**Frases reales, por emoción** (textuales, §Punto 8; en inglés porque no hay
+doblaje)
+| Emoción | Frase | Quién |
+|---|---|---|
+| Acogedora (lo más cercano a «alegre») | «Hello, who are you? ...It doesn't matter. Welcome. You are safe with me.» | Narrador |
+| Enfadado | «I am your shadow. And I will be watching when you draw your last dying gasp.» · «This is your fault. You brought this plague to us!» | la Sombra · subtítulo de la wiki |
+| Explicando | «Druth is my Truth.» · «I've dreamt of this. This place of fear and fury.» | Druth · Senua |
+| Animando (con urgencia) | «Climb, Senua. Climb. Climb.» | Furias |
+| Triste | «You took him from me. I beg you. Let him go. […] Just give him back.» · «I know you.» | Senua |
+| Cruel | «You fought for love and spoilt by your darkness within… now there is no way to win…» | subtítulo de la wiki |
+| Solemne | «This now will be your story to witness.» | subtítulo de la wiki |
+
+- ⚠️ **No hay frases alegres de verdad**: el juego no las tiene. Para un
+  texto de lámina, usar el tono **acogedor** del Narrador o el **decidido** de
+  Senua.
+- **Cómo pasarlo al español** (propuesta del redactor, no oficial): «Hola.
+  ¿Quién eres? No importa. Bienvenido. Aquí estás a salvo.» · «Sube, Senua.
+  Sube. Sube.» · «Te conozco.»
+- **Palabras de la serie**: las Furias, la Oscuridad, la Sombra, Helheim,
+  Hela, los Northmen, *geilt*, Focus, piedra rúnica, Gramr, el espejo de
+  hierro.
+
+**Vocabulario de gestos para la IA de imagen** (no hay *chibi*, gotas de
+sudor ni fondos de emoción: es realista)
+- **Miedo**: *eyes wide open, mouth slightly open, dirty wet face, looking up*.
+- **Rabia**: *clenched teeth, scream, furrowed brows, smeared war paint*.
+- **Determinación**: *tight profile close-up, furrowed brow, gaze forward*.
+- **Tristeza**: *looking down, slumped shoulders, cold light*.
+- **Las voces**: se sugieren con **desenfoque en los bordes**, siluetas o
+  manos borrosas en primer plano (captura `067bf5…`), nunca con fantasmas.
+- **La Corrupción**: *dark organic veins creeping up the right arm*, sin
+  sangre de película.
+
+## Punto 18 · Estilo y técnica, y cómo replicarlo
+
+**No hay línea ni animación a mano**: es render 3D fotorrealista en tiempo
+real. Lo que se copia es la **captura** y el **tratamiento de cine**.
+
+### 18.1 Cómo lo hizo el estudio
+- **Captura en tiempo real** (2016): **3Lateral** (escaneo y rig de la cara),
+  **Cubic Motion** (sigue **más de 200 puntos** de la cara a **más de 90 fps**),
+  **Xsens** (cuerpo) e **IKinema** ✅
+  ([fxguide](https://www.fxguide.com/fxfeatured/epic-face-work-with-ninja-theory/),
+  [Engadget](https://www.engadget.com/2017-08-08-ninja-theory-hellblade-motion-capture-demo-video.html)).
+- **275 milisegundos** de retraso entre la actriz y la pantalla; cámara Point
+  Grey de 1288×964 en un casco; Juergens hizo **más de 100 poses FACS** para
+  el escaneo ✅ (fxguide).
+- Premio a **mejores gráficos en tiempo real en SIGGRAPH 2016**: una escena
+  grabada y montada a calidad final en minutos ✅
+  ([Inverse](https://www.inverse.com/article/19744-hellblade-real-time-custscenes-explained)).
+- **Unos 20 desarrolladores** durante tres años (frente a unos 90 en *DmC*);
+  estudio de captura en la sala de juntas, con **postes de cámara de IKEA y
+  luces de unas 40 libras**; un escáner portátil para texturas ✅
+  ([PCGamesN](https://www.pcgamesn.com/hellblade-senuas-sacrifice/hellblade-unreal-engine-4)).
+- En el making of se ve a **un artista dibujando a Senua en una Wacom**
+  ([0:38](https://www.dailymotion.com/video/x5pbur7?t=38)) ✅ visto.
+- **HB2** en **Unreal Engine 5**: Lumen (luz global), Nanite (detalle masivo),
+  Virtual Shadow Maps; caras con **MetaHuman Animator** y **Ziva** (músculo y
+  piel) ✅ ([TechAcute](https://techacute.com/motion-capture-senuas-saga-hellblade-ii-video/),
+  Wikipedia).
+- **Fotogrametría** de Islandia: más de 370 escaneos, drones, rocas reales ✅
+  (§Punto 4).
+
+### 18.2 Encuadres y composición
+- La cámara va **pegada a Senua**, al hombro, y **gira a su alrededor como si
+  fueras una de sus voces** ✅
+  ([The Fourth Focus](https://www.thefourthfocus.com/post/hellblade-photo-mode-review),
+  [TheGamer](https://www.thegamer.com/hellblade-continuous-camera-god-of-war/)).
+- **Plano casi continuo**, con cortes escondidos (como *La soga* de
+  Hitchcock). La cámara **no se aparta** de la amenaza: cuando un gigante sale
+  del suelo, se queda en él, sin plano de reacción ✅ (TheGamer).
+- **Por emoción**: primerísimos planos (ojos, grietas de la pintura) para las
+  voces y lo íntimo; planos abiertos y quietos del paisaje para la soledad y
+  la escala ⚠️ (observación de las capturas).
+- Mucho **de espaldas**: Senua mirando el mar, el lago, el sendero (§Punto 14).
+
+### 18.3 Cómo reproducirlo en Photoshop
+- Partir de **una foto real** de paisaje islandés o escocés (*photobashing*),
+  no de un dibujo.
+- Niebla en capas con **degradado y desenfoque**; bajar la saturación general
+  al 10-25 %; un solo acento cálido o azul con modo **Superponer**.
+- Grano fino (Ruido 2-3 %), una **aberración cromática** leve en los bordes,
+  viñeta.
+- La pintura de guerra: pincel de textura grunge
+  ([24 Free Grunge Brushes](https://myphotoshopbrushes.com/brushes/id/3536/),
+  gratis ⚠️) en `#29394A`, modo **Multiplicar**, siguiendo las arrugas.
+- La Corrupción: venas oscuras y humo con **máscara de degradado**, nunca un
+  contorno duro.
+
+### 18.4 Cómo reproducirlo en Blender
+- **Sin *toon shader*** ni Line Art/Freestyle: no hay contorno.
+- Piel: **Principled BSDF** con *subsurface scattering*; Corrupción: textura
+  procedural oscura animada sobre el brazo.
+- Rocas y suelo: **fotogrametría** (Poly Haven o las texturas CC0 de
+  ambientCG del §Punto 4) con *displacement*; nunca un patrón repetido.
+- Niebla: **Volume Scatter** en el mundo o un cubo de volumen; luz de área
+  grande y fría detrás (contraluz) y un punto de luz naranja cercano (fuego).
+- Personaje: los **modelos CC BY de Sketchfab** (§Punto 3), con el crédito.
+- Render en **Cycles**, profundidad de campo corta, grano en composición.
+
+## Punto 19 · Texturas 2D
+
+**No hay tramas de manga** (no es manga): el punto se adapta a pintura,
+cuero, piedra y emblemas.
+
+- **Pintura *woad* agrietada**: en el retrato oficial se ve pintura cuarteada
+  con el relieve de la piel debajo y brillos sueltos. Pinceles:
+  [24 Free Grunge Brushes](https://myphotoshopbrushes.com/brushes/id/3536/)
+  (uso comercial libre, sin crédito) ⚠️ licencia declarada por la web.
+- **Triskel / nudo picto-celta** (tocado, broche, espejo): SVG **CC0** en
+  FreeSVG: [Pattern Triskelion](https://freesvg.org/pattern-triskelion) y
+  [Triskelion, an ancient motif](https://freesvg.org/triskelion-an-ancient-motif) ✅.
+- **Cuero** CC0: [Leather037](https://ambientcg.com/a/Leather037) ⚠️.
+- **Roca y suelo** CC0: Rock064, Ground111 (§Punto 4).
+- **Emblemas oficiales**: el **logo rúnico de HB2** (`fondos_01` n.º 82) y el
+  logo del 1; sirven como sello tallado en madera o piedra ✅.
+- **Las marcas de Valravn y Surtr**: sellos de la wiki,
+  [Valravn](https://static.wikia.nocookie.net/hellblade-nt/images/1/13/Mark_of_Valravn.png)
+  (164×189) y [Surtr](https://static.wikia.nocookie.net/hellblade-nt/images/2/2d/Mark_of_Surtr.png)
+  (70×100) ✅.
+- **Runas de fondo** del retrato oficial: texto rúnico color óxido sobre negro,
+  recortable como capa; para escribirlas, **Noto Sans Runic** ⚠️.
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+**No hay *databook*** oficial: ni cumpleaños, ni comida favorita, ni altura.
+Es un juego narrativo realista, no una ficha de anime ✅ (buscado; sólo existe
+un «Game Handbook» de terceros, no oficial;
+[Steam](https://steamcommunity.com/app/414340/discussions/0/3048356660238876040/)).
+Lo que sí hay, de la wiki y Wikipedia:
+
+| Personaje | Lo que siempre lleva | Lo que ama | Lo que odia o teme | Cómo se ve a sí mismo |
+|---|---|---|---|---|
+| **Senua** | la cabeza de Dillion (1), el **espejo de hierro**, la espada | a Dillion; el recuerdo de su madre; la verdad de Druth | ser «el monstruo» de su padre; que su psicosis dañe a otros | al principio, **maldita**; al final del 1, alguien que vive con ello; en el 2, «**faro de esperanza**», la creen **vidente** |
+| **Druth** | gorro de cuero con calavera pequeña y plumas | los mitos nórdicos, contar historias | la esclavitud (fue esclavo) | un ***geilt***, «como un pájaro» |
+| **Zynbel** | — | sus dioses; el control | la «oscuridad» (la psicosis) en su familia | un salvador; en realidad, un fanático |
+| **Galena** | — | su hija | — | vivía su psicosis **como un don** |
+| **Dillion** | — | Senua, más allá de su enfermedad | — | — |
+
+- ⚠️ Altura, cumpleaños y comida de nadie: **no publicados**.
+
