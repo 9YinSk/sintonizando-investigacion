@@ -1,10 +1,12 @@
 # Lote C: repasos 19-30
 
-Sesión: https://claude.ai/code/session_013xa9LevYk3W3Dk4tmJzsjh · rama `claude/ecstatic-bardeen-wwjh43`
-Cuenta: cuenta A109
+Sesión: https://claude.ai/code/session_014kHvkuj7AE2HPhXMJdNTCn · rama `claude/wizardly-brahmagupta-7oy3pp`
+Cuenta: cuenta A105
 
-Lo lleva desde las 03:16 UTC del 25 (juntada con todas las ramas a las 03:10, sin choques).
-Antes: sesión https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV (rama
+Lo lleva desde las 07:05 UTC del 25 (juntadas todas las ramas a las 07:04; choque sólo con
+`claude/cool-galileo-vpncap`, en archivos del lote D, que no se juntó).
+Antes: sesión https://claude.ai/code/session_013xa9LevYk3W3Dk4tmJzsjh (rama
+`claude/ecstatic-bardeen-wwjh43`, cuenta .109, desde las 03:16 hasta las 03:36 del 25), sesión https://claude.ai/code/session_01EZ7MFsW25Y7werqrTRzCEV (rama
 `claude/trusting-davinci-274hb9`, hasta las 22:59 del 24) y la central,
 https://claude.ai/code/session_01RJL7rbu6HGiYoChtxomcbb (rama `claude/lote-a-series-inxhbf`),
 que lo tomó a las 02:45 y se quedó sin saldo enseguida: no subió nada más después de las 02:43.
