@@ -391,6 +391,53 @@ postales, listas), es esto:
 
 ### Punto 12 — Lo que el fandom ama; qué NO hacer
 
+**Lo que ama (con hilos y comentarios reales de r/DaysGone, arctic-shift API, ya localizados en
+`datos-voz.md` + comentarios leídos ahora)**:
+- **El «bromance» Deacon-Boozer** es lo más citado con cariño: «Heterosexual life partners, for sure», «Hands
+  down best bromance in videogames», «Si no fuera por Sarah, habría asumido que Deacon y Boozer eran pareja».
+  ✅ _reddit.com/r/DaysGone/comments/1bythh7/_ (comentarios).
+- **Muletillas y frases de combate que se volvieron memes** dentro del propio fandom (bocadillos que sueltan
+  los NPC constantemente durante el juego, citados de memoria por los fans en un hilo llamado justamente «Deek
+  most iconic quotes»): «Nothing beats scrap…», «Fuel can…», «Nice, headshot», y la broma de que Deacon dice
+  «less Freaks» cuando debería ser «fewer» (un fan «gramático» lo corrige mentalmente cada partida). ✅
+  _reddit.com/r/DaysGone/comments/15bzlns/_
+- **El running gag de Carlos y Lil Jon**: en un hilo sobre la trama de los Rippers, un fan pregunta «¿alguna
+  vez se explica por qué Carlos está tan obsesionado con Lil Jon? No paraba de decirme "get low"» — es un
+  chiste interno que los fans reconocen al instante. ⚠️ un comentario, pero consistente con el personaje de
+  Carlos en la wiki (relacionado con la MC, jerga hip-hop). _reddit.com/r/DaysGone/comments/1m5omfy/_
+- **«Radio Free Oregon» (las emisiones de Copeland)** genera cariño Y hartazgo a partes iguales — visto en el
+  punto 7/13: hay quien dice que «casi siempre tiene razón sobre el mundo del juego» y quien creó el mod «Shut
+  Up Cope» en Nexus Mods para silenciarlo del todo. Cualquiera de las dos reacciones es «auténtica» del
+  fandom; una lámina que cite mal su discurso (como si sólo fuera un villano tonto) chocaría con los fans que
+  SÍ lo disfrutan. ✅ (mod + comentarios de Reddit coinciden en que divide opiniones).
+- **El anillo de boda de Deacon** (Mongrel ring): varios fans preguntan por foros de Etsy dónde comprar una
+  réplica exacta — el accesorio más «cosplay-able» del protagonista. ⚠️ un hilo, pero es indicativo fuerte:
+  hay demanda real de mercancía basada en ese objeto. _reddit.com/r/DaysGone/comments/nbjjt9/_
+- **La trama de los Rippers** (culto de moteros automutilados) es, con diferencia, el arco narrativo más
+  citado con cariño: el hilo «debería haber durado todo el juego» tiene 917 votos, el más votado de todo
+  r/DaysGone entre los que se buscaron para esta ficha. ✅ _reddit.com/r/DaysGone/comments/1m5omfy/_
+- **La boda de Deacon y Sarah** y el detalle de que Deacon la celebra vistiendo igualmente su «cut» (colores
+  de los Mongrels) en vez de un traje convencional: «Deacon still wearing the cut during their wedding is
+  iconic» (10 votos, pero es justo el tipo de detalle de vestuario que un fan reconoce al instante). ⚠️ un
+  hilo. _reddit.com/r/DaysGone/comments/1ge34pb/_
+
+**Qué NO hacer (quejas reales, para no «sonar falso» según pide `ENCARGO.md`)**:
+- **No presentar la muerte de Boozer como sacrificio heroico sin más**: en el final, Boozer parece morir
+  salvando a Deacon, pero resulta ser un «fake out» (aparece vivo poco después, sin que se explique bien cómo
+  escapó). Varios fans lo consideran una salida barata: «It cheapened the ending that the writers couldn't
+  commit to Boozer willingly sacrificing himself… the fake-out… no one saw me until I magically appeared».
+  Si una lámina usa esa escena como «Boozer se sacrifica», estaría repitiendo justo lo que el fandom ve como el
+  fallo de guion más comentado del juego. ✅ (varios comentarios coinciden) _reddit.com/r/DaysGone/comments/1bythh7/_
+- **No convertir a Copeland en un villano de cartón**: como se vio arriba, divide al fandom pero muchos lo
+  defienden con matices («casi siempre tiene razón»); presentarlo como un bufón sin más suena falso para media
+  comunidad.
+- **No dibujar a Deacon como un motero genérico sin su «cut» ni sus tatuajes**: son su seña de identidad más
+  citada (punto 13); una lámina sin el chaleco de los Mongrels o sin, al menos, el tatuaje del cuello con el
+  nombre de Sarah, perdería lo que el fandom reconoce a primera vista.
+- **No usar «¿Me entiendes, Méndez?» fuera de contexto**: es una broma de adaptación MUY específica del
+  doblaje latino (punto 8) — funciona sólo si se sabe que es un chiste de doblaje, no una frase genérica de
+  Deacon.
+
 ### Punto 21 — Por qué la gente la ama; escenas que emocionan
 
 ### Punto 22 — Fan dubs y comunidad hispana
