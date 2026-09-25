@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/199_
@@ -180,6 +180,41 @@ _Fuente: https://doblaje.fandom.com/es/wiki/El_viaje_de_Chihiro#Datos%20de%20int
 - Hasta la fecha no se han encontrado vídeos que muestren el doblaje producido por Buena Vista.
 - Por razones desconocidas, la transmisión de la película en el canal Discovery Kids no usó ninguno de los doblajes latinoamericanos, sino el doblaje ibérico el 2 de diciembre de 2017.
 - Jessica Ángeles y Bernardo Ezeta participaron en los dos doblajes mexicanos doblando a personajes diferentes.
+
+## Chihiro Ogino · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Chihiro_Ogino#Personality_
+
+Chihiro's growth from a timid child into a capable individual is a core factor in the movement of Spirited Away's plot. During her adventure in the Spirit World, she matures from someone who is easily scared to a hard-working, responsible, and brave young girl who has learned to put her fears aside for those she cares for. As the story progresses, the strength of her bond with Haku eventually evolves into a heartfelt form of love and friendship that dispels Yubaba and Zeniba's respective curses on Haku.
+
+## Haku · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Haku#Personality_
+
+Haku has multiple personalities. He can sometimes be kind-hearted and supportive, other times strict and high-strung. He is wise and is able to act accordingly to the situation. He is more than willing to stick his neck out when he cares about someone. From the beginning of the story, through to the end, he does everything within his power to keep Chihiro unharmed and to help her leave safely. His steadfast resolve helps Chihiro finally trust him, amidst contradictory information from other Spirited Away characters about him. Haku always said she could trust him. However, Lin, was not sure of Haku's true intentions and told Chihiro to not trust him. Yubaba's twin sister, Zeniba insisted that Haku is a greedy thief, who had stolen her golden seal. In the end, Chihiro puts her faith in Haku. Later on, it is revealed that Haku is Yubaba's slave, who controlled him with a black worm in his…
+
+## Haku · Abilities (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Haku#Abilities_
+
+As a river spirit, Haku possessed supernatural powers that are primarily associated with the element of water. Examples of powers he was shown to possess are: *Asian Dragon Physiology: Due to Haku being a Japanese river spirit, he has the power to take on the form of an Asian dragon, and was shown to be able to fly in this state. *Arcane Knowledge: Due to his status as a river spirit, as well as being Yubaba's apprentice, Haku possesses an extensive knowledge of magic and the spirit world, which he regularly used to keep Chihiro out of trouble and, ultimately, free her and her parents from the spirit world. *Flower Petal Manipulation (possibly): Though it was never specifically confirmed, it is possible that Haku has the ability to create, shape and manipulate flower petals - when trying to help Chihiro escape the spirit world during their first meeting, he blew petals from his…
+
+## Yubaba · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Yubaba#Personality_
+
+As the main villainess of the film, Yubaba has an extremely overbearing and intimidating personality. Like many other workers of her infamous bathhouse, Yubaba obsesses greedily over gold and is shown to be willing to view gold as a priority over her own family (especially Zeniba, whom she expresses hatred for). However, she shows a great amount of motherly care for her first and only son, Boh, and is seen completely devastated when the latter states that he "won't like [her] anymore" if she continues to treat Chihiro Ogino unfairly or like a slave towards the end of the film. She is quite selfish and frugal (when it comes to her workers), having given herself an opulent office with immeasurable amounts of unoccupied space and her many workers a single, cramped room as living space. From the other side, however, she also readily takes both disgusting and dangerous tasks herself (like…
+
+## Yubaba · Abilities (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Yubaba#Abilities_
+
+Yubaba is an extremely powerful witch whose magic could only be matched by that of her older twin sister, Zeniba. Yubaba is formidably skilled in manipulating supernatural energy that enabled her to alter the fabric of reality and defy the laws of nature. In fact, it would seem that she was notorious in the spirit world for her magical aptitude, for Haku (a powerful spirit in his own right) willingly entered her service to learn magic, and even after he was freed from her control, he was still unable to break her magical hold over Chihiro and her parents. Examples of abilities Yubaba derived from her magic are: * Transformation: Yubaba had the ability to manipulate reality to transform any object or being into something else - when Chihiro's parents greedily ate the food meant for the spirits, Yubaba punished them by transforming them into pigs, and it was shown that only she was able…
+
+## No-Face · Personality (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/No-Face#Personality_
+
+No-Face is a lonely spirit who begins to follow Chihiro Ogino after having developed an interest in her sincerity. His vocabulary consisted of grunts and moans as opposed to coherent words. Not knowing much about the Bathhouse or about other spirits in general, No-Face learned by example and adapted to his surroundings. Exposed to the corruptive thoughts and greed of the workers, he quickly grew to encompass their personalities, hoping that his endeavor to be like those around Chihiro would eventually garner her affection for him. While this ultimately brought upon the opposite effect, Chihiro was somewhat true to No-Face after she invited him and accepted help from him. No-Face becomes obsessed with Chihiro, and wants to see her and her only. He becomes extremely volatile after being fed the River Spirit's emetic dumpling by Chihiro, and while fleeing from the obviously now-hostile…
+
+## No-Face · Abilities (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/No-Face#Abilities_
+
+Mimicry: Whenever he eats a creature, he uses its voice and abilities. For example, after eating Aogaeru, he speaks with Aogaeru's voice and he starts to jump like a frog. He also takes on Aogaeru's personality. If he eats more creatures, he will speak with different voices simultaneously. Because of this ability and the fact he doesn't speak without eating someone, his gender is unclear. Alchemy: He can transform mud and dirt into objects like gold. Absorbing: He can eat anything, whether it's food or spirits. This may be an extension of his mimicry ability. Vomiting: He can vomit at distant targets at will, as he did so against Yubaba.
 
 ## Los personajes más dibujados por los fans (Danbooru, 1115 dibujos de «sen_to_chihiro_no_kamikakushi»)
 _Fuente: https://danbooru.donmai.us/posts?tags=sen_to_chihiro_no_kamikakushi_

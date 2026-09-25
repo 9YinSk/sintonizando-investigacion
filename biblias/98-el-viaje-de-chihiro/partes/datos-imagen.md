@@ -4,13 +4,93 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/199_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-sWefXJvXkDOb.jpg
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/199-Sm2RU5PSqw7T.jpg
+
+## Chihiro Ogino: las imágenes más grandes de la wiki (223 en total)
+_Fuente: https://ghibli.fandom.com/wiki/Chihiro_Ogino_
+
+- 5700×4477 · Spirited Away Image Album Tray.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/4/49/Spirited_Away_Image_Album_Tray.jpg
+- 3040×1643 · Miyazaki-Spirited Away 1 c1162-poster.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/e/e7/Miyazaki-Spirited_Away_1_c1162-poster.jpg
+- 2668×1500 · Chihiro 4k 2.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/e/ec/Chihiro_4k_2.jpg
+- 2594×1381 · Chihiro crying 5.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/88/Chihiro_crying_5.jpg
+- 2432×1248 · 5b831c03c15ac007aca49dc9e76b58ca.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/3/3f/5b831c03c15ac007aca49dc9e76b58ca.jpg
+- 2208×1242 · F4FA4F01-DD2B-4EFA-B42F-875624285467.png · https://static.wikia.nocookie.net/studio-ghibli/images/1/15/F4FA4F01-DD2B-4EFA-B42F-875624285467.png
+- 1600×1600 · Chihiro cel arts (2).jpg · https://static.wikia.nocookie.net/studio-ghibli/images/0/0f/Chihiro_cel_arts_%282%29.jpg
+- 1600×1600 · Chihiro cel arts (1).jpg · https://static.wikia.nocookie.net/studio-ghibli/images/2/20/Chihiro_cel_arts_%281%29.jpg
+- 2093×1179 · Spirited Away (011).jpg · https://static.wikia.nocookie.net/studio-ghibli/images/5/56/Spirited_Away_%28011%29.jpg
+- 2035×1125 · 6381CEE9-F7CB-4E78-9A40-24A4F50EA576.jpeg · https://static.wikia.nocookie.net/studio-ghibli/images/8/80/6381CEE9-F7CB-4E78-9A40-24A4F50EA576.jpeg
+
+## Chihiro Ogino · Appearance (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Chihiro_Ogino#Appearance_
+
+Chihiro is a ten-year-old girl with shoulder-length brown hair, usually tied up in a ponytail, slightly tanned skin, large eyes, and rosy cheeks. She is petite in stature. Her attire in the real world includes a white T-shirt with bright green stripes, bright red shorts, white socks, and yellow Velcro sneakers. While working in the bathhouse, she is barefoot and wears a coral-colored kariginu robe with a white hitoe underneath, short sashinuki pants, and a tasuki cord for tying her sleeves up. Later in the film she is given a sparkly purple hair tie.
+
+## Haku: las imágenes más grandes de la wiki (29 en total)
+_Fuente: https://ghibli.fandom.com/wiki/Haku_
+
+- 1920×1080 · Chihiro (10).jpg · https://static.wikia.nocookie.net/studio-ghibli/images/f/f3/Chihiro_%2810%29.jpg
+- 1672×1211 · Spirited Away MEMORIAL BOX Postcard 2.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/4/49/Spirited_Away_MEMORIAL_BOX_Postcard_2.jpg
+- 1920×1038 · Spirited-awaybr-disneyscreencaps.com-5863.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/f/f9/Spirited-awaybr-disneyscreencaps.com-5863.jpg
+- 1920×1038 · Spirited-awaybr-disneyscreencaps.com-5747.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/f/fe/Spirited-awaybr-disneyscreencaps.com-5747.jpg
+- 1920×1038 · Spirited-awaybr-disneyscreencaps.com-14179.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/d/d9/Spirited-awaybr-disneyscreencaps.com-14179.jpg
+- 1920×1038 · Spirited-awaybr-disneyscreencaps.com-13720.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/b/bc/Spirited-awaybr-disneyscreencaps.com-13720.jpg
+- 1920×1038 · Spirited-awaybr-disneyscreencaps.com-13435.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/9/97/Spirited-awaybr-disneyscreencaps.com-13435.jpg
+- 1920×1038 · Haku chihiro.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/5/53/Haku_chihiro.jpg
+- 1920×1038 · Chihiro haku.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/1/15/Chihiro_haku.jpg
+- 1920×1038 · Chihiro crying 1.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/2/26/Chihiro_crying_1.jpg
+
+## Haku · Appearance (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/Haku#Appearance_
+
+=== Human Form === In his human form, Haku appears to be a 12 year old boy with androgynous features. He has olive-green shoulder-length hair in a bob cut with blunt bangs on his forehead and slanted, green eyes. When he is human, Haku wears a traditional white robe that resembles closely a Kariginu tied with a lavender sash, a short traditional indigo dyed Sashinuki (a type of kuribakama) underneath, and beige sandals. A darker blue Hitoe can be seen from the sides and shoulders of the robes. === Dragon Form === When he transforms into his dragon form, he has a teal and mint green mane, with a white, scaled body.
+
+## Yubaba: las imágenes más grandes de la wiki (23 en total)
+_Fuente: https://ghibli.fandom.com/wiki/Yubaba_
+
+- 2010×1086 · Spirited Away - workers pulling plug out of spirit.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/a/a9/Spirited_Away_-_workers_pulling_plug_out_of_spirit.jpg
+- 1920×1038 · Zipping chihiro.webp · https://static.wikia.nocookie.net/studio-ghibli/images/4/40/Zipping_chihiro.webp
+- 1920×1038 · Yubaba laughing.webp · https://static.wikia.nocookie.net/studio-ghibli/images/4/41/Yubaba_laughing.webp
+- 1920×1038 · Smoking.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/1/13/Smoking.jpg
+- 1920×1038 · It;s a bathouse for the spirits.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/c/ca/It%3Bs_a_bathouse_for_the_spirits.jpg
+- 1920×1038 · First apperance.webp · https://static.wikia.nocookie.net/studio-ghibli/images/1/16/First_apperance.webp
+- 1280×694 · Yubaba staring.jpeg · https://static.wikia.nocookie.net/studio-ghibli/images/a/ab/Yubaba_staring.jpeg
+- 1280×694 · Yubaba and hand on skull.jpeg · https://static.wikia.nocookie.net/studio-ghibli/images/d/dc/Yubaba_and_hand_on_skull.jpeg
+- 1280×688 · Yubaba (2).png · https://static.wikia.nocookie.net/studio-ghibli/images/4/46/Yubaba_%282%29.png
+- 1024×546 · Yubaba-0.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/f/f8/Yubaba-0.jpg
+
+## No-Face: las imágenes más grandes de la wiki (25 en total)
+_Fuente: https://ghibli.fandom.com/wiki/No-Face_
+
+- 3040×1643 · Miyazaki-Spirited Away 1 c1162-poster.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/e/e7/Miyazaki-Spirited_Away_1_c1162-poster.jpg
+- 1687×1196 · Spirited Away MEMORIAL BOX Postcard 3.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/8/88/Spirited_Away_MEMORIAL_BOX_Postcard_3.jpg
+- 1920×1038 · Spirited-awaybr-disneyscreencaps.com-11883.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/2/25/Spirited-awaybr-disneyscreencaps.com-11883.jpg
+- 1500×1052 · Chihiro and No-face on train.jpg · https://static.wikia.nocookie.net/studio-ghibli/images/3/39/Chihiro_and_No-face_on_train.jpg
+- 1440×767 · No-Face and Chihiro on the bus.png · https://static.wikia.nocookie.net/studio-ghibli/images/0/0c/No-Face_and_Chihiro_on_the_bus.png
+- 1331×762 · No-Face sleuthing.png · https://static.wikia.nocookie.net/studio-ghibli/images/9/98/No-Face_sleuthing.png
+- 1404×711 · I wanna eat everything!.png · https://static.wikia.nocookie.net/studio-ghibli/images/4/47/I_wanna_eat_everything%21.png
+- 1280×688 · No Face on bridge with Haku and Chihiro.png · https://static.wikia.nocookie.net/studio-ghibli/images/c/c6/No_Face_on_bridge_with_Haku_and_Chihiro.png
+- 1280×688 · No Face and Yubaba.png · https://static.wikia.nocookie.net/studio-ghibli/images/e/e0/No_Face_and_Yubaba.png
+- 1280×688 · No Face (8).png · https://static.wikia.nocookie.net/studio-ghibli/images/4/45/No_Face_%288%29.png
+
+## No-Face · Appearance (texto de la wiki)
+_Fuente: https://ghibli.fandom.com/wiki/No-Face#Appearance_
+
+When first introduced, No-Face appeared in a semi-transparent state while shifting in and out of visibility. His organs are visible, pulsating in several states. His figure resembles that of a long, black tube. While it is unknown if No-Face has a physical body, it is shown that he can develop arms and legs with the capability of leaving footprints as he walks. An ominous, expressionless mask with grey-violet highlights is painted on his "head" of sorts, and while there is a "mouth" painted on the mask, No-Face has shown that his real, expertly-hidden mouth is larger than the one present on his mask.
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de ghibli.fandom.com (4 páginas y sus galerías)…
+  279 imágenes enlazadas, 214 grandes → 5 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/el-viaje-de-chihiro
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
