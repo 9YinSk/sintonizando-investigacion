@@ -4,7 +4,18 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+
+## Tráiler y enlaces oficiales (AniList)
+_Fuente: https://anilist.co/anime/20665_
+
+- Tráiler: https://www.youtube.com/watch?v=3aL0gDZtFbE
+- INFO · Official Site: http://www.kimiuso.jp/
+- INFO · Official Site: http://www.yourlieinapril.com/
+- STREAMING · Crunchyroll: http://www.crunchyroll.com/your-lie-in-april
+- STREAMING · Hulu: http://www.hulu.com/your-lie-in-april
+- STREAMING · Bilibili TV: https://www.bilibili.tv/en/media/35121
+- STREAMING · Netflix: https://www.netflix.com/title/80041089
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_
@@ -37,6 +48,6 @@ _Fuente: https://archive.org_
 ## Bandas sonoras publicadas (MusicBrainz)
 _Fuente: https://musicbrainz.org_
 
-- 四月は君の嘘 BONUS DISC 3 · 横山克 · 2015-04-22 · https://musicbrainz.org/release-group/3a693af8-7ab8-4cdb-aaa1-b37d65444dfe
 - 四月は君の嘘 BONUS DISC 4 · 横山克 · 2015-05-27 · https://musicbrainz.org/release-group/5b3f29f0-646c-4276-9e65-86e8c5dcb8c6
+- 四月は君の嘘 BONUS DISC 3 · 横山克 · 2015-04-22 · https://musicbrainz.org/release-group/3a693af8-7ab8-4cdb-aaa1-b37d65444dfe
 - 四月は君の嘘 僕と君との音楽帳 · Various Artists · 2014-10-31 · https://musicbrainz.org/release-group/bcba1230-00c7-449d-82ee-d0ff3d85c8ef

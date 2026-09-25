@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/mushokutensei/images/5/52/Engch01.jpg",
+    "fuente": "Fandom Wiki (mushokutensei.fandom.com), portada del manga tomo 1 en inglés",
+    "ancho": 1403,
+    "alto": 2000,
+    "que_es": "Portada del manga tomo 1 (Seven Seas), con el logo 'Mushoku Tensei' rotulado a mano",
+    "para_que": "Referencia directa del logo/tipografía de título (punto 5); colores medidos: negro #060606, dorado #A3721C",
+    "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa / Seven Seas Entertainment vía Fandom Wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/mushokutensei/images/4/48/Chap_1.jpg",
+    "fuente": "Fandom Wiki, portada del manga tomo 1 en japonés",
+    "ancho": 1125,
+    "alto": 1600,
+    "que_es": "Portada original japonesa del manga tomo 1",
+    "para_que": "Comparar el logo original en japonés con la versión internacional",
+    "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa vía Fandom Wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/mushokutensei/images/9/93/Asura-Kingdom-Emblem-MT-MN-V8-Ch40.png",
+    "fuente": "Fandom Wiki, panel del manga tomo 8 cap. 40",
+    "ancho": 725,
+    "alto": 689,
+    "que_es": "Escudo heráldico del Reino de Asura: dos unicornios, corona, espada entre hiedra, espigas de trigo",
+    "para_que": "Emblema/símbolo icónico (punto 25); motivo de hiedra reutilizable en bordes o relieve Blender",
+    "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa vía Fandom Wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/mushokutensei/images/a/ae/Silver-Palace-MT-MN-V8-Ch38.png",
+    "fuente": "Fandom Wiki, panel del manga tomo 8 cap. 38",
+    "ancho": 1037,
+    "alto": 439,
+    "que_es": "Panel del Palacio de Plata en Ars (capital de Asura) con globos de diálogo vacíos y banderas con el escudo",
+    "para_que": "Referencia de la forma del globo de manga (óvalo, trazo fino) y del edificio/banderas",
+    "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa vía Fandom Wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/mushokutensei/images/f/fc/MT-AN-S3-E13-PNG-07.png",
+    "fuente": "Fandom Wiki, fotograma del anime temporada 3 episodio 13",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Mural hexagonal de piedra del 'Mundo de Seis Caras', con figura central y escritura rúnica inventada",
+    "para_que": "Símbolo del mundo (punto 25); objeto tallado en piedra, buen candidato para relieve en Blender",
+    "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa / Studio Bind vía Fandom Wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/mushokutensei/images/d/d8/MT-AN-S1-E16-PNG-18.png",
+    "fuente": "Fandom Wiki, fotograma del anime temporada 1 episodio 16",
+    "ancho": 1920,
+    "alto": 2080,
+    "que_es": "Sede principal del Gremio de Aventureros en Millishion, catedral gótica blanca",
+    "para_que": "Sitio real con función clara (tablón/mostrador) para la regla de 'objeto en un sitio real'",
+    "licencia": "uso editorial/fair use, arte oficial de la franquicia (Kadokawa / Studio Bind vía Fandom Wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/mushokutensei/images/b/b4/Mobile_game_visual.jpg",
+    "fuente": "Fandom Wiki, página 'Mobile Game'",
+    "ancho": 1024,
+    "alto": 538,
+    "que_es": "Arte promocional del juego móvil gacha (cerrado en 2022)",
+    "para_que": "Referencia de videojuego de la franquicia (punto 11), interfaz visual novel con Live2D",
+    "licencia": "uso editorial/fair use, arte oficial de la franquicia (Aiming Co. / Beaglee vía Fandom Wiki)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459420/ss_7399215d1844a53ee19d7f201983c909974816fc.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/2459420), ya en datos-texto.md",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Quest of Memories: caja de diálogo (pestaña de nombre bronce + panel de hiedra)",
+    "para_que": "Referencia directa de la caja de diálogo oficial de la franquicia (puntos 5, 6, 11)",
+    "licencia": "captura de producto en Steam, uso editorial/referencial (LANCARSE Ltd.)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459420/ss_5afb445c4839d38631432454e4db4794550c761e.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/2459420)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Quest of Memories: menú de combate por turnos (ATTACK/SKILL/ITEM/GUARD/ESCAPE)",
+    "para_que": "Referencia de interfaz de videojuego (punto 11)",
+    "licencia": "captura de producto en Steam, uso editorial/referencial (LANCARSE Ltd.)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459420/ss_9bfc25604f0f1e7303165ae029112a3c28b147d2.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com/app/2459420)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de Quest of Memories: minijuego de gestión de restaurante en vista isométrica",
+    "para_que": "Referencia de interfaz secundaria del videojuego (punto 11)",
+    "licencia": "captura de producto en Steam, uso editorial/referencial (LANCARSE Ltd.)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Luckiest+Guy",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente libre gruesa y redondeada, propuesta como aproximación al logo rotulado a mano (punto 5)",
+    "para_que": "Letra libre para títulos cortos; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡",
+    "licencia": "SIL Open Font License 1.1 (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cinzel",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente serif con aire noble/romano, propuesta para el nombre del hablante en caja de diálogo o el escudo de Asura",
+    "para_que": "Letra libre para textos nobles/heráldicos; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡",
+    "licencia": "SIL Open Font License 1.1 (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://mushokutensei.fandom.com/wiki/Seven_Great_Powers",
+    "fuente": "Fandom Wiki",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo sobre los Siete Grandes Poderes y sus monumentos de piedra con motivo por poder",
+    "para_que": "Vocabulario y símbolos del mundo (punto 25)",
+    "licencia": "texto bajo CC-BY-SA (Fandom), no es imagen"
+  },
+  {
+    "url": "https://mushokutensei.fandom.com/wiki/Story_Arcs",
+    "fuente": "Fandom Wiki",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Lista oficial de los 20 arcos narrativos agrupados en 4 partes",
+    "para_que": "Historia por arcos (punto 25)",
+    "licencia": "texto bajo CC-BY-SA (Fandom), no es imagen"
+  }
+]

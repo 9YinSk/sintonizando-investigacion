@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: no encontré la página de «Tigresa» · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 522: <none>
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/manga/90886_
@@ -25,6 +25,20 @@ _Fuente: https://kungfupanda.fandom.com/wiki/Po_
 - 2000×850 · TigressPoJail.jpg · https://static.wikia.nocookie.net/kungfupanda/images/a/ae/TigressPoJail.jpg
 - 2000×850 · PoSoothsayer.jpg · https://static.wikia.nocookie.net/kungfupanda/images/2/27/PoSoothsayer.jpg
 
+## Tigress: las imágenes más grandes de la wiki (69 en total)
+_Fuente: https://kungfupanda.fandom.com/wiki/Tigress_
+
+- 1472×3040 · Tigress.png · https://static.wikia.nocookie.net/kungfupanda/images/e/ea/Tigress.png
+- 2477×1663 · Tigress-concept-art.jpeg · https://static.wikia.nocookie.net/kungfupanda/images/c/c7/Tigress-concept-art.jpeg
+- 2477×1663 · KFPScan2.jpeg · https://static.wikia.nocookie.net/kungfupanda/images/c/c7/Tigress-concept-art.jpeg
+- 1573×1326 · Tigress2.jpg · https://static.wikia.nocookie.net/kungfupanda/images/7/71/Tigress2.jpg
+- 1920×1080 · Tigress-holiday.png · https://static.wikia.nocookie.net/kungfupanda/images/5/57/Tigress-holiday.png
+- 1920×1080 · Master tigress .png · https://static.wikia.nocookie.net/kungfupanda/images/5/57/Tigress-holiday.png
+- 1920×1080 · Furious Five.png · https://static.wikia.nocookie.net/kungfupanda/images/b/b3/Furious_Five.png
+- 1280×1600 · TigressAngelinaKFP2.jpg · https://static.wikia.nocookie.net/kungfupanda/images/e/e7/TigressAngelinaKFP2.jpg
+- 1669×940 · MAD-Po-Five.png · https://static.wikia.nocookie.net/kungfupanda/images/6/6c/MAD-Po-Five.png
+- 1669×940 · 3.png · https://static.wikia.nocookie.net/kungfupanda/images/6/6c/MAD-Po-Five.png
+
 ## Shifu: las imágenes más grandes de la wiki (67 en total)
 _Fuente: https://kungfupanda.fandom.com/wiki/Shifu_
 
@@ -39,28 +53,19 @@ _Fuente: https://kungfupanda.fandom.com/wiki/Shifu_
 - 1920×1080 · 4d8c90.jpg · https://static.wikia.nocookie.net/kungfupanda/images/5/5d/Shifu-disappointed.jpg
 - 1501×1357 · ShifuGreen.JPG · https://static.wikia.nocookie.net/kungfupanda/images/9/93/ShifuGreen.JPG
 
-## Oogway: las imágenes más grandes de la wiki (43 en total)
-_Fuente: https://kungfupanda.fandom.com/wiki/Oogway_
+## Tai Lung: las imágenes más grandes de la wiki (58 en total)
+_Fuente: https://kungfupanda.fandom.com/wiki/Tai_Lung_
 
-- 1920×1080 · PoolOfTears.PNG · https://static.wikia.nocookie.net/kungfupanda/images/b/b3/PoolOfTears.PNG
-- 1920×1080 · OogwayLegend.jpg · https://static.wikia.nocookie.net/kungfupanda/images/a/a8/OogwayLegend.jpg
-- 1920×1080 · OogwayKungFu.PNG · https://static.wikia.nocookie.net/kungfupanda/images/c/c2/OogwayKungFu.PNG
-- 1920×820 · Kung Fu Panda 3 (film) 07.png · https://static.wikia.nocookie.net/kungfupanda/images/6/69/KFP3-Po-Oogway.png
-- 1920×820 · KFP3-Po-Oogway.png · https://static.wikia.nocookie.net/kungfupanda/images/6/69/KFP3-Po-Oogway.png
-- 1920×816 · ShifuPresentsTaiLung.jpg · https://static.wikia.nocookie.net/kungfupanda/images/8/82/ShifuPresentsTaiLung.jpg
-- 1920×816 · PoOogwayDW.jpg · https://static.wikia.nocookie.net/kungfupanda/images/1/15/PoOogwayDW.jpg
-- 1920×816 · PeachTree.jpg · https://static.wikia.nocookie.net/kungfupanda/images/2/25/PeachTree.jpg
-- 1920×816 · OogwayTaiLung.PNG · https://static.wikia.nocookie.net/kungfupanda/images/f/f7/OogwayTaiLung.PNG
-- 1920×816 · OogwayShifuTaiLung.jpg · https://static.wikia.nocookie.net/kungfupanda/images/1/15/OogwayShifuTaiLung.jpg
-
-## Hojas de contacto (investigar_serie.py)
-_Fuente: herramientas/referencias/_
-
-```
-· imágenes de kungfupanda.fandom.com (3 páginas y sus galerías)…
-  177 imágenes enlazadas, 124 grandes → 3 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/kung-fu-panda
-
-```
+- 3840×1636 · Untitledttt.jpg · https://static.wikia.nocookie.net/kungfupanda/images/c/c5/Tai-Lung-fire-attack.jpg
+- 3840×1636 · Tai-Lung-fire-attack.jpg · https://static.wikia.nocookie.net/kungfupanda/images/c/c5/Tai-Lung-fire-attack.jpg
+- 1579×2500 · Kung Fu Panda 4 Character Posters 03.jpg · https://static.wikia.nocookie.net/kungfupanda/images/d/d7/Kung_Fu_Panda_4_Character_Posters_03.jpg
+- 1920×1080 · Tai-lung-nightmare.jpg · https://static.wikia.nocookie.net/kungfupanda/images/d/d5/Tai-lung-nightmare.jpg
+- 1920×1080 · LegendaryWarrior3.jpg · https://static.wikia.nocookie.net/kungfupanda/images/6/66/LegendaryWarrior3.jpg
+- 1596×1253 · Tai Lung Head Design.jpg · https://static.wikia.nocookie.net/kungfupanda/images/6/6d/Tai_Lung_Head_Design.jpg
+- 1900×1000 · Kung Fu Panda 4 Stills 02.jpg · https://static.wikia.nocookie.net/kungfupanda/images/b/b8/Kung_Fu_Panda_4_Stills_02.jpg
+- 1920×818 · TaiLungBlue.jpg · https://static.wikia.nocookie.net/kungfupanda/images/8/87/TaiLungBlue.jpg
+- 1920×817 · TaiLungRage.PNG · https://static.wikia.nocookie.net/kungfupanda/images/7/77/TaiLungRage.PNG
+- 1920×816 · WuxiFingerTaiLung.jpg · https://static.wikia.nocookie.net/kungfupanda/images/1/10/WuxiFingerTaiLung.jpg
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

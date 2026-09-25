@@ -4,7 +4,57 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+
+## Personajes más queridos (AniList, favoritos de usuarios)
+_Fuente: https://anilist.co/anime/20665_
+
+| # | Personaje | Favoritos | Rol | Seiyū | Voz «Spanish» en AniList ⚠️ |
+|---|---|---|---|---|---|
+| 1 | Kaori Miyazono (宮園かをり) | 9323 | MAIN | Risa Taneda | — |
+| 2 | Kousei Arima (有馬公生) | 4810 | MAIN | Natsuki Hanae | — |
+| 3 | Ryouta Watari (渡里遼) | 551 | MAIN | Ryouta Oosaka | — |
+| 4 | Emi Igawa (井川絵見) | 454 | SUPPORTING | Saori Hayami | — |
+| 5 | Hiroko Seto (瀬戸紘子) | 354 | SUPPORTING | Mie Sonozaki | — |
+| 6 | Tsubaki Sawabe (澤部椿) | 284 | MAIN | Ayane Sakura | — |
+| 7 | Takeshi Aiza (相座武士) | 262 | SUPPORTING | Yuuki Kaji | — |
+| 8 | Koharu Seto (瀬戸小春) | 141 | BACKGROUND | Inori Minase | — |
+| 9 | Nagi Aiza (相座凪) | 111 | SUPPORTING | Ai Kayano | — |
+| 10 | Nao Kashiwagi (柏木奈緒) | 103 | SUPPORTING | Shizuka Ishigami | — |
+| 11 | Saitou (斉藤) | 28 | SUPPORTING | Kazuyuki Okitsu | — |
+| 12 | Saki Arima (有馬早希) | 26 | SUPPORTING | Mamiko Noto | — |
+| 13 | Otokonoko (男の子) | 2 | BACKGROUND | Mariko Higashiuchi | — |
+
+_«Spanish» en AniList mezcla España y Latinoamérica: el reparto latino, en Doblaje Wiki (abajo)._
+
+## Fichas de personaje (AniList): edad, cumpleaños, gustos y carácter
+_Fuente: https://anilist.co/anime/20665_
+
+- **Kaori Miyazono** (género Female, edad 14, cumple 4/7) · https://anilist.co/character/69411
+  **Height:** 157 cm Kaori is [Tsubaki's](https://anilist.co/character/69409) classmate, a free-spirited violinist who had drawn many criticisms from the judge panel due to her unwillingness to follow the score, but is highly favored by her audience. Kaori met [Kousei](https://anilist.co/character/69407) when she requested Tsubaki to set her up with [Watari](https://anilist.co/character/69405).
+- **Kousei Arima** (género Male, edad 14-15, cumple 28/3) · https://anilist.co/character/69407
+  Kousei is formerly a child prodigy in playing piano, often dubbed as the "Human Metronome". He was able to play the piano with extreme precision and discipline and thus had won many competitions across Japan.
+- **Ryouta Watari** (género Male, edad 14, cumple 14/4) · https://anilist.co/character/69405
+  Ryouta is Kousei and Tsubaki's childhood friend who is also the captain of the school's soccer team. He is extremely popular with girls, often adopting a frivolous attitude. However, he does once in a while come up with good insight.
+- **Emi Igawa** (género Female, edad 14) · https://anilist.co/character/85841
+  Emi is a pianist of the same year as Kousei, who decided to become a pianist after listening to Kousei play at the age of 5. Emi is very emotional and her piano performance often depends on her mood on that day.
+- **Hiroko Seto** (género Female) · https://anilist.co/character/88786
+  Hiroko is a nationally famous pianist and Saki's friend during college days. She was the one who discovered Kousei's talents in piano and suggested Saki to make him a pianist.
+- **Tsubaki Sawabe** (género Female, edad 14, cumple 19/5) · https://anilist.co/character/69409
+  Tsubaki is Kousei's childhood friend and next-door neighbor, who treats him like a little brother. She is athletic and part of the softball club in school. Often dismayed at Kousei's inability to move on after his mother's death, she attempts to get him to play the piano again in order to make a clear decision about his future.
+- **Takeshi Aiza** (género Male) · https://anilist.co/character/85839
+  Takeshi is a pianist of the same year as Kousei, who aimed to surpass him since watching him play at a young age. For that, Takeshi would even abandon a competition in Europe in order to compete with Kousei. (Source: Wikipedia)
+- **Koharu Seto** (género Female) · https://anilist.co/character/138444
+  Daughter of Hiroko Seto, Koharu is generally a happy and cheerful child who adores her mother. Koharu has been shown to be quite shy and hesitant around others when she first meets them, but eventually warms up to them and begins to consider them as her family, as seen when she drew a picture of Nagi Aiza playing the piano with Kousei Arima.
+- **Nagi Aiza** (género Female, edad 13) · https://anilist.co/character/157244
+  Nagi is Takeshi's little sister who pretended to ask for tutelage from Hiroko in order to scout her brother's rival, Kousei.
+- **Nao Kashiwagi** (género Female) · https://anilist.co/character/81725
+  Kashiwagi is a good friend of Tsubaki's who often gives her advice.
+- **Saitou** (sin datos) · https://anilist.co/character/81723
+  Saitou is Tsubaki's baseball-playing senior and her target of admiration.
+- **Saki Arima** (género Female) · https://anilist.co/character/88785
+  Saki is Kousei's strict mother who demands Kousei play the piano to perfection, often beating him up for small mistakes. While she did not plan to make Kousei a pianist at first, her realization of Kousei's talents and her own illness made her decide to give Kousei a strict foundation in piano in order to be able to find his own style, and a living, afterwards.
+- **Otokonoko** (género Male) · https://anilist.co/character/333899
 
 ## Doblaje latino: ficha de «Your Lie in April» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/Your_Lie_in_April_
