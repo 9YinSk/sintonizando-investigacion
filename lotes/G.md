@@ -15,3 +15,4 @@ Cuenta: cuenta A103
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 97 | imagen | Sonnet | 13 | 226 mil |
