@@ -5,11 +5,12 @@ Sesión: https://claude.ai/code/session_01Efg124nG5yQM7nZKhrgVfM · rama `claude
 
 ## Estado
 
-- 37 Fullmetal Alchemist: Brotherhood: **COMPLETA** y subida (22:12). ✅16 ⚠️15 ❌0, 189 referencias, 52 webs.
-- 38 Sailor Moon: **COMPLETA** y subida (22:47). ✅23 ⚠️9 ❌0, 191 referencias, 54 webs.
-- 39 Saint Seiya: **COMPLETA** y subida (23:31). ✅24 ⚠️8 ❌0, 223 referencias, 45 webs.
-- 40 Digimon Adventure: imagen, texto y video completos; voz relanzada (punto 13).
-- 41 Dandadan: imagen y texto en marcha. 42: datos recolectados, a la espera. 43-47: recolectados por adelantado.
+- 37 Fullmetal Alchemist: Brotherhood: **COMPLETA** (22:12). ✅16 ⚠️15 ❌0, 189 refs, 52 webs.
+- 38 Sailor Moon: **COMPLETA** (22:47). ✅23 ⚠️9 ❌0, 191 refs, 54 webs.
+- 39 Saint Seiya: **COMPLETA** (23:31). ✅24 ⚠️8 ❌0, 223 refs, 45 webs.
+- 40 Digimon Adventure: **COMPLETA** (00:03). ✅22 ⚠️10 ❌0, 159 refs, 48 webs.
+- 41 Dandadan: imagen, texto y video completos; voz en marcha.
+- 42 Blue Lock: imagen y texto en marcha. 43-47: recolectados por adelantado.
 
 ## Avisos para el dueño
 
@@ -24,6 +25,10 @@ Sesión: https://claude.ai/code/session_01Efg124nG5yQM7nZKhrgVfM · rama `claude
   - ⚠️ **Choque otra vez**: #general-doblaje ya lo piden Fullmetal Alchemist y Monsters, Inc.; 🎭 Escenario lo pide Sing; #destacados lo piden Sailor Moon y Super Mario Galaxy. Van 3 series (37, 38, 39) chocando por los mismos canales — conviene que el dueño decida de una vez el orden de prioridad.
   - Punto 13 quedó ⚠️ (16 de 30 caras por emoción; vergüenza no aparece para ninguno de los 6, agotadas las 2 tandas).
   - Ikki (no Seiya) es el más querido en AniList; Seiya se queda como protagonista del concepto por ser la voz del director del doblaje clásico (Jesús Barrero).
+- **40 Digimon Adventure** propone 3 láminas: A (recomendada) #que-estas-escuchando (la armónica de Matt), B 🍟 General (la llamada de Tai desde el Mundo Digital), C #config-bots (el Analyzer de Izzy) o #noticias-anime de reserva.
+  - Sin choque directo con 37-39, pero A la pide también Demon Slayer (31) y B Jujutsu Kaisen (32) como segunda opción; C de reserva la pide Bleach (29).
+  - Punto 13 ⚠️: 19 de 25 caras (faltan alegría de Matt; tristeza y vergüenza de Gabumon; rabia y tristeza de Agumon).
+  - Kari es la más querida en la encuesta oficial de Toei (no Tai, que gana en AniList/fan art).
 
 ## Costos
 
