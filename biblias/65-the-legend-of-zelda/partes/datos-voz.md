@@ -50,18 +50,18 @@ _Fuente: https://zelda.fandom.com/wiki/Ganon#Personality_
 
 Being the main villain of the franchise as well as Demise's reincarnation, Ganon is a ruthless and very destructive being. Conquest and destruction seem to be one and the same to him, with examples of his rule have shown him willingly turning his dominion into a wicked place of terror and chaos and harming others with little care. Alongside being known to murder people in and , his incarnation even went as far as to unleash his new demon hordes against his own followers. Some games such as and have shown Ganon to be surprisingly cunning, even sometimes one step ahead of Link and Princess Zelda. However, his arrogance does get the best of him. On a similar note, Ganon is also known to have somewhat of a relationship with Bowser, who himself is the main antagonist of the Mario series and archenemy of Nintendo's mascot, Mario. The two even teamed up in the Super Smash Bros. series,…
 
-## Los personajes más dibujados por los fans (Danbooru, 39058 dibujos de «the_legend_of_zelda»)
+## Los personajes más dibujados por los fans (Danbooru, 39059 dibujos de «the_legend_of_zelda»)
 _Fuente: https://danbooru.donmai.us/posts?tags=the_legend_of_zelda_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. link · 21025 dibujos
-2. pikachu · 17607 dibujos
+1. link · 21026 dibujos
+2. pikachu · 17609 dibujos
 3. princess_zelda · 16833 dibujos
-4. kirby · 11064 dibujos
-5. princess_peach · 8658 dibujos
-6. samus_aran · 8156 dibujos
-7. mario · 6326 dibujos
-8. luigi · 3259 dibujos
+4. kirby · 11065 dibujos
+5. princess_peach · 8659 dibujos
+6. samus_aran · 8157 dibujos
+7. mario · 6327 dibujos
+8. luigi · 3260 dibujos
 9. palutena · 2668 dibujos
 10. midna · 2419 dibujos
 11. pit_(kid_icarus) · 2167 dibujos
@@ -70,7 +70,7 @@ Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans
 14. ganondorf · 1560 dibujos
 15. toon_link · 1542 dibujos
 16. purah · 1419 dibujos
-17. ness_(mother_2) · 1401 dibujos
+17. ness_(mother_2) · 1402 dibujos
 18. navi · 1032 dibujos
 19. sheik · 908 dibujos
 20. midna_(true) · 814 dibujos

@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · fandom: no encontré la página de «Amatista» · fandom: no encontré la página de «Perla» · fans_booru: HTTP Error 500: Internal Server Error
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · fandom: no encontré la página de «Amatista» · fandom: no encontré la página de «Perla»
 
 ## Steven Universe (character): las imágenes más grandes de la wiki (141 en total)
 _Fuente: https://steven-universe.fandom.com/wiki/Steven_Universe_%28character%29_
@@ -58,6 +58,64 @@ _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
 
 - **pearl_(steven_universe)**: gem_(steven_universe), forehead_jewel, short_hair, pointy_nose, gem, alternate_costume, blue_eyes, pale_skin, pearl, smile, shirt, holding, pink_hair, transparent_background, animification, star_(symbol), looking_at_viewer, open_mouth, simple_background, full_body, orange_hair, blush, weapon, pants, casual, toon_(style), closed_mouth, signature
 - **garnet_(steven_universe)**: gem_(steven_universe), afro, colored_skin, lips, sunglasses, black_hair, dark_skin, purple_skin, alternate_costume, expressionless, simple_background, dark-skinned_female, short_hair, looking_at_viewer, kinky_hair, artist_name, official_alternate_costume, glasses, gem, third_eye, thick_lips, white_background, gloves, swimsuit, parted_lips, star_(symbol), transparent_background, animification
+- **hatsune_miku**: long_hair, twintails, very_long_hair, aqua_hair, looking_at_viewer, skirt, aqua_eyes, necktie, detached_sleeves, smile, shirt, open_mouth, hair_ornament, hair_between_eyes, blue_eyes, blue_hair, blush, sleeveless, simple_background, bare_shoulders, white_background, sleeveless_shirt, black_skirt, long_sleeves, pleated_skirt, holding, collared_shirt, full_body
+- **kirby**: no_humans, blush_stickers, blue_eyes, open_mouth, smile, looking_at_viewer, simple_background, star_(symbol), holding, blush, white_background, full_body, food, hat, closed_mouth, copy_ability, long_hair, sitting, shoes, shirt, outdoors, short_hair, closed_eyes, sky, :d, bow, :o, long_sleeves
+- **sonic_the_hedgehog**: furry, male_focus, furry_male, gloves, white_gloves, shoes, animal_ears, green_eyes, smile, animal_nose, looking_at_viewer, red_shoes, simple_background, full_body, tail, blue_fur, closed_mouth, standing, white_background, hedgehog_boy, blue_hair, long_hair, artist_name, socks, open_mouth, teeth, holding, white_socks
+- **lapis_lazuli_(steven_universe)**: gem_(steven_universe), colored_skin, blue_hair, blue_skin, short_hair, blue_eyes, crop_top, water, homeworld_gem_uniform, simple_background, looking_at_viewer, barefoot, alternate_costume, closed_mouth, animification, shirt, smile, skirt, full_body, gem, liquid_wings, transparent_background, midriff, dress, hydrokinesis, white_background, signature, artist_name
+- **peridot_(steven_universe)**: gem_(steven_universe), colored_skin, green_skin, forehead_jewel, blonde_hair, face_shield, gem, alternate_costume, short_hair, alien, triangle-shaped_hair, simple_background, full_body, transparent_background, petite, smile, open_mouth, casual, green_eyes, leotard, homeworld_gem_uniform, shirt, looking_at_viewer, holding, sweat, t-shirt, sitting, teeth
+
+## Fan art mejor valorado por personaje (Safebooru; enlace, tamaño y autor/origen)
+_Fuente: https://safebooru.org_
+
+**pearl_(steven_universe)**
+- 741×1389 · puntos 5 · https://safebooru.org/images/5/fb5d3c804058829025176df0b5af6adfa9fc6e84.jpg · autor/origen: https://svacob.tumblr.com/post/730465461156921344
+- 1080×1119 · puntos 4 · https://safebooru.org/images/2761/ead5cb3ae2bc263cd41f9a766ca5f1048b79bad3.png · autor/origen: https://twitter.com/nano8__8/status/1142802212973772800
+- 350×197 · puntos 4 · https://safebooru.org/images/2339/11ca488bf6b32499591d10f4d7a1f7fcc5aa6d41.gif · autor/origen: https://porigoshi.tumblr.com/post/169848312654/i-was-latesteven-universe-4th-anniversary
+- 1899×1525 · puntos 3 · https://safebooru.org/images/2657/7d1aa71dc7a5d4681634e0cb1745777af6c68412.jpg · autor/origen: https://twitter.com/nano8__8/status/1095001964998348801
+- 669×447 · puntos 3 · https://safebooru.org/images/1892/2f717b094b37c5580a953894a18684a7228a40f5.png · autor/origen: http://41.media.tumblr.com/821f41e1ec24a1df798a49ea39692867/tumblr_ngqck8myPK1s7qi2zo1_500.png
+- 1586×1191 · puntos 3 · https://safebooru.org/images/2922/d6f6641dee3e436feec84b999de9d4276b0a0403.jpg · autor/origen: https://twitter.com/sakaki_momo/status/1243851843597291520
+**garnet_(steven_universe)**
+- 1024×724 · puntos 5 · https://safebooru.org/images/2229/c0fe04245141c09769fbfc10b835ff2699299f3e.png · autor/origen: https://img05.deviantart.net/9d56/i/2017/242/f/e/draw_this_again_by_chinchongcha-dbltax0.png
+- 669×447 · puntos 3 · https://safebooru.org/images/1892/2f717b094b37c5580a953894a18684a7228a40f5.png · autor/origen: http://41.media.tumblr.com/821f41e1ec24a1df798a49ea39692867/tumblr_ngqck8myPK1s7qi2zo1_500.png
+- 1586×1191 · puntos 3 · https://safebooru.org/images/2922/d6f6641dee3e436feec84b999de9d4276b0a0403.jpg · autor/origen: https://twitter.com/sakaki_momo/status/1243851843597291520
+- 1100×1361 · puntos 3 · https://safebooru.org/images/1845/b7d7e618f0daa1e299d74f08595131b2caeb2c8c.jpeg · autor/origen: https://gyosone.tumblr.com/post/139799019068/%E3%81%A7%E3%83%BC%E3%81%84%E5%AE%8C%E6%88%90fusion-jems
+- 1280×1786 · puntos 2 · https://safebooru.org/images/1892/c6e7f483532a006fe8a0df1c9389189831ac1158.jpeg · autor/origen: sin origen
+- 1300×1733 · puntos 2 · https://safebooru.org/images/3235/2c77c296cf612e308d1a2e4d9f9be51765571058.jpg · autor/origen: https://twitter.com/dowmansayman/status/1315271890554904576
+**hatsune_miku**
+- 1000×1395 · puntos 40 · https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg · autor/origen: http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg
+- 1536×2048 · puntos 37 · https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg · autor/origen: https://x.com/siro_itigo_o/status/1805557196505465262
+- 1280×960 · puntos 36 · https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg · autor/origen: sin origen
+- 1440×960 · puntos 21 · https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg · autor/origen: sin origen
+- 516×3642 · puntos 21 · https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg · autor/origen: http://img03.pixiv.net/img/matilda/990992.jpg
+- 1200×800 · puntos 21 · https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg · autor/origen: http://img11.pixiv.net/img/nekogamisama/1837016.jpg
+**kirby**
+- 2048×1859 · puntos 21 · https://safebooru.org/images/4610/46cb694f296c2813324a66b8d0105377bd4dbdbd.jpg · autor/origen: https://twitter.com/KirbyEarthbound/status/1856058394563825692
+- 1920×1366 · puntos 21 · https://safebooru.org/images/3047/c3e4ddb8c5804f0e164843f415fe9317e830f67a.jpg · autor/origen: https://i.pximg.net/img-original/img/2016/10/12/08/34/39/59434534_p0.jpg
+- 2520×2520 · puntos 16 · https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png · autor/origen: https://twitter.com/totototo0507/status/1807802641482985883
+- 2000×1399 · puntos 15 · https://safebooru.org/images/20/1f00a70194c6a61b7598f4a0be8d4d083100e608.jpg · autor/origen: http://img05.pixiv.net/img/hanokage/3732379.jpg
+- 1600×1223 · puntos 14 · https://safebooru.org/images/768/e40bdc175fe98f678580f5fe88d377b7bfdabdaa.jpg · autor/origen: http://img20.pixiv.net/img/yuinopartyyou127/25063229.jpg
+- 1200×960 · puntos 13 · https://safebooru.org/images/266/945a7165ced9a01424323520322346316f7425e0.jpg · autor/origen: http://img12.pixiv.net/img/bonorisu/1642048.jpg
+**sonic_the_hedgehog**
+- 1000×1414 · puntos 18 · https://safebooru.org/images/3233/0a621f44a67d75c3b3dfadd9486bcb8074521d8d.jpg · autor/origen: https://twitter.com/fsonic3/status/1313107293643382784
+- 882×1000 · puntos 15 · https://safebooru.org/images/3460/c6fc3f40dc6b483014a4ae14e3fac7370c174efa.jpg · autor/origen: https://i.pximg.net/img-original/img/2019/05/28/23/47/37/74952067_p0.jpg
+- 2000×1399 · puntos 15 · https://safebooru.org/images/20/1f00a70194c6a61b7598f4a0be8d4d083100e608.jpg · autor/origen: http://img05.pixiv.net/img/hanokage/3732379.jpg
+- 1600×1223 · puntos 14 · https://safebooru.org/images/768/e40bdc175fe98f678580f5fe88d377b7bfdabdaa.jpg · autor/origen: http://img20.pixiv.net/img/yuinopartyyou127/25063229.jpg
+- 1000×1000 · puntos 14 · https://safebooru.org/images/2961/6b498dd17840601eab8f7e46f50574730c62256b.jpg · autor/origen: https://i.pximg.net/img-original/img/2019/12/20/06/48/39/78345201_p0.jpg
+- 1200×960 · puntos 13 · https://safebooru.org/images/266/945a7165ced9a01424323520322346316f7425e0.jpg · autor/origen: http://img12.pixiv.net/img/bonorisu/1642048.jpg
+**lapis_lazuli_(steven_universe)**
+- 1080×1119 · puntos 4 · https://safebooru.org/images/2761/ead5cb3ae2bc263cd41f9a766ca5f1048b79bad3.png · autor/origen: https://twitter.com/nano8__8/status/1142802212973772800
+- 900×1200 · puntos 4 · https://safebooru.org/images/4103/c030074101a08f037a6e517bac45e989c1a711a3.png · autor/origen: https://twitter.com/nano8__8/status/1533840910131220480
+- 1899×1525 · puntos 3 · https://safebooru.org/images/2657/7d1aa71dc7a5d4681634e0cb1745777af6c68412.jpg · autor/origen: https://twitter.com/nano8__8/status/1095001964998348801
+- 1586×1191 · puntos 3 · https://safebooru.org/images/2922/d6f6641dee3e436feec84b999de9d4276b0a0403.jpg · autor/origen: https://twitter.com/sakaki_momo/status/1243851843597291520
+- 850×1272 · puntos 3 · https://safebooru.org/images/3107/5c9f44ef52c0343b5bf0fb4d9bd8982234a13da4.png · autor/origen: https://happyds.tumblr.com/post/144431061754
+- 1500×2000 · puntos 3 · https://safebooru.org/images/2/cbc8d76e3883bf7f9c364fd7fe0a8c94c414eb24.jpg · autor/origen: https://twitter.com/9wj836/status/1848094730489598176
+**peridot_(steven_universe)**
+- 2048×2048 · puntos 4 · https://safebooru.org/images/4269/2ccb4d15c7adbf7d868a8879d6fd5ba67097b836.jpg · autor/origen: https://twitter.com/karin_apple25/status/1682036255322939394
+- 1152×1536 · puntos 4 · https://safebooru.org/images/4103/886d4314a7d32e317a29bfb8a9947ebb80e51b84.png · autor/origen: https://twitter.com/nano8__8/status/1163816238704758784
+- 1586×1191 · puntos 3 · https://safebooru.org/images/2922/d6f6641dee3e436feec84b999de9d4276b0a0403.jpg · autor/origen: https://twitter.com/sakaki_momo/status/1243851843597291520
+- 1624×1928 · puntos 3 · https://safebooru.org/images/1051/10f9f8340ba56f2c29ef66b128d188ba0b35a0ea.jpg · autor/origen: https://i.pximg.net/img-original/img/2025/02/01/20/37/01/126790426_p0.jpg
+- 1124×1124 · puntos 3 · https://safebooru.org/images/4098/7411e0cddd3c4aec830069ff318525b2c7527efa.png · autor/origen: https://i.pximg.net/img-original/img/2022/01/22/09/05/09/95686761_p16.png
+- 1837×1617 · puntos 3 · https://safebooru.org/images/4243/09341f332886b6a663a43491ff0acf4f2145a6f9.jpg · autor/origen: https://bcy.net/item/detail/7011720653497703437
 
 ## Fondos de pantalla más guardados (Wallhaven, sólo aptos, 1920×1080 o más)
 _Fuente: https://wallhaven.cc_
