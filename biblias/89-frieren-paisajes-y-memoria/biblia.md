@@ -307,3 +307,179 @@ textura** que el estudio usa para calcular perspectiva y luz antes de
 pintar ✅ visto. Es exactamente lo que se haría en Blender para bloquear
 un sitio antes de pintarlo encima (Punto 18).
 
+## Punto 2 · Escenas de memoria, con minuto
+
+Las 19 escenas que todo fan reconoce, con minuto de los subtítulos del
+Blu-ray, están en **33 §2**. Aquí van las que **unen un sitio y un
+recuerdo**: las de 33 que sirven para este encargo (con su minuto) y las
+nuevas que miró la parte de vídeo.
+
+### 2.1 Las de 33 que son «paisaje + memoria» (minuto de 33 §2)
+
+| Escena | Ep. y minuto | Por qué es memoria |
+|---|---|---|
+| **Los meteoros de Era** | T1-01, 06:19-06:46 y 11:47-12:59 | una vez cada 50 años; Himmel, viejo, pide verla otra vez. Suena «One Last Adventure» (Punto 9) |
+| **El funeral de Himmel** | T1-01, 15:00-16:17 (la frase, 16:04) | «¿por qué no intenté conocerlo más?» |
+| **La hierba luna azul** alrededor de la estatua | T1-02, 14:47-16:25 | Frieren hace crecer la flor que Himmel quería ver (su modelo real, Punto 18) |
+| **El anillo del loto espejo** | T1-14, 19:35 | el regalo de Himmel; la escena más votada (33 Punto 21) |
+| **«Tú me enseñaste la magia del campo de flores»** | T1-27, 19:46 | recuerdo de Himmel en luz dorada |
+| **«Las estatuas de Himmel están en todas partes»** | T2-30, 02:02 | las mandó hacer para que ella no estuviera sola |
+| **El diario (autobiografía) de Himmel** | T2-37, 15:47 | acaba en páginas en blanco (Punto 6) |
+
+### 2.2 Las nuevas, miradas (fotogramas y fondos oficiales)
+
+- **Aureole**, EP4 (memoria_01 n.º 1): niebla dorada, columnas en ruinas y
+  un árbol-templo en lo alto. Es **el destino del viaje**: Frieren va allí
+  para hablar con el alma de Himmel ·
+  [Frieren Wiki, «Aureole»](https://frieren.fandom.com/wiki/Aureole) ✅
+  (ficha + fondo oficial). ⚠️ sin minuto (la wiki da el episodio, no el
+  minuto).
+- **Flamme ante sus compañeros muertos**, EP4
+  ([fotograma de la wiki](https://static.wikia.nocookie.net/frieren/images/8/87/Flamme%27s_prior_visit_to_Aureole_EP4.png),
+  memoria_01 n.º 2; también en el manga, cap. 7): Flamme **de espaldas**,
+  trenza roja, ante **varias siluetas translúcidas verde-doradas** (sólo
+  contorno y sombra plana, sin piel ni ropa). Medido: fondo `#EDF2DA`
+  `#C9E4DC`, siluetas `#D4E5AF` `#B3C891`, dorado del árbol `#B98D4A` ✅.
+  **Así pinta la serie a los muertos**. ⚠️ sin minuto.
+- **Frieren y Fern ante Qual**, T1-03 (el episodio lo confirma la ficha
+  de Qual): dos figuras **diminutas** al pie de una colina de hierba bajo
+  **cielo totalmente cubierto**, con el demonio sentado arriba ·
+  [Dailymotion x8qbrgb, 0:10](https://www.dailymotion.com/video/x8qbrgb?t=10)
+  y [2:00](https://www.dailymotion.com/video/x8qbrgb?t=120) (memoria_01
+  n.º 13-14) ⚠️ clip subido por un canal de fans, pero es el episodio real.
+  La escena **más gris** medida (saturación 15-23 %). No está en la tabla de
+  sitios de 33.
+- **PV2 de la T1**, cuatro paisajes (el mismo tráiler que 33 describió por
+  storyboard, aquí bajado y medido):
+  [0:31](https://www.dailymotion.com/video/x8mkolb?t=31) el grupo de Himmel
+  cruza **un puente de piedra** en el bosque;
+  [0:41](https://www.dailymotion.com/video/x8mkolb?t=41) Frieren diminuta en
+  **un campo de flores rosa**;
+  [0:47](https://www.dailymotion.com/video/x8mkolb?t=47) Frieren **rema en una
+  cueva de agua azul** con el bastón brillando (**sitio nuevo**);
+  [1:27](https://www.dailymotion.com/video/x8mkolb?t=87) Frieren de pie entre
+  **flores azules gigantes** al atardecer dorado ✅ (copia en Dailymotion
+  del tráiler oficial de TOHO, el mismo que
+  [YouTube itKPyGXrCVA](https://www.youtube.com/watch?v=itKPyGXrCVA)).
+- **Frieren junto a la cuna vacía**, EP2
+  ([fotograma](https://static.wikia.nocookie.net/frieren/images/7/7b/Frieren_cries_over_Heiter%27s_imminent_death_EP2.png),
+  memoria_01 n.º 15): el archivo se llama «llora», pero el plano es **de
+  espaldas**, sentada, en una habitación en penumbra con **luz de tarde en
+  diagonal** ✅ visto. ⚠️ sin minuto.
+- **La Tierra Dorada** (黄金郷): la ficha del arco dice que **empieza en el
+  ep. 37** (cap. 77 del manga) ·
+  [Frieren Wiki, «The Golden Land Arc»](https://frieren.fandom.com/wiki/The_Golden_Land_Arc)
+  ⚠️ una fuente, sin fotograma. 33 lo daba sólo como T3 (oct-2027): puede
+  asomar ya al final de la T2.
+
+## Punto 3 · Fan art y 3D (sólo como referencia)
+
+**Nunca para pegar**: enlace y autor, para mirar cómo resuelven la luz. Los
+modelos 3D de personajes (Frieren, Fern, la tetera, el bastón) y el fan art
+por personaje están en **33 §4**. Aquí, **paisaje**.
+
+### 3.1 Fan art de paisaje (etiqueta `scenery`)
+
+| Pieza | Tamaño | Autor / origen | Qué aporta |
+|---|---|---|---|
+| [Frieren bajo el árbol dorado](https://w.wallhaven.cc/full/gp/wallhaven-gpl8d3.jpg) (memoria_01 n.º 20) | 4500×3048, ♥581 en [Wallhaven](https://wallhaven.cc) | Owl279 · [Pixiv 116555120](https://www.pixiv.net/en/artworks/116555120) | visto entero: Frieren de espaldas bajo un **árbol gigante dorado-violeta** con mariposas, ruinas a los lados, contraluz. Medido: `#716CBF` `#544C88` `#2D315A` `#CEB6D9` `#9B8ED9`, saturación 39 %. **El mismo lenguaje que Aureole** sin calcarlo ✅ |
+| [Paisaje, Danbooru 20 pts](https://cdn.donmai.us/original/14/cd/14cd567a57a384af93761bf06478c808.jpg) | 3277×4096 | [@gmmarady](https://x.com/gmmarady/status/2092266418553454594) | fan artist que **pinta sobre todo fondos** de la serie (4 piezas en `scenery`, 2026) ⚠️ una fuente |
+| [Paisaje, Danbooru 15 pts](https://cdn.donmai.us/original/95/e4/95e43dd58529e9f0ffdc8bf65312c8e8.jpg) | 2000×3500 | [@Porukana_Art](https://x.com/Porukana_Art/status/2095829730612379750) | vertical, sirve de referencia para una lámina alta ✅ medido |
+| [Himmel y Heiter](https://w.wallhaven.cc/full/rr/wallhaven-rrz76w.jpg) | 3840×2160, ♥442 | Owl279 · [Pixiv 114710157](https://www.pixiv.net/en/artworks/114710157) | el grupo antiguo **mirando hacia abajo**: recuerdo del grupo del héroe (datos del recolector) |
+| [El grupo con maleta](https://w.wallhaven.cc/full/o5/wallhaven-o5zrj7.jpg) | 4961×2961, ♥298 | Owl279 · origen Pixiv 118150098 | Frieren, Fern y Stark de viaje (datos del recolector) |
+| Meteoros animados y «Frieren mirando los meteoros» | — | **@tsuicaa**, [Reddit, 3.225 votos](https://www.reddit.com/r/Frieren/comments/1p9tl4u/frieren_and_the_meteor_shower_animated_by_tsuicaa/) y [2.864 votos](https://www.reddit.com/r/Frieren/comments/1p0ymdx/frieren_looking_at_the_meteor_shower_by_tsuicaa/) | el **sitio del meteoro** es de los temas de fan art más repetidos ✅ |
+
+Fuentes de la búsqueda: API de [Danbooru](https://danbooru.donmai.us/posts?tags=sousou_no_frieren)
+y [Safebooru](https://safebooru.org) (`sousou_no_frieren scenery`).
+
+### 3.2 Modelos 3D con licencia (Sketchfab)
+
+| Modelo | Autor | Licencia | Para qué |
+|---|---|---|---|
+| [«Himmel The Hero»](https://sketchfab.com/3d-models/none-18793206124245eb8e20fafc95b868ab) | bmwylam | **CC Attribution** | la **estatua de Himmel** entera: pose heroica (concepto A) ✅ |
+| [«Himmel the Hero Pedastal»](https://sketchfab.com/3d-models/none-8f3f0a27429341149ccc442ef24ee0c0) | bmwylam | **CC Attribution** | el **pedestal** aparte: ahí va la placa con el texto ✅ |
+| [«Medieval castle with village»](https://sketchfab.com/3d-models/none-5109b5e46e064790badecedf8f6d2ef6) | isogl | CC Attribution | pueblo medieval genérico para bloquear el fondo (no es de la serie) |
+| [«Low Poly Medieval Environment Pack (35+ Props)»](https://sketchfab.com/3d-models/none-a850530905a24d97bc4aa83353aba134) | anastasita.3d | CC Attribution | casas, vallas, barriles para ambientar |
+
+**Crédito exacto** (CC BY lo exige): «"Himmel The Hero" by bmwylam,
+licensed under CC BY 4.0, sketchfab.com». Igual para los demás.
+⚠️ **No hay** en Sketchfab un pueblo o ruina **de la serie** con licencia
+libre (probados: «frieren village», «frieren ruins», «frieren royal
+capital», «frieren tomb»). Las texturas y modelos CC0 de Poly Haven
+(cofre, libros, faroles, `gothic_statue`, mármol, bronce con pátina) están
+en **33 §5.4**.
+
+## Punto 4 · Sitios, luz y paleta medida
+
+Los 12 sitios que ya midió 33 (Capital, colina de los meteoros, fogata,
+casa de Heiter, termas, Heiß, la biblioteca del monasterio…) están en
+**33 §5.2**, y la paleta general en **33 §5.3**. Aquí van **los sitios
+nuevos**, medidos con `estilo.py` en fotogramas y fondos oficiales.
+
+### 4.1 Los sitios nuevos, con su luz
+
+| Sitio | Dónde | Luz y hora | Paleta medida | Saturación / brillo |
+|---|---|---|---|---|
+| **Aureole**, el más allá | EP4 (memoria_01 n.º 1) | luz blanca total, niebla, un rayo dorado | `#F1F4E8` 46 %, cielo `#C6F1F8` 25 %, verdes `#C4D7C5` `#A3AE64`, hojas `#EAEB96` | **16 % / 93 %** |
+| **Flamme y los muertos** en Aureole | EP4 (n.º 2) | la misma, con figuras transparentes | fondo `#EDF2DA` `#C9E4DC`, siluetas `#D4E5AF` `#B3C891`, oro `#B98D4A` | muy baja / muy alta |
+| **Puente de piedra** en el bosque | PV2 T1, [0:31](https://www.dailymotion.com/video/x8mkolb?t=31) (n.º 9) | sol filtrado entre hojas | hojas `#689193` `#396769`, sombra `#1F3A4C`, luz `#E5EEC5` | 39 % / 58 % |
+| **Campo de flores rosa** con montañas | PV2 T1, [0:41](https://www.dailymotion.com/video/x8mkolb?t=41) (n.º 10) | mediodía despejado | cielo `#9BD3E4` `#DDF2F8`, flores `#D289A5`, árboles `#87A77E` | 27 % / **85 %** |
+| **Cueva de agua azul** (sitio nuevo) | PV2 T1, [0:47](https://www.dailymotion.com/video/x8mkolb?t=47) (n.º 11) | oscuridad con **un boquete de luz** arriba y el bastón brillando en cian | agua `#60A3C3` `#154B94` `#2D4866`, luz `#C0EDF7` | **59 %** (la más saturada) |
+| **Flores azules gigantes** | PV2 T1, [1:27](https://www.dailymotion.com/video/x8mkolb?t=87) (n.º 12) | atardecer dorado, pétalos al viento | cielo `#F9F9E5` `#F7F3B8`, flores `#39375A` `#7D709A` | 27 % / 75 % |
+| **Colina de Qual** | T1-03, [clip 0:10](https://www.dailymotion.com/video/x8qbrgb?t=10) (n.º 13) | **cielo cubierto**, sin sol | hierba `#444C2C`, cielo `#B2BEC6` `#9AA7B9` `#CED6D2` | 23 % / 59 % |
+| La misma, plano general | T1-03, [clip 2:00](https://www.dailymotion.com/video/x8qbrgb?t=120) (n.º 14) | igual | hierba `#4F5B45`, cielo `#A6B3BF` `#BEC9C9` `#D6DDD3` | **15 %** (la más gris) |
+| **Terraza de la posada, Warm** | EP3 (n.º 8; paisajes_02 n.º 57) | **atardecer sobre el mar**, contraluz | `#F5C4A4` `#7F484D` `#DAB0B5` `#9D635C` | 36 % / 75 % |
+| **Tumba del Rey** | EP23 (n.º 4) | día, sombra de acantilado | piedra `#A69D94` `#BEB5A9`, sombra `#3B4D49` `#576164`, musgo `#62845F` | 20 % / 59 % |
+
+Fuentes: las partes de vídeo e imagen (`partes/video.json` e
+`imagen.json`); los enlaces de cada fondo, en el Punto 1 y el 2. ✅
+medidos con `estilo.py` sobre la imagen bajada.
+
+### 4.2 La luz de la memoria, en cinco reglas (sale de la tabla)
+
+1. **El más allá y el recuerdo feliz**: casi blanco, **brillo > 90 %,
+   saturación < 20 %** (Aureole). Sin sombras duras.
+2. **La pena y la amenaza**: **cielo cubierto**, verdes oliva apagados,
+   saturación **15-23 %** (Qual). Nada de rojo ni negro.
+3. **La calma que duele**: **atardecer melocotón y malva** (Warm), o dorado
+   con flores (PV2 1:27).
+4. **La magia**: el **único punto saturado** del cuadro (la cueva, 59 %: un
+   rayo de luz y la piedra del bastón en cian).
+5. **Los muertos**: siluetas **translúcidas verde-doradas**, nunca en color
+   pleno.
+
+### 4.3 Cómo diseña la luz la concept artist (Seiko Yoshioka)
+
+- Entrevista de abril de 2026 en
+  [Anitrendz](https://www.anitrendz.com/news/2026/04/12/seiko-yoshioka-frieren-interview):
+  para el color del **OP de la T2** usó «los tonos y la transparencia de la
+  acuarela de Abe-san en la portada del tomo 1», buscando «una atmósfera
+  bonita con **tonos medios** que recuerdan a los **impresionistas**»; del
+  tema sacó cuatro palabras: **«nostalgia, sensación de pérdida,
+  luminosidad y calidez»** ✅ (cita directa; el reparto de tareas lo
+  confirma [Sakuga Blog](https://blog.sakugabooru.com/2023/10/05/crafting-a-tangible-aging-world-frieren-beyond-journeys-end-production-notes-01-04/)).
+- **Heiß** (T2): diseñó **primero la colina** desde donde Fern y Stark miran
+  el pueblo, calculando la altura para que **el atardecer ilumine el pueblo
+  con el vapor de las termas y el humo de las chimeneas** «brillando
+  suavemente»; después, el resto (misma entrevista) ✅. Se ve en el boceto
+  `paisajes_01` n.º **14** (dos figuras en rosa en la colina, vapor abajo).
+- **Äußerst** (T1): equilibró el **casco antiguo amurallado** con los barrios
+  nuevos de la Asociación de Magia, como si la isla **hubiera crecido con
+  el tiempo** ✅.
+- **Manae Yamatogi** (fondos) resolvió en el OP de la T2 el plano donde el
+  grupo **camina en el mismo sitio mientras el entorno cambia alrededor**:
+  el paso del tiempo hecho fondo ✅.
+- La **pintura de fondos** la dirige **Sawako Takagi**, en el estudio
+  **Wyeth** ([Sakuga Blog](https://blog.sakugabooru.com/2023/10/05/crafting-a-tangible-aging-world-frieren-beyond-journeys-end-production-notes-01-04/)
+  + la ficha de la wiki que cita 33 §5.1) ✅.
+- El director **Keiichirō Saitō** usa **montajes rápidos de paisajes** (en
+  segundos) para decir que, para una elfa, diez años «no son nada»; el
+  primero, justo tras la despedida de Himmel (eps. 1-2) (Sakuga Blog) ✅.
+
+### 4.4 Texturas reales equivalentes
+
+Madera, plaza, mármol, bronce con pátina, nieve y terciopelo (Poly Haven,
+CC0): **33 §5.4**. Las del paisaje (hierba, corteza, piedra con musgo,
+hielo; ambientCG, CC0): **Punto 19**. Sitios reales fotografiables que se
+parecen al mundo (Yufuin, el campo de nemófilas de Hitachi…): **Punto 18**.
+
