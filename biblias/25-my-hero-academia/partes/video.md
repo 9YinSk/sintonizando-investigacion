@@ -214,11 +214,12 @@ queda en «No encontré».
 | All Might | 1×01, ~19:55 | De espaldas, forma real (flaca), manos en la nuca, niebla blanca | **Pensar / confesar un secreto** — pose nueva |
 | All Might | S1E12 (clip), 0:00-0:09 | Puño en alto con luz lateral, cuerpo encogido antes del golpe, impacto contra la cúpula del USJ | **Regañar/atacar con toda la fuerza** («Plus Ultra») |
 | Uraraka | S2E22, ~5:30-6:00 | De pie, puño cerrado a la altura del pecho, mirada fija, luego primer plano con ojos llorosos de determinación | **Animar(se) / prometer** — confirma y mejora la pose «decidida, puño cerrado» que ya tenía la biblia (§15), ahora con escena y minuto reales |
+| Todoroki | S3E39 «Class 1-A Swimming Competition» (clip), 0:00 | Torso desnudo (traje de baño), medio cuerpo girado, **brazo cubierto de hielo estirado hacia delante**, mirada de reojo, media sonrisa de confianza: «I'll slide through» | **Explicar su estrategia** (usa su Quirk como ventaja) — pose nueva, la biblia sólo tenía a Todoroki pensando o recibiendo un grito, nunca en acción |
+| Aizawa | S3E39 (mismo clip), 0:20 | Primer plano justo de cuello para arriba, **ojos totalmente rojos y brillantes** (Quirk Erasure activado), cejas bajas, boca en línea recta, cuello del traje de captura subido: «Did you say something?» | **Regañar** — confirma y mejora la pose «ojos rojos ⚠️» que la biblia ya proponía para 1×05 (00:12:23) pero marcaba dudosa; aquí queda vista y con minuto real (otro episodio, mismo gesto) |
 
-**Aizawa y Todoroki**: no llegué a confirmar sus poses con vídeo real en
-esta tanda (siguen con la descripción «de memoria ⚠️» de la biblia); lo
-dejo en «Sigue» porque el punto 14 pide que estén analizados los 6
-personajes que da el encargo.
+Con esto quedan confirmados con vídeo real los **6 personajes** que pide
+`encargos/25-my-hero-academia.md` (Deku, All Might, Bakugo, Todoroki,
+Uraraka, Aizawa).
 
 ## Lo mejor para la lámina
 
@@ -300,15 +301,31 @@ personajes que da el encargo.
   «Episode 22» (confirma Bakugo vs. Uraraka/Sports Festival), «1,000,000%
   Delaware Detroit Smash» (pageid 28424, nombre del movimiento), «THE DAY»
   (artista y fecha del OP1), «Episode 13» (lista de BGM, confirma «You Say
-  Run»), «You Say Run 10th Anniversary Ver.» (dato reciente, sep-2026).
+  Run»), «You Say Run 10th Anniversary Ver.» (dato reciente, sep-2026),
+  «Class 1-A Swimming Competition» (confirma Episode 39, arco Forest
+  Training Camp, para las poses de Todoroki y Aizawa).
 - `ambientcg.com/api/v2/full_json?type=Material&q=concrete+damaged` →
   Concrete044D/042C, CC0, para la cúpula del USJ.
+- Dailymotion, búsqueda «My Hero Academia Aizawa Erasure capture weapon»
+  (inglés) → [`x6tcw9u`](https://www.dailymotion.com/video/x6tcw9u)
+  («Aizawa Stops Hype Race…», 53 s): trae a Todoroki Y Aizawa en la misma
+  escena (competición de natación 1-A), confirmado como Episodio 39 (S3)
+  por la wiki.
 
-**Sigue:** confirmar con vídeo real las poses de **Aizawa** y **Todoroki**
-(punto 14 pide los 6 personajes del encargo: Deku, All Might, Bakugo,
-Todoroki, Uraraka y Aizawa — Deku, All Might, Bakugo y Uraraka ya están
-confirmados arriba). Buscar un clip corto de Aizawa (p. ej. «capture
-weapon», «erasure quirk») y de Todoroki (p. ej. «half-cold half-hot»,
-«Endeavor») en Dailymotion/Internet Archive con `fotogramas.py`, y si no
-aparecen, dejarlo en «No encontré» con las búsquedas hechas (no como
-«no existe»).
+## Cumplimiento de mis puntos (2, 4, 9, 10, 14)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 2 · Escenas icónicas con capítulo y minuto | ✅ | Episodio 1 completo (sub. español) + 3 escenas icónicas identificadas y confirmadas por la wiki (S1E12, S2E22, S3E42), todas miradas con `fotogramas.py` |
+| 4 · Sitios, luz y paleta medida + texturas | ✅ | 4 sitios con paleta medida por `estilo.py` (no de memoria) + textura CC0 equivalente para la cúpula del USJ |
+| 9 · Música (OP/ED confirmados, tema en escena emotiva) | ✅ | OP1, OP2 y ED1 confirmados con 2 fuentes (wiki + créditos vistos); tema de escena emotiva (Episodio 13, «You Say Run») confirmado por episodio, ⚠️ falta el minuto exacto |
+| 9 · Efectos de sonido/onomatopeyas | ⚠️ no llegué | Sin fuente propia; sería un extra, no bloquea el punto |
+| 10 · Vídeos con minuto exacto (tráiler, escenas, tendencias) | ⚠️ a medias | Tráiler oficial de «Two Heroes» + 3 escenas con minuto ✅; tendencias de TikTok no comprobables sin esa red (extra, no obligatorio con la red de este contenedor) |
+| 14 · Poses por personaje (6 personajes del encargo, con capítulo/minuto) | ✅ | Deku, All Might, Bakugo, Uraraka, Todoroki y Aizawa confirmados con vídeo real y minuto |
+
+**Parte terminada**: los puntos obligatorios de 2, 4, 9, 10 y 14 de
+ENCARGO.md están cubiertos con vídeo real (Internet Archive + Dailymotion,
+con `fotogramas.py`) o con dos fuentes. Lo que falta (minuto exacto de
+«You Say Run» dentro del episodio 13, onomatopeyas con fuente propia,
+tendencias de TikTok) son extras, anotados arriba en «No encontré» con ⚠️,
+no bloquean el cumplimiento del encargo.
