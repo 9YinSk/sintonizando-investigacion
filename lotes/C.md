@@ -114,3 +114,18 @@ que lo tomó a las 02:45 y se quedó sin saldo enseguida: no subió nada más de
 | 24 | vídeo | Sonnet | 13 | 213 mil |
 | 24 | voz | Sonnet | 13 | 215 mil |
 | 24 | texto | Sonnet | 11 | 186 mil |
+
+## Cambio de cuenta (07:05 UTC del 25, cuenta .105)
+
+Ramas juntadas (choque sólo con `claude/cool-galileo-vpncap`, archivos del lote D, ajeno);
+herramientas instaladas (yt-dlp, Pillow, opencv-python-headless, faster-whisper,
+scenedetect, parselmouth, onnxruntime, ffmpeg, tesseract-jpn/spa); `guardar.sh --cada 300`
+en marcha.
+
+- 24 Assassination Classroom: redactor (Opus, repaso) en marcha desde las 07:06 para
+  cerrar tabla de cumplimiento, 3.ª hoja, «Segunda pasada» y minutos citados.
+- 25 My Hero Academia: recolectados datos y 92 hojas de contacto candidatas
+  (`herramientas/referencias/my-hero-academia`); falló `animethemes` (HTTP 522, se
+  lo pedí reintentar al investigador de vídeo). 4 investigadores (Sonnet, repaso) en
+  marcha desde las 07:29.
+- 26-30: datos ya recolectados de antes; sin equipo todavía, siguen en orden.
