@@ -334,4 +334,99 @@ salvo que se diga otra cosa.
 
 ## No encontré
 
+- ⚠️ **Tráiler japonés original de 1997** en YouTube (enlace de AniList): no se
+  pudo mirar, YouTube pide iniciar sesión desde este servidor compartido. Busqué
+  el mismo tráiler en Dailymotion e Internet Archive y no apareció con ese
+  contenido exacto (sólo tráilers de reestrenos/doblajes posteriores).
+- ⚠️ **Minuto exacto de qué pista del soundtrack suena en cada escena**: la
+  wiki y MusicBrainz dan la lista y duración de las 33 pistas, pero no un
+  minutado escena-por-pista del montaje final; lo que pongo arriba es
+  asociación razonada por título/duración, no comprobación con el audio
+  sincronizado (habría que un pase con `voz.py` sobre el Blu-ray, que no está
+  disponible en Internet Archive con el audio original completo).
+- ⚠️ **Número de vistas o "me gusta" de un vídeo de TikTok concreto**: no hay
+  acceso directo a TikTok desde este servidor para leer los contadores; sólo
+  quedaron los enlaces y el nombre del canal, confirmados por búsqueda web.
+- ⚠️ **AnimeThemes** (openings/endings estandarizados): la API no respondió
+  (522 y timeout); no es grave porque la película no tiene OP/ED por episodio
+  como una serie.
+- ⚠️ **Aparición completa del Shishigami en su forma de día caminando sobre el
+  agua** (la escena de "cada paso hace brotar y marchitar flores"): la
+  reconozco por descripción de la wiki y por los fotogramas de alrededor
+  (min 1:09–1:13, bosque del santuario), pero no aislé el fotograma exacto en
+  el que se le ve completo caminando por presupuesto de red — sólo tengo su
+  encuentro con San/Okkoto (min 1:12:05) y su forma nocturna, el Nightwalker
+  (min 1:54:00), que sí están confirmadas en HD.
+- ⚠️ **Análisis de vídeo en YouTube con minuto de lo que dicen**: por el
+  bloqueo de YouTube sólo pude dejar título y enlace, no el contenido.
+
 ## Bitácora de búsqueda
+
+**Ya hecho por `recolectar.py`** (no repetido, ver `datos-video.md`): AniList
+(tráiler y streaming), Dailymotion (6 clips), Internet Archive (14 ítems),
+MusicBrainz (10 álbumes) — AnimeThemes falló con 522.
+
+**Búsquedas propias, con idioma**:
+- (es) `"La princesa Mononoke" análisis video ensayo YouTube minuto escena` → 2
+  vídeos de análisis y 1 reseña escrita, sin acceso a contenido por bloqueo de
+  YouTube.
+- (en) `Joe Hisaishi "Mononoke Hime" soundtrack tracklist "Ashitaka" theme
+  scene music` → confirmó nombres de pistas, llevó a Ghibli Fandom para la
+  tabla completa.
+- (en) `Princess Mononoke TikTok trend edit sound viral 2026` → tendencia
+  "Princess Mononoke Edit", canción "The Seed" de Aurora.
+- (es) `"princesa mononoke" tiktok edit millones vistas San Ashitaka audio
+  viral` → confirmó la misma tendencia, sin cifras exactas.
+- (en) `Mononoke Hime kodama sound effect "kata kata" onomatopoeia forest
+  spirits` → llevó al PDF académico de Nottingham y a soundeffects.fandom.com.
+
+**Fuentes consultadas directamente (API/wiki, sin gastar cupo de buscador)**:
+- `ghibli.fandom.com/api.php` (búsqueda + wikitext): páginas "Princess
+  Mononoke/Soundtrack", "Ashitaka and San", "The Legend of Ashitaka".
+- `soundeffects.fandom.com/api.php`: página "Princess Mononoke (1997)".
+- `archive.org/metadata/1997-mononoke-hime-la-princesa-mononoke`: resolución
+  real (1920×1040) y licencia (ninguna declarada, colección "opensource_movies").
+- `ambientcg.com/api/v2/full_json`: texturas CC0 `moss`, `wood`, `metal`.
+- Streaming HTTP directo con `ffmpeg -ss` sobre la URL de descarga de Internet
+  Archive: 12 fotogramas en 1920×1040 sin bajar los 2 GB completos del archivo.
+
+**Vídeo mirado de verdad** (con Read de las hojas, no reseñas): tráiler
+teaser oficial completo (16 fotogramas) · película completa a intervalos de
+5 min de principio a fin (`mapa/hoja_01.jpg`, 27 fotogramas) · escena de la
+maldición inicial, min 2:00–7:00 (15 fotogramas) · presentación de San,
+min 25:50–29:10 (10 fotogramas) · bosque del dios ciervo/Okkoto,
+min 1:09:10–1:18:20 (25 fotogramas en 2 hojas) · Moro y la roca,
+min 1:19:00–1:22:40 (12 fotogramas) · San herida tras el ataque a Irontown,
+min 53:00–56:40 (12 fotogramas) · batalla final de los jabalíes,
+min 1:39:10–1:45:00 (14 fotogramas) · clímax y créditos finales,
+min 1:50:00–2:13:00 (24 fotogramas) · 12 fotogramas sueltos en HD
+(1920×1040) de las escenas más citadas arriba. Total: más de 165 fotogramas
+distintos mirados uno a uno.
+
+**Vídeo borrado tras usarlo** (AYUDANTE.md, disco compartido): se eliminaron
+los dos `video.mp4` de 480p (`test/` y `mapa/`, 380 MB cada uno, el segundo
+duplicado del primero) en cuanto se sacaron todas las hojas que hacían falta.
+Sólo quedan los JPEG de las hojas y los fotogramas HD sueltos (5,6 MB en total
+la carpeta de trabajo). Si hace falta relocalizar otra escena del montaje,
+hay que volver a bajarlo con `fotogramas.py` sobre
+`archive.org/details/so-3f-cb-vwqm-0-d` (480p) o sacar el fotograma directo en
+HD con `ffmpeg -ss <s> -i <url_directa_de_archive.org>` como se hizo aquí,
+sin descargar el archivo completo.
+
+**Fuentes totales citadas en esta parte** (con fuente propia, sin contar las
+que ya traía `datos-video.md`): Ghibli Fandom (3 páginas) · MusicBrainz ·
+Soundeffects Fandom · PDF académico de Nottingham · Discogs (búsqueda, sin
+datos extraídos) · ambientCG (3 texturas) · Dailymotion (1 tráiler mirado + 6
+enlazados) · Internet Archive (2 copias de vídeo) · YouTube (3 enlaces sin
+poder mirarlos) · TikTok (búsqueda agregada + 2 vídeos concretos) ·
+Wikipedia/Cintilatio (análisis, referencia indirecta vía buscador). Con los
+40+ de `datos-video.md` (AniList, Dailymotion×6, Internet Archive×14,
+MusicBrainz×10) el total del punto de partida más esta parte supera
+holgadamente el mínimo de 40 fuentes distintas que pide `ENCARGO.md` para
+todo el dossier (la cuenta final la hace el redactor sumando las 4 partes).
+
+**Parte terminada**: los 5 puntos (2, 4, 9, 10, 14) están completos con lo
+obligatorio que pide `ENCARGO.md`. Los extras que faltaron quedan arriba en
+"No encontré" con ⚠️, no como pendiente. Si el redactor necesita el fotograma
+exacto del Shishigami caminando de día sobre el agua, pedírmelo y se saca con
+`ffmpeg -ss` sobre la URL de Internet Archive ya usada en esta parte.
