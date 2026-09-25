@@ -1,0 +1,155 @@
+[
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Saga_of_Tanya_the_Evil",
+    "fuente": "Doblaje Wiki (API wikitext)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa del doblaje latino: estudios, directores, reparto completo con temporadas y muestras de audio",
+    "para_que": "Fuente primaria del reparto latino (Punto 8). Contiene cada actor por personaje y temporada.",
+    "licencia": "CC BY-SA 3.0"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/b/b5/Tanya_Degurechaff_Saga_Of.ogg/revision/latest?cb=20190923060213&path-prefix=es",
+    "fuente": "Doblaje Wiki – muestra de audio Tanya (narración ep.1)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de voz latina de Tanya (Jocelyn Robles): narración del episodio 1, registro medio 205Hz, 15,9 semitonos",
+    "para_que": "Frases textuales del doblaje (Punto 8): 'En un mundo maldito, lleno de guerras continuas…'. Referencia de tono y estilo vocal.",
+    "licencia": "Uso educativo / referencia de doblaje"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/e/e9/Tanya_Degurechaff_Forma_Real.ogg/revision/latest?cb=20190923070737&path-prefix=es",
+    "fuente": "Doblaje Wiki – muestra de audio Tanya (salaryman)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de voz latina de Tanya pre-reencarnación (José Gilberto Vilchis): registro grave 89Hz, 11,5 semitonos",
+    "para_que": "Frases textuales: 'Estoy completamente consciente de mis deficiencias humanas… soy mejor que el incompetente frente a mí.'",
+    "licencia": "Uso educativo / referencia de doblaje"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/4/48/Viktoriya_Ivanovna_Saga.ogg/revision/latest?cb=20190923060340&path-prefix=es",
+    "fuente": "Doblaje Wiki – muestra de audio Visha (Erika Langarica)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de voz latina de Visha: registro agudo 229Hz, muy expresiva 23,1 semitonos",
+    "para_que": "Frase textual: 'La teniente Tania de Gurechav volaba firme, impasible, entre la lluvia de balas y proyectiles.'",
+    "licencia": "Uso educativo / referencia de doblaje"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/3/32/Youjo_Senki_Vooren_Grantz.ogg/revision/latest?cb=20200702041650&path-prefix=es",
+    "fuente": "Doblaje Wiki – muestra de audio Grantz (Eleazar Muñoz)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de voz latina de Grantz: registro muy agudo 358Hz, muy expresiva 29,1 semitonos. Frase explosiva de combate.",
+    "para_que": "Frases: '¡Carajo! ¡Se ha vuelto loca! ¡Maldita!' — referencia de doblaje de acción.",
+    "licencia": "Uso educativo / referencia de doblaje"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/3/38/Matheus_Johan_Weiss.ogg/revision/latest?cb=20190930222626&path-prefix=es",
+    "fuente": "Doblaje Wiki – muestra de audio Weiss",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de voz latina de Weiss: registro medio 181Hz, muy expresiva 17,9 semitonos, velocidad rápida",
+    "para_que": "Frases: 'Sí, señor. ¿Eliminamos a los enemigos restantes?...' — referencia de diálogo militar formal.",
+    "licencia": "Uso educativo / referencia de doblaje"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/b/b3/Youjo_Senki_Isaac_Dustin_DRAKE.ogg/revision/latest?cb=20200701185242&path-prefix=es",
+    "fuente": "Doblaje Wiki – muestra de audio Drake (Óscar Gómez)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de voz latina de Drake: registro grave 111Hz, muy expresiva 9,8 semitonos, tono serio",
+    "para_que": "Frases: 'Realmente es un demonio.' — perspectiva del enemigo sobre Tanya, referencia de diálogo antagonista.",
+    "licencia": "Uso educativo / referencia de doblaje"
+  },
+  {
+    "url": "https://anilist.co/anime/21613",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la serie en AniList con ranking de personajes por favoritos de usuarios",
+    "para_que": "Punto 7 (popularidad): Tanya 6458 favs, Visha 761. Segunda fuente para reparto latino.",
+    "licencia": "Uso libre"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Tanya_von_Degurechaff",
+    "fuente": "Youjo Senki Fandom Wiki – página de Tanya",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo completo sobre Tanya: personalidad, historial, citas, apariencia, relaciones, rangos militares",
+    "para_que": "Punto 13 (descripción profunda de Tanya). Confirmación de alias, citas icónicas y rasgos de carácter.",
+    "licencia": "CC BY-SA 3.0"
+  },
+  {
+    "url": "https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov",
+    "fuente": "Youjo Senki Fandom Wiki – página de Visha",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre Viktoriya: personalidad en anime/manga/LN, trivia (chocolate, cartas, café), relaciones",
+    "para_que": "Punto 13 y 20 (descripción y gustos de Visha). Trivia de café y cartas.",
+    "licencia": "CC BY-SA 3.0"
+  },
+  {
+    "url": "https://www.soapcentral.com/anime/saga-tanya-evil-ii-episode-12-a-brutal-finale-changes-everything",
+    "fuente": "Soap Central – review del final de la temporada 2 (2026)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis del episodio 12 de la T2: muerte de Rudersdorf, traiciones, momento emotivo más fuerte del final",
+    "para_que": "Punto 21 (escenas que emocionan): muerte de Rudersdorf con la conclusión equivocada.",
+    "licencia": "Uso editorial"
+  },
+  {
+    "url": "https://studiojakemedia.substack.com/p/the-saga-of-tanya-the-evil-anime",
+    "fuente": "Studio Jake Media – reseña del anime",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis crítico de la serie: el Misunderstanding Field, por qué funciona como isekai atípico",
+    "para_que": "Punto 12 y 21: por qué el fandom ama la serie, concepto del bucle cómico-dramático de Tanya.",
+    "licencia": "Uso editorial"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9uycb4",
+    "fuente": "Dailymotion – Trailer temporada 2 (Espinof, 2436 vistas)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tráiler oficial de la temporada 2 doblado al español latino, 1:42 min",
+    "para_que": "Referencia de frases del doblaje T2 y de imagen promocional de la temporada.",
+    "licencia": "Promotional / Crunchyroll"
+  },
+  {
+    "url": "https://danbooru.donmai.us/posts?tags=youjo_senki",
+    "fuente": "Danbooru – tag youjo_senki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Galería de fan art del tag youjo_senki (1529 posts). Tanya_degurechaff = 1461 dibujos individuales.",
+    "para_que": "Punto 7 (popularidad): Tanya es la etiqueta individual dominante de la serie en el fandom artístico.",
+    "licencia": "Referencia de uso"
+  },
+  {
+    "url": "https://www.facebook.com/Ashfandubs/videos/1017435787805721/",
+    "fuente": "Ash Fandubs – Facebook",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub en español latino de una escena de Tanya Degurechaff, Youjo Senki",
+    "para_que": "Punto 22 (fan dubs hispanos): evidencia de actividad de fandub en comunidad latina.",
+    "licencia": "Fan content"
+  },
+  {
+    "url": "https://www.crunchyroll.com/es/series/GR9P57W96/saga-of-tanya-the-evil",
+    "fuente": "Crunchyroll Latinoamérica – Saga of Tanya the Evil",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página oficial de Crunchyroll con temporadas 1 y 2 disponibles en español latino",
+    "para_que": "Punto 8 y 22: confirma disponibilidad del doblaje latino oficial en streaming.",
+    "licencia": "Plataforma oficial"
+  },
+  {
+    "url": "https://mystiqora.com/saga-of-tanya-the-evil-season-2-release-date-confirmed-trailer-cast-and-reddit-community-reacts-to-the-july-2026-return/",
+    "fuente": "Mystiqora – reacción del fandom a T2 (2026)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre el estreno de la T2 en julio 2026 y la reacción masiva de Reddit, YouTube y Twitter/X",
+    "para_que": "Punto 21 (por qué la aman): contexto del revival del fandom en 2026.",
+    "licencia": "Uso editorial"
+  }
+]
