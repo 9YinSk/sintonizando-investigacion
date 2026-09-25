@@ -108,11 +108,13 @@ pasada**».
 
 ### Los ⚠️
 
-- Antes: **97** ⚠️. Ahora hay más símbolos (se marcó cada dato nuevo con
-  una sola fuente y cada casilla vacía de caras por emoción), pero **se
-  resolvieron unos 30 de los viejos**: voces de 2002, estudio, voces de
-  2025, licencias, fondos, artbook, luz y paleta, orejas de Stitch,
-  «Muero de amor por ti», la sal, el pelo de Lilo.
+- Antes: **97** ⚠️. Ahora: **206**. Hay más porque se marcó cada dato
+  nuevo con una sola fuente y cada casilla vacía de caras por emoción.
+  De los 97 viejos, **30 se reescribieron** (casi todos resueltos: voces
+  de 2002, estudio, voces de 2025, licencias, fondos, artbook, luz,
+  orejas de Stitch, la sal) y 67 siguen en el texto de la 1.ª pasada;
+  varios de ésos quedan contestados en las secciones nuevas (§15.1 para
+  las poses, §16.1 para el vestuario, §5.4b para la paleta).
 - **Quedan** (lo importante): la frase latina de la cámara, el director
   del doblaje de 2002, 11 caras por emoción, la marca de la cámara y el
   «TIMER DINGS», hex planos de Stitch, Jumba, Cobra y David, vídeos de
