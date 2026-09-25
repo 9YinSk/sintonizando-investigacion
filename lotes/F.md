@@ -24,6 +24,8 @@ Cuenta: cuenta A104
 - **Corte por límite de sesión** (07:5x-13:03 UTC, `rate_limit`, «resets 11:50am UTC»): 4 agentes
   murieron antes de escribir nada (84 voz, 84 vídeo, 85 imagen) o a mitad de tanda (85 texto,
   con avance parcial guardado). Relanzados los 4 a las 13:0x UTC.
+- 85 Sword Art Online (todas): **COMPLETA y subida** (13:5x UTC). ✅26 ⚠️11 ❌0, 74 referencias, 52 webs, 828 líneas.
+- 86 Saga of Tanya the Evil: lanzados imagen y texto.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
@@ -83,6 +85,17 @@ Cuenta: cuenta A104
   (gitignoreado, comprobé que no se subió nada). §12 de la biblia lista qué evitar en
   láminas. Corregidos 4 errores de identificación en fotogramas y un dato falso de la
   parte de texto (sí hay doblaje latino: Paraíso Pro, Netflix 2020).
+
+- **85 Sword Art Online (todas):** más querida, Asuna (encuesta oficial Dengeki Bunko 2015,
+  68 993 votos; Kirito 4.º). Cuadro de diálogo propio: la ventana del sistema (nunca
+  burbuja), blanca con botones redondos, invitación con ○ azul y ✕ rojo; en Underworld,
+  la orden hablada «System Call!» (se dobla también en latino). Láminas: A #presentaciones
+  (Asuna ante el estandarte K.O.B.), B #reto-de-la-semana (Kirito con la Elucidator en el
+  jefe del piso 74), C #general-doblaje (Sinon en GGO con Bullet Circle/Line).
+  Aviso: vídeo sólo en Dailymotion a 248-360p (YouTube bloqueado); frases latinas sin
+  episodio ni minuto (sólo Doblaje Wiki); las partes no coinciden en la enfermedad de
+  Yuuki (lupus o VIH) — queda ⚠️ sin resolver. #reto-de-la-semana y #general-doblaje
+  también los piden otras series (nota, no bloquea).
 
 - 90 Kaguya-sama repite la serie de 43 (lote D) con otro enfoque («comedia y rótulos»). La dejo para el final del lote: si la 43 ya está, la 90 sólo profundiza en ese enfoque.
 - 79, 80 y 89 son segundas miradas a Demon Slayer (31), Solo Leveling (03) y Frieren (33) con un enfoque propio (paisajes, sistema, memoria): se parte de esas biblias para no repetir.
@@ -147,3 +160,4 @@ Cuenta: cuenta A104
 | 82-the-rising-of-the-shield-hero | redactor (opus, cuenta .104) | opus | 12 | 262802 |
 | 83-overlord | redactor (opus, cuenta .104) | opus | 10 | 240466 |
 | 84-no-game-no-life | redactor (opus, cuenta .104) | opus | 14 | 277299 |
+| 85-sword-art-online-todas | redactor (opus, cuenta .104) | opus | 11 | 228393 |
