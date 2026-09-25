@@ -96,6 +96,17 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
   - Por comprobar de oído: «¡Skadoosh!» y «No hay ingrediente secreto» en el doblaje latino.
   - YouTube bloqueado por login: los fotogramas quedaron en 320-1280 px, no en 1080p.
 
+- **64 Steven Universe** (COMPLETA, 1181 líneas, 152 referencias, 64 webs; ✅25 ⚠️12 ❌0): más querido,
+  **Perla** (414 dibujos en Danbooru, más dibujada; le sigue Lapis con 394 y Peridot con 355). Garnet es
+  la 1.ª para IGN y para el equipo; sin encuesta oficial. Cuadro de diálogo: la serie no usa globos; lo
+  suyo es la **cartela de título de cada capítulo con la letra Crewniverse** (comprobada con fontTools:
+  trae tildes, ñ, ¿ y ¡). Dentro del mundo están el Comunicador de las Diamantes y los carteles en Gem
+  Glyph. Láminas: A #🎵・canto ⭐ «El cancionero del atardecer» (Steven y su ukulele en el techo del
+  vagón rojo), B #🪪・presentaciones «La Guía de las Gemas» (Perla explicando la ficha, Amatista
+  señalando la suya), C #📂・proyectos «Las gemas en la Puerta del Templo» (Garnet chasqueando los
+  dedos ante una etapa del proyecto).
+  - Antes de rotular: la descripción de #🪪・presentaciones en servidor/inventario.md.
+
 ## Costos
 
 | Serie | Rol | Modelo | Minutos | Tokens |
@@ -105,3 +116,4 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
 | 59 | imagen | Sonnet | 17 | 261 mil |
 | 59 | video, voz, texto y redactor | Sonnet / Opus | — | sin medir (sesión .105; su aviso de fin se perdió) |
 | 60 | redactor (puntos 18-25 y cierre) | Opus | — | sin medir (aviso de fin no trajo tokens) |
+| 64 | equipo completo | Sonnet + Opus | — | — |
