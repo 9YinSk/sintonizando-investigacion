@@ -57,13 +57,20 @@ sólo con ellos dos, usando URLs que ya traía `datos-imagen.md`/`fandom.json`.
   ✅. El estreno en cines se movió de dic-2026 a **verano de 2027**
   ([Movie Insider](https://www.movieinsider.com/m6516/shrek-5)) ⚠️ (dato de
   una sola fuente, pero coincide con la fecha que ya traía la wiki).
-- **25.º aniversario (2026, la película original es de 2001)**: postal
-  promocional oficial con la cita de Fiona «By night one way, by day
-  another» y el hashtag **#SHREK25** visible en la imagen, 1200×1200
-  (`personajes_05.jpg`/hoja 5 automática n.º 222,
-  `https://static.wikia.nocookie.net/shrek/images/.../Tumblr_b8561e307d11c41fd924ce1f8759564...`
-  — ver `datos-imagen.md`) ✅ vista con Read; confirma que DreamWorks sí
-  hace campaña propia de aniversario, útil para una lámina "de aniversario".
+- **Postal oficial del 25.º aniversario — pero de DreamWorks Animation
+  como estudio (fundado 1994), no de Shrek como película** (ojo, no
+  confundir): baja con crédito «SHREK © 2020 DREAMWORKS ANIMATION LLC» y el
+  logo «25 YEARS» del estudio, hashtag `#SHREK` — cita de Fiona «By night
+  one way, by day another». Descargada y vista entera (no sólo en la hoja de
+  contacto): `https://static.wikia.nocookie.net/shrek/images/8/85/Tumblr_b8561e307d11c41fd924ce1f87595646_38691572_1280.jpg`,
+  1200×1200 ✅. De paso, es una **quinta variante de vestuario de Fiona**:
+  vestido verde-azulado oscuro de gala con cuello dorado, distinto del verde
+  de viaje, el morado de coronación y el azul del baile — medido con
+  `estilo.py`: `#245152` (verde-azulado principal), `#07110F` (sombra
+  profunda) ✅ (`estilo7.json`). El 25.º aniversario **de la propia película
+  Shrek** cae en 2026 (estrenada en 2001): no encontré una campaña oficial
+  específica para ese aniversario más allá de lo que ya trae el teaser de
+  *Shrek 5* ⚠️.
 - **Artbooks oficiales** (dos, con ficha bibliográfica):
   - *Shrek: The Art of the Quest* (Kathleen Jones, DreamWorks/becker&mayer!,
     ISBN 9781933784182): arte inédito de las 3 primeras películas, tras
@@ -80,8 +87,11 @@ sólo con ellos dos, usando URLs que ya traía `datos-imagen.md`/`fandom.json`.
 - **Vídeojuegos con caja/arte propio** (ya en `datos-imagen.md` vía Steam,
   ampliado aquí): *Shrek 2* (PS2/Xbox/GameCube, THQ) y *Shrek Super Slam*
   tienen arte de caja con el elenco completo en pose de acción, visto en
-  `personajes_05.jpg`/hoja 5 automática (n.º 229 «Shrek 2 Top Trump Card»,
-  n.º 230-232 fichas de videojuego estilo RPG con stats de Shrek y Fiona) ✅.
+  `herramientas/referencias/shrek/hoja_05.jpg` (n.º 221 «Shrek 2 Top Trump
+  Card - Handsome Shrek», 980×1577; n.º 230-232 fichas de videojuego estilo
+  RPG con stats de Shrek y Fiona) ✅ — esta hoja no es una de las 3 que copié
+  a `hojas/`, pero sigue disponible en la carpeta compartida para quien
+  retome.
 - No hallé un **key visual único de campaña** (tipo póster con todo el
   elenco en composición nueva) para las películas originales fuera de los
   carteles teatrales ya muy conocidos (buscados en inglés «Shrek theatrical
@@ -151,6 +161,17 @@ pegar)** — top valorado por personaje, medido con la API pública:
   sobre `Fiona_human_2_pose_full.png` (1681×3300): `#2F4542`/`#536C6C`
   (azul-verdoso apagado, tipo petróleo) ⚠️ (una imagen, fondo oscuro
   mezclado).
+- **Fiona — vestido de gala verde-azulado con cuello dorado** (postal
+  oficial del 25.º aniversario de DreamWorks Animation, punto 1): medido
+  sobre la imagen descargada `Tumblr_b8561e307...1280.jpg` (1200×1200,
+  cuerpo entero, fondo blanco limpio): `#245152` (verde-azulado principal),
+  `#07110F` (pliegues/sombra) ✅ (`estilo7.json`) — pelo suelto con trenza
+  lateral fina, corona dorada de puntas simples (no la tiara con gemas de
+  otras escenas): buen recorte para medir peinado y accesorio con nitidez.
+- **Peinado de Fiona**: pelirroja, suelta con una trenza fina a un lado en
+  la mayoría de apariciones "de gala" (imagen anterior y `Fiona_kick_alternate.jpg`),
+  recogida en una coleta/trenza más gruesa con la armadura de guerrera
+  (`Warrior_Fiona.jpg`) — confirmado visualmente en las 3 imágenes ✅.
 - **Burro**: pelaje gris con manchas más claras en el hocico y crin negra.
   Medido sobre el recorte limpio `DonkeyTransparent.png` (1182×2864, fondo
   transparente): `#917D6B` (gris-marrón claro, lomo), `#6C5C4C` (gris medio),
@@ -417,7 +438,7 @@ Shrek Forever After* (título, editorial, año, páginas, ISBN).
 |---|---|---|
 | 1 · Arte oficial variado | ✅ | 424 imágenes de wiki con tamaño real, 2 artbooks oficiales con ficha, carteles de *Puss in Boots*, 2 imágenes de *Shrek 5* (confirmadas con 2 fuentes), postal del 25.º aniversario, arte de videojuego |
 | 3 · Fan art y 3D con licencia | ✅ | 6 modelos Sketchfab con licencia confirmada por la API (no sólo la página), fan art de los 4 personajes en Safebooru con autor/origen enlazado |
-| 15 · Vestuario con hex medidos | ✅ | Hex medidos con `estilo.py` para Shrek, Burro, Gato con Botas y 4 vestuarios distintos de Fiona (viaje, guerrera, coronación ⚠️, baile ⚠️); 2 de Fiona quedan con una sola fuente marcada |
+| 15 · Vestuario con hex medidos | ✅ | Hex medidos con `estilo.py` para Shrek, Burro, Gato con Botas y 5 vestuarios distintos de Fiona (viaje, guerrera, coronación ⚠️, baile ⚠️, gala 25 aniversario); 2 de Fiona quedan con una sola fuente marcada |
 | 16 · Fondos de pantalla | ✅ | Pantano (día y noche), Duloc y Far Far Away con hex medidos y cruce con texto de la wiki; 11 wallpapers con autor y tamaño; 3 texturas CC0 equivalentes |
 | 19 · Texturas 2D | ✅ | Libro de cuentos pintado a mano, cuero del chaleco y corona con ficha propia, con equivalentes CC0 (Paper, Leather); bordado dorado y logo de Duloc marcados ⚠️/"no aplica" con la búsqueda hecha |
 | 23 · Colaboraciones y cruces | ✅ | 5 colaboraciones oficiales confirmadas con fecha y fuente doble; Fortnite y Vans confirmados como **no existentes** (no "posible confusión"); cosplay con crédito quedó como extra sin encontrar |

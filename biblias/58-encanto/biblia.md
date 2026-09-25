@@ -1382,3 +1382,255 @@ la investigación ⚠️.
 grandes: YouTube y TikTok no dejan entrar desde el servidor y
 Dailymotion casi no tiene fandubs ⚠️.
 
+## 24 · Colaboraciones, figuras y cosplay (punto 23)
+
+**Juegos y cartas** (poses y ropa nuevas; detalle en §13): Disney Lorcana
+(15 cartas en la hoja), Disney Speedstorm (temporada «Madrigal
+Miracle», [Destructoid](https://www.destructoid.com/is-encanto-in-disney-speedstorm/)
+✅), Disney Magic Kingdoms, Disney Heroes: Battle Mode, Dreamlight
+Valley, Emoji Blitz, Solitaire y SpellStruck ✅.
+
+**Espectáculos y parques** (vistos en las hojas; la mayoría con una sola
+fuente ⚠️):
+- **Disney On Ice**, número con los Madrigal ([arte](https://static.wikia.nocookie.net/disney/images/4/4d/The_Madrigals_in_Disney_On_Ice.jpg), 3871×2581) ✅.
+- **Encanto en el Hollywood Bowl**, concierto en vivo (`objetos_01` #49
+  y #88, 3000×1999) ⚠️.
+- **Carroza del desfile de luces** (`personajes_01` #2, «Encanto MSEP»,
+  4096×2732) ⚠️.
+- **EPCOT**: personajes y topiario de Isabela (`personajes_01` #44,
+  `fondos_01` #403) ⚠️.
+- **Mirabel en Disney California Adventure** (`fondos_01` #399) ⚠️.
+- **Isabela y Antonio en Medellín** (`fondos_01` #430) ⚠️ sin investigar.
+- **Disney 100 Years of Music & Wonder**: figura de luz de la gira
+  (`fondos_01` #414) ⚠️.
+- Portada de la revista **D23** (`fondos_01` #404) ⚠️.
+
+**Figuras oficiales** (su pose es referencia 3D):
+- **Funko Pop!**: Mirabel con cactus, Isabela «Diamond Collection» y otra
+  Mirabel (FunkoPOP-1146) ✅. **Funko Pop! Town**: Mirabel con la Casita
+  (preventa feb-2024) ✅.
+- **Disney Store**: 9 figuras con base en caja escénica ([Amazon](https://www.amazon.com/Disney-Encanto-Deluxe-Figure-Play/dp/B09KZHSF6N)) ✅.
+- **Jim Shore**: las tres hermanas (`objetos_01` #84) ⚠️.
+- **LEGO «Isabela's Magical Door»** con minifiguras (`objetos_01` #61,
+  2400×1800) ✅. La parte de imagen lo escribía «Iselabela».
+- **D23**: pin esmaltado de **la vela**, 1000 unidades, y litografía
+  firmada ([D23](https://d23.com/discover-the-magic-of-the-d23-exclusive-encanto-candle-pin/)) ✅.
+- Muñecas de Mirabel e Isabela (`objetos_01` #60-#68, `fondos_01` #432) ✅.
+
+**Cosplay bien hecho** ([Popverse](https://www.thepopverse.com/encanto-cast-characters-cosplay-mirabel-isabela-luisa-camilo)) ✅:
+- **Mirabel**: patrones McCall's **M7100** (blusa con volante) y **M8066**
+  (falda); bordado pintado con **pintura textil Jacquard** (Neopaque para
+  telas oscuras) o rotuladores Liquitex, sobre papel manteca para que no
+  sangre.
+- **Isabela**: vestido de volantes lila con flores; tela de lunares
+  transparente sobre lavanda y flores cosidas en 3D (guía de Brother y
+  Popverse) ✅.
+- Disfraces comerciales para ver volumen: `fondos_01` #426-#428.
+
+**No encontré** colaboración con **Fortnite** ni **cafés temáticos** de
+Encanto (buscado en inglés y español) ⚠️.
+
+## 25 · Obras parecidas y láminas vecinas (punto 24)
+
+**Obras de tono parecido**:
+- **Coco** (Pixar, 2017): la comparación obligada y la **biblia gemela**
+  (57). Familia extendida, música, un país concreto. Diferencia: Coco usa
+  «magia dura» (reglas explicadas paso a paso) y Encanto «magia blanda»
+  (realismo mágico) ✅ (dos análisis).
+- ***Vivo*** (Sony, 2021): también con canciones de Lin-Manuel Miranda y
+  el mismo año; música en español y *spanglish* ✅ (compositor y año).
+- ***Cien años de soledad***: el periodista Javier Ocaña llama a los
+  Madrigal «una versión de cuento infantil de los Buendía»; el realismo
+  mágico colombiano fue la base de la película ✅.
+- ***Turning Red*** (Pixar, 2022): adolescente bajo las expectativas de
+  su familia. Relación **puesta por la parte de texto**, sin fuente que
+  las compare ⚠️.
+
+**Láminas del servidor que se le parecen** (para no repetir ideas):
+- **Coco (57)**, #que-estas-escuchando: cartas y foto rota en el cuarto
+  de Mamá Coco. Por eso Encanto **no** usa cartas ni retrato como objeto
+  principal.
+- **Spy×Family (06)**, #presentaciones: un expediente. La puerta de
+  Encanto es otro objeto y otro tono (fiesta, no espionaje).
+- **Frieren (33 C)**, #eventos: los meteoros. La tableta de Bruno es
+  verde y de cerca; los meteoros, un cielo abierto.
+- **Lilo & Stitch (23)**: también Disney y «familia» (el álbum de
+  *ohana*). Evitar el álbum de fotos.
+- **Sing (29)**, 🎶 Karaoke y #canto: escenarios con micrófono. Por eso
+  ninguna lámina de Encanto va en un escenario.
+- **Big Hero 6 (08)**: otro 3D de Disney (la tabla del dolor, el cuarto
+  de Hiro, el mostrador del café). Ninguna usa puertas ni vidrio mágico.
+
+## 26 · El mundo, la historia por arcos y sus símbolos (punto 25)
+
+### Las reglas del mundo, en cinco líneas ✅
+
+1. Huyendo de un conflicto armado, **Pedro** muere protegiendo a **Alma**
+   y a sus trillizos; ese sacrificio enciende **el milagro** en su vela de
+   bodas: la **Vela del Milagro**.
+2. El milagro crea la **Casita**, viva y con personalidad, y protege al
+   pueblo del **Encanto** con montañas.
+3. Cada Madrigal, a los **5 años**, recibe un **don** en una **ceremonia**:
+   se abre una **puerta nueva** con su nombre y su don.
+4. Si la familia acumula heridas y silencios, **la Casita se agrieta** y
+   la vela se apaga: se pierden los dones.
+5. La magia sólo vuelve con **reconciliación de verdad** y la ayuda del
+   pueblo, no «arreglando» a quien «falló».
+
+(Wikipedia y Disney Wiki, «Miracle Candle» y «Casa Madrigal».)
+
+### La historia por arcos ✅
+
+1. **Planteamiento**: 50 años después, los Madrigal sirven al pueblo con
+   sus dones. Mirabel, la única sin don, se siente invisible.
+2. **Detonante**: en la ceremonia de Antonio, Mirabel ve grietas y la vela
+   titila; nadie le cree.
+3. **Investigación**: en la torre escondida de **Bruno** (desaparecido
+   hace 10 años, en realidad dentro de las paredes) encuentra una visión
+   rota sobre ella.
+4. **Estallido**: salen las cargas de cada una (Luisa, Isabela); la
+   Casita se derrumba y la vela se apaga en manos de Mirabel.
+5. **Clímax y final**: Alma entiende que su miedo rompió la magia y pide
+   perdón en el río. El pueblo reconstruye la Casita a mano; la puerta se
+   abre sola, vuelve la magia y **Mirabel sale por fin en el retrato**.
+
+### Emblemas, objetos y palabras que un fan reconoce
+
+- **La Vela del Milagro**: siempre encendida, con una **mariposa grabada**
+  ([fotograma](https://static.wikia.nocookie.net/disney/images/0/0f/Miracle_Candle_%28Encanto%29.jpg), 1920×1058) ✅.
+- **La Casita**: tres pisos alrededor de un patio sin techo; cada puerta
+  con el nombre y el don tallados, con brillo dorado; al final, la puerta
+  principal tiene tallada **a toda la familia, con Mirabel** ✅
+  ([fotograma](https://static.wikia.nocookie.net/disney/images/3/3e/Casa_Madrigal.jpg), 1920×1080).
+- **Las mariposas**: grabadas en la vela, lazos de la Alma joven, las
+  **mariposas amarillas** de la visión de Bruno y del abrazo final:
+  transformación y buen augurio ✅.
+- **Las orugas** de «Dos oruguitas»: dos enamorados que deben soltarse
+  para transformarse. Miranda: *«a delicious metaphor for what the entire
+  family is going through»* ✅.
+- **La ruana y la mochila**: prendas colombianas reales; la ruana vuelve
+  como ropa en Dreamlight Valley ✅.
+- **Las tabletas de esmeralda** de Bruno y **la grieta verde** ✅.
+- **«No se habla de Bruno»**: la frase de la familia ✅.
+- **La palabra «encanto»**: un sitio hechizado, bendecido; donde la magia
+  y lo real se mezclan ✅.
+- **Vocabulario**: el **don**, el **milagro**, la **ceremonia**, la
+  **Casita**, «**cielos despejados**» (Pepa), «**Tío Bruno**», el **Día de
+  las Velitas** (lo que ama Alma).
+- **Geografía real**: Valle de Cocora (palmas de cera, árbol nacional),
+  Barichara y Salento ✅.
+
+## 27 · Tres conceptos de lámina
+
+Tres ideas distintas: **tres sitios** (el pasillo de la Casita de noche,
+el escondite de Bruno, la calle del pueblo por la tarde), **tres
+objetos** (una puerta, una tableta, unas cajas) y **tres personajes**
+(la protagonista, el meme, la más querida). Textos cortos, en la voz de
+la película, sin «·», «—» ni paréntesis (regla 4 del dueño).
+
+### Concepto A · #🪪・presentaciones — «La puerta con tu nombre» ⭐ recomendado
+
+- **El sitio real**: el **pasillo del segundo piso de la Casita**, la
+  noche de una ceremonia del don. Barandal de madera, el patio abierto
+  abajo, azulejos turquesa y terracota. Luz de velas `#EEE08C` y
+  `#D2B05D`; sombras violeta. Referencias: [Casita, planos (9)](https://static.wikia.nocookie.net/disney/images/3/30/Encanto_Casita_Rooms_%26_Layouts_%289%29.jpg)
+  y la familia de noche con velas (`personajes_01` #6).
+- **El objeto (Blender)**: una **puerta de madera tallada** (Wood095) con
+  el marco de azulejos. Las letras están en relieve y **se encienden en
+  oro** (`#B08236` con brillo `#EBD88F`), como la puerta de
+  [Family Madrigal 0:56](https://archive.org/details/encanto-the-family-madrigal-musical-number?t=56)
+  y la de los créditos (`personajes_01` #31). Entreabierta: sale luz
+  dorada por la rendija.
+- **El personaje**: **Mirabel**, que nunca tuvo puerta. Pose: **brazos
+  abiertos presentando** (Lorcana `fondos_01` #385; [Family Madrigal 2:24](https://archive.org/details/encanto-the-family-madrigal-musical-number?t=144)),
+  una mano apoyada en el marco para que el brazo se vea entero. Ropa y
+  gafas del [render de perfil](https://static.wikia.nocookie.net/disney/images/2/2e/Profile_-_Mirabel_Madrigal.png);
+  el póster `personajes_01` #48 la pone ya ante una puerta con su nombre.
+- **Cómo habla**: título en la puerta, **letra dorada** (Pacifico para el
+  nombre, Yeseva One para el resto). Lo que dice Mirabel, en una **placa
+  de madera tallada con flores y mariposas**, entre **comillas grandes**,
+  Baloo 2 sobre crema `#FCFED9`, y «Mirabel» debajo (§7).
+- **Dónde va cada texto**:
+  - En la puerta, en oro: «Tu ficha del servidor».
+  - En la placa de Mirabel: «Yo no tuve puerta y aquí sigo. Es opcional.»
+    y «Pero con la tuya te ponemos cara.»
+  - En una plaquita junto a la manija: «Abre tu hilo con la plantilla
+    fijada.»
+  - En el marco, siete **medallones tallados**, uno por don: Doblaje,
+    Canto, Locución, Edición, Arte, Escritura, Hacer amigos.
+  - Los países, en **azulejos del suelo** del pasillo: Sudamérica,
+    México, Centroamérica y Caribe, España, Otro país.
+- **Cómo no queda plana**: velas encendidas en el barandal, **delante**
+  de Mirabel y desenfocadas; mariposas doradas saliendo de la rendija; la
+  luz de la puerta le da **de lado en la cara** mientras el pasillo queda
+  violeta; el patio se ve al fondo, a través del barandal.
+- **Lámina 2** si satura: «El pasillo de los dones», una fila de puertas,
+  **una por etiqueta**, y los países en el suelo del patio visto desde
+  arriba.
+- **Ojo**: la descripción del canal en `servidor/inventario.md` está
+  **cortada** («nadie comenta …»): confirmar cómo termina antes de rotular.
+
+### Concepto B · #🎟️・eventos — «Lo que vio Bruno»
+
+- **El sitio real**: el **escondite de Bruno** dentro de la Casita: roca,
+  arena y luz verde. Referencias: el pasillo verde de `fondos_01` #425 y
+  la visión de arena de [No se habla de Bruno 3:02](https://archive.org/details/encanto-we-dont-talk-about-bruno-musical-number?t=182).
+  **Sin hex medido** ⚠️: usar los verdes de su ruana `#4C9E65`, `#488452`,
+  `#364C43` y medir en cuanto haya fotograma.
+- **El objeto (Blender)**: **la tableta de esmeralda**, vidrio verde
+  traslúcido (Glass BSDF con máscara pintada, §19.2) sobre un atril de
+  madera, con arena alrededor. Dentro, **la visión**: siluetas de gente
+  reunida con luz dorada.
+- **El personaje**: **Bruno**, el secundario que se volvió fenómeno.
+  Sostiene la tableta con las dos manos, asoma bajo la capucha, sonrisa
+  tímida. Referencias: [render de perfil](https://static.wikia.nocookie.net/disney/images/3/33/Profile_-_Bruno_Madrigal.png),
+  [retrato de *Disney Heroes*](https://static.wikia.nocookie.net/disneyheroesbattlemode/images/0/02/Bruno_Madrigal.png/revision/latest?cb=20240830161452),
+  fan art de [Pixiv](https://i.pximg.net/img-original/img/2023/12/11/22/25/39/114147449_p0.jpg).
+  **No hay pose suya en vídeo** ⚠️: si no sale natural, la pose de Mirabel
+  sobre la tableta (Lorcana `fondos_01` #402) con Bruno asomando detrás.
+- **Cómo habla**: el título **brilla dentro de la tableta**, verde claro
+  (Yeseva One). Bruno, en la placa de madera con comillas grandes y
+  Baloo 2 (§7).
+- **Dónde va cada texto**:
+  - En la tableta: «Lo que se viene.»
+  - En la placa del atril: «Se convoca con /create.»
+  - Bruno: «Lo vi yo. Y esta vez es bueno.»
+  - Bruno, segunda línea: «Cada uno lo ve en su hora.»
+  - Guiño en la arena, pequeño: «No se habla de Bruno. Del evento, sí.»
+- **Cómo no queda plana**: la tableta **delante** de Bruno le ilumina la
+  cara desde abajo; arena cayendo en primer plano; **una rata** en el
+  borde del atril (sus únicas compañeras, §8.4); fondo casi negro con un
+  remolino de arena.
+- **Ojo con Bruno**: sin muestra de su voz latina; las frases son nuevas,
+  escritas en su tono (tímido, se ríe de sí mismo).
+
+### Concepto C · #🙋・dudas — «Aquí sí se pregunta»
+
+- **El sitio real**: una **calle de adobe del pueblo**, por la tarde:
+  paredes `#BF7C71` y `#DBA899`, sombras `#44353A` ([Family Madrigal 2:56](https://archive.org/details/encanto-the-family-madrigal-musical-number?t=176)).
+  Tejas (RoofingTiles013A), adoquín (PavingStones151).
+- **El objeto (Blender)**: una **pila de cajas de madera del mercado**
+  (Wood095), cada una con una etiqueta **pintada con plantilla**; la
+  tinta sigue la veta. Al lado, **un burro** con dos cajas más.
+- **El personaje**: **Luisa**, la más querida en los foros y la que nunca
+  preguntaba. Pose: **agachada, manos en las rodillas, cara a cara** con
+  quien mira ([Music of Encanto 0:50](https://www.dailymotion.com/video/x85zgfo?t=50)),
+  la pila de cajas detrás. Alternativa: la pila al hombro como los burros
+  ([Surface Pressure 0:15](https://archive.org/details/jessica-darrow-surface-pressure-from-encanto-sing-along?t=15)).
+  Ropa: blusa blanca, falda `#2E1D4C`, cinta `#FD97CC` ([render](https://static.wikia.nocookie.net/disney/images/d/df/Profile_-_Luisa_Madrigal.jpg)).
+- **Cómo habla**: placa de madera con comillas grandes, Baloo 2; las
+  cajas, **letra de plantilla** en Baloo 2 700.
+- **Dónde va cada texto**:
+  - Luisa: «Yo tampoco preguntaba.» y «Aquí se pregunta sin miedo, por
+    tonta que te parezca.» (eco de su verso «No pregunto, ejecuto» ⚠️).
+  - Un cartel clavado en la pared: «Un hilo por duda.»
+  - En las cajas: Doblaje, Canto, Locución, Edición, Del programa, Del
+    micro.
+  - Dos cajas en el suelo: una **cerrada con cinta rosa**, «Resuelta»;
+    otra **abierta**, «Sigue abierta».
+  - Pie, en la pared: «Etiqueta la disciplina. Marca Resuelta cuando lo
+    esté.»
+- **Cómo no queda plana**: la cabeza del burro entra por un lado en
+  primer plano; un **colibrí** (le encantan, §21) cerca de su hombro; luz
+  de tarde rasante con sombras largas en el adobe; polvo en el aire.
+
