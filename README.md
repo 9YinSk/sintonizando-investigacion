@@ -7,6 +7,9 @@ dossier aquí. Después, un chat en la PC lo junta todo y hace las láminas.
 
 ## Cómo se usa (desde el celular o la PC)
 
+**Si vienes de otra cuenta o sesión: lee `CONTINUAR.md`** (qué está corriendo, cómo
+seguir un lote sin duplicar y qué le toca al dueño).
+
 **La primera vez en cada cuenta** (una sola vez):
 1. Abre Claude → **Code** → nueva sesión en **Cloud**. Te pedirá **conectar
    GitHub**: entra con tu cuenta `9YinSk`.

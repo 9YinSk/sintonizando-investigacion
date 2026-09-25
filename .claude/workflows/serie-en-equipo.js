@@ -38,10 +38,12 @@ const etapaReco = async (_, it) => {
 }
 const etapaInv = async (s, it) => {
   if (s.estado !== 'sigue') return s
-  const roles = it.modo === 'nueva' ? ROLES : [...new Set([...it.relanzar, ...it.faltan])]
+  // nueva: los 4 roles; repaso: los 4 en modo repaso; repaso-corto: imagen, voz y texto (puntos 18-25); seguir: sólo lo que falte
+  const roles = (it.modo === 'nueva' || it.modo === 'repaso') ? ROLES : it.modo === 'repaso-corto' ? ['imagen', 'voz', 'texto'] : [...new Set([...it.relanzar, ...it.faltan])]
   if (!roles.length) return s
-  const modoDe = rol => it.modo === 'nueva' ? 'nueva' : (it.relanzar.includes(rol) ? 'seguir' : 'nueva')
-  const r1 = await parallel(roles.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo ${modoDe(rol)}.${hermana(it)}`, { label: `inv:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
+  const modoDe = rol => it.modo === 'nueva' ? 'nueva' : (it.modo === 'repaso' || it.modo === 'repaso-corto') ? 'repaso' : (it.relanzar.includes(rol) ? 'seguir' : 'nueva')
+  const nota = it.modo === 'repaso-corto' ? ' Repaso corto: sólo tus puntos de los 18-25, que son nuevos en el encargo y no están en la biblia; mira `python3 herramientas/seccion.py <id> --indice` para no repetir nada.' : ''
+  const r1 = await parallel(roles.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo ${modoDe(rol)}.${nota}${hermana(it)}`, { label: `inv:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
   if (roles.some((_, i) => !r1[i])) return { ...s, estado: 'cortada', donde: `investigadores (${roles.filter((_, i) => !r1[i]).join(', ')})` }
   const pend = roles.filter((_, i) => r1[i].sigue_pendiente)
   if (pend.length) {
@@ -53,7 +55,7 @@ const etapaInv = async (s, it) => {
 }
 const etapaRedactor = async (s, it) => {
   if (s.estado !== 'sigue') return s
-  const modo = it.modo === 'repaso-corto' ? 'repaso-corto' : (it.biblia_existe ? 'seguir' : 'nueva')
+  const modo = it.modo === 'repaso-corto' ? 'repaso-corto' : it.modo === 'repaso' ? 'repaso' : (it.biblia_existe ? 'seguir' : 'nueva')
   const r = await seguro(() => agent(`Serie ${it.id}, modo ${modo}.${hermana(it)}`, { label: `redactor:${it.id}`, phase: 'Redactar', schema: RED, agentType: 'redactor', effort: EF.red }))
   if (!r) return { ...s, estado: 'cortada', donde: 'redactor' }
   return { ...s, estado: 'cerrar', red: `${r.resumen}${r.avisos ? ' · AVISOS: ' + r.avisos : ''}` }
