@@ -1393,3 +1393,351 @@ Lo que sí hay, de la wiki y Wikipedia:
 
 - ⚠️ Altura, cumpleaños y comida de nadie: **no publicados**.
 
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+### 21.1 Razones concretas
+- **Por cómo trata la psicosis**, no por el combate: las reseñas (IGN, Giant
+  Bomb, PC Gamer, VideoGamer.com, EGM) dicen que combate y puzles son lo más
+  flojo, y que la actuación de Juergens, el sonido y el tema son «casi sin
+  parangón en el medio» (Giant Bomb). Metacritic: «generally favorable» ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice)).
+- **Premios**: 5 BAFTA en 2018 (§Punto 7); más de **67 premios** en total ✅
+  (Cambridge).
+- **Ventas**: más de un millón a junio de 2018 y más de 1,5 millones después,
+  con un equipo de unos 20 y precio bajo: el ejemplo de «indie que compite con
+  los grandes» ✅.
+- **Con quién se identifica la gente**: con **Senua**, sobre todo quien vive
+  con una enfermedad mental ✅:
+  - «I have PTSD and terrible anxiety […] I broke out in sweat, cried,
+    hyperventilated, and panicked […] Mad props to the devs» (76 votos, 20
+    comentarios) · [Reddit](https://www.reddit.com/r/hellblade/comments/lubm62/).
+  - «3 years late but I finally played Hellblade, and I cried...a lot...so I
+    drew my feelings» (240 votos) · [Reddit](https://www.reddit.com/r/hellblade/comments/ktwcbv/).
+  - «I haven't cried during a game since TLOU 1 and 2» (60 votos) ·
+    [Reddit](https://www.reddit.com/r/hellblade/comments/1d1yi2v/).
+  - La reseña de Alice Bell (VideoGamer.com): tanto cuidado, con psicólogos y
+    gente que ha vivido la psicosis «en cada paso» ✅.
+
+### 21.2 Las escenas que hacen llorar
+| Escena | Qué pasa | Por qué duele | Cómo está hecha | Cómo reaccionó la gente |
+|---|---|---|---|---|
+| **El puente de Helheim** (final del 1) | Senua se enfrenta a Hela, admite que no tiene nada más que dar, y **deja de luchar**. Hela toma la cara medio quemada de Galena; se revela que Hela es la propia Senua | acepta la muerte de Dillion: el duelo, no un rescate | puente en ruinas, luz blanca y fría; suena «Hela» o «Just Like Sleep» ⚠️ no se sabe cuál | el clímax más citado (PC Gamer, VideoGamer.com, [Mic](https://www.mic.com/articles/183609)) |
+| **«I know you»** (HB2) | ante la giganta **Illtauga** (Ingunn, una madre que perdió a su bebé), Senua la reconoce y llora | teme convertirse en algo así; los gigantes son personas rotas, se les perdona | gruta en tonos tierra (§Punto 4) | hilo de **81 votos y 24 comentarios** ([Reddit](https://www.reddit.com/r/hellblade/comments/rd4ynb/)); ⚠️ sin minuto ni música |
+| **La súplica a Hela** (1) | «You took him from me. I beg you. Let him go.» | ruega sin resistirse | Senua en azul, subtítulo blanco (`fondos_01` n.º 69) | ⚠️ sin reacción medida |
+| **Los créditos del 1** | suena «Illusion» de VNV Nation | cierre melancólico | — | el audio tiene más de 14.000 descargas en Internet Archive |
+
+- ⚠️ **Escenas que hacen reír**: no hay. **Que hacen gritar de emoción**: el
+  momento de levantar **Gramr** reforjada (`fondos_01` n.º 76), sin fuente de
+  reacción.
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+- **Fandub**: sólo encontré **un vídeo suelto**, «Hellblade Intro | DOBLAJE en
+  ESPAÑOL 🎙 | Irene Acosta», que parece un doblaje de aficionada del monólogo
+  inicial ([YouTube](https://www.youtube.com/watch?v=xBgdwfX-WvE)) ⚠️ sin vistas
+  ni fecha (YouTube pidió iniciar sesión).
+- **No son fandub** (para no confundir): *let's plays* en español latino con
+  la voz del *streamer* sobre subtítulos (canal GaboMania, «Capítulo 1») y
+  vídeos de queja por la falta de doblaje («HELLBLADE 2 NO TENDRÁ VOCES EN
+  ESPAÑOL…»; el de LEVEL UP en [Dailymotion](https://www.dailymotion.com/video/x8xohgk),
+  373 vistas).
+- **Covers de openings**: **no aplica**; no hay tema cantado de apertura ni
+  cierre.
+- **Memes hispanos propios**: no encontré. Sólo el del **farol del
+  *permadeath***, comentado en foros en español ⚠️.
+- **La comunidad hispana de fandub casi no ha tocado Hellblade.** Para el
+  servidor es **terreno virgen**: no hay voz latina de referencia que imitar,
+  y el monólogo del Narrador o las Furias son un reto de doblaje perfecto.
+- Búsquedas: «Hellblade fandub español», «Hellblade doblaje fan Senua»,
+  «Hellblade fandub latino» (web y Dailymotion).
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+- **Xbox Series X a medida de *Hellblade II*** (2024): consola, mando y
+  soporte con el arte de Islandia del juego, **sorteados** (no se vendió);
+  unos 440 + 60 + 100 dólares ✅
+  ([Xbox](https://www.xbox.com/en-US/promotions/sweepstakes/senuas-saga-hellblade-II-xbox-series-x-custom-console-and-controller-sweepstakes),
+  [TheGamer](https://www.thegamer.com/hellblade-2-xbox-series-x-sweepstake/)).
+- **Cómic con Valiant** (2017), *Senua's Song #1*, arte de Ben Templesmith
+  (§Punto 6) ✅.
+- **Guía oficial de cosplay** (2016), de frente y de espaldas (§Punto 15) ✅.
+- **Cosplay**: una tienda vende el traje (cuero sintético y tela) ⚠️
+  ([Anicossky](https://anicossky.com/products/hellblade-senuas-sacrifice-senua-cosplay-costume-outfits)).
+  Sin cosplayer concreto con fotos verificadas.
+- **Figuras oficiales**: **no encontré** ninguna (buscado Gaming Heads y
+  similares). Sólo bustos impresos en 3D por fans (Etsy, Cults3D; uno a 1/6):
+  referencia de pose, **no oficiales**.
+- **Cruces con otros juegos** (Fortnite, gachas), marcas o cafés temáticos:
+  **no encontré**. Cafés y eventos: no se buscaron a fondo ⚠️.
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+### 24.1 Lo que reconoce el estudio
+- **Alex Garland y *Ex Machina***: Antoniades aprendió «a escribir» con
+  Garland en *Enslaved*; la idea de «tres personajes, un sitio, equipo
+  pequeño, que se vea lo mejor posible» encendió Hellblade ✅
+  ([NME](https://www.nme.com/news/gaming-news/hellblade-senuas-sacrifice-was-inspired-by-alex-garlands-ex-machina-3156471),
+  [FandomWire](https://fandomwire.com/civil-war-alex-garland-hellblade-ninja-theory-tameem-antoniades/)).
+- Hablar con personas en recuperación de enfermedad mental grave fue parte
+  del diseño ✅ ([GamesBeat](https://gamesbeat.com/game-boss-interview-tameem-antoniades-journey-into-madness-with-hellblade/)).
+
+### 24.2 Obras de tono parecido
+- ***God of War* (2018) y *Ragnarök***: la comparación más citada en las dos
+  direcciones: mitología nórdica, cámara pegada, trauma y duelo ✅
+  ([GamesRadar+](https://www.gamesradar.com/games-like-god-of-war/)).
+- ***Silent Hill 2***: terror psicológico por el trauma del protagonista;
+  ***The Medium***: doble realidad; ***What Remains of Edith Finch***:
+  narrativa íntima; ***A Plague Tale***: tono adulto medieval ✅
+  ([Ranker](https://www.ranker.com/list/games-like-hellblade-ranked/kyle-townsend),
+  [Game Rant](https://gamerant.com/best-games-like-hellblade/)).
+- ***Celeste***: salud mental bien contada (ansiedad) ✅
+  ([PCGamesN](https://www.pcgamesn.com/games-mental-health)).
+- ***Dark Souls***: combate exigente, mundo hostil ⚠️.
+
+### 24.3 Láminas del servidor que se le parecen (para no repetir)
+- **God of War (117)**: misma mitología nórdica y el mismo canal candidato
+  (#noticias-gaming). Si las dos usan runas, cambiar de objeto: God of War
+  propone el códice de Atreus; Hellblade, **la piedra rúnica o el espejo**.
+- **Vinland Saga (78)**: vikingos. Hellblade se distingue por su **paleta
+  fría y brumosa** y la roca volcánica real, no por cascos y drakares.
+- **A Plague Tale (119)**: tono adulto; la diferencia es la paleta (Plague Tale
+  cálida y de peste; Hellblade fría y volcánica).
+
+## Punto 25 · El mundo, la historia por juegos y sus símbolos
+
+### 25.1 Las reglas del mundo en cinco líneas
+1. Senua es **picta** de las Orcadas (siglos VIII-IX): su mundo mezcla lo
+   **celta-picto** (lo suyo) con lo **nórdico** (los Northmen) ✅.
+2. Vive con **psicosis** desde niña, como su madre: todo lo que ves **pasa por
+   su percepción**; nunca está claro qué es real ✅
+   ([wiki, Psychosis](https://thehellblade.fandom.com/wiki/Psychosis)).
+3. En el 1 baja a **Helheim** (reino de **Hela**) por el alma de **Dillion**;
+   en el 2 va a **Islandia** contra «gigantes» que son personas ✅.
+4. Lo nórdico se escribe en **runas reales**; lo picto, con **pintura *woad*** y
+   joyas de **tríadas**, sin runas ✅.
+5. Su padre **Zynbel** creía que la psicosis era una maldición que había que
+   «curar» contentando a sus dioses; muerto, es **la Sombra** ✅.
+
+### 25.2 La historia por juegos
+**Hellblade: Senua's Sacrifice (2017)**
+- Senua llega a Helheim en canoa con la **cabeza de Dillion**, sacrificado a
+  Hela en una matanza de los Northmen ✅.
+- La oscuridad de Hela le pega la **Corrupción** en el brazo.
+- Consigue la **Marca de Valravn** y la **Marca de Surtr** venciéndolos, para
+  abrir la **Puerta de Hel** ✅
+  ([wiki, Valravn](https://thehellblade.fandom.com/wiki/Valravn)).
+- Hela la hiere en el puente; reforja **Gramr** en las **cuatro Pruebas de
+  Odín** ✅.
+- **Final**: se enfrenta a Hela y acepta la muerte de Dillion. Lectura más
+  citada: todo es una metáfora del **duelo y la aceptación** ✅
+  ([Medium](https://medium.com/the-shadow/hellblade-senuas-sacrifice-senua-s-schizophrenic-journey-128ca45b5018)).
+
+**Senua's Saga: Hellblade II (2024)**
+- Años después (⚠️ «nueve», sin confirmar), Senua **se deja capturar** por
+  esclavistas para llegar a Islandia y liberar a su gente. Una tormenta hunde
+  los barcos; llega sola a la costa ✅ (Wikipedia).
+- Captura a **Thórgestr**, que la lleva a **Borgarvirki**. **Fargrímr**
+  explica que la erupción del **Askja** rompió la barrera entre **Midgard** y
+  **Jötunheimr** y dejó pasar a los gigantes; el pueblo sacrifica esclavos
+  para calmarlos ✅ ([Game Rant](https://gamerant.com/hellblade-2-giant-lore-explained-illtauga-sjavarrisi-tyrant/)).
+- **El giro**: los gigantes son **personas transformadas por el dolor y la
+  culpa**. Illtauga era Ingunn; Sjávarrisi era Seageirr, que traicionó al padre
+  de Ástríðr por miedo ✅. Para vencerlos hay que saber su **nombre humano**; lo
+  buscan en el **Huldufólk** ✅.
+- **Final**: el último gigante es **Goði**, padre de Thórgestr; Senua **le
+  perdona la vida** para no repetir a su propio padre ✅.
+
+### 25.3 Emblemas, objetos y palabras que un fan reconoce
+- **El espejo de hierro**: regalo de Druth; ver «el rostro de la oscuridad» y
+  romper ilusiones. Basado en **un espejo celta real**; los espejos salen en
+  las **piedras pictas** y aún no se han descifrado. Lleva grabada una
+  **espiral triple** (mirado en la imagen de la wiki, 1000×715) ✅
+  ([Heavenly Nariko](https://heavenlynariko.wordpress.com/2017/04/10/revealing-the-finer-details-of-hellblades-mysterious-heroine/),
+  [The Scotsman](https://www.scotsman.com/heritage-and-retro/heritage/pictish-symbols-and-their-meaning-4106799),
+  [imagen](https://static.wikia.nocookie.net/hellblade-nt/images/d/d4/Iron_Mirror.png)).
+- **Gramr**: espada forjada por **Odín**, de Sigmund y reforjada por Sigurd;
+  niega la inmortalidad y disipa sombras ✅
+  ([wiki](https://thehellblade.fandom.com/wiki/Gramr),
+  [imagen](https://static.wikia.nocookie.net/hellblade-nt/images/f/fb/Gramr.png)).
+- **La piedra rúnica (Lorestone)**: tótem con anillo de runas; guarda un mito
+  en la voz de Druth ✅.
+- **El broche de tríadas** y el **tocado** (protección contra las voces) ✅.
+- **La Corrupción Oscura** en el brazo ([animación](https://static.wikia.nocookie.net/hellblade-nt/images/7/77/TheDarkRot.gif)) ✅.
+- **Las Marcas** de Valravn y Surtr ✅.
+- **Vocabulario**: las **Furias**, la **Oscuridad**, la **Sombra**, **Focus**,
+  **Northmen** (nunca «vikingos»), **Dark Rot**, **Helheim**, **Hela**,
+  ***geilt***, **picto**, **Huldufólk**, **los Otros**.
+
+## Tres conceptos de lámina
+
+Tres ideas distintas: un objeto real de su mundo en un sitio real, Senua con
+una pose que vaya con lo que dice, el cuadro de diálogo del juego (subtítulo
+sin caja y voces a los lados) y nada de colores alegres (reglas del dueño).
+Textos cortos, una idea cada uno, sin «·», «—» ni paréntesis.
+
+### Concepto A · #📖・textos — «La piedra que cuenta» ⭐ recomendado
+
+**Por qué**: el canal es de **guiones para practicar**, sobre todo
+narraciones. En el juego, cada **piedra rúnica** guarda un mito que narra
+**Druth**, el secundario más citado (§Punto 7). Una piedra con una historia
+dentro es un guion esperando voz.
+
+- **Objeto real en sitio real**: una **piedra rúnica de pie** en el **bosque de
+  Jarnvior**, de noche, con niebla. Anillo de runas talladas alrededor de una
+  runa central que **brilla blanco azulado**; las que faltan, en **rojo**, como
+  en el juego (§Punto 11). Referencias: `personajes_01` n.º 48 (la piedra),
+  n.º 26 (Jarnvior). **En Blender**: roca con textura de fotogrametría
+  (Rock064, CC0), runas de **Noto Sans Runic** hundidas con *boolean*, emisión
+  en la central, musgo.
+- **Personaje**: **Senua de HB1** (cara y ropa de `arte_01` n.º 8 y 15), con la
+  **pose 10**: brazo estirado y **mano abierta hacia la luz** (tráiler HB1
+  [1:21](https://www.dailymotion.com/video/x5v5lz0?t=81)), cuerpo inclinado hacia
+  la piedra, de tres cuartos. La luz de la runa le da en la mano y la cara.
+  **Druth no sale**: es su voz.
+- **Cómo habla**: Druth, con **subtítulo blanco en Outfit, sin caja**, centrado
+  bajo la piedra (§Punto 6). Dos Furias, pequeñas y a los lados de Senua. El
+  título y lo fijo, **tallado** en Cinzel.
+- **Dónde va cada texto**:
+  - Arriba, en Cinzel espaciada color hueso: «TEXTOS».
+  - Tallado en la cara de la piedra, en Cinzel: «Guiones para practicar.»
+    «Monólogos, diálogos, escenas y narraciones.» «Un hilo por guion.»
+  - Subtítulo de Druth, abajo: «Cada piedra guarda una historia. Dale tu voz.»
+  - Furia a la izquierda, con ‹ : «¿Se puede usar libre?»
+  - Furia a la derecha, con › : «¿O hay que pedir permiso? Dilo.»
+  - Pie, pequeño: «Lee el hilo fijado antes de abrir el tuyo.»
+- **Lámina 2 (las 9 etiquetas)**: el **anillo de runas visto de frente**; cada
+  etiqueta es una runa con su nombre debajo en Cinzel. Arco de arriba, «qué
+  es»: Monólogo, Diálogo, Escena de anime, Comercial, Narración, Para dos
+  voces. Abajo, «de quién y cómo se usa»: Original, **Libre para usar** (runa
+  blanca), **Pide crédito** (runa roja).
+- **Para que no quede plano**: **ramas negras desenfocadas** en primer plano;
+  la runa como **única luz** azul `#61AAB9`; niebla volumétrica entre capas de
+  árboles en `#8D99AE`; contraluz frío detrás de Senua; saturación general
+  15-25 %.
+
+### Concepto B · #🎧・demos — «El espejo de hierro»
+
+**Por qué**: #demos es «tu ficha de doblaje: tu nombre, tus demos y tu rango
+vocal». El **espejo de hierro** de Druth sirve para ver lo que hay de verdad;
+las **Furias** son voces de todos los timbres alrededor de Senua. Tu ficha es
+tu espejo y tus voces.
+
+- **Objeto real en sitio real**: el **espejo de hierro** (disco pulido, espiral
+  triple grabada, correa de cuero), junto a **una hoguera pequeña en la orilla
+  de Helheim**, de noche. Referencias: `fondos_01` n.º 71 (el espejo) y n.º 80
+  (la espiral encendida en turquesa), `arte_01` n.º 4 (la luz de la hoguera).
+  **En Blender**: cilindro achatado con *bevel*, metal con arañazos, espiral en
+  *normal map*, emisión turquesa muy baja; correa de cuero (Leather037, CC0).
+- **Personaje**: **Senua de HB1**, de rodillas, **sostiene el espejo con las dos
+  manos** a la altura del pecho y se mira (manos cerradas: determinación,
+  §Punto 14). En el espejo, su reflejo: el retrato oficial (`arte_01` n.º 15).
+  Composición del reflejo: captura `fbb6d3…` (`arte_01` n.º 12).
+- **Cómo habla**: el **Narrador** con subtítulo abajo (su frase del inicio,
+  adaptada). Las **Furias**, con frases cortas **a izquierda y derecha** de su
+  cabeza, pequeñas, semitransparentes, con ‹ y › como en *Hellblade II*: son
+  las voces que ayudan (§2, regla 7).
+- **Dónde va cada texto**:
+  - Arriba, en Cinzel: «DEMOS».
+  - Grabado en el borde del espejo, en círculo: «Tu ficha de doblaje.»
+  - Furias a la izquierda: «‹ Un hilo con tu nombre.» «‹ Tus demos.»
+  - Furias a la derecha: «Tu rango vocal. ›» «Lee la ficha fijada. ›»
+  - Subtítulo del Narrador, abajo: «Hola. ¿Quién eres? Que lo diga tu voz.»
+- **Lámina 2 (las 19 etiquetas)**: el espejo en el centro y las etiquetas como
+  **voces en grupos alrededor**, cada grupo en un lado. Timbre: Voz masculina,
+  Voz femenina, Voz andrógina. Edad: Infantil, Joven, Adulto, Anciano. Qué
+  haces: Narración, Comercial, Canto, Imitación. Dónde: Anime, Series,
+  Películas, Videojuegos, Audiolibro. Estado: Disponible, Ocupado. Y
+  Colaboración.
+- **Para que no quede plano**: la **hoguera en primer plano**, abajo a la
+  izquierda, desenfocada, con **chispas** delante de Senua; dos luces reales:
+  el fuego `#9A5D32` en la cara y el turquesa `#61AAB9` del espejo en las
+  manos; noche `#091018` y niebla detrás.
+
+### Concepto C · #🎯・reto-de-la-semana — «La cara en la roca»
+
+**Por qué**: el reto es «una línea, una escena, un tono» cada semana. En
+*Hellblade II* hay **17 caras talladas en la roca** y las voces avisan cuando
+una está cerca (§Punto 11). Cada semana, una cara nueva que encontrar.
+
+- **Objeto real en sitio real**: un **Rostro Escondido** tallado en roca
+  volcánica, en la **costa de Reykjanestá**, con el mar y la niebla detrás.
+  Referencias: [Hidden_Faces.png](https://static.wikia.nocookie.net/hellblade-nt/images/f/f1/Hidden_Faces.png)
+  (690×388), `personajes_01` n.º 46 (Reykjanesta), el fondo «Volcano» 8K.
+  **En Blender**: escaneo de roca con *displacement* y la cara esculpida con
+  Multires; musgo y agua en las grietas.
+- **Personaje**: **Senua de HB2** (trenza mojada, chaleco de cuero, rayas rojas y
+  boca negra: `arte_01` n.º 2 y 3; espalda de `arte_01` n.º 14). Pose: de tres
+  cuartos de espaldas, **una mano apoyada en la roca** junto a la cara (se ve
+  el brazo entero hasta el hombro), la otra cerrada; mira la cara. Viene de
+  la **pose 5** (tráiler HB2 [0:07](https://www.dailymotion.com/video/x8qciu2?t=7)).
+- **Cómo habla**: subtítulo de *Hellblade II* **con indicador de dirección**
+  que apunta a la cara; las Furias avisan arriba, pequeñas.
+- **Dónde va cada texto**:
+  - Arriba, en Cinzel: «RETO DE LA SEMANA».
+  - Furias, arriba a la izquierda: «Está cerca.» «Escucha.»
+  - Subtítulo con ‹ hacia la cara: «Una línea. Una escena. Un tono.»
+  - Tallado bajo la cara, en Cinzel: «Un reto por semana.» «Se entrega en el
+    hilo del reto.»
+  - Pie: «No se gana nada. Esa es la gracia.»
+- **Lámina 2 (las 8 etiquetas)**: el sendero de la costa con **ocho piedras
+  talladas**, cada una con su etiqueta. Estado: Reto activo (cara con luz),
+  Cerrado (cara apagada). Disciplina: Doblaje, Canto, Locución. Tipo: Para
+  empezar, Con trampa, Libre.
+- **Idea para el primer reto**: «Tres Furias». La frase «Sube, Senua. Sube.»
+  dicha como tres voces distintas (el servidor ya tiene «La misma frase, tres
+  edades»).
+- **Para que no quede plano**: roca grande **en primer plano a la derecha**,
+  desenfocada; **salpicadura** de ola entre Senua y el mar; niebla marina casi
+  gris (`#D5D6D0`, saturación 7 %); **el único acento es el rojo de su
+  pintura**; sol velado en contraluz.
+- **Choque**: #reto-de-la-semana ya lo piden Naruto (30) y Haikyuu (34). Es
+  sólo una nota.
+
+### Qué concepto elegir
+- **A** es el más propio de Hellblade: piedra, runas, Druth y narración, y el
+  canal de guiones encaja sin forzar.
+- **B** es el más «de voz» y el más íntimo, pero el espejo es pequeño: la
+  lámina depende de un buen primer plano.
+- **C** usa *Hellblade II* y el paisaje real de Islandia; comparte canal con
+  otras dos series.
+
+## Lo que no pude verificar
+
+Todo lo dudoso, junto. Nada de esto se inventó: son huecos.
+
+**Hay que oírlo o verlo en persona**
+- El **texto exacto de los subtítulos en español** de las frases del §Punto
+  8, y si «Dark Rot» y «Northmen» se tradujeron como «Corrupción Oscura» y
+  «hombres del Norte».
+- Qué tema suena en el segundo exacto de la **rendición ante Hela**: «Hela» o
+  «Just Like Sleep».
+- Minuto y música de la escena **«I know you»** de *Hellblade II*.
+- Una cara de **vergüenza** de Senua (los tráileres son de acción).
+- El **menú principal** de los dos juegos (sin captura propia).
+- El fandub de **Irene Acosta** en YouTube: vistas y fecha.
+
+**Una sola fuente**
+- Voces de **Chipo Chung** (Narrador), **Ellie Piercy** (Galena), **Aldís Amah
+  Hamilton** (Ástríðr) y **Guðmundur Thorvaldsson** (Fargrímr).
+- «Seidh» de Heilung en el tráiler de 2024; los detalles técnicos del audio de
+  HB2 (A Sound Effect).
+- El mensaje de las runas de las piedras (descifrado por fans).
+- Los 40 sitios de Antoniades frente a los 21 sitios del equipo de escaneo.
+- «Nueve años» entre los dos juegos.
+- La frase de Dillion «A life without loss is one without love».
+- ArtStation de Giboire, Molnar y Kalazdi (403; citados por el buscador).
+- Pinceles grunge y cuero de ambientCG (licencia de una sola web).
+- Si el guerrero de cuernos de la captura `3a6935…` es aliado o rival.
+
+**No encontré** (buscado; no digo que no exista)
+- Artbook oficial, *databook*, figura oficial, cruces con otros juegos o
+  marcas, cafés temáticos.
+- Encuestas de popularidad.
+- Modelos 3D libres de Gramr, el espejo o la máscara de Valravn.
+- Tendencias de TikTok con vistas.
+- La fuente exacta de los logos.
+- Lista oficial de cuántas Furias hay y sus nombres.
+
+**Bloqueado desde el servidor**: YouTube (pide iniciar sesión), ArtStation,
+TV Tropes, TCRF, IGDB (403) y una vez Wayback (el proxy cortó).
+

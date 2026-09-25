@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://video.akamai.steamstatic.com/store_trailers/752590/223438/60b2aa8a7c3644decd19b067ed56d66ae03d2610/1750579064/hls_264_master.m3u8?t=1558001122",
+    "fuente": "Steam appdetails API (752590), tráiler oficial \"A Little Boy Lost\"",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tráiler con Sean Bean recitando el poema \"The Little Boy Lost\" de William Blake sobre fotogramas de Innocence",
+    "para_que": "Punto 2 y 9: escena icónica + referencia literaria del título; minuto 0:08 Hugo sujetado por un guantelete, 0:59 rótulo del poema",
+    "licencia": "material oficial de Asobo Studio / Focus Entertainment, CDN pública sin login"
+  },
+  {
+    "url": "https://video.akamai.steamstatic.com/store_trailers/1182900/499905/592ea3564f5158eaae0f8b02beff29d4c14a01d0/1750635274/hls_264_master.m3u8?t=1664291114",
+    "fuente": "Steam appdetails API (1182900), Story Trailer de Requiem",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tráiler de historia de Requiem, 1:52, diálogo completo transcrito en episodios.md",
+    "para_que": "Punto 2, 10 y 14: escenas (abrazo 1:09-1:10, silueta a contraluz 1:31) y poses de Amicia",
+    "licencia": "material oficial de Asobo Studio / Focus Entertainment, CDN pública sin login"
+  },
+  {
+    "url": "https://video.akamai.steamstatic.com/store_trailers/1182900/505834/95631b25ff469959a93f473540004f210e4f73ce/1750635280/hls_264_master.m3u8?t=1666099034",
+    "fuente": "Steam appdetails API (1182900), Launch Trailer de Requiem",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tráiler de lanzamiento de Requiem, 2:07: fiesta de las flores (0:55-0:59), rito del Child of Embers (1:16-1:18), costa dorada (1:06-1:07), ratas (1:20)",
+    "para_que": "Punto 2, 4 y 14: paleta de Provenza, escenas icónicas y poses",
+    "licencia": "material oficial de Asobo Studio / Focus Entertainment, CDN pública sin login"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x836nzz",
+    "fuente": "Dailymotion (Xataka México), tráiler de lanzamiento de Innocence",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler de lanzamiento de Innocence, 2:05: enjambre de ratas (0:20-0:23), corredor con antorcha (0:39), rostro de Hugo (0:47)",
+    "para_que": "Punto 2 y 4: contraste fuego/ratas medido en hex",
+    "licencia": "distribución oficial en Dailymotion, sin login"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x747o01",
+    "fuente": "Dailymotion (InTheFame), Story Trailer de Innocence",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler de historia de Innocence, 1:21: masacre en la finca de los de Rune",
+    "para_que": "Punto 2: escena de apertura icónica con diálogo completo transcrito",
+    "licencia": "distribución oficial en Dailymotion, sin login"
+  },
+  {
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_002394.jpg",
+    "fuente": "Internet Archive, miniatura oficial del ítem (una por minuto) de \"A Plague Tale -Innocence All Cutscenes In 4K\"",
+    "ancho": 720,
+    "alto": 406,
+    "que_es": "Fotograma minuto 39:54: Amicia grita \"Quick, the light! THE LIGHT!\" con la antorcha en alto en un pasadizo de piedra",
+    "para_que": "Punto 2, 4 y 14: escena icónica, paleta fuego-vs-piedra medida (#2D1D15/#57372A), pose de alerta",
+    "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
+  },
+  {
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_006595.jpg",
+    "fuente": "Internet Archive, miniatura oficial del ítem",
+    "ancho": 720,
+    "alto": 406,
+    "que_es": "Fotograma minuto 1:49:55: Amicia cuida/venda a Hugo sentados en un jardín con mosaico romano",
+    "para_que": "Punto 2, 4 y 14: escena de cuidado, paleta cálida clara medida, pose de Amicia y Hugo",
+    "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
+  },
+  {
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_004797.jpg",
+    "fuente": "Internet Archive, miniatura oficial del ítem",
+    "ancho": 720,
+    "alto": 406,
+    "que_es": "Fotograma minuto 1:19:57: Amicia y Hugo corren de la mano huyendo por un patio con carreta y valla de madera",
+    "para_que": "Punto 2 y 14: pose de \"guiar/seguir\" para ambos personajes",
+    "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
+  },
+  {
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_008397.jpg",
+    "fuente": "Internet Archive, miniatura oficial del ítem",
+    "ancho": 720,
+    "alto": 406,
+    "que_es": "Fotograma minuto 2:19:57: combate nocturno en la nieve, luz azul de luna",
+    "para_que": "Punto 4: paleta fría de contraste con las escenas de fuego (#0F1925/#2C3E50)",
+    "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
+  },
+  {
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_011996.jpg",
+    "fuente": "Internet Archive, miniatura oficial del ítem",
+    "ancho": 720,
+    "alto": 406,
+    "que_es": "Fotograma minuto 3:19:56: guantelete de armadura del enemigo \"Caballero\" junto a brasas naranjas",
+    "para_que": "Punto 2 y 4: escena icónica y paleta de brasas contra negro",
+    "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
+  },
+  {
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_013494.jpg",
+    "fuente": "Internet Archive, miniatura oficial del ítem",
+    "ancho": 720,
+    "alto": 406,
+    "que_es": "Fotograma minuto 3:44:54: epílogo nevado tras el capítulo XVII \"For Each Other\", carreta abandonada entre árboles helados",
+    "para_que": "Punto 2 y 4: escena de cierre y paleta fría pálida de amanecer",
+    "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
+  },
+  {
+    "url": "https://archive.org/download/APlagueTaleInnocenceAllCutscenesIn4KGameMovie/APlagueTaleInnocenceAllCutscenesIn4KGameMovie.thumbs/A%20Plague%20Tale%20-Innocence%20All%20Cutscenes%20In%204K%20%28Game%20Movie%29_010196.jpg",
+    "fuente": "Internet Archive, miniatura oficial del ítem",
+    "ancho": 720,
+    "alto": 406,
+    "que_es": "Fotograma minuto 2:49:56: personaje agachado en sigilo bajo un mueble, interior en penumbra",
+    "para_que": "Punto 14: pose de sigilo/pensar de Amicia",
+    "licencia": "subida por usuario a Internet Archive; el contenido es propiedad de Asobo/Focus, uso editorial/referencia"
+  },
+  {
+    "url": "https://olivierderiviere.bandcamp.com/album/a-plague-tale-innocence-deluxe-edition",
+    "fuente": "Bandcamp oficial de Olivier Deriviere",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Banda sonora completa de A Plague Tale: Innocence (edición deluxe), con \"The Wrath\", \"The Rats\", tema principal en hurdy-gurdy",
+    "para_que": "Punto 9: escuchar los temas citados en la biblia",
+    "licencia": "venta oficial del compositor; streaming de muestra gratuito en la página"
+  },
+  {
+    "url": "https://olivierderiviere.bandcamp.com/album/a-plague-tale-requiem-deluxe-edition",
+    "fuente": "Bandcamp oficial de Olivier Deriviere",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Banda sonora completa de A Plague Tale: Requiem (edición deluxe), 34+ pistas con el coro estonio",
+    "para_que": "Punto 9: escuchar los temas citados, incl. \"O Ma Belle Lune\"",
+    "licencia": "venta oficial del compositor; streaming de muestra gratuito en la página"
+  },
+  {
+    "url": "https://www.asoundeffect.com/a-plague-tale-requiem-game-audio/",
+    "fuente": "A Sound Effect, entrevista al director de audio Aurélien Piters (Asobo Studio)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo con citas directas sobre el diseño de sonido de las ratas, el motor Zouna+Wwise y el foley por huesos",
+    "para_que": "Punto 9: fuente oficial (staff) sobre efectos de sonido",
+    "licencia": "artículo editorial de acceso libre"
+  },
+  {
+    "url": "https://aplaguetale.fandom.com/wiki/Child_of_Embers",
+    "fuente": "A Plague Tale Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del culto \"Child of Embers\" en la isla de La Cuna (Requiem), orquestado por el conde Victor de Arles",
+    "para_que": "Punto 14: confirma qué es la escena de la corona de flores del Launch Trailer",
+    "licencia": "wiki de fans, CC-BY-SA (Fandom)"
+  }
+]
