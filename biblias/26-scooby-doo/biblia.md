@@ -1553,6 +1553,11 @@ en §5.3.
 | **Cuarto con vela verde** | F-24 | Penumbra ocre, luz verde |
 | **Pared de máscaras** | F-22 | Interior oscuro |
 | **Ciudad de noche** | F-27 | Rascacielos azules con ventanas encendidas |
+| **Playa de noche** (ep. 2, vídeo) | [3:12](https://www.dailymotion.com/video/x962eqg?t=192) | Cielo cobalto liso, espuma clara, algas verdes `#5C8F66` ✅ |
+| **Cuarto de espiritismo** (1998, vídeo) | [0:05](https://www.dailymotion.com/video/x3zqdm6?t=5) | Velas, bola de cristal, penumbra cálida ✅ |
+| **Cementerio con niebla azul** (1998, vídeo) | [0:18](https://www.dailymotion.com/video/x3zqdm6?t=18) | Noche, niebla azul, lápidas ✅ |
+| **Pantano con cielo rojo** (1998, vídeo) | [0:00](https://www.dailymotion.com/video/x3zqdm6?t=0) | Atardecer rojo fuego, humo ✅ |
+| **Templo de la isla** (película 2002, vídeo) | [tráiler 0:28](https://www.dailymotion.com/video/x88nuzj?t=28) | Antorchas, `#332416` `#582D1E` `#86341B` ✅ |
 
 ### 17.2 Fondos de pantalla
 
@@ -1563,6 +1568,13 @@ en §5.3.
 | Cel de producción con la furgoneta y la mansión | [WallHere 2244454](https://wallhere.com/en/wallpaper/2244454) | 1920×1080 | ✅ (búsqueda) |
 | **27 fondos originales de 1969** | [Secret Fun Spot](https://secretfunspot.blogspot.com/2007/10/50-scooby-doo-background-paintings.html) | 720×540 (DVD) | ✅ bajados y medidos (hoja F) |
 | Fondos de *Misterios S.A.* | Scoobypedia (G-9 a G-17) | 1920×1080 | ✅ |
+| Wallhaven (fans; los más guardados, por `recolectar.py`) | [retrato ilustrado](https://w.wallhaven.cc/full/6k/wallhaven-6kxxrx.jpg) | 2400×3597 | Subido por Psychofruit, 147 ♥ ✅ |
+| Wallhaven | [Daphne 2D](https://w.wallhaven.cc/full/2y/wallhaven-2y82jm.jpg) | 2885×5000 | ThorRagnarok, 115 ♥ ✅ |
+| Wallhaven | [la furgoneta, de **Zac Retz**](https://w.wallhaven.cc/full/28/wallhaven-28961x.jpg) ([ArtStation](https://www.artstation.com/artwork/1nK3Kq)) | 1920×1080 | Pintura de fondo muy buena para luz ✅ |
+| Wallhaven | [la pandilla en fila](https://w.wallhaven.cc/full/7p/wallhaven-7ppk2v.jpg) (origen: [X, @Jourd4n_](https://twitter.com/Jourd4n_/status/1617015595626815488)) | 3393×2014 | *Line-up* de fan ✅ |
+| Wallhaven | [la pandilla sobre fondo liso](https://w.wallhaven.cc/full/je/wallhaven-jewd9q.png) (origen: @officeanomaly) | 2560×1440 | ✅ |
+| Wallhaven | [la furgoneta y la mansión](https://w.wallhaven.cc/full/yx/wallhaven-yxgwrx.jpg) | 1920×1080 | Subido por Bongic ✅ |
+| Wallhaven | [la furgoneta en Chernóbil](https://w.wallhaven.cc/full/8o/wallhaven-8ok9q2.png) | 3840×2160 | Arte digital de fan, 4K ✅ |
 
 > [!warning] Resolución
 > Los fondos de 1969 que hay en internet salen del DVD: **720×540**. Para
@@ -1643,6 +1655,82 @@ en §5.3.
 | Tipo de línea | **C-43** (hoja de modelo de 1969) |
 | Pose de Vilma pensando y Shaggy con la pista | **C-15** |
 | Composición de título | **C-47** |
+| Explicar con pruebas (pose) | Vilma con el libro «BIOLOGY», [ep. 2, 4:36](https://www.dailymotion.com/video/x962eqg?t=276) |
+| Grupo huyendo | [Isla del Zombi, 0:09](https://www.dailymotion.com/video/x3zqdm6?t=9) (sólo pose; su paleta es más oscura) |
+| Proporciones en 3D | Figuras **BendEms** (G-28 a G-32); **no** Funko (G-44, cabezón) |
+
+### 18.6 Lo que añadió la segunda pasada (imagen)
+
+- **Nada de trama de puntos.** Ni la serie ni el cómic usan *screentone*
+  o *halftone*: una página de cómic ampliada 5× da color plano en 2-3
+  grises ✅. No pedir «manga screentone», «halftone», «Ben-Day dots».
+- **Nada de 3D realista.** *Scoob!* (2020) es CGI semirrealista; las
+  reseñas hablan de «piel de goma» ([CGMagazine](https://www.cgmagonline.com/review/movie/scoob-review/),
+  [Frame Rated](https://www.framerated.co.uk/scoob-2020/)) ✅. Evitar
+  *Scoob 2020 style, glossy CGI, subsurface skin*.
+- **Paleta vivaz**: la de 1969 mide 65-89 % de saturación; la de 1998,
+  38-64 %. Para #dudas: *saturated flat colors*.
+- **De noche todo va al azul** (medido, §5.2): *characters tinted by blue
+  night light*.
+- Palabras que ayudan, nuevas: *xerox cel line, slightly wobbly thin dark
+  line, flat color fills, painted gouache background, film grain*.
+- **Fondo nuevo**: *1970s seaside at night, flat cobalt sky, pale surf
+  line, glowing green seaweed* (la playa del ep. 2).
+
+### 18.7 Guía para una IA de texto (cómo escribir en su voz)
+
+**Reglas de voz** (de §7.3, §2.4 y los subtítulos):
+- **Frases cortas**, de tele infantil de los 70; nada de tacos.
+- **Scooby**: dos o tres palabras, **cambia la primera letra por R**
+  («Ruh-roh», «Rokay»), su nombre como coletilla, risa «je je je»
+  entre dientes. Nunca un párrafo.
+- **Shaggy**: arranca con «oye» o «viejo» (⚠️ de memoria), negocia
+  comida, exagera el miedo con **¡¡!!** y repite: «¡Caracoles!»,
+  «¡Scooby-Doo, ¿dónde estás?!».
+- **Vilma**: explica en pasos cortos, con datos; exclamación única:
+  «¡Cielos!». Regaña sin gritar: «Alto ahí».
+- **Fred**: ordena y organiza: «Separémonos», «Veamos quién es en
+  realidad». Habla de trampas.
+- **Daphne**: comenta lo que ve y se sorprende: «¡Rayos!», «¿Vieron eso?».
+- **El villano**: la frase de siempre, con «chicos entrometidos».
+- **Onomatopeyas**: ¡Zoinks! se traduce ¡Caracoles!; ¡Jinkies!, ¡Cielos!;
+  el grito de miedo va con varias letras («¡Aaaah!») y el susto de
+  Scooby, «¡Ruh-roh!».
+
+**Frases reales por emoción** (con enlace: doblaje latino de WB Kids Latino; las de 1978, 2002 y 2004 salen de subtítulos en inglés con tiempos, traducidas aquí):
+
+| Emoción | Frase | Quién · fuente |
+|---|---|---|
+| **Alegre** / celebrar | «¡Scooby-Dooby-Doo!» | Scooby · 1978, 00:21:02 ✅ |
+| Alegre | «¡Cielos, un misterio!» | Vilma · [*Computadoras* 00:01:56](https://www.youtube.com/watch?v=BtGo-X-jjP8&t=116) ✅ |
+| Alegre | «Bien, con eso terminó el misterio. Vamos a la fuente de sodas» | [*expone a los malos* 00:17:30](https://www.youtube.com/watch?v=r1sQtlBZHHQ&t=1050) ✅ |
+| **Enfadado** | «¡Y hubiera sido mío de no haber sido por esos chicos entrometidos!» | El villano · [00:17:24](https://www.youtube.com/watch?v=r1sQtlBZHHQ&t=1044) ✅ |
+| Enfadado | «¡Me robó mi frase!» | Fred ⚠️ · 2004, 00:19:15 |
+| **Explicando** | «Yo puedo responder a eso. Miren» | Vilma · 2002, 00:05:11 ✅ |
+| Explicando | «Este misterio empieza a tener sentido» | Vilma · 1978, 00:15:00 ✅ |
+| Explicando | «Antes de contestar a tus preguntas, tú debes contestar una» | [*¡Velma sabe!* 00:07:26](https://www.youtube.com/watch?v=zY8Vgn-bqhc&t=446) ✅ |
+| **Animando** | «Resolvíamos misterios por amor a ellos» | Vilma · 2004, 01:00:32 ✅ |
+| Animando | «Vilma tiene razón. Podemos estar a punto de resolver un gran misterio» | Fred · 1978, 00:08:42 ✅ |
+| Animando | «Parece que necesitan una pista» | [*Computadoras* 00:05:25](https://www.youtube.com/watch?v=BtGo-X-jjP8&t=325) ✅ |
+| **Con miedo** | «¡Caracoles!» | Shaggy · [*prepara la trampa* 00:08:39](https://www.youtube.com/watch?v=xZV_2-7OBRU&t=519) ✅ |
+| Con miedo / duda | «¿Nos lo explican otra vez?» | Shaggy · 1978, 00:19:44 ✅ |
+| **Triste** | «...Sigan andando, Scooby» | Vilma · *Misterios S.A.*, «Through the Curtain» (en inglés; sin minuto) ⚠️ |
+
+**Vocabulario de la serie**: pista, trampa, máscara, desenmascarar,
+chicos entrometidos, Scooby-galletas, Máquina del Misterio, fuente de
+sodas, separémonos, pandilla, Misterio a la orden. En inglés británico
+«I haven't got a Scooby» = «no tengo ni pista» (punto 25).
+
+**Vocabulario de expresiones para la IA de imagen** (es una serie
+occidental: no hay gotas de sudor ni *chibi* de anime):
+- *jaw drop, eyes bulging, hair standing on end* (susto de Shaggy).
+- *ears straight up, round wide eyes* (miedo de Scooby, [0:15](https://www.dailymotion.com/video/x88nuzj?t=15)).
+- *jumping into Shaggy's arms* (el salto de Scooby).
+- *hands on hips, confident* ([0:44](https://www.dailymotion.com/video/x962eqg?t=44)).
+- *pointing a finger, one eyebrow raised* (Vilma acusa o explica).
+- *squinting without glasses, crawling on the floor* (Vilma sin gafas, G-100).
+- Las **versiones pequeñas** existen de verdad: *A Pup Named Scooby-Doo*
+  (1988), para quien quiera algo parecido al *chibi*.
 
 ---
 
@@ -1693,6 +1781,14 @@ corto en la voz de la serie** y **lámina 2** para las etiquetas.
   de foco, **la oreja y la nariz de Scooby** entrando por abajo y la
   **caja de Scooby-galletas**. Las fichas **proyectan sombra** en el
   corcho.
+- **Mejora de la segunda pasada**: para Vilma, mejor la pose **vista en
+  vídeo** con el **libro «BIOLOGY»** examinando la pista ([ep. 2,
+  4:36](https://www.dailymotion.com/video/x962eqg?t=276)): explicar con
+  pruebas, que es justo «Resuelta». Para Shaggy y Scooby, **miedo juntos**
+  ([tráiler 2002, 0:32](https://www.dailymotion.com/video/x88nuzj?t=32)).
+  La **caja de Scooby-galletas** puede copiar la real de **Del Monte**
+  (producto que existe, punto 25). Guiño en una ficha pequeña: «I haven't
+  got a Scooby» = «no tengo ni pista» (argot británico real, punto 25).
 
 ### Concepto B — «La vitrina del Museo de Criminología de Coolsville»
 
@@ -1721,6 +1817,10 @@ corto en la voz de la serie** y **lámina 2** para las etiquetas.
   sobre cada vitrina), **reflejos en el cristal**, los **cordones de
   terciopelo** delante en primer plano y el pasillo que se pierde al
   fondo.
+- **Mejora de la segunda pasada**: el museo existe también fuera de la
+  película: la atracción «**Scooby-Doo: The Museum of Mysteries**» de
+  Warner Bros. World Abu Dhabi usa las máscaras desenmascaradas como
+  decorado (punto 23). Referencia de cómo se montan esas vitrinas.
 
 ### Concepto C — «La Máquina del Misterio a medianoche»
 
@@ -1745,6 +1845,12 @@ corto en la voz de la serie** y **lámina 2** para las etiquetas.
   **niebla verde**; **faros** encendidos; la casa al fondo con ventanas
   amarillas; delante, **la rueda de repuesto con la flor** y hierba
   alta.
+- **Mejora de la segunda pasada**: la flor de 6 pétalos sale **7 veces**
+  en la furgoneta (medida de noche: azul `#383D66`, verde `#375922`, flor
+  `#632F1C`; de día más clara, §5.3). Pose de grupo para el fondo:
+  **huyendo en fila** ([1998, 0:09](https://www.dailymotion.com/video/x3zqdm6?t=9)).
+  El **sándwich gigante** de Shaggy existe como objeto 3D oficial en
+  Fortnite («Shaggy's Super Sandwich», punto 23).
 
 ### ¿Cuál primero?
 

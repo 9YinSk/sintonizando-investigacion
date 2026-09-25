@@ -30,19 +30,22 @@ todo el **punto 20**, que no estaba), corrige un dato de doblaje y profundiza
 - **Pannacotta Fugo**: **Arturo Cataño** · Doblaje Wiki + [Gamerfocus](https://www.gamerfocus.co/anime/cuando-jojos-bizarre-adventure-parte-5-golden-wind-netflix-actualiza-todas-las-temporadas-con-doblaje-al-espanol-de-latinoamerica/) → pasa de ⚠️ a ✅
 - **Vinegar Doppio** (GW): **Emilio Treviño** y **Emmanuel Bernal** (no
   estaba en `datos-voz.md` ni en la tabla de `biblia.md`) · [Gamerfocus](https://www.gamerfocus.co/anime/cuando-jojos-bizarre-adventure-parte-5-golden-wind-netflix-actualiza-todas-las-temporadas-con-doblaje-al-espanol-de-latinoamerica/) ⚠️ (una fuente; falta cruzar con Doblaje Wiki, que la API no me devolvió su ficha de actor a tiempo)
-- **Caesar Anthonio Zeppeli** (BT): **Carlo Vázquez** · confirmado con la
-  ficha de doblaje del propio actor en Doblaje Wiki (página aparte de la
-  de la serie: "JoJo's Bizarre Adventure - Caesar Anthonio Zeppeli
-  (2021; dob.)") → pero es **la misma wiki** (dos páginas, no dos sitios);
-  sigue en ⚠️ estricto de "dos fuentes independientes" aunque internamente
-  se confirma solo. [Doblaje Wiki: Carlo Vázquez](https://doblaje.fandom.com/es/wiki/Carlo_V%C3%A1zquez)
-- Mismo caso (confirmado sólo dentro de Doblaje Wiki, ficha de personaje +
-  ficha de actor, no un sitio externo) para: **Robert E.O. Speedwagon**
-  (Víctor Ruiz, [ficha del actor](https://doblaje.fandom.com/es/wiki/V%C3%ADctor_Ruiz)), **Lisa Lisa** (Vianney Monroy, [ficha](https://doblaje.fandom.com/es/wiki/Vianney_Monroy)), **Enrico
-  Pucci** (Óscar Flores, [ficha](https://doblaje.fandom.com/es/wiki/%C3%93scar_Flores): "Enrico Pucci (Padre Pucchi) en Stone Ocean
-  (2021-2022)"), **Hol Horse** (Carlo Vázquez, misma ficha de arriba),
-  **Terence T. D'Arby** y **Tonio Trussardi** (ambos Fabián Rétiz, [ficha](https://doblaje.fandom.com/es/wiki/Fabi%C3%A1n_R%C3%A9tiz)) ⚠️ — quedan igual que estaban, no bajé el nivel de exigencia: sigue
-  haciendo falta un sitio *fuera* de Doblaje Wiki para pasarlos a ✅.
+- **Caesar Anthonio Zeppeli** (BT): **Carlo Vázquez** · Doblaje Wiki +
+  confirmado también en [SomosKudasai](https://somoskudasai.com/noticias/las-primeras-temporadas-de-jojos-bizarre-adventure-finalmente-consiguen-doblaje/) → pasa de ⚠️ a **✅**
+- **Robert E.O. Speedwagon** (PB): **Víctor Ruiz** · Doblaje Wiki +
+  confirmado también en [SomosKudasai](https://somoskudasai.com/noticias/las-primeras-temporadas-de-jojos-bizarre-adventure-finalmente-consiguen-doblaje/) → pasa de ⚠️ a **✅**
+- **Enrico Pucci** (SO): **Óscar Flores** (créditos como "Padre Pucchi")
+  · Doblaje Wiki + confirmado también en [FUNiAnime LA](https://funianime.com/conoce-al-reparto-del-doblaje-latino-de-jojos-bizarre-adventure-stone-ocean/), que además da tres nombres que no estaban en
+  `biblia.md`: **Alicia Vélez** (Foo Fighters), **Gerardo Vásquez** (Pale
+  Snake, el Stand de Pucci) y **Juan Carlos Tinoco** (Johngalli A) → Pucci
+  pasa de ⚠️ a **✅**; los tres nombres nuevos quedan ⚠️ (una sola fuente).
+- Mismo caso que antes (confirmado sólo dentro de Doblaje Wiki, ficha de
+  personaje + ficha de actor, no un sitio externo distinto) para: **Lisa
+  Lisa** (Vianney Monroy, [ficha](https://doblaje.fandom.com/es/wiki/Vianney_Monroy)), **Hol Horse** (Carlo Vázquez, misma
+  ficha de arriba), **Terence T. D'Arby** y **Tonio Trussardi** (ambos
+  Fabián Rétiz, [ficha](https://doblaje.fandom.com/es/wiki/Fabi%C3%A1n_R%C3%A9tiz)) ⚠️ — sigue haciendo falta un sitio *fuera* de
+  Doblaje Wiki para pasarlos a ✅; los busqué en SomosKudasai, Aweita (DNS
+  no resolvió), Senpai (503 dos veces) y Gamerfocus sin encontrarlos.
 - Busqué una segunda fuente externa para Kars/Wamuu/Esidisi (el trío
   Pilar Men, con memes en §2 y §14): no encontré ningún artículo o vídeo
   que dé los tres nombres del reparto latino fuera de Doblaje Wiki; sigue
@@ -175,15 +178,16 @@ capítulo del manga (dato oficial, un único origen editorial, así que llevan
 
 ## No encontré
 
-- **Segunda fuente externa** (fuera de Doblaje Wiki) para: Speedwagon,
-  Erina, Caesar, Lisa Lisa, Kars, Wamuu, Esidisi, Hol Horse, Terence
-  D'Arby, Tonio Trussardi, Pucci, Vinegar Doppio, las voces de "Star
-  Platinum" y "The World" como efecto de sonido, Pocoloco, Sand Man y el
-  comentarista de SBR. Búsquedas hechas (español): `"<actor>" "<personaje>"
-  doblaje latino JoJo`, `ANMTV JoJo's Bizarre Adventure <parte> doblaje
-  latino reparto`, ficha de eldoblaje.com (sólo tiene España). Quedan ⚠️
-  con una sola fuente, como ya estaban en `biblia.md` §20 ("Lo que no pude
-  verificar").
+- **Segunda fuente externa** (fuera de Doblaje Wiki) para: Erina, Lisa
+  Lisa, Kars, Wamuu, Esidisi, Hol Horse, Terence D'Arby, Tonio Trussardi,
+  Vinegar Doppio, las voces de "Star Platinum" y "The World" como efecto
+  de sonido, Pocoloco, Sand Man y el comentarista de SBR (Speedwagon,
+  Caesar y Pucci **sí se resolvieron**, ver arriba). Búsquedas hechas
+  (español): `"<actor>" "<personaje>" doblaje latino JoJo`, `ANMTV JoJo's
+  Bizarre Adventure <parte> doblaje latino reparto`, ficha de
+  eldoblaje.com (sólo tiene España), SomosKudasai (sólo cubre PB/BT/SC
+  principales), Senpai.com.mx (503 dos veces), Aweita (DNS no resolvió).
+  Quedan ⚠️ con una sola fuente.
 - **Minuto exacto** de la muerte de Caesar (BT ep. 20): no quedan
   subtítulos locales de esa parte y clonar kitsunekko-mirror entero para
   un episodio no compensaba el gasto de esta tanda.
