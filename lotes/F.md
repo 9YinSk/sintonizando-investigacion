@@ -1,7 +1,8 @@
 # Lote F: series nuevas 77-96
 
-Sesión: https://claude.ai/code/session_01GRbSTbzn1T2CNnzzT8Trgi · rama `claude/lote-f-continuation-fsaj24`
-Cuenta: cuenta A106
+Sesión: https://claude.ai/code/session_0147EpLHYafvCZzwuKoiJArf · rama `claude/upbeat-meitner-75hieq`
+Cuenta: cuenta A104
+(sigue desde `claude/lote-f-continuation-fsaj24`, sesión session_01GRbSTbzn1T2CNnzzT8Trgi, cuenta .106, callada desde las 04:21 UTC).
 (sigue desde `claude/sweet-wozniak-vmvzo4`, sesión session_01DDNVaCpYyiQfao1M598h9e, que hizo 77 y 78 y dejó 79-81 a medias).
 
 ## Estado
@@ -15,11 +16,33 @@ Cuenta: cuenta A106
 - 81 Mushoku Tensei: imagen cortado justo después de escribir imagen.md (dice «Parte terminada») pero SIN escribir imagen.json ni hojas/ — relanzado sólo para eso. Vídeo y voz no llegaron a escribir nada: relanzados desde cero.
 - **Sesión nueva** (25-sep-2026, 03:55 UTC, cuenta .106): herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: 79 redactor (sólo tabla, bitácora y referencias.json), 80 vídeo (el `Sigue:` y video.json, que faltaba), 81 vídeo, voz y texto desde cero (imagen ya está). 82-84 ya recolectadas; recolectando 85-86.
 - 79 Demon Slayer: **COMPLETA y subida** (04:0x UTC). ✅26 ⚠️12 ❌0, 130 referencias, 44 webs, 1820 líneas.
-- 80 Solo Leveling: las 4 partes completas; redactor lanzado.
-- 81 Mushoku Tensei: las 4 partes completas; redactor lanzado.
+- 80 Solo Leveling: **COMPLETA y subida** (07:0x UTC). ✅13 ⚠️24 ❌0, 127 referencias, 42 webs, 1572 líneas.
+- 81 Mushoku Tensei: **COMPLETA y subida** (07:1x UTC). ✅22 ⚠️16 ❌0, 229 referencias, 51 webs, 1506 líneas.
 - 82 The Rising of the Shield Hero: lanzados imagen, texto y voz (vídeo entra al liberarse hueco).
+- **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
+
+- **80 Solo Leveling:** faltan cosas que no están en las partes y quedan como ⚠️ en la tabla
+  de cumplimiento (13✅/24⚠️). Ningún fotograma llega a 1080p y no se vio el ep. 24-25 real.
+  Faltan frases latinas de Jinwoo con minuto. El opening 2 y el ending 2 no se pudieron ver
+  (YouTube pidió iniciar sesión). No hay capturas de ARISE móvil. TV Tropes y TCRF dieron 403.
+  Personaje más querido: Sung Jinwoo (15 249 favoritos en AniList); sombra más querida, Igris.
+  Cuadro de diálogo propio: la ventana NOTIFICATION del Sistema (panel `#071331`, borde cian
+  `#2A9EDA`, verde `#02DE58` logro, carmesí `#E70D41` límite, violeta `#8C1BF8` STATUS).
+  Láminas: A #castings (la Puerta sobre el puente de Seúl), B #demos (ficha STATUS de Beru
+  en la cueva de hielo), C #autoroles (un color por sombra, bajo la lluvia).
+
+- **81 Mushoku Tensei:** más querida, Roxy (11 574 favoritos en AniList; Eris gana por poco en
+  fan art de Danbooru). Cuadro de diálogo propio: la caja del juego *Quest of Memories*
+  (pestaña ovalada de bronce, panel con relieve de hiedra `#1F180E`/`#31291B`/`#483C2C`); los
+  pensamientos de Rudeus van en cursiva sin globo (los dice otro actor). Láminas:
+  A #material-de-clase (manual de magia con Roxy, recomendada), B #reto-de-la-semana
+  (tablón del Gremio con Eris), C #dudas (pizarra del aula de Ranoa con Sylphiette).
+  Quedan ⚠️: minuto y música de la muerte de Paul (ep. 46) y el reencuentro con Sylphiette
+  (ep. 37), 9 de 20 caras por emoción, fuentes en coreano y GitHub. Datos que no coinciden:
+  siete rangos de magia en el ep. 1 contra seis en la wiki; la actriz de Elinalise (Trujillo
+  o Santiaguillo, sin confirmar).
 
 - 90 Kaguya-sama repite la serie de 43 (lote D) con otro enfoque («comedia y rótulos»). La dejo para el final del lote: si la 43 ya está, la 90 sólo profundiza en ese enfoque.
 - 79, 80 y 89 son segundas miradas a Demon Slayer (31), Solo Leveling (03) y Frieren (33) con un enfoque propio (paisajes, sistema, memoria): se parte de esas biblias para no repetir.
@@ -79,3 +102,5 @@ Cuenta: cuenta A106
 | 81-mushoku-tensei | texto | sonnet | 14 | 230387 |
 | 81-mushoku-tensei | voz | sonnet | 14 | 229337 |
 | 81-mushoku-tensei | video | sonnet | 17 | 239381 |
+| 80-solo-leveling-el-sistema-y-las-sombras | redactor (opus, relanzo, cuenta .104) | opus | 8 | 99941 |
+| 81-mushoku-tensei | redactor (opus, relanzo, cuenta .104) | opus | 10 | 247596 |
