@@ -583,18 +583,31 @@ diseño es de Araki y Shueisha: **sólo para mirar volumen y luz**):
 | Cámara y Hermit Purple (F234) | verde oscuro `#2E3223` · **rosa violeta `#AF6788` y `#D8A8C5`** |
 | Flecha TBC (W1, W3) | relleno `#B4C0A8` · letra `#48483C` a `#606054` · fondo carmesí `#600000` |
 
-**Colores de cada JoJo** (de la ropa icónica). ⚠️ **A ojo** sobre F2-F5,
-F173, F302 y F726, **no medidos al píxel**: muestrear en el recorte
-final antes de usarlos.
+**Colores de cada JoJo** (de la ropa icónica). **Segunda pasada:
+medidos** con `herramientas/estilo.py` (paleta dominante, no a ojo) sobre
+arte oficial de cuerpo entero de la wiki; donde la imagen tiene fondo
+blanco sólo cuento los colores que no son blanco o negro puro ✅.
 
-| Personaje | Colores |
-|---|---|
-| Jotaro (SC) | negro azulado `#1F2233` · **oro de la cadena `#D9B44A`** · blanco del gorro |
-| Jotaro (DU) | **blanco `#F2F0E8`** · verde agua de la camisa `#4C7772` · oro |
-| Josuke | azul marino casi negro `#20223A` · **oro de los corazones y la paz `#E0B840`** · violeta del pelo en el anime |
-| Giorno | **rosa fucsia `#C04A9A`** · oro · los tres rizos rubios |
-| Dio (SC) | **amarillo `#E8C62E`** · verde · corazones en las botas |
-| Jolyne | **verde lima `#9CCB3C`** y azul · moños en la cabeza |
+| Personaje | Imagen medida | Colores medidos |
+|---|---|---|
+| Jotaro (SC) | [Jotaro_ASB.jpg](https://static.wikia.nocookie.net/jjba/images/7/71/Jotaro_ASB.jpg) 3750×5000 | **azul noche del abrigo `#163F58`** · casi negro `#070F13` · gris `#AFA7A8` · la cadena dorada es <2 % del área. **La gorra es negra con insignia dorada, no blanca** (antes decía «blanco del gorro»: error). Visto así en el tráiler de All-Star Battle R, [Dailymotion x8x1bgw](https://www.dailymotion.com/video/x8x1bgw) **1:20**: cadena `#7B5325`, chaqueta `#221223`, camisa lila `#4B2750` (escena a contraluz, tonos apagados) ✅ |
+| Jotaro (DU) | a ojo sobre F173 ⚠️ | **blanco `#F2F0E8`** · verde agua de la camisa `#4C7772` · oro |
+| Dio (PB→SC) | [DioBrando-ASB.jpg](https://static.wikia.nocookie.net/jjba/images/6/60/DioBrando-ASB.jpg) 1280×720 | **dorado mostaza `#BA963C`** y `#916F38` · marrón oscuro `#271A19`, `#3E2D26` · piel `#C4A987` ✅ |
+| Joseph | [Joseph_ASB.jpg](https://static.wikia.nocookie.net/jjba/images/0/0b/Joseph_ASB.jpg) 690×690 | verde botella `#11563A` · `#52A114` · turquesa `#0FC5AC` · lima `#C3EB35` · piel `#CEAB8B` ✅ |
+| Josuke | [Josuke_Higashikata.png](https://static.wikia.nocookie.net/jjba/images/f/f8/Josuke_Higashikata.png) 567×901 | azul marino casi negro `#040306` · **celeste de la camisa `#A8D6EC`** · violeta del pelo `#493756`, `#625782` · piel `#ED9688` · oro de los broches (corazón y paz) ✅ |
+| Giorno | [Giorno_Giovanna_Anime_2.png](https://static.wikia.nocookie.net/jjba/images/6/63/Giorno_Giovanna_Anime_2.png) 658×1223 | **rosa fucsia `#BD7DAD`**, `#65356B` · crema `#DBD1B0` · dorado `#DDBD60` · piel `#E4C29E` ✅ |
+| Bucciarati | [Bruno_Bucciarati_Anime.png](https://static.wikia.nocookie.net/jjba/images/a/af/Bruno_Bucciarati_Anime.png) 1080×1311 | **crema del traje `#F4E6D3`** (no blanco puro) · lunares y pelo `#100A09` · rojo `#EF3841` · piel `#EEC68F` ✅ |
+| Kira | [Yoshikage_Kira_pin-up.jpg](https://static.wikia.nocookie.net/jjba/images/a/a2/Yoshikage_Kira_pin-up.jpg) 850×1063 | **violeta azulado `#3C3A50`**, `#272133`, `#858ACB`, `#BAB7F3` · gris `#645A69` ✅ |
+| Rohan | [Rohan_accepts_Ken's_challenge.png](https://static.wikia.nocookie.net/jjba/images/4/49/Rohan_accepts_Ken%27s_challenge.png) 1920×1080 | **verde apagado `#718F71`** · piel `#CCAC99` · acento magenta `#D62450` ✅ |
+| Jolyne | [Jolyne_Cujoh.png](https://static.wikia.nocookie.net/jjba/images/8/84/Jolyne_Cujoh.png) 444×563 | **oliva lima `#B7B338`** (antes `#9CCB3C` a ojo: era más verde de lo real) · turquesa `#51ABB6` · piel `#ECAA80` · moños en la cabeza ✅ |
+
+**Sitios medidos en vídeo** (segunda pasada, Pillow sobre fotogramas):
+muro azteca del ending «Roundabout» `#8F7B61` a `#AFA07E` con la línea
+roja `#8B1A1A` ([Dailymotion x3j25ta](https://www.dailymotion.com/video/x3j25ta), 0:40) ✅;
+humo de Killer Queen `#110617` a `#5A058C`, máscara `#F3E6F2` (avance DU
+ep. 36, [Dailymotion x547qml](https://www.dailymotion.com/video/x547qml), 0:04) ✅;
+cielo de Morioh en el avance del ep. 33 ([x5mk7ho](https://www.dailymotion.com/video/x5mk7ho), 0:00)
+confirma el mostaza `#B79E2D` de F315 ✅.
 
 ### 5.4 Texturas reales equivalentes (Poly Haven, CC0) ✅
 
@@ -816,9 +829,12 @@ los subtítulos ✅; lo que es de memoria va con ⚠️.
   - **Poses imposibles**: torso girado, brazo sobre la cabeza.
   - **Dedo en la sien** con sonrisa de loco (F239, «high as hell»).
   - De pie **en la azotea de El Cairo** con capa, de noche (F242).
-- **Voz japonesa**: Takehito Koyasu ✅. **Latina**: **Marc Winslow**
-  (PB, SC y SO desde la parte 2) ✅; **Sergio Becerril** en la parte 1
-  de SO ✅ (Doblaje Wiki y Wikipedia vía búsqueda).
+- **Voz japonesa**: Takehito Koyasu ✅. **Latina**: **Marc Winslow** es
+  la voz base en las partes 1, 3 y 6 (PB, SC y SO) ✅. **Sergio Becerril**
+  sólo dobla **el episodio 12 de Stone Ocean** ✅ ([Doblaje Wiki: Dio Brando](https://doblaje.fandom.com/es/wiki/Dio_Brando),
+  [World Dubbing News ES](https://x.com/wdn_es/status/1466979864297328643)).
+  El artículo de ANMTV que pone a Becerril en Phantom Blood **está mal**
+  (ver §10.2).
 
 ### Joseph Joestar — el bromista (joven en BT, viejo en SC y DU)
 
@@ -1039,23 +1055,24 @@ API** (`action=parse`, 24-sep-2026) y lo crucé con una segunda fuente:
 | Personaje | Parte | Voz latina | ✅/⚠️ | Segunda fuente |
 |---|---|---|---|---|
 | **Jotaro Kujo** | SC, DU, SO | **Irwin Daayán** | ✅ | ANMTV; clip «Jotaro: Ay por favor» |
-| **Dio / DIO** | PB, SC, SO (partes 2-3) | **Marc Winslow** | ✅ | búsqueda (JoJo Wiki, doblajes) |
-| DIO | SO (parte 1) | Sergio Becerril | ✅ | búsqueda (JoJo Wiki, doblajes) |
+| **Dio / DIO** | PB, SC y SO (voz base en las partes 1, 3 y 6) | **Marc Winslow** | ✅ | [Doblaje Wiki: Dio Brando](https://doblaje.fandom.com/es/wiki/Dio_Brando); [FUNiAnime LA, elenco PB y BT](https://funianime.com/conoce-al-elenco-de-jojos-bizarre-adventure-phantom-blood-y-battle-tendency/) |
+| DIO | **sólo SO ep. 12** | Sergio Becerril | ✅ | [Doblaje Wiki: Dio Brando](https://doblaje.fandom.com/es/wiki/Dio_Brando); [World Dubbing News ES](https://x.com/wdn_es/status/1466979864297328643) |
 | Jonathan Joestar | PB | Ricardo Bautista | ✅ | búsqueda |
 | Will A. Zeppeli | PB | César Garduza | ✅ | búsqueda |
-| Speedwagon | PB, BT | Víctor Ruiz | ⚠️ | — |
-| Erina | PB | Montserrat Aguilar | ⚠️ | — |
+| Speedwagon | PB, BT | Víctor Ruiz | ✅ | [SomosKudasai](https://somoskudasai.com/noticias/las-primeras-temporadas-de-jojos-bizarre-adventure-finalmente-consiguen-doblaje/) |
+| Erina | PB | Montserrat Aguilar | ✅ | [FUNiAnime LA](https://funianime.com/conoce-al-elenco-de-jojos-bizarre-adventure-phantom-blood-y-battle-tendency/) |
 | **Joseph (joven)** | BT | **Miguel de León** | ✅ | búsqueda |
-| Caesar Zeppeli | BT | Carlo Vázquez | ⚠️ | — |
-| Lisa Lisa | BT | Vianney Monroy | ⚠️ | — |
-| Kars · Wamuu · Esidisi | BT | Jorge Badillo · Salvador Reyes · José Antonio Macías | ⚠️ | — |
+| Caesar Zeppeli | BT | Carlo Vázquez | ✅ | SomosKudasai |
+| Lisa Lisa | BT | Vianney Monroy | ⚠️ | sólo Doblaje Wiki ([ficha del actor](https://doblaje.fandom.com/es/wiki/Vianney_Monroy)) |
+| Kars · Wamuu · Esidisi | BT | Jorge Badillo · Salvador Reyes · José Antonio Macías | ✅ | FUNiAnime LA (los tres juntos) |
 | **Joseph (viejo)** | SC, DU | **Raúl Anaya** | ✅ | ANMTV |
 | Kakyoin | SC | Héctor Emmanuel Gómez | ✅ | ANMTV |
 | Polnareff | SC | Miguel Ángel Leal | ✅ | ANMTV |
 | Avdol | SC | Alan Bravo | ✅ | ANMTV (y repite como Urmd en SBR) |
 | Iggy | SC | Angélica Villa | ✅ | ANMTV |
-| Hol Horse | SC | Carlo Vázquez | ⚠️ | — |
-| Terence D'Arby | SC | Fabián Rétiz | ⚠️ | — |
+| Hol Horse | SC | Carlo Vázquez | ✅ | [FUNiAnime LA, elenco SC](https://funianime.com/conoce-al-reparto-del-doblaje-latino-de-jojos-bizarre-adventure-stardust-crusaders/) |
+| Holly Joestar · Enyaba · Mariah | SC | Jessica Ángeles · Magda Giner · Carla Castañeda | ⚠️ | sólo FUNiAnime LA |
+| Terence D'Arby | SC | Fabián Rétiz | ⚠️ | sólo Doblaje Wiki ([ficha](https://doblaje.fandom.com/es/wiki/Fabi%C3%A1n_R%C3%A9tiz)) |
 | Star Platinum (su voz) | SC | Mauricio Pérez | ⚠️ | — |
 | The World (su voz) | SC | Eleazar Muñoz | ⚠️ | — |
 | Narrador | todas | Osvaldo Trejo (SC eps. 1-4) → **Tommy Rojas** | ✅ | Doblaje Wiki cita entrevista de Tommy Rojas |
@@ -1070,14 +1087,16 @@ API** (`action=parse`, 24-sep-2026) y lo crucé con una segunda fuente:
 | Guido Mista | GW | Eduardo Curiel | ✅ | búsqueda |
 | Leone Abbacchio | GW | Geezuz González | ✅ | búsqueda |
 | Narancia | GW | Luis Navarro | ✅ | búsqueda |
-| Fugo | GW | Arturo Cataño | ⚠️ | — |
+| Fugo | GW | Arturo Cataño | ✅ | [Gamerfocus](https://www.gamerfocus.co/anime/cuando-jojos-bizarre-adventure-parte-5-golden-wind-netflix-actualiza-todas-las-temporadas-con-doblaje-al-espanol-de-latinoamerica/) |
 | Trish | GW | Wendy Malvárez | ✅ | búsqueda |
-| Diavolo | GW | Roberto Mendiola (Óscar Rangel, eps. 33-38) | ⚠️ | — |
+| Diavolo | GW | Roberto Mendiola (Óscar Rangel, eps. 33-38) | ✅ | Gamerfocus |
+| Vinegar Doppio | GW | Emilio Treviño y Emmanuel Bernal | ⚠️ | sólo Gamerfocus |
 | **Jolyne Cujoh** | SO | **Alondra Hidalgo** | ✅ | Cinepremiere; JoJo Wiki |
 | Ermes | SO | Alicia Barragán | ✅ | búsqueda |
 | Emporio | SO | Fernanda Robles | ✅ | búsqueda |
 | Weather Report | SO | Manuel Campuzano | ✅ | búsqueda |
-| Pucci | SO | Óscar Flores | ⚠️ | — |
+| Pucci | SO | Óscar Flores | ✅ | [FUNiAnime LA, elenco SO](https://funianime.com/conoce-al-reparto-del-doblaje-latino-de-jojos-bizarre-adventure-stone-ocean/) |
+| Foo Fighters · Pale Snake · Johngalli A | SO | Alicia Vélez · Gerardo Vásquez · Juan Carlos Tinoco | ⚠️ | sólo FUNiAnime LA |
 | **Johnny Joestar** | SBR | **Max Durán** | ✅ | ANMTV en X |
 | **Gyro Zeppeli** | SBR | **Xalisco Moreno** | ✅ | ANMTV en X |
 | Diego Brando | SBR | Marc Winslow (el mismo de Dio) | ✅ | búsqueda |
@@ -1085,8 +1104,15 @@ API** (`action=parse`, 24-sep-2026) y lo crucé con una segunda fuente:
 | Pocoloco · Sand Man | SBR | José Arenas · Óscar López | ⚠️ | — |
 | Comentarista de la carrera | SBR | Brandon Montor | ⚠️ | ANMTV en X |
 
-> [!warning] Una confusión que circula
-> Un resumen de búsqueda dio para SBR «Johnny: Armando Corona / Gyro:
+> [!warning] Dos confusiones que circulan
+> **1 · Dio en Phantom Blood.** El [artículo de ANMTV](https://www.anmtvla.com/2022/01/jojos-bizarre-adventure-doblaje-latino.html)
+> del estreno de PB, BT y SC pone «Sergio Becerril como Dio Brando» en
+> Phantom Blood. **Está mal**: Marc Winslow es la voz base de Dio en las
+> partes 1, 3 y 6; Becerril sólo dobla el **ep. 12 de Stone Ocean**
+> (Doblaje Wiki, ficha de la franquicia y del personaje; FUNiAnime LA) ✅.
+> En España el reparto es otro ([eldoblaje.com](https://www.eldoblaje.com/)): no mezclar.
+>
+> **2 · Steel Ball Run.** Un resumen de búsqueda dio para SBR «Johnny: Armando Corona / Gyro:
 > Alejandro Orozco». **Es falso**: en Doblaje Wiki, **Alejandro Orozco
 > dobla a Mountain Tim**; Johnny es **Max Durán** y Gyro **Xalisco
 > Moreno**, como dice también ANMTV ✅.
@@ -1174,6 +1200,19 @@ Wiki:
   congela **justo cuando entra el bajo** (en la herramienta de fans, el
   golpe está a 44,944 s del archivo de audio que usa) ✅.
 
+- **Visto de verdad (segunda pasada)**: el ending sincronizado de
+  [Dailymotion x3j25ta](https://www.dailymotion.com/video/x3j25ta)
+  (3:04, 512×288), mirado con `fotogramas.py --cada 8`. De **0:00 a
+  0:48** el muro azteca con una **línea roja** que corre por los
+  relieves como una serpiente ✅. A **0:56** la cartela de créditos
+  **«ROUNDABOUT · Jon Anderson / Steve Howe · YES»** ✅. A **1:12** una
+  máscara pálida entre zarcillos verdes; de **1:28 a 1:36** **dos
+  máscaras de piedra** (una dorada, otra con manchas violeta), no una
+  sola. A **2:40** Joseph joven con sombrero ✅.
+- **«SPIN»** de Kroi (OP de Steel Ball Run): se estrenó el 25-sep-2026;
+  aún no hay clip oficial en plataformas abiertas (Dailymotion, Internet
+  Archive) ⚠️.
+
 ### 11.3 Temas de la banda sonora
 
 - **«il vento d'oro»** (GW): «el tema de Giorno». Compuesto por **Yugo
@@ -1208,6 +1247,22 @@ en §2, por subtítulo.
 | [OP de la serie de 2012](https://www.youtube.com/watch?v=BW4H15rK6iI) | Warner Bros. Japan Anime | — | 1:33 | |
 | [Stone Ocean · nuevo OP](https://www.youtube.com/watch?v=RTacFlYONhY) | Warner Bros. Japan Anime | — | 1:31 | El OP en 3D de Kamikaze Douga |
 | [Stone Ocean · Tráiler oficial](https://www.youtube.com/watch?v=EeCX8Y0a278) | Netflix | 2021 | 2:17 | |
+
+**Vídeos mirados fotograma a fotograma (segunda pasada, 25-sep-2026).**
+YouTube pidió iniciar sesión desde el servidor, así que se usaron copias
+en Internet Archive y Dailymotion con `fotogramas.py` ✅:
+
+| Vídeo | Dónde | Duración · resolución | Qué se ve, con minuto |
+|---|---|---|---|
+| OP1 «Sono Chi no Sadame» | [Internet Archive](https://archive.org/details/jojo-no-kimyou-na-bouken-op-1) | 1:31 · 1920×1080 | **0:04** Jonathan flexiona los brazos con líneas de velocidad verdes · **0:08** título ジョジョの奇妙な冒険 en rosa sobre negro · **0:12-0:16** viñeta de manga en blanco y negro, encuadre torcido · **0:24** Erina con atardecer naranja · **0:40** mano de Jonathan alzada hacia una luz blanca, anillos dorados · **0:44** puño en fuego naranja · **1:04-1:08** aura rosa y verde |
+| Ending «Roundabout» (1 y 2) | [Dailymotion x3j25ta](https://www.dailymotion.com/video/x3j25ta) | 3:04 · 512×288 | Ver §11.2 |
+| Tráiler de *All-Star Battle R* (2022) | [Dailymotion x8x1bgw](https://www.dailymotion.com/video/x8x1bgw), canal Level Up | 4:11 · 512×288 | **0:00-0:20** desierto de SBR con cinco jinetes · **0:30** HUD «SECRET FACTOR +2» · **0:40** «THE WORLD!» sobre una esfera azul · **0:50** ojos rojos de Dio en la oscuridad · **1:20** Jotaro en contrapicado, gorra negra con insignia dorada, cadena · **1:40-1:50** menú de Battle Tendency con cielo crema |
+| Avance TV de DU ep. 33 | [Dailymotion x5mk7ho](https://www.dailymotion.com/video/x5mk7ho) | 0:15 · 512×288 | **0:00-0:01** Josuke de perfil con aura violeta y cielo dorado · **0:04-0:05** Yukako · **0:07** Crazy Diamond · **0:10-0:15** el sobre en el coche |
+| Avance TV de DU ep. 36 | [Dailymotion x547qml](https://www.dailymotion.com/video/x547qml) | 0:15 · 512×288 | **0:00-0:03** Aya Tsuji llorando · **0:04-0:06** primer plano de Killer Queen con el detonador de Bites the Dust · **0:12-0:14** Killer Queen entre humo rojo |
+| OP2 «BLOODY STREAM» | [Internet Archive](https://archive.org/details/jojo-no-kimyou-na-bouken-op-2) | 1:31 · 1920×1080 | Bajado, no analizado ⚠️ |
+| Tráiler de SBR (Netflix LATAM) | [YouTube](https://www.youtube.com/watch?v=tZRpLrZgr6w) | 2:10 | `yt-dlp` se colgó; sin minutos internos ⚠️ |
+
+AnimeThemes siguió caído (error 522 en `/anime` y en `/search`) ⚠️.
 
 ### 12.2 Recopilaciones y análisis
 
@@ -1393,6 +1448,19 @@ de algunas, ⚠️.
 
 ---
 
+### Poses de vídeo real (segunda pasada)
+
+Salen de mirar los vídeos de §12.1, con minuto. Se suman a las de
+arriba (que usan hojas F-n, en más resolución).
+
+| Personaje | Vídeo | Minuto | Postura, manos, mirada | Sirve para |
+|---|---|---|---|---|
+| Jonathan | [OP1, Internet Archive](https://archive.org/details/jojo-no-kimyou-na-bouken-op-1) | 0:40 | Mano derecha alzada a una luz blanca, anillos dorados, guantelete oscuro | **Animar** |
+| Joseph joven | [Ending, Dailymotion](https://www.dailymotion.com/video/x3j25ta) | 2:40 | Sombrero, mano junto a la barbilla, sonrisa de lado, de perfil | **Pensar, explicar** con ironía |
+| Jotaro | [Tráiler ASBR](https://www.dailymotion.com/video/x8x1bgw) | 1:20 | Contrapicado, de pie, mirada fija al frente, gabardina abierta, cadena al hombro | **Presentar, amenazar** |
+| Josuke | [Avance DU ep. 33](https://www.dailymotion.com/video/x5mk7ho) | 0:00-0:01 | De perfil, aura violeta, manos en el cinturón, cadera ladeada | **Presentar** |
+| Killer Queen (Kira) | [Avance DU ep. 36](https://www.dailymotion.com/video/x547qml) | 0:04 | Primer plano, ojos rojos, puño con el disco dorado | **Amenazar, regañar** |
+
 ## 16 · Vestuario ⚠️ (visto en las hojas; colores a ojo)
 
 | Personaje | Ropa icónica | Detalles que no pueden faltar |
@@ -1530,6 +1598,77 @@ Pixar, 3D render, photorealistic, moe, watercolor, neon cyberpunk*
   dedo en la sien), F431 (Giorno), F3 y F492 (Rohan).
 - **Filtro del fotograma congelado**: W5 (sepia SC), W7 (rojo-violeta
   SC 47), W8 (magenta DU), W10 (verde agua GW), W12 (SBR).
+
+### 18.6 Colores y técnica que la IA debe respetar (segunda pasada)
+
+- **Hex medidos** (§5.3) para escribir en el prompt: abrigo de Jotaro
+  `#163F58`, oro de Dio `#BA963C`, fucsia de Giorno `#BD7DAD`, violeta de
+  Kira `#3C3A50`, verde de Rohan `#718F71`, crema de Bucciarati `#F4E6D3`,
+  oliva lima de Jolyne `#B7B338` ✅.
+- **Gorra de Jotaro en SC**: *black cap with a gold badge*, nunca blanca
+  (blanca sólo en DU) ✅.
+- **Color como Araki** (§Punto 18): planos grandes estilo *ukiyo-e*,
+  complementarios en luz y sombra, **azul claro + rosa** como combinación
+  favorita (Golden Wind) ✅. Palabras que ayudan: *flat ukiyo-e color
+  areas, complementary shadows, light blue and pink scheme, sepia
+  underpainting*.
+- **Referencia de pose 3D real**: figuras Medicos *Super Action Statue*
+  (colores aprobados por Araki, §Punto 23), no fan renders.
+
+### 18.7 Para una IA de texto: cómo escribir en su voz
+
+**Reglas de la voz de JoJo** (§7.2 y §10.3):
+
+- **Frases cortas y rotundas**, con una muletilla por personaje:
+  «Ay, por favor» (Jotaro, doblaje latino), «¡Great!» (Josuke),
+  «…pero me niego» (Rohan), «¡Inútil, inútil!» (Dio, Giorno).
+- **Se presentan en tercera persona** con nombre completo: «Este Giorno
+  Giovanna tiene un sueño».
+- **Gritos con letras estiradas y ¡!** : «¿Qué dijiste de mi peeelo?»,
+  «¡ROAD ROLLER DAAA!». Las ráfagas se escriben repetidas y en
+  mayúsculas: «¡ORA ORA ORA!», «¡MUDA MUDA MUDA!» (se dejan en japonés,
+  como el doblaje hace con ORA ORA).
+- **Los villanos explican su plan con calma**; el héroe **adivina la
+  frase del otro**: «Tu siguiente frase será…».
+- **Nombres en inglés o italiano** para poderes y ataques (Killer Queen,
+  Sticky Fingers, Arrivederci).
+- **Onomatopeyas de tensión** en katakana, dibujadas, no escritas en
+  globo: ゴゴゴゴ (gogogo), ドドド (dododo).
+- **Qué evitar**: humor tierno, emojis, diminutivos, «jeje». JoJo exagera
+  con dramatismo serio, no con ternura.
+
+**Frases reales por emoción** (subtítulo japonés con minuto, §2.1;
+traducción de la biblia salvo donde dice «doblaje»):
+
+| Emoción | Frase | Quién · dónde |
+|---|---|---|
+| Alegre, eufórico | «¡Me siento en lo más ALTO!» (最高に ハイってやつだぁぁぁぁ！) | Dio · SC ep. 47, 00:23:34 ✅ |
+| Alegre, burlón | «¡YES YES YES!… ¡OH MY GOD!» | Dio y Jotaro · SC ep. 42, 00:10:21 ✅ |
+| Enfadado | «¿Qué dijiste de mi pelo?» (このヘアースタイルがサザエさんみてェーだとォ) | Josuke · DU ep. 1, 00:06:02 ✅ |
+| Enfadado, frío | «Tu error fue uno solo… me hiciste enojar» | Jotaro · SC ep. 48, 00:14:47 ✅ |
+| Explicando | «Voy a contar lo que acaba de pasar…» | Polnareff · SC ep. 45, 00:06:42 ✅ |
+| Explicando, con calma | «Me llamo Yoshikage Kira. Tengo 33 años… siempre deseo la paz mental» | Kira · DU ep. 21, 00:20:25 ✅ |
+| Animando | «Este Giorno Giovanna tiene un sueño» | Giorno · GW ep. 5, 00:22:49 ✅ |
+| Animando, pícaro | «Tu siguiente frase será…» | Joseph · BT ep. 10, 00:16:19 ✅ |
+| Triste | «Y Kars dejó de pensar» | narrador · BT ep. 26, 00:14:40 ✅ |
+| Triste, a gritos | «¡Qué injusticia!» (あんまりだああ～), el llanto de Esidisi | BT ep. 16, 00:25:05 ✅ |
+| Fastidio | «Ay, por favor» (doblaje latino de やれやれだぜ) | Jotaro · SC ep. 2, 00:02:19 ✅ |
+| Negarse | «…pero me niego» (だが断る) | Rohan · DU ep. 28, 00:20:15 ✅ |
+
+**Vocabulario de expresiones para la IA de imagen** (cada gesto):
+
+- **Cara seria con sombra de rayado** en la frente y el cuello
+  (*cross-hatched shadow over the eyes*): amenaza, decisión.
+- **Ojos en blanco o pupila diminuta** (*shrunken pupils*): terror,
+  shock; Joseph y Polnareff.
+- **Gotas de sudor gruesas** en la sien (*heavy sweat drops*): apuro;
+  Bucciarati lame el sudor en GW ep. 1, 00:21:23.
+- **Fondo de color plano que cambia** (*sudden flat background color
+  shift*): la emoción cambia el color de toda la escena (§5.2).
+- **Katakana gigante** ゴゴゴ detrás (*menacing katakana aura*): tensión.
+- **Pose JoJo** (*contorted fashion pose, twisted torso*): presentarse.
+- **Chibi**: la serie **no** usa *chibi* ni caras deformadas tiernas;
+  el humor sale de la exageración dramática. No pedirlo.
 
 ---
 

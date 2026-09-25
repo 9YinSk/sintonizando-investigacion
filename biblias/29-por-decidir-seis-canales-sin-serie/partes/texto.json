@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.gameuidatabase.com/gameData.php?id=2357",
+    "fuente": "Game UI Database",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Catálogo de pantallas de interfaz de Bleach: Rebirth of Souls (2025): diálogo, cinemáticas, intro de personaje, menús",
+    "para_que": "Punto 6 y 11: referencia de cómo se ve el cuadro de diálogo y la interfaz de Bleach en un videojuego reciente, fiel al manga",
+    "licencia": "Sitio de referencia, no descargable; sólo consulta"
+  },
+  {
+    "url": "https://www.spriters-resource.com/wii/supermariogalaxy/asset/136701/",
+    "fuente": "The Spriters Resource",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hoja de sprites con los iconos de HUD, letras y números de Super Mario Galaxy (Wii)",
+    "para_que": "Punto 11: referencia exacta de la tipografía e iconos del HUD del juego",
+    "licencia": "Recurso de fans extraído del juego; usar sólo como referencia visual, no para pegar"
+  },
+  {
+    "url": "https://www.illuminationstudiosparis.com/pipeline/",
+    "fuente": "Illumination Studios Paris (web oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página oficial que describe el pipeline de producción (Maya, Nuke/NukeX, motor de render propio) del estudio que anima Mario Galaxy y Sing",
+    "para_que": "Punto 18: fuente oficial del software real usado, para la guía de cómo replicar el estilo en Blender/Photoshop",
+    "licencia": "Página informativa oficial, no descargable"
+  },
+  {
+    "url": "https://www.mariowiki.com/List_of_internal_fonts",
+    "fuente": "Super Mario Wiki (mariowiki.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de las fuentes internas usadas en los juegos de Mario, incluida la 'Classic HUD font' de Super Mario Galaxy",
+    "para_que": "Punto 5: verificación del nombre real de la tipografía del HUD de Super Mario Galaxy (corrige el dato dudoso de 'Pop Happiness')",
+    "licencia": "Wiki de fans, sólo consulta"
+  },
+  {
+    "url": "https://www.cgw.com/Publications/CGW/2001/Volume-24-Issue-10-October-2001-/Monster-Mash.aspx",
+    "fuente": "Computer Graphics World",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo técnico de 2001 sobre la producción de Monsters, Inc.: pelo de Sulley (2.320.413 pelos simulados) y coste de render",
+    "para_que": "Punto 18: dato técnico concreto para explicar y replicar el pelaje de Sulley en Blender (Principled Hair BSDF)",
+    "licencia": "Artículo de prensa especializada, sólo consulta"
+  },
+  {
+    "url": "https://www.moma.org/audio/playlist/192/2569",
+    "fuente": "MoMA (Museum of Modern Art)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la maqueta de estudio de patrones de pelaje de Sullivan hecha por Jerome Ranft para Monsters, Inc. (2001)",
+    "para_que": "Punto 18: referencia de cómo se diseñó físicamente el patrón de manchas de Sulley antes del 3D",
+    "licencia": "Pieza de colección de museo, sólo consulta/cita"
+  },
+  {
+    "url": "https://disneyanimation.com/technology/hyperion/",
+    "fuente": "Walt Disney Animation Studios (web oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página oficial sobre el renderizador Hyperion de Disney, que aclara que se estrenó en Big Hero 6 (2014), después de Wreck-It Ralph (2012)",
+    "para_que": "Punto 18: evita el error de atribuir Hyperion a la primera película de Ralph",
+    "licencia": "Página informativa oficial, no descargable"
+  },
+  {
+    "url": "https://bleach.fandom.com/es/wiki/Gotei_13",
+    "fuente": "Bleach Wiki (Fandom, español)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Gotei 13: su símbolo (rombo numerado), estructura de 13 divisiones y emblemas florales por división",
+    "para_que": "Punto 25: el emblema y vocabulario del mundo de Bleach para sellos o marcos de la lámina",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom), citar la fuente"
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Monsters,_Inc._(company)",
+    "fuente": "Disney Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la empresa Monsters, Inc.: logo 'M Eyeball', el cambio de energía por gritos a energía por risas",
+    "para_que": "Punto 25: el logo y la regla del mundo de Monsters, Inc. para el concepto de #general-doblaje",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom), citar la fuente"
+  },
+  {
+    "url": "https://wreckitralph.fandom.com/wiki/Game_Central_Station",
+    "fuente": "Wreck-It Ralph Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Game Central Station, el nudo central del mundo de Wreck-It Ralph (regleta por fuera, estación de tren por dentro)",
+    "para_que": "Punto 25: el escenario y vocabulario del mundo de Ralph para el concepto de #noticias-gaming",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom), citar la fuente"
+  },
+  {
+    "url": "https://phineasyferb.fandom.com/es/wiki/Organizaci%C3%B3n_Sin_un_Buen_Acr%C3%B3nimo_(O.S.B.A)",
+    "fuente": "Phineas y Ferb Wiki (Fandom, español latino)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la O.S.B.A. (OWCA en inglés), la agencia secreta de Perry, con su nombre en doblaje latino",
+    "para_que": "Punto 25: vocabulario y símbolo de agencia secreta para el concepto de #eventos",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom), citar la fuente"
+  }
+]
