@@ -28,6 +28,11 @@ Cuenta: cuenta R49
 - Reintento fallido: recolecté de nuevo 102 (El estilo Ghibli en general) sin `--nombres`/`--wiki` y pisé
   datos mejores (AniList/Fandom no la encontraron sin esas pistas); revertido con `git checkout` antes de
   subir nada. Para 102, recolectar con `--nombres` y `--wiki` explícitos cuando le toque.
+- Límite de uso (25-sep, ~07:40 UTC): los 5 agentes vivos (redactor de 98 + 4 investigadores de 100)
+  cortados por «session limit» de la cuenta, reset a las 11:30 UTC. 98 quedó guardado a medias (puntos
+  0-23 de 25 escritos); 100 no llegó a guardar nada. Reanudado a las 12:59 UTC (aviso del dueño «Try
+  again»): redactor de 98 relanzado para seguir desde donde quedó (no desde cero) y los 4 investigadores
+  de 100 relanzados desde cero.
 
 ## Avisos para el dueño
 
