@@ -122,3 +122,25 @@ Mirados con `fotogramas.py` (hojas de contacto de verdad). Clips de 1280×720; n
 
 Licencia y caras comprobadas por la [API de Sketchfab](https://api.sketchfab.com/v3/search?type=models&q=generator%20rex&downloadable=true). **Poly Haven** no tiene nada de la serie (es un banco genérico); sus metales sirven como capa, no como modelo de la obra.
 
+## 4 · Sitios, luz, paleta y texturas reales
+
+Hex sacados con `estilo.py` sobre fotogramas propios, no de memoria.
+
+| Sitio | Luz y hora | Paleta medida | De dónde |
+|---|---|---|---|
+| **Base de Providence**, pasillo o sala con foco cenital | fría, haces blanco-azulados sobre gris oscuro; saturación 24 %, brillo 49 % | `#0B0909` 29 %, `#5E484A` 28 %, `#E9F9FA` 23 %, `#C08E68` 7 %, `#697E88` 7 %, `#A9CCD9` 6 % | [opening, 0:10](https://www.dailymotion.com/video/xa14dbg&t=10) ✅ |
+| **Patio colonial** del juego | tarde, cálida; arena y terracota; saturación 37 %, brillo 50 % | `#C89A88` 32 %, `#1C1B12` 19 %, `#373629` 17 %, `#63564A` 16 %, `#AA8373` 11 % | [tráiler, 0:20](https://www.dailymotion.com/video/x84bg5o&t=20) ✅ |
+| **Ciudad de noche**, azotea con relámpagos («Operation: Wingman») | noche, azules muy oscuros; saturación 50 %, brillo 21 % | `#28313D` 27 %, `#0A131A` 20 %, `#1B242A` 17 %, `#0F2239` 15 %, `#192F4C` 15 % | [2:45](https://www.dailymotion.com/video/x2tkgs7&t=165) ✅ |
+| **Ruinas con consolas** de Providence (juego) | antorchas naranjas contra pantallas azules | sin medir | [tráiler, 0:33](https://www.dailymotion.com/video/x84bg5o&t=33) ⚠️ sólo en el juego |
+
+**Sitios vistos en las hojas** (sin medir):
+- **Cuartel de Providence**: una **torre gris** que sale de un **cañón desértico**, cielo azul claro (hoja nº 36; «The tower», nº 50) ✅ visto. El retrato de Rex tiene el mismo cañón rojo detrás.
+- **Pasillos blancos** de Providence con agentes de negro (nº 34, nº 51).
+- **Abysus**, el feudo de Van Kleiss: no hay un plano general del sitio en las hojas. Las nº 20 y nº 27 son del episodio «Assault on Abysus» (interiores oscuros y cálidos) ⚠️.
+- **Ciudad en obras** y calles (nº 24 «201-Construction zone», nº 38) y **selva** (nº 65).
+
+**Texturas reales equivalentes** (ambientCG, CC0, 2048×2048 citado, hasta 8K):
+- Metal cepillado para los *builds*: [Metal055A](https://ambientcg.com/view?id=Metal055A) ✅
+- Acero corrugado para naves y laboratorios: [CorrugatedSteel009](https://ambientcg.com/view?id=CorrugatedSteel009) ✅
+- Lona caqui para la ropa de Bobo y el equipo: [Fabric066](https://ambientcg.com/view?id=Fabric066) ✅
+

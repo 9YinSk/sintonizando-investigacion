@@ -256,3 +256,103 @@ No hay manga ni globos. Cada uso se lleva a lo que hay en los juegos. Las letras
 
 **Colores de la Materia**, clave para cualquier cuadro de estado: **verde = Magia, amarillo = Comando, morado = Independiente, rojo = Invocación, azul = Apoyo**. Medidos aprox. en Remake: verde #347035, amarillo #57450B, rojo #902B2D ✅ ([wiki](https://finalfantasy.fandom.com/wiki/Materia_%28Final_Fantasy_VII%29)).
 
+## 7 · Personajes y popularidad
+
+**Quién es quién, en una línea**
+- **Cloud Strife.** Mercenario, dice ser ex-SOLDIER. Rubio de punta, ojos Mako, la Buster Sword. Protagonista.
+- **Tifa Lockhart.** Su amiga de la infancia. Luchadora cuerpo a cuerpo y dueña del bar Séptimo Cielo, base de AVALANCHE.
+- **Aerith Gainsborough.** Vende flores en los barrios bajos. Es la última Cetra.
+- **Sephiroth.** El mejor SOLDIER de la historia. Enloquece en Nibelheim y es el villano.
+- **Barret Wallace.** Jefe de AVALANCHE, brazo-arma, cría a la niña Marlene.
+- **Secundarios:** Red XIII (Nanaki), Yuffie, Vincent, Cid, Cait Sith, Zack (el amigo que le dio la espada a Cloud), Jessie, Reno y Rufus.
+
+**Encuesta oficial de Famitsu sobre Remake (julio 2020)** ✅ ([Push Square](https://www.pushsquare.com/news/2020/07/cloud_tops_final_fantasy_vii_remake_popularity_poll_in_japan_by_some_distance), [ResetEra](https://www.resetera.com/threads/final-fantasy-vii-remake-famitsu-character-popularity-poll-spoilers.252405/))
+
+| Puesto | Personaje | Votos |
+|---|---|---|
+| 1 | Cloud | 1991 |
+| 2 | Tifa | 1548 |
+| 3 | Aerith | 1433 |
+| 4 | Jessie | 535 |
+| 5 | Barret | 498 |
+| 6 | Sephiroth | 404 |
+| 7 | Reno | 376 |
+| 8 | Red XIII | 312 |
+| 9 | Rufus | 241 |
+| 10 | Zack | 113 |
+
+**Encuesta nacional de la NHK (2020, toda la saga, 468 654 votos)** ✅ ([NextN](https://www.nextn.es/2020/03/encuesta-nhk-lo-mas-querido-final-fantasy/), [LEVEL UP](https://www.levelup.com/noticias/642733/Y-Sephiroth-Segun-encuesta-el-villano-mas-popular-de-Final-Fantasy-es-de-un-MMO))
+- Entre los 10 personajes más votados de TODO Final Fantasy: Cloud 1.º, Aerith 3.ª, Tifa 9.ª y Sephiroth 10.º.
+- En música, «One-Winged Angel» es 6.º y «Aerith's Theme» 7.º. Entre invocaciones, Knights of the Round 1.º y Bahamut ZERO 8.º ⚠️ una fuente.
+
+**Fan art en Danbooru** ✅ (recuento directo)
+- Tifa 17 112 · Cloud 16 037 · Aerith 11 984 · Sephiroth 5855 · Zack 3373 · Yuffie 2894 · Vincent 1740 · Barret 946 · Red XIII 803.
+
+**Conclusión.** En votos manda Cloud. En dibujos manda Tifa. Aerith va 3.ª en las dos y es la del momento más querido de la saga (punto 21). **Jessie, secundaria, es 4.ª** en Famitsu, por delante de Barret y Sephiroth.
+
+## 8 · Doblaje latino y voces originales
+
+**No hay doblaje latino oficial de ningún Final Fantasy VII** ✅ comprobado
+- Doblaje Wiki, por su API: no hay página de «Final Fantasy VII», «Remake», «Rebirth» ni «Advent Children» (`missingtitle`), y la búsqueda de texto tampoco encuentra ficha ([búsqueda](https://doblaje.fandom.com/es/api.php?action=query&list=search&srsearch=Ever+Crisis&format=json)).
+- Doblaje Wiki dice que **Final Fantasy XVI (2023) es el primer juego de la franquicia doblado al español y el primero para Latinoamérica**. Lo dirigió Mario Heras en Keywords Studios ([ficha](https://doblaje.fandom.com/es/wiki/Final_Fantasy_XVI)).
+- Antes sólo se doblaron dos películas: «Final Fantasy: El espíritu en nosotros» y «Final Fantasy XV: La película» (misma ficha, «Datos de interés»).
+- Tampoco hay voz latina de Cloud o Sephiroth en Kingdom Hearts III ni en Ever Crisis.
+- ⚠️ ANMTV no se pudo abrir: el proxy lo bloquea («connect_rejected», 2 intentos).
+- **Frases latinas textuales: no existen.** No hay clip doblado que citar. Para una lámina, la frase va traducida por nosotros y dicho así, o del fandub con crédito (punto 22).
+
+**Voces que sí existen, japonés e inglés** (cada nombre en dos fuentes: [Final Fantasy Wiki](https://finalfantasy.fandom.com/wiki/Cloud_Strife) y [Behind The Voice Actors](https://www.behindthevoiceactors.com/characters/Final-Fantasy/Cloud-Strife/)) ✅
+
+| Personaje | Japonés | Inglés |
+|---|---|---|
+| Cloud | Takahiro Sakurai | Steve Burton (juego y Advent Children); Cody Christian (Remake, Rebirth) |
+| Tifa | Ayumi Ito | Rachael Leigh Cook (juego y AC); Britt Baron (Remake, Rebirth) |
+| Aerith | Maaya Sakamoto | Mena Suvari (AC, KH); Andrea Bowen (Crisis Core, Dissidia); Briana White (Remake, Rebirth) |
+| Sephiroth | Toshiyuki Morikawa | George Newbern (Crisis Core, AC, Dissidia, Remake) |
+| Barret | Masahiro Kobayashi (Mahito Funaki en Rebirth) | Beau Billingslea (clásico); John Eric Bentley (Remake, Rebirth) |
+| Red XIII | Kappei Yamaguchi (Remake) | Liam O'Brien (AC); Max Mittelman (Remake) ⚠️ una fuente |
+| Vincent | Shōgo Suzuki | Steve Blum (clásico); Matthew Mercer (Remake, [tuit oficial](https://twitter.com/finalfantasyvii/status/1713280182822605237)) |
+
+## 9 · Música y sonido
+
+**Banda sonora original de Nobuo Uematsu (1997), 90 pistas** ✅ ([Internet Archive](https://archive.org/details/final_fantasy_vii_soundtrack), [MusicBrainz](https://musicbrainz.org/release-group/7fab854c-8d2f-31f3-aa82-ad7cbf7532eb))
+- 02 «Opening ~ Bombing Mission»: el arranque, cuando Cloud salta del tren ([5:00 del opening](https://www.dailymotion.com/video/x89nb1q?t=300)).
+- 06 «Tifa's Theme»: piano suave. Para el bar.
+- 25 «Main Theme of Final Fantasy VII»: orquestal, de viaje y esperanza.
+- 38 «J-E-N-O-V-A»: combate urgente.
+- 47 «Life Stream»: etéreo, dentro de la Corriente Vital.
+- 65 «Aeris' Theme»: la Ciudad Olvidada y su muerte. **La música que hace llorar.**
+- 87 «One-Winged Angel»: el combate final con coro en latín. El tema más famoso de toda la saga.
+- 89 «Staff Roll»: créditos finales.
+- Remake (2020) y Rebirth (2024) tienen su banda sonora ([Remake](https://musicbrainz.org/release-group/860ef6e3-5c3e-465b-861f-a2899b74b59d), [Rebirth](https://musicbrainz.org/release-group/beb22d58-426c-424a-8ed6-6b4859f3c1e0)) ⚠️ no se escucharon pista a pista.
+- No hay opening ni ending cantados en el original. En Remake hay una canción en inglés, «Hollow» ⚠️ una fuente.
+
+**Sonido y silencio** ✅ (visto en dos clips)
+- Antes de un grito, **la música se corta**. Barret grita «Biggs!» en el silencio ([3:20](https://www.dailymotion.com/video/x89clz1?t=200)). Pasa igual en Nibelheim antes de «Sephiroth did this to you, didn't he?!» ([6:00](https://www.dailymotion.com/video/x2yc6on?t=360)). Silencio, grito y luego música.
+- **«¡Kweh!»** de los chocobos, en las pistas 30-32 del OST ⚠️ de memoria, no medido.
+
+## 10 · Vídeos: tráileres, escenas y tendencias
+
+**Tráiler final de Rebirth** (3djuegos, en español, 43 325 vistas) · [clip](https://www.dailymotion.com/video/x8sb9z6), 4:08 ✅ (también en [JeuxVideo.com](https://www.dailymotion.com/video/x8lmfpp))
+- 0:36 silueta encapuchada de espaldas · [&t=36](https://www.dailymotion.com/video/x8sb9z6?t=36)
+- 0:48 Aerith corre por un prado con magia rosa detrás · [&t=48](https://www.dailymotion.com/video/x8sb9z6?t=48)
+- 1:24-1:36 Tifa le acaricia el pelo a Aerith · [&t=84](https://www.dailymotion.com/video/x8sb9z6?t=84)
+- 1:48 forma roja y demoníaca con cuernos · [&t=108](https://www.dailymotion.com/video/x8sb9z6?t=108)
+- 2:00-2:12 Cloud con la espada al hombro; Tifa y Aerith de la mano en Costa del Sol · [&t=120](https://www.dailymotion.com/video/x8sb9z6?t=120)
+- 2:24 Yuffie con su shuriken al hombro · [&t=144](https://www.dailymotion.com/video/x8sb9z6?t=144)
+- 3:36 Aerith mira a cámara, ojos verdes · [&t=216](https://www.dailymotion.com/video/x8sb9z6?t=216)
+
+**Más vídeos**
+- Gameplay de Remake con Tifa y Cloud · [clip](https://www.dailymotion.com/video/x7at6qi): 0:50 Cloud le da una Materia verde a Tifa · [&t=50](https://www.dailymotion.com/video/x7at6qi?t=50); 2:50 patada giratoria de Tifa · [&t=170](https://www.dailymotion.com/video/x7at6qi?t=170).
+- Tifa y Cloud en la Corriente Vital · [clip](https://www.dailymotion.com/video/x89cm3e), 1:20 · [&t=80](https://www.dailymotion.com/video/x89cm3e?t=80).
+- Tráiler de personaje de Cloud (Game Awards 2019) · [clip](https://www.dailymotion.com/video/x7p3q62), 0:32 · [&t=32](https://www.dailymotion.com/video/x7p3q62?t=32).
+- Cloud y Jessie en Kalm, Rebirth · [clip](https://www.dailymotion.com/video/x9mj91u), 1:48 · [&t=108](https://www.dailymotion.com/video/x9mj91u?t=108).
+- Montaje de Advent Children · [clip](https://www.dailymotion.com/video/x4qnl9): Tifa a los 0:30, Sephiroth a los 3:00 · [&t=180](https://www.dailymotion.com/video/x4qnl9?t=180).
+- Tráiler de cinemáticas · [clip](https://www.dailymotion.com/video/x89cm5z) y análisis de WatchMojo · [clip](https://www.dailymotion.com/video/x6tkb5f) ⚠️ no mirados a fondo.
+
+**Tendencias en Reddit** (100 posts recientes de r/FinalFantasyVII por la API de [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=FinalFantasyVII)) ✅
+- Una escena hecha con LEGO, 1199 puntos · [hilo](https://reddit.com/r/FinalFantasyVII/comments/1wn8dkf/made_out_of_legos/)
+- Fondos originales de 1997 mejorados, 805 puntos · [hilo](https://reddit.com/r/FinalFantasyVII/comments/1wmrhcg/collection_of_enhanced_og_ff7_background/)
+- Cosplay de Tifa, 618; cosplay de Yuffie, 492; clip de Barret «fast hands», 412; póster de 1997 restaurado, 375.
+- **Patrón:** lo que más se vota es cosplay, arte y recreaciones. Más que memes o debates.
+- ⚠️ TikTok pide iniciar sesión: no se pudo mirar.
+
