@@ -703,5 +703,33 @@ Como no hay doblaje oficial, **los fans lo hacen**. Para un servidor de doblaje 
 **Láminas del servidor que se parecen**, para no repetir ideas:
 - **God of War** (`117-god-of-war-todas-las-sagas`): mitología y combate brutal.
 - **Hellblade** (`118-hellblade`): mitología nórdica y pintura sombría.
-- Los conceptos de abajo evitan la hoguera o el altar nórdico de esas dos. Usan la gracia dorada, una silla entre raíces y un grimorio de una academia de magos.
+- Las dos ya usan #reto-de-la-semana: God of War con la Caja de Pandora y Hellblade con una cara en la roca. Hellblade tiene además «La piedra que cuenta».
+- Por eso aquí no hay ni lápida ni caja tallada. Los objetos son una mesa con pergaminos, un estandarte bordado y un grimorio.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** ([Fextralife, Lore](https://eldenring.wiki.fextralife.com/Lore) y [Fandom, The Shattering](https://eldenring.fandom.com/wiki/The_Shattering): dos wikis que coinciden ✅)
+1. La Tierra Intermedia la gobierna el Orden Dorado bajo el Árbol Áureo, que es la fuente de la gracia que guía a los elegidos.
+2. El Anillo de Elden se rompió en **Grandes Runas**. Cada semidiós, hijo de Marika, se quedó una, y eso trajo la guerra de **la Fragmentación**.
+3. En este mundo no se muere de verdad. Sólo la Runa de la Muerte, robada en la Noche de las Dagas Negras, mata del todo: así murió Godwyn.
+4. El jugador es un **Sinluz**: un exiliado al que la gracia dejó y al que ahora se llama de vuelta para reclamar el trono de Señor de Elden.
+5. Detrás del Orden acechan **Dioses Externos** que lo corrompen: la Podredumbre Escarlata y la Llama Frenética.
+
+**La historia por arcos** (y [ScreenRant](https://screenrant.com/elden-ring-timeline-lore-history-shattering-before-game/) ✅)
+- **Antes del juego.** La edad de oro de Marika. Luego la Noche de las Dagas Negras, en la que los asesinos ligados a Ranni matan a Godwyn. Marika rompe el Anillo, la encierran en el Árbol y estalla la Fragmentación.
+- **Prólogo.** El Sinluz despierta y entra en la Tierra Intermedia con Melina como guía.
+- **Acto 1.** Limgrave, Liurnia, Caelid y Altus. Grandes Runas de Godrick, Rennala, Radahn, Rykard y Malenia.
+- **Acto 2.** Leyndell, las Cumbres de los Gigantes y la Forja. Melina arde (nº 64-67).
+- **Final.** Hay varios según con quién te aliaste: Señor de Elden (dos tronos, [2:08](https://www.dailymotion.com/video/x88ktlq?t=128)), la Era de las Estrellas con Ranni (4:30 del compilado) o la Llama Frenética (10:30).
+- **DLC *Shadow of the Erdtree*** (jun-2024). La Tierra de las Sombras y Miquella, que intenta hacer su propio Árbol.
+
+**Símbolos y objetos que un fan reconoce** ([Fextralife, Great Runes](https://eldenring.wiki.fextralife.com/Great_Runes))
+- **Árbol Áureo:** luz dorada, visible desde casi todo el mapa.
+- **Gracia:** los rayos dorados que guían al jugador.
+- **Grandes Runas:** un sello dorado diferente para cada semidiós (nº 128).
+- **Podredumbre Escarlata:** motas rojas y rosas y tierra muerta (Caelid, Malenia).
+- **Llama Frenética:** ojos que arden en amarillo (nº 53 y 63).
+- **Otros objetos:** el casco alado, la prótesis dorada, el sombrero de Ranni y el Sitio de Gracia.
+- **Vocabulario:** Sinluz (*Tarnished*), gracia, Sitio de Gracia, Árbol Áureo, Gran Runa, Señor de Elden, la Fragmentación, *maidenless*, Orden Dorado, los Dos Dedos, *Omen*.
+  ⚠️ Las partes traen «Gran Rúnica» y «Gran Runa», y tres versiones de *Tarnished*. Mira el término exacto en los subtítulos latinos.
 
