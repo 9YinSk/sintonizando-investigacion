@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Jordy3D/Jordy3D.github.io/master/projects/sometimelater/Some%20Time%20Later.otf",
+    "fuente": "GitHub (Jordy3D), archivo real de la letra",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El archivo .otf de Some Time Later, comprobado por mí con fontTools: 1177 glifos, trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡, licencia SIL OFL 1.1 (Fredrick R. Brennan, 2016-2020) leída del propio archivo.",
+    "para_que": "Letra del narrador para tarjetas de tiempo tipo «Los gratis caducan». Confirmación directa, no de segunda mano.",
+    "licencia": "SIL Open Font License 1.1 (confirmado leyendo el archivo)."
+  },
+  {
+    "url": "https://web.archive.org/web/20260911094445/https://tcrf.net/SpongeBob_SquarePants:_Battle_for_Bikini_Bottom_Rehydrated",
+    "fuente": "The Cutting Room Floor (vía Wayback Machine, tcrf.net da 403 en directo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de contenido descartado de Battle for Bikini Bottom Rehydrated: confirma motor Unreal Engine (Slate, .locres), nombre interno «Pineapple», texto de interfaz con iconos de botón incrustados.",
+    "para_que": "Punto 11 (interfaz de videojuegos) y punto 6 (cómo se rotula un aviso corto con icono + texto).",
+    "licencia": "Wiki de TCRF, texto bajo CC BY-NC-SA (según los términos generales del sitio); sólo consulta."
+  },
+  {
+    "url": "https://web.archive.org/web/20260815110156/https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SpongebobSquarepants",
+    "fuente": "TV Tropes (vía Wayback Machine, tvtropes.org da 403 en directo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página principal de la serie en TV Tropes: resumen, reparto, historia de showrunners, cita textual de la lógica «un fuego puede arder bajo el agua si nadie lo señala».",
+    "para_que": "Punto 25 (reglas del mundo) y punto 24 (tono de la serie).",
+    "licencia": "Wiki de fans, CC BY-SA (según los términos generales del sitio); sólo consulta."
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322380/ss_16cca5125aefac562fd007b0e0eddd8c5c990c92.1920x1080.jpg",
+    "fuente": "Steam (ficha de Bob Esponja: El juego de Patricio Estrella, app 2322380)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: la casa piña y la roca de Patricio en 3D con contorno negro grueso, nubes-flor de línea suelta y ventanas redondas tipo portillo. Vista por mí.",
+    "para_que": "Punto 18: referencia directa de cómo el estilo 2D (contorno, motivo flor, look náutico) se traduce a un render 3D en tiempo real.",
+    "licencia": "© Nickelodeon / PHL Collective / THQ Nordic, captura de tienda. Sólo referencia visual, no usar la imagen."
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322380/ss_be7caae2be0e2a3469ed17f3cea8fea46b4fe2f1.1920x1080.jpg",
+    "fuente": "Steam (ficha de Bob Esponja: El juego de Patricio Estrella, app 2322380)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Glove World! (parque de diversiones): colores muy saturados y contorno negro en cada objeto. Vista por mí.",
+    "para_que": "Punto 18: paleta de referencia para un estilo cel-shaded muy saturado.",
+    "licencia": "© Nickelodeon / PHL Collective / THQ Nordic, captura de tienda. Sólo referencia visual, no usar la imagen."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/spongebob-rig-5009dc11dd1f45d3ac8dda79b06e09db",
+    "fuente": "Sketchfab, confirmado por su API (api.sketchfab.com/v3/search)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Rig 3D descargable de Bob Esponja para Blender 2.93.1+ (dedos y cara sin riggear, según el propio autor).",
+    "para_que": "Punto 18: modelo/rig libre de partida para la técnica en Blender.",
+    "licencia": "CC Attribution (campo license.label de la API, no de la búsqueda). Autor: FreeModeler12345."
+  },
+  {
+    "url": "https://www.amylewisart.com/spongebob",
+    "fuente": "Portafolio de Amy Lewis, fondista de la serie",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página con fondos reales pintados por la artista y la descripción de la técnica: gouache sobre papel, línea y retoque digital encima, dirección de arte de Peter Bennett y Shane Richardson.",
+    "para_que": "Punto 18: cómo replicar el fondo en Photoshop (pintura + línea digital encima).",
+    "licencia": "Portafolio personal de la artista; imágenes con derechos de la propia artista/Nickelodeon. Sólo referencia."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants",
+    "fuente": "Wikipedia (en), leída en wikitexto crudo (action=raw) para ver las notas al pie completas",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de la serie con notas al pie a fuentes primarias: animación por etapas, showrunners, películas, teoría nuclear del atolón Bikini, crítica académica.",
+    "para_que": "Puntos 18 y 25: base de casi todos los datos de técnica e historia de esta parte, con enlace a la fuente primaria de cada dato.",
+    "licencia": "Wikipedia, CC BY-SA. Sólo consulta y cita."
+  },
+  {
+    "url": "https://spongebob.fandom.com/wiki/Bikini_Bottom",
+    "fuente": "Encyclopedia SpongeBobia, leída por su API (api.php, spongebob.fandom.com da 403 en directo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Bikini Bottom (Fondo de Bikini): ubicación real bajo el atolón Bikini, lista de barrios y sitios (Jellyfish Fields, Goo Lagoon, Rock Bottom, Glove World!, etc.), nombre en español confirmado por los enlaces interwiki.",
+    "para_que": "Punto 25: geografía y vocabulario propio del mundo.",
+    "licencia": "Wiki de Fandom, CC BY-SA. Sólo consulta."
+  },
+  {
+    "url": "https://spongebob.fandom.com/wiki/Goofy_Goober",
+    "fuente": "Encyclopedia SpongeBobia, leída por su API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Goofy Goober, la mascota-cacahuate de la heladería del mismo nombre, con su descripción física completa.",
+    "para_que": "Punto 25: un símbolo secundario reconocible de la franquicia (la película de 2004).",
+    "licencia": "Wiki de Fandom, CC BY-SA. Sólo consulta."
+  },
+  {
+    "url": "https://spongebob.fandom.com/wiki/Golden_spatula",
+    "fuente": "Encyclopedia SpongeBobia / Logopedia",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la Espátula Dorada y los «Shiny Objects»: el coleccionable y la moneda de los videojuegos de plataformas de la franquicia.",
+    "para_que": "Punto 25 (símbolo propio) y punto 11 (mecánica de juego). Ideal como icono de «premio/gratis» en la lámina.",
+    "licencia": "Wiki de Fandom, CC BY-SA. Sólo consulta."
+  },
+  {
+    "url": "https://www.awn.com/animationworld/vincent-waller-and-marc-ceccarelli-talk-25-years-spongebob-squarepants",
+    "fuente": "Animation World Network, entrevista de 25.º aniversario (17-jul-2024)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista a los showrunners actuales, Vincent Waller y Marc Ceccarelli, por los 25 años de la serie.",
+    "para_que": "Punto 25: quién dirige la serie hoy y desde cuándo.",
+    "licencia": "Prensa especializada. Sólo consulta y cita."
+  },
+  {
+    "url": "https://web.archive.org/web/20150831044034/http://cartoonician.com/the-oral-history-of-spongebob-squarepants/",
+    "fuente": "Hogan's Alley (Tom Heintjes), «The Oral History of SpongeBob SquarePants», vía Wayback Machine",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Historia oral con el equipo original: diseño «todo náutico», nubes-flor, tabletas de dibujo desde 2008, anécdotas de guion.",
+    "para_que": "Punto 18: la fuente primaria detrás de casi todos los datos de estilo de esta parte.",
+    "licencia": "Revista de animación, artículo de prensa. Sólo consulta y cita."
+  }
+]

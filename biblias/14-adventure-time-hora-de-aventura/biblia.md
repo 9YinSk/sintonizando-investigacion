@@ -2833,3 +2833,92 @@ entrevistas originales están en inglés.
 - Capturas de las cajas de diálogo de los videojuegos.
 - Las licencias de 9 de los 10 modelos 3D del bajo.
 - El minuto exacto dentro de los vídeos de YouTube y TikTok.
+
+### 21.6 Segunda pasada (25-26 sep 2026, red abierta)
+
+Juntado de las bitácoras de las cuatro partes (`partes/imagen.md`,
+`video.md`, `voz.md`, `texto.md`); allí está cada consulta con detalle.
+
+**Comprobación de red**
+- **Funcionaban**: API de Fandom (`adventuretime.fandom.com`: el
+  subdominio del encargo, `adventuretimewithfinnandjake`, **redirige** ahí;
+  comprobado con `meta=siteinfo`), Doblaje Wiki (sólo con `curl -A
+  "Mozilla/5.0"`; sin cabecera, 403), Hora de Aventura Wiki en español,
+  `static.wikia.nocookie.net` (con `Referer: https://www.fandom.com/`),
+  Dailymotion (API y `yt-dlp`), TikTok oEmbed, MusicBrainz, Sketchfab,
+  Wallhaven, ambientCG, Arctic Shift, dafont, Fontsource (jsDelivr),
+  Spriters Resource, imgur, Wikipedia, GitHub.
+- **No funcionaban**: YouTube (pide iniciar sesión: `yt-dlp` y WebFetch
+  dan CAPTCHA), TCRF (403), Wayback Machine (conexión cortada, un
+  intento), Ranker (401), Medium y la web de Active Theory (403),
+  industriaanimacion.com (503), Scribd (no cargó), TikTok sin JavaScript
+  (sin vistas), la API de Steam para los appid 298890 y 353200
+  (`success:false`), `raw.githubusercontent.com` para repos no vinculados.
+
+**Herramientas**
+- `investigar_serie.py`: 1 corrida, 6 páginas, **1188 imágenes, 13 hojas**.
+- `fotogramas.py`: **7 clips** (opening latino, créditos, «Fry Song», «I'm
+  Just Your Problem», «I Remember You», tráiler de «Obsidian», piloto) más
+  4 clips para caras (voz) y 4 fotogramas grandes para medir.
+- `estilo.py` y Pillow: 11 imágenes de arte oficial y 5 fotogramas.
+- `voz.py` (Whisper): **6 muestras** `.ogg` de Doblaje Wiki.
+- fontTools: la fuente de fans de dafont y 6 letras de Fontsource.
+
+**APIs (sin gastar búsquedas)**
+- Fandom: `siteinfo`; `list=search` (Lego Dimensions, MultiVersus,
+  crossover, Mushroom War, BMO screen, corona); `parse` de «References in
+  other media», «LEGO Dimensions», Marceline, Finn, Jake, Princess
+  Bubblegum, BMO, Ice King, Mushroom War, Land of Ooo, Ice King's crown,
+  Grass Sword, Nightosphere, Steve Wands; `imageinfo` para tamaños.
+- Doblaje Wiki: `parse` de «Hora de aventura» (87 135 caracteres).
+- Sketchfab: 6 búsquedas (Ax Bass, Finn, Jake, BMO, Marceline house,
+  treehouse, Marceline guitar). Wallhaven: 2 búsquedas y 6 fichas.
+  ambientCG: 7 (paper, fabric, denim, knit, vinyl record, cardboard,
+  wood, leather). Dailymotion: 12 búsquedas por canción y escena (tabla
+  en `partes/video.md`), más 2 de fandub. TikTok oEmbed: 4 vídeos.
+  MusicBrainz: *release group* del disco en español. Arctic Shift:
+  `subreddit=adventuretime&title=cried` (**r/adventuretime sí existe**;
+  el recolector no lo encontró).
+
+**Búsquedas web** (unas 40 entre las cuatro partes; inglés y español; no
+se buscó en japonés ni coreano: la serie es estadounidense y sus
+entrevistas están en inglés)
+- Imagen (6, en): colaboraciones de moda, MultiVersus, Funko, cosplay del
+  bajo, key art de «Obsidian», texturas de *halftone*.
+- Voz (16, es y en): Óscar Flores director; Héctor Emmanuel Gómez BMO;
+  encuestas de popularidad (3); fandub y covers en español (4); «Oh por
+  Glob»; recepción del final; Arturo Castañeda; *Encyclopædia*; *The
+  Guardian*; *Vulture*; premios.
+- Texto (18, en): Toon Boom/Photoshop; influencias de Ward; Nick
+  Jennings; caja de diálogo de «Hey Ice King!»; series parecidas; Steve
+  Wands; rigs de Sketchfab; estilo de línea; símbolos en TV Tropes;
+  contorno en Blender; Card Wars (2); arcos por temporada; alumnos de
+  Flapjack; Rynda y Photoshop; BMO y Nintendo; grano; fuente de dafont.
+- Vídeo: sólo APIs (Dailymotion, TikTok, MusicBrainz).
+
+**Fuentes nuevas por tipo**
+- **Oficiales**: canal de Cartoon Network en Dailymotion, tráiler de HBO
+  Max, TikTok de Rebecca Sugar, notas de Brawlhalla, *model sheets* con
+  sello de Cartoon Network Studios.
+- **Wikis**: Adventure Time Wiki y Doblaje Wiki por su API; Hora-de wiki;
+  TV Tropes; Wikipedia (serie, personajes, temporadas, juegos).
+- **Foros**: Reddit por Arctic Shift, The RPF.
+- **Arte y 3D**: Sketchfab (API), Wallhaven, Spriters Resource, ambientCG,
+  Openverse, Spoon Graphics, PhotoshopSupply, Brusheezy.
+- **Vídeo**: Dailymotion (Cartoon Network, Espinof, HobbyConsolas, Capra
+  TV), TikTok.
+- **Código**: GitHub (`shishkabob27/CardWars`), Instructables.
+- **Doblaje**: Doblaje Wiki (API y audios), La República, Milenio,
+  TVLaint, Comic Fest Juárez.
+- **Prensa y crítica**: ScreenRant, Sportskeeda, GameRant, Polygon,
+  SlashFilm, The Mary Sue, Giant Bomb, Nintendo Life, League of Comic
+  Geeks, Fortnite.gg, TCGplayer, BoxLunch.
+- **Sin usar**: TCRF (403) y Wayback Machine (cortada). Fuentes en
+  japonés, coreano o chino: sólo la de la primera pasada (ciatr).
+
+**Lo que NO encontré en la segunda pasada**: encuesta oficial con
+números; clips reales de la cueva, del Anfiteatro Fantasma, «Henchman» y
+«Marceline's Closet»; cajas de diálogo de «Nameless Kingdom» y «Pirates
+of the Enchiridion»; vistas de fandubs; turquesa de BMO medido; colaboración
+de moda; fondos de pantalla oficiales; altura de los personajes; la
+entrevista original de Rynda; entrevista sobre encuadres.
