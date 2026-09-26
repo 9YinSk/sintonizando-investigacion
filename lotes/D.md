@@ -13,11 +13,21 @@ Cuenta: cuenta I34
 - 41 Dandadan: **COMPLETA** (07:20). ✅23 ⚠️11 ❌0, 178 refs, 50 webs.
 - 42 Blue Lock: **COMPLETA** (23:04). ✅23 ⚠️11 ❌0, 164 refs, 68 webs.
 - 45 Mob Psycho 100: **COMPLETA** (00:05). ✅32 ⚠️5 ❌0, 108 refs, 49 webs.
-- 43 Kaguya-sama: imagen en marcha. 44-47: recolectados por adelantado.
+- 43 Kaguya-sama: **COMPLETA** (2026-09-26 01:40 UTC). ✅25 ⚠️12 ❌0, 111 refs, 55 webs.
+- 44 Shigatsu: 4 partes hechas; vídeo relanzado (floja: 3 webs); luego redactor.
 - 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados; se relanzó todo al reanudar).
 
 ## Avisos para el dueño
 
+- **43 Kaguya-sama**: más querida, Kaguya en AniList (20 513; luego Chika y Miko Iino); en Japón (ねとらぼ) gana Ai Hayasaka;
+  Shirogane último en las dos. Cuadro: la cartela vertical «本日の勝敗» (#FCFCFC, borde negro grueso, Shippori Mincho).
+  Láminas: A ⭐ #🎯・reto-de-la-semana naipe en la mesa del consejo con Kaguya; B #🎧・demos el fanbook abierto con Chika;
+  C #🎬・castings el tablón con Miko («¿Sería usted mi vicepresidenta?», frase real del doblaje).
+  - Oír el ending T2 «Kaze ni Fukarete»: las webs dicen Haruka Fukuhara; el tráiler parece decir «藤原さくら».
+  - Ver T1 ep. 12 (fuegos artificiales) y T3 ep. 12-13 (doble confesión): minuto y música (sólo hay en línea los ep. 1-3).
+  - El tablón del concepto C es propuesta: no sale en ningún fotograma visto.
+  - Antes de posar en Blender, abrir los modelos 3D CC BY de Kaguya, Chika y Miko (¿esqueleto?); crédito al autor (punto 3).
+  - Hojas con imágenes en bañador (hoja 1 #4, #15, #44-45; hoja 2 #74): no sirven para el servidor (marcadas en la biblia).
 - **37 Fullmetal Alchemist: Brotherhood** propone 3 láminas: A #general-doblaje (Edward y el círculo de tiza), B 🎚️ Mesa de Trabajo (banco de Winry), C #staff (ajedrez de Roy) o #destacados (reloj de plata) si los privados no llevan lámina.
   - ⚠️ **Choque**: el encargo 29 ya propone Monsters, Inc. para #general-doblaje y Mesa de Trabajo (por vecindad), y Super Mario Galaxy para #destacados. Hay que decidir cuál se queda con cada canal.
   - Por comprobar de oído: en la muestra de Doblaje Wiki, si José Manuel Vieira dice «la» o «el» alquimista de acero.
@@ -53,3 +63,4 @@ Cuenta: cuenta I34
 |---|---|---|---|---|
 | 42 | equipo completo | Sonnet + Opus | — | — |
 | 45 | equipo completo | Sonnet + Opus | — | — |
+| 43 | redactor | Opus | — | — |

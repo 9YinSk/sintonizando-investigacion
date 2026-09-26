@@ -339,3 +339,72 @@ oficial y libre (licencia de `ghibli.jp` comprobada), pero van con ⚠️ en la
 lectura del gesto en sí (una sola fuente: mi propia lectura de la imagen,
 sin segunda fuente escrita que describa la postura con esas palabras). Las
 2 poses con minuto de tráiler son ✅ dobles (imagen + vídeo).
+
+## Lo mejor para la lámina
+
+- El fondo pintado con gouache sobre papel mojado (Kazuo Oga, dos fuentes
+  citadas en el punto 4) es la explicación técnica más citable de «cómo se
+  logra el estilo»: sirve de texto corto para cualquier canal sobre arte o
+  fondos.
+- Totoro en la parada del autobús bajo la lluvia (`totoro034.jpg`, 1920×1038,
+  libre) es la pose más reconocible y icónica del estudio entero: fácil de
+  recrear en Blender con el paraguas y el Gatobús asomando al fondo.
+- Patrón de luz reutilizable en toda la paleta medida: «dentro cálido con
+  línea» (panadería, sartén) frente a «fuera con mucha luz y casi sin línea»
+  (bosque de Mononoke, tormenta de Ponyo) — mismo patrón que ya midió el
+  investigador de la serie hermana (98, El viaje de Chihiro).
+- El desayuno de tocino y huevos de Howl (`howl016.jpg`) y el ramen de Ponyo
+  (`ponyo034.jpg`) son las dos escenas de comida más citadas del estudio:
+  sirven si el canal habla de comida o de un elemento sensorial del server.
+- Aviso de actualidad para `DECISIONES.md`: el fenómeno «GhibliAI» de 2025 y
+  el rechazo público de Miyazaki («un insulto a la vida misma») son
+  relevantes si alguna lámina toca IA generativa — no me corresponde
+  decidir si se usa o se evita, sólo lo dejo anotado.
+
+## No encontré
+
+- Un vídeo concreto de TikTok con vistas contables sobre «comida Ghibli» o
+  «Ghibli aesthetic»/cottagecore: no pude abrir TikTok desde este contenedor
+  (búsqueda web ES «tendencia comida Ghibli tiktok» y EN «Ghibli aesthetic
+  TikTok trend cottagecore»); sólo aparece mencionado de forma indirecta en
+  artículos sobre el trend de IA de 2025.
+- Clip con audio propio del desayuno de Howl o del rugido del Gatobús: sólo
+  tengo el still oficial y descripciones de fandom, no aislé el audio en
+  esta tanda (herramienta `voz.py` no aplicada aquí por falta de un clip
+  oficial con esa escena entera).
+- Tráiler oficial en vídeo de «Se levanta el viento» (Kaze Tachinu): busqué
+  en Dailymotion («The Wind Rises trailer», «Se levanta el viento tráiler»)
+  y no apareció un tráiler oficial claro; para esa película sólo hay stills
+  de `ghibli.jp`, sin minuto de vídeo confirmado.
+- `datos-video.md` (generado por `recolectar.py`) no sirvió: buscó «El
+  estilo Ghibli en general» como si fuera el título literal de una obra
+  (MusicBrainz devolvió discos sobre la palabra «General», Dailymotion 0
+  resultados, AnimeThemes dio error 522) — lo trabajé todo a mano desde
+  `ghibli.jp` y Dailymotion directo.
+- Opening/ending en el sentido de serie de TV: son películas, no existen
+  como tales; lo explico ya en la introducción de esta parte en vez de
+  forzar un dato que no aplica a la obra.
+
+## Bitácora
+
+- `ghibli.jp` (japonés/inglés): galería oficial y ficha de créditos
+  (música, tema, dirección de arte) de Totoro, Kiki, Mononoke, Howl, Ponyo y
+  Se levanta el viento.
+- Dailymotion, enlaces directos de tráilers oficiales (doblados y
+  subtitulados) de las 5 películas con tráiler disponible, procesados con
+  `fotogramas.py --cortes`.
+- Búsqueda web (idioma inglés): «Studio Ghibli background painting
+  technique interview Kazuo Oga», «Ghibli AI trend 2025», «Miyazaki AI art
+  insult to life itself», «why Ghibli food looks so delicious».
+- Búsqueda web (idioma español): «cómo pintan los fondos de Ghibli»,
+  «tendencia estilo Ghibli IA 2025», «tráiler Se levanta el viento español».
+- Fuentes de texto usadas para el punto 4 y 10: Anime News Network (2008),
+  Open Culture (2021), CNN (27-mar-2025), Jerusalem Post, The Bridge
+  Chronicle.
+- `ambientcg.com/api/v2/full_json` (API directa) para texturas CC0
+  equivalentes (césped, madera).
+- `herramientas/estilo.py --colores 6` sobre 6 fotogramas oficiales
+  (uno por película) para paleta y grosor/color de línea.
+- Comprobación de tamaño real de las 38 imágenes oficiales y los 5 clips de
+  Dailymotion citados en `video.json` (códigos HTTP 200, dimensiones
+  medidas con Pillow y con la API de Dailymotion) al montar esta parte.

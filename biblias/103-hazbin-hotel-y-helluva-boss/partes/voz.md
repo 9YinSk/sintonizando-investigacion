@@ -144,7 +144,7 @@ Carácter, historia, miedos, cómo se expresa y lenguaje corporal, con fuente. L
 - **Niffty**: mucama del Hotel, alegre casi hasta lo perturbador, obsesionada con la limpieza y con matar bichos; Alastor disfruta su "depravación" · Hellaverse Wiki · ⚠️. Voz medida: la más aguda de todo el reparto (358 Hz).
 - **Vox**: líder de VoxTek, antagonista principal de la 2ª temporada; encarna los monopolios mediáticos modernos y manipula con propaganda; rivaliza con Alastor desde que este rechazó su alianza · Wikipedia (Vox) · ✅. Voz medida: la más grave del reparto (130 Hz), cadencia de comercial de televisión.
 - **Valentino**: Overlord proxeneta, jefe y maltratador de Angel Dust; seductor en público, agresivo y soez en privado (ver frase real del punto 8, con groserías fuertes) · Hellaverse Wiki, Doblaje Wiki · ✅.
-- **Blitzø**: jefe de I.M.P. (asesinatos por encargo), bocazas, inseguro bajo la fachada segura, willing a sacrificarse por su empresa; relación complicada (sexo sin etiqueta) con Stolas · Hellaverse Wiki · ✅. Voz medida: habla atropellado, muy rápido (3.5 palabras/s), a la defensiva.
+- **Blitzø**: jefe de I.M.P. (asesinatos por encargo), bocazas, inseguro bajo la fachada segura, dispuesto a sacrificarse por su empresa; relación complicada (sexo sin etiqueta) con Stolas · Hellaverse Wiki · ✅. Voz medida: habla atropellado, muy rápido (3.5 palabras/s), a la defensiva.
 - **Loona**: sabuesa infernal adoptada por Blitzø, cínica, de mecha corta, siempre en el teléfono; su frialdad tapa que le aterra perder a Blitzø · Hellaverse Wiki · ✅. Voz medida: la más grave de las mujeres (132 Hz), tono plano y desganado.
 - **Stolas**: Príncipe Goético, culto y bibliófilo, regio por fuera y "giddy"/emocional por dentro; enamorado de Blitzø, sufre el desprecio de su esposa Stella · Hellaverse Wiki · ✅. Voz medida: declamación teatral, alarga las vocales.
 - **Moxxie**: francotirador de I.M.P., culto y sensible (teatro musical, ópera), inseguro por el abuso de su padre; a Millie la ama sin dudar · Hellaverse Wiki · ✅.
@@ -157,6 +157,7 @@ Sacados con `fotogramas.py` de tráileres oficiales localizados con subtítulos 
 |---|---|---|---|---|
 | Charlie | Alegría (risa amplia, ojos cerrados) | Tráiler oficial S2, Prime Video (doblado) | 2:09 | https://www.dailymotion.com/video/x9rrk90?t=129 |
 | Charlie | Tristeza/ansiedad (cejas caídas, boca apretada, sonrojo) | Tráiler oficial S1, Prime Video (subtitulado es) | 1:12 | https://www.dailymotion.com/video/x8x43rc?t=72 |
+| Charlie | Vergüenza/nervios (ojos muy abiertos, boca ondulada, sonrojo fuerte) | Tráiler oficial S1, Prime Video (subtitulado es) | 0:54 | https://www.dailymotion.com/video/x8x43rc?t=54 |
 | Alastor | Rabia/amenaza (forma sombra, dientes triangulares, estática verde) — con la frase «Es hora de recordarles a todos por qué estoy aquí» | Tráiler oficial S1, Prime Video (subtitulado es) | 1:43 | https://www.dailymotion.com/video/x8x43rc?t=103 |
 | Vaggie | Fastidio/seriedad (un ojo entrecerrado, ceja alzada) | Tráiler oficial S2, Prime Video (doblado) | 2:24 | https://www.dailymotion.com/video/x9rrk90?t=144 |
 | Vaggie | Determinación de combate (forma ángel, ojos en X, espadas de luz) | Tráiler oficial S2, Prime Video (doblado) | 0:09 | https://www.dailymotion.com/video/x9rrk90?t=9 |
@@ -249,3 +250,5 @@ Doblajes de fans, covers y parodias en español encontrados en Dailymotion (mism
 - Arctic Shift (Reddit) para r/Hazbinhotel: dio timeout, no se insistió más de dos veces (regla de AYUDANTE.md).
 - `herramientas/navegar.py` sobre thetoptens.com: falló (no hay navegador Chromium instalado en este contenedor) — se documenta como límite del entorno, no se insistió.
 - No hay `biblias/55-hazbin-hotel/partes/voz.md` ni carpeta `biblias/55-hazbin-hotel/` todavía: nada que evitar repetir de la serie hermana.
+
+Sigue: completar la tabla de «cara en cada emoción» del punto 13 — faltan Angel Dust (no aparece con claridad en los tráileres oficiales de Dailymotion localizados) y la emoción «miedo» en cualquier personaje; buscar más clips oficiales doblados (otro tráiler, un featurette, o volver a intentar YouTube cuando el bloqueo de este servidor pase) y repetir `fotogramas.py`.

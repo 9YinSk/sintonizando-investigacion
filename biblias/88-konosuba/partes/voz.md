@@ -578,3 +578,5 @@ para que quien revise no lo cuente dos veces como «fandub distinto».
   o vídeo de clips geobloqueados falle.
 - `navegar.py` sobre TV Tropes: falló por falta de navegador Chromium en el
   contenedor (ver «No encontré»).
+
+Sigue: cara de tristeza y de vergüenza con fotograma y minuto propios para los personajes principales (punto 13) — los 3 vídeos que miré (dos tráilers y el vídeo de 10º aniversario) no traen un plano claro de esas dos emociones; falta mirar un capítulo completo con `episodio.py` o `fotogramas.py --cortes` sobre un episodio via Dailymotion/Internet Archive para sacarlas.
