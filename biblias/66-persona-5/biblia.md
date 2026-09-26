@@ -109,3 +109,106 @@ Las tres hojas de contacto de `hojas/` tienen **144 imágenes numeradas**, mirad
 **Cartones de cuenta atrás** (uno por personaje, de Atlus Japón antes del lanzamiento)
 - Joker, 800×566 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/e/e0/MMCountdownRen.png)). ⚠️ Hay de Akechi, Ryuji, Ann, Makoto, Yusuke, Futaba y Haru en la misma categoría; sólo dos comprobados.
 
+## 2 · Fotogramas de escenas icónicas
+
+Sacados con `fotogramas.py` y mirados uno a uno. Son **720p**, de copias oficiales en Dailymotion. YouTube pide cuenta desde el servidor: no hay 1080p libre. ⚠️
+
+**Cinemática de título del juego** ([vídeo](https://www.dailymotion.com/video/x6cjlvb))
+- 0:04 · Cartel «Director Katsura Hashino» colgado de una pasarela de metro, grafiti rojo y negro ([ver](https://www.dailymotion.com/video/x6cjlvb?t=4)). ✅
+- 0:08 · Joker cae desde un tren elevado, silueta roja y negra sobre blanco ([ver](https://www.dailymotion.com/video/x6cjlvb?t=8)). ✅
+- 0:20 · Silueta azul eléctrica invocando su Persona ([ver](https://www.dailymotion.com/video/x6cjlvb?t=20)). ⚠️
+- 0:28 · Logo «P5 PERSONA5» sobre **rojo puro** ([ver](https://www.dailymotion.com/video/x6cjlvb?t=28)). ✅
+- 1:08 · Futaba y Makoto en sillones ante monitores rojos ([ver](https://www.dailymotion.com/video/x6cjlvb?t=68)). ⚠️
+
+**Tráiler de lanzamiento** ([vídeo](https://www.dailymotion.com/video/x89juaf))
+- 0:12 · Caroline y Justine, las gemelas carceleras, en el **Velvet Room**: foco dorado sobre una mesa, fondo azul morado ([ver](https://www.dailymotion.com/video/x89juaf?t=12)). ✅
+- 0:35 · Joker con un rasguño en la mejilla, mirando a cámara tras el interrogatorio ([ver](https://www.dailymotion.com/video/x89juaf?t=35)). ⚠️
+- 0:45 · Shinjuku de noche con neones y el reloj del juego: «9/1 Thursday Evening» ([ver](https://www.dailymotion.com/video/x89juaf?t=45)). ✅
+- 1:20 · Splash de cómic «SHADOW'S SOVEREIGN» en rojo ([ver](https://www.dailymotion.com/video/x89juaf?t=80)). ⚠️
+- 1:55 · Steelbook con todo el grupo posando ([ver](https://www.dailymotion.com/video/x89juaf?t=115)). ✅
+
+**Palacio de Kamoshida** ([vídeo](https://www.dailymotion.com/video/x8afeg6))
+- 0:08 · La puerta: arco de piedra rojo con cadenas ([ver](https://www.dailymotion.com/video/x8afeg6?t=8)). ✅
+- 0:24 · Salón central con araña de luces y estandartes rojos ([ver](https://www.dailymotion.com/video/x8afeg6?t=24)). ✅
+- 0:40 · Joker de perfil con la máscara y el aviso «Take 'em down, Joker!» de Morgana ([ver](https://www.dailymotion.com/video/x8afeg6?t=40)). ⚠️
+
+**Royal y el anime**
+- Joker en moto con máscara de zorro, huyendo por un callejón morado neón, 0:32 del tráiler de *Royal* ([ver](https://www.dailymotion.com/video/x8gjqsv?t=32)). ✅
+- Futaba con bate al hombro junto a Joker, 0:44 ([ver](https://www.dailymotion.com/video/x8gjqsv?t=44)). ⚠️
+- Ending 1 del anime, créditos de «INFINITY» con la silueta de Joker partida en rojo y negro, 1:08 ([ver](https://www.dailymotion.com/video/x6hui2b?t=68)). ✅
+- Episodio 1 del anime, «I am Thou, Thou Art I»: el interrogatorio, 2:48 y 5:45 ([ver](https://www.dailymotion.com/video/x6gzgvk?t=168)). ✅
+- Episodio 18, la playa, 0:16 a 1:40 ([ver](https://www.dailymotion.com/video/x6uu26k?t=16)). ✅
+
+## 3 · Fan art, renders y modelos 3D libres
+
+**Fan art** (sólo para mirar pose y composición; nunca se pega)
+- Joker, 4096×2304, de rue_bit ([Safebooru](https://safebooru.org/images/784/afb78a0b52108139db173deb9b773667f4149bda.jpg) · [autor en X](https://twitter.com/rue_bit/status/1931179945805390128)). ✅
+- Joker, panorámica de 10271×1902 ([Safebooru](https://safebooru.org/images/1031/4c29a946a628648974b8bc5e7b74f95f9425ce92.png)). ⚠️ Autor sólo con enlace a una carpeta.
+- Joker, 5760×3227 ([Safebooru](https://safebooru.org/images/266/95024715fdd399e9f3c22571ecc81fe63974a1e9.jpg) · [autor en Lofter](https://violin193.lofter.com/post/1cbc27fc_2b909f7fd)). ✅
+- Morgana, 4096×3584, de ScruffyTurtles ([Safebooru](https://safebooru.org/images/2785/58fa16f76b7b5029ca199d12e5989a7a12f7a3d5.jpg)). ✅
+- Morgana, 2259×2970, de sodapeche ([Safebooru](https://safebooru.org/images/3416/eb89530a3473d21cf61d408d6372a995350947e6.jpg)). ✅
+- Ryuji, 3158×4096, de ChaosODed ([Safebooru](https://safebooru.org/images/316/d3004dca44b2b9358a58b29ccca5bb69ea89fdca.jpg)). ✅
+- Ryuji: el fondo **oficial** de la TGS 2015, 1920×1080, resubido ([Safebooru](https://safebooru.org/images/1513/85905fd771b68917a2cafa889fedab9337c1a252.jpg)). ✅
+- Ann, 2081×2501, de Pixiv ([Safebooru](https://safebooru.org/images/1785/59ebc00082973743aa5c371d8b3fbed10ad300d8.png)). ✅
+- ArtStation: Joker de Nei Sukkasem ([ver](https://www.artstation.com/artwork/W2YVBG)), de Aida Tastenova ([ver](https://www.artstation.com/artwork/vJdRP6)), Joker con Arsène ([ver](https://www.artstation.com/artwork/g2JZqG)) y en píxel de Elyse Miyake ([ver](https://www.artstation.com/artwork/EaGrGK)). ⚠️
+
+**Modelos 3D en Sketchfab**, licencia y descarga comprobadas por su API:
+| Modelo | Autor | Licencia | Enlace |
+|---|---|---|---|
+| Joker de *Strikers*, con rig | 雨宮レン | CC BY 4.0 | [ver](https://sketchfab.com/3d-models/none-55a479d4c862476480105c75c6623205) |
+| Joker | asifsaj | CC BY 4.0 | [ver](https://sketchfab.com/3d-models/none-feb5abf77da84dac9d1a9ed2cf3b4c8e) |
+| Joker estudiante de *Tactica* | 雨宮レン | CC BY | [ver](https://sketchfab.com/3d-models/none-838a4b5f74274b34983aa594bab28033) |
+| **Máscara de Joker** | DarkTenshiDT | CC BY 4.0 | [ver](https://sketchfab.com/3d-models/none-81669910c0b74f41a3a58febfd514794) |
+| Máscara de Joker, otra | JosevanD2 | CC BY | [ver](https://sketchfab.com/3d-models/none-2c4a99ce4a764803b47849993cf2654b) |
+| Daga de Joker | DarkTenshiDT | CC BY | [ver](https://sketchfab.com/3d-models/none-b6577ea6a0d04423a383c3c32666f4c2) |
+| **Morgana**, con rig | JulioSillet | CC BY 4.0 | [ver](https://sketchfab.com/3d-models/none-c022583f89b0425180615f63b168729d) |
+| Morgana de PS4 | 雨宮レン | CC BY | [ver](https://sketchfab.com/3d-models/none-c39122925d17434b9702714397045ae3) |
+| Ann de *Tactica* | 雨宮レン | CC BY | [ver](https://sketchfab.com/3d-models/none-6f179a49616945749f206ceb40f89c8b) |
+| Aula de instituto japonés | Mumladze28 | CC BY | [ver](https://sketchfab.com/3d-models/none-35762c5a787e40c8b1daae410c1429de) |
+
+- ⚠️ **Ojo con la licencia.** La CC BY la pone quien sube el modelo. Los personajes son de Atlus. Sirven para pose, luz y rig de referencia; no para vender nada.
+- Crédito exacto para el pie de lámina: «Modelo: Morgana - Persona 5, por JulioSillet, CC BY 4.0».
+- No hay en Sketchfab modelos libres de **Leblanc**, **Mementos**, la maza de Ryuji ni el látigo de Ann. Buscado por API. ⚠️
+- Poly Haven no tiene nada de la serie: 521 modelos revisados por su [API](https://api.polyhaven.com/assets?t=models). Sirve sólo para texturas y HDRI genéricos. ⚠️
+- Figuras oficiales para mirar volumen: amiibo, Funko Pop y Youtooz (§23).
+
+## 4 · Fondos, sitios y texturas reales
+
+Paletas medidas con `estilo.py` sobre nuestros fotogramas de 1280×720, no de fans. El porcentaje es cuánto ocupa cada color. ✅
+
+**El rojo Persona** (logo de la cinemática, [0:28](https://www.dailymotion.com/video/x6cjlvb?t=28))
+- `#BE0002` 55 % · `#C00005` 32 % · `#FAFAF9` 8 % · `#180C0C` 2 % · `#641219` 2 % · `#998A8A` 1 %.
+- Saturación 90 %, brillo 75 %, color plano. Es **el** rojo de la marca: con negro y blanco, y casi nada más.
+
+**Shinjuku, barrio rojo, de noche** ([0:45](https://www.dailymotion.com/video/x89juaf?t=45))
+- `#494150` 36 % · `#372C35` 30 % · `#815662` 12 % · `#B6918E` 9 % · `#1A1117` 7 % · `#EFDDE3` 7 %.
+- Luz: neones morados y rosas al fondo, poca luz sobre el personaje. Saturación 30 %, brillo 39 %.
+- Fondo pintado con degradado; los personajes, en cambio, llevan color plano. Ese contraste es de la serie.
+
+**Velvet Room, la celda azul** ([0:12](https://www.dailymotion.com/video/x89juaf?t=12))
+- `#302D42` 31 % · `#17172E` 22 % · `#544961` 14 % · `#A96573` 12 % · `#D7A2AC` 12 % · `#F7E2DE` 9 %.
+- Luz: foco cálido dorado y rosa, en vertical, sobre una mesa. Alrededor, azul morado casi negro. Mucho contraste.
+- Inspirado en *La máscara de la Muerte Roja* de Poe, según la [wiki](https://megamitensei.fandom.com/wiki/Beneath_the_Mask). ⚠️
+
+**Palacio de Kamoshida, un castillo** ([0:08](https://www.dailymotion.com/video/x8afeg6?t=8) y [0:24](https://www.dailymotion.com/video/x8afeg6?t=24))
+- Puerta: `#24031B` 39 % · `#56092C` 20 % · `#9D0E2C` 13 % · `#C44B4E` 11 % · `#D18993` 10 % · `#7F3758` 7 %. Saturación 81 %.
+- Salón: `#140F06` 37 % · `#380F07` 26 % · `#3D3C2B` 18 % · `#881116` 10 % · `#957E6F` 5 % · `#ECE8DF` 4 %. Brillo 26 %.
+- Luz de velas y antorchas, rojo intenso, sombras muy negras.
+
+**Leblanc, el café de Yongen-Jaya donde vive Joker**
+- Concept art en maqueta abierta, 8192×5549 (nº3); escenas dentro del café: *Precious Days* (nº54), *Finale* (nº59, 3840×2160), Akechi y Joker jugando al ajedrez (nº67), Joker con Morgana en la barra (nº122). ✅
+- La buhardilla donde duerme Joker, con Morgana hablando (nº99, 1920×2160). ✅
+- ⚠️ Sin paleta medida: no tenemos fotograma limpio del café. Medir sobre nº59 antes de usarlo.
+
+**Otros sitios con imagen**
+- Tokio estilizado de noche, siluetas moradas y azules, 4096×2304 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/3/3c/P5-StylizedTokyoSkylineNight.png)). ✅ De día, más pequeño ([imagen](https://static.wikia.nocookie.net/megamitensei/images/4/45/P5-StylizedTokyoSkylineDay.jpg)). ⚠️
+- Velvet Room, la sala del acuario ([imagen](https://static.wikia.nocookie.net/megamitensei/images/9/96/VelvetAquarium.png)). ⚠️
+- La autocaravana de Morgana a tamaño real en un evento (nº35) y Morgana en máquina expendedora (nº129). ✅
+
+**Texturas reales equivalentes** (ambientCG, CC0, licencia comprobada por su API)
+- Cuero para el abrigo de Joker y la chaqueta de Ryuji: [Leather037](https://ambientcg.com/view?id=Leather037) y [Leather038](https://ambientcg.com/view?id=Leather038).
+- Ladrillo para las calles de Yongen-Jaya: [Bricks097](https://ambientcg.com/view?id=Bricks097).
+- Paño del uniforme: [Fabric061](https://ambientcg.com/view?id=Fabric061).
+- Alfombra roja del Velvet Room o del Palacio: [Carpet016](https://ambientcg.com/view?id=Carpet016).
+- Papel de la calling card: [Paper006](https://ambientcg.com/view?id=Paper006).
+

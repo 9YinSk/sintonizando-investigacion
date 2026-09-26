@@ -826,3 +826,310 @@ de la 43 están en su punto 16. Lo nuevo:
   ([Wallhaven](https://wallhaven.cc/w/g7dwle)) ✅; el banner oficial de
   AniList ([banner](https://s4.anilist.co/file/anilistcdn/media/anime/banner/101921-GgvvFhlNhzlF.jpg)) ✅.
 
+## Punto 17 · Guía para generar con IA (registro cómico)
+
+Escrita por el redactor con todo lo anterior. La guía general (estilo de
+A-1 Pictures, rasgos fijos con hex, luz de la sala, 5 descripciones, voces)
+está en la biblia 43, punto 17. Esta es la **capa de comedia y rótulos**
+encima.
+
+### 17.1 · El estilo cómico en una frase
+
+*El mismo anime escolar limpio de 2019 (línea fina, una sombra, caras sin
+sombra), interrumpido de golpe por **rótulos de epopeya** (oro 3D, rayos,
+títulos de combate), **fichas de nota** verticales en blanco y negro y
+**fondos de emoción** (damero, espiral, rayas, grano), mientras el
+personaje sigue dibujado «en modelo».*
+
+### 17.2 · Rasgos que nunca cambian (resumen de la 43)
+
+- **Kaguya**: pelo negro largo `#262127` con media coleta y **cinta roja**,
+  ojos rojos `#AD0218`, vestido negro `#342E32`, lazo `#B43833`.
+- **Shirogane**: rubio ceniza `#DBB180`, **ojeras**, gakuran `#231A21` con
+  **cadena dorada**.
+- **Chika**: pelo rosa pálido `#EBD0D5` con **lazo negro**, ojos azules
+  `#0D6E9F`.
+- **Ishigami**: pelo negro azulado `#1B1F2E`, **flequillo sobre el ojo
+  izquierdo**, **cascos** al cuello.
+- **Tsubasa**: pelo negro corto, gakuran, cara amable (ep. 2).
+- **Nagisa**: pelo castaño corto, **pinza roja** a un lado, ojos rojizos
+  (ep. 2, 16:32; hoja 1 #37).
+
+### 17.3 · Los rótulos: genera el fondo, pon el texto a mano
+
+Las IA de imagen **escriben mal**, y peor en japonés. Pide el rótulo
+**vacío** y escribe el texto en Photoshop con la letra del punto 5.
+- **Cartela-epopeya**: *blank space for 3D gold metallic title text, black
+  background, white lightning bolts and white starburst sparks, dramatic
+  anime title card, high contrast*. Oro `#E2C47F`, brillo `#F1E4B6`.
+- **Título de combate**: *anime versus title card background, red electric
+  lightning on black, explosive energy, split composition left blue right
+  green*.
+- **Ficha de nota**: no la generes: es un **rectángulo blanco con marco
+  negro grueso y filete fino**, vertical, al borde. Se hace en dos minutos.
+- **Fondo de nervios**: *warped black and white checkerboard background,
+  psychedelic, extreme close-up of a sweating anime eye*.
+- **Plano de flechazo**: *soft pastel yellow and pink gradient background,
+  golden sparkles, halftone dot texture on the skin, blushing anime girl
+  close-up*.
+
+### 17.4 · Descripciones listas (en inglés)
+
+- **Kaguya espiando**: *anime screenshot, 2019 A-1 Pictures style, teenage
+  girl with very long straight black hair and a red ribbon, crimson red
+  eyes, peeking from behind the edge of a dark wooden door, only half of
+  her face visible, one small sweat drop, hand on her chin, flat cel
+  shading, no shadows on the face, thin lineart*.
+- **Shirogane fanfarrón**: *… blond messy-haired boy with dark eye bags,
+  black gakuran with a gold chain, fingers interlaced, smug half-smile,
+  single sweat drop, green sofa, warm afternoon light …*
+- **Chika con el móvil**: *… girl with long pale pink hair and a big black
+  bow, holding a pink smartphone with both hands, floating pink hearts,
+  student council room with red carpet …*
+- **Tsubasa temblando**: *… short black-haired boy, black gakuran,
+  trembling, blue vertical gloom lines on his forehead, wide eyes, open
+  mouth, wavy shiver lines around his head …*
+- **Ishigami de meme**: *… boy with blue-black hair covering his left eye,
+  black headphones around his neck, dead-fish half-closed eyes, flat bored
+  expression …* (cara del Nendoroid, punto 23).
+
+**Palabras que ayudan**: *anime title card, gold 3D lettering, lightning,
+starburst, checkerboard background, gloom lines, sweat drop, sparkles,
+halftone dots, cel shading, 2019, A-1 Pictures, comedic reaction*.
+**Palabras que lo estropean**: *speech bubble, comic balloon, meme text,
+impact font, sticker pack* (dan el globo blanco genérico), *realistic, 3D
+render* (salvo en el oro del rótulo), *chibi* en los personajes (la serie
+deforma cabeza y boca, no el cuerpo), *swimsuit, fanservice*.
+
+**Referencias de estilo**: `rotulos_02.jpg` #2, #4, #5, #9 y #16. **De
+pose**: la tabla del punto 14 y `poses_03.jpg`. **De cara cómica**: hoja 1
+#44 (Moron), #20 y #38 (ojos en blanco).
+
+### 17.5 · Vocabulario de expresiones cómicas
+
+| Qué | Cómo se dibuja (dónde se vio) |
+|---|---|
+| Espiar | medio rostro tras el marco de una puerta, un ojo rojo (17:04) |
+| Vergüenza | ojos en **espiral roja**, rubor, **rayas verticales** detrás (7:24) |
+| Agobio | **rayas azules en la frente**, líneas de temblor, «ワナワナ» (20:00) |
+| Darse cuenta | destello blanco y «ハッ» rojo (17:20) |
+| Pánico | ojo sudado en primer plano sobre **damero** (15:52) |
+| Sospecha | **grano oscuro** de fondo (15:48) |
+| Rabia | dientes apretados ante una **espiral** blanca y negra (14:16) |
+| Heroísmo falso | puño al pecho, **fondo verde con estelas** (19:56) |
+| Flechazo | fondo pastel, destellos dorados, **trama de puntos** (16:32) |
+| Terror | todo teñido de **azul**, mano en la boca (13:04) |
+| Quedarse en blanco | **ojos en blanco** vacíos (hoja 1 #20, #38, #44) |
+| Simplificar | forma «yukkuri»: cabeza redonda sin cuello (ep. 36) |
+| Exagerar | *off-model*: cabeza y boca más grandes, cuerpo igual (punto 18) |
+
+### 17.6 · Para una IA de texto: la voz de la comedia
+
+**Reglas**
+- **Lo trivial se cuenta como epopeya**: «batalla», «derrota», «campeón»
+  para cambiarse el número del móvil.
+- **Las notas son secas**: «Nota: no sabe nadar.» Nada de adjetivos.
+- **El remate es un marcador**: «Resultado de hoy: Shirogane pierde él
+  solo.» Con el porqué delante, largo y burocrático.
+- **Onomatopeyas**: se dejan en japonés como dibujo y, si hace falta, una
+  traducción pequeña («¡Ah!» para «ハッ», «tiembla» para «ワナワナ»)
+  ⚠️ propuesta del redactor.
+- En latino caben **guiños locales** con medida (punto 8.1).
+
+**Frases reales por emoción** (doblaje latino oído con `voz.py`, de esta
+biblia y de la 43)
+- **Alegre**: Tsubasa, *«¡Quiero declarármela para que ella sea mi
+  novia!»*; Chika, *«¡Ay, por favor! ¿Saben? Hace poco gané un par de
+  boletos para ir al cine…»* (43).
+- **Enfadada / altiva**: Kaguya, *«Estúpidos y vulgares plebeyos…»* (43).
+- **Explicando**: el padre de Shirogane, *«Es el presidente del Consejo
+  Estudiantil, se está esforzando demasiado.»*; Kei, *«Hola, soy la tesorera
+  del Consejo Estudiantil de Secundaria.»*
+- **Animando / retando**: Adolphe, *«Tu verdadero test comienza justo
+  ahora.»*; Kaguya, *«Es sólo cuestión de tiempo.»* (43).
+- **Triste / agobiada**: Nagisa, *«No tengo idea de qué hacer al respecto…
+  Sólo quiero saber cómo puedo romper sin problemas con mi novio.»*;
+  Kobachi, *«La verdad, yo no quiero estar en el consejo.»*
+- **Guiño local**: Shirogane, *«¡Booyah!»* (ep. 8); Hayasaka, *«Usted es la
+  vergüenza de Sor Juana»* (ep. 36) ⚠️ (Doblaje Wiki).
+
+**Puntuación**: dos puntos y punto final en las notas; exclamaciones
+dobles en Chika y Tsubasa; puntos suspensivos en el cálculo de Kaguya.
+
+## Punto 18 · El estilo del gag y cómo replicarlo
+
+El *kagenashi* (caras sin sombra), la rotoscopia del Chika Dance, el Art
+Shift dramático y la réplica del **look serio** en Photoshop y Blender están
+en la biblia 43, punto 18. Aquí, **de dónde sale la comedia visual y cómo se
+copia**.
+
+**Quién y por qué** (parte de texto):
+- El director **Shinichi Omata** (firma como **Mamoru Hatakeyama**) se formó
+  en **Shaft** entre 2009 y 2012: *storyboards* de *Puella Magi Madoka
+  Magica* y *Arakawa Under the Bridge*, antes de Studio Deen ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Shinichi_Omata), cruzada con
+  Anime News Network). Shaft es famoso por las **cartelas de kanji
+  enormes**, el montaje teatral y los fondos abstractos: de ahí tanto texto
+  en pantalla.
+- **La serie lo cita**: en el ep. 16 (T2 ep. 4), la campaña de Chika recrea
+  el primer episodio de ***Bakemonogatari***, hasta en el guion ilustrado
+  oficial ✅ (TV Tropes + Animehunch).
+- **Off-model a propósito**: «when a character is painted as being
+  intimidating their heads will grow in size. The size of everyone's mouths
+  will change depending on how much their movements are being exaggerated»
+  ✅ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/KaguyaSamaLoveIsWar)
+  y Tropedia).
+
+**Encuadres del gag** (ep. 2, redactor): el rótulo-epopeya a **pantalla
+completa** y centrado (3:44, 11:04); la ficha «備考» **pegada al borde
+derecho** en un plano normal (11:52) o sobre un **extremo primer plano** del
+ojo (15:52); el espía con **media cara cortada** por el marco de la puerta
+(17:04); el remate en **plano general** de la sala, con el personaje
+pequeño y el marcador grande (22:24).
+
+**Cómo replicar en Photoshop**
+- **Deformación**: duplica sólo la capa de la cabeza y usa **Filtro >
+  Licuar** (ensanchar) o **Transformación de tirón** con pines en mandíbula
+  y cráneo; el cuerpo no se toca.
+- **«Yukkuri»**: aplana la cabeza en un óvalo y borra el cuello.
+- **Ficha «備考» / «Nota:»**: rectángulo blanco `#FFFFFF`, trazo exterior
+  negro `#040409` grueso y un segundo trazo fino por dentro; texto en
+  Shippori Mincho 700.
+- **Damero**: un patrón de cuadros `#FEFDFC` y `#3A3936` deformado con
+  **Filtro > Distorsionar > Molinete** o Licuar.
+- **Trama de puntos del flechazo**: **Filtro > Pixelizar > Semitono de
+  color** sobre una copia de la piel, en modo Multiplicar al 20-30 % ⚠️
+  (receta del redactor, no del estudio).
+
+**Cómo replicar en Blender**
+- **Deformación**: *Shape Keys* en la cabeza (cráneo mayor, boca más ancha)
+  sobre el rig de la 43; un deslizador pasa de «en modelo» a «gag».
+- **La cartela-epopeya «生徒会長»**: objeto **Texto** con la fuente Zen Old
+  Mincho 900, *Extrude* y *Bevel* redondeado; material **Principled** con
+  *Metallic* 1, *Roughness* 0,25 y color `#E2C47F`; una luz de borde
+  blanca por detrás para el filo claro `#F1E4B6`; fondo negro `#121011` con
+  rayos pintados en 2D o con *Grease Pencil*. ⚠️ Receta del redactor a
+  partir del fotograma (3:44), no del *making of*.
+- **Mismo plano, dos registros**: cámara y luz iguales entre el plano serio
+  y el del gag; sólo cambia la cara (así lo hace el anime).
+
+## Punto 19 · Texturas 2D del gag
+
+Tramas generales (GraphicsBunker, Brusheezy, Gumroad) y papel de ambientCG:
+biblia 43, punto 19. Para la comedia:
+- **Líneas de velocidad y ráfagas de impacto**: pack de 20 pinceles `.abr`
+  gratis, «Free for Commercial Use (Attribution)»
+  ([MyPhotoshopBrushes](https://myphotoshopbrushes.com/brushes/id/3816/)) ✅.
+  Sirven para «ハッ», el susto y las rayas horizontales (14:32).
+- **Damero, espiral, grano y trama de puntos**: se hacen en Photoshop
+  (punto 18), no hace falta descargar nada ✅ (vistos en 15:52, 14:16,
+  15:48 y 16:32).
+- **Ojos en blanco**: óvalos blancos lisos en una capa aparte ✅.
+- **El papel de la ficha y del marcador**: blanco liso, sin grano; el grano
+  de papel `Paper001` es para objetos reales, no para las cartelas.
+- **Emblemas**: el sello rojo del spin-off (punto 5) y la cinta «おに» de
+  Chika (punto 15).
+
+## Punto 20 · Gustos y detalles de los secundarios
+
+⚠️ La parte de voz se cortó antes de este punto. La tabla de los siete
+principales (cumpleaños, altura, sangre, gustos, objeto) está en la biblia
+43, punto 20. Del recolector (fichas de AniList, formato día/mes) ⚠️ una
+fuente:
+
+| Personaje | Cumpleaños | Sangre | Detalle |
+|---|---|---|---|
+| Kaguya | 1 de enero | AB | 158 cm; no entiende bien el amor y quiere que él confiese |
+| Miyuki | 9 de septiembre | O | 175 cm; **ojeras por dormir poco y miopía**, por eso «mira mal» |
+| Chika | 3 de marzo | O | «un desastre natural» que siembra el caos sin querer |
+| Miko | 5 de mayo | O | 147 cm; idolatra a Chika |
+| Ishigami | 3 de marzo | O | lleva las cuentas de todo el colegio; le da miedo Kaguya |
+| Hayasaka | 2 de abril | AB | diez años junto a Kaguya; le importa la moda |
+| Kei | «1/8» (la 43 dice 8 de enero ⚠️) | B | **lleva cupones**, trabaja para lo que quiere |
+| Maki Shijo | 1 de enero | AB | coletas cortas; prima segunda de Kaguya |
+| Nagisa | 25 de junio | B | pide consejo de pareja a Kaguya |
+| Kobachi | 6 de junio | B | gafas; cuida de Miko desde hace más de 10 años |
+| Moeha | 26 de junio | AB | admira a Miyuki; dice ideas oscuras |
+
+**Cómo se ven**: Shirogane se cree su propio mito de «experto en el amor»
+y teme que se descubra (wiki del ep. 2) ✅; el resto, en la 43.
+
+## Punto 21 · Por qué la gente la ama: las escenas que hacen reír
+
+⚠️ La parte de voz se cortó antes de este punto. Las cifras (22 millones de
+copias, Premio Shogakukan, la T3 primera de
+[MyAnimeList](https://myanimelist.net/anime/43608), los premios de
+Crunchyroll), con quién se identifica el público y **las escenas que hacen
+llorar** están en la biblia 43, punto 21. Este encargo mira las que hacen
+**reír**:
+
+- **«備考：童貞»** (T1 ep. 2, 15:52-16:00): el «experto en amor» del
+  instituto aconseja a Tsubasa y una ficha seria revela que **es virgen**,
+  sobre un damero y su ojo sudado. Sin música fuerte, sólo el golpe del
+  rótulo. Por qué funciona: el público sabe lo que Tsubasa no ✅ (visto;
+  wiki del ep. 2).
+- **«生徒会長»** (T1 ep. 2, 3:44): oro, rayos y fanfarria para un cargo del
+  colegio ✅ (visto y oído).
+- **«海VS山!!»** (T1 ep. 2, 11:04): una pelea épica por el destino de un
+  viaje que acaba decidiendo Chika; el resultado del día es «arruinado» ✅.
+- **Shirogane se ahoga** en la fantasía (13:04) justo tras «nota: no sabe
+  nadar» (11:52) ✅.
+- **Ishigami grita «ORA ORA»** tras ganar un pulso (ep. 25) ✅ (TV Tropes).
+- **La cartela meta** «it took them 104 chapters to find out his name»
+  (manga) ✅ (TV Tropes).
+- **La escena gemela de *Bakemonogatari*** (ep. 16): la gente que no
+  conocía Monogatari empezó a verla por ella ✅ (Animehunch).
+- **Chika**, la «heroína de todos» según su autor (punto 7).
+
+**Reacciones**: la tendencia del narrador en TikTok (punto 10) y el Chika
+Dance (43). ⚠️ No hay comentarios con votos: Reddit sigue en cuarentena
+([Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Kaguya_sama),
+43) y YouTube pidió sesión.
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+⚠️ La parte de voz se cortó antes de este punto. Los fandubs latinos de
+YouTube (My Dubber Heroes y otros cuatro), los covers en español y los
+TikTok de @VickyDubs, @Elii-Elyne y @eldonchalo están en la biblia 43,
+punto 22 (p. ej. [«Kaguya Rechazo al Presidente!»](https://www.youtube.com/watch?v=nD22uFbx3rQ)).
+Lo nuevo:
+- **Reacción en español a la película**, de Darkraimola
+  ([Internet Archive](https://archive.org/details/kaguya-sama-movie-darkrai),
+  698 MB) ⚠️ sin ver ni vistas.
+- **En Dailymotion no hay fandubs**: las búsquedas «fandub español» y
+  «fandub latino» sólo devuelven tráileres de Sensacine, Espinof, Allociné
+  y JustWatch ✅ (recolector, [API de Dailymotion](https://api.dailymotion.com)).
+- **Memes hispanos del propio doblaje**: los del punto 8.1, en especial
+  «Ishigod», «¡Booyah!», «uwu / vergüenza de Sor Juana».
+- **Idea para el servidor**: la escena de Tsubasa pidiendo consejo (16 s de
+  audio real, punto 8, y los fotogramas de 15:44 a 20:12) es un **reto de
+  doblaje para dos voces** con la imagen delante.
+
+## Punto 23 · Colaboraciones con rótulos: stickers y Nendoroid
+
+Los cruces (Oshi no Ko, Mahjong Soul, Monster Strike, Saing), las figuras
+de escala y el cosplay CC BY-SA están en la biblia 43, punto 23. Lo nuevo va
+al enfoque: **la franquicia fabrica sus propios rótulos cómicos**.
+
+- **Stickers oficiales de LINE con voz**: 24 diseños, 250 yenes, 23-jun-2020,
+  de Aniplex, con frases como «お可愛いこと» y «ドーンだYO!» y **voces
+  grabadas para el pack** ✅ ([Aniplex](https://www.aniplex.co.jp/lineup/kaguya04/news/detail/?id=62824)
+  + Dengeki Hobby y collabo-cafe, en japonés). Es la referencia más directa
+  de «frase + cara + voz» para un chat.
+- Segunda tanda, «かぐやちゃん», ligada a la película ⚠️ (una fuente).
+- **Nendoroid Kaguya (#1288)**: 3 caras (sonrisa, «qué mona…» y «¡qué
+  lindo!»), el **teléfono plegable**, orejas de gato y **cartelas de texto
+  de escenas famosas** dentro de la caja ✅
+  ([Good Smile](https://www.goodsmile.com/en/product/6955/Nendoroid+Kaguya+Shinomiya)
+  + blog de Kahotan). Rótulos de cartón oficiales.
+- **Nendoroid Ishigami**: 3 caras, neutra, llorando y **«Cállate, idiota»**
+  ✅ ([Good Smile](https://www.goodsmile.com/en/product/11986/Nendoroid+Yu+Ishigami)
+  + tiendas autorizadas).
+- **Chika**: Nendoroid Doll ([Good Smile](https://www.goodsmile.com/en/product/9336/Nendoroid+Doll+Chika+Fujiwara)),
+  figma ([Good Smile](https://www.goodsmile.com/en/product/9407/figma+Chika+Fujiwara))
+  y figura 1/7 de playa de 2020 ([Crunchyroll](https://www.crunchyroll.com/news/latest/2020/7/2/take-chika-fujiwara-from-kaguya-sama-love-is-war-to-the-beach-with-her-newest-17-scale-figure))
+  ✅ (la de playa, no para el servidor).
+- **Cosplay**: no hay más fotos con licencia libre que la de la 43 ⚠️; las
+  tiendas (Miccostumes, EZCosplay, CosDaddy) sólo sirven para ver cortes.
+- ⚠️ Cafés y eventos en japonés («かぐや様 コラボ»): siguen sin buscar.
+

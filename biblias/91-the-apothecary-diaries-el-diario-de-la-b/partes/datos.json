@@ -1,1 +1,1242 @@
-[]
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Maomao",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jinshi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Narrator",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244995-dv4lX99O8aCZ.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rouran",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156767-6ncEJKdsEQ3O.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Gyokuyou",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Gaoshun",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156766-3DxfskkEqNvc.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rifa",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232926-YIzdIzMMGcac.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Lakan",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156765-HPRJaEN81jSa.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Aaduo",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274186-lzElg0bbpo1O.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Xiaolan",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274195-TyGcY0uiMpx4.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Lihaku",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Pairin",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156764-aEbQtGaJ9PzZ.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Riishu",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Meimei",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261968-dz3PwsJ9Csl9.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ruomen",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161645-oqzTZYIvviWI.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/2/27/Twitter-kusuriya_PR-Maomao-23oct2024.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 4096,
+  "alto": 3072,
+  "que_es": "Maomao: Twitter-kusuriya PR-Maomao-23oct2024.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/7/75/Traveling_through_the_Seasons_with_Maomao_and_Lihaku-Nanohana-22mar2025.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 4096,
+  "alto": 2896,
+  "que_es": "Maomao: Traveling through the Seasons with Maomao and Lihaku-Nanohana-22mar2025.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/3/3c/Traveling_through_the_Seasons_with_Maomao_and_Jinshi-Hydrangea-22jun2025.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 4096,
+  "alto": 2896,
+  "que_es": "Maomao: Traveling through the Seasons with Maomao and Jinshi-Hydrangea-22jun2025.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/d/dd/Twitter-AMNIBUS-POP_UP_SHOP_in_marui2024-jan20_to_feb18-5jan2024.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 2806,
+  "alto": 3973,
+  "que_es": "Maomao: Twitter-AMNIBUS-POP UP SHOP in marui2024-jan20 to feb18-5jan2024.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/7/7b/KusuriyaHitorigoto-Anime-TeaserArt-S3.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 2508,
+  "alto": 3549,
+  "que_es": "Maomao: KusuriyaHitorigoto-Anime-TeaserArt-S3.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/2/28/BG_2019_Volume_3.jpg",
+  "fuente": "Fandom kusuriya",
+  "ancho": 2118,
+  "alto": 3037,
+  "que_es": "Maomao: BG 2019 Volume 3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/8/8e/Traveling_through_the_Seasons_with_Maomao_and_Lihua-Daffodil-22dec2024.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 3072,
+  "alto": 2072,
+  "que_es": "Maomao: Traveling through the Seasons with Maomao and Lihua-Daffodil-22dec2024.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/0/00/Denfaminicogamer-jp-The_Apothecary_Diaries-S2_poster-resized.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 2048,
+  "alto": 2898,
+  "que_es": "Maomao: Denfaminicogamer-jp-The Apothecary Diaries-S2 poster-resized.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/a/a9/Volume_1_Light_Novel.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 1988,
+  "alto": 2883,
+  "que_es": "Maomao: Volume 1 Light Novel.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/1/15/LN_Vol14-3-4.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 2652,
+  "alto": 1920,
+  "que_es": "Maomao: LN Vol14-3-4.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/b/bc/LN_Vol14-7.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 2652,
+  "alto": 1920,
+  "que_es": "Jinshi: LN Vol14-7.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/5/58/Volume_8_Light_Novel.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 1768,
+  "alto": 2560,
+  "que_es": "Jinshi: Volume 8 Light Novel.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/d/d1/Volume_5_Light_Novel.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 1768,
+  "alto": 2560,
+  "que_es": "Jinshi: Volume 5 Light Novel.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/e/e2/Volume_3_Light_Novel.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 1768,
+  "alto": 2560,
+  "que_es": "Jinshi: Volume 3 Light Novel.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/e/ec/LN_Vol1-Insert3EN.jpg",
+  "fuente": "Fandom kusuriya",
+  "ancho": 2307,
+  "alto": 1650,
+  "que_es": "Jinshi: LN Vol1-Insert3EN.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/a/a7/LN_Vol1-Insert4EN.jpg",
+  "fuente": "Fandom kusuriya",
+  "ancho": 2281,
+  "alto": 1650,
+  "que_es": "Jinshi: LN Vol1-Insert4EN.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/f/f2/KusuriyaHitorigoto-Anime-MainVisual-S1-03.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 1600,
+  "alto": 2273,
+  "que_es": "Jinshi: KusuriyaHitorigoto-Anime-MainVisual-S1-03.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/1/17/LN_Vol7-5.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 1400,
+  "alto": 2036,
+  "que_es": "Jinshi: LN Vol7-5.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/9/94/LN_Vol7-12.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 1400,
+  "alto": 1972,
+  "que_es": "Jinshi: LN Vol7-12.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/a/a9/LN_Vol6-11.png",
+  "fuente": "Fandom kusuriya",
+  "ancho": 1400,
+  "alto": 1972,
+  "que_es": "Jinshi: LN Vol6-11.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1036/c225b52ce36ee251eaa3bee09e0a21b5c4c4aa84.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1181,
+  "alto": 1660,
+  "que_es": "Fan art de maomao_(kusuriya_no_hitorigoto) (https://twitter.com/sunakoart/status/1911901699276492806)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/50ece71f5443d4c1794692e180d50ff366256b48.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1607,
+  "alto": 1879,
+  "que_es": "Fan art de maomao_(kusuriya_no_hitorigoto) (https://twitter.com/kurokimoko/status/1783935804961677691)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4126/41eeda236e39238d92de889a64081e06cfdda23d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1639,
+  "alto": 2048,
+  "que_es": "Fan art de maomao_(kusuriya_no_hitorigoto) (https://twitter.com/tikklil/status/1978060179401760899)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4594/8d5b0e9757eb8d3df540b22f927752e158dd7318.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2508,
+  "alto": 3541,
+  "que_es": "Fan art de maomao_(kusuriya_no_hitorigoto) (https://twitter.com/ogura_tubuan/status/1752666871093236122)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1054/e345c7b63c1fe7d70dca8874122175ebae3f5d47.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1452,
+  "que_es": "Fan art de maomao_(kusuriya_no_hitorigoto) (https://twitter.com/YuiKisezu/status/1934844206201417797)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1339/7685276c1bcec4a38347760fcd875f4621dc57f0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4096,
+  "alto": 3036,
+  "que_es": "Fan art de maomao_(kusuriya_no_hitorigoto) (https://x.com/thecrazedpepper/status/2053403326889316488)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2824/dc0aa4de9d692187155ce0448f21f4096222fb10.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 660,
+  "alto": 750,
+  "que_es": "Fan art de jinshi_(kusuriya_no_hitorigoto) (https://i.pximg.net/img-original/img/2019/04/15/01/41/19/74210415_p17.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2563/b9668530c6ae46f63c394ba0e738a1df53f2c5fa.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2202,
+  "alto": 2719,
+  "que_es": "Fan art de jinshi_(kusuriya_no_hitorigoto) (https://twitter.com/mop_0211/status/1855150222927970704)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1030/d360257cc3f85db2db461f98311b9b43575cdcba.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1938,
+  "que_es": "Fan art de jinshi_(kusuriya_no_hitorigoto) (https://twitter.com/YuiKisezu/status/1878804681813848477)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4357/83aacfd6eb7c8525c40957bdad99129c2adfba1a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1091,
+  "alto": 1456,
+  "que_es": "Fan art de jinshi_(kusuriya_no_hitorigoto) (https://twitter.com/onisan611/status/1850660388045816211)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4538/b978518e5d1d1a114c48525309416eab8b9e8ecc.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2308,
+  "alto": 3000,
+  "que_es": "Fan art de jinshi_(kusuriya_no_hitorigoto) (https://twitter.com/uneasywolf/status/1751696427128856977)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de gotoh_hitori (https://twitter.com/totototo0507/status/1807802641482985883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4254/91a6f4870040a61acf3dd083c6e38ec1bf24f105.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1275,
+  "alto": 1650,
+  "que_es": "Fan art de gotoh_hitori (https://reshanims.tumblr.com/post/714376654591541248)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4111/eab819f9ce0b721448018eed687ab3c3938ed71d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4032,
+  "alto": 3024,
+  "que_es": "Fan art de gotoh_hitori (https://phenomen0ms.tumblr.com/post/713745808632250368)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4243/57057d1498d8352a310612c2b9424b7bc465c12c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Fan art de gotoh_hitori (https://i.pximg.net/img-original/img/2023/07/06/12/03/17/109665825_p18.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4482/41b32cac7611c37aa77c45074fd8874dc8217462.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de gotoh_hitori (https://twitter.com/q7g7q/status/1741547171927740581)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4286/c1d4f03bf622a5052c7fbad6e0bb63085d7741ae.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1800,
+  "alto": 2400,
+  "que_es": "Fan art de gotoh_hitori (https://i.pximg.net/img-original/img/2023/08/09/22/41/33/110681016_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1053/ddc467d725c9e8459e389c29317dc79dea6a94d2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3275,
+  "alto": 1827,
+  "que_es": "Fan art de frieren (https://i.pximg.net/img-original/img/2025/10/03/11/49/14/135816452_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1057/fe8c11b5611439d9db8f468c1e5f9f1fbf2256e8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2360,
+  "alto": 1640,
+  "que_es": "Fan art de frieren (https://www.reddit.com/r/Frieren/comments/1ovnh4z/frieren/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ee14ac81342992f1f5dba69b6f5481f747f18bef.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Fan art de frieren (https://twitter.com/george_10g/status/1817604820293054523)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4356/abf7de646b42d9362321043a6215c618778b6849.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 2400,
+  "que_es": "Fan art de frieren (https://twitter.com/khyleri/status/1871950614957281772)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4394/1b5649a0db0cf16870bb489ffdc142e12f8fde55.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2700,
+  "alto": 3000,
+  "que_es": "Fan art de frieren (https://twitter.com/khyleri/status/2017266564186415465)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3071/7025357f516471e6f5f577769d313a8cad5cf76a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1892,
+  "alto": 2000,
+  "que_es": "Fan art de frieren (https://i.pximg.net/img-original/img/2020/09/08/18/25/16/84240212_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4175/d8a04410a6288b7d54453fba2753deb2e543f1cd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 1200,
+  "que_es": "Fan art de yor_briar (https://twitter.com/spyfamily_anime/status/1656826531631738880)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4221/54f22bb61e2114bde6dbe9ae3eae8becbce81f01.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1100,
+  "alto": 1500,
+  "que_es": "Fan art de yor_briar (https://twitter.com/koichame/status/1640881593886842884)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4139/e4edc49fe0f30e16e534b57fa09d381b2d2ab0d6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1460,
+  "alto": 1032,
+  "que_es": "Fan art de yor_briar (https://spyfamily-ex.com/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3836/cdb417c9e3b3facbc2862cdbca414287591d0aab.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 960,
+  "alto": 1280,
+  "que_es": "Fan art de yor_briar (https://twitter.com/spyfamily_anime/status/1525400531052613632)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4193/b9a04889db87d9a5e06281c3406d8307bc17caf2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4093,
+  "alto": 2894,
+  "que_es": "Fan art de yor_briar (https://i.pximg.net/img-original/img/2022/05/26/09/36/46/98609382_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/90933b747d27ad816a6bc541a91417c39f4b9077.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 2000,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (https://twitter.com/Artrextino_/status/1772384029595123775)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/9e0c7848bf1a9dee2366d5eed094545eb269163c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 736,
+  "alto": 812,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (file://fern.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/11/11cd3c6d2c719e67421ca9402dc7042c358462c6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1940,
+  "alto": 2705,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (https://twitter.com/tentenchan2525/status/1906192302760185932)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4244/695927ee920a958cbed076a06f8c2c04.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1152,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (https://twitter.com/hunnyypuffs/status/1677114246524727296/photo/1)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/6/20fdfc292c3398ba39d62c98c92a12dcc3dcb117.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2173,
+  "alto": 3472,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (https://i.pximg.net/img-original/img/2025/01/15/06/19/17/126234089_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3644/0d8fc82be5e733e954f3863db2381886962708ee.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1120,
+  "alto": 1120,
+  "que_es": "Fan art de shuten_douji_(fate) (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3441/d4c44163b72b44970220a20e6474ef0f39d07806.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1722,
+  "alto": 1287,
+  "que_es": "Fan art de shuten_douji_(fate) (https://twitter.com/f_osakana/status/1424050261249597442)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3416/74ddef279b17384a79cab97f036a22f7e12b7908.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3059,
+  "alto": 3305,
+  "que_es": "Fan art de shuten_douji_(fate) (https://i.pximg.net/img-original/img/2021/07/19/21/50/13/91358638_p3.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3463/548a4ab67ac8ea11254acdf8a583238ad720168e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1296,
+  "que_es": "Fan art de shuten_douji_(fate) (https://twitter.com/painterfiend/status/1429851198627094528)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3244/a8eb9ccf1f5705c9f19d064026f0bddf70ff2bc1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1072,
+  "alto": 1500,
+  "que_es": "Fan art de shuten_douji_(fate) (https://i.pximg.net/img-original/img/2017/10/11/01/41/45/65381813_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3250/e4953cbd1041cfa06929815ca994b01601e4eb32.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 643,
+  "alto": 900,
+  "que_es": "Fan art de shuten_douji_(fate) (https://twitter.com/titiduki/status/1301512876436393987)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4031/05237a8a3e63d2eda6df5ea2a3c9d81d3d6a09b7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2100,
+  "alto": 3000,
+  "que_es": "Fan art de anya_(spy_x_family) (https://twitter.com/khyleri/status/1595447090632527874)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4203/87f503c6563c3b2aa4329bc957c5142a6627d722.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1240,
+  "alto": 1754,
+  "que_es": "Fan art de anya_(spy_x_family) (https://twitter.com/tomata_y/status/1518955385020837889)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4215/0e4cdd7bfe43987e99aae3a8e94051de15d152de.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2380,
+  "alto": 2400,
+  "que_es": "Fan art de anya_(spy_x_family) (https://twitter.com/asgykk/status/1638002970045599745)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/qz/wallhaven-qzv6rd.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3680,
+  "alto": 2162,
+  "que_es": "Fondo de pantalla (96yottea, Maomao, The Apothecary Diaries, anime girls, anime, artwork)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 43PR; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zy/wallhaven-zy3mpg.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1989,
+  "alto": 2645,
+  "que_es": "Fondo de pantalla (96yottea, Maomao, The Apothecary Diaries, anime girls, artwork, digital art)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 43PR; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/l8/wallhaven-l8rmvl.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (The Apothecary Diaries, anime, anime girls, Maomao, closeup, anime screenshot)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CopperHopper; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/o5/wallhaven-o5edzl.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (The Apothecary Diaries, 4K, anime girls, sunlight, looking at viewer, blue eyes)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ParanoidDollv2; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/o5/wallhaven-o5v1wp.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2689,
+  "alto": 1742,
+  "que_es": "Fondo de pantalla (96yottea, Maomao, The Apothecary Diaries, anime girls, anime, artwork)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 43PR; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/gw/wallhaven-gw7yr3.png",
+  "fuente": "Wallhaven",
+  "ancho": 3541,
+  "alto": 2507,
+  "que_es": "Fondo de pantalla (The Apothecary Diaries, Maomao, anime, green hair, blue eyes, anime girls)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MsKaa; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/jx/wallhaven-jxqk2m.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (anime girls, Maomao, The Apothecary Diaries, face, looking at viewer, anime)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por NASY; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/l8/wallhaven-l8rg72.png",
+  "fuente": "Wallhaven",
+  "ancho": 2878,
+  "alto": 1618,
+  "que_es": "Fondo de pantalla (makeup, anime girls, green hair, anime, The Apothecary Diaries, blue eyes)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Galaxyrunner; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/qz/wallhaven-qz5vv7.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 7000,
+  "alto": 4276,
+  "que_es": "Fondo de pantalla (anime, anime girls, The Apothecary Diaries, Cheese Kang, long hair, hair between eyes)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por InrroInrro; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/yx/wallhaven-yxrx17.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (The Apothecary Diaries, Fengxian (The Apothecary Diaries), closeup, anime girls, anime, anime screenshot)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CopperHopper; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/85/wallhaven-85pmxo.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (The Apothecary Diaries, vases, blue rose, rose, indoors, depth of field)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CopperHopper; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/21/wallhaven-21y1ly.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Tsubasa Syaoin, trees, anime, anime girls, anime boys, ladder)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MrFav; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vq/wallhaven-vq32rp.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (snow, anime girls, anime, winter clothing, The Apothecary Diaries, green hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Galaxyrunner; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ly/wallhaven-ly8w6r.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2894,
+  "alto": 4896,
+  "que_es": "Fondo de pantalla (Tsubasa Syaoin, anime girls, portrait display, Maomao, The Apothecary Diaries, frills)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MrFav; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/3q/wallhaven-3qo5p9.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (The Apothecary Diaries, sky, Maomao, one eye closed, closed eyes, two women)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Owl279; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2b535555fd064653ab73bbe92053314e",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: 猫猫_薬屋のひとりごと [Maomao] The Apothecary Diaries de Wasabi",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-452ab7dfbe4a4118bc8117c6f6947a8d",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Lowpoly Maomao (The Apothecary Diaries) de KelpieBoye",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-f5a6bf42a1574b738b0d3b9c3207d28e",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Maomao from The Apothecary Diaries de Lappy",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-dadaaa5bbfde40568f827e9138c050a8",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: chibli master jinshi from the apothecary diaries de Shah Bakhat026",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54170167547_c2c74c8775_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54170168357_46e77eaef2_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171319953_54af64df09_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171350404_44448239e3_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171495640_7aebc1c89d_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171350564_19d6ca03d0_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171319353_c2fb94b324_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171350144_d41c283331_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171350884_f833ce521f_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171493965_61cb46c91e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54170165462_22b5facc73_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54170165117_4c3ac4113b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171494450_9a816a5c1c_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171495430_cf7fa29c62_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171352929_bc25d42536_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171050371_77e2252203_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171497565_ae18e72650_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54131670992_56a44edcec_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 769,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54170166392_4daf4401cb_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54171353129_25cf79274d_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "Lucca Comics And Games 2024 - Saturday - 50 - Maomao - The Apothecary Diaries -…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905780/91a6e44e867cbb2fe856f652babb5b7b003a58fc/ss_91a6e44e867cbb2fe856f652babb5b7b003a58fc.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de The Apothecary Diaries: The False Imperial Brother",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905780/cf14c3aae1a5a302ea901fd738b020fc31cb783d/ss_cf14c3aae1a5a302ea901fd738b020fc31cb783d.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de The Apothecary Diaries: The False Imperial Brother",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905780/53354931754c6f8944d0ce45cc2d40858214955b/ss_53354931754c6f8944d0ce45cc2d40858214955b.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de The Apothecary Diaries: The False Imperial Brother",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905780/04453a63530c4b315f7960c976e4fcfcc3fdf425/ss_04453a63530c4b315f7960c976e4fcfcc3fdf425.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de The Apothecary Diaries: The False Imperial Brother",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905780/951943914eb77eaf81a905fcd9f651426d362ab3/ss_951943914eb77eaf81a905fcd9f651426d362ab3.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de The Apothecary Diaries: The False Imperial Brother",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905780/6a1bdb46bcc6ee5518eebb77e32e44840697582c/ss_6a1bdb46bcc6ee5518eebb77e32e44840697582c.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de The Apothecary Diaries: The False Imperial Brother",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ }
+]

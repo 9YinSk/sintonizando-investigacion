@@ -1392,3 +1392,239 @@ cubre los dos primeros arcos. ⚠️ (§28)
   «Satsuren» (la JAA), «la Order», «Slur», «JCC», «Sakamoto Shōten».
 
 ---
+
+## 27 · Tres conceptos de lámina
+
+Tres ideas distintas: **tres objetos** (una tablilla de avisos, una
+claqueta con la cámara y la pértiga, una pared de fichaje), **tres sitios**
+(la puerta de la tienda, el paseo del río, la pared de alturas) y **tres
+formas de hablar** (la cartela negra y amarilla, la caja del juego, los
+carteles de nombre). Tono: comedia luminosa con filo. Nada de sangre.
+
+### Concepto A — «El kairanban de la tienda» → #📰 noticias-anime (recomendado)
+
+**El objeto y el sitio.** Un **回覧板** (*kairanban*): la tablilla rígida
+con pinza de metal en la que los vecinos japoneses se pasan los avisos del
+barrio. La serie publica así sus fichas: «坂本商店回覧板» (hoja 2 nº65;
+hoja 1 nº46). Va en la **puerta de la tienda de Sakamoto**, como en la
+portada del cap. 221 (hoja 1 nº15): escalones, la bandera vertical roja y
+blanca «営業», luz de día. En **Blender**: tablilla, pinza con brillo
+metálico y la hoja de papel un poco curvada; la tinta sigue la curva.
+
+**Quién y cómo.**
+- **Shin** (el más votado del trío, 1º en la 1ª encuesta) en primer
+  término, con sudadera azul y delantal verde (hoja 1 nº37 para la ropa).
+  Sostiene la tablilla hacia el que mira con una mano; la otra, en jarra.
+  Cara: la confianza de brazos cruzados del tráiler (1:00).
+- **Sakamoto** detrás, **sentado leyendo el periódico** exactamente como
+  en la hoja 1 nº15. No mira: está a lo suyo.
+
+**Cómo habla.**
+- La frase de Shin, en la **cartela negra de esquinas redondeadas con
+  letras amarillas** (§7.1), en **Anton**. Una palabra clave suelta en
+  rojo.
+- Lo que Shin «lee» en la mente de Sakamoto, en una **nube de
+  pensamiento** junto a la cabeza de Sakamoto, en **Caveat**.
+
+**Dónde va cada texto del canal** (#noticias-anime: «Anime: estrenos,
+temporadas y doblajes. Lo trae un bot. Para comentar, abre un hilo en la
+noticia.»):
+
+| Sitio | Texto |
+|---|---|
+| Cabecera de la tablilla, en recuadro como «さかてい!» | **NOTICIAS-ANIME** (Archivo Black) |
+| Tres filas de la hoja, cada una con un dibujito | **Estrenos**, **Temporadas** y **Doblajes**, una palabra por fila |
+| Cartela de Shin | «Lo trae un bot. Tú sólo comenta.» |
+| Palabra roja suelta | «¡Abre un hilo!» |
+| Casillas de sellos al pie de la hoja (en un *kairanban* real, cada casa sella al leer) | «Para comentar, abre un hilo en la noticia» |
+| Nube de Sakamoto | «¿Ya salió la parte 2?» |
+
+⚠️ Las casillas de sellos son del objeto real japonés; no salen en las
+partes. Comprobar con una foto antes de modelarlas.
+
+**Cómo no queda plano.**
+- La **bandera «営業»** en primer plano a la izquierda, desenfocada.
+- La tablilla **en escorzo** hacia la cámara; la pinza proyecta sombra
+  sobre el papel.
+- Sakamoto en segundo plano, más pequeño; la calle al fondo.
+- Luz de día desde la izquierda, paleta de la tienda (`#54423E`,
+  `#987E71`, `#E6E5C7`) y el verde del delantal `#2E664B`.
+- Grano de papel **sólo en las sombras** (§19).
+
+### Concepto B — «Se busca reparto» → #🎬 castings
+
+**El objeto y el sitio.** El rodaje de la portada del cap. 168, «祝・TV
+アニメ化決定!» (hoja 2 nº58): **cámara al hombro** y **pértiga con
+micrófono**. Se añade una **claqueta**, que es donde va la información.
+⚠️ La claqueta no sale en esa portada: es un objeto de rodaje que encaja.
+Sitio: el **paseo junto al río** del opening (0:50), tarde despejada. En
+**Blender**: claqueta con la tiza escrita, la pértiga y el micro con su
+funda peluda.
+
+**Quién y cómo.**
+- **Nagumo** (el más querido: 1º en la 2ª encuesta) al frente,
+  **sosteniendo la claqueta**, a punto de cerrarla. Gabardina beige,
+  sonrisa ladeada. Base de pose: hoja 1 nº47 (la palma abierta del dado
+  se vuelve la mano que sostiene la claqueta). Es el chiste: **miente por
+  costumbre**, así que actuar es lo suyo.
+- **Sakamoto** detrás con la **cámara al hombro** y gorra roja (hoja 2
+  nº58, tal cual).
+- **Shin** con la **pértiga** sobre Nagumo (hoja 2 nº58), con cara de
+  «te estoy leyendo la mente» (cejas fruncidas, tráiler 0:23).
+
+**Cómo habla.**
+- Nagumo, en la **caja de diálogo del juego de móvil** (§7.3): negra
+  `#1E1E1E`, **placa naranja `#FECB00` con su nombre**, texto blanco. En
+  la captura real la placa ya dice «南雲». Va **abajo**, como en el juego,
+  con las esquinas verde neón; nunca flotando en medio.
+- Shin le responde con un grito corto en **Bangers**, pintado como
+  onomatopeya, sin caja.
+
+**Dónde va cada texto del canal** (#castings: «Cada casting es un hilo.
+Ciérralo cuando el papel esté cubierto.»):
+
+| Sitio | Texto |
+|---|---|
+| Claqueta, casilla grande | **CASTINGS** |
+| Claqueta, casillas pequeñas | «PAPEL», «TIPO», «ESTADO: ABIERTO» |
+| Caja de Nagumo (placa: NAGUMO) | «Cada casting es un hilo. Este papel ya es mío.» |
+| Grito de Shin | «¡MENTIRA!» |
+| Etiqueta en la cámara | «Ciérralo cuando el papel esté cubierto» |
+
+**Lámina 2** (las 15 etiquetas no caben): la **maleta del equipo** de
+rodaje con pegatinas por grupos. Formato: Anime, Videojuego, Serie,
+Película, Corto, Comercial, Audiolibro, Canto. Pago: Pagado, Sin paga.
+Estado: Abierto, Cerrado, Urgente. Otras: Oficial del servidor, +18.
+
+**Cómo no queda plano.**
+- La **funda peluda del micro** entra desde arriba a la izquierda, muy
+  cerca, desenfocada.
+- La claqueta, lo más cerca de la cámara; Nagumo detrás de ella; Sakamoto
+  al fondo.
+- Contraluz de tarde; paleta del río (`#D3F2FE`, `#98D297`, `#639A79`).
+- La sombra de la pértiga cruza a Nagumo en diagonal.
+
+### Concepto C — «La fila de fichaje» → #🪪 presentaciones (reserva: #🧾 log-mod)
+
+**El objeto y el sitio.** La **pared de fichaje con la regla de alturas**
+y los **carteles de nombre** de la portada a color del cap. 45 (hoja 2
+nº81), con su rótulo vertical «日常と非日常». En **Blender**: la pared con
+las marcas de centímetros y cuatro carteles de madera o cartón con la
+tiza.
+
+**Quién y cómo.** El grupo, como en la portada, **cada uno a su altura
+oficial** en la regla (§21): **Nagumo 190**, **Sakamoto 188** (al centro,
+con delantal), **Shin 172**, **Lu 165** (pelo rosa, a la derecha).
+Poses de la portada: de frente, cartel en las manos. Shin se inclina un
+poco hacia Nagumo para leerle la mente.
+
+**Cómo habla.** Cada personaje habla con **su cartel**, como en la
+portada. El título, en la **cartela negra con letras amarillas**, en
+vertical como los rótulos de las portadas. Letra de los carteles:
+**Patrick Hand** en tiza blanca.
+
+**Dónde va cada texto del canal** (#presentaciones: «Tu ficha del
+servidor. Es opcional, pero es lo que hace que la gente te ponga cara.
+Abre TU hilo con la plantilla fijada…»; plantilla: Me llamo, Vengo de,
+Vengo a, Me gusta, Busco, Dato raro):
+
+| Sitio | Texto (con un dato real de cada uno) |
+|---|---|
+| Cartela vertical | **PRESENTACIONES** |
+| Cartel de Sakamoto | «Me llamo: Tarō Sakamoto» |
+| Cartel de Shin | «Vengo a: trabajar en la tienda» |
+| Cartel de Lu | «Me gusta: los bollos de cerdo» |
+| Cartel de Nagumo | «Dato raro: tengo 18 años» (su mentira de siempre) |
+| Rótulo pequeño al pie | «Es opcional. Así te ponemos cara.» |
+| Placa de la pared | «Abre TU hilo con la plantilla fijada» |
+
+Faltan en los carteles «Vengo de» y «Busco»: van en la placa o en una
+**lámina 2** con las 12 etiquetas del foro (Sudamérica, México,
+Centroamérica y Caribe, España, Otro país, Doblaje, Canto, Locución,
+Edición, Arte, Escritura, Hacer amigos) como pegatinas en la regla.
+
+**Cómo no queda plano.**
+- **Flash frontal** de foto de fichaje: sombra dura de cada uno sobre la
+  pared.
+- El cartel de Nagumo inclinado hacia la cámara; el de Lu tapado a medias
+  por el hombro de Sakamoto (guiño al «¿quién es Lu?»).
+- Las líneas de la regla dan profundidad y escala.
+- Paleta de portada: pared clara, delantal `#2E664B`, sudadera `#3974B0`,
+  gabardina `#DED0B3`.
+
+**Aviso de tono:** es la broma de la propia portada, no una detención.
+Nada de esposas ni golpes.
+
+---
+
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### 28.1 Lo que corregí
+
+1. **Lu Wutang no es la Lu del trío.** La parte de imagen buscó la página
+   «Lu Wutang» y la de vídeo la siguió. Pero la wiki describe a Wutang
+   como «a handsome Chinese young man… black short hair tied in a French
+   braid», enamorado de **Lu Shaotang** (`datos-imagen.md`,
+   `datos-voz.md`). La hoja 2 nº50 lo confirma: es un chico alto con
+   trenza. **La Lu del encargo es Lu Shaotang**, pelo rosa-borgoña (hoja 2
+   nº71 y nº81; AniList). Por eso: el hex `#C1BCD5` y sus poses son de
+   Wutang, y **a Lu Shaotang le faltan hex medidos y poses propias** (§16,
+   §15). Hay que repetir `investigar_serie.py --paginas "Lu Shaotang"`.
+2. **Números de las hojas.** `partes/imagen.md` da números que no
+   coinciden (dice que las hojas de modelo son la hoja 1 nº21-23 y nº85;
+   son la nº44, 42, 39, 37, 36, 34, 43 y 17, y la hoja 1 sólo llega al
+   48). Esta biblia usa los números mirados por el redactor. La nº33 sí
+   estaba bien.
+3. **Episodios del anime.** La parte de texto decía «11 episodios ONA».
+   Son **22 en dos partes** (Doblaje Wiki: 2 temporadas, 22 episodios;
+   Wikipedia: dos tandas en 2025). La ficha 177709 de AniList es sólo la
+   parte 1. Qué arcos cubre la parte 2 no está comprobado. ⚠️
+4. **«2nd Season (2026)».** La parte de imagen fecha en 2026 los diseños
+   que la wiki llama «2nd Season». La parte 2 del anime se emitió de julio
+   a septiembre de 2025. Pueden ser de esa parte 2. ⚠️
+5. **Estudio.** Se buscaron fondos de «CloverWorks»; el anime es de **TMS
+   Entertainment**.
+6. **El logo.** La parte de texto describe la carita de la «O» como
+   «calvo, gafas redondas». Sakamoto tiene el pelo corto gris claro (hoja
+   1 nº44); aquí se dice «carita redonda con lentes redondos».
+7. **Escena del cap. 1.** La parte de voz decía «Sakamoto recién nacido
+   en brazos, con la hija recién nacida». Se reescribió como «Sakamoto con
+   su hija recién nacida en brazos». ⚠️ comprobar en el manga.
+8. **`referencias.json`**: se quitaron 43 entradas ajenas (fan art de
+   Itadori, Luffy, Midoriya, Yor, Anya y un personaje de *Uma Musume*; fotos
+   de Brasil de una fotógrafa apellidada Sakamoto; un collage de Wallhaven
+   de otras series). Quedan 122.
+
+### 28.2 Lo que no pude verificar
+
+- **1080p**: nada de lo mirado pasa de 720p (§2).
+- **Episodios completos**: ninguno. Faltan las caras de **tristeza** y
+  **vergüenza**, la música de las escenas emotivas y 6-10 poses por
+  personaje sacadas de episodios.
+- **Lu Shaotang**: sin hex ni poses propias (ver 28.1).
+- **Hoja 1 nº35**, titulada «Taro Sakamoto 2nd Season»: se ve una figura
+  delgada de pelo negro, traje y vara. ¿Es el Sakamoto joven? Mirarla a
+  tamaño completo.
+- **La portada del tomo 1 en Wikimedia** figura como «CC BY-SA 4.0, autor
+  Yuto Suzuki». Es poco creíble: tratarla como © Shueisha.
+- **Resolución del tráiler latino**: `referencias.json` dice 1920×1080 en
+  sus fotogramas; la parte de vídeo dice que los clips de Dailymotion son
+  de 512×288. Medirlo antes de usar un fotograma.
+- **Vistas**: los 73 millones del tráiler resubido parecen inflados; las
+  vistas de YouTube y TikTok no se pudieron leer.
+- **Ending 1** «Futsū»: sin vídeo.
+- **The Cutting Room Floor**: bloqueado por Cloudflare.
+- **Tablero del juego** en combate: sin captura.
+- **Búsquedas en coreano o chino**: no se hicieron. La obra es japonesa y
+  se buscó en japonés (MangaPlus, MEDIA DOGS, Shonen Jump News, Cinema
+  Today, Eiga Natalie, collabo-cafe.com).
+- **Segunda fuente** para las voces latinas de secundarios (Nagumo,
+  Osaragi, Shishiba, Uzuki, Gaku, Hyo, Tatsu): sólo Doblaje Wiki.
+- **El «¡Ay, caray!»** de Óscar López: sólo por un resumen.
+- **Las casillas de sellos** del *kairanban* y la **claqueta** del concepto
+  B: objetos reales añadidos, no salen en la serie.
+- **Nombre de la letra del logo** y de la gótica japonesa.
+- **Colaboración con GU**, **arte de la película** y **arte exclusivo del
+  juego**: sin ver.
+
+---

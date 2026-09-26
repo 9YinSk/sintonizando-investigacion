@@ -1,335 +1,2495 @@
 [
-  {
-    "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/DEATH%20NOTE",
-    "fuente": "GitHub (kitsunekko-mirror)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Subtítulos de los 37 episodios: japonés de Netflix, inglés de fans (1-24) y letras de OP/ED.",
-    "para_que": "Dan el minuto exacto de cada escena de §2 y §15. Base de toda la biblia.",
-    "licencia": "Subtítulos subidos por terceros. Sólo consulta."
-  },
-  {
-    "url": "https://www.animenewsnetwork.com/news/2023-02-18/viz-media-youtube-channel-adds-death-note-inuyasha-hunter-x-hunter-more-anime/.195055",
-    "fuente": "Anime News Network",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Noticia: los 37 episodios, gratis en el canal de YouTube de Viz (EE. UU.).",
-    "para_que": "De ahí se sacan los fotogramas en HD de §2 y §15.",
-    "licencia": "© Viz Media / Madhouse / VAP. Sólo referencia."
-  },
-  {
-    "url": "https://www.netflix.com/title/70204970",
-    "fuente": "Netflix",
-    "ancho": null,
-    "alto": null,
-    "que_es": "El anime Death Note en Netflix (con doblaje latino según la región).",
-    "para_que": "Escuchar las frases latinas antes de rotularlas; sacar fotogramas.",
-    "licencia": "© Madhouse / VAP / Shūeisha. Sólo referencia."
-  },
-  {
-    "url": "https://www.hlj.co.jp/product/SYU82146",
-    "fuente": "HLJ",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha del artbook de Takeshi Obata «blanc et noir» (Shūeisha, 2006, B4, 168 páginas).",
-    "para_que": "La mejor referencia oficial de pose y color de los personajes.",
-    "licencia": "© Takeshi Obata / Shūeisha. No pegar."
-  },
-  {
-    "url": "https://www.viz.com/shonenjump/chapters/death-note-short-stories",
-    "fuente": "Viz Media",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Death Note: Short Stories, con «a-Kira Story» (Ryuk vuelve al mundo humano).",
-    "para_que": "Arte de Ryuk reciente de Obata.",
-    "licencia": "© Ohba, Obata / Shūeisha. Sólo referencia."
-  },
-  {
-    "url": "https://www.bandainamcoent.com/games/death-note-killer-within",
-    "fuente": "Bandai Namco",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Web oficial de Death Note: Killer Within (2024), con su arte clave.",
-    "para_que": "Arte oficial reciente de Kira y L; interfaz del juego.",
-    "licencia": "© Bandai Namco / Ohba, Obata. Sólo referencia."
-  },
-  {
-    "url": "https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/",
-    "fuente": "Steam",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Página de Killer Within con capturas.",
-    "para_que": "Ver la interfaz y cómo se muestra el cuaderno en el juego.",
-    "licencia": "© Bandai Namco. Sólo referencia."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/notebook-of-death-cee405b6e2a544e1a819bbc514233090",
-    "fuente": "Sketchfab (Kasuga)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D del cuaderno (2025).",
-    "para_que": "Mirar grosor, lomo y tapa para modelar el cuaderno de la lámina.",
-    "licencia": "CC BY según la búsqueda; comprobar en la página. Crédito: Kasuga (@kasuga)."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/death-note-38e9f0d0c6944557b6ecf2003f5aa4bb",
-    "fuente": "Sketchfab (CG.oum)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D del cuaderno (2020).",
-    "para_que": "Alternativa de referencia para el cuaderno.",
-    "licencia": "CC BY según la búsqueda; comprobar. Crédito: CG.oum (@ayoub.oumahou)."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/death-note-d82d6546f5994f128147748487f64ca8",
-    "fuente": "Sketchfab (ParaGO)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D del cuaderno (2024).",
-    "para_que": "Alternativa de referencia.",
-    "licencia": "CC BY según la búsqueda; comprobar. Crédito: ParaGO."
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Leather026",
-    "fuente": "ambientCG",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura PBR de cuero.",
-    "para_que": "Tapa negra del cuaderno en Blender.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Paper003",
-    "fuente": "ambientCG",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura PBR de papel.",
-    "para_que": "Hojas del cuaderno.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Wood039",
-    "fuente": "ambientCG",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura PBR de madera.",
-    "para_que": "Escritorio de Light.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://polyhaven.com/textures/leather",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Categoría de texturas de cuero.",
-    "para_que": "Alternativa para la tapa.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://github.com/google/fonts/tree/main/ofl/unifrakturmaguntia",
-    "fuente": "Google Fonts (GitHub)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "UnifrakturMaguntia: gótica libre, con tildes, ñ, ¿ y ¡ (comprobado).",
-    "para_que": "La «L» de L y el título «Textos».",
-    "licencia": "OFL"
-  },
-  {
-    "url": "https://github.com/google/fonts/tree/main/ofl/imfellenglish",
-    "fuente": "Google Fonts (GitHub)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "IM Fell English: imprenta vieja, con tildes, ñ, ¿ y ¡ (comprobado).",
-    "para_que": "Las reglas del canal en la página del cuaderno.",
-    "licencia": "OFL"
-  },
-  {
-    "url": "https://github.com/google/fonts/tree/main/ofl/kalam",
-    "fuente": "Google Fonts (GitHub)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Kalam: letra a mano ordenada, con tildes, ñ, ¿ y ¡ (comprobado).",
-    "para_que": "La ficha escrita a mano, como Light escribe los nombres.",
-    "licencia": "OFL"
-  },
-  {
-    "url": "https://blog.textstudio.com/death-note-font/",
-    "fuente": "TextStudio",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Artículo: la «L» de L es Cloister Black; el logo es gótico.",
-    "para_que": "Elegir la letra libre equivalente.",
-    "licencia": "Artículo. Sólo consulta."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=8V1szEGOGTs",
-    "fuente": "YouTube",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Clip «LIGHT: ¡¡TOMO UNA FRITURA Y LA COMO!!» del doblaje latino.",
-    "para_que": "Confirmar la frase latina de la papa (ep. 8, 00:18:35).",
-    "licencia": "© Viz / Madhouse. Sólo consulta."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=Mbc2Axk5v20",
-    "fuente": "YouTube",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Entrevista a Hugo Núñez, voz latina de L.",
-    "para_que": "Cómo se hizo la voz de L en latino.",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://www.tiktok.com/@bruno_coronel/video/7125570347570564358",
-    "fuente": "TikTok (Bruno Coronel)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "El propio actor, voz latina de Near.",
-    "para_que": "Segunda fuente de la voz de Near.",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://www.tiktok.com/@rebecagomez_voz/video/7124101453160975621",
-    "fuente": "TikTok (Rebeca Gómez)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "La propia actriz, voz latina de Misa.",
-    "para_que": "Fuente de la voz de Misa y cómo la interpreta.",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish)",
-    "fuente": "The Dubbing Database",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha del doblaje latino: reparto principal, duración del doblaje, plataformas.",
-    "para_que": "Segunda fuente de voces latinas.",
-    "licencia": "Wiki de fans (CC BY-SA). Sólo consulta."
-  },
-  {
-    "url": "https://knowyourmeme.com/memes/just-according-to-keikaku",
-    "fuente": "Know Your Meme",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Origen del meme «Just according to keikaku» (ep. 24) y de la papa frita.",
-    "para_que": "Lo que el fandom reconoce (§14).",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://nlab.itmedia.co.jp/research/articles/118759/",
-    "fuente": "ねとらぼ (Nlab)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Encuesta 2021: L 1.º (397 votos), Light 2.º (272).",
-    "para_que": "Decidir quién es el más querido (§9).",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://www.anitabi.jp/works/296",
-    "fuente": "AniTabi",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Mapa de lugares reales del anime con capturas.",
-    "para_que": "Fondos y sitios (§5.1).",
-    "licencia": "Capturas © Madhouse. Sólo referencia."
-  },
-  {
-    "url": "https://www.animepilgrimage.com/ja/map?data=death-note",
-    "fuente": "Anime Pilgrimage",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Mapa con 24 lugares de Death Note.",
-    "para_que": "Fondos y sitios reales de Tokio.",
-    "licencia": "Sólo referencia."
-  },
-  {
-    "url": "https://www.artstation.com/artwork/442E1",
-    "fuente": "ArtStation (Sheridan Doose)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fan art de Ryuk y Light.",
-    "para_que": "Referencia de composición de la pareja. Mirar, no pegar.",
-    "licencia": "© Sheridan Doose. No pegar."
-  },
-  {
-    "url": "https://emilio_mansilla.artstation.com/projects/OyJ1E6",
-    "fuente": "ArtStation (Emilio Mansilla García)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fan art de Ryuk con estudio de luz.",
-    "para_que": "Cómo iluminar a Ryuk en la oscuridad.",
-    "licencia": "© Emilio Mansilla García. No pegar."
-  },
-  {
-    "url": "https://www.pixiv.net/en/tags/%E5%A4%9C%E7%A5%9E%E6%9C%88",
-    "fuente": "pixiv",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Etiqueta 夜神月 (unas 3.500 ilustraciones).",
-    "para_que": "Poses y estilo de fans japoneses.",
-    "licencia": "© de cada autor. No pegar."
-  },
-  {
-    "url": "https://wall.alphacoders.com/big.php?i=1182462",
-    "fuente": "Wallpaper Abyss",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "«Shadowed Pact»: Light y Ryuk.",
-    "para_que": "Fondo y paleta de referencia.",
-    "licencia": "Autor sin comprobar. Sólo referencia."
-  },
-  {
-    "url": "https://wall.alphacoders.com/big.php?i=961726",
-    "fuente": "Wallpaper Abyss (ncoll36)",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Ryuk en 4K.",
-    "para_que": "Referencia de Ryuk y su luz.",
-    "licencia": "Sólo referencia."
-  },
-  {
-    "url": "https://www.deviantart.com/shoushinnokarera/art/Death-Note-How-to-use-it-79542089",
-    "fuente": "DeviantArt (ShoushinNoKarera)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Recreación de la página «How to use it».",
-    "para_que": "Maquetar la página de reglas del cuaderno.",
-    "licencia": "© del autor. No pegar."
-  },
-  {
-    "url": "https://carboncostume.com/title/death-note/",
-    "fuente": "Carbon Costume",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Guías de cosplay de Light, L, Misa, Near, Mello.",
-    "para_que": "Vestuario y colores (§16).",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://aniloop.org/why-death-notes-potato-chip-scene-actually-works/",
-    "fuente": "AniLoop",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Análisis de la escena de la papa y de cómo la dirigió Araki.",
-    "para_que": "Tono épico para un gesto pequeño (§2.4).",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://en.wikipedia.org/wiki/Ryuk_(Death_Note)",
-    "fuente": "Wikipedia",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ryuk: diseño de Obata (de «estrella de rock» a reptil).",
-    "para_que": "Carácter y diseño de Ryuk (§8).",
-    "licencia": "CC BY-SA. Sólo consulta."
-  },
-  {
-    "url": "https://en.wikipedia.org/wiki/L_(Death_Note)",
-    "fuente": "Wikipedia",
-    "ancho": null,
-    "alto": null,
-    "que_es": "L: sus manías y por qué Obata le puso ojeras.",
-    "para_que": "Carácter y poses de L (§8, §15).",
-    "licencia": "CC BY-SA. Sólo consulta."
-  }
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/6/60/295978.jpg",
+  "fuente": "deathnote.fandom.com (color page de Takeshi Obata, 'Saint Valentine's Day')",
+  "ancho": 3466,
+  "alto": 5000,
+  "que_es": "Misa Amane en su vestido gótico rojo con cruz y calaveras",
+  "para_que": "Hex del vestido de Misa medidos con Pillow (punto 15); pose de personaje secundario para la lámina",
+  "licencia": "Derechos de Shūeisha/Obata; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/8/8b/DN_013.jpg",
+  "fuente": "deathnote.fandom.com (color page de Takeshi Obata)",
+  "ancho": 3039,
+  "alto": 5000,
+  "que_es": "Near con la mano en la cara, pijama blanco, color page oficial",
+  "para_que": "Hex del pijama de Near medidos con Pillow (punto 15); pose de personaje secundario",
+  "licencia": "Derechos de Shūeisha/Obata; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4400/dd5dc6da3b78e16bc0392c9cca58cb8d88ddffc4.jpg",
+  "fuente": "Safebooru",
+  "ancho": 3360,
+  "alto": 4096,
+  "que_es": "Fan art de Misa Amane mejor puntuado (22 puntos)",
+  "para_que": "Fan art de referencia de un secundario querido (punto 3)",
+  "licencia": "Origen en x.com/wjaefinbki3azde; sólo como referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6d/wallhaven-6d5mll.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4096,
+  "alto": 2304,
+  "que_es": "Fondo de pantalla de fan de Misa Amane, 136 favoritos",
+  "para_que": "Fondo de pantalla de fans en alta con autor (punto 16)",
+  "licencia": "Origen en pixiv/twitter de jeonmin8974; sólo como referencia, comprobar licencia del autor antes de redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/0/05/299276.jpg",
+  "fuente": "deathnote.fandom.com (color page de Takeshi Obata)",
+  "ancho": 2001,
+  "alto": 4705,
+  "que_es": "Light Yagami de perfil con camisa blanca del instituto, color page oficial del manga",
+  "para_que": "Referencia de pose y de hex del vestuario icónico de Light (punto 15); arte oficial variado (punto 1)",
+  "licencia": "Derechos de Shūeisha/Obata; sólo como referencia visual, no redistribuible"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/0/05/Othellonia_wallpaper_Mello.jpg",
+  "fuente": "deathnote.fandom.com (wallpaper oficial del crossover Othellonia × Death Note)",
+  "ancho": 2208,
+  "alto": 2208,
+  "que_es": "Mello con gabardina de cuero negro y chocolate, arte de la colaboración con el juego Othellonia",
+  "para_que": "Hex de la gabardina y el pelo de Mello (punto 15); ejemplo de colaboración con videojuego (punto 23)",
+  "licencia": "©DeNA Co.,Ltd./Othello,Co. y MegaHouse, crédito en la propia imagen; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/0/0f/Lfull.jpg",
+  "fuente": "deathnote.fandom.com (color page de Takeshi Obata)",
+  "ancho": 1352,
+  "alto": 2200,
+  "que_es": "L sentado en cuclillas comiendo chocolate, color page oficial",
+  "para_que": "Hex de la camiseta blanca y el vaquero de L medidos con Pillow (punto 15)",
+  "licencia": "Derechos de Shūeisha/Obata; sólo referencia"
+ },
+ {
+  "url": "https://www.zerochan.net/4253569",
+  "fuente": "Zerochan (crédito 'by MADHOUSE')",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Wallpaper oficial de key visual del anime, producción Madhouse",
+  "para_que": "Fondo de pantalla oficial en alta (punto 16)",
+  "licencia": "Derechos de Madhouse; alojado como escaneo oficial en Zerochan"
+ },
+ {
+  "url": "https://www.zerochan.net/4377547",
+  "fuente": "Zerochan (crédito 'by MADHOUSE')",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Wallpaper oficial de Near, producción Madhouse",
+  "para_que": "Fondo de pantalla oficial en alta de un secundario querido (punto 16)",
+  "licencia": "Derechos de Madhouse; alojado como escaneo oficial en Zerochan"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/a/a8/Ryuk_DN_Coloured.png",
+  "fuente": "deathnote.fandom.com",
+  "ancho": 860,
+  "alto": 1384,
+  "que_es": "Ryuk a color, primer plano de cara y torso",
+  "para_que": "Hex de la piel de Ryuk medidos con Pillow (punto 15)",
+  "licencia": "Derechos de Shūeisha/Obata; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x31pve2",
+  "fuente": "Dailymotion (Good Shortfilms)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Death Note Opening 1 HD 1080p (clip completo, 1:20), «the WORLD» de Nightmare.",
+  "para_que": "Opening mirado con fotogramas.py: Light con gabardina y manzana en la calle (0:30), figura alada (1:15). Confirmado en punto 2.",
+  "licencia": "© Madhouse/VAP. Sólo referencia (vídeo con &t=, no descargable para la lámina)."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x6alujt",
+  "fuente": "Dailymotion (bigbluebox)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Death Note Ending 1 (clip completo, 1:10), «Alumina» de Nightmare.",
+  "para_que": "Ending mirado con fotogramas.py: imaginería roja y silueta cayendo contra el cielo (0:24). Confirmado en punto 2.",
+  "licencia": "© Madhouse/VAP. Sólo referencia."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x89nprz",
+  "fuente": "Dailymotion (JeuxVideo.com)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Death Note Anime Trailer oficial (1:35), con el logo de la calavera con aureola.",
+  "para_que": "Confirma el insert «How to use it» con el texto de las reglas en pantalla (0:36 y 1:00). Punto 2 y 10.",
+  "licencia": "© Madhouse/VAP. Sólo referencia."
+ },
+ {
+  "url": "https://archive.org/download/death-note-08/Death%20Note%2008.mp4?t=1115",
+  "fuente": "Internet Archive (episodio 8 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 18:35: Light escribe en el cuaderno con la derecha y come una papa con la izquierda a la vez.",
+  "para_que": "La escena meme más famosa de la serie, con las DOS manos a la vez (punto 2 y 14, pose 'animar').",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia de pose, no para pegar."
+ },
+ {
+  "url": "https://archive.org/download/death-note-24/Death%20Note%2024.mp4?t=342",
+  "fuente": "Internet Archive (episodio 24 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 05:42: primer plano de Light, media cara en sombra, ojos rojos, auricular de manos libres junto a la boca («keikaku doori»).",
+  "para_que": "El meme mundial 'tal como lo planeé'; referencia de pose para 'pensar / villano' (punto 14).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia."
+ },
+ {
+  "url": "https://archive.org/download/death-note-25/Death%20Note%2025.mp4?t=1080",
+  "fuente": "Internet Archive (episodio 25 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 18:00: la sonrisa de Light sosteniendo a L moribundo, luz roja de alarma.",
+  "para_que": "Corrige el minuto que tenía la biblia (17:41 → 18:00); referencia de pose 'villano' (punto 14).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia."
+ },
+ {
+  "url": "https://archive.org/download/death-note-36/Death%20Note%2036.mp4?t=1272",
+  "fuente": "Internet Archive (episodio 36 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 21:12: Light con el boli entre los dientes, mirada de locura, fondo blanco sobreexpuesto.",
+  "para_que": "Fotograma icónico nuevo (no estaba en la biblia); pose 'celebrar villano' (punto 14).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia."
+ },
+ {
+  "url": "https://archive.org/download/death-note-01/Death%20Note%2001.mp4?t=972",
+  "fuente": "Internet Archive (episodio 1 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 16:12: el cuarto de Light de noche, azul violeta oscuro, Ryuk a contraluz.",
+  "para_que": "Paleta del cuarto medida con estilo.py: #0F1127 #030212 #1A2237 #515B6C #343D51 #8F9DA3 (punto 4).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia de paleta, no para pegar."
+ },
+ {
+  "url": "https://archive.org/download/death-note-25/Death%20Note%2025.mp4?t=630",
+  "fuente": "Internet Archive (episodio 25 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 10:30: la azotea bajo la lluvia donde L habla con Light de las campanas.",
+  "para_que": "Paleta del sitio medida: #0D1027 #09081D #040214 #1A1F35 #303B52 #5C617A (punto 4).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia de paleta."
+ },
+ {
+  "url": "https://archive.org/download/death-note-36/Death%20Note%2036.mp4?t=1255",
+  "fuente": "Internet Archive (episodio 36 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 20:55: el almacén Yellow Box con tiras de sol entre el polvo.",
+  "para_que": "Paleta del sitio final medida: #45423F #6F6F6D #BCB8A3 #898A86 #E2ECDC #ECD6B7 (punto 4).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia de paleta."
+ },
+ {
+  "url": "https://archive.org/download/death-note-10/Death%20Note%2010.mp4?t=494",
+  "fuente": "Internet Archive (episodio 10 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 08:14: L en cuclillas sobre la silla del café, jardinera verde detrás.",
+  "para_que": "Confirma la postura exacta descrita en la biblia; paleta cálida dorado-oliva medida (punto 4 y 14).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia."
+ },
+ {
+  "url": "https://archive.org/download/death-note-12/Death%20Note%2012.mp4?t=879",
+  "fuente": "Internet Archive (episodio 12 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 14:39: Misa posando para la cámara, bufanda roja con pendiente en forma de M, labios rojos.",
+  "para_que": "Pose confirmada de Misa para 'celebrar' (punto 14).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia de pose."
+ },
+ {
+  "url": "https://archive.org/download/death-note-02/Death%20Note%2002.mp4?t=1056",
+  "fuente": "Internet Archive (episodio 2 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma 17:36: televisor CRT azul con la letra L gótica en pantalla blanca, la primera revelación de L.",
+  "para_que": "Pose 'presentar sin cara' confirmada al pixel (punto 14).",
+  "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia."
+ },
+ {
+  "url": "https://archive.org/download/DeathNoteTV/02%20-%20Confrontation.mp4?t=984",
+  "fuente": "Internet Archive (DeathNoteTV, ep. 2 «Confrontation»)",
+  "ancho": 960,
+  "alto": 540,
+  "que_es": "Fotograma sacado con fotogramas.py: Light en primer plano de perfil, ceño hundido, mirada fija a la pantalla de su portátil.",
+  "para_que": "Punto 13: fotograma de la rabia de Light (00:16:24), minuto ya confirmado por la biblia.",
+  "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+ },
+ {
+  "url": "https://archive.org/download/DeathNoteTV/37%20-%20New%20World.mp4?t=958",
+  "fuente": "Internet Archive (DeathNoteTV, ep. 37 «New World»)",
+  "ancho": 960,
+  "alto": 540,
+  "que_es": "Fotograma sacado con fotogramas.py: primerísimo plano de Light herido, sangre en la mejilla, ojo muy abierto.",
+  "para_que": "Punto 13: fotograma del miedo/pánico final de Light; minuto corregido de ≈00:18:30 a 00:15:58 tras ver que ese minuto anotado ya mostraba a Ryuk sobre la torre, no a Light.",
+  "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+ },
+ {
+  "url": "https://archive.org/download/DeathNoteTV/15%20-%20Wager.mp4?t=484",
+  "fuente": "Internet Archive (DeathNoteTV, ep. 15 «Wager»)",
+  "ancho": 960,
+  "alto": 540,
+  "que_es": "Fotograma sacado con fotogramas.py: L en cuclillas sobre el respaldo de un banco, descalzo, teléfono en la mano, Light de pie junto a él.",
+  "para_que": "Punto 13: fotograma de la manía/concentración de L; minuto corregido de 00:09:07 a 00:08:04 (un minuto antes en la misma escena de banco).",
+  "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+ },
+ {
+  "url": "https://archive.org/download/DeathNoteTV/01%20-%20Rebirth.mp4?t=1049",
+  "fuente": "Internet Archive (DeathNoteTV, ep. 1 «Rebirth»)",
+  "ancho": 960,
+  "alto": 540,
+  "que_es": "Fotograma sacado con fotogramas.py: primerísimo plano de la cara de Ryuk sonriendo de oreja a oreja, ojos muy abiertos, pupilas rojas.",
+  "para_que": "Punto 13: fotograma de la alegría de Ryuk; minuto corregido de 00:16:12 a 00:17:29 (el minuto anotado mostraba a Light, no a Ryuk).",
+  "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+ },
+ {
+  "url": "https://archive.org/download/DeathNoteTV/16%20-%20Decision.mp4?t=1258",
+  "fuente": "Internet Archive (DeathNoteTV, ep. 16 «Decision»)",
+  "ancho": 960,
+  "alto": 540,
+  "que_es": "Fotograma sacado con fotogramas.py: Misa inmovilizada con correas contra un panel blanco, con antifaz, coletas colgando.",
+  "para_que": "Punto 13: fotograma del miedo de Misa; minuto corregido de 00:03:21 a 00:20:58 (el minuto anotado era una escena de L con Matsuda y otro agente, no la de Misa atada).",
+  "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+ },
+ {
+  "url": "https://archive.org/download/DeathNoteTV/27%20-%20Abduction.mp4?t=121",
+  "fuente": "Internet Archive (DeathNoteTV, ep. 27 «Abduction»)",
+  "ancho": 960,
+  "alto": 540,
+  "que_es": "Fotograma sacado con fotogramas.py: Near en cuclillas sobre una alfombra, mangas remangadas, brazos a media altura, jugando en el suelo.",
+  "para_que": "Punto 13: fotograma de la calma de Near (00:02:01), minuto ya confirmado por la biblia.",
+  "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+  "fuente": "AniList",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Portada oficial del anime en AniList",
+  "para_que": "Arte oficial variado (punto 1)",
+  "licencia": "Derechos del estudio; uso editorial en AniList"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-38e9f0d0c6944557b6ecf2003f5aa4bb",
+  "fuente": "Sketchfab (CG.oum / ayoub.oumahou)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D descargable del cuaderno Death Note, el más popular (134 me gusta)",
+  "para_que": "Referencia 3D con licencia libre del objeto principal (punto 3)",
+  "licencia": "CC Attribution (confirmada por la API v3 de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-cf0ccb0310ea4bdd97122b6183e9e71b",
+  "fuente": "Sketchfab (PotBin)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D descargable de Ryuk",
+  "para_que": "Referencia 3D con licencia libre de un personaje (punto 3)",
+  "licencia": "CC Attribution (confirmada por la API v3 de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-5ebc1b2d188049d18c767283f9c4bdce",
+  "fuente": "Sketchfab (bakhats110)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D descargable de L",
+  "para_que": "Referencia 3D con licencia libre de un personaje (punto 3)",
+  "licencia": "CC Attribution (confirmada por la API v3 de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7d0599365ae141f7b0b65cd55d27a06b",
+  "fuente": "Sketchfab (bakhats110)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D descargable de Light Yagami",
+  "para_que": "Referencia 3D con licencia libre de un personaje (punto 3)",
+  "licencia": "CC Attribution (confirmada por la API v3 de Sketchfab)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Leather026",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura PBR de cuero negro",
+  "para_que": "Textura real para la tapa del cuaderno y la ropa de cuero de Mello/Misa (puntos 4 y 19)",
+  "licencia": "CC0 (confirmado en docs.ambientcg.com/license y en la guía independiente LicenseOrg)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper003",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura PBR de papel",
+  "para_que": "Grano de papel para el cuaderno y para el fondo de la lámina (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://polyhaven.com/textures/leather",
+  "fuente": "Poly Haven",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Set de texturas de cuero, varias variantes",
+  "para_que": "Alternativa CC0 a ambientCG para el cuero de Mello y Misa (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "CLIP STUDIO ASSETS",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "'[FREE] Manga Screentone Pack 1', tramas de puntos y líneas para Clip Studio Paint",
+  "para_que": "Recrear el sombreado con trama del manga (punto 19)",
+  "licencia": "Gratis en Clip Studio Assets, uso con cuenta CSP"
+ },
+ {
+  "url": "https://www.photoshopsupply.com/patterns-textures/halftone-texture",
+  "fuente": "PhotoshopSupply",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Más de 65 pinceles de medio tono (halftone) para Photoshop",
+  "para_que": "Pinceles de trama libres para Photoshop, alternativa a los de CSP (punto 19)",
+  "licencia": "Gratis, uso personal y comercial con atribución"
+ },
+ {
+  "url": "https://hypebeast.com/2021/12/death-note-xlarge-collection-release-info",
+  "fuente": "Hypebeast",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Nota sobre la colección XLARGE × Death Note (2022), con foto de la chamarra varsity de Ryuk",
+  "para_que": "Colaboración de moda con ropa y pose nuevas para Ryuk (punto 23)",
+  "licencia": "Editorial; imágenes de producto de XLARGE"
+ },
+ {
+  "url": "https://www.gamespot.com/articles/e3-2018-naruto-dragon-ball-one-piece-and-death-not/1100-6459612/",
+  "fuente": "GameSpot",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Anuncio de Jump Force con Light Yagami y Ryuk como personajes jugables",
+  "para_que": "Colaboración/crossover de videojuego con arte oficial nuevo (punto 23)",
+  "licencia": "Editorial; arte de Bandai Namco/Spike Chunsoft"
+ },
+ {
+  "url": "https://blog.onemall.jp/2026/04/16/death-note-merchandise-from-japan-2026-collector-buying-guide/",
+  "fuente": "OneMall (guía de coleccionista 2026)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Guía de merchandising oficial: pachislot, Nendoroid, figuras a escala",
+  "para_que": "Figuras oficiales como referencia 3D de pose (punto 23)",
+  "licencia": "Editorial"
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/List_of_Death_Note_figurines",
+  "fuente": "Death Note Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Lista de figuras oficiales de la franquicia por fabricante",
+  "para_que": "Catálogo de figuras oficiales para pose y volumen 3D (punto 23)",
+  "licencia": "Contenido de la wiki bajo CC BY-SA; las figuras en sí son de sus fabricantes"
+ },
+ {
+  "url": "https://www.artstation.com/artwork/OKk2e",
+  "fuente": "ArtStation (Luca Nemolato)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Concept art de Ryuk para la película Netflix 2017",
+  "para_que": "Referencia de fan art/concept art profesional, NO mezclar con el diseño del anime (punto 3)",
+  "licencia": "Derechos del autor; sólo como referencia, nunca para pegar"
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note/Manga_Chapter_Rules",
+  "fuente": "Death Note Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Lista completa de las reglas originales del Death Note, impresas entre los capítulos del manga (volumen por volumen)",
+  "para_que": "Punto 25: las reglas del mundo en cinco líneas, y vocabulario (regla de los 40 segundos, de los 6 minutos 40)",
+  "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom); texto original de Shueisha/Obata citado como referencia"
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/Death_Note_(object)",
+  "fuente": "Death Note Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del objeto Death Note: apariencia, material, portada, uso por shinigami y humanos",
+  "para_que": "Punto 25: descripción exacta del cuaderno para el objeto real de la lámina (el cuaderno sobre la mesa)",
+  "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/Shinigami_Eyes",
+  "fuente": "Death Note Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de los «ojos de shinigami»: trato de la mitad de la vida por ver nombres y años de vida",
+  "para_que": "Punto 25: reglas del mundo y vocabulario propio (Segundo Kira, ojos de shinigami)",
+  "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/Yotsuba_Group",
+  "fuente": "Death Note Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del Grupo Yotsuba: conglomerado empresarial del arco Yotsuba, con su logo corporativo",
+  "para_que": "Punto 25: emblemas y logos de grupos del mundo de Death Note",
+  "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/Japanese_Task_Force",
+  "fuente": "Death Note Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del Task Force japonés (equipo de investigación fundado por L dentro de la policía)",
+  "para_que": "Punto 25: emblemas/insignias de grupos y vocabulario propio",
+  "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/Special_Provision_for_Kira",
+  "fuente": "Death Note Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la SPK (Special Provision for Kira), el equipo de Near",
+  "para_que": "Punto 25: emblemas de grupos y estructura de la historia por arcos",
+  "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/The_Wammy%27s_House",
+  "fuente": "Death Note Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la Casa Wammy, el orfanato que forma a los sucesores de L",
+  "para_que": "Punto 25: vocabulario propio que un fan reconoce al instante",
+  "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Death_Note",
+  "fuente": "Wikipedia (inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo general de Death Note, con la sección Plot que resume la historia completa por arcos",
+  "para_que": "Punto 25: la historia por arcos con sus momentos clave, contrastada con Death Note Wiki",
+  "licencia": "CC BY-SA 4.0"
+ },
+ {
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/Franchise/DeathNote",
+  "fuente": "TV Tropes",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página de franquicia de Death Note: todas las adaptaciones, juegos y medios relacionados",
+  "para_que": "Punto 24: obras y medios relacionados dentro de la propia franquicia; contexto para no repetir con otras biblias",
+  "licencia": "CC BY-NC-SA (TV Tropes)"
+ },
+ {
+  "url": "https://sleepycrossing.neocities.org/longform/takeshi-obata",
+  "fuente": "sleepycrossing.neocities.org (blog de análisis técnico)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis largo de la técnica de dibujo de Takeshi Obata: línea de grosor variable, sombras de oclusión, iluminación de una sola fuente",
+  "para_que": "Punto 18: base para replicar el estilo de línea y sombreado en Photoshop y Blender",
+  "licencia": "Blog personal, sin licencia declarada; usado como referencia de análisis, no de imagen"
+ },
+ {
+  "url": "https://fullfrontal.moe/tetsuro-araki/",
+  "fuente": "fullfrontal.moe",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista larga a Tetsurō Araki, director del anime, sobre sus influencias visuales y la relación con el arte de Obata",
+  "para_que": "Punto 18: cómo se adaptó el estilo de Obata al anime, influencias de iluminación",
+  "licencia": "Artículo periodístico; sólo texto citado, no imagen"
+ },
+ {
+  "url": "https://www.tumblr.com/kiranatrix/190168994761/obata-interviews-on-death-note-character-designs",
+  "fuente": "Tumblr (recopilación de entrevistas a Obata)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Recopilación de citas de Obata sobre el diseño de Ryuk y L, traducidas de entrevistas japonesas",
+  "para_que": "Punto 18: intención de diseño detrás del estilo de los personajes",
+  "licencia": "Recopilación de fan; citas usadas como texto, no imagen"
+ },
+ {
+  "url": "https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga",
+  "fuente": "Inverse",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Perfil de Tsugumi Ohba (guionista bajo seudónimo) con sus influencias declaradas (Fujiko F. Fujio, Akatsuka, Ishinomori) y su relación con Obata",
+  "para_que": "Punto 24: influencias del autor y obras/creadores parecidos",
+  "licencia": "Artículo periodístico; sólo texto citado"
+ },
+ {
+  "url": "https://www.comipress.com/news/2007/01/15/1330",
+  "fuente": "ComiPress",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Traducción de la entrevista original de Shonen Jump a Tsugumi Ohba sobre el origen de la idea de Death Note",
+  "para_que": "Punto 24: cita directa del autor sobre el origen de la obra (dos fuentes con Yahoo)",
+  "licencia": "Artículo periodístico; sólo texto citado"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/RETAS",
+  "fuente": "Wikipedia (inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del software RETAS (Celsys), estándar de animación 2D en estudios japoneses de los 2000",
+  "para_que": "Punto 18: contexto de qué software pudo usar el estudio para el color y el entintado",
+  "licencia": "CC BY-SA 4.0"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Death_Note_original_soundtracks",
+  "fuente": "Wikipedia",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tracklist oficial de las 3 OST (VAP, 2006-2007): pistas «Kyrie», «Kyrie II», «L's Theme», «Low of Solipsism», «Requiem», «Domine Kira», «Misa's Song».",
+  "para_que": "Confirma en una segunda fuente los nombres reales de las pistas que detectó wtas.moe (punto 9).",
+  "licencia": "Wikipedia (CC BY-SA). Sólo referencia de datos."
+ },
+ {
+  "url": "https://wtas.moe/ost/death-note/25",
+  "fuente": "wtas.moe (reconocimiento de audio contra la OST)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Detecta que a partir de 17:13 del episodio 25 suena «Kyrie II», justo tras la muerte de L (17:12).",
+  "para_que": "Es el tema que suena en la escena que más hace llorar al fandom (punto 9 y 21).",
+  "licencia": "Herramienta de terceros. Sólo referencia de datos."
+ },
+ {
+  "url": "https://www.tiktok.com/music/Death-note-light-potato-chips-7140838365938633518",
+  "fuente": "TikTok (página de sonido)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "El sonido «Death note light potato chips»: la frase y música de la escena del ep. 8 usada como audio de fondo en TikTok.",
+  "para_que": "Tendencia de TikTok con enlace directo (punto 10).",
+  "licencia": "TikTok / Madhouse-VAP (audio original). Sólo referencia."
+ },
+ {
+  "url": "https://knowyourmeme.com/memes/just-as-planned",
+  "fuente": "Know Your Meme",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Origen documentado del meme «keikaku doori / Just According to Keikaku» (nota de traductor del fansub del ep. 24).",
+  "para_que": "Explica por qué la cara del ep. 24 (punto 2) es meme mundial (punto 10 y 12).",
+  "licencia": "Know Your Meme. Sólo referencia de datos."
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Death_Note",
+  "fuente": "Doblaje Wiki (api.php, wikitext)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa del doblaje latino: estudio, dirección, casting, traducción, adaptación y reparto completo (personaje/seiyū/voz latina) de los 37 episodios.",
+  "para_que": "Punto 8: nombres verificados de todo el reparto latino, incluidos Rem, Watari, Matsuda y Mikami (antes «no encontré»).",
+  "licencia": "Wiki de fans (CC BY-SA vía Fandom)."
+ },
+ {
+  "url": "https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish)",
+  "fuente": "The Dubbing Database (api.php, wikitext)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Segunda ficha del doblaje latino: reparto completo, estudio de grabación (Mystic Sound/Fogarty Studios) y canales/plataformas donde se emitió o se ve.",
+  "para_que": "Punto 8: segunda fuente para cada nombre de actor de doblaje, y lista de plataformas oficiales (Netflix, Crunchyroll, Pluto TV, HBO Max, Amazon Prime Video, Mercado Play).",
+  "licencia": "Wiki de fans (CC BY-SA vía Fandom)."
+ },
+ {
+  "url": "https://anilist.co/anime/1535",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Favoritos en vivo por personaje (L 26 512, Light 20 343, Ryuk 7 079, Misa 7 010, Mello 2 492, Near 2 473, Matsuda 1 203).",
+  "para_que": "Punto 7: quién es el más querido, confirma que L supera a Light y que Ryuk es el secundario más reconocible.",
+  "licencia": "Datos abiertos de la comunidad AniList."
+ },
+ {
+  "url": "https://anilist.co/character/71",
+  "fuente": "AniList (ficha de personaje: L Lawliet)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de L: altura (179 cm), cumpleaños (31 oct), personalidad y relaciones.",
+  "para_que": "Punto 20: tabla de gustos, cumpleaños y altura de cada personaje.",
+  "licencia": "Datos abiertos de la comunidad AniList; personaje © Ohba/Obata/Shueisha."
+ },
+ {
+  "url": "https://deathnote.fandom.com/wiki/Ryuk",
+  "fuente": "Death Note Wiki (Fandom, api.php)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de Ryuk con su altura real (230 cm, tomada del settei/hoja de modelo del anime) y personalidad.",
+  "para_que": "Punto 20: altura de Ryuk, que AniList no trae.",
+  "licencia": "Wiki de fans (CC BY-SA vía Fandom); datos citan el settei oficial de Madhouse."
+ },
+ {
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/DeathNote",
+  "fuente": "TV Tropes (navegado con navegar.py)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Recopilación de las escenas que hacen llorar a los fans: muerte de L y Watari (ep. 25), suicidio de Naomi Misora (ep. 7), muerte de Misa (implícita, final) y muerte de Light y Mikami (ep. 37).",
+  "para_que": "Punto 21: tabla de escenas que hacen llorar, con qué pasa y por qué duele.",
+  "licencia": "Wiki de fans, contenido editado por la comunidad."
+ },
+ {
+  "url": "https://www.reddit.com/r/deathnote/comments/1pmllij/its_touta_matsudas_birthday_today_hes_my_favorite/",
+  "fuente": "Reddit r/deathnote (vía Arctic Shift)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Hilo con 238 votos celebrando el cumpleaños de Matsuda como personaje favorito.",
+  "para_que": "Punto 7 y 21: Matsuda como secundario más querido/identificable, no sólo L.",
+  "licencia": "Contenido público de Reddit, citado con enlace."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=mslIXaFIqY8",
+  "fuente": "YouTube (canal p777pdc)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cover del opening 1 «The World» en español latino, 3,6 millones de vistas.",
+  "para_que": "Punto 22: el fandub/cover más visto encontrado de la serie en español.",
+  "licencia": "Vídeo de fans; música © Nightmare/VAP, sólo como referencia, no descargable para la lámina."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=JiU9erFknLg",
+  "fuente": "YouTube (canal Omar Cabán -YuriFoX-)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cover del opening 1 «The World» en español latino, 3,4 millones de vistas (2013).",
+  "para_que": "Punto 22: segundo cover más visto encontrado.",
+  "licencia": "Vídeo de fans; sólo como referencia."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=dXEMsibyrmw",
+  "fuente": "YouTube (canal El Canolexx)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Parodia/análisis cómico «SI KIRA TUVIERA EL EGO HASTA LAS NUBES», 1,3 millones de vistas.",
+  "para_que": "Punto 12 y 22: qué ama y de qué se ríe el fandom hispano (el ego de Light, no Ryuk ni L).",
+  "licencia": "Vídeo de fans; sólo como referencia."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=IXwqj7g9rWk",
+  "fuente": "YouTube (canal anadanielapotter15)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Recorte de la escena doblada al latino de «la papa frita/fritura» (ep. 8), 147 mil vistas.",
+  "para_que": "Punto 8: confirma la palabra «fritura» del doblaje latino con un clip real del audio.",
+  "licencia": "Recorte de fan del doblaje oficial; sólo como referencia de audio, no para usar la imagen."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=rIc7gVUzUBY",
+  "fuente": "YouTube (canal JUANELO GOKU)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Escena doblada al latino donde L seca los pies de Light (ep. 25, la del «寂しいですね»).",
+  "para_que": "Punto 13: fotograma/escena de la tristeza de L, con audio latino.",
+  "licencia": "Recorte de fan del doblaje oficial; sólo como referencia."
+ },
+ {
+  "url": "https://safebooru.org/images/2566/b326774b57e6f69bead70be6b2103576d44db236.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 9764,
+  "alto": 5485,
+  "que_es": "Fan art de remilia_scarlet (https://t.bilibili.com/1022684502637412354)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqmexp.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 8000,
+  "alto": 5641,
+  "que_es": "Fondo de pantalla (anime boys, anime games, anime girls, Game CG, crossover, armor)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 18064624063; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/1032/c432730ceb4d01220ae193763069077dc70c68a9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4937,
+  "alto": 8000,
+  "que_es": "Fan art de near_(death_note) (http://gallery.minitokyo.net/view/635498)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/0p/wallhaven-0p6kzp.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5000,
+  "alto": 3541,
+  "que_es": "Fondo de pantalla (manga, anime, One Piece, Naruto Shippuden, Dragon Ball, Dragon Ball Z)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Gattaca95; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/g7/wallhaven-g79mkd.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2896,
+  "alto": 4494,
+  "que_es": "Fondo de pantalla (anime, anime girls, Death Note, Misa Amane, Tokkyu (artista), artwork)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Kisarashi; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/245/031b3a0b0bbf176e2b66915cb9831a6adf60e170.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3124,
+  "alto": 4000,
+  "que_es": "Fan art de yagami_light (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/7c7e0e9dc2309b0833c68e11e72d782b90f71a1c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3037,
+  "alto": 4096,
+  "que_es": "Fan art de remilia_scarlet (https://twitter.com/tasotasoyan00/status/1817092557639229889)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/d/dd/9078.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 4104,
+  "alto": 2736,
+  "que_es": "Light Yagami: 9078.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1567/1d648ceffbf7daccbcf938df77a6ff2d1488f1e7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2537,
+  "alto": 4000,
+  "que_es": "Fan art de remilia_scarlet (https://twitter.com/MireHasu/status/1982016614280380466)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/7/76/299276L.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 2088,
+  "alto": 4608,
+  "que_es": "L (character): 299276L.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1300/a870946890589370402c054e7d1e81e87d88d852.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2480,
+  "alto": 3859,
+  "que_es": "Fan art de near_(death_note) (https://twitter.com/ichigo107256/status/1931720800719220883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/w8/wallhaven-w8zpdp.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3600,
+  "alto": 2544,
+  "que_es": "Fondo de pantalla (artwork, pixel art, Power Rangers, Joker (DC), Alice in Wonderland, Pikachu)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/x8/wallhaven-x8oz6v.png",
+  "fuente": "Wallhaven",
+  "ancho": 2250,
+  "alto": 4000,
+  "que_es": "Fondo de pantalla (anime girls, anime, Misa Amane, Death Note, cleavage, red eyes)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Zains; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/xe/wallhaven-xe8pwd.png",
+  "fuente": "Wallhaven",
+  "ancho": 2076,
+  "alto": 4096,
+  "que_es": "Fondo de pantalla (Death Note, Misa Amane, Rem (Death Note), blonde, red eyes, illustration)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Ramces; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/x1/wallhaven-x1xy9l.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Accel World, Elric Alphonse, Shingeki no Kyojin, Bleach, Blue Exorcist, Code Geass)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por BAZZAZ; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/284/ae23972224cf4138d62df9c6f32b3649075a4eaa.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2017,
+  "alto": 3118,
+  "que_es": "Fan art de near_(death_note) (https://i.pximg.net/img-original/img/2025/06/20/23/50/38/131783826_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3416/b81c4138f6d99a85b95ceceb96e134164c3789c1.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2376,
+  "alto": 2606,
+  "que_es": "Fan art de amane_misa (https://i.pximg.net/img-original/img/2021/07/19/21/50/13/91358638_p1.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/9bbb1d3c08b662617ee80e05244e1f74b00a86cf.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2340,
+  "alto": 2486,
+  "que_es": "Fan art de hakurei_reimu (https://twitter.com/Yoiy_san/status/1813931267156832447)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4123/d9bec16c39cb4d5feeda1d7dc67ed0b09afa0039.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2279,
+  "alto": 2536,
+  "que_es": "Fan art de near_(death_note) (https://www.pixiv.net/artworks/133000871)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/og/wallhaven-ogdg9p.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 2776,
+  "que_es": "Fondo de pantalla (Misa Amane, Rem (Death Note), frame, black clothing, drawing, portrait display)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por lumberjacck; © su autor"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/1/1d/Nearfull.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1409,
+  "alto": 3472,
+  "que_es": "Near: Nearfull.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/289/6e494e15cb4a0091a9927e90151842507f7b8ad4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Fan art de near_(death_note) (https://twitter.com/Miko_HEB/status/1928836953874772061)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2998/408b0aff0b2410b8868da37cf0edfcbdcb8b788b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de hakurei_reimu (https://twitter.com/HrusaArt/status/1275917408251908096)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p9/wallhaven-p9qvge.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Makima (Chainsaw Man), Chainsaw Man, Death Note, Ryuk (Death Note), train, redhead)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por gorzius; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/3092/5c17028e505f0281cafd712fbd26a73ca6cf82fc.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2356,
+  "alto": 1452,
+  "que_es": "Fan art de hakurei_reimu (https://twitter.com/Linmiee/status/1311501032304902144)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3586/0fa66f1b1d6ff1071d06c25f23d3a9a11ac65f2a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1639,
+  "alto": 2048,
+  "que_es": "Fan art de amane_misa (https://twitter.com/vlfdus__0/status/1463455903366418432)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/6/61/Misa_amane_drama.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1467,
+  "alto": 2200,
+  "que_es": "Misa Amane: Misa amane drama.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/3/32/Drama_promo_Misa_01.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1467,
+  "alto": 2200,
+  "que_es": "Misa Amane: Drama promo Misa 01.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/61e59e156a6515603097fc412d992145db28ee04.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1589,
+  "alto": 2010,
+  "que_es": "Fan art de amane_misa (https://i.pximg.net/img-original/img/2024/05/26/03/33/07/119054856_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Fan art de hatsune_miku (https://x.com/siro_itigo_o/status/1805557196505465262)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/6/61/LightYagamiLiveAction.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1672,
+  "alto": 1866,
+  "que_es": "Light Yagami: LightYagamiLiveAction.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1030/af4ed329d6144dc9f5cfe37354c4702cdff97899.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1505,
+  "alto": 2048,
+  "que_es": "Fan art de yagami_light (https://twitter.com/fckdup_asht/status/1881353648233763057)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/a/a9/Manga_character_icon_Near.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1583,
+  "alto": 1891,
+  "que_es": "Near: Manga character icon Near.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/c/c0/Musical_Korean_promo_Light.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 2000,
+  "alto": 1429,
+  "que_es": "Light Yagami: Musical Korean promo Light.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/f/fc/Musical_Korean_promo_Light_and_Ryuk.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1429,
+  "alto": 2000,
+  "que_es": "Ryuk: Musical Korean promo Light and Ryuk.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/f/f5/Musical_promo_L.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 2048,
+  "alto": 1365,
+  "que_es": "L (character): Musical promo L.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/a/a9/Netflix_Light_promo.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 2000,
+  "alto": 1375,
+  "que_es": "Light Yagami: Netflix Light promo.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3267/fb5e94fe8cf4c46d18743ac824bad173e8a21319.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1142,
+  "alto": 2047,
+  "que_es": "Fan art de amane_misa (https://i.pximg.net/img-original/img/2021/02/09/21/01/34/87648047_p1.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/63ed6f32a9d046586128ece45e2d36e0779f11f6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1400,
+  "alto": 1600,
+  "que_es": "Fan art de near_(death_note) (https://twitter.com/Kinutaku_/status/1838207416607142186)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/3/39/Shinigami_Eyes-2.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Light Yagami: Shinigami Eyes-2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/2/27/Light%27s_Death.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Light Yagami: Light's Death.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/9/9c/Light_yagami.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Light Yagami: Light yagami.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/7/72/Death_Note_37_Final.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Light Yagami: Death Note 37 Final.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/7/75/Say-wut-death-note-2219769-640-360.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "L (character): Say-wut-death-note-2219769-640-360.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/a/a6/L_kicks_Light.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "L (character): L kicks Light.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/7/75/22.png",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "L (character): 22.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/8/88/Rem_talks_to_Misa.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Misa Amane: Rem talks to Misa.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/9/9e/Misa.erika.toda.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Misa Amane: Misa.erika.toda.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/4/4f/Misa_%28interrogation%29.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Misa Amane: Misa (interrogation).jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/c/cd/Near_police_toy.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Near: Near police toy.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/c/c4/Near_Vs_Light.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Near: Near Vs Light.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4/430337f3cc5c8f67ba32c687bb632968470a0f77.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de remilia_scarlet (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/28/wallhaven-28j5dm.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Darling in the FranXX, Zero Two (Darling in the FranXX), Overlord (anime), Albedo (OverLord), Date A Live, Tokisaki Kurumi)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por bubbleboba; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/dp/wallhaven-dpgdp3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (city, Naruto (anime), One Piece, Spider-Man, Boku no Hero Academia, The Simpsons)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por káká311610; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ym/wallhaven-ym2eqx.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Bleach, anime, Uzumaki Naruto, Gon Freecss, Rurouni Kenshin, Koro-sensei)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Phantom1188; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/43/wallhaven-43k193.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Naruto Shippuden, anime, Fullmetal Alchemist, Samurai Champloo, Soul Eater, Spirited Away)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Galactigus; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/0w/wallhaven-0wgqyx.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Death Note, Yagami Light, Ryuk (Death Note), anime, food, apples)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por LegendofVault13; © su autor"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213190/ss_2d287e37e3cb00553e78beba0aadd68a6283ed47.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213190/ss_9b9f898c41e66173d0927750796b7d997545b091.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213190/ss_427a9f56562d4a45862ecaf3d5514ac9c4bc468f.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213190/ss_c738e2be1149fc7616475a1926bf43f63af99027.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213190/ss_f1743befc458c84fe83e1471d7f376481c9ece7a.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213190/ss_9fcbd1a7af534e64bb41fec90f35f6adf392eca3.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950900/ss_c3066f311b43eada75eae96d80fc7671345a9e62.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: Light Yagami (Último episodio)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950900/ss_49288ebc177a060f8aae55efca62bfaead95370a.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: Light Yagami (Último episodio)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950950/ss_ec959ebf98733afcb5a4a806965a1cc4f03347e3.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Paquete de accesorios",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950950/ss_6da0976f9a4736974b894ec0e46e6b20f3f3c6b7.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Paquete de accesorios",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950950/ss_a4308fbbcde4f8f8b9805983ccb3bb6867c8d6e4.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Paquete de accesorios",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950950/ss_82efec5d4efcb96bd44e653fcd267be9ddd5d110.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Paquete de accesorios",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950950/ss_82b8074a1b959e91dacedad3b5adfc7a93ccd179.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Paquete de accesorios",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950950/ss_1832dafbe2e3909bdb00df4edac7f2bbcb92d5e4.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Paquete de accesorios",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950910/ss_321b8cbdda30bb751d7b6ecd4f07cee792b890b1.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: L (Silla)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950910/ss_eb6f1fd9befd99ce6f12addcafb6ccc08eb41b95.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: L (Silla)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951050/62ca0be867c4e09270223a642945607608f3b469/ss_62ca0be867c4e09270223a642945607608f3b469.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: L (Traje de baño)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951050/8d759901dbdfe25fa0fb6d13c2d9edaeeb52397c/ss_8d759901dbdfe25fa0fb6d13c2d9edaeeb52397c.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: L (Traje de baño)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951050/e747b13e44a9a8f49e549167dcbdaa07da584e80/ss_e747b13e44a9a8f49e549167dcbdaa07da584e80.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: L (Traje de baño)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950970/ss_ea6093ea17db6e7f5dd26db980a58cd821450195.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: L (Reno)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950970/ss_c66f563bef0ed6a8f439dbec3ed9583ed532e96a.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de DEATH NOTE Asesino Interior - Avatar Premium: L (Reno)",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/0/0f/L_illusion_37.jpeg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1878,
+  "alto": 1080,
+  "que_es": "L (character): L illusion 37.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3705/499933357de6045bc4518403d8dd3ca82a014afd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1191,
+  "alto": 1684,
+  "que_es": "Fan art de hakurei_reimu (https://twitter.com/Gunjou_row/status/1494718191352037377)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3958/01de017edc3f8746c3207c50eefd8d00ee49f5b6.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1191,
+  "alto": 1684,
+  "que_es": "Fan art de kirisame_marisa (https://i.pximg.net/img-original/img/2022/09/08/00/16/01/101070949_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3958/a8c7d67a4a7cf2a2267c93ccc20851d07c8b89db.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1191,
+  "alto": 1684,
+  "que_es": "Fan art de kirisame_marisa (https://i.pximg.net/img-original/img/2022/09/08/15/33/11/101080675_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 516,
+  "alto": 3642,
+  "que_es": "Fan art de hatsune_miku (http://img03.pixiv.net/img/matilda/990992.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/f/f6/Light%27s_Death_%28MANGA%29.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1520,
+  "alto": 1200,
+  "que_es": "Light Yagami: Light's Death (MANGA).jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/7/70/L_Death_Manga.jpeg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1519,
+  "alto": 1200,
+  "que_es": "L (character): L Death Manga.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/835/6aa7f8209f66c0d6ab43fb1df28405f2aee3db59.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 480,
+  "alto": 3600,
+  "que_es": "Fan art de yagami_light (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/5/54/Musical_Korean_2017_promo_Misa.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1080,
+  "alto": 1451,
+  "que_es": "Misa Amane: Musical Korean 2017 promo Misa.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/e/e8/008sH9TQgy1hqptt8kah5j30oj1bqk7i.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 883,
+  "alto": 1718,
+  "que_es": "L (character): 008sH9TQgy1hqptt8kah5j30oj1bqk7i.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1016/4f4f48e27ff2cabd4cb32e432d888c9c6ff2f51f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1424,
+  "alto": 999,
+  "que_es": "Fan art de ryuk (http://garththedestroyer.deviantart.com/art/We-Have-Arrived-117038621)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/e/ed/Musical_Korean_promo_Misa.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1000,
+  "alto": 1400,
+  "que_es": "Misa Amane: Musical Korean promo Misa.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1395,
+  "que_es": "Fan art de hatsune_miku (http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/0/00/Jumpforcelight2.png",
+  "fuente": "Fandom deathnote",
+  "ancho": 1600,
+  "alto": 850,
+  "que_es": "Ryuk: Jumpforcelight2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1091/a557773dd415856b9bfcbcbb7dc84b0f87b234f6.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 911,
+  "alto": 1400,
+  "que_es": "Fan art de kirisame_marisa (http://i1.pixiv.net/img05/img/littlefinger1988/39850402.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/5/57/Musical_Korean_2015_L_2.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1200,
+  "alto": 975,
+  "que_es": "L (character): Musical Korean 2015 L 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/e/e7/LNW_character_Misa.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 852,
+  "alto": 1279,
+  "que_es": "Misa Amane: LNW character Misa.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/7/7b/Episode-1-Rebirth-death-note-22008500-1391-782.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1391,
+  "alto": 782,
+  "que_es": "Ryuk: Episode-1-Rebirth-death-note-22008500-1391-782.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/3/3d/Ryuk_%28films%29.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 944,
+  "alto": 1079,
+  "que_es": "Ryuk: Ryuk in film.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/5/54/Misa_and_Rem_discuss_Kira.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 970,
+  "alto": 1028,
+  "que_es": "Misa Amane: Misa and Rem discuss Kira.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/3/35/Musical_Korean_2017_Ryuk.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 800,
+  "alto": 1200,
+  "que_es": "Ryuk: Musical Korean 2017 Ryuk.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de hatsune_miku (http://img11.pixiv.net/img/nekogamisama/1837016.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/2352/2475082045_90cf9d9b19_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1000,
+  "alto": 960,
+  "que_es": "Death note cosplay",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor @south_fellow"
+ },
+ {
+  "url": "https://live.staticflickr.com/2283/2389058720_58c87bc460_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 868,
+  "que_es": "Ryuk of Death Note",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor heath_bar"
+ },
+ {
+  "url": "https://live.staticflickr.com/4111/5193558543_69141f173d_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 810,
+  "que_es": "MISA AMANE (DEATH NOTE)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+ },
+ {
+  "url": "https://live.staticflickr.com/4129/5193559463_112335dddb_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 810,
+  "que_es": "REM (DEATH NOTE)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+ },
+ {
+  "url": "https://live.staticflickr.com/4113/5019805748_74934d80a5_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 810,
+  "que_es": "NATE RIVER / NEAR (DEATH NOTE)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+ },
+ {
+  "url": "https://live.staticflickr.com/4140/4931439481_c8a589656e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 810,
+  "que_es": "TERU MIKAMI (DEATH NOTE)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor animepapertoys"
+ },
+ {
+  "url": "https://safebooru.org/images/120/003313fbb3a4fca6728f856df84ee256eaa39e60.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 800,
+  "que_es": "Fan art de kirisame_marisa (http://img10.pixiv.net/img/wagocolo/6692388.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/a/a9/Drama_promo_Near_Mello_L.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Near: Drama promo Near Mello L.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/199/446486448_22ff5c6bc1_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Death Note Mangas",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Kouran"
+ },
+ {
+  "url": "https://live.staticflickr.com/3125/2870484555_6663a98818_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 764,
+  "alto": 1024,
+  "que_es": "L, Light/Kira, Ryuk, Misa (from Death Note)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor DocChewbacca"
+ },
+ {
+  "url": "https://safebooru.org/images/231/59991dcb308695f5e2e098a38849a626c18fdac8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 978,
+  "alto": 757,
+  "que_es": "Fan art de kirisame_marisa (http://img08.pixiv.net/img/tubane/3788440.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/475/3908e2d068464ddf1ddee62887db54134ab52803.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 719,
+  "alto": 1000,
+  "que_es": "Fan art de ryuk (http://img33.pixiv.net/img/saipin/13000916.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/7263/13343884495_f11910875c_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Death Note cosplay",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Japanexperterna.se"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/52442319949_88ae641942_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Misa Amane - Death Note",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor timz2011"
+ },
+ {
+  "url": "https://safebooru.org/images/229/50dbfdab8e679bf20646881736eea3871ea42cd3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 867,
+  "alto": 748,
+  "que_es": "Fan art de yagami_light (http://www.pixeljoint.com/files/icons/full/mangawar.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1615/7234451649f2a1d76319be972382c690.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 800,
+  "que_es": "Fan art de ryuk (http://i3.pixiv.net/img-original/img/2014/02/28/12/29/31/41917082_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/d/dd/Hello_mello.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 744,
+  "alto": 830,
+  "que_es": "Near: Hello mello.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/3/33/Nears_Research.JPG",
+  "fuente": "Fandom deathnote",
+  "ancho": 730,
+  "alto": 800,
+  "que_es": "Near: Nears Research.JPG",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/4387/37006960955_a1afdd0911_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 541,
+  "que_es": "Death Note Review!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor AntMan3001"
+ },
+ {
+  "url": "https://safebooru.org/images/3281/6732aed98bf51548f1e60063706dc31c50f52fe4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 612,
+  "que_es": "Fan art de amane_misa (https://i.pximg.net/img-original/img/2021/03/21/00/00/01/88588556_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4093/b1ca9c6bfceb92167188cf8488a6c29ce8f090b7.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 768,
+  "alto": 656,
+  "que_es": "Fan art de remilia_scarlet (https://twitter.com/kirai_s/status/1630533937343922176)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/2/2f/Near_drama.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 600,
+  "alto": 820,
+  "que_es": "Near: Near drama.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/1/12/Ryuk_Nendoroid.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 791,
+  "alto": 600,
+  "que_es": "Ryuk: Ryuk Nendoroid.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/6/65/NearCardTowers.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 669,
+  "alto": 680,
+  "que_es": "Near: NearCardTowers.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/0/06/L_Number_2.JPG",
+  "fuente": "Fandom deathnote",
+  "ancho": 711,
+  "alto": 607,
+  "que_es": "Near: L Number 2.JPG",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1966/37f0e513f62fca1c700e61c2334a97295a116312.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 672,
+  "alto": 570,
+  "que_es": "Fan art de ryuk (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/a/aa/Musical_promo_Ryuk.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 640,
+  "alto": 427,
+  "que_es": "Ryuk: Musical promo Ryuk.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/746/89b1246c1e11cfcbd94f4c5a8c9c9b37.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 424,
+  "alto": 600,
+  "que_es": "Fan art de kirisame_marisa (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/4482/37970835421_fe5083018c.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "DEATH NOTE by HOBBYBRICK",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-ND 2.0, autor master.hobbybrick"
+ },
+ {
+  "url": "https://live.staticflickr.com/4457/37970833931_1f0dd4831c.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "DEATH NOTE by HOBBYBRICK",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-ND 2.0, autor master.hobbybrick"
+ },
+ {
+  "url": "https://live.staticflickr.com/4459/37261078444_676c6d564a.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "DEATH NOTE by HOBBYBRICK",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-ND 2.0, autor master.hobbybrick"
+ },
+ {
+  "url": "https://live.staticflickr.com/4458/37970833191_057a96766a.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "DEATH NOTE by HOBBYBRICK",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-ND 2.0, autor master.hobbybrick"
+ },
+ {
+  "url": "https://live.staticflickr.com/4511/37970834271_a8ffe5ee27.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "DEATH NOTE by HOBBYBRICK",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-ND 2.0, autor master.hobbybrick"
+ },
+ {
+  "url": "https://live.staticflickr.com/4454/37970834671_3a43c8ff67.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "DEATH NOTE by HOBBYBRICK",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-ND 2.0, autor master.hobbybrick"
+ },
+ {
+  "url": "https://live.staticflickr.com/1386/977503532_21e808bbf6.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 408,
+  "alto": 500,
+  "que_es": "L - Death Note",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Sabrina Eras"
+ },
+ {
+  "url": "https://live.staticflickr.com/1340/967921854_819318bd2a.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 403,
+  "alto": 500,
+  "que_es": "L - Death Note",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Sabrina Eras"
+ },
+ {
+  "url": "https://live.staticflickr.com/53/133214269_5645050f22.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 333,
+  "alto": 500,
+  "que_es": "「DEATH NOTE デスノート」 戸田恵梨香",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor diorpro"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/deathnote/images/0/0f/Netflix_character_icon_Ryuk.jpg",
+  "fuente": "Fandom deathnote",
+  "ancho": 400,
+  "alto": 400,
+  "que_es": "Ryuk: Netflix character icon Ryuk.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/530/016954a3e3fbb96017ffe378ca592a82a811a6e4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 350,
+  "alto": 302,
+  "que_es": "Fan art de ryuk (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/283/389a4ea473fcfe8b3267c65f2c24df85ed030c81.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 340,
+  "alto": 255,
+  "que_es": "Fan art de yagami_light (http://www.moeboard.net/egoboard/_db/moe/moe_200806065117387.gif)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1130/2d1ff495df3d6a1866dfe958b2002d00045b067d.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 300,
+  "alto": 225,
+  "que_es": "Fan art de remilia_scarlet (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/428/0b35e8bf6ad65110d933dd6cae9f75fa198e1aa5.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 298,
+  "alto": 167,
+  "que_es": "Fan art de yagami_light (gurochan.net)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de L Lawliet",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Light Yagami",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ryuk",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Misa Amane",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mihael Keehl",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Nate River",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Narrator",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n1906-JCWKEGGook3Z.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Touta Matsuda",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n1905-9GfCvLFKNRLR.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rem",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n1904-xKw2NgiE6VbU.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Teru Mikami",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4959-DKXw1VYrvael.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Naomi Misora",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n2730-SNbfxShpg90k.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mail Jeevas",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1927-iaIWrFITyeJw.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Souichirou Yagami",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n2179-qF49l5qEurt5.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Quillsh Wammy",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Stephen Loud",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1535.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ce97ca797b0a4be9894fe2d9af10a717",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Equestrian Statue of Marcus Aurelius de leifchri92",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2e43f0984c7949d8b6f02ece61212492",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Attack on Titan de Calfan",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3dd606936ef04ac89914c633efa7e85e",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: The Master Sword de Calfan",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9d98c78fdeca4846a91b3e474bd5d038",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Death Note de rengokukyojuro",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-1cd318ea6cba460695b762a606b4a4ce",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Crime Board de Brian Trepanier",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d6c51fac3b484c9e890d6717e1feda0a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Light Yagami de adeladeeeeeeeeeeeeeel",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d0297c39f763468cb09590c4b073d35b",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: ### Title The Golden Skull    ###      The Golde de klrxyz",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3c21e12167fc482db5f5512eb34aff00",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: RYUK de Theo_Prodger",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7acb4b1db5d745f4a734686a469cbb89",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: ryuk death note de Shah Bakhat026",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/DEATH%20NOTE",
+  "fuente": "GitHub (kitsunekko-mirror)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Subtítulos de los 37 episodios: japonés de Netflix, inglés de fans (1-24) y letras de OP/ED.",
+  "para_que": "Dan el minuto exacto de cada escena de §2 y §15. Base de toda la biblia.",
+  "licencia": "Subtítulos subidos por terceros. Sólo consulta."
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2023-02-18/viz-media-youtube-channel-adds-death-note-inuyasha-hunter-x-hunter-more-anime/.195055",
+  "fuente": "Anime News Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Noticia: los 37 episodios, gratis en el canal de YouTube de Viz (EE. UU.).",
+  "para_que": "De ahí se sacan los fotogramas en HD de §2 y §15.",
+  "licencia": "© Viz Media / Madhouse / VAP. Sólo referencia."
+ },
+ {
+  "url": "https://www.netflix.com/title/70204970",
+  "fuente": "Netflix",
+  "ancho": null,
+  "alto": null,
+  "que_es": "El anime Death Note en Netflix (con doblaje latino según la región).",
+  "para_que": "Escuchar las frases latinas antes de rotularlas; sacar fotogramas.",
+  "licencia": "© Madhouse / VAP / Shūeisha. Sólo referencia."
+ },
+ {
+  "url": "https://www.hlj.co.jp/product/SYU82146",
+  "fuente": "HLJ",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del artbook de Takeshi Obata «blanc et noir» (Shūeisha, 2006, B4, 168 páginas).",
+  "para_que": "La mejor referencia oficial de pose y color de los personajes.",
+  "licencia": "© Takeshi Obata / Shūeisha. No pegar."
+ },
+ {
+  "url": "https://www.viz.com/shonenjump/chapters/death-note-short-stories",
+  "fuente": "Viz Media",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Death Note: Short Stories, con «a-Kira Story» (Ryuk vuelve al mundo humano).",
+  "para_que": "Arte de Ryuk reciente de Obata.",
+  "licencia": "© Ohba, Obata / Shūeisha. Sólo referencia."
+ },
+ {
+  "url": "https://www.bandainamcoent.com/games/death-note-killer-within",
+  "fuente": "Bandai Namco",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Web oficial de Death Note: Killer Within (2024), con su arte clave.",
+  "para_que": "Arte oficial reciente de Kira y L; interfaz del juego.",
+  "licencia": "© Bandai Namco / Ohba, Obata. Sólo referencia."
+ },
+ {
+  "url": "https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/",
+  "fuente": "Steam",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página de Killer Within con capturas.",
+  "para_que": "Ver la interfaz y cómo se muestra el cuaderno en el juego.",
+  "licencia": "© Bandai Namco. Sólo referencia."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/notebook-of-death-cee405b6e2a544e1a819bbc514233090",
+  "fuente": "Sketchfab (Kasuga)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D del cuaderno (2025).",
+  "para_que": "Mirar grosor, lomo y tapa para modelar el cuaderno de la lámina.",
+  "licencia": "CC BY según la búsqueda; comprobar en la página. Crédito: Kasuga (@kasuga)."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/death-note-38e9f0d0c6944557b6ecf2003f5aa4bb",
+  "fuente": "Sketchfab (CG.oum)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D del cuaderno (2020).",
+  "para_que": "Alternativa de referencia para el cuaderno.",
+  "licencia": "CC BY según la búsqueda; comprobar. Crédito: CG.oum (@ayoub.oumahou)."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/death-note-d82d6546f5994f128147748487f64ca8",
+  "fuente": "Sketchfab (ParaGO)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D del cuaderno (2024).",
+  "para_que": "Alternativa de referencia.",
+  "licencia": "CC BY según la búsqueda; comprobar. Crédito: ParaGO."
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Wood039",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura PBR de madera.",
+  "para_que": "Escritorio de Light.",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://github.com/google/fonts/tree/main/ofl/unifrakturmaguntia",
+  "fuente": "Google Fonts (GitHub)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "UnifrakturMaguntia: gótica libre, con tildes, ñ, ¿ y ¡ (comprobado).",
+  "para_que": "La «L» de L y el título «Textos».",
+  "licencia": "OFL"
+ },
+ {
+  "url": "https://github.com/google/fonts/tree/main/ofl/imfellenglish",
+  "fuente": "Google Fonts (GitHub)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "IM Fell English: imprenta vieja, con tildes, ñ, ¿ y ¡ (comprobado).",
+  "para_que": "Las reglas del canal en la página del cuaderno.",
+  "licencia": "OFL"
+ },
+ {
+  "url": "https://github.com/google/fonts/tree/main/ofl/kalam",
+  "fuente": "Google Fonts (GitHub)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Kalam: letra a mano ordenada, con tildes, ñ, ¿ y ¡ (comprobado).",
+  "para_que": "La ficha escrita a mano, como Light escribe los nombres.",
+  "licencia": "OFL"
+ },
+ {
+  "url": "https://blog.textstudio.com/death-note-font/",
+  "fuente": "TextStudio",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo: la «L» de L es Cloister Black; el logo es gótico.",
+  "para_que": "Elegir la letra libre equivalente.",
+  "licencia": "Artículo. Sólo consulta."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=8V1szEGOGTs",
+  "fuente": "YouTube",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip «LIGHT: ¡¡TOMO UNA FRITURA Y LA COMO!!» del doblaje latino.",
+  "para_que": "Confirmar la frase latina de la papa (ep. 8, 00:18:35).",
+  "licencia": "© Viz / Madhouse. Sólo consulta."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=Mbc2Axk5v20",
+  "fuente": "YouTube",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista a Hugo Núñez, voz latina de L.",
+  "para_que": "Cómo se hizo la voz de L en latino.",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://www.tiktok.com/@bruno_coronel/video/7125570347570564358",
+  "fuente": "TikTok (Bruno Coronel)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "El propio actor, voz latina de Near.",
+  "para_que": "Segunda fuente de la voz de Near.",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://www.tiktok.com/@rebecagomez_voz/video/7124101453160975621",
+  "fuente": "TikTok (Rebeca Gómez)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "La propia actriz, voz latina de Misa.",
+  "para_que": "Fuente de la voz de Misa y cómo la interpreta.",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://knowyourmeme.com/memes/just-according-to-keikaku",
+  "fuente": "Know Your Meme",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Origen del meme «Just according to keikaku» (ep. 24) y de la papa frita.",
+  "para_que": "Lo que el fandom reconoce (§14).",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://nlab.itmedia.co.jp/research/articles/118759/",
+  "fuente": "ねとらぼ (Nlab)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Encuesta 2021: L 1.º (397 votos), Light 2.º (272).",
+  "para_que": "Decidir quién es el más querido (§9).",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://www.anitabi.jp/works/296",
+  "fuente": "AniTabi",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Mapa de lugares reales del anime con capturas.",
+  "para_que": "Fondos y sitios (§5.1).",
+  "licencia": "Capturas © Madhouse. Sólo referencia."
+ },
+ {
+  "url": "https://www.animepilgrimage.com/ja/map?data=death-note",
+  "fuente": "Anime Pilgrimage",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Mapa con 24 lugares de Death Note.",
+  "para_que": "Fondos y sitios reales de Tokio.",
+  "licencia": "Sólo referencia."
+ },
+ {
+  "url": "https://www.artstation.com/artwork/442E1",
+  "fuente": "ArtStation (Sheridan Doose)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fan art de Ryuk y Light.",
+  "para_que": "Referencia de composición de la pareja. Mirar, no pegar.",
+  "licencia": "© Sheridan Doose. No pegar."
+ },
+ {
+  "url": "https://emilio_mansilla.artstation.com/projects/OyJ1E6",
+  "fuente": "ArtStation (Emilio Mansilla García)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fan art de Ryuk con estudio de luz.",
+  "para_que": "Cómo iluminar a Ryuk en la oscuridad.",
+  "licencia": "© Emilio Mansilla García. No pegar."
+ },
+ {
+  "url": "https://www.pixiv.net/en/tags/%E5%A4%9C%E7%A5%9E%E6%9C%88",
+  "fuente": "pixiv",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Etiqueta 夜神月 (unas 3.500 ilustraciones).",
+  "para_que": "Poses y estilo de fans japoneses.",
+  "licencia": "© de cada autor. No pegar."
+ },
+ {
+  "url": "https://wall.alphacoders.com/big.php?i=1182462",
+  "fuente": "Wallpaper Abyss",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "«Shadowed Pact»: Light y Ryuk.",
+  "para_que": "Fondo y paleta de referencia.",
+  "licencia": "Autor sin comprobar. Sólo referencia."
+ },
+ {
+  "url": "https://wall.alphacoders.com/big.php?i=961726",
+  "fuente": "Wallpaper Abyss (ncoll36)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Ryuk en 4K.",
+  "para_que": "Referencia de Ryuk y su luz.",
+  "licencia": "Sólo referencia."
+ },
+ {
+  "url": "https://www.deviantart.com/shoushinnokarera/art/Death-Note-How-to-use-it-79542089",
+  "fuente": "DeviantArt (ShoushinNoKarera)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Recreación de la página «How to use it».",
+  "para_que": "Maquetar la página de reglas del cuaderno.",
+  "licencia": "© del autor. No pegar."
+ },
+ {
+  "url": "https://carboncostume.com/title/death-note/",
+  "fuente": "Carbon Costume",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Guías de cosplay de Light, L, Misa, Near, Mello.",
+  "para_que": "Vestuario y colores (§16).",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://aniloop.org/why-death-notes-potato-chip-scene-actually-works/",
+  "fuente": "AniLoop",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de la escena de la papa y de cómo la dirigió Araki.",
+  "para_que": "Tono épico para un gesto pequeño (§2.4).",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Ryuk_(Death_Note)",
+  "fuente": "Wikipedia",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ryuk: diseño de Obata (de «estrella de rock» a reptil).",
+  "para_que": "Carácter y diseño de Ryuk (§8).",
+  "licencia": "CC BY-SA. Sólo consulta."
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/L_(Death_Note)",
+  "fuente": "Wikipedia",
+  "ancho": null,
+  "alto": null,
+  "que_es": "L: sus manías y por qué Obata le puso ojeras.",
+  "para_que": "Carácter y poses de L (§8, §15).",
+  "licencia": "CC BY-SA. Sólo consulta."
+ }
 ]

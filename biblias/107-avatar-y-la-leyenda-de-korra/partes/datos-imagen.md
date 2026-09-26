@@ -1,0 +1,20 @@
+# Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Avatar y La leyenda de Korra
+
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
+Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
+No repitas estas consultas: sigue desde aquí y busca lo que falta.
+
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · fandom: el encargo no trae wiki (usa --wiki) · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · reddit: no encontré el subreddit
+
+## Fondos de pantalla más guardados (Wallhaven, sólo aptos, 1920×1080 o más)
+_Fuente: https://wallhaven.cc_
+
+
+## Modelos 3D descargables con licencia (Sketchfab)
+_Fuente: https://sketchfab.com_
+
+
+## Fotos con licencia libre (Openverse: cosplay, exposiciones, merchandising, murales)
+_Fuente: https://openverse.org_
+
+- 941×903 · Avatar Wan Drawing · Axis de Hemcuna · CC BY-SA 4.0 · https://upload.wikimedia.org/wikipedia/commons/b/b0/Avatar_Wan_Drawing.jpg

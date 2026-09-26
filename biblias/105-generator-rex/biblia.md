@@ -607,3 +607,49 @@ Las mejores para lámina: **nº 3** (certificado), **nº 28** (Bobo), **nº 51**
 - **«Seiyū»**: la tabla de voz llamaba así a las voces originales; en una serie estadounidense es «voz original».
 - **Hex medidos por el redactor** en los retratos (fez `#5C3B44`, piel de Rex `#BB926D`, camisa de Six `#E7E7E5`, solapa de Six `#3D5644`): confirman los de la parte de imagen con poca diferencia.
 
+## 3 conceptos de lámina
+
+Canales propuestos (Generator Rex no tenía canal): **#hardware**, **#destacados** y **#memes**. Textos reales de `servidor/inventario.md`. Si otra serie pide el mismo canal, no bloquea nada (§24).
+Para las tres: color plano con sombra dura y línea gruesa (§18); **nada de burbuja blanca**; títulos en **Black Ops One**, cuerpo en **Oswald**, papeles de Providence en **Special Elite**, cómic en **Comic Neue** y **Bangers**. Todas con ñ, tildes, ¿ y ¡ (§5). Sin «·», rayas ni paréntesis en los textos (regla 4).
+
+### A · #hardware — «El banco de builds» (recomendada)
+
+- **Objeto real en un sitio real**: un **banco de pruebas de acero** en un **laboratorio blanco de Providence**, con la luz cenital fría del cuartel (`#E9F9FA`, `#A9CCD9`, `#0B0909`; opening [0:10](https://www.dailymotion.com/video/xa14dbg&t=10)). Encima, el equipo de verdad: un micro, una interfaz, unos auriculares y una cámara. Una **nube de nanitos azules** los rodea como si los escaneara. En la pared, un **monitor del laboratorio** (el recurso del Caballero Blanco, nº 110). En Blender: banco con Metal055A, pared con CorrugatedSteel009 (§4), nanitos con los modelos CC BY «Standard Nanite» y «The Meta-Nanites» (§3; crédito «GeneratedSentience, CC BY, Sketchfab»).
+- **Personaje**: **Rex**, de 3/4, con **un Smack Hand formado** en el brazo derecho apoyado en el banco junto al micro: la máquina gigante al lado del cacharro pequeño. Cara: la sonrisa ladeada del retrato oficial. Pose: nº 105 (Smack Hands abiertos) y opening [0:04](https://www.dailymotion.com/video/xa14dbg&t=4). Chamarra `#A04D47`, goggles sobre la cabeza.
+- **Cómo habla**: el **panel del sitio oficial** dentro del monitor: fondo azul-gris, **borde cian**, **retrato de Rex a la izquierda**, borde con **dientes de engranaje**. Texto en Oswald blanco; las palabras clave en **naranja**, como «Nanites» en el sitio.
+  - REX: «Un hilo por cacharro. Con el precio delante.»
+  - REX: «¿Lo tienes? Cuenta cómo te fue. De verdad.»
+- **Dónde va cada texto**:
+  - Arriba, en el monitor, en Black Ops One naranja: **HARDWARE**. Debajo: «Micros, interfaces, auriculares y cámaras.»
+  - **Etiquetas de inventario de Providence**, con la «P» verde azulada, atadas a cada objeto: Micrófono, Interfaz, Auriculares, Cámara. **Tratamiento acústico**, en la etiqueta de una placa de espuma en la pared.
+  - En las **placas de los cuatro cajones** del banco: Menos de 50, De 50 a 150, De 150 a 400, Más de 400.
+  - Como **sellos** estampados en tres etiquetas, en Special Elite: Lo tengo y lo recomiendo, No lo compres, Alternativa barata.
+  - En un **portapapeles** sobre el banco: «Cómo se recomienda algo aquí».
+  - Si las 12 etiquetas saturan: **lámina 2** con el portapapeles en primer plano y la lista completa.
+- **Que no quede plano**: el puño-máquina en primer plano, en **contrapicado**; nanitos con resplandor entre la cámara y el micro; el brillo **cian** del monitor en la cara de Rex contra la luz blanca de arriba; al fondo, el pasillo blanco desenfocado con la silueta de un agente de negro (nº 51).
+
+### B · #destacados — «El Decreto de Encomio»
+
+- **Objeto real en un sitio real**: el **certificado «Decree of Commendation» de Providence** (nº 3, [imagen](https://static.wikia.nocookie.net/generatorrexpedia/images/7/7a/Providence_Certificate.jpg)), impreso en papel con **guilloché verde-gris**, la «P», el sello redondo y **la fila de estrellas**. Está en un despacho del **cuartel de Providence**; por la ventana, la **torre del cañón** con luz de desierto (nº 36). En Blender: papel con Paper006 (§19), algo curvado para que la tinta siga la curva; marco de cristal.
+- **Personajes**: **Rex** sostiene el certificado en alto, orgulloso, con la sonrisa del opening [0:04](https://www.dailymotion.com/video/xa14dbg&t=4). **Six** detrás, de frente, quieto, gafas oscuras, como en su retrato oficial y en [0:06](https://www.dailymotion.com/video/xa14dbg&t=6). El chiste es la pareja: el chulo que presume y el serio que no se inmuta.
+- **Cómo habla**: el texto principal **va impreso en el certificado**. Six habla en el **panel HUD** pequeño con su retrato, abajo a la derecha.
+  - SIX: «Aquí no se escribe.»
+- **Dónde va cada texto**:
+  - Arriba del certificado, en lugar de «DECREE OF COMMENDATION», en Special Elite versal: **DESTACADOS**.
+  - En la línea del nombre: «Lo que junta estrellas acaba aquí solo.»
+  - Justo debajo, la **fila de estrellas** original del certificado.
+  - Donde dice «OUR MISSION IS CLEAR:», nada más: el hueco se deja al sello.
+- **Que no quede plano**: la mano de Rex y el borde del papel en primer plano; reflejo de la ventana en el cristal del marco; polvo del desierto en el haz de luz; Six algo desenfocado detrás; la torre al fondo con bruma cálida.
+
+### C · #memes — «Bobo y el cómic»
+
+- **Objeto real en un sitio real**: un **número del *Cartoon Network Action Pack***, el cómic de DC con historias de Rex (§6), abierto en las manos de **Bobo**, sentado **en una caja del patio de contenedores** del juego (tráiler [0:26](https://www.dailymotion.com/video/x84bg5o&t=26)). Luz de tarde cálida, como el patio medido (`#C89A88`, `#AA8373`) ⚠️ el patio de contenedores no se midió. En Blender: el cómic con páginas curvadas y Paper006; caja de madera o metal.
+- **Personaje**: **Bobo**, el secundario cómico. Sentado en la caja, piernas cruzadas, cómic abierto, riéndose de lado con el ojo sano; el **fez** y el **parche** bien visibles; las dos pistolas apoyadas en la caja. Pose: tráiler [0:26](https://www.dailymotion.com/video/x84bg5o&t=26) y el pulgar hacia sí mismo del retrato. Rex puede asomar detrás leyendo por encima de su hombro.
+- **Cómo habla**: con los **globos del propio cómic**, que es donde la franquicia sí usa globos: globo de cómic americano de acción, texto en **Comic Neue**, y **Bangers** para el grito. Una viñeta lleva el **estallido radial rojo y blanco** de la nº 28.
+  - BOBO, en un globo que sale de la página hacia él: «¿Lo doblaste? Pues no va aquí.»
+- **Dónde va cada texto**:
+  - En la **portada** del cómic, en Bangers: **MEMES**.
+  - Viñeta 1 de la página abierta: «El meme, sin más.»
+  - Viñeta 2, con el estallido radial: «¿Lo doblas? Va a fandub-de-memes.» ⚠️ ese canal no sale en el inventario: confirmar el nombre con el dueño.
+- **Que no quede plano**: el cómic muy cerca de la cámara, con el lomo curvado; Bobo detrás, algo desenfocado en los bordes; sombra dura de tarde en la caja; al fondo, contenedores y el cielo naranja.
+
