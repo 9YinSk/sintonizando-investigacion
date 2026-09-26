@@ -26,12 +26,23 @@ Cuenta: cuenta A104
   con avance parcial guardado). Relanzados los 4 a las 13:0x UTC.
 - 85 Sword Art Online (todas): **COMPLETA y subida** (13:5x UTC). ✅26 ⚠️11 ❌0, 74 referencias, 52 webs, 828 líneas.
 - 86 Saga of Tanya the Evil: **COMPLETA y subida** (22:46 UTC). ✅15 ⚠️15 ❌0, 152 referencias, 51 webs, 946 líneas.
-- 87 Tsukimichi: lanzados imagen y texto.
+- 87 Tsukimichi: **COMPLETA y subida** (2026-09-26 01:22 UTC). ✅14 ⚠️16 ❌0, 99 referencias, 45 webs, 809 líneas.
 - 89 Frieren, paisajes y memoria: **COMPLETA y subida** (23:57 UTC). ✅28 ⚠️3 ❌0, 165 referencias, 55 webs, 2278 líneas.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
 
+- **87 Tsukimichi**: más querida, Tomoe (1359 favoritos en AniList, 2.ª en la encuesta japonesa); Mio la más dibujada.
+  Cuadro de diálogo: letrero de madera tallada de la Compañía Kuzunoha (葛 葉), cartelas por «noches» (第一夜) y el círculo
+  de luna del ending como aparte de Makoto. Láminas: A #ofertas-y-gratis «La tienda Kuzunoha»; B #presentaciones «El pacto
+  bajo la luna» (Tomoe); C #reto-de-la-semana «La diana de Makoto» (pose del arco, ep. 24).
+  - Oír: Doblaje Wiki da a Víctor Covarrubias como la dragona Shin (ep. 1), pero a 20:01 la voz medida es aguda (234 Hz).
+  - Ver: ¿en la T1 (ep. 3-4) Makoto habla a los hyumans con texto escrito en el aire? Sería el cuadro más propio (⚠️ punto 6).
+  - Ver: ep. 24 min 1:45, ¿la rival de piel morena es Sofia Bulga o Lancer?
+  - Medir al bajarlos los bocetos de CAGallery (las partes dan 578×537 y 803×1146).
+  - referencias.json: el redactor quitó 23 dibujos de otras series traídos por Safebooru; no correr juntar_referencias.py o vuelven.
+  - En servidor/inventario.md salen cortados los textos de #presentaciones y #reto-de-la-semana.
+  - Sin letra de pincel verificada con tildes, ñ, ¿ y ¡: cartelas en Noto Sans JP Black.
 - **80 Solo Leveling:** faltan cosas que no están en las partes y quedan como ⚠️ en la tabla
   de cumplimiento (13✅/24⚠️). Ningún fotograma llega a 1080p y no se vio el ep. 24-25 real.
   Faltan frases latinas de Jinwoo con minuto. El opening 2 y el ending 2 no se pudieron ver
@@ -169,6 +180,7 @@ Cuenta: cuenta A104
 | 85-sword-art-online-todas | redactor (opus, cuenta .104) | opus | 11 | 228393 |
 | 86-saga-of-tanya-the-evil | equipo completo | Sonnet + Opus | — | — |
 | 89-frieren-paisajes-y-memoria | equipo completo | Sonnet + Opus | — | — |
+| 87-tsukimichi-moonlit-fantasy | redactor | Opus | 15 | 236 mil |
 
 ## En marcha (sesión reanudada 2026-09-25 ~19:55 UTC)
 

@@ -644,3 +644,242 @@ Compositor: **Kei Haneoka** (羽岡佳) ✅ (AniList + créditos del opening, ep
   CONFESSION!! … S3 Ep 12-13 REACTION» (YouTube) ⚠️ sin vistas: YouTube
   pidió sesión.
 - OP y ED de la película: [Internet Archive](https://archive.org/details/kaguya-sama-love-is-war-the-first-kiss-that-never-ends-op-ed) ⚠️ llegaron truncados.
+
+## Punto 11 · Los videojuegos (y el falso de Steam)
+
+- ⚠️ **No hay un videojuego de rol o aventura** de la franquicia (buscado en
+  inglés y japonés: «かぐや様は告らせたい ゲーム 公式 アプリ»). Lo que hay:
+- **天才たちとの恋愛頭脳GAME -公式からの無理難題-**: minijuego oficial de
+  navegador en la web de Young Jump. Formato «responde como respondería el
+  personaje» para que «se confiesen». Premio: un fondo de pantalla en *pixel
+  art* ✅ ([youngjump.jp](https://youngjump.jp/kaguyasama/zunougame/)).
+- **パチスロ かぐや様は告らせたい** (tragamonedas de salón, Commseed) y, desde
+  el **15-oct-2025**, **app oficial** para iPhone y Android con «modo de
+  máquina real», minijuegos y el tema nuevo «Check it LOVE!» ✅
+  ([cuenta oficial en X](https://x.com/anime_kaguya/status/1978303551815262666) +
+  [nota de Commseed](https://www.commseed.net/archive/251015_p1/)).
+  - Su interfaz usa el rosa y rojo del logo y una **«lámpara de ritmo
+    cardíaco»** bajo la pantalla que cambia de color (rosa normal, arcoíris en
+    modo especial): el mismo pulso del logo del manga ⚠️
+    ([chonborista.com](https://chonborista.com/), p-gabu.jp, webs de aficionados).
+- **App de preguntas «クイズ for かぐや様は告らせたい»** (Google Play) ⚠️
+  parece de un fan, no oficial.
+- **El «juego» de Steam era una estafa**: *Kaguya-sama: Love is War — the
+  Video Game*, anunciado para el 31 de mayo por un tal «Shueisha Games»,
+  usaba fan art robado y reseñas copiadas ✅
+  ([GamerBraves](https://www.gamerbraves.com/kaguya-sama-visual-novel-announced-but-fans-discover-its-a-fake/),
+  [ResetEra](https://www.resetera.com/threads/kaguya-sama-love-is-war-the-video-game-out-on-steam-may-31st-up-or-not.427940/),
+  [OtakuPT](https://www.otakupt.com/jogos/visual-novel-baseada-na-serie-kaguya-sama-love-is-war-na-steam-gera-polemica/)).
+  **No usar nada de él.**
+- Cruces con juegos ajenos (Mahjong Soul, Monster Strike): punto 23.
+- ⚠️ No se capturaron pantallas de la interfaz de la app ni del minijuego.
+
+## Punto 12 · Lo que ama el fandom, y qué NO hacer
+
+**Lo que todos reconocen**:
+- **El «Chika Dance»**: ending del ep. 3 (26-ene-2019), rotoscopiado por
+  **Naoya Nakayama**; cientos de remixes ✅ ([Know Your Meme](https://knowyourmeme.com/memes/chika-dance)
+  + [EpicStream](https://epicstream.com/), que cita al productor).
+- **«Justice for Hayasaka»**: es de las favoritas y la única chica del
+  consejo sin romance propio; el fandom lo reclama ✅.
+- **Karen Kino** se desmaya (sangra por la boca) al ver el primer beso de
+  Kaguya y Miyuki, y desaparece **10 meses reales**: «murió de felicidad» ✅.
+- **IshiHaya**: la pareja Ishigami-Hayasaka, popular aunque casi no hablan ✅.
+- **«Ishigod»** (punto 8), el **Cubari Facaccimo** (punto 25), la
+  **mirada roja** de Kaguya, las **ojeras** de Shirogane y el **«IQ de 3»**
+  de Chika.
+- **La «guerra mental»** (頭脳戦): se usa como meme para cualquier
+  manipulación social mínima. Y el «Kaguya dub», vídeos sobre el narrador en
+  inglés (Ian Sinclair).
+
+**Qué NO hacer** (de la wiki y reseñas, no de memoria):
+- No reducir a **Chika** a «la tonta»: pianista con el 1.er premio nacional
+  PTNA en 4.º de primaria y 5 idiomas ✅.
+- No quitar las **ojeras** a Shirogane ✅.
+- No dibujar a **Kaguya** sólo malvada: el contraste frío/cálido es su gancho ✅.
+- No hacer de **Ishigami** un vago plano: lleva las cuentas de toda la
+  escuela ✅.
+- No mezclar el tono **del OVA** de 2021: una reseña de
+  [MyAnimeList](https://myanimelist.net/anime/43609) lo llama «out of
+  character» frente a «the wholesomeness of the rest of the show» ✅.
+- No usar el **falso juego de Steam** (punto 11) ni el bañador del *fanbook*.
+- No confundir a **Hayasaka** (rubia, ojos azules) con **Miko** (castaña,
+  ojos rojos): la parte de voz casi lo hace con un fotograma ambiguo.
+
+## Punto 13 · Los personajes a fondo
+
+Fuente: secciones *Personality* y *Trivia* de la wiki
+([Chika](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Chika_Fujiwara),
+[Ishigami](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Yu_Ishigami) y las
+demás, por la API). Caras con minuto: fotogramas propios de los tráileres.
+
+### Kaguya Shinomiya (四宮かぐや) — vicepresidenta
+
+- **Apodos** (de su ficha): «Princesa de Hielo» (en secundaria), «Tía» (Maki
+  Shijo), «Reina Músculo» (el consejo), «Demonio» (Ishigami) ✅.
+- **Historia**: criada en la riquísima familia Shinomiya, aprendió a ver a
+  la gente como piezas útiles. Fría y calculadora por fuera, **«genuinamente
+  generosa y amable»** por dentro, pero **no se cree buena persona**. Anhela
+  la bondad sencilla que ve en Miyuki. Le avergüenza pedir ayuda; suele
+  arreglar los problemas «tirando dinero» ✅.
+- **Qué transmite**: ternura escondida bajo una reina. Da risa cuando pierde
+  la compostura y pena cuando se queda sola.
+- **Cómo habla**: formal, por el apellido; voz **grave** para una
+  protagonista (112 Hz), rápida y muy expresiva en modo «señorita perfecta».
+  Frase altiva: *«Es sólo cuestión de tiempo.»*
+- **Su cara en cada emoción**:
+  - **Victoria / reto**: ojos rojos, media sonrisa, ep. 1, 24:24 ✅.
+  - **Rabia**: ojos rojos muy abiertos, llamas detrás, tráiler T3, 0:45 ✅.
+  - **Miedo / nervios**: manos que tiemblan, tráiler T3, 0:47 ⚠️ (sin cara).
+  - **Ternura**: mirada cercana antes del beso, tráiler película, 0:03 ✅.
+  - **Tristeza**: sola bajo la luna, un ojo rojo, tráiler película, 0:25 ✅;
+    silueta en el atardecer, ep. 3, 13:00 ✅.
+  - **Vergüenza**: ojos «><» y sonrojo (hoja 1 #42, «Prof») ✅ imagen.
+- **Dinámicas**: con **Hayasaka** baja la máscara del todo (10 años juntas,
+  «como hermanas»); con **Chika** se desespera porque le arruina los planes
+  sin querer; con **Miko**, protectora; con **Ishigami**, él la teme.
+
+### Miyuki Shirogane (白銀御行) — presidente
+
+- **Historia**: familia humilde; presidente **a puro esfuerzo**; adicto al
+  trabajo. Su madre se fue centrándose en Kei, y él no le guarda rencor. Le
+  mete 2000 yenes a escondidas en el monedero a Kei por su cumpleaños, pese
+  al pacto familiar de no regalarse nada ✅.
+- **Torpe en**: voleibol, canto (su rap es «como intestinos de pepino de
+  mar», según Chika y Hayasaka), globos y baile; todo lo mejora **entrenado
+  por Chika**. Bueno en dibujo, malabares, trompo y yoyó. **Entomofobia**:
+  se desmayó por una cucaracha ✅.
+- **Qué transmite**: el chico que se mata trabajando para estar a la altura.
+- **Cómo habla**: registro medio (151 Hz), fanfarrón por fuera: *«qué gente
+  tan ingenua…»*.
+- **Caras**: serio de reojo (tráiler T3, 0:50) ✅; sonrisa ladeada de
+  confianza (1:19-1:22) ✅; **sonrojado** mirando de lado (tráiler película,
+  0:04) ✅; grito de sorpresa de perfil (ep. 1, 15:00) ✅; enfado cómico con
+  llamita (ep. 3, 11:20) ✅.
+- **Dinámicas**: rival-enamorado de Kaguya; hermano mayor de Kei; jefe que
+  entrena a Chika y a Ishigami; **terror mudo** cuando Kaguya se enfada.
+
+### Chika Fujiwara (藤原千花) — secretaria
+
+- **Carácter**: burbujeante, imprevisible, «una especie de desastre natural»
+  que arruina o resuelve los planes de los dos sin darse cuenta. Talento real
+  (piano, idiomas), vista como simplona; y **hace trampa** en los juegos de
+  mesa ✅.
+- **Qué transmite**: alegría pura; es la que el público recuerda primero.
+  El autor la llama «la heroína de todos» en el *omake* final ✅.
+- **Cómo habla**: **muy aguda** (377 Hz), exclamativa: *«¡Ay, por favor!
+  ¿Saben?…»*; propone planes al grupo.
+- **Caras**: sorpresa con la boca abierta (tráiler T3, 1:16) ✅; sorpresa
+  feliz con destellos amarillos (ep. 1, 11:40) ✅; sueña flotando entre
+  planetas de cartón (ep. 1, 18:50) ✅; alegría con saltos y brazos en «V»
+  (ep. 3, 22:45) ✅; pícara con las manos junto a la cara (ep. 3, 23:24) ✅.
+- **Dinámicas**: la ídolo de Miko; entrenadora de Shirogane; pesadilla de
+  los planes de Kaguya y de Hayasaka.
+
+### Yu Ishigami (石上優) — tesorero
+
+- **Historia**: reservado y sombrío; evita las reuniones; cínico por **un
+  incidente escolar** de su pasado. Teme a Kaguya sin que nadie entienda
+  bien por qué. **Genio de los datos** (lleva las finanzas de toda la
+  escuela), pero suspende por ese trauma ✅.
+- **Qué transmite**: el «perdedor» con el que se identifica medio público:
+  introvertido, ansioso, gracioso seco ([GameRant](https://gamerant.com/kaguya-sama-love-is-war-why-yu-ishigami-is-best-boy/)) ✅.
+- **Cómo habla**: grave (117 Hz), **el más rápido** (3,29 palabras/s),
+  sentencias cínicas: *«¿No se da cuenta que ella cavó su propia tumba?»*.
+  Su muletilla del bajón en subtítulo inglés: «I want to die, so I'm going
+  home.» ⚠️ (no hay muestra latina).
+- **Caras**: determinación, ceño y sudor (tráiler T3, 0:44) ✅; puñetazo
+  (1:24) ✅; *shock* con líneas de velocidad (hoja 3 #102) ✅; bajón azul con
+  lágrima (hoja 3 #117) ✅.
+- **Dinámicas**: terror reverencial a Kaguya; Miko lo acusa de pervertido
+  sin razón; IshiHaya.
+
+### Ai Hayasaka (早坂愛) — la criada de Kaguya · 1.ª en ねとらぼ
+
+- **Carácter**: **cuatro personas** según el momento (extras del tomo 11,
+  cap. 106): la **criada seria**, la **compañera de clase** a la moda,
+  **«Haysaca-chan»** (cazahombres de Roppongi/Azabu) y **«Haysaca-kun»**
+  (mayordomo irlandés huérfano, graduado en Harvard). En realidad, «una chica
+  amable que ama profundamente a su señora», a la que ve como hermana ✅.
+- **Qué transmite**: lealtad con culpa; su arco es de los más tristes
+  (punto 21).
+- **Cómo habla**: 192 Hz, **la más calmada**; pincha con preguntas
+  incómodas sin subir la voz: *«Señorita Kaguya, una pregunta hipotética…»*.
+- **Caras** (sin vídeo propio; arte oficial de la wiki, contrastado con
+  AniList): seria de perfil ([Hayasaka_face_1](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/c/ce/Hayasaka_face_1.png), 272×272) ✅;
+  **culpa**, ojos cerrados y cabeza gacha ([Haya_Guilt](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/8/8c/Haya_Guilt.png), 713×605) ✅;
+  **ternura** abrazando a Kaguya (portada del cap. 93, 869×1300) ✅.
+
+### Miko Iino (伊井野ミコ) — comité de disciplina · 3.ª en AniList
+
+- **Carácter**: sentido de la justicia **rígido**; cree que la moral de la
+  academia se hunde y quiere normas. Cae mal, pero **nunca deja de plantar
+  cara** a lo injusto. **Pánico escénico** severo, y aun así se presenta a
+  presidenta en primer año. Come muchísimo (le da vergüenza), abusa de
+  emoticonos y, siendo «anti-lascivia», lo malinterpreta todo ✅.
+- **Qué transmite**: la pequeña valiente que tiembla pero sube al escenario.
+- **Cómo habla**: **la más aguda** del reparto (382 Hz) y la más
+  expresiva; solemne, de reglamento: *«Las ideas no ideales carecen de
+  significado…»*.
+- **Caras** (arte de la wiki): **miedo**, ojos muy abiertos y lágrimas
+  ([Awh_she's_scared](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/9/95/Awh_she%27s_scared.PNG), 855×483) ✅;
+  **alegría** sonrojada tras un cumplido de Ishigami
+  ([panel](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/0/0b/Aww_she%27s_happy_that_ishigami_complimented_her.PNG), 963×605) ✅;
+  **risa** de lado ([Heh](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/3/31/Heh.PNG), 491×423) ✅.
+- **Dinámicas**: idolatra a Chika y la obedece en todo; choca con Ishigami.
+
+### Secundarios que conviene conocer
+
+- **Kei Shirogane**: hermana de Miyuki, ahorradora, lo sigue en Instagram
+  en secreto (1739 favoritos en AniList).
+- **Maki Shijo**: de la rama rival de los Shinomiya; llama «Tía» a Kaguya.
+- **Karen Kino**: la que se desmaya con el beso (punto 12).
+- **El Narrador**: la voz; 2233 favoritos en AniList, más que Kei.
+
+### Dinámicas para láminas de grupo
+
+- **Kaguya ↔ Shirogane**: se retan, nunca ceden. **Chika** entra y lo
+  rompe todo. **Ishigami** comenta desde el sofá y sale perdiendo.
+- **Kaguya + Hayasaka**: la única escena donde Kaguya es sincera.
+- **Miko → Chika**: admiración; **Miko ↔ Ishigami**: riña.
+- **Chika + Shirogane**: clases de canto, voleibol y baile.
+
+## Punto 14 · Poses analizadas
+
+De la parte de vídeo (episodios propios) y de voz (tráileres). Minuto o
+enlace en cada una.
+
+| Personaje | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| Kaguya | Mirada roja de reto en primer plano, media sonrisa | ep. 1, 24:24 | **Regañar**, advertir, retar |
+| Kaguya | Puño cerrado agarrándose la muñeca, se da ánimos | ep. 3, 20:40 | **Animar** |
+| Kaguya | Camina decidida por la calle, bolso al hombro | ep. 3, 17:00 | **Presentar** |
+| Kaguya | En monociclo junto a Shirogane, suelta | ep. 3, 21:20-22:00 | **Celebrar** |
+| Kaguya | Ojos cerrados, de perfil, pared de diplomas | ep. 3, 3:20 | **Pensar** |
+| Kaguya | Ofrece una caja de comida con nervios, fondo a cuadros | ep. 1, 21:10 | **Explicar** con miedo al «no» |
+| Kaguya | Dedos en la mejilla, sonrisa (arte, hoja 3 #116) | ep. 3 | Presentar, coqueta |
+| Shirogane | Come su bento rígido, mirada baja | ep. 1, 18:20 | Pensar en silencio |
+| Shirogane | Escribe con líneas de urgencia alrededor | ep. 3, 2:30 | **Explicar**, contrarreloj |
+| Shirogane | De perfil, boca abierta, grito | ep. 1, 15:00 | Sorprenderse |
+| Shirogane | Mano en la barbilla, ceño | ep. 3, 15:20 | **Pensar** una jugada |
+| Shirogane | Mueca de enfado con llamita | ep. 3, 11:20 | **Regañar** (cómico) |
+| Shirogane | Ofrece algo con las dos manos, fondo a cuadros | ep. 3, 21:10 | Explicar con nervios |
+| Shirogane | Lee el periódico en el sofá (opening) | ep. 1, 1:20 | Presentar, disimular |
+| Chika | Inclinada sobre la mesa al arrancar el baile | ep. 3, 22:36 | **Presentar** |
+| Chika | Brazos en «V», salto | ep. 3, 22:45 | **Celebrar** |
+| Chika | Manos juntas junto a la cara, ladeada | ep. 3, 23:24 | **Explicar** con gracia |
+| Chika | Pierna en alto, baile | ep. 3, 23:36 | Llamar la atención |
+| Chika | Flota entre planetas de cartón | ep. 1, 18:50 | Soñar despierta |
+| Chika | Ojos enormes, destellos amarillos | ep. 1, 11:40 | Sorpresa feliz |
+| Chika | Enseña una carta (arte, hoja 1 #25) | ep. 4 | **Explicar** una regla |
+| Ishigami | De pie, manos sueltas, hombros caídos, cascos | [ficha](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/e3/IshigamiAnime.png) | Presentar (reservado) |
+| Ishigami | De espaldas, puño en alto, frente a un banco | [cameo ep. 5](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/3/38/Ishigamicameoep5.jpg) (sin minuto) | Celebrar |
+| Ishigami | Cuaderno bajo el brazo, mirada cansada | [extra tomo 3](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/d/d0/Yu_Ishigami_Vol._3_Extras.png) | Rutina |
+| Ishigami | De perfil, pelo en el ojo, serio | [cap. 24](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/6/64/Ishigami-resignintro.jpg) | Anunciar una decisión |
+| Ishigami | Lanza un puñetazo | tráiler T3, 1:24 | Animar, acción |
+
+**Resumen por uso**: presentar → Kaguya caminando (ep. 3, 17:00) o Chika
+inclinada (22:36); explicar → Chika con la carta o Shirogane escribiendo;
+celebrar → Chika en «V» (22:45); regañar → la mirada roja (24:24); pensar →
+Shirogane con la mano en la barbilla (ep. 3, 15:20); animar → el puño de
+Kaguya (ep. 3, 20:40).

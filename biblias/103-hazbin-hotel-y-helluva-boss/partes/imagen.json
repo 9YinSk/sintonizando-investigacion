@@ -225,29 +225,29 @@
     "licencia": "CC0"
   },
   {
-    "url": "https://polyhaven.com/a/decrepit_wallpaper",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/decrepit_wallpaper/decrepit_wallpaper_diff_1k.jpg",
     "fuente": "Poly Haven",
-    "ancho": 2500,
-    "alto": 2500,
-    "que_es": "Textura CC0 de papel tapiz decrépito",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de papel tapiz decrépito (mapa difuso 1K, medido; hay hasta 8K en polyhaven.com/a/decrepit_wallpaper)",
     "para_que": "Textura real para las paredes viejas del hotel (punto 19)",
     "licencia": "CC0"
   },
   {
-    "url": "https://polyhaven.com/a/velour_velvet",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/velour_velvet/velour_velvet_diff_1k.jpg",
     "fuente": "Poly Haven",
-    "ancho": 2840,
-    "alto": 2735,
-    "que_es": "Textura CC0 de terciopelo rojo (velour)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de terciopelo rojo -velour- (mapa difuso 1K, medido; hay hasta 8K en polyhaven.com/a/velour_velvet)",
     "para_que": "Textura real para cortinas y sofás del hotel (punto 19)",
     "licencia": "CC0"
   },
   {
-    "url": "https://ambientcg.com/a/Carpet016",
+    "url": "https://ambientcg.com/get?file=Carpet016_1K-JPG.zip",
     "fuente": "ambientCG",
-    "ancho": 1700,
-    "alto": 1700,
-    "que_es": "Textura CC0 de alfombra desgastada (dimensión física en cm; archivo hasta 4K)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Textura CC0 de alfombra desgastada, paquete 1K (hay hasta 4K en ambientcg.com/a/Carpet016)",
     "para_que": "Textura real para la alfombra del lobby (punto 19)",
     "licencia": "CC0"
   },

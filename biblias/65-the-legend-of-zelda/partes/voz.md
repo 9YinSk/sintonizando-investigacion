@@ -299,3 +299,79 @@ que el de series animadas.
   de los CD-i, comentado y compartido igual que en inglés (ver punto 12), pero no encontré una versión
   dramatizada o doblada en español de esa frase exacta con búsquedas específicas («Zelda CDi doblaje
   parodia», «fandub español latino Zelda CDi») — sólo aparecieron parodias de otras franquicias.
+
+## Lo mejor para la lámina
+- Zelda de perfil con una lágrima bajando (2:09, tráiler final de *Tears of the Kingdom*): imagen
+  fuerte, oficial, con minuto y enlace exactos → sirve para un cuadro de diálogo triste o una viñeta
+  de fondo.
+- El dato de que **Link no tiene actor de doblaje en los juegos 3D** («N/A» en la propia ficha oficial
+  de Nintendo/Doblaje Wiki, sólo gruñidos): gancho perfecto para un servidor de doblaje — «hasta el
+  héroe más famoso del gaming no tiene voz».
+- Frase real de Zelda doblada al latino: «¡Pruébalo! ¡Por la ciencia!» — corta, con signo de
+  exclamación, ideal para un globo de cómic con su carácter curioso.
+- Mipha (secundaria, ya fallecida en la trama) le ganó a la propia princesa Zelda en la encuesta
+  oficial japonesa de *Breath of the Wild* (2º vs 3er puesto): ejemplo real de «el secundario puede
+  ser más querido», tal como pide el dueño.
+- El «error» de doblaje de Revali («con todos mis talentos») + su tono presumido (188 Hz, muy
+  expresivo): personaje ideal para representar la ironía o el humor en una lámina de voz/actuación.
+
+## No encontré
+- **Cumpleaños oficiales** de Link, Zelda o Ganon: busqué en *Hyrule Historia*, la *Encyclopedia* y
+  Zelda Wiki (en español e inglés) y Nintendo nunca publicó una fecha; el zodiaco de CBR es un juego
+  editorial, no un dato oficial — lo dejé bien marcado con ⚠️ en el punto 20 para que no se use como si
+  lo fuera.
+- **Muestra de audio de Ganondorf** en Doblaje Wiki: la ficha de personaje lista actores pero no trae
+  archivo `.ogg` de muestra (a diferencia de Zelda, Revali, Impa, Sidon, Yunobo, Teba, Riju); por eso
+  no pude medir su tono con `voz.py` ni sacarle una frase textual propia.
+- **Fotograma con el rostro de Ganon/Ganondorf mostrando una emoción clara** (rabia, miedo): en el
+  tráiler medido aparece de espaldas o transformado en niebla roja/dragón; busqué otro clip
+  («Ganondorf risa Tears Kingdom trailer reveal español») sin encontrar uno con su cara visible.
+- **Alegría y miedo/vergüenza plenos** en los 5 personajes (el encargo pide alegría, rabia, tristeza,
+  miedo, vergüenza): sólo confirmé con fotograma+minuto tristeza (Zelda) y una expresión de tensión en
+  Link; busqué en el tráiler de *The Champions' Ballad* y en 20 minutos de gameplay doblado sin
+  encontrar sonrisas o miedo claros y encuadrados en primer plano — necesitaría revisar más metraje
+  (recomiendo al redactor pedir al investigador de vídeo o de imagen fotogramas de las «memorias» de
+  los campeones completas, que sí tienen más rango emocional por personaje).
+- **Segunda fuente externa** (fuera de Doblaje Wiki) para Sidon = José Antonio Macías, Revali = Enzo
+  Fortuny y Urbosa = Kerygma Flores: busqué «Enzo Fortuny Revali Zelda voz», «Kerygma Flores Urbosa
+  Zelda doblaje» sin resultado claro con personaje asociado; quedan con ⚠️ en la tabla del punto 8.
+- **Vistas reales de los fandubs de YouTube** («El Multiverso de Zelda», «Zelda: Morshu RTX ON»):
+  YouTube devolvió 429 / pidió inicio de sesión en cada intento durante toda la sesión (con `yt-dlp` y
+  reintentos espaciados), así que sólo tengo título y canal, no vistas ni fecha.
+- **Covers de opening en español**: Zelda no tiene canción de apertura cantada (su música es
+  instrumental), así que busqué covers de temas instrumentales icónicos («Zelda's Lullaby», «Hyrule
+  Field») y no llegué a esa búsqueda por tiempo; queda pendiente si el redactor lo necesita.
+- **Parodias/memes específicamente hispanos** que sean virales de forma reconocible (tipo sonido de
+  TikTok): no encontré uno propio en español, más allá de que el fandom hispano comparte los mismos
+  memes en inglés (Navi, CD-i, «I am Error»).
+
+## Bitácora de búsqueda
+- Doblaje Wiki (API, es): ficha «The Legend of Zelda (franquicia)», «Link», «Zelda», «Ganondorf», con
+  reparto completo, ficha técnica y notas de doblaje — la fuente más valiosa de toda la parte.
+- Muestras de audio de Doblaje Wiki (`.ogg`, vía `imageinfo` de la API): Zelda, Revali, Impa, Sidon,
+  Yunobo, Teba, Riju (URLs sacadas); transcritas con `herramientas/voz.py` las de Zelda y Revali
+  (Whisper en local, modelo small, idioma es).
+- WebSearch (es): «Jessica Ángeles voz Zelda…», «Xóchitl Ugarte dirección doblaje…», «ANMTV Zelda
+  doblaje latino…», «Jorge Roig Jr Link…», «encuesta popularidad personajes Zelda Nintendo oficial»,
+  «Triforce orden Poder Sabiduría Valor», «fandub español latino Zelda CDi parodia», «por qué la gente
+  ama Zelda Breath of the Wild reseñas», «Link comida favorita manzanas», «Ganondorf horses love
+  canon», «reddit r/zelda scene that made you cry» (sin resultado directo de Reddit).
+- WebSearch (en): «GameFAQs Character Battle Zelda winner», «Zelda character birthday height Hyrule
+  Historia Encyclopedia», «Legend of Zelda fandom pet peeve call Link Zelda», «Princess Zelda hobbies
+  Breath of the Wild canon».
+- WebSearch (ja): «ゼルダの伝説 キャラクター 人気投票 結果» → llevó a Nintendo Dream (ndw.jp), la mejor
+  fuente de popularidad oficial de toda la parte.
+- WebFetch: universozelda.com (resumen encuesta Nintendo Dream 2018), thegamer.com (encuesta de fans
+  Schaffrillas), cbr.com (altura/edad/zodiaco), ndw.jp ×2 (rankings completos BOTW y TotK con votos
+  reales), anmtvla.com ×2 (reparto BOTW y TotK), I_am_Error en Wikipedia (en).
+- Dailymotion (API `api.dailymotion.com/videos?search=`): «Zelda CDi doblaje parodia», «Zelda fandub
+  latino animado», «cover opening Zelda español», «recuerdos campeones Zelda BOTW español», «Zelda
+  Breath Wild memorias aliados latino», «Tears of the Kingdom trailer español latino», «Zelda Tears
+  Kingdom cinematica español», «Zelda Champions Ballad Español Latino Pelicula» → de ahí salieron los
+  tráilers usados para los fotogramas de emoción y el fandub de Skyward Sword.
+- `herramientas/fotogramas.py` sobre 3 vídeos de Dailymotion: tráiler final de *Tears of the Kingdom*
+  (x8k22ef, contacto cada 3 s + 2 fotogramas grandes), tráiler de *The Champions' Ballad* (x6bc0bm,
+  contacto cada 4 s), primeros minutos doblados de *BOTW* (x5ahli0, 0:00-3:00 cada 5 s).
+- `yt-dlp --dump-json` sobre 2 vídeos de YouTube (fandubs): los dos devolvieron 429/«confirma que no
+  eres un bot» — confirma el bloqueo de YouTube que avisa AYUDANTE.md.
+- `herramientas/hermanas.py 65-the-legend-of-zelda`: sin serie hermana para este encargo.

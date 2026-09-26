@@ -92,10 +92,15 @@ rehacerla. Las fuentes de cada dato están en su sección.
 
 - **Hojas de contacto**: 3 en `hojas/`, con qué número sirve para qué
   (sección nueva «Las hojas de contacto», tras la 3).
-- **`referencias.json`**: 225 referencias, juntadas de las cuatro partes y
-  del recolector.
-- **12 modelos 3D** de Sketchfab con la licencia leída en su API, entre
+- **`referencias.json`**: 223 referencias, juntadas de las cuatro partes y
+  del recolector (sin los dos duplicados que salían).
+- **11 modelos 3D** de Sketchfab con la licencia leída en su API, entre
   ellos un **rig de Asuka** (CC BY) y una tablilla para la ficha de piloto.
+- **Dos hallazgos para el concepto A**, vistos en las hojas: una **tarjeta
+  de NERV «VIP:ID» en la mano de Shinji** (hoja 2, nº 71) y el rótulo real
+  de una prueba de sincronía, **«TEST PLUG-02 · HARMONICS TEST PROCEEDING ·
+  LIVE · SUBJECT: FIFTH C. KAWORU NAGISA»** (hoja 3, nº 99): la ficha de un
+  piloto en pantalla, tal como la pinta la serie.
 - **Fotogramas vistos de verdad** con su segundo: ep. 1, 2, 5, 6, 8, 24,
   el opening, el ending y el tráiler oficial de GKIDS.
 - **Frases del doblaje latino textuales con minuto**, oídas en los
@@ -111,8 +116,14 @@ rehacerla. Las fuentes de cada dato están en su sección.
 - La tabla **«Cumplimiento del encargo»** y la bitácora de la segunda
   pasada.
 
-**Los ⚠️**: había **108** antes de esta pasada. Los que quedan se cuentan
-al final de la tabla de cumplimiento. Siguen abiertos, sobre todo: las
+**Los ⚠️**: había **108** antes de esta pasada; ahora hay **194**. Se
+resolvieron unos veinte de los viejos (los de la lista «Corregido» y las
+voces, licencias, hex, memes y puestos de encuesta), pero la pasada suma
+las 8 secciones nuevas de los puntos 18-25 (36 ⚠️), la tabla de
+cumplimiento y la bitácora (unos 10), y una marca en cada sitio donde el
+fotograma visto no coincidía con lo escrito de memoria (§15). Cada ⚠️ dice
+por qué. En la tabla quedan 6 puntos a medias (8, 11, 13, 14, 22 y los
+tipos de fuente) y **ningún ❌**. Siguen abiertos, sobre todo: las
 cajas de diálogo de los juegos (The Cutting Room Floor no abre), el
 bocadillo del manga visto en una página, fan dubs de voz en español
 (YouTube no abre), el piano de Kaworu y un fotograma propio de la pose

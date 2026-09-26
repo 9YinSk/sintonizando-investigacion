@@ -136,7 +136,7 @@ el logo oficial de I.M.P (`Mission Zero - I.M.P logo.png`, arriba) y en varias t
 - Trama de semitono (halftone) azul sobre fondo blanco, lista para poner en modo «Multiplicar» · Openverse / Flickr, CC0 · https://live.staticflickr.com/4281/35068173993_0c4bde3ab0_b.jpg · ✅ (coincide con el fondo del logo I.M.P) · 1024×1024 · licencia CC0
 - Grano de papel, 6 variantes (Paper001-006), CC0, con mapas de displacement y roughness, 1K a 8K · ambientCG · https://ambientcg.com/get?file=Paper001_1K-JPG.zip (y Paper002…Paper006 con el mismo patrón de URL) · ✅ · hasta 8192×8192 · licencia CC0
 - Alfombra desgastada (para el lobby del hotel, alfombra roja gastada) · ambientCG «Carpet016» · https://ambientcg.com/a/Carpet016 · ✅ · hasta 4K · CC0
-- Papel tapiz decrépito (para las paredes viejas del hotel) · Poly Haven «decrepit_wallpaper» · https://polyhaven.com/a/decrepit_wallpaper · ✅ · 2500×2500 (mapa físico; textura hasta 8K) · CC0
+- Papel tapiz decrépito (para las paredes viejas del hotel) · Poly Haven «decrepit_wallpaper» · https://polyhaven.com/a/decrepit_wallpaper · ✅ · 1024×1024 medido en el JPG de 1K (hay hasta 8K) · CC0
 - Terciopelo rojo (velour) para cortinas y sofás del hotel · Poly Haven «velour_velvet» · https://polyhaven.com/a/velour_velvet · ✅ · hasta 8K · CC0
 - Alfombra sucia (pasillos del hotel) · Poly Haven «dirty_carpet» · https://polyhaven.com/a/dirty_carpet · ✅ · hasta 8K · CC0
 

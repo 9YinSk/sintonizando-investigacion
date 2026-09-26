@@ -77,6 +77,8 @@ Vi el episodio 1 completo (BDRip subido a Internet Archive, con subtítulos en i
 - Habla directa y campechana con Kousei y Watari (sus amigos de siempre), más cortada y torpe cuando el tema roza sus sentimientos.
 
 **Ryota Watari** — amigo de la infancia de Kousei y Tsubaki, capitán del equipo de fútbol, popular con las chicas y coqueto por fuera, pero frágil e inseguro por dentro. Apoya a Kousei sin juzgarlo («que la chica decida si vales la pena o no»). Transmite ligereza y humor; sirve para aligerar escenas pesadas · https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Ryota_Watari ✅
+- Frase real (ep.1, min. 19:40, subtítulo fan): «Oh, stop! You flatter me!» — dicho a una chica con fondo de corazones estilo cómic, tono coqueto y juguetón, típico de cómo saluda/liga con chicas nuevas · ✅ (visto y oído)
+- Saluda con confianza física (choca la mano, palmea el hombro); su lenguaje corporal es relajado, uniforme desarreglado (corbata floja, camisa fuera), en contraste con la rigidez de Kousei.
 
 **Dinámicas de grupo** (para láminas grupales): Watari hace reír a Kousei y rompe tensión con bromas; Tsubaki discute con Watari cuando él «usa» a las chicas; Kaori arrastra a Kousei fuera de su zona de confort; Tsubaki y Kousei tienen la complicidad silenciosa de vecinos de toda la vida · https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kousei_Arima#Relationships ✅ (cruzado con la página de Kaori)
 
