@@ -61,7 +61,8 @@ por el buscador):
 |---|---|---|---|
 | Piltóver/Zaun (insignia, ambos escudos) | Oro del emblema grabado | `#C7A965` | `Piltover_Crest.png` y `Zaun_Crest.png` (fondo transparente, medido en 4042×4167 y 3487×4167) |
 | Vi (cartel T2) | Fondo de su cartel individual: gris frío detrás, con la diana de grafiti en la espalda | descripción, sin hex fiable (cartel muy oscuro) ⚠️ | [The Mary Sue](https://www.themarysue.com/netflix-drops-arcane-season-2-character-posters/) |
-| Silco | Camisa granate + jeringa de Shimmer que tiñe la mano de rosa | sin hex fiable: la única imagen abierta va teñida de verde de escena (`Silco_Season_1_Poster_1.jpg`) o casi negra por la luz nocturna (`Silco speaking to Marcus.png`) ⚠️ | descrito de la wiki: «maroon dress shirt… black and dark red-purple vest with gold accents, white tie» ([arcane.fandom.com/wiki/Silco](https://arcane.fandom.com/wiki/Silco#Appearance)) |
+| Silco | Camisa/chaleco granate con ribete dorado, corbata clara | Granate `#2C0A10` (medido por píxel, zona plana del cuello) · dorado del ribete `#6C6A44` (medido por píxel, promedio de 4000+ píxeles del filo) | ✅ medido en `Silco_Season_1_Episode_7_001.png` (1920×814, plano de interior bien iluminado; los otros dos fotogramas seguían descartados por tener luz de escena) |
+| Silco (objeto: vial de Shimmer) | El líquido morado que sostiene | `#A415F2` (medido por píxel, media de 4 puntos en la zona más saturada) | ✅ medido en `Silco_Arcane_Shimmer.webp` (1920×816) |
 
 El resto de personajes (Jinx, Vi T1, Jayce, Viktor, Caitlyn, Ekko) ya está
 medido y con ✅ en biblia §16: no repito esas filas, sólo añado la del
@@ -257,10 +258,6 @@ falta duplicarlas aquí.
 
 ## No encontré
 
-- **Hex fiable de la ropa de Silco**: las dos imágenes que pude abrir
-  llevan luz de escena muy fuerte (verde de cartel, casi negro nocturno).
-  Búsqueda: `Silco vestuario hex`, `Silco appearance colors` (inglés) — sin
-  una imagen neutra no mido un color inventado.
 - **Ficha oficial con fecha de los Funko Pop** de Jinx y Viktor: confirmé
   que existen (imagen de la propia wiki) pero no encontré la página de
   Funko con el número de la línea ni la fecha de salida. Búsqueda: `Funko
@@ -293,3 +290,13 @@ falta duplicarlas aquí.
 - No usé japonés/coreano/chino en esta parte: todo el material oficial de
   colaboraciones y merchandising que encontré está en inglés (Riot Games es
   la fuente primaria en todos los casos).
+- **Repaso (revisar_partes.py marcó «FLOJA: 3 hex»)**: bajé 3 imágenes más de
+  Silco desde Fandom (`Silco_Headshot.jpg`, `Silco_Arcane_Shimmer.webp`,
+  `Silco_Season_1_Episode_7_001.png`, con `Referer: https://www.fandom.com/`)
+  y las abrí con Pillow. La primera es un busto de escultura gris (turnaround
+  de estudio, sin color de ropa, ver §1/§18). Las otras dos sí sirvieron:
+  medí el granate y el dorado de su cuello en la segunda (recorté la zona
+  plana del cuello y promedié los píxeles del filo dorado para evitar el
+  antialiasing) y el morado del vial de Shimmer en la primera (media de 4
+  puntos en la zona más saturada). Con esto quedan **6 hex únicos** en esta
+  parte (antes 3) y se cierra el ⚠️ de Silco que quedaba en «No encontré».
