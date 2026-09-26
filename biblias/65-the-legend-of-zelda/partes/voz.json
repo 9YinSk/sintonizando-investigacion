@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "url": "https://www.dailymotion.com/video/x8k22ef?t=129",
+    "fuente": "Nintendo (tráiler oficial 'The Legend of Zelda: Tears of the Kingdom, tráiler definitivo', vía canal en Dailymotion)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (sacado con fotogramas.py) de Zelda de perfil llorando, minuto 2:09",
+    "para_que": "Referencia de cara en la emoción 'tristeza' de Zelda, con minuto y encuadre exactos (punto 13)",
+    "licencia": "Copyright Nintendo, sólo referencia de estudio, no reutilizar en producto final"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8k22ef?t=198",
+    "fuente": "Nintendo (tráiler oficial 'The Legend of Zelda: Tears of the Kingdom, tráiler definitivo', vía canal en Dailymotion)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio de Link en primer plano, mirada intensa, minuto 3:18",
+    "para_que": "Referencia de cara en la emoción 'determinación/tensión' de Link (punto 13)",
+    "licencia": "Copyright Nintendo, sólo referencia de estudio, no reutilizar en producto final"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/2/2f/Zelda_TLoZBotW.ogg/revision/latest?cb=20170414024802&path-prefix=es",
+    "fuente": "Doblaje Wiki, ficha de The Legend of Zelda: Breath of the Wild",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial (68 s, 1.1 MB) de Zelda en español latino, voz Jessica Ángeles, varios recuerdos encadenados",
+    "para_que": "Frases textuales del doblaje latino y ficha de voz (tono agudo 311 Hz, muy expresiva) del punto 8/13",
+    "licencia": "Copyright Nintendo, muestra de doblaje publicada por Doblaje Wiki con fines de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/7/7e/Revali_TLoZBotW.ogg/revision/latest?cb=20170414023226&path-prefix=es",
+    "fuente": "Doblaje Wiki, ficha de The Legend of Zelda: Breath of the Wild",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio oficial (18 s, 348 KB) de Revali en español latino, voz Enzo Fortuny",
+    "para_que": "Frase textual del doblaje latino y ficha de voz (188 Hz, muy expresivo) del punto 8/13",
+    "licencia": "Copyright Nintendo, muestra de doblaje publicada por Doblaje Wiki con fines de referencia"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/The_Legend_of_Zelda_%28franquicia%29",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa del reparto de doblaje latino de toda la franquicia (serie 1989 + videojuegos), con estudio y dirección",
+    "para_que": "Base del punto 8 (tabla de doblaje latino) y de datos técnicos (estudio, director)",
+    "licencia": "Contenido de wiki colaborativa (CC BY-SA), sólo como fuente, no como imagen a reutilizar"
+  },
+  {
+    "url": "https://www.ndw.jp/zeldatotk-si04/",
+    "fuente": "Nintendo Dream (revista japonesa oficial, ndw.jp)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Resultados completos con número de votos de la encuesta de popularidad oficial de personajes de Tears of the Kingdom",
+    "para_que": "Tabla y datos del punto 7 (encuestas de popularidad), incluida la comparación Ganondorf vs Koroks",
+    "licencia": "Contenido editorial de Nintendo Dream, sólo como fuente de datos"
+  },
+  {
+    "url": "https://www.ndw.jp/post-1013/",
+    "fuente": "Nintendo Dream (revista japonesa oficial, ndw.jp)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Resultados completos de la encuesta de popularidad oficial de personajes de Breath of the Wild (feb-2018)",
+    "para_que": "Punto 7: Mipha (secundaria) 2ª, por delante de la princesa Zelda (3ª)",
+    "licencia": "Contenido editorial de Nintendo Dream, sólo como fuente de datos"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8k22ef",
+    "fuente": "Nintendo, tráiler oficial 'Tears of the Kingdom, tráiler definitivo' (Dailymotion)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial completo, 3:54 min, con varias escenas cinemáticas de Link, Zelda y Ganondorf",
+    "para_que": "Fuente de los 2 fotogramas de emoción del punto 13; también sirve para el investigador de vídeo (puntos 2/4)",
+    "licencia": "Copyright Nintendo, sólo referencia de estudio"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6bc0bm",
+    "fuente": "Nintendo, tráiler oficial 'BOTW: The Champions' Ballad' (Dailymotion)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial del DLC 2 de Breath of the Wild, 2:36 min, en inglés",
+    "para_que": "Fuente del fotograma del Rey Rhoam (punto 13) y de escenas de los 4 campeones",
+    "licencia": "Copyright Nintendo, sólo referencia de estudio"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x5ahli0",
+    "fuente": "Canal Hobby Consolas (gameplay con doblaje, vía Dailymotion)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Primeros 20 minutos de Breath of the Wild con voces en español, incluida la cinemática de despertar",
+    "para_que": "Fotograma de Link recién despierto (punto 13); posible fuente extra para el investigador de vídeo",
+    "licencia": "Copyright Nintendo, uso editorial del canal, sólo referencia de estudio"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7g7gvb",
+    "fuente": "Canal ADRIAN COBOS 0.2 (Dailymotion)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub en español latino de 'The Legend of Zelda Origenes - Skyward Sword' (8:18 min, 20 vistas)",
+    "para_que": "Ejemplo real de fandub hispano de Zelda para el punto 22",
+    "licencia": "Contenido de fan, con derechos del creador original del audio; sólo como referencia de comunidad"
+  },
+  {
+    "url": "https://www.anmtvla.com/2023/04/the-legend-of-zelda-tears-of-kingdom.html",
+    "fuente": "ANMTV Latinoamérica",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo de noticias con el reparto de doblaje latino de Tears of the Kingdom (Jessica Ángeles, Jaime Collepardo, Alondra Hidalgo)",
+    "para_que": "Segunda fuente independiente para varios nombres del punto 8",
+    "licencia": "Artículo editorial, sólo como fuente"
+  },
+  {
+    "url": "https://www.anmtvla.com/2017/01/the-legend-of-zelda-breath-of-wild.html",
+    "fuente": "ANMTV Latinoamérica",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo de noticias que confirma el doblaje mexicano de Breath of the Wild y nombra 5 actores del reparto",
+    "para_que": "Segunda fuente independiente para varios nombres del punto 8",
+    "licencia": "Artículo editorial, sólo como fuente"
+  },
+  {
+    "url": "https://www.levelup.com/noticias/zelda-tears-of-the-kingdom-presume-avance-con-doblaje-latino-y-es-hermoso-jessica-angeles-regresa/",
+    "fuente": "LEVEL UP (México)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo que confirma el regreso de Jessica Ángeles como voz de Zelda en Tears of the Kingdom",
+    "para_que": "Segunda fuente independiente para Jessica Ángeles = Zelda (punto 8)",
+    "licencia": "Artículo editorial, sólo como fuente"
+  },
+  {
+    "url": "https://www.3djuegos.lat/nintendo-switch/the-legend-of-zelda-tears-of-the-kingdom-asi-se-escuchan-voces-espanol-latino-jessica-angeles-alondra-hidalgo",
+    "fuente": "3DJuegos.lat",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo con las voces en español latino de Tears of the Kingdom, nombra a Jessica Ángeles y Alondra Hidalgo",
+    "para_que": "Segunda fuente independiente para Alondra Hidalgo = Mipha (punto 8)",
+    "licencia": "Artículo editorial, sólo como fuente"
+  },
+  {
+    "url": "https://board8.fandom.com/wiki/Character_Battle_X",
+    "fuente": "Board8 Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Historial del torneo de fans GameFAQs 'Character Battle', con Link como ganador de 5 ediciones",
+    "para_que": "Punto 7: torneo de popularidad de fans en Occidente",
+    "licencia": "Contenido de wiki colaborativa, sólo como fuente"
+  },
+  {
+    "url": "https://danbooru.donmai.us/posts?tags=the_legend_of_zelda",
+    "fuente": "Danbooru (recuento vía API, ya en datos-voz.md)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recuento de dibujos de fans por personaje con la etiqueta the_legend_of_zelda (39 059 en total)",
+    "para_que": "Punto 7/12: medida indirecta de cariño del fandom por personaje",
+    "licencia": "Datos de conteo vía API, imágenes individuales con derechos de cada artista"
+  },
+  {
+    "url": "https://es.wikipedia.org/wiki/Trifuerza",
+    "fuente": "Wikipedia en español",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Explicación del orden correcto de los 3 triángulos del Triforce (Poder/Sabiduría/Valor)",
+    "para_que": "Punto 12: qué NO hacer al dibujar el Triforce",
+    "licencia": "CC BY-SA, sólo como fuente de texto"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/I_am_Error",
+    "fuente": "Wikipedia en inglés",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Historia del meme 'I am Error' de Zelda II y por qué el fandom lo ama",
+    "para_que": "Punto 12: lo que el fandom ama (meme fundacional)",
+    "licencia": "CC BY-SA, sólo como fuente de texto"
+  },
+  {
+    "url": "https://www.thegamer.com/legend-of-zelda-zelda-is-link-memes/",
+    "fuente": "TheGamer",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre el error común de llamar 'Zelda' al protagonista Link",
+    "para_que": "Punto 12: qué NO hacer (nunca llamar Zelda a Link)",
+    "licencia": "Artículo editorial, sólo como fuente"
+  }
+]

@@ -116,7 +116,7 @@ rehacerla. Las fuentes de cada dato están en su sección.
 - La tabla **«Cumplimiento del encargo»** y la bitácora de la segunda
   pasada.
 
-**Los ⚠️**: había **108** antes de esta pasada; ahora hay **194**. Se
+**Los ⚠️**: había **108** antes de esta pasada; ahora hay **193**. Se
 resolvieron unos veinte de los viejos (los de la lista «Corregido» y las
 voces, licencias, hex, memes y puestos de encuesta), pero la pasada suma
 las 8 secciones nuevas de los puntos 18-25 (36 ⚠️), la tabla de
@@ -230,14 +230,14 @@ bloques. Los bloques son míos (el inventario sólo da la lista):
 
 | Pregunta | Respuesta |
 |---|---|
-| Por qué Evangelion encaja con #demos | En la serie **a cada piloto lo elige un informe y tiene su ficha**, que alguien **lee en voz alta** (Rei, ep. 5, 00:04:25; Kaworu, ep. 24, 00:05:58). Y luego hay una **prueba** que se comenta con números (ep. 12, 00:05:22; ep. 16, 00:03:20). Es un hilo de #demos. |
+| Por qué Evangelion encaja con #demos | En la serie **a cada piloto lo elige un informe y tiene su ficha**, que alguien **lee en voz alta** (Rei, ep. 5, 00:04:25: **se oye, no se ve**; Kaworu, ep. 24, 00:05:58). En pantalla, la prueba de Kaworu lleva el rótulo «TEST PLUG-02 · LIVE · SUBJECT: FIFTH C.» (hoja 3, nº 99). Y luego hay una **prueba** que se comenta con números (ep. 12, 00:05:22; ep. 16, 00:03:20). Es un hilo de #demos. |
 | La frase del canal | Misato antes de la prueba de Kaworu: **«素直に彼の実力 見せてもらいましょ»** (Que nos enseñe lo que sabe hacer, ep. 24, 00:06:31) ✅ |
 | El gancho de voz | Kaworu: **«歌はいいね 歌は心を潤してくれる»** (Cantar es bueno, le da agua al corazón, ep. 24, 00:05:13) ✅ |
 | Cuadro de diálogo propio | **La cartela negra** con letras blancas en mincho extranegrita **comprimida** (Matisse EB) ✅. Y para la voz: los **monolitos «SOUND ONLY»** de SEELE ✅. Nada de globos blancos. |
 | Objeto para la lámina | **La ficha de NERV**: carpeta con hoja, foto, **tarjeta de seguridad** y sello (concepto A). Alternativas: los **monolitos** (B) y **el chelo de Shinji con Asuka aplaudiendo** (C, ep. 15, 00:11:10). |
-| El más querido | **Asuka**, 1.ª en el voto oficial de NHK (2020, 109.577 votos) ✅; **Kaworu** 2.º y **Rei** 3.ª ✅, Shinji 4.º ⚠️. Asuka protagoniza el **corto del 30 aniversario** (2026) ✅. La frase más votada es de Rei: «あなたは死なないわ 私が守るもの» ✅. |
+| El más querido | **Asuka**, 1.ª en el voto oficial de NHK (2020, 109.577 votos) ✅; **Kaworu** 2.º y **Rei** 3.ª ✅, Shinji 4.º ✅. Asuka también gana en favoritos de AniList y en fan art de Danbooru (§9.4) ✅. Asuka protagoniza el **corto del 30 aniversario** (2026) ✅. La frase más votada es de Rei: «あなたは死なないわ 私が守るもの» ✅. |
 | Letras libres | **Zen Old Mincho Black**, **Shippori Mincho B1 ExtraBold** o **Noto Serif JP Black** para la cartela; **Noto Serif Display** (trae eje de ancho: se comprime sola) para el español. Todas con tildes, ñ, ¿ y ¡: comprobado en el archivo. |
-| Voz latina | Shinji **Víctor Ugarte** y Rei **Circe Luna** en el original, en Netflix y en las *Rebuild* ✅; Asuka **Norma Echevarría** (1999) y **Georgina Sánchez** (Netflix y *Rebuild*) ✅; Misato **Toni Rodríguez** (1999) y **Marisol Romero** (Netflix) ✅; Kaworu **Ernesto Lezama** (1999) y **Alberto Bernal** (Netflix) ✅. Netflix: **Audiomaster Candiani**, dirección de **América Torres** ✅. |
+| Voz latina | Shinji **Víctor Ugarte** y Rei **Circe Luna** en el original, en Netflix y en las *Rebuild* ✅; Asuka **Norma Echevarría** (1999) y **Georgina Sánchez** (Netflix y *Rebuild*) ✅; Misato **Toni Rodríguez** (1999) y **Marisol Romero** (Netflix) ✅; Kaworu **Ernesto Lezama** (1999) y **Alberto Bernal** (Netflix) ✅. Netflix: **Audiomaster Candiani**, dirección de **América Torres** ✅. Gendo (1999): **Humberto Solórzano** ✅. Frase oída en latino: «¿Por qué no pruebas sonreír, Rei?» (ep. 6, 00:21:34) ✅. |
 | Tono | Verano brillante pero serio. Negro, blanco y **naranja de pantalla**. Personajes de **14 años**: nada de *fanservice*. |
 | Lo nuevo (2026) | Serie nueva anunciada el 23-feb-2026 (guion de **Yoko Taro**, Khara y CloverWorks) ✅; libro de arte de **Sadamoto** el 10-nov-2026 ✅; el juego XR ***Δ Cross Reflections*** (eres **un aprendiz de NERV que quiere ser piloto**) ✅. |
 
@@ -1132,7 +1132,7 @@ Para textos alegres del canal, usa las de §2 y §18.6.
 
 ---
 
-## 11 · Música
+## 11 · Música y sonido
 
 | Tema | Qué es | Ambiente | Estado |
 |---|---|---|---|

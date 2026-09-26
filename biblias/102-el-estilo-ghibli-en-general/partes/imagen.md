@@ -280,22 +280,220 @@ descargados (1920×1038):
 
 ### Punto 19 — Texturas 2D
 
-(pendiente)
+Enfoque transversal: no repito las fichas concretas de tela/madera que ya
+sacaron las hermanas 98 (balneario de Chihiro) y 100 (Irontown/bosque de
+Mononoke); aquí busco lo que se repite **en todo el catálogo**: cómo se
+imita el papel pintado a mano, si hay tramas de manga (el estudio casi no
+viene de manga) y el logo/emblema del propio estudio.
+
+- **Nausicaä del Valle del Viento SÍ es manga original de Miyazaki** (serial
+  en la revista Animage, 1982-1994) — la única obra grande de Ghibli con
+  manga propio de verdad (Mononoke sólo tiene un "film comic" con fotogramas
+  recortados, ya lo confirmó la hermana 100). Está dibujado a **lápiz y
+  tinta con tramado a mano** (rayado/hachurado, *cross-hatching*), en tonos
+  sepia poco saturados — **no usa screentone/trama impresa** como el manga
+  comercial típico; es más cercano a un grabado o a una ilustración de
+  ciencia ficción europea. ✅ (dos fuentes:
+  [ghibli.fandom.com/wiki/Nausicaä…(manga)](https://ghibli.fandom.com/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(manga))
+  y [screenrant.com](https://screenrant.com/miyazaki-nausicaa-manga-better-movie-op-ed/),
+  ambas describen el mismo estilo de lápiz/tinta sepia)
+  - Textura libre equivalente al hachurado de Nausicaä: no hay un pincel
+    "cross-hatch manga Miyazaki" listo; lo más cercano son pinceles de
+    grabado/rayado ("crosshatch brush") genéricos de Photoshop, no
+    encontrados con licencia libre específica en esta pasada. ⚠️
+- **Grano de fondo pintado a mano** (el rasgo transversal más importante,
+  técnica de Kazuo Oga y su equipo, punto 1): pinceles gratis de tinta
+  *sumi-e* ya localizados por la hermana 100, válidos aquí igual porque es
+  la misma técnica de todo el estudio, no de una peli — "Sumi Ink Brushes"
+  (Brusheezy, licencia libre declarada en ficha,
+  https://www.brusheezy.com/brushes/1183-sumi-ink-brushes). Además, para el
+  aspecto gouache/acuarela concreto, hay dos packs de pinceles **"inspirados
+  en Ghibli" hechos por fans** con licencia de descarga gratuita declarada
+  en su propia ficha: *"Ghibli-Inspired & Hand-Painted Brush Collection"*
+  (https://brushespack.com/product/ghibli-inspired-hand-painted-brush-collection/)
+  y los pinceles gratis de gouache/lienzo de *kawtherarts* en Gumroad
+  (gratis, botón "pagar lo que quieras" en 0). ✅ (fichas propias, ambas
+  dicen "free download") — ⚠️ ojo: son de fans, no del estudio; usar sólo
+  como herramienta de textura, nunca presentarlos como "oficiales".
+- **Texturas reales CC0 transversales** (AmbientCG, misma familia usada por
+  las hermanas, aquí en genérico para cualquier película): `Paper004`
+  (grano de papel de acuarela claro), `Fabric034` (lino/algodón liso para
+  ropa sencilla tipo Kiki/Sophie), `Wood060` (madera clara de interiores
+  cálidos tipo la casa de Totoro) — https://ambientcg.com/view?id=Paper004,
+  Fabric034, Wood060. ✅ (licencia CC0 estándar de la ficha).
+- **Logo del estudio** (el emblema más reconocible de todos, transversal por
+  definición): la silueta de **Totoro** (con Chibi Totoro/Totoro pequeño
+  dentro de la "O"), diseñada por el propio Hayao Miyazaki; se estrenó con
+  *Only Yesterday* en 1991 (aunque Totoro es de 1988) y no ha cambiado el
+  diseño desde entonces, sólo el grosor de línea al pasar a reproducción
+  digital. Es marca registrada en Japón, EE. UU. y la UE. ✅ (dos fuentes:
+  [1000logos.net/studio-ghibli-logo](https://1000logos.net/studio-ghibli-logo/)
+  y [logos-world.net/studio-ghibli-logo](https://logos-world.net/studio-ghibli-logo/))
+- **Patrón de ropa repetido en el estudio**: cuadros/tartán simple en
+  chalecos y faldas de varias protagonistas europeas (Sophie en El castillo
+  ambulante, gente del pueblo de Kiki) — visible directamente en los
+  fotogramas de las hojas de contacto de abajo (`hojas/arte_01.jpg` #131,
+  #157); no hay una ficha CC de "tartán Ghibli" concreta, se resuelve con
+  cualquier textura de tartán/cuadros genérica con licencia libre.
 
 ### Punto 23 — Colaboraciones y cruces
 
-(pendiente)
+Enfoque transversal: LOEWE (2021 Totoro / 2022 Chihiro) y UNIQLO UT ya están
+documentadas a fondo por las hermanas 98 y 100 — no las repito, sólo las
+nombro como ya cubiertas. Aquí meto lo que es **del estudio entero**, no de
+una peli.
+
+- **Ghibli Park (Aichi, Japón)** — parque temático oficial, no de una sola
+  película: abrió el 1-nov-2022 con 3 zonas (**Ghibli's Grand Warehouse**,
+  **Dondoko Forest** —inspirada en Totoro—, **Hill of Youth**); **Mononoke
+  Village** abrió el 1-nov-2023 (ya la documentó la hermana 100) y **Valley
+  of Witches** el 16-mar-2024, con un **castillo de Howl de 20 metros de
+  alto** (incluida la habitación de Howl y el horno de Calcifer) y un
+  tiovivo. Desde marzo de 2024 las 5 zonas están abiertas a la vez por
+  primera vz. ✅ (dos fuentes:
+  [en.wikipedia.org/wiki/Ghibli_Park](https://en.wikipedia.org/wiki/Ghibli_Park)
+  y [japan-in-a-box.com/ghibli-park-guide-2025](https://japan-in-a-box.com/blogs/inside-the-box/ghibli-park-guide-2025))
+- **Ni no Kuni — el crossover de videojuego oficial que SÍ existe** (a
+  diferencia de Fortnite, que ninguna hermana encontró): colaboración
+  directa Studio Ghibli + Level-5 + compositor Joe Hisaishi. Empezó en 2010
+  (Nintendo DS, *Dominion of the Dark Djinn*), siguió con *Wrath of the
+  White Witch* (PS3, 2011/2013) con animación 2D hecha por el propio
+  estudio Ghibli para las cinemáticas, y sigue vivo hoy con **Ni no Kuni:
+  Cross Worlds** (2022), un juego **gacha para móvil** — es decir, el
+  encargo pedía justo "otros juegos (Fortnite, gachas…)" y este es el caso
+  real. ✅ (dos fuentes:
+  [gamedeveloper.com](https://www.gamedeveloper.com/game-platforms/-i-ni-no-kuni-i-level-5-s-collaboration-with-studio-ghibli-secures-600k-initial-shipment)
+  y [en.wikipedia.org/wiki/Ni_no_Kuni](https://en.wikipedia.org/wiki/Ni_no_Kuni))
+- **Café/panadería oficial reconocida por el estudio** (no una exposición
+  temporal): **Shirohige's Cream Puff Factory** (Kichijoji y
+  Shimo-Kitazawa, Tokio), pastelería que vende choux con forma de Totoro;
+  la dueña es cuñada de Hayao Miyazaki y tiene permiso directo del estudio
+  para vender el producto (tardó 3 años en conseguir la forma de las
+  orejas de Totoro y 2 más en conseguir el permiso). Abierta desde 2007. ✅
+  (dos fuentes:
+  [thesmartlocal.jp](https://thesmartlocal.jp/shirohiges-cream-puff-factory/)
+  y [washiwanders.com](https://washiwanders.com/food-drink/shirohiges-cream-puff-factory-kichijoji/))
+- **Tienda oficial de merchandising del estudio entero**: **Donguri
+  Kyowakoku** (どんぐり共和国), operada por Benelic Co., con tiendas físicas por
+  todo Japón (Donguri Republic) y web propia (donguri-sora.com); vende
+  figuras y peluches de todas las películas, no sólo una. Sólo envía dentro
+  de Japón. ✅ (dos fuentes:
+  [kanpai-japan.com](https://www.kanpai-japan.com/travel-guide/donguri-official-ghibli-shops)
+  y [soranews24.com](https://soranews24.com/2014/03/04/donguri-kyowakoku-the-store-with-nothing-but-studio-ghibli-anime-items/))
+- **Figuras oficiales, ejemplo concreto de pose 3D de referencia**: los
+  productos de Donguri Kyowakoku incluyen figuras de Totoro en varias poses
+  (de pie, sentado, con paraguas) vendidas como colección — sirven de
+  referencia 3D de pose "oficial" sin ser fan art. ⚠️ (no encontré ficha
+  con fotos técnicas de cada pose individual, sólo el catálogo general de
+  la tienda)
+- **Cosplay premiado en competición internacional**: un cosplay de **Mi
+  Vecino Totoro** ganó aplausos y elogios en el **World Cosplay Summit**
+  (la referencia más "oficial" de un concurso de cosplay reconocido
+  internacionalmente en el que ha destacado un disfraz Ghibli). ✅ (fuente:
+  [cbr.com/studio-ghibli-my-neighbor-totoro-world-cosplay-championship-award](https://www.cbr.com/studio-ghibli-my-neighbor-totoro-world-cosplay-championship-award/))
+  ⚠️ falta cruzar con una segunda fuente el año/nombre exacto del
+  cosplayer — quedó pendiente por cupo, ver «No encontré».
+- **Lo que NO existe (comprobado, no asumido)**: colaboraciones oficiales
+  con Gucci, New Balance, MUJI o GU — busqué las cuatro juntas en inglés y
+  sólo salió UNIQLO (ya cubierto por las hermanas). ⚠️ No lo doy por
+  imposible a futuro, sólo no existe hoy con esta búsqueda.
+
+## Hojas de contacto (`hojas/`, 3 JPEG, todas <1 MB)
+
+Generadas con `herramientas/investigar_serie.py --wiki ghibli --paginas
+"Kiki's Delivery Service" "Howl's Moving Castle" "My Neighbor Totoro" "Ponyo"
+"The Wind Rises" "Nausicaä of the Valley of the Wind" "Kazuo Oga"` (701
+imágenes candidatas, 5 hojas generadas antes de cortar por tiempo; elegí las
+3 más variadas). Miradas una a una antes de elegir, no sólo por el nombre de
+archivo.
+
+- **`hojas/arte_01.jpg`** (numerada 1-48): posters oficiales variados
+  (Ponyo, Howl, Totoro, Kiki, Wind Rises, Nausicaä), storyboard de Totoro a
+  lápiz (#3), el logo original de Kiki's Delivery Service basado en las
+  ilustraciones de Akiko Hayashi (#7), celdas de animación originales
+  (#18, #26, #33), bocetos de personajes y fondos de Kazuo Oga trabajando
+  en su estudio (#30-32, #38-39), foto del propio Oga pintando (#32). Sirve
+  para el punto 1 (variedad oficial) y para citar la técnica de Oga con
+  imagen de apoyo.
+- **`hojas/fondos_01.jpg`** (numerada 49-96): fondos **sin personaje en
+  primer plano** ya rotulados por su propio nombre de archivo —
+  `Background - nausicaa1.jpg` (#68), `Background - howl1.jpg` (#70),
+  `Background - kaze1.jpg` (#86), `Background - totoro1.jpg` (#79) — más el
+  interior de la panadería de Kiki (#61), la cocina/desayuno de Sophie
+  (#62-64) y el valle verde con el niño Jiro antes de la guerra (#42-43,
+  Wind Rises). Es la hoja más directa para el punto 16 (fondos "puros").
+- **`hojas/comida_viento_01.jpg`** (numerada 97-144): el valle tóxico de
+  Nausicaä con Ohmu (#97-104, viento/atmósfera), Totoro bajo la lluvia con
+  el paraguas (#106, viento/agua), la vista de la bahía y los Ohmu bebé
+  cruzando el agua de Ponyo (#108-115), el desayuno de huevo con tocino de
+  Sophie en El castillo ambulante (#143-144, comida — la escena de comida
+  más citada del estudio junto al ramen de Ponyo, ya medida en el punto 1).
+
+Nota: el `indice.json` con los números y URL originales quedó en
+`herramientas/referencias/el-estilo-ghibli-en-general/` (carpeta que git
+ignora), no en `hojas/`, tal como pide AYUDANTE.md.
 
 ## Lo mejor para la lámina
 
-(pendiente)
+- El **fondo de pantalla oficial "para videollamada"** de cualquiera de las
+  26 películas (`ghibli.jp/gallery/<slug>NNN.jpg`, sin marca de agua) es la
+  base más limpia para poner un personaje delante en Blender/Photoshop.
+- El **desayuno de Sophie** (huevo con tocino, `hojas/comida_viento_01.jpg`
+  #143-144, o el modelo 3D CC BY de Zeps3D) es la referencia de "comida
+  Ghibli" más citada fuera del ramen de Ponyo — sirve si el canal quiere
+  algo de mesa/cocina.
+- El **komorebi de Totoro** (`totoro025.jpg`, punto 1, verdes oscuros con
+  puntos de luz) es el efecto de luz más reconocible y reproducible con una
+  capa de "luz de trama" en Photoshop.
+- El vestido negro + lazo rojo de **Kiki** (hex del punto 15) es el
+  vestuario más reconocible del estudio fuera de Totoro mismo, útil si el
+  canal quiere un personaje "cara" del estilo Ghibli en general.
+- El **castillo de Howl de Ghibli Park** (Valley of Witches, punto 23) es la
+  mejor referencia 3D/arquitectónica real de un edificio-personaje del
+  estudio, con foto oficial del propio parque.
 
 ## No encontré
 
-(pendiente)
+- ⚠️ Textura o pincel libre específico de "hachurado tipo Nausicaä manga"
+  (cross-hatch sepia): sólo genéricos, ningún pack dedicado a este estilo
+  concreto (punto 19).
+- ⚠️ Ficha oficial con fotos de cada pose de las figuras de Totoro de
+  Donguri Kyowakoku: sólo el catálogo general de la tienda, no una ficha
+  técnica por figura (punto 23).
+- ⚠️ Año y nombre exactos del cosplayer de Totoro premiado en el World
+  Cosplay Summit: una sola fuente (cbr.com), no crucé una segunda antes de
+  quedarme sin cupo en esta pasada (punto 23).
+- ⚠️ Colaboración oficial con Gucci, New Balance, MUJI o GU: búsqueda hecha
+  en inglés, no existe ninguna a día de hoy (punto 23).
+- ⚠️ Color del pelo de Howl en su forma "negra" (estado de ánimo alterado):
+  sólo medido su estado rubio normal (arrastrado del punto 15, ya avisado
+  ahí).
 
 ## Bitácora
 
-(pendiente)
+- Español: ninguna búsqueda específica nueva en esta tanda (el resto ya
+  estaba en inglés/japonés de la tanda anterior, ver Hallazgos de los
+  puntos 1/3/15/16).
+- Inglés (WebSearch, esta tanda): "Nausicaä of the Valley of Wind manga
+  screentone hatching hand-drawn technique Miyazaki"; "Studio Ghibli Park
+  areas 2024 2025 Dondoko Forest Valley of Witches Hill of Youth official";
+  "Shirohige's Cream Puff Factory Studio Ghibli official bakery Kichijoji
+  Goro Miyazaki"; "Studio Ghibli official collaboration Gucci OR New
+  Balance OR MUJI OR GU 2024 2025"; "Ni no Kuni Studio Ghibli Level-5
+  official collaboration video game"; "Donguri Kyowakoku OR Benelic Studio
+  Ghibli official figure line collectible"; ""Ghibli style" Photoshop brush
+  pack free gouache texture watercolor background download"; "Studio Ghibli
+  official cosplay contest craftsmanship award winning"; "Studio Ghibli
+  logo Totoro silhouette trademark history design origin".
+- Directo (sin buscador, cuota ahorrada): `herramientas/investigar_serie.py`
+  con 7 páginas de la wiki de Ghibli (Kiki's Delivery Service, Howl's
+  Moving Castle, My Neighbor Totoro, Ponyo, The Wind Rises, Nausicaä of the
+  Valley of the Wind, Kazuo Oga) → 701 imágenes candidatas, 5 hojas de
+  contacto miradas una a una, 3 elegidas para `hojas/`; ficha de licencia de
+  ambientcg.com (Paper004, Fabric034, Wood060) y de Brusheezy/Gumroad para
+  los pinceles.
+- Fuentes que fallaron o no aplicaron: `investigar_serie.py` se cortó por
+  tiempo (110 s) tras 5 hojas — suficiente para elegir, no hizo falta
+  relanzarlo; AmbientCG no tiene una textura "watercolor paper wet" (ya lo
+  avisó el punto 16 de la tanda anterior).
 
-Sigue: llenar todos los puntos (1, 3, 15, 16, 19, 23) desde cero.
