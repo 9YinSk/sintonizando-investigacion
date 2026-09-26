@@ -482,3 +482,124 @@ Los sitios y su luz están en el punto 4. Aquí, fondos de pantalla en alta, tod
 - **Fondos oficiales descargables:** no se hallaron. Aniplex y Crunchyroll no los publican; sólo el banner de AniList (punto 1). ⚠️
 - **Hora del día típica:** tarde dorada en la calle y el colegio; noche azul sólo en el camino de Kaori; luz cálida cenital en el cuarto del piano; luz de escenario en Towa Hall.
 
+## 17 · Guía para IA de imagen y de texto
+
+Escrita por el redactor con todo lo anterior. Sirve para Firefly, Canva o cualquier IA de imagen, y para una IA de texto que escriba diálogos.
+
+### Para la IA de imagen
+
+**Rasgos que nunca cambian:**
+- **Kousei:** 14 años, pelo azul muy oscuro, **lentes de pasta negra gruesa** siempre, cara tranquila y algo triste. Uniforme gris, camisa celeste, corbata roja a rayas.
+- **Kaori:** pelo **rubio largo y ondulado** con flequillo, ojos claros grandes, sonrisa enorme. Cárdigan gris #9C9F9E sobre top celeste #BBE2EC, falda a cuadros gris, medias azul marino. **Violín** y maletita rosa.
+- **Tsubaki:** pelo **castaño corto** #593A29, ojos castaños, cara expresiva. Uniforme o ropa de sóftbol blanca con cuello rojo #C7465F y gorra blanca.
+- **Watari:** pelo **castaño anaranjado** despeinado, sin gafas, uniforme desarreglado, corbata floja. Camiseta de fútbol n.º 11.
+
+**Paleta según la escena (medida, punto 4):**
+- Tarde de primavera: #F6E1C6, #E9BBA1, #F4DE8C, #DEAD66, pétalos rosa.
+- Interior con piano: #E6E6E2, #BF9955, #87603C.
+- Noche triste: #1A2434, #283950, #426CB1.
+- Sala de conciertos: #251309, #B39566, #D3C094.
+
+**Línea y sombreado:** línea fina, casi del mismo grosor, color no negro puro (marrón o gris oscuro). Sombra plana a dos tonos. Colores claros y limpios con «transparencia» (透明感). Bordes nítidos, sin desenfoque.
+**Luz:** contraluz dorado de atardecer, destellos suaves, pétalos de luz saliendo del instrumento cuando tocan.
+**Encuadre:** primer plano de cara con la mirada al espectador (como la primera key visual); plano medio con el instrumento; plano general de calle con cerezos y cables eléctricos.
+
+**Palabras que ayudan (en inglés, las IA entienden mejor):**
+`anime key visual, 2014 TV anime style by A-1 Pictures, thin soft lineart, two-tone cel shading, pastel transparent colors, golden hour backlight, cherry blossom petals falling, Japanese suburban street with power lines, grand piano, violin, gentle lens flare, spring`.
+
+**Palabras que lo estropean:** `3D render, chibi` (salvo gags), `thick black outlines, dark fantasy, glitch, chromatic aberration, hyperrealistic, autumn leaves, snow, neon`.
+Tampoco: Kousei sin gafas, Kaori morena, cualquier estación que no sea primavera.
+
+**Imágenes para usar de referencia:**
+- Estilo: personajes_01 #9 (key visual), #8 y #34 (Kaori con violín), personajes_02 #62 (póster del elenco).
+- Pose: fotogramas_03 #1 (presentar), #5 (explicar), #12 (explicar en grupo), #13 (celebrar), #18 (animar), #8 (regañar), #9 (pensar).
+- Fondo: fotogramas_03 #17 (calle), #10 (cuarto del piano), #21 (sala), #22 (final).
+
+**Vocabulario de expresiones que la IA debe entender:**
+- **Fondo de rosas y destellos:** alegría o encanto de Kaori (Ep. 1, 19:00).
+- **Ojos de estrella y fondo de rayos de colores:** entusiasmo (personajes_01 #15-16).
+- **Ojos rojos afilados y megáfono:** furia cómica de Kaori (Ep. 1, 18:20).
+- **Gotas de sudor, rayos y cuerpo *chibi*:** susto o golpe de broma (Ep. 1, 11:00).
+- **Marcas de enfado y dedo acusador:** Tsubaki regañando.
+- **Fondo de corazones:** Watari coqueteando (Ep. 1, 19:40).
+- **Océano oscuro, burbujas:** Kousei no oye su piano, pánico.
+- **Mundo gris contra mundo a color:** tristeza contra vida.
+- **Pétalos que se dispersan en luz:** música que emociona; en el final, Kaori que se va.
+
+### Para la IA de texto
+
+**Voz de cada uno:**
+- **Kaori:** exclamaciones, órdenes, cambios bruscos de furia a sonrisa. Trata la música como un reto. Mucho «¡!». Nunca se queja de su enfermedad en voz alta.
+- **Kousei:** frases cortas, dudas, puntos suspensivos, autocrítica. Habla más consigo mismo que con los demás.
+- **Tsubaki:** directa, de barrio, regaña a Kousei como a un hermano menor. Se traba cuando el tema son sus sentimientos.
+- **Watari:** relajado, coqueto, exagera lo bueno. Da ánimos sin juzgar: «que la chica decida si vales la pena».
+
+**Frases reales, por emoción** (subtítulos de fans en inglés del audio japonés):
+- **Alegre:** Kaori «Nice to meet you!» (Ep. 1, 19:00). Watari «Sweet! I got a text from Keiko!» (Ep. 1, 7:00).
+- **Enfadado:** Kaori «Dirty little camera creep! You won't get away with this, you perv!» (Ep. 1, 18:20). Tsubaki «Doesn't your youth mean anything to you?» (Ep. 1, 11:00).
+- **Explicando:** «No question. It's the set piece, the Kreutzer.» (Ep. 2, 10:00, la grada). Tsubaki «If there's a lull in conversation, you could talk about instruments and stuff» (Ep. 1, 12:55).
+- **Animando:** Watari «If you need time to prepare, you got it!» (Ep. 3, 21:00). Watari «Oh, stop! You flatter me!» (Ep. 1, 19:40), en broma.
+- **Triste:** Kousei «No one's gonna bother falling in love with me» (Ep. 1, 7:40). Kaori «…if you've got a chance or not.» (Ep. 3, 20:00). Carta: «If you don't want it, feel free to tear it up and throw it away.» (Ep. 22, 20:00).
+
+**Cómo escribir en español para una lámina:** frases cortas, una idea cada una. Kaori manda y anima; Tsubaki explica y regaña; Watari celebra. Sin «·», «—» ni paréntesis (regla del dueño).
+**Vocabulario de la serie para textos:** «Piano-senpai», «el metrónomo humano», «monótono y a todo color», «la mentira de abril», Towa Hall, canelés, cerezos, «acompañante» (Kousei es el acompañante de Kaori).
+**Ejemplos en su voz (texto nuevo, no cita):** Kaori «¡Canta como tú, no como la partitura!». Tsubaki «Aquí se habla de cantar. Los covers, a #demos-canto». Watari «¡Ese agudo te salió genial!».
+Cuando se estrene el doblaje latino, cambiar las citas en inglés por las del doblaje.
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+### Cómo lo hizo el estudio
+
+Entrevistas oficiales en japonés en [kimiuso.jp/special](https://www.kimiuso.jp/special/04.html), no traducidas antes al español.
+- **Paleta «brillante y pop»** (明るくポップに), sacada de las páginas a color y portadas del manga. Mucha luz, saturación alta, bordes nítidos para dar **transparencia** (透明感). Las escenas serias pasan a un **monótono duro** a propósito, para que el contraste golpee. ✅ ([director Ishiguro](https://www.kimiuso.jp/special/05_01.html))
+- **Piano en 3D** hecho por el estudio de CG **Graphinica**. ⚠️ fuente única, pero oficial ([reporte #14](https://www.kimiuso.jp/special/04.html), 21-ene-2015).
+- **Dos músicos reales de referencia**, grabados con varias cámaras: el pianista Tomoki Sakata (manos de Kousei, Takeshi y Emi) y la violinista Yuna Shinohara (Kaori). El director les daba indicaciones de actor antes de tocar. ✅ (entrevista + TV Tropes, *2D Visuals, 3D Effects*)
+- **Texturas 2D pegadas** (貼り込み素材): etiquetas y páginas deformadas sobre objetos 3D o fondos. ✅ (reporte #13)
+- **Diseño de personajes:** Yukiko Aikei, elegida por su trazo «femenino» parecido al de Arakawa. Quiso «capturar el toque del lápiz» del autor; muchas pruebas hasta dar con la sonrisa de Kaori. ✅ ([charla en Anime Boston 2016](https://www.animeherald.com/2016/04/04/anime-boston-2016-conversation-lie-aprils-kyohei-ishiguro-yukiko-aikei/))
+- **El autor** dibuja las manos «con sensualidad» y piensa el tamaño de viñetas, las líneas de velocidad y **dónde van los globos** como una partitura. ✅ ([entrevista a Arakawa](https://www.kimiuso.jp/special/05_05.html))
+- **Preproducción cinco veces más larga** de lo normal; voces grabadas antes de terminar el arte. ✅ (Anime Boston)
+- Programas: el estándar de la época es RETAS PRO para línea, PaintMan para color, After Effects para efectos ([Anime News Network](https://www.animenewsnetwork.com/answerman/2018-03-30/.129615)). ⚠️ no confirmado para este título.
+
+### En Photoshop
+
+- **Línea:** pincel de 2-3 px, poca presión, color marrón o gris oscuro. Curvas suaves en mandíbula y nariz.
+- **Sombra:** dos tonos planos. Para escenas serias, capa **Multiplicar** azul grisácea encima para bajar saturación, y trama de puntos al 20-30% sobre las sombras.
+- **Brillo:** capa **Aclarar** o **Sobreexponer color** con pincel suave blanco o dorado detrás del contorno. Destello de lente sutil en la fuente de luz.
+- **Pétalos de luz:** pincel de partículas y desenfoque radial saliendo del instrumento.
+- **Grano:** Añadir ruido 2-3% monocromático sólo en recuerdos. Nada de aberración cromática.
+- **Recortes:** siempre por `v3/integrar.py` (regla del dueño).
+
+### En Blender
+
+- **Contorno:** **Freestyle**, no Solidify: afina la línea según el ángulo, como el trazo de la serie.
+- **Shader cel:** Diffuse BSDF → *Shader to RGB* → **ColorRamp** de 2-3 escalones. No usar Principled directo.
+- **Luz:** luz de área grande dorada como principal y relleno azulado frío. Nunca sombras negras.
+- **Piano y violín:** los modelos libres del punto 3. Como Graphinica: render 3D del objeto y personaje 2D encima.
+- **Papel:** textura Paper001 de ambientCG (punto 19) sobre un plano con modificador de ondas o arrugas, para que la tinta siga la forma.
+
+### Encuadres típicos
+
+- Cara en primer plano mirando al espectador: la primera key visual buscaba «ojos que se cruzan con los tuyos» ([reporte #04](https://www.kimiuso.jp/special/04.html)). ✅
+- Plano medio con instrumento, cuerpo inclinado hacia él (fotogramas_03 #4).
+- Plano general de calle con cerezos y cables en primer término (fotogramas_03 #22).
+- Personaje solo en un escenario enorme a oscuras para la soledad (fotogramas_03 #9).
+- Siluetas: los cuatro se diseñaron primero en silueta. ✅ (Anime Boston)
+
+## 19 · Texturas 2D
+
+Todas de [ambientCG](https://ambientcg.com/view?id=Paper001), **CC0**, uso comercial sin crédito.
+
+| Textura | Para qué | Enlace |
+|---|---|---|
+| Paper001, papel | carta de Kaori, partituras, programas | [ficha](https://ambientcg.com/view?id=Paper001) ✅ |
+| Wood049, madera clara | piano, aula, suelo del cuarto | [ficha](https://ambientcg.com/view?id=Wood049) ✅ |
+| Fabric061, lana gris | saco del uniforme | [ficha](https://ambientcg.com/view?id=Fabric061) ✅ |
+| Metal049A, metal cepillado | herrajes del piano, clavijas | [ficha](https://ambientcg.com/view?id=Metal049A) ✅ |
+| Cuero, categoría Leather | funda del violín, mocasines, guante | [lista](https://ambientcg.com/list?type=Material&q=leather) ⚠️ sin ficha concreta |
+
+- **Tramas de manga libres:** no se halló ninguna gratis y libre. Buscado en [OpenGameArt](https://opengameart.org) y en [itch.io](https://itch.io/game-assets/free/tag-screentone): sólo un pack de pago de Rachel Chen, licencia de un usuario. Wikimedia Commons dio error 429. ⚠️
+- **Alternativa sin archivo:** Photoshop, Filtro > Pixelizar > Semitono de color.
+- **Patrones de ropa:** la corbata a rayas rojas y blancas y la falda a cuadros gris de Kaori se dibujan a mano, sin textura libre equivalente. ⚠️
+- **Emblemas:** el escudo del Colegio Sumiya con una «S» (visible en las credenciales, personajes_01 #12, #36, #37).
+- Capas completas: 3D en el punto 3, texturas reales en el 4, 2D aquí.
+

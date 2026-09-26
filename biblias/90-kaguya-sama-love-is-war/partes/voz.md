@@ -110,7 +110,9 @@ actor imitando acento francés):
   cosas. Kaguya, ya eres la única en quien puedo confiar. Sólo quiero saber
   cómo puedo romper sin problemas con mi novio."* — voz medida: **registro
   muy agudo (416 Hz, el más agudo transcrito en toda la serie hasta ahora)**,
-  expresividad normal (9,0 semitonos), **muy rápida (3,67 palabras/s)** ✅ —
+  expresividad normal (9,0 semitonos), **muy rápida (3,67 palabras/s)** ✅
+  fuente: https://static.wikia.nocookie.net/doblaje/images/f/f5/Nagisa_Kashigawi_%28ESP-LA%29.ogg/revision/latest?cb=20220502182130&path-prefix=es
+  (de https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) —
   encaja con su papel cómico de "novia dramática" que siempre exagera crisis
   de pareja que se resuelven en segundos.
 - **Tsubasa Tanuma** (Diego Becerril), 0:00-0:16: *"Sí, es que todos en la
@@ -118,9 +120,13 @@ actor imitando acento francés):
   podrías ayudarme dándome algunos consejos. Bueno, en mi clase hay una linda
   chica que se llama Kashiwagi. ¡Quiero declarármela para que ella sea mi
   novia!"* — voz medida: registro medio (219 Hz), **muy expresiva (11,5
-  semitonos)**, **rápida (3,46 palabras/s)** ✅ — es el gag recurrente exacto
-  que documenta la wiki (Tsubasa "visita al consejo con la excusa de pedir
-  consejo pero en realidad presume su relación").
+  semitonos)**, **rápida (3,46 palabras/s)** ✅ fuente:
+  https://static.wikia.nocookie.net/doblaje/images/f/fa/Tsubasa_Tanuma_%28ESP-LA%29.ogg/revision/latest?cb=20220502182124&path-prefix=es
+  (de https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) — es el
+  gag recurrente exacto que documenta
+  https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Tsubasa_Tanuma (Tsubasa
+  "visita al consejo con la excusa de pedir consejo pero en realidad presume
+  su relación").
 - **Adolphe Pescarolo** (Raúl Anaya), 0:00-0:16: *"Joven Shirogane, ¿por qué
   crees que de la nada te pedí que fueras tú quien preparara esa gran
   partida? Entiende, debes determinar si eres en verdad el hombre a quien yo
@@ -128,20 +134,28 @@ actor imitando acento francés):
   voz medida: **registro grave (96 Hz, el más grave de todo el reparto
   medido)**, muy expresiva (12,1 semitonos), rápida (3,05 palabras/s) ⚠️ (un
   nombre propio de la transcripción de Whisper, "academy", corregido a mano
-  por "academia") — tono solemne/aristocrático, coherente con el personaje
-  francés.
+  por "academia") fuente:
+  https://static.wikia.nocookie.net/doblaje/images/f/f4/Adolphe_Pescarolo_%28ESP-LA%29.ogg/revision/latest?cb=20220502182135&path-prefix=es
+  (de https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) — tono
+  solemne/aristocrático, coherente con el personaje francés.
 - **Kobachi Osaragi** (Jocelyn Robles), 0:00-0:14: *"Ella está realmente
   agradecida, pero también está frustrada. Muchas gracias, Miko. La verdad,
   yo no quiero estar en el consejo. Lo único que yo quería era apoyar a
   Miko. ¿Y tú qué harás, Miko?"* — voz medida: registro agudo (264 Hz), tono
   **calmado/normal (4,5 semitonos, el menos expresivo transcrito en toda la
-  serie)**, rápida (3,17 palabras/s) ✅ — encaja con su ficha (Fandom,
-  Personality): "girl of few words".
+  serie)**, rápida (3,17 palabras/s) ✅ fuente 1 (audio):
+  https://static.wikia.nocookie.net/doblaje/images/7/74/Kobachi_Osaragi_%28ESP-LA%29.ogg/revision/latest?cb=20220502182134&path-prefix=es
+  (de https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) —
+  encaja con su ficha en inglés, sección Personality: *"Kobachi is a girl of
+  few words..."* ✅ fuente 2:
+  https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kobachi_Osaragi.
 - **Sr. Shirogane, padre de Miyuki** (Rafael Pacheco), 0:00-0:24: *"Es el
   presidente del Consejo Estudiantil, se está esforzando demasiado. No
   quiere que la gente note lo incompetente que es. Shinomiya... Oh, sí, ya
   entiendo. Entonces, señorita Shinomiya, ¿sería tan amable de contarme más
   acerca del tipo de persona que es Miyuki Shirogane?"* — voz medida:
   registro grave (112 Hz), muy expresiva (12,3 semitonos), velocidad normal
-  (2,63 palabras/s) ✅.
+  (2,63 palabras/s) ✅ fuente:
+  https://static.wikia.nocookie.net/doblaje/images/7/7c/Sr._Shirogane_%28ES-LA%29.ogg/revision/latest?cb=20220810141849&path-prefix=es
+  (de https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War).
 

@@ -143,37 +143,55 @@ lámina 2 (regla 5 del dueño).
 
 ## 2 · Las escenas que sirven para estos canales
 
-> Arcane no está en el espejo de subtítulos de anime, y los sitios de
-> subtítulos y de transcripciones daban error. **No tengo minutos de
-> subtítulo**. Doy el episodio y lo que pasa, con su fuente. Donde pongo
-> un minuto aproximado, va con ⚠️ y hay que comprobarlo en Netflix.
+> **Segunda pasada (26-sep)**: ahora sí hay minutos. Los investigadores
+> bajaron la T1 entera en 1080p de Internet Archive
+> ([arcane-season-1-60fps](https://archive.org/details/arcane-season-1-60fps))
+> y **miraron los fotogramas** con `fotogramas.py`. Los minutos de abajo
+> son de ese archivo (el de Netflix puede variar unos segundos). La T2
+> sigue sin minutos: ese archivo sólo trae la T1.
 
 ### 2.1 Para #proyectos: el proyecto Hextech, de principio a fin
 
 | Etapa del proyecto | Escena | Estado |
 |---|---|---|
-| **Buscando gente** | Final de 1×02 o principio de 1×03: Jayce, desterrado de la Academia y solo con sus apuntes. Viktor, ayudante de Heimerdinger, va a buscarlo porque cree en su teoría | ⚠️ de memoria (en qué episodio cae y la frase exacta); que se asocian en 1×03 es ✅ ([Arcane Wiki](https://arcane.fandom.com/wiki/The_Base_Violence_Necessary_for_Change), [The Review Geek](https://www.thereviewgeek.com/arcane-s1e3review/)) |
-| **Equipo formado** | 1×03: Viktor le habla del «sueño Hextech» y Jayce le corrige: «**nuestro** sueño Hextech» | ✅ ([The Review Geek](https://www.thereviewgeek.com/arcane-s1e3review/), [LoL Wiki S1E3](https://leagueoflegends.fandom.com/wiki/Arcane_(TV_Series)/Season_1/Episode_3)) |
-| **En grabación** (la prueba) | 1×03: de noche, en el laboratorio de Heimerdinger, Mel les da una noche. Todo flota: funciona. Jayce: no es la era de la magia, «es la era de la **Hextech**» | ✅ (mismas fuentes) |
-| **Estrenado** | 1×04, **Día del Progreso** (200 años de Piltóver): Jayce da el discurso; sus **hexportales** ya mueven los dirigibles | ✅ ([The Review Geek 1×04](https://www.thereviewgeek.com/arcane-s1e4review/), [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Recap/ArcaneS1E4HappyProgressDay)) |
-| **En pausa** | 1×04: Heimerdinger le quita la idea de presentar la **gema estabilizada**. Esa noche Jinx roba las gemas **y deja grafiti**. Al día siguiente, Jayce propone **suspender** toda la Hextech | ✅ ([The Review Geek 1×04](https://www.thereviewgeek.com/arcane-s1e4review/), [Arcane Wiki](https://arcane.fandom.com/wiki/Happy_Progress_Day!)) |
+| **Buscando gente** | **1×02, min 14:48**: juicio de Jayce ante el Consejo; está solo y diminuto en un círculo de luz, todos lo miran desde arriba, y lo expulsan de la Academia. En 1×03 Viktor, ayudante de Heimerdinger, va a buscarlo porque cree en su teoría | ✅ minuto visto en fotograma ([archivo 1×02, `?t=888`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=888)) + [Jayce Talis · Arcane Wiki](https://arcane.fandom.com/wiki/Jayce_Talis); que se asocian en 1×03 es ✅ ([Arcane Wiki](https://arcane.fandom.com/wiki/The_Base_Violence_Necessary_for_Change), [The Review Geek](https://www.thereviewgeek.com/arcane-s1e3review/)); la frase exacta del encuentro ⚠️ |
+| **Equipo formado** | 1×03: Viktor le habla del «sueño Hextech» y Jayce le corrige: «**nuestro** sueño Hextech». **Min 17:30**: los dos en el taller, Viktor con el cuaderno en la mano, sonriendo ante el primer arco eléctrico azul | ✅ ([The Review Geek](https://www.thereviewgeek.com/arcane-s1e3review/), [LoL Wiki S1E3](https://leagueoflegends.fandom.com/wiki/Arcane_(TV_Series)/Season_1/Episode_3)); minuto ✅ visto ([archivo 1×03, `?t=1050`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1050)) |
+| **En grabación** (la prueba) | 1×03: de noche, en el laboratorio de Heimerdinger, Mel les da una noche. Todo flota: funciona. Jayce: no es la era de la magia, «es la era de la **Hextech**» | ✅ el hecho (mismas fuentes). ⚠️ **minuto sin encontrar**: no está entre 0:00 y 32:00 de 1×03, ni en 1×05 ni en 1×06, mirados enteros. Falta mirar 1×03 desde el 32:00 |
+| **Estrenado** | 1×04, **Día del Progreso** (200 años de Piltóver): Jayce da el discurso; sus **hexportales** ya mueven los dirigibles. **Min 23:40-26:50**: entra con foco cenital, sube al atril de latón con bocinas de gramófono (24:20), habla con el puño en el pecho (25:40) y cierra con fuegos artificiales rojos y cian (26:20) | ✅ ([The Review Geek 1×04](https://www.thereviewgeek.com/arcane-s1e4review/), [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Recap/ArcaneS1E4HappyProgressDay)); minutos ✅ vistos en fotograma |
+| **En pausa** | 1×04: Heimerdinger le quita la idea de presentar la **gema estabilizada** (**min 11:14-13:14**: Jayce solo con la gema flotando entre chispas azules; entra Heimerdinger; detrás, en la mesa, los guanteletes Atlas). Esa noche Jinx roba las gemas **y deja grafiti**. Al día siguiente, Jayce propone **suspender** toda la Hextech | ✅ ([The Review Geek 1×04](https://www.thereviewgeek.com/arcane-s1e4review/), [Arcane Wiki](https://arcane.fandom.com/wiki/Happy_Progress_Day!)); minuto ✅ visto, y lo confirma [PC Gamer, recap 1×04](https://www.pcgamer.com/arcane-episode-4-recap-ghosts-of-the-past/). **Corrección**: la escena de la gema es de 1×04, no de 1×03 |
 | **En revisión** | 1×04: el Consejo vota; Mel propone a Jayce como concejal | ✅ (mismas fuentes) |
-| **Cancelado** | 1×06: Jayce y Viktor chocan por el **Núcleo Hex**; Jayce lo cierra | ⚠️ de memoria |
+| **Cancelado** | 1×06: Jayce y Viktor chocan por el **Núcleo Hex**; Jayce lo cierra. **Min 27:00**: el núcleo hex (esfera azul violeta con runas) flota al fondo del laboratorio; Jayce, de perfil y preocupado, en primer plano | ✅ el núcleo en 1×06, visto en fotograma y en la sinopsis ([When These Walls Come Tumbling Down · Arcane Wiki](https://arcane.fandom.com/wiki/When_These_Walls_Come_Tumbling_Down)); ⚠️ que Jayce lo cierre sigue de memoria |
 
 > [!tip] La escena de 1×04 es oro para las dos láminas
 > **Jinx entra en el laboratorio de Jayce y Viktor y deja su grafiti.**
 > Es el único sitio donde los **planos Hextech** (#proyectos) y **la
 > pintura de Jinx** (#arte) están en la misma habitación. Qué dice y
-> dónde está el grafiti exactamente: ⚠️ no lo vi en fotograma.
+> dónde está el grafiti exactamente: ⚠️ sigue sin fotograma. En la
+> segunda pasada se miró 1×04 hasta el 26:50 al detalle y el resto cada
+> 45 s, y no apareció.
 
 ### 2.2 Para #arte: pintura, murales y grafiti
 
 | Escena | Qué pasa | Estado |
 |---|---|---|
-| **1×07 «The Boy Savior»**: el árbol de los Firelights | Ekko enseña a Vi un **mural pintado a sus muertos**: Vander, Benzo, Claggor, Mylo, Powder, Vi. **Uno está a medio pintar** (la chica Firelight que murió en 1×04) | ✅ ([Screenspy](https://www.screenspy.com/arcane-season-1-episode-7/), [Arcane Wiki](https://arcane.fandom.com/wiki/The_Boy_Savior)) |
+| **1×07 «The Boy Savior»**: el árbol de los Firelights | Ekko enseña a Vi un **mural pintado a sus muertos**: Vander, Benzo, Claggor, Mylo, Powder, Vi. **Uno está a medio pintar** (la chica Firelight que murió en 1×04). **Min 12:18**: Ekko, serio y con los párpados caídos, junto a Vi ante el mural; hacia el 12:30 Vi lo mira llorosa | ✅ ([Screenspy](https://www.screenspy.com/arcane-season-1-episode-7/), [Arcane Wiki](https://arcane.fandom.com/wiki/The_Boy_Savior)); minuto ✅ visto ([archivo 1×07, `?t=738`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=738)) |
 | **2×04 «Paint the Town Blue»**, al empezar | Suena la canción de **Ashnikko**. Montaje de los «**Jinxers**»: Zaun se tiñe el pelo de azul y se rebela. **Jinx pinta caras** «tontas» y rompe la cuarta pared; ella e **Isha** pintan sus bichos como el Correcaminos del Rift y Vilemaw | ✅ ([IMDb](https://www.imdb.com/title/tt34383695/), [LoL Wiki S2E4](https://wiki.leagueoflegends.com/en-us/Universe:Arcane_(TV_Series)/Season_2/Episode_4), [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Recap/ArcaneS2E4PaintTheTownBlue)) |
 | **La cabeza de Jinx** (1×03, 1×07, 1×09…) | **Garabatos 2D dibujados encima de la imagen**, a 12 fotogramas por segundo, sobre las caras de sus muertos (ojos y orejas exagerados) | ✅ ([SyncSketch](https://blog.syncsketch.com/creator-stories/arcane-fortiche/), [Fantasy/Animation](https://www.fantasy-animation.org/current-posts/visions-of-vulnerability-the-artistic-depiction-of-psychological-decline-in-arcane)) |
 | **El escondite de Jinx** | Muñecos de **Mylo y Claggor** le hacen compañía | ✅ ([AOL](https://www.aol.com/news/league-of-legends-arcane-easter-eggs-act-1-netflix-040800601.html), [WatchMojo](https://www.watchmojo.com/articles/top-10-things-you-missed-in-arcane)); los dibujos de las paredes ⚠️ |
+
+### 2.3 Más escenas miradas de verdad (T1, con minuto)
+
+| Episodio y minuto | Qué se ve | Sirve para | Estado |
+|---|---|---|---|
+| **1×03, 16:55** | Vi, con el brazo vendado, sobre el hombro de Powder; las dos miran abajo | Lámina de equipo, ternura | ✅ visto ([`?t=1015`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015)) |
+| **1×03, 19:15-19:55** | Un artefacto con núcleo azul estalla entre relámpagos y corta a un primer plano de una cara pálida con marcas oscuras bajo los ojos | Retrato de origen | ✅ visto; ⚠️ el investigador lo leyó como la explosión que marcó a Silco, pero por el orden del episodio (al 23:30 Mylo y Claggor ya han muerto) puede ser **la bomba de Powder**. Comprobar antes de usarlo |
+| **1×03, 20:10-22:25** | Flashback de una banda armada en los túneles de Zaun: reuniones tensas, un cuchillo, primeros planos de ojos | Trasfondo de la violencia de Zaun | ✅ visto; ⚠️ el investigador lo leyó como «Vander joven con cresta magenta», pero la cresta magenta es el peinado de Vi: identificación dudosa |
+| **1×03, 23:30-24:45** | Vi, con sangre en la mejilla, le grita a Powder «jinx» y la deja sola | La escena que crea a Jinx (§8, §18b.4) | ✅ visto ([`?t=1410`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1410)) |
+| **1×03, 37:44-38:00** | Silco llega al edificio en llamas con un relámpago azul detrás; encuentra a Powder llorando y la consuela | Silco y Jinx, el origen | ✅ visto ([`?t=2264`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2264)) + [Silco · Arcane Wiki](https://arcane.fandom.com/wiki/Silco) |
+| **1×05, 10:40-11:20** | Jinx activa un aparato hextech hecho con los apuntes de Jayce y Viktor; el pulso de luz azul (11:00) le recuerda la explosión y se derrumba llorando junto a la baranda | Los planos robados en manos de Jinx: une los dos canales | ✅ visto + [sinopsis · Arcane Wiki](https://arcane.fandom.com/wiki/Everybody_Wants_to_Be_My_Enemy) |
+| **1×05, 18:00** | Puerta de caja fuerte con dial de símbolos rúnicos; una silueta da una patada alta a contraluz | Acción, pelea | ✅ visto; ⚠️ quién da la patada no se ve |
+| **1×06, 12:25-14:25** | Marcus entra al cuarto de su hija Ren, que juega con naipes; Silco está sentado con ella, deja caer una carta y se va («los accidentes pasan») | Silco amenazando sin alzar la voz | ✅ visto + [sinopsis · Arcane Wiki](https://arcane.fandom.com/wiki/When_These_Walls_Come_Tumbling_Down) |
+| **1×06, 21:50** | Una figura de pelo magenta camina de espaldas, decidida, por un pasillo oscuro con cortinas | Pose de espaldas | ✅ visto; ⚠️ probablemente Vi (no se ve la cara) |
 
 ---
 
