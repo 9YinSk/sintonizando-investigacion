@@ -159,3 +159,130 @@ actor imitando acento francés):
   https://static.wikia.nocookie.net/doblaje/images/7/7c/Sr._Shirogane_%28ES-LA%29.ogg/revision/latest?cb=20220810141849&path-prefix=es
   (de https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War).
 
+
+### Punto 12 — Lo que ama el fandom (comedia), y qué NO hacer
+
+43 ya cubrió el «Chika Dance», «Justice for Hayasaka», el desmayo de Karen
+Kino, IshiHaya, «Ishigod», la «guerra mental» como meme y el «Kaguya dub» del
+narrador en inglés. Aquí sumo gags **nuevos**, todos ligados a los secundarios
+cómicos del punto 8, sacados de la página **Funny** de TV Tropes (no la YMMV
+que ya usó 43) — abierta con `navegar.py --html` y las carpetas ocultas
+extraídas a mano con BeautifulSoup, porque están colapsadas por CSS y el
+lector de texto normal no las ve — cruzada con las fichas de personaje en
+inglés (`kaguyasama-wa-kokurasetai.fandom.com`, dominio que **sí existe** y
+que el investigador de vídeo no encontró al probar sólo variantes sin
+guiones):
+
+- **El «Papá de Shirogane» tiene la voz de DIO**: Takehito Koyasu le pone al
+  padre de Miyuki la MISMA voz amenazante que usa para **DIO Brando** en
+  *JoJo's Bizarre Adventure* — la cara de padre normal con esa voz de villano
+  es, según TV Tropes, «a factor in why a majority of Papa Shirogane's
+  appearances can and have made much hilarity ensue» ✅ fuente 1: [TV Tropes,
+  Funny/KaguyaSamaLoveIsWar](https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar)
+  (carpeta «Volume 2») · fuente 2 (el propio fandom lo notó solo, sin leer TV
+  Tropes): hilo de Reddit **r/anime**, *«New theory!! Papa Shirogane is
+  actually Dio Brando»* (11-jul-2021, 5 comentarios) ·
+  https://reddit.com/r/anime/comments/oid9fd/new_theory_papa_shirogane_is_actually_dio_brando/
+  — dato de doblaje ligado (punto 8): en latino lo dobla **Rafael Pacheco**,
+  sin el guiño de DIO (Koyasu no dobla a DIO en México), así que el chiste es
+  **exclusivo del original japonés** — si se usa esta gracia en una lámina,
+  avisar de que no aplica al latino.
+- **Papá Shirogane se hace youtuber con «500 millones de yenes en deuda»**:
+  arco cómico completo (cap. 191 del manga, **animado en el especial «Otona e
+  no Kaidan»**, el mismo que 43 ya confirmó con el reparto latino original
+  recuperado en ago-2026) — hasta propone ser **VTuber** antes de que Kei y
+  Miyuki lo bajen a «youtuber normal»; las donaciones suben solas cuando Kei
+  pasa por detrás de cámara sin querer, y en el cap. 197 se autonombra
+  **«DILF» (Downtown Independently Livestreaming Father)**, chiste que
+  Shirogane le pide no repetir nunca ✅ fuente 1: [TV Tropes, Funny (carpeta
+  «Volume 19-20»)](https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar)
+  · fuente 2: [Fandom, «Papa Shirogane», sección Trivia/History](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Papa_Shirogane)
+  (`api.php?action=parse&prop=wikitext`) — capítulo 191 confirmado como
+  animado por la propia ficha de ese capítulo:
+  [`Chapter_191`](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Chapter_191)
+  (`Anime Episode = Otona e no Kaidan`).
+- **A nadie se le ocurrió preguntarle su nombre a «el novio de Kashiwagi»
+  durante 104 capítulos (dos temporadas del anime)**: Tsubasa Tanuma aparece
+  desde el capítulo 6 sólo como «Kashiwagi's Boyfriend»; su nombre de pila
+  sale por accidente en el cap. 109 (dicho por Maki) y su apellido lo confirmó
+  el propio autor **Aka Akasaka en un tuit de respuestas** el 25-ago-2019 ✅
+  fuente 1: [TV Tropes, Funny (carpeta «Volume 11»)](https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar)
+  · fuente 2: [Fandom, «Tsubasa Tanuma», Trivia](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Tsubasa_Tanuma)
+  (enlaza el mismo tuit) — el capítulo 104 donde empieza el gag ya está
+  animado, [episodio 28](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Chapter_104).
+- **Kei le roba el celular a su hermano para chismear con Fujiwara** sobre la
+  vida amorosa de Miyuki (cap. 106, **episodio 28**), terminando convencidas
+  de que él sale en secreto con Hayasaka ✅ fuente 1: TV Tropes (misma
+  carpeta) · fuente 2: [Fandom, «Kei Shirogane», Personality](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kei_Shirogane)
+  (confirma el carácter «mean and abrasive» hacia su hermano que hace creíble
+  el gag). Cuadra con la frase que ya grabó Whisper de Kei en el punto 8
+  (tono de «hermana que sabe más de lo que aparenta»).
+- **El regalo de Navidad de Moeha**: unas esposas para Shirogane, «para que
+  las usen juntos» — Kei y Fujiwara se quedan pálidas, y Shirogane las agradece
+  de corazón sin darse cuenta de por qué (cap. 149, **en la película/especial
+  «First Kiss wa Owaranai», episodio 4** según la propia wiki) ✅ fuente 1:
+  TV Tropes (carpeta «Volume 15») · fuente 2: [Fandom, «Moeha Fujiwara»,
+  Personality/History](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Moeha_Fujiwara)
+  (la llama «kind of a psychopath», cita del propio autor) — el chiste
+  depende del contraste cara-de-ángel/comentario-oscuro: **no dibujar a Moeha
+  sólo tierna**, se pierde la gracia.
+- **El director habla con la cara, no con la boca**: el principal **Adolphe
+  Pescarolo** exige disciplina a los alumnos y lo pillan jugando **Pokémon
+  Go** en el colegio más de una vez, regañando a estudiantes por lo mismo que
+  él hace ✅ fuente 1: [Fandom, «Adolphe Pescarolo», Personality/Trivia](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Adolphe_Pescarolo)
+  · fuente 2 (mismo patrón de «autoridad que se ridiculiza sola», otro
+  capítulo): TV Tropes, cap. 100 —el director quiere fotos «serias» del
+  consejo para el folleto del colegio y termina proponiéndoles posar como
+  novios, lo que casi le cuesta el puesto ✅ (**episodio 24**, confirmado por
+  [`Chapter_100`](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Chapter_100)).
+- **El chiste que se ríe de la propia serie**: en el cap. 122 (**episodio
+  32**) Kaguya suelta *«It's not like the one who confesses first loses or
+  anything!»* y el propio narrador remata: *«Kaguya rejected the very
+  foundation of this manga»* — un chiste metanarrativo sobre la premisa
+  entera de «quien confiesa pierde» ✅ [TV Tropes, Funny (carpeta «Volume
+  13»)](https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar).
+- **Chistes de doblaje que 43 no usó** (ya estaban en `datos-voz.md`, sin
+  explotar): Fujiwara cita a **Bender Rodríguez** de *Futurama* (ep. 18);
+  Kaguya recita la frase de la intro de *Miraculous* — «una chica normal, con
+  una vida normal» (ep. 19), gracioso porque **Jessica Ángeles dobla a Kaguya
+  Y a Marinette**; Shirogane grita **«¡Booyah!»** de *Kim Possible* (ep. 8),
+  gracioso porque **Enzo Fortuny dobla a Miyuki Y a Ron Stoppable**; Ishigami
+  usa «friendzone» y Miko «calenturiento» (ep. 30); Miyuki retoma un chiste
+  sobre **Gordon Ramsay** (ep. 35); Kaguya canta una línea de **«No rompas
+  más»** de Caballo Dorado (ep. 32); Kaguya dice **«uwu»** y Hayasaka le
+  responde llamándola «la vergüenza de Sor Juana [Inés de la Cruz]» (ep. 36)
+  ✅ fuente: [Doblaje Wiki, sección «Datos de interés»](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War#Datos%20de%20inter%C3%A9s)
+  (ya en `datos-voz.md`, cito aquí sólo los que 43 no mencionó: ella usó
+  «cocol», «Ola k ase», «maldita lisiada», «loquita del centro»).
+- **Chistes involuntarios que el propio doblaje reconoce como error** (oro
+  puro para un Discord de doblaje): en el ep. 5 Fujiwara dice «¡¿No
+  exageres?!» en vez de «¡¿no exageras?!»; en el ep. 19 el narrador la llama
+  «Fuguiwara»; en el ep. 23 Ishigami le dice a Kyoko «cállate maldita» pero
+  sus amigas después dicen que le dijo «tonta»; en el ep. 25 los mensajes que
+  leía Kaguya en japonés los lee Hayasaka en el doblaje, aunque está lejos del
+  celular en la escena; en el ep. 34 (min. 2:31) el audio de un diálogo de
+  Miyuki suena con calidad distinta y los labiales no cuadran un rato ✅
+  misma fuente (Doblaje Wiki, «Datos de interés»).
+
+**Qué NO hacer** (comedia, específico de estos secundarios):
+- No dibujar a **Adolphe** sólo como autoridad seria: su gracia es que rompe
+  sus propias reglas (Pokémon Go) — un principal sin ese doble filo pierde el
+  chiste ✅.
+- No convertir a **Tsubasa** en «el novio bobo»: nunca se enoja pase lo que
+  pase, y el gag depende de que su nombre tarde en revelarse — no acortarlo.
+- No reducir a **Nagisa** a «novia celosa dramática»: es la presidenta real
+  del Club de Voluntariado, con notas entre las 10 mejores del año ✅ (ficha).
+- No perder el contraste de **Papá Shirogane**: cara y voz de villano +
+  comportamiento de padre torpe y tierno a la vez; si se dibuja sólo
+  aterrador o sólo tierno, se pierde el chiste central del personaje.
+- No hacer de **Kei** sólo la hermana fría: es fría con extraños, pero
+  cascarrabias cariñosa con Miyuki (le roba el celular para chismear, llora
+  con él leyendo el mismo manga, gestiona las finanzas de la familia).
+- No perder que **Moeha** sonríe exactamente igual que Chika pero con
+  comentarios oscuros («psicópata», según el propio autor) — es el chiste,
+  no un error de personalidad.
+- Los **chistes de doblaje mexicano** (Chespirito, Ola k ase, Bender,
+  Miraculous, Kim Possible…) son **invención del ADAPTADOR latino**, no del
+  original japonés: si el canal presume una frase de estas como «típica de
+  la serie», hay que aclarar que es un guiño local, no algo que reconozca un
+  fan que sólo vio la versión japonesa o el subtitulado.

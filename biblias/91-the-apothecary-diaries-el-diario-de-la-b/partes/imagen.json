@@ -164,8 +164,8 @@
  {
   "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
   "fuente": "AniList (media 161645)",
-  "ancho": null,
-  "alto": null,
+  "ancho": 460,
+  "alto": 653,
   "que_es": "Portada oficial del anime",
   "para_que": "arte oficial (punto 1): portada",
   "licencia": "© titulares; sólo referencia"

@@ -331,21 +331,25 @@ regeneran con el mismo comando. Los originales de cada número están en
 
 > Los modelos de Sketchfab son **fan art de algo que es de Riot**. La
 > licencia CC BY cubre el trabajo del modelador, no la marca. Para una
-> lámina sin fines comerciales vale, **con crédito**. La licencia la
-> sacó el buscador: **ábrela en la página antes de usar** ⚠️.
+> lámina sin fines comerciales vale, **con crédito**. **Segunda pasada**:
+> licencias leídas una a una por la API de Sketchfab y de Poly Haven ✅.
 
 | Objeto | Modelo | Autor | Licencia | Enlace |
 |---|---|---|---|---|
-| Guantelete Hextech (los «Atlas» de 1×04) | Orivers - Hextech Gauntlet - Arcane | Frayseur | CC BY ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/orivers-hextech-gauntlet-arcane-71ff4266065e475d817ca882922137f0) |
-| Martillo de Jayce | Orivers - Hextech hammer - Arcane | Frayseur | descarga libre ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/orivers-hextech-hammer-arcane-f04d59aed16347a6b7b074a0b044ea7a) |
-| Martillo de Jayce | Arcane Jayce Hammer | KarmaDiya | descarga libre ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/arcane-jayce-hammer-98746826bfdd47bbbf517b8fd6ccf60c) |
+| Guantelete Hextech (los «Atlas» de 1×04) | Orivers - Hextech Gauntlet - Arcane | Frayseur | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/orivers-hextech-gauntlet-arcane-71ff4266065e475d817ca882922137f0) |
+| Martillo de Jayce | Orivers - Hextech hammer - Arcane | Frayseur | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/orivers-hextech-hammer-arcane-f04d59aed16347a6b7b074a0b044ea7a) |
+| Martillo de Jayce | Arcane Jayce Hammer | KarmaDiya | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/arcane-jayce-hammer-98746826bfdd47bbbf517b8fd6ccf60c) |
 | Martillo de Jayce | Jayce Hammer | GageCriscione | descarga libre ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/jayce-hammer-143c80c529424bfc8a00c75c2f0412fa) |
-| Granada «mascafuegos» de Jinx | Game Ready - Arcane - Jinx's Grenade | Allan-Jay Branscombe | CC BY ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/arcane-jinxs-grenade-82b0959b18524af2a6311586183bd8f7) |
-| Guantelete de Vi | Arcane Vi Gauntlet Fanart | potias | descarga libre ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/arcane-vi-gauntlet-fanart-7dc0ebd2584741f3a2eabc1929bdca8d) |
+| Granada «mascafuegos» de Jinx | Game Ready - Arcane - Jinx's Grenade | **AllanJayBranscombe** (es el usuario, sin guion) | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/arcane-jinxs-grenade-82b0959b18524af2a6311586183bd8f7) |
+| Guantelete de Vi | Arcane Vi Gauntlet Fanart | potias | **CC BY-NC-ND** ✅: sólo mirar, no modificar | [Sketchfab](https://sketchfab.com/3d-models/arcane-vi-gauntlet-fanart-7dc0ebd2584741f3a2eabc1929bdca8d) |
 | Colección con cajas de cristales Hextech | «arcane» | shipyarn | varias ⚠️ | [Sketchfab](https://sketchfab.com/shipyarn/collections/arcane-3c0d007fa9364aa0a52dbd4778f3b300) |
 | Todo lo etiquetado «hextech» | — | — | varias | [Sketchfab](https://sketchfab.com/tags/hextech) |
-| **Botes de espray** (con gotas y etiquetas) | Spray Paint Bottles | Poly Haven | **CC0** ✅ | [Poly Haven](https://polyhaven.com/a/spray_paint_bottles) |
-| **Ladrillo pintado y desconchado** (azul) | Painted Brick | Poly Haven | **CC0** ✅ | [Poly Haven](https://polyhaven.com/a/painted_brick) |
+| **Guantelete de Vi** | Vi Arcane Gauntlet | karmadiya | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/none-16863169437d4050b307b9be759fe08a) |
+| Guantelete de Vi | Vi Gauntlet - League of Legends | Gustavo_Ribeiro | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/none-46092034259442ec91346f202fb2393e) |
+| Granada de Jinx | Jin'x Grenade GAME READY | pipaboba530 | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/none-3db9ceaa9516460f9e53d59c7ced90f2) |
+| Vi *chibi* (proporciones) | Chibi Vi – Arcane 3D Print Ready | sergei_8888 | **CC BY** ✅ | [Sketchfab](https://sketchfab.com/3d-models/none-936a0976aab94e9ca9a7148aa1f11cf5) |
+| **Botes de espray** (con gotas y etiquetas) | Spray Paint Bottles | Poly Haven (autor: James Ray Cock) | **CC0** ✅ | [Poly Haven](https://polyhaven.com/a/spray_paint_bottles) |
+| **Ladrillo pintado y desconchado** (azul) | Painted Brick | Poly Haven (autor: Amal Kumar) | **CC0** ✅ | [Poly Haven](https://polyhaven.com/a/painted_brick) |
 
 Personajes en 3D (sólo para **mirar poses**, nunca pegar):
 [Arcane - Jinx, Craft Tama](https://sketchfab.com/3d-models/arcane-jinx-b74f25a5ee6e43efbe9766b9fbebc705) ·
@@ -1100,8 +1104,8 @@ el **bastón** de Viktor, el **rifle** de Caitlyn.
 - **Jayce**: habla en plural («nuestro», «la era de…»). Entusiasta.
 - **Viktor**: calmado y exacto. En la T2, solemne, casi religioso
   («la Gloriosa Evolución»).
-- **Silco**: suave, lento, amenaza con cortesía. Nunca grita (sólo con
-  Vander, §8 Silco).
+- **Silco**: suave, lento, amenaza con cortesía. Sólo pierde los
+  nervios con Vander ⚠️ ([Silco · Arcane Wiki](https://arcane.fandom.com/wiki/Silco)).
 - **Ekko**: líder joven, frases con imagen, anima a su gente.
 
 **Frases reales, por emoción**
@@ -1293,7 +1297,7 @@ más altos; Viktor y Vi, iguales (172); Jinx, la más baja.
 | **Silco apuñala a Vander** | 1×03, en la fábrica, durante las explosiones de Powder | El padre adoptivo de Vi y Powder «muere». En la T2 se sabe que Singed lo revivió como Warwick | Minuto ⚠️ sin sacar | ✅ [Vander · Arcane Wiki](https://arcane.fandom.com/wiki/Vander) (lo comprobé en su ficha por la API). **Corrección**: la parte de voz decía 1×06 |
 | **Silco consuela a Powder y la llama Jinx** | 1×03, **37:44-38:00** | El villano adopta a la niña rota | Relámpago azul detrás de Silco; ella con los ojos llorosos | ✅ visto |
 | **Jinx se derrumba ante la luz azul** | 1×05, **10:40-11:20** | Un pulso Hextech le recuerda la explosión | Encogida en la baranda, luz violeta fría (`#213369`, §5.2) | ✅ visto |
-| **«Don't cry. You're perfect»** | 1×09 | Jinx dispara a Silco; muere perdonándola | **Sin canción con letra**: música de fondo instrumental; su nombre ⚠️ | ✅ la frase ([ejemplo de *edit*](https://www.youtube.com/watch?v=ipEYMDxtwC4), §7.2); minuto ⚠️ |
+| **«Don't cry. You're perfect»** | 1×09 | Jinx dispara a Silco; muere perdonándola | Sin canción con letra, sólo música instrumental ⚠️ (lo dice la parte de voz, sin fuente); su nombre ⚠️ | ✅ la frase ([ejemplo de *edit*](https://www.youtube.com/watch?v=ipEYMDxtwC4), §7.2); minuto ⚠️ |
 | **Muere Isha** | 2×06 «The Message Hidden in the Pattern» | La niña que Jinx cuidaba muere protegiéndolos | Minuto y música ⚠️ | ✅ [ComingSoon](https://www.comingsoon.net/guides/news/1879154-arcane-season-2-what-happened-to-isha-episode-6), [Yahoo](https://www.yahoo.com/entertainment/happened-isha-arcane-season-2-064321425.html) |
 
 **Las que hacen reír o gritar de emoción**: Vi riendo en la cama de
@@ -1406,8 +1410,10 @@ Se versiona de 2021 a 2024. **No encontré** covers en español de
 - **Concurso oficial de cosplay** de Riot: premio mayor de 5000 USD y
   viaje a Worlds ✅ ([reglas](https://merch.riotgames.com/en-us/arcane-contest-rules/)).
   Idea para la etiqueta «Acepto encargos».
-- Cosplay con foto libre: «Shooting Casual Jinx» (Flickr, en
-  `referencias.json`) ⚠️ sin revisar los materiales.
+- **Cosplay con licencia CC** (Flickr, vía Openverse, CC BY-NC-SA 2.0):
+  [Jinx «Casual», de esby.photo](https://live.staticflickr.com/65535/52042762178_283c9e0b1b_b.jpg)
+  (1024×683) y [Vi, de timz2011](https://live.staticflickr.com/65535/52062582085_4da56c4d83_b.jpg)
+  (819×1024). Volumen y tela reales; los materiales no se revisaron ⚠️.
 
 ---
 

@@ -229,3 +229,63 @@ comida y coleccionismo, y cada una trae pose o ropa nueva que sirve de referenci
   (coincide con la ubicación descrita en mipon.org, arriba). No se encontró cosplay de concurso
   documentado con materiales/fotos de alta que citar aparte del merchandising ya listado en el
   punto 3 · ⚠️ dilo así en «No encontré».
+
+## Lo mejor para la lámina
+
+1. Tsubasa a media chilena en el aire, uniforme blanco de Nankatsu con el «10», fondo de cancha de
+   barrio junto al mar (hoja 01, imagen 26 «La Chilena»).
+2. Trío de portada estilo videojuego: Tsubasa, Hyuga y Wakabayashi juntos en pose de equipo, cel-
+   shading de «Rise of New Champions» (Tamsoft).
+3. Genzo Wakabayashi atajando con guantes y gorra blanca, uniforme naranja de la selección de Japón
+   (#F7931B).
+4. Paleta retrowave «1986 — Argentina» (sol y grid morados) de kowalart, como fondo alternativo a la
+   cancha realista.
+5. El kit real adidas × JFA con el balón/reto bordado en el pecho: vestuario «oficial pero con guiño
+   al manga», bueno para una lámina de crossover fútbol real/anime.
+
+## No encontré
+
+- Wallpapers oficiales de alta resolución del estudio (David Production / Tokyo Movie Shinsha) ·
+  búsqueda en captaintsubasa-movie.com y en la categoría «Wallpapers» de la wiki, sin resultados ·
+  ⚠️.
+- Cosplay de concurso documentado con foto de materiales/costura reales, aparte del merchandising ya
+  citado en el punto 3 · búsqueda en Openverse («Tsubasa cosplay», «Genzo Wakabayashi cosplay»,
+  «Captain Tsubasa figure») · ⚠️ (extra, no obligatorio).
+- Plantilla vectorial libre de los kanji de los clubes ficticios (南葛, 明和) para redibujar el patrón
+  de las camisetas · no se buscó a fondo, es más del punto 5 (tipografía), que no es mío · ⚠️.
+- MyFigureCollection.net: bloquea con verificación anti-bot incluso con `herramientas/navegar.py`
+  (403) · se usaron solarisjapan.com y amazon.com como fuente de las figuras modernas en su lugar.
+
+## Bitácora
+
+- AniList (GraphQL en `graphql.anilist.co`) por «Captain Tsubasa» → id 2116, portada y banner
+  medidos con Pillow (corrige el «no encontré la obra» de `datos-imagen.md`: la consulta automática
+  usó mal el endpoint).
+- Safebooru API (`tags.json` y `post&q=index`) por «tsubasa», «captain_tsubasa», «oozora_tsubasa»,
+  «oozora_tsubasa_(cosplay)» → sí hay etiqueta propia (corrige el ⚠️ de `datos-imagen.md`, que sólo
+  probó Danbooru).
+- Danbooru (`danbooru.donmai.us`): bloqueado por verificación Cloudflare incluso con
+  `herramientas/navegar.py` (403) · dos intentos, se pasó a Safebooru.
+- ambientCG API (`full_json`) por «paper» y `id=Fabric061`; medidas de las vistas previas con
+  Pillow.
+- Wikimedia Commons API (`list=search`) por «halftone screentone manga» y «filetype:bitmap
+  screentone»; ficha de `File:Trama de dibuix.jpg` con `action=query&prop=imageinfo`.
+- Brusheezy: pack de pinceles de halftone gratis, licencia a revisar en la ficha.
+- WebSearch «Captain Tsubasa eFootball collaboration Konami official» → confirmado en konami.com
+  (EN y JP) + prensa (GamerBraves, TierraGamer, Oricon).
+- WebSearch «Captain Tsubasa cafe colaboración tienda temática Japón» → revistaflow.com (CDMX),
+  mipon.org y kanpai-japan.com (Katsushika), tsujita.com (EE. UU.).
+- WebSearch «Captain Tsubasa figura oficial Bandai Ichibansho» → myfigurecollection.net (403),
+  solarisjapan.com y amazon.com sí respondieron.
+- WebSearch «Famosa Clicks Supercampeones figuras años 80» y «Yolanda figuras PVC Campeones Oliver
+  Benji» → coleccionismo80-90.blogspot.com y todocoleccion.net (Yolanda/Tsuchida, no Famosa).
+- WebSearch «Altaya Campeones: Oliver y Benji colección figuras resina» → akibastation.es,
+  ramenparados.com, listadomanga.es, misiontokyo.com.
+- WebSearch en japonés «JFA 日本代表 キャプテン翼 コラボ ユニフォーム 2024» → sports-ws.com y
+  gallery2.co.jp (mismo código de producto AD654/G85287-TSUBASA), store.hkds.jp (sofubi de Taro
+  Misaki, título comprobado).
+- WebSearch «Captain Tsubasa Adidas anuncio Messi Mundial colaboración»: no se confirmó una
+  colaboración directa Adidas+Messi+Captain Tsubasa para el Mundial 2026 (sólo la campaña genérica
+  de Adidas); no se incluyó por falta de dos fuentes.
+- Google directo (`google.com/search`): bloqueado por verificación anti-bot; se usó WebSearch en su
+  lugar para todo lo que necesitó buscador.
