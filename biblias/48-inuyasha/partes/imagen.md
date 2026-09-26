@@ -5,6 +5,34 @@ fuente con enlace, ✅ (dos fuentes) o ⚠️ (una), minuto o tamaño si aplica.
 Partida de `partes/datos-imagen.md` (recolectar.py, 2026-09-25): esos datos no
 se repiten aquí, sólo se comprueban y se amplían.
 
+## 15 · Vestuario: colores hex medidos, accesorios y qué es «lo icónico»
+
+Colores medidos con `herramientas/estilo.py` (Pillow, cuantización de la imagen ya
+compuesta sobre blanco cuando traía transparencia) o con muestreo directo de
+píxel sobre la imagen bajada; la ficha exacta de cada imagen va en la última
+columna. Son aproximados a la iluminación de esa imagen concreta, no un
+«color oficial» de licencia.
+
+Personaje | Prenda | Hex medido | De qué imagen
+---|---|---|---
+Inuyasha | Haori/kosode rojo (piel de Rata de Fuego), la prenda «icónica» que todo fan reconoce | #BE2A28 (tela), #5C2B26 (sombra/pliegues) | `Inuyasha_and_shippo.png` (wiki, 1440×1080) ✅
+Inuyasha | Piel | #DBC09A | misma imagen
+Kagome Higurashi | Uniforme escolar «sailor fuku»: falda y cuello | #068D5A (verde) | `Kagome_Vector.png` (wiki, vector oficial 800×3254, compuesto sobre blanco) ✅
+Kagome Higurashi | Pañuelo/neckerchief | ≈#AC4F49 (rojo apagado por el antialiasing del vector; a ojo es un rojo más vivo, ver imagen) | misma imagen ⚠️ (un solo original, sin comprobar en fotograma)
+Kagome Higurashi | Piel | #E8B28B / #FDE6CB | misma imagen
+Sesshōmaru | Kimono blanco-crema base | #DEE6DF / #DBD8CE | `Sesshomaru.png` (wiki, 1920×1080) ✅
+Sesshōmaru | Marca de luna creciente (frente) | #6458A1 (violeta azulado) | muestreo directo de píxel, misma imagen ✅
+Sesshōmaru | Marcas de mejilla (dos rayas) | #933855 (magenta oscuro) | promedio de 2100 píxeles de la raya, misma imagen ✅
+Sesshōmaru | Patrón del cuello del kimono (flor/cruz roja) | #5A2D33 | misma imagen
+Miroku | Túnica de monje budista (kesa morado) | #352A3C, #261D33, #3F3348, #4C3D5D (degradado de sombra) | `Miroku_and_his_Shakujo.jpg` (wiki, 1280×720) ✅
+Sango | Traje de exterminadora (bodysuit) | #1B0F0D (negro-marrón muy oscuro) | `Sango_Vector.png` (wiki, vector oficial 593×719, compuesto sobre blanco) ✅
+Sango | Franjas/obi rojo y guanteletes | #BE3E30 | misma imagen
+Sango | Sombra del traje | #5B3B3A | misma imagen
+
+- Accesorios que se repiten en el arte oficial: el rosario de cuentas de Inuyasha (control del *sit*), el báculo *shakujō* y el *kazaana* envuelto de Miroku, el *Hiraikotsu* de hueso gigante de Sango, el arco y las flechas purificadoras de Kagome, el *Tessaiga*/*Bakusaiga* y la armadura de hombro con piel (*boa*) de Sesshōmaru · visibles en `hojas/personajes_01.jpg` (#2, #10, #28-30, #36, #58) · ✅
+- Peinados icónicos: coleta alta de Miroku, cabello suelto blanco-plateado de Inuyasha y Sesshōmaru (con las marcas moradas/magenta de Sesshōmaru como único punto de color en la cara), coleta alta de Sango, pelo suelto oscuro de Kagome con flequillo recto · confirmado visualmente en las imágenes de arriba y en `hojas/personajes_01.jpg` #23-24 (primeros planos) ✅
+- «Lo icónico» que todo fan reconoce: el haori rojo de Inuyasha (temporada tras temporada, casi no cambia de color aunque sí de textura entre anime 2000 y Final Act) y el uniforme escolar verde de Kagome, aunque ella cambie a kimonos de sacerdotisa en arcos puntuales (ver `Inuyasha_and_Kagome_artbook.jpg`, hoja #40) ⚠️ (dato de memoria de fandom, sin databook que lo cite explícitamente todavía)
+
 ## 3 · Fan art y renders 3D (referencia; nunca para pegar) y modelos 3D con licencia
 
 - Fan art mejor valorado en Safebooru por personaje (Inuyasha, Kagome, Miroku, Sango), con tamaño y enlace al origen en Pixiv/Twitter/Zerochan cuando lo hay: ver bloque «Fan art mejor valorado» de `datos-imagen.md` (30 imágenes) · ✅ (Safebooru + origen enlazado)

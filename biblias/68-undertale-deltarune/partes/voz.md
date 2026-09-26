@@ -185,6 +185,124 @@ fandom», 91 respuestas, y otras fuentes cruzadas):
   wiki) y disfruta el humor tanto como él. Fuente:
   https://undertale.fandom.com/wiki/Papyrus (sección Trivia) · ✅.
 
+## 13 · Descripción profunda: carácter, cómo se expresa y su cara en cada emoción
+
+Como no hay voz, «cómo se expresa» aquí es sobre todo **tipografía y
+puntuación** (cada uno habla con una fuente y un patrón de texto propios) más
+lo que ya reunió `datos-voz.md` sobre personalidad. Fuente de todo lo que
+sigue salvo que se diga otra: secciones «Trivia» y «Personality» de
+undertale.fandom.com y deltarune.fandom.com (API), ✅ por ser texto estable de
+la wiki, contrastado con Wikipedia en inglés para Sans/Papyrus/Toriel/Kris.
+
+**Sans**: perezoso, bromista, evita el esfuerzo pero cuida a quien quiere;
+sabe de los reinicios de línea temporal y eso alimenta su fatalismo cómodo.
+Habla **todo en minúsculas**, sin mayúsculas ni en nombres propios (ni
+siquiera al empezar frase), con puntuación floja tipo mensaje de texto: fuente
+del juego es literalmente «Comic Sans», guiño a su nombre. ✅ (dos fuentes:
+Fandom Trivia + https://en.wikipedia.org/wiki/Sans_(Undertale)). Dato curioso:
+el sonido de «blip» de su voz sale de un clip de Bob Esponja (Patricio
+diciendo «Maybe it's the way you're dressed», temporada 2, «Something
+Smells»), según la propia wiki · ⚠️ (una fuente, trivia de Fandom, no lo
+confirmó Toby Fox en persona). Se ríe poco y con calma («heh», nunca a
+carcajadas); cuando se enoja de verdad casi no sube el tono, sólo dice frases
+cortas y directas (ver «you're gonna have a bad time» en el punto 8). Cara en
+cada emoción: normalmente inexpresivo (ojos negros, sonrisa fija); su «ojo
+brillante» azul/amarillo alternado es la señal visual de su magia y de su
+enojo real (batalla) — https://static.wikia.nocookie.net/undertale/images/b/b5/Sans_battle_glowing_eye.gif
+(108×146, ✅ imagen de la wiki); su cara «fatal»/ataque final —
+https://static.wikia.nocookie.net/undertale/images/d/d1/Sans_battle_fatal.png
+(108×146, ✅).
+
+**Papyrus**: extrovertido, se cree «el gran Papyrus», ególatra de cara pero
+buena persona, optimista y valiente incluso ante la muerte; quiere ser
+reconocido y unirse a la Guardia Real. Habla **todo en mayúsculas**, con
+signos de exclamación constantes, en la fuente «Papyrus» (otro guiño de
+nombre: papyrus es el papel donde escribían los antiguos egipcios, y su pose
+de combate imita dibujos egipcios). ✅ (Fandom Trivia +
+https://en.wikipedia.org/wiki/Papyrus_(Undertale)). Tiene más líneas de
+diálogo que nadie en el juego (2184) y hace más chistes malos que Sans (14
+contra 6). Cara en cada emoción: confundido —
+https://static.wikia.nocookie.net/undertale/images/0/07/Papyrus_battle_confused.gif
+(160×220, ✅); su sprite «triste» en los finales neutrales no tiene animación
+(a propósito, para remarcar el golpe emocional), dato de la propia wiki · ✅.
+
+**Toriel**: maternal, protectora, cariñosa pero firme («tough love»); le
+gusta hornear (su especialidad es el pay de calabaza y canela, su favorito es
+el de caracol), leer, escribir juegos de palabras, cazar bichos y cuidar
+flores; aspira a ser maestra. Habla **sin contracciones** («is it not» en vez
+de «isn't it»), lo que le da un aire formal/antiguo. ✅ (Personality ya en
+datos-voz.md + Trivia). Es el único personaje con animación de parpadeo en su
+cuadro de diálogo. Cara en cada emoción: «shocked» —
+https://static.wikia.nocookie.net/undertale/images/0/06/Toriel_battle_shocked.png
+(110×205, ✅).
+
+**Frisk**: personalidad deliberadamente ambigua (el jugador proyecta la suya);
+no tiene género ni edad fijados por el juego, y casi nunca se ve su cara de
+frente (aparece de espaldas o de perfil casi siempre) — es la protagonista
+menos «expresiva» a propósito. Su nombre viene de «frisk»: brincar con energía
+o cachear a alguien; también es «sano» en sueco. Es zurda (se le ve sostener
+objetos con la mano izquierda). ✅ (Fandom Trivia). No hay sprites suyos
+etiquetados por emoción en la wiki: es la limitación real del juego, no un
+hueco de esta investigación (se probó listando todas las imágenes de su
+página y ninguna trae nombre de emoción) · esto se anota como «no encontré»
+más abajo.
+
+**Kris** (Deltarune, protagonista jugable): introvertido, «una persona
+callada» según Susie y el Rey; se volvió más distante de sus amistades tras
+irse su hermano Asriel a la universidad. De niño compartía con Asgore el amor
+por los vaqueros (cowboys) y hace bromas oscuras (fingir sangre con ketchup,
+cambiar el rompope por mayonesa, poner una bomba de baño en el escusado).
+✅ (Personality, deltarune.fandom.com). Como Frisk, es mudo para el jugador:
+su «voz» real se insinúa sólo en un puñado de momentos fuera del control del
+jugador (p. ej. al arrancarse su propia alma al final del capítulo 1). Cara en
+cada emoción: mirada roja/amenazante —
+https://static.wikia.nocookie.net/deltarune/images/f/f8/Kris_overworld_red_eye.png
+(58×100, ✅); pose «menacing» —
+https://static.wikia.nocookie.net/deltarune/images/e/eb/Kris_overworld_menacing.gif
+(68×68, ✅); dolor en combate —
+https://static.wikia.nocookie.net/deltarune/images/d/de/Kris_battle_hurt.png
+(71×77, ✅).
+
+**Susie** (secundaria más querida de Deltarune, ver punto 7): empezó como
+matona sarcástica y grosera («damn», «ass», «hell» a cada rato), amenaza con
+violencia física en broma, es brutalmente honesta; con Kris a solas se
+ablanda. Le tenía envidia a Kris por su familia cariñosa. Se hace amiga de
+Lancer y termina siendo «la heroína valiente» de la profecía. ✅
+(Personality, deltarune.fandom.com). Cara en cada emoción: enojada —
+https://static.wikia.nocookie.net/deltarune/images/9/98/Susie_face_angry.png
+(90×100, ✅); riendo —
+https://static.wikia.nocookie.net/deltarune/images/2/28/Susie_overworld_laugh.gif
+(56×82, ✅).
+
+**Ralsei**: humilde, amable hasta la ingenuidad; quiere que Kris y Susie
+cumplan «la Profecía» sin pelear. En el capítulo 3 revela inseguridad honda:
+cree que no existe «de verdad» por ser un Darkner. ✅ (Personality,
+deltarune.fandom.com). Cara en cada emoción: sorprendido —
+https://static.wikia.nocookie.net/deltarune/images/a/a9/Ralsei_battle_shocked.png
+(66×72, ✅); avergonzado/sonrojado —
+https://static.wikia.nocookie.net/deltarune/images/a/ab/Ralsei_battle_blush.png
+(52×86, ✅).
+
+| Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| Sans | Serio/enojado (ojo brillante) | Batalla final, ruta genocida | N/A (sprite de juego, no vídeo) | https://static.wikia.nocookie.net/undertale/images/b/b5/Sans_battle_glowing_eye.gif |
+| Sans | «Mal rato» (ataque fatal) | Batalla final, ruta genocida | N/A | https://static.wikia.nocookie.net/undertale/images/d/d1/Sans_battle_fatal.png |
+| Papyrus | Confundido | Snowdin (interacción genérica) | N/A | https://static.wikia.nocookie.net/undertale/images/0/07/Papyrus_battle_confused.gif |
+| Toriel | Sorprendida/shock | Batalla de Toriel, Ruinas | N/A | https://static.wikia.nocookie.net/undertale/images/0/06/Toriel_battle_shocked.png |
+| Kris | Amenazante (Dark World) | Capítulo con «modo oscuro» de Kris | N/A | https://static.wikia.nocookie.net/deltarune/images/e/eb/Kris_overworld_menacing.gif |
+| Kris | Dolor en combate | Batallas, varios capítulos | N/A | https://static.wikia.nocookie.net/deltarune/images/d/de/Kris_battle_hurt.png |
+| Susie | Enojada | Capítulo 1 en adelante | N/A | https://static.wikia.nocookie.net/deltarune/images/9/98/Susie_face_angry.png |
+| Susie | Riendo | Capítulo 1 en adelante | N/A | https://static.wikia.nocookie.net/deltarune/images/2/28/Susie_overworld_laugh.gif |
+| Ralsei | Sorprendido | Capítulo 1 (traición del Rey) | N/A | https://static.wikia.nocookie.net/deltarune/images/a/a9/Ralsei_battle_shocked.png |
+| Ralsei | Avergonzado | Varios capítulos | N/A | https://static.wikia.nocookie.net/deltarune/images/a/ab/Ralsei_battle_blush.png |
+| Flowey | Riendo (malicioso) | Batalla final, ruta genocida | N/A | https://static.wikia.nocookie.net/undertale/images/0/0a/Flowey_battle_laugh.gif |
+| Asriel | Llorando | Final pacifista verdadero | N/A | https://static.wikia.nocookie.net/undertale/images/c/c9/Asriel_Dreemurr_overworld_crying.gif |
+| Mettaton | Riendo | Hotland/MTT Resort | N/A | https://static.wikia.nocookie.net/undertale/images/1/13/Mettaton_overworld_laughing.gif |
+
+Nota sobre la columna «Minuto»: es un juego con sprites fijos, no vídeo; no
+hay minuto real que citar y poner uno inventado sería mentir. Se puso «N/A» a
+propósito, siguiendo la regla de no inventar datos.
+
 ## Lo mejor para la lámina (avance, se completa al final)
 
 - Sans, no Frisk, es la cara que el fandom asocia a la serie (32 % de una
