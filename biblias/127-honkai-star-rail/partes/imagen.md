@@ -192,21 +192,101 @@ de cada zona, 1920×1080, wiki de Fandom), y mirados con Read.
 
 ## 23 · Colaboraciones y cruces
 
-_(pendiente)_
+- **Cruces dentro del propio universo Honkai** (el más importante para la
+  lámina: personajes de Honkai Impact 3rd reaparecen como versiones nuevas en
+  Star Rail): Himeko, Welt, Bronya, Silver Wolf, Seele y otros vienen de
+  Honkai Impact 3rd · categoría wiki «Honkai Impact 3rd x Honkai: Star Rail»
+  · fuente: https://honkai-star-rail.fandom.com/wiki/Category:Honkai_Impact_3rd_x_Honkai:_Star_Rail_Images
+  · ✅ (categoría + evento «Honkai Impact 3rd x Honkai: Star Rail Collab» en
+  HoYoLAB: https://www.hoyolab.com/article/33263374).
+- **Cruce con Zenless Zone Zero** (otro juego de HoYoverse): Ellen Joe y Astra
+  Yao suben al Astral Express en la versión 4.8 · fuente:
+  https://dotesports.com/honkai/news/hsr-zzz-collab-reveal y categoría
+  «Honkai: Star Rail x Zenless Zone Zero» de la wiki · ✅ (dos fuentes).
+- **Cruce con Fate/stay night: Unlimited Blade Works**: personajes invitados
+  Saber, Rin Tohsaka, Gilgamesh, Archer, Ishtar, Lancer, con su propio evento
+  «Fate Contract» / «Sweet Dreams and the Holy Grail» y arte conmemorativo
+  («Honkai Star Rail × Fate UBW Commemorative Illustration.png») · fuente:
+  categoría wiki «Fate/stay night: Unlimited Blade Works (TV series)
+  Collaboration Content» · ✅.
+- **Colaboración con Fortnite** (Epic Games): categoría propia en la wiki,
+  «Honkai: Star Rail x Fortnite» · ⚠️ (confirmada la categoría, no miré el
+  contenido exacto del crossover por tiempo).
+- **Colaboraciones de marca real** (todas confirmadas por la categoría
+  «Collaboration Artwork» de la wiki, con imagen propia cada una): KFC (2023 y
+  2025, con Feixiao y Jiaoqiu en la de 2025), Razer (periféricos con Silver
+  Wolf LV.999), Hyte + iBuyPower (PC de escritorio temático de Silver Wolf),
+  UGREEN (electrónica), Samsung (2 artes), Kura Sushi USA, Round1 (bolera/
+  arcade), Anta (ropa deportiva), ChaPanda, Fanta, Jiaduobao, luckin coffee,
+  Mega MGC Coffee, Meituan, Mom's Touch, MoonDrop (audio), White Rabbit
+  (caramelo), goodme · fuentes: https://www.siliconera.com/honkai-star-rail-kfc-2024-event-detailed/,
+  https://hoyo.global/kfc-honkai-star-rail-collaboration-china/,
+  https://www.razer.com/collabs/honkai-star-rail,
+  https://gamespace.com/all-articles/news/honkai-star-rail-x-ugreen-collaboration-revealed/,
+  https://www.round1usa.com/collab/honkaistarrail y la categoría
+  `Category:Collaboration Artwork` de la wiki (lista los 20 archivos) · ✅
+  (evento + imagen de la wiki coinciden en casi todas; KFC y Razer con dos
+  fuentes independientes).
+- **Figuras oficiales** (pose de referencia 3D real): Kafka 1/7 escala,
+  producto oficial de HoYoverse, ~26.5 cm, base incluida · fuente:
+  https://hoyo.global/product/honkai-official-kafka-scale-figure/ · ✅ (además
+  revendedores como Otaku Owlet y AmiAmi listan la misma figura) · también hay
+  una Kafka 1/7 de estudio independiente (Fix Cast Studio, con 2 trajes) ·
+  ⚠️ (no oficial de HoYoverse, sólo con licencia de fan-studio, cuidado si se
+  usa como referencia).
+- **Cosplay** con volumen y materiales reales, licencia libre (Openverse, ya
+  en `datos-imagen.md`, no se repite): fotos de convención (Dokomi 2025,
+  HeroFestival 2024, Japan Expo Sud 2025) de Blade, Kafka, Firefly, March 7th,
+  Stelle, Sunday y Robin, todas CC BY-NC-SA 2.0 de esby.photo · ✅.
+- ⚠️ No busqué cafés temáticos propios (tipo «HSR café» presencial, distinto
+  de las colaboraciones de bebida como luckin coffee/ChaPanda) ni el detalle
+  del crossover con Fortnite; quedan para un repaso si hace falta más a fondo.
 
 ## Lo mejor para la lámina
 
-_(pendiente)_
+- `hojas/personajes_01.jpg`, imágenes 1-5: splash art 2048×2048 de March 7th,
+  Kafka, Trailblazer (F/M) y Firefly, fondo limpio y pose de acción; sirven de
+  referencia de estilo y de pose para cualquier concepto con estos personajes.
+- `hojas/vestuario_fondos_01.jpg`, imágenes 1-4: vestuario recortado sin fondo
+  de UI (Kafka correas magenta, March 7th cámara+falda azul, traje alterno de
+  hielo, Trailblazer gris-dorado) para colores exactos si se dibuja la ropa de
+  cerca.
+- `hojas/vestuario_fondos_01.jpg`, imágenes 5-8: cuatro sitios distintos
+  (Penacony neón nocturno, Xianzhou Luofu niebla-jade) para fondo con luz y
+  profundidad, evitando que la lámina quede plana.
+- March 7th con su cámara instantánea (imagen 2) es el objeto real más fuerte
+  para un «objeto en un sitio real» tipo Blender (una cámara sobre una mesa,
+  con la correa naranja y el cuerpo turquesa).
+- El emblema de Camino (Path) del personaje elegido (8 disponibles, 512×512,
+  fondo transparente) funciona como sello/logo grabado en el objeto de la
+  lámina, en vez de una burbuja de diálogo genérica.
 
 ## No encontré
 
-_(pendiente)_
+- Un artbook oficial en español o con índice público de HoYoverse (⚠️, sólo
+  reventa de un «Collector's Edition Art Book» en inglés) · búsqueda: «Honkai
+  Star Rail artbook official index».
+- Un modelo 3D con licencia libre del Astral Express o de un sitio/edificio
+  completo de la serie (sólo hay personajes) · búsquedas en Sketchfab:
+  «Astral Express», «Honkai Star Rail train», «Honkai Star Rail Herta».
+- Un pincel de Photoshop/Clip Studio Paint gratuito hecho específicamente para
+  el sombreado de esta serie · búsquedas: «Honkai Star Rail Photoshop brush
+  free», «Star Rail CSP brush CC0».
+- Detalle exacto del crossover con Fortnite (sólo confirmé que existe la
+  categoría en la wiki) y de posibles cafés temáticos presenciales (distinto
+  de las colaboraciones de bebida como luckin coffee) · faltó tiempo, no es
+  obligatorio de este punto pero se puede profundizar en un repaso.
+- Colores medidos con Pillow del vestuario de Firefly y Stelle (sólo los
+  vi en la hoja de contacto y en las etiquetas de Danbooru, no descargué su
+  «Game.png» para recortarlo).
 
 ## Bitácora
 
 - 2026-09-26 · `herramientas/recolectar.py 127-honkai-star-rail --hojas` (previo, ya en datos-imagen.md): AniList no aplica (es videojuego), Doblaje Wiki no encontró la página, Fandom no encontró «el Trazacaminos» (el nombre correcto en la wiki en inglés es «Trailblazer»).
-- 2026-09-26 · `investigar_serie.py --serie "Honkai: Star Rail" --wiki honkai-star-rail --paginas "March 7th" "Kafka" "Trailblazer" "Stelle" "Firefly"`: 232 imágenes enlazadas, 32 grandes, 1 hoja de contacto → mirada con Read.
-- 2026-09-26 · Fandom API (`action=query&list=search`, `prop=images`, `prop=revisions`) en inglés: aniversarios, banners, categoría de trajes alternativos.
-- 2026-09-26 · Pillow/`estilo.py` sobre recortes de torso de los retratos «Game» (sin fondo de UI) para el hex de la ropa, no del fondo.
-
-Sigue: puntos 3, 15, 16, 19, 23 completos; Lo mejor para la lámina; No encontré; hojas/ (elegir 2 más); referencias.json.
+- 2026-09-26 · `investigar_serie.py --serie "Honkai: Star Rail" --wiki honkai-star-rail --paginas "March 7th" "Kafka" "Trailblazer" "Stelle" "Firefly"`: 232 imágenes enlazadas, 32 grandes, 1 hoja de contacto (`hojas/personajes_01.jpg`) → mirada con Read.
+- 2026-09-26 · Fandom API (`action=query&list=search`, `prop=images`, `prop=revisions`, `list=categorymembers`) en inglés: aniversarios, banners, trajes alternativos, categorías de colaboraciones y de emblemas de Camino/mundo.
+- 2026-09-26 · Pillow/`estilo.py` sobre recortes de torso de los retratos «Game» (sin fondo de UI) para el hex de la ropa, no del fondo; y sobre 5 imágenes de área (`Area *.png`) para el hex y la luz de los sitios.
+- 2026-09-26 · Sketchfab API (`type=models&downloadable=true`): «Astral Express», «Honkai Star Rail train», «Honkai Star Rail Herta», «Honkai Star Rail Acheron», «Honkai Star Rail March 7th» → 11 modelos con licencia usables.
+- 2026-09-26 · ambientCG API (`type=Material`): «fabric», «metal plate», «paper», «gold» → 4 texturas CC0 elegidas por parecido a los materiales vistos.
+- 2026-09-26 · Búsqueda web (inglés): «Honkai Star Rail collaboration KFC brand crossover», «Honkai Star Rail official figure statue Kafka», «"Honkai Star Rail" collaboration list Alienware Razer OPPO», «Honkai Star Rail official wallpaper download» → colaboraciones, figura oficial, wallpapers de HoYoLAB.
+- 2026-09-26 · Montaje propio con Pillow de una 2.ª hoja de contacto (`hojas/vestuario_fondos_01.jpg`, 10 recortes: vestuario + fondos + colaboraciones) para mirar todo junto.

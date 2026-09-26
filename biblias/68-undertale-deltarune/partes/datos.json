@@ -1,105 +1,5 @@
 [
  {
-  "url": "https://static.wikia.nocookie.net/undertale/images/8/8d/Undertale_artwork_Kickstarter.png",
-  "fuente": "Fandom undertale",
-  "ancho": 1536,
-  "alto": 1152,
-  "que_es": "Frisk: Undertale artwork Kickstarter.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/f/f8/Frisk_overworld.png",
-  "fuente": "Fandom undertale",
-  "ancho": 702,
-  "alto": 1070,
-  "que_es": "Frisk: Frisk overworld.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/4/4d/Small_Bird_tarot.png",
-  "fuente": "Fandom undertale",
-  "ancho": 500,
-  "alto": 1147,
-  "que_es": "Frisk: Small Bird tarot.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/2/27/Sans_tarot.png",
-  "fuente": "Fandom undertale",
-  "ancho": 500,
-  "alto": 1147,
-  "que_es": "Frisk: Sans tarot.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/c/c2/Frisk_tarot.png",
-  "fuente": "Fandom undertale",
-  "ancho": 500,
-  "alto": 1147,
-  "que_es": "Frisk: Frisk tarot.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/6/61/Frisk_artwork_Little_Buddy.png",
-  "fuente": "Fandom undertale",
-  "ancho": 900,
-  "alto": 600,
-  "que_es": "Frisk: Frisk artwork Little Buddy.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/c/c7/Frisk-canonically-hates-soda-v0-v7hxsp2nn5t81.webp",
-  "fuente": "Fandom undertale",
-  "ancho": 828,
-  "alto": 649,
-  "que_es": "Frisk: Frisk-canonically-hates-soda-v0-v7hxsp2nn5t81.webp",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/d/dc/Frisk_artwork_Nendoroid.png",
-  "fuente": "Fandom undertale",
-  "ancho": 600,
-  "alto": 800,
-  "que_es": "Frisk: Frisk artwork Nendoroid.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/1/1b/Undertale_artwork_postcard.png",
-  "fuente": "Fandom undertale",
-  "ancho": 800,
-  "alto": 571,
-  "que_es": "Frisk: Undertale artwork postcard.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
-  "url": "https://static.wikia.nocookie.net/undertale/images/2/26/Doggo_tarot.png",
-  "fuente": "Fandom undertale",
-  "ancho": 400,
-  "alto": 918,
-  "que_es": "Frisk: Doggo tarot.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia",
-  "origen": "recolectar.py"
- },
- {
   "url": "https://static.wikia.nocookie.net/undertale/images/9/97/Sans_artwork_Steam_card.jpg",
   "fuente": "Fandom undertale",
   "ancho": 1920,
@@ -115,6 +15,16 @@
   "ancho": 1000,
   "alto": 1314,
   "que_es": "Sans: Sans Sprite.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/2/27/Sans_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Sans: Sans tarot.png",
   "para_que": "pose, ropa y colores del personaje",
   "licencia": "© titulares; sólo referencia",
   "origen": "recolectar.py"
@@ -155,6 +65,16 @@
   "ancho": 600,
   "alto": 800,
   "que_es": "Sans: Sans artwork Nendoroid.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/1/1b/Undertale_artwork_postcard.png",
+  "fuente": "Fandom undertale",
+  "ancho": 800,
+  "alto": 571,
+  "que_es": "Sans: Undertale artwork postcard.png",
   "para_que": "pose, ropa y colores del personaje",
   "licencia": "© titulares; sólo referencia",
   "origen": "recolectar.py"
@@ -270,6 +190,86 @@
   "origen": "recolectar.py"
  },
  {
+  "url": "https://static.wikia.nocookie.net/undertale/images/8/8d/Undertale_artwork_Kickstarter.png",
+  "fuente": "Fandom undertale",
+  "ancho": 1536,
+  "alto": 1152,
+  "que_es": "Frisk: Undertale artwork Kickstarter.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/f/f8/Frisk_overworld.png",
+  "fuente": "Fandom undertale",
+  "ancho": 702,
+  "alto": 1070,
+  "que_es": "Frisk: Frisk overworld.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/4/4d/Small_Bird_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Frisk: Small Bird tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/c/c2/Frisk_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Frisk: Frisk tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/6/61/Frisk_artwork_Little_Buddy.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Frisk: Frisk artwork Little Buddy.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/c/c7/Frisk-canonically-hates-soda-v0-v7hxsp2nn5t81.webp",
+  "fuente": "Fandom undertale",
+  "ancho": 828,
+  "alto": 649,
+  "que_es": "Frisk: Frisk-canonically-hates-soda-v0-v7hxsp2nn5t81.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/d/dc/Frisk_artwork_Nendoroid.png",
+  "fuente": "Fandom undertale",
+  "ancho": 600,
+  "alto": 800,
+  "que_es": "Frisk: Frisk artwork Nendoroid.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/2/26/Doggo_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 400,
+  "alto": 918,
+  "que_es": "Frisk: Doggo tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
   "url": "https://static.wikia.nocookie.net/undertale/images/9/93/Toriel_artwork_Steam_card.jpg",
   "fuente": "Fandom undertale",
   "ancho": 1920,
@@ -347,6 +347,516 @@
   "que_es": "Toriel: Toriel screenshot shocked.png",
   "para_que": "pose, ropa y colores del personaje",
   "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/f/f5/Undyne_artwork_Steam_card.jpg",
+  "fuente": "Fandom undertale",
+  "ancho": 2000,
+  "alto": 1124,
+  "que_es": "Undyne: Undyne artwork Steam card.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/d/df/Undyne_artwork_plush.png",
+  "fuente": "Fandom undertale",
+  "ancho": 1800,
+  "alto": 1200,
+  "que_es": "Undyne: Undyne artwork plush.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/3/31/Undyne_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Undyne: Undyne tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/f/fb/Famitsu_screenshot_Hotland.png",
+  "fuente": "Fandom undertale",
+  "ancho": 1048,
+  "alto": 518,
+  "que_es": "Undyne: Famitsu screenshot Hotland.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/8/82/Undyne_artwork_Little_Buddy.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Undyne: Undyne artwork Little Buddy.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/a/a8/Undyne_artwork_Nendoroid.png",
+  "fuente": "Fandom undertale",
+  "ancho": 600,
+  "alto": 800,
+  "que_es": "Undyne: Undyne artwork Nendoroid.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/8/82/Spear_of_Justice_soundtrack.png",
+  "fuente": "Fandom undertale",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Undyne: Spear of Justice soundtrack.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/9/9a/NGAHHH%21%21_soundtrack.png",
+  "fuente": "Fandom undertale",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Undyne: NGAHHH!! soundtrack.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/2/2d/Flowey_screenshot_captured_monsters.png",
+  "fuente": "Fandom undertale",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Undyne: Flowey screenshot captured monsters.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4106/1f94a6c39517d8127bb5283f25fa094c.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1175,
+  "alto": 1220,
+  "que_es": "Fan art de sans_(undertale) (https://wave-nine.tumblr.com/post/724180421031690240/morning-walk https://64.media.tumblr.com/5924c15d4df2208ba993439e6c436e8e/0883bf16792063b3-70/s2048x3072/9d873468b7f06670ad46c93de14016ec90373dad.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/527/bafa57a9e5beecde9c72fd63435a80ac.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Fan art de sans_(undertale) (https://www.tumblr.com/derpikinz/758949098130964480/today-i-offer-some-very-cute-n-wholesome-fontcest https://64.media.tumblr.com/2ee841d348eb279e70390776cfefa41b/dd9eb4441d632131-6a/s3000x4000/7b44a6a119732621b620bc50202ad3a79d889c56.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/810/dd9db9b2b51a3092879008f06273c91f.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1795,
+  "alto": 1238,
+  "que_es": "Fan art de sans_(undertale) (https://twitter.com/arn359/status/2003539157013119183 https://pbs.twimg.com/media/G84APaWagAQtYeF.jpg:orig https://www.tumblr.com/arn359/804918235583610880 https://64.media.tumblr.com/006832a14f714f6c1b077bb8d712b282/4a5ec461559b59cb-69/s21000x21000/ab25098af915443d016ec774115acb6e41da7d14.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/527/1d63f6385b0a21677d8ac4585368dbcf.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1089,
+  "alto": 912,
+  "que_es": "Fan art de sans_(undertale) (https://www.tumblr.com/derpikinz/727912437342453761/hi-i-have-no-idea-how-to-use-tumblr-but-i-figured https://64.media.tumblr.com/14b55aead5fcfec47827afff74fb2d21/b20f1d15f9691aee-46/s2048x3072/5d7628094f37763fb6236fee0eff8e46dd7430a3.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/810/1b15707464047d26f16f2a5fafd78e7a.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1795,
+  "alto": 1238,
+  "que_es": "Fan art de sans_(undertale) (https://www.tumblr.com/arn359/804918235583610880 https://64.media.tumblr.com/006832a14f714f6c1b077bb8d712b282/4a5ec461559b59cb-69/s21000x21000/ab25098af915443d016ec774115acb6e41da7d14.png https://twitter.com/arn359/status/2003539157013119183 https://pbs.twimg.com/media/G84APaWagAQtYeF.jpg:orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4615/18746bb0827fd713d243247cdc838b8f.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1000,
+  "que_es": "Fan art de sans_(undertale) (https://twitter.com/RenMist/status/1455288629824147461?mx=2 https://pbs.twimg.com/media/FDI5MBrVgAAyWzr?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3588/0da743a330c57fcfd165261a0a8d9795.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 5870,
+  "alto": 8268,
+  "que_es": "Fan art de papyrus_(undertale) (https://www.pixiv.net/en/artworks/124598198 https://twitter.com/soto_undertale/status/1860675444330373218 https://pbs.twimg.com/media/GdJyc0MacAADacn?format=jpg&amp;name=orig https://twitter.com/soto_undertale/status/1859978281644347826 https://pbs.twimg.com/media/Gc_4YojaUAA-IOI?format=jpg&amp;name=orig (draft))",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4614/a819290dd4dc1ac7144e6c7c97c64efe.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 706,
+  "que_es": "Fan art de papyrus_(undertale) (https://www.pixiv.net/en/artworks/61664756 https://banoakira.tumblr.com/post/154310062392/nyeh-heh-heh-youre-blue-now https://64.media.tumblr.com/44933d383128bab57318308eb011a75d/tumblr_ohzyhp9FPg1unmoyqo1_1280.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4614/6a09251f033d2e53380a2d63448d6de7.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 950,
+  "alto": 711,
+  "que_es": "Fan art de papyrus_(undertale) (https://www.pixiv.net/en/artworks/64223538)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/24/7145c8ddfda1f374cbce23551f473a61.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1128,
+  "que_es": "Fan art de papyrus_(undertale) (https://twitter.com/miki__288/status/1950132959539016070 https://pbs.twimg.com/media/GxBDlgza0AAygwH?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3588/dadb8327b45657de33c8c3466902a1e5.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4374,
+  "alto": 4250,
+  "que_es": "Fan art de papyrus_(undertale) (https://www.pixiv.net/en/artworks/124319966)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3849/bf4fe6ad176b30aa08163b2c08b5f235.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 2100,
+  "que_es": "Fan art de papyrus_(undertale) (https://www.tumblr.com/reignbeaux13/725828924124315648 (original) https://www.tumblr.com/chupacawha/725831820076285952 (reblog)  https://64.media.tumblr.com/0ff708d595ee7d83cf6cfd4a4c7de091/9cf88d93fa3e1709-21/s2048x3072/513e60a4b0334b40dc2839de11e7fbdcbbd9ef58.jpg https://twitter.com/Reignbeaux13/status/1691854212890591630 https://pbs.twimg.com/media/F3qscIOXgAoJdEi?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1024/feffa7d615d488a0183a5da3052cdbbe.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 992,
+  "alto": 1952,
+  "que_es": "Fan art de frisk_(undertale) (https://www.deviantart.com/kogane28/art/papyrisk-653839058)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2304/5c838a92232b6aa135c0e5a166949307.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1400,
+  "alto": 1200,
+  "que_es": "Fan art de frisk_(undertale) (https://twitter.com/hono_kurage/status/969936940945428480 https://pbs.twimg.com/media/DXXof1pVoAAgdgf?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2304/028dc89a2367f67f94f2909e523a7e52.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1400,
+  "alto": 1100,
+  "que_es": "Fan art de frisk_(undertale) (https://twitter.com/hono_kurage/status/972473348545331206 https://pbs.twimg.com/media/DX7rWKiUMAI9fuY?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4622/f5d5a3d218167332bed7882979a764f6.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1800,
+  "alto": 1800,
+  "que_es": "Fan art de frisk_(undertale) (https://twitter.com/716fluffybunny/status/948576625011994625 https://pbs.twimg.com/media/DSoFaIdU8AAjPCT?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2304/8485cd5451389bc08fe945e89bd7f0dc.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 712,
+  "alto": 789,
+  "que_es": "Fan art de frisk_(undertale) (https://twitter.com/kst_gohan/status/960911793685118977 https://pbs.twimg.com/media/DVXYJt3VQAAfekD?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4622/ef9668adab99b99adbde0343330de142.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 833,
+  "alto": 600,
+  "que_es": "Fan art de frisk_(undertale) (https://twitter.com/716fluffybunny/status/975399112215375873 https://pbs.twimg.com/media/DYlQRinVwAAWLiF?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3840/05fdc2dc87788cb4761e91bcc5329fba.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 800,
+  "que_es": "Fan art de toriel (https://www.deviantart.com/laytons-gal/art/A-Day-at-the-Beach-863897528)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/e18fa51abc41fed1930d528bd9356b6b.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1200,
+  "que_es": "Fan art de toriel (https://whitepaperrabbits.tumblr.com/post/136701312151/i-love-how-you-draw-frisk-%E3%83%BD https://64.media.tumblr.com/28795fe692c5e3868007f1c4c53e8708/tumblr_inline_o0gmpe14xG1r4c2gz_1280.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3840/d50549dba9071d388e450b5a980d1b0f.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 636,
+  "alto": 668,
+  "que_es": "Fan art de toriel (https://www.deviantart.com/laytons-gal/art/Baking-with-Toriel-881639221)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3072/0feb361fc0c27700298e441c19dfa955c9a7d77c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1632,
+  "alto": 1864,
+  "que_es": "Fan art de toriel (https://twitter.com/tuyoki/status/1835375364656263674)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/269/1b30b6466f90a4f348fc34f8e647a6cd.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 686,
+  "que_es": "Fan art de toriel (https://twitter.com/oo_rollo/status/1653377535869341698 https://pbs.twimg.com/media/FvH6DudakAAG7bR?format=png&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/516/dd13ff748600eda5397b4094c8897363.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1375,
+  "alto": 1375,
+  "que_es": "Fan art de toriel (https://www.tumblr.com/kiwi-cookie/762884916916649984/undertale-anniversary-wont-end-untill-i-share https://64.media.tumblr.com/d6e28c9c85ef2df78b8c165e934f05e1/e8022b4ccaf917e5-4e/s2048x3072/e42b75d14839dd4d22f903382805b5f9d4fdc955.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4115/53cf308711c810baf148d8cd9da6b33e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2021,
+  "alto": 1700,
+  "que_es": "Fan art de undyne (https://carlyraejepsans.tumblr.com/post/671650751077089280/their-friendship-means-everything-to-me https://64.media.tumblr.com/e083c6eeec0526ab298974b27c0d58bf/55d71cdd5ed2f904-6f/s2048x3072/b611a4df0e97d43fad19b22d7fb653558db8d48e.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4613/aff46491036c698b7c534c322082ee4f.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1300,
+  "alto": 800,
+  "que_es": "Fan art de undyne (https://www.deviantart.com/mag3nteel/art/Fishbones-841603295)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4610/9f7ef453ef5dfd8bb8c9e7f0d775858a.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 960,
+  "que_es": "Fan art de undyne (https://www.tumblr.com/peanutable/165625941321/robertozampari-%E6%A5%BD%E3%81%97%E3%81%84%E7%89%B9%E8%A8%93-author-%E4%B8%B9%E3%81%AE%E5%AD%90 https://64.media.tumblr.com/3df8782edbd6ef33add868239d075b88/tumblr_owom6gcmxA1s18jubo1_1280.png https://www.pixiv.net/en/artworks/65081698)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3860/012895a3c287b581d93034de59e8e36b.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1800,
+  "alto": 1800,
+  "que_es": "Fan art de undyne (https://www.tumblr.com/nocturnecore/780146852119117824/thinking-about-them https://64.media.tumblr.com/86af07bca5fafd6528a3cc829787b95a/e1360ecc4815906e-06/s3000x4000/771f0b182064114cd245e695dad34df747624f05.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3860/fd250c7868d5511751c1b522eba5d4fb.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1101,
+  "alto": 1356,
+  "que_es": "Fan art de undyne (https://www.tumblr.com/nocturnecore/671845166054768640/the-homies https://64.media.tumblr.com/c029480bf5e7d0b95cf129bd19bf1056/69ffe84e8016ff9d-64/s3000x4000/912aa7d3cee9e17c51693f71caf232196bd4d45c.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3860/76acd4ea94ae48ac89b5bdead70dc9c9.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1101,
+  "alto": 1356,
+  "que_es": "Fan art de undyne (https://www.tumblr.com/nocturnecore/664910147652567040/youre-my-best-friendaka-a-cool-dude-there https://64.media.tumblr.com/772c9e1ca8550c00978dd17388079edb/8c69d442e05dcb84-1b/s3000x4000/ab3c586f98b47d745b716dd8d6f5ed9e755e354e.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3090/d01aa88c2038c180eacf7ebefc732f932ddb1059.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4096,
+  "alto": 3686,
+  "que_es": "Fan art de kris_(deltarune) (https://twitter.com/_nixelia/status/1937572633408573592)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/285/b3a43e6e76554131fb29d8ea7b8513c7.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1792,
+  "alto": 1786,
+  "que_es": "Fan art de kris_(deltarune) (https://twitter.com/FatSurvival/status/1949255738410328513 https://pbs.twimg.com/media/Gw0lwoEWwAAVM90.jpg:orig https://www.reddit.com/r/Deltarune/comments/1nd2rvd/papyrus_can_defeat_the_roaring_knight/ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2w5d2glt29of1.jpeg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4143/9800f04895220048990cae8e24dd6cfcfa62c0f0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4096,
+  "alto": 3221,
+  "que_es": "Fan art de kris_(deltarune) (https://x.com/OsweltOrtiz/status/2029448679786955220)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4354/8de037d8e0bc9347041bf4161ddd0c45.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1754,
+  "alto": 1240,
+  "que_es": "Fan art de kris_(deltarune) (https://twitter.com/fuafuakko/status/1564594923516854272 https://pbs.twimg.com/media/FbaOyeWagAA7POf?format=jpg&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4168/426256e6c6588b2805e93b5b19d522ab67235324.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de kris_(deltarune) (https://www.tumblr.com/9twoeight/701258327735369728/2021-undertaledeltarune)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4111/7ae6cb4bb100c7e624e78907de0c5e67.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Fan art de kris_(deltarune) (https://twitter.com/areskice/status/1924520632433226199 https://pbs.twimg.com/media/GrVFMrBWkAAPrHE?format=png&amp;name=orig)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4538/bd2dc19cb989f9b5c4e7820935976c79e2f0f170.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2068,
+  "alto": 1669,
+  "que_es": "Fan art de omori_(omori) (https://twitter.com/Ka42541785/status/1752742739941191847)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/7992de56edab0ac970f88f9e7b4ae3834d83b471.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1644,
+  "alto": 1921,
+  "que_es": "Fan art de omori_(omori) (https://twitter.com/kirvias/status/1803829157945635313)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/1c84bf1d0baa210f28fc6159ca9ec3fee8d8cd53.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4093,
+  "alto": 2894,
+  "que_es": "Fan art de omori_(omori) (https://twitter.com/yurumenoika/status/1800873398333321515)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3227/4eea1ca9365820a9755c42d988328cfbe9c8de5d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1080,
+  "alto": 1920,
+  "que_es": "Fan art de omori_(omori) (https://twitter.com/Jin_GinGin/status/1348102050140336133)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/515/6f77e12cfd63857929908ec8c982366117bf2cec.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1457,
+  "alto": 2153,
+  "que_es": "Fan art de omori_(omori) (https://twitter.com/nyanrone22/status/1839248698263605303)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3860/c419064ca1a46204c3400ff479efc6d0.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1080,
+  "alto": 1350,
+  "que_es": "Fan art de kris_(dark_world)_(deltarune) (https://www.tumblr.com/nocturnecore/665694172450357248/this-was-done-before-everything-on-this-blog-lol https://64.media.tumblr.com/4c92e096c2c08e33591dfc8670fdf5c6/d7a492d7a4c6b207-4a/s3000x4000/14124ca7623f1265faf5fdea7b7e4f299fae55d8.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
   "origen": "recolectar.py"
  },
  {

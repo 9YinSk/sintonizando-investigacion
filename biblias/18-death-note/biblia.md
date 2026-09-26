@@ -1571,10 +1571,297 @@ pidas el logo ni la «L»: **esos se ponen a mano con la letra**.
 
 ### Qué imágenes usar como referencia
 
-- **De estilo**: un fotograma del ep. 1 (00:04:32, Light con el cuaderno)
-  y del ep. 25 (00:10:30, la azotea con lluvia).
-- **De pose**: §15 (las filas en **negrita**).
-- **De color**: la paleta de §5.3.
+- **De estilo**: un fotograma del ep. 1 (00:13:00, Ryuk detrás de
+  Light; **no** el 00:04:32, que es sólo la página) y del ep. 25
+  (00:10:30, la azotea con lluvia). Arte de Obata: hoja 1, nº8 y nº27.
+- **De pose**: §15 (las filas en **negrita** y las «Visto») y §8.1.
+- **De color**: los hex **medidos** de §5.5 (fondos) y §16.1 (ropa); la
+  paleta de §5.3 sólo para manzana, sangre y papel.
+- **De técnica**: «Punto 18» (línea, sombra dura, una sola luz).
+
+### Vocabulario de gestos (para que la IA de imagen entienda cada cara)
+
+Todo visto en fotograma o en el arte oficial (segunda pasada):
+
+| Gesto | Qué pedir | Dónde se ve |
+|---|---|---|
+| Kira gana | `half face in shadow, glowing red eyes, crooked smile` | ep. 24, 00:05:42 |
+| Kira enloquece | `extreme close-up, messy hair over one eye, pen between teeth, blown-out white background` | ep. 36, 00:21:12 |
+| Triunfo cruel | `open-mouth grin, red emergency light` | ep. 25, 00:18:00 |
+| L piensa | `crouching on a chair, thumb on lower lip, wide dark-ringed eyes` | ep. 10, 00:08:14 |
+| Ryuk aparece | `towering figure behind the boy, low angle, spiky black feathers, huge toothy grin` | ep. 1, 00:13:00 |
+| Ojos de shinigami | `red ring in the iris, red glint on glasses` | ep. 13, 00:10:31 |
+| Near frío | `hair covering the eyes, white pajama, crouching on a rug` | ep. 27, 00:02:01 |
+
+- Los recursos cómicos del anime típico (gota de sudor gigante, fondos
+  de flores, ojos de espiral) **no salen en ningún fotograma mirado**.
+  El único *chibi* oficial es de las colaboraciones (hoja 2, nº258;
+  hoja 3, nº538-539): no lo uses en la lámina principal.
+
+### Para una IA de texto: cómo escribir en su voz
+
+**Reglas generales** (de §7.2 y del subtítulo):
+
+- **Frases cortas y frías**. La emoción no se grita con signos: sale en
+  una palabra seca al final («…gané»).
+- **El monólogo interior** de Light va aparte, sin comillas, como un
+  cálculo paso a paso (ep. 8, 00:18:26 a 00:18:35).
+- **L**: siempre **de usted**, **en porcentajes**, con preguntas corteses
+  que son trampas («¿puedo poner a prueba…?»).
+- **Ryuk**: coloquial, **se ríe de todo** («je, je»), habla de manzanas y
+  de aburrimiento.
+- **Misa**: **dice «Misa» en vez de «yo»**, alarga las vocales
+  («¡claaaro!»), exclama.
+- **Near**: tranquilo, de usted, **todo es un juego o un puzle**.
+- **Mikami**: repite una palabra con rabia («¡Eliminar!»).
+- En latino, la papa es **«fritura»** (§10).
+
+**Frases reales, por emoción** (subtítulo japonés con su minuto; la
+traducción es mía, no del doblaje):
+
+| Emoción | Quién | Frase | Ep., minuto |
+|---|---|---|---|
+| Alegre | Ryuk | «やっぱり 人間って… 面白っ！» («los humanos son divertidos») | 1, 00:21:04 |
+| Alegre | Misa | «え～ ホント？ うれしい！» («¿de verdad? ¡qué alegría!») | 15, 00:10:17 |
+| Alegre (villano) | Light | «計画どおり» («todo según el plan») | 24, 00:05:42 |
+| Enfadado | Light | «僕は正義だ！» («¡yo soy la justicia!») | 2, 00:16:24 |
+| Enfadado | Mikami | «削除！» («¡eliminar!»), seis veces | 31, 00:18:47 |
+| Explicando | L | «一般的な座り方をすると 推理力が40％減です» («si me siento normal, deduzco un 40 % peor») | 10, 00:08:14 |
+| Explicando | Ryuk | «英語で説明を付けたんだぜ» («le puse las instrucciones en inglés») | 1, 00:16:37 |
+| Explicando | Near | «ゲームは勝たなければ パズルは解かなければ» («un juego hay que ganarlo, un puzle hay que resolverlo») | 27, 00:02:01 |
+| Animando, retando | L | «さあ 私を殺してみろ» («vamos, intenta matarme») | 2, 00:18:23 |
+| Animando | Misa | «さあ！ ビデオ ビデオ» («¡venga, la cámara, la cámara!») | 12, 00:09:08 |
+| Animando | Light | «やってやるよ Ｌ！» («te lo voy a demostrar, L») | 8, 00:18:06 |
+| Triste | L | «寂しいですね … もうすぐ お別れです» («qué triste… pronto nos despediremos») | 25, 00:14:45 |
+| Triste | Ryuk | «結構 長い間 互いの 退屈しのぎになったじゃないか» («nos quitamos el aburrimiento un buen rato») | 37, 00:19:27 |
+
+**Palabras que lo estropean en texto**: emojis, «¡¡¡», diminutivos
+cariñosos, chistes de Ryuk (el fandom se ríe de **Light**, §14.1),
+nombres de personas reales escritos en el cuaderno.
+
+---
+
+## Punto 18 · Estilo de dibujo, técnica y cómo replicarlo
+
+### El dibujo de Obata (la base de todo)
+
+- **Línea de grosor variable a propósito**: donde la luz pega fuerte, la
+  línea se afina o **desaparece**; se engorda en barbilla y nariz para
+  dar volumen ⚠️ ([análisis técnico, sleepycrossing](https://sleepycrossing.neocities.org/longform/takeshi-obata);
+  un blog, pero con ejemplos que se comprueban mirando el manga).
+- **Sombras de oclusión**: triángulos negros pequeños donde el pelo se
+  cruza o la ropa se pliega; la trama (screentone) sólo da **el tono
+  propio de un objeto**, no la sombra ⚠️ (misma fuente).
+- **La oscuridad cuenta la historia**: páginas casi blancas en lo
+  cotidiano, negro denso en la tensión ⚠️ (misma fuente).
+- **Caras de adulto real** (mentón largo, ojos estrechos), raras en un
+  shonen; los shinigami rompen ese realismo con rasgos góticos ⚠️
+  ([anifusion.ai](https://anifusion.ai/style/death-note-style-generator/);
+  el mismo análisis se repite en varias webs de «prompts», cuenta como
+  una fuente).
+- **Obata sobre Ryuk**: «me encantó dibujar líneas afiladas, algo que no
+  hago a menudo»; empieza cada shinigami por la calavera y cuida que no
+  sea ni muy aterrador ni muy tierno. **Sobre L**: «quería su rareza y
+  también su frialdad» ⚠️ ([recopilación de entrevistas, Tumblr](https://www.tumblr.com/kiranatrix/190168994761/obata-interviews-on-death-note-character-designs);
+  no se encontró el original japonés).
+
+### Cómo lo llevó Madhouse al anime
+
+- Equipo (AniList): dirección **Tetsurō Araki**, personajes **Masaru
+  Kitao**, dirección de arte **Mio Isshiki**, diseño de arte **Shinji
+  Sugiyama**, color **Satoshi Hashimoto** ✅ (ver §3.3).
+- **Araki reconoce** que la adaptación «no le hace justicia a lo bien
+  que dibuja» Obata, y por eso volvió a trabajar con él en *Bubble*
+  (2022) ✅ ([fullfrontal.moe](https://fullfrontal.moe/tetsuro-araki/),
+  entrevista firmada).
+- Sus influencias de luz: el cineasta **Shunji Iwai** («amo los destellos
+  de lente») y el animador **Osamu Dezaki** («cómo insertaba la luz») ✅
+  (misma entrevista). ⚠️ Es su filosofía general, no una cita sobre
+  Death Note.
+- **Libro de *making of***: *DEATH NOTE /A アニメーション公式解析ガイド*
+  (Shūeisha, 9-sep-2007, 160 páginas, ISBN 978-4-08-874197-0), con
+  entrevistas al equipo y arte conceptual del cuarto de Light, la celda
+  y la sede de L ✅ ([ficha en la wiki](https://deathnote.fandom.com/wiki/Death_Note_/A_Official_Analysis_Guide_of_the_Animation)).
+  Nunca salió de Japón: **su contenido no se pudo leer** ⚠️.
+- Programa: lo normal en los estudios grandes de la época era **RETAS**
+  (Celsys) ⚠️ ([Wikipedia](https://en.wikipedia.org/wiki/RETAS)); no hay
+  cita de Madhouse que lo diga de esta serie.
+- **Lo medido en la segunda pasada** (§5.5): interiores azul violeta
+  casi negro, saturación media y brillo muy bajo (17-22 %); el rojo sólo
+  en ojos y alarmas.
+
+### Encuadres y composición
+
+- **Primerísimos planos de ojos** para el giro psicológico (ep. 24,
+  00:05:42; ep. 36, 00:21:12) ✅ visto.
+- **Contrapicado** para lo que impone: Ryuk detrás de Light (ep. 1,
+  00:13:00), Aizawa gritando (ep. 37, 00:14:28) ✅ visto.
+- **Plano dividido** para lo que pasa a la vez (la papa: ep. 8,
+  00:18:35) ✅ visto.
+- **Insert de objeto** a pantalla completa para las reglas (ep. 1,
+  00:04:32) y la «L» (ep. 2, 00:17:36) ✅ visto.
+- **Luz que parte la cara en dos** cuando alguien cruza una línea moral
+  ✅ visto (ep. 24).
+
+### Cómo replicarlo en Photoshop
+
+1. **Línea variable**: boceto con pincel a presión; en la capa de línea,
+   **borra o aclara el trazo donde pega la luz** (goma a baja opacidad) y
+   engorda mentón y nariz.
+2. **Color plano, casi monocromo**: relleno con «Bloquear píxeles
+   transparentes»; grises, negros y un blanco hueso. **Un solo color
+   puro por escena** (la manzana o el rojo de los ojos).
+3. **Sombra en formas duras**: capa en Multiplicar, lazo o pincel de
+   borde duro, pensando en triángulos de oclusión. **Nada de aerógrafo.**
+4. **Una sola luz dura**: capa en Trama o Superponer sólo en el lado
+   iluminado; el resto, negro cerrado.
+5. **Grano y viñeta** encima de todo (Ruido monocromático bajo y un
+   degradado radial en Multiplicar) ⚠️ (técnica general de
+   posproducción, no cita de Madhouse).
+
+### Cómo replicarlo en Blender
+
+1. **Contorno**: modificador **Line Art** de Grease Pencil; para que
+   varíe como el de Obata, modula el grosor con una textura, o usa
+   **Freestyle** con el grosor ligado a la luz. **Solidify** invertido
+   sólo en las zonas de sombra es la otra vía.
+2. **Sombra dura**: **Diffuse BSDF → Shader to RGB → ColorRamp** en
+   modo **Constant**, con **dos paradas** (luz y sombra).
+3. **Luz**: una sola **Spot** o **Area** pequeña y dura, como lámpara de
+   escritorio, **sin HDRI ni luz de relleno** (el HDR suave rompe el
+   *noir*).
+4. **Compositor**: grano (*Film Grain* o ruido + Mix) y viñeta oscura.
+5. **Modelos y rigs libres**: el cuaderno y Ryuk, L y Light de §4 (CC
+   BY, citar autor). **El cuaderno, mejor modelarlo** (una caja con
+   tapas, diez minutos) con las texturas de «Punto 19».
+
+---
+
+## Punto 19 · Texturas 2D
+
+### Tramas y pinceles de entintado libres
+
+| Recurso | Qué trae | Licencia | Enlace |
+|---|---|---|---|
+| [FREE] Manga Screentone Pack 1 | Tramas de puntos y líneas para Clip Studio | Gratis en Clip Studio Assets ✅ | [2142037](https://assets.clip-studio.com/en-us/detail?id=2142037) |
+| Essential Screentone Brushes | Tramas combinables, Clip Studio | Gratis ✅ | [2087033](https://assets.clip-studio.com/en-us/detail?id=2087033) |
+| Free Screen Tone Collection 1 | PNG de 4500×4500 (A4 y B4 a 300 ppp), para Photoshop, Krita o Procreate | Gratis; leer su nota antes de redistribuir ⚠️ | [manga-with-stef.com](https://manga-with-stef.com/free-screen-tone-collection-1) |
+| 65+ Halftone Brushes | Pinceles de medio tono para Photoshop | Gratis, personal y comercial con atribución ✅ | [photoshopsupply.com](https://www.photoshopsupply.com/patterns-textures/halftone-texture) |
+| 1000+ Manga Screentone Compilation | Puntos, líneas, degradados | DeviantArt, licencia del autor ⚠️ | [theawesomeaki-kun](https://www.deviantart.com/theawesomeaki-kun/art/1000-Manga-Screentone-Compilation-681249872) |
+
+Abiertos uno a uno el 26-sep-2026. Obata usa **poca trama y mucho negro
+sólido**: la trama sirve sobre todo para los grises del mundo
+shinigami.
+
+### Papel, cuero y madera (CC0)
+
+Las de §5.4 (ambientCG y Poly Haven), licencia CC0 confirmada con dos
+fuentes ✅. Para la hoja del cuaderno: **Paper003 o Paper005** (grano de
+papel viejo) con una trama de puntos encima; para la tapa, **Leather026**;
+para el escritorio, **Wood039**. El negro violeta de la página del
+insert (`#070311` a `#29202A`, §5.5) sirve para teñir la tapa.
+
+### Patrones y emblemas
+
+- **Encaje de Misa**: no hay pack libre de encaje gótico (sólo de pago
+  en Creative Market) ⚠️. Se dibuja a mano: rombos con festón.
+- **Cruces y calaveras** de Misa: sin pack libre; vectoriza la silueta
+  desde «Saint Valentine's Day» (§3.6), que trae cuatro calaveras
+  distintas. Copia la silueta, no el archivo.
+- **El logo**: hoja 1, nº7 tiene «DEATH NOTE» grande y limpio para sacar
+  la forma; se rehace con UnifrakturMaguntia (§6.3).
+- **La calavera con aureola** de la página del cuaderno (insert del ep.
+  1, 00:04:32): dibujarla a mano mirando el fotograma.
+- **Los trazos rojos de pincel en abanico** de *Killer Within* (§13.1):
+  un recurso oficial para el «grito» de una regla.
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+De AniList (fichas con los datos de los *databooks*) cruzado con la
+wiki de Death Note, que cita el tomo **13: How to Read** y el *settei*
+del anime.
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Light | ganar, el orden, ser el mejor | perder el control, que lo descubran | tenis, estudiar | 28 de febrero | 179 cm | ✅ [AniList](https://anilist.co/character/80) + [wiki](https://deathnote.fandom.com/wiki/Light_Yagami) |
+| L | los dulces, el azúcar, los pasteles | perder, las mentiras | resolver casos, apilar cosas | 31 de octubre | 179 cm | ✅ AniList + [wiki](https://deathnote.fandom.com/wiki/L_(character)) |
+| Ryuk | las manzanas del mundo humano, el caos de Light | el aburrimiento | mirar a Light «jugar» | sin dato | **230 cm** | ✅ [wiki](https://deathnote.fandom.com/wiki/Ryuk) (*settei*) |
+| Misa | Light, la moda gótica lolita | quien mató a sus padres | modelar, actuar, cantar, grabar vídeos | 25 de diciembre | 152 cm | ✅ AniList + wiki |
+| Near | puzles y juegos | perder, sobre todo ante Mello | puzles, dados, juguetes | 24 de agosto | 155 cm | ✅ [wiki](https://deathnote.fandom.com/wiki/Near) |
+| Mello | el chocolate | perder ante Near | motos, mandar en la mafia | 13 de diciembre | sin dato | ⚠️ [AniList](https://anilist.co/character/463) |
+| Matsuda | sentirse útil, que lo tomen en serio | que lo subestimen | ninguna en especial | 14 de diciembre | 174 cm | ⚠️ [AniList](https://anilist.co/character/1906) |
+| Mikami | la justicia, «Dios» (Kira) | los criminales | hacer ejercicio a diario, hasta en Año Nuevo | 7 de junio | 175 cm | ⚠️ [AniList](https://anilist.co/character/1904) |
+| Naomi Misora | Raye Penber, resolver casos | dejar casos sin cerrar | investigar | 11 de febrero | sin dato | ⚠️ [AniList](https://anilist.co/character/4959) |
+| Matt (Mail Jeevas) | los videojuegos | salir de casa | videojuegos, fumar | 1 de febrero | 168 cm | ⚠️ [AniList](https://anilist.co/character/2730) |
+
+- **El objeto que siempre lleva**: Light, el cuaderno escondido (doble
+  fondo, ep. 2); L, algo dulce; Ryuk, su propio cuaderno; Misa, el
+  teléfono o la cámara para grabarse; Near, un juguete o un dado; Mello,
+  una tableta de chocolate ✅.
+- **Cómo se ve a sí mismo**: Light, un dios que hace justicia; L, un
+  detective más que no busca fama (nunca da la cara); Misa, la segunda
+  Kira al servicio de Light; Near, jugador de un juego que hay que
+  ganar, sin odio; Mello, alguien que sólo vale si le gana a Near ✅
+  (AniList, resumido).
+
+---
+
+## Punto 21 · Por qué la gente la ama
+
+### Los datos
+
+- **Más de 30 millones de copias** del manga (abril de 2015) ✅
+  ([Wikipedia, cita ICv2](https://en.wikipedia.org/wiki/Death_Note)).
+- **3.er manga más vendido en Norteamérica** (ICv2, 2.º trimestre de
+  2009) ✅.
+- **2.º en «Kono Manga ga Sugoi!»** 2006 y 2007 (lectores hombres) y
+  **10.º mejor manga de la historia** en una encuesta de 2007 del
+  Ministerio de Cultura de Japón ✅.
+- Premios: **Japan Expo Awards 2007** (mejor manga y mejor guion),
+  **Eagle Award 2008**; nominado al **Seiun** y al **Premio Cultural
+  Tezuka Osamu** 2007; Obata nominado a los **Eisner 2008** ✅.
+- **Anime News Network**: «sorprendentemente cautivador y original, con
+  preguntas interesantes sobre la moral» (Zac Bertschy); y lo que la hace
+  distinta: **no hay villano, hay dos bandos que creen en la misma
+  justicia** (Briana Lawrence) ✅.
+
+### Con quién se identifica el público
+
+- Con **L**: lógica fría pero torpe con la gente; un hilo con 123 votos
+  defiende que «no es socialmente inconsciente, sólo distinto» ✅
+  (Reddit).
+- Con la **caída de Light**, como tragedia de ambición (88 votos: «mi
+  personaje favorito de todos los tiempos») ✅.
+- Con **Matsuda**, el «normal»: no es un genio, se equivoca y aun así es
+  indispensable; al final **dispara a Light por pura rabia humana** ✅
+  (Reddit, 238 votos, y [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/DeathNote)).
+
+### Las escenas que hacen llorar
+
+De la página *TearJerker/DeathNote* de TV Tropes (leída con
+`navegar.py`), con el minuto de este dossier:
+
+| Escena | Ep., minuto | Qué pasa | Por qué duele, y cómo está hecha |
+|---|---|---|---|
+| **Mueren Watari y L** | 25, 00:13:36 a 00:18:52 | L seca los pies de Light, se va la luz, muere Watari, L cae de la silla y **Light sonríe** (00:18:00) | Lluvia y **campanas** antes (00:10:30); casi silencio; suena **«Kyrie II»** desde 00:17:13; luz roja de alarma ✅. Matsuda llora, Sōichirō promete vengarlo |
+| **Suicidio de Naomi Misora** | 7 | Light le confiesa por teléfono que es Kira y la obliga a matarse sin dejar rastro | Imagen metafórica con una soga y música suave; acababa de perder a su prometido ✅ |
+| **Muerte de Light** | 37, 00:15:58 a 00:19:27 | Herido de bala, pide ayuda; nadie contesta; Ryuk escribe su nombre | Primerísimo plano con sangre (00:15:58, visto) y Ryuk sobre la torre; muere solo ✅ |
+| **Suicidio de Mikami** | 37 | Se apuñala con un bolígrafo cuando su «dios» lo abandona | Un niño bueno convertido en fanático ✅ |
+| **Muerte implícita de Misa** | final | Sola en un tejado, con su vestido lolita, ojos cerrados | El *ending* cambia a una canción más suave (nombre sin sacar ⚠️); *How to Read* confirma que murió un San Valentín ✅ |
+
+### Las que hacen reír o gritar
+
+- **Reír**: la papa frita (ep. 8, 00:18:35), montada como una batalla;
+  *keikaku doori* (ep. 24, 00:05:42), que se volvió meme por una nota de
+  fansub (§12.1); L pidiendo pastel (ep. 15, 00:09:07).
+- **Gritar**: la «L» en la pantalla blanca (ep. 2, 00:17:36); «Soy L»
+  (ep. 9, 00:14:39); la cuenta de 40 segundos (ep. 36, 00:20:58 a
+  00:21:15) ✅.
+- **Reacciones**: los memes hispanos de más de un millón de vistas
+  (§14.1) son todos sobre el ego de Light. No se encontraron vídeos de
+  reacción con minuto (YouTube no abre) ⚠️.
 
 ---
 

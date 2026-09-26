@@ -81,3 +81,37 @@ prenda (⚠️ salvo que diga lo contrario).
 - El ribete dorado y el panel bordado de dragón de Jinshi T3 llevan un patrón
   repetido tipo brocado chino (rombos y una especie de sello/kanji estilizado);
   sirve de referencia directa para el punto 19 (texturas).
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+Nombres oficiales de los sitios (para que la IA de imagen no invente un "palacio
+genérico"), sacados del wikitext de cada ficha (`action=parse&prop=wikitext`):
+
+- **Rear Palace** / 後宮 *Kōkyū*, también "Inner Court": el harén imperial, dentro
+  del **Imperial Palace**, en la **Royal Capital** (Central Province). Lo
+  supervisa Jinshi. Es el escenario principal de la temporada 1-2 · fuente
+  wikitext de `Rear_Palace` ✅ (mismo nombre en el infobox de `Imperial_Palace`)
+- **Red Light District** (barrio rojo) y, dentro de él, **Verdigris House**
+  (la casa de citas donde creció Maomao): calles con farolillos, de noche · fuente
+  búsqueda de texto en la wiki (`srsearch=pleasure district`) ✅ (aparecen ambas
+  fichas con infobox propio)
+- **Red Plum Village** (紅梅館), en Central Province: pueblo de castigo/destierro,
+  aparece desde el volumen 10 de la novela ligera · fuente wikitext ✅
+- En las hojas de contacto (fotogramas del propio anime, temporadas 1-2) se ven
+  sin buscar más: patio de recepción con banderines rojos (hoja 3, imagen 86),
+  callejón con farolillos de noche (hoja 3, imágenes 104 y 108), sala de baños
+  con vapor (hoja 3, imagen 100), pasillos de madera con celosías (hoja 3,
+  imágenes 87, 93, 105), mercado callejero de día (hoja 3, imagen 94) — es
+  material propio del investigador de vídeo (punto 4, luz y paleta por sitio)
+  medir esto fotograma a fotograma; yo sólo dejo dónde están.
+- Fondos de pantalla ya recolectados (Wallhaven, sólo aptos, 1920×1080 o más;
+  lista completa con autor y origen en `datos-imagen.md`) — mejores 5 por número
+  de guardados:
+  - 3680×2162 · ♥135 · https://w.wallhaven.cc/full/qz/wallhaven-qzv6rd.jpg · subido por 43PR · origen https://twitter.com/96yottea/status/1745774829670957403
+  - 1989×2645 · ♥129 · https://w.wallhaven.cc/full/zy/wallhaven-zy3mpg.jpg · subido por 43PR · origen https://twitter.com/96yottea/status/1737845229020213458
+  - 2560×1440 · ♥122 · https://w.wallhaven.cc/full/l8/wallhaven-l8rmvl.png · subido por CopperHopper (captura del propio anime, sin origen externo)
+  - 7000×4276 · ♥46 · https://w.wallhaven.cc/full/qz/wallhaven-qz5vv7.jpg · subido por InrroInrro · origen https://www.pixiv.net/en/artworks/114691803 (Cheese Kang, personaje secundario)
+  - 3840×2160 · ♥43 · https://w.wallhaven.cc/full/21/wallhaven-21y1ly.jpg · subido por MrFav · origen https://x.com/Tsubasa_Syaoin/status/1972278448610840675 (escena de árboles/escalera, artista de staff)
+  - ⚠️ ninguno de los 15 fondos de Wallhaven es explícitamente "paisaje sin
+    personaje" — todos incluyen a Maomao u otro personaje en primer plano; para
+    un fondo limpio conviene recortar un fotograma del anime (trabajo de vídeo)
