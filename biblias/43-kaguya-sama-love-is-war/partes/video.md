@@ -77,11 +77,14 @@ Confirmado con dos fuentes (Wikipedia + búsqueda web) para cada tema; el compos
 | Chika con los ojos muy abiertos y fondo de destellos amarillos, sorpresa feliz | 1 | 11:40 | Sorprenderse (positivo) |
 | Ishigami, de pie con las manos sueltas, hombros caídos, cascos al cuello (ficha oficial de la wiki) | — | — (ilustración, no vídeo) | Presentar / actitud reservada — enlace: https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/e3/IshigamiAnime.png |
 
-Nota sobre Ishigami: en los episodios 1 y 3 de temporada 1 (los que se pudieron ver
-completos) no tiene escenas propias claramente identificables entre los alumnos de
-fondo; su arco fuerte empieza más adelante en la temporada 1 y crece en las
-temporadas 2-3. Sólo se consiguió su ficha ilustrada oficial de Fandom como pose
-de referencia — **⚠️ falta vídeo real de Ishigami**, ver «Sigue» al final.
+Nota sobre Ishigami: la ficha de personaje de la wiki (wikitext vía API, campo
+`Anime`) dice que aparece de cameo en el **episodio 1** (por eso no se le distingue
+entre los alumnos de fondo que sí se vieron) y que su aparición «de verdad» es el
+**episodio 6** ([fuente](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Yu_Ishigami))
+— temporada 1, episodio que no se descargó por tiempo/peso (los episodios sueltos
+en Internet Archive pesan ≈130-180 MB cada uno). Sólo se consiguió su ficha
+ilustrada oficial de Fandom como pose de referencia — **⚠️ falta vídeo real de
+Ishigami**, ver «Sigue» al final.
 
 ## Lo mejor para la lámina
 
@@ -111,4 +114,4 @@ de referencia — **⚠️ falta vídeo real de Ishigami**, ver «Sigue» al fin
 - Dailymotion API: búsquedas `Kaguya-sama opening full`, `Kaguya-sama ending`, `Ishigami Kaguya-sama`, `Kaguya-sama Tsubame Ishigami` (en inglés).
 - `herramientas/estilo.py`: paleta medida en 3 fotogramas propios (sala del consejo, calle de Tokio, atardecer).
 
-Sigue: falta vídeo real de Ishigami (no aparece con claridad en los episodios 1 y 3 de la T1, que fueron los únicos vistos completos); confirmar el ending de la temporada 2 (¿Fujiwara o Fukuhara?) con una tercera fuente; reintentar la descarga del OP/ED de la película (llegó truncada).
+Sigue: conseguir vídeo real de Ishigami y sus poses (episodio 6 de la T1 según la wiki; no se descargó por tiempo) para completar el punto 14 con los 4 personajes que pide el encargo.

@@ -241,5 +241,68 @@
     "que_es": "Fotograma de la película con Vergüenza, Ansiedad y Envidia en el cuartel de control, luz ambiente real (no la del póster)",
     "para_que": "Contrastar el color de la ropa bajo luz de escena real frente al póster promocional",
     "licencia": "© Disney/Pixar, fotograma de la película (referencia)"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/w8/wallhaven-w8xy3x.png",
+    "fuente": "Wallhaven",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Wallpaper de fans en pixel art de Tristeza y Desagrado",
+    "para_que": "Fondo de pantalla alternativo, referencia de reinterpretación de estilo",
+    "licencia": "Fan art, uso no comercial (créditos en Wallhaven)"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/45/wallhaven-45v899.png",
+    "fuente": "Wallhaven",
+    "ancho": 2500,
+    "alto": 1080,
+    "que_es": "Wallpaper de fans en collage con varios personajes de Intensamente",
+    "para_que": "Fondo de pantalla alternativo ultrawide",
+    "licencia": "Fan art, uso no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/2/2d/G5-Inside-Out-Emotion-Lineup.jpg",
+    "fuente": "pixar.fandom.com",
+    "ancho": 4096,
+    "alto": 2297,
+    "que_es": "Lineup de las 5 emociones originales sobre fondo blanco",
+    "para_que": "Comparar proporciones reales entre personajes",
+    "licencia": "© Disney/Pixar, arte promocional (referencia)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric061",
+    "fuente": "ambientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura PBR de tela lisa (Fabric061), varias resoluciones descargables",
+    "para_que": "Base de tela para chalecos, pantalones y sudaderas antes de pintar el estampado",
+    "licencia": "CC0 (dominio público, sin atribución)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper003",
+    "fuente": "ambientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura PBR de papel blanco arrugado (Paper003)",
+    "para_que": "Grano de papel para imitar el arte conceptual pintado a mano",
+    "licencia": "CC0 (dominio público, sin atribución)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Cardboard002",
+    "fuente": "ambientCG",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura PBR de cartón liso (Cardboard002)",
+    "para_que": "Cajas de mudanza de la escena de San Francisco",
+    "licencia": "CC0 (dominio público, sin atribución)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/2/20/Inside-Out_1000.jpg",
+    "fuente": "pixar.fandom.com",
+    "ancho": 4096,
+    "alto": 4096,
+    "que_es": "Collage cuadrado con Riley y las 5 emociones originales, fondo de la ciudad detrás",
+    "para_que": "Referencia de composición de grupo con paisaje de fondo",
+    "licencia": "© Disney/Pixar, arte promocional (referencia)"
   }
 ]
