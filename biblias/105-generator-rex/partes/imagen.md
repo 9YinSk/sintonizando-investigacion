@@ -93,7 +93,7 @@ ruido del recolector, no son Generator Rex).
 - Rex de espaldas, chamarra verde alterna, fan art de pose dinámica · timothypan (DeviantArt) · https://safebooru.org/images/2372/c993e153e4d5bf99019db3ea71071f0707e14ca9.png · ⚠️ · 600×900
 - Crossover Ben 10/Generator Rex «Heroes United», Rex y Ben espalda con espalda · timothypan (DeviantArt) · https://safebooru.org/images/2372/8982f9bccc8c518a40b1b8bf6cf53a71b58a9036.png · ⚠️ · 1200×900
 - Crossover Ben 10 Omniverse + Generator Rex, ambos personajes juntos · steveahn (DeviantArt) · https://safebooru.org/images/2107/ac9ab22fec18b551b7ccbe851f5993751bdd9389.jpg · ⚠️ · 1024×576
-- Vocabulario de tags que más se repite al dibujar a Rex solo (Danbooru related_tag): shirt, black_hair, jacket, white_shirt (fan-error: en el show es verde, no blanco), full_body, open_clothes, spiked_hair, red_jacket, goggles, blue_pants, orange_goggles, mechanical_arms, huge_weapon, dark_skin · https://danbooru.donmai.us/related_tag?query=rex_salazar · ✅ (recolectado y comprobado contra el arte oficial) · —
+- Vocabulario de tags que más se repite al dibujar a Rex solo (Danbooru related_tag): shirt, black_hair, jacket, white_shirt (coincide con la mitad blanca de abajo de su camiseta, ver punto 15), full_body, open_clothes, spiked_hair, red_jacket, goggles, blue_pants, orange_goggles, mechanical_arms, huge_weapon, dark_skin · https://danbooru.donmai.us/related_tag?query=rex_salazar · ✅ (recolectado y comprobado contra el arte oficial) · —
 
 **Modelos 3D con licencia libre (Sketchfab, todos CC Attribution y descargables), centrados en nanitos y máquinas de Rex:**
 

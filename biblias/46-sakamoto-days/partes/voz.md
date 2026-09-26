@@ -265,3 +265,108 @@ Shueisha o del propio reporte de Netflix) y de escenas que hacen llorar o reír 
   para no perdérselo, porque sabe que en un día recuperará todo el peso otra vez.
   · https://tvtropes.org/pmwiki/pmwiki.php/Funny/SakamotoDays ⚠️ (una fuente, TV Tropes; buen candidato para revisar en vídeo si se consigue el episodio completo)
 
+## 22 · Fan dubs y comunidad hispana
+
+Aviso importante: varias búsquedas por «Sakamoto Days fandub» devuelven en realidad covers del
+opening de **«Sakamoto desu ga?»** (Nami Sano, 2015-16, la serie de gags *«¿Soy Sakamoto?»*),
+que es una obra totalmente distinta con un personaje que también se llama Sakamoto. Se
+descartaron esos resultados a propósito para no confundir las dos series.
+
+- No se encontró un **fandub** real (redoblaje hecho por fans, con actores distintos a los
+  oficiales) específico de Sakamoto Days (2025) en español. Lo que sí hay, y en cantidad, es
+  comunidad hispana reaccionando y compartiendo el doblaje oficial:
+- **Banzai Kaisen** sube Shorts con escenas del doblaje latino oficial y comentario propio, p.
+  ej. «Lo Olvidé» sobre una escena de Sakamoto Days · https://www.youtube.com/watch?v=s0w0KJoMZdE ⚠️ (un solo canal comprobado; hay más resultados similares sin verificar cada uno)
+- **MigueBlue7u7** sube varios Shorts recortando el doblaje latino oficial con títulos propios
+  («Una broma pesada a Shin», «La ternura de Hana Sakamoto») · https://www.youtube.com/shorts/42r0GJpQ__4 y https://www.youtube.com/shorts/kZtfl-WjqQU ✅ (mismo canal, dos vídeos distintos con el mismo patrón: recorte + comentario)
+- Vídeos de comparación y opinión sobre el doblaje, típicos de la comunidad de doblaje
+  hispana: «SAKAMOTO DAYS DOBLAJE ESPAÑOL LATINO VS ORIGINAL JAPONÉS» (canal Nahu) ·
+  https://www.youtube.com/watch?v=LfB7qhFTork ⚠️
+- «El Doblaje de Sakamoto Days es El Mejor de Todos» (canal Palmerozky) ·
+  https://www.youtube.com/watch?v=5lojBZuCgJA ⚠️
+- «Las voces detrás de Sakamoto Days / Doblaje Español Latino» (canal Doblajes Geeks, repasa el
+  reparto) · https://www.youtube.com/watch?v=iVrKFWnm3f4 ⚠️
+- Entrevista corta en TikTok con **Roberto Salguero** (director de doblaje de Sakamoto Days,
+  también voz de Luigi) hablando del oficio · https://www.tiktok.com/@etonvideos/video/7483204731574308151 ⚠️ (no se pudo abrir el vídeo en sí, sólo confirmar que existe por el buscador)
+- Anécdota de adaptación de Óscar López (voz de Sakamoto) sobre el «¡Ay, caray!» añadido en
+  el Rómpela Podcast — ver punto 8; es el tipo de detalle que más comenta el fandom hispano de
+  doblaje (decisiones creativas del actor, no sólo el resultado) · ⚠️
+- No se encontraron covers en español del opening «RUN SAKAMOTO RUN» (de Vaundy) ni parodias
+  hispanas específicas de la serie (las búsquedas devolvieron memes en inglés de TV Tropes,
+  ver punto 12, y contenido de la serie no relacionada «Sakamoto desu ga?»). Puede haberlas en
+  TikTok, donde la búsqueda por palabras clave no filtra bien por idioma ni por serie exacta.
+
+## Lo mejor para la lámina
+
+- Nagumo es el secundario que de verdad gana las encuestas oficiales (1º en la 2ª, 2º en la
+  1ª) mientras Sakamoto cae al 8º puesto: si se quiere «el secundario más querido», es él, no
+  el trío del encargo.
+- Frase real del doblaje latino con fuerza de cartel: «Decidí que ahora la utilizaré para
+  proteger a los que amo. Eso es lo que me hace más fuerte» (Sakamoto, tráiler oficial, 1:19).
+- El chiste «¿quién es Lu?» (Memetic Loser en TV Tropes) es agua fría si se le da a Lu un
+  protagonismo que el propio fandom sabe que no tiene en la trama.
+- Sakamoto tiene dos caras físicas muy distintas y reconocibles: gordo-tendero de anteojos
+  redondos y «prime» delgado — cualquier lámina puede jugar con ese contraste.
+- El doblaje latino tiene detalles de adaptación propios (el «¡Ay, caray!» de Óscar López) que
+  encajan perfecto con un servidor de doblaje: la lámina puede citar ese tipo de decisión, no
+  sólo el resultado.
+
+## No encontré
+
+- Comida o plato favorito de cada personaje: no está en la wiki en inglés ni en AniList;
+  probable que sólo esté en el *Sakamoto Days Official Fan Book* japonés, sin traducir
+  · búsquedas: `site AniList character`, `sakamoto-days.fandom.com Trivia`, WebSearch «favorite
+  food Sakamoto Days characters» (sin resultado claro).
+- Gustos/odios/aficiones de Lu Shaotang con la misma profundidad que Nagumo (su wiki en inglés
+  es mucho más corta, sólo 5.833 caracteres de wikitext frente a los ~30.000 de los demás)
+  · comprobado directamente con la API de `sakamoto-days.fandom.com`.
+- Cara de tristeza y de vergüenza confirmadas con personaje identificado, con minuto (ver
+  punto 13): sólo se miraron dos tráileres (172 s en total); falta un episodio completo.
+- Confirmación externa (no-Doblaje-Wiki) para el reparto de personajes secundarios como
+  Osaragi, Shishiba, Uzuki, Gaku, Hyo, Tatsu, Boiled, Obiguro: ANMTV sólo anunció el reparto
+  principal; no se encontró una segunda fuente independiente para estos ⚠️ · búsquedas:
+  WebSearch «Sakamoto Days Shishiba Osaragi Uzuki doblaje latino voz actor», «Sakamoto Days
+  Tatsu Boiled Obiguro reparto completo».
+- Un dato de WebSearch decía que Diego Becerril dobla a Nagumo; no se pudo confirmar en su
+  propia página de Doblaje Wiki ni en la fuente citada (okamisamatv.com, revisada con
+  `navegar.py`, no menciona a Nagumo ni a Becerril): se descartó por no encontrar respaldo
+  real, y se dejó Bruno Coronel (confirmado en dos páginas de Doblaje Wiki, ficha + actor).
+- Muestra de audio oficial de Doblaje Wiki para algún actor de Sakamoto Days: la ficha de la
+  serie no trae archivos `.ogg`/`.mp3` (comprobado en el wikitext completo), y las páginas de
+  los actores principales tampoco traen muestras de este papel en concreto.
+- Fandubs (redoblajes de fans, no clips reeditados) de Sakamoto Days en español: no se
+  encontró ninguno específico; ver aviso en el punto 22 sobre la confusión con «Sakamoto desu
+  ga?».
+- Covers en español del opening «RUN SAKAMOTO RUN» (Vaundy) o del ending: no aparecieron en
+  Dailymotion ni en WebSearch.
+- Encuesta oficial japonesa de popularidad del anime (Netflix/Crunchyroll no suelen hacerlas
+  como Shueisha con el manga): sólo se encontraron las 2 encuestas de Shueisha sobre el manga
+  (punto 7), que es lo más cercano a «oficial» que existe para esta obra.
+
+## Bitácora
+
+- Doblaje Wiki, API `action=parse&prop=wikitext`, páginas: «Sakamoto Days», «Óscar López»,
+  «Geezuz González», «Irene Ponce», «Angélica Villa», «Bruno Coronel», «Stephanie Filigrana»,
+  «Emmanuel Alejandro», «Armando Guerrero», «Héctor Estrada (México)», búsqueda `list=search`
+  para resolver nombres con tilde. Español.
+- `sakamoto-days.fandom.com` (wiki oficial en inglés), API `action=parse&prop=wikitext`,
+  páginas: «Popularity Polls», «Taro Sakamoto», «Shin Asakura», «Lu Shaotang», «Yoichi
+  Nagumo». Inglés.
+- `navegar.py` sobre TV Tropes: YMMV, Funny y Heartwarming de «SakamotoDays» (TearJerker no
+  existe como página propia, da 404 con lista de alternativas). Inglés.
+- `navegar.py` sobre Behind The Voice Actors (reparto en inglés, no latino — no usado en la
+  tabla del punto 8) e intento sobre okamisamatv.com (sin datos de Nagumo). Inglés/español.
+- WebSearch (13 búsquedas): doblaje ANMTV, encuestas de popularidad en Japón, reparto de
+  secundarios, sales/streaming de Netflix, fandubs y memes hispanos, entrevista de Óscar López.
+  Español e inglés.
+- Dailymotion API `api.dailymotion.com/videos?search=`: tráilers oficiales en español latino y
+  portugués (para fotogramas). `voz.py` transcribió el tráiler oficial en español (x9a858e,
+  108 s) y uno que resultó ser en portugués (x9c2low, descartado para citas de texto pero
+  usado para fotogramas visuales). `fotogramas.py --cortes` sobre ambos, 68 + 84 fotogramas
+  vistos con Read.
+- YouTube: sólo `oembed` (título/canal, sin necesitar sesión) para confirmar canales de
+  reacción al doblaje y entrevistas; no se abrieron los vídeos en sí (bloqueado en esta
+  máquina, según el aviso de arranque).
+- ComicBook.com y AnimeCorner/GameRant/ScreenRant/CBR (vía WebSearch) para cifras de ventas y
+  streaming; Anime News Network bloqueó con captcha incluso con `navegar.py`.
+

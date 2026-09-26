@@ -269,6 +269,42 @@ identificas»)
 
 ## Hallazgos · Punto 22 — Fan dubs y comunidad hispana
 
+**El proyecto de fandub más grande: «Persona 5 LATAM Visions»** (mod para PC de *Persona 5 Royal*).
+- Qué es: mod que traduce y (a futuro) dobla el juego al español latino; usa como base la traducción
+  oficial al castellano de España, «neutralizando» los modismos ibéricos y metiendo referencias
+  latinoamericanas · GameBanana (página oficial del mod) https://gamebanana.com/wips/85365 · ✅
+- Estado (visto en la propia página, sección «Progress Report»): **13% terminado**; ya lleva los arcos
+  2 y 3 de la traducción de texto al 50% aproximadamente; el doblaje de voz en sí **todavía no está
+  incluido** en las descargas publicadas («Doblaje al latino. (NO EN ESTE WIP)») — sólo el texto por
+  ahora · https://gamebanana.com/wips/85365 · ✅
+- Reportaje sobre el tráiler de voces: cubre a Joker, Ann, Ryuji, Yusuke «entre otros», con
+  intérpretes aficionados a la saga; también quieren doblar las canciones del juego; requiere versión
+  de Steam (no compatible con Microsoft Store) · Xataka México, 20-mar-2025 ·
+  https://www.xataka.com.mx/videojuegos/buscabas-pretexto-para-volver-a-jugar-persona-5-royal-tienes-motivo-conoce-mod-doblaje-latino · ✅
+  (contrastado con la propia página del mod, fuente 2)
+- Cobertura adicional del mismo mod: 3DJuegos LATAM (no se pudo abrir el texto completo, bloqueado por
+  el proxy de red, sólo se tiene el titular) https://www.3djuegos.lat/pc/grupo-fans-hizo-que-sega-no-quiso-mod-doblaje-a-espanol-latino-para-persona-5-aqui-su-primer-trailer ·
+  ⚠️ y un vídeo corto en TikTok que muestra avances («pgn.pe») https://www.tiktok.com/@pgn.pe/video/7484337684496928055 · ⚠️
+- Vídeo de un fandub de aficionados distinto (no verificado si sigue activo ni su canal exacto):
+  «PERSONA 5 ROYAL- DOBLAJE ESPAÑOL FANDUB - Capítulo 1» en YouTube — no se pudo abrir en este
+  servidor (YouTube pide iniciar sesión), se deja el enlace sin comprobar el contenido ·
+  https://www.youtube.com/watch?v=r7c4GX3iwnk · ⚠️ (enlace sin verificar)
+
+**Reparto de «fan-casting» (propuestas, NUNCA un doblaje real):**
+- Doblaje Wiki tiene un blog de propuesta de un usuario (`SupaKaminari`) con un reparto imaginario para
+  México: Joker por Moisés Iván Mora, Ryuji por Manuel Campuzano, Ann por Alondra Hidalgo (actriz real,
+  conocida por doblar a Marinette en *Miraculous*), Morgana por Isabel Martiñón, Yusuke por Héctor
+  Gómez Gil · https://doblaje.fandom.com/es/wiki/Usuario_Blog:SupaKaminari/Propuesta:_Persona_5 · ✅
+  (existe, es real como propuesta, pero se marca claramente como NO oficial)
+- La wiki de fanon `propuestas-fanon.fandom.com` tiene otra propuesta distinta y más elaborada (con
+  «estudios» y «directores» inventados: SDI Media de México, Rubén Cerda), incluso con un reparto en
+  inglés de referencia y otro doblaje ficticio para *Persona 5 Royal* con Gabriel Ramos como Joker ·
+  https://propuestas-fanon.fandom.com/es/wiki/Persona_5 · ✅ (existe, también NO oficial)
+- **Covers de openings en español:** no se encontró ninguno específico de Persona 5 en la búsqueda de
+  Dailymotion de `datos-voz.md» («Persona 5 fandub español/latino»); tampoco apareció uno claro en las
+  búsquedas web de esta sesión (se hallaron sobre todo el mod de doblaje y el fandub de YouTube ya
+  citados) · ⚠️ búsqueda hecha, sin resultado confirmado.
+
 ## Lo mejor para la lámina
 
 ## No encontré

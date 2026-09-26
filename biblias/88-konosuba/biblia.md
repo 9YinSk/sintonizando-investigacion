@@ -273,3 +273,71 @@ La comunidad de [dafont](https://www.dafont.com/forum/read/311727) identificó d
 - Megumin: se presenta siempre con nombre y título, nunca un «hola»; risa malvada «¡Wahahahaha!»; conjuro teatral que acaba en «¡Explosión!».
 - Darkness: seria y noble hasta que algo la humilla; entonces jadea y la voz se le pone aguda.
 
+## 7 · Personajes y popularidad
+
+**La más querida es Megumin.** Todo coincide:
+
+- Encuesta oficial de Sneaker Bunko (la editorial de las novelas): **gana Megumin**. Citada por [Wikipedia](https://en.wikipedia.org/wiki/KonoSuba); la página original está en [Wayback](https://web.archive.org/web/20160919074521/https://sneakerbunko.jp/special/konosuba-charavote/), que no abría desde el contenedor ⚠️.
+- Premios Newtype 2015-16: Megumin 6.ª mejor personaje femenino; Kazuma 3.º mejor personaje masculino ([Crunchyroll News](https://www.crunchyroll.com/anime-news/2016/10/09/japanese-fans-pick-favorite-anime-from-last-twelve-months-in-newtype-awards)) ✅.
+- Crunchyroll Anime Awards 2016, «Best Girl»: Megumin tuvo más votos en «Otra» que nadie ✅.
+- AniList: Megumin 16 696, Kazuma 9484, Aqua 8266, Darkness 6056, Yunyun 2389, Wiz 2069 ✅.
+- Danbooru: Megumin es la 3.ª más dibujada de todo el sitio (10 879 dibujos), por delante de Rem. Dentro de la serie: Megumin > Aqua > Kazuma > Darkness > Yunyun > Wiz.
+
+**La secundaria más querida es Yunyun.** Es la secundaria más dibujada (1743 dibujos, por delante de Wiz con 1191, Chris/Eris con 501 y Komekko con 447). Tiene novelas propias (*Yunyun's Wonderful Now!*). En Reddit, sus fan arts están entre los más votados (2615 y 2388 votos) ⚠️ (sin encuesta oficial).
+
+**Resumen para láminas:** Megumin es la cara de la serie. Aqua es la que más risa da. Yunyun es la ternura. Darkness es el gag más reconocible.
+
+**La serie también premiada:** 10.ª mejor serie en los Newtype 2015-16 y segunda en Mejor Comedia de los Crunchyroll Anime Awards 2016 ([resultados](https://www.crunchyroll.com/anime-feature/2017/01/10-1/feature-crunchyroll-anime-awards-the-results-are-in-see-who-won)) ✅. Nominada a Mejor Isekai en 2025 y en la [10.ª edición](https://en.wikipedia.org/wiki/10th_Crunchyroll_Anime_Awards) (2026) ⚠️.
+
+## 8 · Doblaje latino
+
+**Ficha técnica** (wikitext de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/KONOSUBA_-God%27s_blessing_on_this_wonderful_world%21), ficha de la serie) ✅:
+
+- Temporadas 1 y 2: dirección de **Javier Olguín**, estudio **SDI Media de México** (hoy Iyuno México), traducción de Leopoldo Falcón.
+- Temporada 3: dirección de **Gerardo Márquez**, estudio **Audiomaster Candiani**, traducción de Luis Fernando Gurrea.
+- Estrenos en Crunchyroll: T1 el 15-ene-2019, T2 el 16-jul-2019, T3 el 1-may-2024 (11 episodios).
+
+**Reparto** (cada nombre en dos fuentes cuando se pudo):
+
+| Personaje | Voz japonesa | Voz latina | Fuente 1 | Fuente 2 |
+|---|---|---|---|---|
+| Kazuma Satou | Jun Fukushima | **Javier Olguín** | Doblaje Wiki | [wdnes](https://www.wdnes.com/2024/05/aqui-esta-el-elenco-del-doblaje-latino.html) y AniList ✅ |
+| Aqua | Sora Amamiya | **Nycolle González** | Doblaje Wiki | wdnes y AniList ✅ |
+| Megumin | Rie Takahashi | **Wendy Malvárez** | Doblaje Wiki | wdnes y AniList ✅ |
+| Darkness (T1-T2) | Ai Kayano | **Mireya Mendoza** | Doblaje Wiki | ANMTV (reseñas de doblaje 2023) y AniList ✅ |
+| Darkness (T3) | Ai Kayano | **Mildred Barrera** | Doblaje Wiki | wdnes ✅ |
+| Yunyun | Aki Toyosaki | Alondra Hidalgo | Doblaje Wiki | [Código Espagueti](https://codigoespagueti.com/noticias/anime/konosuba-quienes-hacen-el-doblaje-latino-del-spin-off-de-megumin/) (spin-off) ✅ |
+| Wiz | Yui Horie | Jessica Ángeles | Doblaje Wiki | AniList ⚠️ (AniList no dice si es latino) |
+| Eris / Chris | Ayaka Suwa | Angélica Villa | Doblaje Wiki | AniList ⚠️ |
+| Chomusuke | Hitomi Nabatame | Alberto Bernal | Doblaje Wiki | ⚠️ una fuente |
+| Luna | Sayuri Hara | Analiz Sánchez (película: Rosalinda Márquez) | Doblaje Wiki | ⚠️ una fuente |
+
+Las voces japonesas salen también en los créditos del [tráiler de la T3](https://www.dailymotion.com/video/x8qwfj9?t=77) (1:17) ✅.
+
+**Por qué cambió la voz de Darkness.** Mireya Mendoza dejó Audiomaster Candiani a finales de 2023 por diferencias con el estudio. La llamaron para la T3 y dijo que no. Entró Mildred Barrera, que ya la había doblado en un cameo del spin-off. Es la tercera vez que Barrera la sustituye (antes en *The Big Bang Theory* y *Boruto*) ✅ (Doblaje Wiki, «Datos de interés»).
+
+**Curiosidades del doblaje** (Doblaje Wiki): en el estreno del episodio 1 el audio salió sólo con las voces, sin música ni efectos, y se arregló a los tres días. Desde la T3 hay groserías y modismos. Se deja «hikikomori» tal cual. La clase «Crusader» de Darkness se dice **«Paladín»**.
+
+**Frases textuales con minuto** (oídas con `voz.py` en el [episodio 1 del spin-off](https://www.dailymotion.com/video/xa0oox0?t=64) *¡Explosión en este mundo maravilloso!*, subido por Rayvox; el canal no es oficial ⚠️):
+
+- Megumin narra (1:04-1:11): «Esta es la historia de, según algunos, una gran maga. Aunque muchas otras personas la conocen como la niña loca de las fuertes y devastadoras explosiones.»
+- Diálogo seco (1:35-1:38, [minuto](https://www.dailymotion.com/video/xa0oox0?t=95)): «¿Megumin, es algún apodo?» «Así me llamo.»
+- Megumin, tranquilísima dentro de un agujero (1:42-1:55, [minuto](https://www.dailymotion.com/video/xa0oox0?t=102)): «Pero me pregunto quién habrá roto el sello así para liberarme. Te mando a volar unas piezas del rompecabezas que yo acababa de terminar. ¿Me ayudas a encontrarlas, por favor?»
+- Voz de Megumin medida: 202 Hz, muy expresiva (19,1 semitonos), 2,79 palabras por segundo.
+
+**Clips oficiales doblados de Crunchyroll** (sacados de «Muestras multimedia» de Doblaje Wiki; en YouTube, con bloqueo por país desde el contenedor). Los títulos ya son frases del doblaje ⚠️ (no oídas):
+
+| Título del clip | Enlace | Duración |
+|---|---|---|
+| El HONORABLE duelo de Kazuma | [youtube](https://www.youtube.com/watch?v=0zwgTGC-d0Q) | 2:28 |
+| Eres taaan ruin | [youtube](https://www.youtube.com/watch?v=ETtNJGSru54) | 1:29 |
+| NUNCA VOY A SUPERAR ESTA ESCENA | [youtube](https://www.youtube.com/watch?v=zPUmm0cfOWs) | 1:31 |
+| CALIÉNTAME | [youtube](https://www.youtube.com/watch?v=DM7SN6sohSM) | 1:11 |
+| Qué gustos tan peculiares | [youtube](https://www.youtube.com/watch?v=RLs86yY94ec) | 2:06 |
+| No subestimen el poder de los héroes | [youtube](https://www.youtube.com/watch?v=ORqaFXDoqJU) | 2:14 |
+| Kazuma y su grupo vs la hydra | [youtube](https://www.youtube.com/watch?v=4rpb3ppF_-4) | 2:20 |
+| Podrás tener mi cuerpo pero jamás mi corazón | [youtube](https://www.youtube.com/watch?v=rJgxG0ra9LU) | 2:46 |
+| SAPOtamadre | [youtube](https://www.youtube.com/watch?v=IjAC01KQRS8) | 1:36 |
+
+«Qué gustos tan peculiares» y «Podrás tener mi cuerpo…» van casi seguro con Darkness. «SAPOtamadre» es el gag de Aqua y los sapos. **Hay que oírlos con una IP latinoamericana** para sacar el minuto de cada frase.
+
