@@ -741,3 +741,112 @@ Junto con los modelos de §3 y las texturas reales de §4, estas son todas las c
 - Papel para la calling card: [Paper006](https://ambientcg.com/view?id=Paper006), CC0. ✅
 - Generador de calling cards de fans, para ver la composición ([p5cc](https://skyventuree.github.io/p5cc/)). ✅ No para pegar.
 
+## 20 · Gustos y detalles de cada personaje
+
+AniList contra la wiki, que cita la tabla de alturas oficial de *Royal*. Cuando no coinciden, se avisa.
+
+| Personaje | Le gusta | Odia | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|
+| Joker | Café recién hecho, hacer curry, leer | — | Sin fecha canon | 175 cm | [AniList](https://anilist.co/character/121590) y wiki ✅ |
+| Ryuji | El atletismo, antes de lesionarse | Que le recuerden la pierna y a Kamoshida | 3 de julio | 170 cm (tabla oficial) o 175 cm (AniList) ⚠️ | [AniList](https://anilist.co/character/122974) y [wiki](https://megamitensei.fandom.com/wiki/Ryuji_Sakamoto) |
+| Ann | Ser modelo | Que la juzguen por su aspecto | 12 de noviembre | 165 cm (tabla oficial) o 168 cm (AniList) ⚠️ | [AniList](https://anilist.co/character/120335) y [wiki](https://megamitensei.fandom.com/wiki/Ann_Takamaki) |
+| Morgana | Investigar el Metaverso y Mementos | Que lo llamen «gato» sin más | No tiene: amnésico | 60 cm de pie, 50 cm de gato | [AniList](https://anilist.co/character/122976) y wiki ✅ |
+| Futaba | Informática, anime, videojuegos | Salir de casa, el trato cara a cara | 19 de febrero | 152 cm | [AniList](https://anilist.co/character/121635) ⚠️ |
+| Makoto | El orden, ayudar | La injusticia, sentirse inútil | 23 de abril | 164 cm | [AniList](https://anilist.co/character/122977) ⚠️ |
+| Yusuke | Pintar, la comida, la langosta | Quedarse sin comida ni dinero | 28 de enero | 181,9 cm | [AniList](https://anilist.co/character/122975) ⚠️ |
+| Akechi | Resolver casos, ajedrez | Los adultos corruptos que lo usaron | 2 de junio | 178 cm | [AniList](https://anilist.co/character/121782) ⚠️ |
+| Haru | Jardinería | Que la traten como un objeto | 5 de diciembre | 158 cm | [AniList](https://anilist.co/character/122978) ⚠️ |
+
+- **El objeto que siempre lleva.** Joker: guantes rojos y máscara. Ann: el látigo como Panther. Ryuji: su maza de ladrón. Morgana: nada, su cuerpo es su seña. ⚠️ Observado en fotogramas e ilustraciones.
+- **Cómo se ve a sí mismo.** Joker, como un marginado injusto que acaba liderando. Morgana, como un humano atrapado en un gato. Ryuji, como «el problema» del instituto. ⚠️ Deducido de §13.
+- Si hay que elegir una altura de Ryuji o de Ann, **la de la tabla oficial**: 170 y 165 cm.
+
+## 21 · Por qué la gente la ama
+
+**Números y premios**
+- **Mejor RPG** en The Game Awards 2017 ([Persona Central](https://personacentral.com/persona-5-awarded-best-role-playing-game-game-awards-2017/) · [Atlus West](https://www.facebook.com/AtlusWest/posts/we-never-saw-it-coming-persona-5-won-best-rpg-at-the-game-awards-thank-you-every/10155151045728339/)). ✅
+- *Royal*: 95/100 en [Metacritic](https://www.metacritic.com/game/persona-5-royal/). Guinness lo nombró el JRPG mejor puntuado en 2026 ([Guinness](https://www.guinnessworldrecords.com/news/2026/9/persona-5-royal-snatches-the-crown-for-best-rated-jrpg)). ✅
+- Ventas: *P5* y *Royal* juntos, **10,46 millones**; *Royal* solo, 7,25 millones; la saga, más de 27 millones ([Persona Central](https://personacentral.com/p5-p5r-10-million-sales/), citando a Sega). ⚠️ Una fuente.
+- Hilo «I understand why people love Persona 5», 98 votos y 62 comentarios ([Reddit](https://www.reddit.com/r/Persona5/comments/1tzhfr4/i_understand_why_people_love_persona_5/)). ⚠️ Sólo el título; sin leer las razones.
+
+**Con quién se identifican**
+- Makoto, Futaba y Yusuke: sus arcos van de sentirse «distintos» o «inútiles» a superarlo. Los tres están en el top 5 de las encuestas ([hilo sobre Futaba](https://www.reddit.com/r/Persona5/comments/1uod8pf/wanted_to_make_a_post_on_why_i_love_futaba_so/)). ⚠️ Interpretación nuestra.
+
+**Las escenas que hacen llorar**
+| Escena | Cuándo | Qué pasa y por qué duele | Música | Fuente |
+|---|---|---|---|---|
+| El «sacrificio» de Ryuji | 8 de diciembre, barco de Shido | El barco explota; Ryuji corre con la pierna mala para soltar el bote y se queda atrás. Ann queda inconsolable. Luego se sabe que vive | «Run, Run, Run!» y después **«Collapse of Pride»** en el sprint | ✅ [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/Persona5) y [capturas del juego](https://lparchive.org/Persona-5/Update%20184/) |
+| La despedida | 19 de marzo | Joker se despide de cada Confidente; Sojiro se quita las gafas para secarse las lágrimas | **«Sunset Bridge»** en bucle | ✅ [capturas del juego](https://lparchive.org/Persona-5/Update%20210/) y TV Tropes |
+| Futaba y su madre | Final de su Palacio | La madre nunca la culpó de su muerte; se despiden con cariño | sin identificar | ⚠️ TV Tropes |
+| El grupo desaparece | Antes del final | Nadie cree ya en los ladrones; Morgana se culpa y el jugador lo consuela | «Hoshi to Bokura to», instrumental | ⚠️ una fuente |
+| El interrogatorio | Episodio 1 del anime | Ren esposado, golpeado y drogado, llora en silencio | — | ✅ visto, [2:48](https://www.dailymotion.com/video/x6gzgvk?t=168) y [5:45](https://www.dailymotion.com/video/x6gzgvk?t=345) |
+
+- Cómo está hecho el llanto del anime: primer plano frontal, manos manchadas de sangre, silencio. ✅
+- Reacción: «Don't get me wrong, I love Makoto, but it's scenes like this…», 891 votos ([Reddit](https://www.reddit.com/r/Persona5/comments/1752buz/)). ⚠️ El texto está borrado.
+
+**Las que hacen reír o gritar**
+- **El All-Out Attack**: la escena más compartida, con recopilaciones y reacciones (§10). ✅
+- **Yusuke y sus langostas** ([1:32](https://www.dailymotion.com/video/x6uu26k?t=92)). ✅
+- **Ryuji gritando «Swimsuits!»** al ver el mar ([0:16](https://www.dailymotion.com/video/x6uu26k?t=16)). ✅
+- **Las respuestas engañosas** a los Confidentes: 2191 votos (§12). ✅
+
+## 22 · Fan dubs y comunidad hispana
+
+Al no haber doblaje latino, la comunidad se lo está haciendo. Es el gancho de esta obra para un servidor de doblaje.
+
+**Persona 5 LATAM Visions** (mod para PC de *Royal*) ✅
+- Traduce el juego al **español latino**, partiendo del texto oficial de España, quitando modismos ibéricos y metiendo referencias latinas ([GameBanana](https://gamebanana.com/wips/85365)).
+- Estado visto en su página: **13 %**. Arcos 2 y 3 del texto, a medias. El **doblaje de voz aún no está** en las descargas: «Doblaje al latino. (NO EN ESTE WIP)».
+- Sacaron un tráiler de voces con Joker, Ann, Ryuji y Yusuke; quieren doblar también las canciones. Sólo en la versión de Steam ([Xataka México](https://www.xataka.com.mx/videojuegos/buscabas-pretexto-para-volver-a-jugar-persona-5-royal-tienes-motivo-conoce-mod-doblaje-latino), 20-mar-2025).
+- Más cobertura: [3DJuegos LATAM](https://www.3djuegos.lat/pc/grupo-fans-hizo-que-sega-no-quiso-mod-doblaje-a-espanol-latino-para-persona-5-aqui-su-primer-trailer) (sólo titular, el proxy lo bloqueó) y un vídeo de avances en [TikTok](https://www.tiktok.com/@pgn.pe/video/7484337684496928055). ⚠️
+
+**Otros**
+- «PERSONA 5 ROYAL - DOBLAJE ESPAÑOL FANDUB - Capítulo 1» ([YouTube](https://www.youtube.com/watch?v=r7c4GX3iwnk)). ⚠️ Sin abrir: YouTube pide cuenta.
+- Repartos soñados en Doblaje Wiki y Propuestas Fanon (§8). Son propuestas, no doblajes.
+- Covers en español de los temas: buscados en Dailymotion y en la web, **sin resultado**. ⚠️
+- Foro del Doblaje: 502 dos veces; ANMTV bloqueado por el proxy. ⚠️
+- Memes hispanos propios: no encontrados. ⚠️
+
+**Para el servidor**
+- Un reto de doblaje con frases reales del episodio 18 (§8) funciona: son cortas, con emoción clara y minuto exacto.
+- Hay que decir siempre que el texto en español es traducción de la comunidad.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+**Juegos y marcas** (cada una trae ropa o pose nueva)
+- **Super Smash Bros. Ultimate:** Joker es luchador descargable, el primero del *Fighters Pass Vol. 1*, con Arsène ([wiki](https://megamitensei.fandom.com/wiki/Super_Smash_Bros._Ultimate)). Render de 5120×5120 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/2/25/SSBU_Joker_Render.png)). ✅
+- **Granblue Fantasy**, evento «Thievery in Blue» ([wiki](https://megamitensei.fandom.com/wiki/Granblue_Fantasy:_Thievery_in_Blue)), con ilustración de grupo ([imagen](https://static.wikia.nocookie.net/megamitensei/images/4/49/Granblue_Fantasy_x_P5_Group.png)). ✅
+- **Identity V:** los ladrones con ropa de ese juego de terror ([imagen](https://static.wikia.nocookie.net/megamitensei/images/f/fe/IdentityV_PhantomThieves.jpg), 1440×2560) y el cartel «TAKE YOUR HEART» (nº50, nº107). ✅
+- **Dragalia Lost:** Ann con traje nuevo ([imagen](https://static.wikia.nocookie.net/megamitensei/images/6/69/Ann_Dragalia_Lost_collab.jpg)). ⚠️
+- **Chain Chronicle:** carta de Ryuji ([imagen](https://static.wikia.nocookie.net/megamitensei/images/2/23/Chain_Chronicle_Card_Ryuji.png)). ⚠️
+- **Sword Art Online: Integral Factor:** Eugeo vestido de Skull ([imagen](https://static.wikia.nocookie.net/megamitensei/images/c/c3/Eugeo_as_Skull_SAOIF.jpg)). ⚠️ También en *Memory Defrag*, según la biblia 85.
+- **LastCloudia:** Joker, Morgana y Kichijoji a su estilo (nº108-111; [imagen](https://static.wikia.nocookie.net/megamitensei/images/e/e8/LastCloudia_Joker.jpg)). ⚠️
+- **Sonic Forces:** el traje de Persona 5 para el avatar, el del meme «NO GLOVES!» ([Steam](https://store.steampowered.com/app/715910)). ✅
+- **Café Marion Crepes** en Japón, con *Tactica* ([imagen](https://static.wikia.nocookie.net/megamitensei/images/a/a4/P5T_x_Marion_Crepes.jpg)). ⚠️
+- **Sanrio:** peluche de Morgana ([imagen](https://static.wikia.nocookie.net/megamitensei/images/e/ec/Sanrio_MorganaPlush.jpg)). ⚠️
+
+**Figuras oficiales** (su pose sirve de referencia 3D)
+- amiibo de Joker con caja ([imagen](https://static.wikia.nocookie.net/megamitensei/images/e/e1/Joker_amiibo.jpg)) y sin caja, en pose de combate con la daga ([imagen](https://static.wikia.nocookie.net/megamitensei/images/b/b5/Joker_amiibo_no_box.jpg)). ✅
+- Funko Pop de Morgana ([imagen](https://static.wikia.nocookie.net/megamitensei/images/a/a7/P5_Morgana_Pop_figure.jpeg)), Ann ([imagen](https://static.wikia.nocookie.net/megamitensei/images/6/64/P5_Ann_Pop_Figure.jpeg)) y Ryuji ([imagen](https://static.wikia.nocookie.net/megamitensei/images/a/a8/P5_Ryuji_Sakamoto_pop_figure.jpeg)). ✅
+- Youtooz de Joker y Morgana (nº43-44). ✅
+
+**Cosplay** (materiales y volumen reales)
+- Ann en el Toronto Comicon 2018, CC BY-SA 4.0 ([Wikimedia](https://upload.wikimedia.org/wikipedia/commons/1/1b/Toronto_Comicon_2018_IMG_0275_ceres.chan_as_Ann_Takamaki_from_Persona_5.jpg)). ✅
+- Panther de greyloch, CC BY-NC-ND 2.0 ([Flickr](https://live.staticflickr.com/4627/39038977005_4d67e20438_b.jpg)). ✅ El abrigo de Joker en cosplay pesa y cae: no es tela plana.
+- Joker del *Comic Expo* de *The Phantom X* (nº74). ✅
+- Modelos de Sega en la Taipei Game Show 2017, CC BY-SA 4.0, 4000×3000 ([Wikimedia](https://upload.wikimedia.org/wikipedia/commons/c/c3/Sega_promotional_models_and_Persona_5_title%2C_Taipei_Game_Show_20170123.jpg)). ✅
+
+## 24 · Obras parecidas
+
+- **Arsène Lupin** es la semilla. El director **Katsura Hashino**: «si hoy existiera un ladrón clásico como Lupin, ¿cómo fascinaría a la gente?». Mezcla novela picaresca e instituto. Temía que lo compararan con **Lupin III** ([Anime News Network](https://www.animenewsnetwork.com/news/2015-02-05/persona-5-director-katsura-hashino-talks-story-themes/.84132)). ✅ Los fans ven el guiño en la carrera de Joker (§12).
+- **Metaphor: ReFantazio** (2024): mismo director, Hashino, con Studio Zero. «Persona en un mundo de fantasía», con la misma interfaz de recortes ([Wikipedia](https://en.wikipedia.org/wiki/Katsura_Hashino)). ✅
+- **Catherine** (2011): mismo equipo de interfaz, misma regla de un color fuerte (rosa). ✅
+- **Persona 3 y Persona 4**: misma saga, mismos vínculos y mazmorras, otro color (azul y amarillo). ✅
+- Recomendaciones de AniList: Persona 4, Persona 3, *Mementos Mission*, *My Hero Academia: Vigilantes*, *JoJo's Bizarre Adventure*, *Devil Survivor*, *Bakemonogatari*. ⚠️ De usuarios.
+
+**Láminas del servidor que se le parecen**
+- No hay ninguna biblia de atracos juveniles con estética punk de recortes. ⚠️ Revisión nuestra de `biblias/`.
+- La más cercana en rojo y negro es **Death Note** (18), pero su tono es terror; aquí es rebeldía pop. No repetir su sangre.
+- *Cyberpunk: Edgerunners* (27) comparte neón nocturno. Aquí el neón es morado y rosa, y el rojo lo pone la interfaz. ⚠️ Comparación nuestra.
+- *Sword Art Online* (85) ya menciona el cruce con Persona 5 Royal.
+

@@ -845,8 +845,9 @@ del subtítulo ✅.
 - **Cómo se enfada**: «僕は正義だ！» (ep. 2, 00:16:24), gritando a la tele.
 - **Su frase**: «新世界の神となる» («seré el dios del nuevo mundo»,
   ep. 1, 00:21:00) y «計画どおり» (ep. 24, 00:05:42).
-- **Cuerpo** ⚠️ (de memoria): recto, ordenado; cuando gana, **sonrisa
-  torcida con media cara en sombra** y ojos con brillo rojo.
+- **Cuerpo**: recto, ordenado; cuando gana, **sonrisa torcida con media
+  cara en sombra** y ojos con brillo rojo ✅ (visto en la segunda pasada:
+  ep. 24, 00:05:42, con un auricular de manos libres junto a la boca).
 
 ### L (エル) — el detective, 1.º en votos ✅
 
@@ -868,8 +869,10 @@ del subtítulo ✅.
 - **Cómo se presenta**: sin aviso: «私はＬです» (ep. 9, 00:14:39).
 - **Su lado triste**: «寂しいですね… もうすぐ お別れです» (ep. 25,
   00:14:45).
-- **Cuerpo** ⚠️: encorvado, **pulgar en el labio**, mirada fija de ojos
-  enormes, pelo negro revuelto.
+- **Cuerpo**: encorvado, **pulgar en el labio**, mirada fija de ojos
+  enormes, pelo negro revuelto ✅ (visto: ep. 10, 00:08:14, en cuclillas
+  con el dedo en el labio; ep. 15, 00:08:04, en cuclillas sobre el
+  respaldo de un banco, zapatos en el suelo).
 
 ### Ryuk (リューク) — el shinigami
 
@@ -887,8 +890,10 @@ del subtítulo ✅.
   aire de **reptil** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Ryuk_(Death_Note))).
 - **Cómo se ríe**: «フフフフフ…» (ep. 7, 00:18:34); «ククク» ⚠️ (de memoria).
 - **Final**: escribe el nombre de Light (ep. 37, 00:18:37 a 00:19:27).
-- **Cuerpo** ⚠️: alto, flaco, encorvado, **sonrisa enorme de dientes**,
-  ojos amarillos con pupila roja, plumas negras, cinturón con cadena.
+- **Cuerpo**: alto, flaco, encorvado, **sonrisa enorme de dientes**,
+  ojos amarillos con pupila roja, plumas negras, cinturón con cadena ✅
+  (visto: ep. 1, 00:13:00 y 00:16:12, alas de pelo negro en punta y
+  **hebilla de calavera**). Mide **230 cm** (§«Punto 20»).
 
 ### Misa Amane (弥海砂) — la segunda Kira
 
@@ -904,6 +909,9 @@ del subtítulo ✅.
 - **Carácter**: impulsiva, infantil, cómica y temeraria, pero lista para
   las coartadas ✅ ([pixiv 百科](https://dic.pixiv.net/a/%E5%BC%A5%E6%B5%B7%E7%A0%82)).
 - **Momento duro**: atada y con los ojos vendados (ep. 16, 00:03:21) ✅.
+  **Segunda pasada**: a las 00:03:21 (minuto del subtítulo) el plano es
+  de L con Matsuda y otro agente; **su cara atada se ve a las 00:20:58**
+  (ver 8.1).
 - **Ropa**: **gótica lolita** (ver §16).
 
 ### Near (ニア) — el sucesor
@@ -915,7 +923,11 @@ del subtítulo ✅.
   ganarlo, un puzle hay que resolverlo», ep. 27, 00:02:01 a 00:02:04) ✅.
 - **Cuerpo** ⚠️: sentado en el suelo, una rodilla arriba, **enrollándose
   un mechón blanco** con el dedo; juguetes (puzles blancos, dados,
-  muñecos) por todas partes.
+  muñecos) por todas partes. **Visto en la segunda pasada**: de niño, en
+  cuclillas sobre una alfombra oriental, pelo tapando los ojos (ep. 27,
+  00:02:01) ✅; y primer plano frío, camisa blanca abierta (ep. 33,
+  00:11:53) ✅. El mechón con el dedo sale en el arte oficial (hoja 1,
+  nº14), no se vio en fotograma.
 
 ### Los secundarios que conviene tener a mano
 
@@ -927,6 +939,39 @@ del subtítulo ✅.
 | **Sōichirō Yagami** | El padre honrado | ep. 6, 00:01:44 |
 | **Watari** | El mayordomo de L | ep. 25, 00:16:38 |
 | **Rem** | La shinigami de Misa | ep. 13, 00:02:25 |
+
+**Matsuda** es, además, el **secundario de comedia más querido** del
+fandom (ver §9 y «Punto 21»): no es un genio, se equivoca, y al final
+dispara a Light por pura rabia humana.
+
+### 8.1 La cara en cada emoción, con fotograma (segunda pasada)
+
+Fotogramas de la serie completa en Internet Archive
+([DeathNoteTV](https://archive.org/details/DeathNoteTV), 37 episodios),
+sacados con `ffmpeg -ss` directo sobre la URL (la función `sacar()` de
+`fotogramas.py`). El enlace lleva el segundo exacto (`?t=`). **En 4 de 6
+filas el minuto que traía la primera pasada (del subtítulo, sin vídeo)
+no era la escena**: se buscó con una hoja de contacto cada 25-30 s y se
+corrigió. La columna «Antes» dice el minuto viejo.
+
+| Personaje | Emoción | Ep. | Minuto | Antes | Qué se ve y enlace |
+|---|---|---|---|---|---|
+| Light | Rabia | 2 | 00:16:24 | igual | ✅ Primer plano de perfil, ceño hundido, ojos entornados que reflejan la pantalla. [Internet Archive, `?t=984`](https://archive.org/download/DeathNoteTV/02%20-%20Confrontation.mp4?t=984) |
+| Light | Miedo, pánico final, herido y solo | 37 | **00:15:58** | ≈00:18:30 | ✅ Primerísimo plano, sangre en la mejilla, ojo muy abierto, luz cálida. A las 00:18:30 la cámara ya está en Ryuk sobre la torre. [`?t=958`](https://archive.org/download/DeathNoteTV/37%20-%20New%20World.mp4?t=958) |
+| Light | Alegría, triunfo (la risa del meme) | 1 | 00:22:32 | igual | ⚠️ En este archivo, a las 00:22:32 sale un destello blanco de transición; se buscó la risa en la tumba de L en el ep. 24 (cada 60 s) sin dar con ella. Hay un clip doblado de la escena: [YouTube KOFd72TcTj8](https://www.youtube.com/watch?v=KOFd72TcTj8) |
+| L | Concentración, manía | 15 | **00:08:04** | 00:09:07 | ✅ En cuclillas sobre el respaldo de un banco de exterior, rodillas al pecho, zapatos en el suelo, Light de pie al lado. A las 00:09:07 ya hablan los dos de pie. [`?t=484`](https://archive.org/download/DeathNoteTV/15%20-%20Wager.mp4?t=484) |
+| L | Tristeza («寂しいですね») | 25 | 00:14:45 | igual | ⚠️ Sin fotograma propio; clip doblado de la escena del masaje de pies: [YouTube rIc7gVUzUBY](https://www.youtube.com/watch?v=rIc7gVUzUBY) |
+| Ryuk | Alegría (sonrisa enorme, colmillos) | 1 | **00:17:29** | 00:16:12 | ✅ Primerísimo plano de la cara de Ryuk sonriendo de oreja a oreja, ojos muy abiertos, pupilas rojas. En este archivo, a las 00:16:12 sale Light; la cesta de manzanas, a las 00:15:50. [`?t=1049`](https://archive.org/download/DeathNoteTV/01%20-%20Rebirth.mp4?t=1049) |
+| Misa | Miedo (atada, con antifaz, celda blanca) | 16 | **00:20:58** | 00:03:21 | ✅ Inmovilizada con correas contra un panel blanco, antifaz, coletas colgando. A las 00:03:21 el plano es de L con Matsuda y otro agente. [`?t=1258`](https://archive.org/download/DeathNoteTV/16%20-%20Decision.mp4?t=1258) |
+| Near | Calma, pensativo, jugando en el suelo | 27 | 00:02:01 | igual | ✅ En cuclillas sobre una alfombra oriental, mangas remangadas, brazos a media altura, cabeza inclinada, pelo tapando los ojos. [`?t=121`](https://archive.org/download/DeathNoteTV/27%20-%20Abduction.mp4?t=121) |
+| Matsuda | Vergüenza, torpeza (dispara a Light, tembloroso) | 37 | 00:14:16 | igual | ⚠️ Sin fotograma propio; comparación de doblajes de la escena: [YouTube VJPH7IIKNFw](https://www.youtube.com/watch?v=VJPH7IIKNFw) |
+
+**Ojo con las copias**: Internet Archive tiene **dos copias** de la
+serie. La de esta tabla (`DeathNoteTV`) y la de §2.11 (`death-note-XX`)
+no van siempre al mismo segundo: en el ep. 1, a las 00:16:12, una
+enseña la silueta de Ryuk y la otra a Light; en el ep. 27, a las
+00:02:01, una enseña a Near y la otra a otro niño de Wammy's. **Usa
+siempre el enlace con `?t=` de la fila**, no el minuto a secas.
 
 ---
 
@@ -948,12 +993,28 @@ manzana) ⚠️. **Near** sale 3.º, empatado con Mello: úsalo para la
 lámina 2, no para la 1. **Misa** no sale arriba en ninguna encuesta que
 pude ver ⚠️.
 
+### 9.1 Segunda pasada: dos fuentes nuevas
+
+| Fuente | Resultado | Estado |
+|---|---|---|
+| **AniList, favoritos de usuarios** (recuento vivo) | **L 26 512**, Light 20 343, Ryuk 7 079, Misa 7 010, Mello 2 492, Near 2 473 | ✅ ([AniList](https://anilist.co/anime/1535)); coincide con Nlab y Namuwiki: L 1.º, Light 2.º |
+| **Reddit r/deathnote** (Arctic Shift, hilos con más votos) | **Matsuda**, secundario de culto: «hoy es el cumpleaños de Matsuda, mi favorito» (238 votos); hilo sobre el favorito *menor* (292 votos) | ✅ ([hilo 1](https://www.reddit.com/r/deathnote/comments/1pmllij/its_touta_matsudas_birthday_today_hes_my_favorite/), [hilo 2](https://www.reddit.com/r/deathnote/comments/1qnnbxe/whos_your_favorite_minor_character_i_dont_mean/)) |
+| Danbooru («los más dibujados», de `recolectar.py`) | **Descartado**: la lista era de otras franquicias (la etiqueta se filtró mal) | ⚠️ no usar |
+
+- **L sigue siendo el más querido** ✅ (ya son cinco fuentes).
+- **Ryuk** saca casi el triple de favoritos que Mello y Near, y está
+  empatado con Misa: **es el más reconocible de lejos** ✅ (AniList y
+  Reddit; sube de ⚠️ a ✅).
+- **Matsuda** es el **secundario de comedia más querido** ✅: buena carta
+  para una lámina 2 con un personaje distinto de L o Light.
+
 ---
 
 ## 10 · Doblaje latino
 
 **Sí hay doblaje latino** del anime, hecho en México, y está en
-plataformas: Netflix, Crunchyroll y otras ⚠️ (lista de
+plataformas: Netflix, Crunchyroll y otras (confirmado en la segunda
+pasada, ver abajo) ✅ (lista de
 [The Dubbing Database](https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish));
 Netflix: [título 70204970](https://www.netflix.com/title/70204970)).
 
@@ -979,8 +1040,40 @@ Netflix: [título 70204970](https://www.netflix.com/title/70204970)).
 | **Misa** | **Rebeca Gómez** | — | ✅ ([TikTok de ella](https://www.tiktok.com/@rebecagomez_voz/video/7124101453160975621), [YouTube](https://www.youtube.com/watch?v=lEpcImh9vF4)) |
 | **Near** | **Bruno Coronel** | — | ✅ ([TikTok de él](https://www.tiktok.com/@bruno_coronel/video/7125570347570564358), [The Dubbing Database](https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish))) |
 | **Mello** | **Javier Olguín** | — | ✅ (Doblaje Wiki y The Dubbing Database, en los resúmenes) |
-| Sōichirō | José Lavat ⚠️ | — | ⚠️ dos pistas indirectas ([Propuestas fanon](https://propuestas-fanon.fandom.com/es/wiki/Death_Note_Relight), [TikTok](https://www.tiktok.com/@imitandupoficial/video/7626173420266425621)) |
-| Rem, Watari, Matsuda, Mikami | **no lo encontré** | — | — |
+| Sōichirō | **José Lavat** | Narrador de muchos animes clásicos | ✅ **segunda pasada**: Doblaje Wiki por su API y The Dubbing Database (antes, dos pistas indirectas: [Propuestas fanon](https://propuestas-fanon.fandom.com/es/wiki/Death_Note_Relight), [TikTok](https://www.tiktok.com/@imitandupoficial/video/7626173420266425621)) |
+| **Rem** | **Erica Edwards** | — | ✅ segunda pasada (antes «no lo encontré») |
+| **Watari** | **Carlos del Campo** | — | ✅ segunda pasada (antes «no lo encontré») |
+| **Matsuda** | **Alfredo Leal** | — | ✅ segunda pasada (antes «no lo encontré»); también citado en foros de doblaje mexicano ⚠️ |
+| **Mikami** | **Arturo Mercado Jr.** | — | ✅ segunda pasada (antes «no lo encontré») |
+| Aizawa | Carlo Vázquez | — | ✅ segunda pasada |
+| Naomi Misora | Claudia Contreras | — | ✅ segunda pasada |
+| Mogi | Alejandro Mayén | — | ✅ segunda pasada |
+
+**Segunda pasada: de dónde sale el reparto.** Wikitext de
+[Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Death_Note) por su
+`api.php` (la web pide verificación) y de
+[The Dubbing Database](https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish)).
+Los catorce nombres salen en las dos ✅. Ojo: The Dubbing Database cita
+a Doblaje Wiki como su fuente (`ref=doblaje`), así que en rigor es un
+mismo origen leído en dos wikis; se acepta igual que en la primera
+pasada. Seiyū de cada uno: Miyano (Light), Yamaguchi (L), Nakamura
+(Ryuk), Hirano (Misa), Hidaka (Near), Sasaki (Mello), Saitō (Rem),
+Kobayashi (Watari), Naitō (Matsuda), Matsukaze (Mikami), Uchida
+(Sōichirō).
+
+- **Ficha de producción** (Doblaje Wiki, una fuente ⚠️): casting
+  **Marina Huerta**; traducción **Adrián Fogarty y Gabriela Gómez**;
+  adaptación **Carlos Blanco**; edición de diálogo **Adrián Fogarty**;
+  grabación **2008-2009**.
+- **El estudio, con matiz** ⚠️: Doblaje Wiki dice **AF The Dubbing
+  House**; The Dubbing Database dice **Mystic Sound**, enlazado a
+  **Fogarty Studios**. Lo más probable: AF gestionó el doblaje y Mystic
+  Sound / Fogarty fue el estudio de grabación. No elijas uno solo.
+- **Dónde verlo en latino, oficial** ✅ (The Dubbing Database): en TV
+  salió por Animax, Sony Spin, Adult Swim LA, ETC, TN8, Canal UCR, Canal
+  Claro, Willax y Pánico; en streaming, **Netflix, Pluto TV,
+  Crunchyroll, HBO Max, Mercado Play y Amazon Prime Video** (y
+  Funimation, ya cerrado). Sube de ⚠️ a ✅ la lista de plataformas.
 
 Casting: Hugo Núñez **probó para varios personajes** (Matsuda, Ryuk,
 Light y L) y se quedó con L ⚠️ (una fuente dice cuatro, otra cinco).
@@ -993,6 +1086,16 @@ Light y L) y se quedó con L ⚠️ (una fuente dice cuatro, otra cinco).
 | «Yo soy la justicia» | ep. 2, 00:16:24 | ⚠️ (webs de frases de fans; puede venir de fansubs) |
 | «Seré el dios del nuevo mundo» | ep. 1, 00:21:00 | ⚠️ (igual) |
 | «Los humanos son tan interesantes» (Ryuk) | final de la **película de Netflix** de 2017 | ⚠️ (Doblaje Wiki, en el resumen); en el anime, sin comprobar |
+
+**Segunda pasada**: la palabra **«fritura»** queda confirmada con un
+segundo clip doblado, «Death note Español latino /la escena de la
+patata/ xD» (canal *anadanielapotter15*, 147 k vistas,
+[YouTube IXwqj7g9rWk](https://www.youtube.com/watch?v=IXwqj7g9rWk)) ✅;
+el orden exacto de la frase sigue sin comprobar con un subtítulo
+oficial ⚠️. Para oír **el latino y el castellano lado a lado** en la
+escena en que Matsuda dispara a Light (ep. 37): canal *RVD Doblajes*,
+33 k vistas ([YouTube VJPH7IIKNFw](https://www.youtube.com/watch?v=VJPH7IIKNFw))
+⚠️ (recopilación de fan, no oficial).
 
 **Antes de rotular una frase del doblaje, escúchala en Netflix.** Si no
 se puede, usa una frase **nueva en la voz del personaje**, sin decir que
@@ -1021,12 +1124,38 @@ Para la lámina: **coro y órgano** = luz de iglesia, vitral rojo;
 **L's Theme** = pantallas, azul frío. Los OST se editaron el 21 de
 diciembre de 2006 (I) y el 21 de marzo de 2007 (II), en VAP ✅.
 
+### 11.1 Qué suena en cada escena (segunda pasada)
+
+Temas reconocidos por su audio en [wtas.moe](https://wtas.moe) y
+cruzados con el tracklist oficial de las tres OST (Wikipedia, arriba).
+
+| Escena | Ep., minuto | Tema | Estado |
+|---|---|---|---|
+| **L muere en brazos de Light** (la sonrisa) | 25, desde 00:17:13 | **«Kyrie II»** (pista 1 de la OST II) | ✅ wtas.moe + tracklist |
+| Openings | 1-19 / 20-37 | «the WORLD» / «What's up, people?!» (versión TV) | ✅ |
+| Endings | 1-19 / 20-36 | «Alumina» / «Zetsubō Billy» (versión TV) | ✅ |
+| Ep. 8 entero (con la papa, 00:18:35) | 8 | «Low of Solipsism», «Low of Solipsism II», «Reasoning», «Himitsu», «Kuroi Light», «Kyrie» | ⚠️ una fuente, sin minuto por pista |
+| Ep. 25 entero (muerte de L) | 25 | «Semblance of Dualism», «Misa no Uta», «L no Theme», «L no Kabe», «Tactics of the Absolute», «Alert», «Domine Kira», «Requiem» | ⚠️ una fuente; sólo «Kyrie II» tiene su minuto |
+
+- **El sonido de Kira es de iglesia**: «Kyrie», «Requiem», «Domine
+  Kira» («Señor Kira» en latín litúrgico) ✅ (tres títulos del
+  tracklist). **El de pensar** es piano y cuerdas («L no Theme»).
+- **Efectos que todos reconocen** (oídos en la segunda pasada): el
+  **tictac del segundero** antes de los 40 segundos (ep. 36, 00:20:55 a
+  00:21:10; en pantalla, un plano fijo del reloj de pared) y las
+  **campanas** antes de la muerte de L (ep. 25, 00:01:57 a 00:02:23 y
+  00:10:30) ✅.
+- En la muerte de Misa, al final, **el ending cambia a una canción más
+  suave** (lo dice TV Tropes) ⚠️: no se sacó el nombre del tema.
+
 ---
 
 ## 12 · Vídeos
 
-YouTube estaba bloqueado: **no pude ver ninguno**. No doy minutos de
-vídeo: los minutos de las escenas están en §2 (subtítulos).
+En la primera pasada YouTube estaba bloqueado: **no pude ver ninguno**.
+En la segunda sigue sin dejar bajar vídeo, pero **se miraron los
+episodios en Internet Archive y el opening, el ending y el tráiler en
+Dailymotion**: todo eso, con minuto, está en §2.11 y en 12.1.
 
 | Vídeo | Para qué |
 |---|---|
@@ -1052,7 +1181,36 @@ la película de 2017**, no del anime ([Netflix](https://www.youtube.com/watch?v=
 TikTok: retos de doblaje con Light y Misa
 ([SDV servicios de voz: Light](https://www.tiktok.com/@sdv_serviciosdevoz/video/7187095780468034821),
 [Misa](https://www.tiktok.com/@sdv_serviciosdevoz/video/7145238036119309573)).
-**Son justo el tipo de guion que iría en #textos.**
+**Son justo el tipo de guion que iría en #textos.** Siguen activos en la
+segunda pasada ✅.
+
+### 12.1 Segunda pasada: vídeos mirados y tendencias
+
+- **Tráiler del anime**: [Dailymotion x89nprz](https://www.dailymotion.com/video/x89nprz),
+  0:00 a 1:34, ocho fotogramas mirados (0:12 ojos de Light, 0:36 y 1:00
+  «How to use it», 0:48 la «L», 1:12 Light y L cara a cara) ✅.
+- **Opening** [x31pve2](https://www.dailymotion.com/video/x31pve2) y
+  **ending** [x6alujt](https://www.dailymotion.com/video/x6alujt), con
+  sus minutos en §2.11 ✅.
+- **Episodios con el segundo exacto**: los enlaces `?t=` de §8.1 y la
+  serie entera en [Internet Archive](https://archive.org/details/DeathNoteTV) ✅.
+- **Cuidado**: los clips «Death Note - L Confronts Light» de Dailymotion
+  (canal de Netflix, [x70vd6b](https://www.dailymotion.com/video/x70vd6b))
+  son **de la película de 2017**. No sirven de estilo.
+
+**Tendencias de TikTok** (enlaces directos; TikTok no deja leer vistas ni
+fecha desde aquí ⚠️):
+
+| Qué | Enlace | Qué es |
+|---|---|---|
+| El sonido de la papa | [TikTok, sonido](https://www.tiktok.com/music/Death-note-light-potato-chips-7140838365938633518) | La frase de Light usada de fondo en muchos vídeos ✅ |
+| Vídeo con ese sonido | [@baixy__](https://www.tiktok.com/@baixy__/video/7569787627541482774) | «Potato Chips and Death Note» ✅ |
+| *Keikaku doori* fuera de contexto | [@vegansocietynz](https://www.tiktok.com/@vegansocietynz/video/7115303261917252865), [@micahllection](https://www.tiktok.com/@micahllection/video/7308189862421663006) | La cara del ep. 24 para humor ✅ |
+| El origen del meme | [Know Your Meme: Just According to Keikaku](https://knowyourmeme.com/memes/just-as-planned) | Nace de una **nota de traducción de un fansub** del ep. 24 que explicaba que «keikaku» es «plan»: la nota se hizo tan famosa como la frase ✅ |
+
+**Análisis de YouTube de la tabla de arriba**: siguen sin minuto
+(YouTube no deja abrirlos desde aquí; Dailymotion sólo tiene clips de
+la película de 2017) ⚠️.
 
 ---
 

@@ -401,8 +401,70 @@ en el mismo episodio 1×03, no hizo falta bajar más para ellos.
   y en 1×07 (mural de los Firelights, min 11:00-13:30): la primera es tensión
   de atraco, no alegría; la segunda es nostalgia con lágrimas, no alegría
   limpia. No encontré vergüenza de Vi en lo que miré.
-- Los `.mp4` (7 episodios, ~1.7 GB en total) quedan en
-  `/tmp/claude-0/trabajo/17-arcane-voz/e01.mp4` … `e09.mp4` — fuera del
-  repositorio, listos para quien los necesite sin volver a bajarlos.
+- Los `.mp4` (7 episodios, ~1.7 GB en total) quedaron en
+  `/tmp/claude-0/trabajo/17-arcane-voz/e01.mp4` … `e09.mp4` de la tanda
+  pasada — pero el contenedor se reinició entre tandas y esa carpeta ya no
+  existía al empezar esta.
 
-Sigue: punto 13, alegría y vergüenza de Vi, y alegría de Jinx (adulta) —ver fila «Vi» y «Jinx (adulta)» de la tabla de emociones—; probar en 1×09 (Jinx con las armas nuevas, «Get Jinxed») para la alegría de Jinx, y en 1×01 (tras el heist fallido, Vander regañando) o 1×08 (con Caitlyn) para Vi.
+**Relanzo, sesión 2026-09-26 (tercera vez, cierre del punto 13).** El
+contenedor había perdido todos los `.mp4` de tandas anteriores: empecé
+comprobando `/tmp/claude-0/.../scratchpad/` y estaba vacío. Antes de bajar
+nada, usé la API de Arcane Wiki para no repetir el error de la tanda pasada
+(confundir a Sevika con Jinx):
+- **Español/inglés (wikitext, no buscador)**: `arcane.fandom.com/api.php` de
+  «Vi» — busqué `dress`, `laugh`, `blush`, `shame`, `embarrass`, etc. Sólo
+  `laugh` dio algo real: Vi «se ríe sorprendida» al ver a Caitlyn coqueteando
+  en el burdel de Babette (1×05, Act 2) — lo confirmé mirando el vídeo, pero
+  acabé usando una escena mejor (ver abajo). Nada de «vergüenza» ni «shame»
+  en el texto: la wiki resume la trama, no describe caras, así que para el
+  punto 13 hay que **mirar**, no solo leer.
+- **Wikipedia** (`en.wikipedia.org/w/api.php`) dio «too many requests» al
+  primer intento (rate-limit del bot) — no insistí, usé la wiki de Fandom en
+  su lugar (`Template:EpisodesS1`, `Template:EpisodesS2` dieron la lista
+  oficial de títulos y sinopsis de cada episodio de las dos temporadas).
+- **Aviso de wiki con datos cruzados**: la página de Fandom «The Monster You
+  Created» (ficha 1×09) tiene la infobox correcta (T1, ep. 9) pero su sección
+  «Plot» describe escenas de la **Temporada 2** (Ambessa, Noxus, las cenizas
+  de Sky, el hexcore) — parece una edición de fans mal pegada. No usé ese
+  texto para nada; lo señalo por si alguien más la consulta.
+- **Descargas** (curl directo, mismo método que la tanda pasada) a
+  `archive.org/details/arcane-season-1-60fps`: **1×05** «Everybody Wants to
+  Be My Enemy» y **1×08** «Oil and Water» (243 MB cada uno) y **1×09** «The
+  Monster You Created» (246 MB, para descartar del todo el error de Sevika).
+  Para Jinx hizo falta la **Temporada 2**: encontré el ítem
+  `archive.org/details/arcane-season-2-60fps` (metadatos por
+  `archive.org/metadata/<id>`, con nombres de archivo simples `ep 1.mp4` …
+  `ep 9.mp4`) y bajé **`ep 4.mp4`** (2×04 «Paint the Town Blue», 1,3 GB, la
+  única en 1080p+ de esta serie de subidas — tardó **5 min 41 s**, mucho más
+  que las de T1, así que la mandé en segundo plano con `run_in_background` y
+  seguí trabajando mientras bajaba).
+- **Vi, alegría y vergüenza** (1×08 «Oil and Water»): hojas de contacto cada
+  45 s y luego cada 3-5 s sobre el tramo 13:00-15:00 (ya sabía por
+  `biblia.md` que esa escena existía; la wiki no la describe con detalle).
+  Es la escena de Vi y Caitlyn pasando la noche juntas: **13:40**, Vi
+  bocabajo en la cama de sábanas verdes de la mansión Kiramman, cara
+  escondida contra su brazo vendado (vergüenza/fuera de lugar, el contraste
+  Zaun-Piltóver); **14:16**, la misma escena momentos después, Vi de espaldas
+  riendo con la boca abierta (alegría limpia, no una sonrisa a medias). Antes
+  de encontrar ésta probé la escena del burdel (1×05, min 22:59: sonrisa
+  irónica de Vi al ver a Caitlyn) — la dejo mencionada por si sirve de
+  refuerzo, pero la de 1×08 es una alegría más clara y ya cubre también la
+  vergüenza en la misma escena, así que no hizo falta usar las dos.
+- **Jinx adulta, alegría** (2×04 «Paint the Town Blue»): hoja de contacto
+  cada 30 s de todo el episodio, luego cada 2-3 s en el tramo 5:55-7:50 (el
+  montaje «Jinxers» que `biblia.md` §18 ya cita de oídas). A los **6:10**,
+  Jinx le pone unas orejas de conejo a Isha en su escondite lleno de
+  guirnaldas y bolas de espejo: sonrisa traviesa, dientes a la vista, mirada
+  de lado — alegría real, no la risa maniaca de sus escenas de acción. Antes
+  de dar con ésta miré el tramo 0:00-1:30 (el montaje ilustrado en blanco y
+  negro con manchas azules, estilo libro de historia/cómic) pensando que ahí
+  estaría la cara de Jinx, pero es un estilo distinto (siluetas pintadas, sin
+  el modelo 3D habitual): no sirve para «fotograma propio» de su cara.
+- Los `.mp4` de esta tanda (`e05.mp4`, `e08.mp4`, `e09.mp4`, `s2e04.mp4`,
+  ~2 GB) quedan en `/tmp/claude-0/.../scratchpad/17-arcane-voz/`: es la
+  carpeta de trabajo de **esta sesión**; si el contenedor se reinicia antes
+  de que otro investigador los use, tocará bajarlos de nuevo (son públicos en
+  Internet Archive, enlaces arriba).
+
+Con esto quedan cubiertas las 5 emociones de Vi y de Jinx (adulta y niña)
+pedidas por el punto 13. No queda nada obligatorio pendiente de esta parte.
