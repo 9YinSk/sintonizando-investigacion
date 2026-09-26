@@ -467,10 +467,25 @@ sucio `#58615E`, no con un verde saturado.
 | Dónde | Qué es | Estado |
 |---|---|---|
 | **Logo «ARCANE»** | Rotulado **hecho a mano, a medida**: no existe como fuente | ✅ ([Made Good Designs](https://madegooddesigns.com/arcane-font/), [Font In Logo](https://www.fontinlogo.com/famous-fonts/arcane-font)) |
-| Imitación de fans del logo | **Arcane Nine**, de Chequered Ink | ✅ existe ([dafont](https://www.dafont.com/arcane-nine.font)); licencia y tildes ⚠️ (dafont no abría) |
-| Imitación de fans de los rótulos de la serie | **Piltover x Zaun Regular**, de arcanafoundry | ✅ existe ([DeviantArt](https://www.deviantart.com/arcanafoundry/art/Piltover-x-Zaun-Regular-Arcane-font-1129768780)); licencia ⚠️ |
-| Letras de *League of Legends* (el juego) | Beaufort (títulos) y Spiegel (texto), de Riot | ⚠️ de memoria; **no son libres** |
-| Runas Hextech | Glifos inventados, sin fuente oficial (ver el mapa R1) | ✅ se ven en R1; «fuente» ⚠️ |
+| Imitación de fans del logo | **Arcane Nine**, de Chequered Ink | ✅ «**100% Free**» en [dafont](https://www.dafont.com/arcane-nine.font); **segunda pasada**: bajé el `.otf` y fontTools dice que trae **á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü** ✅ |
+| Imitación de fans de los rótulos de la serie | **Piltover x Zaun Regular**, de arcanafoundry | ✅ existe ([DeviantArt](https://www.deviantart.com/arcanafoundry/art/Piltover-x-Zaun-Regular-Arcane-font-1129768780)). **Es de pago** (la ficha manda a comprarla en Shoptly): **no usarla** ✅ |
+| Letras de *League of Legends* (el juego) | **Beaufort for LoL** (títulos; la Beaufort de Nick Shinn, adaptada por Monotype para Riot) y **Spiegel** (texto; de Lucas de Groot) | ✅ [Fonts In Use](https://fontsinuse.com/uses/26935/league-of-legends-game-and-website) + [DesignYourWay](https://www.designyourway.net/blog/league-of-legends-font/). De pago y exclusivas: **no son libres** |
+| Cartelas de acto y de episodio | «Una serif refinada o un *display* elegante», rotulada a medida como el logo. Sin nombre | ⚠️ una fuente ([Made Good Designs](https://madegooddesigns.com/arcane-font/)) |
+| Subtítulos y créditos de Netflix | La letra de la plataforma (Netflix Sans), no una de Arcane | ⚠️ visto en fotogramas de créditos; no comprobado con fontTools |
+| Runas Hextech | Glifos inventados, sin fuente oficial (ver el mapa R1) | ✅ se ven en R1. **No hay fuente** oficial ni de fans (buscado en inglés y coreano) ⚠️ |
+
+**Una letra para cada uso** (resumen; detalle en 6.2):
+
+| Uso | Letra libre | Tildes, ñ, ¿ ¡ |
+|---|---|---|
+| Logo o título | Arcane Nine (imitación del logo) o Cinzel Decorative | ✅ las dos |
+| «Globo» normal (nota a lápiz, placa) | Architects Daughter · Cinzel en placas | ✅ |
+| Grito | Sedgwick Ave Display en mayúsculas, con espray | ✅ |
+| Pensamiento (la cabeza de Jinx) | Rock Salt, en tiza neón | ✅ |
+| Onomatopeya | Rubik Spray Paint (una palabra) | ✅ |
+| Cartel del mundo | Permanent Marker (Zaun) · Marcellus o Federo (Piltóver) | ✅ |
+| Interfaz de juego | Cinzel (títulos) + Barlow (texto), como Beaufort y Spiegel | ✅ |
+| Cartelas y créditos | Cardo o EB Garamond | ✅ |
 
 ### 6.2 Letras libres comprobadas por mí
 
@@ -488,10 +503,14 @@ con fontTools: todas traen **á é í ó ú ñ Ñ ¿ ¡ ü** ✅.
 | Notas rápidas de Viktor | Caveat | OFL | Más apretada, inclinada |
 | Firma o anotación elegante de Jayce | Homemade Apple | Apache | Cursiva; sólo firmas |
 | Garabato diminuto en márgenes | Reenie Beanie | OFL | Para «ruido» de fondo |
-| **Títulos de Piltóver** (placas, carteles) | **Cinzel** / Cinzel Decorative | OFL | Romana, solemne; la que más recuerda al logo |
+| **Títulos de Piltóver** (placas, carteles) | **Cinzel** / Cinzel Decorative | OFL | Romana, solemne; la que más recuerda al logo. Es también **el sustituto libre de Beaufort**, la de los títulos del juego ✅ ([DesignYourWay](https://www.designyourway.net/blog/league-of-legends-font/)) |
 | Rótulos Art Déco | Marcellus · Federo | OFL | Federo es muy Art Déco |
 | Documentos del Consejo | IM Fell English | OFL | Imprenta antigua |
 | Expediente de Caitlyn | Special Elite | Apache | Máquina de escribir |
+| **Texto de interfaz Hextech** (sustituto libre de Spiegel) | **Barlow** | OFL | Segunda pasada: fontTools, tildes, ñ, ¿ ¡ ✅ |
+| **Cartela de acto**, créditos largos | **Cardo** | OFL | *Serif* de libro antiguo. fontTools ✅ |
+| Subtítulo elegante | **Almendra Display** | OFL | *Display* fino con floritura. fontTools ✅ |
+| Texto corrido, créditos | **EB Garamond** | OFL | fontTools ✅ |
 | ⚠️ Evitar | Limelight | OFL | Su **¿** se parece a **¡** en mi prueba |
 | ⚠️ Evitar | Poiret One | OFL | El **¿** queda descolgado |
 
