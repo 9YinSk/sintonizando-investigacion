@@ -183,7 +183,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 > Haz la tanda S16 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/61-kung-fu-panda.md`, `encargos/62-intensamente-inside-out.md`, `encargos/63-las-guerreras-k-pop-kpop-demon-hunters.md`, `encargos/64-steven-universe.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [ ] 61-kung-fu-panda
-- [ ] 62-intensamente-inside-out
+- [x] 62-intensamente-inside-out
 - [x] 63-las-guerreras-k-pop-kpop-demon-hunters
 - [x] 64-steven-universe
 
