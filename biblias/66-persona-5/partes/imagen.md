@@ -149,6 +149,23 @@ buscando el texto de la wiki (no de memoria), con la ficha de cada evento.
 - Colaboración con **Sword Art Online: Integral Factor**: personaje de SAO (Eugeo) vestido como Skull/Ryuji para el evento cruzado · https://static.wikia.nocookie.net/megamitensei/images/c/c3/Eugeo_as_Skull_SAOIF.jpg · ⚠️ · 1024×1024
 - **Cosplay con licencia libre** (Openverse, ya en `datos-imagen.md`): Ann Takamaki en el Toronto Comicon 2018 (CC BY-SA 4.0, Wikimedia) y varias sesiones de Panther/Joker de esby.photo y greyloch (CC BY-NC-SA/ND) — buena tela con volumen real en la capa del abrigo de Joker, no licra plana. ✅
 - Modelos de merchandising oficial fotografiados en la Taipei Game Show 2017 (stands promocionales de Sega) · https://upload.wikimedia.org/wikipedia/commons/c/c3/Sega_promotional_models_and_Persona_5_title%2C_Taipei_Game_Show_20170123.jpg · ✅ (Wikimedia Commons, CC BY-SA 4.0) · 4000×3000
+- Render oficial de Joker en Super Smash Bros. Ultimate (el mismo que usa Nintendo en su web) · https://static.wikia.nocookie.net/megamitensei/images/2/25/SSBU_Joker_Render.png · ✅ · 5120×5120
+- Colaboración con **LastCloudia** (Aiming Inc., gacha móvil): render de Joker al estilo del juego · https://static.wikia.nocookie.net/megamitensei/images/e/e8/LastCloudia_Joker.jpg · ⚠️ (una imagen, sin más detalle del evento) · 1920×1920
+- Colaboración real con la cafetería **Marion Crepes** (Japón), cartel promocional con los Ladrones Fantasma · https://static.wikia.nocookie.net/megamitensei/images/a/a4/P5T_x_Marion_Crepes.jpg · ⚠️ · 2048×1462
+- Peluche oficial de Morgana con **Sanrio** · https://static.wikia.nocookie.net/megamitensei/images/e/ec/Sanrio_MorganaPlush.jpg · ⚠️ · 3648×2736
+- Figuras **Funko Pop** oficiales: Morgana · https://static.wikia.nocookie.net/megamitensei/images/a/a7/P5_Morgana_Pop_figure.jpeg · ✅ · 2000×2000 — Ann · https://static.wikia.nocookie.net/megamitensei/images/6/64/P5_Ann_Pop_Figure.jpeg · ✅ · 2000×2000 — Ryuji · https://static.wikia.nocookie.net/megamitensei/images/a/a8/P5_Ryuji_Sakamoto_pop_figure.jpeg · ✅ · 1920×1920
+
+## Hojas de contacto
+
+Regeneradas con `investigar_serie.py` (las de `datos-imagen.md` se habían
+borrado del disco compartido); 957 imágenes indexadas de las 4 páginas
+(`Ren Amamiya`, `Morgana`, `Ann Takamaki`, `Ryuji Sakamoto` + sus galerías),
+ordenadas de mayor a menor resolución. Elegidas las 3 primeras (las de más
+calidad) por variedad de contenido, miradas una a una:
+
+- `hojas/personajes_01.jpg` — concept art y hojas de modelo de los 4 (uniforme, traje ladrón, P5R), el render oficial de Joker en Super Smash Bros. Ultimate (#10), Leblanc y Mementos en concept art (#3-5), figuras Youtooz de Joker y Morgana (#43-44), All-Out Attack de Ryuji/Morgana/Ann (#30-32).
+- `hojas/escenas_02.jpg` — fotogramas/CG del anime dentro de Leblanc («Precious Days», #54), cosplay de Joker en el Comic Expo (#82), merchandising oficial (peluche Sanrio de Morgana, #49), el crossover con Identity V confirmado con logo propio (#50), portadas del DVD y de Dancing in Starlight, y varios renders 3D del modelo de Joker con el uniforme/abrigo (#90-93, vistas de referencia para Blender).
+- `hojas/merchandising_03.jpg` — Funko Pop oficiales de Morgana, Ann y Ryuji (#101, #102, #112), el uniforme de Shujin de Joker en limpio (#103), el crossover con el gacha LastCloudia (#109-112), las CG de evento de playa/onsen en yukata de Persona 5 Royal (#121-127, poses de grupo vivas), y la colaboración real con la cafetería Marion Crepes (#141).
 
 ## Lo mejor para la lámina
 

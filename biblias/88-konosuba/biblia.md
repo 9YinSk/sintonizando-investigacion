@@ -341,3 +341,69 @@ Las voces japonesas salen también en los créditos del [tráiler de la T3](http
 
 «Qué gustos tan peculiares» y «Podrás tener mi cuerpo…» van casi seguro con Darkness. «SAPOtamadre» es el gag de Aqua y los sapos. **Hay que oírlos con una IP latinoamericana** para sacar el minuto de cada frase.
 
+## 9 · Música y sonido
+
+**Openings: los tres los canta Machico** ✅ (wiki de Fandom y Wikipedia):
+
+- T1: **«fantastic dreamer»**, 4:04, 27-ene-2016 ([ficha](https://konosuba.fandom.com/api.php?action=parse&format=json&page=Fantastic_dreamer&prop=wikitext)). Energía de aventura alegre.
+- T2: **«TOMORROW»**, 4:35, 1-feb-2017.
+- T3: **«Growing Up»**, 3:49, 10-abr-2024. Sale su cartela en el tráiler T3 (1:00) ✅✅.
+
+**Endings: los cantan las actrices de Aqua, Megumin y Darkness** (Sora Amamiya, Rie Takahashi y Ai Kayano). Es un rasgo de la serie: el grupo canta su propio cierre ✅:
+
+- T1: **«Chiisana Boukensha»** (ちいさな冒険者, «Pequeña aventurera»), 3:18.
+- T2: **«Ouchi ni Kaeritai»** (おうちに帰りたい, «Quiero volver a casa»), 3:20.
+- T3: **«Ano Hi no mama no Bokura»** (あの日のままのぼくら), 3:11 ([ficha](https://konosuba.fandom.com/api.php?action=parse&format=json&page=Ano_Hi_no_mama_no_Bokura&prop=wikitext); [Wikipedia](https://en.wikipedia.org/wiki/KonoSuba_season_3)).
+
+**Banda sonora: Masato Kōda** (甲田雅人), también compositor de videojuegos (*Ape Escape 3*, *Resident Evil Outbreak*) ✅✅✅ (Wikipedia, [MusicBrainz](https://musicbrainz.org/release-group/f184e4df-3edb-43c3-80da-b954bffdd64d) y Anime Corner). Discos: OST + Drama CD Vol. 1 «旅立つ我らに祝福を!» (23-mar-2016) y [Vol. 2](https://musicbrainz.org/release-group/822f53f7-3af0-4c3d-aef5-490a1a36e912).
+
+**Temas de los videojuegos** (también de Machico) ⚠️ (una fuente, la wiki): «STAND UP!» (*Labyrinth of Hope*, 2019), «Happy Magic» (*Fantastic Days*, 2020), «It's so fine!» (*Love for these Clothes of Desire!*, 2020) y «BLAST» (*Cursed Relic and the Perplexed Adventurers*, 18-mar-2026, también en la caja del 10.º aniversario).
+
+**Sonidos que todos reconocen:**
+
+- El grito **«¡Explosión!»** (「エクスプロージョン！」) de Megumin, dicho con acento inglés. Es LA frase de la serie. Se oye en el origen (3:08) y en la pelea final ✅.
+- El **conjuro largo y teatral** antes: «Darker than black, darker than darkness, combine with my intense crimson…». Los fans lo citan entero ✅.
+- **«¡Purificación!»** de Aqua repetido en bucle, gag del intento fallido (recopilación de Aqua, 1:04-1:28) ✅.
+- El desmayo de Megumin tras el hechizo: gag de sonido y de imagen ⚠️ (no analizado con audio).
+- Botón de «Waga na wa Megumin» en MyInstants ([Know Your Meme](https://knowyourmeme.com/memes/subcultures/konosuba)).
+
+**Qué suena en la escena más emotiva:** no se pudo oír (la escena final de la película está en YouTube, bloqueado) ⚠️.
+
+## 10 · Vídeos
+
+**Tráileres oficiales** (en Dailymotion; YouTube pide sesión desde el contenedor):
+
+1. Temporada 3, tráiler 2 · [x8tpkt4](https://www.dailymotion.com/video/x8tpkt4) · 2:13. Minuto 1:00: Megumin en pose. Minuto 1:40: cartela de reparto.
+2. Temporada 3, tráiler en español (Vidaextra) · [x8qwfj9](https://www.dailymotion.com/video/x8qwfj9?t=34) · 1:23. A los 0:34, Darkness presentada como «ドMのクルセイダー», la cruzada masoquista.
+3. Temporada 3, avance del episodio 2 · [x8wumaw](https://www.dailymotion.com/video/x8wumaw) · 1:06.
+4. Teaser de la OVA de la T3 · [x9awqtk](https://www.dailymotion.com/video/x9awqtk) · 0:30.
+5. Tráiler de la OVA (Espinof, 48 679 vistas, el más visto) · [x9avkfi](https://www.dailymotion.com/video/x9avkfi?t=5) · 0:30.
+6. Vídeo del 10.º aniversario (Espinof) · [xasu3fq](https://www.dailymotion.com/video/xasu3fq?t=165) · 5:24. Enseña qué escenas elige la prensa como icónicas.
+7. Tráiler de la T2 en alemán · [x9g3308](https://www.dailymotion.com/video/x9g3308) · 1:03.
+8. Tráiler oficial en YouTube (enlace de AniList): [NU87y-38glA](https://www.youtube.com/watch?v=NU87y-38glA) ⚠️ (no se pudo ver).
+
+**Escenas** (con minuto, ver punto 2): origen de la Explosión ([x8prbvb](https://www.dailymotion.com/video/x8prbvb?t=192), 3:12), pelea final de la T1 ([x4wslwi](https://www.dailymotion.com/video/x4wslwi)), Darkness y el gólem ([x5wd601](https://www.dailymotion.com/video/x5wd601)), recopilación de Aqua de 6:45 ([x9ta1ve](https://www.dailymotion.com/video/x9ta1ve?t=72)).
+
+**Tendencias.**
+
+- 2026 es el **10.º aniversario** del anime: vídeo de Espinof y la caja «10th Anniversary Song Box» ✅.
+- La pelea final de la T1 sigue resubiéndose diez años después ⚠️.
+- **TikTok**: hay tendencia del tráiler T3, con noticias y reacciones en español. Enlaces reales: [@animetrailernews](https://www.tiktok.com/@animetrailernews/video/7334783061088816426), [@momologacondoctorado](https://www.tiktok.com/@momologacondoctorado/video/7316604243539152133) (reacción en español, #parati) y la [página del hashtag](https://www.tiktok.com/discover/konosuba-season-3-trailer). TikTok no deja reproducirlos sin sesión: no se vieron vistas ni contenido ⚠️.
+
+**Episodios completos en Internet Archive** (para mirar a fondo): [T1 ep. 1 BD 1080p](https://archive.org/details/fff-kono-subarashii-sekai-ni-shukufuku-wo-01-bd-1080p-aac-f-657-c-000.-1080) (**ojo:** el archivo resultó ser otro vídeo mal etiquetado), T1 completa con doblaje ruso (imagen original, sirve) y T2 ep. 2 (punto 2).
+
+## 11 · Videojuegos
+
+Juegos con interfaz propia (wiki de Fandom, Steam y AniList) ✅:
+
+- ***Love For These Clothes Of Desire!*** (visual novel de gestión, MAGES./PQube; Japón 2019, Occidente 7-feb-2024, PS4, Switch y [Steam](https://store.steampowered.com/app/2349140)). Es el del **cuadro de pergamino** (punto 6). No tiene combate: es de gestión y simulación. Su HUD de recolección lleva contadores tipo «22/28».
+- ***Labyrinth of Hope and the Gathering Adventurers*** (RPG de mazmorras, Entergram, PS Vita y PS4, 27-jun-2019; «Plus» en 2020 también en Switch) · [ficha](https://konosuba.fandom.com/wiki/Konosuba:_Labyrinth_of_Hope_and_the_Gathering_Adventurers). Opening «STAND UP!», ending «Mata Ashita».
+- ***Fantastic Days*** (gacha para móvil, Sumzap, 27-feb-2020; PC en 2024). Personajes en SD. Cerró a finales de enero de 2025; versión sin conexión hasta enero de 2027 · [ficha](https://konosuba.fandom.com/wiki/Konosuba:_Fantastic_Days). Hizo cruces con *Re:Zero* y *DanMachi* dentro del juego (punto 23).
+- ***in the life*** (RPG Maker VX, regalo del primer Blu-ray, 25-mar-2016). Estilo JRPG de los 90 ⚠️ (una fuente, sin captura).
+- ***Cursed Relic and the Perplexed Adventurers*** (2026): sólo sé su opening, «BLAST» ⚠️.
+- *Isekai Quartet* **no es un juego**: es un anime de cruce. Lo anoto para no confundir.
+
+**Cruces en juegos de otros:** MapleStory, Knives Out y Unison League (punto 23).
+
+**No encontré** capturas del HUD de *Fantastic Days* ni de *Labyrinth of Hope* ⚠️ (juegos cerrados; los vídeos están en YouTube). Tampoco la letra exacta del cuadro de diálogo de Steam.
+
