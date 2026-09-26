@@ -68,3 +68,44 @@ El «opening» del juego es su cinemática de título.
 - **Choque de canal.** #reto-de-la-semana también lo proponen Naruto, Haikyuu, Steven Universe, God of War y Hellblade. No bloquea nada.
 - **Lo que nunca hay que hacer.** Joker sin guantes rojos. Morgana tratado como «sólo un gato». Ryuji tranquilo. Colores alegres de relleno. Una burbuja blanca redonda. Inventar una voz latina.
 
+## 1 · Arte oficial
+
+El diseñador de personajes es **Shigenori Soejima**. Su estilo: línea negra firme, rojo plano, fondos en blanco y negro.
+Las tres hojas de contacto de `hojas/` tienen **144 imágenes numeradas**, miradas una a una. El número (nº) remite a ellas.
+
+**Key visuals, carátulas y portadas**
+- Key visual del artbook *Official Design Works*: grupo completo con el logo de los ladrones detrás, 2522×1664 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/c/c0/Persona_5_Official_Design_Work_key_visual_by_Shigenori_Soejima.png)). ✅ Nº89.
+- Carátula del juego, 1920×2731 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/4/4c/PERSONA5_package_visual.png)). ✅ Nº77.
+- Carátula del DVD del anime *The Day Breakers*, 2992×4096 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/e/e1/PERSONA5_THE_ANIMATION_-_THE_DAY_BREAKERS_-_DVD_package_visual_by_Shigenori_Soejima.png)). ⚠️ Nº34.
+- Portada del manga, tomo 1: Joker de espaldas, 564×841 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/8/82/P5_Vol_1_Cover.jpg)). Son 16 tomos de Shogakukan ([Wikipedia](https://en.wikipedia.org/wiki/Persona_5_(manga))). ✅
+- Portada de AniList ([imagen](https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98652-sNAhH3bINN63.jpg)). ✅
+- *P5R Key Art* (nº41, 2880×4096) y key visual del 25.º aniversario de la saga (nº27). ✅ Vistos en la hoja.
+- Artbook completo en inglés, para consultar ([Internet Archive](https://archive.org/details/persona-5-official-artbook-english)). ✅
+
+**Hojas de modelo y concept art (poses limpias, ropa exacta)**
+- Ann en ropa de calle: cazadora negra con trébol, jersey con la «S» de Shujin, **mallas rojas**, botas marrones. 1938×1874 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/b/b6/AnnConcept.png)). ✅ Nº113.
+- Ann, primer boceto: antifaz rojo de gato, vestido negro. 1280×1822 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/4/46/Panther_Concept_Art.jpg)). ✅
+- Joker **quitándose la máscara**: abrigo largo negro, guante rojo, máscara blanca de pájaro en la mano. 4096×2880 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/1/1a/Phantom_Unmasked_Concept_Art_P5.png)). ✅ Nº40. Es la pose «viva» con su objeto.
+- Ryuji como Skull: chaqueta de cuero, pañuelo rojo, guantes amarillos, máscara de calavera, maza. 680×817 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/6/6f/P5_Ryuji_Sakomoto%2C_Phantom_Thief.png)). ⚠️
+- Uniforme de invierno de Shujin, chico. 1349×1685 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/1/19/Shujin_Male_Winter_Uniform.jpg)). ✅
+- Morgana: forma de gato (nº8), su transformación en autobús (nº11, 5872×4096), forma humana de *Royal* (nº12). ✅
+- Concept art de **Leblanc**, el café donde vive Joker, en maqueta abierta, 8192×5549 (nº3). ✅ Es el sitio más útil para una lámina.
+- Modelos de pie de Joker, Ann y Morgana de *Tactica* (nº6-9), y de *Royal* en ropa de calle (nº13-19). ✅
+
+**Splash arts de victoria (All-Out Attack)**
+- Joker, Morgana, Ann y Ryuji, 3840×3200 cada uno, fondo **rojo puro** (nº30-33). ✅
+- Ann guiñando el ojo con la lengua fuera ([imagen](https://static.wikia.nocookie.net/megamitensei/images/2/25/Ann_All_Out.png)). ✅
+- Morgana sonriendo con dientes ([imagen](https://static.wikia.nocookie.net/megamitensei/images/b/be/Morgana_All_Out.png)). ⚠️
+- Las «Finishing Touch» de Joker, Morgana, Ann y Ryuji (nº79-82, 3000×1680): cartela de cómic con rótulo propio. Ann: «OMG! We are so awesome». ✅
+
+**Ilustraciones de celebración (poses en grupo y con objetos)**
+- Joker y Morgana para los PlayStation Awards 2016, 3088×4096 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/8/8b/Illustration_of_the_Protagonist_and_Morgana_for_Playstation_Awards_2016.png)). ⚠️ Nº28.
+- «祝! Persona5 発売!!» con Joker, Ryuji, Ann y Morgana (nº24). Ryuji con los dedos en V. ✅
+- Celebración de 550 000 copias ([imagen](https://static.wikia.nocookie.net/megamitensei/images/0/0f/P5_Illustration_of_the_Protagonist_for_celebration_of_550%2C00_copies_shipped_by_Shigenori_Soejima.jpg)), de 2 millones (nº45) y del 10.º aniversario (nº139). ⚠️
+- Joker con **saxofón y traje rojo**, *Ren Big Band* (nº39, 2909×4096). ⚠️ Sin ficha de dónde salió.
+- Navidad con Morgana (nº25), Año Nuevo 2017 (nº42), lanzamiento en América y Europa con Ann y Morgana (nº37). ✅
+- Ilustraciones de artistas invitados por aniversario: Namori, Yoko Nihonbashi, Rokuro Saito, Teita ([categoría de la wiki](https://megamitensei.fandom.com/wiki/Category:Persona_5_Artwork_Images)). ⚠️
+
+**Cartones de cuenta atrás** (uno por personaje, de Atlus Japón antes del lanzamiento)
+- Joker, 800×566 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/e/e0/MMCountdownRen.png)). ⚠️ Hay de Akechi, Ryuji, Ann, Makoto, Yusuke, Futaba y Haru en la misma categoría; sólo dos comprobados.
+

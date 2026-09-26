@@ -144,5 +144,4 @@ ahora lleva el lote H.)
 | 123 | redactor | Opus | 14 | 263 mil |
 | 124 | equipo completo | Sonnet + Opus | — | — |
 | 125 | redactor | Opus | 15 | 242 mil |
-| 126 | redactor | Opus | — | — |
-| 126 | (minutos y tokens) | Opus | 15 | 270 k |
+| 126 | redactor | Opus | 15 | 270 k |
