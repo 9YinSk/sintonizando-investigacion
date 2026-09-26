@@ -180,4 +180,10 @@ gracias a eso no repetí ese trabajo.)
 Herramientas ya estaban instaladas (verificado). guardar.sh y el enlace de sesión de subir.sh/guardar.sh
 al día. Retomo la cadena: 86 Saga of Tanya the Evil sin `Sigue:` obligatorio → redactor. 87 Tsukimichi
 (imagen+texto listos, faltan vídeo+voz) → investigadores. 88-95 con datos recolectados, listas para
-investigadores. 96 Bubble sin recolectar.
+investigadores. 96 Bubble recolectado a mano (tipo película para --solo, y --tipo anime aparte para
+que AniList entrara).
+
+**Aviso técnico:** AnimeThemes no está caído de verdad — responde 403 sin User-Agent de navegador,
+no 522. El investigador de vídeo de 87 lo consiguió pasando un User-Agent normal. Vale la pena que
+los próximos investigadores de vídeo lo intenten así antes de darlo por muerto.
+| 87-tsukimichi-moonlit-fantasy | video | sonnet | 17 | 219627 |
