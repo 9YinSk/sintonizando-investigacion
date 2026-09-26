@@ -1,0 +1,875 @@
+[
+ {
+  "url": "https://w.wallhaven.cc/full/8o/wallhaven-8oy372.jpg",
+  "fuente": "Wallhaven (https://wallhaven.cc/w/8oy372)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla de fans: cielo estrellado nocturno sobre el pueblo de Itomori",
+  "para_que": "paleta de noche medida (#283B50, #4C6C92, #19232A) para la 'luz de Shinkai'",
+  "licencia": "fan art, sin autor declarado en Wallhaven; sólo como referencia de estilo, nunca para pegar"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/3b/Your_Name.jpg/revision/latest?cb=20240213023736&path-prefix=es",
+  "fuente": "Doblaje Wiki (https://doblaje.fandom.com/es/wiki/Your_Name)",
+  "ancho": 2000,
+  "alto": 3000,
+  "que_es": "Póster oficial de la edición latina (mismo key visual del cometa, con logo y créditos en español)",
+  "para_que": "referencia de tipografía del logo latino y arte oficial en alta resolución",
+  "licencia": "cortesía promocional de distribución latina; sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/5/5d/Mitsuha_Miyamizu_2013.png/revision/latest?cb=20181114193828",
+  "fuente": "Fandom kiminonawa.fandom.com (wiki, página Mitsuha Miyamizu)",
+  "ancho": 2640,
+  "alto": 2160,
+  "que_es": "Retrato de Mitsuha con luz de día neutra, cordón kumihimo rojo visible con claridad",
+  "para_que": "medir el hex real del cordón kumihimo (#A55849, rojo terracota apagado)",
+  "licencia": "material de producción/wiki de fans; sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/d/de/Itomori_High_MaleUni.png/revision/latest?cb=20260207105001",
+  "fuente": "Fandom kiminonawa.fandom.com (wiki de la serie, API imageinfo)",
+  "ancho": 1432,
+  "alto": 2160,
+  "que_es": "Hoja de modelo oficial del uniforme masculino de Itomori High (frente y espalda), el vestuario icónico de Taki",
+  "para_que": "vestuario icónico, colores medidos (azul acero #40728B, corbata #8CA39B)",
+  "licencia": "material de producción/wiki de fans; sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/4/4f/Itomori_High_FemaleUni.png/revision/latest?cb=20260207105027",
+  "fuente": "Fandom kiminonawa.fandom.com",
+  "ancho": 1150,
+  "alto": 1990,
+  "que_es": "Hoja de modelo oficial del uniforme femenino de Itomori High, el vestuario icónico de Mitsuha",
+  "para_que": "vestuario icónico, mismo azul acero #40728B confirmado en las dos hojas",
+  "licencia": "material de producción/wiki de fans; sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/2/2a/Mitsuha_and_Taki_-_Kataware_Doki.png/revision/latest?cb=20240307211813",
+  "fuente": "Fandom kiminonawa.fandom.com",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma de la escena de Kataware-doki (atardecer, la escena más citada por el fandom)",
+  "para_que": "referencia de pose y luz para escena emotiva de lámina",
+  "licencia": "fotograma de la película; sólo como referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2646/ccd0c12e610fb75a070eb0391296fd19e6973414.jpg",
+  "fuente": "Safebooru (ya listado en datos-imagen.md, origen Pixiv 63465513)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de Taki y Mitsuha juntos, el más votado con ambas etiquetas",
+  "para_que": "referencia de estilo de color de fans (nunca para pegar)",
+  "licencia": "derechos del autor de Pixiv; sólo como referencia, no redistribuible"
+ },
+ {
+  "url": "https://ambientcg.com/get?file=Paper001_1K-JPG.zip",
+  "fuente": "ambientCG (API full_json, type=Material)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura de papel realista",
+  "para_que": "textura de las notas/cuaderno que se escriben Taki y Mitsuha",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/get?file=Wood051_1K-JPG.zip",
+  "fuente": "ambientCG (API full_json, type=Material)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura de madera realista",
+  "para_que": "interiores de Itomori/casa de Taki en Tokio",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/9/98/Miyamizu_Headdress.jpg/revision/latest?cb=20260115122926",
+  "fuente": "Fandom kiminonawa.fandom.com",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma del tocado ceremonial de las sacerdotisas Miyamizu",
+  "para_que": "vestuario ceremonial, detalle de tocado",
+  "licencia": "fotograma de la película; sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/2/29/Miyamizu_Gohei.jpg/revision/latest?cb=20260115122926",
+  "fuente": "Fandom kiminonawa.fandom.com",
+  "ancho": 1280,
+  "alto": 697,
+  "que_es": "Fotograma del ritual sintoísta familiar: kimono blanco de miko (hakui) y gohei ceremonial de papel",
+  "para_que": "vestuario ceremonial de las sacerdotisas Miyamizu",
+  "licencia": "fotograma de la película; sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/0/0f/Mitsuha_comet.png/revision/latest?cb=20181117142036",
+  "fuente": "Fandom kiminonawa.fandom.com",
+  "ancho": 1279,
+  "alto": 687,
+  "que_es": "Fotograma de Mitsuha mirando el cometa Tiamat",
+  "para_que": "referencia de pose de personaje mirando el cielo/cometa",
+  "licencia": "fotograma de la película; sólo como referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21519-1ayMXgNlmByb.jpg",
+  "fuente": "AniList (id 21519)",
+  "ancho": 1900,
+  "alto": 400,
+  "que_es": "Recorte panorámico del mismo key visual del cometa",
+  "para_que": "paleta de atardecer (crema-rosado-violeta) para fondos de lámina",
+  "licencia": "cortesía promocional del estudio, vía AniList; sólo como referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/5795/31429921955_847ef8c692_b.jpg",
+  "fuente": "Openverse / Flickr",
+  "ancho": 727,
+  "alto": 1024,
+  "que_es": "Foto de arte de fans de Kimi no Na wa expuesto en una convención",
+  "para_que": "referencia de cómo se expone el fan art de la serie en eventos",
+  "licencia": "CC BY-NC-ND"
+ },
+ {
+  "url": "https://archive.org/download/kimi-no-na-wa-op-1/KimiNoNaWa-OP1.mp4?t=30",
+  "fuente": "Internet Archive (secuencia de apertura del filme)",
+  "ancho": 854,
+  "alto": 480,
+  "que_es": "Fotograma de la secuencia de apertura Yume Tourou, minuto 0:30: el cometa Tiamat cruzando un cielo nocturno violeta entre estrellas",
+  "para_que": "Referencia de cielo nocturno y paleta violeta-lavanda medida (#F9F0F8, #7A7497, #59597E)",
+  "licencia": "Material oficial del filme (CoMix Wave Films), uso como referencia de investigación"
+ },
+ {
+  "url": "https://archive.org/details/kimi-no-na-wa-op-1",
+  "fuente": "Internet Archive",
+  "ancho": 854,
+  "alto": 480,
+  "que_es": "Secuencia de apertura del filme \"Yume Tourou\" completa (1:46)",
+  "para_que": "Fuente del plano del cometa y del montaje inicial ciudad/campo; visto entero con fotogramas.py",
+  "licencia": "Material oficial del filme (CoMix Wave Films)"
+ },
+ {
+  "url": "https://archive.org/details/sparkle_201703",
+  "fuente": "Internet Archive",
+  "ancho": 854,
+  "alto": 480,
+  "que_es": "Vídeo musical largo de \"Sparkle\" (前前前世/Zenzenzense) con escenas del filme, incluye tomas cortadas del montaje final (6:46)",
+  "para_que": "Tema más reconocible de la película; fuente de poses de vida cotidiana en Itomori y Tokio y de la escena de escaleras en su segunda versión",
+  "licencia": "Material oficial promocional (RADWIMPS / CoMix Wave Films)"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-SUo3ZQuCbYhJ.png",
+  "fuente": "AniList (id 21519, el correcto — no el 97962 de datos-imagen.md, que es un especial de Suntory)",
+  "ancho": 460,
+  "alto": 690,
+  "que_es": "Portada oficial (key visual): Mitsuha y Taki de espaldas viendo el cometa Tiamat partirse sobre Tokio al atardecer",
+  "para_que": "arte oficial principal, referencia de composición y paleta de cielo",
+  "licencia": "cortesía promocional del estudio, vía AniList; sólo como referencia, no para redistribuir"
+ },
+ {
+  "url": "https://archive.org/download/YourNameKimiNoNaWaTrailer/Your%20Name%20%28%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%20_%20Kimi%20no%20Na%20wa%29_%20trailer.mp4?t=80",
+  "fuente": "Internet Archive (tráiler oficial internacional)",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Fotograma del tráiler, minuto 1:20: Taki y Mitsuha frente a frente en una escalinata al atardecer, luz dorada-rosada",
+  "para_que": "Imagen-firma de la película: pose de reencuentro/anhelo, paleta de luz de Shinkai medida (#F7F7EC, #9B7570, #912323)",
+  "licencia": "Material promocional oficial (Toho/CoMix Wave), uso como referencia de investigación"
+ },
+ {
+  "url": "https://archive.org/download/YourNameKimiNoNaWaTrailer/Your%20Name%20%28%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%20_%20Kimi%20no%20Na%20wa%29_%20trailer.mp4?t=68",
+  "fuente": "Internet Archive (tráiler oficial internacional)",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Fotograma del tráiler, minuto 1:08: paisaje verde de montaña y lago cráter de Itomori",
+  "para_que": "Referencia de fondo rural y paleta verde apagada medida (#40594D, #334C47, #294140)",
+  "licencia": "Material promocional oficial (Toho/CoMix Wave), uso como referencia de investigación"
+ },
+ {
+  "url": "https://archive.org/download/YourNameKimiNoNaWaTrailer/Your%20Name%20%28%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%20_%20Kimi%20no%20Na%20wa%29_%20trailer.mp4?t=60",
+  "fuente": "Internet Archive (tráiler oficial internacional)",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Fotograma del tráiler, minuto 1:00: interior cálido (cafetería/casa) con luz dorada de atardecer",
+  "para_que": "Referencia de interior y paleta cálida medida (#8B6648, #40433F, #F2E9DD)",
+  "licencia": "Material promocional oficial (Toho/CoMix Wave), uso como referencia de investigación"
+ },
+ {
+  "url": "https://archive.org/details/YourNameKimiNoNaWaTrailer",
+  "fuente": "Internet Archive",
+  "ancho": 640,
+  "alto": 360,
+  "que_es": "Tráiler oficial internacional completo (1:25), subtítulos en inglés",
+  "para_que": "Fuente de escenas icónicas y poses; visto entero con fotogramas.py, minuto exacto de cada momento citado en video.md",
+  "licencia": "Material promocional oficial (Toho/CoMix Wave Films)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-c64d94871bc541a0a5b11d98b787b82e",
+  "fuente": "Sketchfab (API search)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de torii gate (puerta de santuario sintoísta), genérico",
+  "para_que": "referencia 3D descargable para el santuario de Itomori o Suga Shrine",
+  "licencia": "CC Attribution-NonCommercial-ShareAlike"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e12d2fa1b2b94928b8b87cb7787e2462",
+  "fuente": "Sketchfab (API search)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de torii gate, estilo asset de videojuego",
+  "para_que": "alternativa 3D descargable para el santuario",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-cb74e1c1c6a64e7491e4e94ddb9acbbc",
+  "fuente": "Sketchfab (API search)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Par de figuras guardianas (Zuishin) de museo, escaneo 3D",
+  "para_que": "decoración de santuario con licencia más permisiva",
+  "licencia": "CC0 Public Domain"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-6cbd6ce6354f44a4b6517e8176d8741b",
+  "fuente": "Sketchfab (API search)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de estación de tren estilo japonés (Nazo no eki)",
+  "para_que": "referencia 3D para las escenas de estación de Tokio (Yotsuya, Shinjuku)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-19a605237de941edbd9fe829ca0cfedf",
+  "fuente": "Sketchfab (API search)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D animado de torniquete de estación japonesa",
+  "para_que": "detalle de estación de tren para escenas urbanas",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "Clip Studio Assets",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Pack gratuito de tramas de manga (screentones) para Clip Studio Paint",
+  "para_que": "texturas 2D de trama para ilustración estilo manga",
+  "licencia": "gratuito con cuenta de Clip Studio (uso libre declarado por la plataforma)"
+ },
+ {
+  "url": "https://kiminonawa.fandom.com/wiki/Your_Name",
+  "fuente": "Kimi no Na wa Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página wikitext con el resumen completo de trama, producción y datos de personajes de la película",
+  "para_que": "Base de la historia por arcos y las reglas del mundo (punto 25); citas de producción (punto 18)",
+  "licencia": "Contenido de wiki de fans (CC BY-SA), texto de referencia, no imagen"
+ },
+ {
+  "url": "https://kiminonawa.fandom.com/wiki/Miyamizu_Shrine",
+  "fuente": "Kimi no Na wa Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Wikitext sobre el santuario Miyamizu: kuchikamizake, musubi, cometa Tiamat, incendio de Mayugoro, líneas de tiempo del desastre de Itomori",
+  "para_que": "Vocabulario propio y símbolos del mundo (punto 25)",
+  "licencia": "Contenido de wiki de fans (CC BY-SA), texto de referencia, no imagen"
+ },
+ {
+  "url": "https://remixfavoriteshowandgame.fandom.com/wiki/Great_Fire_of_Mayugoro",
+  "fuente": "Remix Favorite Show and Game Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Segunda wiki independiente que documenta el mismo incendio histórico del santuario",
+  "para_que": "Segunda fuente para confirmar (✅ dos fuentes) el dato del Gran Incendio de Mayugoro",
+  "licencia": "Contenido de wiki de fans (CC BY-SA), texto de referencia, no imagen"
+ },
+ {
+  "url": "https://kiminonawa.fandom.com/wiki/Your_Name_(Manga)",
+  "fuente": "Kimi no Na wa Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página sobre la adaptación a manga (Ranmaru Kotone, Kadokawa, 3 tomos)",
+  "para_que": "Verificar existencia y datos básicos de la adaptación a manga (punto 6, cuadros de diálogo)",
+  "licencia": "Contenido de wiki de fans (CC BY-SA), texto de referencia, no imagen"
+ },
+ {
+  "url": "https://www.bfi.org.uk/sight-and-sound/interviews/your-name-makoto-shinkai-interview",
+  "fuente": "BFI Sight & Sound (entrevista a Makoto Shinkai)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista directa a Shinkai sobre contraste de luz, atardecer neutro, realismo estilizado de Tokio y elección musical",
+  "para_que": "Citas primarias para el punto 18 (estilo y su replicación)",
+  "licencia": "Artículo periodístico, uso como cita/fuente de investigación, no reproducción de imagen"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/interview/2016-11-30/makoto-shinkai/.110150",
+  "fuente": "Anime News Network (entrevista a Makoto Shinkai, 2016)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista sobre el hilo rojo del destino/musubi, storyboards, easter egg de 'Garden of Words' y el vínculo cometa/terremoto de Tohoku 2011",
+  "para_que": "Fuente primaria para puntos 18 y 25 (símbolos del mundo y su origen real)",
+  "licencia": "Artículo periodístico, uso como cita/fuente de investigación"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/feature/2025-08-08/inside-the-studio-that-brought-your-name-to-life/.217914",
+  "fuente": "Anime News Network (reportaje de estudio, 2025)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Recorrido por CoMix Wave Films: departamentos de animación, color, fondos, CG 3D y fotografía, con citas de artistas concretos",
+  "para_que": "Fuente primaria de flujo de producción para el punto 18 (cómo replicar el estilo)",
+  "licencia": "Artículo periodístico, uso como cita/fuente de investigación"
+ },
+ {
+  "url": "https://fonts.google.com/noto/specimen/Noto+Serif+JP",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Noto Serif JP, verificada con fontTools para tildes, ñ, ¿ y ¡ (subset propio bajado vía API CSS2)",
+  "para_que": "Equivalente libre propuesto para el logo y rótulos (aproximación a A1 Mincho), punto 5",
+  "licencia": "Open Font License (OFL), uso libre"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Shippori+Mincho",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Shippori Mincho, verificada con fontTools para tildes, ñ, ¿ y ¡ (subset propio bajado vía API CSS2)",
+  "para_que": "Segunda opción de equivalente libre para el logo (aproximación a A1 Mincho), punto 5",
+  "licencia": "Open Font License (OFL), uso libre"
+ },
+ {
+  "url": "https://api.fontsource.org/v1/fonts?subsets=latin-ext",
+  "fuente": "Fontsource API",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Listado de variantes de Google Fonts disponibles con subset latin-ext (para tildes/ñ)",
+  "para_que": "Descubrir qué fuentes japonesas tienen soporte latino verificable, punto 5",
+  "licencia": "Datos públicos de API, uso de referencia"
+ },
+ {
+  "url": "https://archive.org/details/kiminonawasoundtrack",
+  "fuente": "Internet Archive",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Álbum de banda sonora oficial completo (RADWIMPS), 20 pistas en japonés",
+  "para_que": "Identificar el tema de cada escena (Yume Tourou, Zenzenzense/Sparkle, Kamigami, Kieta Machi) por nombre y duración exactos",
+  "licencia": "Álbum oficial, uso como referencia de investigación (no es imagen, no tiene ancho/alto)"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x588f0a",
+  "fuente": "Dailymotion",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tráiler oficial doblado al español de España (Selecta Visión)",
+  "para_que": "Referencia de marketing hispano del filme; mismo contenido visual que el tráiler internacional, no aporta planos nuevos",
+  "licencia": "Material promocional oficial de la distribuidora"
+ },
+ {
+  "url": "https://kiminonawa.fandom.com/wiki/Comet_Tiamat",
+  "fuente": "Kimi no Na wa. Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del Cometa Tiamat: descripción, periodo orbital y su papel en la trama",
+  "para_que": "Confirmar el nombre y datos del cometa citado en las escenas icónicas del punto 2",
+  "licencia": "CC-BY-SA (Fandom), texto, no imagen"
+ },
+ {
+  "url": "https://www.ticketsinjapan.com/media/suga-shrine-stairs/",
+  "fuente": "Tickets in Japan (guía turística)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Artículo sobre la escalinata real de Suga Shrine (Yotsuya, Shinjuku) que inspiró la escena del reencuentro",
+  "para_que": "Confirmar el lugar real detrás de la escena icónica de la escalinata, para el punto 16 (imagen)",
+  "licencia": "Artículo editorial, uso como referencia de investigación"
+ },
+ {
+  "url": "https://safebooru.org/images/2566/b326774b57e6f69bead70be6b2103576d44db236.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 9764,
+  "alto": 5485,
+  "que_es": "Fan art de konpaku_youmu (https://t.bilibili.com/1022684502637412354)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2428/458920a80171b1979493a23dca32160f9c0ec8a4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4777,
+  "alto": 3230,
+  "que_es": "Fan art de tachibana_taki (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=61773133)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/7c7e0e9dc2309b0833c68e11e72d782b90f71a1c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3037,
+  "alto": 4096,
+  "que_es": "Fan art de konpaku_youmu (https://twitter.com/tasotasoyan00/status/1817092557639229889)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3257/9eddb58f7eb172dae826696b11f4d50d3a18ce3c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2789,
+  "alto": 4096,
+  "que_es": "Fan art de admiral_(kancolle) (https://twitter.com/0yukiya0/status/1350428363605766145)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3612/c74e595974e40d6a449fa8fcff7803116a7d84a4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2894,
+  "alto": 3525,
+  "que_es": "Fan art de admiral_(kancolle) (https://twitter.com/0yukiya0/status/1472834625005559810)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1567/1d648ceffbf7daccbcf938df77a6ff2d1488f1e7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2537,
+  "alto": 4000,
+  "que_es": "Fan art de konpaku_youmu (https://twitter.com/MireHasu/status/1982016614280380466)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3741/6e332f74bb4060188130066b712df83129455b1d.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 3000,
+  "que_es": "Fan art de admiral_(kancolle) (https://i.pximg.net/img-original/img/2022/03/15/20/22/36/96935653_p1.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/311/59ee5d8870fef831d72bc99b41ec560e914c6d0e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1772,
+  "alto": 3840,
+  "que_es": "Fan art de shimakaze_(kancolle) (https://majinkz.moe/extras)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1053/ddc467d725c9e8459e389c29317dc79dea6a94d2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3275,
+  "alto": 1827,
+  "que_es": "Fan art de cirno (https://i.pximg.net/img-original/img/2025/10/03/11/49/14/135816452_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/5/5d/Mitsuha_Miyamizu_2013.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 2640,
+  "alto": 2160,
+  "que_es": "Mitsuha Miyamizu: Mitsuha Miyamizu 2013.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4483/70579267fda9d82371a8ac901cd7a47871b6d81b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2828,
+  "que_es": "Fan art de admiral_(kancolle) (https://twitter.com/SSo_CCute_CAT/status/1741807520279306695)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3175/53a8b2b82888da86cebb3d6c408715423207402e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3050,
+  "alto": 1617,
+  "que_es": "Fan art de tachibana_taki (https://i.pximg.net/img-original/img/2020/12/18/01/41/21/86363633_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3760/d947c69de3e95b2923120262178cf5983b3bd7a9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1648,
+  "alto": 2000,
+  "que_es": "Fan art de kaga_(kancolle) (https://twitter.com/automatic8/status/1500411060893134848)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Fan art de hatsune_miku (https://x.com/siro_itigo_o/status/1805557196505465262)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1282/dd43f028ac51cb117fe9d9e2c3e1205b311cc1f9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1403,
+  "alto": 1904,
+  "que_es": "Fan art de cirno (https://bsky.app/profile/did:plc:xowcw37b4j4vtaaw2gy4fjgm/post/3l6pd3noztq2t)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3331/e1fc12921605d3ed43b40c9bff2c0250d8425e1d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 2120,
+  "que_es": "Fan art de kaga_(kancolle) (https://twitter.com/laco_soregashi/status/1390287801455833095)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/7/76/Taki_and_Okudera_Date.jpg",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 2067,
+  "alto": 1163,
+  "que_es": "Taki Tachibana: Taki and Okudera Date.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/a/aa/Shinta%2C_Taki_and_Tsukasa.jpg",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 2067,
+  "alto": 1163,
+  "que_es": "Taki Tachibana: Shinta, Taki and Tsukasa.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2646/f3e16bb1389fe85c9d7a214e08052d2a3868d386.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1240,
+  "alto": 1753,
+  "que_es": "Fan art de miyamizu_mitsuha (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=59071113)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/f/f2/Mitsuha_screaming.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1935,
+  "alto": 1080,
+  "que_es": "Mitsuha Miyamizu: Mitsuha screaming.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1759/f79f0c1aced5c26bf06a7e4df6ca0a6a086b5ce9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1088,
+  "que_es": "Fan art de tachibana_taki (http://i1.pixiv.net/img-original/img/2016/09/30/23/11/27/59240220_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/d/d0/Z-Kai_3.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Taki Tachibana: Z-Kai 3.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/8/84/Z-Kai_1.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Taki Tachibana: Z-Kai 1.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/3/30/Writing.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Taki Tachibana: Writing.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/6/6d/Taki.jpg",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Taki Tachibana: Taki.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/c/c8/Taki%27s_room.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Taki Tachibana: Taki's room.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/6/6c/Taki%27s_room_in_2021.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Taki Tachibana: Taki's room in 2021.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/8/84/Taki_kun.jpg",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Taki Tachibana: Taki kun.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/2/2a/Mitsuha_and_Taki_-_Kataware_Doki.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Taki Tachibana: Mitsuha and Taki - Kataware Doki.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/4/4e/Z-Kai_2.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Mitsuha Miyamizu: Z-Kai 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/8/83/Taki_in_Mitsuha%27s_body.jpg",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Mitsuha Miyamizu: Taki in Mitsuha's body.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/d/d4/Taki_and_Mitsuha_staircase.jpg",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Mitsuha Miyamizu: Taki and Mitsuha staircase.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/3/32/Takao_Akizuki.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Mitsuha Miyamizu: Takao Akizuki.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/4/47/Smaller_pieces_hit.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Mitsuha Miyamizu: Smaller pieces hit.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kiminonawa/images/1/1a/Mitsuha_crying.png",
+  "fuente": "Fandom kiminonawa",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Mitsuha Miyamizu: Mitsuha crying.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2028/138c8262d73fdad5519b78b10d61e0881927692c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de tachibana_taki (http://i3.pixiv.net/img-original/img/2016/12/16/13/04/57/60397746_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4/430337f3cc5c8f67ba32c687bb632968470a0f77.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de konpaku_youmu (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 516,
+  "alto": 3642,
+  "que_es": "Fan art de hatsune_miku (http://img03.pixiv.net/img/matilda/990992.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2389/6e21537c05190e45ddad84ece8189cd685d6d8b8.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1215,
+  "alto": 1290,
+  "que_es": "Fan art de miyamizu_mitsuha (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=59645451)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2421/1345fa1f3c2025336a4f83964a76199902f34c60.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1680,
+  "alto": 932,
+  "que_es": "Fan art de tachibana_taki (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=68390516)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3987/58b510cac5b7a05d0f48b859169675f28902375f.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1032,
+  "alto": 1457,
+  "que_es": "Fan art de cirno (https://i.pximg.net/img-original/img/2022/10/09/19/17/30/101799016_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1395,
+  "que_es": "Fan art de hatsune_miku (http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4063/53954381d69006a75e26ce8a82f7a3e52348e6cf.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 922,
+  "alto": 1258,
+  "que_es": "Fan art de kaga_(kancolle) (https://i.pximg.net/img-original/img/2022/12/25/12/37/20/103895707_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3058/ac79404c68332a1828ebcec9aecc52d2b5126354.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 951,
+  "alto": 1200,
+  "que_es": "Fan art de kaga_(kancolle) (https://twitter.com/skchkko/status/1467504826569265153)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3791/5f513cb404064a326873221363ea6798859b4148.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1063,
+  "alto": 970,
+  "que_es": "Fan art de admiral_(kancolle) (https://i.pximg.net/img-original/img/2022/04/17/21/56/50/97697640_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de hatsune_miku (http://img11.pixiv.net/img/nekogamisama/1837016.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4090/da81dfe5d32fbaabef69ca7019aeda153e9b7903.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 794,
+  "alto": 1123,
+  "que_es": "Fan art de kaga_(kancolle) (https://twitter.com/kanyas31/status/1626930783117082627)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4253/feda9aedc1aa72aabb7acea0b63227a01d968de1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 1000,
+  "que_es": "Fan art de admiral_(kancolle) (https://i.pximg.net/img-original/img/2023/07/13/16/41/05/109876062_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4093/b1ca9c6bfceb92167188cf8488a6c29ce8f090b7.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 768,
+  "alto": 656,
+  "que_es": "Fan art de konpaku_youmu (https://twitter.com/kirai_s/status/1630533937343922176)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1130/2d1ff495df3d6a1866dfe958b2002d00045b067d.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 300,
+  "alto": 225,
+  "que_es": "Fan art de konpaku_youmu (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121514-MGI7JRluscpz.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mitsuha Miyamizu",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121516-kuPVJLNsH5uE.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Taki Tachibana",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97962-3rBcawJt63sG.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ }
+]
