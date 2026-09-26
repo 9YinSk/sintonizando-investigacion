@@ -40,6 +40,9 @@ fecha: 2026-09-25
 - **Corregido**: en `referencias.json`, el traje «Free» de Rumi decía
   «cazadora amarilla»; es la **sudadera lila con vaqueros** (hoja
   `personajes_01`, nº 6). Las demás correcciones de las partes, en §28.
+- **⚠️ antes → ahora**: 16 → 114, porque se escribieron 24 secciones
+  nuevas y cada dato de una sola fuente lleva su marca. La tabla queda
+  con 24 ✅, 13 ⚠️ y ningún ❌; lo pendiente, en §28.
 - **Mismas fuentes**: no se buscaron datos nuevos. Todo sale de las
   cuatro partes y de las tres hojas, que el redactor volvió a mirar. La
   API de la wiki sólo se usó para el enlace de esas 12 imágenes.

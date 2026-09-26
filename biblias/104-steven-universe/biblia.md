@@ -957,8 +957,8 @@ Canal y título confirmados con la API oEmbed de YouTube (la página completa da
   - **Garnet**, Sakura-Con 2016, con afro y visor bien hechos · camknows · CC BY-NC-SA 2.0 · 1024×683 · https://live.staticflickr.com/1536/25995790691_274aa59caf_b.jpg
   - **Lapis Lázuli** · greyloch · CC BY-NC-ND 2.0 · 683×1024 · https://live.staticflickr.com/1599/24783048900_1d8585d39a_b.jpg
   - **Amatista** · San Diego Shooter · CC BY-NC-ND 2.0 · 1024×676 · https://live.staticflickr.com/932/43599616701_6afdca5299_b.jpg
-  - **Perla** · Tekno Omega Photography · CC BY-NC-ND 2.0 · 597×1024 · https://live.staticflickr.com/8651/28277935443_e53ea413ab_b.jpg
-  - Figura mini de Funko · Sergey Galyonkin · CC BY-SA 2.0 · https://live.staticflickr.com/4279/34589194024_b908708a78_b.jpg
+  - **Perla** · Tekno Omega Photography · CC BY-NC-ND 2.0 · 597×1024 · https://live.staticflickr.com/8651/28277935443_e53ea413ab_b.jpg · ⚠️ sólo del recolector
+  - Figura mini de Funko · Sergey Galyonkin · CC BY-SA 2.0 · https://live.staticflickr.com/4279/34589194024_b908708a78_b.jpg · ⚠️ sólo del recolector
 - **Premio Peabody 2019** (punto 21).
 - ⚠️ **No hubo** colaboración con Fortnite, juegos gacha ni cafés temáticos oficiales: se buscó en español e inglés sin resultado.
 
@@ -969,7 +969,7 @@ Canal y título confirmados con la API oEmbed de YouTube (la página completa da
 - ***Neon Genesis Evangelion***: **Alexandrite** (la fusión de las tres) se mueve como la Unidad-01 en «Fusion Cuisine» y «Super Watermelon Island»; la felicitación de «The Test» calca el final «Congratulations». Pesa más en *Future*, sobre el trauma de Steven.
 - ***Gurren Lagann***: Garnet y Peridot se ponen gafas nuevas al estilo de Kamina; Spinel usa un taladro gigante; «Be the Steven you want to see in the world» recuerda a «Believe in the me that believes in you».
 - ***Capitán Harlock***: Lars como pirata espacial (cicatriz, abrigo, nave). Es justo el protagonista de la secuela *Lars of the Stars* (punto 10).
-- Guiños sueltos: *Initial D* («Beach City Drift», hoja n.º 145), *Nicky, la aprendiz de bruja* («Kiki's Pizza Delivery Service»), *Akira* (Connie derrapando sobre el León en la película) y el relato de Junji Ito «El enigma de la falla Amigara».
+- Guiños sueltos: *Initial D* («Beach City Drift», hoja n.º 145), *Kiki's Delivery Service* («Kiki's Pizza Delivery Service»), *Akira* (Connie derrapando sobre el León en la película) y el relato de Junji Ito «El enigma de la falla Amigara».
 - ***Sailor Moon***: un tomo en el cajón de Steven en «House Guest», ecos en el vestido de Rose · ✅
 - ***Hora de Aventura***: Rebecca Sugar fue guionista y *storyboarder* allí (nominada al Emmy y al Annie) hasta que aprobaron su serie en 2013 · [Wikipedia](https://en.wikipedia.org/wiki/Steven_Universe) · ✅
 
@@ -981,3 +981,66 @@ Canal y título confirmados con la API oEmbed de YouTube (la página completa da
 - **38 · Sailor Moon**: si usa una pose de transformación mágica, no repetirla aquí · ⚠️
 - **63 · Las guerreras K-pop**: grupo que canta y pelea a la vez; no repetir «la canción como arma». Además propone el mismo canal (#demos-canto) · ⚠️
 - No hay biblias de *She-Ra* ni *Gravity Falls* · ✅
+
+## Punto 25 · El mundo, la historia, las fusiones y sus símbolos
+
+**Las reglas del mundo en cinco líneas** ([Gems](https://steven-universe.fandom.com/wiki/Gems)) · ✅
+1. Las Gemas **nacen adultas** de máquinas Inyectoras en los **Kindergartens**. No tienen niñez.
+2. **Homeworld** es un sistema de castas por tipo de piedra, gobernado por las **Diamantes**. Allí fusionarse con otra clase está mal visto, salvo para pelear.
+3. Hace **5750 años**, **Rose Cuarzo** encabezó una rebelión en la Tierra. Al irse, Homeworld lanzó una luz que **corrompió** a casi todas las Gemas que quedaban: los monstruos.
+4. **Fusionarse** es, para las Gemas de Cristal, **un vínculo**. En Homeworld, sólo táctica entre iguales.
+5. Las Gemas **no tienen género binario**; se usa «ella» por convención (Rebecca Sugar, AMA de Reddit de 2014; también en [Wikipedia](https://en.wikipedia.org/wiki/Steven_Universe)) · ✅ dos fuentes.
+
+**Las fusiones, una por una** (foco del encargo) · ✅ salvo donde se dice
+| Fusión | De quién | Qué la distingue | Dónde verla |
+|---|---|---|---|
+| **Garnet** | Rubí + Zafiro | fusión permanente; **tres ojos**, visor, dos gemas (cuadrada y triangular); se revela cantando «Stronger Than You» | `STY` 0:16-0:48 · hoja n.º 44, 255-256 |
+| **Opal** | Amatista + Perla | ⚠️ sin escena mirada | — |
+| **Sardonyx** | Garnet + Perla | alta y esbelta, **sombrero de copa**, destellos, mazo; showman | `KYF` 1:10-2:34 |
+| **Sugilite** | Garnet + Amatista | enorme y bruta; en latino se dejó «Sugilite» | `COA` 1:15-1:30 |
+| **Alexandrite** | las tres Gemas de Cristal | se mueve como la Unidad-01 de *Evangelion* (punto 24) | ⚠️ sin escena mirada |
+| **Obsidian** | las cuatro y Steven | la fusión más grande del grupo | ⚠️ sin escena mirada |
+| **Cuarzo Ahumado** | Steven + Amatista | voz latina: Mariangny Álvarez | hoja n.º 263 |
+| **Stevonnie** | Steven + Connie (el nombre lo dice) | ⚠️ sin ficha en las partes | hoja n.º 254 |
+
+- **Cada fusión tiene gema y arma propias** ✅.
+- **Cómo nace una fusión en pantalla:** las dos **se toman de la mano** (Rubí y Zafiro, `STY` 0:16) o bailan y giran (Perla sola en el cielo, `KYF` 0:42-0:56); luego **se forma la cara nueva** (`STY` 0:32, `KYF` 0:14).
+- **Qué significa:** dos se juntan y hacen **algo más grande que la suma de sus partes** (Garnet, en el doblaje, punto 8). Por eso encaja con cualquier sala de colaboración.
+- **El color de la fusión:** un acento fuerte, rojo o magenta, que no está en el resto del plano (punto 4).
+
+**Gem Glyph, la escritura del mundo** ([ficha](https://steven-universe.fandom.com/wiki/Gem_Glyph)) · ✅
+- **Logográfica**, no un simple cifrado del inglés. La creó el *storyboarder* **Steven Sugar**, hermano de la creadora.
+- Está en las columnas de las arenas antiguas, en la Fragua, en el zoo de Diamante Rosa, en las pancartas de Little Homeworld y en el libro que lee Blanco Diamante en la película. Fotograma con carteles: https://static.wikia.nocookie.net/steven-universe/images/6/6a/Little_Homeschool_259.png (1920×1080).
+- Rebecca Sugar: «A line is placed above, below, or next to a diamond shape to indicate which Diamond is being referred». Con leer la pared se sabe de qué Diamante era un Kindergarten.
+- Sólo en *Unleash the Light* funciona como letra, una por letra inglesa (punto 11).
+- ⚠️ Algunos glifos recuerdan al chino (中, 門, 日, 目) y al glagolítico; el estudio nunca lo confirmó.
+
+**Emblemas y símbolos**
+- **La estrella de cinco puntas**: casi toda la ropa y las armas de las Gemas de Cristal la llevan (la camiseta de Steven, el primer traje de Perla, los recortes de Amatista, los visores de Garnet, el vestido de Rose, los tatuajes de Bismuto) · [Gem Symbols](https://steven-universe.fandom.com/wiki/Gem_Symbols) · ✅
+- **La estrella de cinco gemas de la Puerta del Templo** (rosa, crema, morada, roja y azul): el emblema real del grupo. También es el fondo del menú de equipo de *Unleash the Light* · [Crystal Temple](https://steven-universe.fandom.com/wiki/Crystal_Temple) · ✅ · hoja n.º 17, 19, 20.
+- **El logo de las Diamantes**: un rombo dividido en cuatro (Blanca arriba, Amarilla a la izquierda, Azul a la derecha, Rosa abajo). **El orden cambia** tras la reforma de Homeworld, en la película · ✅
+- **El Clúster**: una Gema gigante de millones de fragmentos en el centro de la Tierra; se ve como manos y brazos que salen del suelo (hoja n.º 258) · [ficha](https://steven-universe.fandom.com/wiki/The_Cluster) · ✅
+
+**Objetos icónicos**
+- **La espada y el escudo de Rose**, heredados por Steven; el escudo es una estrella rosa (hoja n.º 48) · ✅
+- **El León**: rosa y mágico; **guarda cosas en su melena**, una dimensión de bolsillo (hoja n.º 266) · ✅
+- **El Comunicador de las Diamantes** (punto 6) · ✅
+- **Las burbujas**: se encierra en ellas a una Gema corrupta o un objeto, y se guardan en el Templo. Neutralizar sin matar · ✅ · hoja n.º 151-152 (Steven y Connie dentro de una).
+
+**Vocabulario que un fan reconoce al instante**
+- ***Poof***: el cuerpo se deshace en humo y queda la piedra. No es la muerte · ✅
+- ***Shatter***: romper la piedra, matar de verdad. El gran tabú · ✅
+- **Regenerarse**: volver con cuerpo nuevo, a veces con otra ropa · ✅
+- **Gema corrupta**: el monstruo de la semana de las primeras temporadas · ✅
+- ***Off-color***: Gemas «defectuosas» según Homeworld · ⚠️
+- ***Harmony***: la vida en los juegos (punto 11).
+
+**La historia por arcos** ([Wikipedia](https://en.wikipedia.org/wiki/Steven_Universe) y [lista de capítulos](https://en.wikipedia.org/wiki/List_of_Steven_Universe_episodes)) · ✅
+- **T1 (2013-15):** Steven y las Gemas protegen Ciudad Playa. Lapis trae la primera amenaza de Homeworld. En «Jail Break» llegan Peridot y Jasper, y **Garnet se revela fusión**.
+- **T2 (2015-16):** Peridot pasa de enemiga a aliada. El Clúster. En «Cry for Help», Perla ocultaba algo.
+- **T3 (2016):** se resuelve el Clúster. Aparece Bismuto y discute cómo se ganó la guerra. Asoma un secreto sobre Rose.
+- **T4 (2016-17):** Diamante Azul y Amarilla llegan a la Tierra. Steven se entrega y conoce a Blanco Diamante.
+- **T5 (2017-19):** «A Single Pale Rose»: **Rose era Diamante Rosa disfrazada**. «Change Your Mind» termina con la **reforma de Homeworld**, sin castas. **La boda de Rubí y Zafiro.**
+- **La película (2019):** **Spinel**, abandonada por Diamante Rosa hace 6000 años, ataca la Tierra.
+- ***Future* (2019-20):** epílogo sobre la **salud mental** de Steven, su trauma y la terapia.
+- ***Lars of the Stars*** (anunciada en 2025): la secuela, con Lars de pirata espacial (punto 10).

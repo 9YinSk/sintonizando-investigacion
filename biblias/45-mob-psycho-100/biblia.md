@@ -1683,3 +1683,118 @@ Spin-off manga ***REIGEN*** (2018, app Manga ONE); película resumen
 (AniList + TV Tropes).
 
 ---
+
+## 27 · Tres conceptos de lámina
+
+Tres ideas distintas: un **mostrador** (Reigen explica), un **papel que
+estalla** (Mob no se inmuta) y un **cartel que recluta** (Dimple invita).
+Las tres usan un recurso propio de la serie (§7), no una burbuja blanca.
+Los textos de la lámina van sin «·», rayas ni paréntesis (regla 4 del
+dueño). Que dos series pidan el mismo canal no bloquea nada (§0).
+
+### A · #dudas · «Arataka Reigen acepta el caso» (recomendado)
+
+- **Objeto real en un sitio real**: la **carta de cursos** de Reigen, la
+  que enseña al cliente en el primer capítulo («Option C… All-Out
+  Course», T1 ep. 1, 2:40). Una cartulina doblada en tríptico, de pie
+  sobre **su mesa**, en la **oficina 霊とか相談所** (T1 ep. 1, 9:40;
+  paleta `#A08D6C` `#64645A` `#868D80` `#BBAE96`). En **Blender**:
+  cartulina con pliegue (la tinta sigue el doblez), mesa de madera
+  barata, un **salero** (su «ataque de sal») y una **taza de té** (lo que
+  mejor hace Serizawa, §21).
+- **Personaje**: **Reigen**, el más querido (§9). Pose de «explicar un
+  curso»: sentado, **una mano apoyada en la carta** y la otra abierta,
+  mirando a cámara (T1 ep. 1, 2:40; sacar el fotograma del rip de
+  Internet Archive). Ropa y proporciones: hojas n.º 30 y 64. Detrás, Mob
+  sentado con su cara neutra (T1 ep. 1, 10:20) y **Dimple** flotando.
+- **Cómo habla**:
+  - su frase del doblaje en **globo dentado** con **Anton**: «¡Así que
+    yo, Arataka Reigen, acepto el caso!» (Reigen.ogg, 0:00);
+  - el resto en **globo normal** fino con **Comic Neue**;
+  - las etiquetas del canal en la carta, como su **diagrama de técnica**
+    (hoja n.º 35): rectángulos de borde irregular unidos con líneas.
+- **Dónde va cada texto**:
+  - globo normal de Reigen: «Pregunta sin miedo. Por tonta que te parezca.»
+  - portada de la carta, en **Yukarimobile** magenta `#C01B8B`:
+    «CONSULTAS» y debajo «Un hilo por duda».
+  - dentro de la carta, la lista de «cursos» con sus etiquetas: Doblaje,
+    Canto, Locución, Edición, Del programa, Del micro; y la línea
+    «Etiqueta tu disciplina».
+  - sobre la mesa, la **cajita de estado** del manga (§7.2), en papel:
+    «RESUELTA 100%» y «SIGUE ABIERTA 22%» (el 22 % es el primer medidor de
+    Mob), con la línea «Márcala cuando lo esté».
+- **Que no quede plano**: la carta en **primer plano**, en ángulo y con el
+  borde algo desenfocado; Reigen a media distancia; al fondo la ventana
+  con la calle del barrio (`#7F897D` `#D3B59D`); **luz de tarde de lado**;
+  el salero y la taza delante de la carta; Dimple con su brillo verde
+  sobre la pared.
+- **Lámina 2** si no cabe: cada etiqueta explicada por Reigen en un
+  diagrama de técnica, una flecha por disciplina.
+
+### B · #destacados · «Tarjeta de emoción: 感謝»
+
+- **Objeto real en un sitio real**: una **tarjeta de emoción impresa**
+  (una página de papel grande, como la de la hoja n.º 56), clavada con
+  chinchetas en el **tablón de corcho del colegio Salt** (patio y luz de
+  día de la hoja n.º 37; paleta del colegio sin medir ⚠️). En
+  **Blender**: papel con arrugas y sombras de chinchetas, corcho con
+  textura, papel [Paper006](https://ambientcg.com/view?id=Paper006).
+- **Personaje**: **Mob**, el protagonista. El chiste de la serie: la
+  página estalla y **él no se inmuta**. Pose neutra, de pie, **manos a los
+  lados**, mirando al frente (T1 ep. 1, 10:20), con el pelo empezando a
+  levantarse (T1 ep. 3, 19:00). Ropa: hoja n.º 34.
+- **Cómo habla**: casi no habla. Lo dice la **tarjeta de emoción**:
+  - kanji **感謝** gigante en **Dela Gothic One** y debajo, a mano en
+    mayúsculas, «GRATITUD» (las estrellas son gratitud del servidor);
+  - la **cajita de estado** del manga, como en la n.º 56;
+  - Mob, un globo normal muy pequeño con Comic Neue.
+- **Dónde va cada texto**:
+  - cajita: «LO QUE JUNTA ESTRELLAS 100%» y debajo «LLEGA AQUÍ SOLO».
+  - pie de la página, como el contador del anime (T1 ep. 3, 17:15):
+    «Progreso hacia destacados: 100%».
+  - globo de Mob: «Aquí no se escribe.»
+- **Que no quede plano**: la energía **cian `#02EBFD`** sale del papel y
+  le da a Mob **luz de contorno** de un lado; el pasillo tiene
+  profundidad; delante, el borde desenfocado de otro papel del tablón.
+  Todo lo demás, apagado.
+
+### C · #presentaciones · «¿Haces equipo conmigo?»
+
+- **Objeto real en un sitio real**: un **cartel de papel** pegado en una
+  pared de la **calle de noche** (hoja n.º 68, `#0D0E12` `#1E2126`), bajo
+  una **farola amarilla** como la del callejón del primer cliente (T1 ep.
+  1, 4:00). El cartel copia el de imagen real de Dimple (hoja n.º 76):
+  letras grandes de contorno fino sobre azul, «俺様と組まねえか?», que es
+  «¿Haces equipo con este gran señor?» ⚠️ (lectura propia). En
+  **Blender**: papel con arrugas y cinta en las esquinas, pared de
+  hormigón, charco en el suelo.
+- **Personaje**: **Dimple**, 3.º más querido, **verde** (no azul).
+  Flotando junto al cartel, **una manita apoyada en su borde** y la otra
+  señalando la plantilla; cara de burla (OP1, 0:26-0:28). Forma y color:
+  hojas n.º 45 y 71 (medir su verde antes ⚠️).
+- **Cómo habla**:
+  - su frase del doblaje en globo normal (Comic Neue): «Vaya, vaya,
+    vaya.» (Ekubo.ogg, 0:27);
+  - la **cartela** de la serie (hoja n.º 29 y 41) como plantilla de
+    ficha: rectángulo blanco liso, línea pequeña arriba, nombre grande
+    abajo.
+- **Dónde va cada texto**:
+  - titular del cartel, en letras de contorno: «¿HACES EQUIPO CONMIGO?»
+  - cartela de ejemplo: arriba «ESPÍRITU MALIGNO DE CLASE ALTA», abajo
+    «DIMPLE».
+  - cartela vacía al lado: arriba «TU PAÍS Y TU DISCIPLINA», abajo «TU
+    NOMBRE».
+  - globo de Dimple: «Vaya, vaya, vaya.» y debajo «No es obligatorio.
+    Pero así la gente te pone cara.»
+  - pie del cartel: «Abre TU hilo con la plantilla fijada.»
+  - el resto del texto del canal («nadie comenta…») sale **cortado en
+    el inventario** ⚠️: pedirlo entero antes de maquetar.
+- **Lámina 2**: las 12 etiquetas (Sudamérica, México, Centroamérica y
+  Caribe, España, Otro país, Doblaje, Canto, Locución, Edición, Arte,
+  Escritura, Hacer amigos) como **cartelas pequeñas** tipo la de Teru (n.º
+  41), en una fila de carteles.
+- **Que no quede plano**: la farola desde arriba; el **brillo verde de
+  Dimple** tiñe el papel; neón de la calle desenfocado al fondo; el
+  charco en primer plano refleja el cartel.
+
+---
