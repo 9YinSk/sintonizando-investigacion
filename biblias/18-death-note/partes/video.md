@@ -60,3 +60,37 @@ ep02, ep08, ep09, ep10, ep11, ep24, ep25, ep25b, ep27, ep28, ep36, ep37,
 opening, ending, trailer); se borran los `video.mp4` al terminar (regla del
 disco compartido).
 
+---
+
+## 4 · Sitios: luz y paleta MEDIDAS en fotogramas (no estimadas)
+
+La biblia (§5.3) decía «paleta estimada por mí ⚠️, compárala con un fotograma
+antes de fijarla». La comparé: mido con `herramientas/estilo.py` (Pillow de
+verdad, k-means sobre el píxel) sobre los mismos fotogramas del punto 2.
+Corrijo hex donde cambian y confirmo dónde acertaba.
+
+| Sitio | Fotograma medido | Paleta MEDIDA (dominante → menor) | Saturación / brillo | Corrige a la biblia |
+|---|---|---|---|---|
+| **Cuarto de Light, de noche** | ep. 1, 16:12 (Ryuk a contraluz) | `#0F1127` `#030212` `#1A2237` `#515B6C` `#343D51` `#8F9DA3` | 57 % / 22 % | confirma «noche azul»; el negro de la biblia (`#141A24`) es demasiado gris, el real es más violeta |
+| **Cuarto de Light, con la tele encendida** | ep. 2, 14:50 (emisión de Tailor) | `#6A728B` `#4A546D` `#83879F` `#9F9FB5` `#C3BBCA` `#0A0E1F` | 26 % / 55 % | nuevo: la luz de la pantalla sube el brillo y desatura el azul a un gris-lavanda |
+| **Cuarto de Light, Ryuk detrás** | ep. 1, 13:00 | `#030214` `#0B0D25` `#171F39` `#424E5E` `#2B3246` `#63737F` | 66 % / 19 % | confirma el azul casi negro |
+| **Mundo shinigami** | ep. 1, 00:02:01 | ojo del shinigami en primerísimo plano: gris `#C9C9BE`-ish con **iris rojo `#8A0E12`** sobre negro (no medido en tabla, visto directo) | — | confirma «gris sin sol» + rojo puntual en los ojos, como dice la wiki de simbolismo |
+| **Azotea bajo la lluvia (L)** | ep. 25, 10:30 | `#0D1027` `#09081D` `#040214` `#1A1F35` `#303B52` `#5C617A` | 66 % / 17 % | acerca bastante a lo estimado (`#3A4350`), pero el real es más morado que gris puro |
+| **Universidad Tōō, salón de actos** | ep. 9, 14:30 | `#090714` `#635C63` `#B9ABA8` `#44424D` `#C8BBB8` `#8F8D9A` | 32 % / 40 % | nuevo dato: interior cálido gris-malva, no «día, luz dura» como decía la biblia (esa escena es de interior) |
+| **Café con L y Light** | ep. 10, 08:14 | `#110E0F` `#352A0E` `#454C48` `#A67A3F` `#575411` `#C2B093` | 61 % / 33 % | nuevo: dorado-oliva cálido (persiana + plantas), no estaba en la biblia |
+| **Almacén Yellow Box (final)** | ep. 36, 20:55 | `#45423F` `#6F6F6D` `#BCB8A3` `#898A86` `#E2ECDC` `#ECD6B7` | 13 % / 61 % | confirma «tiras de sol entre polvo»: es la escena más clara y menos saturada de toda la muestra |
+| **Almacén, Aizawa grita** | ep. 37, 14:28 | `#999583` `#090715` `#2E2C32` `#D4C3A0` `#84806F` `#635549` | 33 % / 40 % | confirma tonos tierra/gris del almacén |
+| **La página del cuaderno (insert)** | ep. 1, 04:32 | `#070311` `#150F1C` `#40363F` `#29202A` `#786E78` `#CCC1CC` | 43 % / 18 % | esto NO es un sitio: es el fondo negro-violeta de la página con letra blanca; sirve para la textura de la tapa/hoja, no para un lugar |
+
+**Regla de luz confirmada mirando los fotogramas**: la serie usa **luz rasante
+y contraluces** para las revelaciones (la «L» en pantalla blanca, los ojos de
+Light con rayos de luz a las 21:00 del ep. 1) y **satura el rojo sólo en
+momentos de villanía o muerte** (ojos del shinigami, la sonrisa de Light en
+el ep. 25) — el resto de la paleta es azul-violeta oscuro o gris-tierra, casi
+sin rojo. Esto confirma lo que decía la wiki de símbolos (Light = rojo, L =
+azul) pero con datos medidos, no de memoria.
+
+**Texturas** (sin cambios respecto a la biblia, no las remedí: son CC0 y ya
+llevan enlace comprobado en §5.4 de la biblia — cuero negro, papel, madera de
+ambientCG).
+

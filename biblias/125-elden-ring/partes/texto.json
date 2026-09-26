@@ -1,0 +1,137 @@
+[
+ {
+  "url": "https://cdn.jsdelivr.net/fontsource/fonts/cinzel@latest/latin-400-normal.ttf",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente Cinzel (subset latin, 400) — letra libre más parecida a Mantinia, la fuente del logo/título de Elden Ring; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü completos",
+  "para_que": "Letra libre para el título/logo tipo grabado clásico de la lámina (punto 5)",
+  "licencia": "SIL Open Font License 1.1 (gratuita)"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/fontsource/fonts/eb-garamond@latest/latin-400-normal.ttf",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente EB Garamond (subset latin, 400) — serif legible parecida a la del cuerpo de texto/menús de Elden Ring; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü completos",
+  "para_que": "Letra libre para cuerpo de texto/diálogo largo de la lámina (punto 5)",
+  "licencia": "SIL Open Font License 1.1 (gratuita)"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/fontsource/fonts/cormorant-garamond@latest/latin-400-normal.ttf",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente Cormorant Garamond (subset latin, 400) — alternativa más estilizada/alta para cuerpo de texto; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü completos",
+  "para_que": "Letra libre alternativa para cuerpo de texto de la lámina (punto 5)",
+  "licencia": "SIL Open Font License 1.1 (gratuita)"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/fontsource/fonts/spectral@latest/latin-400-normal.ttf",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente Spectral (subset latin, 400) — serif moderna y muy legible en pantalla, buena para subtítulos; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü completos",
+  "para_que": "Letra libre para subtítulos o créditos de la lámina (punto 5)",
+  "licencia": "SIL Open Font License 1.1 (gratuita)"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/fontsource/fonts/im-fell-english@latest/latin-400-normal.ttf",
+  "fuente": "Fontsource / Google Fonts",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente IM Fell English (subset latin, 400) — inspirada en tipos de imprenta del s. XVII, aire de manuscrito antiguo; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡ ü completos",
+  "para_que": "Letra libre para carteles/lore del mundo con aire de texto antiguo (punto 5)",
+  "licencia": "SIL Open Font License 1.1 (gratuita)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/1/1f/ER_Icon_Key_Item_Great_Rune_Godrick%27s.png/revision/latest?cb=20220411011707",
+  "fuente": "Elden Ring Wiki (Fandom, eldenring.fandom.com, vía API imageinfo)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Icono de la Gran Rúnica de Godrick, sello dorado con grabado propio (símbolo del semidiós)",
+  "para_que": "Punto 25 (símbolo/emblema del mundo, para usar como sello o marca de agua en la lámina en vez del logo genérico)",
+  "licencia": "© FromSoftware / Bandai Namco; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/a/a3/ER_Icon_Key_Item_Great_Rune_Malenia%27s.png/revision/latest?cb=20220411011854",
+  "fuente": "Elden Ring Wiki (Fandom, eldenring.fandom.com, vía API imageinfo)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Icono de la Gran Rúnica de Malenia, sello dorado con grabado propio distinto al de Godrick",
+  "para_que": "Punto 25 (símbolo/emblema del mundo; Malenia es uno de los dos personajes que pidió el encargo)",
+  "licencia": "© FromSoftware / Bandai Namco; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/eldenring/images/2/24/ER_The_Road_to_the_Erdtree_Cover_Volume_1.jpg/revision/latest?cb=20240331013929",
+  "fuente": "Elden Ring Wiki (Fandom, vía API imageinfo)",
+  "ancho": 1000,
+  "alto": 1500,
+  "que_es": "Portada del tomo 1 del manga oficial ELDEN RING: The Road to the Erdtree (Nikiichi Tobita, ed. inglesa Yen Press) — muestra la tipografía de título propia del manga, distinta del logo del juego",
+  "para_que": "Punto 5 (tipografía del manga) y punto 6 (referencia visual del spin-off en manga)",
+  "licencia": "© FromSoftware / Yen Press; sólo referencia, no libre"
+ },
+ {
+  "url": "https://www.gameuidatabase.com/gameData.php?id=1371",
+  "fuente": "Game UI Database (abierta con navegar.py, bloquea curl directo)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de interfaz completa de Elden Ring: categoriza cada tipo real de caja de diálogo/cartela/menú del juego (Dialogue & Speech, Modal: Item Get, Area/Level Name, etc.)",
+  "para_que": "Punto 6 y 11 (estructura real de las cajas de diálogo e interfaz, para no inventar una burbuja genérica)",
+  "licencia": "Sitio de referencia de UI de videojuegos; consultar términos propios, no es un recurso descargable"
+ },
+ {
+  "url": "https://www.gameuidatabase.com/gameData.php?id=2101",
+  "fuente": "Game UI Database (abierta con navegar.py)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de interfaz de Elden Ring Nightreign: pantallas nuevas de roguelite cooperativo que no existen en el juego base",
+  "para_que": "Punto 11 (diferencias de interfaz entre los juegos de la franquicia)",
+  "licencia": "Sitio de referencia de UI de videojuegos, no descargable"
+ },
+ {
+  "url": "https://eldenring.wiki.gg/wiki/Item_Rarity",
+  "fuente": "Eldenpedia (eldenring.wiki.gg)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página que documenta el sistema de rareza visual de objetos: color y degradado de la cartela de recogida según rareza (común/raro/legendario)",
+  "para_que": "Punto 6 (diseño exacto de la cartela de objeto recogido)",
+  "licencia": "Wiki de fans, texto bajo licencia de la wiki; no es un recurso descargable"
+ },
+ {
+  "url": "https://archive.org/details/elden-ring-artbook-vol-ii",
+  "fuente": "Internet Archive",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Elden Ring: Official Art Book Volume II completo en streaming — concept art de enemigos, armas e iconos de objetos",
+  "para_que": "Punto 18 (referencia de cómo el estudio pinta su concept art, para replicar la técnica sin copiar el arte)",
+  "licencia": "© FromSoftware / Kadokawa; sólo referencia para mirar, no libre ni para descargar"
+ },
+ {
+  "url": "http://soulsmodding.wikidot.com/topic:engines",
+  "fuente": "SoulsModding Wiki (comunidad técnica de modding)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página técnica que documenta el motor propio de FromSoftware (apodado \"Dantelion\" por la comunidad) usado desde Demon's Souls hasta Elden Ring",
+  "para_que": "Punto 18 (qué tecnología usó el estudio, dato técnico verificable)",
+  "licencia": "Wiki de comunidad de modding, texto de referencia, no descargable"
+ },
+ {
+  "url": "https://www.dafont.com/forum/read/445950/elden-ring-font",
+  "fuente": "dafont.com — foro de identificación de fuentes",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Hilo del foro de dafont donde la comunidad identifica Mantinia como la fuente del logo de Elden Ring",
+  "para_que": "Punto 5 (fuente de identificación tipográfica del logo)",
+  "licencia": "Foro público, texto de referencia"
+ },
+ {
+  "url": "https://skeddles.itch.io/eldring-pro",
+  "fuente": "itch.io (skeddles)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente fan-made \"Eldring Pro\", pixel serif inspirada en la tipografía de Elden Ring, +300 glifos multi-idioma",
+  "para_que": "Punto 5 (referencia visual del estilo tipográfico; su licencia NO permite redistribuirla, sólo mirar)",
+  "licencia": "Comercial restringida (no redistribuible); no es letra libre para reusar directamente"
+ }
+]

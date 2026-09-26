@@ -124,7 +124,7 @@ para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo
 ## No encontré
 
 - Cinemático de introducción («Opening», pista 2 del OST) como clip suelto e independiente en Dailymotion: probé «Elden Ring opening cinematic» (en) y «Elden Ring cinématique d'ouverture» (fr) en la API de Dailymotion, sólo salieron vídeos de otros juegos. Sustituido por el tráiler de lanzamiento «Rise, Tarnished» (que sí es el cinemático que Bandai Namco usó como apertura de campaña) y por el story trailer.
-- Tendencias de TikTok: sin acceso a TikTok desde este servidor (red cerrada a ese dominio). No se intentó `navegar.py` sobre tiktok.com por ser previsible el bloqueo; si hace falta, pendiente para otra tanda. ⚠️
+- Tendencias de TikTok: probado `herramientas/navegar.py` sobre `tiktok.com/tag/eldenring` y `tiktok.com/search?q=elden+ring` (2 intentos): las dos veces devolvió página vacía (0 caracteres), TikTok bloquea el contenido sin sesión aunque cargue el HTML base. No se insistió más (regla de 2 intentos). ⚠️
 - Vídeos de análisis largos (tipo video-ensayo) con minuto exacto de una escena que hace llorar: no es punto de vídeo (es del investigador de voz/personajes, punto 21); no se buscó a fondo aquí.
 - Efectos de sonido / onomatopeyas con espectrograma: se documentó de oído (punto 9), no se usó `voz.py` para medir el rugido porque no es una frase hablada.
 

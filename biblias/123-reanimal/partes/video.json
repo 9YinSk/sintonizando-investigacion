@@ -158,5 +158,35 @@
     "para_que": "Fuente para confirmar compositores y fecha de la BSO",
     "licencia": "Datos abiertos (CC0/PDDL, MusicBrainz)",
     "origen": "investigador de vídeo"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9tibzi?t=630",
+    "fuente": "Dailymotion (HappyPlayz/WildGamerSK, 'REANIMAL Full Gameplay Demo 45 Minutes', con entrevista a David Mervik, director narrativo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio: confirma en vídeo (no sólo en captura fija) la escena de la celda circular del capítulo 1, con Hood tras los barrotes",
+    "para_que": "Segunda fuente para el sitio de la celda: resuelve si es campaña base (sí) o DLC 'The Prisoner' (no)",
+    "licencia": "© Tarsier Studios / THQ Nordic; vídeo de preview oficial, sólo referencia",
+    "origen": "investigador de vídeo"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x94c4ui?t=45",
+    "fuente": "Dailymotion (3djuegos, Tráiler de anuncio de REANIMAL)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio: el Niño y la Niña corren agachados por un pasillo/almacén en penumbra, luz cenital al fondo",
+    "para_que": "Pose de 'huir' distinta a la del neón del cine; composición de luz puntual en pasillo oscuro",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia",
+    "origen": "investigador de vídeo"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x94c4ui?t=59",
+    "fuente": "Dailymotion (3djuegos, Tráiler de anuncio de REANIMAL)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio: monstruo de extremidades largas tipo araña agazapado sobre un tejado bajo la lluvia, dos siluetas pequeñas debajo",
+    "para_que": "Referencia de un 'Spider Kid' o monstruo similar en silueta, útil para composición de amenaza en vertical",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia",
+    "origen": "investigador de vídeo"
   }
 ]

@@ -6,6 +6,11 @@ Punto de partida: `partes/datos-imagen.md` (recolectado el 2026-09-25) + 247 im�
 (Melina, Malenia, Ranni, Radahn) montadas en 6 hojas de contacto (`herramientas/referencias/elden-ring/hoja_01..06.jpg`).
 Colores medidos con `herramientas/estilo.py` sobre imágenes bajadas de la wiki (Referer obligatorio, si no da 403).
 
+**Mapa de hojas** (las 6 completas quedan en `herramientas/referencias/elden-ring/`, fuera del repositorio; en `hojas/` sólo van las 3 elegidas):
+`hoja_01.jpg` → **`hojas/personajes_01.jpg`** (nº 1-48: retratos, key art, turnarounds, sitios) ·
+`hoja_02.jpg` → **`hojas/sitios_01.jpg`** (nº 49-96: combate, efectos de fuego/oro, paisajes con luz) ·
+`hoja_03.jpg` → **`hojas/vestuario_01.jpg`** (nº 97-144: iconos de armadura, armas y talismanes, fondo verde). Cuando cito «hoja 1/2/3, nº X» abajo, es esta numeración original (1-247), válida también dentro de las 3 hojas guardadas.
+
 ## 1 · Arte oficial, en cantidad y variado
 
 Elden Ring tiene arte oficial enorme: renders promocionales, key art de expansión, wallpapers, concept art de artbook, viñetas de manga y modelos de armadura. Miré las 6 hojas de contacto completas (247 imágenes) antes de elegir. Personajes de partida (Melina, Malenia) tienen renders de pie, en acción, en grupo y como estatua.
@@ -104,3 +109,35 @@ Elden Ring no es manga en origen (sí tiene una adaptación a manga, «Elden Rin
 - Tienda oficial Elden Ring Store, colección de verano 2025 (ropa y merchandising con arte de personajes, no cambia poses/diseños de los personajes en sí) · oficial Bandai Namco · https://www.barchart.com/story/news/33354823/elden-ring-store-launches-summer-collection-for-fans-of-the-iconic-dark-fantasy-rpg-worldwide · ⚠️ (fuente secundaria que reporta el lanzamiento, no la tienda directa) · —
 - Elden Ring Nightreign: no es una colaboración con otra marca sino un spin-off cooperativo de FromSoftware (2025); lo anoto para no confundirlo con un crossover real · Wikipedia/Famiboards · ✅ (dos fuentes coinciden en que es un juego propio, no un crossover) · —
 - Cosplay de Malenia, Blade of Miquella (set fotográfico de 17 fotos, casco alado y brazo dorado con volumen real en resina/tela, no sólo estampado) · cosplayer Julianna Podnebesnaya (pufacosplay) · https://pufacosplay.gumroad.com/l/Malenia · ⚠️ (una fuente, portfolio de venta del propio cosplayer; no encontré su Instagram para cruzar con una segunda fuente en esta tanda) · sin tamaño medido
+
+## Lo mejor para la lámina
+
+- Malenia, key art oficial de boss (casco alado, brazo dorado, capa roja): la pose de combate más reconocida del juego, con paleta óxido/dorado ya medida (#AD4B36, #DA7650, #E7B18B).
+- Melina sentada junto al fuego de gracia (hoja 1, nº 72-75): pose tranquila y de "bienvenida", con el brasero azul como objeto del mundo donde apoyar texto, en vez de una pose de combate.
+- Fondo de ruinas cubiertas de musgo (estatua de los Semidioses en Haligtree, o el panorama de Caelid/Leyndell): encaja directo con «fantasía oscura, ruinas» del encargo y da profundidad sin tapar al personaje.
+- Modelo 3D con licencia «Old Church Ruins» (Sketchfab) + texturas CC0 de ambientCG (`Rock064` piedra, `Bark013` corteza muerta) para maquetar el fondo en Blender con la misma luz que el juego.
+- El emblema de la Gran Runa de Malenia o el Haligtree Crest sirven como icono de canal o marca de agua pequeña, ya que son símbolos oficiales del juego, no genéricos.
+
+## No encontré
+
+- Tamaño de píxel exacto de la carátula física oficial del juego (Bandai Namco 2022): la wiki no aloja la carátula limpia, sólo variantes recortadas. Búsquedas: `site:eldenring.fandom.com box art` (inglés), revisar CDN de Steam si hace falta en alta.
+- Segunda fuente para el cosplay de Malenia (sólo tengo el portfolio de venta del cosplayer): búsqueda `Malenia Elden Ring cosplay armor build reddit instagram` (inglés, WebSearch) y `arctic-shift.photon-reddit.com` a r/cosplay (dio timeout, no reintenté para no gastar más de 2 intentos).
+- Colaboraciones tipo videojuego (Fortnite, gacha) que el encargo pone como ejemplo: no encontré ninguna real para Elden Ring en esta tanda (a diferencia de otros juegos de FromSoftware). Búsquedas: `Elden Ring collaboration crossover brand event official` y `Elden Ring x Fortnite` (inglés, WebSearch) — sólo aparecieron la colaboración de joyería (Leathers and Treasures) y merchandising propio de la tienda oficial.
+- Café temático o evento presencial oficial de Elden Ring: no apareció en las búsquedas hechas (a diferencia de sí existir en otras franquicias de Bandai Namco). Dejo la búsqueda para quien retome: `Elden Ring cafe collaboration Japan` (inglés/japonés).
+- Modelos 3D con licencia específicos de Ranni o Radahn en Sketchfab (sólo hay props/armas o el modelo genérico de Radahn ya listado): probé `sketchfab.com/v3/search?q=ranni` sin tiempo de revisar a fondo; queda para quien amplíe este punto.
+
+## Bitácora
+
+- `herramientas/investigar_serie.py --serie "Elden Ring" --wiki eldenring --paginas Melina "Malenia, Blade of Miquella" "Ranni the Witch" "Starscourge Radahn"`: ya lo había corrido `recolectar.py` (indice.json con 247 imágenes); yo sólo regeneré las 6 hojas de contacto que faltaban (el intento anterior se cortó tras la nº1) reusando el mismo índice, sin repetir las consultas a la wiki.
+- Miré las 6 hojas de contacto completas con Read antes de citar nada (247 imágenes en total).
+- API de Sketchfab (`api.sketchfab.com/v3/search`): `q=elden ring castle` (0 resultados útiles), `q=erdtree` (Marika's hammer, Rellana, Bayle, Tree Sentinel, Blue Blossom), `q=elden ring ruins` (Old Church Ruins). En inglés.
+- API de Poly Haven (`api.polyhaven.com/assets?t=models&c=nature`): filtrado por nombre para ruinas/raíces/piedra → `dead_tree_trunk`, `root_cluster_01`, `stone_01`. En inglés.
+- API de ambientCG (`ambientcg.com/api/v2/full_json`): `q=stone`, `q=bark`, `q=fabric`, `q=paper`, `q=gold` (con resultados); `q=weathered stone`, `q=rusty metal`, `q=gold ornate` (sin resultados, probablemente por espacios en la query). En inglés.
+- API de la wiki (`eldenring.fandom.com/api.php?action=query&prop=pageimages`) para panorámicas de Limgrave, Liurnia, Caelid, Leyndell y Haligtree, bajadas después con `curl` + cabecera Referer y medidas con `estilo.py`.
+- Descargas directas de `static.wikia.nocookie.net` con `curl -A "Mozilla/5.0" -e "https://www.fandom.com/"` (sin el Referer da 403, como avisa AYUDANTE.md).
+- `herramientas/estilo.py` sobre 11 imágenes propias (Melina, Malenia armadura/key art, Radahn armadura, 5 panorámicas de región, estatua de Haligtree, arte del asedio de Aeonia): paletas y tipo de sombreado para los puntos 15, 16 y 19.
+- WebSearch (cupo compartido, en inglés): `free screentone halftone brush pack CC0 license download manga`, `Elden Ring official collaboration merchandise crossover cafe figure 2025 2026`, `"Elden Ring" x collaboration crossover brand event official announcement`, `Malenia Elden Ring cosplay armor build reddit instagram`. 4 búsquedas de las ~50 del cupo.
+- `herramientas/navegar.py https://tamashiiweb.com/item_character/eldenring/?wovn=en --selector body`: confirmó las 3 figuras oficiales S.H.Figuarts/Figuarts mini (Bandai/TAMASHII).
+- GitHub API de búsqueda: bloqueada en este contenedor («sessions are bound to their configured repositories»); no pude buscar shaders/rigs por ahí, sólo por Sketchfab y Poly Haven.
+- Arctic Shift (Reddit) a r/cosplay con «Malenia»: dio timeout una vez; no insistí más (regla de máximo 2 intentos).
+- Openverse (`api.openverse.org`) con `q=halftone texture`: sólo trajo fotos con licencia CC de fotógrafos, no packs de pinceles; usé Brusheezy en su lugar (licencia de plataforma, marcado ⚠️).
