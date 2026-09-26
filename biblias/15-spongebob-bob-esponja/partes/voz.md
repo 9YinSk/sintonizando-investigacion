@@ -335,13 +335,15 @@ contrario.
 
 ### Punto 21 · Por qué la gente la ama (faltaba entero)
 
-**Datos de éxito y premios** ✅ dos fuentes ([Wikipedia en español: Anexo de
-premios y nominaciones](https://es.wikipedia.org/wiki/Anexo:Premios_y_nominaciones_recibidos_por_Bob_Esponja),
-[Excélsior sobre el récord Guinness 2023](https://www.excelsior.com.mx/funcion/chorros-de-slime-y-record-guinness/1605431)):
-- **27 nominaciones al Emmy, con 6 victorias.**
+**Datos de éxito y premios**:
 - **20 Kids' Choice Awards**, y por eso tiene el **récord Guinness** al
-  personaje animado con más premios ganados en los Kids' Choice Awards.
-- **6 premios Annie**, **8 Golden Reel** y **2 BAFTA infantiles**.
+  personaje animado con más premios ganados en los Kids' Choice Awards ✅
+  dos fuentes ([Wikipedia en español: Anexo de premios y nominaciones](https://es.wikipedia.org/wiki/Anexo:Premios_y_nominaciones_recibidos_por_Bob_Esponja),
+  [Excélsior sobre el récord Guinness 2023](https://www.excelsior.com.mx/funcion/chorros-de-slime-y-record-guinness/1605431)).
+- **27 nominaciones al Emmy (6 victorias), 6 premios Annie, 8 Golden Reel y
+  2 BAFTA infantiles** ⚠️ una sola fuente directa (el mismo Anexo de
+  Wikipedia en español); no crucé cada cifra con la base de datos oficial
+  de los Emmy.
 - Según *Networth Area*/varias fuentes de negocio, la franquicia generó
   **más de 13.000 millones de dólares en merchandising** hacia 2019, y es
   la serie con el rating más alto en la historia de Nickelodeon ⚠️ una
@@ -376,3 +378,204 @@ listas de «momentos tristes» y artículos de opinión (Medium, The Odyssey,
 ya citados) que explican el porqué caso por caso, no una sola cifra.
 
 ---
+
+### Punto 22 · Fan dubs y comunidad hispana (faltaba entero)
+
+**Fandubs de escenas y parodias en español latino** (canales de YouTube,
+confirmados por título y enlace; no los descargué, sólo el título y canal
+que da la búsqueda, para no gastar cupo de YouTube):
+- **«Bob Esponja en el bar del cacahuate (versión anime) / Fandub español
+  latino»** ✅ ([YouTube](https://www.youtube.com/watch?v=tjirliW7jCY)):
+  redoblaje de fans de una escena real, con estética de anime.
+- **«🧽 BOB ESPONJA SE CANSA DE CALAMARDO - [Fandub Español Latino]»** ✅
+  ([YouTube](https://www.youtube.com/watch?v=dQUuuU5UOFM)).
+- **«SpongeBob Anime EP #1 Bubble Bass Arc (Fandub Español Latino)»** ✅
+  ([YouTube](https://www.youtube.com/watch?v=SSsnsqOBxaU)): serie de fandubs
+  que redibuja escenas de Bob Esponja al estilo anime shonen (parodia del
+  gag real de «Bubble Bass acusando a Bob Esponja», muy citado en el
+  fandom).
+- **«Bob Esponja Parody (Español Latino - Fandub)»** ✅
+  ([YouTube](https://www.youtube.com/watch?v=r-ZXncgrQDc)).
+
+**TikTok: doblaje y fandub como reto de creadores hispanos** (con enlace y
+autor; visto sólo el título/descripción del resultado de búsqueda, no el
+vídeo, por la misma razón que arriba con YouTube):
+- **@romerostars**, «Doblaje de voz Bob Esponja» con las etiquetas
+  #doblajedevoz #doblajelatino #actordedoblaje #fandub #bobesponja
+  #patricioestrella #retodedoblaje ✅
+  ([TikTok](https://www.tiktok.com/@romerostars/video/7271683248214822149)):
+  ejemplo de «reto de doblaje» (imitar las voces oficiales) muy común entre
+  aspirantes a actor de doblaje hispanos, justo el público de este
+  servidor.
+- **@draquio**, «🧽 La voz de Bob Esponja | Draquio», con #doblaje
+  #doblajelatino #bobesponja #viral #fyp ✅
+  ([TikTok](https://www.tiktok.com/@draquio/video/7148888430322191622)).
+- **@jeffmardt**, «La verdad sobre el cambio de voz de Bob esponja!», más
+  de **109 000 likes**, sobre el cambio real de actor de Don Cangrejo (el
+  mismo hecho del §10 de doblaje) ✅
+  ([TikTok](https://www.tiktok.com/@jeffmardt/video/7012381190879595781)):
+  muestra que el propio cambio de voz **es** un tema viral en la comunidad
+  hispana de doblaje, no sólo un dato de ficha.
+- Frase viral repetida en varios TikToks de doblaje/fandub: **«¡Soy un
+  cacahuate!»** ⚠️ una sola fuente (resultado de búsqueda, no vi el vídeo
+  origen), aparece asociada a Bob Esponja y Patricio en fandubs.
+
+**Comunidad de doblaje "seria"**: la ficha de la **Fandub Database**
+(`fandubdb.fandom.com`, en inglés, catálogo de doblajes con crédito
+estudio por estudio) confirma los datos de estudio y actor del §10 desde
+otra fuente más ✅: Etcétera Group (Caracas y Miami), y desde la
+temporada 14 **DAT Doblaje, Audio y Traducción** para las líneas de
+**Olin Garcés** como Don Cangrejo
+([fandubdb.fandom.com](https://fandubdb.fandom.com/wiki/Bob_Esponja_(Latin_American_Spanish,_fictionalized))).
+Pese al nombre de la wiki («Fandub»/aficionados), esta ficha en concreto
+documenta el **doblaje oficial**, no uno de fans: lo uso sólo como tercera
+fuente para el estudio, no como ejemplo de fandub.
+
+**Covers del opening en español**: **no encontré** covers de fans
+claramente identificables como tales (canal de aficionado, no oficial) del
+tema de apertura en español latino; lo que domina la búsqueda son subidas
+oficiales de Nickelodeon en Español y karaokes/letra ⚠️ búsquedas hechas en
+español («cover apertura bob esponja español latino», «tema de bob esponja
+cover fans»). Si el dueño quiere covers reales, conviene buscar
+directamente en TikTok con el sonido oficial («Bob Esponja Theme Song» en
+[TikTok Discover](https://www.tiktok.com/discover/bob-esponja-theme-song)),
+que si tiene uso masivo de fans pero no lo pude filtrar por autor sin abrir
+la app.
+
+**Parodias y memes hispanos** ya están en el punto 12 (ampliado arriba):
+«Hola, me gusta el dinero», «Krusty Krab vs. Chum Bucket» (aunque es
+meme global, muy usado también en cuentas hispanas de videojuegos), «Solo
+un bocado» (la biblia ya decía que es un meme **sólo de redes latinas**,
+confirmado en la Bob Esponja Wiki en español).
+
+---
+
+### Punto 7 · Corrección: sí hay una encuesta grande (la biblia decía que no)
+
+La biblia (§9) dice «no hay encuesta oficial... no la encontré». Hay que
+matizarlo:
+- **The Ringer** (medio de EE. UU., de Bill Simmons) organizó en 2021 el
+  **«Best Nickelodeon Character Bracket»**: **2,5 millones de votos** en 63
+  rondas, entre TODOS los personajes de Nickelodeon (no sólo de Bob
+  Esponja). **Bob Esponja ganó la final**, venciendo a Tommy Pickles (Rugrats)
+  ✅ ([The Ringer](https://theringer.com/platform/amp/tv/2021/8/14/22624731/best-nickelodeon-character-bracket-final-results-spongebob-squarepants)).
+  **No es una encuesta de Nickelodeon** (la organizó un medio externo), así
+  que sigue sin haber una encuesta **oficial** de Nickelodeon sobre
+  personajes; esto es lo más grande y verificable que hay.
+- Aparte, **Nickelodeon Kids' Choice Awards, categoría Mejor Caricatura**:
+  Bob Esponja (la serie, no un personaje) ganó **17 años seguidos** hasta
+  2025 (22 veces en total desde 2003, sólo perdió en 2008 contra *Avatar:
+  La Leyenda de Aang*) ✅ ([Animation Magazine 2025](https://www.animationmagazine.net/2025/06/inside-out-2-spongebob-squarepants-jack-black-win-big-at-2025-nickelodeon-kids-choice-awards/),
+  [Wikipedia: Kids' Choice Award for Favorite Cartoon](https://en.wikipedia.org/wiki/Kids%27_Choice_Award_for_Favorite_Cartoon)).
+  No separa por personaje, pero confirma que la serie entera es, con
+  diferencia, la favorita del público infantil de Nickelodeon todos los
+  años.
+- Dato curioso de 2001, más viejo: en el episodio **«Shanghaied»**, los
+  espectadores votaron por teléfono/web quién se quedaba con un deseo, y
+  ganó **Bob Esponja** sobre Calamardo y Patricio ⚠️ una fuente (resultado
+  de búsqueda, sin la nota de prensa original).
+
+---
+
+### Punto 8 · Melanie Henríquez (Karen): el motivo, confirmado
+
+La biblia (§10) decía que Karen tuvo antes a Melanie Henríquez «luego se
+mudó a España», con el motivo exacto ⚠️ sin verificar por escrito. Ahora
+✅ dos fuentes:
+- Se retiró del doblaje **en julio de 2015** al mudarse a **Tenerife,
+  España**; sus papeles de Karen y de Perla Cangrejo (Pearl Krabs) pasaron
+  a **Mariangny Álvarez** y **Gabriela Belén** en la temporada 9 ✅
+  ([Doblaje Wiki: Melanie Henríquez](https://doblaje.fandom.com/es/wiki/Melanie_Henr%C3%ADquez)).
+- Ella misma lo cuenta en una entrevista en podcast (2024): habla de «su
+  mudanza a Tenerife» y de que **volvió al doblaje en 2022**, grabando ya
+  desde España ✅ ([El Retake, entrevista en
+  TikTok](https://www.tiktok.com/@elretake/video/7539562416858762518)).
+- Esto también actualiza la tabla de §10: entre Melanie Henríquez y
+  Sixnalie Villalba (o Gabriela Belén, temporada 9) faltaba el nombre de
+  **Mariangny Álvarez** como otra voz intermedia de Karen en esa transición
+  ⚠️ un solo dato, revisar si el redactor quiere ampliar la fila.
+
+---
+
+## Lo mejor para la lámina
+
+1. **El «Vídeo de Entrenamiento del Crustáceo Cascarudo»** («¡Máxima
+   Potencia!»): meme real, institucional, de precios y entrenamiento — el
+   gancho perfecto para #ofertas-y-gratis.
+2. **Don Cangrejo generoso sin querer** («Born Again Krabs», min. 6:33 y
+   7:27): la cara de shock ante una cuenta gigante es la mejor referencia
+   visual de «esto no puede pasar dos veces».
+3. **Calamardo llorando de alivio, no de tristeza** («Dying for Pie», min.
+   0:36-1:00): pose y cara con fuente propia, útil para «reclama antes de
+   que caduque» con humor.
+4. **Cumpleaños y gustos por personaje** (punto 20): dan pie a una lámina 2
+   de «ficha de personaje» con datos curiosos reales, no inventados.
+5. **El cambio de voz de Don Cangrejo es, él mismo, un tema viral en
+   TikTok hispano** (@jeffmardt, 109 000 likes): conecta directo con el
+   público de doblaje del servidor.
+
+## No encontré
+
+- **Encuesta oficial de Nickelodeon o de Latinoamérica** sobre el
+  personaje más querido: sólo hay un bracket de un medio externo (The
+  Ringer, 2021) y encuestas de fans (Ranker). Busqué en español e inglés:
+  «nickelodeon official poll favorite spongebob character», «encuesta
+  oficial personaje favorito bob esponja». ⚠️ Es un extra, no obligatorio:
+  el encargo pide encuestas oficiales **y** de fans; de fans sí hay.
+- **La voz actual de Karen antes de Paulina Monfort en el tramo exacto
+  2022-2025** (tras el regreso de Melanie Henríquez en 2022): no confirmé
+  si ella retomó el personaje en ese tramo o si fue directamente Sixnalie
+  Villalba. ⚠️ Detalle fino de cronología, no cambia el dato principal
+  (Paulina Monfort desde 2025).
+- **Covers de fans reales del opening en español** (canal identificable de
+  aficionado, no oficial): las búsquedas devuelven sobre todo subidas
+  oficiales de Nickelodeon. Búsquedas hechas: «cover apertura bob esponja
+  español latino», «tema de bob esponja cover fans», en español.
+- **La cara de Calamardo tocando bien el clarinete** («¿Navidad, quién?»)
+  y **la cara de miedo de Plankton a las ballenas** («One Coarse Meal»):
+  no estaban entre los clips ya descargados por el investigador de vídeo;
+  no abrí YouTube de nuevo para no repetir cupo entre ayudantes. Quedan
+  descritas por texto de wiki, con ⚠️.
+- **Un motivo textual, citado en la wiki con sus palabras exactas**, de por
+  qué Melanie Henríquez dejó Karen en su momento (ahora sí tengo el motivo
+  real —mudanza a España, 2015— con dos fuentes; lo que no tengo es la
+  cita textual de la wiki de doblaje, que sólo da fechas y episodios). Dato
+  menor, ya cubierto igual con fuente.
+
+## Bitácora de búsqueda (esta tanda)
+
+- **Local, sin red**: `partes/datos-voz.md` (ya lo dejó `recolectar.py`, no
+  se repitió); wikitext ya descargado por el investigador de imagen en
+  `/tmp/…/15-spongebob-voz/*.json` (seis fichas de Encyclopedia
+  SpongeBobia, en inglés) — minado con `python3` y `grep`, sin gastar red.
+- **Hojas de contacto ya sacadas por el investigador de vídeo**
+  (`/tmp/…/15-spongebob-video/hojas_*`): vistas con `Read` directo sobre
+  los JPEG, sin volver a bajar vídeo ni usar `fotogramas.py`.
+- `bobesponja.fandom.com/api.php` (wikitext) — página «Lista de memes»: 1
+  consulta, en español.
+- `doblaje.fandom.com/es/api.php` (wikitext) — página «Bob Esponja»: 1
+  consulta de comprobación, ya la tenía el ayudante anterior.
+- `fandubdb.fandom.com/api.php` (wikitext) — ficha de doblaje de Bob
+  Esponja, en inglés: 1 consulta.
+- `arctic-shift.photon-reddit.com` (Reddit r/spongebob): 4 búsquedas en
+  inglés («makes me cry», «favorite character», «identify with squidward»
+  -falló-, «Dying for Pie»).
+- **Búsquedas web** (todas en español o inglés, el buscador principal de
+  esta obra al ser occidental): «fandub bob esponja español latino
+  youtube», «"bob esponja" premios Emmy Kids Choice Awards Guinness
+  récord», «cover tema apertura bob esponja español latino youtube»,
+  «tiktok bob esponja fandub doblaje fans "voz de" viral», «"Dying for
+  Pie" ending music cue Friends Forever», «"Gary Come Home" spongebob
+  movie scene desert crying fans reaction», «watchmojo Top 10 Saddest
+  SpongeBob SquarePants Moments», «SpongeBob franquicia ingresos 13 mil
+  millones Nickelodeon más exitosa», «Nickelodeon official poll vote
+  favorite SpongeBob character», «"Melanie Henríquez" actriz doblaje Karen
+  Bob Esponja España mudanza». 10 búsquedas de las ~50 del cupo.
+- Sitios que fallaron o no sirvieron: ninguno con 403 esta tanda (la red
+  abierta funcionó bien); Reddit vía Arctic Shift necesitó cabecera
+  `User-Agent` para no dar 403 con `urllib` (con `curl -A` funcionó a la
+  primera).
+
+Tanda terminada: los 7 puntos (7, 8, 12, 13, 20, 21, 22) tienen al menos una
+fuente cada uno; lo que falta son extras, ya anotados en «No encontré» con
+⚠️. No queda «Sigue:» pendiente.

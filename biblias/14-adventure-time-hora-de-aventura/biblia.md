@@ -1806,40 +1806,97 @@ transcripción); Finn, Jake y la Princesa **2-3 vistas** cada uno, BMO
   [Adventure Time Wiki: Outfits](https://adventuretime.fandom.com/wiki/Marceline/Outfits)).
 - **La que más lleva** (la que todos reconocen): **camiseta gris de
   tirantes, vaqueros azules y botas rojas** («Evicted!», «The Duke»,
-  «Power Animal»…) ✅.
+  «Power Animal»…) ✅. Vista entera en hoja 2 **#51** («Marceline
+  Presentation», 1382×2136). En el tráiler de «Obsidian» vuelve la
+  **camiseta gris** (0:20) ✅.
+
+**Tres trajes medidos en la segunda pasada** (Pillow y `estilo.py`):
+
+| Traje | Hex medido | De dónde |
+|---|---|---|
+| **«New Costume #1»**: vestido camisero azul grisáceo, sin mangas | tela **`#83A5BC`**, zapatos granate **`#8C284F`**, piel `#D8E7E7`, pelo `#000000` | [*model sheet* oficial, ep. 057]({W}3/34/Modelsheet_Marceline_-_New_Costume_-1.png) (hoja 1 **#9**). **El más fiable**: sin luz de escena |
+| **Suéter a rayas rojo y oscuro**, cuello alto, manga larga | de noche: `#5F120D` y `#090B25`, piel `#D8E0E8` ([«S2e1 Drama bomb»]({W}8/85/S2e1_Drama_bomb.png)); en «Fry Song» 0:16: `#630515` y `#2C080C` | dos fuentes; los dos fotogramas están oscurecidos por la escena, de día sería más vivo |
+| **Top rojo y sombrero de ala ancha** («I'm Just Your Problem») | top `#8C000C`-`#90000A`, sombrero **`#BBAB4C`** (luz) y `#75691D` (sombra), cinta `#4A7AA2` | fotograma 0:52 del clip oficial; el sombrero es **dato nuevo** (hoja 1 **#20**, hoja 9 **#391-392**) |
+| Chaqueta gris oliva sobre camiseta, tocando | sin hex (no se separó la tela del fondo) ⚠️ | [«S7e7 Marceline playing ax bass»]({W}3/33/S7e7_Marceline_playing_ax_bass.png) |
+
+- **Corrección**: la «más icónica» no es sólo la camiseta gris; el
+  **suéter a rayas** con cuello alto también se repite mucho ✅ (imagen).
 - Otra muy popular: **chaqueta corta rosa y morada, pantalón corto
   magenta y botas altas rosas**, a veces con **camiseta de rock** ⚠️ (una
   fuente la llama «la más icónica»).
-- **De día**: **sombrero de sol y guantes** ✅ (3×10).
+- **De día**: **sombrero de sol y guantes** ✅ (3×10; visto en el clip
+  oficial y en el *model sheet* «with sun resistant gloves, boots, hat»,
+  hoja 1 **#20**). Siempre lleva **algo rojo** «por si acaso» (§C).
 - «Obsidian»: **ropa de motorista**, en moto con la Princesa detrás ✅
   («full biker gear», ≈11:49).
 - De niña: camiseta de tirantes verde, pantalón marrón morado, botas
   moradas oscuras; o camiseta rosa y peto azul ✅ (wiki, por búsqueda).
-- **Pelo**: **negro, lisísimo y larguísimo**, hasta las rodillas o más ⚠️.
-- **Fijo**: piel gris azulada, **orejas puntiagudas**, **dos marcas de
-  mordida en el cuello** ⚠️ (de memoria).
+- **Pelo**: **negro puro** (`#000000`, medido dos veces) ✅, **lisísimo y
+  larguísimo**, hasta las rodillas o más (visto en los *model sheets*,
+  hoja 1 **#1**, **#9**) ✅.
+- **Fijo**: **piel casi blanca con un toque menta, `#D8E7E7`** ✅
+  (**corrige** el «gris azulado» `#A9B8C2` de la primera pasada),
+  **orejas puntiagudas** ✅ (vistas en los *model sheets*), **dos marcas
+  de mordida en el cuello** ⚠️ (de memoria).
+- Bocetos de vestuario para el final, de **Tom Herpich** (1280×1673, en
+  la wiki) ✅.
 
-### Finn ⚠️ (de memoria)
-Gorro blanco con **orejas de oso**, camiseta celeste, pantalón corto azul
-oscuro, calcetines blancos altos, zapatos negros, **mochila verde**.
+### Finn ✅ (medido en el *model sheet*)
+Gorro blanco con **orejas de oso**, **camiseta azul `#018BCB`**, pantalón
+corto azul oscuro, calcetines blancos altos, zapatos negros, **mochila
+verde `#7BBB59`**, **piel durazno pálido `#FDE5DA`** ✅
+([«Original Finn», 1467×2385](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f3/Original_Finn.png), hoja 1 **#48**).
+**Corrige** la «camiseta celeste» `#35A9E0` de memoria. Pantalón y
+zapatos, sin medir ⚠️.
 
-### Jake ⚠️
-Sin ropa; amarillo anaranjado, **orejas caídas**, hocico claro.
+### Jake ✅ (medido)
+Sin ropa; **amarillo anaranjado `#FEB925`** (40 % de la imagen),
+**orejas caídas**, hocico claro ([«Jakesalad», 1700×2455](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/3b/Jakesalad.png),
+hoja 1 **#45**). Coincide con lo que se decía de memoria.
 
-### Dulce Princesa ⚠️
-Piel y pelo rosa chicle, **corona dorada** con gema azul, vestido rosa;
-bata de laboratorio y gafas cuando hace ciencia.
+### Dulce Princesa (medida a medias)
+Piel y pelo **rosa chicle en dos tonos, `#ED8ACE` y `#F3BBFB`** (zonas de
+luz) ✅ ([«Princess Bubblegum Duct Tape», 2880×1618](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f5/Princess_Bubblegum_Duct_Tape.png),
+hoja 1 **#43**). **Corona dorada** con gema azul ⚠️ (no se aisló un
+píxel limpio). Vestido rosa; bata de laboratorio y gafas cuando hace
+ciencia ⚠️. Es el personaje con **más vestuarios** de la serie ✅ (wiki);
+muchos en hoja 2 **#67-93** (1920×1200).
 
 ### BMO ⚠️
-Consola turquesa, **pantalla con cara**, cruceta amarilla, botones de
-colores, piernas y brazos finitos.
+Consola turquesa (`#6CC3B3`, de memoria: el rosa del fondo tapaba la
+muestra), **pantalla con cara**, cruceta amarilla, botones de colores,
+piernas y brazos finitos. Hoja 2 **#62** (BMO transformándose).
 
 ---
 
 ## 17 · Paisajes y fondos de pantalla
 
-- **No bajé ni medí ninguno** (red cerrada). Lo que existe y conviene
-  buscar desde un PC con red:
+### 17.1 Fondos de pantalla de fans, con tamaño y autor (Wallhaven) ✅
+
+Leídos en la API de Wallhaven (`purity=sfw`). **Son fan art**, no
+oficiales: para mirar, no para pegar.
+
+| Enlace | Tamaño | Autor | Favoritos | Qué es |
+|---|---|---|---|---|
+| [zxo8vg](https://wallhaven.cc/w/zxo8vg) | **3600×2400** | RaidMath | 40 | todo el elenco (Marceline, Princesa, Jake, Rey Helado, BMO, Lady Arcoíris) sobre fondo de Cartoon Network: **el mejor de conjunto** |
+| [0wy167](https://wallhaven.cc/w/0wy167) | 1800×1000 | Oniofash | 52 | collage de Marceline, Simon y la Princesa |
+| [45zpo5](https://wallhaven.cc/w/45zpo5) | 1639×1165 | Linez | 34 | Jake, Finn, la Princesa y Marceline juntos |
+| [0wxpgp](https://wallhaven.cc/w/0wxpgp) | 1920×1036 | 8bitcartoon | 57 | Finn y Jake en **pixel art**: paleta reducida |
+
+**Fondos oficiales** en alta, pensados como fondo de pantalla: **no
+encontré** una página de descargas de Cartoon Network ⚠️. Lo oficial más
+grande son el arte de los discos (§3.4), los *model sheets* (§3.7) y las
+capturas de la wiki en 2880×1620 (§3.0).
+
+**Paisajes con su luz y su hora** (vistos, §5.2): la casa de Marceline
+por dentro (luz plana y cálida, rosa); la puerta de los círculos dorados
+(tarde despejada); el Reino de Cristal (noche violeta y cian); el opening
+(laguna helada, valle verde, cresta bajo tormenta). La casa del árbol en
+3D con licencia CC BY: §4.1.
+
+### 17.2 Lo de la primera pasada
+
+- Lo que existe y conviene buscar desde un PC con red:
   - **Arte de los discos** (§3.4): la caja de Mondo (JJ Harrison), «Come
     Along With Me» y «BMO's Mixtape» (Jesse Balmer), «Obsidian» (Maya
     Petersen). Son **ilustraciones oficiales grandes y nuevas**.
@@ -1852,38 +1909,264 @@ colores, piernas y brazos finitos.
   - Una idea de fans para **LEGO de la casa-cueva de Marceline**:
     [LEGO Ideas](https://ideas.lego.com/product-ideas/8238723e-457a-45b2-894c-a13fca85eeda)
     (sirve para ver la casa en 3D) ⚠️.
-- La hora del día: **noche o cueva** para Marceline; **tarde dorada**
-  para la casa del árbol ⚠️ (§5.2).
+- La hora del día: **noche o cueva** para Marceline ⚠️ (en vídeo también
+  sale de tarde y en su casa rosa, §5.2); **tarde dorada** para la casa
+  del árbol ⚠️.
 
 ---
 
 ## A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
 
-_(pendiente)_
+### A.1 Cómo se hacía de verdad
+
+- **Dibujo a mano en papel**, luego **compuesto y pintado en digital**
+  («hand-drawn on paper, which was then digitally composited and painted
+  with digital ink and paint») ✅
+  ([Wikipedia, «Animation»](https://en.wikipedia.org/wiki/Adventure_Time)).
+- La **preproducción** (objetos, personajes, fondos) se hacía **sobre todo
+  en Photoshop**, según **Phil Rynda**, diseñador principal ⚠️ (el dato de
+  Photoshop sólo lo da Wikipedia citando una entrevista que no se
+  encontró; que Rynda es el diseñador principal sí está en dos fuentes:
+  Wikipedia y su [ficha de la wiki](https://adventuretime.fandom.com/wiki/Phil_Rynda),
+  y sale en los créditos vistos, §2.9).
+- La **animación** se hacía en **Corea del Sur** (**Rough Draft Korea** o
+  **Saerom Animation**); el diseño y el color final, en **Cartoon Network
+  Studios**, Burbank ⚠️ (una fuente).
+- **Nick Jennings**, director de arte, dirigía el departamento y pintó
+  muchas cartelas ✅ ([ficha](https://adventuretime.fandom.com/wiki/Nick_Jennings)).
+  Fondos de la T1: **Ghostshrimp** y **Santino Lascano**; pintura: **Sue
+  Mondt** y **Martin Ansolabehere** ⚠️ (una fuente).
+- **Fred Seibert**, productor ejecutivo, comparó el estilo con **Felix
+  the Cat** y los dibujos de **Max Fleischer** ⚠️ (una fuente).
+- Las **cartelas de título**: papel viejo escaneado y **tramado de cómic
+  viejo** (§3.2) ✅.
+
+### A.2 Línea, color y sombra
+
+- **Contorno negro limpio**, con un **ligero temblor de mano** (más grueso
+  en las primeras temporadas) ⚠️ (análisis de fans que coinciden, no un
+  *making of*).
+- **Colores planos y saturados**, casi sin degradados: sombra de **1-2
+  tonos** como mucho ✅ (visto: la casa de Marceline tiene luz plana sin
+  sombras marcadas, §5.2).
+- **Excepción**: en «Tierras lejanas» los fondos van **pintados con
+  degradado** (el camino al Reino de Cristal, medido con `estilo.py`) ✅.
+- **Formas simples y geométricas**: el cuerpo de Finn es casi una
+  habichuela; **brazos de fideo** sin codos; **ojos de punto** ✅ (notas de
+  dibujo de Ward, §18.1).
+- **Filtros**: no se encontró ningún dato de grano, brillo o aberración
+  en la serie (búsqueda «film grain post-production Adventure Time») ⚠️.
+  El grano y el tramado que sí están documentados son los de las
+  **cartelas** ✅ (§3.2).
+
+### A.3 Encuadres y composición (lo visto en los clips)
+
+No hay entrevista sobre planos y ángulos ⚠️. Lo que sí se vio:
+- **Tristeza**: primerísimo primer plano de la cara, cantando («Fry Song»
+  0:32; la lágrima de «I Remember You»).
+- **Rabia**: primer plano, ceño y colmillos («I'm Just Your Problem» 0:52).
+- **Pensar o dudar**: plano medio, **mano en la cabeza** («I Remember
+  You» 0:24).
+- **Viajar o avanzar**: plano general, el personaje **pequeño en el
+  paisaje** (tráiler de «Obsidian» 0:36).
+- **Celebrar o presentar en grupo**: plano medio largo, de pie, con el
+  bajo al hombro (tráiler de «Obsidian» 1:08).
+- **Un objeto clave**: plano detalle aislado (la **grabadora amarilla**
+  en «Fry Song» 0:12; la **Polaroid** en «I Remember You» 1:36).
+
+### A.4 Cómo reproducirlo en Photoshop
+
+Propuesta práctica, coherente con el flujo real (papel → tinta digital →
+color plano):
+- Capa de **línea** aparte: pincel de tinta duro, opacidad 100 %, sin
+  textura, **3-4 px** en un lienzo de 1500 px de ancho.
+- **Color base debajo** de la línea, con el cubo de relleno (bordes
+  duros, sin degradado). Colores de §5.3.
+- **Sombra en una sola capa «Multiplicar»**, un solo tono, sin aerógrafo.
+- Para una **cartela**: textura de **papel viejo** en «Multiplicar» o
+  «Superponer», a baja opacidad, y un **tramado** encima (§B).
+
+### A.5 Cómo reproducirlo en Blender
+
+- **Contorno**: modificador **Solidify** con normales invertidas y grosor
+  0,01-0,02 («casco invertido», funciona en Eevee), o **Freestyle** para
+  línea automática ✅ (técnica documentada:
+  [Blender Studio, Toon Character Workflow](https://studio.blender.org/training/toon-character-workflow/5859a5da1f47427e3fe82330/),
+  [BlenderNation](https://www.blendernation.com/2020/02/06/how-to-make-a-toon-shader-with-dynamic-outlines/);
+  genérica, no del estudio).
+- **Sombreado**: un *toon shader*, o **Diffuse + ColorRamp** cortando la
+  sombra en 1-2 tonos duros.
+- **Luz**: una luz suave principal y poco más: la serie casi no tiene
+  sombras proyectadas. En el Reino de Cristal, luz violeta con rebote cian
+  (§5.3).
+- **Modelos y rigs libres** con licencia leída en la API de Sketchfab
+  (§4.1): el **bajo de Haxis** (CC BY), **Marceline de coffe0wolf** (CC
+  BY, maniquí), **Finn de Agu.3D** (CC BY, 64 992 caras) o de **Nico
+  Caraballo** (1 548 caras), **Jake de Mormont** (CC BY) y **la casa del
+  árbol de gleksono** (CC BY).
+- **Texturas encima**: sólo en objetos «reales» del mundo (cartón de la
+  funda, papel), con material plano; ver §B.
 
 ---
 
 ## B · Texturas 2D (punto 19)
 
-_(pendiente)_
+No es manga: **no hay tramas japonesas**. Sus equivalentes son:
+- El **tramado (*dithering*) de las cartelas** sobre **papel viejo
+  escaneado** (Phil Rynda, Paul Linsley, Nick Jennings) ✅ (§3.2).
+- El **punteado de cómic** de los tebeos de BOOM!: color plano con sombra
+  en trama, como el cómic americano de la época ⚠️ (descripción, sin
+  página medida).
+- **Patrones de ropa**: las **rayas** del suéter de Marceline (§16) y el
+  **gorro de oso** de Finn. **Emblemas**: el logo de la serie
+  ([1069×519](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/thumb/b/bd/Adventure_Time_logo.png)) ✅.
+
+**Tramas y *halftone* libres**:
+
+| Qué | Dónde | Licencia |
+|---|---|---|
+| 12 texturas de *halftone* desgastado | [Spoon Graphics](https://blog.spoongraphics.co.uk/freebies/free-pack-of-12-distressed-halftone-pattern-textures) | descarga gratis, sin registro ✅ |
+| +35 texturas y patrones de *halftone* | [PhotoshopSupply](https://www.photoshopsupply.com/patterns-textures/halftone-texture) | gratis ✅ |
+| Pinceles de *halftone* | [Brusheezy](https://www.brusheezy.com/free/halftone-texture) | **cambia de un pincel a otro** ⚠️: mirar cada uno |
+
+**Papel, cartón, tela, madera y cuero reales** (ambientCG, **CC0**, sin
+crédito obligatorio; licencia leída en su API) ✅:
+
+| Uso | Textura |
+|---|---|
+| Papel viejo de cartelas, librito del disco, nota de Finn | [Paper001-006](https://ambientcg.com/list?type=Material&q=paper) |
+| Funda de cartón del vinilo | [Cardboard001-004](https://ambientcg.com/list?type=Material&q=cardboard) |
+| Tela de ropa (Finn, Marceline) | [Fabric081C, 061, 066](https://ambientcg.com/list?type=Material&q=fabric) |
+| Mástil del bajo, muebles | [Wood092, 094, 095](https://ambientcg.com/list?type=Material&q=wood) |
+| Botas de Marceline y Finn | [Leather026, 030, 037, 038](https://ambientcg.com/list?type=Material&q=leather) |
+
+Con esto las tres capas están: **tramado** (arriba), **materiales
+reales** (ambientCG, Poly Haven en §5.4) y **3D con licencia**
+(Sketchfab, §4.1).
 
 ---
 
 ## C · Gustos y detalles de cada personaje (punto 20)
 
-_(pendiente)_
+Todo sale de las fichas y curiosidades de la
+[Adventure Time Wiki](https://adventuretime.fandom.com/wiki/Marceline) (wikitext leído por su API), con el
+episodio que lo confirma. **Ninguna ficha trae altura** en cm: no se
+inventa. *The Adventure Time Encyclopædia* (Martin Olson, 2013) tiene
+fichas en la voz de cada personaje, pero **no se pudo leer** (la copia
+de Scribd no cargó) ⚠️.
+
+| | Marceline | Finn | Jake | Dulce Princesa | BMO | Rey Helado / Simon |
+|---|---|---|---|---|---|---|
+| **Comida** | **no bebe sangre: come el color rojo**; los **tomates** le dan sueños lúcidos («Marceline's Closet») ✅ | **pastel de carne** (*meatloaf*), en tres episodios ✅ | pay, hamburguesas, helado; **el chocolate lo mataría** ✅ | **espagueti** (se enfada si se le cae) ✅ | — | — |
+| **Aficiones** | música (bajo-hacha), **baloncesto** («Simon & Marcy») ✅ | ser héroe; la nana de su madre adoptiva, que se sabe de memoria ✅ | **cocinar** (bacon pancakes, café, «Everything Burrito»), viola, beatbox ✅ | ciencia; toca la **trompeta** («Bad Timing») ✅ | sus juegos (es una consola, con juegos «clones» de Atari) ✅ | videojuegos y dibujos torpes de princesas en una computadora vieja ✅ |
+| **Color favorito** | no consta; **siempre lleva algo rojo** «por si acaso» (para comérselo), salvo en «Red Starved» ✅ | **azul bebé** «de niño» («The Silent King») ✅ | — | **rosa** («The Real You») ✅ | — | — |
+| **Lo que odia o le cuesta** | que la olviden; la inmortalidad (§8) | las escenas románticas (vomita, «Go With Me»); es **daltónico rojo-verde** («Red Starved») ✅ | — | bajo estrés **come de más** ✅ | llora si Finn se afeita la cabeza («Davey») ✅ | no recuerda por qué quiere una princesa |
+| **Objeto que siempre lleva** | el **bajo-hacha** ✅; su osito **Hambo** | su **espada** (varias) y la **mochila**; la cajita de música de su madre adoptiva ✅ | — | su pájaro veloz **Morrow** para moverse ✅ | **su mando**, «BMO's prized possession» («What Was Missing») ✅ | la **corona** (poder y locura) ✅ |
+| **Mascota** | **Schwabl**, un caniche zombi ✅ | — | — | — | — | — |
+| **Cumpleaños / edad** | **27 de junio** ✅ (ficha); «mil años» | empieza con 12 ⚠️ | — | **827 años** ✅ | «VER. 2600», especie «110 VOLT-60 HERTZ SYSTEM» (ficha de un DVD, guiño a Atari) ✅ | — |
+| **Cómo se ve** | «No soy mala; perdí de vista mi código moral» ⚠️ (traducción) | el «sheriff moral» de Ooo; sufre si no puede ayudar ✅ | el mentor sabio, aunque sabe que sus consejos no siempre sirven ✅ | la que todo lo sabe: «all magic is science» ✅ | «incapable of emotion» (no es verdad) ✅ | Simon: responsable de Marceline; el Rey: sólo sabe que «quiere una princesa» ✅ |
+| **Detalle raro** | protector solar **FPS 10 000 000** («Marceline the Vampire Queen») ✅ | — | quizá disléxico ⚠️ | en situaciones límite **se come a gente-dulce** para «reponer biomasa» (lo confirmó el showrunner Adam Muto) ✅ | — | **tatuaje de pingüino** en el glúteo ⚠️ |
+| **Altura** | «alta y delgada», más que la Princesa ⚠️ sin cifra | sin cifra ⚠️ | sin cifra ⚠️ | sin cifra ⚠️ | sin cifra ⚠️ | sin cifra ⚠️ |
+
+Las casillas con «—» son datos que **no se encontraron** en las fichas.
 
 ---
 
 ## D · Por qué la gente la ama (punto 21)
 
-_(pendiente)_
+### D.1 Premios ✅
+
+**8 Primetime Emmy**, **1 Peabody**, **3 Annie**, **2 British Academy
+Children's Awards**, un Motion Picture Sound Editors Award y un premio
+*Kerrang!* ([Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time)).
+«**Simon & Marcy**» (4×24) fue nominado al Emmy en 2013; el final, «**Come
+Along With Me**», al Emmy Creative Arts en 2019
+([Wikipedia: Ice King](https://en.wikipedia.org/wiki/Ice_King),
+[Come Along with Me](https://en.wikipedia.org/wiki/Come_Along_with_Me_(Adventure_Time))).
+«**Obsidian**», nominado al **GLAAD Media Award** ✅.
+
+### D.2 Por qué conecta (la crítica) ✅
+
+- **Crecer de verdad**: *Vox* (Emily VanDerWerff) la llamó «la mejor
+  historia de crecimiento de esta era»; Finn pasa «de niño a casi
+  hombre». *Comic Book Resources*: de «niño amable» a «joven noble».
+- **Salud mental**: *Vulture* lee el arco del Rey Helado como una
+  metáfora del **Alzheimer** y la soledad. *Teen Vogue* destaca a
+  Marceline por venir de una **familia no tradicional** con emociones que
+  «a veces reflejaban depresión».
+- **Representación LGBTQ+**: la revista *Them* llamó a Marceline «uno de
+  los mejores retratos de angustia bisexual» de la animación; su relación
+  con la Dulce Princesa, canon en el final y ampliada en «Obsidian», es
+  el ejemplo más citado de su época.
+- **Imaginación pura**: humor fácil con temas serios (guerra nuclear,
+  muerte, identidad); «una de las caricaturas más distintivas».
+
+### D.3 Con quién se identifica el público ✅
+
+- **Finn**: crece con su público; *Entertainment Weekly* lo compara con
+  los niños que crecieron con Harry Potter. Hubo **una carroza de Finn en
+  el desfile de Macy's de 2013**; Finn y Jake están entre los disfraces más
+  vistos (*The Daily Beast*, 2019).
+- **Simon / Rey Helado**: tragedia enorme más torpeza de todos los días;
+  por eso es «el favorito de mucha gente» (*Vulture*).
+- **Marceline**: adolescentes y jóvenes que se ven en su lado punk y en
+  la tristeza bajo la fachada dura; y el público LGBTQ+, por su relación
+  con la Princesa.
+
+### D.4 Las escenas que hacen llorar
+
+| Escena | Qué pasa y por qué duele | Música | Cómo está dibujada | Cómo reaccionó la gente |
+|---|---|---|---|---|
+| **«I Remember You»** (4×25, ≈8:49 en el episodio) | Marceline le canta a Simon **la carta que él le escribió** cuando aún era humano y se volvía loco por la corona. Él no la recuerda | «Remember You» / «Recordándote»: **omnichord y batería** del Rey Helado, bajo de ella | visto en el clip: **casa rosa, luz plana**; primer plano con **una lágrima**; plano detalle de una **Polaroid** de ella niña; **flashback entre ruinas** con Hambo ([clip](https://www.dailymotion.com/video/xzt1l7?t=96)) ✅ | *io9*: «una de las cosas más intensas que he visto en años»; se tiene por el giro de la serie en salud mental ✅ |
+| **«Simon & Marcy»** (4×24) | Simon cuida a Marcy niña en el apocalipsis mientras pierde la cabeza | ⚠️ no consta | hoja 9 **#417-422** (ruinas, puente, moto) | nominado al Emmy; en los «10 mejores episodios» de *Geek.com* ✅ |
+| **«Come Along With Me» / «Ven Conmigo»** (10×13) | el final: despedida de todo Ooo | «Come Along With Me» (Ashley Eriksson); «Time Adventure» | ⚠️ sin clip | crítica: «desgarrador», «extraño y triste y tonto y divertido». Reddit, r/adventuretime: «**I definitely cried on the last episode and my mom thought I was faking**» (**1186 puntos**) y «Just cried when finishing the last episode» (167) ✅ ([Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=adventuretime&title=cried&limit=15&sort=desc)) |
+| **«Obsidian»** (2020) | Marceline y la Princesa, por fin juntas y felices; ella canta «Monster» | «Monster» | tráiler visto: violetas y cian, luz de atardecer al final ✅ | nominación GLAAD; «por fin, felices juntas» ✅ |
+
+**Las que hacen reír**: «Bacon Pancakes» (4×16), el siseo y el guiño de
+Marceline, «¡Oh por Glob!», Jake con modismos mexicanos (§14.1).
+**Las que hacen gritar de emoción**: el beso del final (10×13) y el
+«I am proud of my punk daughter!» de Hunson (10×07). Vídeos de reacción
+con votos: no se pudieron ver (YouTube) ⚠️.
 
 ---
 
 ## E · Fan dubs y comunidad hispana (punto 22)
 
-_(pendiente)_
+YouTube pide iniciar sesión desde el servidor y TikTok no da datos sin
+JavaScript: **existen, pero las vistas y fechas no se pudieron
+comprobar** ⚠️. Se citan con lo que sí se vio (título, canal, tema).
+
+- **La campaña por Karla Falcón** ✅, el ejemplo más fuerte de la
+  comunidad hispana: cuando cambiaron su voz de la Dulce Princesa por la
+  de Claudia Urbán, los fans hicieron **peticiones firmadas** (en
+  peticionpublica.es), un **grupo de Facebook** («Evitemos que cambien las
+  voces…»), una queja en la wiki en español y un hilo en **McAnime**. Falcón
+  **volvió en la T4, ep. 96, «Rey Gusano»** (Doblaje Wiki enlaza las
+  fuentes).
+- **Fandubs en YouTube** ⚠️ (vistas sin comprobar): «Hora De Aventura -
+  Chico Malo (Fandub Español Latino)», «Hora de aventura "Parodia"
+  (Fandub español latino)», «Hora De Aventura Demasiado Joven (Fandub
+  Español Latino) Clip», «Muchachito malo | Hora de Aventura | Español
+  latino - Fandub» y la serie **«Cómics de Hora de aventura (Fandub
+  español)»**, del #2 al #7 al menos, la última de **septiembre de 2024**.
+- **Fandub en TikTok** ⚠️: **@angelon_2002_fandubs**, escena de
+  «**Estacas**» con el **Hierofante Vampiro** doblado por «Artista
+  Galáctico», con #fandubcomunidad #fandoblaje #horadeaventura.
+- **Comparar doblajes** ⚠️: **@whiderlin_hot** compara «**Soy tu
+  problema**» en latino y en castellano (#horadeaventuralatino
+  #horadeaventurascastellano).
+- **Actores latinos en convenciones** ✅: Isabel Martiñón en la Expomac de
+  Veracruz y en Starcon; Karla Falcón en Festigame 2024 (§10.2). José
+  Arenas vuelve como Jake en «Misiones Secundarias» (2026).
+- **Letras traducidas por fans** ✅: LyricsTranslate, Letras.com y Cifra
+  Club traen «I Remember You» y «Everything Stays» en español.
+- **La versión oficial cantada en español** existe (disco «Marceline
+  Canta», 2019, §3.4): es la base sobre la que se hacen los covers ✅.
+- **Memes hispanos**: los **modismos mexicanos de Jake** («¡Ay, Jojutla!»,
+  «Nunca me hagan eso», §10.4) y la polémica de su cambio de voz ✅ (§10.3).
+- **No encontré** un canal de fandub en español con cifras grandes y
+  comprobables ⚠️. Quien tenga YouTube sin bloqueo: buscar «Hora de
+  aventura fandub capítulo completo».
 
 ---
 
