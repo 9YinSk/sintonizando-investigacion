@@ -94,3 +94,37 @@ azul) pero con datos medidos, no de memoria.
 llevan enlace comprobado en §5.4 de la biblia — cuero negro, papel, madera de
 ambientCG).
 
+---
+
+## 9 · Música y sonido: qué tema suena en cada escena (con nombre real de pista)
+
+La biblia (§11) sólo tenía «L's Theme» y «Low of Solipsism» de forma
+genérica. Identifiqué los temas reales episodio a episodio con
+[wtas.moe](https://wtas.moe) (reconocimiento automático de audio contra la
+OST) y los crucé con el **tracklist oficial** de
+[Wikipedia: Death Note original soundtracks](https://en.wikipedia.org/wiki/Death_Note_original_soundtracks)
+(pistas y números de la OST I, II y III, VAP 2006-2007) ✅.
+
+| Escena | Ep., minuto | Tema que suena | Fuente |
+|---|---|---|---|
+| **L muere en brazos de Light** (la sonrisa) | 25, 17:13 en adelante | **«Kyrie II»** (pista 1 de la OST II) | wtas.moe (reconocimiento de audio) ✅ + Wikipedia (existe en el tracklist) ✅ |
+| Openings de las dos mitades de la serie | 1-19 / 20-37 | «the WORLD» (TV Size, Nightmare) / «What's up, people?!» (TV Size, Maximum the Hormone) | wtas.moe detecta el TV Size al principio de cada episodio de su franja ✅ |
+| Endings | 1-19 / 20-36 | «Alumina» (TV Size) / «Zetsubou Billy» (TV Size) | wtas.moe ✅ |
+| Ep. 8 completo (incluye la papa frita, 18:35) | 8 | además de «Low Of Solipsism» y «Low of Solipsism II», suenan «Reasoning», «Himitsu», «Kuroi Light», «Kyrie» | wtas.moe (lista completa del episodio) ⚠️ una fuente, sin minuto exacto por pista |
+| Ep. 25 completo (la muerte de L) | 25 | «Semblance of Dualism», «Misa no Uta», «L no Theme», «L no Kabe», «Tactics of the Absolute», «Alert», «Domine Kira», «Requiem» | wtas.moe ⚠️ una fuente para el resto de pistas del episodio (sólo Kyrie II tiene el bloque horario 17:13 confirmado) |
+
+**Para la lámina**: el tema de las revelaciones y la muerte es **coral y
+fúnebre** («Kyrie», «Requiem», «Domine Kira» = «Señor Kira» en latín
+litúrgico, la serie usa canto gregoriano para Kira ✅ tres títulos en latín
+de iglesia, ver §11 de la biblia). El tema de pensar/deducir es piano y
+cuerdas («L no Theme»). Encaja con la paleta medida en el punto 4: interiores
+azul-violeta oscuro + acentos rojos en los momentos de esos temas corales.
+
+**Efectos y onomatopeyas reconocibles** (oídas en los fotogramas del punto 2,
+no de memoria): el tictac del segundero antes de los 40 segundos (ep. 36,
+20:55-21:10, «秒針の音» en el subtítulo japonés) y las campanas de iglesia
+antes de morir alguien (ep. 25, 00:01:57-00:02:23 y 00:10:30, «鐘の音»). Ya
+estaban anotadas en §2 de la biblia; las confirmo con el fotograma real (el
+tictac no tiene imagen propia, es sólo sonido sobre plano fijo del reloj de
+pared, comprobado al mirar el vídeo).
+

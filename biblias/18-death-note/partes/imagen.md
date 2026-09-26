@@ -240,7 +240,7 @@ independiente [LicenseOrg](https://www.licenseorg.com/guide/3d-assets/ambientcg)
 - **Cosplay** (para materiales y volumen reales, no para pegar): la
   gargantilla de cuero y las medias de encaje de Misa, y la camiseta/vaquero
   descalzo de L, son los disfraces más replicados; las guías con foto real
-  están en §15 (Carbon Costume, Anime Fire). No until encontré un cosplay
+  están en §15 (Carbon Costume, Anime Fire). No encontré un cosplay
   concreto premiado (tipo Crunchyroll Expo) con foto en alta y crédito
   claro ⚠️ (busqué «Death Note cosplay contest winner 2025/2026»: sólo
   salieron compilaciones sin autor).

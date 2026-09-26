@@ -264,3 +264,67 @@ francotiradora**; Ekko, el **bate con engranajes** (su Z-Drive) · ✅ ya
   contenido de esas páginas sin sesión — **no pude listar memes
   concretos con enlace** ⚠️.
 
+
+## Lo mejor para la lámina
+
+- **Jinx es, con mucho, la más querida** (Reddit/Screen Rant, Danbooru con 3613 dibujos, AO3): la protagonista natural de #arte.
+- **Cara de rabia de Vi, minuto exacto** (1×03, 23:30, fotograma visto y enlazado): sirve para «regañar»/expresión fuerte sin depender de memoria.
+- El chiste del doblaje **«bombón» → «pastelito»** (Vi a Caitlyn) es el cuadro de diálogo más reconocible y 100 % del doblaje latino: perfecto para una burbuja con voz propia.
+- **Jayce y Viktor** encajan con el mensaje de equipo de #proyectos: comparten altura confirmada (172 cm Viktor, cerca de Jayce), son pareja «Jayvik» top-15 en AO3 2024, y su vínculo es la historia que mejor resume «trabajar juntos».
+- La comunidad hispana **sí adapta la serie activamente** (5+ covers de «Enemy» en español, comparaciones de doblaje virales): un guiño a esos covers en #arte («acepto encargos», AMV/cover) conecta con el servidor.
+
+## No encontré
+
+- **Encuesta de personajes en IMDb** con resultado legible (`imdb.com/poll/ef72fiSOfgA`, pide sesión) ni **encuesta de popularidad en Corea** (busqué en coreano: `Arcane 인기 캐릭터 설문`) — punto 7.
+- **Estudio y director de doblaje de la T1** confirmados por un tercer sitio fuera del círculo Doblaje Wiki/Bolavip — punto 8.
+- **Frase latina exacta** de «Don't cry. You're perfect» (Silco, 1×09) — la busqué en Doblaje Wiki y por buscador, no aparece transcrita — punto 8 y 21.
+- **Cumpleaños exacto** de ningún personaje: Arcane no tiene databook occidental con esa ficha (sí hay altura y edad aproximada) — punto 20.
+- **Vistas exactas** de los covers de «Enemy» y de los fandubs en TikTok/YouTube: YouTube devolvió **429** a `navegar.py` en esta tanda (IP compartida); no reintenté más de una vez por vídeo, como pide `AYUDANTE.md` — punto 22.
+- **Fandub completo de una escena larga** (varios personajes, edición propia) en español: lo que hay es sobre todo covers de canciones y comparaciones del doblaje oficial — punto 22.
+- **Música exacta** en las muertes de Vander (1×06) y de Isha (2×06) — punto 21.
+- **Cara en cada emoción** de Jayce, Viktor, Caitlyn, Ekko y Silco (alegría, miedo, vergüenza en general): sólo me dio tiempo a bajar y mirar 1×03 (Vi y Jinx) — punto 13. **Sigue** abajo.
+
+## Bitácora
+
+**Repaso, sesión 2026-09-26.** Empecé por `partes/datos-voz.md` (ya lo
+había juntado `recolectar.py`: ficha de Doblaje Wiki completa, reparto
+latino, «datos de interés», textos de personalidad de Arcane Wiki,
+ranking de Danbooru, hilos de Reddit, clips de Dailymotion) y por
+`herramientas/seccion.py 17-arcane --rol voz` / `--avisos` para ver qué
+ya estaba en `biblia.md` (puntos 7, 8, 12 y 13 ya trabajados por el
+equipo «nueva»; **20, 21 y 22 no existían**).
+
+- **Español**: «ANMTV Arcane doblaje latino reparto Netflix», «Miguel de
+  León Jayce Arcane doblaje voz», «Arcane parodia meme español latino
+  tiktok bombón/pastelito», «fandub Arcane español latino Jinx Vi escena»,
+  «Arcane 인기 캐릭터 설문» (intento en coreano, sin resultado de encuesta).
+- **Inglés**: «Art and Making of Arcane character height chart», «Jinx
+  Arcane favorite food likes hobbies», «IMDb poll Arcane best character
+  results», «Arcane Emmy Awards won 2022 2025», «Arcane Vander death
+  scene episode reaction», «Arcane Isha death season 2 episode», «Arcane
+  season 1 Rotten Tomatoes Metacritic Netflix hours», «Reddit Arcane I
+  relate to Jinx Viktor», «Enemy Arcane cover español latino canal
+  YouTube opening», «Jinx Arcane quote There is no Jinx / loose cannon».
+- **Red directa** (no buscador): API de Doblaje Wiki
+  (`doblaje.fandom.com/es/api.php`, ficha completa de Arcane) y de Arcane
+  Wiki (`arcane.fandom.com/api.php`, ficha de Vander por
+  `action=parse&prop=wikitext` para confirmar el apuñalamiento de Silco);
+  `curl` directo a `comingsoon.net` y `desdelacuna.net` (reparto de
+  doblaje por capítulo, independiente de Doblaje Wiki) — este último
+  **cerró 4 ⚠️** del punto 8 (Jayce, Heimerdinger, Vander, Mel, Marcus).
+  `elvortex.com` da 404 ahora (lo tiene Wayback, no llegué a usarlo).
+- **`herramientas/fotogramas.py`**: tráiler oficial T1 en Dailymotion
+  (`x85f7g5`, cada 6 s, 28 fotogramas, y 5 al detalle) y el episodio
+  **1×03 completo** que ya tenía bajado el investigador de vídeo en
+  `/tmp/claude-0/trabajo/17-arcane-video/` (Internet Archive,
+  `arcane-season-1-60fps`, 1080p): saqué 3 fotogramas propios con emoción
+  clara (Vi rabia 23:30, Powder tristeza 24:45, Powder miedo 27:15). No until
+  volví a bajar el vídeo: ya estaba en el disco compartido.
+- **`herramientas/navegar.py`**: funcionó (200) en `tiktok.com`, pero dio
+  **429** dos veces seguidas en `youtube.com/watch` — lo dejé, según pide
+  `AYUDANTE.md` (no más de un reintento).
+- **Doblaje Wiki, muestras de audio** (`herramientas/voz.py`): quedaron
+  identificadas en `datos-voz.md` (Mel ×3, Viktor ×4, Silco ×1) pero **no
+  llegué a correrlas**: es lo primero que dejo para quien siga.
+
+Sigue: completar la tabla «cara en cada emoción» del punto 13 para Jayce, Viktor, Caitlyn, Ekko y Silco (sólo se miró 1×03, centrado en Vi y Jinx) y las emociones alegría y vergüenza que faltan incluso de Vi y Jinx — falta bajar y mirar un episodio o escena centrada en cada uno de esos cinco personajes.
