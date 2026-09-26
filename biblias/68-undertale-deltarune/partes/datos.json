@@ -1,0 +1,812 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/8/8d/Undertale_artwork_Kickstarter.png",
+  "fuente": "Fandom undertale",
+  "ancho": 1536,
+  "alto": 1152,
+  "que_es": "Frisk: Undertale artwork Kickstarter.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/f/f8/Frisk_overworld.png",
+  "fuente": "Fandom undertale",
+  "ancho": 702,
+  "alto": 1070,
+  "que_es": "Frisk: Frisk overworld.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/4/4d/Small_Bird_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Frisk: Small Bird tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/2/27/Sans_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Frisk: Sans tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/c/c2/Frisk_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Frisk: Frisk tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/6/61/Frisk_artwork_Little_Buddy.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Frisk: Frisk artwork Little Buddy.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/c/c7/Frisk-canonically-hates-soda-v0-v7hxsp2nn5t81.webp",
+  "fuente": "Fandom undertale",
+  "ancho": 828,
+  "alto": 649,
+  "que_es": "Frisk: Frisk-canonically-hates-soda-v0-v7hxsp2nn5t81.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/d/dc/Frisk_artwork_Nendoroid.png",
+  "fuente": "Fandom undertale",
+  "ancho": 600,
+  "alto": 800,
+  "que_es": "Frisk: Frisk artwork Nendoroid.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/1/1b/Undertale_artwork_postcard.png",
+  "fuente": "Fandom undertale",
+  "ancho": 800,
+  "alto": 571,
+  "que_es": "Frisk: Undertale artwork postcard.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/2/26/Doggo_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 400,
+  "alto": 918,
+  "que_es": "Frisk: Doggo tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/9/97/Sans_artwork_Steam_card.jpg",
+  "fuente": "Fandom undertale",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Sans: Sans artwork Steam card.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/9/90/Sans_Sprite.webp",
+  "fuente": "Fandom undertale",
+  "ancho": 1000,
+  "alto": 1314,
+  "que_es": "Sans: Sans Sprite.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/c/c0/Grillby_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Sans: Grillby tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/6/61/Sans_artwork_plush.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Sans: Sans artwork plush.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/9/95/Sans_artwork_Little_Buddy.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Sans: Sans artwork Little Buddy.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/a/a7/Sans_artwork_Nendoroid.png",
+  "fuente": "Fandom undertale",
+  "ancho": 600,
+  "alto": 800,
+  "que_es": "Sans: Sans artwork Nendoroid.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/7/79/Waterfall_location_Sans_telescope.png",
+  "fuente": "Fandom undertale",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Sans: Waterfall location Sans telescope.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/1/1a/Sans_screenshot_head_dogs.png",
+  "fuente": "Fandom undertale",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Sans: Sans screenshot head dogs.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/f/fb/Papyrus_screenshot_no_font.png",
+  "fuente": "Fandom undertale",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Papyrus: Papyrus screenshot no font.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/1/19/Papyrus_artwork_Steam_card.jpg",
+  "fuente": "Fandom undertale",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Papyrus: Papyrus artwork Steam card.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/3/32/Papyrus_Sprite.webp",
+  "fuente": "Fandom undertale",
+  "ancho": 1000,
+  "alto": 1478,
+  "que_es": "Papyrus: Papyrus Sprite.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/1/1f/Papyrus_artwork_concept.png",
+  "fuente": "Fandom undertale",
+  "ancho": 890,
+  "alto": 1290,
+  "que_es": "Papyrus: Papyrus artwork concept.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/a/ac/Papyrus_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 500,
+  "alto": 1147,
+  "que_es": "Papyrus: Papyrus tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/a/a6/Papyrus_artwork_plush.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Papyrus: Papyrus artwork plush.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/8/8a/Papyrus_artwork_Little_Buddy.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Papyrus: Papyrus artwork Little Buddy.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/0/0f/Papyrus_artwork_Nendoroid.png",
+  "fuente": "Fandom undertale",
+  "ancho": 600,
+  "alto": 800,
+  "que_es": "Papyrus: Papyrus artwork Nendoroid.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/8/86/Snowdin_screenshot_Famitsu.png",
+  "fuente": "Fandom undertale",
+  "ancho": 663,
+  "alto": 507,
+  "que_es": "Papyrus: Snowdin screenshot Famitsu.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/9/93/Toriel_artwork_Steam_card.jpg",
+  "fuente": "Fandom undertale",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Toriel: Toriel artwork Steam card.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/d/d7/Toriel_tarot.png",
+  "fuente": "Fandom undertale",
+  "ancho": 498,
+  "alto": 1144,
+  "que_es": "Toriel: Toriel tarot.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/2/2e/Toriel_artwork_plush.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Toriel: Toriel artwork plush.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/1/1c/Toriel_artwork_Little_Buddy.png",
+  "fuente": "Fandom undertale",
+  "ancho": 900,
+  "alto": 600,
+  "que_es": "Toriel: Toriel artwork Little Buddy.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/e/ec/Toriel_artwork_Nendoroid.png",
+  "fuente": "Fandom undertale",
+  "ancho": 600,
+  "alto": 800,
+  "que_es": "Toriel: Toriel artwork Nendoroid.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/1/1e/Thundersnail_screenshot_Famitsu.png",
+  "fuente": "Fandom undertale",
+  "ancho": 675,
+  "alto": 461,
+  "que_es": "Toriel: Thundersnail screenshot Famitsu.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/7/70/Toriel_screenshot_staring_at_Froggit.png",
+  "fuente": "Fandom undertale",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Toriel: Toriel screenshot staring at Froggit.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/undertale/images/3/37/Toriel_screenshot_shocked.png",
+  "fuente": "Fandom undertale",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Toriel: Toriel screenshot shocked.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p8/wallhaven-p8k1kp.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fondo de pantalla (Undertale, dark, video games, Deltarune, Ralsei (Deltarune), Kris (Deltarune))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por DaxterDotEXE; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/je/wallhaven-jel9mw.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2048,
+  "alto": 1152,
+  "que_es": "Fondo de pantalla (Deltarune, Undertale, video games, glowing, video game art, stars)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Amirize; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/7j/wallhaven-7je5x3.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Deltarune, indie games, fan art, Undertale, underverse, digital art)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por HappyGoFishing; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/k8/wallhaven-k8d35d.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3440,
+  "alto": 2440,
+  "que_es": "Fondo de pantalla (Deltarune, Kris (Deltarune), Susie (Deltarune), Ralsei (Deltarune), Undertale, digital art)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CerbTheOne; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/qr/wallhaven-qro9ql.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2048,
+  "alto": 1451,
+  "que_es": "Fondo de pantalla (digital art, Undertale, indie games, Tu0fu, yellow, standing)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CerbTheOne; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/og/wallhaven-ogjw7l.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Undertale, Deltarune, Pink (Deltarune), Mettaton (Undertale), kirukrono, transgender)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por UnusualFrog; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/7j/wallhaven-7jl6po.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Undertale, Deltarune, Pink (Deltarune), cat girl, dress, animal ears)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por UnusualFrog; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/gw/wallhaven-gwdv1q.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Undertale, Deltarune, Pink (Deltarune), Mettaton (Undertale), kirukrono, transgender)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por UnusualFrog; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-31ec3871fa7e4cd686aa9958d979506f",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Spamton NEO [Deltarune] de ThatAverageJoe",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-6ace790267244e9caf107b1488ede847",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: DELTARUNE - The Roaring Knight - EDIT de NECROMON",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-722fdcd1b51c44a6ad00022dae5cbeb4",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Prince Ralsei - Deltarune de Jesse Ladderson",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial-ShareAlike",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-08c2161644514d28bb704bdd58641b2b",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Spamton G. Spamton (Deltarune Chapter 2) de Sluka",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-8c02de0831af4a7e940241269c03ace2",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Ralsei [deltarune] de ESO",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-597e8ee1a873402299449e04a37fee81",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Undertale 6th Anniversary Set de Jack",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-c9bd23086f0543ff9c2b73246ec0635d",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Frisk Voxel Model de TheArbuzikYT",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9992d1b815674430be33f92e97ee4723",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: N64 SSB Sans - Ness de halofactory",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7a3371bf41e742f3ad7adb7b3cdf0f3f",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Sans the Skeleton de BionicKiwi",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-67420b2bdd634c25b1bbfec2fcf049b7",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Free Rigged Sans UnderTale & Deltarune de JackTheOhio",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-0e4fd241e4c2455fbc6a43317902772a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: sans eepy de frodunkulous",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-67d6db4f156a490190c67b5959b74e12",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: sans - undertale/deltarune de DAR 88",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d13b491a7dd744e289c116b4b65abd11",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Papyrus Undertale de sim0oo",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial-NoDerivs",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-db0b53ee3264473b824ec8dc700d48bb",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Papyrus plushie (Undertale) de Gasto_Projecteur_Goop",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-07a08de913454ae0850466a7bab7ed1c",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: DELTARUNE: Kris' Room de animalino",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-b1e051cd4e5440db878d1658e026766d",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Papyrus (Undertale) de eseecs77",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-deadcaf0445d4b58a035223beb5f0089",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Jester Papyrus  Deltarune: Swapped Realities de NEGATIVEMARE",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e0808caf0d1f44b1bb19f4091d0df912",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: jevil de r44782084",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7842/33598085148_bd2af9f920_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Undyne the Undying Fish & Ralsei - Undertale / Deltarune",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor timz2011",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7859/46751279794_e333b35794_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Undyne the Undying Fish & Ralsei - Undertale / Deltarune",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor timz2011",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7925/33598084388_e00f2754c4_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Undyne the Undying Fish & Ralsei - Undertale / Deltarune",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor timz2011",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/AN19_-_Undertale_%26_Deltarune_-_Saturday_%2822_of_35%29_%2848217370562%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 1825,
+  "alto": 2738,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (22 of 35) (48217370562)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217338581_46cf766c1e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (31 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217338076_f792cbf0fd_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (32 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217382722_802b489539_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (33 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217337231_bdb1998f5d_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (34 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217380987_b24dfc7d87_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 819,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (1 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217379437_f3081bc3ae_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (4 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217336746_9d9d8ff3ca_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 819,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (35 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217335476_c325674ec9_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (2 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217379892_05296b888e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (3 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217321756_a45bbc43ef_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 819,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (30 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217331971_95a35d5e70_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (9 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217334136_7da2b30bb3_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 791,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (5 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217333591_84126d9400_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (6 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217323316_1ed8356c8a_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (27 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217322746_ca7ed9088b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (28 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48217370172_4ce9e40b6e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "AN19 - Undertale & Deltarune - Saturday (23 of 35)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xander Ashburn",
+  "origen": "recolectar.py"
+ }
+]
