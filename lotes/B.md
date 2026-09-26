@@ -33,9 +33,13 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
   14: las 4 partes terminadas sin Sigue → redactor (Opus, repaso) en marcha desde 08:27 (26-sep).
 - **Segundo corte por límite de sesión** (19:50 UTC del 25 a 08:26 UTC del 26): los 5 agentes vivos murieron a mitad de tanda (voz 14 y los 4 de 15). guardar.sh había subido lo hecho; sólo se perdió lo que voz de 15 llevaba a medio escribir en esa tanda concreta (84 líneas se quedaron).
   15: las 4 partes terminadas sin Sigue → redactor (Opus, repaso) en marcha desde 08:47.
+- 14 Adventure Time: **COMPLETA** y subida (08:52). ✅17 ⚠️13 ❌0, 157 referencias, 104 webs, 358 min citados, 55 hex, 3016 líneas.
   guardar.sh --cada 300 relanzado a las 08:26 UTC tras el segundo reinicio del contenedor.
 
 ## Avisos para el dueño
+
+- **14 Adventure Time** (repaso): más querida, Marceline (sin encuesta con números, pero reconocida por BOOM!, Cartoon Network UK y The Guardian; Vulture llama al Rey Helado/Simon «el mejor personaje», y BMO es el favorito del creador). Corregido: la piel de Marceline es `#D8E7E7` medida en el model sheet oficial (antes `#A9B8C2` de memoria). Cuadro de diálogo propio: sin globos — papel escrito a mano (la nota de Simón), cartelas con tramado, la pantalla de BMO (parodia de Game Boy) y texto grabado en vinilo. Láminas: A «La caja de discos Mondo» (recomendada, casa de Marceline `#F8AEC5`, grabadora amarilla de Fry Song), B el concierto con la setlist, C la mixtape de BMO en la casa del árbol.
+  Aviso: las 6 frases latinas son textuales pero sin episodio ni minuto (audios de Doblaje Wiki, YouTube bloquea y no hay clips doblados en Dailymotion). Si ve la serie: el minuto de la lágrima de «I Remember You» (≈1:18, sin confirmar) y cómo dice Marceline en latino «Thanks for helping me record».
 
 - **13 Rick and Morty** (repaso): más querido, Rick, pero el secundario que más tira es **Pepinillo Rick** (Emmy 2018, 3.º en Ranker); el Sr. Meeseeks es el segundo gancho (el bot MEE6 de Discord lleva su nombre). Cuadro de diálogo propio: no hay globos — el rótulo de la tele, con nombre y eslogan abajo en pantalla (1×08, 11:18); en los videojuegos el texto va en objetos del mundo. Láminas: A «TV infinita» (recomendada, la tele del salón con la caja del cable), B Pepinillo Rick en el banco del garaje, C la caja Meeseeks en la mesa de la cocina (modelo 3D de pythagean, CC BY).
   Aviso importante: el redactor tocó varias secciones que se daban por buenas (§2,3,4,5,6,8,10,12,13,15,16,17,20 y la bitácora) porque seguían con datos de la primera pasada que contradecían lo investigado (Style Guide «sin ver» cuando ya se vio, licencias «sin comprobar» ya confirmadas, un motivo falso del cambio de reparto del anime). Sin resolver: YouTube pide iniciar sesión, así que no hay fotogramas 1080p del 1×08 ni 2×08; TV Tropes y The Cutting Room Floor dan 403.
@@ -59,6 +63,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 14 | redactor (repaso) | Opus | 18 | 358 mil |
 | 13 | redactor (repaso) | Opus | 15 | 269 mil |
 | 12 | redactor (repaso) | Opus | 12 | 193 mil |
 | 14 | video | Sonnet | 11 | 172 mil |
