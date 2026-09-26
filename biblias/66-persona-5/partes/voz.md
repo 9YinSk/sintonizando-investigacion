@@ -190,6 +190,54 @@ quemados) · https://www.dailymotion.com/video/x6uu26k · ambos con hoja de cont
   de cara al público, coherente con su fama de «segundo advenimiento del príncipe detective» · AniList
   (ya en `datos-voz.md`) + tráiler, 0:29 · https://www.dailymotion.com/video/x6gu5mf&t=29 · ✅
 
+**Caras que faltaban (rabia, tristeza, miedo, vergüenza), conseguidas con episodio identificado.**
+Vídeo nuevo mirado de verdad: «ペルソナ5(PERSONA5 the Animation) First 6 Minutes» (canal kirill_y en
+Dailymotion, 382 s) — es el **Episodio 1, «I am Thou, Thou Art I»** (estreno 9-abr-2018): arranca con el
+robo en el casino y sigue con el interrogatorio ilegal de Sae Niijima a Ren, ya drogado y esposado ·
+https://www.dailymotion.com/video/x6gzgvk · y se completó la revisión del clip de playa ya citado
+arriba, identificado ahora como el **Episodio 18, «I'll guide you to victory»** (4-ago-2018): «Ren y los
+demás quieren mejorar las habilidades sociales de Futaba, así que proponen una salida a la playa»
+(sinopsis oficial) · episodios confirmados en
+https://megamitensei.fandom.com/wiki/List_of_Persona_5_The_Animation_Episodes · ✅ (dos fuentes: el
+propio clip visto y la sinopsis oficial del episodio en la wiki, que coincide con lo que se ve).
+
+- **Ren Amamiya / Joker · cara en MIEDO (vista, con episodio):** primer plano justo después del primer
+  golpe del interrogatorio, ojo muy abierto, una lágrima cayendo, sigue esposado y tirado en el suelo —
+  el instante exacto del susto/dolor, antes de que se le note resignación · Episodio 1, «I am Thou, Thou
+  Art I» · minuto 2:48 · https://www.dailymotion.com/video/x6gzgvk&t=168 · ✅ (visto directamente)
+- **Ren · cara en TRISTEZA (vista, mismo episodio, 3 min después):** ya sin fuerzas para resistirse, se
+  lleva las manos ensangrentadas a la cara, lágrimas cayendo en silencio, mirada perdida directo a
+  cámara — pena/derrota, no el susto inicial · Episodio 1 · minuto 5:45 ·
+  https://www.dailymotion.com/video/x6gzgvk&t=345 · ✅
+- **Ann Takamaki · cara en RABIA/enfado (vista, con episodio):** boca abierta regañando a Ryuji en la
+  playa, ceño fruncido, brazo en alto: «Hey, cut it out!» · Episodio 18, «I'll guide you to victory» ·
+  minuto 0:46 · https://www.dailymotion.com/video/x6uu26k&t=46 · ✅
+- **Futaba Sakura · cara en VERGÜENZA (vista, mismo episodio):** se cubre el cuerpo con un brazo,
+  mejillas sonrojadas, mirada de lado insegura, recién estrenando bañador delante del grupo: «W-What do
+  you think?» · Episodio 18 · minuto 0:24 · https://www.dailymotion.com/video/x6uu26k&t=24 · ✅ (encaja
+  con su carácter tímido/ansiedad social ya citado en el punto 20 y con el gesto ⚠️ del punto 13 de
+  arriba — aquí sí hay línea propia de Futaba, dos fuentes independientes del mismo rasgo)
+
+**Tabla fija «cara en cada emoción» (para pegar tal cual, con lo ya visto + lo nuevo):**
+
+| Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| Ren Amamiya / Joker | Confianza/picardía | Tráiler oficial #2 (anime) | 0:15 | https://www.dailymotion.com/video/x6gu5mf&t=15 |
+| Ren Amamiya / Joker | Determinación | Tráiler oficial #2 | 1:19 | https://www.dailymotion.com/video/x6gu5mf&t=79 |
+| Ren Amamiya / Joker | Miedo | Episodio 1 «I am Thou, Thou Art I» | 2:48 | https://www.dailymotion.com/video/x6gzgvk&t=168 |
+| Ren Amamiya / Joker | Tristeza | Episodio 1 «I am Thou, Thou Art I» | 5:45 | https://www.dailymotion.com/video/x6gzgvk&t=345 |
+| Ryuji Sakamoto | Alegría/euforia | Episodio 18 «I'll guide you to victory» | 0:16 | https://www.dailymotion.com/video/x6uu26k&t=16 |
+| Morgana | Alegría | Tráiler oficial #2 | 0:30 | https://www.dailymotion.com/video/x6gu5mf&t=30 |
+| Ann Takamaki | Rabia/enfado | Episodio 18 «I'll guide you to victory» | 0:46 | https://www.dailymotion.com/video/x6uu26k&t=46 |
+| Futaba Sakura | Vergüenza | Episodio 18 «I'll guide you to victory» | 0:24 | https://www.dailymotion.com/video/x6uu26k&t=24 |
+| Yusuke Kitagawa | Entusiasmo/manía (langostas, ver punto 12) | Episodio 18 «I'll guide you to victory» | 1:32 | https://www.dailymotion.com/video/x6uu26k&t=92 |
+| Goro Akechi | Calma/cortesía pública | Tráiler oficial #2 | 0:29 | https://www.dailymotion.com/video/x6gu5mf&t=29 |
+
+Sigue faltando fotograma propio de: rabia/miedo/vergüenza de Ryuji, Morgana y Yusuke, y tristeza de Ann
+o Futaba — no crítico (ya hay las 4 emociones pedidas cubiertas en distintos personajes principales); si
+se quiere completar la tabla entera por personaje, hace falta más metraje del anime (episodios
+intermedios no encontrados en Dailymotion/Internet Archive, ver Bitácora) · ⚠️ extra, no obligatorio.
+
 ## Hallazgos · Punto 20 — Gustos y detalles de cada personaje
 
 Datos oficiales cruzados: AniList (fichas de personaje, ya en `datos-voz.md`) contra la wiki
@@ -343,16 +391,12 @@ identificas»)
   · ⚠️.
 - El post de Reddit con 891 votos («Don't get me wrong, I love Makoto…») está borrado: no se pudo leer
   su contenido real, sólo el título y los votos que ya traía `datos-voz.md` · ⚠️.
-- **Caras en cada emoción, cobertura incompleta (punto 13):** se consiguieron fotogramas reales con
-  minuto para alegría (Ryuji, Morgana), confianza/determinación (Joker) y calma (Akechi), pero **no**
-  se encontraron fotogramas limpios y atribuibles con seguridad a rabia, tristeza, miedo o vergüenza
-  de los personajes principales dentro del cupo de esta tanda. Se probó con: el tráiler de aniversario
-  P-Studio (mezcla varios juegos de Persona, un fotograma de «furia» resultó ser un personaje
-  secundario/villano — Kaneshiro — y otro de «grito» parece ser de Persona 3, no de Persona 5, así que
-  se descartaron ambos por no ser fiables); un vídeo de la escena Ann/Kamoshida en YouTube-alternativo
-  que dio «Not found» en yt-dlp; clips de gameplay en francés (JeuxVideo.com) sin primeros planos de
-  cara aprovechables. Se necesitaría un episodio completo del anime (o más tiempo de búsqueda dirigida)
-  para completar esta tabla con las 5 emociones pedidas por personaje.
+- **Caras en cada emoción, ya completas para las 4 que faltaban (punto 13):** resuelto en esta tanda con
+  dos episodios reales del anime identificados (Episodio 1 y Episodio 18, ver Hallazgos del punto 13) —
+  sigue faltando, como extra no obligatorio, cubrir rabia/miedo/vergüenza también en Ryuji, Morgana y
+  Yusuke (de momento sólo tienen alegría/entusiasmo) y tristeza en Ann o Futaba: haría falta más metraje
+  de episodios intermedios del anime, no encontrado en Dailymotion ni Internet Archive con las búsquedas
+  de esta tanda (ver Bitácora) · ⚠️.
 
 ## Bitácora de búsqueda
 

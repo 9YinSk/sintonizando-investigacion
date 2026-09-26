@@ -144,3 +144,40 @@ Hex sacados con `estilo.py` sobre fotogramas propios, no de memoria.
 - Acero corrugado para naves y laboratorios: [CorrugatedSteel009](https://ambientcg.com/view?id=CorrugatedSteel009) ✅
 - Lona caqui para la ropa de Bobo y el equipo: [Fabric066](https://ambientcg.com/view?id=Fabric066) ✅
 
+## 5 · Tipografía
+
+El **logo** «GENERATOR REX»: bloque naranja-rojo, mayúsculas condensadas y angulosas; **la «O» es un engranaje de 8 dientes**. Confirmado en el recorrido del sitio oficial archivado ([Internet Archive, ~0:00:28](https://archive.org/details/generator-rex-website-tour)) y en la wiki ✅.
+
+Una letra por uso. Todas las libres se comprobaron con `fontTools` bajando el .ttf ([API de Fontsource](https://api.fontsource.org/v1/fonts/black-ops-one)).
+
+| Uso | Cómo es en la serie | Letra libre | ñ, tildes, ¿ ¡ |
+|---|---|---|---|
+| Logo o título | bloque grueso, engranaje en la O | **Black Ops One**, OFL ([Google Fonts](https://fonts.google.com/specimen/Black+Ops+One)) | ✅ completas |
+| Globo normal | rotulación de cómic de DC en el *Action Pack* | **Comic Neue**, OFL ([Google Fonts](https://fonts.google.com/specimen/Comic+Neue)) | ✅ |
+| Grito | no hay en pantalla; en cómic, gruesa e inclinada | **Bangers**, OFL ([Google Fonts](https://fonts.google.com/specimen/Bangers)) | ✅ |
+| Onomatopeya de golpe | no catalogada en la serie (⚠️) | **Luckiest Guy**, OFL | ✅ |
+| Pensamiento | no hay globo de pensamiento; Rex piensa en voz en off (⚠️) | **Caveat**, OFL, sólo si hace falta | ✅ |
+| Cartel del mundo (Providence) | slab condensada de sello, tipo diploma o billete | **Special Elite** u **Oswald**, OFL | ✅ |
+| Interfaz de juego | HUD de ciencia ficción, nombres cortos de arma (BFS, Smack Hands) | **Audiowide**, OFL ([Google Fonts](https://fonts.google.com/specimen/Audiowide)) | ✅ |
+| Subtítulos o créditos | sans genérica tipo Arial Bold en el sitio oficial | **Oswald** o una condensada tipo Barlow | ✅ Oswald |
+| Hangul (versión coreana «제너레이터 렉스») | rótulo estándar de Cartoon Network Korea | **Noto Sans KR**, OFL | — ([ko.wikipedia.org](https://ko.wikipedia.org/wiki/제너레이터_렉스)) ⚠️ |
+
+- **No usar** la fuente de fan «Generator REX» de SpideRaYsfoNtS ([dafont](https://www.dafont.com/generator-rex.font)): **licencia sólo personal**, prohíbe medios públicos, y **no trae tildes, ñ, ¿ ni ¡** (0 de 8; sólo 75 glifos) ✅ comprobado en el zip.
+- Colores del logo: naranja-rojo de bloque (sin medir con cuentagotas ⚠️). Usar el rojo de la chamarra `#A04D47` como base y aclararlo hacia naranja.
+
+## 6 · Cómo hablan en pantalla
+
+Es una caricatura occidental: **en la serie no hay globos**. Los diálogos se oyen. La lámina **no lleva burbuja blanca**: usa uno de estos soportes reales.
+
+1. **Panel del sitio oficial** ([cartoonnetwork.com/generatorrex](https://www.cartoonnetwork.com/generatorrex), visto en el [recorrido archivado](https://archive.org/details/generator-rex-website-tour), ~0:00:28) ✅:
+   - marco de **HUD azul-gris con borde cian**;
+   - **retrato del personaje a la izquierda**;
+   - palabras del mundo resaltadas en **naranja** («Nanites») y enlaces en **cian**;
+   - todo dentro de un **chasis con dientes de engranaje** recortados en los bordes, el mismo motivo que la «O» del logo.
+   Es lo más parecido a un cuadro de diálogo propio de la franquicia.
+2. **Globos de cómic** del *Cartoon Network Action Pack*, editado por **DC Comics** ([wiki](https://generatorrex.fandom.com/wiki/Cartoon_Network_Action_Pack)) ✅. P. ej. «Distraction» (n.º 50, agosto de 2010), guion de Rob Hoegee y Eugene Son, dibujo de **Min S. Ku** ([ficha](https://generatorrex.fandom.com/wiki/Distraction_(Cartoon_Network_Action_Pack_№50))). Rotulación profesional de cómic americano. El arte interior no se abrió: la forma exacta del globo y el rotulista quedan ⚠️. Si se usa, que sea globo de cómic americano de acción, nunca el óvalo blanco genérico.
+3. **Pantallas de misión del videojuego**: subtítulo simple, sin globos ([wiki del juego](https://generatorrex.fandom.com/wiki/Generator_Rex:_Agent_of_Providence)) ✅. En el HUD de combate, cada arma sale con **nombre corto** (BFS, Smack Hands, Slam Cannon, Punk Busters) ⚠️ sólo confirmado en el juego.
+4. **Por pantalla gigante**: el **Caballero Blanco** habla a los agentes desde un monitor enorme (hoja nº 110, «White Knight Lockdown») ✅ visto. Buen recurso para un jefe que «da avisos».
+- **Pensamiento**: no hay globo. Rex piensa con **voz en off** ⚠️ (dato de la parte de texto, sin captura).
+- **Onomatopeyas sobreimpresas**: no se encontró ninguna en la serie ⚠️. El estallido radial rojo y blanco de la hoja nº 28 sí es un fondo gráfico propio.
+

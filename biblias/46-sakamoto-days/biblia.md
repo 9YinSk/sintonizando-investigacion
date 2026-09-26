@@ -259,3 +259,77 @@ desplazados, §28).
   AniList). No se encontró sección de fondos descargables (§17). ⚠️
 
 ---
+
+## 4 · Fan art y 3D, sólo como referencia
+
+**Fan art**: sólo para mirar poses y color, con crédito. Nunca se pega.
+
+| Personaje | Imagen | Tamaño | Origen (autor) |
+|---|---|---|---|
+| Nagumo | [safebooru 1289](https://safebooru.org/images/1289/701051d231b83b62155c127225119146be41c78d.jpg) | 4096×4096 | [@ueidotcom en X](https://twitter.com/ueidotcom/status/1838231854652223977) |
+| Nagumo | [safebooru 1289 (2)](https://safebooru.org/images/1289/43435bc49899fc585932dc1899a9ea180d05cd1f.jpg) | 2000×2000 | @ueidotcom |
+| Nagumo | [safebooru 32](https://safebooru.org/images/32/360397629569dcd583fd774f7eedf0e1279fd6d3.jpg) | 1824×2048 | @namida_a2 |
+| Nagumo | [safebooru 3334](https://safebooru.org/images/3334/5bb039cd75cbd9fcb33e247cafb397a555b82136.png) | 2000×1760 | [Pixiv](https://i.pximg.net/img-original/img/2023/04/05/02/04/41/106875699_p10.png) |
+| Shin | [safebooru 4050](https://safebooru.org/images/4050/b3539dffd3e335f2184f53be931081fa7f50bdd8.jpg) | 3377×4096 | Pixiv |
+| Shin | [safebooru 4619](https://safebooru.org/images/4619/26e3eb191c1a3434e39543ca5c73d1dd33b3929e.png) | 1820×1820 | Pixiv |
+| Shin | [safebooru 1545](https://safebooru.org/images/1545/4b9d361acd3103ced94cee2a8d1924645b11aeec.jpg) | 1482×1973 | @chanooartz |
+
+El fandom **dibuja sobre todo a Nagumo**: 325 dibujos en
+[Danbooru](https://danbooru.donmai.us/posts?tags=sakamoto_days), frente a
+197 de Osaragi, 153 de Shin y 146 de Sakamoto. ⚠️ (una fuente). En
+Danbooru, Nagumo lleva las etiquetas `neck_tattoo`, `arm_tattoo`,
+`hand_tattoo`, `finger_tattoo`: tatuajes en cuello, brazos y dedos.
+
+**Modelos 3D con licencia libre.** En
+[Sketchfab](https://sketchfab.com/3d-models/none-dd4d6ddc7424453c9d776e0e4cf5c36f)
+sólo hay **3 modelos descargables** de la serie (cinco búsquedas por la
+API). ✅
+
+| Modelo | Autor | Licencia | Caras | Para qué |
+|---|---|---|---|---|
+| [Taro Sakamoto 坂本太郎](https://sketchfab.com/3d-models/none-dd4d6ddc7424453c9d776e0e4cf5c36f) | shanevm | **CC Attribution** | 288 800 | posar a Sakamoto en Blender. Crédito: «Taro Sakamoto by shanevm, CC BY» |
+| [Osaragi's Collapsible Buzzsaw](https://sketchfab.com/3d-models/none-f49132dc834949bdad0af13f6bb2996a) | scuff88 | **CC Attribution** | 3 632 | la sierra plegable de Osaragi, único arma libre |
+| [Under the cherry tree](https://sketchfab.com/3d-models/none-f4cb511778dd479599627e7179b576dc) | chiralarchitect | **CC BY-NC-SA** (no comercial) | 215 290 | diorama de Sakamoto bajo un cerezo, luz de tarde. Sólo para estudiar el encuadre |
+
+No hay modelos libres de la tienda, de la caja registradora ni del
+delantal. Hay que modelarlos (§19).
+
+---
+
+## 5 · Sitios, luz, paleta y texturas reales
+
+Paletas **medidas** con Pillow (6 colores) sobre fotogramas sacados con
+ffmpeg de los vídeos de §2. ✅ (visto en el vídeo).
+
+| Sitio | Luz y hora | Hex medidos | De dónde |
+|---|---|---|---|
+| **La tienda de Sakamoto** por dentro | día, luz cálida de interior; mostrador y estanterías | `#54423E` `#987E71` `#B0A68E` `#E6E5C7` | [tráiler Netflix, 1:20](https://www.dailymotion.com/video/x9c6rxi) |
+| **El salón** de la casa | día, luz cálida; sofá | `#746455` `#B8A99B` `#EFF1E6` `#FBF9E4` `#F3DFCD` | tráiler Netflix, 0:15 |
+| **Tejados al amanecer** | contraluz, antenas | `#231E1C` `#F9F5DC` `#404749` `#586B70` | [OP1, 0:00](https://archive.org/details/sakamoto-days-op-1) |
+| **Azotea y vías al anochecer** | cielo violeta | `#3C2E4F` `#715A88` `#8D7AAF` `#C6ACDD` | OP1, 0:45 |
+| **Paseo junto al río** | tarde despejada, hierba | `#D3F2FE` `#98D297` `#639A79` | OP1, 0:50 |
+| **Calle con farolillos** de noche | resplandor rojo-marrón | `#07060B` `#332E30` `#584736` | OP1, 1:00 |
+| **La armería** | casi sin luz, una sola fuente puntual | `#141422` `#030109` `#1F1E30` | [episodio 1, 0:32](https://www.dailymotion.com/video/x9g89je) |
+
+**La tienda por fuera** (Sakamoto's Store): tienda pequeña de barrio con
+la vivienda arriba. Luz plana de calle residencial.
+[Imagen de la wiki](https://static.wikia.nocookie.net/sakamoto-days/images/1/17/Sakamoto_Store.jpg)
+(923×453). ✅ En la portada del capítulo 221 (hoja 1 nº15) se ve la
+entrada con escalones, una bandera vertical roja y blanca «営業» y un
+cartel de «no fumar». Sakamoto lee el periódico sentado delante.
+
+**Otros sitios de la wiki** (categoría *Locations*): JCC (la academia de
+asesinos, en una isla), la cárcel de la JAA, el orfanato Al-Kamar, la
+clínica Miya, el museo de ciencias Okutabi y el parque de atracciones
+Sugar Park. ✅ No hay fotogramas de ellos en las partes.
+
+**Texturas reales, libres (CC0)** de
+[ambientCG](https://ambientcg.com/a/Paper001):
+
+- Papel con grano: `Paper001`; `Paper004` trae tamaño real (30×30 cm). ✅
+- Tela lisa para camisetas y delantal: `Fabric030` y `Fabric036`. ✅
+- Madera clara para el mostrador: `WoodFloor051`. ⚠️ elegida a ojo
+- Cartón para las cajas de la armería: `Cardboard004`. ⚠️ a ojo
+- Asfalto húmedo para las calles de noche: `Asphalt012`. ⚠️ a ojo
+
+---

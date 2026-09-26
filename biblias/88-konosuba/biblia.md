@@ -986,3 +986,64 @@ Konosuba cruza mucho con otros isekai, por su tono de parodia. Tiene colaboracio
 - **Paladín**: así llama el doblaje latino a la clase «Crusader» de Darkness (punto 8).
 - Hikikomori y NEET, lo que era Kazuma en Japón.
 
+## Tres conceptos de lámina
+
+Konosuba no tiene canal. Propongo tres del [inventario](../../servidor/inventario.md): **#presentaciones**, **#castings** y **#reto-de-la-semana**. *SAO* (85) y *Tsukimichi* (87) también proponen #presentaciones y #reto-de-la-semana: no es un problema, las biblias son generales.
+
+**Lo común a los tres:**
+
+- **Cuadro de diálogo:** el pergamino del juego oficial (punto 6). Relleno `#CCB47A`, cinta de nombre con puntas `#D4AE67`, borde `#C08E53`. Títulos en cinta roja con puntas en V `#8B1E1E`. **Nunca una burbuja blanca.**
+- **Letras:** título y onomatopeyas en **Tiki Tropic Bold**, con contorno blanco grueso como el logo. Diálogo en **Anime Ace 2.0 BB**; «¿» y «¡» con Noto Sans, porque Anime Ace no los trae (punto 5).
+- **Línea marrón**, no negra (`#4E3135`). Colores claros de cuento. Recortes por `v3/integrar.py`.
+- Nada de fanservice: sólo las imágenes de pose y gag.
+
+### Concepto 1 · #presentaciones · «Tu carnet de aventurero» (Aqua)
+
+- **El objeto y el sitio.** El **carnet de aventurero**, grande, en primer plano, sobre el **mostrador del Gremio de Aventureros de Axel**. Es donde Luna, la recepcionista, atiende a los que llegan: es la primera persona con la que habla Kazuma en el Gremio (AniList). En Blender: una tarjeta gruesa de papel (`Paper003` de ambientCG) con los cantos gastados, sobre madera `Planks037A`, con pluma y tintero al lado.
+- **El personaje.** **Aqua** enseñando su carnet a cámara: nº121 ([imagen](https://static.wikia.nocookie.net/konosuba/images/a/a9/Aqua_Showing_her_Adventurer_Card.jpg)). Cuerpo y ropa de la hoja de modelo T3 (nº1). Es la segunda más querida y la que más risa da (punto 12). Cara de diosa orgullosa, sonrisa de suficiencia; nada solemne. Si el dueño prefiere a la más querida: Megumin con su pose de firma nº44.
+- **Cómo habla.** Pergamino con la cinta «Aqua». Anime Ace 2.0 BB. Su voz: dobles signos y presumida.
+  - «¡Mira mi carnet! Perfecto, como yo.»
+  - «¡Ahora te toca! Abre tu hilo con la plantilla.»
+  - «Es opcional. Pero así te ponen cara.»
+- **Dónde va cada texto.**
+  - «presentaciones» en la cabecera del carnet, en Tiki Tropic Bold.
+  - Los campos del carnet son la plantilla fijada: Nombre, De dónde, Clase y Busco.
+  - «De dónde»: cinco sellos de tinta con las etiquetas de país (Sudamérica, México, Centroamérica y Caribe, España, Otro país).
+  - «Clase»: seis casillas, como las clases del Gremio (Doblaje, Canto, Locución, Edición, Arte, Escritura).
+  - «Busco»: la etiqueta «Hacer amigos». Al fondo, **Yunyun** asomada detrás de una columna, con ganas de acercarse: es la secundaria más querida y su tema es hacer amigos (punto 13). Sólo hay su [retrato de AniList](https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png) ⚠️.
+  - La norma de no comentar hilos ajenos, en una nota clavada al mostrador. El texto del canal sale cortado en el inventario: cópialo entero del canal ⚠️.
+- **Que no quede plano.** Delante, la jarra de espumante de Aqua desenfocada (nº113 de referencia). Luz de ventana rasante que marca las arrugas del carnet y el relieve de los sellos. Por la ventana, el cielo de Axel `#A1DAF3`; dentro, madera cálida. Al fondo, la sala del Gremio desenfocada, con Yunyun. La sala del Gremio no tiene paleta medida ⚠️: saca un fotograma de la T1 completa de Internet Archive (punto 10).
+
+### Concepto 2 · #castings · «Las misiones sobre la mesa» (Kazuma y Darkness)
+
+- **El objeto y el sitio.** Un montón de **pergaminos de misión** sobre la mesa del salón de la **mansión del grupo**. Kazuma los trae del Gremio y los reparte: cada pergamino es un casting. En Blender: el interior de la mansión existe como modelo CC BY ([Pr2Hack en Sketchfab](https://sketchfab.com/3d-models/none-f8ab91246e26404888899f2a5505703b)). Pergaminos con papel de ambientCG y bordes enrollados con `Bevel` (punto 18). Monedas de eris con `Metal048A`.
+- **Los personajes.**
+  - **Kazuma**, sentado, con un pergamino en la mano, explicando la paga: pose del minuto [2:32 de la recopilación de Aqua](https://www.dailymotion.com/video/x9ta1ve?t=152) («esos 300 000 eris son tuyos»). Cuerpo: nº2. Cara seria y neutra de negociar.
+  - **Darkness**, de pie detrás, agarrando la peor misión con cara de gusto: la del gólem ([0:06-0:15](https://www.dailymotion.com/video/x5wd601?t=6)). Cuerpo: nº3. Es su gag más reconocible (punto 12).
+- **Cómo hablan.** Un pergamino con cinta de nombre para cada uno. Anime Ace 2.0 BB. Kazuma, seco y corto; Darkness, con puntos suspensivos.
+  - Kazuma: «Un casting, un hilo.»
+  - Kazuma: «¿El papel ya tiene voz? Ciérralo.»
+  - Darkness: «¿Sin paga… y urgente? Qué humillante… Me lo quedo.»
+  - Kazuma: «Pon las etiquetas. Aquí nadie se lleva sorpresas.»
+- **Dónde va cada texto.**
+  - «castings» en una cinta roja con puntas en V (`#8B1E1E`) clavada al borde de la mesa, como los títulos del juego.
+  - Cada pergamino lleva sus sellos, que son las etiquetas: el tipo (Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro, Canto); la paga (Pagado, con monedas de eris encima; Sin paga, con la marca «Durian Quest», punto 25); el estado (Abierto; Cerrado, con lacre; Urgente, en rojo); Oficial del servidor y +18.
+  - Son 15 etiquetas. Si no se leen bien, **lámina 2**: un solo pergamino con cada sello explicado.
+- **Que no quede plano.** Delante, el borde de la mesa y una moneda de eris desenfocados. Al fondo, Aqua dormida en el sofá. Luz lateral de mediodía, con el cielo de la mansión `#80DAF4` en la ventana (opening 1, 0:32). Sombras reales de los pergaminos enrollados sobre la mesa.
+
+### Concepto 3 · #reto-de-la-semana · «Una Explosión al día» (Megumin)
+
+- **Por qué encaja.** Megumin sólo puede lanzar una Explosión al día y queda rendida. Aun así la lanza todos los días, sin ganar nada (punto 13). El canal dice: «No se gana nada y esa es la gracia».
+- **El objeto y el sitio.** El **pergamino del reto**, clavado con una estaca en la hierba, en primer plano. Sitio: el **campo verde con muralla** del tráiler T3 ([1:20](https://www.dailymotion.com/video/x8tpkt4?t=80)), con la Explosión detrás de la muralla. Paleta medida: hierba `#57773D` y `#406335`, fogonazo `#FAE1AA`, naranja `#E28F59` (punto 4). En Blender: pergamino con papel de ambientCG; el báculo y el sombrero son modelos CC BY de **Eques_inferno** en Sketchfab (punto 3).
+- **El personaje.** **Megumin**, la más querida, en plano medio detrás del pergamino, lanzando el conjuro: báculo cruzado en X y capa al viento ([tráiler T3, 1:00](https://www.dailymotion.com/video/x8tpkt4?t=60)). Para el volumen, la figura «Rock Version» (punto 23). Cara: euforia, ojos rojos brillando ([origen, 1:36](https://www.dailymotion.com/video/x8prbvb?t=96)).
+- **Cómo habla.** Pergamino con la cinta «Megumin», en Anime Ace 2.0 BB. Frases rotundas, tono solemne para algo pequeño. Y encima de todo, la onomatopeya «¡EXPLOSIÓN!» en Tiki Tropic Bold, degradado de magenta a dorado y contorno blanco, sobre el destello `#FFD8FF`.
+  - «Una Explosión al día. Un reto a la semana.»
+  - «Una línea, una escena, un tono. ¡Grábalo!»
+  - «Se entrega dentro del hilo del reto.»
+  - «No se gana nada. ¡Y eso es lo genial!»
+- **Dónde va cada texto.**
+  - «reto de la semana» en la cinta roja de la cabecera del pergamino clavado.
+  - En el cuerpo del pergamino, el reto de esa semana: se cambia cada semana sin tocar el resto.
+  - Las etiquetas, como cintas atadas a la estaca: Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, Con trampa y Libre.
+- **Que no quede plano.** Hierba alta delante, desenfocada. Contraluz de la Explosión con luz de borde naranja en la capa. Humo detrás de la muralla. Al fondo, pequeño, Kazuma con cara de hastío, listo para cargarla cuando caiga. Variante: Yunyun retándola, que son rivales desde niñas (punto 13).
+
