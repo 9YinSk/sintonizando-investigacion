@@ -97,8 +97,12 @@ actor de la **voz original en inglés**.
 > episodio 1×03 completo (`archive.org/details/arcane-season-1-60fps`,
 > ya estaba descargado por el investigador de vídeo de una tanda
 > anterior, en `/tmp/…/17-arcane-video/e03_*`) más el tráiler oficial T1
-> en Dailymotion. Miré los fotogramas de verdad (Read), no los describo
-> de oídas.
+> en Dailymotion. **Relanzo:** completé Jayce, Viktor, Caitlyn, Ekko y
+> Silco, y la alegría de Vi, sacando fotogramas nuevos con `ffmpeg -ss`
+> directo sobre los .mp4 de `archive.org/download/arcane-season-1-60fps/`
+> (episodios 1×01, 1×02 y 1×04, sin bajarlos enteros: `-ss` antes de
+> `-i` sólo pide el trozo). Miré los fotogramas de verdad (Read), no los
+> describo de oídas.
 
 ### Cara en cada emoción
 
@@ -108,13 +112,18 @@ actor de la **voz original en inglés**.
 | **Powder (Jinx niña)** | Tristeza | 1×03, ídem | 24:45 | ✅ vista: sola, hombros caídos, mirada baja, boca tensa — el instante justo después de que Vi se va y la deja atrás. [Internet Archive, `?t=1485`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1485) |
 | **Powder (Jinx niña)** | Miedo / vulnerabilidad | 1×03, ídem | 27:15 | ✅ vista: primer plano del ojo muy abierto y húmedo, mirando de cerca a un pequeño autómata — encogida, a la defensiva. [Internet Archive, `?t=1635`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1635) |
 | **Vi** y **Powder** | Ternura / preocupación (no es de las 5 pedidas, pero sirve para láminas de #proyectos en equipo) | 1×03, ídem | 16:55 | ✅ vista: Vi con el brazo vendado sobre el hombro de Powder, las dos mirando abajo. [Internet Archive, `?t=1015`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015) |
-| Alegría | — | — | — | ❌ **no encontré** fotograma propio en el tiempo que tuve (revisé el tráiler T1 completo, cada 6 s, y no salió ningún personaje principal sonriendo de cerca; en 1×03 tampoco). El «todo flota, Jayce celebra» que ya cita `biblia.md` §15 (poses) sigue con ⚠️ de memoria: **falta verlo**. |
-| Vergüenza | — | — | — | ❌ no encontré: no vi ninguna escena de vergüenza clara en lo que pude mirar. Probablemente esté en escenas de Jayce (torpe ante el Consejo) o Ekko adolescente; **queda pendiente**. |
+| **Vi** | Alegría | 1×01 «Welcome to the Playground» | 12:30 | ✅ vista: corriendo por los tejados tras el golpe hextech, sonrisa amplia de adrenalina, pelo suelto al viento. [Internet Archive, `?t=750`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E01.Welcome.to.the.Playground.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=750) |
+| Vergüenza (Vi/Jinx) | — | — | — | ❌ no encontré fotograma propio de vergüenza ni de Vi ni de Jinx: repasé 1×01 (8-16 min), 1×03 completo por partes y 1×04 sin dar con una escena clara de vergüenza para ninguna de las dos. **Sigue** abajo. |
+| Alegría (Jinx) | — | — | — | ❌ no encontré: en lo que pude mirar de 1×03 (min 8-32) Powder/Jinx no sonríe de forma clara; en 1×01/1×04 no aparece. **Sigue** abajo. |
+| **Jayce** | Alegría | 1×04 «Happy Progress Day!» | 13:42 | ✅ vista: en el taller, junto a Viktor y Heimerdinger (yordle de pelo rubio), sonríe de oreja a oreja y abre los brazos presentando el guantelete hextech. [Internet Archive, `?t=822`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=822) |
+| **Viktor** | Miedo / preocupación | 1×04, ídem (misma toma que Jayce, un paso detrás) | 13:42 | ✅ vista: pelo oscuro, chaleco, bastón en la mano derecha; cejas arqueadas y boca tensa hacia abajo, mirando a Heimerdinger con inquietud mientras Jayce presenta el invento. [Internet Archive, `?t=822`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=822) |
+| **Caitlyn** (niña) | Vergüenza / timidez | 1×02 «Some Mysteries Are Better Left Unsolved» | 12:00 | ✅ vista: vestido verde menta, presentada ante los invitados de sus padres en la mansión Kiramman, sonrisa forzada y mirada de lado — encaja con «I'm a misfit too, I suppose» que dice en esta misma escena (Arcane Wiki). [Internet Archive, `?t=720`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=720) |
+| **Ekko** (niño) | Miedo | 1×03 «The Base Violence...» | 21:43 | ✅ vista: agachado entre tuberías durante el enfrentamiento con la banda de Silco, ojos muy abiertos, mano en el pecho, escondiéndose. [Internet Archive, `?t=1303`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1303) |
+| **Silco** | Rabia | 1×03, ídem | 22:07 | ✅ vista: primer plano sobre el cuerpo de Vander, ceño hundido, mirada fija y furiosa, pelo canoso echado hacia atrás. [Internet Archive, `?t=1327`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1327) |
 
-- **Jayce**, **Viktor**, **Caitlyn**, **Ekko** y **Silco**: no me dio tiempo
-  a bajar y mirar un episodio centrado en cada uno; sus emociones siguen
-  descritas «de memoria» en `biblia.md` §8, sin fotograma. Si se quiere
-  completar la tabla para los 7, queda pendiente.
+- Jayce y Viktor están **en la misma toma** (13:42, 1×04): ahorra tiempo
+  si el redactor quiere una lámina de los dos juntos, uno sonriendo y
+  el otro preocupado — contraste útil para #proyectos.
 - El vídeo de 1×03 (1080p, 60fps) sigue en
   `/tmp/claude-0/trabajo/17-arcane-video/` y en
   `/tmp/claude-0/trabajo/17-arcane-voz/e03_faces/`: el siguiente que lo
