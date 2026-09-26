@@ -72,3 +72,34 @@ Crunchyroll News, natalie.mu o la web oficial, citadas dentro del wikitext).
 - **Vídeos de análisis en YouTube** (bloqueado el vídeo en sí en este servidor; título y enlace confirmados por búsqueda web, sin poder mirarlos fotograma a fotograma): *"The Hidden Message Nobody Noticed: Apothecary Diaries Video Essay"* (youtube.com/watch?v=CtSsIpauXWo), *"Chinese Dude Nitpicks The Apothecary Diaries"* del canal Accented Cinema (youtube.com/watch?v=2ko425hm6pw, análisis crítico de ritmo y traducción), *"When Loyalty Becomes DANGEROUS"* (youtube.com/watch?v=zEsTwQZelfM, sobre las damas de compañía del harén), *"The ENTIRE Story Of The Apothecary Diaries (so far) In 83 Minutes"* (resumen narrativo, youtube.com/watch?v=G5kIyw3s1IU) · ⚠️ (un solo dato: título+enlace, sin metadatos verificados porque yt-dlp da "Sign in to confirm you're not a bot" incluso sin descargar)
 - **Tendencias de TikTok** (confirmadas por búsqueda, no se puede abrir TikTok con curl/navegador sin sesión desde aquí): edits de "Twins at the Carousel" (con Maomao, Xiaolan y Shisui), compilaciones "Animal x Maomao", la "escena del baile" citada como "la escena más bonita de la serie" en ediciones de fans, momentos de Jinshi asustado, y edits sobre la elección de concubina del emperador y la amistad Emperador-Maomao · fuente búsqueda web (tiktok.com/discover, varias etiquetas) ⚠️ (no verificable con una segunda fuente ni con vistas exactas, TikTok no da API pública aquí)
 
+## 14 · Poses analizadas en varias escenas (por personaje, con capítulo y minuto)
+
+Sacadas de mirar el tráiler oficial y el episodio 1 completo (doblaje inglés,
+Internet Archive) fotograma a fotograma con `fotogramas.py`, no de memoria ni
+sólo de arte promocional. Postura, manos y mirada descritas de lo que se ve.
+
+| Pose | Episodio | Minuto | Sirve para |
+|---|---|---|---|
+| Maomao camina por el corredor de palacio cargando una bandeja de comida con las dos manos, mirada baja, hombros caídos | Ep. 1 | 5:00 | presentar (ella misma, su trabajo diario) |
+| Maomao de perfil, ojos entornados, boca en línea recta, resignada («I guess, at the very least, I get paid») | Ep. 1 | 6:30 | pensar |
+| Maomao sentada comiendo con Xiaolan, cuchara a medio camino de la boca, mejillas relajadas | Ep. 1 | 14:00 | animar / socializar |
+| Maomao envuelta en tela al ser secuestrada, ojos muy abiertos, cejas arqueadas, boca en «O» | Ep. 1 | 3:20 | sorpresa / regañar (reacción cómica) |
+| Maomao de pie firme ante Jinshi y Gyokuyou, explicando la causa del veneno (postura recta, barbilla algo alzada) | Ep. 1 | 18:30-19:00 | explicar |
+| Maomao (primer plano extremo del ojo) concentrada probando un veneno, párpado entornado, pupila fija | Tráiler oficial | 1:15 | pensar / concentración |
+| Maomao sosteniendo un cuchillo con mano firme, muñeca girada hacia arriba | Tráiler oficial | 1:40 | regañar / acción defensiva |
+| Maomao de perfil cargando una caja/bandeja con ambos brazos, torso ligeramente inclinado hacia adelante | Tráiler oficial | 0:50 | presentar |
+| Jinshi de perfil, sonrisa ladeada, un ojo entornado (mirada pícara característica) | Tráiler oficial | 0:45 | presentar / celebrar |
+| Jinshi de pie solo en el corredor, manos ocultas en las mangas, mirando de frente a cámara («I was given to understand that you couldn't read») | Ep. 1 | 16:00 | regañar / poner a prueba |
+| Jinshi mirando hacia abajo y a un lado, ceño ligeramente fruncido, pensativo tras la respuesta de Maomao | Ep. 1 | 17:30-18:00 | pensar |
+| Jinshi de pie junto a Gyokuyou, gesto abierto de mano hacia Maomao, («What can I do for you?») | Ep. 1 | 20:00 | explicar / negociar |
+| Jinshi saltando de espaldas contra el cielo nocturno, capa/manga ondeando, brazos extendidos | Tráiler oficial | 1:50 | celebrar / acción |
+| Gyokuyou primer plano, ojos húmedos, ceja caída, mano cerca de la boca («I should have paid more attention…») | Ep. 1 | 19:30 | (secundaria) culpa / arrepentimiento — dinámica con Maomao |
+
+- Nota de dinámica de grupo (sirve para láminas en pareja): la escena de las
+  16:00-19:00 del episodio 1 es el **primer cara a cara real** de Maomao y
+  Jinshi — él la pone a prueba de pie, ella responde con la deducción del
+  veneno; sus posturas son opuestas (él relajado/de perfil, ella firme/de
+  frente) y se repite como referencia de composición en el arte promocional
+  (las poses "vivas" que pide el punto 1, ya cubiertas por el investigador de
+  imagen con las fichas de diseño oficiales).
+

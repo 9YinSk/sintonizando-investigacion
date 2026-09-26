@@ -441,7 +441,7 @@ da la luz real de la escena, más sucia que la de una splash.
 | Caja fuerte de los túneles, 1×05 18:00 | `#9C6751` | Cobre cálido de antorcha: el único acento cálido | ✅ |
 | Pasillo con cortinas, 1×06 21:50 | `#191117` | Casi negro con tinte granate | ✅ |
 | Núcleo Hex en el laboratorio de noche, 1×06 27:00 | `#1D2632` | Azul pizarra: el núcleo brilla pero no quema, al revés que la gema | ✅ |
-| Trenza de Jinx, 2×04 6:10 (mediana de la zona) | `#133650` con luz · `#0B2946` en sombra | Su azul en la T2 es más oscuro que en la splash (`#249CCC`) | ✅ medido por mí |
+| Pelo de Jinx, 2×04 6:10 (mediana de la zona) | `#133650` en la coronilla · `#0B2946` en la trenza | Su azul en la T2 es más oscuro que en la splash (`#249CCC`) | ✅ medido por mí |
 | Pelo de Vi, 1×08 13:40 (mediana de la zona) | `#491A26` | Rojo vino apagado, no rosa chicle | ✅ medido por mí |
 
 **Para la lámina**: la mesa Hextech con la luz de 1×04 12:12 (centro
