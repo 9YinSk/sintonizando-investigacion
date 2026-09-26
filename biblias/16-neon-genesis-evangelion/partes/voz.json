@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=2460",
+    "fuente": "Internet Archive, grabación de emisión de Toonami/Cartoon Network (doblaje inglés)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real del ep. 8 (minuto 41:00 de la grabación con anuncios): Shinji con miedo, ojos muy abiertos",
+    "para_que": "Cara en cada emoción, miedo (punto 13.2)",
+    "licencia": "Grabación de TV subida por un usuario; sólo referencia, no libre"
+  },
+  {
+    "url": "https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=1215",
+    "fuente": "Internet Archive, grabación de Toonami (doblaje inglés)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real del ep. 8 (minuto 20:15 de la grabación): Ritsuko Akagi gritando alarmada, tras el accidente de la Unidad 00",
+    "para_que": "Cara en cada emoción, alarma/enfado (punto 13.2)",
+    "licencia": "Grabación de TV subida por un usuario; sólo referencia, no libre"
+  },
+  {
+    "url": "https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=1230",
+    "fuente": "Internet Archive, grabación de Toonami (doblaje inglés)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real del ep. 8 (minuto 20:30 de la grabación): Rei Ayanami con la cabeza vendada tras el accidente, ojos entrecerrados de dolor",
+    "para_que": "Cara en cada emoción, dolor/vulnerabilidad (punto 13.2)",
+    "licencia": "Grabación de TV subida por un usuario; sólo referencia, no libre"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3bwse",
+    "fuente": "Dailymotion, usuario kidabashasha",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover cantado de fans en español de \"Zankoku na Tenshi no Teeze\" (opening), confirmado oyéndolo con voz.py",
+    "para_que": "Fan dubs y comunidad hispana, covers de opening en español (punto 22)",
+    "licencia": "Cover de fans; sólo referencia"
+  },
+  {
     "url": "https://doblaje.fandom.com/es/wiki/Neon_Genesis_Evangelion",
     "fuente": "Doblaje Wiki (wikitext leído por API, action=parse&prop=wikitext)",
     "ancho": null,

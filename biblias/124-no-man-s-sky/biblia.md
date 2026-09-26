@@ -3,16 +3,16 @@
 Obra: **No Man's Sky**, videojuego de **Hello Games** (Guildford, Reino Unido). Salió el 12-ago-2016 en PS4 y PC; después Xbox, PS5 (con soporte de PS5 Pro) y realidad virtual (*Beyond*, 2019). Switch ⚠️: no aparece en las partes. Desde entonces lleva más de 18 actualizaciones grandes gratis.
 Enfoque del encargo: **planetas de colores y portadas de ciencia ficción retro**. Personaje de partida: **el Viajero** (*the Traveller*).
 Escrita por el redactor el 25-sep-2026 con las partes de imagen, vídeo, voz y texto (`partes/`). Lo que no está en las partes lleva ⚠️ o ❌ y se dice.
-Continuada el 26-sep-2026 (modo «seguir»): la primera redacción se cortó tras §0. Ahora van los 25 puntos, las hojas, los conceptos, la tabla y la bitácora. El redactor además leyó el texto de 10 capturas de diálogo de la wiki y midió sus cajas con `estilo.py`.
+Continuada el 26-sep-2026 (modo «seguir»): la primera redacción se cortó tras §0. Ahora van los 25 puntos, las hojas, los conceptos, la tabla y la bitácora. El redactor además leyó el texto de 11 capturas de diálogo de la wiki y midió sus cajas con `estilo.py`.
 
 Leyenda: ✅ = dos fuentes, o visto o medido · ⚠️ = una fuente, deducido o a medias · ❌ = no hecho.
 
 ## Segunda pasada · qué cambió
 
 - **Antes**: sólo índice y §0. **Ahora**: §1-25, hojas, correcciones, 3 conceptos, tabla y bitácora.
-- **Añadido por el redactor**: frases reales leídas en 10 capturas de diálogo (Polo, Nada, Artemis, Apollo, -null-, el Atlas, un Viajero NPC). Y los colores medidos de las cajas: la caja es translúcida y cambia de tono con el fondo (§6).
+- **Añadido por el redactor**: frases reales leídas en 11 capturas de diálogo (Polo, Nada, Artemis, Apollo, -null-, el Atlas, un Viajero NPC). Y los colores medidos de las cajas: la caja es translúcida y cambia de tono con el fondo (§6).
 - **Corregido** (detalle en «Correcciones del redactor»): la narración del Viajero es en primera persona, no en tercera. Sí hay onomatopeya escrita: la estática «kzzkt». Los Autophage llegan con *Echoes* (2023), no con *Desolation*. En `referencias.json`, Polo es Gek, no Korvax.
-- **⚠️**: había 1 en la biblia. Los que quedan se ven en la tabla, cada uno con su porqué.
+- **⚠️**: antes había 1; ahora hay 77 en el texto (contando éste), casi todos datos de una sola fuente o cosas que no existen (comprobado). En la tabla quedan 20 ✅, 10 ⚠️ y ningún ❌, cada uno con su porqué.
 
 ## Índice
 
@@ -637,3 +637,336 @@ Fichas oficiales o *databooks* de personajes no hay ⚠️: todo sale de la wiki
 
 - **La altura de los Vy'keen**, «6 pies 5 pulgadas» (1,96 m), la marca la propia wiki con «cita necesaria» ⚠️. No se da por segura.
 - **Cumpleaños, comida favorita y alturas**: no existen para estos personajes ⚠️ (buscado en la wiki).
+
+## 21 · Por qué la aman
+
+- **«La mayor remontada de la historia de los videojuegos»**, como titula [Pocket Tactics](https://www.pockettactics.com/no-mans-sky/review). [TouchArcade](https://toucharcade.com/2024/07/29/no-mans-sky-2024-review/) lo llama «uno de los mejores juegos que se pueden jugar en 2024» ✅.
+- **Steam**: pasó a **«Muy positiva»** en 2024, tras tres años en «Mayormente positiva» ([reseñas](https://steamcommunity.com/app/275850/reviews/)) ⚠️. Lo cuenta TweakTown, que no se pudo leer entero (403).
+- **Premios**: Mejor Juego en Curso en The Game Awards 2020 y 2025 ✅. La campaña de cada año por el «Labour of Love» de Steam (§12) ✅.
+- **Con sus palabras** ✅:
+  - «Why I Love No Man's Sky. Thank you Hello Games for a lovely game» (107 votos, [hilo](https://www.reddit.com/r/NoMansSkyTheGame/comments/1gu06lk/why_i_love_no_mans_sky_thank_you_hello_games_for/));
+  - «man I love exploring new planets» (333 votos).
+- **Con qué se identifica el público**: con la mezcla de asombro y soledad, más que con un personaje. «Captures both the breathtaking beauty and the haunting loneliness of deep space» (TouchArcade) ✅. Y con la sensación de «me quedé y valió la pena», que se repite en las reseñas ✅.
+
+**Las escenas que duelen** (no tienen minuto de vídeo: son capturas de la wiki) ⚠️:
+- **La ruta de Artemis** («Alone Amidst the Stars», «A Leap in the Dark», «The First Traveller»):
+  - **Qué pasa**: hablas por radio con alguien que ya está muerto. Al final decides si subes su mente a una simulación o la dejas descansar.
+  - **Por qué duele**: porque la ayudaste creyendo que podías salvarla.
+  - **Cómo se ve**: la caja azul sobre la consola roja de la nave, con «The death of the Atlas will not begin in sixteen minutes. It began a long time ago.» ([captura](https://static.wikia.nocookie.net/nomanssky_gamepedia/images/0/0e/Art-PL.jpg)).
+- **El Atlas muriendo**: una sala oscura con la esfera y la única opción «Comfort the Atlas» ([captura](https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/88/Atlas-PL.jpg)).
+- **El mensaje de Polo desde otro universo**: «Nada will find me again in another universe» ([captura](https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e4/Backstory-PL.jpg)).
+- **Lo que no encontré**: la música de esas escenas (se genera en directo, §9) ni comentarios de Reddit con muchos votos que digan «lloré». El buscador de Arctic Shift no devuelve nada con palabras sueltas ⚠️.
+
+**Las que hacen reír o gritar**: las tormentas (3064 votos), la barra de vida sobre la cabeza «wait why is there a health bar above my head» (333 votos) y la pelea de escuadrones (794 votos) ✅.
+
+## 22 · Fan dubs y comunidad hispana
+
+- **No hay fandubs del juego**, y se buscó: «No Man's Sky fandub español», «fandub latino», el tráiler de Rutger Hauer con «lágrimas en la lluvia» y Dailymotion ✅. La razón: casi no hay diálogo hablado que redoblar (§8).
+- **Lo que sí hace la comunidad hispana**:
+  - **Series de *gameplay* comentado** por temporadas, como «NO MAN'S SKY 2022 GAMEPLAY ESPAÑOL T2 #7 · COMUNICACIÓN CON ARTEMIS» ([YouTube](https://www.youtube.com/watch?v=yvb-G382E2s)) ⚠️: no se pudo abrir.
+  - **Análisis de la remontada**: «De ESTAFA a OBRA MAESTRA» (§10) ⚠️.
+  - **Podcasts en español en Internet Archive**, del recolector y sin escuchar ⚠️: [«Podcast #42: Crónicas del algoritmo procedural»](https://archive.org/details/Podcast42_201608) y [«La Casa De Mi Hermano 4x01»](https://archive.org/details/LaCasaDeMiHermano4x01NoMansSkyEliteDangerousUnSenorDeNoruega....YMas).
+  - **La prensa de España**: Vandal, Meristation, Vidaextra y HobbyConsolas suben los tráileres a Dailymotion (§10).
+- **Dato para un servidor de doblaje**: la comunidad hispana juega en inglés o en español de España, nunca en latino. **Hacer el primer fandub latino** del tráiler de Rutger Hauer o de la ruta de Artemis sería algo nuevo (propuesta del redactor, para un evento).
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Mass Effect** (7-nov-2024): vuelve la **Normandy SR1** en una Expedición de dos semanas; al terminarla, te quedas la nave ([blog oficial](https://www.nomanssky.com/2024/11/cross-save-ps5-pro-normandy/), [Gematsu](https://www.gematsu.com/2024/11/no-mans-sky-cross-save-ps5-pro-support-and-mass-effect-collaboration-now-available)) ✅.
+  - La [miniatura oficial](https://www.nomanssky.com/media/g2zdsn1b/No-Mans-Sky-Cross-Save-Trailer-Thumbnail.jpg) es de 1280×720.
+- **Youtooz** (9-ago-2025, por el 9.º aniversario): figuras y peluches oficiales. La primera es un **Gek** ([Happy Gamer](https://happygamer.com/no-mans-sky-fans-go-wild-over-new-youtooz-merch-drop-128147/), [tienda](https://youtooz.com/collections/no-mans-sky)) ✅. Es la figura oficial que sirve de referencia 3D, y también el único «*chibi*». Se celebró en el [blog](https://www.nomanssky.com/2025/08/celebrating-our-ninth-anniversary/).
+- **Palworld**: sólo un **coqueteo público** entre Sean Murray y John Buckley en X durante 2025 ([PC Gamer](https://www.pcgamer.com/games/survival-crafting/palworld-and-no-mans-sky-are-intensifying-their-months-long-flirtation-and-if-those-two-dont-just-kiss-already-im-going-to-lose-my-mind/), [GamesRadar+](https://www.gamesradar.com/games/survival/palworld-would-collab-with-ark-no-mans-sky-and-enshrouded-tomorrow-if-we-could-make-it-make-sense-says-publishing-chief/)) ⚠️. **No existe todavía**: no dibujarla.
+- **Tienda oficial** del estudio ([merch](https://www.nomanssky.com/merch/)) ✅.
+- **Ropa con licencia** de Insert Coin ([tienda](https://www.insertcoinclothing.com/no-mans-sky/)) ⚠️: una fuente.
+- **Ediciones físicas**: la caja de la *Explorer's Edition* y una lámina oficial enmarcada, en fotos CC BY 2.0 de blakespot (§3) ✅.
+- **Cosplay bien hecho**: no encontré ninguno ⚠️. Se buscó en inglés en DeviantArt, Instagram y Reddit. Como el Viajero no tiene cara ni cuerpo fijos, no hay un disfraz «reconocible».
+- **Cafés temáticos o eventos físicos**: no hay ⚠️ (buscado). Es un estudio pequeño, sin ese tipo de marketing.
+
+## 24 · Obras parecidas y láminas vecinas
+
+- **Los juegos que reconoce Sean Murray**: *Elite* (1984), *Star Control II* y *Freelancer*, todos procedurales. «Es casi como si hubiéramos vuelto a esos juegos» ([Inverse](https://www.inverse.com/article/7327-the-movies-books-and-video-games-that-influenced-no-man-s-sky), Wikipedia) ✅.
+- **Los libros**: Asimov, Arthur C. Clarke y Heinlein. Sus historias le parecen «vibrantes, emocionantes, lo no explorado» ✅.
+- **El arte**: Chris Foss, Mœbius, Ralph McQuarrie, John Harris y Ray Harryhausen (§1) ✅.
+- **El cine**: *Blade Runner*, por el tráiler de Rutger Hauer (§8) ✅, y *Sunshine*, por el casco «Kappa» (§12) ⚠️.
+- **Con qué lo compara la prensa** (tres artículos coinciden) ✅:
+  - *Elite Dangerous*: sin bajar a pie a los planetas;
+  - *Star Citizen*: escala parecida, todavía en desarrollo;
+  - *Outer Wilds*: más de historia y puzles;
+  - *Subnautica*: mapa hecho a mano;
+  - *Spore*: comparación floja.
+- **Del mismo estudio**: *Light No Fire*, de fantasía, que comparte tecnología desde *Worlds* ✅.
+- **Láminas del servidor que se le parecen**: ninguna es de exploración espacial procedural ✅. Lo más cercano es **127-honkai-star-rail** (espacio, pero estilo anime de gacha) y **65-the-legend-of-zelda** (mundo abierto, pero fantasía). Ninguna usa la paleta de portada *pulp* sin negro. Si Honkai coge el tema «espacio», NMS se distingue por el paisaje enorme y la caja azul translúcida.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** ✅:
+1. El universo se genera con matemáticas: **18 trillones de planetas** (18×10¹⁸), todos distintos.
+2. Para sobrevivir, se minan recursos (carbono, silicio, ferrita…). Con ellos se recargan el Exotraje, la nave y la multiherramienta, o mueres de frío, calor, radiación o falta de aire.
+3. Hay tres especies con cultura propia: **Gek** (comerciantes), **Korvax** (máquinas que adoran al Atlas) y **Vy'keen** (guerreros). Desde *Echoes* se suman los **Autophage**.
+4. Los **Viajeros** (Nada, Polo, Artemis, Apollo, -null-) no son otra especie: son identidades simuladas dentro del **Atlas**, el ordenador que crea el universo.
+5. Los **Centinelas** vigilan cada planeta como jardineros armados: atacan si dañas el ecosistema o minas lo prohibido.
+
+**La historia por arcos**: son las actualizaciones gratis, que hacen de «capítulos» ([registro oficial](https://www.nomanssky.com/release-log/) y Wikipedia) ✅.
+- **2016**: lanzamiento (12-ago) y *Foundation* (28-nov), las primeras bases.
+- **2017**: *Pathfinder* (8-mar), con vehículos y Modo Foto. *Atlas Rises* (11-ago) reescribe la historia y trae a Artemis.
+- **2018**: *NEXT* (jul), con multijugador real, tercera persona y un gran cambio visual. Aquí cambia la letra de la interfaz.
+- **2019**: *Beyond* (ago), con realidad virtual. La Anomalía se vuelve el punto de encuentro.
+- **2020**: *Origins* (sep): montañas hasta 4 veces más grandes, gusanos de arena y sistemas de dos y tres soles.
+- **2021**: *Frontiers* (1-sep, 5.º aniversario): pueblos donde el jugador puede ser *Overseer* ([PlayStation Blog](https://blog.playstation.com/) y [Xbox Wire](https://news.xbox.com/) lo anunciaron a la vez).
+- **2022 en adelante**: *Sentinel*, *Desolation*, *Interceptor*, *Singularity*, *Fractal*, *Orbital*, *Adrift*, *Echoes* (con los Autophage), *Omega* y *Worlds* (Part I y II).
+- **2026**: el 10.º aniversario y *Cosmos* (§10).
+
+**El hilo principal, la ruta de Artemis** ✅:
+- Te estrellas y encuentras una baliza con la identidad de Artemis.
+- Con un Signal Booster la localizas, y descubres que su sitio no existe.
+- Artemis pasa la identidad de Apollo antes de desaparecer («Alone Amidst the Stars»).
+- Encuentras su tumba («A Leap in the Dark»).
+- -null- te da el plano del **Mind Arc** para guardar su alma en el Holo-Terminus («The First Traveller»).
+
+**Emblemas y objetos icónicos** ✅:
+- **El símbolo del Atlas**: una **esfera roja facetada** dentro de un **rombo de neón rojo**, en una sala oscura ([captura](https://nomanssky.fandom.com/wiki/File:NMSAtlasInterface.jpg); hoja 3, n.º 14; y [NMSAtlas](https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/8e/NMSAtlas.jpg), hoja 1, n.º 11). Sale en el cartel de *Cosmos*.
+- **Los parches de Expedición** (§19).
+- **El portal**, con su dirección de 12 glifos.
+- **La multiherramienta**, el Exotraje y la nave.
+
+**Vocabulario que un fan reconoce al instante** ✅:
+- **dinero**: *Units* (la moneda, símbolo «U») y *Nanites*;
+- **viaje**: *Warp Cell* / *Hyperdrive*, *Portal*;
+- **el equipo**: *Exosuit*, *Multi-Tool*, *Starship*, *Freighter*;
+- **sitios**: *Anomaly*, *Nexus*;
+- **la historia**: *Signal Booster*, *Distress Beacon*, *Knowledge Stone*, *Sentinel*, *Atlas*.
+
+## Hojas de contacto
+
+Las tres están en `hojas/`, todas en JPEG de menos de 1 MB. Las **miró el redactor**. Los originales de la wiki están enlazados en `referencias.json` y en esta biblia.
+
+**Hoja 1 · `naves_interfaz_01.jpg`** (n.º 1-48, imágenes de la wiki con su tamaño):
+- **Exotraje e inventario**: n.º 1 (traje y nave de serie, 3840×2160), n.º 2-5 y 30-32 (inventario *NEXT*).
+- **Multiherramientas**: n.º 5, 6 y 31.
+- **Retratos**: n.º 8 y 20 (cabezas de Viajero), n.º 25 (**capa de Nada**), n.º 26-28 (**Polo** con su tablet y su caja de diálogo), n.º 29 (Viajero en el carguero).
+- **Historia**: n.º 11 (el Atlas), n.º 21-23 (**cajas de diálogo** de Artemis, del Atlas y de Polo en otro universo).
+- **Paisajes**: n.º 12-15 (los cuatro medidos en §4).
+- **Cabinas**: n.º 16, 37, 38, 40, 42-44 y 47.
+- **Naves**: n.º 17-19, 33-36, 39, 41, 45 y 48.
+
+**Hoja 2 · `personajes_naves_02.jpg`** (n.º 49-70):
+- **Diálogos de 2016**: n.º 52-54 (Polo), n.º 60-61 (Nada).
+- **Retratos**: n.º 57 (Nada), n.º 58 (Polo), n.º 59 (**dos Viajeros hablando**), n.º 62 (Nogiga), n.º 70 (Artemis de frente).
+- **Interfaz**: n.º 55 (ficha de tecnología), n.º 68 (indicador del arma).
+- **Iconos de naves**: n.º 63.
+- **Multiherramienta estándar**: n.º 56.
+- **Nave sobre el agua**: n.º 69.
+
+**Hoja 3 · `escenas_dialogo_03.jpg`** (n.º 1-20, fotogramas de tráiler con su minuto y capturas clave):
+- **Paisajes de color**: n.º 1-5 (el encargo pide planetas de colores: aquí están).
+- **Poses del Viajero**: n.º 7-10. El n.º 10 es el **cartel de *Cosmos***, la mejor pose de grupo.
+- **Las dos cajas de diálogo**: n.º 11 (azul, con nombre) y n.º 13 (narración con opciones [1]-[4]).
+- **Sitios y símbolos**: n.º 14 (Atlas), n.º 15 (mapa), n.º 16 (hologramas), n.º 17 (inventario de 2016), n.º 18 (menú rápido), n.º 19 (**parches de Expedición**), n.º 20 (pasillo del carguero).
+
+## Correcciones del redactor
+
+- **texto.md dice que la narración es «en tercera persona»**: es en **primera persona**. «*…turns to face me*» y «*I find myself…*» los dice el Viajero, que describe al otro.
+- **texto.md dice que «no hay onomatopeyas de texto»**: **sí hay una**. La estática de radio se escribe dentro de la frase, «kzzkt» y «kzzkkt» (capturas de Artemis y de -null-).
+- **texto.md pone a los Autophage en *Desolation* (2022)**: vídeo y voz los ponen en ***Echoes* (2023)**, y el tráiler de *Echoes* abre con ellos. Se queda *Echoes*.
+- **La caja `#2E2B29` no es «el» color**: la caja es translúcida. Sobre fondo claro mide `#193D5D`, sobre dorado `#1C3A57` y sobre rojo `#222E3C` (medido por el redactor). Para la lámina conviene un azul `#1C3A57` al 80-85 % de opacidad.
+- **§0 citaba `#153457`** para la caja de los Viajeros NPC. Medido ahora, va de `#123556` a `#204565`: cuadra.
+- **video.md habla de un «casco dorado»** en el cartel de *Cosmos*: el traje es **blanco y rojo** y lo dorado es la **visera** (visto en la hoja 3, n.º 10).
+- **En `referencias.json`, Polo figuraba como Korvax**: es **Gek** (corregido).
+- **§0 decía «Switch y PS VR»**: no está en las partes. Queda la realidad virtual de *Beyond*, y Switch lleva ⚠️.
+
+## 3 conceptos de lámina
+
+El encargo no trae canal. Propongo tres, todos de `servidor/inventario.md`. Es sólo una idea: las biblias son generales. Si otra serie pide el mismo canal, no pasa nada.
+
+### A · «El portal de la sabana» → **#a-que-juegas** (recomendada)
+Texto del canal: «Lo que estás jugando, capturas y quién se apunta a una partida.»
+
+- **Objeto y sitio**: un **Portal** de glifos, el anillo de piedra que lleva a otros mundos, en la **sabana tóxica** del E3 2015.
+  - El sitio sale de la hoja 3, n.º 3 y 4 ([3:40](https://www.dailymotion.com/video/x89lilx?t=220) y [4:00](https://www.dailymotion.com/video/x89lilx?t=240)).
+  - En Blender: el [modelo del Portal](https://sketchfab.com/3d-models/none-c30efda62567455d9f0644f55abc06f7) (locopixel, CC BY-NC, con crédito) sobre un terreno de nodos Noise y Color Ramp (`#CCBC54`, `#B27957`).
+  - Niebla de Volume Scatter en `#C1E8B3`.
+- **Personaje**: **el Viajero**, en la pose de *Cosmos* ([1:52](https://archive.org/details/youtube--sK7EGiJSDk?t=112); hoja 3, n.º 10), con sus dos compañeros. Los compañeros son «quién se apunta».
+  - Se recorta con `v3/integrar.py` y se le da la luz rasante de la sabana.
+- **Cómo habla**: la **narración del Viajero** (§6 B), con Roboto blanco sobre azul translúcido `#1C3A57`. Sobre el dorado de la sabana, el azul se verá como en el juego.
+  - Arriba, el filete punteado.
+  - Narración: «El portal se enciende. Al otro lado alguien busca con quién jugar.»
+  - Opciones numeradas, en cuadritos como teclas:
+    - «[1] Contar a qué juegas»
+    - «[2] Subir tus capturas»
+    - «[3] Buscar quién se apunta»
+    - «[4] Seguir explorando»
+- **Dónde va cada texto**:
+  - el nombre del canal, arriba a la izquierda, en Jost mayúsculas con aire entre letras, como el logo;
+  - en el anillo del portal, los glifos dicen «JUEGA» con la fuente NMS Alphabet, sin tildes y sólo de adorno;
+  - la caja de narración, abajo a la izquierda;
+  - las opciones, a la derecha.
+- **Para que no quede plano**:
+  - delante, hierba alta amarilla y un árbol rojo desenfocado (hoja 3, n.º 4);
+  - entre los planos, niebla verdosa;
+  - el portal brilla y da luz de rebote al traje;
+  - arriba, una nave en diagonal y un planeta gigante en el cielo.
+
+### B · «El Nexo de la Anomalía» → **#proyectos** (foro)
+Texto del canal: «Un hilo por proyecto: equipo, avance, entregas.»
+
+- **Objeto y sitio**: la **terminal del Nexo**, el tablón de misiones en grupo, en la **Anomalía Espacial** (§16). Es una consola con tarjetas de holograma, una por proyecto.
+  - En Blender: planos emisivos cian `#3D8DB3` y `#8AC5D0` con línea `#F2F4F3` sobre `#0A1110`, como los hologramas del Overseer (hoja 3, n.º 16).
+  - El texto va en los hologramas y la luz cae sobre la consola.
+- **Personaje**: **Polo**, el Gek «adorable» y el que explica, de pie con su tablet cian ([Polo-PL](https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/81/Polo-PL.jpg); hoja 1, n.º 26).
+  - Al fondo, **Nada** con su capa (hoja 1, n.º 25). Son la pareja de la Anomalía.
+- **Cómo habla**: la **caja azul actual** (§6 A), con la pestaña «Especialista Polo» y el texto centrado en Roboto.
+  - Primera caja: «Un hilo por proyecto, amigo. Oh, sí.»
+  - Tras la flecha ⌄: «Cuenta quién está, cómo va y qué entregas.»
+  - Opciones a la derecha, con la rayita blanca: «Abrir un hilo», «Ver las etiquetas», «Adiós».
+- **Dónde va cada texto**:
+  - el nombre del canal, arriba, sobre el arco de luces de la estación;
+  - en el tablón, tres tarjetas de ejemplo: «Equipo», «Avance» y «Entregas»;
+  - la caja de Polo, abajo en el centro.
+- **Lámina 2 (las 10 etiquetas)**: el tablón del Nexo en grande.
+  - El avance va como una ruta de misión: Buscando gente → En traducción → En grabación → En edición → En revisión → Estrenado.
+  - «En pausa» y «Cancelado» van en gris, como las opciones bloqueadas.
+  - «Oficial del servidor» y «De la comunidad» van como el trato de 2016 («Current Gek standing»): «Origen: oficial del servidor».
+- **Para que no quede plano**:
+  - la tablet de Polo, delante, le tiñe la cara de cian;
+  - los hologramas son semitransparentes y quedan por delante de Nada;
+  - al fondo, las luces de la estación desenfocadas.
+
+### C · «El parche de la Expedición» → **#eventos**
+Texto del canal: «Lo que se viene. Se convoca con /create y cada uno lo ve en su hora.»
+
+- **Objeto y sitio**: un **parche de Expedición de tela cosida**, como los de §19, clavado en una caja del **hangar del carguero** (hoja 1, n.º 29, luces azules). Por la compuerta abierta se ve el planeta rojo sobre el espacio verde azulado de *Cosmos* (`#49C0A9`, `#3B7872`, `#85514C`).
+  - En Blender: un plano con el relieve del bordado, el borde de puntada crema `#E7E4DC` y la textura del hilo.
+  - Es el tipo de objeto que le gustó al dueño: la luz del hangar marca las puntadas.
+- **Personaje**: **el Viajero con visera dorada y sus dos compañeros**, en la pose de *Cosmos* para **celebrar** (hoja 3, n.º 10), a media distancia.
+  - La otra opción es el Viajero solo en el pasillo, hacia la cámara, como bienvenida (pose 7).
+- **Cómo habla**: la **narración del Viajero** (§6 B), con opciones numeradas.
+  - Narración: «Llega una Expedición. Cada uno la vive a su hora.»
+  - Opciones:
+    - «[1] Ver lo que se viene»
+    - «[2] Convocar con /create»
+    - «[3] Mirarlo en tu hora»
+  - `/create` va en la opción [2], con el número en su cuadrito como una tecla.
+- **Dónde va cada texto**:
+  - «EVENTOS», bordado en el parche, grande y en primer plano;
+  - un reloj pequeño arriba a la derecha, como el nombre y la temperatura del menú rápido («19.0°C» → «Tu hora»);
+  - la caja, abajo.
+- **Para que no quede plano**:
+  - el parche va delante, con relieve y algo desenfocado;
+  - la luz de la compuerta entra en rayos volumétricos de color;
+  - las naves cruzan fuera, en diagonal.
+- **⚠️ No documentado**: cómo es en pantalla la cuenta atrás de las Expediciones. Si hace falta, se mira antes de hacer la lámina.
+
+## Cumplimiento del encargo
+
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | Artbook escaneado entero, blog oficial, cartel de *Cosmos*, fondo oficial y poses vivas numeradas en las hojas. Falta el artista de cada *key art* |
+| 2 | Fotogramas con minuto | ✅ | 12 fotogramas de 5 tráileres, con minuto y enlace `t=`. Las escenas de historia sólo tienen capturas de la wiki |
+| 3 | Fan art y 3D con licencia | ✅ | 10 modelos de Sketchfab con licencia y crédito, 4 de ArtStation, DeviantArt, Reddit y fotos CC BY. No hay un *rig* libre del Viajero |
+| 4 | Sitios, luz, paleta y texturas reales | ✅ | 12 paletas medidas con `estilo.py` y 5 texturas CC0 |
+| 5 | Una letra por uso, con tildes | ✅ | Comprobadas con `fontTools`. La letra de glifos no tiene tildes (dicho). La del cómic no se vio |
+| 6 | Cómo hablan en pantalla | ✅ | Tres cajas de diálogo vistas y medidas por el redactor. La caja es translúcida |
+| 7 | Principales y secundarios, popularidad | ⚠️ | No hay encuesta oficial (buscada). Se usan un hilo de Reddit (131 votos) y los posts con más votos |
+| 8 | Doblaje latino verificado | ⚠️ | **No existe**, comprobado en la API de Steam, en Doblaje Wiki por su API y en un hilo de Steam. ANMTV está bloqueado |
+| 9 | Música, sonido y onomatopeyas | ⚠️ | Banda sonora, Pulse, VocAlien y «kzzkt» con dos fuentes. No se confirmó el tema de la escena más emotiva |
+| 10 | Vídeos y tendencias con minuto | ✅ | 6 tráileres, 2 análisis con duración y vistas, tendencias de 2016 y de TikTok. No hay un reto viral propio |
+| 11 | Videojuegos: interfaz, menús y cajas | ✅ | Un solo juego. Inventario, mapa, menú rápido, HUD, Modo Foto y Game UI Database |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | La remontada, los posts con más votos y una lista de 9 «no» |
+| 13 | Personajes a fondo, cara por emoción | ⚠️ | 13 fichas con frases reales leídas en capturas. La cara por emoción **no existe**, comprobado por la API de la wiki |
+| 14 | Poses en varias escenas | ⚠️ | 10 poses; 4 del Viajero con minuto. «Regañar» no existe (buscado). Nada y Polo tienen pocas poses |
+| 15 | Vestuario con hex | ✅ | Exotraje, multiherramienta, capa de Nada y Artemis medidos. El traje de *Cosmos* y Polo, sin medir |
+| 16 | Sitios y fondos de pantalla en alta | ✅ | La Anomalía y 13 fondos con tamaño, ♥ y autor, uno oficial |
+| 17 | Guía para IA de imagen y de texto | ✅ | Rasgos, paleta, luz, encuadre, palabras que ayudan y que estropean, referencias, y 14 frases reales por emoción |
+| 18 | Técnica y cómo replicarla | ✅ | Motor, voxels (GDC), Modo Foto con sus valores, y receta para Blender y Photoshop. La receta es del redactor, no del estudio |
+| 19 | Texturas 2D | ✅ | Alfabeto, logo, trama hexagonal, parches con hex, iconos de naves y CC0. No hay tramas de manga (no aplica) |
+| 20 | Gustos y detalles | ⚠️ | Tabla de 8 personajes sacada de la wiki. No hay *databooks*; cumpleaños y alturas no existen |
+| 21 | Por qué la aman, escenas que duelen | ⚠️ | Reseñas, premios y Steam con dos fuentes. Las escenas de Artemis no tienen minuto de vídeo ni comentarios con votos |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | No hay fandubs (buscado). Series de *gameplay*, análisis y podcasts en español, sin abrir |
+| 23 | Colaboraciones, figuras y cosplay | ⚠️ | Mass Effect, Youtooz y Palworld (sin confirmar). No se encontró cosplay bien hecho ni cafés temáticos |
+| 24 | Obras parecidas y láminas vecinas | ✅ | Influencias con dos fuentes, comparativas de prensa y las biblias 127 y 65 |
+| 25 | Mundo, historia y símbolos | ✅ | 5 reglas, arcos por año, la ruta de Artemis, el Atlas, los parches y el vocabulario |
+| Conceptos | Los 3 conceptos de lámina | ✅ | Portal, Nexo y parche. Distintos entre sí, con objeto, personaje, caja, textos y profundidad. Hay lámina 2 para las etiquetas de #proyectos |
+| Fuentes | 40 webs distintas | ✅ | 59 dominios enlazados en el texto |
+| Tipos de fuente | Los de «Profundidad exigida» | ⚠️ | Hay oficiales, wikis, foros, arte, vídeo, código y doblaje. The Cutting Room Floor y Wayback están bloqueados por la red del contenedor. TV Tropes no se consultó. En japonés sólo una guía de Steam y Pixiv; coreano y chino no aplican (estudio británico) |
+| Hojas | 3 hojas de contacto | ✅ | 3 JPEG de menos de 1 MB, miradas y descritas número a número |
+| Referencias | `referencias.json` | ✅ | 120 referencias, con Polo corregido |
+
+## Bitácora de búsqueda
+
+**Del redactor (26-sep-2026)**:
+- `juntar_referencias.py` dejó 120 referencias y `juntar_bitacora.py` juntó las bitácoras de los cuatro roles, que van debajo.
+- Bajé de la wiki, con cabecera `Referer`, 11 capturas de diálogo: Polo ×3, Nada ×2, Artemis, el Atlas, Apollo, -null-, el mensaje de Polo desde otro universo y el Viajero Nogiga. Leí su texto con Read y medí sus cajas con `estilo.py`. De ahí salen las frases reales de §13 y §17 y los colores de §6.
+- **Lo confirmado** lleva dos fuentes o está visto o medido (✅). **Lo dudoso** lleva ⚠️.
+- **No encontré**: cómo es en pantalla la cuenta atrás de las Expediciones, frases textuales del Atlas y el tema musical de la escena más emotiva.
+- No hice búsquedas web nuevas: la cuota compartida de la sesión estaba agotada (lo dice texto.md).
+
+## Bitácora
+
+### Bitácora de imagen
+
+- `recolectar.py` (previo, no repetido): Fandom (8 páginas), Wallhaven, Sketchfab, Openverse → `datos-imagen.md`.
+- `investigar_serie.py --serie "No Man's Sky" --wiki nomanssky --paginas Traveller "Priest Entity Nada" "Specialist Polo" Artemis "The Atlas" Multi-Tool Starship Exosuit`: falló primero con `--wiki nomanssky_gamepedia` (subdominio equivocado, error SSL); funcionó con `--wiki nomanssky` → 171 imágenes enlazadas, 70 grandes, 2 hojas de contacto en `herramientas/referencias/no-man-s-sky/` (miradas con Read, copiadas a `hojas/`).
+- `herramientas/estilo.py` (paleta + estilo, con Pillow/numpy/opencv en local, no busca en la red): 9 imágenes — Exosuit/nave por defecto, Multiherramienta estándar, capa de Nada, traje de Artemis, 4 paisajes de planeta de la wiki, 1 fondo de pantalla oficial de Wallhaven.
+- Web search (inglés): «No Man's Sky key art cover retro sci-fi pulp inspiration artist», «No Man's Sky box art 70s science fiction book cover style», «No Man's Sky cover art artist Malcolm Smith Innerspace retro poster design» (pista falsa), «No Man's Sky official merchandise collaboration figure Numskull Fangamer Youtooz», «No Man's Sky crossover collaboration PlayStation exclusive content event», «No Man's Sky Palworld collaboration 2025 official confirmed launched», «No Man's Sky alien language font Korvax Gek Vy'keen glyphs symbol alphabet», «No Man's Sky official wallpapers download nomanssky.com media», «Grant Duncan No Man's Sky art director Chris Foss interview influence», «No Man's Sky fan art ArtStation traveler exosuit illustration», «No Man's Sky logo meaning starburst symbol design», «Art of No Man's Sky official artbook book print», «No Man's Sky cosplay exosuit official recognition photo».
+- Web search (japonés): «No Man's Sky pixiv イラスト ファンアート» → presencia escasa en Pixiv, confirmado.
+- Páginas leídas directamente (curl, filtrando con Python/regex, nunca la respuesta entera): nomanssky.com (blog del arte, crossover con Mass Effect, aniversario, tienda), Wikipedia API (`Development of No Man's Sky`, extracto), GamesBeat (entrevista a Grant Duncan), Push Square (portadas retro de fans), Gematsu (crossover Mass Effect), Insert Coin Clothing, thevideogamelibrary.org (ficha del artbook), archive.org (metadata del escaneo del artbook), Youtooz (tienda oficial).
+- Fandom API (`api.php`, sin bloqueo): `Traveller`, `Exosuit`, `Multi-Tool`, `Space Anomaly`, `Language`, `Alphabet` (extractos de texto) + `imageinfo` de `Alphabet.png` y `Freighter writing.jpg`.
+- Sketchfab API (`v3/search`, `q=No Man's Sky`, `downloadable=true`): 8 modelos con licencia, autor y miniatura confirmados.
+- ambientCG API (`full_json`, ojo: sólo acepta una palabra en `q`, no frases): `metal`, `rust`, `panel`, `paper`, `fabric` → 3 texturas CC0 elegidas (Corrugated Steel 009, Metal 063, Solar Panel 003).
+- Bloqueados: time.com (403 a curl), highdefdigest.com (403, Cloudflare), tweaktown.com (403); `navegar.py` no pudo abrir ninguno (falta el ejecutable de Chromium en este contenedor: «BrowserType.launch: Executable doesn't exist»). No insistí más de dos intentos en cada uno, según la regla.
+
+### Bitácora de video
+
+- Miré con `fotogramas.py`: tráiler de anuncio (archive.org, mirror de YouTube aCgWabJssVI), tráiler E3 2015 (Dailymotion x89lilx), tráiler «Echoes» (Dailymotion x8nggcs), tráiler «Prisms» (Dailymotion x89nujz) y tráiler del 10.º aniversario (archive.org, mirror de YouTube -sK7EGiJSDk). Todos los clips venían ya localizados en `datos-video.md` salvo el del 10.º aniversario, que busqué porque es el más reciente (ago-2026) y encaja con «planetas de colores» del encargo.
+- Probé `fotogramas.py` directo contra YouTube dos veces (aCgWabJssVI y -sK7EGiJSDk): ambas dieron «Sign in to confirm you're not a bot» (bloqueo de este servidor). Plan B que funcionó: el mismo vídeo mirrorado en `archive.org/details/youtube-<id>`, tal y como indica AYUDANTE.md.
+- Intenté `yt-dlp` para sacar metadatos (duración/vistas) de dos vídeos de análisis en YouTube: uno dio 429 en el primer intento y funcionó al repetir («The Redemption Of No Man's Sky», GameSpot); el otro («The Engoodening», Internet Historian) siguió bloqueado, así que usé IMDb + Lemmy.World para la duración.
+- Medí color y estilo con `herramientas/estilo.py` sobre 10 fotogramas propios (no descargué arte de terceros para esto).
+- Búsquedas web (inglés, ~10 de mi cupo de 50): «65daysofstatic No Man's Sky soundtrack interview», «Paul Weir procedural audio No Man's Sky interview», «No Man's Sky TikTok viral trend meme», «No Man's Sky redemption documentary Noclip», «The Engoodening video essay», «No Man's Sky TikTok millions views», «No Man's Sky 10th anniversary trailer 2026 update», «No Man's Sky launch controversy meme lying Sean Murray». No hice búsquedas en japonés/coreano: el estudio (Hello Games) es británico y la obra no viene de Asia, así que no aplica ese requisito de ENCARGO.md.
+- Wiki de Fandom (`nomanssky.fandom.com`) por su API: wikitext de «Music for an Infinite Universe» (lista de pistas verificada) e imágenes ya recolectadas del Viajero (descargadas con cabecera `Referer` para poder mirarlas).
+- ambientCG (`api/v2/full_json`): texturas de arena/tierra («Ground054») y roca («Rock061»), ambas CC0, para las «texturas reales equivalentes» del punto 4.
+- No until usé `navegar.py`: no hizo falta, ninguna web relevante bloqueó curl directamente (TikTok y Dailymotion respondieron bien por API).
+
+### Bitácora de voz
+
+- Doblaje Wiki API (`doblaje.fandom.com/es/api.php`): 3 variantes de título +
+  1 búsqueda de texto libre → sin página de la obra (español).
+- Fandom `nomanssky.fandom.com/api.php`: wikitext de Nada→Priest Entity Nada,
+  Polo→Specialist Polo, Gek, Korvax, Vy'keen, The Atlas, Sentinel, Artemis,
+  Apollo, -null-, Telamon; `imageinfo` de 8 imágenes para medir tamaño real
+  (inglés).
+- WebSearch (inglés y español): doblaje/voces NMS, voice actor narrator
+  credits, Paul Weir alien language, Rutger Hauer trailer, meme Sean Murray
+  redemption arc, Steam Awards Labour of Love, review 2024/2025 comeback,
+  fandub español, lágrimas en la lluvia homenaje, gameplay comentado latino.
+- `behindthevoiceactors.com` vía `navegar.py` (Cloudflare bloquea curl
+  directo) → ficha de reparto.
+- Steam Store API `appdetails` (oficial) → tabla de idiomas.
+- `navegar.py` sobre Steam Community (discusión doblaje) y Steam Store
+  (tabla de idiomas) → funcionó bien, sin bloqueo.
+- `herramientas/voz.py` sobre el tráiler de Rutger Hauer (mirror Dailymotion
+  x443lhp) → transcripción + análisis de voz.
+- Arctic Shift (Reddit, inglés): `posts/search` con `title=` (nota: el
+  parámetro `sort` sólo acepta `asc`/`desc`, no `sort_type`; búsquedas de una
+  sola palabra como «cry», «chills», «beautiful», «masterpiece» devuelven 0
+  resultados aunque el hilo exista — el buscador de título parece exigir
+  coincidencias más largas o exactas — mientras que frases de 2-3 palabras sí
+  funcionan) y `comments/search` con `body=Artemis`.
+- ANMTV bloqueado por política de proxy del contenedor (`connect_rejected`),
+  probado por curl y por `navegar.py`.
+- Wikipedia API: `Development of No Man's Sky` (extracto, confirma a Paul
+  Weir y 65daysofstatic) funcionó; una segunda consulta a `No Man's Sky` dio
+  «too many requests» (límite de tasa) y no reintenté para no gastar cupo.
+
+### Bitácora de texto
+
+- `datos-texto.md` (recolectado antes): sólo 6 capturas de Steam de interfaz 1920×1080 — miradas en contacto propio (`contacto_steam.jpg`), sin diálogo visible en ninguna (son capturas de marketing sin HUD).
+- Leído primero `imagen.md` y `video.md` (ya escritos por los otros investigadores) para no repetir: el alfabeto alien, el logo, las 4 paletas de planeta y los modelos Sketchfab ya estaban ahí — aquí sólo se referencian, no se repiten.
+- GitHub: `add_repo` + clon superficial de `NMSCD/No-Mans-Sky-Universal-Font` (con `GIT_LFS_SKIP_SMUDGE=1`) para bajar los 4 `.ttf` reales y comprobarlos con fontTools (`TTFont(f).getBestCmap()`, chequeo de á é í ó ú ñ Ñ ¿ ¡ ü) — los cuatro dieron `True` en todo.
+- Google Fonts / Fontsource: `api.fontsource.org/v1/fonts?family=Jost` (licencia OFL, subsets latin+latin-ext) y descarga directa de `fonts.gstatic.com` para Jost y Roboto, comprobadas igual con fontTools.
+- Fandom API (`nomanssky.fandom.com/api.php`, sin bloqueo): páginas `Language`, `Alphabet`, `NPC conversation` (obsoleta), `Automatic translation device`, `Adventures in No Man's Sky`, `Artemis`, `The Atlas`, `Sentinel`, `Expedition Patches`, `Inventory`, `Quick Menu`, `Overseer (NPC)`, `Discoveries` — texto (`prop=wikitext`) e imágenes (`prop=pageimages` / `allimages`).
+- Imágenes propias miradas con Read (no sólo citadas): `dialogue.jpg` (cuadro de diálogo real, 2522×1138), `contacto_ui.jpg` (inventario 2016 + menú rápido), `overseer.jpg` (hologramas), `patches.jpg` (2 parches de expedición), `contacto_steam.jpg` (6 capturas oficiales de Steam) — todas medidas en hex con `herramientas/estilo.py`.
+- Steam: `store.steampowered.com/api/appdetails?appids=275850` (lista completa de 189 capturas, sólo usadas las ya citadas).
+- `python3 herramientas/navegar.py` (sin ventana, con Chromium): funcionó para `gameuidatabase.com` (pasó el reto de Cloudflare) pero **no** para `tcrf.net` (403 duro, no es el mismo tipo de verificación).
+- `WebSearch` (11 búsquedas antes de agotarse la cuota compartida de la sesión, en inglés): fuente UI/HUD, fuente del logo, mecánica de diálogo alienígena, cómic "Adventures in No Man's Sky", lista de expediciones, cita "playable painting" (sin resultado), filtros de post-proceso, juegos parecidos, tutorial de Blender estilo NMS, fuente CJK, inspiración de Sean Murray en "Elite".
+- Bloqueados: `tcrf.net` (403 Cloudflare, con y sin navegar.py) y `web.archive.org` (confirmado esta tanda como **bloqueo de política de egress del contenedor**, no de la fuente ni de Cloudflare: `curl` por `http://` devolvió el texto literal "Blocked by egress policy") — repetido en esta tanda de relanzo por las tres vías posibles, sin éxito; no se insiste más, es un límite de infraestructura, no de investigación.
+- Verificación propia del repositorio: `ls biblias/` para comparar con otras láminas del servidor (punto 24), sin necesidad de fuente externa.
+- **Segunda pasada (relanzo, 25-sep-2026)**: se cerraron los 4 huecos ⚠️ que quedaban como extra — (1) fuente real del alfabeto alien descargada del bundle JS de `alphabet.nmscd.com` (`raw.githubusercontent.com/NMSCD/Expedition-Alphabet/.../nms-alphabet.ttf`) y comprobada con fontTools (NO trae tildes/ñ/¿¡, dato ahora confirmado en vez de dudoso); (2) captura propia del Galactic Map (`nomanssky.fandom.com`, imagen oficial 1920×1080) mirada y medida con `estilo.py`; (3) segunda imagen oficial de una Atlas Interface (`NMSAtlasInterface.jpg`) mirada directamente para confirmar la forma del símbolo del Atlas, antes sólo descrita en texto; (4) TCRF/Wayback reintentado por 3 vías, confirmado bloqueo de política de red del contenedor (no de la fuente, no hace falta reintentar). `texto.json` pasó de 12 a 15 referencias.

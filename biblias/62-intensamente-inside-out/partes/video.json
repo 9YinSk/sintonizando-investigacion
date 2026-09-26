@@ -31,8 +31,53 @@
     "fuente": "Dailymotion",
     "ancho": 640,
     "alto": 360,
-    "que_es": "Escena final de Intensamente 2: ataque de pánico de Ansiedad y abrazo grupal de las emociones, 9:15",
-    "para_que": "Punto 2: escena final (ending) de la trama; también punto 4 (paleta de la consola) y 14 (poses)",
+    "que_es": "Compilación 'Ending: Riley Panic/Anxiety attack'; sólo 0:00-4:40 es metraje real de Intensamente 2, el resto es fan art 2D no oficial",
+    "para_que": "Punto 2: escena final (ending), usar sólo minuto 0:00-4:40",
+    "licencia": "Copyright Disney/Pixar (0:00-4:40); fan art no oficial después, no usar como referencia de estilo"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8u17p0?t=60",
+    "fuente": "Dailymotion (fotograma propio, medido con estilo.py)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Cuartel General: Alegría y Vergüenza junto al panel de la consola, minuto 1:00 del tráiler de Intensamente 2",
+    "para_que": "Punto 4: paleta y luz de la consola (violeta/lavanda/magenta medidos); punto 14: pose de presentar",
+    "licencia": "Copyright Disney/Pixar; uso como referencia de investigación, no para publicar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8u17p0?t=30",
+    "fuente": "Dailymotion (fotograma propio, medido con estilo.py)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Ansiedad de pie ante el resto de emociones y el panel de luces de colores, minuto 0:30 del tráiler de Intensamente 2",
+    "para_que": "Punto 4: paleta y luz de la sala de consola; punto 14: pose de explicar/advertir",
+    "licencia": "Copyright Disney/Pixar; uso como referencia de investigación, no para publicar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8u17p0?t=90",
+    "fuente": "Dailymotion (fotograma propio, medido con estilo.py)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Pista de hockey cubierta con jugadores en fila, minuto 1:30 del tráiler de Intensamente 2",
+    "para_que": "Punto 4: paleta y luz de la pista; punto 14: pose de presentar/animar",
+    "licencia": "Copyright Disney/Pixar; uso como referencia de investigación, no para publicar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2nnb8i?t=45",
+    "fuente": "Dailymotion (fotograma propio, medido con estilo.py)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Cocina familiar de Minnesota con el padre, minuto 0:45 del tráiler de Intensamente (2015)",
+    "para_que": "Punto 4: paleta y luz de la cocina (marrones/beige medidos)",
+    "licencia": "Copyright Disney/Pixar; uso como referencia de investigación, no para publicar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3ok2ma?t=8",
+    "fuente": "Dailymotion (fotograma propio, medido con estilo.py)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Memoria a Largo Plazo: Bing Bong caminando con Alegría y Tristeza, minuto 0:08 del clip 'Meet Bing Bong'",
+    "para_que": "Punto 4: paleta y luz de las estanterías de recuerdos (rosas/lilas medidos)",
     "licencia": "Copyright Disney/Pixar; uso como referencia de investigación, no para publicar"
   },
   {
@@ -87,6 +132,15 @@
     "alto": 1080,
     "que_es": "Compilación de las escenas post-créditos de Intensamente 1 y 2, 2:51",
     "para_que": "Punto 10: vídeo de referencia sobre easter eggs de la franquicia",
+    "licencia": "Copyright Disney/Pixar; uso como referencia de investigación, no para publicar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x921a3q?t=90",
+    "fuente": "Dailymotion (fotograma propio, medido con estilo.py; vídeo de baja calidad)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Patio exterior con mesas de pícnic del colegio nuevo, minuto 1:30 del clip promocional de Intensamente 2",
+    "para_que": "Punto 4: paleta y luz del colegio (tinte azul/violeta puede ser del archivo, no del color real)",
     "licencia": "Copyright Disney/Pixar; uso como referencia de investigación, no para publicar"
   },
   {

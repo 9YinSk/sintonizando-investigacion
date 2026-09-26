@@ -14,7 +14,7 @@ de reseñas):
 - Tráiler oficial T1 (Dailymotion, doblado/subtitulado, canal `adorocinema`) — `fotogramas.py --cada 3`.
 - Tráiler oficial T2 (Dailymotion, canal `FilmAffinity`, **audio/subtítulos en español**) — `fotogramas.py --cada 3`.
 - «Highlight Moment 2024» (Dailymotion, canal The World Of Isekai - Clip): resultó ser un fragmento largo (6:35) **entero del episodio 24** (subtitulado en inglés), no un resumen — `fotogramas.py --cada 5`.
-- Episodio 1 completo (T1), archivo `Tsuki 1.mp4` (Internet Archive, ítem `tsuki-ga-michibiku-isekai-douchuu`, sub. español de AnimeFenix, 1920×1080) — visto con `ffmpeg -ss` directo sobre la URL (sin bajar el archivo entero: el servidor de Internet Archive acepta *range requests*).
+- Episodios 1 y 2 completos (T1), archivos `Tsuki 1.mp4` y `Tsuki 2.mp4` (Internet Archive, ítem `tsuki-ga-michibiku-isekai-douchuu`, sub. español de AnimeFenix, 1920×1080) — vistos con `ffmpeg -ss` directo sobre la URL (sin bajar el archivo entero: el servidor de Internet Archive acepta *range requests*).
 - Episodio 1 de la 2ª temporada completo, archivo `[SubsPlease] ...S2 - 01 (1080p)` (Internet Archive, ítem `subs-please-tsuki-ga-michibiku-isekai-douchuu-s-2-01-1080p-0316510-f.mkv`, derivado 1280×720, sub. inglés) — mismo método.
 - Un tercer clip de Dailymotion resultó ser **contenido ajeno** (gameplay de un shooter con una vtuber, mal etiquetado como «episodio 5»): descartado, no se cita.
 
@@ -22,9 +22,7 @@ Hojas y fotogramas de trabajo en
 `/tmp/claude-0/trabajo/87-tsukimichi-moonlit-fantasy-video/` (fuera del
 repositorio; se borran los `video.mp4` al terminar).
 
-## Hallazgos
-
-### Punto 2 — Fotogramas de escenas icónicas (opening, ending, tráiler, escenas)
+## 2 · Fotogramas de escenas icónicas
 
 **Tráiler oficial temporada 1** (voz/subtítulos en español, «Trailer Oficial», adorocinema) · https://www.dailymotion.com/video/x908684 · mirado entero cada 3 s (32 fotogramas, 0:00-1:35):
 - Tsukuyomi (la diosa que resume a Makoto), silueta alada blanca de cuerpo entero, luz detrás · &t=18 · ✅ (coincide con su artwork de la wiki en imagen.md) · 0:18
@@ -48,13 +46,13 @@ repositorio; se borran los `video.mp4` al terminar).
 - Hojas: `highlight2024/hoja_01.jpg` y `hoja_02.jpg`.
 - Esta es la escena que se hizo viral en TikTok como «all he did was shoot a bow» (ver punto 10): coincide exactamente con este tramo.
 
-**Escena icónica: introducción de Mio, episodio 1** · `Tsuki 1.mp4` (Internet Archive) · minuto 22:00:
-- Mio (pelo aguamarina, cuernos/adorno dorado, kimono rojo) guiña un ojo y dice «Prefiero que me llames samurái», con Makoto reaccionando en un recuadro azul · https://archive.org/details/tsuki-ga-michibiku-isekai-douchuu (archivo «Tsuki 1.mp4») · ⚠️ (un solo sub, en español de fansub AnimeFenix, pero el minuto y la wiki de personajes confirman que Mio ama la cultura samurái/japonesa) · 22:00
+**Escena icónica: Tomoe (con su nombre humano «Shin») pide que la llamen samurái, episodio 1** · `Tsuki 1.mp4` (Internet Archive) · minuto 22:00:
+- Tomoe (pelo celeste, cuernos/adorno dorado, kimono rojo) guiña un ojo y dice «Prefiero que me llames samurái», con Makoto reaccionando en un recuadro azul · https://archive.org/details/tsuki-ga-michibiku-isekai-douchuu (archivo «Tsuki 1.mp4») · ✅ (el color de pelo «light blue» coincide con la ficha de Tomoe en la wiki, y la lista de personajes de «Anime Episode 01» confirma que Mio no aparece en este episodio; sólo «Shin», nombre humano provisional de Tomoe) · 22:00
 
 **Escena icónica: contrato de sangre con Tomoe (forma de dragón), episodio 1** · `Tsuki 1.mp4` · minuto 20:00:
 - Tomoe en forma de dragón (verde azulado, herida ardiente en la cabeza) protesta «¿Una herida? ¿Cómo? ¡Si soy resistente al fuego!» mientras una criatura chibi dorada la molesta y Makoto pide «Por favor, para» · ✅ (la wiki confirma que Tomoe es una dragona que se transforma en humana tras jurar lealtad a Makoto en el episodio 1) · 20:00
 
-### Punto 4 — Fondos y sitios: luz y paleta medida en fotograma
+## 4 · Fondos y sitios: luz y paleta medida en fotograma
 
 Paletas sacadas con `herramientas/estilo.py` sobre fotogramas propios (1280 px), no de arte promocional:
 
@@ -63,7 +61,7 @@ Paletas sacadas con `herramientas/estilo.py` sobre fotogramas propios (1280 px),
 - **Cumbre nevada de noche** (fondo del opening T2, min. 1:58): paleta `#2F56B0` 22% · `#4286CD` 21% · `#0A113E` 18% · `#183875` 16% · `#3CBCE2` 15% · `#90D0E6` 7%. Azul profundo dominante, saturación muy alta (73%) — es el fondo donde se ve a Tomoe sentada mirando las estrellas; encaja con el tono «Moonlit» (luz de luna) del título. ✅ (medido)
 - Las tres paletas son de fotogramas propios, con su minuto arriba; sirven de referencia de luz/hora del día para el punto 16 (imagen).
 
-### Punto 9 — Música y sonido
+## 9 · Música y sonido
 
 - **Opening T1**: «Gambling» (ギャンブル), interpretada por **syudou** (productor/utaite conocido en Japón) · ✅ (wiki + créditos «オープニングアニメーション» vistos en el propio OP, `Tsuki 1.mp4` min. 1:50) · confirmado con `tsukigamichibikuisekaidouchuu.fandom.com` página «Gambling (song)».
 - **Opening T2**: «Utopia» (ユートピア), interpretada por **Keina Suda** · ✅ (wiki «Utopia (song)» + créditos vistos en pantalla en `[SubsPlease] S2-01` min. 1:18-2:22, con logo «Season Two 第二幕»).
@@ -72,7 +70,7 @@ Paletas sacadas con `herramientas/estilo.py` sobre fotogramas propios (1280 px),
 - Director de ambas temporadas: **Shinji Ishihira** (石平信司), confirmado en los créditos de OP y ED de las dos temporadas y en la wiki de episodios ✅.
 - No se encontró aún el compositor de la banda sonora incidental (sólo los temas de OP/ED); ver «No encontré».
 
-### Punto 10 — Vídeos: tráileres, escenas, tendencias
+## 10 · Vídeos: tráileres, escenas y tendencias
 
 - **Tendencia TikTok confirmada**: la escena del episodio 24 (Makoto derrotando a Sofia «Lancer» sólo con arco) circula como edit viral con el texto burlón «all he did was shoot a bow», etiquetas `#tsukimichimoonlitfantasy` `#moonlitfantasy` `#animeedit` · ✅ (coincide exactamente con el clip mirado arriba en el punto 2, min. 4:15-5:15 del clip largo) — búsqueda web «Tsukimichi Moonlit Fantasy TikTok viral clip edit».
 - Otros edits de TikTok con Tomoe y Mio («Tomoe and Mio don't let nothing slide», 23.6 mil «me gusta») muestran a las dos poniendo en su lugar a aventureros arrogantes — escena de la novela ligera/manga, no localizada aún en el anime con minuto exacto ⚠️ (una fuente, sin minuto propio).
@@ -80,7 +78,7 @@ Paletas sacadas con `herramientas/estilo.py` sobre fotogramas propios (1280 px),
 - **3ª temporada**: anunciada para 2026-2027, aún sin fecha exacta ni tráiler oficial confirmado a 25-sep-2026 (estudio J.C.Staff continúa) · ⚠️ (medios de fans, sin confirmación oficial de la productora) — importante para no dar por hecho contenido de S3 que aún no existe.
 - Tráileres oficiales de ambas temporadas: ver punto 2 (con minuto exacto ya citado).
 
-### Punto 14 — Poses analizadas por personaje
+## 14 · Poses analizadas por personaje
 
 Todas de vídeo mirado con `ffmpeg`/`fotogramas.py` (episodios y tráilers de arriba), con minuto real.
 
@@ -95,6 +93,9 @@ Todas de vídeo mirado con `ffmpeg`/`fotogramas.py` (episodios y tráilers de ar
 | Tomoe en forma de dragón, cabeza herida, protesta indignada mientras una criatura la molesta | T1 ep. 1 | 20:00 | Regañar (en broma) |
 | Tomoe humana sentada en un pico nevado, mirando las estrellas, rodillas recogidas | T2 ep. 1 (OP) | 1:58 | Pensar / momento de calma |
 | Tomoe sujeta la cara de Makoto con ambas manos, de cerca | Tráiler T1 | 1:03-1:06 | Celebrar reencuentro / cercanía |
+| Tomoe humana recién transformada, pelo al viento, mano en la cabeza, mirando alrededor con curiosidad | T1 ep. 2 | 3:20 | Presentar / explicar situación nueva |
+| Tomoe con un hacha al hombro, mano en la cadera, tono burlón hacia unos orcos | T1 ep. 2 | 10:00 | Explicar con autoridad / burla |
+| Tomoe furiosa, marcas de enfado sobre la cabeza, boca abierta gritando, persiguiendo a Makoto | T1 ep. 2 | 20:00 | Regañar |
 | Mio guiña un ojo, mano cerca de la cara, sonrisa ladeada, pide que la llamen «samurái» | T1 ep. 1 | 22:00 | Explicar con humor / broma de personalidad |
 | Mio narra en off «quiero ver qué hace mi amo, ya no puedo esperar», silueta alada emergiendo | T1 ep. 1 | 21:40 | Animar / lealtad expectante |
 | Trío Makoto-Tomoe-Mio caminando de espaldas, en *chibi*, bajo un sol sonriente (ending) | T2 ep. 1 (ED) | 22:20-23:30 | Celebrar / cierre alegre en grupo |

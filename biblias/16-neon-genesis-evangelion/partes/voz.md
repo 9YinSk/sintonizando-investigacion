@@ -176,25 +176,35 @@ personaje que encontré, del tráiler de Xataka México:
 
 ### 13.2 Cara en cada emoción
 
+Los clips oficiales doblados en Dailymotion son tráilers de 0:37-1:31 con
+montajes de acción (Eva peleando), sin primeros planos de cara utilizables.
+**Sí encontré vídeo real con capítulos completos**: en Internet Archive hay
+una grabación de la emisión de **Toonami/Cartoon Network** (doblaje inglés,
+identifier `neon-genesis-evangelion-toonami-rip`, 47 min con cortes
+publicitarios) que corresponde al **episodio 8 «Asuka Strikes!»** (se
+reconoce por la escena de Kaji llegando y el accidente de la Unidad 00 al
+principio) más un fragmento de otro episodio después del corte publicitario
+de las 36:45. Es doblaje **inglés**, no latino, y el minuto es el de **esta
+grabación de TV con anuncios**, no el de la edición japonesa que cita el
+resto de la biblia — lo aviso en cada fila. Saqué los fotogramas con
+`fotogramas.py --fotograma <segundo>` y los miré con Read antes de anotarlos:
+
 Personaje | Emoción | Episodio | Minuto | Fotograma (enlace)
 ---|---|---|---|---
-Asuka | Rabia | ep. 8 | 00:04:06 | ⚠️ sin fotograma propio — descrito de memoria en biblia §8 (abofetea a Shinji); no hay clip oficial de ese minuto en Dailymotion/Internet Archive para capturarlo
-Shinji | Miedo | ep. 1 | 00:15:38 | ⚠️ sin fotograma — el mismo minuto del meme «Get in the robot»; sin acceso al episodio completo
-Rei | Alegría | ep. 6 | 00:21:35 | ⚠️ sin fotograma — su única sonrisa de la serie, citada en biblia §8 y §9 (frase más votada de NHK); sin acceso a vídeo
-Misato | Alegría | ep. 2 | 00:13:14 | ⚠️ sin fotograma — bebiendo cerveza, «¡Eres el número uno!»
-Gendo | (sin emoción visible) | toda la serie | — | ⚠️ la «pose Gendo» es precisamente la cara sin emoción (manos delante de la boca, gafas que brillan) — confirmada como meme (punto 12), sin fotograma propio
-Kaworu | Vergüenza / ternura | ep. 24 | 00:05:51 | ⚠️ sin fotograma — risa corta «アッハハ»
+Shinji | Miedo (ojos muy abiertos, sudor, boca tensa) | ep. 8 o siguiente (ver aviso arriba) | 41:00 de la grabación | ✅ [fotograma real](https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=2460) (Internet Archive, Toonami, doblaje inglés)
+Ritsuko Akagi | Alarma / enfado (cejas fruncidas, boca abierta gritando) | ep. 8 | 20:15 de la grabación | ✅ [fotograma real](https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=1215) — coincide con el accidente de la Unidad 00 al principio del episodio
+Rei Ayanami | Dolor / vulnerabilidad (cabeza vendada, ojos entrecerrados) | ep. 8 | 20:30 de la grabación | ✅ [fotograma real](https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=1230) — justo después del accidente de su Eva
+Asuka | Rabia | ep. 8 | 00:04:06 (minuto japonés, biblia §8) | ⚠️ sin fotograma propio — no aparece en los 47 min de esta grabación (Toonami cortó/reordenó escenas); sigue pendiente
+Misato | Alegría | ep. 2 | 00:13:14 (minuto japonés, biblia §8) | ⚠️ sin fotograma — este episodio no está en la grabación de Toonami que conseguí; lo más parecido que capturé (34:00, hablando por radio-teléfono mientras mira a Shinji) es seriedad, no alegría
+Gendo | (sin emoción visible, la «pose Gendo») | toda la serie | — | ⚠️ no sale en este episodio; sigue confirmada como meme (punto 12) sin fotograma propio
+Kaworu | Vergüenza / ternura | ep. 24 | 00:05:51 (minuto japonés) | ⚠️ sin fotograma — Kaworu no aparece hasta el ep. 24, fuera de lo disponible en Internet Archive
 
-**No pude sacar fotogramas propios para esta tabla**: los clips oficiales
-doblados disponibles en Dailymotion son tráilers de 0:37-1:31 con montajes muy
-rápidos (varios planos por segundo) y no llegan a los minutos de episodio que
-hacen falta para estas seis emociones; los episodios completos están sólo en
-Netflix/Crunchyroll (bloqueados) o YouTube (pide iniciar sesión desde este
-servidor). Intenté `fotogramas.py` sobre los tráilers de Dailymotion
-(`x89nqnd`, `x8czp5s`) buscando encuadres de cara: son planos de acción (Eva
-peleando), no primeros planos de rostro utilizables para esta tabla. Dejo la
-tabla con los minutos ya verificados en la biblia (§8) para que quien tenga
-acceso a los episodios completos capture el fotograma exacto.
+**Cómo seguir esto**: en Internet Archive sólo hay episodios sueltos de
+Evangelion (busqué `identifier:erai-raws-neon-genesis-evangelion*` y sólo
+salen los ep. 3 y 4 en japonés con subtítulos, sin la escena de Asuka/Misato/
+Kaworu que faltan). Si se consigue el ep. 2 (Misato), ep. 8 completo sin
+cortes de Toonami (Asuka) o el ep. 24 (Kaworu) en algún archivo público, la
+tabla se completa igual con `fotogramas.py`.
 
 ## 20 · Gustos y detalles de cada personaje
 
@@ -263,9 +273,30 @@ escenas que hacen llorar, que **no estaban** en la biblia.
 
 ## 22 · Fan dubs y comunidad hispana
 
-**No encontré fan dubs de escenas completas en español en YouTube/TikTok
-accesibles desde este servidor** (YouTube pide iniciar sesión; TikTok no
-tiene buscador abierto para esto). Lo que sí verifiqué:
+**No encontré fan dubs de escenas habladas completas en español en
+YouTube/TikTok accesibles desde este servidor** (YouTube pide iniciar sesión;
+TikTok no tiene buscador abierto para esto). Con la API de Dailymotion sí
+encontré un **cover cantado del opening en español** (lo que pide el punto
+22 explícitamente) y confirmé que es real oyéndolo con `voz.py`:
+
+- **«Evangelion - opening español»** (90 s, subido por «kidabashasha», 13
+  vistas, [Dailymotion](https://www.dailymotion.com/video/x3bwse); hay una
+  segunda copia subida por otro usuario con las mismas vistas de tipo,
+  [x4sdbj](https://www.dailymotion.com/video/x4sdbj)) — es un **cover cantado
+  de fans** de «Zankoku na Tenshi no Teeze» con letra propia en español, **no**
+  el doblaje oficial (la propia biblia §10 ya dice que la canción no se dobló
+  oficialmente en el paso por I.Sat). Frase real transcrita con `voz.py`:
+  «Con esa sonrisa cansecedor(a) / es lo que tú buscas con obsesión / y no
+  puedes ver tu destino así / con ojos tan inocentes» (0:32-0:50) · voz
+  aguda (228 Hz), muy expresiva (30,7 semitonos) ✅ (audio oído directamente).
+- **Fandub etiquetado como tal**: «cosplay butterfly-fairy (asuka langley
+  soryu) evangelion fandub NeoPhantom2007»
+  ([Dailymotion](https://www.dailymotion.com/video/xlka0b), 85 s, 1 vista) —
+  el título lo marca como fandub de Asuka; vistas muy bajas, no lo pude
+  verificar más (canal antiguo, posible cosplay con audio, no lo escuché por
+  presupuesto de la tanda) ⚠️.
+
+Lo que sí verifiqué antes de esto:
 
 - **AMV con música en español/rock, no fandub de voz**: [«Neon Genesis
   Evangelion - Rammstein - Engel»](https://www.dailymotion.com/video/x2yjm4k)
@@ -318,8 +349,12 @@ tiene buscador abierto para esto). Lo que sí verifiqué:
   tráilers de Dailymotion (son planos de acción, no de diálogo). ⚠️ extra,
   no obligatorio: la biblia ya avisa que el minuto de sus citas es del
   audio japonés.
-- Fotogramas propios para la tabla de «cara en cada emoción» (13.2): mismos
-  bloqueos de vídeo. ⚠️ extra.
+- Fotogramas propios para Asuka (rabia), Misato (alegría), Gendo y Kaworu en
+  la tabla de «cara en cada emoción» (13.2): conseguí 3 de 6 con una
+  grabación real de Toonami en Internet Archive (episodio 8); los otros 3
+  personajes no aparecen en esa grabación ni en los episodios sueltos que
+  encontré (ep. 3 y 4 japoneses en Internet Archive). ⚠️ extra (ya con avance
+  real, no es sólo descripción de memoria).
 - Fan dubs de voz completos en español (sólo un AMV con canción, no habla) —
   búsquedas: Dailymotion `q=Neon Genesis Evangelion fandub español/latino`
   (ya en `datos-voz.md`, sin resultados de fandub real), YouTube bloqueado.
@@ -352,12 +387,30 @@ tiene buscador abierto para esto). Lo que sí verifiqué:
 - Intenté `fotogramas.py` sobre los clips de Dailymotion de `datos-video.md`
   (`x89nqnd`, `x8czp5s`) buscando primeros planos de cara para el punto 13.2:
   son montajes de acción, no sirven para la tabla de emociones.
+- Internet Archive, búsqueda `title:(Neon Genesis Evangelion) AND
+  mediatype:(movies)` — encontré `neon-genesis-evangelion-toonami-rip` (47
+  min, emisión real de Toonami con anuncios, doblaje inglés) y lo miré entero
+  con `fotogramas.py --cada 15` (192 fotogramas, 4 hojas de contacto) más
+  `--fotograma` en 6 segundos concretos para sacar caras en alta. Es el
+  episodio 8. También busqué `identifier:erai-raws-neon-genesis-evangelion*`:
+  sólo hay ep. 3 y 4 (japonés, sin los personajes que me faltaban).
 - Arctic Shift (Reddit): repetí la consulta del subreddit de Evangelion, con
   el mismo resultado que `recolectar.py` (no lo encuentra) — no insistí más
   de dos veces, según la regla de AYUDANTE.md.
 - Búsquedas de fan dub en Dailymotion (español y latino) — ya hechas por
   `recolectar.py` en `datos-voz.md`: sólo devuelven tráilers oficiales y un
-  AMV, no fandubs de voz.
+  AMV, no fandubs de voz. Repetí con la API de Dailymotion con términos más
+  específicos («Cruel Angel Thesis cover español», «Evangelion fandub voz
+  español») y esta vez sí salió un cover cantado real del opening y un vídeo
+  etiquetado «fandub» de Asuka — confirmé el cover oyéndolo con `voz.py`.
 - No hay `biblias/131-evangelion-tarjetas-y-nerv/` con `voz.md` propio: el
   encargo 131 comparte carpeta con esta serie (misma obra), pero no tiene
   biblia escrita aún, así que no había nada que leer de una «serie hermana».
+
+Sigue: completar la tabla de «cara en cada emoción» (13.2) para Asuka
+(rabia), Misato (alegría) y Kaworu (vergüenza/ternura) con fotograma real —
+sólo conseguí capturar Shinji, Ritsuko y Rei del episodio 8 (Toonami,
+Internet Archive); esos tres personajes no aparecen en ese episodio ni en los
+únicos sueltos que hay en Internet Archive (ep. 3 y 4). Hace falta encontrar
+en algún archivo público el ep. 2 (Misato), el ep. 8 completo sin cortes de
+Toonami (Asuka) o el ep. 24 (Kaworu).

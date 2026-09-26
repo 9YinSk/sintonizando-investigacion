@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://archive.org/download/y-2mate.com-neon-genesis-evangelion-opening-full-english-version-a-cruel-angels-thesis-360p/y2mate.com%20-%20Neon%20Genesis%20Evangelion%20Opening%20Full%20English%20Version%20A%20Cruel%20Angels%20Thesis_360p.mp4",
+    "fuente": "Internet Archive",
+    "ancho": 480,
+    "alto": 360,
+    "que_es": "Opening completo «A Cruel Angel's Thesis» (Yoko Takahashi), 4:03, visto entero con fotogramas.py",
+    "para_que": "Punto 2 y 9: planos reales del opening (silueta en cruz sobre la luna, min. 3:45) y su paleta",
+    "licencia": "Copia de fans en Internet Archive; sólo consulta/referencia, no redistribuir"
+  },
+  {
+    "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20End%20Theme%20Fly%20Me%20To%20The%20Moon%20%5B280BF995%5D.mp4",
+    "fuente": "Internet Archive",
+    "ancho": 640,
+    "alto": 480,
+    "que_es": "Ending «Fly Me to the Moon» de un episodio (imagen fija: luna llena tras ramas), 65 s",
+    "para_que": "Punto 9: confirmar que el ending cambia de imagen fija por capítulo; punto 4: paleta azul noche real",
+    "licencia": "Copia de fans en Internet Archive; sólo consulta"
+  },
+  {
+    "url": "https://archive.org/download/youtube-JGcbdUgNYOY/JGcbdUgNYOY.mp4",
+    "fuente": "Internet Archive (subida oficial de GKIDS)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial «The End of Evangelion», 30 aniversario, distribuidora GKIDS",
+    "para_que": "Punto 10: tráiler oficial con minuto exacto; punto 2 y 4: crucifixión roja y cielo rosa del Tercer Impacto",
+    "licencia": "Oficial (GKIDS); sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4",
+    "fuente": "Internet Archive",
+    "ancho": 640,
+    "alto": 480,
+    "que_es": "Episodio 1 completo (\"Angel Attack\"), fansub con hash [5F116C28], visto con fotogramas.py",
+    "para_que": "Puntos 2, 4 y 14: escenas icónicas, paleta de sitios y poses de Misato, Shinji y Gendo",
+    "licencia": "Copia de fans en Internet Archive; sólo consulta"
+  },
+  {
+    "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4",
+    "fuente": "Internet Archive",
+    "ancho": 640,
+    "alto": 480,
+    "que_es": "Episodio 8 completo (\"Asuka Strikes!\"), visto con fotogramas.py",
+    "para_que": "Punto 14: poses de Asuka (presentar, celebrar, pensar)",
+    "licencia": "Copia de fans en Internet Archive; sólo consulta"
+  },
+  {
+    "url": "https://archive.org/details/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12",
+    "fuente": "Internet Archive",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Colección con los episodios 1 a 19 sueltos en .mp4/.mkv (fansub) más el ending",
+    "para_que": "Fuente para seguir mirando capítulos sin depender de YouTube (puntos 2, 14)",
+    "licencia": "Copia de fans; sólo consulta"
+  },
+  {
+    "url": "https://archive.org/details/neon-genesis-evangelion-22-al-24",
+    "fuente": "Internet Archive",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Episodios 22 a 24 en un solo archivo (incluye el 24, el de Kaworu)",
+    "para_que": "Pendiente: confirmar en vídeo las poses de Kaworu (punto 14), no se llegó a bajar por tiempo/tamaño (435 MB)",
+    "licencia": "Copia de fans; sólo consulta"
+  },
+  {
+    "url": "https://archive.org/details/evangelion-final-25-y-26_202609",
+    "fuente": "Internet Archive",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Episodios 25 y 26 (el final) en un solo archivo",
+    "para_que": "Pendiente: confirmar en vídeo la escena final «おめでとう» (punto 2/14), no se llegó a bajar por tiempo",
+    "licencia": "Copia de fans; sólo consulta"
+  },
+  {
+    "url": "https://soundeffects.fandom.com/wiki/Neon_Genesis_Evangelion",
+    "fuente": "Sound Effects Wiki (Fandom, vía api.php)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Catálogo de los clips de librería exactos usados como efectos de sonido en la serie (alarmas, puertas, cigarras, tren...)",
+    "para_que": "Punto 9: efectos de sonido reconocibles, con nombre exacto de cada clip",
+    "licencia": "Wiki de fans; sólo consulta"
+  },
+  {
+    "url": "https://forum.evageeks.org/viewtopic.php?t=6384",
+    "fuente": "Foro EvaGeeks.org",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo que identifica la sirena de alerta de NERV como una pista de librería Hollywood Edge",
+    "para_que": "Punto 9: segunda fuente para el efecto de sonido de la alarma",
+    "licencia": "Foro; sólo consulta"
+  },
+  {
+    "url": "https://esffects.net/en/176.html",
+    "fuente": "esffects.net",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recreación libre («Evangelion style alarm sound»), no es el clip original",
+    "para_que": "Punto 9: efecto de referencia descargable para maquetar (no oficial)",
+    "licencia": "Gratuito para descarga, revisar términos del sitio antes de usar comercialmente"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal038",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura de metal oxidado verde, parecida a la jaula/hangar de las Eva",
+    "para_que": "Punto 4: textura real equivalente a la jaula de las Eva (además de las ya citadas en §5)",
+    "licencia": "CC0"
+  }
+]

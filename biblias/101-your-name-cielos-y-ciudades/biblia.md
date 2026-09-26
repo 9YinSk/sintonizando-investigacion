@@ -681,3 +681,346 @@ Reportaje con nombres y citas: [Anime News Network, «Inside CoMix Wave Films»]
 | Asombro | **Contrapicado** hacia el cielo y el cometa | [tráiler 1:17](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=77) |
 | Lo que no se recuerda | Fondo **blanco y lila** sin decorado, siluetas grises | [apertura 0:27](https://archive.org/details/kimi-no-na-wa-op-1?t=27) |
 | Separación | **Una línea de luz vertical** que parte la imagen en dos (el cartel) | cartel, punto 1 |
+
+## 19. Texturas 2D
+
+**Lo primero: la película casi no usa texturas 2D de manga.** No hay tramas ni onomatopeyas (punto 17:
+`screentone` estropea el estilo). Las tramas sirven sólo para imitar el **manga** de Ranmaru Kotone, cuyo
+rotulado no se pudo mirar. ⚠️
+
+### Capas de textura, de la más cercana a la más lejana
+
+| Capa | Qué es en la película | Textura libre | Licencia |
+|---|---|---|---|
+| **Papel de cuaderno** | Hoja de rayas con tinta rosa (tráiler 1:09) y cuaderno de espiral (0:54) | [ambientCG](https://ambientcg.com/) `Paper001`, `Paper005`, `Paper006` | CC0, sin atribución ✅ |
+| **Madera** | Casa Miyamizu, pupitres, cajón de los cordones (tráiler 0:09) | ambientCG `Wood051`, `Wood092`, `Wood094`, `Wood095` | CC0 ✅ |
+| **Tramas de manga** (sólo para el manga) | No salen en la película | [pack gratis de Clip Studio](https://assets.clip-studio.com/en-us/detail?id=2142037) (con cuenta gratuita); [colección de Manga with Stef](https://manga-with-stef.com/free-screen-tone-collection-1) (Krita, Procreate, Photoshop) | gratis ✅; uso libre declarado por la autora ✅ |
+| **Degradado de puntos** | Para un cielo de manga, no de la película | [DOT pack de botanycameos en DeviantArt](https://www.deviantart.com/botanycameos/art/Free-resource-300dpi-Screentones-DOT-pack-398507125), 300 ppp | ⚠️ uso libre según la descripción; leer los términos antes de un uso comercial |
+| **Pincelada de nubes** | Nubes pintadas con textura | [tutorial de mclelun](http://www.mclelun.com/2016/05/anime-cloud-tutorial.html) (pincel de tiza o carboncillo) | ⚠️ técnica de un tercero |
+| **Tiza** | La pizarra verde de la clase (tráiler 1:08) | No se buscó un banco de tiza. Hacerla con un pincel seco sobre verde oscuro. | ⚠️ |
+| **Grano** | Sin confirmar en la película (punto 18) | — | ⚠️ |
+
+Las otras capas están en otros puntos: **3D** con licencia en el 3 (Sketchfab) y **texturas reales** en el 4.
+Poly Haven no se buscó. ⚠️ La consulta de tela (`Fabric`) en ambientCG se hizo, pero la parte no copió
+los nombres. ⚠️
+
+### Patrones, emblemas y logos
+
+- **El kumihimo**: cordón trenzado. Según Shinkai, **el centro es el cometa, el azul es el lago de Itomori y el rojo o naranja es el *kataware-doki*** (dato citado por la wiki de Mitsuha). Hex medidos del rojo: `#9C2D2C`, `#A55849`, `#912323` (punto 15). ✅
+- **Corbata de Taki**: rayas diagonales verde oscuro `#516A58` y oliva `#889257`. ✅ medido
+- **Escudo del instituto de Taki**: bordado marrón `#513B3D` en el pecho. ✅ medido; ⚠️ el dibujo exacto no se copió.
+- **Yukata de Mitsuha**: azul con flores blancas y *obi* rojo (apertura 1:18). ✅ visto
+- **El cajón de los cordones**: flores rosas pintadas en la madera (tráiler 0:09). ✅ visto
+- **El torii dibujado a lápiz** en el cuaderno (tráiler 0:54). ✅ visto
+- **Logos**: 君の名は。 en mincho blanca espaciada (apertura 0:21) y «your name.» manuscrita en el cartel latino (punto 5). ✅
+- **Emblema del santuario Miyamizu o de Itomori**: no se encontró. ⚠️
+
+## 20. Gustos y detalles
+
+Fuente: fichas y «Trivia» de la [wiki de la película](https://kiminonawa.fandom.com/wiki/Mitsuha_Miyamizu) (por su API),
+que a su vez cita la página de personajes del [sitio oficial](https://www.kiminona.com/) y el Q&A del Blu-ray.
+Lo del cuadro de ficha (cumpleaños, sangre) es **una sola fuente** ⚠️ salvo que se diga. Carácter y forma de
+hablar, en el punto 13.
+
+**No hay databook con comida favorita**: ninguna ficha (wiki ni AniList) la da, para ningún personaje. ⚠️ No inventarla.
+
+### Los dos protagonistas
+
+**Mitsuha Miyamizu**
+- **Cumpleaños: 1 de diciembre** (Sagitario). Lo dijo Shinkai en el Q&A del Blu-ray: «siente» que los dos nacieron ese día. **La misma fecha que Taki**, a propósito: dos mitades de una persona. ✅
+- **Altura 163 cm**, sangre AB. ✅ (sitio oficial citado por la wiki)
+- **El objeto que siempre lleva**: el **cordón kumihimo** que trenza ella misma (colores explicados en el punto 19). ✅
+- **Oficios**: estudiante y sacerdotisa del santuario; en 2022, **vende joyas**. ⚠️ ficha
+- **Cómo se ve a sí misma**: quiere escapar del pueblo pequeño y de la ambición política de su padre; Tokio es su salida. ✅
+- **Lo que odia**: la vida de pueblo y que la miren en el ritual (grita al valle, tráiler 0:35). ✅ visto
+
+**Taki Tachibana**
+- **Cumpleaños: 1 de diciembre de 1998** (Sagitario), el mismo día que Mitsuha. ✅ (Shinkai, Q&A)
+- **Altura**: la ficha no la da. ⚠️ comprobado en la ficha completa
+- **Aficiones**: edificios, paisajes, arte y tradición; **dibuja**. Busca Itomori con un dibujo de memoria. ✅
+- **Oficio en 2022**: **arquitecto de prevención de desastres**, por lo que vivió con Itomori. ✅
+- **Manía**: en el cuerpo de Mitsuha no sabe trenzar el cordón y le hace **un moño o una coleta** (salvo el primer día, que lo deja suelto). ✅
+- **Final**: se casa con Mitsuha. Lo dijo Shinkai en el Q&A de *El tiempo contigo*: «Taki y Mitsuha se casaron y ella hizo un cordón trenzado para la abuela de Taki». ✅ (citado en las fichas de los dos)
+- ⚠️ La parte de voz nombra a una abuela, **Fumi Tachibana**, que le apoyó en sus gustos, pero lo escribe confuso («abuela de Mitsuha»). Por el apellido sería la de Taki. Sin comprobar.
+
+### Los secundarios (ficha)
+
+| Personaje | Cumpleaños | Sangre | Detalle que sirve |
+|---|---|---|---|
+| Tsukasa Fujii | 1-oct-1999 (Libra) | A | Pelo negro, ojos azules. Al final lleva anillo: **se casa con Okudera** (respuesta del autor citada por la wiki) ✅ |
+| Shinta Takagi | — | — | Alegre, siempre apoya a Taki y Tsukasa ✅ |
+| Sayaka Natori | 1-feb-1996 (Acuario) | A | Club de radio; su hermana maneja la megafonía del ayuntamiento, por eso sabe usar la alarma. Prometida de Tessie ✅ |
+| Katsuhiko «Tessie» Teshigawara | 18-ene-1996 (Capricornio) | O | Pelo negro, ojos avellana. La constructora familiar es la **infancia del propio Shinkai** (entrevista de HeyUGuys citada por la wiki) ✅ |
+| Yotsuha Miyamizu | 2-jul-2004 (Cáncer) | O | Madruga a las 6; habla con el **dialecto de Itomori** («-ya» al final) ✅ |
+| Miki Okudera | 22-ene-1992 (Acuario) | — | Pelo granate, ojos ámbar; **fuma a escondidas** por el estrés y no lo deja ✅ |
+| Hitoha Miyamizu | 4-mar-1931 (Piscis) | O | Pelo gris; teje kumihimo y prepara el *kuchikamizake*; practica el «sintoísmo celeste», que estudia las estrellas ✅ |
+| Toshiki Miyamizu | 1959 (sin día) | — | Alcalde, antes sacerdote y folclorista; viudo de Futaba. ⚠️ Teoría de fans: el taxista de guantes blancos del final |
+| Yukari Yukino | 27-feb-1986 (Piscis) | O | **166 cm**; le apasiona la literatura clásica y la usa para llegar a sus alumnos ✅ |
+
+⚠️ Tsukasa sale en la ficha con 1999, un año después que Taki. Dato tal cual de la wiki; sin segunda fuente.
+
+## 21. Por qué la aman y escenas que hacen llorar
+
+### Las razones, con cifras
+
+- **Crítica**: 98 % en Rotten Tomatoes (120 reseñas, media 8,2) y 81 en Metacritic (26 críticos). Anime News Network la puso **3.ª mejor película de anime** de la historia. John Musker y Ron Clements (*Aladdín*, *La sirenita*) alabaron su belleza. ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Your_Name))
+- **Taquilla**: **408,3 millones de dólares** en el mundo con un presupuesto de 750 millones de yenes (unos 7,5 millones de dólares). En Japón, 25 170 millones de yenes, cerca del 10 % de la taquilla de ese año. Fue **la película japonesa más taquillera** hasta *Demon Slayer: Mugen Train* (2020). China: 81,3 millones de dólares. Corea: 3,81 millones de entradas. ✅ (Wikipedia + [Box Office Mojo](https://www.boxofficemojo.com/title/tt5311514/))
+- **Premios**: Mainichi (mejor animación), Sitges (mejor película animada), Críticos de Los Ángeles (mejor animada, 2016), Gran Premio de Animación del Japan Media Arts, mejor película en los 2.º Crunchyroll Anime Awards, y en la Academia de Japón **mejor guion** y premio a la animación. Nominada a los Annie. ✅ (Wikipedia)
+- **Lo que dice Shinkai**: que le salió «incompleta, desequilibrada» por falta de tiempo y dinero. ✅ (Wikipedia). Útil para no tratarla como «perfecta» en los textos.
+
+### Con quién se identifica el público
+
+- **Con Mitsuha**: 4560 favoritos frente a 2865 de Taki (punto 7). Ella es la que sueña con otra vida; él ya vive donde ella quiere estar. ⚠️ lectura razonada, no encuesta.
+- **El tema que engancha**: el cambio de cuerpo es el vehículo, no el chiste. Lo que duele es **el miedo a olvidar a alguien importante**. ✅ (reseñas de Anime News Network y *Japan Times*, según la parte de voz)
+
+### Las escenas que hacen llorar
+
+| Escena | Dónde | Qué pasa y por qué duele | Música | Cómo está dibujada |
+|---|---|---|---|---|
+| **Kataware-doki** en el borde del cráter | [*Sparkle* 4:20-4:50](https://archive.org/details/sparkle_201703?t=260); `personajes_01` nº10 y nº18 | Se ven por fin, un instante, en el crepúsculo. Él quiere escribirle su nombre en la mano para no olvidarlo; al separarse, ella descubre que puso **「すきだ」, «te quiero»** | pista 23 かたわれ時 ⚠️ por título | Dos siluetas a contraluz, cielo lila y rosa, luz pareja: «nada más brillante que nada» |
+| **Las notas se borran** | [Memos.png](https://static.wikia.nocookie.net/kiminonawa/images/8/85/Memos.png) (`personajes_01` nº34) | Taki descubre que Itomori desapareció hace tres años y que Mitsuha está en la lista de víctimas; lo escrito en el móvil se borra ante él | pistas 14 消えた町 y 15 図書館 ⚠️ por título | Biblioteca con luz de lámpara ([tráiler 1:22](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=82)) |
+| **Mitsuha llora con el cordón** | [tráiler 1:19-1:20](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=80) | Una lágrima; ⚠️ en qué momento de la película cae no se comprobó (sólo se vio el tráiler) | ⚠️ sin oír | Primer plano, luz blanca, el cordón rojo delante |
+| **La escalera** del reencuentro | [Dailymotion 0:10](https://www.dailymotion.com/video/x6vxp2a); [*Sparkle* 2:40](https://archive.org/details/sparkle_201703?t=160) y 6:40 | Años después se cruzan en Tokio sin recordarse, se dan la vuelta y **se preguntan el nombre**. Ella llora al reconocerlo | según la prensa vuelve el tema principal ⚠️ pista exacta sin oír | Escalera de piedra, barandilla roja, luz de mañana casi blanca (`#FFFEFF`, `#CFCAC8`) |
+
+**Reacción de la gente**: las reseñas la describen como de las películas de anime que más hacen llorar en
+salas (*Japan Times*, All The Anime), y los hilos «ending explained» de [Reddit r/anime](https://www.reddit.com/r/anime/)
+y las reseñas de ScreenRant y Primetimer marcan la escena de la mano como el punto de más tensión. ✅ (según la
+parte de voz). ⚠️ Vídeos de reacción con vistas: no accesibles (YouTube pedía iniciar sesión).
+
+### Las que hacen reír o gritar de emoción
+
+- **Reír**: los dos gritándose en pantalla partida ([tráiler 0:59-1:00](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=59)); las caras pintadas ([*Sparkle* 3:30](https://archive.org/details/sparkle_201703?t=210)); Mitsuha bosteza ([tráiler 0:30](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=30)); Taki de camarero con un plato en cada mano (0:26). ✅ visto
+- **Gritar de emoción**: el montaje de la vida de los dos con **前前前世** (pista 08); Taki salta la barandilla ([tráiler 1:03](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=63)); **el cometa se parte en dos** ([tráiler 1:17](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=77)). ✅ visto; ⚠️ la reacción del público no está medida.
+
+## 22. Fan dubs y comunidad hispana
+
+**Fandub en español latino (encontrado y comprobado)** ✅
+- **«Your Name (Kimi no Na wa) - Fandub Español Latino»**, canal **Steve Dub**, [Dailymotion](https://www.dailymotion.com/video/x6gfqxf). Subido el 17-mar-2018, **8:35**, **184 vistas**. Metadatos leídos con `yt-dlp` sin bajar el vídeo; el enlace responde (comprobado el 26-sep). ⚠️ Qué escenas dobla no se anotó: mirarlo antes de citarlo.
+- Es el **único** fandub hispano que devuelven Dailymotion e Internet Archive con «fandub», «parodia español» o «meme latino».
+
+**Covers de las canciones en español**: **no encontrados**. Buscado «Nandemonaiya cover español» y «Sparkle cover
+español latino» en Dailymotion e Internet Archive. Sólo salen la versión japonesa, una **versión en inglés** de
+*Nandemonaiya* (canal Akane Sasu Sora / Akane and BriCie, en Internet Archive) y AMV sin voz. ⚠️ En YouTube puede
+haber más, pero no se pudo entrar.
+
+**Parodias y memes hispanos**: no encontrados con enlace propio. ⚠️ (YouTube y TikTok, sin acceso)
+
+**La comunidad hispana alrededor del doblaje oficial** ✅ (punto 8)
+- Las **entrevistas de OtakuPress.pe** (Perú, estreno en cines) a Bruno Coronel, Jocelyn Robles, Alondra Hidalgo, Miguel Ángel Ruiz y Javier Olguín, guardadas en [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Archivo:Conoce_los_secretos_del_doblaje_de_Your_Name_con_Javier_Olguín). ⚠️ el enlace directo de YouTube no sale por la API.
+- La anécdota que más juego da en un servidor de doblaje: **el director, Javier Olguín, dobló a Tsukasa** porque el actor no llegó, y Alondra Hidalgo lo dirigió a él.
+- Hay **dos doblajes al español**: el latino (CineDub, México) y el de España (Selecta Visión; su tráiler en [Dailymotion](https://www.dailymotion.com/video/x588f0a)). No mezclarlos.
+
+**Para el servidor** (idea del redactor): el fandub de Steve Dub es pequeño (184 vistas). Sirve de gancho para un
+reto de doblaje: «alguien ya lo intentó; ¿tú lo harías mejor?». Las frases cortas de las notas son buenas para
+practicar (punto 17).
+
+## 23. Colaboraciones y cruces
+
+**Suntory, agua mineral (2016)** ✅ la colaboración de marca mejor documentada
+- Tres anuncios animados por CoMix Wave con Taki y Mitsuha ([AniList, id 97962](https://anilist.co/anime/97962)): «Mitsuha no Omoi» (ella bebe *Yogurina*, agua con sabor a yogur), «Taki no Omoi» (él bebe *Tennensui*) y «Kasanaru Omoi» (los dos, con diálogo mezclado, planos alternativos y **una canción nueva**).
+- Es **arte nuevo** de los dos (otras poses, un producto en la mano). ⚠️ No se bajaron fotogramas de los anuncios.
+- Ojo: es la ficha que el recolector tomó por la película. Nada de sus datos (nota, sinopsis, recomendaciones) es de la película.
+
+**Turismo y peregrinación (lo más grande de esta película)** ✅
+- La **Anime Tourism Association**, con Kadokawa ASCII Research Lab, hizo un concurso para llevar a **30 fans** a los sitios reales (Fandom Entertainment News, según la parte de imagen). ⚠️ sin enlace directo.
+- La **escalera del santuario Suga** es el sitio más visitado e imitado: guías de [Tofugu](https://www.tofugu.com/japan/your-name-locations/) y [Tickets in Japan](https://www.ticketsinjapan.com/media/suga-shrine-stairs/), y vídeos de fans en [TikTok](https://www.tiktok.com/discover/kimi-no-nawa-stairs-scene) (punto 16).
+
+**Cruces con otras películas de Shinkai** ✅
+- **Taki sale de cameo en *El tiempo contigo*** (2019). (ficha de Taki en la wiki)
+- **Yukari**, la profesora, es la de ***El jardín de las palabras*** (punto 13). En la novela de esa película sale también un «Teshigawara».
+- ⚠️ La imagen nº13 de `personajes_01` se llama «Takao Akizuki» (el chico de *El jardín de las palabras*): sería otro cameo. Sin comprobar.
+- ⚠️ Las nº19, 22 y 23 se llaman «Z-Kai 1-3». Por el nombre podrían ser de un anuncio y no de la película. Sin comprobar.
+
+**Fan art expuesto y cosplay**
+- Arte de fans impreso en un panel de una convención: [foto en Flickr](https://live.staticflickr.com/5795/31429921955_847ef8c692_b.jpg), 727×1024, CC BY-NC-ND, hallada con [Openverse](https://openverse.org/). ✅ visto (no es cosplay)
+- **Cosplay real** con licencia libre: no encontrado en Openverse. ⚠️
+
+**No encontrado** (buscado en japonés, 「君の名は コラボ 2024 2025 グッズ 展覧会」, y en inglés):
+- Gacha, Fortnite u otros juegos, cafés temáticos oficiales, eventos tipo USJ o *stamp rally* de JR East. ⚠️ No se afirma que no existan.
+- **Figuras oficiales**: **no se buscaron** en MyFigureCollection ni en tiendas. ⚠️ Queda pendiente (la pose de una figura sería una buena referencia 3D).
+
+## 24. Obras parecidas
+
+**Influencias que reconoce Shinkai** ✅ (wiki, [página de la película](https://kiminonawa.fandom.com/wiki/Your_Name), sección de producción)
+- ***Inside Mari***, manga de Shūzō Oshimi: cambio de cuerpo e identidad.
+- ***Ranma ½***: cambio de cuerpo y de género, en comedia.
+- ***Torikaebaya Monogatari***, novela de la época Heian: dos hermanos que se cambian los papeles. La raíz japonesa más antigua del tema.
+- ***The Safe-Deposit Box***, relato de Greg Egan (ciencia ficción).
+
+**Las otras películas de Shinkai** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Makoto_Shinkai)). Siempre gente separada por algo que no puede discutir: distancia, tiempo, clima.
+- ***Voices of a Distant Star*** (2002): mensajes que tardan años en llegar. Precedente directo de «hablarse a través del tiempo».
+- ***El lugar prometido en nuestra juventud*** (2004): mundos paralelos y una promesa.
+- ***5 centímetros por segundo*** (2007): la «hermana» de tono (separación, trenes, nostalgia), pero con **final agridulce**. El fandom avisa antes de recomendarla.
+- ***El jardín de las palabras*** (2013): de ahí viene Yukari (punto 23).
+- ***El tiempo contigo*** (2019) y ***Suzume*** (2022): mismo estudio. *El tiempo contigo* también usa el cielo como fuerza que separa, y Taki sale de cameo.
+
+⚠️ **Corrección a `partes/texto.md`**: las «recomendaciones de AniList» (*El tiempo contigo*, *Quiero comerme tu
+páncreas*) salen de la ficha **97962 de Suntory**, no de la película. Además no son 20 votos para *El tiempo
+contigo*: los 20 son para *Your Name.* misma; *El tiempo contigo* tiene 10 y *Páncreas*, 8. No valen como dato de
+la película, sólo como pista.
+
+**En este servidor (para no repetir ideas)**
+- Otras biblias que proponen **#📸 fotos**: Lilo & Stitch (23), Demon Slayer paisajes (79) y La princesa Mononoke (100). No bloquea nada; conviene que los conceptos no repitan «personaje de espaldas ante un paisaje». Aquí lo propio es **la letra a mano sobre objetos**.
+- Biblias de tono parecido en el repositorio: *Your Lie in April* (44), *A Silent Voice* (92), *Nagi-Asu* (94), *Violet Evergarden* (22) y las de Ghibli (98, 99, 100, 102).
+- Las láminas de ejemplo (`biblias/_ya_hechas/`: Dragon Ball, Bocchi, Attack on Titan) son de acción, comedia y terror: no chocan.
+
+**Qué no hacer**: tratarla con estética de acción o de comedia ligera. Es drama romántico contemplativo: nada de onomatopeyas gritonas ni colores de anime de combate.
+
+## 25. El mundo, la historia y sus símbolos
+
+### Las reglas del mundo en cinco líneas ✅ (wiki: [Your Name](https://kiminonawa.fandom.com/wiki/Your_Name) y [Miyamizu Shrine](https://kiminonawa.fandom.com/wiki/Miyamizu_Shrine) + Wikipedia)
+
+1. Taki (Tokio, 2016) y Mitsuha (Itomori, 2013) **se cambian el cuerpo al dormir**. Al despertar en el suyo, lo olvidan.
+2. Se hablan **dejándose notas**: en el móvil, en papel y en la piel (punto 6).
+3. Un fragmento del **cometa Tiamat** destruyó Itomori en 2013. El cambio no es simultáneo: hay **tres años** entre los dos.
+4. Todo gira alrededor del ***musubi*** (結び): el lazo que une personas, tiempo y memoria. Lo guarda el dios **Musubi-no-Kami** del santuario Miyamizu.
+5. El ***kuchikamizake*** (口噛み酒), sake hecho con la saliva de la sacerdotisa, es la ofrenda que deja a Taki volver a conectar con ella.
+
+### La historia por arcos ✅
+
+- **1. El intercambio.** Se despiertan en el otro cuerpo, descubren las reglas y se dejan notas. Ella le arregla una cita con Okudera; él discute con las compañeras de clase de ella.
+- **2. El vínculo se rompe.** Los cambios paran de golpe. Taki va a buscarla con **un dibujo de memoria**; no sabe ni el nombre del pueblo.
+- **3. La revelación.** En Hida descubre que Itomori desapareció **tres años antes** y que Mitsuha está en la lista de víctimas. Las notas se borran.
+- **4. El rescate.** Bebe el *kuchikamizake* en el santuario del cráter y despierta en Mitsuha, en 2013, la noche del festival. Con Tessie y Sayaka planea la evacuación: cortan la luz del pueblo y usan la alarma.
+- **5. *Kataware-doki*.** En el crepúsculo se encuentran un instante en la cima. Él escribe en su mano y sólo llega a poner «te quiero». Ella corre, recuerda a tiempo y convence a su padre de evacuar.
+- **Epílogo.** Años después (ocho para ella, cinco para él), en Tokio, se buscan sin saber por qué. Se cruzan en una escalera y **se preguntan el nombre**.
+
+### Símbolos y objetos que un fan reconoce al instante ✅
+
+- **Kumihimo** (組紐): el cordón rojo del pelo de Mitsuha. Es el hilo del destino que cruza el tiempo: ella se lo lanza a Taki en el tren, en su primer encuentro fallido.
+- **Cometa Tiamat**: estela azul y blanca que se parte en dos (tráiler 1:17). Según la wiki, ya cayó en el año **813** («estrella huésped que se dividió en dos», registrada en la corte de Heian-kyō) y formó el cráter del lago; vuelve cada unos **1200 años**. ⚠️ fechas con una sola fuente.
+- **Gran Incendio de Mayugoro** (1813): quemó los archivos del santuario. Por eso el ritual se hace de memoria y nadie recuerda qué significa. ✅ (dos wikis: [kiminonawa](https://kiminonawa.fandom.com/wiki/Great_Fire_of_Mayugoro) y [Remix Favorite Show and Game](https://remixfavoriteshowandgame.fandom.com/wiki/Great_Fire_of_Mayugoro))
+- ***Kataware-doki*** (かたわれ時): palabra del dialecto de Hida para el crepúsculo, cuando la frontera entre mundos se hace fina. Viene de la clase de Yukari: 「誰そ彼」 (*tasokare*, «¿quién es aquel?»), en la pizarra (tráiler 1:08).
+- **El lago en forma de ocho**: tras el impacto, el lago de Itomori queda con doble cráter. Es el paisaje final del pueblo.
+- **La palma con 「すきだ」**: el «te quiero» en vez del nombre (punto 6).
+- **Dos pájaros volando**: los dos, separados (Shinkai, ANN).
+
+### Lo real detrás
+
+- **El desastre alude al terremoto y tsunami de Tōhoku de 2011**. Lo dice Shinkai ([ANN 2016](https://www.animenewsnetwork.com/feature/2016-12-20/interview-makoto-shinkai/.110150)). ✅ Con respeto, nunca como espectáculo.
+- **Itomori es inventado**, sobre Hida (Gifu) y el lago Suwa (Nagano); Tokio es real (punto 16).
+
+### Vocabulario propio
+
+*musubi*, *kumihimo*, *kuchikamizake*, *kataware-doki*, *tasokare*, Tiamat, Itomori, Musubi-no-Kami, santuario Miyamizu, *Il Giardino delle Parole* (el restaurante de Taki), el diario del móvil, 「すきだ」, 「お前は誰だ?」, 「君の名は。」 («tu nombre es…», la pregunta que se corta; traducción del redactor ⚠️).
+
+## Las 3 hojas de contacto
+
+Las tres están en `hojas/` (JPEG, menos de 3 MB) y **las miró el redactor** una por una. El número de cada celda
+es el que usa esta biblia.
+
+### `hojas/personajes_01.jpg` · 39 fotogramas y retratos de la wiki
+
+Sacada con `investigar_serie.py --wiki kiminonawa --paginas "Taki Tachibana" "Mitsuha Miyamizu"`. Cada celda lleva tamaño y nombre del archivo.
+
+| Nº | Qué es | Sirve para | Original |
+|---|---|---|---|
+| 1 | Mitsuha se ata el pelo con el cordón, 2640×2160 | **Presentar**; concepto 1 | [Mitsuha_Miyamizu_2013.png](https://static.wikia.nocookie.net/kiminonawa/images/5/5d/Mitsuha_Miyamizu_2013.png) |
+| 2 y 3 | Taki con Shinta y Tsukasa; Taki con Okudera, 2067×1163 | Láminas en grupo | [nº2](https://static.wikia.nocookie.net/kiminonawa/images/a/aa/Shinta%2C_Taki_and_Tsukasa.jpg), [nº3](https://static.wikia.nocookie.net/kiminonawa/images/7/76/Taki_and_Okudera_Date.jpg) |
+| 4 | Mitsuha grita, 1935×1080 | Regañar, desahogarse | [Mitsuha_screaming.png](https://static.wikia.nocookie.net/kiminonawa/images/f/f2/Mitsuha_screaming.png) |
+| 5 | Una mano con el móvil en la cama | Concepto 2 (el diario del móvil) | [10h16.png](https://static.wikia.nocookie.net/kiminonawa/images/b/b8/10h16.png) |
+| 8 | Los dos riñen en pantalla partida | Humor, rabia | [Fight.png](https://static.wikia.nocookie.net/kiminonawa/images/f/f8/Fight.png) |
+| 10 y 18 | Kataware-doki: siluetas frente a frente; uno escribe en la mano del otro | **Concepto 3** | [nº10](https://static.wikia.nocookie.net/kiminonawa/images/2/2a/Mitsuha_and_Taki_-_Kataware_Doki.png), [nº18](https://static.wikia.nocookie.net/kiminonawa/images/3/30/Writing.png) |
+| 14 y 15 | El cuarto de Taki en Tokio (2016 y 2021) | Fondo del concepto 2 | [nº14](https://static.wikia.nocookie.net/kiminonawa/images/c/c8/Taki%27s_room.png), [nº15](https://static.wikia.nocookie.net/kiminonawa/images/6/6c/Taki%27s_room_in_2021.png) |
+| 16 | Mitsuha en la escalera de barandilla roja | Fondo real más reconocido | [staircase](https://static.wikia.nocookie.net/kiminonawa/images/d/d4/Taki_and_Mitsuha_staircase.jpg) |
+| 24 | Mitsuha adulta (2022), sonríe, cordón en el pelo | Celebrar, dar la bienvenida | [archivo](https://kiminonawa.fandom.com/wiki/File:Mitsuha_Miyamizu_2022.png) |
+| 28 | Taki de cuerpo entero, blazer de invierno, 564×1800 | Vestuario | [Suit.png](https://static.wikia.nocookie.net/kiminonawa/images/a/ab/Suit.png) |
+| 30 | Taki en el cráter con la mano en la boca | Pensar, darse cuenta | [Realize.png](https://static.wikia.nocookie.net/kiminonawa/images/f/fd/Realize.png) |
+| 31 | La familia Miyamizu: el padre en kimono morado de sacerdote | Láminas de familia | [archivo](https://kiminonawa.fandom.com/wiki/File:Family.png) |
+| 32 | La palma con 「すきだ」 | Cuadro de diálogo B; concepto 3 | [I_love_you.png](https://static.wikia.nocookie.net/kiminonawa/images/1/17/I_love_you.png) |
+| 34 | Las notas del móvil que se borran | Escena que duele | [Memos.png](https://static.wikia.nocookie.net/kiminonawa/images/8/85/Memos.png) |
+| 35 | Mitsuha mira el cometa | Cielo nocturno | [Mitsuha_comet.png](https://static.wikia.nocookie.net/kiminonawa/images/0/0f/Mitsuha_comet.png) |
+| 39 | El reencuentro: él arriba, ella abajo en la escalera | Encontrarse | [archivo](https://kiminonawa.fandom.com/wiki/File:Mitsuha_and_Taki_reunites.png) |
+
+⚠️ **No usar sin comprobar**: nº13 («Takao Akizuki», posible cameo de *El jardín de las palabras*) y nº19, 22 y 23 («Z-Kai», posible anuncio).
+
+### `hojas/vestuario_fondos_01.jpg` · 9 celdas de vestuario y fondos
+
+1. Uniforme de verano de Itomori: **es Tessie, no Taki** (etiqueta corregida). 2. Uniforme de Mitsuha con la cartera azul acero `#40728B`. 3. Cascabeles del ritual ([Gohei](https://static.wikia.nocookie.net/kiminonawa/images/2/29/Miyamizu_Gohei.jpg)). 4. Tocado ceremonial ([Headdress](https://static.wikia.nocookie.net/kiminonawa/images/9/98/Miyamizu_Headdress.jpg)). 5. *Key visual* del cometa. 6. Cartel latino con «your name.» ([2000×3000](https://static.wikia.nocookie.net/doblaje/images/3/3b/Your_Name.jpg/revision/latest?cb=20240213023736&path-prefix=es)). 7. Tokio de noche con el cometa ([Wallhaven 8oy372](https://w.wallhaven.cc/full/8o/wallhaven-8oy372.jpg), 3840×2160; no es Itomori). 8. *Kataware-doki*. 9. Mitsuha con el cordón rojo.
+Sirven para: vestuario (1, 2), objetos del ritual (3, 4), composición y paleta de cielo (5, 6, 7, 8).
+
+### `hojas/escenas_01.jpg` · los tres vídeos mirados, un fotograma por plano
+
+- **Bloque A**: [tráiler oficial japonés](https://archive.org/details/YourNameKimiNoNaWaTrailer), 53 planos con minuto.
+- **Bloque B**: [apertura «Yume Tourou»](https://archive.org/details/kimi-no-na-wa-op-1), 36 planos.
+- **Bloque C**: [MV *Sparkle*](https://archive.org/details/sparkle_201703), un fotograma cada 10 s (41).
+Las mejores: A46 (1:09, 「お前は誰だ?」 en tinta rosa), A35 (0:54, cuaderno con torii), A45 (1:07, el cráter verde; la pizarra de 1:08 va entre A45 y A46 y se sacó aparte), A50 (1:17, el cometa se parte), B4 (0:21, logo), B7 (0:36, espalda con espalda con el hilo rojo), B13-15 (0:54-0:56, kumihimo), B26 (1:23, Taki en la barandilla ante Tokio), C17 (2:40, la escalera), C27 (4:20, *kataware-doki*).
+
+## 3 conceptos de lámina
+
+**Canal propuesto: #📸 fotos** (foro). Su texto real: «Fotos que hagáis vosotros: lo que veis, dónde grabáis,
+cómo os montáis el rincón. Un hilo por foto o por serie.» Etiquetas: Paisaje, Retrato, Naturaleza, Ciudad,
+Nocturna, Analógica, Con el móvil, Con cámara, Editada, Sin editar, Detrás de cámara. Encaja con «cielos y
+ciudades». El tercer concepto es para **#🪪 presentaciones**, la otra sala que pide esta película (se llama «tu
+nombre»). Otra idea en una línea: **#🎟️ eventos** con la noche del festival de otoño y el cometa (pista 11 秋祭り).
+El hilo fijado de #fotos ya lleva un adjunto (`fotos.png`, según el inventario): si ya tiene lámina, éstas sirven de lámina 2.
+
+En los tres: **nada de burbuja blanca**, el texto va escrito **en un objeto** de la película (punto 6); ropa del punto
+15; crepúsculo lila y parejo, nunca naranja saturado; nada del gag del pecho.
+
+### Concepto 1 · «El cuaderno de Mitsuha» (#📸 fotos)
+
+- **Objeto real en un sitio real**: un **cuaderno escolar de rayas** abierto sobre un pupitre del **aula del instituto de Itomori**, junto a la ventana del lago. Detrás, la **pizarra verde** de la clase de Yukari (tráiler 1:08). En Blender: cuaderno de espiral con las hojas curvadas, un bolígrafo rosa y **el cordón kumihimo** cruzado sobre la página (una trenza hecha con curva y *array*). Pupitre con madera `Wood092` y hoja con `Paper005` de ambientCG (CC0).
+- **Personaje**: **Mitsuha**, la más querida (punto 7). De pie detrás del pupitre, **atándose el pelo con el cordón**, sonrisa leve: su gesto de presentar (`personajes_01` nº1, 2640×2160; [tráiler 1:18](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=78), A51). Uniforme de verano: camisa `#F3F1E4`, lazo `#B14861`, falda `#545860` (`vestuario_fondos_01` celda 2). El pupitre la corta por la cintura: no flota.
+- **Cómo habla**: cuadro A, **la hoja de cuaderno** con letra a mano en **tinta rosa** `#B14861`, grande y algo torcida, como 「お前は誰だ?」 ([tráiler 1:09](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=69), A46). Letra **Caveat** (o **Kalam**), comprobadas con tildes, ñ, ¿ y ¡. En la pizarra, **Kalam** blanca sobre textura de tiza.
+- **Dónde va cada texto**:
+  - Pizarra: **«fotos»** grande, y al lado, dentro de un círculo rosa como el de 「誰そ彼」: **«¿Qué ves tú?»**
+  - Página izquierda, una idea por línea: «Sube fotos tuyas.» «Lo que ves.» «Dónde grabas.» «Cómo montas tu rincón.»
+  - Página derecha: «Un hilo por foto o por serie.» y, en la esquina, un **torii dibujado a lápiz** como el del cuaderno del tráiler (0:54, A35).
+  - Las 11 etiquetas no caben: van en la **lámina 2** (concepto 2).
+- **Para que no quede plano**: tres planos. Delante, el cuaderno con el borde de abajo desenfocado; el bolígrafo y el cordón hacen sombra sobre la hoja. En medio, Mitsuha. Detrás, la pizarra desenfocada. Luz de mañana entrando por la ventana con rayos (`#E1E4E7`) y, fuera, el verde de Itomori (`#C0E279`, `#859D69`).
+
+### Concepto 2 · «El diario del móvil» (#📸 fotos, lámina 2 con las etiquetas)
+
+- **Objeto real en un sitio real**: **el móvil de Taki**, en su mano, en **su cuarto de Tokio** (`personajes_01` nº14 y nº15), con la ventana a Shinjuku al atardecer. En Blender: un teléfono como el del [tráiler 0:20](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=20) (A10) con la pantalla emisiva; el cuarto como fondo pintado.
+- **Personaje**: **Taki**, sentado en la cama, **lee el móvil con el ceño fruncido**: acaba de encontrar las notas que le dejó Mitsuha ([tráiler 0:53](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=53), A34; la mano con el móvil, `personajes_01` nº5). Pose de «explicar leyendo una nota». Plano **por encima del hombro**: se ven su perfil y la pantalla.
+- **Cómo habla**: el **diario del móvil** (punto 6, nº1), en forma de lista de reglas, como las notas de Mitsuha. ⚠️ La app no se ve bien en ningún fotograma: pantalla clara, texto oscuro en **Noto Sans JP**, sin iconos inventados. La última línea, en la letra de Mitsuha (Caveat rosa), como si la hubiera añadido ella.
+- **Dónde va cada texto** (en la pantalla):
+  - Arriba: «Etiquetas de #fotos».
+  - Lista, una por línea: Paisaje, Retrato, Naturaleza, Ciudad, Nocturna, Analógica, Con el móvil, Con cámara, Editada, Sin editar, Detrás de cámara.
+  - Abajo, de Mitsuha: «¡Una etiqueta en cada hilo!»
+- **Para que no quede plano**: el hombro y el pelo de Taki (`#51404A`) desenfocados delante; la luz fría de la pantalla en su cara contra el crepúsculo lila de la ventana (`#9C7EB1`, `#CB9CB8`); reflejo de la ventana en el cristal del móvil; Tokio al fondo con las luces encendiéndose (`#506580`).
+
+### Concepto 3 · «Escríbelo en la mano» (#🪪 presentaciones)
+
+- **Objeto real en un sitio real**: **una palma abierta y un rotulador**, en el **borde del cráter** del santuario, en el *kataware-doki* ([*Sparkle* 4:20-4:50](https://archive.org/details/sparkle_201703?t=260); `personajes_01` nº10, nº18 y nº32). En Blender: el rotulador con su capuchón; la tinta de la palma **sigue las líneas de la mano**, como le gustó al dueño con la tinta que sigue las arrugas (regla 1).
+- **Personajes**: **los dos**. La composición es la de nº18 (uno escribe en la mano del otro), más cerca. Mitsuha con la sonrisa tímida de [*Sparkle* 4:30](https://archive.org/details/sparkle_201703?t=270) (C28); Taki de tres cuartos, con la mano del rotulador. Luz de contraluz suave en el borde de las caras.
+- **Cómo habla**: cuadro B, **la palma**, sólo dos palabras: **«tu nombre»**, en **Kalam** con trazo de rotulador. El resto va en el cuadro C, **las cartelas del narrador**: **Shippori Mincho** gris oscuro, en vertical, sobre el cielo que pasa de blanco a lila (`#FCF6FD` → `#F9F0F8` → `#7A7497`), como las del tráiler (0:51, 1:00).
+- **Dónde va cada texto**:
+  - Palma: «tu nombre».
+  - Cartela 1, arriba a la derecha: «Preséntate aquí.»
+  - Cartela 2: «Es opcional. Así te ponemos cara.»
+  - Cartela 3: «Abre tu hilo con la plantilla fijada.»
+  - Las 12 etiquetas (Sudamérica, México, Centroamérica y Caribe, España, Otro país, Doblaje, Canto, Locución, Edición, Arte, Escritura, Hacer amigos) van en una **lámina 2**: la **pizarra de Yukari**, en tiza, en dos grupos, «de dónde eres» y «qué haces».
+- **Para que no quede plano**: la palma y el rotulador delante, nítidos; los dos a media distancia; detrás, el borde del cráter y el mar de nubes de nº10, con bruma entre capas. Luz pareja, «nada más brillante que nada»: la profundidad sale de las capas de bruma y las siluetas, no de un foco. Sin 「すきだ」: es el gran *spoiler* y además no es lo que dice el canal.
+
+## Segunda pasada · qué cambió
+
+### Correcciones a las partes (antes → ahora)
+
+Hechas por el redactor al mirar las hojas y los vídeos (primera sesión, 25-sep):
+- **Cartel**: «los dos de espaldas en el cráter al atardecer» → de día, de pie, cielo azul (punto 1).
+- **Minutos del tráiler**: 1:00 «interior cálido» → pantalla partida; 1:08 «lago de montaña» → la pizarra; 1:20 «la escalinata al atardecer» → Mitsuha llora con el cordón (punto 2).
+- **Apertura 0:30**: «el cometa» → Mitsuha entre siluetas lila; el cometa está en 0:01-0:12 y 1:03 (punto 2).
+- ***Sparkle***: la escalera no está en 5:00-6:00 sino en 2:40-2:50 y 6:40 (punto 2).
+- ***Sparkle* y 前前前世**: «la misma canción» → dos pistas distintas, la 24 y la 08 (punto 9).
+- **`#40728B`**: «la chaqueta del uniforme» → la cartera escolar; la celda 1 de `vestuario_fondos_01` es Tessie, no Taki (punto 15).
+- **Wallhaven 8oy372**: «cielo sobre Itomori» → Tokio de noche (punto 16).
+- **`Suit.png`**: «traje de adulto» → parece el uniforme de invierno de Taki (punto 1). ⚠️
+- **Datos del recolector**: el id 97962 de AniList es Suntory, no la película (id 21519).
+
+Hechas en esta sesión (26-sep):
+- **Recomendaciones de AniList** (punto 24): «20 votos para *El tiempo contigo*» → son de la ficha de Suntory; los 20 votos son para *Your Name.*; *El tiempo contigo* tiene 10.
+- **Enlace de BFI** en `referencias.json`: daba 404 → cambiado por el de la entrevista que sí abre (`trading-places-makoto-shinkai-your-name`). Los de ANN, cambiados por los que leyó el investigador de texto.
+- **`referencias.json`**: fuera 27 dibujos de fans de otras obras (Hatsune Miku, Cirno, Youmu, Kancolle) y la portada de Suntory; corregidas 11 descripciones que repetían los errores de arriba; añadidas 13 propias (la palma, *Fight*, *Realize*, *Memos*, la escalera en *Sparkle* 2:40, el fandub…). Quedan 82.
+
+### Lo añadido en esta sesión
+
+- Los puntos **18 a 25** enteros, con lo que traían las partes de imagen, voz y texto.
+- «Las 3 hojas de contacto», con qué número sirve para qué y el enlace al original.
+- Los **3 conceptos de lámina**, la tabla de cumplimiento y la bitácora.
+
+### Los ⚠️
+
+- Al empezar esta sesión: **78** (secciones 0-17). Al terminar: **CUENTA_FINAL** en toda la biblia. Suben porque los puntos 18-25 son nuevos y cada dato de una sola fuente lleva el suyo; no se ha bajado ninguno de 0-17.
+- Los que más importan: frases del doblaje latino **con escena y minuto** (hay que oír la película en HBO Max, Netflix o Prime Video), pista musical de cada escena (emparejada por título), programas del estudio, figuras oficiales sin buscar y encuesta japonesa de popularidad.

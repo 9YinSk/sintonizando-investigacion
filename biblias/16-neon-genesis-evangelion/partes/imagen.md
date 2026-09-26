@@ -18,9 +18,10 @@ Katsuragi" "Gendo Ikari" "Kaworu Nagisa"`: 455 imágenes enlazadas, 208 grandes,
 5 hojas de contacto en `herramientas/referencias/neon-genesis-evangelion/` (las
 miré todas, Read). Elegí 3 para `hojas/` (ver «Las hojas de contacto»).
 
-- Hoja 1: key visuals de laserdisc/Blu-ray («Genesis 01-13 LD», todos
-  3660×3660), portadas del manga, calendarios MOVIC/Amada, hojas de personaje
-  «Evangelion Chronicle» (settei a color) · [indice.json](https://static.wikia.nocookie.net/evangelion/images/e/e2/Genesis_06_LD.jpg) · ✅ (vistas directamente) · 3660×3660 cada «Genesis N LD»
+- Hoja 1: key visuals de laserdisc/Blu-ray («Genesis 01-13 LD», por ejemplo
+  [Genesis 06 LD.jpg](https://static.wikia.nocookie.net/evangelion/images/e/e2/Genesis_06_LD.jpg),
+  3660×3660 cada una), portadas del manga, calendarios MOVIC/Amada, hojas de
+  personaje «Evangelion Chronicle» (settei a color) · ✅ (vistas directamente)
 - Portada oficial de AniList (bx30) y banner: `https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg` · fuente AniList · ✅ · tamaño servido (no el original de imprenta)
 - **Settei/genga oficiales de producción** (hoja 3, números 105-119 y 122-130):
   turnarounds a lápiz de Rei, Asuka y Misato con notas de producción en
@@ -113,7 +114,9 @@ imágenes oficiales de abajo — no son de fans.
 | Misato Katsuragi | Pelo violeta | `#1C1231` | misma imagen |
 | Gendo Ikari | Uniforme de comandante | `#413C53`⚠️ | fotograma de *EoE* («Gendo threatening Ritsuko»), con luz ambiental roja de la escena: el tono real es más neutro, casi negro-azulado |
 | Gendo Ikari | Lentes (filtro naranja) | `#E97151` | mismo fotograma |
-| Kaworu Nagisa | Camisa casual azul/blanca (no el uniforme escolar) | pendiente ⚠️ — medí un retrato con fondo beige (`Kaworu Nagisa Promotional Artwork.png`) pero es ropa de calle, no el uniforme; el uniforme escolar de Kaworu (blanco y negro, igual que el de Shinji) no lo medí aún, sólo lo vi en las hojas 1 y 3 | — |
+| Kaworu Nagisa | Uniforme escolar (confirmado visualmente: camisa blanca manga corta + pantalón azul marino, **mismo corte que el de Shinji**) | sin hex limpio ⚠️ — en [Shinji Rei Kaworu (EoE).png](https://static.wikia.nocookie.net/evangelion/images/4/44/Shinji_Rei_Kaworu_%28EoE%29.png) se ve el corte exacto, pero la escena tiene un tinte azul-verde de agua que falsea cualquier medición; usar los hex de Shinji (arriba) como aproximación | Shinji Rei Kaworu (EoE).png |
+| Kaworu Nagisa | Pelo gris | `#A9A9A0`⚠️ | mismo fotograma (tinte de agua) |
+| Kaworu Nagisa | Ropa de calle (no uniforme): camisa abierta azul/blanco | `#E8E3D6` camisa, `#1A2A4A` pantalón | [Kaworu Nagisa Promotional Artwork.png](https://static.wikia.nocookie.net/evangelion/images/c/c3/Kaworu_Nagisa_Promotional_Artwork.png), fondo beige liso |
 
 **Ojo con la luz ambiental**: los fotogramas de *End of Evangelion* casi
 siempre tienen un tinte rojo o violeta de la escena (apocalipsis), así que
@@ -148,7 +151,198 @@ dice su licencia: son fondos de fans, hay que mirarlos uno a uno antes de citar
 autor en la lámina; para el objeto final mejor usar arte oficial (arriba) o
 generar un fondo propio con la paleta medida.
 
-**Fondos oficiales en alta** (de la biblia vieja, confirmo que los enlaces de
-Wallpaper Abyss/alphacoders siguen respondiendo con `curl -I`, código 200 ✅):
+**Fondos oficiales en alta** (de la biblia vieja: comprobé con `curl` que los
+4 enlaces de Wallpaper Abyss siguen dando código 200 ✅, ya no son enlaces
+muertos):
 - *3.0*: Shinji, Rei y Asuka, 3840×2160, shirakawa mayo — [wall.alphacoders.com/big.php?i=691150](https://wall.alphacoders.com/big.php?i=691150)
+- Rei Ayanami, 3840×2160 — [wall.alphacoders.com/big.php?i=949384](https://wall.alphacoders.com/big.php?i=949384)
+- «Asuka: Neon Skyline», 3840×2160 — [wall.alphacoders.com/big.php?i=1399756](https://wall.alphacoders.com/big.php?i=1399756)
+- Unidad 01, 3840×2160 — [wall.alphacoders.com/big.php?i=1163434](https://wall.alphacoders.com/big.php?i=1163434)
 - Más de 120 fondos 4K en [alphacoders.com/neon-genesis-evangelion-4k-wallpapers](https://alphacoders.com/neon-genesis-evangelion-4k-wallpapers)
+
+## 19 · Texturas 2D (tramas, grano, pinceladas, patrones, emblemas)
+
+- **Tramas del manga (screentone)**: en las páginas del manga de Sadamoto
+  (hoja 4, nº 146-152, 164, 172 — las miré) se ve trama de puntos clásica en
+  fondos y sombras, y rayado fino en escenas de tensión, típico del manga de
+  los 90. No hay un pack CC0 puro de tramas: los mejores **gratis** que
+  encontré son de pago con muestra gratuita:
+  - [SuperScreentones — muestra gratis](https://ittaimanero.gumroad.com/l/FREESuperScreentoneSample) (Procreate, Photoshop, CSP) — gratis, una textura de muestra ⚠️ (licencia de uso, no CC0)
+  - [Comic Screentone free Procreate brushes, $0 en Gumroad](https://www.graphicsbunker.com/brushes/free-comic-screentone-procreate-brushes/) — 23 pinceles gratis
+  - [Brusheezy: SCREENTONES Halftone Brushes (Mabecman)](https://www.brusheezy.com/free/halftone) — gratis, Photoshop .abr
+- **Grano de papel** (para el fondo del cuaderno/tablilla de NERV):
+  [ambientCG](https://ambientcg.com/) es **CC0** de verdad (lo confirmé con su
+  API `full_json?type=Material&q=paper`): `Paper001`, `Paper003`, `Paper004`,
+  `Paper005`, `Paper006` — texturas PBR completas (difuso, normal, rugosidad),
+  sin crédito obligatorio ✅. La ficha de piloto (tarjeta de plástico) usa mejor
+  un plástico satinado: buscar `Plastic` en la misma API.
+- **Patrones de ropa**: el traje de conector no lleva estampado (liso con
+  paneles), pero el uniforme escolar de Tokio-3 (cuadros del pichi) sí — no
+  encontré una textura de cuadro escocés escolar libre específica; cualquier
+  textura CC0 de «tartán» de ambientCG o Poly Haven sirve de base, recolorearla
+  al azul marino medido arriba.
+- **Emblemas y logos** (para el punto 25 también): el logo de NERV y el de
+  Evangelion están en varias webs de «vector logos» (Worldvectorlogo, SeekLogo,
+  Brands of the World), pero son **trazados por fans a partir del original**,
+  no CC0 ni con licencia real: la marca es de Khara/Gainax ⚠️. Sirven sólo como
+  referencia del trazo exacto (proporciones de las letras), no para reutilizar
+  en un producto: [Worldvectorlogo: NERV](https://worldvectorlogo.com/logo/nerv),
+  [SeekLogo: Evangelion](https://seeklogo.com/free-vector-logos/evangelion).
+- **Pinceladas / línea de tinta**: el estilo de Gainax/Khara usa línea de
+  grosor variable, más gruesa en el contorno exterior — ver el punto 18 (lo
+  hace el investigador de texto/técnica); aquí sólo dejo la referencia de
+  textura de tinta: [ambientCG no tiene "ink", usar un pincel de tinta real de
+  Krita/CSP gratuito] ⚠️ no lo verifiqué a fondo, falta de tiempo.
+
+## 23 · Colaboraciones y cruces
+
+Aquí es donde más profundicé, porque la biblia vieja no tenía nada de esto
+(sólo merchandising genérico) y hay colaboraciones muy recientes (2025-2026):
+
+- **The First Descendant × Evangelion** (videojuego gacha de disparos, Nexon):
+  colaboración **confirmada y ya lanzada**, del 18-jun-2026 al 30-jul-2026 (6
+  semanas). Bunny, Valby y Gley (Descendants del juego) llevan los trajes de
+  conector de **Asuka, Rei y Mari**; trae pieles de arma, peinados, maquillaje
+  a juego y emotes temáticos ✅ (dos fuentes:
+  [Anime News Network](https://www.animenewsnetwork.com/press-release/2026-06-16/the-first-descendant-reveals-details-of-evangelion-collaboration-arriving-june-18/.238581),
+  [Siliconera](https://www.siliconera.com/evangelion-characters-join-the-first-descendant-in-new-crossover/)).
+  Antes hubo otra colaboración de gachas: **Pachislot Evangelion Magokoro2**
+  (máquina tragamonedas japonesa con Rei), imagen oficial vista en la hoja 5
+  ([Pachislot Evangelion Magokoro2 Rei 3.png](https://static.wikia.nocookie.net/evangelion/images/e/ee/Pachislot_Evangelion_Magokoro2_Rei_3.png)) ✅.
+- **McDonald's Japón × Evangelion** (por el 30 aniversario, ene-2026): primera
+  colaboración de McDonald's con la franquicia. Set de 3 figuras
+  transformables que son las Eva convertidas en comida (Big Mac = Unidad 01,
+  McFries = Unidad 02, McShake = Unidad 00), con anuncio de TV propio.
+  Lanzamiento el 6-ene-2026, hasta principios de feb-2026 ✅ (dos fuentes:
+  [SNKRDUNK](https://snkrdunk.com/en/magazine/2024/12/19/neon-genesis-evangelion-mcdonalds-value-figurine-set-release-date-price-where-to-buy/),
+  [GameRant](https://gamerant.com/mcdonalds-x-evangelion-collab-confirms-release-date-menu-items-exclusive-figures/)).
+- **GU × Evangelion** (marca hermana económica de Uniqlo, dentro de
+  «EVANGELION:30+»): colección de ropa por el 30 aniversario, mencionada junto
+  a McDonald's en el anuncio oficial del proyecto ✅
+  ([SNKRDUNK: EVANGELION:30+](https://snkrdunk.com/en/magazine/2025/01/03/evangelion-unveils-30th-anniversary-plans/)) ⚠️ (una fuente con el detalle exacto de las prendas; no vi fotos de las piezas).
+- **Ichiban Kuji 30th Anniversary** (lotería de premios, no es marca externa
+  pero sí colaboración con Bandai Spirits): 60 premios, empieza 6-feb-2026, la
+  figura principal es la Unidad 01 desplegando alas — ver punto 1. Trae poses
+  **nuevas** (alas desplegadas) que no estaban en el arte clásico ✅.
+- **Figuras oficiales** (referencia 3D real de pose, no de licencia libre):
+  la figura **S-FIRE de Asuka (3.0+1.0 Thrice Upon a Time)**, sentada en la
+  playa con las piernas cruzadas — pose muy distinta a las de acción — y las
+  del Ichiban Kuji (arriba). Ambas fotografiadas, en `hojas/` (hoja 3).
+- **Cosplay**: dos referencias concretas, no genéricas de tienda:
+  - [Alodia Gosiengfiao — Rei Ayanami «Grimrock»](https://en.wikipedia.org/wiki/Alodia_Gosiengfiao):
+    cosplayer filipina muy conocida, presentó esta versión en el Supanova Pop
+    Culture Expo 2010 (Brisbane) ✅ (Wikipedia); es una versión de armadura, no
+    el plugsuit liso, así que sirve más como referencia de acabado que de
+    plugsuit.
+  - [SecondImpactCosplay — Rei Ayanami Plugsuit (DeviantArt)](https://www.deviantart.com/secondimpactcosplay/art/Rei-Ayanami-Plugsuit-484359771):
+    plugsuit blanco cosido, foto propia ⚠️ (una fuente, no la abrí a fondo por
+    tiempo: falta comprobar materiales y volumen reales de cerca).
+  Lo que NO sirve: las tiendas genéricas de AliExpress/Etsy con «cosplay
+  costume»: son disfraces baratos de licra impresa, sin el volumen de placas
+  del traje real (el dueño ya rechazó looks planos antes).
+- **Sin confirmar**: circula en TikTok la idea de una colaboración
+  Evangelion × Fortnite, pero no hay anuncio oficial de Epic Games ni de Khara
+  a fecha de hoy: **no la doy por real** ⚠️ (varias fuentes de fans, ninguna
+  oficial).
+
+## Las hojas de contacto
+
+Elegí 3 de las 5 que dio `investigar_serie.py` (miré las 5 con Read antes de
+elegir). Quedan en `hojas/`:
+
+- **`arte_oficial_01.jpg`** (antes hoja 1): la mejor para el **punto 1**. Trae
+  las 13 portadas «Genesis N LD» (laserdisc, 3660×3660 cada una), el key visual
+  de Rei del *EVANGELION STORE TOKYO-01*, las hojas «Evangelion Chronicle
+  character Sheet» (settei a color de Shinji/Rei/Misato/Gendo) y las portadas
+  del manga con Asuka y Rei. Números útiles: **17-24** (portadas de LD, todas
+  con un personaje y su Eva) y **9-15** (settei a color).
+- **`vestuario_pantallazos_02.jpg`** (antes hoja 2): la usé para el **punto
+  15**. Trae capturas de *End of Evangelion* con los tres trajes de conector
+  bien visibles (Asuka roja cayendo, Rei blanca tumbada, Shinji apuntando con
+  pistola) y la ilustración de la revista *Newtype* con Rei. Números útiles:
+  **53-56** y **62-64**.
+- **`settei_figuras_03.jpg`** (antes hoja 3): la usé para los **puntos 1, 15 y
+  23**. Trae turnarounds de producción a lápiz (más de 15 hojas «決定稿» =
+  «versión final») y las dos figuras fotografiadas del Ichiban Kuji del 30
+  aniversario. Números útiles: **105-119** (turnarounds), **134-135**
+  (Ichiban Kuji), **136** (figura S-FIRE de Asuka).
+
+Las otras 2 hojas (manga y pachinko/wallpapers de fans) se quedaron fuera por
+el límite de 3; sus datos usables ya están citados arriba con enlace directo
+a la imagen original de la wiki (no hace falta la hoja para verlas).
+
+## Lo mejor para la lámina
+
+- La **ficha del piloto NERV** (objeto del encargo) se ve de verdad en las
+  hojas del Ichiban Kuji: usar el settei a color (hoja `settei_figuras_03.jpg`,
+  nº 9-15) para el estilo de línea de la tarjeta y el modelo 3D **Clipboard**
+  (CC BY, Sketchfab) como base 3D de la tablilla.
+- Para el traje de conector, los hex de **arte con fondo transparente**
+  (Shinji `#036ED3`/`#DCEFF3`, Rei `#E9EDF3`/`#466440`) son los más fiables:
+  sin luz de escena que los tiña, a diferencia de los de *End of Evangelion*.
+- El **modelo con esqueleto de Asuka** (Sketchfab, JoeTrekV, CC BY) es la
+  única malla libre encontrada que ya viene lista para posar: mejor punto de
+  partida 3D si la lámina necesita una pose nueva de un personaje.
+- Las colaboraciones más recientes (**The First Descendant**, **McDonald's
+  Japón**, **Ichiban Kuji**) dan poses y objetos que no existían en 2025: mirar
+  ahí antes de repetir siempre plugsuit + Eva de fondo.
+- El vestido/uniforme escolar de Asuka (`Asuka Langley Soryu in her iconic
+  outfit.png`) es mejor referencia para una lámina de Discord que el traje de
+  conector: ya lo decía la biblia vieja, y confirma que es ropa no ceñida.
+
+## No encontré
+
+- **Licencia exacta de "Evangelion unit 01" (lefort)** en Sketchfab: la API
+  no devolvió el campo `license` en esa consulta puntual (sí en las otras 11
+  modelos de la tabla); hay que abrir la página a mano. Búsqueda: API
+  `q=evangelion&downloadable=true`.
+- **Pack de tramas de manga 100% CC0**: no existe uno puro; sólo packs de pago
+  con una muestra gratis, o pinceles individuales gratis en Gumroad/Brusheezy.
+  Búsquedas: «free CC0 manga screentone halftone brush pack», «gumroad free
+  screentone pack $0».
+- **Cosplay de Worldcosplay/Instagram con foto propia analizada de cerca**:
+  encontré 2 referencias (arriba, punto 23) pero no llegué a mirar de cerca
+  materiales y volumen de ninguna de las dos por tiempo; sólo las enlacé.
+- **Detalle de las prendas de la colección GU × Evangelion**: sólo confirmado
+  que existe (una fuente), sin fotos de las piezas. Búsqueda: «EVANGELION:30+
+  McDonald's GU collaboration merchandise details».
+- **Texturas CC0 de tartán/cuadro escolar** específicas para el pichi de
+  Tokio-3: no encontré una hecha para uniforme escolar japonés; usar una
+  genérica de ambientCG/Poly Haven y recolorear.
+- **Licencias de Poly Haven** para algo de la serie: Poly Haven no tiene
+  contenido específico de Evangelion (es un banco genérico de HDRIs y
+  materiales CC0); no hay nada que enlazar ahí aparte de las texturas
+  genéricas ya citadas en el punto 19.
+
+## Bitácora
+
+- `herramientas/investigar_serie.py --serie "Neon Genesis Evangelion" --wiki
+  evangelion --paginas "Shinji Ikari" "Rei Ayanami" "Asuka Langley Soryu"
+  "Misato Katsuragi" "Gendo Ikari" "Kaworu Nagisa"` → 455 imágenes, 208
+  grandes, 5 hojas (las 5 miradas con Read antes de elegir 3).
+- API de Sketchfab (`api.sketchfab.com/v3/search`) con los términos:
+  `evangelion`, `clipboard`, `cello`, `sony walkman`, `entry plug`, `eva unit
+  01 rigged`, `evangelion rigged` — todas devolvieron resultados con licencia
+  exacta.
+- API de ambientCG (`ambientcg.com/api/v2/full_json?type=Material&q=paper`) →
+  6 materiales de papel CC0.
+- API de Wallhaven (`wallhaven.cc/api/v1/search` y `/w/<id>`) → top 5 fondos
+  por favoritos, tamaño y autor reales.
+- `curl -I` (código de estado) a los 4 enlaces de Wallpaper Abyss de la biblia
+  vieja: los 4 siguen vivos (200).
+- Descargué y medí con Pillow (mediana de un parche de 6-12 px) 6 imágenes:
+  Shinji en plugsuit, Asuka con uniforme escolar, Rei con plugsuit dañado, la
+  figura S-FIRE de Asuka, Misato de cuerpo entero y un fotograma de Gendo/EoE.
+  Herramienta: script propio (no `estilo.py`, que da colores dominantes de
+  toda la imagen, no por prenda) en `/tmp/claude-0/trabajo/16-neon-genesis-evangelion-imagen/`.
+- Búsquedas web (WebSearch, en español e inglés): «free CC0 manga screentone
+  halftone brush pack», «Evangelion NERV logo emblem free vector download
+  license», «gumroad free screentone pack $0», «Evangelion Fortnite
+  collaboration skin OR pachinko OR cafe collaboration 2025 2026», «"The First
+  Descendant" Evangelion collaboration release date official skins»,
+  «Evangelion Uniqlo UT OR Sanrio OR Ichiban Kuji 30th anniversary
+  collaboration 2025», «EVANGELION:30+ McDonald's Japan GU collaboration
+  merchandise details».
+- No repetí ninguna consulta de `datos-imagen.md` (portada AniList, texto de
+  «Appearance» de la wiki, Danbooru, Safebooru, Openverse): las usé tal cual
+  llegaron, sólo verificando lo que hacía falta para mis puntos.

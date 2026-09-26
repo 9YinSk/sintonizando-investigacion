@@ -15,7 +15,7 @@ Fotogramas propios, no de memoria. Los `.mp4` se borraron tras sacar las hojas (
 - Tráiler oficial #1 de Intensamente (2015), reencontrado en Dailymotion (el original de YouTube da 429/login) · https://www.dailymotion.com/video/x2nnb8i · ✅ (duración 2:10 coincide con el tráiler #1 oficial de Disney/Pixar, contenido: mesa de Cuartel General con las 5 emociones en 0:15, cena familiar en 0:45, Ira gritando en 0:30) · minuto 0:00-2:10
 - Tráiler oficial #1 de Intensamente 2 (2024), Dailymotion · https://www.dailymotion.com/video/x8u17p0 · ✅ (2:24, muestra patines en 0:00, Ansiedad/Vergüenza/Envidia/Ennui nuevas en 0:45-1:00, la lata de recuerdos vieja tirada al «Sar-Cofago» en 1:45, Riley en la cancha de hockey en 2:15) · minuto 0:00-2:24
 - «Opening» (escena inicial, Intensamente 2): clip promocional oficial «Team Riley: Riley's new emotions aren't really new» con metraje real de la mudanza a Minnesota, la prueba de hockey y el «todo es distinto ahora», Dailymotion · https://www.dailymotion.com/video/x921a3q · ⚠️ (clip promocional con metraje real pero editado con carteles de texto, no el corte íntegro de la película) · minuto 0:40-2:20
-- «Ending» (escena final, Intensamente 2): el ataque de pánico de Ansiedad en la consola y el abrazo de las 6 emociones que resuelve la crisis de autoestima de Riley, Dailymotion · https://www.dailymotion.com/video/x91jygs · ✅ (9:15, incluye consola violeta con Ansiedad sola en 3:20, «Believe in yourself» hecho pedazos en 7:20, la escena de la cancha al atardecer en 3:20) · minuto 3:20-9:15
+- «Ending» (escena final, Intensamente 2): compilación titulada «Riley Panic/Anxiety attack, all Emotion hug scene», Dailymotion · https://www.dailymotion.com/video/x91jygs · ⚠️ (sólo 0:00-4:40 parece metraje real de la película —recuerdos en grupo, primeros planos de Riley y de una emoción bailando entre luces rojas y azules—; de 5:00 en adelante el vídeo mete fan art 2D no oficial (una lámina con las 6 emociones y marca de agua diagonal, tarjetas de texto «Ennui», «Eerie», «Believe in yourself»), así que **no cito esa parte como fotograma de la película**) · minuto 0:00-4:40 fiable, resto descartado
 - Escena icónica 1: Bing Bong guía a Alegría y Tristeza por los pasillos de la Memoria a Largo Plazo (metraje real dentro de un vídeo de noticias de cine), Dailymotion · https://www.dailymotion.com/video/x3ok2ma · ⚠️ (el clip mezcla el metraje con una presentadora de «Movie Trailers» hablando de otra película después del segundo 0:25; sólo 0:05-0:25 es Intensamente) · minuto 0:05-0:25
 - Escena icónica 2: Riley falla la prueba de hockey, la abandona y estalla llorando en la cena («I don't want to play hockey anymore»), captura de pantalla del filme, Dailymotion · https://www.dailymotion.com/video/x31t210 · ⚠️ (calidad de grabación de pantalla, marca de agua «Bandicam», pero el contenido coincide con la escena real de la película) · minuto 0:00-1:33
 - Escena icónica 3: la discusión familiar en la cena («Este rollo de mudarnos es una estupidez») donde Ira toma el control y se agrieta el primer Recuerdo Núcleo, Dailymotion, calidad oficial · https://www.dailymotion.com/video/x4fd9rc · ✅ (2:15, coincide con el guion citado en varias reseñas: «Sí, cosa importante, es sarcasmo» de Tristeza) · minuto 0:00-2:15
@@ -23,14 +23,16 @@ Fotogramas propios, no de memoria. Los `.mp4` se borraron tras sacar las hojas (
 
 ## 4 · Fondos y sitios: luz y paleta (medida en fotogramas)
 
-Hex sacados con Pillow de mis propios fotogramas (no de paletas de fans). Cada uno dice de qué imagen sale.
+Hex sacados de verdad con `herramientas/estilo.py` (Pillow, 5 colores dominantes por imagen) sobre fotogramas propios
+sacados con `--fotograma <segundo>` de mis clips de Dailymotion, mirados con Read antes de medir. Cada uno dice el
+segundo exacto y el archivo.
 
-- Cuartel General (consola de las emociones), fotograma 6 de `trailer_io2` (1:15) · violeta profundo `#3B2A55`, violeta medio `#6B4FA0`, dorado consola `#D9A441` · ✅ (medido con Pillow) · luz: focos cálidos puntuales sobre fondo violeta oscuro, ambiente de sala de control nocturna
-- Memoria a Largo Plazo (estanterías infinitas), fotograma 2-3 de `bingbong` (0:05-0:10) · azul grisáceo `#8FA3C4`, dorado de las esferas de recuerdo `#E8B84B`, sombra `#2B3550` · ⚠️ (una sola fuente, clip corto) · luz fría cenital, hilera de estantes en perspectiva
-- Pista de hockey al atardecer (final IO2), fotograma 6 de `ending_io2` (3:20) · naranja del cielo `#E8703A`, silueta violeta de Riley `#5B3B6B`, hielo rosado `#F0B8B0` · ✅ (medido con Pillow; coincide con la paleta cálida-fría típica de los clímax de la franquicia) · luz de atardecer a contraluz, cielo dominante sobre figura pequeña
-- Colegio nuevo de San Francisco (pasillo/aula, Intensamente 2), fotograma 5-6 de `opening_io2` (1:20-1:40) · beige pared `#C9B79C`, azul uniforme hockey `#3A5A8C`, piel/luz cálida interior `#E8C9A0` · ⚠️ (una fuente) · luz de tubo fluorescente, interior plano y frío
-- Consola violeta de la Ansiedad (Intensamente 2, clímax), fotograma 8 de `ending_io2` (5:20) · violeta saturado de fondo `#4A2E6B`, rosa de alarma `#E85D9E`, blanco del panel `#EDEDF2` · ✅ (medido con Pillow, coincide con la paleta de marketing oficial de IO2 para Ansiedad) · luz de emergencia rosa/violeta, sin luz natural
-- Cocina familiar (casa de Minnesota, Intensamente 1, tráiler), fotograma 4 de `trailer1` (0:45) · beige pared `#D8CBB0`, madera mueble `#8A5A3C`, camisa del padre `#C9B89A` · ✅ (medido con Pillow) · luz de ventana lateral suave, interior cálido doméstico
+- Cuartel General / consola de las emociones (Intensamente 2, Alegría y Vergüenza junto al panel), `trailer_io2` seg. 60 → `px_consola2/fotograma_00060.jpg` · violeta oscuro `#441667` 35% , lavanda `#BB9CC3` 19%, violeta muy oscuro `#230433` 18%, violeta medio `#5D4A98` 16%, magenta `#B64B71` 12% · ✅ (medido con estilo.py; línea suave, degradado, saturación 68%) · luz: fuente puntual cálida (fuente/consola) sobre fondo violeta frío, ventanales traseros con paisaje anaranjado a lo lejos · minuto 1:00
+- Sala de consola con Ansiedad y el resto de emociones (Intensamente 2, panel de luces de colores detrás), `trailer_io2` seg. 30 → `px_ansiedad2/fotograma_00030.jpg` · azul-violeta `#3B3E79` 24%, lila grisáceo `#6F6C98` 21%, piel/beige `#D1ADA0` 20%, violeta muy oscuro `#2F233B` 18%, rojo apagado `#9B2637` 17% · ✅ (medido con estilo.py; saturación 56%, brillo medio) · luz: pared de botones de colores (rojo/verde/azul/amarillo) detrás en penumbra, ambiente de sala de control · minuto 0:30
+- Memoria a Largo Plazo (estanterías infinitas, Bing Bong caminando con Alegría y Tristeza), `bingbong` seg. 8 → `px_memoria/fotograma_00008.jpg` · rosa apagado `#A0727E` 24%, rosa claro `#D89BB1` 22%, lavanda muy claro `#D7D3E6` 20%, azul-lila `#999AE4` 19%, granate oscuro `#60424A` 15% · ✅ (medido con estilo.py; línea normal, saturación 28%, brillo 75%) · luz fría y difusa, hilera de estantes en perspectiva iluminados por dentro · minuto 0:08
+- Pista de hockey cubierta (Intensamente 2, entrenamiento), `trailer_io2` seg. 90 → `px_rink/fotograma_00090.jpg` · marrón/beige gradas `#816457` 26%, blanco hielo `#D9E3E8` 22%, azul grisáceo `#A8B4C3` 19%, beige rosado `#9D8B85` 18%, marrón oscuro `#523836` 16% · ✅ (medido con estilo.py; saturación baja 24%, brillo 65%) · luz natural de ventanales laterales, contraluz suave sobre el hielo · minuto 1:30
+- Cocina familiar (casa de Minnesota, Intensamente 1, el padre desayunando), `trailer1` seg. 45 → `px_cocina/fotograma_00045.jpg` · marrón oscuro `#27221A` 25%, verde oliva apagado `#4E493A` 24%, beige tostado `#716759` 24%, beige claro `#A39483` 14%, crema `#D5C7B2` 13% · ✅ (medido con estilo.py; saturación 24%, brillo 42%) · luz de ventana lateral suave, interior cálido y algo oscuro · minuto 0:45
+- Patio/comedor exterior del colegio nuevo (Intensamente 2, mesas de pícnic), `opening_io2` seg. 90 → `px_colegio/fotograma_00090.jpg` · violeta grisáceo `#70698D` 27%, gris azulado oscuro `#4F4E65` 25%, azul-lila `#878BC2` 18%, blanco azulado `#D4DDFC` 17%, lila `#C1A6D6` 14% · ⚠️ (medido con estilo.py, pero el vídeo fuente es una grabación de baja calidad y muy borrosa: el tinte azul/violeta puede ser del propio archivo, no del color real de la escena) · minuto 1:30
 
 ## 9 · Música y sonido
 
@@ -64,17 +66,17 @@ Riley de pie con las manos en la cintura, ceño fruncido, mirando al padre (esce
 Padre con el índice levantado, ceja arqueada, medio cuerpo inclinado hacia adelante (regaño) | Intensamente (2015) | 1:36 (`dinner_anger`) | Regañar
 Riley encogida, rodillas hacia el pecho, mirada perdida, en el banquillo tras dejar el hockey | Intensamente (2015) | 1:10 (`hockey`) | Pensar / triste
 Las 5 emociones apretujadas alrededor de la consola mirando hacia arriba con asombro (reunión IO1) | Intensamente (2015) | 0:15 (`trailer1`) | Explicar / presentar
-Ansiedad sola frente a la consola violeta, manos temblando sobre los botones, ojos muy abiertos | Intensamente 2 (2024) | 5:20 (`ending_io2`) | Pensar (ansiedad) / advertir
-Las 6 emociones abrazadas en grupo alrededor de la consola tras la crisis (resolución) | Intensamente 2 (2024) | 7:20 (`ending_io2`) | Celebrar / consolar
-Riley de rodillas en el hielo, casco en mano, mirando al público con pánico (ataque de pánico) | Intensamente 2 (2024) | 3:20 (`ending_io2`) | Explicar (miedo) / advertir
+Ansiedad de pie frente al grupo, brazos y pelo naranja hacia arriba, ojos muy abiertos, boca sonriente nerviosa (presentación en la sala de consola) | Intensamente 2 (2024) | 0:30 (`trailer_io2`) | Explicar / advertir
+Alegría con la mano levantada hablando, Vergüenza (grande, encapuchada) agachada mirándola de cerca, junto al panel de la consola | Intensamente 2 (2024) | 1:00 (`trailer_io2`) | Explicar / presentar
+Jugadores de hockey de pie sobre el hielo, casco bajo el brazo, en fila mirando hacia el banquillo (entrenamiento) | Intensamente 2 (2024) | 1:30 (`trailer_io2`) | Presentar / animar
 
 ## Lo mejor para la lámina
 
-- La consola de Cuartel General (violeta oscuro + dorado) da un objeto real tipo «panel de control» ideal para un canal técnico, con las 5-6 emociones alrededor
-- Escena de la cena familiar (beige cálido, madera) es la pose de grupo más «viva»: sirve para un canal de convivencia/comunidad, no de pie sueltas
-- El ataque de pánico de Ansiedad (violeta/rosa saturado) es la imagen más citada de 2024 en redes: ideal si el canal habla de nervios o primera vez (streaming, grabación)
-- «Tears of Joy» y «A Mind at Freeze» son los cues más reconocibles de cada película para ambientar un vídeo de presentación del canal
-- El patinaje sobre hielo (naranja atardecer + silueta) da luz y profundidad ya resueltas para un fondo sin aplanar
+- La consola de Cuartel General (violeta oscuro + magenta + lavanda, medida en `px_consola2`) da un objeto real tipo «panel de control» ideal para un canal técnico, con las emociones alrededor
+- Escena de la cena familiar (beige/marrón cálido, madera) es la pose de grupo más «viva»: sirve para un canal de convivencia/comunidad, no de pie sueltas
+- Ansiedad (naranja, pelo de punta, ojos muy abiertos) frente al panel de luces de colores es la imagen más citada en TikTok de 2024 (Know Your Meme, Wikipedia): ideal si el canal habla de nervios o primera vez (streaming, grabación)
+- «Tears of Joy» (Memoria/llanto de Alegría) y «We Can Still Stop Her» (persecución) son los cues confirmados en la wiki para ambientar un vídeo de presentación del canal
+- La pista de hockey cubierta (beige/blanco frío, contraluz de ventanales) da luz y profundidad ya resueltas para un fondo sin aplanar
 
 ## No encontré
 
