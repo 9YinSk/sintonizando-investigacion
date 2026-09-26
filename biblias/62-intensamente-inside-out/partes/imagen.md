@@ -3,6 +3,13 @@
 Investigador de imagen. Cubre las dos películas: Intensamente (2015) e Intensamente 2 (2024, con Ansiedad, Vergüenza, Envidia y Aburrimiento).
 Base: `partes/datos-imagen.md` (recolector) + hojas de contacto propias con `investigar_serie.py` (251 imágenes de pixar.fandom.com, 6 hojas en `herramientas/referencias/intensamente-inside-out/`).
 
+**Las 3 hojas que dejo en `hojas/`** (de las 6 generadas, elegidas por variedad; el resto queda en `herramientas/referencias/` para quien las necesite):
+- `hojas/personajes_01.jpg` = hoja_01: pósters textless en altísima resolución + los 9 pósters de personaje de Intensamente 2, uno por emoción — la mejor hoja de modelo por personaje.
+- `hojas/arte_01.jpg` = hoja_02: arte conceptual pintado, maquetas de arcilla, lineup de grupo, Blu-ray, pósters internacionales y merchandising (muñeca de Alegría).
+- `hojas/conceptual_01.jpg` = hoja_04: anuncios reales del BART, emociones descartadas en preproducción (Envidia vieja, Vergüenza, Melancolía, Codicia, Irritación, Culpa) y sábanas de pose sin decidir — la más útil para «lo que no llegó a existir» y variantes de diseño.
+
+Cuando cito «hoja_01 #N» etc. en este documento me refiero a la numeración de `herramientas/referencias/intensamente-inside-out/` (con las 6 hojas completas e `indice.json` con la URL real de cada imagen), no sólo a las 3 que quedan en el repositorio.
+
 ## 1 · Arte oficial, en cantidad y variado
 
 Hojas de contacto (251 imágenes, `herramientas/referencias/intensamente-inside-out/hoja_01..06.jpg`, índice en `indice.json` del mismo directorio): pósters textless en altísima resolución, pósters de personaje de ambas películas, arte conceptual de emociones descartadas, maquetas de arcilla, merchandising y anuncios reales.
@@ -124,3 +131,31 @@ Intensamente es animación 3D con *toon shading*, no manga: no hay tramas ni scr
 - No encontré cruce con marcas de moda de lujo, cafés temáticos permanentes ni un evento propio en los parques Disney (sí hay desfiles temporales «Pixar Fest», pero no un evento fijo dedicado sólo a Intensamente): busqué «Inside Out Disney parks event», «Inside Out café temático», «Inside Out x Fortnite» — nada confirmado en dos fuentes.
 
 **Lo que falló del recolector automático**: la búsqueda de páginas de personaje en pixar.fandom con nombres en español no encontró nada porque la wiki está en inglés (`Joy`, `Sadness`, `Anger`, `Disgust`, `Fear`, `Anxiety`, `Embarrassment`, `Envy`, `Ennui`). Repetí `investigar_serie.py` con los nombres correctos en inglés + `Inside Out` + `Inside Out 2`: 308 imágenes enlazadas, 251 grandes, 6 hojas nuevas (sustituyen las 0 hojas del recolector).
+
+## Lo mejor para la lámina
+
+- El póster de personaje de Intensamente 2 de cualquier emoción (fondo de color plano, cuerpo entero) es la mejor hoja de modelo: ya trae los hex medidos y una pose viva, no de pie neutro.
+- Alegría con su gesto de manos juntas en el pecho y su vestido verde con patrón (póster IO2) transmite mejor su personalidad que cualquier fotograma suelto.
+- El anuncio real del BART con Furia o Temor integrado en una estación de metro es el ejemplo perfecto de «personaje insertado en un sitio real», tal como pide el dueño.
+- El arte conceptual de las emociones descartadas (Envidia vieja, Vergüenza, Melancolía, Codicia) es un gancho original: nadie más en el servidor lo va a usar porque no sale en la película.
+- Los rigs libres de Envidia y Aburrimiento en Sketchfab permiten posar al personaje en Blender en vez de calcar una pose fija de póster.
+
+## No encontré
+
+- Modelos 3D con licencia de los sitios (Cuartel de Control, Tren del Pensamiento, Islas de la Personalidad) en Sketchfab ni Poly Haven — busqué «Inside Out Headquarters console», «Islands of Personality», «Train of Thought» (sólo hay props sueltos de personajes).
+- Textura CC0 de lunares o de pata de gallo (houndstooth) en ambientCG — sólo tiene materiales PBR lisos, no estampados impresos.
+- Página oficial de wallpapers de Pixar/Disney para Intensamente — comprobado con WebSearch, no existe; lo que circula como «oficial» en sitios de wallpapers son *stills* reescalados.
+- El escudo aislado del equipo de hockey «Fire Hawks» de Riley — sólo aparece pequeño y borroso en la camiseta dentro de los stills, no hay una versión limpia.
+- Una colaboración con una marca de moda de lujo, un café temático permanente o un evento fijo de los parques Disney dedicado sólo a Intensamente — busqué «Inside Out Disney parks event», «Inside Out café temático», «Inside Out x Fortnite»: sólo hay desfiles temporales tipo Pixar Fest, nada confirmado en dos fuentes.
+- Más wallpapers de fans reales en Wallhaven: la mayoría de resultados de «inside out» eran falsos positivos (coches, mascotas, anime sin relación) por las palabras sueltas; sólo 3 genuinos tras filtrar a mano.
+
+## Bitácora
+
+- `investigar_serie.py --serie "Intensamente (Inside Out)" --wiki pixar --paginas "Joy" "Sadness" "Anger" "Disgust" "Fear" "Anxiety" "Embarrassment" "Envy" "Ennui" "Inside Out" "Inside Out 2"` (inglés) → 251 imágenes grandes, 6 hojas de contacto.
+- `pixar.fandom.com/api.php` (`list=search`, `list=allimages`, `action=parse&prop=wikitext`) en inglés, para: nombres correctos de página, imágenes limpias de Envidia (`Envy_laughs.png`), sinopsis de Intensamente 2 (localizaciones y personajes nuevos).
+- Sketchfab API (`search?type=models&downloadable=true`) en inglés: Joy, Sadness, Anger, Disgust, Fear, Anxiety, Envy, Ennui, Embarrassment, Riley, Bing Bong, Headquarters console — 12 búsquedas.
+- ambientCG API (`full_json?type=Material`) en inglés: paper, fabric, cardboard — 3 búsquedas.
+- Wallhaven API (`search`) en inglés: «inside out», «inside out pixar», con categorías 010/111 y purity 100 — 4 búsquedas, filtradas a mano por etiquetas para descartar falsos positivos.
+- WebSearch en inglés: colaboraciones oficiales (Funko, LEGO, Crocs, Disney Emoji Blitz), guías de cosplay (Envy, Anxiety, Joy), crossover de videojuego (Disney Dreamlight Valley, Kingdom Hearts), eventos de parques Disney — 4 búsquedas.
+- Medí color con Pillow (script propio: mediana de un parche de 9-11 px, con recorte y grid de calibración de 10×10 para ubicar cada prenda) sobre 9 imágenes descargadas de pixar.fandom.com: 5 pósters de personaje de Intensamente 2 (Sadness, Anxiety, Envy, Embarrassment, Ennui, Joy) y 4 renders sin fondo de Intensamente 2015 (Anger, Fear, Disgust, Joy).
+- Wiki en español (Doblaje Wiki, Fandom ES) no hizo falta para este rol: los puntos de imagen no dependen del idioma del doblaje.
