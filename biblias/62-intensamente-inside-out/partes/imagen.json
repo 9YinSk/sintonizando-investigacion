@@ -61,5 +61,185 @@
     "que_es": "Primer vistazo oficial a Lance Slashblade, héroe del videojuego imaginario de Riley en Intensamente 2",
     "para_que": "Pose de acción con arma (espada) para lámina de personaje secundario poco usado",
     "licencia": "© Disney/Pixar, still oficial (referencia)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-dd8ede596d044655bb6bd0abf35577a5",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable y texturizado de Furia (Anger), 220 me gusta",
+    "para_que": "Referencia 3D directa para pose/volumen o base para render propio",
+    "licencia": "CC Attribution (autor: Heiner Morales)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/00d330b52e974f83b5cb51ed6b18ea8b",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable y texturizado de Tristeza (Sadness), 108 me gusta",
+    "para_que": "Referencia 3D directa para pose/volumen o base para render propio",
+    "licencia": "CC Attribution (autor: guinavarro.al)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/61b8f917ff2648bcb18df5d41b11103d",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable y texturizado de Alegría (Joy), 94 me gusta",
+    "para_que": "Referencia 3D directa para pose/volumen o base para render propio",
+    "licencia": "CC Attribution (autor: guinavarro.al)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/a88b09a705fe4cffb8e2587ba9bfe81a",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable y texturizado de Temor (Fear), 45 me gusta",
+    "para_que": "Referencia 3D directa para pose/volumen o base para render propio",
+    "licencia": "CC Attribution (autor: guinavarro.al)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-d7f95a0d6cb247bdab6f1d4c7161aa87",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable de Desagrado (Disgust)",
+    "para_que": "Referencia 3D directa para pose/volumen",
+    "licencia": "CC Attribution (autor: osotvart)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-fd928e681d9242f0903317a8fc103255",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable de Ansiedad (Anxiety) v2.0, Intensamente 2",
+    "para_que": "Referencia 3D directa para pose/volumen de un personaje nuevo de la secuela",
+    "licencia": "CC Attribution (autor: Roberto Domínguez)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/a2b893c61b9d49d3b4461ab4395b26d5",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "RIG completo (con huesos) de Envidia (Envy), Intensamente 2",
+    "para_que": "Animar poses propias del personaje en Blender, no sólo pose estática",
+    "licencia": "CC Attribution (autor: THEOTHEMAN13)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/c56a5740aa1e43cabe77a51b90d5312b",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "RIG completo (con huesos) de Aburrimiento (Ennui), Intensamente 2",
+    "para_que": "Animar poses propias del personaje en Blender, no sólo pose estática",
+    "licencia": "CC Attribution (autor: THEOTHEMAN13)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-43ae2637a6a74b65814cf7954b3e2f39",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable de Bing Bong, el amigo imaginario de Riley",
+    "para_que": "Referencia 3D de un personaje secundario muy querido",
+    "licencia": "CC Attribution-NonCommercial (autor: matisosanimation)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/a/a1/Inside_Out_2_Character_Poster_-_Joy.jpg/revision/latest?cb=20240313170200",
+    "fuente": "pixar.fandom.com",
+    "ancho": 4050,
+    "alto": 6000,
+    "que_es": "Póster de personaje de Alegría (Inside Out 2), cuerpo entero, fondo amarillo",
+    "para_que": "Hoja de modelo del vestuario; hex del vestido, pelo y piel medidos aquí",
+    "licencia": "© Disney/Pixar, arte promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/6/6b/Inside_Out_Character_Poster_Sadness.jpg/revision/latest?cb=20200403212528",
+    "fuente": "pixar.fandom.com",
+    "ancho": 1800,
+    "alto": 2948,
+    "que_es": "Póster de personaje de Tristeza (Intensamente, 2015)",
+    "para_que": "Hex del suéter, pelo y piel medidos aquí",
+    "licencia": "© Disney/Pixar, arte promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/6/68/JOY_Render.png/revision/latest?cb=20141209183606",
+    "fuente": "pixar.fandom.com",
+    "ancho": 716,
+    "alto": 1024,
+    "que_es": "Render oficial de Alegría sin fondo (2015), pose recortada",
+    "para_que": "Referencia de silueta sin fondo para composición",
+    "licencia": "© Disney/Pixar, material promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/b/b2/ANGER_Render.png/revision/latest?cb=20141209183603",
+    "fuente": "pixar.fandom.com",
+    "ancho": 716,
+    "alto": 1024,
+    "que_es": "Render oficial de Furia sin fondo (2015)",
+    "para_que": "Hex de piel, corbata y pantalón medidos aquí",
+    "licencia": "© Disney/Pixar, material promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/8/8a/Fear_Render.png/revision/latest?cb=20141209183605",
+    "fuente": "pixar.fandom.com",
+    "ancho": 716,
+    "alto": 1024,
+    "que_es": "Render oficial de Temor sin fondo (2015)",
+    "para_que": "Hex de piel, camisa, moño y chaleco medidos aquí",
+    "licencia": "© Disney/Pixar, material promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/0/08/DISGUST_Render.png/revision/latest?cb=20141209183605",
+    "fuente": "pixar.fandom.com",
+    "ancho": 631,
+    "alto": 1024,
+    "que_es": "Render oficial de Desagrado sin fondo (2015)",
+    "para_que": "Hex de vestido, piel, medias, pañuelo y zapatos medidos aquí",
+    "licencia": "© Disney/Pixar, material promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/5/52/Inside_Out_2_Character_Poster_-_Anxiety.jpg/revision/latest?cb=20240313170531",
+    "fuente": "pixar.fandom.com",
+    "ancho": 4050,
+    "alto": 6000,
+    "que_es": "Póster de personaje de Ansiedad (Inside Out 2)",
+    "para_que": "Hex de suéter, pantalón y pelo medidos aquí",
+    "licencia": "© Disney/Pixar, arte promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/6/6c/Inside_Out_2_Character_Poster_-_Envy.jpg/revision/latest?cb=20240313170731",
+    "fuente": "pixar.fandom.com",
+    "ancho": 4050,
+    "alto": 6000,
+    "que_es": "Póster de personaje de Envidia (Inside Out 2)",
+    "para_que": "Hex de vestido, piel y pelo medidos aquí (ojo: bajo luz teal de la campaña)",
+    "licencia": "© Disney/Pixar, arte promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/b/bf/Inside_Out_2_Character_Poster_-_Embarrassment.jpg/revision/latest?cb=20240313170618",
+    "fuente": "pixar.fandom.com",
+    "ancho": 4050,
+    "alto": 6000,
+    "que_es": "Póster de personaje de Vergüenza (Inside Out 2)",
+    "para_que": "Hex de sudadera, pantalón y piel medidos aquí",
+    "licencia": "© Disney/Pixar, arte promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/b/bd/Inside_Out_2_Character_Poster_-_Ennui.jpg/revision/latest?cb=20240313170655",
+    "fuente": "pixar.fandom.com",
+    "ancho": 4050,
+    "alto": 6000,
+    "que_es": "Póster de personaje de Aburrimiento (Inside Out 2)",
+    "para_que": "Hex de suéter, pelo y piel medidos aquí",
+    "licencia": "© Disney/Pixar, arte promocional (referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/pixar/images/7/76/Envy_laughs.png/revision/latest?cb=20240702211215",
+    "fuente": "pixar.fandom.com",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de la película con Vergüenza, Ansiedad y Envidia en el cuartel de control, luz ambiente real (no la del póster)",
+    "para_que": "Contrastar el color de la ropa bajo luz de escena real frente al póster promocional",
+    "licencia": "© Disney/Pixar, fotograma de la película (referencia)"
   }
 ]
