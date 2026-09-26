@@ -313,3 +313,151 @@ Foto del elenco de doblaje de la T1: [Elenco-Hotel_Hazbin.jpg](https://static.wi
 
 **Descartado:** el clip «A Match Made in Hell» (Dailymotion x9iq344) **no es doblaje oficial**: es un vídeo no oficial en inglés.
 
+## Punto 9 · Música y sonido
+
+**No hay opening ni ending** al estilo anime (comprobado: AnimeThemes no tiene ninguna entrada). *Hazbin Hotel* es un **musical**: cada capítulo trae 1-3 canciones (la categoría «Songs» de la wiki pasa de 90 páginas). *Helluva Boss* abre con un **jingle** dentro del mundo.
+
+- **«Happy Day in Hell»** (T1E1 «Overture»; Sam Haft y Andrew Underberg; canta Charlie, Erika Henningsen), 2:57. Hace de número de apertura: Charlie cruza Pentagram City cantando hacia la Embajada del Cielo · [ficha](https://hazbinhotel.fandom.com/wiki/Happy_Day_in_Hell) ✅ (adelanto el 14-oct-2023, estreno el 20-oct-2023).
+- **«Inside of Every Demon is a Rainbow»** (canción del piloto de 2019; Parry Gripp; canta Elsie Lovelock), 1:37. Tiene una reprise de Alastor justo después · [ficha](https://hazbinhotel.fandom.com/wiki/Inside_of_Every_Demon_is_a_Rainbow) ✅.
+- **«Loser, Baby»** (T1E4 «Masquerade»; Husk y Angel Dust), 2:50. Husk anima a Angel a dejar de odiarse · [ficha](https://hazbinhotel.fandom.com/wiki/Loser,_Baby) ✅. **Es el momento emotivo con música real y verificable.**
+- **«Poison»** (T1E4; Angel Dust, Blake Roman): su canción sobre la relación con Valentino · [Wikipedia](https://en.wikipedia.org/wiki/Poison_(Hazbin_Hotel_song)) ✅ (punto 21).
+- **«Hell's Greatest Dad»** (Lucifer contra Alastor por el cariño de Charlie) · [ficha](https://hazbinhotel.fandom.com/wiki/Hell's_Greatest_Dad) ✅.
+- **El jingle de I.M.P.**: anuncio cantado con el que abre cada capítulo de *Helluva*. Parry Gripp en el piloto (0:29); versión rock de Lyle Rath en «Mission: Zero» (0:36) · [ficha](https://hazbinhotel.fandom.com/wiki/I.M.P_Jingle) ✅ (se ve el logo en `PIL` [2:55](https://www.dailymotion.com/video/x8j7da8?t=175)).
+- **Canciones de *Helluva* con más tirón**: «Cotton Candy» (Queen Bee, T1E8), unos 2 millones de vistas; «F**K YOU» (Fizzarolli, T2E7), unos 3 millones ⚠️ (metadatos de YouTube).
+- **Bandas sonoras oficiales**: *Hazbin Hotel Original Soundtrack* (A24 Music, en 3 partes, del 19-ene al 2-feb-2024) · [ficha](https://hazbinhotel.fandom.com/wiki/Hazbin_Hotel_Original_Soundtrack) ✅; *Helluva Boss: Season One* y *Season Two* · [MusicBrainz T1](https://musicbrainz.org/release-group/1d1b2728-367e-4ff4-bdaa-486d69161829), [MusicBrainz T2](https://musicbrainz.org/release-group/1b046058-9caa-4b97-818e-05a9ee873d5b) ✅.
+
+**El sonido que todos reconocen: la radio de Alastor.** Estática, eco y cambios de tono en la voz, que él controla. Risas enlatadas, abucheos y gritos de sus víctimas salen del bastón-micrófono. Cuando se enfada de verdad, **un berrido de ciervo** acompaña su forma completa (el fandom lo llama «[Angry Deer Noises]») ✅ (se oye en `TR1` 1:38-1:59; lo describe la wiki).
+
+**Qué ambiente dan:** Broadway y vodevil (Hazbin), anuncio de televisión y rock (Helluva). En las escenas más tristes, balada: «Poison» y «Loser, Baby».
+
+## Punto 10 · Vídeos y tendencias
+
+Los tráileres y escenas con minuto están en los puntos 2, 13 y 14. Aquí, alcance y tendencias. YouTube sólo dio **metadatos** (`yt-dlp --print`, sin descarga).
+
+- **Tráiler oficial T1** («NEW SERIES | January 19»), 2:19, visto entero con hojas cada 7 s · `TR1` ✅ (igual en `TR1it`).
+- **Tráiler oficial T2**, 161 s · `TR2yt` ⚠️ (sólo metadatos); se vio la versión doblada `TR2` ✅.
+- **Piloto de Helluva Boss**, 10:02, visto entero · `PIL` ✅. **«Murder Family»**, 12:20, visto entero · `MF` ⚠️ (un solo reup).
+- **Tendencia «Poison»** (Angel Dust) en Shorts y TikTok: un short «POISON… [CW]» tiene **4,2 millones** de vistas; un animatic de fan, «Gossip», pasa de **7,4 millones** ⚠️ (la API de TikTok no responde desde el servidor).
+- **Edits y AMV**: compilaciones de CapCut de hasta 300 000 vistas; el remix «Stayed Gone but more threatening», 238 000 ⚠️.
+- **Análisis más vistos**: «Hazbin Hotel: The 7 Deadly Sins of Modern Writing» (Roaming Trend, 1,55 M, crítico), «A Comprehensive Evisceration of Hazbin Hotel Season 2» (Random Film Talk, 391 000, crítico) y la defensa «An Exhaustively Detailed Deep Dive of Hazbin Hotel Season 2» (Maddie's Maxis, 81 000) ⚠️ (sólo títulos y vistas). **La T2 divide al público**: hay tanto ataque como defensa.
+- **Pulso de Reddit**: ver punto 7 ⚠️.
+
+## Punto 11 · Videojuegos
+
+- **No existe ningún videojuego oficial** de ninguna de las dos (26-sep-2026) ✅. Comprobado en [The Cutting Room Floor](https://tcrf.net/index.php?search=Hazbin) (cero páginas para «Hazbin» y «Helluva») y buscando anuncios de editoras. Los «juegos» de wikis como [Audrey Works](https://audreyworks.fandom.com) o Game Ideas son **ficción de fans** (se llaman a sí mismos «homebrew»): no son reales. La tienda de Steam tampoco dio nada con este nombre en el recolector.
+- **Lo único oficial jugable es un juego de mesa**: *Immediate Murder Professionals: A Helluva Boss Official Game* (Creatist Games, con licencia de VivziePop y SpindleHorse) ✅ ([Kickstarter](https://www.kickstarter.com/projects/creatistgames/immediate-murder-professionals-a-helluva-boss-official-game-0), [Gamefound](https://gamefound.com/en/projects/creatist-games/helluvabossgame), reseña en [The Late Night Players](https://www.thelatenightplayers.com/news/helluva-boss-board-game-launches-on-kickstarter)). Cuatro personajes jugables (Blitzo, Millie, Moxxie, Loona), rueda de juego, 56 cartas, figuras de cartón. La edición «Grimoire» trae **una caja con forma del grimorio de Stolas** y peones de acrílico. Recaudó **más de 204 701 $**.
+- Sin interfaz de juego que copiar. Lo más parecido dentro del mundo: **el móvil de Blitzo** (punto 6) y las **tragaperras** de los casinos del Anillo del Orgullo (sólo de fondo).
+
+## Punto 12 · Lo que ama el fandom y qué NO hacer
+
+- **La sonrisa perpetua de Alastor**: dientes afilados, nunca se la quita. Es una **máscara de control**, no alegría; lo explicó la cuenta oficial ✅ ([Wikipedia, Alastor](https://en.wikipedia.org/wiki/Alastor_the_Radio_Demon), [Hellaverse Wiki](https://hazbinhotel.fandom.com/wiki/Alastor)).
+- **«[Angry Deer Noises]»**: cuando se enfada, forma completa, estática verde, ojos de dial y berrido de ciervo · [TV Tropes, Memes](https://tvtropes.org/pmwiki/pmwiki.php/Memes/HazbinHotel) ⚠️ (coincide con `TR1es` 1:43).
+- **Fat Nuggets**, el cerdito de Angel Dust: Angel corta los chistes verdes si el cerdo está cerca, «porque es inocente» · [TV Tropes, Funny](https://tvtropes.org/pmwiki/pmwiki.php/Funny/HazbinHotel) ✅.
+- **«Smiles»**: así llaman Charlie y Angel Dust a Alastor; el fandom lo usa también ⚠️.
+- **Las canciones** que todo fan tararea: «Hell's Greatest Dad» (más de 100 M de vistas) y «Poison» (34 M) · [Bleeding Cool](https://bleedingcool.com/tv/hazbin-hotel-shares-hells-greatest-dad-loser-baby-sing-alongs/) ✅.
+- **Huskerdust** (Husk × Angel Dust): el ship con más fan art en Reddit ⚠️.
+- **En *Helluva***: Blitzo regañando a Loona por estar con el móvil; **Moxxie y Millie**, la única pareja sana del Infierno ([Loona](https://hazbinhotel.fandom.com/wiki/Loona), [Moxxie](https://hazbinhotel.fandom.com/wiki/Moxxie)) ⚠️.
+
+**Qué NO hacer (a un fan le parecería falso):**
+- **Alastor sin su sonrisa** de dientes triangulares o sin su radio (bastón-micrófono, estática). Es su seña más citada ⚠️.
+- **Charlie sin su silueta**: pelo rubio pálido, cara blanca con mejillas rosadas, esmoquin rojo ✅ (visto en todos los fotogramas).
+- **Angel Dust con sólo dos brazos**. En los fotogramas se le ven **cuatro** (`TR1` 0:21, `TR2` 0:53); la hoja de modelo y un fan art muestran seis ⚠️ (comprobar en hoja Hazbin n.º 40 y 41).
+- **Hablar «neutro»**: Husk, Valentino y Blitzo dicen groserías; suavizarlos suena falso ✅. (En el servidor, elegir frases sin insultos, no inventar otras.)
+- **Mezclar las estéticas**: *Hazbin* es **art déco años 20-30** (dorados, carmesí, luces de teatro); *Helluva* es **oficina y comedia moderna**, colores más planos y apagados (sat. 25 % en la oficina de I.M.P.) ⚠️.
+- **Hacerlo «anime»**: hay openings de fans al estilo anime ([ejemplo](https://www.dailymotion.com/video/x80dx2d)); no es el estilo de la serie.
+- **Colores alegres en un mundo rojo**: el Infierno es rojo y negro saturado; el pastel es **sólo** del Cielo (regla 6 del dueño).
+- **Vox de perfil**: nunca se dibuja así, porque su cabeza es una pantalla ⚠️ ([VFX Voice](https://vfxvoice.com/checking-into-hazbin-hotel-to-check-out-the-animation/)).
+
+## Punto 13 · Personajes a fondo
+
+Fuente: fichas de la [Hellaverse Wiki](https://hazbinhotel.fandom.com/wiki/Charlie_Morningstar) (wikitext por API, en inglés), Wikipedia y la voz medida con `voz.py`. Los cuatro que pide el encargo llevan ficha completa.
+
+### Charlie Morningstar — la que sueña
+- **Quién es:** Princesa del Infierno, hija de Lucifer y Lilith. Abre el hotel para **redimir pecadores** y parar el Exterminio anual ✅.
+- **Carácter:** compasiva hasta el extremo, idealista, a veces ingenua. No es sumisa: si se meten con su plan, planta cara y hasta pelea; si pierde el control, se transforma en demonio (le pasó al ver a Valentino maltratar a Angel Dust) ⚠️.
+- **Miedo:** perder a los suyos (la muerte de Sir Pentious le duele mucho) y que su madre, Lilith, no le conteste ⚠️.
+- **Cómo se expresa:** **lo canta** en vez de decirlo. Casi no dice groserías. En latino (Karla Carrizo) habla **lento y remarcando**, voz aguda y muy expresiva (punto 8) ✅.
+- **Qué transmite:** optimismo terco en un sitio donde nadie cree en nada. Da ternura y un poco de miedo por ella.
+- **Dinámicas:** Vaggie es su ancla (novia; la protege y la regaña con cariño). Alastor la trata con un respeto burlón. Lucifer la sobreprotege y eso la frustra ⚠️.
+
+### Alastor — el Demonio de la Radio (el más querido)
+- **Quién es:** Overlord de los años 30; locutor de radio en vida (quizá asesino en serie). Socio del hotel por un trato ambiguo ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Alastor_the_Radio_Demon)).
+- **Carácter:** encantador y anticuado por fuera; narcisista, sádico y caníbal por dentro. La sonrisa es **control** ✅.
+- **Miedo y límites:** que lo toquen sin permiso (sobre todo el pelo) y perder su libertad: tiene un trato oscuro del que no puede hablar ⚠️.
+- **Cómo se expresa:** acento **transatlántico** de locutor antiguo, «querida» para todo el mundo, frases pasadas de moda. Cuando se enfada de verdad, **estática** y forma completa. En latino (Mario Vargas), **cadencia de presentador**: agudo, nasal y rápido ✅.
+- **Frase de apertura en su ficha**, traducida del guion original (el doblaje latino de esta línea no se encontró): _«Una sonrisa es una herramienta valiosa, querida: inspira a tus amigos, confunde a tus enemigos y te asegura llevar siempre el control»_ ⚠️.
+- **Qué transmite:** fascinación e inquietud: nadie sabe qué quiere. Años de teorías de fans.
+- **Dinámicas:** se burla de Vox, Vaggie y Lucifer por gusto; tiene a Husk atado por un trato; disfruta con Niffty ⚠️.
+
+### Angel Dust (Anthony) — el que se hace el duro
+- **Quién es:** de una familia criminal italoamericana; gemelo de Molly (en el Cielo). Estrella de cine adulto, **su alma es de Valentino** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Angel_Dust_(Hazbin_Hotel))).
+- **Carácter:** doble cara. Sarcástico, coqueto e «insensible» por fuera, como defensa; vulnerable y necesitado de cariño por dentro ✅.
+- **Miedo:** Valentino, que lo humilla y controla; y que descubran que su seguridad es fachada ✅.
+- **Cómo se expresa:** humor grosero y directo, esquiva con chistes; se corta delante de Fat Nuggets. En latino (Felipe Waldhorn), de **burlón a asustado** en la misma frase ✅.
+- **Qué transmite:** risa y pena a la vez. Collider lo llamó «instant star»; The Michigan Daily criticó que su hipersexualidad se use a veces sólo como chiste ✅.
+- **Dinámicas:** Husk lo consuela («Loser, Baby»); pica a Vaggie; protege a Niffty ⚠️.
+
+### Vaggie — la que pone los pies en la tierra
+- **Quién es:** **ex ángel exterminadora caída**, gerente del hotel y novia de Charlie. Guarda un secreto de su pasado ⚠️.
+- **Carácter:** protectora, ordenada, directa hasta cortar. El contrapeso realista de Charlie ✅.
+- **Miedo:** que hieran a Charlie o que Charlie le oculte cosas ⚠️.
+- **Cómo se expresa:** seca y rápida; regaña más que consuela y sólo se ablanda con Charlie. En latino (Cecilia Valenzuela), **la menos expresiva** del reparto y de las más rápidas ✅.
+- **En combate:** alas, ojos en X y armas de luz; **furia contenida**, no gritada ✅ (`TR2` 0:09).
+- **Dinámicas:** discute con Angel Dust, no traga a Alastor, y es la única que le dice a Charlie los riesgos ⚠️.
+
+### Secundarios (con dato real)
+- **Husk**: barman, ex Overlord que perdió su poder en una apuesta con Alastor. Gruñón y bebedor, pero **el más honesto**: nota enseguida quién finge. Voz rasposa (173 Hz) ⚠️.
+- **Niffty**: la mucama. Alegre hasta lo inquietante, obsesionada con limpiar y matar bichos. La voz más aguda (358 Hz) ⚠️.
+- **Vox**: dueño de VoxTek, villano de la T2. Monopolio mediático y propaganda; rival de Alastor. La voz más grave (130 Hz) ✅.
+- **Valentino**: Overlord proxeneta, jefe y maltratador de Angel Dust. Seductor en público, agresivo en privado ✅.
+- **Blitzø** (*Helluva*): jefe de I.M.P.; bocazas, inseguro bajo la fachada, capaz de sacrificarse por su empresa; relación sin etiqueta con Stolas ✅. Habla atropellado.
+- **Loona**: sabueso infernal adoptada por Blitzo; cínica, de mecha corta, siempre con el móvil. **Le aterra perder a Blitzo** ✅.
+- **Stolas**: Príncipe Goético, culto y lector; regio por fuera y emocional por dentro. Enamorado de Blitzo; sufre a su esposa Stella ✅. Declama y alarga las vocales.
+- **Moxxie**: francotirador de I.M.P.; culto y sensible (teatro musical, ópera), inseguro por el maltrato de su padre. Ama a Millie sin dudar ✅.
+
+### La cara en cada emoción (con fotograma)
+
+| Personaje | Emoción | Clip | Minuto |
+|---|---|---|---|
+| Charlie | **Alegría**: risa amplia, ojos cerrados | `TR2` | [2:09](https://www.dailymotion.com/video/x9rrk90?t=129) |
+| Charlie | **Tristeza / ansiedad**: cejas caídas, boca apretada, sonrojo | `TR1es` | [1:12](https://www.dailymotion.com/video/x8x43rc?t=72) |
+| Charlie | **Vergüenza / nervios**: ojos muy abiertos, boca ondulada, sonrojo fuerte | `TR1es` | [0:54](https://www.dailymotion.com/video/x8x43rc?t=54) |
+| Alastor | **Rabia / amenaza**: forma de sombra, dientes triangulares, estática verde | `TR1es` | [1:43](https://www.dailymotion.com/video/x8x43rc?t=103) |
+| Angel Dust | **Burla / confianza**: sonrisa de dientes afilados, ojos entrecerrados, los dos brazos extra detrás; con Cherri Bomb y su hermano Arackniss | `TR2` | [0:53](https://www.dailymotion.com/video/x9rrk90?t=53) |
+| Vaggie | **Fastidio**: un ojo entrecerrado, ceja alzada | `TR2` | [2:24](https://www.dailymotion.com/video/x9rrk90?t=144) |
+| Vaggie | **Determinación**: forma de ángel, ojos en X, espadas de luz | `TR2` | [0:09](https://www.dailymotion.com/video/x9rrk90?t=9) |
+| Loona | **Aburrimiento**: come una bolsa de botanas «Chaos», mirada de lado | `HB3` | [0:30](https://www.dailymotion.com/video/xb8zcka?t=30) |
+| Moxxie | **Miedo**: cejas arriba, ojos enormes, dientes apretados, **gotas de sudor** | `MF` | [5:16](https://www.dailymotion.com/video/x8j7dde?t=316) |
+
+⚠️ Falta la cara de **Alastor alegre** con minuto (se ve en las hojas: hoja Hazbin n.º 21-24) y la de **Angel Dust triste** (se ve en «Addict», hoja sitios n.º 130 «Feeling helpless», sin minuto).
+
+## Punto 14 · Poses analizadas
+
+De los fotogramas propios y de las hojas. Para qué sirve cada una: **presentar, explicar, celebrar, regañar, pensar, animar**.
+
+| Personaje | Pose | Dónde | Sirve para |
+|---|---|---|---|
+| Charlie | Sentada en el sofá del lobby, piernas cruzadas, manos en las rodillas, sonrisa segura | `TR1` [1:59](https://www.dailymotion.com/video/x8qjgw6?t=119) | presentar, animar |
+| Charlie | De la mano con Vaggie, frente con frente, mirada arriba | `TR1` 0:56 | animar, celebrar |
+| Charlie | Brazo en alto, sonrisa enorme, foco verde detrás | hoja Hazbin n.º 45 | **celebrar**, presentar |
+| Charlie | Con Alastor en el escenario bajo focos cian | hoja sitios n.º 102 | presentar (dúo) |
+| Alastor | De pie junto al sofá, un brazo en el bastón-micrófono, sonrisa amplia, orejas de ciervo erguidas | `TR1` 1:59 | **presentar**, amenazar sonriendo |
+| Alastor | Bastón-micrófono levantado, la otra mano abierta hacia el público | hoja Hazbin n.º 21 y 24 | **explicar**, presentar |
+| Alastor | Chasquea los dedos | hoja sitios n.º 97 | explicar, dar paso |
+| Alastor | Forma de sombra, estática verde | `TR1es` 1:43 | **regañar**, amenazar |
+| Vaggie | Forma de exorcista, lanza en alto con las dos manos, ceño fruncido | `TR1` [1:17](https://www.dailymotion.com/video/x8qjgw6?t=77) | **regañar** |
+| Vaggie | Sentada, brazos cruzados, mirada de lado | `TR1` 1:59 | explicar, vigilar |
+| Vaggie | Lanza angelical apuntando | hoja Hazbin n.º 29-30 | regañar |
+| Angel Dust | De pie, brazo alzado con pistola, torso hacia atrás | `TR1` [0:21](https://www.dailymotion.com/video/x8qjgw6?t=21) | explicar con drama |
+| Angel Dust | Sentado en el suelo, sombrero de copa ladeado, una mano en la cadera | `TR1` 1:59 ⚠️ (la parte de voz no lo ve en ese plano) | celebrar, relajarse |
+| Angel Dust | Abraza a Charlie por detrás, mejilla con mejilla | `TR1it` [0:56](https://www.dailymotion.com/video/x8rhuws?t=56) | **animar**, consolar |
+| Angel Dust | Apoyado en el mostrador «CHECK IN» | hoja sitios n.º 140 | presentar, explicar |
+| Husk | Apoyado en el mostrador, un brazo colgando, mirada de lado, cansado | `TR1` 1:59 | **pensar** (hastío), explicar |
+| Sir Pentious | Muy erguido, cola enroscada, piruleta gigante cerca de la boca | `TR1` 1:59 | presentar, celebrar |
+| Niffty | Sólo la cabeza y un ojo enorme asomando tras el sofá | `TR1` 1:59 | pensar (curiosidad), chiste |
+| Blitzo | Señala la pizarra con gráficas en caída, ceja fruncida, inclinado hacia delante | `PIL` [0:00](https://www.dailymotion.com/video/x8j7da8?t=0) | **explicar**, regañar |
+| Blitzo | Al teléfono, a punto de colgar a Stolas | hoja Helluva n.º 10 | pensar, chiste |
+| Loona | Puerta de la nevera abierta, brazo apoyado, mirada de fastidio | `PIL` [6:15](https://www.dailymotion.com/video/x8j7da8?t=375) | pensar (desinterés), regañar |
+| Moxxie y Millie | Manos entrelazadas sobre la mesa, pastel de cumpleaños detrás | `PIL` [4:35](https://www.dailymotion.com/video/x8j7da8?t=275) | celebrar, animar |
+| Stolas | Abre un portal con el grimorio | hoja Helluva n.º 36-38 | presentar, explicar |
+
