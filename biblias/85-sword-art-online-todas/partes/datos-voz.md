@@ -1,10 +1,10 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Sword Art Online (todas)
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fandom: el encargo no trae wiki (usa --wiki) · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · reddit: no encontré el subreddit
 
 ## Doblaje latino: ficha de «Sword Art Online: Alicization» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/Sword_Art_Online%3A_Alicization_
@@ -263,6 +263,26 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Sword_Art_Online%3A_Alicization#Dato
 - Los episodios especiales Recollection y Reflection (igualmente conocidos como los episodios 18.5 y 24.5) también fueron doblados.
 - El episodio 8 es el único de que trae los insertos doblados.
 - En los episodios 16 y 17 algunos loops de Kirito son silenciados, posiblemente por un error de mezcla.
+
+## Kirigaya Kazuto · Personality (texto de la wiki)
+_Fuente: https://swordartonline.fandom.com/wiki/Kirigaya_Kazuto#Personality_
+
+Kazuto is someone who is not good with words, as stated by Klein, and can be quite direct. This is due to him not having many friends and closing others off because of his love for computers. Thus, he can appear to be rude to others, such as Lisbeth and Sinon. Sometimes, he actually seems to enjoy angering and teasing people as well. Also, from time to time, Kazuto can be quite overconfident thinking he can do things others cannot. Kazuto is almost always a calm and collected character, rarely showing any signs of distress. When Kayaba Akihiko announced that Sword Art Online had become a Death Game, Kirito was able to quickly accept the new conditions of the game and take immediate action to increase his chances of survival. However, Kazuto is actually a kind person, willing to sacrifice himself to help others. When the death of Diavel during the 1st Floor Boss battle resulted in…
+
+## Yuuki Asuna · Personality (texto de la wiki)
+_Fuente: https://swordartonline.fandom.com/wiki/Yuuki_Asuna#Personality_
+
+Asuna is a kind and helpful young woman who, similarly to Kirito, cannot abandon another person in trouble. She takes the game very seriously and is determined to clear it before Kirito tells her to enjoy SAO a bit and relax. Asuna is also somewhat proud, and despite her kind personality, she will not hesitate to get physical with those who challenge her authority or make fun of her abilities, such as cooking. She even challenged Kirito to a duel after an argument over how to handle a Field Boss. She is not afraid to act on her own and will take matters into her own hands from time to time. At the beginning, Asuna originally did not care about dying in the game before meeting Kirito. Because her real life was mostly dictated by her mother and centered on doing what was expected of her, she became emotionally distant. She was not much of a gamer, was very clueless about how the game…
+
+## Asada Shino · Personality (texto de la wiki)
+_Fuente: https://swordartonline.fandom.com/wiki/Asada_Shino#Personality_
+
+Calm and cool are two words that best describe Sinon's personality. In battle and most of the time in the game, she keeps a cool head. It is actually said that Kirito is the first one to make her extremely angry. Despite all this, Sinon, while perhaps hard to approach, is generally a friendly person and does not mind helping others. Sinon tends to be mainly serious and cool, but also bold and confident, such as when she wanted to obtain a legendary bow in ALO even though her new avatar had only been created two weeks earlier, and she amazed others when she managed to shoot a target 100 meters away to retrieve Excalibur. Shino, however, can be a fragile-minded character. This is due to her childhood incident that involved her killing a robber. If someone were to act as if they were shooting her in real life Shino would have a nervous breakdown and be on the verge of collapsing. People…
+
+## Alice Zuberg · Personality (texto de la wiki)
+_Fuente: https://swordartonline.fandom.com/wiki/Alice_Zuberg#Personality_
+
+As a child, Alice is portrayed as a very caring person, going so far as to bring her friends lunch every day. She can also be very strict, calling out Kirito and Eugeo when they are once again slacking off during their work. Still, Alice herself does not always do as she is told, at one point even abusing a technicality in the Taboo Index, in order to convince her friends to accompany her into the Mountain Range at the Edge. After becoming an Integrity Knight, Alice is shown to be very protective of the things important to her. Her desire to protect Underworld even overpowers her beliefs as an Integrity Knight and allows her to stand against Administrator. Later, she is also shown strictly guarding Kirito while he is incapacitated, refusing to even let strangers close to him. Alice is also portrayed as proud and noble. As such, she refuses to admit weakness, ask for help, or even accept…
 
 ## Clips en Dailymotion (se bajan con yt-dlp aunque YouTube bloquee; mirar con fotogramas.py / oír con voz.py)
 _Fuente: https://api.dailymotion.com_

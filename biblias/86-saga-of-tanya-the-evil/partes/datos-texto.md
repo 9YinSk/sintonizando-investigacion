@@ -1,16 +1,16 @@
 # Datos para el investigador de TEXTO, JUEGOS Y TÉCNICA (puntos 5, 6, 11, 18, 24, 25) · Saga of Tanya the Evil
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error
 
 ## La obra en datos (AniList)
 _Fuente: https://anilist.co/anime/21613_
 
 - Títulos: Youjo Senki · Saga of Tanya the Evil · 幼女戦記 · también: 幼女战记, Колдунья в погонах
-- Formato TV, año 2017, episodios 12, capítulos None, estado FINISHED, nota media 78, popularidad 279873, favoritos 9750
+- Formato TV, año 2017, episodios 12, capítulos None, estado FINISHED, nota media 78, popularidad 280245, favoritos 9759
 - Estudio: NUT · géneros: Action, Fantasy
 - Sinopsis: The novel series centers on a young girl who fights on the frontlines in war. She has blonde hair, blue eyes, and nearly transparent white skin, and she flies through the air and mercilessly strikes down her opponents. Her name is Tanya Degurechaff, and she speaks with a young girl's lisp and commands the army. Tanya used to be one of Japan's elite office workers, but because of a wrathful god, was reborn as a little girl. Tanya prioritizes optimization and career advancement above all, and she will become the most dangerous entity among the Imperial Army's sorcerers. · · (Source: Anime News…
 - Temas y rasgos (etiquetas, % de acuerdo): Military 98%, War 96%, Anti-Hero 93%, Female Protagonist 90%, Revenge 85%, Isekai 82%, Gods 82%, Magic 81%, Primarily Adult Cast 80%, Religion 80%, Historical 80%, Cosmic Horror 79%, Tanks 79%, Foreign 78%, Gore 77%, Guns 71%, Politics 69%, Gender Bending 67%, Philosophy 64%, Achronological Order 60%, Age Regression 60%, Primarily Male Cast 52%, CGI 40%

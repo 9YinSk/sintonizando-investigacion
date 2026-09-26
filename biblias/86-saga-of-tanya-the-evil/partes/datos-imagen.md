@@ -1,10 +1,10 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Saga of Tanya the Evil
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/21613_
@@ -12,10 +12,48 @@ _Fuente: https://anilist.co/anime/21613_
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21613-qT3NiwYP5dYc.png
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/21613-FGAqKSTvfxuA.png
 
+## Tanya von Degurechaff: las imágenes más grandes de la wiki (5 en total)
+_Fuente: https://youjo-senki.fandom.com/wiki/Tanya_von_Degurechaff_
+
+- 1194×796 · EmpireFlag.png · https://static.wikia.nocookie.net/youjo-senki/images/f/ff/EmpireFlag.png
+- 650×963 · Tanya von Degurechaff (Anime).png · https://static.wikia.nocookie.net/youjo-senki/images/0/01/Tanya_von_Degurechaff_%28Anime%29.png
+- 380×659 · CuteTanya1.png · https://static.wikia.nocookie.net/youjo-senki/images/f/fa/CuteTanya1.png
+- 350×650 · TanyaAnimeFullbody.png · https://static.wikia.nocookie.net/youjo-senki/images/0/0e/TanyaAnimeFullbody.png
+- 400×500 · Tanya in LN 2.jpg · https://static.wikia.nocookie.net/youjo-senki/images/2/26/Tanya_in_LN_2.jpg
+
+## Tanya von Degurechaff · Appearance (texto de la wiki)
+_Fuente: https://youjo-senki.fandom.com/wiki/Tanya_von_Degurechaff#Appearance_
+
+In her original life, Tanya was a tall middle-aged Japanese salary man with short dark hair, rectangular glasses, and a strict business demeanor. He had a good physique with broad shoulders and wore a typical suit and tie with a long coat. In the anime, he has slightly longer, messier hair, lacks glasses, and had green eyes. After reincarnation, Tanya becomes a young girl with a petite build, fair skin, blonde hair that is often tied up, and striking blue eyes that occasionally glow yellow with magical energy. Her appearance contrasts sharply with her brutal nature, with her face often described as beautiful and doll-like. Most often, Tanya is wearing her military uniform accompanied by her Silver Wings Assault Medal. Her military uniform resembles a M1910 Feldrock (WW1 German Army Uniform), with its dark green coloring and red accents on the lining. During combat, she wears thicker and…
+
+## Viktoriya Ivanovna Serebryakov: las imágenes más grandes de la wiki (6 en total)
+_Fuente: https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov_
+
+- 1194×796 · EmpireFlag.png · https://static.wikia.nocookie.net/youjo-senki/images/f/ff/EmpireFlag.png
+- 650×963 · Viktoriya Ivanovna Serebryakov (Anime).png · https://static.wikia.nocookie.net/youjo-senki/images/8/86/Viktoriya_Ivanovna_Serebryakov_%28Anime%29.png
+- 515×450 · Visha.png · https://static.wikia.nocookie.net/youjo-senki/images/7/74/Visha.png
+- 350×650 · Vishafull.png · https://static.wikia.nocookie.net/youjo-senki/images/d/db/Vishafull.png
+- 360×594 · VishacoloredLN.png · https://static.wikia.nocookie.net/youjo-senki/images/7/74/VishacoloredLN.png
+- 474×315 · Youjo Senki Rus Union Flag HQ Cropped.jpg · https://static.wikia.nocookie.net/youjo-senki/images/6/6f/Youjo_Senki_Rus_Union_Flag_HQ_Cropped.jpg
+
+## Viktoriya Ivanovna Serebryakov · Appearance (texto de la wiki)
+_Fuente: https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov#Appearance_
+
+Viktoriya is depicted as a tall, fair-skinned young woman with brown hair and blue eyes. She often wears her long hair down or tucked into her clothes. Her facial features are soft, with large doe eyes. Compared to the anime and manga, Viktoriya is shown with short blonde hair and green eyes instead. Viktoriya is usually seen wearing her military uniform with a standard Computation Orb. Her military uniform resembles a M1910 Feldrock (WW1 German Army Uniform), with its dark green coloring and red accents on the lining. During combat, she wears thicker and baggier clothes, sporting a high collar with fur lining. She also has on black gloves, a black vest with many pockets, and the Empire's Flight Gear. The Flight Gear contains a large black box with a red front and black iron cross that is strapped onto the front of the person and is connected to the leg brace on the right leg.
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de youjo-senki.fandom.com (2 páginas y sus galerías)…
+  121 imágenes enlazadas, 86 grandes → 2 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/saga-of-tanya-the-evil
+
+```
+
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
 
-- **tanya_degurechaff**: blonde_hair, blue_eyes, looking_at_viewer, military_uniform, military, smile, ahoge, hair_between_eyes, short_hair, long_sleeves, ponytail, simple_background, long_hair, hat, weapon, gloves, jacket, holding, gun, belt, white_background, cross, open_mouth, teeth, grin, upper_body, boots, iron_cross
+- **tanya_degurechaff**: blonde_hair, blue_eyes, looking_at_viewer, military_uniform, military, smile, ahoge, hair_between_eyes, short_hair, long_sleeves, ponytail, simple_background, long_hair, hat, weapon, jacket, gloves, holding, gun, belt, white_background, cross, open_mouth, teeth, grin, upper_body, boots, iron_cross
 - **megumin**: red_eyes, looking_at_viewer, hat, brown_hair, blush, dress, witch_hat, gloves, red_dress, bandages, short_hair_with_long_locks, fingerless_gloves, short_hair, bandaged_leg, belt, cape, simple_background, black_hair, smile, open_mouth, black_gloves, white_background, staff, long_sleeves, collarbone, bare_shoulders, holding, choker
 - **rem_(re:zero)**: blue_hair, blue_eyes, short_hair, hair_ornament, x_hair_ornament, looking_at_viewer, hair_over_one_eye, ribbon, maid, blush, roswaal_mansion_maid_uniform, hair_ribbon, detached_sleeves, smile, frills, maid_headdress, dress, open_mouth, simple_background, pink_ribbon, white_background, long_sleeves, bare_shoulders, black_ribbon, closed_mouth, flower, apron, bow
 - **serval_(kemono_friends)**: animal_ears, animal_print, tail, gloves, short_hair, bow, elbow_gloves, bowtie, blonde_hair, skirt, looking_at_viewer, shirt, sleeveless, print_bow, print_bowtie, smile, open_mouth, extra_ears, blush, animal_ear_fluff, bare_shoulders, yellow_eyes, sleeveless_shirt, white_shirt, simple_background, high-waist_skirt, print_gloves, orange_bow

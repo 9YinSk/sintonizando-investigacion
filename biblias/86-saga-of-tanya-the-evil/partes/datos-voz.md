@@ -1,24 +1,24 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Saga of Tanya the Evil
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/21613_
 
 | # | Personaje | Favoritos | Rol | Seiyū | Voz «Spanish» en AniList ⚠️ |
 |---|---|---|---|---|---|
-| 1 | Tanya Degurechaff (ターニャ・デグレチャフ) | 6458 | MAIN | Aoi Yuuki, Kousuke Toriumi | Jocelyn Robles |
-| 2 | Viktoriya Serebryakov (ヴィクトーリヤ・イヴァーノヴナ・セレブリャコーフ) | 761 | SUPPORTING | Saori Hayami | Erika Langarica |
-| 3 | Hans von Zettour (ハンス・フォン・ゼートゥーア) | 93 | SUPPORTING | Houchuu Ootsuka | Arturo Mercado |
+| 1 | Tanya Degurechaff (ターニャ・デグレチャフ) | 6465 | MAIN | Aoi Yuuki, Kousuke Toriumi | Jocelyn Robles |
+| 2 | Viktoriya Serebryakov (ヴィクトーリヤ・イヴァーノヴナ・セレブリャコーフ) | 762 | SUPPORTING | Saori Hayami | Erika Langarica |
+| 3 | Hans von Zettour (ハンス・フォン・ゼートゥーア) | 95 | SUPPORTING | Houchuu Ootsuka | Arturo Mercado |
 | 4 | Erich von Lergen (エーリッヒ・フォン・レルゲン) | 82 | SUPPORTING | Shinichirou Miki | Ferso Velázquez |
 | 5 | Mary Sioux (メアリー・スー) | 58 | SUPPORTING | Haruka Tomatsu | Alondra Hidalgo |
 | 6 | Matheus Johann Weiss (マテウス・ヨハン・ヴァイス) | 35 | SUPPORTING | Daiki Hamano | — |
 | 7 | Sonzai X (存在 X) | 26 | SUPPORTING | Hideaki Tezuka | Alejandro Villeli |
-| 8 | Kurt von Rudersdorf (クルト・フォン・ルーデルドルフ) | 22 | SUPPORTING | Tesshou Genda | Armando Réndiz |
+| 8 | Kurt von Rudersdorf (クルト・フォン・ルーデルドルフ) | 23 | SUPPORTING | Tesshou Genda | Armando Réndiz |
 | 9 | Warren Grantz (ヴォーレン・グランツ) | 20 | SUPPORTING | Yuusuke Kobayashi | — |
 | 10 | Adelheid Von Schugel (アーデルハイト・フォン・シューゲル) | 14 | SUPPORTING | Nobuo Tobita | Armando Coria |
 | 11 | Wilibald Koenig (ヴィリバルト・ケーニッヒ) | 13 | SUPPORTING | Jun  Kasama | — |
@@ -129,28 +129,38 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Saga_of_Tanya_the_Evil#Datos%20de%20
 - Alondra Hidalgo vuelve a interpretar a Mary Sioux en la segunda temporada luego de ser reemplazada por Nycolle González en la película.
 - Por razones desconocidas, Armando Réndiz no retoma la voz de Kurt von Rudersdorf para la segunda temporada, siendo reemplazado por Santos Alberto.
 
+## Tanya von Degurechaff · Personality (texto de la wiki)
+_Fuente: https://youjo-senki.fandom.com/wiki/Tanya_von_Degurechaff#Personality_
+
+Tanya is a very complex character. In her past life, Tanya described herself as someone with many complexes and that he was twisted. She has both superiority and inferiority complexes, which is shown by how she compared herself to real geniuses she couldn't compete with, while also desired to be above others. === Sociopath === Tanya has a lot of sociopathic traits; cold, calculating, and often sees others as objects she can use to her advantage. This allowed her to rise rapidly through the ranks of her careers in both lives. Tanya places her faith in numbers, following the Chicago School of Economy, which states that everything has a price. This could be seen from how effectively she picks and raises her subordinates to be a valuable human resource she can use. This also allows her to become a very efficient commander as she is both a decisive strategist and cunning tactician who is not…
+
+## Viktoriya Ivanovna Serebryakov · Personality (texto de la wiki)
+_Fuente: https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov#Personality_
+
+=== In the novel === Before her first battle in Rhine, she was a naive girl like most teenagers in her age. After that, she tried hard to learn how to fight as a mage to follow Tanya, her platoon leader. She seldom complained to Tanya, though most times she could barely be accustomed to the painful living of battle. She is a competent adjutant, and also a pragmatist. She gets along well with the other soldiers in the 203rd Aerial Mage Battalion. === In the anime === She is carefree, friendly, hopeful, a God-believer, and an optimistic person. She always cares for the lives of her commander, best friend and her comrades. She is naive and slightly childish despite her age, she often gets excited and pumped up whenever people talk about food with her. Although she is scared when her commander, Tanya Degurechaff, becomes angry, she always thinks positive and never gives up in the hope she…
+
 ## Los personajes más dibujados por los fans (Danbooru, 1529 dibujos de «youjo_senki»)
 _Fuente: https://danbooru.donmai.us/posts?tags=youjo_senki_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. megumin · 10878 dibujos
-2. rem_(re:zero) · 10292 dibujos
-3. serval_(kemono_friends) · 8386 dibujos
+1. megumin · 10881 dibujos
+2. rem_(re:zero) · 10300 dibujos
+3. serval_(kemono_friends) · 8388 dibujos
 4. aqua_(konosuba) · 6801 dibujos
 5. kaban_(kemono_friends) · 5905 dibujos
-6. emilia_(re:zero) · 5303 dibujos
+6. emilia_(re:zero) · 5308 dibujos
 7. satou_kazuma · 3725 dibujos
 8. darkness_(konosuba) · 3584 dibujos
-9. ram_(re:zero) · 3551 dibujos
-10. katyusha_(girls_und_panzer) · 3543 dibujos
-11. natsuki_subaru · 3442 dibujos
-12. kanna_kamui · 3363 dibujos
-13. raphtalia · 3004 dibujos
-14. albedo_(overlord) · 1577 dibujos
-15. beatrice_(re:zero) · 1575 dibujos
-16. rimuru_tempest · 1535 dibujos
+9. ram_(re:zero) · 3561 dibujos
+10. katyusha_(girls_und_panzer) · 3544 dibujos
+11. natsuki_subaru · 3448 dibujos
+12. kanna_kamui · 3364 dibujos
+13. raphtalia · 3011 dibujos
+14. beatrice_(re:zero) · 1580 dibujos
+15. albedo_(overlord) · 1578 dibujos
+16. rimuru_tempest · 1538 dibujos
 17. tanya_degurechaff · 1461 dibujos
-18. iwatani_naofumi · 1005 dibujos
+18. iwatani_naofumi · 1006 dibujos
 19. himemiya_anthy · 816 dibujos
 20. puck_(re:zero) · 618 dibujos
 
@@ -161,33 +171,31 @@ _Fuente: https://api.dailymotion.com_
 - Saga of Tanya the Evil - Trailer temporada 2 · 1:42 · Espinof · 2436 vistas · https://www.dailymotion.com/video/x9uycb4
 - 'Saga Of Tanya The Evil - The Movie'- Tráiler oficial · 1:25 · Sensacine México · 469 vistas · https://www.dailymotion.com/video/x96pfti
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot Trailer · 69 vistas · https://www.dailymotion.com/video/x7ry2pz
+- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 66 vistas · https://www.dailymotion.com/video/x8aikd4
 - Youjo Senki (Saga of Tanya the Evil) Episode 5 : Tanya Jokes · 1:31 · Yierel Oakshield · 66 vistas · https://www.dailymotion.com/video/x5aj1nw
-- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 65 vistas · https://www.dailymotion.com/video/x8aikd4
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot · 64 vistas · https://www.dailymotion.com/video/x7xj77g
 **«Saga of Tanya the Evil doblaje latino»**
 - Saga of Tanya the Evil - Trailer temporada 2 · 1:42 · Espinof · 2436 vistas · https://www.dailymotion.com/video/x9uycb4
 - 'Saga Of Tanya The Evil - The Movie'- Tráiler oficial · 1:25 · Sensacine México · 469 vistas · https://www.dailymotion.com/video/x96pfti
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot Trailer · 69 vistas · https://www.dailymotion.com/video/x7ry2pz
+- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 66 vistas · https://www.dailymotion.com/video/x8aikd4
 - Youjo Senki (Saga of Tanya the Evil) Episode 5 : Tanya Jokes · 1:31 · Yierel Oakshield · 66 vistas · https://www.dailymotion.com/video/x5aj1nw
-- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 65 vistas · https://www.dailymotion.com/video/x8aikd4
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot · 64 vistas · https://www.dailymotion.com/video/x7xj77g
 **«Saga of Tanya the Evil fandub español»**
 - Saga of Tanya the Evil - Trailer temporada 2 · 1:42 · Espinof · 2436 vistas · https://www.dailymotion.com/video/x9uycb4
 - 'Saga Of Tanya The Evil - The Movie'- Tráiler oficial · 1:25 · Sensacine México · 469 vistas · https://www.dailymotion.com/video/x96pfti
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot Trailer · 69 vistas · https://www.dailymotion.com/video/x7ry2pz
+- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 66 vistas · https://www.dailymotion.com/video/x8aikd4
 - Youjo Senki (Saga of Tanya the Evil) Episode 5 : Tanya Jokes · 1:31 · Yierel Oakshield · 66 vistas · https://www.dailymotion.com/video/x5aj1nw
-- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 65 vistas · https://www.dailymotion.com/video/x8aikd4
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot · 64 vistas · https://www.dailymotion.com/video/x7xj77g
 **«Saga of Tanya the Evil fandub latino»**
 - Saga of Tanya the Evil - Trailer temporada 2 · 1:42 · Espinof · 2436 vistas · https://www.dailymotion.com/video/x9uycb4
 - 'Saga Of Tanya The Evil - The Movie'- Tráiler oficial · 1:25 · Sensacine México · 469 vistas · https://www.dailymotion.com/video/x96pfti
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot Trailer · 69 vistas · https://www.dailymotion.com/video/x7ry2pz
+- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 66 vistas · https://www.dailymotion.com/video/x8aikd4
 - Youjo Senki (Saga of Tanya the Evil) Episode 5 : Tanya Jokes · 1:31 · Yierel Oakshield · 66 vistas · https://www.dailymotion.com/video/x5aj1nw
-- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 65 vistas · https://www.dailymotion.com/video/x8aikd4
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot · 64 vistas · https://www.dailymotion.com/video/x7xj77g
 
 ## Reddit r/YoujoSenki: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/YoujoSenki_
 
-**«best scene»**
-- (8 votos, 6 comentarios) Which is the best scene (explain why) and funniest moment · https://www.reddit.com/r/YoujoSenki/comments/agq34h/which_is_the_best_scene_explain_why_and_funniest/

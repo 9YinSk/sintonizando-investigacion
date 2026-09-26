@@ -283,3 +283,456 @@ Fuente: [AniList](https://anilist.co/anime/21613) ✅.
   - 0:00 «Alégrese Mayor de Gurechav. Le informo que tiene usted una misión especial desde las 14:22 horas y aquí están los detalles.» · 0:10 «Requiere mucha agilidad. Cuento con usted.»
 - ⚠️ **No hay clips oficiales doblados** vistos: YouTube bloqueado; el [tráiler latino de la T2](https://www.dailymotion.com/video/x9uycb4) en Dailymotion se cortó al pasarlo por `voz.py`. Faltan frases de Tanya enfadada, animando o triste, y cualquier frase de la T2. Queda sin oír la segunda muestra de Von Hans (ep. 11).
 - ⚠️ No se encontró cómo llama el doblaje latino a Being X.
+
+## 9 · Música y sonido
+
+**Temporada 1 (2017)**
+- **Opening: «JINGO JUNGLE»**, de **MYTH & ROID**. Single del 8 de febrero de 2017 ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Jingo_Jungle) y [Lyrical Nonsense](https://www.lyrical-nonsense.com/global/lyrics/youjo-senki-saga-of-tanya-the-evil-theme-songs/)).
+  - Cómo suena: rock épico con percusión de marcha, sintetizadores agresivos y voz potente; letra en inglés y japonés sobre batalla y conquista. Triunfal y perturbador a la vez.
+  - Créditos en pantalla al 1:25 del [opening completo de Internet Archive](https://archive.org/details/YOUJOSENKIOP) (1:38, MP4).
+- **Ending: «Los! Los! Los!»** («¡Vamos! ¡Vamos! ¡Vamos!» en alemán), cantado por **Tanya (Aoi Yūki)**. Letra de hotaru; música de うさ (Usa); arreglo de eba (AniList) ✅
+  - Cómo suena: **marcha militar** con coro, como un himno de tropa. Es la canción del fandom: tiene versiones en ruso ([Harmony Team J.am](https://archive.org/details/harmony-team-j.am-los-los-los-youjo-senki-rus-cover)) y en alemán ([Selphius](https://archive.org/details/selphius-youjo-senki-12300-los-los-los-12301_202011)).
+
+**Temporada 2 (2026)**
+- **Opening: «Why? RED induction.»**, otra vez **MYTH & ROID**. Salida digital el 16 de julio de 2026 ✅ ([ANN](https://www.animenewsnetwork.com/news/2026-06-06/saga-of-tanya-the-evil-ii-unveils-theme-song-artists-july-8-debut-mini-anime/.238213) y [Skream!](https://en.skream.jp/news/2026/07/youjosenki_op_ed_release.php)).
+- **Ending: «Weiter! Weiter!»** («¡Adelante! ¡Adelante!»), otra vez **Tanya (Aoi Yūki)**. Letra de hotaru; música y arreglo de Masayuki Nakano (BOOM BOOM SATELLITES) ✅. Sigue la costumbre de los títulos en alemán.
+
+**Banda sonora**
+- Compositor: **Shūji Katayama** ✅ (AniList y [CDJapan](https://www.cdjapan.co.jp/product/ZMCZ-13039)). Orquestal, con aire militar europeo: cuerdas, maderas y percusión de marcha.
+- Tema bélico principal: **«Young Girl's War»** ([YouTube](https://www.youtube.com/watch?v=TEzq_GH_Do8)). Batalla intensa: **«Trial of Fire»** ([Audiomack](https://audiomack.com/enricksup2/song/67ab6d9a44ab2)).
+- Banda sonora de la película: 45 pistas, ZMCZ-13039 (2019). Un vídeo de fans en Internet Archive sube una pista titulada «Imperial Anthem» ⚠️
+- Listas: [OST en YouTube](https://www.youtube.com/playlist?list=PLLkVJ2IZsgYplOKwgYnD6MKnu6MaMjA4b), [OST en SoundCloud](https://soundcloud.com/tiwi-zo/sets/youjo-senki-saga-of-tanya-the), [OP, ED y OST](https://www.youtube.com/playlist?list=PLe533PvpOWlhrQ0_i27k94pKULj0Tzur3) ⚠️ subidas de fans.
+- Dirección de sonido: Yoshikazu Iwanami; efectos: Yasumasa Koyama (AniList) ✅
+
+**Efectos de sonido** (descritos al mirar los clips; sin análisis técnico) ⚠️
+- **El orbe al activarse**: zumbido mecánico, clic metálico y un tono que sube, como un sonar. Suena en cada combate.
+- **Disparo mágico**: detonación con eco y un brillo metálico agudo, distinto de una explosión normal.
+- **Vuelo**: viento sostenido y empuje suave, sin motor.
+- **Explosiones**: graves hondos y la onda expansiva que se oye.
+- **La risa de Tanya** en combate, de satisfacción y locura: es una seña de la serie.
+- ❌ No se encontró qué tema suena en las escenas más tristes.
+
+## 10 · Vídeos y tendencias
+
+**Tráileres oficiales**
+- **Tráiler de la T2** · [Dailymotion, 1:42 (3djuegos)](https://www.dailymotion.com/video/x9uo9wg) y [otra copia (Espinof)](https://www.dailymotion.com/video/x9uycb4)
+  - 0:16 Tanya en el desierto con su tropa, plano de acción.
+  - 0:56 una niña de pelo blanco platino y ojos azules, cara inocente. ⚠️ La parte dice que es Tanya; comprobar.
+  - 1:12 Tanya con ojos dorado rojizos y llamas alrededor, al máximo. [ver](https://www.dailymotion.com/video/x9uo9wg?start=72)
+  - 1:28 una figura con alas en un lugar oscuro (Being X). [ver](https://www.dailymotion.com/video/x9uo9wg?start=88)
+  - 1:36 Tanya en primer plano bajo, con gorra y arma.
+- **Tráiler de la película** · [Dailymotion, 1:25 (Sensacine México)](https://www.dailymotion.com/video/x96pfti)
+  - 0:08 «Men, I have returned.» · 0:24 Lergen pensativo en un despacho oscuro · 0:48 «Glory to the Empire!» · 1:10 aviones en el cielo de noche. [ver 1:10](https://www.dailymotion.com/video/x96pfti?start=70)
+  - En Estados Unidos la distribuyó Fathom Events (se lee en el fotograma 10).
+  - Otras copias: [alemán](https://www.dailymotion.com/video/x7ry2pz), [francés](https://www.dailymotion.com/video/x8aikd4) ⚠️ sin mirar.
+- Tráiler oficial en YouTube (enlazado desde AniList): [JwaruTPKq9I](https://www.youtube.com/watch?v=JwaruTPKq9I) ⚠️ sin mirar (YouTube bloqueado).
+
+**Clips de episodios** (mirados con `fotogramas.py`)
+- Ep. 1, [Tanya contra el ejército](https://www.dailymotion.com/video/x5tslcz): 0:32 vuelo con el fusil y la explosión.
+- Ep. 5, [el entrenamiento en la montaña](https://www.dailymotion.com/video/x5bp70j), 2:36: 0:24 Tanya con ojos azules enormes, «Let's begin!» ([ver](https://www.dailymotion.com/video/x5bp70j?start=24)); 2:24 Tanya con halo dorado; 2:32 Visha en la nieve mirando al grupo.
+- Ep. 5, [el aviso](https://www.dailymotion.com/video/x5bp78t): 0:36 los ojos dorados; 0:54 la ciudad en llamas.
+- Ep. 6, [el bombardero](https://www.dailymotion.com/video/x5bp76k): 0:08 llegada en vuelo; 1:04 apuntando.
+- Sin mirar: [«Tanya Jokes», ep. 5](https://www.dailymotion.com/video/x5aj1nw) y [resumen de los eps. 1-4](https://www.dailymotion.com/video/x5antwh) ⚠️
+
+**Otros**
+- Opening completo en [Internet Archive](https://archive.org/download/YOUJOSENKIOP/YOUJO%20SENKI%20OP.mp4) y en [Dailymotion](https://www.dailymotion.com/video/x594l9r).
+- Opening de la T2 subtitulado en español: [YouTube](https://www.youtube.com/watch?v=o5a4xiOVsEI) ⚠️ sin vistas.
+- Pódcast de análisis [AnimeSphere 211](https://archive.org/details/as211-youjo-senki).
+- Lista oficial de YouTube enlazada en AniList: [playlist](https://www.youtube.com/playlist?list=PLxSscENEp7JipogV7W74-hbDbYaQx78Oq) ⚠️ sin mirar.
+- **TikTok**: mucha actividad en español con la T2, con etiquetas como «Youjo-Senki-Español-Latino-Temporada-2» ⚠️ sin enlaces ni vistas.
+- **Reddit**: hilo [«Which is the best scene and funniest moment»](https://www.reddit.com/r/YoujoSenki/comments/agq34h/which_is_the_best_scene_explain_why_and_funniest/) (8 votos, 6 comentarios) ⚠️ sin leer.
+
+## 11 · Videojuegos
+
+- Un solo juego oficial: **Youjo Senki: Madōshi Kaku Tatakaeri** (幼女戦記 魔導師斯く戦えり, «Así lucharon los magos»). RPG *gacha* para móviles, de **Studio Harvest**, publicado por **Esprit** ✅ ([wiki](https://youjo-senki.fandom.com/wiki/Youjo_Senki:_Madoushi_Kaku_Tatakaeri) y [4Gamer](https://www.4gamer.net/games/509/G050970/20201210187/), en japonés).
+- Salió el **10 de diciembre de 2020** y cerró el **17 de enero de 2022** ✅ ([ANN](https://www.animenewsnetwork.com/news/2021-12-04/saga-of-tanya-the-evil-smartphone-game-ends-service-in-january/.180243) y [gamebiz](https://gamebiz.jp/news/338324)).
+- Cómo se juega: escuadras de 5 magos, con 8 papeles. Delante: cuerpo a cuerpo, granadero, armas ligeras y armas pesadas. Detrás: munición, interferencia de radio, médico y un cuarto sin confirmar ⚠️ (una fuente).
+- Carlo Zen escribió eventos propios, en Dacia, Osfjord y el Rin, contados por otros personajes ⚠️
+- **Arte del juego** (visto): Tanya volando al ataque sobre un campo de batalla ocre y con humo; logo 幼女戦記 grande, «Saga of Tanya the Evil» en versalitas debajo y el subtítulo en gótica japonesa fina; «Main visual by NUT inc.» ([imagen 512×288](https://www.4gamer.net/games/509/G050970/20201210187/TN/001.jpg)). Un banner de lanzamiento usa **la Cruz de Hierro** como adorno ([imagen 240×180](https://www.4gamer.net/games/509/G050970/20201210187/TN/004.jpg)) ✅
+- ⚠️ **No hay capturas de menús ni de cajas de diálogo**: la web oficial está caída, la Wayback Machine bloqueada desde aquí y las webs japonesas sólo tienen arte.
+- No está en Steam (el recolector no halló nada). No hay más juegos oficiales ✅
+
+## 12 · Lo que ama el fandom y qué NO hacer
+
+**Lo que ama**
+- **El «campo de malentendidos»**: Tanya intenta que la manden lejos del frente y sus aciertos la devuelven al frente. Es un bucle cómico de desastre que ella misma provoca ([studiojakemedia](https://studiojakemedia.substack.com/p/the-saga-of-tanya-the-evil-anime)) ✅
+- **Cara de muñeca, cabeza de ejecutivo**: niña rubia de voz inocente con la mente fría de un gerente. Es el chiste y el terror a la vez.
+- **Una antivillana**: no es una chica mágica. Razona como un MBA metido en una guerra. El fandom no la justifica: la disfruta.
+- **Tanya y Visha**: Visha confía en ella sin dudar; Tanya la aprecia y no lo dice. Las llaman «dúo madre e hija» o «la pareja de trabajo perfecta».
+- **Being X**: el debate de si es Dios de verdad, y si prueba o castiga a Tanya, no se acaba.
+- **La T2 de 2026** reactivó el fandom: los hilos de reacción llenaron r/YoujoSenki; en Reddit circulan memes de Tanya como «jefa de Recursos Humanos», píxel art y escenas de Tanya con Visha ⚠️
+- **La muerte de Rudersdorf** en el final de la T2 fue lo más comentado ([soapcentral](https://www.soapcentral.com/anime/saga-tanya-evil-ii-episode-12-a-brutal-finale-changes-everything)) ⚠️ una fuente.
+
+**Qué NO hacer** (lo que un fan vería falso)
+- **Tanya tierna o inocente sin amenaza**. Destruye el personaje. Si sonríe dulce, es la sonrisa falsa (casilla 58 de `personajes_02`).
+- **Sólo comedia**: la serie tiene soldados muriendo y ciudades en ruinas.
+- **Tanya creyente**: finge fe por disciplina. **Odia a Being X.**
+- **Sin estética de entreguerras**: uniforme alemán de la Primera Guerra Mundial, vocabulario burocrático y militar. Sin eso no es Youjo Senki.
+- **Olvidar a Visha**: Tanya sola interesa; Tanya con Visha es lo que vende.
+- **Símbolos nazis**: el autor imaginó este Imperio justo para que no hubiera sitio para Hitler (ver punto 18). Emblemas: águila del Imperio, Cruz de Hierro, bandera roja, negra y oro.
+- **Burbuja blanca redonda** y **colores alegres**: el mundo es gris, sepia y de fuego.
+
+## 13 · Personajes a fondo
+
+### Tanya von Degurechaff — la protagonista y la más querida
+- **Quién es**: un oficinista japonés, asesinado por un empleado despedido, renace como niña huérfana por obra de Being X ([wiki](https://youjo-senki.fandom.com/wiki/Tanya_von_Degurechaff)) ✅. Edad en la serie: 9 a 13 años ([AniList](https://anilist.co/character/121052)).
+- **Rango**: de suboficial a **teniente coronel**. Condecoraciones: **Medalla de Asalto de las Alas de Plata**, Insignia de Asalto de Campo, Insignia de Herida.
+- **Alias**: **Fairy 08** (radio), **White Silver** y **el Diablo del Rin** ✅
+- **Carácter**: sociópata funcional; ve a la gente como recursos. **Libertaria**: valora la libertad individual y odia la obediencia ciega. Soldado perfecto por fuera: disciplina, respeta el derecho internacional, cuida a sus tropas, pero por cálculo de costo y beneficio, no por cariño. Piensa como la Escuela de Chicago: todo tiene precio. Odia fallar y no tolera la desobediencia (AniList).
+- **Miedos**: volver a primera línea, no poder retirarse y que gane Being X.
+- **Qué transmite**: risa incómoda y miedo a la vez. Das la razón a sus cálculos y te horroriza lo que hace con ellos.
+- **Cómo se expresa** (doblaje latino, Jocelyn Robles):
+  - Narrando: voz media alta, formal, con pausas dramáticas, como un noticiario de guerra.
+  - Enfadada: sube el tono y se vuelve cortante sin gritar; el sarcasmo es su arma.
+  - Explicando táctica: tono parejo y rápido, como un ejecutivo en una junta.
+  - En combate: grita de gusto y se ríe como loca (efecto de sonido del punto 9).
+- **Lenguaje corporal**: siempre erguida; brazos en descanso o cruzados; casi no gesticula. **La cara hace todo el trabajo**.
+- **Su cara en cada emoción**:
+  - **Alegría (de la mala)**: sonrisa demoníaca, [ep. 1, 0:40](https://www.dailymotion.com/video/x5tslcz?start=40); éxtasis de combate, [ep. 1, 0:32](https://www.dailymotion.com/video/x5tslcz?start=32); sonrisa ladeada, [ep. 6, 0:08](https://www.dailymotion.com/video/x5bp76k?start=8) ✅
+  - **Rabia**: grito de «¡Gloria al Imperio!», [película, 0:48](https://www.dailymotion.com/video/x96pfti?start=48); ceño y ojos que brillan en amarillo; la ficha oficial (casilla 80) ✅
+  - **Trance de poder**: ojos dorados, [ep. 5, 0:36](https://www.dailymotion.com/video/x5bp78t?start=36) ✅
+  - **Inocencia fingida**: ojos enormes, «Let's begin!», [ep. 5, 0:24](https://www.dailymotion.com/video/x5bp70j?start=24); sonrisa falsa con los ojos cerrados (casilla 58) ✅
+  - **Miedo**: rarísimo, sólo ante Being X, como una niña asustada ⚠️ sin fotograma.
+  - **Tristeza** y **vergüenza**: ❌ no encontradas.
+- **Arco**: huérfana, academia, primer destino en Norden, el Rin (donde nace su apodo), el Batallón 203 y la guerra cada vez más grande (punto 25).
+- **Dinámicas**:
+  - **Con Visha**: la protege porque le hace el mejor café; la ve como la ayudante ideal ✅
+  - **Con Zettour**: respeto entre estrategas; él la usa como herramienta y ella lo sabe.
+  - **Con Lergen**: él la ve como una psicópata pero confía en su eficacia; tensión constante.
+  - **Con Being X**: odio puro. Él quiere que crea; ella se niega con toda su razón.
+- **Frase citada en inglés** (novela, tomo 1): «Freedom without laws means anarchy; laws without freedom means tyranny.» ⚠️ una fuente.
+
+### Viktoriya Ivanovna «Visha» Serebryakov — la segunda y el corazón del dúo
+- **Quién es**: maga reclutada a la fuerza; su familia huyó de la revolución de la Unión Rus. Sirvió en el pelotón 3 de Tanya y luego fue su **ayudante** en el nuevo batallón ([wiki](https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov), [AniList](https://anilist.co/character/121057)) ✅
+- **Carácter** (anime): alegre, esperanzada, creyente, optimista, un poco infantil. Se asusta cuando Tanya se enfurece, pero nunca deja de confiar en ella.
+- **Qué transmite**: calma y calidez en medio del horror. Es la mirada humana junto a Tanya.
+- **Voz latina** (Erika Langarica): aguda, muy expresiva, ritmo pausado; suena amable y cálida.
+- **Su cara**: susto cómico con los ojos enormes, [ep. 5, 0:48](https://www.dailymotion.com/video/x5bp70j?start=48); escandalizada, [ep. 5, 1:28](https://www.dailymotion.com/video/x5bp70j?start=88); agotada y aliviada con el batallón, [ep. 5, 2:08](https://www.dailymotion.com/video/x5bp70j?start=128) ✅. Alegría, tristeza, rabia y vergüenza con minuto: ❌ no encontradas.
+- **Arco**: de recluta asustada a la ayudante más leal y capaz del batallón.
+
+### Hans von Zettour
+- General, **jefe del Estado Mayor**. Racionalista de enorme saber. Planea la guerra con Rudersdorf ([AniList](https://anilist.co/character/121056)) ✅. Voz latina: Arturo Mercado, veterano de voz grave y pausada.
+
+### Kurt von Rudersdorf
+- General, **jefe de Operaciones**, amigo de Zettour. Planifica tanto la gran estrategia como la operación fina ([AniList](https://anilist.co/character/121059)) ✅.
+- **Momento clave**: muere en el episodio 12 de la T2 convencido de haber fallado a su amigo, sin saber la verdad ⚠️ (una fuente).
+
+### Erich von Lergen
+- Alto oficial del Estado Mayor. Descubre enseguida lo que es Tanya y la llama **demonio**; aun así confía en su eficacia ([AniList](https://anilist.co/character/121058)) ✅
+
+### Matheus Johann Weiss
+- **Segundo al mando** del 203.º Batallón Aéreo de Magos y capitán de su 2.ª escuadrilla ✅. En latino suena rápido y obediente: «Sí, señor.»
+
+### Mary Sioux y Anson Sioux
+- **Mary**: hija única de Anson; maga de la República que quiere **vengar a su padre**. Rival de Tanya ✅
+- **Anson**: comandante del 5.º Batallón de Magos de la Entente de Legadonia ✅
+
+### Being X (Sonzai X, 存在X)
+- El antagonista. Dice ser **Dios**, el de la Biblia; Tanya lo llama **el diablo**. Quiere más creyentes. Hay varios dioses y arcángeles, lo que contradice su propio primer mandamiento ([AniList](https://anilist.co/character/135044)) ✅
+- Aparece bajo otras formas: como un **cascanueces** en una sala oscura (fotograma de la wiki, [imagen](https://static.wikia.nocookie.net/youjo-senki/images/a/a3/Unknown_%2817%29.png)); como una figura con alas en el tráiler de la T2 (1:28).
+
+### Adelheid von Schugel
+- Ingeniero genial y loco que inventa armas para la guerra ([AniList](https://anilist.co/character/135047)) ⚠️ una fuente.
+
+## 14 · Poses analizadas
+
+Las poses T y V salen de los clips mirados por la parte de vídeo; las «casillas» son de las hojas de `hojas/`.
+
+### Tanya
+| Pose | Dónde | Cuerpo y manos | Mirada y gesto | Sirve para |
+|---|---|---|---|---|
+| **T-1 Vuelo triunfal** | [ep. 1, 0:32](https://www.dailymotion.com/video/x5tslcz?start=32) ✅ | en vuelo, inclinada ~30° atrás; un brazo arriba con el orbe, la otra mano en el fusil; guantes negros | hacia abajo, al enemigo; boca entreabierta, cejas arriba | **celebrar**, mostrar poder |
+| **T-2 Sonrisa demoníaca** | [ep. 1, 0:40](https://www.dailymotion.com/video/x5tslcz?start=40) ✅ | primer plano, mentón bajo | directa a cámara, ojos muy abiertos; sonrisa exagerada | **regañar**, amenazar |
+| **T-3 Poder del Tipo 95** | [ep. 5, 0:36](https://www.dailymotion.com/video/x5bp78t?start=36) ✅ | de frente, erguida; brazos abiertos, el orbe en las dos manos, palmas arriba | ojos dorados, pupilas dilatadas; en trance | discurso épico, momento cumbre |
+| **T-4 Llegada** | [ep. 6, 0:08](https://www.dailymotion.com/video/x5bp76k?start=8) ✅ | en vuelo, tres cuartos desde arriba, inclinada adelante | al objetivo, sonrisa de lado; burlona | **presentar**, entrada |
+| **T-5 Cálculo frío** | [ep. 6, 0:56](https://www.dailymotion.com/video/x5bp76k?start=56) ✅ | plano medio, uniforme entero; manos relajadas o el orbe contra el cuerpo | ojos azules normales, media sonrisa | **explicar**, estrategia |
+| **T-6 Apuntando** | [ep. 6, 1:04](https://www.dailymotion.com/video/x5bp76k?start=64) ⚠️ ±2 s | horizontal, fusil al frente con las dos manos | un ojo cerrado; tensión | **pensar**, suspense |
+| **T-7 El comandante** | [película, 0:08](https://www.dailymotion.com/video/x96pfti?start=8) ✅ | contrapicado, de pie ante el batallón, gorra con insignia, brazos al costado | por encima del espectador; seria | **presentar**, liderar |
+| **T-8 ¡Gloria al Imperio!** | [película, 0:48](https://www.dailymotion.com/video/x96pfti?start=48) ✅ | torso; puños tensos | al frente, ardiente; boca abierta | **animar**, grito de guerra |
+| **T-9 Ángel caído** | [ep. 5, 2:24](https://www.dailymotion.com/video/x5bp70j?start=144) ⚠️ ±2 s | primer plano, halo dorado detrás | ojos azules, dulzura falsa | ironía ángel y demonio |
+| Ficha oficial | casilla 80 ✅ | apuntando el fusil, faldón al viento | rabia | vestuario completo, acción |
+| De pie con abrigo | casilla 1 ✅ | de pie, abrigo largo, fuego detrás | seria | **presentar**, autoridad |
+| De rodillas | casilla 49 ✅ | de rodillas con el fusil, fondo negro | — | espera, tensión |
+| Con la taza | casilla 30 ✅ | sentada a la mesa, taza en la mano, lámpara | tranquila | **pensar**, despacho |
+| Leyendo informes | casilla 56 de `personajes_02` ✅ | con papeles | ojos enormes | **explicar**, burocracia |
+| Sonrisa falsa | casilla 58 ✅ | busto | ojos cerrados, sonrisa amplia | ironía |
+
+### Visha
+| Pose | Dónde | Qué hace | Sirve para |
+|---|---|---|---|
+| **V-1 Susto** | [ep. 5, 0:48](https://www.dailymotion.com/video/x5bp70j?start=48) ✅ | primer plano, ojos enormes, cejas al máximo; susto cómico | reacción cómica |
+| **V-3 ¡Escandalizada!** | [ep. 5, 1:28](https://www.dailymotion.com/video/x5bp70j?start=88) ✅ | plano medio, boca abierta; la voz de la razón ante Tanya | comentar, dar pie a Tanya |
+| **V-2 Con el batallón** | [ep. 5, 2:08](https://www.dailymotion.com/video/x5bp70j?start=128) ✅ | de pie en la nieve, manos al frente, soldados detrás; agotada y aliviada | escenas de grupo, equipo |
+| Ficha oficial | casilla 81 ✅ | cuerpo entero con su fusil, en combate | vestuario, acción |
+| Voluntaria | [Visha3.png](https://static.wikia.nocookie.net/youjo-senki/images/9/93/Visha3.png), casilla 62 ✅ | manga: «Volunteering for the rescue mission!» | **animar**, apuntarse |
+| «Second Lieutenant!!» | casilla 67 ✅ | manga: grita llamando a Tanya, boca abierta | llamar, avisar |
+| En un cuarto | [Corporal1.png](https://static.wikia.nocookie.net/youjo-senki/images/f/fd/Corporal1.png), casilla 57 ✅ | fotograma, cara de sorpresa | reacción |
+| Con gorra de oficial | casilla 32 (ep. 6) ✅ | fotograma | presentar |
+| En la mesa | casilla 33 (ep. 8) ✅ | con soldados, jarra y comida | grupo, descanso |
+
+⚠️ Visha: sólo 3 poses con minuto; las demás sin minuto. Faltan poses de Zettour, Lergen y Weiss.
+
+## 15 · Vestuario con hex medidos
+
+**El uniforme, según la wiki** (fichas de Tanya y de Visha, mismo texto) ✅: parece un **M1910 Feldrock**, el uniforme del ejército alemán de la Primera Guerra Mundial: verde oscuro con forro rojo. En combate: ropa más gruesa y holgada, **cuello alto con piel**, **guantes negros**, **chaleco negro con muchos bolsillos** y el equipo de vuelo del Imperio.
+
+**Uniforme de combate de Tanya** (medido con Pillow por la parte de imagen sobre la ficha oficial, casilla 80) ⚠️ una medición por color
+- Chaqueta: `#3D362D` (verde oliva muy oscuro); sombra `#666555`.
+- Pantalón con manchas de camuflaje: claro `#747260`, oscuro `#31322C`. Sin nombre histórico probado para el patrón.
+- Guantes y correas: `#353739`.
+- Cartuchera roja con cruz negra: `#854849`.
+- Pelo: `#DED594` a `#E2D894`, rubio ceniza.
+- Ojos: `#1D7287` en sombra a `#86F1FF` en el brillo.
+- Culata de madera: `#443223`.
+
+**Lo que se reconoce al instante**: gorra de plato con insignia (película 0:08), **gafas de vuelo** sobre la gorra (película 0:32; novela, casilla 11), abrigo largo (casilla 1), **Cruz de Hierro**, fusil y el **orbe de cómputo**. Pelo en **coleta corta alta** con un mechón suelto arriba (etiquetas de Danbooru: *ponytail*, *ahoge*, *hair between eyes*).
+
+**Visha**: mismo uniforme reglamentario, mismos verdes y negros. Pelo **castaño cobrizo**, ojos azules, más alta que Tanya (ficha, casilla 81). ⚠️ La wiki dice que en otra versión sale rubia de pelo corto y ojos verdes; la parte de voz entiende que es la novela. Pelo de Visha sin medir.
+
+**Tanya fuera del uniforme**: vestido y boina rojos con un lazo grande, pelo suelto ondulado, fondo de rosas (casilla 59) ⚠️
+- Vestido `#46292D`, boina `#8B323C`, fondo dorado `#866C3F`, lazo `#767073`.
+
+**Vida anterior**: el oficinista, traje gris, corbata y pelo oscuro corto (casillas 29 y 84) ✅
+
+**Medalla**: la **Medalla de Asalto de las Alas de Plata**, la mayor del Imperio, casi siempre para caídos; Tanya la lleva en vida ([wiki](https://youjo-senki.fandom.com/wiki/Silver_Wings_Assault_Medal)) ✅. Su dibujo en anime, manga y novela está en la wiki, sin bajar ⚠️
+
+**Equipo de vuelo por país** (wiki, página corta) ⚠️: el Imperio vuela con botas de cable; la Entente con esquís; la República con un caballo metálico; el Reino Aliado con una escoba cohete; la Federación con un propulsor a la espalda.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+**Los sitios y su hora** (paletas en el punto 4)
+- **Frente del Rin**: trincheras, barro, cielo nublado de día; luz plana. El sitio que da a Tanya su apodo.
+- **Montaña nevada** del entrenamiento del Batallón 203: día frío, luz desde arriba.
+- **Ciudad en llamas de noche** (ep. 5): sólo la luz del fuego.
+- **Desierto del sur** (película): sol duro de mediodía, el único sitio cálido y claro.
+- **Interiores**: despacho con lámpara (casilla 30), comedor (casilla 33), sala con lámparas (casilla 52), taberna del batallón (casilla 47). Luz de lámpara, madera oscura.
+- Otros frentes con nombre: **Norden**, **Dacia**, **Osfjord** y **Arene** (ep. 8). ⚠️ Sin imagen propia: el clip del ep. 8 no está en Dailymotion.
+- ⚠️ La wiki no tiene páginas de lugares: sólo una, la base naval de Turus (comprobado con `categorymembers` y `search`).
+
+**Fondos de pantalla** (Wallhaven; sólo Tanya)
+- [2560×1440, serie de Neichiru](https://w.wallhaven.cc/full/gj/wallhaven-gjmdgl.png) ♥65 y [su variante](https://w.wallhaven.cc/full/6q/wallhaven-6qpy66.png) ♥56.
+- [1920×1080, fondo liso, uniforme y coleta](https://w.wallhaven.cc/full/lm/wallhaven-lm2x12.png) ♥55, de Kotan.
+- [2520×1080, círculos mágicos cian](https://w.wallhaven.cc/full/yj/wallhaven-yjkevk.jpg) ♥51, de pixiv 61962594.
+- Más, sin mirar: [1920×1080](https://w.wallhaven.cc/full/76/wallhaven-76lepe.png) ♥57, [1920×1200](https://w.wallhaven.cc/full/8x/wallhaven-8x8lm1.png) ♥53, [1920×1080](https://w.wallhaven.cc/full/vm/wallhaven-vmjegm.png) ♥50 ⚠️
+
+**Fondos de cruce** (*Isekai Quartet*): [4096×2542, oficial](https://w.wallhaven.cc/full/73/wallhaven-7312je.jpg) ♥215, de la [cuenta oficial](https://twitter.com/isekai_quartet/status/1115641595460587520); [10240×6400](https://w.wallhaven.cc/full/vq/wallhaven-vq3pgm.jpg) ♥42, también de la [cuenta oficial](https://twitter.com/isekai_quartet/status/1128325214578679808).
+
+**Paisajes de fans con luz de entreguerras** ⚠️ fan art
+- **Calle europea con lluvia**, torre de reloj al fondo, bandera del Imperio (Kokoya_art, `fondos_01` casilla 6): paleta fría gris azulada con un único acento rojo. La mejor idea de «ciudad del Imperio».
+- **Puerto bombardeado** (casilla 7): grises fríos con un foco cálido.
+- ⚠️ No hay fondos de sólo paisaje oficiales ni de fans más grandes de 1920×1080 fuera de Wallhaven.
+
+## 17 · Guía para IA de imagen y de texto
+
+### Para una IA de imagen (Firefly, Canva)
+
+**Rasgos de Tanya que nunca cambian**
+- Niña pequeña y delgada, de **piel casi blanca**; **pelo rubio ceniza** `#DED594` en **coleta corta alta**, con flequillo entre los ojos y un mechón levantado.
+- **Ojos azul claro** grandes, con brillo cian (`#1D7287` → `#86F1FF`). Cuando usa el poder: **dorados**.
+- **Uniforme verde oliva muy oscuro** `#3D362D` de la Primera Guerra Mundial alemana, forro rojo, **guantes negros**, chaleco negro con bolsillos, gorra de plato con insignia, **Cruz de Hierro**, botas. Fusil de madera `#443223` y el **orbe de cómputo**.
+- **Cara**: nunca tierna. Media sonrisa fría o sonrisa enorme de loca.
+
+**Visha**: más alta, pelo castaño cobrizo, ojos azules, cara amable y expresiva; el mismo uniforme.
+
+**Paleta**: verdes oliva y grises (`#403F39`, `#646559`, `#878B7E`), negros cálidos (`#24201F`), bronce (`#7C6D53`), crema de cielo nublado (`#E8E6CE`); acentos sólo de **fuego** (`#DE9F35`, `#E85010`) y de la **bandera** (`#B6231A`, `#FDC733`). Saturación baja: 19-31 %.
+
+**Línea y sombreado**
+- Anime: paleta desaturada, **casi sepia**, **viñeta fuerte** en los bordes, una **luz dura desde arriba**; sombreado mixto; contorno marrón oscuro `#474133`, no negro puro. Tanques, aviones y explosiones en 3D con humo muy trabajado.
+- Manga: tinta limpia de 2-3 px, sombra plana en 2 tonos, tramas de puntos, fondos de cielo pintados con degradado suave.
+
+**Luz y encuadre**
+- Autoridad: **contrapicado**, de pie ante la tropa (película 0:08).
+- Amenaza: **primer plano con la luz del fuego desde abajo** (ep. 1, 0:40).
+- Vuelo: tres cuartos desde arriba, nubes grises (ep. 6, 0:08).
+- Contemplar la destrucción: **de espaldas**, silueta negra sobre incendio naranja (ep. 5, 1:00).
+- Presentar un lugar: plano general muy abierto, luego plano medio aéreo, luego primer plano en contrapicado con la cámara inclinada (manga, cap. 1).
+
+**Palabras que ayudan** (vocabulario de Danbooru que entienden las IA): `tanya degurechaff`, `youjo senki`, `blonde hair`, `blue eyes`, `short ponytail`, `ahoge`, `hair between eyes`, `military uniform`, `peaked cap`, `iron cross`, `black gloves`, `belt`, `boots`, `holding rifle`, `grin`, `teeth`, `looking at viewer`. De estilo: `WWI German M1910 uniform`, `interwar 1920s Europe`, `overcast sky`, `desaturated sepia palette`, `heavy vignette`, `hard top light`, `trench`, `smoke`, `explosion glow`.
+
+**Palabras que lo estropean**: `cute`, `kawaii`, `pastel`, `sparkles`, `magical girl dress`, `sweet smile`, `pink`, `modern tactical gear`, `multicam`, `WW2 Wehrmacht`, `swastika`, `SS`, `white speech bubble`, `chibi` (salvo que sea un guiño a *Isekai Quartet*).
+
+**Imágenes para dar a la IA como referencia**
+- Estilo y vestuario: ficha de Tanya (casilla 80) y de Visha (casilla 81).
+- Autoridad: 1.ª visual de la película (casilla 1).
+- Poder: ep. 5, 0:36 (ojos dorados).
+- Amenaza: ep. 1, 0:40.
+- Despacho y calma: Tanya con la taza (casilla 30).
+- Ciudad del Imperio: fan art de Kokoya_art (`fondos_01`, casilla 6), sólo como idea de luz.
+
+**Vocabulario de expresiones de la serie**
+- **Ojos dorados brillando**: está usando el poder que viene de Being X, en trance.
+- **Ojos que brillan en amarillo con el ceño fruncido**: rabia.
+- **Sonrisa enorme con los dientes**, cara ladeada: placer de combate, locura.
+- **Ojos cerrados y sonrisa amplia**: la **sonrisa falsa** (casilla 58).
+- **Ojos azules enormes y brillantes**: inocencia fingida, «Let's begin!».
+- **Halo dorado detrás**: ironía, ángel y demonio.
+- **Boca enorme gritando** (casillas 25 y 27; novela, casilla 17): locura o arenga.
+- Visha: **ojos enormes y cejas al máximo** = susto cómico.
+- **Chibi**: el de *Isekai Quartet* (`fondos_01`, casilla 8). ⚠️ No se miró si los cortos *Youjo Shenki* y *Operation Desert Pasta* también lo son.
+- ⚠️ No documentados: gotas de sudor, venitas de enfado ni fondos de emoción propios de la serie.
+
+### Para una IA de texto
+
+**Cómo habla Tanya**
+- **En voz alta**: formal, correcta y seca. Órdenes cortas. Patriotismo exagerado cuando conviene: «¡Gloria al Imperio!».
+- **En su cabeza** (su caja propia): cálculo, sarcasmo, quejas contra Being X y ganas de un puesto tranquilo lejos del frente.
+- **Vocabulario de empresa** metido en la guerra: «costo beneficio», «valioso», «incompetente», «recursos», «eficiencia».
+- **Trato por rango y apellido**: «Mayor de Gurechav», «teniente», «señor».
+- **Exagera** con frialdad, no con aspavientos: sube el tono y corta.
+- ⚠️ No se documentaron muletillas propias ni su forma de saludar.
+
+**Frases reales del doblaje latino, por emoción** (punto 8)
+- **Explicando, narrando**: «En un mundo maldito, lleno de guerras continuas, había un país que era llamado Imperio.» · «De él, por su vasto poder militar e industrial, se decía: el Imperio es la victoria.»
+- **Orgullo frío**: «Sin embargo, soy mejor que el incompetente que está frente a mí.» · «A diferencia de este incompetente, hablando de costo beneficio, yo me he vuelto muy valioso.»
+- **Confesión cínica**: «Sé que tengo una personalidad retorcida y toda clase de complejos.»
+- **Enfadado** (los demás con ella): «¡Carajo! ¡Se ha vuelto loca!» · «¡Maldita!» (Grantz) · «Realmente es un demonio.» (Drake)
+- **Informe de tropa**: «Sí, señor. ¿Eliminamos a los enemigos restantes?» (Weiss) · «Requiere mucha agilidad. Cuento con usted.» (Von Hans)
+- **Admiración** (Visha): «La teniente Tania de Gurechav volaba firme, impasible, entre la lluvia de balas y proyectiles…»
+- **Animando**: «Glory to the Empire!» (tráiler de la película, 0:48) ⚠️ en inglés; falta la frase latina.
+- **Alegre** y **triste**: ❌ no hay frase real en las partes.
+
+**Palabras del mundo**: Imperio, República, Entente, Unión Rus, Batallón 203, orbe de cómputo, Tipo 95, Diablo del Rin, Fairy 08, Being X, Rin, Norden.
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+**Quién lo hizo** ([AniList, equipo](https://anilist.co/anime/21613/staff)) ✅
+- Historia: **Carlo Zen**. Diseño original: **Shinobu Shinotsuki** (novela).
+- Estudio **NUT**. Director: **Yutaka Uemura**. Guion y composición: Kenta Ihara.
+- Diseño de personajes y director de animación jefe: **Yuuji Hosogoe**. Diseño de objetos y de los cortes de anuncio: You Moriyama.
+- Asesor militar: **Reiichirou Oofuji**. Director de animación de los eps. 5-7 y 11: Takao Maki. Guion gráfico del ep. 8: Hiroshi Kobayashi.
+- NUT se fundó en 2017 con veteranos de MAPPA, Madhouse, Gainax y Production I.G ⚠️ (resumen de búsqueda; Wikipedia no cargó).
+- Director de 3D: **Masato Takahashi**. El productor, Sho Tanaka (también de *Overlord*), preguntó a Carlo Zen cuánto peso dar a la filosofía y la religión; Zen le dijo que en la tele primara el entretenimiento ⚠️ ([Wikipedia japonesa](https://ja.wikipedia.org/wiki/幼女戦記_(アニメ)) y [web oficial](https://youjo-senki.jp/tv/staffcast/), leídas en resumen).
+
+**Cómo se ve**
+- **Personajes en 2D** a mano; **tanques, aviones y grandes batallas en 3D**. Las reseñas de la época dicen que el 3D a veces no encaja en tamaño con el 2D, pero que las explosiones y el humo están muy logrados ⚠️. AniList da la etiqueta «CGI» con un 40 % de acuerdo.
+- **Paleta desaturada, casi sepia**, **viñeta fuerte**, una sola **luz dura desde arriba** (medido en el fotograma de Being X, punto 4) ✅.
+- Sombreado mixto, saturación entre 19 y 31 %, contorno marrón oscuro `#474133` (medido con `estilo.py`) ✅.
+- **Manga**: tinta limpia de 2-3 px, sombra plana en 2 tonos, fondos de cielo y montaña pintados con degradado suave, casi de ilustración de revista. La primera página a toda plana no lleva globos: sólo la cartela, como un reportaje ✅ (visto).
+- **Encuadres**: plano general muy abierto de paisaje, plano medio aéreo y primer plano del rostro de Tanya en contrapicado con la cámara inclinada. Da vértigo de altura, propio de magos que vuelan ✅ (manga, cap. 1).
+
+**La idea del autor** ✅ ([ANN](https://www.animenewsnetwork.com/interview/2019-06-08/the-saga-of-tanya-the-evil-author-carlo-zen-and-english-translator-emily-balistrieri/.146974) y wiki, página [Empire](https://youjo-senki.fandom.com/wiki/Empire)): el Imperio sale de imaginar que Alemania se unió con la «solución de la Gran Alemania», con todos los pueblos de habla alemana en un solo Estado, y que la guerra estalló más tarde, entre la Primera y la Segunda Guerra Mundial. «En ese escenario, no habría lugar para un demagogo como Hitler.» En una [entrevista japonesa de 2017](https://news.denfaminicogamer.jp/interview/youjo-senki), Zen confirma que mezcla vocabulario de la Primera Guerra con la política de la Segunda ✅.
+
+**Cómo replicarlo en Photoshop** ⚠️ (receta sacada de medir las imágenes, sin *making of* del estudio)
+- Personaje de manga: 2 capas en «Multiplicar» (sombra base y sombra de contacto), sin degradado.
+- Fondo pintado: aerógrafo suave y una **textura de grano de papel** en «Superponer» al 15-20 %.
+- Aspecto del anime: «Equilibrio de color» hacia ámbar en las sombras, «Curvas» bajando el contraste de las luces y una viñeta negra suave al 20-30 % en los bordes.
+
+**Cómo replicarlo en Blender** ⚠️ (propuesta del equipo, no del estudio)
+- Objetos (medalla o Cruz de Hierro, cascanueces, radio de campaña, orbe): geometría simple y **biselado marcado** en los bordes de metal.
+- *Toon shader* (nodo Shader to RGB y una rampa de 2-3 tonos) sólo si se quiere acabado de anime.
+- Metal viejo de las medallas: Principled BSDF con rugosidad alta y ruido en la normal. En el anime las medallas se ven con sombreado realista, no plano.
+- Armas: los modelos libres de Sketchfab del punto 3.
+- ❌ No se encontró ningún *rig* libre de Tanya ni de Visha.
+
+## 19 · Texturas 2D
+
+- **Tramas del manga** (puntos en sombras de uniforme, humo y explosiones), vistas en escaneos: [Vol 4 Ch 5 Pg 347](https://static.wikia.nocookie.net/youjo-senki/images/f/f0/Vol_4_Ch_5_Pg_347_Bad_scan_LQ.png), 1093×1600 (casilla 40 de `personajes_01`); [Vol 2 Ch 4 Pg 255](https://static.wikia.nocookie.net/youjo-senki/images/e/eb/Vol_2_Ch_4_Pg_255_Bad_scan_LQ.png), 676×1000 (casilla 71 de `personajes_02`; la parte de imagen decía hoja 1). Son escaneos malos: sirven para la trama, no para la línea ✅
+- **Pinceles de trama libres**: [34 pinceles de semitono de Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes), gratis para uso personal ⚠️ (no se bajó el paquete; mirar los términos antes de un uso comercial).
+- **Escudo y bandera del Imperio**: [EmpireFlag.png](https://static.wikia.nocookie.net/youjo-senki/images/f/ff/EmpireFlag.png), 1194×796. Escudo dorado con un **águila de dos cabezas negra**, sobre una bandera roja con dos franjas negras y blancas. Medido con `estilo.py`: rojo `#B6231A` (47 %), negro `#040303` (25 %), dorado `#FDC733` (14 %) ✅. Casilla 63 de `personajes_02` y casilla 5 de `fondos_01`.
+- **Camuflaje del pantalón**: manchas irregulares verde oliva y gris oscuro (`#747260`, `#31322C`) ⚠️ sin nombre histórico probado.
+- **El alfabeto inventado** de la serie ([fuentes de truefork](https://truefork.org/wp/deciphering-youjo-senki-part-3-fonts/)): sirve como textura de fondo en papeles, carteles y periódicos. Nunca para texto que se tenga que leer.
+- **Los lemas en latín** de la novela (punto 25) sirven como rótulos grabados o en cintas.
+- **La Cruz de Hierro** como adorno gráfico, como hizo el banner del juego (punto 11).
+- ⚠️ Falta: una textura de **papel viejo** o de **lona** con licencia comprobada. El punto 4 da las texturas 3D de barro, nieve, arena y metal.
+
+## 20 · Gustos y detalles
+
+| Personaje | Cumpleaños | Edad o altura | Le gusta | Objeto que siempre lleva | Cómo se ve a sí mismo |
+|---|---|---|---|---|---|
+| **Tanya** | **24 de septiembre** ⚠️ ([AniList](https://anilist.co/character/121052)) | 9-13 años en la serie; pequeña | la eficiencia, el costo y beneficio, un trabajo de oficina tranquilo; **el café de Visha** | el **orbe de cómputo Tipo 95** | un recurso humano valioso, no una niña |
+| **Visha** | ⚠️ no encontrado | más alta que Tanya | **chocolate** (adicta), salchichas, patatas, *K-Brot*; jugar a las cartas | su orbe, su fusil y **la cafetera** | soldado leal, amiga de Tanya |
+| **Zettour** | — | — | la estrategia racional, el bien del Imperio | documentos | el cerebro de la guerra |
+
+- **El café**: **Visha hace el mejor café**; Tanya dice que no puede vivir sin él y que la protegería a cualquier precio por eso (manga, «Goodwill visit III», y novela, *Abyssus abyssum invocat*, cap. 5) ✅ wiki. (La parte de voz lo escribió al revés en una línea; es Visha quien lo hace.)
+- **Las cartas**: Visha gana a todos; en el batallón nadie quiere jugar con ella porque les deja sin nada ✅ wiki.
+- En su vida anterior, Tanya valoraba el descanso, los derechos laborales y la razón. Acabó en el ejército más irracional posible.
+- ⚠️ No hay *databook* con alturas ni comidas del resto del reparto.
+
+## 21 · Por qué la aman
+
+**Los números** ([AniList](https://anilist.co/anime/21613)): nota media 78; popularidad 279873; 9750 favoritos. Etiquetas más votadas: militar 98 %, guerra 96 %, antihéroe 93 %, protagonista femenina 90 %, venganza 85 %, isekai 82 %, dioses 82 % ✅
+
+**Las razones**
+- **Un isekai distinto**: el protagonista no es un héroe amable, sino un adulto sociópata en el cuerpo de una niña que usa saber de empresa en una guerra ([studiojakemedia](https://studiojakemedia.substack.com/p/the-saga-of-tanya-the-evil-anime)) ✅
+- **El bucle de comedia y drama** del malentendido: el público espera cada nuevo intento de escaquearse.
+- **La estética de entreguerras**, rara en el anime, atrae a quien le gusta la historia militar.
+- **Tanya como espejo**: la trabajadora que lo hace todo bien y por eso recibe más trabajo y más peligro. Una lectura del mundo laboral de hoy.
+- **La T2 (2026)** hizo explotar Reddit, TikTok y X ([mystiqora](https://mystiqora.com/saga-of-tanya-the-evil-season-2-release-date-confirmed-trailer-cast-and-reddit-community)) ⚠️ una fuente.
+
+**Con quién se identifica el público**: con **Tanya**, la que hace bien su trabajo y sigue cargando con más, sobre todo el fandom adulto hispano; con **Visha**, la fiel que ve lo mejor de los demás.
+
+**Escenas que duelen, que hacen reír y que hacen gritar**
+- **Duele: la muerte de Rudersdorf** (T2, ep. 12, el final): muere creyendo que falló a su amigo Zettour, sin saber la verdad. El episodio no le da redención; lo deja morir equivocado. Traición política y amistad rota ([soapcentral](https://www.soapcentral.com/anime/saga-tanya-evil-ii-episode-12-a-brutal-finale-changes-everything)) ⚠️ una fuente, sin minuto, música ni encuadre.
+- **Engancha: la narración del ep. 1**, «En un mundo maldito…»: en 40 segundos marca el tono de toda la serie ✅ (muestra de audio).
+- **Impacta: el oficinista que fue** (ep. 2) frente a la niña que es.
+- **Hace gritar: los ojos dorados** del Tipo 95 y la ciudad en llamas ([ep. 5, 0:36 a 1:00](https://www.dailymotion.com/video/x5bp78t?start=36)) ✅
+- **Hace reír: el entrenamiento del 203** con la cara de ángel de Tanya y el susto de Visha ([ep. 5, 0:24 y 0:48](https://www.dailymotion.com/video/x5bp70j?start=24)) ✅
+- ⚠️ Sin comentarios más votados ni vídeos de reacción con enlace.
+
+## 22 · Fan dubs y comunidad hispana
+
+- **Doblaje oficial latino**: T1 (grabada en 2018, Crunchyroll), película (2019) y **T2 (2026, VSI Mexico City)**, en [Crunchyroll en español](https://www.crunchyroll.com/es/series/GR9P57W96/saga-of-tanya-the-evil) ✅. Para un servidor de doblaje, la T2 latina recién salida es el mejor momento de la comunidad hispana.
+- **Ash Fandubs**: «Tanya Degurechaff - Youjo Senki | Fandub Español Latino» en [Facebook](https://www.facebook.com/Ashfandubs/videos/1017435787805721/) ⚠️ sin vistas.
+- Canal de YouTube **«Youjo Senki Dub»** ([UCcY9_MJg3QnIg1fAn-Nh8hA](https://www.youtube.com/channel/UCcY9_MJg3QnIg1fAn-Nh8hA)): listas con contenido doblado, inglés y español mezclados ⚠️
+- Una página de Facebook sube el [cap. 3 en latino](https://www.facebook.com/100066919878390/posts/1392256143015035/) ⚠️
+- **TikTok**: mucha actividad en español con la T2 (etiquetas de la T2 en español latino y del tráiler en español) ⚠️ sin enlaces ni vistas.
+- **Opening de la T2 con subtítulos en español** en [YouTube](https://www.youtube.com/watch?v=o5a4xiOVsEI) ⚠️
+- **Covers**: de «Los! Los! Los!» hay versiones en **ruso** y en **alemán** (punto 9). ❌ No se encontró ningún cover en español.
+- ⚠️ No se encontraron fandubs de episodios completos en español con más de 10000 vistas, ni parodias o memes hispanos concretos.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- ***Isekai Quartet***: el cruce oficial *chibi* de Kadokawa con *Konosuba*, *Overlord*, *Re:Zero* y Tanya ✅ (Anime News Network e Isekai Wiki).
+  - T1: abril a junio de 2019. T2: enero a marzo de 2020, con *The Rising of the Shield Hero* y *Cautious Hero*. Película *Another World*: 10 de junio de 2022. T3: desde el 13 de octubre de 2025, con *The Eminence in Shadow*.
+  - Tanya está en las cuatro.
+  - Arte: [la mesa del club, 2048×1322](https://safebooru.org/images/62/0c90a3bb5891d89653bfecacb05eda38e107c658.jpg) con Tanya tomando algo junto a Ainz, Kazuma, Subaru y Naofumi (`fondos_01`, casilla 8) ⚠️ copia en un *booru*; fondos oficiales en el punto 16; [Tanya con Aqua, Emilia y Albedo](https://w.wallhaven.cc/full/5w/wallhaven-5wkqx5.jpg), 2048×1454 (casilla 4).
+- **Cruce con *Overlord***: [YS & OvL crossover](https://static.wikia.nocookie.net/youjo-senki/images/1/18/YS_%26_OvL_crossover.jpg), 723×1023 (casilla 65 de `personajes_02`) ⚠️ sin contexto.
+- **Cortos oficiales**: *Youjo Shenki* y *Operation Desert Pasta* (ONA, relaciones de AniList) ⚠️ sin mirar. La noticia de ANN sobre la T2 habla también de un «mini anime».
+- **Figura oficial**: **figma n.º 439** de **Max Factory**, «Saga of Tanya the Evil: The Movie», unos 130 mm, con **3 caras** (neutra, enloquecida en combate y sonriente) y su fusil ✅ (Amazon, Otaku HQ y MyFigureCollection). Su pose sirve de referencia 3D.
+- **Cosplay**: 44 fotos en [WorldCosplay](https://worldcosplay.net/character/157607) (Irene Gou, kiyo, Nananeue, ORUKA) ⚠️. Se ve **tela verde oliva rígida** (lana o gabardina, no licra) y fusiles rígidos: los materiales que hay que imitar.
+- ⚠️ No se encontraron cafés temáticos, colaboraciones con marcas ni cruces con Fortnite u otros *gachas* (búsquedas en español, inglés y japonés).
+
+## 24 · Obras parecidas y láminas vecinas
+
+- **Recomendadas por usuarios de AniList** ✅: *Overlord* (412 votos), *86 EIGHTY-SIX* (209), *Re:ZERO* (135), *Gate* (127), *Isekai Quartet* (121), *Alderamin on the Sky* (85), *Hellsing Ultimate* (71), *Izetta: The Last Witch* (47), *So I'm a Spider, So What?* (33), *Code Geass* (31).
+- Otras listas en inglés (Anime-Planet, Gamerant, BestSimilar): *Kabaneri of the Iron Fortress*, *Jormungand*, *The Rising of the Shield Hero*, *The Book of Bantorra*. Coinciden *Alderamin* y *Shield Hero* ✅
+- **La más cercana en estética: *Izetta***, chica mágica con uniforme europeo de entreguerras y combate aéreo (AniList y truefork) ✅
+- **La referencia visual más honesta** no es otro anime: es la **fotografía real de la Alemania de 1914-1933** y del frente del Rin. Lo pide el propio encargo.
+- **Láminas del servidor que se le parecen** (carpeta `biblias/`, 25-sep): ***Overlord*** (83; propone #reglas, #bienvenidas y #staff), ***Mushoku Tensei*** (81) y ***Shield Hero*** (82), todas isekai de fantasía pero sin estética militar real. Pendientes: *Sword Art Online* (85), *Tsukimichi* (87) y *Konosuba* (88), vecina por *Isekai Quartet*. *Vinland Saga* (78) comparte el tono de guerra seria.
+- **Cómo no repetir**: nada de trono ni sala oscura de fantasía (eso es *Overlord*). Aquí va **papel, radio, sellos, barro y nieve**: la guerra como oficina.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**El mundo en cinco líneas** (wiki: [Empire](https://youjo-senki.fandom.com/wiki/Empire), Being X; entrevista de Zen en ANN) ✅
+1. Una Europa alternativa donde Alemania se unió en un solo **Imperio** (帝国) antes de la Gran Guerra, y no hubo Hitler.
+2. Una sola **Gran Guerra** mezcla bandos y palabras de las dos guerras mundiales: la **Entente**, la **República**, la **Commonwealth**, la **Unión Rus**.
+3. La magia es real y se usa con un aparato, el **orbe de cómputo** (演算宝珠). El Imperio va por delante en esa técnica: modelos **Tipo 95** y **Tipo 97**, este de doble núcleo ([wiki](https://youjo-senki.fandom.com/wiki/Operation_Orb)).
+4. **Being X**, que se dice Dios, renació al oficinista ateo como Tanya para obligarle a tener fe. La guerra de Tanya contra él mueve buena parte de la historia.
+5. Tanya usa su genio sólo para sobrevivir y ascender con el menor riesgo, pero sus decisiones «para salvarse» la convierten en el temido **Diablo del Rin**.
+
+**La historia por arcos** (lemas en latín de la novela, con su traducción oficial en la [wiki](https://youjo-senki.fandom.com/wiki/Youjo_Senki_Light_Novel); cronología en la [wiki](https://youjo-senki.fandom.com/wiki/Youjo_Senki_Timeline)) ✅
+- **Vida anterior**: el oficinista muere y Being X lo renace (novela 1, cap. 0; manga cap. 1; anime ep. 2).
+- **Infancia y academia** (1914-1923): orfanato, se descubre su magia, ejército a la fuerza, academia de oficiales.
+- **Tomo 1, *Deus lo Vult*** («Dios lo quiere»): primer destino en Norden; nace el **203.º Batallón Aéreo de Magos**.
+- **Tomo 2, *Plus Ultra*** («Más allá»): el frente del Rin contra la República; nace el apodo **Diablo del Rin**.
+- **Tomos 3 y 4**, *The Finest Hour* y *Dabit deus his quoque finem* («Dios también pondrá fin a esto»).
+- **Tomos 5 a 7**, de *Abyssus abyssum invocat* («Un abismo llama a otro») a *Ut sementem feceris, ita metes* («Como siembres, cosecharás»): la guerra se abre en varios frentes, Dacia y Osfjord incluidos.
+- **Tomos 8 y 9**, *In omnia paratus* («Preparados para todo») y *Omnes una manet nox* («A todos nos espera la misma noche»): entran más potencias.
+- **Tomos 10 a 12**, *Viribus Unitis* («Con fuerzas unidas»), *Alea iacta est* («La suerte está echada») y *Mundus vult decipi, ergo decipiatur* («El mundo quiere ser engañado; que lo sea»): guerra total.
+- **Tomos 13 y 14**, *Dum spiro, spero* («Mientras respiro, espero»): lo último publicado.
+- **Anime**: T1 (12 episodios, 2017), película (2019, el frente sur), T2 (desde el 8 de julio de 2026 según ANN), que acaba con la muerte de Rudersdorf.
+
+**Emblemas y objetos que un fan reconoce al instante**
+- La **Cruz de Hierro** del uniforme ✅
+- El **escudo del Imperio**: águila negra de dos cabezas sobre oro; bandera roja con franjas negras (punto 19) ✅
+- La **Medalla de Asalto de las Alas de Plata** ✅ y la **Insignia de Asalto de Campo** ⚠️
+- El **orbe de cómputo Tipo 95**: la joya con circuitos, perfecta para Blender ✅
+- El **equipo de vuelo** de cada país (punto 15) ⚠️
+- La **gorra de plato con las gafas de vuelo** encima.
+
+**Vocabulario propio**
+- **Fairy 08** (indicativo de radio), **White Silver** (así la llaman en el frente), **el Diablo del Rin** ✅ (manga cap. 1 y wiki).
+- **Being X** (Sonzai X), el **Batallón 203**, **orbe de cómputo**, **Tipo 95**, **Rin**, **Norden**, **Dacia**, **Osfjord**, **Arene**, la **Entente de Legadonia**.
+- **Los lemas en latín**: los fans llaman a los arcos por su lema («el arco de *Alea iacta est*»).
+- **«Los! Los! Los!»**: la marcha del ending; y «¡Gloria al Imperio!».
+- ⚠️ **Ojo con las traducciones**: 大隊 sale como «Wing» o «Battalion»; 協商連合 como «Federation», «Entente Alliance» o «Entente Union». La wiki tiene una [tabla de términos](https://youjo-senki.fandom.com/wiki/Terminologies) para no mezclarlos. En latino, Doblaje Wiki usa «Batallón Aéreo de Magos N.° 203».

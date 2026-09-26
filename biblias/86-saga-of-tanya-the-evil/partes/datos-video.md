@@ -1,10 +1,10 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Saga of Tanya the Evil
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error
 
 ## Tráiler y enlaces oficiales (AniList)
 _Fuente: https://anilist.co/anime/21613_
@@ -19,32 +19,32 @@ _Fuente: https://anilist.co/anime/21613_
 _Fuente: https://api.dailymotion.com_
 
 **«Youjo Senki opening»**
-- Trailer de Youjo Senki · 1:42 · 3djuegos · 2735 vistas · https://www.dailymotion.com/video/x9uo9wg
+- Trailer de Youjo Senki · 1:42 · 3djuegos · 2736 vistas · https://www.dailymotion.com/video/x9uo9wg
 - Youjo Senki - Warning From a Evil Loli [Episode 5]-92miHwJ7ak8 · 1:08 · Anime Selection · 308 vistas · https://www.dailymotion.com/video/x5bp78t
 - Youjo Senki - HELL OF THE MAGES TRAINING [Episode 5]-ldtLa8O5OkQ · 2:36 · Anime Selection · 174 vistas · https://www.dailymotion.com/video/x5bp70j
-- Tanya Degurechaff vs Army - Youjo Senki Episode 1 HD · 1:54 · Yixexapof · 127 vistas · https://www.dailymotion.com/video/x5tslcz
+- Tanya Degurechaff vs Army - Youjo Senki Episode 1 HD · 1:54 · Yixexapof · 128 vistas · https://www.dailymotion.com/video/x5tslcz
 - Youjo Senki OP · 1:30 · Udacsere589 · 126 vistas · https://www.dailymotion.com/video/x594l9r
 - Youjo Senki Episodes 1 - 4 - Previously In Anime · 3:01 · Eshcole.com · 123 vistas · https://www.dailymotion.com/video/x5antwh
 **«Youjo Senki ending»**
-- Trailer de Youjo Senki · 1:42 · 3djuegos · 2735 vistas · https://www.dailymotion.com/video/x9uo9wg
+- Trailer de Youjo Senki · 1:42 · 3djuegos · 2736 vistas · https://www.dailymotion.com/video/x9uo9wg
 - Youjo Senki - Warning From a Evil Loli [Episode 5]-92miHwJ7ak8 · 1:08 · Anime Selection · 308 vistas · https://www.dailymotion.com/video/x5bp78t
 - Youjo Senki - HELL OF THE MAGES TRAINING [Episode 5]-ldtLa8O5OkQ · 2:36 · Anime Selection · 174 vistas · https://www.dailymotion.com/video/x5bp70j
-- Tanya Degurechaff vs Army - Youjo Senki Episode 1 HD · 1:54 · Yixexapof · 127 vistas · https://www.dailymotion.com/video/x5tslcz
+- Tanya Degurechaff vs Army - Youjo Senki Episode 1 HD · 1:54 · Yixexapof · 128 vistas · https://www.dailymotion.com/video/x5tslcz
 - Youjo Senki OP · 1:30 · Udacsere589 · 126 vistas · https://www.dailymotion.com/video/x594l9r
 - Youjo Senki Episodes 1 - 4 - Previously In Anime · 3:01 · Eshcole.com · 123 vistas · https://www.dailymotion.com/video/x5antwh
 **«Youjo Senki trailer»**
-- Trailer de Youjo Senki · 1:42 · 3djuegos · 2735 vistas · https://www.dailymotion.com/video/x9uo9wg
+- Trailer de Youjo Senki · 1:42 · 3djuegos · 2736 vistas · https://www.dailymotion.com/video/x9uo9wg
 - Youjo Senki - Warning From a Evil Loli [Episode 5]-92miHwJ7ak8 · 1:08 · Anime Selection · 308 vistas · https://www.dailymotion.com/video/x5bp78t
 - Youjo Senki - HELL OF THE MAGES TRAINING [Episode 5]-ldtLa8O5OkQ · 2:36 · Anime Selection · 174 vistas · https://www.dailymotion.com/video/x5bp70j
-- Tanya Degurechaff vs Army - Youjo Senki Episode 1 HD · 1:54 · Yixexapof · 127 vistas · https://www.dailymotion.com/video/x5tslcz
+- Tanya Degurechaff vs Army - Youjo Senki Episode 1 HD · 1:54 · Yixexapof · 128 vistas · https://www.dailymotion.com/video/x5tslcz
 - Youjo Senki OP · 1:30 · Udacsere589 · 126 vistas · https://www.dailymotion.com/video/x594l9r
 - Youjo Senki Episodes 1 - 4 - Previously In Anime · 3:01 · Eshcole.com · 123 vistas · https://www.dailymotion.com/video/x5antwh
 **«Saga of Tanya the Evil escena»**
 - Saga of Tanya the Evil - Trailer temporada 2 · 1:42 · Espinof · 2436 vistas · https://www.dailymotion.com/video/x9uycb4
 - 'Saga Of Tanya The Evil - The Movie'- Tráiler oficial · 1:25 · Sensacine México · 469 vistas · https://www.dailymotion.com/video/x96pfti
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot Trailer · 69 vistas · https://www.dailymotion.com/video/x7ry2pz
+- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 66 vistas · https://www.dailymotion.com/video/x8aikd4
 - Youjo Senki (Saga of Tanya the Evil) Episode 5 : Tanya Jokes · 1:31 · Yierel Oakshield · 66 vistas · https://www.dailymotion.com/video/x5aj1nw
-- Saga of Tanya the Evil – Bande annonce film · 1:11 · JeuxVideo.com · 65 vistas · https://www.dailymotion.com/video/x8aikd4
 - Saga of Tanya the Evil The Movie - Trailer (Deutsch) HD · 1:00 · Moviepilot · 64 vistas · https://www.dailymotion.com/video/x7xj77g
 
 ## Internet Archive (vídeo y audio subidos por usuarios; comprobar qué es)
