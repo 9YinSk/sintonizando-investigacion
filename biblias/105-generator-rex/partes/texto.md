@@ -4,8 +4,8 @@ Investigador de texto. Puntos 5, 6, 11, 18, 24 y 25 de ENCARGO.md. Libreta de da
 `datos-texto.md` de recolectar.py salió casi vacío (sólo un bloque de Steam sin resultados, sin
 datos que comprobar ni descartar). Aviso del jefe sobre mezcla de «rex» con otras obras: revisado,
 no se usó nada de ese archivo. Todo lo de aquí sale de `generatorrex.fandom.com` (wiki real de la
-serie, confirmada por el investigador de imagen), Wikipedia, TV Tropes, Internet Archive, dafont y
-Fontsource, cada dato con su enlace.
+serie, confirmada por el investigador de imagen), Wikipedia (inglés y coreano), TV Tropes,
+Internet Archive, dafont, Google Fonts/Fontsource y Metacritic, cada dato con su enlace.
 
 ## 5 · Tipografía
 
@@ -51,6 +51,7 @@ son hablados. Pero sí hay dos soportes reales con cuadros de texto propios: el 
 - **Nanite Runner**: juego «endless runner» de Cartoon Network hecho en Asia; controla a Rex esquivando y golpeando EVOs (Rabbit EVO, Multi-faced EVO, Tord EVO, Pyreptryx) · https://generatorrex.fandom.com/wiki/Nanite_Runner · ✅
 - **Heroes United (online game)**: minijuego del crossover Ben 10/Generator Rex, control por teclado (WASD + Z/X/C), combos especiales por personaje · https://generatorrex.fandom.com/wiki/Heroes_United_(online_game) · ⚠️ (una fuente, página stub de la wiki)
 - **Titanic Kungfubot Offensive (TKO)**: juego multijugador online de lucha con robots, cruza 10 series de Cartoon Network con 28 personajes; Rex y Agent Six aparecen como robots jugables · https://generatorrex.fandom.com/wiki/Titanic_Kungfubot_Offensive · ⚠️ (una fuente, ficha stub)
+- Metacritic no tiene reseñas de prensa registradas para el juego (Metascore «TBD»), sólo puntuación de usuarios: **5.4/10** · https://www.metacritic.com/game/generator-rex-agent-of-providence/ · ⚠️ (una fuente, dato de recepción, no de estilo)
 - No se encontró entrada de **The Cutting Room Floor** (TCRF) para ningún juego de Generator Rex: la web bloqueó el acceso (Cloudflare «Just a moment», tanto por API como por navegar.py) y la búsqueda en Google tampoco devolvió resultados de tcrf.net. Se documenta como «no encontré», no como «no existe».
 
 ## 18 · Estilo de dibujo y técnica, y cómo replicarlo
@@ -88,8 +89,9 @@ rigs y tramas: ver puntos 3 y 19.
 ## 24 · Obras parecidas
 
 - Wikipedia lista oficialmente como «Related»: **Ben 10** (2005-2021) y **The Secret Saturdays** (2008-2010) · https://en.wikipedia.org/wiki/Generator_Rex (infobox) · ✅
-- Creado por el mismo estudio de guionistas **Man of Action** (Duncan Rouleau, Joe Casey, Joe Kelly, Steven T. Seagle) que creó **Ben 10**; de hecho hubo un crossover oficial de una hora, «Ben 10/Generator Rex: Heroes United» (25 nov 2011) y un segundo cruce en el universo Ben 10 (2016) en 2021 · TV Tropes + https://generatorrex.fandom.com/wiki/Man_of_Action · ✅ (dos fuentes)
-- Basada en el cómic **M. Rex** (1999, Image Comics/Avalon, 2 números), de Joe Kelly y Duncan Rouleau; el nombre tuvo que cambiarse a «Generator Rex» porque los derechos de «M. Rex» seguían con Image · https://generatorrex.fandom.com/wiki/M._Rex + TV Tropes · ✅ (dos fuentes)
+- Creado por el mismo estudio de guionistas **Man of Action** (Duncan Rouleau, Joe Casey, Joe Kelly, Steven T. Seagle) que creó **Ben 10**; de hecho hubo un crossover oficial de una hora, «Ben 10/Generator Rex: Heroes United» (25 nov 2011) y un segundo cruce en el universo Ben 10 (2016) en 2021 · https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GeneratorRex + https://generatorrex.fandom.com/wiki/Man_of_Action · ✅ (dos fuentes)
+- Basada en el cómic **M. Rex** (1999, Image Comics/Avalon, 2 números), de Joe Kelly y Duncan Rouleau; el nombre tuvo que cambiarse a «Generator Rex» porque los derechos de «M. Rex» seguían con Image · https://generatorrex.fandom.com/wiki/M._Rex + https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GeneratorRex · ✅ (dos fuentes)
+- Página de recapitulación de episodios en TV Tropes (`Recap/GeneratorRex`) y de repaso general de reseñas (`reviews.php?target_group=WesternAnimation&target_title=GeneratorRex`) confirman que la serie se sigue catalogando activamente como comparable de Ben 10 y The Secret Saturdays en el sitio · https://tvtropes.org/pmwiki/pmwiki.php/Recap/GeneratorRex · ⚠️ (una fuente, sólo confirma existencia de la página, sin extraer tropos por bloqueo de scroll/JS)
 - Categorías oficiales de Wikipedia que definen el género para comparar: «Nanopunk», «Cyborg superheroes», «American anime-influenced animated television series», «Teen superhero television series» · https://en.wikipedia.org/wiki/Generator_Rex (categorías) · ✅
 - Mismo diseñador de personajes (Jose Lopez) trabajó antes en *Jackie Chan Adventures* y *Men in Black: The Series* (mismo tono de acción/comedia adolescente) y después en *Transformers: Prime* — series con look y ritmo cercanos para comparar referencia visual · https://generatorrex.fandom.com/wiki/Jose_Lopez · ✅
 - Teaser/eslogan de M. Rex: «The comic that will save the world!» — tono pulp/acción similar al de otros cómics de superhéroes de acción de Image de los 90 · https://generatorrex.fandom.com/wiki/M._Rex · ⚠️ (una fuente)
@@ -134,6 +136,9 @@ Fuente de las cinco líneas: https://generatorrex.fandom.com/wiki/Nanite_Event ,
 - en.wikipedia.org/wiki/Generator_Rex vía curl directo (funcionó; WebFetch a Wikipedia salió bloqueado por el proxy de red) — inglés.
 - tcrf.net vía curl y `navegar.py` — bloqueado por Cloudflare en los dos casos (403 / challenge JS), dos intentos, no se insistió más.
 - tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GeneratorRex vía `navegar.py` (funciona en esta máquina) — sólo cargó la introducción, no las carpetas de tropos — inglés.
+- tvtropes.org/pmwiki/pmwiki.php/Recap/GeneratorRex confirmada por WebSearch (existe, no se abrió con navegar.py en esta tanda) — inglés.
+- metacritic.com/game/generator-rex-agent-of-providence vía `navegar.py` con selector `[data-testid="global-score-value-wrapper"]` — Metascore «tbd», nota de usuarios 5.4 — inglés.
+- WebSearch (`IGN "Generator Rex: Agent of Providence" review`, `tvtropes.org WesternAnimation GeneratorRex`) para localizar URLs exactas de TV Tropes y confirmar que IGN no tiene reseña propia indexada — inglés.
 - dafont.com/generator-rex.font vía `navegar.py` (bloqueado por WebFetch, funcionó por `navegar.py`); descarga del .ttf vía `dl.dafont.com` y comprobación de glifos con `fontTools` — inglés.
 - api.fontsource.org (`/v1/fonts`, `/v1/fonts/<id>`) + descarga de .ttf desde `cdn.jsdelivr.net/fontsource` + `fontTools.getBestCmap()` para comprobar á é í ó ú ñ ¿ ¡: Black Ops One, Bangers, Comic Neue, Luckiest Guy, Special Elite, Audiowide, Oswald — todas completas.
 - archive.org: `/metadata/generator-rex-website-tour` y `/metadata/PS3_Longplay_141_Generator_Rex_Agent_of_Providence`; miniaturas del recorrido del sitio bajadas y miradas directamente (contact sheet propio, `web_sheet.jpg`).

@@ -723,6 +723,38 @@ Ver §13. Segunda pasada:
   Úsalo sólo como guiño.
 - **Voz**: Jason Spisak (inglés); **Nicolás Frías** (latino) ✅.
 
+### La cara en cada emoción (fotograma y minuto, segunda pasada)
+
+Fotogramas propios de la T1 en 1080p ([Internet Archive](https://archive.org/details/arcane-season-1-60fps)),
+mirados uno a uno. El enlace abre el archivo en ese segundo.
+
+| Personaje | Emoción | Episodio y minuto | Cómo es la cara | Enlace |
+|---|---|---|---|---|
+| **Vi** | Rabia | 1×03, **23:30** | Dientes apretados, ceño hundido, mirada de lado, pecas y sangre en la mejilla; justo antes de gritarle «jinx» a Powder | ✅ [`?t=1410`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1410) |
+| **Vi** | Alegría | — | ⚠️ **sin fotograma**: 1×01 (tejado del atraco) es tensión, y 1×07 (mural, ~12:30) es nostalgia con lágrimas, no alegría limpia | — |
+| **Vi** | Vergüenza | — | ⚠️ **sin fotograma**: no apareció clara en 1×01 ni en 1×07 | — |
+| **Vi y Powder** | Ternura | 1×03, **16:55** | Vi con el brazo vendado sobre el hombro de Powder; las dos miran abajo | ✅ [`?t=1015`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015) |
+| **Powder** | Tristeza | 1×03, **24:45** | Sola, hombros caídos, mirada baja, boca tensa: Vi acaba de irse | ✅ [`?t=1485`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1485) |
+| **Powder** | Miedo | 1×03, **27:15** | Ojo muy abierto y húmedo, encogida, mirando un autómata pequeño | ✅ [`?t=1635`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1635) |
+| **Powder** | Vergüenza, culpa | 1×03, **38:00** | Plano muy cerrado, ojos llorosos hacia arriba, pelo sobre la cara; llega Silco con un resplandor azul detrás | ✅ [`?t=2280`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2280) + [Silco · Arcane Wiki](https://arcane.fandom.com/wiki/Silco) |
+| **Jinx adulta** | Alegría | — | ⚠️ **sin fotograma**: el tramo de 1×09 (19:00-23:00) que se miró era Sevika, no Jinx | — |
+| **Jayce** | Vergüenza, humillación | 1×02, **14:48** | Solo y diminuto en un círculo de luz en la sala del Consejo; todos lo miran desde arriba | ✅ [`?t=888`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=888) |
+| **Jayce** | Alegría, orgullo | 1×04, **26:32** | Cejas arriba, boca abierta a media sonrisa, hablando con energía entre aplausos y fuegos artificiales | ✅ [`?t=1592`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1592) |
+| **Viktor** | Alegría, ilusión | 1×03, **17:30** | Cuaderno en mano, sonrisa leve, cejas relajadas ante el primer arco eléctrico azul | ✅ [`?t=1050`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1050) + [Viktor · Arcane Wiki](https://arcane.fandom.com/wiki/Viktor) |
+| **Caitlyn** | Miedo, tensión | 1×08, **22:18** | Quieta en la sala del Consejo, cejas apretadas, boca entreabierta, mirada fija; Vi al lado | ✅ [`?t=1338`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=1338) |
+| **Ekko** adulto | Tristeza, recelo | 1×07, **12:18** | Ceño fruncido, mirada baja, párpados caídos, ante el mural de los muertos junto a Vi | ✅ [`?t=738`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=738) |
+| **Silco** | Rabia fría | 1×03, **37:44** | De pie, mentón alto, mirada entornada hacia abajo, mandíbula tensa, relámpago azul detrás | ✅ [`?t=2264`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2264) |
+
+Huecos que quedan (no se miraron): miedo, tristeza y vergüenza de
+Viktor; alegría y rabia de Caitlyn y de Ekko; tristeza, miedo y vergüenza
+de Silco. Los 7 episodios bajados siguen en
+`/tmp/claude-0/trabajo/17-arcane-voz/` para quien siga.
+
+**Dinámicas para láminas en grupo** (de las escenas miradas): Vi protege
+a Powder (1×03 16:55); Viktor sonríe cuando Jayce lo escucha (1×03 17:30);
+Ekko y Vi comparten el duelo ante el mural (1×07 12:18); Caitlyn y Vi
+aguantan juntas al Consejo (1×08 22:18).
+
 ### Secundarios a mano
 
 | Quién | Para qué sirve | Estado |
@@ -743,8 +775,9 @@ Ver §13. Segunda pasada:
 | China (Douban, Xiaomi, Huxiu) | «La popularidad de Jinx en solitario es la más alta»; «Jinx le dio prestigio a Tencent» | ✅ ([Douban](https://www.douban.com/group/topic/313961123/), [Xiaomi](https://game.xiaomi.com/viewpoint/1375999065_1638465807743_16), [Huxiu](https://m.huxiu.com/article/474375.html)) |
 | China, reacción al acto 2 de la T2 | **Viktor** recibe «montones de notas perfectas» | ⚠️ ([GamerSky](https://www.gamersky.com/news/202411/1846266.shtml)) |
 | AO3 2024 (parejas) | **Jayvik** n.º 15, **Caitvi** n.º 17 | ✅ [esports.gg](https://esports.gg/news/league-of-legends/two-arcane-pairings-breach-top-20-ships-on-ao3-for-2024/) |
-| Encuesta de IMDb | existe; resultado sin ver | ⚠️ [IMDb](https://www.imdb.com/poll/ef72fiSOfgA/) |
-| Corea | no encontré encuesta | — |
+| Encuesta de IMDb | existe; el resultado pide sesión (segunda pasada, tampoco) | ⚠️ [IMDb](https://www.imdb.com/poll/ef72fiSOfgA/) |
+| Corea | buscado en coreano (`Arcane 인기 캐릭터 설문`): **no hay encuesta de personajes**; sí la demanda de la serie, **15,0×** la media en marzo de 2025 | ⚠️ comprobado que no existe; demanda ✅ [Parrot Analytics](https://tv.parrotanalytics.com/KR/arcane-netflix) |
+| Danbooru (dibujos de fans) | **Jinx**, 3613 dibujos: la más dibujada | ⚠️ una fuente (recolector) |
 
 **Conclusión**: **Jinx** es la cara de la serie y la más querida. Detrás,
 **Vi** y **Silco**. **Viktor** subió mucho en la T2, y **Jayce+Viktor**
@@ -756,8 +789,11 @@ Para #arte, Jinx sin duda. Para #proyectos, **Jayce y Viktor juntos**
 
 ## 10 · Doblaje latino
 
-> Doblaje Wiki no abría (403). Todo sale de otras fuentes y de lo que el
-> buscador leyó de Doblaje Wiki. **Hay otro doblaje, el de España**
+> **Segunda pasada**: la ficha de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane)
+> se bajó entera por su API (`action=parse`) y se cruzó con el reparto
+> por capítulo de [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/),
+> que copia los créditos de prensa de Netflix Latinoamérica. Eso cierra
+> los ⚠️ de Jayce, Heimerdinger, Vander, Mel y Marcus. **Hay otro doblaje, el de España**
 > ([Doblaje España Wiki](https://doblaje-espana.fandom.com/es/wiki/Arcane),
 > [Vandal](https://vandal.elespanol.com/noticia/1350748054/lol-este-es-el-reparto-de-actores-de-doblaje-para-la-serie-arcane-de-netflix/)):
 > no confundirlos.
@@ -772,16 +808,31 @@ Para #arte, Jinx sin duda. Para #proyectos, **Jayce y Viktor juntos**
 | **Silco** | **Nicolás Frías** (el profesor Frink de *Los Simpson*) | ✅ [Bolavip](https://bolavip.com/gamer/Arcane-la-serie-de-League-of-Legends-confirma-su-elenco-de-voces-en-latino-20210921-0044.html), [TikTok SDV](https://www.tiktok.com/@sdv_serviciosdevoz/video/7414674465876937989) |
 | **Caitlyn** | **Karina Altamirano** (Lois en *Padre de familia*) | ✅ [TikTok SDV](https://www.tiktok.com/@sdv_serviciosdevoz/video/7442462275287452983), [AniList](https://anilist.co/staff/108265/Karina-Altamirano) |
 | **Ekko** | **José Antonio Toledano** (también en el juego) | ✅ [TikTok SDV](https://www.tiktok.com/@sdv_serviciosdevoz/video/7416131651387854086?lang=es), [Starcon](https://www.facebook.com/starconmx/posts/jos%C3%A9-antonio-toledano-actor-de-doblaje-que-dio-voz-a-ekko-en-el-universo-league-/1446435646854462/) |
-| **Jayce** | **Miguel de León** (Bugs Bunny en *Looney Tunes Cartoons*) | ⚠️ una búsqueda dice que hace a Jayce **joven**, otra que en la T2; en el juego dobla a «Arcane: Jayce Sobreviviente» ([TikTok](https://www.tiktok.com/@.ru_ma/video/7440738759320096055)). Otra búsqueda nombró a **Michel Tejerina**, que parece del doblaje **de España**. **Comprobar** |
-| **Heimerdinger** | José Luis Orozco (repite del juego) | ⚠️ una fuente |
-| **Vander** | Dafnis Fernández | ⚠️ una fuente (Bolavip, vía buscador) |
-| **Mel** | Adriana Núñez | ⚠️ una fuente |
-| **Marcus** | Eduardo Garza | ⚠️ una fuente |
+| **Jayce** | **Miguel de León** (Bugs Bunny en *Looney Tunes Cartoons*), **desde 1×01** | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) + [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/). **Michel Tejerina es el Jayce de España**: descartado para el latino |
+| **Heimerdinger** | José Luis Orozco (repite del juego) | ✅ Doblaje Wiki + Desde La Cuna |
+| **Vander** | Dafnis Fernández | ✅ Doblaje Wiki + Desde La Cuna |
+| **Mel** | Adriana Núñez | ✅ Doblaje Wiki + Desde La Cuna |
+| **Marcus** | Eduardo Garza (el director de la T1; también Kayn en el juego) | ✅ Doblaje Wiki + Desde La Cuna |
+
+**Voz original y latina, tabla fija** (Arcane no es anime: la columna
+«original» es el inglés): Jinx **Ella Purnell** / Karla Falcón · Vi
+**Hailee Steinfeld** / Romina Marroquín Payró · Jayce **Kevin Alejandro** /
+Miguel de León · Viktor **Harry Lloyd** / Igor Cruz · Caitlyn **Katie
+Leung** / Karina Altamirano · Ekko **Reed Shannon** / José Antonio
+Toledano · Silco **Jason Spisak** / Nicolás Frías · Vander **JB Blanc** /
+Dafnis Fernández ✅. Mel: Toks Olagundoye ⚠️ (una fuente).
+
+**Datos de interés de Doblaje Wiki** ✅: Silco, Vi, Jinx, Ekko y
+Heimerdinger **repiten actor del juego**; Jayce, Caitlyn, Viktor, Singed
+y Warwick **no**. Dos episodios (el 11 y el 14) salieron en Netflix **sin
+créditos de doblaje**. Hay muestras de audio en la ficha: Mel ×3,
+Viktor ×4 (niño, T1, Heraldo, forma final), Silco ×1 (sin pasar aún por
+`voz.py` ⚠️).
 
 **Estudio y dirección**:
 - **T1**: **Sysdub**, dirección de **Eduardo Garza** (director del juego
-  *League of Legends* de 2014 a 2017) ⚠️ (dos búsquedas, pero parece la
-  misma fuente de fondo, Doblaje Wiki).
+  *League of Legends* de 2014 a 2017) ⚠️ (Doblaje Wiki y Bolavip; en la
+  segunda pasada tampoco salió un tercer sitio que lo repita).
 - **T2**: **Iyuno México**, dirección de **Angie Villa**, traducción de
   **Briana González** ✅ ([Bubbleblabber LATAM](https://latam.bubbleblabber.com/2024/11/netflix-estrena-el-doblaje-de-la-segunda-temporada-de-arcane-en-espanol-latino/)
   y Doblaje Wiki, vía buscador).
@@ -797,7 +848,8 @@ Para #arte, Jinx sin duda. Para #proyectos, **Jayce y Viktor juntos**
 | Vi a Caitlyn (T2) | «cupcake» → «**Pastelito**», más fiel | ⚠️ Doblaje Wiki (vía buscador) |
 | Jinx a Vi (1×09, con un pastelito) | «**Mira, traje a tu novia**» (el chiste de «cupcake» se pierde porque en la T1 era «bombón») | ⚠️ Doblaje Wiki (vía buscador) |
 | Ekko (2×07) | «**A veces, para dar un paso hacia adelante, hay que dejar algo atrás**» | ⚠️ la guía de cuadros, que cita Doblaje Wiki |
-| Silco (1×09) | «You're perfect» → ❌ no encontré cómo se dijo | — |
+| Silco (1×09) | «You're perfect» → ⚠️ no está transcrito en Doblaje Wiki ni en el buscador (buscado otra vez en la segunda pasada) | — |
+| Vi y Caitlyn, el chiste | «bombón» (T1) → «pastelito» (T2): el chiste del doblaje que más se repite en clips hispanos, con comparaciones latino y castellano | ⚠️ una fuente ([TikTok](https://www.tiktok.com/@decadejay21/video/7439827477041646903)) |
 
 ### 10.3 Nombres oficiales en latino (del juego)
 
@@ -834,13 +886,39 @@ el doblaje de la serie ⚠️.
 - Por escena: [Tunefind T2](https://www.tunefind.com/show/arcane/season-2).
 - **Para #proyectos**: el ambiente es el del laboratorio (cuerdas,
   esperanza). **Para #arte**: «Paint the Town Blue».
+- **Segunda pasada**:
+  - «Enemy», ficha oficial: título completo «Enemy (from the animated
+    series Arcane League of Legends)», **28-oct-2021**, **213 s** ✅
+    ([MusicBrainz](https://musicbrainz.org/release-group/35990e4e-72da-4ca1-9193-2ee30cc23050)
+    y el vídeo visto entero, §12).
+  - El **discurso del Día del Progreso** (1×04, 24:20-26:30) no muestra
+    crédito de canción: por la banda en escena parece partitura
+    instrumental ⚠️ (se miraron fotogramas, sin oír el audio).
+  - La muerte de Silco («You're perfect», 1×09) **no lleva canción con
+    letra**, es partitura ⚠️; su nombre exacto no salió. Tampoco la música
+    de la muerte de Vander (1×06) ni la de Isha (2×06) ⚠️.
+  - Tendencia: el post de r/arcane «\*Enemy start playing in the
+    background» tiene **3041 votos** ✅
+    ([Reddit](https://reddit.com/r/arcane/comments/1ogwy9g/enemy_start_playing_in_the_background/)).
 
 ---
 
 ## 12 · Vídeos
 
-> YouTube no abría desde aquí: **no tengo minutos exactos**. Los enlaces
-> salen de los resultados de búsqueda.
+> **Segunda pasada**: YouTube pidió sesión («confirm you're not a bot»)
+> dos veces; los vídeos se miraron en Internet Archive y Dailymotion con
+> `fotogramas.py`. Esta primera tabla sí tiene **minuto visto**.
+
+| Vídeo | Minuto y qué se ve | Estado |
+|---|---|---|
+| **«Enemy»**, vídeo oficial de Fortiche (copia 1080p, 213 s) | **0:45** Vi y Jinx de perfil con luz de atardecer · **1:00** la banda tocando entre la gente de Zaun, luz verde · **3:00** primer plano con distorsión RGB cian y magenta · **3:30** logo «ARCANE / LEAGUE OF LEGENDS» en rojo sobre negro: la «tarjeta de opening» | ✅ visto entero ([Internet Archive](https://archive.org/details/9convert.com-imagine-dragons-x-jid-enemy-from-the-series-arcane-league-of-legends-1080p)) |
+| «Enemy with JID (Opening Title Version)», 186 s | Montaje más corto, el de cabecera | ⚠️ sólo metadatos ([Internet Archive](https://archive.org/details/EnemywithJIDOpeningTitleVersion)) |
+| Teaser «A New Adventure Awaits» (Worlds 2019) | **0:45-1:15** una jugadora en su cuarto: «voy a revelarles un secreto» · **1:00** el perfil de Piltóver · **1:45** logo «ARCANE» | ✅ visto ([Dailymotion](https://www.dailymotion.com/video/x89n6ax)) |
+| Créditos finales de 1×03 | **42:40-44:00**: rótulos de Riot Games y Fortiche; reparto francés (Silco Bernard Gabay, Vi Alice Taurand) | ✅ visto (archivo de la T1) |
+| Créditos finales de 1×06 | **40:10-41:40**: mismo reparto francés en toda la T1 | ✅ visto |
+| Tráiler oficial T1 | Mirado cada 6 s para caras | ✅ visto ([Dailymotion](https://www.dailymotion.com/video/x85f7g5)) |
+
+La lista de antes, sin minuto propio:
 
 | Vídeo | Para qué sirve | Enlace |
 |---|---|---|
@@ -863,8 +941,10 @@ el doblaje de la serie ⚠️.
 
 | Juego | Qué tiene de Arcane | Cómo «hablan» | Estado |
 |---|---|---|---|
+| **2XKO** (lucha, Riot) | Jinx, Vi, Ekko y Caitlyn jugables | Frases por momento: selección, intro, burlas, combate, *supers*, *outro* ([2XKO Wiki](https://wiki.play2xko.com/en-us/Jinx/Audio)); el subtítulo sin captura ⚠️ | ✅ que existe |
+| **Legends of Runeterra: Path of Champions** | Historias de Jinx, Vi y Jayce | «**Cómics animados con voces**» ([Destructoid](https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/)) | ✅ el formato; la caja sin captura ⚠️ |
 | **League of Legends** | Skins «Arcane» de Jinx, Vi, Jayce, Viktor, Caitlyn, Ekko, Heimerdinger, Mel y Warwick (lista y nombres latinos en §3.1) | Frases sueltas de cada campeón; sin cajas de diálogo | ✅ (Data Dragon) |
-| **RiotX Arcane** (evento web, 2021) | El mapa-plano de Piltóver (R1), fondos y avatares | ⚠️ no vi el evento | ✅ los archivos (los tengo); la dirección `riotxarcane.riotgames.com` sale en un tuit de LoL LATAM copiado en [cocotbodol](https://www.cocotbodol.com/author/lollatam) ⚠️ |
+| **RiotX Arcane** (evento web, 2021) | El mapa-plano de Piltóver (R1), fondos y avatares | ⚠️ no vi el evento | ✅ los archivos (los tengo); la dirección `riotxarcane.riotgames.com` sale en un tuit de LoL LATAM copiado en [cocotbodol](https://www.cocotbodol.com/author/lollatam) ⚠️. **Segunda pasada**: la API de Wayback confirma una copia del **8-dic-2021** ([captura](http://web.archive.org/web/20211208230625/https://riotxarcane.riotgames.com/)), pero `web.archive.org` está bloqueado en el contenedor: el contenido sigue sin ver ⚠️ |
 | **Legends of Runeterra: Path of Champions** (evento Arcane) | Historia en Piltóver y Zaun; historias de Jinx y Vi | **«Cómics animados» con voces** y decisiones que cambian el final. Ej.: Vi: «If I hear fat-hands one more time!» / Jinx: «Jeeez. Least one of us got a sense of humor» | ✅ ([Destructoid](https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/), [YouTube: Jinx](https://www.youtube.com/watch?v=L4-suaLzH7Y), [YouTube: Vi](https://www.youtube.com/watch?v=OZzo7hmPonA)); cómo es la caja ⚠️ |
 | **2XKO** (lucha, Riot) | Jinx, Ekko, Vi… | **Diálogos de entrada** entre parejas de campeones | ✅ ([Game8](https://game8.co/articles/latest/2xko-gameplay-and-story), [2XKO Wiki: Jinx](https://wiki.play2xko.com/en-us/Jinx/Audio), [YouTube](https://www.youtube.com/watch?v=JwGyVB_etaA)) |
 

@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x89m9g8",
+    "fuente": "Dailymotion (JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler original de Hollow Knight (Team Cherry, 2017), 2:03",
+    "para_que": "fotogramas de escenas icónicas y poses del Caballero (punto 2 y 14)",
+    "licencia": "vídeo oficial de Team Cherry, republicado por medio de prensa"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9p91g8",
+    "fuente": "Dailymotion (JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler de lanzamiento de Hollow Knight: Silksong (Team Cherry, sep-2025), 1:53, 501 031 vistas",
+    "para_que": "fotogramas de escenas icónicas y poses de Hornet (punto 2 y 14)",
+    "licencia": "vídeo oficial de Team Cherry, republicado por medio de prensa"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89msuk",
+    "fuente": "Dailymotion (JeuxVideo.com)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler «Voidheart Edition», 1:06",
+    "para_que": "referencia de vídeo adicional (punto 10)",
+    "licencia": "vídeo oficial de Team Cherry, republicado por medio de prensa"
+  },
+  {
+    "url": "https://archive.org/details/official-hollow-knight-original-soundtrack",
+    "fuente": "Internet Archive",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Banda sonora original de Hollow Knight (Christopher Larkin, 2017), audio completo, 47 306 descargas",
+    "para_que": "música y ambiente de cada zona (punto 9)",
+    "licencia": "subida por usuario a Internet Archive, comprobar licencia antes de reusar audio"
+  },
+  {
+    "url": "https://archive.org/details/hollow-knight-silksong-ost",
+    "fuente": "Internet Archive",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Banda sonora de Hollow Knight: Silksong (Christopher Larkin, sep-2025)",
+    "para_que": "música y ambiente de Silksong (punto 9)",
+    "licencia": "subida por usuario a Internet Archive, comprobar licencia antes de reusar audio"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/9df7cf82-6ea3-4021-829f-f2192977ac8d",
+    "fuente": "MusicBrainz",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de catálogo de la banda sonora original de Hollow Knight",
+    "para_que": "confirmar compositor y fecha (punto 9)",
+    "licencia": "datos abiertos MusicBrainz (CC0)"
+  },
+  {
+    "url": "https://cogconnected.com/feature/hollow-sounds-how-the-music-of-hollow-knight-tells-its-story/",
+    "fuente": "CogConnected",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo de análisis sobre la música de Hollow Knight, incluye el tema City of Tears",
+    "para_que": "texto y contexto emocional de la música (punto 9)",
+    "licencia": "artículo editorial, sólo como fuente de texto, no reusar imágenes"
+  },
+  {
+    "url": "https://virtualbastion.com/2019/07/28/resonance-city-of-tears/",
+    "fuente": "Virtual Bastion",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo de análisis del tema musical City of Tears",
+    "para_que": "segunda fuente del dato del tema diegético (punto 9)",
+    "licencia": "artículo editorial, sólo como fuente de texto"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong",
+    "fuente": "Wikipedia",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo enciclopédico sobre Silksong: fecha de lanzamiento, ventas, historia del anuncio",
+    "para_que": "datos de tendencias y ventas (punto 10)",
+    "licencia": "CC BY-SA, texto reusable citando la fuente"
+  },
+  {
+    "url": "https://archive.org/details/youtube-XVCApKpayd0",
+    "fuente": "Internet Archive (espejo de YouTube)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Hollow Knight: Silksong Hands-On Demo, E3 2019",
+    "para_que": "prueba en vídeo del anuncio 6 años antes del lanzamiento (punto 10)",
+    "licencia": "subida por usuario, espejo de vídeo de prensa"
+  },
+  {
+    "url": "https://archive.org/details/hollow-knight-silksong-switch-gameplay",
+    "fuente": "Internet Archive",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Gameplay de Hollow Knight: Silksong en Switch, 6 933 descargas",
+    "para_que": "referencia de vídeo de gameplay (punto 10)",
+    "licencia": "subida por usuario a Internet Archive"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hollowknight/images/6/64/Screenshot_HK_Fungal_Wastes_07.png",
+    "fuente": "Fandom (wiki hollowknight)",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Captura oficial de la zona Fungal Wastes (galería de screenshots de la wiki)",
+    "para_que": "referencia de la paleta medida para Fungal Wastes (punto 4)",
+    "licencia": "captura del juego, uso de referencia bajo la wiki de fans"
+  }
+]

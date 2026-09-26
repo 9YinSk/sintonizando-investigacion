@@ -928,7 +928,7 @@ El opening 1 del punto 2 ([KENBO en Dailymotion](https://www.dailymotion.com/vid
 | Obra | Votos | Por qué se parece |
 |---|---|---|
 | *Cautious Hero* | 1107 | Otro isekai de parodia con héroe raro |
-| *Combatants Will Be Dispatched!* | 373 | Del mismo autor, Natsume Akatsuki ⚠️ (dato no dicho en las partes: comprobar) |
+| *Combatants Will Be Dispatched!* | 373 | Comedia de fantasía; ¿mismo autor? sin comprobar ⚠️ |
 | *Princess Connect! Re:Dive* | 299 | Grupo desastre, comedia de fantasía |
 | *The Devil is a Part-Timer!* | 256 | Fantasía con problemas de dinero diarios |
 | *Uncle from Another World* | 226 | Isekai visto con humor |
@@ -952,3 +952,79 @@ El opening 1 del punto 2 ([KENBO en Dailymotion](https://www.dailymotion.com/vid
 - ***Tsukimichi*** (biblia 87), la más cercana en tono: #ofertas-y-gratis, #presentaciones y #reto-de-la-semana (este último ya compartido con *Mushoku Tensei*).
 
 **Conclusión:** si Konosuba va a #presentaciones o #reto-de-la-semana, ya hay dos o tres isekai ahí. Que se distinga por **la comedia y la Explosión**, no por ser «otro isekai». Repetir canal no bloquea nada: la biblia es general.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** ([AniList](https://anilist.co/anime/21202) y la [wiki](https://konosuba.fandom.com/wiki/Terminology)) ✅:
+
+1. Si mueres en Japón, un dios te deja renacer en un mundo de fantasía con un regalo. Kazuma elige a la diosa Aqua, que resulta inútil.
+2. Hay un Rey Demonio de verdad, y alguien tiene que vencerlo.
+3. El mundo funciona como un juego de rol: niveles, puntos de habilidad, carnet con estadísticas y un Gremio que reparte misiones.
+4. El dinero es el **eris**, y dos religiones rivales, Axis y Eris, se pelean los fieles.
+5. Pagar el alquiler y comer pesa más que la aventura. Esa es la broma central.
+
+**La historia por arcos.** Novela ligera de 17 tomos, más spin-offs de Megumin (*Bakuen*, 4 tomos) y de Darkness (*Kyakkou*, 6 tomos). Según el director Kanasaki ([ddnavi](https://ddnavi.com/article/d574070/a/)), cada arco enfrenta al grupo con **un general distinto del Rey Demonio**, cada uno con su comedia ✅:
+
+1. **Llegada a Axel.** Kazuma y Aqua, sin un eris, cazan ranas gigantes para sobrevivir.
+2. **Beldia, el Dullahan**, caballero sin cabeza. Lo vencen con una trampa, no con fuerza: ganan por ingenio y suerte.
+3. **La aldea de los Demonios Carmesí** y el pasado de Megumin.
+4. **Vanir y la tienda de Wiz.** Un archidemonio trabaja de dependiente: comedia de convivencia con el enemigo.
+5. **Película *Legend of Crimson*** (J.C.Staff): la general Sylvia. El director tuvo que «decidir primero cuál era la justicia de Sylvia». Acaba con la explosión en forma de corazón (punto 21).
+6. **Temporada 3** (2024, Studio Drive) y temporada 4 anunciada para 2027 ⚠️. El asalto final al castillo del Rey Demonio **no está adaptado** todavía ⚠️.
+
+**El sistema de juego.** El carnet de aventurero tiene siete estadísticas: Fuerza (筋力), Vitalidad (生命力), Inteligencia (知力), Poder Mágico (魔力), Destreza (器用度), Agilidad (敏捷性) y Suerte (幸運). También lleva el nivel y la lista de monstruos cazados ✅. Aqua lo enseña a cámara en nº121 (punto 14).
+
+**El dinero.** El eris va en monedas de cobre, plata, oro y mithril, y también en billetes. Una moneda de mithril vale 1 000 000 de eris. Según Aqua, 1 eris es más o menos 1 yen ✅.
+
+**Grupos y emblemas:**
+
+- **Gremio de Aventureros** (del gobierno), Gremio de Mercaderes, Gremio de Magos (controla los pergaminos), Asociación de Cazadores e Instituto de Investigación Mágica ✅.
+- **Orden de Axis** (culto de Aqua): unos pocos cientos de fieles, sede en Arcanletia, pagada con las aguas termales que Aqua volvió agua bendita. Símbolo: [AxisCult.png](https://static.wikia.nocookie.net/konosuba/images/1/17/AxisCult.png) (480×480) ✅.
+- **Orden de Eris** (diosa de la fortuna): fe del Reino de Belzerg. La familia de Darkness, los Dustiness, le es fiel. Cada verano celebran el Festival de Apreciación a Eris ([wiki](https://konosuba.fandom.com/wiki/Eris_Order)) ✅. Símbolo: Faith.png (punto 19).
+- **Demonios Carmesí** (紅魔族), la tribu de Megumin: magos de ojos rojos que brillan al emocionarse, con un tatuaje de código de barras de nacimiento. Todos son chūnibyō: cada uno tiene su pose y su frase de presentación ([wiki](https://konosuba.fandom.com/wiki/Crimson_Demons)) ✅. No encontré un blasón propio ⚠️.
+
+**Objetos que un fan reconoce al instante:** el sombrero y el báculo de Megumin, la botella de espumante de Aqua, el espadón y la armadura dorada de Darkness, el carnet de aventurero, el tablón de misiones del Gremio, el gato Chomusuke.
+
+**Vocabulario propio:** eris, Gremio, carnet de aventurero, puntos de habilidad, **Durian Quest** (misión que nadie quiere por mala paga), Rey Demonio, general del Rey Demonio, Orden de Axis, Orden de Eris, Demonios Carmesí, «Paladín» (así llama el doblaje a la clase de Darkness), «¡Explosión!», «¡Purificación!», «Waga na wa Megumin».
+
+## Tres conceptos de lámina
+
+Konosuba no tiene canal. Propongo tres; que otra serie ya use el mismo canal no es problema (punto 24). Los tres usan el **cuadro de pergamino** del juego oficial (punto 6): relleno `#CCB47A`, cinta del nombre `#D4AE67`, borde `#C08E53`. Letra: **Tiki Tropic** para títulos y «¡EXPLOSIÓN!»; **Anime Ace 2.0 BB** para lo que dicen (¿ y ¡ con Noto Sans). Tono luminoso y línea marrón (punto 18). Nada de fanservice.
+
+### Concepto 1 · #presentaciones · «El carnet de aventurero»
+
+- **Objeto real en sitio real:** un **carnet de aventurero** de cartón y cuero sobre el **mostrador de madera del Gremio de Axel**. Se hace en **Blender**: tarjeta con esquinas gastadas, funda de cuero (`Leather030`), mostrador `WoodFloor043`, papel `Paper003` (texturas CC0, punto 19). Al lado, una jarra y monedas de eris.
+- **Personaje:** **Megumin** presentándose, pose de firma: mano en V junto al ojo y pierna adelantada (**nº44**), o brazo y báculo extendidos del [origen, 3:04](https://www.dailymotion.com/video/x8prbvb?t=184). Cara orgullosa, ojos rojos. Detrás, de pie en la mesa, **Aqua** enseñando su propio carnet (**nº121**), más pequeña.
+- **Cómo habla:** pergamino con la cinta «Megumin»: «¡Mi nombre es Megumin! Archimaga, maestra de la Explosión. ¿Y tú quién eres?» (punto 17). Anime Ace.
+- **Dónde va cada texto:**
+  - Título del carnet, en Tiki Tropic: «PRESENTACIONES».
+  - Las siete estadísticas del carnet (punto 25) se cambian por los pasos de la ficha: de dónde eres, qué haces (doblaje, canto, locución, edición, arte, escritura), qué buscas.
+  - Sello en la esquina: «Es opcional».
+  - Cinta roja `#8B1E1E` abajo: «Abre TU hilo con la plantilla fijada».
+- **Lámina 2:** las 12 etiquetas del foro como casillas marcadas del carnet (Sudamérica, México, Centroamérica y Caribe, España, Otro país, Doblaje, Canto, Locución, Edición, Arte, Escritura, Hacer amigos).
+- **Que no quede plano:** luz cálida de taberna desde una ventana a la izquierda. La jarra y las monedas desenfocadas delante. El carnet en perspectiva, con sombra en la madera. Megumin recortada con `v3/integrar.py`, pisando el mostrador, no flotando.
+
+### Concepto 2 · #reto-de-la-semana · «El tablón de misiones del Gremio»
+
+- **Objeto real en sitio real:** el **tablón de misiones** de madera del Gremio, con papeles clavados con chinchetas. Se hace en **Blender**: tablones `Planks037A`, papeles `Paper001`-`Paper006` que se doblan y levantan por las esquinas; la tinta sigue la arruga.
+- **Personaje:** **Kazuma** señalando el papel del reto con cara de «esto es fácil» ([last fight, 1:00](https://www.dailymotion.com/video/x4wslwi?t=60): señala y alza una ceja). Detrás, **Aqua** subida a una mesa con el puño en alto, arengando (**nº14**).
+- **Cómo habla:** pergamino con la cinta «Kazuma»: «Léete el reto. Una vez. No como Aqua.» (punto 17). Aqua, en grito de Anime Ace Bold: «¡Yo lo hago primero!» (inventada, en su voz).
+- **Dónde va cada texto:**
+  - Cabecera del tablón, en Tiki Tropic: «RETO DE LA SEMANA».
+  - Papel grande en el centro: el reto de ejemplo. Propuesta: **el conjuro de Megumin**, del «Darker than black…» al «¡Explosión!» (punto 9). Una línea, una escena, un tono.
+  - Papel pequeño clavado: «Se entrega dentro del hilo del reto».
+  - Papel medio arrancado y con mancha: «No se gana nada. Esa es la gracia». Guiño a las **Durian Quest**, las misiones que nadie quiere por mala paga (punto 25).
+- **Lámina 2:** las 8 etiquetas como sellos de tinta sobre papeles del tablón (Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, Con trampa, Libre). «Cerrado» con el papel tachado.
+- **Que no quede plano:** luz de mediodía de Axel entrando de lado (`#A1DAF3` en la ventana, piedra `#EEECE6`, punto 16). Una jarra de Aqua y el borde de una silla delante, fuera de foco. Sombra de los papeles sobre la madera.
+
+### Concepto 3 · #castings · «El pergamino de la Explosión»
+
+- **Objeto real en sitio real:** un **pergamino de reclutamiento** enrollado por los dos extremos, atado con cinta roja `#8B1E1E` y sellado con el símbolo de la Orden de Axis ([AxisCult.png](https://static.wikia.nocookie.net/konosuba/images/1/17/AxisCult.png)). Está clavado en un poste de madera en el **campo verde junto a la muralla** (tráiler T3, [1:20](https://www.dailymotion.com/video/x8tpkt4?t=80)). Se hace en **Blender**: papel `Paper004`, cinta de tela `Fabric061`, lacre.
+- **Personaje:** **Darkness** delante del poste, espadón en alto como en el opening (1:24), con cara de ilusión desmedida. Al fondo, **Megumin** de espaldas lanzando la Explosión.
+- **Cómo habla:** pergamino con la cinta «Darkness»: «¡Aceptaré cualquier papel! Cuanto más duro, mejor.» (inventada, en su voz). Con puntos suspensivos si se sonroja (punto 17).
+- **Dónde va cada texto:**
+  - Cabecera del pergamino, en Tiki Tropic: «CASTINGS».
+  - Cuerpo: «Cada casting es un hilo».
+  - Cinta roja cortada en la parte de abajo: «Ciérralo cuando el papel esté cubierto».
+- **Lámina 2:** las 15 etiquetas como sellos en el pergamino (Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro, Pagado, Sin paga, Abierto, Cerrado, Urgente, Oficial del servidor, Canto, +18). Abierto en verde hierba `#57773D`, Cerrado en rojo `#8B1E1E`.
+- **Que no quede plano:** la Explosión detrás da el contraluz: naranja `#E28F59`, fogonazo `#FAE1AA` y halo rosa `#FFD8FF` (puntos 4 y 6). La luz de la explosión recorta el borde de Darkness y del pergamino. Hierba en primer plano, con motas de polvo delante.
