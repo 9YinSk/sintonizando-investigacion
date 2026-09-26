@@ -24,7 +24,14 @@ async def navegar(url, selector, espera, html, captura):
     from playwright.async_api import async_playwright
     async with async_playwright() as p:
         exe = os.environ.get("PLAYWRIGHT_CHROMIUM")
-        b = await p.chromium.launch(headless=True, executable_path=exe) if exe else await p.chromium.launch(headless=True)
+        try:
+            b = await p.chromium.launch(headless=True, executable_path=exe) if exe else await p.chromium.launch(headless=True)
+        except Exception:
+            # pip subió playwright y su navegador no está: usar el Chromium que trae la máquina
+            otro = next((c for c in ("/opt/pw-browsers/chromium", "/usr/bin/chromium", "/usr/bin/chromium-browser") if os.path.exists(c)), None)
+            if not otro:
+                raise
+            b = await p.chromium.launch(headless=True, executable_path=otro)
         ctx = await b.new_context(user_agent=UA, locale="es-MX", viewport={"width": 1366, "height": 900})
         pg = await ctx.new_page()
         r = await pg.goto(url, wait_until="domcontentloaded", timeout=45000)
