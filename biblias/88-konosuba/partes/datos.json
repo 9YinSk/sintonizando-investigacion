@@ -170,6 +170,86 @@
   "origen": "recolectar.py"
  },
  {
+  "url": "https://static.wikia.nocookie.net/konosuba/images/2/22/Kazuma-anime.png",
+  "fuente": "Fandom konosuba",
+  "ancho": 1142,
+  "alto": 2322,
+  "que_es": "Kazuma Satou: Kazuma-anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/konosuba/images/7/73/Kazuma_Sat%C5%8D_Tracksuit.png",
+  "fuente": "Fandom konosuba",
+  "ancho": 1142,
+  "alto": 2322,
+  "que_es": "Kazuma Satou: Kazuma Satō Tracksuit.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/konosuba/images/7/72/Turn_Undead.jpg",
+  "fuente": "Fandom konosuba",
+  "ancho": 2304,
+  "alto": 2411,
+  "que_es": "Aqua: Turn Undead.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/konosuba/images/6/67/Support_Buffs.jpg",
+  "fuente": "Fandom konosuba",
+  "ancho": 2304,
+  "alto": 1296,
+  "que_es": "Aqua: Support Buffs.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/konosuba/images/7/7b/Finishing_Beldia.jpg",
+  "fuente": "Fandom konosuba",
+  "ancho": 2304,
+  "alto": 1296,
+  "que_es": "Aqua: Finishing Beldia.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/konosuba/images/1/14/Aqua-anime.png",
+  "fuente": "Fandom konosuba",
+  "ancho": 288,
+  "alto": 614,
+  "que_es": "Aqua: Aqua-anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/konosuba/images/3/3f/Megumin-anime.png",
+  "fuente": "Fandom konosuba",
+  "ancho": 300,
+  "alto": 600,
+  "que_es": "Megumin: Megumin-anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/konosuba/images/d/d9/Darkness-anime.png",
+  "fuente": "Fandom konosuba",
+  "ancho": 300,
+  "alto": 630,
+  "que_es": "Darkness: Darkness-anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
   "url": "https://safebooru.org/images/3532/3baa7f4409cb812c75420fcf4fd22a4af456a5f5.png",
   "fuente": "Safebooru (fan art)",
   "ancho": 1368,

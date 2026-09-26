@@ -1,16 +1,69 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Konosuba
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/21202_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/21202-UWijdV7RMnXo.jpg
+
+## Kazuma Satou: las imágenes más grandes de la wiki (2 en total)
+_Fuente: https://konosuba.fandom.com/wiki/Kazuma_Satou_
+
+- 1142×2322 · Kazuma-anime.png · https://static.wikia.nocookie.net/konosuba/images/2/22/Kazuma-anime.png
+- 1142×2322 · Kazuma Satō Tracksuit.png · https://static.wikia.nocookie.net/konosuba/images/7/73/Kazuma_Sat%C5%8D_Tracksuit.png
+
+## Kazuma Satou · Appearance (texto de la wiki)
+_Fuente: https://konosuba.fandom.com/wiki/Kazuma_Satou#Appearance_
+
+Kazuma is an ordinary and weak-looking, plain faced young man of around 5'5" (165 cm), weighing 120 lb (55 kg) with slightly messy chestnut-brown hair and green eyes (brown eyes in the novels). His usual outfit initially was a green tracksuit, but later he started using an adventurer outfit consisting of a gold-trimmed green mantle, white shirt, pants, and leather boots. He wore a short sword on his belt, later replaced by his short katana, Chunchunmaru.
+
+## Aqua: las imágenes más grandes de la wiki (4 en total)
+_Fuente: https://konosuba.fandom.com/wiki/Aqua_
+
+- 2304×2411 · Turn Undead.jpg · https://static.wikia.nocookie.net/konosuba/images/7/72/Turn_Undead.jpg
+- 2304×1296 · Support Buffs.jpg · https://static.wikia.nocookie.net/konosuba/images/6/67/Support_Buffs.jpg
+- 2304×1296 · Finishing Beldia.jpg · https://static.wikia.nocookie.net/konosuba/images/7/7b/Finishing_Beldia.jpg
+- 288×614 · Aqua-anime.png · https://static.wikia.nocookie.net/konosuba/images/1/14/Aqua-anime.png
+
+## Aqua · Appearance (texto de la wiki)
+_Fuente: https://konosuba.fandom.com/wiki/Aqua#Appearance_
+
+Kazuma describes Aqua to possess beauty no human could match, with a soft and gentle aura. Her hair and eyes had the translucent blue of the sea on a clear day, and she has a slim figure with large breasts, long legs, wide hips, and waist-long blue hair that is partially tied into a loop with a spherical clip. Aqua measures 83/56/83 cm (or 33/22/33 in) for her B/W/H (Bust/Waist/Hip) respectively, stands at 5'4" (or 162 cm) tall and weighs 132lbs (or 59.9kg). Aqua's outfit isn't too revealing, but doesn't hide anything, consisting of a sleeveless dark-blue vest with white trimmings, a short dark-blue microskirt, a green bow around her chest with a blue gem in the middle, a translucent purple underskirt, and detached white sleeves with blue and golden trimmings. She wears thigh-high blue-heeled boots over white stockings with blue trimmings. Sometimes Aqua wears a divine relic in the form…
+
+## Megumin: las imágenes más grandes de la wiki (1 en total)
+_Fuente: https://konosuba.fandom.com/wiki/Megumin_
+
+- 300×600 · Megumin-anime.png · https://static.wikia.nocookie.net/konosuba/images/3/3f/Megumin-anime.png
+
+## Megumin · Appearance (texto de la wiki)
+_Fuente: https://konosuba.fandom.com/wiki/Megumin#Appearance_
+
+Megumin is a young girl with shoulder-length brunette hair (smooth black in light novel) and oddly languid crimson-colored eyes. She has fair skin, doll-like features (being a Lolita type) and a light complexion. Like many Evil Eye Chūnibyō characters, Megumin wears a eyepatch to "seal her power" and bandages in her right leg. Megumin wears a classical witch attire such as a black cloak, a red robe, orange boots and a black wizard's hat, all with gold border and trimmings, alongside black choker, belt, a black stocking in the left leg and fingerless gloves. She carries a brown staff with a floating blue gem that was later updated with a red gem.
+
+## Darkness: las imágenes más grandes de la wiki (1 en total)
+_Fuente: https://konosuba.fandom.com/wiki/Darkness_
+
+- 300×630 · Darkness-anime.png · https://static.wikia.nocookie.net/konosuba/images/d/d9/Darkness-anime.png
+
+## Darkness · Appearance (texto de la wiki)
+_Fuente: https://konosuba.fandom.com/wiki/Darkness#Appearance_
+
+Darkness is a 5'6" tall young woman with graceful features and alabaster skin. She is well-endowed and also has light blue eyes and straight, long blonde hair with orange tips, usually kept in a ponytail tied with a braid and red hair clips secured on both sides of her bangs. According to Kazuma, she is "drop-dead gorgeous". She is usually seen using a yellow and black sleeveless dress with silver trimmings, black chainmail, and a silver armor composed of metal greaves, sabatons, tasset, shoulder plate on her left side, wing-like cloth perched upon her right shoulder, a cuirass adorned with a yellow diamond-shaped jewel, and a red bow above. Underneath her armor, she wears a skintight black bodysuit that covers her from the neck down. *** Darkness has straight, long blonde hair with orange tips, kept in a high ponytail tied with a braid and secured with red cross-shaped hair clips on…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de konosuba.fandom.com (4 páginas y sus galerías)…
+  936 imágenes enlazadas, 845 grandes → 18 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/konosuba
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

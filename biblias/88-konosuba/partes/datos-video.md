@@ -1,10 +1,10 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Konosuba
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## Tráiler y enlaces oficiales (AniList)
 _Fuente: https://anilist.co/anime/21202_
@@ -26,24 +26,24 @@ _Fuente: https://api.dailymotion.com_
 - 5 Minutes Season Anime - Winter 2016 - Kono Subarashii Sekai ni Shukufuku wo! - KonoSuba… · 6:59 · FiveMinutesRandom -Lost Episodes- · 133 vistas · https://www.dailymotion.com/video/x3nuenw
 - Kono Subarashii Sekai ni Shukufuku Wo ! ~ Noroi no Ibutsu to Madoishi Bokensha-tachi ~… · 1:38 · Gamekult · 123 vistas · https://www.dailymotion.com/video/x8c3jun
 - この素晴らしい世界に祝福を！Kono Subarashii Sekai ni Shukufuku wo! ダクネス【ぶっ殺してやる】Dakunes [to kill] · 0:17 · Redzoneofyou · 123 vistas · https://www.dailymotion.com/video/x5dvufd
-- Kono Subarashii Sekai ni Shukufuku wo! 2 - Episode 9 - Kazuma Eavesdropping on Megumin · 0:26 · Dedire · 112 vistas · https://www.dailymotion.com/video/x5tpr3v
+- Kono Subarashii Sekai ni Shukufuku wo! 2 - Episode 9 - Kazuma Eavesdropping on Megumin · 0:26 · Dedire · 113 vistas · https://www.dailymotion.com/video/x5tpr3v
 **«Kono Subarashii Sekai ni Shukufuku wo! ending»**
 - Kono Subarashii Sekai ni Shukufuku wo! 2: God's Blessings on This Wonderful Work Of Art!… · 0:34 · JustWatch · 434 vistas · https://www.dailymotion.com/video/x9q685u
 - この素晴らしい世界に祝福を！Kono Subarashii Sekai ni Shukufuku wo! おしっこを我慢するめぐみん Megumin to endure pee · 1:55 · Redzoneofyou · 245 vistas · https://www.dailymotion.com/video/x5dvv97
 - 5 Minutes Season Anime - Winter 2016 - Kono Subarashii Sekai ni Shukufuku wo! - KonoSuba… · 6:59 · FiveMinutesRandom -Lost Episodes- · 133 vistas · https://www.dailymotion.com/video/x3nuenw
 - Kono Subarashii Sekai ni Shukufuku Wo ! ~ Noroi no Ibutsu to Madoishi Bokensha-tachi ~… · 1:38 · Gamekult · 123 vistas · https://www.dailymotion.com/video/x8c3jun
 - この素晴らしい世界に祝福を！Kono Subarashii Sekai ni Shukufuku wo! ダクネス【ぶっ殺してやる】Dakunes [to kill] · 0:17 · Redzoneofyou · 123 vistas · https://www.dailymotion.com/video/x5dvufd
-- Kono Subarashii Sekai ni Shukufuku wo! 2 - Episode 9 - Kazuma Eavesdropping on Megumin · 0:26 · Dedire · 112 vistas · https://www.dailymotion.com/video/x5tpr3v
+- Kono Subarashii Sekai ni Shukufuku wo! 2 - Episode 9 - Kazuma Eavesdropping on Megumin · 0:26 · Dedire · 113 vistas · https://www.dailymotion.com/video/x5tpr3v
 **«Kono Subarashii Sekai ni Shukufuku wo! trailer»**
 - Kono Subarashii Sekai ni Shukufuku wo! 2: God's Blessings on This Wonderful Work Of Art!… · 0:34 · JustWatch · 434 vistas · https://www.dailymotion.com/video/x9q685u
 - この素晴らしい世界に祝福を！Kono Subarashii Sekai ni Shukufuku wo! おしっこを我慢するめぐみん Megumin to endure pee · 1:55 · Redzoneofyou · 245 vistas · https://www.dailymotion.com/video/x5dvv97
 - 5 Minutes Season Anime - Winter 2016 - Kono Subarashii Sekai ni Shukufuku wo! - KonoSuba… · 6:59 · FiveMinutesRandom -Lost Episodes- · 133 vistas · https://www.dailymotion.com/video/x3nuenw
 - Kono Subarashii Sekai ni Shukufuku Wo ! ~ Noroi no Ibutsu to Madoishi Bokensha-tachi ~… · 1:38 · Gamekult · 123 vistas · https://www.dailymotion.com/video/x8c3jun
 - この素晴らしい世界に祝福を！Kono Subarashii Sekai ni Shukufuku wo! ダクネス【ぶっ殺してやる】Dakunes [to kill] · 0:17 · Redzoneofyou · 123 vistas · https://www.dailymotion.com/video/x5dvufd
-- Kono Subarashii Sekai ni Shukufuku wo! 2 - Episode 9 - Kazuma Eavesdropping on Megumin · 0:26 · Dedire · 112 vistas · https://www.dailymotion.com/video/x5tpr3v
+- Kono Subarashii Sekai ni Shukufuku wo! 2 - Episode 9 - Kazuma Eavesdropping on Megumin · 0:26 · Dedire · 113 vistas · https://www.dailymotion.com/video/x5tpr3v
 **«Konosuba escena»**
 - Konosuba - Trailer de la OVA · 0:30 · Espinof · 48679 vistas · https://www.dailymotion.com/video/x9avkfi
-- KonoSuba - Video 10 aniversario · 5:24 · Espinof · 5934 vistas · https://www.dailymotion.com/video/xasu3fq
+- KonoSuba - Video 10 aniversario · 5:24 · Espinof · 5936 vistas · https://www.dailymotion.com/video/xasu3fq
 - KonoSuba! - Trailer de la temporada 3 · 1:23 · Espinof · 3960 vistas · https://www.dailymotion.com/video/x8qy7et
 - Konosuba. Un mundo maravilloso Tráiler VOS · 1:55 · Sensacine · 2572 vistas · https://www.dailymotion.com/video/x8bc7w9
 - Konosuba - Trailer de la temporada 3 · 0:38 · Espinof · 2080 vistas · https://www.dailymotion.com/video/x8obsuz
@@ -77,8 +77,8 @@ _Fuente: https://musicbrainz.org_
 - WO LONG: FALLEN DYNASTY ORIGINAL SOUND TRACK · 末廣健一郎 · 2023-03-03 · https://musicbrainz.org/release-group/bf03c4be-03b1-40e3-b320-bf952a041355
 - Suspiria Intermezzo - Wo die Seelen sterben · Samsas Traum · 2021-11-27 · https://musicbrainz.org/release-group/8d42801d-c742-40c6-b6a3-2d8d2a209b16
 - Ashita Wo Narase - Fairy Tail Zero Opening · Amy B · ? · https://musicbrainz.org/release-group/b18c13f8-5ef7-4a7d-ad59-de41b4425e61
-- エースをねらえ! · 少年探偵団 · 1979-07-21 · https://musicbrainz.org/release-group/ecdc4ecd-77bc-4288-aded-8ccb3d074738
 - TVアニメ『この素晴らしい世界に祝福を!2』サントラ&ドラマCD Vol.3「受難の日々に福音を!」 · 甲田雅人 · 2017-03-22 · https://musicbrainz.org/release-group/1c8bf8de-25f9-43f3-9c7c-969c1b94bdb4
+- エースをねらえ! · 少年探偵団 · 1979-07-21 · https://musicbrainz.org/release-group/ecdc4ecd-77bc-4288-aded-8ccb3d074738
 - 君をのせて · 井上あずみ Azumi Inoue · 1988-03-25 · https://musicbrainz.org/release-group/291c90bf-8c74-4a72-9bcd-35ca4e04795a
 - 舟を編む オリジナルサウンドトラック · 池頼広 · 2016-12-21 · https://musicbrainz.org/release-group/877a9f1c-3cd8-4ae9-a069-fab4f5183d46
 - あの丘をめざして · ボケモン5 · 2002-07-10 · https://musicbrainz.org/release-group/eac3b72d-fdab-4d64-9526-03776a8923dc
