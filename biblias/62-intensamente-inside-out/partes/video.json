@@ -160,5 +160,77 @@
     "que_es": "Lista de las 27 pistas del álbum «Inside Out 2: Original Motion Picture Soundtrack» (Andrea Datzman, 2024)",
     "para_que": "Punto 9: música y sonido, pistas clave con duración exacta",
     "licencia": "Datos abiertos de MusicBrainz (CC0); el audio en sí es copyright de Disney/Pixar/Walt Disney Records"
+  },
+  {
+    "url": "https://insideout.fandom.com/wiki/Bing_Bong",
+    "fuente": "Inside Out Wiki (Fandom, vía api.php)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del personaje Bing Bong, confirma que acompaña a Alegría y Tristeza por la Memoria a Largo Plazo",
+    "para_que": "Punto 2: segunda fuente que confirma el lugar y la acción de la escena icónica 1",
+    "licencia": "CC-BY-SA (Fandom); texto de la wiki, no imagen"
+  },
+  {
+    "url": "https://insideout.fandom.com/wiki/We_Can_Still_Stop_Her",
+    "fuente": "Inside Out Wiki (Fandom, vía api.php)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la pista musical, confirma la escena del tubo hacia Cuartel General",
+    "para_que": "Punto 9: música y sonido, escena exacta de la pista",
+    "licencia": "CC-BY-SA (Fandom); texto de la wiki, no imagen"
+  },
+  {
+    "url": "https://insideout.fandom.com/wiki/Tears_of_Joy",
+    "fuente": "Inside Out Wiki (Fandom, vía api.php)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la pista musical del Vertedero de Recuerdos",
+    "para_que": "Punto 9: música y sonido, escena exacta de la pista",
+    "licencia": "CC-BY-SA (Fandom); texto de la wiki, no imagen"
+  },
+  {
+    "url": "https://insideout.fandom.com/wiki/Inside_Out_2_(soundtrack)",
+    "fuente": "Inside Out Wiki (Fandom, vía api.php)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Lista de pistas y leitmotifs de la BSO de Intensamente 2 (Andrea Datzman)",
+    "para_que": "Punto 9: qué tema suena en la crisis de ansiedad y otras escenas clave",
+    "licencia": "CC-BY-SA (Fandom); texto de la wiki, no imagen"
+  },
+  {
+    "url": "https://moviemusicuk.us/2015/08/20/inside-out-michael-giacchino/",
+    "fuente": "MovieMusicUK (reseña profesional de banda sonora)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Reseña completa de la BSO de Intensamente (2015), describe «Tears of Joy» como solo de piano con marimba procesada",
+    "para_que": "Punto 9: descripción musical detallada de la escena más emotiva",
+    "licencia": "Texto con copyright del autor de la reseña; cita corta como fuente, no reproducir entero"
+  },
+  {
+    "url": "https://knowyourmeme.com/memes/subcultures/inside-out-2",
+    "fuente": "Know Your Meme",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de tendencias de Intensamente 2: vistas del teaser oficial, «me gusta» del anuncio en D23, memes relacionados",
+    "para_que": "Punto 10: vídeos y tendencias con cifras reales",
+    "licencia": "Texto con copyright de Know Your Meme; cita como fuente, no reproducir entero"
+  },
+  {
+    "url": "https://knowyourmeme.com/memes/first-look-at-inside-outs-new-emotion-character",
+    "fuente": "Know Your Meme",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del meme exploitable «First Look at Inside Out's New Emotion Character» (noviembre 2023)",
+    "para_que": "Punto 10: trend viral concreto con fecha y autor de origen",
+    "licencia": "Texto con copyright de Know Your Meme; cita como fuente, no reproducir entero"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Anxiety_(Inside_Out)",
+    "fuente": "Wikipedia (inglés)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del personaje Ansiedad: desarrollo con psicólogas asesoras y recepción crítica",
+    "para_que": "Punto 10: contexto de por qué se volvió viral; punto 2: confirma la escena real del ataque de pánico",
+    "licencia": "CC-BY-SA (Wikipedia); texto, no imagen"
   }
 ]

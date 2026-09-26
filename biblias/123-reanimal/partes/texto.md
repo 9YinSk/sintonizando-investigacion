@@ -118,3 +118,81 @@ La variable CSS `--yanonekaffeesatz-font` aparece en el HTML del sitio oficial
 aplicada a los botones rojos «Wishlist»/«Buy», pero **no se puede confirmar si
 carga de verdad esa letra** (no hay `@font-face` visible para ella en el HTML
 descargado): posible resto de la plantilla genérica de THQ Nordic ⚠️.
+
+## 18 · Estilo de dibujo y técnica (rigs y tramas: ver puntos 3 y 19)
+
+**Quién y con qué**
+- Desarrollado por **Tarsier Studios** (Suecia, los mismos creadores de *Little
+  Nightmares*), publicado por **THQ Nordic**, con **Unreal Engine 5** ·
+  Wikipedia (con referencia primaria del anuncio) ✅ https://en.wikipedia.org/wiki/Reanimal
+- Concept art de **Konstantin Kostadinov**, **Petrus Johansson**, **Jonas
+  (Steinick) Berlin** y **Lisbeth Moller Fly**, recopilado en el artbook
+  digital *Art of REANIMAL* · https://reanimal.fandom.com/wiki/Art_of_REANIMAL ✅
+  (créditos individuales sin confirmar quién hizo qué lámina más allá de lo
+  que dice la propia wiki) ⚠️
+- **Cámara dinámica compartida**: a diferencia de *Little Nightmares*, la
+  cámara sigue a los DOS hermanos a la vez para «maximizar la claustrofobia y
+  la tensión» y crear miedo compartido en cooperativo, según Wikipedia citando
+  el material de desarrollo ✅.
+- **Inspiración declarada por el estudio**: *It Takes Two*, *The Legend of
+  Zelda: The Wind Waker* y *Silent Hill 2* ✅ (mismo artículo de Wikipedia,
+  sección «Development»).
+
+**Cómo está pintado** (visto en 14 capturas oficiales de Steam)
+- **Claroscuro extremo**, como en *Little Nightmares*: 80-90 % del plano en
+  negro o azul muy oscuro, con una sola fuente cálida (mechero, farol, neón)
+  recortando a los niños ✅.
+- **Paleta fría dominante** (azules y grises apagados) con **acentos cálidos
+  puntuales**: neón rojo del cine, fuego, faros de coche — «smoky blues and
+  dim lighting... bright neon signs or car lights», TechRaptor ✅
+  https://techraptor.net/gaming/previews/tarsier-studios-reanimal-introduces-tense-and-terrifying-journey
+- **Suciedad y decadencia como textura constante**: «every corner of the world
+  is grey and decrepit, as if a layer of dust has settled atop the whole of
+  it» [cada rincón del mundo es gris y decrépito, como si una capa de polvo lo
+  cubriera todo], Gamecritics ✅ https://gamecritics.com/jason-ricci/reanimal-review/
+- **Niebla y volumen atmosférico** muy marcados en exteriores (bosque, puente
+  roto) para dar profundidad sin líneas de contorno duras ✅ (visto).
+- **Sin contorno tipo cómic** (no hay *toon shader* de línea negra): el
+  renderizado es realista/PBR con luz muy contrastada, no plano — coherente
+  con el «hiperrealismo lúgubre» que la prensa atribuye al estudio ✅.
+- **Escala niño-vs-mundo** como regla de composición, heredada de *Little
+  Nightmares* (comparar con punto 18 de 122-little-nightmares) ✅.
+
+**Encuadres y composición**
+- Plano general con los niños diminutos en el encuadre, cámara que casi no
+  corta a plano cercano en las capturas revisadas ✅.
+- Vista lateral en zonas de plataformas (la cornisa de hormigón, la pasarela
+  rota); vista frontal centrada en momentos de umbral (la reja circular del
+  barco-prisión) ✅.
+- Fuente de luz siempre motivada por un objeto de la escena (mechero, farol,
+  letrero, faro de camión), nunca luz ambiental plana — refuerza que la
+  oscuridad es la norma y la luz es un recurso escaso ✅.
+
+**Cómo reproducirlo en Photoshop** (propuesta del investigador; no se encontró
+tutorial oficial del estudio ⚠️)
+1. Base en 2-3 tonos de azul-gris oscuro y un acento cálido saturado (rojo
+   neón o ámbar de fuego); medir el hex exacto es tarea del investigador de
+   imagen (punto 4), aquí sólo se describe la relación de color.
+2. Capa Multiplicar al 85-95 % sobre casi toda la escena, con un agujero de
+   pincel suave alrededor de la fuente de luz.
+3. Ruido monocromático 3-5 % y una ligera niebla (capa blanca-azulada al
+   10-15 % con máscara degradada) en el fondo.
+4. Nada de línea de contorno negra: pintar con pinceles de borde suave, no de
+   cómic.
+5. Máscara de recorte (Clipping mask) para el brillo puntual del mechero o
+   farol sobre los personajes.
+
+**Cómo reproducirlo en Blender**
+1. *Shading* PBR estándar (Principled BSDF), rugosidad alta en ropa y tela;
+   nada de *toon shader* ni Freestyle (el juego no usa contorno de cómic).
+2. Una sola luz Point o Spot cálida como fuente motivada, World casi negro o
+   azul muy oscuro.
+3. Niebla volumétrica (Volume Scatter / Mist Pass) para el aire húmedo de la
+   isla.
+4. Cámara con distancia focal media (35-50 mm) y los personajes ocupando poco
+   del encuadre, para conservar la sensación de pequeñez.
+5. Compositor: grano fino, viñeta suave y un Bloom bajo sobre las fuentes de
+   luz cálida.
+6. Modelos y *rigs* libres del personaje: **ver puntos 3 y 19** (el
+   investigador de imagen ya trae los de Sketchfab: The Boy, The Girl, Mother,
+   Hood, Sniffer, Bandage).

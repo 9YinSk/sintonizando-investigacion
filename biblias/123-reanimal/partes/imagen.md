@@ -150,5 +150,5 @@ que citan es la cuenta oficial de X @TarsierStudios; confirmado abriendo cada
 - 3840×2160 · 15 ♥ · https://w.wallhaven.cc/full/je/wallhaven-je13ew.jpg · origen: https://x.com/TarsierStudios/status/1924505813994852432 · campo de flores amarillas con los dos niños, luz de luna · ✅
 - 1365×2048 (vertical, para celular) · 13 ♥ · https://w.wallhaven.cc/full/qr/wallhaven-qrddmq.jpg · mismo origen que el anterior, encuadre vertical · ✅
 - 1920×1080 · 4 ♥ · https://w.wallhaven.cc/full/je/wallhaven-je129w.png · subido por SAKAEIH, sin origen declarado · captura de juego en luz baja · ⚠️
-- No hay «fondos de pantalla de fans» aparte en alta resolución fuera de Wallhaven: se buscó en Wallpaper Engine (Steam) y en r/wallpapers con Arctic Shift, sin resultados con «reanimal». ⚠️ (no encontré, búsquedas hechas).
+- No encontré más fondos de fans en alta fuera de Wallhaven: probé Arctic Shift en r/wallpapers («reanimal», dio timeout, «Maybe slow down a bit») y el buscador HTML de Steam Workshop para Wallpaper Engine (no devolvió resultados visibles sin JavaScript). Ninguna de las dos búsquedas es concluyente; quedan pendientes si hace falta profundizar más.
 

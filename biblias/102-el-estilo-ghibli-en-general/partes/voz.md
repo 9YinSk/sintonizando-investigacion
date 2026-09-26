@@ -246,6 +246,51 @@ descargadas completas a `/tmp/claude-0/trabajo/102-voz/*.wikitext.txt`.)
   Hernández como Kiki, Enzo Fortuny como Tombo) · [Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Kiki%3A_Entregas_a_domicilio) · ✅
 - **Se levanta el viento (2013)** sólo tiene UN doblaje latino (México,
   reparto encabezado por Manuel Campuzano como Jiro Horikoshi) · [Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Se_levanta_el_viento) · ✅ (una película, pero el dato del reparto sale de la wiki y se puede cruzar con su ficha en IMDb si se necesita después)
+- **Nausicaä: Guerreros del viento (1984)** — completado en esta tanda (faltaba
+  en el «Sigue» anterior): sólo tiene UN doblaje latino propiamente dicho, el
+  de **Zima Entertainment, México 2010, estudio Tokio, dirección de Juan
+  Alfonso Carralero** (el mismo director dirigió a Totoro en Zima). Reparto:
+  Nausicaä = Mildred Barrera, Maestro Yupa = Moisés Palacios, Mito = Héctor
+  Miranda, Rey Jihl = Juan Alfonso Carralero (el propio director se dobla a
+  sí mismo un personaje), Princesa Kushana = Mariana Filio, Príncipe Asbel =
+  Gabriel Ortiz, Kurotowa = Eduardo Fonseca, Alcalde de Pejite = Gerardo
+  García, Obaba = Magda Giner, Lastelle = Mónica Estrada, Narración = Moisés
+  Palacios · [Doblaje Wiki (wikitext)](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Nausica%C3%A4:_Guerreros_del_viento) · ✅ (tabla completa de reparto, un solo doblaje así que no hay redoblaje que cruzar, pero la ficha técnica —estudio, director, año— es verificable en la propia página).
+  - **Nausicaä confirma el patrón de «fases sin doblaje latino» desde una
+    TERCERA página independiente** (las otras dos películas de esa lista ya
+    estaban confirmadas arriba desde sus propias páginas): la propia ficha de
+    Nausicaä dice que en Netflix sólo está disponible con doblaje de España
+    (+ japonés, inglés, alemán), en la «2ª fase» de estrenos Ghibli sin
+    doblaje latino, junto con El mundo secreto de Arrietty, El regreso del
+    gato, La leyenda de la princesa Kaguya y Mis vecinos los Yamada · [Doblaje Wiki — Nausicaä](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Nausica%C3%A4:_Guerreros_del_viento) · ✅ (tercera ficha independiente que confirma el mismo patrón de fases, ahora con las 3 fases —1ª, 2ª y 3ª— documentadas cada una desde una página distinta de la wiki).
+
+### La historia detrás de la «cláusula de no cortes» — el doblaje que cambió cómo se distribuye Ghibli en todo el mundo (relevante para el doblaje latino de hoy)
+
+- Antes de que Nausicaä tuviera su doblaje latino de Zima (arriba), Estados
+  Unidos hizo en 1985 un corte editado con New World Pictures/Manson
+  International titulado **«Warriors of the Wind»** («Guerreros del viento»):
+  **le quitó más de 20 minutos a la película y tradujo mal el diálogo a
+  propósito**, convirtiendo una fábula ecologista moralmente compleja en un
+  dibujo animado de acción típico de los 80 · [Doblaje Wiki — Guerreros del viento (wikitext)](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Guerreros_del_viento) + [ScreenRant](https://screenrant.com/nausicaa-worst-dub-anime-history-factoid/) · ✅✅.
+  - Dato muy citable para «cómo hablan en pantalla»: en ese corte editado, a
+    **Nausicaä la rebautizaron «Princesa Zandra»** (voz de Rocío Robledo en el
+    doblaje mexicano de esa versión editada, con Isidro Olace como director
+    en Los Ángeles) — cambiar hasta el nombre de la protagonista para
+    «occidentalizar» la venta · [Doblaje Wiki — Guerreros del viento (wikitext, tabla de reparto)](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Guerreros_del_viento) · ✅ (tabla de reparto propia, con el nombre «Princesa Zandra» explícito).
+  - **Consecuencia directa, documentada en dos fuentes independientes**:
+    Miyazaki, disgustado con el resultado, adoptó desde entonces una
+    **cláusula contractual de «no cortes» para TODAS las futuras
+    distribuciones internacionales de Ghibli** — nadie puede editar,
+    reestructurar ni cambiar el guion o la música de una película Ghibli sin
+    autorización · [SlashFilm](https://www.slashfilm.com/786405/the-reason-studio-ghibli-has-a-strict-no-edits-policy/) + [cinema.wisc.edu](https://cinema.wisc.edu/2016/09/06/when-nausicaa-became-warriors-wind/) · ✅✅.
+  - **Anécdota hermana, muy citada por el fandom, sobre la MISMA cláusula**:
+    cuando Miramax (Harvey Weinstein) quiso recortar La princesa Mononoke
+    para el mercado estadounidense, el productor **Toshio Suzuki le envió una
+    katana auténtica con un mensaje: «No cuts» («sin cortes»)** · [SlashFilm](https://www.slashfilm.com/786405/the-reason-studio-ghibli-has-a-strict-no-edits-policy/) · ⚠️ (una fuente en esta tanda, aunque es una anécdota muy repetida en medios de anime; sirve igual para «qué NO hacer»: no proponer nunca un doblaje o corte «adaptado» de una escena Ghibli como si fuera aceptable).
+  - Ghibli recuperó y lanzó en DVD (2005, EE.UU.) la versión íntegra de
+    117 minutos de Nausicaä, con nuevo doblaje y subtítulos mejorados, tras un
+    acuerdo de distribución entre Disney y Tokuma Shoten (entonces dueña de
+    Ghibli) en 1997 · [Wikipedia EN — Nausicaä of the Valley of the Wind (film)](https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(film)) · ✅.
 
 ### Dato importante: qué películas Ghibli NO tienen doblaje latino en streaming
 

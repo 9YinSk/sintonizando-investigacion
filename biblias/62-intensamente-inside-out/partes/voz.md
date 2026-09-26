@@ -15,7 +15,7 @@ AniList no sirve para esta obra (es cine, casi no tiene ficha ahí): la tabla qu
   a Película Animada Favorita · [Wikipedia — accolades de Inside Out 2](https://en.wikipedia.org/wiki/List_of_accolades_received_by_Inside_Out_2) +
   [Animation Magazine](https://www.animationmagazine.net/2025/06/inside-out-2-spongebob-squarepants-jack-black-win-big-at-2025-nickelodeon-kids-choice-awards/) (9-jun-2025) · ✅
 - La primera **Intensa mente** (2015) fue nominada al mismo premio en 2016 pero perdió contra
-  *Hotel Transylvania 2* · [Wikipedia — accolades de la película 2015](https://en.wikipedia.org/wiki/List_of_accolades_received_by_Inside_Out_(2015_film)) +
+  *Hotel Transylvania 2* · [Wikipedia — accolades de la película 2015](https://en.wikipedia.org/wiki/List_of_accolades_received_by_Inside_Out_%282015_film%29) +
   [Wikipedia — Kids' Choice Award for Favorite Animated Movie](https://en.wikipedia.org/wiki/Kids%27_Choice_Award_for_Favorite_Animated_Movie) · ✅
 - Ranking de fans (Looper, «10 Most Popular Inside Out Characters Ranked Worst To Best»):
   de peor a mejor valorado: 10 Jangles el payaso, 9 Papá, 8 Temor, 7 Desagrado, 6 Riley,
@@ -343,9 +343,9 @@ película.
   `arctic-shift.photon-reddit.com` con varios parámetros (`subreddit=insideout`,
   `title=favorite inside out`) y devolvió 0 resultados; puede que el subreddit tenga otro
   nombre o esté vacío en el archivo de Arctic Shift.
-- TV Tropes (`YMMV/InsideOut`, `TearJerker/InsideOut`) por curl y por `navegar.py`: curl dio
-  403, `navegar.py` dio error de certificado con ese dominio en concreto; se usó WebSearch para
-  sacar citas puntuales en su lugar (con menos detalle del que daría la página completa).
+- TV Tropes `YMMV/InsideOut` (chistes internos/opiniones de fans más allá de TearJerker): sólo
+  se leyó `TearJerker/InsideOut` con `navegar.py` (ya funciona, se arregló el certificado del
+  proxy); no dio tiempo a repasar también `YMMV` con el mismo detalle en esta tanda.
 - Wayback Machine (`web.archive.org`): bloqueado por la política de salida del contenedor en
   esta sesión (falla `ws_closed_mid_exchange` repetida, confirmado con
   `curl $HTTPS_PROXY/__agentproxy/status`); no se pudo usar como plan B para páginas caídas
@@ -376,5 +376,16 @@ película.
   `herramientas/fotogramas.py` (2 tráilers/teaser mirados fotograma a fotograma, 8 fotogramas
   propios guardados en `/tmp/claude-0/trabajo/62-intensamente-inside-out-voz/`).
 - Bloqueos anotados: stitchkingdom.com (503 en vivo, Wayback también bloqueado esta sesión),
-  TV Tropes (403 por curl, error de certificado por `navegar.py`), Arctic Shift sin resultados
-  para r/insideout, TikTok y YouTube sin acceso directo a video (sólo metadata por buscador).
+  Arctic Shift sin resultados para r/insideout, YouTube sin acceso directo a video (sólo
+  metadata por buscador). TV Tropes ya no está bloqueado (se arregló el certificado del proxy
+  en `navegar.py`: se releyó `TearJerker/InsideOut` con `--selector body` y confirmó la frase
+  original «Take her to the moon for me… okay?» de Bing Bong, la misma escena de la que salió
+  la adaptación al doblaje «Llévala a la Luna de mi parte» — y que Pete Docter comentó que
+  Richard Kind, su actor de voz original, casi llora al grabar esa línea).
+- Segunda pasada (26-sep-2026, tras aviso de `revisar_partes.py` de que la parte tenía sólo 1
+  dominio distinto enlazado): se convirtieron en enlaces reales todas las fuentes ya citadas
+  por nombre (Doblaje Wiki, Pixar Wiki, Wikipedia, Looper, Animation Magazine, Cinemablend,
+  Paul Ekman Group, Psychology Today, anniewright.com, NPR, Cedar Counseling, The Psychology
+  Group, Know Your Meme, TV Tropes, Infobae, TVAzteca, unotv, La Razón de México, Tomatazos,
+  El Universo, MTV News, TIME, TikTok) con `WebSearch` para confirmar la URL exacta de cada
+  una; ahora hay 24 dominios distintos enlazados (antes 1).
