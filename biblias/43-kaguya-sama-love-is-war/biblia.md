@@ -541,37 +541,37 @@ Filigrana ⚠️. Varios de fondo están como «¿?» en la propia Doblaje Wiki.
 Muestras oficiales de Doblaje Wiki transcritas con Whisper; tono y velocidad
 **medidos**, no de oído.
 
-- **Kaguya** (Jessica Ángeles), [audio](https://static.wikia.nocookie.net/doblaje/images/a/a9/Kaguya-Sama_Kaguya_Shinomiya_%28ESP-LA%29.ogg), 0:00-0:33:
+- **Kaguya** (Jessica Ángeles), [audio](https://static.wikia.nocookie.net/doblaje/images/a/a9/Kaguya-Sama_Kaguya_Shinomiya_%28ESP-LA%29.ogg/revision/latest?cb=20210810212110&path-prefix=es), 0:00-0:33:
   *«Estúpidos y vulgares plebeyos… ¿Qué ideas tan ridículas tienen sobre
   mí? Soy de la familia Shinomiya, el corazón de este país… Es sólo cuestión
   de tiempo.»* · grave (112 Hz), muy expresiva (18,7 semitonos), rápida
   (3,12 palabras/s) ✅
-- **Shirogane** (Enzo Fortuny), [audio](https://static.wikia.nocookie.net/doblaje/images/d/d1/Kaguya-Sama_Miyuki_Shirogane_%28ESP-LA%29.ogg), 0:00-0:20:
+- **Shirogane** (Enzo Fortuny), [audio](https://static.wikia.nocookie.net/doblaje/images/d/d1/Kaguya-Sama_Miyuki_Shirogane_%28ESP-LA%29.ogg/revision/latest?cb=20210810212031&path-prefix=es), 0:00-0:20:
   *«Todos creen que Shinomiya y yo estamos saliendo, a las masas les encanta
   inventar romances sin sentido, qué gente tan ingenua… Si Shinomiya me
   pidiera que saliera con ella, entonces supongo que podría pensarlo.»* ·
   151 Hz, 19,3 semitonos, 2,89 palabras/s ✅
-- **Chika** (Elizabeth Infante), [audio](https://static.wikia.nocookie.net/doblaje/images/a/ab/Kaguya-Sama_Chika_Fujiwara_%28ESP-LA%29.ogg), 0:00-0:09:
+- **Chika** (Elizabeth Infante), [audio](https://static.wikia.nocookie.net/doblaje/images/a/ab/Kaguya-Sama_Chika_Fujiwara_%28ESP-LA%29.ogg/revision/latest?cb=20210810212145&path-prefix=es), 0:00-0:09:
   *«¡Ay, por favor! ¿Saben? Hace poco gané un par de boletos para ir al
   cine, pero la verdad es que mis padres no me dan permiso para ir a ver esta
   clase de películas. ¿A ustedes les interesaría ir juntos?»* · muy aguda
   (377 Hz), 7,8 semitonos, 2,66 palabras/s ✅
-- **Ishigami** (Alejandro Orozco), [audio](https://static.wikia.nocookie.net/doblaje/images/9/95/Y%C5%AB_Ishigami_-_kaguya_sama.ogg), 0:00-0:15:
+- **Ishigami** (Alejandro Orozco), [audio](https://static.wikia.nocookie.net/doblaje/images/9/95/Y%C5%AB_Ishigami_-_kaguya_sama.ogg/revision/latest?cb=20210731010417&path-prefix=es), 0:00-0:15:
   *«Así debemos reaccionar cuando una mujer está enojada por tonterías. De
   cualquier modo, el que un hombre intente entender por completo a una mujer
   tal vez es algo inútil… ¿No se da cuenta que ella cavó su propia tumba?»*
   · grave (117 Hz), 19,7 semitonos, **el más rápido** (3,29 palabras/s) ✅
-- **Ai Hayasaka** (Leyla Rangel), [audio](https://static.wikia.nocookie.net/doblaje/images/9/9e/Kaguya-Sama_Ai_Hayasaka_%28ESP-LA%29.ogg), 0:00-0:12:
+- **Ai Hayasaka** (Leyla Rangel), [audio](https://static.wikia.nocookie.net/doblaje/images/9/9e/Kaguya-Sama_Ai_Hayasaka_%28ESP-LA%29.ogg/revision/latest?cb=20210810212218&path-prefix=es), 0:00-0:12:
   *«Señorita Kaguya, una pregunta hipotética: si algún día usted se enamorara
   de verdad, ¿esperaría que él le confiese su amor, o lo haría usted
   misma?»* · 192 Hz, **la más calmada** (7,5 semitonos), 2,6 palabras/s ✅
-- **Miko Iino** (Desireé González), [audio](https://static.wikia.nocookie.net/doblaje/images/5/53/Miko_Iino_%28ESP-LA%29.ogg), 0:00-0:21:
+- **Miko Iino** (Desireé González), [audio](https://static.wikia.nocookie.net/doblaje/images/5/53/Miko_Iino_%28ESP-LA%29.ogg/revision/latest?cb=20220502182135&path-prefix=es), 0:00-0:21:
   *«Las ideas no ideales carecen de significado… Eh, disculpe, quisiera
   pedirle un favor. Cuando yo sea presidenta del consejo estudiantil, si no
   es molestia, ¿sería usted mi vicepresidenta? […] ¿Qué no conocen la joya
   que tienen en sus manos?»* · **la más aguda** (382 Hz), **la más
   expresiva** (25,2 semitonos) ✅
-- **Narrador** (Óscar Flores), [audio](https://static.wikia.nocookie.net/doblaje/images/6/6b/Kaguya-Sama_Narrador_%28ESP-LA%29.ogg), 0:00-0:16:
+- **Narrador** (Óscar Flores), [audio](https://static.wikia.nocookie.net/doblaje/images/6/6b/Kaguya-Sama_Narrador_%28ESP-LA%29.ogg/revision/latest?cb=20210810211837&path-prefix=es), 0:00-0:16:
   *«Esta es la Academia Privada Shuchiin. Se trata de un honorable y antiguo
   instituto de gran fama y enorme prestigio para educar a los jóvenes de alta
   sociedad…»* · 159 Hz, 20,6 semitonos, rápida (3,08) — tono de noticiero ✅
@@ -1598,7 +1598,7 @@ el cuadro propio de la serie (punto 6.4), nunca un globo blanco.
 
 ### Lo que hizo el redactor (26-sep-2026)
 - Juntó las 4 partes con `juntar_referencias.py` (111 referencias; quitó 3 duplicados de Sketchfab y añadió 3 propias) y `juntar_bitacora.py`.
-- Miró las **3 hojas** número a número y corrigió 7 numeraciones de la parte de imagen (§3).
+- Miró las **3 hojas** número a número y corrigió 6 numeraciones de la parte de imagen (§3).
 - Sacó **24 fotogramas** del episodio 1 de la T1 ([Internet Archive](https://archive.org/details/kaguya-sama_202403)) con `ffmpeg -ss` por rango HTTP, sin bajar el archivo: cartela «本日の勝敗» (23:50-23:56), logo y corazón del opening (1:00-1:10), duelo de pistolas y sala del consejo (1:33-1:53), fondo a cuadros (21:10), fantasía de billetes (3:05). Midió sus colores con Pillow.
 - Bajó y miró en grande `Anime_Yu_Ishigami.jpg` (1114×597): es un subtítulo de streaming, no una cartela del narrador.
 - Comprobó con fontTools Shippori Mincho, Noto Serif JP y Zen Antique (subset `latin` de Fontsource): las tres traen á é í ó ú ñ ¿ ¡.

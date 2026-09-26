@@ -536,9 +536,8 @@ para que quien revise no lo cuente dos veces como «fandub distinto».
   el wikitext de las 4 fichas sin encontrar el campo.
 - Cara de **tristeza** de Aqua y de **vergüenza** de Darkness con fotograma
   propio: los tres vídeos que miré (tráiler T3, vídeo de anuncio, 10º
-  aniversario) no traen un plano claro de esas dos emociones — helping falta
-  mirar un episodio completo con `episodio.py`, que no llegué a usar por
-  tiempo.
+  aniversario) no traen un plano claro de esas dos emociones — falta mirar
+  un episodio completo con `episodio.py`, que no llegué a usar por tiempo.
 - Los 8 clips oficiales de Crunchyroll listados en el punto 8 (geobloqueo
   LatAm confirmado con `yt-dlp`, no bloqueo de sesión).
 - Vistas y fecha exactas de los fandubs de TikTok (Karl el Kaballo y otros):
