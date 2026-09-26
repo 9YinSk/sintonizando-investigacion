@@ -102,6 +102,10 @@ qué lanza el flujo):
    En la nube, para que `navegar.py` no dé `ERR_CERT_AUTHORITY_INVALID`, Chromium
    tiene que fiarse del certificado del proxy:
    `apt-get install -y libnss3-tools && mkdir -p ~/.pki/nssdb && certutil -d sql:$HOME/.pki/nssdb -N --empty-password </dev/null; certutil -d sql:$HOME/.pki/nssdb -A -t "C,," -n ccr-agent-proxy -i /root/.ccr/agent-proxy-ca.crt </dev/null`.
+   En la nube, para que `navegar.py` pase el proxy (si no, `ERR_CERT_AUTHORITY_INVALID`):
+   `apt-get install -y libnss3-tools && mkdir -p ~/.pki/nssdb && certutil -d sql:$HOME/.pki/nssdb -N --empty-password && certutil -d sql:$HOME/.pki/nssdb -A -t "C,," -n ccr-agent-proxy -i /root/.ccr/agent-proxy-ca.crt`
+   Sin la herramienta `Workflow` ni los subagentes registrados (sesión que arrancó en otra rama), el jefe lanza
+   `Agent` general-purpose con `model` del rol y el mensaje «Lee .claude/agents/<rol>.md y síguelo. Serie <id>, modo <x>».
 3. `export CLAUDE_SESSION_URL=<enlace de la sesión>; herramientas/guardar.sh --cada 300 &`
 4. Elige un lote libre (punto 2) y lánzalo:
    - Con la herramienta `Workflow`: `Workflow({name: "serie-en-equipo", args: {lote: "G", max: 6, esfuerzo: {inv: "medium", red: "high", aux: "low"}}})`
