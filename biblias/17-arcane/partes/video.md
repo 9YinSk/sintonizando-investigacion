@@ -113,7 +113,8 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
 | Vídeo | Para qué sirve | Minuto exacto | Enlace |
 |---|---|---|---|
 | **Teaser oficial «A New Adventure Awaits»** (anuncio de Arcane, Worlds 2019), repost de JeuxVideo.com | Primer vídeo oficial de la serie; **min 0:45-1:15**: una streamer/jugadora en su cuarto dice «voy a revelarles un secreto muy importante», luego el skyline de Piltóver (min 1:00) y el logo «ARCANE» (min 1:45) | ✅ visto con `fotogramas.py`, fotograma propio (`dm_open/hoja_01.jpg`) | [Dailymotion](https://www.dailymotion.com/video/x89n6ax) |
-| Vídeo oficial de **«Enemy»** (Imagine Dragons + JID), animado por Fortiche | Sirve de «opening»: la banda como personajes de Arcane en Zaun. 409 M de vistas | ⚠️ no pude bajarlo hoy (YouTube pidió login); metadatos sí cargan (213 s de duración, confirmado con `yt-dlp -j`) | [YouTube](https://www.youtube.com/watch?v=F5tSoaJ93ac) |
+| Vídeo oficial de **«Enemy»** (Imagine Dragons + JID), animado por Fortiche | Sirve de «opening»: la banda como personajes de Arcane en Zaun. 409 M de vistas | ⚠️ YouTube sigue pidiendo login (dos intentos, sin insistir más); metadatos sí cargan (213 s de duración, `yt-dlp -j`) | [YouTube](https://www.youtube.com/watch?v=F5tSoaJ93ac) |
+| **Secuencia de apertura «Enemy» dentro del propio 1×01** («Welcome to the Playground»), tras el cold open | La secuencia de créditos pintada (busto violeta-verde de Vi/Jinx fusionadas, rótulo «A Riot Games and Fortiche Production») que abre cada episodio con «Enemy» de fondo — el opening real de la serie, no el videoclip aparte | ✅ visto y **fotograma propio** en min **3:33** (`ep1_open_frame/fotograma_00213.jpg`), transición a negro hasta 4:50 donde retoma la trama (cielo azul, Vi de niña) | archivo IA `arcane-season-1-60fps`, episodio 1 (arriba) |
 | Tráiler oficial T2 y teaser T2 | Ya en la biblia (§12), con enlaces oficiales de `leagueoflegends.com` (no YouTube): siguen sin minuto propio, no pude verlos hoy por tiempo | ⚠️ igual que estaba | (enlaces en biblia §12) |
 | **Créditos finales de 1×03** | Sirven de «ending» visual: rótulo Riot Games/Fortiche en francés y chino, lista de reparto en francés (Silco: Bernard Gabay; Vi: Alice Taurand; Mel: Géraldine Asselin) — confirma otro doblaje (FR) además del latino | ✅ visto, min **42:40-44:00** (`e03_overview/hoja_02.jpg`) | archivo IA de 1×03 (arriba) |
 
@@ -131,6 +132,7 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
 | **Jayce** | 1×04 | 11:54-12:26 | Sentado, mano tendida con la gema brillando entre los dedos, mirando a Heimerdinger | **Explicar un invento** (mejor que la de §15 «⚠️ señala la pieza»: aquí la mano SÍ sostiene el objeto) |
 | **Silco** | 1×03 | 19:55 | Primer plano, cara pálida con marcas oscuras bajo los ojos, mirada fija tras la explosión | Retrato/origen —**no estaba en la biblia con minuto** |
 | **Vander** (joven) | 1×03 | 23:15-23:45 | Cresta magenta, cara muy cerca de otra, gesto de bronca | **Regañar** — personaje nuevo con pose+minuto que la biblia no tenía |
+| **Hexcore** (objeto, no personaje) | 1×06 | 8:00-8:30 | El núcleo Hextech **levita** sobre un círculo de runas azules brillantes, girando y desprendiendo chispas, mientras Jayce lo mira fijo con la cara iluminada de violeta (8:10) | La prueba «todo flota, funciona»: mejor imagen para #proyectos de «experimento que sale bien» — fuente: fotograma propio (`ep6_float/fotograma_00480.jpg` y `_00490.jpg`) · ✅ (coincide con [TV Tropes, recap 1×06](https://tvtropes.org/pmwiki/pmwiki.php/Recap/ArcaneS1E6WhenTheseWallsComeTumblingDown): «Viktor and Jayce learn that the Hexcore responds to organic matter») |
 
 ## Lo mejor para la lámina
 
@@ -150,16 +152,13 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
 
 ## No encontré
 
-- **La prueba nocturna «todo flota, funciona» en el laboratorio de
-  Heimerdinger con Mel presente** (la que cita la biblia en §2.1 y §15):
-  miré los primeros 32 minutos completos de 1×03 (a 15-40 s por fotograma)
-  y no está ahí — lo que hay es Silco/Vander (arriba). Tampoco until los
-  32:00-40:43 de 1×04, salvo la escena de la gema con Heimerdinger a solas
-  (11:54-13:14, sin Mel). Puede ser una escena posterior (1×05 o 1×06,
-  cuando cae el Núcleo Hex) o estar mal recordada en la biblia; no llegué
-  a revisar 1×05/1×06 por tiempo. Búsquedas: fotogramas propios de los dos
-  episodios completos, más `srsearch=Jayce hextech night demonstration
-  Mel` en la wiki (sin resultado claro de minuto).
+- **Mel presente en la prueba «todo flota, funciona»**: la encontré (abajo,
+  y en el punto 14) en 1×06 min 8:00-8:30, pero ahí sólo está Jayce mirando
+  el Hexcore levitar — no vi a Mel en ese tramo ni en los 8:00-18:00 que
+  escaneé del mismo episodio. Puede que la biblia mezclara dos escenas
+  distintas (la del Hexcore solo, y otra con Mel en otro episodio); dejo la
+  escena con Mel sin confirmar (⚠️), pero la prueba en sí (sin Mel) sí queda
+  verificada con fotograma propio.
 - **Qué pinta Jinx exactamente en el laboratorio (1×04) y en 2×04**: no
   bajé 1×04 más allá del minuto 40:43 (el episodio dura eso) ni 2×04 (no
   está en el ítem de IA que usé, que sólo tiene T1); si aparece después de
@@ -207,14 +206,18 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
   episodio 2, no del 3 — por eso descarté esa hipótesis) y `action=query&
   list=search` con «Jayce father explosion flashback» y «Jayce hextech night
   demonstration Mel» (en inglés).
-- Espacio en disco: borré los `video.mp4` de 1×03 y 1×04 (≈500 MB juntos) al
+- Relanzo (segundo intento): bajé el episodio 1 (`[60FPS].Arcane.S01E01...`)
+  del mismo ítem IA y busqué la secuencia de apertura tras el cold open con
+  `fotogramas.py --desde 150 --hasta 330 --cada 20` (contacto general) y
+  luego `--fotograma 213` (fino) — confirmé la secuencia pintada de «Enemy»
+  con el rótulo «A Riot Games and Fortiche Production», min 3:33 a 4:50.
+- Intenté transcribir 1×06 con `episodio.py --idioma en --modelo tiny` para
+  buscar la palabra «float» en el diálogo, pero se cortó por tiempo (120 s)
+  sin terminar de bajar+transcribir un episodio de 42 min; lo abandoné y
+  volví al método visual (más barato): `fotogramas.py --desde 480 --hasta
+  1080 --cada 30` sobre 1×06 encontró el Hexcore levitando en el minuto
+  8:00, confirmado con fotogramas finos en 480/490/500/510 s.
+- Espacio en disco: borré todos los `video.mp4` (1×01, 1×03, 1×04, 1×06) al
   terminar de sacar las hojas; sólo quedan las hojas JPEG en
   `/tmp/claude-0/trabajo/17-arcane-video/` (fuera del repositorio, como pide
   AYUDANTE.md).
-
-Sigue: verificar con fotograma propio el opening («Enemy», YouTube pidió
-login las dos veces que lo intenté hoy — reintentar en frío, esperando los
-3-5 min que pide AYUDANTE.md, o por Dailymotion/Internet Archive si aparece
-una copia); y, si hay tiempo, mirar 1×05 y 1×06 para encontrar la prueba
-nocturna «todo flota, funciona» de Jayce y Viktor con Mel (no está en 1×03
-ni en los primeros 26:50 de 1×04, que sí miré enteros).

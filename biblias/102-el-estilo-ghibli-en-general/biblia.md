@@ -545,3 +545,199 @@ El kimono rosa y la ropa de Chihiro están en la 98; San en la 100. Aquí, **cin
 - Más frases de *Chihiro* en la biblia 98.
 
 **Plantilla para la IA de texto:** «Escribe una frase corta, tranquila y cálida, como la diría un personaje de una película de Hayao Miyazaki en el doblaje latino: vocabulario sencillo, sin jerga de anime, sin onomatopeyas, con una imagen concreta de la naturaleza o de la comida. Ejemplo: "No tengas miedo. Lo haces muy bien."»
+
+## 18. Estilo de dibujo y técnica, y cómo replicarlo
+
+**Lo que usa el estudio:**
+- **Fondos:** gouache Nicker Poster Color sobre papel mojado (§ «El foco»). Capas transparentes y realces opacos. ✅
+- **Animación:** a mano. Dibujos clave (*genga*) de los veteranos e intermedios (*douga*) también a mano. Sin captura de movimiento ni rotoscopia: dan «una suavidad mecánica que borra el matiz emocional». ⚠️ ([animepapa.com](https://animepapa.com/article/how-studio-ghibli-combines-traditional-and-digital-techniques/))
+- **Color digital:** los coloristas no rellenan con el bote; pintan con trazos de lápiz óptico que imitan la pincelada. ⚠️
+- **Programa:** **Toonz**, desde *Mononoke*, para tinta, color y composición. En 2016 se liberó como **OpenToonz**, con la «Toonz Ghibli Edition». ✅ ([OpenToonz](http://opentoonz.github.io/e/), [Cartoon Brew](https://www.cartoonbrew.com/tech/toonz-software-used-studio-ghibli-futurama-made-free-open-source-138111.html), [Wired](https://www.wired.com/story/toonz-animation-software-studio-ghibli-free-download/), [ANN](https://www.animenewsnetwork.com/press-release/2016-03-20/animation-production-software-opentoonz-to-be-released-on-march-26/.100022))
+- **3D escondido bajo 2D:** interiores de la casa de baños, el motor del Zero de *El viento se levanta*, el castillo de Howl, los Warawara de *El niño y la garza* (repintados a mano). *Earwig* (2020) fue la primera en 3D completo. ⚠️ una fuente.
+- **Kaguya** (Takahata) cambia a acuarela y carboncillo, húmedo sobre húmedo, líneas sin cerrar. ⚠️
+- Miyazaki: dibujar a lápiz es «dibujar con todo el cuerpo». ⚠️ de segunda mano.
+
+**Cómo replicarlo en Photoshop:**
+1. Lienzo con textura de papel `Paper004` en multiplicar.
+2. Masas grandes primero, con pincel de gouache o acuarela (punto 19), colores de la paleta del punto 4.
+3. Capa de veladura encima, opacidad baja, en multiplicar, como la poster color.
+4. Realces opacos al final: la luz del komorebi, el brillo del caldo.
+5. Personaje con línea fina de color (no negra) y **una sola sombra plana**.
+6. Viento: pelo, ropa y hierba inclinados hacia el mismo lado.
+7. Vapor de la comida: trazos finos y claros, curvos, en capa de trama.
+
+**Cómo replicarlo en Blender:**
+- Contorno con **Freestyle** o **Solidify** (normales invertidas), en color oscuro cálido, no negro.
+- Material **Shader to RGB + Color Ramp** en 2-3 tonos (sombra plana).
+- Textura de papel o pincel encima, en multiplicar.
+- Luz: un sol cálido bajo (hora dorada) y un relleno frío, o el ocre de un farol en la noche.
+- Modelos libres del punto 3: desayuno de Howl, ramen de Ponyo, nubes, Totoro, Gatobús.
+- **OpenToonz** gratis para animar o limpiar línea como el estudio.
+
+**Encuadres típicos:**
+- **Personaje pequeño en un paisaje enorme**: el sitio es protagonista.
+- **Cielo grande y horizonte bajo** para el vuelo y el viento.
+- **Plano cerrado a la mesa** para la comida, con vapor.
+- **Quietud frontal** para esperar o pensar (Totoro en la parada).
+- **Contraluz** con rayos entre árboles para lo sagrado (el Espíritu del Bosque).
+
+## 19. Texturas 2D
+
+- **Papel:** `Paper004` de [ambientCG](https://ambientcg.com/view?id=Paper004) (CC0). ✅
+- **Tela lisa** (Kiki, Sophie): `Fabric034` (CC0). **Madera clara**: `Wood060` (CC0). ✅
+- **Pinceles de tinta sumi-e:** «Sumi Ink Brushes», [Brusheezy](https://www.brusheezy.com/brushes/1183-sumi-ink-brushes) (licencia libre en la ficha). ✅
+- **Pinceles de gouache «inspirados en Ghibli»**, gratis en su ficha: [brushespack.com](https://brushespack.com/product/ghibli-inspired-hand-painted-brush-collection/) y los de *kawtherarts* en Gumroad (precio 0). ✅ ⚠️ son de fans: nunca presentarlos como oficiales.
+- **Manga de *Nausicaä*** (Animage, 1982-1994): lápiz y tinta **con rayado a mano**, sepia, **sin tramas impresas**. Parece grabado europeo. ✅ ([Ghibli Fandom](https://ghibli.fandom.com/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(manga)), [Screen Rant](https://screenrant.com/miyazaki-nausicaa-manga-better-movie-op-ed/)). ⚠️ No hay pincel libre de ese rayado.
+- **El emblema:** la silueta de Totoro, dibujada por Miyazaki. Estreno en 1991 con *Recuerdos del ayer*. Marca registrada en Japón, EE. UU. y la UE. ✅ ([1000logos](https://1000logos.net/studio-ghibli-logo/), [logos-world](https://logos-world.net/studio-ghibli-logo/)). **No se usa en la lámina**: es marca.
+- **Tartán:** cualquier cuadro genérico libre. ⚠️
+- **Ninguna trama de manga moderna**: Ghibli no la usa.
+
+## 20. Gustos y detalles
+
+- **No aplica igual aquí**: es el estilo de un estudio, no un personaje. Las fichas de gustos, edades y objetos están en las biblias de cada película (98, 99, 100). ⚠️
+- **Lo que sí hay, del estudio y sus autores:**
+  - **La comida de las películas es la que comió Miyazaki**: pastel de arenque y leche con miel de *Ponyo*, huevos con tocino de *El castillo ambulante*, el ramen. ✅
+  - **Miyazaki y los aviones**: su padre tenía un negocio de piezas de avión; de ahí el vuelo en todo su cine. ⚠️ ([animepapa](https://www.animepapa.com/article/the-significance-of-flight-and-movement-in-studio-ghiblis-visual-narrative/), [Polygon](https://www.polygon.com/animation-cartoons/2020/5/30/21275192/studio-ghibli-movies-catbus-planes-spirited-away-my-neighbor-totoro-themes/))
+  - **Hisaishi y Miyazaki no se tratan fuera del trabajo**: «Nuestra relación es perfecta». ⚠️
+  - **Oga empieza a pintar hacia las 9:30.** ⚠️
+- **Objetos que siempre llevan:** la escoba y Jiji (Kiki), el paraguas y la hoja (Totoro), el sombrero de paja (Sophie), el tazón (Ponyo). ✅ en los fotogramas.
+- ⚠️ No se buscaron *databooks* de cumpleaños o alturas para esta serie.
+
+## 21. Por qué la aman y escenas que hacen llorar
+
+**Por qué la aman:**
+- **La película favorita de Japón es *Totoro*** (48,5 %), luego *Chihiro* (44,5 %) y *Laputa* (36,4 %). LINE Research, 2-5 sep 2022, 5254 personas de 15 a 64 años. ✅ ([PR Times, comunicado de LINE](https://prtimes.jp/main/html/rd/p/000004020.000001594.html), [Nippon.com](https://www.nippon.com/es/japan-data/h01468/))
+- **Por edades:** los de 60 prefieren *Totoro* (60 %), por el Japón rural que vivieron; los de 20, *Chihiro* (más del 50 %); los adolescentes, *Ponyo*, *Arrietty*, *Haru*. ✅ (LINE + dos encuestas de Nlab: [20 años](https://nlab.itmedia.co.jp/research/articles/1091463/), [40 años](https://nlab.itmedia.co.jp/research/articles/1091651/))
+- **Con quién se identifican:** con las heroínas que trabajan y dudan (Kiki, Chihiro) y con el compañero que cuida sin hablar (Totoro, Jiji). ⚠️ lectura de las encuestas.
+- **Porque nada es plástico**: comida real, sonido real, fondos pintados a mano. Es lo contrario de la IA.
+
+**Escenas que hacen llorar o emocionan** (las películas completas no se vieron; minutos del tráiler):
+- **Satsuki llora** porque su madre está enferma. *Totoro*, [1:09](https://www.dailymotion.com/video/x4mls0h?t=69). Duele porque es una niña que hace de madre. ⚠️ el porqué es lectura propia.
+- **Sophie se descubre anciana**: «Ay, en verdad soy yo». [0:36-0:44](https://www.dailymotion.com/video/x889i5w?t=36). Pelo blanco al viento, silencio.
+- **Ashitaka con la maldición brillando**, dolor contenido. [1:27](https://www.dailymotion.com/video/x971hck?t=87).
+- **Abrazo de Ashitaka y San**, [1:30](https://www.dailymotion.com/video/x971hck?t=90).
+- **Sophie y Howl bajo las estrellas fugaces**, [1:18](https://www.dailymotion.com/video/x889i5w?t=78).
+- ***La tumba de las luciérnagas***: citada en Reddit como la que «engancha»; no se vio. ⚠️
+- **Para reír o gritar:** la alegría en el Gatobús ([1:15](https://www.dailymotion.com/video/x4mls0h?t=75)), Ponyo con el ramen, Ponyo sobre las olas.
+- Las escenas que hacen llorar de *Chihiro* están en la 98.
+- ⚠️ No se encontraron comentarios con más votos ni vídeos de reacción concretos para estas escenas.
+
+## 22. Fan dubs y comunidad hispana
+
+- **Fandub cantado «【Nada se Olvida】 Fandub Español Latino»** (canción de *Chihiro*, «Itsumo Nando demo»), atribuido a Aubrey Mason, en resultados de [Dailymotion](https://www.dailymotion.com/video/x7xvp9c). ⚠️ sin vistas ni enlace propio.
+- Clips de *Chihiro* «español latino» subidos por fans en Dailymotion. ⚠️ no oficial.
+- **La moda de la IA de 2025** también llegó al mundo hispano (fotos «ghiblificadas»). ✅ ([CNN](https://www.cnn.com/2025/03/27/style/chatgpt-studio-ghibli-ai-images-intl-hnk)).
+- **Para el servidor de doblaje:** la escena del mercado de Howl existe en **dos doblajes con la misma escena** (Zima y Wild Bunch, punto 8). Es perfecta para un reto de doblaje: comparar dos direcciones.
+- ⚠️ No se encontraron canales de TikTok o YouTube de fandub hispano centrados en Ghibli con vistas medidas: las búsquedas dieron *Attack on Titan* y *One Piece*. Más fandubs de *Chihiro* en la 98.
+
+## 23. Colaboraciones y cruces
+
+LOEWE (2021 *Totoro*, 2022 *Chihiro*) y UNIQLO UT están en las biblias 98 y 100.
+
+- **Ghibli Park** (Aichi): abrió el 1-nov-2022 con **Gran Almacén**, **Bosque Dondoko** (*Totoro*) y **Colina de la Juventud**; **Aldea Mononoke** en 2023 y **Valle de las Brujas** el 16-mar-2024, con un **castillo de Howl de 20 m** (su cuarto y el horno de Calcifer). ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Ghibli_Park), [Japan in a Box](https://japan-in-a-box.com/blogs/inside-the-box/ghibli-park-guide-2025))
+- ***Ni no Kuni***, el único juego de Ghibli, hoy **gacha** (*Cross Worlds*, 2022). Punto 11. ✅
+- **Shirohige's Cream Puff Factory** (Kichijoji y Shimo-Kitazawa, desde 2007): **choux con forma de Totoro**. La dueña es cuñada de Miyazaki; tardó 3 años en la forma de las orejas y 2 en el permiso. ✅ ([The Smart Local](https://thesmartlocal.jp/shirohiges-cream-puff-factory/), [Washi Wanders](https://washiwanders.com/food-drink/shirohiges-cream-puff-factory-kichijoji/)). **Comida Ghibli de verdad.**
+- **Donguri Kyowakoku** (Benelic), la tienda oficial de todo el estudio, sólo en Japón. ✅ ([Kanpai](https://www.kanpai-japan.com/travel-guide/donguri-official-ghibli-shops), [SoraNews24](https://soranews24.com/2014/03/04/donguri-kyowakoku-the-store-with-nothing-but-studio-ghibli-anime-items/))
+- **Figuras oficiales:** Totoro de pie, sentado y con paraguas. ⚠️ sin ficha por pose.
+- **Cosplay:** un Totoro destacó en el World Cosplay Summit. ⚠️ una fuente ([CBR](https://www.cbr.com/studio-ghibli-my-neighbor-totoro-world-cosplay-championship-award/)), sin año ni nombre.
+- **Museo Ghibli** de Mitaka: el robot de Laputa en la azotea (fotos CC, punto 3) y la exposición de comida.
+- **No existen** (buscado): Gucci, New Balance, MUJI, GU, Fortnite. ⚠️ comprobado a hoy.
+
+## 24. Obras parecidas
+
+- **Cartoon Saloon** (Irlanda): *El secreto de Kells*, *La canción del mar*, *Wolfwalkers*, *The Breadwinner*. «El verdadero sucesor de Ghibli». ✅ ([Rotten Tomatoes](http://editorial.rottentomatoes.com/article/wolfwalkers-demonstrates-why-cartoon-saloon-is-studio-ghiblis-true-successor/), [CBR](https://www.cbr.com/the-secret-of-kells-studio-ghibli-inspiration-simiarities/)). *Wolfwalkers* ↔ *Mononoke*; *La canción del mar* ↔ *Totoro*. ⚠️
+- **Studio Ponoc** (2015), de Yoshiaki Nishimura y Hiromasa Yonebayashi, ex Ghibli: *Mary y la flor de la bruja* (2017). ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Studio_Ponoc))
+- **Makoto Shinkai** (*Your Name*, *Suzume*): naturaleza y emoción como Miyazaki, pero con CGI, y el clima como espejo del ánimo. ⚠️ ([CBR](https://www.cbr.com/hayao-miyazaki-makoto-shinkai-differences/)). **Ojo:** la biblia **101 *Your Name: cielos y ciudades*** trabaja cielos; no repetir su idea de cielo.
+- *Penguin Highway* se cita como «parece Ghibli sin serlo». ⚠️ ([CBR](https://www.cbr.com/best-movies-like-studio-ghibli/))
+- **En el servidor, para no repetir:** 98 (*Chihiro*: contrato, ficha de baño, farolillos), 99 (*El castillo ambulante*), 100 (*Mononoke*), 101 (*Your Name*). Los conceptos de abajo usan **mesa de pintor, cocina y parada de autobús**, que no están en ellas.
+
+## 25. El mundo, la historia y sus símbolos
+
+**Las reglas del «mundo Ghibli» en cinco líneas:**
+1. La naturaleza está viva y es el centro moral; nunca es decorado (sintoísmo). ⚠️
+2. Volar es ser libre; perder el vuelo es perderse (Kiki). ⚠️
+3. Los espíritus y la magia conviven con la vida diaria, sin explicarse.
+4. La industria codiciosa choca con el bosque; nadie es del todo malo. ✅ ([CBR](https://www.cbr.com/studio-ghibli-recurring-themes-anime-films-explained/), [shapes.inc](https://shapes.inc/fandom/studio-ghibli/themes))
+5. Una chica joven con voluntad propia lleva la historia; trabaja, duda y crece. ⚠️ ([CBR](https://www.cbr.com/studio-ghibli-fantasy-tropes/))
+
+**La historia del estudio, por etapas:**
+- **1984**: *Nausicaä* (aún en Topcraft). Hisaishi entra.
+- **1985**: nace Ghibli. *Laputa* (1986), *Totoro* y *La tumba de las luciérnagas* (1988), *Kiki* (1989).
+- **1991**: logo de Totoro con *Recuerdos del ayer*.
+- **1997**: *Mononoke*, primera con Toonz; la katana «sin cortes».
+- **2001**: *Chihiro*. **2004**: *El castillo ambulante*. **2008**: *Ponyo*. **2013**: *El viento se levanta* y *Kaguya*.
+- **2016**: OpenToonz libre. **2020**: imágenes libres; *Earwig* en 3D. **2022**: Ghibli Park. **2023**: *El niño y la garza*. **2025**: la moda IA y el «insulto a la vida misma».
+
+**Símbolos que un fan reconoce al instante:**
+- **Totoro y su hoja-paraguas**; el **Gatobús**; los **susuwatari** (hollín).
+- La **escoba y el lazo rojo** de Kiki; **Jiji**.
+- El **fuego Calcifer** y su sartén.
+- El **amuleto que flota** y el **robot** de *Laputa*; los **Siete Días de Fuego** de *Nausicaä*.
+- El **avión** (Porco, Jiro) y el **planeador** de Nausicaä.
+- **Vocabulario:** *ma* (間), *komorebi*, *kodama*, *susuwatari*, «sin cortes», *Ghibli* = viento del Sahara.
+
+## Las 3 hojas de contacto
+
+En `hojas/`, las tres de menos de 1 MB. Salen de 7 páginas de la wiki de Ghibli (701 candidatas, 5 hojas, se eligieron las 3 más variadas, miradas una a una). El índice con las URL originales está en `herramientas/referencias/el-estilo-ghibli-en-general/`.
+
+**`hojas/arte_01.jpg`** (n.º 1-48): arte oficial variado.
+- Pósters de *Ponyo*, *El castillo ambulante*, *Totoro*, *Kiki*, *El viento se levanta* y *Nausicaä*.
+- n.º 3: storyboard de *Totoro* a lápiz. n.º 7: logo de *Kiki* (basado en ilustraciones de Akiko Hayashi).
+- n.º 18, 26, 33: celdas de animación originales.
+- n.º 30-32 y 38-39: bocetos de Oga y **Oga pintando** en su estudio (n.º 32).
+- n.º 131 y 157 (citados por la parte de imagen): el tartán de la ropa.
+- Sirve para: variedad oficial y para enseñar «cómo se pinta».
+
+**`hojas/fondos_01.jpg`** (n.º 49-96): fondos sin personaje delante.
+- n.º 68 fondo de *Nausicaä*, n.º 70 de *El castillo ambulante*, n.º 79 de *Totoro*, n.º 86 de *El viento se levanta*.
+- n.º 61: interior de la panadería de Kiki. n.º 62-64: cocina y desayuno de Sophie.
+- n.º 42-43: el valle verde de Jiro niño.
+- Sirve para: poner un personaje delante y para el punto 16.
+
+**`hojas/comida_viento_01.jpg`** (n.º 97-144): comida y viento.
+- n.º 97-104: el valle tóxico con los Ohmu (viento y aire).
+- n.º 106: Totoro bajo la lluvia con el paraguas.
+- n.º 108-115: la bahía de *Ponyo*.
+- n.º 143-144: el **desayuno de huevos y tocino** de Sophie.
+- Sirve para: el foco del encargo en una sola hoja.
+
+⚠️ Los números de hoja 97-144 que la parte de imagen describe como «Ohmu bebé cruzando el agua de *Ponyo*» mezclan dos películas: comprobar a 1:1 antes de citar un número concreto.
+
+## 3 conceptos de lámina
+
+Esta obra no tiene canal. Son tres propuestas; la biblia sirve para cualquier uso. Reglas del dueño en las tres: objeto real en sitio real, hecho en Blender si se puede; recortes con `v3/integrar.py`; textos cortos, sin «·», «—» ni paréntesis; **nada de burbuja blanca**; y aquí más que nunca, **nada hecho con IA de imagen** (punto 10). Los fotogramas de ghibli.jp son de uso libre «dentro del sentido común» (punto 1): no se pega el logo de Totoro, que es marca.
+
+### Concepto A · #🎨 arte: «La mesa de Oga» ⭐ recomendado
+
+- **Objeto real en sitio real:** una **mesa de pintor de fondos** junto a una ventana: un **fondo a medio pintar** en papel húmedo (mitad acabado, mitad a lápiz), tarros de gouache, pinceles, un vaso de agua turbia. En Blender: el papel con ondulación de estar mojado (`Paper004`), madera `Wood060`, los tarros con etiqueta pintada. La foto de Oga pintando (hoja `arte_01` n.º 32) da la disposición.
+- **Qué fondo está a medio pintar:** el bosque con rayos de luz ([mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg)) o el verano de Naoko ([kazetachinu028](https://www.ghibli.jp/gallery/kazetachinu028.jpg)). La mitad pintada es el fotograma oficial; la otra mitad, su contorno a lápiz.
+- **Sitio y luz:** la luz de la ventana cae sobre la mesa como un komorebi (hojas delante de la ventana): verdes `#1D4A3F` `#295D49` y manchas de sol `#9EA65D`. Madera cálida `#BD9F86` `#7C503C` (panadería de Kiki).
+- **Personaje:** **Kiki**, la más dibujada por los fans (1148 en Danbooru): encaja en un foro de fanart. Pose: **de pie en la puerta, con la cesta al brazo, sonrisa tímida** (majo034), entregando un rollo de papel: «te traigo tu dibujo». Vestido `#2A2B3F`, lazo `#AA0118`. **Jiji** sentado en la mesa, entre los tarros, mirando el cuadro (el secundario que no habla, 5.º en el voto).
+- **Cómo habla:** no hay globo. El texto va **escrito en el propio taller**:
+  - Título «Arte» pintado a gouache en el borde superior del papel, letra **Jost**.
+  - Las frases del canal en **etiquetas de papel pegadas a los tarros**, letra **Noto Serif JP**.
+  - Una nota de Kiki prendida con una pinza: «Te traigo tu dibujo.» (frase del concepto, no de la película).
+- **Dónde va cada texto** (inventario de #arte): título en el papel; «Dibujo, ilustración, diseño y fanart.» en el tarro grande; «Un hilo por pieza o por serie.» en otro tarro; «Etiqueta si aceptas encargos.» en la nota de la pinza. El hilo fijado «📌 Cómo se cuelga tu trabajo aquí» va como un papel colgado del flexo.
+- **Etiquetas (10):** Dibujo, Digital, Fanart, Miniatura, Diseno, Edit o AMV, Boceto, Proceso, Terminado, Acepto encargos. Van a una **lámina 2**: diez tarros de pintura en un estante, cada uno con su etiqueta y un color de la paleta medida.
+- **Que no quede plano:** pinceles y vaso de agua en primer plano, desenfocados; la luz de ventana cruzando en diagonal; vapor de una taza de té; Kiki en la puerta a contraluz.
+- **Nota de canal:** #arte también lo propone *Arcane* (17).
+
+### Concepto B · #🌐 general: «El ramen de Ponyo»
+
+- **Objeto real en sitio real:** la **mesa de la casa de Lisa en el acantilado**, de noche, con **el tazón de ramen con jamón** humeando y una taza de miel. En Blender: el modelo CC BY de *Discovered* (ramen de Ponyo, punto 3). Crédito en la descripción del canal: «Ramen from Ponyo, Discovered, Sketchfab, CC BY».
+- **Sitio y luz:** interior cálido con tormenta fuera. Dentro: ramen `#A49446` `#C7BA8D` `#DFD8C5`; fuera, por la ventana, azules de la tormenta `#317AA9` `#296A90`. Es la regla del estudio: dentro cálido, fuera frío.
+- **Personaje:** **Ponyo**, pose **comiendo ramen a cucharadas, mejillas infladas** ([ponyo034](https://www.ghibli.jp/gallery/ponyo034.jpg)). Vestido `#E76476`, pelo `#D68776`. Es «la plaza»: se habla de lo que sea mientras se come.
+- **Cómo habla:** el texto va en **papeles de la casa**: una nota pegada en la nevera, un posavasos, la etiqueta del bote de miel. Letra **Noto Serif JP**; el título, **Jost**.
+- **Dónde va cada texto** (inventario de #general): título «General» en la cortina de la ventana; «La plaza: aquí se habla de lo que sea.» en la nota grande; «Del oficio se habla en general-doblaje.» en el posavasos; «Tu voz grabada va a demos.» en la etiqueta de la miel.
+- **Que no quede plano:** el **vapor del ramen** (trazos finos, punto «El foco») subiendo delante de la cara de Ponyo; la lluvia en el cristal; una lámpara baja que deja el fondo en penumbra.
+- **Nota de canal:** #general también lo tiene *K-On!* (10).
+
+### Concepto C · #🎟️ eventos: «La parada del autobús»
+
+- **Objeto real en sitio real:** el **cartel de la parada de autobús** de *Totoro*, de noche, bajo la lluvia, con el horario pintado. En Blender: poste y chapa de metal con óxido, lluvia con partículas. El horario es la lista de eventos.
+- **Sitio y luz:** la carretera de noche ([totoro031](https://www.ghibli.jp/gallery/totoro031.jpg)): negro verdoso `#272A27`, ocre de los faros `#AB803E`, crema `#E3CC9C`. Un solo foco cálido: la farola de la parada.
+- **Personaje:** **Totoro**, la cara del estudio. Pose 1: **de pie, quieto, con el paraguas, esperando** ([totoro034](https://www.ghibli.jp/gallery/totoro034.jpg); [0:32](https://www.dailymotion.com/video/x9csuhi?t=32)). Al fondo, los **ojos-faro del Gatobús** llegando: el evento que viene.
+- **Cómo habla:** Totoro no habla. El texto va **en el cartel de la parada** y en un **billete** colgado del paraguas. Letra **Noto Serif JP** en el horario; título **Jost**. Si se quiere voz: «¡Mei, mira eso!» ([0:16](https://www.dailymotion.com/video/x4mls0h?t=16)) escrito en el billete.
+- **Dónde va cada texto** (inventario de #eventos): título «Eventos» en la chapa superior del cartel; «Lo que se viene.» como primera línea del horario; «Se convoca con /create.» en la segunda; «Cada uno lo ve en su hora.» en el billete. Es el juego de la parada: cada autobús llega a su hora.
+- **Que no quede plano:** gotas de lluvia en primer plano, desenfocadas; charcos que reflejan los faros; Totoro medio en sombra y el cartel iluminado; el Gatobús lejos, con niebla.
+- **Nota de canal:** #eventos está entre los canales del encargo 29.

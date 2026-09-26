@@ -535,7 +535,7 @@ Cumpleaños y altura cruzados entre AniList y la wiki: ✅. **Gustos y odios son
 | Watari | 14 de abril | 170 cm | Las chicas, el fútbol | Perder partidos | Fútbol, capitán, n.º 11 | [AniList](https://anilist.co/character/69405) |
 
 - Los cumpleaños salen también en las credenciales: Tsubaki 5月19日, Kaori 7月4日, Watari 4月14日 (hoja #12, #36, #37). ✅
-- **Objeto que siempre llevan**: Kaori, el violín en su estuche rosa; Kousei, sus gafas; Tsubaki, bate o guante; Watari, el móvil (F13).
+- **Objeto que siempre llevan**: Kaori, el violín en su estuche rosa; Kousei, sus gafas; Tsubaki, el guante de sóftbol (F18) ⚠️; Watari, el móvil (F13) ⚠️.
 - **Cómo se ve Kousei**: como «el metrónomo humano», una máquina, no un artista. ✅
 - Posible **amusia** de Kousei: teoría de fans en la wiki, no oficial. ⚠️
 - No hay databook con gustos de Kousei, Tsubaki y Watari accesible. ⚠️
@@ -560,4 +560,125 @@ Cumpleaños y altura cruzados entre AniList y la wiki: ✅. **Gustos y odios son
 - **Reacción**: decenas de *reaction mashups* sólo de esta escena (punto 10). ✅
 - Otras muy citadas: la confesión de Tsubaki (ep. 20) ([Mage in a Barrel](https://mageinabarrel.com/2015/03/05/your-lie-in-april-episode-20/)) ⚠️ sin minuto; el ep. 10 como favorito de un comentarista ⚠️.
 - **Para reír**: la pelota y la bronca de Tsubaki (ep. 1, 11:00); Kaori con el megáfono (ep. 1, 18:20).
+
+## 22 · Fan dubs y comunidad hispana
+
+Sin doblaje oficial, los fans hispanos se adelantaron. Vistas medidas con `yt-dlp` (sólo metadatos). ✅
+
+| Canal | Qué es | Vistas | Fecha | Enlace |
+|---|---|---|---|---|
+| Luxe KO (Hana, Balu, Jhair, Luxe) | Cover en español de «Hikaru Nara» | 1 107 538 | 2018-06-09 | [YouTube](https://www.youtube.com/watch?v=V3EP2vqpRuU) |
+| MAGO REY / Blanca Tapia | Fandub «Naranja Adiós» | 12 215 | 2017-06-16 | [YouTube](https://www.youtube.com/watch?v=TBoHfc3d2f0) |
+| Lyrical Legends Music | Cover latino de «Hikaru Nara» | 5 059 | 2023-10-16 | [YouTube](https://www.youtube.com/watch?v=z9BoGuU4_tU) |
+| Yashua Dub Studios | Fandub del cap. 1, parte 1 | 1 623 | 2025-07-31 | [YouTube](https://www.youtube.com/watch?v=BZW9_SgDX2M) |
+| Bolt | Parodia «Your Lie in April en 1 minuto» | 1 519 | 2019-04-24 | [YouTube](https://www.youtube.com/watch?v=Inmj2FiqCMY) |
+| Friki Zone – Fandub | Fandub de la carta (cap. 22) | 317 | 2021-07-04 | [YouTube](https://www.youtube.com/watch?v=aokas_5ETLY) |
+
+- Otro fandub de la carta, «El Milagro de Kaori», ya no está disponible ([enlace roto](https://www.youtube.com/watch?v=iTVBiFTfDNo)). La escena más llorada es también la más adaptada por fans hispanos. ⚠️
+- Covers en plataformas de música (Hitomi Flor, Omar Cabán & The Covers Duo), p. ej. en [Spotify](https://open.spotify.com/track/7HmwxDD8F5SEgbMKBwWFax). ⚠️ sin vistas.
+- En TikTok sólo aparece la categoría «Your Lie in April Doblaje Español», sin vídeos medibles. ⚠️
+- Dato para el servidor: el cover de «Hikaru Nara» de Luxe KO pasa del millón. Un reto de canto con ese opening encaja.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Colaboración musical**: el cover de «Hikaru Nara» de Goose house con carátula propia de Kaori (punto 1). ✅
+- **Marcas, gachas, Fortnite, cafés**: no encontrado. Búsquedas «Your Lie in April collaboration», «Shigatsu wa Kimi no Uso コラボ», «…カフェ» y en la wiki. ⚠️ La serie terminó en 2015 y no tiene gacha propio.
+- **Figuras**: el sitio oficial [kimiuso.jp](https://www.kimiuso.jp/) anuncia una **figura de Kaori** (feb-2025) ✅, pero no se sacó fabricante ni fotos de la pose. [Good Smile Shop](https://goodsmileshop.com/) y [MyFigureCollection](https://myfigurecollection.net/) no dieron resultado (bloqueo). ⚠️
+- **Cosplay** bien hecho: Sakura-Con 2016, AMG2015, ACMY2015, Kuantan CosWalk 2016; Kaori con violín y vestido, tela real ([Flickr, Sakura-Con 2016](https://live.staticflickr.com/1471/26020166541_970134c2d9_b.jpg), CC BY-NC-SA 2.0, y 6 más en `referencias.json`). ✅
+- **Otras adaptaciones** (arte y ropa nuevos): película de imagen real (2016), musical con canciones de Frank Wildhorn (Japón 2020, también Londres y Corea). ✅ (TV Tropes + AniList)
+
+## 24 · Obras parecidas
+
+- **Recomendadas en AniList**: *Kids on the Slope* (la más cercana: música y juventud), *A Silent Voice*, *Violet Evergarden*, *Anohana*, *Clannad: After Story*, *March Comes in Like a Lion*, *I Want to Eat Your Pancreas*, *Golden Time*, *Blue Period*, *Your Name.* ✅
+- **Del mismo autor**: *Sayonara Football* y *Farewell, My Dear Cramer* (fútbol). Arakawa dijo que no quiso repetir deporte y por eso eligió música. ✅
+- **Homenajes dentro**: Ghibli (*El castillo en el cielo*, la melódica del ep. 1) y Snoopy. ✅
+- **El compositor** Masaru Yokoyama estudió música clásica de niño, como Kousei. ✅
+- **Expansión**: OVA *Moments*, manga extra *Coda*, película y musical.
+- **En el servidor**: la lámina ya hecha de `#demos-canto 2` usa un teclado. Para no repetir, esta serie debería ir con **papel** (carta, programa, partitura), no con otro teclado. Es un drama triste: no usarla para un canal de memes.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Reglas del mundo en cinco líneas:**
+1. Japón actual, sobre todo Nerima (Tokio), con fondos de sitios reales. ⚠️
+2. No hay magia: el «superpoder» es tocar y hacer sentir algo a quien escucha.
+3. Dos capas visuales: **monótono** (Kousei no oye) y **a todo color** (sí oye). ✅
+4. El calendario manda: empieza y termina en **abril**, con cerezos.
+5. Los concursos de piano ordenan la trama como torneos.
+
+**Historia por arcos:**
+- **Arco 1, el reencuentro** (ep. 1-6 aprox.): Kousei vive sin sonido desde la muerte de su madre. Kaori lo hace su acompañante en un concurso.
+- **Arco 2, los concursos** (ep. 7-14 aprox.): [Maihou](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Maihou_Competition) y [Este de Japón](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Eastern_Japan_Piano_Competition), ambos en Towa Hall; rivales Aiza y Emi. ✅
+- **Arco 3, la enfermedad** (ep. 15-20 aprox.): Kaori está grave; decide operarse para tocar una vez más con Kousei. Tsubaki se confiesa.
+- **Arco 4, el final** (ep. 21-22): Kaori muere; su carta revela «la mentira de abril». Kousei toca en color.
+
+**Símbolos y vocabulario de fan:**
+- **Piano-senpai**, **Towa Hall**, **concurso Maihou** (premio: competir en Europa).
+- **Manzana acaramelada** (ep. 12).
+- **Gatos**: un gato negro que Kaori acaricia muere atropellado antes que ella ✅ (TV Tropes + [raianimeblog](https://raianimeblog.wordpress.com/2016/08/18/analysis-the-use-of-symbolism-and-metaphor-in-your-lie-in-april/)); la lectura de un gato de ojos amarillos (la duda de Kousei, su gata Chelsea) y otro de ojos azules (Kaori) es de una sola fuente ⚠️.
+- **Océano oscuro**: Kousei hundiéndose; en el ep. 12 una piscina lo resuelve con luz desde arriba. ✅
+- **Rojo y azul** (*Red Oni, Blue Oni*): Kaori y Emi rojas (pasión); Kousei y Aiza azules (precisión). ✅
+- **Bengalas que se apagan** antes de tiempo (ep. 12): anuncian la muerte de Kaori. ✅
+- **かをり / Kawori**, la grafía del nombre de Kaori.
+- **Pétalos de sakura** y **pétalos de luz** saliendo del instrumento.
+- La **carta** y el **sobre** («ábrelo en primavera»).
+
+## 3 conceptos de lámina
+
+Canal propuesto: **`#canto`** (texto real del inventario: «Hablar de cantar. Tus covers van a demos-canto, un hilo por cover.»). Lámina 2 posible para **`#demos-canto`** («Tu ficha de CANTO, aparte de la de doblaje: un hilo con tu registro y tus covers», con sus etiquetas de registro y estilo). Las tres ideas usan **papel**, no burbujas.
+
+### Concepto 1 · La carta de Kaori sobre el piano
+- **Objeto y sitio**: una **hoja de carta con su sobre abierto**, apoyada en el atril del piano de cola del cuarto de Kousei (F10, paleta #E6E6E2, #BF9955, #87603C). En Blender: hoja con pliegues reales (textura `Paper001`), piano de farhad.Guli (CC BY), luz de atardecer por la ventana.
+- **Personaje**: **Kaori**, la más querida. De pie junto al piano con el violín, mirando atrás como en el key visual #9. Sonrisa de F1 si se quiere más cálida.
+- **Cómo habla**: la carta es su voz. Letra manuscrita tipo **Caveat** en tinta azul oscura; título del canal en **Shippori Mincho** con dos pétalos rosa y celeste, como el logo del anime.
+- **Textos**: arriba, en la carta, «Hablar de cantar». En medio, «Aquí se habla de cantar: técnica, dudas, lo que te gusta». Abajo, a modo de posdata, «Tus covers van a #demos-canto, un hilo por cover». Firma «Kaori» (o かをり).
+- **Profundidad**: pétalos de sakura desenfocados delante; borde de la tapa del piano en primer plano; luz dorada que atraviesa el papel; la sombra de Kaori sobre el suelo de madera.
+
+### Concepto 2 · El programa del concierto en Towa Hall
+- **Objeto y sitio**: un **programa impreso doblado** sobre una butaca roja de Towa Hall (F21, paleta #251309, #B39566, #D3C094), escenario iluminado al fondo con el piano. En Blender: tríptico de papel con pliegues y la tinta siguiendo el doblez.
+- **Personajes**: **Tsubaki y Watari en la grada**, como en F12 (ep. 2, 10:00): Tsubaki inclinada explicando, Watari riendo con el pulgar arriba (#42). Así salen los secundarios queridos.
+- **Cómo hablan**: el programa es el texto, en **Zen Maru Gothic** (cartel del mundo). Una línea corta de Tsubaki escrita a lápiz en el margen, en **Yomogi**.
+- **Textos**: portada del programa con «#canto». Dentro, como lista de piezas: «1. Hablar de cantar» · «2. Tus covers, a #demos-canto» · «3. Un hilo por cover». Nota a lápiz: «¡Y aplaude a los demás!» ⚠️ frase propuesta, no de la serie.
+- **Profundidad**: respaldo de butaca desenfocado delante; foco cenital en el escenario; polvo en el haz de luz.
+
+### Concepto 3 · La partitura anotada, de monótono a color (lámina 2 para #demos-canto)
+- **Objeto y sitio**: una **partitura con anotaciones a mano** en el atril, escenario oscuro de concurso (F9). La mitad izquierda en monótono, la derecha a todo color con pétalos de luz saliendo del violín: la regla de la serie.
+- **Personajes**: **Kousei** al piano en la zona gris (pose F9) y **Kaori** tocando de pie en la zona de color (F4, vestido blanco).
+- **Cómo hablan**: anotaciones sobre el pentagrama, como las de un profesor, en **Yomogi**; indicaciones musicales (p, f, rit.) como adorno.
+- **Textos**: encima del pentagrama, «Tu ficha de canto: un hilo con tu registro y tus covers». Cada **etiqueta** del foro (Soprano, Mezzosoprano, Contralto, Tenor, Barítono, Bajo, Falsete, Growl, Balada, Rock, Pop, Anime OP/ED, Disponible, Ocupado) como una nota escrita en su línea del pentagrama, de grave a agudo.
+- **Profundidad**: el borde de la tapa del piano y las teclas en primer plano, desenfocados; foco cenital sobre Kaori; la partitura con curvatura real (Blender, `Paper001`).
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial | ✅ | Key visual, portadas de tomos, carátula de single, póster, credenciales; 74 imágenes grandes en 2 hojas. No hay cartones de cuenta atrás ni arte de juego |
+| 2 · Fotogramas icónicos | ✅ | PV2 minuto a minuto y 3 escenas con episodio y minuto, en `fotogramas_03.jpg` |
+| 3 · Fan art y 3D | ⚠️ | Violín CC0 y dos pianos CC BY; fan art y render de referencia. No hay modelo libre de los personajes; Pixiv sin listar |
+| 4 · Fondos y paleta | ✅ | 6 sitios con hex medidos en fotogramas 1080p; texturas CC0 |
+| 5 · Tipografía | ✅ | 11 usos con letra libre, todas con tildes, ñ, ¿ y ¡. Eslogan sin identificar; globos del manga no vistos (préstamo con DRM) |
+| 6 · Cómo hablan en pantalla | ✅ | Carta manuscrita, pensamiento sin nube, silencio, grafía Kawori; confirmado con wiki, TV Tropes y entrevista oficial |
+| 7 · Popularidad | ✅ | AniList + Ranker: Kaori primera. Sin encuesta oficial japonesa (buscada) |
+| 8 · Doblaje latino | ⚠️ | 4 voces en 2 fuentes cada una; el doblaje no se ha estrenado, así que no hay frases dobladas ni estudio |
+| 9 · Música y sonido | ✅ | OP y ED vistos con minuto, BSO, piezas de las escenas clave |
+| 10 · Vídeos y tendencias | ⚠️ | Tráiler, TikTok abierto, POV con minuto; los vídeos de reacción de YouTube sin minuto (429) |
+| 11 · Videojuegos | ⚠️ | No existe ninguno: comprobado en Steam, móvil y TCRF. No aplica |
+| 12 · Fandom y qué NO hacer | ✅ | Gags con minuto, Piano-senpai, objetos y 9 cosas que no hacer. Página *Funny* de TV Tropes no leída |
+| 13 · Personajes a fondo | ✅ | 4 personajes con arco, voz, cuerpo, frases con minuto y tabla de caras |
+| 14 · Poses | ⚠️ | Kaori 7 y Kousei 6 con minuto. Watari 5 y Tsubaki 4 fotogramas, completados con ilustraciones de la wiki sin minuto; la parte de vídeo se relanzó dos veces y sigue pendiente (ep. 9, 11-19). Tres poses de la parte corregidas al ver la hoja |
+| 15 · Vestuario | ✅ | 15 hex medidos por prenda; Kousei sin medir (usar los de sus amigos) |
+| 16 · Paisajes y fondos | ✅ | Sitios con luz y hora; 7 fondos de fans en alta con autor. Sin fondos oficiales |
+| 17 · Guía para IA | ✅ | Rasgos fijos, paleta, línea, luz, palabras buenas y malas, referencias, frases reales por emoción |
+| 18 · Estilo y técnica | ✅ | Entrevistas oficiales en japonés (Graphinica, intérpretes grabados, «brillante y pop»), recetas de Photoshop y Blender, encuadres |
+| 19 · Texturas 2D | ⚠️ | 5 texturas CC0; no hay trama de manga libre (sustituto: filtro de Photoshop) |
+| 20 · Gustos y detalles | ⚠️ | Cumpleaños y altura en 2 fuentes; gustos y odios sólo con fuente para Kaori |
+| 21 · Por qué la aman | ✅ | Premios, Oda, y la escena de la carta vista entera con minutos, luz y música |
+| 22 · Fan dubs hispanos | ✅ | 6 vídeos con canal, vistas y fecha; cover con más de un millón |
+| 23 · Colaboraciones y figuras | ⚠️ | Cover oficial y cosplay; figura de Kaori anunciada sin fabricante; sin cafés ni gachas |
+| 24 · Obras parecidas | ✅ | AniList, obras del autor, homenajes, y cómo no repetir la lámina del teclado |
+| 25 · Mundo, historia, símbolos | ✅ | 5 reglas, 4 arcos, 10 símbolos y vocabulario de fan |
+| 3 conceptos | ✅ | Carta, programa de concierto y partitura; todos en papel, con Blender |
+| 40 fuentes distintas | ✅ | Más de 40 webs enlazadas en el cuerpo |
+| Tipos de fuente | ⚠️ | Oficiales (kimiuso.jp en japonés), wikis, TV Tropes, foros y blogs, arte, vídeo, GitHub, Sketchfab, doblaje. Sin Reddit (Arctic Shift con timeout), sin coreano ni chino, Wayback falló |
+| Hojas | ✅ | 3 JPEG de menos de 3 MB en `hojas/` |
+| referencias.json | ✅ | 156 referencias juntadas de las partes |
 

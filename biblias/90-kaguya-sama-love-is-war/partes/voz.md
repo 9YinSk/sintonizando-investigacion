@@ -188,3 +188,153 @@ momentos graciosos, no la de *Tear Jerker* que 43 ya usó):
   siempre nace de un **malentendido lógico** entre dos genios que no saben
   hablar de sentimientos (el «wiener», el juego de mesa, el kabedon
   accidental) — es comedia de carácter, no de gags sueltos.
+
+### Punto 13 — Personajes a fondo (secundarios cómicos que 43 no desarrolló)
+
+43 hizo a fondo a los 6 del consejo. Aquí completo a los secundarios que dan
+la comedia del reparto — a partir de la wiki en inglés (secciones
+*Personality*, `api.php`) y las frases dobladas transcritas en el punto 8.
+
+**Kei Shirogane** (妹, hermana de Miyuki, 14 años) — [KeiAnime.png](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/8/80/Kei_Anime.png), 549×895 ✅.
+- Trabajadora y orgullosa como su hermano; hereda su sentido de la justicia
+  y odia que alguien no haga lo correcto. Ahorra con cupones porque creció
+  en una familia que valora el dinero. Desarrolló **una actitud arisca hacia
+  su hermano** aunque en el fondo lo admira (lo sigue en Instagram en
+  secreto) ✅ (AniList).
+- Qué transmite: comedia tierna — la hermana que finge indiferencia pero se
+  sonroja al hablar del consejo estudiantil (recuerda que Kaguya «le dio
+  algo de nervios»): *«Vicepresidenta Shinomiya... me puso un poco nerviosa,
+  así que no pudimos hablar bien.»* / *«¡Cállate! ¡Muere!»* cuando su hermano
+  se burla — gag de hermanos que se parecen en gustos, dice el propio
+  narrador ✅ (TV Tropes *Funny*).
+- Cómo habla (doblaje, Amanda Hinojosa): registro agudo (258 Hz), muy
+  expresiva, rápida — tono de reportera seria, ver frase textual en punto 8.
+
+**Nagisa Kashiwagi** (17 años, novia de Tsubasa) — [KashiwagiAnime.png](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/4/43/KashiwagiAnime.png), 480×936 ✅.
+- Amigable con sus compañeros, muy unida a Tsubasa y a Maki. Exhibe
+  «comportamientos típicos de novia dramática»: habla mucho, cambia de humor,
+  y **llegó a contratar un detective privado para vigilar a su novio** por
+  celos, para luego reconciliarse siendo «físicamente atrevida y apasionada»
+  ✅ (kaguyasama-wa-kokurasetai.fandom.com/wiki/Nagisa_Kashiwagi, *Personality*,
+  cita cap. 76 y 96).
+- Qué transmite: la comedia romántica exagerada en pequeño — el gag
+  recurrente de acudir al consejo por «consejos de pareja» que en realidad
+  son quejas melodramáticas sin sustancia (ver frase transcrita en punto 8,
+  «sólo quiero saber cómo puedo romper con mi novio»).
+- Cómo habla (doblaje, Yaha Lima): la más aguda del reparto medido hasta
+  ahora (416 Hz), muy rápida — encaja con la novia siempre en crisis.
+
+**Tsubasa Tanuma** (novio de Nagisa) — [TsubasaAnime.png](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/1/12/TsubasaAnime.png), 480×968 ✅.
+- Buena gente, tranquilo, nunca se enoja aunque lo insulten. Con el tiempo
+  muestra su lado «desatado» (se besa con Nagisa en público, hasta delante
+  del consejo) y **le encanta presumir su relación** visitando el consejo
+  con la excusa de pedir consejo cuando en realidad no tiene ningún problema
+  ✅ (misma wiki, *Personality*).
+- Qué transmite: el amigo pesado que no se da cuenta de que está presumiendo
+  — gag repetido en varios episodios (ver frase transcrita en punto 8).
+- Cómo habla (doblaje, Diego Becerril): registro medio (219 Hz), muy
+  expresivo, rápido.
+
+**Adolphe Pescarolo** (director de disciplina de Shuchiin) — [Principal_Anime.png](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/ed/Principal_Anime.png), 624×792 ✅.
+- Estricto con el reglamento, pero sabe ganarse el favor de los alumnos:
+  ayudó a Ishigami a entrar a Shuchiin aunque no terminara su tarea. **Se le
+  ha pillado más de una vez jugando Pokémon GO en el campus** mientras
+  regaña a alumnos por hacer lo mismo con el celular — «desprecio cómico por
+  las reglas cuando se trata de sus propios actos» ✅ (fandom, *Personality*).
+- Qué transmite: autoridad ridícula con corazón — la doble moral que hace
+  reír sin volverlo antipático.
+- Cómo habla (doblaje, Raúl Anaya): el registro más grave medido en todo el
+  reparto (96 Hz), tono solemne/aristocrático (ver frase en punto 8).
+
+**Kobachi Osaragi** (comité de disciplina, compañera de Miko) — [Kobachi_Anime.png](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/c/c8/Kobachi_Anime.png), 480×830 ✅.
+- «Chica de pocas palabras», observadora astuta, cuida de Miko desde hace
+  más de una década por lo ingenua que es. Tiene un sentido de la justicia
+  fino, aunque menos intenso que el de Miko. **Confía mucho en su belleza**
+  (hay chicos esperándola siempre a la salida) y tiene un lado pervertido
+  oculto: se interesó por una revista *Boys' Love* confiscada y describió la
+  inmoralidad sexual en el consejo como «una situación bastante caliente» ✅
+  (fandom, *Personality*, cita caps. 103 y 158).
+- Qué transmite: el contraste — calma total por fuera, chismosa por dentro.
+- Cómo habla (doblaje, Jocelyn Robles): la más calmada/menos expresiva
+  medida en toda la serie (4,5 semitonos), coherente con «pocas palabras».
+
+**Sr. Shirogane (padre de Miyuki)** — Trivia (fandom, TV Tropes *Funny*):
+usa **la misma voz que DIO** de *JoJo's Bizarre Adventure* (mismo seiyū,
+Takehito Koyasu, y el doblaje latino conserva el registro grave con Rafael
+Pacheco), lo que convierte a un padre de familia normal en «un papá
+vergonzosamente torpe con voz de villano anime» — factor central de por qué
+sus apariciones «suelen provocar mucha hilaridad» ✅.
+
+**Nota sobre caras con minuto**: estos 6 secundarios apenas tienen tiempo en
+pantalla en el anime (T1-T3); sus caras confirmadas son **arte de la wiki sin
+minuto de vídeo** (⚠️), salvo Kei y Adolphe que aparecen en los tráileres
+oficiales usados por 43 (sin primeros planos claros). Para caras con minuto
+exacto, usar los 6 principales que ya cubrió 43.
+
+### Punto 20 — Gustos y detalles de cada personaje (secundarios cómicos)
+
+43 ya llenó la tabla de los 6 del consejo + Kei. Sumo el resto del elenco
+cómico con fichas de AniList (cumpleaños, sangre) cruzadas con la wiki en
+inglés:
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Nagisa Kashiwagi | Su novio Tsubasa, hablar con sus amigas | Que Tsubasa le oculte algo (contrató detective privado por celos) | Ser "novia dramática" con crisis de pareja | 25 de junio | — | ✅ AniList + fandom *Personality* |
+| Tsubasa Tanuma | Presumir su relación con Nagisa, verse de "chico malo" (aretes, tinte gris) | Que lo insulten (no le afecta, es su gracia) | — | — | — | ✅ fandom *Appearance*/*Personality* |
+| Adolphe Pescarolo | **Pokémon GO** (jugado en horario escolar, mientras regaña por lo mismo) | Que rompan el reglamento (menos él mismo) | Vigilar disciplina | — | — | ✅ fandom *Personality* |
+| Kobachi Osaragi | Que la admiren (chicos esperándola en la salida), el manga *Boys' Love* (lado oculto) | La inmoralidad… que en secreto le da curiosidad | Cuidar a Miko desde hace 10+ años | 6 de junio | — | ✅ AniList + fandom (cap. 103, 158) |
+| Moeha Fujiwara (hermana menor de Chika) | Admira a Shirogane (quiere declararse); **fantasías macabras** con Kei y Kaguya (encerrar/torturar, "comérsela") | — | Vicepresidenta del consejo de secundaria | 26 de junio | — | ✅ AniList + fandom *Personality* — el propio autor Akasaka la llama **"una especie de psicópata"** |
+| Toyomi Fujiwara (hermana mayor de Chika) | Vestir provocativo, hacer lo que quiere | Que la controlen (ni sus padres pueden) | — | — | — | ✅ AniList |
+| Kei Shirogane | Ahorrar con cupones, seguir a su hermano en Instagram (en secreto) | El derroche, admitir que quiere a su hermano | Trabajo de medio tiempo (cajera) | 8 de enero | — | ✅ 43 (repetido aquí por contexto de hermanos) |
+
+**Cómo se ve cada uno** (nuevo): Nagisa se ve a sí misma como "novia
+normal" sin notar lo dramática que es; Adolphe se ve como autoridad
+intachable pese a su doble moral con el celular; Moeha se sabe rara y lo
+disfruta (el autor la diseñó a propósito como contraste "oscuro" de Chika).
+
+### Punto 21 — Por qué la gente la ama: las escenas que hacen REÍR (43 cubrió las que hacen llorar)
+
+De TV Tropes *Funny/KaguyaSamaLoveIsWar* (página de momentos graciosos, no la
+de *Tear Jerker* que ya usó 43) — todas del manga; marco cuáles se
+confirmaron adaptadas al anime y con qué minuto cuando lo tengo:
+
+- **La escena del «wiener» (cap. 27)**: Fujiwara le pregunta a Kaguya por el
+  «wiener» de su perro (un truco canino); Kaguya, criada sin conocer el
+  argot, cree que es doble sentido sexual y hace un *spit take* — hasta
+  reírse a carcajadas, algo que casi nunca hace en público. El malentendido
+  se extiende varias páginas y termina con **Ishigami sangrando por la
+  nariz** tras escuchar la conversación desde la puerta (aunque el anime
+  aclara que fue por el golpe de la puerta, no por lo perverso: subvierte el
+  gag del sangrado nasal) ✅ (tvtropes.org, cita textual de los diálogos).
+  Por qué hace gracia: es el gag de marca de la serie — **comedia por
+  malentendido entre dos genios que no dominan el argot cotidiano**, no humor
+  absurdo suelto.
+- **El juego de mesa de Fujiwara (cap. 57)**: ella diseña un juego de mesa
+  desbalanceado; Ishigami muere en la primera tirada («¿Qué pasa cuando
+  muero?» — «Se acabó, quedas último»), y dentro del juego Fujiwara y
+  Shirogane «se casan», arruinando el humor de Kaguya, que termina la partida
+  intentando pagarles ¥150 000 reales de regalo de bodas. Moraleja del propio
+  capítulo: **«El corazón se desgasta si te casas con Fujiwara»** ✅.
+- **El «Snark Test»** (ver punto 12): mini-test de humor en la portada
+  interior de un tomo, con niveles bautizados con el nombre de cada
+  personaje — el fandom lo usa como identificador de personalidad («¿tú qué
+  nivel eres?»).
+- **Papá Shirogane con voz de DIO** (ver punto 12 y 13): cada aparición del
+  padre de Miyuki hace reír porque su voz de villano contrasta con lo
+  inofensivo que es en realidad.
+- **El «me hice viral» / «me banearon de Twitter»**: gag recurrente donde
+  Shirogane exagera catástrofes cotidianas como titulares de prensa
+  («¡Debe ser el incidente más grave del siglo!», dice Hayasaka con sarcasmo)
+  ✅ (TV Tropes, mismo artículo).
+
+**Con qué personaje se identifica el público, ángulo comedia**: las reseñas
+en foros de anime en inglés (GameRant, ya citado por 43 para el drama de
+Ishigami) también destacan su **sarcasmo constante** como la voz cómica que
+más se comparte en redes — sus líneas de fastidio son las que más se
+memean en Twitter/X según los hilos de TV Tropes citados arriba (sección
+*YMMV*, ⚠️ un solo tipo de fuente, wiki de fans).
+
+**Premio específico de comedia** (nuevo, no citado por 43): la serie ganó
+**Mejor Comedia en los Crunchyroll Anime Awards dos años seguidos (2019 y
+2020)** — 43 ya mencionó el dato pero sin explicar el porqué; aquí queda
+unido a las escenas de arriba como evidencia concreta.

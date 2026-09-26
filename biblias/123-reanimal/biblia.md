@@ -270,3 +270,240 @@ IP nueva: la franquicia es el juego base y su expansión ✅.
 - **Mandos** completos en [Controls](https://reanimal.fandom.com/wiki/Controls) ✅: correr, agacharse, mechero o farol (`F`/`RB`/`R`), «Llamar» al otro (`C`/`LB`/`L`), y controles de barco y vagoneta con bocina.
 - **Logros**: existen en Steam; el texto de cada uno no se revisó ⚠️.
 
+## 12 · Lo que el fandom ama y qué NO hacer
+
+**Lo que ama:**
+- **El contenido cortado**, más que los memes: «Cut Content - Towns People» (170 votos) y «Cut Content - Pigsty» (80) en [r/ReanimalGame](https://www.reddit.com/r/ReanimalGame/comments/1whgc4u/) ✅.
+- **Proteger y vengar a Hood**: es el chiste interno y la pena común ✅. Broma visual [«Hood sandwich»](https://www.reddit.com/r/ReanimalGame/comments/1wifj2q/) (64) ⚠️.
+- **Personajes propios en la isla** ([OCs, 75 votos](https://www.reddit.com/r/ReanimalGame/comments/1wl1uti/)) ✅.
+- **Jugarlo acompañado**: «lo jugué con mi papá», al 100 %, y lo rejuegan ([hilo de 160 votos](https://www.reddit.com/r/ReanimalGame/comments/1w175i2/)) ✅.
+
+**Qué NO hacer** (un fan lo notaría al instante):
+- **Cruzar las máscaras**: el saco es del Niño; el conejo, de la Niña.
+- **Darle cara al Niño**. Su saco no tiene ojos ni boca ✅.
+- **Hacer monstruos de Hood, Bandage o Bucket**. Son amigos, «Non-hostile NPC» en la wiki ([Bucket](https://reanimal.fandom.com/wiki/Bucket)); la guía de fans se equivoca ✅.
+- **Diálogo largo o explicativo**: el juego casi no habla ✅.
+- **Hacerlo tierno o colorido**. Es PEGI 18 / ESRB M: violencia, desnudez parcial, suicidio, terror psicológico ([Steam](https://store.steampowered.com/app/2129530/REANIMAL/)) ✅.
+- **Dar por fija la máscara de zorro o de cordero**: son disfraces de DLC ✅.
+- **Poner globos o HUD**: no existen en el juego ✅.
+
+## 13 · Personajes a fondo
+
+### La Niña (The Girl) · jugadora 1
+- **Carácter**: valiente, protectora, con un lado salvaje: ataca primero si se siente en peligro. Hábil con el cuchillo ✅.
+- **Historia**: aparece flotando inconsciente en el mar. Al despertar intenta ahogar a su hermano, por puro susto. Cerca de su antigua casa siente que la Bestia Oveja «está dentro de ella». Al final, todos a los que rescató la traicionan y la devuelven al pozo ✅.
+- **Qué transmite**: fuerza que da miedo y, al final, una pena enorme. Es la víctima escondida de toda la historia.
+- **Cómo habla**: aguda (276 Hz), monótona, frases de acción: «Busquemos una llave.»
+- **Cara**: la única con boca visible. En el render oficial la boca está en reposo, seria. No se encontró fotograma de ella gritando o llorando ⚠️.
+- **Le importan los conejos**: se angustia con uno muerto ⚠️.
+- **Objetos**: farol de aceite y cuchillo ✅.
+
+### El Niño (The Boy)
+- **Carácter**: cariñoso con su hermana y sus amigos, valiente, mañoso con herramientas. Al empezar no sabe por qué está en la isla ✅.
+- **Historia**: despierta a la deriva en una barca y rescata a su hermana. Recorre la isla por sus tres amigos. Al final cambia de bando y ayuda a devolverla al pozo ✅.
+- **Qué transmite**: culpa escondida bajo un saco. Parece el bueno hasta el último capítulo.
+- **Cómo habla**: media (218 Hz), la más plana de todas, como aturdido. Pregunta y añora: «Ojalá pudiéramos volver.»
+- **Cara**: ninguna. Toda la emoción va en el cuerpo: hombros, manos, inclinación ✅.
+- **Objeto**: el encendedor ⚠️.
+- **Dinámica**: hermano protector; con los tres amigos comparte un **pacto de sangre** de la infancia que recuerda al final ✅.
+
+### Hood (Capucha) · la más querida
+- **Carácter**: no pide ayuda, prudente, entiende a los monstruos aunque no puede pelear. Quiere que los hermanos huyan en vez de buscarla ✅ ([Hood](https://reanimal.fandom.com/wiki/Hood)).
+- **Historia**: primera amiga encontrada. Sniffer la rapta en un camión de helados. La Bestia Oveja la devora. En el final ayuda a atar a la Niña y se queda con su cuchillo ✅.
+- **Cómo habla**: aguda, lenta, avisa: «Deberían irse, mientras aún pueden…»
+- **Qué transmite**: ternura y lástima. Por eso el fandom quiere protegerla.
+
+### Bandage (Benda)
+- Cobarde, a veces huye solo; cariñoso y feliz de que lo busquen ✅ ([Bandage](https://reanimal.fandom.com/wiki/Bandage)).
+- Un pelícano gigante lo cuelga en una jaula en lo alto del faro. En el final sostiene el farol de la Niña mientras la atan ✅.
+- Cabeza envuelta en vendas sucias, bufanda de rayas verdes; se le ven orejas y mechones negros ✅.
+- Habla el más lento: «Escóndete allí, volveremos por ti.»
+
+### Bucket (Cubeta)
+- Enérgico, no ve el peligro, no sabe pelear ✅.
+- Cautivo en el orfanato, a punto de ser comida de la Madre. En el final sostiene el conejo muerto ✅.
+- Habla el más rápido: «¿Por qué volviste por nosotros?»
+- Le gusta comer (papas, pescado); algo más rellenito ⚠️.
+
+### Del DLC
+- **El Prisionero**: tímido, callado, terco; «I'll live» cuando la Soldado le ofrece su abrigo ✅.
+- **La Soldado**: casco plateado oxidado, trenzas rubias; lo saca de una celda ✅ ([The Soldier](https://reanimal.fandom.com/wiki/The_Soldier)).
+
+### Monstruos clave
+**Sniffer** (olfatea, se mete dentro de cadáveres, camión de helados, bicicleta), **la Madre** (araña de seis patas), **el Pelícano**, **la Bestia Oveja**, **la Ballena espiral** ciega, **el Caballo del arroyo**, los **Spider Kids** y los **Skins**.
+
+**Dinámicas para láminas de grupo**: los hermanos juntos (miedo compartido); Hood avisando y el Niño sin hacerle caso; Bucket confundido; Bandage escondido detrás de todos.
+
+## 14 · Poses analizadas
+
+Los «episodios» son capítulos del juego. Ya corregidas con la clave de saco (Niño) y conejo (Niña).
+
+| Personaje | Dónde | Minuto | Qué hace | Sirve para |
+|---|---|---|---|---|
+| El Niño | Tráiler, cap. 1 | [0:45](https://www.dailymotion.com/video/x9o072c?t=45) | Timonea con las dos manos, mirada al frente, hombros tensos | Presentar |
+| La Niña | Mismo plano | 0:45 | De pie en la proa, farol en alto con el brazo estirado | **Presentar** |
+| El Niño | Celda circular, cap. 1 | fija; en vídeo [10:30](https://www.dailymotion.com/video/x9tibzi?t=630) | Mano sobre los barrotes, cuerpo hacia delante | Explicar, señalar |
+| La Niña | Misma captura | fija | Farol a la cadera para iluminar dentro, mirada fija en Hood | **Explicar, mostrar** |
+| El Niño | Cajón de madera | fija; escena en el [tráiler co-op](https://www.dailymotion.com/video/x9ve578) | Agachado junto al farol, hombros encogidos | Temer |
+| La Niña | Misma captura | fija | De pie, sujeta el cajón con los dos brazos contra el monstruo | **Animar, proteger** |
+| Los dos | Teaser, cap. 2 | [0:30](https://www.dailymotion.com/video/xa1mxgm?t=30) | Corren agachados bajo el neón | Huir |
+| Los dos | Anuncio | [0:45](https://www.dailymotion.com/video/x94c4ui?t=45) · [0:49](https://www.dailymotion.com/video/x94c4ui?t=49) | Cuerpo hacia delante, brazos en impulso | Huir |
+| Tres niños | Cap. 4 | [0:39](https://www.dailymotion.com/video/x9o072c?t=39) · [28:30](https://www.dailymotion.com/video/x9tibzi?t=1710) | Sentados muy juntos, hombros caídos, bajo la lluvia | **Pensar, esperar** |
+| Hood | Celda, cap. 1 | fija | Tras los barrotes, una mano en un barrote, cabeza gacha | Temer |
+| Un niño | Cap. 7 | [1:00](https://www.dailymotion.com/video/x9o072c?t=60) | Corre hacia otro caído | Animar, socorrer |
+
+**Celebrar y regañar**: no hay poses así. El juego es tensión constante ⚠️. Para «regañar» sirve Hood avisando (su frase del punto 8); para «celebrar», los tres niños juntos a salvo.
+
+## 15 · Vestuario
+
+Hex medidos con Pillow sobre los renders oficiales (un píxel por prenda) ⚠️:
+
+| Personaje | Prenda | Hex |
+|---|---|---|
+| La Niña | Máscara de conejo, luz | `#A4ACB0` |
+| La Niña | Máscara, sombra | `#323E47` |
+| La Niña | Vestido, luz | `#797F84` |
+| La Niña | Vestido, sombra | `#3C3E40` |
+| La Niña | Pelo | `#0C0C0C` |
+| La Niña | Piel | `#57443A` |
+| La Niña | Cuchillo | `#494B4D` |
+| La Niña | Farol | `#363029` |
+| El Niño | Saco de arpillera | `#4C473D` |
+| El Niño | Poncho | `#454034` |
+| El Niño | Pantalón | `#131515` |
+| El Niño | Cuadrado del pecho (rojo en la wiki, oscuro en el render) | `#262626` ⚠️ |
+
+- **Lo icónico**: la máscara de conejo con la oreja torcida y el saco con cordón al cuello ✅.
+- **No hay trajes por temporada**: la ropa es la misma todo el juego. Sólo cambia la máscara de disfraz ✅. Hay más de 15 en [Masks](https://reanimal.fandom.com/wiki/Masks): pájaro, cerdo, cordero, gusano, cazamariposas…
+
+## 16 · Sitios y fondos de pantalla
+
+La **Isla** es el único escenario, con más de 20 zonas ([The Island](https://reanimal.fandom.com/wiki/The_Island)) ✅.
+
+- **El Bosque**, cap. 1: árboles muertos, vías de tren, noche con niebla azul ([The Forest](https://reanimal.fandom.com/wiki/The_Forest)) ⚠️.
+- **El pueblo** (Small Forest Town), cap. 2: calle con el neón del cine, lavandería inundada.
+- **El Faro**, cap. 3: acantilado con escaleras de madera, el pelícano gigante; farol cálido contra noche azul ([The Lighthouse](https://reanimal.fandom.com/wiki/The_Lighthouse)) ⚠️.
+- **El orfanato y la Ciudad de Arena**, cap. 4-5: autobuses enterrados en arena, luz roja de emergencia ([Sand City](https://reanimal.fandom.com/wiki/Sand_City)) ⚠️.
+- **El frente de guerra**, cap. 7-8: trincheras rojas y ruinas en llamas.
+
+**Fondos oficiales** (en Wallhaven; origen en la cuenta de X de Tarsier) ✅:
+
+| Tamaño | Escena | Imagen | Origen |
+|---|---|---|---|
+| 3840×2160 | Halloween: barca, señal de stop, calabaza, cuervo | [yxd1pk](https://w.wallhaven.cc/full/yx/wallhaven-yxd1pk.jpg) | [X](https://x.com/TarsierStudios/status/1851990606639206418) |
+| 1920×1080 | Misma, horizontal | [jee8zp](https://w.wallhaven.cc/full/je/wallhaven-jee8zp.png) | ídem |
+| 4096×2612 | Navidad: trineo, nieve | [5ge3p8](https://w.wallhaven.cc/full/5g/wallhaven-5ge3p8.jpg) | [X](https://x.com/TarsierStudios/status/1869782653903478935) |
+| 3840×2160 | Campo de flores amarillas, luna | [je13ew](https://w.wallhaven.cc/full/je/wallhaven-je13ew.jpg) | [X](https://x.com/TarsierStudios/status/1924505813994852432) |
+| 1365×2048 | Misma, vertical para celular | [qrddmq](https://w.wallhaven.cc/full/qr/wallhaven-qrddmq.jpg) | ídem |
+| 1920×1080 | Captura en luz baja, de SAKAEIH | [je129w](https://w.wallhaven.cc/full/je/wallhaven-je129w.png) | sin origen ⚠️ |
+
+No se encontraron más fondos de fans: Arctic Shift dio timeout y Steam Workshop no carga sin JavaScript ⚠️.
+
+## 17 · Guía para IA de imagen y de texto
+
+### Para una IA de imagen (Firefly, Canva)
+
+**Rasgos que nunca cambian**
+- Niño: *burlap sack covering head and torso like a poncho, rope tied at the neck, no eye holes, no face, small red square patch on chest*.
+- Niña: *white rabbit mask covering only the eyes, one ear bent, mouth and chin visible, long straight black hair, knee-length white nightgown, barefoot, oil lantern, knife*.
+- Hood: *pointed burlap hood with orange patch, long brown coat, grey mittens*.
+- Los dos son **niños pequeños** en un mundo enorme.
+
+**Estilo**
+- 3D realista y sucio, tipo *stylized realism, Unreal Engine*. **Sin contorno** negro ni *cel shading*.
+- Claroscuro extremo: 80-90 % del plano en negro o azul muy oscuro.
+- **Una sola luz motivada** y cálida: farol, mechero, neón o fuego.
+- Niebla y polvo en el aire, grano fino, viñeta.
+- Paleta: fondo `#0a1b2f` `#12283f` `#000614`; acento **único** por escena: rojo neón `#c90030`, rojo bengala `#e00036`, ámbar `#6b554a` o verde fluorescente `#5f7d75`.
+
+**Encuadre**: plano general, cámara lateral o frontal centrada en umbrales, los niños ocupando poco del cuadro. Lente 35-50 mm.
+
+**Palabras que ayudan**: *dark atmospheric horror, tiny children, flooded abandoned island, fog, single warm lantern light, dusty, decrepit, rain, cinematic, Tarsier Studios style, Little Nightmares mood*.
+
+**Palabras que lo estropean**: *cute, chibi, anime, cartoon outline, bright colors, smiling, colorful, sunny, speech bubble*. Y cualquier cara en el Niño: añade *faceless, no eyes*.
+
+**Referencias de estilo y pose**
+- Pose: renders `TheGirl.png` y `Boy.png` (punto 1); Niña en la proa ([0:45](https://www.dailymotion.com/video/x9o072c?t=45)); celda circular (captura Steam, punto 2).
+- Estilo y luz: parada de autobús (captura Steam) y cajón con farol.
+- Fondo: fondos oficiales de Wallhaven (punto 16).
+
+**Vocabulario de gestos** (no hay gotas de sudor ni fondos de emoción de anime):
+- Miedo: agacharse, hombros encogidos, esconderse tras un objeto.
+- Decisión: farol en alto, cuerpo hacia delante.
+- Tristeza: sentados, hombros caídos, cabeza gacha.
+- Alerta: congelados, mirando hacia la luz.
+- Todo va en el **cuerpo y la luz**, nunca en la cara del Niño.
+
+### Para una IA de texto
+
+**Cómo hablan**
+- Frases **muy cortas**, 3 a 10 palabras. Casi susurradas.
+- Tono plano, como aturdidos. No gritan ni exageran.
+- Sin muletillas ni risas. Sin onomatopeyas.
+- Puntuación: punto final seco. Preguntas cortas. Casi nunca exclamación. Sólo la Ballena grita.
+- El Niño pregunta y añora. La Niña ordena y actúa. Hood avisa. Bandage promete. Bucket es sincero y confundido.
+
+**Frases reales por emoción** (doblaje latino):
+- **Explicando / en marcha**: «Busquemos una llave.» (Niña)
+- **Animando**: «No te preocupes, vamos a salir de esta juntos, ¿sí?» (Chico) · «Escóndete allí, volveremos por ti.» (Bandage)
+- **Triste**: «Ojalá pudiéramos volver.» (Niño)
+- **Inquieto**: «¿Recuerdas algo de antes? ¿Qué crees que pasará ahora?» (Niño) · «Ni idea. ¿Dónde están los demás?» (Niña)
+- **Advertencia (lo más cercano a enfadado)**: «Deberían irse, mientras aún pueden, demasiado tarde, él ya sabe que están aquí.» (Hood)
+- **Alegre (a su manera)**: «Bueno, he estado mejor. Pero sí, estoy bien.» (Bucket)
+- **Desesperado**: «¡No puedo ver!» (Ballena)
+
+**Vocabulario del mundo**: la Isla, el Pozo, Sniffer, los Skins, la Bestia Oveja, la Ballena espiral, el Caballo del arroyo, la Madre, los Spider Kids, los ataúdes, los pósters, las máscaras.
+
+## 18 · Estilo y técnica
+
+**Quién y con qué**
+- **Tarsier Studios** con **Unreal Engine 5** ([Wikipedia](https://en.wikipedia.org/wiki/Reanimal)) ✅.
+- Concept art de Konstantin Kostadinov, Petrus Johansson, Jonas Berlin y Lisbeth Moller Fly ([Art of REANIMAL](https://reanimal.fandom.com/wiki/Art_of_REANIMAL)) ⚠️ en quién hizo cada lámina.
+- **Cámara dinámica compartida** que sigue a los dos hermanos, para «maximizar la claustrofobia» ✅.
+- Inspiración declarada: *It Takes Two*, *The Wind Waker*, *Silent Hill 2* ✅.
+
+**Cómo está pintado** (14 capturas oficiales)
+- **Claroscuro extremo**, una sola fuente cálida ✅.
+- **Paleta fría** con acentos cálidos: «smoky blues and dim lighting… bright neon signs or car lights» ([TechRaptor](https://techraptor.net/gaming/previews/tarsier-studios-reanimal-introduces-tense-and-terrifying-journey)) ✅.
+- **Polvo en todo**: «gris y decrépito, como si una capa de polvo lo cubriera todo» ([Gamecritics](https://gamecritics.com/jason-ricci/reanimal-review/)) ✅.
+- **Niebla volumétrica** en exteriores ✅.
+- **Sin contorno de cómic**: render realista PBR ✅.
+- **Grano y viñeta** de post-proceso ⚠️ (visto, sin entrevista técnica).
+
+**Encuadres**: plano general, niños diminutos; vista lateral en plataformas; frontal centrada en umbrales (la reja circular). La luz siempre sale de un objeto de la escena ✅.
+
+**Photoshop** (propuesta, no hay tutorial oficial ⚠️)
+1. Base de 2-3 azules grises oscuros y un acento cálido.
+2. Capa Multiplicar al 85-95 %, con un hueco de pincel suave alrededor de la luz.
+3. Ruido monocromo 3-5 % y niebla blanca azulada al 10-15 % con máscara degradada.
+4. Pinceles de borde suave. Nada de línea negra.
+5. Máscara de recorte para el brillo del farol o del mechero sobre los personajes.
+
+**Blender**
+1. Principled BSDF, rugosidad alta en telas. Sin *toon shader* ni Freestyle.
+2. Una Point o Spot cálida (el farol); World casi negro azulado.
+3. Volume Scatter o Mist Pass para la niebla.
+4. Cámara de 35-50 mm, personajes pequeños.
+5. Compositor: grano fino, viñeta, Bloom bajo.
+6. Modelos: los de Sketchfab del punto 3. Texturas de arpillera del punto 4.
+
+## 19 · Texturas 2D
+
+Sin tramas de manga: es 3D con telas sucias.
+
+| Material | Dónde | Textura libre | Licencia |
+|---|---|---|---|
+| Arpillera | Saco del Niño, Hood | [Hessian 230](https://polyhaven.com/a/hessian_230) (hasta 8129×8082) | CC0 |
+| Arpillera tupida | Igual | [Hessian 380](https://polyhaven.com/a/hessian_380) | CC0 |
+| Lino basto | Camisón de la Niña | [Fabric019](https://ambientcg.com/view?id=Fabric019) | CC0 |
+| Metal oxidado | Farol, cuchillo, barcos | [Metal041B](https://ambientcg.com/view?id=Metal041B) | CC0 |
+| Chapa ondulada | Pueblo, orfanato | [CorrugatedSteel007A](https://ambientcg.com/view?id=CorrugatedSteel007A) | CC0 |
+| Cuerda | Cordón del Niño | [Rope001](https://ambientcg.com/view?id=Rope001) | CC0 |
+| Madera vieja | Muelles, faro | [Wood051](https://ambientcg.com/view?id=Wood051) | CC0 |
+
+- **Vendas o gasa** para Bandage: no se encontró textura libre ⚠️.
+- **Logo**: mayúsculas condensadas y rayadas, blanco o rojo sobre oscuro (punto 5).
+- **Emblema**: la espiral roja con espinas de la ballena (carátula del soundtrack).
+- **Grano y viñeta**: se hacen en Photoshop, no son textura descargable.
+- **Máscaras**: la hoja de máscaras del artbook (hoja nº 235) sirve de patrón.
+

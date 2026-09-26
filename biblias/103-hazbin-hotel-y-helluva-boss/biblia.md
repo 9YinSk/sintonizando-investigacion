@@ -62,7 +62,7 @@ imágenes de Fandom viven en `static.wikia.nocookie.net` y piden la cabecera
 `Referer: https://www.fandom.com/`.
 
 **Hazbin Hotel**
-- Charlie, render oficial con el traje de piloto blanco y rojo, 2150×4950 · [Charlie All-Nighter](https://static.wikia.nocookie.net/hazbinhotel/images/b/b0/Charlie_All-Nighter.png) ✅
+- Charlie, render oficial con su traje rojo y camisa crema (el «pilot outfit» es el del episodio piloto, no ropa de aviador; visto en la hoja n.º 4 y 7), 2150×4950 · [Charlie All-Nighter](https://static.wikia.nocookie.net/hazbinhotel/images/b/b0/Charlie_All-Nighter.png) ✅
 - Charlie en versión «Anime Style», arte promocional para redes, 1296×1620 · [enlace](https://static.wikia.nocookie.net/hazbinhotel/images/0/03/Charlie_%28Anime_Style%29.png) ⚠️
 - Alastor, render de temporada 2, levita roja y bastón-micrófono, 1500×4000 · [Alastor s2 Render by OKDraws](https://static.wikia.nocookie.net/hazbinhotel/images/e/e0/Alastor_s2_Render_by_OKDraws.png) ✅ (el pie dice «by OKDraws»: tratar como arte acreditado, no como oficial puro)
 - Alastor en forma de demonio completo, cornamenta y aura roja, 3800×2250 · [enlace](https://static.wikia.nocookie.net/hazbinhotel/images/3/37/AlastorFullDemonRender_by_OKDraws.png) ⚠️
@@ -367,7 +367,7 @@ Blitzø (punto 6) o las tragaperras del Anillo del Orgullo.
 
 **Qué NO hacer:**
 - Alastor sin su sonrisa de dientes triangulares o sin bastón-micrófono ⚠️.
-- Charlie sin sus mechones de cuerno ni el rojo del traje ✅.
+- Charlie sin su mechón en forma de cuerno ni su lazo rojo: son su silueta, incluso en miniatura ✅.
 - Angel Dust con sólo dos brazos. En pantalla lleva **cuatro** visibles; la hoja de modelo muestra el juego completo de **seis** ⚠️ (las partes discrepan: mirar la hoja).
 - Suavizar a Husk, Valentino o Blitzø: el humor es el choque de lo soez con lo tierno ✅.
 - Mezclar estéticas: Hazbin es art déco rojo y dorado; Helluva, oficina moderna de colores planos ⚠️.
@@ -465,7 +465,7 @@ Medidos con `estilo.py` sobre el render de cada uno.
 
 | Personaje | Ropa icónica | Hex | Imagen |
 |---|---|---|---|
-| Charlie | traje de piloto blanco, corbatín y puños rojos | `#F9E4C2` crema, `#BB1C3F` rojo, `#412629` líneas | Charlie All-Nighter |
+| Charlie | traje «del piloto» (el del episodio de 2019, no de aviador): camisa crema, chaqueta y pantalón rojos, pajarita | `#F9E4C2` crema, `#BB1C3F` rojo, `#412629` líneas | Charlie All-Nighter |
 | Alastor | levita roja de solapas negras (T2), pajarita | `#E41C44` bordes, `#881C25` levita, `#5C080D` sombra, `#DBAA7F` piel | Alastor s2 Render |
 | Angel Dust | pelaje blanco con manchas magenta, arnés de corazones | `#F0EBEB` pelaje, `#D43052` magenta, `#763E4A` sombra | Angel Dust ref sheet |
 | Vaggie | chaqueta militar magenta (T2), parche en el ojo | `#27304B` pelo, `#D5334F` detalle rojo, `#8F7C85` sombra | [Vaggie ref sheet](https://static.wikia.nocookie.net/hazbinhotel/images/b/b2/Vaggie_ref_sheet.jpg) |
@@ -476,7 +476,7 @@ Medidos con `estilo.py` sobre el render de cada uno.
 con traje de 2019; Angel Dust de drag; Vaggie de los años 30 y de fiesta;
 Alastor demonio completo; Stolas con toga violeta y corona dorada.
 
-**Lo que todo fan reconoce**: el traje de piloto de Charlie, el traje rojo con
+**Lo que todo fan reconoce**: el traje rojo con camisa crema de Charlie, el traje rojo con
 bastón-micrófono de Alastor, el arnés de corazones de Angel Dust, el traje a
 rayas y los cuernos curvos de Blitzø.
 
@@ -497,4 +497,141 @@ Sitios, luz y hora: ver la tabla del punto 4. Resumen:
 - Hazbin Hotel en 4K, 3840×2160 · [xlmjwz](https://wallhaven.cc/w/xlmjwz) ⚠️
 
 Oficiales en alta: el exterior del hotel (2160×1211) y el lobby (2732×1532) del punto 4.
+
+## 17 · Guía para generar con IA (imagen y texto)
+
+Sirve para Firefly, Canva o cualquier IA. Sólo usa lo que está en esta biblia.
+La IA **nunca** sustituye una referencia real: es para fondos, poses de
+prueba y bocetos.
+
+### Para una IA de imagen
+
+**Estilo general (copiar tal cual):**
+«2D cartoon animation, thick clean black outlines, flat cel shading with two
+tones and hard shadow edges, no gradients, art deco 1930s hotel, saturated
+crimson and black palette, neon glow, elongated stylized limbs, sharp
+triangular teeth, exaggerated expressions, TV animation frame, 16:9».
+
+- **Línea**: gruesa, limpia, sin grano; oscura pero cálida (medido `#784747` en el lobby).
+- **Sombra**: dos valores, borde duro. Nunca aerógrafo.
+- **Luz**: Hazbin, neón rojo y ventanas ámbar (`#E2BD87`); Helluva, luz plana de oficina (saturación 25 %) o noche violeta (`#632ACD`).
+- **Encuadre**: plano medio o americano, cámara a la altura del pecho; en grupo, «foto de familia» frontal (tráiler 1:59).
+
+**Rasgos que nunca cambian:**
+- **Alastor**: pelo rojo corto con puntas oscuras, orejas de ciervo, sonrisa fija enorme de dientes amarillos triangulares, levita roja (`#881C25`), bastón-micrófono antiguo con esfera roja (hoja n.º 33-36). Nunca sin sonrisa.
+- **Charlie**: pelo rubio muy claro con mechones en forma de cuerno, óvalos rojos en las mejillas, camisa crema (`#F9E4C2`), chaqueta y pantalón rojos (`#BB1C3F`), pajarita (hoja n.º 3-7).
+- **Angel Dust**: araña esbelta y muy alta de pelaje blanco con manchas magenta (`#D43052`), cuatro brazos visibles (seis en la hoja n.º 40-41), corazones rosa, sonrisa pícara.
+- **Vaggie**: ojo tachado con X, detalle rojo (`#D5334F`), lanza angélica (hoja n.º 29-30). ⚠️ Color de pelo: la medición dio `#27304B`, pero en la hoja se ve claro; mirar el render antes de pedirlo.
+- **Blitzø**: imp rojo, cuernos blancos de punta negra, traje a rayas (`#151622`), corbata roja.
+- **Loona**: loba de pelaje lavanda claro (`#EDE0FD`), orejas altas, chaqueta roja, móvil en la mano, cara de fastidio.
+
+**Palabras que ayudan**: «art deco», «1930s radio», «vaudeville marquee», «neon sign», «flat cel shading», «thick outline», «crimson and gold», «halftone dots» (para Helluva).
+**Palabras que lo estropean**: «anime», «manga», «chibi», «realistic», «3D render», «soft painterly», «pastel» (salvo el Cielo), «cute kawaii». Dan un estilo que el fandom ve falso (punto 12).
+
+**Qué imágenes subir como referencia:**
+- De estilo: el lobby ([2732×1532](https://static.wikia.nocookie.net/hazbinhotel/images/0/0e/Hazbin_hotel_lobby_DBD.png)) y el exterior del hotel del punto 4.
+- De pose: Alastor s2 Render (1500×4000), Charlie All-Nighter (2150×4950), Angel Dust ref sheet, Blitzø Supportive Gear.
+- De proporción entre personajes: la tabla de alturas (3549×1688).
+- De Helluva: el logo de I.M.P. sobre trama de puntos (3840×2160).
+
+**Vocabulario de expresiones de la serie** (para describir gestos):
+- *sonrisa de Alastor*: comisuras hasta las orejas, dientes triangulares, ojos entrecerrados.
+- *forma demonio*: silueta negra, ojos como diales de radio, estática verde, cornamenta crecida.
+- *sonrojo*: dos óvalos rojos en las mejillas (Charlie lo tiene siempre; sube al avergonzarse).
+- *ojos en X*: el ojo tachado de Vaggie y de Cherri Bomb.
+- *gotas de sudor*: pocas, en las mejillas (Moxxie con miedo, 5:16).
+- *chibi*: no se vio en lo mirado ⚠️; no usarlo.
+
+### Para una IA de texto
+
+**Cómo escriben:**
+- **Alastor**: educado, anticuado, teatral. Llama «querida» o «querido». Frases largas de locutor, sin groserías. Amenaza sonriendo. Puede meter «*estática*» o «(ruido de radio)» como efecto.
+- **Charlie**: entusiasta y tierna. Muchas exclamaciones, habla de «nosotros», «juntos», «redención». Si algo le importa, lo convierte en canción.
+- **Angel Dust**: coqueto, sarcástico, grosero. Frases cortas con doble sentido. Pasa de burla a miedo en una frase. Se corta si está Fat Nuggets.
+- **Vaggie**: seca y directa. Frases cortas, órdenes. Poca exclamación, salvo para defender a Charlie.
+- **Husk**: rasposo, cansado, soez. Dice la verdad sin rodeos.
+- **Blitzø**: atropellado, a la defensiva, grosero; «¿ok?» al final.
+- **Loona**: plana, desganada, pocas palabras.
+
+**Frases reales del doblaje, por emoción** (punto 8):
+- **Alegre / animando**: Charlie: «Somos un equipo. Pensé que esto sería más sencillo, pero lo resolveremos juntas.»
+- **Explicando**: Alastor: «Todos me recuerdan por mi programa de radio, que es el medio apropiado para expresarse de la mejor manera.» / Moxxie: «He investigado arduamente la historia de las armas…»
+- **Presentándose**: Sir Pentious: «Soy el gran… Sir Pentious. Inventor… arquitecto de la destrucción, villano extraordinario.» / Stolas: «Mis queridos plebeyos del círculo de la ira.»
+- **Enfadado**: Husk: «Esa versión falsa que muestras de ti me rompe las pelotas.» / Vaggie: «¿En serio querías divertirte? Pues esa basura no nos representa.»
+- **Vendiendo**: Vox: «Mi gente hermosa, aquí en VoxTek Enterprises siempre hemos estado a la vanguardia de la innovación.»
+- **Triste / consolando**: Loona: «A veces las cosas no son tan simples… No es porque no les importes.»
+
+**Reglas**: nada de lenguaje neutro para los soeces; nada de groserías para
+Alastor ni Charlie. Frases cortas, una idea cada una (regla 4 del dueño).
+En una lámina del servidor, rebajar las groserías fuertes: basta un «maldita
+sea» de Husk.
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+**Cómo se hizo** ([VFX Voice](https://vfxvoice.com/checking-into-hazbin-hotel-to-check-out-the-animation/)):
+- **Toon Boom Harmony** con **Wacom Cintiq**; Photoshop y Premiere en posproducción ✅.
+- **Casi todo 2D**: fuego, humo y explosiones dibujados a mano ✅.
+- La directora de animación **Skye Henwood**: «si queda chulo o atractivo, vale». Los cuerpos se estiran cuando ayuda a la toma ✅.
+- El director de arte **Sam Miller**: el reto es rojo sobre rojo; el Cielo es pastel para contrastar ✅.
+- Influencias: Bruce Timm, Tim Burton («un burtonismo», dice Medrano), el Renacimiento Disney, Looney Tunes y sobre todo **Jhonen Vasquez / Invader Zim** ✅.
+- ⚠️ Segunda fuente (Animation Magazine) no se pudo abrir: 403.
+
+**En Photoshop:**
+1. Boceto al 30-40 %. Encima, línea con pincel duro sin textura al 100 %. Pinceles: [BrushWarriors](https://brushwarriors.com/lineart-brushes-photoshop/) o [123FreeBrushes](https://www.123freebrushes.com/line-art/) (uso personal).
+2. Color base plano por zona, bajo la línea.
+3. Sombra en capa **Multiplicar** recortada, con lazo poligonal: bordes duros, dos valores.
+4. Neón y magia en capa **Trama** o **Más claro**, con desenfoque gaussiano sólo ahí.
+5. Ruido y viñeta suaves al final, como el grano del streaming.
+6. Paletas enteras distintas para Infierno (rojo y negro) y Cielo (pastel).
+
+**En Blender** (para el objeto o el sitio de la lámina; el estudio no usa Blender):
+1. Contorno con **Freestyle** a 3-5 px, negro, ángulo de arista bajo. Más ligero: **Solidify** con normales invertidas y material negro.
+2. Shader: **Diffuse BSDF → Shader to RGB → ColorRamp** en *Constante*, 2-3 paradas: sombra de un solo salto.
+3. Luz: un área como clave y un relleno de neón (cian o verde) para casino o club.
+4. Render en **Eevee** (no satura el PC; regla 9 del dueño).
+5. Grano de papel encima en *Superponer* a opacidad baja ([ambientCG, Paper](https://ambientcg.com/get?file=Paper001_1K-JPG.zip)).
+
+**Modelos y rigs libres**: los de Sketchfab del punto 3 (Alastor con rig aproximado de mikequeen123).
+
+**Encuadres**: plano de grupo frontal para presentar (1:59); primer plano para
+la rabia de Alastor (1:43); dos personajes frente a frente con la ciudad detrás
+para lo emotivo (0:56); plano medio inclinado de Blitzø para explicar (0:00).
+
+## 19 · Texturas 2D
+
+La serie **ya usa trama de puntos (halftone)**: está en el fondo del logo de
+I.M.P. y en transiciones del vídeo «Addict».
+
+- Halftone azul sobre blanco, 1024×1024, CC0 (vía [Openverse](https://api.openverse.org/v1/images/?q=halftone)) · [imagen](https://live.staticflickr.com/4281/35068173993_0c4bde3ab0_b.jpg) ✅
+- Grano de papel Paper001 a 006, hasta 8K, CC0 · [ambientCG](https://ambientcg.com/get?file=Paper001_1K-JPG.zip) ✅
+- Alfombra gastada `Carpet016`, CC0 ✅
+- Papel pintado decrépito, CC0 · [mapa 1K](https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/decrepit_wallpaper/decrepit_wallpaper_diff_1k.jpg) ✅
+- Terciopelo rojo y alfombra sucia, CC0 (Poly Haven) ✅
+- **Emblemas para calcar** (no para pegar): logo «HAZBIN HOTEL», neón rojo de vodevil con ojo en diamante y patrón triangular déco, 2560×2560 · [imagen](https://static.wikia.nocookie.net/hazbinhotel/images/e/eb/Hazbin_Hotel_-_Hazbin_Hotel_website.png), usado también en la [web oficial](https://hazbinhotel.com) ✅; logo de I.M.P. ✅; logo de VoxTek y bumper de 666 News (punto 6) ✅.
+- ⚠️ No hay pinceles gratis con licencia clara «al estilo VivziePop»: se usaron CC0 genéricos.
+
+## 20 · Gustos y detalles
+
+De la ficha de cada uno en la [Hellaverse Wiki](https://hazbinhotel.fandom.com/wiki/Blitzo). ⚠️ Una fuente
+(wiki de fans con referencias a streams de la autora). **Ninguno tiene altura
+ni cumpleaños con fecha** en la wiki: se comprobaron los campos vacíos. Para
+alturas relativas, la tabla oficial del punto 1.
+
+| Personaje | Le gusta | Odia | Edad |
+|---|---|---|---|
+| Charlie | Vaggie, la redención, dibujar, cantar, piña en la pizza, koalas, los chistes de Alastor | los Exterminios, que se burlen de su sueño, la violencia, la ausencia de su madre | 20 y tantos biológicos |
+| Alastor | él mismo, su libertad, el jazz, café amargo, piña en la pizza, molestar a Vox | Vox, que lo toquen, los perros, la decoración cursi de Lucifer | 30-40 biológicos, más de 100 reales |
+| Angel Dust | bromas, cocinar, coquetear, el rosa, la comida italiana, Husk, Fat Nuggets | Valentino, que husmeen en su pasado, memorizar guiones | 30 y tantos |
+| Vaggie | Charlie, el orden, la disciplina | que hieran a Charlie, el desorden, Adán y Lute, el Cielo, mentir | 20 y tantos |
+| Husk | apuestas, trucos de cartas, beber, la gente auténtica | que le mientan, su trato con Alastor | — |
+| Blitzø | su trabajo, consentir a Loona, caballos, dibujar, queso con salsa picante | las críticas, el frío, hacer de guardaespaldas | — |
+| Loona | su móvil, dormir, revistas, beber | trabajar, que la traten de mascota, el bozal | 22 (años del Infierno) |
+| Stolas | jardinería, Octavia, Blitzø, telenovelas, leer | estar solo, Stella, no ver a Octavia | 30 y tantos |
+| Moxxie | cocinar, teatro musical, ópera | que Blitzø husmee, los parques temáticos | — |
+| Millie | su trabajo, su familia, Loo Loo Land, coleccionar cuchillos, bailar | que insulten a Moxxie, el frío | 27 (años del Infierno) |
+
+**Objeto que siempre lleva**: Alastor, el bastón-micrófono; Angel, a Fat
+Nuggets; Vaggie, la lanza; Loona, el móvil; Millie, el hacha; Stolas, el grimorio.
+**Cómo se ven**: Charlie, como la única esperanza de cambio; Angel, como un
+fracaso tras la fachada («Loser, Baby»); Alastor, como el único con clase ⚠️.
 

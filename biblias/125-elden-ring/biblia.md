@@ -228,3 +228,195 @@ Paleta **medida con `estilo.py`** sobre fotogramas de vídeo. Nada inventado.
 
 **Qué cuadro usar en la lámina**: la caja 1 para lo que dice un personaje; la cartela 3 para el nombre del canal; la 2 (dorada, legendaria) para una norma importante.
 
+## 7 · ¿Quién es el más querido? (encuestas)
+
+**Encuesta oficial de [Famitsu](https://www.famitsu.com/news/202205/07260652.html)** (Japón, abril de 2022, unos 1700 jugadores). Dos preguntas.
+
+**Personaje (NPC) que más te marcó**
+1. **Ranni la Bruja** · 918 votos ✅ ([GameSpot](https://www.gamespot.com/articles/elden-ring-player-survey-proves-that-ranni-is-everybodys-favorite/1100-6503493/) lo confirma)
+2. Alexander, Puño de Hierro · 579 ✅
+3. Blaidd el Mediolobo · 335 ✅
+4. Millicent · 266 ⚠️
+5. **Melina** · 260 ✅ ([PCGamesN](https://www.pcgamesn.com/elden-ring/survey-boss-character))
+- Después: Patches 242, Sellen 204, Rya 164.
+
+**Jefe que más te marcó**
+1. **Radahn** · 687 ✅ (también 1.º en [netlab](https://nlab.itmedia.co.jp/research/articles/697073/))
+2. **Malenia** · 658, a sólo 29 votos ✅ ([Kakuchopurei](https://www.kakuchopurei.com/2022/05/the-most-popular-elden-ring-characters-bosses-according-to-japan/))
+3. Margit · 443 ✅
+
+**Fan art** (Danbooru): Ranni 2274, Malenia 1717, el Sin Luz 1693, Melina 1063 ✅
+
+**Conclusión**: la más querida es **Ranni**, no las dos del encargo. Malenia es la jefa más dibujada y la 2.ª en votos. Melina es 5.ª, pero es la compañera oficial del jugador. Para una lámina que guste al fan: Ranni o Malenia delante, Melina como guía.
+
+⚠️ Una mini encuesta de [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Elden-Ring/) (10 votos) pone primero al Comedor de Estiércol. Es demasiado pequeña.
+
+## 8 · Doblaje: no hay doblaje latino
+
+**Elden Ring no tiene doblaje en español.** Ni latino ni de España. Tampoco japonés. Está comprobado, no es de memoria. ⚠️ (no existe)
+
+- La cuenta oficial @ELDENRING lo dijo: «The only option with full in-game audio is English». El español de Latinoamérica sólo trae **menús y subtítulos**. Lo recoge [win.gg](https://win.gg/news/all-the-info-you-need-for-the-steam-version-of-elden-ring/) ✅
+- [Doblaje Wiki, por su API](https://doblaje.fandom.com/es/api.php?action=query&list=search&srsearch=ELDEN&format=json), no tiene ninguna ficha de Elden Ring ✅
+- Un vídeo lo anuncia: «[ELDEN RING no tendrá DOBLAJE en ESPAÑOL!!](https://www.youtube.com/watch?v=MqSasmw2__Q)» ⚠️
+- Las voces se grabaron en Londres, en el estudio Liquid Violet, con dirección de Adam Chapman-Hailey. Un [foro japonés](https://dark-soku.blog.jp/archives/87120588.html) pide un doblaje japonés que no existe ✅
+
+**Las voces originales (inglés)**, en [BTVA](https://www.behindthevoiceactors.com/video-games/Elden-Ring/Melina/) y en [IMDb](https://www.imdb.com/title/tt10562854/characters/nm0533594/):
+
+| Personaje | Voz original | Voz latina |
+|---|---|---|
+| Melina | Martha Mackintosh ✅ | No existe |
+| Malenia | Pippa Bennett-Warner ✅ | No existe |
+| Ranni | Aimee-Ffion Edwards ✅ | No existe |
+| Radahn y Varré | Pip Torrens | No existe |
+| Margit / Morgott | Anthony Howell | No existe |
+| Mohg | Con O'Neill | No existe |
+| Godrick | Ramon Tikaram | No existe |
+| Maliketh | Jonathan Keeble | No existe |
+| Rennala | Mali Harries | No existe |
+| Blaidd | Scott Arthur | No existe |
+| Sellen | Kezia Burrows | No existe |
+| Narrador | Jimmy Livingstone | No existe |
+
+**Frases textuales** (en inglés, que es lo único que hay; con minuto):
+- Melina: «Thou shouldst take the crown?» · [0:44](https://www.dailymotion.com/video/x8837gv?t=44)
+- Melina: «I offer you an accord» · [1:32](https://www.dailymotion.com/video/x8837gv?t=92)
+- Malenia: «I am Malenia, Blade of Miquella. And I have never known defeat» (la dice dos veces en el juego) ✅
+
+**Para la lámina**: no inventar un actor latino. Si el texto va en español, es **traducción nuestra** o el subtítulo oficial. Y es una ocasión: el servidor puede **doblarlo** él (§22).
+
+## 9 · Música y sonido
+
+No tiene opening ni ending cantados. Tiene una banda sonora orquestal y coral.
+
+- **Elden Ring Original Soundtrack** (25-feb-2022, 2 discos) · [MusicBrainz](https://musicbrainz.org/release-group/d641ceb3-1833-41a7-9820-840a7234db3f) y [Archive.org](https://archive.org/details/shoi-miyazawa-yuka-kitamura-yoshimi-kudo-tai-tomisawa-elden-ring-original-game-soundtrack) ✅
+- Compositores: Tsukasa Saitoh, Shoi Miyazawa, Tai Tomisawa, Yuka Kitamura y Yoshimi Kudo ([Wikipedia ES](https://es.wikipedia.org/wiki/Elden_Ring), [Wikipedia EN](https://en.wikipedia.org/wiki/Elden_Ring)) ✅
+
+| Pista | Duración | Qué ambiente da |
+|---|---|---|
+| D1-2 «Opening» | 3:10 | La cinemática de entrada |
+| D1-17 «Leyndell, Royal Capital» | 3:17 | Al entrar a la capital dorada |
+| D1-18 «Song of Lament» | 0:47 | Coro corto, transición dramática |
+| D1-23 «**Malenia, Blade of Miquella**» | 3:44 | Coro de mujeres y cuerdas con prisa |
+| D1-24 «Song of Honor» | 1:10 | Coro corto de semidiós |
+| D1-25 «**Starscourge Radahn**» | 6:08 | Coro de hombres, tambores de guerra |
+| D1-19 «Morgott, the Omen King» | 3:51 | Jefe |
+| D1-21 «Mohg, Lord of Blood» | 4:22 | Jefe |
+
+- Otras bandas: [Shadow of the Erdtree](https://musicbrainz.org/release-group/126184be-22db-4019-bb75-d4b09250b283) (2024) y [Nightreign](https://musicbrainz.org/release-group/32a6a166-838c-426d-a594-803945ab2673) (2025) ⚠️ no escuchadas.
+- **Sonido que todos reconocen**: los combates grandes empiezan con **silencio de golpe y un rugido** antes de la orquesta (0:00 de Malenia y de Radahn) ✅. Al ganar, el rótulo dorado «**Great Enemy Felled / Legend Felled**» con su estruendo ⚠️ (de oído).
+- ⚠️ VGMdb bloqueado (Cloudflare).
+
+## 10 · Vídeos y tendencias
+
+- **Tráiler de lanzamiento «Rise, Tarnished»** (2:38) · [Xataka México](https://www.dailymotion.com/video/x886mjr) · en español con [Vidaextra](https://www.dailymotion.com/video/x884vgz), 535 713 vistas ✅
+- **Story Trailer** · 3,6 M vistas (§2) ✅
+- Tráiler de gameplay · [MGG](https://www.dailymotion.com/video/x84nwis) (2:59) ⚠️
+- Videoanálisis de JeuxVideo.com · [x89nydl](https://www.dailymotion.com/video/x89nydl) (8:47) ⚠️
+- **Escena de Melina «The Melina Accord»** (GamesRadar, 1:46) · [x8fuija](https://www.dailymotion.com/video/x8fuija) — poses en §14 ⚠️
+- Longplay completo · [Internet Archive](https://archive.org/details/PS5_Longplay_Elden_Ring) ⚠️
+- Cronología: anuncio en el E3 2019, gameplay en el Summer Game Fest de junio 2021, salida el 25-feb-2022 ([3DJuegos](https://www.3djuegos.com/juegos/elden-ring/) y Wikipedia) ✅
+- **Tendencia**: el maratón de Kai Cenat en Twitch, 170 partes subidas a [Internet Archive](https://archive.org/details/KaiCenatsEldenRingMarathon) ✅
+- ⚠️ TikTok no se pudo mirar desde el servidor (página vacía dos veces). Los TikTok hispanos están en §22.
+
+## 11 · Los videojuegos de la franquicia
+
+| Juego | Fecha | Interfaz y diálogo |
+|---|---|---|
+| **ELDEN RING** | 25-feb-2022 | HUD mínimo, «esqueuomórfico». Vida, PM y aguante arriba a la izquierda; brújula arriba al centro sólo con tus marcas; sin minimapa ✅ |
+| **Shadow of the Erdtree** (DLC) | 20-jun-2024 | La misma caja. Añade al menú de gracia la pestaña «Bendición del Reino de las Sombras», con los Fragmentos del Árbol Umbrío ([TheGamer](https://www.thegamer.com/elden-ring-shadow-of-the-erdtree-scadutree-fragments-locations-guide/), [Beebom](https://beebom.com/elden-ring-shadow-of-the-erdtree-how-get-scadutree-fragments/)) ✅ |
+| **NIGHTREIGN** (cooperativo, roguelite) | 30-may-2025 | Pantallas nuevas: elegir fase, sala de espera, resultados, elegir mejora, nombre del personaje ✅ |
+| **The Forsaken Hollows** (DLC de Nightreign) | 3-dic-2025 | Sin cambios documentados ⚠️ |
+| **Tarnished Edition** | 27-ago-2026 | Sin cambios documentados ⚠️ |
+
+- Las 6 fichas de [Steam](https://store.steampowered.com/app/1245620) traen **español de Hispanoamérica** en menús y subtítulos ✅
+- **Contenido descartado**: [The Cutting Room Floor](https://tcrf.net/Elden_Ring) recoge diálogos cortados, una misión cancelada de Kalé y una lágrima de plata que hablaba ⚠️ (visto sólo en el buscador; la web dio 403).
+- Nightreign no es un cruce con otra marca: es un juego propio de FromSoftware ✅
+
+## 12 · Lo que ama el fandom y qué NO hacer
+
+**Lo que ama**
+- **Gurranq aúlla de noche mirando al Árbol Áureo**, donde está Marika, antes de revelarse como Maliketh. Un secreto que rompe el corazón ([wiki](https://eldenring.fandom.com/wiki/Gurranq,_Beast_Clergyman)) ✅
+- Chiste de Sellen: «convierte a la gente en bolas y luego ella misma se vuelve una bola» ([hilo de Reddit, 5319 votos](https://www.reddit.com/r/Eldenring/comments/1w7nzxh/why_does_fandom_love_her_so_much_i_read_her_lore/)) ✅
+- Lo difíciles que son **Malenia y Radahn**: se lleva con orgullo, no como queja ✅
+- **«Maidenless»** («sin doncella»): el insulto que se volvió meme ✅
+- Hilos de miles de votos sobre lo más icónico, como [armas que nunca usaste](https://www.reddit.com/r/Eldenring/comments/1sxj620/iconic_weapons_you_never_used/) ✅
+- Los 30 millones vendidos y el Juego del Año 2022 ✅
+
+**Qué NO hacer**
+- **No dibujar a Malenia «bonita» y entera.** Perdió un brazo, una pierna y los ojos por la Podredumbre. La prótesis dorada es parte de ella ✅
+- **No poner a Melina sonriente ni efusiva.** Es un espíritu contenido; casi nunca sonríe.
+- **No inventar un doblaje latino** (§8).
+- **Nada de colores alegres ni interfaces limpias de juego casual.** El mundo es decadente: dorado, ceniza y ruina.
+- **No confundir a Malenia con Marika ni con Ranni**: las tres son «mujer pálida de pelo largo».
+- No ponerle burbuja blanca de cómic: el juego no tiene (§6).
+
+## 13 · Los personajes a fondo
+
+Aviso: Elden Ring **no tiene caras expresivas** como un anime. Las caras casi no se mueven; la emoción va en la voz, el texto y la luz. La parte de voz miró el tráiler entero (211 planos): hay poca variedad de gesto. No se inventa.
+
+**Malenia y Melina son hermanas**: las dos, hijas de Marika. Lo dicen la ficha de [Melina](https://eldenring.fandom.com/wiki/Melina) y la de [Malenia](https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella), y [Fextralife](https://eldenring.wiki.fextralife.com/Malenia) ✅. Nunca aparecen juntas en pantalla.
+
+### Melina · la guía (voz: Martha Mackintosh)
+- **Quién es**: la «doncella» del jugador. Nace al pie del Árbol Áureo, hija de Marika. Te ofrece un **pacto**: convierte tus runas en fuerza y a cambio la llevas al Árbol ✅
+- Es un espíritu: no puede tocar sin quemarse. Tiene quemaduras curadas en las manos ✅
+- **Qué transmite**: misterio protector, ternura fría, sacrificio. Duele porque en su final se **prende fuego ella misma** para quemar el Árbol. Si eliges la Llama Enloquecida, rompe el pacto y promete matarte ✅
+- **Cómo habla**: inglés antiguo («thou», «shouldst»), frases cortas y con peso. **Nunca grita ni bromea.** Te llama «compañero».
+- **Cara**: pelo rosa ceniza, **un ojo cerrado con una marca** (hoja 1, nº 29 y 31), capucha y capa gris.
+- **Con quién**: el jugador. Sale con Torrent, el caballo, en su turnaround (hoja 1, nº 46).
+- Curiosidad: frases de tráiler que no están en el juego: «The Golden Order is broken to its core» ⚠️
+
+### Malenia · la Espada de Miquella (voz: Pippa Bennett-Warner)
+- **Quién es**: gemela de Miquella. Nació con la **Podredumbre Escarlata**, que le comió los ojos y varios miembros. Aun así, nunca perdió ✅
+- Luchó contra su medio hermano **Radahn** en Aeonia: soltó la Podredumbre, él quedó enloquecido y ella en coma. La rescató su caballero Finlay ✅
+- **Qué transmite**: grandeza trágica. La guerrera perfecta traicionada por su propio cuerpo.
+- **Cómo se expresa**: casi no habla. Su voz son sus movimientos: estocadas dobles, la Danza del Ave Acuática y la flor final. Sin muletillas ni risa.
+- **Frase**: «I am Malenia, Blade of Miquella. And I have never known defeat».
+- ⚠️ En desarrollo se llamaba «Arbitress Malenia» y tenía otra cinemática (contenido cortado).
+
+### Ranni la Bruja · la más querida (voz: Aimee-Ffion Edwards)
+- **Quién es**: hija de Radagon y Rennala, princesa de los Carian. Quiere **robar la Muerte** y acabar con la Orden Dorada para crear la suya: la Era de las Estrellas ([ficha](https://eldenring.fandom.com/wiki/Ranni_the_Witch)) ✅
+- Su familia: el lobo **Blaidd** y el herrero **Iji**. Su cuerpo de niña es una **muñeca** que ella misma hizo.
+- Por qué se la quiere: tiene el arco más largo, uno de los pocos finales con calidez y un humor seco.
+
+### Su cara en cada emoción
+| Personaje | Emoción | Minuto | Enlace |
+|---|---|---|---|
+| Melina | Seria, interrogante (ceño, mirada fija) | 0:44 | [x8837gv](https://www.dailymotion.com/video/x8837gv?t=44) |
+| Melina | Tristeza contenida (mirada baja) | 1:32 | [x8837gv](https://www.dailymotion.com/video/x8837gv?t=92) |
+| Melina | Solemne, mirada directa | 3:20 | [x89nx9b](https://www.dailymotion.com/video/x89nx9b?t=200) |
+| Malenia | Rabia: la Flor Escarlata (casco puesto, sin cara) | 1:45 | [x89wlj1](https://www.dailymotion.com/video/x89wlj1?t=105) |
+| Malenia | Furia en el clímax | 3:00 | [x89wlj1](https://www.dailymotion.com/video/x89wlj1?t=180) |
+
+⚠️ **Alegría, miedo y vergüenza no existen** en el material oficial de estas dos. No es falta de búsqueda: el personaje no las muestra.
+
+### Dinámicas
+- **Melina y el jugador**: pacto, guía, sacrificio.
+- **Malenia y Miquella**: amor de gemelos (estatua abrazados, hoja 1, nº 36-37).
+- **Malenia contra Radahn**: la batalla de Aeonia (hoja 1, nº 41-42).
+- **Ranni, Blaidd e Iji**: la familia elegida.
+
+## 14 · Poses analizadas
+
+### Malenia (combate, [x89wlj1](https://www.dailymotion.com/video/x89wlj1))
+| Minuto | Qué hace | Sirve para |
+|---|---|---|
+| 0:00 | De pie, brazo dorado alzado, mirada a cámara | **Presentar** |
+| 0:32 | Gira en el aire con estelas blancas | **Celebrar**, acción |
+| 1:36 | Agachada, silueta oscura contra el oro | **Pensar**, pausa |
+| 2:16 | Envuelta en llamas rojas, alas abiertas | **Regañar**, advertir |
+| 3:04 | Centro de la flor Scarlet Aeonia, brazos abiertos | **Celebrar** (pose promocional) |
+| 4:08 | Silueta alada de perfil sobre humo rojo | **Presentar** |
+
+### Melina ([x89nx9b](https://www.dailymotion.com/video/x89nx9b) y [x8fuija](https://www.dailymotion.com/video/x8fuija))
+| Minuto | Qué hace | Sirve para |
+|---|---|---|
+| 3:12 (tráiler) | Perfil, capucha, adorno dorado en la sien | **Presentar** |
+| 3:20 (tráiler) | De frente, mirada a cámara | **Explicar** |
+| 0:20 (Accord) | Sentada con las piernas cruzadas junto a la gracia | **Explicar** |
+| 0:40 (Accord) | Más cerca, manos en el regazo, luz desde abajo | **Pensar**, escuchar |
+| 1:25 (Accord) | Junto al jugador arrodillado, en la Mesa Redonda | **Presentar** a dos |
+| 1:35 (Accord) | De pie junto a la gracia, columna de luz blanca detrás | **Animar**, ceremonia |
+
+- Poses de arte oficial: Melina sentada al brasero (4 fotogramas), turnarounds (hoja 1, nº 10, 46, 47); Malenia concept art de pie (nº 43).
+- ✅ Dos vídeos distintos muestran el mismo diseño. Cumple el mínimo de 6 poses por personaje.
+
