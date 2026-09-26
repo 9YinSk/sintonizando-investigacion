@@ -88,6 +88,25 @@ Quirrel | «Nos volvemos a encontrar, mi pequeño amigo. Aquí, por fin, me sien
 
 **Qué transmite cada uno** (la emoción que deja verlo, momentos clave): el Caballero transmite una determinación silenciosa que da ganas de seguir explorando pese al ambiente sombrío — su momento clave es cualquier final (varios posibles) donde su sacrificio o transformación cierra su arco sin decir una palabra; Hornet transmite alivio/alegría contenida cuando por fin confía en el jugador — su momento clave es revelar su parentesco con el Caballero y arriesgar su vida en la batalla final; Quirrel transmite calma y una tristeza dulce — su momento clave es la despedida del Lago Azul (punto 21) · lectura propia sobre las fichas y diálogos ya citados · ⚠️ (interpretación razonada sobre datos ✅, no encuesta)
 
+**Cara en cada emoción (tabla fija del punto 13)**: en un videojuego de pixel art sin cinemáticas habladas no hay «minuto» de vídeo; uso en su lugar el lugar del juego y el número de la hoja de contacto ya recolectada por el investigador de imagen. Aviso honesto antes de la tabla: los tres tienen máscara fija («Frozen Face», ya citado) — no hay primer plano que cambie de expresión por emoción; lo que sí cambia es la POSTURA y el lugar/contexto, que es lo que anoto.
+
+Personaje | Emoción | Lugar en el juego | Fotograma (hoja · imagen) | Fuente
+---|---|---|---|---
+El Caballero | Alegría/paz | Sentado junto a Quirrel en el Lago Azul (por su propia voluntad, sin que el juego lo obligue) | `personajes_02.jpg` nº89-90 (zona, no primer plano) | ⚠️ (pose vista, cara sin cambio)
+El Caballero | Rabia/determinación (no hay «rabia» facial: se ve en la acción) | Golpe final contra la Radiancia, con el Vacío | `personajes_01.jpg` nº100 (Knight_Action.png, clavo en alto) | ✅ (mirado)
+El Caballero | Tristeza | No documentado en su cara ni en su cuerpo (es mudo e inexpresivo por diseño); se infiere sólo por la música de la escena | — | ⚠️ (no encontrado; el propio diseño lo impide)
+El Caballero | Miedo | No documentado: nunca huye ni retrocede en las cinemáticas revisadas | — | ⚠️ (no encontrado)
+El Caballero | Vergüenza | No aplica: no hay escena de vergüenza para un personaje sin diálogo ni rostro expresivo | — | ✅ (no aplica, confirmado por diseño)
+Hornet | Tristeza/duelo | Nido Profundo, tras matar a Herrah (pide quedarse sola) | `personajes_02.jpg` nº76-80 (zona de Nido Profundo, no primer plano) | ⚠️ (lugar visto, cara sin cambio; el duelo se confirma por el TEXTO, no por el rostro)
+Hornet | Rabia/combate | Postura de contraataque, aguijón en alto | `personajes_01.jpg` nº99 (Boss_hornet_02.png) | ✅ (mirado)
+Hornet | Alegría | No documentada de forma clara (es la más seria de los tres); lo más parecido es su gusto por criaturas peludas en el Diario (punto 20) | — | ⚠️
+Hornet | Miedo | No documentado: TV Tropes no registra ninguna escena de miedo de Hornet | — | ⚠️ (no encontrado)
+Hornet | Vergüenza | No documentada | — | ⚠️ (no encontrado)
+Quirrel | Alegría/paz | Despedida en el Lago Azul («aquí, por fin, me siento en paz») | `personajes_02.jpg` nº85-90 (zona Lago Azul) | ⚠️ (lugar visto, cara sin cambio; la paz se confirma por el TEXTO)
+Quirrel | Determinación | Ayudando a pelear contra Uumuu (grito «KA-SHAAA!») | `personajes_02.jpg` nº83 (zona Archivos de la Maestra/Uumuu) | ⚠️ (lugar visto, no primer plano)
+Quirrel | Tristeza/cansancio | «Empiezo a sentir mi edad», tras la muerte de Monomon | Texto oficial, wiki ES (ya citado en el punto 8) | ✅
+Quirrel | Miedo/vergüenza | No documentados | — | ⚠️ (no encontrado)
+
 **Un secundario más, por si hace falta un cuarto personaje para la lámina de grupo**: Grimm (líder de la Tropa Grimm) es, junto a Quirrel, el otro gran «Ensemble Dark Horse» del punto 7. Carácter: misterioso, cortés casi hasta lo teatral, con motivaciones ambiguas (¿villano o sólo un maestro de ceremonias?); su voz rasposa generó el meme «Grimm necesita agua/es fumador» (punto 8); es de los jefes más difíciles pero "challenging, not infuriating": premia aprender sus patrones · TV Tropes YMMV + Memes/HollowKnight · ✅
 
 ## 20 · Gustos y detalles de cada personaje
