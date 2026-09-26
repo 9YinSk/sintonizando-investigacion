@@ -57,6 +57,7 @@ _Escrito el 2026-09-26_
 **Manga** (Masahito Watari, en *Gekkan Dragon Age* desde sept. 2014)
 - Dos reseñas (FandomPost, Taykobon) señalan una técnica propia de Watari: **los apartes y chistes pequeños van en texto más chico dentro del MISMO globo** que la frase principal, dando un efecto de "dicho entre dientes" · ⚠️ una sola fuente (no pude abrir ninguna de las dos páginas directamente — FandomPost dio 403 y Taykobon dio error 521; el dato viene de los fragmentos que devolvió la búsqueda)
 - No encontré una página de manga real para medir la forma exacta de los globos (ver «No encontré»): Danbooru/Safebooru no devolvieron páginas de manga etiquetadas para esta serie con los límites de 1-2 etiquetas que aceptan sin cuenta.
+- **Rotulista (letterer) de la edición en inglés**: **Bianca Pistillo**, acreditada en la ficha oficial del volumen 1 · ✅ confirmado directamente en el HTML de [yenpress.com](https://yenpress.com/titles/9780316468664-konosuba-god-s-blessing-on-this-wonderful-world-vol-1-manga) (la vista previa de páginas de muestra carga por JavaScript y no pude extraer las imágenes con `curl`, pero el crédito del rotulista sí está en el HTML estático)
 
 **Cartelas de título de episodio** (anime): ver punto 5 — cubo cian + Aqua + texto cian sobre fondo estrellado, en cada episodio de las temporadas principales.
 
@@ -195,6 +196,8 @@ Konosuba tiene **seis** videojuegos oficiales (ninguno tiene versión en españo
 - **The Cutting Room Floor**, página completa: existe y la confirmé por búsqueda (juego *Labyrinth of Hope*, PS Vita, con una pantalla de título temprana sin usar en `ADV\test.txa`), pero la página en sí da 403 por Cloudflare al intentar abrirla directamente
 - **Interfaz de *KonoSuba: in the life*** (RPG Maker VX): no encontré capturas propias del juego, sólo confirmé que existe y su motor
 - **Game UI Database** (`gameuidatabase.com`): no tiene ninguna entrada para juegos de Konosuba
+- **Programa/técnica de animación exacto** (Clip Studio, RETAS, Toon Boom…) y **filtros de posproducción** (grano, aberración cromática, brillo de cámara) que usó Studio DEEN o Drive: no encontré ninguna entrevista de staff de fotografía/acabado (撮影・仕上げ) que lo confirme para esta serie en concreto; sólo información genérica de la industria, no específica de Konosuba
+- **Desglose de encuadres por emoción** (plano/ángulo típico para cada emoción, punto 18): sólo tengo la filosofía general de Kikuta ("layouts tipo cámara"), no un análisis plano a plano verificado
 - **Coreano/chino**: la obra es japonesa y su público de doblaje/localización relevante para el servidor es hispanohablante, así que prioricé japonés/inglés/español; sí hice una búsqueda en coreano sobre la interfaz de *Fantastic Days* (que tuvo lanzamiento en Corea vía Nexon) y sólo salieron reseñas generales, sin detalle de tipografía
 
 ---
@@ -231,7 +234,3 @@ Konosuba tiene **seis** videojuegos oficiales (ninguno tiene versión en españo
 | File:Card Machine.JPG | — | Fandom API + Pillow | Máquina de fichas del Gremio medida |
 | Google Fonts / Fontsource: Archivo Black, Baloo 2, Fredoka, Alegreya, Varela Round | — | API de Fontsource | Cobertura de ñ/¿/¡/tildes confirmada por `unicodeRange` del subset `latin` |
 | Konosuba4-Regular.ttf | — | fontTools | ¿/¡ presentes; ñ y vocales con tilde ausentes |
-
----
-
-Sigue: subtítulos oficiales en español (medir fuente con un clip real cuando YouTube deje de pedir sesión, o probar Dailymotion/Internet Archive de nuevo), y confirmar por una segunda fuente el crédito de "Ushio Funayama" como diseñador del logo si aparece en algún artbook o making-of.

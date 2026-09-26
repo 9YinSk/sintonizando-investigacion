@@ -1,0 +1,245 @@
+[
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349140/ss_02d043c88f4cee2696a4acb3f900f819af0aca9c.1920x1080.jpg",
+    "fuente": "Steam — KONOSUBA: Love For These Clothes Of Desire! (appid 2349140)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial del videojuego — cuadro de diálogo de Megumin en pergamino con extremos enrollados",
+    "para_que": "Referencia directa del cuadro de diálogo oficial con temática de fantasía (punto 6); paleta pergamino medida",
+    "licencia": "© MAGES. Publicado por PQube Ltd. — sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349140/ss_1d3ebca3f94196defbc7ee0827bccf21d0ee5f9a.1920x1080.jpg",
+    "fuente": "Steam — KONOSUBA: Love For These Clothes Of Desire! (appid 2349140)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial — menú de planificación semanal (Schedule Overview) con iconos circulares",
+    "para_que": "Referencia de interfaz de menú fuera del diálogo, misma paleta marrón/pergamino (punto 11)",
+    "licencia": "© MAGES. Publicado por PQube Ltd. — sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349140/ss_29b37a1f25fc3f7951d6027eb5afe8c41668ba36.1920x1080.jpg",
+    "fuente": "Steam — KONOSUBA: Love For These Clothes Of Desire! (appid 2349140)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial — cuadro de elección de diálogo con flechas laterales",
+    "para_que": "Referencia de la variante de elección del mismo sistema de pergamino (punto 6)",
+    "licencia": "© MAGES. Publicado por PQube Ltd. — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/1/17/Explosion.gif/revision/latest?cb=20250711005401",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": 800,
+    "alto": 450,
+    "que_es": "Clip oficial del anime — Megumin lanzando el hechizo Explosión (35 fotogramas)",
+    "para_que": "Paleta y sombreado del efecto de Explosión medidos con estilo.py (punto 18); pose y VFX de referencia",
+    "licencia": "© Studio DEEN / Kadokawa — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/3/3f/Megumin-anime.png/revision/latest?cb=20180328143334",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": 300,
+    "alto": 600,
+    "que_es": "Ficha oficial de personaje del anime — Megumin de cuerpo entero, fondo transparente",
+    "para_que": "Referencia de vestuario, silueta y sombreado plano (cel) medido con estilo.py (punto 18)",
+    "licencia": "© Studio DEEN / Kadokawa — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/b/b8/Episode_1_Title.png/revision/latest?cb=20170203231835",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma oficial — cartela de título del episodio 1 (cubo cian, Aqua, texto cian)",
+    "para_que": "Referencia de tipografía y color de las cartelas de episodio, medida en hex (punto 5)",
+    "licencia": "© Studio DEEN / Kadokawa — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/a/aa/Episode_4_Title.png/revision/latest?cb=20170203231837",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma oficial — cartela de título del episodio 4",
+    "para_que": "Segunda muestra de la cartela de episodio para confirmar el patrón (punto 5)",
+    "licencia": "© Studio DEEN / Kadokawa — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/1/17/AxisCult.png/revision/latest?cb=20250701133903",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": 480,
+    "alto": 480,
+    "que_es": "Emblema oficial del Culto Axis (rombo celeste con glifo blanco), fotograma del anime",
+    "para_que": "Símbolo de facción medido en color, para sello/insignia de lámina (punto 25)",
+    "licencia": "© Studio DEEN / Kadokawa — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/e/e2/Card_Machine.JPG/revision/latest?cb=20160913122032",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": 848,
+    "alto": 480,
+    "que_es": "Fotograma oficial — la Máquina de Fichas del Gremio de Aventureros de Axel",
+    "para_que": "Objeto icónico del mundo (interfaz física) para replicar en Blender; colores medidos (puntos 6 y 25)",
+    "licencia": "© Studio DEEN / Kadokawa — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konofan/images/3/3e/0.I_Battle_tutorial_%281%29.png/revision/latest?cb=20200223015130",
+    "fuente": "Konosuba: Fantastic Days Fandom Wiki (konofan)",
+    "ancho": 2232,
+    "alto": 1080,
+    "que_es": "Captura oficial del juego — tutorial de batalla con burbuja rosa magenta",
+    "para_que": "Referencia de interfaz de diálogo/tutorial in-game, color de marca medido (punto 6)",
+    "licencia": "© Sumzap — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konofan/images/6/64/0.I_Battle_tutorial_%283%29.jpg/revision/latest?cb=20200223015253",
+    "fuente": "Konosuba: Fantastic Days Fandom Wiki (konofan)",
+    "ancho": 2232,
+    "alto": 1080,
+    "que_es": "Captura oficial del juego — panel de habilidades con iconos redondeados",
+    "para_que": "Referencia de iconografía de interfaz del gacha (punto 11)",
+    "licencia": "© Sumzap — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konofan/images/4/47/0.I_Battle_tutorial_%285%29.png/revision/latest?cb=20200223015310",
+    "fuente": "Konosuba: Fantastic Days Fandom Wiki (konofan)",
+    "ancho": 2226,
+    "alto": 1080,
+    "que_es": "Captura oficial del juego — combate con el Sapo Gigante, menú de comandos abajo",
+    "para_que": "Referencia de UI completa de combate por turnos SD (punto 11)",
+    "licencia": "© Sumzap — sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konofan/images/b/bb/0.I_Battle_tutorial_%287%29.jpg/revision/latest?cb=20200223015330",
+    "fuente": "Konosuba: Fantastic Days Fandom Wiki (konofan)",
+    "ancho": 2238,
+    "alto": 1080,
+    "que_es": "Captura oficial del juego — aviso de medidor de habilidad especial",
+    "para_que": "Cuarta muestra de la interfaz de tutorial, confirma el patrón de color (punto 6)",
+    "licencia": "© Sumzap — sólo referencia"
+  },
+  {
+    "url": "https://harjit.moe/konosubanomoji.html",
+    "fuente": "harjit.moe (trabajo de fans)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reconstrucción en fuente TTF del alfabeto latino ficticio que se ve en carteles/pergaminos del anime",
+    "para_que": "Letra libre para el 'cartel del mundo' de Konosuba; comprobado con fontTools qué caracteres trae (punto 5)",
+    "licencia": "Trabajo de fans sin aval oficial — uso como referencia, no redistribuir como propio"
+  },
+  {
+    "url": "https://wavemotioncannon.com/2017/02/07/konosuba-interview-with-koichi-kikuta-anime-style-009-july-2016/",
+    "fuente": "Wave Motion Cannon (traducción de Anime Style 009)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista traducida al diseñador de personajes del anime, Koichi Kikuta",
+    "para_que": "Fuente directa de la filosofía de dibujo, línea, sombreado y layouts del anime (punto 18)",
+    "licencia": "Artículo de prensa — sólo referencia"
+  },
+  {
+    "url": "https://ln-news.com/articles/35149/1",
+    "fuente": "Ranobe News Online (LN News)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista exclusiva a Natsume Akatsuki, autor de Konosuba, sobre sus influencias",
+    "para_que": "Fuente directa de obras y videojuegos que influyeron al autor (punto 24)",
+    "licencia": "Artículo de prensa — sólo referencia"
+  },
+  {
+    "url": "https://sneakerbunko.jp/lodoss30th/news/20190731_01.html",
+    "fuente": "Kadokawa Sneaker Bunko",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Coloquio oficial entre Ryo Mizuno (Record of Lodoss War) y Natsume Akatsuki",
+    "para_que": "Segunda fuente que confirma la influencia de Lodoss War en el autor de Konosuba (punto 24)",
+    "licencia": "Página oficial de la editorial — sólo referencia"
+  },
+  {
+    "url": "https://gamerant.com/best-isekai-anime-like-konosuba/",
+    "fuente": "GameRant",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo curado de obras similares a Konosuba, con razón de cada comparación",
+    "para_que": "Lista editorial de obras parecidas, complementaria a las recomendaciones automáticas de AniList (punto 24)",
+    "licencia": "Artículo de prensa — sólo referencia"
+  },
+  {
+    "url": "https://konosuba.fandom.com/wiki/Anime",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa del anime: estudios, staff y episodios por temporada",
+    "para_que": "Fuente de estudios (DEEN/J.C.Staff/Drive) y del mapeo temporada↔volumen (puntos 18 y 25)",
+    "licencia": "CC BY-SA"
+  },
+  {
+    "url": "https://konosuba.fandom.com/wiki/Terminology",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Glosario oficial del mundo: moneda, gremios, estadísticas, localizaciones",
+    "para_que": "Vocabulario propio de la serie y reglas del mundo en cinco líneas (punto 25)",
+    "licencia": "CC BY-SA"
+  },
+  {
+    "url": "https://konosuba.fandom.com/wiki/Crimson_Demons",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del clan de los Demonios Carmesí: rasgos, tatuaje de código de barras, personalidad",
+    "para_que": "Datos de facción/símbolo para el punto 25",
+    "licencia": "CC BY-SA"
+  },
+  {
+    "url": "https://konosuba.fandom.com/wiki/Axis_Order",
+    "fuente": "Konosuba Fandom Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del culto/orden Axis (religión de Aqua)",
+    "para_que": "Datos de la facción cuyo emblema se midió en color (punto 25)",
+    "licencia": "CC BY-SA"
+  },
+  {
+    "url": "https://store.steampowered.com/app/2349140/",
+    "fuente": "Steam",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la tienda del videojuego oficial Love For These Clothes Of Desire!",
+    "para_que": "Fuente primaria del videojuego con capturas oficiales en 1920×1080 (punto 11)",
+    "licencia": "Página pública de tienda — sólo referencia"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Archivo+Black",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Archivo Black — gótica gruesa de remates cuadrados, cobertura latina completa",
+    "para_que": "Letra libre equivalente al logo de Konosuba (まーと太角ゴシック), con ñ/¿/¡/tildes confirmados (punto 5)",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Baloo+2",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Baloo 2 ExtraBold — gótica redondeada muy gruesa",
+    "para_que": "Letra libre equivalente a las cartelas de título de episodio y a la interfaz de Fantastic Days (punto 5)",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Alegreya",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Alegreya Bold — serif con carácter de libro antiguo",
+    "para_que": "Letra libre equivalente al texto del cuadro de diálogo del videojuego oficial (punto 5)",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://tcrf.net/Kono_Subarashii_Sekai_ni_Shukufuku_wo!_~Kibou_no_Meikyuu_to_Tsudoishi_Boukensha-tachi~_(PlayStation_Vita)",
+    "fuente": "The Cutting Room Floor",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de contenido descartado del juego de PS Vita Labyrinth of Hope and the Gathering Adventurers",
+    "para_que": "Fuente de contenido descartado/beta pedida por el encargo para videojuegos (punto 11)",
+    "licencia": "CC BY-NC-SA — sólo referencia"
+  }
+]
