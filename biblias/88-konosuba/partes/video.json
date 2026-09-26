@@ -187,5 +187,59 @@
     "que_es": "Fotograma de Aqua (escena de la diosa) usado para verificar que el ítem es Konosuba auténtico antes de citar el ending",
     "para_que": "Verificación de fuente — no se usa como cita de contenido, sólo como control de autenticidad",
     "licencia": "Subida de fan con doblaje ruso sobre animación oficial — uso de referencia, no redistribuible"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7yuuzw?t=55",
+    "fuente": "Dailymotion — eyewitnessese (recopilación sub ES/EN, Aqua/Darkness)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Fotograma de Darkness tirando de las mejillas de Aqua en tono de reproche, brazo extendido",
+    "para_que": "Punto 14: quinta pose de Darkness (regañar) — antes sólo tenía 4",
+    "licencia": "Clip recopilatorio de fan con subtítulos — uso de referencia"
+  },
+  {
+    "url": "https://konosuba.fandom.com/api.php?action=parse&format=json&page=Fantastic_dreamer&prop=wikitext",
+    "fuente": "Fandom API — konosuba.fandom.com (Fantastic dreamer)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha {{Music}} del wikitext: OP1, Machico, 4:04, 27-ene-2016",
+    "para_que": "Punto 9: enlace real (antes sólo mencionado como texto) que confirma título/cantante/fecha del OP1",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom) — cita, no redistribución"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/KonoSuba_season_3",
+    "fuente": "Wikipedia — KonoSuba season 3",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo que confirma OP3 «Growing Up» (Machico), ED3 «Ano Hi no Mama no Bokura» (Amamiya/Takahashi/Kayano) y fechas de emisión (10-abr a 19-jun-2024)",
+    "para_que": "Punto 9 y 10: segunda/tercera fuente de OP/ED de temporada 3 y de la fecha del tráiler",
+    "licencia": "Wikipedia CC BY-SA — cita, no redistribución"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/f184e4df-3edb-43c3-80da-b954bffdd64d",
+    "fuente": "MusicBrainz — release-group",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Álbum OST+Drama CD Vol.1 «旅立つ我らに祝福を!», atribuido a 甲田雅人 (Masato Kōda), 23-mar-2016",
+    "para_que": "Punto 9: enlace real del OST1 (antes citado sólo como texto de datos-video.md)",
+    "licencia": "Datos abiertos MusicBrainz (CC0/PDDL) — cita"
+  },
+  {
+    "url": "https://animecorner.me/konosuba-season-3-anime-gets-first-main-trailer-april-premiere/amp/",
+    "fuente": "Anime Corner",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo (25-dic-2023) sobre el tráiler principal de S3: estudio Studio Drive, director Yujiro Abe, diseño de personajes Koichi Kikuta, música Masato Koda, reparto completo",
+    "para_que": "Punto 10: cobertura de prensa del tráiler con ficha técnica, dominio distinto a Dailymotion/Archive.org",
+    "licencia": "Artículo de prensa — cita, no redistribución"
+  },
+  {
+    "url": "https://www.tiktok.com/@animetrailernews/video/7334783061088816426",
+    "fuente": "TikTok — @animetrailernews",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Vídeo de un canal de noticias de anime republicando el tráiler oficial de KonoSuba S3",
+    "para_que": "Punto 10: tendencia TikTok — enlace confirmado por WebSearch, contenido no reproducible desde este servidor (TikTok exige iniciar sesión)",
+    "licencia": "Vídeo de terceros en TikTok — sólo enlace de referencia, no visto ni redistribuido"
   }
 ]

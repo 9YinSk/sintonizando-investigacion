@@ -112,6 +112,13 @@ Dailymotion y se leyó con Read.
 - **T3: «Ano Hi no mama no Bokura» / «Like we were that day»** (あの日のままのぼくら) · mismo trío · 3:11 · 10-abr-2024 · ✅ (también visible en cartela del tráiler S3, fotograma 26)
 - Dato curioso: que las endings las canten las seiyū del reparto (no un artista externo) es un rasgo de identidad de la serie — el «grupo cantando su propio cierre».
 
+**Confirmación cruzada con enlaces directos (relanzo, dominios distintos a Dailymotion/Archive.org):**
+- Fandom, `konosuba.fandom.com` (dominio nuevo, con enlace real, no sólo texto): https://konosuba.fandom.com/api.php?action=parse&format=json&page=Fantastic_dreamer&prop=wikitext · ficha `{{Music}}`: Machico, 4:04, 27 enero 2016. ✅
+- Fandom: https://konosuba.fandom.com/api.php?action=parse&format=json&page=Ano_Hi_no_mama_no_Bokura&prop=wikitext · ficha del ED3, mismo trío de seiyū. ✅
+- Wikipedia, `en.wikipedia.org` (vía API `extracts`, dominio nuevo): https://en.wikipedia.org/wiki/KonoSuba_season_3 · confirma OP3 «Growing Up» (Machico) y ED3 «Ano Hi no Mama no Bokura» (Amamiya/Takahashi/Kayano), emisión 10-abr a 19-jun-2024 en Tokyo MX, Crunchyroll fuera de Asia. ✅✅ (coincide con Fandom y con el fotograma en pantalla del tráiler S3)
+- MusicBrainz, `musicbrainz.org` (dominio nuevo; ya citado como texto en la línea del compositor, ahora con enlace real): https://musicbrainz.org/release-group/f184e4df-3edb-43c3-80da-b954bffdd64d · álbum OST+Drama CD Vol.1 «旅立つ我らに祝福を!», 甲田雅人 (Masato Kōda), 23-mar-2016. ✅
+- MusicBrainz: https://musicbrainz.org/release-group/822f53f7-3af0-4c3d-aef5-490a1a36e912 · OST+Drama CD Vol.2 «冒険者に天の御加護を!», mismo compositor y fecha. ✅
+
 **Temas de videojuegos de la franquicia** (no del anime, pero de la misma IP — dato para el punto 11 también):
 - «STAND UP!» (Machico) · OP de *Labyrinth of Hope and the Gathering Adventurers* · 30-ene-2019 · Fandom wiki
 - «Happy Magic» (Machico) · OP de *KonoSuba: Fantastic Days* (app gacha) · 13-may-2020 · Fandom wiki
@@ -128,6 +135,7 @@ Dailymotion y se leyó con Read.
 **Compositor de la BSO: Masato Kōda (甲田雅人)** ✅ (dos fuentes)
 - WebSearch (IMDb + Wikipedia): compone la música del anime, la película «Legend of Crimson» y «An Explosion on This Wonderful World!».
 - Confirmado también cruzando `datos-video.md` (MusicBrainz): el álbum «旅立つ我らに祝福を！» (Give Blessings to Us on the Road!, 23-mar-2016) aparece atribuido a **甲田雅人** — coincide con la fecha exacta del wikitext de Fandom para ese mismo álbum (`Give_Blessings_to_us_on_the_Road!`).
+- Tercera fuente (relanzo): Anime Corner (`animecorner.me`, dominio nuevo, leído con `navegar.py`) confirma «Masato Koda composed the music» del tráiler S3 — https://animecorner.me/konosuba-season-3-anime-gets-first-main-trailer-april-premiere/amp/ ✅✅✅ (tres fuentes independientes: IMDb/Wikipedia, MusicBrainz y Anime Corner)
 - Otros trabajos suyos citados: Ape Escape 3, Resident Evil Outbreak, Super Smash Bros. Ultimate — compositor de videojuegos reconocido, no exclusivo de anime.
 
 ---
@@ -148,6 +156,16 @@ Dailymotion y se leyó con Read.
 - Konosuba cumplió 10 años en 2026 (la novela original es de 2013, el anime de 2016): el aniversario generó cobertura específica (vídeo de Espinof arriba) y el álbum «10th Anniversary Song Box» (mencionado en la wiki de música, con «BLAST» como tema nuevo del box, marzo 2026). ✅
 - **«Konosuba last fight»** (Mansan, 2016) sigue circulando 10 años después con reposiciones — señal de que la pelea final de la T1 es de las escenas más re-subidas. ⚠️ (una fuente, el propio recuento de vistas no es comparable a TikTok)
 - No se encontraron enlaces directos de TikTok verificables desde este servidor (TikTok no es accesible por `curl`/API pública sin cuenta); ver «No encontré».
+
+**Cobertura de prensa del tráiler S3 (relanzo, dominios distintos con enlace real):**
+- Anime Corner (`animecorner.me`), leído con `navegar.py`: https://animecorner.me/konosuba-season-3-anime-gets-first-main-trailer-april-premiere/amp/ · confirma tráiler principal publicado el 25-dic-2023, estreno en abril 2024, estudio Studio Drive, director Yujiro Abe, diseño de personajes Koichi Kikuta, música Masato Koda, reparto Sora Amamiya (Aqua) / Jun Fukushima (Kazuma) / Rie Takahashi (Megumin) / Ai Kayano (Darkness). ✅✅ (coincide con el propio tráiler visto fotograma a fotograma y con Wikipedia)
+- Wikipedia (`en.wikipedia.org`, API `extracts`): https://en.wikipedia.org/wiki/KonoSuba_season_3 · confirma emisión 10-abr a 19-jun-2024 en Tokyo MX, Crunchyroll fuera de Asia. ✅
+
+**Tendencias TikTok — encontradas por fin (relanzo), dominio `tiktok.com` nuevo, contenido no reproducible desde este servidor:**
+- https://www.tiktok.com/@animetrailernews/video/7334783061088816426 · «KonoSuba: God's Blessing on This Wonderful World! 3 - Official Trailer» — canal de noticias de anime, repostea el tráiler oficial.
+- https://www.tiktok.com/@momologacondoctorado/video/7316604243539152133 · «konosuba season 3 trailer #viral #fypage #fyp #foryou #parati» — reacción de fan en español con hashtags de tendencia.
+- https://www.tiktok.com/discover/konosuba-season-3-trailer · página de descubrimiento/hashtag del tráiler S3.
+- ⚠️ Los tres enlaces existen (confirmados por WebSearch) pero TikTok pide iniciar sesión incluso para reproducir un vídeo suelto, comprobado dos veces con `navegar.py` (la página carga pero el reproductor da «Tenemos problemas para reproducir este vídeo» o queda vacío) — no se pudieron ver vistas ni contenido exacto, sólo confirmar que la tendencia existe y su tipo (noticias + reacciones de fans).
 
 **Internet Archive (vídeo, ya en `datos-video.md`, confirmado en esta sesión):**
 - OVA completa (Puya Subs, 1080p): https://archive.org/details/puya-subs-kono-subarashii-sekai-ni-shukufuku-wo-movie-1080p-ea-780-c-8-e
@@ -194,6 +212,7 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 | **Darkness** — primer plano con casco/armadura, mirada firme (tráiler T3) | Tráiler T3 | 0:32 | Presentar como guerrera seria |
 | **Darkness** — de pie sosteniendo un espadón enorme sobre la cabeza, pose heroica | Opening 1 | 1:24 | Animar al grupo / pose de combate |
 | **Darkness** — junto a Megumin y Kazuma reaccionando a un monstruo, postura alerta con escudo | «recopilación Aqua» | 1:36-1:44 | Proteger / alerta de combate |
+| **Darkness** — brazo extendido, le tira de las mejillas a Aqua con gesto de reproche, postura activa e inclinada hacia delante | «recopilación Aqua-Darkness» (relanzo) | 0:55 | Regañar (postura activa, no de víctima — contrasta con el gag de masoquismo) |
 
 ---
 
@@ -211,8 +230,8 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 
 - ⚠️→✅ **Ending real en vídeo**: RESUELTO en el relanzo. Fallaron primero Dailymotion (`Chiisana Boukensha full`, `ちいさな冒険者`, `おうちに帰りたい`, `Konosuba ED1 animation`, y en esta tanda también `konosuba ending`, `konosuba ED`, `この素晴らしい世界に祝福を ED` → sin resultado fiel), AnimeThemes (HTTP 522) y un episodio de Internet Archive mal etiquetado (FFF, series de vaqueros/desierto). Se encontró en un ítem distinto de Internet Archive: la serie completa doblada al ruso sobre imagen/audio original (`archive_etot_zamechatelnyy_mir_kono_subarashii_sekai_ni_shukufuku_wo`, episodios 01-10 en .mp4). Se verificó que es Konosuba auténtico con un fotograma de control (episodio 1, min 5:00, escena de Aqua) antes de usar el episodio 2, donde el ending real (min 22:35-23:48) se vio fotograma a fotograma. Ver detalle en el punto 2.
 - No se probó Bilibili/Niconico ni `navegar.py` sobre TikTok/Bilibili en esta tanda porque Internet Archive resolvió el pendiente antes; queda como vía de repuesto si un repaso futuro necesita el ED oficial sin doblaje encima.
-- ⚠️ **Tendencias de TikTok con enlace verificable**: TikTok no es accesible por API pública ni por `curl` simple desde este servidor. No se intentó `navegar.py` sobre TikTok por ser previsible que bloquee igual que Reddit/TV Tropes con más severidad; se relanzaría en un repaso si el jefe lo pide.
-- ⚠️ **Darkness con sólo 4 poses** (el resto de personajes tiene 6-7): se probaron más búsquedas (`Lalatina Konosuba`, `Darkness Konosuba battle fight`, `Darkness Dustiness Konosuba`, `Darkness Konosuba tank shield`, `Darkness Konosuba confession`) sin encontrar más clips suyos en Dailymotion aparte de los ya usados. Las 4 poses cubren sus rasgos clave (masoquismo, guerrera, heroica, protectora), pero un repaso podría sumar 2-3 más si aparecen mejores clips.
+- ⚠️→parcial **Tendencias de TikTok**: RESUELTO en parte en el relanzo. `WebSearch` sí encuentra vídeos concretos de TikTok sobre Konosuba (enlaces en el punto 10: canal de noticias + reacción de fan con hashtags de tendencia + página de hashtag). Pero la propia página de TikTok bloquea incluso vídeos sueltos con `navegar.py` («Tenemos problemas para reproducir este vídeo» / página vacía, comprobado dos veces, distinto video cada vez), así que no se pudieron ver vistas ni contenido exacto — sólo confirmar que la tendencia existe y de qué tipo.
+- ⚠️ **Darkness con sólo 5 poses** (el resto de personajes tiene 6-7): en el relanzo se sumó una quinta (regañando a Aqua, clip `x7yuuzw`, min 0:55) tras probar `Darkness Konosuba armor`, `Konosuba Darkness masochist scene`, `ダクネス コノスバ` (japonés) y `Konosuba Darkness confession scene` en Dailymotion. Las demás búsquedas devolvieron el mismo clip del gólem ya usado o vídeos sin relación (Ultraman, «Army of Darkness»). Las 5 poses cubren sus rasgos clave (masoquismo, guerrera, heroica, protectora, autoritaria/regañona), pero sigue un poco por debajo del mínimo de 6 del encargo.
 - ⚠️ Episodio exacto de la «pelea final T1»: el título del clip dice «Konosuba season 1 last fight» pero no se confirmó el número de episodio con una segunda fuente.
 - ⚠️ Texturas AmbientCG: sugeridas por analogía, sin URL exacta verificada (mismo límite que en otras biblias del equipo, p. ej. Tanya).
 
@@ -245,6 +264,15 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 | 18 | Dailymotion API `Chiisana Boukensha` / `konosuba ending` / `konosuba ED` / `この素晴らしい世界に祝福を ED` (relanzo) | JA/EN | api.dailymotion.com | Sin ED real, mismos resultados irrelevantes de siempre ❌ |
 | 19 | `archive.org/metadata/` sobre 3 ítems candidatos (serie rusa completa T1 y T2, S2E2 suelto) | — | Internet Archive | Serie rusa T1 con 10 episodios .mp4 completos (imagen/audio original bajo doblaje) ✅ |
 | 20 | `fotogramas.py` sobre episodio 1 (min 5:00, control) y episodio 2 (min 21:40-24:10, búsqueda del ED) del ítem `archive_etot_zamechatelnyy_mir_kono_subarashii_sekai_ni_shukufuku_wo` | — | Internet Archive | Episodio 1 confirmado como Konosuba real (Aqua); episodio 2 min 22:35-23:48 = ending real «Chiisana Boukensha» ✅✅ |
+| 21 | `en.wikipedia.org/w/api.php?action=query&prop=extracts&titles=KonoSuba season 3` (relanzo, para sumar dominios distintos) | EN | Wikipedia API | Confirma OP3/ED3, fechas de emisión (10-abr a 19-jun-2024), canal (Tokyo MX) y streaming (Crunchyroll) ✅✅ |
+| 22 | `WebSearch: Konosuba season 3 trailer tiktok viral trend` (relanzo) | EN | WebSearch | 9 enlaces de TikTok reales (vídeos y páginas de hashtag) — primera vez que se confirma que existen enlaces concretos, no sólo el bloqueo ✅ |
+| 23 | `WebSearch: Konosuba season 3 trailer official announcement date Crunchyroll` (relanzo) | EN | WebSearch | Enlaces a Anime Corner, Dexerto, ComicBook, ScreenRant, Wikipedia — se eligió Anime Corner por ser el único legible con `navegar.py` (Dexerto es SPA sin contenido en el HTML servido) ✅ |
+| 24 | `navegar.py` sobre `https://www.tiktok.com/tag/konosuba` y sobre dos vídeos sueltos de TikTok (relanzo, 2 intentos como marca AYUDANTE.md) | — | TikTok | Bloqueado: pide iniciar sesión / «Tenemos problemas para reproducir este vídeo» en ambos intentos ❌ — confirma el límite ya anotado |
+| 25 | `navegar.py --selector article` sobre `animecorner.me/konosuba-season-3-anime-gets-first-main-trailer-april-premiere/amp/` (relanzo) | EN | Anime Corner | Artículo completo legible: fecha del tráiler, estudio, staff, reparto, compositor ✅ |
+| 26 | `curl` directo sobre `animenewsnetwork.com/encyclopedia` (relanzo) | EN | Anime News Network | Bloqueado por verificación de seguridad (Cloudflare) ❌ — no se insistió (regla de dos intentos), se usó Anime Corner en su lugar |
+| 27 | Dailymotion API `Darkness Konosuba armor` / `Konosuba Darkness masochist scene` / `ダクネス コノスバ` (JA) / `Konosuba Darkness confession scene` (relanzo, buscando 6ª pose) | JA/EN | api.dailymotion.com | Encontrado el clip `x5w5tow` (mismo gag del gólem ya usado) y `x7yuuzw` (nueva pose: Darkness regaña a Aqua, min 0:55) ✅ |
 
-**Confirmado (✅):** OP/ED de las 3 temporadas (título, cantante, fecha), compositor de la BSO (Masato Kōda), opening y ending 1 vistos en vídeo real fotograma a fotograma (con episodio de control para verificar autenticidad), tráiler oficial T3 visto fotograma a fotograma, 3 escenas icónicas vistas y citadas con minuto, 4 sitios con paleta medida, 22 poses de los 4 personajes con capítulo/clip y minuto.
-**A medias (⚠️):** tendencias TikTok (no probadas por falta de tiempo, ver «No encontré»), 2-3 poses de Darkness por debajo del mínimo recomendado.
+**Confirmado (✅):** OP/ED de las 3 temporadas (título, cantante, fecha) ahora con enlace directo en Fandom, Wikipedia y MusicBrainz (antes sólo texto); compositor de la BSO (Masato Kōda) con tres fuentes independientes (IMDb/Wikipedia, MusicBrainz, Anime Corner); opening y ending 1 vistos en vídeo real fotograma a fotograma; tráiler oficial T3 visto fotograma a fotograma y su ficha técnica confirmada por Anime Corner; 3 escenas icónicas vistas y citadas con minuto; 4 sitios con paleta medida; 23 poses de los 4 personajes con capítulo/clip y minuto; existencia de tendencia TikTok confirmada con 3 enlaces reales.
+**A medias (⚠️):** contenido exacto de los vídeos de TikTok (bloqueados por login, sólo se confirmó que existen), 1 pose de Darkness por debajo del mínimo recomendado (5 de 6).
+
+**Dominios distintos citados con enlace real en esta parte (relanzo, antes sólo 2):** dailymotion.com, archive.org, konosuba.fandom.com, musicbrainz.org, en.wikipedia.org, animecorner.me, tiktok.com.
