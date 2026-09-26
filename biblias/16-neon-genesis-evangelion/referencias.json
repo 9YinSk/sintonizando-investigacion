@@ -1,353 +1,2027 @@
 [
-  {
-    "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shin%20Seiki%20Evangelion",
-    "fuente": "GitHub (kitsunekko-mirror)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Subtítulos japoneses de Netflix (Erai-raws, con nombre de quien habla) y del BD de los 26 episodios, con tiempos",
-    "para_que": "Dar el minuto exacto de cada escena y frase (§2, §15)",
-    "licencia": "Subtítulos de fans / plataforma: sólo consulta"
-  },
-  {
-    "url": "https://fontsinuse.com/uses/28760/neon-genesis-evangelion",
-    "fuente": "Fonts In Use",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Análisis tipográfico de la serie: Matisse EB comprimida, Helvetica, Times, Chicago",
-    "para_que": "Tipografía de la cartela y de las pantallas (§6)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "http://route2015.evastore.jp/interview/01/3/",
-    "fuente": "EVA STORE / Fontworks (oficial)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Entrevista «エヴァンゲリオンが証明した、フォントのチカラ» sobre la letra de Eva",
-    "para_que": "Fuente oficial en japonés de la cartela (§6.1)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "https://www.animenewsnetwork.com/interest/2016-11-07/replicate-evangelion-stark-episode-titles-with-special-font-package/.108496",
-    "fuente": "Anime News Network",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Anuncio de las letras oficiales EVA-Matisse Classic y Standard (Fontworks, 2016)",
-    "para_que": "Saber que la letra oficial existe y es de pago (§6.1)",
-    "licencia": "Letra comercial; no usar copias"
-  },
-  {
-    "url": "https://github.com/TheGreatGildo/nerv-ui",
-    "fuente": "GitHub (proyecto de fans)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Sistema de diseño de las pantallas de NERV: hex, letras, compresión scaleX 0.78-0.85",
-    "para_que": "Paleta naranja/verde/cian/rojo y receta de cartela (§5.2, §6.2)",
-    "licencia": "MIT"
-  },
-  {
-    "url": "https://www.behance.net/gallery/96540159/Neon-Genesis-Evangelion-Screen-Graphics",
-    "fuente": "Behance (Pedro Fleming)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Recreación de las pantallas y gráficos de NERV",
-    "para_que": "Referencia de estilo de pantalla y panel de la lámina 2 (§7)",
-    "licencia": "Obra de fan; sólo referencia"
-  },
-  {
-    "url": "https://medium.com/astromono/the-amazing-ui-design-of-evangelion-de1126a7a85d",
-    "fuente": "Medium (Astromono)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Análisis del diseño de interfaz de Evangelion",
-    "para_que": "Cómo cambian los colores en emergencia (§5.2)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "https://gist.github.com/6b24ac6705298b2dba7a",
-    "fuente": "GitHub Gist",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Emergency hexagons from evangelion»",
-    "para_que": "Hexágonos de alerta para la lámina 2 (§7.1)",
-    "licencia": "Código de fan; ver gist"
-  },
-  {
-    "url": "https://wiki.evageeks.org/SEELE",
-    "fuente": "EvaGeeks (EvaWiki)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "SEELE y sus monolitos «SEELE 01-12 SOUND ONLY»",
-    "para_que": "Concepto B (§19)",
-    "licencia": "Wiki de fans; sólo consulta"
-  },
-  {
-    "url": "https://wiki.evageeks.org/Nerv_Logo",
-    "fuente": "EvaGeeks (EvaWiki)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "El logo de NERV: hoja de higuera y frase de Browning",
-    "para_que": "Logo de la carpeta y la tarjeta (concepto A)",
-    "licencia": "Logo de Khara; sólo referencia"
-  },
-  {
-    "url": "https://www.tumblr.com/shin-seiki-evangelion/36482967167/rei-ayanami-nerv-id-card",
-    "fuente": "Tumblr (@shin-seiki-evangelion)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Imagen de la tarjeta de seguridad NERV de Rei (ep. 5)",
-    "para_que": "Diseño de la tarjeta para Blender (concepto A)",
-    "licencia": "Captura de la serie; sólo referencia"
-  },
-  {
-    "url": "https://paypayfleamarket.yahoo.co.jp/item/z62064902",
-    "fuente": "Yahoo! Flea Market (reventa)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Las 5 tarjetas NERVパイロットIDカード del «EVANGELION 京都基地» (Tōei Uzumasa Eigamura)",
-    "para_que": "Tarjeta de piloto real (objeto oficial) para modelar",
-    "licencia": "Producto oficial; foto sólo referencia"
-  },
-  {
-    "url": "https://www.animenewsnetwork.com/interest/2014-04-19/shinji-tape-player-gets-a-tech-upgrade-with-new-sony-walkman-f",
-    "fuente": "Anime News Network",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Walkman F «SDAT» oficial de Sony (2014), grabado como el de Shinji",
-    "para_que": "Objeto real para el concepto C",
-    "licencia": "Producto oficial; foto sólo referencia"
-  },
-  {
-    "url": "https://www.worthpoint.com/worthopedia/retro-sony-wmd-dt1-portable-dat-1844870058",
-    "fuente": "WorthPoint",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Sony WMD-DT1, el DAT portátil real del SDAT de Shinji",
-    "para_que": "Modelar el SDAT con medidas reales",
-    "licencia": "Foto de anuncio; sólo referencia"
-  },
-  {
-    "url": "https://www.artstation.com/artwork/gRq1gx",
-    "fuente": "ArtStation (Delphana Arts, Timothy Bryan)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Render 3D del SDAT de Shinji",
-    "para_que": "Forma, botones y cable del SDAT (concepto C)",
-    "licencia": "Obra de fan; sólo referencia"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738",
-    "fuente": "Sketchfab (Cookie @cookiepop)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de tablilla con pinza",
-    "para_que": "Base de la ficha en Blender (concepto A)",
-    "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/cello-d67ed4cbbc0c4477ba5d89413e715c82",
-    "fuente": "Sketchfab (Lordricker)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de chelo",
-    "para_que": "El chelo de Shinji (concepto C)",
-    "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/sony-walkman-1985-70984e9a3bb4497da196275feb343713",
-    "fuente": "Sketchfab (milkmanfromhell)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de Sony Walkman de 1985",
-    "para_que": "Base para modelar el SDAT (concepto C)",
-    "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/eva-unit-01-rigged-a9c89d4df6b04818984cffd00cc5f634",
-    "fuente": "Sketchfab (TitanGoji1954)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Unidad 01 con esqueleto",
-    "para_que": "Sólo referencia de pose de la Eva",
-    "licencia": "Download Free; diseño de Khara, no usar en la lámina"
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Paper001",
-    "fuente": "ambientCG",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura PBR de papel",
-    "para_que": "Papel de la ficha (concepto A)",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://30th.evangelion.jp/",
-    "fuente": "Web oficial del 30 aniversario",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Noticias, logo de Ikuto Yamashita, artículos oficiales y productos",
-    "para_que": "Arte oficial más nuevo (§3.3)",
-    "licencia": "Oficial; sólo referencia"
-  },
-  {
-    "url": "https://www.eva-info.jp/27248",
-    "fuente": "eva-info.jp (oficial)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«貞本義行画集 EVANGELION» edición limitada, 10-nov-2026, con 4 ilustraciones nuevas",
-    "para_que": "Ilustraciones de Sadamoto (§3.2)",
-    "licencia": "Oficial; sólo referencia"
-  },
-  {
-    "url": "https://www.evangelion.jp/news/260307-2/",
-    "fuente": "evangelion.jp (oficial)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Corto de Asuka del 30 aniversario, gratis en el YouTube de Khara desde el 8-mar-2026",
-    "para_que": "Poses y cara actuales de Asuka (§9.2)",
-    "licencia": "Oficial; sólo referencia"
-  },
-  {
-    "url": "https://www.famitsu.com/news/202005/16198567.html",
-    "fuente": "Famitsu",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Resultados del «全エヴァンゲリオン大投票» de NHK (2020): Asuka 1.ª; frase n.º 1 de Rei",
-    "para_que": "Quién es el más querido (§9)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "https://mantan-web.jp/article/20200517dog00m200000000c.html",
-    "fuente": "MANTANWEB",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Mismo voto de NHK: Asuka 1.ª, frase «私が守るもの» 1.ª",
-    "para_que": "Segunda fuente del voto (§9)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "https://cinepremiere.com.mx/neon-genesis-evangelion-netflix-doblaje.html",
-    "fuente": "Cine Premiere",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Reparto y estudio del doblaje latino de Netflix (Audiomaster Candiani, América Torres)",
-    "para_que": "Doblaje latino (§10)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "https://doblaje.fandom.com/es/wiki/Neon_Genesis_Evangelion",
-    "fuente": "Doblaje Wiki",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha de los doblajes latinos: Locomotion 1999, Enrique Cervantes, «amigo/amiga»",
-    "para_que": "Doblaje latino y curiosidades (§10)",
-    "licencia": "Wiki CC BY-SA; sólo consulta (API bloqueada desde aquí)"
-  },
-  {
-    "url": "https://dubdb.fandom.com/wiki/Neon_Genesis_Evangelion_(Latin_American_Spanish,_Netflix)",
-    "fuente": "Dub Database",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Reparto del doblaje latino de Netflix",
-    "para_que": "Confirmar Marisol Romero y Alberto Bernal (§10)",
-    "licencia": "Wiki; sólo consulta"
-  },
-  {
-    "url": "https://www.anmtvla.com/2021/08/revelado-doblaje-colaborativo-de-la.html",
-    "fuente": "ANMTV",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Doblaje colaborativo México-Argentina de las Rebuild en Prime Video",
-    "para_que": "Reparto de las Rebuild (§10)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "https://soranews24.com/2022/11/21/visiting-evangelions-tokyo-3-anime-locations-in-real-life-hakone%E3%80%90photos%E3%80%91/",
-    "fuente": "SoraNews24",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fotos de Hakone, el Tokio-3 real",
-    "para_que": "Luz y paisaje reales (§5, §17)",
-    "licencia": "Fotos del medio; sólo referencia"
-  },
-  {
-    "url": "https://wall.alphacoders.com/big.php?i=691150",
-    "fuente": "Wallpaper Abyss (shirakawa mayo)",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Fondo 4K: Shinji, Rei y Asuka (3.0)",
-    "para_que": "Referencia de grupo y color",
-    "licencia": "Fan art; sólo referencia"
-  },
-  {
-    "url": "https://wall.alphacoders.com/big.php?i=1399756",
-    "fuente": "Wallpaper Abyss",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Fondo 4K «Asuka: Neon Skyline»",
-    "para_que": "Asuka con ciudad de noche",
-    "licencia": "Fan art; sólo referencia"
-  },
-  {
-    "url": "https://wall.alphacoders.com/big.php?i=949384",
-    "fuente": "Wallpaper Abyss",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Fondo 4K de Rei Ayanami",
-    "para_que": "Referencia de Rei",
-    "licencia": "Sin autor claro; sólo referencia"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=3bdjDmYc8J4",
-    "fuente": "YouTube (Netflix)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Tráiler oficial de Netflix (2019)",
-    "para_que": "Planos oficiales en movimiento",
-    "licencia": "Oficial; sólo referencia"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=n6MXBsCvlHw",
-    "fuente": "YouTube",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Neon Genesis Evangelion (Netflix) / Doblaje Español Latino»",
-    "para_que": "Oír las voces latinas de Netflix antes de rotular una frase",
-    "licencia": "Subida de terceros; sólo consulta"
-  },
-  {
-    "url": "https://knowyourmeme.com/memes/subcultures/neon-genesis-evangelion",
-    "fuente": "Know Your Meme",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Memes de Evangelion (Congratulations, Gendowned, etc.)",
-    "para_que": "Lo que ama el fandom (§14)",
-    "licencia": "Sólo consulta"
-  },
-  {
-    "url": "https://roadtovr.com/evangelion-cross-reflections-quest-3-release-2026/",
-    "fuente": "Road to VR",
-    "ancho": null,
-    "alto": null,
-    "que_es": "EVANGELION: Δ CROSS REFLECTIONS: el jugador es un aprendiz de NERV",
-    "para_que": "Videojuegos de la franquicia (§13)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "https://uakira.hateblo.jp/entry/20100726",
-    "fuente": "Blog uakira (japonés)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«市川崑のタイポグラフィ» y la «Eva mincho»: Matisse EB, Matisse UB, homenaje a Kon Ichikawa",
-    "para_que": "Origen de la cartela (§6.1)",
-    "licencia": "Artículo; sólo consulta"
-  },
-  {
-    "url": "https://x.com/backgroundsbot/status/960223392547864576?lang=en",
-    "fuente": "X (Anime Background Art)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fondos de Evangelion (dirección de arte de Hiroshi Katō)",
-    "para_que": "Estilo de fondo para Blender o IA (§18)",
-    "licencia": "Capturas de la serie; sólo referencia"
-  }
+ {
+  "url": "https://wallhaven.cc/w/kw6x56",
+  "fuente": "Wallhaven (subida por Rocketizada)",
+  "ancho": 6600,
+  "alto": 3000,
+  "que_es": "Fondo de pantalla de fans más guardado de la serie (1007 favoritos)",
+  "para_que": "Punto 16: fondo de pantalla de fans en alta resolución",
+  "licencia": "No especifica licencia; sólo como referencia, mirar autor antes de usar"
+ },
+ {
+  "url": "https://wall.alphacoders.com/big.php?i=691150",
+  "fuente": "Wallpaper Abyss (autor: shirakawa mayo)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla oficial de Evangelion 3.0, Shinji/Rei/Asuka",
+  "para_que": "Punto 16 (enlace comprobado vivo, código 200)",
+  "licencia": "Arte oficial, uso de referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/4/46/Asuka_Langley_Soryu_in_her_iconic_outfit.png",
+  "fuente": "Evangelion Wiki (Fandom)",
+  "ancho": 1380,
+  "alto": 3379,
+  "que_es": "Arte oficial de Asuka con el uniforme escolar de Tokio-3, fondo transparente",
+  "para_que": "Punto 1 y 15 (hex: #022A51 falda, #D5E0DA blusa, #A5190D listón, #A5360F pelo)",
+  "licencia": "Copyright Khara/Gainax, uso de referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/a/a0/Rei_Ayanami_%28Damaged_Plugsuit%29.png",
+  "fuente": "Evangelion Wiki (Fandom)",
+  "ancho": 1107,
+  "alto": 3403,
+  "que_es": "Arte oficial de Rei con el traje de conector blanco dañado, fondo transparente",
+  "para_que": "Punto 1 y 15 (hex: #E9EDF3 cuerpo, #466440 banda verde, #B0C4E4 pelo)",
+  "licencia": "Copyright Khara/Gainax, uso de referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/6/6b/Gendo_threatening_Ritsuko_%28EoE%29.png",
+  "fuente": "Evangelion Wiki (Fandom), fotograma de The End of Evangelion",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma de Gendo apuntando con pistola a Ritsuko, uniforme de comandante",
+  "para_que": "Punto 15 (hex aprox. #413C53 uniforme, #E97151 lentes; ⚠️ escena con luz roja)",
+  "licencia": "Copyright Khara/Gainax, uso de referencia"
+ },
+ {
+  "url": "https://wallhaven.cc/w/6ople6",
+  "fuente": "Wallhaven (subida por wallpaperengine)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla de fans, 734 favoritos",
+  "para_que": "Punto 16",
+  "licencia": "No especifica licencia; sólo como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/d/dd/Shinji_In_Plugsuit_%28Mugshot%29.png",
+  "fuente": "Evangelion Wiki (Fandom)",
+  "ancho": 906,
+  "alto": 1600,
+  "que_es": "Arte oficial de Shinji con el traje de conector azul, fondo transparente",
+  "para_que": "Punto 1 (arte oficial) y 15 (hex medidos: #036ED3 cuerpo, #DCEFF3 torso, #583535 pelo)",
+  "licencia": "Copyright Khara/Gainax, uso de referencia (wiki de fans)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/6/69/Katsuragi.Misato.full.71156.jpg",
+  "fuente": "Evangelion Wiki (Fandom)",
+  "ancho": 572,
+  "alto": 2048,
+  "que_es": "Ilustración oficial de Misato de cuerpo entero, chaqueta roja",
+  "para_que": "Punto 1 y 15 (hex: #E02824 chaqueta, #100B0D vestido, #1C1231 pelo)",
+  "licencia": "Copyright Khara/Gainax, uso de referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/e/ea/S-FIRE_Evangelion_3.0%2B1.0_Thrice_Upon_a_Time_Figure_-_Asuka_Langley_1.jpg",
+  "fuente": "Evangelion Wiki (Fandom), figura oficial S-FIRE",
+  "ancho": 1000,
+  "alto": 1000,
+  "que_es": "Foto de producto: figura oficial de Asuka en plugsuit rojo, sentada en la playa",
+  "para_que": "Punto 1, 15 (hex aprox. #A31812, ⚠️ luz ambiental roja) y 23 (referencia 3D de pose nueva)",
+  "licencia": "Producto oficial con licencia (S-FIRE/Khara), foto de la wiki como referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/c/ca/Ichiban_Kuji_Neon_Genesis_Evangelion_30th_Anniversary_Prize_C.jpg",
+  "fuente": "Evangelion Wiki (Fandom), Ichiban Kuji 30th Anniversary (Bandai Spirits, feb-2026)",
+  "ancho": 1000,
+  "alto": 1000,
+  "que_es": "Figura de premio de la lotería Ichiban Kuji del 30 aniversario",
+  "para_que": "Punto 1 (arte/merchandising nuevo) y 23 (colaboración/producto oficial reciente)",
+  "licencia": "Producto oficial con licencia (Bandai Spirits/Khara)"
+ },
+ {
+  "url": "https://archive.org/download/youtube-JGcbdUgNYOY/JGcbdUgNYOY.mp4",
+  "fuente": "Internet Archive (subida oficial de GKIDS)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial «The End of Evangelion», 30 aniversario, distribuidora GKIDS",
+  "para_que": "Punto 10: tráiler oficial con minuto exacto; punto 2 y 4: crucifixión roja y cielo rosa del Tercer Impacto",
+  "licencia": "Oficial (GKIDS); sólo referencia"
+ },
+ {
+  "url": "https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=2460",
+  "fuente": "Internet Archive, grabación de emisión de Toonami/Cartoon Network (doblaje inglés)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma real del ep. 8 (minuto 41:00 de la grabación con anuncios): Shinji con miedo, ojos muy abiertos",
+  "para_que": "Cara en cada emoción, miedo (punto 13.2)",
+  "licencia": "Grabación de TV subida por un usuario; sólo referencia, no libre"
+ },
+ {
+  "url": "https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=1215",
+  "fuente": "Internet Archive, grabación de Toonami (doblaje inglés)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma real del ep. 8 (minuto 20:15 de la grabación): Ritsuko Akagi gritando alarmada, tras el accidente de la Unidad 00",
+  "para_que": "Cara en cada emoción, alarma/enfado (punto 13.2)",
+  "licencia": "Grabación de TV subida por un usuario; sólo referencia, no libre"
+ },
+ {
+  "url": "https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=1230",
+  "fuente": "Internet Archive, grabación de Toonami (doblaje inglés)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fotograma real del ep. 8 (minuto 20:30 de la grabación): Rei Ayanami con la cabeza vendada tras el accidente, ojos entrecerrados de dolor",
+  "para_que": "Cara en cada emoción, dolor/vulnerabilidad (punto 13.2)",
+  "licencia": "Grabación de TV subida por un usuario; sólo referencia, no libre"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/e/ee/Pachislot_Evangelion_Magokoro2_Rei_3.png",
+  "fuente": "Evangelion Wiki (Fandom)",
+  "ancho": 931,
+  "alto": 715,
+  "que_es": "Arte promocional de la máquina pachislot Evangelion Magokoro 2, con Rei",
+  "para_que": "Punto 23 (colaboración con máquinas recreativas japonesas, pose y ropa distintas al anime)",
+  "licencia": "Copyright Khara/Sammy, uso de referencia"
+ },
+ {
+  "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20End%20Theme%20Fly%20Me%20To%20The%20Moon%20%5B280BF995%5D.mp4",
+  "fuente": "Internet Archive",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Ending «Fly Me to the Moon» de un episodio (imagen fija: luna llena tras ramas), 65 s",
+  "para_que": "Punto 9: confirmar que el ending cambia de imagen fija por capítulo; punto 4: paleta azul noche real",
+  "licencia": "Copia de fans en Internet Archive; sólo consulta"
+ },
+ {
+  "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4",
+  "fuente": "Internet Archive",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Episodio 1 completo (\"Angel Attack\"), fansub con hash [5F116C28], visto con fotogramas.py",
+  "para_que": "Puntos 2, 4 y 14: escenas icónicas, paleta de sitios y poses de Misato, Shinji y Gendo",
+  "licencia": "Copia de fans en Internet Archive; sólo consulta"
+ },
+ {
+  "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4",
+  "fuente": "Internet Archive",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Episodio 8 completo (\"Asuka Strikes!\"), visto con fotogramas.py",
+  "para_que": "Punto 14: poses de Asuka (presentar, celebrar, pensar)",
+  "licencia": "Copia de fans en Internet Archive; sólo consulta"
+ },
+ {
+  "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2005%20Rei%20I%20%5BFED16EB1%5D.mp4",
+  "fuente": "Internet Archive",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Episodio 5 completo (\"Rei I\"), visto entero con fotogramas.py hasta el minuto 15",
+  "para_que": "Punto 14: se buscó la «ficha de Rei» de memoria (min. 4:25) y no existe ahí; sí confirma la placa de su puerta (13:12) y su apartamento (14:15-14:45)",
+  "licencia": "Copia de fans en Internet Archive; sólo consulta"
+ },
+ {
+  "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4",
+  "fuente": "Internet Archive",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Episodio 6 completo (\"Rei II\"), visto entero con fotogramas.py",
+  "para_que": "Punto 14: confirma la sonrisa real de Rei (21:45) y corrige una pose mal atribuida (15:32 es Shinji, no Rei)",
+  "licencia": "Copia de fans en Internet Archive; sólo consulta"
+ },
+ {
+  "url": "https://archive.org/download/y-2mate.com-neon-genesis-evangelion-opening-full-english-version-a-cruel-angels-thesis-360p/y2mate.com%20-%20Neon%20Genesis%20Evangelion%20Opening%20Full%20English%20Version%20A%20Cruel%20Angels%20Thesis_360p.mp4",
+  "fuente": "Internet Archive",
+  "ancho": 480,
+  "alto": 360,
+  "que_es": "Opening completo «A Cruel Angel's Thesis» (Yoko Takahashi), 4:03, visto entero con fotogramas.py",
+  "para_que": "Punto 2 y 9: planos reales del opening (silueta en cruz sobre la luna, min. 3:45) y su paleta",
+  "licencia": "Copia de fans en Internet Archive; sólo consulta/referencia, no redistribuir"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a37158f20ccf436483029e8295629738",
+  "fuente": "Sketchfab (autor: cookiepop)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Clipboard', 2256 caras",
+  "para_que": "Punto 3: base 3D para la tablilla de la ficha de piloto NERV del objeto del encargo",
+  "licencia": "CC BY (confirmado por la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d67ed4cbbc0c4477ba5d89413e715c82",
+  "fuente": "Sketchfab (autor: Lordricker)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Cello', 134552 caras",
+  "para_que": "Punto 3: el chelo de Shinji (episodio 15)",
+  "licencia": "CC BY (confirmado por la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3cad4141c9aa4e67ba1d2ab1e5b9d277",
+  "fuente": "Sketchfab (autor: berilbaska)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Sony Walkman TPS-L2 Cassette Player', 11215 caras",
+  "para_que": "Punto 3: base para modelar el SDAT de Shinji (el real es un Sony WMD-DT1)",
+  "licencia": "CC BY (confirmado por la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-5e66c14e43164330a6dbd4bc863913f7",
+  "fuente": "Sketchfab (autor: JoeTrekV)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Neon Genesis Evangelion - Asuka Langley Sohryu / Rig', 6752 caras, CON esqueleto",
+  "para_que": "Punto 3: único modelo libre encontrado de un personaje ya listo para posar (sirve para el punto 14 de poses)",
+  "licencia": "CC BY (confirmado por la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-82bcdbde1483490f896418476b2c9d6f",
+  "fuente": "Sketchfab (autor: browniecoats)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'EVANGELION MARI (RIGGED, UPDATED)', 241778 caras, con esqueleto",
+  "para_que": "Punto 3: Mari con esqueleto, lista para posar",
+  "licencia": "CC BY (confirmado por la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-49a40e59a5b34ed7b34838027d573809",
+  "fuente": "Sketchfab (autor: 185684)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Gendo Ikari - Evangelion', 1598 caras (bajo poly)",
+  "para_que": "Punto 3: busto de Gendo, único modelo libre de un personaje adulto",
+  "licencia": "CC BY (confirmado por la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7672ac8bd3454ff9aee30d270874d01d",
+  "fuente": "Sketchfab (autor: sirliks)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Pen pen - evangelion. Rig', 349168 caras, con esqueleto",
+  "para_que": "Punto 3: Pen Pen (mascota de Misato) con esqueleto",
+  "licencia": "CC BY (confirmado por la API de Sketchfab)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3c212c7ce6ac4284a8b718078bc6fc0f",
+  "fuente": "Sketchfab (autor: solodovnykov)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Sachiel - Evangelion', el 3er Ángel",
+  "para_que": "Punto 3: referencia 3D de un Ángel para escenas de fondo",
+  "licencia": "CC BY (confirmado por la API de Sketchfab)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper004",
+  "fuente": "ambientCG",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura PBR de papel (Paper004), difuso+normal+rugosidad",
+  "para_que": "Punto 19: grano de papel para la ficha/expediente de NERV",
+  "licencia": "CC0 (confirmado por la API pública de ambientCG)"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
+  "fuente": "AniList",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Portada oficial de la ficha de AniList",
+  "para_que": "Punto 1: arte oficial de referencia general",
+  "licencia": "Arte oficial, uso de referencia"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/press-release/2026-06-16/the-first-descendant-reveals-details-of-evangelion-collaboration-arriving-june-18/.238581",
+  "fuente": "Anime News Network",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Nota de prensa: colaboración The First Descendant x Evangelion (18-jun a 30-jul-2026)",
+  "para_que": "Punto 23: colaboración de videojuego confirmada, trajes de conector en Bunny/Valby/Gley",
+  "licencia": "Artículo periodístico, no imagen descargable"
+ },
+ {
+  "url": "https://snkrdunk.com/en/magazine/2024/12/19/neon-genesis-evangelion-mcdonalds-value-figurine-set-release-date-price-where-to-buy/",
+  "fuente": "SNKRDUNK Magazine",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Nota: colaboración McDonald's Japón x Evangelion (figuras transformables, ene-2026)",
+  "para_que": "Punto 23: colaboración de marca no-anime, objetos nuevos (Eva-comida)",
+  "licencia": "Artículo periodístico"
+ },
+ {
+  "url": "https://www.toy-people.com/en/?p=107064",
+  "fuente": "Toy People",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Nota: lineup completo del Ichiban Kuji 30th Anniversary (feb-2026)",
+  "para_que": "Punto 1 y 23: figura de premio A (Unidad 01 con alas desplegadas)",
+  "licencia": "Artículo periodístico"
+ },
+ {
+  "url": "https://www.behance.net/gallery/96540159/Neon-Genesis-Evangelion-Screen-Graphics",
+  "fuente": "Behance (Pedro Fleming)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Recreación de fan de las pantallas de interfaz de NERV",
+  "para_que": "Punto 3: referencia de UI, nunca para pegar",
+  "licencia": "Trabajo de fan, sólo referencia (crédito: Pedro Fleming)"
+ },
+ {
+  "url": "https://github.com/lowercasename/helloedit/blob/master/resources/fonts/ChiKareGo2.woff",
+  "fuente": "GitHub (helloedit)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente ChiKareGo2 (recreación libre de Chicago), comprobada por mí con fontTools: trae á é í ó ñ Ñ Á É Í Ó Ú Ü ¿ ¡, le faltan ú y ü minúsculas",
+  "para_que": "Número de los monolitos de SEELE (punto 5) sin usar copias piratas del Chicago original",
+  "licencia": "Creative Commons (⚠️ una fuente sin especificar variante exacta)"
+ },
+ {
+  "url": "http://www.suppertime.co.uk/blogmywiki/2017/04/chicago/",
+  "fuente": "suppertime.co.uk (blog de tipografía)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Historia de la recreación ChiKareGo2 del Chicago original de Mac",
+  "para_que": "Contexto de licencia y origen de la letra usada para SEELE (punto 5)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://tcrf.net/Neon_Genesis_Evangelion:_Koutetsu_no_Girlfriend_(PlayStation)",
+  "fuente": "The Cutting Room Floor",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página de contenido descartado de Girlfriend of Steel (PS1, 1998): material de depuración",
+  "para_que": "Punto 11 (videojuegos); bloqueada por Cloudflare en este contenedor, pendiente de reintentar",
+  "licencia": "Wiki; ver licencia de TCRF"
+ },
+ {
+  "url": "https://tcrf.net/Shin_Seiki_Evangelion:_Koutetsu_no_Girlfriend_Special_Edition_(PlayStation_2)",
+  "fuente": "The Cutting Room Floor",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página de contenido descartado de Girlfriend of Steel Special Edition (PS2, 2006-07): texto de desarrollo oculto y gráficos sin usar",
+  "para_que": "Punto 11 (videojuegos); bloqueada por Cloudflare en este contenedor, pendiente de reintentar",
+  "licencia": "Wiki; ver licencia de TCRF"
+ },
+ {
+  "url": "https://wiki.evageeks.org/Human_Instrumentality_Project",
+  "fuente": "EvaWiki (EvaGeeks.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Explicación con cita textual del Proyecto de Instrumentalización Humana",
+  "para_que": "Punto 25: reglas del mundo, el objetivo final del Tercer Impacto",
+  "licencia": "Wiki; ver licencia de EvaGeeks"
+ },
+ {
+  "url": "https://wiki.evageeks.org/MAGI",
+  "fuente": "EvaWiki (EvaGeeks.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "El sistema MAGI: Melchior/Balthasar/Caspar como tres aspectos de Naoko Akagi",
+  "para_que": "Punto 25: glosario y vocabulario propio de la serie",
+  "licencia": "Wiki; ver licencia de EvaGeeks"
+ },
+ {
+  "url": "https://wiki.evageeks.org/Second_Impact",
+  "fuente": "EvaWiki (EvaGeeks.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "El Segundo Impacto: fecha (13-sep-2000), causa oficial vs. real (Adán)",
+  "para_que": "Punto 25: reglas del mundo e historia",
+  "licencia": "Wiki; ver licencia de EvaGeeks"
+ },
+ {
+  "url": "https://wiki.evageeks.org/AT_Field",
+  "fuente": "EvaWiki (EvaGeeks.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Qué es el Campo AT (Absolute Terror Field) y cómo se rompe",
+  "para_que": "Punto 25: vocabulario propio de la serie",
+  "licencia": "Wiki; ver licencia de EvaGeeks"
+ },
+ {
+  "url": "https://wiki.evageeks.org/Lance_of_Longinus",
+  "fuente": "EvaWiki (EvaGeeks.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "La Lanza de Longinus: forma, propiedades, origen",
+  "para_que": "Punto 25: objeto icónico y símbolo",
+  "licencia": "Wiki; ver licencia de EvaGeeks"
+ },
+ {
+  "url": "https://wiki.evageeks.org/Children",
+  "fuente": "EvaWiki (EvaGeeks.org)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Por qué se llama «Children» a los pilotos y el orden Primero a Quinto",
+  "para_que": "Punto 25: vocabulario que un fan reconoce al instante",
+  "licencia": "Wiki; ver licencia de EvaGeeks"
+ },
+ {
+  "url": "https://www.500type-eva.jp/evangelion-ultraman-relationship-explained/",
+  "fuente": "500type-eva.jp (blog japonés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Anécdota de Anno: la idea de los Ángeles como alienígenas le vino de ver a un ángel con cara de Ultraman en el manga BASTARD!!",
+  "para_que": "Punto 24: influencia reconocida por el propio Anno",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://chiebukuronews.blog.jp/archives/31803850.html",
+  "fuente": "chiebukuronews.blog.jp (blog japonés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "El final de The End of Evangelion como parodia del final de Space Runaway Ideon",
+  "para_que": "Punto 24: obra que influyó directamente en Eva",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://screenrant.com/neon-genesis-evangelion-pretentious-hidden-meaning-philosophical-factoid/",
+  "fuente": "ScreenRant",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cita de Anno (Newtype 1997): «usamos símbolos cristianos porque se veían bien, sin significado profundo»",
+  "para_que": "Punto 25: cómo tratar el simbolismo en la lámina (estética, no lore a explicar)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://medium.com/@annocinema/annos-compositional-vocabulary-f28ef87d45f7",
+  "fuente": "AnnoCinema (Medium)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis del vocabulario de encuadre de Anno: primer plano de la parte que actúa, corte al objeto nombrado, sobre-el-hombro aislante",
+  "para_que": "Punto 18: encuadres y composición típicos para replicar",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://aiptcomics.com/2021/02/04/revisiting-sadamotos-evangelion-manga-p1/",
+  "fuente": "AIPT Comics",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de la línea «arrugada» de Sadamoto y su composición de viñetas en el manga",
+  "para_que": "Punto 18: tipo de línea y punto 6: composición del manga",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender",
+  "fuente": "StraySpark Studio (tutorial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Guía de look anime en Blender: Line Art, Shader to RGB + Color Ramp constante, EEVEE",
+  "para_que": "Punto 18.3: receta de Blender para replicar el estilo",
+  "licencia": "Tutorial libre; sólo consulta de la técnica"
+ },
+ {
+  "url": "https://www.micahbuzan.com/cel-shading-tutorial/",
+  "fuente": "MicahBuzan.com (tutorial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Guía de cel shading en Photoshop: capas, ruido en Multiplicar para grano",
+  "para_que": "Punto 18.2: receta de Photoshop para replicar el estilo",
+  "licencia": "Tutorial libre; sólo consulta de la técnica"
+ },
+ {
+  "url": "https://www.cbr.com/neon-genesis-evangelion-other-anime-ran-out-of-budget-quality-decline/",
+  "fuente": "CBR",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de la animación limitada de NGE por presupuesto/tiempo en los últimos episodios",
+  "para_que": "Punto 18.1: por qué la serie usa fotogramas fijos sostenidos",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://archive.org/details/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colección con los episodios 1 a 19 sueltos en .mp4/.mkv (fansub) más el ending",
+  "para_que": "Fuente para seguir mirando capítulos sin depender de YouTube (puntos 2, 14)",
+  "licencia": "Copia de fans; sólo consulta"
+ },
+ {
+  "url": "https://archive.org/details/neon-genesis-evangelion-22-al-24",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Episodios 22 a 24 en un solo archivo (incluye el 24, el de Kaworu); versión .ia.mp4 de 435 MB descargada y vista con fotogramas.py",
+  "para_que": "Punto 14: poses de Kaworu confirmadas (presentación 56:30 y termas 58:20, segundo 3390/3500 del archivo); punto 9: Ode to Joy en la escena final (min. 1:08-1:11)",
+  "licencia": "Copia de fans; sólo consulta"
+ },
+ {
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/Awesome/NeonGenesisEvangelion",
+  "fuente": "TV Tropes (leído con navegar.py)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página de momentos «Awesome» de la serie, con el detalle de que Ode to Joy suena en toda la escena final del episodio 24",
+  "para_que": "Punto 9: segunda fuente para la música de la muerte de Kaworu",
+  "licencia": "Wiki de fans; sólo consulta"
+ },
+ {
+  "url": "https://archive.org/details/evangelion-final-25-y-26_202609",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Episodios 25 y 26 (el final) en un solo archivo",
+  "para_que": "Pendiente: confirmar en vídeo la escena final «おめでとう» (punto 2/14), no se llegó a bajar por tiempo",
+  "licencia": "Copia de fans; sólo consulta"
+ },
+ {
+  "url": "https://soundeffects.fandom.com/wiki/Neon_Genesis_Evangelion",
+  "fuente": "Sound Effects Wiki (Fandom, vía api.php)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Catálogo de los clips de librería exactos usados como efectos de sonido en la serie (alarmas, puertas, cigarras, tren...)",
+  "para_que": "Punto 9: efectos de sonido reconocibles, con nombre exacto de cada clip",
+  "licencia": "Wiki de fans; sólo consulta"
+ },
+ {
+  "url": "https://forum.evageeks.org/viewtopic.php?t=6384",
+  "fuente": "Foro EvaGeeks.org",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Hilo que identifica la sirena de alerta de NERV como una pista de librería Hollywood Edge",
+  "para_que": "Punto 9: segunda fuente para el efecto de sonido de la alarma",
+  "licencia": "Foro; sólo consulta"
+ },
+ {
+  "url": "https://esffects.net/en/176.html",
+  "fuente": "esffects.net",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Recreación libre («Evangelion style alarm sound»), no es el clip original",
+  "para_que": "Punto 9: efecto de referencia descargable para maquetar (no oficial)",
+  "licencia": "Gratuito para descarga, revisar términos del sitio antes de usar comercialmente"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Metal038",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura de metal oxidado verde, parecida a la jaula/hangar de las Eva",
+  "para_que": "Punto 4: textura real equivalente a la jaula de las Eva (además de las ya citadas en §5)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x3bwse",
+  "fuente": "Dailymotion, usuario kidabashasha",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cover cantado de fans en español de \"Zankoku na Tenshi no Teeze\" (opening), confirmado oyéndolo con voz.py",
+  "para_que": "Fan dubs y comunidad hispana, covers de opening en español (punto 22)",
+  "licencia": "Cover de fans; sólo referencia"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Neon_Genesis_Evangelion",
+  "fuente": "Doblaje Wiki (wikitext leído por API, action=parse&prop=wikitext)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del doblaje original (1999, Roman Sound): confirma a Humberto Solórzano (Gendo) y Maru Guerrero (Ritsuko), huecos que tenía la biblia",
+  "para_que": "Doblaje latino, tabla del punto 8",
+  "licencia": "Wiki de fans; sólo consulta"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Renewal_of_Evangelion",
+  "fuente": "Doblaje Wiki (wikitext leído por API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del 2.º doblaje (Renewal, 2007-08): estudio Grabaciones y Doblajes Internacionales, director Gerardo García, reparto completo con Gabriela Gómez como Ritsuko",
+  "para_que": "Doblaje latino, punto 8 (estudio y año que la biblia no tenía)",
+  "licencia": "Wiki de fans; sólo consulta"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/1/1f/NGEGend%C5%8DIkari.ogg/revision/latest?cb=20180725052538&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Audio del doblaje latino original de Gendo (Humberto Solórzano), medido con herramientas/voz.py: 98 Hz, 31.7 semitonos, 2.9 palabras/s",
+  "para_que": "Frases textuales y cómo habla (punto 13 y 8)",
+  "licencia": "Muestra de doblaje oficial subida por Doblaje Wiki; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/8/80/NGERitsukoAkagi.ogg/revision/latest?cb=20180725052714&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Audio del doblaje latino original de Ritsuko (Maru Guerrero), medido con voz.py: 267 Hz, 9.1 semitonos, 2.98 palabras/s",
+  "para_que": "Frases textuales y cómo habla (punto 13 y 8)",
+  "licencia": "Muestra de doblaje oficial; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/0/00/NGEShinjiIkari.ogg/revision/latest?cb=20180725052014&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Audio del doblaje latino original de Shinji (Víctor Ugarte), medido con voz.py: 361 Hz, 8.4 semitonos, 3.52 palabras/s (la más rápida de las 6 medidas)",
+  "para_que": "Frases textuales y cómo habla (punto 13 y 8)",
+  "licencia": "Muestra de doblaje oficial; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/8/88/NGEAsukaLangleyS%C5%8Dry%C5%AB.ogg/revision/latest?cb=20180725052246&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Audio del doblaje latino original de Asuka (Norma Echevarría), medido con voz.py: 274 Hz, 11.6 semitonos, 3.32 palabras/s",
+  "para_que": "Frases textuales y cómo habla (punto 13 y 8)",
+  "licencia": "Muestra de doblaje oficial; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/f/f8/NGEReiAyanami.ogg/revision/latest?cb=20180725052117&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Audio del doblaje latino original de Rei (Circe Luna), medido con voz.py: 218 Hz, 10.4 semitonos, 3.64 palabras/s",
+  "para_que": "Frases textuales y cómo habla (punto 13 y 8)",
+  "licencia": "Muestra de doblaje oficial; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/6/63/NGEMisatoKatsuragi.ogg/revision/latest?cb=20180725052424&path-prefix=es",
+  "fuente": "Doblaje Wiki, muestra de audio oficial",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Audio del doblaje latino original de Misato (Toni Rodríguez), medido con voz.py: 387 Hz, 13.6 semitonos, 2.95 palabras/s",
+  "para_que": "Frases textuales y cómo habla (punto 13 y 8)",
+  "licencia": "Muestra de doblaje oficial; sólo referencia"
+ },
+ {
+  "url": "https://anilist.co/character/94",
+  "fuente": "AniList, ficha de Asuka Langley Souryuu",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial de personaje: edad 14, cumple 4 de diciembre, altura 155 cm, sangre A",
+  "para_que": "Gustos y detalles del personaje (punto 20)",
+  "licencia": "Datos de base de datos de fans con permiso de la franquicia; sólo consulta"
+ },
+ {
+  "url": "https://anilist.co/character/86",
+  "fuente": "AniList, ficha de Rei Ayanami",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial: edad 14, cumple 30 de marzo, altura 149 cm",
+  "para_que": "Gustos y detalles del personaje (punto 20)",
+  "licencia": "Sólo consulta"
+ },
+ {
+  "url": "https://anilist.co/character/89",
+  "fuente": "AniList, ficha de Shinji Ikari",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial: edad 14, cumple 6 de junio, altura 155 cm, sangre A",
+  "para_que": "Gustos y detalles del personaje (punto 20)",
+  "licencia": "Sólo consulta"
+ },
+ {
+  "url": "https://anilist.co/character/1259",
+  "fuente": "AniList, ficha de Misato Katsuragi",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial: edad 29, cumple 8 de diciembre, altura 163 cm",
+  "para_que": "Gustos y detalles del personaje (punto 20)",
+  "licencia": "Sólo consulta"
+ },
+ {
+  "url": "https://anilist.co/character/1257",
+  "fuente": "AniList, ficha de Gendo Ikari",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial: edad 48, cumple 29 de abril; también trae el actor de doblaje Humberto Solórzano, segunda fuente del punto 8",
+  "para_que": "Gustos y detalles (punto 20) y doblaje latino (punto 8)",
+  "licencia": "Sólo consulta"
+ },
+ {
+  "url": "https://anilist.co/character/1251",
+  "fuente": "AniList, ficha de Ritsuko Akagi",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial: edad 30, cumple 21 de noviembre, sangre B; relación con su madre Naoko",
+  "para_que": "Gustos y detalles (punto 20) y doblaje latino, Maru Guerrero (punto 8)",
+  "licencia": "Sólo consulta"
+ },
+ {
+  "url": "https://anilist.co/character/1261",
+  "fuente": "AniList, ficha de Kaworu Nagisa",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha oficial: edad 15, cumple 13 de septiembre",
+  "para_que": "Gustos y detalles del personaje (punto 20)",
+  "licencia": "Sólo consulta"
+ },
+ {
+  "url": "https://anilist.co/anime/30",
+  "fuente": "AniList, ficha del anime",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Lista de favoritos por personaje (Asuka 14666, Rei 11549, Shinji 11348…)",
+  "para_que": "Encuestas de popularidad (punto 7)",
+  "licencia": "Sólo consulta"
+ },
+ {
+  "url": "https://danbooru.donmai.us/posts?tags=neon_genesis_evangelion",
+  "fuente": "Danbooru",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Recuento de dibujos de fans por personaje (Asuka 17588, Rei 10518, Shinji 6470…)",
+  "para_que": "Encuestas de popularidad / cariño del fandom (punto 7)",
+  "licencia": "Índice de imágenes de fans; sólo consulta del recuento"
+ },
+ {
+  "url": "https://kimigaku.jp/archives/388/",
+  "fuente": "Kimigaku (japonés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Segunda fuente del orden completo del voto NHK 2020 (1-Asuka, 2-Kaworu, 3-Rei, 4-Shinji, 5-Misato)",
+  "para_que": "Confirma con dos fuentes los puestos 4 y 5 que la biblia tenía con una sola (punto 7)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://knowyourmeme.com/memes/get-in-the-fucking-robot-shinji",
+  "fuente": "Know Your Meme",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del meme «Get in the robot, Shinji», con origen (ep. 1) y uso en foros/redes",
+  "para_que": "Lo que ama el fandom (punto 12): confirma el nombre del meme, que la biblia tenía con ⚠️",
+  "licencia": "Wiki de memes; sólo consulta"
+ },
+ {
+  "url": "https://knowyourmeme.com/memes/gendo-pose",
+  "fuente": "Know Your Meme",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del meme «Gendo Pose» (manos juntas delante de la boca)",
+  "para_que": "Lo que ama el fandom (punto 12): confirma el nombre del meme",
+  "licencia": "Wiki de memes; sólo consulta"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x2yjm4k",
+  "fuente": "Dailymotion, canal Kareen Duard",
+  "ancho": null,
+  "alto": null,
+  "que_es": "AMV de Evangelion con la canción \"Engel\" de Rammstein (4:21, 906 vistas)",
+  "para_que": "Fan dubs y comunidad hispana (punto 22): único resultado de la búsqueda \"fandub\" que abrió, aunque es un AMV musical, no doblaje de voz",
+  "licencia": "Vídeo de fans; sólo referencia, no usar el material con copyright que contiene"
+ },
+ {
+  "url": "https://www.foroseldoblaje.com/foro/viewtopic.php?t=69136&start=20",
+  "fuente": "Foros El Doblaje",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Hilo donde el fandom hispano discute cuál de los tres doblajes latinos de Evangelion es mejor",
+  "para_que": "Fan dubs y comunidad hispana (punto 22): la comunidad se centra en el doblaje oficial",
+  "licencia": "Foro; sólo consulta"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b07dec8d1a676c4dee08fd24c7b0deef3883d3c9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 5839,
+  "alto": 7563,
+  "que_es": "Fan art de souryuu_asuka_langley (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/aa76e837c4551bbd5dad25de99f7d8c91bacdb24.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 5827,
+  "alto": 7568,
+  "que_es": "Fan art de ayanami_rei (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/4/41/Media_Works_Super_Robot_Encyclopedia%2C_illustrated_by_Ikuto_Yamashita.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 5672,
+  "alto": 7108,
+  "que_es": "Shinji Ikari: Media Works Super Robot Encyclopedia, illustrated by Ikuto Yamashita.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/473/fddffc6f09c8783257973f9062245682fe9bc314.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 25000,
+  "alto": 1500,
+  "que_es": "Fan art de ikari_shinji (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/478/95f7a934ffaaaa6de0204d4d4e95684ff90d71bd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 22792,
+  "alto": 1400,
+  "que_es": "Fan art de ikari_shinji (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/e/ed/King_Records%27_Laserdisc_volume_6_First_Bonus_BOX%2C_illustrated_by_Ikuto_Yamashita.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 5038,
+  "alto": 5772,
+  "que_es": "Shinji Ikari: King Records' Laserdisc volume 6 First Bonus BOX, illustrated by Ikuto Yamashita.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/9/90/June_1996_issue_of_Newtype%2C_illustrated_by_Tadashi_Hiramatsu.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 7465,
+  "alto": 3837,
+  "que_es": "Shinji Ikari: June 1996 issue of Newtype, illustrated by Tadashi Hiramatsu.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/f/fb/Newtype_2015_01_illustration_by_Takeshi_Honda.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 6461,
+  "alto": 4075,
+  "que_es": "Rei Ayanami: Newtype 2015 01 illustration by Takeshi Honda.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/b/b0/NGE_Promotion_Poster_by_Shunji_Suzuki.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 4466,
+  "alto": 5254,
+  "que_es": "Shinji Ikari: NGE Promotion Poster by Shunji Suzuki.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3250/1f2d3cf287018507f0b205cd02253fa0b7beebd3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 6940,
+  "que_es": "Fan art de ikari_gendou (https://zhjake.artstation.com/projects/J9D4Ea)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/1/10/EVANGELION_STORE_TOKYO-01_14th_key_visual.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 4961,
+  "alto": 3508,
+  "que_es": "Rei Ayanami: EVANGELION STORE TOKYO-01 14th key visual.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ac1ea0dce05f7536661efb8e90532812c986936d.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4230,
+  "alto": 3541,
+  "que_es": "Fan art de ikari_shinji (https://www.newgrounds.com/art/view/ekdsc/pride-month)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/0/0a/Evangelion_Chronicle_character_Sheet_05.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3367,
+  "alto": 4434,
+  "que_es": "Gendo Ikari: Evangelion Chronicle character Sheet 05.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/3/37/Evangelion_Chronicle_character_Sheet_03.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3365,
+  "alto": 4434,
+  "que_es": "Shinji Ikari: Evangelion Chronicle character Sheet 03.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/4/43/Evangelion_Chronicle_character_Sheet_08.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3367,
+  "alto": 4426,
+  "que_es": "Misato Katsuragi: Evangelion Chronicle character Sheet 08.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/4/46/Evangelion_Chronicle_character_Sheet_04.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3356,
+  "alto": 4434,
+  "que_es": "Gendo Ikari: Evangelion Chronicle character Sheet 04.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/1/16/Evangelion_Chronicle_character_Sheet_07.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3349,
+  "alto": 4442,
+  "que_es": "Gendo Ikari: Evangelion Chronicle character Sheet 07.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/1/1c/Evangelion_Chronicle_character_Sheet_01.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3348,
+  "alto": 4434,
+  "que_es": "Shinji Ikari: Evangelion Chronicle character Sheet 01.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/7/78/Evangelion_Chronicle_character_Sheet_09.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3348,
+  "alto": 4434,
+  "que_es": "Misato Katsuragi: Evangelion Chronicle character Sheet 09.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/b/b7/Evangelion_Chronicle_character_Sheet_02.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3356,
+  "alto": 4418,
+  "que_es": "Shinji Ikari: Evangelion Chronicle character Sheet 02.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/f/f8/Evangelion_Chronicle_character_Sheet_06.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3275,
+  "alto": 4434,
+  "que_es": "Gendo Ikari: Evangelion Chronicle character Sheet 06.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/1/11/The_End_of_Evangelion_LD_back_illustrated_by_Shunji_Suzuki.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Shinji Ikari: The End of Evangelion LD back illustrated by Shunji Suzuki.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/7/7b/Genesis_01_LD.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Shinji Ikari: Genesis 01 LD.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/0/06/Genesis_12_LD.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Rei Ayanami: Genesis 12 LD.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/f/f3/Genesis_03_LD.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Rei Ayanami: Genesis 03 LD.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/4/45/Genesis_13_LD.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Misato Katsuragi: Genesis 13 LD.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/3/32/Genesis_02_LD.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Misato Katsuragi: Genesis 02 LD.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/e/e2/Genesis_06_LD.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Gendo Ikari: Genesis 06 LD.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/6/68/Genesis_0X_LD.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Kaworu Nagisa: Genesis 0X LD.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/7/7d/DEATH_%28TRUE%29%C2%B2_LD_front_illustrated_by_Masayuki.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3660,
+  "alto": 3660,
+  "que_es": "Kaworu Nagisa: DEATH (TRUE)² LD front illustrated by Masayuki.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/1c84bf1d0baa210f28fc6159ca9ec3fee8d8cd53.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4093,
+  "alto": 2894,
+  "que_es": "Fan art de ikari_shinji (https://twitter.com/yurumenoika/status/1800873398333321515)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4309/c599dbc36bee0c8b938215f5fc9a9ee1ec71f841.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4480,
+  "alto": 2520,
+  "que_es": "Fan art de ikari_gendou (https://i.pximg.net/img-original/img/2023/08/14/22/30/04/110831322_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/610/e4fa7073c63a09597daff3353e0adfb66a600ed5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4000,
+  "alto": 2715,
+  "que_es": "Fan art de kaname_madoka (http://img26.pixiv.net/img/dukeryuzaki/18754744.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3948/302f0d0930029212f2630d75824b335217cf3aea.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3300,
+  "alto": 3000,
+  "que_es": "Fan art de katsuragi_misato (https://twitter.com/khyleri/status/1565006501822926849)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/c/c6/Animage_1997_July_Nobuteru_Yuki.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 2599,
+  "alto": 3622,
+  "que_es": "Rei Ayanami: Animage 1997 July Nobuteru Yuki.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/8/85/107c32e5ff2e7f24edd886b53be34ca6.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3102,
+  "alto": 2826,
+  "que_es": "Misato Katsuragi: 107c32e5ff2e7f24edd886b53be34ca6.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/e/ea/37025632984_f3edf3c4ab_o.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 3478,
+  "alto": 2445,
+  "que_es": "Misato Katsuragi: 37025632984 f3edf3c4ab o.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3694/e35723888e4e5ded6fd816109c2d9147533766ee.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4096,
+  "alto": 2020,
+  "que_es": "Fan art de kaname_madoka (https://twitter.com/pantsu_ripper/status/1492026102042222594)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4284/1797c09e38a62512a8e41c162869150da4a05bcd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2336,
+  "alto": 3524,
+  "que_es": "Fan art de katsuragi_misato (https://twitter.com/LIMART05/status/1688202421669912576)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/eb8d7b559fcd8aa5df33b07f51f20282e4afd16a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 2700,
+  "que_es": "Fan art de souryuu_asuka_langley (https://twitter.com/khyleri/status/1825570340333883886)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/8/84/Katsuragi_Misato_gun_art.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 2000,
+  "alto": 2910,
+  "que_es": "Misato Katsuragi: Katsuragi Misato gun art.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/c/c3/Amada_Printing_Processing_%2798_Calendar_illustrated_by_Hiroyuki_Imaishi.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 2045,
+  "alto": 2845,
+  "que_es": "Shinji Ikari: Amada Printing Processing '98 Calendar illustrated by Hiroyuki Imaishi.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/f/ff/Rei_and_Asuka_Illustration_by_Kazuya_Tsurumaki.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 2000,
+  "alto": 2858,
+  "que_es": "Rei Ayanami: Rei and Asuka Illustration by Kazuya Tsurumaki.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/8/8e/Evasecond_008.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 2000,
+  "alto": 2858,
+  "que_es": "Rei Ayanami: Evasecond 008.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/6/61/Pachinko_Promo.png",
+  "fuente": "Fandom evangelion",
+  "ancho": 1907,
+  "alto": 2707,
+  "que_es": "Kaworu Nagisa: Pachinko Promo.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/1/12/The_Last_Messenger_Kaworu_Nagisa_Exhibition_Key_visual_2.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 1811,
+  "alto": 2560,
+  "que_es": "Kaworu Nagisa: The Last Messenger Kaworu Nagisa Exhibition Key visual 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3803/e4e26706c0acf782daa84121b3abe19399815bfc.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1796,
+  "alto": 2570,
+  "que_es": "Fan art de katsuragi_misato (https://i.pximg.net/img-original/img/2022/04/16/21/23/12/97668736_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/7/7e/Lilith.png",
+  "fuente": "Fandom evangelion",
+  "ancho": 1906,
+  "alto": 2274,
+  "que_es": "Gendo Ikari: Lilith.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/771/17cf0d694124007932c75dbcc5957600b6245ffc.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1767,
+  "que_es": "Fan art de katsuragi_misato (https://i.pximg.net/img-original/img/2024/06/23/21/22/23/119908885_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/9/95/Pachis_Evangelion_Wallpaper_84.png",
+  "fuente": "Fandom evangelion",
+  "ancho": 1283,
+  "alto": 2778,
+  "que_es": "Kaworu Nagisa: Pachis Evangelion Wallpaper 84.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/5/5c/Pachis_Evangelion_Wallpaper_64.png",
+  "fuente": "Fandom evangelion",
+  "ancho": 1283,
+  "alto": 2778,
+  "que_es": "Kaworu Nagisa: Pachis Evangelion Wallpaper 64.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Fan art de hatsune_miku (https://x.com/siro_itigo_o/status/1805557196505465262)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1030/af4ed329d6144dc9f5cfe37354c4702cdff97899.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1505,
+  "alto": 2048,
+  "que_es": "Fan art de ikari_shinji (https://twitter.com/fckdup_asht/status/1881353648233763057)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2187/6e5911a97fea488bb67aece47b6fdace8cc52f00.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1440,
+  "que_es": "Fan art de ikari_gendou (http://twitter.com/dragongarowLEE/status/876107221356093441)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/1/12/MOVIC_01%27_Calendar_illustrated_by_Kou_Yoshinari_and_Yoh_Yoshinari_2.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 1379,
+  "alto": 1965,
+  "que_es": "Kaworu Nagisa: MOVIC 01' Calendar illustrated by Kou Yoshinari and Yoh Yoshinari 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/482/de7f1c1aabffeb630660d7139acf6d3afab431b6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1521,
+  "alto": 1698,
+  "que_es": "Fan art de souryuu_asuka_langley (http://img53.pixiv.net/img/entryfile/13293546.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4268/3f26e5d62d270fe9bee4a4246a9aa4ee3b255631.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1989,
+  "alto": 1111,
+  "que_es": "Fan art de katsuragi_misato (https://twitter.com/Saplemu/status/1683838489744510978)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/0/01/Kaworu_Nagisa_Early_Design.jpg",
+  "fuente": "Fandom evangelion",
+  "ancho": 1250,
+  "alto": 1749,
+  "que_es": "Kaworu Nagisa: Kaworu Nagisa Early Design.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/evangelion/images/4/44/Shinji_Rei_Kaworu_%28EoE%29.png",
+  "fuente": "Fandom evangelion",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kaworu Nagisa: Shinji Rei Kaworu (EoE).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/33/cc86f09bb6b76dcf4829a2b11f0bc5a82deb0c32.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1200,
+  "que_es": "Fan art de katsuragi_misato (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 516,
+  "alto": 3642,
+  "que_es": "Fan art de hatsune_miku (http://img03.pixiv.net/img/matilda/990992.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/462/f319b96e4ac6353743fec173d963ba342aa3291d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1006,
+  "que_es": "Fan art de ayanami_rei (http://img1.sankakustatic.com/wp-content/gallery/safe-misc-vii/the-periodic-table-of-japanese-characters.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/10/0d7694c3db6efb74039fb3308cb2b481799459e0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 964,
+  "que_es": "Fan art de souryuu_asuka_langley (http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;amp;illust_id=6077838)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1395,
+  "que_es": "Fan art de hatsune_miku (http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/bc784ee95613c9982948bd70821f6fc774a64031.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1333,
+  "que_es": "Fan art de souryuu_asuka_langley (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1834/4bba3830cc87626a359bed08cb90110fdb9686e5.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 900,
+  "que_es": "Fan art de ikari_gendou (http://p2.ifengimg.com/ifengimcp/pic/20160620/45f28610bbc56ed31df7_size1092_w2048_h1536.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/583/ec487d7ebdc9d05c1c114e93419dad05300b014b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 900,
+  "que_es": "Fan art de kaname_madoka (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4193/2f0cfb89f35c60b1badf016f30aa6de7ff87b4c9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Fan art de ayanami_rei (https://twitter.com/truffleduster/status/1662309639273209856)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/4106/5040188587_35dc415f5b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 973,
+  "alto": 1024,
+  "que_es": "Evangelion 2.22",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor Carlos MuLec"
+ },
+ {
+  "url": "https://safebooru.org/images/1127/b297f89b5ff9fe82dc7526153ff2e842e4e3dc5d.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1100,
+  "alto": 884,
+  "que_es": "Fan art de nagisa_kaworu (http://i2.pixiv.net/img26/img/yuki-love/41293575.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de hatsune_miku (http://img11.pixiv.net/img/nekogamisama/1837016.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/604/8ccae38703c5573a5de3bc7ce4f5fc7c4c947c2b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de kaname_madoka (http://img37.pixiv.net/img/mineg-sakamoto/18477997.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/535/57df54b389b305493b31f6e6b327dc3705e2a449.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 931,
+  "alto": 1000,
+  "que_es": "Fan art de ayanami_rei (http://img11.pixiv.net/img/jin6/15635866.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/2500/3982863100_6a94442a63_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Overall... I will definitely buy this in November ^_^",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Debs (ò‿ó)♪"
+ },
+ {
+  "url": "https://live.staticflickr.com/2602/3982100917_8486c4f4f0_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "BC Theatre",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Debs (ò‿ó)♪"
+ },
+ {
+  "url": "https://live.staticflickr.com/2621/3982101247_3036d361c2_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Eva in BC!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Debs (ò‿ó)♪"
+ },
+ {
+  "url": "https://live.staticflickr.com/2594/3976788886_798036faef_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Rebuild of Evangelion 1.0: You Are (Not) Alone ♪",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Debs (ò‿ó)♪"
+ },
+ {
+  "url": "https://live.staticflickr.com/4126/5002994723_d72e470286_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Tercer impacto",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor Carlos MuLec"
+ },
+ {
+  "url": "https://safebooru.org/images/1530/a47045da58c942f0253b8fc8b047901d7165c6e6.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 744,
+  "que_es": "Fan art de kaname_madoka (http://40.media.tumblr.com/e27ed6671152da69b885ce263df9148a/tumblr_nijkogdPfU1rn3h2do1_1280.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1038/cbf7a2f7185ad4c87270271ae75848d3048998be.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 1020,
+  "que_es": "Fan art de nagisa_kaworu (http://ano.hannnari.com/kwsn136.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54212400273_ba0c40a0d5_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Selective color Rei",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor btadiem"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54099568417_d9d3fed4e7_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Ayanami Rei on a walk (2)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor btadiem"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54052234955_60dd98babd_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Ayanami Rei on a walk (B&W Version)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor btadiem"
+ },
+ {
+  "url": "https://safebooru.org/images/956/4af73aef23231a770564410d877252ca07623ecf.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 801,
+  "alto": 601,
+  "que_es": "Fan art de kaname_madoka (http://i1.pixiv.net/img05/img/yaski/32286051_big_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/959/3c4a0bb1e15ea358f6974bfdd972f1127302c970.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 480,
+  "alto": 640,
+  "que_es": "Fan art de nagisa_kaworu (http://img02.pipa.jp/tegaki/user_img6/13398/1339861277353437.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/915/88341007ade91d0e7bc4e34f9ff112f7a05cc587.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 600,
+  "que_es": "Fan art de nagisa_kaworu (http://i2.pixiv.net/img46/img/tomodachinko/33721998_big_p2.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/542/82d9479839e2a0710368672d371e150830da0ada.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 396,
+  "alto": 650,
+  "que_es": "Fan art de souryuu_asuka_langley (http://twitpic.com/3psi4p/full)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Asuka Langley Souryuu",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rei Ayanami",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Shinji Ikari",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Misato Katsuragi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kaworu Nagisa",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Narrator",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1892-sjqNrZpbddu8.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Pen Pen",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1260-QCPCuARGDhqK.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ryouji Kaji",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ritsuko Akagi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Gendou Ikari",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1250-GU74dqhQEaUN.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kensuke Aida",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1262-srj1373Rz8dI.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Touji Suzuhara",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/1256-7NjpwB5vSlPZ.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Maya Ibuki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Yui Ikari",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1253-4VmJuD5jUSvJ.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kohzou Fuyutsuki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/30-gEMoHHIqxDgN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shin%20Seiki%20Evangelion",
+  "fuente": "GitHub (kitsunekko-mirror)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Subtítulos japoneses de Netflix (Erai-raws, con nombre de quien habla) y del BD de los 26 episodios, con tiempos",
+  "para_que": "Dar el minuto exacto de cada escena y frase (§2, §15)",
+  "licencia": "Subtítulos de fans / plataforma: sólo consulta"
+ },
+ {
+  "url": "https://fontsinuse.com/uses/28760/neon-genesis-evangelion",
+  "fuente": "Fonts In Use",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis tipográfico de la serie: Matisse EB comprimida, Helvetica, Times, Chicago",
+  "para_que": "Tipografía de la cartela y de las pantallas (§6)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "http://route2015.evastore.jp/interview/01/3/",
+  "fuente": "EVA STORE / Fontworks (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista «エヴァンゲリオンが証明した、フォントのチカラ» sobre la letra de Eva",
+  "para_que": "Fuente oficial en japonés de la cartela (§6.1)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/interest/2016-11-07/replicate-evangelion-stark-episode-titles-with-special-font-package/.108496",
+  "fuente": "Anime News Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Anuncio de las letras oficiales EVA-Matisse Classic y Standard (Fontworks, 2016)",
+  "para_que": "Saber que la letra oficial existe y es de pago (§6.1)",
+  "licencia": "Letra comercial; no usar copias"
+ },
+ {
+  "url": "https://github.com/TheGreatGildo/nerv-ui",
+  "fuente": "GitHub (proyecto de fans)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Sistema de diseño de las pantallas de NERV: hex, letras, compresión scaleX 0.78-0.85",
+  "para_que": "Paleta naranja/verde/cian/rojo y receta de cartela (§5.2, §6.2)",
+  "licencia": "MIT"
+ },
+ {
+  "url": "https://medium.com/astromono/the-amazing-ui-design-of-evangelion-de1126a7a85d",
+  "fuente": "Medium (Astromono)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis del diseño de interfaz de Evangelion",
+  "para_que": "Cómo cambian los colores en emergencia (§5.2)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://gist.github.com/6b24ac6705298b2dba7a",
+  "fuente": "GitHub Gist",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Emergency hexagons from evangelion»",
+  "para_que": "Hexágonos de alerta para la lámina 2 (§7.1)",
+  "licencia": "Código de fan; ver gist"
+ },
+ {
+  "url": "https://wiki.evageeks.org/SEELE",
+  "fuente": "EvaGeeks (EvaWiki)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "SEELE y sus monolitos «SEELE 01-12 SOUND ONLY»",
+  "para_que": "Concepto B (§19)",
+  "licencia": "Wiki de fans; sólo consulta"
+ },
+ {
+  "url": "https://wiki.evageeks.org/Nerv_Logo",
+  "fuente": "EvaGeeks (EvaWiki)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "El logo de NERV: hoja de higuera y frase de Browning",
+  "para_que": "Logo de la carpeta y la tarjeta (concepto A)",
+  "licencia": "Logo de Khara; sólo referencia"
+ },
+ {
+  "url": "https://www.tumblr.com/shin-seiki-evangelion/36482967167/rei-ayanami-nerv-id-card",
+  "fuente": "Tumblr (@shin-seiki-evangelion)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Imagen de la tarjeta de seguridad NERV de Rei (ep. 5)",
+  "para_que": "Diseño de la tarjeta para Blender (concepto A)",
+  "licencia": "Captura de la serie; sólo referencia"
+ },
+ {
+  "url": "https://paypayfleamarket.yahoo.co.jp/item/z62064902",
+  "fuente": "Yahoo! Flea Market (reventa)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Las 5 tarjetas NERVパイロットIDカード del «EVANGELION 京都基地» (Tōei Uzumasa Eigamura)",
+  "para_que": "Tarjeta de piloto real (objeto oficial) para modelar",
+  "licencia": "Producto oficial; foto sólo referencia"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/interest/2014-04-19/shinji-tape-player-gets-a-tech-upgrade-with-new-sony-walkman-f",
+  "fuente": "Anime News Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Walkman F «SDAT» oficial de Sony (2014), grabado como el de Shinji",
+  "para_que": "Objeto real para el concepto C",
+  "licencia": "Producto oficial; foto sólo referencia"
+ },
+ {
+  "url": "https://www.worthpoint.com/worthopedia/retro-sony-wmd-dt1-portable-dat-1844870058",
+  "fuente": "WorthPoint",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Sony WMD-DT1, el DAT portátil real del SDAT de Shinji",
+  "para_que": "Modelar el SDAT con medidas reales",
+  "licencia": "Foto de anuncio; sólo referencia"
+ },
+ {
+  "url": "https://www.artstation.com/artwork/gRq1gx",
+  "fuente": "ArtStation (Delphana Arts, Timothy Bryan)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Render 3D del SDAT de Shinji",
+  "para_que": "Forma, botones y cable del SDAT (concepto C)",
+  "licencia": "Obra de fan; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738",
+  "fuente": "Sketchfab (Cookie @cookiepop)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de tablilla con pinza",
+  "para_que": "Base de la ficha en Blender (concepto A)",
+  "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/cello-d67ed4cbbc0c4477ba5d89413e715c82",
+  "fuente": "Sketchfab (Lordricker)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de chelo",
+  "para_que": "El chelo de Shinji (concepto C)",
+  "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/sony-walkman-1985-70984e9a3bb4497da196275feb343713",
+  "fuente": "Sketchfab (milkmanfromhell)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de Sony Walkman de 1985",
+  "para_que": "Base para modelar el SDAT (concepto C)",
+  "licencia": "Download Free; licencia por comprobar (suele ser CC BY)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/eva-unit-01-rigged-a9c89d4df6b04818984cffd00cc5f634",
+  "fuente": "Sketchfab (TitanGoji1954)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Unidad 01 con esqueleto",
+  "para_que": "Sólo referencia de pose de la Eva",
+  "licencia": "Download Free; diseño de Khara, no usar en la lámina"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper001",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura PBR de papel",
+  "para_que": "Papel de la ficha (concepto A)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://30th.evangelion.jp/",
+  "fuente": "Web oficial del 30 aniversario",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Noticias, logo de Ikuto Yamashita, artículos oficiales y productos",
+  "para_que": "Arte oficial más nuevo (§3.3)",
+  "licencia": "Oficial; sólo referencia"
+ },
+ {
+  "url": "https://www.eva-info.jp/27248",
+  "fuente": "eva-info.jp (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«貞本義行画集 EVANGELION» edición limitada, 10-nov-2026, con 4 ilustraciones nuevas",
+  "para_que": "Ilustraciones de Sadamoto (§3.2)",
+  "licencia": "Oficial; sólo referencia"
+ },
+ {
+  "url": "https://www.evangelion.jp/news/260307-2/",
+  "fuente": "evangelion.jp (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Corto de Asuka del 30 aniversario, gratis en el YouTube de Khara desde el 8-mar-2026",
+  "para_que": "Poses y cara actuales de Asuka (§9.2)",
+  "licencia": "Oficial; sólo referencia"
+ },
+ {
+  "url": "https://www.famitsu.com/news/202005/16198567.html",
+  "fuente": "Famitsu",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Resultados del «全エヴァンゲリオン大投票» de NHK (2020): Asuka 1.ª; frase n.º 1 de Rei",
+  "para_que": "Quién es el más querido (§9)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://mantan-web.jp/article/20200517dog00m200000000c.html",
+  "fuente": "MANTANWEB",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Mismo voto de NHK: Asuka 1.ª, frase «私が守るもの» 1.ª",
+  "para_que": "Segunda fuente del voto (§9)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://cinepremiere.com.mx/neon-genesis-evangelion-netflix-doblaje.html",
+  "fuente": "Cine Premiere",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reparto y estudio del doblaje latino de Netflix (Audiomaster Candiani, América Torres)",
+  "para_que": "Doblaje latino (§10)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://dubdb.fandom.com/wiki/Neon_Genesis_Evangelion_(Latin_American_Spanish,_Netflix)",
+  "fuente": "Dub Database",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reparto del doblaje latino de Netflix",
+  "para_que": "Confirmar Marisol Romero y Alberto Bernal (§10)",
+  "licencia": "Wiki; sólo consulta"
+ },
+ {
+  "url": "https://www.anmtvla.com/2021/08/revelado-doblaje-colaborativo-de-la.html",
+  "fuente": "ANMTV",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Doblaje colaborativo México-Argentina de las Rebuild en Prime Video",
+  "para_que": "Reparto de las Rebuild (§10)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://soranews24.com/2022/11/21/visiting-evangelions-tokyo-3-anime-locations-in-real-life-hakone%E3%80%90photos%E3%80%91/",
+  "fuente": "SoraNews24",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fotos de Hakone, el Tokio-3 real",
+  "para_que": "Luz y paisaje reales (§5, §17)",
+  "licencia": "Fotos del medio; sólo referencia"
+ },
+ {
+  "url": "https://wall.alphacoders.com/big.php?i=1399756",
+  "fuente": "Wallpaper Abyss",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo 4K «Asuka: Neon Skyline»",
+  "para_que": "Asuka con ciudad de noche",
+  "licencia": "Fan art; sólo referencia"
+ },
+ {
+  "url": "https://wall.alphacoders.com/big.php?i=949384",
+  "fuente": "Wallpaper Abyss",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo 4K de Rei Ayanami",
+  "para_que": "Referencia de Rei",
+  "licencia": "Sin autor claro; sólo referencia"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=3bdjDmYc8J4",
+  "fuente": "YouTube (Netflix)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tráiler oficial de Netflix (2019)",
+  "para_que": "Planos oficiales en movimiento",
+  "licencia": "Oficial; sólo referencia"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=n6MXBsCvlHw",
+  "fuente": "YouTube",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Neon Genesis Evangelion (Netflix) / Doblaje Español Latino»",
+  "para_que": "Oír las voces latinas de Netflix antes de rotular una frase",
+  "licencia": "Subida de terceros; sólo consulta"
+ },
+ {
+  "url": "https://knowyourmeme.com/memes/subcultures/neon-genesis-evangelion",
+  "fuente": "Know Your Meme",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Memes de Evangelion (Congratulations, Gendowned, etc.)",
+  "para_que": "Lo que ama el fandom (§14)",
+  "licencia": "Sólo consulta"
+ },
+ {
+  "url": "https://roadtovr.com/evangelion-cross-reflections-quest-3-release-2026/",
+  "fuente": "Road to VR",
+  "ancho": null,
+  "alto": null,
+  "que_es": "EVANGELION: Δ CROSS REFLECTIONS: el jugador es un aprendiz de NERV",
+  "para_que": "Videojuegos de la franquicia (§13)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://uakira.hateblo.jp/entry/20100726",
+  "fuente": "Blog uakira (japonés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«市川崑のタイポグラフィ» y la «Eva mincho»: Matisse EB, Matisse UB, homenaje a Kon Ichikawa",
+  "para_que": "Origen de la cartela (§6.1)",
+  "licencia": "Artículo; sólo consulta"
+ },
+ {
+  "url": "https://x.com/backgroundsbot/status/960223392547864576?lang=en",
+  "fuente": "X (Anime Background Art)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fondos de Evangelion (dirección de arte de Hiroshi Katō)",
+  "para_que": "Estilo de fondo para Blender o IA (§18)",
+  "licencia": "Capturas de la serie; sólo referencia"
+ }
 ]
