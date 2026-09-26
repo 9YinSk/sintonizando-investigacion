@@ -73,6 +73,7 @@ nombre en el campo `model`. Como advierte LOCAL.md, esto es sólo comprobación 
 alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 `ANTHROPIC_DEFAULT_OPUS_MODEL` y reabra `claude --continue`. La prueba real sigue siendo
 `revisar.py` dando COMPLETA.
+- 105 Generator Rex: biblia escrita (2026-09-26 03:0x UTC) pero con 1 ❌ (punto 20): la parte de voz se había quedado en el punto 8. Relanzada la voz (puntos 7, 12, 13, 20, 21, 22); luego redactor en modo seguir.
 
 ## Avisos para el dueño
 
@@ -92,6 +93,7 @@ alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 - 101 Your Name: Oír las frases del doblaje latino del clímax y de la pregunta por el nombre en HBO Max, Netflix o Prime (no hay clip latino accesible). El hilo fijado de #fotos ya lleva un adjunto (fotos.png): si ya tiene lámina, los conceptos 1 y 2 sirven de lámina 2. Ver el fandub latino de Steve Dub (dailymotion x6gfqxf) para anotar qué escenas dobla. Fan art de Safebooru casi sin mirar: nº13 (Takao Akizuki) y nº19, 22, 23 (Z-Kai) de personajes_01 sin comprobar, no usar. Sin buscar figuras oficiales (MyFigureCollection) ni Poly Haven (huecos de 23 y 3). Si se vuelve a correr juntar_referencias.py vuelve el fan art de otras obras de datos.json (Miku, Cirno, Kancolle): no dejes que entre. La hermana 52 sigue sin biblia: cuando se haga, que parta de ésta.
 - 103 Hazbin Hotel y Helluva Boss: Comandos del bot de radio no están en inventario (lámina 2 de RADIO EN VIVO). Serie adulta: guía para IA excluye a Angel Dust y Valentino, pide frases sin insultos. Verificar palabras ⚠️ de muestras de Doblaje Wiki (Angel Dust, Niffty, Vox, Valentino, Lucifer, Blitzø, Millie). Comprobar si Angel Dust sale a 1:59 del tráiler T1. ¿Angel Dust con 4 o 6 brazos? Recolores mal asignados: #27304B (pelo de Vaggie), #F9D18E (piel de Blitzo). Fotogramas a 720p (YouTube bloqueado). Modelos Sketchfab CC BY piden crédito; Husk es CC BY-NC.
 - 102 El estilo Ghibli en general: Inventario escribe «Diseno» sin eñe en #🎨・arte: confirmar antes de rotular. Nombres del doblaje latino sólo en Doblaje Wiki (salvo Chihiro): falta segunda fuente. Oír «¡Mei, mira eso!» (dailymotion x4mls0h 0:16) y la de Haku con música encima (x4bncvf 0:33). Mirar a tamaño real el gesto de Naoko (hoja arte_01 n.º 12 y fotograma kazetachinu028) antes de posar el concepto A. No hay frase de Kiki en doblaje latino con fuente: concepto B no le pone ninguna. Miyazaki llama a la animación con IA «un insulto a la vida misma».
+- **105 Generator Rex** (a medias): más querido, Rex (todo el fan art; secundarios Six y Bobo). Cuadro: el panel del sitio oficial (azul-gris, borde cian, retrato a la izquierda, engranaje) o los globos del cómic *Action Pack*; Black Ops One + Oswald. Láminas: A ⭐ #hardware «El banco de builds», B #destacados «El Decreto de Encomio», C #memes «Bobo y el cómic». Avisos: el texto de #memes manda a «fandub-de-memes», canal que no está en el inventario (confirmar nombre); Bobo lleva fez granate con borla negra y parche en el ojo izquierdo (las partes decían otra cosa); año del juego: 2011 (una parte decía 2010).
 
 ## Costos
 
@@ -120,3 +122,4 @@ alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 | 101 | equipo completo | Sonnet + Opus | — | — |
 | 103 | equipo completo | Sonnet + Opus | — | — |
 | 102 | redactor (seguir) | Opus | 16 | 282.7 mil |
+| 105 | redactor | Opus | — | — |

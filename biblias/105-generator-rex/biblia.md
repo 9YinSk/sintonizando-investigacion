@@ -653,3 +653,117 @@ Para las tres: color plano con sombra dura y línea gruesa (§18); **nada de bur
   - Viñeta 2, con el estallido radial: «¿Lo doblas? Va a fandub-de-memes.» ⚠️ ese canal no sale en el inventario: confirmar el nombre con el dueño.
 - **Que no quede plano**: el cómic muy cerca de la cámara, con el lomo curvado; Bobo detrás, algo desenfocado en los bordes; sombra dura de tarde en la caja; al fondo, contenedores y el cielo naranja.
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Retratos oficiales mirados, certificado de Providence, imagen del cruce 1920×1080, hilo de Rouleau, alineación de grupo, Bobo en acción, portada del DVD, 17 carátulas indexadas, 113 imágenes en 3 hojas. No hay artbook ni hojas de modelo publicadas |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 6 clips mirados con `fotogramas.py`, con minuto. Todo a 1280×720, no 1080p. Dos escenas sin episodio identificado; no hay episodios completos en la red abierta |
+| 3 · Fan art y 3D con licencia | ✅ | 8 fan art de Rex con autor y tamaño; 10 modelos 3D CC BY con caras y crédito (nanitos, Punk Busters, Boogie Pack, Rex). Licencia de Biowulf sin abrir. Poly Haven no tiene nada de la serie |
+| 4 · Sitios, luz, paleta y texturas reales | ✅ | 3 sitios con hex medidos en fotogramas (Providence, patio, ciudad de noche) y 1 sin medir; sitios de las hojas; 3 texturas CC0 de ambientCG |
+| 5 · Tipografía por uso | ✅ | Logo confirmado en el sitio archivado y la wiki. Letra libre por uso comprobada con fontTools: Black Ops One, Comic Neue, Bangers, Luckiest Guy, Caveat, Special Elite, Oswald, Audiowide. La fuente de fan del logo, descartada (licencia y sin ñ). Pensamiento y onomatopeya no existen en la serie |
+| 6 · Cómo hablan en pantalla | ✅ | Sin globos en la serie. 4 soportes reales: panel HUD del sitio oficial, cómic de DC, pantallas del juego, jefe por monitor. Arte interior del cómic sin abrir |
+| 7 · Personajes y popularidad | ⚠️ | La parte de voz no llegó. Lista de personajes con datos de las otras partes y de las hojas. Sin encuesta oficial; sólo títulos y votos de Reddit |
+| 8 · Doblaje latino y frases | ⚠️ | Estudio, dirección y 14 voces latinas, con ficha de serie y de actor, pero de la misma wiki; falta ANMTV. **Ninguna frase latina textual** ni muestra oída |
+| 9 · Música y sonido | ✅ | Opening «Revolution» de Orange con 4 fuentes, compositor Kevin Manthei, 6 temas por personaje con episodio (una fuente), sin ending con letra. Efectos de sonido sin catalogar |
+| 10 · Vídeos y tendencias | ⚠️ | Opening, tráiler, clip de episodio, longplay y AMV con enlace y minuto. Sin tendencias de TikTok; YouTube pidió sesión |
+| 11 · Videojuegos | ✅ | *Agent of Providence* con armas, niveles, plataformas y longplay; visor 3D del sitio; 4 minijuegos. TCRF bloqueado por Cloudflare |
+| 12 · Lo que ama el fandom y qué NO hacer | ⚠️ | Qué ama: hilos de Reddit por votos (sin leer comentarios). Qué NO hacer: 8 reglas sacadas de las partes. Memes y chistes internos no se buscaron |
+| 13 · Personajes a fondo | ⚠️ | Rex, Six y Bobo con lo que transmiten, relaciones y caras vistas (minuto o número de hoja); 5 secundarios breves. Faltan miedos, muletillas y cara por emoción con minuto |
+| 14 · Poses analizadas | ✅ | 11 poses de vídeo con minuto y uso, más poses de las hojas por personaje y una lista por uso |
+| 15 · Vestuario con hex | ✅ | 16 hex medidos en retratos oficiales (4 remedidos por el redactor), vestuario completo de Rex, Six, Bobo y otros; el fez y el parche de Bobo corregidos |
+| 16 · Paisajes y fondos de pantalla | ✅ | Sitios con su luz y hora; fondo oficial 1920×1080, dos fan art grandes medidos, tres bancos de fondos. Wallhaven sin resultados; no hay pack oficial |
+| 17 · Guía para IA de imagen y de texto | ⚠️ | Guía de imagen completa (estilo, rasgos fijos con hex, palabras, referencias, expresiones). La de texto sólo da tono deducido: **no hay frases reales** de la serie en las partes |
+| 18 · Estilo y técnica, y cómo replicarlo | ⚠️ | Diseñador, estudio y directores; receta de Photoshop y Blender y encuadres. No hay *making of* ni entrevista que diga qué programas usó el estudio |
+| 19 · Texturas 2D | ✅ | Papel, metal y lona CC0, pinceles de trama con licencia a comprobar, emblema de la «P». Sin recurso libre de guilloché |
+| 20 · Gustos y detalles | ❌ | No se buscó: la parte de voz no llegó. Sólo hay objetos que llevan, el cumpleaños de Rex sin fecha y detalles de las hojas |
+| 21 · Por qué la aman | ⚠️ | Hilos de Reddit con votos y dos escenas emotivas con episodio (1.19 y 1.06), sin minuto ni vídeo. Reseñas, premios, reacciones y escenas con minuto no se buscaron |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Dailymotion buscado sin fandubs; hilos del «personaje latino favorito». YouTube, TikTok, covers y memes hispanos no se buscaron |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Cruce con Ben 10 con fechas, juego TKO, figuras Mattel con dos fuentes, cosplay con guía. No hay colaboraciones con marcas (buscadas) |
+| 24 · Obras parecidas y láminas vecinas | ✅ | Ben 10, Secret Saturdays, *M. Rex*, Man of Action, géneros de Wikipedia, obras del diseñador; láminas vecinas y canal compartido |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas en cinco líneas con 4 fichas, arcos por temporada (resumen corto), emblemas y vocabulario |
+| 3 conceptos de lámina | ✅ | #hardware, #destacados y #memes, con Rex, Six y Bobo, objeto real y sitio de la serie. #memes remite a un canal que no está en el inventario |
+| 40 fuentes distintas | ⚠️ | 42 webs enlazadas. 5 son intentos o raíces sin página concreta (tcrf.net bloqueado, kmmproductions.com sin abrir, cartoonnetwork.com visto por el archivo, 90sdvds.com y amoktime.com citados sin enlace exacto) |
+| Tipos de fuente | ⚠️ | Oficiales (sitio archivado, créditos, Bandcamp) ✓; wiki, TV Tropes (sólo intro), TCRF y Wayback bloqueados; Reddit sólo títulos; arte (Safebooru, Danbooru, DeviantArt, Pixiv) ✓; vídeo (Dailymotion, Archive) ✓; recursos (Sketchfab, ambientCG, Fontsource) ✓; coreano ✓, japonés no; GitHub y ANMTV no |
+| Hojas de contacto | ✅ | 3 hojas JPEG de menos de 1 MB, 113 imágenes numeradas |
+| `referencias.json` | ✅ | 58 referencias, las mejores primero; 50 de ruido quitadas |
+
+## Bitácora
+
+### Bitácora de imagen
+
+- Wiki de Fandom: `generatorrex.fandom.com` (imágenes en `static.wikia.nocookie.net/generatorrexpedia/`),
+  confirmada por búsqueda en `api.php?action=query&list=search`. `datos-imagen.md` no traía wiki (el encargo no
+  la fijó); se buscó a mano.
+- `investigar_serie.py --wiki generatorrex --min-px 90000 --paginas "Rex Salazar" "Agent Six" "Bobo Haha"
+  "Providence" "Van Kleiss" "Breach" "White Knight" "Rex Salazar's machines" "Nanites" "Circe" "Noah Nixon"
+  "Rebecca Holiday"` → 121 imágenes enlazadas, 113 grandes, 3 hojas de contacto (en español: se subieron a
+  `hojas/` como `personajes_01.jpg`, `personajes_02.jpg`, `maquinas_01.jpg`).
+- Colores: recorte con Pillow de zonas de tela limpias (sin borde de línea) sobre el retrato oficial de cada
+  personaje en la wiki; verificado visualmente con recortes ampliados antes de medir (ver método en el punto 15).
+- Danbooru `related_tag` y Safebooru API (`tags=generator_rex`) en inglés, para fan art y vocabulario de tags.
+- Sketchfab API (`api.sketchfab.com/v3/search?type=models&q=...&downloadable=true`) en inglés, varias consultas:
+  «generator rex», «generator rex nanite», «generator rex jetpack», «rex salazar», «biowulf generator rex»,
+  «Meta-Nanites». Se comprobó licencia y nº de caras de cada modelo elegido con `api.sketchfab.com/v3/models/<id>`.
+- ambientcg API (`ambientcg.com/api/v2/full_json`) para texturas CC0: Metal, Fabric, Paper.
+- Búsquedas web (WebSearch, en inglés): «Generator Rex wallpaper 1920x1080», «Generator Rex Sketchfab 3D model
+  download», «Generator Rex action figure Mattel 2010», «Generator Rex cosplay Rex Salazar costume», «Generator
+  Rex DVD cover complete series poster key art», «circuit board pattern seamless texture CC0», «free halftone
+  dot pattern brushes Photoshop CC0 comic screentone». 7 búsquedas usadas del cupo de ~50.
+- `datos-imagen.md` (recolectar.py) revisado primero: casi todo su contenido (Danbooru/Safebooru de Raven,
+  Robin, Starfire, Marceline, Bonnibel, Buttercup; Sketchfab de terrenos/SciFi genérico; Openverse de dinosaurios
+  y NASA OSIRIS-REx) es ruido de una búsqueda genérica por la palabra «rex» sin wiki fijada; se descartó y se
+  investigó todo de nuevo con la wiki correcta. Sólo se aprovechó el bloque de `rex_salazar` en Danbooru y
+  Safebooru, que sí es de esta serie.
+
+### Bitácora de video
+
+- Dailymotion API (`api.dailymotion.com/videos?search=...`): «Generator Rex
+  opening theme», «Generator Rex full episode», «Generator Rex ending
+  credits», «Generator Rex clip scene» — en inglés. De ahí salieron los clips
+  usados (opening HD, intro+ending, tráiler del juego, Operation Wingman,
+  SixxRex).
+- `fotogramas.py` sobre 6 clips de Dailymotion y 1 de Internet Archive: hojas
+  de contacto miradas con Read en /tmp/claude-0/trabajo/105-generator-rex-video/.
+- Wiki `generatorrex.fandom.com` (api.php): `action=query&list=search` para
+  «Episode 1», «Operation Wingman», «theme song Orange», «damned wretch»; y
+  `action=parse&prop=wikitext` sobre «List of Generator Rex episodes»,
+  «Kevin Manthei», «Orange» y «Soundtrack of Generator Rex».
+- `estilo.py` sobre 4 fotogramas propios (Providence, patio colonial, ciudad
+  de noche, interior de ruinas) para los hex de paleta y luz del punto 4.
+- Internet Archive `advancedsearch.php` para episodios completos: no hay
+  episodios completos subidos, sólo compilaciones de fans y clips de juego;
+  usé la compilación de poderes (canal con más descargas, 571) como escena 3.
+- `kmmproductions.com` (sitio del compositor) está fuera de la lista de
+  hosts permitida desde este servidor: no pude leerlo directo; la wiki cita
+  esa misma fuente para el dato de Kevin Manthei, así que lo dejé con la
+  wiki + los créditos del propio show como las dos fuentes.
+- WebSearch (2 de ~50): «"Generator Rex" TikTok edit OR trend 2024 2025»
+  (nada relevante) y «"Generator Rex" opening theme song "Revolution" Orange
+  band» (confirmó la autoría en Wikipedia, Bandcamp y Apple Music/Spotify).
+
+### Bitácora de voz
+
+- Doblaje Wiki, wikitext completo de «Generador Rex» vía `action=parse&prop=wikitext` (api.php, funciona en este servidor) · español.
+
+### Bitácora de texto
+
+- generatorrex.fandom.com vía api.php (`action=query`, `list=search`, `list=allpages`, `list=allimages`, `prop=revisions`): páginas de Generator Rex, M. Rex, Man of Action, Cartoon Network Action Pack, Nanite Event, Providence, EVO, Consortium, Jose Lopez, juegos (Agent of Providence, Nanite Master, Nanite Runner, Heroes United online, Titanic Kungfubot Offensive) — español no aplica, wiki en inglés.
+- en.wikipedia.org/wiki/Generator_Rex vía curl directo (funcionó; WebFetch a Wikipedia salió bloqueado por el proxy de red) — inglés.
+- tcrf.net vía curl y `navegar.py` — bloqueado por Cloudflare en los dos casos (403 / challenge JS), dos intentos, no se insistió más.
+- tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GeneratorRex vía `navegar.py` (funciona en esta máquina) — sólo cargó la introducción, no las carpetas de tropos — inglés.
+- dafont.com/generator-rex.font vía `navegar.py` (bloqueado por WebFetch, funcionó por `navegar.py`); descarga del .ttf vía `dl.dafont.com` y comprobación de glifos con `fontTools` — inglés.
+- api.fontsource.org (`/v1/fonts`, `/v1/fonts/<id>`) + descarga de .ttf desde `cdn.jsdelivr.net/fontsource` + `fontTools.getBestCmap()` para comprobar á é í ó ú ñ ¿ ¡: Black Ops One, Bangers, Comic Neue, Luckiest Guy, Special Elite, Audiowide, Oswald — todas completas.
+- archive.org: `/metadata/generator-rex-website-tour` y `/metadata/PS3_Longplay_141_Generator_Rex_Agent_of_Providence`; miniaturas del recorrido del sitio bajadas y miradas directamente (contact sheet propio, `web_sheet.jpg`).
+- archive.org/wayback/available: 429 en dos intentos (límite compartido), no se insistió más.
+- Búsquedas web (`WebSearch`, en inglés y coreano): `"Generator Rex" logo font typeface`; `"Generator Rex" animation studio Flash Toon Boom production`; `"Generator Rex" thecuttingroomfloor.com`; `"Generator Rex" animation "Rough Draft" OR "Moi Animation" OR "Digital eMation" OR overseas animation studio`; `"Generator Rex" character design interview Duncan Rouleau art style influences`; `"Generator Rex" 제너레이터 렉스 한국 카툰네트워크`.
+- `servidor/inventario.md`: revisado por «rex», no hay canal ni lámina existente que choque; `biblias/` revisado por series de género parecido (nanotecnología/cyborg adolescente): ninguna biblia terminada todavía comparte ese género exacto (106-glitch-techs existe como carpeta pero sin `biblia.md`).
+- Aviso del jefe sobre datos-texto.md mezclado con otras obras: comprobado, el archivo estaba casi vacío (un único bloque de Steam sin resultados) y no se usó nada de él.
+
+### Bitácora del redactor
+
+- `juntar_referencias.py` (105 entradas) y `juntar_bitacora.py`; quitadas de `referencias.json` 50 de ruido del recolector (Openverse, fan art de otras series, Sketchfab ajeno) y 2 repetidas; añadidas 5 de la parte de imagen. Quedan 58.
+- Leídas enteras las cuatro partes; de `datos-voz.md` sólo los bloques de Reddit y de clips, porque la parte de voz se quedó en el punto 8.
+- Mirados a mano los retratos oficiales de Rex, Six y Bobo (ampliados) y las 3 hojas: de ahí el fez y el parche de Bobo, 4 hex remedidos con Pillow y los números de hoja de cada pose.
+- Revisado `servidor/inventario.md` (lista de canales, #hardware, #destacados, #memes) y qué otras biblias proponen #hardware.
+- No encontré: frases del doblaje latino, encuestas, gustos de los personajes, fandubs en YouTube o TikTok. Queda para una segunda pasada de voz.

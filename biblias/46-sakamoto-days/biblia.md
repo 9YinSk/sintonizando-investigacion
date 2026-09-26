@@ -1628,3 +1628,158 @@ Nada de esposas ni golpes.
   juego**: sin ver.
 
 ---
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias o con una sola fuente · ❌ no hecho. Nada se omite.
+
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | 144 imágenes numeradas en 3 hojas: hojas de modelo, portadas de Jump y tomos, Blu-ray, teaser, fichas, ilustraciones con pose (§3). El arte exclusivo del juego no se pudo ver |
+| 2 | Fotogramas icónicos en 1080p, con minuto | ⚠️ | 17 escenas con minuto (§2), pero el techo fue **720p** y no se vio ningún episodio completo |
+| 3 | Fan art y 3D libre | ✅ | 7 fan arts con autor; los 3 únicos modelos de Sketchfab con licencia y crédito (§4) |
+| 4 | Fondos, sitios, luz, paleta, texturas | ✅ | 7 sitios con hex medidos; texturas CC0 (§5). Tres texturas elegidas a ojo ⚠️ |
+| 5 | Tipografía por uso, con letra libre y tildes | ✅ | 9 usos, 8 letras comprobadas con tildes, ñ, ¿ y ¡ (§6). Letra del logo sin identificar |
+| 6 | Cómo hablan en pantalla | ✅ | cartela negra y amarilla, globo fino, onomatopeya a pincel, caja del juego medida (§7) |
+| 7 | Personajes y encuestas | ✅ | 2 encuestas oficiales + AniList + Danbooru: gana Nagumo; Sakamoto 8º (§9) |
+| 8 | Doblaje latino verificado y frases | ✅ | reparto principal en dos fuentes (Doblaje Wiki y ANMTV), 8 frases textuales con minuto (§10). Secundarios con una fuente ⚠️ |
+| 9 | Música y sonido | ⚠️ | OP, ED y compositor confirmados (§11); sin vídeo del ED, sin la música de las escenas emotivas, sin lista de onomatopeyas |
+| 10 | Vídeos con minuto | ⚠️ | tráileres, escena y OP mirados con minuto (§12); YouTube pidió sesión y TikTok no cargó: esos, sin abrir y sin cifras |
+| 11 | Videojuegos: interfaz y cajas | ⚠️ | un solo juego (móvil, Japón), caja de diálogo y equipo medidos (§13); sin tablero de combate; TCRF bloqueado por Cloudflare |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | memes, chistes, pelea icónica y 8 «no hacer» (§14). Varios memes sólo por TV Tropes ⚠️ |
+| 13 | Descripción profunda de personajes | ⚠️ | Sakamoto, Shin, Lu, Nagumo y secundarios, dinámicas y 11 caras con minuto (§8). **Faltan tristeza y vergüenza**; Lu, con poco material |
+| 14 | Poses analizadas | ⚠️ | 10 de Sakamoto y 9 de Shin con uso (§15); Nagumo y Lu, 3-4 y sin clip |
+| 15 | Vestuario con hex | ⚠️ | 25 hex medidos de Sakamoto, Shin, Nagumo y Osaragi (§16). **Lu Shaotang sin medir**: se midió a Lu Wutang por error (§28) |
+| 16 | Paisajes y fondos en alta | ✅ | 14 fondos con tamaño y autor (§17). No hay banco oficial |
+| 17 | Guía para IA de imagen y de texto | ✅ | la escribe el redactor (§18): rasgos, estilo, palabras, referencias, voz y frases reales por emoción. Sin frase latina alegre ni triste ⚠️ |
+| 18 | Estilo y técnica; Photoshop y Blender | ✅ | entrevistas al editor y al director; filtro de papel en sombras; pasos para Photoshop y Blender; encuadres (§19) |
+| 19 | Texturas 2D con licencia | ✅ | trama MIT, papel y tela CC0, rombos CC0 (§20). Sin pinceles libres propios de la serie ⚠️ |
+| 20 | Gustos y detalles | ✅ | 4 personajes con cumpleaños, altura, gustos y aficiones en dos fuentes (§21). Comida favorita no encontrada ⚠️ |
+| 21 | Por qué la aman; escenas que hacen llorar | ⚠️ | cifras de ventas y Netflix confirmadas (§22); las escenas de llorar son de manga, por TV Tropes, sin música ni minuto |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | canales hispanos que recortan y comentan el doblaje (§23). **Fandub real no encontrado** tras buscarlo, ni covers en español |
+| 23 | Colaboraciones, figuras, cosplay | ✅ | 6 cafés y eventos, Uniqlo, Ichiban Kuji, cosplay CC, película (§24) |
+| 24 | Obras parecidas y láminas vecinas | ✅ | 4 con biblia o sin ella, influencias del autor, qué no repetir (§25) |
+| 25 | Mundo, arcos y símbolos | ✅ | 5 reglas, 10 arcos, emblemas y vocabulario (§26) |
+| Conceptos | 3 conceptos de lámina | ✅ | A kairanban (#noticias-anime), B rodaje (#castings), C fichaje (#presentaciones) (§27) |
+| Fuentes | 40 webs distintas | ✅ | 49 dominios enlazados en el texto |
+| Minutos | 15 minutos citados | ✅ | más de 40 minutos distintos (§2, §8, §10, §12, §15) |
+| Colores | 10 hex medidos | ✅ | más de 50 (§5, §7, §16) |
+| Oficiales | web, redes, staff | ✅ | sakamotodays.jp, Netflix, @SAKAMOTODAYS_PR, entrevistas al editor (MangaPlus) y al director (AWN, ScreenRant), CyberAgent |
+| Otros idiomas | japonés, inglés, coreano o chino | ⚠️ | japonés e inglés sí; coreano y chino no (obra japonesa) |
+| Wikis | Fandom, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés y Doblaje Wiki), TV Tropes sí; TCRF bloqueado; Wayback no hizo falta |
+| Foros | Reddit y comunidades | ✅ | r/SakamotoDays (hilos con votos) |
+| Arte | Pixiv, X, DeviantArt… | ✅ | Safebooru con origen en Pixiv y X; Danbooru |
+| Vídeo | YouTube, TikTok con minuto | ⚠️ | Dailymotion e Internet Archive con minuto; YouTube y TikTok sin abrir |
+| Código y recursos | GitHub, Sketchfab, texturas | ✅ | svg-halftone, google/fonts, Sketchfab, ambientCG, freesvg |
+| Doblaje latino | Doblaje Wiki por API, ANMTV | ✅ | los dos |
+| Hojas | 3 JPEG de menos de 3 MB | ✅ | `hojas/personajes_01.jpg` a `_03.jpg`, 1,1 a 1,2 MB |
+| referencias.json | 20 o más, las mejores primero | ✅ | 122 tras quitar 43 ajenas |
+
+## 29 · Bitácora de búsqueda
+
+### Bitácora de imagen
+
+- `herramientas/investigar_serie.py --paginas "Taro Sakamoto" "Shin Asakura" "Lu Wutang" "Yoichi Nagumo" "Osaragi"` (wiki sakamoto-days.fandom.com, inglés): 162 imágenes enlazadas, 149 grandes, 4 hojas de contacto generadas; se eligieron las hojas 1-3 (personajes, portadas WSJ, tomos, arte de acción) para `hojas/`, se descartó la 4 (5 portadas repetidas y pequeñas)
+- `herramientas/estilo.py --colores 10` sobre 7 imágenes oficiales de hoja de modelo (Sakamoto ×2, Shin ×2, Lu, Osaragi, Nagumo), descargadas con `curl` (cabecera `Referer: https://www.fandom.com/`) y miradas con Read para asignar cada hex a su prenda a mano
+- API de Sketchfab v3 (`search?type=models&q=...&downloadable=true`) con 5 consultas distintas: sólo 3 modelos 3D de la serie existen, con su licencia y autor confirmados
+- API de Fandom (`api.php`, `list=categorymembers` y `list=search&srwhat=text`) para la lista de localizaciones y para comprobar que «The Order» no tiene emblema
+- API de ambientCG v2 (`full_json`) para texturas CC0: Paper001/004 (papel) y Fabric030/036 (tela lisa)
+- WebSearch (inglés) ×6: fondos de pantalla 4K, pinceles de screentone libres, repositorios GitHub de halftone con licencia, patrones CC0 (freesvg.org), colaboraciones/cafés (collabo-cafe.com, essential-japan.com, sweets-paradise.jp), figuras Ichiban Kuji, ropa Uniqlo UT, crossovers con juegos
+- `curl` directo a `collabo-cafe.com/events/category/sakamoto-days/` y a `freesvg.org`, `4kwallpapers.com`/`wall.alphacoders.com` para confirmar tamaños de imagen reales
+- Datos ya reunidos por `recolectar.py` (AniList, Fandom, Danbooru, Safebooru, Wallhaven, Sketchfab, Openverse) comprobados y ampliados, no repetidos: ver `datos-imagen.md`
+
+### Bitácora de video
+
+- AnimeThemes API (`api.animethemes.moe`): 522, dos veces (recolectar.py y yo)
+  → descartada.
+- Internet Archive: `advancedsearch.php` para OP1, Part2-OP1, «sakamoto days
+  ED», «sakamoto days ending» (inglés) → 2 vídeos de OP útiles, 0 de ED.
+- Dailymotion API (`api.dailymotion.com/videos?search=`): 14 búsquedas en
+  inglés/francés («Sakamoto Days opening/ending/trailer/fight scene/best
+  scenes/Lu Wutang/Shin ability/Futsu Conton Candy/普通 SAKAMOTO DAYS»…) →
+  encontrados 1 opening completo, 2 tráileres oficiales y 1 escena real de
+  ep.1; el resto eran repeticiones del mismo tráiler o vídeos ajenos a la
+  serie (descartados tras comprobar el contenido con `fotogramas.py`, p. ej.
+  «Sakamoto day best fight scene» de Gauravnews no es esta obra).
+- Fandom `sakamoto-days.fandom.com/api.php`: búsqueda de texto «opening theme»
+  y «ending theme» (inglés) → páginas Hashire Sakamoto, Futsū, Somebody help
+  us, Method; wikitext de las 4 con `action=parse`; página «Episode 1» para
+  confirmar la escena.
+- AniList GraphQL (`graphql.anilist.co`): formato, episodios, duración.
+- Wikipedia (`en.wikipedia.org/w/api.php`): extracto de «Sakamoto Days» para
+  compositor, estudio, dirección y fechas de emisión (segunda fuente de la
+  música y la ficha técnica).
+- MusicBrainz (de `datos-video.md`): filtrado a mano; sólo 4 de 14 resultados
+  eran de esta serie (el resto, ruido por el título genérico «Days»).
+- `navegar.py` sobre `tiktok.com/discover/shin-sonic-sway-sakamoto-days` →
+  200 pero 0 caracteres (JS), no reintentado (regla de 2 intentos).
+- Buscador web (2 búsquedas, inglés): «Sakamoto Days TikTok trend viral clip
+  2025», «Sakamoto Days anime analysis video YouTube minute».
+- `fotogramas.py`: opening (archive.org), tráiler y tráiler parte 2 y escena
+  de ep.1 (Dailymotion), cada uno con hoja de contacto mirada con `Read`.
+- `ffmpeg` + Pillow (`quantize`) sobre los mismos `video.mp4` ya descargados,
+  para los hex de 6 sitios/escenas.
+- `yt-dlp -F` sobre el ítem de archive.org del OP1, para confirmar que 720p es
+  el techo real (no hay pista de 1080p).
+- `navegar.py` sobre TV Tropes (`Anime/SakamotoDays`, inglés): confirma «golden
+  rule of not taking a single life» y la «Hitman Association»; no encontré ahí
+  ninguna entrada sobre onomatopeyas o efectos de sonido reconocidos (puede
+  seguir más abajo de lo que cargó la herramienta; no insistí más de una vez).
+
+### Bitácora de voz
+
+- Doblaje Wiki, API `action=parse&prop=wikitext`, páginas: «Sakamoto Days», «Óscar López»,
+  «Geezuz González», «Irene Ponce», «Angélica Villa», «Bruno Coronel», «Stephanie Filigrana»,
+  «Emmanuel Alejandro», «Armando Guerrero», «Héctor Estrada (México)», búsqueda `list=search`
+  para resolver nombres con tilde. Español.
+- `sakamoto-days.fandom.com` (wiki oficial en inglés), API `action=parse&prop=wikitext`,
+  páginas: «Popularity Polls», «Taro Sakamoto», «Shin Asakura», «Lu Shaotang», «Yoichi
+  Nagumo». Inglés.
+- `navegar.py` sobre TV Tropes: YMMV, Funny y Heartwarming de «SakamotoDays» (TearJerker no
+  existe como página propia, da 404 con lista de alternativas). Inglés.
+- `navegar.py` sobre Behind The Voice Actors (reparto en inglés, no latino — no usado en la
+  tabla del punto 8) e intento sobre okamisamatv.com (sin datos de Nagumo). Inglés/español.
+- WebSearch (13 búsquedas): doblaje ANMTV, encuestas de popularidad en Japón, reparto de
+  secundarios, sales/streaming de Netflix, fandubs y memes hispanos, entrevista de Óscar López.
+  Español e inglés.
+- Dailymotion API `api.dailymotion.com/videos?search=`: tráilers oficiales en español latino y
+  portugués (para fotogramas). `voz.py` transcribió el tráiler oficial en español (x9a858e,
+  108 s) y uno que resultó ser en portugués (x9c2low, descartado para citas de texto pero
+  usado para fotogramas visuales). `fotogramas.py --cortes` sobre ambos, 68 + 84 fotogramas
+  vistos con Read.
+- YouTube: sólo `oembed` (título/canal, sin necesitar sesión) para confirmar canales de
+  reacción al doblaje y entrevistas; no se abrieron los vídeos en sí (bloqueado en esta
+  máquina, según el aviso de arranque).
+- ComicBook.com y AnimeCorner/GameRant/ScreenRant/CBR (vía WebSearch) para cifras de ventas y
+  streaming; Anime News Network bloqueó con captcha incluso con `navegar.py`.
+
+### Bitácora de texto
+
+- Wiki de Fandom `sakamoto-days.fandom.com` por su `api.php` (búsqueda de texto y wikitext completo):
+  Order, Japanese Association of Assassins, X's Organization, Japan Clear Creation, Story Arcs, Sakamoto's
+  Store, logo del sitio · sin bloqueo
+- `WebSearch` en inglés: «Sakamoto Days logo font», «Sakamoto Days font dafont», «Yuto Suzuki interview
+  drawing process Clip Studio Paint», «Sakamoto Days anime animation style interview director», «Sakamoto
+  Days video game mobile app Goodroid», «Yuto Suzuki interview influences Domu Otomo»
+- `WebSearch` en japonés: «サカモトデイズ 鈴木祐斗 インタビュー 作画 画材», «サカモトデイズ 実写映画 目黒蓮
+  福田雄一 2026年4月29日»
+- `navegar.py` (funciona en esta máquina): TV Tropes (`Manga/SakamotoDays`, 200 OK), Animation Magazine
+  (403/error de navegación, descartado), AWN (200 OK), `tcrf.net` (403, Cloudflare, dos intentos),
+  Google Play (200 OK, con `--captura` para ver capturas del juego)
+- `curl` directo: `mangaplus.shueisha.co.jp` (entrevista completa), `mediadogs.jp` (perfil en japonés),
+  `animationmagazine.net` (403 CloudFront, no se insistió), `tcrf.net` (403 Cloudflare)
+- fontTools (`getBestCmap()`) sobre 8 fuentes de Google Fonts/Fontsource bajadas con `curl` (subset
+  `latin`, que es el que trae á/é/í/ó/ú/ñ/¿/¡, no `latin-ext`): Anton, Bangers, Archivo Black, Caveat,
+  Press Start 2P, IBM Plex Mono, Titan One, Patrick Hand — las 8 con todos los caracteres
+- Pillow: medidos los hex de la caja de diálogo y la pantalla de equipo del videojuego móvil
+  (`playshots/*.jpg`, capturas propias de Google Play)
+- Imágenes miradas con Read: `ch1_small.jpg`, `ch2_small.jpg`, `ch43_small.jpg`, `vol9_small.jpg`,
+  `sitelogo_conv.png`, `playstore.png`, `playshots/sheet1.jpg` (todas en mi carpeta de trabajo temporal)
+
+### Bitácora del redactor
+
+- Corrí `juntar_referencias.py` (165 referencias) y quité 43 ajenas a la serie con un filtro por nombre de personaje y autor; quedan 122.
+- Miré las tres hojas de `hojas/` y amplié a mano 16 casillas: de ahí salen el *kairanban* (hoja 2 nº65, hoja 1 nº46), el rodaje (hoja 2 nº58), la fila de fichaje (hoja 2 nº81), la puerta de la tienda (hoja 1 nº15) y la corrección de Lu Wutang (hoja 2 nº50).
+- Para el canal, miré `servidor/inventario.md` y `grep '^canal:' biblias/*/biblia.md`; descarté 10 canales (§0.2).
+- Lo confirmado lleva ✅ (dos fuentes o visto); lo dudoso, ⚠️. No añadí ninguna fuente nueva: todo sale de las partes y de `referencias.json`.
+- Lo que falta está en §28.2 y en la tabla de cumplimiento.

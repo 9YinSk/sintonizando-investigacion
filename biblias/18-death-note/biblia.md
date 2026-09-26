@@ -3,17 +3,33 @@ tags: [biblia, serie, laminas]
 serie: "Death Note"
 canal: "#textos"
 fecha: 2026-09-24
+repaso: 2026-09-26
 ---
 
 # Biblia · Death Note — para #textos
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Fandom (y Doblaje Wiki),
+> - **Segunda pasada, 26-sep-2026, con la red abierta.** Un equipo de
+>   cuatro investigadores (imagen, vídeo, voz, texto) y un redactor. Se
+>   pudo usar: la wiki de Fandom por su API (`investigar_serie.py`, 1181
+>   imágenes, **3 hojas en `hojas/`**), Doblaje Wiki y The Dubbing
+>   Database por su API, **Internet Archive** (los 37 episodios, mirados
+>   fotograma a fotograma con `fotogramas.py`), Dailymotion (opening,
+>   ending y tráiler), la API de Sketchfab (licencias exactas), Wallhaven,
+>   Zerochan, ambientCG, AniList, Wikipedia, TV Tropes y Reddit por Arctic
+>   Shift. Sigue cerrado: **YouTube para bajar vídeo** («Sign in to confirm
+>   you're not a bot»); sí se leen sus páginas de resultados con vistas.
+>   Lo que cambió va justo debajo, en «Segunda pasada · qué cambió».
+> - **Primera pasada, 24-sep-2026.** La red de esa sesión estaba cerrada. Fandom (y Doblaje Wiki),
 >   Wikipedia, YouTube, Reddit, Arctic Shift, Wayback Machine,
 >   fonts.google.com y TV Tropes dan **403** (comprobado por la sesión
 >   principal; yo además choqué con Madhouse, Nlab, Sketchfab y otros). Por eso **no se pudo correr**
->   `herramientas/investigar_serie.py`: **no hay hojas de contacto** ni
->   carpeta `hojas/`.
+>   `herramientas/investigar_serie.py`: entonces **no hubo hojas de
+>   contacto** (ahora sí, ver «Las hojas de contacto», tras §3).
+> - **Segunda pasada**: lo que ya **se vio** en un fotograma lleva ✅ y,
+>   cuando lo hay, un enlace al segundo exacto en Internet Archive (`?t=`
+>   en segundos). Ese minuto es el **del archivo de Internet Archive**, que
+>   puede ir unos segundos desfasado del de Netflix; se dice en cada caso.
 > - Mi fuente principal fue la **búsqueda web** (la lista está al final, en
 >   la bitácora).
 > - GitHub sí respondía. De ahí saqué lo más útil: **los subtítulos de los
@@ -32,6 +48,12 @@ fecha: 2026-09-24
 > - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto.
 >   ⚠️ **dudoso**: una sola fuente, o lo describo de memoria. Lo de
 >   memoria siempre va marcado.
+
+---
+
+## Segunda pasada · qué cambió
+
+(en curso: se completa al terminar de editar)
 
 ---
 
@@ -107,9 +129,9 @@ cuaderno (ver §19):
 | Por qué Death Note encaja | **Todo gira alrededor de un cuaderno con instrucciones escritas.** En el ep. 1 Light lo abre y lee «使い方» («How to use it», cómo se usa) y cinco reglas (ep. 1, 00:04:32 a 00:05:30) ✅. Un foro de guiones con su ficha es lo mismo: **un texto escrito con reglas para usarlo**. Y **L habla por una voz que lee un guion ajeno**: en el ep. 2 un preso, Lind L. Tailor, lee en la tele el texto de L (00:15:02) ✅. |
 | Cuadro de diálogo propio | No hay globo propio. En pantalla, el texto sale en: **la página «HOW TO USE IT»** del cuaderno (inglés, numeración romana), **la pantalla blanca con la «L» gótica** cuando L habla con voz sintética (ep. 2, 00:17:36) ✅, **la pausa (eyecatch)** que enseña una regla por episodio ✅, y **los nombres escritos a mano** en las hojas del cuaderno. |
 | Objeto para la lámina | **El cuaderno negro abierto sobre el escritorio de Light** (el del plan, mejorado): en la página izquierda «CÓMO SE USA» con las reglas del canal; en la derecha, la ficha escrita a mano. Al lado: **la manzana roja mordida**, la bolsa de papas y el cajón con doble fondo (ep. 2, 00:10:32) ✅. Todo se puede hacer en Blender. |
-| El más querido | **L**, no Light. No hubo encuesta oficial de la Jump ⚠️ (Yahoo! Chiebukuro), pero en la de **Nlab (2021)** L sale **1.º con 397 votos (35,2 %)** y Light **2.º con 272 (24,1 %)** ⚠️ (las cifras, de una fuente). Que **L va primero** lo dicen también Yahoo! 知恵袋 («ネットならLが1位»), Ranker y Namuwiki ✅. **Ryuk** es la imagen más reconocible de la serie ⚠️. |
+| El más querido | **L**, no Light. No hubo encuesta oficial de la Jump ⚠️ (Yahoo! Chiebukuro), pero en la de **Nlab (2021)** L sale **1.º con 397 votos (35,2 %)** y Light **2.º con 272 (24,1 %)** ⚠️ (las cifras, de una fuente). Que **L va primero** lo dicen también Yahoo! 知恵袋 («ネットならLが1位»), Ranker y Namuwiki ✅. Lo confirma una fuente nueva, los favoritos de [AniList](https://anilist.co/anime/1535): **L 26 512**, Light 20 343, Ryuk 7 079, Misa 7 010 ✅. **Ryuk** es la imagen más reconocible de la serie (casi el triple de favoritos que Mello) ✅. Secundario de culto: **Matsuda** (§9). |
 | Letras | **UnifrakturMaguntia** para la «L» y el rótulo gótico; **IM Fell English** o **Special Elite** para las reglas; **Kalam** o **Nothing You Could Do** para la letra a mano; **Nosifer** sólo para una gota de sangre, nunca para el texto. Todas traen tildes, ñ, ¿ y ¡: comprobado en el archivo. |
-| Voz latina | Light **Manuel Campuzano** ✅, L **Hugo Núñez** ✅, Ryuk **Rolando de Castro** (también director) ✅, Misa **Rebeca Gómez** ✅, Near **Bruno Coronel** ✅, Mello **Javier Olguín** ✅. Ver §10. |
+| Voz latina | Light **Manuel Campuzano** ✅, L **Hugo Núñez** ✅, Ryuk **Rolando de Castro** (también director) ✅, Misa **Rebeca Gómez** ✅, Near **Bruno Coronel** ✅, Mello **Javier Olguín** ✅; y ahora también Rem **Erica Edwards**, Watari **Carlos del Campo**, Matsuda **Alfredo Leal**, Mikami **Arturo Mercado Jr.** y Sōichirō **José Lavat** ✅. Ver §10. |
 | Tono | Negro, gris azulado y **rojo** (manzanas, ojos de shinigami, sangre del final). Sangriento, como pidió el servidor: **la sangre tiene base en la serie**: en el último episodio Light, herido, **intenta escribir un nombre con su sangre** (ep. 37, 00:14:28, «血で!», «¡con sangre!») ✅. |
 | Juegos de la franquicia | **Kira Game** (DS, Konami, 2007) y su secuela **L o Tsugu Mono** (DS; el año, 2008, ⚠️) ✅; **Death Note: Killer Within** (PS4, PS5 y PC, Bandai Namco y Grounding, 2024) ✅. |
 
@@ -120,8 +142,11 @@ cuaderno (ver §19):
 Todas salen de los subtítulos de
 [kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/DEATH%20NOTE):
 el texto y el minuto están comprobados ✅ (minuto del archivo japonés de
-Netflix). Lo que **se ve** en cada una (postura, luz) lo describo de
-memoria ⚠️: mira el fotograma antes de usarlo.
+Netflix). Lo que **se ve** en cada una (postura, luz) lo describí en la
+primera pasada de memoria. **En la segunda pasada se miraron los
+fotogramas de verdad** (Internet Archive, 1280×720): el resultado está
+en §2.11, con dos correcciones (el 00:04:32 del ep. 1 y la sonrisa del
+ep. 25).
 
 ### 2.1 «Cómo se usa»: el cuaderno trae sus instrucciones (ep. 1)
 

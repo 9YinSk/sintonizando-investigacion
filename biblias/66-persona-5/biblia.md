@@ -212,3 +212,93 @@ Paletas medidas con `estilo.py` sobre nuestros fotogramas de 1280×720, no de fa
 - Alfombra roja del Velvet Room o del Palacio: [Carpet016](https://ambientcg.com/view?id=Carpet016).
 - Papel de la calling card: [Paper006](https://ambientcg.com/view?id=Paper006).
 
+## 5 · Tipografía
+
+**Las letras reales del juego**
+- Texto del juego en japonés: **スランプ (Slump)**, de Fontworks. Lo dice la ficha del propio fabricante ([fontworks.co.jp](https://fontworks.co.jp/case/3471/)). ✅
+- *Persona 5 Tactica*: Raglan Punch, Kafu Techno, UD Marugo Large, Yurka y Rodin ([Fontworks](https://fontworks.co.jp/case/15692/)). ✅
+- Menús de *Royal* en japonés: Rodin. ⚠️ Un solo hilo de fans.
+- Diálogo en la versión inglesa: **Charisma**, de AsiaFont, con el apóstrofo y las comillas retocados ([WhatFontIs](https://www.whatfontis.com/post-38011.html)). ⚠️ Dos usuarios, sin confirmación de Atlus.
+- La interfaz inglesa **no** usa Slump: existe un mod que la cambia a Slump ([GameBanana](https://gamebanana.com/mods/613348)). ✅
+- Logo «PERSONA 5»: Futura Std Bold inclinada unos 33°, y el «5» en Manufacturer JNL Oblique ([hilo de dafont](https://www.dafont.com/forum/read/291180/what-font-is-this-persona-5-logo-font)). ⚠️ Ninguna es libre.
+- *P5 Hatty*: letra de fans que imita el grafiti del juego. Gratis sólo para uso personal. ⚠️
+
+**Una letra libre por uso** (tildes, ñ, ¿ y ¡ comprobadas con fontTools)
+| Uso | Letra libre | De dónde | á ñ ¿ ¡ |
+|---|---|---|---|
+| Logo o título | **Jost**: geométrica, el espíritu de la Futura del logo | Google Fonts | ✅ |
+| Globo normal del manga | **Anime Ace 2.0 BB** | Blambot, gratis uso personal | ⚠️ no se pudo bajar para comprobarla |
+| Grito | **Bangers** | Google Fonts | ✅ |
+| Pensamiento | **Caveat**: trazo a mano, tono íntimo | Google Fonts | ✅ |
+| Onomatopeya | **Anton**: muy negra, de impacto | Google Fonts | ✅ |
+| Cartel del mundo, calling card, nombre en nota de rescate | **Earwig Factory**: letras sueltas sobre fichas torcidas | Typodermic en [dafont](https://www.dafont.com/earwig-factory.font), gratis | ✅ |
+| Interfaz de juego | **Oswald**: condensada y negra, como Rodin y Slump | Google Fonts | ✅ |
+| Texto del cuadro de diálogo, subtítulos y créditos | **Archivo**: grotesca limpia, se lee pequeña | Google Fonts | ✅ |
+
+- Para el **texto dentro del cuadro de diálogo** del juego proponemos **Archivo en negrita**, blanca. Es elección nuestra, lo más cercano a Charisma entre las libres. ⚠️
+- Para los **nombres**: Oswald en cursiva, negra sobre la tira blanca, y **una sola letra** en Earwig Factory, blanca sobre su recuadro negro (§6).
+
+## 6 · Cómo hablan en pantalla: cuadros de diálogo
+
+Lo más importante de esta biblia. **Persona 5 nunca usa una burbuja blanca redonda.**
+
+**La caja de diálogo de la historia** (mirada por el redactor en la [captura oficial de Steam de *Royal*](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_663171dc3afce8fe987e57e8659f91b69faa39bc.1920x1080.jpg), 1920×1080) ✅
+- **Cuadrilátero negro torcido**: ningún lado recto ni paralelo.
+- **Borde blanco grueso** alrededor.
+- **Cola en zigzag**, blanca y negra, que sale hacia el retrato de quien habla.
+- **Texto blanco**, en negrita, alineado a la izquierda, tres líneas como mucho.
+- **El nombre** va en una **tira blanca inclinada** que monta sobre la esquina superior de la caja. Letras negras en cursiva.
+- **Una letra del nombre va invertida**, blanca en su propio recuadro negro, como nota de rescate: «M**a**ruki». Sólo una o dos, nunca todas.
+- **El retrato** del que habla asoma recortado abajo a la izquierda, por delante de la caja, cortado por el borde de la pantalla.
+- Abajo a la derecha, tres botones: «FFWD», «Auto» y «Log».
+- ⚠️ **Corrección.** La parte de texto decía «caja blanca con borde negro y texto negro». En la captura se ve lo contrario: caja negra, borde blanco, texto blanco. Coincide con la guía de cuadros de diálogo de la biblioteca (§34.1). Manda la captura.
+
+**El calendario** (arriba a la izquierda, siempre en pantalla) ✅
+- La fecha en números grandes blancos con contorno negro, torcidos: «5/16».
+- El día de la semana en una tira blanca inclinada, letras negras: «MONDAY».
+- Debajo, el momento del día en otra tira: «Morning», «Evening»…
+- Un sol o una luna dibujados al lado. En Shinjuku se vio «9/1 Thursday Evening» ([0:45](https://www.dailymotion.com/video/x89juaf?t=45)).
+
+**Otros formatos del juego**
+- **Morgana explorando:** globo blanco irregular con contorno negro y su retrato en la esquina. ✅ Guía §34.1.
+- **Chats del móvil:** móvil rojo `#C30F00` sujeto por una mano en silueta. Cada mensaje en una tira negra con texto blanco y cola en zigzag. Retrato en recuadro naranja `#F78B0E`. ✅ Guía §34.1.
+- **Avisos de Morgana en combate:** texto corto sobreimpreso, como «Take 'em down, Joker!» ([0:40](https://www.dailymotion.com/video/x8afeg6?t=40)). ⚠️
+- **Página de rango de Confidente:** página de cómic con **trama de puntos**, borde floral y titular en letras recortadas. La de Ann dice «Beauty is Devotion» ([captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_63d2164bf39a43905e9602381f43a9ad4ab46dea.1920x1080.jpg)). ✅
+- **Final del All-Out Attack:** cartela de cómic de cada personaje con su grito, como «OMG! We are so awesome» de Ann (nº81) o «BRING IT» de Ryuji ([0:21](https://www.dailymotion.com/video/x4mxiax?t=21)). ✅
+- **La calling card:** fondo negro y rojo en espiral, letras recortadas en fichas sueltas, alguna invertida ([imagen](https://static.wikia.nocookie.net/megamitensei/images/4/49/Phantom_Thief_Calling_Card.PNG); [generador de fans](https://skyventuree.github.io/p5cc/)). ✅
+
+**Fuera del juego**
+- **Manga:** globo ovalado negro para hablar y nube de circulitos para pensar. ⚠️ No vimos páginas interiores.
+- **Anime:** los subtítulos son los normales de cada plataforma, blancos con borde. No hay estilo propio. ⚠️
+- **Qué NO hacer:** caja recta, caja de otro color que no sea negro, blanco o rojo, todas las letras del nombre recortadas, burbuja redonda.
+
+## 7 · Personajes y encuestas de popularidad
+
+**Los Ladrones Fantasma** (nombre en clave entre paréntesis del juego): Joker, Skull (Ryuji), Panther (Ann), Mona (Morgana), Fox (Yusuke), Queen (Makoto), Oracle (Futaba), Noir (Haru), Crow (Akechi) y Violet (Kasumi, sólo *Royal*).
+
+**Encuesta oficial 2021**, 5.º aniversario, PlayStation Japón, 48 139 votos ([Famitsu](https://www.famitsu.com/news/202109/17234166.html) · [tuit oficial](https://x.com/PlayStation_jp/status/1438744531197829124)) ✅
+| Puesto | Personaje | Votos |
+|---|---|---|
+| 1 | Joker | 9824 |
+| 2 | Makoto Niijima | 7606 |
+| 3 | Goro Akechi | 7088 |
+| 4 | Futaba Sakura | 6444 |
+| 5 | Yusuke Kitagawa | 5078 |
+| 6 | Morgana | 4002 |
+| 7 | Haru Okumura | 3413 |
+| 8 | Ann Takamaki | 2708 |
+| 9 | Ryuji Sakamoto | 1976 |
+
+**Encuesta oficial 2023** de *Royal*, Atlus/SEGA, 10 personajes ([My Nintendo News](https://mynintendonews.com/2023/01/03/atlus-sega-reveal-results-for-the-persona-5-royal-character-popularity-poll/) · [Nintendo Life](https://www.nintendolife.com/news/2023/01/atlus-reveals-most-popular-persona-5-royal-character-in-official-poll)) ✅
+1. Joker · 2. Makoto · 3. Kasumi Yoshizawa · 4. Futaba · 5. Akechi · 6. Ann · 7. Yusuke · 8. Morgana · 9. Ryuji · 10. Haru.
+
+**Fans de fuera**
+- Favoritos en AniList: Joker 2490, Futaba 1713, Akechi 1707, Makoto 1333, Ryuji 997 ([AniList](https://anilist.co/manga/98652)). ⚠️ Son favoritos, no votos.
+- Dibujos en Danbooru: Joker el más dibujado, luego Ann y Futaba ([Danbooru](https://danbooru.donmai.us/posts?tags=persona_5)). ⚠️
+
+**Lo que sale de aquí**
+- El protagonista sí es el más querido. Makoto es la secundaria fija en el 2.º puesto.
+- Ryuji es lo contrario del aviso del dueño: el más cercano al jugador es el menos votado. En AniList sube algo.
+- Morgana queda a media tabla, pero es el que más habla y más memes tiene (§12).
+- Ann gana en dibujos de fans, no en votos.
+

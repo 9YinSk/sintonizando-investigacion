@@ -1133,3 +1133,63 @@ al enfoque: **la franquicia fabrica sus propios rótulos cómicos**.
   tiendas (Miccostumes, EZCosplay, CosDaddy) sólo sirven para ver cortes.
 - ⚠️ Cafés y eventos en japonés («かぐや様 コラボ»): siguen sin buscar.
 
+## Punto 24 · Obras parecidas y láminas vecinas
+
+Las influencias que cita el autor (Death Note, GANTZ, Ghibli, los juegos de
+su padre) y el cuento del cortador de bambú están en la biblia 43, punto 24.
+Para la comedia:
+
+- **Shaft y *Monogatari***: la huella más clara, por el director (punto 18)
+  y la escena gemela del ep. 16 ✅. Varias reseñas llaman a su humor
+  «absurdo, al estilo Monogatari» ⚠️ (impresión repetida, sin una cita).
+- **Parodia constante**, episodio a episodio, según TV Tropes ✅: el opening
+  de la T1 homenajea a **James Bond** (*Skyfall*); ep. 10, una transición de
+  *Batman* (1966); ep. 14, un «juicio mental» con poses de ***Ace
+  Attorney***; ep. 20, *Dark Souls III*; ep. 21, *My Next Life as a
+  Villainess* y un cambio a estilo *Peanuts*; ep. 25, *JoJo*; ep. 29,
+  *Bohemian Rhapsody*; eps. 33-36, *Fate/Grand Order*, *Persona 5*, a-ha y
+  *El planeta de los simios*; el ending de la T3, *Starship Troopers*; el
+  2.º OVA, una escena al estilo de **Junji Ito**. El chiste es
+  **reconocerlas**; se evocan, no se copian.
+- **Recomendaciones de AniList** (recolector): *Horimiya*, *SPY x FAMILY*,
+  *Toradora!*, *Rikekoi*, *Nozaki-kun*, *Takagi-san*, *Tonikawa*, *Oshi no
+  Ko*, *Komi*, *Tomo-chan*, *Alya*, *Kare Kano*, *Wotakoi* ✅ (una lista de
+  votos de usuarios).
+
+**Láminas vecinas del servidor** (para no repetir ideas):
+- **Spider-Verse (21)** está en #edicion: también juega con **texto de
+  cómic en pantalla**. Una lámina de Kaguya-sama allí debe ir por el **oro 3D
+  y las fichas verticales**, no por onomatopeyas de cómic americano.
+- **JoJo (28)** está en #memes: Kaguya-sama **cita a JoJo** (el «ORA ORA»
+  de Ishigami). Si se hace B, que no use poses de JoJo.
+- **Shrek (59)** y **Hellblade (118)** proponen #📖・textos.
+- **La biblia 43** de esta obra: naipe, fanbook y tablón. Aquí: oro 3D,
+  móvil y cartulina.
+
+## Punto 25 · El mundo y sus símbolos cómicos
+
+Las reglas del mundo en cinco líneas, la historia por arcos, el zaibatsu
+Shinomiya, el Cubari Facaccimo y el vocabulario están en la biblia 43,
+punto 25. En corto: Instituto Shuchi'in (Tokio, élite), sólo se vota al
+presidente, **quien confiesa primero pierde**, cada episodio se parte en
+batallas con título y un narrador lo cuenta como un partido. Lo nuevo:
+
+- **El título es un chiste gramatical** ⚠️: 告らせたい usa 告る («declararse»,
+  jerga juvenil) en **causativo**: no «Kaguya quiere confesarse», sino
+  «Kaguya quiere **hacer que él** se confiese». Coinciden las fichas
+  consultadas, sin una fuente única.
+- **El spin-off copia el patrón**: «かぐや様を語りたい» («queremos hablar de
+  Kaguya-sama») ✅ (wiki).
+- **Estructura de un episodio, vista en el ep. 2** ✅: tres batallas con
+  título, cada una con su resultado: «Kaguya Wants to Trade» (empate),
+  «Chika Wants to Go Somewhere» (arruinada) y «Miyuki Wants to Hide His
+  Ignorance» (pierde Shirogane), con marcador corto (15:12) y largo (22:24).
+- **Objetos-gag que un fan reconoce**: el **cartel de cartulina «Fooled
+  You»**, el cartel **«Biotic Hazard»** de la casa del terror (ep. 35,
+  parodia de *Resident Evil*), la **cinta «おに»** de Chika, el **móvil
+  plegable** de Kaguya (su batalla del contacto, ep. 2) y la **cadena
+  dorada** del presidente bajo su título de oro.
+- **Vocabulario cómico**: «備考» («nota»), «本日の勝敗» («resultado de hoy»),
+  «一人負け» («pierde él solo»), «ワナワナ», «ハッ», «Ishigod», «IQ de 3»,
+  «お可愛いこと».
+

@@ -126,9 +126,12 @@ actor de la **voz original en inglés**.
   huecos sueltos (miedo/tristeza/vergüenza de Viktor, alegría/rabia de
   Caitlyn y Ekko, tristeza/miedo/vergüenza de Silco) que no son obligatorios
   para esta tanda — no se pidieron explícitamente en el «Sigue» anterior.
-- De **Vi** y **Jinx** conseguí la vergüenza de Jinx-niña (arriba). Sigue
-  faltando: alegría de Vi, vergüenza de Vi y alegría de Jinx (adulta) — ver
-  fila de arriba y Bitácora.
+- De **Vi** y **Jinx** conseguí la vergüenza de Jinx-niña (arriba) y, en esta
+  tanda, **alegría y vergüenza de Vi adulta** (1×08, min 14:16 y 13:40: la
+  misma escena en la mansión Kiramman, antes y después de pasar la noche con
+  Caitlyn). Sigue faltando sólo **alegría de Jinx adulta** — la escena ya
+  está identificada (§18 de `biblia.md`, montaje «Jinxers» de 2×04 «Paint the
+  Town Blue»), falta el fotograma propio con minuto (ver Bitácora).
 - Los vídeos usados (1×01, 1×02, 1×03, 1×04, 1×07, 1×08, 1×09, 1080p) están
   en `/tmp/claude-0/trabajo/17-arcane-voz/e0N.mp4`: el siguiente que los
   necesite no tiene que volver a bajarlos. El de 1×03 también sigue en
