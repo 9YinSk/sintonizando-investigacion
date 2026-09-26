@@ -8,11 +8,17 @@ fecha: 2026-09-24
 # Biblia · Bob Esponja — para #ofertas-y-gratis
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada: **Fandom, Doblaje Wiki,
->   YouTube, Sketchfab, Steam, Game UI Database** y las webs de letras
->   daban 403. Por eso **no se pudo correr** `herramientas/investigar_serie.py`:
->   **no hay hojas de contacto** ni carpeta `hojas/`.
-> - Hice **48 búsquedas web** en español e inglés (lista en §21).
+> - **Segunda pasada (26-sep-2026), con la red abierta**: la hizo un equipo
+>   de 4 investigadores (imagen, vídeo, voz, texto) y un redactor. Ya se
+>   pudo usar la API de Fandom, Doblaje Wiki, Sketchfab, Wallhaven,
+>   ambientCG, Dailymotion, Arctic Shift (Reddit), Wikipedia y Wayback
+>   Machine. Hay **3 hojas de contacto** en `hojas/` (§3.6). Se miraron **7
+>   vídeos enteros** (299 fotogramas) en Dailymotion, porque **YouTube dio
+>   429** al primer intento. Lo nuevo está en «Segunda pasada · qué cambió».
+> - **Primera pasada (24-sep-2026)**: la red estaba cerrada. **Fandom,
+>   Doblaje Wiki, YouTube, Sketchfab, Steam, Game UI Database** y las webs de
+>   letras daban 403. No se pudo correr `herramientas/investigar_serie.py`.
+> - Hice **48 búsquedas web** en español e inglés (lista en §30).
 > - Lo más útil salió de **GitHub**: los **subtítulos con tiempos** de 9
 >   temporadas ([1440kHz/sbsp-chs-eng-sub](https://github.com/1440kHz/sbsp-chs-eng-sub)).
 >   Con ellos doy el **minuto de cada escena** de Don Cangrejo y la caja.
@@ -26,6 +32,14 @@ fecha: 2026-09-24
 >   Puede moverse uno o dos minutos según la copia.
 > - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto,
 >   o lo vi y medí yo. ⚠️ **dudoso**: una sola fuente, o de memoria.
+> - **Dos formatos de minuto**: «03x07 00:13:15» es del archivo de
+>   subtítulos de GitHub (primera pasada); «3:55» con enlace `?t=` es del
+>   vídeo de Dailymotion mirado en la segunda pasada, contado desde el
+>   principio de **ese** vídeo (un clip, no el episodio entero).
+
+## Segunda pasada · qué cambió
+
+(pendiente)
 
 ---
 
@@ -49,7 +63,7 @@ tiene que dejar claro qué NO va aquí: noticias sin precio.
 - «**Con el precio en soles**»: el público es de Perú y de toda
   Latinoamérica. La lámina tiene que enseñar un precio escrito como se
   escribe en Perú: **S/ 12.90** (símbolo «S/» y punto decimal) ⚠️. Antes de
-  rotular, copiar el formato exacto de una captura de Steam Perú (ver §20).
+  rotular, copiar el formato exacto de una captura de Steam Perú (ver §28).
 - «**Los gratis caducan: reclámalos**»: es un aviso con prisa. En la serie
   la prisa la pone el **Narrador Francés** con sus tarjetas de tiempo
   («Unos momentos después…», «Dos horas después…»).
@@ -67,7 +81,7 @@ Una idea cada uno, sin «·», «—» ni paréntesis:
 | 5 | **Los gratis caducan** | aviso |
 | 6 | **Reclámalos** | acción |
 | 7 | **Las noticias van en noticias-gaming** | qué no va aquí (sale del inventario) |
-| 8 | Frase del personaje, en su voz (ver §7 y §19) | gancho |
+| 8 | Frase del personaje, en su voz (ver §7 y §27) | gancho |
 
 ### Lámina 2 (si hace falta): cómo se publica una oferta
 
@@ -93,9 +107,10 @@ línea por dato. **Es una propuesta mía, no un texto del servidor** ⚠️:
 | Por qué Bob Esponja encaja | En la serie **el dinero tiene dueño**: Don Cangrejo. Se presenta con «Hello, I'm Mr. Krabs, and I like money» (01x10 00:04:58), canta a la caja «cha-ching» (04x05 00:01:24) y **no le sale la palabra «free»** (15x11 00:01:20). Y le encanta lo gratis **si se lo dan a él**: «any fella who's giving away free stuff is a friend o' mine» (02x08 00:06:00). |
 | Objeto | **La caja registradora en su barquito** («register boat», 16x12 00:20:17), con **el menú de precios «Galley Grub»** colgado encima. Los dos se hacen en Blender. |
 | Cuadro de diálogo propio | La serie **no usa globos**. Usa **la tarjeta de tiempo del Narrador Francés** («Unos momentos después…», tela pintada y letra que baila), **el menú de precios**, **carteles** («ORDER HERE», «OPEN») y **el botón del uniforme de Calamardo** («I Really Wish I Weren't Here Right Now», 03x10 00:15:11). |
-| El más querido | No hay encuesta oficial. En Ranker: **Patricio**, luego **Calamardo**. Para este canal manda **Don Cangrejo**; **Calamardo** es el cajero y el favorito de los adultos. |
+| El más querido | No hay encuesta oficial de Nickelodeon. En Ranker (fans): **Patricio**, luego **Calamardo**. En el bracket de The Ringer (2021, 2,5 millones de votos entre todos los personajes de Nickelodeon) ganó **Bob Esponja** (§9). Para este canal manda **Don Cangrejo**; **Calamardo** es el cajero y el favorito de los adultos. |
+| La escena del canal (vista) | Don Cangrejo entra gritando **«THE MONEY IS ALWAYS RIGHT!»**, pinzas abiertas, en el *Krusty Krab Training Video*, [3:55](https://www.dailymotion.com/video/x3uvarj?t=235). La caja real es **gris antracita `#282927`** ([3:52](https://www.dailymotion.com/video/x3uhkek?t=232)). |
 | Letras | **Some Time Later** (la de las tarjetas; libre, OFL; trae tildes, ñ, ¿ y ¡). **Anton** para el menú. **Luckiest Guy** o **Titan One** para rótulos. **Chewy** para carteles a mano. Todas comprobadas. |
-| Voz latina | Estudio **Etcétera Group** (Caracas), y desde la temporada 16 **DAT** (México). Don Cangrejo: **Luis Pérez Pons** (†2023) y ahora **Olin Garcés**. Calamardo: **Renzo Jiménez** (siempre). Bob: **Luis Carreño**. Patricio: **Alfonso Soto**. Plankton: **Ángel Mujica**. Narrador: **Orlando Noguera** y luego **Juan Guzmán**. |
+| Voz latina | Estudio **Etcétera Group** (Caracas), y desde la temporada 16 **DAT** (México). Don Cangrejo: **Luis Pérez Pons** (†2023), **Carlos Vitale** en las temporadas 6-9, y ahora **Olin Garcés**. Calamardo: **Renzo Jiménez** (siempre). Bob: **Luis Carreño**. Patricio: **Alfonso Soto**. Plankton: **Ángel Mujica**. Narrador: **Orlando Noguera** y luego **Juan Guzmán**. |
 | Ejemplo de oferta de la propia serie | **Bob Esponja: Titanes de la Marea** (2025): se vende en **Steam y GOG** y ya tuvo rebajas del 40 %. |
 | Tono | Alegre, tropical, de marinero. Madera cálida, telas tiki, cielo con flores. |
 | Qué no hacer | Don Cangrejo **regalando** contento; globos blancos; nombres de España; 3D brillante. |
@@ -169,6 +184,54 @@ subtítulos en chino e inglés, **con tiempos**, de las temporadas 1, 2, 3,
   Latino en §10.
 - **Calamardo, cajero que odia su trabajo**: 02x04 00:01:43 y 03x10
   00:15:11 (arriba).
+
+### 2.4 Vistas de verdad, fotograma a fotograma (segunda pasada) ✅ visto
+
+YouTube dio 429 al primer intento. Se miraron **clips de Dailymotion**
+enteros con `fotogramas.py --cortes` (un fotograma por plano). Son
+resubidas de fans, en **baja resolución** (320×240 a 512×312, medido con
+`ffprobe`) ⚠️ resolución, no 1080p. El minuto es **del clip**, no del
+episodio.
+
+***Krusty Krab Training Video*** (corto de 5:37, [Dailymotion x3uvarj](https://www.dailymotion.com/video/x3uvarj)):
+
+| Minuto | Qué se ve | Para qué sirve |
+|---|---|---|
+| [0:29](https://www.dailymotion.com/video/x3uvarj?t=29) | El Crustáceo de día: letrero de concha «THE KRUSTY KRAB», banderas de señales, flores en el cielo turquesa. | Fondo del sitio, de día. |
+| [0:38](https://www.dailymotion.com/video/x3uvarj?t=38) | El mismo plano de noche, con luna llena. | Fondo de noche. |
+| [0:42](https://www.dailymotion.com/video/x3uvarj?t=42) | **Don Cangrejo duerme dentro del Crustáceo**, en una cama con forma de barquito. | Dato de sitio (§5). |
+| [1:20](https://www.dailymotion.com/video/x3uvarj?t=80) | Tablero **«YOUR WORK STATION»** con los ingredientes rotulados (Ketchup, Mustard, Mayo, Patties, Pickles, Misc., Onions, Tomatoes, Lettuce, Buns). | Cartel del mundo con casillas (§7). |
+| [1:40](https://www.dailymotion.com/video/x3uvarj?t=100) | **Calamardo** apoyado en la caja, leyendo, con el botón **«I REALLY WISH I WEREN'T HERE RIGHT NOW»**. | Confirma con fotograma la pose que antes estaba deducida del subtítulo. |
+| [3:52](https://www.dailymotion.com/video/x3uvarj?t=232) | **Primer plano de la caja**: gris oscura, cajón abierto y vacío, pantallita arriba, botones redondos. Don Cangrejo al lado. | El objeto del canal, de verdad. |
+| [3:55](https://www.dailymotion.com/video/x3uvarj?t=235) | **«THE MONEY IS ALWAYS RIGHT!»**: Don Cangrejo irrumpe por la puerta, pinzas muy abiertas, ojos como platos, gritando. | **La frase del canal.** |
+
+Créditos en pantalla del corto: storyboard de **Aaron Springer y C. H.
+Greenblatt**, artista de storyboard **Caleb Meurer** ✅ visto.
+
+***Born Again Krabs*** (03x16, corto de 5:49, [Dailymotion x3uhkek](https://www.dailymotion.com/video/x3uhkek)):
+
+| Minuto | Qué se ve | Para qué sirve |
+|---|---|---|
+| [0:05](https://www.dailymotion.com/video/x3uhkek?t=5) | Créditos: director de animación **Tom Yasumi**, director creativo **Derek Drymon**. | Dato de estudio (§18). |
+| [1:32](https://www.dailymotion.com/video/x3uhkek?t=92) a 2:31 | En la cama del hospital, un **fantasma verde de su propia tacañería** lo persigue y discute con él. | El «demonio del avaro», muy visual. |
+| [3:12](https://www.dailymotion.com/video/x3uhkek?t=192) | Cuelga el cartel **«LIVE FOR TODAY»** con los brazos abiertos y regala comida; a las 3:21, «COMPANY POLICY» escrito en una hamburguesa. | **Celebrar gratis.** |
+| [3:47](https://www.dailymotion.com/video/x3uhkek?t=227) | Llega la factura **«BILL — TOTAL DUE $10,000»**, primer plano en sus pinzas. | **Pánico por dinero.** Antes y después, a 35 s. |
+| [3:52](https://www.dailymotion.com/video/x3uhkek?t=232) | Don Cangrejo y Calamardo cobrando en la caja, otro ángulo. | Paleta de la caja medida aquí (§5.4). |
+| [4:53](https://www.dailymotion.com/video/x3uhkek?t=293) | Letrero nuevo **«GRAND RE-OPENING»** en la fachada. | Cartel de «reapertura», sirve de rótulo de oferta. |
+
+***Se busca ayuda*** (01x01, en latino, recorte de 7:40 dentro de un
+marco de tele falso, 512×288, [Dailymotion x51sid2](https://www.dailymotion.com/video/x51sid2)):
+
+| Minuto | Qué se ve |
+|---|---|
+| [1:13](https://www.dailymotion.com/video/x51sid2?t=73) | Bob hace ejercicio bajo un cartel **«PAIN»**. |
+| [4:30](https://www.dailymotion.com/video/x51sid2?t=270) | **La casa de Don Cangrejo es un cofre del tesoro**; Bob llama a la puerta. |
+| [6:57](https://www.dailymotion.com/video/x51sid2?t=417) | Don Cangrejo **señala el letrero «THE KRUSTY KRAB»** y se lo presenta a Bob: pose de **presentar**. |
+| [7:30](https://www.dailymotion.com/video/x51sid2?t=450) | Plano final del letrero y la fachada. |
+
+> Lo mejor de estos vídeos para el canal: el grito de 3:55, la caja de
+> 3:52 y el salto de «LIVE FOR TODAY» (3:12) a la factura de $10 000
+> (3:47). Todo **visto**, no deducido.
 
 ---
 
@@ -911,7 +974,39 @@ minutos útiles están en §2 (subtítulos de los episodios).
 
 ---
 
-## 18 · Guía para generar con IA (Firefly, Canva)
+## 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+(pendiente)
+
+## 19 · Texturas 2D
+
+(pendiente)
+
+## 20 · Gustos y detalles de cada personaje
+
+(pendiente)
+
+## 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+(pendiente)
+
+## 22 · Fan dubs y comunidad hispana
+
+(pendiente)
+
+## 23 · Colaboraciones, cruces, figuras y cosplay
+
+(pendiente)
+
+## 24 · Obras parecidas y temas relacionados
+
+(pendiente)
+
+## 25 · El mundo, la historia y sus símbolos
+
+(pendiente)
+
+## 26 · Guía para generar con IA (imagen y texto)
 
 **Sólo para fondos, texturas o bocetos. Nunca para inventar al
 personaje**: el personaje sale de un fotograma o una portada real.
@@ -950,7 +1045,7 @@ concha (§3.4).
 
 ---
 
-## 19 · Tres conceptos para la lámina de #ofertas-y-gratis
+## 27 · Tres conceptos para la lámina de #ofertas-y-gratis
 
 Los tres usan los textos de §0. Donde pongo una frase «en su voz» es
 **traducción mía** del subtítulo inglés (no encontré la latina). Recortes
@@ -1067,7 +1162,7 @@ reconoce, pero lleva más dibujo.
 
 ---
 
-## 20 · Lo que no pude verificar
+## 28 · Lo que no pude verificar
 
 - **Cómo escribe Steam Perú el precio** (¿«S/ 12.90» o «S/.12.90»?) y el
   precio de hoy de *Titanes de la Marea*: Steam no abre desde aquí ⚠️.
@@ -1091,7 +1186,11 @@ reconoce, pero lleva más dibujo.
 
 ---
 
-## 21 · Bitácora de búsqueda
+## 29 · Cumplimiento del encargo
+
+(pendiente)
+
+## 30 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
 
