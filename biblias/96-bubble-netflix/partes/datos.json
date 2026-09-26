@@ -1,0 +1,772 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264094-vsz8FFCxivzA.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Uta",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264092-iTirmZyjTf1V.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Hibiki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264095-afOF6YFmt0V5.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Makoto",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264096-4Hb0TI1JuOUo.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Shin",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264097-FD6AnzJoggkK.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kai",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264100-mYEZYtL2r5Fd.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Undertaker",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264098-pGpI0bylCM84.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Usagi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288512-MNigasxoubis.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Oosawa",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264101-zfMt748pXXDQ.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kanto Mad Lobster",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264099-LERzhB6d1sOh.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Denki Ninja",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288511-wCFuQdbu2PG3.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Isozaki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142455-5cBnV4rz5ISf.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142455-HCT4izfAzmcw.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/bubble-movie/images/2/25/Chara_01.png",
+  "fuente": "Fandom bubble",
+  "ancho": 378,
+  "alto": 1172,
+  "que_es": "Hibiki: Chara 01.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/bubble-movie/images/8/85/466808.jpg",
+  "fuente": "Fandom bubble",
+  "ancho": 225,
+  "alto": 350,
+  "que_es": "Hibiki: 466808.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/bubble-movie/images/b/b1/Uta.png",
+  "fuente": "Fandom bubble",
+  "ancho": 374,
+  "alto": 1080,
+  "que_es": "Uta: Uta.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/bubble-movie/images/e/ef/02-bubble-sub1-1651146729.webp",
+  "fuente": "Fandom bubble",
+  "ancho": 480,
+  "alto": 320,
+  "que_es": "Uta: 02-bubble-sub1-1651146729.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4360/89d8d437cd797a1a1739ffb24bab1a24a07f8cf3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 860,
+  "alto": 1214,
+  "que_es": "Fan art de kaneda_shoutarou_(akira) (https://i.pximg.net/img-original/img/2023/06/16/20/16/02/109064339_p23.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/513/6fd39166bf739a73b439ec8043ead9106c12068c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1514,
+  "alto": 2048,
+  "que_es": "Fan art de kaneda_shoutarou_(akira) (https://twitter.com/Babirousa/status/1840133152825614398)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4248/8f96c33c63454a3122c1e78f718a22698a2ad5ad.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 400,
+  "alto": 300,
+  "que_es": "Fan art de kaneda_shoutarou_(akira) (https://tora820.tumblr.com/post/149769021952)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4440/a699879fdcd76d54e123c49d897462debabcea76.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 1440,
+  "que_es": "Fan art de kaneda_shoutarou_(akira) (https://www.instagram.com/p/Cz344UUyyAY/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4419/6290c1be4dbcc893cba25011ec27416613ffdac4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 726,
+  "alto": 1024,
+  "que_es": "Fan art de kaneda_shoutarou_(akira) (https://twitter.com/tora0820/status/1557698758824960000)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3585/596266cae67329a3c0bf4701cefec3a9667c2850.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2137,
+  "alto": 3733,
+  "que_es": "Fan art de kaneda_shoutarou_(akira) (https://i.pximg.net/img-original/img/2020/10/30/23/47/37/85337786_p1.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4483/70579267fda9d82371a8ac901cd7a47871b6d81b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2828,
+  "que_es": "Fan art de shimakaze_(kancolle) (https://twitter.com/SSo_CCute_CAT/status/1741807520279306695)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/311/59ee5d8870fef831d72bc99b41ec560e914c6d0e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1772,
+  "alto": 3840,
+  "que_es": "Fan art de shimakaze_(kancolle) (https://majinkz.moe/extras)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4061/bcbb54ca2eaa4374e752a6dd425ea184126ec670.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1254,
+  "alto": 1771,
+  "que_es": "Fan art de shigure_(kancolle) (https://i.pximg.net/img-original/img/2022/12/22/19/40/07/103808881_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4012/c6534095483b33d14df2e98824295d882d099a9f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1348,
+  "que_es": "Fan art de shigure_(kancolle) (https://twitter.com/ryumurasame/status/1588751213138673664)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3591/129d17277537681a5389799ff5d4bfbcb3955620.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 965,
+  "que_es": "Fan art de shigure_(kancolle) (https://i.pximg.net/img-original/img/2021/11/27/18/11/58/94407613_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4078/7773ed4602bdbb1496464750e2a47afb21a6c521.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 979,
+  "alto": 1024,
+  "que_es": "Fan art de shigure_(kancolle) (https://i.pximg.net/img-original/img/2023/02/13/23/22/14/105351896_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4034/b16cda3c850cdc7ba74a3d65e7fdb24f39b45185.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1468,
+  "alto": 2048,
+  "que_es": "Fan art de shigure_(kancolle) (https://twitter.com/rinc7600/status/1596494142691217408)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3948/83635f7ce8d344352bb838309b79ce8897a87ed0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1414,
+  "que_es": "Fan art de shigure_(kancolle) (https://twitter.com/aronyan_2828/status/1503701617333342222)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/10/0d7694c3db6efb74039fb3308cb2b481799459e0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 964,
+  "que_es": "Fan art de souryuu_asuka_langley (http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;amp;illust_id=6077838)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/482/de7f1c1aabffeb630660d7139acf6d3afab431b6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1521,
+  "alto": 1698,
+  "que_es": "Fan art de souryuu_asuka_langley (http://img53.pixiv.net/img/entryfile/13293546.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1/bc784ee95613c9982948bd70821f6fc774a64031.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1333,
+  "que_es": "Fan art de souryuu_asuka_langley (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b07dec8d1a676c4dee08fd24c7b0deef3883d3c9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 5839,
+  "alto": 7563,
+  "que_es": "Fan art de souryuu_asuka_langley (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/eb8d7b559fcd8aa5df33b07f51f20282e4afd16a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 2700,
+  "que_es": "Fan art de souryuu_asuka_langley (https://twitter.com/khyleri/status/1825570340333883886)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/542/82d9479839e2a0710368672d371e150830da0ada.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 396,
+  "alto": 650,
+  "que_es": "Fan art de souryuu_asuka_langley (http://twitpic.com/3psi4p/full)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3386/1913635dfda545e1a7d29da5380a219373df4540.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1240,
+  "alto": 893,
+  "que_es": "Fan art de yuudachi_(kancolle) (https://twitter.com/paintmusume/status/1408807176961810437)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3578/46b28f32479c9c567ad2ec2dc65bb754b6ceb874.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 1600,
+  "que_es": "Fan art de yuudachi_(kancolle) (https://i.pximg.net/img-original/img/2021/11/19/20/26/28/94234092_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3667/45367ce03d1617abc9a204116918a491fbb514a8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 3800,
+  "que_es": "Fan art de yuudachi_(kancolle) (https://twitter.com/dairyo3/status/1485024979876036609)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4177/287bbcdf5e2d8d2d6f365fd8440371ddd8edaa2a.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2695,
+  "alto": 4695,
+  "que_es": "Fan art de yuudachi_(kancolle) (https://i.pximg.net/img-original/img/2023/04/23/00/27/14/107427797_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3318/a6438c13e85d25a4f962ca993645953c7e6102f9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 1000,
+  "que_es": "Fan art de yuudachi_(kancolle) (https://twitter.com/aka_ra_xx/status/1386337089793400835)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4063/c4412f7fec4bcb41ac3ccc56abe3dffb0b5cd386.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 687,
+  "alto": 1000,
+  "que_es": "Fan art de yuudachi_(kancolle) (https://i.pximg.net/img-original/img/2022/12/25/18/31/06/103905964_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3741/6e332f74bb4060188130066b712df83129455b1d.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 3000,
+  "que_es": "Fan art de shigure_kai_ni_(kancolle) (https://i.pximg.net/img-original/img/2022/03/15/20/22/36/96935653_p1.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4020/1f4a16d168568f463b9a03d21326d4d6554db814.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 445,
+  "alto": 622,
+  "que_es": "Fan art de shigure_kai_ni_(kancolle) (https://twitter.com/HimuraMoritaka/status/1591537052008734720)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3797/4d0b74a2a45dbbcb7a189a7684d9f666d01316b5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 706,
+  "alto": 1000,
+  "que_es": "Fan art de shigure_kai_ni_(kancolle) (https://i.pximg.net/img-original/img/2022/04/23/01/12/16/97808622_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1091/c0f79052ec064afca39c80f9b2a49e61b3d71c13.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3656,
+  "alto": 4096,
+  "que_es": "Fan art de rx-78-2_gundam (https://x.com/JohnSaunders86/status/2070098005601218914)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4370/3ef2812de5daa8b62c9f401686dab21f1ff5be32.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2560,
+  "alto": 2880,
+  "que_es": "Fan art de rx-78-2_gundam (https://www.pixiv.net/artworks/131947968)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/267/e6d8e9c5441b91370675f74716a2d8a041e7194b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1365,
+  "alto": 2048,
+  "que_es": "Fan art de rx-78-2_gundam (https://twitter.com/DRandallArt/status/1671624818607923200)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2577/d760730ccf78984305b2c4779139326a519f13bc.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1448,
+  "alto": 2048,
+  "que_es": "Fan art de rx-78-2_gundam (https://twitter.com/samhoshi7/status/1935056780238930114)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2577/da325b7f050ec934505cdd1ce55db38b195b40a1.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3840,
+  "alto": 2894,
+  "que_es": "Fan art de rx-78-2_gundam (https://i.pximg.net/img-original/img/2025/06/19/00/17/39/131716395_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/287/fe6ab0025193cef2c4b9359d7ca098e315c22a1b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 600,
+  "alto": 500,
+  "que_es": "Fan art de rx-78-2_gundam (https://twitter.com/JAZZ_JACK_/status/1979851828725755972)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/1p/wallhaven-1pp83w.png",
+  "fuente": "Wallhaven",
+  "ancho": 5461,
+  "alto": 3072,
+  "que_es": "Fondo de pantalla (Bubble (Movie), Hibiki (Bubble), film stills, anime screenshot, upscaled, Netflix)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Glitxhy; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/7p/wallhaven-7ppg39.png",
+  "fuente": "Wallhaven",
+  "ancho": 5461,
+  "alto": 3072,
+  "que_es": "Fondo de pantalla (Bubble (Movie), Uta (Bubble), film stills, upscaled, Netflix, anime screenshot)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Glitxhy; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6d/wallhaven-6ddjkl.png",
+  "fuente": "Wallhaven",
+  "ancho": 5461,
+  "alto": 3072,
+  "que_es": "Fondo de pantalla (Bubble (Movie), Uta (Bubble), film stills, upscaled, Netflix, anime screenshot)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Glitxhy; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/85/wallhaven-85j6rj.png",
+  "fuente": "Wallhaven",
+  "ancho": 7680,
+  "alto": 3266,
+  "que_es": "Fondo de pantalla (Caitlyn (League of Legends), League of Legends, Arcane (League of Legends), Netflix TV Series, TV series, video game characters)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por papa77; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-6000cf8f84d1438bb3d5b476941e99f6",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Soda de 1nonly",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/5190/5682889770_b707c270cf_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "The Retrograde Recursion of Personalization",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor jurvetson",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/21/25453887_f9150f5911.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 500,
+  "alto": 417,
+  "que_es": "Netflix Bubble",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor mobil'homme",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/185/368876922_400e3b6620_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "365.124",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor twintermute",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/4129/5191024371_e70e98711c_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Galactic Abstract",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor shawncampbell",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/2302/2386883626_74c1630532_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "18 Again",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor drewdomkus",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48856039642_3e6f121e10_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4907",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/5713/21470193659_43dde88d69_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Ugh. Been proper poorly all week with a sicky fluey bug. Feeling proper…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor Queenie & the Dew",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48856053257_ac42ba542e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4767",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48856057607_9e4688a9ce_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4760",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855857581_553225f73b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4764",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855828646_dd19bfb465_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4962",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855851456_609c38ac82_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4775",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855500833_3fe6733783_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4761",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48856053817_a773b05e72_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4766",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855849286_95a746127f_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4779",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855849896_f1f4e4f165_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4778",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855855261_5d7b4f09bf_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4768",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855848181_c14cdbfc2a_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4781",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48856051607_34f1d0ccd0_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4770",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/48855857006_89db792777_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "2019 Lost In Space Will Robinson's Empty Space Suit and Chariot 4765",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Brechtbug",
+  "origen": "recolectar.py"
+ }
+]
