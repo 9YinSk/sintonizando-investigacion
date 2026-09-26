@@ -20,6 +20,7 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
   59: revisar.py la da COMPLETA → subida. 60: 4 partes sin `Sigue:` obligatorio → redactor (Opus).
 - 63 K-pop: **COMPLETA** y subida (2026-09-26 00:02 UTC). ✅24 ⚠️13 ❌0, 186 referencias, 76 webs, 1974 líneas.
 - 62 Intensamente: **COMPLETA** y subida (2026-09-26 01:15 UTC). ✅22 ⚠️8 ❌0, 99 referencias, 64 webs, 797 líneas.
+- 65 Zelda: **COMPLETA** y subida (2026-09-26 13:45 UTC). ✅26 ⚠️12 ❌0, 72 webs, 914 líneas. (El redactor se cortó por límite justo al terminar; avisos en la biblia.)
 
 ## Avisos para el dueño
 
