@@ -162,3 +162,55 @@ Sacados con `fotogramas.py` de tráileres oficiales localizados con subtítulos 
 | Loona | Fastidio/aburrimiento (comiendo botana, mirada de lado) | Tráiler oficial T3, Helluva Boss, Prime Video (doblado) | 0:30 | https://www.dailymotion.com/video/xb8zcka?t=30 |
 
 Nota: el fotograma de 0:30 de Loona muestra la bolsa de botana "Chaos" en su mano — encaja con el gusto de la wiki (ver punto 20: fumar, beber, botanas).
+
+## 20 · Gustos y detalles de cada personaje
+
+De la ficha (`CharacterBox`) de cada personaje en Hellaverse Wiki (`hazbinhotel.fandom.com`, wikitext vía API), campo por campo. **Ningún personaje comprobado tiene altura ni cumpleaños con fecha exacta registrados en la wiki** (sólo edad aproximada, biológica o "en años del Infierno"); se marca "no encontré" en esas columnas en vez de inventar una cifra.
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Charlie Morningstar | Vaggie, la redención, su familia, dibujar, cantar, piña en la pizza, koalas, los chistes de Alastor | Los Exterminios, que se burlen de su sueño, la violencia, la homofobia, la ausencia de su madre | Teatro musical, canto, baile, dibujo | No encontré (sólo "20s biológicos") | No encontré | [Hellaverse Wiki](https://hazbinhotel.fandom.com/wiki/Charlie_Morningstar) · ⚠️ (una fuente, wiki de fans con referencias propias a streams de la creadora) |
+| Alastor | Él mismo, matar, su libertad, sonreír, el jazz, el café amargo, piña en la pizza (coincide con Charlie), fumar, molestar a Vox | Vox, que lo toquen (sobre todo el pelo), los perros, la "decoración cursi" de Lucifer, recordar su muerte | Radio, caza, cocina (según su trasfondo humano) | No encontré ("30s-40s biológicos, 100+ cronológicos") | No encontré | Hellaverse Wiki · ⚠️ |
+| Angel Dust | El sexo, las bromas, cocinar, coquetear, las paletas heladas, el color rosa, la comida italiana, Husk, Fat Nuggets | Valentino y su maltrato, que husmeen en su pasado, ser el espía de Vox, memorizar guiones | Actuación (cine adulto), coqueteo, pelea | No encontré ("30s biológicos") | No encontré | Hellaverse Wiki · ⚠️ |
+| Vaggie | Charlie (todo lo de Charlie), mantener el Hotel limpio y ordenado, la disciplina | Que hieran a Charlie, la impulsividad, el desorden, Adam y Lute, el Cielo, mentir | Organización, entrenamiento/combate | No encontré ("20s biológicos") | No encontré | Hellaverse Wiki · ⚠️ |
+| Husk | Las apuestas, los trucos de cartas, beber, la autenticidad en la gente | Que le mientan, la falsedad, su trato con Alastor | Juegos de cartas/apuestas | No encontré | No encontré | Hellaverse Wiki · ⚠️ |
+| Blitzø | El asesinato (trabajo), consentir a Loona, los caballos, dibujar, el queso con salsa picante | Las críticas, que lo miren en menos, hacer de guardaespaldas, el frío | Dibujo, su empresa I.M.P. | No encontré | No encontré | [Hellaverse Wiki (Blitzo)](https://hazbinhotel.fandom.com/wiki/Blitzo) · ⚠️ |
+| Loona | Salir con Blitzø (a veces), beber, fumar, su celular, leer revistas, dormir | Trabajar, que la traten como mascota/esclava, que le pongan bozal, perder a Blitzø | Redes sociales, dormir | 22 (años del Infierno) | No encontré | Hellaverse Wiki (Loona) · ⚠️ |
+| Stolas | La jardinería, su hija Octavia, coquetear con Blitzø, las telenovelas, leer, hacer papeleo | Estar solo, el carácter de Stella, ser pobre, no poder ver a Octavia | Jardinería, lectura, ciencias del Infierno | No encontré (30s años del Infierno) | No encontré | Hellaverse Wiki (Stolas) · ⚠️ |
+| Moxxie | Cocinar, el teatro musical, la ópera, la aprobación de Blitzø | Que Blitzø husmee en su vida, los parques temáticos, matar inocentes, que le digan mal su nombre | Cocina, teatro | No encontré | No encontré | Hellaverse Wiki (Moxxie) · ⚠️ |
+| Millie | El asesinato (trabajo), su familia, Loo Loo Land, coleccionar cuchillos, bailar | Que insulten a Moxxie, que descrediten su trabajo, el frío, perder a Blitzø | Coleccionismo, videojuegos de arcade, combate | 27 (años del Infierno) | No encontré | Hellaverse Wiki (Millie) · ⚠️ |
+
+Cómo se ven a sí mismos (dato aparte, no cabe en la tabla): Charlie se ve como la única esperanza real de cambio en el Infierno, aunque no sepa cómo lograrlo (lo admite en un audio a su madre); Angel Dust se describe a través de letreros de neón en la canción "Loser, Baby" como alguien que se siente un fracaso pese a la fachada; Alastor no se ve a sí mismo como villano, sino como el único con clase y control real · Hellaverse Wiki, Wikipedia (Angel Dust) · ⚠️
+
+## 21 · Por qué la gente la ama
+
+Razones concretas de crítica y fandom, identificación del público, y las escenas que hacen llorar o gritar de emoción.
+
+- Recepción crítica mayormente positiva: se destaca como "un soplo de aire fresco" en la animación adulta por mezclar humor, terror y temas sensibles sin perder el corazón · resumen de reseñas (búsqueda web) · ⚠️ (agregador de varias reseñas, no una sola fuente primaria)
+- La relación de Charlie y Vaggie es señalada como representación poco común de una pareja LGBT+ protagonista en animación para adultos; genera bastante conversación en redes sobre representación · búsqueda web (varias notas) · ⚠️
+- Angel Dust conecta con el público por su doble cara (fachada segura / trauma real) y por representar abuso y adicción sin quitarle la comedia; Blake Roman fue destacado como "instant star" por Collider · [Wikipedia (Angel Dust)](https://en.wikipedia.org/wiki/Angel_Dust_(Hazbin_Hotel)) · ✅
+- Alastor genera fascinación por su ambigüedad: nadie sabe realmente qué quiere ni si algo le importa de verdad, lo que alimenta años de teorías de fans · Wikipedia (Alastor the Radio Demon), TV Tropes · ✅
+- Las canciones son el gancho de entrada de mucha gente: "Poison" llegó al puesto #2 del Bubbling Under Hot 100 de EE.UU. con 153 millones de streams en Spotify y 34 millones de vistas en YouTube; "Hell's Greatest Dad" superó 100 millones de vistas · [Wikipedia (Poison)](https://en.wikipedia.org/wiki/Poison_(Hazbin_Hotel_song)), [Bleeding Cool](https://bleedingcool.com/tv/hazbin-hotel-shares-hells-greatest-dad-loser-baby-sing-alongs/) · ✅
+- El video musical no oficial "Addict" (2020, previo a la serie) fue el primer contacto de gran parte del fandom con Angel Dust y superó 150 millones de vistas, mucho antes de que existiera la serie de Amazon · Wikipedia (Angel Dust) · ⚠️
+
+### Escenas que hacen llorar o gritar de emoción
+
+| Escena / canción | Episodio | Qué pasa | Por qué duele / emociona | Música |
+|---|---|---|---|---|
+| «Poison» | T1, Ep. 4 «Masquerade» | Angel Dust revive el trauma de su relación abusiva con Valentino mientras canta, mezclando imágenes del presente y el pasado | Aborda "la oscuridad de una relación psicológica y sexualmente abusiva" sin suavizarla; la letra contrasta con el tono colorido del resto del show | «Poison», Sam Haft/Andrew Underberg, cantada por Blake Roman |
+| «Hell's Greatest Dad» | T1, Ep. «Dad Beat Dad» | Lucifer y Alastor compiten cantando por el cariño de Charlie, cada uno a su manera | Comedia con fondo agridulce: la necesidad real de Charlie de sentirse querida por su padre distante | «Hell's Greatest Dad» |
+| «Loser, Baby» | T1, Ep. 4 | Husk y Angel Dust cantan sobre sentirse un fracaso cada uno a su manera, rodeados de letreros de neón con sus inseguridades | El público conecta con la vulnerabilidad de dos personajes "duros" admitiendo que se sienten perdidos | «Loser, Baby», Keith David y Blake Roman |
+
+Fuente de la tabla: [Wikipedia (Poison)](https://en.wikipedia.org/wiki/Poison_(Hazbin_Hotel_song)), [Bleeding Cool](https://bleedingcool.com/tv/hazbin-hotel-shares-hells-greatest-dad-loser-baby-sing-alongs/), [Hellaverse Wiki (Hell's Greatest Dad)](https://hazbinhotel.fandom.com/wiki/Hell's_Greatest_Dad) · ⚠️ (el "por qué duele" es interpretación propia a partir de las fuentes, no una cita textual de crítica; falta cruzar con comentarios de YouTube/Reddit con más votos, ver «No encontré»)
+
+## 22 · Fan dubs y comunidad hispana
+
+Doblajes de fans, covers y parodias en español encontrados en Dailymotion (mismo buscador que usa `datos-voz.md`, ya que YouTube pide iniciar sesión desde este servidor).
+
+- **«La Cita de Alastor» (Alastor x Rosie)**, fandub cómico en español latino, canal **LATAM Fandub Studios**, 484 vistas, 1:33 min · [Dailymotion](https://www.dailymotion.com/video/x9btgze) · ✅ (canal identificado + visto el clip)
+- Canal de YouTube con fandub por capítulos completos: **«Hazbin Hotel (Cap. 4/5/7) Español Latino | Fandub - Doblaje»**, publicado por partes (Pt1, Pt2, Pt5) · hallado por búsqueda web, no se pudo abrir YouTube directo desde este servidor (pide iniciar sesión) · ⚠️ (título y canal confirmados por buscador, contenido no verificado en vídeo)
+- Cover fan de **"Poison" en español latino** («Poison - Cover Español Latino | Hazbin Hotel | Amazon Prime Video», título en YouTube) · búsqueda web · ⚠️ (no reproducido, YouTube bloqueado)
+- Cover fan **"En cada demonio hay un arcoíris" (Hazbin Hotel cover español)**, Dailymotion, 35 vistas · [Dailymotion](https://www.dailymotion.com/video/x7ouvjc) · ⚠️ (una fuente)
+- **"Hazbin Hotel Anime Opening [Fanmade]"**: apertura fan-hecha al estilo anime, 1205 vistas — muestra cómo el fandom cruza el estilo de la serie con estética anime, algo a evitar si se busca ser fiel al original (ver punto 12) · [Dailymotion](https://www.dailymotion.com/video/x80dx2d) · ⚠️
+- Versiones oficiales en español latino de las canciones "Loser, Baby" y "Poison" (no fandub, pero confirman que el estudio publicó el material por separado para que el fandom cantara) · resultado de búsqueda web (YouTube, no reproducido) · ⚠️
+- No encontré covers ni fandubs de Helluva Boss específicos en español (más allá de los tráilers oficiales ya usados en el punto 13); la comunidad hispana de fandub parece concentrada en Hazbin Hotel · búsquedas: «Helluva Boss fandub español» (Dailymotion, datos-voz.md, sin resultados), «Helluva Boss cover español latino» (web, sin resultados directos)

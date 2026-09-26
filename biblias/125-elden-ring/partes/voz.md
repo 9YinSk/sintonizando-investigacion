@@ -37,13 +37,32 @@ Encuesta de fans (netlab/itmedia, ねとらぼリサーチ, 2022): ranking de je
 - Lista oficial de idiomas de Steam citando el tuit oficial de @ELDENRING: «The only option with full in-game audio is English. […] interface and subtitles in French, Italian, German, Spanish – Spain, Japanese, Korean, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Thai, Traditional Chinese» · ✅ (win.gg cita el tuit oficial de la cuenta @ELDENRING, más Gamepur y Steambase coinciden en el mismo listado) · https://win.gg/news/all-the-info-you-need-for-the-steam-version-of-elden-ring/
 - Doblaje Wiki (API `action=query&list=search`) no tiene ninguna página «Elden Ring»: ni la serie ni el reparto latino existen en su catálogo, que sí recoge doblajes menores · ✅ (comprobado directo en la API, no de memoria) · https://doblaje.fandom.com/es/api.php?action=query&list=search&srsearch=ELDEN&format=json
 - Confirmación indirecta: vídeo de YouTube titulado «ELDEN RING no tendrá DOBLAJE en ESPAÑOL!!» (canal de noticias gaming) · ⚠️ (título de vídeo, no fuente oficial, pero coincide con las dos anteriores) · https://www.youtube.com/watch?v=MqSasmw2__Q
-- Lo que sí hay: fandubs de fans (ver punto 22) y el juego de mesa/spin-offs no aportan doblaje oficial tampoco. Personajes con más diálogo (para quien quiera un fandub): Melina, Ranni, Patches, Hyetta, Varré, Blaidd, Enia, Brother Corhyn, Goldmask, Miriel — nombres en inglés/japonés, no hay «nombre latino» porque no hay reparto.
+- Tampoco hay doblaje japonés (aunque el estudio, FromSoftware, es japonés): el audio original y único es en inglés, grabado en Londres por el estudio Liquid Violet, dirigido por Adam Chapman-Hailey · ✅ (Behind The Voice Actors, créditos oficiales del juego + confirmado por foros japoneses que piden el doblaje que no existe) · https://www.behindthevoiceactors.com/video-games/Elden-Ring/ y https://dark-soku.blog.jp/archives/87120588.html
+- Lo que sí hay: fandubs de fans en español (ver punto 22). No hay «nombre latino» posible porque no existe reparto en español.
 
-**Tabla para el redactor** (punto 8 de ENCARGO.md) — vacía a propósito, con la fuente de por qué:
+**Tabla para el redactor** (punto 8 de ENCARGO.md; sin doblaje latino, así que la columna «Voz latina» queda marcada; se deja la voz original inglesa, la única que existe, con fuente doble):
 
-| Personaje | Seiyū (japonés) | Voz latina | Fuente 1 | Fuente 2 |
+| Personaje | Voz original (inglés, único idioma con audio) | Voz latina | Fuente 1 | Fuente 2 |
 |---|---|---|---|---|
-| — sin doblaje latino ni elenco japonés doblado por separado (voces originales en inglés, dirigidas por George Fan/FromSoftware Bandai Namco) — | — | **No existe doblaje al español** | Steam/win.gg (idiomas oficiales) | Doblaje Wiki (sin página) |
+| Melina | Martha Mackintosh | No existe doblaje latino | https://www.behindthevoiceactors.com/video-games/Elden-Ring/Melina/ | https://www.imdb.com/title/tt10562854/characters/nm0533594/ |
+| Malenia | Pippa Bennett-Warner | No existe doblaje latino | https://www.behindthevoiceactors.com/video-games/Elden-Ring/Malenia/ | https://www.imdb.com/title/tt10562854/characters/nm1534733/ |
+| Ranni | Aimee-Ffion Edwards | No existe doblaje latino | https://www.behindthevoiceactors.com/video-games/Elden-Ring/ | https://en.wikipedia.org/wiki/Elden_Ring (créditos) |
+| Starscourge Radahn | Pip Torrens | No existe doblaje latino | https://www.behindthevoiceactors.com/video-games/Elden-Ring/ | IMDb (tt10562854/fullcredits) |
+| Margit / Morgott | Anthony Howell | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Mohg | Con O'Neill | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Godrick | Ramon Tikaram | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Maliketh | Jonathan Keeble | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Godfrey / Hoarah Loux | Edward Rowe | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Rennala | Mali Harries | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Rykard | Simon Gregor | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Blaidd | Scott Arthur | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Patches | William Vanderpuye | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Millicent | Allegra Marland | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Sellen | Kezia Burrows | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Varré | Pip Torrens (mismo actor que Radahn) | No existe doblaje latino | BTVA | IMDb fullcredits |
+| Narrador | Jimmy Livingstone | No existe doblaje latino | BTVA | IMDb fullcredits |
+
+⚠️ Extra (muestra muy pequeña, N=10 votos): encuesta de fans en BTVA «Favorite Character» → Dung Eater 30%, Melina 20%, Ranni 10%, Malenia 10%, Margit 10%. No usar como dato fuerte, sólo contraste · https://www.behindthevoiceactors.com/video-games/Elden-Ring/
 
 ## Bitácora (parcial, se completa al final)
 

@@ -242,8 +242,9 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 | — | `fotogramas.py` sobre 6 clips de Dailymotion (trailer, OP1, ED1-descartado, megumin_explosion, last_fight, aqua_recap, darkness_golem) | — | Dailymotion | 7 hojas de contacto vistas con Read ✅ |
 | — | `estilo.py` sobre 4 fotogramas (castillo, campo+explosión, mansión, puerta de Axel) | — | Herramienta local | Hex + saturación/brillo medidos ✅ |
 | — | `yt-dlp` directo sobre YouTube (tráiler de AniList) | — | YouTube | Bloqueado: «Sign in to confirm you're not a bot» ❌ (confirma la nota de AYUDANTE.md) |
+| 18 | Dailymotion API `Chiisana Boukensha` / `konosuba ending` / `konosuba ED` / `この素晴らしい世界に祝福を ED` (relanzo) | JA/EN | api.dailymotion.com | Sin ED real, mismos resultados irrelevantes de siempre ❌ |
+| 19 | `archive.org/metadata/` sobre 3 ítems candidatos (serie rusa completa T1 y T2, S2E2 suelto) | — | Internet Archive | Serie rusa T1 con 10 episodios .mp4 completos (imagen/audio original bajo doblaje) ✅ |
+| 20 | `fotogramas.py` sobre episodio 1 (min 5:00, control) y episodio 2 (min 21:40-24:10, búsqueda del ED) del ítem `archive_etot_zamechatelnyy_mir_kono_subarashii_sekai_ni_shukufuku_wo` | — | Internet Archive | Episodio 1 confirmado como Konosuba real (Aqua); episodio 2 min 22:35-23:48 = ending real «Chiisana Boukensha» ✅✅ |
 
 **Confirmado (✅):** OP/ED de las 3 temporadas (título, cantante, fecha), compositor de la BSO (Masato Kōda), opening y ending 1 vistos en vídeo real fotograma a fotograma (con episodio de control para verificar autenticidad), tráiler oficial T3 visto fotograma a fotograma, 3 escenas icónicas vistas y citadas con minuto, 4 sitios con paleta medida, 22 poses de los 4 personajes con capítulo/clip y minuto.
 **A medias (⚠️):** tendencias TikTok (no probadas por falta de tiempo, ver «No encontré»), 2-3 poses de Darkness por debajo del mínimo recomendado.
-
-Sigue: ver un ending real en vídeo (AYUDANTE.md lo pide como mínimo obligatorio junto al opening/tráiler/3 escenas). Se agotaron 3 vías en esta tanda (Dailymotion, AnimeThemes caído, extracción directa de un episodio de Internet Archive que resultó mal etiquetado). Probar de nuevo cuando YouTube libere el bloqueo de este servidor, o con otro episodio/fuente de Internet Archive.

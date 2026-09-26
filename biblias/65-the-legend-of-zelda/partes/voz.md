@@ -206,6 +206,8 @@ secciones «Personality») son la base; aquí se profundiza con arco, miedos y f
 | Link | Determinación / tensión | *Tears of the Kingdom*, tráiler definitivo (Nintendo, 2023) | 3:18 | https://www.dailymotion.com/video/x8k22ef?t=198 |
 | Rey Rhoam | Seriedad / autoridad | *BOTW: The Champions' Ballad*, tráiler DLC (Nintendo, 2017) | 1:44 | https://www.dailymotion.com/video/x6bc0bm?t=104 |
 | Link | Recién despierto, neutro/curioso | *BOTW*, primeros minutos (gameplay doblado, canal Hobby Consolas) | 2:15 | https://www.dailymotion.com/video/x5ahli0?t=135 |
+| Zelda (espíritu) | Alarma / vigilancia tensa | *BOTW: The Sequel* (hoy *Tears of the Kingdom*), tráiler de anuncio E3 2019 | 0:34 | https://www.dailymotion.com/video/x7au2j3?t=34 |
+| Zelda | Miedo / tensión (junto a la mano momificada de Ganondorf) | *BOTW: The Sequel* (hoy *Tears of the Kingdom*), tráiler de anuncio E3 2019 | 0:46 | https://www.dailymotion.com/video/x7au2j3?t=46 |
 
 **Qué transmite cada uno (la emoción que deja al verlo):**
 - Link: calma y seguridad silenciosa — no promete con palabras, actúa; el público lo siente como un
@@ -350,12 +352,13 @@ que el de series animadas.
 - **Fotograma con el rostro de Ganon/Ganondorf mostrando una emoción clara** (rabia, miedo): en el
   tráiler medido aparece de espaldas o transformado en niebla roja/dragón; busqué otro clip
   («Ganondorf risa Tears Kingdom trailer reveal español») sin encontrar uno con su cara visible.
-- **Alegría y miedo/vergüenza plenos** en los 5 personajes (el encargo pide alegría, rabia, tristeza,
-  miedo, vergüenza): sólo confirmé con fotograma+minuto tristeza (Zelda) y una expresión de tensión en
-  Link; busqué en el tráiler de *The Champions' Ballad* y en 20 minutos de gameplay doblado sin
-  encontrar sonrisas o miedo claros y encuadrados en primer plano — necesitaría revisar más metraje
-  (recomiendo al redactor pedir al investigador de vídeo o de imagen fotogramas de las «memorias» de
-  los campeones completas, que sí tienen más rango emocional por personaje).
+- **Alegría, rabia y vergüenza** de los 5 emociones que pide el encargo: confirmé con fotograma+minuto
+  tristeza y miedo/alarma (Zelda) y una expresión de tensión/determinación en Link, pero no una sonrisa
+  clara, un enfado abierto ni un sonrojo en primer plano; busqué en el tráiler de *The Champions'
+  Ballad*, en 20 minutos de gameplay doblado y en el teaser de 2019 sin encontrarlas encuadradas en
+  close-up — necesitaría revisar más metraje (recomiendo al redactor pedir al investigador de vídeo o
+  de imagen fotogramas de las «memorias» de los campeones completas, que sí tienen más rango emocional
+  por personaje, o del arte oficial para Mipha sonrojada, un caso conocido de vergüenza en la wiki).
 - **Segunda fuente externa** (fuera de Doblaje Wiki) para Sidon = José Antonio Macías, Revali = Enzo
   Fortuny y Urbosa = Kerygma Flores: busqué «Enzo Fortuny Revali Zelda voz», «Kerygma Flores Urbosa
   Zelda doblaje» sin resultado claro con personaje asociado; quedan con ⚠️ en la tabla del punto 8.

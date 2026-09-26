@@ -1409,3 +1409,119 @@ es aproximado ⚠️):
 - **Las salchichas-pulpo** del bento (ep. 1, 23:52).
 - **Vocabulario**: «guerra mental» (頭脳戦), «el que confiesa, pierde»,
   «Presi», «Señorita Kaguya», «Ishigod», «IQ de 3», «Princesa de Hielo».
+
+## Tres conceptos de lámina
+
+Tres ideas distintas: un **naipe** sobre la mesa del consejo, un **libro**
+abierto y un **tablón** del pasillo. Tres personajes: la protagonista, la
+más querida del meme y la secundaria que sube en las encuestas. Todas usan
+el cuadro propio de la serie (punto 6.4), nunca un globo blanco.
+
+### A ⭐ · #🎯・reto-de-la-semana — «La batalla de la semana»
+
+- **Objeto y sitio**: **un naipe grande** boca arriba sobre la **mesa larga
+  de madera de la sala del consejo**, con luz de tarde por los ventanales.
+  En el opening vuelan cartas por esta misma sala (ep. 1, 1:44) y Kaguya
+  sale con cartas en la mano (hoja 3 #104; fondo de
+  [Wallhaven 136x99](https://wallhaven.cc/w/136x99)). **Blender**: la sala es
+  el [modelo CC BY](https://sketchfab.com/3d-models/kaguya-samalove-is-war-student-council-ver-287ebc7d09b945589b70eeb9c8c37e0d)
+  (crédito a kaguyasama_fanart); el naipe, un plano con curvatura leve y
+  papel [Paper001](https://ambientcg.com/view?id=Paper001); la tinta sigue
+  la curva.
+- **Personaje**: **Kaguya**, de pie al otro lado de la mesa, un poco
+  inclinada, con la **mirada roja de reto y media sonrisa** (ep. 1, 24:24)
+  y una carta entre los dedos (hoja 3 #104). Al fondo, desenfocado en el
+  sofá verde, **Shirogane con la mano en la barbilla** pensando su jugada
+  (ep. 3, 15:20).
+- **Cómo habla**: con la **cartela del resultado** (punto 6.1): rectángulo
+  blanco `#FCFCFC`, borde negro grueso `#040404` y filete fino, letra
+  **Shippori Mincho**. Nada de globos.
+- **Dónde va cada texto**:
+  1. Cartela alta y estrecha, a la derecha, como «本日の勝敗»: **«El reto de
+     la semana»**.
+  2. Impreso en el naipe, sobre la mesa: **«Una línea. Una escena. Un tono.»**
+  3. Cartela junto a Kaguya: **«Se entrega dentro del hilo del reto.»**
+  4. Cartela escalonada, abajo a la izquierda, como «白銀の逃走により /
+     かぐやの勝»: **«Resultado de hoy: nadie gana.»** y debajo, en letra gruesa
+     con contorno, **«Se graba.»**
+- **Para que no quede plano**: un segundo naipe **volando delante** de
+  Kaguya, desenfocado (como en el opening, 1:44); franjas de luz de los
+  ventanales cruzando la mesa; Shirogane desenfocado detrás; grano suave;
+  cara de Kaguya **sin sombra** (*kagenashi*).
+- **Paleta**: la de la sala (`#2D2325`, `#5C2D35`, `#7A5658`) con el lazo
+  `#B43833` y los ojos `#AD0218` como únicos rojos fuertes.
+- **Lámina 2 · las etiquetas**: las 8 etiquetas como **8 naipes en abanico**
+  en la mano de **Chika** (pose de hoja 1 #25, «Chika con una carta»):
+  Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, **Con
+  trampa** (Chika guiña: en la serie hace trampa en los juegos) y Libre.
+- **Voz para un vídeo**: el narrador de Óscar Flores leyendo el reto en tono
+  de noticiero (punto 8.1).
+
+### B · #🎧・demos — «La ficha del consejo»
+
+- **Objeto y sitio**: el **fanbook oficial «恋愛戦術»** (hoja 1 #1) abierto
+  sobre la mesa del consejo, por una **página de ficha** como la de Chika
+  (hoja 2 #53: dibujo de cuerpo entero y datos). **Blender**: libro abierto
+  con las páginas curvadas y papel Paper001; la luz de ventana resbala por la
+  curva.
+- **Personaje**: **Chika**, **inclinada sobre la mesa** hacia el libro
+  (ep. 3, 22:36), con una mano señalando la página. Se puede posar el
+  [modelo CC BY de Chika](https://sketchfab.com/3d-models/chika-fujiwara-from-kaguya-sama-love-is-war-04270c2d606e4ef5a65cc03c5847bdda)
+  (crédito a Navirobot) para que la mano toque de verdad el papel.
+- **Cómo habla**: el texto principal va **impreso en las páginas** del
+  libro (objeto real). La frase de Chika va en el estilo del **logo del
+  anime** (ep. 1, 1:10): mincho carmesí `#EC0C54` sobre blanco, con dos o
+  tres corazones rosa `#F494B4`, sin globo.
+- **Dónde va cada texto**:
+  1. Cabecera de la página izquierda: **«Tu ficha de doblaje»**.
+  2. Página izquierda, junto al hueco del retrato: **«Un hilo con tu nombre.»**
+  3. Página derecha, arriba: **«Tus demos.»**
+  4. Página derecha, abajo, sobre una **línea de pulso** como la del logo del
+     manga: **«Tu rango vocal.»**
+  5. Chika, junto a su cara: **«¡Ay, por favor! ¿Y tu ficha?»** (su «¡Ay, por
+     favor!» es real del doblaje).
+- **Para que no quede plano**: el libro está **delante** de Chika; su lazo
+  negro y el pelo `#EBD0D5` recortados contra el ventanal; una página
+  levantándose; sombra suave del libro sobre la madera.
+- **Lámina 2 · las 19 etiquetas** como la **página de índice** del fanbook,
+  agrupadas: tipo de voz (masculina, femenina, andrógina), edad (infantil,
+  joven, adulto, anciano), estilo (narración, comercial, canto, imitación),
+  medio (anime, series, películas, videojuegos, audiolibro), estado
+  (disponible, ocupado) y colaboración. Al margen, de ejemplo, **el rango
+  medido del consejo**: Miko 382 Hz, Chika 377, Hayasaka 192, Narrador 159,
+  Shirogane 151, Ishigami 117, Kaguya 112 (punto 8.1).
+
+### C · #🎬・castings — «¿Sería usted mi vicepresidenta?»
+
+- **Objeto y sitio**: el **tablón de la campaña** en un **pasillo de
+  Shuchi'in** (techos con vigas, ventanales altos, luz blanca, ep. 1, 2:40),
+  lleno de **carteles de casting** clavados con chinchetas. En la serie el
+  presidente es el único votado y **él nombra los demás cargos**: un casting
+  (punto 25). **Blender**: corcho, papeles con arrugas, chinchetas; la tinta
+  sigue las arrugas. ⚠️ El tablón de la elección no se vio en un fotograma:
+  es una propuesta, no una escena exacta.
+- **Personaje**: **Miko Iino** (3.ª en AniList y en ねとらぼ), con su
+  **brazalete amarillo** `#EAD558`, clavando un cartel de puntillas (es la
+  más bajita, 147 cm). Base: su [modelo CC BY](https://sketchfab.com/3d-models/miko-iino-161249aab3024609a213b88ae78ab00a)
+  (crédito a gewall) y su cara de alegría
+  ([panel](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/0/0b/Aww_she%27s_happy_that_ishigami_complimented_her.PNG)).
+  Al fondo del pasillo, **Ishigami** con los cascos, mirando de reojo.
+- **Cómo habla**: los carteles con **Archivo Black** (cartel del mundo) y la
+  frase de Miko en la **cartela blanca de marco doble** con Shippori Mincho.
+- **Dónde va cada texto**:
+  1. Cartel grande, arriba del tablón: **«Castings»**.
+  2. Cartel mediano: **«Cada casting es un hilo.»**
+  3. Cartela de Miko: **«¿Sería usted mi vicepresidenta?»** (frase real de
+     Miko en el doblaje, punto 8.1).
+  4. Un cartel con un **sello rojo** encima, `#B43833`: **«Papel cubierto.
+     Se cierra.»**
+  5. Hilo fijado, en un papel más pequeño: **«Cómo se abre un casting: léeme.»**
+- **Para que no quede plano**: la esquina de un cartel **doblándose hacia la
+  cámara**; los ventanales quemados detrás; Ishigami pequeño al fondo; la
+  sombra de la mano de Miko sobre el corcho.
+- **Lámina 2 · las 15 etiquetas** con **Ai Hayasaka** (la 1.ª en Japón) y
+  sus **cuatro personas** (criada, compañera de clase, «Haysaca-chan»,
+  «Haysaca-kun»): «un mismo actor, cuatro papeles». Carteles por grupos:
+  medio (Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro,
+  Canto), paga (Pagado, Sin paga), estado (Abierto, Cerrado, Urgente),
+  Oficial del servidor y +18.
