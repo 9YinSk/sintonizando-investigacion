@@ -189,3 +189,4 @@ los próximos investigadores de vídeo lo intenten así antes de darlo por muert
 | 87-tsukimichi-moonlit-fantasy | video | sonnet | 17 | 219627 |
 | 86-saga-of-tanya-the-evil | redactor (opus) | opus | 19 | 312238 |
 | 87-tsukimichi-moonlit-fantasy | voz | sonnet | 28 | 272460 |
+| 88-konosuba | imagen | sonnet | 14 | 250605 |
