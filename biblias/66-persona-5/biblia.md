@@ -445,7 +445,7 @@ La interfaz de Persona 5 es la razón del encargo: la más copiada de los juegos
 Vídeos mirados de verdad: tráiler #2 del anime, episodio 1 y episodio 18. Carácter cruzado entre la wiki y AniList.
 
 ### Joker · Ren Amamiya
-- **Quién es.** Chico de instituto enviado a Tokio en libertad condicional tras una acusación injusta. Vive en la buhardilla de Leblanc. Líder callado y observador. ✅ ([AniList](https://anilist.co/character/121590) y [wiki](https://megamitensei.fandom.com/wiki/Ren_Amamiya))
+- **Quién es.** Chico de instituto que llega a Tokio marcado y bajo sospecha. Duerme en la buhardilla de Leblanc (nº99). Líder callado y observador, con un fuerte sentido de la justicia. ✅ ([AniList](https://anilist.co/character/121590) y [wiki](https://megamitensei.fandom.com/wiki/Ren_Amamiya))
 - **Qué le importa.** La justicia y la rebeldía. Su primera Persona, **Arsène**, es esa voluntad. ⚠️
 - **Qué transmite.** Aplomo frío por fuera. Da la sensación de que lo tiene todo bajo control, incluso esposado.
 - **Arco.** De marginado bajo sospecha a líder que cambia la sociedad. ⚠️ Deducido de la sinopsis.
@@ -456,7 +456,7 @@ Vídeos mirados de verdad: tráiler #2 del anime, episodio 1 y episodio 18. Car�
   - Dolor, herida junto al ojo ([1:13](https://www.dailymotion.com/video/x6gu5mf?t=73)). ✅
   - Miedo: ojo muy abierto, una lágrima, esposado en el suelo. Episodio 1 ([2:48](https://www.dailymotion.com/video/x6gzgvk?t=168)). ✅
   - Tristeza: manos ensangrentadas a la cara, llora en silencio. Episodio 1 ([5:45](https://www.dailymotion.com/video/x6gzgvk?t=345)). ✅
-- **Dinámicas.** Morgana lo manda a dormir y le jalea en combate. Ryuji es su mejor amigo. Con Akechi, rivalidad cortés sobre un tablero de ajedrez (nº67). Sojiro, el dueño de Leblanc, llora cuando se va (§21).
+- **Dinámicas.** Morgana lo manda a dormir y le jalea en combate. Ryuji es su mejor amigo. Con Akechi, rivalidad cortés sobre un tablero de ajedrez (nº67). Sojiro se quita las gafas para llorar cuando se va (§21).
 
 ### Morgana · Mona
 - **Quién es.** Criatura con forma de gato que habla. Sin memoria, cree que fue humano. En el Metaverso se vuelve un autobús (nº11). ✅
@@ -468,7 +468,7 @@ Vídeos mirados de verdad: tráiler #2 del anime, episodio 1 y episodio 18. Car�
 - **Dinámicas.** Discute con Ryuji; adora a Ann; cuida de Joker.
 
 ### Ann Takamaki · Panther
-- **Quién es.** Modelo, cuarto de sangre extranjera. Años aislada por su aspecto. ✅ ([wiki](https://megamitensei.fandom.com/wiki/Ann_Takamaki))
+- **Quién es.** Modelo. Años aislada por su aspecto, con la sensación de no encajar. ✅ ([wiki](https://megamitensei.fandom.com/wiki/Ann_Takamaki))
 - **Carácter.** Amable y compasiva. Retraída al principio, pero se abre con los suyos. Buena leyendo a la gente: fue la primera en creer en el protagonista. ✅
 - **Qué odia.** Que la juzguen por su aspecto.
 - **Qué transmite.** Fuerza que nace del enfado justo; calidez con los amigos.
@@ -477,7 +477,7 @@ Vídeos mirados de verdad: tráiler #2 del anime, episodio 1 y episodio 18. Car�
 - **Dinámicas.** Regaña a Ryuji; Morgana la corteja y ella lo aguanta.
 
 ### Ryuji Sakamoto · Skull
-- **Quién es.** Ex estrella de atletismo. El profesor Kamoshida le lesionó la pierna. Se declara «el problema» del instituto. ✅ ([wiki](https://megamitensei.fandom.com/wiki/Ryuji_Sakamoto))
+- **Quién es.** Ex estrella de atletismo, con una pierna lesionada. Su pasado con el profesor Kamoshida le pesa. Se declara «el problema» del instituto. ✅ ([wiki](https://megamitensei.fandom.com/wiki/Ryuji_Sakamoto))
 - **Carácter.** Rebelde, travieso, corto de genio. Por dentro, optimista, algo vago y hasta un poco cobarde. ✅
 - **Qué transmite.** Lealtad a lo bruto. Es el que se lanza primero.
 - **Arco.** Del rencor por el pasado a «ser libre» (su cita de §8). Su gran momento: corre con la pierna mala para salvar al grupo (§21).
@@ -485,9 +485,59 @@ Vídeos mirados de verdad: tráiler #2 del anime, episodio 1 y episodio 18. Car�
 - **Caras vistas.** Euforia, puños cerrados ([0:16](https://www.dailymotion.com/video/x6uu26k?t=16)) ✅. Brazos en alto entre chispas ([0:15](https://www.dailymotion.com/video/x4mxiax?t=15)) ✅. Rabia, miedo y vergüenza sin fotograma. ⚠️
 
 ### Los demás, en corto
-- **Makoto Niijima (Queen).** Presidenta del consejo, estudiosa, ama el orden y odia la injustica y sentirse inútil. Su Persona es una moto. 2.ª en las dos encuestas. ⚠️ Sin fotograma propio.
+- **Makoto Niijima (Queen).** Estudiosa, ama el orden y ayudar; odia la injusticia y sentirse inútil. Familia de la fiscal Sae Niijima (§25; ⚠️ por el apellido). Su Persona es una moto. 2.ª en las dos encuestas. ⚠️ Sin fotograma propio.
 - **Futaba Sakura (Oracle).** Hacker encerrada en casa, ansiedad social. Culpa por la muerte de su madre. Vergüenza vista: «W-What do you think?» ([0:24](https://www.dailymotion.com/video/x6uu26k?t=24)). ✅
 - **Yusuke Kitagawa (Fox).** Pintor, alumno de Madarame. Hambre crónica, amor por las langostas ([1:32](https://www.dailymotion.com/video/x6uu26k?t=92)). ✅
 - **Goro Akechi (Crow).** «Príncipe detective» de la tele. Cortés en público, medio sonrisa controlada ([0:29](https://www.dailymotion.com/video/x6gu5mf?t=29)). ✅ Trágico.
-- **Haru Okumura (Noir).** Heredera tratada como objeto por su familia. Jardinera; su arma es un hacha. ⚠️
+- **Haru Okumura (Noir).** Familia del empresario Okumura (§25; ⚠️ por el apellido). Odia que su familia la trate como un objeto. Jardinera; su arma es un hacha. ⚠️
+
+## 14 · Poses analizadas
+
+Clips oficiales de All-Out Attack (cámara fija de cómic), tráileres y anime, más ilustraciones numeradas de las hojas. Cada pose con su uso.
+
+**Joker**
+| Pose | Dónde | Sirve para |
+|---|---|---|
+| Apunta con la pistola al frente, abrigo al viento, rótulo «HOLD UP!» | [0:09](https://www.dailymotion.com/video/x4nn82v?t=9) | Presentar, amenazar |
+| De espaldas, caminando, silueta roja sobre negro | [0:18](https://www.dailymotion.com/video/x4nn82v?t=18) | Animar, salida triunfal |
+| De perfil, ceño fruncido, línea roja de crítico cruzando | [0:21](https://www.dailymotion.com/video/x4nn82v?t=21) | Regañar, advertir |
+| Señala al frente con el dedo, recompensa detrás | [0:24](https://www.dailymotion.com/video/x4nn82v?t=24) | Explicar, dar instrucciones |
+| Máscara puesta, mirada baja, luz azul eléctrica | [1:04](https://www.dailymotion.com/video/x8afeg6?t=64) | Pensar, concentrarse |
+| Mano enguantada sostiene la máscara junto a la cara | nº40 y nº76 | Presentar con su objeto |
+| Mano abierta hacia la cámara, como estrella tapando a los paparazzi | pose de confirmar del menú ([Famitsu](https://www.famitsu.com/news/201711/13145540.html)) | Presentar, «esto es mío» |
+| Salto con la daga, abrigo abierto | nº10, render de *Smash* 5120×5120 | Acción |
+
+**Ryuji**
+| Pose | Dónde | Sirve para |
+|---|---|---|
+| Escopeta en alto, piernas abiertas, «WEAK!» y «HOLD UP!» | [0:09](https://www.dailymotion.com/video/x4mxiax?t=9) | Presentar con fuerza |
+| Brazos en alto entre chispas doradas, boca abierta | [0:15](https://www.dailymotion.com/video/x4mxiax?t=15) | Celebrar |
+| Corre en silueta con dos compañeros | [0:18](https://www.dailymotion.com/video/x4mxiax?t=18) | Animar, avanzar en grupo |
+| Brazos cruzados, ceja alzada, «BRING IT» | [0:21](https://www.dailymotion.com/video/x4mxiax?t=21) | Celebrar, retar |
+| Pulgar arriba y sonrisa de dientes | nº33, 3840×3200 | Animar |
+| Dedos en V junto a Joker y Ann | nº24 | Saludar en grupo |
+
+**Ann**
+| Pose | Dónde | Sirve para |
+|---|---|---|
+| Gira en el aire con el látigo de fuego | [0:06](https://www.dailymotion.com/video/x4nn845?t=6) | Presentar, atacar |
+| Salta con el látigo, Morgana agachado al lado | [0:12](https://www.dailymotion.com/video/x4nn845?t=12) | Presentar en pareja |
+| Grita de victoria a cámara en panel rosa | [0:24](https://www.dailymotion.com/video/x4nn845?t=24) | Celebrar, hablar directo |
+| Manos abiertas explicando, en un puente | [0:24](https://www.dailymotion.com/video/x7cq9qv?t=24) | Explicar |
+| Se ríe hacia atrás, mano cerca de la cara | [0:32](https://www.dailymotion.com/video/x7cq9qv?t=32) | Animar, reír |
+| Brazo en alto, ceño fruncido, regaña | [0:46](https://www.dailymotion.com/video/x6uu26k?t=46) | Regañar |
+| Guiño con lengua fuera | nº32 | Celebrar con picardía |
+
+**Morgana**
+| Pose | Dónde | Sirve para |
+|---|---|---|
+| Salta entre pétalos de rosa, orejas atrás | [0:04](https://www.dailymotion.com/video/x51by64?t=4) | Presentar |
+| Sentado con Ryuji en una escalera, habla al frente | [0:16](https://www.dailymotion.com/video/x51by64?t=16) | Explicar |
+| En silla roja de oficina, patas cruzadas, mirada de lado | [0:28](https://www.dailymotion.com/video/x51by64?t=28) | Regañar, sarcasmo |
+| Ojos muy abiertos, gota de sudor | [0:24](https://www.dailymotion.com/video/x4ppmvg?t=24) | Sorpresa |
+| Sonríe a cámara sobre fondo negro con estrella amarilla | [1:04](https://www.dailymotion.com/video/x4ppmvg?t=64) | Explicar, reflexionar |
+| Sonrisa de dientes, fondo rojo | nº30 | Celebrar |
+| En la barra de Leblanc junto a Joker | nº122 | Acompañar, aconsejar |
+
+**Pensar, en la serie:** Joker y las gemelas en el Velvet Room, cabeza inclinada, calma ([0:12](https://www.dailymotion.com/video/x89juaf?t=12)). ✅
 

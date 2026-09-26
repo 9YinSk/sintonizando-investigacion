@@ -62,7 +62,7 @@ no sobre arte promocional (eso ya lo mide imagen en su punto 16 con wallpapers).
   pantalla («オープニングテーマ「スタートダッシュ!」») a partir del propio capítulo · Captain Tsubasa
   (2018) ep. 1, canción de 1:38 a 3:20 (logo «CAPTAIN TSUBASA» en pantalla a 1:50) · ✅ (créditos en
   vídeo + Mynavi News y Barks lo confirman) ·
-  https://archive.org/details/c-4pt-41n-tsub-4s-4-2018-01· [Mynavi](https://news.mynavi.jp/article/20181003-700628/) ·
+  https://archive.org/details/c-4pt-41n-tsub-4s-4-2018-01 · [Mynavi](https://news.mynavi.jp/article/20181003-700628/) ·
   [Barks](https://www.barks.jp/news/?id=1000160346)
 - Ending del mismo remake: **「燃えてヒーロー」(“Moete Hero”, “Arde, héroe”)**, cantado EN PERSONAJE
   por «大空翼 (cv. 三瓶由布子)» —o sea, la propia voz de Tsubasa Ozora, Yūko Sanpei— con letra de

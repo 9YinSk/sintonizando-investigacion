@@ -4,7 +4,7 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: el encargo no trae wiki (usa --wiki)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es)
 
 ## Doblaje latino: ficha de «Ghost of Tsushima» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/Ghost_of_Tsushima_
@@ -56,6 +56,11 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Ghost_of_Tsushima#Datos%20de%20inter
 - En una entrevista realizada por Malditos Nerds, Alejandro Graue confirmó que para terminar de doblar el juego tuvo que grabar desde casa durante la pandemia del COVID-19. También aseguró que debió interrumpir una de sus sesiones de doblaje a causa del nacimiento de su hija.
 - En una entrevista realizada por Radio Metro, Alejandro Graue mencionó que, mientras el elenco aún no estaba definido, el estudio contrató a un profesor de historia japonesa para preparar a todos los traductores, guionistas, operadores técnicos y directores con la finalidad de hacer un buen trabajo al momento de doblar el juego.
 - Pese a que el personaje del Cazador es una mujer con rasgos masculinos y su actriz de voz es mujer, en el doblaje se optó por usar un actor, resaltando así, más sus rasgos y no su género.
+
+## Jin Sakai · Personality (texto de la wiki)
+_Fuente: https://ghostoftsushima.fandom.com/wiki/Jin_Sakai#Personality_
+
+Raised as a samurai, Jin is rather stoic, reserved and calm. Having been taught to master his emotions, Jin rarely gives into anger or raises his voice. Throughout the game, he's shown to be kind, polite, sympathetic to the inhabitants of Tsushima, and always shows appreciation to those who help him. He is humble, almost never showing signs of arrogance nor ever taking credit for deeds that are not his, though he does demand respect due to his status as a samurai. He could also be very humorous at times, often in the forms of snarky comments. Jin initially adhered to the samurai code of honor like Shimura did, but became disillusioned by it after the samurai's crushing defeat at Komoda Beach and almost dying at the hands of Khotun Khan at Castle Kaneda. Realizing that the Mongols were using the samurai code of honor against Tsushima, Jin chose to start adopting pragmatic ways to fight…
 
 ## Los personajes más dibujados por los fans (Danbooru, 139 dibujos de «ghost_of_tsushima»)
 _Fuente: https://danbooru.donmai.us/posts?tags=ghost_of_tsushima_

@@ -321,8 +321,9 @@ tamaño leído en su API) ✅:
 - Kaguya y Hayasaka de la mano, 2250×4000, 132 favoritos:
   [3zvqed](https://wallhaven.cc/w/3zvqed).
 
-**Sin resultados** (comprobado): Danbooru (Cloudflare) y Safebooru (su API
-de etiquetas no trae ninguna de la serie). El fan art de esta obra vive en
+**Sin resultados** (comprobado): Danbooru (Cloudflare) y
+[Safebooru](https://safebooru.org) (su API de etiquetas no trae ninguna de la
+serie). El fan art de esta obra vive en
 Pixiv y X, que no se buscaron ⚠️.
 
 ## Punto 4 · Sitios nuevos, luz y paleta medida
@@ -479,7 +480,8 @@ Las encuestas (AniList, ねとらぼ, みんなのランキング, サブカル�
 hallazgo de que **Shirogane queda último** están en la biblia 43, punto 7.
 Resumen: AniList, Kaguya 20 513, Chika 16 164, Miko 15 180, Ishigami 14 674,
 Hayasaka 10 924, Shirogane 9128; en Japón gana Hayasaka
-([ねとらぼ](https://nlab.itmedia.co.jp/research/articles/229268/)).
+([ねとらぼ](https://nlab.itmedia.co.jp/research/articles/229268/) y
+[みんなのランキング](https://ranking.net/rankings/best-kaguya-characters)).
 
 **Lo nuevo, ligado a la comedia**:
 - **Chika tiene su propia página en Wikipedia en inglés**, algo raro para
@@ -511,6 +513,8 @@ Estudio **VSI Mexico City** (MilVox en la T3), dirección de Leyla Rangel
 (T1-T2) y Jessica Ángeles (T3); los principales, con dos fuentes y siete
 frases oídas, están en la biblia 43, punto 8
 ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War)).
+La película y el especial recuperaron al elenco original
+([SomosKudasai](https://somoskudasai.com/noticias/kaguya-sama-love-is-war-recupera-al-elenco-de-doblaje-original/), 43).
 
 **Tres secundarios que la 43 dejó con una fuente, ahora con dos** ✅:
 
@@ -599,7 +603,8 @@ están en la biblia 43, punto 9. Lo nuevo:
 
 - **Opening y ending del ep. 2**: los mismos de la T1, «Love Dramatic feat.
   Rikka Ihara» (Masayuki Suzuki) y «Sentimental Crisis» (halca), vistos
-  completos de nuevo (opening hacia 0:56-2:16) ✅. Segunda fuente propia:
+  completos de nuevo (opening hacia 0:56-2:16) ✅. Las versiones limpias no
+  se pudieron bajar: [AnimeThemes](https://animethemes.moe) sigue caído (522). Segunda fuente propia:
   [Wikipedia, temporada 1](https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War_season_1)
   (director, A-1 Pictures, Kei Haneoka, emisión 12-ene a 30-mar-2019) y
   [MusicBrainz](https://musicbrainz.org/release-group/20231932-89cd-4306-93d8-5987ab273576)
@@ -631,7 +636,8 @@ Los tráileres vistos y el ensayo están en la biblia 43, punto 10. Lo nuevo:
   japonesa [kaguya.love/1st](https://kaguya.love/1st/) y el streaming
   ([Crunchyroll](https://www.crunchyroll.com/kaguya-sama-love-is-war),
   [Netflix](https://www.netflix.com/title/81061754),
-  [iQ](https://www.iq.com/album/ofodkfc1h1)) ✅ (AniList).
+  [iQ](https://www.iq.com/album/ofodkfc1h1)) ✅ (AniList); la cuenta oficial
+  en X, [@anime_kaguya](https://twitter.com/anime_kaguya).
 - **Tráiler sin voz en off** de la colección de Turner:
   [turner_video_136312](https://archive.org/details/turner_video_136312) ⚠️
   (no comparado plano a plano).
@@ -660,7 +666,8 @@ Los tráileres vistos y el ensayo están en la biblia 43, punto 10. Lo nuevo:
 
 Los juegos reales (minijuego de navegador de
 [Young Jump](https://youngjump.jp/kaguyasama/zunougame/), la pachislot de
-2025) y el **falso juego de Steam** están en la biblia 43, punto 11. **No
+2025) y el **falso juego de Steam** están en la biblia 43, punto 11 (el
+recolector no halló ninguno en [Steam](https://store.steampowered.com)). **No
 hay** un videojuego de rol o aventura de la franquicia ✅ (43 y texto).
 - [The Cutting Room Floor](https://tcrf.net) no tiene página de la serie ⚠️
   (buscado: no hay juego de consola que desmontar).
@@ -1081,6 +1088,9 @@ llorar** están en la biblia 43, punto 21. Este encargo mira las que hacen
   conocía Monogatari empezó a verla por ella ✅ (Animehunch).
 - **Chika**, la «heroína de todos» según su autor (punto 7).
 
+**Con quién se ríe el público**: con Ishigami, cuya ansiedad social es
+«profundamente identificable» ([GameRant](https://gamerant.com/kaguya-sama-love-is-war-why-yu-ishigami-is-best-boy/), 43).
+
 **Reacciones**: la tendencia del narrador en TikTok (punto 10) y el Chika
 Dance (43). ⚠️ No hay comentarios con votos: Reddit sigue en cuarentena
 ([Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Kaguya_sama),
@@ -1129,7 +1139,8 @@ al enfoque: **la franquicia fabrica sus propios rótulos cómicos**.
   figma ([Good Smile](https://www.goodsmile.com/en/product/9407/figma+Chika+Fujiwara))
   y figura 1/7 de playa de 2020 ([Crunchyroll](https://www.crunchyroll.com/news/latest/2020/7/2/take-chika-fujiwara-from-kaguya-sama-love-is-war-to-the-beach-with-her-newest-17-scale-figure))
   ✅ (la de playa, no para el servidor).
-- **Cosplay**: no hay más fotos con licencia libre que la de la 43 ⚠️; las
+- **Cosplay**: no hay más fotos con licencia libre que la de la 43 en
+  [Openverse](https://openverse.org) ⚠️; las
   tiendas (Miccostumes, EZCosplay, CosDaddy) sólo sirven para ver cortes.
 - ⚠️ Cafés y eventos en japonés («かぐや様 コラボ»): siguen sin buscar.
 
@@ -1318,4 +1329,30 @@ víctima del gag, el secundario del meme y la más querida. Todas hablan con
   cada viñeta con el dedo en el labio (14:40) y Kaguya remata en la última.
 - **Voz para un vídeo**: el diálogo de Tsubasa pidiendo consejo (punto 8)
   como guion de ejemplo **para dos voces**.
+
+## Lo que no pude verificar
+
+- **La parte de voz se cortó tras el punto 8**: los puntos 12, 13, 20, 21 y
+  22 no tienen la búsqueda propia de este encargo (Reddit, fandubs con
+  vistas, encuestas nuevas). Se cubren con las otras partes, el recolector
+  y la biblia 43.
+- **Fotogramas en 1080p**: el episodio de Internet Archive es 1280×720.
+- **El resto del texto del canal #🎞️・edicion**: el inventario lo corta tras
+  «aquí».
+- **El canal «fandub-de-memes»**: lo nombra #😂・memes, pero no sale en el
+  inventario.
+- **Nombres de pista del OST** y el **efecto sonoro** de 20:00: una fuente
+  o un solo visionado.
+- **El premio de Elizabeth Infante** y el cumpleaños de Kei: una fuente o
+  fuentes en choque (§3).
+- **Chistes locales del doblaje** (punto 8.1): sólo Doblaje Wiki, sin oírlos.
+- **Si los 5 modelos 3D de maya_2023 traen esqueleto**: no se abrieron.
+- **Las recetas de Photoshop y Blender** del oro 3D y la trama de puntos son
+  del redactor, sacadas del fotograma, no de un *making of*.
+- **Fotograma propio de los carteles paródicos de la película** y de la
+  casa del terror «Biotic Hazard» (ep. 35): sólo por texto de TV Tropes.
+- **Cafés y colaboraciones en japonés**, Pixiv, ArtStation, DeviantArt,
+  coreano y chino: sin buscar.
+- **Tráileres de Dailymotion** del recolector y la reacción de Darkraimola:
+  sin ver en esta tanda.
 

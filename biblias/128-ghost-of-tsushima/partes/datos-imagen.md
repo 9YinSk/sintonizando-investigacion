@@ -4,7 +4,21 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es) · fandom: el encargo no trae wiki (usa --wiki)
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (juego; usa --tipo anime si lo es)
+
+## Jin Sakai: las imágenes más grandes de la wiki (52 en total)
+_Fuente: https://ghostoftsushima.fandom.com/wiki/Jin_Sakai_
+
+- 3840×1919 · Ghost of Tsushima Key Art.png · https://static.wikia.nocookie.net/ghostoftsushima/images/1/1e/Ghost_of_Tsushima_Key_Art.png
+- 2880×1226 · Jin buries his horse.png · https://static.wikia.nocookie.net/ghostoftsushima/images/b/bb/Jin_buries_his_horse.png
+- 2414×1094 · Jin holds Tenzo at knifepointt.png · https://static.wikia.nocookie.net/ghostoftsushima/images/4/4d/Jin_holds_Tenzo_at_knifepointt.png
+- 2390×1098 · Jin kills Ryuzo.png · https://static.wikia.nocookie.net/ghostoftsushima/images/5/5c/Jin_kills_Ryuzo.png
+- 2370×1094 · Jin Convinces Lord Shimura to use the Hwacha.png · https://static.wikia.nocookie.net/ghostoftsushima/images/7/7d/Jin_Convinces_Lord_Shimura_to_use_the_Hwacha.png
+- 1920×1331 · Jin.png · https://static.wikia.nocookie.net/ghostoftsushima/images/0/08/Jin.png
+- 2315×1096 · The Eagle forces Jin to drink her poison.png · https://static.wikia.nocookie.net/ghostoftsushima/images/1/19/The_Eagle_forces_Jin_to_drink_her_poison.png
+- 2255×1091 · Ishikawa agrees to help Jin.png · https://static.wikia.nocookie.net/ghostoftsushima/images/b/b4/Ishikawa_agrees_to_help_Jin.png
+- 2228×1092 · Lord Shimura Joins the Battle.png · https://static.wikia.nocookie.net/ghostoftsushima/images/7/72/Lord_Shimura_Joins_the_Battle.png
+- 2048×1152 · Ghost-of-Tsushima-Jin-Sakai-Early-Concept-Art-1.png · https://static.wikia.nocookie.net/ghostoftsushima/images/1/16/Ghost-of-Tsushima-Jin-Sakai-Early-Concept-Art-1.png
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_

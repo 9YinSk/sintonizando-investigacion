@@ -410,12 +410,117 @@ usó Dailymotion con `fotogramas.py`):
 
 ### 3.5 Lo que falta ⚠️
 
-- Las **portadas de los 12 tomos** una a una, con tamaño.
-- Los **key visuals** del anime en alta.
+- Las **portadas de los 12 tomos** una a una, con tamaño: sigue sin
+  salir en la segunda pasada (la wiki no las separa por tomo; sólo
+  tiendas de reventa sin medida) ⚠️.
+- ~~Los **key visuals** del anime en alta~~: **resuelto**, 4 key visuals
+  oficiales a 1920×1080 en Zerochan (§17).
 - Las **pausas (eyecatch)** en fotograma: el subtítulo de fans marca su
   sitio (ep. 1, hacia el minuto 10:37 del archivo de fans «zza»; ep. 2,
   12:12; ep. 3, 12:31; sin alinear con Netflix) pero **no trae el
-  texto**.
+  texto** ⚠️. En la hoja 2, nº245, hay una página del manga con el
+  eyecatch nocturno.
+
+### 3.6 Arte oficial con tamaño real (segunda pasada)
+
+Todo de la wiki de Fandom por su API, tamaño leído del archivo ✅.
+
+| Qué | Tamaño | Original |
+|---|---|---|
+| Light de perfil, camisa del instituto (color page de Obata) | 2001×4705 | [299276.jpg](https://static.wikia.nocookie.net/deathnote/images/0/05/299276.jpg) |
+| L de pie, de blanco, pareja de la anterior | 2088×4608 | [299276L.jpg](https://static.wikia.nocookie.net/deathnote/images/7/76/299276L.jpg) |
+| Misa, «Saint Valentine's Day», vestido rojo y calaveras | 3466×5000 | [295978.jpg](https://static.wikia.nocookie.net/deathnote/images/6/60/295978.jpg) |
+| Near, mano en la cara | 3039×5000 | [DN_013.jpg](https://static.wikia.nocookie.net/deathnote/images/8/8b/DN_013.jpg) |
+| L sentado comiendo chocolate | 1352×2200 | [Lfull.jpg](https://static.wikia.nocookie.net/deathnote/images/0/0f/Lfull.jpg) |
+| Ryuk a color, cuerpo entero | 860×1384 | [Ryuk_DN_Coloured.png](https://static.wikia.nocookie.net/deathnote/images/a/a8/Ryuk_DN_Coloured.png) |
+| Grupo del artbook: L, Light, Misa y más | 3326×5000 | [LLightMisa(art-book)](https://static.wikia.nocookie.net/deathnote/images/e/e7/LLightMisa%28art-book%29.jpg) |
+| L en un sillón con Near y Mello detrás (artbook) | 3114×5000 | [LNearMello(art-book)](https://static.wikia.nocookie.net/deathnote/images/6/61/LNearMello%28art-book%29.jpg) |
+| Light y L espalda con espalda, con una cruz | 3467×5000 | [Death_note_4.jpg](https://static.wikia.nocookie.net/deathnote/images/1/19/Death_note_4.jpg) |
+| Near sentado entre juguetes, ventanas con «N» | 3306×5000 | [2079.jpg](https://static.wikia.nocookie.net/deathnote/images/b/be/2079.jpg) |
+| Light de negro entre shinigami | 2435×3485 | [DN_043.png](https://static.wikia.nocookie.net/deathnote/images/8/8a/DN_043.png) |
+| Light, arte nuevo de la exposición de Death Note (rojo, blanco y negro) | 2892×2076 | [Light_new_art_DN_Exhibition](https://static.wikia.nocookie.net/deathnote/images/d/db/Light_new_art_DN_Exhibition.jpeg) |
+| Wallpapers del juego *Othellonia* (Light, L, Light y L, Misa, Near, Mello) | 2208×2208 cada uno | [Light](https://static.wikia.nocookie.net/deathnote/images/a/af/Othellonia_wallpaper_Light.jpg), [L](https://static.wikia.nocookie.net/deathnote/images/3/3f/Othellonia_wallpaper_L.jpg), [Misa](https://static.wikia.nocookie.net/deathnote/images/d/d8/Othellonia_wallpaper_Misa.jpg), [Near](https://static.wikia.nocookie.net/deathnote/images/f/f0/Othellonia_wallpaper_Near.jpg), [Mello](https://static.wikia.nocookie.net/deathnote/images/0/05/Othellonia_wallpaper_Mello.jpg) |
+| Portada y banner del anime | — | [AniList portada](https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg), [banner](https://s4.anilist.co/file/anilistcdn/media/anime/banner/1535.jpg) |
+
+- **El musical** (HoriPro): pósteres y fotos de las giras de Taiwán 2017
+  (6000×4000) y Corea 2015 y 2017 ✅. Son actores reales: sirven para
+  pose, **no para color ni diseño**.
+- **Cuidado en la wiki**: mezcla el anime con las películas de imagen
+  real (2006, *Light Up the New World* 2016), el drama de 2015 y la
+  película de Netflix 2017. En las hojas van marcadas: no las uses como
+  estilo.
+
+---
+
+## Las hojas de contacto
+
+Tres hojas en `hojas/` (JPEG de menos de 1 MB), sacadas de las 12 que
+montó `investigar_serie.py`. **Miradas una a una** por el redactor.
+Cada número lleva debajo su tamaño real y el nombre del archivo en la
+wiki.
+
+**`hojas/arte_oficial_01.jpg`** (nº 1-48)
+
+- **Sirven (anime y manga)**: nº7 Light y L espalda con espalda con la
+  cruz · nº8 Misa «Saint Valentine's Day» · nº9 grupo del artbook ·
+  nº10 L cabeza abajo (DN 022) · nº11 «L Lawliet», L con el dedo en el
+  labio · nº12 Near con juguetes · nº13 L en el sillón con Near y Mello
+  · nº14 Near, mano en la cara · nº15 Light, Misa y L · nº16 y nº17
+  grupos con Ryuk y Rem · nº26 L de blanco y nº27 Light de perfil (la
+  pareja 299276) · nº29 Light de negro entre shinigami · nº31 Near a
+  los 21 años (cartel) · nº34 Light, arte de la exposición · nº36 Near
+  de cuerpo entero · nº37-42 wallpapers de *Othellonia* · nº44 Ryuk
+  (póster, 1720×2500) · nº46 primera aparición de Mello.
+- **No sirven de estilo** (imagen real): nº1-5 y 25 musical de Taiwán,
+  nº18-20 y 28 musical coreano, nº21-24, 30, 45 y 47 películas
+  japonesas, nº6, 32-33, 35, 43 y 48 película de Netflix 2017.
+- **Para qué**: nº8 y nº27 son las poses de Misa y Light de los
+  conceptos A y C; nº11 y nº26 sirven para L «explicando»; nº13 para
+  una lámina en grupo con los sucesores.
+
+**`hojas/colaboraciones_02.jpg`** (nº 241-288)
+
+- **Sirven**: nº241-243 color pages (Light con shinigami, Light
+  tendiendo la mano, Misa con Light) · nº244 cartel de **Universal Jump
+  Summer** (Ryuk con Luffy y Goku) · nº245 página del manga · nº251
+  Ryuk con Light (DN 006) · **nº252-253 Light y Ryuk en 3D de *Jump
+  Force*** · nº255 hoja de modelo de Light a lápiz (Pp140-141) · nº256
+  Light cara a cara con Near · nº258 Near *chibi* de *Jumputi Heroes* ·
+  nº259-260 Mello de cuero rojo · nº261 L de pie, descalzo · nº262
+  página del manga con Near · nº265 Ryuk a color · nº267 Ryuk con una
+  chica que abraza un Death Note (DNP 001, del piloto) · nº268 L y
+  nº271 Near en el anime · nº272 Ryuk en rojo · nº276-285 fotogramas
+  del ep. 1 (ojo rojo del shinigami, sonrisas de Ryuk, Light a
+  contraluz) · nº286 Ryuk en el mundo shinigami · nº287 L empapado ·
+  nº288 Mello en el anime.
+- **No sirven de estilo**: nº246-250, 254, 257, 263-264, 266, 269-270,
+  273-275 (películas, musical, Netflix).
+- **Corrección a la parte de imagen**: *Jump Force* es **nº252-253**, no
+  nº259-260 (esos son Mello). La nº261 es L de pie, no un fondo de
+  Wammy's. La nº267 no es Ryuk con Misa muerta: es Ryuk con una chica y
+  el cuaderno (piloto).
+
+**`hojas/colaboraciones_03.jpg`** (nº 529-540)
+
+- **Sirven**: nº530-531 y nº538-539 colaboración con **LINE Bubble 2**
+  (anuncios con L y Ryuk *chibi*, stickers; el nº538 lleva el plazo
+  «11/30 … 12/3 23:59», sin año) · nº532 **Light le da una patada a L**
+  (página a color del manga, capítulo 45; buena para «regañar») · nº533
+  L en el ep. 25 · nº536 **Death Note the Escape** (sala de escape, con
+  «能力診断», 930×550).
+- **No sirven de estilo**: nº529, 534-535, 537 y 540 (películas,
+  musical coreano 2017, drama 2015).
+
+Originales de las que se citan en los conceptos:
+[Universal_Jump_Summer](https://static.wikia.nocookie.net/deathnote/images/c/c8/Universal_Jump_Summer.jpg) (1400×1027),
+[Jumpforcelight1](https://static.wikia.nocookie.net/deathnote/images/b/ba/Jumpforcelight1.png) (1600×850),
+[ChapterDN045](https://static.wikia.nocookie.net/deathnote/images/6/60/ChapterDN045.jpg) (712×728),
+[DeathNoteL](https://static.wikia.nocookie.net/deathnote/images/9/90/DeathNoteL.png) (871×1480),
+[DNP_001](https://static.wikia.nocookie.net/deathnote/images/a/ac/DNP_001.jpg) (1000×1168),
+[Ryuk_in_the_Shinigami_Realm](https://static.wikia.nocookie.net/deathnote/images/0/04/Ryuk_in_the_Shinigami_Realm.jpg) (1391×782),
+[LINE_Bubble_2_ad_3](https://static.wikia.nocookie.net/deathnote/images/d/dc/LINE_Bubble_2_ad_3.jpg) (800×638),
+[Death_Note_the_Escape_03](https://static.wikia.nocookie.net/deathnote/images/8/86/Death_Note_the_Escape_03.jpg) (930×550) ✅
+(tamaño leído en la API de la wiki, 26-sep-2026).
 
 ---
 
@@ -443,6 +548,30 @@ Personajes en 3D (sólo para mirar poses): [L](https://sketchfab.com/3d-models/l
 y [Light](https://sketchfab.com/3d-models/light-yagami-from-death-note-7d0599365ae141f7b0b65cd55d27a06b),
 de Shah Bakhat026.
 
+**Segunda pasada: licencias leídas en la API de Sketchfab** (campo
+`license.label` de `api.sketchfab.com/v3/search`, 26-sep-2026) ✅.
+*CC Attribution* = **hay que citar al autor** en los créditos.
+
+| Modelo | Autor | Licencia (API) | ♥ | Enlace |
+|---|---|---|---|---|
+| Death Note (cuaderno) | ayoub.oumahou (CG.oum) | CC Attribution | 134 | [38e9f0d](https://sketchfab.com/3d-models/none-38e9f0d0c6944557b6ecf2003f5aa4bb) |
+| Death Note (cuaderno) | rengokukyojuro | CC Attribution | 37 | [9d98c78](https://sketchfab.com/3d-models/none-9d98c78fdeca4846a91b3e474bd5d038) |
+| Death Note (cuaderno) | zevik-es | CC Attribution | 15 | [17e2a68](https://sketchfab.com/3d-models/none-17e2a68603464169b22ea5cdb8572f69) |
+| Death Note anime book fanart | pedrohmm123 | CC Attribution | 14 | [9702482](https://sketchfab.com/3d-models/none-970248251f124cddbfc2b4999c43b713) |
+| Death Note (cuaderno) | ParaGO | CC Attribution | 10 | [d82d654](https://sketchfab.com/3d-models/none-d82d6546f5994f128147748487f64ca8) |
+| Death Note Notebook (más detallado) | Efes3DStudio | **CC Attribution-NonCommercial** | — | [9bbeb99](https://sketchfab.com/3d-models/none-9bbeb99898f14d2cb01f4146a1a7d5c0) |
+| Ryuk from Death Note | PotBin | CC Attribution | 19 | [cf0ccb0](https://sketchfab.com/3d-models/none-cf0ccb0310ea4bdd97122b6183e9e71b) |
+| RYUK | Theo_Prodger | CC Attribution | 8 | [3c21e12](https://sketchfab.com/3d-models/none-3c21e12167fc482db5f5512eb34aff00) |
+| ryuk death note | bakhats110 | CC Attribution | — | [7acb4b1](https://sketchfab.com/3d-models/none-7acb4b1db5d745f4a734686a469cbb89) |
+| L from death note | bakhats110 | CC Attribution | 6 | [5ebc1b2](https://sketchfab.com/3d-models/none-5ebc1b2d188049d18c767283f9c4bdce) |
+| light yagami from Death note | bakhats110 | CC Attribution | 17 | [7d05993](https://sketchfab.com/3d-models/none-7d0599365ae141f7b0b65cd55d27a06b) |
+
+- Los de CG.oum y ParaGO de la tabla de arriba quedan **confirmados
+  CC BY** ✅. Los de Kasuga, OFFICIALSAGAM y el cuaderno a6fe57b no
+  salieron en la API: su licencia sigue ⚠️.
+- **No hay modelo libre de Misa ni de Near** (la API dio 0 y 2
+  resultados sin relación) ⚠️.
+
 ### 4.2 Fan art 2D (mirar, nunca pegar)
 
 | Obra | Autor | Nota |
@@ -463,18 +592,29 @@ ilustraciones, **L月** unas 990, **月L** unas 650, **リューク** unas 450 y
 [リューク](https://www.pixiv.net/en/tags/%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%AF/illustrations)).
 Lo que más se dibuja es **Light con L** (la pareja rival).
 
+**Segunda pasada, fan art con autor** (Safebooru, URL directa leída en
+su JSON) ✅: Misa 3360×4096 de
+[wjaefinbki3azde](https://x.com/wjaefinbki3azde/status/2031964125707022370)
+(el más votado de los cinco); Ryuk 719×1000 vía
+[pixiv](http://img33.pixiv.net/img/saipin/13000916.jpg); Near 4937×8000
+vía [minitokyo](http://gallery.minitokyo.net/view/635498); Light
+3124×4000 (sin origen). Mirar, nunca pegar.
+
 ---
 
 ## 5 · Sitios, luz, paleta y texturas
 
 ### 5.1 Los sitios de la serie
 
-| Sitio | Qué es y cuándo sale | Luz ⚠️ (de memoria) |
+La columna «Luz» es de la primera pasada, de memoria; **la luz y la
+paleta medidas en fotograma están en 5.5** (segunda pasada).
+
+| Sitio | Qué es y cuándo sale | Luz (1.ª pasada, ver 5.5) |
 |---|---|---|
 | **El cuarto de Light** | Escritorio, **cajón con doble fondo** (ep. 2, 00:10:32) ✅, ventana, cama. Aquí lee las reglas (ep. 1, 00:04:32) y hace lo de la papa (ep. 8) ✅ | Noche, lámpara de escritorio cálida, el resto azul oscuro |
 | **El mundo de los shinigami** | Desierto gris con huesos; juegan con **dados de calavera** (ep. 1, 00:02:01: «髑髏サイコロを振る音») ✅ | Gris sin sol, polvo |
 | **El cuartel de la investigación** | Primero hoteles; luego el edificio que construye L. Pantallas por todas partes | Luz de monitores, fría |
-| **La Universidad Tōō** (東応大学) | Donde L se presenta (ep. 9, 00:14:39) ✅. Inspirada en la Universidad de Tokio ⚠️ ([Lemon8](https://www.lemon8-app.com/@japanogcspm/7537973584863003142?region=us)) | Día, luz dura |
+| **La Universidad Tōō** (東応大学) | Donde L se presenta (ep. 9, 00:14:39) ✅. Inspirada en la Universidad de Tokio ⚠️ ([Lemon8](https://www.lemon8-app.com/@japanogcspm/7537973584863003142?region=us)) | **Corregido**: la ceremonia es de interior, gris malva cálido (5.5), no «día, luz dura» |
 | **Sakura TV** | La cadena que emite las cintas de Kira (ep. 11, 00:02:02) ✅ | Plató, focos |
 | **La azotea bajo la lluvia** | L y Light, con **campanas** (ep. 25, 00:10:30 a 00:11:05) ✅ | Gris azul, lluvia |
 | **El almacén Yellow Box** | El final: la cuenta de 40 segundos (ep. 36) y la sangre (ep. 37) ✅ | Luz de naves: tiras de sol entre polvo |

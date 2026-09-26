@@ -1,12 +1,1212 @@
 [
  {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Avatar_Wan_Drawing.jpg",
-  "fuente": "Openverse (wikimedia)",
-  "ancho": 941,
-  "alto": 903,
-  "que_es": "Avatar Wan Drawing",
+  "url": "https://static.wikia.nocookie.net/avatar/images/8/8b/CPrince_Headpiece_Good.png",
+  "fuente": "Fandom avatar",
+  "ancho": 560,
+  "alto": 521,
+  "que_es": "Aang: CPrince Headpiece Good.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/c/cb/URN_icon.png",
+  "fuente": "Fandom avatar",
+  "ancho": 461,
+  "alto": 461,
+  "que_es": "Aang: URN icon.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/2/2f/Featured.png",
+  "fuente": "Fandom avatar",
+  "ancho": 462,
+  "alto": 438,
+  "que_es": "Aang: Featured.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/f/f5/Air_Nomads_emblem.png",
+  "fuente": "Fandom avatar",
+  "ancho": 400,
+  "alto": 400,
+  "que_es": "Aang: Air Nomads emblem.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/3/33/Aang_and_Tagah_confide_in_each_other.png",
+  "fuente": "Fandom avatar",
+  "ancho": 597,
+  "alto": 250,
+  "que_es": "Aang: Aang and Tagah confide in each other.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/5/50/Waterbending_emblem.png",
+  "fuente": "Fandom avatar",
+  "ancho": 360,
+  "alto": 360,
+  "que_es": "Aang: Waterbending emblem.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/4/4b/Firebending_emblem.png",
+  "fuente": "Fandom avatar",
+  "ancho": 360,
+  "alto": 360,
+  "que_es": "Aang: Firebending emblem.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/e/e4/Earthbending_emblem.png",
+  "fuente": "Fandom avatar",
+  "ancho": 360,
+  "alto": 360,
+  "que_es": "Aang: Earthbending emblem.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/8/82/Airbending_emblem.png",
+  "fuente": "Fandom avatar",
+  "ancho": 360,
+  "alto": 360,
+  "que_es": "Aang: Airbending emblem.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/7/74/Fan_Club_becomes_Air_Acolytes.png",
+  "fuente": "Fandom avatar",
+  "ancho": 489,
+  "alto": 250,
+  "que_es": "Aang: Fan Club becomes Air Acolytes.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/0/03/Prince_Zuko_%28Netflix%29.png",
+  "fuente": "Fandom avatar",
+  "ancho": 720,
+  "alto": 480,
+  "que_es": "Zuko: Prince Zuko (Netflix).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/b/b1/Zuko_resolves_to_be_a_better_Fire_Lord.png",
+  "fuente": "Fandom avatar",
+  "ancho": 740,
+  "alto": 250,
+  "que_es": "Zuko: Zuko resolves to be a better Fire Lord.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/4/47/Fire_Nation_emblem.png",
+  "fuente": "Fandom avatar",
+  "ancho": 400,
+  "alto": 400,
+  "que_es": "Zuko: Fire Nation emblem.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/1/14/Zuko_and_Kuei_arrive_at_the_South_Pole.png",
+  "fuente": "Fandom avatar",
+  "ancho": 500,
+  "alto": 315,
+  "que_es": "Zuko: Zuko and Kuei arrive at the South Pole.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/0/0a/Mai_confronting_Fire_Lord_Zuko.png",
+  "fuente": "Fandom avatar",
+  "ancho": 458,
+  "alto": 341,
+  "que_es": "Zuko: Mai confronting Fire Lord Zuko.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/1/10/Zuko_rebuking_his_bodyguards.png",
+  "fuente": "Fandom avatar",
+  "ancho": 250,
+  "alto": 550,
+  "que_es": "Zuko: Zuko rebuking his bodyguards.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/1/16/Zuko_convinces_Mai_to_become_a_teacher.png",
+  "fuente": "Fandom avatar",
+  "ancho": 455,
+  "alto": 250,
+  "que_es": "Zuko: Zuko convinces Mai to become a teacher.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/2/22/Zuko_vs_Tagah.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 250,
+  "que_es": "Zuko: Zuko vs Tagah.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/8/85/Toph_proposes_taking_Liling%27s_bending_away.png",
+  "fuente": "Fandom avatar",
+  "ancho": 969,
+  "alto": 888,
+  "que_es": "Toph Beifong: Toph proposes taking Liling's bending away.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/a/a4/Earth_Kingdom_emblem.png",
+  "fuente": "Fandom avatar",
+  "ancho": 400,
+  "alto": 400,
+  "que_es": "Toph Beifong: Earth Kingdom emblem.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/e/ed/Team_Beifong_help_with_the_Southern_Reconstruction_Project.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 310,
+  "que_es": "Toph Beifong: Team Beifong help with the Southern Reconstruction Project.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/4/4f/Yakone_bloodbending_Toph.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 250,
+  "que_es": "Toph Beifong: Yakone bloodbending Toph.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/e/ec/Toph_helping_Korra.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 250,
+  "que_es": "Toph Beifong: Toph helping Korra.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/a/a4/Toph_and_Lin_reconciling.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 250,
+  "que_es": "Toph Beifong: Toph and Lin reconciling.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/8/8e/Elderly_Toph.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 250,
+  "que_es": "Toph Beifong: Elderly Toph.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/4/45/Korra_and_Asami_kiss_outside_Gaoling.png",
+  "fuente": "Fandom avatar",
+  "ancho": 986,
+  "alto": 495,
+  "que_es": "Korra: Korra and Asami kiss outside Gaoling.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/7/70/Discussion_at_the_sauna.png",
+  "fuente": "Fandom avatar",
+  "ancho": 500,
+  "alto": 480,
+  "que_es": "Korra: Discussion at the sauna.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/1/1d/Korra_tells_Asami_she_loves_her.png",
+  "fuente": "Fandom avatar",
+  "ancho": 650,
+  "alto": 300,
+  "que_es": "Korra: Korra tells Asami she loves her.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/2/20/The_dragon_eel_spirit_threatening_Wonyong.png",
+  "fuente": "Fandom avatar",
+  "ancho": 690,
+  "alto": 250,
+  "que_es": "Korra: The dragon eel spirit threatening Wonyong.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/8/85/Water_Tribe_emblem.png",
+  "fuente": "Fandom avatar",
+  "ancho": 400,
+  "alto": 400,
+  "que_es": "Korra: Water Tribe emblem.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/2/27/Spirit_flowers_attack.png",
+  "fuente": "Fandom avatar",
+  "ancho": 570,
+  "alto": 250,
+  "que_es": "Korra: Spirit flowers attack.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/9/92/Iroh_makes_tea_for_spirits.png",
+  "fuente": "Fandom avatar",
+  "ancho": 646,
+  "alto": 333,
+  "que_es": "Iroh: Iroh makes tea for spirits.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/6/68/General_Iroh_planning.png",
+  "fuente": "Fandom avatar",
+  "ancho": 400,
+  "alto": 450,
+  "que_es": "Iroh: General Iroh planning.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/e/e0/Keung_demands_Iroh%27s_death.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 401,
+  "que_es": "Iroh: Keung demands Iroh's death.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/f/f1/Iroh_and_Li-Mei.png",
+  "fuente": "Fandom avatar",
+  "ancho": 534,
+  "alto": 333,
+  "que_es": "Iroh: Iroh and Li-Mei.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/7/78/June_and_Iroh_defeat_Keung.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 400,
+  "que_es": "Iroh: June and Iroh defeat Keung.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/1/17/Iroh_changes_ways.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 325,
+  "que_es": "Iroh: Iroh changes ways.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/avatar/images/a/a4/General_Iroh_and_Lu_Ten.png",
+  "fuente": "Fandom avatar",
+  "ancho": 444,
+  "alto": 321,
+  "que_es": "Iroh: General Iroh and Lu Ten.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/338/2bd45e5002c8d86f0f2e396ce764b31d83894ad1.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 995,
+  "alto": 995,
+  "que_es": "Fan art de aang (http://DS-Hina.deviantart.com/art/ATLA-Four-Letter-Word-130724048)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/899/74b0da3a9d398b8fa08ea3332bfb70fe.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1708,
+  "que_es": "Fan art de aang (http://fc08.deviantart.net/fs71/i/2012/251/9/6/brave_soldier_boy_by_ceshira-d5e11n6.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1469/b0bb41faea9c6f5b199dcebe35d7a22a3416f3ef.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3355,
+  "alto": 2167,
+  "que_es": "Fan art de aang (http://i3.pixiv.net/img-original/img/2015/01/19/11/56/07/48258762_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/848/b75c6248de38b4c7b2b3057b550a15df30a897ad.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 961,
+  "alto": 765,
+  "que_es": "Fan art de aang (http://gingashi.deviantart.com/art/Avatar-after-309053378)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2176/ed28257ffae8c4cf448a8b7efadc4f4a154aad7e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1350,
+  "que_es": "Fan art de aang (http://michaelmatsumoto.tumblr.com/post/123404775254/well-folks-im-excited-for-sdcc-2016-bryan-and)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/838/4e519b9adf8ebd4623597cc4ad806f5b44c97496.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 2162,
+  "que_es": "Fan art de aang (http://img27.pixiv.net/img/eelsevilla/27287160.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/705/c5d14801c81f891355dca8fa71bbd605.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 778,
+  "que_es": "Fan art de zuko (http://img14.pixiv.net/img/kelly1412/21116198.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/91/e3261ea50c257a37c4158cc2bc5004ccaf4cf920.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 950,
+  "alto": 708,
+  "que_es": "Fan art de zuko (http://charlie140588.deviantart.com/art/Commission-Zuko-Toph-136467833)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1842/27a563369ab28a2ced6c6ea9c38c4b393cd90d73.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3195,
+  "alto": 4096,
+  "que_es": "Fan art de toph_beifong (https://x.com/azc2003/status/2033986588284481784)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1842/3ec16f14d7c912c8a51d8a49172f24fda1a53d24.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2828,
+  "alto": 4000,
+  "que_es": "Fan art de toph_beifong (https://x.com/JOSHININAROUND/status/2034689937820491911)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4383/8065330f3682fdaca07093d77b7ac9ed3edcdb1d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 662,
+  "alto": 662,
+  "que_es": "Fan art de toph_beifong (file://_pontyk__1600443908_2401019983928376971_35584818375.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1547/1eb9cc8a1adce25059a822cdf505b267857b82da.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1100,
+  "alto": 712,
+  "que_es": "Fan art de toph_beifong (https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b329ad6c-3677-43fb-9430-e6d3275b63ce/d57ssaq-d734913a-a30c-4183-bf1b-dc27a37664fe.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IzMjlhZDZjLTM2NzctNDNmYi05NDMwLWU2ZDMyNzViNjNjZVwvZDU3c3NhcS1kNzM0OTEzYS1hMzBjLTQxODMtYmYxYi1kYzI3YTM3NjY0ZmUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j0sRCpLIgPBFxNz32COmo6IKCGrHX9gXGEdHSCympTI&amp;filename=pai_sho_by_roggles_d57ssaq.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/7/9ae9b0585ebe3eec7ecb396b1cc4b8a98fb728c2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2464,
+  "alto": 3752,
+  "que_es": "Fan art de toph_beifong (https://twitter.com/PM_611a/status/1885293806624661592)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/520/fc27b6b8c36b1a2536a9774865308bdd1e9e0f54.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2806,
+  "alto": 3815,
+  "que_es": "Fan art de toph_beifong (https://twitter.com/Polluxery/status/1815167760777007535)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/845/549f2e9ffe7925292e08022cc5bb312b8b004c24.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 385,
+  "alto": 900,
+  "que_es": "Fan art de korra (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1690/3ae15110436d10fba2737183d1c114a7bf6f1d61.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 540,
+  "alto": 699,
+  "que_es": "Fan art de korra (http://iahfy.tumblr.com/post/144627049255/modern-korra-v2-patreon-art-blog)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3310/36b7d7d20dd8f1162020c3a95b23d1d1a42ecaab.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1522,
+  "alto": 1243,
+  "que_es": "Fan art de korra (https://twitter.com/unoobang/status/1384169751266480137)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/860/980702b06be1b545fb077c4208232b50067713ca.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1200,
+  "que_es": "Fan art de korra (http://www.deviantart.com/download/313531425/korra_aura_by_artgerm-d56o2e9.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1014/e52c3d4d5f5b5bba725e8d15d295bcbbb91bda44.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 600,
+  "alto": 968,
+  "que_es": "Fan art de korra (http://iahfy.tumblr.com/post/109135479555/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2803/49240ca45e8b7055f25789fb50e877eb1365fa7c.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2818,
+  "alto": 4689,
+  "que_es": "Fan art de yang_xiao_long (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1061/ba179a56495e5fa880a0cb6c3292a16ed5dfe057.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 826,
+  "que_es": "Fan art de yang_xiao_long (http://i1.pixiv.net/img41/img/sure040821/38641393.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1024/a199d49ae0bdfd95c8b4f85b076adccfdf7696eb.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3780,
+  "alto": 4096,
+  "que_es": "Fan art de yang_xiao_long (https://twitter.com/Hiru3152/status/1829740838718787930)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2599/8ae867e63d2111e7fb8020a9c05714904353ea59.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 649,
+  "alto": 945,
+  "que_es": "Fan art de yang_xiao_long (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=71948462)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2321/9ed538778bf8d847e07c5c554b5d5bb45d320274.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2802,
+  "alto": 2172,
+  "que_es": "Fan art de yang_xiao_long (https://twitter.com/ot_tey_san/status/945119578673201153)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2200/eb5bce4f375adb56c548be3cd874af7f00ca737d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 640,
+  "que_es": "Fan art de yang_xiao_long (https://i.pximg.net/img-original/img/2017/05/22/00/44/21/63012793_p1.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/341/90882d9cc8205320fbefeb575a78e62654e896f1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2770,
+  "alto": 1867,
+  "que_es": "Fan art de bayonetta (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2563/297270b40251ce20bdf5d8c0e9e7fa68c692c252.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2169,
+  "alto": 3300,
+  "que_es": "Fan art de bayonetta (https://www.reddit.com/r/smashbros/comments/1h0dx0r/smash_but_its_a_tactics_rpg/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2869/2a3049f3cd5aa3036e5eabb311640418d016c4d7.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2500,
+  "alto": 1273,
+  "que_es": "Fan art de bayonetta (https://i.pximg.net/img-original/img/2020/01/18/11/04/29/78959925_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1016/16ac52b5d9497dc5ea7d0493d4cb0a3c17c3b769.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 497,
+  "que_es": "Fan art de bayonetta (http://i1.pixiv.net/img83/img/hiraki_ajino/36450731_big_p5.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1043/c96a30c3564868abb7400fc475e0921b8be3a1de.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 980,
+  "alto": 1400,
+  "que_es": "Fan art de bayonetta (http://www.deviantart.com/art/Bayonetta-2-377361680)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3527/ca8f2aafb80215dbb3cabdca283e5be692cf524a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1459,
+  "alto": 1707,
+  "que_es": "Fan art de bayonetta (https://twitter.com/zenkiro_/status/1446525064372002829)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1063/b9ca8a3d1d962458bbf1c1e684114c60daba1e18.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 1171,
+  "que_es": "Fan art de marceline_abadeer (http://i1.pixiv.net/img43/img/l8308032/38459162.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3160/3aee02bfd4d64b6feef100a6c727cad1c51b02ad.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 987,
+  "que_es": "Fan art de marceline_abadeer (https://twitter.com/nak4675/status/1332946482459070464)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1064/154771dfac338e8c74005361bf583bf72294455e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1240,
+  "alto": 1754,
+  "que_es": "Fan art de marceline_abadeer (http://i2.pixiv.net/img36/img/anya-noir/36048509.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3482/6e89c230194579a1212e3845d9b6d6bee6d2dd9f.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 846,
+  "alto": 821,
+  "que_es": "Fan art de marceline_abadeer (https://twitter.com/_Myrarose_/status/1411100002357858306)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3062/c6d5adb6853dcdc911b0011d7f02d7c2496410ab.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 2919,
+  "que_es": "Fan art de marceline_abadeer (https://twitter.com/OmyChan2/status/1295517616380039176)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1063/95879f31e174e09f4fbf52b731532a3f25d7079e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Fan art de marceline_abadeer (http://i2.pixiv.net/img90/img/magicangel13/30949066.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1377/7d34e32787f80472d5c8345028f881b7228ab16a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 692,
+  "alto": 824,
+  "que_es": "Fan art de princess_bonnibel_bubblegum (http://i3.pixiv.net/img-original/img/2015/03/10/02/06/12/49192338_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3742/7e369b8ae4dab64811c1337b4bf6fe6992f374ae.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2069,
+  "alto": 1451,
+  "que_es": "Fan art de princess_bonnibel_bubblegum (https://www.reddit.com/r/jerma985/comments/teg883/the_most_insane_commission_ive_done/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3296/40223eec13034a9ac6fcccf7b425735487a9b0a4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1198,
+  "alto": 1481,
+  "que_es": "Fan art de princess_bonnibel_bubblegum (https://casanovakevin.tumblr.com/post/154406166415)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/e7/wallhaven-e7wqdk.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3085,
+  "alto": 4047,
+  "que_es": "Fondo de pantalla (The Legend of Korra, Kuvira (The Legend of Korra), TV series, brunette, holding hair, looking at viewer)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/z8/wallhaven-z8jvzj.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4000,
+  "alto": 2552,
+  "que_es": "Fondo de pantalla (illustration, artwork, digital art, fan art, drawing, fantasy art)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Psychofruit; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/l3/wallhaven-l3jd8q.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2400,
+  "alto": 3597,
+  "que_es": "Fondo de pantalla (Korra (The Legend of Korra), The Legend of Korra, animated series, Nickelodeon, fictional character, brunette)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/4o/wallhaven-4o3gj7.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (elements, Alphonse Mucha, Avatar: The Last Airbender, The Legend of Korra, Korra (The Legend of Korra), Avatar Kyoshi)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/o3/wallhaven-o37ve7.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2970,
+  "alto": 4590,
+  "que_es": "Fondo de pantalla (Asami Sato, The Legend of Korra, Nickelodeon, green eyes, looking at viewer, cleavage)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/nm/wallhaven-nmyzv8.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (The Legend of Korra, elements, four elements, Avatar: The Last Airbender, Nickelodeon, fire)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por TheVulture; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/49/wallhaven-49omp8.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fondo de pantalla (The Legend of Korra, Korra (The Legend of Korra), drawing, elements, artwork, women)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por YUYU; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/g7/wallhaven-g76373.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Korra (The Legend of Korra), The Legend of Korra, Krys Decker, cartoon, Avatar: The Last Airbender, digital art)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por saber83; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6q/wallhaven-6qdo1x.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Avatar: The Last Airbender, The Legend of Korra, Avatar Wan, fantasy art, TV series, fantasy men)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por canadianakin; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/7j/wallhaven-7jp7de.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2400,
+  "alto": 3597,
+  "que_es": "Fondo de pantalla (Korra (The Legend of Korra), The Legend of Korra, artwork, drawing, digital art, brunette)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/47/wallhaven-47zlyn.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (The Legend of Korra, Korra (The Legend of Korra), Avatar, water, fantasy girl, dark hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por padital; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/m9/wallhaven-m97oe9.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2400,
+  "alto": 3597,
+  "que_es": "Fondo de pantalla (Asami Sato, The Legend of Korra, TV series, Nickelodeon, black hair, red lipstick)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/nk/wallhaven-nkwr81.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Avatar: The Last Airbender, Aang (Avatar: The Last Airbender), The Legend of Korra, anime boys, anime girls)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por beastums; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/r7/wallhaven-r79r51.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fondo de pantalla (Avatar: The Last Airbender, Aang (Avatar: The Last Airbender), Korra (The Legend of Korra), artwork, Avatar Roku, Qinni)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zm/wallhaven-zmrlew.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Korra (The Legend of Korra), The Legend of Korra, bare midriff, simple background)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por tiv311; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-b44919e94c204f5d83081a25d704f4e5",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Korra // The Legend of Korra // The Avatar de jonas_hilschmann",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-085e432a2c254176b1d0d770adc8a637",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Korra de asifsaj",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ef6c538b77334ba2ab968f2c3e2765b0",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Asami - The Legend of Korra de Chechorams16",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-02b61d2a47aa4939b190ad4d4c876e5e",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Vaatu: The Legend Of Korra de benee",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-06d7d2d338894c1e9133b0179e4bbcb9",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Korra (Legend Of Korra Game) de LombaxLover2K",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-48dc8f57d36148738e22cfb51d9323a8",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Kuvira - The Legend of Korra de Chechorams16",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-dcd8563eed2d42d09798991f93284809",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Avatar Symbol de rodrivgm",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-5d96228c5c8b465e9f51528c44a87731",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Aang(The Last Airbender) de Art_Fm_By_Maxos",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8445/7813036242_31c8466505_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Darlings: Legend of Korra",
   "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-SA 4.0, autor Axis de Hemcuna",
+  "licencia": "CC BY-NC-SA 2.0, autor Ochre Jelly",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8073/8413856447_51e456314b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Avatar - Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/4694/38510236780_463d917fd8_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 769,
+  "alto": 1024,
+  "que_es": "WonderCon 2016: The Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Eras Photography",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7430/10587070773_87b392a219_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 684,
+  "que_es": "Legend of Korra Team: Joaquim Dos Santos, Bryan Konietzko, and P.J. Byrne",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor edwick",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/5485/10586805455_078c5f36b1_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 684,
+  "que_es": "'The Legend of Korra' - Janet Varney",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor edwick",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8194/8085038468_ff9c20083e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 678,
+  "que_es": "'Legend of Korra' Group Shot (Plus One Guest)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor edwick",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8144/7593260184_5752143cf0_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Legend of Korra cast",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Gage Skidmore",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8175/8070937202_aa61da168b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "The Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor Chau kar",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/51890132175_9519b7d819_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 767,
+  "que_es": "Shooting Korra - Avatar The Legends Of Korra - Pandore - Mont Aigoual…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/3856/33402881855_34f911c1f2_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Shooting Avatar, the legend of Korra - bruxelles - 2017-03-04- P2010453",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/5499/9348037902_17e499a063_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "SDCC13 - Legend of Korra cosplay",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor W10002",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8117/8604584353_7f9d0abe58_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Sakura-con 2013 Cosplay - The Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor camknows",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8432/7588263852_7b6bc5103f_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Nickelodeon's Legend of Korra Signing",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor jwelcher",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Legend_of_Korra_cast_%287593260184%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 4752,
+  "alto": 3168,
+  "que_es": "Legend of Korra cast (7593260184)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Gage Skidmore from Peoria, AZ, United States of America",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7301/9547839008_6096bb1012_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Korra from Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor smashcon",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7129/7491189924_eae91c907b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 682,
+  "alto": 1024,
+  "que_es": "Legend of Korra cosplay",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor fireflythegreat",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/5468/9597018876_c6c0262d39_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Otakon 2013 - Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor heath_bar",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8182/8070945572_0ab32034cf_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "The Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor Chau kar",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8036/8058460342_b394d28889_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "The Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Chau kar",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8452/8058459909_6dfba0e821_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "The Legend of Korra",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Chau kar",
   "origen": "recolectar.py"
  }
 ]
