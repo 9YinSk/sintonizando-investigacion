@@ -129,3 +129,40 @@ Zelda **cambia de estilo en cada era** (a propósito, según su propio director 
 
 **Vocabulario propio que un fan reconoce al instante** ✅: Hyrule, Trifuerza, Espada Maestra, Rupia (moneda), Corazón (vida), Ganon / Ganondorf / Calamity Ganon, Hylia, Hyliano, Kokiri, Korok (y sus semillas coleccionables), Zora, Goron, Gerudo, Sheikah, Zonai, Guardianes, Bestias Divinas, Campeones (Champions), Sabios (Sages), Sheikah Slate / Purah Pad, Malicia (Malice). Frases fijas del propio juego (inglés original, sin doblaje de voz en los diálogos): *«It's dangerous to go alone! Take this»* (Zelda 1986), *«Hey! Listen!»* (Navi, Ocarina of Time), *«It's a secret to everybody»* — la traducción exacta al español de estas frases en las localizaciones oficiales no la verifiqué con una fuente ⚠️.
 
+
+## Lo mejor para la lámina
+
+- El **Sheikah Slate/Purah Pad** es un objeto real en la mano de Link, modelable en Blender, con pantalla propia para el texto del canal: cumple la regla nº1 del dueño («objeto real en un sitio real») mejor que cualquier panel de interfaz suelto.
+- La caja de diálogo de **Breath of the Wild** (cápsula negra translúcida #1F2315, esquinas redondas, nombre pequeño arriba-izquierda, texto blanco cursiva) es el cuadro «propio» de la serie más reconocible: nada de burbuja blanca genérica.
+- **Hylia Serif** (gratis) + el **Ojo Sheikah** o la **Cresta Hyliana** dan tipografía y emblema coherentes sin depender de fuentes de pago como Charlemagne o FOT-Rodin.
+- Para el estilo visual: si la lámina va en clave BOTW/TOTK, nada de contorno negro duro (es pictórico, sin línea); si va en clave Wind Waker/manga, sí lleva contorno con el método inverted hull (Blender) o línea de 2-3 px en gris muy oscuro (Photoshop).
+- El símbolo Gerudo original (luna+estrella) NO se debe usar: Nintendo lo retiró por su asociación religiosa; usar el diseño posterior si aparece un personaje Gerudo.
+
+## No encontré
+
+- La fuente exacta de diálogo de Breath of the Wild más allá del nombre comercial FOT-Rodin (de pago, no descargable para comprobar con fontTools) ⚠️ — búsqueda: «Breath of the Wild dialogue font name identify» (inglés).
+- Una réplica libre fiable de la serif agrietada del logo de Tears of the Kingdom ⚠️ — búsqueda: «Tears of the Kingdom font UI typeface» (inglés).
+- El motor gráfico exacto de BOTW/TOTK sólo lo nombra la comunidad de moddeo («KingSystem»), sin confirmación oficial de Nintendo ⚠️ — búsqueda: «Nintendo EPD Breath of the Wild engine tools Maya proprietary» (inglés).
+- Capturas propias de Game UI Database (bloqueado por Cloudflare/403 a curl; sin navegador headless instalado en el contenedor para navegar.py; Wayback Machine tampoco sirvió la página) ⚠️ — usé en su lugar el dossier ya medido del equipo (`_Cuadros de dialogo por franquicia`) y otras fuentes técnicas (CloudModding, ZeldaMods, GitHub de herramientas de modding).
+- The Cutting Room Floor (tcrf.net) da 403 a curl con y sin user-agent de navegador, y a su api.php igual; usé los resúmenes de búsqueda web en su lugar (textos sin usar de Ocarina of Time, prototipos de Breath of the Wild) ⚠️ — no pude leer las páginas completas de TCRF.
+- El estilo exacto de los globos de diálogo del manga de Himekawa (grito, pensamiento) por comparación general con la convención shonen de la época, no por ver una página del manga ⚠️ — el diseño de página lo cubre el investigador de imagen.
+- Traducción oficial al español latino de frases icónicas de los juegos («It's dangerous to go alone», «Hey! Listen!») ⚠️ — los juegos de Zelda no llevan doblaje de voz en el diálogo, así que no hay clip de doblaje que verificar como en una serie animada.
+
+## Bitácora
+
+- Búsquedas en inglés (WebSearch, ~14): tipografía del logo, diálogo BOTW/TOTK/OoT/WW, Game UI Database, cel-shading Wind Waker (inverted hull, Miyamoto/Aonuma), estilo pictórico BOTW (Takizawa, Aonuma, Jōmon), Skyward Sword impresionista (Cézanne), motor y herramientas de Nintendo EPD, Shadow of the Colossus/Elden Ring/Skyrim como influencias cruzadas, Tolkien y la infancia de Miyamoto, Hyrule Historia y la cronología en tres ramas, Triforce/Escudo Real/Ojo Sheikah/símbolo Gerudo, TCRF Ocarina of Time y Breath of the Wild.
+- Descargas y comprobación con fontTools (tildes, ñ, ¿, ¡): Hylia Serif, TLOZ Minish Cap/ALttP/Four Sword, Return of Ganon, Reggae One y RocknRoll One (Google Fonts, vía Fontsource) — las 5 descargadas y comprobadas de verdad, no de memoria.
+- Consultas a la API de Fandom (zelda.fandom.com/api.php, sin bloqueo): wikitext de «List of fonts used in The Legend of Zelda logos», «Eye Symbol», «Hylian Crest»; búsqueda de imágenes con imageinfo para 3 símbolos (Ojo Sheikah, Cresta Hyliana, Trifuerza).
+- Bloqueos encontrados: dafontfree.net/zeldauniverse.net dieron 402 a WebFetch directo (rodeado buscando el contenido por otra vía o con caché de búsqueda); Game UI Database y TCRF dieron 403 tanto a curl como a WebFetch, y navegar.py falló porque el contenedor no tiene el navegador headless instalado (chrome-headless-shell ausente) — lo anoto para que el jefe lo sepa, no es un fallo mío de no intentarlo.
+- No usé git ni toqué biblia.md; sólo escribí en partes/texto.md y partes/texto.json.
+
+## Cumplimiento de mis puntos (5, 6, 11, 18, 24, 25)
+
+Punto | Estado | Por qué
+---|---|---
+5 · Tipografía | ✅ | 8 usos cubiertos, 5 fuentes descargadas y comprobadas con fontTools de verdad (tildes/ñ/¿/¡), fuentes Hylian/Sheikah/Gerudo/Zonai listadas con fuente
+6 · Cuadros de diálogo | ✅ | 6 juegos + manga, con colores medidos (heredados del dossier del equipo) y qué NO hacer
+11 · Videojuegos: interfaz | ✅ | 6 juegos con su menú/interfaz, con tamaños técnicos reales donde los hubo
+18 · Estilo y cómo replicarlo | ✅ | estilo por 6 eras con entrevistas citadas, motor/programas, pasos concretos de Blender y Photoshop; rigs y tramas remitidos a los puntos 3 y 19 como se pidió
+24 · Obras parecidas | ✅ | influencias en ambas direcciones con fuente, choque de canal revisado contra biblias/ existentes
+25 · Mundo, historia y símbolos | ✅ | reglas en 5 líneas, cronología oficial en 3 ramas, 4 símbolos con cita oficial, vocabulario propio

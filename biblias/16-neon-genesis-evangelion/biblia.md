@@ -970,15 +970,18 @@ discute cuál es «el bueno»** (hay hilos enteros: [foros eldoblaje](https://ww
 [grupo de Facebook](https://www.facebook.com/groups/1261902114792639/posts/1368629127453270/),
 [Atamashi: «Fans se quejan por el doblaje latino»](https://atamashi.net/38153-2/)).
 
-No pude abrir la API de Doblaje Wiki (403). Los nombres salen de los
-extractos de búsqueda de varias webs; en la tabla digo cuáles.
+En la primera pasada la API de Doblaje Wiki daba 403 y los nombres
+salieron de extractos de búsqueda. **En la segunda pasada sí se leyó el
+wikitext** de las fichas [Neon Genesis Evangelion](https://doblaje.fandom.com/es/wiki/Neon_Genesis_Evangelion)
+y [Renewal of Evangelion](https://doblaje.fandom.com/es/wiki/Renewal_of_Evangelion)
+por la API, y se cruzó con [AniList](https://anilist.co/anime/30).
 
 ### 10.1 Los tres doblajes de la serie
 
 | Doblaje | Dónde se vio | Estudio y dirección | Estado |
 |---|---|---|---|
 | **1.º, el original** | **Locomotion**, estreno el **1 de noviembre de 1999**, un año en exclusiva | Dirección de **Enrique Cervantes** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Neon_Genesis_Evangelion), por extracto). Estudio **Roman Sound** ✅ (la guía de cuadros y [Dub Database](https://dubdb.fandom.com/wiki/Neon_Genesis_Evangelion_(Latin_American_Spanish,_Roman_Sound))) | ✅ |
-| **2.º, *Renewal of Evangelion*** | **Animax** ✅ (Internet Archive y Dub Database lo llaman «Latino Animax») | ⚠️ no lo encontré. Su reparto (Georgina Sánchez, Marisol Romero) **pasó al de Netflix** | ✅ |
+| **2.º, *Renewal of Evangelion*** | **Animax** ✅ (Internet Archive y Dub Database lo llaman «Latino Animax») | **Grabaciones y Doblajes Internacionales**, dirección de **Gerardo García**, grabado en **2007** y emitido en **2008** ⚠️ (segunda pasada; sólo lo dice [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Renewal_of_Evangelion), no hallé otra fuente). Su reparto (Georgina Sánchez, Marisol Romero) **pasó al de Netflix** | ✅ |
 | **3.º, Netflix** | Netflix, **21 de junio de 2019** | **Audiomaster Candiani** (producción de VSI Group), dirección de **América Torres**, traducción de **Andrés Magos** ✅ ([Cine Premiere](https://cinepremiere.com.mx/neon-genesis-evangelion-netflix-doblaje.html), [Xataka México](https://www.xataka.com.mx/streaming/neon-genesis-evangelion-llega-a-netflix-tercer-doblaje-latino-para-mexico-estas-nuevas-voces-personajes), [Spoiler Time](https://spoilertime.com/noticia/evangelion-nuevo-doblaje/)) | ✅ |
 
 **Rasgos del doblaje original** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Neon_Genesis_Evangelion), por extracto; y la guía de cuadros):
@@ -998,14 +1001,19 @@ extractos de búsqueda de varias webs; en la tabla digo cuáles.
 | **Rei Ayanami** | **Circe Luna** ✅ | **Circe Luna** ✅ | **Circe Luna** ✅ |
 | **Asuka Langley** | **Norma Echevarría** ✅ (fallecida) | **Georgina Sánchez** ✅ (ya la hizo en *Renewal*) | **Georgina Sánchez** ✅ |
 | **Misato Katsuragi** | **Toni Rodríguez** ✅ (1969-2021) | **Marisol Romero** ✅ (ya la hizo en *Renewal*, Animax) | **Luciana Falcón** ✅ |
-| **Gendo Ikari** | ⚠️ un actor mexicano nacido en 1957, conocido por Raditz; **no pude sacar el nombre** | **Idzi Dutkiewicz** ✅ (Tony Stark, Toretto, Hit) | **Javier Gómez** ⚠️ |
+| **Gendo Ikari** | **Humberto Solórzano** ✅ (segunda pasada: Doblaje Wiki por la API y [AniList](https://anilist.co/character/1257)); repite en *Renewal* | **Idzi Dutkiewicz** ✅ (Tony Stark, Toretto, Hit) | **Javier Gómez** ⚠️ |
 | **Kaworu Nagisa** | **Ernesto Lezama** ✅ (retirado) | **Alberto Bernal** ✅ | **Federico Llambí** ✅ |
-| **Ritsuko Akagi** | ⚠️ | **América Torres** ✅ (la directora) | **Noelia Socolovsky** ⚠️ |
+| **Ritsuko Akagi** | **Maru Guerrero** ✅ (Doblaje Wiki y [AniList](https://anilist.co/character/1251)) | **América Torres** ✅ (la directora) | **Noelia Socolovsky** ⚠️ |
 | **Kōzō Fuyutsuki** | Jesse Conde ⚠️ (vuelve en Netflix, según un extracto) | **Jesse Conde** ✅ (Tigger, Stan Lee) | **Lucas Medina** ⚠️ |
 | **Makoto Hyūga** | Enzo Fortuny ⚠️ (vuelve en Netflix, según un extracto) | **Enzo Fortuny** ⚠️ | Juan Balvín ⚠️ |
 | **Mari Makinami** | — | — | **Mireya Mendoza** ✅ (desde *2.22*) |
 | Maya Ibuki | ⚠️ | ⚠️ | Andrea Higa ⚠️ |
 | Ryōji Kaji | ⚠️ | ⚠️ | Sebastián Castro Saavedra ⚠️ |
+
+**Del doblaje original y de *Renewal*, a una sola fuente** (Doblaje Wiki,
+segunda pasada) ⚠️: Yui Ikari, **Belinda Martínez**; Naoko Akagi, **Rebeca
+Patiño**; Shinji de niño, **Alondra Hidalgo**; en *Renewal*, Ritsuko es
+**Gabriela Gómez** y Fuyutsuki, **Rolando de Castro**.
 
 Fuentes de la tabla:
 - **Netflix, reparto entero**: [Dub Database: Netflix](https://dubdb.fandom.com/wiki/Neon_Genesis_Evangelion_(Latin_American_Spanish,_Netflix))
@@ -1037,8 +1045,41 @@ Fuentes de la tabla:
   lo usa la wiki en español ([Evangelion Wiki ES](https://evangelion.fandom.com/es/wiki/Shinji_Ikari))
   y los edits de TikTok ([ejemplo](https://www.tiktok.com/@mangeel_07/video/7386463894581054726)).
   **No confirmé** que sea la frase exacta de ninguno de los tres doblajes ⚠️.
-- **No encontré** con fuente cómo dicen en latino «あんたバカ？», «笑えばいい
-  と思うよ» ni «歌はいいね». Míralo en los vídeos de §12 antes de rotular.
+- **No encontré** con fuente cómo dicen en latino «あんたバカ？» ni «歌はいいね».
+  Míralo en los vídeos de §12 antes de rotular ⚠️.
+
+**Segunda pasada: frases oídas en los episodios doblados** ✅. En Internet
+Archive está el ítem [`26-neon-genesis-evangelion`](https://archive.org/details/26-neon-genesis-evangelion)
+(«español latino», los 26 episodios completos, ≈23:20 cada uno, mismo
+corte que el japonés). Se oyeron dos escenas con `voz.py` (Whisper se
+equivoca con los nombres: «Xinyi» por Shinji, «Rey» por Rei; la frase se
+comprobó reescuchando):
+
+| Escena | Frase textual | Minuto |
+|---|---|---|
+| Ep. 6, Rei tras el combate | «Estoy apenada. No tengo idea de lo que debo hacer o sentir en un momento como este» | segundos antes de 00:21:34 |
+| Ep. 6, Shinji (el «笑えばいいと思うよ») | **«¿Por qué no pruebas sonreír, Rei?»** | [00:21:34](https://archive.org/download/26-neon-genesis-evangelion/6%20Neon%20genesis%20Evangelion.mp4?t=1294) |
+| Ep. 24, Kaworu | «El hombre debe soportar el sufrimiento, es parte de la vida […] Tu corazón es demasiado frágil, frágil como el cristal. Mi corazón, si es digno de ser amado, amigo amado… **¡Yo te amo, Shinji!**» | [00:09:37](https://archive.org/download/26-neon-genesis-evangelion/24%20Neon%20genesis%20Evangelion.mp4?t=577) |
+
+⚠️ **De qué doblaje es ese ítem**: por el tamaño de los archivos y la
+sinopsis calcada de la de Netflix, **probablemente el de Netflix (2019)**,
+pero no se comparó el timbre con una muestra de cada doblaje.
+
+**Las muestras oficiales de Doblaje Wiki** (doblaje original de 1999),
+transcritas y medidas con `voz.py` ✅:
+
+| Personaje (actor) | Frase textual | Cómo suena |
+|---|---|---|
+| Gendo ([Humberto Solórzano](https://static.wikia.nocookie.net/doblaje/images/1/1f/NGEGend%C5%8DIkari.ogg/revision/latest?cb=20180725052538&path-prefix=es)) | «Olvidar el sufrimiento es la forma en que sobrevivimos, pero hay cosas muy importantes que recordar» · «Todo está en mi corazón, es suficiente con eso» | Grave (98 Hz), **muy expresiva** (31,7 semitonos), 2,9 palabras/s: solemne, no robótico |
+| Ritsuko ([Maru Guerrero](https://static.wikia.nocookie.net/doblaje/images/8/80/NGERitsukoAkagi.ogg/revision/latest?cb=20180725052714&path-prefix=es)) | «Jamás tuvo alguna esperanza o expectativa de mí. Yo no era nada, nada, nada» · «Mamá, dime qué puedo hacer, por favor» | Aguda (267 Hz), expresiva (9,1), 2,98 palabras/s |
+| Shinji ([Víctor Ugarte](https://static.wikia.nocookie.net/doblaje/images/0/00/NGEShinjiIkari.ogg/revision/latest?cb=20180725052014&path-prefix=es)) | «¡Díganme qué debo hacer!» · «Todavía debo pilotarlo, aunque me obliga a asesinar» · «Todo el mundo me aprecia y me felicita. ¡Todos están orgullosos de mí!» | Muy aguda (361 Hz), 8,4 semitonos, **la más rápida**: 3,52 palabras/s |
+| Asuka ([Norma Echevarría](https://static.wikia.nocookie.net/doblaje/images/8/88/NGEAsukaLangleyS%C5%8Dry%C5%AB.ogg/revision/latest?cb=20180725052246&path-prefix=es)) | «No valgo nada. Nadie me necesita. Nadie desea a una piloto que no puede controlar a su Eva» · «La basura soy yo» | Aguda (274 Hz), 11,6 semitonos, rápida (3,32) |
+| Rei ([Circe Luna](https://static.wikia.nocookie.net/doblaje/images/f/f8/NGEReiAyanami.ogg/revision/latest?cb=20180725052117&path-prefix=es)) | «Yo soy quien soy. Me convertí en mí a través de la instrumentalización de los lazos y las relaciones entre las demás personas y yo» | Media (218 Hz), 10,4 semitonos, 3,64 palabras/s (es un monólogo, no sus frases cortas) |
+| Misato ([Toni Rodríguez](https://static.wikia.nocookie.net/doblaje/images/6/63/NGEMisatoKatsuragi.ogg/revision/latest?cb=20180725052424&path-prefix=es)) | «Pero yo odiaba a mi padre, y odiaba a ser una niña buena» · «¡Lo odio!» | Muy aguda (387 Hz), 13,6 semitonos: momento de crisis, no su tono de hermana mayor |
+
+Son frases de monólogos, no las más alegres: sirven para el carácter
+(Gendo grave y sereno; Shinji y Asuka rápidos y agudos por la ansiedad).
+Para textos alegres del canal, usa las de §2 y §18.6.
 - Si la lámina usa una frase de la serie, **ponla como traducción propia**
   o compruébala antes en Netflix con el audio latino.
 
@@ -1073,12 +1114,52 @@ Ikuto Yamashita ([Black Screen Records](https://blackscreenrecords.com/products/
 cantado o doblado alguna vez** es «残酷な天使のテーゼ». Si la lámina lleva
 un guiño musical, es ése (sin copiar la letra: derechos).
 
+### 11.1 Segunda pasada: lo visto y oído
+
+- **El opening completo** (4:03) se miró con `fotogramas.py` ✅: planos de
+  los tres pilotos, siluetas de las Eva al atardecer (1:00), la Unidad 02
+  sobre rojo (1:15), el ojo verde de Rei y **una figura colgando en cruz
+  sobre la luna llena** ([3:45](https://archive.org/download/y-2mate.com-neon-genesis-evangelion-opening-full-english-version-a-cruel-angels-thesis-360p/y2mate.com%20-%20Neon%20Genesis%20Evangelion%20Opening%20Full%20English%20Version%20A%20Cruel%20Angels%20Thesis_360p.mp4?t=225)),
+  el plano más repetido en fan art del opening. Ojo: es una subida con la
+  **versión en inglés** de la canción.
+- **El ending del ep. 1**: una **imagen fija** de la luna llena entre
+  ramas, 65 segundos, sin animación ✅. El ending cambia de imagen según el
+  capítulo.
+- **«Himno de la alegría» en toda la escena final del ep. 24** (Kaworu) ✅
+  ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Awesome/NeonGenesisEvangelion)).
+  Que Kaworu lo **tararee o lo toque** no se pudo confirmar: se recorrió
+  el tramo 56:30-1:03:00 del archivo de los ep. 22-24 cada 10 s y no sale
+  ningún piano ⚠️ (falta oírlo).
+
+### 11.2 Efectos de sonido que todos reconocen ✅
+
+Catalogados por su nombre de librería en la
+[Sound Effects Wiki](https://soundeffects.fandom.com/wiki/Neon_Genesis_Evangelion);
+el [foro EvaGeeks](https://forum.evageeks.org/viewtopic.php?t=6384)
+confirma que la sirena es de Hollywood Edge:
+
+| Sonido | Dónde suena | Clip de librería |
+|---|---|---|
+| **La alarma de Ángel detectado** | Sala de mando, cada ataque | «Hollywoodedge, Warning Buzzer Space PE194501» / «Sound Ideas, ALARM - SPACE WARNING SYSTEM: INTRUDER ALERT» |
+| **La puerta de la jaula de las Eva** | El hangar verde (§5) | «Hollywoodedge, Warehouse Door HugeM PE185501» |
+| **Las cigarras** | Todas las escenas de día: el verano eterno | «Discovery Sound, CICADA» |
+| **El tren a lo lejos** | Escenas de calma y soledad | «Hollywoodedge, Train Long From Dista PE064401» |
+
+- **La voz que canta el número**: Maya diciendo «シンクロ率 41.3パーセント»
+  (ep. 1, 00:19:58) es un sonido reconocible de recopilaciones y memes
+  ([TikTok](https://www.tiktok.com/discover/sonido-de-chicharra-evangelion) ⚠️).
+- Una **recreación libre** de la alarma (no es la original):
+  [esffects.net](https://esffects.net/en/176.html) ⚠️.
+- **Para #demos**: el «ding» de una demo nueva podría ser la alarma de
+  NERV, y el número de sincronía, el «nivel» de la demo.
+
 ---
 
 ## 12 · Vídeos
 
-> YouTube y TikTok no abren desde aquí: **los minutos de los vídeos no
-> están comprobados**. Los minutos de la serie (§2) sí.
+> YouTube y TikTok siguen sin abrir: **los minutos de los vídeos de
+> YouTube no están comprobados** ⚠️. Los de la serie (§2) sí. En la segunda
+> pasada se usaron copias en **Internet Archive**, que sí dan minuto (§12.5).
 
 ### 12.1 Oficiales
 
@@ -1116,6 +1197,26 @@ El «dilema del erizo» lo cuenta Ritsuko en el **ep. 3, 00:04:53** ✅
 - [«Shinji Cassette Player»](https://www.tiktok.com/discover/shinji-cassette-player): el SDAT.
 - [Edit «No debo huir»](https://www.tiktok.com/@mangeel_07/video/7386463894581054726).
 
+### 12.5 Segunda pasada: vídeos mirados de verdad ✅
+
+- **Tráiler oficial del 30 aniversario de *The End of Evangelion*** (GKIDS,
+  copia en Internet Archive `youtube-JGcbdUgNYOY`, 57 s), minuto a minuto:
+  logo de GKIDS (0:00) · piedras y LCL rojo (0:08-0:12) ·
+  [silueta crucificada roja (0:16)](https://archive.org/download/youtube-JGcbdUgNYOY/JGcbdUgNYOY.mp4?t=16) ·
+  Tokio-3 con los rascacielos ya fuera (0:24) ·
+  [cielo rosa del Tercer Impacto sobre el mar (0:32-0:36)](https://archive.org/download/youtube-JGcbdUgNYOY/JGcbdUgNYOY.mp4?t=32) ·
+  Gendo en primer plano con «03F» detrás (0:40) · rayos rojos (0:44-0:48) ·
+  [título y fecha, «IN THEATRES JULY 22 ONLY» (0:52)](https://archive.org/download/youtube-JGcbdUgNYOY/JGcbdUgNYOY.mp4?t=52).
+- **El opening entero** (4:03) y **el ending** del ep. 1: §11.1.
+- **Episodios enteros para seguir mirando** sin YouTube (Internet Archive,
+  comprobados con `curl -I`): 19 episodios sueltos en
+  [`neon-genesis-evangelion-episode-21-…`](https://archive.org/details/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12),
+  los ep. 22-24 juntos en [`neon-genesis-evangelion-22-al-24`](https://archive.org/details/neon-genesis-evangelion-22-al-24),
+  los 26 en 1080p en [`evangelion-the-full-series`](https://archive.org/details/evangelion-the-full-series)
+  y **los 26 doblados al latino** en [`26-neon-genesis-evangelion`](https://archive.org/details/26-neon-genesis-evangelion) (§10.3).
+- Hay también un ítem con el **doblaje de España** (`evangelion_202506`,
+  1997-2017): **no es latino**, se descarta a propósito.
+
 ---
 
 ## 13 · Videojuegos de la franquicia
@@ -1136,6 +1237,20 @@ Resumen de la historia de los juegos: [4Gamer (2021), «歴代ゲーム化作品
 Game UI Database y The Cutting Room Floor no respondían. **No hay caja de
 diálogo de videojuego verificada**: usa la cartela y la pantalla de NERV
 (§7), que son de la serie.
+
+**Segunda pasada** ⚠️: **The Cutting Room Floor sí tiene páginas** de
+*Girlfriend of Steel* ([PS1](https://tcrf.net/Neon_Genesis_Evangelion:_Koutetsu_no_Girlfriend_(PlayStation)),
+material de depuración) y de su *Special Edition* ([PS2](https://tcrf.net/Shin_Seiki_Evangelion:_Koutetsu_no_Girlfriend_Special_Edition_(PlayStation_2)),
+texto de desarrollo oculto y gráficos sin usar), según el resumen del
+buscador. No se pudieron abrir: el proxy falla con el certificado de
+Cloudflare, y Wayback Machine cortó el túnel, aunque confirma copias del
+[23-ago-2025](http://web.archive.org/web/20250823031232/https://tcrf.net/Neon_Genesis_Evangelion:_Koutetsu_no_Girlfriend_(PlayStation))
+y del [26-ago-2025](http://web.archive.org/web/20250826032103/https://tcrf.net/Shin_Seiki_Evangelion:_Koutetsu_no_Girlfriend_Special_Edition_(PlayStation_2)).
+No hay página de TCRF para los *Raising Project*. Por descripción:
+*Girlfriend of Steel* es una **novela visual** (retrato del personaje y
+caja de texto abajo) y los *Raising Project* son de **crianza** (menú
+semanal con estadísticas y retrato). Arte de *Girlfriend of Steel 2*: hoja
+`settei_figuras_03.jpg`, nº 133 ✅.
 
 **Idea útil**: *Cross Reflections* hace de ti **un aprendiz de NERV que
 quiere ser piloto**. Es la misma situación que alguien que abre su ficha

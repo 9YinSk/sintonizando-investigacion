@@ -417,3 +417,117 @@ Casi todo pasa **dentro de la cabeza** de Riley: sitios abstractos con su propia
 - **Mundo real**: Minnesota nevado y gris azulado al principio; San Francisco con casa pequeña y algo vieja, calles en cuesta, colegio de luz fluorescente fría.
 - **Fondos de pantalla**: Pixar **no tiene** página oficial de fondos; lo que circula como «oficial» son fotogramas reescalados. En Wallhaven sólo hay 3 de verdad: [pixel art de Tristeza y Desagrado](https://w.wallhaven.cc/full/w8/wallhaven-w8xy3x.png) (1920×1080), [collage](https://w.wallhaven.cc/full/45/wallhaven-45v899.png) (2500×1080) y un [fotograma reescalado](https://w.wallhaven.cc/full/1j/wallhaven-1jm8dg.png) (1920×1080) ⚠️. Mejor: los **fotogramas oficiales a 6144×2572** de H1-26 a H1-38.
 
+## Punto 17 · Guía para IA de imagen y de texto
+
+Hecha por el redactor con todo lo anterior. Sirve para Firefly, Canva o cualquier IA. **No escribas «Pixar» ni «Inside Out»** en el prompt: muchas IA lo bloquean y además copian el póster. Describe.
+
+### Para la IA de imagen
+
+**El estilo, en una línea**: película de animación 3D, render suave y limpio, sin contorno; los personajes-emoción **brillan con luz propia** y su superficie parece hecha de **partículas de energía que hierven**; el mundo mental es violeta y saturado, con niebla de color; el mundo real, beige y apagado.
+
+**Rasgos que nunca cambian:**
+
+- **Alegría**: piel amarillo cálido `#FAD189`, pelo corto despeinado azul eléctrico `#1E44E0`, ojos grandes azules, vestido verde claro sin mangas `#E7EB74`. Silueta de estrella. Halo amarillo.
+- **Tristeza**: baja y redonda como una gota, piel azul `#4BB9E3`, pelo azul marino `#1D2E5F`, **gafas redondas grandes**, suéter tejido de cuello alto `#586D7F`.
+- **Furia**: bajo y cuadrado como un ladrillo, rojo `#E54D1C`, camisa blanca, corbata a rayas `#922826`, pantalón oscuro `#130606`. Al enfadarse, **llamas saliendo de la cabeza**.
+- **Desagrado**: verde `#7FA85C`, pestañas largas, vestido con flores `#2E9350`, pañuelo al cuello `#7D3A6C`. Silueta de triángulo.
+- **Temor**: el más alto y fino, morado `#72599F`, ojos saltones, camisa de rayas `#6B81A2`, pajarita `#4A1030`, chaleco de pata de gallo `#9E90AD`.
+- **Ansiedad**: naranja, pelo de punta `#F0AE4E`, ojos enormes, sonrisa tensa, suéter a rayas `#DD8F59`, pantalón de pana `#803B09`.
+- **Vergüenza**: enorme, rosa `#EF88AF`, sudadera con capucha `#8F7895`. **Envidia**: turquesa `#74D7CD`, ojos gigantes. **Aburrimiento**: índigo `#A29BCA`, pelo `#8A80DA` que le tapa la cara.
+
+**Luz y encuadre**: la emoción es la fuente de luz y tiñe lo que tiene cerca. Plano horizontal y abierto para la alegría; elementos verticales que encierran (columnas, marcos) para tristeza o ansiedad (así lo hizo el director de fotografía, punto 18).
+
+**Palabras que ayudan** (en inglés, que la IA entiende mejor): `3D animated feature film still`, `soft glowing character made of shimmering light particles`, `subsurface scattering skin`, `volumetric colored fog`, `purple control room with a curved console of colorful glossy buttons`, `glowing crystal memory orbs on endless shelves`, `cinematic lighting`, `shallow depth of field`.
+
+**Palabras que lo estropean**: `anime`, `manga`, `cel shading`, `outline`, `chibi`, `sweat drop`, `speech bubble`, `2D flat`, `realistic`, `photorealistic human` para las emociones.
+
+**Vocabulario de gestos** (la serie no usa símbolos de manga; así se expresa cada emoción):
+
+- rabia = llamas en la cabeza (Furia, teaser IO2, 1:00);
+- vergüenza = sonrojo rosa fuerte y esconderse en la capucha;
+- tristeza = lágrimas, tirarse al suelo; Bing Bong llora **caramelos**;
+- nervios = pelo de punta y ojos enormes (Ansiedad);
+- recuerdo importante = **esfera dorada** brillante; recuerdo de una emoción = esfera de su color;
+- alegría = brillar más fuerte.
+
+**Imágenes para dar a la IA**: estilo, los pósters de personaje H1-13 a H1-21 y los fotogramas H1-26 a H1-38; pose, H1-16 (presentar), H2-95 (mentón en las manos), H3-175 y H3-176 (cuerpo entero sobre blanco); fondo, H1-24, H1-45 y H1-48 (consola), H1-47 y H2-60 (estantes de esferas), H1-41 (Producciones de los Sueños).
+
+### Para la IA de texto
+
+**Reglas de voz por personaje:**
+
+- **Alegría**: frases cortas y rápidas, exclamaciones, empieza con «¡Oye!», siempre ofrece una salida («Tiene remedio»). Nunca se rinde en la frase.
+- **Tristeza**: frases lentas, puntos suspensivos, voz baja; a veces se disculpa. Nada de mayúsculas.
+- **Furia**: frases cortas, preguntas indignadas, sarcasmo seco; grita en MAYÚSCULAS con signos dobles.
+- **Desagrado**: remata con una sola palabra de desprecio. Tono plano.
+- **Temor**: preguntas en cadena y exclamaciones de susto. Atropellado.
+- **Ansiedad**: hace listas de lo que puede salir mal, rápido y sin respirar. Quiere ayudar, no asustar.
+
+**Frases reales del doblaje latino**, por emoción:
+
+- **Alegre**: «Oye, Bing Bong, mira esto.» · «Hey, te gustan las cosquillas, ¿eh? Es el monstruo y aquí viene.» (Alegría, muestra oficial) ✅
+- **Enfadado**: «Nada funciona. ¿Por qué no funciona?» · «Bueno, adiós. Me encantas.» (Furia, tráiler doblado 1:10 y 1:45) ✅ · «Este rollo de mudarnos es una estupidez» (la cena) ✅
+- **Explicando**: «Podemos arreglar esto. Sólo tenemos que volver a la sede.» (Alegría, tráiler 1:15) ✅ · «En cuanto regresemos al cuartel general, ¿dónde está la estación del tren?» ✅
+- **Animando**: «Oye, todo estará bien. Tiene remedio.» (Alegría) ✅
+- **Asustado**: «¿Qué es esa cosa?» · «¡Qué horror!» · «Se me caen los dientes.» (Temor) ✅
+- **Triste**: no hay frase triste confirmada en audio latino ⚠️. Lo más cercano: «Llévala a la Luna de mi parte» (Bing Bong, sin oír en latino) y «No puedes enfocarte en lo malo. Las cosas siempre pueden mejorar.» (tráiler 1:50, quién la dice está por comprobar).
+
+**Vocabulario del mundo** que la IA debe usar tal cual: Cuartel General, Recuerdo Central, recuerdo esencial, Islas de la Personalidad, Memoria a Largo Plazo, Tren del Pensamiento, Producciones de los Sueños, Vertedero de la Memoria, Sistema de Creencias, Sentido del Yo, La Bóveda.
+
+## Punto 18 · Estilo y técnica, y cómo replicarlo
+
+**Cómo lo hizo Pixar** (con entrevistas):
+
+- **Render** de 2015: RenderMan con *geometry lights*: las emociones son luces reales de la escena ([fxguide](https://www.fxguide.com/fxfeatured/inside-out-rendering/)) ✅.
+- Las emociones están **hechas de energía**, miles de partículas con un «hervido» que se genera al renderizar. Furia es la más sólida; Alegría y Temor, las más «emanantes» (fxguide y [SIGGRAPH](https://blog.siggraph.org/2016/02/inside-the-minds-behind-inside-out.html/)) ✅.
+- **Glow darkening**: como el personaje es la luz, el iluminador Sudeep Rangaswamy oscurece su halo según de dónde venga la luz clave, para que no flote como un punto blanco ✅. Mejorado en IO2 ([fxguide IO2](https://www.fxguide.com/fxfeatured/inside-out-2-redefining-the-magic-with-new-technology/)) ✅.
+- Piel humana con *subsurface scattering* con trazado de rayos; pelo iridiscente ✅.
+- **Houdini** para los zarcillos de las Islas, que se mueven como plantas de hielo (Gary Bruins) ✅.
+- **Ralph Eggleston**, diseñador de producción, pintó 500-600 gouaches para el guion de color y los redujo a 200. Su pregunta: «si las emociones son luz, ¿de dónde salen las sombras?». Mundo real y mundo mental, casi dos películas: distinta traslucidez, sombreado y saturación ([AWN](https://www.awn.com/animationworld/ralph-eggleston-talks-inside-out) y [Cartoon Brew](https://www.cartoonbrew.com/rip/ralph-eggleston-a-cornerstone-of-pixars-visual-style-dies-at-56-220781.html)) ✅.
+- **Encuadre** (director de fotografía Patrick Lin): líneas horizontales en Minnesota, verticales que aprietan a Riley en San Francisco; cámara fija cuando Riley se apaga, cámara en mano cuando huye ([Pluralsight](https://www.pluralsight.com/resources/blog/software-development/camera-structure-language-within-inside)) ✅.
+- **IO2** pasó a RenderMan RIS (*path tracing*): «con REYES el 80 % del trabajo era que se viera bien; con RIS, el 80 % lo hace el renderizador» (Jacob Kuenzel) ✅.
+
+**En Blender:**
+
+- **Sin contorno**: nada de Line Art, Freestyle ni Solidify. `Principled BSDF` con *Subsurface* activado y *roughness* bajo-medio ([manual de Blender](https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/sss.html); luz «tipo Pixar» en [Blender Artists](https://blenderartists.org/t/lighting-like-pixar-movies/1459950)).
+- **Energía**: textura Noise o Voronoi animada en un shader `Emission` sobre una copia algo mayor de la malla; *Bloom* en Eevee o nodo *Glare* en Cycles.
+- **Glow darkening**: mezcla dos emisiones (fuerte y apagada) con *Layer Weight* según la luz clave.
+- **Dos mundos**: real, luz neutra algo desaturada; mental, puntos de luz del color de la emoción y niebla volumétrica.
+- **Modelos y rigs libres**: Envidia y Aburrimiento con huesos, y los de las 5 originales (punto 3).
+
+**En Photoshop:**
+
+- Primero manchas planas de color a baja opacidad (un mini guion de color), luego detalle.
+- Halo: degradado radial en modo Trama detrás del personaje, de su color, más `Resplandor exterior` suave.
+- Piel: `Superponer` cálido y suave en el borde donde pega la luz. Acabado liso, sin pincelada gruesa.
+- Placas y carteles: letra redonda gruesa sobre placa de plástico de color con `Bisel y relieve` suave.
+- Grano o aberración sólo para un sueño o recuerdo (Producciones de los Sueños); nunca en Cuartel General.
+
+## Punto 19 · Texturas 2D
+
+Es 3D con acabado liso: **no hay tramas de manga**. Lo que hay son estampados de ropa y papel en el arte conceptual.
+
+- **Tela lisa base** CC0: [Fabric061](https://ambientcg.com/view?id=Fabric061), Fabric066, Fabric081C ✅.
+- **Papel** para imitar los gouaches y el arte conceptual: [Paper003](https://ambientcg.com/view?id=Paper003) y Paper001, CC0 ✅.
+- **Cartón** de las cajas de la mudanza: [Cardboard002](https://ambientcg.com/view?id=Cardboard002), CC0 ✅.
+- **Lunares** (Envidia), **flores** (Desagrado) y **pata de gallo** (Temor): no hay textura libre de estampados en ambientCG. Pintarlos encima de la tela lisa ⚠️.
+- **Logos**: el de 2015, más geométrico (H2-96), y el de IO2, más redondo (H2-53); el latino «Intensa Mente» en H2-90. El escudo del equipo de hockey de Riley, **Fire Hawks**, no aparece limpio en ninguna imagen ⚠️.
+- **Capas 3D** que completan: rigs de Sketchfab (punto 3) y texturas reales (punto 4).
+
+## Punto 20 · Gustos y detalles
+
+Son emociones, no personas: **cumpleaños y altura no aplican**. Sólo Riley es humana, y la wiki da su edad, no su fecha.
+
+| Personaje | Le gusta | Odia | Fuente |
+|---|---|---|---|
+| Alegría | que Riley esté feliz, resolver con optimismo | que Tristeza «arruine» un recuerdo; que algo no tenga solución | Pixar Wiki ✅ |
+| Tristeza | la lluvia, leer, los recuerdos melancólicos | que la ignoren o le digan que no ayuda | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) y Pixar Wiki ✅ |
+| Furia | la justicia, el hockey | la injusticia, el chicle TripleDent, que le arruinen los planes | Pixar Wiki y Doblaje Wiki ✅ |
+| Desagrado | la moda, verse bien | el brócoli, lo pasado de moda, que Riley quede «rara» | Pixar Wiki y Doblaje Wiki ✅ |
+| Temor | planes con salida de emergencia, listas de riesgos | sorpresas, los osos (cree ver uno y es un señor peludo) | Pixar Wiki y Doblaje Wiki ✅ |
+| Ansiedad | planear, anticipar | perder el control, no saber | Pixar, 2024 ✅ |
+| Riley | el hockey, su familia, la pizza (no la de brócoli) | mudarse sin avisar, no encajar | [Pixar Wiki](https://pixar.fandom.com/wiki/Riley) ✅ |
+| Bing Bong | ayudar a Riley, su carrito, cantar | que lo olviden | [Pixar Wiki](https://pixar.fandom.com/wiki/Bing_Bong) ✅ |
+
+- **Objetos que siempre llevan**: Tristeza, sus gafas; Ansiedad, maletín en el cosplay; Bing Bong, su carrito-cohete; Riley, el palo de hockey (lo agarra para salir del pánico).
+

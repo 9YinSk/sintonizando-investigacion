@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://harjit.moe/konosubanomoji.html",
+    "fuente": "HarJIT (fan, página personal)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reconstrucción libre en fuente TTF del alfabeto latino modificado que usa el mundo isekai de Konosuba en carteles y pergaminos, con el sigilo de Aqua (Axis) y el de Eris",
+    "para_que": "Rotular carteles del mundo/objetos mágicos sin que se lea como texto latino real (punto 5 y 25)",
+    "licencia": "Fanwork gratuito, sin licencia oficial ni reconocimiento del estudio"
+  },
+  {
+    "url": "https://dl.dafont.com/dl/?f=tiki_tropic",
+    "fuente": "dafont.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Tiki Tropic (Regular/Bold/Outline), identificada por la comunidad como parte del logo de KonoSuba",
+    "para_que": "Rotular el logo/título en español: trae tildes, ñ, ¿ y ¡ completos (comprobado con fontTools)",
+    "licencia": "100% Free (dafont)"
+  },
+  {
+    "url": "https://dl.dafont.com/dl/?f=grobold",
+    "fuente": "dafont.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente Grobold, identificada por la comunidad como la letra principal del logo de KonoSuba",
+    "para_que": "Referencia visual del logo; en español le faltan casi todas las tildes/ñ/¿¡ (comprobado con fontTools), usar sólo para el inglés o retocar los glifos que faltan",
+    "licencia": "100% Free (dafont)"
+  },
+  {
+    "url": "https://store.steampowered.com/app/2349140/KONOSUBA__Gods_Blessing_on_this_Wonderful_World_Love_For_These_Clothes_Of_Desire/",
+    "fuente": "Steam (PQube/MAGES.)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Ficha oficial del videojuego con 13 capturas de pantalla del cuadro de diálogo en pergamino y del menú de gestión",
+    "para_que": "Referencia exacta del cuadro de diálogo y la interfaz de videojuego de la franquicia (puntos 6 y 11)",
+    "licencia": "Capturas oficiales de la distribuidora, uso como referencia (no para pegar)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349140/ss_02d043c88f4cee2696a4acb3f900f819af0aca9c.1920x1080.jpg",
+    "fuente": "Steam (captura oficial)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura del cuadro de diálogo en pergamino de Megumin, con banderola del nombre",
+    "para_que": "Referencia directa de forma y color del cuadro de diálogo del videojuego (punto 6)",
+    "licencia": "Oficial de PQube/MAGES., referencia únicamente"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349140/ss_d75d52bfcbca265db998aa654c3f0afa511dc82c.1920x1080.jpg",
+    "fuente": "Steam (captura oficial)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura del menú «Schedule Overview» con estética de pergamino/madera",
+    "para_que": "Referencia de interfaz de videojuego de fantasía (punto 11)",
+    "licencia": "Oficial de PQube/MAGES., referencia únicamente"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/c/c1/Manga_chapter_1_page_2.jpg",
+    "fuente": "Wiki de Fandom (konosuba.fandom.com), vía MangaFox",
+    "ancho": 1456,
+    "alto": 1133,
+    "que_es": "Portada a color del capítulo 1 del manga (edición de fans en inglés) con cajas de narración en forma de estallido",
+    "para_que": "Referencia de forma de caja de texto de manga (punto 6); la letra es de la traducción, no la original",
+    "licencia": "Derechos del editor/mangaka; sólo como referencia de composición"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/1/17/AxisCult.png",
+    "fuente": "Wiki de Fandom (konosuba.fandom.com)",
+    "ancho": 480,
+    "alto": 480,
+    "que_es": "Símbolo/emblema de la Orden de Axis (culto de Aqua)",
+    "para_que": "Emblema del mundo para grabar en un objeto de la lámina (punto 25)",
+    "licencia": "Derechos del estudio/editor; uso como referencia"
+  },
+  {
+    "url": "https://konosuba.fandom.com/wiki/Terminology",
+    "fuente": "Wiki de Fandom (konosuba.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página con todo el vocabulario propio del mundo: moneda (eris), sistema de estadísticas de aventurero, gremios y organizaciones",
+    "para_que": "Vocabulario del mundo reconocible por el fandom (punto 25)",
+    "licencia": "CC BY-SA (licencia estándar de Fandom)"
+  },
+  {
+    "url": "https://konosuba.fandom.com/wiki/Konosuba:_Labyrinth_of_Hope_and_the_Gathering_Adventurers",
+    "fuente": "Wiki de Fandom (konosuba.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del videojuego de rol de mazmorras para PS Vita/PS4/Switch",
+    "para_que": "Catálogo de videojuegos de la franquicia (punto 11)",
+    "licencia": "CC BY-SA (licencia estándar de Fandom)"
+  },
+  {
+    "url": "https://ddnavi.com/article/d574070/a/",
+    "fuente": "Da Vinci Web (ddnavi.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista de 1-nov-2019 al director Takaomi Kanasaki y al guionista Makoto Uezu sobre la película Legend of Crimson",
+    "para_que": "Filosofía de dirección de la comedia (gag vs. comedia) para el punto 18",
+    "licencia": "Artículo periodístico, cita textual con enlace"
+  },
+  {
+    "url": "https://genkosha.pictures/movie/19091928091",
+    "fuente": "Genkosha Pictures (revista técnica de animación japonesa)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tutorial profesional de animación de efectos: cómo dibujar explosiones deformadas y vistosas (técnica «T-light»)",
+    "para_que": "Base técnica real para replicar el efecto de explosión de Megumin en Photoshop (punto 18)",
+    "licencia": "Artículo editorial, cita con enlace"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9avkfi",
+    "fuente": "Dailymotion (canal Espinof)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tráiler oficial de la OVA de KonoSuba con el logo de temporada 3 en pantalla completa durante el estallido final",
+    "para_que": "Referencia en vídeo del logo real (colores, contorno, composición) para el punto 5",
+    "licencia": "Vídeo oficial de la distribuidora, subido por canal de noticias de cine; referencia únicamente"
+  },
+  {
+    "url": "https://anilist.co/anime/21202",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de la serie con equipo creativo, obras relacionadas y recomendaciones de usuarios",
+    "para_que": "Base para el punto 24 (obras parecidas) y el 18 (equipo creativo)",
+    "licencia": "Datos abiertos de la API de AniList"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Literature/KonoSuba",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de tropos de la novela ligera/franquicia Konosuba",
+    "para_que": "Confirma que el eje del humor es deconstruir tropos isekai y de RPG (punto 24); página bloqueada en este contenedor, sólo se pudo leer el resumen del buscador",
+    "licencia": "CC BY-NC-SA (TV Tropes)"
+  }
+]

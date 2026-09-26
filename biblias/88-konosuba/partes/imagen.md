@@ -55,3 +55,43 @@ Creative Commons.
 - Aviso de licencia: dos modelos de Megumin (de `plaxa3` y `Blueky`) son **CC Attribution-NonCommercial**, no sirven si la lámina se usa comercialmente; el resto de la lista es Attribution simple (uso permitido citando autor) · ✅ (comprobado campo `license.label` de la API de Sketchfab en cada uno)
 
 No encontré modelos 3D con licencia libre en Poly Haven: es un banco de HDRIs/texturas/props genéricos (no tiene personajes ni sitios con IP de anime); sus texturas reales sí sirven para el punto 19 (ver abajo). Búsqueda hecha en polyhaven.com y por `site:polyhaven.com konosuba` sin resultados.
+
+## 15 · Vestuario (colores medidos con Pillow/`estilo.py`)
+
+Cada personaje tiene un único traje "icónico" (el de la portada y el opening,
+temporada 3) más 1-2 trajes de arco. Colores medidos a pantalla completa sobre
+las hojas de modelo oficiales T3 (fondo transparente aplanado a blanco) y sobre
+key visuals, con `herramientas/estilo.py` y muestreo de parches 9×9 px con
+Pillow para evitar el contorno de línea negra.
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| Kazuma | Capa corta verde azulada (con capucha) | #357679 | Hoja de modelo T3, `Kazuma_Satou_3rd.png` |
+| Kazuma | Borde de la capa, dorado/crema | #EDD58E | `Kazuma_Satou_3rd.png` |
+| Kazuma | Camisa/túnica blanca | #EFF1F0 | `Kazuma_Satou_3rd.png` |
+| Kazuma | Pantalón azul marino oscuro | #4E525E | `Kazuma_Satou_3rd.png` |
+| Aqua | Vestido diosa, azul marino | #434B88 | Hoja de modelo T3, `Aqua_3rd.png` |
+| Aqua | Moño del pecho, verde menta | #71DDBA | `Aqua_3rd.png` |
+| Aqua | Ribete dorado (falda y medias) | #F9CD7B | `Aqua_3rd.png` |
+| Megumin | Vestido de bruja, rojo | #C24148 | Hoja de modelo T3, `Megumin_3rd.png` |
+| Megumin | Capa, malva oscuro | #6A4856 | `Megumin_3rd.png` |
+| Megumin | Puños/ribetes, dorado | #F9C667 | `Megumin_3rd.png` |
+| Megumin | Botas, naranja | #E36C4C | `Megumin_3rd.png` |
+| Darkness | Armadura/vestido de cruzada, dorado | #FCC046 | Hoja de modelo T3, `Darkness_3rd.png` |
+| Darkness | Falda interior, negro azulado | #38363B | `Darkness_3rd.png` |
+| Darkness | Hombrera, blanco marfil | #F3E3E4 | `Darkness_3rd.png` |
+| Darkness | Traje de mucama (arco "Maid Darkness") vestido azul oscuro | #414050 | `Darkness_Still_Refuses.jpg` (wiki, arco S1) |
+| Darkness | Traje de mucama, delantal/cinta crema | #F7E4B6 | `Darkness_Still_Refuses.jpg` |
+| Darkness | Traje de mucama, ribete rojo | #9A1F16 | `Darkness_Still_Refuses.jpg` |
+| Darkness | Vestido de novia ("Bride Darkness", especial T3) | tonos casi blancos, #F0F2F0 / #E6E7E5 (sin color saturado) | `Bride_Darkness.jpg` |
+
+Notas de peinado y accesorios (visual, de las mismas hojas de modelo):
+- Kazuma: pelo castaño corto despeinado, cinturón marrón con hebilla, katana envainada al cinto · ✅ (visto en `Kazuma_Satou_3rd.png`)
+- Aqua: coleta alta con anillo/esfera azul, medias hasta el muslo, lanza-báculo con gema rosa · ✅
+- Megumin: sombrero de bruja puntiagudo con cruz dorada, coleta lateral, venda blanca en una pierna, báculo con esfera roja · ✅
+- Darkness: coleta alta con adorno en X, guantes negros largos, espada a dos manos · ✅
+
+El traje "icónico" que todo fan reconoce es el de la portada/opening (el de la
+tabla de arriba): es el que sale en el 90% del merchandising y las figuras
+(punto 23). ⚠️ Dato de proporción a ojo, no medido con encuesta; no encontré
+una encuesta oficial de "traje favorito".

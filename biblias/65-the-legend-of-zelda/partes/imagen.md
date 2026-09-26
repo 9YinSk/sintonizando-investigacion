@@ -117,6 +117,37 @@ resolución, oficiales y de fans, con tamaño y autor.
 - Bosque Korok/Bosque Kokiri: bosque encantado, entrada al mundo en varios juegos · nombre confirmado en el modelo 3D «Korok - Legend of Zelda» (punto 3) y en la wiki (zelda.fandom.com/wiki/Korok_Forest) · ✅
 - Desierto Gerudo y Muerte (Death Mountain): extremos climáticos icónicos de Hyrule (arena/lava), mencionados en la wiki de zelda.fandom.com como localizaciones recurrentes desde OoT · zelda.fandom.com/wiki/Gerudo_Desert, zelda.fandom.com/wiki/Death_Mountain · ⚠️ (confirmado en wikitext, no se midió luz/paleta aquí: es tarea del investigador de vídeo, punto 4)
 
+## 19 · Texturas 2D: tramas, grano, patrones, emblemas — con enlace a libres equivalentes
+
+Junto con el punto 3 (3D) y el 4 (texturas reales, que hace el investigador de
+vídeo), esto cierra las capas de textura para la lámina.
+
+### Trama de manga (screentone) vista en la propia obra
+
+- Página de manga con trama de puntos clásica (grises con screentone, línea negra) en la escena «Zelda from Mirage Castle's Battle» · hoja `personajes_02.jpg` nº 86 (1294×726) · zelda.fandom.com · ✅ — sirve para ver CÓMO se aplica la trama en el manga de Zelda (probablemente de la adaptación de Akira Himekawa), de dónde copiar el patrón de puntos y el contraste de línea
+
+### Pinceles/tramas libres equivalentes (con licencia)
+
+- **[FREE] Manga Screentone Pack 1** (Clip Studio Assets, oficial) · gratis · https://assets.clip-studio.com/en-us/detail?id=2142037 · ✅ (tienda oficial de Clip Studio Paint, marcado «gratis»)
+- **screentone** (Clip Studio Assets, otro pack marcado gratis) · https://assets.clip-studio.com/en-us/detail?id=1796674 · ⚠️ (una fuente, no se comprobó el contador de descargas)
+
+### Texturas reales libres (CC0, ambientCG) que encajan con el mundo de Hyrule
+
+Política de ambientCG: todo su catálogo es CC0 (dominio público), confirmado en la web del sitio.
+
+- **Chainmail004** (cota de malla) — para la malla bajo la túnica de Link · CC0 · https://ambientcg.com/view?id=Chainmail004 · ✅
+- **Leather037** (cuero) — para cinturones, botas, guantes de Link/Ganondorf · CC0 · https://ambientcg.com/view?id=Leather037 · ✅
+- **Wood095** (madera) — para Kakariko, el Árbol Deku, mobiliario rústico · CC0 · https://ambientcg.com/view?id=Wood095 · ✅
+- **Bricks097** (piedra/mampostería) — para castillo de Hyrule, templos · CC0 · https://ambientcg.com/view?id=Bricks097 · ✅
+- **Paper006** (papel/pergamino) — para mapas y el Sheikah Slate estilo pergamino, cartelas · CC0 · https://ambientcg.com/view?id=Paper006 · ✅
+
+### Emblemas y logos (referencia de trazo, NO para redistribuir como oficial)
+
+- Trifuerza (triángulo dorado, el símbolo más reconocible de toda la saga) · vista repetida en el arte oficial: hoja `personajes_02.jpg` nº 66, 71, 76, `objetos_01.jpg` nº 96 · ✅
+- Escudo/Cresta Hyliana (ala de pájaro dorada, triángulos azules, sobre fondo rojo) · hoja `personajes_01.jpg` nº 10, 17, 21 · ✅
+- Ojo Sheikah (ojo con lágrima dentro de un rombo, usado en BotW/TotK para tecnología antigua) · hoja `objetos_01.jpg` nº 104 «BotW Crest of the Sheikah Symbol.png» (807×747) · ✅
+- Vector SVG libre («gratis para uso comercial», reutilizable como guía de trazo, NUNCA como logo oficial por ser marca registrada de Nintendo): Ojo Sheikah · https://www.svgrepo.com/svg/321355/sheikah-eye · ⚠️; Trifuerza · https://www.svgrepo.com/svg/323529/triforce · ⚠️
+
 ## Referencias
 
 Ver `partes/imagen.json`.

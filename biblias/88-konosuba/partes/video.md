@@ -207,7 +207,6 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 ## NO ENCONTRÉ
 
 - ⚠️ **Ending real en vídeo**: no se localizó un clip fiel de «Chiisana Boukensha» (T1) ni de las otras dos endings en Dailymotion ni Internet Archive (un resultado llamado «Ending 1» resultó ser de otra serie, descartado). Sólo hay un ED en formato audio en Internet Archive. Búsquedas hechas: `Chiisana Boukensha full`, `ちいさな冒険者`, `おうちに帰りたい`, `Konosuba ED1 animation`, `Konosuba ending 1 full` (todas en Dailymotion API). AnimeThemes (que tendría el `.webm` oficial) devuelve HTTP 522 desde este servidor, igual que en `datos-video.md`.
-- ⚠️ **Compositor de la banda sonora**: no confirmado con dos fuentes en esta sesión (MusicBrainz no devolvió discos de la serie en `datos-video.md`; no se repitió esa búsqueda por ahorro, pero no se encontró alternativa).
 - ⚠️ **Tendencias de TikTok con enlace verificable**: TikTok no es accesible por API pública ni por `curl` simple desde este servidor. No se intentó `navegar.py` sobre TikTok por ser previsible que bloquee igual que Reddit/TV Tropes con más severidad; se relanzaría en un repaso si el jefe lo pide.
 - ⚠️ Episodio exacto de la «pelea final T1»: el título del clip dice «Konosuba season 1 last fight» pero no se confirmó el número de episodio con una segunda fuente.
 - ⚠️ Texturas AmbientCG: sugeridas por analogía, sin URL exacta verificada (mismo límite que en otras biblias del equipo, p. ej. Tanya).
@@ -234,5 +233,5 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 | — | `estilo.py` sobre 4 fotogramas (castillo, campo+explosión, mansión, puerta de Axel) | — | Herramienta local | Hex + saturación/brillo medidos ✅ |
 | — | `yt-dlp` directo sobre YouTube (tráiler de AniList) | — | YouTube | Bloqueado: «Sign in to confirm you're not a bot» ❌ (confirma la nota de AYUDANTE.md) |
 
-**Confirmado (✅):** OP/ED de las 3 temporadas (título, cantante, fecha), tráiler oficial T3 visto fotograma a fotograma, 3 escenas icónicas vistas y citadas con minuto, 4 sitios con paleta medida, 22 poses de los 4 personajes con capítulo/clip y minuto.
-**A medias (⚠️):** ending sin vídeo real (sólo lyrics/cover confirmados), compositor de la BSO, tendencias TikTok, 2-3 poses de Darkness por debajo del mínimo recomendado.
+**Confirmado (✅):** OP/ED de las 3 temporadas (título, cantante, fecha), compositor de la BSO (Masato Kōda), tráiler oficial T3 visto fotograma a fotograma, 3 escenas icónicas vistas y citadas con minuto, 4 sitios con paleta medida, 22 poses de los 4 personajes con capítulo/clip y minuto.
+**A medias (⚠️):** ending sin vídeo real (sólo letra y ficha confirmadas), tendencias TikTok, 2-3 poses de Darkness por debajo del mínimo recomendado.

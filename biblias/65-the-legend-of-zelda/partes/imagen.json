@@ -349,5 +349,68 @@
   "que_es": "Fondo de pantalla fan de Zelda, por Owl279",
   "para_que": "fondo de pantalla en alta resolución (punto 16)",
   "licencia": "© del autor; uso personal"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9f/Zelda_from_Mirage_Castle%27s_Battle.jpg",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 1294,
+  "alto": 726,
+  "que_es": "Página de manga con trama de puntos (screentone) clásica",
+  "para_que": "referencia real de cómo se usa la trama en el manga de Zelda (punto 19)",
+  "licencia": "© Nintendo/editorial del manga; sólo referencia"
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "Clip Studio Assets (tienda oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Pack de tramas (screentones) para manga, marcado gratis",
+  "para_que": "pinceles/tramas libres equivalentes para sombreado tipo manga (punto 19)",
+  "licencia": "Gratis (Clip Studio Assets, licencia de la propia plataforma)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Chainmail004",
+  "fuente": "ambientCG (API v2)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura CC0 de cota de malla",
+  "para_que": "textura equivalente para la malla bajo la túnica de Link (punto 19)",
+  "licencia": "CC0 (dominio público) — ambientCG"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Leather037",
+  "fuente": "ambientCG (API v2)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura CC0 de cuero",
+  "para_que": "cinturones, botas, guantes (punto 19)",
+  "licencia": "CC0 (dominio público) — ambientCG"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Wood095",
+  "fuente": "ambientCG (API v2)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura CC0 de madera",
+  "para_que": "Kakariko, mobiliario rústico (punto 19)",
+  "licencia": "CC0 (dominio público) — ambientCG"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Bricks097",
+  "fuente": "ambientCG (API v2)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura CC0 de piedra/mampostería",
+  "para_que": "Castillo de Hyrule, templos (punto 19)",
+  "licencia": "CC0 (dominio público) — ambientCG"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper006",
+  "fuente": "ambientCG (API v2)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura CC0 de papel/pergamino",
+  "para_que": "mapas, cartelas, Sheikah Slate (punto 19)",
+  "licencia": "CC0 (dominio público) — ambientCG"
  }
 ]

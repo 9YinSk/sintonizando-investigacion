@@ -1,5 +1,32 @@
 [
  {
+  "url": "https://archive.org/download/kaguya-sama_202403/Kaguya%20Sama%20Love%20is%20War/SEASON%201/01.mkv",
+  "fuente": "Internet Archive (subida de usuario), fotogramas sacados por el redactor con ffmpeg -ss",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Episodio 1 de la T1. 23:52-23:56 cartela vertical «本日の勝敗» (resultado de hoy) junto al bento con salchichas-pulpo; 1:00 corazón con 告; 1:10 logo del anime en mincho carmesí; 1:36-1:40 duelo de pistolas del opening; 1:44 sala del consejo con cartas volando; 21:10 fondo a cuadros; 24:24 ojos rojos de Kaguya",
+  "para_que": "El cuadro de diálogo propio de la serie (concepto A y C), el logo del anime y la sala del consejo con luz de tarde",
+  "licencia": "© Aka Akasaka/Shueisha/Aniplex; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/3/38/Anime_Yu_Ishigami.jpg/revision/latest?cb=20190329224152",
+  "fuente": "Fandom (wiki de la serie), mirada por el redactor",
+  "ancho": 1114,
+  "alto": 597,
+  "que_es": "Ishigami con fondo de tristeza azul con rayas verticales y el subtítulo inglés «I want to die, so I'm going home.» (es un subtítulo de streaming de su propia frase, no una cartela del narrador)",
+  "para_que": "Fondo de emoción «bajón» y pose de Ishigami para lámina de grupo",
+  "licencia": "© Aka Akasaka/Shueisha/Aniplex; sólo referencia"
+ },
+ {
+  "url": "https://fontsource.org/fonts/shippori-mincho",
+  "fuente": "Fontsource (comprobada por el redactor con fontTools, subset latin 700)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra mincho libre (Shippori Mincho) para el logo del anime y la cartela «本日の勝敗»; trae á é í ó ú ñ ¿ ¡",
+  "para_que": "Títulos y cartelas de resultado en la lámina",
+  "licencia": "SIL Open Font License"
+ },
+ {
   "url": "https://wallhaven.cc/w/g86v9d",
   "fuente": "Wallhaven",
   "ancho": 5900,
@@ -646,33 +673,6 @@
   "que_es": "Anuncio oficial de la app de pachislot 'Kaguya-sama wa Kokurasetai' (iOS/Android, oct. 2025) con capturas de interfaz",
   "para_que": "Referencia de interfaz de videojuego oficial (pachislot) de la franquicia (punto 11)",
   "licencia": "© Shueisha/fabricante; sólo referencia"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-d7432156713648059a9c88aabe41b6ba",
-  "fuente": "Sketchfab (API v3 search, downloadable=true)",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D de fan de Kaguya Shinomiya, descargable",
-  "para_que": "Base de proporciones/pose para Blender, punto 18 (aplicar shader propio, no usar tal cual)",
-  "licencia": "CC Attribution (confirmada en la respuesta de la API de Sketchfab)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-04270c2d606e4ef5a65cc03c5847bdda",
-  "fuente": "Sketchfab (API v3 search, downloadable=true)",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D de fan de Chika Fujiwara, descargable",
-  "para_que": "Base de proporciones/pose para Blender, punto 18",
-  "licencia": "CC Attribution"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-287ebc7d09b945589b70eeb9c8c37e0d",
-  "fuente": "Sketchfab (API v3 search, downloadable=true)",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D de fan 'Student council β ver' — varios personajes del consejo estudiantil juntos, descargable",
-  "para_que": "Base de escena grupal para Blender, punto 18 (pose de grupo de referencia)",
-  "licencia": "CC Attribution"
  },
  {
   "url": "https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War_season_1",

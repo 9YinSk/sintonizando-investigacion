@@ -58,3 +58,23 @@ Patrón: interiores cálidos (crema/ocre) cuando hay calma o música; exteriores
 con cerezos en tonos naranja-dorado (tarde) para momentos emotivos; azul frío
 sólo en la calle nocturna de Kaori (soledad, su enfermedad). Sirve de guía de
 paleta por escena para la lámina.
+
+## 9 · Música y sonido
+
+Confirmado con la página «Music» de la wiki de Fandom (wikitext, infobox de
+cada tema) **y** viéndolo yo mismo en el rip: minuto exacto de OP y ED dentro
+del episodio 2 (mismo minutaje en todos los episodios de este rip, ~22:50 c/u).
+
+- OP1 «Hikaru Nara» (光るなら, Goose house), episodios 1-11 · shigatsu-wa-kimi-no-uso.fandom.com/wiki/Hikaru_Nara · ✅ (wiki + visto en `2.mp4` min 0:32-2:05, letra en inglés coincide) · min 0:32-2:05 del ep. 2
+- OP2 «Nanairo Symphony» (七色シンフォニー, Coalamode.), episodios 12-22 · shigatsu-wa-kimi-no-uso.fandom.com/wiki/Nanairo_Symphony · ✅ (wiki; no lo vi en vídeo por falta de tiempo, pero el dato de la wiki trae infobox con episodios exactos) · —
+- ED1 «Kirameki» (キラメキ, wacci), episodios 1-11 · shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kirameki · ✅ (wiki + visto en `2.mp4` min 22:00-22:50, letra «chanto me wo mite tsutaetai» = «quiero mirarte a los ojos y decírtelo») · min 22:00 del ep. 2
+- ED2 «Orange» (オレンジ, 7!! / Seven Oops), episodios 12-21 · shigatsu-wa-kimi-no-uso.fandom.com/wiki/Orange · ✅ (wiki; ojo: **no** es el opening, como parecía sugerir `datos-video.md` por el nombre de los AMV de Dailymotion) · —
+- ED3 «Orange (Acoustic Ver.)», sólo episodio 22 (el final) · ✅ (visto en los créditos del propio episodio 22, min 22:00: «エンディング・テーマ『オレンジ (Acoustic Ver.)』7!!») · min 22:00 del ep. 22
+- Compositor de la banda sonora: Yokoyama Masaru (横山克) · créditos del ep. 2 (min 1:36) y MusicBrainz (`datos-video.md`, discos «Bonus Disc 3/4») · ✅
+- Tema instrumental de la escena final (Ep. 22, ~21:00): Balada n.º 1 en Sol menor, Op. 23, de Chopin, violín Sayaka Sezaki, piano Tomoki Sakata · visto en créditos del propio episodio · ⚠️ (una fuente directa; el capítulo 43 del manga se titula «Ballade», coincide) — ambiente: cierre emocional, cerezos cayendo, sol
+- Inserto vocal en la misma escena: «Kirameki (versión: interpretación de Kousei y Kaori)» de wacci · créditos ep. 22 · ⚠️ (una fuente, créditos propios)
+- Música usada en la escena del tejado (Ep. 3, min 17-21, Kaori llora y Kousei acepta ser su acompañante): Variaciones de Mozart K.265 («Twinkle Twinkle»), 3.er mov. de la Sonata Claro de Luna de Beethoven, Rondó Caprichoso de Saint-Saëns · shigatsu-wa-kimi-no-uso.fandom.com/wiki/Episode_03:_Inside_Spring (sección «Music used») · ⚠️ (una fuente, ficha de episodio) · min 17:00-21:00 ep. 3
+- Ambiente sonoro general: piano y violín en vivo casi todo el metraje (no hay «score» electrónico); silencio total en los momentos en que Kousei «no puede oír» su propio piano (recurso narrativo, se nota en la mezcla: el piano desaparece del audio aunque siga tocando en pantalla) · visto en ep. 3 min 18:00 y ep. 1 · ⚠️ (observación propia, un solo pase)
+- Efecto reconocible: el «tictac» del metrónomo/latido que se oye cuando Kousei entra en pánico al piano (motivo recurrente de ansiedad) · visto en varios episodios · ⚠️ (observación propia)
+
+## 10 · Vídeos: tráileres, escenas, análisis y tendencias

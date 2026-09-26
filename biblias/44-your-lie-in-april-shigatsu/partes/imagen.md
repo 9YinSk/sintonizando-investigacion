@@ -75,17 +75,22 @@ No encontré un banco de «fondos de pantalla oficiales» (Aniplex/Crunchyroll n
 
 ## 19 · Texturas 2D
 
-- Grano de papel / trama de manga: no encontré una trama concreta identificada del manga de Naoshi Arakawa en esta tanda (no hay escaneos de páginas en la wiki de imagen con detalle de trama). Equivalente libre para reproducirla en Photoshop: **pinceles de screentone CC0** de OpenGameArt «Manga Screentone Brush Pack» — ⚠️ no verifiqué el enlace exacto a tiempo, ver «No encontré».
-- Textura de papel/partitura (para fondos de cuadernos de música, muy propio de la serie): ambientCG `Paper001` (CC0, PBR completo: difuso/normal/rugosidad) · https://ambientcg.com/view?id=Paper001 · ✅ (catálogo ambientCG, licencia CC0 explícita en la ficha) · 
-- Textura de madera clara (piano/aula): ambientCG `Wood049` (CC0) · https://ambientcg.com/view?id=Wood049 · ✅
-- Ver Hallazgos completos de texturas y pinceles abajo, con enlaces uno por uno (se llenan en la siguiente pasada de este punto si el tiempo lo permite).
+Todas de ambientCG (CC0 declarado en cada ficha y en https://ambientcg.com/faq, «Public Domain / CC0», libre para uso comercial sin crédito). Pensadas como capa de textura real encima del dibujo plano (punto 19 junto con 3D del punto 3 y sitios del punto 4, para que no falte ninguna capa).
+
+- Papel/partitura (para fondos de cuadernos de música y hojas de pentagrama, muy propio de la serie): ambientCG `Paper001` · https://ambientcg.com/view?id=Paper001 · ✅ CC0 · PBR completo (difuso/normal/rugosidad)
+- Madera clara (piano de cola, aula, suelo de la sala de música): ambientCG `Wood049` · https://ambientcg.com/view?id=Wood049 · ✅ CC0
+- Tela de lana gris (saco del uniforme escolar): ambientCG `Fabric061` · https://ambientcg.com/view?id=Fabric061 · ✅ CC0
+- Metal cepillado (herrajes del piano, clavijero del violín): ambientCG `Metal049A` · https://ambientcg.com/view?id=Metal049A · ✅ CC0
+- Cuero (funda del violín, mocasines, guante de sóftbol): ambientCG, categoría Leather (varias fichas, p. ej. `Leather011`) · https://ambientcg.com/list?type=Material&q=leather · ⚠️ (catálogo confirmado, no medí una ficha concreta)
+
+**Tramas de manga (screentone) — no encontré una libre y gratis equivalente.** Busqué en OpenGameArt (`screentone`, `halftone`: sin resultados), itch.io (`tag-screentone`, `tag-manga` en la sección gratis: sin resultados; sólo hallé un pack de pago de 3-10 USD de Rachel Chen, «Digital Shojo Manga Screentones Pack 1», con licencia de un solo usuario, no libre) y Wikimedia Commons (bloqueado por límite de tasa, 429, dos intentos). Alternativa práctica sin descarga: el filtro **Color Halftone** de Photoshop (Filtro > Pixelar) genera la trama de puntos del manga sin necesitar ningún archivo con licencia — lo anoto para quien monte la lámina, no es una fuente con licencia así que no cuenta como hallazgo del punto.
 
 ## 23 · Colaboraciones y cruces
 
 - Cover musical oficial de Goose house del ED «Hikaru Nara» (colaboración discográfica con arte propio de Kaori, ver punto 1) · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/8/85/Miyazono.Kaori.full.1800153.jpg · ✅
 - Cosplay de calidad documentado en Openverse/Flickr (Sakura-Con 2016, AMG2015, ACMY2015, Kuantan CosWalk 2016) — varios cosplayers de Kaori con violín y vestido, materiales textiles reales · https://live.staticflickr.com/1471/26020166541_970134c2d9_b.jpg (Sakura-Con 2016, CC BY-NC-SA 2.0) y 6 más en `imagen.json` · ✅ (repetido en varias convenciones, mismo patrón de vestuario)
-- No encontré colaboraciones con marcas, gachas, Fortnite ni cafés temáticos en esta tanda (búsquedas «Your Lie in April collab», «四月は君の嘘 コラボ カフェ» sin resultado claro más allá de eventos de época del estreno 2014-2015 no verificables hoy). Si el dueño confirma un café temático japonés de 2015 lo puedo agregar en un repaso.
-- Figuras oficiales: no llegué a confirmar una figura con licencia (Good Smile Company / Kotobukiya) en esta tanda — pendiente, ver «No encontré».
+- No encontré colaboraciones con marcas, gachas, Fortnite ni cafés temáticos confirmados. Busqué «Your Lie in April collaboration», «Shigatsu wa Kimi no Uso コラボ», «Shigatsu wa Kimi no Uso カフェ» y en la wiki (`srsearch=merchandise|collaboration|cafe`, sin resultados en la wiki de imagen). No es raro: la serie terminó en 2015 y no tiene juego gacha propio (a diferencia de series con crossover habitual tipo Fate o Uma Musume).
+- Figuras oficiales: no pude confirmar con fuente una figura con licencia (Good Smile Company, Kotobukiya, Banpresto) en esta tanda. Intenté `goodsmileshop.com` (sin resultados en la búsqueda) y MyFigureCollection (bloqueada a `curl`; `herramientas/navegar.py` falló: el navegador headless no está instalado en este contenedor — `BrowserType.launch: Executable doesn't exist`). Si el dueño necesita esto, hace falta reintentar con el navegador disponible o a mano.
 
 ## Lo mejor para la lámina
 
@@ -101,8 +106,9 @@ No encontré un banco de «fondos de pantalla oficiales» (Aniplex/Crunchyroll n
 - Videojuego oficial de la franquicia (no existe, según búsqueda; se confirma con el investigador de texto que tampoco lo halle para el punto 11).
 - Cartones de cuenta atrás / eyecatch oficiales.
 - Café temático o colaboración de marca confirmada.
-- Figura oficial con licencia (Good Smile / Kotobukiya) confirmada con fuente.
-- Pinceles/tramas de manga con licencia libre específicos para el punto 19 (quedó a medias, ver Sigue).
+- Figura oficial con licencia (Good Smile / Kotobukiya / Banpresto) confirmada con fuente.
+- Pinceles/trama de manga (screentone) con licencia libre y gratis (sólo hallé un pack de pago).
+- `herramientas/navegar.py` no funciona en este contenedor (falta el ejecutable de Chromium headless) — bloqueó la búsqueda de figuras en sitios que rechazan `curl`.
 
 ## Bitácora
 
@@ -112,6 +118,11 @@ No encontré un banco de «fondos de pantalla oficiales» (Aniplex/Crunchyroll n
 - Wallhaven (ya recolectado, revisado y ordenado).
 - Openverse (ya recolectado: fan art expuesto + cosplay).
 - Sketchfab: sin `--con-gemini`, probé `https://api.sketchfab.com/v3/search?type=models&q=your+lie+in+april&downloadable=true` y variantes en inglés y japonés romanizado — sin resultados relevantes.
-- Pendiente: ambientCG (texturas, punto 19) y pinceles de trama — sólo 2 texturas confirmadas, falta profundizar.
+- ambientCG API (`type=Material&q=paper|wood|fabric|metal|leather`) — 5 texturas CC0 elegidas y citadas en el punto 19.
+- OpenGameArt (`screentone`, `halftone`) e itch.io (`tag-screentone`, `tag-manga` en la sección `/free/`) — sin resultado libre; sólo un pack de pago.
+- Wikimedia Commons API — 429 (límite de tasa) en dos intentos, sin insistir más.
+- Fandom API `srsearch=merchandise|collaboration|cafe` — sin resultados en la wiki de imagen para el punto 23.
+- `goodsmileshop.com` (búsqueda de figuras) y `myfigurecollection.net` — sin resultado / bloqueado; `navegar.py` no disponible en este contenedor (Chromium headless no instalado).
+- Recortes propios con Pillow (no `estilo.py` completo) sobre 9 imágenes locales para el punto 15, apuntando coordenadas por prenda tras mirar cada imagen con Read.
 
-Sigue: profundizar el punto 19 (más texturas/pinceles con licencia libre concretos, tramas de manga) y confirmar o descartar figuras oficiales y café temático del punto 23.
+Pendiente sin ser obligatorio (queda en «No encontré»): figuras oficiales, café temático, cuero medido con hex propio, más fan art de Pixiv listado uno por uno.

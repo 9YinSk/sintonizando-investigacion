@@ -148,3 +148,107 @@ Paletas medidas con `estilo.py` sobre fotogramas propios o arte oficial, no inve
 
 **Texturas reales equivalentes**: ⚠️ sin enlace concreto verificado. Buscar papel, tela oscura y bambú en [ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=paper) (CC0). No se comprobó si hay washi.
 
+## 5 · Tipografía: una letra por uso
+
+Las tres letras libres propuestas se comprobaron con `fontTools`: traen tildes, ñ, ¿ y ¡ ✅.
+[Noto Sans JP](https://fonts.google.com/noto/specimen/Noto+Sans+JP) · [Cinzel](https://fonts.google.com/specimen/Cinzel) · [M PLUS Rounded 1c](https://fonts.google.com/specimen/M+PLUS+Rounded+1c) (Google Fonts, licencia OFL).
+Logo vectorial de referencia (no nombra la letra): [Seeklogo](https://seeklogo.com/vector-logo/507894/tsukimichi-moonlit-fantasy).
+
+| Uso | Cómo es en la serie | Letra libre |
+|---|---|---|
+| Logo japonés | 月が導く異世界道中 en gótica japonesa extranegra, blanca con borde negro y sombra. El 月 lleva dentro una luna creciente dorada ✅ | Noto Sans JP Black |
+| Logo latino | «TSUKIMICHI -Moonlit Fantasy-» en sans geométrica fina, muy espaciada, tipo Futura ⚠️ | Cinzel Black para títulos en latín (propuesta de la parte de texto). ⚠️ No hay geométrica fina verificada |
+| Rótulo «第二幕» (T2) | Pincel fino y pequeño sobre el título ✅ | ⚠️ Sin letra de pincel verificada |
+| Globo normal | Manga: gótica/mincho mezclada, vertical ⚠️ (convención japonesa) | Noto Sans JP Bold |
+| Grito | Más grande y gruesa, globo con picos ⚠️ | Noto Sans JP Black, un poco inclinada |
+| Pensamiento | Nube ondulada con colita ⚠️ | M PLUS Rounded 1c Medium |
+| Onomatopeya | ⚠️ No documentada en las partes | M PLUS Rounded 1c ExtraBold con contorno |
+| Cartel del mundo | Madera tallada, 葛 y 葉 a los lados del emblema, letras inventadas del idioma Común debajo ✅. Mapa: serif negrita para reinos, sans estrecha para ciudades ✅ | Cinzel Black tallada o quemada en madera |
+| Título de capítulo | Manga: gótica negrita, «第一夜：勇者…失格＼(^o^)／» ✅. Anime: «第一夜» en cursiva negrita sobre fondo oscuro ✅ | Noto Sans JP Black |
+| Interfaz de juego | Caja inferior con el nombre en negrita encima ⚠️ (inferido, sin captura) | Noto Sans JP Bold y Regular |
+| Subtítulos | Sans blanca normal, estilo Crunchyroll ⚠️ | Noto Sans JP Medium blanca con borde oscuro |
+
+## 6 · Cómo hablan y piensan en pantalla
+
+Lo más importante: aquí no hay burbuja blanca genérica. La serie cuenta con estos recursos.
+
+- **La voz en off irónica de Makoto.** Narra sus desgracias por encima de la imagen: «Una aventura en otro mundo suele comenzar de esta manera…» (ep. 1, 0:01) ✅. En una lámina va como cartela o nota escrita, no como globo.
+- **Cartelas por «noches».** Cada capítulo es una noche: «第一夜» (Primera noche), en cursiva negrita clara sobre fondo oscuro, metida en la primera escena ✅ (ficha «Anime Episode 01» de la wiki). La cuenta hispana ♕Anime_Latino♕ lo traduce «Decimosegunda Noche: Guiado Por La Luna» ✅.
+- **Recuadro de reacción.** Cuando Tomoe pide que la llamen samurái, Makoto reacciona dentro de un recuadro azul aparte (ep. 1, 22:00) ✅. Sirve para un «aparte» cómico.
+- **Viñeta circular de luna.** En el ending, el trío ríe dentro de un círculo de luna (ep. 3, 23:20-23:30) ✅. En la T2 el ending pasa a chibi con un sol sonriente (T2 ep. 1, 22:12-23:40) ✅.
+- **El letrero de la Kuzunoha.** Madera tallada marrón cálida con 葛 葉 y el emblema; debajo, letras inventadas del idioma Común ✅ ([imagen](https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/e/ee/Kuzunoha.png/revision/latest?cb=20240930164259), 1643×1043).
+- **Fichas del tráiler T2.** Nombre del personaje en grande, kanji y actor al lado (0:27-0:30) ✅.
+- **Globos del manga.** Óvalo blanco de borde fino, nube para pensar, picos para gritar, recuadro negro con letra blanca para el narrador ⚠️ (convención del manga japonés; no se revisó página por página).
+- **Juego *Peace Chronicles*.** Caja rectangular abajo, nombre en negrita encima ⚠️ (inferido: el juego pide cuenta y no hay captura).
+- **La lengua como chiste.** Makoto no entiende el idioma de los hyumans: puede hablar con todo menos con ellos ✅ (wiki, «Story Timeline»). ⚠️ De memoria del redactor, sin ver en esta tanda: en el anime, al principio les habla escribiendo, y sus frases salen como texto escrito en el aire. Comprobarlo en T1 ep. 3-4 antes de usarlo: sería el cuadro de diálogo más propio de la serie.
+- La parte de vídeo cita «pantallas de videojuego dentro del propio anime» como parte del humor, sin minuto ⚠️.
+
+**Propuesta para las láminas**: tablilla de madera tallada (tienda Kuzunoha) para la información; cartela oscura «Noche X» para el título; círculo de luna para el aparte irónico de Makoto.
+
+## 7 · Personajes y popularidad
+
+No se encontró encuesta oficial publicada. Hay dos medidas de fans que coinciden en el podio ✅.
+
+- **Encuesta japonesa «みんなのランキング»** ([ranking.net](https://ranking.net/rankings/best-tsukimichi-characters), 81 votantes, 21-sep-2026), nota de 1 a 100: 1.º Makoto 77.2 · 2.º Tomoe 76.4 · 3.º Shiki 75.2 · 4.º Mio 65.7 (pero la más votada: 33 votos) · 5.º Tsukuyomi 56.9 · 6.º Sofia Bulga 55.1 · 7.º Mondo · 8.º Shifu Rembrandt · 9.º Eris · 10.º Daena Severus.
+- **Favoritos en [AniList](https://anilist.co/anime/125206)**: Tomoe 1359 · Mio 1154 · Makoto 854 · Shiki 170 · Eris 141 · Sofia Bulga 89 · Tsukuyomi 83.
+- **Dibujos de fans en [Danbooru](https://danbooru.donmai.us/posts?tags=tsuki_ga_michibiku_isekai_douchuu)**: Mio 65 y Tomoe 51 ⚠️ (una fuente).
+- ⚠️ Hay un «2.º sondeo oficial de personajes» en rancolle.com, pero la página no cargó.
+
+**Lectura**: Makoto gana en nota porque todo el que ve la serie lo vota. Tomoe y Mio ganan en cariño (favoritas y dibujadas). La más querida de verdad es **Tomoe**; Mio va pegada.
+
+**Reparto a mano**: Makoto (protagonista), Tomoe (dragona, 1.ª sirviente), Mio (araña, 2.ª), Shiki (liche, 3.º, sabio y tranquilo), Emma y Beren (orcos de Asora), Eris y Aqua (ogras comerciantes cómicas), Sofia Bulga (la aventurera más fuerte, rival), Tsukuyomi (dios de la Luna, lo envía), la Diosa (antagonista, odiada con gusto), Hibiki Otonashi (otra heroína invocada).
+
+## 8 · Doblaje latino: reparto y frases
+
+Ficha de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Tsukimichi%3A_Moonlit_Fantasy), leída por su [API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Tsukimichi:_Moonlit_Fantasy):
+estudio **VSI Mexico City**, dirección Alex Delint (T1) y Betzabé Jara (T2), traducción Amalia Bobadilla, mezcla Fernando Herrera, grabación Óscar Gálvez (T1) y Abraham Padilla (T2), producción Laura J. Suinaga. Doblada desde guiones de Crunchyroll, estrenada en Latinoamérica entre 2022 y 2024, 37 episodios.
+Segunda fuente para el reparto principal: [anuncio de Crunchyroll del 29-ene-2024](https://www.crunchyroll.com/es/news/announcements/2024/1/29/elenco-staff-doblaje-latino-tsukimichi-moonlit-fantasy-2) ✅. Serie en [Crunchyroll](https://crunchyroll.com/series/GZJH3D719/tsukimichi-moonlit-fantasy-).
+
+| Personaje | Seiyū | Voz latina | Estado |
+|---|---|---|---|
+| Makoto Misumi | Natsuki Hanae | Ferso Velázquez | ✅ |
+| Tomoe | Ayane Sakura | Valca Ponzanelli (como dragona «Shin» en el ep. 1: Víctor Covarrubias) | ✅ |
+| Mio | Akari Kitō | Diana Nolan (como araña en el ep. 2: César Beltrán) | ✅ |
+| Shiki | Kenjirō Tsuda | Arturo Cataño (T1) · Pato Hitch (T2, ep. 17-37) | ✅ |
+| Emma | Saori Hayami | Rossy Aguirre | ✅ |
+| Beren | Shinpachi Tsuji | Juan Alfonso Carralero | ✅ |
+| Aqua | Lynn | Angélica Villa | ⚠️ |
+| Eris | Minami Tanaka | María José Guerrero | ⚠️ |
+| Mondo | Akio Ōtsuka | Víctor Delgado (T1) · José Antonio Macías (T2) | ⚠️ |
+| La Diosa | Reina Ueda | Luz Menchaca | ⚠️ (oída en el ep. 1, sólo Doblaje Wiki la nombra) |
+| Sofia Bulga | Miyuki Sawashiro | Alex Delint | ⚠️ |
+| Mitsurugi / Lancer | Sōma Saitō | Luis Leonardo Suárez · Emmanuel Alejandro (adulto, T2) | ⚠️ |
+| Tsukuyomi | Tomoaki Maeno | Beto Castillo | ⚠️ |
+| Toa | Yurika Kubo | Azucena Martínez | ⚠️ |
+| Rinon | Aiko Ninomiya | Pamela Mendoza | ⚠️ |
+| Hibiki Otonashi | Ai Kakuma | Casandra Acevedo | ⚠️ |
+| Komoe | Ayane Sakura | Auri Maya | ⚠️ |
+| Patrick Rembrandt | Kazuhiko Inoue | Santos Alberto | ⚠️ |
+| Morris | Masaharu Satō | Francisco Colmenero | ⚠️ |
+
+⚠️ = sólo Doblaje Wiki, que además avisa: «no colocar voz sin confirmación del actor».
+
+**Frases textuales del doblaje latino**, oídas en los episodios 1 y 2 en español latino ([ep. 1](https://archive.org/details/anime-online-ninja-tsukimichi-bd-latino-01), [ep. 2](https://archive.org/details/anime-online-ninja-tsukimichi-bd-latino-02), Internet Archive) y transcritas con `voz.py`, revisadas de oído ✅:
+- Makoto, narrando al empezar (ep. 1, 0:01-0:38): «Una aventura en otro mundo suele comenzar de esta manera (…) pero estas son las chicas que me tocaron a mí (…) si he aprendido algo al venir a otro mundo es que no tengo suerte».
+- La Diosa, al invocarlo (ep. 1, 5:00-5:11): «¡Ay, no es cierto que tú eres el hijo de esos dos! ¡Eres horroroso! ¡Puro pato y nada de cisne! ¡Eres un patito feo, escuálido y horrible!».
+- Makoto, solo en el páramo (ep. 1, 8:01-8:16): «Tres días no he escuchado más que mi propia voz, mis pasos y el viento (…) ¡me siento tan solo! ¡Triste es mi vida!».
+- Tomoe como dragona «Shin», ceremoniosa (ep. 1, 20:01-20:24): «Visitante de otro mundo. Mi nombre es Shin. Soy un dragón superior y se me considera invencible (…) mi señor Makoto, ¿quiere hacer un pacto conmigo?».
+- Makoto, furioso con la Araña Negra (ep. 2, 18:23): «¡Maldita! Oye, ¿por qué estás tan feliz chupándome la sangre?».
+
+**Cómo suena cada uno** (`voz.py`):
+- Makoto narrando: registro medio (192 Hz), muy expresivo (20.8 semitonos), rápido (3.1 palabras/s). Ironía marcada.
+- Makoto triste: mismo tono, pero el rango sube a 28.3 semitonos con el grito final. Habla a ráfagas y calla más.
+- La Diosa: aguda (244 Hz), cantarina que se vuelve cortante (21.3 semitonos, 3.6 palabras/s).
+- Tomoe presentándose: 234 Hz, dicción formal, sin muletillas (19.2 semitonos, 3.2 palabras/s).
+- ⚠️ Las fichas de actor de Doblaje Wiki no traen audio de esta serie: por eso se oyeron los episodios.
+
+## 9 · Música y sonido
+
+- **Compositor**: Yasuharu Takanashi ✅ ([staff oficial](https://tsukimichi.com/1st/staffcast/) y Wikipedia). Dirección de sonido: Shouji Hata, con Sound Team Don Juan ✅.
+- **T1**: opening «Gamble» («ギャンブル», a veces «Gambling») de **syudou** · ending «Beautiful Dreamer» de **Ezoshika Gourmet Club** ✅ ([página MUSIC oficial](https://tsukimichi.com/1st/music/), [ficha del opening](https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Gambling_%28song%29), créditos vistos en el ep. 1, 1:50).
+- **T2, primera mitad**: opening «Utopia» de **Keina Suda** · ending «My Factor» de **Kent Itō** ✅ ([ficha](https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Utopia_%28song%29), créditos vistos en T2 ep. 1, 1:18-2:22).
+- **T2, segunda mitad**: opening «Reversal» de **syudou** · ending «Jōshiki Hazure Human» de **Kaori Maeda** ⚠️ (sólo Wikipedia).
+- **La canción-gag**: «Aa Jinsei ni Namida Ari» («Ah, hay lágrimas en la vida»), homenaje a la canción de un viejo dorama de samuráis. Se repite en capítulos sueltos cantada por los actores en personaje: versión 1 Makoto solo, versión 2 Tomoe y Mio a dúo, versión 3 (T2) Makoto y Shiki ✅ ([ficha](https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Aa_Jinsei_ni_Namida_Ari_%28song%29); ending real visto en T2 ep. 1, 23:32). Convive con el ending oficial: doble capa de humor.
+- **Ambiente**: los openings son rock rápido de autor (syudou, Keina Suda); el gag suena a tema de época.
+- ⚠️ No se encontró qué tema suena en las escenas emotivas ni una lista de efectos de sonido u onomatopeyas con minuto. [MusicBrainz](https://musicbrainz.org) no dio nada de la serie y [AnimeThemes](https://api.animethemes.moe) respondió error 522 todas las veces.
+

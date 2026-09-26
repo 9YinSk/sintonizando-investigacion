@@ -60,13 +60,22 @@ reconocible por el fandom.
   interferencia (líneas horizontales, grano, el símbolo de «señal de radio» ondulando), y su marco
   de cámara imita un dial antiguo cuando transmite ✅ (dos fuentes citadas en la guía interna del
   equipo `_Cuadros de dialogo por franquicia.md`: [Hazbin Hotel Wiki, Mario Vargas](https://hazbinhotel.fandom.com/es/wiki/Mario_Vargas), [Doblaje Wiki, Hotel Hazbin](https://doblaje.fandom.com/es/wiki/Hotel_Hazbin)). Dato de sabor: **en el doblaje latino (Chile, Caja de Ruidos) se olvidaron de quitar el filtro de radio de Alastor en el final de la T1** cuando le rompen el bastón — error real, queda grabado ✅.
-- **666 News (VoxTek) usa cartela de noticiero real**: banda inferior roja con el logo de VoxTek,
-  ticker de texto corriendo abajo, nombre y cargo del presentador en caja blanca, todo dentro de un
-  «marco de televisor» con viñeteado, exactamente como un canal de cable de los 2000 ✅ (imagen
-  `666 News main series.png`, 1920×1080, wiki oficial: [666 News](https://hazbinhotel.fandom.com/wiki/666_News); coincide con el lema «Murder! Sex! Weather!» repetido en redes oficiales) · sirve de referencia directa de «cartela del mundo».
-- **VoxTek (marca del Overlord Vox/Valentino) tiene su propio logo corporativo**, año de fundación
-  1952 en el lore, usado en anuncios, coches y merchandising dentro del mundo ✅ (imagen `VoxTek
-  Logo.png`, 1920×1080, [wiki VoxTek](https://hazbinhotel.fandom.com/wiki/VoxTek); confirmado también en merchandising real de BoxLunch). Sirve de plantilla para cualquier «anuncio dentro del mundo» de la lámina.
+- **La cartela/bumper de 666 News, mirada de verdad** (bajé `666 News main series.png` 1920×1080 y
+  la abrí con Read + Pillow, no me quedé con la descripción de la wiki): es un **logo circular que
+  brilla en neón cian** (`#64BBB7` aprox., medido con Pillow) con «666 NEWS» en letra deco
+  garabateada que dibuja dos cejas y un **ojo** en la base del círculo, sobre fondo **rojo muy
+  oscuro casi negro** (`#280101` aprox.) — no es una cartela con ticker inferior como sugería el
+  texto de la wiki, es un **ident/bumper de apertura** tipo canal de cable ✅ (imagen vista
+  directamente, [666 News](https://hazbinhotel.fandom.com/wiki/666_News); lema «Murder! Sex!
+  Weather!» repetido en redes oficiales). Sirve de referencia directa de «cartela del mundo» con
+  su propia paleta (corrijo mi primera lectura del wikitext, que no había mirado la imagen).
+- **VoxTek (marca del Overlord Vox/Valentino), logo mirado directamente**: wordmark «VOXTEK» en
+  mayúsculas condensadas (no script), cian con sombra roja desplazada, encima de un icono de «V»
+  que dobla de aguja de osciloscopio y onda de señal, con anillos rojos concéntricos de radar
+  detrás, todo sobre fondo azul con marco cian — año de fundación 1952 en el lore, usado en
+  anuncios, coches y merchandising ✅ (imagen vista directamente, `VoxTek Logo.png`, 1920×1080,
+  [wiki VoxTek](https://hazbinhotel.fandom.com/wiki/VoxTek); año confirmado también en merchandising real de BoxLunch). Sirve de plantilla de «anuncio dentro del mundo»: el wordmark pide una
+  condensada gruesa tipo **Oswald Bold** o **Anton**, no una script.
 - **El móvil de Blitzo (Helluva Boss) usa una app de mapa** con las siete anillas de Hell marcadas,
   interfaz tipo GPS genérico (fondo oscuro, pines de colores) ✅ (imagen `Mapapp.jpg`, 2500×2500,
   [wiki Rings of Hell](https://hazbinhotel.fandom.com/wiki/Rings_of_Hell)) — es la referencia más concreta de «interfaz de móvil» del mundo.
@@ -302,3 +311,8 @@ completo — eso es el punto 3/19 de imagen):
 - Comparación con biblias ya hechas del servidor (punto 24): se miró `canal:` de
   `biblias/104-steven-universe/biblia.md`, `biblias/17-arcane/biblia.md` y
   `biblias/13-rick-and-morty/biblia.md` (sólo la cabecera, no se leyeron enteras: no son mi rol).
+- **Imágenes miradas de verdad** (bajadas con `curl` + cabecera `Referer`, convertidas de WebP con
+  Pillow y abiertas con Read): `666 News main series.png` y `VoxTek Logo.png` — corrigió la
+  descripción del punto 6, que al principio se basó sólo en el wikitext de la wiki y no coincidía
+  con lo que se ve en la imagen real. Colores medidos con Pillow (`Image.getpixel`): fondo de 666
+  News ≈ `#280101`, cian del logo ≈ `#64BBB7`, wordmark VoxTek ≈ `#50DADB`.

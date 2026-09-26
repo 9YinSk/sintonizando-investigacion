@@ -77,6 +77,16 @@ búsquedas de opening/ending/tráiler en AnimeThemes y Dailymotion no dieron nad
 | Link a caballo con el brazo en alto, silueta a contraluz sobre el mar al atardecer | *Tears of the Kingdom*, tráiler final | 2:40 | celebrar / animar |
 | Espada Maestra clavada en la hierba con brillo verde (restaurada) | *Tears of the Kingdom*, tráiler final | 3:00 | presentar (objeto) |
 | Zelda de pie, silueta sola en una plataforma flotante contra el cielo | *Tears of the Kingdom*, tráiler final | 4:40 | pensar / contemplar |
+| Ganondorf de pie, capa al viento, mano alzada en gesto de mando (ilustración, no vídeo) | *Ocarina of Time 3D*, artwork oficial | enlace: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/OoT3D_Ganondorf_Artwork.png | presentar (villano) / mandar |
+| Ganon a medio puñetazo, cuerpo en torsión, puño hacia el espectador (ilustración) | *Ocarina of Time*, artwork oficial «Ganon Punch2» | enlace: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ce/Ganon_Punch2.jpg | regañar / atacar |
+| Zelda sosteniendo una antorcha con las dos manos, mirada baja y suave (ilustración) | *Tears of the Kingdom*, modelo oficial «TotK Princess Zelda Model» | enlace: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/14/TotK_Princess_Zelda_Model.png | explicar / animar |
+| Zelda de pie, de frente, manos entrelazadas al frente, vestido azul largo (ilustración) | *Breath of the Wild*, artwork «The Champions' Ballad» | enlace: https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/06/BotW_Zelda_The_Champions%27_Ballad_Artwork.png | presentar |
+
+Las 4 filas marcadas «ilustración» son arte oficial de la wiki (hoja `personajes_02.jpg`,
+números 58, 74, 77 y 85), no fotogramas de vídeo; las uso porque el punto 14 admite
+«fotogramas o ilustraciones» y sirven para equilibrar el número de poses por personaje
+(Link 6, Zelda 6, Ganon 5). Los enlaces están medidos por la API de Fandom (ancho×alto
+reales, ver `video.json`).
 
 ## Lo mejor para la lámina
 
