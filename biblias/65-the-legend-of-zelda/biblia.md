@@ -603,7 +603,7 @@ Zelda **cambia de estilo en cada época, a propósito**. No hay un solo «look Z
 **Cómo hacerlo en Photoshop** (capas de abajo arriba):
 1. Color plano (Normal).
 2. Sombra en 1 o 2 bandas (Multiplicar, 60-80 %, **sin degradado** para *Wind Waker*).
-3. Luz (Trama u Superponer donde da el sol).
+3. Luz (Trama o Superponer donde da el sol).
 4. Contorno de 2-3 px en gris muy oscuro, no negro puro.
 5. Papel o lienzo (Superponer, 10-20 %).
 6. Grano suave y viñeta (Camera Raw) al final.
@@ -632,3 +632,52 @@ Zelda **cambia de estilo en cada época, a propósito**. No hay un solo «look Z
 - **Ojo Sheikah:** hoja nº104, [imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/dd/BotW_Crest_of_the_Sheikah_Symbol.png/revision/latest?cb=20160505151000) (807×747). ✅
 - Vectores SVG libres para calcar: [Ojo Sheikah](https://www.svgrepo.com/svg/321355/sheikah-eye), [Trifuerza](https://www.svgrepo.com/svg/323529/triforce). ⚠️
 - **Patrón de ropa:** el tapiz dorado con dibujo rojo (nº109) y los bordados dorados `#D99936` del vestido de Zelda.
+
+## 20 · Gustos y detalles de cada personaje
+
+Zelda no tiene fichas con cumpleaños y comida favorita como un anime.
+Lo que hay sale de *Hyrule Historia* (2011), la *Encyclopedia* (2018) y lo que se ve jugando.
+
+| Personaje | Le gusta | No soporta | Aficiones | Cumpleaños | Altura |
+|---|---|---|---|---|---|
+| Link | los caballos (Epona), la Espada Maestra, cocinar (BotW) | fallarle a quien protege | montar, explorar, cocinar, dormitar | no hay fecha oficial | 170 cm en OoT ⚠️ |
+| Zelda | la ciencia, la tecnología Sheikah, la arquitectura, la historia, la naturaleza | sentir que no está a la altura | investigar, observar la naturaleza | no hay fecha oficial | 1,68 m (5'6") ⚠️ |
+| Ganondorf | el poder, dominar Hyrule, su corcel negro | perder el control | montar su corcel, la guerra | no hay fecha oficial | 231 cm en forma bestia ⚠️ |
+
+- Alturas: *Hyrule Historia* resumido por [CBR](https://www.cbr.com/loz-characters-age-height-zodiac-sign/). ⚠️ una fuente indirecta.
+- **Cumpleaños: no existen.** Se buscó en *Hyrule Historia*, la *Encyclopedia* y la wiki. CBR les asigna un signo del zodiaco por juego editorial: **no usarlo como dato**. ⚠️
+- **Objetos que siempre llevan:** Link, la Espada Maestra y el escudo (Deku de niño); en BotW, el Sheikah Slate colgado del cinturón. ✅ Zelda, el Sheikah Slate al empezar BotW y el arco de luz cuando lucha. ⚠️
+- **Aficiones de Zelda:** [GameFAQs, «Hobbies of the Rich»](https://gamefaqs.gamespot.com/switch/189707-the-legend-of-zelda-breath-of-the-wild/faqs/75427/hobbies-of-the-rich). ⚠️
+- **Caballos:** Link con Epona en casi todos los juegos. Ganondorf tiene su propio corcel negro de ojos rojos en OoT, TP y TotK ([Zelda Wiki independiente](https://zeldawiki.wiki/wiki/Ganondorf's_Horse)). ⚠️
+- **Cómo se ven:** Link carga con ser «el elegido» sin quejarse; su padre también fue caballero. ⚠️ Zelda duda de merecer su título porque su poder tardó años. ✅ (coincide con su frase del doblaje)
+
+## 21 · Por qué la gente la ama
+
+- **Libertad y física.** Fuego, viento, hielo y electricidad se combinan; «ningún recorrido es igual a otro» ([3DJuegos](https://www.3djuegos.com/juegos/the-legend-of-zelda-breath-of-the-wild/noticias/zelda-breath-of-the-wild-es-unico-razones-por-las-que-debes-jugarlo-190205-5216)). ✅
+- **Crítica.** Casi 40 notas perfectas al salir BotW; «una clase maestra en el diseño de mundo abierto» ([Vandal](https://vandal.elespanol.com/analisis/switch/the-legend-of-zelda-breath-of-the-wild/43030)). ✅
+- **Ventas.** Casi 4 millones de BotW en el primer mes (2,76 M en Switch y 1,08 M en Wii U) ([Xataka](https://www.xataka.com/videojuegos/the-legend-of-zelda-breath-of-the-wild-ha-sido-mucho-mas-que-el-juego-del-ano)). ✅
+- **Con quién se identifica el público:** con la Zelda de BotW y TotK, porque es insegura y humana, no la princesa perfecta. ⚠️
+
+**Escenas que hacen llorar:**
+- **Zelda llora en brazos de Link** (BotW, un recuerdo recuperado). Se grabó con la directora en cabina por lo difícil que era. ⚠️
+  - Cómo está hecha: primer plano cerrado de perfil, luz baja y cálida detrás, silencio salvo su voz rota. Es el recurso típico de Zelda: parar la acción en un plano quieto.
+  - Fotograma equivalente: [2:09](https://www.dailymotion.com/video/x8k22ef?t=129).
+  - Reacción: comentarios tipo «la forma en que Link la mira me rompe el corazón»; se asocia al *ship* «Zelink». ⚠️ Resumen de buscador, sin el comentario original.
+  - Música: no se identificó la pista. ⚠️
+- **La despedida de Midna** (final de TP), con «Midna's Lament». ⚠️ Sin clip propio.
+
+**Escenas que hacen reír:** los memes del CD-i, «I am Error», el premio de las 900 semillas Korok (punto 12).
+**Escenas que hacen gritar:** la Espada Maestra en su pedestal ([0:45](https://www.dailymotion.com/video/xa39e4u?t=45)); la Espada restaurada en TotK ([3:00](https://www.dailymotion.com/video/x8k28ay?t=180)).
+⚠️ No se llegó a Reddit: la búsqueda «scene that made you cry» no dio resultado directo.
+
+## 22 · Fan dubs y comunidad hispana
+
+YouTube bloqueó el servidor toda la sesión. Por eso hay pocos datos de vistas.
+El fandub de Zelda es pequeño: es un juego, no un anime.
+
+- **Fandub verificado:** «The Legend of Zelda Orígenes - Skyward Sword [Fandub Latino]», canal ADRIAN COBOS 0.2, 8:18 min, 20 vistas ([Dailymotion](https://www.dailymotion.com/video/x7g7gvb)). ✅
+- **Fandubs por título:** «El Multiverso de Zelda (Serie Completa) — Fandub Español Latino» y «Zelda: Morshu RTX ON — Fandub Español Latino». ⚠️ Sin vistas ni fecha.
+- **La actriz oficial en la comunidad:** Jessica Ángeles, voz de Zelda, habla con fans en TikTok y fue invitada a la convención mexicana Frikiplaza ([3DJuegos.lat](https://www.3djuegos.lat/cine-y-tv/voz-zelda-tiene-sorpresa-para-fans-mexico-jessica-angeles-actriz-doblaje-estara-frikiplaza)). ✅
+- **Covers de openings:** no aplica; la música es instrumental. No se llegó a buscar covers de «Zelda's Lullaby». ⚠️
+- **Memes hispanos propios:** no se encontró uno viral. El fandom hispano comparte los memes en inglés (Navi, CD-i, «I am Error»). ⚠️
+- **Gancho para el servidor:** el héroe más famoso del videojuego **no tiene voz** en sus juegos 3D. Un reto de doblaje perfecto.

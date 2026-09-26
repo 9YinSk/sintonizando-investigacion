@@ -211,3 +211,10 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
   terminar de sacar las hojas; sólo quedan las hojas JPEG en
   `/tmp/claude-0/trabajo/17-arcane-video/` (fuera del repositorio, como pide
   AYUDANTE.md).
+
+Sigue: verificar con fotograma propio el opening («Enemy», YouTube pidió
+login las dos veces que lo intenté hoy — reintentar en frío, esperando los
+3-5 min que pide AYUDANTE.md, o por Dailymotion/Internet Archive si aparece
+una copia); y, si hay tiempo, mirar 1×05 y 1×06 para encontrar la prueba
+nocturna «todo flota, funciona» de Jayce y Viktor con Mel (no está en 1×03
+ni en los primeros 26:50 de 1×04, que sí miré enteros).

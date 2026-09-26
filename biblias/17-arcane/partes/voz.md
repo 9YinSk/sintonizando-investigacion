@@ -57,6 +57,25 @@ créditos de prensa de Netflix Latinoamérica: **cierra varios ⚠️ de §10.1*
   Eduardo Garza) — no encontré un tercer sitio que lo repita fuera del
   círculo Doblaje Wiki/Bolavip.
 
+### Tabla fija (para pegar tal cual)
+
+Arcane no es anime: no hay seiyū japonés, así que esa columna lleva el
+actor de la **voz original en inglés**.
+
+| Personaje | Seiyū (voz original) | Voz latina | Fuente 1 | Fuente 2 |
+|---|---|---|---|---|
+| Jinx | Ella Purnell | Karla Falcón | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Rock&Pop](https://www.rockandpop.cl/2024/10/festigame-itau-2024-las-voces-de-arcane-estaran-presentes-en-el-esperado-evento-de-videojuegos/) |
+| Vi | Hailee Steinfeld | Romina Marroquín Payró | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Bolavip](https://bolavip.com/gamer/Arcane-la-serie-de-League-of-Legends-confirma-su-elenco-de-voces-en-latino-20210921-0044.html) |
+| Jayce Talis | Kevin Alejandro | Miguel de León | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/) |
+| Viktor | Harry Lloyd | Igor Cruz | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/) |
+| Caitlyn Kiramman | Katie Leung | Karina Altamirano | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [TikTok SDV](https://www.tiktok.com/@sdv_serviciosdevoz/video/7442462275287452983) |
+| Ekko | Reed Shannon | José Antonio Toledano | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/) |
+| Silco | Jason Spisak | Nicolás Frías | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Bolavip](https://bolavip.com/gamer/Arcane-la-serie-de-League-of-Legends-confirma-su-elenco-de-voces-en-latino-20210921-0044.html) |
+| Heimerdinger | ⚠️ no lo confirmé esta sesión | José Luis Orozco | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/) |
+| Vander | JB Blanc ✅ (confirmado en la ficha de Arcane Wiki que abrí para el punto 21) | Dafnis Fernández | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/) |
+| Mel Medarda | Toks Olagundoye ⚠️ (mencionada en el reparto general de ComingSoon, no confirmé que sea ella específicamente) | Adriana Núñez | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/) |
+| Marcus | ⚠️ no identificado | Eduardo Garza | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) | [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/) |
+
 ## 12 · Lo que ama el fandom, y qué NO hacer (confirmación, ya en biblia.md §14)
 
 - Sin cambios de fondo. Sumo un dato que faltaba: la comunidad hispana

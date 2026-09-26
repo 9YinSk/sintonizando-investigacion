@@ -165,9 +165,104 @@ enmarca una reacción exagerada) y el efecto de "ojos en blanco".
   capa de óvalos blancos lisos — no hace falta una textura descargada, así que
   no cuenta como pendiente, pero sí queda documentado como técnica repetible.
 
+## 23 · Colaboraciones, cruces, figuras oficiales y cosplay
+
+43 ya cubrió Oshi no Ko, Mahjong Soul, Monster Strike, Saing, cruces de
+portada y figuras Good Smile de escala/Pop Up Parade — no lo repito. El
+enfoque de este encargo (rótulos/comedia) encaja con dos cosas que 43 no
+tocó: los **stickers oficiales de LINE con voz** (rótulos cómicos literales,
+hechos para chat) y los **Nendoroid con placas de cara intercambiables**
+(la misma idea de "una cara por emoción" que pide el punto 17 de la guía IA).
+
+- **Stickers oficiales de LINE con voz** — 24 diseños, 250 yenes, publicados
+  el 23-jun-2020 por Aniplex: frases/momentos icónicos como «お可愛いこと»
+  ("Qué mona...", muletilla de Kaguya) y «ドーンだYO!» (grito de Chika), con
+  voces nuevas grabadas para el pack · Aniplex oficial
+  (aniplex.co.jp/lineup/kaguya04) + Dengeki Hobby Web + collabo-cafe.com ·
+  ✅ (dos fuentes, japonés) — es la referencia más directa a "rótulos": son
+  literalmente frases + expresión + voz pensadas para usarse como reacción en
+  texto, igual que pediría la lámina de un canal de edición/doblaje
+- Segunda tanda de stickers («かぐやちゃん», Rare Kaguya chibi) ligada a la
+  película "First Kiss That Never Ends" · aniplex.co.jp (noticia oficial) ·
+  ⚠️ (una fuente, no crucé fecha exacta)
+- **Nendoroid Kaguya Shinomiya** (#1288, Good Smile Company): 3 caras
+  intercambiables (sonrisa normal, «qué mona…» y «¡qué lindo!» al ver a
+  Shirogane con orejas de gato), incluye el teléfono plegable, orejas de gato
+  y **cartelas de texto de escenas famosas** para recrear momentos —
+  literalmente placas de rótulo de cartón dentro de la caja · goodsmile.com/en/product/6955
+  + Kahotan's Blog (mikatan.goodsmile.info) · ✅ (dos fuentes oficiales) —
+  la pose de pie con uniforme es buena referencia 3D; las cartelas de texto
+  son referencia directa de cómo la propia franquicia diseña sus "rótulos"
+- **Nendoroid Yu Ishigami** (Good Smile, ligado a la película): 3 caras
+  intercambiables — neutra, llorando, y su frase meme «Cállate, idiota»
+  (うるせえ、バカ野郎) · goodsmile.com/en/product/11986 + varias tiendas
+  oficiales autorizadas (Kappa Hobby, P-Rex Hobby) que repiten la misma ficha
+  · ✅ (dos fuentes) — Ishigami es el personaje secundario con más presencia
+  de meme/cita cómica reconocible, encaja con «quizá un secundario es más
+  querido» de las reglas del dueño
+
+**Cosplay adicional (más allá de la foto CC BY-SA de Chika que ya tiene 43):**
+No encontré más fotos de cosplay con licencia libre clara (Openverse repite
+el mismo lote de 43); las tiendas de disfraces (Miccostumes, EZCosplay,
+CosDaddy) no dan licencia de imagen, sólo sirven para ver cortes de tela —
+anotado en «No encontré».
+
 ## Lo mejor para la lámina
 
-- (pendiente: se completa al terminar el punto 23)
+- Set de 5 modelos 3D CC-BY del mismo autor (Chika, Kei, Miyuki, Ishigami, Hayasaka) que completan el reparto de 43: https://sketchfab.com/3d-models/yu-ishigami-da365a42604842d093d5df14d43b47b0
+- Nendoroid Kaguya con cartelas de texto de escenas y 3 caras — referencia directa de "un rótulo por emoción": https://www.goodsmile.com/en/product/6955/Nendoroid+Kaguya+Shinomiya
+- Nendoroid Ishigami con su cara-meme «Cállate, idiota», el secundario más citado: https://www.goodsmile.com/en/product/11986/Nendoroid+Yu+Ishigami
+- Stickers oficiales de LINE con voz (24, con frases icónicas) como referencia de tono y de cuadro de diálogo cómico: https://www.aniplex.co.jp/lineup/kaguya04/news/detail/?id=62824
+- Kaguya (Moron), alter ego oficial de ojos vacíos del anime, y el gag de "ojos en blanco" repetido en manga y anime: hoja `comedia_01.jpg` #44 y #20/#38
+
+## No encontré
+
+- Danbooru/Safebooru: bloqueado por Cloudflare (igual que constató 43);
+  probé también `safebooru.org` (API de tags, `%kaguya%`) y no hay ninguna
+  etiqueta de la serie — el fandom de fan art de esta obra parece vivir más
+  en Pixiv/Twitter que en esos bancos.
+- HDRI de Poly Haven para un festival nocturno con puestos y farolillos (el
+  escenario cómico del arco 13): no existe uno cercano en su catálogo
+  (comprobado con la API, filtros `festival`, `market`, `lantern`).
+- Foto de cosplay con licencia libre del disfraz de sirvienta de Hayasaka o de
+  algún disfraz del festival cultural: sólo tiendas de venta de disfraces
+  (Miccostumes, CosDaddy, EZCosplay), sin licencia de imagen aprovechable.
+- Trama a cuadros para el lazo (ya lo dijo 43): sigue sin hacer falta, se
+  genera en Photoshop.
+- Búsquedas hechas (además de las de la bitácora): «Nendoroid Kaguya Shinomiya
+  Good Smile faceplates» (en), «Nendoroid Yu Ishigami dead fish eyes» (en),
+  «Kaguya-sama culture festival maid costume cosplay» (en), «かぐや様は告らせたい
+  LINEスタンプ 公式» (ja), «free manga speed lines impact brushes CC0» (en). No
+  llegué a buscar en coreano/chino por límite de tiempo de esta tanda.
+
+## Bitácora
+
+- Leída entera `biblias/43-kaguya-sama-love-is-war/partes/imagen.md` (24 mil
+  caracteres) antes de empezar, para no repetir consultas ni datos.
+- `herramientas/investigar_serie.py --wiki kaguyasama-wa-kokurasetai --paginas
+  "Kaguya (Moron)" "Nagisa Kashiwagi" "Go Kazamatsuri" "Chika Fujiwara"`: 106
+  imágenes enlazadas, 46 grandes → 1 hoja (`comedia_01.jpg`), mirada entera.
+- Fandom API `list=categorymembers&cmtitle=Category:Omake` y `Category:Extra
+  Chapters` (en): confirma que "Talk Chapter" y "Doujinshi Chapter" son los
+  extras cómicos oficiales de la serie.
+- Fandom API `action=parse&prop=wikitext` sobre "Episode 33", "Episode 7", "Yu
+  Ishigami", "Dual Confessions Culture Festival Arc" (en): para verificar (y
+  descartar, en el caso del café) datos de ambientación antes de darlos por
+  buenos.
+- Sketchfab API (`v3/search` con `chika fujiwara`, `shirogane kaguya`,
+  `ishigami kaguya`, `hayasaka kaguya`, en): 5 modelos nuevos del mismo autor,
+  confirmados uno a uno con `v3/models/<uid>`.
+- Wallhaven API (`atleast=1920x1080`, `purity=100`, ordenado por favoritos, en):
+  15 resultados, comprobados 5 con el detalle `/api/v1/w/<id>` para tags y
+  tamaño real; 3 no estaban en la parte de 43.
+- Danbooru (`donmai.us`) y Safebooru (`safebooru.org` API de tags) (en):
+  sin resultados para la serie, igual que constató 43.
+- Poly Haven API (`assets?t=hdris`): filtros `class/school/library/hall/cafe`
+  y `festival/market/lantern/string_light` (en) — "Comfy Café" encontrado
+  pero descartado al no confirmarse la escena; sin resultado para festival.
+- WebSearch (ja/en): Nendoroid Kaguya y Nendoroid Ishigami (faceplates),
+  disfraces de festival/cosplay, LINE stickers oficiales, pinceles de líneas
+  de velocidad — 5 búsquedas.
 
 ## No encontré
 
