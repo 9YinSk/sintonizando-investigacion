@@ -197,3 +197,119 @@ Colores medidos con `estilo.py` sobre fotogramas propios y renders de la wiki. L
 - Molduras doradas → [Metal048A](https://ambientcg.com/view?id=Metal048A). Madera de la casa de Blitzo → [Wood095](https://ambientcg.com/view?id=Wood095).
 - No hay damasco CC0 en ambientCG (búsqueda «WallpaperDamask», sin resultado).
 
+## Punto 5 · Tipografía: una letra por uso
+
+No hay manga ni videojuego: «una letra por uso» se adapta a rótulos, carteles del mundo, pantallas y subtítulos. Todas las letras libres se bajaron de Fontsource ([API](https://api.fontsource.org/v1/fonts), archivos en `cdn.jsdelivr.net`) y se comprobaron con `fontTools` para á é í ó ú ñ Ñ ¿ ¡. Todas son **OFL** (uso comercial libre).
+
+| Uso | La de la serie | Letra libre | ¿Tildes, ñ, ¿, ¡? |
+|---|---|---|---|
+| **Logo de Hazbin Hotel** | Déco de los años 20-30. El fandom la identifica como **Mr Darcy** (Insigne), retocada ⚠️ ([hilo de la wiki](https://hazbinhotel.fandom.com/f/p/4400000000000089255)); sólo uso personal | **Cinzel Decorative** ([archivo](https://cdn.jsdelivr.net/fontsource/fonts/cinzel-decorative@latest/latin-700-normal.ttf)); más fina: **Poiret One** | ✅ todas |
+| **Logo de Helluva Boss** | Letra **dibujada a mano**, garabateada, con doble trazo rojo sangre debajo; no es instalable ✅ ([pixelframe.design](https://pixelframe.design/helluva-boss-logo-font-generator/), [foro de dafont](https://www.dafont.com/forum/read/514789/helluva-boss-season-2)) | **Nosifer** ([archivo](https://cdn.jsdelivr.net/fontsource/fonts/nosifer@latest/latin-400-normal.ttf)) | ✅ todas |
+| **Rótulo de I.M.P.** | Letras a pincel, romas | **Butcherman** | ⚠️ todas **menos ¿**: si hace falta «¿», usar Nosifer |
+| **Texto normal / subtítulos** | Sans blanca con borde negro fino de Prime Video, centrada abajo; no cambia por personaje ⚠️ (nombre sin identificar) | **Oswald** | ✅ todas |
+| **Grito** (Blitzo, Angel Dust) | No hay letra de grito en pantalla | **Bangers** ([archivo](https://cdn.jsdelivr.net/fontsource/fonts/bangers@latest/latin-400-normal.ttf)) | ✅ todas |
+| **Pensamiento** | No existe: piensan cantando o en voz alta | **Caveat** (manuscrita) | ✅ todas |
+| **Onomatopeya** | Casi no hay: todo es sonido (mirado en peleas de *Helluva*) | **Permanent Marker** | ✅ todas |
+| **Cartel del mundo** (neones, casinos) | Tubos de neón | **Monoton** ([archivo](https://cdn.jsdelivr.net/fontsource/fonts/monoton@latest/latin-400-normal.ttf)) | ✅ todas |
+| **Anuncio de VoxTek** | Mayúsculas condensadas gruesas | **Oswald Bold** o **Anton** | Oswald ✅; Anton sin comprobar ⚠️ |
+| **Tabloide / ticker** | — | **Special Elite** (máquina de escribir) | ✅ todas |
+| **Interfaz** | No hay juego; el móvil de Blitzo usa una sans genérica de app ⚠️ | Oswald | ✅ |
+
+## Punto 6 · Cómo hablan en pantalla (el cuadro de la franquicia)
+
+**Lo más importante: aquí no hay globos.** Es un musical animado. Cada personaje con «filtro» tiene su propio marco, y el fandom lo reconoce.
+
+- **Alastor habla con estática de radio.** Su voz trae interferencia; en pantalla, líneas horizontales, grano y el símbolo de señal de radio ondulando, y el marco imita un dial antiguo cuando transmite ✅ ([Hazbin Wiki en español, Mario Vargas](https://hazbinhotel.fandom.com/es/wiki/Mario_Vargas), [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hotel_Hazbin), y la guía `_Cuadros de dialogo por franquicia` del equipo). Él controla el filtro: es su poder, la **«Acoustokinesis»**. También lanza risas, abucheos y gritos desde el bastón-micrófono ([Hellaverse Wiki, Alastor](https://hazbinhotel.fandom.com/wiki/Alastor)). El filtro se oye en `TR1` 1:38-1:59 ✅.
+  - **Dato de doblaje:** en la versión latina (Chile) **se olvidaron de quitar el filtro de radio** a Alastor al final de la T1, cuando le rompen el bastón ✅.
+  - De dónde sale: Medrano se inspiró en la versión con filtro de radio de _«You're Never Fully Dressed Without a Smile»_ (*Annie*) ⚠️ (la wiki lo cita de [MovieWeb](https://movieweb.com); no se vio la entrevista).
+- **La cartela de 666 News**, mirada de verdad (no sólo leída): **logo circular de neón cian** (`#64BBB7`) con «666 NEWS» en letra déco que dibuja **dos cejas y un ojo**, sobre **rojo casi negro** (`#280101`). Es un **ident de canal de cable**, no una cartela con ticker ✅ ([imagen 1920×1080](https://static.wikia.nocookie.net/hazbinhotel/images/e/e4/666_News_main_series.png/revision/latest?cb=20240405045841), [ficha](https://hazbinhotel.fandom.com/wiki/666_News)). Lema: _«Murder! Sex! Weather!»_.
+- **El logo de VoxTek**, mirado: «VOXTEK» en mayúsculas condensadas **cian** (`#50DADB`) con sombra roja desplazada, sobre una «V» que es a la vez aguja de osciloscopio y onda, con anillos rojos de radar detrás, fondo azul con marco cian ✅ ([imagen](https://static.wikia.nocookie.net/hazbinhotel/images/9/97/VoxTek_Logo.png/revision/latest?cb=20260128201127), [ficha](https://hazbinhotel.fandom.com/wiki/VoxTek)). Es la plantilla de «anuncio dentro del mundo».
+- **Letreros de neón con lo que sienten**: en «Loser, Baby», las inseguridades de Angel Dust salen escritas en **letreros de neón** alrededor (hoja sitios n.º 108, «What Makes Angel a Loser», con palabras como «ADDICT», «EASY», «USED GOODS»). Es **texto dentro del mundo** y sirve de cuadro de diálogo ✅ (visto en la hoja; descrito en la parte de voz).
+- **El móvil de Blitzo**: una llamada entrante en pantalla roja con botón de colgar (hoja Helluva n.º 10) y una app de mapa con los siete Anillos ([Mapapp.jpg](https://static.wikia.nocookie.net/hazbinhotel/images/4/41/Mapapp.jpg/revision/latest?cb=20220909081559), 2500×2500) ✅. Es la interfaz más concreta del mundo.
+- **I.M.P. habla como un anuncio**: cada capítulo de *Helluva* abre con el **jingle** comercial y el logo con trama de puntos (punto 9) ✅.
+- **Cómics en la wiki**: hay páginas con viñetas y globos negros de letra blanca, con Alastor y Vox (hoja sitios n.º 122-123, hoja Hazbin n.º 31). ⚠️ No se sabe si son oficiales: la parte de texto no encontró un cómic licenciado.
+- **Pensamientos:** no hay cajas de pensamiento. Lo que piensan lo **cantan** o lo dicen en voz alta.
+- **Subtítulos oficiales:** sans blanca con borde negro, centrada abajo, igual para todos ⚠️.
+
+## Punto 7 · Personajes y popularidad
+
+No hay AniList ni MAL (es occidental): se mide con encuestas de fans. **Alastor gana casi todas**; detrás, Angel Dust y Vox.
+
+- Foro de Fandom, _«Favorite Hazbin Hotel Character?»_: **158 votos**, gana **Alastor** · [encuesta](https://hazbinhotel.fandom.com/f/p/3100000000000001124) ⚠️.
+- Otra del mismo foro: **136 votos** entre Alastor, Angel Dust, Baxter, Charlie, Husk y Niffty · [encuesta](https://hazbinhotel.fandom.com/f/p/3100000000000001053) ⚠️.
+- **Angel Dust**: su vídeo musical «Addict» (2020, antes de la serie) pasó de **150 millones de vistas** · [Wikipedia](https://en.wikipedia.org/wiki/Angel_Dust_(Hazbin_Hotel)) ⚠️.
+- **Vox** es el que más creció en la T2 (2025), según Collider y Screen Rant · [Wikipedia](https://en.wikipedia.org/wiki/Vox_(Hazbin_Hotel)) ⚠️. Una encuesta de X lo votó «el más atractivo» ⚠️ (sin captura).
+- En r/HazbinHotel, lo más votado de las últimas semanas: qué personaje «asustaría más» (1634 puntos) y fan art de **Husk × Angel Dust** («Huskerdust») · [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=HazbinHotel) ⚠️ (muestra parcial).
+- **Helluva Boss**: sin encuesta con cifras. En foros y reseñas se repiten **Loona, Blitzo y Stolas**; **Fizzarolli** y **Ozzie** subieron tras la T2 ⚠️.
+- **No hay encuesta oficial** de Amazon, A24 o Medrano (búsquedas en español e inglés).
+
+**Conclusión:** para una lámina, el secundario más querido (**Alastor**) pesa más que la protagonista (**Charlie**). En *Helluva*, **Loona** y **Stolas**.
+
+## Punto 8 · Doblaje latino y frases textuales
+
+Fuente base: la ficha de **Doblaje Wiki** por su API. Segunda fuente: **SDP Noticias** o **ANMTV**.
+
+- ***Hotel Hazbin*** (título latino): **Caja de Ruidos** (Chile), dirección de **Ariela Yuri** en la T1, dirección musical de **Miriam Aguilar**; grabado en Chile en noviembre-diciembre de 2023 ✅.
+- ***Helluva Boss***: **Likan Studios** (Uruguay y México), dirección y adaptación de **Luis Leonardo Suárez**, que además dobla a Stolas ✅. Los actores son de varios países (Argentina, México, Guatemala).
+
+**Hotel Hazbin**
+
+| Personaje | Voz original | Voz latina (diálogo / canto) | Fuentes |
+|---|---|---|---|
+| Charlie Morningstar | Erika Henningsen | **Karla Carrizo** / Miriam Aguilar | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hotel_Hazbin), [SDP Noticias](https://www.sdpnoticias.com/geek/doblaje-de-hazbin-hotel-quien-hace-la-voz-en-espanol-de-cada-personaje-de-la-serie-para-adultos/) ✅ |
+| Vaggie | Stephanie Beatriz | **Cecilia Valenzuela** / Camila Arismendi | Doblaje Wiki, SDP ✅ |
+| Alastor | Amir Talai | **Mario Vargas** / Pedro Puga | Doblaje Wiki, SDP ✅ |
+| Angel Dust | Blake Roman | **Felipe Waldhorn** | Doblaje Wiki, SDP ✅ |
+| Husk | Keith David | Karoly Díaz | Doblaje Wiki, SDP ✅ |
+| Niffty | Kimiko Glenn | Camila Estánovich | Doblaje Wiki, SDP ✅ |
+| Sir Pentious | Alex Brightman | Nicolás Carmona | Doblaje Wiki, SDP ✅ |
+| Cherri Bomb | Krystina Alabado | Ariela Yuri (también directora) | Doblaje Wiki, [ANMTV](https://www.anmtvla.com/2024/01/hazbin-hotel-finalmente-se-estrena.html) ✅ |
+| Lucifer | Jeremy Jordan | Daniel Streeter / César Gutiérrez | Doblaje Wiki, SDP ✅ |
+| Vox | Christian Borle | Matías Fajardo | Doblaje Wiki, SDP ✅ |
+| Velvette | Lilli Cooper | Bárbara Bustamante | Doblaje Wiki, SDP ✅ |
+| Valentino | Joel Perez | Javier Jiménez | Doblaje Wiki, SDP ✅ |
+| Rosie | Leslie Rodriguez Kritzer | Carolina Villanueva / Miriam Aguilar | Doblaje Wiki ⚠️ |
+| Carmilla Carmine | Daphne Rubin-Vega | Maureen Herman / Romina Soto | Doblaje Wiki ⚠️ |
+| Sera | Patina Miller | Pilar Ahumada | Doblaje Wiki, SDP ✅ |
+| Adán | Alex Brightman | Óscar Olivares | Doblaje Wiki, SDP ✅ |
+
+**Helluva Boss**
+
+| Personaje | Voz original | Voz latina | Fuentes |
+|---|---|---|---|
+| Blitzø | Brandon Rogers | **Pedro Ruiz** (Argentina) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Helluva_Boss), [ANMTV](https://www.anmtvla.com/2024/08/helluva-boss-serie-web-recibe-su.html) ✅ |
+| Moxxie | Richard Horvitz | Alan Fernando Velázquez (México) | Doblaje Wiki, ANMTV ✅ |
+| Millie | Vivian Nixon Williams | Cassandra Valtier (México) | Doblaje Wiki, ANMTV ✅ |
+| Loona | Erica Lindbeck | **Carmen Mazariegos** (Guatemala) | Doblaje Wiki, ANMTV ✅ |
+| Stolas | Bryce Pinkham | **Luis Leonardo Suárez** (director) | Doblaje Wiki, ANMTV ✅ |
+| Octavia | Barrett Wilbert Weed | Azul Valadez (México) | Doblaje Wiki ⚠️ |
+| Verosika Mayday | Cristina Vee | Annie Rojas (México) | Doblaje Wiki ⚠️ |
+| Striker | Norman Reedus | René Sagastume (Arg., T1) / Edward Bosco (T2) | Doblaje Wiki ⚠️ |
+| Fizzarolli | Alex Brightman | Pascual Meza (México) | Doblaje Wiki ⚠️ |
+
+Foto del elenco de doblaje de la T1: [Elenco-Hotel_Hazbin.jpg](https://static.wikia.nocookie.net/doblaje/images/7/7a/Elenco-Hotel_Hazbin.jpg/revision/latest?cb=20240119012901&path-prefix=es) (2000×2000; documental, no para la lámina).
+
+**Frases textuales del doblaje latino.** Salen de las **muestras de audio oficiales** de Doblaje Wiki (la demo de cada actor, 10-25 s, sin música), transcritas y medidas con `voz.py`. El minuto es el de la muestra. ⚠️ marca palabras que Whisper oyó dudosas: reescuchar antes de citar. Ejemplos de archivo: [muestra de Charlie](https://static.wikia.nocookie.net/doblaje/images/5/5d/Hotel_Hazbin_-_Charlie_Morningstar_Voz.mp3/revision/latest), [muestra de Alastor](https://static.wikia.nocookie.net/doblaje/images/1/16/Hotel_Hazbin_-_Alastor_Voz.mp3/revision/latest).
+
+| Personaje | Frase | Minuto | Cómo suena (medido) |
+|---|---|---|---|
+| Charlie | «No, no, tú, perdóname. Lamento haberte presionado tanto, somos un equipo. Pensé que esto sería más sencillo, pero lo resolveremos juntas.» | 0:00 | aguda (283 Hz), muy expresiva (15 st), **lenta** (1,7 pal/s): calma, remarca cada palabra |
+| Vaggie | «¿En serio querías divertirte? Pues esa basura no nos representa. […] Nadie va a querer venir a un lugar que un ser poderoso como tú cree que es una pérdida de tiempo.» | 0:00-0:09 | aguda (276 Hz), **la menos expresiva** (9,4 st), **muy rápida** (3,86 pal/s): seca y directa |
+| Alastor | «Bueno, querida. Hace tiempo que no estoy activo en el infierno, y todos me recuerdan por mi programa de radio, que es el medio apropiado para expresarse de la mejor manera.» | 0:00-0:06 | aguda y nasal (295 Hz), muy expresiva (21,2 st), rápida (3,23 pal/s): **cadencia de locutor**, sonríe al hablar |
+| Angel Dust | «Son tantos ladrones y yo solito indefenso ⚠️ aquí. […] ¡Ladrón, suelta! ⚠️ Dime qué vas a hacerme.» | 0:01-0:14 | media (177 Hz), muy expresiva (27,7 st): de burlón a asustado en una frase |
+| Husk | «Te trataría mejor si fuera sincero. Esa versión falsa que muestras de ti me rompe las pelotas. Escucha, a nadie en ese hotel le importa quién eres, si eres famoso o sexy. Así que te recomiendo dejar de actuar.» | 0:00-0:10 | media (173 Hz), muy expresiva (28,9 st): rasposa, sube al regañar |
+| Niffty | «A veces las mamás bicho ⚠️ delante de sus crías, solo para amenazar al resto. ¡Ah! ¡Ah!» | 0:00-0:14 | **la más aguda** (358 Hz), rápida (3,63 pal/s): tierna y acaba en chillidos |
+| Vox | «Mi gente hermosa, aquí en VoxTek ⚠️ Enterprises siempre hemos estado a la vanguardia de la innovación. […] Confíennos su seguridad.» | 0:00-0:20 | **la más grave** (130 Hz): cadencia de anuncio de televisión |
+| Valentino | «¡Sí llegaste! ⚠️ ¡Quiti, ⚠️ otro trago! […]» (sigue con insultos fuertes) | 0:00-0:06 | aguda (300 Hz), muy expresiva (26,4 st): de seductor a agresivo |
+| Lucifer | «Eso es, ya está listo. Ahora van a conocer al mágico conejito ⚠️ que puede dar una voltereta hacia atrás. […] No hace falta que aplaudan. Muchas gracias, no se moleste.» | 0:00-0:19 | aguda (260 Hz), **la más expresiva** (33,7 st): titiritero que cambia de ánimo cada frase |
+| Sir Pentious | «¿De quién soy? ¿No lo sabes? Soy el gran… Sir Pentious. Inventor… arquitecto de la destrucción, villano extraordinario.» | 0:00-0:10 | aguda (312 Hz), **la más pausada** (1,59 pal/s): maestro de ceremonias |
+| Blitzø | «¡Stolas, no actúes como si lo que tenemos fuera algo más! ⚠️ […] Pero no, no puedo hacerlo hoy, ¿ok?» | 0:00-0:07 | media (151 Hz), muy rápida (3,5 pal/s): atropellado, a la defensiva |
+| Moxxie | «Bueno, se han ganado más guerras gracias a los avances tecnológicos. He investigado arduamente la historia de las armas…» | 0:00-0:10 | aguda (234 Hz): tono de conferencia, se emociona explicando |
+| Millie | «Ay no, a las freelance ⚠️ nos pagan… olvídalo. Vinimos para disfrutar el festival. El príncipe y nuestro jefe son novios.» | 0:00-0:06 | aguda (314 Hz): ligera y chismosa |
+| Loona | «A veces las cosas no son tan simples, las relaciones son caóticas, todos tienen problemas, en especial los papás, y a veces también la cagan. Bueno, casi siempre. No es porque no les importes.» | 0:00 | **la más grave de las mujeres** (132 Hz), lenta: plana y desganada, se ablanda al final |
+| Stolas | «Mis queridos plebeyos del círculo de la ira. Yo, Stolas de Ars Goetia, finalmente maldigo la cosecha de este año con el resplandor de la mágica luna de la cosecha.» | 0:00-0:10 | aguda (266 Hz): declamación teatral, alarga las vocales |
+
+**Frase del tráiler, en español:** Alastor, _«Es hora de recordarles a todos por qué estoy aquí»_ (subtítulo de `TR1es` 1:43, no doblaje) ✅.
+
+**Descartado:** el clip «A Match Made in Hell» (Dailymotion x9iq344) **no es doblaje oficial**: es un vídeo no oficial en inglés.
+

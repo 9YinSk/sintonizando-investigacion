@@ -156,3 +156,134 @@ Son películas: no hay capítulos. «Oficial» es el fotograma de ghibli.jp (192
 - Las películas completas no se vieron: YouTube pide iniciar sesión en el contenedor y no se usó ninguna cuenta.
 - Las escenas de Chihiro están en la biblia 98; las de Howl, en la 99; las de Mononoke, en la 100.
 
+## 3. Fan art y 3D con licencia
+
+Aquí va lo que sirve para **todo el estudio**. Lo propio de Chihiro, Howl y Mononoke está en las biblias 98, 99 y 100. Cada licencia se leyó en el campo `license` de la API de [Sketchfab](https://sketchfab.com). ✅
+
+**Modelos 3D descargables:**
+
+| Modelo | Autor | Licencia | Likes | Para qué |
+|---|---|---|---|---|
+| [Howl's Moving Castle Breakfast](https://sketchfab.com/3d-models/none-0e8fde91fdb5413494e878b0fef85cda) | Zeps3D | CC BY | 714 | la mejor «comida Ghibli» en 3D |
+| [Stylized clouds](https://sketchfab.com/3d-models/none-e326c36890364526910cba03c1393ebc) | lavakongen | CC BY | 557 | el cielo de cualquier lámina |
+| Mei | goart | CC BY | 488 | niña de *Totoro* |
+| TOTOROs (los tres tamaños) | goart | CC BY | 380 | grupo de Totoro |
+| Biplano rojo (estética *Porco Rosso*) | won1 | CC BY | 264 y 78 | aviones |
+| [Ramen from Ponyo](https://sketchfab.com/3d-models/none-5e614fea3aaf4e78bd82cf2b6e0e5c7a) | Discovered | CC BY | 200 | concepto B |
+| [Kiki's Delivery Service] Props collection | Kanna-nakajima | CC BY | 163 | objetos de Kiki |
+| Ghibli Head house (diorama de fan) | Mars_Sobaka | CC BY | 128 | casa «estilo Ghibli» |
+| Nabo (Turnip Head) | ncd.blueberry | CC BY | 117 | espantapájaros de Howl |
+| Fire - Calsifer / Calcifer | DonikXD / berchello | CC BY | 107 / 48 | Calcifer |
+| Nausicaä | lages.miguel | CC BY | 66 | personaje |
+| [My Neighbor Totoro](https://sketchfab.com/3d-models/none-ffb11769e03e4a9395416d714ccd66ce) | Vanillaburp | CC BY | 60 | concepto C |
+| [Robot left on Laputa](https://sketchfab.com/3d-models/none-a659068938054b64bbac15110ffd2fa1) | zionkoenig | CC BY | 55 | robot de *Laputa* |
+| A modeling of the Ghibli Catbus | Valentine_Ventura | CC BY | 42 | Gatobús (concepto C) |
+| Kamaji (釜爺) | godislove431 | CC BY | 37 | no estaba en la biblia 98 |
+| Kiki's Delivery Service Bread Wreath | — | CC BY | 25 | corona de pan de la panadería |
+| CatBus Mi Vecino Totoro | AcalliTwissLART | CC BY | 18 | Gatobús, ficha en español |
+| Sculpt January - Day 11 (Gatobús) | jason.lp.davis | CC BY | 18 | Gatobús |
+
+- ⚠️ **No libres** (sólo para mirar): Ramen Bowl from Ponyo (ckaosatom, CC BY-NC-SA, 101), Soot Sprite (duz_vr, CC BY-NC, 205), el Gatobús más votado (Patrickart.hk, CC BY-NC-ND, 169).
+- Crédito exacto al usar uno CC BY: «"<título>" by <autor>, CC BY 4.0, Sketchfab».
+- En Poly Haven no se buscó nada de Ghibli: no hay objetos de la franquicia.
+
+**Fan art transversal** (etiqueta `studio_ghibli` de [Safebooru](https://safebooru.org/index.php?page=post&s=list&tags=studio_ghibli)). Sólo referencia, nunca para pegar. ✅ autor localizado en los cuatro:
+- 2952×2075, de [endlessrz en X](https://x.com/endlessrz/status/1267082711153422336).
+- 1946×2048, comparación de estilos, de gan2 en X.
+- 1261×1600 y 1535×2037, dos versiones de un mismo artista en [ArtStation](https://www.artstation.com/artwork/zOoZm6).
+- 1280×1979, Totoro de *ayasal* en DeviantArt (con marca de agua).
+- Wallhaven x8oxez: Totoro de *DannyLaiLai*, 3072×1452, 535 favoritos. ⚠️ sólo referencia.
+
+**Fotos reales CC BY-SA 2.0** (Openverse): 10 fotos del **Museo Ghibli** en Mitaka, del mismo fotógrafo de Flickr, 1024×768: fachada, jardín y el robot de *Laputa* en la azotea. Ejemplo: [live.staticflickr.com](https://live.staticflickr.com/8313/8025600359_b89c00a1c1_b.jpg). ✅
+
+**Lo que enseña el fan art** (vocabulario de [Danbooru](https://danbooru.donmai.us/posts?tags=studio_ghibli)): pelo natural, ropa de tela sencilla y **fondo simple**. Es lo contrario del estudio, que pinta fondos detallados. Una lámina con fondo liso ya no parece Ghibli. ✅
+
+## 4. Fondos y sitios: luz, paleta y texturas reales
+
+La técnica (gouache sobre papel mojado) está en «El foco». Aquí, los sitios. Cada paleta, medida con `estilo.py` sobre el fotograma oficial. ✅
+
+| Sitio | Película | Luz y hora | Paleta medida | Línea |
+|---|---|---|---|---|
+| Bosque del Espíritu, rayos dorados ([mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg)) | *Mononoke* | día, sol filtrado | `#2E2823` `#463B27` `#D6D183` `#675223` `#95781E` `#B6A249` · brillo 42 % | poca, `#6C5228` |
+| Cocina del castillo, sartén al fuego ([howl016](https://www.ghibli.jp/gallery/howl016.jpg)) | *El castillo ambulante* | interior, fuego | `#8E6C56` `#61463C` `#362B28` `#E3DBCD` `#EB6E35` `#DFA881` · 56 % | normal, `#7C5144` |
+| Carretera de noche con el Gatobús ([totoro031](https://www.ghibli.jp/gallery/totoro031.jpg)) | *Totoro* | noche, faros | `#272A27` `#66523D` `#AB803E` `#C7A070` `#93807B` `#E3CC9C` · 48 % | normal, `#6B5138` |
+| Ola-pez en la tormenta ([ponyo025](https://www.ghibli.jp/gallery/ponyo025.jpg)) | *Ponyo* | tormenta de día | `#317AA9` `#C6EAE8` `#296A90` `#96C2CD` `#4C99BB` `#28516B` · 70 % | casi nada |
+| Bosque con Naoko pintando ([kazetachinu028](https://www.ghibli.jp/gallery/kazetachinu028.jpg)) | *El viento se levanta* | día, viento | `#66A93F` `#3B3B34` `#32743C` `#4F977A` `#A4A484` `#D5D7CD` · 52 % | normal, `#497143` |
+| Interior de la panadería ([majo028](https://www.ghibli.jp/gallery/majo028.jpg)) | *Kiki* | interior de día | `#232322` `#48403A` `#BD9F86` `#7F7A7A` `#7C503C` `#AA714F` · 45 % | normal |
+| Colina con espantapájaros ([howl010](https://www.ghibli.jp/gallery/howl010.jpg)) | *El castillo ambulante* | atardecer, viento fuerte | `#403639` `#694E3F` `#542C2D` `#352324` `#B99D89` `#A77951` · 39 % | — |
+| Calle de piedra del pueblo ([majo015](https://www.ghibli.jp/gallery/majo015.jpg)) | *Kiki* | tarde nublada, fría | `#263238` `#1E292E` `#CBB993` `#404B56` `#9D957D` · 34 % | — |
+| Valle con plantas raras y esporas ([nausicaa020](https://www.ghibli.jp/gallery/nausicaa020.jpg)) | *Nausicaä* | verde ocre apagado | `#273031` `#3D4341` `#142023` `#575A51` `#777560` `#A68D55` · 33 % | mucha |
+| Fábrica de aviones ([kazetachinu030](https://www.ghibli.jp/gallery/kazetachinu030.jpg)) | *El viento se levanta* | gris plomizo, difusa | `#2D302E` `#1D1E1B` `#494438` `#374E58` `#685C47` `#657676` · 31 % | mucha |
+
+- **Lectura:** exteriores y tormentas suben el brillo (48-70 %) y casi no tienen línea. Interiores de trabajo o comida son cálidos, de madera, con línea normal. ✅ (medido)
+- **La calle de *Kiki*** es la más fría y azulada medida: el estilo cambia de paleta según la película, pero no de técnica.
+
+**Texturas reales, CC0** (licencia leída en la API de [ambientCG](https://ambientcg.com)): ✅
+- Hierba de colina y bosque: [Grass001](https://ambientcg.com/view?id=Grass001), [Grass005](https://ambientcg.com/view?id=Grass005).
+- Adoquín del pueblo de Kiki: [PavingStones151](https://ambientcg.com/view?id=PavingStones151).
+- Tejado de la fábrica: [RoofingTiles013A](https://ambientcg.com/view?id=RoofingTiles013A).
+- Madera del mostrador y del suelo del castillo: [Planks030A](https://ambientcg.com/view?id=Planks030A), [WoodFloor051](https://ambientcg.com/view?id=WoodFloor051), [Wood060](https://ambientcg.com/view?id=Wood060).
+- Papel de acuarela claro: [Paper004](https://ambientcg.com/view?id=Paper004). Tela lisa para ropa sencilla: [Fabric034](https://ambientcg.com/view?id=Fabric034).
+- ⚠️ No hay en ambientCG «papel de acuarela mojado» (búsqueda «watercolor paper»: 0 resultados). Se imita con Paper004 y pinceles (punto 19).
+
+## 5. Tipografía
+
+**No hay una «letra Ghibli».** Cada película tiene la suya. Sólo el logo del estudio es fijo.
+
+**El logo.**
+- Totoro de perfil, con Chibi Totoro encima y dos setas detrás que hacen de orejas. Japonés arriba y «STUDIO GHIBLI» abajo, separados por una línea fina. ✅ ([Logos Wiki](https://logos.fandom.com/wiki/Studio_Ghibli) + [1000logos.net](https://1000logos.net/studio-ghibli-logo/))
+- «STUDIO GHIBLI» va en **Futura**. ✅ ([Scary Logos Wiki](https://freakylogo.fandom.com/wiki/Studio_Ghibli) + [Closing Logo Group](http://closinglogogroup.fandom.com/wiki/Studio_Ghibli_(Japan)))
+- ⚠️ Una recreación de fan en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Studio_Ghibli.png) dice MS Gothic e ITC Avant Garde. Es de un fan y Avant Garde se confunde con Futura a ojo: manda Futura.
+- **Historia:** 1972-1985 era Topcraft. 1985-1991, sin logo propio (Nibariki y Tokuma Shoten). Desde 1991, el Totoro, estrenado con *Recuerdos del ayer*. Desde 1993, uno secundario con sólo Chibi Totoro (merchandising, Blu-ray, redes). ✅
+- Lo diseñó Miyazaki. Es marca registrada en Japón, EE. UU. y la UE. ✅ (1000logos + logos-world)
+- El SVG oficial (1000×481) es **negro puro** `#000000` sobre transparente. Las versiones azul celeste son recreaciones. ✅ (medido en el SVG)
+
+**Títulos de algunas películas:**
+- *El castillo ambulante*: **Albertus** (Berthold Wolpe, Monotype, 1932-1940). ✅ ([fontmeme.com](https://fontmeme.com/howls-moving-castle-font/) + [fontbolt.com](https://www.fontbolt.com/font/howls-moving-castle-font/))
+- *Totoro*: **Spumoni**, redonda y saltarina. ⚠️ (una fuente)
+- *Chihiro*: una **Palatino**. ⚠️ (una fuente; el logo japonés está en la biblia 98)
+- *Mononoke*: no la encontré.
+
+**Letras libres «de aire Ghibli»** según un blog japonés de tipografía ([kyoukasho.net](https://www.kyoukasho.net/entry/ghibli-fonts)). ⚠️ (una fuente, de aficionado):
+- **Source Han Serif** (Adobe, OFL, [GitHub](https://github.com/adobe-fonts/source-han-serif)): mincho formal, aire de *La colina de las amapolas*, *Marnie* y *Porco Rosso*.
+- **Tanugo** (tanukifont.com, gratis): manuscrita, aire de *Ponyo*.
+- **Tetsubin Gothic** (BOOTH, gratis): gótica gruesa de trazo a mano, aire de *Laputa*.
+- **Checkpoint Font** (uso comercial permitido): redonda y gruesa, aire de *Nausicaä*.
+- ⚠️ A estas tres japonesas no se les comprobaron tildes ni ñ.
+
+**Una letra para cada uso.** Todas OFL. Jost y Noto Serif JP las comprobó aquí la parte de texto con `fontTools` (á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü). Las demás, la biblia 98 con el mismo método. ✅
+
+| Uso | Letra libre | Por qué |
+|---|---|---|
+| Logo o título | **Jost** | la mejor alternativa libre a Futura ([fontalternatives.com](https://fontalternatives.com/alternatives/futura/), [learnui.design](https://www.learnui.design/blog/futura-similar-fonts.html), [donstudio.com](https://donstudio.com/jost-a-google-font-similar-to-futura/)) |
+| Cartel del mundo | **Noto Serif JP** | es Source Han Serif; mincho sobrio, como los rótulos pintados |
+| Voz de un personaje (nota a mano) | **Klee One** | escritura cuidada, legible |
+| Grito | **Yuji Boku** | pincel grueso e irregular |
+| Pensamiento | **Zen Old Mincho** | fino y callado; Ghibli casi no usa pensamientos |
+| Onomatopeya | **Hachi Maru Pop** | redonda, infantil |
+| Interfaz de juego | **M PLUS Rounded 1c** | redondeada, típica de juego japonés |
+| Subtítulos o créditos | **Noto Sans JP** | neutra, legible en pequeño |
+
+- ⚠️ No hay alternativa libre clara a **Albertus**: salen Village, Asul o Grantham Roman ([typetype.org](https://typetype.org/fonts/albertus-similar-fonts/)), ninguna réplica.
+- ⚠️ No encontré qué letra usan los créditos finales ni los subtítulos latinos.
+
+## 6. Cómo hablan y piensan en pantalla
+
+**Ghibli no usa globos ni cartelas.** Se habla en voz y se calla mucho. El texto escrito vive **dentro del mundo**, pintado en el fondo con la misma luz y textura. ✅ (partes de texto y de vídeo; nada de eso aparece en 12 fotogramas medidos ni en las 3 hojas)
+
+- **Carteles de verdad, en japonés, pintados a mano.** En *Chihiro* hay un cartel con forma de ojo: 塩 («sal») de pupila y め («ojo») al lado; debajo, めめ y 三千眼 («tres mil ojos»), hacia el minuto 00:07:24. Dan la sensación de ser observada. ⚠️ (una fuente: [K-State English](https://englishkstate.org/2022/12/08/signs-signs-everywherethe-hidden-depth-of-japanese-signs-in-spirited-away/))
+- El rótulo **油屋** (*Aburaya*, «casa del aceite») y no 湯屋 («casa del agua caliente»): es el nombre del negocio, y 湯 y 油 se leen igual, «yu». ✅ (dos respuestas en [Yahoo Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1454570314)). Lo de «aceite sagrado» es ⚠️. Más en la biblia 98.
+- **Letrero colgante de hierro** de la panadería de *Kiki* (`fondos_01` n.º 50). ✅ (visto en la hoja)
+- **Rótulo «A-A-BEER»** pintado en un carro de Porthaven, en *El castillo ambulante* (`comida_viento_01` n.º 128). ⚠️ (leído en la hoja, en pequeño)
+- **Pensamientos:** no hay globos de pensamiento. Se piensa con silencio, mirada y viento.
+- **El silencio tiene nombre: *ma* (間).** Una pausa a propósito para que la escena respire. ✅ ([Sensacine México](https://www.sensacine.com.mx/noticias/noticia-1000202284/) + [Tumblr @isavstheworld](https://www.tumblr.com/isavstheworld/172528407297/the-concept-of-ma-%E9%96%93-in-miyazakis-movies)). Roger Ebert le dijo a Miyazaki que admiraba esos momentos quietos, y Miyazaki le dio la palabra *ma*. ⚠️ (una fuente; la entrevista original no apareció)
+- **Interfaz de videojuego:** no hay (punto 11).
+- **Qué NO hacer, con prueba:** en 1985 EE. UU. estrenó *Nausicaä* recortada como «Warriors of the Wind» y a la protagonista la rebautizaron «**Princesa Zandra**». Cambiar cómo habla un personaje de Ghibli es justo lo que el estudio no perdona. ✅ (punto 8)
+
+**El cuadro de diálogo para una lámina de estilo Ghibli** (nunca una burbuja blanca):
+1. **Un papel con gouache**: hoja de fondo a medio pintar, sujeta al tablero con cinta. El texto se pinta a pincel, con los mismos colores del fondo. Letra Klee One o Noto Serif JP.
+2. **Un letrero colgante** de hierro o de madera, como el de la panadería de Kiki. Título en Jost o Noto Serif JP.
+3. **Un cartel pintado dentro del fondo**, con la luz de la escena (placa de la parada del autobús, rótulo de una tienda).
+4. Para una frase suelta: **una nota de papel** clavada o pegada en un objeto del sitio. Letra Klee One.
+- Nada de cajas con borde negro, degradados de interfaz ni texto flotando delante de la escena.
+
