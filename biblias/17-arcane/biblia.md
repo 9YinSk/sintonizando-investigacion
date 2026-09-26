@@ -1067,6 +1067,427 @@ el **bastón** de Viktor, el **rifle** de Caitlyn.
 - **Luz de Zaun**: S1 `Jinx_37` y S8.
 - **Caras**: los avatares R6.
 - **Poses**: §15.
+- **Caras por emoción, de la serie** (segunda pasada): la tabla de §8,
+  con fotograma y `?t=`. Las mejores: Jinx alegre (2×04, 6:10), Vi
+  riendo (1×08, 14:16), Vi con rabia (1×03, 23:30), Jayce orgulloso
+  (1×04, 26:32).
+- **Luz de la mesa Hextech**: el fotograma de la gema en la mano de
+  Jayce (1×04, 12:12): el centro casi blanco `#D7F0F8`, el resto en
+  sombra cálida (§5.2).
+- **Volumen de una figura de verdad**: Nendoroid Jinx y Youtooz Vi y
+  Jinx (§18b.6, hoja `colaboraciones_figuras_01.jpg`, nº 182 y 186).
+
+### 18.6 Para una IA de texto (sus diálogos, en su voz)
+
+**Reglas generales**
+- **Frases cortas.** Nadie en Arcane da discursos largos, salvo Jayce
+  en público.
+- **Latino, no de España**: «bombón», «pastelito», «cariño». Nada de
+  «vosotros» ni «tío» (§14.2).
+- **El doblaje mantiene los tacos** del guion original, y **no dobla
+  los gritos ni los jadeos**: se dejaron los del inglés ✅ (Doblaje
+  Wiki, «Datos de interés», leído por la API). En texto: el grito va
+  en mayúsculas y sin palabra detrás.
+- **Sin onomatopeyas dibujadas**: la serie no las tiene. Si hacen falta,
+  van **pintadas con espray** (Jinx) o **a lápiz en un plano** (Hextech).
+- **La emoción se exagera en el ritmo, no en la cara**: Jinx alarga
+  vocales y salta de la risa a la rabia; Silco hace pausas; Vi corta.
+
+**Cada uno**
+- **Jinx**: cantarina y burlona. Alarga palabras en mayúsculas
+  («BOOORIIING»). Apodos y pullas. De golpe, miedo o rabia.
+- **Vi**: seca, sarcástica, de calle. Pocas palabras. Pica a Caitlyn.
+- **Jayce**: habla en plural («nuestro», «la era de…»). Entusiasta.
+- **Viktor**: calmado y exacto. En la T2, solemne, casi religioso
+  («la Gloriosa Evolución»).
+- **Silco**: suave, lento, amenaza con cortesía. Nunca grita (sólo con
+  Vander, §8 Silco).
+- **Ekko**: líder joven, frases con imagen, anima a su gente.
+
+**Frases reales, por emoción**
+
+| Emoción | Frase | Quién, dónde | Estado |
+|---|---|---|---|
+| Alegre, burlona | «**Mira, traje a tu novia**» (con un pastelito en la mano) | Jinx a Vi, 1×09, doblaje latino | ⚠️ una fuente: Doblaje Wiki, «Datos de interés», leído por la API |
+| Alegre, burlona | «That's because everyone else you know is **BOOORIIING!**» | Jinx a Ekko, *2XKO* | ⚠️ ([2XKO Wiki](https://wiki.play2xko.com/en-us/Jinx/Audio)); en inglés |
+| Alegre, burlona | «Jeeez. Least one of us got a sense of humor» | Jinx, *Path of Champions* | ✅ (§13) |
+| Enfadada | «If I hear fat-hands one more time!» | Vi, *Path of Champions* | ✅ (§13) |
+| Enfadada, desafiante | «**It's Jinx now! "Powder" fell down a well!**» | Jinx a Vi | ⚠️ ([CBR](https://www.cbr.com/arcane-jinx-best-quotes-netflix-league-legends/)); episodio sin comprobar |
+| Explicando | «No es la era de la magia: **es la era de la Hextech**» | Jayce, 1×03 | ✅ (§7.2) |
+| Explicando | «**Nuestro** sueño Hextech» | Jayce corrige a Viktor, 1×03 | ✅ (§2.1) |
+| Animando | «**A veces, para dar un paso hacia adelante, hay que dejar algo atrás**» | Ekko, 2×07, doblaje latino | ⚠️ una fuente: Doblaje Wiki por la API (antes, vía buscador) |
+| Animando | «Cuando vayas a cambiar el mundo, no pidas permiso» | Viktor a Jayce, 1×03 | ⚠️ ([Viktor · Arcane Wiki](https://arcane.fandom.com/wiki/Viktor)); traducción nuestra |
+| Triste, tierna | «**Fue un placer, cariño**» (en inglés, «It's been real, cupcake») | Vi a Caitlyn, 1×08, doblaje latino | ✅ Doblaje Wiki por la API + la guía de cuadros |
+| Triste | «Don't cry. **You're perfect**» | Silco a Jinx, 1×09, al morir | ✅ la frase (§18b.4); en latino ❌ no encontrada |
+| Triste, reflexiva | «In the pursuit of great, we failed to do good» | Viktor; Riot la estampó en una sudadera oficial | ✅ (§18b.6) |
+| Amenaza | «Los accidentes pasan» | Silco a Marcus, junto a su hija, 1×06 | ✅ visto (§2.3) + [sinopsis de la wiki](https://arcane.fandom.com/wiki/When_These_Walls_Come_Tumbling_Down) |
+| Sufrimiento (meme) | «**Oh, the misery**» | coro de *Enemy* | ✅ (§11, §14) |
+
+**Vocabulario de expresiones para la IA de imagen** (lo que Arcane sí
+usa): *subtle painterly expression*, *tearful eyes*, *clenched teeth*,
+*crooked mischievous grin*, *downcast eyes*, *head thrown back
+laughing*; los pensamientos de Jinx como *neon chalk scribbles drawn
+over the image*. Lo que **no** usa: gotas de sudor, venas de enfado,
+ojos de estrella, fondos de emoción con flores, *chibi* (§18.4).
+
+---
+
+## 18b.1 · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+> Todo lo de esta sección y las siete siguientes es de la segunda pasada
+> (26-sep), con las partes de imagen, voz y texto. La base del estilo ya
+> está en §3.6; aquí va **cómo lo hace el estudio** y **cómo copiarlo**.
+
+### Lo que usa Fortiche
+
+| Qué | Cómo | Fuente |
+|---|---|---|
+| **Programas** | **Maya** para modelos, esqueletos, animación y cámara; **Photoshop** para pintar a mano y proyectar sobre el 3D; **Nuke** para componer; **After Effects** para los efectos 2D | ✅ [RedShark](https://www.redsharknews.com/why-netflixs-arcane-looks-so-good-how-fortiche-ramped-up-the-animation-pipeline) + [SyncSketch, Alexis Wanneroy](https://blog.syncsketch.com/creator-stories/arcane-fortiche/) |
+| **Línea** | No es un contorno de *toon shader*: **la pintan a mano, temblorosa a propósito**, sobre la textura | ✅ [80.lv, artistas de fondos](https://80.lv/articles/arcane-artists-show-how-they-combine-traditional-art-3d-for-backgrounds) |
+| **Color de la línea** | Casi negra, nunca `#000`: el gris violeta de las sombras de Zaun, `#141416` (§5.2) | ✅ medido |
+| **Sombreado** | Luces y sombras **pintadas en la textura**, no calculadas; *shaders* propios que apagan el brillo del CG | ✅ RedShark |
+| **Velocidad** | Personajes a 24 fps; humo, explosiones y garabatos de Jinx a 12 fps (§3.6) | ✅ RedShark + SyncSketch |
+| **Grano y aberración** | En el vídeo de *Enemy*, al 3:00, hay distorsión RGB cian y magenta (§12). En los episodios no la medí | ⚠️ |
+
+### Encuadre y cómo se enmarca cada emoción
+
+- **Cámara «de verdad»** en la acción de cada día: temblor de lente,
+  salpicaduras en el «cristal», paneos a mano. **Cámara imposible** en
+  los recuerdos y los momentos íntimos: gira 360° alrededor del
+  personaje, atraviesa objetos ✅ ([«The Anicamera in Arcane»](https://formeinfullbloom.wordpress.com/2021/11/14/the-anicamera-in-arcane/)
+  + SyncSketch: el *storyboard* fija encuadre y pose antes de animar).
+- Lo que se ve en los fotogramas de §8 (mirados):
+  - **Humillación**: plano general, el personaje **diminuto en un
+    círculo de luz**, todos por encima (Jayce, 1×02, 14:48).
+  - **Miedo y trauma**: **primerísimo plano** de un ojo, luz fría azul
+    (Powder, 1×03, 27:15).
+  - **Rabia**: primer plano con la mirada de lado, sangre o suciedad en
+    la cara (Vi, 1×03, 23:30).
+  - **Alegría**: cabeza hacia atrás o de lado, luz cálida (Vi, 1×08,
+    14:16; Jinx, 2×04, 6:10).
+  - **Anunciar**: plano bajo, foco cenital, público delante (Jayce,
+    1×04, 24:20).
+
+### Cómo reproducirlo en Photoshop ⚠️ (guía nuestra, no de Fortiche)
+
+1. Parte de un render 3D o de una imagen base con la pose.
+2. **Pinta encima** con un pincel de óleo o *gouache* con textura. Que
+   se vea la pincelada. Nada de bote de pintura.
+3. Luces y sombras **a mano**, en una capa «Multiplicar» (sombra) y otra
+   «Trama» (luz), no con degradados.
+4. Contorno en capa aparte, pincel fino, **un poco tembloroso**, en
+   `#141416`.
+5. Al final, grano fino y una viñeta suave.
+6. Pinceles libres: §18b.2.
+
+### Cómo reproducirlo en Blender ⚠️ (guía nuestra)
+
+1. **Modelo**: objetos con licencia de §4.1 (martillo, guantelete,
+   granada). *Rigs* libres de los personajes: **no encontré ninguno
+   comprobado**; los modelos de Jinx de §4.1 son sólo para mirar poses.
+2. **Contorno**: *Freestyle* (Render → Freestyle) con grosor variable,
+   o el modificador **Line Art** (más rápido). Alternativa: **Solidify
+   invertido** (normales hacia dentro, material oscuro). Color
+   `#141416`, no negro puro.
+3. **Sombreado**: *Diffuse BSDF* → *Shader to RGB* → **ColorRamp** de
+   2-3 bandas. Corta la luz como una pintura.
+4. **Textura pintada**: píntala en Photoshop y proyéctala sobre el UV.
+   Eso es lo que hace Fortiche: pintar y proyectar.
+5. **Composición**: grano fino, contraste algo más bajo. Si algo se
+   anima, los efectos 2D a 12 fps.
+
+---
+
+## 18b.2 · Texturas 2D (punto 19)
+
+> Junto con §4.1 (3D) y §5.3 (texturas reales), no falta ninguna capa.
+> Licencias leídas por la API de cada sitio (parte de imagen).
+
+| Capa | Recurso | Licencia | Para qué |
+|---|---|---|---|
+| **Emblemas** | [Piltover_Crest.png](https://static.wikia.nocookie.net/arcane/images/c/c6/Piltover_Crest.png/revision/latest?cb=20241118070136) (4042×4167) y [Zaun_Crest.png](https://static.wikia.nocookie.net/arcane/images/b/bc/Zaun_Crest.png/revision/latest?cb=20241123234130) (3487×4167), fondo transparente, oro `#C7A965` | Arte de Riot, con crédito | Sello grabado en los planos; emblema de bando en la pared |
+| **Papel de plano** | [Paper006](https://ambientcg.com/a/Paper006), ambientCG: papel beige, con rugosidad y normal. Cerca del `#B39A84` de R1 | CC0 ✅ | Los planos Hextech |
+| **Metal viejo** | [Metal063](https://ambientcg.com/a/Metal063) (oscuro, envejecido) | CC0 ✅ | Tuberías y máquinas de Zaun |
+| **Óxido** | [Metal041B](https://ambientcg.com/a/Metal041B), [MetalWalkway014](https://ambientcg.com/a/MetalWalkway014) | CC0 ✅ | Pasarelas de Zaun |
+| **Chapa estriada** | [DiamondPlate009](https://ambientcg.com/a/DiamondPlate009) | CC0 ✅ | Suelo y mesa del laboratorio |
+| **Latón** | [Metal049A](https://ambientcg.com/a/Metal049A): metal plateado, lo más cercano; ambientCG no tiene latón | CC0 ⚠️ aproximado | Tíntalo hacia `#B4843C` |
+| **Tela a cuadros** | [Fabric060](https://ambientcg.com/a/Fabric060), [Fabric054](https://ambientcg.com/a/Fabric054) | CC0 ✅ | Chalecos de la gente rica de Piltóver |
+| **Cuero** | [Leather037](https://ambientcg.com/a/Leather037) | CC0 ✅ | Guantes de Jayce, chaqueta de Caitlyn T1 |
+| **Pinceladas** | [106 Concept Art Brushes](https://myphotoshopbrushes.com/brushes/id/3570/) (.abr) | «Free for Commercial Use» en la ficha ✅ | Pintar encima del 3D |
+| **Grunge** | [72 grunge and grit brushes](https://www.adobe.com/learn/photoshop/web/372-free-grunge-and-grit-brushes-for-photoshop), de Adobe | Gratis ✅ | El chisporroteo de los efectos de Jinx |
+| **Tramas** | [FREE Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037), Clip Studio Assets | «FREE» en la ficha ✅ | Sólo si se hace una viñeta de cómic: Arcane no usa tramas |
+| **Grafiti** | Fan art de §4.2 (mirar, no pegar) y [Painted Brick](https://polyhaven.com/a/painted_brick) debajo | CC0 la pared ✅ | La pared de Jinx |
+
+- **Patrones de ropa propios**: el top de Jinx con lazada en X y sus
+  nubes tatuadas (§16). No hay descarga: se pintan.
+- **Escudos que no existen**: los Firelights no tienen campo `symbol` en
+  su ficha y **no encontré escudo de la casa Kiramman** ⚠️. No los
+  inventes (§18b.8).
+
+---
+
+## 18b.3 · Gustos y detalles de cada personaje (punto 20)
+
+> **Arcane no tiene *databook***: es una serie occidental. No hay
+> cumpleaños ni comida favorita oficiales ❌ (buscado; no existen). La
+> **altura** sale de las hojas de producción citadas por la cuenta
+> oficial de Arcane ([Spideraxe en X](https://x.com/Spideraxe30/status/1555208521574240258),
+> [ComingSoon, que cita a @arcaneshow](https://www.comingsoon.net/guides/news/1876321-arcane-season-2-height-age-how-tall-old-is-jinx-vi-caitlyn)).
+> **Gustos y odios**: de las fichas de la [Arcane Wiki](https://arcane.fandom.com/wiki/Jinx),
+> una sola fuente ⚠️.
+
+| Quién | Le gusta | Odia | Aficiones | Altura | Edad |
+|---|---|---|---|---|---|
+| **Jinx** | El caos, sorprender; pintar con Isha | Que la llamen gafe; quedarse sola | Explosivos, armas, grafiti | 164 cm ⚠️ (otra fuente: 160) | 17-18 en la T2 ⚠️ |
+| **Vi** | Pelear; proteger a los suyos; los tejados | Los *enforcers*; que la subestimen | Boxeo callejero, *parkour* | 172 cm ⚠️ (otra: 174-175) | 22-23 ⚠️ |
+| **Jayce** | Inventar; dar discursos | Que la Hextech mate; la política sucia | Forja, Hextech | 184 cm ⚠️ (otra: 188) | «principios de los 30» ⚠️ |
+| **Viktor** | Ayudar a los enfermos de Zaun; la precisión | El sufrimiento sin remedio; el elitismo | Mecánica, anatomía | **172 cm** ✅ | «principios de los 30» ⚠️ |
+| **Caitlyn** | La justicia; resolver misterios | La corrupción | Tiro de precisión | 185 cm ⚠️ (otra: 183-188) | 22-23 ⚠️ |
+| **Ekko** | Su gente; su invento, el Z-Drive | Silco; perder gente | Liderar, aerotabla | **168 cm** ✅ | **20 al final** ✅ ([Arcane Wiki](https://arcane.fandom.com/wiki/Ekko)) |
+| **Silco** | Un Zaun libre; Jinx, como hija | Vander; Piltóver | El negocio del Shimmer, la estrategia | **177 cm** ✅ | no dicha |
+
+**El objeto que siempre lleva** ✅: Jinx, **Fishbones**, **Pow-Pow** y el
+**mono de juguete** con un ojo rojo (S8); Vi, los **guanteletes**; Jayce,
+el **martillo**; Viktor, el **bastón**; Caitlyn, el **rifle**; Ekko, el
+**bate con engranajes**; Silco, el **Shimmer** (cartel de §3.3).
+
+**Cómo se ve a sí mismo**:
+- **Jinx**: Powder «se cayó a un pozo»; ahora es otra (§18.6) ⚠️.
+- **Viktor** (T2): «**el Heraldo de lo Arcano**», que ofrece «la
+  **Gloriosa Evolución**»: un salvador ✅ (lore `es_MX`, §8).
+- **Silco**: su actor lo ve como «**el héroe de otra historia**» ✅ (§8).
+
+**Para comparar alturas en una lámina de grupo**: Caitlyn y Jayce, los
+más altos; Viktor y Vi, iguales (172); Jinx, la más baja.
+
+---
+
+## 18b.4 · Por qué la gente la ama (punto 21)
+
+### Las cifras
+
+| Qué | Dato | Fuente |
+|---|---|---|
+| Crítica | **100 %** en Rotten Tomatoes, T1 y T2; **96 %** del público en la T1 | ✅ [Rotten Tomatoes](https://www.rottentomatoes.com/tv/arcane_league_of_legends/s01), [MovieWeb](https://movieweb.com/arcane-netflix-fantasy-perfect-rotten-tomatoes-score/) |
+| Público | Nota de usuarios **9,4** en Metacritic, la más alta de Netflix ese año | ⚠️ MovieWeb, de segunda mano |
+| Audiencia | T1: **9 semanas** en el top 10 mundial, **187,6 millones de horas**, **30,2 millones** de reproducciones completas | ✅ [What's on Netflix](https://www.whats-on-netflix.com/news/how-well-has-arcane-done-on-netflix-all-the-stats-so-far/) |
+| Premios | **Emmy a Mejor Programa de Animación** en 2022 (T1, la primera serie de *streaming* que lo gana) y en 2025 (T2, «The Dirt Under Your Nails»); y Emmy de edición de sonido las dos veces | ✅ [Cartoon Brew](https://www.cartoonbrew.com/awards/arcane-emmy-netflix-fortiche-riot-254008.html), [Bubbleblabber](https://www.bubbleblabber.com/2025/09/arcane-season-2-secures-second-emmy-for-outstanding-animated-program/) |
+| Corea del Sur | Demanda **15,0 veces** la media de las series (marzo de 2025) | ✅ [Parrot Analytics](https://tv.parrotanalytics.com/KR/arcane-netflix) |
+
+### Con quién se identifica el público
+
+- **Jinx**: su derrumbe da miedo, pero se entiende. Una autora autista
+  cuenta que se sintió «gafe» toda la vida y que el cambio de nombre de
+  Powder a Jinx le habló de su identidad ⚠️ (un ensayo:
+  [«i'm a jinx»](https://curioodes.substack.com/p/im-a-jinx)).
+- **Viktor**: los reservados y reflexivos, y quien ve romperse su sueño
+  ⚠️ (un ensayo: [Substack](https://sain786.substack.com/p/the-human-condition-through-the-lens)).
+- En general: se entiende hasta a los villanos. Por eso Silco es de
+  los más queridos (§9) ⚠️ (varias reseñas, sin encuesta).
+
+### Las escenas que hacen llorar
+
+| Escena | Ep. y minuto | Qué pasa y por qué duele | Cómo está hecha | Fuente |
+|---|---|---|---|---|
+| **Vi llama «jinx» a Powder y se va** | 1×03, **23:30-24:45** | Tras la bomba que mata a Mylo y Claggor, Vi la culpa y la deja. La niña que quería ayudar lo rompe todo | Vi en primer plano con sangre en la mejilla; Powder sola, hombros caídos (fotogramas de §8) | ✅ visto |
+| **Silco apuñala a Vander** | 1×03, en la fábrica, durante las explosiones de Powder | El padre adoptivo de Vi y Powder «muere». En la T2 se sabe que Singed lo revivió como Warwick | Minuto ⚠️ sin sacar | ✅ [Vander · Arcane Wiki](https://arcane.fandom.com/wiki/Vander) (lo comprobé en su ficha por la API). **Corrección**: la parte de voz decía 1×06 |
+| **Silco consuela a Powder y la llama Jinx** | 1×03, **37:44-38:00** | El villano adopta a la niña rota | Relámpago azul detrás de Silco; ella con los ojos llorosos | ✅ visto |
+| **Jinx se derrumba ante la luz azul** | 1×05, **10:40-11:20** | Un pulso Hextech le recuerda la explosión | Encogida en la baranda, luz violeta fría (`#213369`, §5.2) | ✅ visto |
+| **«Don't cry. You're perfect»** | 1×09 | Jinx dispara a Silco; muere perdonándola | **Sin canción con letra**: música de fondo instrumental; su nombre ⚠️ | ✅ la frase ([ejemplo de *edit*](https://www.youtube.com/watch?v=ipEYMDxtwC4), §7.2); minuto ⚠️ |
+| **Muere Isha** | 2×06 «The Message Hidden in the Pattern» | La niña que Jinx cuidaba muere protegiéndolos | Minuto y música ⚠️ | ✅ [ComingSoon](https://www.comingsoon.net/guides/news/1879154-arcane-season-2-what-happened-to-isha-episode-6), [Yahoo](https://www.yahoo.com/entertainment/happened-isha-arcane-season-2-064321425.html) |
+
+**Las que hacen reír o gritar de emoción**: Vi riendo en la cama de
+Caitlyn (1×08, 14:16); el Día del Progreso con fuegos artificiales
+(1×04, 26:20); el montaje de los Jinxers con Ashnikko (2×04, al
+empezar); el «Mira, traje a tu novia» de Jinx (1×09).
+
+**Cómo reaccionó la gente**: en r/arcane, los hilos de «personaje
+favorito» y «mejor escena» tienen cientos de votos, casi todos sobre
+Jinx y Silco. El meme «**Enemy empieza a sonar de fondo**» sumó **3041
+votos** ([Reddit](https://reddit.com/r/arcane/comments/1ogwy9g/enemy_start_playing_in_the_background/)) ✅.
+
+---
+
+## 18b.5 · Fan dubs y comunidad hispana (punto 22)
+
+> YouTube dio 429 a la parte de voz: **las vistas no están medidas** ⚠️.
+> Los enlaces sí son reales (título exacto del resultado).
+
+### Covers de «Enemy» en español
+
+| Canal | Título | Qué tiene | Enlace |
+|---|---|---|---|
+| David Delgado ft. EnmaDS | «ENEMY - Arcane: League of Legends OP Full (Cover Español)» | Completo, con el rap adaptado | [YouTube](https://www.youtube.com/watch?v=3rB9ja3AbVM) |
+| LeoZu | «ENEMY ARCANE (Cover en Español)» | También en TikTok, con `#doblajelatino` | [YouTube](https://www.youtube.com/watch?v=hOoFtuKPNOs), [TikTok](https://www.tiktok.com/@leozu_/video/7429340155338689797) |
+| AlejCaz y D4ve | «ENEMY ARCANE (Cover Español)» | A dos voces, pista aparte | [YouTube](https://www.youtube.com/watch?v=sliIRIogSh8) |
+| Maxim Tru | «Arcane Opening - Enemy \| Cover Español» | — | [YouTube](https://www.youtube.com/watch?v=9NQYyFMnKcg) |
+| Sin identificar (dic. 2021) | «(Full) Enemy - Arcane - Opening - Cover Español Latino» | De los primeros, días después del estreno | [YouTube](https://www.youtube.com/watch?v=j2TXUdtAm_s) |
+
+Se versiona de 2021 a 2024. **No encontré** covers en español de
+«Goodbye» ni de los temas de la T2 ⚠️.
+
+### Doblajes de fans y comparaciones
+
+- **Latino contra castellano**, lado a lado, con la escena «Ekko salva a
+  Jinx»: lo que más circula
+  ([TikTok](https://www.tiktok.com/@decadejay21/video/7439827477041646903),
+  [YouTube Shorts](https://www.youtube.com/shorts/bSPWgE2Kgfo)) ⚠️.
+- **Pruebas de casting** de aficionados como «Jayce» o «Jinx» latinos,
+  con `#fandub #fandublatino #retodedoblaje`
+  ([TikTok](https://www.tiktok.com/@fandub_chiledubs.98/video/7439566077819997495)) ⚠️.
+- **Retos de doblaje de SDV** con las voces oficiales (§12): el mejor
+  material para el servidor ✅.
+- **No encontré un fandub completo** de una escena larga, con varios
+  personajes, en español. Lo que hay son covers y comparaciones.
+
+### Memes y comunidad
+
+- El chiste del doblaje: **«bombón» → «pastelito»** (§10.2).
+- TikTok tiene páginas de «Memes De Arcane En Español» y «Arcane
+  Mexican Meme», pero sin sesión no se leen: **no pude listar memes
+  concretos** ⚠️.
+- **Murales de Riot en Lima, Bogotá, Ciudad de México, Santiago y
+  Buenos Aires** (§4.3), y las actrices latinas en FestiGame (§10.1).
+
+---
+
+## 18b.6 · Colaboraciones y cruces (punto 23)
+
+> Su arte trae ropa y poses nuevas. Cada una con fecha y dos fuentes
+> (oficial y prensa). Números de hoja: §3.7.
+
+### Videojuegos
+
+- ***Fortnite***: **Jinx** el 4-nov-2021 (con el hacha Pow Pow Crusher y
+  el accesorio Dream Monkey) y **Vi** en enero de 2022 (martillo
+  Piltover Warhammer); **volvieron en 2025** ✅
+  ([ExitLag](https://www.exitlag.com/blog/arcane-fortnite/),
+  [ComicBook](https://comicbook.com/gaming/news/fortnite-skin-vi-arcane/),
+  [Esports Insider](https://esportsinsider.com/2025/11/fortnite-arcane-jinx-vi-skins-collaboration-return)).
+- ***PUBG Mobile***: desde el 16-nov-2021, con Jinx, Vi, Jayce y
+  Caitlyn, y la «PowPow Flying Machine» de Jinx ✅
+  ([ONE Esports](https://www.oneesports.gg/league-of-legends/champions-arcane-pubg-mobile/),
+  [@PUBGMOBILE](https://x.com/PUBGMOBILE/status/1455550081084493832)).
+
+### Juego de cartas
+
+- ***Magic: The Gathering* · Secret Lair x Arcane**: cartas con escenas
+  de Vi, Jinx y Jayce, y **tierras básicas pintadas** con Piltóver y
+  Zaun (paisaje pintado de referencia) ✅
+  ([Wizards](https://secretlair.wizards.com/us/en/product/696669/secret-lair-x-arcane),
+  [Business Wire](https://www.businesswire.com/news/home/20221019005346/en)).
+
+### Ropa y *merch*
+
+- **tokidoki × Arcane**: mochila con los personajes en estilo *kawaii*
+  (17-oct-2024, 80 USD); hoja nº 245 ✅
+  ([Riot Merch](https://merch.riotgames.com/en-us/product/tokidoki-arc-backpack/),
+  [tokidoki](https://www.tokidoki.it/collections/tokidoki-x-arcane-restock)).
+- **Sudaderas con frases**: la de Viktor («In the pursuit of great, we
+  failed to do good») y una «Jayvik»; hoja nº 183 y 187 ✅ (imágenes de
+  la wiki). Riot ya convierte una frase en objeto: idea para #arte.
+
+### Figuras oficiales (su pose es referencia 3D)
+
+| Figura | Qué trae | Fuente |
+|---|---|---|
+| **Nendoroid Jinx (Arcane Ver.), nº 2678**, Good Smile, sept-2025 | 3 caras (burlona, loca, seria) y el arma Rhino; hoja nº 182 | ✅ [Good Smile](https://www.goodsmile.com/en/product/61630/Nendoroid+Jinx+Arcane+Ver.+), [Riot Merch](https://merch.riotgames.com/en-us/product/nendoroid-jinx-arcane-version/) |
+| **Youtooz Vi y Jinx** («Lookin' good, Sis») | Jinx con su ametralladora, Vi con los guanteletes en alto; hoja nº 186 y 263 | ✅ [Youtooz](https://youtooz.com/products/vi-and-jinx), [Amazon](https://www.amazon.com/Youtooz-Collectibles-Jinx-and-Vi/dp/B0DW9H5GRV) |
+| **Funko Pop Jinx y Viktor** | Hoja nº 262 y 252 | ✅ existen (imagen de la wiki); ficha y fecha ⚠️ |
+
+### Eventos, cafés y cosplay
+
+- **Pop-ups de RiotX**: **Seúl** (Seongsu-dong, oct-2024: mural de Vi y
+  Jinx, pared de grafiti digital, serigrafía de bolsas) y **Yakarta**
+  (escondite de Jinx reconstruido y concurso de cosplay); tiendas en
+  París, Londres, Madrid, Estambul, Los Ángeles y Singapur ✅
+  ([Dot Esports](https://dotesports.com/league-of-legends/news/arcane-experience-exhibition-pop-up-held-at-cafe-in-korea),
+  [arcane.com](https://www.arcane.com/en-us/news/announcements/watch-play-experience-heres-how-were-celebrating-arcane-season-2-across-the-globe/)).
+- **Concurso oficial de cosplay** de Riot: premio mayor de 5000 USD y
+  viaje a Worlds ✅ ([reglas](https://merch.riotgames.com/en-us/arcane-contest-rules/)).
+  Idea para la etiqueta «Acepto encargos».
+- Cosplay con foto libre: «Shooting Casual Jinx» (Flickr, en
+  `referencias.json`) ⚠️ sin revisar los materiales.
+
+---
+
+## 18b.7 · Obras parecidas y temas relacionados (punto 24)
+
+| Obra | Por qué se parece | Fuente |
+|---|---|---|
+| **Los vídeos de Fortiche para *League of Legends***: «**Get Jinxed**», «Warriors», «Rise», «**K/DA – POP/STARS**», «**Enemy**», «Blood Sweat & Tears», «Welcome to Noxus» | **El mismo estudio** y el mismo estilo pintado, antes de la serie. La referencia más fiel | ✅ [forticheprod.com](https://forticheprod.com/fortichize/) |
+| ***Castlevania* / *Nocturne*** (Netflix, Powerhouse) | Adaptación adulta de videojuego, guerra y poder; la prensa las recomienda juntas | ✅ [Screen Rant](https://screenrant.com/castlevania-nocturne-season-2-netflix-arcane-animated-show-recommendation/), [Collider](https://collider.com/netflix-best-video-game-adaptation-castlevania-series/) |
+| ***Spider-Verse*** (Sony) | CG con textura pintada. Diferencia: Arcane es más pintura y más oscura; Spider-Verse, más cómic | ✅ [The Daily Fandom](https://thedailyfandom.org/arcane-disney-animation-artistic-influence/) |
+
+- **Corrección**: los vídeos de Gorillaz «Saturnz Barz» y «Tranz» **no
+  son de Fortiche** (son de Passion Pictures y Blinkink). Fortiche sí
+  hizo uno de Gorillaz, sin nombre en su web ✅.
+- **Influencias de los directores** (Linke y Yee): no encontré una cita
+  que nombre a otro animador; no la pongo ⚠️.
+- **Otras láminas del servidor con el mismo canal**: *Vinland Saga* (78)
+  propone #proyectos; *Steven Universe* (104) propone #arte y (64)
+  #proyectos de reserva; *Shield Hero* (82), #proyectos de reserva.
+  Ninguna es *steampunk*: choca el canal, no la idea. Anotado y sigue
+  (no bloquea nada).
+
+---
+
+## 18b.8 · El mundo, la historia y sus símbolos (punto 25)
+
+### Las reglas del mundo, en cinco líneas
+
+1. **Piltóver**, arriba: rica, «Ciudad del Progreso», la gobierna un
+   Consejo.
+2. **Zaun**, abajo: industrial y pobre; antes era parte de Piltóver.
+3. La **Hextech** convierte la magia de las gemas en energía útil.
+4. El **Shimmer** es una droga de magia inestable: da fuerza y pudre el
+   cuerpo.
+5. Entre las dos ciudades hay una guerra de clases que estalla en la T2.
+
+✅ (fichas de Piltóver y Zaun de la [Arcane Wiki](https://arcane.fandom.com/wiki/Piltover), por la API, y §1).
+
+### La historia por arcos
+
+- **T1, acto 1 (1×01-1×03)**: Vi y Powder, niñas con Vander en Zaun.
+  Jayce, juzgado y expulsado (1×02); Viktor se une a él (1×03). La
+  bomba de Powder mata a Mylo y Claggor, Silco apuñala a Vander, Vi la
+  llama «jinx» y Silco la adopta (1×03) ✅ (§2, §8).
+- **Acto 2 (1×04-1×06)**: años después. **Día del Progreso**: la
+  Hextech se presenta, Jinx roba las gemas y deja su grafiti, Jayce
+  llega al Consejo (1×04). Vi sale de la prisión con Caitlyn. El
+  **Núcleo Hex** (1×06) ✅ (§2.1).
+- **Acto 3 (1×07-1×09)**: el mural de los Firelights de Ekko (1×07); Vi
+  y Caitlyn (1×08); Jinx mata a Silco y dispara un cohete Hextech
+  contra el Consejo (1×09) ✅ la muerte de Silco; el cohete ⚠️ (una
+  fuente, la parte de texto).
+- **T2**: guerra abierta; llega **Ambessa** (Noxus); Zaun se tiñe de
+  azul por Jinx (2×04); muere Isha (2×06); Viktor se vuelve el
+  **Heraldo** de la «Gloriosa Evolución» ✅. El final (2×09) nadie del
+  equipo lo miró ⚠️.
+
+### Emblemas y objetos
+
+- **Piltóver**: un **Hexgate** (portal Hextech) rodeado en parte por un
+  engranaje. **Zaun**: un **vial químico alado** (no es un triángulo).
+  Los dos en oro `#C7A965` ✅ (campo `symbol` de cada ficha, por la API;
+  §3.3).
+- **Firelights**: sin emblema documentado; **casa Kiramman**: sin
+  escudo encontrado ⚠️. No inventarlos.
+- **Objetos que se reconocen al instante**: la gema Hextech azul, el
+  martillo de Jayce, los guanteletes de Vi, Fishbones, el mono de
+  juguete de Jinx, el Núcleo Hex, la jeringa de Shimmer (§3.3, §18b.3).
+
+### El vocabulario de un fan
+
+*Shimmer* (droga) · **Chem-Barons** (así, con guion: los capos de Zaun) ·
+*Hexcore* · *Firelights* · *Undercity* / *Fissures* (la ciudad de abajo) ·
+*The Lanes* (los canales de Zaun) · *Gray* (el gas tóxico) · *Enforcers*
+(la policía de Piltóver) · *Pilties* y *trenchers* (cómo se insultan).
+En latino, del juego: **Piltóver**, **Distrito Suburbano**, **Prisión de
+Aguasquietas** (§10.3) ✅ (fichas de la wiki por la API).
+
+- **The Cutting Room Floor** no tiene página de Arcane: es una serie,
+  no un juego con betas ✅ (§13).
 
 ---
 
