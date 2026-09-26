@@ -146,7 +146,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 
 > Haz la tanda S12 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/45-mob-psycho-100.md`, `encargos/46-sakamoto-days.md`, `encargos/47-captain-tsubasa-supercampeones.md`, `encargos/48-inuyasha.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
-- [ ] 45-mob-psycho-100
+- [x] 45-mob-psycho-100
 - [ ] 46-sakamoto-days
 - [ ] 47-captain-tsubasa-supercampeones
 - [ ] 48-inuyasha
