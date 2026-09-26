@@ -3,6 +3,14 @@
 Investigador de imagen: puntos 1, 3, 15, 16, 19 y 23 de ENCARGO.md. Libreta de datos, no prosa.
 Sin serie hermana declarada en `encargos/126-final-fantasy-vii.md`.
 
+## Hojas de contacto (miradas, en `hojas/`)
+
+Hechas con `herramientas/investigar_serie.py --serie "Final Fantasy VII" --wiki finalfantasy --paginas "Cloud Strife" "Tifa Lockhart" "Aerith Gainsborough" "Sephiroth"` (1186 imágenes enlazadas, 539 grandes, 12 hojas en total; se dejan las 3 más útiles para mis puntos).
+
+- `hojas/personajes_01.jpg` (imágenes #1-48): arte oficial y hojas de modelo — armas (Masamune, Buster Sword), renders de batalla de Remake, Amano/Nomura, primeros vestidos alternativos del Wall Market. Sirve para los puntos 1 y 15.
+- `hojas/vestuario_01.jpg` (imágenes #49-96): trajes por arco (Cowgirl Tifa, Ex-SOLDIER Cloud, Midgar Infantry, Majestic Glamour, Pink Mermaid…) y los primeros wallpapers oficiales de Ever Crisis. Sirve para los puntos 15 y 16.
+- `hojas/colaboraciones_01.jpg` (imágenes #97-144): wallpapers oficiales «Home Wallpaper» completos, los collabs × Final Fantasy XIII y × NieR de Ever Crisis, el LittleBigPlanet de Sephiroth, y escenas de Aerith/Tifa en Remake. Sirve para los puntos 16 y 23.
+
 ## 1 · Arte oficial, en cantidad y variado
 
 Dos estilos oficiales conviven: la pintura acuarela de Yoshitaka Amano (diseño conceptual 1996-97, textura suelta, colores desvaídos) y el 3D pulido de Tetsuya Nomura (renders de personajes desde 1997 hasta Remake/Rebirth). Sirve para explicar a una IA de imagen que «FFVII» no es un solo estilo.
