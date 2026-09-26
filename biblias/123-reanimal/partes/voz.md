@@ -66,7 +66,7 @@ dentro de esa muestra):
 - **QUÉ NO HACER** — dibujar la cara de El Niño con expresión: su máscara de saco NO tiene agujeros para ojos ni boca, es un vacío negro total en todo momento · render oficial The_Boy.png (reanimal.fandom.com) · ✅
 - **QUÉ NO HACER** — confundir a Capucha/Benda/Cubeta (los 3 amigos secuestrados, personajes NO hostiles) con monstruos: el sitio de fans reanimalgame.com sí comete ese error y llama a Cubeta «Bucket Creature» tipo enemigo; la propia wiki oficial lo desmiente (categoría «Non-hostile NPC») · https://reanimalgame.com/tier-list vs. https://reanimal.fandom.com/wiki/Bucket · ✅ (contraste de dos fuentes)
 - **QUÉ NO HACER** — poner diálogo largo o explicativo: el juego casi no habla, se apoya en silencio y sonido ambiente (1 a 3 frases cortas grabadas por personaje, comprobado al oír las 8 muestras) · Doblaje Wiki + entrevista Xbox Wire · ✅
-- **QUÉ NO HACER** — hacer una lámina "tierna" sin más: es terror explícito, clasificación ESRB M (sangre, desnudez parcial, violencia) · ficha de Doblaje Wiki + Steam (misma clasificación) · ✅
+- **QUÉ NO HACER** — hacer una lámina "tierna" sin más: es terror explícito, clasificación ESRB M / PEGI 18 (sangre, desnudez parcial, violencia, suicidio) · Doblaje Wiki + https://store.steampowered.com/app/2129530/REANIMAL/ (misma clasificación, descriptores oficiales) · ✅
 
 ## 13 · Descripción profunda de cada personaje
 
@@ -78,6 +78,7 @@ dentro de esa muestra):
 - Cara en cada emoción: NO TIENE. Su máscara (saco de tela) no deja ver ojos ni boca, es un hueco negro total siempre; toda su "expresión" se cuenta con el cuerpo (postura, manos) y con el tono de voz, nunca con la cara · render oficial The_Boy.png · ✅ · dato clave para la lámina: nunca darle rasgos faciales
 - Objeto que siempre lleva: un encendedor · reanimal.fandom.com/wiki/The_Boy · ⚠️ (una sola fuente, no lo vi confirmado en vídeo)
 - Dinámica: hermano protector de La Niña; con Capucha, Benda y Cubeta comparte un "juramento de sangre" de la infancia que solo recuerda al final del juego · reanimal.fandom.com/wiki/The_Boy · ✅
+- **Confirmación cruzada de la máscara (para no cruzarla con la de La Niña, aviso del investigador de vídeo)**: en una captura oficial de la ficha de Steam se los ve corriendo juntos — El Niño lleva el saco puntiagudo atado con cuerda (sin agujeros), La Niña va con vestido blanco, pelo largo suelto y un farol encendido en la mano · https://store.steampowered.com/app/2129530/REANIMAL/ (captura 1920×1080, screenshot #11 de 14) · ✅ coincide con reanimal.fandom.com y con el render The_Boy.png/TheGirl.png: **tercera fuente que confirma que NO están cruzados**
 
 ### La Niña (The Girl) — protagonista jugable, Jugador 1 en cooperativo
 - Carácter: valiente, protectora, con un lado "feral": ataca primero si se siente en peligro; hábil con armas blancas · reanimal.fandom.com/wiki/The_Girl · ✅

@@ -795,3 +795,120 @@ Textos cortos, sin «·», «—» ni paréntesis (regla 4 del dueño).
 - **Que no quede plano.** El haz cenital con polvo flotando. Hierba y hojas desenfocadas delante. Link a contraluz. El texto menta suelta un brillo verde que tiñe la piedra, como la Espada restaurada de TotK ([3:00](https://www.dailymotion.com/video/x8k28ay?t=180)).
 
 **Si se prefiere una secundaria:** Mipha le ganó a Zelda en la encuesta de BotW. ⚠️ No hay arte suyo en las hojas; habría que buscarlo antes.
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial | ✅ | 120 imágenes en 3 hojas, miradas enteras: acción, grupo, armas, logos y modelos oficiales. zelda.com y *Hyrule Historia* no se pudieron abrir |
+| 2 · Fotogramas de escenas | ⚠️ | 17 fotogramas propios con minuto, pero a 512×288 y 1280×720, no a 1080p: YouTube bloqueó el servidor y Dailymotion no da más |
+| 3 · Fan art y 3D libre | ✅ | 5 fan arts con autor; 7 modelos de Sketchfab con licencia comprobada por API; 5 objetos CC0. No hay *rig* libre de personajes |
+| 4 · Fondos y sitios | ✅ | 7 sitios con luz, hora y color medidos en fotograma; 5 texturas CC0. Desierto y montaña sin paleta |
+| 5 · Tipografía | ✅ | 9 usos con letra libre; 5 letras abiertas con fontTools para tildes, ñ, ¿ y ¡. Globo de manga y créditos por convención |
+| 6 · Cuadros de diálogo | ✅ | 7 cajas de juego con color y forma, más el manga y qué no hacer. El manga, sin mirar una página concreta |
+| 7 · Personajes y encuestas | ✅ | *Nintendo Dream* de BotW y TotK con votos, GameFAQs, recuento de Danbooru y encuesta de fans |
+| 8 · Doblaje latino | ⚠️ | 15 voces, 10 con dos fuentes; frases textuales de audios oficiales con el minuto de la muestra. Sidon, Revali y Urbosa con una fuente; Ganondorf sin audio |
+| 9 · Música y sonido | ⚠️ | Compositor confirmado en créditos. Efectos y «Midna's Lament» sin escuchar; pista del llanto de Zelda sin identificar |
+| 10 · Vídeos | ⚠️ | 9 vídeos vistos con minutos. YouTube y TikTok bloqueados: tendencias sin cifras |
+| 11 · Videojuegos e interfaz | ✅ | 7 juegos con su menú; tamaños reales de la interfaz de BotW |
+| 12 · Fandom y qué no hacer | ✅ | 7 cosas que ama y 6 que no hacer; las de cultura general van con ⚠️ |
+| 13 · Personajes a fondo | ⚠️ | Carácter, arco, miedo, voz y dinámicas de los tres. Faltan caras de alegría, rabia y vergüenza con minuto; buscadas en tres vídeos sin éxito |
+| 14 · Poses | ✅ | 18 poses con minuto o imagen, cada una con su uso: presentar, explicar, celebrar, regañar, pensar, animar |
+| 15 · Vestuario | ✅ | 9 prendas con color medido, peinados y accesorios fijos |
+| 16 · Ciudades y fondos de pantalla | ✅ | 5 fondos de Wallhaven con tamaño y autor. Los oficiales de My Nintendo piden cuenta: sin bajar |
+| 17 · Guía para IA | ✅ | Hecha por el redactor con los puntos 4, 8, 13, 14, 15 y 18: rasgos, paleta, luz, palabras y frases reales por emoción |
+| 18 · Estilo y técnica | ✅ | Estilo por época con entrevistas; pasos de Blender y Photoshop. Motor sin confirmación oficial |
+| 19 · Texturas 2D | ✅ | Trama vista en la obra, tramas y pinceles libres, emblemas. Licencias de Brusheezy, una a una |
+| 20 · Gustos y detalles | ⚠️ | Cumpleaños oficiales no existen: buscados en tres sitios. Alturas de una fuente indirecta; aficiones de agregadores |
+| 21 · Por qué la aman | ⚠️ | Reseñas, ventas y crítica con fuente. Escena del llanto sin minuto propio ni música; Reddit sin resultado |
+| 22 · Fan dubs | ⚠️ | 1 fandub verificado; 2 más sólo por título porque YouTube bloqueó. No hay openings cantados que versionar |
+| 23 · Colaboraciones | ✅ | Cadence of Hyrule, Mario Kart, Smash, café Suntory, 40 aniversario, figuras y cosplay con autores |
+| 24 · Obras parecidas | ✅ | Influencias con dos fuentes y biblias del servidor que se le parecen |
+| 25 · Mundo y símbolos | ✅ | Reglas, cronología, emblemas con cita y vocabulario. Nota sobre dos errores de la parte en la cronología |
+| Tres conceptos | ✅ | Tres objetos, tres sitios y tres cuadros de diálogo distintos; canal propuesto #noticias-gaming |
+| 40 fuentes distintas | ✅ | 71 webs distintas enlazadas en el texto |
+| Minutos y colores | ✅ | Más de 15 minutos citados y 29 colores hex medidos |
+| Tipo · oficiales | ⚠️ | Manual de Nintendo, web de *Cadence of Hyrule*, tráileres, créditos, *Nintendo Dream*. Artbook sin abrir |
+| Tipo · otros idiomas | ✅ | Japonés (*Nintendo Dream*), inglés, francés (tráileres) y español. Coreano o chino no aplica: la obra es japonesa |
+| Tipo · wikis, TV Tropes, TCRF, Wayback | ⚠️ | Zelda Wiki, Doblaje Wiki, ZeldaMods, CloudModding. TCRF y Game UI Database dieron 403; Wayback no sirvió la página; TV Tropes sólo citado |
+| Tipo · foros | ⚠️ | ResetEra, foro de Zelda Universe, GameFAQs, Board8. Reddit sin resultado |
+| Tipo · arte | ✅ | Danbooru, Pixiv, Wallhaven y X. Sin ArtStation ni DeviantArt |
+| Tipo · vídeo | ⚠️ | Dailymotion con minutos exactos; YouTube y TikTok bloqueados |
+| Tipo · código y recursos | ✅ | GitHub, Sketchfab, Poly Haven, ambientCG, Clip Studio Assets |
+| Tipo · doblaje latino | ✅ | Doblaje Wiki por API, ANMTV, LEVEL UP, 3DJuegos.lat y audios transcritos |
+| Hojas | ✅ | 3 JPEG en `hojas/`, todas de menos de 1 MB |
+| referencias.json | ✅ | 114 referencias; se quitaron 20 de Safebooru mal filtradas y una bandera |
+## Bitácora
+
+### Bitácora de imagen
+
+- `herramientas/investigar_serie.py --serie "The Legend of Zelda" --wiki zelda --paginas "Link" "Princess Zelda" "Ganon"` → 247 imágenes enlazadas, 120 grandes, 3 hojas de contacto en `hojas/` (miradas con Read completas)
+- `herramientas/estilo.py` sobre 8 artes oficiales bajadas (Link ×3 épocas, Zelda ×3 épocas, Ganondorf ×2 épocas) con cabecera `Referer: https://www.fandom.com/` para descargar de `static.wikia.nocookie.net`
+- API de Sketchfab v3 (`/search` y `/models/<uid>`): consultas «zelda», «master sword», «hylian shield», «hyrule castle», «korok», «triforce», «ganondorf» — confirmado `isDownloadable` y licencia real de cada modelo elegido
+- API de Poly Haven (`/assets?type=models`): 521 modelos totales, filtrados por palabras clave de ambientación (barril, farol, cofre, fogata, cajón) — sin contenido con marca, todo CC0
+- API de ambientCG (`/api/v2/full_json`): «chainmail», «leather», «wood», «stone wall», «paper» — todo CC0 por política del sitio
+- API de Wallhaven v1 (`/search`, `/w/<id>`): «zelda», «hyrule breath of the wild», «tears of the kingdom», filtro `purity=100` (aptas) y `atleast=1920x1080`
+- API de Danbooru (`/posts.json?tags=... rating:general order:score`): «link», «princess_zelda», «ganondorf» — se descartaron los datos de Safebooru de `datos-imagen.md` por venir repetidos/idénticos entre personajes distintos (fallo del recolector)
+- Búsqueda web (inglés): «Nintendo official Tears of the Kingdom wallpaper download», «free manga screentone brushes Clip Studio Paint CC0», «Hylian Crest Sheikah Eye Triforce SVG vector free download github», «"Cadence of Hyrule" crossover Zelda Crypt of the NecroDancer official», «Zelda Breath of the Wild collaboration Monster Hunter Rise Sunbreak Link armor quest», «"Mario Kart 8" Link DLC Master Cycle Zero official Nintendo crossover», «Zelda First 4 Figures official statue license best cosplay Link Zelda award», «screenrant Incredible Zelda Breath of the Wild Cosplay Brings Link to Life»
+- Búsqueda web (español): «Zelda cafe temático colaboración Nintendo evento oficial Tokio»
+- `herramientas/hermanas.py 65-the-legend-of-zelda` → sin serie hermana
+
+### Bitácora de video
+
+- Dailymotion API (`api.dailymotion.com/videos?search=`), español/inglés: «Zelda Breath of the Wild trailer», «Zelda Tears of the Kingdom trailer», «Zelda Ocarina of Time trailer», «Zelda Wind Waker trailer», «Zelda Ganondorf boss fight», «Zelda Hyrule Field gameplay», «Legend of Zelda 1989 cartoon opening», «excuse me princess zelda», «Zelda Ocarina of Time intro cutscene», «Zelda Ocarina of Time ending», «Legend of Zelda cartoon ending credits», «Zelda Ganon transformation», «Zelda pull master sword scene» — todas con resultados útiles salvo la de «excuse me princess» (sin resultado directo del clip).
+- `herramientas/fotogramas.py` sobre 6 clips de Dailymotion (BOTW tráiler, OoT 3D intro, OoT créditos, cartoon 1989 opening, BOTW combate final Ganon, TOTK tráiler final): 62 fotogramas en total, todos mirados con Read.
+- Colores medidos con Pillow directo sobre los fotogramas descargados (no sobre las miniaturas de la hoja de contacto).
+- `zelda.fandom.com/api.php` (`list=search`, `srwhat` por defecto en texto): «It's dangerous to go alone», «Hey! Listen!» — confirmaron las páginas «Iconic quotes in The Legend of Zelda series» y «The Legend of Zelda in Popular Culture».
+- MusicBrainz (`musicbrainz.org/ws/2/release-group`): «Zelda Symphony OR Zelda Sound Selection OR Hyrule Symphony», «"Symphony of the Goddesses"», «artist:Nintendo AND "Breath of the Wild"» (esta última sin resultados).
+- WebSearch (2 búsquedas de las ~50 del cupo): «Zelda Tears of the Kingdom TikTok trend viral Ultrahand 2025», «"Legend of Zelda" análisis YouTube video ensayo más visto».
+- `datos-video.md` (recolectar.py): revisado entero; sus bloques de AniList, AnimeThemes y Reddit vinieron vacíos o fallaron (ver «No encontré»); los de Dailymotion e Internet Archive se comprobaron pero no se reusaron literal porque no encajaban con los puntos 2/4/9/10/14 (eran vídeos de fans/gameplay genérico), así que busqué clips propios más precisos.
+
+### Bitácora de voz
+
+- Doblaje Wiki (API, es): ficha «The Legend of Zelda (franquicia)», «Link», «Zelda», «Ganondorf», con
+  reparto completo, ficha técnica y notas de doblaje — la fuente más valiosa de toda la parte.
+- Muestras de audio de Doblaje Wiki (`.ogg`, vía `imageinfo` de la API): Zelda, Revali, Impa, Sidon,
+  Yunobo, Teba, Riju (URLs sacadas); transcritas con `herramientas/voz.py` las de Zelda y Revali
+  (Whisper en local, modelo small, idioma es).
+- WebSearch (es): «Jessica Ángeles voz Zelda…», «Xóchitl Ugarte dirección doblaje…», «ANMTV Zelda
+  doblaje latino…», «Jorge Roig Jr Link…», «encuesta popularidad personajes Zelda Nintendo oficial»,
+  «Triforce orden Poder Sabiduría Valor», «fandub español latino Zelda CDi parodia», «por qué la gente
+  ama Zelda Breath of the Wild reseñas», «Link comida favorita manzanas», «Ganondorf horses love
+  canon», «reddit r/zelda scene that made you cry» (sin resultado directo de Reddit).
+- WebSearch (en): «GameFAQs Character Battle Zelda winner», «Zelda character birthday height Hyrule
+  Historia Encyclopedia», «Legend of Zelda fandom pet peeve call Link Zelda», «Princess Zelda hobbies
+  Breath of the Wild canon».
+- WebSearch (ja): «ゼルダの伝説 キャラクター 人気投票 結果» → llevó a Nintendo Dream (ndw.jp), la mejor
+  fuente de popularidad oficial de toda la parte.
+- WebFetch: universozelda.com (resumen encuesta Nintendo Dream 2018), thegamer.com (encuesta de fans
+  Schaffrillas), cbr.com (altura/edad/zodiaco), ndw.jp ×2 (rankings completos BOTW y TotK con votos
+  reales), anmtvla.com ×2 (reparto BOTW y TotK), I_am_Error en Wikipedia (en).
+- Dailymotion (API `api.dailymotion.com/videos?search=`): «Zelda CDi doblaje parodia», «Zelda fandub
+  latino animado», «cover opening Zelda español», «recuerdos campeones Zelda BOTW español», «Zelda
+  Breath Wild memorias aliados latino», «Tears of the Kingdom trailer español latino», «Zelda Tears
+  Kingdom cinematica español», «Zelda Champions Ballad Español Latino Pelicula» → de ahí salieron los
+  tráilers usados para los fotogramas de emoción y el fandub de Skyward Sword.
+- `herramientas/fotogramas.py` sobre 4 vídeos de Dailymotion: tráiler final de *Tears of the Kingdom*
+  (x8k22ef, contacto cada 3 s + 2 fotogramas grandes), tráiler de *The Champions' Ballad* (x6bc0bm,
+  contacto cada 4 s), primeros minutos doblados de *BOTW* (x5ahli0, 0:00-3:00 cada 5 s) y el tráiler de
+  anuncio E3 2019 de la secuela (hoy *Tears of the Kingdom*) (x7au2j3, contacto cada 2 s + 2 fotogramas
+  grandes en 0:34 y 0:46). Se borraron todos los `video.mp4` de trabajo tras sacar las hojas (~92 MB).
+- `yt-dlp --dump-json` sobre 2 vídeos de YouTube (fandubs): los dos devolvieron 429/«confirma que no
+  eres un bot» — confirma el bloqueo de YouTube que avisa AYUDANTE.md.
+- `herramientas/hermanas.py 65-the-legend-of-zelda`: sin serie hermana para este encargo.
+
+### Bitácora de texto
+
+- Búsquedas en inglés (WebSearch, ~14): tipografía del logo, diálogo BOTW/TOTK/OoT/WW, Game UI Database, cel-shading Wind Waker (inverted hull, Miyamoto/Aonuma), estilo pictórico BOTW (Takizawa, Aonuma, Jōmon), Skyward Sword impresionista (Cézanne), motor y herramientas de Nintendo EPD, Shadow of the Colossus/Elden Ring/Skyrim como influencias cruzadas, Tolkien y la infancia de Miyamoto, Hyrule Historia y la cronología en tres ramas, Triforce/Escudo Real/Ojo Sheikah/símbolo Gerudo, TCRF Ocarina of Time y Breath of the Wild.
+- Descargas y comprobación con fontTools (tildes, ñ, ¿, ¡): Hylia Serif, TLOZ Minish Cap/ALttP/Four Sword, Return of Ganon, Reggae One y RocknRoll One (Google Fonts, vía Fontsource) — las 5 descargadas y comprobadas de verdad, no de memoria.
+- Consultas a la API de Fandom (zelda.fandom.com/api.php, sin bloqueo): wikitext de «List of fonts used in The Legend of Zelda logos», «Eye Symbol», «Hylian Crest»; búsqueda de imágenes con imageinfo para 3 símbolos (Ojo Sheikah, Cresta Hyliana, Trifuerza).
+- Bloqueos encontrados: dafontfree.net/zeldauniverse.net dieron 402 a WebFetch directo (rodeado buscando el contenido por otra vía o con caché de búsqueda); Game UI Database y TCRF dieron 403 tanto a curl como a WebFetch, y navegar.py falló porque el contenedor no tiene el navegador headless instalado (chrome-headless-shell ausente) — lo anoto para que el jefe lo sepa, no es un fallo mío de no intentarlo.
+- No usé git ni toqué biblia.md; sólo escribí en partes/texto.md y partes/texto.json.
+
+### Bitácora del redactor
+
+- `juntar_referencias.py` dio 134 referencias; se quitaron las 19 de Safebooru (salían Pikachu, Kirby, Samus y Peach) y la bandera de España. Quedan 114.
+- Se miraron las tres hojas de contacto enteras. Se corrigieron números de la parte de imagen: nº81 es Link con Wolf Link, sin Midna; nº17 lleva el escudo Deku; nº30 es de TotK según el archivo.
+- La hoja `objetos_01.jpg` nº112 enseña la caja de diálogo de *Spirit Tracks*; se añadió al punto 6 con ⚠️.
+- La cronología de la parte de texto tenía dos datos dudosos (*Minish Cap* en la línea infantil y cada línea unida a un trozo de la Trifuerza). Se dejó anotado en el punto 25, sin fuente nueva.
+- Sin búsquedas nuevas: todo sale de las cuatro partes, como pide el encargo del redactor.
