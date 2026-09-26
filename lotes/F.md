@@ -9,9 +9,10 @@ Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude
 - 77 Wistoria: **COMPLETA y subida** (22:27 UTC). ✅20 ⚠️18 ❌0, 134 referencias, 56 webs, 1655 líneas.
 - 78 Vinland Saga: **COMPLETA y subida** (22:52 UTC). ✅23 ⚠️7 ❌0, 162 referencias, 65 webs, 2031 líneas.
 - **Corte por límite de sesión** (23:06-23:50 UTC, `rate_limit`, «resets 11:20pm UTC»): 5 agentes vivos murieron a mitad de tanda (79 redactor, 80 video, 81 imagen/video/voz). Nada se perdió del todo: guardar.sh había subido lo hecho hasta el corte. Relanzo los 5 desde donde quedaron en cuanto pase el reinicio.
-- 79 Demon Slayer: redactor cortado justo tras «Tres conceptos de lámina» — faltan tabla de cumplimiento, bitácora y referencias.json. Relanzado 23:50 UTC.
-- 80 Solo Leveling: vídeo cortado con un `Sigue:` legítimo ya escrito (fotograma del Rey Hormiga). Relanzado como relanzamiento corto.
-- 81 Mushoku Tensei: imagen cortado justo después de escribir imagen.md (dice «Parte terminada») pero SIN escribir imagen.json ni hojas/ — relanzado sólo para eso. Vídeo y voz no llegaron a escribir nada: relanzados desde cero.
+- 79 Demon Slayer: redactor cortado justo tras «Tres conceptos de lámina» — faltan tabla, bitácora y referencias.json.
+- 80 Solo Leveling: vídeo con un `Sigue:` legítimo (fotograma del Rey Hormiga), resto completo.
+- 81 Mushoku Tensei: imagen ya arreglada y COMPLETA (imagen.json + hojas). Vídeo y voz nunca llegaron a escribir nada.
+- **Segundo corte, más largo** (23:52 UTC del 24-sep hasta 18:21 UTC del 26-sep): el segundo relanzamiento volvió a chocar con el límite de sesión («resets 4:30am UTC») y esta vez el contenedor se reinició de verdad (guardar.sh, las recolecciones en curso y los 4 agentes que quedaban vivos murieron todos sin avisar; no se perdió nada porque ya estaba subido). Reanudo ahora: guardar.sh y las recolecciones reiniciadas, y relanzo los 5 huecos (79 redactor, 80 vídeo, 81 vídeo, 81 voz, 82 imagen).
 
 ## Avisos para el dueño
 
