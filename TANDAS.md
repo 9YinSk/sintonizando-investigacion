@@ -192,7 +192,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 > Haz la tanda S17 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/65-the-legend-of-zelda.md`, `encargos/66-persona-5.md`, `encargos/67-hollow-knight.md`, `encargos/68-undertale-deltarune.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [ ] 65-the-legend-of-zelda
-- [ ] 66-persona-5
+- [x] 66-persona-5
 - [ ] 67-hollow-knight
 - [ ] 68-undertale-deltarune
 

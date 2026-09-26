@@ -20,6 +20,7 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
   59: revisar.py la da COMPLETA → subida. 60: 4 partes sin `Sigue:` obligatorio → redactor (Opus).
 - 63 K-pop: **COMPLETA** y subida (2026-09-26 00:02 UTC). ✅24 ⚠️13 ❌0, 186 referencias, 76 webs, 1974 líneas.
 - 62 Intensamente: **COMPLETA** y subida (2026-09-26 01:15 UTC). ✅22 ⚠️8 ❌0, 99 referencias, 64 webs, 797 líneas.
+- 66 Persona 5: **COMPLETA y subida** (2026-09-26 03:1x UTC). ✅26 ⚠️12 ❌0, 199 referencias, 54 webs.
 
 ## Avisos para el dueño
 
@@ -131,6 +132,7 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
   señalando la suya), C #📂・proyectos «Las gemas en la Puerta del Templo» (Garnet chasqueando los
   dedos ante una etapa del proyecto).
   - Antes de rotular: la descripción de #🪪・presentaciones en servidor/inventario.md.
+- **66 Persona 5:** más querido, Joker (1.º en las encuestas oficiales 2021 y 2023); secundaria Makoto (2.ª); Ryuji último o penúltimo. Cuadro: cuadrilátero negro torcido con borde blanco y cola en zigzag; nombre en tira blanca inclinada con letra invertida (Earwig Factory + Archivo/Oswald). Láminas: A ⭐ #🎯・reto-de-la-semana (calling card en la barra de Leblanc), B #🎟️・eventos (calendario en la buhardilla con Morgana), C #🎧・demos (Ann se arranca la máscara). Avisos: no hay doblaje latino (juego ni anime): el español de las láminas es traducción nuestra; la frase «I'm fine. You guys are here.» (ep. 18, 0:32) tiene autor dudoso, no usarla; alturas de Ryuji y Ann no coinciden entre fuentes; Makoto sin pose ni fotograma propio; medir la paleta de Leblanc sobre la n.º 59 antes del concepto A; modelos Sketchfab CC BY pero personajes de Atlus (sólo referencia).
 
 ## Costos
 
@@ -146,3 +148,4 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
 | 62 | redactor | Opus | 13 | 232 mil |
 | 66 | voz (seguir) | Sonnet | 10 | 175 k |
 | 67 | video | Sonnet | 24 | 235 k |
+| 66 | redactor | Opus | — | — |
