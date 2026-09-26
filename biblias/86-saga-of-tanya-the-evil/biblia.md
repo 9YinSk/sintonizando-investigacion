@@ -803,3 +803,102 @@ Tono para las tres: mundo gris y sepia de guerra (regla 6 del dueño). La guerra
   - Los cinco sellos, cada uno estampado en un papel de prueba: «NUEVA», «EN ESTUDIO», «APROBADA», «RECHAZADA», «HECHA».
   - Una tarjeta en el borde de la bandeja: «Cómo proponer algo: léeme.»
 - **Que no quede plano**: la taza y su vapor en primer plano; la lámpara como única luz, con viñeta fuerte; detrás, una ventana con lluvia de noche y el resplandor lejano del frente; Visha cortada por el borde. Paleta de bronce `#7C6D53`, negro cálido `#24201F` y tinta roja `#B6231A`. ⚠️ La luz del despacho no está medida.
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 86 imágenes de la wiki en 2 hojas, visuales de la película, portadas de manga y novela, fichas de modelo, poses fuera del uniforme; tamaños comprobados con la API |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | 4 escenas vistas con minuto, pero los clips son de 720p; sólo los tráileres llegan a 1080p (YouTube bloqueado). El ep. 8 (Arene) no se encontró |
+| 3 · Fan art y 3D con licencia | ✅ | 6 fan art mirados con origen; 3 armas en 3D libres (CC BY) comprobadas. Sin 3D del orbe ni de la Cruz de Hierro |
+| 4 · Sitios, luz, paleta y texturas reales | ⚠️ | 6 sitios con hex medidos y su luz; la ciudad de noche medida a ojo; las texturas CC0 son nombres sin abrir |
+| 5 · Tipografía por uso | ✅ | Letra para cada uso, las 15 comprobadas con fontTools; el logo, identificado en un solo foro |
+| 6 · Cómo hablan y piensan en pantalla | ⚠️ | Cartelas y globo de radio del manga vistos; alfabeto del anime; sin cajas de diálogo del videojuego |
+| 7 · Popularidad | ⚠️ | AniList y Danbooru coinciden; no se encontró encuesta oficial |
+| 8 · Doblaje latino y frases | ⚠️ | Reparto principal con dos fuentes; 17 frases textuales de 7 muestras de Doblaje Wiki; ningún clip oficial doblado ni frase de la T2 |
+| 9 · Música y sonido | ⚠️ | OP y ED de las dos temporadas y la banda sonora con dos fuentes; efectos sólo descritos; sin el tema de las escenas tristes |
+| 10 · Vídeos y tendencias | ⚠️ | 2 tráileres y 4 clips mirados con minuto; TikTok y YouTube sin enlaces ni vistas |
+| 11 · Videojuegos | ⚠️ | El único juego, con fechas en dos fuentes y su arte visto; sin capturas de menús ni de diálogos |
+| 12 · Fandom y qué NO hacer | ✅ | El malentendido, el dúo, Being X; lista de errores a evitar |
+| 13 · Personajes a fondo | ⚠️ | Tanya, Visha y 8 secundarios; caras por emoción con minuto para Tanya y Visha, pero faltan tristeza y vergüenza de las dos |
+| 14 · Poses analizadas | ⚠️ | Tanya 15 poses (9 con minuto); Visha 9 (3 con minuto); sin poses de los demás |
+| 15 · Vestuario con hex | ✅ | Uniforme de combate y vestido medidos; texto de la wiki en dos fichas; Visha sin medir aparte |
+| 16 · Ciudades y fondos de pantalla | ⚠️ | Sitios con luz y hora; 9 fondos de Wallhaven con autor; la wiki no tiene lugares; sin fondos de sólo paisaje |
+| 17 · Guía para IA de imagen y texto | ⚠️ | Rasgos, paleta, línea, encuadres, palabras y expresiones; frases reales por emoción, pero sin frase latina alegre, triste ni de ánimo |
+| 18 · Estilo y cómo replicarlo | ⚠️ | Equipo, medidas y la idea del autor; sin *making of* del estudio; recetas de Photoshop y Blender propuestas, no del estudio; sin *rigs* libres |
+| 19 · Texturas 2D | ⚠️ | Tramas vistas, escudo medido, pinceles localizados sin bajar; falta papel viejo con licencia |
+| 20 · Gustos y detalles | ⚠️ | Cumpleaños de Tanya (una fuente), gustos de Visha; sin alturas ni *databook* |
+| 21 · Por qué la aman | ⚠️ | Razones con fuente y números de AniList; la escena triste, de una fuente y sin minuto, música ni reacciones |
+| 22 · Fan dubs hispanos | ⚠️ | Un fandub en Facebook, un canal y actividad en TikTok; sin vistas ni covers en español |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | *Isekai Quartet* en dos fuentes, figma en tres, cosplay (una fuente); sin marcas ni cafés (buscado) |
+| 24 · Obras parecidas | ✅ | AniList, otras listas, la influencia del autor y las láminas vecinas |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas en cinco líneas, 14 tomos por arcos, emblemas y vocabulario |
+| Tres conceptos de lámina | ✅ | #castings, #general-doblaje y #sugerencias, distintos entre sí, con objeto de Blender, pose, cuadro, letra y textos del canal |
+| Fuentes distintas (mínimo 40) | ✅ | 51 webs distintas enlazadas (`revisar.py`); 8 de ellas fallaron o no dieron nada (dicho en la bitácora): 43 dieron datos |
+| Tipos de fuente | ⚠️ | Oficiales, japonés, inglés, wikis, foros, arte, vídeo, código de letras y doblaje: sí. Coreano o chino: no (un resultado coreano era otro juego). GitHub y TCRF: no. TV Tropes y Wayback: bloqueados. ANMTV: no |
+| Hojas de contacto | ✅ | 3 hojas en `hojas/`, descritas casilla a casilla |
+| `referencias.json` | ✅ | 129 referencias de las partes y de `datos.json` (sin el fan art de otras series), las mejores primero |
+
+**Lo que falta, dicho claro**
+- **Oír el doblaje latino**: Tanya enfadada, animando y triste; la T2 entera. Plan: el tráiler latino de la T2 en Dailymotion y la segunda muestra de Von Hans en Doblaje Wiki.
+- **Ver** las escenas de la T2 (la muerte de Rudersdorf, con minuto y música) y el ep. 8 (Arene).
+- **Caras** de tristeza y vergüenza de Tanya y Visha, con minuto.
+- **Capturas del videojuego** (menús y diálogos): sólo por Wayback desde otra red.
+- **Comprobar** que la niña de pelo platino del tráiler de la T2 (0:56) es Tanya.
+
+## Bitácora de búsqueda
+
+Junta las bitácoras del recolector, de las cuatro partes y del redactor. Fechas: 25 y 26 de septiembre de 2026.
+
+**Recolector** (`recolectar.py --hojas`, sin IA, 25-sep)
+- [AniList](https://anilist.co/anime/21613): ficha, personajes con favoritos y voces, [equipo](https://anilist.co/anime/21613/staff), recomendaciones y relaciones ✅
+- [Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Saga_of_Tanya_the_Evil) por la API: ficha, reparto y 7 muestras de audio ✅
+- [Danbooru](https://danbooru.donmai.us/posts?tags=youjo_senki): etiquetas y dibujos por personaje; [Safebooru](https://safebooru.org): fan art con origen; [Wallhaven](https://wallhaven.cc): fondos ✅
+- [API de Dailymotion](https://api.dailymotion.com): clips y tráileres; [Internet Archive](https://archive.org): opening, covers y subidas de usuarios ✅
+- [Reddit r/YoujoSenki](https://www.reddit.com/r/YoujoSenki): un hilo ✅
+- Sin resultado útil: [MusicBrainz](https://musicbrainz.org) (sólo otras series con «senki»), [Steam](https://store.steampowered.com) (vacío), [Sketchfab](https://sketchfab.com) y [Openverse](https://openverse.org) (vacíos en la búsqueda automática), [AnimeThemes](https://animethemes.moe) (error 522), Fandom (el encargo no traía wiki).
+
+**Parte de imagen** (inglés)
+- API de la wiki [youjo-senki](https://youjo-senki.fandom.com): `list=search` (Viktoriya), `parse` de Tanya, Visha, *Weapons* y la medalla; `allcategories` y `categorymembers` para confirmar que no hay lugares.
+- `investigar_serie.py --wiki youjo-senki --paginas "Tanya von Degurechaff" "Viktoriya Ivanovna Serebryakov"`: 121 imágenes enlazadas, 86 grandes, 2 hojas. Tercera hoja montada con Pillow.
+- `estilo.py` sobre 4 imágenes oficiales y medición píxel a píxel con Pillow (uniforme, vestido, bandera).
+- API de Safebooru (`youjo_senki scenery`) para paisajes; API de Sketchfab (`/v3/search` y `/v3/models/<id>`) para las 3 armas y su licencia.
+- 6 búsquedas web en inglés: diseño del uniforme, figuras, *Isekai Quartet*, cosplay, pinceles de trama, [WorldCosplay](https://worldcosplay.net/character/157607).
+- Fallaron: [IMFDB](https://imfdb.org/wiki/Saga_of_Tanya_the_Evil) (403, dos intentos) y ir23.org (error de DNS).
+
+**Parte de vídeo**
+- 8 búsquedas web en inglés: temas de OP y ED, AnimeThemes, compositor, temas de la T2, ep. 6, escenas icónicas, orbe y uniforme, efectos de sonido.
+- `fotogramas.py` sobre 8 vídeos: opening de Dailymotion (18 fotogramas) y de Internet Archive (20), tráiler de la T2 (13), ep. 1 (15), ep. 5 entrenamiento (20), ep. 5 aviso (12), ep. 6 (13), tráiler de la película (11). Todas las hojas leídas.
+- `estilo.py` sobre 5 hojas de fotogramas para los hex.
+- Fuentes: [Wikipedia](https://en.wikipedia.org/wiki/Jingo_Jungle), [Lyrical Nonsense](https://www.lyrical-nonsense.com/global/lyrics/youjo-senki-ii-theme-songs/), [ANN](https://www.animenewsnetwork.com), [Skream!](https://en.skream.jp/news/2026/07/youjosenki_op_ed_release.php), [CDJapan](https://www.cdjapan.co.jp/product/ZMCZ-13039), [SoundCloud](https://soundcloud.com/masterenvi/ed-youjo-senki-ending-full-los-los-los-by-tanya-degurechaff-aoi-yuuki), [Audiomack](https://audiomack.com/enricksup2/song/67ab6d9a44ab2).
+- Fallaron: YouTube (bloqueado desde el servidor), AnimeThemes (522), MusicBrainz (sin registros de la serie), Reddit directo; el clip del ep. 8 no está en Dailymotion; [ambientCG](https://ambientcg.com) sin comprobar.
+
+**Parte de voz y personajes**
+- API de Doblaje Wiki: wikitext completo extraído con Python (español).
+- `voz.py` sobre 7 muestras de audio (Tanya ×2, Visha, Weiss, Grantz, Drake, Von Hans) (español latino).
+- API de la wiki: Tanya y Visha (inglés).
+- Búsquedas web: por qué la aman (inglés); personalidad y citas (inglés); escenas que hacen llorar y la T2 (inglés); fandub, TikTok y covers de la T2 (español); canales de fandub (español); encuestas de popularidad (inglés, sin resultado).
+- Fuentes: [studiojakemedia](https://studiojakemedia.substack.com/p/the-saga-of-tanya-the-evil-anime), [soapcentral](https://www.soapcentral.com/anime/saga-tanya-evil-ii-episode-12-a-brutal-finale-changes-everything), [mystiqora](https://mystiqora.com/saga-of-tanya-the-evil-season-2-release-date-confirmed-trailer-cast-and-reddit-community), [Facebook](https://www.facebook.com/Ashfandubs/videos/1017435787805721/), [Crunchyroll](https://www.crunchyroll.com/es/series/GR9P57W96/saga-of-tanya-the-evil).
+- Fallaron: [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=YoujoSenki) con filtros (error; sin filtros sí respondió); `voz.py` sobre el tráiler latino de la T2 (se cortó); sin muestra de audio de Being X.
+
+**Parte de texto, juegos y técnica**
+- API de la wiki (inglés): `allpages` y `parse` de Operation Orb, Terminologies, Military Rank, Field Assault Badge, Flight Gear, Silver Wings Assault Medal, Empire, Being X, Youjo Senki Timeline, Volume 1, Youjo Senki Light Novel, Youjo Senki Manga, el videojuego, Tanya y Sensen no Realism.
+- Imágenes miradas: manga cap. 1 pág. 1, el fotograma de Being X y dos imágenes del juego en [4Gamer](https://www.4gamer.net/games/509/G050970/20201210187/).
+- Búsquedas web en inglés (7): 3D de NUT, letra del logo, capturas del juego, TV Tropes y obras parecidas, estilo visual, rótulos en pantalla, 3D de fondos. En japonés (3): 「幼女戦記 アニメ 制作 インタビュー CG 演出」, UI del juego, web oficial del juego. En español (1): globos y cartelas del manga.
+- Fuentes: [dafont](https://www.dafont.com/forum/read/350705/y-jo-senki-saga-of-tanya-the-evil-font), [truefork](https://truefork.org/wp/deciphering-youjo-senki-part-1-text/) (3 artículos), [ANN](https://www.animenewsnetwork.com/interview/2019-06-08/the-saga-of-tanya-the-evil-author-carlo-zen-and-english-translator-emily-balistrieri/.146974), [gamebiz](https://gamebiz.jp/news/338324), [Denfaminicogamer](https://news.denfaminicogamer.jp/interview/youjo-senki), [Wikipedia japonesa](https://ja.wikipedia.org/wiki/幼女戦記_(アニメ)), [web oficial](https://youjo-senki.jp/tv/staffcast/), [Google Fonts](https://fonts.gstatic.com) (15 letras comprobadas con fontTools).
+- Fallaron (sin insistir): [TV Tropes](https://tvtropes.org) (Cloudflare), [Wayback Machine](https://web.archive.org) (bloqueada por el proxy), [Wikimedia Commons](https://commons.wikimedia.org) (el logo en SVG devolvió HTML vacío), Wikipedia de NUT (no cargó el cuerpo), QooApp (sólo arte). No se buscó en coreano ni en chino.
+
+**Redactor** (26-sep)
+- Leídas las cuatro partes, los `datos-*.md`, ENCARGO, EQUIPO, AYUDANTE, PETICIONES, reglas del dueño, inventario y DECISIONES.
+- Miradas las 3 hojas de contacto y descritas casilla a casilla.
+- API de la wiki (`prop=imageinfo`): comprobadas las 15 URL de la wiki que daban las partes (una mal: la 2.ª visual) y sacadas URL y tamaño de 20 imágenes más vistas en las hojas.
+- Medidos con Pillow los 17 retratos y portadas de AniList (230×345 a 1900×400).
+- Revisadas las biblias de otras series para anotar los choques de canal (#castings, #general-doblaje).
+- **Correcciones a las partes**: casilla y tamaño de la 2.ª visual (66, 1080×668); casillas de las ilustraciones del tomo 1 (15-19); la trama de la pág. 255 está en `personajes_02`, casilla 71; el café lo hace Visha, no Tanya; el recorte de Wallhaven con «Aqua» sólo muestra a Tanya; varios nombres del reparto que la parte de voz daba por confirmados sólo están en una fuente (van con ⚠️).
+
+**Lo que NO se encontró** (junto)
+- Encuesta oficial de popularidad; clips oficiales doblados al latino; frases latinas de la T2; muestra de audio de Being X.
+- El tema musical de las escenas tristes; análisis técnico de los efectos de sonido.
+- Capturas de menús y diálogos del videojuego; *making of* técnico del estudio; *rigs* libres de los personajes.
+- Fondos oficiales de sólo paisaje; páginas de lugares en la wiki; textura de papel viejo con licencia.
+- Covers del opening en español; fandubs con vistas comprobadas; cafés temáticos o colaboraciones con marcas.
