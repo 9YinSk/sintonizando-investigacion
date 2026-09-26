@@ -65,13 +65,13 @@ fecha: 2026-09-24
 - **Dos fotogramas de 1×03 con identidad dudosa** (19:55 «Silco» y
   20:10 «Vander joven»): marcados ⚠️ en §2.3.
 - `referencias.json`: fuera **36 capturas de Steam** de juegos que sólo
-  se llaman «Arcane», 17 fotos de Flickr sin relación y 6 fan arts de
-  Spider-Gwen.
+  se llaman «Arcane», 18 fotos de Openverse sin relación y 6 fan arts
+  de Spider-Gwen; dentro, los 3 fotogramas nuevos de 1×08 y 2×04.
 
 **Añadido:**
 - **Minutos de verdad**: la T1 bajada de Internet Archive y mirada con
   `fotogramas.py` (§2.1-2.3, §12, §15).
-- **La cara en cada emoción** con fotograma y `?t=` (§8): 20 filas. Las
+- **La cara en cada emoción** con fotograma y `?t=` (§8): 19 filas. Las
   tres últimas del investigador de voz, **Vi alegre (1×08, 14:16)**, **Vi
   fuera de lugar (1×08, 13:40)** y **Jinx alegre (2×04, 6:10)**, las
   volví a sacar y a mirar. Y las **dinámicas** para láminas en grupo.

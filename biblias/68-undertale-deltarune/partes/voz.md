@@ -127,6 +127,64 @@ el juego, marcando cuándo la traducción al español es de fans:
   https://undertale.fandom.com/wiki/Chara · ⚠️ (una sola fuente comprobada
   ahora mismo, muy citada de memoria en el fandom).
 
+## 12 · Lo que el fandom ama y qué NO hacer
+
+**Lo que ama:**
+- Sans ganó la encuesta oficial de la wiki con el doble de votos que el
+  segundo lugar (ver punto 7); es el personaje-símbolo de la franquicia pese a
+  ser secundario. ✅.
+- «Mr. Ant Tenna» (personaje muy menor, capítulo 3 de Deltarune) ganó el
+  concurso viral «Tumblr Sexyman» 2026 con 300 000+ votos; hay hilos de Reddit
+  celebrándolo en vivo («Man, Im seriously starting to like this tenna guy!
+  Hes my new favorite character!»). Fuentes: https://en.wikipedia.org/wiki/Tumblr_Sexyman
+  y https://www.reddit.com/r/Undertale/comments/1vm8w9f/ (vía Arctic Shift) ·
+  ✅.
+- Spamton (vendedor fantasma del capítulo 2 de Deltarune) tiene su propia
+  sección de memes en TV Tropes, con la broma recurrente de que quiere ser un
+  «BIG SHOT» (aquí aparece parodiada como «BIG MEME!!»). Fuente:
+  https://tvtropes.org/pmwiki/pmwiki.php/Memes/Deltarune (leída con
+  navegar.py) · ✅.
+- El «annoying dog» (perro blanco que roba objetos) es un chiste recurrente
+  que el fandom repite en memes y fan art; ya estaba en la encuesta oficial
+  con 2,22 % de votos como personaje favorito, a la par de personajes
+  principales como Asgore. Fuente: Poll Archive (punto 7) · ✅.
+- El shipping «Susie x Noelle» es canon parcial (la propia ficha de personaje
+  de Susie la marca como «love interest» de Noelle) y es de los más
+  celebrados por el fandom hispano y anglosajón. Fuente:
+  https://deltarune.fandom.com/wiki/Susie (infobox, campo relationships) · ✅
+  (coincide con el resumen de GameRant sobre Susie, punto 7).
+
+**Lo que NO hay que hacer** (hilo de Steam «mistakes in representation by the
+fandom», 91 respuestas, y otras fuentes cruzadas):
+- No pintar a Sans con los ojos siempre brillando en azul: en el juego el
+  brillo **alterna entre amarillo y azul** y casi siempre está apagado (ojos
+  negros normales). Tampoco dibujarlo abriendo la boca: su sprite nunca lo
+  hace. Fuente: https://steamcommunity.com/app/391540/discussions/0/135514507322283690/
+  (leído con navegar.py) · ✅ (coincide con las capturas oficiales de Sans en
+  la wiki, que muestran boca cerrada siempre).
+- No convertir a Chara en «la víctima» o en quien detiene al jugador al final
+  de la ruta genocida: en esa ruta Chara lleva el conteo de muertes, incita a
+  matar y remata a Sans y a Flowey. Es un malentendido de fans muy repetido y
+  discutido. Misma fuente · ✅.
+- No pintar a Undyne de verde (es azul) ni convertir a Mettaton en «ella»
+  (es un robot que se refiere a sí mismo como «he/him» tanto en su forma caja
+  como en Mettaton EX). Misma fuente · ⚠️ (una fuente de foro, pero coincide
+  con el diseño oficial visible en las hojas de la wiki).
+- No mezclar personalidades de distintos «AUs» (universos alternos de fans)
+  sin criterio, como ships al azar entre variantes de Sans sin base en ningún
+  cómic real («Error x Fresh», citado como ejemplo de lo que más irrita).
+  Misma fuente · ✅.
+- No dar voz hablada literal a Frisk ni a Kris en fan-doblajes «serios»: son
+  protagonistas mudos a propósito (avatares del jugador); el fandom sí acepta
+  que hablen en comic dubs de humor, pero remarca que no tienen género ni edad
+  fijados por Word of God. Fuente cruzada:
+  https://undertale.fandom.com/wiki/Frisk#Personality (ya en datos-voz.md) y
+  el mismo hilo de Steam · ✅.
+- No hacer a Papyrus «odiando los chistes malos»: en realidad hace más
+  juegos de palabras que Sans (14 contra 6, según el conteo de líneas de la
+  wiki) y disfruta el humor tanto como él. Fuente:
+  https://undertale.fandom.com/wiki/Papyrus (sección Trivia) · ✅.
+
 ## Lo mejor para la lámina (avance, se completa al final)
 
 - Sans, no Frisk, es la cara que el fandom asocia a la serie (32 % de una
