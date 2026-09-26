@@ -32,6 +32,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 - 13 Rick and Morty: **COMPLETA** y subida (19:52). ✅29 ⚠️8 ❌0, 93 referencias, 97 webs, 270 min citados, 43 hex, 2193 líneas.
 - 12 Kakegurui: **COMPLETA** (19:47, ya subida por guardar.sh). ✅27 ⚠️10 ❌0, 81 referencias, 97 webs, 150 min citados, 40 hex, 2226 líneas.
   14: video, imagen y texto terminados; voz dejó un Sigue: obligatorio (punto 13, caras/emociones) → relanzada corta desde 19:49. 15: 4 investigadores (Sonnet, repaso) en marcha desde 19:49.
+- 14 Adventure Time (Hora de aventura): **COMPLETA** y subida (00:01). ✅24 ⚠️6 ❌0, 142 referencias, 104 webs, 3120 líneas.
 
 ## Avisos para el dueño
 
