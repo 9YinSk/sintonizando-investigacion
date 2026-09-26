@@ -99,6 +99,9 @@ ahora lleva el lote H.)
 - **124 No Man's Sky**: más querido, sin encuesta oficial (buscada); el fandom dibuja a su propio Viajero; los Gek (Polo) son «los adorables»; Nada y Polo la pareja más recordada. Cuadro de diálogo: caja azul translúcida (#193D5D a #222E3C) con trama de hexágonos, arco de puntos arriba, pestaña con el nombre y texto blanco en Roboto; opciones [1] a [4]; estática «kzzkt»; nunca globo. Láminas: A #a-que-juegas «El portal de la sabana» (recomendada); B #proyectos «El Nexo de la Anomalía» con Polo y Nada; C #eventos «El parche de la Expedición».
   - Avisos: sin doblaje ni texto oficial en español latino (comprobado en Steam y Doblaje Wiki); textos en español neutro del servidor. Modelos 3D del portal, Atlas y Centinelas en Sketchfab son CC BY-NC (con crédito, no para vender). Pose base de A y C en hoja 3 n.º 10 (cartel de Cosmos, 1:52). Tráiler de Rutger Hauer (Dailymotion x443lhp) sin fandub en español: posible evento de doblaje. Concepto C: no documentada la cuenta atrás de las Expediciones en pantalla. Firefly puede bloquear el nombre «No Man's Sky»: la guía describe el estilo sin nombrarlo.
 
+- **123 Reanimal**: más querido, Hood (Capucha), la primera amiga rescatada; la más dibujada, La Niña (muestra mínima). Cuadro de diálogo: sin globos, subtítulos en barra oscura con texto blanco Barlow Condensed; dos formatos oficiales: marco de papel rasgado de tienda y letra blanca a mano sobre negro (artbook pág. 55). Doblaje latino (Made in Spanish, 7 actores). Láminas: A #a-que-juegas «El mapa del desván», B #noticias-gaming «La marquesina del cine», C #reto-de-la-semana «La reja de la tubería».
+  - Avisos: redactor corrigió descripciones mal puestas en imagen (arte de prensa 1 es una bestia lanuda sobre ciudad, no hermanos en barca); reparto latino sin personaje asignado en Doblaje Wiki (hay que oír muestras; estudio solo tiene una fuente). Contradicciones marcadas ⚠️: banda sonora 30 o 33 pistas, Metacritic 81 o 80/83, director narrativo Mervik/Mervick, sexo del Prisionero DLC, si La Madre sale en DLC, Lisbeth Moller Fly como voz de La Niña y artista del artbook. #reto-de-la-semana ya tiene imagen fijada (concepto 3 es alternativa). Falta: URL del póster de Pascua, GitHub y Pixiv, texturas de papel, minutos de escenas que hacen llorar. No volver a correr juntar_referencias.py (volverían 57 referencias quitadas a propósito).
+
 - Herramienta: en videojuegos, la tabla «Reparto latino por personaje» de `recolectar.py` (Doblaje Wiki) sale rota: mete nombres de archivos de audio en la columna del personaje y no trae actor. El investigador de voz de 117 la rehízo a mano.
 - Herramienta: en 118 la wiki de Fandom buena es `thehellblade`, no `hellblade`.
 - Red: Wayback Machine está bloqueada por la política de red de este entorno; TCRF, Game UI Database y ArtStation dan 403 a curl y WebFetch.
@@ -132,4 +135,5 @@ ahora lleva el lote H.)
 | 120 | redactor (relanzado) | Opus | 19 | 325 mil |
 | 121 | redactor | Opus | 22 | 341 mil |
 | 122 | equipo completo | Sonnet + Opus | — | — |
+| 123 | redactor | Opus | 14 | 263 mil |
 | 124 | equipo completo | Sonnet + Opus | — | — |

@@ -609,3 +609,21 @@ El rojo de Caelid es el mismo del key art de Malenia: la Podredumbre usa ese roj
 
 **Capas completas de una lámina:** 3D (punto 3), textura real (punto 4), textura 2D y emblema (este punto), y grano y viñeta (punto 18).
 
+## 20 · Gustos y detalles de cada personaje
+
+⚠️ **Elden Ring no tiene un *databook* con cumpleaños, altura ni comida favorita**, como sí lo tienen las series de anime. Se buscó en inglés y sólo aparecieron gráficos de altura hechos por fans. Las «256 cm» de Malenia son de un gráfico de fans ([GameRant](https://gamerant.com/elden-ring-malenia-how-tall-comparison/)), no oficiales.
+Casilla con «no existe» quiere decir que la obra no lo da, no que falte buscarlo.
+
+| | Melina | Malenia | Ranni |
+|---|---|---|---|
+| Le gusta | Cumplir su propósito y el Sinluz, su «compañero» | Luchar con nobleza y su hermano Miquella | El saber prohibido, elegir su destino, Blaidd e Iji |
+| Odia | Que se rompa el pacto y la Llama Frenética | La debilidad, perder y la Podredumbre que la come | El Orden Dorado y una Muerte en manos de los dioses |
+| Aficiones | Ninguna: es un espíritu con una función | Ninguna: su vida es la guerra | Astrología y nigromancia |
+| Cumpleaños | No existe | No existe | No existe |
+| Altura | Sin cifra: tamaño humano | Sin cifra oficial | Su cuerpo de muñeca está hecho a su medida. De la forma real no hay medida |
+| Objeto que siempre lleva | Ninguno físico. Su don es convertir las runas en fuerza | La prótesis dorada para empuñar la *Mano de Malenia*, y el escudo hecho con su cuna ✅ | La Espadona de la Luna Oscura y su cuerpo de muñeca ⚠️ |
+| Cómo se ve | Como un instrumento de su madre | Como la invicta, aunque se muere por dentro | Como alguien libre de los dioses |
+| Fuente | [wiki Melina](https://eldenring.fandom.com/wiki/Melina) ✅ | [wiki Malenia](https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella) ✅ | [wiki Ranni](https://eldenring.fandom.com/wiki/Ranni_the_Witch) ✅ |
+
+**«Comida» del juego:** no hay comida favorita. Lo que se bebe son los frascos de lágrimas carmesí y cerúleas (nº 142 y 143), dos frascos dorados con lágrimas de colores dentro.
+

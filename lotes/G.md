@@ -49,6 +49,7 @@ Cuenta: cuenta R49
 - 104 Steven Universe: **COMPLETA y subida** (20:30 UTC). `revisar.py`: ✅23 ⚠️7 ❌0, 1318 líneas, 125 referencias, 53 webs.
 - 101 Your Name: cielos y ciudades: **COMPLETA y subida** (00:23 UTC), ✅22 ⚠️8 ❌0, 82 referencias, 43 webs.
 - 103 Hazbin Hotel y Helluva Boss: **COMPLETA y subida** (01:47 UTC), ✅20 ⚠️10 ❌0, 74 referencias, 46 webs.
+- 102 El estilo Ghibli en general: **COMPLETA y subida** (01:49 UTC), ✅24 ⚠️15 ❌0, 158 referencias, 75 webs.
 
 ### Para quien siga (paso a la compu del dueño con MWAPI, 25-sep 19:20 UTC)
 
