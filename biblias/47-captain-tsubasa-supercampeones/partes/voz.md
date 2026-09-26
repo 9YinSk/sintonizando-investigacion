@@ -87,3 +87,174 @@ años** (el que more gente cita en redes), porque se repitió muchísimo en TV a
   de mediotiempo dice que Rosalinda Márquez y Emilio Ángeles doblaron a Oliver niño/adolescente en esa
   versión de 2018) · ⚠️ (una fuente, no verificado en Doblaje Wiki directamente, la página de esa serie no
   apareció en la búsqueda de la wiki con ese título).
+
+## 12 · Lo que el fandom ama y qué NO hacer
+
+- **La regla de oro que un fan reconoce al instante**: los tiros duran una eternidad. Un solo remate puede
+  ocupar buena parte de un episodio, con el balón «congelado» en el aire, primeros planos repetidos de la
+  cara y flashbacks del entrenamiento a mitad de la jugada · confirmado viéndolo yo mismo: episodio 1 «El
+  Desafío» (`super-campeones-1983-latino`), el balón sale disparado hacia el minuto 3:40 y la jugada sigue
+  con cortes dramáticos varios planos después · ✅ (visto directo con `fotogramas.py` + es chiste
+  recurrente citado en toda reseña de la serie leída para el punto 21).
+- **Qué NO hacer, según lo que ya rechazó el dueño (ENCARGO.md)**: nunca un cuadro de diálogo blanco
+  genérico. Aquí sería especialmente falso: las cartelas propias de la serie son marcadores de velocidad/
+  potencia junto al balón y el **nombre de la técnica en letras grandes en pantalla** («TIGER SHOT» tal
+  cual se ve sobreimpreso en japonés/inglés en los openings, confirmado en fotograma real del opening,
+  hoja de imagen del investigador de vídeo) — no un bocadillo de cómic corriente.
+- Qué NO hacer (2): no mezclar las dos oleadas de nombres por descuido. Quien creció con el doblaje 1/2
+  (TV abierta, 90-2000) dice «Oliver», «Benji», «Steve»; quien llegó por el remake 2018 o el manga reciente
+  dice «Tsubasa», «Genzo», «Kojiro». Poner «Oliver» bajo un arte con el uniforme 2018 del Barcelona (o
+  viceversa) delata que no se investigó la época de esa imagen.
+- Qué NO hacer (3): no dibujar un partido «realista» y comedido. La física imposible (tiros que abollan la
+  red, jugadores suspendidos varios segundos en el aire, huracanes y ríos dibujados alrededor del balón) es
+  el tono central de la serie; quitarla la vuelve genérica.
+- El fandom ama que futbolistas reales (Messi, Iniesta, Zidane, Del Piero, Mbappé) citen la serie como
+  motivo real para empezar a jugar; y que Tsubasa Ozora sea una suerte de mascota-embajador del propio
+  fútbol japonés (fichaje «real» por el FC Barcelona en el manga, rueda de prensa incluida en la ficción) ·
+  fuente Trivia de `en_Tsubasa_Ozora.json` + nota de Bagre.life · ✅ (dos fuentes).
+- Memes confirmados: los nombres de las técnicas («Tiro del Tigre», «Tiro del Águila») se usan en TikTok en
+  español como sinónimo de «hacer algo con toda la fuerza posible», con decenas de vídeos bajo esas
+  etiquetas · ⚠️ (visto en la búsqueda, no se pudo contar vistas por vídeo individual sin cuenta de TikTok).
+- No encontré un meme o «running gag» propio del **doblaje latino en concreto** (tipo «la frase que todos
+  citan mal») más allá de la propia frase del balón-mejor-amigo; até la búsqueda a «Reddit Captain Tsubasa
+  español meme doblaje» sin resultado nuevo · ⚠️.
+
+## 13 · Descripción profunda de cada personaje
+
+**Tsubasa Ozora / Oliver Atom** (protagonista). Nació el **28 de julio**, tipo de sangre A, mediocampista
+ofensivo/delantero, de Nankatsu (Shizuoka) · fuente infobox `captaintsubasa.fandom.com`, página «Tsubasa
+Ozora» · ✅ (coincide con la ficha japonesa `captaintsubasa.fandom.com/ja`, mismo dato de cumpleaños).
+- Carácter: alegre, sin rencor, motiva incluso a sus rivales; su lema de vida —repetido literal en el
+  doblaje, ver punto 8— es que **el balón es su mejor amigo**: de bebé un balón lo salvó de un atropello
+  (amortiguó el golpe) y desde entonces come, camina y hasta duerme con él cerca · fuente wikitext inglés,
+  sección Historia · ✅.
+- Qué le importa/miedo: no teme al dolor físico (juega lesionado sin quejarse en varios arcos), pero le
+  pesa decepcionar a quien confía en él (su entrenador Roberto Hongo, su familia); analiza sus derrotas en
+  voz alta con el propio rival, nunca guarda rencor · ✅ (wikitext inglés + escena vista en el punto 8).
+- Cómo se expresa: habla fuerte y directo, casi nunca sarcástico; cuando algo lo sorprende abre mucho los
+  ojos con la boca entreabierta —visto en fotograma real, episodio 1 «El Desafío», minuto 9:20,
+  `https://archive.org/details/super-campeones-1983-latino` (archivo «Super Campeones - 001 - El
+  Desafio.mp4»); cuando se decide a algo, la escena lo pone de perfil a contraluz en silueta —visto igual
+  de real en el mismo episodio, minuto 23:20-24:00, cierre con música dramática y su silueta caminando
+  hacia el sol poniente · ✅ (visto fotograma a fotograma, no de memoria).
+- Arco: de niño solitario en un barrio donde el fútbol no es popular (los demás juegan béisbol) a capitán
+  de Japón y jugador del FC Barcelona «real» dentro de la ficción (con rueda de prensa incluida, 2003-04) ·
+  fuente Trivia de la wiki inglesa · ✅.
+- Dinámicas: su rivalidad-amistad con Genzo Wakabayashi es el motor de toda la serie («el primer rival y el
+  amigo con quien juró ganar el Mundial»); con Kojiro Hyuga empieza en casi-odio (Toho sólo iba a fichar a
+  uno de los dos) y termina en respeto mutuo · fuente wiki japonesa `ja_日向小次郎.json` · ✅.
+
+**Genzo Wakabayashi / Benji Price** (secundario principal, portero). Nació el **7 de diciembre**, tipo de
+sangre O, 183 cm/77 kg de adulto, también de Nankatsu, hijo de un empresario rico dueño de la escuela del
+barrio · fuente infobox inglés + wikitext japonés (mismas cifras en las dos wikis) · ✅.
+- Carácter: al principio soberbio y frío («niño rico, convencido de que nadie le mete un gol»); madura con
+  la rivalidad de Tsubasa hasta ser un capitán generoso y protector de su equipo · fuente wiki japonesa,
+  sección 小学生編 · ✅.
+- Manías/gestos: siempre lleva puesta su gorra de portero, incluso fuera de la cancha en algunas escenas;
+  tiene un perro llamado John · fuente wiki inglesa (Trivia/relaciones) + hoja de contacto ya elegida por
+  el investigador de imagen (hoja 02) · ✅ (dos fuentes, wiki + imagen).
+- Su credo, según la wiki japonesa: «un tiro desde fuera del área siempre lo detengo» y «mientras yo no
+  falle, el equipo no puede perder» · ⚠️ (paráfrasis de wiki, no es cita textual de un clip doblado).
+- Momento clave/qué transmite: se muda solo a Alemania de niño (ficha por el Hamburgo) y sufre racismo de
+  sus propios compañeros hasta ganarse su respeto a golpes; transmite que el talento solo no basta, hay que
+  aguantar en un lugar hostil · fuente wiki japonesa, sección ハンブルグ · ✅.
+- Su cara en cada emoción: no localicé un episodio con Genzo/Benji en primer plano dentro de los 30
+  episodios que sí revisé fotograma a fotograma (`super-campeones-1983-latino` sólo llega al 30; su gran
+  arco es posterior, ~episodio 40+). Lo confirmado es el arte oficial ya elegido por imagen:
+  `Genzo_Wakabayashi_Japan_1.png` (serio y concentrado, de portero) y `Genzo_Wakabayashi_Shutetsu.png` (de
+  niño, gesto desafiante) · ⚠️ (arte oficial, no fotograma de vídeo con minuto propio — ver «No encontré»).
+
+**Kojiro Hyuga / Steve Hyuga** (secundario principal, rival). Nació el **17 de agosto**, tipo de sangre O,
+180 cm/70 kg de adulto, de Saitama (barrio inspirado en el viejo Urawa) · fuente wiki japonesa
+`ja_日向小次郎.json` (coincide con el infobox inglés) · ✅.
+- Historia/qué le importa: perdió a su padre en un accidente de tráfico en 4º de primaria; es el mayor de
+  4 hermanos y desde niño reparte periódicos y ayuda en un puesto de comida para sostener a su familia —
+  la propia wiki japonesa dice que ese «espíritu hambriento» (ハングリー精神) es la razón real de su fuerza
+  y de su popularidad · ✅ (coincide con el resumen en inglés, que también menciona al padre fallecido).
+- Carácter: durísimo consigo mismo y con los demás, cero tolerancia a la blandura; apodado **«Moko»/猛虎
+  (Tigre Feroz)**; carismático, el equipo confía en él a ciegas pese a su aspereza · ✅.
+- Gesto reconocible: se sube la manga hasta el hombro antes de un tiro fuerte · fuente wiki japonesa · ✅.
+  Casi siempre con el ceño fruncido; sólo sonríe con su familia o con su novia Maki Akamine · fuente
+  infobox inglés (relaciones) + wiki japonesa · ✅ (dos fuentes).
+- Vulnerabilidad: no es miedo físico sino vergüenza de perder el «espíritu de fiera» cuando su familia deja
+  de pasar apuros — un entrenador rival lo acusa en su cara de ser ya «un tigre sin colmillos», y eso lo
+  hace abandonar el equipo sin permiso para entrenar solo y crear el Tiro del Tigre · fuente wiki japonesa,
+  sección 中学生編 · ✅.
+- Su cara en cada emoción: igual que Genzo, su gran arco (Meiwa FC/Toho) no cae dentro de los episodios ya
+  revisados fotograma a fotograma. Sí confirmé su voz gritando la frase del Tiro del Tigre con minuto y
+  enlace real (punto 8), pero no una hoja propia con las 5 emociones pedidas · ⚠️ (ver «No encontré»; arte
+  oficial ya reunido por imagen: `Kojiro_Hyuga_Meiwa_FC_2.png`, con su ceño fruncido típico).
+
+**Taro Misaki / Tom Misaki** (el secundario que a veces gana en popularidad al protagonista, ver punto 7):
+mejor amigo de Tsubasa desde primaria, mediocampista técnico, carácter tranquilo y paciente que equilibra
+lo impulsivo de Tsubasa y de Hyuga · fuente Doblaje Wiki (descripción del reparto) · ⚠️ (una sola fuente;
+no se profundizó más por presupuesto de tiempo — no era uno de los 3 personajes con los que pedía empezar
+el encargo).
+
+## 20 · Gustos y detalles de cada personaje
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Tsubasa Ozora / Oliver Atom | el balón («su mejor amigo»), ganar el Mundial | soltar el balón (le cuesta hasta para comer, ver clip del punto 8) | ver vídeos de fútbol mundial que le regalaba su padre marino | 28 de julio | 175 cm adulto (Road to 2002); 145 cm en 6º de primaria | captaintsubasa.fandom.com, infobox «Tsubasa Ozora» ✅ (en + ja coinciden) |
+| Genzo Wakabayashi / Benji Price | que le reten con tiros desde fuera del área (su orgullo) | que le marquen un gol por descuido propio; la deslealtad al equipo | su perro John; de niño, la misma colección de vídeos de fútbol que Tsubasa | 7 de diciembre | 183 cm adulto | captaintsubasa.fandom.com (en + ja) ✅ |
+| Kojiro Hyuga / Steve Hyuga | la Coca-Cola («好物はコーラ», gusto llamativo según la wiki japonesa) | la «blandura» (甘さ) en un compañero; no poder ayudar económicamente a su familia | de niño, ninguna (trabajaba en vez de tener pasatiempo); de adulto, el fútbol total | 17 de agosto | 180 cm adulto | wiki japonesa `captaintsubasa.fandom.com/ja` (日向小次郎) ⚠️ (la Coca-Cola sólo sale en esta fuente) |
+
+- El objeto que siempre llevan: Tsubasa, el balón pegado al pie o al brazo en casi cualquier escena; Genzo,
+  su gorra de portero (nunca juega sin ella); Hyuga, la manga subida al hombro antes de un tiro fuerte · ✅
+  (repetido en las hojas de contacto 01-03 ya confirmadas por el investigador de imagen).
+- No encontré «comida favorita» propia de Tsubasa ni de Genzo en ninguna ficha (japonesa o inglesa): es un
+  dato típico de *databook* oficial (como los de Saint Seiya) que no localicé escaneado ni citado en
+  español, inglés o japonés · ⚠️ (búsquedas hechas: «大空翼 好きな食べ物», «若林源三 好きな食べ物», sin
+  resultado directo).
+
+## 21 · Por qué la gente la ama
+
+- **Fue la puerta de entrada al anime para toda una generación latinoamericana**: para gente que hoy tiene
+  30-50 años, Supercampeones fue de las primeras series japonesas vistas en TV abierta, muchas veces sin
+  saber que era «anime» · fuente bagre.life, «Supercampeones, ¿la serie animada que llevó a Japón al
+  mundial?» · ⚠️ (una fuente directa, aunque es lugar común repetido en las otras notas leídas para este
+  punto).
+- **La localización con nombres propios memorables** (Oliver, Benji, Steve…) hizo que la serie se sintiera
+  «propia» en español; el recuerdo compartido está tan ligado al doblaje que casi nadie en Latinoamérica
+  llama al protagonista «Tsubasa» de forma espontánea · fuente bagre.life + reparto documentado del punto
+  8 (dos doblajes, dos generaciones distintas) · ✅.
+- **Influencia real y verificable en el fútbol mundial**: Messi, Iniesta, Zidane, Del Piero y Mbappé
+  citaron la serie como inspiración para jugar; se repite de forma independiente en Récord (México) y
+  Bagre.life · ✅ (dos fuentes).
+- Identificación del público: Genzo Wakabayashi y Kojiro Hyuga (los dos personajes «para empezar» además
+  del protagonista) atraen a quien se identifica con el esfuerzo/sacrificio (Hyuga, pobreza y trabajo
+  infantil) o con la disciplina en soledad (Genzo, migración a Alemania de niño) más que con el optimismo
+  casi sobrehumano de Tsubasa · deducido comparando las tres biografías del punto 13 · ⚠️ (interpretación
+  propia sobre datos ✅, no hay una encuesta que lo diga en estas palabras).
+- No encontré una escena identificada por nombre como «la que hace llorar a todo el mundo» con minuto
+  exacto, música y reacciones citadas (vídeos de reacción, hilos con más votos): mi ventana de vídeo real
+  fueron sólo los primeros 30 episodios del doblaje 1 (1983); los momentos más citados como tristes en las
+  reseñas que sí leí (la lesión de Wakabayashi, una enfermedad cardíaca de un rival mencionada al pasar en
+  el clip del punto 8, minuto 2:07) están en episodios posteriores que no llegué a revisar fotograma a
+  fotograma · ⚠️ (obligatorio del punto 21 sin cerrar del todo, ver «Sigue»).
+
+## 22 · Fan dubs y comunidad hispana
+
+- Fandub cómico con guion propio, YouTube: «JUAN DIAZ DESAFIA a TSUBASA OZORA ESPAÑOL LATINO Fandub» ·
+  canal **Manu CMR** · 10 040 vistas · subido 7-ene-2024 · 100 s ·
+  https://www.youtube.com/watch?v=CdbJGKTY5nY · ✅ (metadatos de yt-dlp vistos directamente).
+- Cover del opening de la película de 2023, muy visto: «Captain Tsubasa: La Leyenda Regresa - Camino a un
+  Sueño - Opening 60FPS - Español Latino» · canal **Dylan** · **558 586 vistas** ·
+  https://www.youtube.com/watch?v=5VoHfpRIwtM · ✅.
+- Canal dedicado sólo a fandubs de la serie: **«supercampeonesfandub»**, con «Sigue Adelante (Keep on
+  going, fandub song) tv size» · 51 375 vistas · https://www.youtube.com/watch?v=cxWF8PEmotg · ✅ (canal
+  monotemático, buena señal de comunidad hispana activa y constante).
+- Covers cantados del primer opening japonés («Dragon Screamer») en español latino: canal **«André - A!»
+  (Edgardo Artieda)**, 62 546 vistas, https://www.youtube.com/watch?v=0U05jp37Ac4; y canal «Eddy "D"
+  Marquez» (versión Road to 2002), 1 635 vistas, https://www.youtube.com/watch?v=cQZETRFYbio · ✅ (dos
+  covers distintos, mismo tema).
+- Fandub del ending «Otokou darou» (Captain Tsubasa J), canal **HiroseTakaraExtra** · 13 661 vistas ·
+  https://www.youtube.com/watch?v=FPEHfYm3v8M · ✅.
+- Para comparar tamaño de nostalgia: openings oficiales resubidos tienen más vistas que casi cualquier
+  fandub — «Captain Tsubasa (Super Campeones) Opening 1 Audio Latino», canal Rafaell Constantino,
+  **567 556 vistas**, https://www.youtube.com/watch?v=rJzNgkjQY78; «Super Campeones llegaron ya... Opening
+  1 Original Latino con letra», canal Isa Crosta, 249 467 vistas,
+  https://www.youtube.com/watch?v=lA1KGKFLzm8 · ✅.
+- No encontré memes o parodias concretas de TikTok con conteo de vistas verificable (TikTok no se puede
+  consultar por API sin cuenta desde este servidor); sólo confirmé por búsqueda web que existen decenas de
+  vídeos bajo la etiqueta «capitan tsubasa tiro del aguila» · ⚠️.
