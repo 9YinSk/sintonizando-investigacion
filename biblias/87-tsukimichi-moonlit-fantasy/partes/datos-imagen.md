@@ -1,16 +1,82 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Tsukimichi: Moonlit Fantasy
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/125206_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125206-O2MsOWdW1lVi.jpg
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/125206-UdWijVTgcC5t.jpg
+
+## Makoto Misumi: las imágenes más grandes de la wiki (91 en total)
+_Fuente: https://tsukimichi.fandom.com/wiki/Makoto_Misumi_
+
+- 1920×1080 · Makoto Misumi (Anime).png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/a/aa/Makoto_Misumi_%28Anime%29.png
+- 819×1200 · TsukiMichi-LN-v06-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/b/ba/TsukiMichi-LN-v06-01.png
+- 819×1200 · TsukiMichi-LN-v05-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/f/f5/TsukiMichi-LN-v05-01.png
+- 655×1500 · Makoto-Artwork-S2 (Anime).png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/d/d3/Makoto-Artwork-S2_%28Anime%29.png
+- 817×1200 · TsukiMichi-LN-v13-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/06/TsukiMichi-LN-v13-01.png
+- 817×1200 · TsukiMichi-LN-v12-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/2/24/TsukiMichi-LN-v12-01.png
+- 817×1200 · TsukiMichi-LN-v11-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/e/ef/TsukiMichi-LN-v11-01.png
+- 817×1200 · TsukiMichi-LN-v10-06.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/4/48/TsukiMichi-LN-v10-06.png
+- 817×1200 · TsukiMichi-LN-v10-05.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/a/ab/TsukiMichi-LN-v10-05.png
+- 817×1200 · TsukiMichi-LN-v10-03.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/0c/TsukiMichi-LN-v10-03.png
+
+## Makoto Misumi · Appearance (texto de la wiki)
+_Fuente: https://tsukimichi.fandom.com/wiki/Makoto_Misumi#Appearance_
+
+Makoto is a short young man, approximately 160 centimetres tall, with medium-length black hair and dark eyes. His facial features are considered average by Japanese standards. However, because Hyumans generally possess exceptionally attractive appearances, many inhabitants of the Goddess' World consider him ugly or mistake him for a Kobold or another type of Demi-Human. When Makoto does not suppress his enormous quantity of mana, it manifests around him as an ominous haze resembling heat rising from a desert. Those capable of perceiving mana may interpret it as the presence of an extremely powerful or dangerous being. He normally conceals it using mana-absorbing equipment and Sakai. When Makoto becomes severely angry or emotionally detached, his expression becomes unusually calm and intimidating, while the area around his eyes appears darker.
+
+## Tomoe: las imágenes más grandes de la wiki (51 en total)
+_Fuente: https://tsukimichi.fandom.com/wiki/Tomoe_
+
+- 2200×2864 · Tomoe.webp · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/05/Tomoe.webp
+- 1920×1080 · Tomoe (Anime).png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/4/45/Tomoe_%28Anime%29.png
+- 1919×1079 · Shin (Dragon Form) (Anime).png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/9/92/Shin_%28Dragon_Form%29_%28Anime%29.png
+- 817×1200 · TsukiMichi-LN-v13-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/06/TsukiMichi-LN-v13-01.png
+- 817×1200 · TsukiMichi-LN-v10-03.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/0c/TsukiMichi-LN-v10-03.png
+- 817×1200 · TsukiMichi-LN-v09-02.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/4/4b/TsukiMichi-LN-v09-02.png
+- 817×1200 · TsukiMichi-LN-v08-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/6/6e/TsukiMichi-LN-v08-01.png
+- 817×1200 · TsukiMichi-LN-v04-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/9/9a/TsukiMichi-LN-v04-01.png
+- 817×1200 · TsukiMichi-LN-v01-06.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/6/67/TsukiMichi-LN-v01-06.png
+- 817×1200 · TsukiMichi-LN-v01-05.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/0e/TsukiMichi-LN-v01-05.png
+
+## Tomoe · Appearance (texto de la wiki)
+_Fuente: https://tsukimichi.fandom.com/wiki/Tomoe#Appearance_
+
+=== Humanoid form === Tomoe appears as a beautiful young woman with long, wavy light-blue hair, red reptilian eyes and a tall, curvaceous figure. Her hair is normally tied into a high ponytail and retains a mist-like quality associated with her powers. She generally wears clothing inspired by traditional Japanese fashion, including a kimono, scarf, sash and footwear resembling sandals or boots. Her clothing and weapons reflect her fascination with samurai and Japanese period dramas. Although she has a feminine appearance, Tomoe often uses masculine speech patterns and behaves in a confident, rough or traditionally masculine manner. She becomes noticeably more feminine when embarrassed or expressing affection towards Makoto. === Dragon form === |-|Anime= |-|Manga= |-|Light Novel= Tomoe's original form resembles an Oriental or Eastern dragon. She has a long serpentine body, flowing…
+
+## Mio: las imágenes más grandes de la wiki (55 en total)
+_Fuente: https://tsukimichi.fandom.com/wiki/Mio_
+
+- 1380×2864 · Mio's Modified Kimono Outfit.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/8/8e/Mio%27s_Modified_Kimono_Outfit.png
+- 1920×1080 · Spider Form = Mio Tsukimichi.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/2/23/Spider_Form_%3D_Mio_Tsukimichi.png
+- 1920×1080 · Mio (Anime).png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/9/9f/Mio_%28Anime%29.png
+- 908×1172 · Mio Anime.jpg · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/f/f5/Mio_Anime.jpg
+- 817×1200 · TsukiMichi-LN-v11-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/e/ef/TsukiMichi-LN-v11-01.png
+- 817×1200 · TsukiMichi-LN-v10-06.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/4/48/TsukiMichi-LN-v10-06.png
+- 817×1200 · TsukiMichi-LN-v10-03.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/0c/TsukiMichi-LN-v10-03.png
+- 817×1200 · TsukiMichi-LN-v09-04.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/2/2f/TsukiMichi-LN-v09-04.png
+- 817×1200 · TsukiMichi-LN-v08-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/6/6e/TsukiMichi-LN-v08-01.png
+- 817×1200 · TsukiMichi-LN-v04-01.png · https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/9/9a/TsukiMichi-LN-v04-01.png
+
+## Mio · Appearance (texto de la wiki)
+_Fuente: https://tsukimichi.fandom.com/wiki/Mio#Appearance_
+
+=== Human form === · In her human form, Mio has black hair with a red headband knot in bloom, black lace gloves and wears a luxurious black and red kimono in the style yukata, further the handle have white frills. However, do not be fooled by her, her kimono still has some defensive power, it can withstand up to a certain point enough to surprise the elders dwarves when it got cut up. She hides her folding fan in her bosom. At a simple glance, it doesn’t look like the type that someone could properly move in. Meanwhile on Mio's everyday/default outfit (which started on Season 1 when Makoto liked the outfit), Mio wears her usual black and red kimono but with modifications. She now wears black shoes instead of her usual white shoes and the kimono is fully covered. Her white frills got removed and it now consists of two spider-webs on her left arm and her legs. She also wears her default…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de tsukimichi.fandom.com (3 páginas y sus galerías)…
+  174 imágenes enlazadas, 116 grandes → 3 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/tsukimichi-moonlit-fantasy
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
@@ -22,7 +88,7 @@ _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
 - **kiryu_coco**: virtual_youtuber, horns, dragon_horns, orange_hair, dragon_girl, long_hair, pointy_ears, ahoge, multicolored_hair, streaked_hair, bow, horn_ornament, looking_at_viewer, horn_bow, red_eyes, blonde_streaks, single_hair_streak, tail, smile, striped_bow, hairband, dragon_tail, blunt_bangs, diagonal-striped_bow, jacket, braid, simple_background, jewelry
 - **ram_(re:zero)**: pink_hair, short_hair, hair_ornament, x_hair_ornament, looking_at_viewer, hair_over_one_eye, ribbon, red_eyes, maid, roswaal_mansion_maid_uniform, blush, detached_sleeves, hair_ribbon, simple_background, pink_eyes, maid_headdress, white_background, dress, frills, smile, long_sleeves, closed_mouth, purple_ribbon, open_mouth, bare_shoulders, apron, black_ribbon, bow
 - **lucoa_(maidragon)**: horns, long_hair, multicolored_hair, blonde_hair, dragon_horns, green_hair, gradient_hair, smile, dragon_girl, hat, blush, looking_at_viewer, horns_through_headwear, baseball_cap, closed_eyes, simple_background, green_eyes, one_eye_closed, closed_mouth, shorts, tank_top, bare_shoulders, open_mouth, white_background, collarbone, hair_between_eyes, swimsuit, heterochromia
-- **zentreya**: virtual_youtuber, looking_at_viewer, yellow_eyes, long_hair, red_hair, horns, smile, dragon_girl, dragon_horns, gloves, tail, black_gloves, closed_mouth, dragon_tail, black_nails, open_mouth, nail_polish, shirt, grey_hair, short_hair, fingerless_gloves, jacket, wings, dragon_wings, tongue, white_background, tongue_out, dress
+- **zentreya**: virtual_youtuber, looking_at_viewer, yellow_eyes, long_hair, red_hair, horns, dragon_girl, smile, dragon_horns, gloves, tail, black_gloves, closed_mouth, dragon_tail, black_nails, open_mouth, nail_polish, shirt, grey_hair, short_hair, fingerless_gloves, jacket, wings, dragon_wings, tongue, white_background, tongue_out, dress
 - **zentreya_(dragon)**: virtual_youtuber, horns, dragon_girl, dragon_horns, red_hair, yellow_eyes, looking_at_viewer, long_hair, tail, smile, dragon_tail, gloves, black_nails, nail_polish, black_gloves, wings, dragon_wings, open_mouth, closed_mouth, shirt, fingerless_gloves, swimsuit, tongue, tongue_out, black_shirt, elbow_gloves, flag_print, american_flag
 
 ## Fan art mejor valorado por personaje (Safebooru; enlace, tamaño y autor/origen)

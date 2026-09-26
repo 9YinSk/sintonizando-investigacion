@@ -1,16 +1,16 @@
 # Datos para el investigador de TEXTO, JUEGOS Y TÉCNICA (puntos 5, 6, 11, 18, 24, 25) · Tsukimichi: Moonlit Fantasy
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## La obra en datos (AniList)
 _Fuente: https://anilist.co/anime/125206_
 
 - Títulos: Tsuki ga Michibiku Isekai Douchuu · TSUKIMICHI -Moonlit Fantasy- · 月が導く異世界道中 · también: Moon-led Journey Across Another World, จันทรานำพาสู่ต่างโลก, 月光下的异世界之旅, Благословлённое лунным светом приключение в другом мире
-- Formato TV, año 2021, episodios 12, capítulos None, estado FINISHED, nota media 77, popularidad 174112, favoritos 5478
+- Formato TV, año 2021, episodios 12, capítulos None, estado FINISHED, nota media 77, popularidad 174316, favoritos 5485
 - Estudio: C2C · géneros: Action, Adventure, Comedy, Fantasy
 - Sinopsis: Makoto Misumi was just an average teenager who happened to suddenly be summoned to another world as a "hero." But the goddess of this world called him ugly and took his hero status away from him then sent him to the ends of the world. In the wastelands, he meets dragons, spiders, orcs, dwarves and many other non-human races. Makoto manages to show promises in the use of magic and fighting, which he wouldn't have been able to do in his former world. He has numerous encounters, but will he be able to survive this new world? A fantasy where a guy who had been abandoned by gods and humanity tries…
 - Temas y rasgos (etiquetas, % de acuerdo): Isekai 96%, Magic 92%, Male Protagonist 87%, Shounen 79%, Medieval 79%, Monster Girl 76%, Anthropomorphism 75%, Female Harem 72%, Samurai 68%, Meta 65%, Gods 60%, Creature Taming 60%, Alchemy 60%, Economics 58%, Language Barrier 57%, Dragons 56%, Archery 55%, Swordplay 46%, Elf 36%, Ensemble Cast 20%, Kingdom Management 20%
@@ -47,7 +47,7 @@ _Fuente: https://anilist.co/anime/125206/staff_
 ## Obras parecidas (recomendaciones de usuarios de AniList)
 _Fuente: https://anilist.co/anime/125206_
 
-- That Time I Got Reincarnated as a Slime (TV, nota 80) · votos 357
+- That Time I Got Reincarnated as a Slime (TV, nota 80) · votos 358
 - KONOSUBA -God's blessing on this wonderful world! (TV, nota 79) · votos 136
 - Seirei Gensouki: Spirit Chronicles (TV, nota 69) · votos 116
 - Cautious Hero: The Hero Is Overpowered but Overly Cautious (TV, nota 73) · votos 94

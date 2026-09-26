@@ -628,7 +628,7 @@ Las poses T y V salen de los clips mirados por la parte de vídeo; las «casilla
 
 - **Tramas del manga** (puntos en sombras de uniforme, humo y explosiones), vistas en escaneos: [Vol 4 Ch 5 Pg 347](https://static.wikia.nocookie.net/youjo-senki/images/f/f0/Vol_4_Ch_5_Pg_347_Bad_scan_LQ.png), 1093×1600 (casilla 40 de `personajes_01`); [Vol 2 Ch 4 Pg 255](https://static.wikia.nocookie.net/youjo-senki/images/e/eb/Vol_2_Ch_4_Pg_255_Bad_scan_LQ.png), 676×1000 (casilla 71 de `personajes_02`; la parte de imagen decía hoja 1). Son escaneos malos: sirven para la trama, no para la línea ✅
 - **Pinceles de trama libres**: [34 pinceles de semitono de Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes), gratis para uso personal ⚠️ (no se bajó el paquete; mirar los términos antes de un uso comercial).
-- **Escudo y bandera del Imperio**: [EmpireFlag.png](https://static.wikia.nocookie.net/youjo-senki/images/f/ff/EmpireFlag.png), 1194×796. Escudo dorado con un **águila de dos cabezas negra**, sobre una bandera roja con dos franjas negras y blancas. Medido con `estilo.py`: rojo `#B6231A` (47 %), negro `#040303` (25 %), dorado `#FDC733` (14 %) ✅. Casilla 63 de `personajes_02` y casilla 5 de `fondos_01`.
+- **Escudo y bandera del Imperio**: [EmpireFlag.png](https://static.wikia.nocookie.net/youjo-senki/images/f/ff/EmpireFlag.png), 1194×796. Escudo dorado con un **águila o dragón negro de dos cabezas**, sobre una bandera roja cruzada por una franja negra con filetes blancos (vista en la hoja). Medido con `estilo.py`: rojo `#B6231A` (47 %), negro `#040303` (25 %), dorado `#FDC733` (14 %) ✅. Casilla 63 de `personajes_02` y casilla 5 de `fondos_01`.
 - **Camuflaje del pantalón**: manchas irregulares verde oliva y gris oscuro (`#747260`, `#31322C`) ⚠️ sin nombre histórico probado.
 - **El alfabeto inventado** de la serie ([fuentes de truefork](https://truefork.org/wp/deciphering-youjo-senki-part-3-fonts/)): sirve como textura de fondo en papeles, carteles y periódicos. Nunca para texto que se tenga que leer.
 - **Los lemas en latín** de la novela (punto 25) sirven como rótulos grabados o en cintas.
@@ -685,7 +685,7 @@ Las poses T y V salen de los clips mirados por la parte de vídeo; las «casilla
 - ***Isekai Quartet***: el cruce oficial *chibi* de Kadokawa con *Konosuba*, *Overlord*, *Re:Zero* y Tanya ✅ (Anime News Network e Isekai Wiki).
   - T1: abril a junio de 2019. T2: enero a marzo de 2020, con *The Rising of the Shield Hero* y *Cautious Hero*. Película *Another World*: 10 de junio de 2022. T3: desde el 13 de octubre de 2025, con *The Eminence in Shadow*.
   - Tanya está en las cuatro.
-  - Arte: [la mesa del club, 2048×1322](https://safebooru.org/images/62/0c90a3bb5891d89653bfecacb05eda38e107c658.jpg) con Tanya tomando algo junto a Ainz, Kazuma, Subaru y Naofumi (`fondos_01`, casilla 8) ⚠️ copia en un *booru*; fondos oficiales en el punto 16; [Tanya con Aqua, Emilia y Albedo](https://w.wallhaven.cc/full/5w/wallhaven-5wkqx5.jpg), 2048×1454 (casilla 4).
+  - Arte: [la mesa del club, 2048×1322](https://safebooru.org/images/62/0c90a3bb5891d89653bfecacb05eda38e107c658.jpg) con Tanya tomando algo junto a Ainz y el resto del reparto (`fondos_01`, casilla 8) ⚠️ copia en un *booru*; fondos oficiales en el punto 16; [Tanya con Aqua, Emilia y Albedo](https://w.wallhaven.cc/full/5w/wallhaven-5wkqx5.jpg), 2048×1454 (casilla 4).
 - **Cruce con *Overlord***: [YS & OvL crossover](https://static.wikia.nocookie.net/youjo-senki/images/1/18/YS_%26_OvL_crossover.jpg), 723×1023 (casilla 65 de `personajes_02`) ⚠️ sin contexto.
 - **Cortos oficiales**: *Youjo Shenki* y *Operation Desert Pasta* (ONA, relaciones de AniList) ⚠️ sin mirar. La noticia de ANN sobre la T2 habla también de un «mini anime».
 - **Figura oficial**: **figma n.º 439** de **Max Factory**, «Saga of Tanya the Evil: The Movie», unos 130 mm, con **3 caras** (neutra, enloquecida en combate y sonriente) y su fusil ✅ (Amazon, Otaku HQ y MyFigureCollection). Su pose sirve de referencia 3D.
@@ -716,15 +716,15 @@ Las poses T y V salen de los clips mirados por la parte de vídeo; las «casilla
 - **Tomo 1, *Deus lo Vult*** («Dios lo quiere»): primer destino en Norden; nace el **203.º Batallón Aéreo de Magos**.
 - **Tomo 2, *Plus Ultra*** («Más allá»): el frente del Rin contra la República; nace el apodo **Diablo del Rin**.
 - **Tomos 3 y 4**, *The Finest Hour* y *Dabit deus his quoque finem* («Dios también pondrá fin a esto»).
-- **Tomos 5 a 7**, de *Abyssus abyssum invocat* («Un abismo llama a otro») a *Ut sementem feceris, ita metes* («Como siembres, cosecharás»): la guerra se abre en varios frentes, Dacia y Osfjord incluidos.
+- **Tomos 5 a 7**, de *Abyssus abyssum invocat* («Un infierno llama a otro») a *Ut sementem feceris, ita metes* («Como siembres, cosecharás»): la guerra se abre en varios frentes, Dacia y Osfjord incluidos.
 - **Tomos 8 y 9**, *In omnia paratus* («Preparados para todo») y *Omnes una manet nox* («A todos nos espera la misma noche»): entran más potencias.
 - **Tomos 10 a 12**, *Viribus Unitis* («Con fuerzas unidas»), *Alea iacta est* («La suerte está echada») y *Mundus vult decipi, ergo decipiatur* («El mundo quiere ser engañado; que lo sea»): guerra total.
 - **Tomos 13 y 14**, *Dum spiro, spero* («Mientras respiro, espero»): lo último publicado.
-- **Anime**: T1 (12 episodios, 2017), película (2019, el frente sur), T2 (desde el 8 de julio de 2026 según ANN), que acaba con la muerte de Rudersdorf.
+- **Anime**: T1 (12 episodios, 2017), película (2019), T2 (desde el 8 de julio de 2026 según ANN), que acaba con la muerte de Rudersdorf.
 
 **Emblemas y objetos que un fan reconoce al instante**
 - La **Cruz de Hierro** del uniforme ✅
-- El **escudo del Imperio**: águila negra de dos cabezas sobre oro; bandera roja con franjas negras (punto 19) ✅
+- El **escudo del Imperio**: águila o dragón negro de dos cabezas sobre oro; bandera roja con franja negra (punto 19) ✅
 - La **Medalla de Asalto de las Alas de Plata** ✅ y la **Insignia de Asalto de Campo** ⚠️
 - El **orbe de cómputo Tipo 95**: la joya con circuitos, perfecta para Blender ✅
 - El **equipo de vuelo** de cada país (punto 15) ⚠️
@@ -736,3 +736,70 @@ Las poses T y V salen de los clips mirados por la parte de vídeo; las «casilla
 - **Los lemas en latín**: los fans llaman a los arcos por su lema («el arco de *Alea iacta est*»).
 - **«Los! Los! Los!»**: la marcha del ending; y «¡Gloria al Imperio!».
 - ⚠️ **Ojo con las traducciones**: 大隊 sale como «Wing» o «Battalion»; 協商連合 como «Federation», «Entente Alliance» o «Entente Union». La wiki tiene una [tabla de términos](https://youjo-senki.fandom.com/wiki/Terminologies) para no mezclarlos. En latino, Doblaje Wiki usa «Batallón Aéreo de Magos N.° 203».
+
+## Hojas de contacto
+
+Tres hojas en `hojas/`, miradas por la parte de imagen y otra vez por el redactor. Los números de casilla de toda la biblia son éstos.
+
+**`personajes_01.jpg`** (casillas 1-48, wiki de Fandom, con `investigar_serie.py`)
+- **1** 1.ª visual de la película (autoridad) · **2** 3.ª visual (grito con fusil, figura alada detrás) · **3-5** color de la novela · **6-7** portadas del manga · **8** Tanya con la Luger · **9, 23, 35, 42, 44** portadas de la novela.
+- **10** Tanya con vestido rojo (novela) · **11** Tanya con gafas y abrigo de piel · **15-19** ilustraciones del tomo 1 (la **17**, «Nein, mein Herr!!»).
+- **20** el manga rezando, «PRAISE THE LORD» · **21** el globo negro «AND GOOD DAY!!!» · **37** manga cap. 1, pág. 1: **cartelas y globo de radio** (la referencia del cuadro de diálogo) · **43** texto del manga en inglés sobre renacer como niña en un mundo sin ciencia.
+- **25-28** fotogramas: Tanya gritando (eps. 2 y 9), al atardecer (ep. 3), gritando (ep. 10) · **29** el oficinista · **30** **Tanya con la taza junto a la lámpara** · **31** Tanya y Visha con soldados (ep. 1) · **32** Visha con gorra (ep. 6) · **33** Visha en la mesa (ep. 8) · **34** Tanya con cara de suficiencia.
+- **12-14, 36-41** páginas de manga con tramas (la **40**, la de la trama del punto 19) · **45-48** color de la novela en grupo (la **47**, el batallón en la taberna).
+
+**`personajes_02.jpg`** (casillas 49-86)
+- **49** póster de rodillas con fusil · **50** manga 4 · **51** vuelo entre nubes (ep. 1) · **52** sala con lámparas · **53-54** Tanya de cerca y con gorra · **55-56** avances 次回予告 (la **56**, **leyendo informes** con tablilla).
+- **57** Visha en un cuarto · **58** **sonrisa falsa** · **59** vestido y boina rojos · **62** Visha voluntaria (manga) · **63** **bandera del Imperio** · **64** Tanya niña con el casco de medir la magia (ep. 2).
+- **65** cruce con *Overlord* · **66** 2.ª visual de la película · **67** Visha, «Second Lieutenant!!» · **69-77** manga con tramas (la **71**, la del punto 19) · **78-79** Tanya con flores.
+- **80** **ficha de Tanya** · **81** **ficha de Visha** · **84** el oficinista en manga · **86** manga 1.
+
+**`fondos_01.jpg`** (casillas 1-9, montada con Pillow por la parte de imagen)
+- **1** banner de AniList · **2** Tanya con fondo liso · **3** Tanya con círculos mágicos · **4** cruce de *Isekai Quartet* · **5** escudo del Imperio · **6** **calle lluviosa del Imperio** (Kokoya_art) · **7** puerto bombardeado · **8** *Isekai Quartet* en la mesa · **9** Tanya con capa negra.
+
+## 3 conceptos de lámina
+
+La serie no tenía canal. Propongo **#castings** (recomendada), **#general-doblaje** y **#sugerencias**. Choque, sólo como nota: #castings lo piden también *Oshi no Ko* (05) y *Hunter x Hunter* (36), entre otras; #general-doblaje, *Fullmetal Alchemist* (37), *Sailor Moon* (38) y *Saint Seiya* (39), entre otras. No bloquea nada (decisión del 25-sep).
+Tono para las tres: mundo gris y sepia de guerra (regla 6 del dueño). La guerra como oficina: papel, sellos, radio. Nada de burbujas blancas.
+
+### A · #castings — «La selección del 203» (la recomendada)
+- **Objeto real en un sitio real**: una **tablilla de campaña** con pinza de latón (como la de la casilla 56) con la **orden de convocatoria** a máquina y la lista de candidatos, apoyada en una **caja de munición** de madera en la **montaña nevada** del entrenamiento (ep. 5). Al lado, un **sello de goma** y su tampón rojo. En Blender: papel curvado y mojado de nieve en una esquina; caja con `WoodPlank009`; nieve con `Snow007`.
+- **Por qué aquí**: la selección del Batallón 203 es un casting a la manera de Tanya. Pocos pasan.
+- **Personaje**: **Tanya**, la más querida. Cara de ángel de «Let's begin!» ([ep. 5, 0:24](https://www.dailymotion.com/video/x5bp70j?start=24)) sobre el cuerpo de la pose T-5, de pie y erguida, una mano sobre la tablilla. Detrás, **Visha** con el batallón en la nieve (V-2, [ep. 5, 2:08](https://www.dailymotion.com/video/x5bp70j?start=128)).
+- **Cómo habla**: con el **parte militar** del manga (casilla 37 de `personajes_01`).
+  - Cartela de fecha y lugar, caja blanca rectangular de esquinas rectas, arriba a la izquierda, en **Old Standard TT**: «Montaña de instrucción. Selección del Batallón 203.»
+  - Cartela de rango y nombre junto a Tanya: «Mayor» pequeño arriba y «Tanya von Degurechaff» grande abajo. ⚠️ En el latino la llaman «Mayor» en el ep. 8; falta comprobar su rango en el ep. 5.
+  - Lo que dice, en caja rectangular blanca de filete negro, **Comic Neue** negrita: «Busco voluntarios. Quien aguante, entra.»
+  - Lo que piensa, en caja aparte, gris y más pequeña, **Comic Neue Italic**: «Cuantos menos pasen, menos papeleo.»
+- **Dónde va cada texto**:
+  - En la orden de la tablilla: título «Castings» en **UnifrakturMaguntia**; debajo, en **Special Elite**, «Cada casting es un hilo. Ciérralo cuando el papel esté cubierto.»
+  - Sobre la lista, tres sellos en rojo `#B6231A`: «ABIERTO», «CERRADO», «URGENTE».
+  - Una nota sujeta con la pinza: «Cómo se abre un casting: léeme.»
+  - **Lámina 2**: el resto de etiquetas (Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro, Pagado, Sin paga, Oficial del servidor, Canto, +18) como **fichas de alistamiento** en fila sobre la caja, una por etiqueta.
+- **Que no quede plano**: copos desenfocados delante; la tablilla grande en primer plano con la pinza brillando; Tanya a media distancia; el batallón en siluetas dentro de la niebla `#2B3136`; luz fría desde arriba (`#CCCFD4`) y un farol cálido junto a la caja.
+
+### B · #general-doblaje (o 🎙️ Grabación) — «Aquí Fairy 08»
+- **Objeto real en un sitio real**: una **radio de campaña** con auriculares y micrófono de mano, sobre una mesa de tablones en un **refugio de trinchera del Rin**, al atardecer. En Blender: caja metálica con diales (`Metal037`), tablones (`WoodPlank009`), sacos terreros y barro (`Mud001`). La radio ya la propuso la parte de texto como objeto de Blender.
+- **Por qué aquí**: la radio es la voz a través de un aparato. Es un canal de micros y voces.
+- **Personaje**: **Visha**, con los auriculares puestos, la que responde con paciencia. Uniforme de su ficha (casilla 81) y la cara con la boca abierta llamando de la casilla 67. ⚠️ No hay pose de Visha sentada a la radio: se compone. **Tanya**, pequeña en el cielo por la tronera, en vuelo con el orbe encendido (T-4, [ep. 6, 0:08](https://www.dailymotion.com/video/x5bp76k?start=8)).
+- **Cómo habla**: el **globo de radio hexagonal** del manga, de lados rectos, con la cola recta saliendo del altavoz.
+  - Por la radio, Tanya, en **Special Elite**: «Aquí Fairy 08. Pregunten claro y breve.»
+  - Visha, en caja rectangular, **Comic Neue**: «¡Recibido! Aquí se pregunta sin miedo.»
+- **Dónde va cada texto**:
+  - En el bloc de mensajes junto a la radio, en **Special Elite**: título «General doblaje» y «Del oficio: micros, voces, técnica y dudas de novato.»
+  - En el dial de la radio, dos posiciones rotuladas: «Tu voz grabada: demos» y «Los papeles: castings».
+- **Que no quede plano**: sacos terreros y un casco desenfocados delante; la luz cálida del dial; por la tronera, el cielo crema `#E8E6CE` con el resplandor de una explosión `#DE9F35` y Tanya diminuta; humo entre capas; paleta del Rin (`#403F39`, `#646559`).
+
+### C · #sugerencias — «La bandeja del despacho»
+- **Objeto real en un sitio real**: el **escritorio de Tanya de noche** en el cuartel: bandeja de entrada con expedientes, **cinco sellos de goma** en su soporte, tampón rojo, lámpara de mesa y **la taza del café de Visha** humeando. Sitio: el despacho de las casillas 30 y 56. En Blender: sellos con mango de madera, papel con arrugas, taza de loza, lámpara de latón.
+- **Por qué aquí**: Tanya es una oficinista. Evaluar propuestas con costo y beneficio es lo suyo.
+- **Personaje**: **Tanya** sentada, con un sello en alto a punto de estampar y la cara de «cálculo frío» (T-5, [ep. 6, 0:56](https://www.dailymotion.com/video/x5bp76k?start=56)); mesa y taza como en la casilla 30. **Visha** entra por el borde con la cafetera (cara de la casilla 57).
+- **Cómo habla**: la **doble voz** de Tanya, la firma de la serie.
+  - Lo que dice, en cartela blanca rectangular de esquinas rectas, **Comic Neue** negrita: «Toda propuesta se estudia. Con criterio de costo y beneficio.»
+  - Lo que piensa, en caja aparte, gris y más pequeña, **Comic Neue Italic**: «Mientras no me devuelvan al frente, todo bien.»
+  - Visha, en caja pequeña: «Su café, Mayor.»
+- **Dónde va cada texto**:
+  - En el expediente abierto, con membrete del escudo del Imperio, en **Special Elite**: título «Sugerencias» y «Propón mejoras para el servidor.»
+  - Los cinco sellos, cada uno estampado en un papel de prueba: «NUEVA», «EN ESTUDIO», «APROBADA», «RECHAZADA», «HECHA».
+  - Una tarjeta en el borde de la bandeja: «Cómo proponer algo: léeme.»
+- **Que no quede plano**: la taza y su vapor en primer plano; la lámpara como única luz, con viñeta fuerte; detrás, una ventana con lluvia de noche y el resplandor lejano del frente; Visha cortada por el borde. Paleta de bronce `#7C6D53`, negro cálido `#24201F` y tinta roja `#B6231A`. ⚠️ La luz del despacho no está medida.

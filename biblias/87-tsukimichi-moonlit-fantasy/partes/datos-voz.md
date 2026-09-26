@@ -1,10 +1,10 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Tsukimichi: Moonlit Fantasy
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## Personajes más queridos (AniList, favoritos de usuarios)
 _Fuente: https://anilist.co/anime/125206_
@@ -12,10 +12,10 @@ _Fuente: https://anilist.co/anime/125206_
 | # | Personaje | Favoritos | Rol | Seiyū | Voz «Spanish» en AniList ⚠️ |
 |---|---|---|---|---|---|
 | 1 | Tomoe (巴) | 1359 | MAIN | Ayane Sakura | Valca Ponzanelli |
-| 2 | Mio (澪) | 1154 | MAIN | Akari Kitou | Diana Nolan |
-| 3 | Makoto Misumi (深澄真) | 854 | MAIN | Natsuki Hanae | Ferso Velázquez |
+| 2 | Mio (澪) | 1153 | MAIN | Akari Kitou | Diana Nolan |
+| 3 | Makoto Misumi (深澄真) | 853 | MAIN | Natsuki Hanae | Ferso Velázquez |
 | 4 | Shiki (識) | 170 | SUPPORTING | Kenjirou Tsuda | Arturo Cataño |
-| 5 | Eris (エリス) | 141 | SUPPORTING | Minami Tanaka | María José Guerrero |
+| 5 | Eris (エリス) | 142 | SUPPORTING | Minami Tanaka | María José Guerrero |
 | 6 | Sofia Bulga (ソフィア・ブルガ) | 89 | SUPPORTING | Miyuki Sawashiro | Alex Delint |
 | 7 | Tsukuyomi (月読命) | 83 | SUPPORTING | Tomoaki Maeno | Alberto Castillo |
 | 8 | Hibiki Otonashi (音無響) | 76 | SUPPORTING | — | — |
@@ -176,16 +176,36 @@ _Fuente: https://doblaje.fandom.com/es/wiki/Tsukimichi%3A_Moonlit_Fantasy_
 | Segunda temporada | Minotauro | Hiromichi Tezuka | ¿? |  | 34 |  |
 | Segunda temporada | Centauro | Shōhei Kajikawa | ¿? |  | 34 |  |
 
+## Makoto Misumi · Personality (texto de la wiki)
+_Fuente: https://tsukimichi.fandom.com/wiki/Makoto_Misumi#Personality_
+
+Makoto is generally earnest, humble and considerate. Before being transported, he regarded himself as an ordinary student whose academic and athletic performance was unremarkable outside of archery. Archery is extremely important to him, and his training helps him maintain his focus and regulate his emotions. Makoto is deeply attached to his family, particularly his older and younger sisters. He is also slow to recognise romantic interest. According to his older sister in Extra Chapter 5, he tended to place girls who confessed to him into the categories of friends or family rather than viewing them as possible romantic partners. Tsukuyomi nevertheless observes that Makoto's earnest personality has caused several girls to develop feelings for him. Although normally patient and compassionate, Makoto can become cold and frightening when someone threatens the people under his protection.…
+
+## Tomoe · Personality (texto de la wiki)
+_Fuente: https://tsukimichi.fandom.com/wiki/Tomoe#Personality_
+
+Before meeting Makoto, Tomoe had become bored and disinterested in the world. Confident in her reputation as an undefeated Greater Dragon, she spent long periods sleeping in her cave and showed little interest in the affairs of other races. Her encounter with Makoto dramatically changed her outlook. After viewing his memories of Earth, she developed an intense fascination with Japanese history, samurai, period dramas, art, literature and entertainment. She frequently studies or recreates material taken from his memories. Tomoe is usually easy-going, confident and playful. She enjoys teasing Makoto, Mio, Shiki and the inhabitants of Asora. Despite this, she is highly perceptive and is often one of Makoto's most capable advisers. She can quickly understand political situations, identify hidden motives and predict Makoto's decisions. As Makoto's first follower, Tomoe takes considerable…
+
+## Mio · Personality (texto de la wiki)
+_Fuente: https://tsukimichi.fandom.com/wiki/Mio#Personality_
+
+She can be single-minded and straightforward in her loyalty to Makoto to the point that it reaches a dangerous level. Can be very instinctual, intelligent, and can learn how to do things quickly like cooking food for Makoto. She has no qualms about destroying anyone who intends to do harm to Makoto, regardless of their identity, position, or background. Before meeting Makoto, she was insane with trying to satisfy her hunger, preventing her from expressing herself in any manner. Mio is somewhat weak to flattery; someone who she perceives as annoying can immediately change from being a nuisance to being a pleasant person to talk to if they flatter her (as long as they are not an enemy to Makoto). She has sado-masochistic tendencies at times, often fantasizing about being dominated by Makoto. She also can be a cruel, devious and callous fighter, often showing an intelligent, cold logic…
+
+## Mio · Abilities (texto de la wiki)
+_Fuente: https://tsukimichi.fandom.com/wiki/Mio#Abilities_
+
+Before her transformation, Mio was best described as a force of nature that could not be subdued. She would attack and eat relentlessly and heal from any wound inflicted on her. Her might was such that enabled to stand before enemies from the caliber of Greater Dragons. After her transformation, she was able to regain her sanity and apply various techniques in combat, making her even more formidable. === Physical Capacity === * Hunger/Gluttony: As a curse and part benefit, Mio possesses an insatiable hunger, being able to eat anything that comes her way and turn it into sustenance but without being able to satisfy it, from living things to dead, harmful, including tools of any kind, trees, magic of any kind, etc. This caused Mio to be tormented since time immemorial, preventing her from thinking and reasoning as a person, and having no memory of what she did, acting more like a wild…
+
 ## Los personajes más dibujados por los fans (Danbooru, 109 dibujos de «tsuki_ga_michibiku_isekai_douchuu»)
 _Fuente: https://danbooru.donmai.us/posts?tags=tsuki_ga_michibiku_isekai_douchuu_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. rem_(re:zero) · 10293 dibujos
-2. kiryu_coco · 4196 dibujos
-3. ram_(re:zero) · 3551 dibujos
+1. rem_(re:zero) · 10300 dibujos
+2. kiryu_coco · 4197 dibujos
+3. ram_(re:zero) · 3561 dibujos
 4. lucoa_(maidragon) · 1722 dibujos
-5. zentreya · 1577 dibujos
-6. zentreya_(dragon) · 887 dibujos
+5. zentreya · 1581 dibujos
+6. zentreya_(dragon) · 888 dibujos
 7. magatsuchi_shouta · 341 dibujos
 8. konoe_a._mercury · 277 dibujos
 9. shiraori · 188 dibujos
@@ -208,27 +228,27 @@ _Fuente: https://api.dailymotion.com_
 - Tsukimichi -Moonlit Fantasy- Saison 1 - PV 2 (EN) · 1:30 · BetaSeries · 3680 vistas · https://www.dailymotion.com/video/x8czr9m
 - Tsukimichi: Moonlit Fantasy 1° Temporada Trailer Oficial · 1:35 · adorocinema · 2433 vistas · https://www.dailymotion.com/video/x908684
 - TSUKIMICHI Moonlit Fantasy Season 2 Episode 9 - Preview Trailer · 1:09 · Movie Corner · 500 vistas · https://www.dailymotion.com/video/x8th1dg
-- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 428 vistas · https://www.dailymotion.com/video/x8a33qy
+- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 429 vistas · https://www.dailymotion.com/video/x8a33qy
 - Tsukimichi -Moonlit Fantasy- - Tráiler oficial Temporada 2 · 1:00 · FilmAffinity · 287 vistas · https://www.dailymotion.com/video/x8r9ybf
 - TSUKIMICHI -Moonlit Fantasy- - saison 2 Bande-annonce VO · 1:00 · Allociné · 238 vistas · https://www.dailymotion.com/video/x8q504v
 **«Tsukimichi: Moonlit Fantasy doblaje latino»**
 - Tsukimichi -Moonlit Fantasy- Saison 1 - PV 2 (EN) · 1:30 · BetaSeries · 3680 vistas · https://www.dailymotion.com/video/x8czr9m
 - Tsukimichi: Moonlit Fantasy 1° Temporada Trailer Oficial · 1:35 · adorocinema · 2433 vistas · https://www.dailymotion.com/video/x908684
 - TSUKIMICHI Moonlit Fantasy Season 2 Episode 9 - Preview Trailer · 1:09 · Movie Corner · 500 vistas · https://www.dailymotion.com/video/x8th1dg
-- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 428 vistas · https://www.dailymotion.com/video/x8a33qy
+- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 429 vistas · https://www.dailymotion.com/video/x8a33qy
 - Tsukimichi -Moonlit Fantasy- - Tráiler oficial Temporada 2 · 1:00 · FilmAffinity · 287 vistas · https://www.dailymotion.com/video/x8r9ybf
 - TSUKIMICHI -Moonlit Fantasy- - saison 2 Bande-annonce VO · 1:00 · Allociné · 238 vistas · https://www.dailymotion.com/video/x8q504v
 **«Tsukimichi: Moonlit Fantasy fandub español»**
 - Tsukimichi -Moonlit Fantasy- Saison 1 - PV 2 (EN) · 1:30 · BetaSeries · 3680 vistas · https://www.dailymotion.com/video/x8czr9m
 - Tsukimichi: Moonlit Fantasy 1° Temporada Trailer Oficial · 1:35 · adorocinema · 2433 vistas · https://www.dailymotion.com/video/x908684
 - TSUKIMICHI Moonlit Fantasy Season 2 Episode 9 - Preview Trailer · 1:09 · Movie Corner · 500 vistas · https://www.dailymotion.com/video/x8th1dg
-- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 428 vistas · https://www.dailymotion.com/video/x8a33qy
+- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 429 vistas · https://www.dailymotion.com/video/x8a33qy
 - Tsukimichi -Moonlit Fantasy- - Tráiler oficial Temporada 2 · 1:00 · FilmAffinity · 287 vistas · https://www.dailymotion.com/video/x8r9ybf
 - TSUKIMICHI -Moonlit Fantasy- - saison 2 Bande-annonce VO · 1:00 · Allociné · 238 vistas · https://www.dailymotion.com/video/x8q504v
 **«Tsukimichi: Moonlit Fantasy fandub latino»**
 - Tsukimichi -Moonlit Fantasy- Saison 1 - PV 2 (EN) · 1:30 · BetaSeries · 3680 vistas · https://www.dailymotion.com/video/x8czr9m
 - Tsukimichi: Moonlit Fantasy 1° Temporada Trailer Oficial · 1:35 · adorocinema · 2433 vistas · https://www.dailymotion.com/video/x908684
 - TSUKIMICHI Moonlit Fantasy Season 2 Episode 9 - Preview Trailer · 1:09 · Movie Corner · 500 vistas · https://www.dailymotion.com/video/x8th1dg
-- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 428 vistas · https://www.dailymotion.com/video/x8a33qy
+- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 429 vistas · https://www.dailymotion.com/video/x8a33qy
 - Tsukimichi -Moonlit Fantasy- - Tráiler oficial Temporada 2 · 1:00 · FilmAffinity · 287 vistas · https://www.dailymotion.com/video/x8r9ybf
 - TSUKIMICHI -Moonlit Fantasy- - saison 2 Bande-annonce VO · 1:00 · Allociné · 238 vistas · https://www.dailymotion.com/video/x8q504v

@@ -1,10 +1,10 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Tsukimichi: Moonlit Fantasy
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## Tráiler y enlaces oficiales (AniList)
 _Fuente: https://anilist.co/anime/125206_
@@ -35,7 +35,7 @@ _Fuente: https://api.dailymotion.com_
 - Tsukimichi -Moonlit Fantasy- Saison 1 - PV 2 (EN) · 1:30 · BetaSeries · 3680 vistas · https://www.dailymotion.com/video/x8czr9m
 - Tsukimichi: Moonlit Fantasy 1° Temporada Trailer Oficial · 1:35 · adorocinema · 2433 vistas · https://www.dailymotion.com/video/x908684
 - TSUKIMICHI Moonlit Fantasy Season 2 Episode 9 - Preview Trailer · 1:09 · Movie Corner · 500 vistas · https://www.dailymotion.com/video/x8th1dg
-- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 428 vistas · https://www.dailymotion.com/video/x8a33qy
+- TSUKIMICHI -Moonlit Fantasy- Saison 1 Bande-annonce VO · 1:25 · Allociné · 429 vistas · https://www.dailymotion.com/video/x8a33qy
 - Tsukimichi -Moonlit Fantasy- - Tráiler oficial Temporada 2 · 1:00 · FilmAffinity · 287 vistas · https://www.dailymotion.com/video/x8r9ybf
 - TSUKIMICHI -Moonlit Fantasy- - saison 2 Bande-annonce VO · 1:00 · Allociné · 238 vistas · https://www.dailymotion.com/video/x8q504v
 
