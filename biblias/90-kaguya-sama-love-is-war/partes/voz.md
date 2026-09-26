@@ -123,3 +123,68 @@ actor imitando acento francés):
   registro grave (112 Hz), muy expresiva (12,3 semitonos), velocidad normal
   (2,63 palabras/s) ✅.
 
+
+### Punto 12 — Lo que ama el fandom, y qué NO hacer (enfoque comedia)
+
+43 ya cubrió el Chika Dance, «Justice for Hayasaka», IshiHaya, «Ishigod» y las
+ojeras. Aquí sumo gags de comedia que 43 no tocó, sacados de las «Datos de
+interés» del doblaje (Doblaje Wiki) y de TV Tropes *Funny* (página de
+momentos graciosos, no la de *Tear Jerker* que 43 ya usó):
+
+- **Referencias culturales mexicanas metidas en el doblaje** que el fandom
+  hispano cita como gracia extra sobre el chiste original ✅ (doblaje.fandom.com,
+  sección «Datos de interés»):
+  - Ep. 2: Fujiwara menciona a **Chespirito, Pedro Infante y Juan Gabriel**.
+  - Ep. 8: Shirogane dice **«¡Booyah!»** de *Ron Imparable* — **el mismo actor,
+    Enzo Fortuny, dobla a Ron Stoppable y a Shirogane**, y en japonés el
+    seiyū también decía esa frase: doble guiño ✅.
+  - Ep. 18: Kaguya cita a Bender de *Futurama* («juegos de azar y mujerzuelas»).
+  - Ep. 19: Kaguya parafrasea la intro de *Miraculous Ladybug* («una chica
+    normal, con una vida normal») — **la misma actriz, Jessica Ángeles, hace
+    de Marinette** en esa serie y dirigió la 3.ª temporada de este doblaje ✅.
+  - Ep. 21/29: **«maldita lisiada»**, frase de Itatí Cantoral/Soraya
+    Montenegro en *María la del Barrio*.
+  - Ep. 32: Kaguya canta **«No rompas más mi pobre corazón»** (Caballo
+    Dorado, adaptación de *Achy Breaky Heart*).
+  - Ep. 36: Hayasaka le dice a Kaguya **«Usted es la vergüenza de Sor
+    Juana»**.
+- **Papá Shirogane con voz de DIO**: Takehito Koyasu (seiyū también de DIO en
+  *JoJo's Bizarre Adventure*) usa el mismo tono amenazante para un padre de
+  familia común — TV Tropes lo marca como una de las razones por las que
+  «casi todas sus apariciones son muy graciosas» ✅ (tvtropes.org/.../Funny/KaguyaSamaLoveIsWar).
+  El doblaje latino lo mantiene con **Rafael Pacheco** (punto 8), con el
+  mismo registro grave medido (112 Hz).
+- **Adolphe Pescarolo jugando Pokémon GO**: el director de disciplina, que
+  regaña a alumnos por usar el celular en horario escolar, ha sido pillado
+  **más de una vez jugando Pokémon GO en el campus** mientras los regaña por
+  lo mismo — gag recurrente de doble moral cómica ✅ (kaguyasama-wa-kokurasetai.fandom.com/wiki/Adolphe_Pescarolo,
+  sección *Personality*).
+- **El «Snark Test»** (portada interior de un tomo): un test de sarcasmo
+  sobre un cuento reescrito, con niveles llamados **«Nivel Kaguya» (1-9,
+  «te falta sentido común»), «Nivel Fujiwara» (10-14), «Nivel Ishigami»
+  (15-19), «Nivel Presidente» (20-26) y «Nivel Hayasaka» (27+, «máquina de
+  sarcasmo despiadada»)** ✅ (TV Tropes, mismo artículo) — encaja perfecto
+  como mini-juego o etiqueta para un canal de comedia/memes del servidor.
+- **La escena del «wiener»** (manga cap. 27, ⚠️ no confirmado en el anime):
+  Fujiwara le pregunta a Kaguya por el «wiener» de su perro; Kaguya, criada
+  sin conocer el argot, hace un *spit take* enorme creyendo que es doble
+  sentido — comedia por malentendido, marca de la casa de la serie ✅.
+- **El juego de mesa de Fujiwara** (cap. 57): ella misma diseña un juego de
+  mesa mal balanceado donde Ishigami muere a la primera tirada («Estás
+  muerto» / «¿Qué pasa cuando muero?» / «Se acabó, dejas de jugar y quedas
+  último») y Shirogane y Fujiwara se casan dentro del juego, arruinando el
+  humor a Kaguya ✅.
+
+**Qué NO hacer** (nuevo, además de lo que dijo 43):
+- No hacer de **Papá Shirogane** un padre serio de más: su gracia depende de
+  la voz amenazante de DIO sobre un personaje inofensivo.
+- No dibujar al **inspector Adolphe** como sólo estricto: su doble moral
+  (regaña el celular mientras juega Pokémon GO) es parte de su carisma.
+- No traducir literal los memes/referencias culturales del doblaje latino a
+  otro idioma para el servidor: son un guiño *sólo* para el público
+  hispanohablante, parte de por qué el fandom latino ama este doblaje en
+  particular.
+- No presentar la comedia de la serie como humor «absurdo random»: casi
+  siempre nace de un **malentendido lógico** entre dos genios que no saben
+  hablar de sentimientos (el «wiener», el juego de mesa, el kabedon
+  accidental) — es comedia de carácter, no de gags sueltos.

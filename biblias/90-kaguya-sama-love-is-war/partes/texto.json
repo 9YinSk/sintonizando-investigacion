@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/e9/176_Preview.png",
+    "fuente": "Wiki Fandom (kaguyasama-wa-kokurasetai), vista previa oficial del capítulo 176",
+    "ancho": 1198,
+    "alto": 669,
+    "que_es": "Panel manga con rótulo manuscrito de gag ('Demon') sobre una diadema y dos globos de diálogo vacíos",
+    "para_que": "Punto 5 y 6: ejemplo de rótulo cómico manuscrito y globo vacío como remate de chiste",
+    "licencia": "Copyright Shueisha/Young Jump, uso como referencia de investigación, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/thumb/Chapter36-01.png",
+    "fuente": "Wiki Fandom (kaguyasama-wa-kokurasetai), portada a color del capítulo 36",
+    "ancho": 851,
+    "alto": 1250,
+    "que_es": "Portada oficial con el logo de la serie y la onomatopeya ギリギリ (giri giri) junto a los puños",
+    "para_que": "Punto 5, 6 y 18: onomatopeya de tensión contenida y confirmación del diseño de logo",
+    "licencia": "Copyright Shueisha/Young Jump, uso como referencia de investigación, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/Chapter100-01.png",
+    "fuente": "Wiki Fandom (kaguyasama-wa-kokurasetai), portada del capítulo 100",
+    "ancho": 1421,
+    "alto": 2017,
+    "que_es": "Portada oficial con texto de aniversario y el logo de la serie en su color amarillo/dorado",
+    "para_que": "Punto 5: variante de color del logo oficial",
+    "licencia": "Copyright Shueisha/Young Jump, uso como referencia de investigación, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/173_Preview.png",
+    "fuente": "Wiki Fandom (kaguyasama-wa-kokurasetai), vista previa oficial del capítulo 173",
+    "ancho": 1214,
+    "alto": 1094,
+    "que_es": "Panel manga con globos de diálogo ovalados sin cola y letra pequeña ('HEHE...')",
+    "para_que": "Punto 5 y 6: ejemplo de globo normal y onomatopeya de risa contenida",
+    "licencia": "Copyright Shueisha/Young Jump, uso como referencia de investigación, no para pegar"
+  },
+  {
+    "url": "https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Chaotic_Election_Arc",
+    "fuente": "Wiki Fandom (kaguyasama-wa-kokurasetai)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página del arco de la elección estudiantil (capítulos 59-69), gag de campaña electoral",
+    "para_que": "Punto 25: rótulos del mundo (carteles de campaña) y arco cómico",
+    "licencia": "Texto CC-BY-SA de Fandom, no imagen"
+  },
+  {
+    "url": "https://tropedia.fandom.com/wiki/Kaguya-sama:_Love_Is_War",
+    "fuente": "Tropedia (mirror de TV Tropes en Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Lista de tropos de la serie: Off-Model, Super-Deformed, Gratuitous English, Breaking the Fourth Wall",
+    "para_que": "Punto 6 y 18: mecanismos cómicos de puesta en pantalla",
+    "licencia": "Texto CC-BY-SA de Fandom, no imagen"
+  },
+  {
+    "url": "https://fontsource.org/fonts/permanent-marker",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Permanent Marker, con á é í ó ú ñ ¿ ¡ comprobados con fontTools",
+    "para_que": "Punto 5: letra para rótulo manuscrito de gag sobre el personaje",
+    "licencia": "SIL Open Font License 1.1, uso libre"
+  },
+  {
+    "url": "https://fontsource.org/fonts/reggae-one",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Reggae One, con á é í ó ú ñ ¿ ¡ comprobados con fontTools",
+    "para_que": "Punto 5: letra para onomatopeya japonesa latinizada",
+    "licencia": "SIL Open Font License 1.1, uso libre"
+  },
+  {
+    "url": "https://fontsource.org/fonts/dela-gothic-one",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Dela Gothic One, con á é í ó ú ñ ¿ ¡ comprobados con fontTools",
+    "para_que": "Punto 5: letra para carteles y pancartas del mundo (campaña, oficial)",
+    "licencia": "SIL Open Font License 1.1, uso libre"
+  },
+  {
+    "url": "https://fontsource.org/fonts/mochiy-pop-one",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Mochiy Pop One, con á é í ó ú ñ ¿ ¡ comprobados con fontTools",
+    "para_que": "Punto 5: letra para pancartas festivas (Sports Festival, Culture Festival)",
+    "licencia": "SIL Open Font License 1.1, uso libre"
+  },
+  {
+    "url": "https://fontsource.org/fonts/yomogi",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Yomogi, manuscrita japonesa, con á é í ó ú ñ ¿ ¡ comprobados con fontTools",
+    "para_que": "Punto 5: letra para acotaciones manuscritas menores",
+    "licencia": "SIL Open Font License 1.1, uso libre"
+  }
+]

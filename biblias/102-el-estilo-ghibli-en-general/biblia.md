@@ -398,3 +398,150 @@ Los retratos completos están en su biblia: Chihiro, Haku, Sin Cara, Yubaba, Lin
 ✅ mirado en las hojas de contacto. ⚠️ **Vergüenza** no sale en ningún tráiler.
 
 **Dinámicas que sirven en grupo:** Kiki y Jiji (ella habla, él opina); Sophie y Calcifer (discuten y se ayudan); Satsuki y Mei (hermanas, una cuida de la otra); Totoro y los totoros pequeños. ⚠️ lectura de las escenas, sin segunda fuente.
+
+## 14. Poses analizadas
+
+Cinco personajes de cinco películas, 6 poses cada uno. Todas son fotogramas oficiales de `ghibli.jp/gallery/` (libres, 1920×1038). ✅ la imagen; ⚠️ la lectura del gesto es propia, salvo las que tienen minuto.
+
+**Totoro**
+1. De pie en la parada, paraguas en una mano, orejas tiesas, quieto bajo la lluvia ([totoro034](https://www.ghibli.jp/gallery/totoro034.jpg); [0:32](https://www.dailymotion.com/video/x9csuhi?t=32)). **Pensar, esperar.**
+2. Corre con los pequeños por el túnel de árboles, hoja grande de paraguas (totoro019). **Animar.**
+3. Panza enorme, boca entreabierta, roncando con las niñas encima (totoro022). **Relajar, celebrar.**
+4. Junto al Gatobús iluminado, cabeza ladeada mirando a las niñas (totoro031). **Presentar.**
+5. En una rama con otros dos totoros, tocando una ocarina, cabeza atrás (totoro037). **Animar, celebrar.**
+6. Boca abierta enorme, dientes a la vista (totoro046). **Celebrar.**
+
+**Kiki**
+1. Tumbada en la hierba, brazos tras la cabeza, Jiji cerca (majo001). **Pensar.**
+2. En la escoba sobre el mar, Jiji a la espalda, inclinada hacia delante ([0:34](https://www.dailymotion.com/video/x88a5in?t=34)). **Animar.**
+3. Fregando el suelo a cuatro patas (majo019). **Explicar el trabajo.**
+4. En una puerta entregando un pastel, cesta al brazo, sonrisa tímida (majo034). **Presentar.**
+5. Agarrada a un cuervo en vuelo, cara de susto (majo025). **Aguantar.**
+6. Barriendo la calle, ropa despeinada por el viento (majo046). **Explicar.**
+
+**San**
+1. Sangre en la boca, mejilla contra Moro, mirada hostil (mononoke007). **Regañar, advertir.**
+2. A lomos de un lobo, lanza en alto (mononoke034). **Animar.**
+3. Cara pegada al ojo de un lobo gigante, calma (mononoke031). **Confiar.**
+4. Sostiene a Ashitaka en el agua (mononoke043). **Cuidar, explicar.**
+5. Forcejea con Ashitaka (mononoke046). **Discutir.**
+6. Mira al cielo, serena (mononoke049). **Celebrar en calma.**
+
+**Sophie**
+1. En la ventana de la sombrerería, entre flores (howl001). **Presentar.**
+2. Del brazo de Howl por el pueblo en fiesta (howl004). **Explicar.**
+3. Anciana, fregando el castillo entre trastos (howl019). **Trabajar.**
+4. Joven otra vez, en toalla, corriendo por el pasillo (howl022). **Celebrar.**
+5. Abrazo en un campo de flores, brazos abiertos (howl037). **Celebrar.**
+6. Pelo plateado, entre burbujas, mirando arriba (howl046). **Sorprenderse.**
+
+**Ponyo**
+1. Asoma en una burbuja-medusa, ojos muy abiertos (ponyo004). **Observar.**
+2. Enredada en una red con basura, empujando (ponyo007). **Explicar.**
+3. Cara dentro de un tazón verde, sonriendo (ponyo016). **Celebrar.**
+4. Corre sobre las olas-pez, brazos abiertos, vestido al viento ([ponyo028](https://www.ghibli.jp/gallery/ponyo028.jpg)). **Animar.**
+5. Come ramen a cucharadas, mejillas infladas (ponyo034). **Comer, celebrar.**
+6. Salta con Sōsuke hacia el cielo (ponyo049). **Celebrar (final).**
+
+**Resumen por función:** presentar → Kiki 4, Sophie 1, Totoro 4 · explicar → Kiki 3, Sophie 3 · celebrar → Ponyo 5, Sophie 5 · regañar → San 1 · pensar → Totoro 1, Kiki 1 · animar → Kiki 2, Ponyo 4.
+
+## 15. Vestuario
+
+El kimono rosa y la ropa de Chihiro están en la 98; San en la 100. Aquí, **cinco películas**. Hex medidos con Pillow en la zona exacta.
+
+| Personaje | Prenda | Hex | De dónde |
+|---|---|---|---|
+| Kiki | lazo rojo | `#AA0118` | majo020 |
+| Kiki | vestido negro de trabajo | `#2A2B3F` | majo020 |
+| Sophie | cinta del sombrero de paja | `#A04854` | howl005 |
+| Sophie | vestido verde | `#699389` ⚠️ (roza el hombro de Howl) | howl005 |
+| Howl | pelo rubio | `#EED39E` | howl005 |
+| Howl | capa rosa y ribete dorado | `#EE90A0` · `#EBCA6D` | howl005 |
+| Nausicaä | traje azul verdoso | `#5691A8` | nausicaa025 |
+| Nausicaä | bufanda vino | `#523436` | nausicaa025 |
+| Ponyo (mitad pez) | vestido coral | `#E76476` | ponyo030 |
+| Ponyo | vientre | `#DEEBF1` | ponyo030 |
+| Ponyo | pelo | `#D68776` | ponyo030 |
+| Totoro | pelo de la cara | `#4E4F48` | totoro030 |
+| Totoro | boca | `#DD868E` | totoro030 |
+
+- **La ropa icónica del estudio: vestido negro y lazo rojo de Kiki.** La más reconocible después de Totoro. ✅
+- Totoro no lleva ropa: pelaje gris, panza clara y a veces **una hoja por sombrero**. ✅
+- Howl cambia de pelo con el ánimo (rubio a negro). ⚠️ sólo se midió el rubio.
+- **Patrón que se repite:** cuadros o tartán sencillo en chalecos y faldas europeas (Sophie, el pueblo de Kiki). ⚠️ visto en las hojas, sin ficha.
+- **Regla de la ropa Ghibli:** telas lisas, colores apagados, **un solo acento fuerte** (el lazo rojo, la capa rosa). Igual que en los fondos.
+
+## 16. Ciudades, paisajes y fondos de pantalla
+
+- **Fondos oficiales**: los 26 juegos de fotogramas de ghibli.jp sirven de fondo (1920×1038, sin marca). ✅
+- **Los más guardados en Wallhaven** (búsqueda «studio ghibli», sólo aptos):
+  - [yx5kml](https://wallhaven.cc/w/yx5kml): 3840×2160, 591 favoritos. Criatura bajo cielo estrellado: por las etiquetas, Totoro en la parada de noche. ⚠️ no abierto.
+  - [96l5xd](https://wallhaven.cc/w/96l5xd): 3840×2160, 416 favoritos. **Estanque con flores de *Arrietty***, luz de mediodía. ✅ etiqueta de la web.
+  - x8oxez: 3072×1452, fan art de Totoro por DannyLaiLai (punto 3). ⚠️
+- **De la wiki**: fondo 4664×2160, «Studio Ghibli Wallpaper» 1920×1080, calles de *Chihiro* 3250×1757. ✅
+- **Lugares por hora del día** (paletas en el punto 4):
+  - Amanecer: el castillo de Howl entre nubes (howl049).
+  - Mediodía: el estanque de Arrietty; el bosque de Naoko.
+  - Tarde nublada: el pueblo de Kiki (el más frío).
+  - Atardecer: la colina del espantapájaros.
+  - Noche: la parada de Totoro; Kiki sobre el mar.
+- **Lugares reales para ir a ver:** Ghibli Park en Aichi (castillo de Howl de 20 m) y el Museo de Mitaka (punto 23).
+
+## 17. Guía para IA de imagen y de texto
+
+🔴 **Antes de nada.** Miyazaki llama a la IA «un insulto a la vida misma» (punto 10). ENCARGO.md prohíbe inventar referencias con IA. Esta guía sirve para **bocetos de prueba, poses y fondos de estudio**, nunca para la lámina final ni como referencia. Lo final se pinta o se monta con fotogramas oficiales (libres) y Blender.
+
+### IA de imagen (Firefly, Canva)
+
+**Lo que nunca cambia en el estilo Ghibli:**
+- Fondo **pintado a mano con gouache**, detallado, con textura de papel. Nunca un fondo liso.
+- Línea fina, **de color** (marrón o verde oscuro, no negro): `#6C5228`, `#7C5144`, `#6B5138`, `#497143` medidos. En exteriores con luz, casi sin línea.
+- Sombra **plana en los personajes** (una sombra, sin degradados brillantes); **degradado pintado en los fondos**.
+- Colores **naturales y apagados**, un solo acento fuerte.
+- Ojos sencillos, sin brillos múltiples; pelo de color natural; ropa de tela lisa.
+- Nada de gotas de sudor, venas ni fondos de emoción de anime de TV: la emoción va en la postura y en el ambiente.
+
+**Paletas para pedir** (punto 4):
+- Bosque con luz: `#2E2823` `#463B27` `#D6D183` `#95781E`.
+- Cocina cálida: `#8E6C56` `#61463C` `#E3DBCD` `#EB6E35`.
+- Noche con faros: `#272A27` `#66523D` `#AB803E` `#E3CC9C`.
+- Mar y tormenta: `#317AA9` `#C6EAE8` `#296A90` `#96C2CD`.
+- Verano verde: `#66A93F` `#32743C` `#4F977A` `#D5D7CD`.
+
+**Palabras que ayudan:** *hand-painted gouache background, watercolor paper texture, soft natural light, komorebi, sunlight through leaves, golden hour, wind in the grass, clouds, thin colored line, flat cel shading on characters, muted earthy palette, 1980s-1990s Japanese cel animation, cozy interior, steam rising from food*.
+
+**Palabras que lo estropean:** *Ghibli style* (activa la estética de la moda IA de 2025, reconocible y odiada), *anime*, *manga*, *4K ultra detailed*, *octane render*, *glossy*, *neon*, *bokeh*, *cinematic lighting*, *big sparkly eyes*, *chibi*.
+
+**Vocabulario de Danbooru** (lo que la IA entiende por cada uno, punto 3 y datos del recolector):
+- Kiki: *black dress, red hair bow, short brown hair, broom riding, black cat*.
+- San: *fur cape, facepaint, tooth necklace, mask, knife, circlet*.
+- Howl: *blonde hair, earrings, pendant, white shirt, jacket on shoulders*.
+- Nausicaä: *short brown hair, blue gloves, boots, mask, sky, outdoors*.
+
+**Encuadre:** plano general con el personaje pequeño en el paisaje; horizonte bajo y mucho cielo en las escenas de viento; plano medio a la altura de los ojos para la comida.
+
+**Imágenes de referencia** (subirlas como referencia de estilo, no pedir «Ghibli»):
+- Estilo de fondo: [mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg), [kazetachinu028](https://www.ghibli.jp/gallery/kazetachinu028.jpg), [totoro025](https://www.ghibli.jp/gallery/totoro025.jpg).
+- Comida: [ponyo034](https://www.ghibli.jp/gallery/ponyo034.jpg), [howl016](https://www.ghibli.jp/gallery/howl016.jpg).
+- Pose: las del punto 14.
+
+### IA de texto (diálogos en la voz de Ghibli)
+
+**Cómo hablan:**
+- **Frases cortas y naturales**, de la vida diaria. Nada de gritos de ataque ni frases de lucha.
+- **Pocas exclamaciones.** Se gritan el miedo o la rabia (San); el resto se dice bajo.
+- **Cortesía y cuidado**: «No tengas miedo», «Lo haces muy bien».
+- **Dejan silencios** («ma»): mejor una frase y una pausa que tres frases.
+- **No explican la magia.** La cuentan como algo normal.
+- Sin onomatopeyas escritas: los sonidos se oyen, no se escriben.
+
+**Frases reales por emoción** (doblaje latino, punto 8):
+- **Alegre:** «Esto es todo, chicas. Entonces, ¿cómo te gusta el nuevo lugar?» (el papá, *Totoro*). «¡Mei, mira eso!»
+- **Enfadada:** «¡No temo a la muerte! ¡Haré lo que sea para sacar a los humanos del bosque!» (San, Buena Vista). «No desperdicio mi tiempo escuchando a los humanos.» (San, Zima)
+- **Explicando:** «Estira las piernas y empieza a caminar. ¿Lo ves? No es tan difícil.» (Howl, Zima)
+- **Animando:** «No tengas miedo. Lo haces muy bien.» (Howl, Wild Bunch). «Seré tu escolta toda la tarde.»
+- **Triste o asustada:** «Ay, en verdad soy yo.» (Sophie, Zima)
+- **Advirtiendo:** «…antes de que anochezca, además, este no es lugar para los humanos…» (Haku) ⚠️
+- Más frases de *Chihiro* en la biblia 98.
+
+**Plantilla para la IA de texto:** «Escribe una frase corta, tranquila y cálida, como la diría un personaje de una película de Hayao Miyazaki en el doblaje latino: vocabulario sencillo, sin jerga de anime, sin onomatopeyas, con una imagen concreta de la naturaleza o de la comida. Ejemplo: "No tengas miedo. Lo haces muy bien."»

@@ -314,3 +314,250 @@ Frases del ep. 1 (BDRip de Internet Archive, subtítulo de fans en inglés del a
 
 - Falta una cara de miedo adulto y más emociones de Watari. ⚠️
 
+## 14 · Poses analizadas
+
+Fotogramas propios del rip de [Internet Archive](https://archive.org/download/EVYourLieinApril/1.mp4) (F = `hojas/fotogramas_03.jpg`) y del PV2. Al montar la hoja se vio que tres poses de la parte de vídeo eran de **otro personaje**; aquí van ya corregidas.
+
+⚠️ **Watari y Tsubaki no llegan a 6 fotogramas propios.** La parte de vídeo se relanzó dos veces y dejó un «Sigue»: faltan sus arcos (episodios 9 y 11-19). Se completan con **ilustraciones de la wiki** (el encargo admite fotograma o ilustración), sin minuto.
+
+### Kaori (7)
+
+| Pose | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| F1 | Ep. 1, 19:00 | Frente, ojos cerrados, sonrisa enorme, rosas y destellos | **presentar** |
+| F2 | Ep. 1, 20:30 | Perfil de tres cuartos, mira a cámara, cerezos detrás | presentar / celebrar |
+| F3 | Ep. 2, 0:40 (OP) | De pie, puño cerrado al hombro, guiño de seguridad; Kousei detrás con las manos a la espalda | **animar** |
+| F4 | Ep. 2, 9:00 | De pie en el escenario, vestido blanco, cuerpo inclinado hacia el violín | **explicar** (mostrar) |
+| F5 | Ep. 6, 5:00 | Brazo extendido señalando al frente, mano a la cadera, sonrisa de lado | **explicar / regañar** |
+| F6 | Ep. 3, 20:00 | Llora, puño frotando el ojo, hombros caídos | vulnerable (la más citada por fans) |
+| PV2 | 1:15 | De espaldas, pelo al viento, salta descalza | **celebrar** |
+
+### Kousei (6)
+
+| Pose | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| F9 | Ep. 3, 18:00 | Encorvado sobre el piano, escenario a oscuras, foco cenital | **pensar** / tocar |
+| F7 | Ep. 1, 7:05 | Ojos cerrados, cara cansada, luz de atardecer; Tsubaki lo mira | pensar |
+| F8 | Ep. 1, 11:00 | Sentado, se encoge con las manos arriba, sudor de susto (gag) | reacción cómica |
+| F11 | Ep. 22, 20:00 | Lee la carta, gafas, gesto serio y concentrado | **pensar / explicar** |
+| F10 | Ep. 22, 18:00 | Al piano de cola con niños a los lados (profesor) | **explicar** |
+| F3 | Ep. 2, 0:40 (OP) | De pie, manos a la espalda, mira a Kaori | presentar (en pareja) |
+
+### Watari (5 fotogramas + ilustraciones) ⚠️
+
+| Pose | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| F13 | Ep. 1, 7:00 | Móvil rojo pegado a la cara, «Sweet! I got a text from Keiko!» | **celebrar** |
+| F12 | Ep. 2, 10:00 | En la grada entre Tsubaki y Kousei, ríe con la boca abierta | celebrar / animar |
+| F14 | Ep. 2, 1:04 (OP) | Mano en la barbilla, mira arriba, pensativo, pétalos | **pensar** (la parte de vídeo lo daba como Kousei) |
+| F15 | Ep. 3, 21:00 | Se inclina hacia delante, boca abierta, corbata al aire | **animar** (la parte de vídeo lo daba como Kousei) |
+| PV2 | 0:45 | En cuclillas, camiseta n.º 11, móvil como micrófono, mirada traviesa | celebrar / animar |
+| #42 | ilustración wiki (1920×1080) | Pulgar arriba, sonrisa segura, uniforme | **animar / presentar** |
+| #37 | credencial | Busto frontal | presentar |
+
+- F16 (ep. 10, 8:00, «Is this the Arima I know?») es **Takeshi Aiza**, no Watari. Se quita de su lista.
+
+### Tsubaki (4 fotogramas + ilustraciones) ⚠️
+
+| Pose | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| F8 | Ep. 1, 11:00 | De espaldas, brazo extendido señalando a Kousei, marcas de enfado | **regañar** |
+| F12 | Ep. 2, 10:00 | Inclinada en la grada explicando la «Kreutzer» | **explicar** |
+| F17 | Ep. 1, 6:00 | Camina de espaldas junto a Kousei bajo los cerezos | presentar (el trío) |
+| F18 | Ep. 6, 4:00 | Gorra y guante de sóftbol en alto, ojos entornados de alegría | **celebrar / animar** |
+| #43, #50 | ilustraciones wiki | Busto de uniforme, mirada de lado | presentar / pensar |
+| #12 | credencial | Busto frontal | presentar |
+
+**Para qué pose, rápido:** presentar = Kaori F1 · explicar = Kaori F5 o Tsubaki F12 · celebrar = Tsubaki F18 · regañar = Tsubaki F8 · pensar = Kousei F11 · animar = Kaori F3 o Watari #42.
+
+## 15 · Vestuario
+
+Colores medidos con Pillow sobre recortes por prenda (parte de imagen). Uniforme del colegio Sumiya (市立墨谷中学校): **saco gris, camisa celeste, corbata roja con rayas blancas**. ✅ (wiki + las credenciales)
+
+| Personaje | Prenda | Hex | De qué imagen |
+|---|---|---|---|
+| Kaori | Cárdigan gris (el look icónico) | #9C9F9E | key visual #9 |
+| Kaori | Top celeste bajo el cárdigan | #BBE2EC | key visual #9 |
+| Kaori | Falda a cuadros gris y negro | #8A898A | key visual #9 |
+| Kaori | Medias azul marino | #3A323E | key visual #9 |
+| Kaori | Mocasines marrón oscuro | #5C4138 | key visual #9 |
+| Kaori | Saco escolar | #B0A48E ⚠️ luz de atardecer | infobox wiki |
+| Kaori | Camisa celeste | #BFCBCD ⚠️ luz cálida | infobox wiki |
+| Tsubaki | Saco escolar gris | #879096 | credencial #12 |
+| Tsubaki | Camisa celeste | #AACCDC | credencial #12 |
+| Tsubaki | Corbata roja | #D06A4E ⚠️ luz cálida, real más rojo | fotograma wiki |
+| Tsubaki | Camiseta de sóftbol | #DADCDB | fotograma sóftbol |
+| Tsubaki | Cuello rojo de sóftbol | #C7465F | fotograma sóftbol |
+| Tsubaki | Pelo castaño | #593A29 | fotograma sóftbol |
+| Watari | Saco gris (desalineado) | #918D81 | credencial #37 |
+| Watari | Camisa celeste | #B0BEBE | credencial #37 |
+| Kousei | Mismo uniforme | sin medir ⚠️ | usar los de Tsubaki y Watari |
+
+- **Icónico por personaje**: Kaori, cárdigan gris + top celeste + falda de cuadros + violín (#9); en concierto, vestido blanco largo (F4, #35). Kousei, uniforme y **gafas negras gruesas**; en concurso, traje azul oscuro (#18, #19). Tsubaki, uniforme o equipación de sóftbol con gorra (F18). Watari, uniforme desarreglado o camiseta de fútbol n.º 11.
+- Kousei en casa: polo azul oscuro con camisa gris y pantalón caqui ⚠️ (sólo texto de la wiki).
+- Kaori de niña: vestido rosa, pelo al mentón; a los 12, gafas negras y coletas bajas ⚠️ (sólo texto).
+- Pelo: Kaori rubia, larga y ondulada; Kousei azul muy oscuro; Tsubaki castaña corta; Watari castaño claro, de punta.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+- **Sitios** con su luz: ver punto 4 (calle de cerezos al atardecer, calle nocturna, cuarto del piano, azotea, Towa Hall, el cruce con cables del final).
+- **Towa Hall**: la sala de los dos concursos grandes, butacas rojas y madera cálida (F21).
+- **Barrio**: Nerima (Tokio), casas bajas, cableado eléctrico, tiendas de conveniencia, cerezos (PV2 1:00). ⚠️
+- No hay fondos de pantalla oficiales descargables (sólo el banner de AniList).
+
+**Fondos de fans en alta** ([Wallhaven](https://wallhaven.cc/search?q=shigatsu+wa+kimi+no+uso)):
+
+| Motivo | Tamaño | Autor | Enlace |
+|---|---|---|---|
+| Kaori y Kousei con gatos | 5414×3045 | Deireadh | [imagen](https://w.wallhaven.cc/full/0q/wallhaven-0qwmqq.jpg) |
+| Kousei al piano, cielo y nubes | 3840×2160 | canadianakin | [imagen](https://w.wallhaven.cc/full/j8/wallhaven-j8x1yw.jpg) |
+| Arte digital (ArtStation) | 3840×3070 | Jakkeriy | [imagen](https://w.wallhaven.cc/full/lm/wallhaven-lmr2qq.jpg) |
+| Kaori y Kousei, gran formato | 3500×2450 | Enlightenment | [imagen](https://w.wallhaven.cc/full/ne/wallhaven-nej6gr.jpg) |
+| Piano y notas, tono cian | 2171×1220 | Zeref | [imagen](https://w.wallhaven.cc/full/qd/wallhaven-qd6ew7.jpg) |
+| Kaori y Kousei con piano y violín | 1920×1080 | Reym | [imagen](https://w.wallhaven.cc/full/lq/wallhaven-lqmrwl.png) |
+| Kaori con violín, ojos cerrados | 1920×1080 | canadianakin | [imagen](https://w.wallhaven.cc/full/gj/wallhaven-gjpqdq.png) |
+
+- El de los gatos (5414×3045) deja aire arriba: buena referencia de composición con texto.
+
+## 17 · Guía para IA de imagen y de texto
+
+Hecha por el redactor con todo lo anterior. Para Firefly, Canva o similar.
+
+### IA de imagen
+
+**Rasgos que nunca cambian:**
+- **Kaori**: pelo rubio largo y ondulado hasta la cintura, ojos grandes azul violáceo, flequillo abierto; cárdigan gris, top celeste, falda de cuadros gris, medias azul marino; violín con estuche **rosa**.
+- **Kousei**: pelo azul muy oscuro, **gafas negras de pasta gruesa**, cara seria; uniforme gris y celeste con corbata roja a rayas.
+- **Tsubaki**: pelo castaño corto, ojos marrones, deportista; uniforme o sóftbol con gorra blanca.
+- **Watari**: pelo castaño claro de punta, sonrisa confiada, corbata floja.
+
+**Paleta base** (del punto 4 y 15): #F6E1C6, #E5B470, #D6774D, #9C5E26 (atardecer); #283950, #426CB1 (noche); #9C9F9E, #BBE2EC (Kaori); rosa sakura de pétalos.
+
+**Línea y sombreado**: línea fina de grosor casi igual, en marrón o gris oscuro, no negro puro; cel-shading a dos tonos; brillos suaves y mucha luz; bordes nítidos, sensación de transparencia (透明感).
+
+**Luz y encuadre**: contraluz dorado de atardecer; foco cenital en escenario; primeros planos de cara mirando a cámara para presentar; planos amplios con cerezos y cables eléctricos para lo emotivo.
+
+**Palabras que ayudan**: `2014 anime, A-1 Pictures style, soft cel shading, thin brown lineart, golden hour backlight, cherry blossom petals floating, classical music, violin, grand piano, Japanese suburb with power lines, transparent bright colors, spring`.
+
+**Palabras que lo estropean**: `chibi` (salvo para gags), `dark fantasy`, `neon`, `cyberpunk`, `3D render`, `realistic`, `autumn`, `snow`, `thick black outlines`, `glitch`, `chromatic aberration`.
+
+**Referencias de estilo y pose** (subir a la IA):
+- Estilo: key visual #9, portada tomo 11 #6, fotograma F22 (fondo final).
+- Pose: F1 (presentar), F5 (explicar), F18 (celebrar), F8 (regañar), F11 (pensar), #42 (animar).
+- Fondo: F17 (calle al atardecer), F21 (Towa Hall), F10 (cuarto del piano).
+
+**Vocabulario de expresiones**, para pedir gestos:
+- Alegría de Kaori: ojos cerrados en arco + fondo de rosas y destellos (F1).
+- Enfado cómico: ojos rojos afilados, marcas de vena, rayos de colores detrás (F8).
+- Susto: gotas de sudor de cómic, cuerpo encogido, estilo chibi (F8).
+- Tristeza: lágrimas, puño en el ojo (F6); mirada baja con reflejo en las gafas (Kousei).
+- Pensamiento angustiado: océano oscuro, hundirse bajo el agua.
+- Momento de música: pétalos o partículas de luz que salen del instrumento.
+
+### IA de texto
+
+**Cómo escribir en su voz** (sin doblaje latino todavía: escribir en español neutro, tono de subtítulo):
+- **Kaori**: exclamaciones, órdenes directas, reto y broma a la vez. Pasa de gritar a sonreír en una línea. Frases cortas, mucho «¡».
+- **Kousei**: frases cortas, dudas, autocrítica, puntos suspensivos. Voz en off. Pocas exclamaciones.
+- **Tsubaki**: directa, mandona, de confianza; se corta cuando habla de sentimientos.
+- **Watari**: ligón, alegre, de confianza, halagos exagerados.
+
+**Frases reales por emoción** (subtítulos del ep. 1 y 3, audio japonés):
+- Alegre: «Nice to meet you!» (Kaori, ep. 1, 19:00) · «Sweet! I got a text from Keiko!» (Watari, ep. 1, 7:00) · «Oh, stop! You flatter me!» (Watari, ep. 1, 19:40).
+- Enfadado: «Dirty little camera creep! You won't get away with this, you perv!» (Kaori, ep. 1, 18:20) · «Doesn't your youth mean anything to you?» (Tsubaki, ep. 1, 11:00, F8).
+- Explicando: «No question. It's the set piece, the Kreutzer.» (grada, ep. 2, 10:00, F12) · «If there's a lull in conversation, you could talk about instruments and stuff» (Tsubaki, ep. 1, 12:55).
+- Animando: «If you need time to prepare, you got it!» (ep. 3, 21:00, F15).
+- Triste: «No one's gonna bother falling in love with me» (Kousei, ep. 1, 7:40) · «If it'll make you better…» (Kousei niño, ep. 1, 13:40).
+- Carta: «好きです。I love you.» (ep. 22, 19:22).
+
+**Vocabulario de la serie**: Piano-senpai, Towa Hall, concurso Maihou, «el metrónomo humano», acompañante, partitura, canelés, manzana acaramelada, «la mentira de abril», Kawori.
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+**Cómo se hizo** (entrevistas oficiales en japonés de [kimiuso.jp](https://www.kimiuso.jp/special/04.html), sección スペシャル, no traducidas antes):
+- **Piano en 3D** del estudio **Graphinica** para las escenas de interpretación («#14 ピアノの3D設定», 21-ene-2015). ⚠️ (una fuente, pero oficial)
+- **Intérpretes reales grabados en vídeo** con varias cámaras para dibujar encima: el pianista **Tomoki Sakata** (manos de Kousei, Aiza y Emi) y la violinista **Yuna Shinohara** (Kaori). El director les daba indicaciones de actuación («aquí se te rompe el corazón»). ✅ ([entrevista al director](https://www.kimiuso.jp/special/05_01.html) + TV Tropes)
+- **Texturas 2D pegadas** (貼り込み素材): etiquetas de la leche de Kousei, páginas de revista, ajustadas a la forma del objeto. ✅
+- **Color**: el director quiso una coordinación «**brillante y pop**» (明るくポップに), tomada de las páginas a color y portadas del manga, con bordes nítidos para dar **transparencia** (透明感). Las escenas serias van a un **monótono duro** para que el contraste golpee. ✅
+- **Diseño de personajes**: Yukiko Aikei, elegida por su trazo «femenino», parecido al de Arakawa. Le costaban los chicos «guapos» (Watari, Aiza). ✅ En [Anime Boston 2016](https://www.animeherald.com/2016/04/04/anime-boston-2016-conversation-lie-aprils-kyohei-ishiguro-yukiko-aikei/) dijo que su prioridad fue «capturar el toque del lápiz de Arakawa»; muchas pruebas hasta dar con la sonrisa de Kaori. ✅
+- **El autor** dibuja las manos «con sensualidad» y piensa las páginas de concierto como una partitura: tamaño de viñetas, líneas de velocidad y **dónde van los globos** ([entrevista a Arakawa](https://www.kimiuso.jp/special/05_05.html)). ✅
+- **Preproducción 5 veces más larga** de lo normal; el doblaje japonés se grabó antes del arte final. ✅ (Anime Boston)
+- **Metáfora de pétalos o luz** que sale del instrumento durante las actuaciones ([análisis en Tumblr](https://www.tumblr.com/fandomsandfeminism/156397287024/your-lie-in-april-uses-visual-metaphors-and) + TV Tropes). ✅
+- **Equipo** ([AniList staff](https://anilist.co/anime/20665/staff)): dirección de arte Hisayo Usui; color Kazuko Nakashima; fotografía Yoshihiro Sekiya y Keisuke Nozawa; director de CG Ryūta Ono; sonido Jin Aketagawa.
+- **Programas**: el estándar de la época es RETAS! PRO para la línea, PaintMan para el color y After Effects para composición ([ANN Answerman](https://www.animenewsnetwork.com/answerman/2018-03-30/.129615)). ⚠️ No confirmado para esta serie.
+
+**Cómo reproducirlo en Photoshop:**
+- **Línea**: pincel de 2-3 px, poca presión, color marrón o gris oscuro (no negro). Curvas suaves en mandíbula y nariz.
+- **Sombreado**: dos tonos planos. Para lo serio, capa **Multiplicar** azul gris sobre todo y una trama de puntos al 20-30% en las sombras (Filtro > Pixelizar > Semitono de color).
+- **Brillo**: capa **Aclarar** o **Sobreexponer color** con pincel suave blanco o dorado detrás del contorno; destello de lente muy leve.
+- **Pétalos de luz**: pincel de partículas + desenfoque radial saliendo del instrumento.
+- **Grano**: ruido monocromático 2-3% sólo en recuerdos. **Nada** de aberración cromática.
+
+**Cómo reproducirlo en Blender:**
+- **Contorno**: Freestyle (grosor variable según ángulo), mejor que Solidify.
+- **Shader**: *Shader to RGB* + **ColorRamp** de 2-3 escalones sobre Diffuse BSDF.
+- **Luz**: luz de área grande dorada como principal + relleno azulado frío. Nunca sombras negras.
+- **Piano**: como Graphinica, renderizar el piano (punto 3) y componer encima del fondo 2D.
+- Modelos libres: violín CC0 y pianos CC BY del punto 3. No hay rigs libres de los personajes.
+
+**Encuadres típicos:**
+- Primer plano con **mirada a cámara** para el key visual («ojos que se cruzan con los del espectador», entrada #04 del reporte oficial). ✅
+- Viñetas grandes y pequeñas alternadas para marcar el ritmo de una actuación.
+- Silueta de los 4 protagonistas como base del diseño. ✅
+- Escenario oscuro con foco cenital para el aislamiento (F9); calle en perspectiva con cables y cerezos para la emoción (F22).
+
+## 19 · Texturas 2D
+
+Todas **CC0** de [ambientCG](https://ambientcg.com/view?id=Paper001) (uso libre sin crédito, según su [FAQ](https://ambientcg.com/faq)). ✅
+
+| Textura | Uso | Enlace |
+|---|---|---|
+| Papel `Paper001` | Carta de Kaori, partituras, programa del concurso | [ficha](https://ambientcg.com/view?id=Paper001) |
+| Madera clara `Wood049` | Piano, aula, suelo de la sala de música | [ficha](https://ambientcg.com/view?id=Wood049) |
+| Lana gris `Fabric061` | Saco del uniforme, cárdigan de Kaori | [ficha](https://ambientcg.com/view?id=Fabric061) |
+| Metal cepillado `Metal049A` | Herrajes del piano, clavijas del violín | [ficha](https://ambientcg.com/view?id=Metal049A) |
+| Cuero (categoría) | Estuche del violín, mocasines, guante de sóftbol | [lista](https://ambientcg.com/list?type=Material&q=leather) ⚠️ |
+
+- **Trama de manga libre: no encontrada.** [OpenGameArt](https://opengameart.org/) e [itch.io](https://itch.io/game-assets/free/tag-manga) sin resultados gratis; sólo un pack de pago. Alternativa sin archivo: el filtro Semitono de color de Photoshop.
+- **Emblema**: el escudo del colegio Sumiya (una «S» en escudo marrón, visible en las credenciales #12, #36, #37 y en el bolsillo de F3).
+- **Patrones de ropa**: falda de cuadros gris y negro de Kaori; corbata roja con rayas blancas.
+- Capas completas para una lámina: 3D (punto 3) + textura real (punto 4) + textura 2D (aquí).
+
+## 20 · Gustos y detalles
+
+Cumpleaños y altura cruzados entre AniList y la wiki: ✅. **Gustos y odios son ⚠️**: sólo lo de los canelés de Kaori viene de una fuente directa; el resto es lectura de su personalidad.
+
+| Personaje | Cumpleaños | Altura | Le gusta | Odia | Afición | Fuente |
+|---|---|---|---|---|---|---|
+| Kousei | 28 de marzo | 168 cm | La música libre de Kaori, sus amigos | Que lo comparen con su madre | Piano | [AniList](https://anilist.co/character/69407) |
+| Kaori | 4 de julio | 157 cm | Dulces, sobre todo **canelés** | Tocar «tal como está escrito» | Violín, melódica, algo de piano | [AniList](https://anilist.co/character/69411) |
+| Tsubaki | 19 de mayo | 159 cm | Estar con Kousei y Watari | Que la llamen rara por no ser femenina | Sóftbol | [AniList](https://anilist.co/character/69409) |
+| Watari | 14 de abril | 170 cm | Las chicas, el fútbol | Perder partidos | Fútbol, capitán, n.º 11 | [AniList](https://anilist.co/character/69405) |
+
+- Los cumpleaños salen también en las credenciales: Tsubaki 5月19日, Kaori 7月4日, Watari 4月14日 (hoja #12, #36, #37). ✅
+- **Objeto que siempre llevan**: Kaori, el violín en su estuche rosa; Kousei, sus gafas; Tsubaki, bate o guante; Watari, el móvil (F13).
+- **Cómo se ve Kousei**: como «el metrónomo humano», una máquina, no un artista. ✅
+- Posible **amusia** de Kousei: teoría de fans en la wiki, no oficial. ⚠️
+- No hay databook con gustos de Kousei, Tsubaki y Watari accesible. ⚠️
+
+## 21 · Por qué la gente la ama
+
+- **Premios**: Kodansha Manga Award n.º 37 (shōnen, 2013) al manga ([Wikipedia](https://en.wikipedia.org/wiki/Naoshi_Arakawa)); Sugoi Japan Award 2016 a la mejor adaptación. ✅
+- **Ventas**: más de 4 millones de tomos a febrero de 2016. ⚠️
+- **Eiichirō Oda** (*One Piece*) dijo que era la obra que más envidia le daba, por hacer que el manga «suene»; el manga se agotó tras esa entrevista ([TV Tropes, Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/YourLieInApril)). ✅
+- **Por qué conecta**: la música como forma de sanar y de despedirse; el realismo de dedos, arcos y posturas. Hasta músicos profesionales la respetan ([reseña de un músico en Medium](https://medium.com/the-aurora-chronicle/a-musician-reviews-your-lie-in-april-c890668420fd)). ⚠️
+- **Con quién se identifica el público**: con Kousei (padres exigentes, miedo escénico, tocar «como una máquina») y con Tsubaki (amor no correspondido por el mejor amigo). ⚠️
+
+**La escena que hace llorar: la carta de Kaori, ep. 22 «Spring Wind» (春風).** Vista entera de 15:30 a 21:22, con fotogramas cada 8 s. ✅
+- **Qué pasa** (15:30-19:30): Kousei lee en voz en off la carta que Kaori escribió antes de morir. Se cruzan recuerdos de ella en los mismos sitios. Confiesa que fingió querer a Watari para acercarse a él.
+- **Cómo está dibujada**: el presente de Kousei en luz fría, cielo azul claro y una reja metálica (**17:06-18:02**); los recuerdos de Kaori en luz naranja dorada con pétalos cayendo (**18:18-18:50**, 19:30-19:46).
+- **19:22**: la carta en pantalla, a mano, «好きです。I love you.» sobre pétalos.
+- **20:02-20:10**: Tsubaki llega corriendo y lo llama por su nombre.
+- **20:50**: un gato negro en el muro cuando la carta dice que llega la estación en que se conocieron.
+- **21:14**: foto enmarcada de Kousei, Kaori y Tsubaki de niños sobre un escritorio.
+- **Música**: ver punto 9 (Kirameki en versión de ellos dos, Balada n.º 1 de Chopin).
+- **Sin lluvia y sin silencio total**: música y voz en off, sin ambiente.
+- **Reacción**: decenas de *reaction mashups* sólo de esta escena (punto 10). ✅
+- Otras muy citadas: la confesión de Tsubaki (ep. 20) ([Mage in a Barrel](https://mageinabarrel.com/2015/03/05/your-lie-in-april-episode-20/)) ⚠️ sin minuto; el ep. 10 como favorito de un comentarista ⚠️.
+- **Para reír**: la pelota y la bronca de Tsubaki (ep. 1, 11:00); Kaori con el megáfono (ep. 1, 18:20).
+
