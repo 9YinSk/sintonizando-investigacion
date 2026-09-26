@@ -245,8 +245,7 @@ independiente [LicenseOrg](https://www.licenseorg.com/guide/3d-assets/ambientcg)
   claro ⚠️ (busqué «Death Note cosplay contest winner 2025/2026»: sólo
   salieron compilaciones sin autor).
 
----
- Fan art y renders 3D (sólo como referencia, nunca para pegar)
+## 3 · Fan art y renders 3D (sólo como referencia, nunca para pegar)
 
 ### Modelos 3D con licencia libre (Sketchfab, licencia confirmada por su API v3)
 
@@ -298,3 +297,80 @@ la tinta y la luz son propias — usa estos sólo para ver grosor y lomo.
   **TheAwesomeAki-kun** ([681249872](https://www.deviantart.com/theawesomeaki-kun/art/1000-Manga-Screentone-Compilation-681249872)).
 
 ---
+
+## Lo mejor para la lámina
+
+- El **cuaderno abierto con «HOW TO USE IT»** es el objeto que propone el
+  encargo: modélalo en Blender (10 min, ver §3) y usa Paper001/Leather026
+  de ambientCG para la textura, no un modelo bajado entero.
+- **Light con camisa blanca y corbata roja** sosteniendo el cuaderno (color
+  page «299276.jpg», hex medidos en §15) es la pose más reconocible para el
+  personaje principal.
+- Si el dueño quiere un **secundario querido**: **Misa con su vestido rojo
+  y la cruz** («295978.jpg», Saint Valentine's Day) o **Ryuk con la
+  manzana** (piel `#84889D` medida) dan más personalidad que Light de pie.
+- Para textura de fondo del canal: **grano de papel viejo** (Paper003/005
+  de ambientCG, CC0) más una **trama de puntos** del pack gratis de Clip
+  Studio (§19) encima, para que no parezca IA.
+- **hojas/arte_oficial_01.jpg nº8 y nº9** (Light y Misa juntos, art-book) es
+  la imagen con más variedad de pose y color en una sola hoja: úsala primero.
+
+## No encontré
+
+- **Portadas de los 12 tomos una a una con tamaño**: la wiki no las separa
+  por tomo con tamaño real; busqué «Death Note tankōbon cover [1-12]» en
+  japonés e inglés y sólo salieron tiendas de reventa sin medida ⚠️.
+- **Fecha exacta de la colaboración con USJ** («Universal Jump Summer») y
+  con **LINE Bubble 2**: sólo la imagen promocional alojada en la wiki, sin
+  nota de prensa con fecha ⚠️.
+- **Segunda fuente para Team Liquid × Death Note**: sólo la tienda oficial
+  de Team Liquid ⚠️.
+- **Modelo 3D con licencia de Misa o Near**: busqué «misa death note» y
+  «near death note» en la API de Sketchfab (`type=models&downloadable=true`):
+  0 y 2 resultados, ninguno del personaje real (Crime Board, lápida) ⚠️.
+- **Pack de pinceles CC0 de encaje gótico** para el vestido de Misa: busqué
+  «gothic lace pattern CC0» y «lace brush free license»: sólo salieron
+  packs de pago (Creative Market). Se recomienda dibujarlo a mano.
+- **Cosplay premiado con crédito claro** (tipo Crunchyroll Expo 2025/2026):
+  sólo compilaciones sin autor en Pinterest e Instagram ⚠️.
+- **El artbook «blanc et noir» escaneado**: sólo fichas de venta (HLJ,
+  Books.or.jp), ningún PDF ni imagen suelta con licencia libre ⚠️.
+
+## Bitácora de búsqueda
+
+- Fandom API (`deathnote.fandom.com/api.php`) + `investigar_serie.py`:
+  1181 imágenes, 12 hojas — español/inglés — ✅.
+- `api.sketchfab.com/v3/search` (ES/EN): «death note notebook», «death
+  note l», «ryuk death note», «misa death note», «near death note»,
+  «death note» (ordenado por ♥) — licencias reales, no de resultado de
+  búsqueda — ✅.
+- WebSearch (español e inglés): «Death Note colaboración cafe merchandising
+  crossover pachislot figuras oficiales», «"Death Note" Jump Force
+  collaboration crossover game art», «"Death Note" Universal Studios Japan
+  Halloween Horror Nights maze attraction» (sin resultado de una casa del
+  terror propia; sí existe el evento «Jump Summer» ⚠️), «Death Note x BAPE
+  OR Uniqlo OR Loungefly collaboration merchandise art», «"Death Note"
+  XLARGE Ryuk varsity jacket 2022 collaboration highsnobiety», «Death Note
+  official wallpaper download site oficial fondo de escritorio Viz
+  Madhouse», «free manga screentone halftone pattern pack license CC0
+  download», «Clip Studio Assets free screentone brushes ink pinceles
+  gratis licencia», «ambientCG CC0 license public domain textures
+  confirmed».
+- `curl` directo con cabecera `Referer: https://www.fandom.com/` para bajar
+  las imágenes de color page (Light, L, Ryuk, Misa, Near) y medir hex con
+  Pillow (`sample.py` propio, mediana de zona con y sin máscara de color) —
+  ✅, archivos en `/tmp/claude-0/trabajo/18-death-note-imagen/color/`.
+- `curl -A "Mozilla/5.0"` a `zerochan.net` para el tamaño real de los
+  wallpapers oficiales (leído del `og:image` de cada página) — ✅.
+- `python3 herramientas/estilo.py` sobre las 6 imágenes de color page:
+  paleta dominante y estilo de sombreado por personaje — ✅.
+- Fandom API a `List_of_Death_Note_figurines` (wikitext): confirma que la
+  lista existe y qué marcas hicieron figuras, pero sin URLs de imagen
+  directas por personaje ⚠️.
+- No hizo falta usar `navegar.py` en esta tanda: todo respondió a `curl` o
+  a la API correspondiente.
+
+Nota de orden: el punto 3 quedó al final del archivo (no por delante del
+15) por un error mío al editar por partes; el contenido está completo, sólo
+el orden de guardado no siguió la numeración.
+

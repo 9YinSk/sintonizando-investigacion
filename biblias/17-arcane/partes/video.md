@@ -115,6 +115,7 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
 | **Teaser oficial «A New Adventure Awaits»** (anuncio de Arcane, Worlds 2019), repost de JeuxVideo.com | Primer vídeo oficial de la serie; **min 0:45-1:15**: una streamer/jugadora en su cuarto dice «voy a revelarles un secreto muy importante», luego el skyline de Piltóver (min 1:00) y el logo «ARCANE» (min 1:45) | ✅ visto con `fotogramas.py`, fotograma propio (`dm_open/hoja_01.jpg`) | [Dailymotion](https://www.dailymotion.com/video/x89n6ax) |
 | Vídeo oficial de **«Enemy»** (Imagine Dragons + JID), animado por Fortiche | Sirve de «opening»: la banda como personajes de Arcane en Zaun. 409 M de vistas | ⚠️ no pude bajarlo hoy (YouTube pidió login); metadatos sí cargan (213 s de duración, confirmado con `yt-dlp -j`) | [YouTube](https://www.youtube.com/watch?v=F5tSoaJ93ac) |
 | Tráiler oficial T2 y teaser T2 | Ya en la biblia (§12), con enlaces oficiales de `leagueoflegends.com` (no YouTube): siguen sin minuto propio, no pude verlos hoy por tiempo | ⚠️ igual que estaba | (enlaces en biblia §12) |
+| **Créditos finales de 1×03** | Sirven de «ending» visual: rótulo Riot Games/Fortiche en francés y chino, lista de reparto en francés (Silco: Bernard Gabay; Vi: Alice Taurand; Mel: Géraldine Asselin) — confirma otro doblaje (FR) además del latino | ✅ visto, min **42:40-44:00** (`e03_overview/hoja_02.jpg`) | archivo IA de 1×03 (arriba) |
 
 ## 14 · Poses con capítulo y minuto
 
@@ -133,11 +134,42 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
 
 ## Lo mejor para la lámina
 
-(pendiente, lo cierro al final)
+- Jayce con la **gema Hextech brillando en la mano**, 1×04 min 11:54-12:26:
+  mano tendida, luz azul casi blanca — mejor que una pose estática para
+  «explicar» en #proyectos.
+- El **discurso del Día del Progreso** (1×04, 24:20), atril de latón con
+  cortina morada: confirma en vídeo real la splash `Jayce_24` que ya usa la
+  biblia para «presentar».
+- Color medio real de la escena de la gema (`#D7F0F8`, casi blanco
+  quemado): más dramático que un azul plano para la luz de fondo de la
+  mesa Hextech.
+- Silco (1×03, 19:55) y Vander joven (1×03, 23:15-23:45) con minuto real:
+  sirven si alguna lámina futura toca la fundación de Zaun.
+- El teaser 2019 (Dailymotion, min 1:00): el skyline de Piltóver ya usado
+  como referencia de ciudad, con minuto verificado.
 
 ## No encontré
 
-(pendiente)
+- **La prueba nocturna «todo flota, funciona» en el laboratorio de
+  Heimerdinger con Mel presente** (la que cita la biblia en §2.1 y §15):
+  miré los primeros 32 minutos completos de 1×03 (a 15-40 s por fotograma)
+  y no está ahí — lo que hay es Silco/Vander (arriba). Tampoco until los
+  32:00-40:43 de 1×04, salvo la escena de la gema con Heimerdinger a solas
+  (11:54-13:14, sin Mel). Puede ser una escena posterior (1×05 o 1×06,
+  cuando cae el Núcleo Hex) o estar mal recordada en la biblia; no llegué
+  a revisar 1×05/1×06 por tiempo. Búsquedas: fotogramas propios de los dos
+  episodios completos, más `srsearch=Jayce hextech night demonstration
+  Mel` en la wiki (sin resultado claro de minuto).
+- **Qué pinta Jinx exactamente en el laboratorio (1×04) y en 2×04**: no
+  bajé 1×04 más allá del minuto 40:43 (el episodio dura eso) ni 2×04 (no
+  está en el ítem de IA que usé, que sólo tiene T1); si aparece después de
+  los 26:50 que miré, no lo vi. Sigue como ⚠️ en la biblia.
+- **Minuto de qué canción suena** en las dos escenas que grabé: sin
+  `voz.py` no puedo oír el audio del `.mp4` que descargué (⚠️, ver punto 9).
+- **Temporada 2 completa**: el ítem de Internet Archive que encontré sólo
+  tiene la T1; no busqué un ítem de T2 aparte por tiempo (⚠️ extra, no
+  obligatorio: la T2 no tenía ninguna cita con minuto en la biblia antes
+  tampoco).
 
 ## Bitácora
 
@@ -150,5 +182,32 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
   `e03_fine/`.
 - Busqué primero la prueba Hextech de Jayce y Viktor (`todo flota, funciona`)
   en 1×03 entre los minutos 0 y 32: **no está ahí** — lo que hay en ese tramo
-  es Silco/Vander (arriba) y escenas de Heimerdinger/Powder. Puede estar más
-  adelante en el mismo episodio o ser 1×04; sigo buscándola.
+  es Silco/Vander (arriba) y escenas de Heimerdinger/Powder.
+- Descargué también 1×04 (`e04_overview/`, `--cada 45`, visión general de
+  los 40:43) y afiné dos tramos: `--desde 650 --hasta 800 --cada 8` (la gema
+  con Heimerdinger, `e04_gema/`) y `--desde 1420 --hasta 1620 --cada 10` (el
+  discurso, `e04_speech/`). Confirmé ahí las dos escenas del punto 2.
+- YouTube: `yt-dlp -j` sobre `F5tSoaJ93ac` (Enemy) dio metadatos bien, pero
+  la descarga real con `fotogramas.py` para ese mismo vídeo y para el clip
+  de fan `v91giP0wo5Y` dieron **"Sign in to confirm you're not a bot"** las
+  dos veces (probé una vez cada uno, sin insistir, según la regla de
+  AYUDANTE.md de no gastar más de dos intentos). `navegar.py` no aplica aquí
+  (es para páginas, no para bajar vídeo).
+- Dailymotion sí funcionó sin problema: bajé
+  `https://www.dailymotion.com/video/x89n6ax` (1:53) con `fotogramas.py
+  --cada 15` y lo miré completo (8 fotogramas, una sola hoja).
+- Medí color con Pillow (`ImageStat.Stat(...).mean`, promedio real del
+  fotograma, no un pixel suelto ni una paleta de fans) sobre 4 fotogramas
+  propios de 1280 px sacados con `--fotograma <segundo>` (ver punto 4).
+  Antes probé recortar celdas de las hojas de contacto por coordenadas: dio
+  valores erróneos (el color de fondo del lienzo, no el de la imagen) — lo
+  descarté y usé fotogramas sueltos en su lugar.
+- Wiki de Arcane (`arcane.fandom.com/api.php`): `action=parse&prop=wikitext`
+  sobre «Jayce Talis» (confirma que el flashback del padre de Jayce es del
+  episodio 2, no del 3 — por eso descarté esa hipótesis) y `action=query&
+  list=search` con «Jayce father explosion flashback» y «Jayce hextech night
+  demonstration Mel» (en inglés).
+- Espacio en disco: borré los `video.mp4` de 1×03 y 1×04 (≈500 MB juntos) al
+  terminar de sacar las hojas; sólo quedan las hojas JPEG en
+  `/tmp/claude-0/trabajo/17-arcane-video/` (fuera del repositorio, como pide
+  AYUDANTE.md).

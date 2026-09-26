@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x8837gv?t=44",
+    "fuente": "Dailymotion (xataka, mirror del tráiler oficial de historia de Elden Ring, Bandai Namco/FromSoftware, 2021)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma de Melina bajo su capucha, ojo brillante azul, minuto 0:44, diciendo 'Thou shouldst take the crown?'",
+    "para_que": "Referencia de cara y pose de Melina para lámina; expresión seria/interrogante (punto 13)",
+    "licencia": "Copyright Bandai Namco/FromSoftware; material promocional oficial, sólo como referencia de estudio, no para pegar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8837gv?t=92",
+    "fuente": "Dailymotion (xataka, mirror del tráiler oficial de historia de Elden Ring, Bandai Namco/FromSoftware, 2021)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma de Melina sin capucha, minuto 1:32, diciendo 'I offer you an accord'",
+    "para_que": "Referencia de cara de Melina en calma resignada, sin capucha, para lámina (punto 13)",
+    "licencia": "Copyright Bandai Namco/FromSoftware; material promocional oficial, sólo como referencia de estudio, no para pegar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89wlj1?t=105",
+    "fuente": "Dailymotion (JeuxVideo.com, gameplay oficial del combate contra Malenia)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma de la transformación 'Flor Escarlata' de Malenia al entrar en fase 2, minuto 1:45",
+    "para_que": "Referencia de color y efecto visual (bloom rojo) como sustituto de una cara, ya que Malenia no muestra rostro (punto 13)",
+    "licencia": "Copyright Bandai Namco/FromSoftware; footage de gameplay, sólo como referencia, no para pegar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8837gv",
+    "fuente": "Dailymotion (xataka), mirror del tráiler oficial de historia de Elden Ring (Bandai Namco/FromSoftware)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler de historia oficial completo, 6:29 min, mirado entero fotograma a fotograma con fotogramas.py --cortes (211 planos)",
+    "para_que": "Fuente de vídeo oficial para poses, encuadres y la cara de Melina (puntos 13 y 14 del equipo de vídeo)",
+    "licencia": "Copyright Bandai Namco/FromSoftware; sólo como referencia, no para pegar"
+  },
+  {
+    "url": "https://www.famitsu.com/news/202205/07260652.html",
+    "fuente": "Famitsu (revista oficial japonesa), encuesta a ~1700 jugadores, abril 2022",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo con la encuesta oficial de popularidad de NPCs y enemigos/jefes de Elden Ring, con votos exactos",
+    "para_que": "Fuente primaria del punto 7 (encuestas de popularidad oficiales): Ranni 918 votos NPC más querida, Radahn 687 y Malenia 658 votos como jefes más recordados",
+    "licencia": "Artículo periodístico, no reutilizable como imagen; se cita como fuente de datos, no de arte"
+  },
+  {
+    "url": "https://www.behindthevoiceactors.com/video-games/Elden-Ring/",
+    "fuente": "Behind The Voice Actors (créditos oficiales verificados)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Reparto completo de voces originales en inglés de Elden Ring (único idioma con audio completo), con estudio (Liquid Violet) y director (Adam Chapman-Hailey)",
+    "para_que": "Fuente primaria del punto 8 (quién dobla a cada personaje; confirma que no hay doblaje latino ni japonés)",
+    "licencia": "Página de referencia, no imagen; se cita como fuente de datos"
+  },
+  {
+    "url": "https://danbooru.donmai.us/posts?tags=elden_ring",
+    "fuente": "Danbooru (recolectado automáticamente en datos-voz.md, 13514 posts con tag elden_ring)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ranking de personajes más dibujados por fans: Ranni 2274, Malenia 1717, Tarnished 1693, Melina 1063, Miquella 976",
+    "para_que": "Medida alternativa de popularidad de fans para el punto 7, contraste con la encuesta oficial de Famitsu",
+    "licencia": "Índice de tags, no imagen individual; ver `partes/datos-voz.md` para el detalle completo"
+  },
+  {
+    "url": "https://eldenring.fandom.com/wiki/Melina",
+    "fuente": "Elden Ring Fandom Wiki (API action=parse, prop=wikitext, con citas literales de diálogos in-game)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha completa de Melina: trasfondo, arco narrativo, finales, trivia",
+    "para_que": "Fuente primaria de los puntos 13, 20 y 21 sobre Melina",
+    "licencia": "CC-BY-SA (Fandom); texto, no imagen"
+  },
+  {
+    "url": "https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella",
+    "fuente": "Elden Ring Fandom Wiki (API action=parse, prop=wikitext)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha completa de Malenia: trasfondo (Podredumbre Escarlata, Batalla de Aeonia), combate, trivia de contenido cortado",
+    "para_que": "Fuente primaria de los puntos 13, 20, 21 y 12 sobre Malenia",
+    "licencia": "CC-BY-SA (Fandom); texto, no imagen"
+  },
+  {
+    "url": "https://eldenring.fandom.com/wiki/Ranni_the_Witch",
+    "fuente": "Elden Ring Fandom Wiki (API action=parse, prop=wikitext)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha completa de Ranni la Bruja: trasfondo, aliados, final Age of the Stars",
+    "para_que": "Fuente primaria del punto 13 sobre la NPC más popular (ver punto 7) y del punto 21 (identificación del público)",
+    "licencia": "CC-BY-SA (Fandom); texto, no imagen"
+  },
+  {
+    "url": "https://kotaku.com/elden-ring-fromsoftware-fia-deathbed-companion-debuff-s-1848603291",
+    "fuente": "Kotaku",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Reportaje sobre la escena del abrazo de Fía y la reacción emocional de jugadores",
+    "para_que": "Fuente del punto 21 (escena que emociona al público)",
+    "licencia": "Artículo periodístico, no imagen"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bLpf2mibtF4",
+    "fuente": "YouTube (canal de fans, fandub confirmado por título)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fandub en español latino de la cinemática inicial de Elden Ring",
+    "para_que": "Fuente del punto 22 (fan dubs y comunidad hispana)",
+    "licencia": "Contenido de fans, no oficial; sólo como referencia de comunidad, no para pegar"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GPA4ujianIY",
+    "fuente": "YouTube, canal Offline Player",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Episodio 2 de la serie narrada y doblada 'ELDEN RING - DOBLAJE ESPAÑOL LATINO - CASTELLANO'",
+    "para_que": "Fuente del punto 22 (fan dubs y comunidad hispana): ejemplo de serie doblada por fans capítulo a capítulo",
+    "licencia": "Contenido de fans, no oficial; sólo como referencia de comunidad, no para pegar"
+  }
+]

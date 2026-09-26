@@ -129,7 +129,7 @@ y la minigun **Pow-Pow**, y el **mono de juguete** con un ojo pintado de
 rojo (visto en `Caitlyn_28`); Vi, sus **guanteletes Hextech**; Jayce, el
 **martillo de Mercurio**; Viktor, el **bastón**; Caitlyn, el **rifle de
 francotiradora**; Ekko, el **bate con engranajes** (su Z-Drive) · ✅ ya
-✅ en biblia.md.
+en biblia.md.
 
 **Cómo se ve a sí mismo** (frases textuales, no interpretación mía):
 - **Jinx**, al cambiar de nombre: «**It's Jinx now! "Powder" fell down a
@@ -318,8 +318,8 @@ equipo «nueva»; **20, 21 y 22 no existían**).
   **1×03 completo** que ya tenía bajado el investigador de vídeo en
   `/tmp/claude-0/trabajo/17-arcane-video/` (Internet Archive,
   `arcane-season-1-60fps`, 1080p): saqué 3 fotogramas propios con emoción
-  clara (Vi rabia 23:30, Powder tristeza 24:45, Powder miedo 27:15). No until
-  volví a bajar el vídeo: ya estaba en el disco compartido.
+  clara (Vi rabia 23:30, Powder tristeza 24:45, Powder miedo 27:15). No
+  tuve que volver a bajar el vídeo: ya estaba en el disco compartido.
 - **`herramientas/navegar.py`**: funcionó (200) en `tiktok.com`, pero dio
   **429** dos veces seguidas en `youtube.com/watch` — lo dejé, según pide
   `AYUDANTE.md` (no más de un reintento).

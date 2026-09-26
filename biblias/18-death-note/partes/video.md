@@ -128,3 +128,48 @@ estaban anotadas en §2 de la biblia; las confirmo con el fotograma real (el
 tictac no tiene imagen propia, es sólo sonido sobre plano fijo del reloj de
 pared, comprobado al mirar el vídeo).
 
+
+---
+
+## 10 · Vídeos: tráileres, escenas, análisis y tendencias (con minuto exacto)
+
+**YouTube sigue bloqueado hoy** (26-sep-2026, confirmado dos veces con
+`yt-dlp`): «Sign in to confirm you're not a bot», y con `--print` de solo
+metadatos da 429. No reintento más (regla de AYUDANTE.md). Por eso los
+minutos exactos de tráiler y escenas salen de **Dailymotion** e
+**Internet Archive** (§2), que sí funcionan.
+
+### Tráiler oficial y escenas (ya con minuto exacto en el punto 2)
+- Tráiler: https://www.dailymotion.com/video/x89nprz — 8 fotogramas
+  comprobados, 0:00 a 1:34.
+- Escenas icónicas: los 13 fotogramas del punto 2, todos con episodio y
+  minuto de Internet Archive (`archive.org/download/death-note-XX/...mp4?t=`).
+
+### Tendencias de TikTok (comprobadas hoy, con enlace directo al vídeo o al sonido)
+
+| Qué | Enlace | Qué es |
+|---|---|---|
+| El **sonido** «Death note light potato chips» | https://www.tiktok.com/music/Death-note-light-potato-chips-7140838365938633518 | Página de sonido de TikTok: la frase de Light con la papa, usada como audio de fondo en decenas de vídeos ✅ (TikTok) |
+| Vídeo con el sonido de la papa | https://www.tiktok.com/@baixy__/video/7569787627541482774 | «Potato Chips and Death Note: Light Yagami's Snack» ✅ |
+| El meme «keikaku doori» (tal como lo planeé) | https://www.tiktok.com/@vegansocietynz/video/7115303261917252865 y https://www.tiktok.com/@micahllection/video/7308189862421663006 | Vídeos que usan la frase y la cara del ep. 24 (punto 2) fuera de contexto, para humor ✅ |
+| El origen del meme, explicado | https://knowyourmeme.com/memes/just-as-planned (alias «Just According to Keikaku») | Nace de una nota de traducción de fansub de ese mismo ep. 24 explicando que «keikaku» significa «plan»: la nota se hizo tan famosa como la frase ✅ (Know Your Meme) |
+| Comunidad de doblaje hispano en TikTok | https://www.tiktok.com/@sdv_serviciosdevoz/video/7187095780468034821 (Light) y https://www.tiktok.com/@sdv_serviciosdevoz/video/7145238036119309573 (Misa) | Retos de doblaje amateur con las voces de Light y Misa; ya estaban en la biblia, confirmo que siguen activos ✅ |
+
+### Análisis en YouTube (existen, pero **no pude verificar el minuto hoy**: YouTube bloqueado)
+
+Siguen en la biblia (§12) con su enlace; los dejo con ⚠️ porque no pude
+abrirlos hoy para dar el minuto exacto del momento que sirve: «El IMPACTO de
+L en Death Note», «Lo que revelan las conversaciones entre Light y L», «Por
+qué perdió Light Yagami», «The Brilliance of Death Note's Potato Chip Scene».
+Plan B probado sin éxito: Dailymotion no tiene estos análisis (busqué
+«Death Note analisis L Light»: sólo salieron clips de la **película Netflix
+2017** en imagen real, no del anime — no confundir, ya lo avisaba la
+biblia).
+
+### Corrección: los clips de «L Confronts Light» en Dailymotion
+
+Búsqueda nueva en Dailymotion (`api.dailymotion.com/videos?search=...`):
+salen varios clips «Death Note - L Confronts Light» (64 s, canal Netflix
+entre ellos, https://www.dailymotion.com/video/x70vd6b). **Son de la
+película live-action de 2017**, no del anime — mismo aviso que ya tenía la
+biblia para los tráilers de Netflix. No los uses de referencia de estilo.

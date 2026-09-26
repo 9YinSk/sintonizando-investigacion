@@ -422,3 +422,213 @@ Base: *Breath of the Wild* y *Tears of the Kingdom*, las versiones más jugadas 
 ⚠️ No hay fotograma con minuto de **alegría**, **rabia abierta** ni **vergüenza** en primer plano.
 Se buscó en el tráiler de *The Champions' Ballad*, 20 minutos de partida doblada y el anuncio de 2019.
 Pista para quien siga: las memorias completas de los Campeones y a Mipha sonrojada.
+
+## 14 · Poses analizadas
+
+Fotogramas propios e ilustraciones oficiales. Link 6, Zelda 6, Ganon 5, más un objeto. ✅ salvo lo marcado.
+
+| Quién | Pose: cuerpo, manos, mirada | De dónde | Minuto o imagen | Sirve para |
+|---|---|---|---|---|
+| Link | A caballo, de espaldas, cruza la pradera al atardecer | Tráiler BotW 2016 | 1:15 | presentar, viajar |
+| Link | Niño galopando en Epona, mirada al frente | Intro *Ocarina 3D* | 0:21 | presentar, animar |
+| Link | Quieto junto a Epona en el vado, mira el agua | Intro *Ocarina 3D* | 0:56 | pensar |
+| Link | Salta de cabeza al agua, brazos estirados | Serie 1989 | 0:40 | acción, celebrar |
+| Link | Alza la espada, rayo detrás | Serie 1989 | 0:05 | presentar, celebrar |
+| Link | A caballo, brazo en alto, contraluz sobre el mar | Tráiler final TotK | 2:40 | celebrar, animar |
+| Zelda | Mira por encima del hombro, cejas tensas, mano cerca del pecho | Tráiler BotW 2016 | 2:45 | alerta, regañar |
+| Zelda | Cara medio en el agua, sorprendida | Serie 1989 | 0:45 | sorpresa |
+| Zelda | Silueta sola en una plataforma en el cielo ⚠️ | Tráiler final TotK | 4:40 | pensar, contemplar |
+| Zelda | Antorcha con las dos manos, mirada baja y suave | Modelo oficial TotK, nº77 | [imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/14/TotK_Princess_Zelda_Model.png) | explicar, animar |
+| Zelda | De frente, manos juntas delante, vestido azul largo | Arte *Champions' Ballad*, nº85 | [imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/06/BotW_Zelda_The_Champions%27_Ballad_Artwork.png) | presentar |
+| Zelda | Perfil, lágrima, mirada baja | Tráiler definitivo TotK | 2:09 | consolar, momento triste |
+| Ganon | Bestia encorvada, ojo rojo | Combate final BotW | 0:20 | amenazar |
+| Ganon | Versión animada, piel verde, cuernos, puños alzados hacia nosotros | Serie 1989 | 0:15 | villano de broma |
+| Ganondorf | De pie, capa al viento, mano alzada dando órdenes | Arte *Ocarina 3D*, nº58 | [imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/OoT3D_Ganondorf_Artwork.png) | presentar, mandar |
+| Ganondorf | A medio puñetazo, cuerpo girado, puño hacia nosotros | Arte «Ganon Punch2», nº74 ⚠️ la miniatura parece estilo *Wind Waker* | [imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ce/Ganon_Punch2.jpg) | regañar, atacar |
+| Ganondorf | Con tridente, forma guerrera | Arte *Hyrule Warriors Legends*, nº5 | [imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8f/HWL_Ganondorf_Thief%27s_Trident_Artwork.png) | amenazar |
+| Objeto | Espada Maestra clavada en la hierba, brillo verde | Tráiler final TotK | 3:00 | presentar un tema |
+
+**Qué pose para qué:**
+- **Presentar:** Zelda de frente con las manos juntas (nº85) o Ganondorf con la mano alzada (nº58).
+- **Explicar:** Zelda con la antorcha a dos manos (nº77).
+- **Celebrar:** Link a caballo con el brazo en alto (2:40) o alzando la espada (0:05, 1989).
+- **Regañar:** Zelda por encima del hombro (2:45). Ganondorf a puñetazo (nº74) sólo en tono de broma.
+- **Pensar:** Link junto a Epona en el vado (0:56).
+- **Animar:** Link niño galopando (0:21). Zelda y Peach animando (nº82).
+
+## 15 · Vestuario y colores
+
+Colores medidos con `estilo.py` sobre el arte oficial. Cada color sale de **una** imagen: es una medida, no una cita doble. ⚠️
+El traje que todos reconocen: la **túnica verde** de Link y el **vestido real con la Trifuerza** de Zelda. ✅
+
+| Personaje | Prenda | Color medido | Imagen |
+|---|---|---|---|
+| Link | Túnica verde clásica (OoT, ALttP): **la icónica** | `#119E1A` | OoT Link Artwork, 2782×3463 |
+| Link | Túnica de ALBW, verde oliva apagado | `#4C4D34` | ALBW Link Artwork, 3373×3609 |
+| Link | Túnica del Campeón (BotW), azul | `#277AAF`, detalles `#BAE7E7` | BotW Link disparando, 985×1407 |
+| Link | Botas y guantes de cuero, en casi todas las épocas | `#AC5614`, `#A86E3E` | OoT y ALBW |
+| Zelda | Vestido de ALBW, azul grisáceo con oro | `#59788E`, oro `#E9CD75` | ALBW Zelda, 2158×2659 |
+| Zelda | Traje de exploradora (BotW) | `#274249`, luz `#467D8D` | BotW Zelda, 2645×2992 |
+| Zelda | Vestido de la Zelda espíritu (TotK) | `#EEE4AA`, bordado `#D99936` | TotK Zelda, 790×1058 |
+| Ganondorf | Armadura de cuero y capa roja (HWL) | `#544036`, `#2B1814`, capa `#C0361F` | HWL Ganondorf, 3130×3810 |
+| Ganondorf | Piel y armadura oscura (OoT) | piel `#733511`, armadura `#1E120A` | OoT Ganondorf, 2122×3734 |
+
+- **Peinado.** Link siempre rubio con gorro verde puntiagudo; sin gorro, en azul, con la Túnica del Campeón. Zelda siempre rubia: suelto en BotW y TotK, trenza en *Hyrule Warriors*, diadema en ALttP y ALBW. ✅ (más de 15 artes)
+- **Accesorio fijo de Link:** el Escudo Hyliano, con el ave de alas abiertas y la Trifuerza (nº10 y el modelo de Sketchfab del punto 3). ✅ De niño lleva el escudo Deku, de madera (nº17).
+- **Accesorio fijo de Zelda:** joya o broche con la Trifuerza (nº15, 61, 70, 77, 92). ✅
+- **Ganondorf:** pelo rojo, piel oscura, capa roja; mucho más alto que Link (nº5, 14, 58). ✅
+- Aviso de medida: en el arte de TotK nº92 hay dos Zeldas superpuestas. Sólo se pudo aislar el vestido de la espíritu.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+La luz de cada sitio está en el punto 4. Aquí, fondos de pantalla.
+
+**Oficiales:** Nintendo reparte fondos de TotK en My Nintendo Rewards: [Link](https://my.nintendo.com/rewards/d9fa9f0adc29b641), [Ganondorf](https://my.nintendo.com/rewards/f4c445a0b4c6a538), «Zelda and Link», «Construct». ⚠️ Piden cuenta y puntos; no se bajaron.
+
+**De fans mejor votados en Wallhaven** (aptos, 1920×1080 o más). ✅
+
+| Tamaño | Qué es | Autor | Favoritos | Enlace |
+|---|---|---|---|---|
+| 2559×1440 | Link y Zelda abrazados, Castillo de Hyrule detrás (BotW) | PhoenixBlood | 189 | [ver](https://wallhaven.cc/w/5dodx5) |
+| 2000×1129 | Zelda y Link con desenfoque (TotK) | bubbleboba | 177 | [ver](https://wallhaven.cc/w/3z85yy) |
+| 2000×1122 | Link y el cielo (TotK) | Rynios | 147 | [ver](https://wallhaven.cc/w/yxg9rg) |
+| 2048×1408 | Link (TotK) | Rynios | 146 | [ver](https://wallhaven.cc/w/zyo68g) |
+| 4000×2500 | Zelda (BotW, TotK) | Owl279 | 138 | [ver](https://wallhaven.cc/w/6dz5p6) |
+
+**Otros fondos en las hojas:**
+- Tapiz dorado con dibujo rojo, archivo «Zelda 10000 years ago» (nº109) y nº33. Sirve de fondo con textura.
+- Canal de Wii U de BotW, dorado (nº88).
+- Barco del Rey de los Leones Rojos en el mar (nº116) para una lámina *Wind Waker*.
+
+## 17 · Guía para IA de imagen y de texto
+
+Todo sale de los puntos anteriores. Nada nuevo inventado.
+
+### IA de imagen (Firefly, Canva)
+
+**Regla de oro: una época por imagen.** O pictórico BotW/TotK, o dibujo animado *Wind Waker*. Mezclarlas se lee como error (punto 12).
+Consejo del redactor: no escribas marcas («Nintendo», «Zelda»). Describe los rasgos.
+
+**Rasgos que nunca cambian:**
+- **Link:** chico joven, rubio, orejas largas y puntiagudas. Túnica verde `#119E1A` con gorro verde puntiagudo, o Túnica del Campeón azul `#277AAF` sin gorro. Cinturón y botas de cuero marrón `#AC5614`. Espada con guarda en alas; escudo con un ave de alas abiertas.
+- **Zelda:** joven rubia, porte tranquilo. Joya o bordado con tres triángulos dorados. BotW: traje de exploradora azul petróleo `#274249`. Vestido de gala: marfil `#EEE4AA` con bordado dorado `#D99936`.
+- **Ganondorf:** hombre enorme, piel oscura `#733511`, pelo rojo, armadura oscura `#1E120A`, capa roja `#C0361F`.
+
+**Paleta por sitio** (medida en fotogramas):
+- Pradera: `#7ba688`, `#80ad8c`. Cielo de TotK: `#7b8e95`, nubes `#f6f5db`.
+- Haz de la Espada: `#f6f9cb`. Castillo tomado por Ganon: `#4a1833`, `#412030`.
+- Verde Zonai de TotK: `#7FF1D7`.
+
+**Línea y sombreado:**
+- **BotW/TotK:** sin contorno negro. Pintura tipo gouache, al aire libre. Sombras suaves, pinceladas visibles.
+- ***Wind Waker*:** sombreado plano en 2 o 3 bandas. Contorno oscuro. Ojos grandes y caras muy expresivas.
+
+**Luz y encuadre:**
+- Exteriores: hora dorada, contraluz cálido.
+- Templos y Ganon: luz fría azul, penumbra; la luz sale del enemigo o de la espada.
+- La Espada Maestra: un haz de luz desde arriba.
+- Plano general con Link de espaldas o de perfil mirando el paisaje. Contrapicado para Ganon. Primer plano quieto de perfil para la tristeza.
+
+**Palabras que ayudan** (en inglés, que es como mejor responden):
+`painterly gouache illustration`, `plein air landscape`, `soft watercolor shading`, `golden hour backlight`, `ancient stone ruins`, `pointed elf ears`, `green tunic and pointed cap`, `mint green glowing glyphs`, `cel shaded, flat two-tone shadows` (sólo para *Wind Waker*).
+
+**Palabras que lo estropean:**
+`anime`, `chibi`, `photorealistic`, `glossy 3D render`, `neon`, `cyberpunk`, `white speech bubble`, `sweat drop`, `manga screentone` (salvo que imites el manga).
+
+**Imágenes de referencia:**
+- Estilo pictórico: nº75 (Link disparando), nº85 y nº92 (Zelda), fondo [5dodx5](https://wallhaven.cc/w/5dodx5).
+- Estilo *Wind Waker*: nº41, nº59, nº60 y nº116.
+- Poses: la tabla del punto 14.
+- Color de sitio: los fotogramas del punto 4.
+
+**Vocabulario de gestos** (Zelda no es anime: no hay gotas de sudor ni fondos de emoción):
+- Tristeza: perfil quieto, una lágrima, mirada baja.
+- Alerta: mirada por encima del hombro, cejas tensas.
+- Determinación: cejas fruncidas, mirada fija, espada a punto.
+- Explicar con calma: objeto en las dos manos, mirada baja y suave.
+- Presentar: de frente, manos juntas delante.
+- Alegría: sólo en *Wind Waker*, que sí exagera caras. ⚠️ Sin fotograma propio.
+
+### IA de texto
+
+**Link no habla.** Como mucho un grito de esfuerzo: «¡Hyaaa!». Nunca un párrafo. Si hay que «darle voz», que la ponga otro o que sea un gesto.
+
+**Zelda (Jessica Ángeles).** Tutea a Link. Trata de «ustedes» al grupo («Lleven», «Dense prisa»). Registro algo formal («Ruego que me digas»). Empieza firme y sube a exclamación. Usa ¿? y ¡! dobles.
+Frases **reales** por emoción:
+- **Alegre, entusiasta:** «¿Serías un candidato ideal? ¡Pruébalo! ¡Por la ciencia!»
+- **Enfadada, firme:** «Ya te dije que hoy no necesito escolta. […] La decisión es mía y no requiero de tu protección.»
+- **Triste:** «Ruego que me digas, ¿qué es lo que estoy haciendo mal?»
+- **Triste, culpa:** «No pude detener a Ganon y me arrebató lo único que nos protegía de él.»
+- **Urgencia, mando:** «Lleven a Link al santuario de la vida. […] Dense prisa o morirá.»
+
+**Revali (Enzo Fortuny).** Presumido. Frases cortas que acaban alabándose.
+- **Explicando:** «He perfeccionado la técnica de crear corrientes de aire ascendentes.»
+- **Animando (a su manera):** «Con todos mis talentos, estoy seguro de que podremos derrotar a Ganon sin mayores dificultades.»
+- **Presumiendo:** «Impresionante, ¿no? No hacen falta alas para apreciar tal proeza.»
+
+**Ganondorf.** Frases cortas y con autoridad. ⚠️ Sin frase latina textual; no inventarle una.
+
+**Frases de juego sin versión latina comprobada** (van en inglés o se avisa): «It's dangerous to go alone! Take this!», «Hey! Listen!», «It's a secret to everybody», «Well excuuuuuse me, Princess!», «I am Error».
+
+**Vocabulario de la serie:** Hyrule (se dice «Irule»), hylianos («ilianos»), Hylia («Ília»), Trifuerza, Espada Maestra, rupias, corazones, santuario, Sheikah, Purah Pad, Korok y sus semillas, Zora, Goron, Gerudo, Zonai, Guardianes, Bestias Divinas, Campeones, Sabios, Malicia.
+
+**Formato del texto en pantalla:** en BotW, texto blanco centrado en la cápsula, nombre arriba a la izquierda, ▽ al final. En TotK, frase corta flotando en verde menta. Una idea por caja.
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+Zelda **cambia de estilo en cada época, a propósito**. No hay un solo «look Zelda».
+
+**Por época:**
+- **8 y 16 bits (1986-1993):** píxel, 4 a 16 colores por sprite.
+- **N64 (OoT, MM):** pocos polígonos, texturas pintadas a mano en baja resolución.
+- ***The Wind Waker* (2002): dibujo animado (cel-shading) a propósito.** Se le ocultó a Miyamoto al principio; al verlo dudó, pero lo aceptó ([Nintendo Life](https://www.nintendolife.com/news/2022/06/miyamoto-wasnt-a-fan-of-the-art-style-in-zelda-wind-waker-when-he-first-saw-it1), [Zelda Dungeon](https://www.zeldadungeon.net/the-wind-wakers-visual-style-kept-secret-from-miyamoto/)). ✅ El diseñador Satoru Takizawa dijo que así se entendían mejor los puzles. ✅
+- ***Twilight Princess* (2006):** vuelta a lo semirrealista y más oscuro. ⚠️
+- ***Skyward Sword* (2011): impresionista.** Miyamoto lo llamó «una pintura en movimiento». Cielo y montañas inspirados en **Cézanne**; lo lejano, borroso y redondeado ([Zelda Universe](https://zeldauniverse.net/2010/06/15/skyward-swords-visuals-impressionistic/), [WhatCulture](https://whatculture.com/gaming/art-perspective-skyward-sword)). ✅
+- **BotW y TotK (2017, 2023): pictórico.** Aonuma: gouache y pintura *en plein air*. Takizawa usó el **periodo Jōmon** japonés para las civilizaciones antiguas y «contrajo la realidad»: quitar lo aburrido para guiar la vista. El HD de *Wind Waker* fue el puente ([NintendoEverything](https://nintendoeverything.com/zelda-breath-of-the-wild-art-director-on-how-the-wind-waker-hd-shaped-the-games-art-style/)). ✅
+- `estilo.py` marca el arte de BotW, TotK y ALBW como «sombreado degradado, pintado». ✅
+
+**Programas y motor:**
+- Motor propio de Nintendo EPD, que los *modders* llaman «KingSystem». ⚠️
+- Autodesk Maya para animación y cinemáticas. ✅
+- Havok para físicas: muñeco de trapo, choques, tela ([ZeldaMods](https://zeldamods.org/wiki/Overview)). ✅
+- Sin pruebas de Clip Studio o Toon Boom: Zelda es 3D. ⚠️
+
+**Cómo hacerlo en Blender:**
+- **Sombreado en bandas (*Wind Waker*):** `Shader to RGB` tras el BSDF, luego `Color Ramp` en **Constant**. Dos paradas = dos tonos; tres = tono medio ([BlenderNation](https://www.blendernation.com/2020/02/06/how-to-make-a-toon-shader-with-dynamic-outlines/)). ✅
+- **Contorno (*Wind Waker*, manga):** casco invertido. Modificador `Solidify` fino, `Flip Normals`, material negro con `Backface Culling` ([rogodigital](https://rogodigital.design/tutorials/create-a-cartoon-outline-for-any-object/)). ✅ Otras vías: Grease Pencil → Line Art, o Freestyle.
+- **Look BotW/TotK:** **sin contorno**. Un Sun fuerte y un entorno pálido. Oclusión ambiental suave. Textura de papel en *Overlay* a baja opacidad en composición. Bloom suave en Eevee.
+- **Luz:** hora dorada en la pradera; azul frío y contraluz en templos y con Ganon.
+- **Modelos libres:** los del punto 3 (espada, escudo, Trifuerza, Korok, castillo, Kakariko). No hay *rig* libre de los personajes en las partes. ⚠️
+
+**Cómo hacerlo en Photoshop** (capas de abajo arriba):
+1. Color plano (Normal).
+2. Sombra en 1 o 2 bandas (Multiplicar, 60-80 %, **sin degradado** para *Wind Waker*).
+3. Luz (Trama u Superponer donde da el sol).
+4. Contorno de 2-3 px en gris muy oscuro, no negro puro.
+5. Papel o lienzo (Superponer, 10-20 %).
+6. Grano suave y viñeta (Camera Raw) al final.
+- **Pinceles:** gouache o acuarela con borde de papel para BotW y *Skyward Sword* (los de Kyle T. Webster vienen con Photoshop). Pincel duro redondo con alfa bloqueado para *Wind Waker*.
+- Máscaras de recorte sobre la línea para que el color no se salga.
+
+**Encuadres:** plano general con Link de espaldas o de perfil mirando el mundo. Contrapicado para Ganon. ⚠️ de visionado general; los minutos concretos están en los puntos 2 y 14.
+
+## 19 · Texturas 2D
+
+**Trama de manga vista en la obra:** página con puntos grises y línea negra, hoja nº86 ([imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9f/Zelda_from_Mirage_Castle%27s_Battle.jpg)). ✅ Probablemente del manga de Himekawa. ⚠️
+
+**Tramas libres:**
+- [FREE Manga Screentone Pack 1](https://assets.clip-studio.com/en-us/detail?id=2142037), tienda oficial de Clip Studio, gratis. ✅
+- [Otro pack de tramas gratis](https://assets.clip-studio.com/en-us/detail?id=1796674). ⚠️
+
+**Pinceladas** (BotW y TotK son gouache digital):
+- [33 pinceles de acrílico y gouache](https://resourceflix.com/product/free-33-acrylic-and-gouache-brushes-for-photoshop/), gratis. ⚠️
+- [Gouache en Brusheezy](https://www.brusheezy.com/free/photoshop-gouache). ⚠️ La licencia cambia en cada pincel: revisar.
+
+**Papel, cuero, madera, piedra y malla:** las cinco texturas CC0 de ambientCG del punto 4. ✅
+
+**Emblemas** (guía de trazo; son marcas de Nintendo, no se redistribuyen como oficiales):
+- **Trifuerza:** hoja nº76 y nº96; [render de los fragmentos](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/50/TWWHD_Triforce_Shards_Render.png/revision/latest?cb=20200126201224). ✅
+- **Cresta Hyliana:** [imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d5/Hylian_Symbol.png/revision/latest?cb=20100620041413). ✅
+- **Ojo Sheikah:** hoja nº104, [imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/dd/BotW_Crest_of_the_Sheikah_Symbol.png/revision/latest?cb=20160505151000) (807×747). ✅
+- Vectores SVG libres para calcar: [Ojo Sheikah](https://www.svgrepo.com/svg/321355/sheikah-eye), [Trifuerza](https://www.svgrepo.com/svg/323529/triforce). ⚠️
+- **Patrón de ropa:** el tapiz dorado con dibujo rojo (nº109) y los bordados dorados `#D99936` del vestido de Zelda.
