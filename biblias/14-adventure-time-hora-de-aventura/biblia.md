@@ -279,8 +279,12 @@ francés**: vale para la imagen, no para frases):
 - **0:42-1:06**: el Rey Helado toca **una batería verde con un «#1» en el
   bombo**; Marceline, sentada, **toca el bajo con cara seria** ✅
   ([`?t=42`](https://www.dailymotion.com/video/xzt1l7?t=42)).
-- **1:18**: **una sola lágrima**, la cabeza hacia atrás, dientes
-  apretados ✅ ([`?t=78`](https://www.dailymotion.com/video/xzt1l7?t=78)).
+- **≈1:18**: **una sola lágrima**, la cabeza hacia atrás, dientes
+  apretados, cantando a dúo con Simon ([`?t=78`](https://www.dailymotion.com/video/xzt1l7?t=78)).
+  ⚠️ Las dos partes no coinciden en este segundo: la de voz ve aquí la
+  lágrima; la de vídeo ve en 1:18 a **Finn y Jake escuchando por la
+  ventana** (con antifaces de dormir en la cabeza). Están a pocos
+  segundos: mirar de 1:12 a 1:24.
 - **1:36**: primer plano de **una foto Polaroid** de Marceline niña.
   **Corrección**: además de las notas de Simón, en la escena hay **una
   foto** ✅ ([`?t=96`](https://www.dailymotion.com/video/xzt1l7?t=96)).
