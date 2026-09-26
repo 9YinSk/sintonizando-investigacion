@@ -372,3 +372,41 @@ Poses de vídeo con minuto (mirado con `fotogramas.py`) ✅, más poses de las h
 
 **Por uso**: presentar = Rex nº 105 o Bobo en su retrato; explicar = Rex 0:33 o nº 24; celebrar = Rex 0:04; regañar = Six 0:06; pensar = Bobo 0:26; animar = Bobo 1:00 o Rex 0:09.
 
+## 15 · Vestuario con hex medidos
+
+Medido con Pillow en zonas limpias de tela (sin línea) de los retratos oficiales de la wiki, 333×250. Son tonos base del color plano de la serie, no Pantone ✅ medido.
+
+| Personaje | Prenda | Hex | Nota |
+|---|---|---|---|
+| Rex | chamarra roja (la icónica) | `#A04D47` | lado en sombra `#8A4541` (redactor) |
+| Rex | camiseta, mitad de arriba | `#394B45` | verde petróleo; el redactor midió `#2B4D45` en otra zona |
+| Rex | piel | `#BB926D` | medido por el redactor |
+| Six | traje | `#3F4C43` | el redactor midió `#3D5644` en la solapa: verde botella |
+| Six | corbata | `#3F3F3F` | negra |
+| Six | camisa | `#E7E7E5` | blanca, medido por el redactor |
+| Bobo | camisa o chaleco caqui | `#838370` | el redactor midió `#838471` |
+| Bobo | franja central | `#495D68` | azul-gris |
+| Bobo | fez | `#5C3B44` | granate en sombra, borla negra (redactor) |
+| Van Kleiss | capa | `#140D07` | negra |
+| Van Kleiss | cuello y hombreras | `#736B58` | oliva-mostaza |
+| Caballero Blanco | abrigo | `#E5E5E4` | blanco roto |
+| Caballero Blanco | cuello alto | `#050504` | negro puro |
+| Circe | peto | `#56262A` | rojo oscuro en sombra |
+| Circe | top | `#838694` | gris azulado |
+| Circe | guantes y botas | `#554E43` | tostado |
+
+**Rex completo** (ficha de la wiki, en inglés, y visto en el retrato) ✅:
+- piel morena, pelo negro liso hacia atrás y en punta, ojos cafés;
+- **chamarra roja-naranja** de cuello alto, con **parches naranjas** en la manga;
+- camiseta de dos colores: arriba verde petróleo con **dos rectángulos naranjas**, abajo **blanca**;
+- pantalón negro con **dibujos geométricos azules que brillan** cuando usa sus poderes;
+- guantes azules con puños naranjas; zapatos azul-negro;
+- **goggles de lente naranja**, casi siempre sobre la cabeza.
+- **Por temporada**: la chamarra no cambia en las tres temporadas (capturas 101 a 320). Trajes puntuales: traje de sigilo oscuro (nº 45).
+
+**Six**: pelo castaño oscuro corto, gafas oscuras de cristal verdoso, perilla, traje verde, camisa blanca, corbata negra, katanas a la espalda ✅.
+**Bobo**: pelaje castaño, cara gris lavanda, **fez granate con borla negra**, **parche negro en el ojo izquierdo**, camisa caqui con franja azul-gris, brazalete azul, correas marrones, dos pistolas ✅ visto en el retrato y en nº 28.
+**Caballero Blanco**: además del abrigo, un **traje de combate** blindado gris (nº 109).
+**Circe**: pelo negro con mechas rojas; antes, negro con morado (cambia en la 2.ª temporada) ✅ ficha.
+**Lo icónico**: la chamarra roja con los goggles de Rex; el traje verde con gafas de Six; el fez con parche de Bobo.
+

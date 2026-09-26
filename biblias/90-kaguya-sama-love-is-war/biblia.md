@@ -254,3 +254,41 @@ Kobachi, Moeha, Toyomi, Karen Kino y el padre de Shirogane, en
 (1057×1500), con el título en un **sello rojo** de revista sensacionalista
 (punto 5) ✅.
 
+## Punto 2 · Escenas icónicas del episodio 2, con minuto
+
+Las escenas de los episodios 1 y 3 (cartela del resultado, baile de Chika,
+fondo a cuadros) están en la biblia 43, punto 2. Aquí, el **episodio 2**
+entero: [Internet Archive, `kaguya-sama_202403`](https://archive.org/details/kaguya-sama_202403),
+[archivo directo](https://archive.org/download/kaguya-sama_202403/Kaguya%20Sama%20Love%20is%20War/SEASON%201/02.mkv)
+(1280×720; ⚠️ no es 1080p). La parte de vídeo lo vio con `fotogramas.py`
+(180 fotogramas cada 8 s) y el redactor volvió a cada minuto. Todo ✅ visto
+dos veces salvo lo marcado.
+
+| Minuto | Qué pasa | Por qué sirve (hoja) |
+|---|---|---|
+| 0:56 | Opening: Kaguya y Shirogane casi se besan, corazón rojo entre ellos | Tono del romance (`poses_03` #1) |
+| 1:12 | Logo del anime: mincho carmesí, 告 en un corazón, corazones rosa | Logo real (`rotulos_02` #1) |
+| 3:44 | **«生徒会長»** en letras de oro 3D con relieve, rayos y chispas blancas sobre negro | El rótulo-epopeya; con fanfarria (`rotulos_02` #2) |
+| 3:52 | Shirogane serio, de frente, tras su título | Presentar (`poses_03` #2) |
+| 6:48 | Chika con un **móvil rosa** y corazones flotando | Chat y memes (`poses_03` #3) |
+| 7:12 | **Burbuja de chat** «あなたといつでもお話がしたい» junto a unos pies | Cuadro del chat (`rotulos_02` #3) |
+| 7:24 | Kaguya sonrojada, ojos en espiral roja, rayas verticales detrás | Vergüenza (`poses_03` #5) |
+| 10:00 | Kaguya de excursión, mochila naranja, Chika detrás, montaña | Sitio luminoso (`poses_03` #7) |
+| 11:04 | **«海VS山!!»**: «mar» azul contra «montaña» verde, rayos rojos | Título de combate (`rotulos_02` #4) |
+| 11:52 | Ficha vertical **«備考：カナヅチ»** («nota: no sabe nadar») con martillos | Nota burlona (`rotulos_02` #5) |
+| 13:04 | Fantasía: Shirogane se ahoga; delante, él mismo aterrado en azul | Remate del gag (`rotulos_02` #6) |
+| 15:12 | **«本日の勝敗»** corto, sobre la fachada de Shuchi'in y cielo azul | Marcador intermedio (`rotulos_02` #7) |
+| 15:52-16:00 | **«備考：童貞»** («nota: virgen») sobre damero blanco y negro y el ojo sudado de Shirogane | El chiste del episodio (`rotulos_02` #9) |
+| 16:32 | **«かしわぎさん»** escrito a mano junto a Nagisa sonrojada, con trama de puntos | Etiqueta de nombre (`rotulos_02` #10) |
+| 17:04 | Un ojo rojo de Kaguya espiando tras la puerta | Espiar (`poses_03` #11) |
+| 17:20 | Tsubasa con **«ハッ»** rojo y destello | Onomatopeya (`rotulos_02` #11) |
+| 19:56 | Shirogane con el puño, fondo verde de «héroe» en velocidad | Consejo «épico» (`rotulos_02` #13) |
+| 20:00 | Tsubasa tiembla con **«ワナワナ»** azul | Onomatopeya del temblor (`rotulos_02` #12) |
+| 22:14 | Kaguya sirve el té entre destellos a Shirogane | Final amable (`poses_03` #20) |
+| 22:24 | **«本日の勝敗»** largo: «特に悪くなかったかぐやの機嫌を悪くして直して大分無駄骨を折った / 白銀の一人負け» («Shirogane pierde él solo»), Kaguya de pie en la sala | Marcador con texto narrativo (`rotulos_02` #16) |
+| 22:42 | Ending: los dos entre constelaciones, créditos a la derecha | Ending que cambia (`poses_03` #21) |
+| 23:40 | Ending: aeroplano antiguo; Kaguya de blanco con alas | Idem (`poses_03` #22) |
+
+Los minutos 15:44-16:08 y 22:24 de la parte de vídeo cuadran; los de 7:12,
+13:04, 14:16, 16:24-16:40, 17:20, 19:20 y 20:00-20:08 se corrigieron (§3).
+

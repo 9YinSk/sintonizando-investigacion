@@ -764,3 +764,83 @@ Alturas de la wiki, que cita los Ultimania oficiales. Cumpleaños de la página 
 
 ⚠️ Faltan comentarios con más votos bajo los vídeos de reacción: YouTube pedía sesión.
 
+## 22 · Fandubs y comunidad hispana
+
+Sin doblaje oficial, los fans hispanos lo doblan ellos. Esto le interesa mucho al servidor.
+
+- **Voice Emotions (España):** doblaron al castellano las escenas principales de Remake. Más de 50 actores, 3 años de trabajo, 9 horas de trama. Vídeo semanal y un mod para meter el doblaje en el juego, sin misiones secundarias ni sonidos de combate ([Vandal](https://vandal.elespanol.com/noticia/1350765060/asi-suena-el-espectacular-doblaje-al-espanol-hecho-por-unos-fans-de-final-fantasy-vii-remake/), [SomosXbox](https://www.somosxbox.com/final-fantasy-vii-remake-cuenta-con-doblaje-al-espanol-hecho-por-fans-un-proyecto-de-la-comunidad-que-da-forma-a-un-sueno/)) ✅.
+- **Canal «Fandub Latino»:** «Final Fantasy VII ReBirth (Fandub Latino)», 22-sep-2023, 117 vistas ([YouTube](https://www.youtube.com/watch?v=gjgVcjKB3vk)) ⚠️.
+- **Duxa7iva:** «La Muerte De Aerith En Español, Escena Completa», de Rebirth, 9-mar-2024, 8008 vistas ([YouTube](https://www.youtube.com/watch?v=Zc2B_yuHzX0)) ⚠️.
+- **Reparto soñado en Doblaje Wiki:** un usuario propone su reparto latino para Remake ([blog](https://doblaje.fandom.com/es/wiki/Usuario_Blog:Alquimista_Aventurero/Propuesta_de_Doblaje:_Final_Fantasy_VII_Remake)) ⚠️ no oficial. La comunidad latina lo sigue y lo quiere doblado.
+- **En Internet Archive hay audio en español:** el pódcast «El Complejo Lambda» dedicó un episodio a Remake ([archivo](https://archive.org/details/cl-13x-19-el-complejo-lambda_202005)) ⚠️ sólo el título, no escuchado.
+- ⚠️ **No encontré** covers en español ni parodias hispanas de TikTok. FFVII no tiene opening cantado: el fandom hispano dobla escenas más que canciones.
+- **Idea para el servidor:** es la saga perfecta para un reto de fandub. Las escenas más dobladas por fans son la muerte de Aerith y los diálogos de Remake.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+**En otros juegos** ✅ (página «Collaboration» de la wiki)
+- **Super Smash Bros.:** Cloud luchador desde 2016, con la Buster Sword y el Omnislash. Sephiroth llega a Ultimate en 2021. Arte de Nomura, 1777×2500 (nº 78). [Imagen](https://static.wikia.nocookie.net/finalfantasy/images/8/8f/Super_Smash_Bros._Tetsuya_Nomura.jpg)
+- **Street Fighter 6:** Tifa como colaboración, arte promocional 1500×1383 (nº 122). [Imagen](https://static.wikia.nocookie.net/finalfantasy/images/4/47/Tifa_Lockhart_from_Street_Fighter_6_promo_art.jpg)
+- **Dissidia:** Cloud y Sephiroth desde 2008; Tifa en NT.
+- **LittleBigPlanet 2:** disfraz de Sephiroth para Sackboy, 1920×1200 (nº 118). [Imagen](https://static.wikia.nocookie.net/finalfantasy/images/1/1a/Lbp2_ffvii_sephiroth.jpg)
+- **Dragon Quest Tact (Japón):** Sephiroth de jefe, Cloud de héroe, Aerith de princesa ⚠️ sin imagen.
+- **Kingdom Hearts:** Cloud y Sephiroth aparecen; el Cloud de KH2 con la Buster Sword es el nº 57.
+
+**Dentro de Ever Crisis** (cada una trae ropa y poses nuevas) ✅
+- × FFIX (nov. 2023): Cloud de Zidane, Tifa de Amarant, Aerith de Garnet, Sephiroth de Kuja. [Imagen](https://static.wikia.nocookie.net/finalfantasy/images/d/da/Zidane%27s_Outfit_set_from_FFVIIEC.png)
+- × Monster Hunter (jun. 2024): armaduras de Glavenus, Zinogre y Kirin. [Imagen](https://static.wikia.nocookie.net/finalfantasy/images/f/f9/Glavenus_Armor_set_from_FFVIIEC.png)
+- × FFVI (oct.-dic. 2024): Cloud de Locke, Aerith de Terra, Tifa de Sabin, Sephiroth de Edgar.
+- × FFXIII (nov. 2025): Tifa y Aerith con uniforme de la Guardia de Cocoon. [Imagen](https://static.wikia.nocookie.net/finalfantasy/images/8/8a/Guardian_Corps_Uniform_%28Tifa%29_set_from_FFVIIEC.png)
+- × NieR (nov. 2025): **Tifa de 2B**, Cloud de 9S, Aerith de Kainé, Sephiroth de Nier. [Imagen](https://static.wikia.nocookie.net/finalfantasy/images/a/a0/Battler_Ensemble_set_from_FFVIIEC.png) · Fondos de las dos últimas: nº 113 y 114.
+
+**Figuras oficiales** (su pose es una referencia 3D real) ✅
+- Play Arts (2007): Cloud con la Buster Sword, Tifa y Aerith con su vara.
+- Play Arts Kai: Cloud con las Fusion Swords desmontables, 800×800. [Imagen](https://static.wikia.nocookie.net/finalfantasy/images/9/96/ACFFVII-Play-Arts-Kai-Cloud-Swords.jpg)
+- Play Arts Kai «Shin» de Cloud para Rebirth (2025), 640×640.
+- Estatua «Masterline» de Aerith, anuncio «coming soon», 3840×2160 (nº 36) ⚠️ fabricante no anotado en las partes.
+
+**Cosplay con licencia libre** (Flickr por Openverse)
+- Tifa en Saboten-Con, de kevin dooley, CC BY 2.0: falda de cuero con volumen real y guantes con relieve. [Foto](https://live.staticflickr.com/2688/4074334035_a198336231_b.jpg) ✅
+- Aerith en Anime Expo 2015, de Eras Photography, CC BY 2.0: la trenza con el lazo en pelo real. [Foto](https://live.staticflickr.com/732/20700047449_1f210eccdb_b.jpg) ✅
+- Yuffie de Stella Chuu, CC BY-NC-ND 2.0: sólo mirar, no calcar. [Foto](https://live.staticflickr.com/598/21282563498_7d538ce52c_b.jpg) ⚠️
+- Briana White, la voz inglesa de Aerith, en cosplay de Aerith con un ramo amarillo, 2048×1366 (nº 89).
+
+**No encontré** ⚠️: cafés temáticos propios de FFVII fuera de Japón, colaboración con Fortnite o marcas de ropa como Uniqlo, Vans o Gap.
+
+## 24 · Obras parecidas y temas relacionados
+
+- **Influencias del productor:** Sakaguchi dice que se inspiró mucho en Final Fantasy VI. De niño hacía maquetas de Gundam y se preguntaba cómo sería caminar por un mundo de maquetas: la semilla de los fondos en miniatura ([Inverse](https://www.inverse.com/gaming/hironobu-sakaguchi-interview-final-fantasy-fantasian)) ⚠️ una entrevista.
+- **Juegos parecidos:** Xenogears y Chrono Trigger (Squaresoft, misma época), NieR: Automata (mundo industrial en ruinas), Xenoblade, Xenosaga y Persona 3 Reload ([GamesRadar+](https://www.gamesradar.com/games-like-final-fantasy/), [iRankGames](https://irankgames.com/en/games-like/final-fantasy-vii/)) ✅.
+- **Kingdom Hearts:** mismo diseñador, Nomura. Cremalleras, cinturones y armas enormes en las dos ([wiki](https://finalfantasy.fandom.com/wiki/Tetsuya_Nomura)) ✅.
+
+**Otras láminas del servidor que se le parecen** (para no repetir ideas)
+- **Cyberpunk Edgerunners** ya tiene un bar: «La carta del Afterlife». Aquí el bar de Tifa va en las **botellas**, no en una carta.
+- **Zelda** ya usa una espada que espera dueño para #castings. Aquí **no** se usa la Buster Sword para #castings.
+- **Elden Ring** usa #a-que-juegas con una mesa y pergaminos, y #reto-de-la-semana con un estandarte. Aquí van botellas y un expediente.
+- La parte de texto decía que no había otros videojuegos en `biblias/`. No es así: hay Elden Ring, Zelda, God of War, Tomb Raider y otros. Se corrige aquí.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Reglas del mundo en cinco líneas**
+1. El planeta vive de la **Corriente Vital** (Lifestream): energía de las almas que fluye bajo tierra.
+2. **Shinra** la extrae en reactores y la vende como **Mako**, la electricidad del mundo.
+3. La **Materia** es Corriente Vital cristalizada: cada orbe de color guarda un poder.
+4. Los **Cetra** oían al planeta; casi todos murieron. Aerith es la última.
+5. **Jenova**, un ser del espacio, es la amenaza que Shinra desenterró.
+
+**La historia por arcos**
+1. **Midgar:** Cloud entra en AVALANCHE, que vuela reactores. Conoce a Barret, Tifa y Aerith. Cae la placa del Sector 7. Sephiroth mata al presidente Shinra. Huyen de la ciudad.
+2. **El viaje:** persiguen a Sephiroth por el mundo. Muere Aerith en la Ciudad Olvidada. Cloud se rompe al saber que es un experimento con Jenova, y el grupo lo reconstruye.
+3. **El Cráter Norte:** detienen a Sephiroth y el meteoro. La Corriente Vital salva el planeta. En el remake, esto lo cierra Revelation (2027).
+4. **Después:** Advent Children (Geostigma, dos años más tarde), Dirge of Cerberus (Vincent) y Crisis Core (la precuela de Zack).
+
+**Emblemas y objetos icónicos**
+- **Logo de Shinra:** rombo rojo #B10711 con 神羅.
+- **La Buster Sword** de Cloud, heredada de Zack. **La Masamune** de Sephiroth. **El brazo-arma** de Barret.
+- **La Materia** por colores. **La Materia Blanca** en el lazo de Aerith.
+- **Las flores** de Aerith: amarillas en Remake (nº 133), en su iglesia y en su cesta (nº 82).
+- **Los chocobos**, monturas y carreras. **El Highwind**, el dirigible. **La moto** de Cloud (nº 67 y 140).
+- **La placa de Midgar**, «la gran pizza en el cielo».
+
+**Vocabulario que un fan reconoce al instante:** Mako, Materia, Lifestream o Corriente Vital, SOLDIER, Turks, Cetra o Ancianos, Jenova, Geostigma, Shinra, AVALANCHE, Chocobo, Gil, Limit Break, Highwind, Sector ✅ (wiki y Wikipedia).
+
