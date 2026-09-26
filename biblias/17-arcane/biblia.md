@@ -531,17 +531,19 @@ texto **sí aparece sobre objetos del mundo**:
 | **Planos Hextech** | Papel sepia, lápiz, **círculos de runas**, escritura inventada (R1). El libro de arte trae «un plano del mundo» | ✅ |
 | **Mural de los Firelights** | 1×07, retratos pintados de los muertos, uno a medio pintar | ✅ |
 | **Pintura azul de los Jinxers** | 2×04: pelo azul, caras pintadas en las paredes | ✅ |
+| **Cartelas de acto** | Cada temporada va en 3 actos, con su cartela de texto sobria, en mayúsculas, sobre el arte del episodio | ✅ que existen; la letra exacta ⚠️ (§6.1) |
+| **Proyecciones del Núcleo Hex** | Hologramas azules de líneas finas y texto pequeño, como un HUD | ⚠️ descrito por la parte de texto; sin hex medido |
 
 ### 7.2 Cómo habla cada uno
 
 | Quién | Cómo habla | Ejemplo con fuente |
 |---|---|---|
-| **Jinx** | Cantarina, burlona, cambia de golpe a rabia o a miedo. Alarga palabras | En 2XKO, a Ekko: «That's because everyone else you know is **BOOORIIING!**» (traducción mía: «¡Porque todos los demás que conoces son **ABUUURRIIIDOS**!») ⚠️ ([YouTube, interacciones de 2XKO](https://www.youtube.com/watch?v=vhN1FXwwoEY), [2XKO Wiki](https://wiki.play2xko.com/en-us/Jinx/Audio)); en latino, a Vi en 1×09: «**Mira, traje a tu novia**» ⚠️ (sólo Doblaje Wiki, vía buscador) |
+| **Jinx** | Cantarina, burlona, cambia de golpe a rabia o a miedo. Alarga palabras | En 2XKO, a Ekko: «That's because everyone else you know is **BOOORIIING!**» (traducción mía: «¡Porque todos los demás que conoces son **ABUUURRIIIDOS**!») ⚠️ ([YouTube, interacciones de 2XKO](https://www.youtube.com/watch?v=vhN1FXwwoEY), [2XKO Wiki](https://wiki.play2xko.com/en-us/Jinx/Audio)); en latino, a Vi en 1×09: «**Mira, traje a tu novia**» ⚠️ (Doblaje Wiki, leído por la API en la segunda pasada: una fuente) |
 | **Vi** | Seca, sarcástica, de calle. Llama a Caitlyn «cupcake» | En latino: «**Bombón**» en la T1 y «**Pastelito**» en la T2; en 1×08 «It's been real, cupcake» → «**Fue un placer, cariño**» ✅ (Doblaje Wiki, vía buscador y vía la guía de cuadros, `biblias/_ya_hechas/`, §22) |
 | **Jayce** | De discurso, idealista, entusiasta | 1×03: no es la era de la magia, «**es la era de la Hextech**» ✅ ([The Review Geek](https://www.thereviewgeek.com/arcane-s1e3review/)) |
 | **Viktor** | Tranquilo, preciso, práctico; acento de Europa del Este en inglés | 1×03: le habla a Jayce del «sueño Hextech»; Jayce le corrige: «**nuestro** sueño» ✅ |
-| **Silco** | Suave, lento, amenazante; cada palabra pesa | 1×09, a Jinx, herido: «I never would have given you to them» y sus últimas palabras, «**You're perfect**». La primera la cita el buscador; la segunda es de memoria ⚠️. **Cómo lo dice el doblaje latino: no lo encontré** ( [Looper](https://www.looper.com/761753/the-most-heartbreaking-jinx-moment-from-arcane/), [Game Rant](https://gamerant.com/arcane-silco-perfect-villain/)) |
-| **Ekko** | Líder joven, decidido, con humor | En latino, 2×07: «**A veces, para dar un paso hacia adelante, hay que dejar algo atrás**» ⚠️ (una fuente: la guía, que cita Doblaje Wiki) |
+| **Silco** | Suave, lento, amenazante; cada palabra pesa | 1×09, a Jinx, herido: «I never would have given you to them» y sus últimas palabras, «**You're perfect**». La primera la cita el buscador ⚠️; la segunda ✅ (se repite en muchos *edits*, §18b.4). **Cómo lo dice el doblaje latino: no lo encontré** ( [Looper](https://www.looper.com/761753/the-most-heartbreaking-jinx-moment-from-arcane/), [Game Rant](https://gamerant.com/arcane-silco-perfect-villain/)) |
+| **Ekko** | Líder joven, decidido, con humor | En latino, 2×07: «**A veces, para dar un paso hacia adelante, hay que dejar algo atrás**» ⚠️ (una fuente: Doblaje Wiki, leída por la API) |
 
 ### 7.3 Cómo se traduce a una lámina fija
 
@@ -562,7 +564,19 @@ texto **sí aparece sobre objetos del mundo**:
 
 ### 7.4 En los videojuegos de la franquicia
 
-Ver §13. De sus cajas de diálogo **no encontré capturas** ⚠️.
+Ver §13. Lo nuevo de la segunda pasada:
+- ***Path of Champions*** cuenta las historias de Jinx y Vi en
+  «**cómics animados con voces**» ✅ (lo dice literal
+  [Destructoid](https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/)).
+  Su caja de texto sigue **sin captura**: YouTube pidió sesión y el
+  tráiler no está en Dailymotion ni en Internet Archive ⚠️.
+- **Los cómics de *League of Legends*** (Riot) usan **globos clásicos
+  de contorno negro**. No encontré uno centrado en Jinx, Vi o Jayce ⚠️
+  ([LoL Wiki](https://wiki.leagueoflegends.com/en-us/Universe:Arcane)).
+- ***2XKO***: su wiki lista las frases de Jinx por momento (selección,
+  intro, provocaciones, combate, especiales, *supers*, final), pero no
+  enseña cómo se ven en pantalla ⚠️
+  ([2XKO Wiki](https://wiki.play2xko.com/en-us/Jinx/Audio)).
 
 ### 7.5 Qué NO hacer con el texto
 
@@ -778,8 +792,9 @@ trauma, cálida en el cariño, §5).
 | China (Douban, Xiaomi, Huxiu) | «La popularidad de Jinx en solitario es la más alta»; «Jinx le dio prestigio a Tencent» | ✅ ([Douban](https://www.douban.com/group/topic/313961123/), [Xiaomi](https://game.xiaomi.com/viewpoint/1375999065_1638465807743_16), [Huxiu](https://m.huxiu.com/article/474375.html)) |
 | China, reacción al acto 2 de la T2 | **Viktor** recibe «montones de notas perfectas» | ⚠️ ([GamerSky](https://www.gamersky.com/news/202411/1846266.shtml)) |
 | AO3 2024 (parejas) | **Jayvik** n.º 15, **Caitvi** n.º 17 | ✅ [esports.gg](https://esports.gg/news/league-of-legends/two-arcane-pairings-breach-top-20-ships-on-ao3-for-2024/) |
-| Encuesta de IMDb | existe; resultado sin ver | ⚠️ [IMDb](https://www.imdb.com/poll/ef72fiSOfgA/) |
-| Corea | no encontré encuesta | — |
+| Encuesta de IMDb | existe; resultado sin ver (pide sesión, también en la segunda pasada) | ⚠️ [IMDb](https://www.imdb.com/poll/ef72fiSOfgA/) |
+| Corea | Busqué en coreano (`Arcane 인기 캐릭터 설문`): **no hay encuesta de personajes**. Sí hay demanda: **15,0 veces** la media de las series (marzo de 2025) | ✅ la búsqueda; [Parrot Analytics](https://tv.parrotanalytics.com/KR/arcane-netflix) |
+| Dibujos de fans ([Danbooru](https://danbooru.donmai.us/posts?tags=arcane%3A_league_of_legends), etiquetas propias de Arcane) | **Jinx** 1386 · Vi 1127 · Caitlyn 837 · Viktor 312 · Ekko de los Firelights 278 · Silco 262 · Jayce 219 · Powder 172 | ⚠️ una fuente (el recolector, 25-sep) |
 
 **Conclusión**: **Jinx** es la cara de la serie y la más querida. Detrás,
 **Vi** y **Silco**. **Viktor** subió mucho en la T2, y **Jayce+Viktor**

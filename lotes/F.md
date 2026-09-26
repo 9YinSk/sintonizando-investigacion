@@ -187,6 +187,7 @@ Cuenta: cuenta A104
 | 87-tsukimichi-moonlit-fantasy | redactor | Opus | 15 | 236 mil |
 | 88 | redactor (seguir) | Opus | 11 | 201 k |
 | 90 | redactor | Opus | 21 | 324 k |
+| 91 | imagen | Sonnet | — | — |
 
 ## En marcha (sesión reanudada 2026-09-25 ~19:55 UTC)
 
