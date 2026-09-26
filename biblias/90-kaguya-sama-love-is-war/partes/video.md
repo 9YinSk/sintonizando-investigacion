@@ -99,5 +99,6 @@ hermana en los episodios 1 y 3).
 - `fotogramas.py` sobre `ep2.mkv`: panorámica completa cada 8 s (180 fotogramas, 4 hojas de contacto) + 13 fotogramas sueltos en el segundo exacto de cada hallazgo (rótulos, poses, sitios).
 - `estilo.py` sobre 2 fotogramas propios nuevos: sendero de montaña (min. 10:00) y pasillo a contraluz (min. 21:44).
 - AnimeThemes (`api.animethemes.moe`): reintentado (dos consultas), sigue con error 522.
-- WebSearch (inglés): «Kaguya-sama text card gag analysis», «Kaguya-sama narrator captions comedy technique», «Kaguya-sama season 1 episode 2 OST track names».
+- WebSearch (inglés): «Kaguya-sama Love is War OST tracklist Kei Haneoka soundtrack album titles», «Kaguya-sama Love is War narrator text card meme tiktok trend», «Kaguya-sama text card gag analysis», «Kaguya-sama narrator captions comedy technique».
+- `curl` a Last.fm (bloqueado, «Client Challenge» de Cloudflare) y `navegar.py` sobre la misma URL (devolvió 0 caracteres): no se pudo confirmar el tracklist del OST con una fuente propia de segunda mano.
 - Vídeo de `archive.org/metadata/<id>` consultado también para: `kaguya-sama-love-is-war-2019-720p-blu-ray` (ya descartado por la biblia hermana: es la película de imagen real, confirmado de nuevo por su metadato `mediatype`), `kaguya-sama-love-is-wars-fanservice` (compilación de fan, descartada por no aportar al enfoque de comedia/rótulos de este encargo).
