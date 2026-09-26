@@ -61,5 +61,41 @@
     "que_es": "Fotograma 21:12: Light con el boli entre los dientes, mirada de locura, fondo blanco sobreexpuesto.",
     "para_que": "Fotograma icónico nuevo (no estaba en la biblia); pose 'celebrar villano' (punto 14).",
     "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia."
+  },
+  {
+    "url": "https://archive.org/download/death-note-01/Death%20Note%2001.mp4?t=972",
+    "fuente": "Internet Archive (episodio 1 completo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 16:12: el cuarto de Light de noche, azul violeta oscuro, Ryuk a contraluz.",
+    "para_que": "Paleta del cuarto medida con estilo.py: #0F1127 #030212 #1A2237 #515B6C #343D51 #8F9DA3 (punto 4).",
+    "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia de paleta, no para pegar."
+  },
+  {
+    "url": "https://archive.org/download/death-note-25/Death%20Note%2025.mp4?t=630",
+    "fuente": "Internet Archive (episodio 25 completo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 10:30: la azotea bajo la lluvia donde L habla con Light de las campanas.",
+    "para_que": "Paleta del sitio medida: #0D1027 #09081D #040214 #1A1F35 #303B52 #5C617A (punto 4).",
+    "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia de paleta."
+  },
+  {
+    "url": "https://archive.org/download/death-note-36/Death%20Note%2036.mp4?t=1255",
+    "fuente": "Internet Archive (episodio 36 completo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 20:55: el almacén Yellow Box con tiras de sol entre el polvo.",
+    "para_que": "Paleta del sitio final medida: #45423F #6F6F6D #BCB8A3 #898A86 #E2ECDC #ECD6B7 (punto 4).",
+    "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia de paleta."
+  },
+  {
+    "url": "https://archive.org/download/death-note-10/Death%20Note%2010.mp4?t=494",
+    "fuente": "Internet Archive (episodio 10 completo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 08:14: L en cuclillas sobre la silla del café, jardinera verde detrás.",
+    "para_que": "Confirma la postura exacta descrita en la biblia; paleta cálida dorado-oliva medida (punto 4 y 14).",
+    "licencia": "© Madhouse/VAP/Shūeisha. Fotograma sólo como referencia."
   }
 ]

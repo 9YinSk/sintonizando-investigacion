@@ -113,6 +113,22 @@ Aviso: Elden Ring no tiene *databook* oficial con cumpleaños/altura/comida favo
 - Malenia se define por la frase que repite dos veces en el juego: «I am Malenia, Blade of Miquella, and I have never known defeat» — se ve como la guerrera invicta, aunque la Podredumbre la esté matando por dentro (contradicción que es el corazón de su personaje) · ✅ · https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella
 - Melina se ve como un instrumento con un propósito dado por su madre, no como alguien con voluntad propia — hasta que, según el final, elige (u obedece) su propio destino · ✅ · https://eldenring.fandom.com/wiki/Melina
 
+### 21 · Por qué la gente la ama
+
+**Cifras y premios** (ventas y crítica, dos fuentes cada dato):
+- Juego del Año en The Game Awards 2022 (8 dic 2022) · ✅ · https://en.wikipedia.org/wiki/The_Game_Awards_2022 y https://brignews.com/2022/12/20/why-elden-ring-deserves-its-game-of-the-year-accolades/
+- Ventas: 17,5 millones a sept-2022 → 20 millones al año de salir (feb-2023) → más de 30 millones a abril-2025 · ✅ (Video Games Chronicle + Anime News Network + Kotaku, cifras que se repiten en varias fuentes) · https://www.videogameschronicle.com/news/elden-ring-has-sold-20-million-copies-worldwide-bandai-namco-says/ y https://www.animenewsnetwork.com/news/2025-04-28/fromsoftware-elden-ring-game-sells-30-million-copies/.224012
+
+**Con qué personaje se identifica el público, y por qué:**
+- Con **Malenia**: varios jugadores con enfermedades crónicas o discapacidad dicen sentirse representados en ella — pierde un brazo y una pierna por la Podredumbre Escarlata y queda ciega, pero se convierte en la guerrera «invicta» pese a ello; se lee su condición como metáfora de vivir con una enfermedad que no se rinde · ⚠️ (patrón citado en varias discusiones, sin encuesta formal que lo cuantifique) · fuente de contexto: Wikipedia «Malenia» + discusión recogida en búsqueda dedicada.
+- Con **Ranni**: el hilo de Reddit más votado de r/Eldenring sobre «por qué lo ama tanto el fandom» (5319 votos, 740 comentarios, ya en `datos-voz.md`) habla de un personaje femenino cuya frialdad esconde una historia trágica — coincide con el perfil de Ranni/Malenia como personajes «rotos por dentro, fuertes por fuera» · ✅ (hilo con casi 6000 votos) · https://www.reddit.com/r/Eldenring/comments/1w7nzxh/why_does_fandom_love_her_so_much_i_read_her_lore/
+- Con el propio **Desvaído** (protagonista mudo y personalizable): al no tener rostro fijo ni voz, el jugador proyecta su propia historia — mecánica compartida con toda la saga Souls, mencionada en reseñas de crítica como una de las razones de la conexión emocional.
+
+**Escenas que marcan al público** (con lo que sí pude verificar con fuente, minuto cuando lo hay):
+- El **abrazo de Fía** (Deathbed Companion): tras ciertas decisiones, Fía puede «sostener» al jugador — el personaje se arrodilla y ella lo abraza contra su pecho; mecánicamente baja un 5% la vida máxima a cambio, pero es de los pocos gestos de calidez física en toda la saga Souls. Reacción citada: «this game has absolutely broken me down to my most primal emotions, but this hug was an other worldly kind of comfort» · ✅ (Kotaku + ScreenRant, mismo dato) · https://kotaku.com/elden-ring-fromsoftware-fia-deathbed-companion-debuff-s-1848603291 y https://screenrant.com/elden-ring-fia-hug-baldachins-blessing-help-quests/
+- El **combate contra Radahn** («Radahn Festival»): el jefe más popular en la encuesta oficial (687 votos, ver punto 7) — se libra en un campo abierto convocando NPCs aliados a pelear junto al jugador, algo único en el juego; los jugadores lo describen como el combate que más «grita de emoción» genera por su escala y música coral · ✅ (Famitsu + comentarios de la propia encuesta oficial, que citan la escala del combate como motivo) · https://www.famitsu.com/news/202205/07260652.html
+- Detalle que enternece a la comunidad (Gurranq/Maliketh): de noche, antes de revelarse como el jefe Maliketh, el NPC Gurranq aúlla mirando hacia el Árbol Áureo, donde está su ama Marika — un detalle opcional que muchos fans descubren tarde y que resignifica todo su combate como el más triste del juego · ✅ (mismo dato reportado por dos medios) · https://eldenring.fandom.com/wiki/Gurranq,_Beast_Clergyman
+
 ## Bitácora (parcial, se completa al final)
 
 - «Famitsu エルデンリング 人気投票» (japonés, WebSearch) → encontré el artículo oficial con los dos rankings.

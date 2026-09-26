@@ -69,3 +69,34 @@ créditos de prensa de Netflix Latinoamérica: **cierra varios ⚠️ de §10.1*
   con el latino (ver §8 arriba, el caso Michel Tejerina era justo ese
   error).
 
+
+## 13 · Carácter, forma de hablar y cara en cada emoción
+
+> §8 de `biblia.md` ya tiene carácter y «cómo se expresa» de los 7
+> principales (con ⚠️ «de memoria» en varios). Lo que faltaba del todo era
+> la **cara en cada emoción con fotograma y minuto**: la saqué mirando el
+> episodio 1×03 completo (`archive.org/details/arcane-season-1-60fps`,
+> ya estaba descargado por el investigador de vídeo de una tanda
+> anterior, en `/tmp/…/17-arcane-video/e03_*`) más el tráiler oficial T1
+> en Dailymotion. Miré los fotogramas de verdad (Read), no los describo
+> de oídas.
+
+### Cara en cada emoción
+
+| Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| **Vi** | Rabia | 1×03 «The Base Violence Necessary for Change» | 23:30 | ✅ vista: dientes apretados, ceño hundido, mirada de lado, pecas y sangre en la mejilla — justo tras la muerte de Mylo y Claggor, antes de gritarle a Powder que es «una jinx». [Internet Archive, `?t=1410`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1410) |
+| **Powder (Jinx niña)** | Tristeza | 1×03, ídem | 24:45 | ✅ vista: sola, hombros caídos, mirada baja, boca tensa — el instante justo después de que Vi se va y la deja atrás. [Internet Archive, `?t=1485`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1485) |
+| **Powder (Jinx niña)** | Miedo / vulnerabilidad | 1×03, ídem | 27:15 | ✅ vista: primer plano del ojo muy abierto y húmedo, mirando de cerca a un pequeño autómata — encogida, a la defensiva. [Internet Archive, `?t=1635`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1635) |
+| **Vi** y **Powder** | Ternura / preocupación (no es de las 5 pedidas, pero sirve para láminas de #proyectos en equipo) | 1×03, ídem | 16:55 | ✅ vista: Vi con el brazo vendado sobre el hombro de Powder, las dos mirando abajo. [Internet Archive, `?t=1015`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015) |
+| Alegría | — | — | — | ❌ **no encontré** fotograma propio en el tiempo que tuve (revisé el tráiler T1 completo, cada 6 s, y no salió ningún personaje principal sonriendo de cerca; en 1×03 tampoco). El «todo flota, Jayce celebra» que ya cita `biblia.md` §15 (poses) sigue con ⚠️ de memoria: **falta verlo**. |
+| Vergüenza | — | — | — | ❌ no encontré: no vi ninguna escena de vergüenza clara en lo que pude mirar. Probablemente esté en escenas de Jayce (torpe ante el Consejo) o Ekko adolescente; **queda pendiente**. |
+
+- **Jayce**, **Viktor**, **Caitlyn**, **Ekko** y **Silco**: no me dio tiempo
+  a bajar y mirar un episodio centrado en cada uno; sus emociones siguen
+  descritas «de memoria» en `biblia.md` §8, sin fotograma. Si se quiere
+  completar la tabla para los 7, queda pendiente.
+- El vídeo de 1×03 (1080p, 60fps) sigue en
+  `/tmp/claude-0/trabajo/17-arcane-video/` y en
+  `/tmp/claude-0/trabajo/17-arcane-voz/e03_faces/`: el siguiente que lo
+  necesite no tiene que volver a bajarlo.
