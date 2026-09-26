@@ -1356,3 +1356,45 @@ víctima del gag, el secundario del meme y la más querida. Todas hablan con
 - **Tráileres de Dailymotion** del recolector y la reacción de Darkraimola:
   sin ver en esta tanda.
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Dónde y por qué |
+|---|---|---|
+| 1. Arte oficial, en cantidad y variado | ✅ | Punto 1: hoja `comedia_01.jpg` (46 imágenes de la wiki) mirada entera por el redactor, con los números que sirven y los 9 que no (+18); retratos de 8 secundarios; portada del spin-off. El resto, en la 43 |
+| 2. Fotogramas de escenas icónicas (1080p, minuto) | ⚠️ | Punto 2: **episodio 2 entero** visto por vídeo y revisado por el redactor en 48 fotogramas; 22 escenas con minuto. Son **1280×720**, no 1080p |
+| 3. Fan art y 3D con licencia | ✅ | Punto 3: **5 modelos CC BY 4.0 del mismo autor** (licencia leída en la API), 3 fondos de fans con tamaño y favoritos. ⚠️ *rigs* sin abrir; Pixiv sin buscar |
+| 4. Fondos, luz, paleta hex, texturas | ✅ | Punto 4: 2 sitios nuevos con paleta medida (`estilo.py`), fachada y alfombra, y **la paleta de 7 rótulos** medida por el redactor; texturas en la 43 |
+| 5. Tipografía, una por uso, con tildes, ñ, ¿, ¡ | ✅ | Punto 5: **10 rótulos** con su letra libre; 3 nuevas comprobadas con fontTools (Zen Old Mincho, Nosifer, Permanent Marker), el resto de la 43. ⚠️ 6 parecidos son propuesta |
+| 6. Cómo hablan en pantalla (cuadro de diálogo) | ✅ | Punto 6: **8 tipos de rótulo mirados** en el ep. 2 y 6 más de TV Tropes; qué cuadro usar (6.3). Corregidas 9 lecturas (§3) |
+| 7. Personajes y encuestas de popularidad | ✅ | Punto 7: Chika con página propia en Wikipedia, nominación y entrevista del autor (dos fuentes); favoritos de 9 secundarios; encuestas en la 43 |
+| 8. Doblaje latino, frases y voces en dos fuentes | ✅ | Punto 8: **3 voces pasan a dos fuentes**, 6 frases nuevas oídas con `voz.py` con tono medido, 11 chistes locales por episodio. ⚠️ 3 voces y los chistes con una fuente |
+| 9. Música y sonido | ⚠️ | Punto 9: OP y ED revistos, ED en MusicBrainz y Wikipedia, fanfarria del gag. ⚠️ pistas del OST y efecto de 20:00 con una fuente |
+| 10. Vídeos con minuto y tendencias | ⚠️ | Punto 10: episodio 2 entero, TikTok del narrador (dos fuentes), tráiler de AniList. ⚠️ Dailymotion, Turner, reacción y ensayo sin ver enteros |
+| 11. Videojuegos: interfaz, menús, cajas | ⚠️ | Punto 11: **no hay videojuego de rol o aventura** (comprobado por 43 y texto); TCRF sin página; Wayback no respondió; interfaces parodiadas y chat del ep. 2 |
+| 12. Lo que ama el fandom y qué NO hacer | ⚠️ | Punto 12: memes de Ishigami, ORA ORA, Bakemonogatari, stickers, 6 «no hacer». **La parte de voz se cortó**: sin búsqueda propia en foros |
+| 13. Descripción profunda de cada personaje | ⚠️ | Punto 13: caras cómicas del trío con minuto, 9 secundarios con ficha, voz medida y dinámicas. **Parte de voz cortada**: los principales a fondo, en la 43 |
+| 14. Poses analizadas (6-10) | ✅ | Punto 14: 15 poses nuevas con minuto, **vistas por el redactor**, con su uso (presentar, explicar, celebrar, regañar, pensar, animar) |
+| 15. Vestuario con hex | ✅ | Punto 15: gimnasia de Chika, excursión de Kaguya, Moron, cadena de Shirogane, con hex. ⚠️ traje de criada sin medir |
+| 16. Paisajes y fondos de pantalla | ✅ | Punto 16: festivales cultural y deportivo, montaña, pasillo, fachada, sala al atardecer; fondo 5032×2670 y banner oficial |
+| 17. Guía para IA de imagen y de texto | ✅ | Punto 17 (redactor): estilo cómico, rasgos fijos con hex, cómo pedir los rótulos, 5 descripciones, palabras que ayudan y estropean, 13 expresiones, frases reales por emoción |
+| 18. Estilo y técnica, y cómo replicarlo | ✅ | Punto 18: el director de Shaft (dos fuentes), off-model textual, encuadres del gag; recetas de Photoshop y Blender. ⚠️ las del oro y la trama son del redactor |
+| 19. Texturas 2D | ✅ | Punto 19: pinceles de líneas de velocidad con licencia, damero, espiral, grano, trama y ojos en blanco |
+| 20. Gustos y detalles de cada personaje | ⚠️ | Punto 20: 11 fichas de AniList (cumpleaños, sangre, detalle). **Parte de voz cortada**: una sola fuente; la tabla completa, en la 43 |
+| 21. Por qué la aman y escenas que hacen llorar | ⚠️ | Punto 21: **8 escenas que hacen reír** con minuto o episodio; las que hacen llorar y los premios, en la 43. **Parte de voz cortada**: sin comentarios con votos |
+| 22. Fan dubs y comunidad hispana | ⚠️ | Punto 22: reacción en español, Dailymotion sin fandubs, memes del doblaje, idea de reto. **Parte de voz cortada**: los fandubs, en la 43, sin vistas |
+| 23. Colaboraciones, figuras y cosplay | ⚠️ | Punto 23: stickers de LINE con voz y Nendoroid de Kaguya e Ishigami (dos fuentes), figuras de Chika. ⚠️ cafés japoneses sin buscar; sin cosplay libre nuevo |
+| 24. Obras parecidas y láminas vecinas | ✅ | Punto 24: Shaft y Monogatari, 14 parodias por episodio, recomendaciones de AniList y 5 láminas vecinas del servidor |
+| 25. Mundo, historia y símbolos | ✅ | Punto 25: reglas en corto, estructura del episodio vista, objetos-gag y vocabulario. ⚠️ el chiste gramatical del título, sin fuente única |
+| 3 conceptos de lámina | ✅ | A ⭐ #🎞️・edicion (letras de oro 3D en la mesa, Shirogane y Kaguya espiando), B #😂・memes (móvil con el chat, Ishigami), C #📖・textos (cartulina, Kaguya); con objeto, sitio, pose, cuadro, letra, textos, profundidad y láminas 2 |
+| 40 fuentes distintas | ✅ | **Más de 40 webs distintas** enlazadas en el cuerpo (`revisar.py`) |
+| Fuentes oficiales (web, staff, making of) | ✅ | Aniplex, Good Smile, web oficial kaguya.love, Young Jump, cuenta en X, entrevista al autor (Guya), biografía del director. Sin *making of* del gag |
+| Otros idiomas | ⚠️ | Japonés (rótulos leídos en fotogramas, Aniplex, stickers), inglés y español. **Coreano y chino no buscados** |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Wiki de la serie y Doblaje Wiki por su API, **TV Tropes directo** (Funny, ShoutOut, página principal), Wikipedia. TCRF sin página; **Wayback no respondió** |
+| Foros y comunidades | ⚠️ | Tuits citados por Animehunch; Reddit en cuarentena (43). La parte de voz no llegó a buscar foros |
+| Arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | Wallhaven y Safebooru. **Pixiv, ArtStation y DeviantArt no se buscaron** |
+| Vídeo (análisis, staff, TikTok) | ⚠️ | Episodio 2 entero, TikTok, Dailymotion, Internet Archive. YouTube sin ver |
+| Código y recursos (GitHub, Sketchfab, texturas) | ✅ | Sketchfab por su API, Fontsource con fontTools, pinceles con licencia. Sin repositorios de GitHub de la serie |
+| Doblaje latino (Doblaje Wiki, ANMTV, créditos) | ✅ | Doblaje Wiki por su API, FuniAnime, ANMTV, 6 audios oídos con `voz.py` |
+| Hojas de contacto (máx. 3, < 3 MB) | ✅ | `comedia_01.jpg` 880 KB, `rotulos_02.jpg` 500 KB, `poses_03.jpg` 590 KB |
+| `referencias.json` (mínimo 20, todas las útiles) | ✅ | **56 entradas**: primero 7 fotogramas del ep. 2 con su segundo (`#t=`), luego fan art, wiki, 3D, figuras y retratos; quitado el retrato genérico del narrador |
+

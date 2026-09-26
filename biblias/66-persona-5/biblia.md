@@ -100,7 +100,7 @@ Las tres hojas de contacto de `hojas/` tienen **144 imágenes numeradas**, mirad
 
 **Ilustraciones de celebración (poses en grupo y con objetos)**
 - Joker y Morgana para los PlayStation Awards 2016, 3088×4096 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/8/8b/Illustration_of_the_Protagonist_and_Morgana_for_Playstation_Awards_2016.png)). ⚠️ Nº28.
-- «祝! Persona5 発売!!» con Joker, Ryuji, Ann y Morgana (nº24). Ryuji con los dedos en V. ✅
+- «祝! Persona5 発売!!» con Joker, Ryuji, Ann y Morgana (nº24), celebración del lanzamiento. ✅
 - Celebración de 550 000 copias ([imagen](https://static.wikia.nocookie.net/megamitensei/images/0/0f/P5_Illustration_of_the_Protagonist_for_celebration_of_550%2C00_copies_shipped_by_Shigenori_Soejima.jpg)), de 2 millones (nº45) y del 10.º aniversario (nº139). ⚠️
 - Joker con **saxofón y traje rojo**, *Ren Big Band* (nº39, 2909×4096). ⚠️ Sin ficha de dónde salió.
 - Navidad con Morgana (nº25), Año Nuevo 2017 (nº42), lanzamiento en América y Europa con Ann y Morgana (nº37). ✅
@@ -514,8 +514,8 @@ Clips oficiales de All-Out Attack (cámara fija de cómic), tráileres y anime, 
 | Brazos en alto entre chispas doradas, boca abierta | [0:15](https://www.dailymotion.com/video/x4mxiax?t=15) | Celebrar |
 | Corre en silueta con dos compañeros | [0:18](https://www.dailymotion.com/video/x4mxiax?t=18) | Animar, avanzar en grupo |
 | Brazos cruzados, ceja alzada, «BRING IT» | [0:21](https://www.dailymotion.com/video/x4mxiax?t=21) | Celebrar, retar |
-| Pulgar arriba y sonrisa de dientes | nº33, 3840×3200 | Animar |
-| Dedos en V junto a Joker y Ann | nº24 | Saludar en grupo |
+| Mano con guante amarillo al frente y sonrisa de dientes ⚠️ visto en miniatura | nº33, 3840×3200 | Animar |
+| Mano en alto junto a Joker, Ann y Morgana ⚠️ visto en miniatura | nº24 | Saludar en grupo |
 
 **Ann**
 | Pose | Dónde | Sirve para |

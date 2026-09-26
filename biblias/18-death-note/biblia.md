@@ -675,6 +675,34 @@ Paleta de fans para comparar: `#1f1f1f #4a4a4a #7d7d7d #e0e0e0 #c92c3c`
 ambientCG es **CC0** (dominio público) ✅ ([ambientCG](https://ambientcg.com/)).
 No pude abrir las fichas para ver cuál es oscura o clara: elige al verlas.
 La sangre, con `v3/sangre.py` (lo dice `servidor/reglas_del_dueno.md`).
+**Segunda pasada**: la licencia CC0 queda confirmada con dos fuentes,
+[docs.ambientcg.com/license](https://docs.ambientcg.com/license/) y
+[LicenseOrg](https://www.licenseorg.com/guide/3d-assets/ambientcg) ✅.
+
+### 5.5 Luz y paleta MEDIDAS en fotograma (segunda pasada)
+
+`herramientas/estilo.py` (Pillow, k-means sobre el píxel) sobre los
+fotogramas de §2.11 (Internet Archive, 1280×720). Hex de más a menos
+presente ✅.
+
+| Sitio | Fotograma | Paleta medida | Saturación / brillo | Qué cambia |
+|---|---|---|---|---|
+| Cuarto de Light, de noche | ep. 1, 00:16:12 | `#0F1127` `#030212` `#1A2237` `#515B6C` `#343D51` `#8F9DA3` | 57 % / 22 % | Confirma la noche azul; el `#141A24` de 5.3 es demasiado gris: el real tira a **violeta** |
+| Cuarto de Light, tele encendida | ep. 2, 00:14:50 | `#6A728B` `#4A546D` `#83879F` `#9F9FB5` `#C3BBCA` `#0A0E1F` | 26 % / 55 % | Nuevo: la pantalla sube el brillo y vuelve el azul **gris lavanda** |
+| Cuarto de Light, Ryuk detrás | ep. 1, 00:13:00 | `#030214` `#0B0D25` `#171F39` `#424E5E` `#2B3246` `#63737F` | 66 % / 19 % | Confirma el azul casi negro |
+| Mundo shinigami | ep. 1, 00:02:01 | gris hacia `#C9C9BE` con **iris rojo** hacia `#8A0E12` sobre negro (visto, no medido en tabla) | — | Confirma «gris sin sol» y rojo sólo en los ojos |
+| Azotea bajo la lluvia | ep. 25, 00:10:30 | `#0D1027` `#09081D` `#040214` `#1A1F35` `#303B52` `#5C617A` | 66 % / 17 % | Más **morado** que el `#3A4350` estimado |
+| Universidad Tōō, salón de actos | ep. 9, 00:14:30 | `#090714` `#635C63` `#B9ABA8` `#44424D` `#C8BBB8` `#8F8D9A` | 32 % / 40 % | Corrige: interior gris malva cálido |
+| Café de L y Light | ep. 10, 00:08:14 | `#110E0F` `#352A0E` `#454C48` `#A67A3F` `#575411` `#C2B093` | 61 % / 33 % | Nuevo: **dorado oliva** (persiana y plantas) |
+| Almacén Yellow Box, la cuenta | ep. 36, 00:20:55 | `#45423F` `#6F6F6D` `#BCB8A3` `#898A86` `#E2ECDC` `#ECD6B7` | 13 % / 61 % | Confirma las tiras de sol entre polvo: la escena **más clara y menos saturada** |
+| Almacén, Aizawa grita | ep. 37, 00:14:28 | `#999583` `#090715` `#2E2C32` `#D4C3A0` `#84806F` `#635549` | 33 % / 40 % | Confirma tierra y gris |
+| La página del cuaderno (insert) | ep. 1, 00:04:32 | `#070311` `#150F1C` `#40363F` `#29202A` `#786E78` `#CCC1CC` | 43 % / 18 % | No es un sitio: es el **negro violeta de la página** con letra blanca. Sirve para la tapa y la hoja |
+
+**La regla, ahora medida**: interiores azul violeta casi negro o gris
+tierra, casi sin rojo. El **rojo sólo sale en villanía o muerte** (ojos
+del shinigami, ojos de Light, la alarma del ep. 25). Luz rasante y
+contraluz para las revelaciones (la «L» en pantalla blanca). Coincide
+con la wiki de símbolos (Light rojo, L azul) ✅.
 
 ---
 
