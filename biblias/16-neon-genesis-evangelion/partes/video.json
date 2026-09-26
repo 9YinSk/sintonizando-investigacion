@@ -58,9 +58,36 @@
     "fuente": "Internet Archive",
     "ancho": null,
     "alto": null,
-    "que_es": "Episodios 22 a 24 en un solo archivo (incluye el 24, el de Kaworu)",
-    "para_que": "Pendiente: confirmar en vídeo las poses de Kaworu (punto 14), no se llegó a bajar por tiempo/tamaño (435 MB)",
+    "que_es": "Episodios 22 a 24 en un solo archivo (incluye el 24, el de Kaworu); versión .ia.mp4 de 435 MB descargada y vista con fotogramas.py",
+    "para_que": "Punto 14: poses de Kaworu confirmadas (presentación 56:30 y termas 58:20, segundo 3390/3500 del archivo); punto 9: Ode to Joy en la escena final (min. 1:08-1:11)",
     "licencia": "Copia de fans; sólo consulta"
+  },
+  {
+    "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2005%20Rei%20I%20%5BFED16EB1%5D.mp4",
+    "fuente": "Internet Archive",
+    "ancho": 640,
+    "alto": 480,
+    "que_es": "Episodio 5 completo (\"Rei I\"), visto entero con fotogramas.py hasta el minuto 15",
+    "para_que": "Punto 14: se buscó la «ficha de Rei» de memoria (min. 4:25) y no existe ahí; sí confirma la placa de su puerta (13:12) y su apartamento (14:15-14:45)",
+    "licencia": "Copia de fans en Internet Archive; sólo consulta"
+  },
+  {
+    "url": "https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4",
+    "fuente": "Internet Archive",
+    "ancho": 640,
+    "alto": 480,
+    "que_es": "Episodio 6 completo (\"Rei II\"), visto entero con fotogramas.py",
+    "para_que": "Punto 14: confirma la sonrisa real de Rei (21:45) y corrige una pose mal atribuida (15:32 es Shinji, no Rei)",
+    "licencia": "Copia de fans en Internet Archive; sólo consulta"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Awesome/NeonGenesisEvangelion",
+    "fuente": "TV Tropes (leído con navegar.py)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de momentos «Awesome» de la serie, con el detalle de que Ode to Joy suena en toda la escena final del episodio 24",
+    "para_que": "Punto 9: segunda fuente para la música de la muerte de Kaworu",
+    "licencia": "Wiki de fans; sólo consulta"
   },
   {
     "url": "https://archive.org/details/evangelion-final-25-y-26_202609",

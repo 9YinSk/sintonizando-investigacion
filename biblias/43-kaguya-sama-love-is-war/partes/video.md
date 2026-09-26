@@ -69,22 +69,33 @@ Confirmado con dos fuentes (Wikipedia + búsqueda web) para cada tema; el compos
 | Shirogane escribiendo con líneas de urgencia (efecto de acción) alrededor | 3 | 2:30 | Explicar / trabajar a contrarreloj |
 | Shirogane de perfil, boca abierta, grito de sorpresa | 1 | 15:00 | Sorprenderse |
 | Shirogane con la mano en la barbilla, ceño fruncido, pensando | 3 | 15:20 | Pensar / calcular una jugada |
+| Shirogane de perfil con mueca de enojo cómico y llamita dibujada en la esquina | 3 | 11:20 | Regañar / mostrar enfado (cómico) |
+| Shirogane serio ofreciendo algo con las dos manos, fondo a cuadros psicodélico compartido con Kaguya | 3 | 21:10 | Explicar / proponer algo con nervios |
 | Chika inclinada sobre el escritorio al arrancar su baile, pelo suelto | 3 | 22:36 | Presentar (arranque de escena) |
 | Chika con los brazos en «V» hacia arriba, salto de alegría | 3 | 22:45 | Celebrar |
 | Chika con las manos juntas cerca de la cara, ladeada, gesto pícaro | 3 | 23:24 | Explicar con gracia / coqueta |
 | Chika con una pierna levantada en alto, baile enérgico | 3 | 23:36 | Celebrar / llamar la atención |
 | Chika flotando entre planetas y estrellas de cartón, fantasía feliz | 1 | 18:50 | Pensar / soñar despierta |
 | Chika con los ojos muy abiertos y fondo de destellos amarillos, sorpresa feliz | 1 | 11:40 | Sorprenderse (positivo) |
-| Ishigami, de pie con las manos sueltas, hombros caídos, cascos al cuello (ficha oficial de la wiki) | — | — (ilustración, no vídeo) | Presentar / actitud reservada — enlace: https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/e3/IshigamiAnime.png |
+| Ishigami, de pie con las manos sueltas, hombros caídos, cascos al cuello (ficha oficial anime) | — | ilustración | Presentar / actitud reservada — https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/e3/IshigamiAnime.png |
+| Ishigami visto de espaldas, puño en alto, cascos puestos, mochila, frente a un banco («銀行») — fotograma real de anime, cameo | 5 (según nombre del archivo de la wiki) | sin confirmar (no se vio el episodio) | Celebrar / en acción — https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/3/38/Ishigamicameoep5.jpg |
+| Ishigami de pie, cuerpo entero, brazos sueltos, ficha de modelo (uniforme completo) | — | ilustración (model sheet) | Presentar — https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/3/3e/Ishigami_Stand.png |
+| Ishigami con un cuaderno/libro bajo el brazo, cascos al cuello, mirada cansada | — | ilustración (extra del tomo 3) | Pensar / rutina — https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/d/d0/Yu_Ishigami_Vol._3_Extras.png |
+| Ishigami de perfil, pelo tapando un ojo, expresión seria («voy a dejar el consejo») | manga, cap. 24 | — (panel de manga) | Explicar / anunciar una decisión — https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/6/64/Ishigami-resignintro.jpg |
+| Ishigami retrato de perfil en blanco y negro (arte plano, sin línea de color), gesto indiferente/aislado | — | ilustración | Pensar / distancia — https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/a/a8/Ishigami_extra.png |
 
 Nota sobre Ishigami: la ficha de personaje de la wiki (wikitext vía API, campo
-`Anime`) dice que aparece de cameo en el **episodio 1** (por eso no se le distingue
-entre los alumnos de fondo que sí se vieron) y que su aparición «de verdad» es el
-**episodio 6** ([fuente](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Yu_Ishigami))
-— temporada 1, episodio que no se descargó por tiempo/peso (los episodios sueltos
-en Internet Archive pesan ≈130-180 MB cada uno). Sólo se consiguió su ficha
-ilustrada oficial de Fandom como pose de referencia — **⚠️ falta vídeo real de
-Ishigami**, ver «Sigue» al final.
+`Anime`) decía que aparece de cameo en el **episodio 1** y que su aparición «de
+verdad» es el **episodio 6** ([fuente](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Yu_Ishigami)).
+En este relanzo se buscó ese episodio 6 en Internet Archive (el único ítem con
+vídeo real, `kaguya-sama_202403`, sólo trae los episodios 1-3) y en Dailymotion
+(búsquedas «Ishigami Kaguya sama episode 6», «石上優», «かぐや様 石上», sin resultado
+útil): **no se consiguió el vídeo real de su aparición completa** (⚠️, ver «No
+encontré»). Se completó igualmente el punto 14 con **6 imágenes oficiales**
+(galería de Fandom vía API, `allimages` con prefijo «Ishigami»), incluida una
+captura real de anime de su cameo (nombre de archivo «cameoep5», sin confirmar
+el minuto porque no se vio ese episodio), que cumple lo que pide el encargo
+(«fotogramas o ilustraciones»).
 
 ## Lo mejor para la lámina
 
@@ -97,7 +108,7 @@ Ishigami**, ver «Sigue» al final.
 ## No encontré
 
 - Vídeo íntegro de un ending «normal» bailado/coreografiado con los 4 protagonistas (los endings T1 son créditos sobre escena, no coreografía) — búsqueda: AnimeThemes (522 caído), Dailymotion `Kaguya-sama ending`, `Kaguya-sama opening full` (japonés e inglés).
-- Escena de vídeo propia de Ishigami en los episodios revisados — búsquedas: Dailymotion `Ishigami Kaguya-sama`, `Kaguya-sama Tsubame Ishigami`; Internet Archive `kaguya-sama opening`/`love is war`; no se descargó la temporada 2 o 3 completas por tiempo y peso (episodios de ~25 min, ⚠️ sería el siguiente paso en un repaso).
+- Vídeo real (no ilustración) de la aparición completa de Ishigami en el episodio 6 de la T1 — búsquedas de este relanzo: Internet Archive `advancedsearch.php` (`kaguya AND mediatype:movies`, `kaguya-sama love is war`: sólo aparece de nuevo `kaguya-sama_202403`, que trae únicamente los episodios 1-3; se probó también el ítem `kaguya-sama-love-is-war-2019-720p-blu-ray` con `ffmpeg -ss` en streaming directo por rango HTTP sobre el `.ia.mp4` sin bajarlo entero — resultó ser la **película de imagen real** (logo Toho, actriz real), no el anime, descartado); Dailymotion API en japonés (`石上優`, `かぐや様 石上`) y en inglés (`Ishigami Kaguya sama episode 6`): sin resultado útil. Se resolvió parcialmente con 5 ilustraciones oficiales más (galería `allimages` de Fandom) y una captura real de anime de su cameo (ver punto 14), pero sigue faltando el vídeo de su escena de presentación completa — ⚠️ para un próximo repaso, cuando se pueda bajar el episodio 6 entero (~130-180 MB).
 - Confirmación cruzada fiable del ending T2 («Kaze ni Fukarete»): el crédito en pantalla del tráiler oficial de T2 dice «藤原さくら» (Sakura Fujiwara) y las fuentes web dicen «Haruka Fukuhara»; puede ser el mismo tema con datos mezclados en la búsqueda o dos temas distintos — ⚠️, no lo di por bueno sin más.
 - El OP y el ED de la película «The First Kiss That Never Ends» en vídeo (el ítem de Internet Archive existe pero los archivos bajados llegaron truncados, sólo 1 fotograma legible cada uno) — ⚠️ para retomar.
 - Efectos de sonido/onomatopeyas con nombre propio (más allá de la música orquestal de Haneoka): no parece un recurso propio de esta serie de comedia romántica, a diferencia de un shōnen de acción.
@@ -113,5 +124,4 @@ Ishigami**, ver «Sigue» al final.
 - Fandom (API, no la web): `kaguyasama-wa-kokurasetai.fandom.com/api.php` para la imagen oficial de Ishigami (imageinfo con `Referer: https://www.fandom.com/`).
 - Dailymotion API: búsquedas `Kaguya-sama opening full`, `Kaguya-sama ending`, `Ishigami Kaguya-sama`, `Kaguya-sama Tsubame Ishigami` (en inglés).
 - `herramientas/estilo.py`: paleta medida en 3 fotogramas propios (sala del consejo, calle de Tokio, atardecer).
-
-Sigue: conseguir vídeo real de Ishigami y sus poses (episodio 6 de la T1 según la wiki; no se descargó por tiempo) para completar el punto 14 con los 4 personajes que pide el encargo.
+- **Relanzo (este pase):** Internet Archive `advancedsearch.php` (dos consultas, inglés) buscando más episodios o vídeo real de Ishigami; prueba de streaming por rango HTTP con `ffmpeg -ss` directo sobre un `.ia.mp4` de Archive.org sin descarga completa (funcionó técnicamente, pero el ítem resultó ser la película de imagen real, no el anime); Dailymotion API (japonés: `石上優`, `かぐや様 石上`; inglés: `Ishigami Kaguya sama episode 6`); Fandom API `list=allimages&aiprefix=Ishigami` (13 archivos, japonés/inglés) y `imageusage`/`imageinfo` para confirmar tamaños y contexto de cada uno; se revisaron también los fotogramas ya extraídos y no usados de tandas previas (`ep1-climax`, `ep3-seg2`) para sacar 2 poses más de Shirogane sin nueva descarga.

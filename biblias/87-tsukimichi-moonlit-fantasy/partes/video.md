@@ -2,8 +2,18 @@
 
 Investigador de vídeo (puntos 2, 4, 9, 10 y 14 de ENCARGO.md). Parte de
 `datos-video.md` (AniList, Dailymotion, Internet Archive; AnimeThemes dio
-522 en todos los intentos, YouTube da «Video unavailable» con el tráiler
-oficial de AniList). Serie sin serie hermana declarada en este encargo.
+522/403 en todos los intentos, YouTube da «Video unavailable» o 429 con
+captcha incluso ya arreglado el certificado del proxy). Serie sin serie
+hermana declarada en este encargo.
+
+**Repaso (26-sep-2026)**: `revisar_partes.py` marcó esta parte floja por sólo
+2 dominios distintos citados (dailymotion.com, archive.org). Se añadieron
+fuentes reales de más dominios: la wiki de fans con enlace completo,
+**Wikipedia en inglés** (`en.wikipedia.org`, wikitexto vía API + página
+completa), el **sitio oficial japonés** `tsukimichi.com` (páginas MUSIC,
+MOVIE y STAFF&CAST, fuente primaria) y **TikTok visto en vivo** con
+`herramientas/navegar.py` (ya funciona tras el arreglo del certificado del
+proxy) en vez de sólo snippets de búsqueda.
 
 **Fíjate especial del encargo**: comedia isekai — se nota sobre todo en el
 gag recurrente del ending (misma canción, versión distinta cada temporada)
@@ -66,19 +76,27 @@ Paletas sacadas con `herramientas/estilo.py` sobre fotogramas propios (1280 px),
 
 ## 9 · Música y sonido
 
-- **Opening T1**: «Gambling» (ギャンブル), interpretada por **syudou** (productor/utaite conocido en Japón) · ✅ (wiki + créditos «オープニングアニメーション» vistos en el propio OP, `Tsuki 1.mp4` min. 1:50) · confirmado con `tsukigamichibikuisekaidouchuu.fandom.com` página «Gambling (song)».
-- **Opening T2**: «Utopia» (ユートピア), interpretada por **Keina Suda** · ✅ (wiki «Utopia (song)» + créditos vistos en pantalla en `[SubsPlease] S2-01` min. 1:18-2:22, con logo «Season Two 第二幕»).
-- **Ending, gag recurrente**: la misma canción, **«Aa Jinsei ni Namida Ari»** (ああ人生に涙あり, «Ah, hay lágrimas en la vida» — tema homenaje a una vieja canción de un dorama samurái), se repite con versión distinta cada tramo, cantada por los propios seiyuu **dentro del personaje**: Ver.1 T1 solo Makoto (Natsuki Hanae), Ver.2 T1 a dúo Tomoe y Mio, Ver.3 T2 a dúo Makoto y Shiki (Kenjiro Tsuda) · ✅ (wiki «Aa Jinsei ni Namida Ari (song)», confirmado también viendo el ending real de S2E1 con los créditos «BELAIR MUSIC PUBLISHING» en pantalla, min. 23:32). Es un gag de comedia: la lámina puede usar el logo redondo de la canción (el «sol»/luna en los créditos) como marco de cuadro de diálogo.
+- **Opening T1**: «Gambling» (ギャンブル), interpretada por **syudou** (productor/utaite conocido en Japón) · ✅ (créditos «オープニングアニメーション» vistos en el propio OP, `Tsuki 1.mp4` min. 1:50, más https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Gambling_(song) ). El título internacional en Wikipedia/web oficial es «Gamble» (mismo artista): ver tabla de temas oficiales más abajo.
+- **Opening T2**: «Utopia» (ユートピア), interpretada por **Keina Suda** · ✅ (https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Utopia_(song) + créditos vistos en pantalla en `[SubsPlease] S2-01` min. 1:18-2:22, con logo «Season Two 第二幕»).
+- **Ending, gag recurrente**: la misma canción, **«Aa Jinsei ni Namida Ari»** (ああ人生に涙あり, «Ah, hay lágrimas en la vida» — tema homenaje a una vieja canción de un dorama samurái), se repite con versión distinta cada tramo, cantada por los propios seiyuu **dentro del personaje**: Ver.1 T1 solo Makoto (Natsuki Hanae), Ver.2 T1 a dúo Tomoe y Mio, Ver.3 T2 a dúo Makoto y Shiki (Kenjiro Tsuda) · ✅ (https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Aa_Jinsei_ni_Namida_Ari_(song) , confirmado también viendo el ending real de S2E1 con los créditos «BELAIR MUSIC PUBLISHING» en pantalla, min. 23:32). Es un gag de comedia: la lámina puede usar el logo redondo de la canción (el «sol»/luna en los créditos) como marco de cuadro de diálogo. Es una canción-gag insertada en episodios sueltos, **distinta** del ED oficial de cada tramo (tabla de arriba): las dos conviven en la misma temporada, es la doble capa de humor propia de esta comedia isekai · ✅ (contraste directo entre wiki de la canción-gag y https://en.wikipedia.org/wiki/Tsukimichi:_Moonlit_Fantasy, que lista los ED «oficiales» de cada tramo).
 - **Ending T2, animación**: estilo *chibi* (los tres protagonistas caminando pequeños y redondeados, con un arcoíris y un sol sonriente), muy distinto del dibujo normal del anime — sólo se usa en el ending · ✅ (visto min. 22:12-23:40 de `[SubsPlease] S2-01`).
 - Director de ambas temporadas: **Shinji Ishihira** (石平信司), confirmado en los créditos de OP y ED de las dos temporadas y en la wiki de episodios ✅.
-- No se encontró aún el compositor de la banda sonora incidental (sólo los temas de OP/ED); ver «No encontré».
+- **Compositor de toda la banda sonora (incidental incluida)**: **Yasuharu Takanashi** (高梨康治) · ✅ dos fuentes independientes: ficha «STAFF» oficial en japonés (音楽 高梨康治) en https://tsukimichi.com/1st/staffcast/ y el infobox «Music by Yasuharu Takanashi» de https://en.wikipedia.org/wiki/Tsukimichi:_Moonlit_Fantasy — resuelve lo que faltaba abajo.
+- Director de sonido: はたしょう二 (Shouji Hata), equipo «サウンドチーム・ドンファン» (Sound Team Don Juan) · ✅ (misma ficha oficial de https://tsukimichi.com/1st/staffcast/, más wiki de episodios).
+- **Temas de apertura y cierre oficiales, temporada por temporada** (dos fuentes cada uno: web oficial + Wikipedia; distintos de la canción-gag de abajo):
+  - T1: OP «Gamble/Gambling» (**syudou**) · ED «Beautiful Dreamer» (**Ezoshika Gourmet Club**) · ✅ https://tsukimichi.com/1st/music/ (オープニング主題歌 syudou / エンディング主題歌 Ezoshika Gourmet Club) + https://en.wikipedia.org/wiki/Tsukimichi:_Moonlit_Fantasy.
+  - T2 primera mitad: OP «Utopia» (**Keina Suda**) · ED «My Factor» (**Kent Itō**) · ✅ Wikipedia + créditos vistos en pantalla (ya citados arriba, min. 1:18-2:22 de `[SubsPlease] S2-01`).
+  - T2 segunda mitad: OP «Reversal» (**syudou**, repite) · ED «Jōshiki Hazure Human» 常識外れヒューマン (**Kaori Maeda**) · ⚠️ sólo Wikipedia como fuente (no se vio en vídeo propio; el episodio mirado fue sólo T2E1, de la primera mitad).
 
 ## 10 · Vídeos: tráileres, escenas y tendencias
 
 - **Tendencia TikTok confirmada**: la escena del episodio 24 (Makoto derrotando a Sofia «Lancer» sólo con arco) circula como edit viral con el texto burlón «all he did was shoot a bow», etiquetas `#tsukimichimoonlitfantasy` `#moonlitfantasy` `#animeedit` · ✅ (coincide exactamente con el clip mirado arriba en el punto 2, min. 4:15-5:15 del clip largo) — búsqueda web «Tsukimichi Moonlit Fantasy TikTok viral clip edit».
-- Otros edits de TikTok con Tomoe y Mio («Tomoe and Mio don't let nothing slide», 23.6 mil «me gusta») muestran a las dos poniendo en su lugar a aventureros arrogantes — escena de la novela ligera/manga, no localizada aún en el anime con minuto exacto ⚠️ (una fuente, sin minuto propio).
-- **YouTube**: abundan vídeos de análisis y reseña en inglés («This Is What Peak Isekai Looks Like!», «Anime Review: Tsukimichi Moonlit Fantasy») y recaps largos; no se pudieron mirar por el bloqueo de YouTube desde este servidor (⚠️, sólo por título/descripción de la búsqueda, no vistos fotograma a fotograma).
-- **3ª temporada**: anunciada para 2026-2027, aún sin fecha exacta ni tráiler oficial confirmado a 25-sep-2026 (estudio J.C.Staff continúa) · ⚠️ (medios de fans, sin confirmación oficial de la productora) — importante para no dar por hecho contenido de S3 que aún no existe.
+- Confirmado **viendo directamente** la página real (no una captura de búsqueda) `https://www.tiktok.com/tag/tsukimichimoonlitfantasy` con `herramientas/navegar.py` (ya funciona: se arregló el certificado del proxy): la cuenta **AnimeEchoes** repite el gag «Tomoe and Mio put arrogant adventurers in their place» y «Tomoe and Mio shatter the power scales at the Adventurer Guild» como edits recurrentes · ✅ (página vista en vivo + coincide con la búsqueda anterior de «23.6 mil me gusta»). Sigue sin localizarse el minuto exacto en el anime: por el contexto («Adventurer Guild») encaja con escenas de gremio de aventureros de los primeros episodios, pero no se pudo confirmar el capítulo exacto ⚠️.
+- Mismo hashtag: clips con «Bro is so tough», «Makoto's aura», «He has an aura» sobre Makoto volviéndose más fuerte cada episodio, y una cuenta hispana (`♕Anime_Latino♕`) resumiendo «T1 - Ep 12 (Parte 2)» con el título «Decimosegunda Noche: Guiado Por La Luna» · ✅ (visto en vivo en la misma página).
+- **YouTube**: abundan vídeos de análisis y reseña en inglés («This Is What Peak Isekai Looks Like!», «Anime Review: Tsukimichi Moonlit Fantasy») y recaps largos; https://www.youtube.com/watch?v=Wi5k6q5ZKPg es uno de ellos. Reintentado con `navegar.py` tras el arreglo del proxy: sigue dando 429 «tráfico inusual» (captcha) al abrir la página del vídeo, así que sigue sin mirarse fotograma a fotograma ⚠️.
+- **3ª temporada**: anunciada oficialmente justo tras el último episodio de la 2ª temporada, todavía sin fecha ni tráiler a 26-sep-2026 · ✅ (dos fuentes: medios de fans ya citados + https://en.wikipedia.org/wiki/Tsukimichi:_Moonlit_Fantasy, que confirma el anuncio con su propia referencia). Estudio de la 2ª temporada: **J.C.Staff**; la 1ª fue de **C2C** · ✅ (mismo Wikipedia + créditos en pantalla del propio episodio S2E1 ya vistos).
+- **37 episodios en total** entre las dos temporadas (T1: jul-sep 2021; T2: ene-jun 2024) · ✅ (infobox de Wikipedia, coincide con la numeración de episodios de la wiki de fans).
+- El sitio oficial japonés (`https://tsukimichi.com/1st/movie/`) lista **4 vídeos promocionales propios** con sus ID de YouTube (`data-id` en el HTML): 第2期決定CM = `WuqnD0LKdGQ`, y otros tres (第2弾PV, 第1弾PV, ティザーPV) = `9KtypYdnDWY`, `O7m7Rc6PwfE`, `R2pSRCxaw0o` · ✅ (fuente primaria: el propio HTML del sitio oficial). No se pudieron abrir con `navegar.py` (mismo bloqueo 429 de YouTube); los tráilers ya vistos de verdad son los de Dailymotion del punto 2, que son los mismos PV con voz/subtítulos en español.
 - Tráileres oficiales de ambas temporadas: ver punto 2 (con minuto exacto ya citado).
 
 ## 14 · Poses analizadas por personaje
@@ -117,7 +135,6 @@ Todas de vídeo mirado con `ffmpeg`/`fotogramas.py` (episodios y tráilers de ar
 
 ## No encontré
 
-- Compositor de la banda sonora incidental (sólo se confirmaron los temas de OP/ED) — búsquedas: wiki de canciones, «Tsukimichi soundtrack composer» (web, en español e inglés). Sería un dato para el investigador de voz/texto si tiene tiempo.
 - Onomatopeyas o efectos de sonido propios de la serie con minuto exacto — no se encontró un artículo o clip que los liste; se necesitaría ver más episodios completos.
 - El opening y ending de la temporada 1 completos sin marca de agua ni subtítulos superpuestos (AnimeThemes caído con 522 en cuatro intentos a lo largo de la sesión; YouTube da «Video unavailable» en el tráiler y pide login en las búsquedas normales).
 - Minuto exacto en el anime de la escena viral «Tomoe y Mio ponen en su lugar a aventureros arrogantes» (parece ser de la novela ligera o el manga, no confirmada en el anime).
@@ -135,3 +152,12 @@ Todas de vídeo mirado con `ffmpeg`/`fotogramas.py` (episodios y tráilers de ar
 - `herramientas/estilo.py` sobre 3 fotogramas propios de 1280 px para las paletas del punto 4.
 - Un clip de Dailymotion descartado por no ser contenido real de la serie (gameplay de shooter con vtuber mal etiquetado); anotado arriba para que nadie lo reuse.
 - Aviso de corrección propia: en un primer repaso confundí a Tomoe con Mio en dos fotogramas del episodio 1 (ambas pueden llevar tonos claros en el pelo a primera vista). Se corrigió comparando el color de pelo de la ficha de cada personaje en la wiki (Tomoe «light blue», Mio «black») y la lista oficial de «Characters in Order of Appearance» de cada episodio (Mio no aparece en el episodio 1; debuta como «Black Spider» en el 2 y consigue forma humana y nombre en el 3). La tabla del punto 14 ya queda con la atribución correcta.
+
+### Repaso 26-sep-2026 (arreglar dominios distintos)
+
+- `en.wikipedia.org`: `action=parse` con `prop=sections`/`prop=wikitext` dio «too many requests» dos veces seguidas (límite de la API compartido); funcionó pidiendo la **página normal** (`/wiki/Tsukimichi:_Moonlit_Fantasy`) con `curl` normal, sin login. De ahí: temas de OP/ED oficiales por tramo, compositor Yasuharu Takanashi, estudios C2C/J.C.Staff, 37 episodios y el anuncio de la 3ª temporada.
+- `tsukimichi.com` (sitio oficial japonés, de `datos-video.md`): páginas `/1st/music/`, `/1st/movie/` y `/1st/staffcast/` con `curl` directo (200 OK, sin bloqueo) — confirman OP/ED de la T1, 4 vídeos promocionales con su ID de YouTube, compositor y director de sonido.
+- `python3 herramientas/navegar.py "https://www.tiktok.com/tag/tsukimichimoonlitfantasy" --espera 5000`: **funcionó** (antes no se había probado con TikTok en esta parte) — confirma en vivo el gag «Tomoe and Mio put arrogant adventurers in their place» y varios edits de Makoto.
+- `navegar.py` sobre `https://www.youtube.com/watch?v=Wi5k6q5ZKPg`: sigue dando 429 «tráfico inusual» (captcha) aunque el certificado del proxy ya esté arreglado — el bloqueo de YouTube es del propio YouTube, no del proxy. No se reintentó una tercera vez.
+- `animethemes.moe` y `crunchyroll.com` y `animenewsnetwork.com`: 403 con `curl` directo, un solo intento cada uno (no vale la pena un segundo con las mismas herramientas).
+- `twitter.com/tsukimichi_pr` → redirige a `x.com/tsukimichi_pr` (200), pero el contenido de los tuits no se puede leer sin JavaScript/login; se cita sólo como canal oficial confirmado (AniList + enlace del propio sitio oficial), no como fuente de un tuit concreto.

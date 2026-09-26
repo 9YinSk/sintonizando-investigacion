@@ -93,7 +93,89 @@ sueltas (regla de «hojas de contacto» de AYUDANTE.md).
 
 ### Punto 3 — Fan art y 3D con licencia
 
-(pendiente)
+Enfoque: objetos y personajes **transversales al estudio** (no de una sola
+película, eso ya lo cubren las hermanas 98/100). Toda licencia comprobada en
+el campo `license` de la respuesta de la API de Sketchfab, no de memoria.
+
+**Modelos 3D descargables con licencia CC** (Sketchfab API,
+`downloadable=true`):
+- **Nubes estilizadas «Stylized clouds»** — CC BY, **557 likes** (el más
+  valorado de toda esta búsqueda) — por *lavakongen* —
+  https://sketchfab.com/3d-models/none-e326c36890364526910cba03c1393ebc ✅
+  (sirve para el «cielo Ghibli» de cualquier lámina, no de una peli en
+  concreto)
+- **Howl's Moving Castle Breakfast** (el plato de huevos con tocino) — CC BY,
+  **714 likes**, por *Zeps3D* —
+  https://sketchfab.com/3d-models/none-0e8fde91fdb5413494e878b0fef85cda ✅
+  (mejor referencia 3D de «comida Ghibli» de todo lo encontrado)
+- **Ramen from Ponyo** — CC BY, 200 likes, por *Discovered* —
+  https://sketchfab.com/3d-models/none-5e614fea3aaf4e78bd82cf2b6e0e5c7a ✅
+- Variante del mismo plato: **Ramen Bowl from Ponyo** — CC BY-NC-SA, 101
+  likes, por *ckaosatom* — ⚠️ (no comercial, avisar antes de usar)
+- **My Neighbor Totoro** (personaje completo) — CC BY, 60 likes, por
+  *Vanillaburp* —
+  https://sketchfab.com/3d-models/none-ffb11769e03e4a9395416d714ccd66ce ✅
+- **TOTOROs** (grupo, los 3 tamaños) y **Mei** — CC BY, 380 y 488 likes, por
+  *goart* ✅
+- **Catbus / Gatobús**, 3 versiones con licencia libre: *A modeling of the
+  Ghibli Catbus* (CC BY, 42 likes, Valentine_Ventura), *CatBus Mi Vecino
+  Totoro* (CC BY, 18 likes, AcalliTwissLART, en español), *Sculpt January -
+  Day 11* (CC BY, 18 likes, jason.lp.davis). ⚠️ Descartado: la versión más
+  votada (169 likes, Patrickart.hk) es **CC BY-NC-ND**, no cumple licencia
+  libre del encargo.
+- **Robot de Laputa** («Robot left on Laputa») — CC BY, 55 likes, por
+  *zionkoenig* —
+  https://sketchfab.com/3d-models/none-a659068938054b64bbac15110ffd2fa1 ✅
+- **Kamaji (釜爺) de El viaje de Chihiro** — CC BY, 37 likes, por
+  *godislove431* (no duplica los modelos de la hermana 98: ahí no salió éste)
+  ✅
+- **Calcifer, El increíble castillo vagabundo** — CC BY, 48 likes, por
+  *berchello*; variante «Fire - Calsifer», CC BY, 107 likes, por *DonikXD*
+  ✅
+- **Nabo (Turnip Head), Howl** — CC BY, 117 likes, por *ncd.blueberry* ✅
+- **Nausicaä del Valle del Viento** (personaje) — CC BY, 66 likes, por
+  *lages.miguel* ✅
+- **Props de Kiki: entrega urgente** («[Kiki's Delivery Service] Props
+  collection») — CC BY, 163 likes, por *Kanna-nakajima*; y «Kiki's Delivery
+  Service Bread Wreath» (la corona de pan de la panadería), CC BY, 25 likes
+  ✅
+- **Biplano rojo** (Porco Rosso / estética de aviones Ghibli) — CC BY, 264 y
+  78 likes, por *won1* ✅
+- **Casa con forma de cabeza de Ghibli** («Ghibli Head house», diorama
+  fan-made inspirado en el estilo, no de una peli concreta) — CC BY, 128
+  likes, por *Mars_Sobaka* ✅
+- **Susuwatari/hollín (Soot Sprite)** — CC BY-NC, 205 likes, por *duz_vr* ⚠️
+  (no comercial; la hermana 98 ya buscó "susuwatari" sin resultado
+  descargable — este sí aparece pero limitado a no-comercial)
+
+**Fan art (Safebooru, etiqueta `studio_ghibli` transversal, con autor y
+origen; sólo referencia, nunca para pegar)**:
+- 2952×2075 — https://safebooru.org/images/1096/db3d1c9105029bf9f66d68bc2cfcfa1d6241f771.jpg
+  · origen: https://x.com/endlessrz/status/1267082711153422336
+- 1946×2048 — https://safebooru.org/images/63/4974950fec31db2d75dac552bb22a166db53078f.jpg
+  · origen: https://x.com/gan2 (comparación estilo Ghibli)
+- 1261×1600 / 1535×2037 — dos versiones, mismo artista en ArtStation:
+  https://www.artstation.com/artwork/zOoZm6
+- 1280×1979 — Totoro por *ayasal* en DeviantArt (marca de agua del sitio
+  visible, sólo referencia): imagen intermedia en safebooru.org/images/1104/...
+  ✅ (fuente con autor identificado en las 4)
+
+**Fotos con licencia libre (Openverse, para ver volumen/arquitectura real,
+nunca para pegar)**:
+- 10 fotos del **Museo Ghibli (Mitaka)** por el mismo fotógrafo de Flickr,
+  CC BY-SA 2.0, 1024×768 cada una: exterior con el robot de Laputa en la
+  azotea, jardín, fachada — ejemplo:
+  https://live.staticflickr.com/8313/8025600359_b89c00a1c1_b.jpg ✅ (10
+  fotos de la misma sesión, licencia confirmada por la API de Openverse)
+
+Cómo se ve el estilo Ghibli **en el vocabulario de fan art** (Danbooru, ya
+recogido por `recolectar.py` en `datos-imagen.md`, no repetido aquí): las
+etiquetas más repetidas para Kiki, San, Howl, Chihiro, Jiji y Nausicaä
+comparten patrón — pelo natural (nunca de colores imposibles), ropa de tela
+simple, fondo simple o "outdoors", casi nunca fondos recargados; eso es
+justo lo contrario del fondo pintado y detallado del propio estudio (dato
+útil para el punto 17 del redactor: "lo que NO hace la IA bien" al copiar
+Ghibli).
 
 ### Punto 15 — Vestuario con hex medidos
 

@@ -12,15 +12,15 @@ AniList no sirve para esta obra (es cine, casi no tiene ficha ahí): la tabla qu
 `recolectar.py` salió vacía. Se buscó popularidad en premios oficiales y en rankings de fans.
 
 - Encuesta/premio oficial: **Intensa mente 2** ganó el Kids' Choice Award 2025 (Nickelodeon)
-  a Película Animada Favorita · Wikipedia (List of accolades received by Inside Out 2) +
-  Animation Magazine (animationmagazine.net, 9-jun-2025) · ✅
+  a Película Animada Favorita · [Wikipedia — accolades de Inside Out 2](https://en.wikipedia.org/wiki/List_of_accolades_received_by_Inside_Out_2) +
+  [Animation Magazine](https://www.animationmagazine.net/2025/06/inside-out-2-spongebob-squarepants-jack-black-win-big-at-2025-nickelodeon-kids-choice-awards/) (9-jun-2025) · ✅
 - La primera **Intensa mente** (2015) fue nominada al mismo premio en 2016 pero perdió contra
-  *Hotel Transylvania 2* · Wikipedia (Kids' Choice Award for Favorite Animated Movie) + IMDb
-  (ficha de premios de la película) · ✅
+  *Hotel Transylvania 2* · [Wikipedia — accolades de la película 2015](https://en.wikipedia.org/wiki/List_of_accolades_received_by_Inside_Out_(2015_film)) +
+  [Wikipedia — Kids' Choice Award for Favorite Animated Movie](https://en.wikipedia.org/wiki/Kids%27_Choice_Award_for_Favorite_Animated_Movie) · ✅
 - Ranking de fans (Looper, «10 Most Popular Inside Out Characters Ranked Worst To Best»):
   de peor a mejor valorado: 10 Jangles el payaso, 9 Papá, 8 Temor, 7 Desagrado, 6 Riley,
   5 Mamá, 4 Furia, 3 Alegría, 2 Tristeza, **1 Bing Bong** (el más querido según ese ranking,
-  por su sacrificio) · Looper (looper.com/798830) · ⚠️ (un solo medio, es su opinión editorial)
+  por su sacrificio) · [Looper](https://www.looper.com/798830/most-popular-inside-out-characters-ranked-worst-to-best/) · ⚠️ (un solo medio, es su opinión editorial)
 - Encuesta de fans de Popverse (thepopverse.com) sobre Intensa mente 2: repartió el voto sobre
   «qué emoción eres»; una nota de la misma cobertura señala que en más de 200 votos de fans
   el podio salió Desagrado, Furia y Alegría · ⚠️ (no se pudo confirmar el número exacto en la
@@ -43,27 +43,35 @@ Katya Ojeda (Iturbide) en ambas. Grabado marzo-abril de 2015 (película 1) y abr
 
 | Personaje | Seiyū (voz original) | Voz latina | Fuente 1 | Fuente 2 |
 |---|---|---|---|---|
-| Alegría (Joy) | Amy Poehler | Cristina Hernández | Doblaje Wiki (doblaje.fandom.com/es/wiki/Intensa_mente, ambas películas) ✅ | Pixar Wiki (pixar.fandom.com/wiki/Joy, ficha `performer`) + búsqueda cruzada (Infobae, 13-jun-2024) |
-| Tristeza (Sadness) | Phyllis Smith | Kerygma Flores | Doblaje Wiki (ambas películas) ✅ | Pixar Wiki (pixar.fandom.com/wiki/Sadness) + Infobae |
-| Furia (Anger) | Lewis Black | Jaime Vega | Doblaje Wiki (ambas películas) ✅ | Pixar Wiki (pixar.fandom.com/wiki/Anger) + Infobae |
-| Desagrado (Disgust) | Mindy Kaling (2015) → Liza Lapira (2024, cambio salarial en inglés) | Erika Ugalde (retoma el papel en las dos) | Doblaje Wiki (ambas películas) ✅ | Pixar Wiki (pixar.fandom.com/wiki/Disgust) + Infobae |
-| Temor (Fear) | Bill Hader (2015) → Tony Hale (2024, cambio salarial en inglés) | Moisés Iván Mora (retoma el papel en las dos) | Doblaje Wiki (ambas películas) ✅ | Pixar Wiki (pixar.fandom.com/wiki/Fear) + Infobae |
-| Ansiedad (Anxiety, sólo película 2) | Maya Hawke | **María José Guerrero** | Doblaje Wiki (doblaje.fandom.com/es/wiki/Intensa_mente_2, tabla «Reparto» + nota en «Datos de interés: sobre el reparto») ✅ | Confirmado por la propia actriz en su TikTok/YouTube Shorts («Soy Ansiedad», @majoguerreroj) |
-| Riley Andersen (2015) | Kaitlyn Dias | Verania Ortiz | Doblaje Wiki (Intensa mente) ✅ | Pixar Wiki (pixar.fandom.com/wiki/Riley, `performer`) |
-| Riley Andersen (2024) | Kensington Tallman | Pamela Mendoza (antes era «Meg» en la 1; reemplaza a Verania Ortiz «por madurez de voz» según Doblaje Wiki) | Doblaje Wiki (Intensa mente 2) ✅ | TVAzteca (tvazteca.com, nota de elenco) |
-| Bing Bong | Richard Kind | Jesús Guzmán | Doblaje Wiki (Intensa mente) ✅ | Pixar Wiki (pixar.fandom.com/wiki/Bing_Bong) |
-| Envidia (Envy, película 2) | Ayo Edebiri | Nycolle González | Doblaje Wiki (Intensa mente 2) ✅ | Infobae/TVAzteca (coinciden) |
-| Aburrimiento/Ennui (película 2) | Adèle Exarchopoulos | Edurne Keel (voz final) / Alicia Barragán (voz en el tráiler, distinta a la final) | Doblaje Wiki (tabla «Reparto» = Edurne Keel; tabla «Reparto (tráiler)» = Alicia Barragán) ✅ | Infobae/TVAzteca (dan Edurne Keel para la final) |
-| Bill Andersen (papá) | Kyle MacLachlan | Moisés Palacios | Doblaje Wiki (Intensa mente) ✅ | Pixar Wiki (`performer` de Riley's Dad) |
-| Jill Andersen (mamá) | Diane Lane | Graciela Gámez | Doblaje Wiki (ambas películas) ✅ | Infobae (nota de elenco película 2) |
+| Alegría (Joy) | Amy Poehler | Cristina Hernández | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) (ambas películas) ✅ | [Pixar Wiki](https://pixar.fandom.com/wiki/Joy) (ficha `performer`) + [Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/) (13-jun-2024) |
+| Tristeza (Sadness) | Phyllis Smith | Kerygma Flores | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) (ambas películas) ✅ | [Pixar Wiki](https://pixar.fandom.com/wiki/Sadness) + [Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/) |
+| Furia (Anger) | Lewis Black | Jaime Vega | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) (ambas películas) ✅ | [Pixar Wiki](https://pixar.fandom.com/wiki/Anger) + [Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/) |
+| Desagrado (Disgust) | Mindy Kaling (2015) → Liza Lapira (2024, cambio salarial en inglés) | Erika Ugalde (retoma el papel en las dos) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) (ambas películas) ✅ | [Pixar Wiki](https://pixar.fandom.com/wiki/Disgust) + [Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/) |
+| Temor (Fear) | Bill Hader (2015) → Tony Hale (2024, cambio salarial en inglés) | Moisés Iván Mora (retoma el papel en las dos) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) (ambas películas) ✅ | [Pixar Wiki](https://pixar.fandom.com/wiki/Fear) + [Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/) |
+| Ansiedad (Anxiety, sólo película 2) | Maya Hawke | **María José Guerrero** | [Doblaje Wiki — ficha de Ansiedad](https://doblaje.fandom.com/es/wiki/Ansiedad) (tabla «Reparto» + nota en «Datos de interés») ✅ | Confirmado por la propia actriz en [TikTok](https://www.tiktok.com/@majoguerreroj/video/7384907791061798150) («¡Soy Ansiedad!», @majoguerreroj) |
+| Riley Andersen (2015) | Kaitlyn Dias | Verania Ortiz | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) ✅ | [Pixar Wiki](https://pixar.fandom.com/wiki/Riley) (`performer`) |
+| Riley Andersen (2024) | Kensington Tallman | Pamela Mendoza (antes era «Meg» en la 1; reemplaza a Verania Ortiz «por madurez de voz» según Doblaje Wiki) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente_2) ✅ | [TVAzteca](https://www.tvazteca.com/azteca7/quienes-prestaron-su-voz-para-el-doblaje-en-espanol-intensa-mente-2) (nota de elenco) |
+| Bing Bong | Richard Kind | Jesús Guzmán | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) ✅ | [Pixar Wiki](https://pixar.fandom.com/wiki/Bing_Bong) |
+| Envidia (Envy, película 2) | Ayo Edebiri | Nycolle González | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente_2) ✅ | [Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/) + [TVAzteca](https://www.tvazteca.com/azteca7/quienes-prestaron-su-voz-para-el-doblaje-en-espanol-intensa-mente-2) (coinciden) |
+| Aburrimiento/Ennui (película 2) | Adèle Exarchopoulos | Edurne Keel (voz final) / Alicia Barragán (voz en el tráiler, distinta a la final) | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente_2) (tabla «Reparto» = Edurne Keel; tabla «Reparto (tráiler)» = Alicia Barragán) ✅ | [Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/) + [TVAzteca](https://www.tvazteca.com/azteca7/quienes-prestaron-su-voz-para-el-doblaje-en-espanol-intensa-mente-2) (dan Edurne Keel para la final) |
+| Bill Andersen (papá) | Kyle MacLachlan | Moisés Palacios | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) ✅ | [Pixar Wiki](https://pixar.fandom.com/wiki/Riley%27s_Dad) (`performer`) |
+| Jill Andersen (mamá) | Diane Lane | Graciela Gámez | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Intensa_mente) (ambas películas) ✅ | [Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/) (nota de elenco película 2) |
 
 ⚠️ **Ojo con este dato, importante para no meter la pata en la biblia**: varios medios
-masivos (TVAzteca, Infobae, unotv, sdpnoticias) publicaron que Ansiedad la dobla **Nayeli
-Mendoza**. Doblaje Wiki (fuente especializada, que cita créditos reales de doblaje) y la
-propia actriz **María José Guerrero** en sus redes (TikTok @majoguerreroj, «¡Soy Ansiedad!»,
-además de un YouTube Short) confirman que la voz final es de Guerrero; la wiki incluso anota
-que Guerrero grabó los tres tráileres y se quedó con el papel en la película. Probablemente
-los portales repitieron un dato viejo o confundido. **Usar María José Guerrero**, no Nayeli
+masivos publicaron que Ansiedad la dobla **Nayeli Mendoza**:
+[TVAzteca](https://www.tvazteca.com/azteca7/quienes-prestaron-su-voz-para-el-doblaje-en-espanol-intensa-mente-2),
+[Infobae](https://www.infobae.com/mexico/2024/06/13/intensamente-2-quienes-son-los-actores-que-prestaron-su-voz-para-el-doblaje-en-espanol/),
+[unotv](https://www.unotv.com/entretenimiento/quienes-hacen-las-voces-de-intensamente-2-en-ingles-y-espanol/),
+[La Razón de México](https://www.razon.com.mx/entretenimiento/2024/06/18/quien-hace-la-voz-de-ansiedad-en-intensamente-2/),
+[Tomatazos](https://www.tomatazos.com/noticias/919942/IntensaMente-2-Director-y-productor-explican-los-detalles-y-el-casting-de-Ansiedad) y
+[El Universo](https://www.eluniverso.com/entretenimiento/cine/intensamente-2-conoce-los-actores-que-dan-su-voz-en-espanol-para-las-emociones-de-la-pelicula-que-ya-esta-en-cines-de-ecuador-nota/)
+repiten el mismo nombre. [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Ansiedad) (fuente
+especializada, que cita créditos reales de doblaje) y la propia actriz **María José Guerrero**
+en [TikTok](https://www.tiktok.com/@majoguerreroj/video/7384907791061798150)
+(@majoguerreroj, «¡Soy Ansiedad!») confirman que la voz final es de Guerrero; la wiki incluso
+anota que Guerrero grabó los tres tráileres y se quedó con el papel en la película.
+Probablemente los seis portales repitieron entre sí un dato viejo o confundido (varios
+publicaron la misma semana de estreno, jun-2024). **Usar María José Guerrero**, no Nayeli
 Mendoza, y avisar de la discrepancia si se cita a algún medio.
 
 ### Frases textuales del doblaje latino (con minuto, sacadas de audio real)
@@ -108,20 +116,22 @@ se saca la frase tal cual se dice, no de memoria:
 - Lo que el fandom repite sin parar: el meme de **«a core memory»** (a veces traducido «un
   recuerdo esencial/central») — usan la imagen de la canica dorada de Alegría como reacción a
   cualquier momento que alguien no quiere olvidar; nació en Tumblr y explotó en TikTok en 2022
-  · Know Your Meme (knowyourmeme.com/memes/a-core-memory) ✅
+  · [Know Your Meme](https://knowyourmeme.com/memes/a-core-memory) ✅
 - El gag «¿Y si los sentimientos tuvieran sentimientos?» (2015: what if feelings had
-  feelings?) como chiste recurrente sobre el pitch de Pixar · Know Your Meme ⚠️ (una fuente)
+  feelings?) como chiste recurrente sobre el pitch de Pixar · [Know Your Meme](https://knowyourmeme.com/memes/subcultures/inside-out) ⚠️ (una fuente)
 - La escena de la muerte de Bing Bong es EL momento que todo fan menciona primero; su frase
-  «Llévala a la Luna de mi parte» es la más citada del fandom hispano y anglo · TV Tropes
-  (TearJerker/InsideOut) + Cinemablend (entrevista a Amy Poehler, 10 años después) ✅
+  «Llévala a la Luna de mi parte» es la más citada del fandom hispano y anglo ·
+  [TV Tropes — TearJerker/InsideOut](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/InsideOut) +
+  [Cinemablend](https://www.cinemablend.com/interviews/amy-poehler-reflects-bing-bong-death-10-years-after-inside-out)
+  (entrevista a Amy Poehler, 10 años después) ✅
 - Furia con la cabeza en llamas (literal) es la imagen-meme más reconocible del personaje,
   reutilizada en memes de enojo genérico fuera del fandom de la película · visto directamente
   en el teaser oficial (fotograma propio, minuto 1:00, ver punto 13) ✅
 - **Qué NO hacer** (para no romper la inmersión de un fan):
   - No dibujar a Ansiedad como «la mala» o como antagonista fija: en la película 2 es una
     emoción que se pasa de la raya por miedo, no una villana; el fandom se queja cuando la
-    presentan como «malvada» sin más · Screen Rant + NPR (cobertura de psicólogos, ver
-    punto 21) ⚠️
+    presentan como «malvada» sin más · Screen Rant + [NPR](https://www.npr.org/transcripts/1198910281)
+    (cobertura de la psicóloga consultora Lisa Damour, ver punto 21) ⚠️
   - No mezclar el diseño de Desagrado con el de Envidia (ambas verdes): Desagrado es verde
     oliva con boa violeta, Envidia es turquesa/celeste con ojos grandes — son colores «verdes»
     distintos y el fandom lo nota enseguida (visto en fotogramas propios del tráiler 2).
@@ -157,7 +167,7 @@ y Pixar Post) ✅ dos fuentes, más lo visto en tráileres doblados propios:
 
 **Alegría (Joy)** — líder autoimpuesta de las emociones, «su meta siempre ha sido que Riley
 esté feliz; ligera, optimista y decidida a encontrar la diversión en cada situación» (Pixar,
-vía Pixar Post + Jon Negroni) ✅. Punto ciego: minimiza a Tristeza, cree que la tristeza no
+vía Pixar Post + [Pixar Wiki — Joy](https://pixar.fandom.com/wiki/Joy)) ✅. Punto ciego: minimiza a Tristeza, cree que la tristeza no
 sirve para nada — ese es su arco (aprender que Tristeza también ayuda). Cómo habla: rápido,
 en tono ascendente, se ríe con la boca muy abierta, usa diminutivos con cariño. Cara en
 alegría: fotograma propio del tráiler 1, minuto 1:35 (mentón apoyado en las manos, sonrisa
@@ -165,14 +175,15 @@ grande, ojos brillantes) — https://www.dailymotion.com/video/x88a0ss?t=95 ✅ 
 
 **Tristeza (Sadness)** — «lenta, tímida, pesimista, más dada a tirarse al piso»; en el fondo,
 inteligente y empática, la que de verdad entiende lo que Riley necesita aunque no se atreve a
-decirlo (Pixar Wiki, sección Personality) ✅. Cómo habla: voz baja y monocorde, arrastra las
+decirlo ([Pixar Wiki — Sadness](https://pixar.fandom.com/wiki/Sadness), sección Personality) ✅. Cómo habla: voz baja y monocorde, arrastra las
 frases, suele terminar disculpándose. Cara triste/llorando: fotograma propio del tráiler 1,
 minuto 1:50, llorando sobre una nube mientras llueve — https://www.dailymotion.com/video/x88a0ss?t=110
 ✅ (visto). Cara de shock/miedo: fotograma propio, minuto 0:56 del teaser 2, boca abierta
 gritando de espanto junto a Desagrado — https://www.dailymotion.com/video/x8php8l?t=56 ✅.
 
 **Furia (Anger)** — «siente pasión por que las cosas sean justas para Riley; tiene un
-espíritu ardiente y tiende a explotar (literal) cuando algo no sale como planeó» (Pixar) ✅.
+espíritu ardiente y tiende a explotar (literal) cuando algo no sale como planeó»
+(Pixar, vía [Pixar Wiki — Anger](https://pixar.fandom.com/wiki/Anger)) ✅.
 Cómo habla: voz ronca, corta las frases, grita en mayúsculas cuando se enoja, sarcástico
 cuando está tranquilo. Cara de furia: fotograma PROPIO Y MUY CITABLE del teaser 2, minuto
 1:00 — literalmente con la cabeza en llamas, gritando con la boca muy abierta mientras un
@@ -181,13 +192,14 @@ del personaje).
 
 **Desagrado (Disgust)** — «muy opinada, honesta hasta el extremo, evita que Riley se
 envenene, física y socialmente»; vanidosa, cínica, impaciente, obsesionada con el estatus
-social (Pixar + Pixar Wiki) ✅. Cómo habla: tono plano y aburrido, remata con frases cortas
+social (Pixar + [Pixar Wiki — Disgust](https://pixar.fandom.com/wiki/Disgust)) ✅. Cómo habla: tono plano y aburrido, remata con frases cortas
 tipo «qué asco» o «no gracias». Cara de asco: fotograma propio, minuto 0:56 del teaser 2, ceño
 fruncido, boca torcida hacia abajo — https://www.dailymotion.com/video/x8php8l?t=56 ✅ (visto,
 junto a Tristeza).
 
 **Temor (Fear)** — «su trabajo principal es proteger a Riley; está siempre alerta a posibles
-desastres, evaluando peligros y riesgos» (Pixar, vía Stitch Kingdom, citado en Pixar Wiki) ✅.
+desastres, evaluando peligros y riesgos» (Pixar, vía Stitch Kingdom, citado en
+[Pixar Wiki — Fear](https://pixar.fandom.com/wiki/Fear)) ✅.
 Cómo habla y suena: MEDIDO CON `voz.py` sobre audio real — registro medio (158 Hz), el más
 expresivo de los dos personajes medidos (31.5 semitonos de rango, sube y baja mucho la voz) y
 habla rápido (3.76 palabras/s) — nervioso, atropellado, hace preguntas retóricas todo el
@@ -201,8 +213,8 @@ catástrofes, se mueve en círculos. No se encontró un fotograma propio suyo en
 tráileres analizados (aparece poco antes del estreno; ⚠️ pendiente, ver «No encontré»).
 
 **Riley Andersen** — protagonista humana; nace en Mineápolis, Minnesota; tiene 11 años en la
-película 1, 12 en el corto «¿Primera cita de Riley?» y 13 en la película 2 (Pixar Wiki,
-ficha `age`) ✅. Le encanta el hockey (su «isla de personalidad» principal), es honesta,
+película 1, 12 en el corto «¿Primera cita de Riley?» y 13 en la película 2
+([Pixar Wiki — Riley](https://pixar.fandom.com/wiki/Riley), ficha `age`) ✅. Le encanta el hockey (su «isla de personalidad» principal), es honesta,
 familiar y un poco payasa. Su arco en la 1: pasar de reprimir sus emociones (fingir que todo
 está bien tras la mudanza) a poder decirle a sus padres que extraña Minnesota y llorar frente
 a ellos — momento clave, minuto final de la película. Su arco en la 2: la pubertad trae
@@ -210,9 +222,11 @@ emociones nuevas (Ansiedad, Envidia, Vergüenza, Aburrimiento) que casi la hacen
 «sentido de sí misma» por encajar con chicas mayores del equipo de hockey.
 
 **Bing Bong** — amigo imaginario olvidado de la infancia de Riley, mitad gato, mitad
-elefante, mitad algodón de azúcar; llora dulces (caramelos) en vez de lágrimas. Su frase
-final «Llévala a la Luna de mi parte» antes de desvanecerse es la escena más citada de toda
-la franquicia (ver punto 21) ✅ dos fuentes (TV Tropes + Cinemablend).
+elefante, mitad algodón de azúcar; llora dulces (caramelos) en vez de lágrimas
+([Pixar Wiki — Bing Bong](https://pixar.fandom.com/wiki/Bing_Bong)). Su frase final «Llévala
+a la Luna de mi parte» antes de desvanecerse es la escena más citada de toda la franquicia
+(ver punto 21) ✅ dos fuentes ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/InsideOut) +
+[Cinemablend](https://www.cinemablend.com/interviews/amy-poehler-reflects-bing-bong-death-10-years-after-inside-out)).
 
 ## 20 · Gustos y detalles de cada personaje
 
@@ -235,31 +249,37 @@ película.
 ## 21 · Por qué la gente la ama
 
 - Validada por psicólogos de verdad: **Paul Ekman**, uno de los investigadores más citados en
-  el estudio de las emociones básicas, asesoró la película y elogió que planteara que TODAS
-  las emociones (incluida la tristeza) cumplen una función psicológica sana · Psychology
-  Today (psychologytoday.com/gb/blog/beyond-heroes-and-villains/201506) ✅
+  el estudio de las emociones básicas, fue consultor de la película y explica la ciencia detrás
+  de las emociones en su propio blog; elogia que la cinta plantee que TODAS las emociones
+  (incluida la tristeza) cumplen una función psicológica sana ·
+  [Paul Ekman Group — «The Science of Inside Out»](https://www.paulekman.com/blog/the-science-of-inside-out/) ✅
 - Terapeutas la usan como herramienta educativa con niños y pacientes: varias reseñas de
-  terapeutas (Annie Wright, trauma therapist; Cedar Counseling; GR Therapy Group) destacan que
-  «da permiso» para sentir tristeza sin que sea motivo de vergüenza · anniewright.com +
-  cedarcounselingandwellness.com ✅ (coinciden varias fuentes profesionales independientes)
+  terapeutas destacan que «da permiso» para sentir tristeza sin que sea motivo de vergüenza ·
+  [Annie Wright, trauma therapist, en Psychology Today](https://www.psychologytoday.com/us/blog/making-the-whole-beautiful/202406/from-riley-to-reality-a-trauma-expert-revisits-inside-out) +
+  [anniewright.com](https://anniewright.com/trauma-therapist-reviews-the-inside-out-movie/) +
+  [Cedar Counseling and Wellness](https://www.cedarcounselingandwellness.com/inside-out-2-a-therapists-review/)
+  ✅ (coinciden varias fuentes profesionales independientes)
 - Inside Out 2 fue elogiada por psicólogos por representar bien la ansiedad adolescente y la
-  pubertad («qué acertó sobre la ansiedad, según una psicóloga») · NPR (npr.org, 19-jun-2024)
-  ✅
+  pubertad: la psicóloga clínica **Lisa Damour** (consultora de la propia película) dice que es
+  «sorprendentemente precisa» sobre la pubertad y el ataque de pánico de Riley ·
+  [NPR](https://www.npr.org/transcripts/1198910281) (19-jun-2024) ✅
 - **La escena que hace llorar a todo el mundo**: la muerte de Bing Bong en el Vertedero de la
   Memoria. Se sacrifica saltando del cohete para que Alegría pueda escapar y volver con Riley;
   su última frase es «Llévala a la Luna de mi parte» antes de desvanecerse para siempre. La
   escena original (guion) era 40-60 segundos más larga y más angustiante —se recortó porque el
-  equipo la consideró demasiado dura— (TIME + MTV News, ambas citan al director Pete Docter) ✅.
-  Por qué duele: Bing Bong llora dulces en vez de lágrimas (algo cómico que se vuelve
-  desgarrador), y la cámara se aleja despacio mientras él desaparece en silencio, sin música
-  triunfal, sólo un tema suave de piano.
+  equipo la consideró demasiado dura, según el propio Richard Kind (voz de Bing Bong)— ·
+  [TIME](https://time.com/4098711/inside-out-bing-bong/) +
+  [MTV News](https://www.mtv.com/news/0vhlbf/inside-out-bing-bong-death-scene) (ambas citan a
+  Richard Kind y al director Pete Docter) ✅. Por qué duele: Bing Bong llora dulces en vez de
+  lágrimas (algo cómico que se vuelve desgarrador), y la cámara se aleja despacio mientras él
+  desaparece en silencio, sin música triunfal, sólo un tema suave de piano.
 - Cinemablend recogió, 10 años después, el testimonio de Amy Poehler (voz de Alegría): «cuando
   Bing Bong murió... América estuvo de luto», reflejando el impacto cultural real de la escena
-  · cinemablend.com (interviews, 2025) ✅
+  · [Cinemablend](https://www.cinemablend.com/interviews/amy-poehler-reflects-bing-bong-death-10-years-after-inside-out) (2025) ✅
 - Con qué personaje se identifica el público: según terapeutas y reseñas, muchos adultos se
   identifican con **Tristeza** (validación de sentir tristeza sin culpa) y muchos preadolescentes
   se identifican con **Ansiedad** en la segunda película, por representar el estrés social
-  real de esa edad · NPR + The Psychology Group (thepsychologygroup.com) ✅
+  real de esa edad · NPR + [The Psychology Group](https://thepsychologygroup.com/inside-out-2-according-to-therapists/) ✅
 
 ## 22 · Fan dubs y comunidad hispana
 
@@ -272,10 +292,12 @@ película.
 - Comunidad de doblaje real (no fandub, pero es justo lo que le interesa al servidor de
   Sintonizando): varias actrices de doblaje oficiales suben contenido explicando su trabajo en
   la franquicia — @cricrivoz en TikTok (video: «¡Somos las voces en español latino de las
-  emociones de Riley!», con Cristina Hernández mencionada), @majoguerreroj (María José
-  Guerrero, voz de Ansiedad, «¡Soy Ansiedad!»), @spiderhenry («Estos son los actores de
-  doblaje en Intensamente 2») · TikTok (búsqueda) ⚠️ (vistas no confirmadas, TikTok no se
-  pudo abrir directo desde el servidor)
+  emociones de Riley!», con Cristina Hernández mencionada), María José Guerrero (voz de
+  Ansiedad) en [TikTok — «¡Soy Ansiedad!»](https://www.tiktok.com/@majoguerreroj/video/7384907791061798150)
+  y en un segundo video, [«Reto Emocional con Ansiedad»](https://www.tiktok.com/@majoguerreroj/video/7389341292267982086),
+  @spiderhenry («Estos son los actores de doblaje en Intensamente 2») · TikTok ✅ (los dos
+  videos de @majoguerreroj se abrieron directo, con URL propia) / ⚠️ para @cricrivoz y
+  @spiderhenry (sólo por búsqueda, vistas no confirmadas)
 - Reto de doblaje/hashtags activos en TikTok: #retodedoblaje, #actingchallenge junto a
   #intensamente2, gente imitando a las emociones · búsqueda TikTok ⚠️
 - No se encontró un cover en español del tema musical de la película (Inside Out no tiene

@@ -141,6 +141,14 @@ sonido y onomatopeyas** (el hueco explícito del punto 9 que §11 no cubría).
   confirma que la sirena viene de una librería Hollywood Edge)
 - Efecto libre parecido a la alarma de NERV para usar como referencia (no es
   el original, es una recreación): [«Evangelion style alarm sound», esffects.net](https://esffects.net/en/176.html) · ⚠️ (fan, no oficial)
+- **«Ode to Joy» (Beethoven) suena de fondo en toda la escena final del
+  episodio 24** (la muerte de Kaworu a manos de Shinji): confirmado por texto
+  en [TV Tropes, «Awesome/NeonGenesisEvangelion»](https://tvtropes.org/pmwiki/pmwiki.php/Awesome/NeonGenesisEvangelion)
+  (leído con `navegar.py`, ya funciona) — «Ode to Joy playing over the entire
+  scene»; es el tema más citado del fandom para esa escena · ✅ (coincide con
+  lo que ya sabía la biblia por sinopsis; ahora con fuente directa) · minuto
+  aproximado dentro del archivo combinado 22-24: 1:08-1:11 (mismo tramo donde
+  Unit-01 mata a Kaworu, visto con `fotogramas.py` en el punto 14)
 - **La onomatopeya hablada más repetida en pantalla**: el número de
   sincronización dicho en voz alta por Maya («シンクロ率41.3パーセント», ep.
   1) es, además de un dato, un **cue sonoro reconocible** (aparece en memes y
@@ -184,11 +192,15 @@ vez sí abrió Internet Archive con una copia oficial del tráiler.
 §15 de la biblia ya tenía una tabla por personaje, pero **toda marcada ⚠️
 «de memoria, mira el fotograma antes de usarlo»**. Esta tabla trae las poses
 que **ya miré** con `fotogramas.py` (✅, con enlace `?t=` al segundo exacto)
-sobre el episodio 1 (Misato, Shinji, Gendo) y el episodio 8 (Asuka). No pude
-bajar los episodios 6 (Rei) completos a tiempo de forma limpia ni el 24/26
-(Kaworu): quedan con el aviso de §15 sin cambiar (⚠️), detallado en «No
-encontré». El **minuto es el de este archivo de Internet Archive**, no el de
-Netflix: hay un desfase de segundos frente al resto de la biblia.
+sobre el episodio 1 (Misato, Shinji, Gendo), el episodio 8 (Asuka), y en esta
+pasada además el episodio 6 completo (Rei) y el archivo combinado de los
+episodios 22 al 24 de Internet Archive (Kaworu; 435 MB, `.ia.mp4`, 1:14:40 en
+total). El **minuto es el de cada archivo de Internet Archive**, no el de
+Netflix: hay un desfase de segundos frente al resto de la biblia. En el
+combinado 22-24 el episodio 24 («The Beginning and the End») empieza sobre el
+minuto 50 del archivo; doy el minuto del archivo y, entre paréntesis, el
+segundo exacto, porque el enlace `details` no admite `?t=` al ser 3 episodios
+juntos.
 
 | Pose | Episodio | Minuto | Sirve para |
 |---|---|---|---|
@@ -200,9 +212,13 @@ Netflix: hay un desfase de segundos frente al resto de la biblia.
 | De perfil, ojos muy abiertos, sorprendida, girada hacia un grupo que celebra | ep. 8 | [3:20 ✅](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4?t=200) | **celebrar** (Asuka, reacción de grupo) |
 | De pie, barbilla alta, con una carpeta en la mano, dirigiéndose al grupo | ep. 8 | [3:46 ✅](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4?t=226) | **presentar/explicar** (Asuka) |
 | De pie muy tensa contra una pared, con el traje de conexión, manos juntas al pecho | ep. 8 | [11:02 ✅](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4?t=662) | **pensar** (Asuka, incómoda) |
-| Silueta de pie, brazos cruzados, proyectada en una pared clara (personaje de pelo corto; no se le ve la cara, sólo la sombra) | ep. 6 | 15:32 ⚠️ (un fotograma, sin confirmar quién es con certeza — el episodio es «Rei II» pero no vi la cara) | **pensar** (probable Rei) |
+| Silueta de pie, brazos cruzados, proyectada en una pared clara (personaje de pelo corto; no se le ve la cara, sólo la sombra) | ep. 6 | 15:32 ⚠️ **corregido**: al mirar el fotograma vecino (15:36-15:48) el pelo y el uniforme azul con cuello rojo son de **Shinji llorando**, no de Rei — quito esta pose de la lista de Rei | — |
 | Unidad 01 encadenada de pie en su jaula, plano pequeño dentro de una estructura enorme | ep. 1 | 20:58 ✅ (mismo archivo) | **presentar el encierro**, no es de un personaje humano pero sirve para composición |
-| Resto de poses de Rei, Asuka (regañar, saludar) y Kaworu de §15 | varios | igual que en la biblia | siguen ⚠️ «de memoria»: no se pudieron confirmar en vídeo esta pasada (ver «No encontré») |
+| **Rei sonríe** dentro de la cápsula de su Eva, primer plano, mirada de lado y una sonrisa pequeña y real (el final del episodio 6, la escena más citada de «el primer indicio de que Rei siente algo») | ep. 6 | [21:45 ✅](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4?t=1305) (fotograma propio, visto con `fotogramas.py`) | **presentar/celebrar en pequeño** (Rei, la sonrisa más citada de todo el personaje) |
+| Rei de pie en su apartamento vacío y a oscuras, mirando de reojo, apoyada en la mano, gesto cansado | ep. 6 | [14:45 ✅](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4?t=885) | **pensar** (Rei, sola en su cuarto) |
+| Kaworu sonríe de frente nada más llegar a NERV, pelo plateado, ojos rojos, suéter de cuello alto (su primer plano de presentación) | ep. 24 | 56:30 del archivo combinado ep. 22-24 de Internet Archive ✅ (fotograma propio) — [enlace al ítem](https://archive.org/details/neon-genesis-evangelion-22-al-24) (no admite `?t=` porque son 3 episodios juntos; el segundo exacto dentro del archivo es 3390) | **presentar** (Kaworu, la pose de introducción más citada) |
+| Kaworu con los ojos cerrados, relajado, en las aguas termales con el monte Fuji al fondo | ep. 24 | 58:20 del mismo archivo (segundo 3500) ✅ | **pensar/confiar** (Kaworu y Shinji hablando de las termas) |
+| Resto de poses de Asuka (regañar, saludar) de §15 | varios | igual que en la biblia | siguen ⚠️ «de memoria»: no se pudieron confirmar en vídeo esta pasada |
 
 Detalle importante para el redactor: en el fotograma de Gendo (15:38) **no
 se le ve tapándose la boca con las manos entrelazadas** (la pose clásica de
@@ -220,11 +236,13 @@ tarea del investigador de imagen, ⚠️ para él).
   medida con `estilo.py`) da un verde musgo/óxido auténtico para el fondo de
   la ficha de piloto, mejor que las paletas de fans que ya había.
 - El plano del opening con la silueta colgando en cruz sobre la luna llena
-  (min. 3:45): el encuadre más repetido en fan art de toda la serie, listo
-  para inspirar la composición de la lámina.
-- Asuka de pie con una carpeta, barbilla alta, dirigiéndose al grupo (ep. 8,
-  3:46): una pose «viva» de mando, justo lo que pedía el dueño («no salen
-  sólo de pie»).
+  (min. 3:45, el más repetido en fan art) y Asuka de pie con una carpeta,
+  barbilla alta, dirigiéndose al grupo (ep. 8, 3:46, pose «viva» de mando):
+  dos referencias de composición y de pose que ya pedía el dueño.
+- **La sonrisa real de Rei** dentro de su Eva (ep. 6, min. 21:45, confirmada
+  esta pasada): el gesto más citado del personaje y el más difícil de
+  encontrar de memoria (Rei casi nunca sonríe); perfecta para una lámina que
+  la humanice sin salirse de su carácter.
 - La escena del chelo de Shinji (ep. 15, 11:10, con texto y minuto ya
   confirmados en §2/§11 de la biblia) sigue siendo el concepto más natural
   para #demos: alguien toca y otro aplaude, con miedo a la primera demo.
@@ -235,18 +253,26 @@ tarea del investigador de imagen, ⚠️ para él).
   en dos intentos distintos (`api.animethemes.moe/anime` y
   `/anime/neon-genesis-evangelion`), igual que le pasó a `recolectar.py`. Usé
   Internet Archive en su lugar (si funciona.
-- **Poses de Rei confirmadas en vídeo** (la ficha ep. 5 min. 4:25, la sonrisa
-  ep. 6 min. 21:30 de §15): bajé el episodio 6 y busqué esos segundos, pero
-  el fotograma de esa franja resultó ser una silueta sin rostro y dos
-  fotogramas de un chico llorando/sonriendo que no pude identificar con
-  certeza (parece Shinji, no Rei, por el peinado) — el desfase de tiempos
-  entre este archivo y los subtítulos de Netflix es mayor de lo que pensaba
-  en este episodio. Lo dejo con ⚠️ en vez de inventar qué se ve.
-- **Poses de Kaworu confirmadas en vídeo** (ep. 24): el único archivo con ese
-  episodio en Internet Archive junta los capítulos 22-24 en un solo vídeo de
-  435 MB (`neon-genesis-evangelion-22-al-24`); no me dio tiempo de bajarlo y
-  calcular el segundo exacto dentro de él. Queda anotado en `video.json` para
-  quien siga.
+- **La «ficha de Rei» del ep. 5 min. 4:25** (de §15, de memoria): bajé el
+  episodio 5 completo y miré minuto a minuto de 0:00 a 15:00. **No existe** un
+  primer plano de una ficha/carnet de Rei ahí: ese tramo (1:45-6:00) es un
+  resumen técnico del intento fallido de sincronía con la Unidad 00 del
+  capítulo anterior (diagramas de sinapsis «EVA-00»), y la cartela del título
+  «EPISODE: 5 · Rei I» no aparece hasta el **minuto 13:12** (Evangelion mete
+  el título mucho más tarde de lo normal; dato curioso en sí mismo). Lo que sí
+  hay, confirmado, cerca de ahí: la placa de la puerta «402 綾波» (Ayanami) del
+  apartamento de Rei (min. 13:12) y, ya con Shinji dentro, sus gafas rotas en
+  el suelo (min. 14:15) y su cara cansada apoyada en la mano (min. 14:45,
+  ahora sí en la tabla del punto 14). Corrijo el dato de memoria en vez de
+  repetirlo.
+- El **tarareo/piano de Kaworu** (que toca y canta «Ode to Joy» para Shinji,
+  citado de memoria en §15): miré con `fotogramas.py` cada 10 s todo el tramo
+  56:30-1:03:00 del archivo combinado 22-24 (su llegada, las termas, el
+  interrogatorio) y no aparece ningún piano en esa franja; puede estar en otro
+  minuto del mismo episodio que no llegué a recorrer entero (el archivo junta
+  3 episodios, 74 minutos) o ser un plano muy corto entre mis muestras de
+  10 s. Sin audio no puedo confirmar el tarareo por imagen sola. Queda
+  pendiente para quien pueda oír el archivo (`voz.py` u oído directo).
 - **TV Tropes** (banda sonora, tropos de sonido): no lo intenté con
   `navegar.py` esta vez por el tiempo que quedaba; si hace falta, la página
   es `Awesome/NeonGenesisEvangelion` (da 403 por `curl` normal).
@@ -279,8 +305,20 @@ tarea del investigador de imagen, ⚠️ para él).
   fuente en `forum.evageeks.org`).
 - `curl -sSI` a los enlaces de TikTok de §12 de la biblia para comprobar que
   siguen respondiendo.
+- **Segunda pasada (relanzo)**: bajé el episodio 5 completo (Rei I, 140 MB) y
+  el episodio 6 completo (Rei II, 140 MB) uno por uno del ítem de los 19
+  episodios sueltos, y el archivo combinado `.ia.mp4` de los episodios 22-24
+  (435 MB, Kaworu). Miré los tres con `fotogramas.py` en pasadas de 10-15 s
+  (contactos completos) y luego saqué fotogramas sueltos con `ffmpeg -ss` en
+  los segundos exactos para confirmar cada pose. `estilo.py` no hizo falta
+  esta vez (ya había paleta medida de los sitios principales).
+- `python3 herramientas/navegar.py "https://tvtropes.org/pmwiki/pmwiki.php/Awesome/NeonGenesisEvangelion" --selector 'div#main-article'`
+  (inglés) → sí funcionó esta vez (200, sin bloqueo); confirmé que «Ode to
+  Joy» suena en toda la escena final de Kaworu (punto 9).
 
-Sigue: confirmar en vídeo real (no de memoria) las poses de Rei (ep. 5 min. 4:25 la ficha, ep. 6 min. 21:30 la sonrisa) y de Kaworu (ep. 24, la presentación y el tarareo) para completar la tabla del punto 14 — los archivos ya están localizados en `video.json` (`neon-genesis-evangelion-episode-21-...` para Rei, ep. 5; `neon-genesis-evangelion-22-al-24` para Kaworu, hay que calcular el segundo dentro del vídeo combinado de 3 episodios).
+Corrección importante de esta pasada: la pose de §15 «silueta de pie, ep. 6,
+15:32» que se atribuía a Rei es en realidad **Shinji** (visto en el fotograma
+vecino); se retira de la lista de Rei arriba.
 
 - Episodios completos disponibles para mirar de verdad en Internet Archive
   (ítem `neon-genesis-evangelion-episode-21-...`, 19 episodios sueltos +

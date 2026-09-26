@@ -86,7 +86,52 @@
   "ancho": null,
   "alto": null,
   "que_es": "Reseña/análisis en inglés «This Is What Peak Isekai Looks Like! - TSUKIMICHI Moonlit Fantasy»",
-  "para_que": "punto 10: vídeo de análisis (no se pudo mirar por bloqueo de YouTube desde el servidor)",
+  "para_que": "punto 10: vídeo de análisis (no se pudo mirar por bloqueo de YouTube desde el servidor, 429 con navegar.py incluso ya arreglado el proxy)",
   "licencia": "referencia externa, no vista con fotogramas.py"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Tsukimichi:_Moonlit_Fantasy",
+  "fuente": "Wikipedia (inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo con infobox de OP/ED por temporada, estudios C2C/J.C.Staff, compositor Yasuharu Takanashi, 37 episodios y anuncio de la 3ª temporada",
+  "para_que": "punto 9 y 10: segunda fuente para créditos musicales, estudios y anuncio de temporada 3",
+  "licencia": "CC BY-SA 4.0 (Wikipedia); texto, referencia"
+ },
+ {
+  "url": "https://tsukimichi.com/1st/music/",
+  "fuente": "Sitio oficial japonés (tsukimichi.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página MUSIC oficial: OP de la T1 por syudou, ED por Ezoshika Gourmet Club",
+  "para_que": "punto 9: fuente primaria de los temas de apertura y cierre",
+  "licencia": "© あずみ圭・アルファポリス/月が導く異世界道中製作委員会; sólo referencia"
+ },
+ {
+  "url": "https://tsukimichi.com/1st/movie/",
+  "fuente": "Sitio oficial japonés (tsukimichi.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página MOVIE oficial con 4 vídeos promocionales (CM de anuncio S2, 2 PV y 1 teaser) y su ID real de YouTube en el HTML",
+  "para_que": "punto 2 y 10: identificar los tráilers oficiales exactos (mismos PV ya vistos vía Dailymotion)",
+  "licencia": "© あずみ圭・アルファポリス/月が導く異世界道中製作委員会; sólo referencia"
+ },
+ {
+  "url": "https://tsukimichi.com/1st/staffcast/",
+  "fuente": "Sitio oficial japonés (tsukimichi.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha STAFF oficial: compositor Yasuharu Takanashi, director de sonido Shouji Hata, equipo de sonido Don Juan",
+  "para_que": "punto 9: crédito primario del compositor y del sonido",
+  "licencia": "© あずみ圭・アルファポリス/月が導く異世界道中製作委員会; sólo referencia"
+ },
+ {
+  "url": "https://www.tiktok.com/tag/tsukimichimoonlitfantasy",
+  "fuente": "TikTok (hashtag, visto en vivo con navegar.py)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página real del hashtag con los edits recurrentes de la cuenta AnimeEchoes sobre Tomoe, Mio y Makoto",
+  "para_que": "punto 10: tendencia TikTok confirmada viendo la página real, no sólo un snippet de búsqueda",
+  "licencia": "referencia externa, no descargable"
  }
 ]
