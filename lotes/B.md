@@ -30,7 +30,10 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
   guardar.sh --cada 300 relanzado a las 19:29 UTC tras el reinicio del contenedor.
 - 13 Rick and Morty: **COMPLETA** y subida (19:52). ✅29 ⚠️8 ❌0, 93 referencias, 97 webs, 270 min citados, 43 hex, 2193 líneas.
 - 12 Kakegurui: **COMPLETA** (19:47, ya subida por guardar.sh). ✅27 ⚠️10 ❌0, 81 referencias, 97 webs, 150 min citados, 40 hex, 2226 líneas.
-  14: video, imagen y texto terminados; voz dejó un Sigue: obligatorio (punto 13, caras/emociones) → relanzada corta desde 19:49. 15: 4 investigadores (Sonnet, repaso) en marcha desde 19:49.
+  14: las 4 partes terminadas sin Sigue → redactor (Opus, repaso) en marcha desde 08:27 (26-sep).
+- **Segundo corte por límite de sesión** (19:50 UTC del 25 a 08:26 UTC del 26): los 5 agentes vivos murieron a mitad de tanda (voz 14 y los 4 de 15). guardar.sh había subido lo hecho; sólo se perdió lo que voz de 15 llevaba a medio escribir en esa tanda concreta (84 líneas se quedaron).
+  15: imagen, video y texto no habían escrito nada → relanzados desde cero; voz sigue desde sus 84 líneas. Los 4 en marcha desde 08:28.
+  guardar.sh --cada 300 relanzado a las 08:26 UTC tras el segundo reinicio del contenedor.
 
 ## Avisos para el dueño
 
