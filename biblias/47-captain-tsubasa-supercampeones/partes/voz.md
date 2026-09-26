@@ -49,7 +49,7 @@ doblaje italiano** (categoría propia «Doblajes de doblajes» en la wiki), no d
 **Doblaje 2 — «Súper Campeones: Camino al mundial» (Road to 2002, 2001-2002, Group TAC, 52 eps.)**:
 doblado en México en 2003-2004 por **Audiomaster 3000**, dirección de Gerardo Vásquez y César Arias,
 estrenado en Canal 5 de Televisa en 2003. **Es el doblaje que más recuerda el público que hoy tiene 30-40
-años** (el que more gente cita en redes), porque se repitió muchísimo en TV abierta latinoamericana.
+años** (el que más gente cita en redes), porque se repitió muchísimo en TV abierta latinoamericana.
 
 | Personaje | Seiyū | Voz latina | Fuente 1 | Fuente 2 |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ años** (el que more gente cita en redes), porque se repitió muchísimo en TV a
   español como sinónimo de «hacer algo con toda la fuerza posible», con decenas de vídeos bajo esas
   etiquetas · ⚠️ (visto en la búsqueda, no se pudo contar vistas por vídeo individual sin cuenta de TikTok).
 - No encontré un meme o «running gag» propio del **doblaje latino en concreto** (tipo «la frase que todos
-  citan mal») más allá de la propia frase del balón-mejor-amigo; até la búsqueda a «Reddit Captain Tsubasa
-  español meme doblaje» sin resultado nuevo · ⚠️.
+  citan mal») más allá de la propia frase del balón-mejor-amigo; acoté la búsqueda a «Reddit Captain
+  Tsubasa español meme doblaje» sin resultado nuevo · ⚠️.
 
 ## 13 · Descripción profunda de cada personaje
 

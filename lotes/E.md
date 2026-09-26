@@ -149,3 +149,4 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
 | 66 | voz (seguir) | Sonnet | 10 | 175 k |
 | 67 | video | Sonnet | 24 | 235 k |
 | 66 | redactor | Opus | 16 | 279 k |
+| 67 | voz | Sonnet | 20 | 287 k |

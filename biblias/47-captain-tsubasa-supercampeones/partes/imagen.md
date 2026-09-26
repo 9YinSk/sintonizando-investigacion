@@ -142,3 +142,90 @@ Cada personaje cambia de club varias veces; el hex sale de la imagen exacta cita
 - Paleta de la cancha/estadio (medida sobre `hyuga_gwaka` recortado, fondo de cancha verde con
   portería): verde césped #427156 y #63866E, verde oscuro de sombra #1C2D2D, blanco de red #C3C8C0 ·
   fuente imagen «GWAKA.jpg» de la wiki (fondo de entrenamiento) · ✅ (medido con estilo.py).
+
+## 19 · Texturas 2D
+
+Tramas, grano de papel y pinceladas reales que equivalen a lo que se ve en las hojas de manga y en
+el punteado de las camisetas. Van con el punto 3 (3D) y el 4 (texturas reales de fondos): que no
+falte ninguna capa.
+
+- Grano de papel real equivalente al fondo de las viñetas de manga (foto-textura CC0 con mapas PBR):
+  «Paper 006», 2048×2048 (medido en la imagen de vista previa) · fuente
+  https://ambientcg.com/a/Paper006 (imagen medida:
+  https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Paper006/Paper006_SQ_Color.jpg)
+  · ✅ (ficha de la API + medido con Pillow) · licencia ambientCG: gratis, uso libre incluido
+  comercial, sin atribución obligatoria.
+- Textura de tela/punto real equivalente a la trama del uniforme (para dar volumen de tela a la
+  camiseta de Nankatsu o la de Japón): «Fabric 061», 2048×2048 · fuente
+  https://ambientcg.com/a/Fabric061 (imagen medida:
+  https://f003.backblazeb2.com/file/ambientCG-Web/media/surface-preview/Fabric061/Fabric061_SQ_Color.jpg)
+  · ✅ · misma licencia que la anterior.
+- Trama/screentone real de manga (puntos tipo Ben-Day) para comparar con el sombreado a tinta de las
+  hojas de contacto: «Trama de dibuix.jpg», 500×500 · fuente
+  https://commons.wikimedia.org/wiki/File:Trama_de_dibuix.jpg (imagen:
+  https://upload.wikimedia.org/wikipedia/commons/1/13/Trama_de_dibuix.jpg) · ✅ (Wikimedia Commons,
+  CC BY-SA 3.0) · medido con Pillow.
+- Pinceles de screentone/halftone libres para reproducir el punteado del manga clásico (1981-1983,
+  tramas físicas tipo Deleter pegadas a mano): pack «Mabecman's Screentones Halftone Brushes», 34
+  pinceles en alta resolución · fuente
+  https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes · ⚠️ (gratis, pero
+  revisar la licencia exacta de Brusheezy en la ficha antes de redistribuir) · para Photoshop/CSP.
+
+## 23 · Colaboraciones y cruces
+
+Colaboraciones reales confirmadas con enlace, no supuestas: la serie cruza con fútbol real, ropa,
+comida y coleccionismo, y cada una trae pose o ropa nueva que sirve de referencia.
+
+- **Otro juego (crossover dentro de eFootball™, Konami):** colaboración «eFootball™ x Captain
+  Tsubasa» en dos oleadas (la 2ª desde el 5·12·2024): tarjetas especiales de Messi y Takefusa Kubo
+  ilustradas por el propio Yoichi Takahashi, 10 personajes jugables al azar (Tsubasa Oozora, Kojiro
+  Hyuga, Hikaru Matsuyama…), el uniforme de Nankatsu como piel/evento · fuente oficial
+  https://www.konami.com/games/eu/en/topics/18358/ (anuncio, 05.12.2024) y
+  https://www.konami.com/efootball/ja/page/campaign_captain-tsubasa (campaña JP) · ✅ (oficial Konami
+  + prensa: https://www.gamerbraves.com/konami-launches-second-wave-of-captain-tsubasa-collaboration-in-efootball/
+  y, en español, https://tierragamer.com/noticias/videojuegos/efootball-anuncia-su-colaboracion-con-captain-tsubasa-y-messi-traera-el-uniforme-del-nankatsu/).
+- **Marca real (ropa oficial):** camiseta de la selección de Japón edición especial «Captain
+  Tsubasa» (adidas × JFA), dorsal 10 «TSUBASA», con el balón/reto de Tsubasa a Wakabayashi bordado en
+  el pecho y una línea de neón «de la unión» en la espalda, ref. adidas AD654 / G85287-TSUBASA, 2024
+  · fuente (dos tiendas japonesas de fútbol con el mismo código de producto)
+  https://www.sports-ws.com/commodity/SKOB1347D/AD381EU48848 y
+  https://www.gallery2.co.jp/sports/futsal-soccer/item/37717 · ✅ · réplica de aficionado, pose y
+  ropa nuevas (kit real con motivos del manga) útiles para lámina.
+- **Café/restaurante temático:** pop-up «Supercampeones» en la Ciudad de México (ramen, panes al
+  vapor, ambientación de la serie), publicado 06·07·2026 · fuente
+  https://revistaflow.com/el-restaurante-tematico-de-los-supercampeones-llega-a-la-cdmx/ · ⚠️ (una
+  sola fuente en español, no da el nombre exacto del local). En Japón: tienda de artículos de fútbol
+  con productos oficiales «STORE TSUBASA» (Katsushika, Tokio, desde mayo de 2023, junto a la
+  estatua «Golden Twin Shot» de la Ruta Tsubasa) y el restaurante italiano Trattoria Avere con
+  murales dibujados por el propio Takahashi en sus paredes · fuente
+  https://mipon.org/captain-tsubasa-town-tokyo/ y https://www.kanpai-japan.com/tokyo/gol-store-tsubasa
+  · ✅ (dos fuentes de turismo, coinciden en el barrio). Colaboración de comida en EE. UU.: Tsujita
+  Artisan Noodle (Los Ángeles, Houston, Nueva Jersey), menú y merchandising temáticos del 11 de junio
+  al 19 de julio · fuente
+  https://www.tsujita.com/post/celebrate-the-tsujita-artisan-noodle-x-captain-tsubasa-collaboration-with-exclusive-menus-and-mercha
+  · ⚠️ (una fuente, la propia cadena).
+- **Figuras oficiales** (su pose es referencia 3D):
+  - Histórica: figuras de PVC de «Oliver y Benji» (España, años 80) fabricadas por Yolanda con
+    licencia de Tsuchida (el estudio de animación de la serie), 7,5 cm, marcadas «©TSUCHIDA YOLANDA»,
+    colección completa de 4 (Oliver Atom, Benji Price, Mark Lenders, Ed Warner) · fuente
+    https://coleccionismo80-90.blogspot.com/2017/08/campeones-figuras-de-pvc-yolanda.html y
+    https://www.todocoleccion.net/figuras-goma-pvc/figura-pvc-yolanda-oliver-benji-serie-campeones-tsuchida~x215581298
+    · ✅.
+  - Coleccionable de kiosco: «Campeones: Oliver y Benji» de Altaya (España, 2017), colección de 80
+    fascículos quincenales a 9,99 € cada uno, figuras de PVC pintadas a mano de 11-14 cm · fuente
+    https://www.akibastation.es/2017/11/figuras-review-coleccion-figuras-oliver-y-benji.html y
+    https://ramenparados.com/coleccion-figuras-campeones-oliver-benji/ · ✅.
+  - Moderna: «Vibration Stars — Oozora Tsubasa» (Bandai Spirits/Banpresto) y «Anime Heroes — Tsubasa
+    Ozora» (Bandai) · fuente
+    https://solarisjapan.com/products/captain-tsubasa-junior-youth-hen-oozora-tsubasa-vibration-stars-bandai-spirits
+    y https://www.amazon.com/Banpresto-Captain-Tsubasa-Spirits-Vibration/dp/B0CKY3S5H6 · ✅.
+  - Sofubi de edición limitada del cruce con la selección: «Taro Misaki, uniforme del Mundial Sub-Jr.
+    de la selección japonesa (versión AWAY)» · título comprobado en japonés: «【数量限定】『キャプテン翼』
+    ソフビコレクション 岬太郎「国際Jr.ユース大会日本代表ユニフォーム（AWAY）Ver.」» · fuente
+    https://store.hkds.jp/products/hktctso013mt · ⚠️ (una fuente, tienda japonesa).
+- **Cosplay/lugar real:** foto con licencia libre de la zona de Katsushika donde está la estatua
+  «Oliver de los Supercampeones» (Ozora Tsubasa) a 30 min de Tokio · 1024×1024 · fuente
+  https://live.staticflickr.com/597/21283643005_c98e14a85b_b.jpg (CC BY-NC 2.0, Openverse) · ✅
+  (coincide con la ubicación descrita en mipon.org, arriba). No se encontró cosplay de concurso
+  documentado con materiales/fotos de alta que citar aparte del merchandising ya listado en el
+  punto 3 · ⚠️ dilo así en «No encontré».
