@@ -90,7 +90,7 @@ fecha: 2026-09-24
   Wiki pasados por Whisper, con el tono medido de cada voz (§10).
 - **12 poses de Marceline** vistas en vídeo, con minuto (§15) y **una cara
   por emoción** de Finn, Rey Helado, Marceline, Jake, Dulce Princesa y BMO
-  con enlace `?t=` (§8).
+  con enlace `?start=` (Dailymotion salta al segundo con `start`) (§8).
 - **Paletas medidas**: casa de Marceline por dentro y el Reino de Cristal de
   «Obsidian» (§5); vestuario de Marceline, Finn, Jake y Dulce Princesa (§16).
 - **Disco oficial en español** con sus 10 títulos reales (MusicBrainz), y
@@ -2718,7 +2718,7 @@ porqué · ❌ no hecho.
 | 7 | Personajes y popularidad | ⚠️ | no encontré encuesta oficial numérica y Ranker da 401; sí crítica y datos oficiales con dos fuentes (§9) |
 | 8 | Doblaje latino verificado y frases textuales | ⚠️ | reparto principal en dos fuentes (§10.2) y 6 frases reales en audio; falta el episodio de cada audio, clips doblados con minuto (YouTube cerrado) y una segunda fuente para las cantantes |
 | 9 | Música y sonido | ✅ | autores, temas por ambiente, disco en español con títulos reales, lo que suena en las escenas tristes, sonidos reconocibles (§11) |
-| 10 | Vídeos con minuto exacto | ✅ | 12 clips vistos con minuto y enlace `?t=` (§12.0); TikTok comprobados por oEmbed. Los análisis de YouTube no se pudieron ver |
+| 10 | Vídeos con minuto exacto | ✅ | 12 clips vistos con minuto y enlace `?start=` (Dailymotion salta al segundo con `start`) (§12.0); TikTok comprobados por oEmbed. Los análisis de YouTube no se pudieron ver |
 | 11 | Videojuegos: interfaz y cajas de diálogo | ⚠️ | lista ampliada y dos interfaces vistas (§13, §7.3); faltan las cajas de texto de «Nameless Kingdom» y «Pirates of the Enchiridion» |
 | 12 | Lo que ama el fandom y qué NO hacer | ✅ | memes, campaña por Karla Falcón, GLAAD, censura, reglas visuales (§14) |
 | 13 | Descripción profunda y cara en cada emoción | ⚠️ | carácter, arco y dinámicas de 6 personajes (§8); Marceline con 5 caras vistas, los demás con una: faltan más emociones por personaje |

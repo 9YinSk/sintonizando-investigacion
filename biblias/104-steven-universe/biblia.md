@@ -928,3 +928,56 @@ De la Trivia de cada ficha de la [wiki](https://steven-universe.fandom.com/wiki/
 
 **Las que hacen reír**
 - **Sugilite** avergonzando a Perla (`COA` 1:15-1:30) y la **carcajada de Amatista** (`COA` 1:10).
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Canal y título confirmados con la API oEmbed de YouTube (la página completa da 429). **Vistas y comentarios sin ver** ⚠️.
+
+| Qué | Canal | Enlace | Estado |
+|---|---|---|---|
+| «Steven Universe: La Película TRAILER I (Fandub Español Latino)» | **PixlToon-Fandub** ([canal](https://www.youtube.com/@PixlToonFandub)) | https://www.youtube.com/watch?v=CDlMPzFdlvc | ✅ canal y título |
+| «Steven Universe Comic: STEVEN SE CORROMPE I (Fandub Español Latino)» | PixlToon-Fandub | https://www.youtube.com/watch?v=iKEvhwwgEc4 | ✅ · la parte II da 403 ⚠️ |
+| «VideoChat- Steven Universe- Español latino (Fandub)», de 2016, uno de los más antiguos | «StevenUniverse Fan- Tutoriales Fandubs Juegos y más» | https://www.youtube.com/watch?v=3iZ1e9JypBE | ✅ |
+| «Steven Universe OP (Symphonic Metal Ver.) [Fandub Español Latino]»: **el opening en metal sinfónico, cantado en español** | **Ms. Ice Cream** ([canal](https://www.youtube.com/@MsIceCream)) | https://www.youtube.com/watch?v=UQlTq97ywAU | ✅ |
+| Cover de **«Amar Como Tú»** (Love Like You), versión masculina, por Alan Ramírez Tamez | ARTcantanteOficial (Dailymotion) | https://www.dailymotion.com/video/x3fdt3q | ✅ **10 vistas** (API de Dailymotion), 99 s |
+
+- **Leisha Medina**, la voz oficial de Steven, subió a **Smule** partes de «Amar Como Tú» cantadas por ella, para que los fans oyeran cómo sonaba antes de un corte de Cartoon Network · [Smule](https://www.smule.com/recording/steven-universe-love-like-you/465551595_232476544) · ⚠️ (dato de Doblaje Wiki). **Un puente real entre la actriz y la comunidad de covers.**
+- **Andrea Navas** (Lapis) tiene cuenta de TikTok como «Kypirinha» (punto 8).
+- En Reddit no hay un hilo fijo de fandubs en español: la comunidad hispana está en YouTube y TikTok · ⚠️ ausencia.
+- ⚠️ No se encontró contenido de TikTok de la serie en español (no hay acceso a su API). Queda para quien pueda abrir YouTube: mirar vistas y comentarios de estos enlaces.
+- Más covers y la letra de «Somos las Gemas de Cristal»: **biblia 64, punto 22**.
+
+## Punto 23 · Colaboraciones y cruces
+
+- ***Cartoon Network: Battle Crashers*** (2016, GameMill; PS4, Xbox One, 3DS, Switch): **sólo Steven** es jugable, junto a Finn y Jake, Gumball, Mordecai y Rigby, Clarence y el Tío Grandpa. El primer juego de consola con Steven · [Wikipedia](https://en.wikipedia.org/wiki/Cartoon_Network:_Battle_Crashers) · ✅
+- ***Tap Together*** (Cartoon Network Games): juego de ritmo móvil con el arte y la música de la serie, con eventos como el «Sadie Killer Event» · [post de Cartoon Network en X](https://x.com/cartoonnetwork/status/1055490476021821440) · ✅. ⚠️ La nota de [BroadwayWorld](https://www.broadwayworld.com/bwwtv/article/Cartoon-Network-Releases-New-STEVEN-UNIVERSE-Mobile-Game-App-20160721) es de julio de 2016 y quizá hable de otra app: comprobar.
+- **Hot Topic**: camisetas, mochilas y joyas con arte propio de las Gemas; una camiseta de **Diamante Rosa exclusiva** de la tienda · [tienda](https://www.hottopic.com/pop-culture/shop-by-license/steven-universe/) · [camiseta](https://www.hottopic.com/product/steven-universe-pink-diamond-t-shirt-hot-topic-exclusive/11408887.html) · ✅
+- **Figuras Funko Pop!** (desde 2016): Garnet, Amatista, Perla y Steven en estilo *chibi*. Pose de pie con los brazos pegados: referencia de figura, no de acción · [Funko, Garnet](https://funko.com/steven-universe---garnet/6981.html) · ✅
+- **Cosplay con licencia libre** (Flickr, vía Openverse) · ✅ licencia en la ficha
+  - **Garnet**, Sakura-Con 2016, con afro y visor bien hechos · camknows · CC BY-NC-SA 2.0 · 1024×683 · https://live.staticflickr.com/1536/25995790691_274aa59caf_b.jpg
+  - **Lapis Lázuli** · greyloch · CC BY-NC-ND 2.0 · 683×1024 · https://live.staticflickr.com/1599/24783048900_1d8585d39a_b.jpg
+  - **Amatista** · San Diego Shooter · CC BY-NC-ND 2.0 · 1024×676 · https://live.staticflickr.com/932/43599616701_6afdca5299_b.jpg
+  - **Perla** · Tekno Omega Photography · CC BY-NC-ND 2.0 · 597×1024 · https://live.staticflickr.com/8651/28277935443_e53ea413ab_b.jpg
+  - Figura mini de Funko · Sergey Galyonkin · CC BY-SA 2.0 · https://live.staticflickr.com/4279/34589194024_b908708a78_b.jpg
+- **Premio Peabody 2019** (punto 21).
+- ⚠️ **No hubo** colaboración con Fortnite, juegos gacha ni cafés temáticos oficiales: se buscó en español e inglés sin resultado.
+
+## Punto 24 · Obras parecidas
+
+**Influencias que reconoce Rebecca Sugar** ([CBR](https://www.cbr.com/anime-that-influenced-steven-universe/), leído entero) · ✅
+- ***Revolutionary Girl Utena***: la más directa. La esgrima de Perla copia la de Utena; el Sky Arena donde Perla entrena a Steven y a Connie es el escenario del duelo «End of the World»; Steven sacando la espada de Rose de la melena del León imita a Utena sacando la suya del pecho de Anthy.
+- ***Neon Genesis Evangelion***: **Alexandrite** (la fusión de las tres) se mueve como la Unidad-01 en «Fusion Cuisine» y «Super Watermelon Island»; la felicitación de «The Test» calca el final «Congratulations». Pesa más en *Future*, sobre el trauma de Steven.
+- ***Gurren Lagann***: Garnet y Peridot se ponen gafas nuevas al estilo de Kamina; Spinel usa un taladro gigante; «Be the Steven you want to see in the world» recuerda a «Believe in the me that believes in you».
+- ***Capitán Harlock***: Lars como pirata espacial (cicatriz, abrigo, nave). Es justo el protagonista de la secuela *Lars of the Stars* (punto 10).
+- Guiños sueltos: *Initial D* («Beach City Drift», hoja n.º 145), *Nicky, la aprendiz de bruja* («Kiki's Pizza Delivery Service»), *Akira* (Connie derrapando sobre el León en la película) y el relato de Junji Ito «El enigma de la falla Amigara».
+- ***Sailor Moon***: un tomo en el cajón de Steven en «House Guest», ecos en el vestido de Rose · ✅
+- ***Hora de Aventura***: Rebecca Sugar fue guionista y *storyboarder* allí (nominada al Emmy y al Annie) hasta que aprobaron su serie en 2013 · [Wikipedia](https://en.wikipedia.org/wiki/Steven_Universe) · ✅
+
+**Series de tono parecido** (listas de prensa) · ⚠️ opinión: *The Owl House*, *Gravity Falls*, *Over the Garden Wall*, *Star vs. the Forces of Evil*, ***She-Ra and the Princesses of Power*** (la comparación más repetida), *The Dragon Prince*, *Amphibia*, *Summer Camp Island*, *Hilda*, *El increíble mundo de Gumball*, *OK K.O.!*
+
+**Otras láminas del servidor que se le parecen** (comprobado con `grep` en `biblias/`)
+- **64 · Steven Universe**: la misma serie. Ya usa la Puerta del Templo, la *Guía de las Gemas*, el cancionero en el vagón y la frase de Garnet sobre las fusiones. **Los conceptos de aquí no repiten ninguno.**
+- **14 · Hora de Aventura**: mismo origen (Sugar salió de ahí) y cita una canción de Steven Universe · ✅
+- **38 · Sailor Moon**: si usa una pose de transformación mágica, no repetirla aquí · ⚠️
+- **63 · Las guerreras K-pop**: grupo que canta y pelea a la vez; no repetir «la canción como arma». Además propone el mismo canal (#demos-canto) · ⚠️
+- No hay biblias de *She-Ra* ni *Gravity Falls* · ✅
