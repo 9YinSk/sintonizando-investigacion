@@ -1798,3 +1798,49 @@ dueño). Que dos series pidan el mismo canal no bloquea nada (§0).
   charco en primer plano refleja el cartel.
 
 ---
+
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### 28.1 Correcciones (mirando las hojas)
+
+| Decían las partes | Es | Cómo se vio |
+|---|---|---|
+| Teru va al «Black Vinegar **High** School» | **secundaria**: 黒酢中2年 | cartela de la hoja n.º 41 |
+| el gakuran de Mob tiene forro verde `#052805`; línea del anime `#223F21` / `#21321D` | son el **fondo verde** de las hojas de modelo de la wiki, que se coló en el recorte | hojas n.º 34, 64, 65 y `vestuario_01.jpg` |
+| Dimple es un «fantasmita **azul**» | es **verde** en el anime | hojas n.º 45, 52, 55, 71 |
+| el globo dentado «RAINBOW SEAL!!!» es de Dimple, en `Dimplemusashi.png` | es una **técnica de Reigen**, en la página «Reigen Special Technique - Rainbow Seal» (n.º 59); `Dimplemusashi.png` es Musashi poseído, sin globo (n.º 51) | hojas ampliadas; arreglado también en `referencias.json` |
+| la tarjeta «Ecstasy» es オーガズム | es **快感** ECSTASY | hoja n.º 66 ampliada |
+| la cajita «MOB 0% / REIGEN 1000%» es del anime | es del **manga** (página en blanco y negro) | hoja n.º 56 ampliada |
+| las fotos «Live» son todas de la versión de imagen real | la n.º 74 lleva el rótulo **舞台モブサイコ100**: es de la **obra de teatro** | hoja n.º 74 ampliada |
+| Matsuo es del arco del Club de Mejora Corporal | Doblaje Wiki lo pone con los **ex de Claw**; la hoja n.º 12 dice «Matsuo appears Domination Arc» | Doblaje Wiki + hoja |
+| la n.º 18 es el interior de la oficina | es **exterior**: Reigen y Mob de espaldas mirando el brócoli | hoja n.º 18 |
+| 悲しみ Sadness en las n.º 33 y 41 | 33 sí; la **41 es la cartela de Teru** (las otras 悲しみ son la 57) | hojas |
+
+### 28.2 Lo que queda sin verificar ⚠️
+
+- **Doblaje**: director de la T3 («Luna» o «Luis» Arjona); voz de
+  **Musashi** (Pokora o Urbalejo); «Moff» y «Reigenzama» son lecturas de
+  Whisper: **hay que oírlas**; 17 muestras de Doblaje Wiki sin transcribir.
+- **Vídeo**: opening 2 y 3 y endings de la T2 y T3 sin ver; **sin
+  fotograma de la T2 ni de la T3** (muerte de Dimple, rueda de prensa de
+  Reigen, cara de Reigen llorando); minuto exacto de 100 % Tristeza dentro
+  del ep. 5; que Mob vs. Koyama sea el ep. 8 (una fuente).
+- **Color**: verde de Dimple en el anime, callejón nocturno, monte en
+  otoño, atardecer del ending 1 y el colegio: **sin hex**; color exacto de
+  la línea del anime.
+- **Letras**: Bangers, Shippori Mincho B1 y Big Shoulders Display sin
+  pasar por fontTools; letra de la interfaz de *Psychic Battle*; una
+  letra de máquina irregular con tildes para la cartela; fotograma de los
+  subtítulos en español.
+- **Técnica**: el programa que usó Bones; las influencias que reconoce
+  ONE.
+- **Popularidad**: no hay encuesta oficial japonesa localizada.
+- **Web**: vistas de los fandubs y covers (YouTube bloqueado), TikTok
+  sin abrir, The Cutting Room Floor tras Cloudflare, página oficial de
+  UNIQLO UT, fondos oficiales en alta, 3D libre de los sitios, *rig* libre.
+- **Vestuario**: el pelo más largo de Mob en el arco final, sin imagen
+  grande.
+- **Inventario**: el texto de #presentaciones sale cortado («nadie
+  comenta…»).
+
+---

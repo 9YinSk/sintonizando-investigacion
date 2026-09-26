@@ -14,7 +14,8 @@ ahora lleva el lote H.)
 - 119 A Plague Tale: **COMPLETA** y subida (13:41). ✅22 ⚠️15 ❌0, 124 referencias, 57 webs, 129 minutos, 85 hex, 872 líneas.
 - 120 Days Gone: **COMPLETA** y subida (18:32). ✅21 ⚠️16 ❌0, 114 referencias, 54 webs, 140 minutos, 38 hex, 856 líneas.
 - 121 Tomb Raider: **COMPLETA** y subida (23:59). ✅22 ⚠️15 ❌0, 193 referencias, 56 webs, 91 minutos, 55 hex, 827 líneas.
-- 122: recolectado con hojas; 123-127 recolectando.
+- 122 Little Nightmares: **COMPLETA** y subida (00:01 UTC, 26-sep). ✅25 ⚠️11 ❌0, 208 referencias, 54 webs, 120 minutos, 80 hex, 930 líneas.
+- 123-127 recolectando.
 - Cambio de cuenta (25-sep, 13:25 UTC, cuenta .108): rama juntada; guardar.sh cada 300 s.
   119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
   120: imagen y voz listas; texto vacío y sin video → texto y video (Sonnet) relanzados.
