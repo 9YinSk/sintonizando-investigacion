@@ -389,10 +389,11 @@ una peli.
 - **Cosplay premiado en competición internacional**: un cosplay de **Mi
   Vecino Totoro** ganó aplausos y elogios en el **World Cosplay Summit**
   (la referencia más "oficial" de un concurso de cosplay reconocido
-  internacionalmente en el que ha destacado un disfraz Ghibli). ✅ (fuente:
-  [cbr.com/studio-ghibli-my-neighbor-totoro-world-cosplay-championship-award](https://www.cbr.com/studio-ghibli-my-neighbor-totoro-world-cosplay-championship-award/))
-  ⚠️ falta cruzar con una segunda fuente el año/nombre exacto del
-  cosplayer — quedó pendiente por cupo, ver «No encontré».
+  internacionalmente en el que ha destacado un disfraz Ghibli). ⚠️ (una
+  fuente:
+  [cbr.com/studio-ghibli-my-neighbor-totoro-world-cosplay-championship-award](https://www.cbr.com/studio-ghibli-my-neighbor-totoro-world-cosplay-championship-award/) —
+  falta cruzar el año/nombre exacto del cosplayer con una segunda fuente,
+  quedó pendiente por cupo, ver «No encontré»).
 - **Lo que NO existe (comprobado, no asumido)**: colaboraciones oficiales
   con Gucci, New Balance, MUJI o GU — busqué las cuatro juntas en inglés y
   sólo salió UNIQLO (ya cubierto por las hermanas). ⚠️ No lo doy por

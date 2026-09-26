@@ -325,3 +325,27 @@ CV. 福島潤 (Fukushima Jun), アクア CV. 雨宮天 (Amamiya Sora), めぐみ
 (Hara Sayuri), クリス CV. 諏訪彩花 (Suwa Ayaka), ウィズ CV. 堀江由衣 (Horie
 Yui), ゆんゆん CV. 豊崎愛生 (Toyosaki Aki) — https://www.dailymotion.com/video/x8qwfj9?t=77
 (fotograma de créditos STAFF/CAST completo, 1:17) ✅.
+
+### 20 · Gustos y detalles de cada personaje
+
+Cumpleaños y edad de AniList (ya en `datos-voz.md`) cruzados con la wiki en
+inglés `konosuba.fandom.com` para gustos/manías; altura sólo confirmada para
+Kazuma (única ficha que la trae) — el resto ⚠️ si no aparece.
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Kazuma | mujeres con mucho pecho y pelo largo; el juego de cartas «Young Grandchild»; apostar (se lo enseñó Dust) | que se aprovechen de él o de su grupo; los combates «injustos» del mundo nuevo | videojuegos (compró *Myriad Swords 2* antes de morir); dormir más de 12 h al día; apostar | 7 de junio | 162 cm | AniList ✅ + konosuba.fandom.com (Trivia) ✅ |
+| Aqua | el alcohol espumante (duerme abrazada a una botella); coleccionar y pulir piedras, incluida una que busca Chris | que la llamen inútil o «diosa de pacotilla» (aunque ella insulta igual a Kazuma); quedarse sin plata | beber, ir de fiesta, presumir de ser «de una belleza deslumbrante» | 1 de agosto | ⚠️ no encontrada | AniList ✅ + konosuba.fandom.com (Personality/Trivia) ✅ |
+| Megumin | la Magia Explosión (su calor, la onda expansiva, el humo, el brillo); lo «edgy», nombres raros, moda gótica; en secreto, las mascotas tiernas (no lo admite) | cualquier otro tipo de «explosión» que no sea su hechizo (rechaza los «tinymites» de Kazuma); que la vean poco «genial» | practicar poses «cool»; presumir su título de archimaga | 12 de abril | ⚠️ no encontrada | AniList ✅ + konosuba.fandom.com (Personality) ✅ |
+| Darkness | hombres vagos, pervertidos, sin oficio y alcohólicos que la traten mal (su «tipo»); el dolor y la humillación, física o verbal; la ropa mona (en secreto se prueba la de Megumin) | que le comenten el peso o lo duros que son sus músculos | fantasear con ser capturada por el Rey Demonio; ejercicios de resistencia | 4 de junio | ⚠️ no encontrada | AniList ✅ + konosuba.fandom.com (Personality/Trivia) ✅ |
+| Yunyun | hacer amigos de verdad; los juegos de mesa de dos jugadores (los juega sola, cambiando de silla); su diario | que la vean como rara o solitaria (lo es, pero le duele) | pasar el rato en el Gremio; escribir su diario; celebrarse su propio cumpleaños con regalos que ella misma se compra | 29 de febrero | ⚠️ no encontrada | AniList ✅ + konosuba.fandom.com (Trivia) ✅ |
+
+**Cómo se ven a sí mismos** (autoimagen, dato pedido explícitamente por el
+punto 20): Aqua se cree de «belleza deslumbrante» y mira a Megumin y
+Darkness como sólo «relativamente bonitas»; Megumin se presenta siempre como
+«la más grande archimaga»; Kazuma fue chūnibyō de joven y por eso conoce el
+percal cuando Megumin actúa — se ve a sí mismo como el único «cuerdo» del
+grupo aunque también hace trampas y apuesta; Darkness se ve como una cruzada
+noble en público pero en privado busca activamente la humillación · todo de
+`konosuba.fandom.com`, secciones Personality y Trivia de cada uno ✅ (mismas
+fuentes citadas arriba).
