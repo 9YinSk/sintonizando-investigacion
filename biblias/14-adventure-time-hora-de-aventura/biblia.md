@@ -63,7 +63,58 @@ fecha: 2026-09-24
 >   siempre va marcado.
 
 > [!note] Segunda pasada · qué cambió
-> _(se rellena al terminar el repaso)_
+> **Corregido (antes → ahora)**
+> - **Piel de Marceline**: `#A9B8C2`, «gris azulado», de memoria →
+>   **`#D8E7E7`**, casi blanca con un toque menta, medida dos veces en el
+>   *model sheet* oficial y en una captura (§5.3, §16). El `#657471` que
+>   da un fotograma es la piel **en sombra**, no su color.
+> - **Pelo**: «negro azulado» `#1C1B2B` → **negro puro `#000000`** en el
+>   color plano (en escena, `#150209`).
+> - **Finn**: «camiseta celeste» `#35A9E0` → **`#018BCB`**; piel `#FDE5DA`.
+> - **Licencias 3D**: «sin ver» → leídas en la API: el bajo de **Haxis es
+>   CC BY**; el «Low Poly» de cuxilrodas **no es Creative Commons**
+>   («Free Standard») (§4.1).
+> - **«¡Oh por Glob!»**: «dato confuso» → **muletilla latina de la
+>   Princesa Grumosa**, confirmada (§10.4).
+> - **Karla Falcón**: «vuelve desde la 4» → vuelve en el **ep. 96, «Rey
+>   Gusano»**, tras **una campaña de los fans** (§10.2, §E). Claudia Urbán
+>   la suplió en los eps. 58-94.
+> - **BMO latino**: una fuente → **Gustavo Melgarejo** (T1-5) y **Héctor
+>   Emmanuel Gómez** (desde «El traje de Jake»), con dos fuentes.
+> - **Disco en español**: fecha dudosa → **25-oct-2019**; pistas 3 y 6 con
+>   su nombre de MusicBrainz y duración (§3.4).
+> - **«I Remember You»**: sólo notas → también **una Polaroid** de Marcy
+>   niña (visto, §2.4).
+> - **«I'm Just Your Problem»**: luz de cueva → **tarde despejada** sobre la
+>   puerta de los círculos dorados; y lleva **sombrero mostaza** (nuevo).
+> - **Fuente de fans del logo**: «no sé si trae tildes» → las tiene sólo
+>   en Mac Roman; **no sirve para español** en Windows (§6.1).
+> - **Letrista de BOOM!**: de memoria → **Steve Wands**, dos fuentes.
+>
+> **Añadido**
+> - **Hojas de contacto** (§3.0) y arte de producción visto (§3.7).
+> - **Escenas y poses vistas en vídeo** con minuto y `?t=` (§2, §12.0,
+>   §15.0); **caras por emoción** (§8.2).
+> - **Colores medidos** de la casa, el Reino de Cristal y los trajes
+>   (§5.3, §16).
+> - **Doblaje leído en la API**: directores por temporada, traductores,
+>   Arturo Castañeda, y **6 frases textuales oídas** (§10).
+> - Personajes a fondo, **Rey Helado/Simon** con ficha propia y voces
+>   medidas (§8.1-8.4); popularidad con fuentes (§9).
+> - Retratos del juego de DS y menú de Card Wars (§7.3, §13).
+> - Los puntos nuevos del encargo: estilo y técnica (§A), texturas 2D
+>   (§B), gustos (§C), por qué la aman (§D), fan dubs (§E),
+>   colaboraciones (§F), obras parecidas (§G) y el mundo (§H).
+> - Guía de IA **de texto** con frases por emoción (§18.7); tabla
+>   «Cumplimiento del encargo»; **157 referencias** (antes 36).
+> - Conceptos: los tres siguen, con imágenes vistas; **A pasa a ser el
+>   recomendado** (todo su sitio está visto y medido).
+>
+> **Los ⚠️**: había **84**; ahora hay **164**, porque las secciones nuevas
+> marcan una a una lo dudoso. De los viejos se resolvieron los de
+> colores, licencias, doblaje, poses de Marceline, fuente del logo y
+> fecha del disco. Lo que queda está en §20.2 y en la tabla de
+> cumplimiento.
 
 ---
 
@@ -2715,7 +2766,48 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
 
 ## Cumplimiento del encargo
 
-_(pendiente)_
+✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Estado tras la
+segunda pasada del equipo (25-26 sep 2026).
+
+| Punto de ENCARGO.md | Dónde | Estado | Por qué |
+|---|---|---|---|
+| 1 · Arte oficial variado | §3, §3.0, §3.7 | ✅ | 1188 imágenes de la wiki en 13 hojas (3 aquí, miradas y numeradas); *model sheets* con ficha de producción, bocetos de Tom Herpich y concept art de «Obsidian» vistos; discos, libros y cómics con fuente. El póster de «Obsidian» y las portadas de «Scream Queens», sin ver. |
+| 2 · Fotogramas de escenas icónicas | §2, §2.9, §12.0 | ⚠️ | 4 escenas, el opening y los créditos vistos con minuto exacto y `?t=`. Sólo el opening y el tráiler de «Obsidian» están en **1080p**; el resto en 720p (Dailymotion; YouTube pide iniciar sesión). El concierto del cementerio, «Henchman» y «Marceline's Closet», sin clip. Los fotogramas 1920×1080 de la wiki no traen minuto. |
+| 3 · Fan art y 3D con licencia | §4, §17.1 | ✅ | 18 modelos de Sketchfab con licencia leída en su API (el bajo de Haxis es CC BY; el de cuxilrodas no es CC); casa del árbol en 3D; fan art con autor. Otros 6 bajos sin campo de licencia (dicho). |
+| 4 · Sitios, luz, paleta y texturas | §5 | ⚠️ | Casa de Marceline por dentro y Reino de Cristal con hex **medidos** en fotogramas; luz vista; texturas CC0 con nombre. **La cueva y el Anfiteatro Fantasma siguen de memoria** (sin clip). |
+| 5 · Tipografía por uso | §6 | ✅ | Tabla de una letra por uso; la fuente de fans del logo abierta con fontTools (sólo Mac Roman: no para español) y 6 letras libres comprobadas otra vez; letrista de BOOM! con dos fuentes. La letra de los créditos no se identificó. |
+| 6 · Cómo hablan en pantalla | §7 | ✅ | Sin globos: papel escrito a mano (la nota de Simón vista, hoja 9 #408), cuaderno, cartelas con tramado, pantalla de BMO (parodia de Game Boy, dos fuentes) y la letra grabada en el vinilo. Los globos de BOOM!, sin ver una página. |
+| 7 · Personajes y popularidad | §8, §9 | ⚠️ | Marceline: BOOM!, CN UK «Character of the Week», *The Guardian*; Rey Helado: *Vulture*; BMO: favorito de Ward. **No hay encuesta con números**: la oficial no la encontré y Ranker dio 401. |
+| 8 · Doblaje latino y frases | §10 | ⚠️ | Reparto, estudios, directores y traductores leídos en la API de Doblaje Wiki, los principales con segunda fuente. **6 frases textuales oídas** en audios oficiales de la wiki, pero **sin episodio ni minuto**: no hay clips oficiales doblados en Dailymotion y YouTube bloquea. Cantantes de Marceline, una fuente. |
+| 9 · Música y sonido | §11 | ⚠️ | Compositores, autora de las canciones, disco en español con duraciones (MusicBrainz), de qué trata «Everything Stays» (fuente primaria), variantes de la intro. No se buscó un efecto de sonido concreto; la serie no rotula onomatopeyas. |
+| 10 · Vídeos y tendencias con minuto | §12 | ⚠️ | 9 clips de Dailymotion vistos con minuto y 4 TikTok comprobados por oEmbed. Los vídeos de YouTube (análisis y clips latinos) **siguen sin mirar**; vistas de TikTok sin contar. |
+| 11 · Videojuegos | §7.3, §13 | ⚠️ | 7 juegos con estudio y año; retratos de DS y menú de Card Wars vistos y medidos; 5 juegos con cruce (§F). **La caja de diálogo** de ninguno se vio. |
+| 12 · Lo que ama el fandom y qué no hacer | §14 | ✅ | Memes, «¡Oh por Glob!» confirmado, campaña por Karla Falcón, GLAAD; lista de errores ampliada con lo medido (piel, pelo, fuente del logo). |
+| 13 · Descripción profunda y caras por emoción | §8, §8.1-8.4 | ⚠️ | Carácter, arco, miedos, cómo se ve, qué transmite y dinámicas de 6 personajes; voz medida con `voz.py`. **Caras con minuto: 7 de 25** combinaciones (más el Rey Helado); faltan casi todas las de Finn, Jake, la Princesa y BMO. |
+| 14 · Poses con minuto | §15, §15.0 | ⚠️ | Marceline: **12 poses vistas** en vídeo con minuto, más 13 de transcripción y 3 de arte oficial. Finn, Jake y la Princesa: 2-3 vistas cada uno; BMO: 1. El resto, con minuto estimado. |
+| 15 · Vestuario con hex | §16 | ✅ | Tres trajes de Marceline, Finn, Jake y la Princesa **medidos** en *model sheets* y capturas; piel de Marceline corregida a `#D8E7E7`; sombrero nuevo. Sin medir: BMO, corona, vaqueros. |
+| 16 · Ciudades y fondos de pantalla | §17, §5.2 | ✅ | 4 fondos de fans con tamaño, autor y favoritos (Wallhaven); sitios con su luz y hora vistos. **Fondos oficiales** de descarga, no encontrados (dicho). |
+| 17 · Guía para IA de imagen y de texto | §18 | ✅ | Rasgos fijos con hex medidos, línea y sombra, luz, encuadre, palabras que ayudan y que estropean, referencias por número de hoja y minuto, vocabulario de gestos visto, forma de hablar de cada uno y 14 frases por emoción (6 oídas en latino). |
+| 18 · Estilo, técnica y cómo replicarlo | §A | ✅ | Papel y tinta digital, Photoshop en preproducción (una fuente), animación en Corea; recetas de Photoshop y Blender; encuadres por emoción sacados de los clips vistos. No hay entrevista sobre encuadres. |
+| 19 · Texturas 2D | §B | ✅ | Tramado de cartelas, *halftone* gratis, papel, cartón, tela, madera y cuero CC0 con nombre. Brusheezy, licencia variable (dicho). |
+| 20 · Gustos y detalles | §C | ⚠️ | Comida, aficiones, objeto, mascota y cómo se ven, con episodio, para 6. **Ninguna altura** en las fichas; cumpleaños sólo de Marceline; la *Encyclopædia* no cargó. |
+| 21 · Por qué la aman | §D | ⚠️ | Premios, crítica, con quién se identifican y Reddit con votos (1186). «I Remember You» completa (minuto, música, dibujo, reacción); el final y «Simon & Marcy», **sin ver cómo están dibujadas**; vídeos de reacción no vistos. |
+| 22 · Fan dubs y comunidad hispana | §E | ⚠️ | La campaña por Karla Falcón (documentada), 5 fandubs de YouTube, 2 TikTok, letras de fans, disco oficial en español. **Sin vistas ni fechas** (YouTube y TikTok bloquean). |
+| 23 · Colaboraciones, figuras y cosplay | §F | ✅ | Fortnite (con el bajo tocable), MultiVersus, LEGO Dimensions, Minecraft, Brawlhalla, Xbox; Funko con guitarra; 4 construcciones reales del bajo con materiales. Cafés y eventos en Latinoamérica, no buscados. |
+| 24 · Obras parecidas | §G | ✅ | La familia de *Flapjack* con dos fuentes, influencias de Ward, y 4 biblias del servidor que se le cruzan (Steven Universe, Rick y Morty, Coco, Mafalda). |
+| 25 · El mundo y sus símbolos | §H | ✅ | Reglas en cinco líneas, arcos por temporada, 7 objetos y el vocabulario propio con fuente. |
+| 3 conceptos de lámina | §19 | ✅ | Caja de discos en casa de Marceline (A, recomendado), concierto (B) y mixtape de BMO (C), con número de hoja, minuto, letra, sitio de cada texto y profundidad; actualizados con lo visto. |
+| 40 fuentes distintas | todo | ✅ | Más de 100 webs distintas enlazadas (lo cuenta `revisar.py`). |
+| Tipos de fuente | bitácora §21 | ⚠️ | Oficiales, wikis (API), foros (Reddit, RPF), arte, vídeo, código (GitHub), 3D y doblaje: sí. **TCRF dio 403 y la Wayback Machine se cortó.** En japonés sólo una fuente (primera pasada); coreano y chino, no (serie estadounidense). |
+| Hojas de contacto | `hojas/`, §3.0 | ✅ | 3 hojas (personajes 1-48, personajes 49-96, escenas 385-432), menos de 1 MB cada una, miradas y citadas por número. |
+| `referencias.json` | archivo | ✅ | **157** referencias (antes 36): todas las útiles de las partes y del recolector, las mejores primero; 63 con ancho y alto medidos. Fuera quedan dos falsos positivos de Openverse. |
+
+**⚠️ antes → después**: la primera pasada tenía **84**; ahora hay más
+(ver «Segunda pasada · qué cambió»), porque las secciones nuevas (A-H,
+caras, gustos, fandubs) marcan una a una lo dudoso. De los viejos se
+resolvieron los de colores, licencias 3D, doblaje, «Oh por Glob», fecha
+del disco, fuente del logo, letrista de BOOM!, poses de Marceline y el
+«no hay imágenes».
 
 ---
 
