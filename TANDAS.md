@@ -319,7 +319,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 
 - [x] 121-tomb-raider
 - [x] 122-little-nightmares
-- [ ] 123-reanimal
+- [x] 123-reanimal
 - [x] 124-no-man-s-sky
 
 ## Tanda S32
