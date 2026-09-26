@@ -41,7 +41,33 @@ hoja_10, `indice.json` con tamaño real y URL de cada una).
 
 ## 15 · Vestuario, colores medidos
 
+## 15 · Vestuario, colores medidos
+
+Método: se bajó el PNG oficial «3rd» (transparente) de cada personaje y se midió sólo los píxeles opacos (máscara alfa, Pillow+numpy) para no contaminar la paleta con el fondo blanco. Fuente de las 4: https://static.wikia.nocookie.net/konosuba/images/{4/4e Aqua, 5/5b Kazuma, c/ca Darkness, f/f3 Megumin} · ✅ (medido directamente, dos veces reproducible).
+
+- **Kazuma** — traje de aventurero (icónico, el que más se reconoce): capa/cuello verde azulado **#307878**, ribete dorado de la capa **#E4CC84**, forro de la capa y pantalón azul grisáceo oscuro **≈#3C3C48** (29% de los píxeles, el color que más domina el traje), túnica blanco grisáceo **#E4E4E4**, piel **#F0D8B4**, pelo castaño con sombra **#785448**.
+- **Aqua** — vestido de sacerdotisa azul: celeste medio **#789CD8**, celeste claro (mangas/detalles) **#A8D8F0**, azul marino de los pliegues **#303060**-**#484884**, piel rosada **#FCD8CC**.
+- **Darkness** — armadura de cruzada dorada sobre body negro: dorado/naranja de la armadura **#F0B43C**-**#FCC03C** (con brillo **#FCF0C0**), body negro/gris oscuro **#303030**-**#484848**, piel clara **#F0E4E4**.
+- **Megumin** — vestido de maga carmesí: vino/burdeos base **#6C4854**-**#603C48**, rojo más vivo de la capa y acentos **#C03C48**/**#B43C3C**, canela de cinturón y vendas **#C07848**-**#9C543C**, piel **#F0D8C0**. Su sombrero es morado oscuro (no midió alto % por ser pequeño en el sprite).
+- **Traje icónico por personaje** (el que todos reconocen, confirmado por repetirse en portadas y fotogramas): Kazuma = capa verde-dorada de aventurero; Aqua = vestido celeste de diosa/sacerdotisa con mangas desprendidas; Megumin = sombrero de bruja + vestido rojo + capa negra + parche en el ojo; Darkness = armadura dorada de cruzada. ✅ (coincide en portadas de novela, modelo «3rd» y fotogramas de anime).
+- **Trajes alternos** (screenshots oficiales de la wiki, iluminación de escena — colores aproximados, no el traje base):
+  - Darkness de **maid** (uniforme de sirvienta, arco de la mansión encantada): tonos madera/beige oscuros por ser interior en penumbra, delantal claro **#E0DAC7**, marrón rojizo del vestido **#76351D** — hoja_01 #10 · ⚠️ (escena oscura, colores no fiables al 100%).
+  - Megumin y Yunyun con **uniforme escolar** estilo academia (blazer gris, capa rosa con ribete vino, corbata a rayas, falda rosa): capa/moño vino **#A24A4A**, falda y corbata rosa pálido **#E3B8B9**/**#EDC6C7** — hoja_10 (imagen «School Uniforms.jpg») · ⚠️ (posible arte de gag/omake, no confirmé si es canon del anime o extra de novela).
+  - Aqua de **sacerdotisa de la Iglesia Axis** en pantalla (bata blanca con detalles dorados, cruz en el pecho) descrita en fotogramas (hoja_01 #9, #13) · ⚠️ (una sola fuente visual, sin medir hex por ser plano pequeño).
+  - Trajes de baño de temporada 2/3 (bikinis oficiales) visibles en hoja_02 #97-98 y en los wallpapers de Wallhaven (`datos-imagen.md`) · ✅ (dos fuentes: wiki + Wallhaven).
+- **No encontré** una guía oficial de vestuario por arco/temporada tipo «databook» con hex exactos del estudio: los colores de esta sección son medidos por mí sobre el arte oficial, no citados de una ficha de producción.
+
 ## 16 · Ciudades, paisajes y fondos de pantalla
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+- **Axel** (pueblo base del grupo): calles con edificios de madera y piedra clara, luz cálida de día — visto en hoja_01 #13-14, #22 (Bringing Wiz, Time to Take Action) · ⚠️ (descrito de fotogramas, sin medir hex por ser interior/exterior mixto en la miniatura).
+- **Aldea de los Demonios Carmesí** (pueblo de Megumin): paleta medida sobre «Arriving in the Village.jpg» (3156×1294) — crema/beige de las paredes **#F7F1E5**, cielo azul **#5AB9E6** y **#ADEAF8**, siluetas moradas de tejado a contraluz **#3F3943**, tejas terracota **#A7624F**, acento dorado **#F0AF5D**. Escena de día, luz frontal cálida · ✅ (medido con `estilo.py`) · https://static.wikia.nocookie.net/konosuba/images/a/a6/Arriving_in_the_Village.jpg
+- **Tormenta de nieve / arco de invierno**: paleta fría y uniforme medida sobre «Icestorm.jpg» — azules grisáceos **#66869C**, **#7B9CB0**, **#4E6A83**, casi sin tonos cálidos (saturación 25%, brillo 72%) · ✅ · https://static.wikia.nocookie.net/konosuba/images/1/1c/Icestorm.jpg
+- **Key visual de temporada 3** (paisaje de pradera con el grupo): cielo azul vivo **#40AAE6**/**#2380CA**, césped verde saturado **#67A12E**/**#A4CD50**, la imagen con más saturación medida de toda la serie (57%) — luz de mediodía sin nubes · ✅ · https://static.wikia.nocookie.net/konosuba/images/c/cf/Konosuba_Season_3_Teaser_Visual.jpg
+- **Mansión embrujada** (arco de Darkness/Vanir): interiores nocturnos con luz de velas, tonos madera oscura — hoja_01 #10, #15; también existe como escenario 3D completo con licencia CC Attribution (Pr2Hack, ver punto 3) · ⚠️/✅ combinado.
+- **Fondos de pantalla oficiales y de fans** (Wallhaven, ya reunidos en `datos-imagen.md`, 14 wallpapers aptos ≥1920×1080 con corazones, tamaño y autor/origen) · ✅. Los más guardados: Megumin con sombrero de bruja (1920×1080, ♥453, autor Jeko98) y Megumin en Vol.5 recortada a 1920×1200 (♥344).
+- **No encontré** fondos de pantalla oficiales en 4K (3840×2160 o más) publicados por el estudio o Kadokawa fuera de las portadas de Blu-ray; lo más alto en Wallhaven son recortes de fans a 4096px de ancho.
 
 ## 19 · Texturas 2D
 
