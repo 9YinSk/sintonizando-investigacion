@@ -147,4 +147,3 @@ Sin doblaje oficial en español, la comunidad hispana hace principalmente **fand
 | 21 · Por qué la aman | ✅ | Identificación por camino, escenas que hacen llorar (Penacony, 3.6) con reacción de Reddit |
 | 22 · Fan dubs | ✅ | 2 canales identificados con suscriptores y vídeos; aclarado por qué no hay covers de opening |
 
-Sigue: sacar «cara en cada emoción» (al menos rabia, tristeza, miedo o vergüenza) de March 7th, Kafka, Trazacaminos y Firefly con fotograma y minuto — de una cinemática de misión principal o de un tráiler más centrado en el rostro (el punto 13 sólo tiene alegría/serenidad/determinación por ahora) — es lo único obligatorio que quedó a medias.
