@@ -12,6 +12,7 @@ Cuenta: cuenta I34
 - 40 Digimon Adventure: **COMPLETA** (00:03). ✅22 ⚠️10 ❌0, 159 refs, 48 webs.
 - 41 Dandadan: **COMPLETA** (07:20). ✅23 ⚠️11 ❌0, 178 refs, 50 webs.
 - 42 Blue Lock: **COMPLETA** (23:04). ✅23 ⚠️11 ❌0, 164 refs, 68 webs.
+- 45 Mob Psycho 100: **COMPLETA** (00:05). ✅32 ⚠️5 ❌0, 108 refs, 49 webs.
 - 43 Kaguya-sama: imagen en marcha. 44-47: recolectados por adelantado.
 - 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados; se relanzó todo al reanudar).
 
@@ -40,9 +41,15 @@ Cuenta: cuenta I34
   - Sin choques directo en A ni B. C no requiere tabla de cumplimiento especial (ya completado en punto 13).
   - Cuadro de diálogo propio: cartel de rango (número pequeño y nombre enorme en gótica negra con filo blanco). Para textos largos sirve el panel azul oscuro '#191E32' con filete '#374F8B' del juego Project: World Champion.
   - Rin Itoshi es el más querido en Japón (encuesta oficial); Bachira gana en AniList/Danbooru (fuera de Japón).
+- **45 Mob Psycho 100** propone 3 láminas: A (recomendada) #dudas (Reigen con su carta de cursos), B #destacados (tarjeta 感謝 al 100 % en el tablón), C #presentaciones (cartel «¿Haces equipo conmigo?» de Dimple).
+  - Doblaje: director de la T3 «Luna» o «Luis» Arjona; Musashi: Mark Pokora o Marco Antonio Urbalejo (sin tercera fuente; ver créditos). Oír Reigen.ogg: «Moff» y «Reigenzama» son de Whisper; pueden ser «Mob» y «Reigen-sama».
+  - Sin fotogramas de T2 ni T3 (muerte de Dimple, rueda de prensa, Reigen llorando) por YouTube; IDs de clips de Crunchyroll en §2.6 y §12.1. No se buscó en coreano, chino ni GitHub (⚠️).
+  - El texto de #presentaciones está cortado en servidor/inventario.md. Medir el verde de Dimple antes de pintar A y C (no azul).
+  - Siete correcciones a las partes en §28.1 (p. ej. «RAINBOW SEAL!!!» es de Reigen; la foto «live-action» es de la obra de teatro).
 
 ## Costos
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
 | 42 | equipo completo | Sonnet + Opus | — | — |
+| 45 | equipo completo | Sonnet + Opus | — | — |

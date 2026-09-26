@@ -414,6 +414,42 @@
   "licencia": "CC Attribution-NonCommercial (no usar en piezas comerciales)"
  },
  {
+  "url": "https://funko.com/steven-universe---garnet/6981.html",
+  "fuente": "Funko (tienda oficial)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Figura oficial Funko Pop! de Garnet",
+  "para_que": "Figura oficial cuya pose es una referencia 3D de colección (punto 23)",
+  "licencia": "Producto con copyright de Funko/Cartoon Network; imagen de producto"
+ },
+ {
+  "url": "https://www.hottopic.com/pop-culture/shop-by-license/steven-universe/",
+  "fuente": "Hot Topic (tienda oficial)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Colección oficial de merchandising de Steven Universe (camisetas, joyería, mochilas)",
+  "para_que": "Colaboración de merchandising con arte exclusivo (punto 23)",
+  "licencia": "Productos con copyright de Cartoon Network; imágenes de producto"
+ },
+ {
+  "url": "https://books.google.com/books/about/Steven_Universe_Art_Origins.html?id=ABAlDwAAQBAJ",
+  "fuente": "Google Books / Abrams Books",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del artbook oficial 'Steven Universe: Art & Origins' (Chris McDonnell, Abrams, 2017)",
+  "para_que": "Arte oficial de producción variado (punto 1)",
+  "licencia": "Libro con copyright de Abrams/Cartoon Network; referencia bibliográfica"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Cartoon_Network:_Battle_Crashers",
+  "fuente": "Wikipedia",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del videojuego crossover donde Steven es personaje jugable junto a otras series de Cartoon Network",
+  "para_que": "Colaboración/crossover con arte propio (punto 23)",
+  "licencia": "N/A (página de referencia, no imagen)"
+ },
+ {
   "url": "https://dl.dafont.com/dl/?f=crewniverse",
   "fuente": "dafont.com, fuente de MaxiGamer (maxigamer.deviantart.com)",
   "ancho": 0,
@@ -448,6 +484,60 @@
   "que_es": "Fuente fan 'Gem Glyph Font', pensada como sustitución de alfabeto tipo Homeworld para meter en un juego",
   "para_que": "Letra libre para el 'cartel del mundo' o la interfaz de un videojuego ambientado en Homeworld (puntos 5, 6, 11 y 25)",
   "licencia": "No confirmada del todo en la ficha; revisar antes de usar en un producto publicado"
+ },
+ {
+  "url": "https://steven-universe.fandom.com/wiki/We_Are_the_Crystal_Gems",
+  "fuente": "Steven Universe Wiki (Fandom), ficha MusicBox de «We Are the Crystal Gems»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del tema de apertura: compositores (Rebecca Sugar, Aivi & Surasshu), voces (Zach Callison, Estelle, Michaela Dietz, Deedee Magno Hall), duraciones de cada versión.",
+  "para_que": "Fuente de texto para el punto 9 (música): datos de autoría y voces del opening.",
+  "licencia": "Wiki de fans (CC BY-SA vía Fandom). Sólo cita de texto."
+ },
+ {
+  "url": "https://steven-universe.fandom.com/wiki/Ending_Theme",
+  "fuente": "Steven Universe Wiki (Fandom), página «Ending Theme»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Explica que el ending es una variación de «Love Like You» que cambia de instrumentación por temporada, y que en Future se sustituye por «Being Human».",
+  "para_que": "Fuente de texto para el punto 9 (música del ending).",
+  "licencia": "Wiki de fans (CC BY-SA vía Fandom). Sólo cita de texto."
+ },
+ {
+  "url": "https://steven-universe.fandom.com/wiki/It%27s_Over,_Isn%27t_It",
+  "fuente": "Steven Universe Wiki (Fandom), ficha MusicBox de «It's Over, Isn't It»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la canción de dolor de Perla (episodio «Mr. Greg»): compositora, cantante, duración y letra.",
+  "para_que": "Fuente de texto para el punto 9 (música emotiva) y referencia cruzada para el punto 21 (escenas que hacen llorar) del investigador de voz.",
+  "licencia": "Wiki de fans (CC BY-SA vía Fandom). Sólo cita de texto."
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Jail_Break_(Steven_Universe)",
+  "fuente": "Wikipedia (inglés), artículo «Jail Break (Steven Universe)»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del episodio T1E49: fecha de emisión, audiencia (1,697 millones), nominaciones al Annie, y nota sobre Rubí y Zafiro como representación LGBT.",
+  "para_que": "Fuente de texto para el punto 2 (datos del episodio de la escena icónica 1) y contexto para el fandom (punto 12/21, investigador de voz).",
+  "licencia": "Wikipedia (CC BY-SA). Sólo cita de texto."
+ },
+ {
+  "url": "https://www.lofidre.com/about",
+  "fuente": "Web propia del productor L.Dre (@ldrethegiant)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Biografía del productor: su remix lo-fi del tema de Steven Universe llegó a +50 millones de streams en Spotify y +10 millones de vídeos en TikTok; usado por Will Smith y Kylie Jenner.",
+  "para_que": "Fuente de texto para el punto 10 (tendencia viral de TikTok sobre la música de la serie).",
+  "licencia": "Sitio del propio artista. Sólo cita de texto, sin usar su música ni imagen."
+ },
+ {
+  "url": "https://comicbook.com/tv-shows/news/steven-universe-gets-promising-update-on-cartoon-network-revival/",
+  "fuente": "ComicBook.com",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Noticia sobre «Steven Universe: Lars of the Stars», la nueva serie anunciada por Rebecca Sugar en Annecy 2025, para Prime Video.",
+  "para_que": "Fuente de texto para el punto 10 (tendencias/noticias en vídeo sobre el regreso de la franquicia).",
+  "licencia": "Artículo periodístico. Sólo cita de texto."
  },
  {
   "url": "https://static.wikia.nocookie.net/doblaje/images/a/af/Steven.ogg/revision/latest?cb=20170614194925&path-prefix=es",
@@ -531,6 +621,24 @@
   "licencia": "Muestra de audio oficial de la serie, alojada por Doblaje Wiki con fines de referencia. No es de libre redistribución comercial."
  },
  {
+  "url": "https://danbooru.donmai.us/posts?tags=steven_universe",
+  "fuente": "Danbooru, listado de posts etiquetados «steven_universe»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Listado con recuento de dibujos de fans por personaje (Perla 415, Lapislázuli 394, Peridot 355, Steven 264, Amatista 209, Garnet 175...). No es una imagen única sino una página de listado.",
+  "para_que": "Punto 7: medida indirecta de popularidad por personaje entre el fandom que dibuja.",
+  "licencia": "Página de listado, cada dibujo individual tiene su propio autor y licencia; usar sólo como fuente de datos, no como imagen para pegar."
+ },
+ {
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/EnsembleDarkhorse/StevenUniverse",
+  "fuente": "TV Tropes, página «Ensemble Darkhorse/Steven Universe»",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página de texto (sin imagen) que lista personajes secundarios que se volvieron más populares de lo esperado, con la razón concreta de cada uno (Perla de Diamante Azul, Centipeetle, Aquamarine, Padparadscha, Sardonyx, etc.).",
+  "para_que": "Puntos 7 y 12: qué personajes secundarios ama el fandom y por qué.",
+  "licencia": "Wiki de fans (TV Tropes), texto bajo su propia licencia CC BY-NC-SA; usar sólo como referencia de datos, no reproducir el texto entero."
+ },
+ {
   "url": "https://www.dailymotion.com/video/x3fdt3q",
   "fuente": "Dailymotion, cover de fan «Amar Como Tú (Love Like You) — versión masculina» por Alan Ramírez Tamez, canal ARTcantanteOficial",
   "ancho": 0,
@@ -538,6 +646,15 @@
   "que_es": "Cover en español latino del ending «Love Like You», 99 s, 10 vistas totales (dato exacto confirmado con la API de Dailymotion en esta tanda).",
   "para_que": "Punto 22: fan dub / cover en español con vistas reales, no estimadas.",
   "licencia": "Cover de fan, no oficial; sólo como referencia (enlace y autor), nunca para pegar el audio."
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/wiki/Rocío_Mallo",
+  "fuente": "Doblaje Wiki, ficha individual de la actriz Rocío Mallo (voz de Garnet)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de actriz con su alias «Mamá Garnet», muestra de audio Garnet.ogg y su filmografía de doblaje completa. Segunda fuente (independiente de la tabla de reparto) para confirmar el nombre de la actriz de Garnet.",
+  "para_que": "Punto 8: verificación en dos fuentes del reparto de doblaje latino.",
+  "licencia": "Página de wiki de fans (Fandom), texto bajo CC BY-SA; usar como fuente de datos, no reproducir la ficha entera."
  },
  {
   "url": "https://w.wallhaven.cc/full/qr/wallhaven-qr2w95.jpg",

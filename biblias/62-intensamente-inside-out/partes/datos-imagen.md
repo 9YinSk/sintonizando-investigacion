@@ -4,7 +4,12 @@ Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no encontré la obra (¿no es anime/manga? usa --nombres con el título en inglés) · fandom: no encontré la página de «Alegría» · fandom: no encontré la página de «Tristeza» · fandom: no encontré la página de «Furia» · fandom: no encontré la página de «Desagrado» · fandom: no encontré la página de «Temor» · fandom: no encontré la página de «Ansiedad» · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): fandom: no encontré la página de «Alegría» · fandom: no encontré la página de «Tristeza» · fandom: no encontré la página de «Furia» · fandom: no encontré la página de «Desagrado» · fandom: no encontré la página de «Temor» · fandom: no encontré la página de «Ansiedad» · fans_booru: la obra no tiene etiqueta en Danbooru (poco fan art o nombre distinto) · reddit: no encontré el subreddit
+
+## Portada y banner oficiales (AniList)
+_Fuente: https://anilist.co/manga/190297_
+
+- Portada oficial: https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190297-fV511b3HOzvt.png
 
 ## Hojas de contacto (investigar_serie.py)
 _Fuente: herramientas/referencias/_

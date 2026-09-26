@@ -15,13 +15,13 @@ fecha: 2026-09-25
 > - Franquicia: 5 temporadas (160 capítulos de unos 11 minutos), *Steven Universe: The Movie* (2019), el epílogo *Steven Universe Future* (2019-2020), cómics de BOOM! Studios, 3 juegos propios y una secuela anunciada en 2025, *Lars of the Stars* (punto 10).
 > - La hicieron **4 investigadores** (imagen, vídeo, voz, texto) y la escribió un redactor con sus partes (`partes/*.md`). **Nada se añadió que no esté en las partes o en las 3 hojas de contacto**, que el redactor miró una a una. Lo que falta lleva ⚠️ y se explica.
 > - **Los vídeos se miraron de verdad**, fotograma a fotograma, en **Dailymotion** e **Internet Archive**: YouTube pide iniciar sesión desde el servidor. Once clips: opening, créditos, dos tráileres y siete escenas.
-> - **Las voces latinas se oyeron**: 9 muestras oficiales de Doblaje Wiki (la 64 tenía 4) pasadas por `voz.py`: frase textual, tono en Hz y velocidad.
+> - **Las voces latinas se oyeron**: 9 muestras oficiales de Doblaje Wiki (la 64 tenía 4) pasadas por `voz.py`: la frase textual de las 9, y tono en Hz y velocidad de 8.
 > - **Los colores se midieron**: con Pillow en las fichas de producción oficiales y con `estilo.py` en 6 fotogramas propios.
 
 **Qué trae el 104 que la 64 no tenía:**
 - La **caja de diálogo real** del juego *Unleash the Light*, vista en capturas (la 64 no pudo entrar en Game UI Database). Es el cuadro de la franquicia.
 - La letra del logo **Crystal Universe**, bajada y comprobada: **no trae tildes, ñ, ¿ ni ¡** (en la 64 la descarga falló).
-- **Nueve voces medidas** y **todo el reparto confirmado con dos fuentes** (la ficha de la serie y la de cada actor).
+- **Ocho voces medidas** y **todo el reparto confirmado con dos fuentes** (la ficha de la serie y la de cada actor).
 - **Seis paletas medidas** en sitios distintos (atardecer, noche, arena de cristal, hielo, créditos) y la regla de color de las fusiones.
 - Caras por emoción de **Peridot y Lapis**, las dos secundarias más dibujadas.
 - La noticia de la secuela *Lars of the Stars* (Annecy 2025, confirmada en abril de 2026).
@@ -93,7 +93,7 @@ La biblia 64 ya propuso **#🎵・canto**, **#🪪・presentaciones** y **#📂�
 |---|---|---|---|
 | **#🎨・arte** ⭐ | «Dibujo, ilustración, diseño y fanart. Un hilo por pieza o por serie. Etiqueta si aceptas encargos.» | **Colores pastel.** Es una serie de fondos pintados a mano, con artbook oficial (punto 1). Y **Perla, una secundaria, es la más dibujada por los fans** (415 dibujos en Danbooru, punto 7): la más dibujada presenta el canal de dibujo. | *Arcane* (17) también usa #arte. No bloquea nada. |
 | **#🎯・reto-de-la-semana** | «Un reto por semana: una línea, una escena, un tono. Se entrega dentro del hilo del reto. No se gana nada y esa es la gracia…» | **Fusiones.** Sardonyx, la fusión de Perla y Garnet, es una **showman** con sombrero de copa (`KYF` 1:10). Una presentadora de retos hecha y derecha. | *Naruto* (30) lo propone; otras cuatro lo tienen de reserva. ⚠️ El texto del canal está cortado en el inventario. |
-| **#🎼・demos-canto** | «Tu ficha de CANTO, aparte de la de doblaje: un hilo con tu registro y tus covers.» | **Música.** Cada Gema tiene su canción («Stronger Than You», «It's Over, Isn't It») y aquí se midió el **registro de 9 voces latinas** (punto 8). Los créditos de cada capítulo son ya una lista de voces. | *Las guerreras K-pop* (63) lo propone. |
+| **#🎼・demos-canto** | «Tu ficha de CANTO, aparte de la de doblaje: un hilo con tu registro y tus covers.» | **Música.** Cada Gema tiene su canción («Stronger Than You», «It's Over, Isn't It») y aquí se midió el **tono de 8 voces latinas** (punto 8). Los créditos de cada capítulo son ya una lista de voces. | *Las guerreras K-pop* (63) lo propone. |
 | #🎧・que-estas-escuchando | «La canción que llevas en bucle. Pega el enlace y di por qué.» | El **remix lo-fi** del opening de L.Dre: más de 50 millones de escuchas y más de 10 millones de vídeos de TikTok (punto 10). | Reserva. |
 | 🎶・Karaoke | sala de voz | Existe un **disco oficial de karaoke** (MusicBrainz, 12-abr-2019, punto 9). | Reserva; la 64 también lo deja de reserva. |
 
@@ -104,7 +104,7 @@ Los choques de canal quedan sólo como nota (decisión del dueño, 25-sep).
 - **Quién es el más querido:** no hay encuesta oficial (se buscó en inglés y español). En dibujos de fans (Danbooru) gana **Perla** (415), luego **Lapis Lázuli** (394) y **Peridot** (355). **Steven**, el protagonista, tiene 264; Amatista 209 y Garnet 175. En Reddit, el hilo más votado sobre un favorito es de **Garnet** (1167 votos). Tres secundarias superan al protagonista (punto 7).
 - **El cuadro de diálogo propio:** la serie no usa globos. El cuadro de la franquicia es la **caja de diálogo de *Unleash the Light***: un rectángulo redondeado **en el color pastel de quien habla**, con rabito hacia él y letra gruesa redondeada del mismo tono. Dentro del mundo, lo escrito va **en un objeto**: la cartela de título (letra **Crewniverse**), la pantalla del Comunicador de las Diamantes o los muros en **Gem Glyph** (puntos 5, 6 y 11).
 - **El pastel, medido:** Ciudad Playa al atardecer es `#EABFCE` `#FDE4F7` `#F87D9B`, con sombras moradas `#653861`, **nunca negras** (`OP` 0:12). Los interiores de cristal son muy saturados y casi sin sombra (punto 4).
-- **Las fusiones:** son el corazón de la serie. Dos Gemas bailan y se vuelven una más grande, con las gemas de las dos. **Garnet es una fusión** (Rubí + Zafiro). Para las Gemas de Cristal fusionarse es un vínculo; en Homeworld, sólo táctica de guerra. Las escenas de fusión añaden **un acento de color muy saturado**, rojo o magenta (puntos 4 y 25).
+- **Las fusiones:** son el corazón de la serie. Dos Gemas se juntan y se vuelven una más grande, con las gemas de las dos. **Garnet es una fusión** (Rubí + Zafiro). Para las Gemas de Cristal fusionarse es un vínculo; en Homeworld, sólo táctica de guerra. Las escenas de fusión añaden **un acento de color muy saturado**, rojo o magenta (puntos 4 y 25).
 - **La música:** opening «We Are the Crystal Gems» (Rebecca Sugar con Aivi & Surasshu); créditos con variaciones de «Love Like You» que cambian cada temporada; **«Stronger Than You»**, la canción de la fusión de Garnet, es la escena con más reacciones en YouTube; **«It's Over, Isn't It»**, la de Perla, la que hace llorar (punto 9).
 - **La voz latina:** Venezuela, **Etcétera Group**. Steven = Leisha Medina, Perla = María José Estévez, Garnet = Rocío Mallo, Amatista = Stefani Villarroel. El Steven mayor de la película y de *Futuro*, Jorge Bringas. Todo con dos fuentes (punto 8).
 - **Qué NO hacer:** una burbuja blanca; llamar «infantil» a la serie; poner a Perla comiendo con gusto; dibujar una fusión con una sola gema (puntos 12 y 17). La 64 añade: no adelgazar a Amatista, Garnet, Rose ni Steven (biblia 64, punto 12).
@@ -1004,7 +1004,7 @@ Canal y título confirmados con la API oEmbed de YouTube (la página completa da
 | **Stevonnie** | Steven + Connie (el nombre lo dice) | ⚠️ sin ficha en las partes | hoja n.º 254 |
 
 - **Cada fusión tiene gema y arma propias** ✅.
-- **Cómo nace una fusión en pantalla:** las dos **se toman de la mano** (Rubí y Zafiro, `STY` 0:16) o bailan y giran (Perla sola en el cielo, `KYF` 0:42-0:56); luego **se forma la cara nueva** (`STY` 0:32, `KYF` 0:14).
+- **Cómo nace una fusión en pantalla:** las dos **se toman de la mano** (Rubí y Zafiro, `STY` 0:16) o giran en el aire (Perla sola en el cielo, `KYF` 0:42-0:56); luego **se forma la cara nueva** (`STY` 0:32, `KYF` 0:14).
 - **Qué significa:** dos se juntan y hacen **algo más grande que la suma de sus partes** (Garnet, en el doblaje, punto 8). Por eso encaja con cualquier sala de colaboración.
 - **El color de la fusión:** un acento fuerte, rojo o magenta, que no está en el resto del plano (punto 4).
 
