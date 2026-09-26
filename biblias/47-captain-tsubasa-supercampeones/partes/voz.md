@@ -158,11 +158,19 @@ barrio · fuente infobox inglés + wikitext japonés (mismas cifras en las dos w
 - Momento clave/qué transmite: se muda solo a Alemania de niño (ficha por el Hamburgo) y sufre racismo de
   sus propios compañeros hasta ganarse su respeto a golpes; transmite que el talento solo no basta, hay que
   aguantar en un lugar hostil · fuente wiki japonesa, sección ハンブルグ · ✅.
-- Su cara en cada emoción: no localicé un episodio con Genzo/Benji en primer plano dentro de los 30
-  episodios que sí revisé fotograma a fotograma (`super-campeones-1983-latino` sólo llega al 30; su gran
-  arco es posterior, ~episodio 40+). Lo confirmado es el arte oficial ya elegido por imagen:
+- Su cara en cada emoción: encontré el resto de la serie completa en Internet Archive (ítem
+  `supercampeonescapitulo119latino480p24fpsh264128kbitaac`, pese al nombre trae 100 capítulos sueltos, del
+  2 al 74 y del 100 al 127, todos en español latino) y miré fotograma a fotograma con `fotogramas.py` el
+  **episodio 126, «My best friend. Genzo Wakabayashi»** (penúltimo de la serie, título confirmado en
+  `captaintsubasa.fandom.com`): Genzo, ya en Alemania, lee una carta (probablemente de Tsubasa) con gesto
+  reflexivo y suave — minuto 20:25; sigue un fondo de pueblo/castillo europeo (20:50) y su cara se abre en
+  una sonrisa amplia y emocionada, ojos brillantes — minuto 21:15; cierra el episodio riendo y abrazado a un
+  compañero — minuto 22:30 · https://archive.org/download/supercampeonescapitulo119latino480p24fpsh264128kbitaac/supercam/SuperCampeones-Capitulo126-Latino480p_24fps_h264-128kbit_aac.mp4
+  · ✅ (fotograma real, visto con Read, no arte oficial). Sigue faltando un fotograma real de Genzo con
+  enojo/miedo puros (esas emociones caen en el arco Hamburgo, episodios 75-99, que este ítem de archive.org
+  no tiene — ver «No encontré»). El arte oficial sigue sirviendo de apoyo:
   `Genzo_Wakabayashi_Japan_1.png` (serio y concentrado, de portero) y `Genzo_Wakabayashi_Shutetsu.png` (de
-  niño, gesto desafiante) · ⚠️ (arte oficial, no fotograma de vídeo con minuto propio — ver «No encontré»).
+  niño, gesto desafiante).
 
 **Kojiro Hyuga / Steve Hyuga** (secundario principal, rival). Nació el **17 de agosto**, tipo de sangre O,
 180 cm/70 kg de adulto, de Saitama (barrio inspirado en el viejo Urawa) · fuente wiki japonesa
