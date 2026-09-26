@@ -34,6 +34,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
   14: video, imagen y texto terminados; voz dejó un Sigue: obligatorio (punto 13, caras/emociones) → relanzada corta desde 19:49. 15: 4 investigadores (Sonnet, repaso) en marcha desde 19:49.
 - 14 Adventure Time (Hora de aventura): **COMPLETA** y subida (00:01). ✅24 ⚠️6 ❌0, 142 referencias, 104 webs, 3120 líneas.
 - 16 Evangelion: **COMPLETA** (segunda pasada) y subida (2026-09-26 01:27 UTC). ✅24 ⚠️6 ❌0, 223 referencias, 133 webs, 2632 líneas.
+- 18 Death Note (segunda pasada): **COMPLETA y subida** (2026-09-26 03:1x UTC). ✅25 ⚠️5 ❌0 en la tabla, 292 referencias, 107 webs, ~2600 líneas.
 
 ## Avisos para el dueño
 
@@ -69,6 +70,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
   Ojo: en T1 ep. 2, 05:32 habla Ritsu, no Mio; falta oír quién dice «¡El club no es una
   cafetería!». El único doblaje latino es el piloto no oficial de Elocuencia Studio (2020):
   citarlo sólo como «el doblaje perdido».
+- **18 Death Note (segunda pasada):** más querido, L (AniList 26 512 frente a 20 343 de Light; cinco fuentes). Cuadro: la página «HOW TO USE IT» (negra, gótica blanca) y la «L» gótica; nuevo §13.1 con el globo del portátil de L y la hoja rayada de *Killer Within*. Conceptos: A ⭐ el cuaderno de Ryuk, B el guion de L, C la cinta de Misa. Avisos: oír en Netflix el orden exacto de «Tomo una fritura… y la como»; estudio del doblaje latino dudoso (AF The Dubbing House según Doblaje Wiki; Mystic Sound / Fogarty según The Dubbing Database); Internet Archive tiene dos copias desfasadas: usar siempre los enlaces con ?t=; mirar ±10 s las poses de Misa (ep. 13 00:10:31) y Near (ep. 27 00:02:01, ep. 28 00:01:49); el concepto A usa a Ryuk y no a L, el más querido: decidir si L va en el borde o B como lámina 2.
 
 ## Costos
 
@@ -88,3 +90,4 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 | 12 | texto | Sonnet | 13 | 176 mil |
 | 18 | voz (seguir) | Sonnet | 15 | 164 k |
 | 17 | voz (seguir) | Sonnet | 23 | 256 k |
+| 18 | redactor (seguir) | Opus | 16 | 280 k |

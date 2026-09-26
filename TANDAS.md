@@ -27,7 +27,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [x] repaso 15-spongebob-bob-esponja
 - [x] repaso 16-neon-genesis-evangelion
 - [ ] repaso 17-arcane
-- [ ] repaso 18-death-note
+- [x] repaso 18-death-note
 - [x] repaso 19-doraemon
 - [x] repaso 20-dr-stone
 - [x] repaso 21-spider-man-into-across-the-spider-verse

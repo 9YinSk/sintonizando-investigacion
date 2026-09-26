@@ -147,4 +147,4 @@ ahora lleva el lote H.)
 | 126 | redactor | Opus | 15 | 270 k |
 | 127 | imagen | Sonnet | 14 | 192 k |
 | 127 | texto | Sonnet | 15 | 182 k |
-| 127 | voz | Sonnet | — | — |
+| 127 | voz | Sonnet | 15 | 183 k |
