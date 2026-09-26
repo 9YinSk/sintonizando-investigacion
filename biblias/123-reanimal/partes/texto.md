@@ -46,7 +46,7 @@ sale de Steam (`datos-texto.md`) y de la wiki, cruzados ✅.
 | *REANIMAL* | 13-feb-2026 | Juego base: The Boy y The Girl, 9 capítulos, cooperativo a pantalla partida compartida (no split-screen) |
 | *REANIMAL: The Prisoner* (cap. 1 de *The Expanded World*/Season Pass) | 7-ago-2026 | Nuevos protagonistas: The Prisoner y The Soldier, en una zona de guerra estilo I Guerra Mundial; The Mother y Spider Kids como monstruos nuevos ✅ https://reanimal.fandom.com/wiki/REANIMAL:_The_Expanded_World |
 | *REANIMAL – Season Pass* | 13-feb-2026 | Acceso a los 3 capítulos de *The Expanded World* (2º cap. oct-dic 2026, 3º ene-mar 2027) ✅ |
-| *REANIMAL - Foxhead and Muttonhead Masks* | 13-feb-2026 | DLC cosmético: máscaras de zorro y cordero para ambos hermanos (nombres que dan origen a los apodos «Fox»/«Mutton» del encargo) ✅ https://reanimal.fandom.com/wiki/Masks |
+| *REANIMAL - Foxhead and Muttonhead Masks* | 13-feb-2026 | DLC cosmético: dos máscaras desbloqueables, de zorro y de cordero, intercambiables por cualquiera de los dos hermanos como disfraz; **la máscara de identidad fija de cada uno es otra** (saco de arpillera del Niño, conejo de la Niña — ver punto 25) ✅ https://reanimal.fandom.com/wiki/Masks |
 | *REANIMAL Soundtrack* | 21-jul-2026 | Banda sonora digital; su carátula trae el logo definitivo y el símbolo de la ballena espiral (punto 25) ✅ |
 | *REANIMAL Demo* | 13-oct-2025 | Demo jugable previa al lanzamiento, disponible en Steam |
 

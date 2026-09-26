@@ -217,3 +217,29 @@ oficial y cosplay temprano; no encontré crossovers con otros videojuegos
   videojuegos: busqué «Reanimal x» y «Reanimal collab» en inglés, sin más
   resultados que el merchandising de arriba. ⚠️ (no encontré, búsquedas hechas).
 
+
+## Lo mejor para la lámina
+
+1. **`TheGirl.png` y `Boy.png`** (renders 3D oficiales de la wiki, fondo transparente, 1470×2160 y 401×822): recortes listos de los dos hermanos de pie, con su máscara/capucha, cuchillo y linterna — de aquí salen los hex del punto 15 y sirven directos como personaje principal o secundario.
+2. **Arte de prensa «Reanimal-Officialart-1/2»** (los hermanos en una barca con antorcha, verde/azulado): mejor pose de GRUPO en acción, no de pie sueltos — cumple lo que pidió el dueño de «poses vivas, con objeto, en grupo».
+3. **6 capturas 4K oficiales** (`personajes_mascaras_01.jpg` nº 1-6, 3880×2183): luz y paleta reales de varias zonas de la isla para el fondo de cualquiera de los 3 conceptos.
+4. **Modelos 3D con licencia de Sketchfab** (The Girl, The Boy, Hood, Bucket, Bandage, Mother, Sniffer, Whale, CC BY-NC/BY): base real para posar en Blender sin partir de cero.
+5. **Fondo de pantalla oficial de Halloween** (`wallhaven-yxd1pk.jpg`, 3840×2160, origen confirmado en X de @TarsierStudios): escena completa ya iluminada y con profundidad (barca, niebla, calabaza) útil como fondo de un concepto de lámina.
+
+## No encontré
+
+- ⚠️ Dimensiones de las 3 piezas de fan art en ArtStation (Trung Nguyen, Cristhian Rojas, Fágner Marcelo Viana): ArtStation bloquea `curl` y `navegar.py` con un reto de Cloudflare; sólo quedan enlace y autor. Búsquedas hechas: apertura directa de cada URL (dos intentos cada una, según la regla de no insistir más de dos veces).
+- ⚠️ Licencia exacta de la máscara de conejo imprimible en 3D de SKS Props (MyMiniFactory/MakerWorld): ambas webs devuelven 403 a `curl` y a `navegar.py`; el título de búsqueda dice «Free 3D Print Model» pero no se pudo abrir la ficha para leer la licencia completa (CC, dominio público u otra).
+- ⚠️ Segundo caso de cosplay de los hermanos, independiente del de la cosplayer rusa INOE (ixbt.games): busqué «Reanimal cosplay» en inglés y español sin más resultados; el juego salió hace sólo 7 meses (feb-2026) y el cosplay temprano es escaso.
+- No encontré colaboraciones con marcas de ropa/bebidas, eventos tipo Fortnite×Marvel, cafés temáticos ni crossovers con otros videojuegos: búsquedas «Reanimal x», «Reanimal collab», «Reanimal Fortnite» en inglés, sin resultados más allá del merchandising de IGN Store ya listado.
+- No encontré modelos de Reanimal en Poly Haven (sólo HDRIs y texturas genéricas): comprobado contra su API completa (2380 fichas, ninguna con «reanimal» ni «tarsier»).
+- Los `⚠️` de detalle dentro de cada punto (hex dudoso del pecho de El Niño, fondos de Wallhaven fuera de esa web, etc.) quedan marcados en su propia línea más arriba.
+
+## Bitácora
+
+- Comprobación pedida por el investigador de vídeo (Niño = saco/capucha de arpillera, Niña = máscara de conejo): repasé las 6 apariciones de «arpillera»/«conejo»/«máscara»/«saco» en esta parte (puntos 1, 3, 15, 23) y todas asignan bien cada prenda; lo confirmé además mirando el render `TheGirl.png` en la hoja de contacto (máscara + vestido claro, cuchillo, linterna) y `Boy.png` (capucha oscura de arpillera). No había confusión que corregir.
+- Corregí dos datos con la API de Fandom (`reanimal.fandom.com/api.php`, con cabecera de navegador porque sin ella Cloudflare responde con un reto): la URL de `ArtofReanimal_Cover.png` (hash `a/aa` inventado → `a/a8` real) y la medida de `Boy.png` (313×550 de una pasada anterior → 401×822, la que da hoy la wiki; probablemente el archivo se revisó tras esa medición, `cb=20260214032843`).
+- Español: sin búsquedas nuevas en esta tanda (ya cubiertas en pasadas anteriores).
+- Inglés (directo, sin buscador): API de Fandom `list=allimages` (2 páginas, 667 imágenes) para confirmar tamaño real y URL exacta de `ArtofReanimal_Cover.png`, `Collectorsedition.png`, `Boy.png`, `TheGirl.png`, `Feature-graphic-1/2/3.png`, `Reanimal-Officialart-1/2`, `DLCKeyArt.jpg`, `Mother_Spider_Kids_trading_card.png` y dos páginas del artbook (Hood pág. 11, Mother pág. 27); API de Poly Haven (`/info/hessian_230`, `/info/hessian_380`) para la resolución máxima real de las dos texturas de arpillera; API de ambientCG (`/api/v2/full_json`) para intentar sacar resolución de Metal041B (no la da; se usó el estándar de 2048×2048 con el que se listan sus previews).
+- Verifiqué de nuevo (visualmente, con la herramienta de lectura de imagen) las 3 hojas de contacto completas (`arte_oficial_01.jpg`, `personajes_mascaras_01.jpg`, `personajes_render_01.jpg`) para el aviso de arriba y para confirmar los números de imagen citados en el resto de la parte.
+- Cree `imagen.json` con 43 referencias candidatas (campos `url`, `fuente`, `ancho`, `alto`, `que_es`, `para_que`, `licencia`), cubriendo los 6 puntos de este rol: arte oficial (11), fan art (4), 3D con licencia (9), fondos de pantalla (6), renders para hex (2), texturas libres (7) y colaboraciones/figuras/cosplay (3).

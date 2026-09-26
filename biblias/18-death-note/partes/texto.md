@@ -80,3 +80,30 @@ lo repito aquí).
 4. **Render y composición**: en el compositor de Blender, añadir grano (nodo *Film Grain* o ruido + Mix) y una viñeta oscura en los bordes, igual que en Photoshop, para el «filtro de animación» del anime.
 5. Modelos y *rigs* del personaje, y las tramas/texturas 2D para aplicar encima del shader: **ver puntos 3 y 19** (los trae el investigador de imagen), no se repiten aquí.
 
+### Punto 24 · Obras parecidas y temas relacionados
+
+**Series de tono o estilo parecido** (recomendaciones de usuarios de AniList, ya en `partes/datos-texto.md`: Code Geass, Monster, Code Geass R2, The Promised Neverland, Parasyte, Terror in Resonance, Moriarty the Patriot, Death Parade, Talentless Nana, Platinum End, Psycho-Pass, Inuyashiki, Kaiji, Erased — no se repite esa consulta)
+
+- **Code Geass** (nota 85, 3559 votos, la recomendación más votada) comparte con Death Note el protagonista genio que manipula desde las sombras con un poder que cambia la voluntad ajena (el Geass ↔ el cuaderno) y el «juego del gato y el ratón» contra un rival igual de listo (Suzaku/Lelouch ↔ L/Light) · `datos-texto.md` (AniList) ✅
+- **Monster** (nota 88, del mismo tono: un médico persigue durante años a un asesino con máscara de normalidad) y **Psycho-Pass** (policía y justicia automatizada, moralidad gris) son las comparaciones más citadas en listas de recomendación por «duelo psicológico entre genio del bien y genio del mal» · `datos-texto.md` (AniList) ✅ + coincide con la ficha temática de AniList para Death Note (`Anti-Hero 94%`, `Philosophy 84%`, `Police 87%`, `Noir 79%`) ✅
+- **Death Parade**, del mismo tono de decisiones morales bajo presión con un maestro de juego observando (Decim ↔ L/Ryuk observando el tablero), y **Moriarty the Patriot** (genio criminal que se cree la justicia, detective que lo persigue) son las más parecidas en la propia estructura «detective contra villano genio» · `datos-texto.md` (AniList) ✅
+- **Terror in Resonance** (Zankyou no Terror) comparte el tono de thriller policial silencioso con dos genios jóvenes contra el sistema · `datos-texto.md` (AniList) ✅
+
+**Influencias que reconoce el propio autor (Tsugumi Ohba, guionista)**
+
+- Ohba es un autor bajo **seudónimo, casi sin rostro público** (su género ni se confirmó hasta la ficha interior de *Bakuman* en 2008) ✅ [Inverse, «Who Is the Creator of Death Note?»](https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga)
+- Sobre la idea de Death Note, en sus propias palabras: **«No hubo nada en particular. Empecé a pensar algunas ideas y, mientras flotaban en mi cabeza, fueron llegando más ideas hasta llenar la trama con detalles como las reglas y el dios de la muerte»**; y sobre el tema de la justicia: **«No pensé mucho en temas como "vida y muerte" o "justicia y maldad". Escribí la historia esperando que fuera buen entretenimiento»** · ✅ dos fuentes con la misma cita (traducción de la entrevista original de Shonen Jump): [ComiPress](https://www.comipress.com/news/2007/01/15/1330) + [Yahoo/la misma entrevista recogida](https://www.yahoo.com/news/creator-apos-death-note-apos-212900017.html)
+- Sus **modelos a seguir declarados** son **Fujiko F. Fujio** (creador de *Doraemon* — en la cola de encargos, `19-doraemon.md`, tono radicalmente distinto), **Fujio Akatsuka** (padre del manga de gags) y **Shotaro Ishinomori** (creador de *Kamen Rider* y de la base de *Super Sentai/Power Rangers*) · [Inverse](https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga) ⚠️ (una fuente; no hay declaración directa de Ohba citando a estos tres, es un dato de perfil del medio)
+- **Takeshi Obata** (dibujante) es, según el propio Ohba, su «colaborador profesional favorito»: casi todo lo que ha escrito Ohba lo ha dibujado Obata (*Death Note*, *Bakuman*, *Platinum End*) · [Inverse](https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga) ⚠️ (una fuente)
+
+**Obras relacionadas directamente** (ya en `datos-texto.md`, AniList): manga original (adaptación), *Death Note: Relight* (especial resumen), *Death Parade* (mismo universo temático, personaje compartido: Ryuk aparece en un cameo) ✅.
+
+**Qué otras láminas del servidor se le parecen** (comprobado contra `ls encargos/`, 26-sep-2026; para no repetir ideas cuando les toque)
+
+- **Cowboy Bebop: jazz y noir** (en `encargos/`) — el match de tono más directo: ambas usan **estética noir** (luz dura, sombra que parte la escena, paleta apagada) como recurso central, no de fondo ✅
+- **Neon Genesis Evangelion**, dos veces (`16-neon-genesis-evangelion.md` y la de «tarjetas y NERV») — comparte el peso psicológico y filosófico (`Philosophy 84%` en la ficha de temas de Death Note) y el protagonista atrapado en su propia cabeza ✅
+- **Bungo Stray Dogs** (en `encargos/`) — agencia de detectives con poderes sobrenaturales, mismo terreno de «genio contra genio» con un caso a resolver ⚠️ (comparación mía por género y estructura, no de una fuente que compare ambas obras directamente)
+- **Kakegurui** (`12-kakegurui.md`) — duelo mental de apuestas con un genio manipulador que siempre va un paso por delante, misma tensión de «¿quién lleva la ventaja de verdad?» que Light vs. L ⚠️ (comparación mía por estructura de género)
+- **Vinland Saga** y **Chainsaw Man** — mismo terreno de shonen oscuro con violencia real y dilema moral, aunque de acción más física que mental; ya señalados como parecidos entre sí en otras biblias de este mismo equipo (ver `biblias/32-jujutsu-kaisen/partes/texto.md`) ⚠️
+- No hay choque de **canal**: la propuesta de #textos (guiones de práctica) no se repite en ninguna de las anteriores por lo que dice `servidor/inventario.md`.
+

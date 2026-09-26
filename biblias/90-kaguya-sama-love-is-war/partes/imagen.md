@@ -40,9 +40,14 @@ la serie). `hojas/comedia_01.jpg` (46 miniaturas, wiki Fandom).
   ("Degustation") · hoja `comedia_01.jpg` #11-12 · Fandom · ✅ · 2048×1158 y
   2048×1154 (43 sólo la mencionaba de pasada en la hoja 1, aquí en tamaño
   completo)
-- Chika con diadema de "oni" (demonio) para un juego del festival escolar,
-  gesto amenazante de broma · hoja `comedia_01.jpg` #13 "ChikaWhistle.png" ·
-  Fandom · ✅ · 1686×1329
+- Chika con silbato en la boca y diadema **blanca** con las letras 「おに」
+  ("oni" = "quien la para", el equivalente a "el que se queda" del pillapilla)
+  durante un juego de gimnasia — imagen corregida: al abrir el archivo en
+  grande la diadema es blanca con texto negro, no roja como anoté al primer
+  vistazo de la miniatura · hoja `comedia_01.jpg` #13 "ChikaWhistle.png" ·
+  Fandom, usada en `Chika Fujiwara/Image Gallery` · ✅ (imagen mirada entera,
+  descargada y comprobada en `/tmp/claude-0/trabajo/90-imagen/chikawhistle.png`)
+  · 1686×1329
 - Retrato oficial limpio de Chika (temporada 2, fondo transparente, cuerpo
   entero) — sirve como hoja de modelo alternativa a la de 43 · hoja
   `comedia_01.jpg` #43 "Chika Fujiwara S2 (Anime).png" · Fandom · ✅ · 666×829
@@ -111,7 +116,7 @@ que 43 dejó como ⚠️ sin medir, y que son justo las que dan la nota cómica
 
 Personaje | Prenda | Hex medido | De qué imagen
 ---|---|---|---
-Chika Fujiwara | Diadema roja "oni" (demonio), gag del festival | #C0392B (aprox., medido sobre el PNG de la hoja `comedia_01.jpg` #13) | ChikaWhistle.png, Fandom
+Chika Fujiwara | Uniforme de gimnasia (camiseta blanca, cuello azul marino) — variante que 43 no midió, el uniforme normal sí lo tiene | blanco ≈ #DCDCDC (con sombra de escena nocturna azulada, no es el blanco "puro" de estudio) | ChikaWhistle.png, Fandom (medido con Pillow sobre la descarga completa, no la miniatura)
 Kaguya (Moron) | Piel/rostro en el gag de "modo tonta" (mismo uniforme, pelo suelto y despeinado) | igual que el uniforme normal (#342E32 blazer, ya medido por 43) — lo que cambia es sólo la cara y el pelo, no hex nuevo | Moron Anime.png, Fandom
 
 - No encontré una imagen limpia de cuerpo entero del traje de sirvienta
@@ -134,12 +139,16 @@ Sumo el sitio comedia que más peso tiene fuera de la sala del consejo: el
 
 - **Festival cultural de Shuchi'in ("Devoted Hearts Festival")** — arco 13 del
   manga (caps. 122-137), «Dual Confessions Culture Festival Arc»: puestos,
-  luces, disfraces de clase, el gag de la diadema "oni" de Chika (punto 1) es
-  de este arco · Fandom, página del arco (wikitext vía API) · ✅ (wiki + lista
-  de capítulos con sus títulos, ej. "Chapter 123: Kaguya's Culture Festival")
-  — dato corregido: descarté un primer apunte sobre un supuesto café donde
-  trabajaría Ishigami (no lo confirma la wiki; era un cruce con otra serie,
-  fuente falsa, no lo uso)
+  luces, disfraces de clase · Fandom, página del arco (wikitext vía API) ·
+  ✅ (wiki + lista de capítulos con sus títulos, ej. "Chapter 123: Kaguya's
+  Culture Festival") — dato corregido: descarté un primer apunte sobre un
+  supuesto café donde trabajaría Ishigami (no lo confirma la wiki; era un
+  cruce con otra serie, fuente falsa, no lo uso)
+- **Festival deportivo ("Sports Festival Arc")** — arco 9 del manga (caps.
+  82-90): la escena de Chika con silbato y diadema "oni" (punto 1 y 15) es de
+  este arco, no del cultural — lo até mal a primera vista y lo corrijo aquí ·
+  Fandom (confirmado: existe la página "Sports Festival Arc", caps. 82-90,
+  Ishigami se une al equipo de animadoras) · ✅
 - No encontré en Poly Haven un HDRI de "festival nocturno con puestos y
   farolillos" que encaje con esta escena — la más cercana, "Entrance Hall",
   ya la tiene 43 para interiores; queda como hueco real, no falta de mirar

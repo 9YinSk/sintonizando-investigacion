@@ -750,3 +750,48 @@ El fandub de Zelda es pequeño: es un juego, no un anime.
 - **Espiral zonai** (TotK): verde menta, como sus glifos. ⚠️
 
 **Vocabulario que un fan reconoce al instante:** Hyrule, Trifuerza, Espada Maestra, rupia, corazón, Ganon, Ganondorf, Calamity Ganon, Hylia, hyliano, Kokiri, Korok, Zora, Goron, Gerudo, Sheikah, Zonai, Guardianes, Bestias Divinas, Campeones, Sabios, Sheikah Slate, Purah Pad, Malicia.
+
+## Tres conceptos de lámina
+
+Zelda todavía no tiene canal. **El que mejor encaja es #noticias-gaming**: «Videojuegos: salidas, parches y presentaciones. Las ofertas van en ofertas-y-gratis.»
+Los otros dos conceptos van a **#demos** y **#castings**, porque el gancho de Zelda para un servidor de doblaje es que su héroe no tiene voz.
+Los tres usan un cuadro de diálogo distinto de la saga. Ninguno lleva burbuja blanca.
+Textos cortos, sin «·», «—» ni paréntesis (regla 4 del dueño).
+
+### Concepto 1 · El Purah Pad de Zelda · #noticias-gaming
+
+- **Objeto y sitio.** El **Purah Pad**, la tableta sheikah de TotK, en las manos de Zelda. Se modela en Blender: placa fina de esquinas redondas, marco oscuro, pantalla que brilla y el Ojo Sheikah (nº104) en el marco. Sitio: el borde de una **Isla del Cielo** al amanecer ([1:20](https://www.dailymotion.com/video/x8k28ay?t=80); cielo `#7b8e95`, nubes `#f6f5db`).
+- **Personaje y pose.** **Zelda** de BotW/TotK: es la que habla y la 2.ª más votada en TotK. Pose de la nº77: objeto a dos manos, mirada baja y suave, «explicar». Aquí sostiene el Pad en vez de la antorcha, con los dos brazos a la vista. Ropa de exploradora `#274249`.
+- **Cómo habla.** **Cápsula de BotW**: negra translúcida al 80 %, extremos redondos, «Zelda» pequeño arriba a la izquierda, texto blanco centrado y ▽. Letra **RocknRoll One** en la cápsula; **Hylia Serif** sólo en el título de la pantalla.
+- **Dónde va cada texto:**
+  - Pantalla del Pad, título: «Noticias gaming».
+  - Pantalla del Pad, tres fichas cuadradas como las del compendio: «Salidas», «Parches», «Presentaciones».
+  - Cápsula de Zelda: «¡Por la ciencia! Aquí va todo lo nuevo.» Empieza con su frase real del doblaje.
+  - Poste de madera en la isla, flecha hacia fuera, letra **Reggae One**: «Ofertas y gratis, en su canal».
+- **Que no quede plano.** El Pad en primer plano, casi tocando la cámara, con su brillo encendido. Zelda en plano medio con el contraluz dorado recortándole el pelo. Detrás, islas y nubes con bloom suave. Una nube desenfocada delante, abajo. Estilo pictórico sin contorno (punto 18).
+
+### Concepto 2 · El cofre del castillo · #demos
+
+- **Objeto y sitio.** Un **cofre del tesoro** abierto ([Poly Haven](https://polyhaven.com/a/treasure_chest), CC0) con un pergamino dentro ([Paper006](https://ambientcg.com/view?id=Paper006)). Sitio: el **Castillo de Hyrule de *Wind Waker*** ([modelo CC BY de jkimmel694](https://sketchfab.com/3d-models/the-wind-waker-hyrule-castle-9c30907ba24143ef85624084331d855b)).
+- **Personaje y pose.** **Link de estilo *Wind Waker***: el único Link que exagera la cara y se ríe fácil. Pose de la nº41: brazos abiertos, espada hacia fuera, sonrisa. Aquí alza el pergamino en vez de la espada: «celebrar». Túnica `#119E1A`.
+- **Cómo habla.** Link no habla. Habla **el juego**: la caja azul translúcida de *Wind Waker* al coger un objeto, con el icono del pergamino a la izquierda. Letra **RocknRoll One**.
+- **Dónde va cada texto:**
+  - Caja de objeto, línea 1: «¡Has conseguido tu ficha de doblaje!» Fórmula de la lámina al estilo de la caja; no es cita del juego.
+  - Caja de objeto, línea 2: «Un hilo con tu nombre, tus demos y tu rango vocal.»
+  - Pergamino en la mano de Link, a mano: «Demos».
+- **Lámina 2.** Las 19 etiquetas no caben. Van en la **cuadrícula de objetos de *Wind Waker***, una casilla por etiqueta y agrupadas: tipo de voz, edad, estilo, medio, estado y colaboración.
+- **Que no quede plano.** Luz dorada saliendo del cofre, en primer plano abajo, con motas. Link en medio, sombra plana de dos bandas y contorno de casco invertido. El castillo detrás con algo de niebla. Una bandera o una columna del castillo cortando el borde de la imagen.
+
+### Concepto 3 · La Espada que espera dueño · #castings
+
+- **Objeto y sitio.** La **Espada Maestra** clavada en su pedestal de piedra ([modelo CC BY de Voldepreuss](https://sketchfab.com/3d-models/legend-of-zelda-master-sword-cb7f91aa8594406ea6fc7cb72846743b); piedra con [Bricks097](https://ambientcg.com/view?id=Bricks097)). Sitio: el claro con el **haz de luz vertical** del tráiler de BotW ([0:45](https://www.dailymotion.com/video/xa39e4u?t=45); luz `#f6f9cb`).
+- **Personaje y pose.** **Link**, el más querido. De perfil, quieto, mirando la espada: la pose de «pensar» del vado ([0:56](https://www.dailymotion.com/video/x84bbjw?t=56)). Túnica del Campeón `#277AAF`. No toca la espada: el papel aún no es suyo.
+- **Cómo habla.** Link calla. Habla **la voz de Zelda**, al estilo de los sabios de TotK: letras **verde menta `#7FF1D7`** flotando sobre la espada, con glifos zonai alrededor y sin caja. Letra **RocknRoll One**.
+- **Dónde va cada texto:**
+  - Voz flotante, su frase real: «¿Serías un candidato ideal? ¡Pruébalo!»
+  - Grabado en el pedestal, letra **Hylia Serif**: «Un casting, un hilo.»
+  - Segunda línea del pedestal: «Ciérralo cuando el papel esté cubierto.»
+- **Lámina 2.** Las 15 etiquetas van en un **tablón de madera tallada** de Kakariko ([Wood095](https://ambientcg.com/view?id=Wood095)), letra Reggae One, agrupadas: medio, pago, estado y urgencia.
+- **Que no quede plano.** El haz cenital con polvo flotando. Hierba y hojas desenfocadas delante. Link a contraluz. El texto menta suelta un brillo verde que tiñe la piedra, como la Espada restaurada de TotK ([3:00](https://www.dailymotion.com/video/x8k28ay?t=180)).
+
+**Si se prefiere una secundaria:** Mipha le ganó a Zelda en la encuesta de BotW. ⚠️ No hay arte suyo en las hojas; habría que buscarlo antes.
