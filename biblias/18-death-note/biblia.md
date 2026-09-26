@@ -1865,6 +1865,199 @@ De la página *TearJerker/DeathNote* de TV Tropes (leída con
 
 ---
 
+## Punto 22 · Fan dubs y comunidad hispana
+
+Páginas de resultados de YouTube leídas con `navegar.py` y la API de
+Dailymotion. Vistas al 26-sep-2026 ✅.
+
+### Covers de los openings en español
+
+| Qué | Canal | Vistas | Enlace |
+|---|---|---|---|
+| «Death Note opening español latino» | *p777pdc* | **3,6 millones** | [mslIXaFIqY8](https://www.youtube.com/watch?v=mslIXaFIqY8) |
+| «Death Note "The WORLD" (Español Latino) [2013]» | *Omar Cabán -YuriFoX-* | **3,4 millones** | [JiU9erFknLg](https://www.youtube.com/watch?v=JiU9erFknLg) |
+| «OPENING 2 - What's Up People? (Spanish cover)» | *Mane Ribs* | **1,3 millones** | [g1mPgDBqruc](https://www.youtube.com/watch?v=g1mPgDBqruc) |
+| «Opening 1 Full - The World (Latino)»; también el ED 1 (67 k) y el OP 2 (65 k) | *Alberto Alva* | 30 k | [PAeDga6hY90](https://www.youtube.com/watch?v=PAeDga6hY90) |
+| «OP 1 Fandub Latino Full ~ The World【Doblecero】» (espejo, por si YouTube falla) | *Worldlatino* (Dailymotion) | 39 | [x4xr7h7](https://www.dailymotion.com/video/x4xr7h7) |
+
+### Fandubs y parodias
+
+| Qué | Canal | Vistas | Enlace |
+|---|---|---|---|
+| «SI KIRA TUVIERA EL EGO HASTA LAS NUBES 📖» | *El Canolexx* | **1,3 millones** | [dXEMsibyrmw](https://www.youtube.com/watch?v=dXEMsibyrmw) |
+| «¿Acaso eres gay, Kira?» | *Briff B* | **1,1 millones** | [qwMjbGUXBtc](https://www.youtube.com/watch?v=qwMjbGUXBtc) |
+| «Death note - Doblaje argentino (Fedebpolito)» (acento argentino, no el neutro) | *Fedebpolita* | **1 millón** | [P-EMtvZsBY8](https://www.youtube.com/watch?v=P-EMtvZsBY8) |
+| «LIGHT EN EL FUNERAL DE "L" / FANDUB ESPAÑOL LATINO» | *Julio di esto* | 158 k | [1u0hKqtVOLQ](https://www.youtube.com/watch?v=1u0hKqtVOLQ) |
+| «Light Yagami (Kira) Gana · Final Alternativo · Español Latino (FANMADE)» | *Medatrox* | 107 k | [YzFksR3rJys](https://www.youtube.com/watch?v=YzFksR3rJys) |
+| Retos de doblaje de Light y Misa en TikTok | *SDV servicios de voz* | — | ver §12 |
+
+- **Para #textos**: el funeral de L y el final alternativo son justo
+  «escenas de anime» para dos voces. El doblaje argentino enseña que la
+  comunidad también juega con **acentos regionales**.
+- ⚠️ No se encontró un fandub de audio en TikTok con vistas comprobables
+  (TikTok no tiene API abierta desde aquí).
+- ⚠️ Los clips de Dailymotion «Death Note: El nuevo mundo - Tráiler
+  español» **no son fandubs**: son doblaje oficial de una película.
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+| Colaboración | Qué hay | Imagen | Estado |
+|---|---|---|---|
+| **Jump Force** (Bandai Namco, 14-feb-2019) | Light y Ryuk jugables, por los 50 años de la Jump | Hoja 2, **nº252-253** (Light en 3D, Light con Ryuk) | ✅ ([GameSpot](https://www.gamespot.com/articles/e3-2018-naruto-dragon-ball-one-piece-and-death-not/1100-6459612/), [Gematsu](https://www.gematsu.com/2018/06/jump-force-death-note-teaser-trailer)) |
+| **Universal Studios Japan**, «Universal Jump Summer» | Ryuk en el cartel junto a Luffy y Goku | Hoja 2, nº244 | ✅ la imagen oficial; la fecha, sin nota de prensa ⚠️ |
+| **Othellonia × Death Note** (DeNA y MegaHouse) | Wallpapers y cartas propias de Light, L, Misa, Near y Mello (2208×2208) | Hoja 1, nº37-42 | ✅ (crédito oficial en la propia imagen) |
+| **LINE Bubble 2** | Stickers y *power-ups* de L y Ryuk en *chibi*; plazo «11/30 … 12/3», sin año | Hoja 3, nº530-531, 538-539 | ✅ la colaboración; el año ⚠️ |
+| **Uniqlo UT × 50 años de Shōnen Jump** | Camisetas de edición limitada, sólo Japón | — | ✅ ([Aitai Kuji](https://www.aitaikuji.com/shonen-jump-50th-anniversary-x-uniqlo-t-shirts-bleach-death-note-and-jump), [eBay](https://www.ebay.com/itm/193286960166)) |
+| **XLARGE × Death Note** (1-ene-2022) | Camiseta, sudaderas y una **chamarra universitaria con mangas de cuero centrada en Ryuk**; ¥6.050 a ¥28.600 | — | ✅ ([Hypebeast](https://hypebeast.com/2021/12/death-note-xlarge-collection-release-info), [Highsnobiety](https://www.highsnobiety.com/p/death-note-xlarge-collab-collection-clothing/)) |
+| **Team Liquid × Death Note** (29-mar-2024) | Línea de ropa de esports | — | ⚠️ una fuente ([Team Liquid](https://store.teamliquid.com/blogs/news/team-liquid-x-death-note-apparel-collection-drops)) |
+| **Toonique Cafe** (Hongdae, Seúl) | Café temático con menú y merchandising | — | ⚠️ una fuente, sin fecha ([KCulture](https://kculture.com/k-event/toonique-x-death-note-collaboration-cafe/)) |
+| **Death Note the Escape** | Sala de escape real con el cuaderno como objeto central | Hoja 3, nº536 | ⚠️ una fuente; sin web de reservas vigente |
+| **Pachislot y pachinko** (Sammy, 2008-2010) | Máquinas con arte propio de Light, L y Ryuk; su merchandising se revende de ¥3.000 a más de ¥80.000 | — | ✅ ([OneMall](https://blog.onemall.jp/2026/04/16/death-note-merchandise-from-japan-2026-collector-buying-guide/)) |
+| **Jumputi Heroes** | Near en *chibi* | Hoja 2, nº258 | ✅ la imagen (con crédito del juego) |
+
+- **Ropa y pose nuevas**: la **chamarra varsity de Ryuk** (XLARGE) es un
+  diseño que no sale en el anime: sirve para «Ryuk vestido de calle».
+- **Figuras oficiales** (pose y volumen ya resueltos, buena referencia
+  3D): **Nendoroid y Nendoroid Petite** de Light, L, Misa y Ryuk (Good
+  Smile), figuras a escala de MegaHouse y *Candy Toys* de Bandai ✅
+  ([OneMall](https://blog.onemall.jp/2026/04/16/death-note-merchandise-from-japan-2026-collector-buying-guide/),
+  [lista de la wiki](https://deathnote.fandom.com/wiki/List_of_Death_Note_figurines)).
+  La wiki no da imagen directa de cada una ⚠️.
+- **Cosplay**: lo más replicado es la gargantilla de cuero y las medias
+  de encaje de Misa, y la camiseta y el vaquero de L descalzo (guías de
+  §16). El lolita de Misa tiene un cosplay con 732 votos en Reddit
+  (§14.1) ✅. No se encontró un cosplay premiado con foto en alta y
+  crédito claro ⚠️.
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+**Series de tono parecido** (recomendaciones de usuarios de AniList,
+`partes/datos-texto.md`):
+
+- **Code Geass** (la más votada, 3559 votos): un genio que manipula
+  desde las sombras con un poder sobre la voluntad ajena (el Geass ↔ el
+  cuaderno) y un rival igual de listo ✅.
+- **Monster** y **Psycho-Pass**: duelo psicológico, justicia y moral
+  gris ✅. La ficha de temas de AniList para Death Note: `Anti-Hero 94 %`,
+  `Police 87 %`, `Philosophy 84 %`, `Noir 79 %` ✅.
+- **Death Parade** (decisiones morales con un árbitro que observa) y
+  **Moriarty the Patriot** (genio criminal que se cree la justicia) ✅.
+- **Terror in Resonance**: thriller policial callado con dos genios
+  jóvenes ✅.
+- Otras de la lista: The Promised Neverland, Parasyte, Talentless Nana,
+  Platinum End, Inuyashiki, Kaiji, Erased ✅ (AniList).
+
+**Lo que dice el autor (Tsugumi Ohba)**
+
+- De dónde salió: «No hubo nada en particular. Empecé a pensar ideas y
+  fueron llegando más, hasta llenar la trama con las reglas y el dios de
+  la muerte». Y: «No pensé mucho en temas como "vida y muerte" o
+  "justicia y maldad". La escribí esperando que fuera buen
+  entretenimiento» ✅ ([ComiPress](https://www.comipress.com/news/2007/01/15/1330)
+  y la misma entrevista en [Yahoo](https://www.yahoo.com/news/creator-apos-death-note-apos-212900017.html)).
+- Autor con **seudónimo, casi sin rostro público** ✅
+  ([Inverse](https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga)).
+- Sus modelos: **Fujiko F. Fujio** (Doraemon), **Fujio Akatsuka** y
+  **Shotaro Ishinomori** ⚠️ (una fuente, Inverse).
+- **Obata**, su colaborador favorito: *Death Note*, *Bakuman*, *Platinum
+  End* ⚠️ (Inverse).
+- **Relacionadas directas**: el manga, *Death Note: Relight* (resumen) y
+  *Death Parade* (mismo terreno temático) ✅ (AniList).
+
+**Otras láminas del servidor que se le parecen** (para no repetir
+ideas; `encargos/`, 26-sep-2026)
+
+- **Cowboy Bebop** (jazz y *noir*): la misma luz dura y paleta apagada
+  ✅. Ojo con repetir el recurso de «una sola lámpara».
+- **Neon Genesis Evangelion**: peso psicológico y protagonista atrapado
+  en su cabeza ✅.
+- **Kakegurui** (duelo mental, siempre un paso por delante) y **Bungo
+  Stray Dogs** (detectives con poderes) ⚠️ (comparación por género).
+- **Vinland Saga** y **Chainsaw Man**: shonen oscuro con dilema moral ⚠️.
+- **Doraemon** (`19-doraemon`): el ídolo de Ohba, pero tono opuesto.
+- **Sin choque de canal**: ninguna de estas pide #textos.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+### Las reglas del mundo, en cinco líneas
+
+1. Quien tenga su nombre escrito en el cuaderno **muere**; sin causa
+   escrita, de **infarto a los 40 segundos** ✅
+   ([reglas, wiki](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note/Manga_Chapter_Rules)
+   y el ep. 1, 00:05:22 a 00:05:30).
+2. Hay que conocer **la cara y el nombre real**; un tocayo no muere ✅.
+3. Quien lo usa **no va ni al cielo ni al infierno**; el cuaderno es de
+   quien lo toca en el mundo humano ✅.
+4. El shinigami dueño **sigue al poseedor hasta su muerte** y no ayuda
+   ni impide nada ✅.
+5. Por **la mitad de la vida que te queda**, tienes **ojos de
+   shinigami**: ves el nombre y los años de vida de cualquiera con
+   mirarle la cara ✅ ([Shinigami Eyes](https://deathnote.fandom.com/wiki/Shinigami_Eyes)).
+
+### El objeto
+
+Una **libreta negra corriente por fuera**, con **hojas blancas rayadas**
+como un cuaderno escolar; no se le acaban las páginas; se rasga y se
+quema como papel normal; el shinigami puede cambiarle la tapa, pero casi
+todos la dejan lisa ✅ ([Death Note (object)](https://deathnote.fandom.com/wiki/Death_Note_(object))).
+Por dentro, la primera página es **negra con letra blanca gótica** y una
+calavera con aureola (visto en el ep. 1, 00:04:32; su color, §5.5) ✅.
+
+### La historia por arcos
+
+- **Kira contra L (ep. 1-25)**: Light encuentra el cuaderno y mata
+  criminales; aparece Ryuk. La Interpol llama a **L**, que lo sitúa en
+  Kantō con la trampa de Lind L. Tailor (ep. 2). **Misa** consigue otro
+  cuaderno y los ojos (Rem), descubre que Light es Kira y se enamora.
+  Con el truco de **perder la memoria del cuaderno**, Light entra al
+  equipo de L; juntos atrapan a Higuchi (Yotsuba); Light recupera la
+  memoria. **Rem mata a L** para salvar a Misa y se desintegra (ep. 25).
+  Light pasa a ser el nuevo «L» ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Death_Note)
+  y la [wiki](https://deathnote.fandom.com/wiki/Death_Note_Wiki)).
+- **Near y Mello (ep. 26-37)**: cinco años después, con cultos a Kira.
+  **Near** (con la SPK) y **Mello** (con la mafia) compiten entre sí.
+  **Aizawa** sospecha de Light. Light da el cuaderno a **Mikami** y pone a
+  **Takada** de portavoz. Mello secuestra a Takada; ella lo mata y Light
+  la mata a ella. **Near prueba que Light es Kira** en el almacén (ep.
+  36-37); herido, Light pide a Ryuk que escriba; **Ryuk escribe el nombre
+  de Light**, como le prometió el primer día ✅ (mismas dos fuentes).
+
+### Emblemas, grupos y objetos
+
+- **Equipo japonés** (Task Force): sin logo; su símbolo es la **insignia
+  de investigador** que enseñan al identificarse ✅
+  ([Japanese Task Force](https://deathnote.fandom.com/wiki/Japanese_Task_Force)).
+- **SPK** (Special Provision for Kira), de Near: sólo nombre, sin logo ✅
+  ([SPK](https://deathnote.fandom.com/wiki/Special_Provision_for_Kira)).
+- **Grupo Yotsuba** (よつば, «cuatro hojas»): logo corporativo en
+  documentos y edificios ✅ ([Yotsuba Group](https://deathnote.fandom.com/wiki/Yotsuba_Group)).
+- **Objetos que un fan reconoce al instante**: el cuaderno negro, **la
+  manzana roja**, **la «L» gótica en pantalla blanca**, **la «N»** de Near
+  (mismo recurso), los dulces de L, **las esposas** que unen a L y a
+  Light, el cronómetro de las cintas de Misa con «KIRA» escrito a mano
+  (ep. 11, 00:03:27) ✅.
+
+### Vocabulario propio
+
+| Palabra | Qué es |
+|---|---|
+| **Kira** (キラ, de *killer*) | El apodo del asesino; sale escrito como pintada en la serie ⚠️ (la página de la wiki no se releyó) |
+| **Shinigami** (死神) | Dios de la muerte: Ryuk, Rem, Sidoh; viven en un desierto gris con huesos ✅ |
+| **Ojos de shinigami** (死神の目) | El trato de la mitad de la vida ✅ |
+| **Segundo Kira** | Misa, cuando aparece con el otro cuaderno ✅ |
+| **Dios del nuevo mundo** (新世界の神) | Lo que Light dice que será (ep. 1, 00:21:00) ✅ |
+| **Wammy's House** | El orfanato inglés de Watari donde se formaron L, Near y Mello ✅ ([wiki](https://deathnote.fandom.com/wiki/The_Wammy%27s_House)) |
+| **40 segundos** y **6 minutos 40 segundos** | Lo que tarda el infarto y el plazo para escribir los detalles ✅ |
+| *Keikaku doori* (計画どおり) | «Todo según el plan», la cara de Light (ep. 24) ✅ |
+
+---
+
 ## 19 · Tres conceptos para la lámina de #textos
 
 Los tres usan los textos de §0. Donde pongo una frase «en la voz del
