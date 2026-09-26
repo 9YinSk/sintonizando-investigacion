@@ -252,6 +252,13 @@ usarlos como referencia exacta de pose.
 
 ## No encontré
 
+- **Fotogramas a 1080p o más** (lo pide el punto 2): la única fuente que
+  funcionó hoy es Internet Archive, a **1280×720** (lo confirma
+  `archive.org/metadata/death-note-01`: `width:1280 height:720`, sin versión
+  en mayor resolución). El canal de Viz en YouTube (mencionado en la biblia)
+  sí tendría 1080p, pero YouTube está bloqueado (ver abajo). Dejo el dato con
+  ⚠️: son los fotogramas de mejor resolución que pude conseguir hoy, no
+  1080p.
 - **Minuto de los vídeos de análisis en YouTube** («El IMPACTO de L», «Por qué perdió Light Yagami», etc.): YouTube bloqueado hoy dos veces (`yt-dlp`: «Sign in to confirm you're not a bot» y 429). Probé Dailymotion como alternativa (`api.dailymotion.com/videos?search=Death+Note+analisis+L+Light`): sólo salieron clips de la película Netflix 2017, no del anime.
 - **AnimeThemes** para vídeo directo de OP/ED: la API sigue caída (antes 522, hoy 403 con `filter[name]`); usé Dailymotion en su lugar.
 - **Vistas exactas y fecha de los vídeos de TikTok**: TikTok bloquea el HTML con contenido vacío incluso con `navegar.py` (0 caracteres); me quedé con los enlaces directos y lo que confirma Know Your Meme/la búsqueda web.

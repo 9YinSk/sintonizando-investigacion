@@ -92,7 +92,7 @@ La Niña (The Girl) | Pelo largo y liso | #0C0C0C | TheGirl.png
 La Niña (The Girl) | Piel (pierna, descalza) | #57443A | TheGirl.png
 La Niña (The Girl) | Cuchillo de combate (hoja) | #494B4D | TheGirl.png
 La Niña (The Girl) | Linterna de aceite (cuerpo metálico) | #363029 | TheGirl.png
-El Niño (The Boy) | Capucha de saco de arpillera | #4C473D | Boy.png, render 3D coloreado de la wiki (313×550)
+El Niño (The Boy) | Capucha de saco de arpillera | #4C473D | Boy.png, render 3D coloreado de la wiki (401×822 según la API de Fandom el 26-sep; la medida «313×550» de una pasada anterior era de otra versión del archivo)
 El Niño (The Boy) | Capa/poncho de tela sobre el torso | #454034 | Boy.png
 El Niño (The Boy) | Pantalón/piernas (oscuro, casi negro) | #131515 | Boy.png
 El Niño (The Boy) | Mancha cuadrada en el pecho (ver «Apariencia» en la wiki: es roja, pero en este render queda muy oscurecida por la sombra) | #262626 (aprox., no se distingue el rojo en este ángulo) | Boy.png — ⚠️ doble: hex dudoso, hace falta otra captura con más luz frontal para confirmar el rojo
