@@ -2515,6 +2515,11 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
 **traducción mía**, no del doblaje (no la encontré). Recortes siempre por
 `v3/integrar.py` y comprobados a 1:1.
 
+> **Segunda pasada**: los tres conceptos se mantienen, pero ahora con
+> **imágenes vistas** (número de hoja y minuto de vídeo), **colores
+> medidos** y **modelos 3D con licencia leída**. Lo que cambió va marcado
+> «Nuevo».
+
 ### Concepto A — «El estreno en la caja» (Marceline en su casa)
 
 - **Objeto y sitio**: sobre **el sofá de la casa de Marceline**, dentro
@@ -2524,13 +2529,22 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   brazo del sofá. Velas en la pared. Por la ventana, la **laguna** con
   reflejos azules.
   - En Blender: caja de cartón con tapa, vinilos de colores (amarillo,
-    azul oscuro y rosa, como los de Mondo), casete, el bajo (modelo de
-    Yogensia o hecho a mano), sofá sencillo. Cartón y madera de
-    ambientCG/Poly Haven (§5.4).
+    azul oscuro y rosa, como los de Mondo), casete, el bajo (**Nuevo**:
+    modelo de **Haxis, CC BY**, o el de Yogensia, §4.1), sofá sencillo.
+    Cartón **Cardboard001-004** y madera **Wood092** de ambientCG (§B).
+  - **Nuevo**: junto a la caja, **la grabadora amarilla** con el cable
+    enchufado, la de «Fry Song» (visto, 0:12): el objeto con el que ella
+    graba sus estrenos.
+  - **Nuevo, colores medidos**: pared **`#F8AEC5`**, techo `#FBE0E8`,
+    sofá rojo **`#D94344`** (§5.3). Fotogramas del sitio: hoja 9 **#385**
+    y **#386** (el sofá rojo).
 - **Personaje**: **Marceline flotando** encima de la caja, **tumbada en
   el aire boca abajo**, con un disco en la mano (pose de §15 n.º 2-3:
   relajada, burlona). Referencia de pose: «Evicted!» ≈2:31 y «Marceline's
-  Closet» ≈8:41 (flota sobre la cama).
+  Closet» ≈8:41 (flota sobre la cama). **Nuevo, vista en vídeo**: la
+  **V1** de §15.0 («Fry Song» [0:00](https://www.dailymotion.com/video/x51arca?t=0),
+  flota bocabajo tocando) y el **guiño** de hoja 1 **#36**. Piel
+  **`#D8E7E7`**, pelo negro puro, camiseta gris (hoja 2 **#51**).
 - **Cómo habla**: **no hay globo**. Su frase va **escrita con rotulador
   en la hoja de letras** que asoma de la caja, con **Rock Salt**:
   «**Sólo lo que acaba de salir. Lo demás, pa' otro lado.**» (mía).
@@ -2546,8 +2560,9 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
 - **Para que no quede plano**: **vela desenfocada** en primer plano;
   el **mástil del bajo cruza la imagen** por delante de la caja; luz
   **cálida de vela** desde un lado y **luz fría de la laguna** por la
-  ventana del otro; un vinilo **medio fuera de la funda** proyectando
-  sombra.
+  ventana del otro (la laguna, de memoria ⚠️); un vinilo **medio fuera de
+  la funda** proyectando sombra. Dentro de la casa la luz de la serie es
+  **plana y cálida** (visto): que la vela sea el único acento.
 - **Lámina 2** (si se quiere explicar cómo publicar): la **contraportada
   de la caja**, con los campos del mensaje como si fuera la **lista de
   canciones** (artista, título, tipo, fecha, enlace). **Los campos los
@@ -2565,7 +2580,15 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
 - **Personaje**: **Marceline apareciendo entre la niebla** con el bajo
   colgado (pose de §15 n.º 10, 10×07 ≈7:00), un brazo arriba saludando al
   público. Alternativa: **echándose el bajo al hombro** («Obsidian»
-  ≈18:47) para «lo siguiente».
+  ≈18:47) para «lo siguiente». **Nuevo, vistas en vídeo**: **V3** (entra
+  volando con el bajo por delante, [0:16](https://www.dailymotion.com/video/x537pqr?t=16))
+  y **V11** (de pie, bajo al hombro, [1:08](https://www.dailymotion.com/video/x7xejon?t=68));
+  para cantar con fuerza, **V4** (0:52). ⚠️ El escenario del cementerio
+  **no tiene clip real**: niebla, foco y lápidas son de la transcripción.
+- **Nuevo, variante con sitio visto**: el mismo concierto **sobre la
+  puerta de los círculos dorados** (3×10, hoja 9 **#393**, luz de tarde),
+  o **flotando hacia el Reino de Cristal** (V10, paleta `#422D6B`,
+  `#E1F7F9`, `#9055C3` medida).
 - **Cómo habla**: su saludo va **en el cartel del concierto** pegado a
   una lápida (cartel punk, **Bungee**), y la frase del personaje, **en la
   setlist**, con su letra (**Permanent Marker**): «**¡Hola, cementerio!
@@ -2596,7 +2619,14 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   **Jake con su viola** detrás (poses de §15: Finn 1, Jake 2), escuchando
   como al final de la serie («Would you like to hear it?» «Sure!»
   «Yeah!», 10×13 ≈43:04). Marceline puede asomar flotando por la ventana
-  con el bajo, para que la protagonista siga en la lámina.
+  con el bajo, para que la protagonista siga en la lámina. **Nuevo, vistas
+  en vídeo**: Finn **con audífonos levantando la grabadora** («Fry Song»
+  [0:40](https://www.dailymotion.com/video/x51arca?t=40)) y Jake
+  **corriendo con la viola** («I'm Just Your Problem» [0:04](https://www.dailymotion.com/video/x537pqr?t=4)).
+  Colores medidos: Finn `#018BCB`/`#7BBB59`, Jake `#FEB925`.
+- **Nuevo, en 3D con licencia CC BY** (§4.1): **la casa del árbol entera**
+  (gleksono), **BMO** (featbear o ezgibakim), **Finn** (Agu.3D) y **Jake**
+  (Mormont). BMO: **parodia de Game Boy** (§7.1), su «edad» «VER. 2600».
 - **Cómo habla**: **en la pantalla de BMO**, con letra de píxel
   (**VT323**): «**¿QUIEREN OÍRLA? ES NUEVA.**» (mía, sobre la frase del
   Hoyo Musical).
@@ -2609,8 +2639,11 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   - **Flecha pintada** en una tabla hacia la puerta: **¿Quieres un
     artista? Pídelo en sugerencias**.
 - **Para que no quede plano**: la **voluta de la viola** de Jake en
-  primer plano; **luz de tarde dorada** por la ventana redonda; la
-  pantalla de BMO **ilumina** la cara de Finn.
+  primer plano; **luz de tarde dorada** por la ventana redonda (de
+  memoria ⚠️); la pantalla de BMO **ilumina** la cara de Finn.
+- **Ojo** (§G.3): Rick y Morty ya evita repetir «un personaje dentro de
+  una pantalla» por este concepto; aquí la pantalla **es** el personaje
+  (BMO), así que no choca.
 
 ### ¿Cuál primero?
 
@@ -2618,32 +2651,65 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   «disco, single, EP» con **objetos reales de la franquicia**.
 - **B** es el más espectacular y el que más dice «estreno»: un concierto.
 - **C** es el más tierno y el que menos depende de Marceline; útil si la
-  lámina de otro canal ya la usa.
+  lámina de otro canal ya la usa. Ahora es el que tiene **más 3D con
+  licencia** (casa del árbol, BMO, Finn y Jake).
+- Recomendación tras la segunda pasada: **A**, porque todos sus sitios,
+  colores y poses ya están **vistos y medidos**; B tiene el escenario sin
+  fotograma.
 
 ---
 
 ## 20 · Lo que no pude verificar
 
-- **Ninguna imagen vista.** Todo lo visual (key art, portadas de discos,
-  cartelas) está descrito por texto de tiendas y noticias.
-- **Los minutos** son estimados por la posición en la transcripción (±1
-  minuto).
-- **Frases latinas de Marceline**: no encontré ninguna frase textual suya
-  en el doblaje (sólo títulos de canciones y del episodio). Tampoco la
-  del Hoyo Musical.
+### 20.1 Lo que se resolvió en la segunda pasada (antes → ahora)
+
+- «Ninguna imagen vista» → **1188 imágenes en 13 hojas**, 3 aquí, miradas
+  (§3.0); *model sheets* y concept art de «Obsidian» vistos (§3.7).
+- «Minutos estimados» → **4 escenas, el opening y los créditos vistos**
+  con minuto exacto (§2, §12.0, §15.0).
+- «Ninguna frase latina de Marceline» → **una frase real oída** en la
+  muestra de Doblaje Wiki, y otras 5 de Finn, Jake, la Princesa, el Rey
+  Helado y BMO (§10.4).
+- BMO latino y directores: **Doblaje Wiki leída por su API** más segunda
+  fuente (§10.1, §10.2).
+- Fecha del disco «Marceline Canta»: **25-oct-2019** (MusicBrainz).
+- Licencias 3D: **leídas en la API de Sketchfab** (§4.1).
+- Colores: **medidos** en *model sheets* y fotogramas (§5.3, §16).
+- Fuente de fans del logo: **abierta con fontTools** (sólo Mac Roman,
+  §6.1).
+- «¡Oh por Glob!»: **confirmado** de la Princesa Grumosa (§10.4).
+
+### 20.2 Lo que sigue sin verificar ⚠️
+
+- **Encuesta oficial de popularidad** con números: no la encontré (ni en
+  español ni en inglés); Ranker da 401.
 - **Quién canta** a Marceline en cada temporada (Claudia Urbán, Patty
-  Urbán, Carla Cerda): una sola fuente (Doblaje Wiki).
-- **BMO latino** (Gustavo Melgarejo) y los directores de doblaje: una
-  sola fuente.
+  Urbán, Carla Cerda): una sola fuente (Doblaje Wiki); la parte de voz no
+  lo repasó.
+- **Frase latina** de «Thanks for helping me record», «I'm Marceline the
+  Vampire Queen» y la del Hoyo Musical; **episodio** de cada una de las 6
+  muestras de audio.
 - **Estudio de «Misiones Secundarias»** (Iyuno México, Miguel Ángel
   Leal): una sola fuente.
-- **Fecha del disco «Marceline Canta»**: 2019 según la wiki; puede ser 2020.
-- **Encuesta oficial de popularidad**: no existe o no la encontré.
-- **Las licencias** de los modelos 3D, salvo el de Yogensia.
-- **Las cajas de diálogo** de los videojuegos.
-- **Colores**: todos los hex son aproximados.
+- **La cueva de Marceline** y **el Anfiteatro Fantasma** (10×07): sin
+  clip real; su luz y su paleta siguen de memoria. Tampoco «Henchman» ni
+  «Marceline's Closet».
+- **La lágrima de «I Remember You»**: las partes no coinciden en el
+  segundo (≈1:18, §2.4).
+- **Colores sin medir**: turquesa de BMO, corona de la Princesa, filos
+  del bajo en luz de día, vaqueros, casa por fuera, cueva.
+- **Las cajas de diálogo** de los videojuegos (sí los retratos de DS y el
+  menú de Card Wars).
+- **6 modelos 3D del bajo** sin campo de licencia en la API; el de
+  cuxilrodas es «Free Standard» (no CC).
+- **Vistas y fechas** de fandubs de YouTube y TikTok.
+- **Caras por emoción**: 7 de 25 combinaciones vistas (§8.2).
 - **«El sicario»** = «Hitman» (3×04): deducción mía.
-- La **fuente de fans «Adventure Time Logo»**: no sé si trae tildes.
+- «Simon & Marcy»: 5×14 (wiki) o 4×24 (parte de voz).
+- La entrevista original de **Phil Rynda** sobre Photoshop; *The
+  Adventure Time Encyclopædia* (no cargó).
+- **Las 3 intros de miniserie** (Islands, Stakes, Food Chain): existen y
+  se sabe su duración; no se miraron.
 
 ---
 
