@@ -415,10 +415,68 @@ termina con el logo de HBO Max):
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] Sin imágenes descargadas
-> Todas las webs de imágenes estaban cerradas. Aquí van **las piezas que
-> existen y dónde están**. Antes de dibujar, hay que abrirlas desde un PC
-> con red normal y guardarlas en `referencias/hora-de-aventura/`.
+> [!note] Segunda pasada: ahora sí hay imágenes vistas
+> En la primera pasada las webs de imágenes estaban cerradas. En la
+> segunda se bajaron y **se miraron** las de la wiki (1188, en 13 hojas),
+> los *model sheets* de producción y el arte del especial «Obsidian».
+> Lo que sigue sin ver lleva ⚠️.
+
+### 3.0 Las hojas de contacto ✅
+
+`herramientas/investigar_serie.py --wiki adventuretime` con las páginas
+de Marceline, Finn, Jake, Dulce Princesa, el bajo-hacha y BMO indexó
+**1188 imágenes** de la wiki en **13 hojas** de 48. Se quedan **3** en
+`hojas/` (vistas). El número de cada imagen es el de la hoja; el
+original, con su tamaño, está en `referencias.json`.
+
+**`hojas/personajes_01.jpg` (1-48): arte de producción y vestuario.**
+- **#1** «Stock Night» (5100×3300): Marceline caminando en 4 poses, gris,
+  sin color final. Para **proporciones**.
+- **#2-4**: bocetos a lápiz de Marceline murciélago («Bat Marceline
+  Rough — Phil»), 3600×3000.
+- **#5** el **bajo-hacha solo**, *model sheet* con las llantas del mástil
+  (4104×2454). **La mejor referencia del objeto.**
+- **#9-10** «New Costume #1» (4079×2421): vestido camisero azul grisáceo y
+  zapatos granate, de frente y de espaldas. **Colores medidos aquí** (§16).
+- **#15** grito (pose especial, ojos rojos) y **#16** a punto de llorar:
+  caras oficiales para rabia y tristeza.
+- **#20** traje con **sombrero de ala ancha, guantes y botas** contra el
+  sol (el de «I'm Just Your Problem»).
+- **#25** «S2e1 Drama bomb» (2880×1620): de noche con el bajo rojo.
+- **#35** Simon y Marcy niña **en moto** (5×14). **#36** «S7e7 Marceline
+  playing ax bass» (2880×1620): **de pie, en un huerto, tocando de
+  verdad, un ojo guiñado**. **La mejor «con su instrumento».**
+- **#43** Dulce Princesa (2880×1618), **#45** *model sheet* de Jake
+  (1700×2455), **#48** *model sheet* de Finn (1467×2385).
+
+**`hojas/personajes_02.jpg` (49-96): el bajo y la Dulce Princesa.**
+- **#49** el **bajo-hacha solo sobre fondo verde** (1471×2227), en color:
+  filos rojos, mástil y clavijas.
+- **#51** «Marceline Presentation» (1382×2136): **cuerpo entero sobre
+  blanco**, camiseta gris, vaqueros y botas rojas. **La mejor para la IA
+  y para recortar la silueta.**
+- **#52-63**: Marshmaline (la versión de «Fionna & Cake») y BMO
+  transformándose, sobre el rosa del Dulce Reino.
+- **#67-93**: la Dulce Princesa en muchos episodios (1920×1200); **#86-87**
+  sentada **con una taza de té**, en su palacio rojo.
+- **#94** Finn, la Princesa y Marceline **con su paraguas negro** en la
+  playa («Islands»).
+
+**`hojas/escenas_09.jpg` (385-432): la historia de Marceline y Simon.**
+- **#385** Marceline presenta a sus fantasmas **en su casa rosa**
+  (1920×1080); **#386** asusta a Finn y Jake en el **sofá rojo**.
+- **#391-392** con la Princesa y el **sombrero de sol**; **#393**
+  **cantando sobre la puerta de los círculos dorados** (3×10).
+- **#396-397** tocando con el Rey Helado en la batería; **#403** con el
+  **omnichord**; **#404** la **lágrima**; **#408** **la nota de Simón**
+  escrita a mano (4×25).
+- **#407, #409-411, #417-423**: Marcy niña con Simon (5×14, 5×29), con
+  **Hambo**, el osito rojo.
+- **#432** Betty, Gunter, Marceline, Finn y Jake (5×48).
+
+Las otras 10 hojas quedan fuera del repositorio, en
+`herramientas/referencias/adventure-time-hora-de-aventura/` (git las
+ignora), por si hace falta más.
 
 ### 3.1 Libros de arte oficiales
 
@@ -464,7 +522,7 @@ termina con el logo de HBO Max):
   [MovieWeb](https://movieweb.com/adventure-time-distant-lands-obsidian-hbo-max/),
   [TVLine, primera imagen](https://www.tvline.com/news/adventure-time-distant-lands-obsidian-first-look-bubblegum-marceline-2904814/)).
   Marceline y la Princesa juntas: la mejor pose de pareja oficial ⚠️
-  (no vi la imagen).
+  (el póster no se bajó; sí se vio el **tráiler** en 1080p, §2.6).
 - **Otro key art de «Obsidian»** con el adelanto de una canción
   ([Bleeding Cool](https://bleedingcool.com/tv/adventure-time-distant-lands-previews-obsidian-song-new-key-art/)).
 
@@ -480,20 +538,23 @@ Blender: **funda, galleta, color del vinilo, librito**.
 | **Distant Lands – Obsidian** (iam8bit / WaterTower) | **Doble LP**, 32 canciones | Vinilo **«Glassboy Blue»**. Arte de **Maya Petersen**. **La letra de «Monster» va grabada en la cara 4** del disco, diseñada por Half Shy | [iam8bit](https://www.iam8bit.com/products/adventure-time-distant-lands-obsidian-original-soundtrack-2xlp), [Plastic Stone](https://plasticstone.net/products/amanda-jones-adventure-time-distant-lands-obsidian-original-soundtrack-2xlp-glassboy-blue-vinyl), [WaterTower](https://www.watertower-music.com/release/adventure-time-distant-lands-obsidian-original-soundtrack-deluxe-edition/) |
 | **BMO's Mixtape (Gilligan Moss Mix)** (iam8bit) | LP de **11 remezclas** («Robot Cowboy», «Bacon Pancakes», «Eternity With You»…) | Vinilo **«Groovy Cosmic Splatter»** (salpicado), funda con **barniz brillante en zonas**. Arte nuevo de **Jesse Balmer**, **con BMO** | [iam8bit](https://www.iam8bit.com/products/adventure-time-distant-lands-bmos-mixtape-gilligan-moss-mix-vinyl-soundtrack), [Gamers Heroes](https://www.gamersheroes.com/gaming-news/iam8bit-adventure-time-distant-lands-vinyl-and-cd-soundtracks-pre-orders-live/) |
 | **Monster** (single) | **Single digital** con **King Princess** | Portada: sin ver ⚠️ | [Spotify](https://open.spotify.com/album/1F9JG1CnaKLmYqsDHdOxey), [Bleeding Cool](https://bleedingcool.com/tv/adventure-time-distant-lands-obsidian-king-princess-sings-monster/) |
-| **Marceline Canta: Timeless Songs (Versión en español)** | **Disco oficial en español** con **10 canciones de Marceline** | Hay también **versión en portugués**. La wiki dice **2019** ⚠️ (el número de Apple Music apunta más bien a 2020) | [Spotify](https://open.spotify.com/album/6x28Z0ItbmOHSpPUtExumt), [Deezer](https://www.deezer.com/us/album/153622342), [Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Marceline_Canta:_Timeless_Songs), [Apple Music](https://music.apple.com/us/album/marceline-canta-timeless-songs/1515397280) |
+| **Marceline Canta: Timeless Songs (Versión en español)** | **Disco oficial en español** con **10 canciones de Marceline** | Hay también **versión en portugués**. Fecha **25-oct-2019** ✅ (la wiki dice 2019 y MusicBrainz da el día exacto; el número de Apple Music apuntaba a 2020) | [MusicBrainz](https://musicbrainz.org/release-group/1f39e3d6-9a3b-4838-bae0-3e59b37e69eb), [Spotify](https://open.spotify.com/album/6x28Z0ItbmOHSpPUtExumt), [Deezer](https://www.deezer.com/us/album/153622342), [Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Marceline_Canta:_Timeless_Songs), [Apple Music](https://music.apple.com/us/album/marceline-canta-timeless-songs/1515397280) |
 
-**Lista del disco en español** (según la wiki; el episodio va entre
-paréntesis tal como lo da) ⚠️:
-1. ¿Qué soy para ti? («Lo que estaba perdido»)
-2. Soy tu problema («Lo que estaba perdido»)
-3. Pequeña mujer («Muchachito malo»)
-4. Recordándote («Te recuerdo»)
-5. Ya no lo puedo soportar / Siento fuego dentro de mí («Incendio»)
-6. Canción de las papas («Llegó de la Nocheósfera»)
-7. Todo se queda («Todo se queda / La nube oscura»)
-8. Cadena alimenticia («Cadena alimenticia»)
-9. Siempre entonces se podrá volver («¡Ven conmigo!»)
-10. Acompáñame («¡Ven conmigo!»)
+**Lista del disco en español**, con la **duración real** de cada pista
+(MusicBrainz) y el episodio entre paréntesis (Hora de Aventura Wiki) ✅:
+1. ¿Qué soy para ti? — 2:41 («Lo que estaba perdido»)
+2. Soy tu problema — 2:00 («Lo que estaba perdido»)
+3. **Niño malvado** — 1:54 («Muchachito malo»). La wiki la llamaba
+   «Pequeña mujer»; MusicBrainz, «Niño malvado» ⚠️ (no coinciden).
+4. Recordándote — 2:19 («Te recuerdo»)
+5. Ya no lo puedo soportar / Hay un fuego dentro de mí — 1:29 («Incendio»)
+6. **Papi, te comiste mis papas** — 1:43 («Llegó de la Nocheósfera»; la
+   wiki la llamaba «Canción de las papas»)
+7. Todo se queda — 2:26 («Todo se queda / La nube oscura»)
+8. Cadena alimenticia — 1:32 («Cadena alimenticia»)
+9. Siempre entonces se podrá volver — 2:10 («¡Ven conmigo!»)
+10. **Acompáñame** — 1:49 («¡Ven conmigo!»): es «**Come Along With Me**»,
+    el tema de cierre de la serie.
 
 > **Idea fuerte**: los tres formatos del canal existen en la franquicia.
 > **Disco** = el LP de 12". **Single** = «Monster». **EP** = el 10" de
@@ -525,6 +586,19 @@ paréntesis tal como lo da) ⚠️:
   y un **objeto de Steam Workshop** ([Ax Bass](https://steamcommunity.com/sharedfiles/filedetails/?id=309894021)).
   Sirven para ver **el bajo con luz real**.
 
+### 3.5b El bajo-hacha en arte oficial (visto) ✅
+
+- ***Model sheet* «axbass withrims»**: el bajo solo, con las llantas del
+  mástil marcadas ([4104×2454](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/58/Modelsheet_axbass_withrims.png)),
+  hoja 1 **#5**. Sin color (gris de producción).
+- **En color, sobre fondo verde** ([«Qr.png», 1471×2227](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/e/e5/Qr.png)),
+  hoja 2 **#49**.
+- **Tocándolo de pie**, en un huerto, luz de tarde
+  ([«S7e7 Marceline playing ax bass», 2880×1620](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/33/S7e7_Marceline_playing_ax_bass.png)),
+  hoja 1 **#36**.
+- Filos en color de escena: rojo saturado entre `#9E1B1E` y `#C22B2F` ⚠️
+  (no se aisló un píxel limpio por el brillo de la escena).
+
 ### 3.6 Cómics oficiales
 
 - **«Marceline and the Scream Queens»** (BOOM! Studios, **6 números,
@@ -538,6 +612,36 @@ paréntesis tal como lo da) ⚠️:
   Marceline en gira, con banda y en escenario** ⚠️ (no vi las portadas).
 - En España los cómics se editaron como «Hora de Aventuras», con tomos
   como la «**Edición Matemática**» ✅ ([Amazon.es](https://www.amazon.es/HORA-AVENTURAS-EDICION-MATEMATICA-COLECCION/dp/8467918675)).
+- El rotulista de los cómics de BOOM! es **Steve Wands** ✅
+  ([Adventure Time Wiki](https://adventuretime.fandom.com/wiki/Steve_Wands),
+  [League of Comic Geeks, n.º 41](https://leagueofcomicgeeks.com/comic/3374523/adventure-time-41)).
+
+### 3.7 Arte de producción, visto (segunda pasada) ✅
+
+Cada *model sheet* trae el sello **© Cartoon Network Studios** y una
+ficha con episodio e id.
+- **«Marceline - New Costume #1»**, ep. **057**, id `C057s011_472`,
+  2011: de frente y de espaldas, **vestido camisero azul grisáceo** y
+  **zapatos granate** ([4079×2421](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/34/Modelsheet_Marceline_-_New_Costume_-1.png)).
+  Es el que se usó para medir su ropa y su piel (§16).
+- **«Marceline Stock Night»**: caminata en 4 poses, gris
+  ([5100×3300](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/0b/Modelsheet_marceline_stocknight.jpg)). Para
+  proporciones, no para color.
+- **«Marceline Bat» 1 y 2**: bocetos a lápiz de su forma de murciélago,
+  firmados «Bat Marceline Rough — Phil»
+  ([3600×3000](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/9b/Modelsheet-MarcelineBat1.jpg)).
+- **«Original Finn»** y **«Jakesalad»**: *model sheets* a color de Finn y
+  Jake ([1467×2385](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f3/Original_Finn.png),
+  [1700×2455](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/3b/Jakesalad.png)).
+- **«Modelsheet princessbubblegumtiedup»** (1478×1494) y los **bocetos de
+  vestuario de Marceline para el final**, de **Tom Herpich** (1280×1673).
+- **Concept art de «Obsidian»** (galería de 15 en la wiki, subida el
+  30-ene-2021): **#9** bocetos a lápiz rojo de los «Shards», la gente del
+  Reino de Cristal, con capucha puntiaguda y manoplas
+  ([1002×810](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/9e/Obsidian-concept-9.png)); **#1** la
+  montaña-criatura de tinta negra con dientes y garras
+  ([1280×989](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/38/Obsidian-concept-1.png)).
+- **Logo oficial** de la serie ([1069×519](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/thumb/b/bd/Adventure_Time_logo.png)).
 
 ---
 
