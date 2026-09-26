@@ -123,4 +123,42 @@ falta para llegar a 6-10 cada uno lo puede completar imagen (hojas de la wiki).
 | Tsubaki en la grada, inclinada hacia delante, explicando la pieza «Kreutzer» con la boca abierta | Ep. 02 Friend A | 10:00 | explicar |
 | Tsubaki caminando de espaldas junto a Kousei, mochila con tirantes rojos, bajo los cerezos | Ep. 01 Monotone/Colorful | 6:00 | presentar (plano de establecimiento del trío) |
 
+## Lo mejor para la lámina
+
+- Kaori «Nice to meet you!» entre flores (Ep. 01, 19:00) — el plano más repetido en material promocional; sirve para «presentar» en cualquier canal.
+- La paleta de la calle de cerezos al atardecer (#9C5E26/#E5B470/#D6774D) y la del cuarto del piano (#E6E6E2/#BF9955) cubren interior y exterior sin chocar entre sí: buena base de fondo para una lámina de «canto» o de textos.
+- El cuadro de la escena final (Ep. 22, cerezos cayendo con cableado eléctrico, #F6E1C6/#E9BBA1) es el fondo más «lámina-ready»: composición vertical, luz dorada, profundidad con los postes en primer plano.
+- El tema instrumental real de la escena más emotiva es la Balada n.º 1 de Chopin (violín y piano en vivo, créditos del ep. 22) — cítalo si la lámina lleva una frase sobre «la música que hace llorar».
+- La tendencia de vídeo corto de esta serie es siempre triste/nostálgica («POV: April returned, but she didn't»), nunca cómica: si el canal admite un tono melancólico, esta serie encaja mejor que una cómica.
+
+## No encontré
+
+- AnimeThemes (`api.animethemes.moe`) da error 522 (caído) en todos los intentos, igual que detectó `recolectar.py`: no pude sacar los `.webm` oficiales de OP/ED de ahí. Alternativa usada: ver el OP y el ED **dentro de los episodios completos** del rip de Internet Archive (más fiable, con minuto exacto).
+- No encontré el opening «Nanairo Symphony» (OP2) ni el ED2 «Orange» en vídeo propio (sólo confirmados por la wiki); no me dio tiempo a localizarlos dentro de los episodios 12-21. ⚠️
+- No pude abrir directamente TikTok ni los vídeos de YouTube citados en el punto 10: TikTok exige JavaScript y `herramientas/navegar.py` falló por un navegador de Playwright no instalado en este contenedor (`chromium_headless_shell-1243` no existe, sólo `chromium-1194`); YouTube pide iniciar sesión desde esta IP compartida. Sólo pude citarlos por título/fecha vía búsqueda web, sin minuto exacto. ⚠️
+- Vistas y «me gusta» reales de los vídeos de TikTok/YouTube: no accesibles sin navegador con JS ni login. ⚠️
+- No encontré doblaje latino en ningún clip oficial de OP/ED (eso es del investigador de voz, punto 8, pero lo anoto porque toqué música): los AMV latinos que aparecen en `datos-video.md` («Opening Español Latino» x8dnwv0) fueron borrados de Dailymotion (vídeo no encontrado).
+- No hay más de 3-4 poses propias de Watari y Tsubaki en los episodios que revisé (1, 2, 3, 4, 6, 22): son secundarios y su protagonismo visual llega más tarde en la serie (arcos 9-16). Si hace falta llegar a 6-10 por personaje, conviene completarlo con las hojas de contacto de la wiki (trabajo del investigador de imagen) o revisando los episodios 7-16 con más tiempo.
+
+## Bitácora de búsqueda
+
+- `datos-video.md` (recolectado antes de empezar): tráiler AniList, clips Dailymotion (sólo AMV de fans), MusicBrainz. Partí de ahí y descarté los AMV de fans como fuente de «escena icónica» (no son metraje oficial en la mayoría de los casos).
+- Dailymotion API (`api.dailymotion.com/videos?search=…`), en inglés y japonés: «Shigatsu wa Kimi no Uso official trailer», «Your Lie in April official trailer Aniplex», «四月は君の嘘 PV», «Hikaru Nara Goose house», «Kirameki Ai Kayano», «Orange 7 nanauchi», «Your Lie in April analysis video essay», «Your Lie in April AMV edit», «Shigatsu wa Kimi no Uso reseña» → encontré el PV2 oficial (x2682f1), un vídeo de tendencia tipo «POV» (xa3w48g) y varios «Twixtor edit».
+- `api.animethemes.moe`: error 522 en todos los intentos (caído, igual que en `recolectar.py`).
+- Internet Archive: `archive.org/advancedsearch.php` con «Shigatsu wa Kimi no Uso» → ítem `EVYourLieinApril`, los 22 episodios + OVA en 1080p. Localicé OP/ED/escenas con `ffmpeg -ss <segundo> -i "archive.org/download/…"` (range requests, sin bajar el archivo completo) y contact sheets propias con Pillow, igual que hace `fotogramas.py`.
+- Wiki de Fandom (`shigatsu-wa-kimi-no-uso.fandom.com/api.php`), en inglés: páginas «Music», «Hikaru Nara», «Nanairo Symphony», «Kirameki», «Orange», «Episode 03: Inside Spring» (`action=parse&prop=wikitext`) y búsqueda de texto («Ballade», «Kreutzer») para confirmar temas e insertos musicales.
+- `herramientas/estilo.py` sobre 6 fotogramas propios en 1080p para los hex de sitios (punto 4).
+- WebSearch (2 búsquedas): «"Your Lie in April" tiktok trend edit viral sound», «"Your Lie in April" ending scene reaction youtube analysis video minute» → confirmaron el formato de tendencia y que el final es lo más reaccionado.
+- `herramientas/navegar.py` sobre `tiktok.com/discover/…`: falló (navegador de Playwright no instalado, ver «No encontré»).
+- Retratos de AniList (ya en `datos.json`) para verificar de qué personaje es cada fotograma (pelo y gafas), antes de rellenar la tabla de poses.
+
+## Cumplimiento del encargo (mis puntos)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 2 · Fotogramas de escenas icónicas, capítulo y minuto | ✅ | Tráiler oficial (PV2) + 3 escenas icónicas con episodio y minuto exacto, miradas fotograma a fotograma |
+| 4 · Fondos y sitios: luz y paleta medida | ✅ | 6 sitios con hex medidos con `estilo.py` sobre fotogramas propios en 1080p |
+| 9 · Música y sonido | ✅ | OP1/OP2/ED1/ED2/ED3 confirmados (wiki + visto en vídeo), compositor, tema de la escena final, música de la escena del tejado, ambiente sonoro |
+| 10 · Vídeos: tráileres, escenas, análisis, tendencias | ⚠️ | Tráiler y tendencia «POV»/Twixtor vistos y citados con minuto; los vídeos de YouTube (reacciones) sólo por título, sin abrir (bloqueo de login); TikTok sin poder navegar (falta el navegador en el contenedor) |
+| 14 · Poses por personaje, con capítulo y minuto | ⚠️ | Kaori (7) y Kousei (6) completos; Watari (3) y Tsubaki (3) por debajo de 6 — son secundarios con menos protagonismo en los episodios revisados |
 

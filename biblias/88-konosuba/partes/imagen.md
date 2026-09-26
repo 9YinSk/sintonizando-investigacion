@@ -249,3 +249,42 @@ de Kadokawa fuera de Japón; una colaboración con *Fortnite* (buscado
 "Konosuba Fortnite collaboration", sin resultados, a diferencia de otros
 isekai como *Re:Zero* que sí están en Fortnite) — **no lo encontré**, no digo
 que no exista.
+
+## Lo mejor para la lámina
+
+- Las 4 hojas de modelo T3 (`Aqua_3rd.png`, `Kazuma_3rd.png`, `Darkness_3rd.png`, `Megumin_3rd.png`): fondo transparente, cuerpo entero, con su arma; recortan limpio para cualquier lámina.
+- Paleta de Crimson Demon Village (naranja/dorado de atardecer) como fondo cálido detrás de Megumin; la de Axel (azul claro de mediodía) para escenas de grupo.
+- El sombrero de Megumin y su báculo en 3D (Sketchfab, Eques_inferno, ambos CC Attribution) para renderizar el objeto por separado, con luz de estudio.
+- La tabla de hex de vestuario (punto 15) para pintar directo sin adivinar tonos.
+- El key visual de temporada 3 (`Konosuba Season 3 Key Visual 1.jpg`, hoja 3 nº101): los 4 juntos, composición ya resuelta, sirve de referencia de encuadre grupal.
+
+## No encontré
+
+- Una galería de **fondos de pantalla oficiales** de Kadokawa/Crunchyroll/HIDIVE (búsqueda "Konosuba official wallpaper", "site oficial fondo de pantalla" en inglés y español): sólo agregadores de fans (Wallhaven, alphacoders, wallpapers.com). ⚠️
+- **Cartones de cuenta atrás** de Blu-ray como pieza catalogada aparte en la wiki (sí existen como extra físico de las cajas japonesas, según venta en tiendas de importación, pero no los vi catalogados con imagen). ⚠️
+- Un **blasón o emblema de clan** de los Demonios Carmesí más allá del nombre del pueblo (`srsearch=emblem`, `srsearch=crest` en la wiki inglesa, sin resultado). ⚠️
+- Modelos 3D con licencia en **Poly Haven** con IP de la serie (es un banco genérico, sin personajes con marca): confirmado que no aplica, no es un fallo de búsqueda. ✅ (se explica en el punto 3)
+- Una **colaboración con Fortnite** (a diferencia de otros isekai como Re:Zero): buscado "Konosuba Fortnite collaboration" en inglés, sin resultados. ⚠️
+- Fecha exacta del café Cure Maid × Konosuba (sólo un medio la cubre, sin fecha cerrada). ⚠️
+
+## Bitácora
+
+- `herramientas/investigar_serie.py --serie "Konosuba" --wiki konosuba --paginas "Kazuma Satou" "Aqua" "Megumin" "Darkness" "Axel" "Crimson Demon Village" "Devil King's Castle" "Wiz's Shop" "Royal Castle"`: 878 imágenes grandes indexadas, 7 hojas de contacto generadas (proceso cortado por el sistema tras la 7ª hoja; las 3 mejores copiadas a `hojas/`).
+- API de `konosuba.fandom.com` (`action=query&list=search`) en inglés: confirmado el subdominio correcto y los títulos exactos de página de Kazuma Satou, Aqua, Megumin, Darkness, Axel, Crimson Demon Village, Devil King's Castle, Wiz's Shop, Kingdom of Belzerg, Royal Castle.
+- Sketchfab API (`type=models&downloadable=true`), 4 búsquedas: `konosuba`, `megumin`, `kazuma konosuba`, `darkness konosuba` — 24+25+2+3 resultados, todos con licencia comprobada en el campo `license.label`.
+- ambientcg API (`full_json?type=Material`), 6 búsquedas en inglés: `paper`, `fabric`, `leather`, `wood planks`, `metal gold`, `fabric diamond pattern` — todo CC0.
+- WebSearch (3 usadas de las ~50 del cupo, en inglés y español): colaboraciones/café/figuras de Konosuba, wallpapers oficiales, KonoSuba Fantastic Days.
+- Pillow + `herramientas/estilo.py`: 4 hojas de modelo T3 aplanadas sobre blanco (el canal alfa original las hacía dar colores falsos si no se aplanaban primero — aviso para quien reuse el script con PNG con transparencia), 2 trajes alternativos de Darkness (mucama, novia) y 4 capturas de sitios (Axel, Aldea Carmesí, tienda de Wiz, Castillo Real), con muestreo de parches 9×9 px para evitar el contorno de línea.
+- No usé `navegar.py`: ninguna web con bloqueo (TV Tropes, Reddit) hizo falta para estos 6 puntos.
+- Imágenes descargadas para medir (fuera del repositorio): `/tmp/claude-0/trabajo/88-konosuba-imagen/img/` (8 hojas de modelo/trajes + 4 sitios); se puede borrar tras subir la biblia.
+
+## Cumplimiento de mis puntos (1, 3, 15, 16, 19, 23)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Settei T3, 17 portadas de novela, key visuals S3, póster de película, banner/portada AniList, 17 retratos AniList, ficha del videojuego móvil. Cartones de cuenta atrás: ⚠️ no catalogados. |
+| 3 · Fan art y 3D con licencia | ✅ | 4 fan arts destacados con origen (Safebooru), vocabulario Danbooru, 14 modelos Sketchfab con licencia comprobada (2 avisos de NonCommercial). Poly Haven: confirmado que no aplica. |
+| 15 · Vestuario con hex | ✅ | Tabla de 18 filas, 4 personajes, colores medidos con Pillow sobre hojas de modelo oficiales y trajes alternativos, con parche anti-línea. |
+| 16 · Fondos de pantalla | ✅ | 4 sitios con luz/paleta medida (`estilo.py`) + tabla de 5 wallpapers de fans en alta con tamaño/autor. Wallpaper oficial: ⚠️ no encontrado. |
+| 19 · Texturas 2D | ✅ | Screentone (⚠️ licencia a revisar por paquete), 19 texturas CC0 de ambientcg (papel, tela, cuero, metal, madera), patrón propio de Megumin medido, logo descrito. Emblema de clan: ⚠️ no encontrado. |
+| 23 · Colaboraciones y cruces | ✅ | 6 colaboraciones (Isekai Quartet, MapleStory, Knives Out, Super Sonico, Unison League, Fantastic Days×Re:Zero/DanMachi), 1 café (⚠️), 4 figuras oficiales, 2 fotos de cosplay con licencia. Fortnite: ⚠️ no encontrado. |

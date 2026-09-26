@@ -543,7 +543,7 @@ Son emociones, no personas: **cumpleaños y altura no aplican**. Sólo Riley es 
 1. **La muerte de Bing Bong** (2015). En el Vertedero de la Memoria, salta del cohete para que Alegría pueda escapar y volver con Riley. «Llévala a la Luna de mi parte» y se desvanece. **Por qué duele**: llora caramelos, algo gracioso que se vuelve terrible; la cámara se aleja despacio, en silencio, con un piano suave. La escena original era 40-60 segundos más larga y se cortó por dura, según Richard Kind ([TIME](https://time.com/4098711/inside-out-bing-bong/) y [MTV News](https://www.mtv.com/news/0vhlbf/inside-out-bing-bong-death-scene)) ✅. Amy Poehler, 10 años después: «cuando Bing Bong murió, América estuvo de luto» ([Cinemablend](https://www.cinemablend.com/interviews/amy-poehler-reflects-bing-bong-death-10-years-after-inside-out)) ✅. Minuto en la película: no conseguido ⚠️.
 2. **Alegría llora en el vertedero** al ver tres recuerdos olvidados; suena «Tears of Joy», piano con cuerdas y marimba (punto 9) ✅.
 3. **Riley deja el hockey y llora en la cena** ([clip](https://www.dailymotion.com/video/x31t210), 0:00-1:33) ⚠️.
-4. **El ataque de pánico de IO2**: todas las emociones abrazan a Ansiedad; suena «A Mind at Freeze» ([clip](https://www.dailymotion.com/video/x91jygs), 0:00-4:40) ⚠️.
+4. **El ataque de pánico de IO2** y el abrazo de las emociones al final; suena «A Mind at Freeze» ([clip](https://www.dailymotion.com/video/x91jygs), 0:00-4:40) ⚠️.
 
 **Las que hacen reír**: Furia explotando en la cena ([clip](https://www.dailymotion.com/video/x4fd9rc), 0:36); Temor y el «oso» que resulta ser un señor peludo; el chicle TripleDent ✅.
 
@@ -641,3 +641,157 @@ Tres ideas distintas: una **consola** que decide el tono (A), una **estantería 
 - **Que no quede plana**: un foco de teatro con haz volumétrico sobre Ansiedad; la claqueta inclinada en primer plano; cables en el suelo; el arco del estudio desenfocado detrás.
 - **Lámina 2**: las 15 etiquetas repartidas en la claqueta: tipo (Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro, Canto), pago (Pagado, Sin paga), estado (Abierto, Cerrado, Urgente) y aparte Oficial del servidor y +18.
 
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial | ✅ | 251 imágenes de la wiki en 6 hojas (3 subidas): pósters sin texto, 9 pósters de personaje, conceptual, maquetas, internacionales, Blu-ray, BART, tarjetas con frase |
+| 2 · Fotogramas de escenas | ⚠️ | 11 escenas con vídeo y minuto, miradas; pero son tráileres y clips de Dailymotion en 640-1280 px, no la película en 1080p; los fotogramas oficiales de 6144 px de la wiki suplen la nitidez |
+| 3 · Fan art y 3D libre | ✅ | 12 modelos de Sketchfab con autor y licencia, 2 con rig; fan art de Pixiv; no hay modelos de los sitios (buscado) |
+| 4 · Fondos, luz y texturas reales | ✅ | 6 sitios con 5 colores medidos cada uno; texturas CC0 de ambientCG |
+| 5 · Tipografía | ✅ | una letra libre por uso, todas comprobadas con tildes, ñ, ¿ y ¡; el nombre de la letra del logo no existe publicado (⚠️ dentro) |
+| 6 · Cómo hablan en pantalla | ✅ | comprobado en el guion que no hay globos; esferas, consola, manuales, carteles y tarjetas de redes; cuadro propuesto |
+| 7 · Personajes y popularidad | ⚠️ | no hay encuesta oficial con cifras (buscada); premio del público y rankings de medios; Reddit sin resultados en Arctic Shift |
+| 8 · Doblaje latino | ✅ | 13 voces en dos fuentes; frases oídas en 2 muestras y 2 tráileres; error de Ansiedad en prensa detectado |
+| 9 · Música y sonido | ✅ | las dos bandas sonoras en MusicBrainz; cues de escena confirmados en wiki y reseña; algunos cruces escena-pista con ⚠️ |
+| 10 · Vídeos y tendencias | ⚠️ | tráileres y clips con minuto, memes con fecha; vistas de TikTok y YouTube no comprobables desde el servidor |
+| 11 · Videojuegos | ✅ | Thought Bubbles con capturas oficiales, Disney Infinity, Speedstorm, Dreamlight Valley; TCRF encontrado pero bloqueado |
+| 12 · Fandom y qué no hacer | ✅ | memes con fuente y 6 reglas de qué no hacer |
+| 13 · Personajes a fondo | ⚠️ | las 6 pedidas, Riley y Bing Bong a fondo, con cara por emoción y minuto; Temor y Ansiedad sin primer plano; Envidia, Vergüenza y Aburrimiento, poco |
+| 14 · Poses analizadas | ⚠️ | 23 poses con vídeo y minuto más pósters; Ansiedad (3) y Desagrado (4) por debajo de 6 |
+| 15 · Vestuario | ✅ | 29 colores medidos con Pillow por prenda; guías de cosplay con materiales |
+| 16 · Sitios y fondos de pantalla | ✅ | 8 sitios con luz y hora; no hay fondos oficiales (comprobado), 3 de fans en Wallhaven y fotogramas de 6144 px |
+| 17 · Guía para IA | ✅ | hecha por el redactor: rasgos con hex, luz, palabras que ayudan y que estropean, gestos, imágenes de referencia, voz por personaje y frases reales por emoción; frase triste sin audio latino (⚠️ dentro) |
+| 18 · Estilo y técnica | ✅ | RenderMan, Houdini, glow darkening, Eggleston y Patrick Lin con fuente; receta para Blender y Photoshop |
+| 19 · Texturas 2D | ⚠️ | no hay tramas (es 3D); tela, papel y cartón CC0; no hay estampados libres de lunares ni pata de gallo; sin escudo de Fire Hawks |
+| 20 · Gustos y detalles | ✅ | tabla de gustos y odios con fuente; cumpleaños y altura no aplican a emociones, dicho |
+| 21 · Por qué la aman | ✅ | psicólogos, terapeutas, premios; 4 escenas que hacen llorar con por qué; minuto de Bing Bong en la película no conseguido (⚠️ dentro) |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | fandubs sólo por título, sin vistas; voces oficiales en TikTok sí; no hay opening cantado para cover |
+| 23 · Colaboraciones y figuras | ✅ | Funko, LEGO, Crocs, Loungefly, Dreamlight Valley, muñecas y cosplay con materiales |
+| 24 · Obras parecidas | ✅ | influencia confirmada por Docter, obras parecidas y cruce con las láminas del servidor; TV Tropes no leído |
+| 25 · Mundo e historia | ✅ | reglas en cinco líneas, dos arcos, símbolos y vocabulario |
+| 3 conceptos de lámina | ✅ | consola, estantería y claqueta, para tres canales distintos, con lámina 2 donde hace falta |
+| 40 fuentes distintas | ✅ | más de 60 dominios enlazados en el texto |
+| Tipos de fuente | ⚠️ | oficiales, entrevistas, wikis, prensa, Know Your Meme, TV Tropes, MusicBrainz, Sketchfab, ambientCG, App Store, Doblaje Wiki y japonés sí; Reddit sin resultados, GitHub sin acceso, Wayback y TCRF bloqueados, ArtStation y DeviantArt no buscados; coreano o chino no aplica (obra de EE. UU.) |
+| Hojas de contacto | ✅ | 3 JPEG de 2400×1704, menos de 800 KB cada una |
+| referencias.json | ✅ | 99 referencias, las mejores primero; quitada la portada de AniList de un manga equivocado |
+
+## Bitácora
+
+### Bitácora de imagen
+
+- `investigar_serie.py --serie "Intensamente (Inside Out)" --wiki pixar --paginas "Joy" "Sadness" "Anger" "Disgust" "Fear" "Anxiety" "Embarrassment" "Envy" "Ennui" "Inside Out" "Inside Out 2"` (inglés) → 251 imágenes grandes, 6 hojas de contacto.
+- `pixar.fandom.com/api.php` (`list=search`, `list=allimages`, `action=parse&prop=wikitext`) en inglés, para: nombres correctos de página, imágenes limpias de Envidia (`Envy_laughs.png`), sinopsis de Intensamente 2 (localizaciones y personajes nuevos).
+- Sketchfab API (`search?type=models&downloadable=true`) en inglés: Joy, Sadness, Anger, Disgust, Fear, Anxiety, Envy, Ennui, Embarrassment, Riley, Bing Bong, Headquarters console — 12 búsquedas.
+- ambientCG API (`full_json?type=Material`) en inglés: paper, fabric, cardboard — 3 búsquedas.
+- Wallhaven API (`search`) en inglés: «inside out», «inside out pixar», con categorías 010/111 y purity 100 — 4 búsquedas, filtradas a mano por etiquetas para descartar falsos positivos.
+- WebSearch en inglés: colaboraciones oficiales (Funko, LEGO, Crocs, Disney Emoji Blitz), guías de cosplay (Envy, Anxiety, Joy), crossover de videojuego (Disney Dreamlight Valley, Kingdom Hearts), eventos de parques Disney — 4 búsquedas.
+- Medí color con Pillow (script propio: mediana de un parche de 9-11 px, con recorte y grid de calibración de 10×10 para ubicar cada prenda) sobre 9 imágenes descargadas de pixar.fandom.com: 5 pósters de personaje de Intensamente 2 (Sadness, Anxiety, Envy, Embarrassment, Ennui, Joy) y 4 renders sin fondo de Intensamente 2015 (Anger, Fear, Disgust, Joy).
+- Wiki en español (Doblaje Wiki, Fandom ES) no hizo falta para este rol: los puntos de imagen no dependen del idioma del doblaje.
+
+### Bitácora de video
+
+- Dailymotion API (`api.dailymotion.com/videos?search=`) en español e inglés: «Intensamente Inside Out opening/ending/trailer/escena» (recolector), «Inside Out official trailer pixar», «Inside Out 2 official trailer», «Inside Out Bing Bong scene», «Inside Out memory dump Bing Bong sacrifice», «Inside Out 2 Anxiety panic attack clip», «Inside Out opening scene baby Riley», «Inside Out 2 opening scene puberty» → varios clips oficiales o con metraje real localizados y usados arriba
+- `fotogramas.py` sobre 7 clips de Dailymotion: trailer1 (IO1), trailer_io2 (IO2), opening_io2, ending_io2, bingbong, hockey, dinner_anger — todas las hojas miradas con Read
+- YouTube (`yt-dlp` directo): da 429 / «Sign in to confirm you're not a bot» desde este servidor, como avisa AYUDANTE.md; no insistí, usé Dailymotion
+- MusicBrainz: `release-group` y `release?inc=recordings` de los 2 OST (Giacchino 2015, Datzman 2024) con cabecera `User-Agent` propia — listas de pistas confirmadas
+- Internet Archive `advancedsearch.php?q=inside+out+pixar`: sin vídeo oficial útil, sólo reseñas de audio y contenido de fans
+- AnimeThemes: recolector ya probó, da 522 (no aplica, no es anime)
+- Inside Out Wiki (Fandom) por `api.php?action=parse&prop=wikitext` (sin bloqueo, a diferencia de la web normal): páginas «Tears of Joy», «We Can Still Stop Her», «Rainbow Flyer», búsqueda de texto «Bing Bong disappears music» — confirmó a qué escena corresponde cada pista de la BSO de 2015
+- `herramientas/estilo.py` (Pillow) sobre 6 fotogramas propios (no de las hojas de contacto) para medir los hex reales de cada sitio; al hacerlo detecté que dos de mis primeras lecturas de minuto/escena estaban mal (confundí el número de fotograma con el segundo, y el clip «ending_io2» mete fan art 2D no oficial a partir del minuto 5:00): corregido en los puntos 2, 4 y 14 arriba, con la parte fan art descartada como fuente
+- WebSearch (inglés): «Inside Out 2 Anxiety character TikTok trend viral 2024», «Inside Out Bing Bong scene which score track Michael Giacchino»
+- Segunda tanda (relanzo por pocos dominios distintos, 26-sep-2026): probé la red directa (ya sin bloqueo de certificado) sobre dominios nuevos en vez de sólo Dailymotion/MusicBrainz/TikTok/AnimeThemes
+- Inside Out Wiki (Fandom) por su API (`api.php?action=parse&prop=wikitext` y `action=query&prop=info&inprop=url` para sacar la URL real de cada página): «Bing Bong» (confirma la escena de la Memoria a Largo Plazo), «We Can Still Stop Her», «Tears of Joy», «Inside Out 2 (soundtrack)» (leitmotifs de Ansiedad y Alegría); «Anxious to Meet You» no existe como página propia (lo digo para no repetir la búsqueda)
+- MovieMusicUK (`moviemusicuk.us/?s=inside+out`, en inglés) para localizar la reseña real de la BSO de 2015 y citar textualmente la descripción de «Tears of Joy»; probé también `?s=inside+out+2` para la reseña de Datzman en IO2, sin resultado (no reseñaron la secuela)
+- Know Your Meme (`knowyourmeme.com/memes/subcultures/inside-out-2` y `.../first-look-at-inside-outs-new-emotion-character`, en inglés): cifras reales del teaser oficial y del meme *exploitable* de noviembre 2023, con fechas y autores de origen
+- Wikipedia en inglés (`en.wikipedia.org/wiki/Anxiety_(Inside_Out)`): desarrollo del personaje con las psicólogas asesoras (Lisa Damour, Dacher Keltner) y la recepción crítica de las escenas de pánico
+- Internet Archive (`archive.org/advancedsearch.php?q=title:(inside out) AND mediatype:(movies)`, 1527 resultados): revisé los primeros 10, ninguno es la película oficial o un tráiler oficial completo (son programas de TV con «inside out» en el título, un cover de fans y vídeos de terceros) — confirma lo que ya había visto en la primera tanda
+- yt-dlp directo sobre un tráiler oficial de YouTube: sigue dando 429 «Sign in to confirm you're not a bot» incluso en esta tanda; no insistí más de un intento, como pide AYUDANTE.md
+- IMDb (`imdb.com/title/tt22022452/trivia/`, con user-agent de navegador): responde 202 sin cuerpo, no usable con curl; no reintenté con `navegar.py` por presupuesto de acciones
+
+### Bitácora de voz
+
+- Español: «encuesta personaje favorito Intensa Mente México votación», «personaje más
+  querido Intensa Mente 2 encuesta Twitter X», «fandub español Intensamente/Inside Out
+  YouTube parodia doblaje fans latino canal», «TikTok intensamente 2 fandub doblaje fans
+  viral parodia México vistas», «ANMTV Intensa mente doblaje latino elenco Cristina Hernández
+  Kerygma Flores», «Intensa Mente 2 doblaje latino reparto Alegría Tristeza Ansiedad actores
+  de voz», «María José Guerrero Ansiedad Intensa Mente 2 voz reemplazo Nayeli Mendoza».
+- Inglés: «Inside Out character popularity ranking poll fans favorite Joy Sadness Bing Bong
+  Ranker», «Pixar Inside Out official character descriptions Joy Sadness Anger Disgust Fear»,
+  «Inside Out 2 official character descriptions Anxiety Envy Embarrassment Ennui Pixar»,
+  «Inside Out Kids' Choice Award favorite animated movie nomination Joy Riley», «Fandango poll
+  Inside Out 2 favorite emotion survey audience», «Bing Bong death scene minute Inside Out
+  most emotional crying scene reaction», «Inside Out fandom memes core memory meme jokes what
+  not to do fan gets annoyed», «tvtropes YMMV Inside Out tearjerker Bing Bong the reason
+  you're crying», «Inside Out review why people love it therapists praise emotions accurate
+  identify character», «Inside Out 2 reddit favorite emotion poll Anxiety most popular».
+- Fuentes consultadas por API/directo (sin buscador): Pixar Wiki (pixar.fandom.com/api.php,
+  wikitext de Joy, Sadness, Anger, Disgust, Fear, Anxiety, Riley), Doblaje Wiki
+  (doblaje.fandom.com/es/api.php, wikitext de «Intensa mente» e «Intensa mente 2»),
+  Dailymotion API (api.dailymotion.com/videos?search=…, tráilers oficiales doblados),
+  `herramientas/voz.py` (2 muestras de audio oficiales transcritas y medidas),
+  `herramientas/fotogramas.py` (2 tráilers/teaser mirados fotograma a fotograma, 8 fotogramas
+  propios guardados en `/tmp/claude-0/trabajo/62-intensamente-inside-out-voz/`).
+- Bloqueos anotados: stitchkingdom.com (503 en vivo, Wayback también bloqueado esta sesión),
+  Arctic Shift sin resultados para r/insideout, YouTube sin acceso directo a video (sólo
+  metadata por buscador). TV Tropes ya no está bloqueado (se arregló el certificado del proxy
+  en `navegar.py`: se releyó `TearJerker/InsideOut` con `--selector body` y confirmó la frase
+  original «Take her to the moon for me… okay?» de Bing Bong, la misma escena de la que salió
+  la adaptación al doblaje «Llévala a la Luna de mi parte» — y que Pete Docter comentó que
+  Richard Kind, su actor de voz original, casi llora al grabar esa línea).
+- Segunda pasada (26-sep-2026, tras aviso de `revisar_partes.py` de que la parte tenía sólo 1
+  dominio distinto enlazado): se convirtieron en enlaces reales todas las fuentes ya citadas
+  por nombre (Doblaje Wiki, Pixar Wiki, Wikipedia, Looper, Animation Magazine, Cinemablend,
+  Paul Ekman Group, Psychology Today, anniewright.com, NPR, Cedar Counseling, The Psychology
+  Group, Know Your Meme, TV Tropes, Infobae, TVAzteca, unotv, La Razón de México, Tomatazos,
+  El Universo, MTV News, TIME, TikTok) con `WebSearch` para confirmar la URL exacta de cada
+  una; ahora hay 24 dominios distintos enlazados (antes 1).
+
+### Bitácora de texto
+
+- Se descartó `partes/datos-texto.md` de `recolectar.py`: el buscador automático
+  de AniList cruzó mal el título y trajo un manga hentai sin relación («Sweet
+  Spot»/«Inside-out», Comic Kairakuten). Se investigó todo de cero.
+- Inglés: «Inside Out movie logo font identifont», «Inside Out Pixar headquarters
+  console screen text font», «Inside Out Cinestory Comic Joe Books speech
+  bubbles», «Inside Out: Thought Bubbles mobile game interface screenshots menu»,
+  «Disney Infinity 3.0 Inside Out Play Set menu interface screenshots», «Pete
+  Docter Ralph Eggleston Inside Out character design interview making of
+  meatball», «Pete Docter Inside Out influence Everything You Always Wanted to
+  Know About Sex control room brain», «Herman's Head TV series anthropomorphized
+  emotions similar to Inside Out», «Inside Out 2 world Sar-Chasm Belief System
+  Vault Sense of Self islands», «Ralph Eggleston Inside Out color script art
+  direction interview lighting palette», «Inside Out Dream Productions scene
+  aspect ratio widescreen film grain vintage look making of», «Inside Out
+  cinematography camera framing per emotion analysis», «if you liked Inside Out
+  recommendations similar movies personified emotions», «TV Tropes Inside Out
+  Follow the Leader similar works influenced by», «Osmosis Jones compared Inside
+  Out body personification», «Inside Out 2 Sadness Steam Kingdom Hearts crossover
+  Fortnite Dreamlight Valley», «Inside Out 2 construction site sign Puberty
+  Headquarters renovation Brain Changes scene», «Blender tutorial Pixar style
+  shading subsurface scattering glow character stylized render toon Principled
+  BSDF».
+- Japonés: «インサイド・ヘッド 邦題 ロゴ フォント Pixar» (título y logo del estreno japonés).
+- Fandom (API `api.php`, sin bloqueo): wikitext de Headquarters, Control Console,
+  Mind Manuals, Islands of Personality, Long Term Memory, Train of Thought, Dream
+  Productions, Belief System, Vault of Secrets, Sar-chasm, en
+  `insideout.fandom.com`.
+- Capturas oficiales bajadas y miradas con `Read`: 3 capturas de App Store de
+  *Inside Out: Thought Bubbles* (API `itunes.apple.com/lookup?id=918780702`),
+  guardadas en `/tmp/claude-0/.../scratchpad/juego/`.
+- Letras: 11 fuentes libres bajadas de `fonts.gstatic.com`/GitHub de Google Fonts
+  (Chewy, Baloo 2, Fredoka, Bangers, Bubblegum Sans, Sniglet, Comfortaa, Quicksand,
+  Nunito, Work Sans) y comprobadas con `fontTools` (`getBestCmap()`) para á é í ó
+  ú, mayúsculas, ñ, Ñ, ¿ y ¡: **todas completas**.
+- Fallos de red anotados: `tcrf.net` (403), `web.archive.org` (dos intentos,
+  `ws_closed_mid_exchange`), `herramientas/navegar.py` (`ERR_CERT_AUTHORITY_INVALID`
+  en cualquier URL), `api.github.com` (sin acceso en esta sesión, se necesitaría
+  `add_repo`).
+
+### Bitácora del redactor
+
+- Leídas las cuatro partes; corridos `juntar_referencias.py` (100) y `juntar_bitacora.py`. Quitada de `referencias.json` la portada de AniList (manga +18 sin relación que trajo el recolector) y corregidas tres descripciones.
+- Miradas las 3 hojas: H2-65 y H2-66 son maquetas esculpidas, no pintura; H3-187 a H3-192 son tarjetas oficiales con frase, la mejor pista del «cuadro de diálogo» de la franquicia; H2-90 es el póster latino con el logo «Intensa Mente».
+- Contradicciones que quedan: Dreamlight Valley (imagen lo encontró en dos fuentes, texto no); «Aburrimiento» o «Hastío» para Ennui en el doblaje; quién dice «No puedes enfocarte en lo malo» en el tráiler doblado.
+- Canal: leído sólo el inventario de #reto-de-la-semana, #demos y #castings, y con `grep` qué otras biblias los proponen.

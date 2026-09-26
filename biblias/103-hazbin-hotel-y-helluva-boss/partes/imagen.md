@@ -104,3 +104,49 @@ Stolas en toga violeta de plumas con corona dorada (render n.1 de la hoja helluv
 smoking rojo con micrófono-bastón de Alastor, el arnés de corazones rosa de Angel Dust, y en Helluva Boss el
 traje a rayas de Blitzo con sus cuernos curvos. Coincide con lo que ya listó `datos-video.md`/`datos.json` de
 otros investigadores (a confirmar cruzando con vídeo).
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+**Sitios de la serie, con su luz medida** (`estilo.py --colores` sobre la imagen oficial de cada lugar):
+
+- El Hotel Hazbin por fuera, de noche, letrero de neón encendido · hazbinhotel.fandom (File:The Hazbin Hotel (New & Improved) Full View.jpeg) · https://static.wikia.nocookie.net/hazbinhotel/images/9/9a/The_Hazbin_Hotel_%28New_%26_Improved%29_Full_View.jpeg · ✅ · 2160×1211 · paleta: #2B0410 (sombra), #580B17, #8C0912, #D10E1D (rojo del neón), #E9C3B4 (luz cálida de ventana)
+- El lobby del hotel (interior, art déco, alfombra y candelabro) · hazbinhotel.fandom (File:Hazbin hotel lobby DBD.png) · https://static.wikia.nocookie.net/hazbinhotel/images/0/0e/Hazbin_hotel_lobby_DBD.png · ⚠️ (una fuente) · 2732×1532 · paleta: #2B0C16, #57262F, #F1D3BF (crema de la luz), #B0273E
+- Pentagram City de noche, vista panorámica desde el hotel (1×02) · hazbinhotel.fandom (File:HHs1e2 - Pentagram City.png) · https://static.wikia.nocookie.net/hazbinhotel/images/d/da/HHs1e2_-_Pentagram_City.png · ✅ · 1920×1080 · paleta: #56121C, #360406 (casi negro rojizo), #7F1E2C, #B82D41, morado #57395D
+- Cannibal Town, el barrio rojo con luces de neón (donde trabaja Angel Dust) · hazbinhotel.fandom (File:CannibalTown.jpeg) · https://static.wikia.nocookie.net/hazbinhotel/images/7/7f/CannibalTown.jpeg · ✅ (aparece también en el vídeo musical «Addict», hoja n.321 helluva) · 2732×1535 · paleta: #6C2B32, #41151B, coral #E64F57, rosa #E4A298
+- El Estudio de Stolas (Helluva Boss): biblioteca con estanterías, mapa astronómico y luz de vela azul-violeta · helluvaboss.fandom (varias tomas «Stolas's Study.png», hoja n.59 de la hoja_02) · ⚠️ (una fuente, capturas del mismo episodio) · 3840×2160 · tonos dominantes azul-violeta oscuro y dorado de vela (sin medir en píxel: pendiente para vídeo)
+- I.M.P., el edificio-oficina de los imps, exterior gris con el letrero rojo del logo · helluvaboss.fandom (File:HBPilot - I.M.P Commercial Jingle.png) · ⚠️ · 1920×1080
+
+**Fondos de pantalla, Wallhaven (favoritos, purity SFW, `q=hazbin+hotel` / `q=helluva+boss`)**:
+
+- Loona (Helluva Boss), fan art de fondo vertical/horizontal, 49 favoritos · Opostrof · https://wallhaven.cc/w/v99395 · ⚠️ (fan art, un solo sitio) · 2880×1620
+- Fondo de Hazbin Hotel, 19 favoritos · bubbleboba · https://wallhaven.cc/w/8o9gdy · ⚠️ · 1920×1344
+- Fondo de Hazbin Hotel, 19 favoritos · bubbleboba · https://wallhaven.cc/w/1kgqx9 · ⚠️ · 1920×1283
+- Fondo de Hazbin Hotel, 18 favoritos · https://wallhaven.cc/w/q2mrg7 · ⚠️ · 1920×1236
+- Fondo de Hazbin Hotel, 4K · https://wallhaven.cc/w/xlmjwz · ⚠️ · 3840×2160
+
+Todos son fan art (Wallhaven no distingue licencia por imagen); van con enlace, tamaño y autor tal como pide
+el punto 16, no como recurso descargable con licencia (eso es sólo para 3D/2D licenciado de los puntos 3 y 19).
+
+## 19 · Texturas 2D (tramas, grano, pinceladas, patrones, emblemas) — con licencia libre
+
+**El estilo real de la serie ya usa halftone** (trama de puntos, típica de cómic): se ve tal cual de fondo en
+el logo oficial de I.M.P (`Mission Zero - I.M.P logo.png`, arriba) y en varias transiciones del vídeo musical
+«Addict» de Angel Dust. Esto confirma qué textura buscar:
+
+- Trama de semitono (halftone) azul sobre fondo blanco, lista para poner en modo «Multiplicar» · Openverse / Flickr, CC0 · https://live.staticflickr.com/4281/35068173993_0c4bde3ab0_b.jpg · ✅ (coincide con el fondo del logo I.M.P) · 1024×1024 · licencia CC0
+- Grano de papel, 6 variantes (Paper001-006), CC0, con mapas de displacement y roughness, 1K a 8K · ambientCG · https://ambientcg.com/get?file=Paper001_1K-JPG.zip (y Paper002…Paper006 con el mismo patrón de URL) · ✅ · hasta 8192×8192 · licencia CC0
+- Alfombra desgastada (para el lobby del hotel, alfombra roja gastada) · ambientCG «Carpet016» · https://ambientcg.com/a/Carpet016 · ✅ · hasta 4K · CC0
+- Papel tapiz decrépito (para las paredes viejas del hotel) · Poly Haven «decrepit_wallpaper» · https://polyhaven.com/a/decrepit_wallpaper · ✅ · 2500×2500 (mapa físico; textura hasta 8K) · CC0
+- Terciopelo rojo (velour) para cortinas y sofás del hotel · Poly Haven «velour_velvet» · https://polyhaven.com/a/velour_velvet · ✅ · hasta 8K · CC0
+- Alfombra sucia (pasillos del hotel) · Poly Haven «dirty_carpet» · https://polyhaven.com/a/dirty_carpet · ✅ · hasta 8K · CC0
+
+**Emblemas y logos propios de la obra** (para calcar el estilo, no para usar el archivo de la wiki tal cual en
+la lámina — sirven de referencia de diseño):
+- Logo oficial «HAZBIN HOTEL»: letrero de neón rojo estilo circo/vodevil de los años 30, con un ojo enmarcado
+  en diamante debajo y un patrón triangular art déco · hazbinhotel.fandom (File:Hazbin Hotel - Hazbin Hotel website.png) · https://static.wikia.nocookie.net/hazbinhotel/images/e/eb/Hazbin_Hotel_-_Hazbin_Hotel_website.png · ✅ (logo usado también en la web oficial hazbinhotel.com) · 2560×2560
+- Logo de I.M.P: círculo rojo, letras pintadas a pincel «I.M.P», sobre trama de puntos · helluvaboss.fandom (File:Mission Zero - I.M.P logo.png) · ✅ · 3840×2160
+
+**No encontré** pinceles de trama o grano con licencia explícita hechos específicamente al estilo Vivziepop
+(la mayoría de packs de halftone «gratis» en Gumroad/Brusheezy no aclaran licencia reusable, sólo «uso
+personal»); los sustituí por CC0 confirmado de ambientCG/Poly Haven/Openverse arriba. Búsquedas: «free
+halftone screentone brush pack CC0» (web, en inglés).
