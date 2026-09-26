@@ -256,3 +256,7 @@ vídeo disponible sin YouTube: se avisa en «No encontré».
   para los hex de 6 sitios/escenas.
 - `yt-dlp -F` sobre el ítem de archive.org del OP1, para confirmar que 720p es
   el techo real (no hay pista de 1080p).
+- `navegar.py` sobre TV Tropes (`Anime/SakamotoDays`, inglés): confirma «golden
+  rule of not taking a single life» y la «Hitman Association»; no encontré ahí
+  ninguna entrada sobre onomatopeyas o efectos de sonido reconocidos (puede
+  seguir más abajo de lo que cargó la herramienta; no insistí más de una vez).
