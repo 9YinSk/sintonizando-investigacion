@@ -16,6 +16,7 @@ Cuenta: cuenta I34
 - 43 Kaguya-sama: **COMPLETA** (2026-09-26 01:40 UTC). ✅25 ⚠️12 ❌0, 111 refs, 55 webs.
 - 44 Shigatsu: **COMPLETA** (2026-09-26 02:55 UTC). ✅27 ⚠️10 ❌0, 159 refs, 47 webs.
 - 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados; se relanzó todo al reanudar).
+- 46 Sakamoto Days: **COMPLETA** (2026-09-26 03:0x UTC). ✅27 ⚠️12 ❌0, 122 refs, 50 webs.
 
 ## Avisos para el dueño
 
@@ -64,6 +65,11 @@ Cuenta: cuenta I34
   - Sin fotogramas de T2 ni T3 (muerte de Dimple, rueda de prensa, Reigen llorando) por YouTube; IDs de clips de Crunchyroll en §2.6 y §12.1. No se buscó en coreano, chino ni GitHub (⚠️).
   - El texto de #presentaciones está cortado en servidor/inventario.md. Medir el verde de Dimple antes de pintar A y C (no azul).
   - Siete correcciones a las partes en §28.1 (p. ej. «RAINBOW SEAL!!!» es de Reigen; la foto «live-action» es de la obra de teatro).
+- **46 Sakamoto Days**: más querido, Nagumo (2.ª encuesta oficial, 28 478 votos; Shin gana la 1.ª; Sakamoto 8.º). Cuadro: la cartela de título (caja negra redondeada, letras amarillas en vertical, palabra clave en rojo); en el juego, caja #1E1E1E con placa #FECB00. Láminas: A ⭐ #noticias-anime (el kairanban de la tienda), B #castings (rodaje de la portada del cap. 168), C #presentaciones (fila de fichaje del cap. 45).
+  - Las partes investigaron a Lu Wutang (chico de trenza) en vez de Lu Shaotang (pelo rosa, del trío): a Lu Shaotang le faltan colores y poses; repetir investigar_serie.py con «Lu Shaotang».
+  - Oír el grito de Shin en el tráiler latino (0:35, dailymotion x9a858e): Whisper no es fiable ahí.
+  - Ver a tamaño completo la hoja 1 n.º 35 (¿Sakamoto joven?). Portada del tomo 1 en Wikimedia marcada CC BY-SA: tratarla como © Shueisha.
+  - Faltan caras de tristeza y vergüenza y la música de las escenas emotivas (nada pasa de 720p).
 
 ## Costos
 
@@ -73,3 +79,4 @@ Cuenta: cuenta I34
 | 45 | equipo completo | Sonnet + Opus | — | — |
 | 43 | redactor | Opus | — | — |
 | 44 | redactor (seguir) | Opus | 8 | 174 k |
+| 46 | redactor | Opus | 18 | 301 k |
