@@ -102,32 +102,39 @@ propia por tiempo).
 ## 13 · La cara de cada personaje en cada emoción
 
 La biblia (§8) ya describe carácter, manías y frases con minuto (visto
-sin red, del subtítulo japonés). Aquí sólo añado la **tabla de
-emociones con fotograma** que pide el encargo; los minutos son los que
-ya validó la biblia, el enlace es nuevo (clip real donde se ve la
-escena; YouTube bloquea la descarga en este servidor, así que no pude
-sacar el JPG exacto, sólo el minuto para que el redactor o el
-investigador de vídeo lo capture con `fotogramas.py` desde su propio
-equipo):
+sin red, del subtítulo japonés). Aquí está la **tabla de emociones con
+fotograma** que pide el encargo. Los minutos de la columna «Episodio /
+Minuto» son del doblaje japonés/original ya validado por la biblia; la
+columna «Minuto (lat.)» es el segundo real en el rip latino de
+Internet Archive (`archive.org/download/Death-Note-Latino/…`), que
+recorta el opening: el desfase medido es de **~95 s antes** (calibrado
+con la escena de Ryuk y las manzanas, ep. 1). Los 6 fotogramas propios
+que faltaban ya están sacados con `ffmpeg -ss` (proxy de este
+servidor) y montados en una sola hoja de contacto en
+`hojas/emociones_13_01.jpg` (2 columnas × 3 filas, con etiqueta bajo
+cada uno) para no pasarme del límite de JPEG en `hojas/`:
 
 | Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
 |---|---|---|---|---|
 | Light | Alegría/triunfo (risa que se hizo meme) | ep. 1 | 00:22:32 | [clip doblado, risa en la tumba de L](https://www.youtube.com/watch?v=KOFd72TcTj8) (ep. 24, escena equivalente) |
-| Light | Rabia (grita «yo soy la justicia») | ep. 2 | 00:16:24 | ⚠️ sin clip encontrado |
-| Light | Miedo/pánico final, solo y herido | ep. 37 | ≈00:18:30 | ⚠️ sin clip encontrado (YouTube bloqueado en este servidor) |
+| Light | Rabia (grita «yo soy la justicia») | ep. 2 | 00:16:24 (orig.) / ≈14:49 (lat.) | ✅ propio: `hojas/emociones_13_01.jpg` (casilla 1) · Light tenso hablando con Ryuk en la biblioteca, segundo 889 del .mp4 latino |
+| Light | Miedo/pánico final, solo y herido | ep. 37 | ≈00:18:30 (orig.) / ≈17:30 (lat., aprox.) | ⚠️ propio pero aproximado: `hojas/emociones_13_01.jpg` (casilla 2) · silueta de Light a contraluz cerca del final, segundo 1050; no encontré el fotograma exacto del disparo/agonía (los créditos ya empiezan en el segundo 1160 del rip, así que la escena real está comprimida entre 1050-1150; puede que el redactor/investigador de vídeo afine con `fotogramas.py --cada 2` en ese rango) |
 | L | Tristeza («寂しいですね») | ep. 25 | 00:14:45 | [«L seca los pies de Light» (doblaje)](https://www.youtube.com/watch?v=rIc7gVUzUBY), misma escena del masaje de pies |
-| L | Concentración/manía (cuclillas, dulce) | ep. 15 | 00:09:07 | ⚠️ sin clip encontrado |
-| Ryuk | Alegría (manzanas) | ep. 1 | 00:16:12 | ⚠️ sin clip encontrado |
-| Misa | Miedo (atada, ojos vendados) | ep. 16 | 00:03:21 | ⚠️ sin clip encontrado |
-| Near | Calma/pensativo (enrolla su pelo) | ep. 27 | 00:02:01 | ⚠️ sin clip encontrado |
+| L | Concentración/manía (cuclillas, dulce) | ep. 15 | 00:09:07 (orig.) / ≈06:40 (lat.) | ✅ propio: `hojas/emociones_13_01.jpg` (casilla 3) · L en cuclillas sobre la baranda de madera, segundo 400 del .mp4 latino |
+| Ryuk | Alegría (manzanas) | ep. 1 | 00:16:12 (orig.) / ≈14:37 (lat.) | ✅ propio: `hojas/emociones_13_01.jpg` (casilla 4) · cesto de manzanas rojas junto al escritorio, segundo 877 del .mp4 latino (es la toma que calibró el desfase de ~95 s) |
+| Misa | Miedo (atada, ojos vendados) | ep. 16 | 00:03:21 (orig.) / ≈03:40 (lat.) | ✅ propio: `hojas/emociones_13_01.jpg` (casilla 5) · Misa con antifaz metálico, arnés y boca abierta gritando, segundo 220 del .mp4 latino |
+| Near | Calma/pensativo (enrolla su pelo) | ep. 27 | 00:02:01 (orig.) / ≈01:50 (lat.) | ✅ propio: `hojas/emociones_13_01.jpg` (casilla 6) · Near de perfil, cabeza gacha, pelo rizado rubio, segundo 110 del .mp4 latino (no se le ve la mano en el pelo en ese fotograma exacto, pero sí la pose pensativa) |
 | Matsuda | Vergüenza/torpeza (dispara a Light, tembloroso) | ep. 37 | 00:14:16 | [comparación de doblajes de la escena](https://www.youtube.com/watch?v=VJPH7IIKNFw) |
 
-**Ojo para el redactor**: las filas con ⚠️ no tienen fotograma propio
-todavía porque este investigador no pudo bajar vídeo de YouTube (pide
-iniciar sesión en este servidor); Dailymotion sólo tenía clips cortos
-sin esas escenas exactas. El investigador de vídeo (o una sesión con
-YouTube disponible) puede sacar el JPG exacto con
-`herramientas/fotogramas.py` en el minuto ya confirmado aquí.
+**Ojo para el redactor**: 6 de las 9 filas ya tienen fotograma propio
+del doblaje latino (Internet Archive, sin bloqueo). La fila de Light
+miedo/pánico quedó con un fotograma aproximado (⚠️), no la escena
+exacta del disparo; si se necesita el fotograma preciso, buscar entre
+los segundos 1050-1150 del archivo `S01E37-Un nuevo mundo.mp4` de esa
+colección (los créditos empiezan en 1160). Las filas de Light-alegría,
+L-tristeza y Matsuda siguen citando el clip de YouTube encontrado en
+la tanda anterior (con audio doblado ya verificado), no un fotograma
+propio nuevo, porque ya cumplían el punto con esa fuente.
 
 ---
 
@@ -403,9 +410,19 @@ No los cites como fan dub.
   YouTube falla, tal como dice AYUDANTE.md.
 - Reddit ya venía traído por `recolectar.py` (Arctic Shift); sólo lo leí,
   no repetí la consulta.
-
-Sigue: los fotogramas JPG reales de varias filas de la tabla del punto
-13 (YouTube pide iniciar sesión en este servidor para descargar vídeo,
-Dailymotion no tenía esas escenas exactas); los minutos y episodios ya
-están confirmados, sólo falta capturar la imagen con `fotogramas.py`
-desde un equipo sin ese bloqueo.
+- Relanzo (2ª tanda): saqué los 6 fotogramas propios que faltaban del
+  punto 13 con `ffmpeg -ss <segundo> -i <url .mp4 de
+  archive.org/download/Death-Note-Latino/…>` (proxy `https_proxy` de
+  este servidor, sin descargar el vídeo entero). Primero calibré el
+  desfase del rip latino (opening recortado): en el ep. 1 el minuto
+  16:12 original cae en el segundo 877 del .mp4 latino (~95 s antes),
+  confirmado viendo el cesto de manzanas de Ryuk. Con ese desfase de
+  referencia probé cada fila y, cuando el primer segundo no coincidía
+  con la escena descrita (pasa en ep. 2, 15, 16, 27 y 37: el opening o
+  los avances no duran siempre lo mismo), busqué a mano ±unos
+  segundos hasta encontrar el plano correcto (L en cuclillas ep. 15,
+  Misa atada gritando ep. 16, Near pensativo ep. 27 salieron exactos;
+  Light-rabia ep. 2 salió razonable; Light-miedo ep. 37 quedó
+  aproximado, ver nota en la tabla). Monté los 6 en una sola hoja de
+  contacto (`hojas/emociones_13_01.jpg`, 119 KB) para no sumar más de
+  un JPEG a la carpeta compartida.

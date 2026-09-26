@@ -272,3 +272,135 @@ Fuentes: [TV Tropes, YMMV](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/SakamotoD
 - Colores chillones: el director reconoció que los fans pedían «colores más maduros».
 - Confundirla con *Sakamoto desu ga?* («¿Soy Sakamoto?», 2016), otra serie con otro Sakamoto.
 
+## §13 · Personajes a fondo
+
+Fuentes de carácter: la wiki en inglés (secciones Personality y Trivia, que citan el *Official Fan Book*) y AniList. Caras: tráileres oficiales mirados plano a plano con `fotogramas.py --cortes`.
+
+### Taro Sakamoto · el protagonista
+
+- **Carácter:** habla poco y deja que actúen sus manos. Ama a su familia; dejó de matar por ella. Tiene una **política de no matar** que aplica incluso a sus enemigos · [wiki](https://sakamoto-days.fandom.com/wiki/Taro_Sakamoto#Personality) + Doblaje Wiki ✅.
+- **Miedo:** que Aoi se enoje. Si vuelve a matar, ella se divorcia. Es su única fuente de miedo real (y cómico) · ✅.
+- **Qué transmite:** ternura torpe. Un hombre letal escondido en un tendero gordo. Da risa y, de pronto, impone.
+- **Cómo habla:** frases cortas y directas. Casi nunca grita. Explica con calma, sin adornos («No volveré a ser un asesino», 0:22).
+- **Detalles:** lloró la primera vez que Aoi le cocinó omurice; antes él y Shin vivían de raciones militares. Hana le enseñó origami (tomo 17) · ⚠️.
+- **Dos cuerpos:** gordo con gafas redondas (presente) y **«prime»** delgado (tras un esfuerzo grande; engorda otra vez en un par de días).
+
+### Shin Asakura · el más popular del trío
+
+- **Carácter:** honesto, directo, con los pies en la tierra. Calmado en pelea, pero estalla en arrebatos cómicos de rabia, fastidio o miedo por cosas del día a día · [wiki](https://sakamoto-days.fandom.com/wiki/Shin_Asakura#Personality) ✅.
+- **Poder:** **lee mentes**. Eso lo hace un fastidio para sus amigos. Le aterra el único al que no puede leer (Lu Wutang, según la wiki) · ✅.
+- **Qué transmite:** lealtad de perro fiel, el «chico nuevo» que admira a su jefe.
+- **Cómo habla:** determinación simple («A partir de ahora, voy a pelear en serio», 0:58). Cuando se indigna grita cortado.
+- **Detalles:** antes fumaba y lo dejó al entrar a la tienda; le gustan los algodones de azúcar y los perros bonitos · ⚠️.
+
+### Lu Shaotang · la tercera del trío
+
+- **Carácter:** alegre, despistada (llegó 2 horas tarde su primer día, con ropa casual bajo el delantal). Guarda los recuerdos de sus padres; la tienda es su nueva familia · [wiki](https://sakamoto-days.fandom.com/wiki/Lu_Shaotang) + AniList ✅.
+- **Borracha** se vuelve una jefa de la Tríada dominante y despiadada · ✅.
+- **Cómo se expresa:** más con el cuerpo (mirada fija, dedo acusador) que con palabras. Pocas frases propias en el doblaje.
+- **Cuidado:** no es Lu Wutang (§0).
+
+### Yoichi Nagumo · el secundario más querido
+
+- **Carácter:** **miente por costumbre**, incluso al presentarse (dice tener 18 años y trabajar en un súper que no existe). Perezoso, duerme mucho, hace **sudokus en la cama**. Le dan miedo las mañanas y los coches rápidos: se marea · [wiki](https://sakamoto-days.fandom.com/wiki/Yoichi_Nagumo) (cita el *Official Fan Book*) ✅.
+- Rico (un piso entero en Minato) y heredero de una familia de espías. Viejo amigo de Sakamoto en la JCC.
+- **Qué transmite:** el tipo encantador del que nunca sabes si habla en serio.
+
+### Dinámicas (para láminas en grupo)
+
+- **Nagumo** hace rabiar a Shin y a Lu con mentiras tontas; acaban pegándole (ep. 3) · ⚠️.
+- **Shin y Heisuke:** a Shin le fastidia leerle la mente porque piensa «tonterías», pero lo aprecia · ✅.
+- **Lu y Sakamoto:** ella lo mete en líos (arruina pedidos, desordena la tienda) y él siempre la ayuda · ⚠️.
+- **Aoi** es la única que le da miedo de verdad a Sakamoto · ✅.
+- **Sakamoto y Shin:** jefe callado y empleado ruidoso. En el ep. 1, Sakamoto **imagina que mata a Shin** y Shin lo lee y se ofende.
+
+### Cara en cada emoción (tráileres oficiales)
+
+| Personaje | Emoción | Minuto | Enlace |
+|---|---|---|---|
+| Sakamoto | alegría tranquila, pulgar arriba | 0:27 | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=27) |
+| Sakamoto | serio, en la tienda | 0:22 | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=22) |
+| Sakamoto | miedo, pánico al oír «¡divorcio!» | 1:14 | [tráiler final](https://www.dailymotion.com/video/x9c2low?t=74) |
+| Sakamoto y Shin | sorpresa, ojos muy abiertos | 0:27 | tráiler latino |
+| Shin | rabia, grito con cejas fruncidas | 0:23 | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=23) |
+| Shin | determinación, fondo en llamas | 0:50 | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=50) |
+| Shin | confianza, brazos cruzados | 1:00 | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=60) |
+| Shin | rabia en pelea, dientes apretados | 1:14 | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=74) |
+| Shin | rabia, puño apretado | 0:44 | [tráiler final](https://www.dailymotion.com/video/x9c2low?t=44) |
+| Lu | alegría, sonrisa amplia | 0:31 | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=31) |
+| Lu | preocupación | 0:33 | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=33) |
+
+Todas ✅ (fotograma visto). **Falta tristeza y vergüenza** con personaje seguro: un posible sonrojo en el [tráiler final, 2:03](https://www.dailymotion.com/video/x9c2low?t=123), sin identificar · ⚠️.
+
+## §14 · Poses analizadas
+
+**Sakamoto**
+
+| Pose | Dónde y minuto | Sirve para |
+|---|---|---|
+| De rodillas junto al sofá, exhausto, con Shin encima como cojín | tráiler Netflix 0:15 | animar, gag doméstico |
+| De pie con delantal, mano en el hombro herido, gesto resignado | ep. 1, 1:52 | explicar o quejarse con humor |
+| Primer plano, cejas fruncidas tras las gafas, quieto | ep. 1, 2:00 | pensar, regañar sin gritar |
+| Abraza a Shin, mano en su nuca | tráiler Netflix 1:15 | animar, celebrar |
+| Silueta al atardecer junto a Shin, manos en los bolsillos | OP1 1:25 | presentar |
+| Pulgar arriba, orgullo tranquilo | tráiler latino 0:27 | celebrar |
+| Hoja de modelo, de pie, neutro | hoja 1 nº 21 | base de 3D |
+
+**Shin**
+
+| Pose | Dónde y minuto | Sirve para |
+|---|---|---|
+| De rodillas, manos juntas, cabeza baja | ep. 1, 0:08 | pedir, suplicar |
+| Pistola a dos manos, mirada al frente | ep. 1, 0:16 | explicar con seriedad |
+| Corre agachado entre chispas | ep. 1, 1:12 | presentar acción |
+| Delantal verde, brazos cruzados, decidido | tráiler Netflix 1:00 | explicar, regañar desde el mostrador |
+| Tumbado sobre Sakamoto en el sofá, ojos cerrados | tráiler Netflix 0:15 | relajar |
+| Pistola en alto, delantal volando como capa | ilustración, hoja 1 nº 33 | presentar, animar |
+
+**Lu Shaotang:** sólo dos planos de vídeo (0:31 sonrisa, 0:33 preocupación) y su [retrato de AniList](https://s4.anilist.co/file/anilistcdn/character/large/b207272-qQ7YZOKtbzzZ.png) · ⚠️. Las poses de «Lu» de la parte de vídeo son de Lu Wutang: no usar para ella.
+
+**Nagumo:** sólo su hoja de modelo y el fan art de §3 · ⚠️.
+
+## §15 · Vestuario (hex medidos)
+
+Medido con `estilo.py` sobre las hojas de modelo oficiales, zona por zona · ✅.
+
+| Personaje | Prenda | Hex |
+|---|---|---|
+| Sakamoto, 1.ª temp. | camiseta con parche rojo «RY» | `#E6B740` |
+| Sakamoto, 1.ª temp. | pantalón / sombra | `#36515F` / `#22323A` |
+| Sakamoto | piel | `#F5D2B9` |
+| **Sakamoto, 2.ª temp. (2026)** | **delantal de la tienda** | **`#2E664B`** |
+| Sakamoto, 2.ª temp. | camiseta bajo el delantal | `#BA8D45` |
+| Sakamoto, 2.ª temp. | pantalón / sombras | `#385561` / `#1D383A` / `#112A2D` |
+| **Shin, casual** | **sudadera con capucha** | **`#3974B0`** |
+| Shin | pantalón ancho | `#E0D7C9` |
+| Shin, ilustración de acción | sudadera (rotulador) | `#1093D0` |
+| Shin, ilustración de acción | delantal verde / línea | `#04A15D` / `#0A5858` |
+| Nagumo | gabardina beige | `#DED0B3` |
+| Nagumo | camisa estampada rojo ladrillo con rombos verdiazules | `#7B584E` |
+| Nagumo | pantalón oscuro | `#13181B` / `#38373A` |
+| Osaragi | vestido largo de encaje azul-negro / detalle | `#16141E` / `#373546` |
+| Osaragi | velo y medias | `#9095A2` |
+| Lu Wutang (no la Lu del trío) | changshan lila / ribete | `#C1BCD5` / `#3A354C` |
+
+- **Ropa icónica:** Sakamoto con **delantal verde, gafas redondas y camiseta mostaza**; Shin con **sudadera azul de capucha**; Nagumo con **gabardina beige y tatuajes**.
+- **Dos verdes:** `#2E664B` es el del cel del anime; `#04A15D` el de la ilustración promo. Elegir uno según el estilo de la lámina.
+- **Lu Shaotang:** sin hex medidos · ⚠️. Viste ropa casual bajo el delantal de la tienda (wiki).
+- **Ropa alternativa:** traje y corbata (fondos de Wallhaven), gala del café «Midnight Banquet», disfraces de Halloween (§23).
+
+## §16 · Ciudades, paisajes y fondos de pantalla
+
+**Sitios** (categoría «Locations» de la wiki): la **tienda de Sakamoto** (dos plantas, vivienda arriba; Shin cobra 1855 yenes la hora, cap. 1), **JCC** (academia en una isla), **cárcel de la JAA**, **orfanato Al-Kamar**, **clínica Miya**, laboratorio de Okutabi, museo, **Sugar Park** (parque de atracciones). Luz de cada uno en §4.
+
+**Fondos de pantalla** ([Wallhaven](https://w.wallhaven.cc/full/3q/wallhaven-3qzwp3.jpg), sólo aptos) · ✅ tamaños:
+- Grupo completo, **5792×4925**, subido por Omelettte · [imagen](https://w.wallhaven.cc/full/3q/wallhaven-3qzwp3.jpg).
+- Grupo (Sakamoto, Shin, Nagumo), **4096×2990** · [alphacoders](https://images5.alphacoders.com/138/1383153.jpg) (mismo archivo en dos sitios) ✅.
+- Grupo en moto, 2868×4152 · [imagen](https://w.wallhaven.cc/full/x8/wallhaven-x86vyl.jpg).
+- Sakamoto en un puente al atardecer, 2048×1125 · [imagen](https://w.wallhaven.cc/full/qz/wallhaven-qzxpw5.jpg) · autor [GordoObeso15 en X](https://x.com/GordoObeso15/status/1849978239579484591).
+- Sakamoto, Shin y Lu Shaotang de traje, 2000×1240 · [imagen](https://w.wallhaven.cc/full/gw/wallhaven-gw7ve7.jpg).
+- Heisuke y Nagumo, 1920×1080 · [imagen](https://w.wallhaven.cc/full/zp/wallhaven-zpmkjy.png).
+- Grupo, 2048×1152 · [imagen](https://w.wallhaven.cc/full/ml/wallhaven-mld2v1.jpg).
+
+No hay banco oficial de fondos del estudio ni de Shueisha · ⚠️ (buscado, sin resultado).
+

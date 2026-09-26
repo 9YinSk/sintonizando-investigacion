@@ -14,7 +14,7 @@ Cuenta: cuenta I34
 - 42 Blue Lock: **COMPLETA** (23:04). ✅23 ⚠️11 ❌0, 164 refs, 68 webs.
 - 45 Mob Psycho 100: **COMPLETA** (00:05). ✅32 ⚠️5 ❌0, 108 refs, 49 webs.
 - 43 Kaguya-sama: **COMPLETA** (2026-09-26 01:40 UTC). ✅25 ⚠️12 ❌0, 111 refs, 55 webs.
-- 44 Shigatsu: 4 partes hechas; vídeo relanzado (floja: 3 webs); luego redactor.
+- 44 Shigatsu: **COMPLETA** (14:31 UTC). ✅30 ⚠️7 ❌0, 159 referencias, 48 webs.
 - 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados; se relanzó todo al reanudar).
 
 ## Avisos para el dueño

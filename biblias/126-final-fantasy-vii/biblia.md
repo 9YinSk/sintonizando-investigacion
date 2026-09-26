@@ -273,7 +273,7 @@ Compositor: **Nobuo Uematsu**. Banda sonora original de 1997, 90 pistas ([Intern
   - 0:48 Aerith corre por un prado con magia rosa.
   - 1:24 Tifa acaricia el pelo de Aerith.
   - 1:48 forma roja y demoníaca con cuernos.
-  - 2:00 Cloud de perfil con la Buster Sword; Tifa y Aerith en la playa, de la mano ([&start](https://www.dailymotion.com/video/x8sb9z6?t=120)).
+  - 2:00 Cloud de perfil con la Buster Sword; Tifa y Aerith en la playa, de la mano ([enlace](https://www.dailymotion.com/video/x8sb9z6?t=120)).
   - 2:24 Yuffie con su shuriken. 2:48 Cait Sith y soldados Shinra.
   - 3:36 primer plano de Aerith mirando a cámara ([enlace](https://www.dailymotion.com/video/x8sb9z6?t=216)).
 - Tráiler narrativo del Remake ([vídeo](https://www.dailymotion.com/video/x89cm5z), 1:58) ⚠️ no mirado a fondo.
@@ -286,4 +286,136 @@ Compositor: **Nobuo Uematsu**. Banda sonora original de 1997, 90 pistas ([Intern
   - [Póster de 1997 restaurado](https://reddit.com/r/FinalFantasyVII/comments/1wmipqm/restoration_of_the_1997_promo_poster_in_high/), 375.
   - Patrón: dominan cosplay, recreaciones y arte, no los memes.
 - **TikTok:** bloqueado sin sesión ⚠️.
+
+## 11 · Videojuegos de la franquicia
+
+| Juego | Año | Interfaz y diálogo | Fuente |
+|---|---|---|---|
+| **Final Fantasy VII** | 1997 (PC en Steam) | caja azul degradada; comandos Attack/Magic/Item en fila abajo; barra ATB | [Steam](https://store.steampowered.com/app/3837340) ✅ |
+| *Before Crisis* | 2004-2009, móviles japoneses | cerrado, sin capturas accesibles | [Wikipedia](https://en.wikipedia.org/wiki/Before_Crisis:_Final_Fantasy_VII) ⚠️ |
+| *Dirge of Cerberus* | 2006 | shooter: mira en el centro, vida y munición abajo, armas en vez de materia | [wiki](https://finalfantasy.fandom.com/wiki/Menu_(Dirge_of_Cerberus)) ✅ |
+| *Crisis Core* / *Reunion* | 2007 / 2022 | rueda «Digital Mind Wave» | [Steam](https://store.steampowered.com/app/1608070) ✅ |
+| **Remake** / Intergrade | 2020 / 2021 | HUD de rombos de cristal azul y cian | [Steam](https://store.steampowered.com/app/1462040) ✅ |
+| **Rebirth** | 2024 | mismo lenguaje; mapa abierto con iconos | [Steam](https://store.steampowered.com/app/2909400) ✅ |
+| **Revelation** | preventa, 8-abr-2027 | hereda el HUD de Remake | [Steam](https://store.steampowered.com/app/4354570) y [Square Enix](https://www.square-enix.com/ffvii/en-us/games/revelation/) ✅ |
+| *Ever Crisis* | 2023- (móvil, gacha) | personajes chibi; escenas tipo novela visual | [Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VII:_Ever_Crisis) ⚠️ |
+| *Ehrgeiz* | 1998 | lucha, Cloud/Tifa/Sephiroth/Zack invitados | ⚠️ de memoria, sin ficha |
+| *The First Soldier* | 2022-2023, cerrado | battle royale | ⚠️ sin captura |
+
+**Contenido descartado** ([The Cutting Room Floor](https://tcrf.net/Final_Fantasy_VII/Unused_Text), bloqueado; datos de fragmentos de búsqueda ⚠️):
+- Textos de depuración: «This guy handles Gongaga Village!», «This dude likes trains.», «In this room, Cloud is holding his sword for some reason.»
+- Una casilla que los traductores dejaron en blanco hace saltar a un mensaje de depuración sin traducir, que llegó a la versión final.
+- Objetos sin usar (cartas a una hija y a una esposa). Ver también [«dummied content»](https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_dummied_content).
+
+## 12 · Lo que el fandom ama y qué NO hacer
+
+Lo que ama (de [TV Tropes, YMMV](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/FinalFantasyVII) y Reddit):
+- **«Let's mosey»**: la forma torpe y casual de Cloud de decir «vámonos». Chiste interno ✅.
+- **«Advent Children is the BEST CUTSCENE EVER!!»**: la película como cinemática exagerada. Empezó como burla; hoy es cariño ✅.
+- **Sephiroth se cuela en todo** (2024, tras Rebirth): meme de amenaza imparable en cualquier juego ⚠️.
+- **Cloud disfrazado de mujer en el Wall Market** para entrar en la mansión de Don Corneo: de las subtramas más queridas ✅.
+- **Materia por colores**: un fan detecta al instante un color mal puesto ✅ ([wiki](https://finalfantasy.fandom.com/wiki/Materia_%28Final_Fantasy_VII%29)).
+- Barret y la placa: «that great big pizza in the sky» ([wiki, Midgar](https://finalfantasy.fandom.com/wiki/Midgar)) ✅.
+- Fan art y nostalgia mandan: «Painted this iconic scene» con 1072 votos.
+- **Dos bandos:** veteranos que sólo aceptan el juego de 1997 frente a quienes aceptan toda la Compilation ⚠️. No mezclar continuidades sin avisar.
+
+**Qué NO hacer:**
+- Bromear con la muerte de Aerith.
+- Mezclar sin avisar al Cloud clásico con el de Remake: son diseños distintos.
+- Inventar el color de una materia.
+- Reducir a Aerith a «la novia» o a Tifa a «la sexy». Tifa es luchadora entrenada; Aerith es la última Cetra.
+- Presentar la Buster Sword como «la espada de Cloud de siempre»: la hereda de **Zack Fair**.
+- Hacer gritar o correr a Sephiroth: su miedo viene de la calma.
+- Poner una frase «del doblaje latino»: no existe.
+
+## 13 · Descripción profunda de cada personaje
+
+**Cloud Strife** · 173 cm
+- **Carácter:** frío, cortante, profesional por fuera. Por dentro, una identidad prestada: cree ser ex-SOLDIER, pero vivió los recuerdos de su amigo Zack tras romperse en Nibelheim ([wiki](https://finalfantasy.fandom.com/wiki/Cloud_Strife)) ✅.
+- **Cómo habla:** frases cortas, secas. Muletilla de fan: «Let's mosey». Frena las peleas de Barret; es el más calmado en las crisis.
+- **Qué transmite:** contención. Un chico que parece no necesitar a nadie y aprende a dejarse ayudar.
+- **Arco:** mercenario → se derrumba al saber que es un experimento de Shinra/Jenova → se reconstruye con el grupo.
+- **Dinámicas:** Tifa (infancia, promesa de la torre de agua de Nibelheim), Aerith (ella coquetea en broma, él se incomoda), Barret (roces), Zack (su deuda).
+
+**Tifa Lockhart** · 167 cm
+- **Carácter:** empática, maternal, intuitiva y reservada. Lee a los demás antes que a sí misma ✅.
+- Su bar **Séptimo Cielo** (7th Heaven) es la base de AVALANCHE en Midgar ([wiki](https://finalfantasy.fandom.com/wiki/Tifa_Lockhart)).
+- **Cuerpo:** postura de artista marcial, centro de gravedad bajo (alumna de Zangan). Ternura y fuerza a la vez, a propósito.
+- **Dinámicas:** amistad protectora con Aerith; cría a Marlene con Barret.
+
+**Aerith Gainsborough** · 163 cm
+- **Carácter:** compasiva, optimista, con calle; chispeante y hasta un poco arrogante. Anima a los demás en el peligro ([wiki](https://finalfantasy.fandom.com/wiki/Aerith_Gainsborough)) ✅.
+- **Última Cetra:** oye al planeta y habla con las flores. Rechaza la violencia salvo como último recurso.
+- **Qué transmite:** calidez. Tras su muerte, una tristeza que tiñe el resto de la historia.
+
+**Sephiroth** · 185 cm
+- **Antes:** el mejor SOLDIER, sereno, elegante; Cloud lo admiraba. Cálido con Genesis, Angeal y Zack ([wiki](https://finalfantasy.fandom.com/wiki/Sephiroth)) ✅.
+- **Después:** al saber que nació del experimento de Hojo con Jenova, se cree «el elegido».
+- **Cómo se expresa:** nunca grita, nunca corre. Amenaza controlada.
+
+**Barret Wallace** · 197 cm: líder de AVALANCHE, brazo-arma en lugar de mano derecha, padre adoptivo de Marlene. Grita, gesticula, se enfada con Shinra.
+
+**Su cara en cada emoción** (fotogramas propios):
+
+| Personaje | Emoción | Escena | Minuto |
+|---|---|---|---|
+| Aerith | serenidad, manos juntas mirando arriba | Ciudad Olvidada, original 1997 ([clip](https://www.dailymotion.com/video/xwr79w)) | 0:08–0:16 |
+| Sephiroth | frialdad, amenaza | misma escena | 0:40 |
+| Cloud | tristeza, *shock* | misma escena, sostiene a Aerith | 1:20–1:44 |
+| Cloud | seriedad, tensión | tráiler «Cloud Strife», Remake ([clip](https://www.dailymotion.com/video/x7p3q62)) | 0:32 |
+| Tifa | melancolía, mirada baja | *Advent Children* ([clip](https://www.dailymotion.com/video/x4qnl9)) | 0:30 |
+| Sephiroth | determinación fría, ojos | *Advent Children* | 3:00 |
+| Jessie | alegría, coqueteo | Rebirth, cita en Kalm ([clip](https://www.dailymotion.com/video/x9mj91u)) | 1:48 |
+| Tifa | enfado, acusación ⚠️ (la parte de vídeo la atribuye a Tifa; sin segunda fuente) | Nibelheim ([clip](https://www.dailymotion.com/video/x2yc6on?t=360)) | 6:00 |
+
+⚠️ **Miedo y vergüenza** de los cuatro principales: sin fotograma claro (Gold Saucer sin primeros planos; Don Corneo en sprites pequeños de 1997). Pendiente con clips HD de Remake/Rebirth.
+
+## 14 · Poses analizadas
+
+Vídeos: opening Remake (x89nb1q), demo PS3 (x89cm28), gameplay de Tifa en Remake (x7at6qi), muerte de Aerith (x89cm2f), Nibelheim (x2yc6on), Sector 7 (x89clz1), recuerdos de Tifa (x89cm3e), tráiler Rebirth (x8sb9z6). Todos en `dailymotion.com/video/<id>`.
+
+**Cloud** (7) ✅
+| Pose | Vídeo · minuto | Sirve para |
+|---|---|---|
+| Agachado, desenvaina la Buster Sword, neón azul detrás | [x89nb1q 5:00](https://www.dailymotion.com/video/x89nb1q?t=300) | presentar, portada |
+| Perfil, pelo de punta, mirada decidida | [x89nb1q 4:00](https://www.dailymotion.com/video/x89nb1q?t=240) | presentar |
+| De frente, ojos mako | [x89cm28 1:32](https://www.dailymotion.com/video/x89cm28?t=92) | presentar |
+| Da una materia verde a Tifa, mano abierta | [x7at6qi 0:50](https://www.dailymotion.com/video/x7at6qi?t=50) | animar, ayudar |
+| Salta con la espada en alto, cámara baja | [x7at6qi 2:30](https://www.dailymotion.com/video/x7at6qi?t=150) | celebrar |
+| Hunde a Aerith en el lago, cabeza gacha | [x89cm2f 1:12](https://www.dailymotion.com/video/x89cm2f?t=72) | pensar, dolor (no para lámina alegre) |
+| De pie junto a Barret, hablando | [x89clz1 0:56](https://www.dailymotion.com/video/x89clz1?t=56) | explicar |
+
+**Tifa** (7) ✅
+| Pose | Vídeo · minuto | Sirve para |
+|---|---|---|
+| Recibe la materia, guantes puestos | [x7at6qi 0:50](https://www.dailymotion.com/video/x7at6qi?t=50) | animar, recibir |
+| Guardia, puño adelante | [x7at6qi 2:10](https://www.dailymotion.com/video/x7at6qi?t=130) | celebrar |
+| Patada giratoria con chispas | [x7at6qi 2:50](https://www.dailymotion.com/video/x7at6qi?t=170) | celebrar |
+| Sentada en la Corriente Vital, habla con Cloud | [x89cm3e 1:20](https://www.dailymotion.com/video/x89cm3e?t=80) | explicar, pensar |
+| Sentada junto a Cloud, más cerca | [x89cm3e 2:08](https://www.dailymotion.com/video/x89cm3e?t=128) | explicar |
+| De la mano con Aerith en la playa | [x8sb9z6 2:00](https://www.dailymotion.com/video/x8sb9z6?t=120) | presentar, amistad |
+| Perfil, pelo suelto, hablando con Cid | [x8sb9z6 3:00](https://www.dailymotion.com/video/x8sb9z6?t=180) | explicar |
+
+**Aerith** (7) ✅
+| Pose | Vídeo · minuto | Sirve para |
+|---|---|---|
+| Perfil en la iglesia, luciérnagas de mako | [x89nb1q 2:10](https://www.dailymotion.com/video/x89nb1q?t=130) | presentar |
+| Sostiene la flor amarilla, luz cálida | [x89nb1q 2:50](https://www.dailymotion.com/video/x89nb1q?t=170) | presentar con su objeto |
+| Camina al altar con el grupo | [x89cm2f 0:08](https://www.dailymotion.com/video/x89cm2f?t=8) | grupo |
+| Arrodillada, manos juntas, reza | [x89cm2f 0:48](https://www.dailymotion.com/video/x89cm2f?t=48) | pensar |
+| Corre entre calles con humo | [x7at6qi 1:20](https://www.dailymotion.com/video/x7at6qi?t=80) | celebrar, acción |
+| Primer plano, ojos verdes a cámara | [x8sb9z6 3:36](https://www.dailymotion.com/video/x8sb9z6?t=216) | explicar, cierre emotivo |
+| Corre con el vestido rosa por los tugurios | [x89nb1q 1:20](https://www.dailymotion.com/video/x89nb1q?t=80) | celebrar, jugar |
+
+**Sephiroth** (6) ✅
+| Pose | Vídeo · minuto | Sirve para |
+|---|---|---|
+| Sentado leyendo en la biblioteca Shinra | [x2yc6on 0:40](https://www.dailymotion.com/video/x2yc6on?t=40) | explicar, pensar |
+| Camina entre llamas, Masamune al hombro | [x2yc6on 4:00](https://www.dailymotion.com/video/x2yc6on?t=240) | presentar (amenaza) |
+| Primer plano frío, ojo mako | [x2yc6on 9:00](https://www.dailymotion.com/video/x2yc6on?t=540) | explicar (monólogo) |
+| Cae en picado con la Masamune | [x89cm2f 0:44](https://www.dailymotion.com/video/x89cm2f?t=44) | regañar, atacar |
+| Encapuchado, de espaldas | [x8sb9z6 0:36](https://www.dailymotion.com/video/x8sb9z6?t=36) | presentar |
+| Forma roja demoníaca con cuernos | [x8sb9z6 1:48](https://www.dailymotion.com/video/x8sb9z6?t=108) | amenazar |
+
+**Resumen por uso:** presentar → Cloud 5:00 o Aerith con la flor; explicar → Sephiroth leyendo o Tifa en la Corriente Vital; celebrar → patada de Tifa; regañar → Sephiroth cayendo (sólo silueta); pensar → Aerith rezando; animar → Cloud dando la materia.
 

@@ -41,3 +41,29 @@ Narradora | Sumi Shimamoto | Mafer Morales (María Fernanda Morales) | [Doblaje 
 
 - Dato curioso ✅: Basen es doblado por Arturo Acosta, salvo una frase del ep. 36 («De acuerdo. Atención, quiero que inspeccionen el bosque»), doblada por Miguel Ángel Leal · [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Los_diarios_de_la_boticaria) · ⚠️ (una fuente, nota curatorial de la propia wiki)
 - El director de doblaje, Andrés García, también dobla al Emperador Ka Yang ✅ · [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Los_diarios_de_la_boticaria) · minuto n/a
+
+**Frases textuales de clips doblados, con minuto:** se transcribió con `voz.py` el único clip accesible (tráiler, Dailymotion, 2:33): «¡Mierda!» (min. 1:42) y «¿Pero por qué está aquí?» (min. 1:45) · [Dailymotion x9xnk6i](https://www.dailymotion.com/video/x9xnk6i?t=102) · ⚠️ **atención**: el registro suena a español de España («¡esta es la…!», jerga peninsular), y el canal que lo sube (3djuegos, Sensacine México reposteando el mismo tráiler) no confirma que sea el doblaje MEXICANO/latino de Crunchyroll; no se debe citar como frase latina sin verificar el audio de Crunchyroll Latinoamérica directamente. No se encontraron más clips con audio latino accesibles sin YouTube (ver «No encontré»).
+
+## 13 · Descripción profunda de cada personaje: carácter, forma de hablar y cara en cada emoción
+
+Fuente principal: wiki oficial en inglés kusuriya.fandom.com (API, sin bloqueo), páginas «Maomao» y «Jinshi», secciones Personality/Expressions. Segunda fuente: cita textual de la novela ligera reproducida en la propia wiki (fuente primaria citada) y análisis editorial (CBR).
+
+**Maomao** (protagonista, la boticaria): pragmática y fría por fuera, se define por sobrevivir sin llamar la atención. No se deja seducir por el carisma de Jinshi (la única del elenco inmune a él) ✅ · [kusuriya.fandom.com/wiki/Maomao](https://kusuriya.fandom.com/wiki/Maomao)
+- Frase que la define, de la novela ligera: «Si tuviera que morir, quisiera morir envenenada» ✅ · misma página (cita atribuida a la novela ligera, fuente primaria)
+- Se transforma en «chibi» con orejas de gato cuando encuentra un ingrediente o veneno raro: su cara pasa de estoica a euforia total, gesto reconocible en manga y anime ✅ · misma página, sección «Expressions» · ⚠️ sin minuto exacto de anime (YouTube bloqueado en este servidor; ningún clip de Dailymotion muestra la escena)
+- Tolerancia altísima al alcohol y a los venenos; se somete a pruebas en sí misma, oculta cicatrices con un vendaje en el antebrazo izquierdo ✅ · misma página
+- Su familia paterna son genios socialmente ineptos (Luomen, Lakan, Lahan); odia estudiar temas que no le interesan (reprobó el examen de dama de la corte) ✅ · misma página, sección Trivia
+
+**Jinshi / Ka Zuigetsu** (coprotagonista, eunuco a cargo de la Corte Interior): belleza devastadora usada como arma para compensar su inseguridad; en público mantiene una «sonrisa angelical», en privado es infantil e inseguro ✅ · [kusuriya.fandom.com/wiki/Jinshi](https://kusuriya.fandom.com/wiki/Jinshi)
+- Frase que lo define, de la novela ligera: «Ese título ya no me pertenece; ha nacido un hijo real» ✅ · misma página
+- Doble cara confirmada por Maomao en la narración: «tan hermoso como una pintura de una doncella celestial», pero su cuerpo está «sorprendentemente bien formado» y sus manos tienen callos de manejar espadas ✅ · misma página, cita de la Web Novel vol. 1 cap. 4
+- Cree que no está a la altura de su «hermano mayor» (en realidad su padre), el Emperador, por no ser gran erudito ni general: inseguridad de fondo bajo la fachada perfecta ✅ · misma página
+
+Personaje | Emoción | Episodio | Minuto | Fotograma (enlace)
+---|---|---|---|---
+Maomao | Euforia/curiosidad (chibi con orejas de gato) | sin confirmar | sin confirmar | ⚠️ descrito en la wiki, sin fotograma verificado (ver nota arriba)
+Maomao | Estoicismo/neutral (su cara por defecto) | — | — | descrito en texto, sin fotograma con minuto
+Jinshi | Sonrisa «angelical» (máscara pública) | — | — | descrito en texto, sin fotograma con minuto
+Jinshi | Puchero infantil (fachada caída en privado) | — | — | descrito en texto, sin fotograma con minuto
+
+⚠️ Esta tabla queda incompleta: capturar los fotogramas con minuto es tarea del investigador de vídeo (tiene `fotogramas.py`); aquí se documenta la emoción y la fuente textual, pero sin acceso a YouTube ni a los episodios completos no se pudo medir el minuto exacto.

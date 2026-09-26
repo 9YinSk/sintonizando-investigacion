@@ -8,6 +8,55 @@ ffmpeg: bajó directo con yt-dlp).
 - Vídeo base: https://archive.org/details/captain-tsubasa-002 (`Captain Tsubasa 002.mp4`,
   24:21 min, serie de 1983, la que en Latinoamérica se dobló como «Supercampeones»).
 
+## 2 · Fotogramas de escenas icónicas (opening, ending, tráiler, con capítulo y minuto)
+
+- Opening «燃えてヒーロー» (Moete Hero, «Arde, héroe»), episodio 2, 0:00–1:30 · mirado fotograma
+  a fotograma cada 3 s · https://archive.org/details/captain-tsubasa-002 (hoja en
+  `/tmp/claude-0/trabajo/47-captain-tsubasa-supercampeones/opening/hoja_01.jpg`) · ✅ (vídeo +
+  créditos en pantalla) · 0:00–1:30.
+- El opening trae subtítulos en español quemados (fansub estilo «Frenchies/HobbyConsolas»): a
+  0:09 aparece la cartela «キャプテン翼 SUPER CAMPEONES», a 0:18–0:57 las frases del opening
+  traducidas («Está llegando el con una mirada ruda», «Se dice en todas partes que es
+  extraordinario», «A pesar de eso, estamos aquí», «Nos volvemos locos por un balón») ·
+  https://archive.org/details/captain-tsubasa-002 · ✅ · 0:18, 0:24, 0:39, 0:48.
+- Créditos legibles en el opening: guion original 原作 高橋陽一 (Takahashi Yōichi) a 0:39 ·
+  dirección de arte 美術監督 a 0:48 · música 音楽 飛沢宏元, dirección de sonido 音響監督 山崎宏 a
+  1:00–1:03 · balón con las caras de Oliver/Tsubasa repetidas (cartel «ボールひとつに
+  キリキリまいさ», «nos volvemos locos por un balón») a 0:48–0:51 · trofeo dorado (Copa del
+  Mundo) a 1:21–1:24, cierra con paisaje de colinas verdes (el pueblo de Nankatsu) a 1:27 ·
+  https://archive.org/details/captain-tsubasa-002 · ✅ · 0:39–1:27.
+- Ending «冬のライオン» (Fuyu no Lion, «León de invierno»), mismo episodio 2, 22:50–24:21 ·
+  mirado cada 3 s · hoja en `…/ending/hoja_01.jpg` · sin subtítulos en español (a diferencia
+  del opening) · ✅ · 22:50–24:21.
+- Estructura visual del ending: Tsubasa corriendo solo con el balón a contraluz sobre una
+  colina, encuadrado contra un sol gigante bajo que ocupa media pantalla (silueta), letra
+  minimalista con los créditos de animación superpuestos; letra de la canción «すきで
+  迷ってきたような» / «やさしさひとひらあるならば» / «storm storm storm» / «いまのおれは冬の
+  ライオン» (a 23:26, 23:32, 23:47, 24:05) · https://archive.org/details/captain-tsubasa-002 ·
+  ✅ · 22:50–24:21.
+- Tráiler o preview del siguiente episodio dentro del mismo capítulo: cartela «明日に向かって
+  キック・オフ» («Kick-off hacia el mañana», título del episodio 3) a 23:20 · ✅ · 23:20.
+
+## 4 · Sitios: luz y paleta medida en fotogramas
+
+- **Colinas de Nankatsu (pueblo natal de Oliver/Tsubasa)**: campo de tierra improvisado entre
+  lomas verdes, casas bajas y algún edificio blanco al fondo; luz de tarde clara, cielo
+  celeste con nubes finas. Medido en el fotograma de 5:30 (episodio 2,
+  https://archive.org/details/captain-tsubasa-002): cielo `#74CFEE`, colina/césped `#489062`,
+  edificio del fondo `#E0FFF9` (casi blanco con tinte celeste), camiseta roja del equipo
+  `#FF402C`, short celeste `#A9E9F3` · ✅ (color + frame exacto) · 5:30.
+- Mismo escenario a las 7:06: cielo un poco más intenso `#45B1CD`, colina en sombra parcial
+  `#AC854C` (tono tierra/dorado, no verde: la colina cambia de tono con el ángulo del sol) ·
+  ✅ · 7:06.
+- Paleta general de la serie (según lo mirado): verdes de césped medios-oscuros, celestes de
+  cielo muy saturados (nunca grises), rojo puro `#FF402C` para el equipo de Nankatsu, blanco y
+  azul marino para el arco/porterías. Nada de grano ni desaturación: colores planos de cel
+  clásico de los 80.
+- El opening usa fondos de flores rosa/lila (0:30, campo de flores tipo cosmos) y una playa con
+  mar turquesa y montaña al fondo (0:33) como paisajes «postal» distintos del pueblo: sirven
+  como referencia de otros sitios de la serie (posible Brasil/playa) aunque no se identifican
+  por nombre en este episodio · ⚠️ (una fuente, sin confirmar el lugar exacto) · 0:30, 0:33.
+
 ## 9 · Música y sonido
 
 - Opening japonés original «燃えてヒーロー» (Moete Hero, «Arde, héroe»): letra de 吉岡治
@@ -69,51 +118,49 @@ Brazo levantado, sonrisa amplia, saludo enérgico | Ep. 2 | 16:18 (https://archi
 Sentado a la mesa, mirada fija y seria hacia un adulto, sin sonreír | Ep. 2 | 15:12 (https://archive.org/details/captain-tsubasa-002?start=912) | Pensar / escuchar con atención
 De espaldas junto a un compañero, ambos mirando hacia el campo | Ep. 2 | 7:54 (https://archive.org/details/captain-tsubasa-002?start=474) | Regañar o esperar (postura de tensión entre dos personajes)
 
-## 4 · Sitios: luz y paleta medida en fotogramas
+## Lo mejor para la lámina
 
-- **Colinas de Nankatsu (pueblo natal de Oliver/Tsubasa)**: campo de tierra improvisado entre
-  lomas verdes, casas bajas y algún edificio blanco al fondo; luz de tarde clara, cielo
-  celeste con nubes finas. Medido en el fotograma de 5:30 (episodio 2,
-  https://archive.org/details/captain-tsubasa-002): cielo `#74CFEE`, colina/césped `#489062`,
-  edificio del fondo `#E0FFF9` (casi blanco con tinte celeste), camiseta roja del equipo
-  `#FF402C`, short celeste `#A9E9F3` · ✅ (color + frame exacto) · 5:30.
-- Mismo escenario a las 7:06: cielo un poco más intenso `#45B1CD`, colina en sombra parcial
-  `#AC854C` (tono tierra/dorado, no verde: la colina cambia de tono con el ángulo del sol) ·
-  ✅ · 7:06.
-- Paleta general de la serie (según lo mirado): verdes de césped medios-oscuros, celestes de
-  cielo muy saturados (nunca grises), rojo puro `#FF402C` para el equipo de Nankatsu, blanco y
-  azul marino para el arco/porterías. Nada de grano ni desaturación: colores planos de cel
-  clásico de los 80.
-- El opening usa fondos de flores rosa/lila (0:30, campo de flores tipo cosmos) y una playa con
-  mar turquesa y montaña al fondo (0:33) como paisajes «postal» distintos del pueblo: sirven
-  como referencia de otros sitios de la serie (posible Brasil/playa) aunque no se identifican
-  por nombre en este episodio · ⚠️ (una fuente, sin confirmar el lugar exacto) · 0:30, 0:33.
+- El fotograma de 5:30 (control de pecho, sonrisa, colinas verdes y cielo celeste de fondo):
+  pose «viva» con el balón, exactamente lo que pide el dueño (nada de estar de pie parado).
+- El cartel de la puerta del cuarto de Tsubasa a 16:00 («つばさ» con un balón dibujado):
+  referencia de tipografía y objeto icónico (el balón) para un letrero o cuaderno en 3D.
+- El ending con el sol gigante y la silueta corriendo (23:20–24:00): muy fácil de convertir en
+  una escena de luz de tarde en Blender, con el personaje a contraluz.
+- El opening latino de Ricardo Silva («Somos los Súper Campeones») es el gancho de nostalgia
+  más fuerte para el público del servidor: cualquier lámina puede citar su letra.
+- Paleta cerrada y simple (verde césped `#489062`, celeste cielo `#74CFEE`, rojo `#FF402C`):
+  fácil de aplicar a un fondo sin quedar genérico.
 
-## 2 · Fotogramas de escenas icónicas (opening, ending, tráiler, con capítulo y minuto)
+## No encontré
 
-- Opening «燃えてヒーロー» (Moete Hero, «Arde, héroe»), episodio 2, 0:00–1:30 · mirado fotograma
-  a fotograma cada 3 s · https://archive.org/details/captain-tsubasa-002 (hoja en
-  `/tmp/claude-0/trabajo/47-captain-tsubasa-supercampeones/opening/hoja_01.jpg`) · ✅ (vídeo +
-  créditos en pantalla) · 0:00–1:30.
-- El opening trae subtítulos en español quemados (fansub «Frenchies/HobbyConsolas»-style): a
-  0:09 aparece la cartela «キャプテン翼 SUPER CAMPEONES», a 0:18–0:57 las frases del opening
-  traducidas («Está llegando el con una mirada ruda», «Se dice en todas partes que es
-  extraordinario», «A pesar de eso, estamos aquí», «Nos volvemos locos por un balón») ·
-  https://archive.org/details/captain-tsubasa-002 · ✅ · 0:18, 0:24, 0:39, 0:48.
-- Créditos legibles en el opening: guion original 原作 高橋陽一 (Takahashi Yōichi) a 0:39 ·
-  dirección de arte 美術監督 a 0:48 · música 音楽 飛沢宏元, dirección de sonido 音響監督 山崎宏 a
-  1:00–1:03 · balón con las caras de Oliver/Tsubasa repetidas (cartel «ボールひとつに 
-  キリキリまいさ», «nos volvemos locos por un balón») a 0:48–0:51 · trofeo dorado (Copa del
-  Mundo) a 1:21–1:24, cierra con paisaje de colinas verdes (el pueblo de Nankatsu) a 1:27 ·
-  https://archive.org/details/captain-tsubasa-002 · ✅ · 0:39–1:27.
-- Ending «冬のライオン» (Fuyu no Lion, «León de invierno»), mismo episodio 2, 22:50–24:21 ·
-  mirado cada 3 s · hoja en `…/ending/hoja_01.jpg` · sin subtítulos en español (a diferencia
-  del opening) · ✅ · 22:50–24:21.
-- Estructura visual del ending: Tsubasa corriendo solo con el balón a contraluz sobre una
-  colina, encuadrado contra un sol gigante bajo que ocupa media pantalla (silueta), letra
-  minimalista con los créditos de animación superpuestos; letra de la canción «すきで
-  迷ってきたような» / «やさしさひとひらあるならば» / «storm storm storm» / «いまのおれは冬の
-  ライオン» (a 23:26, 23:32, 23:47, 24:05) · https://archive.org/details/captain-tsubasa-002 ·
-  ✅ · 22:50–24:21.
-- Tráiler o preview del siguiente episodio dentro del mismo capítulo: cartela «明日に向かって
-  キック・オフ» («Kick-off hacia el mañana», título del episodio 3) a 23:20 · ✅ · 23:20.
+- Vídeos de YouTube (tráileres oficiales HD, análisis, retrospectivas): la web pide iniciar
+  sesión desde este servidor; no se probó `yt-dlp` directo a YouTube por la misma razón salvo
+  para Dailymotion/Archive.
+- AnimeThemes.moe: dio error 522 (caído) tanto en `recolectar.py` como al reintentar a mano.
+- Datos de streams/vistas concretos del opening latino en YouTube (para comparar cuál versión
+  es más popular): sin acceso a YouTube no se pudo medir.
+- Videoclips oficiales del remake 2018 «Captain Tsubasa» (los archivos `c-4pt-41n-tsub-4s-4-
+  2018-*` en Internet Archive son releases con nombre camuflado, de dudosa legalidad; se evitó
+  abrirlos).
+- Escena exacta de la primera «Tsubasa Ban» (jugada icónica) con minuto: no estaba en el
+  episodio 2 mirado; falta revisar episodios posteriores si se necesita para la lámina.
+
+## Bitácora
+
+- Búsqueda japonés (WebSearch): `キャプテン翼 1983 アニメ 主題歌 燃えてヒーロー 冬のライオン
+  歌手` → uta-net.com, Wikipedia japonesa, Discogs (usadas arriba).
+- Búsqueda español (WebSearch): `Captain Tsubasa Supercampeones opening latino tiktok
+  tendencia meme` → varios TikToks de Ricardo Silva (usados arriba).
+- Búsqueda español (WebSearch): `"Ricardo Silva" Supercampeones opening cantante voz México` →
+  Fandoblaje Wiki, Infobae (segunda fuente del cantante).
+- Internet Archive `advancedsearch.php?q=captain+tsubasa` → 30 resultados, elegido
+  `captain-tsubasa-002` (episodio completo, 1983, con opening subtitulado en español) como
+  fuente principal de fotogramas.
+- `herramientas/fotogramas.py` sobre `captain-tsubasa-002.mp4`: tramos 0–90s (opening),
+  1370–1461s (ending), 300–480s (campo/poses), 900–1080s (casa/poses) — sin necesitar el
+  `-http_proxy` de ffmpeg que se avisó (yt-dlp bajó el archivo directo sin problema).
+- Dailymotion (de `datos-video.md`, recolectado antes): un único clip repetido para las 4
+  búsquedas (opening/ending/tráiler/escena) — comprobado, es un vídeo de coleccionismo de DVDs,
+  no metraje del anime.
+- No se probó Reddit (recolector no encontró el subreddit) ni AniList (obra no listada con ese
+  nombre) por no ser prioridad de vídeo.

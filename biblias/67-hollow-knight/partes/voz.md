@@ -91,9 +91,31 @@ Quirrel | Los misterios y lugares inexplorados; volver a ver la belleza del mund
 - La música de Christopher Larkin (compositor y diseñador de sonido) se señala como parte clave del ambiente emocional: usa sonidos ambientales sutiles de cada sala (goteras, ecos) en vez de música constante, dando sensación de soledad y de mundo vivo · https://daily.bandcamp.com/features/christopher-larkin-review · ✅
 - No se localizó en esta tanda un vídeo de reacción concreto con minuto exacto reaccionando a la escena del Lago Azul (⚠️, ver «No encontré»); sí hay coincidencia entre dos fuentes distintas en que es LA escena que más se cita como tristeza «buena» (heartwarming + tearjerker a la vez).
 
-## Bitácora (parcial, se completa al final)
+## Lo mejor para la lámina
 
-- 26-sep, español: «Hollow Knight doblaje latino español personajes» (buscador web) → confirmó ausencia de doblaje oficial y dio los fandubs de arriba.
-- 26-sep, inglés: «Hollow Knight "no voice acting" mumble sound design interview» (buscador web) → confirmó por qué no hay voces (presupuesto del Kickstarter).
-- 26-sep: Doblaje Wiki api.php `list=search&srsearch=Hollow Knight` → sin resultados relevantes (confirma que no existe ficha).
-- 26-sep: hollowknight.fandom.com/api.php (JSON ya bajado en sesión anterior) para Hornet, Knight, Quirrel → lore, infobox, créditos de «voz» (gruñidos).
+1. El juego no tiene voz hablada: usar SIEMPRE gritos cortos/onomatopeyas propias de cada personaje (Hornet: «GARAMA!»; Quirrel: «KA-SHAAA!») en vez de un globo de diálogo con frase larga «hablada», si se quiere sonar fiel.
+2. Hornet es la opción más segura de «personaje secundario más querido» si no se usa al Caballero: la respaldan el conteo de fan art, un ranking de fans y varios memes propios (sus gritos de combate).
+3. Quirrel es el personaje que más «tristeza buena» genera: su despedida en el Lago Azul (se sienta, agradece haber visto el mundo dos veces, deja su clavo clavado y desaparece) es ideal para una lámina de un canal emotivo o de despedidas/agradecimientos.
+4. El Caballero no tiene cara expresiva ni voz: en la lámina conviene mostrar su emoción por POSTURA (clavo en alto, agachado, quieto) y nunca ponerle un globo de diálogo con una frase «hablada normal» — rompería el tono de la obra.
+5. No hay doblaje oficial en ningún idioma pero SÍ hay fandubs hispanos activos y con público («Voces del Reino», «Voces del Vacío»): útil para el canal de doblaje del propio Discord, mencionando que hasta un juego sin voces tiene comunidad de doblaje de fans.
+
+## No encontré (con las búsquedas hechas)
+
+- Encuesta oficial de popularidad de Team Cherry con porcentajes → busqué «Hollow Knight favorite character poll survey fanbase results» (inglés) y «Hollow Knight fandom favorite character survey percentage Hornet most popular» (inglés): sólo rankings de fans individuales y conteos de hilos de Reddit, no una encuesta cerrada. ⚠️
+- Databook oficial con cumpleaños, altura en cm o comida favorita de personajes → busqué «Hollow Knight character databook official height stats favorite food» (inglés): no existe publicación oficial de Team Cherry con esos datos; sólo height-charts de fans en Tumblr. ⚠️
+- Vídeo con minuto exacto de la cara de cada personaje en cada emoción (alegría, rabia, miedo, vergüenza) → no hay reproducción de YouTube en este servidor y los clips de Dailymotion recolectados son tráilers, no capturas de escenas de historia; pendiente para el investigador de vídeo con `fotogramas.py` sobre un longplay de Internet Archive. ⚠️
+- Confirmación exacta del texto en español (Latinoamérica vs España) de la primera línea de Quirrel → la wiki ES no tenía cacheada esa página en esta tanda; la frase citada es traducción de la wiki en inglés. ⚠️
+- Vídeos de reacción con vistas/minuto exacto a la escena del Lago Azul de Quirrel → mencionada en TV Tropes y foros pero sin enlace de vídeo de reacción concreto localizado. ⚠️
+- Estudio/director de doblaje: no aplica (punto 8: no hay doblaje oficial que fichar).
+
+## Bitácora
+
+- 26-sep, español: «Hollow Knight doblaje latino español personajes» (buscador web) → confirmó ausencia de doblaje oficial y dio los fandubs «Voces del Reino» y «Voces del Vacío».
+- 26-sep, inglés: «Hollow Knight "no voice acting" mumble sound design interview» (buscador web) → confirmó por qué no hay voces (presupuesto del Kickstarter, ~60.000 CAD) y el enfoque de sonido de Christopher Larkin.
+- 26-sep: Doblaje Wiki api.php `list=search&srsearch=Hollow Knight` → sin resultados relevantes (confirma que no existe ficha de doblaje).
+- 26-sep: hollowknight.fandom.com/api.php (wikitext EN, JSON ya bajado en sesión anterior) para Hornet, Knight, Quirrel → lore, infobox, créditos de «voz» (gruñidos), diálogos, escena del Lago Azul.
+- 26-sep: hollowknight.fandom.com/es/api.php para Hornet → texto oficial en español del primer y segundo encuentro (diálogo real, con enlace &t= no aplica por ser texto).
+- 26-sep, inglés: «Hollow Knight favorite character poll survey fanbase results» y «Hollow Knight fandom favorite character survey percentage Hornet most popular» (buscador web) → sin encuesta oficial; rankings/hilos de fans.
+- 26-sep, inglés: «Hollow Knight character databook official height stats favorite food» (buscador web) → confirmó que no existe databook oficial.
+- 26-sep: `herramientas/navegar.py` sobre tvtropes.org (YMMV, TearJerker, Memes de Hollow Knight) → memes de gritos de combate, escenas tristes (Quirrel, Myla, Dirtmouth/Bretta), qué NO hacer (voz limpia hablada rompe el tono).
+- 26-sep, inglés: «Hollow Knight TV Tropes Tearjerker Quirrel Blue Lake reddit reaction» (buscador web) → confirmó la escena del Lago Azul como la más citada.
