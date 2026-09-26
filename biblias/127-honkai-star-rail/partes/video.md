@@ -179,3 +179,71 @@ Todas las imágenes del Trazacaminos son arte oficial de Fandom (`honkai-star-ra
 por API, tamaño real 2048×2048 medido salvo el render in-game 1000×1778) → ✅. Las de March 7th y Kafka
 salen de fotogramas propios de los tráilers de personaje (un solo mirror cada uno) → ⚠️, salvo Kafka
 que tiene el tráiler repetido en dos idiomas (✅ en el minutaje).
+
+## Lo mejor para la lámina
+
+- Kafka en "Elegance Unmasked" (0:30-2:45): elegante, de neón morado/magenta sobre gris — sirve para un
+  canal serio o de "misterio/edición de audio".
+- March 7th con su cámara (0:12) y su pose final de brazo alzado (1:36): cercana, curiosa, perfecta para
+  un canal de bienvenida o principiantes (encaja con lo que pide el encargo de "poses vivas").
+- Las 5 poses del Trazacaminos por Camino (Destrucción/Preservación/Armonía/Remembranza/Elación): cada
+  una tiene un arma y un gesto distinto — elegir según el tono exacto del canal.
+- Paletas medidas de los 5 sitios (punto 4): Penacony (morados de sueño) y Xianzhou (dorados de leyenda)
+  son las más vistosas para un fondo de lámina con profundidad.
+- El trend de TikTok "Evernight Dance" (ligado a March 7th) demuestra que el fandom ya mezcla baile y
+  este personaje: útil si el canal destino toca canto/edición.
+
+## No encontré
+
+- Vídeo oficial de YouTube sin bloqueo de inicio de sesión: probé el canal oficial de HoYoverse y
+  varios tráilers directos, todos pidieron iniciar sesión desde este servidor. Usé mirrors de
+  Dailymotion en su lugar (búsquedas: "Honkai Star Rail trailer", "Honkai Star Rail Kafka", "Honkai
+  Star Rail March 7th", "Honkai Star Rail Trailblazer", en inglés, vía `api.dailymotion.com`).
+- Nombre oficial en texto de los SFX de "fanfarria" al sacar un 5★ y del clic de menú: no hay artículo
+  ni entrevista que los nombre; quedan como ⚠️ de memoria de juego, no confirmados por escrito
+  (búsquedas: "Honkai Star Rail sound effects names", `soundeffects.fandom.com` sin contenido útil).
+- Textura libre concreta para madera/laca de los templos de Xianzhou Luofu: no elegí un asset exacto de
+  ambientCG (sí para mármol y metal).
+- Un vídeo de "análisis" en español y una "tendencia" de YouTube (no TikTok): no encontrado con los
+  mirrors disponibles (búsqueda: "Honkai Star Rail análisis español", "Honkai Star Rail youtube trend
+  2026").
+- Confirmación independiente de que "The Deliverer" (x9o6p18) sea el tráiler oficial del Trazacaminos y
+  no un montaje: sólo un mirror, de canal no oficial (queda con ⚠️ marcado en el punto 10).
+- Reddit vía Arctic Shift (`arctic-shift.photon-reddit.com`) no devolvió datos utilizables en mi
+  consulta sobre reacciones a la banda sonora (respuesta vacía); no insistí más de dos veces.
+
+## Bitácora de búsqueda
+
+- `api.dailymotion.com/videos?search=...` (inglés): "Honkai Star Rail Kafka", "Honkai Star Rail March
+  7th", "Honkai Star Rail Trailblazer character demo Stelle Caelus", "Honkai Star Rail Launch Trailer",
+  "Honkai Star Rail animated short Astral Express", "Honkai Star Rail Penacony trailer", "Honkai Star
+  Rail Xianzhou Luofu trailer", "Honkai Star Rail lore explained analysis" — todas devolvieron
+  resultados, elegidos los oficiales/repostados por medios reconocibles (JeuxVideo.com, Gamekult,
+  GRYOnline.pl, ActuGaming, 3djuegos, WatchMojo).
+- `herramientas/fotogramas.py` sobre 8 vídeos de Dailymotion (opening_cutscene, opening_3_0,
+  march7th_trailer, kafka_trailer, trailblazer_trailer descartado, reveal_trailer, penacony, xianzhou) +
+  4 fotogramas sueltos con `--fotograma` para medir color.
+- `herramientas/estilo.py --colores 5` sobre 5 fotogramas propios (Herta, Belobog, Penacony, Xianzhou,
+  Amphoreus).
+- `honkai-star-rail.fandom.com/api.php` (inglés): wikitext de `Pom-Pom` y de `Trailblazer`, búsqueda de
+  categoría `Sound Effects`, búsqueda de texto "soundtrack" y "warp jump sound".
+- `soundeffects.fandom.com/api.php`: página de Honkai: Star Rail sin contenido útil (plantilla vacía).
+- `ambientcg.com/api/v2/full_json` (texturas CC0): "marble", "metal plate".
+- WebSearch (inglés): "Honkai Star Rail most emotional scene players cried March 7th identity reveal 2.7
+  song" (sin resultado concreto), "Honkai Star Rail iconic sound effects Pom-Pom bell warp jump gacha
+  onomatopoeia" (parcial), "Honkai Star Rail TikTok trend viral 2025 2026 dance edit meme" (✅, dio el
+  trend de Evernight).
+- `herramientas/navegar.py` (TikTok bloquea curl): página de tendencia
+  `tiktok.com/en/trending/detail/honkai-star-rail-animation-dancing-evernight` con `--espera 4000`.
+- `arctic-shift.photon-reddit.com/api/posts/search` (Reddit r/HonkaiStarRail_, "OST"): sin datos
+  utilizables, no insistí.
+
+## Cumplimiento del encargo (mis puntos)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 2 · Opening/ending/tráiler/escenas con fotograma y minuto | ✅ | Cinemática de apertura, PV de versión, tráiler de anuncio y 4 escenas icónicas, todas miradas con `fotogramas.py` y citadas con minuto y enlace. Sin OP/ED de anime real: aclarado por qué. |
+| 4 · Fondos y sitios: luz, paleta, texturas | ✅ | 5 sitios con paleta medida (`estilo.py`) sobre fotograma propio + luz descrita + 2 texturas CC0 equivalentes; falta 1 textura (madera de Xianzhou) marcada en «No encontré». |
+| 9 · Música y sonido | ⚠️ | OST y temas de arco confirmados (MusicBrainz + wiki); el SFX del salto astral confirmado por texto de la wiki, pero los sonidos de menú/gacha quedan de memoria, sin fuente escrita. |
+| 10 · Vídeos: tráilers, escenas, análisis, tendencias, con minuto | ✅ | Tráilers de anuncio, de versión y de personaje con minuto; 1 vídeo de análisis (WatchMojo); 1 tendencia de TikTok verificada con `navegar.py`. Falta un análisis en español y una tendencia de YouTube (no encontrados). |
+| 14 · Poses por personaje (6-10, con minuto o enlace) | ✅ | 7 poses de March 7th, 6 de Kafka (ambas con minuto, de tráileres mirados) y 6 del Trazacaminos (arte oficial por Camino, con enlace, ya que no hay tráiler propio confirmado). |
