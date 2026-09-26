@@ -56,9 +56,44 @@ capítulos completos de la T1). Los bajé con `fotogramas.py` (que usa
   1×04](https://tvtropes.org/pmwiki/pmwiki.php/Recap/ArcaneS1E4HappyProgressDay))
   · min 24:20 y 25:40 son los mejores fotogramas para la pose de «presentar».
 
-**Las dos de arriba (1×03, 19:15-22:20) más estas dos (1×04, 11:54-13:14 y
-23:40-26:50) son las 3+ escenas icónicas miradas de verdad**, con capítulo,
-minuto y fotograma propio — no de memoria ni de una reseña.
+- **1×05 «Everybody Wants to Be My Enemy», min 10:40-11:20**: **Jinx** activa
+  un dispositivo hextech construido con los apuntes de Jayce y Viktor; suelta
+  un pulso de luz azul/blanca (min 11:00) que le recuerda la explosión que
+  mató a su familia — se derrumba llorando junto a la baranda (min 11:10-11:20)
+  · fuente: fotograma propio (`e05_hexcore/hoja_01.jpg`, cuadros 1-5) · ✅
+  (coincide con la sinopsis de [«Everybody Wants to Be My Enemy» ·
+  Arcane Wiki](https://arcane.fandom.com/wiki/Everybody_Wants_to_Be_My_Enemy):
+  «Jinx prepares a hextech device... emits a powerful pulse of light... she
+  flees the device in tears, saying it was a mistake») · min 10:40-11:20.
+- **1×05, min 18:00-19:00**: la puerta-caja fuerte con dial de símbolos
+  rúnicos («V-I- -3-9-2-‡», reflejo abajo «Y-Ø-W- -3-Q-∫») y la silueta de
+  alguien de la banda de Vander dando una patada alta en el aire — el robo a
+  la caja fuerte de los túneles · fuente: fotograma propio
+  (`color/fotograma_01080.jpg`, y visión general en `e05_overview/hoja_01.jpg`
+  cuadro 19) · ✅ (encaja con la sinopsis del mismo episodio en la wiki, tramo
+  del atraco) · min 18:00.
+- **1×06 «When These Walls Come Tumbling Down», min 12:25-14:25**: **Marcus**
+  (enforcer, medallas) entra al cuarto de su hija **Ren**, que juega con una
+  casa de naipes; **Silco** está sentado con ella y deja caer una carta al
+  irse («los accidentes pasan») — amenaza velada · fuente: fotograma propio
+  (`e06_gift/hoja_01.jpg`, cuadros 4-9) · ✅ (coincide con la sinopsis:
+  «Marcus... hears his daughter Ren giggling... finds Silco sitting beside
+  her... Silco drops a wooden card... apologizes, stating that accidents
+  happen», [«When These Walls Come Tumbling Down» · Arcane
+  Wiki](https://arcane.fandom.com/wiki/When_These_Walls_Come_Tumbling_Down))
+  · min 13:10-13:40 es el mejor fotograma (primeros planos de los dos).
+- **1×06, min 27:00**: el **hex core** (esfera azul-violeta con runas)
+  flotando al fondo del laboratorio, con **Jayce** en primer plano (pelo
+  oscuro, chaleco) y una mujer de lentes con uniforme de la academia (Sky) al
+  lado — la escena en que Viktor muestra que el hex core «aprende y se
+  adapta» · fuente: fotograma propio (`color/fotograma_01620.jpg`) · ✅
+  (coincide con la sinopsis: «Viktor theorizes that hextech can be made to
+  learn and adapt... the hex core», misma página de la wiki) · min 27:00.
+
+**Las dos primeras (1×03, 19:15-22:20) más las de 1×04 (11:54-13:14 y
+23:40-26:50) y estas cuatro nuevas de 1×05-1×06 (10:40-11:20, 18:00-19:00,
+12:25-14:25 y 27:00) son las escenas icónicas miradas de verdad**, con
+capítulo, minuto y fotograma propio — no de memoria ni de una reseña.
 
 ## 4 · Sitios: luz y paleta medida en fotogramas propios
 
@@ -74,6 +109,10 @@ minuto y fotograma propio — no de memoria ni de una reseña.
 | Gema Hextech en la mano de Jayce, 1×04 12:12 | `#D7F0F8` (azul hielo casi blanco) | El brillo de la gema quema el resto del encuadre: confirma que el «azul Hextech» de §5.2 (`#3C6CB4`/`#549CCC`) es el tono ya atenuado, el foco real es casi blanco | ✅ medido |
 | Calle de Zaun, 1×04 6:45 | `#58615E` (verde grisáceo apagado) | Confirma la niebla química verde de §5.2, pero **más gris que verde saturado**: en pantalla real es más sucio que en la splash art | ✅ medido |
 | Cara de Silco en la explosión, 1×03 19:55 | `#19314D` (azul marino oscuro) | La escena entera está bañada en azul eléctrico, no en el negro de Zaun (`#202026` de §5.2) — es una excepción de luz fría dentro de Zaun | ✅ medido |
+| Grabado mecánico (ojo/engranaje) junto a Jinx, 1×05 11:00 | `#213369` (azul violeta oscuro con toques rosa) | Confirma que el ambiente de Zaun en escenas de trauma es más frío y saturado que el verde apagado de la calle (`#58615E` arriba): el morado/azul es el color de la memoria dolorosa de Jinx | ✅ medido en fotograma propio |
+| Caja fuerte con dial rúnico, 1×05 18:00 (el atraco) | `#9C6751` (naranja-cobre cálido) | Único tono cálido de toda la tabla: el metal iluminado por antorcha en los túneles bajo Zaun contrasta con el azul dominante del resto de la serie — sirve si la lámina necesita un acento cálido en vez del habitual azul/verde | ✅ medido en fotograma propio |
+| Pasillo con cortinas, 1×06 21:50 (Vi de espaldas) | `#191117` (casi negro, tinte granate) | El interior de un local marcado con un sigilo (probablemente el burdel del punto 5 del episodio) es casi negro con un halo violeta muy tenue — confirma que Zaun no siempre es «neón brillante»: hay tramos casi sin luz | ✅ medido en fotograma propio |
+| Hex core en el laboratorio, 1×06 27:00 | `#1D2632` (azul pizarra muy oscuro) | El laboratorio de Jayce y Viktor de noche es más oscuro y azulado que la gema de 1×04 (`#D7F0F8`): el hex core brilla pero no «quema» el encuadre como la gema simple — distingue visualmente los dos inventos | ✅ medido en fotograma propio |
 
 **Para la lámina**: si el fondo es la mesa de Jayce y Viktor (planos
 Hextech), la luz de referencia real es la del fotograma de 12:12 (azul
@@ -101,6 +140,17 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
   punto 10) muestra el logo «ARCANE» sin música con letra reconocible (sólo
   ambiente orquestal), consistente con que la banda sonora identificable
   (Imagine Dragons, Ashnikko…) es de los episodios, no de este primer teaser.
+- **«Enemy» (Imagine Dragons, JID) confirmado con ficha oficial**: autores,
+  fecha de lanzamiento 2021-10-28 y título completo «Enemy (from the
+  animated series Arcane League of Legends)» · fuente:
+  [MusicBrainz](https://musicbrainz.org/release-group/35990e4e-72da-4ca1-9193-2ee30cc23050)
+  · ✅ (coincide con los 213 s de duración que confirmé con fotograma propio
+  en el punto 10).
+- **Confirmado con fotograma propio, no sólo metadatos**: ahora sí vi
+  «Enemy» entero (213 s, `enemy_overview/`, ver punto 10) — no lleva
+  ningún cartel de crédito de compositor visible en pantalla (es un vídeo
+  musical, no una escena con diálogo), consistente con lo que ya decía la
+  tabla de la biblia (§11) sobre quién la compone.
 
 ## 10 · Vídeos (con minuto exacto)
 
@@ -134,6 +184,10 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
 | **Jayce** | 1×04 | 11:54-12:26 | Sentado, mano tendida con la gema brillando entre los dedos, mirando a Heimerdinger | **Explicar un invento** (mejor que la de §15 «⚠️ señala la pieza»: aquí la mano SÍ sostiene el objeto) |
 | **Silco** | 1×03 | 19:55 | Primer plano, cara pálida con marcas oscuras bajo los ojos, mirada fija tras la explosión | Retrato/origen —**no estaba en la biblia con minuto** |
 | **Vander** (joven) | 1×03 | 23:15-23:45 | Cresta magenta, cara muy cerca de otra, gesto de bronca | **Regañar** — personaje nuevo con pose+minuto que la biblia no tenía |
+| **Jinx** | 1×05 | 11:10-11:20 | Encogida contra la baranda, rodillas al pecho, cara oculta, temblando | **Quiebre emocional / trauma** — pose muy distinta a las de acción de §15, sirve si la lámina toca el lado vulnerable de Jinx |
+| **Vi** (o miembro de la banda de Vander) | 1×05 | 18:00 | Silueta a contraluz en plena patada alta, de perfil, frente a la puerta de la caja fuerte | **Acción / pelea acrobática** — pose de combate con minuto real, buena para una lámina de #arte centrada en movimiento |
+| **Vi** | 1×06 | 21:50 | De espaldas a cámara, hombros cuadrados, pelo magenta suelto, caminando decidida por un pasillo oscuro con cortinas | **Avanzar con determinación** — pose de cuerpo entero de espaldas, poco común en el material de §15 (todo de frente) — ⚠️ personaje probable por el pelo y la postura, no se ve la cara |
+| **Jayce** | 1×06 | 27:00 | De perfil, mirando hacia abajo con el ceño fruncido, el hex core brillando detrás | **Concentración / preocupación científica** — distinta de las poses de discurso de 1×04, aquí Jayce está inquieto, no exultante |
 
 ## Lo mejor para la lámina
 
@@ -148,21 +202,23 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
   mesa Hextech.
 - Silco (1×03, 19:55) y Vander joven (1×03, 23:15-23:45) con minuto real:
   sirven si alguna lámina futura toca la fundación de Zaun.
-- El teaser 2019 (Dailymotion, min 1:00): el skyline de Piltóver ya usado
-  como referencia de ciudad, con minuto verificado.
+- El **opening «Enemy»** confirmado entero con fotograma propio (Internet
+  Archive, 213 s): el logo «ARCANE» en rojo sobre negro al min 3:30 es el
+  fotograma más limpio para usar como referencia de «opening card».
 
 ## No encontré
 
 - **La prueba nocturna «todo flota, funciona» en el laboratorio de
   Heimerdinger con Mel presente** (la que cita la biblia en §2.1 y §15):
-  miré los primeros 32 minutos completos de 1×03 (a 15-40 s por fotograma)
-  y no está ahí — lo que hay es Silco/Vander (arriba). Tampoco until los
-  32:00-40:43 de 1×04, salvo la escena de la gema con Heimerdinger a solas
-  (11:54-13:14, sin Mel). Puede ser una escena posterior (1×05 o 1×06,
-  cuando cae el Núcleo Hex) o estar mal recordada en la biblia; no llegué
-  a revisar 1×05/1×06 por tiempo. Búsquedas: fotogramas propios de los dos
-  episodios completos, más `srsearch=Jayce hextech night demonstration
-  Mel` en la wiki (sin resultado claro de minuto).
+  **actualización del relanzo** — ya revisé 1×05 completo (visión general
+  cada 60 s más tres tramos finos: 8:00-16:00, 10:40-12:40 y 18:00-19:00) y
+  1×06 completo (visión general cada 60 s más 12:25-14:30 y 26:20-28:40) y
+  **sigue sin aparecer**: lo que hay con Mel y Jayce en 1×05 es una escena de
+  teatro sin Viktor (min ~9-10, ver Bitácora), y con Viktor en 1×06 es la
+  enfermedad y el hex core (min 27:00, punto 2), pero nunca los tres juntos
+  de noche. Es posible que sea de 1×02 (antes del rango que cubro yo) o esté
+  mal recordada en la biblia; sigue como ⚠️, ya no es sólo «no me dio
+  tiempo» — miré los dos episodios enteros y no está.
 - **Qué pinta Jinx exactamente en el laboratorio (1×04) y en 2×04**: no
   bajé 1×04 más allá del minuto 40:43 (el episodio dura eso) ni 2×04 (no
   está en el ítem de IA que usé, que sólo tiene T1); si aparece después de

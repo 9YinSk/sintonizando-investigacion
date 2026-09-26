@@ -116,9 +116,18 @@ animación, programas reales usados y cómo imitarlos con Photoshop y Blender, y
 
 **Del manga (Yuto Suzuki), por entrevista de su editor Sousuke Ishikawa en MangaPlus** ✅
 ([mangaplus.shueisha.co.jp/web_pages/1293](https://mangaplus.shueisha.co.jp/web_pages/1293/)):
-- Suzuki estudió **Nihonga** (pintura tradicional japonesa) antes de dedicarse al manga; de ahí su ojo para
-  que cada plano tenga «una silueta que funciona» dentro de su encuadre, incluso en los cortes de acción
-  detenida a media acción.
+- Suzuki (n. 6-jul-1993, Nagoya) estudió **Nihonga** (pintura tradicional japonesa) en la Universidad de
+  Bellas Artes de Tokio (東京藝術大学, la más difícil de entrar de Japón) y siguió al posgrado, donde
+  empezó a dibujar manga; de ahí su ojo para que cada plano tenga «una silueta que funciona» dentro de su
+  encuadre, incluso en los cortes de acción detenida a media acción · ✅ (MangaPlus + confirmado y ampliado
+  en japonés por [MEDIA DOGS](https://mediadogs.jp/2026/03/03/yuto-suzuki-sakamoto-days-career-fixed-2026/), dos fuentes)
+- Antes del manga trabajó en un estudio audiovisual dibujando **絵コンテ (storyboards/guiones gráficos)**
+  para vídeo; esa experiencia de «cámara cinematográfica» es la que le da a sus escenas de acción fama
+  entre lectores de «parecer ver un anime en papel» (「紙上でアニメを見ているようだ」), con viñetas que
+  cambian de ángulo para guiar la mirada · ✅ ([MEDIA DOGS](https://mediadogs.jp/2026/03/03/yuto-suzuki-sakamoto-days-career-fixed-2026/)) — coincide con lo que cuenta el propio editor en MangaPlus sobre su «cámara sencilla y legible» (dos fuentes)
+- De debut (2019, el one-shot «骸区»/Garaku en Shonen Jump+) a serialización semanal (nov-2020) pasó sólo
+  1 año y 7 meses, algo excepcionalmente rápido; sus tomos llevan más de **15 millones de copias**
+  impresas en el mundo (dato de Shueisha, agosto 2025) · ✅ (MEDIA DOGS, cita la nota de Shueisha)
 - Dibuja con **Clip Studio Paint** ✅ (confirmado también por él mismo en una entrevista especial de Jump
   GIGA 2023, resumida por Shonen Jump News: [x.com/WSJ_manga](https://x.com/WSJ_manga/status/1607079895108050944)).
 - Su acción es «fácil de leer» a propósito: evita el encuadre de cámara complicado y busca **el instante en
@@ -214,6 +223,15 @@ un pasado violento bajo una vida doméstica tranquila.
   reseñas)
 - **Influencias reconocidas por el propio autor** (ver punto 18): el manga **Domu** de Katsuhiro Otomo, y
   el cine de sicarios de Hollywood **John Wick** y **The Equalizer** · ✅ (MangaPlus + Shonen Jump News)
+- Suzuki admira a **Takehiko Inoue** (SLAM DUNK); los fans notan el parecido entre el Sakamoto gordo y el
+  entrenador Anzai de SLAM DUNK, y en diciembre de 2025 Weekly Shōnen Jump publicó una conversación entre
+  ambos autores en la que se dibujaron mutuamente a sus protagonistas · ✅ ([MEDIA DOGS](https://mediadogs.jp/2026/03/03/yuto-suzuki-sakamoto-days-career-fixed-2026/)), ⚠️ una sola fuente para el detalle exacto del evento
+- **Expansión a otros medios** (además del anime y el juego móvil, puntos ya cubiertos): spin-off manga
+  **«SAKAMOTO HOLIDAYS»** en la revista Saikyo Jump desde jul-2024, y una **película de acción real**
+  («SAKAMOTO DAYS», 129 min), estrenada el **29-abr-2026** en Japón, con **Ren Meguro** (grupo Snow Man)
+  como Taro Sakamoto, dirigida y escrita por **Yuichi Fukuda**, con Fumiya Takahashi, Aya Ueto, Takumi
+  Kitamura, Yusei Yagi y Airu Ikumi en el reparto · ✅ ([Cinema Today](https://www.cinematoday.jp/movie/T0031496), [Eiga Natalie](https://natalie.mu/eiga/film/201576), dos fuentes) — arte promocional nuevo a
+  vigilar para poses/vestuario, aunque cae fuera de mi punto (lo cubre imagen, puntos 1/23)
 - Con qué NO comparar: Sakamoto Days no tiene el tono sentimental de Spy×Family (la ternura ahí viene de
   la familia falsa aprendiendo a quererse; aquí la familia ya se quiere, la comedia sale de que él ya no
   puede matar) ni el gore constante de Chainsaw Man (aquí la violencia se dibuja «cool», no traumática,

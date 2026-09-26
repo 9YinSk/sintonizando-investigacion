@@ -40,6 +40,14 @@ Pendiente sin ser obligatorio (queda en «No encontré»): figuras oficiales, ca
 - `musicbrainz.org`: reutilicé los 3 discos ya recolectados en `datos-video.md` y los enlacé directamente en el punto 9 (antes sólo se mencionaban, no estaban citados como enlace).
 - YouTube (los 2 vídeos de reacción del punto 10) con `navegar.py`: 429 «tráfico inusual» en los dos, igual que antes.
 
+### Tercera pasada (relanzo puntual: completar poses de Watari y Tsubaki)
+
+- Wiki de Fandom, wikitext de «Episode 09: Resonance», «Episode 11: Light of Life», «Episode 13: Love's Sorrow», «Episode 14: Footsteps», «Episode 15: Liar», «Episode 16: Two of a Kind», «Episode 17: Twilight», «Episode 18: Hearts Come Together» y «Episode 19: Goodbye, Hero» (`action=parse&prop=wikitext`, filtrando líneas con «Watari»/«Tsubaki») para saber en qué episodios tienen escena propia antes de sacar fotogramas a ciegas.
+- `ffmpeg -ss <segundo> -i "https://archive.org/download/EVYourLieinApril/<ep>.mp4"` (mismo método que tandas anteriores). Esta vez archive.org devolvía **403** al pedir el `.mp4` directo con ffmpeg sin más: hacía falta pasarle el proxy de este contenedor explícito (`-http_proxy "http://127.0.0.1:33635"`, tomado de la variable de entorno `HTTPS_PROXY`) además de `-user_agent`; con eso funcionó igual que antes. Lo anoto por si otro investigador de esta serie se topa con el mismo 403.
+- Para explorar tramos largos sin gastar una llamada por minuto usé `ffmpeg -vf "fps=1/90"` sobre 600-1300 s seguidos de una sola vez (contact sheet con Pillow), y sólo pedí en grande el fotograma que servía.
+- Encontradas y confirmadas: Watari en Ep. 17 «Twilight» (min 8:55-9:10, confesión sobre Kaori, diálogo coincide palabra por palabra con la cita de la wiki) y en Ep. 11 «Light of Life» (min 9:00, tablón de resultados, identificado por pelo castaño-naranja y ropa ya usadas en otras poses); Tsubaki en Ep. 14 «Footsteps» (min 20:00, escena de la playa que cita la propia wiki del episodio) y en Ep. 19 «Goodbye, Hero» (min ~19:30, pasillo del hospital con Takeshi y Kousei).
+- Episodios revisados sin pose nueva aprovechable de ninguno de los dos: 9, 12, 13, 15, 16 (ver «No encontré»).
+
 ### Bitácora de voz
 
 - AniList (`anilist.co/anime/20665`): favoritos por personaje y fichas — ya venía en `datos-voz.md`, verificado y ampliado.

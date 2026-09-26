@@ -106,5 +106,23 @@
     "que_es": "Detalle técnico del filtro de textura de papel en compositing, uso de Clip Studio Paint y Adobe, y la escena de la montaña rusa (3D + rotoscopia)",
     "para_que": "Base técnica del punto 18 para replicar el filtro en Photoshop y el flujo 3D+roto en Blender",
     "licencia": "Medio periodístico especializado; texto citado como fuente, no reutilizable como propio"
+  },
+  {
+    "url": "https://mediadogs.jp/2026/03/03/yuto-suzuki-sakamoto-days-career-fixed-2026/",
+    "fuente": "MEDIA DOGS (medio japonés), perfil de Yuto Suzuki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Biografía en japonés: estudios de Nihonga en Geidai (Universidad de Bellas Artes de Tokio), trabajo previo dibujando storyboards (絵コンテ) para vídeo, 15 millones de copias vendidas, admiración por Takehiko Inoue, spin-off Sakamoto Holidays y la película de acción real de 2026",
+    "para_que": "Segunda fuente (en japonés) para el punto 18 y datos nuevos para el punto 24",
+    "licencia": "Medio periodístico japonés; texto citado como fuente, no reutilizable como propio"
+  },
+  {
+    "url": "https://natalie.mu/eiga/film/201576",
+    "fuente": "Eiga Natalie, ficha oficial de la película SAKAMOTO DAYS (acción real, 2026)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la película: reparto (Ren Meguro, Fumiya Takahashi, Aya Ueto, Takumi Kitamura y más), director Yuichi Fukuda, estreno 29-abr-2026, 129 minutos",
+    "para_que": "Confirma en segunda fuente la adaptación de imagen real (punto 24)",
+    "licencia": "Medio periodístico japonés; texto citado como fuente, no reutilizable como propio"
   }
 ]

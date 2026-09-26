@@ -404,8 +404,8 @@ No los cites como fan dub.
 - Reddit ya venía traído por `recolectar.py` (Arctic Shift); sólo lo leí,
   no repetí la consulta.
 
-Sigue: falta una segunda fuente independiente para el doblaje de Mello
-y Matt, y los fotogramas JPG reales de la tabla del punto 13 (YouTube
-bloqueado en este servidor para descarga; lo puede resolver el
-investigador de vídeo con `fotogramas.py` en los minutos ya confirmados
-aquí).
+Sigue: los fotogramas JPG reales de varias filas de la tabla del punto
+13 (YouTube pide iniciar sesión en este servidor para descargar vídeo,
+Dailymotion no tenía esas escenas exactas); los minutos y episodios ya
+están confirmados, sólo falta capturar la imagen con `fotogramas.py`
+desde un equipo sin ese bloqueo.

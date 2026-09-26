@@ -56,4 +56,127 @@ Notas de «Datos de interés» (adaptación, con fuente Doblaje Wiki):
 - «Cuando la gente tiene algo que quiere proteger, obviamente pelea con todas sus fuerzas» — Sakamoto, 1:09-1:11 · https://www.dailymotion.com/video/x9a858e?t=69 ✅
 - «Decidí que ahora la utilizaré para proteger a los que amo. Eso es lo que me hace más fuerte» — Sakamoto, 1:19-1:22 · https://www.dailymotion.com/video/x9a858e?t=79 ✅
 - Voz medida del tráiler (mezcla de personajes, no un solo actor): registro grave (138 Hz), muy expresiva (30,9 semitonos de variación), velocidad normal (2,55 palabras/s) · medido con `herramientas/voz.py` ✅ (herramienta propia, sobre audio oficial)
+- Anécdota de adaptación: Óscar López (voz de Sakamoto) contó que en un momento clave metieron un «¡Ay, caray!» que no estaba en el guion japonés, sólo para lograr el mismo golpe de sorpresa que sintió el público japonés; lo contó en el Rómpela Podcast · https://www.tiktok.com/discover/oscar-lopez-doblaje (resumen del podcast) ⚠️ (una fuente, el podcast original no se pudo abrir directo; sirve como frase de sabor del doblaje, no como cita textual del actor)
+
+## 12 · Lo que ama el fandom (y qué NO hacer)
+
+Datos de TV Tropes (YMMV, en inglés) y Reddit r/SakamotoDays. El fandom hispano
+lo confirma en los mismos chistes (ver punto 22).
+
+- **Chiste recurrente: «¿quién es Lu?»** Los fans dicen que Lu (una de las 3 protagonistas)
+  quedó tan relegada en la trama que es un meme posic una foto suya y que todos pregunten
+  quién es. TV Tropes lo cataloga como «Memetic Loser» y «They Wasted a Perfectly Good
+  Character» · https://tvtropes.org/pmwiki/pmwiki.php/YMMV/SakamotoDays ⚠️ (una fuente, TV Tropes; pero es consistente con que Lu cae al puesto 15 en ambas encuestas oficiales del punto 7)
+  **Qué NO hacer**: si Lu es la protagonista de una lámina, no ignorar este chiste ni tratarla
+  como si tuviera el mismo peso narrativo que Sakamoto o Shin; a un fan real le sonaría falso.
+  Si se quiere un secundario querido y con peso real, Nagumo es más seguro (ver punto 7).
+- **«Takamura Days»**: los fans rebautizaron así el arco de la pelea 4 contra 1 (Sakamoto,
+  Slur, Nagumo y Gaku contra Takamura) porque el anciano asesino se robó la escena; llegan a
+  compararlo en fuerza con personajes de One Piece en broma · misma fuente TV Tropes ⚠️
+- **Personaje base-breaking**: Slur (Uzuki) divide al fandom entre quienes lo ven trágico
+  y amenazante y quienes lo ven inconsistente · misma fuente ⚠️
+- **Memetic Badass**: a Boiled (un antagonista menor, «Small Name, Big Ego») los fans le
+  siguen la broma diciendo que en secreto es el personaje más fuerte de la serie · misma fuente ⚠️
+- **Cruces que el propio fandom traza**: con *Kindergarten Wars* (misma revista, también
+  asesinos), con *Rurouni Kenshin* y *Black Cat* (protagonista exasesino que jura no matar),
+  y mucho con **John Wick** (mismo punto de partida: el mejor sicario se retira por amor;
+  la diferencia es que a Sakamoto no le mataron a la familia) · misma fuente ⚠️
+  **Qué NO hacer**: no vestir a Sakamoto como John Wick (traje negro, perro) para «que se
+  entienda»; la serie tiene su propio tono de comedia doméstica que se pierde así.
+- **Memes reconocidos por el propio fandom** (TV Tropes los lista sin explicar el remate,
+  señal de que ya son de dominio común): «Bus jacking», «Coach Anzai», «Ninong Ry.»,
+  «Sakamoto married Kobeni!» (cruce de broma con *Chainsaw Man*), «Quantum Tunneling /
+  Tunnel Effect» · misma fuente ⚠️ (no se pudo confirmar el remate de cada uno, quedan
+  para quien vea los capítulos exactos)
+- **Reddit r/SakamotoDays**, hilos con más votos sobre «por qué lo amo»: un usuario destaca
+  un movimiento de combate creativo de Sakamoto (253 votos) como razón de fondo para
+  «enamorarse» de la serie · https://www.reddit.com/r/SakamotoDays/comments/11xdqus/ ⚠️
+- Hilos «iconic» más votados: la pelea Boiled vs Sakamoto del episodio 5 (387 votos, 162
+  comentarios) es la escena que el fandom llama sin dudar «la icónica» · https://www.reddit.com/r/SakamotoDays/comments/1if8ftj/ ✅ (Reddit + TV Tropes registra la misma pelea como Tear Jerker/Awesome del ep. 4-5, ver punto 21)
+- **Qué NO hacer (resumen para el dueño)**: nada de burbuja de diálogo genérica (regla general
+  del encargo); no dibujar a Sakamoto siempre gordo y torpe — el chiste es que además es letal,
+  la lámina pierde gracia si sólo se queda con la mitad; no olvidar que Nagumo miente por
+  costumbre (ver punto 13) — ponerlo «serio y sincero» rompería su personaje ante un fan.
+
+## 13 · Personajes a fondo: carácter, cómo hablan, cara en cada emoción
+
+Fuentes de carácter: wiki oficial en inglés (`sakamoto-days.fandom.com`, texto y Trivia con
+referencias al manga y al *Official Fan Book*) y AniList. Frases y caras: tráiler oficial
+Netflix doblado (Dailymotion, ver punto 8), transcrito con `voz.py` y mirado fotograma a
+fotograma con `fotogramas.py --cortes` (68 fotogramas, uno por plano, 0:00-1:47).
+
+### Tarō Sakamoto (protagonista)
+- Carácter: habla poco, deja que sus actos hablen por él; ama profundamente a su familia
+  (dejó de ser asesino por ellas) y las protege sin dudar. Tiene una «política de no matar»
+  que empuja incluso sobre otros asesinos y sus propios enemigos · https://sakamoto-days.fandom.com/wiki/Taro_Sakamoto#Personality ✅ (coincide con la sinopsis de Doblaje Wiki, «encontró al amor de su vida, abandonó la criminalidad»)
+- Cómico miedo a enojar a su esposa Aoi (ella lo dejaría si vuelve a matar); ese miedo es casi
+  su única fuente de comedia física en los primeros capítulos · misma fuente ✅ (TV Tropes/Funny lo repite: «deathly afraid of pissing off Aoi... she'll divorce him»)
+- Qué transmite: ternura torpe — un hombre letal escondido en un cuerpo de tendero gordo y
+  bonachón; da gracia y a la vez impone cuando muestra su verdadera fuerza.
+- Cómo se expresa: frases cortas y directas («No volveré a ser un asesino»), casi nunca grita;
+  cuando explica algo lo hace con calma y sin adornos («Decidí que ahora la utilizaré para
+  proteger a los que amo»), citas del doblaje latino, tráiler, 0:22 y 1:19 · ver punto 8 ✅
+- Detalle de comida/afecto: lloró la primera vez que Aoi le cocinó arroz con omelette normal;
+  antes él y Shin sobrevivían casi sólo a raciones militares · https://sakamoto-days.fandom.com/wiki/Taro_Sakamoto (sección Trivia) ⚠️ (una fuente, wiki en inglés)
+- Sabe hacer origami porque se lo enseñó su hija Hana (vol. 17) · misma fuente ⚠️
+
+### Shin Asakura
+- Carácter: honesto, directo, con los pies en la tierra; suele mantener la calma incluso en
+  peleas serias, pero eso se rompe en arrebatos cómicos de rabia, fastidio o miedo por cosas
+  del día a día. Confiado sin ser arrogante, analítico en combate · https://sakamoto-days.fandom.com/wiki/Shin_Asakura#Personality ✅ (coincide con Doblaje Wiki: «puede leer la mente de quienes lo rodean»)
+- Puede leer mentes; eso lo hace un fastidio constante para sus amigos (se entera de lo que
+  piensan) y le da terror total a Wutang Lu, el único que no puede leer · misma fuente + wiki Trivia ✅
+- Cómo se expresa: frases con determinación simple («A partir de ahora, voy a pelear en
+  serio», doblaje latino, tráiler 0:58); cuando algo lo indigna, grita cortado («¡Esperas
+  hermano, júdeme!», 0:35, transcripción automática — revisar con el oído) · ver punto 8 ⚠️ (frase con posible error de Whisper en un nombre propio)
+- Antes fumaba, lo dejó al entrar a trabajar en la tienda; le gustan los algodones de azúcar
+  y los perros bonitos (detalles tiernos que contrastan con su pasado de sicario) · https://sakamoto-days.fandom.com/wiki/Shin_Asakura (Trivia) ⚠️
+
+### Lu Shaotang (Xiaotang)
+- Carácter: alegre, relajada casi hasta el descuido (llegó 2 horas tarde su primer día,
+  ropa casual bajo el delantal); guarda con cariño los recuerdos de sus padres y considera a
+  la tienda de Sakamoto su nueva familia · https://sakamoto-days.fandom.com/wiki/Lu_Shaotang#Personality ✅ (coincide con AniList: «hace bollos de cerdo para él desde entonces»)
+- Modo «Triad borracha»: con alcohol puro se vuelve dominante y despiadada (llegó a planear
+  cortarle los dedos a un enemigo); sobria es dulce y despistada · misma fuente ✅ (Funny/TVTropes describe el mismo contraste: «can't stay happy, sad or angry for long while drunk»)
+- Cómo se expresa: pocas líneas propias confirmadas en el doblaje; su presencia es más física
+  (mirada fija, dedo acusador) que verbal — coincide con el chiste del fandom de que queda
+  relegada (ver punto 12).
+- Dato de doblaje curioso: en el ep. 2, min. 10:00, su diálogo *"Matan a su objetivo de manera
+  infalible por precios exorbitantes"* se repitió por error de montaje y se corrigió después ·
+  Doblaje Wiki ⚠️ (una fuente)
+
+### Yoichi Nagumo (el secundario más querido, ver punto 7)
+- Carácter: miente por costumbre incluso presentándose «honestamente» (dice tener 18 años y
+  trabajar en un súper que no existe); perezoso, duerme mucho, hace sudokus en la cama en sus
+  días libres, le da miedo la mañana y los vehículos rápidos, se marea en carro · https://sakamoto-days.fandom.com/wiki/Yoichi_Nagumo (Trivia, cita el *Sakamoto Days Official Fan Book*) ✅ (el propio manga, cap. 44 y 78, respalda el detalle del mareo y el apodo «Nacchan»)
+- Es rico (piso entero en un edificio de lujo de Minato) y heredero de una familia de espías;
+  aun así trabaja de encubierto y bromea todo el rato · misma fuente ✅
+
+### Frases textuales por emoción (doblaje latino, con minuto)
+- **Explicando / decidido**: «Cuando la gente tiene algo que quiere proteger, obviamente pelea
+  con todas sus fuerzas» — Sakamoto, tráiler, 1:09 · https://www.dailymotion.com/video/x9a858e?t=69
+- **Determinación / anuncio de pelea**: «A partir de ahora, voy a pelear en serio» — Shin, 0:58
+  · https://www.dailymotion.com/video/x9a858e?t=58
+- **Sarcasmo/humor negro de un enemigo**: «¡Ay, qué bonito tener amigos!» — 0:37 ·
+  https://www.dailymotion.com/video/x9a858e?t=37
+- **Firmeza (regla familiar)**: «Te dejo si rompes las reglas de la familia... si la rompes te
+  mata» — Aoi/Sakamoto, 0:24-0:26 · https://www.dailymotion.com/video/x9a858e?t=24
+
+### Cara en cada emoción (tráiler oficial Netflix latino, un fotograma por plano)
+
+| Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| Sakamoto | Alegría (orgullo tranquilo, pulgar arriba) | Tráiler oficial | 0:27 | https://www.dailymotion.com/video/x9a858e?t=27 |
+| Sakamoto y Shin | Miedo/sorpresa (ojos muy abiertos) | Tráiler oficial | 0:27 | https://www.dailymotion.com/video/x9a858e?t=27 |
+| Sakamoto | Neutral/serio, en la tienda | Tráiler oficial | 0:22 | https://www.dailymotion.com/video/x9a858e?t=22 |
+| Shin | Rabia/indignación (grito, cejas fruncidas) | Tráiler oficial | 0:23 | https://www.dailymotion.com/video/x9a858e?t=23 |
+| Shin | Determinación (fondo en llamas) | Tráiler oficial | 0:50 | https://www.dailymotion.com/video/x9a858e?t=50 |
+| Shin | Seriedad/confianza (brazos cruzados) | Tráiler oficial | 1:00 | https://www.dailymotion.com/video/x9a858e?t=60 |
+| Shin | Rabia en pelea (dientes apretados, primer plano) | Tráiler oficial | 1:14 | https://www.dailymotion.com/video/x9a858e?t=74 |
+| Lu | Alegría (sonrisa amplia) | Tráiler oficial | 0:31 | https://www.dailymotion.com/video/x9a858e?t=31 |
+| Lu | Preocupación/seriedad | Tráiler oficial | 0:33 | https://www.dailymotion.com/video/x9a858e?t=33 |
+
+Todas las filas ✅: fotograma visto directamente (`fotogramas.py --cortes`) sobre el clip oficial
+citado en el punto 8. No se encontró tristeza ni vergüenza clara en este tráiler de 108 s: falta
+mirar un episodio completo para esas dos (ver «No encontré»).
 

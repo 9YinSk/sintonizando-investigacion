@@ -164,7 +164,7 @@ Personajes para empezar (`encargos/126-final-fantasy-vii.md`): Cloud, Tifa, Aeri
 | Sostiene una flor amarilla recién cogida, luz cálida | https://www.dailymotion.com/video/x89nb1q&t=170 | 2:50 | Presentar (objeto icónico: la flor) |
 | Camina hacia el altar circular con el grupo, vestido rosa ondeando | https://www.dailymotion.com/video/x89cm2f&t=8 | 0:08 | Presentar (grupo) |
 | Arrodillada, manos juntas, rezando en el altar | https://www.dailymotion.com/video/x89cm2f&t=48 | 0:48 | Pensar |
-| Corriendo por un prado, ataque mágico rosa detrás (gameplay Rebirth) | https://www.dailymotion.com/video/x7at6qi&t=80 | 1:20 | Celebrar / acción |
+| Corre entre calles con humo, vestido claro ondeando (gameplay Remake) | https://www.dailymotion.com/video/x7at6qi&t=80 | 1:20 | Celebrar / acción |
 | Primer plano final, ojos verdes mirando a cámara | https://www.dailymotion.com/video/x8sb9z6&t=216 | 3:36 | Explicar / cierre emotivo |
 | Corre con el vestido rosa suelto entre edificios (tugurios del Sector 7) | https://www.dailymotion.com/video/x89nb1q&t=80 | 1:20 | Celebrar (huyendo/jugando) |
 
@@ -213,7 +213,7 @@ Personajes para empezar (`encargos/126-final-fantasy-vii.md`): Cloud, Tifa, Aeri
 
 - `herramientas/fotogramas.py` sobre 8 clips de Dailymotion (opening Remake, opening tech-demo
   PS3, ending Fin Partie 4, muerte de Aerith, flashback de Nibelheim, caída del Sector 7,
-  gameplay de Tifa en Rebirth, recuerdos de Tifa en la Corriente Vital, tráiler final de
+  gameplay de Tifa en Remake, recuerdos de Tifa en la Corriente Vital, tráiler final de
   Rebirth): 8 hojas de contacto miradas con Read, más de 190 fotogramas en total.
 - `ffmpeg` para extraer 6 fotogramas sueltos de los vídeos ya bajados (sin volver a descargar) +
   `herramientas/estilo.py --colores 5` sobre esos 6 fotogramas para el punto 4.
