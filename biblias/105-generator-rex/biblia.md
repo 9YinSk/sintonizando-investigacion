@@ -46,7 +46,7 @@ Leyenda: ✅ = dos fuentes, o visto o medido · ⚠️ = una fuente, deducido o 
 - **Qué es**: hace seis años, el **Nanite Event** («el Evento») soltó **nanitos** que infectaron a todo ser vivo. Cuando se activan, convierten a la persona en un **EVO**: un monstruo, casi siempre sin mente. **Rex Salazar** es amnésico y el único que manda sobre sus nanitos: saca **máquinas de su cuerpo** (los *builds*: puños gigantes, espada, moto, mochila cohete) y **cura** a otros EVOs. Trabaja para **Providence**, la fuerza privada que los contiene, con **Agente Seis** (traje verde, gafas oscuras, dos katanas) y **Bobo Haha** (chimpancé EVO que habla, con fez y parche). El villano de siempre es **Van Kleiss**, en su castillo de **Abysus** ([wiki, Nanite Event](https://generatorrex.fandom.com/wiki/Nanite_Event); [Providence](https://generatorrex.fandom.com/wiki/Providence)) ✅.
 - **El tono**: acción adolescente con humor. Wikipedia la clasifica como animación americana **con influencia anime** y como **nanopunk** ([en.wikipedia.org](https://en.wikipedia.org/wiki/Generator_Rex)) ✅. Color plano, línea gruesa, sin grano.
 - **La paleta**, medida: chamarra de Rex `#A04D47`, camiseta `#394B45`, traje de Six `#3F4C43`, camisa de Bobo `#838370`, base de Providence `#0B0909` / `#E9F9FA` / `#A9CCD9`, patio cálido del juego `#C89A88`, ciudad de noche `#28313D` (§4, §15).
-- **Las máquinas**: naranja y gris con remaches en la T1-T2 (hoja `maquinas_01`, nº 97-105); en la T3 pasan a **negro con líneas verde lima que brillan** (nº 106-108). Los **nanitos** se dibujan como **esferas con pinchos, azul brillante** (hoja nº 37 y nº 71).
+- **Las máquinas**: las clásicas son **naranja y gris con remaches** (hoja `maquinas_01`, nº 97-105); las versiones mejoradas («Upgrade») son **negras con líneas verde lima que brillan** (nº 106-108; en qué temporada cambian no está en las partes ⚠️). Los **nanitos** se dibujan como **esferas con pinchos, azul brillante** (hoja nº 37 y nº 71).
 - **El más querido**: no hay encuesta oficial en las partes (⚠️ no se buscó). Todo el fan art hallado es de **Rex**. En r/generatorrex lo más votado es el **cruce con Ben 10** (379 y 146 votos). **Six** tiene montajes de fans sobre su relación con Rex. Propuesta: Rex al frente, Six o Bobo al lado.
 - **El cuadro de diálogo propio**: la serie **no tiene globos** (se habla). Hay dos soportes reales: el **panel azul-gris con borde cian y retrato a la izquierda** del sitio oficial, dentro de un **chasis con dientes de engranaje**, y los **globos de cómic** del *Cartoon Network Action Pack* (DC Comics). Letras: **Black Ops One** (título), **Comic Neue** (globo), **Bangers** (grito), **Audiowide** (interfaz), **Oswald** y **Special Elite** (papeles de Providence). Todas con ñ, tildes, ¿ y ¡.
 - **Voz**: sí hay **doblaje latino**, de **Sensaciones Sónicas** (México). Rex es **Irwin Daayán**; Six, **Roberto Mendiola**; Bobo, **Gabriel Pingarrón**. No hay frases latinas textuales en las partes (⚠️).
@@ -305,7 +305,7 @@ Buscados en la [API de Dailymotion](https://api.dailymotion.com/videos?search=ge
 - **Nada de globos ni tramas de manga**: la serie es occidental, color plano (§6, §18).
 - **Nada de grano, VHS ni aberración cromática**: es animación digital limpia (§18).
 - **Las máquinas salen del cuerpo de Rex**: brazos, espalda o piernas se vuelven la máquina. No son armas que coja del suelo.
-- **Los nanitos se dibujan azules**, esferas con pinchos (hojas nº 37 y nº 71). Al activarse brillan en azul o verde (§18). El verde lima con negro es de las máquinas de la T3 y del cruce con Ben 10: no pintar así los *builds* clásicos.
+- **Los nanitos se dibujan azules**, esferas con pinchos (hojas nº 37 y nº 71). Al activarse brillan en azul o verde (§18). El verde lima con negro es de las máquinas mejoradas y del cruce con Ben 10: no pintar así los *builds* clásicos.
 - **No mezclar con otros «Rex»**: el recolector trajo T-Rex, OSIRIS-REx y personajes de Teen Titans. Nada de eso es de esta serie.
 - **No usar la fuente de fan del logo**: licencia personal y sin ñ ni tildes (§5).
 
@@ -439,7 +439,7 @@ Hecha por el redactor con los datos de esta biblia. Para Firefly, Canva o simila
 
 **Rasgos que nunca cambian**
 - **Rex**: chico latino de piel morena (`#BB926D`), pelo negro hacia atrás en puntas, ojos cafés, **chamarra roja de cuello alto** (`#A04D47`) con parches naranjas en la manga, camiseta verde petróleo (`#394B45`) con dos rectángulos naranjas y la mitad de abajo blanca, pantalón negro con líneas geométricas azules, guantes azules, **goggles de lente naranja sobre la cabeza**, sonrisa ladeada.
-- **Máquinas de Rex**: salen de su cuerpo; **naranja y gris con remaches** (T1-T2) o **negras con líneas verde lima que brillan** (T3). Nombres: Smack Hands (puños gigantes), BFS (espada enorme), Slam Cannon, Punk Busters (botas), Boogie Pack (mochila cohete), Rex Ride (moto), Battle Axes (hachas cian).
+- **Máquinas de Rex**: salen de su cuerpo; **naranja y gris con remaches** (clásicas) o **negras con líneas verde lima que brillan** (mejoradas). Nombres: Smack Hands (puños gigantes), BFS (espada enorme), Slam Cannon, Punk Busters (botas), Boogie Pack (mochila cohete), Rex Ride (moto), Battle Axes (hachas cian).
 - **Six**: hombre alto y delgado, pelo castaño oscuro corto peinado atrás, **gafas oscuras rectangulares de cristal verdoso**, perilla, **traje verde botella** (`#3F4C43`), camisa blanca, corbata negra, dos katanas.
 - **Bobo**: **chimpancé** robusto, pelaje castaño, cara gris lavanda, **fez granate con borla negra**, **parche negro en el ojo izquierdo**, camisa caqui (`#838370`) con franja azul-gris, correas marrones, dos pistolas grandes.
 - **Nanitos**: esferas pequeñas con pinchos, azul brillante, en nube.
@@ -544,4 +544,66 @@ La serie no usa tramas de manga. Las capas 2D que sí tiene: **patrón de nanito
 - **Comunidad hispana**: dos hilos en inglés de r/generatorrex preguntan por el **personaje latino favorito** (§7). Rex Salazar y César Salazar tienen apellido hispano.
 - **Covers en español del opening, parodias y memes hispanos**: no están en las partes ❌.
 - Dato útil: el doblaje es mexicano y conocido (Irwin Daayán, Roberto Mendiola, Gabriel Pingarrón, §8); un fandub de escena del cruce con Ben 10 encajaría en el servidor.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Cruce oficial con Ben 10**: «Ben 10/Generator Rex: Heroes United», especial doble (T3, episodios 11-12). Estreno en la **NYCC el 16-oct-2011**; en Cartoon Network el **25-nov-2011**. Rex se une a Ben de *Ben 10: Ultimate Alien* ✅ (ficha del episodio + imagen oficial 1920×1080). En la hoja, nº 86: Rex y Ben fusionados en una máquina **negra y verde con un engranaje** (el Omnitrix).
+- **Juego de navegador cruzado**: Rex es luchador en *Titanic Kungfubot Offensive* con Smack Hands, Slam Cannon y la B.F.S. ✅ ([arte 174×252](https://static.wikia.nocookie.net/generatorrexpedia/images/7/7f/Tko_charrex_174x252.png)).
+- **Figuras oficiales Mattel 2010**, básicas de 4 pulgadas: Rex, Agente Seis, Van Kleiss, agente de Providence, Punk Busters, Battle Saw y Twin Blaster Boogie Pack, cada una con un **mini-EVO** ✅ dos fuentes ([wiki](https://static.wikia.nocookie.net/generatorrexpedia/images/1/12/Generator_rex_toy_line.jpg), foto de catálogo 200×160, y [amoktime.com](https://amoktime.com), fichas por figura). Su pose es de juguete, rígida: sirve para ver volumen de las máquinas, no para posar.
+- **Juguetes cancelados**: galería de 8 imágenes en la wiki ⚠️ sin abrir.
+- **Cosplay**: guía de [Carbon Costume](https://carboncostume.com/rex-salazar-from-generator-rex/) (chamarra roja con detalle dorado de moto, pantalón negro con líneas azules; propone **pintura que brilla en la oscuridad** para imitar el poder) ✅. Listado en [Cosplay.com](https://cosplay.com/character/rex-salazar) y disfraces en CosplayFU ⚠️ sin fotos concretas revisadas.
+- **Cómics oficiales**: *Cartoon Network Action Pack* de DC Comics (§6).
+- **Marcas, cafés, Fortnite, gachas**: **no encontré** ninguna colaboración ⚠️ (búsquedas «Generator Rex x Fortnite», «café temático», «gacha collab»). Serie de 2010-2013 sin ese tipo de *merchandising*.
+
+## 24 · Obras parecidas y láminas vecinas
+
+- **Relacionadas oficialmente**: **Ben 10** y **The Secret Saturdays** (infobox de [Wikipedia](https://en.wikipedia.org/wiki/Generator_Rex)) ✅.
+- **Mismos creadores, Man of Action**: *Ben 10* ([wiki](https://generatorrex.fandom.com/wiki/Man_of_Action) y [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GeneratorRex)) ✅. La parte de texto habla de un segundo cruce en el universo Ben 10 (2016 o 2021) ⚠️ dato confuso, sin comprobar.
+- **Origen: el cómic *M. Rex*** (1999, Image Comics/Avalon, 2 números) de Joe Kelly y Duncan Rouleau. El nombre cambió a «Generator Rex» porque Image tenía los derechos de «M. Rex» ✅ ([wiki](https://generatorrex.fandom.com/wiki/M._Rex) + TV Tropes). Su lema: «The comic that will save the world!» ⚠️.
+- **Género** según Wikipedia: *nanopunk*, superhéroes cíborg, animación americana con influencia anime, superhéroes adolescentes ✅.
+- **Mismo diseñador (Jose Lopez)**: *Jackie Chan Adventures*, *Men in Black: The Series*, *Transformers: Prime*. Buen punto de comparación visual ✅.
+- **Láminas vecinas del servidor**: ninguna biblia terminada comparte el género (nanotecnología, cíborg adolescente). **106 · Glitch Techs** todavía no tiene biblia. Para **#hardware** ya proponen lámina **Dr. Stone** (20), **Days Gone** (120, «La Drifter en el taller») y God of War y Shield Hero (herreros con mostrador): esta usa un **banco de laboratorio de ciencia ficción** con máquinas que salen del cuerpo, idea distinta. Que dos series pidan el mismo canal no bloquea nada.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas en cinco líneas** ✅ (wiki: [Nanite Event](https://generatorrex.fandom.com/wiki/Nanite_Event), [Providence](https://generatorrex.fandom.com/wiki/Providence), [EVO](https://generatorrex.fandom.com/wiki/Exponentially_Variegated_Organism), [Consortium](https://generatorrex.fandom.com/wiki/Consortium)):
+1. Hace seis años, el **Nanite Event** soltó nanitos que infectaron a todo ser vivo.
+2. Al activarse, los nanitos mutan a la persona en un **EVO** (*Exponentially Variegated Organism*): criaturas monstruosas, casi siempre sin mente.
+3. **Providence** es la fuerza privada global que cura, contiene o neutraliza EVOs. Antes su norma era «contener y matar»; ahora, «curar».
+4. **Rex** es amnésico y el único que controla sus nanitos: crea máquinas con su cuerpo y cura EVOs.
+5. El **Consorcio** financia a Providence en secreto y busca poder e inmortalidad; **Van Kleiss** está ligado al origen del Evento.
+
+**La historia por arcos** ⚠️ resumen corto, las partes no traen los arcos completos:
+- **T1 (2010)**: Rex en Providence con Six, Bobo y Holiday; Van Kleiss y su manada desde **Abysus**. Cierra con el cumpleaños de Rex (1.19).
+- **T2**: entran **César Salazar** y el **Caballero Negro** (por el reparto de Doblaje Wiki); Circe cambia de look.
+- **T3 (hasta 2013)**: cruce con Ben 10 (3.11-12); **forma Omega-1** (3.20, nº 54).
+- **Juego *Agent of Providence*** (2011): historia paralela que Rouleau dio por canon ⚠️.
+
+**Símbolos y objetos**
+- **Emblema de Providence**: «P» geométrica de dos trazos rectos en ángulo recto, verde azulado (certificado, nº 3) ✅.
+- **El certificado «Decree of Commendation»**, con su fila de estrellas y el lema «OUR MISSION IS CLEAR:».
+- **El logo con el engranaje de 8 dientes** en la O.
+- **Los goggles de Rex**, **las katanas de Six**, **el fez de Bobo**.
+- **La torre del cuartel** en el cañón (nº 36).
+
+**Vocabulario que un fan reconoce al instante** ✅: **nanites** (nanitos), **EVO**, **Nanite Event** o «el Evento», **Providence**, **Consortium**, **Petting Zoo** (la instalación donde se contiene a los EVOs), **Abysus**, **Alpha** (nanito o ente ligado al origen), **Omega-1** (el nanito definitivo), ***builds*** (las máquinas de Rex), **Smack Hands**, **BFS**, **Punk Busters**, **Boogie Pack**.
+
+## Hojas de contacto
+
+Tres hojas en `hojas/`, JPEG de menos de 1 MB, hechas con `investigar_serie.py` desde la wiki. Cada miniatura lleva número, tamaño y nombre de archivo de la wiki (el nombre suele decir el episodio y la escena).
+
+- **`personajes_01.jpg`** (nº 1-48): certificado de Providence (3), hilo de Rouleau (2), Van Kleiss (1, 5, 8, 13, 16, 19, 22), Breach (4, 9-12, 15, 17), Circe (14, 18, 20, 21), Bobo en acción (28-29), agentes y cuartel de Providence (25, 26, 32, 34-36), nanitos (37), Rex en acción (23, 30, 38, 40-47), Six (48).
+- **`personajes_02.jpg`** (nº 49-96): Six con katanas (49), la torre (50), **alineación de Providence** (51), Omega-1 (54), Circe (52, 58-69, 72), **nanitos sobre cian** (71), Holiday (73, 91, 92), Noah (77-82, 84, 89, 94, 95), máquinas y trajes (83, 85-88, 90, 93, 96).
+- **`maquinas_01.jpg`** (nº 97-113): los *builds* de Rex uno a uno: Battle Saw (97), BFS (98), Blast Caster (99), Battle Axes (100), tabla (101), Rex Ride (102), dos *builds* a la vez (103), Blast Launcher (104), **Smack Hands** (105), Swift Rocket (106), BFS mejorada (107), Slam Cannon mejorado (108); Caballero Blanco con traje de combate (109), por pantalla (110) y joven (111); Holiday joven (112).
+
+Las mejores para lámina: **nº 3** (certificado), **nº 28** (Bobo), **nº 51** (grupo), **nº 105** (Smack Hands), **nº 36** (cuartel), **nº 71** (nanitos).
+
+## Correcciones del redactor
+
+- **Ruido del recolector**: el recolector buscó «rex» sin wiki fija y trajo fan art de Raven, Robin, Starfire, Marceline, Bubblegum y las Chicas Superpoderosas (la lista de «más dibujados» de Danbooru es de otras series), modelos de Sketchfab de terrenos y coches, y fotos de [Openverse](https://openverse.org) de dinosaurios, la sonda OSIRIS-REx y Stephen King. **Se quitó todo de `referencias.json`**: 50 entradas de ruido y 2 repetidas. Se añadieron 5 de la parte de imagen que faltaban. Quedan 58, las mejores primero.
+- **Bobo**: la parte de imagen le puso «cresta roja» y la de vídeo «boina roja». El redactor miró el retrato oficial ampliado: es un **fez granate con borla negra**, y lleva **parche en el ojo izquierdo** (nadie lo había dicho).
+- **Año del juego**: la parte de vídeo dice «2010» para el tráiler de *Agent of Providence*; la wiki (con IGN) da **1-nov-2011**. Se usa 2011; el tráiler pudo salir antes ⚠️.
+- **Números del *Action Pack***: imagen cita los n.º 51, 54, 56 y 67; texto, los n.º 50, 54, 55, 56, 59, 61 y 63. Sólo 54 y 56 coinciden ⚠️. Mirar la [página de la wiki](https://generatorrex.fandom.com/wiki/Cartoon_Network_Action_Pack) antes de citar un número.
+- **«Seiyū»**: la tabla de voz llamaba así a las voces originales; en una serie estadounidense es «voz original».
+- **Hex medidos por el redactor** en los retratos (fez `#5C3B44`, piel de Rex `#BB926D`, camisa de Six `#E7E7E5`, solapa de Six `#3D5644`): confirman los de la parte de imagen con poca diferencia.
 

@@ -1239,3 +1239,156 @@ Las vistas de cada vídeo no se pudieron leer (YouTube pidió sesión; sólo
 se usó `oembed` para título y canal). ⚠️
 
 ---
+
+## 24 · Colaboraciones, figuras y cosplay
+
+Casi todo es **japonés y de vida corta** (cafés y tiendas efímeras). Cada
+colaboración trae **ilustraciones nuevas**, con ropa y poses que no salen
+en el manga ni en el anime.
+
+**Cafés y eventos:**
+- **Sweets Paradise**: café con platos temáticos
+  ([web oficial](https://www.sweets-paradise.jp/collaboration/sakamotodays)). ✅
+- **«Midnight Banquet»**: los protagonistas **de gala**, ropa formal nunca
+  vista. Tokio y Osaka, hasta el 8-dic-2025
+  ([Essential Japan](https://essential-japan.com/news/sakamoto-days-midnight-banquet-collaboration-cafe-now-open-in-tokyo-and-osaka/)). ✅
+- **NAMJATOWN** (Ikebukuro): 10 ilustraciones originales y minijuegos,
+  10-oct a 23-nov-2025
+  ([Have a Good Holiday](https://www.haveagood-holiday.com/en/articles/sakamoto-days-namjatown-2025-oct)). ✅
+- **Halloween «Sakamoto Festival»** en NATSLIVE CAFE, 10-oct a 2-nov-2025:
+  disfraces nuevos
+  ([collabo-cafe.com](https://collabo-cafe.com/events/collabo/sakamoto-days-helloween-cafe-natslive-2025/)). ✅
+- **«Black Rose Garden»** (SMILE BASE CAFE, desde 23-jul-2026) y X CAFE
+  (desde 15-may-2026)
+  ([collabo-cafe.com](https://collabo-cafe.com/events/collabo/sakamoto-days-smile-base-cafe-2026-pre-info/)). ✅
+- Más en 2026: escuela de magos «Wizard School», uniforme escolar «Seifuku
+  Days», feria de verano en Animate, cumpleaños de Nagumo. ✅ (agregador)
+
+**Ropa:** camiseta oficial **Uniqlo UT** «MANGA UT SHUEISHA 100th»
+([tienda](https://www.uniqlo.com/us/en/products/E488256-000/00)). ✅
+Colaboración con **GU**: sólo un vídeo de Facebook. ⚠️
+
+**Figuras oficiales** (su pose sirve de referencia 3D): **Ichiban Kuji**
+de Bandai Spirits. Vol. 1 premio A, Sakamoto (20 cm); vol. 2 premio D,
+Osaragi «Masterlise Expiece» (~190 mm); premio L.O de Sakamoto; set A+B
+Sakamoto y Shin; vol. 3 con más miembros de la Order
+([Essential Japan](https://essential-japan.com/news/new-sakamoto-days-ichiban-kuji-features-figures-of-the-elite-order-assassins/),
+[Jump Ichiban](https://jumpichiban.com/en-us/collections/sakamoto-days-figures)). ✅
+
+**Cosplay:** Osaragi en Dokomi 2025 (Alemania), 9 fotos de esby.photo, CC
+BY-NC-SA 2.0, vía [Openverse](https://openverse.org)
+([una de ellas](https://live.staticflickr.com/65535/54590439657_8f2b49e4fe_b.jpg),
+769×1024). Buen ejemplo del volumen real del vestido de encaje. ✅
+
+**Película de acción real** «SAKAMOTO DAYS» (129 min), estrenada el
+**29-abr-2026** en Japón. **Ren Meguro** (Snow Man) es Sakamoto; dirige y
+escribe **Yuichi Fukuda**; con Fumiya Takahashi, Aya Ueto, Takumi
+Kitamura, Yusei Yagi y Airu Ikumi
+([Cinema Today](https://www.cinematoday.jp/movie/T0031496),
+[Eiga Natalie](https://natalie.mu/eiga/film/201576)). ✅ Su arte
+promocional no se miró. ⚠️
+
+**Crossovers** con juegos (Fortnite, gachas) o marcas fuera de Japón: no
+se encontró ninguno. ⚠️
+
+---
+
+## 25 · Obras parecidas y láminas vecinas
+
+**Tono:** comedia y acción, crimen organizado, familia, un protagonista
+que esconde un pasado violento bajo una vida doméstica tranquila.
+
+| Obra | Por qué se parece | ¿Tiene biblia aquí? |
+|---|---|---|
+| **The Way of the Househusband** | ex yakuza legendario ahora amo de casa. TV Tropes lo pone de «Compare» ([ficha](https://tvtropes.org/pmwiki/pmwiki.php/Manga/SakamotoDays)) ✅ | no |
+| **SPY×FAMILY** | la recomendación más votada en AniList (162) ✅ | sí, `06-spy-x-family` (#presentaciones). Allí la familia es falsa y aprende a quererse; aquí **ya existe** y él vive la doble vida |
+| **One-Punch Man** | protagonista aplastante que vive su poder con calma (37 votos) ✅ | sí, `35-one-punch-man` (#en-directo) |
+| **Assassination Classroom** | escuela de asesinos, comedia y acción letal (14 votos) ✅ | sí, `24-assassination-classroom` (#avisos-clases). Si se usa la JCC, no repetir su «examen» |
+| **Kindergarten Wars**, **Rurouni Kenshin**, **Black Cat** | exasesino que jura no matar; la primera sale en la misma revista ⚠️ | no |
+| Gintama, Buddy Daddies, Mission: Yozakura Family, The Fable, Lycoris Recoil, The Yakuza's Guide to Babysitting, Kill Blue, Marriagetoxin | recomendaciones de AniList ⚠️ | no |
+
+**Influencias del autor:** *Domu* (Otomo), *John Wick*, *The Equalizer*
+y Takehiko Inoue. En diciembre de 2025 Jump publicó una charla entre
+Suzuki e Inoue, que se dibujaron mutuamente sus protagonistas. ⚠️ (una
+fuente para el evento)
+
+**Con qué NO compararla:** no tiene la ternura sentimental de Spy×Family
+ni el gore de Chainsaw Man. ✅ (MangaPlus)
+
+**Láminas vecinas para no repetir:** la caja registradora (Bob Esponja,
+#ofertas-y-gratis); la tele de Saitama (One-Punch Man, #en-directo); el
+aula de la clase E (Assassination Classroom). Los tres conceptos de §27
+usan otros objetos: una tablilla de avisos, una cámara con pértiga y una
+pared de fichaje.
+
+---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas del mundo en cinco líneas
+
+Fuentes: [wiki: JAA](https://sakamoto-days.fandom.com/wiki/Japanese_Association_of_Assassins)
+y [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/SakamotoDays). ✅
+
+1. Japón de hoy, con un **submundo de asesinos** tan organizado que casi
+   sustituye a la policía.
+2. La **JAA** (Asociación Japonesa de Asesinos, 日本殺し屋連盟) es su
+   gremio legal: 1000 miembros, unos 400 profesionales, con nómina,
+   seguro y escuela.
+3. La gente corriente vive al lado **sin inmutarse**: si un asesino
+   destroza una farola, como mucho dicen «oh, no».
+4. La ley de Sakamoto: **no matar**, jurada a Aoi bajo pena de divorcio.
+5. La JAA tiene su policía secreta, la **Order**, y su villano, **Slur**,
+   que quiere destruirla desde dentro.
+
+### 26.2 La historia por arcos
+
+Manga en curso, 10 arcos
+([wiki: Story Arcs](https://sakamoto-days.fandom.com/wiki/Story_Arcs)). ✅
+El anime tiene 22 episodios en dos partes; la parte 1 (11 episodios)
+cubre los dos primeros arcos. ⚠️ (§28)
+
+| Arco | En pocas líneas | Momento clave |
+|---|---|---|
+| **Parque de atracciones** | Sakamoto retirado; Shin lo visita y se une; rescatan a Lu; en Sugar Park vuelven viejos enemigos | la montaña rusa (ep. 3) y la pelea con **Boiled** (ep. 5) |
+| **Laboratorio** | secuestran a Lu; la rescatan con Heisuke, el nuevo francotirador; aparece Kashima (máscara de ciervo); interviene la Order | el rescate de Lu |
+| **Presos del corredor de la muerte** | cuatro condenados escapan; persiguiéndolos llegan a Slur | Slur se presenta |
+| **Examen de ingreso a la JCC** | Slur fue alumno de la JCC; Sakamoto y Shin se examinan para entrar | — |
+| **Infiltración en la JCC** | buscan la base de datos sobre Slur | — |
+| **El pasado de Sakamoto** | *flashback*: la JCC con Nagumo y Rion, y Kindaka, el más rápido | — |
+| **Bangkok** | viaje tras Slur; Heisuke conoce a Hyo | — |
+| **La exhibición de asesinos del siglo** | Slur intenta matar a Asaki en público; choque total | — |
+| **La cárcel de la JAA** | Sakamoto y Nagumo, con precio por su cabeza, se esconden; Shin y Heisuke entran en la cárcel | muere Ando (cap. 202, §22) |
+| **La nueva JAA** (en curso) | Slur toma el país y da **un arma y 3 balas** a cada ciudadano; parte de la Order lo traiciona | — |
+
+### 26.3 Emblemas, objetos icónicos y vocabulario
+
+- **La tienda de los Sakamoto** (坂本商店, *Sakamoto Shōten*): tienda de
+  barrio de dos plantas con un **almacén secreto de armas debajo** que se
+  abre con un **código en la caja registradora**. Es el objeto-símbolo:
+  vida normal por fuera, arsenal por dentro. ✅
+  ([wiki](https://sakamoto-days.fandom.com/wiki/Sakamoto%27s_Store) y TV
+  Tropes, «Hidden Supplies»)
+- **El delantal verde** y los **lentes redondos** de Sakamoto. ✅
+- **El logo**: la «O» cambiada por una carita redonda con lentes, que se
+  lee como la cara de Sakamoto en pequeño. ✅
+- **JAA** y sus agencias (la única con nombre: **Dondenkai Ltd**). ✅
+- **The Order** (オーダー): los 8-10 asesinos más fuertes; su líder es
+  Oki. Leyenda urbana hasta para otros asesinos
+  ([wiki](https://sakamoto-days.fandom.com/wiki/Order)). ✅
+- **La organización de X / Slur** (Kei Uzuki), formada por huérfanos del
+  **orfanato Al-Kamar**
+  ([wiki](https://sakamoto-days.fandom.com/wiki/X%27s_Organization)). ✅
+- **JCC** (Japan Clear Creation): la academia de asesinos, en una isla;
+  unos 1000 alumnos, 35 profesores, 4 años y **sólo 10 % se gradúa**
+  ([wiki](https://sakamoto-days.fandom.com/wiki/Japan_Clear_Creation)). ✅
+- **La regla nº1**: «no matar». Todo el humor de acción nace de vencer sin
+  romperla.
+- **La transformación**: gordo en el presente, delgado tras un gran
+  esfuerzo, gordo otra vez en dos días. Es el gag de la portada del tomo 1.
+- **El kairanban** (回覧板) de la tienda, en las fichas: el tablón de
+  avisos del barrio (§7.4).
+- **Palabras que un fan reconoce**: «prime» (el Sakamoto delgado),
+  «Satsuren» (la JAA), «la Order», «Slur», «JCC», «Sakamoto Shōten».
+
+---

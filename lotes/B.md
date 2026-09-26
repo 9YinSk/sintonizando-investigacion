@@ -86,3 +86,4 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 | 10 | redactor (repaso) | Opus | 16 | 340 mil |
 | 11 | video | Sonnet | 21 | 233 mil |
 | 12 | texto | Sonnet | 13 | 176 mil |
+| 18 | voz (seguir) | Sonnet | 15 | 164 k |

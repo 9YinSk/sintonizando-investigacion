@@ -115,5 +115,59 @@
     "que_es": "Escena doblada al latino donde L seca los pies de Light (ep. 25, la del «寂しいですね»).",
     "para_que": "Punto 13: fotograma/escena de la tristeza de L, con audio latino.",
     "licencia": "Recorte de fan del doblaje oficial; sólo como referencia."
+  },
+  {
+    "url": "https://archive.org/download/DeathNoteTV/02%20-%20Confrontation.mp4?t=984",
+    "fuente": "Internet Archive (DeathNoteTV, ep. 2 «Confrontation»)",
+    "ancho": 960,
+    "alto": 540,
+    "que_es": "Fotograma sacado con fotogramas.py: Light en primer plano de perfil, ceño hundido, mirada fija a la pantalla de su portátil.",
+    "para_que": "Punto 13: fotograma de la rabia de Light (00:16:24), minuto ya confirmado por la biblia.",
+    "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+  },
+  {
+    "url": "https://archive.org/download/DeathNoteTV/37%20-%20New%20World.mp4?t=958",
+    "fuente": "Internet Archive (DeathNoteTV, ep. 37 «New World»)",
+    "ancho": 960,
+    "alto": 540,
+    "que_es": "Fotograma sacado con fotogramas.py: primerísimo plano de Light herido, sangre en la mejilla, ojo muy abierto.",
+    "para_que": "Punto 13: fotograma del miedo/pánico final de Light; minuto corregido de ≈00:18:30 a 00:15:58 tras ver que ese minuto anotado ya mostraba a Ryuk sobre la torre, no a Light.",
+    "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+  },
+  {
+    "url": "https://archive.org/download/DeathNoteTV/15%20-%20Wager.mp4?t=484",
+    "fuente": "Internet Archive (DeathNoteTV, ep. 15 «Wager»)",
+    "ancho": 960,
+    "alto": 540,
+    "que_es": "Fotograma sacado con fotogramas.py: L en cuclillas sobre el respaldo de un banco, descalzo, teléfono en la mano, Light de pie junto a él.",
+    "para_que": "Punto 13: fotograma de la manía/concentración de L; minuto corregido de 00:09:07 a 00:08:04 (un minuto antes en la misma escena de banco).",
+    "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+  },
+  {
+    "url": "https://archive.org/download/DeathNoteTV/01%20-%20Rebirth.mp4?t=1049",
+    "fuente": "Internet Archive (DeathNoteTV, ep. 1 «Rebirth»)",
+    "ancho": 960,
+    "alto": 540,
+    "que_es": "Fotograma sacado con fotogramas.py: primerísimo plano de la cara de Ryuk sonriendo de oreja a oreja, ojos muy abiertos, pupilas rojas.",
+    "para_que": "Punto 13: fotograma de la alegría de Ryuk; minuto corregido de 00:16:12 a 00:17:29 (el minuto anotado mostraba a Light, no a Ryuk).",
+    "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+  },
+  {
+    "url": "https://archive.org/download/DeathNoteTV/16%20-%20Decision.mp4?t=1258",
+    "fuente": "Internet Archive (DeathNoteTV, ep. 16 «Decision»)",
+    "ancho": 960,
+    "alto": 540,
+    "que_es": "Fotograma sacado con fotogramas.py: Misa inmovilizada con correas contra un panel blanco, con antifaz, coletas colgando.",
+    "para_que": "Punto 13: fotograma del miedo de Misa; minuto corregido de 00:03:21 a 00:20:58 (el minuto anotado era una escena de L con Matsuda y otro agente, no la de Misa atada).",
+    "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
+  },
+  {
+    "url": "https://archive.org/download/DeathNoteTV/27%20-%20Abduction.mp4?t=121",
+    "fuente": "Internet Archive (DeathNoteTV, ep. 27 «Abduction»)",
+    "ancho": 960,
+    "alto": 540,
+    "que_es": "Fotograma sacado con fotogramas.py: Near en cuclillas sobre una alfombra, mangas remangadas, brazos a media altura, jugando en el suelo.",
+    "para_que": "Punto 13: fotograma de la calma de Near (00:02:01), minuto ya confirmado por la biblia.",
+    "licencia": "Serie de TV © Ohba/Obata/Shueisha/Madhouse/VAP/NTV; subida de archivo, sólo referencia interna."
   }
 ]

@@ -592,3 +592,237 @@ De los «Datos de interés» de [Doblaje Wiki](https://doblaje.fandom.com/es/wik
 Para un canal de doblaje: los **guiños locales son parte de la voz latina**
 de la serie. Una lámina o un reto puede usarlos, con medida.
 
+## Punto 9 · Música y sonido del gag
+
+Openings, endings, compositor (**Kei Haneoka**) y el sello sonoro general
+están en la biblia 43, punto 9. Lo nuevo:
+
+- **Opening y ending del ep. 2**: los mismos de la T1, «Love Dramatic feat.
+  Rikka Ihara» (Masayuki Suzuki) y «Sentimental Crisis» (halca), vistos
+  completos de nuevo (opening hacia 0:56-2:16) ✅. Segunda fuente propia:
+  [Wikipedia, temporada 1](https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War_season_1)
+  (director, A-1 Pictures, Kei Haneoka, emisión 12-ene a 30-mar-2019) y
+  [MusicBrainz](https://musicbrainz.org/release-group/20231932-89cd-4306-93d8-5987ab273576)
+  (single de halca, SACRA MUSIC, 20-feb-2019) ✅.
+- **El ending cambia de animación en cada episodio**, aunque la canción no:
+  en el ep. 2, constelaciones (22:42) y un aeroplano antiguo (23:40) ✅
+  (visto por vídeo y por el redactor).
+- **El gag sonoro**: música **falsamente épica** bajo hechos triviales. En el
+  ep. 2, la cartela «生徒会長» (3:44) suena con **fanfarria de trompetas y
+  platillos** de entrega de premios ✅ (oído por la parte de vídeo).
+- A 20:00-20:08 suena un **efecto corto de campanilla metálica**, sin
+  música ⚠️ (un solo visionado; la parte de vídeo lo ligó a una «trampa»,
+  pero el rótulo es el temblor «ワナワナ», §3).
+- **Pistas de la banda sonora** («KAGUYA Music Collection Season 1»):
+  «恋愛は戦» (el amor es guerra), «私立秀知院学園» (tema del instituto),
+  «二人の思考» (el pensamiento de los dos), «突然の窮地» (apuro repentino),
+  «カオス理論» (teoría del caos) ⚠️ (una fuente agregada; Last.fm bloqueado).
+- **Onomatopeyas que se ven**: «ハッ» (darse cuenta) y «ワナワナ» (temblar),
+  punto 6.
+
+## Punto 10 · Vídeos, tráileres y tendencias
+
+Los tráileres vistos y el ensayo están en la biblia 43, punto 10. Lo nuevo:
+
+- **Episodio 2 completo**, visto dos veces (vídeo y redactor): el punto 2
+  entero ✅ ([Internet Archive](https://archive.org/details/kaguya-sama_202403)).
+- **Tráiler oficial en YouTube** que enlaza AniList:
+  [IwpJJiQkZzI](https://www.youtube.com/watch?v=IwpJJiQkZzI) ✅; la web
+  japonesa [kaguya.love/1st](https://kaguya.love/1st/) y el streaming
+  ([Crunchyroll](https://www.crunchyroll.com/kaguya-sama-love-is-war),
+  [Netflix](https://www.netflix.com/title/81061754),
+  [iQ](https://www.iq.com/album/ofodkfc1h1)) ✅ (AniList).
+- **Tráiler sin voz en off** de la colección de Turner:
+  [turner_video_136312](https://archive.org/details/turner_video_136312) ⚠️
+  (no comparado plano a plano).
+- **Tráileres en Dailymotion** (recolector): el de *Otona e no Kaidan*
+  ([x9vqmls](https://www.dailymotion.com/video/x9vqmls), 1:09), el de la T3
+  en VOSE ([x8bc80m](https://www.dailymotion.com/video/x8bc80m), 1:55), el de
+  la película ([x8f2tz7](https://www.dailymotion.com/video/x8f2tz7), 0:35) y
+  el VO de la 43 ([x88pf8w](https://www.dailymotion.com/video/x88pf8w), 0:30)
+  ⚠️ (sin ver en esta tanda).
+- **Tendencia de TikTok «el narrador»**: clips que recortan sólo las frases
+  del narrador sarcástico, a veces mezcladas con otros audios ✅
+  ([TikTok 1](https://www.tiktok.com/discover/kaguya-love-is-war-narrator),
+  [TikTok 2](https://www.tiktok.com/discover/kaguya-sama-love-is-war-narrator-moments)).
+  En inglés lo dobla Ian Sinclair.
+- **Reacción en español a la película**, de Darkraimola (698 MB):
+  [Internet Archive](https://archive.org/details/kaguya-sama-movie-darkrai)
+  ⚠️ (no vista entera).
+- **Ensayo** «How Kaguya-sama Won the War on Love»: habla del narrador
+  ligado a las cartelas
+  ([Internet Archive](https://archive.org/details/how-kaguya-sama-won-the-war-on-love-the-power-of-premise))
+  ⚠️ (por su descripción).
+- ⚠️ **No se halló un vídeo-ensayo sólo sobre los rótulos** (se buscó en
+  inglés y japonés).
+
+## Punto 11 · Videojuegos e interfaces parodiadas
+
+Los juegos reales (minijuego de navegador de
+[Young Jump](https://youngjump.jp/kaguyasama/zunougame/), la pachislot de
+2025) y el **falso juego de Steam** están en la biblia 43, punto 11. **No
+hay** un videojuego de rol o aventura de la franquicia ✅ (43 y texto).
+- [The Cutting Room Floor](https://tcrf.net) no tiene página de la serie ⚠️
+  (buscado: no hay juego de consola que desmontar).
+- [Wayback Machine](https://web.archive.org) no respondió en el contenedor
+  ⚠️ (no se vio si el minijuego cambió).
+- **Cómo dibuja la serie una interfaz de juego** (para la comedia): una
+  pantalla de invocación tipo *Fate/Grand Order* (ep. 33) y una caja de
+  novela visual con retrato (ep. 36), según TV Tropes ✅. En el ep. 2, la
+  **burbuja de chat** del móvil (7:12) es la interfaz propia vista ✅.
+
+## Punto 12 · Lo que ama el fandom de la comedia, y qué NO hacer
+
+⚠️ La parte de voz se cortó antes de este punto. Lo general (Chika Dance,
+«Justice for Hayasaka», Karen Kino desmayada, IshiHaya, «Ishigod») está en
+la biblia 43, punto 12, con [Know Your Meme](https://knowyourmeme.com/memes/chika-dance).
+Lo que trajeron las otras partes sobre la comedia:
+
+- **El «Cállate, idiota» de Ishigami** (うるせえ、バカ野郎): tan citado que el
+  **Nendoroid** oficial trae esa cara ✅ ([Good Smile](https://www.goodsmile.com/en/product/11986/Nendoroid+Yu+Ishigami)
+  y tiendas oficiales).
+- **Ishigami gritando «ORAORAORAORA! WRYYYYY!»** (*JoJo*) tras ganar un
+  pulso a Chika (ep. 25): el más callado estalla ✅ (TV Tropes).
+- **La escena gemela de *Bakemonogatari*** (ep. 16, T2 ep. 4): tendencia en
+  Twitter en mayo de 2020 ✅ ([Animehunch](https://animehunch.com/internet-is-talking-about-the-monogatari-reference-in-kaguya-sama-love-is-war-season-2-episode-4/)
+  + TV Tropes).
+- **El narrador sarcástico** como formato de TikTok ✅ (punto 10).
+- **Los stickers oficiales con voz**: «お可愛いこと» («qué mona…», la
+  muletilla de Kaguya) y «ドーンだYO!» (el grito de Chika) ✅ (punto 23).
+- **Los guiños del doblaje latino** (punto 8.1).
+
+**Qué NO hacer en una lámina cómica**:
+- No poner a **Ishigami** en el episodio 2: el chico de allí es Tsubasa (§3).
+- No hacer de **Chika** «la tonta»: el autor la dibuja como «la heroína de
+  todos» (punto 7) y es pianista premiada (43).
+- No usar el arte en bañador ni el *doujin* +18 (§2).
+- No meter una **burbuja blanca con cola**: la comedia va en rótulos (6.3).
+- No copiar logos de terceros en las parodias (punto 24).
+- No suavizar el rótulo-epopeya: sin oro y rayos, no hay chiste.
+
+## Punto 13 · Los personajes cómicos a fondo
+
+Los seis principales (historia, qué transmiten, cómo hablan, caras por
+emoción, dinámicas) están en la biblia 43, punto 13. ⚠️ La parte de voz de
+este encargo se cortó; aquí se juntan las fichas de AniList del recolector
+([Kaguya](https://anilist.co/character/120649) y los demás), las voces
+medidas del punto 8 y **las caras cómicas del ep. 2**, con minuto.
+
+### Las caras cómicas del trío, en el episodio 2 (fotogramas propios)
+
+- **Kaguya**: nervios con gota de sudor y fondo de trama azul (6:56);
+  **vergüenza** con ojos en espiral roja y rayas verticales (7:24);
+  **espía** con la mano en la barbilla (16:24), con un solo ojo rojo (17:04)
+  y asomada con sudor (19:20, 20:16); **rabia contenida** con la cara en
+  sombra (20:04); **dulzura** sirviendo el té entre destellos (22:14) ✅.
+- **Shirogane**: serio de «campeón» (3:52); **susto** con la boca abierta
+  (8:00); **terror** teñido de azul (13:04); **rabia** apretando los dientes
+  ante la espiral (14:16); **pánico** en el ojo sudado bajo «備考：童貞»
+  (15:52); **fanfarrón** con las manos juntas y una gota (17:24); **héroe**
+  con el puño y fondo verde (19:56) ✅.
+- **Chika**: **coqueta** con el móvil rosa y corazones (6:48); **susto** con
+  la boca torcida (14:24); **curiosa** con el dedo en el labio y ojos enormes
+  (14:40) ✅.
+
+### Los secundarios del gag
+
+- **Tsubasa Tanuma** (田沼翼, voz latina Diego Becerril): el chico que va al
+  consejo a **pedir consejo de amor** y en el fondo presume su relación
+  ([wiki](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Tsubasa_Tanuma)).
+  Pelo negro corto, gakuran. Caras del ep. 2: **se da cuenta** con «ハッ»
+  (17:20), **tiembla** con «ワナワナ» (20:00), **feliz** con el puño en alto
+  (20:08) ✅. Transmite ingenuidad: el público sabe que el «experto» que le
+  aconseja es virgen.
+- **Nagisa Kashiwagi** (柏木渚, Yaha Lima): compañera de Kaguya que le pide
+  consejo de pareja; novia de Tsubasa. Cumple el 25 de junio, sangre B
+  (AniList). En el ep. 2 sale con **plano de flechazo** y etiqueta de nombre
+  (16:32) ✅. Voz la más aguda y rápida medida (punto 8).
+- **Kei Shirogane** (白銀圭, Amanda Hinojosa): hermana de Miyuki, tesorera
+  del consejo de secundaria. Orgullosa, **ahorra con cupones**, espinosa con
+  su hermano (AniList) ✅. Su muestra suena a **reportera seria**: contraste
+  cómico con Miyuki.
+- **Kobachi Osaragi** (大仏こばち, Jocelyn Robles): amiga de Miko desde hace
+  más de 10 años, del comité de disciplina, con gafas, **de pocas palabras**
+  (AniList y wiki) ✅. Voz la menos expresiva: su humor es seco.
+- **Adolphe Pescarolo** (Raúl Anaya): el francés estricto que examina a
+  Shirogane; voz la más grave, tono solemne ⚠️ (una fuente de reparto).
+- **El padre de Shirogane** (Rafael Pacheco): suelta verdades incómodas con
+  calma («no quiere que la gente note lo incompetente que es») ✅ (audio).
+- **Moeha Fujiwara** (Marisol Hamed ⚠️): hermana pequeña de Chika,
+  vicepresidenta de secundaria, **dice ideas oscuras** que ponen nerviosa a
+  Kaguya (AniList) ✅.
+- **Maki Shijo** (Susana Cohe ⚠️): prima segunda de Kaguya, enamorada en
+  secreto del novio de Nagisa (AniList) ✅.
+- **Karen Kino y Erika Kose** (Club de Medios): narran el spin-off de 4
+  viñetas; Karen se desmaya con el beso (43) ✅.
+
+### Dinámicas para una lámina de grupo cómica
+
+- **Kaguya espía, Shirogane presume**: todo el ep. 2 (16:24 a 20:16).
+- **Chika descoloca a los dos**: el viaje «¿mar o montaña?» lo decide ella
+  (wiki del ep. 2).
+- **Tsubasa y Nagisa**, la pareja «empalagosa» que sirve de excusa.
+- **Ishigami contra Chika**: el pulso y el «ORA ORA» (ep. 25).
+
+## Punto 14 · Poses analizadas del episodio 2
+
+Las 26 poses de los eps. 1 y 3 están en la biblia 43, punto 14. Estas son
+nuevas, **todas vistas por el redactor** (`poses_03.jpg`):
+
+| Personaje | Pose | Minuto | Sirve para |
+|---|---|---|---|
+| Kaguya | Gira la cabeza hacia atrás, mochila naranja, habla con la boca abierta, al aire libre | 10:00 | **Presentar** en acción |
+| Kaguya | Asomada tras la puerta, mano en la barbilla | 16:24 | **Pensar**, espiar |
+| Kaguya | Sólo un ojo rojo tras el marco de la puerta | 17:04 | Sospechar |
+| Kaguya | Primer plano asomada, una gota de sudor | 19:20 | Sorprenderse en silencio |
+| Kaguya | Cabeza baja, cara en sombra | 20:04 | **Regañar** (rabia contenida) |
+| Kaguya | Sirve el té con bandeja, ojos cerrados, destellos | 22:14 | **Celebrar** con dulzura, agradecer |
+| Shirogane | De frente, mirada fija, bajo su título | 3:52 | **Presentar** |
+| Shirogane | Manos entrelazadas, sonrisa ladeada, gota de sudor | 17:24 | **Explicar** con falsa seguridad |
+| Shirogane | Brazos abiertos de par en par en la sala | 17:16 | Explicar a lo grande |
+| Shirogane | Puño a la altura del pecho, fondo verde de héroe | 19:56 | **Animar** |
+| Chika | Móvil rosa en las manos, corazones | 6:48 | **Presentar** con coquetería |
+| Chika | Dedo en el labio, ojos enormes | 14:40 | **Pensar**, preguntar |
+| Chika | Boca torcida, sudor | 14:24 | Sorprenderse (mal) |
+| Tsubasa | Puño en alto, ojos cerrados, sonrisa | 20:08 | **Celebrar** |
+| Tsubasa | Mano en el pecho, «ハッ» | 17:20 | Darse cuenta |
+
+## Punto 15 · Vestuario de broma, con hex
+
+El uniforme icónico, medido sobre las hojas de modelo oficiales (lazo
+`#B43833`, vestido `#342E32`, gakuran `#231A21`, broche `#C7A44C`), está en
+la biblia 43, punto 15. Lo nuevo son las **ropas del gag**:
+
+| Personaje | Prenda | Hex | De dónde |
+|---|---|---|---|
+| Chika | Uniforme de gimnasia: camiseta blanca, cuello azul marino, **cinta blanca con «おに»** y silbato | blanco `#DCDCDC` (con sombra nocturna azulada) | ChikaWhistle.png, medido con Pillow en grande (imagen) ✅ |
+| Kaguya | Ropa de excursión (fantasía del ep. 2): **chaqueta roja** y **mochila naranja** | chaqueta `#881128`, mochila `#E0752A` | ep. 2, 10:00 (redactor y vídeo) ✅ |
+| Kaguya (Moron) | Mismo uniforme; cambian la **cara vacía** y el pelo despeinado | uniforme `#342E32` | Moron Anime.png (imagen) ✅ |
+| Shirogane | Gakuran con la **cadena dorada** de presidente, también bajo el título «生徒会長» | oro del rótulo `#E2C47F` como eco | ep. 2, 3:52 (redactor) ✅ |
+
+- ⚠️ No hay imagen limpia del **traje de criada** del festival para medirlo;
+  las tiendas de disfraces (Miccostumes, CosDaddy, EZCosplay) no dan
+  licencia de imagen.
+- El gag de los **ojos en blanco** (punto 1) funciona como un «disfraz» de
+  cara: cambia al personaje sin cambiarle la ropa.
+
+## Punto 16 · Sitios de la comedia y fondos de pantalla
+
+Shuchi'in, la sala del consejo con su modelo 3D y los fondos de Wallhaven
+de la 43 están en su punto 16. Lo nuevo:
+
+- **Festival cultural** («Dual Confessions Culture Festival Arc», caps.
+  122-137 del manga): puestos, luces, disfraces de clase, la casa del terror
+  «Biotic Hazard» ✅ (wiki, página del arco por su API). ⚠️ Descartado un
+  «café donde trabaja Ishigami»: no lo confirma la wiki.
+- **Festival deportivo** («Sports Festival Arc», caps. 82-90): de aquí es
+  Chika con el silbato y la cinta «おに» ✅ (wiki).
+- **Sendero de montaña** (10:00) y **pasillo a contraluz** (21:44), con
+  paleta en el punto 4 ✅.
+- **Fachada de Shuchi'in** con cielo azul, bajo el marcador corto (15:12) ✅.
+- **Sala del consejo por la tarde** con el marcador largo (22:24): Kaguya
+  de pie junto al sofá verde, Shirogane sentado, lámpara de araña ✅.
+- **Fondos de pantalla**: el grupo de 4 de Wachiroku en 5032×2670
+  ([Wallhaven](https://wallhaven.cc/w/g7dwle)) ✅; el banner oficial de
+  AniList ([banner](https://s4.anilist.co/file/anilistcdn/media/anime/banner/101921-GgvvFhlNhzlF.jpg)) ✅.
+
