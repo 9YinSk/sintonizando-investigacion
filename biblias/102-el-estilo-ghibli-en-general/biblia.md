@@ -232,3 +232,86 @@ Las cuatro japonesas las recomienda un blog de tipografía ([kyoukasho.net](http
 - Letra: **Noto Serif JP** para el cartel, **Jost** para el título.
 - **Nunca** una burbuja blanca. Nunca un panel de interfaz: Ghibli no tiene.
 - Si el personaje «habla», es **una frase corta y real** del doblaje (punto 8) escrita en un objeto que él sostiene o señala.
+
+## 7. Personajes y popularidad
+
+No hay un elenco: el «reparto» del estilo son los personajes de todo el catálogo. Aquí se mide **quién gana en todo Ghibli**. Las fichas de Chihiro, Haku, Sin Cara y Yubaba están en la 98; las de Howl y Sophie en la 99; San y Ashitaka en la 100.
+
+**Cuatro medidas distintas:**
+- **Voto de fans de todo el catálogo** ([ranking.net](https://ranking.net/rankings/best-ghibli-characters), ~83 personajes, al 25-sep-2026): 1.º Haku, 2.º Howl, 3.º Totoro, 4.º Ashitaka, 5.º Jiji, 6.º Nausicaä, 7.º San, 8.º Calcifer, 9.º Lin, 10.º el Barón. Luego Pazu, Kiki (12.º), Shun, el Gatobús (14.º), Sheeta, Chihiro (16.º). ✅ leído en la página. ⚠️ no es oficial.
+- **Encuestas de prensa japonesa** ([Nlab/ITmedia](https://nlab.itmedia.co.jp/research/articles/765102/)): chico favorito 2022, 1.º Ashitaka ✅; heroína favorita 2022, empate Nausicaä y Sheeta ⚠️; heroína 2024, Nausicaä ⚠️; «novio ideal» 2023, Pazu ⚠️ (sólo el título del artículo).
+- **Simeji, Gen Z (10-24 años, 373 respuestas):** Haku, chico favorito de todo Ghibli. ✅ ([CBR](https://www.cbr.com/spirited-away-haku-most-popular-ghibli-boy-gen-z/), [Otaku Mode](https://otakumode.com/news/63849bb12c0bd100288a309f/Top-10-Ghibli-Boys-as-Picked-By-Gen-Z!))
+- **Lo más dibujado** ([Danbooru](https://danbooru.donmai.us/posts?tags=studio_ghibli)): Kiki 1148, San 786, Howl 700, Chihiro 676, Jiji 674, Nausicaä 569, Totoro 490, Haku 459, Sophie 414, Sin Cara 285. ✅
+
+**Lectura:**
+- **El más querido: Haku**, en tres medidas independientes. ✅
+- **La cara del estudio: Totoro.** Es el logo, 3.º en el voto, y su película es la favorita de Japón (punto 21).
+- **La más dibujada: Kiki**, aunque sea 12.ª en el voto. Querer y dibujar no son lo mismo.
+- **Los secundarios que no hablan ganan**: Jiji 5.º, Calcifer 8.º, Gatobús 14.º. Es el caso que avisa ENCARGO.md.
+
+**Tipos de personaje que se repiten** (útil para láminas en grupo):
+- **Heroínas jóvenes, cada una distinta**: valiente, tímida, guerrera, trabajadora. «No hay dos iguales». ✅ ([Fandom](https://www.fandom.com/articles/10-studio-ghibli-heroines-hbo-max), [CBR](https://www.cbr.com/studio-ghibli-best-female-characters/))
+- **Mujeres mayores con poder**, no villanas por ser viejas: Dola, Yubaba y Zeniba, las ancianas de Nausicaä y Mononoke. ⚠️ una fuente.
+- **El compañero que no habla**: Totoro, Jiji, Calcifer, el Gatobús, Sin Cara. Son el corazón emocional. ✅
+
+## 8. Doblaje latino y frases textuales
+
+Todo sale de Doblaje Wiki por su API ([ejemplo](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Mi_vecino_Totoro)). Los tres doblajes de *Chihiro* y sus frases están en la 98.
+
+**El patrón: casi cada película tiene 2 o 3 doblajes latinos.** Primero Argentina o México (Buena Vista) en los 2000; luego un redoblaje mexicano de Zima o Wild Bunch. ✅ (5 películas)
+
+| Película | Doblajes latinos | Dato clave |
+|---|---|---|
+| *El viaje de Chihiro* | 3: Argentina (Videorecord, dir. Guillermo Costa Murta), México Buena Vista (Prime Dubb, dir. Eduardo Giaccardi), México Wild Bunch (Sysdub, dir. Alan Prieto) | ver 98 |
+| *Mi vecino Totoro* | HBO (Audiomaster 3000, dir. Alejandro Mayén) y Zima (Tokio, dir. Juan Alfonso Carralero) | ✅ |
+| *La princesa Mononoke* | Buena Vista y Zima | ✅ |
+| *Ponyo* | Argentina (Ponyo: Lucila Gómez) y Wild Bunch (Ponyo: Denisse Aragón) | ✅ |
+| *El castillo ambulante* | Zima (Howl: Gerardo García) y Wild Bunch (Howl: Alan Prieto); Calcifer: **Noé Velázquez en los dos** | ✅ |
+| *Kiki* | Buena Vista (Kiki: Cristina Hernández, Tombo: Enzo Fortuny) | ✅ |
+| *Se levanta el viento* | uno, México (Jiro: Manuel Campuzano) | ✅ |
+| *Nausicaä* | uno, Zima 2010 (Tokio, dir. Juan Alfonso Carralero). Nausicaä: Mildred Barrera; Yupa: Moisés Palacios; Kushana: Mariana Filio; Asbel: Gabriel Ortiz | ✅ ([ficha](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Nausica%C3%A4:_Guerreros_del_viento)) |
+
+**Actores que repiten en Ghibli:** Lucila Gómez (Chihiro argentina y Ponyo argentina) ✅; Alan Prieto (director de *Chihiro* Wild Bunch y Howl de Wild Bunch) ✅; Noé Velázquez (Calcifer dos veces) ✅; Cristina Hernández (Kiki; 15 trabajos con Enzo Fortuny según [BehindTheVoiceActors](https://www.behindthevoiceactors.com/Cristina-Hernandez/actor-team-ups/)) ✅. ⚠️ La Wikipedia de [Enzo Fortuny](https://es.wikipedia.org/wiki/Enzo_Fortuny_Romero) no cita a Tombo; manda Doblaje Wiki.
+
+**Sin doblaje latino en Netflix** (sólo España): fase 1 *Laputa*, *Porco Rosso*, *Recuerdos del ayer*; fase 2 *Nausicaä*, *Arrietty*, *Haru*, *Kaguya*, *Los Yamada*; fase 3 *Susurros del corazón*, *La colina de las amapolas*, *Marnie*, *Pom Poko* y *Se levanta el viento*. ✅ (tres fichas)
+
+**La cláusula «sin cortes».** En 1985, EE. UU. estrenó *Nausicaä* recortada 20 minutos y mal traducida a propósito: «Warriors of the Wind». En su doblaje mexicano, Nausicaä pasó a llamarse **«Princesa Zandra»** (Rocío Robledo). Desde entonces Ghibli prohíbe por contrato cortar o cambiar sus películas. ✅ ([SlashFilm](https://www.slashfilm.com/786405/the-reason-studio-ghibli-has-a-strict-no-edits-policy/), [cinema.wisc.edu](https://cinema.wisc.edu/2016/09/06/when-nausicaa-became-warriors-wind/), [ScreenRant](https://screenrant.com/nausicaa-worst-dub-anime-history-factoid/)). Con *Mononoke*, Toshio Suzuki le mandó a Weinstein **una katana con la nota «No cuts»**. ⚠️ una fuente.
+
+**Frases textuales del doblaje latino, con minuto** (transcritas con `voz.py`):
+- El papá, *Totoro*, al llegar a la casa: «Esto es todo, chicas. Entonces, ¿cómo te gusta el nuevo lugar?» [0:11](https://www.dailymotion.com/video/x4mls0h?t=11) ✅
+- *Totoro*: «¡Mei, mira eso!» [0:16](https://www.dailymotion.com/video/x4mls0h?t=16) ⚠️ (nombre corregido a oído)
+- Sophie, al verse anciana (doblaje Zima): «Ay, en verdad soy yo.» [0:44](https://www.dailymotion.com/video/x889i5w?t=44) ✅
+- *El castillo ambulante*: «Creo que es brujería.» [0:25](https://www.dailymotion.com/video/x889i5w?t=25) ✅
+- Haku a Chihiro: «…antes de que anochezca, además, este no es lugar para los humanos…» [0:33](https://www.dailymotion.com/video/x4bncvf?t=33) ⚠️ (música de fondo)
+
+**Muestras de Doblaje Wiki, misma escena en dos doblajes:**
+- Howl, Zima (Gerardo García): «Ah, aquí estás. Te estaba buscando. […] Seré tu escolta toda la tarde. No te asustes. […] Estira las piernas y empieza a caminar. ¿Lo ves? No es tan difícil.» ([audio](https://static.wikia.nocookie.net/doblaje/images/e/e8/Howlhowl1.ogg/revision/latest?cb=20200330152228&path-prefix=es)). Grave, 129 Hz, rápido. ✅
+- Howl, Wild Bunch (Alan Prieto): «¿Qué tal? Ahora también te buscan. Por aquí, sujétate. […] No tengas miedo. Lo haces muy bien.» Mismo tono, más lento y más expresivo. ✅
+- San, Buena Vista: «¡No temo a la muerte! ¡Haré lo que sea para sacar a los humanos del bosque! ¡Y no te tengo miedo!» Muy aguda, 323 Hz. ✅
+- San, Zima: «Déjalo, él es mío. […] Te degollaré. Eso te callará. No desperdicio mi tiempo escuchando a los humanos.» 322 Hz, más cortante. ✅
+
+**En Japón, Ghibli elige actores de cine, no seiyū**: las historias son «de la vida real» y un seiyū «parecería fuera de lugar». ✅ ([Anime News Network, 2011](http://www.animenewsnetwork.com/interest/2011-07-19/ghibli-using-fewer-pro-voice-actors-for-lead-roles), [CBR](https://www.cbr.com/princess-mononoke-hayao-miyazaki-voice-actor-type/)). Takuya Kimura fue Howl (2004) y 19 años después Shoichi Maki en *El niño y la garza*. ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Takuya_Kimura))
+
+## 9. Música y sonido
+
+- **Joe Hisaishi** pone la música desde *Nausicaä* (1984), un año antes del estudio, hasta *El niño y la garza* (2023). ✅ ([Qobuz](https://www.qobuz.com/ar-es/magazine/story/2023/07/18/joe-hisaishi-el-alma-de-studio-ghibli/), [Wikipedia ES](https://es.wikipedia.org/wiki/Joe_Hisaishi))
+- Él lo resume: «para Miyazaki, música sinfónica clásica»; «para mí, minimalismo». ⚠️ una fuente.
+- En pantalla: el tráiler de *Kiki* muestra «音楽 久石譲 / Music: Joe Hisaishi» a [1:23](https://www.dailymotion.com/video/x88a5in?t=83) y «主題歌 荒井由実 / Theme Song: Yumi Arai» a [1:20](https://www.dailymotion.com/video/x88a5in?t=80). ✅ visto.
+
+**La canción de cada película** (campo 主題歌 de [ghibli.jp](https://www.ghibli.jp/works/)):
+- *Totoro*: Azumi Inoue, «Sanpo» y «Tonari no Totoro».
+- *Kiki*: Yumi Arai, «Yasashisa ni Tsutsumareta Nara» y «Rouge no Dengon» (suena en la panadería).
+- *Mononoke*: Yoshikazu Mera, contratenor.
+- *El castillo ambulante*: «Sekai no Yakusoku», cantada por Chieko Baisho, la voz de Sophie.
+- *Ponyo*: Fujioka Fujimaki y Nozomi Ohashi.
+- *Se levanta el viento*: Yumi Arai, «Hikōki-gumo» (1973). ✅
+
+**Temas que dan ambiente** (estudio académico, [Panambí](https://revistas.uv.cl/index.php/Panambi/article/view/565)): «Una ciudad con vistas al mar» (*Kiki*), «Un día de verano» (*Chihiro*), «El tiovivo de la vida» (*El castillo ambulante*). ⚠️ sólo el resumen.
+
+**Sonido:**
+- **El viento solo, sin música**, en los vuelos (Kiki, [0:34](https://www.dailymotion.com/video/x88a5in?t=34)). ✅
+- **Comida sin diálogo**, sólo la sartén (Howl). ⚠️
+- **Kazuhiro Wakabayashi**, director de sonido de *Mononoke*, *Chihiro* y *El castillo ambulante*: nunca repite un efecto; para un cajón de la casa de baños fue a grabar una farmacia antigua a un museo de Tokio. ✅ filmografía ([Ghibli Fandom](https://ghibli.fandom.com/wiki/Kazuhiro_Wakabayashi), [Wikipedia JA](https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9E%97%E5%92%8C%E5%BC%98)); ⚠️ las anécdotas.
+- **Efectos de caricatura** sólo en *Laputa*, *Totoro* y *Kiki*: el estornudo de Totoro es «POOF, CARTOON - FOOF» de Sound Ideas; al tocarle la cola, «Anime Squeak Sound 20». ⚠️ ([Sound Effects Wiki](https://soundeffects.fandom.com/wiki/My_Neighbor_Totoro_(1988)))
+- El gruñido-ronroneo del Gatobús: efecto propio, muy imitado. ⚠️
+- **Onomatopeya en un título:** *Pom Poko* imita el tambor de la panza de los tanuki. ⚠️ ([Anime News Network](https://www.animenewsnetwork.com/feature/2018-08-08/isao-takahata-endless-memories/part-v-pom-poko/.135240))
