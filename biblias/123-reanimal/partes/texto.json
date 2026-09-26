@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430060/2ce879b678581a26e0540f892a5e3ac8a3e73573/ss_2ce879b678581a26e0540f892a5e3ac8a3e73573.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la DLC REANIMAL Soundtrack, app 4430060), medida con Pillow",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Carátula del álbum con el logo «REANIMAL» en mayúsculas muy condensadas y remates rectos, rojo sobre negro, y la espiral de la Ballena Espiral",
+    "para_que": "Referencia real de tipografía para el logo/título de la lámina (punto 5) y del símbolo de la ballena espiral (punto 25); base para proponer Anton como letra libre equivalente",
+    "licencia": "Captura oficial de THQ Nordic/Tarsier Studios en Steam; sólo como referencia, no reutilizable comercialmente"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0/ss_7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0.1920x1080.jpg",
+    "fuente": "Steam (captura oficial del juego base, app 2129530), medida con Pillow",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Rótulo de neón rojo «CINEMA» sobre la marquesina del cine del pueblo inundado, tubo redondeado con relleno de bombillas",
+    "para_que": "Referencia real de tipografía y rótulo del mundo del juego (punto 5); base para proponer Monoton/Bungee como letra libre de neón",
+    "licencia": "Captura oficial de THQ Nordic/Tarsier Studios en Steam; sólo como referencia, no reutilizable comercialmente"
+  },
+  {
+    "url": "https://store.steampowered.com/app/2129530/REANIMAL/",
+    "fuente": "Ficha oficial de Steam (app 2129530)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tabla de idiomas (interfaz, voces y subtítulos en 15 idiomas incluidos japonés, coreano, chino tradicional y simplificado, español España y Latam), descripción y categorías",
+    "para_que": "Confirmar idiomas CJK para el punto 5 (letras libres Noto Sans) y datos de doblaje para el investigador de voz (punto 8)",
+    "licencia": "Página oficial de la tienda Steam, contenido con derechos de THQ Nordic"
+  },
+  {
+    "url": "https://reanimal.thqnordic.com",
+    "fuente": "Web oficial de THQ Nordic para Reanimal (HTML/CSS descargado y filtrado)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Declaración CSS de la letra de pago «Fabrikat» (Regular, Italic, Black, BlackItalic) autoalojada en /fonts/fabrikat-*.woff",
+    "para_que": "Confirmar la letra real de la web oficial (punto 5) y proponer Barlow Condensed como letra libre equivalente",
+    "licencia": "Web oficial de THQ Nordic; la fuente Fabrikat es de pago, no reutilizable"
+  },
+  {
+    "url": "https://github.com/google/fonts",
+    "fuente": "Google Fonts (6 familias bajadas y comprobadas con fontTools.ttLib.TTFont.getBestCmap)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anton, Barlow Condensed, Big Shoulders Display, Permanent Marker, Yanone Kaffeesatz y Noto Sans JP: comprobadas con glifos á é í ó ú ñ Ñ ü ¿ ¡ completos (Noto Sans JP además con hiragana/katakana/kanji)",
+    "para_que": "Letras libres recomendadas por uso (logo, web/interfaz, subtítulos, CJK) del punto 5",
+    "licencia": "SIL Open Font License (OFL), libre incluso para uso comercial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/The_Boy",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del personaje The Boy: capucha de saco de arpillera con cordón, sin agujeros de ojos ni boca, y resumen del argumento por capítulos",
+    "para_que": "Confirmar la máscara de identidad fija del Niño para el punto 25 y la estructura de la historia por arcos",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/The_Girl",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del personaje The Girl: máscara blanca de conejo con una oreja rota/torcida, única con algo de cara visible (boca y barbilla)",
+    "para_que": "Confirmar la máscara de identidad fija de la Niña para el punto 25",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/Masks",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de 20+ máscaras coleccionables intercambiables como disfraz (zorro, cordero/mutón, pájaro, gusano, cerdo, cono...), distintas de las máscaras fijas de identidad de los hermanos",
+    "para_que": "Evitar el error de dar el zorro/cordero como máscaras fijas (punto 25) y documentar el DLC Foxhead and Muttonhead Masks (punto 11)",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/Controls",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tabla completa de controles por plataforma (PS5, Xbox Series X/S, Switch 2, teclado): moverse, mechero/linterna, llamar al otro jugador, controles de vehículo",
+    "para_que": "Documentar la interfaz y mandos del videojuego para el punto 11",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/The_Island",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Descripción de la Isla: lugar inundado, en ruinas y en guerra donde crecieron los hermanos, con sus ciudades y pueblos abandonados",
+    "para_que": "Reglas del mundo en cinco líneas del punto 25",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/Coffins",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Coleccionables «Coffins» que muestran los espíritus de los tres amigos y de un conejo; desbloquean un final secreto",
+    "para_que": "Símbolo adicional del mundo para el punto 25",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Reanimal",
+    "fuente": "Wikipedia en inglés (artículo con referencias primarias)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo completo: desarrollo (Unreal Engine 5, cámara compartida, inspiración en It Takes Two/Wind Waker/Silent Hill 2), argumento por capítulos y recepción (Metacritic, OpenCritic)",
+    "para_que": "Base principal de los puntos 18 (estilo y técnica), 24 (obras parecidas) y 25 (historia por arcos)",
+    "licencia": "Texto de Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "url": "https://gamecritics.com/jason-ricci/reanimal-review/",
+    "fuente": "Gamecritics (reseña de Jason Ricci)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña con cita textual sobre subtitulado obligatorio, ausencia de pistas sólo de audio, y descripción de la decadencia visual del mundo",
+    "para_que": "Cita literal para el punto 6 (subtítulos) y descripción de estilo para el punto 18",
+    "licencia": "Artículo periodístico con derechos de Gamecritics; sólo cita corta, no reutilizable entero"
+  },
+  {
+    "url": "https://www.cubed3.com/features/interviews/tarsier-interview",
+    "fuente": "Cubed3 (entrevista a Andreas Johnsson, cofundador de Tarsier Studios)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista sobre la presentación de Reanimal en el Tokyo Game Show y el cariño del público japonés por los juegos del estudio",
+    "para_que": "Confirmar presencia del juego en mercados asiáticos para el punto 24",
+    "licencia": "Artículo periodístico con derechos de Cubed3"
+  },
+  {
+    "url": "https://techraptor.net/gaming/previews/tarsier-studios-reanimal-introduces-tense-and-terrifying-journey",
+    "fuente": "TechRaptor (preview)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cita textual sobre la paleta fría con acentos cálidos puntuales (neón, fuego, faros)",
+    "para_que": "Descripción de paleta para el punto 18 (estilo de dibujo)",
+    "licencia": "Artículo periodístico con derechos de TechRaptor; sólo cita corta"
+  },
+  {
+    "url": "https://www.eurogamer.net/reanimal-review",
+    "fuente": "Eurogamer (reseña, 4/5)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña con nota y cita sobre la artesanía visual y el ambiente del juego",
+    "para_que": "Comparación de prensa para el punto 24",
+    "licencia": "Artículo periodístico con derechos de Eurogamer; sólo cita corta"
+  }
+]
