@@ -3,12 +3,13 @@
 Obra: **Generator Rex** (en Latinoamérica, **Generador Rex**). Serie animada de **Cartoon Network Studios** creada por **Man of Action** (Duncan Rouleau, Joe Casey, Joe Kelly y Steven T. Seagle, los de *Ben 10*). 3 temporadas y 60 episodios, 2010-2013. Nace del cómic *M. Rex* (1999).
 Enfoque del encargo: **nanitos y máquinas**. Personajes de partida: **Rex, Six y Bobo**.
 Escrita por el redactor el 26-sep-2026 con las partes de imagen, vídeo, voz y texto (`partes/`). Lo que no está en las partes lleva ⚠️ o ❌ y se dice.
-**Aviso**: la parte de voz se quedó en el punto 8 (reparto latino). Lo de los puntos 7, 12, 13, 20, 21 y 22 sale de lo que trajeron imagen, vídeo y texto y del recolector (hilos de Reddit). Cada sitio dice qué falta.
+**Cómo se hizo**: primera redacción el 26-sep-2026 (02:58), cuando la parte de voz sólo traía el punto 8. **Segunda pasada el mismo 26-sep** (modo «seguir»): entra la parte de voz completa (puntos 7, 8, 12, 13, 20, 21 y 22) y lo nuevo de la parte de texto (TV Tropes leído, tuit de Rouleau comprobado, Wayback, TCRF). Qué cambió: justo debajo del índice.
 
 Leyenda: ✅ = dos fuentes, o visto o medido · ⚠️ = una fuente, deducido o a medias · ❌ = no hecho.
 
 ## Índice
 
+- Segunda pasada · qué cambió
 - 0 · En una pantalla
 - 1 · Arte oficial
 - 2 · Fotogramas de escenas icónicas
@@ -41,15 +42,36 @@ Leyenda: ✅ = dos fuentes, o visto o medido · ⚠️ = una fuente, deducido o 
 - Cumplimiento del encargo
 - Bitácora
 
+## Segunda pasada · qué cambió
+
+**Lo nuevo** (parte de voz completa y parte de texto ampliada):
+- **§7 Popularidad**: ya no es «no se buscó». No hay encuesta oficial (buscada en inglés y español). TV Tropes señala como favoritos inesperados del fandom a **Breach**, **Gatlocke** y **Jungle Cat**. Dos hilos preguntan por el **personaje latino favorito** (36 y 14 votos, recuentos comprobados).
+- **§8 Doblaje**: **Behind The Voice Actors** confirma fuera de Doblaje Wiki a **Irwin Daayán** (Rex) y **Ulises Maynardo Zavala** (Van Kleiss). Hallazgo: **hay doblaje de España aparte** (BTVA da para Bobo a Juan Amador Pulido, actor español). Reparto secundario completo (Providencia, Los Seis, Consorcio). Cómo dice el doblaje las palabras clave: **«Providencia»**, **«nanites»** y **«E.V.O.»**. César dice **«hermano»**, no «mijo».
+- **§12**: lo que ama el fandom según TV Tropes (Ho Yay, *shipping* Rex/Breach, apodos «Sleevespace» y «Omega Rex») y 5 reglas nuevas de qué NO hacer (Six casi nunca sin gafas, Bobo sin puro, no «mijo», no mezclar doblajes).
+- **§13**: carácter, miedos, forma de hablar y dinámicas de Rex, Six, Bobo, Holiday, Noah, César, Van Kleiss, Breach y el Caballero Blanco. Dos caras de Rex con minuto.
+- **§20**: pasa de ❌ a ⚠️, con tabla de gustos, odios y aficiones de 7 personajes (una wiki).
+- **§21**: escenas que hacen llorar según TV Tropes («Six Minus Six», la despedida de Breach, «Assault on Abysus», «…Everything but me» del Caballero Blanco).
+- **§22**: fandubs buscados en YouTube, Dailymotion y The Dubbing Database: **no hay**. La comunidad hispana **conserva** el doblaje viejo y hace memes (TikTok, Memedroid).
+- **§5, §11, §24, §25** (parte de texto): licencia OFL de Black Ops One confirmada por la API de Fontsource; TCRF sigue bloqueado; Wayback sin capturas del sitio de Cartoon Network; no hay juego en Steam; TV Tropes leído; el tuit de Rouleau «Everything in the game falls under canon» (9-may-2024) **leído en X**, pasa a ✅.
+
+**Corregido** (antes → ahora):
+- §7 «César es el hermano mayor, de memoria» → confirmado por la wiki (ficha de César) ⚠️ una fuente.
+- §8 «no se sabe cómo dice el doblaje Providence o nanites» → «Providencia», «nanites» y «E.V.O.» en la sinopsis de Doblaje Wiki ⚠️ (texto escrito, no oído).
+- §17 «términos tal cual hasta oír el doblaje: nanitos, Providence» → en textos en voz latina, **Providencia** y **nanites**.
+- La parte de voz dio como «frases del doblaje latino» las del tráiler de Dailymotion `x84bg5o`. **El redactor lo corrige**: ese vídeo es el **tráiler del videojuego** *Agent of Providence* y lo subió **3djuegos, una web de España**; «Generator Rex, agente de Providence» es el título del juego. No sirve como muestra del doblaje latino de la serie (ver «Correcciones del redactor»).
+- Se descarta la lista de Danbooru del recolector (personajes de otras series), como ya decía la primera pasada.
+
+**Los ⚠️**: 105 antes de esta pasada. Los que quedan se cuentan en «Cumplimiento del encargo». Siguen sin haber **frases latinas textuales oídas de la serie** ni caras por emoción con minuto para Six y Bobo.
+
 ## 0 · En una pantalla
 
 - **Qué es**: hace seis años, el **Nanite Event** («el Evento») soltó **nanitos** que infectaron a todo ser vivo. Cuando se activan, convierten a la persona en un **EVO**: un monstruo, casi siempre sin mente. **Rex Salazar** es amnésico y el único que manda sobre sus nanitos: saca **máquinas de su cuerpo** (los *builds*: puños gigantes, espada, moto, mochila cohete) y **cura** a otros EVOs. Trabaja para **Providence**, la fuerza privada que los contiene, con **Agente Seis** (traje verde, gafas oscuras, dos katanas) y **Bobo Haha** (chimpancé EVO que habla, con fez y parche). El villano de siempre es **Van Kleiss**, en su castillo de **Abysus** ([wiki, Nanite Event](https://generatorrex.fandom.com/wiki/Nanite_Event); [Providence](https://generatorrex.fandom.com/wiki/Providence)) ✅.
 - **El tono**: acción adolescente con humor. Wikipedia la clasifica como animación americana **con influencia anime** y como **nanopunk** ([en.wikipedia.org](https://en.wikipedia.org/wiki/Generator_Rex)) ✅. Color plano, línea gruesa, sin grano.
 - **La paleta**, medida: chamarra de Rex `#A04D47`, camiseta `#394B45`, traje de Six `#3F4C43`, camisa de Bobo `#838370`, base de Providence `#0B0909` / `#E9F9FA` / `#A9CCD9`, patio cálido del juego `#C89A88`, ciudad de noche `#28313D` (§4, §15).
 - **Las máquinas**: las clásicas son **naranja y gris con remaches** (hoja `maquinas_01`, nº 97-105); las versiones mejoradas («Upgrade») son **negras con líneas verde lima que brillan** (nº 106-108; en qué temporada cambian no está en las partes ⚠️). Los **nanitos** se dibujan como **esferas con pinchos, azul brillante** (hoja nº 37 y nº 71).
-- **El más querido**: no hay encuesta oficial en las partes (⚠️ no se buscó). Todo el fan art hallado es de **Rex**. En r/generatorrex lo más votado es el **cruce con Ben 10** (379 y 146 votos). **Six** tiene montajes de fans sobre su relación con Rex. Propuesta: Rex al frente, Six o Bobo al lado.
+- **El más querido**: no hay encuesta oficial (buscada en inglés y español, ⚠️ ausencia). Todo el fan art hallado es de **Rex**. En r/generatorrex lo más votado es el **cruce con Ben 10** (379 y 146 votos). **Six** tiene montajes de fans sobre su relación con Rex. [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/GeneratorRex) llama favoritos inesperados del fandom a **Breach**, **Gatlocke** y **Jungle Cat** ⚠️. Para un servidor hispano pesa que Rex y César son **latinos** (hilos del «personaje latino favorito», 36 y 14 votos). Propuesta: Rex al frente, Six o Bobo al lado.
 - **El cuadro de diálogo propio**: la serie **no tiene globos** (se habla). Hay dos soportes reales: el **panel azul-gris con borde cian y retrato a la izquierda** del sitio oficial, dentro de un **chasis con dientes de engranaje**, y los **globos de cómic** del *Cartoon Network Action Pack* (DC Comics). Letras: **Black Ops One** (título), **Comic Neue** (globo), **Bangers** (grito), **Audiowide** (interfaz), **Oswald** y **Special Elite** (papeles de Providence). Todas con ñ, tildes, ¿ y ¡.
-- **Voz**: sí hay **doblaje latino**, de **Sensaciones Sónicas** (México). Rex es **Irwin Daayán**; Six, **Roberto Mendiola**; Bobo, **Gabriel Pingarrón**. No hay frases latinas textuales en las partes (⚠️).
+- **Voz**: sí hay **doblaje latino**, de **Sensaciones Sónicas** (México). Rex es **Irwin Daayán** (✅ Doblaje Wiki y Behind The Voice Actors); Six, **Roberto Mendiola**; Bobo, **Gabriel Pingarrón**. Hay además un doblaje de España distinto: no mezclarlos. El doblaje dice **«Providencia»**, **«nanites»** y **«E.V.O.»**; César llama a Rex **«hermano»**. Frases latinas oídas de la serie: ninguna todavía (⚠️).
 - **Canal propuesto** (el encargo no trae canal): A **#hardware** «El banco de builds» (recomendada), B **#destacados** «El Decreto de Encomio», C **#memes** «Bobo y el cómic». Las biblias son generales: el canal es sólo una idea.
 
 ## 1 · Arte oficial
@@ -183,7 +205,7 @@ Es una caricatura occidental: **en la serie no hay globos**. Los diálogos se oy
 
 ## 7 · Personajes y popularidad
 
-⚠️ La parte de voz no llegó a este punto. Esto junta lo que trajeron las otras partes, el reparto de Doblaje Wiki y los nombres de archivo de la wiki (dicen quién sale con quién).
+Junta la parte de voz (segunda pasada), las otras partes, el reparto de Doblaje Wiki y los nombres de archivo de la wiki (dicen quién sale con quién). El carácter de cada uno, a fondo, en §13.
 
 **Principales**
 - **Rex Salazar**: el protagonista. Amnésico, saca máquinas de su cuerpo y cura EVOs. Piel morena, pelo negro hacia atrás en punta, ojos cafés, chamarra roja, goggles naranjas sobre la cabeza.
@@ -191,7 +213,7 @@ Es una caricatura occidental: **en la serie no hay globos**. Los diálogos se oy
 - **Bobo Haha**: **chimpancé EVO** que habla (la ficha dice *Chimpanzee EVO*, no «mono»). Fez, parche, **dos pistolas láser**. El alivio cómico: gira balones, levanta el pulgar, lee cómics.
 - **Dra. Rebecca Holiday**: la científica de Providence. Sale examinando a Breach (nº 92) y peleando (nº 91). Rex coquetea con ella (nº 43, «Rex flirts with Dr. Holiday»).
 - **Noah Nixon**: el amigo «normal» de Rex, sin poderes (nº 77 «101-Rex and Noah», sentados en un muro con grafitis; nº 95 «Noah and Rex double date»). En un episodio se vuelve EVO (nº 89).
-- **César Salazar**: sale en la 2.ª y 3.ª temporada (Doblaje Wiki). Que es el hermano mayor de Rex no está en las partes ⚠️ (de memoria).
+- **César Salazar**: el **hermano mayor** de Rex, científico despistado; sale en la 2.ª y 3.ª temporada ([wiki, César](https://generatorrex.fandom.com/wiki/Caesar_Salazar) y Doblaje Wiki) ⚠️ una fuente para el parentesco.
 
 **Providence**
 - **Caballero Blanco** (White Knight): el jefe, abrigo blanco largo, cuello alto negro. Habla por pantalla (nº 110). Tiene traje de combate (nº 109).
@@ -203,11 +225,19 @@ Es una caricatura occidental: **en la serie no hay globos**. Los diálogos se oy
 - **La manada de Van Kleiss** (*the Pack*): **Circe** (la chica que se hace amiga de Rex y luego deja a su banda, nº 59, nº 63, nº 69), **Breach** (abre portales, nº 53), **Bio-Lobo** y **Skalamandra**.
 - **Hunter Caín**: cazarrecompensas, con tema propio. **Quarry**: lo dobla Mark Hamill en la serie.
 
-**Popularidad** (⚠️ no hay encuesta oficial en las partes; no se buscó en japonés ni en revistas):
+**Popularidad**:
+- **No hay encuesta oficial** de Cartoon Network con resultados públicos. Buscada en inglés y español («character popularity poll», «favorite character survey») ⚠️ ausencia, no dato. No se buscó en revistas.
+- **Favoritos inesperados** (*Ensemble Dark Horse*) según [TV Tropes, YMMV](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/GeneratorRex) ⚠️ una fuente:
+  - **Breach**, llamada así sin rodeos, con la broma de que «nunca muere de verdad»;
+  - **Gatlocke**, por lo *cool* de su locura y su rivalidad coqueta con Rex;
+  - **Jungle Cat** (Nightshadow): muere en su primer episodio y aun así tuvo seguidores; su regreso se celebró.
+- **Villanos queridos**: Van Kleiss, el Caballero Negro y Jungle Cat salen como «villanos magníficos» (manipulan a todos) en la misma página ⚠️.
 - En [r/generatorrex](https://www.reddit.com/r/generatorrex) lo más votado es el **cruce con Ben 10**: [«This Iconic CN Crossover Is Forever Phenomenal»](https://www.reddit.com/r/generatorrex/comments/1h0nihy/this_iconic_cn_crossover_is_forever_phenomenal/) (379 votos) y [«Name a more iconic crossover»](https://www.reddit.com/r/generatorrex/comments/1ian7gg/name_a_more_iconic_crossover_go_on_ill_wait/) (146).
-- Hilos de «personaje favorito» con pocos votos: [general](https://www.reddit.com/r/generatorrex/comments/ps2rq0/hey_everyone_which_is_your_favorite_character_in/) (15), [«tu personaje latino favorito»](https://www.reddit.com/r/generatorrex/comments/1md66jb/who_was_your_favorite_latino_character_here/) (36) y [otro igual](https://www.reddit.com/r/generatorrex/comments/14bux7c/whos_your_favorite_hispaniclatino_character/) (14). Sólo se leyeron los títulos, no los comentarios ⚠️.
+- Hilos de «personaje favorito»: [general](https://www.reddit.com/r/generatorrex/comments/ps2rq0/hey_everyone_which_is_your_favorite_character_in/) (15), [«tu personaje latino favorito»](https://www.reddit.com/r/generatorrex/comments/1md66jb/who_was_your_favorite_latino_character_here/) (36 votos, 7 comentarios) y [otro igual](https://www.reddit.com/r/generatorrex/comments/14bux7c/whos_your_favorite_hispaniclatino_character/) (14 votos, 8 comentarios) ✅ recuentos comprobados en la página. Que se pregunte por el **latino** favorito dice que hay varios latinos memorables (Rex y César). Los comentarios no se leyeron ⚠️.
+- **«Noah is my favorite female character»** (4 votos): así se titula el hilo; Noah es un chico. Puede ser un chiste o una confusión; el cuerpo no se leyó ⚠️.
+- **Danbooru no sirve**: la lista de «más dibujados» del recolector es de otras series (Raven, Starfire, Marceline…), no de esta.
 - **Fan art**: todo lo hallado con la etiqueta de la serie es de **Rex** (8 dibujos útiles). Six sale en montajes de vídeo de fans sobre su relación con Rex.
-- **Conclusión**: Rex es la cara de la serie. Entre los secundarios, **Six** y **Bobo** son los que el encargo nombra y los que salen con Rex en el opening. Falta un dato que diga cuál quiere más la gente ⚠️.
+- **Conclusión**: Rex es la cara de la serie. Entre los secundarios, **Six** y **Bobo** son los que el encargo nombra y los que salen con Rex en el opening. Entre los fans veteranos, **Breach** es la favorita inesperada (TV Tropes). Sin encuesta, no hay un número que lo cierre ⚠️.
 
 ## 8 · Doblaje latino
 

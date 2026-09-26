@@ -496,6 +496,7 @@ Muestreo de JPG, margen ±10 por canal.
 | Lila de Viktor (T2) | `#CC84FC` · `#E484FC` | `Viktor_24` | Viktor final ⚠️ |
 | Negro de Zaun | `#202026` · `#141416` | `Jinx_37`, `Vi_48` | Sombras (nunca `#000`) |
 | **Oro de los escudos** (sin luz de escena) | `#C7A965` | `Piltover_Crest.png` y `Zaun_Crest.png`, por píxel | Sellos, grabados, placas |
+| **Shimmer** (el líquido del vial de Silco) | `#A415F2` | `Silco_Arcane_Shimmer.webp`, media de 4 puntos (§16) | El brillo morado de Zaun: frascos, venas, luz de un laboratorio clandestino |
 
 **Medidos en fotogramas de los episodios** (segunda pasada). Es el
 color medio del fotograma entero (Pillow, `ImageStat`), no un píxel:
@@ -1177,7 +1178,8 @@ es más de Arcane que un globo. Cómo es exactamente: ⚠️ no vi capturas.
 | **Ekko** | Bufanda naranja, pelo blanco en rastas cortas | Naranja `#773019` | ✅ avatar |
 | **Jinx T2** (2×04, fotograma) | Top negro con lazada en X, gargantilla, guantes sin dedos | Pelo `#133650` / `#0B2946` | ✅ medido en el fotograma de 6:10 (§5.2) |
 | **Vi T1** (1×08, fotograma) | Chaqueta roja, vendas hasta el codo, tatuajes en los brazos, aro en la nariz | Pelo `#491A26` | ✅ medido en el fotograma de 13:40 |
-| **Silco** | Camisa **granate**, chaleco negro y rojo morado con detalles dorados, corbata blanca; jeringa de Shimmer | Sin hex fiable: las imágenes abiertas llevan luz verde o nocturna ⚠️ | ✅ la ropa ([Arcane Wiki](https://arcane.fandom.com/wiki/Silco#Appearance)) |
+| **Silco** | Camisa **granate**, chaleco negro y rojo morado con detalles dorados, corbata blanca; jeringa de Shimmer | Granate del cuello `#2C0A10`; ribete dorado `#6C6A44` (media de más de 4000 píxeles del filo) | ✅ medido por píxel en [un fotograma de 1×07](https://static.wikia.nocookie.net/arcane/images/7/78/Silco_Season_1_Episode_7_001.png/revision/latest?cb=20211206020114) (1920×814, interior bien iluminado); la ropa, en [Arcane Wiki](https://arcane.fandom.com/wiki/Silco#Appearance) |
+| **Silco** (objeto) | El **vial de Shimmer**: líquido morado que brilla | `#A415F2` (media de 4 puntos, la zona más saturada) | ✅ medido en [`Silco_Arcane_Shimmer.webp`](https://static.wikia.nocookie.net/arcane/images/b/be/Silco_Arcane_Shimmer.webp/revision/latest?cb=20241127100448) (1920×816) |
 | **Emblemas de Piltóver y Zaun** | El oro de los dos escudos | `#C7A965` | ✅ medido por píxel (§3.3) |
 
 **Lo «icónico» que todos reconocen**: las **trenzas azules** de Jinx, la
@@ -1858,7 +1860,8 @@ comprobé cómo es su tablero en la serie.
 en Internet Archive, §2, §8, §15), los fotogramas, Jayce en latino
 (Miguel de León) y Heimerdinger, Vander, Mel y Marcus, las licencias de
 Sketchfab, Arcane Nine (libre, con tildes) y Piltover x Zaun (de pago),
-Beaufort y Spiegel.
+Beaufort y Spiegel. En el cierre: **el color de Silco** (granate `#2C0A10`,
+ribete `#6C6A44`, Shimmer `#A415F2`, §16).
 
 **Sigue sin verificar** ⚠️:
 - **Qué pinta Jinx** en el laboratorio (1×04) y dónde: 1×04 mirado
@@ -1884,6 +1887,55 @@ Beaufort y Spiegel.
   investigador leyó «Silco» y «Vander joven»; por el orden del episodio
   pueden ser otra cosa (§2.3).
 - Títulos de los episodios en español latino: mejor usar los ingleses.
+---
+
+## Cumplimiento del encargo
+
+Estado de cada punto de `ENCARGO.md` al cerrar la segunda pasada
+(26-sep-2026). ✅ hecho · ⚠️ a medias, con el porqué · ❌ no hecho.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Splash arts «Arcane», material de RiotX, carteles T1 y T2 (Vi con la diana de Jinx en la espalda), key visuals, libro de arte y arte de Fortiche (§3). 268 imágenes de la wiki en 6 hojas; 3 en `hojas/`, con hojas de modelo oficiales (§3.7). Poses vivas: la gema en la mano, el discurso, Jinx apuntando |
+| 2 · Fotogramas con capítulo y minuto | ✅ | La T1 de Internet Archive (1080p) y el 2×04, mirados con `fotogramas.py`: escenas de 1×03, 1×04, 1×05, 1×06, 1×08 y 2×04 con minuto (§2). Dos fotogramas de 1×03 con identidad dudosa ⚠️ (§2.3) |
+| 3 · Fan art y 3D con licencia | ✅ | Modelos de Sketchfab con licencia y autor leídos por la API (CC BY; el guantelete de potias es CC BY-NC-ND, sólo mirar), Poly Haven CC0, fan art del grafiti con autor (§4) |
+| 4 · Fondos, luz, paleta y texturas | ✅ | Hex medidos en splash arts y en 8 fotogramas propios (§5.2); texturas reales CC0 de ambientCG y Poly Haven (§5.3) |
+| 5 · Tipografía, una letra por uso | ✅ | Logo rotulado a mano; Beaufort y Spiegel (de pago) con sustitutos libres Cinzel y Barlow; una letra libre para cada uso (grafiti, notas de plano, placas, interfaz, cartelas, créditos), comprobadas con fontTools (§6.2). Arcane no tiene globos: grito y pensamiento van como grafiti y garabato. La letra exacta de las cartelas de acto, sin nombre ⚠️ |
+| 6 · Cómo hablan en pantalla | ✅ | No hay globos: el texto va en objetos del mundo (espray de Jinx, garabatos neón, planos, mural, cartelas) y cómo pasarlo a una lámina fija (§7.1-7.5) |
+| 7 · Personajes y encuestas | ⚠️ | Jinx la más querida en Reddit, VainKeurz, China y Danbooru; Jayvik y Caitvi en AO3 (§9). **No hay encuesta oficial** de Riot ni de Netflix (buscada); la de IMDb pide sesión; en Corea no hay encuesta de personajes (buscada en coreano) |
+| 8 · Doblaje latino, dos fuentes | ⚠️ | Reparto verificado en Doblaje Wiki (API) y una segunda fuente (Desde La Cuna, Bolavip, Rock&Pop); Jayce corregido (§10.1). Las **frases textuales** son pocas y de una sola fuente; «You're perfect» en latino no se encontró; estudio y director con una fuente |
+| 9 · Música y sonido | ⚠️ | Opening, singles de las dos temporadas y «Paint the Town Blue» en 2×04 (§11). **Qué suena en las muertes** de Vander, Silco e Isha: sin comprobar (se miraron fotogramas sin sonido) |
+| 10 · Vídeos con minuto | ✅ | «Enemy» entero (Internet Archive), teaser de 2019 (Dailymotion), tráiler T1, créditos y la tendencia de Reddit, con minuto (§12). Tráiler de la T2 sin minuto propio ⚠️ |
+| 11 · Videojuegos: interfaz y cajas | ⚠️ | LoL, *Path of Champions* («cómics animados con voces», confirmado), *2XKO*, Fortnite y PUBG Mobile (§13, §18b.6). **La caja de diálogo no se vio en ninguno**: YouTube pidió sesión y no hay el tráiler en otro sitio |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Memes, apodos del doblaje, parejas y la lista de errores que un fan notaría (§14) |
+| 13 · Carácter, forma de hablar, cara por emoción | ✅ | Los 7 principales y secundarios (§8); **19 caras por emoción con fotograma propio y `?t=`**; dinámicas para láminas en grupo. Huecos sueltos: miedo y vergüenza de Viktor, alegría de Caitlyn y Ekko ⚠️ |
+| 14 · Poses con minuto | ✅ | Por personaje, con imagen o minuto y para qué sirve (presentar, explicar, celebrar, regañar) (§15), más las poses miradas en 1×03-1×06 |
+| 15 · Vestuario con hex | ✅ | Por temporada, con hex medidos; Silco medido en el cierre (§16) |
+| 16 · Ciudades y fondos de pantalla | ✅ | Sitios con su luz (§17.1); fondos oficiales y de fans con tamaño (§17.2). Algún autor de Wallhaven sin identificar ⚠️ |
+| 17 · Guía para IA | ✅ | IA de imagen: estilo, rasgos fijos, paleta, línea, luz, palabras que ayudan y que estropean, referencias (§18.1-18.5). IA de texto: reglas de voz y **14 frases reales por emoción** (§18.6) |
+| 18 · Técnica y cómo replicarla | ✅ | Maya + pintura en Photoshop proyectada + Nuke + After Effects; línea temblorosa a mano; efectos a 12 fps sobre 3D a 24 (RedShark, SyncSketch, 80.lv); encuadre por emoción; guía de Photoshop y Blender (nuestra ⚠️) (§18b.1) |
+| 19 · Texturas 2D | ✅ | Escudos PNG transparentes, papel, metal, tela y cuero CC0, pinceles libres y tramas, con licencia (§18b.2) |
+| 20 · Gustos y detalles | ⚠️ | Gustos, odios, aficiones, altura y objeto de cada uno (§18b.3). **No hay *databook***: sin cumpleaños ni comida favorita (comprobado). Las alturas no coinciden entre fuentes |
+| 21 · Por qué la aman, escenas que hacen llorar | ⚠️ | 100 % en Rotten Tomatoes, dos Emmy, cifras de Netflix, Parrot Analytics (§18b.4). Las escenas que hacen llorar están con episodio; **con minuto sólo la de 1×03**; la música de las muertes, sin comprobar |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 5 covers de «Enemy» en español, comparaciones latino-castellano en TikTok, demos de *casting* (§18b.5). **Sin vistas** (YouTube dio 429); memes hispanos sin enlace concreto; no hay fandub largo de escena |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Fortnite, PUBG Mobile, Magic, tokidoki, sudaderas, Nendoroid, Youtooz, Funko, pop-ups de RiotX y concurso de cosplay (§18b.6). Fecha de los Funko ⚠️ |
+| 24 · Obras parecidas | ✅ | Castlevania, Spider-Verse, los vídeos previos de Fortiche; láminas vecinas del servidor (§18b.7) |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas en cinco líneas, historia por arcos, emblemas verificados por la API y vocabulario (§18b.8) |
+| 3 conceptos de lámina | ✅ | Mesa de dibujo del laboratorio, pared de Jinx y mural de los Firelights, más uno de reserva (§19) |
+| 40 fuentes distintas | ✅ | **Unos 120 dominios** enlazados en el cuerpo |
+| Fuentes oficiales | ⚠️ | arcane.com, Riot Merch, Netflix Tudum, entrevistas al staff de Fortiche (SyncSketch, 80.lv), forticheprod.com. **Falta** hojear el libro de arte y ver comentarios del staff en vídeo |
+| Otros idiomas | ✅ | Chino (Douban, Xiaomi, Huxiu, GamerSky), coreano, francés. En japonés sólo salieron notas de doblaje |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Arcane Wiki y Doblaje Wiki por API, LoL Wiki, 2XKO Wiki, TV Tropes. **TCRF** (Cloudflare) y las páginas de **Wayback** bloqueadas; TCRF no tiene página de Arcane |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift, Tumblr, Douban |
+| Arte (Pixiv, ArtStation, DeviantArt) | ✅ | ArtStation, DeviantArt, Tumblr, Danbooru, Wallhaven |
+| Vídeo | ✅ | Internet Archive y Dailymotion mirados con `fotogramas.py`; YouTube enlazado (la descarga pedía sesión) |
+| Código y recursos | ✅ | GitHub (arte oficial de Riot, google/fonts), Sketchfab, Poly Haven, ambientCG |
+| Doblaje latino (Doblaje Wiki, ANMTV, entrevistas) | ⚠️ | Doblaje Wiki por API y prensa; las muestras de audio **no se pasaron por `voz.py`**; entrevistas a actores sin ver |
+| Mirar los vídeos (opening, ending, tráiler, 3 escenas) | ✅ | Opening entero, créditos de 1×03 y 1×06, teaser de 2019 y escenas de 1×03 a 1×08 y 2×04, en fotogramas propios |
+| Frases latinas textuales de clips oficiales | ⚠️ | Sólo de Doblaje Wiki; ningún clip oficial doblado mirado con subtítulos |
+| Hojas de contacto | ✅ | 3 JPEG en `hojas/` (0,4-0,7 MB), miradas, con tabla de números (§3.7) |
+| `referencias.json` | ✅ | **202 entradas**, las mejores primero, con tamaño medido; fuera la basura del recolector (juegos de Steam que sólo se llaman «Arcane», fotos de Flickr sin relación, fan art de otra serie) |
+
 ---
 
 ## 21 · Bitácora de búsqueda

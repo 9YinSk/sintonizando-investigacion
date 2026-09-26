@@ -121,6 +121,23 @@ años** (el que más gente cita en redes), porque se repitió muchísimo en TV a
 
 ## 13 · Descripción profunda de cada personaje
 
+Tabla fija con los fotogramas reales (no arte oficial) ya confirmados, para pegar tal cual:
+
+| Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| Tsubasa Ozora / Oliver Atom | sorpresa (ojos muy abiertos, boca entreabierta) | Ep. 001 «El Desafío» (doblaje 1983) | 9:20 | https://archive.org/details/super-campeones-1983-latino |
+| Tsubasa Ozora / Oliver Atom | determinación (silueta a contraluz, atardecer) | Ep. 001 «El Desafío» (doblaje 1983) | 23:20-24:00 | https://archive.org/details/super-campeones-1983-latino |
+| Kojiro Hyuga / Steve Hyuga | esfuerzo límite (sudor, ojos muy abiertos) | Ep. 069 «Tiger sharpens his fangs» | 8:45-9:35 | https://archive.org/download/supercampeonescapitulo119latino480p24fpsh264128kbitaac/supercam/SuperCampeones-Capitulo69-Latino480p_24fps_h264-128kbit_aac.mp4 |
+| Kojiro Hyuga / Steve Hyuga | derrota/soledad (boca abajo en la arena) | Ep. 069 «Tiger sharpens his fangs» | 10:00 | mismo enlace |
+| Kojiro Hyuga / Steve Hyuga | rabia/determinación (golpea la arena con el puño) | Ep. 069 «Tiger sharpens his fangs» | 12:05 | mismo enlace |
+| Genzo Wakabayashi / Benji Price | reflexivo/nostálgico (leyendo una carta) | Ep. 126 «My best friend. Genzo Wakabayashi» | 20:25 | https://archive.org/download/supercampeonescapitulo119latino480p24fpsh264128kbitaac/supercam/SuperCampeones-Capitulo126-Latino480p_24fps_h264-128kbit_aac.mp4 |
+| Genzo Wakabayashi / Benji Price | alegría/emoción (sonrisa amplia, ojos brillantes) | Ep. 126 «My best friend. Genzo Wakabayashi» | 21:15 | mismo enlace |
+| Genzo Wakabayashi / Benji Price | felicidad compartida (riendo, abrazado a un compañero) | Ep. 126 «My best friend. Genzo Wakabayashi» | 22:30 | mismo enlace |
+
+Faltan enojo/miedo puros de Genzo (arco de Hamburgo, episodios 75-99, no localizados sueltos — ver «No
+encontré»); es extra, no obligatorio, la tabla ya cubre a los 3 personajes pedidos por el encargo con al
+menos 2-3 emociones reales cada uno.
+
 **Tsubasa Ozora / Oliver Atom** (protagonista). Nació el **28 de julio**, tipo de sangre A, mediocampista
 ofensivo/delantero, de Nankatsu (Shizuoka) · fuente infobox `captaintsubasa.fandom.com`, página «Tsubasa
 Ozora» · ✅ (coincide con la ficha japonesa `captaintsubasa.fandom.com/ja`, mismo dato de cumpleaños).
@@ -370,9 +387,3 @@ el encargo).
   `fotogramas.py --cada 25` sobre cada uno y miré las hojas de contacto con Read; en el 69 até además una
   franja fina (`--desde --hasta --cada 5`) para confirmar el minuto exacto de la escena de la playa. Los
   vídeos `.mp4` se borraron de `/tmp/claude-0/trabajo/47-voz` tras sacar las hojas.
-
-Sigue: punto 13, falta un fotograma real (no arte oficial) de Genzo Wakabayashi con enojo o miedo puros —
-cae en el arco de Hamburgo (episodios ~75-99), que no está en el ítem de archive.org ya usado (salta del 74
-al 100); sería extra, no obligatorio, así que queda en «No encontré». Punto 21 ya tiene una escena real con
-capítulo, minuto y encuadre (ep. 69, Hyuga en la playa) pero sin reacciones de fans citadas con fuente —
-también en «No encontré», no bloquea el punto.
