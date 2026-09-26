@@ -1,1 +1,263 @@
-[]
+[
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/5/5b/Kazuma_Satou_3rd.png",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 4341,
+    "alto": 6140,
+    "que_es": "Ilustración oficial 'Kazuma Satou 3rd' (aniversario), pose de acción desenvainando su katana, capa verde y dorada",
+    "para_que": "Referencia de pose viva y colores del traje icónico de Kazuma (punto 1 y 15)",
+    "licencia": "Arte oficial de la franquicia (Kadokawa), sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/4/4e/Aqua_3rd.png",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 4341,
+    "alto": 6140,
+    "que_es": "Ilustración oficial 'Aqua 3rd' (aniversario), pose de acción con báculo",
+    "para_que": "Referencia de pose y colores del vestido azul de diosa/sacerdotisa de Aqua (punto 1 y 15)",
+    "licencia": "Arte oficial de la franquicia (Kadokawa), sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/c/ca/Darkness_3rd.png",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 4341,
+    "alto": 6140,
+    "que_es": "Ilustración oficial 'Darkness 3rd' (aniversario), pose de acción con armadura",
+    "para_que": "Referencia de pose y colores de la armadura dorada de cruzada de Darkness (punto 1 y 15)",
+    "licencia": "Arte oficial de la franquicia (Kadokawa), sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/f/f3/Megumin_3rd.png",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 4341,
+    "alto": 6140,
+    "que_es": "Ilustración oficial 'Megumin 3rd' (aniversario), pose de acción lanzando magia",
+    "para_que": "Referencia de pose y colores del vestido rojo y capa negra de Megumin (punto 1 y 15)",
+    "licencia": "Arte oficial de la franquicia (Kadokawa), sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/c/cf/Konosuba_Season_3_Teaser_Visual.jpg",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 1500,
+    "alto": 2121,
+    "que_es": "Key visual oficial de la temporada 3, cielo azul y pradera verde saturados",
+    "para_que": "Referencia de paleta oficial (punto 16) y arte de grupo variado (punto 1)",
+    "licencia": "Arte oficial de la franquicia (Kadokawa), sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/a/a6/Arriving_in_the_Village.jpg",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 3156,
+    "alto": 1294,
+    "que_es": "Fotograma de la Aldea de los Demonios Carmesí, luz cálida de día",
+    "para_que": "Referencia de sitio, luz y paleta medida en hex (punto 16)",
+    "licencia": "Captura de anime, sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/1/1c/Icestorm.jpg",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 2304,
+    "alto": 1296,
+    "que_es": "Fotograma de tormenta de nieve (arco de invierno), paleta fría uniforme",
+    "para_que": "Referencia de sitio y paleta fría medida en hex (punto 16)",
+    "licencia": "Captura de anime, sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/0/02/KonoSuba_Vol16-8.jpg",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 1443,
+    "alto": 2048,
+    "que_es": "Página interior del manga (Vol.16, ilustrado por Masahito Watari) con rayado cruzado a mano de fondo",
+    "para_que": "Referencia de trama/textura 2D del manga: crosshatch, no trama de puntos (punto 19)",
+    "licencia": "Página de manga con derechos de Kadokawa, sólo como referencia de estilo"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/2/2f/KonoSuba_logo.png",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 684,
+    "alto": 603,
+    "que_es": "Logo oficial de la serie",
+    "para_que": "Referencia de tipografía/logo (apoyo al punto 19 y al punto 5 de texto)",
+    "licencia": "Logo oficial de la franquicia, sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/konosuba/images/2/2b/Belzerg_emblem.jpg",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 160,
+    "alto": 160,
+    "que_es": "Emblema heráldico del Reino de Belzerg",
+    "para_que": "Referencia de emblema/logo del mundo (punto 19 y 25)",
+    "licencia": "Arte oficial de la franquicia, sólo como referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-f8ab91246e26404888899f2a5505703b",
+    "fuente": "Sketchfab (autor Pr2Hack)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D 'KonoSuba - Mansion Interior', escenario completo de la mansión embrujada",
+    "para_que": "Base 3D con licencia libre para el fondo de una lámina en la mansión (punto 3 y 16)",
+    "licencia": "CC Attribution (Sketchfab) — crédito a Pr2Hack"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-444a0c2f7ed449be9f127341b4eb2137",
+    "fuente": "Sketchfab (autor Eques_inferno)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D del sombrero de bruja de Megumin (Witch Hat), 379 corazones",
+    "para_que": "Objeto 3D con licencia libre para pose/prop de Megumin (punto 3)",
+    "licencia": "CC Attribution (Sketchfab) — crédito a Eques_inferno"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-75a6115352ec4697adb16411dfb32773",
+    "fuente": "Sketchfab (autor Eques_inferno)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D del bastón/varita de Megumin (Megumin wand), 147 corazones",
+    "para_que": "Objeto 3D con licencia libre, prop icónico de Megumin (punto 3)",
+    "licencia": "CC Attribution (Sketchfab) — crédito a Eques_inferno"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-fcdfb068ecc34d4780cf377c536fd650",
+    "fuente": "Sketchfab (autor HTHẻo)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de Chomusuke, el gato/demonio mascota de Megumin",
+    "para_que": "Objeto 3D con licencia libre, mascota icónica (punto 3)",
+    "licencia": "CC Attribution (Sketchfab) — crédito a HTHẻo"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-52ce0b7d01c1495784a73b9b779bf9e9",
+    "fuente": "Sketchfab (autor DarksonZero)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Réplica 3D de la espada de Kazuma (Chunchunmaru), listada como 'Cursed Sword Gram - Kyouya Mitsurugi'",
+    "para_que": "Objeto 3D con licencia libre del arma icónica de Kazuma (punto 3)",
+    "licencia": "CC Attribution (Sketchfab) — crédito a DarksonZero; revisar nombre exacto del arma antes de citarlo"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-148da44b16dc4dd9ab102606d6d46ebd",
+    "fuente": "Sketchfab (autor xenoaisam)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de personaje completo de Megumin",
+    "para_que": "Render 3D de referencia con licencia libre (punto 3)",
+    "licencia": "CC Attribution (Sketchfab) — crédito a xenoaisam"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-ed0a8da0978f4779b3353a84bd21bef2",
+    "fuente": "Sketchfab (autor julianmigueldescolado2008)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de personaje completo de Aqua",
+    "para_que": "Render 3D de referencia con licencia libre (punto 3)",
+    "licencia": "CC Attribution (Sketchfab) — crédito a julianmigueldescolado2008"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-0631add2cd7845949bfd5534b576d768",
+    "fuente": "Sketchfab (autor jb117)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de personaje completo de Darkness",
+    "para_que": "Render 3D de referencia con licencia libre (punto 3)",
+    "licencia": "CC Attribution (Sketchfab) — crédito a jb117"
+  },
+  {
+    "url": "https://safebooru.org/images/2381/c2ac0cd327b559a992b3d54afc58992a48990f3d.png",
+    "fuente": "Safebooru (origen DeviantArt, autora marpaparp)",
+    "ancho": 3600,
+    "alto": 4800,
+    "que_es": "Fan art de Megumin lanzando explosión, muy valorado",
+    "para_que": "Referencia de fan art (nunca para pegar), punto 3",
+    "licencia": "Fan art con autora identificada (marpaparp); sólo como referencia, no usar directamente"
+  },
+  {
+    "url": "https://twitter.com/isekai_quartet/status/1128325214578679808",
+    "fuente": "X/Twitter oficial de Isekai Quartet",
+    "ancho": 4096,
+    "alto": 2900,
+    "que_es": "Arte promocional de Darkness del crossover oficial Isekai Quartet",
+    "para_que": "Referencia de crossover oficial (punto 23) y arte alterno de Darkness (punto 1)",
+    "licencia": "Arte promocional oficial, sólo como referencia"
+  },
+  {
+    "url": "https://konosuba.fandom.com/wiki/Isekai_Quartet",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página de la wiki sobre el crossover oficial Isekai Quartet (2019-2022)",
+    "para_que": "Fuente textual del crossover oficial (punto 23)",
+    "licencia": "N/A (página wiki, no imagen)"
+  },
+  {
+    "url": "https://konosuba.fandom.com/wiki/Konosuba:_Fantastic_Days/Crossover",
+    "fuente": "Fandom (konosuba.fandom.com)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página de la wiki con las colaboraciones dentro del juego oficial Konosuba: Fantastic Days (DanMachi, Re:Zero)",
+    "para_que": "Fuente textual de colaboraciones de videojuego (punto 23)",
+    "licencia": "N/A (página wiki, no imagen)"
+  },
+  {
+    "url": "https://www.instagram.com/p/CmrqfR9jgbB/",
+    "fuente": "Instagram (@jessicanigri)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Cosplay de Darkness por la cosplayer profesional Jessica Nigri, armadura completa",
+    "para_que": "Referencia de cosplay real con materiales y volumen (punto 23)",
+    "licencia": "Contenido de la cosplayer, sólo como referencia, crédito obligatorio a Jessica Nigri"
+  },
+  {
+    "url": "https://www.goodsmile.info/en/product/6370/Nendoroid+Darkness.html",
+    "fuente": "Good Smile Company (goodsmile.info)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha oficial del Nendoroid de Darkness (#758)",
+    "para_que": "Referencia de figura oficial y pose 3D (punto 23)",
+    "licencia": "Producto oficial con licencia, sólo como referencia"
+  },
+  {
+    "url": "https://myfigurecollection.net/item/464596",
+    "fuente": "MyFigureCollection",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del Nendoroid de Megumin (#725, Good Smile Company)",
+    "para_que": "Referencia de figura oficial y pose 3D (punto 23)",
+    "licencia": "Producto oficial con licencia, sólo como referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/k9/wallhaven-k9l3jd.png",
+    "fuente": "Wallhaven (subido por Jeko98, origen wall.alphacoders.com)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de Megumin con sombrero de bruja, el más guardado (♥453)",
+    "para_que": "Referencia de fondo de pantalla de fans en alta resolución (punto 16)",
+    "licencia": "Fan art / wallpaper compartido en Wallhaven, sólo como referencia"
+  },
+  {
+    "url": "https://ambientcg.com/get?file=Leather037_2K-JPG.zip",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura fotorrealista de cuero (Leather037), CC0",
+    "para_que": "Textura libre equivalente para cinturones/armadura de cuero (punto 19)",
+    "licencia": "CC0 (dominio público), ambientCG"
+  },
+  {
+    "url": "https://ambientcg.com/get?file=Plaster001_2K-JPG.zip",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura fotorrealista de yeso/pared (Plaster001), CC0",
+    "para_que": "Textura libre equivalente para las paredes de la Aldea Carmesí (punto 19)",
+    "licencia": "CC0 (dominio público), ambientCG"
+  },
+  {
+    "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+    "fuente": "CLIP STUDIO ASSETS",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pack gratuito de tramas de manga (Manga Screentone Pack 1)",
+    "para_que": "Pincel/trama libre equivalente al rayado a mano del manga de Konosuba (punto 19)",
+    "licencia": "Gratuito, licencia de Clip Studio Assets"
+  }
+]
