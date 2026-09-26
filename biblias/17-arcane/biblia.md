@@ -393,7 +393,9 @@ Personajes en 3D (sólo para **mirar poses**, nunca pegar):
 | **Zaun** | **Art Nouveau**: líneas curvas, formas orgánicas; tuberías, máquinas, **grafiti**, carteles | Verde químico, neblina, farolas | ✅ ([Fizzy Mag](https://fizzymag.com/articles/how-art-nouveau-and-art-deco-styles-shaped-the-costumes-in-arcane), [Meanvexa](https://meanvexa.com/arcane-symbols/)) |
 | **El árbol de los Firelights** | Un asentamiento escondido alrededor de un **árbol enorme** (algo rarísimo en Zaun), con el **mural** de los muertos | ⚠️ luz verde-azulada de memoria | ✅ el sitio ([Screenspy](https://www.screenspy.com/arcane-season-1-episode-7/)) |
 | **El escondite de Jinx** | Oscuro, lleno de chatarra y de sus inventos; muñecos de Mylo y Claggor | Penumbra con puntos de neón ⚠️ | ✅ los muñecos |
-| **The Last Drop** | El bar de Vander, luego de Silco | ⚠️ | ⚠️ de memoria |
+| **The Last Drop** | El bar de Vander, luego de Silco. El despacho de Silco tiene una **lámpara Tiffany naranja** (cartel de Silco, §3.3) | Penumbra cálida de lámpara ⚠️ | ✅ el despacho (cartel); el bar ⚠️ |
+| **Locales de Zaun por dentro** | Pasillo con cortinas (1×06, 21:50): **casi negro**, con un halo violeta | `#191117` medido (§5.2) | ✅ visto; qué local es ⚠️ |
+| **Túneles bajo Zaun** | La caja fuerte del atraco (1×05, 18:00): metal a la luz de antorcha, el único tono cálido de Zaun | `#9C6751` medido | ✅ visto |
 
 **Paletas oficiales de las dos ciudades**: la cuenta oficial publicó
 «The colors of Piltover vs Zaun» ✅
@@ -402,7 +404,9 @@ Personajes en 3D (sólo para **mirar poses**, nunca pegar):
 No pude abrir la imagen ⚠️: los hex de abajo son míos.
 
 La paleta **cambia con la emoción**: fría en la tensión, cálida en el
-cariño ⚠️ (una fuente: [Game Game Over](https://gamegameover.com/exploring-the-world-of-arcane-visual-and-scenic-analysis/)).
+cariño ✅ ([Game Game Over](https://gamegameover.com/exploring-the-world-of-arcane-visual-and-scenic-analysis/)
+y, en la segunda pasada, los fotogramas medidos de §5.2: azul violeta en
+el trauma de Jinx, cobre en los túneles).
 
 ### 5.2 Paleta (medida por mí en las imágenes oficiales de §3)
 
@@ -421,6 +425,28 @@ Muestreo de JPG, margen ±10 por canal.
 | Rojo de Vi | `#9C3C3C` · `#CC3C54` | `Vi_29` | Chaqueta de Vi |
 | Lila de Viktor (T2) | `#CC84FC` · `#E484FC` | `Viktor_24` | Viktor final ⚠️ |
 | Negro de Zaun | `#202026` · `#141416` | `Jinx_37`, `Vi_48` | Sombras (nunca `#000`) |
+| **Oro de los escudos** (sin luz de escena) | `#C7A965` | `Piltover_Crest.png` y `Zaun_Crest.png`, por píxel | Sellos, grabados, placas |
+
+**Medidos en fotogramas de los episodios** (segunda pasada). Es el
+color medio del fotograma entero (Pillow, `ImageStat`), no un píxel:
+da la luz real de la escena, más sucia que la de una splash.
+
+| Escena | Color medio | Qué dice | Estado |
+|---|---|---|---|
+| Discurso del Día del Progreso, 1×04 24:30 | `#6B5B67` | Luz de teatro: cortina morada, piel y el blanco del traje. No es oro puro | ✅ |
+| Gema Hextech en la mano de Jayce, 1×04 12:12 | `#D7F0F8` | La gema **quema** el encuadre: el foco real es casi blanco; `#3C6CB4` es el azul ya apagado | ✅ |
+| Calle de Zaun, 1×04 6:45 | `#58615E` | La niebla verde es **más gris que verde** en pantalla | ✅ |
+| Explosión de 1×03, 19:55 | `#19314D` | Azul eléctrico: luz fría dentro de Zaun | ✅ |
+| Jinx ante el pulso Hextech, 1×05 11:00 | `#213369` | Azul violeta: el color del trauma de Jinx | ✅ |
+| Caja fuerte de los túneles, 1×05 18:00 | `#9C6751` | Cobre cálido de antorcha: el único acento cálido | ✅ |
+| Pasillo con cortinas, 1×06 21:50 | `#191117` | Casi negro con tinte granate | ✅ |
+| Núcleo Hex en el laboratorio de noche, 1×06 27:00 | `#1D2632` | Azul pizarra: el núcleo brilla pero no quema, al revés que la gema | ✅ |
+| Trenza de Jinx, 2×04 6:10 (mediana de la zona) | `#133650` con luz · `#0B2946` en sombra | Su azul en la T2 es más oscuro que en la splash (`#249CCC`) | ✅ medido por mí |
+| Pelo de Vi, 1×08 13:40 (mediana de la zona) | `#491A26` | Rojo vino apagado, no rosa chicle | ✅ medido por mí |
+
+**Para la lámina**: la mesa Hextech con la luz de 1×04 12:12 (centro
+casi blanco, resto en sombra cálida); la pared de Jinx con el verde
+sucio `#58615E`, no con un verde saturado.
 
 ### 5.3 Texturas reales equivalentes
 
@@ -428,8 +454,9 @@ Muestreo de JPG, margen ±10 por canal.
 |---|---|---|
 | Pared de Zaun | [Painted Brick](https://polyhaven.com/a/painted_brick), Poly Haven: ladrillo con pintura azul desconchada | CC0 ✅ |
 | Botes de espray en el suelo | [Spray Paint Bottles](https://polyhaven.com/a/spray_paint_bottles), Poly Haven | CC0 ✅ |
-| Papel de los planos | Papel kraft o de calco envejecido: el color objetivo es `#B39A84` | Buscar en ambientCG / Poly Haven ⚠️ |
-| Latón de Piltóver | Metal cepillado con pátina | Buscar en Poly Haven ⚠️ |
+| Papel de los planos | [Paper006](https://ambientcg.com/a/Paper006), ambientCG: papel beige con rugosidad y normal, cerca de `#B39A84` | CC0 ✅ |
+| Latón de Piltóver | [Metal049A](https://ambientcg.com/a/Metal049A), ambientCG: metal plateado, tintado hacia `#B4843C` (no hay latón en su catálogo) | CC0 ⚠️ aproximado |
+| Tuberías, óxido, chapa, cuero, tela | Metal063, Metal041B, DiamondPlate009, Leather037, Fabric060: ver §18b.2 | CC0 ✅ |
 
 ---
 
