@@ -39,26 +39,28 @@ const etapaReco = async (_, it) => {
 }
 const etapaInv = async (s, it) => {
   if (s.estado !== 'sigue') return s
-  // nueva: los 4 roles; repaso: los 4 en modo repaso; repaso-corto: imagen, voz y texto (puntos 18-25); seguir: sólo lo que falte
+  // nueva: los 4 roles; repaso: los 4 en modo repaso; repaso-corto: imagen, voz y texto (puntos 18-25); seguir: sólo lo que falte; redactar: ninguno
   const roles = (it.modo === 'nueva' || it.modo === 'repaso') ? ROLES : it.modo === 'repaso-corto' ? ['imagen', 'voz', 'texto'] : [...new Set([...it.relanzar, ...it.faltan])]
-  if (!roles.length) return s
   const modoDe = rol => it.modo === 'nueva' ? 'nueva' : (it.modo === 'repaso' || it.modo === 'repaso-corto') ? 'repaso' : (it.relanzar.includes(rol) ? 'seguir' : 'nueva')
   const nota = it.modo === 'repaso-corto' ? ' Repaso corto: sólo tus puntos de los 18-25, que son nuevos en el encargo y no están en la biblia; mira `python3 herramientas/seccion.py <id> --indice` para no repetir nada.' : ''
-  const r1 = await parallel(roles.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo ${modoDe(rol)}.${nota}${hermana(it)}`, { label: `inv:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
-  if (roles.some((_, i) => !r1[i])) return { ...s, estado: 'cortada', donde: `investigadores (${roles.filter((_, i) => !r1[i]).join(', ')})` }
-  const pend = roles.filter((_, i) => r1[i].sigue_pendiente)
-  if (pend.length) {
-    log(`${it.id}: relanzo ${pend.join(', ')}`)
-    const r2 = await parallel(pend.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo relanzo.${hermana(it)}`, { label: `inv2:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
-    if (pend.some((_, i) => !r2[i])) return { ...s, estado: 'cortada', donde: 'relanzo' }
+  let pend = []
+  if (roles.length) {
+    const r1 = await parallel(roles.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo ${modoDe(rol)}.${nota}${hermana(it)}`, { label: `inv:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
+    if (roles.some((_, i) => !r1[i])) return { ...s, estado: 'cortada', donde: `investigadores (${roles.filter((_, i) => !r1[i]).join(', ')})` }
+    pend = roles.filter((_, i) => r1[i].sigue_pendiente)
+    if (pend.length) {
+      log(`${it.id}: relanzo ${pend.join(', ')}`)
+      const r2 = await parallel(pend.map(rol => () => seguro(() => agent(`Serie ${it.id}, modo relanzo.${hermana(it)}`, { label: `inv2:${it.id}:${rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${rol}`, effort: EF.inv }))))
+      if (pend.some((_, i) => !r2[i])) return { ...s, estado: 'cortada', donde: 'relanzo' }
+    }
   }
-  // medir las partes antes de pagar el redactor: lo flojo se relanza una vez más (modo seguir)
+  // medir las partes antes de pagar el redactor (también en modo redactar/seguir): lo flojo o inexistente se relanza una vez (modo seguir)
   if (it.modo !== 'repaso-corto') {
-    const rp = await seguro(() => agent(`Serie ${it.id}. Roles: ${roles.join(', ')}.`, { label: `revisor-partes:${it.id}`, phase: 'Investigar', schema: FLOJAS, agentType: 'revisor-partes', effort: EF.aux }))
-    const flojas = rp ? rp.flojas.filter(f => roles.includes(f.rol) && !pend.includes(f.rol)) : []
+    const rp = await seguro(() => agent(`Serie ${it.id}. Roles: ${ROLES.join(', ')}.`, { label: `revisor-partes:${it.id}`, phase: 'Investigar', schema: FLOJAS, agentType: 'revisor-partes', effort: EF.aux }))
+    const flojas = rp ? rp.flojas.filter(f => ROLES.includes(f.rol) && !pend.includes(f.rol)) : []
     if (flojas.length) {
       log(`${it.id}: partes flojas: ${flojas.map(f => `${f.rol} (${f.por_que || ''})`).join(', ')}; un relanzo`)
-      const r3 = await parallel(flojas.map(f => () => seguro(() => agent(`Serie ${it.id}, modo seguir. Tu parte está floja según revisar_partes.py: ${f.por_que || 'corta'}. Completa lo obligatorio que falte de tus puntos, hasta 50 acciones.${hermana(it)}`, { label: `inv3:${it.id}:${f.rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${f.rol}`, effort: EF.inv }))))
+      const r3 = await parallel(flojas.map(f => () => seguro(() => agent(`Serie ${it.id}, modo seguir. Tu parte está floja según revisar_partes.py: ${f.por_que || 'corta'}. Si tu parte no existe o está casi vacía, hazla entera como en modo nueva. Completa lo obligatorio que falte de tus puntos, hasta 50 acciones.${hermana(it)}`, { label: `inv3:${it.id}:${f.rol}`, phase: 'Investigar', schema: INV, agentType: `investigador-${f.rol}`, effort: EF.inv }))))
       if (flojas.some((_, i) => !r3[i])) return { ...s, estado: 'cortada', donde: 'relanzo de partes flojas' }
     }
   }
