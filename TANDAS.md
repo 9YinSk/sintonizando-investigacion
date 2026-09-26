@@ -274,7 +274,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 
 - [x] 101-your-name-cielos-y-ciudades
 - [x] 102-el-estilo-ghibli-en-general
-- [ ] 103-hazbin-hotel-y-helluva-boss
+- [x] 103-hazbin-hotel-y-helluva-boss
 - [x] 104-steven-universe
 
 ## Tanda S27
