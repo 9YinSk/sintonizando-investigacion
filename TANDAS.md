@@ -239,7 +239,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 - [ ] 85-sword-art-online-todas
 - [x] 86-saga-of-tanya-the-evil
 - [x] 87-tsukimichi-moonlit-fantasy
-- [ ] 88-konosuba
+- [x] 88-konosuba
 
 ## Tanda S23
 
