@@ -54,10 +54,16 @@ Aquí va **lo que es de todo el estudio**: la técnica, la paleta, la comida, la
 - **Quién lo hace.** Hayao Miyazaki e Isao Takahata dirigen. **Kazuo Oga** pinta los fondos. **Joe Hisaishi** pone la música desde *Nausicaä* (1984), un año antes de que existiera el estudio. **Toshio Suzuki** produce. ✅
 - **Es cine, no serie.** No hay opening ni ending semanal ni capítulos. Los minutos salen de **tráileres oficiales** en Dailymotion (YouTube pide iniciar sesión en el contenedor). Las películas completas no se vieron.
 - **Sirve para todo.** Esta biblia es general: láminas, vídeos, diseño, textos del bot, doblajes. El canal de los 3 conceptos es sólo una propuesta.
-- **Canal propuesto.** No tiene canal. Encaja en **#🎨 arte**: el foro de dibujo, ilustración y fanart, con Kiki (la más dibujada por los fans) y una tabla de fondos a medio pintar. Otras dos ideas: **#🌐 general** (el ramen de Ponyo, «aquí se habla de lo que sea») y **#🎟️ eventos** (Totoro en la parada del autobús, «cada uno lo ve en su hora»). Ver «3 conceptos».
+- **Canal propuesto.** No tiene canal. Encaja en **#🎨 arte**: el caballete de Naoko con un fondo a gouache a medio pintar, en la colina con viento de *El viento se levanta*. Otras dos ideas: **#🌐 general** (el letrero de hierro de la panadería, con Kiki, la más dibujada, y Jiji) y **#🎟️ eventos** (Totoro en la parada del autobús, «cada uno lo ve en su hora»). Ver «3 conceptos».
 - **Lo más querido del estudio entero.** **Haku** es 1.º en el voto de fans de todo el catálogo y en una encuesta Gen Z; su ficha está en la biblia 98. La **cara del estudio es Totoro**: es el logo, es 3.º en el voto y su película es la favorita de Japón (48,5 %). **Kiki es la más dibujada** por los fans (1148 dibujos en Danbooru). Los compañeros que no hablan idioma humano (Jiji, Calcifer, el Gatobús) puntúan altísimo aunque sean secundarios. Ver punto 7.
 - **Cuadro de diálogo propio.** Ghibli **no usa globos ni cartelas**. Se habla en voz, con silencios («ma»), y el texto escrito vive **pintado dentro del fondo**, con la misma luz y textura que la escena. Para una lámina: un **cartel o papel pintado a gouache dentro del sitio**, nunca una burbuja blanca. Letras: **Jost** (la Futura del logo) y **Noto Serif JP**, con tildes, ñ, ¿ y ¡ comprobados. Ver puntos 5 y 6.
 - **Aviso fuerte.** En marzo de 2025 las imágenes «estilo Ghibli» hechas con IA se volvieron virales. Miyazaki llama a la animación por IA **«un insulto a la vida misma»**. Una lámina de Ghibli que parezca de IA es lo peor que se puede hacer. Ver puntos 10, 12 y 17.
+
+### Segunda pasada · qué cambió
+
+- **Antes:** un arranque de 61 líneas (índice y punto 0) de un redactor cortado por el límite de uso. **Ahora (26-sep-2026):** los 25 puntos, el foco del encargo, las hojas, los 3 conceptos, la tabla de cumplimiento y la bitácora, con las 4 partes.
+- **Corregido:** 8 números de las hojas que daba la parte de imagen (fondos puros, el «Oga» del n.º 32, los «Ohmu»); Alan Prieto dirige el Chihiro de 2020, no el de Buena Vista; el concepto de #general pasa del ramen de Ponyo al letrero de la panadería, para no repetir la barra de ramen de *Naruto*.
+- **⚠️:** 0 en el arranque; quedan 141 en toda la biblia, casi todos por una sola fuente, por el doblaje sin segunda fuente o por no poder ver las películas enteras.
 
 ## El foco del encargo: fondos pintados, comida, luz y viento
 
@@ -915,3 +921,235 @@ Reglas del dueño que valen para las tres: objeto real en un sitio real, hecho e
 - **Tono:** noche tranquila, no alegre de colores planos. Es el *ma*: esperar sin prisa.
 - **Nota de canal:** #eventos es de *No Man's Sky* (124).
 
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias · ❌ no hecho. Límite real de este tema: **no es una obra, es el estilo de 26 películas**. No hay capítulos, *opening* ni *ending*, ni un elenco propio: los personajes salen como ejemplos, y los de Chihiro, Howl y Mononoke están a fondo en las biblias 98, 99 y 100. Las películas completas no se vieron (YouTube pide iniciar sesión); los minutos salen de 8 tráileres de Dailymotion mirados plano a plano.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 Arte oficial variado | ✅ | Galería oficial de las 26 obras (1920×1038, medidas) y su licencia en dos fuentes; pósteres, storyboard, celdas, arte conceptual, fondos de Oga, manga y revista en las hojas. Corregido el n.º 32 (no es Oga) |
+| 2 Fotogramas de escenas icónicas | ⚠️ | 13 escenas de 6 películas en 1080p oficiales; 6 con minuto del tráiler. Las demás sin minuto: no se vieron las películas |
+| 3 Fan art y 3D con licencia | ✅ | 18 modelos de Sketchfab CC BY con autor y likes (licencia leída en su API), 3 descartados por NC; 5 fan art con autor y tamaño; 10 fotos CC del Museo Ghibli. Poly Haven no tiene nada de Ghibli |
+| 4 Fondos, luz, paleta y texturas | ✅ | 10 sitios con paleta, brillo y línea medidos con `estilo.py`; técnica de Oga en dos fuentes; 9 texturas CC0 de ambientCG. ⚠️ no hay «papel de acuarela mojado» libre |
+| 5 Tipografía | ✅ | Logo en Futura (dos fuentes) → Jost; títulos de 3 películas; 8 letras libres por uso con tildes, ñ, ¿ y ¡ comprobadas con fontTools. ⚠️ Totoro y Chihiro con una fuente; *Mononoke*, créditos y Albertus libre sin encontrar |
+| 6 Cómo hablan en pantalla | ✅ | Sin globos ni cartelas: texto pintado en el mundo (carteles de *Chihiro*, letrero de *Kiki*, rótulo de *El castillo*), el *ma*, lo de «Princesa Zandra»; 4 cuadros propuestos |
+| 7 Personajes y popularidad | ✅ | Voto de fans de todo el catálogo, 4 encuestas de Nlab, Simeji Gen Z y Danbooru; Haku, Totoro y Kiki según cada medida; 3 arquetipos |
+| 8 Doblaje latino y frases | ⚠️ | 8 películas por la API de Doblaje Wiki, 6 voces que se repiten, 4 audios transcritos y 5 frases de tráiler con minuto. La mayoría de nombres, sólo en Doblaje Wiki; corregido Alan Prieto con la biblia 98 |
+| 9 Música y sonido | ✅ | Hisaishi en dos fuentes y visto en pantalla; canción de 6 películas en ghibli.jp; Wakabayashi en dos fuentes; efectos de *Totoro* y el viento como sonido. Citas y efectos, una fuente |
+| 10 Vídeos | ⚠️ | 8 tráileres mirados con minuto; la tendencia de la IA en 2025 con dos fuentes. YouTube, TikTok y los vídeos de análisis, sin ver |
+| 11 Videojuegos | ⚠️ | No hay franquicia propia; *Ni no Kuni* en tres fuentes, gacha incluido. No encontré capturas de sus menús ni cajas de diálogo |
+| 12 Lo que ama el fandom y qué no hacer | ✅ | Encuesta LINE (dos fuentes, una primaria), edades en tres encuestas, Reddit por Arctic Shift, comida; 10 cosas que no hacer, cada una con su prueba |
+| 13 Personajes a fondo | ⚠️ | Lo que comparten, cómo hablan y 13 caras por emoción con minuto. Falta la vergüenza; cada personaje a fondo va en 98, 99 y 100 |
+| 14 Poses analizadas | ✅ | 27 poses de Totoro, Kiki, San, Sophie y Ponyo con fotograma o minuto y su uso (presentar, explicar, celebrar, regañar, pensar, animar). La lectura del gesto es propia |
+| 15 Vestuario | ✅ | 14 hex medidos con rejilla en 5 películas; ropa icónica. ⚠️ vestido de Sophie y pelo moreno de Howl |
+| 16 Ciudades, paisajes y fondos | ⚠️ | 7 sitios con luz y hora; fondos oficiales de las 26 obras; 5 fondos puros en las hojas; 3 de Wallhaven con tamaño. Un fondo sin abrir y uno sin autor |
+| 17 Guía para IA de imagen y de texto | ✅ | Límite (Miyazaki y la IA), rasgos fijos, paleta y línea medidas, luz, encuadre, palabras que ayudan y estropean, referencias, emociones con minuto; frases reales por emoción. ⚠️ sin frases tristes largas |
+| 18 Estilo y técnica, y cómo replicarlo | ✅ | Toonz y OpenToonz en tres fuentes; poster color; genga y douga; 3D escondido; recetas de Photoshop y Blender; encuadres. Varios detalles con una fuente |
+| 19 Texturas 2D | ✅ | Hachurado del manga de *Nausicaä* (dos fuentes), 3 packs de pinceles libres, papel y tela CC0, logos. ⚠️ no hay pincel de hachurado propio |
+| 20 Gustos y detalles | ⚠️ | No aplica por personaje en un tema de estudio (va en 98-100). Se dan los gustos que forman el estilo y el objeto de cada personaje. Sin *databooks* |
+| 21 Por qué la aman y escenas que hacen llorar | ⚠️ | Encuestas, generaciones, cuidado, Óscar; 3 escenas que hacen llorar y 3 de alegría con minuto del tráiler. Sin comentarios con votos ni vídeos de reacción |
+| 22 Fan dubs y comunidad hispana | ⚠️ | Fandub y cover en Dailymotion sin vistas; redoblajes oficiales comparados; webs en español. Sin TikTok ni YouTube de fandub Ghibli |
+| 23 Colaboraciones y cruces | ✅ | Ghibli Park, *Ni no Kuni*, pastelería de Totoro y tienda Donguri, cada uno en dos fuentes; museo; lo que no existe. ⚠️ figuras sin ficha y cosplay con una fuente |
+| 24 Obras parecidas | ✅ | Cartoon Saloon, Shinkai, Ponoc, *Penguin Highway*, Topcraft; láminas de 98, 99, 100, 101 y 30 para no repetir |
+| 25 El mundo, la historia y sus símbolos | ✅ | 5 reglas, 6 etapas del estudio con fechas, 10 símbolos y el vocabulario propio |
+| Tres conceptos de lámina | ✅ | A #arte (caballete en la colina), B #general (letrero de la panadería), C #eventos (parada del autobús): sitio, objeto, película, personaje y letra distintos |
+| Mirar vídeos de verdad | ⚠️ | 8 tráileres con `fotogramas.py`, 3 con `voz.py`; 102 fotogramas oficiales y 3 hojas mirados. Películas completas, YouTube y TikTok no |
+| Colores medidos | ✅ | 104 hex distintos, de fotogramas oficiales con `estilo.py` y Pillow |
+| Cuarenta fuentes distintas | ✅ | 75 dominios enlazados en esta biblia |
+| Fuentes oficiales | ⚠️ | ghibli.jp, Museo Ghibli, comunicado de LINE, entrevista a Oga. Sin artbooks ni entrevista a Miyazaki de primera mano (la cita de la IA, por dos medios) |
+| Fuentes en otros idiomas | ⚠️ | Japonés (ghibli.jp, Nlab, ranking.net, Yahoo Chiebukuro, kyoukasho.net, PR Times, Wikipedia JA) e inglés sí. Coreano y chino no se buscaron |
+| Wikis, TV Tropes, TCRF y Wayback | ⚠️ | Ghibli Wiki, Doblaje Wiki, Logos Wiki, Sound Effects Wiki sí. TV Tropes y Wayback no se usaron; TCRF no aplica (no hay juego propio) |
+| Foros y comunidades | ✅ | Reddit r/ghibli por Arctic Shift, Yahoo Chiebukuro, Tumblr |
+| Arte (Pixiv, ArtStation, DeviantArt) | ✅ | Safebooru, Danbooru, ArtStation, DeviantArt, X y Wallhaven. Pixiv no se buscó directo |
+| Vídeo (YouTube, TikTok) | ⚠️ | Dailymotion mirado; YouTube y TikTok bloqueados en el contenedor |
+| Código y recursos | ✅ | GitHub (Source Han Serif, OpenToonz), Sketchfab por API, ambientCG por API, Fontsource |
+| Doblaje latino (fuentes) | ⚠️ | Doblaje Wiki por su API y sus audios, BehindTheVoiceActors, biblia 98. ANMTV y entrevistas a actores, no en esta serie |
+| Hojas de contacto | ✅ | 3 hojas en `hojas/` (menos de 1 MB cada una), miradas; corregidos 8 rótulos de la parte de imagen |
+| referencias.json | ✅ | 158 referencias de las 4 partes y de `datos.json`, las de los investigadores primero |
+
+## Bitácora de búsqueda
+
+Junta las bitácoras de `partes/imagen.md`, `video.md`, `voz.md` y `texto.md` (con `herramientas/juntar_bitacora.py`) y lo que comprobó el redactor.
+
+**Redactor (26-sep-2026, modo `seguir`):**
+- Continuó en su sitio la biblia que dejó a medias un redactor cortado por el límite de uso (índice y punto 0). Base de la hermana 98, sin copiarla: remite a ella en Chihiro, doblajes y letras.
+- Miró las 3 hojas enteras y **corrigió 8 números** de la parte de imagen (fondos puros, Oga, Ohmu, cocina de Sophie). Cruzó el doblaje con la biblia 98 y **corrigió a Alan Prieto** (dirige el Chihiro de 2020, no el de Buena Vista).
+- Revisó los conceptos de 98, 99, 100, 101, 30, 10 y 124 para no repetir ideas: por eso el ramen de Ponyo no es concepto (se parece a Ichiraku de *Naruto*).
+- **Lo que NO se encontró** (sigue con ⚠️): películas completas y YouTube/TikTok; minutos de las escenas fuera de los tráileres; segunda fuente de casi todo el doblaje salvo Chihiro; interfaz de *Ni no Kuni*; tipografía de *Mononoke* y de los créditos; fandubs hispanos de Ghibli con vistas; coreano y chino sin buscar.
+- `juntar_referencias.py` rehízo `referencias.json` con 158 referencias.
+
+
+### Bitácora de imagen
+
+- Español: ninguna búsqueda específica nueva en esta tanda (el resto ya
+  estaba en inglés/japonés de la tanda anterior, ver Hallazgos de los
+  puntos 1/3/15/16).
+- Inglés (WebSearch, esta tanda): "Nausicaä of the Valley of Wind manga
+  screentone hatching hand-drawn technique Miyazaki"; "Studio Ghibli Park
+  areas 2024 2025 Dondoko Forest Valley of Witches Hill of Youth official";
+  "Shirohige's Cream Puff Factory Studio Ghibli official bakery Kichijoji
+  Goro Miyazaki"; "Studio Ghibli official collaboration Gucci OR New
+  Balance OR MUJI OR GU 2024 2025"; "Ni no Kuni Studio Ghibli Level-5
+  official collaboration video game"; "Donguri Kyowakoku OR Benelic Studio
+  Ghibli official figure line collectible"; ""Ghibli style" Photoshop brush
+  pack free gouache texture watercolor background download"; "Studio Ghibli
+  official cosplay contest craftsmanship award winning"; "Studio Ghibli
+  logo Totoro silhouette trademark history design origin".
+- Directo (sin buscador, cuota ahorrada): `herramientas/investigar_serie.py`
+  con 7 páginas de la wiki de Ghibli (Kiki's Delivery Service, Howl's
+  Moving Castle, My Neighbor Totoro, Ponyo, The Wind Rises, Nausicaä of the
+  Valley of the Wind, Kazuo Oga) → 701 imágenes candidatas, 5 hojas de
+  contacto miradas una a una, 3 elegidas para `hojas/`; ficha de licencia de
+  ambientcg.com (Paper004, Fabric034, Wood060) y de Brusheezy/Gumroad para
+  los pinceles.
+- Fuentes que fallaron o no aplicaron: `investigar_serie.py` se cortó por
+  tiempo (110 s) tras 5 hojas — suficiente para elegir, no hizo falta
+  relanzarlo; AmbientCG no tiene una textura "watercolor paper wet" (ya lo
+  avisó el punto 16 de la tanda anterior).
+
+### Bitácora de video
+
+- `ghibli.jp` (japonés/inglés): galería oficial y ficha de créditos
+  (música, tema, dirección de arte) de Totoro, Kiki, Mononoke, Howl, Ponyo y
+  Se levanta el viento.
+- Dailymotion, enlaces directos de tráilers oficiales (doblados y
+  subtitulados) de las 5 películas con tráiler disponible, procesados con
+  `fotogramas.py --cortes`.
+- Búsqueda web (idioma inglés): «Studio Ghibli background painting
+  technique interview Kazuo Oga», «Ghibli AI trend 2025», «Miyazaki AI art
+  insult to life itself», «why Ghibli food looks so delicious».
+- Búsqueda web (idioma español): «cómo pintan los fondos de Ghibli»,
+  «tendencia estilo Ghibli IA 2025», «tráiler Se levanta el viento español».
+- Fuentes de texto usadas para el punto 4 y 10: Anime News Network (2008),
+  Open Culture (2021), CNN (27-mar-2025), Jerusalem Post, The Bridge
+  Chronicle.
+- `ambientcg.com/api/v2/full_json` (API directa) para texturas CC0
+  equivalentes (césped, madera).
+- `herramientas/estilo.py --colores 6` sobre 6 fotogramas oficiales
+  (uno por película) para paleta y grosor/color de línea.
+- Comprobación de tamaño real de las 38 imágenes oficiales y los 5 clips de
+  Dailymotion citados en `video.json` (códigos HTTP 200, dimensiones
+  medidas con Pillow y con la API de Dailymotion) al montar esta parte.
+
+### Bitácora de voz
+
+- WebSearch (es): "Joe Hisaishi Studio Ghibli firma musical estilo
+  composición Miyazaki entrevista" → Qobuz, Classic FM, Wikipedia ES/EN.
+- WebSearch (es): "Studio Ghibli doblaje latino historia Ventura
+  Distribution Cinépolis actores de doblaje recurrentes" → sin resultados
+  útiles directos, redirigió a Doblaje Wiki.
+- WebSearch (en): "Studio Ghibli casting policy famous actors not voice
+  actors Toshio Suzuki reasoning" → Anime News Network 2011, CBR, renote.net.
+- WebSearch (es): "encuesta popularidad personajes Studio Ghibli favorito
+  Oricon NHK ranking" → Nippon.com (LINE Research), TierMaker (no oficial).
+- WebSearch (es/en): "Studio Ghibli 'ma' 間 silencio filosofía animación
+  Miyazaki entrevista pausa" → Sensacine México, Tumblr @isavstheworld.
+- WebSearch (es): "Studio Ghibli fandub español latino comunidad hispana
+  doblaje de fans YouTube TikTok" → TikToks de otras franquicias (no útiles),
+  Doblaje Wiki.
+- WebSearch (en): "'Studio Ghibli' sound design diseñador de sonido Kazuhiko
+  Takahashi onomatopeyas efectos Totoro viento" → llevó a Kazuhiro
+  Wakabayashi (Ghibli Fandom) y Sound Effects Wiki de Totoro.
+- WebSearch (es): "escenas que hacen llorar Studio Ghibli más tristes música
+  Joe Hisaishi minuto" → Qobuz, artículo académico Panambí (Antillanca 2017).
+- WebSearch (es): "Cristina Hernández Enzo Fortuny actor doblaje Studio
+  Ghibli entrevista experiencia grabación" → Wikipedia Enzo Fortuny,
+  BehindTheVoiceActors.
+- WebSearch (es): "seiyuu actores voz japonesa que han trabajado en varias
+  películas Ghibli Chishu Ryu Keiko Takeshita Yuriko Ishida" → From Up on
+  Poppy Hill (Wikipedia EN), confirmó a Keiko Takeshita.
+- WebSearch (en): "Studio Ghibli celebridades famosas doblaje japonés Ken
+  Watanabe Takuya Kimura Youtube actrices no profesionales" → Ghibli Fandom
+  (Takuya Kimura), Wikipedia EN/FR.
+- API directa Doblaje Wiki (`action=parse&prop=wikitext`) para 9 páginas:
+  El viaje de Chihiro, Mi vecino Totoro, La princesa Mononoke, Kiki: entregas
+  a domicilio, Ponyo, El increíble castillo vagabundo, Se levanta el viento,
+  Un castillo en el cielo, Nausicaä: Guerreros del viento.
+- API directa Fandom (`ghibli.fandom.com`, `soundeffects.fandom.com`) para
+  Kazuhiro Wakabayashi y My Neighbor Totoro (1988) — WebFetch dio 402, la API
+  cruda funcionó.
+- API Arctic Shift (Reddit) para r/ghibli y r/Studioghibli1: búsqueda por
+  `title=` (no `q=`) y `sort=asc|desc` (no `score`) — parámetros correctos
+  encontrados por prueba y error, anotados aquí para no repetir el fallo.
+- Dailymotion API (`api.dailymotion.com/videos?search=`) para fandub "Nada
+  se Olvida" — no aisló el video exacto, sólo confirmó que aparece listado
+  en resultados de búsqueda web de Dailymotion.
+
+**Tanda 2 (continuación en modo `seguir`, 25/26-sep-2026):**
+- API directa Doblaje Wiki (`action=parse&prop=wikitext`) para **Nausicaä:
+  Guerreros del viento** (reparto completo del doblaje Zima 2010) y para
+  **Guerreros del viento** (la ficha de la versión editada estadounidense de
+  1985, con la tabla de reparto que rebautiza a Nausicaä «Princesa Zandra»).
+- API `action=query&prop=imageinfo` de Doblaje Wiki para sacar la URL directa
+  de 4 muestras de audio (`Howlhowl1.ogg`, `HowlWBhowl1.ogg`,
+  `MononokeDisneySan.ogg`, `MononokeZimaSan.ogg`), bajadas con curl y el
+  header `Referer: https://www.fandom.com/`, y transcritas con
+  `herramientas/voz.py` (Whisper + ficha de voz) — resuelve el pendiente de
+  «frases textuales completas» sin necesitar YouTube.
+- WebSearch (en): `Miyazaki "no cuts" clause "Warriors of the Wind" Nausicaa
+  edited dub contract` → SlashFilm, ScreenRant, cinema.wisc.edu, Wikipedia EN
+  — confirma la cláusula de «no cortes» y la anécdota de la katana a
+  Weinstein.
+- WebSearch (ja): `スタジオジブリ キャラクター 人気投票 ランキング 公式` →
+  ranking.net (voto de fans, ~83 personajes), varias encuestas de ねとらぼ
+  (Nlab/ITmedia) por categoría (chicos, heroínas, «novio ideal»).
+- WebSearch (en): `Studio Ghibli recurring character archetypes strong girl
+  heroines crone witch essay` → Fandom, CBR, Japan Nakama (arquetipos de
+  heroínas y de mujeres mayores).
+- WebSearch (ja): `Kazuhiro Wakabayashi 若林和弘 音響 スタジオジブリ 千と千尋
+  インタビュー` → Wikipedia JA, eiga.com, jfdb.jp (confirman su filmografía
+  real en Ghibli, segunda fuente para el dato biográfico, no para las citas).
+- WebSearch (ja): `LINE Research 2022 ジブリ 好きな映画 ランキング 5254人` →
+  encontró el **comunicado de prensa oficial de LINE Corporation** en
+  PR Times (fuente primaria de la encuesta) y dos encuestas más de Nlab por
+  franja de edad (20s, 40s) que confirman el mismo patrón generacional.
+- Lectura directa de `ranking.net/rankings/best-ghibli-characters` (HTML con
+  curl, extraído con regex en Python) y de un artículo de Nlab (curl +
+  regex) — no se imprimió el HTML completo, sólo los fragmentos con datos.
+
+**Tanda 3 (`seguir`, aviso de `revisar_partes.py`: «0 minutos citados»,
+26-sep-2026):**
+- Búsqueda directa en la API de Dailymotion (`api.dailymotion.com/videos?search=`)
+  de tráilers oficiales doblados al latino de 5 películas (Chihiro, Castillo
+  vagabundo, Mononoke, Totoro, Kiki); un id salió muerto (`x9ysqao`, "Not
+  found") y se sustituyó por `x4bncvf` de la misma búsqueda.
+- `herramientas/voz.py` sobre 5 tráilers de Dailymotion (Chihiro, Mononoke,
+  Totoro, Castillo vagabundo, Kiki) con `--idioma es --modelo small`: da
+  transcripción con minuto automático (`[m:ss]` + enlace `&t=`). El de Kiki
+  salió inservible (ruido/hallucination de Whisper) y se descartó.
+- `herramientas/fotogramas.py` sobre 3 tráilers (Mononoke, Totoro, Castillo
+  vagabundo) cada 3 s, hojas de contacto miradas fotograma a fotograma (Read
+  de la imagen) para identificar la cara de cada personaje en 5 emociones
+  distintas con su minuto exacto — resuelve el punto 13 (tabla de emociones)
+  que antes no existía en esta parte.
+- Todo lo pesado (audio, vídeo, hojas de contacto) quedó en
+  `/tmp/claude-0/trabajo/102-voz/` (fuera del repositorio).
+
+Sin `Sigue:` — no queda pendiente ninguna tarea obligatoria de mis 7 puntos.
+Extras que no se hicieron (quedan en «No encontré» con ⚠️, no aquí): más
+canales de TikTok de fandub hispano específico de Ghibli con métricas, la
+entrevista original de Roger Ebert, un ranking oficial (no de fans/prensa) de
+personaje favorito, y datos tipo databook (altura/cumpleaños) por personaje —
+este último punto (20) se resuelve mejor en cada biblia de película.
+
+### Bitácora de texto
+
+- (es) Fandom API `logos.fandom.com/api.php` → dimensiones exactas del SVG
+  del logo (1000×481) confirmadas sin descargar el archivo entero.
+- (en) WebSearch "Jost font free alternative to Futura Google Fonts" →
+  confirmado, varias fuentes coinciden.
+- (en) WebSearch "free font alternative to Albertus typeface" → sin
+  alternativa clara disponible en Google Fonts/Fontsource.
+- `fontTools.ttLib` sobre `noto-serif-jp-latin-400-normal.woff2` y
+  `jost-latin-400-normal.woff2` (descargados de Fontsource vía
+  cdn.jsdelivr.net) → comprobación real de glifos, no de memoria.
+- `ghibli.jp/gallery/{totoro,mononoke,laputa,nausicaa}001.jpg` → fotogramas
+  oficiales de cuatro películas distintas a las que ya cubre la serie hermana
+  98 (Chihiro), para variar los ejemplos del estilo general.
+- Openverse API (`api.openverse.org`) → consultas "OpenToonz", "Wolfwalkers",
+  "Studio Ponoc", "Ni no Kuni": resultados de baja utilidad (merchandising,
+  fotos de eventos, LEGO fan-made), descartados tras revisar las imágenes.
+- Wikimedia Commons API (`commons.wikimedia.org/w/api.php`) → "too many
+  requests" en tres intentos seguidos (con y sin User-Agent); abandonado.
+- `opentoonz.github.io` → página raíz sin logo accesible en el HTML
+  consultado; no se insistió más.

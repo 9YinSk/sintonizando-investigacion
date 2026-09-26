@@ -403,3 +403,209 @@ Se buscó la «cara en cada emoción» en el tráiler de historia entero (211 pl
 ⚠️ **No hay alegría, miedo ni vergüenza** en el material oficial de estos dos personajes: no ríen ni muestran miedo en pantalla. No es un fallo de búsqueda.
 Para las emociones que faltan, usa la postura y la luz (punto 17), no una cara inventada.
 
+## 14 · Poses analizadas en varias escenas
+
+### Melina (6 de vídeo y 6 de las hojas)
+
+| Pose | Fuente | Minuto o nº | Postura, manos y mirada | Sirve para |
+|---|---|---|---|---|
+| Perfil con capucha y capa | [tráiler](https://www.dailymotion.com/video/x89nx9b?t=192) | 3:12 | Quieta, de perfil y con la vista al frente | Presentar |
+| De frente, mirando a cámara, con un ojo brillante | [tráiler](https://www.dailymotion.com/video/x89nx9b?t=200) | 3:20 | Mirada directa y cara quieta | Explicar |
+| Sentada con las piernas cruzadas junto a la gracia | [GamesRadar](https://www.dailymotion.com/video/x8fuija?t=20) | 0:20 | Capucha puesta y medio de espaldas | Explicar |
+| Igual, más cerca | [GamesRadar](https://www.dailymotion.com/video/x8fuija?t=40) | 0:40 | Manos en el regazo y la luz de la gracia desde abajo | Pensar o escuchar |
+| Sentada junto al Sinluz arrodillado en la Mesa Redonda, sobre la alfombra roja | [GamesRadar](https://www.dailymotion.com/video/x8fuija?t=85) | 1:25 | Dos personajes a la misma altura | Presentar, en pareja |
+| De pie, con una columna de luz blanca detrás | [GamesRadar](https://www.dailymotion.com/video/x8fuija?t=95) | 1:35 | Erguida, en ceremonia | Animar, con solemnidad |
+| Se baja la capucha con las dos manos | hoja | nº 22 | Manos a la altura de la cara | Presentarse o revelar |
+| De pie entre piedra y brasas | hoja | nº 116 | Brazos caídos y mirada al jugador | Presentar |
+| Arrodillada con la capa, en Stormgate | hoja | nº 118 | Recogida y con la mirada baja | Pensar |
+| Se prende fuego en la Forja | hoja | nº 64-67 | La mano extendida hacia el fuego | Despedida triste |
+| Vuelta completa de modelo | hoja | nº 10, 46 y 47 | Neutra | Referencia para modelar |
+
+### Malenia
+
+| Pose | Fuente | Minuto o nº | Qué hace | Sirve para |
+|---|---|---|---|---|
+| De pie con el brazo dorado, mirando a cámara | [combate](https://www.dailymotion.com/video/x89wlj1?t=0) | 0:00 | Firme y con la espada baja | Presentar |
+| Gira en el aire con estelas blancas | [combate](https://www.dailymotion.com/video/x89wlj1?t=32) | 0:32 | Danza del Ave Acuática | Celebrar o acción |
+| Agachada, en silueta sobre el dorado | [combate](https://www.dailymotion.com/video/x89wlj1?t=96) | 1:36 | Pausa entre ataques | Pensar |
+| En llamas rojas, con alas de polilla | [combate](https://www.dailymotion.com/video/x89wlj1?t=136) | 2:16 | Amenaza | Regañar o advertir |
+| En el centro de Aeonia Escarlata, con los brazos abiertos | [combate](https://www.dailymotion.com/video/x89wlj1?t=184) | 3:04 | El golpe final | Celebrar |
+| Silueta alada de perfil sobre humo rojo | [combate](https://www.dailymotion.com/video/x89wlj1?t=248) | 4:08 | Silueta que se reconoce | Presentar |
+| **Sentada en su silla entre las raíces** | hoja | nº 57 | Espera al retador, con la cabeza baja | Presentar un reto |
+| Concept art de pie, con capa y espada | hoja | nº 43 | Pose de ficha | Presentar |
+
+### Ranni y Radahn (sólo de las hojas, sin minuto)
+
+- **Ranni.** Frente al planeta azul, en la Era de las Estrellas (nº 73), para anunciar. Ficha de pie con sombrero y capa (nº 79 y 119), para explicar. Cinemáticas (nº 14-18), para revelar.
+- **Radahn.** A caballo contra un ejército (nº 23), para la acción en grupo. Los espadones cruzados en el tráiler de Aeonia (nº 83-102), para advertir. Consorte dorado (nº 32-35), para presentar.
+
+## 15 · Vestuario (colores medidos)
+
+No hay «temporadas»: la ropa cambia por conjunto de armadura. Hex medidos con `estilo.py`. En los iconos se usa el fondo verde, que da el color limpio, sin la luz de la escena.
+
+| Personaje | Prenda | Hex medidos | De qué imagen |
+|---|---|---|---|
+| Melina | Capa y túnica con capucha, gris ceniza | #585252 · #80716F · #332F2F | [Render Melina03](https://static.wikia.nocookie.net/eldenring/images/7/7e/ER_Render_Melina03.png) |
+| Melina | Piel clara, casi de cera | #DBCDC6 · #AD9893 | La misma |
+| Malenia | Casco alado, brazo dorado y capa roja | #AD4B36 óxido · #DA7650 naranja quemado · #E7B18B dorado y piel | Key art «Goddess of Rot» |
+| Malenia | Armadura equipable de bronce viejo | #372F26 · #5E5145 · #8C8171 | Icono *Malenia's Armor* (nº 121) |
+| Radahn | Armadura de León, bronce con melena roja | #392F24 · #615440 · #9D8F75 | Icono *Radahn's Lion Armor* |
+| Radahn, Consorte (DLC) | Armadura dorada con halo | ⚠️ sin medir | nº 32-35 |
+
+**Lo que se reconoce de cada uno**
+- **Melina.** La capa gris con capucha, la bufanda crema, una túnica hasta la rodilla y las botas marrones (nº 10 y 107). Pelo ondulado por los hombros, entre castaño y rosado. **Un ojo cerrado con una marca violeta** (nº 29). No se cambia de ropa: sólo lleva la capucha puesta o bajada.
+- **Malenia.** Casco con alas (nº 125), prótesis dorada de valquiria (nº 131), capa roja y pelo rojo largo, y la espada *Mano de Malenia* (nº 140). Su escudo es la cuna en la que dormía con Miquella.
+  En la fase 2 le salen alas de pétalos y pierde parte de la armadura del torso (nº 59 y 60).
+- **Ranni.** Sombrero de bruja ancho, piel azul y capa de piel. Una paleta de azules y morados (nº 71 y 119, [wallpaper](https://w.wallhaven.cc/full/wq/wallhaven-wqkxyp.jpg)).
+- **Radahn.** Melena roja y armadura de león de bronce. En el DLC, oro con halo.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+Panorámicas oficiales de la wiki, a tamaño real y medidas con `estilo.py`:
+
+| Sitio | Hora y luz | Hex | Imagen |
+|---|---|---|---|
+| **Limgrave**, campo con el Árbol Áureo al fondo | Atardecer cálido | #525A41 · #7C7A55 · #A5A67A · #D2D3A5 | [Panorama](https://static.wikia.nocookie.net/eldenring/images/3/38/ER_Limgrave_First_Step_Panorama.png) 2428×874 ✅ |
+| **Liurnia de los Lagos**, niebla y torres de magos | Mediodía nublado y frío | #9298AF · #6F7592 · #4F5064 · #282626 | [Panorama](https://static.wikia.nocookie.net/eldenring/images/d/d4/ER_Liurnia_Lake-Facing_Cliffs_Panorama.png) 3702×1188 ✅ |
+| **Caelid**, tierra quemada y podrida | Luz roja de alarma | #2C1C1E · #553D38 · #952A25 · #D54934 | [Panorama](https://static.wikia.nocookie.net/eldenring/images/9/99/ER_Caelid_Gael_Panorama.png) 3515×1293 ✅ |
+| **Leyndell**, la capital dorada en ruinas | Gris de tormenta sobre piedra clara | #646B67 · #818883 · #444C4B · #C4C9C9 | [Imagen](https://static.wikia.nocookie.net/eldenring/images/0/08/ER_Leyndell%2C_Royal_Capital.png) 1920×1080 ✅ |
+| **Árbol Sagrado de Miquella**, congelado | Nieve y anochecer azul | #4B637C · #3C546A · #576E88 · #2B4052 | [Imagen](https://static.wikia.nocookie.net/eldenring/images/2/26/ER_Miquella%27s_Haligtree.png) 1920×1080 ✅ |
+
+El rojo de Caelid es el mismo del key art de Malenia: la Podredumbre usa ese rojo en todo el juego.
+
+**Fondos de pantalla en alta**
+- **Malenia con alas de mariposa**, de smilyfox. 3777×2125 y 1432 favoritos, el más guardado ([Wallhaven](https://w.wallhaven.cc/full/57/wallhaven-57o9j5.png)).
+- **Paisaje sin personajes**, de Nightmarian. 5120×2880 y 892 guardados, hilo en [Reddit](https://www.reddit.com/r/Eldenring/comments/q7yfo1/) ([imagen](https://w.wallhaven.cc/full/e7/wallhaven-e76ge8.jpg)). Sirve de fondo limpio.
+- **Ranni de noche en morados**, de ThorRagnarok. 2467×3700 y 387 guardados.
+- Hay dos wallpapers de WLOP a 8400×4725 y más de Melina y Malenia. Están en `referencias.json`.
+- Fotos de jugadores en [Flickr](https://live.staticflickr.com/65535/51912331407_1cd5ec19d0_b.jpg) («El arbolito», «Las estrellas en el río»), a 1024 px. Valen de referencia de encuadre, no para imprimir.
+- La victoria en los GDCA 2023, en [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/96/Elden_Ring_wins_Game_of_the_Year%2C_GDCA_2023.jpg) (3000×2001).
+
+## 17 · Guía para generar con IA (imagen y texto)
+
+### Para una IA de imagen (Firefly, Canva…)
+
+**Estilo en una frase:** *dark fantasy concept art, painterly realism, desaturated earthy palette, volumetric fog, warm golden rim light, ruined gothic stone architecture overgrown with moss, small figure against vast scale*.
+
+**Rasgos que nunca cambian**
+- **Melina:** mujer joven y menuda. Pelo ondulado por los hombros, entre castaño y rosado. **El ojo izquierdo siempre cerrado**, con una marca violeta sobre el párpado. Se ve así en los nº 2, 8, 29 y 31. Piel muy clara. Capa gris con capucha, bufanda crema, túnica gris hasta la rodilla y botas marrones.
+  Prompt: *petite young woman, wavy shoulder-length ash-rose hair, left eye permanently closed with a dark violet mark across the eyelid, pale skin, grey hooded travelling cloak, cream scarf, knee-length grey tunic, brown boots, calm solemn expression*.
+- **Malenia:** casco dorado con alas que tapa los ojos, pelo rojo muy largo, brazo protésico dorado, capa roja, armadura de bronce con filigrana y una katana larga.
+  Prompt: *tall female warrior, golden winged helmet covering the eyes, very long flowing crimson hair, golden prosthetic arm, red cape, aged bronze filigree armour, long slender katana, scarlet rot petals in the air*.
+- **Ranni:** piel azul, sombrero de bruja ancho, capa de piel y fondo de estrellas o de luna.
+- **Radahn:** gigante con melena roja, armadura de león de bronce y dos espadones.
+
+**Paleta de trabajo** (toda medida)
+- Musgo: #42504A · #5D6754 · #78815E.
+- Dorado de la gracia: #BBB478 · #DAD3A4.
+- Rojo de la Podredumbre: #9B5034 · #AD4B36 · #952A25.
+- Noche azul: #202435 · #3F4B66.
+- Ceniza: #4F525B.
+- Saturación de unos 29 % y brillo de unos 45 %.
+
+**Línea, sombreado y luz**
+- Sin contorno de tinta. Sombreado pintado en degradado.
+- Una sola luz fuerte detrás del sujeto, dorada o roja. Niebla entre la cámara y el fondo.
+- Grano leve y viñeta.
+
+**Encuadre**
+- Plano general con el personaje pequeño abajo y la arquitectura enorme.
+- Contrapicado para los jefes. Plano medio sentado para las charlas junto a la gracia.
+
+**Palabras que ayudan:** *matte painting, chiaroscuro, god rays, ember particles, weathered stone, overcast, melancholic, reverent, FromSoftware-like dark fantasy*.
+**Palabras que lo estropean:** *anime, cel shading, chibi, cartoon, vibrant, neon, glossy, cute, smiling, speech bubble, comic, clean UI, bright blue sky*.
+
+**Imágenes de referencia**
+- Estilo: panorámicas del punto 16, estatua nº 7 y tráiler de Aeonia nº 83-102.
+- Pose de Melina: [0:20](https://www.dailymotion.com/video/x8fuija?t=20), nº 22 y nº 116. Cara de Melina: nº 2 y nº 31. Ropa: nº 10 y nº 107.
+- Pose de Malenia: nº 57 (sentada), nº 43 (de pie) y [3:04](https://www.dailymotion.com/video/x89wlj1?t=184) (flor).
+- Ranni: nº 73 y nº 119.
+
+**Vocabulario de gestos.** Aquí no hay gotas de sudor ni símbolos de anime. El gesto es la postura y la luz:
+- Capucha puesta: reserva. Capucha bajada: revelación (nº 22).
+- Mirada baja: tristeza. Contraluz dorado: esperanza o gracia.
+- Rojo y pétalos: furia o podredumbre. Ceniza gris: derrota o un final amargo.
+- El juego tiene «gestos» de jugador, como el icono *Outer Order*, una figura con los brazos en cruz (nº 144).
+- **Chibi** sólo hay en la figura Figuarts mini de Radahn (nº 24) y en el manga de comedia.
+
+### Para una IA de texto (diálogos en su voz)
+
+**Reglas de voz**
+- Frases cortas y solemnes. Registro arcaico, que en inglés se hace con *thou* y *shouldst*.
+- En español: futuro y tuteo formal («¿Tomarás la corona?»), sin jerga, sin emojis ni risas.
+- Pausas con puntos suspensivos. **Casi nunca exclamaciones.** El único grito es el nombre de un jefe o un título.
+- Nada de onomatopeyas escritas. La emoción va en el peso de las palabras, no en los signos.
+
+**Frases reales, ordenadas por emoción**
+
+| Emoción | Frase real | Quién | Dónde |
+|---|---|---|---|
+| Explicando | «I offer you an accord» | Melina | [tráiler 1:32](https://www.dailymotion.com/video/x8837gv?t=92) |
+| Interrogante y serio | «Thou shouldst take the crown?» | Melina | [tráiler 0:44](https://www.dailymotion.com/video/x8837gv?t=44) ⚠️ texto tal como lo trae la parte de voz |
+| Animando | «Rise, Tarnished» | Título del tráiler de lanzamiento | [tráiler](https://www.dailymotion.com/video/x886mjr). ⚠️ Es el título: no se sabe en qué minuto se dice |
+| Animando | «The Tarnished will soon return… guided by grace once lost» | Melina, en un tráiler previo; no está en el juego | [wiki](https://eldenring.fandom.com/wiki/Melina) ⚠️ |
+| Desafiante o enfadado | «I am Malenia, Blade of Miquella. And I have never known defeat.» | Malenia | [wiki](https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella) ✅ |
+| Triste y solemne | «The Golden Order is broken to its core» | Melina, en un tráiler previo | wiki ⚠️ |
+| Narrando | «Le Cercle d'Elden fut brisé, mais par qui, et à quelle fin ?» | Narrador | [tráiler 1:28](https://www.dailymotion.com/video/x89nx9b?t=88) |
+| Alegre | ⚠️ **No hay ninguna.** Ni Melina ni Malenia tienen frases alegres en el material revisado | — | — |
+
+**Vocabulario del mundo:** Sinluz, gracia, Sitio de Gracia, Árbol Áureo, Gran Runa, Señor de Elden, la Fragmentación, Orden Dorado, los Dos Dedos, Podredumbre Escarlata, *maidenless*.
+⚠️ Las partes traducen *Tarnished* de tres formas: «Sinluz», «Sin Gracia» y «Desvaído». «Sinluz» es la que usa la comunidad hispana (el rap «Despierta, Sinluz»). Antes de publicar, mira la palabra exacta en los subtítulos latinos.
+
+## 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+**Qué es**
+- **Motor propio de FromSoftware**, que la comunidad de modding llama «Dantelion». Es el mismo motor, cada vez más evolucionado, desde *Demon's Souls* hasta *Elden Ring*. No usa Unreal ni Unity ([soulsmodding](http://soulsmodding.wikidot.com/topic:engines), [oreate](https://resources.oreate.ai/updates/the-proprietary-tech-behind-elden-ring-and-fromsoftwares-engineering-legacy)) ✅.
+- **Render realista y pintado, no cel shading.** Medido sobre la captura oficial del Árbol ardiendo: saturación 29 %, brillo 45 % y sombreado en degradado, sin línea de tinta.
+  Paleta de esa captura: #42504A #5D6754 #78815E #969B6A #293737 #111C1E #BBB478 #DAD3A4 ✅.
+- **George R. R. Martin** escribió la mitología antes de que se diseñaran los niveles.
+- Miyazaki sobre el mundo vertical: «a Tarnished's path reaches up to the branches of the heavens and twists down into the roots of the earth» ([GamesRadar+](https://www.gamesradar.com/elden-ring-fromsoftware-hidetaka-miyazaki-interview/)) ✅.
+- **Artbook oficial**, *Elden Ring Official Art Book* vol. I y II (Kadokawa). Tiene capítulos de concept art de la Tierra Intermedia, personajes, adversarios, armas e iconos ([Hypebeast](https://hypebeast.com/2022/11/elden-ring-official-art-book-volume-i-and-ii-release), [vol. II en Internet Archive](https://archive.org/details/elden-ring-artbook-vol-ii)) ✅.
+- ⚠️ No se encontró el nombre del director de arte: la entrevista japonesa de frontlinejp estaba bloqueada.
+
+**Encuadres y composición**
+- **Escala:** plano general, el personaje pequeño abajo y la arquitectura o el jefe llenando el resto. Transmite indefensión.
+- **Contraluz:** una luz cenital o trasera fuerte detrás de lo importante, sea el Árbol o un jefe.
+- **Profundidad:** niebla y partículas entre la cámara y el fondo.
+- **Contrapicado** cuando se revela un jefe. **Plano medio sentado** para charlar junto a la gracia (Melina, 0:20).
+- **Por emoción:** la tristeza va en plano fijo, frío y con ceniza (el trono gris del final). La amenaza, en rojo y con contrapicado. La esperanza, con el haz dorado vertical (final, 1:20).
+
+**Cómo replicarlo en Photoshop**
+1. Base con un pincel de textura irregular (roca, musgo) en tonos apagados, sin pincel duro.
+2. Una capa «Sobreexponer color» o «Superponer» sólo con los focos dorados (#BBB478-#DAD3A4).
+3. Niebla: una capa lisa #42504A al 20-40 % sobre lo lejano, con una máscara de degradado.
+4. Al final, ruido monocromático del 2-3 %, una viñeta suave y una curva en S sin subir la saturación.
+5. Texto con Cinzel y EB Garamond (punto 5).
+
+**Cómo replicarlo en Blender**
+- *Shader*: **Principled BSDF**, no *Shader to RGB*. Rugosidad alta en piedra y tela. Baja, con algo de metal, en armaduras y runas.
+- Contorno: **ninguno**. No uses Line Art, Freestyle ni Solidify invertido: el juego no tiene línea.
+- Niebla: **Volume Scatter** con densidad de 0.005 a 0.02, y un Sol o luz de área fuerte detrás para los rayos.
+- Luz: HDRI de cielo nublado frío y un **rim light** cálido de 2700-3200 K detrás del personaje.
+- Render: **Cycles**, o EEVEE Next con trazado de rayos. En el compositor, *Color Balance* (sombras a verde azulado, altas luces a dorado) y *Glare* tipo *Fog Glow*.
+- Modelos: la iglesia en ruinas y la forja del punto 3, y las rocas, troncos y raíces de Poly Haven. Texturas de ambientCG encima (punto 4).
+- ⚠️ Rigs de personaje: sólo se encontró el de Rellana. No se miró GitHub porque la búsqueda estaba bloqueada.
+
+## 19 · Texturas 2D
+
+**Emblemas y logos oficiales** (iconos de 1024×1024)
+- **Gran Runa de Malenia** (nº 128): un círculo de chispas rojas partido por una línea vertical ([icono](https://static.wikia.nocookie.net/eldenring/images/a/a3/ER_Icon_Key_Item_Great_Rune_Malenia%27s.png)).
+- **Gran Runa de Radahn**, con forma de estrella ([icono](https://static.wikia.nocookie.net/eldenring/images/9/9c/ER_Icon_Key_Item_Great_Rune_Radahn%27s.png)). La de Godrick también tiene su propio grabado.
+- **Emblema del Árbol Sagrado**, un árbol con alas bordado en la sobrecota y en el escudo ([sobrecota](https://static.wikia.nocookie.net/eldenring/images/a/a7/ER_Icon_Armor_Haligtree_Crest_Surcoat.png)) ✅.
+- **Hechizo Aeonia Escarlata** (nº 133), **Recuerdo de la Diosa de la Podredumbre** (nº 132) y **talismanes** (nº 134-139). Valen como iconos pequeños.
+
+**Patrones de ropa**
+- Filigrana de bronce viejo sobre tela oscura, la de Malenia: #372F26 · #5E5145 · #8C8171.
+- Piel de león rojiza cosida sobre bronce, la de Radahn: #392F24 · #615440 · #9D8F75.
+
+**Texturas libres de [ambientCG](https://ambientcg.com/view?id=Paper001)** (CC0, hasta 8K)
+- `Paper001`: grano de papel de artbook.
+- `Fabric081C`: capas viejas.
+- `Metal048A`: oro labrado.
+- `Rock064`: piedra.
+- `Bark013`: corteza.
+
+**Tramas de manga**, por si se hace una viñeta al estilo de *The Road to the Erdtree*: 34 pinceles de *screentone* de Mabecman en [Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes). ⚠️ La licencia es la de la plataforma, no CC. Revísala antes de usarlos en algo comercial.
+
+**Capas completas de una lámina:** 3D (punto 3), textura real (punto 4), textura 2D y emblema (este punto), y grano y viñeta (punto 18).
+

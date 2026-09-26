@@ -16,7 +16,8 @@ ahora lleva el lote H.)
 - 121 Tomb Raider: **COMPLETA** y subida (23:59). ✅22 ⚠️15 ❌0, 193 referencias, 56 webs, 91 minutos, 55 hex, 827 líneas.
 - 122 Little Nightmares: **COMPLETA** y subida (00:01 UTC, 26-sep). ✅25 ⚠️11 ❌0, 208 referencias, 54 webs, 120 minutos, 80 hex, 930 líneas.
 - 124 No Man's Sky: **COMPLETA** y subida (00:21 UTC), ✅20 ⚠️10 ❌0, 120 referencias, 60 webs.
-- 123-127 recolectando.
+- 123 Reanimal: **COMPLETA** y subida (01:48 UTC), ✅22 ⚠️8 ❌0, 108 referencias, 45 webs.
+- 125-127 recolectando.
 - Cambio de cuenta (25-sep, 13:25 UTC, cuenta .108): rama juntada; guardar.sh cada 300 s.
   119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
   120: imagen y voz listas; texto vacío y sin video → texto y video (Sonnet) relanzados.
