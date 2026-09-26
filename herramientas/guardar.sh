@@ -24,7 +24,7 @@ guardar() {
     done
     if [[ -d "$d/partes" ]]; then
       while IFS= read -r -d '' p; do git add -- "$p"; done \
-        < <(find "$d/partes" -type f \( -name '*.md' -o -name '*.json' \) -size -3M -print0)
+        < <(find "$d/partes" -type f \( -name '*.md' -o -name '*.json' -o -iname '*.jpg' \) -size -3M -print0)
     fi
     if [[ -d "$d/hojas" ]]; then
       while IFS= read -r -d '' h; do git add -- "$h"; done \
