@@ -105,21 +105,21 @@ Parte de `datos-texto.md` (AniList `https://anilist.co/anime/101921` — ficha, 
 
 **Serie hermana**: `biblias/43-kaguya-sama-love-is-war/partes/texto.md` leída entera (186 líneas) antes de empezar — de ahí sale todo lo que aquí se cita como "ya cubierto por 43" y no se repite.
 
-**Wiki de Fandom** `kaguyasama-wa-kokurasetai.fandom.com` (la misma que confirmó 43 e imagen de este encargo):
+**Wiki de Fandom** `https://kaguyasama-wa-kokurasetai.fandom.com` (la misma que confirmó 43 e imagen de este encargo):
 - `action=query&list=search` para "poster", "campaign election", "scoreboard" (sin resultado útil para un marcador gráfico).
-- `action=parse&prop=wikitext` leído directo en: Chaotic Election Arc, Talk Chapter 58, Kaguya-sama wo Kataritai, Love is Show (descartada, es un opening musical, no un rótulo).
-- `action=query&prop=imageinfo` para la portada del tomo 1 de *Kaguya-sama wo Kataritai* (bajada, mirada con Read, `/tmp/claude-0/trabajo/90-kaguya-sama-love-is-war-texto/full/talk_vol01_small.jpg`).
+- `action=parse&prop=wikitext` leído directo en: Chaotic Election Arc, Talk Chapter 58, `https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kaguya-sama_wo_Kataritai`, Love is Show (descartada, es un opening musical, no un rótulo).
+- `action=query&prop=imageinfo` para la portada del tomo 1 de *Kaguya-sama wo Kataritai* (`https://kaguyasama-wa-kokurasetai.fandom.com/wiki/File:Talk_Volume_01.png`, bajada, mirada con Read, `/tmp/claude-0/trabajo/90-kaguya-sama-love-is-war-texto/full/talk_vol01_small.jpg`).
 
-**TV Tropes directo** (`tvtropes.org`, no el mirror de Tropedia que usó 43 — **en esta máquina sí respondió** con `herramientas/navegar.py`, confirma lo que decía el aviso de lanzamiento):
-- `Funny/KaguyaSamaLoveIsWar` (`--selector '#main-article' --html --max 0`, texto extraído con Python, ~158 000 caracteres) → cartelas cómicas de remate, cartel "Fooled You".
-- `ShoutOut/KaguyaSamaLoveIsWar` (mismo método, ~18 000 caracteres) → toda la lista de parodias episodio a episodio, incluida la de Bakemonogatari y el cartel "Biotic Hazard".
-- `Manga/KaguyaSamaLoveIsWar` (página principal): el selector trajo sobre todo JavaScript de la plantilla del sitio y la lista de VideoExamples, no el cuerpo de tropos con folders — no se insistió más (ya se cubrió lo importante vía Tropedia, que usó 43, y las dos subpáginas de arriba sí funcionaron limpias).
+**TV Tropes directo** (`https://tvtropes.org`, no el mirror de Tropedia que usó 43 — **en esta máquina sí respondió** con `herramientas/navegar.py`, confirma lo que decía el aviso de lanzamiento):
+- `https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar` (`--selector '#main-article' --html --max 0`, texto extraído con Python, ~158 000 caracteres) → cartelas cómicas de remate, cartel "Fooled You".
+- `https://tvtropes.org/pmwiki/pmwiki.php/ShoutOut/KaguyaSamaLoveIsWar` (mismo método, ~18 000 caracteres) → toda la lista de parodias episodio a episodio, incluida la de Bakemonogatari y el cartel "Biotic Hazard".
+- `https://tvtropes.org/pmwiki/pmwiki.php/Manga/KaguyaSamaLoveIsWar` (página principal): el selector trajo sobre todo JavaScript de la plantilla del sitio y la lista de VideoExamples, no el cuerpo de tropos con folders — no se insistió más (ya se cubrió lo importante vía Tropedia, que usó 43, y las dos subpáginas de arriba sí funcionaron limpias).
 - Nota: los números de episodio de TV Tropes son **acumulados** (temporada 2 empieza en "Episode 13"), así que "Episode 16" = temporada 2, episodio 4 — confirmado cruzando con Animehunch, que sí usa la numeración por temporada.
 
 **Fuentes en inglés fuera de wiki**:
-- `en.wikipedia.org/wiki/Shinichi_Omata` (leída completa con `curl` directo, WebFetch la bloqueaba) → carrera del director en Shaft, pseudónimo Mamoru Hatakeyama, filmografía completa con referencias numeradas.
-- `animehunch.com` (leída con `curl` directo, WebFetch bloqueado por el proxy de red) → confirmación secundaria e independiente de la referencia a Bakemonogatari, con fecha (mayo 2020) y capturas de tuits citadas.
-- `cbr.com` (bloqueado por el proxy de red, no se pudo leer directamente) → se dejó como referencia sin verificar el detalle visual del marcador de victorias (ver «No encontré»).
+- `https://en.wikipedia.org/wiki/Shinichi_Omata` (leída completa con `curl` directo, WebFetch la bloqueaba) → carrera del director en Shaft, pseudónimo Mamoru Hatakeyama, filmografía completa con referencias numeradas.
+- `https://animehunch.com/internet-is-talking-about-the-monogatari-reference-in-kaguya-sama-love-is-war-season-2-episode-4/` (leída con `curl` directo, WebFetch bloqueado por el proxy de red) → confirmación secundaria e independiente de la referencia a Bakemonogatari, con fecha (mayo 2020) y capturas de tuits citadas.
+- `https://www.cbr.com` (bloqueado por el proxy de red, no se pudo leer directamente) → se dejó como referencia sin verificar el detalle visual del marcador de victorias (ver «No encontré»).
 
 **Búsquedas web** (WebSearch, en inglés):
 1. Mamoru Hatakeyama Shaft Monogatari Kaguya-sama director style

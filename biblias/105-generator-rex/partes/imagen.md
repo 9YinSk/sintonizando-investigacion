@@ -57,8 +57,27 @@ Circe | Top interior (gris azulado) | #838694 | Circe.png
 Circe | Guantes/botas (tostado) | #554E43 | Circe.png
 
 Nota: son capturas de wiki en baja resolución (333×250), colores «planos» del cel-shading de la serie sin degradado
-fuerte; el hex es representativo del tono base de cada prenda, no un Pantone exacto. Rex NO lleva camiseta blanca
-(como asumen algunos resúmenes en inglés): es verde oscuro, confirmado mirando el arte oficial.
+fuerte; el hex es representativo del tono base de cada prenda, no un Pantone exacto.
+
+**Descripción oficial completa de Rex** (ficha «Physical appearance» de la wiki, en inglés, traducida): piel
+morena, pelo negro liso hacia atrás y levemente puntiagudo, ojos cafés. Chamarra roja-naranja con estampado.
+Camiseta de dos colores: mitad de arriba azul-verdoso (coincide con el hex medido #394B45, la wiki la llama
+«blue»), mitad de abajo **blanca** (visible bajo la chamarra en varios fotogramas, p. ej. hoja 1 nº8 y nº24).
+Pantalón negro con patrones geométricos azules que brillan cuando usa sus poderes. Guantes azules con puños
+naranjas. Zapatos azul-negro. Goggles de lente naranja, normalmente sobre la cabeza, no puestos · Generator Rex
+Wiki (texto de la ficha) + medición propia con Pillow (coincide en el tono de la mitad de arriba) · ✅ · —
+
+**Peinado y accesorios de los demás** (de las mismas fichas, en inglés): Agent Six, pelo castaño oscuro corto,
+katanas a la espalda (su arma, no accesorio de moda) · Bobo Haha es un chimpancé EVO (no un mono cualquiera:
+ficha oficial dice «Chimpanzee EVO»), pelo/pelaje castaño, cresta roja en la cabeza, pistolas láser gemelas ·
+Circe tiene el pelo negro con mechas rojas (antes fue negro con morado, cambia tras un arco de la temporada 2) ·
+✅ (fichas de infobox de la wiki, dato estructurado, no prosa de fan) · —
+
+**Por temporada**: la chamarra roja de Rex es su «uniforme» icónico y se repite igual en capturas numeradas de
+las 3 temporadas (101, 115, 201, 209, 219, 316, 319, 320 en los nombres de archivo de la wiki); no cambia de
+color entre arcos. Sí tiene trajes especiales puntuales para misiones (traje sigiloso oscuro en «Rex in a
+stealth suit.png», hoja 1 nº45) y White Knight tiene un «White Knight Battle Suit» distinto a su abrigo normal
+(hoja 3 nº108-109) · ✅ (visto en las hojas de contacto, capturas de episodios repartidos en toda la serie) · —
 
 ## 3 · Fan art (referencia) y modelos 3D con licencia libre
 
@@ -156,3 +175,59 @@ interior, sólo los títulos)
   2010-2013 sin ese tipo de merchandising posterior; búsquedas «Generator Rex x Fortnite», «Generator Rex café»,
   «Generator Rex gacha collab» sin resultados relevantes.
 
+
+## Lo mejor para la lámina
+
+- El retrato oficial de Rex Salazar (chaqueta roja #A04D47 + camiseta verde #394B45 + goggles naranjas) es la
+  referencia de vestuario más segura: aparece igual en episodios, en el DVD y en el toy line.
+- La imagen promocional 1920×1080 del crossover «Heroes United» ya viene en resolución de lámina (1200×800 cabe
+  de sobra) y muestra a Rex en pose de acción, no de pie estático.
+- Los modelos 3D CC Attribution de los nanites (Meta-Nanites, Standard Nanite) son el material más fiel al
+  «fijarse especialmente en nanitos» que pide el encargo: se pueden renderizar en Blender con textura metálica
+  de ambientcg encima.
+- El build Punk Busters (guantes-cañón de Rex) en 3D descargable sirve para una pose «con su arma/objeto», la
+  queja explícita del dueño sobre láminas «de pie con una ropa».
+- El certificado de Providence (1208×920) da tipografía y grafismo institucional real para cualquier prop de
+  fondo (diploma, carné, pantalla de interfaz) sin inventar nada.
+
+## No encontré
+
+- Wallpapers oficiales dedicados (pack de fondos de pantalla del estudio): no existen para esta serie de
+  2010-2013; búsqueda `wallhaven.cc/api/v1/search?q=Generator Rex` → 0 resultados. Lo más parecido son fan arts
+  grandes de Pixiv/X y la imagen promo del crossover.
+- Colaboraciones con marcas externas o eventos (cafés temáticos, Fortnite, gachas): búsquedas web «Generator Rex
+  x Fortnite», «Generator Rex café temático», «Generator Rex gacha collab» sin resultados relevantes; es
+  esperable en una serie sin esa clase de merchandising posterior.
+- Poly Haven no tiene nada específico de la serie (es un banco genérico); se cubrió el hueco con ambientcg (CC0)
+  para las texturas del punto 19.
+- No se abrió cada número de los cómics digitales «Cartoon Network Action Pack» para ver su arte interior línea
+  por línea (⚠️ sólo se confirmaron los títulos existentes en la wiki); quien monte la lámina puede profundizar
+  ahí si necesita más referencias de cómic.
+- Licencia exacta del modelo «Biowulf (generator rex)» de Sketchfab: aparece como descargable en la búsqueda
+  pero no se abrió su ficha individual para confirmar el tipo de CC.
+
+## Bitácora
+
+- Wiki de Fandom: `generatorrex.fandom.com` (imágenes en `static.wikia.nocookie.net/generatorrexpedia/`),
+  confirmada por búsqueda en `api.php?action=query&list=search`. `datos-imagen.md` no traía wiki (el encargo no
+  la fijó); se buscó a mano.
+- `investigar_serie.py --wiki generatorrex --min-px 90000 --paginas "Rex Salazar" "Agent Six" "Bobo Haha"
+  "Providence" "Van Kleiss" "Breach" "White Knight" "Rex Salazar's machines" "Nanites" "Circe" "Noah Nixon"
+  "Rebecca Holiday"` → 121 imágenes enlazadas, 113 grandes, 3 hojas de contacto (en español: se subieron a
+  `hojas/` como `personajes_01.jpg`, `personajes_02.jpg`, `maquinas_01.jpg`).
+- Colores: recorte con Pillow de zonas de tela limpias (sin borde de línea) sobre el retrato oficial de cada
+  personaje en la wiki; verificado visualmente con recortes ampliados antes de medir (ver método en el punto 15).
+- Danbooru `related_tag` y Safebooru API (`tags=generator_rex`) en inglés, para fan art y vocabulario de tags.
+- Sketchfab API (`api.sketchfab.com/v3/search?type=models&q=...&downloadable=true`) en inglés, varias consultas:
+  «generator rex», «generator rex nanite», «generator rex jetpack», «rex salazar», «biowulf generator rex»,
+  «Meta-Nanites». Se comprobó licencia y nº de caras de cada modelo elegido con `api.sketchfab.com/v3/models/<id>`.
+- ambientcg API (`ambientcg.com/api/v2/full_json`) para texturas CC0: Metal, Fabric, Paper.
+- Búsquedas web (WebSearch, en inglés): «Generator Rex wallpaper 1920x1080», «Generator Rex Sketchfab 3D model
+  download», «Generator Rex action figure Mattel 2010», «Generator Rex cosplay Rex Salazar costume», «Generator
+  Rex DVD cover complete series poster key art», «circuit board pattern seamless texture CC0», «free halftone
+  dot pattern brushes Photoshop CC0 comic screentone». 7 búsquedas usadas del cupo de ~50.
+- `datos-imagen.md` (recolectar.py) revisado primero: casi todo su contenido (Danbooru/Safebooru de Raven,
+  Robin, Starfire, Marceline, Bonnibel, Buttercup; Sketchfab de terrenos/SciFi genérico; Openverse de dinosaurios
+  y NASA OSIRIS-REx) es ruido de una búsqueda genérica por la palabra «rex» sin wiki fijada; se descartó y se
+  investigó todo de nuevo con la wiki correcta. Sólo se aprovechó el bloque de `rex_salazar` en Danbooru y
+  Safebooru, que sí es de esta serie.

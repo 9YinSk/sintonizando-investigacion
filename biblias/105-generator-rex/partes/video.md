@@ -10,7 +10,7 @@ Mirado con `fotogramas.py` (hojas de contacto de verdad, no descripciones).
 
 - Opening completo (0:00-0:20), calidad HD: nanite event global → Rex forma
   Smack Hands y hace pose de victoria (0:04) → Six con katana (0:07) → Rex usa
-  Punk Busters corriendo (0:09) → Holiday y Rex (0:11) → Bobo hace girar un
+  Punk Busters corriendo (0:09) → Holiday y Rex de perfil (0:10-0:11) → Bobo hace girar un
   balón en el dedo junto a Noah y Rex (0:13-0:14) → Rex en hoverboard (0:15) →
   logo «GENERATOR REX, creado por Man of Action» (0:20) · https://www.dailymotion.com/video/xa14dbg (World Cartoon Videos, resube el opening real de Cartoon Network) · ✅ (coincide con la 2.ª hoja de créditos abajo y con el logo oficial de la wiki) · fotogramas cada 1 s, hoja en /tmp/claude-0/trabajo/105-generator-rex-video/opening_hd/hoja_01.jpg
 - Créditos de cierre (0:16-0:52 del mismo clip combinado): «Music by KEVIN
@@ -120,9 +120,9 @@ Hex sacados con `estilo.py` sobre fotogramas propios (no de memoria).
 |---|---|---|---|
 | Rex forma Smack Hands (puños-máquina naranjas) y queda en pie con las piernas separadas, sonriendo | Opening oficial | 0:04-0:05 (https://www.dailymotion.com/video/xa14dbg&t=4) | Celebrar / presentar su poder |
 | Rex corre con Punk Busters (botas propulsoras), inclinado hacia delante, puños cerrados | Opening oficial | 0:09-0:10 (https://www.dailymotion.com/video/xa14dbg&t=9) | Animar / acción rápida |
-| Six desenvaina la katana con las piernas en guardia, traje verde | Opening oficial | 0:07 (https://www.dailymotion.com/video/xa14dbg&t=7) | Regañar / amenazar con calma |
+| Six camina con la katana ya desenvainada y baja, mirada fija al frente, traje verde | Opening oficial | 0:06-0:07 (https://www.dailymotion.com/video/xa14dbg&t=6) | Regañar / amenazar con calma |
 | Bobo hace girar un balón en un dedo, sonrisa ladeada, junto a Noah y Rex | Opening oficial | 0:13-0:14 (https://www.dailymotion.com/video/xa14dbg&t=13) | Presentar al trío / relajar el tono |
-| Rex de brazos cruzados, ceja arqueada, sonrisa de lado, chaqueta roja | Opening oficial (créditos, plano de grupo) | 0:11 (https://www.dailymotion.com/video/xa14dbg&t=11) | Explicar con seguridad / pose «sabelotodo» |
+| Rex de perfil, sonrisa amplia y segura, luz lateral fuerte que le marca la cara | Opening oficial | 0:11 (https://www.dailymotion.com/video/xa14dbg&t=11) | Presentar / pose «sabelotodo» |
 | Six salta de un edificio de noche con línea de descenso, capa de humo detrás | «Operation: Wingman» (T1E11) | 2:00-2:15 (https://www.dailymotion.com/video/x2tkgs7&t=120) | Acción / entrada dramática |
 | Bobo con corbatín levanta el pulgar sonriendo, en una gala | «Operation: Wingman» (T1E11) | 1:00 (https://www.dailymotion.com/video/x2tkgs7&t=60) | Animar / aprobar un plan |
 | Rex con las manos abiertas hacia el espectador, cejas fruncidas, explicando algo urgente | Tráiler del videojuego (interior de ruinas) | 0:33 (https://www.dailymotion.com/video/x84bg5o&t=33) | Explicar / advertir |
@@ -187,5 +187,6 @@ Hex sacados con `estilo.py` sobre fotogramas propios (no de memoria).
   hosts permitida desde este servidor: no pude leerlo directo; la wiki cita
   esa misma fuente para el dato de Kevin Manthei, así que lo dejé con la
   wiki + los créditos del propio show como las dos fuentes.
-- No usé todavía el cupo de búsqueda web (WebSearch): todo salió de
-  Dailymotion, Internet Archive y la wiki de Fandom directamente.
+- WebSearch (2 de ~50): «"Generator Rex" TikTok edit OR trend 2024 2025»
+  (nada relevante) y «"Generator Rex" opening theme song "Revolution" Orange
+  band» (confirmó la autoría en Wikipedia, Bandcamp y Apple Music/Spotify).

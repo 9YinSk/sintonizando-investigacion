@@ -130,9 +130,142 @@ la fuente in-game; contrastado con lo ya visto en los fotogramas propios, ver pu
 
 ## Hallazgos · Punto 13 — Descripción profunda de cada personaje
 
+Vídeos mirados de verdad (con `fotogramas.py`, hojas de contacto revisadas con Read): tráiler oficial
+del anime «Persona 5 the Animation - Trailer #2» (Gematsu, Dailymotion, 96 s) ·
+https://www.dailymotion.com/video/x6gu5mf · y un clip doblado al inglés del episodio de playa
+(«Persona 5 the Animation - The Beach», canal !t Live en Dailymotion, 107 s, con subtítulos en inglés
+quemados) · https://www.dailymotion.com/video/x6uu26k · ambos con hoja de contacto y fotograma exacto,
+✅ (visto directamente, no descrito de oídas).
+
+- **Ren Amamiya / Joker · carácter:** líder callado y observador, fuerte sentido de la justicia y de
+  la rebeldía (su Persona inicial, Arsène, personifica esa voluntad) · AniList (ya en `datos-voz.md`) · ⚠️
+- **Ren · cómo se expresa:** casi no habla en el juego (protagonista silencioso con opciones de
+  diálogo), pero en el anime SÍ tiene voz propia; frase real doblada al inglés cuando ve a Morgana
+  hablar mientras compran comida de playa (contexto normal, tono calmado): «I'm fine. You guys are
+  here.» · clip visto, minuto 0:36 · https://www.dailymotion.com/video/x6uu26k&t=36 · ✅
+- **Ren · cara en cada emoción (vistas, con minuto):**
+  - Confianza/picardía, justo al ponerse la máscara de Ladrón Fantasma por primera vez en el tráiler ·
+    0:15 · https://www.dailymotion.com/video/x6gu5mf&t=15 · ✅
+  - Determinación/mirada fija antes de transformarse · 1:19 ·
+    https://www.dailymotion.com/video/x6gu5mf&t=79 · ✅
+  - Intensidad/dolor (herida cerca del ojo, primer plano) · 1:13 ·
+    https://www.dailymotion.com/video/x6gu5mf&t=73 · ✅
+- **Ryuji Sakamoto · carácter:** «problema» declarado en el instituto, orgulloso de serlo; rebelde,
+  travieso, corto de genio — pero es una fachada: en el fondo es optimista, vago y hasta algo cobarde
+  · wiki megamitensei (Personality) · https://megamitensei.fandom.com/wiki/Ryuji_Sakamoto#Personality · ✅
+  (contrastado con AniList, que dice lo mismo con otras palabras)
+- **Ryuji · cómo se expresa (cita real, in-game):** «If you told him, you told him. I'm over all that
+  stuff with my parents anyways. […] I might've messed up with Kamoshida back then, but hangin' on to
+  the past ain't gonna help anythin'. I'm just gonna focus on bein' myself now… on bein' free.» — nótese
+  que come letras al hablar (`hangin'`, `bein'`, `anythin'`), su forma de hablar callejera · wiki
+  (cita textual) · ✅
+- **Ryuji · cara en cada emoción (vista):** alegría/emoción a gritos al ver el mar, sin camisa, puños
+  cerrados: «Swimsuits!» · clip visto, 0:16 · https://www.dailymotion.com/video/x6uu26k&t=16 · ✅
+- **Morgana · carácter:** al principio se cree más grandioso de lo que es, orgulloso, mira por encima
+  del hombro a los demás, usa tácticas manipuladoras para conseguir ayuda; le falta una brújula moral
+  fuerte y prioriza la iniciativa y el poder · wiki (ya en `datos-voz.md`, Personality) · ✅
+- **Morgana · cómo se expresa:** llama «Lady Ann» a Ann Takamaki (apodo cariñoso/galante) · cita real
+  doblada al inglés en la playa: «You look beautiful, Lady Ann!» · clip visto, 0:40 ·
+  https://www.dailymotion.com/video/x6uu26k&t=40 · ✅
+- **Morgana · cara en cada emoción (vista):** alegría/excitación, boca abierta, en pleno salto (forma
+  gato) · tráiler del anime, 0:30 · https://www.dailymotion.com/video/x6gu5mf&t=30 · ✅
+- **Ann Takamaki · carácter:** amable y compasiva; años de aislamiento por su aspecto la volvieron
+  retraída, con la sensación de no encajar, pero eso no le impide abrirse a la gente cercana; buena
+  juzgando el carácter ajeno (fue la primera en creer en el protagonista) · wiki megamitensei
+  (Personality) · https://megamitensei.fandom.com/wiki/Ann_Takamaki#Personality · ✅
+- **Ann · cómo se expresa (cita real, antes de despertar a su Persona):** «I hear you… Carmen. You're
+  right. No more holding back…!» — frase de determinación justo antes de transformarse, un patrón que
+  se repite con cada Ladrón (grito + nombre de la Persona) · wiki (cita textual) · ✅
+- **Yusuke Kitagawa · carácter y manía real (vista y oída):** obsesión cómica con la comida por su
+  pasado de hambre bajo Madarame; en la playa compra dos langostas «por apreciarlas» — cita textual
+  doblada: «I found these on sale over there.» → «The moment I set eyes on this distinct shape, I was
+  in love.» · clip visto, minutos 1:32-1:40 · https://www.dailymotion.com/video/x6uu26k&t=92 · ✅ (visto
+  en vídeo Y confirmado como chiste recurrente del fandom en el punto 12 — dos fuentes independientes)
+- **Futaba Sakura · carácter y gesto (visto):** ansiedad social real: en la playa, rodeada de gente,
+  se la ve tensa; Yusuke le pregunta si está bien y ella responde a la defensiva «I'm fine. You guys
+  are here.» (la línea es de Yusuke calmándola, Futaba sólo asiente nerviosa en pantalla) · clip visto,
+  0:32 · https://www.dailymotion.com/video/x6uu26k&t=32 · ⚠️ (gesto interpretado del fotograma, no hay
+  línea propia de Futaba en ese segundo exacto)
+- **Goro Akechi · carácter (vista):** cortesía pública, medio sonriente, controlado — la imagen que da
+  de cara al público, coherente con su fama de «segundo advenimiento del príncipe detective» · AniList
+  (ya en `datos-voz.md`) + tráiler, 0:29 · https://www.dailymotion.com/video/x6gu5mf&t=29 · ✅
+
 ## Hallazgos · Punto 20 — Gustos y detalles de cada personaje
 
+Datos oficiales cruzados: AniList (fichas de personaje, ya en `datos-voz.md`) contra la wiki
+megamitensei con su fuente citada «P5R Height Chart» (imagen oficial del juego/artbook). Cuando las
+dos coinciden se marca ✅; cuando difieren (pasa con la altura de Ryuji y Ann) se avisa para que el
+redactor elija la del artbook oficial.
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Ren Amamiya (Joker) | Café recién hecho, hacer curry | — (no listado) | Preparar café y curry en Leblanc; leer | sin cumpleaños canon (el jugador elige la fecha de inicio) | 175 cm | AniList https://anilist.co/character/121590 y wiki (coinciden) https://megamitensei.fandom.com/wiki/Ren_Amamiya · ✅ |
+| Ryuji Sakamoto | — (no listado en fichas) | que le recuerden su pierna lesionada / el pasado con Kamoshida | atletismo (ex-estrella de pista, lesionado) | 3 de julio | 175 cm (AniList) **vs** 170 cm (wiki, artbook «Height Chart») — ⚠️ discrepancia, usar 170 cm si hay que elegir uno solo | AniList https://anilist.co/character/122974 · wiki https://megamitensei.fandom.com/wiki/Ryuji_Sakamoto · ⚠️ (altura en conflicto) |
+| Ann Takamaki | — (no listado en fichas) | que la juzguen por su aspecto/ser modelo | modelaje | 12 de noviembre | 168 cm (AniList) **vs** 165 cm (wiki, artbook) — ⚠️ discrepancia | AniList https://anilist.co/character/120335 · wiki https://megamitensei.fandom.com/wiki/Ann_Takamaki · ⚠️ |
+| Morgana | — (no listado) | que lo llamen «gato» sin más | investigar el Metaverso y Mementos | sin cumpleaños (amnésico) | 60 cm bípedo / 50 cm en gato — coincide en AniList y en wiki | AniList https://anilist.co/character/122976 · wiki (coinciden) https://megamitensei.fandom.com/wiki/Morgana · ✅ |
+| Futaba Sakura | la informática/hackear, el anime/juegos (hikikomori) | salir de casa, el contacto social directo | programación | 19 de febrero | 152 cm | AniList https://anilist.co/character/121635 · ⚠️ (una fuente) |
+| Makoto Niijima | el orden, ayudar a los demás | la injusticia, sentirse «inútil» | estudiar, motocicletas (su Persona es una moto) | 23 de abril | 164 cm | AniList https://anilist.co/character/122977 · ⚠️ |
+| Yusuke Kitagawa | el arte, la comida (¡en especial la langosta, ver punto 13!) | que le falte comida/dinero | pintar | 28 de enero | 181,9 cm | AniList https://anilist.co/character/122975 · ⚠️ |
+| Goro Akechi | resolver casos como detective | los adultos corruptos que lo usaron | el ajedrez, la investigación | 2 de junio | 178 cm | AniList https://anilist.co/character/121782 · ⚠️ |
+| Haru Okumura | la jardinería (su Persona/arma es un hacha de jardín) | que la traten como un objeto de su familia | cultivar plantas | 5 de diciembre | 158 cm | AniList https://anilist.co/character/122978 · ⚠️ |
+
+- **Cómo se ve a sí mismo, Ren:** el juego lo obliga a vivir «bajo sospecha» constante; su arco es pasar
+  de sentirse un marginado injusto a liderar un grupo que cambia la sociedad · deducido de la sinopsis
+  oficial de AniList (ya en `datos-voz.md`) · ⚠️
+- **El objeto que siempre lleva:** Joker, sus guantes rojos y su antifaz de Ladrón Fantasma (ver «qué
+  NO hacer» del punto 12); Morgana, nada (su propio cuerpo es su «objeto»); Ryuji nada fijo salvo su
+  ropa deportiva · observación de los fotogramas + memes (punto 12) · ⚠️
+
 ## Hallazgos · Punto 21 — Por qué la gente la ama
+
+**Por qué la gente la ama (con números y premios):**
+- Ganó **«Mejor RPG»** en The Game Awards 2017 (7-dic-2017) · fuente 1 https://personacentral.com/persona-5-awarded-best-role-playing-game-game-awards-2017/ ·
+  fuente 2 (el propio Atlus West lo celebró) https://www.facebook.com/AtlusWest/posts/we-never-saw-it-coming-persona-5-won-best-rpg-at-the-game-awards-thank-you-every/10155151045728339/ · ✅
+- Metacritic: *Persona 5 Royal* tiene 95/100, uno de los JRPG mejor puntuados de la historia (Guinness
+  World Records se lo reconoció en 2026) · https://www.metacritic.com/game/persona-5-royal/ ·
+  https://www.guinnessworldrecords.com/news/2026/9/persona-5-royal-snatches-the-crown-for-best-rated-jrpg · ✅
+- Ventas: *Persona 5* + *Royal* juntos superaron **10,46 millones de copias** en el mundo (agosto de
+  2025); *Royal* solo lleva 7,25 millones; la serie *Persona* completa supera los 27 millones (julio de
+  2025) · Persona Central, citando la reunión de gestión de Sega ·
+  https://personacentral.com/p5-p5r-10-million-sales/ (24-sep-2025) · ⚠️ (una fuente que cita a Sega
+  directamente, no hay comunicado oficial de Sega en español/inglés que se haya podido abrir aparte)
+
+**Escenas que hacen llorar (capítulo/fecha del juego, minuto si hay vídeo, música y reacción):**
+- **El «sacrificio» de Ryuji tras el Palacio de Shido** (fecha in-game 12/8, diciembre): el barco
+  explota, Ryuji corre pese a su pierna lesionada para liberar el bote salvavidas y queda atrás; el
+  grupo lo da por muerto y Ann queda «inconsolable»; resulta que sobrevivió, pero la escena golpea
+  fuerte. Música confirmada por transcripción con capturas del propio juego: primero «Run, Run, Run!»
+  (huida), luego **«Collapse of Pride»** en el momento exacto del sprint de Ryuji · TV Tropes
+  (TearJerker) https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/Persona5 · confirmado con capturas
+  reales del juego (Let's Play transcrito) https://lparchive.org/Persona-5/Update%20184/ · ✅ (dos
+  fuentes independientes, una con capturas literales del juego)
+- **La despedida final, día 3/19 (19 de marzo), «The Long Farewell»:** el protagonista se despide uno
+  por uno de todos sus Confidants antes de volver a su ciudad; Sojiro se quita las gafas para secarse
+  las lágrimas cuando el protagonista se va. Música confirmada: **«Sunset Bridge»**, en bucle durante
+  toda la secuencia de despedidas · Let's Play transcrito (capturas reales) ·
+  https://lparchive.org/Persona-5/Update%20210/ · TV Tropes (TearJerker, «Just before the Protagonist
+  leaves to go home, he has one last talk with Sojiro… wipe tears from his eyes») · ✅ (dos fuentes)
+- **Futaba y su madre** (final del Palacio de Futaba): al vencer a la Sombra que representa la culpa de
+  Futaba, aparecen los sentimientos reales de su madre (que nunca la culpó de su muerte) y se despiden
+  con cariño · TV Tropes (TearJerker) · ⚠️ (una fuente, sin minuto de vídeo verificado)
+- **Todo el grupo desapareciendo poco a poco** (antes de la batalla final, cuando el público deja de
+  creer en los Ladrones Fantasma): Morgana se culpa a sí mismo, el jugador puede consolarlo; según
+  varias reseñas de música, aquí suena una versión instrumental de **«Hoshi to Bokura to»** (「星と僕らと」,
+  "Las estrellas y nosotros") · TV Tropes (TearJerker) + búsqueda cruzada sobre la música ·
+  ⚠️ (la música se confirmó por una sola fuente de resumen, no por una captura literal del juego como
+  las dos anteriores; el redactor puede pedir doble check si la usa en la lámina)
+- **Reacción de la gente:** el hilo de Reddit r/Persona5 «Don't get me wrong, I love Makoto, but it's
+  scenes like this…» (891 votos, 158 comentarios, ya en `datos-voz.md`) muestra que estas escenas
+  siguen generando debate y cariño años después; el post original está borrado (no se pudo leer el
+  texto completo, comprobado con `navegar.py`), pero el título y los votos ya dicen que golpeó fuerte ·
+  https://www.reddit.com/r/Persona5/comments/1752buz/ · ⚠️
+
+**Con qué personaje se identifica el público:** los foros y Reddit (ya en `datos-voz.md`, hilos «why I
+love», «iconic») se centran sobre todo en Makoto, Futaba y Yusuke — los tres tienen arcos sobre
+sentirse «distintos» o «inútiles» y superarlo, algo con lo que mucha gente conecta · deducido de los
+títulos de hilos recolectados + las dos encuestas oficiales del punto 7 (ambas los ponen en el top 5)
+· ⚠️ (interpretación propia a partir de datos ya reunidos, no una encuesta directa de «con quién te
+identificas»)
 
 ## Hallazgos · Punto 22 — Fan dubs y comunidad hispana
 

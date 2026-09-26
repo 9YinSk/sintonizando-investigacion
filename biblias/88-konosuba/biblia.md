@@ -139,3 +139,137 @@ YouTube pide iniciar sesión desde el contenedor. Los investigadores vieron todo
 
 **Un episodio entero mirado plano a plano**: temporada 2, episodio 2 ([Internet Archive](https://archive.org/details/kono-subarashii-sekai-ni-shukufuku-wo-s-2-ep-2-tm), 430 fotogramas). De ahí salen el llanto de Aqua (4:45) y la vergüenza de Megumin (21:58), en el punto 13.
 
+## 3 · Fan art y modelos 3D con licencia
+
+**Fan art sólo como referencia** (nunca para pegar). Lo mejor valorado en [Safebooru](https://safebooru.org/images/2821/23cd35cdcf180cf8e0ad9c0c4c0a07845bb51450.png), con su origen:
+
+- Megumin en acción con el báculo, 2255×3000. Origen en [Pixiv](https://i.pximg.net/img-original/img/2019/10/28/07/49/28/77518288_p0.png) ⚠️.
+- «Megumin explosion» de marpaparp, 3600×4800. Origen en [DeviantArt](https://orig00.deviantart.net/f393/f/2016/130/9/1/megumin___explosion_by_marpaparp-da20dhu.png) ⚠️.
+- «Kimono Darkness» de zarory, 2793×4000: [DeviantArt](https://www.deviantart.com/zarory/art/Kimono-Darkness-895971059) ⚠️.
+- Arte promocional de *Isekai Quartet*, 4096×2900: [cuenta oficial en X](https://twitter.com/isekai_quartet/status/1128325214578679808) ✅.
+
+**Vocabulario de etiquetas de [Danbooru](https://danbooru.donmai.us/related_tag?query=megumin)** (lo que más se repite al dibujar a cada uno; sirve para la IA, punto 17) ✅:
+
+- Kazuma: `track_jacket`, `green_jacket`, `v-shaped_eyebrows`.
+- Aqua: `sphere_hair_ornament`, `hair_rings`, `detached_sleeves`.
+- Megumin: `witch_hat`, `red_dress`, `bandaged_leg`, `fingerless_gloves`.
+- Darkness: `x_hair_ornament`, `high_ponytail`, `armor`, `torn_clothes`.
+
+**Modelos 3D descargables en Sketchfab.** Licencia **CC Attribution** (se usan citando al autor), comprobada en la API de Sketchfab ✅:
+
+| Modelo | Autor | ♥ | Enlace |
+|---|---|---|---|
+| Sombrero de Megumin (objeto suelto) | Eques_inferno | 379 | [sketchfab](https://sketchfab.com/3d-models/none-444a0c2f7ed449be9f127341b4eb2137) |
+| Báculo de Megumin | Eques_inferno | 147 | [sketchfab](https://sketchfab.com/3d-models/none-75a6115352ec4697adb16411dfb32773) |
+| Megumin completa | xenoaisam | 258 | [sketchfab](https://sketchfab.com/3d-models/none-148da44b16dc4dd9ab102606d6d46ebd) |
+| Aqua chibi | Partaevil | 391 | [sketchfab](https://sketchfab.com/3d-models/none-549de66768ed422681106d3028d1cf4f) |
+| Aqua completa | julianmigueldescolado2008 | 161 | [sketchfab](https://sketchfab.com/3d-models/none-ed0a8da0978f4779b3353a84bd21bef2) |
+| Báculo de Aqua | aosome23 | 33 | [sketchfab](https://sketchfab.com/3d-models/none-61db344a4d724dad8fd598e330a80710) |
+| Megumin y Aqua low poly (pareja) | johnsproject | 58 y 40 | [Megumin](https://sketchfab.com/3d-models/none-ee36bc1ce6574618bc81f031c3dddbda) · [Aqua](https://sketchfab.com/3d-models/none-c60f6f21fefb43a0971addb6cfde2fa0) |
+| Interior de la mansión de Kazuma | Pr2Hack | 111 | [sketchfab](https://sketchfab.com/3d-models/none-f8ab91246e26404888899f2a5505703b) |
+| Darkness | jb117 | 24 | [sketchfab](https://sketchfab.com/3d-models/none-0631add2cd7845949bfd5534b576d768) |
+| Chomusuke, el gato de Megumin | HTHẻo | 8 | [sketchfab](https://sketchfab.com/3d-models/none-fcdfb068ecc34d4780cf377c536fd650) |
+| Máscara de Vanir | jenardo | 5 | [sketchfab](https://sketchfab.com/3d-models/none-5df72c5acd5147f693df17efdc6dd43c) ⚠️ |
+| Espada Gram de Mitsurugi | DarksonZero | 3 | [sketchfab](https://sketchfab.com/3d-models/none-52ce0b7d01c1495784a73b9b779bf9e9) ⚠️ |
+
+Crédito exacto: «"<nombre del modelo>" by <autor> is licensed under CC BY 4.0».
+
+**Ojo:** dos modelos de Megumin (de `plaxa3` y `Blueky`) son **CC BY-NC**. No valen si la lámina se usa para algo comercial.
+
+**Poly Haven** no tiene nada de la serie: es un banco genérico de HDRI y texturas. Se comprobó ✅.
+
+## 4 · Fondos y sitios: luz, paleta y texturas
+
+Todos los hex están medidos con `estilo.py` sobre fotogramas reales.
+
+**Castillo del Reino de Belzerg al atardecer** (tráiler T3, 0:20, [fotograma](https://www.dailymotion.com/video/x8tpkt4&t=20)):
+
+- Paleta: `#F7EF78` amarillo cálido, `#FDFDA0` cielo pálido, `#CEAC5E` dorado, `#A9844C` ocre, `#856539` y `#614729` marrones, `#3C301E` y `#201B10` casi negro.
+- Luz: contraluz dorado, el castillo en silueta.
+- Saturación 51 %, brillo 58 %, línea fina `#BFAA51`.
+
+**Campo verde con muralla y explosión** (tráiler T3, 1:20, [fotograma](https://www.dailymotion.com/video/x8tpkt4&t=80)):
+
+- Paleta: `#E28F59` naranja de explosión, `#FAE1AA` fogonazo, `#57773D`, `#406335` y `#2A4B29` hierba, `#627E62` verde gris, `#9B8442` tierra, `#959F81` verde apagado.
+- Luz: de día, nublado suave. El único punto cálido es la explosión.
+- Saturación 46 %, brillo 59 %, línea `#5E654B`.
+
+**La mansión del grupo** (opening 1, 0:32):
+
+- Paleta: `#80DAF4` cielo, `#E9F3F6` blanco cielo, `#BFDBE6` celeste pálido, `#687686` tejado gris azul, `#30515D` azul oscuro, `#72C360` y `#3A892D` césped.
+- Luz: día claro. Es el fotograma más luminoso (brillo 74 %).
+
+**Puerta y plaza de Axel** (opening 1, 0:40):
+
+- Paleta: `#DEDBD2`, `#BCB9B0` y `#969388` piedra clara, `#616360` piedra gris, `#324246` piedra en sombra, `#8FCFED` celeste.
+- Luz: de día y neutra. Es lo más apagado (saturación 21 %).
+- Textura parecida: arenisca clara de ambientCG, «Rock035» o «PavingStones070» ⚠️ (sugerida, sin comprobar).
+
+**Ruinas con columnas** (clip del gólem, 0:12): piedra gris verdosa, cielo azul, gólem morado oscuro ⚠️ (a ojo, sin medir).
+
+**Resumen de estilo.** Saturación entre 21 y 51 %, brillo entre 58 y 74 %. Colores de cuento, cielos despejados, pocos contraluces salvo en los tráileres de acción.
+
+**Texturas reales equivalentes** (todas CC0, de [ambientCG](https://ambientcg.com/view?id=Paper001)) ✅:
+
+- Papel: `Paper001` a `Paper006`, `Cardboard002`.
+- Tela: `Fabric030`, `Fabric036`, `Fabric061`, `Fabric062`, `Fabric066`, `Fabric081C`.
+- Cuero: `Leather026`, `Leather030`, `Leather034C`, `Leather037`, `Leather038`.
+- Metal dorado: `Metal034`, `Metal042A`, `Metal048A/B/C`.
+- Madera: `WoodFloor040`, `WoodFloor041`, `WoodFloor043`, `WoodFloor064`, `Planks037A`.
+
+Los otros sitios (Axel de día, la aldea carmesí, la tienda de Wiz y el castillo por dentro) están en el punto 16.
+
+## 5 · Tipografía, una letra por uso
+
+**El logo real** (título de la temporada 3, fotograma propio del [tráiler de la OVA](https://www.dailymotion.com/video/x9avkfi)): kanji redondeado y grueso, contorno blanco de unos 8-10 px, relleno en degradado de magenta a dorado, sobre un estallido de partículas. El subtítulo latino va en una slab-serif estrecha en versalitas. El logo lo diseñó **Ushio Funayama** (舩山潮), según los créditos de [AniList](https://anilist.co/anime/21202/staff) ⚠️.
+
+La comunidad de [dafont](https://www.dafont.com/forum/read/311727) identificó dos letras para el logo en inglés ✅ (hilo con acuerdo de dos usuarios):
+
+- **Grobold** (gratis). **No trae** á, í, ó, ú, ñ, ¿ ni ¡ (comprobado con fontTools). No sirve para español sin retocar.
+- **Tiki Tropic** (gratis, [descarga](https://dl.dafont.com/dl/?f=tiki_tropic)). **Sí trae** tildes, ñ, ¿ y ¡ en sus tres variantes. Es la mejor para rotular en español.
+
+**Alfabeto del mundo.** Los carteles y pergaminos del mundo usan un alfabeto latino inventado para la serie. Incluye el signo de Aqua (orden Axis) y el de Eris. Un fan lo pasó a fuente libre (Konosuba2/3/4-Regular.ttf): [harjit.moe](https://harjit.moe/konosubanomoji.html) ⚠️ (trabajo de fan; el alfabeto sí sale en pantalla).
+
+**Letra de globo.** No hay páginas interiores del manga libres. Como equivalente se usa **Anime Ace 2.0 BB** de Blambot, el estándar de la rotulación de manga en Occidente ([dafont](https://www.dafont.com/anime-ace-bb.font)). Trae tildes y ñ, pero **no ¿ ni ¡**. Licencia leída entera: gratis para uso sin ánimo de lucro, con crédito a Blambot.
+
+| Uso | Letra libre | Tildes, ñ, ¿ ¡ |
+|---|---|---|
+| Logo o título | Tiki Tropic Bold | Sí, todo |
+| Globo normal | Anime Ace 2.0 BB Regular | Tildes y ñ sí; ¿ ¡ no (pon esos dos con Noto Sans) |
+| Grito | Anime Ace 2.0 BB Bold | Igual |
+| Pensamiento | Anime Ace 2.0 BB Italic | Igual |
+| Onomatopeya («¡EXPLOSIÓN!») | Tiki Tropic Bold | Sí, todo |
+| Cartel del mundo | Konosuba4-Regular de HarJIT (decorativa, no se lee) | No aplica |
+| Interfaz de juego (pergamino) | Tiki Tropic Regular, la más parecida comprobada ⚠️ | Sí, todo |
+| Subtítulos o créditos | Noto Sans | Sí, todo |
+
+**Cartelas oficiales** (tráiler de la OVA): el anuncio «まだまだ冒険» va en gótica japonesa muy gruesa, **dorada con contorno negro**, en diagonal y con destellos (0:06). El nombre de un sitio, «アクセル» (Axel), va en **gótica blanca fina, pequeña, abajo a la izquierda y sin caja** (0:12) ✅.
+
+## 6 · Cómo hablan en pantalla: cuadros de diálogo
+
+**El cuadro de diálogo de la franquicia es un pergamino.** Viene del videojuego *Love For These Clothes Of Desire!* ([Steam](https://store.steampowered.com/app/2349140), capturas oficiales de 1920×1080) ✅:
+
+- Pergamino de madera y papel con **los extremos enrollados**, como un rollo.
+- Filete marrón oscuro y relleno beige arena.
+- El **nombre va en una cinta con puntas** encima del cuadro.
+- Las respuestas a elegir son franjas de pergamino apiladas con flechas «‹ ›».
+- Colores medidos: pergamino `#CCB47A`, cinta del nombre `#D4AE67`, borde `#C08E53`.
+- Otras pantallas del juego: paneles color hueso con filete marrón; títulos de sección en **cinta roja con puntas en V** (`#8B1E1E`); un sello circular con el título en japonés detrás de los objetos; iconos redondos sobre azul oscuro.
+
+**Manga** (portada a color del capítulo 1, dibujo de Masaru Watanabe; [imagen](https://static.wikia.nocookie.net/konosuba/images/c/c1/Manga_chapter_1_page_2.jpg)): las cajas de narración son **estallidos de bordes en punta**, fondo blanco, texto en mayúsculas gruesas. La letra es de una traducción de fans: sirve la forma, no la letra ⚠️.
+
+**Juego retro** *KonoSuba: in the life* (RPG Maker VX, regalo del primer Blu-ray, 2016): la wiki lo describe como «un RPG de fantasía al estilo de los 90», con la caja azul de borde blanco de RPG Maker ⚠️ (no hay captura).
+
+**La Explosión en pantalla** no es una letra: es un **destello a blanco total** (tráiler de la OVA, 0:24) con un halo rosa `#FFD8FF` a los 0:24.6 ✅.
+
+**Subtítulos y cartelas del anime:** Crunchyroll usa su letra de plataforma, no una propia ⚠️.
+
+**Pensamiento:** no encontré un globo de pensamiento propio de la serie (ni en manga libre ni en el juego) ⚠️. Para pensar, usa la caja de pergamino sin cinta de nombre, o la cursiva de Anime Ace.
+
+**Cómo suena cada uno en pantalla** (resumen del punto 13):
+
+- Kazuma: sarcasmo seco, regaña gritando, dobles sentidos.
+- Aqua: todo en voz muy alta, llora fácil y fuerte, se ofende enseguida.
+- Megumin: se presenta siempre con nombre y título, nunca un «hola»; risa malvada «¡Wahahahaha!»; conjuro teatral que acaba en «¡Explosión!».
+- Darkness: seria y noble hasta que algo la humilla; entonces jadea y la voz se le pone aguda.
+

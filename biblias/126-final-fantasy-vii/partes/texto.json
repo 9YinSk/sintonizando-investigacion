@@ -36,6 +36,24 @@
     "licencia": "OFL-1.1 (libre, comercial incluido); ñ/Ñ/tildes/¿/¡ comprobados con fontTools"
   },
   {
+    "url": "https://fonts.google.com/specimen/Oswald",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Oswald: condensada de rótulo urbano/industrial",
+    "para_que": "Carteles del mundo (letreros de Shinra o de los barrios de Midgar) en la lámina (punto 5)",
+    "licencia": "OFL-1.1 (libre, comercial incluido); ñ/Ñ/tildes/¿/¡ comprobados con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Barlow",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Barlow: sans limpia estándar de subtítulo",
+    "para_que": "Subtítulos o créditos de escenas cinemáticas en la lámina (punto 5)",
+    "licencia": "OFL-1.1 (libre, comercial incluido); ñ/Ñ/tildes/¿/¡ comprobados con fontTools"
+  },
+  {
     "url": "https://static.wikia.nocookie.net/finalfantasy/images/6/61/FFVII_Materia_Menu_1.png/revision/latest?cb=20130127134416",
     "fuente": "Final Fantasy Wiki (Fandom)",
     "ancho": 633,

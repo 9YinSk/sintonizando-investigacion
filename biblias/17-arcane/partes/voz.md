@@ -108,17 +108,30 @@ actor de la **voz original en inglés**.
 | **Powder (Jinx niña)** | Tristeza | 1×03, ídem | 24:45 | ✅ vista: sola, hombros caídos, mirada baja, boca tensa — el instante justo después de que Vi se va y la deja atrás. [Internet Archive, `?t=1485`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1485) |
 | **Powder (Jinx niña)** | Miedo / vulnerabilidad | 1×03, ídem | 27:15 | ✅ vista: primer plano del ojo muy abierto y húmedo, mirando de cerca a un pequeño autómata — encogida, a la defensiva. [Internet Archive, `?t=1635`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1635) |
 | **Vi** y **Powder** | Ternura / preocupación (no es de las 5 pedidas, pero sirve para láminas de #proyectos en equipo) | 1×03, ídem | 16:55 | ✅ vista: Vi con el brazo vendado sobre el hombro de Powder, las dos mirando abajo. [Internet Archive, `?t=1015`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015) |
-| Alegría | — | — | — | ❌ **no encontré** fotograma propio en el tiempo que tuve (revisé el tráiler T1 completo, cada 6 s, y no salió ningún personaje principal sonriendo de cerca; en 1×03 tampoco). El «todo flota, Jayce celebra» que ya cita `biblia.md` §15 (poses) sigue con ⚠️ de memoria: **falta verlo**. |
-| Vergüenza | — | — | — | ❌ no encontré: no vi ninguna escena de vergüenza clara en lo que pude mirar. Probablemente esté en escenas de Jayce (torpe ante el Consejo) o Ekko adolescente; **queda pendiente**. |
+| **Powder (Jinx niña)** | Vergüenza / culpa | 1×03, ídem | 38:00 | ✅ vista: primer plano muy cerrado, ojos llorosos mirando hacia arriba, hombros encogidos, pelo tapándole la cara — justo después de que Silco llega (con un resplandor azul detrás) tras la explosión que mató a Mylo y Claggor; momentos después él la consuela y le pone el nombre «Jinx» ([Silco · Arcane Wiki](https://arcane.fandom.com/wiki/Silco): «al conocer a Powder... termina sintiendo empatía por ella y la consuela»). [Internet Archive, `?t=2280`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2280) |
+| Vi | Alegría / vergüenza | — | — | ⚠️ **sigue sin encontrar**: revisé 1×01 (rooftop, heist) y 1×07 (mural recuerdo con Ekko) — lo más parecido a alegría es nostalgia agridulce (1×07, ~12:30, llorosa ante el mural de la familia); no es alegría limpia. Vergüenza tampoco apareció clara en lo mirado. |
+| Jinx (adulta) | Alegría | — | — | ⚠️ no encontré: miré 1×09 min 19:00-23:00 (pelea con Sevika) y no es Jinx, es Sevika con guantelete morado — me confundí de personaje por el pelo oscuro; no me alcanzó el tiempo para localizar la escena de júbilo caótico de Jinx («Get Jinxed»/1×09) con minuto real. |
 | **Jayce** | Vergüenza / humillación pública | 1×02 «Some Mysteries Are Better Left Unsolved» | 14:48 | ✅ vista: juicio ante el Consejo por su hextech sin permiso (un niño hizo explotar un cristal robado en su taller); Jayce está solo, diminuto, de pie en un círculo de luz en medio de la cámara del Consejo, todos mirándolo desde arriba — la Consejera Kiramman le da la espalda y él termina expulsado de la Academia («su castigo fue peor que la muerte», [Jayce Talis · Arcane Wiki](https://arcane.fandom.com/wiki/Jayce_Talis)) · fotograma propio, Internet Archive [`?t=888`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=888) |
 | **Jayce** | Alegría / orgullo | 1×04 «Happy Progress Day!» | 26:32 | ✅ vista: primer plano en el discurso del Día del Progreso, cejas arriba, boca abierta a media sonrisa hablando con energía ante el público que aplaude y los fuegos artificiales (ver también `partes/video.md` §2 y §14, min 24:20-26:30) · fotograma propio, Internet Archive [`?t=1592`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1592) |
+| **Viktor** | Alegría / ilusión | 1×03 «The Base Violence Necessary for Change» | 17:30 | ✅ vista: junto a Jayce en el taller, cuaderno en mano, sonrisa leve y cejas relajadas mirando el primer experimento conjunto (un pequeño arco eléctrico azul) — escena justo después de que Viktor convence a Jayce de seguir investigando tras su expulsión («cuando vayas a cambiar el mundo, no pidas permiso», [Viktor · Arcane Wiki](https://arcane.fandom.com/wiki/Viktor)) · fotograma propio, Internet Archive [`?t=1050`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1050) |
+| **Caitlyn** | Miedo / tensión | 1×08 «Oil and Water» | 22:18 | ✅ vista: primer plano quieto en la cámara del Consejo, cejas apretadas, boca entreabierta, mirada fija — de pie junto a Vi (con uniforme de página) en una audiencia tensa, anticipando una reprimenda · fotograma propio, Internet Archive [`?t=1338`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=1338) |
+| **Ekko** (adulto) | Tristeza / recelo | 1×07 «The Boy Savior» | 12:18 | ✅ vista: primer plano junto a Vi, ceño fruncido, mirada baja y párpados caídos — mostrándole a Vi el mural que pintó su gente (los Firelights) con los retratos de Vander, Powder, Mylo y Claggor muertos; dolor guardado bajo la seriedad · fotograma propio, Internet Archive [`?t=738`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=738) |
+| **Silco** | Rabia (fría, contenida) | 1×03, ídem | 37:44 | ✅ vista: de pie, mentón alto, mirada entornada hacia abajo, mandíbula tensa, un relámpago azul detrás — llega con sus hombres al edificio en llamas tras el enfrentamiento con Vander, justo antes de encontrar a Powder; encaja con «sólo pierde los nervios de verdad hablando con Vander» ([Silco · Arcane Wiki](https://arcane.fandom.com/wiki/Silco)) · fotograma propio, Internet Archive [`?t=2264`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2264) |
 
-- **Viktor**, **Caitlyn**, **Ekko** y **Silco**: sigo completando la tabla
-  (relanzo en curso); ver Bitácora.
-- El vídeo de 1×03 (1080p, 60fps) sigue en
-  `/tmp/claude-0/trabajo/17-arcane-video/` y en
-  `/tmp/claude-0/trabajo/17-arcane-voz/e03_faces/`: el siguiente que lo
-  necesite no tiene que volver a bajarlo.
+- Los cinco personajes que faltaban ya tienen fotograma propio y minuto:
+  **Jayce** (vergüenza + alegría), **Viktor** (alegría), **Caitlyn** (miedo),
+  **Ekko** (tristeza) y **Silco** (rabia). No son las 5 emociones completas
+  de cada uno (eso llevaría más episodios de los que dio esta tanda): quedan
+  huecos sueltos (miedo/tristeza/vergüenza de Viktor, alegría/rabia de
+  Caitlyn y Ekko, tristeza/miedo/vergüenza de Silco) que no son obligatorios
+  para esta tanda — no se pidieron explícitamente en el «Sigue» anterior.
+- De **Vi** y **Jinx** conseguí la vergüenza de Jinx-niña (arriba). Sigue
+  faltando: alegría de Vi, vergüenza de Vi y alegría de Jinx (adulta) — ver
+  fila de arriba y Bitácora.
+- Los vídeos usados (1×01, 1×02, 1×03, 1×04, 1×07, 1×08, 1×09, 1080p) están
+  en `/tmp/claude-0/trabajo/17-arcane-voz/e0N.mp4`: el siguiente que los
+  necesite no tiene que volver a bajarlos. El de 1×03 también sigue en
+  `/tmp/claude-0/trabajo/17-arcane-video/`.
 
 ## 20 · Gustos y detalles de cada personaje
 
@@ -346,4 +359,42 @@ equipo «nueva»; **20, 21 y 22 no existían**).
   identificadas en `datos-voz.md` (Mel ×3, Viktor ×4, Silco ×1) pero **no
   llegué a correrlas**: es lo primero que dejo para quien siga.
 
-Sigue: completar la tabla «cara en cada emoción» del punto 13 para Jayce, Viktor, Caitlyn, Ekko y Silco (sólo se miró 1×03, centrado en Vi y Jinx) y las emociones alegría y vergüenza que faltan incluso de Vi y Jinx — falta bajar y mirar un episodio o escena centrada en cada uno de esos cinco personajes.
+**Relanzo, sesión 2026-09-26 (segunda vez, sólo la línea Sigue anterior).**
+Bajé con `curl` (directo, no `yt-dlp`: la misma velocidad y sin depender de
+que reconozca el formato) los episodios 1×01, 1×02, 1×03 (otra vez, ya no
+estaba de la tanda pasada), 1×04, 1×07, 1×08 y 1×09 de
+`archive.org/details/arcane-season-1-60fps` (720p, ~250 MB cada uno, unos
+15-30 s por descarga) a `/tmp/claude-0/trabajo/17-arcane-voz/`. Con
+`herramientas/fotogramas.py` saqué primero una hoja de contacto cada 45-60 s
+de cada episodio completo (para ubicar la escena a ojo) y luego afiné con
+`--desde/--hasta --cada 6-10` sobre el tramo bueno; miré (Read) cada hoja
+antes de decidir. Encontré el **juicio de Jayce ante el Consejo** (1×02,
+confirmado con la wikitext de `arcane.fandom.com/api.php?action=parse` de
+«Jayce Talis», que cita 1×02 como el episodio del juicio) y comprobé que la
+escena de Vander/Silco con Shimmer (que ya usé para Vi/Jinx en la tanda
+pasada) es también donde está el primer encuentro de **Viktor** con Jayce
+(cita en la wikitext de «Viktor») y donde **Silco** consuela a Powder y le
+pone el nombre «Jinx» (cita en la wikitext de «Silco») — los tres estaban
+en el mismo episodio 1×03, no hizo falta bajar más para ellos.
+- **ffmpeg con `-ss` directo sobre la URL remota de archive.org** dio
+  **403 Forbidden** (el proxy o el CDN de archive.org bloquea el acceso
+  por rango sin las cabeceras de un navegador/curl completo): descarté esa
+  vía y bajé el `.mp4` entero con `curl -L` en su lugar, que sí funcionó
+  siempre a buena velocidad (curl sí manda las cabeceras que hacen falta).
+- **Caitlyn** (1×08, min 22:18) y **Ekko** adulto (1×07, min 12:18) los
+  encontré en escenas que no esperaba por el título del episodio: no busqué
+  «la escena de Caitlyn» a ciegas, sino que miré la hoja de contacto entera
+  y elegí el fotograma con cara clara y emoción legible.
+- Intenté **Jinx adulta alegría** en 1×09 (min 19:00-23:00, pelea con
+  guantelete morado): era **Sevika**, no Jinx — las confundí por el pelo
+  oscuro en la hoja pequeña; lo anoto para no repetir el error. No bajé
+  más tramos de 1×09 por tiempo.
+- Intenté **Vi alegría/vergüenza** en 1×01 (rooftop del heist, min 5:40-9:30)
+  y en 1×07 (mural de los Firelights, min 11:00-13:30): la primera es tensión
+  de atraco, no alegría; la segunda es nostalgia con lágrimas, no alegría
+  limpia. No encontré vergüenza de Vi en lo que miré.
+- Los `.mp4` (7 episodios, ~1.7 GB en total) quedan en
+  `/tmp/claude-0/trabajo/17-arcane-voz/e01.mp4` … `e09.mp4` — fuera del
+  repositorio, listos para quien los necesite sin volver a bajarlos.
+
+Sigue: punto 13, alegría y vergüenza de Vi, y alegría de Jinx (adulta) —ver fila «Vi» y «Jinx (adulta)» de la tabla de emociones—; probar en 1×09 (Jinx con las armas nuevas, «Get Jinxed») para la alegría de Jinx, y en 1×01 (tras el heist fallido, Vander regañando) o 1×08 (con Caitlyn) para Vi.

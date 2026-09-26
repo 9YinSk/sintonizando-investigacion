@@ -110,6 +110,46 @@ guardados de Wallhaven (ya en `datos-imagen.md`).
 - Wallhaven, los 14 fondos mejor guardados (1920×1080 o más, ♥ entre 116 y 445) ya listados en `datos-imagen.md`: el más guardado es Tae Takemi a 3200×4000 (♥445); hay uno panorámico de 8102×2018 con crossover de varias series.
 - Wallhaven, escenario nocturno de ciudad, sin personajes (Reddit «4K confidant wallpapers») · https://w.wallhaven.cc/full/vm/wallhaven-vm69rm.jpg · ⚠️ · 3840×2160
 
+## 19 · Texturas 2D (tramas, grano, patrones, emblemas — con licencia)
+
+Todo lo descargable con licencia es de este punto: capas de trama/grano
+(manga y calling card), patrones de tela y texturas reales equivalentes de
+ambientcg (CC0, comprobadas por su API), más los emblemas y logos vistos
+directamente en la imagen.
+
+- **Tarjeta de aviso (calling card)** de los Ladrones Fantasma contra Kaneshiro, vista completa: cara A con sombrero de copa negro y máscara roja en espiral roja/negra tipo trama de semitonos («TAKE YOUR HEART»); cara B con letras recortadas estilo «carta de secuestro» (cajas negras con texto blanco/rojo de distintas fuentes) sobre el mismo fondo en espiral · https://static.wikia.nocookie.net/megamitensei/images/4/49/Phantom_Thief_Calling_Card.PNG · ✅ (visto en la imagen; el diseño se repite igual en todas las calling cards del juego) · 512×512
+- **Escudo de Shujin High School** (chevron negro triple sobre blanco, forma de escudo con banda inferior) — mismo archivo que en el punto 1/15, sirve de emblema para grabar · https://static.wikia.nocookie.net/megamitensei/images/1/19/Shujin_Male_Winter_Uniform.jpg · ✅ · —
+- **Manga oficial de Persona 5**, de Hisato Murasaki (16 tomos, Shogakukan/MangaONE desde 2016, licenciado por Viz Media en Norteamérica): confirma que existen páginas en blanco y negro con trama real de screentone que replicar; no se pudieron ver páginas interiores sueltas (sólo portadas), así que la trama exacta queda para el redactor/punto 18 con las páginas de muestra de Viz · https://en.wikipedia.org/wiki/Persona_5_(manga) · ✅ (wiki EN + Wikipedia) · —
+- Portada del tomo 1 del manga (para ver el trazo de línea, no trama) · https://static.wikia.nocookie.net/megamitensei/images/8/82/P5_Vol_1_Cover.jpg · ⚠️ · 564×841
+- **Pinceles de screentone/halftone gratis para Clip Studio y Photoshop** (paquete «SuperScreentones», se consigue a precio «$0» en Gumroad) · https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/ · ⚠️ (listado, no se comprobó la descarga en sí) · —
+- Pinceles de halftone gratis, alta resolución (34 pinceles) · https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes · ⚠️ · —
+
+**Texturas reales equivalentes, CC0, ambientcg (comprobadas por su API `v2/full_json`, licencia CC0 en todas)**:
+
+- Cuero (para el abrigo de Joker y la chaqueta de Ryuji) · Leather037 · https://ambientcg.com/view?id=Leather037 · ✅ (licencia CC0 confirmada por la API) · —
+- Cuero, variante más gastada · Leather038 · https://ambientcg.com/view?id=Leather038 · ✅ · —
+- Ladrillo (fachadas de Yongen-Jaya, calle de Leblanc) · Bricks097 · https://ambientcg.com/view?id=Bricks097 · ✅ · —
+- Tela/fieltro (para el paño del uniforme o el gorro) · Fabric061 · https://ambientcg.com/view?id=Fabric061 · ✅ · —
+- Alfombra roja (para el Velvet Room) · Carpet016 · https://ambientcg.com/view?id=Carpet016 · ✅ · —
+- Papel (grano de página para simular el manga) · Paper006 · https://ambientcg.com/view?id=Paper006 · ✅ · —
+
+## 23 · Colaboraciones y cruces
+
+Cada colaboración trae pose y ropa nuevas, según pide el encargo. Confirmado
+buscando el texto de la wiki (no de memoria), con la ficha de cada evento.
+
+- **Super Smash Bros. Ultimate**: Joker es luchador DLC jugable (primer personaje del «Fighters Pass Vol. 1»), con su Persona Arsene como ataque especial · https://megamitensei.fandom.com/wiki/Super_Smash_Bros._Ultimate · ✅ (página de la wiki + amiibo oficial de Nintendo, ver abajo) · —
+- **Figura oficial: amiibo de Joker** (Nintendo), con caja · https://static.wikia.nocookie.net/megamitensei/images/e/e1/Joker_amiibo.jpg · ✅ · 990×990
+- Amiibo de Joker, figura sin caja (pose de combate con la daga) · https://static.wikia.nocookie.net/megamitensei/images/b/b5/Joker_amiibo_no_box.jpg · ✅ · 755×865
+- **«Persona 5: Thievery in Blue»**: evento de colaboración oficial dentro de Granblue Fantasy (Cygames, móvil/navegador), marzo 2014, con logo propio · https://megamitensei.fandom.com/wiki/Granblue_Fantasy:_Thievery_in_Blue (wikitexto leído directo) · ✅ · —
+- Ilustración de grupo de la colaboración Granblue Fantasy x Persona 5 (Joker, Ryuji y compañía junto a personajes de Granblue) · https://static.wikia.nocookie.net/megamitensei/images/4/49/Granblue_Fantasy_x_P5_Group.png · ✅ · 844×793
+- Colaboración con **Dragalia Lost** (Nintendo/Cygames): ilustración de Ann con vestuario nuevo del evento · https://static.wikia.nocookie.net/megamitensei/images/6/69/Ann_Dragalia_Lost_collab.jpg · ⚠️ (una sola imagen, sin confirmar fecha exacta) · 983×879
+- Colaboración con **Identity V** (NetEase, móvil): ilustración de los Ladrones Fantasma vestidos al estilo del juego de terror/detective · https://static.wikia.nocookie.net/megamitensei/images/f/fe/IdentityV_PhantomThieves.jpg · ⚠️ · 1440×2560
+- Colaboración con **Chain Chronicle** (Sega, móvil): carta de Ryuji con arte propio del evento · https://static.wikia.nocookie.net/megamitensei/images/2/23/Chain_Chronicle_Card_Ryuji.png · ⚠️ · 640×960
+- Colaboración con **Sword Art Online: Integral Factor**: personaje de SAO (Eugeo) vestido como Skull/Ryuji para el evento cruzado · https://static.wikia.nocookie.net/megamitensei/images/c/c3/Eugeo_as_Skull_SAOIF.jpg · ⚠️ · 1024×1024
+- **Cosplay con licencia libre** (Openverse, ya en `datos-imagen.md`): Ann Takamaki en el Toronto Comicon 2018 (CC BY-SA 4.0, Wikimedia) y varias sesiones de Panther/Joker de esby.photo y greyloch (CC BY-NC-SA/ND) — buena tela con volumen real en la capa del abrigo de Joker, no licra plana. ✅
+- Modelos de merchandising oficial fotografiados en la Taipei Game Show 2017 (stands promocionales de Sega) · https://upload.wikimedia.org/wikipedia/commons/c/c3/Sega_promotional_models_and_Persona_5_title%2C_Taipei_Game_Show_20170123.jpg · ✅ (Wikimedia Commons, CC BY-SA 4.0) · 4000×3000
+
 ## Lo mejor para la lámina
 
 - El key visual grupal de Soejima (2522×1664) da a los 4 personajes juntos y con pose.

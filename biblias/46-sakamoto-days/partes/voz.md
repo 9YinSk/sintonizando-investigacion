@@ -176,9 +176,17 @@ fotograma con `fotogramas.py --cortes` (68 fotogramas, uno por plano, 0:00-1:47)
 | Lu | Alegría (sonrisa amplia) | Tráiler oficial | 0:31 | https://www.dailymotion.com/video/x9a858e?t=31 |
 | Lu | Preocupación/seriedad | Tráiler oficial | 0:33 | https://www.dailymotion.com/video/x9a858e?t=33 |
 
-Todas las filas ✅: fotograma visto directamente (`fotogramas.py --cortes`) sobre el clip oficial
-citado en el punto 8. No se encontró tristeza ni vergüenza clara en este tráiler de 108 s: falta
-mirar un episodio completo para esas dos (ver «No encontré»).
+| Shin | Rabia (puño apretado, primer plano) | Tráiler final (audio portugués, mismo dibujo) | 0:44 | https://www.dailymotion.com/video/x9c2low?t=44 |
+| Sakamoto | Miedo/pánico (boca abierta, ojos como platos al oír «¡divorcio!») | Tráiler final (audio portugués, mismo dibujo) | 1:14 | https://www.dailymotion.com/video/x9c2low?t=74 |
+
+Todas las filas ✅: fotograma visto directamente (`fotogramas.py --cortes`) sobre clips oficiales
+de Netflix citados arriba (el segundo tráiler tiene audio portugués, pero el dibujo es el mismo
+que en cualquier doblaje: sólo se usa para la cara, no para la frase). No se encontró **tristeza**
+ni una **vergüenza** clara y segura en estos dos tráileres (172 s en total): un fotograma en el
+tráiler final (2:03, https://www.dailymotion.com/video/x9c2low?t=123) muestra a un personaje
+femenino de pelo negro sonrojado con la mano en la mejilla, posible vergüenza, pero no se pudo
+identificar con seguridad quién es — falta mirar un episodio completo para las dos (ver «No
+encontré»).
 
 ## 20 · Gustos y detalles de cada personaje
 
