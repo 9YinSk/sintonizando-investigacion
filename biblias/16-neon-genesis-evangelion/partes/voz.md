@@ -411,11 +411,22 @@ Lo que sí verifiqué antes de esto:
 - No hay `biblias/131-evangelion-tarjetas-y-nerv/` con `voz.md` propio: el
   encargo 131 comparte carpeta con esta serie (misma obra), pero no tiene
   biblia escrita aún, así que no había nada que leer de una «serie hermana».
-
-Sigue: completar la tabla de «cara en cada emoción» (13.2) para Asuka
-(rabia), Misato (alegría) y Kaworu (vergüenza/ternura) con fotograma real —
-sólo conseguí capturar Shinji, Ritsuko y Rei del episodio 8 (Toonami,
-Internet Archive); esos tres personajes no aparecen en ese episodio ni en los
-únicos sueltos que hay en Internet Archive (ep. 3 y 4). Hace falta encontrar
-en algún archivo público el ep. 2 (Misato), el ep. 8 completo sin cortes de
-Toonami (Asuka) o el ep. 24 (Kaworu).
+  Sigue así en esta tanda (relanzo): comprobé de nuevo y la carpeta
+  `biblias/131-evangelion-tarjetas-y-nerv/` no existe todavía.
+- **Relanzo — resuelto el `Sigue:` de la tanda anterior**: busqué en Internet
+  Archive (`archive.org/advancedsearch.php?q=title:(neon genesis evangelion)
+  AND mediatype:(movies)`, más de 50 ítems) hasta encontrar
+  `evangelion-the-full-series` («Neon Genesis Evangelion - The Definitive
+  Release»), los **26 episodios completos** en 1080p, SUB (japonés+subtítulo
+  inglés, duración = corte japonés original) y DUB (inglés). Extraje
+  fotogramas de los episodios 2, 8 y 24 directamente por URL con `ffmpeg -ss
+  <segundo> -i "<url .mp4>" -frames:v 1 …` (range request HTTP: ~10-15 s por
+  fotograma, sin bajar los ~600 MB de cada episodio) para no gastar disco
+  compartido. Revisé varios segundos alrededor de cada minuto citado en
+  biblia §8 montando hojas de contacto propias (Pillow) antes de elegir el
+  fotograma final de cada personaje — así confirmé que los minutos que la
+  biblia ya tenía de oído (audio/subtítulo japonés) coinciden con la imagen
+  real. También descarté frames vecinos: el tramo 240-243 s del ep. 8 es un
+  gag cómico de un marinero levantando la falda de otra tripulante, y sólo al
+  segundo 244 aparece Asuka debajo, gritando de rabia — por eso el fotograma
+  final es 244 y no 246 (el que ya citaba biblia §8 de oído).

@@ -116,3 +116,39 @@ El Niño (The Boy) | Mancha cuadrada en el pecho (ver «Apariencia» en la wiki:
   máscara puesta. Se dice en una línea porque el punto 15 lo pide y aquí no
   aplica el matiz de «por temporada».
 
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+La Isla («The Island») es el único gran escenario; se divide en zonas con su
+propia luz. Las descripciones de abajo son de la wiki (una fuente cada una,
+⚠️); los 6 fondos de pantalla sí están confirmados en Wallhaven con su origen
+oficial.
+
+- El Bosque («The Forest», capítulo 1: «Dead in the Water»): árboles muertos,
+  vías de tren abandonadas, de noche y con niebla azulada · reanimal.fandom.com/wiki/The_Forest · ⚠️
+- El Faro («The Lighthouse», capítulo 3): acantilado con escaleras de madera,
+  hogar de un pelícano gigante; luz cálida puntual de un farol contra el azul
+  de la noche · reanimal.fandom.com/wiki/The_Lighthouse · ⚠️
+- Ciudad de Arena («Sand City», capítulo 5, bajo el orfanato): cementerio de
+  coches y autobuses enterrados en arena, guarida de La Madre; luz rojiza de
+  emergencia · reanimal.fandom.com/wiki/Sand_City · ⚠️
+- La Isla en conjunto tiene más de 20 sub-zonas (el orfanato, el pueblo
+  inundado, el bosque, la granja de cerdos, la autopista, el barco de
+  guerra, la ciudad subterránea…), todas listadas con su propia página en la
+  wiki · https://reanimal.fandom.com/wiki/The_Island · ✅ (lista propia +
+  se ven todas en las capturas numeradas de las hojas de contacto).
+- Paleta general: azules y verdes apagados de noche, con acentos cálidos
+  (fuego, faroles) muy puntuales — se ve igual en las 6 capturas oficiales de
+  la hoja `personajes_mascaras_01.jpg` (nº 1-6) y en los 6 fondos de Wallhaven de abajo. La medición exacta de hex por escena es del investigador de vídeo (punto 4); aquí sólo se listan los fondos.
+
+Fondos de pantalla oficiales (subidos por fans a Wallhaven, pero el origen
+que citan es la cuenta oficial de X @TarsierStudios; confirmado abriendo cada
+`origen`):
+
+- 3840×2160 · 38 ♥ · https://w.wallhaven.cc/full/yx/wallhaven-yxd1pk.jpg · origen: https://x.com/TarsierStudios/status/1851990606639206418 · Halloween: barca, señal de stop, calabaza, cuervo · ✅ (Wallhaven + el tuit de origen)
+- 1920×1080 · 26 ♥ · https://w.wallhaven.cc/full/je/wallhaven-jee8zp.png · mismo origen que el anterior (versión horizontal) · ✅
+- 4096×2612 · 18 ♥ · https://w.wallhaven.cc/full/5g/wallhaven-5ge3p8.jpg · origen: https://x.com/TarsierStudios/status/1869782653903478935 · temática navideña (trineo, nieve, regalos) · ✅
+- 3840×2160 · 15 ♥ · https://w.wallhaven.cc/full/je/wallhaven-je13ew.jpg · origen: https://x.com/TarsierStudios/status/1924505813994852432 · campo de flores amarillas con los dos niños, luz de luna · ✅
+- 1365×2048 (vertical, para celular) · 13 ♥ · https://w.wallhaven.cc/full/qr/wallhaven-qrddmq.jpg · mismo origen que el anterior, encuadre vertical · ✅
+- 1920×1080 · 4 ♥ · https://w.wallhaven.cc/full/je/wallhaven-je129w.png · subido por SAKAEIH, sin origen declarado · captura de juego en luz baja · ⚠️
+- No hay «fondos de pantalla de fans» aparte en alta resolución fuera de Wallhaven: se buscó en Wallpaper Engine (Steam) y en r/wallpapers con Arctic Shift, sin resultados con «reanimal». ⚠️ (no encontré, búsquedas hechas).
+
