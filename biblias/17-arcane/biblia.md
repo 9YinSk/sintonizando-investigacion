@@ -941,12 +941,12 @@ La lista de antes, sin minuto propio:
 
 | Juego | Qué tiene de Arcane | Cómo «hablan» | Estado |
 |---|---|---|---|
-| **2XKO** (lucha, Riot) | Jinx, Vi, Ekko y Caitlyn jugables | Frases por momento: selección, intro, burlas, combate, *supers*, *outro* ([2XKO Wiki](https://wiki.play2xko.com/en-us/Jinx/Audio)); el subtítulo sin captura ⚠️ | ✅ que existe |
-| **Legends of Runeterra: Path of Champions** | Historias de Jinx, Vi y Jayce | «**Cómics animados con voces**» ([Destructoid](https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/)) | ✅ el formato; la caja sin captura ⚠️ |
 | **League of Legends** | Skins «Arcane» de Jinx, Vi, Jayce, Viktor, Caitlyn, Ekko, Heimerdinger, Mel y Warwick (lista y nombres latinos en §3.1) | Frases sueltas de cada campeón; sin cajas de diálogo | ✅ (Data Dragon) |
 | **RiotX Arcane** (evento web, 2021) | El mapa-plano de Piltóver (R1), fondos y avatares | ⚠️ no vi el evento | ✅ los archivos (los tengo); la dirección `riotxarcane.riotgames.com` sale en un tuit de LoL LATAM copiado en [cocotbodol](https://www.cocotbodol.com/author/lollatam) ⚠️. **Segunda pasada**: la API de Wayback confirma una copia del **8-dic-2021** ([captura](http://web.archive.org/web/20211208230625/https://riotxarcane.riotgames.com/)), pero `web.archive.org` está bloqueado en el contenedor: el contenido sigue sin ver ⚠️ |
-| **Legends of Runeterra: Path of Champions** (evento Arcane) | Historia en Piltóver y Zaun; historias de Jinx y Vi | **«Cómics animados» con voces** y decisiones que cambian el final. Ej.: Vi: «If I hear fat-hands one more time!» / Jinx: «Jeeez. Least one of us got a sense of humor» | ✅ ([Destructoid](https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/), [YouTube: Jinx](https://www.youtube.com/watch?v=L4-suaLzH7Y), [YouTube: Vi](https://www.youtube.com/watch?v=OZzo7hmPonA)); cómo es la caja ⚠️ |
-| **2XKO** (lucha, Riot) | Jinx, Ekko, Vi… | **Diálogos de entrada** entre parejas de campeones | ✅ ([Game8](https://game8.co/articles/latest/2xko-gameplay-and-story), [2XKO Wiki: Jinx](https://wiki.play2xko.com/en-us/Jinx/Audio), [YouTube](https://www.youtube.com/watch?v=JwGyVB_etaA)) |
+| **Legends of Runeterra: Path of Champions** (evento Arcane) | Historia en Piltóver y Zaun; historias de Jinx y Vi | **«Cómics animados» con voces** y decisiones que cambian el final. Ej.: Vi: «If I hear fat-hands one more time!» / Jinx: «Jeeez. Least one of us got a sense of humor» | ✅ ([Destructoid](https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/), [YouTube: Jinx](https://www.youtube.com/watch?v=L4-suaLzH7Y), [YouTube: Vi](https://www.youtube.com/watch?v=OZzo7hmPonA)); cómo es la caja ⚠️: en la segunda pasada YouTube pidió sesión y el tráiler no está en Dailymotion ni en Internet Archive |
+| **2XKO** (lucha, Riot) | Jinx, Ekko, Vi… | **Diálogos de entrada** entre parejas de campeones | ✅ ([Game8](https://game8.co/articles/latest/2xko-gameplay-and-story), [2XKO Wiki: Jinx](https://wiki.play2xko.com/en-us/Jinx/Audio), [YouTube](https://www.youtube.com/watch?v=JwGyVB_etaA)). La wiki transcribe frases por momento (selección, intro, burlas, combate, *supers*, *outro*); el subtítulo sin captura ⚠️ |
+| Juegos de Steam con «Arcane» en el título (*Arcane Merchant*, *Arcane Rush*, *Arcane Trigger*…) | **Nada**: son indies ajenos a Riot | — | ✅ descartados abriendo cada ficha (segunda pasada) |
+| **The Cutting Room Floor** | No hay página de Arcane; sí de *League of Legends* ([Unused Assets](https://tcrf.net/League_of_Legends/Unused_Assets)) | — | ⚠️ la web bloquea el contenedor; se vio por el buscador |
 
 **Lo útil para la lámina**: el **«cómic animado» de Path of Champions**
 confirma que Riot cuenta Arcane en viñetas pintadas. Si hace falta una
@@ -1047,8 +1047,32 @@ es más de Arcane que un globo. Cómo es exactamente: ⚠️ no vi capturas.
 | Ekko 2 | 1×07, delante del mural | Enseña el mural a Vi | **Explicar #arte** ✅ escena |
 | Ekko 3 | R6 avatar | Bufanda naranja `#773019`, ceño serio | Retrato |
 
+### Poses con minuto real de episodio (segunda pasada)
+
+Fotogramas propios de la T1 ([Internet Archive](https://archive.org/details/arcane-season-1-60fps)).
+Corrigen las filas ⚠️ de arriba.
+
+| Personaje | Episodio y minuto | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| **Jayce** | 1×04, **11:54-12:26** | Sentado, **mano tendida con la gema brillando entre los dedos**, mira a Heimerdinger | **Explicar** un invento (sustituye «señala la pieza ⚠️») ✅ |
+| **Jayce** | 1×04, **24:20-24:40** | Sube al atril, brazo derecho en alto saludando, sonríe al público | **Presentar** (confirma la splash S5) ✅ |
+| **Jayce** | 1×04, **25:40-26:10** | De perfil, mano en el pecho, ceño fruncido, voz fuerte | **Convencer** con solemnidad ✅ |
+| **Jayce** | 1×04, **26:32** | Primer plano, cejas arriba, media sonrisa, fuegos artificiales | **Celebrar** ✅ |
+| **Jayce** | 1×06, **27:00** | De perfil, mira abajo, ceño fruncido, el núcleo hex brilla detrás | **Pensar**, preocupación ✅ |
+| **Jayce** | 1×02, **14:48** | Solo en un círculo de luz, diminuto ante el Consejo | Ser juzgado; «En revisión» ✅ |
+| **Viktor** | 1×03, **17:30** | Cuaderno en mano junto a Jayce, sonrisa leve | **Equipo**, ilusión (sustituye la fila 4 ⚠️) ✅ |
+| **Jinx** | 1×05, **11:10-11:20** | Encogida contra la baranda, rodillas al pecho, cara oculta | Su lado roto; **no** para celebrar ✅ |
+| **Powder** | 1×03, **38:00** | Plano cerrado, ojos llorosos hacia arriba | Culpa ✅ |
+| **Vi** | 1×03, **23:30** | Dientes apretados, mirada de lado, sangre en la mejilla | **Regañar** fuerte ✅ |
+| **Vi** (probable) | 1×06, **21:50** | De espaldas, hombros cuadrados, caminando decidida por un pasillo | **Avanzar** ⚠️ no se ve la cara |
+| Silueta de la banda | 1×05, **18:00** | Patada alta a contraluz ante una caja fuerte rúnica | Acción ⚠️ quién es |
+| **Caitlyn** | 1×08, **22:18** | Quieta, cejas apretadas, mirada fija | Aguantar una reprimenda ✅ |
+| **Ekko** | 1×07, **12:18** | Ceño fruncido, mirada baja, ante el mural | **Explicar #arte** con duelo ✅ |
+| **Silco** | 1×03, **37:44** · 1×06, **13:10-13:40** | Mentón alto, mirada entornada · sentado junto a Ren, deja caer una carta | Amenazar sin alzar la voz ✅ |
+
 **Resumen de uso**:
-- **Presentar**: Jayce S5 (el atril) · Jinx S1.
+- **Presentar**: Jayce S5 (el atril) y 1×04 24:20 · Jinx S1.
+- **Explicar un invento**: Jayce con la gema, 1×04 11:54.
 - **Explicar**: Jayce ante Heimerdinger (1×04) · Ekko ante el mural (1×07).
 - **Celebrar**: la Hextech que flota (1×03) · Heimerdinger con el banjo (S12).
 - **Regañar**: Jinx S2 · Vi S3.
@@ -1072,6 +1096,9 @@ es más de Arcane que un globo. Cómo es exactamente: ⚠️ no vi capturas.
 | **Viktor T1** | Chaleco de punto gris, camisa oscura, pañuelo granate `#4D1A26`; bastón | Gris `#544A50` | ✅ avatar |
 | **Viktor T2** | Pelo blanco, túnica lila | `#CC84FC` | ✅ S7 |
 | **Ekko** | Bufanda naranja, pelo blanco en rastas cortas | Naranja `#773019` | ✅ avatar |
+| **Silco** | Camisa granate, chaleco negro y rojo-morado con detalles dorados, corbata blanca; jeringa de Shimmer que le tiñe la mano de rosa (cartel T1) | Sin hex fiable: las imágenes abiertas llevan luz de escena verde o casi negra ⚠️ | ✅ descrito en [Silco · Arcane Wiki](https://arcane.fandom.com/wiki/Silco#Appearance) y en el cartel (§3.3) |
+| **Emblema de Piltóver y Zaun** | Oro grabado de los dos escudos | `#C7A965` | ✅ medido (§3.3) |
+| **Vi, cartel T2** | Diana de grafiti pintada en la espalda: la marca de Jinx | Cartel muy oscuro, sin hex ⚠️ | ✅ ([The Mary Sue](https://www.themarysue.com/netflix-drops-arcane-season-2-character-posters/)) |
 
 **Lo «icónico» que todos reconocen**: las **trenzas azules** de Jinx, la
 **chaqueta roja** y los **guanteletes** de Vi, el **martillo** de Jayce,
@@ -1090,6 +1117,15 @@ el **bastón** de Viktor, el **rifle** de Caitlyn.
 - **Zaun**: neblina verde, farolas, tuberías, grafiti (splash `Jinx_37`,
   `Caitlyn_28`) ✅.
 - **El árbol de los Firelights**: el único árbol grande de Zaun ✅; su luz ⚠️.
+- **Con su hora y su luz medida** (segunda pasada, §5.2b): el Día del
+  Progreso es de tarde-noche con luz de escenario `#6B5B67`; la calle de
+  Zaun, de día, gris verdoso `#58615E`; el laboratorio de noche, azul
+  pizarra `#1D2632` con el núcleo hex brillando ✅.
+- **Paisaje pintado oficial extra**: las **tierras básicas** de *Magic:
+  The Gathering × Arcane* pintan sitios de Piltóver y Zaun ✅
+  ([Secret Lair](https://secretlair.wizards.com/us/en/product/696669/secret-lair-x-arcane)).
+- **Los pop-ups de RiotX** (Seúl, Yakarta, París, Madrid…) llevan la
+  paleta a espacios reales: ver §18b.6.
 
 ### 17.2 Fondos de pantalla oficiales y de fans
 
