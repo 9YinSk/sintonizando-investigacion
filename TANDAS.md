@@ -139,7 +139,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 
 - [ ] 41-dandadan
 - [x] 42-blue-lock
-- [ ] 43-kaguya-sama-love-is-war
+- [x] 43-kaguya-sama-love-is-war
 - [ ] 44-your-lie-in-april-shigatsu
 
 ## Tanda S12
