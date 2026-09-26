@@ -30,6 +30,21 @@ Encuesta de fans (netlab/itmedia, ねとらぼリサーチ, 2022): ranking de je
 
 **Lectura para la lámina**: Ranni es la NPC más popular con diferencia (tanto en encuesta oficial como en fan art); Malenia es la jefa más popular después de Radahn y, sumando fan art, la 2ª figura más dibujada de todo el juego; Melina queda 5ª en NPC pero es la única "heroína" oficial del juego (ver 13).
 
+### 8 · Doblaje latino (no existe: comprobado, no de memoria)
+
+**Elden Ring NO tiene doblaje oficial al español (ni de España ni latino).** El único audio completo es inglés; el resto de idiomas (incluido «Spanish - Latin America») sólo trae interfaz y subtítulos, no voces.
+
+- Lista oficial de idiomas de Steam citando el tuit oficial de @ELDENRING: «The only option with full in-game audio is English. […] interface and subtitles in French, Italian, German, Spanish – Spain, Japanese, Korean, Polish, Portuguese – Brazil, Russian, Simplified Chinese, Spanish – Latin America, Thai, Traditional Chinese» · ✅ (win.gg cita el tuit oficial de la cuenta @ELDENRING, más Gamepur y Steambase coinciden en el mismo listado) · https://win.gg/news/all-the-info-you-need-for-the-steam-version-of-elden-ring/
+- Doblaje Wiki (API `action=query&list=search`) no tiene ninguna página «Elden Ring»: ni la serie ni el reparto latino existen en su catálogo, que sí recoge doblajes menores · ✅ (comprobado directo en la API, no de memoria) · https://doblaje.fandom.com/es/api.php?action=query&list=search&srsearch=ELDEN&format=json
+- Confirmación indirecta: vídeo de YouTube titulado «ELDEN RING no tendrá DOBLAJE en ESPAÑOL!!» (canal de noticias gaming) · ⚠️ (título de vídeo, no fuente oficial, pero coincide con las dos anteriores) · https://www.youtube.com/watch?v=MqSasmw2__Q
+- Lo que sí hay: fandubs de fans (ver punto 22) y el juego de mesa/spin-offs no aportan doblaje oficial tampoco. Personajes con más diálogo (para quien quiera un fandub): Melina, Ranni, Patches, Hyetta, Varré, Blaidd, Enia, Brother Corhyn, Goldmask, Miriel — nombres en inglés/japonés, no hay «nombre latino» porque no hay reparto.
+
+**Tabla para el redactor** (punto 8 de ENCARGO.md) — vacía a propósito, con la fuente de por qué:
+
+| Personaje | Seiyū (japonés) | Voz latina | Fuente 1 | Fuente 2 |
+|---|---|---|---|---|
+| — sin doblaje latino ni elenco japonés doblado por separado (voces originales en inglés, dirigidas por George Fan/FromSoftware Bandai Namco) — | — | **No existe doblaje al español** | Steam/win.gg (idiomas oficiales) | Doblaje Wiki (sin página) |
+
 ## Bitácora (parcial, se completa al final)
 
 - «Famitsu エルデンリング 人気投票» (japonés, WebSearch) → encontré el artículo oficial con los dos rankings.

@@ -349,3 +349,75 @@ grupo aunque también hace trampas y apuesta; Darkness se ve como una cruzada
 noble en público pero en privado busca activamente la humillación · todo de
 `konosuba.fandom.com`, secciones Personality y Trivia de cada uno ✅ (mismas
 fuentes citadas arriba).
+
+### 21 · Por qué la gente la ama
+
+**Ventas y alcance** (Wikipedia en, con sus citas originales revisadas una a
+una): las novelas ligeras llevaban 1.5 millones de copias en marzo de 2016,
+subieron a 6.5 millones en febrero de 2019 y llegaron a **10 millones en
+noviembre de 2021** · Crunchyroll News, tres notas distintas con esas tres
+cifras (mar-2016, feb-2019, nov-2021) ✅. En enero de 2018 fue la novela
+ligera/manga digital más vendida del mundo en BookWalker · Anime News
+Network ✅. Ganó el Gran Premio de BookWalker 2016 · Crunchyroll News ✅.
+
+**Crítica, con nombre y cita real** (Anime News Network, todas con URL
+propia, ✅ por ser la misma reseñista citando episodio a episodio):
+- Theron Martin (ANN) sobre el episodio 2: «el episodio de anime más
+  divertido que he visto desde *Monthly Girls' Nozaki-kun*» —
+  https://www.animenewsnetwork.com/review/konosuba-god-blessing-on-this-wonderful-world/episodes-1-2/.97800
+- Martin, sobre Jun Fukushima (voz japonesa de Kazuma), reseña del episodio
+  7 de la 2ª temporada: «Semana tras semana, Fukushima la saca del estadio
+  con su interpretación perfectamente medida de Kazuma... muchas escenas no
+  serían ni la mitad de graciosas sin su ironía seca» —
+  https://www.animenewsnetwork.com/review/konosuba-god-blessing-on-this-wonderful-world-2/episode-7/.112580
+- Nick Creamer (ANN) describe al grupo de Kazuma con una «química extraña
+  pero entrañable»: se llevan mal entre ellos pero están muy unidos; también
+  destaca que el público se identifica con sus problemas del día a día
+  (deudas, trabajos cuestionables por la paga) más que con una fantasía
+  heroica — https://www.animenewsnetwork.com/review/konosuba-god-blessing-on-this-wonderful-world-episodes-1-10-streaming/.100209
+- Kim Morrissy (Crunchyroll News): el vínculo emocional del grupo «se nota
+  en cómo interactúan entre ellos; lo que más me gusta del anime es que se
+  toma el tiempo de sacar esos matices en pantalla y expresarlos con fuerza
+  visual» — https://www.crunchyroll.com/anime-feature/2017/02/27-1/feature-novel-vs-anime-konosuba
+- El diseñador de personajes Koichi Kikuta explicó en una entrevista que la
+  animación «poco pulida» (criticada por «low budget») es intencional: busca
+  sacar «el lado más humano de cada uno, sus rasgos poco favorecedores y sus
+  momentos de apuro», no un dibujo más bonito como en las novelas —
+  https://wavemotioncannon.com/2017/02/07/konosuba-interview-with-koichi-kikuta-anime-style-009-july-2016/ ✅
+
+**10 razones de SportsKeeda (medio de anime), resumidas** —
+https://www.sportskeeda.com/anime/10-reasons-love-watch-konosuba ⚠️ (una
+fuente, pero coincide punto por punto con las reseñas de ANN de arriba):
+Kazuma es un tipo normal, no un elegido; el humor parodia sin piedad los
+clichés isekai; los personajes rompen sus propios arquetipos (Megumin es de
+las pocas heroínas isekai en pareja «no oficial» con el protagonista);
+empiezan sin dinero ni recursos, algo raro en el género; hay consecuencias
+reales a sus actos; el diseño de cada uno encaja con su personalidad
+(armadura amarilla de Darkness para que la vean y aguante golpes); y sus
+expresiones exageradas cuentan la emoción sin necesitar diálogo.
+
+**Con qué personaje se identifica el público**: además de Megumin (la más
+popular en encuestas, punto 7), el subreddit r/Konosuba (arriba, punto 12)
+muestra que la gente comparte y vota sobre todo momentos de Aqua siendo
+un desastre con el dinero y el alcohol («Aqua is drunk again», «Lazy
+Goddess», «Poor aqua», «Only buy what you need») — es decir, el público no
+sólo idealiza a Megumin, también se ríe con (y de) lo humana y desastrosa
+que es Aqua ✅. Yunyun genera mucho fan art de cariño puro (frente al humor
+hacia Aqua), coherente con su perfil de «solitaria que celebra su propio
+cumpleaños sola» del punto 13 ✅.
+
+**Escena que el propio fandom cita como la más emotiva (con reserva)**:
+título real de un vídeo público «Kazuma made Megumin cry from joy - Final
+Scene - [KonoSuba Movie 1]» — corresponde al cierre de la película *Legend
+of Crimson* (2019): tras derrotar a la general demonio Sylvia con un
+ataque combinado de Megumin y Yunyun con la magia de toda la Aldea Carmesí,
+y con Kazuma resucitado tras morir en la pelea, el grupo termina de picnic y
+Megumin prueba un hechizo nuevo que dibuja una explosión con forma de
+corazón en el cielo · https://en.wikipedia.org/wiki/KonoSuba:_God%27s_Blessing_on_This_Wonderful_World!_Legend_of_Crimson
+⚠️ (no pude confirmar el minuto exacto ni oír el llanto porque el vídeo está
+en YouTube, bloqueado desde aquí — dejo sólo la escena y su fuente, sin
+inventar el minuto). La película recaudó 7.9 millones de dólares en todo el
+mundo (6.5 M en Japón, 1.4 M fuera) y el guionista Roger Avary (Oscar por
+*Pulp Fiction*) la calificó con 5/5, llamándola «una de las mejores
+experiencias que he tenido en un cine» ✅ (misma página de Wikipedia,
+cita a prensa de estreno en EE.UU., nov-2019).

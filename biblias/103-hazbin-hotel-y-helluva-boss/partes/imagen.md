@@ -97,8 +97,9 @@ Blitzo | Traje negro a rayas finas, corbata roja, cuernos blancos con puntas neg
 **Vestuario alterno visto en las hojas** (⚠️ una fuente, sin medir en píxel; útil para «poses vivas» del punto 1):
 Charlie en traje de carnaval (n.119 hoja hazbin-hotel), Alastor con el traje de piloto original 2019 (n.118),
 Angel Dust de drag con peluca (n.59), Vaggie con su traje de los años 30 y su outfit de fiesta (wiki:
-`Vaggie's 1930s outfit.png`, `Vaggie (Party Outfit).png`), Alastor «demonio completo» con cornamenta (n.18),
-Stolas en toga violeta de plumas con corona dorada (render n.1 de la hoja helluva-boss).
+`Vaggie's 1930s outfit.png`, `Vaggie (Party Outfit).png`), Alastor «demonio completo» con cornamenta (n.10
+de la hoja hazbin-hotel, verificado en `indice.json`), Stolas en toga violeta de plumas con corona dorada
+(render n.1 de la hoja helluva-boss).
 
 **La ropa icónica que todo fan reconoce**: el traje de piloto de aviador de Charlie (blanco/rojo/dorado), el
 smoking rojo con micrófono-bastón de Alastor, el arnés de corazones rosa de Angel Dust, y en Helluva Boss el
@@ -112,8 +113,8 @@ otros investigadores (a confirmar cruzando con vídeo).
 - El Hotel Hazbin por fuera, de noche, letrero de neón encendido · hazbinhotel.fandom (File:The Hazbin Hotel (New & Improved) Full View.jpeg) · https://static.wikia.nocookie.net/hazbinhotel/images/9/9a/The_Hazbin_Hotel_%28New_%26_Improved%29_Full_View.jpeg · ✅ · 2160×1211 · paleta: #2B0410 (sombra), #580B17, #8C0912, #D10E1D (rojo del neón), #E9C3B4 (luz cálida de ventana)
 - El lobby del hotel (interior, art déco, alfombra y candelabro) · hazbinhotel.fandom (File:Hazbin hotel lobby DBD.png) · https://static.wikia.nocookie.net/hazbinhotel/images/0/0e/Hazbin_hotel_lobby_DBD.png · ⚠️ (una fuente) · 2732×1532 · paleta: #2B0C16, #57262F, #F1D3BF (crema de la luz), #B0273E
 - Pentagram City de noche, vista panorámica desde el hotel (1×02) · hazbinhotel.fandom (File:HHs1e2 - Pentagram City.png) · https://static.wikia.nocookie.net/hazbinhotel/images/d/da/HHs1e2_-_Pentagram_City.png · ✅ · 1920×1080 · paleta: #56121C, #360406 (casi negro rojizo), #7F1E2C, #B82D41, morado #57395D
-- Cannibal Town, el barrio rojo con luces de neón (donde trabaja Angel Dust) · hazbinhotel.fandom (File:CannibalTown.jpeg) · https://static.wikia.nocookie.net/hazbinhotel/images/7/7f/CannibalTown.jpeg · ✅ (aparece también en el vídeo musical «Addict», hoja n.321 helluva) · 2732×1535 · paleta: #6C2B32, #41151B, coral #E64F57, rosa #E4A298
-- El Estudio de Stolas (Helluva Boss): biblioteca con estanterías, mapa astronómico y luz de vela azul-violeta · helluvaboss.fandom (varias tomas «Stolas's Study.png», hoja n.59 de la hoja_02) · ⚠️ (una fuente, capturas del mismo episodio) · 3840×2160 · tonos dominantes azul-violeta oscuro y dorado de vela (sin medir en píxel: pendiente para vídeo)
+- Cannibal Town, el barrio rojo con luces de neón (donde trabaja Angel Dust) · hazbinhotel.fandom (File:CannibalTown.jpeg) · https://static.wikia.nocookie.net/hazbinhotel/images/7/7f/CannibalTown.jpeg · ✅ (el mismo tipo de calle con neones rosas/morados aparece en varios fotogramas del vídeo musical «Addict» de Angel Dust, hoja `hazbin-hotel/hoja_06.jpg` y `hoja_07.jpg`) · 2732×1535 · paleta: #6C2B32, #41151B, coral #E64F57, rosa #E4A298
+- El Estudio de Stolas (Helluva Boss): biblioteca con estanterías, mapa astronómico y luz de vela azul-violeta · helluvaboss.fandom (varias tomas «Stolas's Study.png» y «Stolas surrounded by the solar system.png», n.59 de `helluva-boss/indice.json`, verificado) · ⚠️ (una fuente, capturas del mismo episodio) · 3840×2160 · tonos dominantes azul-violeta oscuro y dorado de vela (sin medir en píxel: pendiente para vídeo)
 - I.M.P., el edificio-oficina de los imps, exterior gris con el letrero rojo del logo · helluvaboss.fandom (File:HBPilot - I.M.P Commercial Jingle.png) · ⚠️ · 1920×1080
 
 **Fondos de pantalla, Wallhaven (favoritos, purity SFW, `q=hazbin+hotel` / `q=helluva+boss`)**:

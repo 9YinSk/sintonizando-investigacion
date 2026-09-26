@@ -207,6 +207,26 @@ secciones «Personality») son la base; aquí se profundiza con arco, miedos y f
 | Rey Rhoam | Seriedad / autoridad | *BOTW: The Champions' Ballad*, tráiler DLC (Nintendo, 2017) | 1:44 | https://www.dailymotion.com/video/x6bc0bm?t=104 |
 | Link | Recién despierto, neutro/curioso | *BOTW*, primeros minutos (gameplay doblado, canal Hobby Consolas) | 2:15 | https://www.dailymotion.com/video/x5ahli0?t=135 |
 
+**Qué transmite cada uno (la emoción que deja al verlo):**
+- Link: calma y seguridad silenciosa — no promete con palabras, actúa; el público lo siente como un
+  «vehículo» tranquilo para explorar, no como alguien que exige atención · lectura propia a partir de
+  su ficha de personalidad (arriba) · ⚠️
+- Zelda: vulnerabilidad real detrás del cargo de princesa — es la que más «dolor» transmite de los 3,
+  por eso su escena de llanto es la más citada del fandom (ver punto 21) · ✅ (coincide con el frame y
+  la frase textual del punto 8)
+- Ganon/Ganondorf: amenaza fría y paciencia milenaria — no da miedo por gritar, sino por la certeza de
+  que siempre vuelve (reencarnación tras reencarnación) · Doblaje Wiki, ficha «Ganondorf» · ✅
+
+**Dinámicas con los demás** (sirve para láminas en grupo):
+- Link protege a Zelda y ella lo guía con su voz/conocimiento — es una dinámica de igual a igual en
+  BOTW/TotK, no de «damisela y héroe»: Zelda da órdenes concretas («lleven a Link al santuario»,
+  frase textual del punto 8) y Link obedece en silencio · ✅
+- Zelda y su padre, el Rey Rhoam: relación tensa por la presión de activar su poder; él muere en la
+  Calamidad sintiéndose culpable de haberla presionado de más · https://zelda.fandom.com/wiki/Link (sección BOTW, cita a King Rhoam) · ⚠️
+- Ganon/Ganondorf no tiene diálogo directo con Link o Zelda en la mayoría de escenas: su «relación»
+  con ellos es casi siempre a distancia (los persigue, los posee, o pelea sin hablar) · lectura propia
+  a partir del reparto y las fichas de personalidad · ⚠️
+
 ## 20 · Gustos y detalles de cada personaje
 Zelda no tiene *databook* de personaje al estilo anime (con cumpleaños y comida favorita fijados por
 el autor); los datos «duros» que sí existen (altura) salen del libro oficial *Hyrule Historia* (2011)
@@ -270,6 +290,12 @@ y de la propia *Encyclopedia* (2018). Lo demás sale del comportamiento mostrado
 - Cómo está filmada esa escena (según el fotograma medido en el punto 13): primer plano cerrado de
   perfil, luz baja y cálida detrás, silencio salvo la voz entrecortada — es un recurso muy típico de
   Zelda: pausar la acción para un primer plano quieto en los momentos más tristes.
+- Reacción de la gente a esa escena (Zelda llorando en brazos de Link, la más citada del fandom):
+  comentarios de fans recogidos por buscador citan frases tipo «la forma en que Link la mira me rompe
+  el corazón» y ediciones de fans hechas con mucho cuidado en elegir los clips de voz correctos; la
+  escena se asocia también a la teoría/ship «Zelink» (Link + Zelda en pareja) · búsqueda web, resultados
+  de TikTok y foros agregados · ⚠️ (resumen de buscador, no encontré el hilo o comentario original para
+  enlazar directo — pendiente si el redactor necesita la fuente exacta)
 
 ## 22 · Fan dubs y comunidad hispana
 YouTube bloqueó el acceso desde este servidor durante toda la sesión (HTTP 429 / «confirma que no eres

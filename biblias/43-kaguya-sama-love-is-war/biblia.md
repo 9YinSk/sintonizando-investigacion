@@ -1094,3 +1094,157 @@ modelo (punto 1.1), la hoja 3 #116 (Kaguya sonriendo) y #104 (con cartas).
 
 **Puntuación**: puntos suspensivos para el cálculo interior (…),
 exclamaciones dobles en Chika, preguntas retóricas en Kaguya e Ishigami.
+
+## Punto 18 · Estilo y técnica, y cómo replicarlo
+
+**Equipo** ✅ (AniList + créditos del opening): **A-1 Pictures**; director
+**Shinichi Omata**, que firma como **Mamoru Hatakeyama** (el de *Bocchi the
+Rock!*); diseño de personajes y jefa de animación **Yuuko Yahiro**; arte
+**Risa Wakabayashi**; color **Kanako Hokari**; fotografía Masaharu Okazaki;
+CG Yuuki Kuribayashi. Tres temporadas (12, 12 y 13 episodios), un OVA
+(2021) y la película *The First Kiss That Never Ends* (2022, luego partida
+en 4 episodios).
+
+**Lo que dicen los que lo hicieron**:
+- **Caras sin sombra (*kagenashi*)**: en los primeros planos de emoción,
+  Hatakeyama quita la sombra de la cara para que el gesto se lea limpio ✅
+  ([Sakuga Blog, notas de producción 1-5](https://blog.sakugabooru.com/2019/02/12/kaguya-sama-love-is-war-production-notes-01-05/)).
+- **El Chika Dance, rotoscopiado**: Naoya Nakayama dibujó **845 hojas
+  clave** (1124 dibujos con intercalado) calcando un baile grabado en vídeo ✅
+  (Sakuga Blog).
+- **Línea más suelta en el ending**, de Nichika Ono «al estilo Yoshihiro
+  Sekiya» ✅ (Sakuga Blog).
+- **Efectos del opening**: Eiko Hirayama (**Graphinica**), un «calidoscopio
+  de amor» ✅ (Sakuga Blog).
+- **Lo que pidió el autor**: pestañas dibujadas con cuidado («me gustan las
+  expresiones delicadas del shoujo»), **monólogos restringidos** a ciertos
+  personajes, voces «frías, sin calidez» en líneas clave; asistió a todas
+  las grabaciones ✅ ([Animate Times](https://www.animatetimes.com/news/details.php?id=1546670233)).
+- **Akasaka se llama «amateur dibujando»**: dibuja «para escribir una
+  historia» ✅ ([entrevista traducida en Guya](https://guya.cubari.moe/pages/livedoor-aka-akasaka-interview/)
+  + [Wikipedia](https://en.wikipedia.org/wiki/Aka_Akasaka)).
+- **Grano de película** abundante y **CG a la vista** en tomas de cámara
+  móvil ⚠️ ([Tropedia](https://tropedia.fandom.com/wiki/Kaguya-sama:_Love_Is_War)).
+- ⚠️ **Programa 2D**: no se encontró qué usó A-1 Pictures (RETAS, Clip
+  Studio o Toon Boom); sin entrevista dedicada.
+
+**Encuadres** ✅ (Tropedia + Sakuga Blog): primerísimo plano de la cara en
+el monólogo; *zoom* y giro brusco de perspectiva cuando la batalla cambia de
+bando; plano medio con la cabeza deformada para la comedia (nunca en primer
+plano); plano general casi realista con grano pesado para el drama.
+
+### Cómo reproducirlo en Photoshop
+
+1. **Línea**: pincel de tinta duro, un solo grosor medio-fino, `#1A1A1A` o
+   marrón oscuro; sin variación de presión.
+2. **Color**: plano. **Sombra**: una capa en Multiplicar con un solo tono;
+   en las caras de primer plano, **bájala al 0-20 %** (*kagenashi*).
+3. **Grano**: Filtro › Ruido › Añadir ruido, 3-5 %, monocromático, en
+   Superposición al 15-25 %; viñeta suave.
+4. **Cartela**: rectángulo blanco `#FCFCFC`, trazo negro de 10-14 px y un
+   segundo trazo fino interior a 6 px (el filete); texto en Shippori Mincho.
+5. **Fondo a cuadros**: damero blanco/negro y Filtro › Distorsionar ›
+   Onda o Licuar para deformarlo.
+
+### Cómo reproducirlo en Blender
+
+1. **Sitio**: el modelo CC BY de la **sala del consejo** (punto 3), con las
+   texturas de ambientCG y el HDRI «Entrance Hall» (punto 4).
+2. **Contorno**: modificador **Line Art** con grosor fijo; o Solidify con
+   normales invertidas y material negro sin luz.
+3. **Shader**: *Shader to RGB* + *ColorRamp* de **2 bandas** (luz y sombra,
+   sin medio tono); en caras de primer plano, sin banda de sombra.
+4. **Monólogo**: un plano de fondo con *Emission* de color sólido o el
+   damero, en vez de la escena.
+5. **Composición**: nodo de ruido a baja opacidad (grano) y viñeta.
+6. **Personajes**: modelos CC BY de Kaguya, Chika y Miko (punto 3);
+   comprobar si traen *rig*.
+
+## Punto 19 · Texturas 2D
+
+- **Tramas del manga** (puntos, degradados): no hay tramas oficiales en
+  venta; equivalentes libres:
+  - [GraphicsBunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/),
+    pinceles .abr de *screentone* ⚠️ (leer su licencia antes de uso comercial).
+  - [Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes),
+    34+ pinceles de *halftone* ⚠️.
+  - [Gumroad de ninakovacs](https://ninakovacs.gumroad.com/l/osqrj), «paga
+    lo que quieras» para Procreate, Photoshop y Clip Studio ⚠️ (comprobar
+    que sigue a 0).
+- **Papel** de cartas y páginas: [Paper001](https://ambientcg.com/view?id=Paper001), CC0 ✅.
+- **Tela del uniforme**: [Fabric032](https://ambientcg.com/view?id=Fabric032), CC0 ✅.
+- **Emblemas y patrones**: el **corazón con el 告** (ep. 1, 1:00), la
+  **línea de pulso** del logo del manga, el **damero** de los nervios y las
+  **rayas verticales** del bajón. Se dibujan a mano: son formas simples.
+- **Cuadros del lazo** (tartán): no hay un archivo libre suelto; se hace en
+  Photoshop con un patrón (no es una carencia).
+- Los modelos de Sketchfab traen sus propias texturas pintadas a mano (piel,
+  ojos, tela), útiles para ver cómo se pinta la tela en estilo anime.
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+Infobox de la wiki (cita el **fanbook oficial** para cumpleaños y sangre) y
+*Trivia*; cumpleaños y edades cruzados con AniList ✅.
+
+| Personaje | Cumpleaños | Altura | Sangre | Le gusta | No le gusta | Lo que siempre lleva |
+|---|---|---|---|---|---|---|
+| Kaguya | 1 de enero | 158 cm | AB | Perros, pastelitos, las ojeras de Miyuki | El desorden que no controla | Zurda que escribe con la derecha; cintas en el pelo; arco de tiro de 15 kg |
+| Shirogane | 9 de septiembre | 175 cm | O | Ostras, su trabajo de medio tiempo | Gastar, los insectos | **Bicicleta azul** (40-60 min al día); cadena dorada de presidente |
+| Chika | 3 de marzo | 154 cm | O | El piano, los juegos (con trampa) | Los tomates | Sus cintas del pelo, cada una con nombre |
+| Ishigami | 3 de marzo (como Chika) | 169 cm | O | Videojuegos (Apex Legends, Crypto, rango Diamante) | Los «normies» | Flequillo sobre el ojo izquierdo |
+| Hayasaka | 2 de abril (nominal) | 162 cm | AB | La moda, salir con amigas | No tener citas propias | Uniforme de criada; cambia de «persona» |
+| Miko | 5 de mayo | 147 cm | O | Chika, comer mucho | La «falta de moral» | Emoticonos en los mensajes; brazalete amarillo |
+| Kei | 8 de enero | — | B | Ahorrar con cupones; su hermano (no lo admite) | El derroche | Trabajo de cajera; Instagram secreto |
+
+**Cómo se ve cada uno**: Kaguya no se cree buena persona; Ishigami se ve un
+perdedor siendo un genio; Miko se siente juzgada tras años de que la
+llamaran mandona; Shirogane, sólo como el esfuerzo que hace.
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+**Cifras y premios**:
+- **22 millones de copias** del manga (dic-2022) ✅
+  ([Anime News Network](https://www.animenewsnetwork.com/daily-briefs/2022-12-19/kaguya-sama-love-is-war-manga-tops-22-million-copies-in-circulation-worldwide/.193118)
+  + Anime Corner).
+- **65.º Premio Shogakukan** (ene-2020) ✅; **Next Manga Award 2017** ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Next_Manga_Award); la portada
+  que lo celebra es la hoja 2 #61). *Kono Manga ga Sugoi*: 2.º (2019), 4.º
+  (2020), 7.º (2021) ⚠️.
+- **La T3 «Ultra Romantic» es el anime mejor puntuado de MyAnimeList**
+  (9,15 con 629 000+ votos), por delante de *Fullmetal Alchemist:
+  Brotherhood* ✅ ([MyAnimeList](https://myanimelist.net/anime/43608) +
+  [AnimeNew](https://www.animenew.com.br/)). T1: 8,40; película: 8,72.
+- **Crunchyroll Anime Awards**: Mejor Comedia (2019 y 2020), Mejor Ending,
+  Mejor Pareja y **Mejor Romance 2023** ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/Crunchyroll_Anime_Award_for_Best_Romance)).
+
+**Con quién se identifica el público**:
+- Con **Ishigami**: su ansiedad social es «profundamente identificable»
+  ([GameRant](https://gamerant.com/kaguya-sama-love-is-war-why-yu-ishigami-is-best-boy/)) ✅.
+- Con **Kaguya**, en las reseñas en español: «entiende que para querer a una
+  persona debe ser capaz de aceptar sus errores y defectos»; la serie enseña
+  que «la comunicación, la sinceridad y la aceptación son bases para
+  cualquier relación» ✅ ([Código Espagueti](https://codigoespagueti.com/),
+  [El Palomitrón](https://elpalomitron.com/)). La lectura hispana pone el
+  romance por encima de la comedia.
+
+**Las escenas que hacen llorar**:
+- **Los fuegos artificiales** (T1 ep. 12): Kaguya llora creyendo que se los
+  pierde; el grupo la lleva corriendo a otra ciudad y llegan a tiempo. «El
+  primer intercambio emocional realmente abierto entre ambos» ✅ (TV Tropes,
+  *Tear Jerker*). ⚠️ Sin minuto ni nombre de la pista musical.
+- **La doble confesión** (T3 ep. 12-13): se declaran los dos, con beso;
+  IMDb le da **9,4/10** ✅ ([IMDb](https://www.imdb.com/title/tt20123920/)).
+- **El arco de Hayasaka**: diez años de culpa sirviendo a Kaguya, sabiendo
+  que su último trabajo será «dejarla ir» ✅.
+
+**Las que hacen reír o gritar**:
+- **El baile de Chika** (T1 ep. 3, 22:30-23:57): la escena que hizo viral
+  la serie.
+- **La pregunta de Chika** «Presi, ¿tienes a alguien que te gusta,
+  verdad?» (tráiler T3, 0:56) y su cara de sorpresa (1:16).
+- **Karen Kino** desmayada con el beso (punto 12).
+
+**Reacciones**: «A CONFESSION?! … S3 Ep 8 REACTION!» y «THE CONFESSION!! …
+S3 Ep 12-13 REACTION» ✅ (dos canales), ⚠️ sin vistas ni comentarios con
+votos (YouTube pidió sesión; el subreddit está en cuarentena).
