@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://archive.org/download/kaguya-sama_202403/Kaguya%20Sama%20Love%20is%20War/SEASON%201/02.mkv",
+    "fuente": "Internet Archive (kaguya-sama_202403, subida de usuario, episodio 2 completo T1)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Episodio 2 completo de la T1, visto entero fotograma a fotograma. Rótulos cómicos: tarjeta dorada «生徒会長» (3:44), «海 VS 山!!» (11:04), «備考：カナヅチ» (11:52), «備考：童貞» (15:44-16:08), «本日の勝敗» con resumen largo (15:12 y 22:24), «ワナ» (20:08). Sitios nuevos: sendero de montaña (10:00), pasillo a contraluz (21:44). Ending con animación distinta a la del episodio 1 (avión de papel, 22:48-23:52).",
+    "para_que": "Fotogramas de escenas icónicas (punto 2), rótulos como plantilla de cuadro de diálogo, poses de Kaguya/Shirogane/Chika (punto 14), paleta de dos sitios nuevos (punto 4)",
+    "licencia": "Subida de usuario en Internet Archive, uso de referencia/estudio (no redistribuible como oficial)"
+  },
+  {
+    "url": "https://archive.org/details/turner_video_136312",
+    "fuente": "Internet Archive (colección movie_trailers, subido por tvhug@pm.me, 2021)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tráiler oficial de Kaguya-sama: Love is War (2019), copia distinta a la de Dailymotion ya citada por la biblia hermana",
+    "para_que": "Vídeos y tráileres oficiales (punto 10), como alternativa si el de Dailymotion deja de estar disponible",
+    "licencia": "Material promocional oficial, subida de archivo por curador de Internet Archive"
+  },
+  {
+    "url": "https://archive.org/details/kaguya-sama-movie-darkrai",
+    "fuente": "Internet Archive (reacción de youtuber Darkraimola)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Vídeo de reacción en español a la película «Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai»",
+    "para_que": "Pista para el investigador de voz/fandom hispano (comunidad hispana reaccionando a la franquicia), no usado a fondo por el de vídeo",
+    "licencia": "Contenido de fan (reacción), no oficial"
+  },
+  {
+    "url": "https://archive.org/details/how-kaguya-sama-won-the-war-on-love-the-power-of-premise",
+    "fuente": "Internet Archive (vídeo-ensayo de análisis)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Vídeo-ensayo en inglés sobre por qué funciona la premisa de la serie, menciona la voz de narrador omnisciente ligada a las cartelas cómicas",
+    "para_que": "Análisis en vídeo (punto 10) y contexto del recurso narrador+rótulo",
+    "licencia": "Vídeo de fan/analista, no oficial"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88pf8w",
+    "fuente": "Dailymotion (canal Sensacine)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tráiler VO corto (0:30), ya visto fotograma a fotograma por la biblia hermana; se reconfirma como fuente principal de tráiler",
+    "para_que": "Vídeos y tráileres oficiales (punto 10)",
+    "licencia": "Material promocional oficial redistribuido por medio de prensa"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War_season_1",
+    "fuente": "Wikipedia (en), «Kaguya-sama: Love Is War season 1»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la T1: director (Mamoru Hatakeyama), estudio (A-1 Pictures), compositor (Kei Haneoka), fechas de emisión (12-ene a 30-mar-2019) e intérpretes exactos del OP «Love Dramatic feat. Rikka Ihara» (Masayuki Suzuki, Rikka Ihara, Yoshiki Mizuno) y del ED «Sentimental Crisis» (Halca)",
+    "para_que": "Segunda fuente de texto para música y sonido (punto 9), confirma lo ya visto en pantalla en el episodio 2",
+    "licencia": "Wikipedia, CC BY-SA"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/20231932-89cd-4306-93d8-5987ab273576",
+    "fuente": "MusicBrainz, release-group «センチメンタルクライシス» (Sentimental Crisis)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha discográfica del ending «Sentimental Crisis» de halca: single, sello SACRA MUSIC, publicado 2019-02-20",
+    "para_que": "Segunda fuente propia (no sólo texto) para el ending del punto 9, con fecha exacta de publicación",
+    "licencia": "MusicBrainz, CC0/dominio público de los datos"
+  },
+  {
+    "url": "https://anilist.co/anime/101921",
+    "fuente": "AniList, ficha 101921 de Kaguya-sama: Love is War",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha oficial con el tráiler de YouTube (IwpJJiQkZzI), la web japonesa (kaguya.love/1st) y los enlaces de streaming (Crunchyroll, Netflix, iQ)",
+    "para_que": "Fuente propia para diferenciar el tráiler oficial de YouTube del recorte de Turner en Internet Archive (punto 10)",
+    "licencia": "AniList, datos de la comunidad bajo su API pública"
+  }
+]

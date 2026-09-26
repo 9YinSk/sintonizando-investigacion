@@ -1,0 +1,587 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a2/Characters_Book_World_%C3%97_Character_%C3%97_Blessing.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3400,
+  "alto": 4898,
+  "que_es": "Portada del artbook oficial «Characters Book World × Character × Blessing»",
+  "para_que": "arte oficial variado, databook",
+  "licencia": "© Shueisha / Yoshihiro Togashi; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e2/Chimera_ant_arc_poster.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3200,
+  "alto": 4078,
+  "que_es": "Póster oficial del arco Hormiga Quimera, elenco en pose de batalla",
+  "para_que": "key visual, arte oficial variado",
+  "licencia": "© VAP/Shueisha/Nippon TV; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/58/Zoff_HxH_Collab_All_Characters_Full_Art.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3838,
+  "alto": 3496,
+  "que_es": "Arte a color de todo el elenco para la colaboración con la óptica Zoff",
+  "para_que": "arte oficial variado y colaboración (punto 23)",
+  "licencia": "© Zoff / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/9/94/Gon_Jump_Force.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3500,
+  "alto": 3500,
+  "que_es": "Arte oficial de Gon para el videojuego crossover Jump Force (Bandai Namco)",
+  "para_que": "pose de acción, crossover (punto 23)",
+  "licencia": "© Bandai Namco / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/d/d4/Jump_Force_-_Kurapika_profile.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1440,
+  "alto": 1700,
+  "que_es": "Arte oficial de Kurapika, videojuego Jump Force",
+  "para_que": "pose de acción, crossover",
+  "licencia": "© Bandai Namco / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/54/Bisky_Nen_Impact_Fullbody.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1320,
+  "alto": 2060,
+  "que_es": "Arte oficial de Bisky, cuerpo completo, videojuego de lucha propio HUNTER×HUNTER NEN×IMPACT (2024)",
+  "para_que": "arte oficial variado, personaje secundario",
+  "licencia": "© Bushiroad / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/3/3e/TLM_Gon_Design_1.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 9180,
+  "alto": 6530,
+  "que_es": "Hoja de modelo oficial de Gon, línea limpia, película The Last Mission",
+  "para_que": "pose neutra y proporciones para recortar/posar en Blender",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/d/da/TLM_Killua_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 9180,
+  "alto": 6530,
+  "que_es": "Hoja de modelo oficial de Killua, línea limpia, película The Last Mission",
+  "para_que": "pose neutra y proporciones",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c4/TLM_Leorio_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 9180,
+  "alto": 6530,
+  "que_es": "Hoja de modelo oficial de Leorio, línea limpia, película The Last Mission",
+  "para_que": "pose neutra y proporciones",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c7/HxH_Last_Mission_Kurapika_Main_Costume_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 8435,
+  "alto": 6000,
+  "que_es": "Hoja de modelo oficial de Kurapika (traje principal), línea limpia, The Last Mission",
+  "para_que": "pose neutra y proporciones",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a2/TLM_Hisoka_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 8262,
+  "alto": 5877,
+  "que_es": "Hoja de modelo oficial de Hisoka, línea limpia, The Last Mission",
+  "para_que": "pose neutra y proporciones",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/4/4d/TLM_Netero_Design_1.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 9180,
+  "alto": 6530,
+  "que_es": "Hoja de modelo oficial de Netero (secundario), The Last Mission",
+  "para_que": "personaje secundario, pose neutra",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/7/78/Togashi_Twitter_-_Gon_Sketch_3.png",
+  "fuente": "Fandom hunterxhunter (repostea X/Twitter de Togashi)",
+  "ancho": 1536,
+  "alto": 1995,
+  "que_es": "Boceto de Gon dibujado por el propio autor, Yoshihiro Togashi",
+  "para_que": "estilo del autor (también punto 18)",
+  "licencia": "© Yoshihiro Togashi; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/d/d4/Togashi_Twitter_-_Kurapika_Sketch.png",
+  "fuente": "Fandom hunterxhunter (repostea X/Twitter de Togashi)",
+  "ancho": 1530,
+  "alto": 1561,
+  "que_es": "Boceto de Kurapika dibujado por el propio autor",
+  "para_que": "estilo del autor",
+  "licencia": "© Yoshihiro Togashi; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/9/92/Chap_2_-_The_three_applicants_left_aboard_the_ship.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3848,
+  "alto": 3756,
+  "que_es": "Viñeta del manga, capítulo 2, línea limpia",
+  "para_que": "arte oficial variado y referencia de línea/trama (punto 19)",
+  "licencia": "© Yoshihiro Togashi / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e6/Chap_268_-_Meruem_caring_for_Komugi.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2565,
+  "alto": 3056,
+  "que_es": "Viñeta del manga, capítulo 268, una de las escenas más citadas por el fandom",
+  "para_que": "arte oficial variado, escena icónica",
+  "licencia": "© Yoshihiro Togashi / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial del anime",
+  "para_que": "arte oficial, referencia rápida",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136-uHALFo2vGOGd.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial del anime (formato ancho)",
+  "para_que": "fondo de cabecera, formato ancho",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4128/b96c861bced4c0b7fcd0a5d03799c5d5206a4d18.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de Killua Zoldyck, la más puntuada en Safebooru",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor (twitter.com/cheonsaru); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/897/b713a0308b864a370fac498c2adec46e829c0ef0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2893,
+  "alto": 2343,
+  "que_es": "Fan art de Kurapika",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor (Pixiv); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3448/58fc4798abff60cc64ebae59f0595a021bb96e85.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Fan art de Gon Freecss",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor (twitter.com/hxhsaikaishite); sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1000/e6d63bee5e96eae9ebd06b6bece565fa82c0feba.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1996,
+  "alto": 868,
+  "que_es": "Fan art de Hisoka Morow (poco apoyo del fandom en este sitio, usar con cautela)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor (Pixiv); sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-f85b3502129c41b2a0dc24b16a49a8ee",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Hisoka",
+  "para_que": "referencia 3D para Blender, licencia libre",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-6ee5aa4542b54abda774804ffce538b9",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Kurapika",
+  "para_que": "referencia 3D para Blender, licencia libre",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7c081daaac4742d3a4a89e6c9fecee90",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Neferpitou",
+  "para_que": "referencia 3D para Blender, licencia libre",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9588e5ffb8b8446a935d2a722e01a529",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Meruem",
+  "para_que": "referencia 3D para Blender, licencia libre",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d38e2d3683084feea6bc092f43bf7f87",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Nanika",
+  "para_que": "referencia 3D para Blender, licencia libre",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-1334ed31b8ef4542bc4843c79dab12aa",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable del dirigible del Examen Hunter",
+  "para_que": "referencia 3D de objeto/vehículo para Blender, licencia libre",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c8/Gon_2011_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 699,
+  "alto": 485,
+  "que_es": "Hoja de diseño a color de Gon, anime 2011 (turnaround)",
+  "para_que": "vestuario, hex medidos con estilo.py",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/1/1d/Killua_2011_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 675,
+  "alto": 450,
+  "que_es": "Hoja de diseño a color de Killua, anime 2011",
+  "para_que": "vestuario, hex medidos con estilo.py",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/d/db/HxH2011_Kurapika_Yorknew_City_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2961,
+  "alto": 2000,
+  "que_es": "Hoja de diseño a color de Kurapika, traje de Yorknew City, anime 2011",
+  "para_que": "vestuario, hex medidos con estilo.py",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/2/23/Leorio_2011_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 684,
+  "alto": 485,
+  "que_es": "Hoja de diseño a color de Leorio, anime 2011",
+  "para_que": "vestuario, hex medidos con estilo.py",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/7/77/Hisoka_2011_Design_1.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 720,
+  "alto": 476,
+  "que_es": "Hoja de diseño a color de Hisoka, anime 2011",
+  "para_que": "vestuario, hex medidos con estilo.py",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/d/d1/TLM_Killua%27s_Skateboard_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 9180,
+  "alto": 6530,
+  "que_es": "Diseño oficial de la patineta de Killua, The Last Mission",
+  "para_que": "accesorio icónico, objeto real para Blender",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/f/f3/TLM_Killua%27s_Yo-yo_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 9180,
+  "alto": 6530,
+  "que_es": "Diseño oficial del yoyo de Killua, The Last Mission",
+  "para_que": "accesorio icónico, objeto real para Blender",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0a/TLM_Gon%27s_Fishing_Rod_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 9180,
+  "alto": 6530,
+  "que_es": "Diseño oficial de la caña de pescar de Gon, The Last Mission",
+  "para_que": "accesorio icónico, objeto real para Blender",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/b/b9/HxH2011_Kurapika_Chain_Designs.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1526,
+  "alto": 1466,
+  "que_es": "Diseño oficial de las 4 cadenas de Kurapika (arma Nen)",
+  "para_que": "accesorio/arma icónica, objeto real para Blender",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/9/9b/58_-_Killua_Yorknew_Outfit_3.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 641,
+  "alto": 1080,
+  "que_es": "Killua con su outfit casual del arco de Yorknew City (camisa mostaza, playera azul marino, shorts verde-petróleo)",
+  "para_que": "vestuario, segundo look por arco (distinto del traje de examen)",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/7/76/World_Map.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1908,
+  "alto": 1080,
+  "que_es": "Mapa oficial del mundo de Hunter x Hunter",
+  "para_que": "referencia de geografía y nombres de lugares",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/5e/Greed_Island_Port_%282011_Anime%29.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3506,
+  "alto": 1967,
+  "que_es": "Puerto de entrada a Greed Island, anime 2011",
+  "para_que": "sitio de la serie, fondo de pantalla en alta",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0c/Killua_opening_the_gates.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Puerta de la Mansión Zoldyck, Monte Kukuroo",
+  "para_que": "sitio de la serie, fondo de pantalla",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/f/fe/79_-_The_group_entering_the_NGL_Border_Stop.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Frontera de la Nueva Gorteau Libre (NGL), en 4K",
+  "para_que": "sitio de la serie, fondo de pantalla en alta",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/3/31/HxH2011_EP148_World_Tree_Birds.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "El Árbol del Mundo (World Tree)",
+  "para_que": "sitio de la serie, fondo de pantalla",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/f/fe/92_-_palace.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Palacio de Kakin, arco de la Sucesión",
+  "para_que": "sitio de la serie, fondo de pantalla",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/x8/wallhaven-x881rl.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2808,
+  "alto": 2840,
+  "que_es": "Fondo de pantalla de fans: Kurapika y Killua",
+  "para_que": "fondo de pantalla de fans en alta",
+  "licencia": "subido por InoxHinata; © su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/j8/wallhaven-j813vq.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2820,
+  "alto": 1396,
+  "que_es": "Fondo de pantalla de fans, escena de grupo, anime 2011",
+  "para_que": "fondo de pantalla de fans en alta",
+  "licencia": "subido por Chumry; © su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/gj/wallhaven-gjq72d.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3924,
+  "alto": 2081,
+  "que_es": "Fondo de pantalla de fans de Gon Freecss, anime 2011",
+  "para_que": "fondo de pantalla de fans en alta",
+  "licencia": "subido por Chumry; © su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/5f/HxH2011_EP32_Hisoka%27s_fake_Spider_tattoo.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tatuaje/emblema de la Araña (Phantom Troupe) sobre la piel",
+  "para_que": "referencia de emblema y textura de tinta sobre piel",
+  "licencia": "© Madhouse / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Fabric061",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura real de tela de punto, equivalente al polo de cuello alto de Killua",
+  "para_que": "textura 2D/3D equivalente para vestuario",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Leather037",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura real de cuero, equivalente al maletín de Leorio o la correa de cartas de Hisoka",
+  "para_que": "textura 2D/3D equivalente para vestuario/objetos",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper001",
+  "fuente": "ambientCG",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura real de papel, equivalente al fondo de viñetas o cartas",
+  "para_que": "textura 2D/3D equivalente para objetos de papel",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://www.brusheezy.com/free/halftone",
+  "fuente": "Brusheezy",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Paquete de pinceles de screentone/halftone gratuitos",
+  "para_que": "equivalente de trama de manga para Photoshop",
+  "licencia": "gratuito; revisar licencia de cada pincel al bajar"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/8/8a/KNIVES_OUT_HxH_Collab.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1200,
+  "alto": 628,
+  "que_es": "Arte de la colaboración con el videojuego móvil KNIVES OUT (荒野行動)",
+  "para_que": "colaboración, mayo 2023",
+  "licencia": "© NetEase / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/8/87/Monster_Hunter_XX_Collaboration_2017.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Arte de la colaboración con Monster Hunter XX (Capcom)",
+  "para_que": "colaboración, marzo 2017",
+  "licencia": "© Capcom / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/4/41/%22GON_BREAK_THROUGH_BLACK_BACK%22.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 877,
+  "alto": 877,
+  "que_es": "Arte de la colaboración de ropa con Hypland",
+  "para_que": "colaboración de moda, ropa nueva del personaje",
+  "licencia": "© Hypland / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/6/64/%22hisoka-hypland%22.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1426,
+  "alto": 1426,
+  "que_es": "Arte de Hisoka para la colaboración con Hypland",
+  "para_que": "colaboración de moda",
+  "licencia": "© Hypland / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/8/8d/%22hxhuniqlocollab%22.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1182,
+  "alto": 1186,
+  "que_es": "Arte de la colaboración de camisetas con UNIQLO UT",
+  "para_que": "colaboración de moda, noviembre 2024",
+  "licencia": "© UNIQLO / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/4/48/Nendoroid_gon.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 580,
+  "alto": 800,
+  "que_es": "Figura oficial Nendoroid de Gon (Good Smile Company, 2023)",
+  "para_que": "figura oficial, referencia de pose 3D",
+  "licencia": "© Good Smile Company / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/6/69/Nendoroid_killua.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 600,
+  "alto": 800,
+  "que_es": "Figura oficial Nendoroid de Killua (Good Smile Company, 2023)",
+  "para_que": "figura oficial, referencia de pose 3D",
+  "licencia": "© Good Smile Company / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/e/e6/Max_Factory_Figma_Gon.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1236,
+  "alto": 1278,
+  "que_es": "Figura oficial Figma de Gon (Max Factory, 2013)",
+  "para_que": "figura oficial, referencia de pose 3D",
+  "licencia": "© Max Factory / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/3/31/Max_Factory_Figma_Killua.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1237,
+  "alto": 1291,
+  "que_es": "Figura oficial Figma de Killua (Max Factory, 2013)",
+  "para_que": "figura oficial, referencia de pose 3D",
+  "licencia": "© Max Factory / Shueisha; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/4111/5006030304_2d76c47e1f_b.jpg",
+  "fuente": "Openverse (Flickr)",
+  "ancho": 664,
+  "alto": 1000,
+  "que_es": "Cosplay de Hisoka, Paris Manga 10",
+  "para_que": "cosplay bien hecho, materiales y volumen reales",
+  "licencia": "CC BY-NC-SA 2.0, autor fabnol"
+ },
+ {
+  "url": "https://live.staticflickr.com/3015/2975409664_c51277eb45_b.jpg",
+  "fuente": "Openverse (Flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Cosplay de Kurapika",
+  "para_que": "cosplay bien hecho, materiales y volumen reales",
+  "licencia": "CC BY-NC-ND 2.0, autor Diego Martin"
+ },
+ {
+  "url": "https://live.staticflickr.com/4049/4549293290_889fb34f78.jpg",
+  "fuente": "Openverse (Flickr)",
+  "ancho": 333,
+  "alto": 500,
+  "que_es": "Cosplay de Gon y Killua juntos, Lovin' Japan 2010",
+  "para_que": "cosplay bien hecho, dinámica de grupo",
+  "licencia": "CC BY-NC-SA 2.0, autor fabnol"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/8/87/Hunter_%C3%97_Hunter_-_The_Stage_Part_2_Leorio_Countdown.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 4096,
+  "alto": 2731,
+  "que_es": "Foto oficial de la obra de teatro Hunter × Hunter The Stage (Parte 2), Leorio",
+  "para_que": "adaptación oficial en vivo, variedad de arte (punto 1)",
+  "licencia": "© producción de la obra / Shueisha; sólo referencia"
+ }
+]

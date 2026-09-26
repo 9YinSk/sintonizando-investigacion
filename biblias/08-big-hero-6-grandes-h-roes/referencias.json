@@ -1,0 +1,1406 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/3/32/Big-Hero-6-107.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 44)",
+    "ancho": 1433,
+    "alto": 2048,
+    "que_es": "Póster latino oficial «Un consejo saludable traído por GRANDES HÉROES»: Baymax señala con el índice su pecho encendido con un icono y el aviso «¡NO USES TU CELULAR MIENTRAS CONDUCES!».",
+    "para_que": "Pose y formato de la lámina de #soporte (concepto A): Disney ya dio avisos en español con el pecho de Baymax como pantalla. Colores medidos en §3.0.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/2/28/Scale_8.png/revision/latest?cb=20190927174559",
+    "fuente": "Fandom, bighero6.fandom.com · File:Scale 8.png (Big Hero 6: The Series)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma real: Baymax proyecta en el pecho la escala del dolor Wong-Baker, 10 caritas de amarillo a rojo numeradas.",
+    "para_que": "Objeto central del canal #soporte: la 'tabla del dolor de verdad'. Hex medidos: fondo #FDF9EF, cara 1 #F1E815, cara 10 #F0764E.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2553ox?start=62",
+    "fuente": "Dailymotion · clip oficial «Meet Baymax» (CGMeetup)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Baymax activado, pecho con la escala de dolor de 10 caras encendida, minuto 1:02 del clip.",
+    "para_que": "Objeto real de la tabla del dolor para #soporte; pose «explicar».",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/0/05/Baymax_Render.png",
+    "fuente": "Disney Wiki (Fandom) · render oficial",
+    "ancho": 1280,
+    "alto": 1403,
+    "que_es": "Render oficial de Baymax en vinilo blanco, sin armadura, de pie de frente.",
+    "para_que": "Hex medidos con Pillow y estilo.py: blanco base #F2F3F5, sombra cálida #DAD5D4, ojos #000000. Pose base para el objeto del canal #soporte.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2553ox?start=72",
+    "fuente": "Dailymotion · clip oficial «Meet Baymax» (CGMeetup)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Baymax escaneando a Hiro, cabeza inclinada, mano en el hombro, minuto 1:12.",
+    "para_que": "Pose «pensar/revisar»; paleta de interior medida (fotograma 00072.jpg).",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/29/Baymax_waving.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja vestuario_concept_01.jpg, n.º 93)",
+    "ancho": 1318,
+    "alto": 1500,
+    "que_es": "Baymax saluda con una mano levantada, fondo gris.",
+    "para_que": "Pose de saludar o presentar.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/4/4a/Hiro_at_Disney%27s_Hollywood_Studios.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 19)",
+    "ancho": 3000,
+    "alto": 1996,
+    "que_es": "Hiro señala hacia arriba con el índice; sudadera abierta, camiseta roja.",
+    "para_que": "Pose de explicar o señalar.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/4/4d/BH6_still_Baymaxhug.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 16)",
+    "ancho": 4096,
+    "alto": 1716,
+    "que_es": "Fotograma ancho: Baymax abraza a Hiro.",
+    "para_que": "Consuelo, ticket cerrado; fondo ancho.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/d9/Baymax_Manga_Diagram.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja colaboraciones_01.jpg, n.º 240)",
+    "ancho": 700,
+    "alto": 1053,
+    "que_es": "Página de revista japonesa: Baymax con etiquetas redondas de color (FACE, HEART, BODY, STYLE) unidas por flechas de puntos. Inglés de un escaneo de fans.",
+    "para_que": "Formato de la lámina 2 con etiquetas.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x5hvz3y?t=55",
+    "fuente": "Dailymotion, «Big hero 6 pelicula completa en español latino Parte 1 part 2/2»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Minuto 0:55: Baymax dice «Puedo desactivarme si dices que estás satisfecho con tu cuidado» — versión real del doblaje, más corta que la que circulaba de memoria",
+    "para_que": "Punto 8: corrige con fuente textual y minuto una de las frases más citadas de Baymax",
+    "licencia": "fragmento de la película, subido por un usuario; sólo referencia, no redistribuir"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/c/ce/Baymax%27s_Healthcare_Chip.jpg/revision/latest?cb=20181111040242",
+    "fuente": "Fandom, bighero6.fandom.com · File:Baymax's Healthcare Chip.jpg",
+    "ancho": 1920,
+    "alto": 808,
+    "que_es": "El chip verde de cuidados de Baymax, icono de doctor sonriente.",
+    "para_que": "Cuadro/símbolo de personalidad de Baymax (puntos 6 y 25). Hex medidos: #546B60, #78968B sobre #232627.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/b/b8/Baymax%27s_Fighting_Chip.jpg/revision/latest?cb=20170517182209",
+    "fuente": "Fandom, bighero6.fandom.com · File:Baymax's Fighting Chip.jpg",
+    "ancho": 1416,
+    "alto": 808,
+    "que_es": "El chip rojo de pelea de Baymax, calavera con tibias cruzadas.",
+    "para_que": "Contraste de color/uso frente al chip verde (punto 6). Hex medidos: #811A1D, #9A3640 sobre #28151C.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/c/cc/Baymax_scanning_eyes.png/revision/latest?cb=20181006234332",
+    "fuente": "Fandom, bighero6.fandom.com · File:Baymax scanning eyes.png",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de la serie: los 'ojos' de Baymax en forma de obturador de cámara al escanear.",
+    "para_que": "Cómo 'piensa' Baymax en pantalla (punto 6), gesto que no estaba documentado antes.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/5/59/Baymax_scanning.png/revision/latest?cb=20180819023436",
+    "fuente": "Fandom, bighero6.fandom.com · File:Baymax scanning.png",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma con el puerto de chips de Baymax visible en su costado.",
+    "para_que": "Referencia de vestuario/accesorio técnico (puntos 6 y 25).",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/a/aa/Big_Hero_6_logo.png/revision/latest?cb=20170927200324",
+    "fuente": "Fandom, bighero6.fandom.com · File:Big Hero 6 logo.png",
+    "ancho": 800,
+    "alto": 310,
+    "que_es": "Logo oficial de la película, letras gruesas redondeadas hechas a mano, rojo/negro/blanco.",
+    "para_que": "Referencia de tipografía (punto 5) y símbolo (punto 25). Hex medidos: #E00318, #020000, #FEFDFE.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bighero6/images/7/7e/SFIT_Logo.png/revision/latest?cb=20170427235236",
+    "fuente": "Fandom, bighero6.fandom.com · File:SFIT Logo.png",
+    "ancho": 700,
+    "alto": 700,
+    "que_es": "Sello circular del San Fransokyo Institute of Technology, engranaje dorado con centro azul marino.",
+    "para_que": "Símbolo del mundo (punto 25) y ejemplo de letra redondeada gruesa (punto 5). Hex: #FDD340, #100730, #A82512.",
+    "licencia": "© Disney. Sólo referencia interna del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/0/03/Big_Hero_6_Essential_Guide_Bay%2Cax_2.0.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 29)",
+    "ancho": 2560,
+    "alto": 1674,
+    "que_es": "Página de «The Essential Guide»: Baymax 2.0 con rótulos y flechas.",
+    "para_que": "Formato de la lámina 2 con etiquetas.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/b/b6/Big_Hero_6_Essential_Guide_Baymax.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 30)",
+    "ancho": 2560,
+    "alto": 1674,
+    "que_es": "Página de «The Essential Guide»: Baymax con rótulos y flechas.",
+    "para_que": "Formato de la lámina 2 con etiquetas.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/21/Profile_-_Hiro_Hamada.jpeg",
+    "fuente": "disney.fandom.com, galerías (hoja vestuario_concept_01.jpg, n.º 72)",
+    "ancho": 1380,
+    "alto": 1600,
+    "que_es": "Primer plano de Hiro preocupado.",
+    "para_que": "Cara de «me duele» para el usuario que abre ticket (concepto B).",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/b/b2/Baymax_Inflight_Render.png",
+    "fuente": "Disney Wiki (Fandom) · render oficial",
+    "ancho": 919,
+    "alto": 758,
+    "que_es": "Render de Baymax con armadura roja volando, puño extendido.",
+    "para_que": "Hex de la armadura (#DD4630 rojo-naranja, #8E7380 acento morado) y pose de acción/vuelo.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/c/ca/Big_Hero_6_poster_2.jpg",
+    "fuente": "Disney Wiki (Fandom) · póster oficial de cine",
+    "ancho": 1985,
+    "alto": 2835,
+    "que_es": "Póster internacional: Hiro con un cuaderno morado junto a Baymax con armadura.",
+    "para_que": "Hex medidos de Hiro (sudadera #3B3D5C, camiseta #DB2C2B, pantalón #7B5836) y de la armadura de Baymax (#ED512D, #926996). Concepto de lámina 1 y 2.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/7d/Hiro_Armor_Render.png",
+    "fuente": "Disney Wiki (Fandom) · render oficial",
+    "ancho": 1280,
+    "alto": 1366,
+    "que_es": "Render de Hiro con su armadura (casco con antenas, traje).",
+    "para_que": "Hex del traje (#3C355D) y del casco (~#8B447A). Pose de superhéroe para conceptos de lámina con acción.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/12/Baymax_Armor_Render.png",
+    "fuente": "Disney Wiki (Fandom) · render oficial (versión anterior/juego)",
+    "ancho": 1280,
+    "alto": 1366,
+    "que_es": "Render de una variante de la armadura de Baymax en naranja quemado con pecho morado.",
+    "para_que": "Contraste de color: muestra que hubo una versión más naranja/oscura antes de fijar el rojo final de la película.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x889whz",
+    "fuente": "Dailymotion · «Grandes Héroes – Tráiler oficial en español latino» (sensacinemx)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler latino oficial completo (2:31), visto entero fotograma a fotograma; incluye los textos «MUY PRONTO», «ÉL NOS GUIARÁ», «ÉL NOS CUIDARÁ», «ÉL CAMBIARÁ NUESTRO MUNDO» y el logo «GRANDES HÉROES».",
+    "para_que": "Tipografía y frases del tráiler en español (para texto); vídeo del punto 10.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x889whz?start=108",
+    "fuente": "Dailymotion · «Grandes Héroes – Tráiler oficial en español latino» (sensacinemx)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Baymax volando entre nubes al anochecer, luces rojas, minuto 1:48.",
+    "para_que": "Paleta de vuelo nocturno (hex medidos: rojos oscuros, rosados).",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x889whz?start=115",
+    "fuente": "Dailymotion · «Grandes Héroes – Tráiler oficial en español latino» (sensacinemx)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "El grupo completo volando sobre nubes al atardecer, cielo morado-azulado, minuto 1:55.",
+    "para_que": "Corrige la paleta «atardecer dorado» de memoria: en esta toma es morado-azulado (hex medidos).",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x889whz?t=11",
+    "fuente": "Dailymotion, «'Grandes Héroes' - Tráiler oficial en español latino»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Doblaje real, minuto 0:11: Hiro presenta a Tadashi («Él es mi hermano mayor, Tadashi»)",
+    "para_que": "Punto 8: frase textual del doblaje latino con minuto exacto, transcrita con voz.py",
+    "licencia": "tráiler oficial de Disney, repost de fan; sólo referencia y enlace"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x889whz?t=18",
+    "fuente": "Dailymotion, tráiler oficial en español latino",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Doblaje real de Alan Prieto como Baymax, minuto 0:18: «Hola, yo soy Baymax»",
+    "para_que": "Punto 8 y 13: primera frase de Baymax en el doblaje, con minuto",
+    "licencia": "tráiler oficial de Disney, repost de fan; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2hry42?t=4",
+    "fuente": "Dailymotion, «6 Grandes Héroes Español Latino Parte 2»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Escena inicial doblada, minuto 0:04: Hiro explica a la tía Cass que apostar en peleas de robots es lo ilegal, no pelear",
+    "para_que": "Punto 8: confirma de oído una frase que la primera pasada sólo tenía de memoria",
+    "licencia": "fragmento de la película, subido por un usuario; sólo referencia, no redistribuir"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2hry42?t=165",
+    "fuente": "Dailymotion, mismo fragmento de la película doblada",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Minuto 2:45: Hiro dice «Bienvenida a la tierra de los nerds» al entrar al laboratorio con GoGo, Wasabi, Honey Lemon y Fred",
+    "para_que": "Punto 8 y 13: frase textual de presentación del grupo, con minuto",
+    "licencia": "fragmento de la película, subido por un usuario; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2hry42?t=209",
+    "fuente": "Dailymotion, mismo fragmento de la película doblada",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Minuto 3:29: Wasabi, doblado por Alan Bravo, dice «Cada objeto tiene un lugar y un lugar cada objeto» (su manía del orden)",
+    "para_que": "Punto 8, 13 y 20: frase-firma de Wasabi con minuto, útil para su cuadro de diálogo",
+    "licencia": "fragmento de la película, subido por un usuario; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x5hvz3y?t=181",
+    "fuente": "Dailymotion, mismo fragmento de la película doblada",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Minuto 3:01: GoGo (Erika Ugalde) dice «Fred, no me hagas callarte con mi láser»",
+    "para_que": "Punto 8 y 13: voz de GoGo, cortante y seca, con minuto",
+    "licencia": "fragmento de la película, subido por un usuario; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x5hvz3y?t=254",
+    "fuente": "Dailymotion, mismo fragmento de la película doblada",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Minuto 4:14: Alistair Krei presenta el proyecto «Silent Sparrow» ante la clase del SFIT",
+    "para_que": "Punto 8: escena real doblada, útil para contexto del villano",
+    "licencia": "fragmento de la película, subido por un usuario; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2553ox?start=9",
+    "fuente": "Dailymotion · clip oficial «Meet Baymax» (CGMeetup)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Primer plano del botón rojo circular de encendido en el pecho de Baymax, minuto 0:09.",
+    "para_que": "Icono/botón para el canal de soporte (encender ticket).",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3wn7x2?start=21",
+    "fuente": "Dailymotion · clip oficial «Fist Bump» (Movieclips-style, final de la película)",
+    "ancho": 1280,
+    "alto": 534,
+    "que_es": "Choque de puños final entre Hiro y Baymax (armadura verde), sala SFIT con biombo japonés, minuto 0:21.",
+    "para_que": "Pose «celebrar / cerrar ticket resuelto».",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x283k45?start=44",
+    "fuente": "Dailymotion · clip oficial «Low Battery» (escena de la película, 2014)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Baymax con batería baja choca con Hiro en la cocina de la casa Hamada, minuto 0:44; tía Cass al fondo.",
+    "para_que": "Paleta cálida de cocina (hex medidos) y pose cómica de batería baja.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x283k45?start=30",
+    "fuente": "Dailymotion · clip oficial «Low Battery» (escena de la película, 2014)",
+    "ancho": 1280,
+    "alto": 540,
+    "que_es": "Plano general de la cocina Lucky Cat de noche: alacenas verde menta, encimera roja, madera cálida, minuto 0:30.",
+    "para_que": "Referencia de sitio/fondo cálido para lámina de #soporte (alternativa al hospital genérico).",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7vbgp7?start=24",
+    "fuente": "Dailymotion · «Big Hero 6 (2014) Last Fighting Scene» (clímax)",
+    "ancho": 1280,
+    "alto": 534,
+    "que_es": "Fred escupiendo fuego en la batalla final, minuto 0:24.",
+    "para_que": "Pose de equipo secundaria, paleta de acción (naranja/fuego).",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7vbgp7?start=86",
+    "fuente": "Dailymotion · «Big Hero 6 (2014) Last Fighting Scene» (clímax)",
+    "ancho": 1280,
+    "alto": 534,
+    "que_es": "Baymax e Hiro cayendo hacia el portal, sujetos por el brazo del traje morado, minuto 1:26.",
+    "para_que": "Escena emotiva del clímax (apoyo al punto 21 del investigador de voz/texto).",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://archive.org/details/youtube-wnDrECylMOU",
+    "fuente": "Internet Archive · «Big Hero 6 (2014) Deleted Scenes #1 - Hamada Brother Robotics»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Storyboard (blanco y negro, sin animar) de una escena eliminada de los hermanos Hamada en el garaje, minuto 0:42.",
+    "para_que": "Referencia de puesta en escena del garaje/taller (±2 s, es boceto no color final).",
+    "licencia": "Vídeo promocional de prensa/Disney redistribuido en YouTube y archivado en IA. Sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7we0ri",
+    "fuente": "Dailymotion · «Big Hero 6 The Series Season 3 Intro» (Disney XD, canal teasertrailer)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Opening real de la serie de TV (0:33), tema de Adam Berry; panal hexagonal rojo/dorado, cada héroe con su color.",
+    "para_que": "Confirma el motivo gráfico y paleta más saturada de la serie frente a la película.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7x6uz7?start=1",
+    "fuente": "Dailymotion · «Big Hero 6 The Series - Clip - Big Hero Battle» (canal teasertrailer)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Equipo completo de la serie en pose de combate junto a la autocaravana, minuto 0:01.",
+    "para_que": "Vestuario de la serie (colores más puros: rojo, verde lima, naranja) para contraste con la película.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://archive.org/details/fall-out-boy-immortals-official-music-video-from-big-hero-6-160k",
+    "fuente": "Internet Archive · single oficial «Immortals» (Fall Out Boy), audio 160k",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Audio completo del sencillo «Immortals», tema que suena en el montaje de entrenamiento y en los créditos finales.",
+    "para_que": "Fuente de audio para el punto 9 (música); duración real 4:02.",
+    "licencia": "© Fall Out Boy / Island Records / Disney. Sólo referencia."
+  },
+  {
+    "url": "https://archive.org/details/youtube-koKlm22FLk0",
+    "fuente": "Internet Archive · «Big Hero 6 (2014) Featurette - Animating Baymax»",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Featurette oficial (104 s) sobre la animación de Baymax.",
+    "para_que": "Fuente para el punto 18 (técnica de animación) del investigador de texto; no analizada a fondo por mí.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/de/Tadashi_in_hiros_journal.png",
+    "fuente": "disney.fandom.com, galerías (hoja vestuario_concept_01.jpg, n.º 92)",
+    "ancho": 1191,
+    "alto": 1671,
+    "que_es": "Nota a mano de Tadashi en el diario de Hiro, con su foto sujeta con un clip.",
+    "para_que": "Objeto de papel real; letra a mano de referencia.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/c/c1/Hiro_and_Baymax.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 17)",
+    "ancho": 2053,
+    "alto": 3383,
+    "que_es": "Hiro sentado sobre Baymax, fondo blanco.",
+    "para_que": "Presentar al dúo.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/b/ba/BigHero6Team2.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 1)",
+    "ancho": 5000,
+    "alto": 3273,
+    "que_es": "El equipo entero de civil, de pie, fondo blanco.",
+    "para_que": "Láminas de grupo, vestuario de todos.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/e/e4/Big_Hero_6_Characters.png",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 33)",
+    "ancho": 3509,
+    "alto": 1195,
+    "que_es": "Todos los personajes en fila, a escala.",
+    "para_que": "Alturas relativas.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/25/Big_hero_6_team_enjoying_themselves_concept_art.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja colaboraciones_01.jpg, n.º 213)",
+    "ancho": 1280,
+    "alto": 710,
+    "que_es": "Arte conceptual: el equipo en el Lucky Cat Café («OPEN»).",
+    "para_que": "Sitio cálido del concepto C.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/c/c0/MeetBaymaxSDCC2014.png",
+    "fuente": "disney.fandom.com, galerías (hoja colaboraciones_01.jpg, n.º 201)",
+    "ancho": 960,
+    "alto": 960,
+    "que_es": "Cartel «Meet Baymax at booth #3635A» (SDCC 2014) con Baymax saludando.",
+    "para_que": "Cartel de aviso con Baymax.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/f/fc/Tadashi_outfit_concepts_3.png",
+    "fuente": "disney.fandom.com, galerías (hoja colaboraciones_01.jpg, n.º 236)",
+    "ancho": 682,
+    "alto": 1099,
+    "que_es": "Conceptos de ropa de Tadashi: gorra negra, chaqueta verde.",
+    "para_que": "Vestuario de Tadashi en la película.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/2e/Hiro_Hamada_DHBM_Promo.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja colaboraciones_01.jpg, n.º 204)",
+    "ancho": 960,
+    "alto": 960,
+    "que_es": "Hiro en Disney Heroes: Battle Mode con sus SKILLS (Megabot Call, Megabot Spin, Microbot Stun, Analyze).",
+    "para_que": "Interfaz de juego y vocabulario de habilidades.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/6/6e/Baymax_and_Hiro_in_Disney%27s_Hollywood_Studios.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja vestuario_concept_01.jpg, n.º 78)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Foto real: Baymax de parque junto a un visitante.",
+    "para_que": "Escala humana real para Blender.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/76/Hiro%E2%80%99s_Journal.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja vestuario_concept_01.jpg, n.º 51)",
+    "ancho": 1280,
+    "alto": 1869,
+    "que_es": "Portada del libro «Hiro's Journal» («DO NOT TOUCH!», «KEEP OUT!»).",
+    "para_que": "Cuaderno como objeto.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/a/af/Big_Hero_6_Baymax_style_poster.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja arte_oficial_01.jpg, n.º 40)",
+    "ancho": 1583,
+    "alto": 2048,
+    "que_es": "Póster «de estilo» japonés retro de Baymax, con «S.F.» y katakana.",
+    "para_que": "Cartel del mundo.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/20/Baymax_Chapter_0_Cover.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja colaboraciones_01.jpg, n.º 238)",
+    "ancho": 700,
+    "alto": 1057,
+    "que_es": "Portada japonesa del capítulo 0 del manga «ベイマックス».",
+    "para_que": "Manga.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/0/0d/Baymax_-_Armored_Companion_lorcana.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja colaboraciones_01.jpg, n.º 228)",
+    "ancho": 744,
+    "alto": 1040,
+    "que_es": "Carta de Disney Lorcana: Baymax con armadura.",
+    "para_que": "Pose nueva de colaboración.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/8b/Young_Hiro_character_model.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja colaboraciones_01.jpg, n.º 230)",
+    "ancho": 1024,
+    "alto": 750,
+    "que_es": "Hoja de modelo de Hiro niño, «Modeler Suzan Kim».",
+    "para_que": "Modelo 3D, proporciones.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/4/4d/Big_Hero_6_Concept_Art_03.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja vestuario_concept_01.jpg, n.º 95)",
+    "ancho": 2000,
+    "alto": 949,
+    "que_es": "Arte conceptual: Hiro en su cuarto, de noche.",
+    "para_que": "Fondo del concepto B.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/0/08/Big_Hero_6_Concept_Art_04.jpg",
+    "fuente": "disney.fandom.com, galerías (hoja vestuario_concept_01.jpg, n.º 94)",
+    "ancho": 2000,
+    "alto": 981,
+    "que_es": "Arte conceptual: San Fransokyo de noche.",
+    "para_que": "Fondo de ciudad.",
+    "licencia": "© Disney. Sólo referencia, no se pega en la lámina."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/baymax-rigged-be0f190b63d546af8fdd53f49da0e8b6",
+    "fuente": "Sketchfab · modelo de DownbeatFusion (confirmado por la API v3/search)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Baymax ya montado con huesos (rig), listo para posar en Blender.",
+    "para_que": "Punto de partida gratuito para poses/render en Blender (punto 18).",
+    "licencia": "CC Attribution (confirmada en la respuesta de la API de Sketchfab)."
+  },
+  {
+    "url": "https://blendswap.com/blend/13951",
+    "fuente": "BlendSwap · 'Baymax(from Disney's Big Hero 6)' por DoodleNotes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo de Baymax en formato .blend, rig completo para animación.",
+    "para_que": "Alternativa a Sketchfab para Blender (punto 18); revisar la licencia antes de usar (no comercial).",
+    "licencia": "CC BY-NC (no comercial), según la ficha de BlendSwap."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/3/32/Tadashi_and_Go_Go_character_model.jpg",
+    "fuente": "Disney Wiki (Fandom) · hoja de modelo oficial (2015, serie)",
+    "ancho": 1024,
+    "alto": 1225,
+    "que_es": "Hoja de modelo de Tadashi (chaqueta con capucha oliva/gris, gorra, bolso) y GoGo, para Big Hero 6: The Series.",
+    "para_que": "Hex de referencia de Tadashi (gorra #5A5A5A, chaqueta #636C72/#6E7266, bolso #7C595C). Marcado ⚠️: es el look de la serie, no el de la película.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/22/Baymax-manga-preview-ch-0.jpg",
+    "fuente": "Disney Wiki (Fandom) · muestra oficial del manga (Kodansha/Yen Press)",
+    "ancho": 1000,
+    "alto": 1436,
+    "que_es": "Página de muestra del capítulo 0 del manga: Baymax saluda a Hiro por primera vez.",
+    "para_que": "Textura 2D: trama de puntos (halftone), globo ovalado, líneas de velocidad. Referencia para enmarcar la tabla del dolor como viñeta de manga.",
+    "licencia": "© Disney / Kodansha / Yen Press. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/2d/Wappen_Hiro_and_Baymax.jpg",
+    "fuente": "Disney Wiki (Fandom) · merchandising oficial (Disney Store Japón)",
+    "ancho": 800,
+    "alto": 800,
+    "que_es": "Parches de fieltro cosido de Hiro y Baymax, producto 'Back to School'.",
+    "para_que": "Textura de fieltro/parche con puntada en zigzag, por si el canal usa una insignia de tela.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/9/9b/BH6_-_Japanese_Poster.jpg",
+    "fuente": "Disney Wiki (Fandom) · póster oficial (Japón)",
+    "ancho": 1024,
+    "alto": 1444,
+    "que_es": "Póster japonés de la película, con el título en katakana ベイマックス.",
+    "para_que": "Arte oficial variado (punto 1), tipografía japonesa del título.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/baymax-418c455a35d24bcdacf853ebf18ae2ee",
+    "fuente": "Sketchfab (licencia confirmada por su API v3)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Baymax.",
+    "para_que": "Referencia de pose y volumen en 3D, licencia CC Attribution confirmada por API (antes 'sin comprobar').",
+    "licencia": "CC BY 4.0 (autor: etamal1234 según la API; crédito obligatorio)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/baymax-29a502f7c45c4b5e82f74e6d0b5f0066",
+    "fuente": "Sketchfab (licencia confirmada por su API v3)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de Baymax.",
+    "para_que": "Referencia de pose y volumen en 3D, licencia CC Attribution confirmada por API.",
+    "licencia": "CC BY 4.0 (autor: yohyoh según la API; crédito obligatorio)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-a6dab787e9094c348cd5ba77e8627b03",
+    "fuente": "Sketchfab · Takoyakixote",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D 'Chibi Baymax'.",
+    "para_que": "Referencia de proporciones chibi para versiones 'cute' de Baymax en textos del bot.",
+    "licencia": "CC BY-NC-SA — no usar para nada comercial, sólo referencia visual."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Plastic013A",
+    "fuente": "ambientCG (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de plástico liso brillante.",
+    "para_que": "Equivalente real de la piel de vinilo de Baymax, para shader en Blender/Photoshop.",
+    "licencia": "CC0 (dominio público, banco ambientCG)."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper006",
+    "fuente": "ambientCG (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de papel con grano.",
+    "para_que": "Grano de papel equivalente para el manga o cartelas impresas del canal.",
+    "licencia": "CC0 (dominio público, banco ambientCG)."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric081C",
+    "fuente": "ambientCG (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de tela tejida.",
+    "para_que": "Equivalente real de la tela de la sudadera de Hiro.",
+    "licencia": "CC0 (dominio público, banco ambientCG)."
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal063",
+    "fuente": "ambientCG (API v2)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de metal cepillado.",
+    "para_que": "Equivalente real para detalles metálicos de la armadura de Baymax o los microbots.",
+    "licencia": "CC0 (dominio público, banco ambientCG)."
+  },
+  {
+    "url": "https://wallhaven.cc/w/0jojkw",
+    "fuente": "Wallhaven (API v1, tamaño y autor verificados)",
+    "ancho": 4096,
+    "alto": 1716,
+    "que_es": "Fondo de pantalla del equipo Big Hero 6 sobre la ciudad de noche.",
+    "para_que": "Fondo de pantalla en alta para el servidor (48 favoritos, el más guardado de la etiqueta 'baymax').",
+    "licencia": "Uso personal (Wallhaven no da licencia de reventa); autor: quanleloi. Sólo referencia/decorativo interno."
+  },
+  {
+    "url": "https://wallhaven.cc/w/4yzk7g",
+    "fuente": "Wallhaven (API v1, tamaño y autor verificados)",
+    "ancho": 16000,
+    "alto": 9000,
+    "que_es": "Fondo de pantalla fan art de Baymax en muy alta resolución.",
+    "para_que": "Fondo de pantalla de fans en tamaño extremo; es fan art, no oficial.",
+    "licencia": "Uso personal; autor: dominomd. No oficial (fan art)."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/8c/Hiro_Hamada_DI2.0_Transparent_Figurine.png",
+    "fuente": "Disney Wiki (Fandom) · render de la figura de Disney Infinity 2.0",
+    "ancho": 2448,
+    "alto": 3319,
+    "que_es": "Render de la figura física de Hiro para el juguete-a-videojuego Disney Infinity.",
+    "para_que": "Punto 23: colaboración con videojuego, figura física real con peana.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://fortnite.fandom.com/wiki/Hero_Baymax",
+    "fuente": "Fortnite Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del traje jugable 'Hero Baymax' en Fortnite (Capítulo 6, temporada Hunters, dic-2024).",
+    "para_que": "Punto 23: colaboración con Fortnite, con mochila 'Megabot' y pico 'Microbot Mallet'. La más reciente y reconocible para jugadores jóvenes.",
+    "licencia": "© Disney / Epic Games. Sólo referencia."
+  },
+  {
+    "url": "https://www.therpf.com/forums/threads/baymax-2-0-armor-with-foam-template-files.234327/",
+    "fuente": "The RPF (comunidad de props y cosplay)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guía de construcción de la armadura de Baymax en foam EVA, con plantillas descargables.",
+    "para_que": "Punto 23: cosplay bien hecho, con materiales y técnica reales (foam EVA, PVA, Plasti Dip) para calibrar el shader de la armadura en Blender.",
+    "licencia": "Contenido de la comunidad; sólo referencia de técnica, no imagen para usar directamente."
+  },
+  {
+    "url": "https://bleedingcool.com/collectibles/big-hero-6-arrives-for-disney-lorcana-azurite-sea-exclusive-reveal/",
+    "fuente": "Bleeding Cool",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anuncio y arte de las cartas de Big Hero 6 en Disney Lorcana: Azurite Sea.",
+    "para_que": "Punto 23: colaboración con el juego de cartas Disney Lorcana (Hiro, Baymax armado, GoGo, Wasabi, Fred, tía Cass).",
+    "licencia": "© Disney / Ravensburger. Sólo referencia."
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2014-08-31/yen-press-licenses-manga-version-of-disney-big-hero-6-film/.78236",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia: Yen Press licencia el manga de Big Hero 6 para EE.UU.",
+    "para_que": "Segunda fuente del manga (punto 1), fechas de publicación de los 2 tomos.",
+    "licencia": "Artículo periodístico; sólo cita, sin imagen propia."
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Baymax",
+    "fuente": "Disney Wiki (Fandom) · wikitexto vía API",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha oficial de Baymax con el cuadro de 'juegos' y 'atracciones' donde ha aparecido.",
+    "para_que": "Fuente única de la lista completa de colaboraciones en videojuegos (punto 23) y de la atracción 'The Happy Ride with Baymax'.",
+    "licencia": "Texto CC BY-SA (licencia de Fandom); imágenes propias © Disney."
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Comic+Neue",
+    "fuente": "Google Fonts · Comic Neue",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre tipo cómic/manga, comprobada con fontTools: trae á é í ó ú ñ ¿ ¡ ü.",
+    "para_que": "Globo de diálogo normal del manga o del ticket (punto 5).",
+    "licencia": "SIL Open Font License (OFL)."
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts · Bangers",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre de cómic en mayúsculas con impacto, comprobada con fontTools: trae todo el juego pedido.",
+    "para_que": "Gritos y onomatopeyas (punto 5).",
+    "licencia": "SIL Open Font License (OFL)."
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Permanent+Marker",
+    "fuente": "Google Fonts · Permanent Marker",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre tipo rotulador, comprobada con fontTools: trae todo el juego pedido.",
+    "para_que": "Carteles pintados a mano del mundo de San Fransokyo (punto 5).",
+    "licencia": "SIL Open Font License (OFL)."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Big_Hero_6_(film)",
+    "fuente": "Wikipedia (en) · Big Hero 6 (film)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo completo con la sección de producción (Hyperion, Denizen, Bonsai, influencias de diseño) y la trama por actos.",
+    "para_que": "Base de los puntos 18 (técnica) y 25 (historia por arcos).",
+    "licencia": "Texto bajo CC BY-SA; usar como fuente, no copiar imágenes de ahí."
+  },
+  {
+    "url": "https://decentfilms.com/reviews/bighero6",
+    "fuente": "Decent Films · reseña de Steven D. Greydanus",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña que compara a Baymax con El gigante de hierro y T2, y con el manejo del duelo frente a Frozen.",
+    "para_que": "Punto 24, obras parecidas: cita textual confirmada leyendo la página completa.",
+    "licencia": "© Decent Films. Sólo cita y enlace, no reproducir el artículo entero."
+  },
+  {
+    "url": "https://charactermedia.com/big-hero-6-animators-discuss-their-creative-process/",
+    "fuente": "Character Media (KoreAm) · entrevista a animadores de Big Hero 6",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista a Shiyoon Kim (diseñador principal de personajes) y Hyun-min Lee (animador de Baymax).",
+    "para_que": "Confirma quién propuso quitarle la boca a Baymax (punto 6), corrige la duda Jin/Shiyoon Kim.",
+    "licencia": "© Character Media. Sólo cita y enlace."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Big_Hero_6_(manga)",
+    "fuente": "Fandom · Big Hero 6 (manga)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del manga oficial 'Baymax' (ベイマックス) de Haruki Ueno, Kodansha/Yen Press.",
+    "para_que": "Base para el punto 5 (letras de los globos del manga oficial).",
+    "licencia": "Wiki de fans (CC BY-SA de Fandom); imágenes del manga son © Disney/Kodansha/Yen Press."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Big_Hero_6_(Marvel_Comics)",
+    "fuente": "Fandom · Big Hero 6 (Marvel Comics)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Historial de los cómics originales de Marvel (1998 y 2008) de los que salió el nombre del equipo.",
+    "para_que": "Punto 24, obra de origen muy distinta en estilo a la película.",
+    "licencia": "Wiki de fans (CC BY-SA de Fandom)."
+  },
+  {
+    "url": "https://www.khwiki.com/San_Fransokyo",
+    "fuente": "Kingdom Hearts Wiki (khwiki.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del mundo San Fransokyo en Kingdom Hearts III, con nombres de temas musicales.",
+    "para_que": "Punto 11, videojuegos: refuerza con nuevo dato (nombres de música) lo ya confirmado.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Big_Hero_6_(film)/Transcript",
+    "fuente": "Fandom · transcripción completa de la película",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guion original en inglés, diálogo por diálogo, de toda la película.",
+    "para_que": "Frases textuales para el punto 6 (escena de la pantalla de Baymax) y el 25 (vocabulario propio, 'Woman up', 'Tadashi is here').",
+    "licencia": "Wiki de fans (CC BY-SA); el diálogo en sí es © Disney."
+  },
+  {
+    "url": "https://ia600403.us.archive.org/7/items/bighero6vol10000ueno/__ia_thumb.jpg",
+    "fuente": "Internet Archive · portada del tomo 1 del manga (préstamo digital)",
+    "ancho": 180,
+    "alto": 276,
+    "que_es": "Portada oficial de 'Big Hero 6' Vol. 1 (Yen Press/Haruki Ueno): título en letra de palo blanca gruesa sobre banda roja.",
+    "para_que": "Punto 5: muestra que la letra del manga es distinta a la del logo de la película.",
+    "licencia": "© Disney/Kodansha/Yen Press. Sólo referencia interna del servidor, miniatura de catálogo."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Microbots",
+    "fuente": "Fandom · Microbots",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del objeto icónico creado por Hiro, con su mecanismo de control (máscara neuro-craneal).",
+    "para_que": "Punto 25, objetos icónicos y vocabulario del mundo.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Big_Hero_6_(soundtrack)",
+    "fuente": "Wikipedia (inglés) · ficha del álbum de la BSO, con wikitext de las 20 pistas",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista completa y confirmada de las 19 pistas de Henry Jackman + «Immortals»; dato de «Eye of the Tiger» no publicado en el álbum.",
+    "para_que": "Base textual del punto 9 (música).",
+    "licencia": "CC BY-SA (Wikipedia). Texto, no imagen."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Low_Battery",
+    "fuente": "Fandom · bighero6.fandom.com, ficha del corto «Low Battery» (Big Chibi 6, 2019)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guion y reparto del corto donde Mochi ayuda a cargar a Baymax; confirma que esa escena NO es de la película de 2014.",
+    "para_que": "Corrección de un dato mal atribuido en la biblia actual (sección 4).",
+    "licencia": "CC BY-SA (Fandom). Texto, no imagen."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pBPMBFzKmQ8",
+    "fuente": "YouTube, canal RobertMan FANDUBS (confirmado por oEmbed, sin necesitar sesión)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«6 Grandes Heroes - Parodia Fandub a La Chilena - Español Latino», fandub cómico de fans hispanohablantes",
+    "para_que": "Punto 22: fan dub en español latino, con canal verificado",
+    "licencia": "vídeo de fans; sólo referencia y enlace, no descargar ni redistribuir"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jo8Gk5Gt128",
+    "fuente": "YouTube, canal Ken Asakura (confirmado por oEmbed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "«Big Hero Sweet - Parodia Grandes Heroes【Fandub Latino】», otra parodia fandub hispana",
+    "para_que": "Punto 22: segundo fan dub en español latino, con canal verificado",
+    "licencia": "vídeo de fans; sólo referencia y enlace"
+  },
+  {
+    "url": "https://ranking.net/rankings/best-baymax-characters",
+    "fuente": "ranking.net (みんなのランキング), encuesta de fans japonesa, abierta y comprobada el 24-sep-2026",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ranking de personajes de «Big Hero 6» votado por 147 personas: 1.º Baymax (97,4 pts), 2.º Hiro (90,9), 3.º GoGo (80,2), 4.º Tadashi (79,5), 5.º el gato Mochi (79,4)",
+    "para_que": "Punto 7: encuesta de popularidad de fans, con cifras exactas verificadas en directo",
+    "licencia": "página pública de encuesta; sólo referencia de datos, no imagen"
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Wasabi",
+    "fuente": "Big Hero 6 Wiki (Fandom), infobox y sección «Trivia», que cita el blog oficial de Disney en Tumblr de 2014",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Wasabi: altura 1,93 m, edad 21, gustos y manías (orden, jardinería, acrofobia, glosofobia)",
+    "para_que": "Punto 20: gustos y detalles oficiales de un personaje secundario querido",
+    "licencia": "texto de wiki de fans, con fuente oficial citada; sólo referencia de datos"
+  },
+  {
+    "url": "https://disneysbighero6-bh6.tumblr.com/post/101558763514/fred",
+    "fuente": "Blog oficial de Disney en Tumblr para «Big Hero 6» (2014), comprobado en línea (200) el 24-sep-2026",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha oficial de Fred, fuente primaria de altura y gustos citada por la wiki de fans",
+    "para_que": "Punto 20: fuente oficial de Disney para los datos de personaje (altura, gustos)",
+    "licencia": "blog oficial de Disney; contenido detrás de JavaScript, no se pudo leer el texto con curl, pero la URL existe y es del estudio"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/a/ab/Hiro_Baymax_Bookscan_Fall.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2471,
+    "alto": 3166,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Hiro Baymax Bookscan Fall.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/10/Big_Hero_6_Read_Along.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2560,
+    "alto": 2559,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Big Hero 6 Read Along.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/b/b8/Big_Hero_6_Poster_2.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1984,
+    "alto": 2835,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Big Hero 6 Poster 2.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/9/9f/Hiro_Baymax_Tadashi_International_Poster.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 1978,
+    "alto": 2835,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Hiro Baymax Tadashi International Poster.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/6/67/Big_Hero_6_Big_Golden_Book.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2062,
+    "alto": 2560,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Big Hero 6 Big Golden Book.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/8/84/Baymax_Returns_25.png",
+    "fuente": "Fandom disney",
+    "ancho": 3000,
+    "alto": 1688,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Baymax Returns 25.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/18/Hiro_and_Tadashi_Book_Cover.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2770,
+    "alto": 3338,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Hiro and Tadashi Book Cover.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/c/ca/Hiro_-_KH3.png",
+    "fuente": "Fandom disney",
+    "ancho": 2500,
+    "alto": 3386,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Hiro - KH3.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/1f/Disney_INFINITY_Big_Hero_6_5.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Disney INFINITY Big Hero 6 5.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/6/65/Disney_INFINITY_Big_Hero_6_4.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Disney INFINITY Big Hero 6 4.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/4/47/Disney_INFINITY_Big_Hero_6_3.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Disney INFINITY Big Hero 6 3.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/db/Disney_INFINITY_Big_Hero_6_2.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Disney INFINITY Big Hero 6 2.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/2/2f/Disney_INFINITY_Big_Hero_6_16.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Disney INFINITY Big Hero 6 16.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/11/Disney_INFINITY_Big_Hero_6_15.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Disney INFINITY Big Hero 6 15.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/a/ad/Disney_INFINITY_Big_Hero_6_14.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Disney INFINITY Big Hero 6 14.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/f/fe/Big_Hero_6_Concept_Art_01.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 3171,
+    "alto": 1322,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Big Hero 6 Concept Art 01.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/7/73/The_Present_%2817%29.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2048,
+    "alto": 1151,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: The Present (17).jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/df/The_Present_%2826%29.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2048,
+    "alto": 1147,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: The Present (26).jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/1/16/The_Present_%2815%29.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2048,
+    "alto": 1147,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: The Present (15).jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/0/02/Hiro_the_Villain_%2812%29.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2048,
+    "alto": 1147,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Hiro the Villain (12).jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/f/fa/The_Present_%2816%29.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2048,
+    "alto": 1145,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: The Present (16).jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/d/d3/Obake_Yashiki_%286%29.jpg",
+    "fuente": "Fandom disney",
+    "ancho": 2048,
+    "alto": 1145,
+    "que_es": "Imagen oficial de la galería de la wiki de Disney: Obake Yashiki (6).jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cPwT1-2ZHgM",
+    "fuente": "YouTube · clip de la película",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Baymax conoce a Hiro: se infla, saluda y pregunta el dolor. Minuto sin verificar.",
+    "para_que": "Pose de saludo (presentar) y la escala en el pecho. Conceptos A y B.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jlY-dEzTl0M",
+    "fuente": "YouTube · clip «Hello, I am Baymax»",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Otro corte del saludo de Baymax.",
+    "para_que": "Cabeza inclinada al escanear (pensar). Concepto A.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yl8yriCIzCE",
+    "fuente": "YouTube · clip oficial HD de Disney",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El choque de puños «ba-la-la-la-la» entre Hiro y Baymax.",
+    "para_que": "Pose de celebrar. Concepto C.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HKwkOrFFEpg",
+    "fuente": "YouTube · clip de la película",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Primer vuelo de Hiro y Baymax sobre San Fransokyo.",
+    "para_que": "Luz y ciudad desde arriba; Hiro animando.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3S3NadJwEQI",
+    "fuente": "YouTube · clip 4K a cámara lenta",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hiro construye microbots en el garaje.",
+    "para_que": "El garaje de Hiro con detalle. Concepto B.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BlPMfo1gaoo",
+    "fuente": "YouTube · clip de la película",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hiro le pone a Baymax la placa del vientre.",
+    "para_que": "Ver la zona de la barriga y su volumen. Concepto B.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=syWg8-uYHwY",
+    "fuente": "YouTube · análisis",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cómo hizo Disney la luz de San Fransokyo.",
+    "para_que": "Luz y paleta de la ciudad.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "http://www.impawards.com/2014/big_hero_six_ver20_xxlg.html",
+    "fuente": "IMP Awards · póster oficial n.º 20",
+    "ancho": 1978,
+    "alto": 2835,
+    "que_es": "Póster de cine oficial en tamaño máximo. Contenido sin ver.",
+    "para_que": "Arte oficial grande; estilo y luz.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "http://www.impawards.com/2014/big_hero_six_ver2.html",
+    "fuente": "IMP Awards · póster oficial n.º 2",
+    "ancho": 1432,
+    "alto": 2048,
+    "que_es": "Póster de cine oficial. Contenido sin ver.",
+    "para_que": "Arte oficial; elegir en el PC.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "http://www.impawards.com/2014/big_hero_six_ver13.html",
+    "fuente": "IMP Awards · póster oficial n.º 13",
+    "ancho": 1433,
+    "alto": 2048,
+    "que_es": "Póster de cine oficial. Contenido sin ver.",
+    "para_que": "Arte oficial; elegir en el PC.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "http://www.impawards.com/2014/big_hero_six_ver17.html",
+    "fuente": "IMP Awards · póster oficial n.º 17",
+    "ancho": 1080,
+    "alto": 1920,
+    "que_es": "Póster vertical oficial. Contenido sin ver.",
+    "para_que": "Arte oficial; elegir en el PC.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=1103184",
+    "fuente": "Wallpaper Abyss",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "«Baymax & Hiro», fondo 4K (autor sin dato, parece fotograma oficial).",
+    "para_que": "Los dos juntos; concepto C.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=1103186",
+    "fuente": "Wallpaper Abyss",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "«Baymax & Hiro», otro fondo 4K.",
+    "para_que": "Los dos juntos; concepto C.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://wall.alphacoders.com/big.php?i=555837",
+    "fuente": "Wallpaper Abyss",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Baymax en 4K (tamaño exacto sin dato).",
+    "para_que": "Recorte de Baymax en alta.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "http://artofkevinnelson.blogspot.com/2014/11/baymax-poses-with-visible-skeleton-from.html",
+    "fuente": "Blog de Kevin Nelson (artista de Disney)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Poses de Baymax con el esqueleto a la vista, sobre dibujos de Shiyoon Kim.",
+    "para_que": "Cómo dobla brazos, cintura y cuello. Conceptos A y B.",
+    "licencia": "© Disney / Kevin Nelson. Sólo referencia."
+  },
+  {
+    "url": "http://artofkevinnelson.blogspot.com/2014/12/some-really-early-baymax-sketches-from.html",
+    "fuente": "Blog de Kevin Nelson",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Bocetos muy tempranos de Baymax.",
+    "para_que": "Entender las formas simples del personaje.",
+    "licencia": "© Disney / Kevin Nelson. Sólo referencia."
+  },
+  {
+    "url": "https://cdn.animenewsnetwork.com/images/encyc/A16985-2330226621.1429842580.jpg",
+    "fuente": "Anime News Network (ficha vía GitHub)",
+    "ancho": 640,
+    "alto": 982,
+    "que_es": "Portada del manga de Haruki Ueno (Kodansha).",
+    "para_que": "Cómo dibuja el manga japonés a los personajes.",
+    "licencia": "© Disney / Kodansha. Sólo referencia."
+  },
+  {
+    "url": "https://bighero6.fandom.com/wiki/Lucky_Cat_Caf%C3%A9",
+    "fuente": "Wiki de Big Hero 6 (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El café de la tía Cass: tres pisos, gatos de la suerte, farolillos.",
+    "para_que": "Sitio del concepto C.",
+    "licencia": "© Disney. Sólo referencia."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/baymax-03bd50cd3998407aa8097bccb6f5c921",
+    "fuente": "Sketchfab · jasonballingham",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Baymax, descarga gratis (marzo 2020).",
+    "para_que": "Malla para proyectar la tabla en la barriga (concepto B).",
+    "licencia": "CC BY (según el buscador; comprobar en la página). Crédito: «Baymax» por jasonballingham, Sketchfab. El personaje es de Disney."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/baymax-big-hero-6-9a96e8526d5a4abaaa184830c20ab4ec",
+    "fuente": "Sketchfab · theamazingdonovan207",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Baymax (septiembre 2024).",
+    "para_que": "Alternativa de malla y de pose.",
+    "licencia": "CC BY (según el buscador; comprobar). Crédito: «Baymax (Big Hero 6)» por theamazingdonovan207, Sketchfab. El personaje es de Disney."
+  },
+  {
+    "url": "https://polyhaven.com/a/tool_cart",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Carrito de herramientas metálico con cajones y ruedas.",
+    "para_que": "Primer plano del concepto A.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/a/hospital_room",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "HDRI de una habitación de hospital, luz fría de techo.",
+    "para_que": "Luz de relleno del concepto A.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/a/garage",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "HDRI de un garaje con fluorescente cálido y hormigón naranja.",
+    "para_que": "Luz del garaje de Hiro, concepto B.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/a/childrens_hospital",
+    "fuente": "Poly Haven",
+    "ancho": null,
+    "alto": null,
+    "que_es": "HDRI de un hospital infantil con luz amarilla suave.",
+    "para_que": "Alternativa cálida para una consulta amable.",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/clipboard-4ddbcd71243441499bbc4e124570e736",
+    "fuente": "Sketchfab · Console Art Cybernetic",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Portapapeles con pinza metálica, descarga gratis.",
+    "para_que": "Ficha de paciente si se quiere en lámina 2.",
+    "licencia": "Descarga gratis; licencia exacta a comprobar."
+  },
+  {
+    "url": "https://wongbakerfaces.org/wp-content/uploads/2016/06/FACES_Spanish_Blue_w-instructions.pdf",
+    "fuente": "Wong-Baker FACES Foundation",
+    "ancho": null,
+    "alto": null,
+    "que_es": "La escala de caras del dolor oficial, en español, con instrucciones.",
+    "para_que": "Ver cómo es una escala real. NO copiar sus caras.",
+    "licencia": "Con derechos: «Copyright 1983, Wong-Baker FACES Foundation. Used with permission.» Uso con permiso."
+  },
+  {
+    "url": "https://www.hottopic.com/product/disney-big-hero-6-baymax-pain-scale-3-pin/10396449.html",
+    "fuente": "Hot Topic · producto oficial",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pin «Baymax Pain Scale».",
+    "para_que": "Cómo resume Disney la escala en mercancía.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://pinpics.com/pin/162835/",
+    "fuente": "PinPics",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pin de Japón «Baymax · Pain Scale».",
+    "para_que": "Otra versión oficial de la escala.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.locationbox.metro.tokyo.lg.jp/location/list/260/",
+    "fuente": "Tokyo Location Box (Gobierno de Tokio)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El cascabel del santuario Hanazono que inspiró la cara de Baymax.",
+    "para_que": "Entender la cara: dos agujeros y una raya.",
+    "licencia": "© Gobierno Metropolitano de Tokio. Sólo referencia."
+  },
+  {
+    "url": "https://dribbble.com/shots/3320537-Big-Hero-6-Battle-in-the-Bay-UI",
+    "fuente": "Dribbble · Roberta Tam",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Interfaz del juego de 3DS basada en el programa de Hiro.",
+    "para_que": "Estilo de pantalla de Hiro (concepto B).",
+    "licencia": "© Disney / Roberta Tam. Sólo referencia."
+  },
+  {
+    "url": "https://www.pixiv.net/en/artworks/98296721",
+    "fuente": "Pixiv (autor sin ver)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fan art «ベイマックスとヒロ».",
+    "para_que": "Referencia de ternura entre los dos; nunca para pegar.",
+    "licencia": "© su autor. Sólo referencia."
+  },
+  {
+    "url": "https://www.deviantart.com/catel23/art/Big-hero-6-Hiro-and-Baymax-2D-old-Disney-style-635327313",
+    "fuente": "DeviantArt · Catel23",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fan art de Hiro y Baymax en 2D al estilo Disney clásico.",
+    "para_que": "Ver cómo se simplifican en 2D; no mezclar con la película.",
+    "licencia": "© Catel23. Sólo referencia."
+  },
+  {
+    "url": "https://dmedmedia.disney.com/disney-plus/baymax",
+    "fuente": "Disney · kit de prensa de ¡Baymax!",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Material de prensa de la serie de 2022.",
+    "para_que": "Baymax como enfermero de barrio, tono de #soporte.",
+    "licencia": "© Disney. Sólo referencia; uso interno del servidor, sin fines comerciales."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dyKWzaD1H-8",
+    "fuente": "YouTube · montaje de un juguete de POP MART",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Baymax «mecha» de POP MART construido pieza a pieza.",
+    "para_que": "Ver volúmenes de Baymax desde todos los lados.",
+    "licencia": "© Disney / POP MART. Sólo referencia."
+  }
+]

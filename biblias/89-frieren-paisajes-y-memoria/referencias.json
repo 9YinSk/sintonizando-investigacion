@@ -1,0 +1,1487 @@
+[
+ {
+  "url": "https://w.wallhaven.cc/full/gp/wallhaven-gpl8d3.jpg",
+  "fuente": "Wallhaven (subido por Owl279), origen Pixiv 116555120",
+  "ancho": 4500,
+  "alto": 3048,
+  "que_es": "Fan art: Frieren de espaldas bajo un árbol gigante dorado-violeta con mariposas y ruinas",
+  "para_que": "referencia de estilo (no de diseño oficial) del mismo lenguaje visual que Aureole; paleta medida con estilo.py",
+  "licencia": "Fan art, todos los derechos del autor — sólo referencia, enlazar y citar autor, nunca pegar"
+ },
+ {
+  "url": "https://cdn.donmai.us/original/14/cd/14cd567a57a384af93761bf06478c808.jpg",
+  "fuente": "Danbooru (tag scenery + sousou_no_frieren), origen X/Twitter @gmmarady",
+  "ancho": 3277,
+  "alto": 4096,
+  "que_es": "Fan art de paisaje puro de la serie, puntuación 20 en Danbooru",
+  "para_que": "referencia de fan art centrado en fondos, no en personajes",
+  "licencia": "Fan art, todos los derechos del autor — sólo referencia"
+ },
+ {
+  "url": "https://cdn.donmai.us/original/95/e4/95e43dd58529e9f0ffdc8bf65312c8e8.jpg",
+  "fuente": "Danbooru (tag scenery + sousou_no_frieren), origen X/Twitter @Porukana_Art",
+  "ancho": 2000,
+  "alto": 3500,
+  "que_es": "Fan art de paisaje puro de la serie, puntuación 15 en Danbooru",
+  "para_que": "referencia de fan art centrado en fondos, no en personajes",
+  "licencia": "Fan art, todos los derechos del autor — sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/2/27/Aureole_EP4.png",
+  "fuente": "Frieren Wiki (Fandom), fotograma oficial del anime EP4",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Aureole, 'la Tierra donde descansan las almas': árbol dorado en un templete, ruinas y niebla, luz sobreexpuesta",
+  "para_que": "imagen central para el concepto de 'paisajes y memoria'; paleta muy pálida y luminosa (brillo 93%, saturación 16%, medido con estilo.py)",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia, no usar directo"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/3/3d/Rufen_Region_abandoned_fort_exterior_draft_by_Seiko_Yoshioka.png",
+  "fuente": "Frieren Wiki (Fandom), galería de arte conceptual, Season 2",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Draft en grises de una torre-fuerte en ruinas, puente roto, cuervos, bosque de abetos",
+  "para_que": "referencia de composición melancólica y del método de trabajo (valores en gris antes de color)",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/7/79/Bier_Region_ruins_draft_by_Seiko_Yoshioka.png",
+  "fuente": "Frieren Wiki (Fandom), galería de arte conceptual, Season 2",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Draft en grises de un portalón de piedra en penumbra con un personaje marcado en rosa como escala",
+  "para_que": "referencia del proceso de boceto de fondos (valor + un color plano de referencia de tamaño)",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/f/f8/Frieren_and_Fern_watch_the_sunset_in_Warm_EP3.png",
+  "fuente": "Frieren Wiki (Fandom), fotograma oficial del anime EP3",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Frieren y Fern comiendo en una terraza con vista a una ciudad costera fortificada, atardecer sobre el mar",
+  "para_que": "referencia de 'paisaje y melancolía': comida tranquila con vista, contraluz que igual deja leer la silueta de cada personaje",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/2/27/Aureole_EP4.png/revision/latest?cb=20231125070909",
+  "fuente": "Frieren Wiki (frieren.fandom.com) — archivo «Aureole EP4.png», fotograma oficial del anime, episodio 4",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Aureole (魂の眠る地, «la tierra donde duermen las almas»), el páramo de niebla dorada con columnas en ruinas y un árbol-templo dorado donde van las almas de los muertos. Paleta medida con estilo.py: niebla y piedra #F1F4E8 46%, cielo #C6F1F8 25%, verdes #C4D7C5/#A3AE64, hojas del árbol #EAEB96; saturación 16%, brillo 93%.",
+  "para_que": "Punto 4 (sitios/luz/paleta) y punto 2 (escena icónica): es EL paisaje de la memoria de la serie — Frieren viaja para reencontrarse allí con el alma de Himmel. Luz muy alta y desaturada, niebla constante: sirve de referencia para una lámina «de despedida» o «de recuerdo».",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project. Sólo referencia: no reproducir en la lámina."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/8/87/Flamme%27s_prior_visit_to_Aureole_EP4.png/revision/latest?cb=20231125081914",
+  "fuente": "Frieren Wiki (frieren.fandom.com) — archivo «Flamme's prior visit to Aureole EP4.png», fotograma oficial del anime, episodio 4",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Flamme, de espaldas, ante sus antiguos compañeros dibujados como siluetas TRANSLÚCIDAS verde-amarillas (sólo contorno y sombreado plano, sin color de piel ni ropa): es el recurso visual de la serie para pintar a los muertos/el recuerdo. Paleta medida: fondo #EDF2DA/#C9E4DC, siluetas #D4E5AF/#B3C891, dorado del árbol #B98D4A.",
+  "para_que": "Punto 2 y 4: el CÓMO se pinta la memoria en Frieren — nunca en color pleno, siempre semitransparente y monocromo verde-dorado. Útil para la guía de estilo (punto 17, redactor) si quiere dibujar a un personaje «recordado».",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project. Sólo referencia: no reproducir en la lámina."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/8/8e/Lake_Korridor_port_city_draft_2_by_Seiko_Yoshioka.png/revision/latest?cb=20260404213835",
+  "fuente": "Frieren Wiki (frieren.fandom.com) — archivo «Lake Korridor port city draft 2 by Seiko Yoshioka.png», borrador de la concept artist para la Temporada 2 (subido abr-2026)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Boceto de composición (grises, sin color final) de Seiko Yoshioka para el embarcadero nevado de Lake Korridor: casas de madera sobre pilotes, toldo, farol y mesa donde se sienta el grupo, nieve cayendo. Los personajes están marcados en rosa para ver el encaje.",
+  "para_que": "Punto 4: prueba directa del PROCESO de diseño de un sitio (composición antes del color), citable junto con su entrevista (§ Hallazgos 9). No sirve para medir hex (es un estudio de valores, no de color).",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / «Frieren» Project — arte de producción de Seiko Yoshioka. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/c/c7/Frieren%27s_delight_over_her_findings_EP23.png/revision/latest?cb=20240304054703",
+  "fuente": "Frieren Wiki (frieren.fandom.com), archivo «Frieren's delight over her findings EP23.png»",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma T1-23: Frieren abraza una esfera oscura contra la mejilla, ojos entornados, sonrisa pequeña de boca cerrada. Medido y visto por mí con Read.",
+  "para_que": "Punto 13 (la cara de Frieren en alegría): referencia de que su expresividad máxima sigue siendo contenida.",
+  "licencia": "© «Frieren» Project (fotograma del anime, subido a la wiki). Sólo referencia, no reproducir tal cual."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/a/ac/Frieren_glares_at_L%C3%BCgner_EP7.png/revision/latest?cb=20231125230904",
+  "fuente": "Frieren Wiki, archivo «Frieren glares at Lügner EP7.png»",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Primer plano T1-07: Frieren con párpados a media asta y boca en línea recta, mirando fijo hacia abajo. Medido y visto por mí con Read.",
+  "para_que": "Punto 13 (la cara de Frieren en rabia): su enfado es frío, sin ceño fruncido con fuerza.",
+  "licencia": "© «Frieren» Project. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/7/7b/Frieren_cries_over_Heiter%27s_imminent_death_EP2.png/revision/latest?cb=20240503221019",
+  "fuente": "Frieren Wiki, archivo «Frieren cries over Heiter's imminent death EP2.png»",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Plano general T1-02: Frieren sentada de espaldas junto a una cuna vacía, luz de tarde entrando en diagonal por una ventana. Medido y visto por mí con Read.",
+  "para_que": "Punto 13 (la cara de Frieren en tristeza) y ejemplo directo del eje «paisaje y memoria»: la emoción se transmite por postura y luz, sin mostrar el gesto.",
+  "licencia": "© «Frieren» Project. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/a/ab/Frieren_gets_stuck_in_the_mimic_EP23.png/revision/latest?cb=20240304054703",
+  "fuente": "Frieren Wiki, archivo «Frieren gets stuck in the mimic EP23.png»",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma T1-23: Frieren con medio cuerpo metido en un cofre-mímico con colmillos, piernas hacia fuera. Medido y visto por mí con Read.",
+  "para_que": "Punto 13 (la cara de Frieren en miedo): su único registro «grande» de emoción, y aun así sin mostrar la expresión facial.",
+  "licencia": "© «Frieren» Project. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/b/b6/Frieren_is_embarrassed_EP25.png/revision/latest?cb=20250216113114",
+  "fuente": "Frieren Wiki, archivo «Frieren is embarrassed EP25.png»",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma T1-25: Frieren de pie ajustándose el cuello de la capa, ojos casi cerrados, sin rubor dibujado. Medido y visto por mí con Read.",
+  "para_que": "Punto 13 (la cara de Frieren en vergüenza): no usa los códigos típicos de manga (rubor, gotas de sudor).",
+  "licencia": "© «Frieren» Project. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/6/60/Stark_notices_an_upset_Fern_EP27.png/revision/latest?cb=20240413214517",
+  "fuente": "Frieren Wiki, archivo «Stark notices an upset Fern EP27.png»",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Primer plano T1-27 de Fern: labios apretados en línea ondulada, mirada seria fija a cámara. Medido y visto por mí con Read.",
+  "para_que": "Punto 13: contraste con Frieren — Fern sí es una cara expresiva, útil para láminas de grupo.",
+  "licencia": "© «Frieren» Project. Sólo referencia."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/4/47/Aureole_concept_art_by_Seiko_Yoshioka.png",
+  "fuente": "Frieren Wiki (Fandom), galería de arte conceptual, Season 1",
+  "ancho": 1427,
+  "alto": 798,
+  "que_es": "Arte conceptual de Aureole por la fondista Seiko Yoshioka, mismo sitio sin animar",
+  "para_que": "ver el proceso de diseño del lugar 'memoria' de la serie antes de la versión final",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+ },
+ {
+  "url": "https://ambientcg.com/a/Grass001",
+  "fuente": "ambientcg.com (API v2)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura CC0 de hierba (fotogrametría)",
+  "para_que": "capa de hierba para los fondos de campo/pradera de la serie",
+  "licencia": "CC0, sin crédito obligatorio"
+ },
+ {
+  "url": "https://ambientcg.com/a/Bark014",
+  "fuente": "ambientcg.com (API v2)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura CC0 de corteza de árbol",
+  "para_que": "capa de corteza para árboles grandes tipo el de Aureole o los abetos del norte",
+  "licencia": "CC0, sin crédito obligatorio"
+ },
+ {
+  "url": "https://ambientcg.com/a/Rock064",
+  "fuente": "ambientcg.com (API v2)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura CC0 de piedra con musgo",
+  "para_que": "capa de piedra envejecida para ruinas (Ruins of the King's Tomb, Rufen Region)",
+  "licencia": "CC0, sin crédito obligatorio"
+ },
+ {
+  "url": "https://ambientcg.com/a/Ice002",
+  "fuente": "ambientcg.com (API v2)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Textura CC0 de hielo/agua helada",
+  "para_que": "capa de hielo para las escenas nevadas del norte (Heiß, Kühl Region)",
+  "licencia": "CC0, sin crédito obligatorio"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/f/f5/Ruins_of_the_King%27s_Tomb.png",
+  "fuente": "Frieren Wiki (Fandom), fotograma oficial del anime EP23",
+  "ancho": 1277,
+  "alto": 742,
+  "que_es": "Tumba real tallada en un acantilado, columnas clásicas cubiertas de vegetación",
+  "para_que": "referencia de ruina 'viva' (ocupada, verde) para contrastar con Aureole (ruina 'celestial', pastel)",
+  "licencia": "© Kanehito Yamada, Tsukasa Abe / Shōgakukan / 'Frieren' Project — sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8mkolb?t=31",
+  "fuente": "Dailymotion, copia del PV2 (tráiler 2) oficial de la Temporada 1 de TOHO animation — fotograma propio sacado con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "0:31 del tráiler: el grupo de Himmel cruza un puente de piedra en un bosque con luz solar filtrada entre hojas. Paleta medida: verdes de hoja #689193/#396769/#9BEAB, sombra #1F3A4C, luz #E5EEC5; sombreado degradado, saturación 39%, brillo 58%.",
+  "para_que": "Punto 2 y 4: paisaje «de viaje en grupo», luz cálida entre árboles — no está en la biblia hermana (33-frieren), que sólo describió este tráiler por storyboard, sin medir color real.",
+  "licencia": "Vídeo oficial de TOHO animation / Aniplex. Sólo referencia de color y encuadre, no descargar ni subir el clip."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8mkolb?t=41",
+  "fuente": "Dailymotion, copia del PV2 oficial de la Temporada 1 — fotograma propio sacado con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "0:41 del tráiler: Frieren niña-adulta caminando diminuta por un campo enorme de flores rosa-magenta, montañas verdes difuminadas al fondo, cielo celeste despejado. Paleta medida: cielo #9BD3E4/#DDF2F8, flores #D289A5, verde de árboles #87A77E; saturación 27%, brillo 85% (la más clara y suave de las 4 medidas).",
+  "para_que": "Punto 4 y 14: paisaje de gran escala con la figura muy pequeña — el recurso de «personaje diminuto ante el paisaje» que la serie usa para transmitir el paso del tiempo y la soledad del viaje.",
+  "licencia": "Vídeo oficial de TOHO animation / Aniplex. Sólo referencia."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8mkolb?t=47",
+  "fuente": "Dailymotion, copia del PV2 oficial de la Temporada 1 — fotograma propio sacado con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "0:47 del tráiler: Frieren rema una barca dentro de una caverna subterránea de agua azul, con un boquete de luz blanca arriba y la piedra de su bastón brillando en cian. Paleta medida: azules de agua #60A3C3/#154B94/#2D4866, luz #C0EDF7; saturación 59% (la más saturada de las 4).",
+  "para_que": "Punto 4: sitio NUEVO no listado en la biblia hermana — una cueva-lago que no aparece en su tabla de «Sitios, luz y paleta». Luz puntual mágica en un espacio cerrado, útil para un concepto de lámina con luz interior.",
+  "licencia": "Vídeo oficial de TOHO animation / Aniplex. Sólo referencia."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8mkolb?t=87",
+  "fuente": "Dailymotion, copia del PV2 oficial de la Temporada 1 — fotograma propio sacado con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "1:27 del tráiler: Frieren de pie con el bastón, sobre un montículo de tierra rodeado de flores azules gigantes (desenfocadas en primer plano), cielo dorado de atardecer con pétalos volando. Paleta medida: cielo dorado #F9F9E5/#F7F3B8, flores #39375A/#7D709A; saturación 27%, brillo 75%.",
+  "para_que": "Punto 2 y 14: pose de «presentar» integrada en un paisaje — mismo recurso de flores gigantes en primer plano que separa al personaje del fondo (profundidad).",
+  "licencia": "Vídeo oficial de TOHO animation / Aniplex. Sólo referencia."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qbrgb?t=10",
+  "fuente": "Dailymotion, canal «Anime Brawl Collection», fragmento del episodio 3 (T1-03, combate contra Qual) — fotograma propio sacado con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Frieren y Fern diminutas ante la estatua-demonio de Qual sentada en lo alto de una colina de hierba, bajo un cielo gris totalmente cubierto de nubes. Paleta medida: hierba #444C2C, cielo #B2BEC6/#9AA7B9/#CED6D2; saturación 23%, brillo 59% — la escena más desaturada y fría de todas las medidas en esta parte.",
+  "para_que": "Punto 2 y 4: escena real de EPISODIO (no tráiler), con la luz de cielo cubierto que pide el encargo 89 («melancolía»); confirma que Qual = episodio 3 (ficha de la wiki).",
+  "licencia": "Fragmento del anime oficial (Madhouse/Aniplex), recopilado por un canal de fans en Dailymotion. Sólo referencia de color y encuadre."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8qbrgb?t=120",
+  "fuente": "Dailymotion, canal «Anime Brawl Collection», fragmento del episodio 3 — fotograma propio sacado con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Plano general: Qual (silueta oscura, pelo blanco largo) de pie en la colina, Frieren y Fern muy pequeñas a la derecha junto al bosque. Paleta medida: hierba #4F5B45, cielo #A6B3BF/#BEC9C9/#D6DDD3; saturación 15% (la más gris de todas).",
+  "para_que": "Punto 14: pose de escala dramática (personajes minúsculos frente a una amenaza enorme en paisaje abierto) — sirve de contraste con las poses «de cerca» ya analizadas en la biblia hermana.",
+  "licencia": "Fragmento del anime oficial, recopilado por un canal de fans en Dailymotion. Sólo referencia."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=zP5D8_cJFuQ",
+  "fuente": "YouTube, canal oficial «Crunchyroll en Español»: «Patitas para que las quiero | Frieren: Más allá del final del viaje (doblaje latino)» (confirmado por oEmbed)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Clip oficial doblado al español latino, no citado por la biblia hermana.",
+  "para_que": "Punto 8 (frases del doblaje latino): clip nuevo, título y canal confirmados; frase exacta no verificada (YouTube bloqueó la descarga).",
+  "licencia": "© Crunchyroll / VSI México (doblaje oficial). Sólo enlace."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=j1-6bsi5K6o",
+  "fuente": "YouTube, canal oficial «Crunchyroll en Español»: «¿Batallas épicas?, Frieren las tiene | Frieren: Más allá del final del viaje (doblaje latino)» (confirmado por oEmbed)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Segundo clip oficial doblado al español latino, no citado por la biblia hermana.",
+  "para_que": "Punto 8: mismo caso que el anterior, clip nuevo confirmado por título y canal.",
+  "licencia": "© Crunchyroll / VSI México. Sólo enlace."
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-8f3f0a27429341149ccc442ef24ee0c0",
+  "fuente": "Sketchfab, autor bmwylam",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Himmel the Hero Pedastal' (pedestal/base de la estatua de Himmel)",
+  "para_que": "referencia 3D real del monumento de homenaje a Himmel, para modelar en Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-18793206124245eb8e20fafc95b868ab",
+  "fuente": "Sketchfab, autor bmwylam",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D 'Himmel The Hero' (la estatua completa)",
+  "para_que": "referencia 3D de la pose heroica de la estatua de Himmel",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-5109b5e46e064790badecedf8f6d2ef6",
+  "fuente": "Sketchfab, autor isogl",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D genérico 'Medieval castle with village' (no oficial de la serie)",
+  "para_que": "bloquear un pueblo medieval genérico en Blender al estilo del mundo de Frieren",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a850530905a24d97bc4aa83353aba134",
+  "fuente": "Sketchfab, autor anastasita.3d",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Low Poly Medieval Environment Pack (35+ props): casas, cercas, barriles, etc.",
+  "para_que": "props sueltos para ambientar una escena de pueblo medieval en Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://x.com/frieren_ten/status/1920765692581748944",
+  "fuente": "X/Twitter, cuenta oficial @frieren_ten",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Anuncio oficial de la exposición 'アニメ 葬送のフリーレン展' en el Museo de Arte del Siglo XXI de Kanazawa (ago-sep 2025)",
+  "para_que": "prueba de que el estudio expone el arte de fondos de la serie como pieza de museo",
+  "licencia": "Cuenta oficial de la exposición — sólo referencia informativa"
+ },
+ {
+  "url": "https://www.tokyoweekender.com/event/frieren-beyond-journeys-end-anime-exhibition/",
+  "fuente": "Tokyo Weekender",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Artículo sobre la exposición itinerante oficial de Frieren (Ikebukuro Sunshine City)",
+  "para_que": "segunda fuente que confirma la gira de la exposición oficial de arte",
+  "licencia": "Artículo periodístico — sólo referencia informativa"
+ },
+ {
+  "url": "https://frieren.fandom.com/wiki/Official_Guide_Book",
+  "fuente": "Frieren Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del 'Official Guide Book' (Shōgakukan, jul-2024, 144 pp.): galerías de art board por episodios, entrevistas a arte y color, 'Character memories selection'",
+  "para_que": "fuente oficial más directa sobre producción de fondos y el tema de la memoria en la serie",
+  "licencia": "Wiki de fans (CC BY-SA vía Fandom) — el libro en sí es © Shōgakukan"
+ },
+ {
+  "url": "https://frieren.fandom.com/wiki/Aureole",
+  "fuente": "Frieren Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del lugar Aureole: 'la Tierra donde descansan las almas', destino final del viaje de Frieren",
+  "para_que": "contexto narrativo del sitio central para el concepto 'memoria'",
+  "licencia": "Wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://jpbookstore.com/products/frieren-beyond-journeys-end-sousou-no-frieren-art-works-vol1-original-art-collection-illustration-book",
+  "fuente": "Japanese Book Store (ficha de venta)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Artbook 'Frieren: Beyond Journey's End Art Works Vol. 1' (Shōgakukan, dic-2023, 128 pp.)",
+  "para_que": "artbook de ilustración oficial, distinto del Official Guide Book",
+  "licencia": "Ficha de venta — el libro es © Shōgakukan"
+ },
+ {
+  "url": "https://frieren-anime.jp/special/map/",
+  "fuente": "Sitio oficial de Frieren, «旅の軌跡を辿る地図» (el mapa que traza las huellas del viaje)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página especial oficial que numera los 28 episodios de la T1 con números en círculo (①-㉘) como si fueran paradas de un mapa del viaje.",
+  "para_que": "Punto 5 (tipografía de números-marcador) y Punto 25 (el mundo como mapa de recuerdos): inspiración directa para un concepto de lámina en forma de mapa. El dibujo visual del mapa está protegido con JS/Cloudflare; sólo se pudo leer el texto.",
+  "licencia": "Web oficial del anime; sólo cita y enlace, no reproducir el diseño."
+ },
+ {
+  "url": "https://frieren-anime.jp/story/2nd/ep37/",
+  "fuente": "Sitio oficial de Frieren, sinopsis del episodio 37 «ヒンメルの自伝» (T2), emitido 20-mar-2026",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Sinopsis y créditos oficiales (guion, storyboard, dirección de animación) del episodio donde se encuentra la autobiografía de Himmel en un monasterio del Lago Korridor.",
+  "para_que": "Punto 6: fuente principal y oficial del objeto de memoria más fuerte encontrado (el libro de Himmel con páginas en blanco al final).",
+  "licencia": "Web oficial del anime; sólo cita y enlace."
+ },
+ {
+  "url": "https://anitabi.jp/works/36?lang=en",
+  "fuente": "AniTabi, mapa de peregrinaje de anime para Frieren: Beyond Journey's End",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Mapa colaborativo con 7 sitios reales de Japón que los fans identifican como parecidos al mundo de Frieren (Yufuin, Huis Ten Bosch, Warmth Forest, Lockheart Castle, ruinas de Kumaen, Laguna Ten Bosch, Parque Marino de Hitachi).",
+  "para_que": "Punto 18: referencias reales fotografiables para pintar o describir a una IA de imagen los fondos y la luz del mundo de Frieren.",
+  "licencia": "Base de datos colaborativa de fans (AniTabi); enlazar como referencia, no como fuente oficial del estudio."
+ },
+ {
+  "url": "https://www.anitabi.jp/spots/2841",
+  "fuente": "AniTabi, ficha del Parque Marino Nacional de Hitachi (colina Miharashi)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del campo de nemófilas (flores azules) que los fans y varios blogs japoneses identifican como el modelo real de la «hierba luna azul» (蒼月草) de Frieren.",
+  "para_que": "Punto 18/25: referencia real y fotografiable para el campo de flores de la memoria de Himmel; mejor que inventar un azul de fantasía sin referencia.",
+  "licencia": "Ficha de base de datos de fans; el parque en sí es un lugar público, fotografiable por cualquiera."
+ },
+ {
+  "url": "https://nlab.itmedia.co.jp/cont/articles/3377207/",
+  "fuente": "ねとらぼ (ITmedia), «『葬送のフリーレン』の勇者一行、ネモフィラ畑に現る»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reportaje sobre el cosplay viral (230 mil «me gusta») de fans vestidos de Frieren en el campo de nemófilas de Hitachi.",
+  "para_que": "Punto 18: segunda fuente que confirma el campo de nemófilas como referencia real del campo de flores de la serie.",
+  "licencia": "Artículo editorial de ITmedia; sólo cita y enlace."
+ },
+ {
+  "url": "https://unwinnable.com/2026/03/16/the-aesthetics-of-impermanence-how-frieren-visualizes-untranslatable-japanese-philosophy/",
+  "fuente": "Unwinnable, «The Aesthetics of Impermanence: How Frieren Visualizes Untranslatable Japanese Philosophy» (Beatrix Kondo, 16-mar-2026)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ensayo crítico en inglés que analiza el estilo visual de Frieren con conceptos de estética japonesa: mono no aware, ma, yūgen, shizukesa, hakanai, wabi-sabi y yohaku.",
+  "para_que": "Punto 18: vocabulario y ejemplos concretos (ruinas, paisajes revisitados, paleta pastel, espacio en blanco) para la guía de estilo/melancolía.",
+  "licencia": "Artículo editorial con derechos de Unwinnable; sólo cita y enlace."
+ },
+ {
+  "url": "https://fandomwire.com/frieren-beyond-journeys-end-has-the-essence-of-a-studio-ghibli-film/",
+  "fuente": "FandomWire, «'Frieren: Beyond Journey's End' Has the Essence of a Studio Ghibli Film» (Aaheli Pradhan, 28-jun-2025)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo que compara directamente los fondos, la paleta y el estilo de Frieren con Studio Ghibli, con citas textuales.",
+  "para_que": "Punto 18/24: cita concreta y comparación con Ghibli para la guía de estilo y para «obras parecidas».",
+  "licencia": "Artículo editorial; sólo cita y enlace."
+ },
+ {
+  "url": "https://www.cbr.com/10-cozy-anime-that-are-surprisingly-deep/",
+  "fuente": "CBR, «10 Cozy Anime as Surprisingly Deep as Frieren»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Lista de animes recomendados junto a Frieren por su profundidad emocional, incluidos Yokohama Kaidashi Kikou, Mushishi, Kino's Journey, Spice & Wolf y Girls' Last Tour.",
+  "para_que": "Punto 24: obras parecidas centradas en paisaje/melancolía, distintas de la lista general de AniList que ya tiene la biblia hermana.",
+  "licencia": "Artículo editorial; sólo cita y enlace."
+ },
+ {
+  "url": "https://blog.sakugabooru.com/2023/10/05/crafting-a-tangible-aging-world-frieren-beyond-journeys-end-production-notes-01-04/",
+  "fuente": "Sakuga Blog, «Crafting a Tangible, Aging World – Frieren: Beyond Journey's End Production Notes 01-04» (kViN, 5-oct-2023)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis técnico especializado en producción de anime sobre los episodios 1-4: el rol exacto de Seiko Yoshioka (concept art, layout, worldview illustrator), Sawako Takagi y el estudio Wyeth, y la animación de «textura de decadencia».",
+  "para_que": "Punto 18: fuente técnica nueva (no citada por la biblia hermana) sobre cómo se construyen los fondos y la sensación de paso del tiempo.",
+  "licencia": "Artículo editorial especializado; sólo cita y enlace."
+ },
+ {
+  "url": "https://office-tokiwa.com/eiga24/",
+  "fuente": "ときわきよこ行政書士事務所 (despacho de una notaria/gestora administrativa japonesa), «ヒンメルの銅像に学ぶ「継承」の形», 30-ago-2024",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ensayo que analiza la estatua de Himmel con el lenguaje legal/simbólico de una tumba real: función de apoyo espiritual (心の拠り所) y transmisión de valores (継承) a Frieren, Fern y Stark.",
+  "para_que": "Punto 25: lectura simbólica del monumento como objeto de memoria, con vocabulario (継承, 心の拠り所) útil para textos del canal.",
+  "licencia": "Blog profesional; sólo cita y enlace."
+ },
+ {
+  "url": "https://note.com/sakuraigo/n/n179c6ef7e84e",
+  "fuente": "note.com, SakuraiG, reseña del episodio 37, 21-mar-2026",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reseña corta que describe el detalle exacto de las páginas en blanco al final de la autobiografía de Himmel y cómo Frieren las pasa buscando que continúe.",
+  "para_que": "Punto 6: cita textual exacta del objeto de memoria más fuerte de esta parte.",
+  "licencia": "Blog personal; sólo cita y enlace."
+ },
+ {
+  "url": "https://noisypixel.net/maplestory-frieren-beyond-journeys-end-collaboration-september-2026/",
+  "fuente": "Noisy Pixel, «MapleStory X Frieren Collaboration Begins September 9…»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cobertura de prensa especializada del crossover MapleStory × Frieren (9-sep a 7-oct-2026): la estatua de bronce en Mushroom Hill, misiones de grimorios y mascotas temáticas.",
+  "para_que": "Punto 11: dato nuevo (no estaba en la biblia hermana) de cómo el motivo del monumento conmemorativo cruza a otro videojuego.",
+  "licencia": "Artículo editorial; sólo cita y enlace."
+ },
+ {
+  "url": "https://www.nexon.com/maplestory/micro-site/frieren",
+  "fuente": "Nexon, micro-sitio oficial de la colaboración MapleStory × Frieren",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página oficial de Nexon sobre el evento de colaboración, con fechas y actividades.",
+  "para_que": "Punto 11: segunda fuente (oficial) que confirma el crossover y sus fechas.",
+  "licencia": "Web oficial de Nexon/MapleStory; sólo cita y enlace."
+ },
+ {
+  "url": "https://www.morisawa.co.jp/fonts/specimen/6593",
+  "fuente": "Morisawa, ficha oficial del tipo «文游明朝体 勇壮かな»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de fuente tipográfica japonesa de pago (Morisawa): mincho de trazo óseo y tenso, pensado para no ficción e historia.",
+  "para_que": "Punto 5: posible referencia del rótulo del avance de episodio (次回予告); sólo una fuente de fans lo asocia a Frieren, sin confirmar del estudio.",
+  "licencia": "Fuente comercial de pago (Morisawa); no usar el archivo, sólo como referencia de estilo."
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Kaisei+Tokumin",
+  "fuente": "Google Fonts, especímen de «Kaisei Tokumin» (Font-Kai, 金井和夫)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre (OFL 1.1) serif japonesa pesada, comprobada por mí con fontTools: trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü.",
+  "para_que": "Punto 5: letra libre para texto grabado (monumento, lápida) en una lámina de memoria.",
+  "licencia": "OFL 1.1, uso comercial libre."
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Zen+Antique",
+  "fuente": "Google Fonts, especímen de «Zen Antique»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre (OFL 1.1) con look de japonés antiguo, comprobada por mí con fontTools: trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü.",
+  "para_que": "Punto 5: letra libre alternativa para el mismo registro de memoria/objeto antiguo.",
+  "licencia": "OFL 1.1, uso comercial libre."
+ },
+ {
+  "url": "https://fontsource.org/fonts/shippori-antique",
+  "fuente": "Fontsource, ficha de «Shippori Antique»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre (OFL 1.1) mincho suave y gastado, comprobada por mí con fontTools: trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü.",
+  "para_que": "Punto 5: letra libre para texto de diario o carta envejecida (registro íntimo, distinto del monumento).",
+  "licencia": "OFL 1.1, uso comercial libre."
+ },
+ {
+  "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14289239084",
+  "fuente": "Yahoo!知恵袋, pregunta sobre la fuente del avance de episodio de Frieren",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Respuesta de un usuario identificando (con duda) la fuente 文游明朝体 勇壮かな para el «次回予告» de la serie.",
+  "para_que": "Punto 5: pista sin confirmar sobre la tipografía del avance de episodio.",
+  "licencia": "Foro de preguntas y respuestas; sólo cita y enlace, dato marcado ⚠️ sin segunda fuente."
+ },
+ {
+  "url": "https://libert.co.jp/pilgrimage-guild/frieren-pilgrimage/",
+  "fuente": "libert.co.jp, guía de peregrinaje «葬送のフリーレン 聖地巡礼！モデルとなった場所はドイツ…»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Guía de turismo de fans sobre los lugares reales (Alemania, Chequia) que se parecen al mundo de Frieren.",
+  "para_que": "Punto 18: contexto de referencia real para el mundo, marcado como atmósfera, no confirmación oficial del estudio.",
+  "licencia": "Blog de turismo; sólo cita y enlace."
+ },
+ {
+  "url": "https://www.reddit.com/r/Frieren/comments/1qcs15z/it_just_occurred_to_me_that_there_will_be_another/",
+  "fuente": "Reddit r/Frieren, post «It just occurred to me that there will be another Era Meteor Shower» (131 votos, 16 comentarios)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Post de texto (sin imagen propia) sobre la próxima lluvia de meteoros de Era, el mismo lugar donde Frieren la vio con Himmel.",
+  "para_que": "Punto 21 (por qué la gente la ama) y punto 12 (lo que ama el fandom): la escena que va a doler antes de pasar, el ejemplo más 'paisaje y memoria' encontrado.",
+  "licencia": "Contenido de un usuario de Reddit (texto). Sólo cita, no reproducir la imagen (no tiene)."
+ },
+ {
+  "url": "https://www.reddit.com/r/Frieren/comments/1p9tl4u/frieren_and_the_meteor_shower_animated_by_tsuicaa/",
+  "fuente": "Reddit r/Frieren, fan art «Frieren and the meteor shower, animated 🌌☄️» (by @tsuicaa), 3225 votos",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fan art animado del motivo de la lluvia de meteoros, con miles de votos.",
+  "para_que": "Punto 12/21: confirma que el paisaje del meteoro es uno de los temas de fan art más repetidos.",
+  "licencia": "© de la artista @tsuicaa (fan art, no oficial). Sólo enlace, no reproducir."
+ },
+ {
+  "url": "https://www.espinof.com/criticas/que-frieren-beyond-journeys-end-uno-mejores-animes-ano-melancolica-reflexion-paso-tiempo-a-traves-viaje-lleno-magia",
+  "fuente": "Espinof (Webedia), reseña «Por qué Frieren: Beyond Journey's End es uno de los mejores animes del año»",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reseña en español sobre la melancolía y la nostalgia como eje central de la serie.",
+  "para_que": "Punto 21 (por qué la gente la ama), cita textual en español sobre el tema de 89.",
+  "licencia": "Texto periodístico © Espinof/Webedia. Sólo cita, no reproducir el artículo entero."
+ },
+ {
+  "url": "https://www.efrenrodher.com/analisis-review/frieren-art-book-analisis/",
+  "fuente": "efrenrodher.com, análisis del art book oficial «Frieren Art Works» (Tsukasa Abe)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis en español del estilo de dibujo de Tsukasa Abe: contención emocional, línea limpia, color en acuarela digital.",
+  "para_que": "Punto 13 (por qué la cara de Frieren es tan contenida) y punto 21 (la melancolía como estilo, no como drama).",
+  "licencia": "Texto de análisis © efrenrodher.com. Sólo cita."
+ },
+ {
+  "url": "https://animecorner.me/frieren-beyond-journeys-end-reveals-new-character-ranking-poll-with-massive-12-6-million-votes/",
+  "fuente": "Anime Corner, cobertura de la 2.ª encuesta oficial de popularidad de Shōnen Sunday (marzo 2024)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nota de prensa con las cifras exactas de la encuesta oficial: 12.688.733 votos, Himmel 1.º con 1.239.533 votos.",
+  "para_que": "Punto 7 (encuestas de popularidad oficiales), la cifra exacta que responde a la duda del dueño sobre personajes secundarios más queridos.",
+  "licencia": "Texto periodístico © Anime Corner. Sólo cita."
+ },
+ {
+  "url": "https://frieren.fandom.com/wiki/Himmel",
+  "fuente": "Frieren Wiki, ficha de «Himmel», sección Trivia",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Dato de que «Himmel» significa «cielo» en alemán, ligado a Aureole (el paisaje donde descansan las almas).",
+  "para_que": "Punto 20 y punto 25 (símbolos del mundo): el nombre del héroe muerto apunta al paisaje-meta de la serie.",
+  "licencia": "Texto de la wiki (CC BY-SA, Fandom). Sólo cita."
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%C3%9Cbel_cosplay_at_Comic_World_Taiwan-Kaohsiung_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6048,
+  "alto": 4024,
+  "que_es": "Übel cosplay at Comic World Taiwan-Kaohsiung 49",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Frieren_cosplay_at_Comiket_107_%28part_3%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 4024,
+  "alto": 6048,
+  "que_es": "Frieren cosplay at Comiket 107 (part 3)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C3%9Cbel_cosplay_at_Comic_World_Taiwan-Kaohsiung_49_%28part_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6048,
+  "alto": 4024,
+  "que_es": "Übel cosplay at Comic World Taiwan-Kaohsiung 49 (part 4)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%C3%9Cbel_cosplay_at_Comic_World_Taiwan-Kaohsiung_49_%28part_5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 4024,
+  "alto": 6048,
+  "que_es": "Übel cosplay at Comic World Taiwan-Kaohsiung 49 (part 5)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%C3%9Cbel_cosplay_at_Comic_World_Taiwan-Kaohsiung_49_%28part_6%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6048,
+  "alto": 4024,
+  "que_es": "Übel cosplay at Comic World Taiwan-Kaohsiung 49 (part 6)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/%C3%9Cbel_cosplay_at_Comic_World_Taiwan-Kaohsiung_49_%28part_8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6048,
+  "alto": 4024,
+  "que_es": "Übel cosplay at Comic World Taiwan-Kaohsiung 49 (part 8)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%C3%9Cbel_cosplay_at_Comic_World_Taiwan-Kaohsiung_49_%28part_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6048,
+  "alto": 4024,
+  "que_es": "Übel cosplay at Comic World Taiwan-Kaohsiung 49 (part 2)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Fern_cosplay_at_Comiket_105_taken_with_Sony_E_10-18mm_F4_OSS_%2818mm%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6000,
+  "alto": 4000,
+  "que_es": "Fern cosplay at Comiket 105 taken with Sony E 10-18mm F4 OSS (18mm)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Fern_cosplay_at_Comiket_105_taken_with_Sony_E_10-18mm_F4_OSS_%2810mm%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6000,
+  "alto": 4000,
+  "que_es": "Fern cosplay at Comiket 105 taken with Sony E 10-18mm F4 OSS (10mm)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Fern_cosplay_at_Comiket_105_taken_with_Sony_E_10-18mm_F4_OSS_%2816mm%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6000,
+  "alto": 4000,
+  "que_es": "Fern cosplay at Comiket 105 taken with Sony E 10-18mm F4 OSS (16mm)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fern_cosplay_at_Comiket_105_taken_with_Sony_E_10-18mm_F4_OSS_%2812mm%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6000,
+  "alto": 4000,
+  "que_es": "Fern cosplay at Comiket 105 taken with Sony E 10-18mm F4 OSS (12mm)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Fern_cosplay_at_Comiket_105_taken_with_Sony_E_10-18mm_F4_OSS_%2814mm%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6000,
+  "alto": 4000,
+  "que_es": "Fern cosplay at Comiket 105 taken with Sony E 10-18mm F4 OSS (14mm)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fern_cosplay_at_Comiket_105.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 4000,
+  "alto": 6000,
+  "que_es": "Fern cosplay at Comiket 105",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Fern_cosplay_at_SMASH_2025_%28spin%2C_part_2%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6000,
+  "alto": 4000,
+  "que_es": "Fern cosplay at SMASH 2025 (spin, part 2)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fern_cosplay_at_SMASH_2025_%28spin%2C_part_1%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6000,
+  "alto": 4000,
+  "que_es": "Fern cosplay at SMASH 2025 (spin, part 1)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fern_cosplay_at_SMASH_2025_%28combat_stance%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 6000,
+  "alto": 4000,
+  "que_es": "Fern cosplay at SMASH 2025 (combat stance)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Frieren_cosplay_at_Comiket_107_%28part_2%29.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 3793,
+  "alto": 5702,
+  "que_es": "Frieren cosplay at Comiket 107 (part 2)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vq/wallhaven-vq3ykl.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 6055,
+  "alto": 3462,
+  "que_es": "Fondo de pantalla (anime, anime girls, Sousou No Frieren, Frieren, closed eyes, pointy ears)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por InrroInrro; © su autor"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Frieren_cosplay_at_Comiket_107.jpg",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 3655,
+  "alto": 5494,
+  "que_es": "Frieren cosplay at Comiket 107",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Benlisquare"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/3l/wallhaven-3lykgv.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3626,
+  "alto": 4503,
+  "que_es": "Fondo de pantalla (Delicious in Dungeon, elves, Sousou No Frieren, staff, Marcille Donato, Frieren)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Owl279; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/o5/wallhaven-o5zrj7.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4961,
+  "alto": 2961,
+  "que_es": "Fondo de pantalla (Fern (Sousou No Frieren), Stark (Sousou no Frieren), Sousou No Frieren, Frieren, group of people, suitcase)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Owl279; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/4111/eab819f9ce0b721448018eed687ab3c3938ed71d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4032,
+  "alto": 3024,
+  "que_es": "Fan art de gotoh_hitori (https://phenomen0ms.tumblr.com/post/713745808632250368)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4580/0edec0efac2821aa8033e2499819f468b4257201.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4093,
+  "alto": 2894,
+  "que_es": "Fan art de himmel_(sousou_no_frieren) (https://i.pximg.net/img-original/img/2024/02/23/21/31/45/116327437_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4243/57057d1498d8352a310612c2b9424b7bc465c12c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Fan art de gotoh_hitori (https://i.pximg.net/img-original/img/2023/07/06/12/03/17/109665825_p18.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/85/wallhaven-858vpj.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2480,
+  "alto": 3508,
+  "que_es": "Fondo de pantalla (Sousou No Frieren, anime, portrait display, anime girls, anime boys, looking back)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Owl279; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/rr/wallhaven-rrz76w.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (anime girls, anime boys, looking below, Catbox233, Himmel (Sousou no Frieren), Heiter (Sousou no Frieren))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Owl279; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ly/wallhaven-lyjvl2.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (anime, anime girls, Frieren, Sousou No Frieren, Fern (Sousou No Frieren), Breaking Bad)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por destex; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p9/wallhaven-p9m13e.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (anime, bare midriff, anime girls, headphones, simple background, Frieren)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por orsted2222; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p9/wallhaven-p953g3.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (artwork, minimalism, Sousou No Frieren, purple eyes, purple hair, looking at viewer)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por orsted2222; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/9d/wallhaven-9depzk.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (anime girls, white hair, sitting, Sousou No Frieren, Frieren, closed eyes)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Owl279; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/4394/1b5649a0db0cf16870bb489ffdc142e12f8fde55.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2700,
+  "alto": 3000,
+  "que_es": "Fan art de frieren (https://twitter.com/khyleri/status/2017266564186415465)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/567/df3bfac25e6e08c6489ea961a64e2bb62d896df2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 6566,
+  "que_es": "Fan art de princess_zelda (http://img33.pixiv.net/img/atelieriji/16868303.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/6/20fdfc292c3398ba39d62c98c92a12dcc3dcb117.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2173,
+  "alto": 3472,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (https://i.pximg.net/img-original/img/2025/01/15/06/19/17/126234089_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4356/abf7de646b42d9362321043a6215c618778b6849.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 2400,
+  "que_es": "Fan art de frieren (https://twitter.com/khyleri/status/1871950614957281772)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/7p/wallhaven-7pmgv9.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3688,
+  "alto": 1920,
+  "que_es": "Fondo de pantalla (Sousou No Frieren, anime, lying down, lying on side, Frieren, anime girls)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por InrroInrro; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/2821/23cd35cdcf180cf8e0ad9c0c4c0a07845bb51450.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2255,
+  "alto": 3000,
+  "que_es": "Fan art de megumin (https://i.pximg.net/img-original/img/2019/10/28/07/49/28/77518288_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de gotoh_hitori (https://twitter.com/totototo0507/status/1807802641482985883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/9d/wallhaven-9d7rd1.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2000,
+  "alto": 3094,
+  "que_es": "Fondo de pantalla (Sousou No Frieren, Frieren, portrait display, anime girls, backlighting, open mouth)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Owl279; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/1053/ddc467d725c9e8459e389c29317dc79dea6a94d2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3275,
+  "alto": 1827,
+  "que_es": "Fan art de frieren (https://i.pximg.net/img-original/img/2025/10/03/11/49/14/135816452_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/214c6e15194bf2893927ebece07e477d28a5aaae.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2610,
+  "alto": 2118,
+  "que_es": "Fan art de stark_(sousou_no_frieren) (https://i.pximg.net/img-original/img/2024/02/16/16/51/11/116111226_p4.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/11/11cd3c6d2c719e67421ca9402dc7042c358462c6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1940,
+  "alto": 2705,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (https://twitter.com/tentenchan2525/status/1906192302760185932)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2308/4449fbe755a0d03cab2ef80eb396938efc4ce12f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1963,
+  "alto": 2510,
+  "que_es": "Fan art de himmel_(sousou_no_frieren) (https://twitter.com/DABlN_HL/status/1868645212035416339)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/l8/wallhaven-l8o2op.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3360,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (anime, anime girls, Sousou No Frieren, Frieren, void_0, women outdoors)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Cobb141; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/4286/c1d4f03bf622a5052c7fbad6e0bb63085d7741ae.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1800,
+  "alto": 2400,
+  "que_es": "Fan art de gotoh_hitori (https://i.pximg.net/img-original/img/2023/08/09/22/41/33/110681016_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4482/41b32cac7611c37aa77c45074fd8874dc8217462.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de gotoh_hitori (https://twitter.com/q7g7q/status/1741547171927740581)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/2y/wallhaven-2yw1qx.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3000,
+  "alto": 1308,
+  "que_es": "Fondo de pantalla (anime, anime girls, Sousou No Frieren, Fern (Sousou No Frieren), Frieren, MEInoss)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por hk25; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/1057/fe8c11b5611439d9db8f468c1e5f9f1fbf2256e8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2360,
+  "alto": 1640,
+  "que_es": "Fan art de frieren (https://www.reddit.com/r/Frieren/comments/1ovnh4z/frieren/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3071/7025357f516471e6f5f577769d313a8cad5cf76a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1892,
+  "alto": 2000,
+  "que_es": "Fan art de frieren (https://i.pximg.net/img-original/img/2020/09/08/18/25/16/84240212_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2798/2ebaf98cc61ac8dd27113690dfb202f2efc7caba.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1563,
+  "alto": 2200,
+  "que_es": "Fan art de megumin (https://i.pximg.net/img-original/img/2019/09/16/17/00/01/76813572_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Fan art de hatsune_miku (https://x.com/siro_itigo_o/status/1805557196505465262)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/90933b747d27ad816a6bc541a91417c39f4b9077.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 2000,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (https://twitter.com/Artrextino_/status/1772384029595123775)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3889/12cb651f83905dc7dfeb1ce2b0b3e07a08abc862.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1446,
+  "alto": 2048,
+  "que_es": "Fan art de stark_(sousou_no_frieren) (https://x.com/FRIEREN_INFO/status/1999760237419708501)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/20/1f00a70194c6a61b7598f4a0be8d4d083100e608.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1399,
+  "que_es": "Fan art de princess_zelda (http://img05.pixiv.net/img/hanokage/3732379.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zy/wallhaven-zyeqev.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Frieren, Sousou No Frieren, white, armor, bright, bright background)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por hahehyhu; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/5e46918222ae650ff776dbfa8c06f7a3ee6de8fb.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1326,
+  "alto": 2048,
+  "que_es": "Fan art de himmel_(sousou_no_frieren) (https://twitter.com/suke_yuno/status/1768976110090662260)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2308/1ef65ab1ed85f26455af9e98ee9dff8818643343.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1353,
+  "alto": 1795,
+  "que_es": "Fan art de stark_(sousou_no_frieren) (https://x.com/shina4_7/status/1738909928348422599/photo/1)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4244/695927ee920a958cbed076a06f8c2c04.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1152,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (https://twitter.com/hunnyypuffs/status/1677114246524727296/photo/1)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4254/91a6f4870040a61acf3dd083c6e38ec1bf24f105.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1275,
+  "alto": 1650,
+  "que_es": "Fan art de gotoh_hitori (https://reshanims.tumblr.com/post/714376654591541248)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/768/e40bdc175fe98f678580f5fe88d377b7bfdabdaa.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1223,
+  "que_es": "Fan art de princess_zelda (http://img20.pixiv.net/img/yuinopartyyou127/25063229.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3532/3baa7f4409cb812c75420fcf4fd22a4af456a5f5.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1368,
+  "alto": 1430,
+  "que_es": "Fan art de megumin (https://i.pximg.net/img-original/img/2020/11/22/21/27/11/85837540_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 516,
+  "alto": 3642,
+  "que_es": "Fan art de hatsune_miku (http://img03.pixiv.net/img/matilda/990992.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sousou_no_frieren.png",
+  "fuente": "Openverse (wikimedia)",
+  "ancho": 1208,
+  "alto": 1322,
+  "que_es": "Sousou no frieren",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 4.0, autor Albertobagu"
+ },
+ {
+  "url": "https://safebooru.org/images/4441/dab383d699df540d84638bb5d2a4cb34ef209b7c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1196,
+  "alto": 1210,
+  "que_es": "Fan art de stark_(sousou_no_frieren) (https://twitter.com/Aki_Neiyuki/status/1731019995591876663)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4531/1c7c6999c848b7cf60e2d4d332662a19705dae7e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1400,
+  "alto": 1000,
+  "que_es": "Fan art de himmel_(sousou_no_frieren) (https://twitter.com/yumyumppang/status/1751136378916843984)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1395,
+  "que_es": "Fan art de hatsune_miku (http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1617/ac7ced5677a9bf590d157083a048c0ca42fa3e0e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1333,
+  "que_es": "Fan art de megumin (http://i3.pixiv.net/img-original/img/2016/02/11/23/11/02/55224010_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/266/945a7165ced9a01424323520322346316f7425e0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 960,
+  "que_es": "Fan art de princess_zelda (http://img12.pixiv.net/img/bonorisu/1642048.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ee14ac81342992f1f5dba69b6f5481f747f18bef.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Fan art de frieren (https://twitter.com/george_10g/status/1817604820293054523)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2364/977174c0b53d65916aee669c43f05900e48fc845.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Fan art de megumin (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/d51997444cb44b16e38c477fbf2a1fdbb342b197.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 811,
+  "alto": 1200,
+  "que_es": "Fan art de stark_(sousou_no_frieren) (https://twitter.com/q_kumoriza_p/status/1771961678495895804)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de hatsune_miku (http://img11.pixiv.net/img/nekogamisama/1837016.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/54252395030_049f0ca12a_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Kuraii yo peko! Kowai yo peko!",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor btadiem"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/9e0c7848bf1a9dee2366d5eed094545eb269163c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 736,
+  "alto": 812,
+  "que_es": "Fan art de fern_(sousou_no_frieren) (file://fern.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/589/dcf303925b63cca685742d2db2a9492dc2a88f80.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 640,
+  "alto": 633,
+  "que_es": "Fan art de princess_zelda (http://img41.pixiv.net/img/10111139/17694481.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1790/36742d26d881fdce80fa0d15f50adccd7ea776c6.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 498,
+  "alto": 620,
+  "que_es": "Fan art de megumin (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/567/ff3860748c0669c8733a4a78fbc53210689da42e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 699,
+  "alto": 431,
+  "que_es": "Fan art de princess_zelda (http://img18.pixiv.net/img/kametora/16882180.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Frieren",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Fern",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Stark",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Himmel",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Übel",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184312-kxd5H6iOHIq4.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Eisen",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184310-tiXvrq4FINXP.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Heiter",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219733-FgXseEhMdDE9.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Flamme",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205177-hLV4nVQjoBIC.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Sein",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219734-aS4UMAb16DGd.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Serie",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246058-FOtuSIUBQ4WJ.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Denken",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246054-TKwFFWVGISUd.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Methode",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321720-LRfYAvhD5I7l.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Sense",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Wirbel",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219110-LEB5T4oG0gel.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Aura",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154587-ivXNJ23SM1xB.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-46bb04858f9f4ae8b54dfd26a99b9579",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Sense and Teapot | Sousou no Frieren de Partaevil",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e1323d6705ed41a0907c9f56a79aa183",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Fern stole a donut | Sousou no Frieren de Partaevil",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-63e7f6285554497faa4fa52c4517616c",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Aura thinks she won | Sousou no Frieren de Partaevil",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-74eaf58ca80141fb9fa4609e062fdec6",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Frieren Lowpoly (Sousou no Frieren) de KelpieBoye",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-cd0b05b4f26c447382041249e8d536f1",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Magic Staff de DuDaubeny",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-171fa913d3db41469be379fc13866812",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Frieren de Batuhan13",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ }
+]

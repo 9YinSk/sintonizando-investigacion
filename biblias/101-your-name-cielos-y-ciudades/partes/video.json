@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://archive.org/download/YourNameKimiNoNaWaTrailer/Your%20Name%20%28%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%20_%20Kimi%20no%20Na%20wa%29_%20trailer.mp4?t=80",
+    "fuente": "Internet Archive (tráiler oficial internacional)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Fotograma del tráiler, minuto 1:20: Taki y Mitsuha frente a frente en una escalinata al atardecer, luz dorada-rosada",
+    "para_que": "Imagen-firma de la película: pose de reencuentro/anhelo, paleta de luz de Shinkai medida (#F7F7EC, #9B7570, #912323)",
+    "licencia": "Material promocional oficial (Toho/CoMix Wave), uso como referencia de investigación"
+  },
+  {
+    "url": "https://archive.org/download/kimi-no-na-wa-op-1/KimiNoNaWa-OP1.mp4?t=30",
+    "fuente": "Internet Archive (secuencia de apertura del filme)",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Fotograma de la secuencia de apertura Yume Tourou, minuto 0:30: el cometa Tiamat cruzando un cielo nocturno violeta entre estrellas",
+    "para_que": "Referencia de cielo nocturno y paleta violeta-lavanda medida (#F9F0F8, #7A7497, #59597E)",
+    "licencia": "Material oficial del filme (CoMix Wave Films), uso como referencia de investigación"
+  },
+  {
+    "url": "https://archive.org/download/YourNameKimiNoNaWaTrailer/Your%20Name%20%28%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%20_%20Kimi%20no%20Na%20wa%29_%20trailer.mp4?t=68",
+    "fuente": "Internet Archive (tráiler oficial internacional)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Fotograma del tráiler, minuto 1:08: paisaje verde de montaña y lago cráter de Itomori",
+    "para_que": "Referencia de fondo rural y paleta verde apagada medida (#40594D, #334C47, #294140)",
+    "licencia": "Material promocional oficial (Toho/CoMix Wave), uso como referencia de investigación"
+  },
+  {
+    "url": "https://archive.org/download/YourNameKimiNoNaWaTrailer/Your%20Name%20%28%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%20_%20Kimi%20no%20Na%20wa%29_%20trailer.mp4?t=60",
+    "fuente": "Internet Archive (tráiler oficial internacional)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Fotograma del tráiler, minuto 1:00: interior cálido (cafetería/casa) con luz dorada de atardecer",
+    "para_que": "Referencia de interior y paleta cálida medida (#8B6648, #40433F, #F2E9DD)",
+    "licencia": "Material promocional oficial (Toho/CoMix Wave), uso como referencia de investigación"
+  },
+  {
+    "url": "https://archive.org/details/YourNameKimiNoNaWaTrailer",
+    "fuente": "Internet Archive",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Tráiler oficial internacional completo (1:25), subtítulos en inglés",
+    "para_que": "Fuente de escenas icónicas y poses; visto entero con fotogramas.py, minuto exacto de cada momento citado en video.md",
+    "licencia": "Material promocional oficial (Toho/CoMix Wave Films)"
+  },
+  {
+    "url": "https://archive.org/details/kimi-no-na-wa-op-1",
+    "fuente": "Internet Archive",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Secuencia de apertura del filme \"Yume Tourou\" completa (1:46)",
+    "para_que": "Fuente del plano del cometa y del montaje inicial ciudad/campo; visto entero con fotogramas.py",
+    "licencia": "Material oficial del filme (CoMix Wave Films)"
+  },
+  {
+    "url": "https://archive.org/details/sparkle_201703",
+    "fuente": "Internet Archive",
+    "ancho": 854,
+    "alto": 480,
+    "que_es": "Vídeo musical largo de \"Sparkle\" (前前前世/Zenzenzense) con escenas del filme, incluye tomas cortadas del montaje final (6:46)",
+    "para_que": "Tema más reconocible de la película; fuente de poses de vida cotidiana en Itomori y Tokio y de la escena de escaleras en su segunda versión",
+    "licencia": "Material oficial promocional (RADWIMPS / CoMix Wave Films)"
+  },
+  {
+    "url": "https://archive.org/details/kiminonawasoundtrack",
+    "fuente": "Internet Archive",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Álbum de banda sonora oficial completo (RADWIMPS), 20 pistas en japonés",
+    "para_que": "Identificar el tema de cada escena (Yume Tourou, Zenzenzense/Sparkle, Kamigami, Kieta Machi) por nombre y duración exactos",
+    "licencia": "Álbum oficial, uso como referencia de investigación (no es imagen, no tiene ancho/alto)"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x588f0a",
+    "fuente": "Dailymotion",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tráiler oficial doblado al español de España (Selecta Visión)",
+    "para_que": "Referencia de marketing hispano del filme; mismo contenido visual que el tráiler internacional, no aporta planos nuevos",
+    "licencia": "Material promocional oficial de la distribuidora"
+  },
+  {
+    "url": "https://kiminonawa.fandom.com/wiki/Comet_Tiamat",
+    "fuente": "Kimi no Na wa. Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del Cometa Tiamat: descripción, periodo orbital y su papel en la trama",
+    "para_que": "Confirmar el nombre y datos del cometa citado en las escenas icónicas del punto 2",
+    "licencia": "CC-BY-SA (Fandom), texto, no imagen"
+  },
+  {
+    "url": "https://www.ticketsinjapan.com/media/suga-shrine-stairs/",
+    "fuente": "Tickets in Japan (guía turística)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo sobre la escalinata real de Suga Shrine (Yotsuya, Shinjuku) que inspiró la escena del reencuentro",
+    "para_que": "Confirmar el lugar real detrás de la escena icónica de la escalinata, para el punto 16 (imagen)",
+    "licencia": "Artículo editorial, uso como referencia de investigación"
+  }
+]

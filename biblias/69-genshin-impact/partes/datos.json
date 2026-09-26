@@ -1,0 +1,762 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203317-tqwY7CKQrZsG.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Paimon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b200013-mSYZcnVU41dP.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kong",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357406-ZkMD1awdGvF9.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mavuika",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357404-fjfMo3yEh9AE.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mualani",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357576-SGp9JKs51CZt.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kinich",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357405-8ZRZrQ6fwI94.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Xilonen",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357403-zqvClktwHDCu.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Chasca",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357574-dboUaOz8TiFS.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Iansan",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357575-h22mIOE9wEr2.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ororon",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357407-wGSmXPjPUiHr.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Hine",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357408-mmjTLQQQAfaX.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Tupac",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357409-V2kfHnpB0AI4.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Wanjiru",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b357410-SfGOM4QFs18H.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Sundjatta",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b362186-shwA646PiNiu.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Menelik",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187676-GVWbTUYIwlSu.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187676-2Ia4mu966f1H.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/GI_4-panel_comics_9.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6071,
+  "alto": 8598,
+  "que_es": "Paimon: GI 4-panel comics 9.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/GI_4-panel_comics_7.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6071,
+  "alto": 8598,
+  "que_es": "Paimon: GI 4-panel comics 7.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/GI_4-panel_comics_6.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6071,
+  "alto": 8598,
+  "que_es": "Paimon: GI 4-panel comics 6.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/GI_4-panel_comics_4.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6071,
+  "alto": 8598,
+  "que_es": "Paimon: GI 4-panel comics 4.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/GI_4-panel_comics_3.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6071,
+  "alto": 8598,
+  "que_es": "Paimon: GI 4-panel comics 3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/GI_4-panel_comics_10.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6071,
+  "alto": 8598,
+  "que_es": "Paimon: GI 4-panel comics 10.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/GI_4-panel_comics_1.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6071,
+  "alto": 8598,
+  "que_es": "Paimon: GI 4-panel comics 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/GI_4-panel_comics_2.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 4689,
+  "alto": 6697,
+  "que_es": "Paimon: GI 4-panel comics 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/3rd_Anniversary_JP_Twitter_Artwork_2.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6957,
+  "alto": 4005,
+  "que_es": "Paimon: 3rd Anniversary JP Twitter Artwork 2.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Comic_A_Tale_That_Occurred_in_Dragonspine.png",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 2330,
+  "alto": 9056,
+  "que_es": "Paimon: Comic A Tale That Occurred in Dragonspine.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Genshin_Impact_Commemorative_Shikishi_Set._3_-_Venti.png",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 7640,
+  "alto": 7625,
+  "que_es": "Venti: Genshin Impact Commemorative Shikishi Set. 3 - Venti.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Version_4.1_Full_Wallpaper_3.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 8247,
+  "alto": 6398,
+  "que_es": "Venti: Version 4.1 Full Wallpaper 3.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Venti_Portrait.png",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 4450,
+  "alto": 6750,
+  "que_es": "Venti: Venti Portrait.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/3rd_Anniversary_Wallpaper_1.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6400,
+  "alto": 3000,
+  "que_es": "Venti: 3rd Anniversary Wallpaper 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Announced_Global_Release_%26_PC_OBT_%28CN%29_Coming_Soon_Artwork_-_Shine_Beyond_the_Horizon%2C_Young_Hero.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 5500,
+  "alto": 3094,
+  "que_es": "Venti: Announced Global Release & PC OBT (CN) Coming Soon Artwork - Shine Beyond the Horizon, Young Hero.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Global_Release_in_1_Day_Artwork_-_Venti%2C_Boreas_and_Dvalin.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 5349,
+  "alto": 3000,
+  "que_es": "Venti: Global Release in 1 Day Artwork - Venti, Boreas and Dvalin.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Venti_Birthday_2022.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 4000,
+  "alto": 4000,
+  "que_es": "Venti: Venti Birthday 2022.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Genshin_Impact_Commemorative_Shikishi_Set._3_-_Zhongli.png",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 7640,
+  "alto": 7625,
+  "que_es": "Zhongli: Genshin Impact Commemorative Shikishi Set. 3 - Zhongli.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Genshin_Impact_Commemorative_Shikishi_Set._2_-_Zhongli.png",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 7200,
+  "alto": 7200,
+  "que_es": "Zhongli: Genshin Impact Commemorative Shikishi Set. 2 - Zhongli.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Chinese_New_Year%27s_Eve_in_2023_-_Zhongli%2C_Guoba%2C_Xiangling_and_Hu_Tao.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 9200,
+  "alto": 3450,
+  "que_es": "Zhongli: Chinese New Year's Eve in 2023 - Zhongli, Guoba, Xiangling and Hu Tao.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Dragon_Boat_Festival_2023.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 7223,
+  "alto": 4079,
+  "que_es": "Zhongli: Dragon Boat Festival 2023.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Mid-Autumn_Festival_2021.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 5333,
+  "alto": 3000,
+  "que_es": "Zhongli: Mid-Autumn Festival 2021.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Fan_Art_Program_2023_SP.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 4389,
+  "alto": 2469,
+  "que_es": "Zhongli: Fan Art Program 2023 SP.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Collaboration_Genshin_Impact_x_Sanxingdui_Museum_%E4%B8%89%E6%98%9F%E5%A0%86%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 4363,
+  "alto": 2454,
+  "que_es": "Zhongli: Collaboration Genshin Impact x Sanxingdui Museum 三星堆博物馆.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Chinese_New_Year%27s_Eve_in_2022_-_Teyvat_Food_Notes_-_Bountiful_Year.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 4000,
+  "alto": 2525,
+  "que_es": "Zhongli: Chinese New Year's Eve in 2022 - Teyvat Food Notes - Bountiful Year.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Genshin_Impact_Commemorative_Shikishi_Set._5_-_Hu_Tao.png",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 7200,
+  "alto": 7200,
+  "que_es": "Hu Tao: Genshin Impact Commemorative Shikishi Set. 5 - Hu Tao.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Chinese_New_Year_in_2025_-_Guoba%2C_Xiangling_and_Hu_Tao.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 7223,
+  "alto": 4079,
+  "que_es": "Hu Tao: Chinese New Year in 2025 - Guoba, Xiangling and Hu Tao.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Reddit_2M_Members.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 7200,
+  "alto": 4000,
+  "que_es": "Hu Tao: Reddit 2M Members.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Hu_Tao_Birthday_2026.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 5120,
+  "alto": 5120,
+  "que_es": "Hu Tao: Hu Tao Birthday 2026.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Dragon_Boat_Festival_2022.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 7200,
+  "alto": 2700,
+  "que_es": "Hu Tao: Dragon Boat Festival 2022.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/3rd_Anniversary_Wallpaper_4.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 6400,
+  "alto": 3000,
+  "que_es": "Hu Tao: 3rd Anniversary Wallpaper 4.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/New_Year_2023_1.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 4000,
+  "alto": 4000,
+  "que_es": "Hu Tao: New Year 2023 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Hu_Tao_Birthday_2023.jpg",
+  "fuente": "Fandom genshin-impact",
+  "ancho": 4000,
+  "alto": 4000,
+  "que_es": "Hu Tao: Hu Tao Birthday 2023.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4254/91a6f4870040a61acf3dd083c6e38ec1bf24f105.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1275,
+  "alto": 1650,
+  "que_es": "Fan art de paimon_(genshin_impact) (https://reshanims.tumblr.com/post/714376654591541248)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3567/3afe152244ac43d71b97a901b393ae8a7ceeffb6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 630,
+  "alto": 4096,
+  "que_es": "Fan art de paimon_(genshin_impact) (https://twitter.com/hane1849/status/1455365904145866754)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3102/4fc150bf0c5965f0ae093acdafabc99d862f2c27.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 1600,
+  "que_es": "Fan art de paimon_(genshin_impact) (https://i.pximg.net/img-original/img/2020/10/09/09/31/47/84894553_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3443/076e78ad4bc3ec0402aef3ecab15b12ad9bc6aa9.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 2000,
+  "que_es": "Fan art de paimon_(genshin_impact) (https://i.pximg.net/img-original/img/2021/08/09/02/44/33/91832365_p1.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4426/fd2c67e62c69aa2b93ee5e1c0a9094cc6bb46097.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 656,
+  "alto": 4096,
+  "que_es": "Fan art de paimon_(genshin_impact) (https://twitter.com/csyday829/status/1710581330352775227)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/30/92f3eb97b88e2ff88a825a2a1e20601f72b66b54.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 2560,
+  "que_es": "Fan art de paimon_(genshin_impact) (https://i.pximg.net/img-original/img/2025/10/07/03/03/03/135915267_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3834/61e4b538eecea31154add52f3a617c9842f7d110.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 974,
+  "alto": 2100,
+  "que_es": "Fan art de venti_(genshin_impact) (https://i.pximg.net/img-original/img/2022/05/13/20/22/25/98316438_p1.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3402/1e993b9368068e04cae27d88d899efd669051faa.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2149,
+  "alto": 2480,
+  "que_es": "Fan art de venti_(genshin_impact) (https://twitter.com/koboli03/status/1412678277311860737)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3834/7a0dce794b12c0046068e9f277cdb4f29f18b573.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 974,
+  "alto": 2100,
+  "que_es": "Fan art de venti_(genshin_impact) (https://i.pximg.net/img-original/img/2022/05/13/20/22/25/98316438_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3438/13200cb6320fddc41319e6a5eb84ee732ac5373e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1749,
+  "alto": 2048,
+  "que_es": "Fan art de venti_(genshin_impact) (https://twitter.com/wan___wa0/status/1422811053914615817)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3409/302875dbec676240468f739d9161e68b20a03485.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4400,
+  "alto": 5400,
+  "que_es": "Fan art de zhongli_(genshin_impact) (https://i.pximg.net/img-original/img/2021/07/13/04/39/14/91209742_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3525/612aac5d346ea07e530088c328345a3b346ef0e9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2742,
+  "alto": 1939,
+  "que_es": "Fan art de zhongli_(genshin_impact) (https://i.pximg.net/img-original/img/2021/09/30/00/09/13/93110008_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3453/b850beece3ab4f86300a62bb96997bd299bd6102.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2200,
+  "alto": 2629,
+  "que_es": "Fan art de zhongli_(genshin_impact) (https://twitter.com/Lady_Fubuki/status/1341194682919956481)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4010/5ff87fe90a144cbd23da8b551ffd194024d92a25.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3040,
+  "alto": 4000,
+  "que_es": "Fan art de raiden_shogun (https://i.pximg.net/img-original/img/2022/11/02/11/29/36/102447217_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3895/948f3e48329ec02da0c995b18b7e8452671a7cd1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 1455,
+  "que_es": "Fan art de raiden_shogun (https://twitter.com/waternaeng/status/1545096580272861184)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4149/dadac0818e51166881ff6a93f817ba42bfb84096.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4000,
+  "alto": 4000,
+  "que_es": "Fan art de raiden_shogun (https://dikongzhuangshu.lofter.com/post/1e444c73_2b50317e6)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3395/fa24c9cc75d5ba5ddb5111226bab4edc31230c7e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2500,
+  "alto": 1953,
+  "que_es": "Fan art de raiden_shogun (https://i.pximg.net/img-original/img/2021/09/22/21/50/10/92939563_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3490/ebc2a5bc13feab33b74443faab56b40f8f80092f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 678,
+  "que_es": "Fan art de hu_tao_(genshin_impact) (https://twitter.com/kibashi8a/status/1390996648797507590)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4069/e7f07177a0f361c8ac4ece108cabeec3d97b016e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4610,
+  "alto": 2680,
+  "que_es": "Fan art de hu_tao_(genshin_impact) (https://i.pximg.net/img-original/img/2023/02/05/06/14/24/105097358_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4612/6af687d608f0d8236aed6dd5d3749dd1127c9d6d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1792,
+  "alto": 2720,
+  "que_es": "Fan art de hu_tao_(genshin_impact) (file://65ytfgyu.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3499/56360b57300a590dde0afea05c827f8bf69bbd9f.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1555,
+  "alto": 2000,
+  "que_es": "Fan art de hu_tao_(genshin_impact) (https://t.bilibili.com/483201859672605669)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3796/db185dd2b30111c287244229ca8ca6a8c95db84f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1821,
+  "alto": 3116,
+  "que_es": "Fan art de hu_tao_(genshin_impact) (https://i.pximg.net/img-original/img/2022/04/22/00/00/11/97785717_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4065/fd0e9ec555b5d3d8f54e094f0793ea59122917e8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3150,
+  "alto": 5247,
+  "que_es": "Fan art de scaramouche_(genshin_impact) (https://i.pximg.net/img-original/img/2022/12/19/01/39/54/103720655_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3713/ec5ad1204192f09149f32ffa7d7c0b53a7e0e55b.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1700,
+  "alto": 1700,
+  "que_es": "Fan art de scaramouche_(genshin_impact) (https://i.pximg.net/img-original/img/2022/02/23/14/06/20/96463544_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3220/a963bd18440b081048b7769317f329be28782b4d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1876,
+  "alto": 2009,
+  "que_es": "Fan art de lumine_(genshin_impact) (https://twitter.com/_Praeliator/status/1322134234396422144)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3376/37b44828ac256f62c25ba5e309cdde25e8df74a4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3240,
+  "alto": 4680,
+  "que_es": "Fan art de lumine_(genshin_impact) (https://i.pximg.net/img-original/img/2021/03/18/19/11/13/88535089_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4243/05456372f0d464fe3bb97df7c1d00daf30fccc22.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 5635,
+  "alto": 7378,
+  "que_es": "Fan art de ganyu_(genshin_impact) (https://cafe.naver.com/feveraca/643)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ }
+]

@@ -1,0 +1,1739 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/2/27/Rise-of-the-Tomb-Raider.jpg",
+  "fuente": "Fandom (tombraider.fandom.com, imagen más grande de la wiki de Lara Croft)",
+  "ancho": 9000,
+  "alto": 5762,
+  "que_es": "Key art oficial de Rise of the Tomb Raider: Lara escalando con pico de hielo, nieve y luz fría",
+  "para_que": "Arte oficial variado (punto 1); pose viva en acción para lámina o key visual",
+  "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+ },
+ {
+  "url": "https://polyhaven.com/a/colosseum",
+  "fuente": "Poly Haven API",
+  "ancho": 8192,
+  "alto": 4096,
+  "que_es": "HDRI 'Colosseum': ruinas de piedra reales bajo luz de mañana/tarde de alto contraste",
+  "para_que": "Sitio/luz real equivalente a las ruinas de la serie (puntos 3 y 16), CC0",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://polyhaven.com/a/blue_grotto",
+  "fuente": "Poly Haven API",
+  "ancho": 8192,
+  "alto": 4096,
+  "que_es": "HDRI 'Blue Grotto': cueva real con cascada, roca y vegetación",
+  "para_que": "Sitio/luz real equivalente a las cuevas de la serie (puntos 3 y 16), CC0",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/k9/wallhaven-k9p181.jpg",
+  "fuente": "Wallhaven (API, ya en datos-imagen.md)",
+  "ancho": 4500,
+  "alto": 3971,
+  "que_es": "Fondo de pantalla de fans: arte de Shadow of the Tomb Raider, selva con eclipse, 96 favoritos",
+  "para_que": "Fondos de pantalla de fans en alta resolución (punto 16)",
+  "licencia": "Fan-made, licencia no explícita en Wallhaven (uso personal, no comercial)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/4/44/TR1_Classic_Outfit.jpg",
+  "fuente": "Fandom",
+  "ancho": 4000,
+  "alto": 3000,
+  "que_es": "Render de portada de Tomb Raider (1996): pose de disparo, mint tank top y shorts marrón, traje icónico",
+  "para_que": "Vestuario clásico con hex medidos (punto 15); mirada en hojas/vestuario_02.jpg nº1",
+  "licencia": "© Core Design / Eidos, uso de referencia no comercial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/6/6b/ROTTR_Desert_Tank.png",
+  "fuente": "Fandom (imagen = Gear Up Guide oficial de tombraider.com)",
+  "ancho": 3300,
+  "alto": 2550,
+  "que_es": "Hoja oficial 'Gear Up Guide: Desert Tank Top' de Rise of the Tomb Raider, con cita del director de arte Brenoch Adams",
+  "para_que": "Vestuario con material exacto citado (punto 15); mirada en hojas/vestuario_02.jpg nº4",
+  "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/72/wallhaven-72pgov.jpg",
+  "fuente": "Wallhaven (API, ya en datos-imagen.md)",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla más guardado (268 favoritos), arte 3D de Rise of the Tomb Raider vía Nexus Mods",
+  "para_que": "Fondos de pantalla de fans en alta resolución (punto 16)",
+  "licencia": "Fan-made, licencia no explícita en Wallhaven (uso personal, no comercial)"
+ },
+ {
+  "url": "https://safebooru.org/images/1392/a1d0dd3c548f21ceea193f1ccc6dbd9547a1123a.jpg",
+  "fuente": "Safebooru (ya en datos-imagen.md)",
+  "ancho": 3500,
+  "alto": 2000,
+  "que_es": "Fan art de Lara Croft mejor puntuado en Safebooru, origen DeviantArt (kokecit)",
+  "para_que": "Fan art como referencia, nunca para pegar (punto 3)",
+  "licencia": "Fan art, no libre; sólo referencia con crédito de origen"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/f/f0/Many_Changes_of_Lara_Croft_2.jpg",
+  "fuente": "Fandom",
+  "ancho": 4875,
+  "alto": 1300,
+  "que_es": "Collage oficial/semioficial con todas las épocas visuales de Lara Croft lado a lado",
+  "para_que": "Arte oficial variado (punto 1); explicar de un vistazo el cambio de estilo gráfico",
+  "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Rock064",
+  "fuente": "ambientCG API v2",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura CC0 de roca con musgo",
+  "para_que": "Textura real equivalente a las ruinas cubiertas de vegetación (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=PavingStones151",
+  "fuente": "ambientCG API v2",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura CC0 de adoquín/piedra de cantera",
+  "para_que": "Textura real equivalente a la piedra tallada de las ruinas (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Ground068",
+  "fuente": "ambientCG API v2",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura CC0 de tierra/musgo de suelo de selva",
+  "para_que": "Textura real equivalente al suelo de las ruinas en la selva (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/e/e3/Harumi_Nishizawa_2024.jpg/revision/latest?cb=20240519212136&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Harumi Nishizawa)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Foto de Harumi Nishizawa, actriz que dobla a Lara Croft en la serie animada de Netflix \"Tomb Raider: La leyenda de Lara Croft\" (2024-2025)",
+  "para_que": "Punto 8: voz latina de la Lara más reciente y activa (serie de Netflix)",
+  "licencia": "© titulares/Doblaje Wiki; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/e/ed/SOTTR_Tank_Top.png",
+  "fuente": "Fandom (imagen = Gear Guide oficial de tombraider.com)",
+  "ancho": 2070,
+  "alto": 1080,
+  "que_es": "Hoja oficial 'Shadow of the Tomb Raider: Gear Guide', outfit por defecto en 6 poses",
+  "para_que": "Vestuario con hex medidos y material citado (punto 15); mirada en hojas/vestuario_02.jpg nº5",
+  "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/8/8b/Gol1.jpg",
+  "fuente": "Fandom",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Arte oficial de Lara Croft and the Guardian of Light, acción entre ruinas con arco tensado",
+  "para_que": "Arte oficial variado (punto 1), pose viva de acción/exploración",
+  "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_749f99146e5ebad371e37d95bfab7b17847c1d81.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 391220, Rise of the Tomb Raider)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: templo de la selva cubierto de vegetación, Lara saltando entre ruinas",
+  "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº1",
+  "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_2b612bfa62d920b061e900e1f7a975a2de6729ec.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 391220, Rise of the Tomb Raider)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: arco de piedra nevado, ruina excavada en la nieve",
+  "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº2",
+  "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_c61955cad6c9ec672f6a2f4a192b234a6f752d10.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 391220, Rise of the Tomb Raider)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: cueva con haz de luz vertical",
+  "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº6",
+  "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_3fcd62a2831bcc1e557a0fe2a061b6369ba030d1.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 750920, Shadow of the Tomb Raider)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: templo maya de Paititi con farolillos de colores y multitud en fiesta",
+  "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº3",
+  "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_a98e6f581b293d80e722a143a038c22bb11e1a0d.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 750920, Shadow of the Tomb Raider)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: aldea entre árboles con pirámide de fondo",
+  "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº4",
+  "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_c93f9a97f2fd890f21c829cf8781850484eec7f3.1920x1080.jpg",
+  "fuente": "Steam API appdetails (appid 203160, Tomb Raider 2013 GOTY)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura oficial: puente colgante entre ruinas con niebla y sol rasante",
+  "para_que": "Mejor fondo de pantalla 'postal' de exploración, paleta medida (punto 16); hojas/fondos_03.jpg nº5",
+  "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/1/11/AdrianaOlmeado2024.jpg/revision/latest?cb=20250815220304&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Adriana Olmedo)",
+  "ancho": 1080,
+  "alto": 1350,
+  "que_es": "Foto de Adriana Olmedo, actriz mexicana que dobla a Lara Croft en los juegos anunciados Tomb Raider: Catalyst y Tomb Raider: Legacy of Atlantis (2027)",
+  "para_que": "Punto 8: identificar a la voz latina más reciente de Lara Croft",
+  "licencia": "© titulares/Doblaje Wiki; sólo referencia, no usar en la lámina"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/5/5a/20_Years_of_Croft.jpg",
+  "fuente": "Fandom",
+  "ancho": 1600,
+  "alto": 904,
+  "que_es": "Collage oficial de aniversario: Lara en grupo mostrando 20 años de evolución",
+  "para_que": "Arte oficial variado (punto 1), pose en grupo",
+  "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+ },
+ {
+  "url": "https://images.ctfassets.net/x77ixfmkpoiv/14WqJdlyLMdEbnCNjCzOqq/e4a04b6b58165f973ba4755c37e2513f/Reboot_Iconic_Lines_Header.jpg",
+  "fuente": "Blog oficial tombraider.com",
+  "ancho": 1440,
+  "alto": 960,
+  "que_es": "Imagen de cabecera del artículo oficial \"Lara's Most Iconic Lines from the Survivor Trilogy\" (29-may-2024), fuente de las 8 frases citadas en el punto 13",
+  "para_que": "Punto 13/17: ilustrar las frases icónicas reales de Lara con su fuente oficial",
+  "licencia": "© Crystal Dynamics/Amazon Games; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/a/a5/MarisolRomero-2025.jpg/revision/latest?cb=20251012170054&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Marisol Romero)",
+  "ancho": 1080,
+  "alto": 1080,
+  "que_es": "Foto de Marisol Romero, actriz mexicana que dobla a Lara Croft en Rise of the Tomb Raider (2015) y Shadow of the Tomb Raider (2018)",
+  "para_que": "Punto 8: la voz latina de Lara en los dos últimos juegos numéricos",
+  "licencia": "© titulares/Doblaje Wiki; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/1/1d/Trinity_Badge.png",
+  "fuente": "Fandom",
+  "ancho": 1019,
+  "alto": 1019,
+  "que_es": "Foto in-game (polaroid) del parche triangular de la organización Trinity sobre un cadáver",
+  "para_que": "Símbolo del antagonista (punto 19), color declarado como ⚠️ por escena oscura",
+  "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/1/1d/Trinity_Badge.png/revision/latest?cb=20180920213007",
+  "fuente": "Fandom tombraider.fandom.com (File:Trinity Badge.png)",
+  "ancho": 1019,
+  "alto": 1019,
+  "que_es": "Foto coleccionable 'Trinity Badge' de Shadow of the Tomb Raider, con la descripción in-universo de Trinity",
+  "para_que": "Emblema de facción y texto de lore (puntos 6 y 25)",
+  "licencia": "Wiki de fans, uso como referencia (propiedad de Square Enix/Crystal Dynamics)"
+ },
+ {
+  "url": "https://video.akamai.steamstatic.com/store_trailers/203160/10727/bc433a91a02e76d1ea82a1bfaa6b9bf118a27429/1750498724/hls_264_master.m3u8?t=1447357498&t=148",
+  "fuente": "Steam (CDN oficial Akamai) / Square Enix",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial de revelación de Tomb Raider (2013), 'Turning Point'; fotograma 2:28 (Lara en la playa junto al naufragio, atardecer)",
+  "para_que": "Escena icónica (punto 2), fondo y paleta de Yamatai (punto 4), poses de huida/determinación (punto 14)",
+  "licencia": "Material promocional oficial de Square Enix; sólo como referencia, no para pegar"
+ },
+ {
+  "url": "https://video.akamai.steamstatic.com/store_trailers/750920/183833/87b5a80178719395a8eacf41be455afc790e40a2/1750578719/hls_264_master.m3u8?t=1536601620&t=42",
+  "fuente": "Steam (CDN oficial Akamai) / Square Enix",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler de lanzamiento de Shadow of the Tomb Raider; fotograma 0:42 (Lara con Jonah y el Dr. Dominguez ante un mural con antorchas)",
+  "para_que": "Escena icónica (punto 2), pose de 'explicar' (punto 14), ambiente de Paititi (punto 4)",
+  "licencia": "Material promocional oficial de Square Enix; sólo como referencia, no para pegar"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/b/b0/Lili_Barba.jpg/revision/latest?cb=20161229060325&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Liliana Barba)",
+  "ancho": 960,
+  "alto": 960,
+  "que_es": "Foto de Liliana Barba, actriz mexicana que dobla a Lara Croft (Angelina Jolie) en las dos películas de 2001 y 2003",
+  "para_que": "Punto 8: la voz latina histórica de Lara Croft en cine",
+  "licencia": "© titulares/Doblaje Wiki; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/5318/14230572907_d81b27f9d5_b.jpg",
+  "fuente": "Openverse / Flickr (ya en datos-imagen.md)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Foto de cosplay de Lara Croft Reboot por 'Kanracakes' en JAFAX 2013",
+  "para_que": "Cosplay bien hecho como referencia (punto 3 y 23)",
+  "licencia": "CC BY-NC-ND 2.0 (WhiteDesertSun/Flickr)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/7/72/Croft_Family_Crest.png",
+  "fuente": "Fandom",
+  "ancho": 747,
+  "alto": 747,
+  "que_es": "Escudo de armas de la familia Croft, coleccionable de Rise of the Tomb Raider: Blood Ties",
+  "para_que": "Símbolo/emblema medido con hex (punto 19); objeto real tallable en Blender",
+  "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/7/72/Croft_Family_Crest.png/revision/latest?cb=20180328183956",
+  "fuente": "Fandom tombraider.fandom.com (File:Croft Family Crest.png)",
+  "ancho": 747,
+  "alto": 747,
+  "que_es": "Escudo/blasón de la familia Croft, reliquia del DLC Blood Ties de Rise of the Tomb Raider",
+  "para_que": "Emblema familiar de Lara (punto 25)",
+  "licencia": "Wiki de fans, uso como referencia (propiedad de Square Enix/Crystal Dynamics)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Lara_Croft_-_Tomb_Raider_Catalyst.jpg/revision/latest?cb=20251212163649&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Tomb Raider: Catalyst)",
+  "ancho": 668,
+  "alto": 668,
+  "que_es": "Imagen de Lara Croft usada en la ficha de doblaje del videojuego anunciado Tomb Raider: Catalyst (2027, sin salir)",
+  "para_que": "Punto 8: identificación visual del personaje en el reparto de doblaje más reciente/anunciado",
+  "licencia": "© Crystal Dynamics/Amazon Game Studios; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/d/df/Lara_Yamatai_Aftermath.PNG",
+  "fuente": "Fandom",
+  "ancho": 491,
+  "alto": 720,
+  "que_es": "Render del outfit estándar del reboot 2013 (Survivor Timeline)",
+  "para_que": "Vestuario reboot con hex medidos (punto 15); mirada en hojas/vestuario_02.jpg nº3",
+  "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/4/48/Trinity_seal.png/revision/latest?cb=20161130194027",
+  "fuente": "Fandom tombraider.fandom.com (File:Trinity seal.png)",
+  "ancho": 518,
+  "alto": 612,
+  "que_es": "Sello/parche circular de la organización Trinity",
+  "para_que": "Emblema de facción (punto 25), estampado o sello en una lámina",
+  "licencia": "Wiki de fans, uso como referencia (propiedad de Square Enix/Crystal Dynamics)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/6/64/Lara_Croft_Shadow.png/revision/latest?cb=20190221031329&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Shadow of the Tomb Raider)",
+  "ancho": 448,
+  "alto": 586,
+  "que_es": "Imagen de Lara Croft usada en la ficha de doblaje de Shadow of the Tomb Raider (2018)",
+  "para_que": "Punto 8: identificación visual del personaje en ese reparto de doblaje",
+  "licencia": "© Square Enix/Eidos Montréal; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/6/65/Lara_Croft_%28TRLLDLC%29.jpg/revision/latest?cb=20250924030936&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Tomb Raider: La leyenda de Lara Croft)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "Imagen de Lara Croft en la serie animada de Netflix, usada en la ficha de doblaje",
+  "para_que": "Punto 8 y 13: cómo se ve el personaje en el medio donde tiene doblaje latino más reciente",
+  "licencia": "© Powerhouse Animation/Netflix; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/e/e7/LaraCroft_TR.png/revision/latest?cb=20210113010905&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Tomb Raider: Las aventuras de Lara Croft)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "Imagen de Lara Croft (Alicia Vikander) usada en la ficha de doblaje de la película de 2018",
+  "para_que": "Punto 8: identificación visual del personaje en ese reparto de doblaje",
+  "licencia": "© Warner Bros./MGM; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/4/49/LRTR-Lara_Croft.png/revision/latest?cb=20230123212048&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Lara Croft: Tomb Raider, 2001)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "Imagen de Lara Croft (Angelina Jolie) usada en la ficha de doblaje de la película de 2001",
+  "para_que": "Punto 8: identificación visual del personaje en el primer doblaje latino de Lara Croft",
+  "licencia": "© Paramount Pictures; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/9/96/TRCL-Lara_Croft.png/revision/latest?cb=20230125180102&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Tomb Raider: La cuna de la vida, 2003)",
+  "ancho": 500,
+  "alto": 500,
+  "que_es": "Imagen de Lara Croft (Angelina Jolie) usada en la ficha de doblaje de la película de 2003",
+  "para_que": "Punto 8: identificación visual del personaje en el segundo doblaje latino de Lara Croft",
+  "licencia": "© Paramount Pictures; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/2/28/Riseofthetombraiderlaracroft.jpg/revision/latest?cb=20151110202239&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Rise of the Tomb Raider)",
+  "ancho": 435,
+  "alto": 522,
+  "que_es": "Imagen de Lara Croft usada en la ficha de doblaje de Rise of the Tomb Raider (2015)",
+  "para_que": "Punto 8: identificación visual del personaje en ese reparto de doblaje",
+  "licencia": "© Square Enix/Crystal Dynamics; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/4/41/TR_L_Legend_Outfit.jpg",
+  "fuente": "Fandom",
+  "ancho": 310,
+  "alto": 579,
+  "que_es": "Render in-game del outfit principal de Tomb Raider: Legend",
+  "para_que": "Vestuario Legend con hex medidos (punto 15); mirada en hojas/vestuario_02.jpg nº2",
+  "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/f/fd/Jocelyn_Robles_Dub.jpg/revision/latest?cb=20210525172108&path-prefix=es",
+  "fuente": "Doblaje Wiki (ficha de Jocelyn Robles)",
+  "ancho": 350,
+  "alto": 488,
+  "que_es": "Foto de Jocelyn Robles, actriz que dobla a Lara Croft (Alicia Vikander) en la película de 2018 y a Camilla \"Cam\" Roth en la serie de Netflix",
+  "para_que": "Punto 8: voz latina de la Lara del reboot cinematográfico de 2018",
+  "licencia": "© titulares/Doblaje Wiki; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x89cmfn?t=480",
+  "fuente": "Dailymotion (canal Globtopus / JeuxVideo.com)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Programa de análisis 'Le Fond De L'affaire' sobre la historia de Tomb Raider (dir. Maxime Robinet); minuto 8:00, créditos en pantalla",
+  "para_que": "Vídeo de análisis con minuto exacto (punto 10)",
+  "licencia": "Vídeo de un canal de terceros; sólo como referencia y cita, no para descargar como propio"
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/shadow-of-the-tomb-raider/shadow-of-the-tomb-raider-main-menu-500x281.jpg",
+  "fuente": "interfaceingame.com (Shadow of the Tomb Raider)",
+  "ancho": 500,
+  "alto": 281,
+  "que_es": "Captura real del menú principal de Shadow of the Tomb Raider",
+  "para_que": "Referencia de interfaz de juego (punto 11)",
+  "licencia": "Captura de interfaz con fines de referencia/análisis; juego de Square Enix/Crystal Dynamics"
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/shadow-of-the-tomb-raider/shadow-of-the-tomb-raider-quest-update-500x281.jpg",
+  "fuente": "interfaceingame.com (Shadow of the Tomb Raider)",
+  "ancho": 500,
+  "alto": 281,
+  "que_es": "Captura real de la caja de objetivo/misión en pantalla",
+  "para_que": "Referencia de caja diegética de texto (puntos 6 y 11)",
+  "licencia": "Captura de interfaz con fines de referencia/análisis; juego de Square Enix/Crystal Dynamics"
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/shadow-of-the-tomb-raider/shadow-of-the-tomb-raider-artifacts-500x281.jpg",
+  "fuente": "interfaceingame.com (Shadow of the Tomb Raider)",
+  "ancho": 500,
+  "alto": 281,
+  "que_es": "Captura real del menú de reliquias (Artifacts) con visor 3D y foto tipo polaroid",
+  "para_que": "Referencia de la 'caja de diálogo' más propia de la franquicia (puntos 6 y 11)",
+  "licencia": "Captura de interfaz con fines de referencia/análisis; juego de Square Enix/Crystal Dynamics"
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/shadow-of-the-tomb-raider/shadow-of-the-tomb-raider-audio-and-languages-500x281.jpg",
+  "fuente": "interfaceingame.com (Shadow of the Tomb Raider)",
+  "ancho": 500,
+  "alto": 281,
+  "que_es": "Captura real del menú de audio e idiomas, con las opciones Voice-Over Immersion, Subtitles y Subtitle Color",
+  "para_que": "Confirma cómo se leen subtítulos y voces nativas (punto 6)",
+  "licencia": "Captura de interfaz con fines de referencia/análisis; juego de Square Enix/Crystal Dynamics"
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/shadow-of-the-tomb-raider/shadow-of-the-tomb-raider-tutorial-500x281.jpg",
+  "fuente": "interfaceingame.com (Shadow of the Tomb Raider)",
+  "ancho": 500,
+  "alto": 281,
+  "que_es": "Captura real de una caja de tutorial de control ('Wall Scramble')",
+  "para_que": "Referencia de caja de instrucción en pantalla (puntos 6 y 11)",
+  "licencia": "Captura de interfaz con fines de referencia/análisis; juego de Square Enix/Crystal Dynamics"
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/shadow-of-the-tomb-raider/shadow-of-the-tomb-raider-world-map-500x281.jpg",
+  "fuente": "interfaceingame.com (Shadow of the Tomb Raider)",
+  "ancho": 500,
+  "alto": 281,
+  "que_es": "Captura real del mapa del mundo",
+  "para_que": "Referencia de interfaz de juego (punto 11)",
+  "licencia": "Captura de interfaz con fines de referencia/análisis; juego de Square Enix/Crystal Dynamics"
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/shadow-of-the-tomb-raider/shadow-of-the-tomb-raider-skill-point-500x281.jpg",
+  "fuente": "interfaceingame.com (Shadow of the Tomb Raider)",
+  "ancho": 500,
+  "alto": 281,
+  "que_es": "Captura real del aviso de punto de habilidad ganado",
+  "para_que": "Referencia de HUD (punto 11)",
+  "licencia": "Captura de interfaz con fines de referencia/análisis; juego de Square Enix/Crystal Dynamics"
+ },
+ {
+  "url": "https://interfaceingame.com/wp-content/uploads/shadow-of-the-tomb-raider/shadow-of-the-tomb-raider-stealth-takedown-500x281.jpg",
+  "fuente": "interfaceingame.com (Shadow of the Tomb Raider)",
+  "ancho": 500,
+  "alto": 281,
+  "que_es": "Captura real de la caja de tutorial de sigilo ('Stealth Takedown')",
+  "para_que": "Referencia de caja de instrucción en pantalla (punto 11)",
+  "licencia": "Captura de interfaz con fines de referencia/análisis; juego de Square Enix/Crystal Dynamics"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/3/3f/Solarii_Symbol.png/revision/latest?cb=20201209171009",
+  "fuente": "Fandom tombraider.fandom.com (File:Solarii Symbol.png)",
+  "ancho": 300,
+  "alto": 300,
+  "que_es": "Símbolo de la secta Solarii Brotherhood (Yamatai)",
+  "para_que": "Emblema de facción (punto 25)",
+  "licencia": "Wiki de fans, uso como referencia (propiedad de Square Enix/Crystal Dynamics)"
+ },
+ {
+  "url": "https://archive.org/download/TombRaider_23930/TombRaider_23930_part01_512kb.mp4",
+  "fuente": "Internet Archive (longplay de Stacy Corron, 2005)",
+  "ancho": 320,
+  "alto": 240,
+  "que_es": "Tomb Raider (1996, PS1), nivel 1 'Caves' completo (apertura del juego), minuto 0:00 a 3:33",
+  "para_que": "Escena icónica de apertura (punto 2), poses iniciales de Lara (punto 14)",
+  "licencia": "Grabación de fan subida a Internet Archive; captura de un juego con derechos de Square Enix/Core Design, sólo como referencia"
+ },
+ {
+  "url": "https://archive.org/download/TombRaider_23930/TombRaider_23930_part03_512kb.mp4",
+  "fuente": "Internet Archive (longplay de Stacy Corron, 2005)",
+  "ancho": 320,
+  "alto": 240,
+  "que_es": "Tomb Raider (1996, PS1), nivel 3 'Lost Valley' completo (el nivel del T-Rex), minuto 0:00 a 7:26",
+  "para_que": "Escena icónica de la jungla (punto 2), paleta y luz de Lost Valley (punto 4), pose de carrera (punto 14)",
+  "licencia": "Grabación de fan subida a Internet Archive; sólo como referencia"
+ },
+ {
+  "url": "https://archive.org/download/TombRaider_23930/TombRaider_23930_part15_512kb.mp4",
+  "fuente": "Internet Archive (longplay de Stacy Corron, 2005)",
+  "ancho": 320,
+  "alto": 240,
+  "que_es": "Tomb Raider (1996, PS1), nivel 15 'The Great Pyramid' completo (el final del juego, previo a Natla), minuto 0:00 a 11:59",
+  "para_que": "Escena icónica del final (punto 2), paleta oscura de la tumba (punto 4), pose de cansancio/tensión (punto 14)",
+  "licencia": "Grabación de fan subida a Internet Archive; sólo como referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3da7952b31484ea88a6c8edd371b40ad",
+  "fuente": "Sketchfab API v3 (ya en datos-imagen.md)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D 'Tomb Raider Laracroft' por ItsKrish7, 481 me gusta",
+  "para_que": "Fan art / 3D con licencia libre (punto 3), referencia de pose y proporciones en Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ec0a62ef13c04448891744baa7f215eb",
+  "fuente": "Sketchfab API v3 (ya en datos-imagen.md)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D 'Home of Adventure' por PippyJ, 260 me gusta: un sitio de la serie, no sólo el personaje",
+  "para_que": "Fan art / 3D con licencia libre de un sitio (punto 3), útil para maquetar en Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-tmWTkx4Plhd8czuMmZMoIbu7qNn",
+  "fuente": "Sketchfab API v3 (ya en datos-imagen.md)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D 'Ice Axe (DMM Rebel)' por Yogensia, 237 me gusta: el piolet icónico de Rise/Shadow",
+  "para_que": "Fan art / 3D con licencia libre de un objeto icónico (punto 3)",
+  "licencia": "CC Attribution-NonCommercial-ShareAlike"
+ },
+ {
+  "url": "https://www.tombraider.com/news/cosplay",
+  "fuente": "tombraider.com (sección oficial de noticias)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Listado oficial de 'Cosplay Guides' y 'Gear Up Guides' de Crystal Dynamics, un artículo por outfit",
+  "para_que": "Fuente de materiales exactos de vestuario (punto 15) y apoyo oficial al cosplay (punto 23)",
+  "licencia": "© Crystal Dynamics group of companies, página informativa pública"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_Crossovers",
+  "fuente": "Fandom (tombraider.fandom.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página wiki con más de 20 colaboraciones oficiales de Tomb Raider, cada una con fuente primaria citada",
+  "para_que": "Colaboraciones y cruces (punto 23)",
+  "licencia": "Texto de la wiki (CC BY-SA), no es una imagen"
+ },
+ {
+  "url": "https://www.dafont.com/tomb-raider2.font",
+  "fuente": "dafont.com (fuente 'Tomb Raider' / 'TR Heavy' por Navin_Ad)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente TrueType gratuita que imita el logo clásico de Tomb Raider; verificada con fontTools: incluye á é í ó ú, Ñ/ñ, ¿ y ¡",
+  "para_que": "Letra libre para el logo/título de la lámina (punto 5)",
+  "licencia": "100% Free (dafont)"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Oswald",
+  "fuente": "Google Fonts / Fontsource (Oswald)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente sans condensada en mayúsculas, parecida a la interfaz de la trilogía reboot; verificada con fontTools con todos los caracteres necesarios",
+  "para_que": "Letra libre para interfaz/subtítulos de la lámina (punto 5)",
+  "licencia": "OFL-1.1 (Open Font License)"
+ },
+ {
+  "url": "https://fonts.google.com/specimen/Bebas+Neue",
+  "fuente": "Google Fonts / Fontsource (Bebas Neue)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Fuente condensada de alto impacto en mayúsculas; verificada con fontTools con todos los caracteres necesarios",
+  "para_que": "Letra libre para texto gritado/impacto (punto 5)",
+  "licencia": "OFL-1.1 (Open Font License)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d86c93aaba48423bad3083f5cc495ae1",
+  "fuente": "Sketchfab (autor: YØD)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D fan-made de Lara Croft, 246 898 vértices, descargable",
+  "para_que": "Referencia/rig 3D libre para posar en Blender (punto 18)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9834098be1e5431bbcf59d9fab0b3c18",
+  "fuente": "Sketchfab (autor: Vala)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D fan-made de Lara Croft, 67 062 vértices (más ligero), descargable",
+  "para_que": "Referencia/rig 3D libre para posar en Blender (punto 18)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-5a62592e2c9d41be96ea888472779544",
+  "fuente": "Sketchfab (autor: patrix)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de templo maya en ruinas, descargable",
+  "para_que": "Objeto/sitio real para escena en Blender (puntos 18 y 25; encaja con 'exploración, ruinas' del encargo)",
+  "licencia": "CC Attribution-ShareAlike"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-dfed3270c27545f98abb26df68df05fc",
+  "fuente": "Sketchfab (autor: tonyflanagan)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D de ruinas antiguas y escombros, descargable",
+  "para_que": "Objeto/sitio real para escena en Blender (punto 18)",
+  "licencia": "CC Attribution-ShareAlike"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Gravel043",
+  "fuente": "ambientCG (API v2)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Textura PBR de grava/tierra (CC0)",
+  "para_que": "Material de terreno de excavación en Blender (punto 18)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Trinity_(Survivor_Timeline)",
+  "fuente": "Fandom tombraider.fandom.com",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la organización Trinity: estructura, líderes, aliados y enemigos",
+  "para_que": "Mundo y símbolos (punto 25)",
+  "licencia": "Wiki de fans (CC BY-SA, texto)"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Yamatai",
+  "fuente": "Fandom tombraider.fandom.com",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del reino perdido de Yamatai (Tomb Raider 2013)",
+  "para_que": "Mundo y arcos de la historia (punto 25)",
+  "licencia": "Wiki de fans (CC BY-SA, texto)"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Kitezh",
+  "fuente": "Fandom tombraider.fandom.com",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la ciudad perdida de Kitezh (Rise of the Tomb Raider)",
+  "para_que": "Mundo y arcos de la historia (punto 25)",
+  "licencia": "Wiki de fans (CC BY-SA, texto)"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Divine_Source",
+  "fuente": "Fandom tombraider.fandom.com",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del artefacto Divine Source, con referencia primaria a la charla de GDC 'Raid on Rise'",
+  "para_que": "Objeto icónico y reglas del mundo (punto 25)",
+  "licencia": "Wiki de fans (CC BY-SA, texto)"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_(Dark_Horse_Comics)",
+  "fuente": "Fandom tombraider.fandom.com",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de los cómics oficiales Dark Horse (2014-), guionistas y arcos",
+  "para_que": "Cómo hablan/piensan en cómic (punto 6) y obras/creadores relacionados (punto 24)",
+  "licencia": "Wiki de fans (CC BY-SA, texto)"
+ },
+ {
+  "url": "https://www.elopezr.com/the-rendering-of-rise-of-the-tomb-raider/",
+  "fuente": "elopezr.com (blog técnico de renderizado)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Desglose técnico del renderizado de Rise of the Tomb Raider: PureHair, atlas de sombras, render diferido",
+  "para_que": "Técnica y cómo replicarla (punto 18)",
+  "licencia": "Artículo técnico público, citado como fuente"
+ },
+ {
+  "url": "https://80.lv/articles/combining-zbrush-and-substance-designer-for-games",
+  "fuente": "80.lv (entrevista a Dannie Carlone, Crystal Dynamics)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Entrevista real a un artista de entornos de Crystal Dynamics sobre el flujo PBR/ZBrush/Substance Designer en Rise of the Tomb Raider",
+  "para_que": "Técnica y cómo replicarla (punto 18)",
+  "licencia": "Artículo público, citado como fuente"
+ },
+ {
+  "url": "https://core-design.com/interview23.html",
+  "fuente": "core-design.com (archivo de entrevistas, 1996)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Entrevista de época a Toby Gard, creador de Lara Croft, sobre las influencias de Tomb Raider",
+  "para_que": "Obras parecidas e influencias (punto 24)",
+  "licencia": "Artículo público, citado como fuente"
+ },
+ {
+  "url": "https://archive.org/details/tomb_raider_legend_xbox360",
+  "fuente": "Internet Archive / Eidos Interactive",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Tráiler oficial de Tomb Raider: Legend para Xbox 360 (no medido en fotograma propio, sólo ficha)",
+  "para_que": "Vídeo/tráiler adicional documentado (punto 10)",
+  "licencia": "Material promocional oficial de Eidos Interactive, de época; sólo como referencia"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_(2013_Game)/Music",
+  "fuente": "Tomb Raider Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la banda sonora de Tomb Raider (2013): compositor Jason Graves, instrumento a medida, lista de pistas",
+  "para_que": "Música y ambiente sonoro (punto 9)",
+  "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); usar como dato, citando la fuente"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Rise_of_the_Tomb_Raider/Music",
+  "fuente": "Tomb Raider Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la banda sonora de Rise of the Tomb Raider: compositor Bobby Tahouri, tema 'I Shall Rise' de Karen O",
+  "para_que": "Música y colaboración musical (punto 9)",
+  "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Shadow_of_the_Tomb_Raider/Music",
+  "fuente": "Tomb Raider Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la banda sonora de Shadow of the Tomb Raider: compositor Brian D'Oliveira, lista de pistas con nombres de escenas clave",
+  "para_que": "Música y escenas emotivas (punto 9)",
+  "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game)/Music",
+  "fuente": "Tomb Raider Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la banda sonora del Tomb Raider original: compositor Nathan McCree, hecha con sintetizador",
+  "para_que": "Música original de la franquicia (punto 9)",
+  "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "http://www.musicoftombraider.com/2013/11/interview-with-tomb-raider-legacy.html",
+  "fuente": "Music of Tomb Raider (blog especializado), entrevista de Daryl Baxter",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Entrevista a Nathan McCree (nov-2013) sobre la falta de un tema propio en el reboot de 2013 ('a complete disaster')",
+  "para_que": "Cita de compositor, comparación con la franquicia (puntos 9 y 24)",
+  "licencia": "Artículo de blog; cita textual con atribución"
+ },
+ {
+  "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_(2013_Game)/Videos",
+  "fuente": "Tomb Raider Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Listado oficial de tráilers y vídeos de Tomb Raider (2013), incluido 'Turning Point Debut Trailer'",
+  "para_que": "Confirmación de tráilers oficiales (punto 10)",
+  "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+ },
+ {
+  "url": "https://www.tiktok.com/tag/laracroft",
+  "fuente": "TikTok",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Etiqueta #laracroft con millones de publicaciones; edits y comparaciones de diseño de personaje",
+  "para_que": "Tendencia de TikTok (punto 10)",
+  "licencia": "Página pública de la plataforma; sólo como referencia de tendencia, no de un clip concreto"
+ },
+ {
+  "url": "https://musicbrainz.org/release-group/917490b5-7e77-4012-926c-e73fe8d78687",
+  "fuente": "MusicBrainz",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de la banda sonora de Tomb Raider (2013) por Jason Graves, publicada 2013-03-05",
+  "para_que": "Música oficial publicada (punto 9)",
+  "licencia": "Datos abiertos de MusicBrainz (CC0/PD para metadatos)"
+ },
+ {
+  "url": "https://musicbrainz.org/release-group/4351e26e-7a97-41b5-afae-55bae4b616b7",
+  "fuente": "MusicBrainz",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "The Tomb Raider Suite (2018): re-grabación orquestal de Nathan McCree con la Royal Philharmonic Orchestra",
+  "para_que": "Música y su reinterpretación posterior (punto 9)",
+  "licencia": "Datos abiertos de MusicBrainz (CC0/PD para metadatos)"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/4y/wallhaven-4ymmyd.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5120,
+  "alto": 2880,
+  "que_es": "Fondo de pantalla (Ezio Auditore da Firenze, Borderlands 2, Devil May Cry, Dishonored, Final Fantasy (series), Batman)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por JT42; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/538/c96f58e9cde2467a9fe52402dc0da12228064651.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3200,
+  "alto": 4525,
+  "que_es": "Fan art de chun-li (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p8/wallhaven-p832ze.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3000,
+  "alto": 4000,
+  "que_es": "Fondo de pantalla (digital art, artwork, portrait display, women, video games, brunette)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por PhoenixBlood; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/28/wallhaven-289mwx.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3000,
+  "alto": 3840,
+  "que_es": "Fondo de pantalla (illustration, artwork, digital art, fan art, drawing, women)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Psychofruit; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/dp/wallhaven-dp8y33.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2795,
+  "alto": 4000,
+  "que_es": "Fondo de pantalla (Tomb Raider, video games, video game girls, fan art, video game characters, jungle)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/f/f4/Tr2-049.jpg",
+  "fuente": "Fandom tombraider",
+  "ancho": 3391,
+  "alto": 3241,
+  "que_es": "Lara Croft: Tr2-049.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/9/98/Tr3lara.jpg",
+  "fuente": "Fandom tombraider",
+  "ancho": 3200,
+  "alto": 3200,
+  "que_es": "Lara Croft: Tr3lara.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/96/wallhaven-966rw1.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Shadow of the Tomb Raider, video games, Tomb Raider, blood, jungle, eclipse )",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por mOBSCENE; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/9m/wallhaven-9mrykw.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2339,
+  "alto": 3508,
+  "que_es": "Fondo de pantalla (Tomb Raider, video games, video game girls, brunette, ponytail, bow)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ThorRagnarok; © su autor"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/2/28/Tr5-018.jpg",
+  "fuente": "Fandom tombraider",
+  "ancho": 2400,
+  "alto": 3400,
+  "que_es": "Lara Croft: Tr5-018.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/567/df3bfac25e6e08c6489ea961a64e2bb62d896df2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 6566,
+  "que_es": "Fan art de link (http://img33.pixiv.net/img/atelieriji/16868303.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de pikachu (https://twitter.com/totototo0507/status/1807802641482985883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/md/wallhaven-mdrxl8.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2000,
+  "alto": 2667,
+  "que_es": "Fondo de pantalla (fire, dark, Tomb Raider (2013), video game girls, Tomb Raider, bow)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por macmln; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/341/90882d9cc8205320fbefeb575a78e62654e896f1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2770,
+  "alto": 1867,
+  "que_es": "Fan art de cloud_strife (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ym/wallhaven-ym7m9x.png",
+  "fuente": "Wallhaven",
+  "ancho": 3440,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (video games, ultrawide, Shadow of the Tomb Raider, Tomb Raider, video game art, eclipse )",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Highwind; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/648/5f8b26e53c25bda7eac7d000d46f7837.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1717,
+  "alto": 2447,
+  "que_es": "Fan art de lara_croft (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/788/54325ea39f0baa982f77de2fcce49be9f2c6f171.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2027,
+  "alto": 2012,
+  "que_es": "Fan art de pikachu (http://img24.pixiv.net/img/pix-cocobank-loco/25473865.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/g8/wallhaven-g8xz5e.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1406,
+  "que_es": "Fondo de pantalla (artwork, bow, archer, Shadow of the Tomb Raider, Lara Croft (Tomb Raider), bow and arrow)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/3/35/LegendArtwork.jpg",
+  "fuente": "Fandom tombraider",
+  "ancho": 2000,
+  "alto": 1600,
+  "que_es": "Lara Croft: LegendArtwork.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/20/1f00a70194c6a61b7598f4a0be8d4d083100e608.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1399,
+  "que_es": "Fan art de link (http://img05.pixiv.net/img/hanokage/3732379.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2590/2dc636a693fd544cfa4e5d1f7c44b4cd55cc438d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 2279,
+  "que_es": "Fan art de chun-li (http://origin-orig.deviantart.net/ad74/f/2019/154/e/6/chun_li_by_cheshirrrrr-dd8fz40.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/0/0d/LaraAngel0.jpg",
+  "fuente": "Fandom tombraider",
+  "ancho": 1600,
+  "alto": 1600,
+  "que_es": "Lara Croft: LaraAngel0.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/486/930e2b7c8d355150d85ad9aff9f7d01152cb5be2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3200,
+  "alto": 773,
+  "que_es": "Fan art de cloud_strife (http://img36.pixiv.net/img/rrrmaj/12194821.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/5w/wallhaven-5wxgl3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2048,
+  "alto": 1125,
+  "que_es": "Fondo de pantalla (arrows, monkey, Aztec, jungle, Tomb Raider, Lara Croft (Tomb Raider))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por shashankmk36; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/3090/9e7a5d43657a20b9295d068618737fa83fc99322.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1240,
+  "alto": 1754,
+  "que_es": "Fan art de chun-li (https://i.pximg.net/img-original/img/2020/09/30/01/33/10/84699365_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/laracroft/images/e/e3/TRU_Lara_Infront_of_Mansion.jpg",
+  "fuente": "Fandom tombraider",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Lara Croft: TRU Lara Infront of Mansion.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/878/912a9a79c91667316ea3420e02b66315f219738f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fan art de cloud_strife (http://ilolamai.deviantart.com/art/Gamer-319370976)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6k/wallhaven-6kq98q.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (artwork, illustration, mountains, Tomb Raider, video game art, Lara Croft (Tomb Raider))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por JustPie; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/md/wallhaven-md87zy.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Tomb Raider, video games, video game art, video game girls, girls with guns, gun)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6d/wallhaven-6dejpx.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Lara Croft (Tomb Raider), Shadow of the Tomb Raider, eclipse , tomb, video games, video game characters)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por santigirardi111; © su autor"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_4ef0868ecfc6b19bc1af18b88cabe33fe8147cf7.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Rise of the Tomb Raider™",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_be8bcd75e7dbf8cf7d8c861e15c12211b39f160d.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Rise of the Tomb Raider™",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_3b46aa127290e6ad2f62c125096bf5e901458ad6.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Rise of the Tomb Raider™",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_0602fd918166985793cbae01df4c8a944f1f76dd.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Rise of the Tomb Raider™",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/53ebb702379303bc89a71106d74650a8ce8c5411/ss_53ebb702379303bc89a71106d74650a8ce8c5411.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Legacy of Atlantis",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/ed2cab36765386632d74491a6e53d4b461e185e3/ss_ed2cab36765386632d74491a6e53d4b461e185e3.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Legacy of Atlantis",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/5403be801ad2b300abf174f3937c989fdb4007a5/ss_5403be801ad2b300abf174f3937c989fdb4007a5.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Legacy of Atlantis",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/b9154d52d41a8676bab28f8e74a459532990734b/ss_b9154d52d41a8676bab28f8e74a459532990734b.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Legacy of Atlantis",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558670/d1f378b21c18d93cd08a4ab396c10fae7841a0fd/ss_d1f378b21c18d93cd08a4ab396c10fae7841a0fd.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Legacy of Atlantis",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_04b30aaa0ce083b1bcff63d06432707ab9c35c74.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Shadow of the Tomb Raider: Definitive Edition",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_3f370f69eef0caeceb533d06925cc48f0f26c83c.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Shadow of the Tomb Raider: Definitive Edition",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_06a2446b7ccef5eaac1ef4200acdb3f02dac9ae0.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Shadow of the Tomb Raider: Definitive Edition",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_794a3ecd4ae51313f8cfffbc6b3d8b91c665b12b.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Shadow of the Tomb Raider: Definitive Edition",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_8907e0a624a1113be01fa1b426d0e3ab0971e7d2.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Shadow of the Tomb Raider: Definitive Edition",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_65861a8ea2efcb01fca8aa4b1233663bb053ab54.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider Game of the Year",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_cd920308517efb19c11b44e251af89e40fb412d5.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider Game of the Year",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_8f34a87469f3a0c73049cbd0469bdff6e3d22713.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider Game of the Year",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_822faf14b04eac6140067109e75a5a859f4f42db.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider Game of the Year",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_7d3c4be984498b4374210a3291e5cf266fa6dd32.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider Game of the Year",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2525380/ss_ab625d27d9a66199618c9abe37178350148c9bd2.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider IV-VI Remastered",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2525380/ss_64196fd927cad1f4c53274b2e60a9f04fc1a2319.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider IV-VI Remastered",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2525380/ss_ba5e1a75b235479a1424d7a4ee98c3c2df974f22.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider IV-VI Remastered",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2525380/ss_5e5ce135d8ec0ac059d96f6ad5cf0060d7d198f7.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider IV-VI Remastered",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2525380/ss_b4948762c6db92dbefaa6d69f3d368bd76406795.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider IV-VI Remastered",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2525380/ss_3825906d16935a1d9fe11ef9475723277dd11e06.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider IV-VI Remastered",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8000/0000002092.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Anniversary",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8000/0000002093.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Anniversary",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8000/0000002094.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Anniversary",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8000/0000002095.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Anniversary",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8000/0000002091.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Anniversary",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8000/0000002096.1920x1080.jpg",
+  "fuente": "Steam",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Captura de Tomb Raider: Anniversary",
+  "para_que": "interfaz, menús y cuadro de diálogo del juego",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/768/e40bdc175fe98f678580f5fe88d377b7bfdabdaa.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1223,
+  "que_es": "Fan art de link (http://img20.pixiv.net/img/yuinopartyyou127/25063229.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1294/a3bfe1eae45ccced4c0f5fba00b088814d2e37ae.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1500,
+  "que_es": "Fan art de chun-li (http://i2.pixiv.net/img-original/img/2014/10/03/23/34/36/46331497_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1010/7dc88b3524a49e146289d2b8bf7c36100138e82d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1415,
+  "alto": 1000,
+  "que_es": "Fan art de lara_croft (http://i1.pixiv.net/img09/img/animal69/34401357.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/266/945a7165ced9a01424323520322346316f7425e0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 960,
+  "que_es": "Fan art de link (http://img12.pixiv.net/img/bonorisu/1642048.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1050/5609929453a2559a0a8c6869583e6c17d0028b32.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1088,
+  "alto": 1024,
+  "que_es": "Fan art de mario (https://i.pximg.net/img-original/img/2025/09/02/11/09/51/134621527_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/5575/15242506136_5d7b4f38aa_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/1704/24729073555_52b0718fb2_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 1024,
+  "que_es": "Rise of the Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://safebooru.org/images/1260/77c544807f98ecb61454f21b30570af41d8231fd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1128,
+  "que_es": "Fan art de lara_croft (http://fc04.deviantart.net/fs70/i/2014/036/2/2/priorities_by_trixdraws-d758q9p.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/683/45fd23d64f7b7772c91f6617dfc8fba655fa1940.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 750,
+  "alto": 1100,
+  "que_es": "Fan art de link (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=16376093)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2996/05478e99d4a37f9579cd1d1172e31491bccac8a3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 765,
+  "alto": 1035,
+  "que_es": "Fan art de lara_croft (https://vashito.tumblr.com/post/619302413466222592)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/768/f04667f27cf2d0dc37868652d5f93647f7fb1837.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de lara_croft (http://img07.pixiv.net/img/sorakusa/18530834.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/51/5abd0210bc6ce4e62194dbf5384778c041aa8362.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de pikachu (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/993/f3c6da6cbe41f861479e78bd78862e2e365bd91e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de pikachu (http://i1.pixiv.net/img35/img/empty_p/34324859.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/3871/14746341047_ef02f41d96_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/5561/14877402921_932f02e26f_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/3839/15078883388_df090e10f3_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/5596/14693997150_fdb2aa689e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/1538/24735838456_a645b68e79_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Rise of the Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/5580/14693843819_c0a95bcc14_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/703/20840032200_5a917ace40_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/3868/14746031409_413479a4d0_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/5494/14437201043_fd4c2eeb6f_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Lara Croft Reboot by Kanracakes JAFAX 2013 Tomb Raider Cosplay",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor WhiteDesertSun"
+ },
+ {
+  "url": "https://live.staticflickr.com/3907/14415744882_0fdbb7ce22_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Lara Croft Reboot by Kanracakes JAFAX 2013 Tomb Raider Cosplay",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor WhiteDesertSun"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/40802146332_77b734d9e6_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Tomb Raider:",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Brick.Ninja"
+ },
+ {
+  "url": "https://safebooru.org/images/428/19cad071755282d1845291b53000a8b64dd4b169.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 675,
+  "que_es": "Fan art de cloud_strife (http://img12.pixiv.net/img/pix-hachidori/7161529.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/134/2b6ca51e0f54efe987fb0ae58de158cdb61de272.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 603,
+  "alto": 997,
+  "que_es": "Fan art de chun-li (http://img08.pixiv.net/img/thomasz/6171468.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/1555/24644401152_37618f0df2_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Rise of the Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://safebooru.org/images/519/15448ac17a26bd7b6c3418546f968154948449d9.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 545,
+  "que_es": "Fan art de samus_aran (http://img60.pixiv.net/img/y1510/14981003.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/529/7490113c452d93bc521b352969eb2c80ec60eee1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 622,
+  "alto": 872,
+  "que_es": "Fan art de cloud_strife (http://img39.pixiv.net/img/yukinari000/15191523.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/3879/14880723395_00087354bb_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 512,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/5751/21035336611_144e704966_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 512,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/1539/24624936511_afa86bb425_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 512,
+  "que_es": "Rise of the Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/5576/15265146742_70d1bbc6f7_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 427,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://live.staticflickr.com/3885/14887643955_58706c4962_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 427,
+  "que_es": "Tomb Raider",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor K-putt"
+ },
+ {
+  "url": "https://safebooru.org/images/589/dcf303925b63cca685742d2db2a9492dc2a88f80.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 640,
+  "alto": 633,
+  "que_es": "Fan art de samus_aran (http://img41.pixiv.net/img/10111139/17694481.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/567/ff3860748c0669c8733a4a78fbc53210689da42e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 699,
+  "alto": 431,
+  "que_es": "Fan art de link (http://img18.pixiv.net/img/kametora/16882180.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2566/61b71395b62ff670d0b69cdb86c2fd09068fef97.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 512,
+  "alto": 448,
+  "que_es": "Fan art de mario (https://www.reddit.com/r/touhou/comments/323jka/mario_paint_pc98_reimu/)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/350/203444186c4166938bb877628beaa44cc4b19484.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 400,
+  "alto": 533,
+  "que_es": "Fan art de cloud_strife (http://img13.pixiv.net/img/co-ro/1834637.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3a3ffc63c5874046bf2a452be9993dd0",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Lara Sunglasses de SupaRioAmateur",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial-ShareAlike"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2e729e157bab4d22aad095b568aaa264",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Lara Croft - Default Style de Yxboireal",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7e4d99b7c69b4312b1402fc3d154c8d3",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: [DBD TOMB RAIDER] Lara Croft - Default de [•Rain•]",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-bfe206cbb3394e3d8f169ac104b6e17c",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Lara Croft 3d Model de ayushtripathi1268",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-8c08423bd7d44e7fabea8351431f5910",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Lara Croft - Shorts Style de Yxboireal",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-f3d79587b19048889e853bf010732bd5",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Fortnite Lara Croft Skin Version 1 de Neut2000",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ }
+]

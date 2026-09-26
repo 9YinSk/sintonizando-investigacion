@@ -1,0 +1,65 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Studio_Ghibli.svg/revision/latest?cb=20170514021826",
+  "fuente": "Logos Wiki / Logopedia (Fandom), vector alojado en static.wikia.nocookie.net (pide cabecera Referer: https://www.fandom.com/)",
+  "ancho": 1000,
+  "alto": 481,
+  "que_es": "Logo principal del estudio (Rey Totoro de perfil + Chibi Totoro), en negro puro sobre fondo transparente, con 'STUDIO GHIBLI' en Futura",
+  "para_que": "referencia exacta de la tipografía del logo y su trazo (punto 5); tamaño confirmado con la API de imageinfo de Fandom",
+  "licencia": "Marca registrada de Studio Ghibli; vector alojado por Fandom/Logopedia, no es el archivo oficial del estudio (uso como referencia, no para redistribuir como propio)"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/noto-serif-jp@latest/files/noto-serif-jp-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org / cdn.jsdelivr.net)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Noto Serif JP (mismo diseño que Source Han Serif de Adobe) — comprobada con fontTools: á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü, todas presentes",
+  "para_que": "letra libre para rótulos/carteles del mundo y créditos con aspecto mincho formal (punto 5), asociada por kyoukasho.net al look de Porco Rosso / La Colina de las Amapolas",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://cdn.jsdelivr.net/npm/@fontsource/jost@latest/files/jost-latin-400-normal.woff2",
+  "fuente": "Google Fonts vía Fontsource (api.fontsource.org / cdn.jsdelivr.net)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letra libre Jost, geométrica sans-serif con 'a' de un solo piso — alternativa gratuita a Futura con 90% de similitud según fontalternatives.com; comprobada con fontTools: cubre tildes, ñ, ¿ y ¡ completas",
+  "para_que": "letra libre para el logo/título del canal, equivalente a la Futura real del logo de Studio Ghibli (punto 5)",
+  "licencia": "SIL Open Font License 1.1"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/totoro001.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp/works/totoro/), fotograma oficial de libre uso",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Mei y Satsuki corriendo hacia la casa nueva (Mi Vecino Totoro): fondo pintado a mano con capas de vegetación, veladuras de luz y línea de contorno constante",
+  "para_que": "referencia visual directa de la técnica de fondo pintado a mano y la luz (punto 18; coincide con 'cómo se logra: fondos, luz' del encargo)",
+  "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/mononoke001.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp/works/mononoke/), fotograma oficial de libre uso",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Ashitaka y un anciano bajo un tejado de paja, luz de contraluz recortando las siluetas contra el cielo azul",
+  "para_que": "ejemplo de manejo de luz y sombreado plano por capas, útil para el punto 18 (contraluz, paleta reducida en interiores)",
+  "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/laputa001.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp/works/laputa/), fotograma oficial de libre uso",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Sheeta cayendo con la piedra de levitación brillando en su pecho (El Castillo en el Cielo)",
+  "para_que": "el amuleto/piedra de levitación es uno de los objetos-símbolo más reconocibles del universo Miyazaki (punto 25)",
+  "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
+ },
+ {
+  "url": "https://www.ghibli.jp/gallery/nausicaa001.jpg",
+  "fuente": "Studio Ghibli (ghibli.jp/works/nausicaa/), fotograma oficial de libre uso",
+  "ancho": 1920,
+  "alto": 1038,
+  "que_es": "Los Guerreros Gigantes (Kyoshinhei) incendiando una ciudad, escena del prólogo sobre los 'Siete Días de Fuego'",
+  "para_que": "símbolo de origen/mito fundacional recurrente en el mundo Miyazaki, citado en varias películas como advertencia ecológica (punto 25)",
+  "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
+ }
+]

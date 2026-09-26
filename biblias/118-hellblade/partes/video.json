@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://store.steampowered.com/app/414340",
+    "fuente": "Steam (tienda oficial, appid 414340)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tráiler oficial de Hellblade: Senua's Sacrifice (2:01), servido por el CDN de Steam a 1920x1080 real (medido extrayendo fotogramas con ffmpeg)",
+    "para_que": "fotogramas de escenas icónicas en 1080p (punto 2), poses de Senua (punto 14), paleta de niebla y luz (punto 4)",
+    "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia, no usar el vídeo entero"
+  },
+  {
+    "url": "https://store.steampowered.com/app/2461850",
+    "fuente": "Steam (tienda oficial, appid 2461850)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tráiler oficial de Senua's Saga: Hellblade II (2:34, el de #TheGameAwards), servido por el CDN de Steam a 1920x1080 real",
+    "para_que": "fotogramas de escenas icónicas en 1080p (punto 2), poses de Senua (punto 14), paleta de niebla y luz (punto 4)",
+    "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia, no usar el vídeo entero"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256691711/movie.293x165.jpg?t=1501516541",
+    "fuente": "Steam (miniatura oficial del tráiler)",
+    "ancho": 277,
+    "alto": 165,
+    "que_es": "Miniatura del tráiler oficial de Hellblade: Senua's Sacrifice",
+    "para_que": "icono/miniatura de referencia para enlazar el tráiler en la biblia",
+    "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987683/movie.293x165.jpg?t=1702054568",
+    "fuente": "Steam (miniatura oficial del tráiler)",
+    "ancho": 293,
+    "alto": 164,
+    "que_es": "Miniatura del tráiler oficial de Senua's Saga: Hellblade II",
+    "para_que": "icono/miniatura de referencia para enlazar el tráiler en la biblia",
+    "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257181429/c31598b64a402f041b30f9e0effa108347dda628/movie_600x337.jpg?t=1780854771",
+    "fuente": "Steam (miniatura oficial del tráiler)",
+    "ancho": 600,
+    "alto": 337,
+    "que_es": "Miniatura del tráiler «Enhanced release trailer» de Senua's Saga: Hellblade II",
+    "para_que": "icono/miniatura de referencia, versión Enhanced (ray tracing/DLSS/FSR)",
+    "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8qciu2?t=7",
+    "fuente": "Dailymotion (re-subido por JeuxVideo.com)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler de Senua's Saga: Hellblade II, minuto 0:07: Senua de espaldas frente a la costa con niebla",
+    "para_que": "identificar la escena de la costa (Orkney/Islandia) cuando YouTube no esté disponible",
+    "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x5v5lz0?t=105",
+    "fuente": "Dailymotion (re-subido por HobbyConsolas)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler de Hellblade: Senua's Sacrifice, minuto 1:45: silueta de Senua caminando hacia la luz, cierre del tráiler",
+    "para_que": "identificar la escena de cierre cuando YouTube no esté disponible",
+    "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/HellbladeSenuasSacrificeEndingSongIllusionByVnvNation",
+    "fuente": "Internet Archive",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Audio: «Illusion» de VNV Nation, la canción de los créditos finales de Hellblade: Senua's Sacrifice",
+    "para_que": "branding sonoro / música de referencia para la lámina o el canal (punto 9)",
+    "licencia": "© VNV Nation / SPV Recordings; sólo referencia, no redistribuir el audio completo"
+  },
+  {
+    "url": "https://open.spotify.com/track/1UaYT2vE5plDKPD8kKOVGQ",
+    "fuente": "Spotify",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "«Hela», tema del jefe final de Hellblade: Senua's Sacrifice, de David García Díaz y Passarella Death Squad",
+    "para_que": "identificar el tema del combate final (punto 9)",
+    "licencia": "© titulares del sello; sólo referencia"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=85uI1LA5lcc",
+    "fuente": "YouTube (extendido, subida de fan con el audio oficial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "«Seidh» de Heilung, tema usado en el tráiler de Hellblade II de The Game Awards (según el título del vídeo)",
+    "para_que": "identificar la música del tráiler cuando YouTube esté disponible (punto 9) — dato con una sola fuente, ⚠️",
+    "licencia": "© Heilung / sello; sólo referencia"
+  }
+]

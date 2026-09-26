@@ -103,11 +103,14 @@ def info_imagenes(wiki, titulos, ancho_miniatura=300):
 
 def hojas_de_contacto(imgs, carpeta, por_hoja=48, columnas=8, celda=(300, 250)):
     carpeta.mkdir(parents=True, exist_ok=True)
-    try:
-        letra = ImageFont.truetype("arialbd.ttf", 18)
-        chica = ImageFont.truetype("arial.ttf", 13)
-    except OSError:
-        letra = chica = ImageFont.load_default()
+    dv = "/usr/share/fonts/truetype/dejavu/DejaVuSans"
+    for negrita, normal in (("arialbd.ttf", "arial.ttf"), (dv + "-Bold.ttf", dv + ".ttf")):
+        try:
+            letra = ImageFont.truetype(negrita, 18)
+            chica = ImageFont.truetype(normal, 13)
+            break
+        except OSError:
+            letra = chica = ImageFont.load_default()
     rutas = []
     for h in range(math.ceil(len(imgs) / por_hoja)):
         tanda = imgs[h * por_hoja:(h + 1) * por_hoja]

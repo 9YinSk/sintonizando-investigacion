@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x9a858e?t=22",
+    "fuente": "Netflix (Dailymotion, tráiler oficial español latino)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de Sakamoto diciendo «No volveré a ser un asesino», voz de Óscar López",
+    "para_que": "cara y frase textual del doblaje latino, punto 8/13",
+    "licencia": "© Netflix / TMS Entertainment; sólo referencia, con enlace y minuto"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9a858e?t=58",
+    "fuente": "Netflix (Dailymotion, tráiler oficial español latino)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de Shin gritando «A partir de ahora, voy a pelear en serio»",
+    "para_que": "cara de rabia/determinación con minuto, punto 13",
+    "licencia": "© Netflix / TMS Entertainment; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9a858e?t=31",
+    "fuente": "Netflix (Dailymotion, tráiler oficial español latino)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de Lu Shaotang sonriendo, contenta",
+    "para_que": "cara de alegría de Lu con minuto, punto 13",
+    "licencia": "© Netflix / TMS Entertainment; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9c2low?t=74",
+    "fuente": "Netflix (Dailymotion, tráiler final, audio portugués pero mismo dibujo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma de Sakamoto con pánico cómico al oír «¡divorcio!»",
+    "para_que": "cara de miedo/pánico de Sakamoto con minuto, punto 13",
+    "licencia": "© Netflix / TMS Entertainment; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264336-W5eQn2SL4P7N.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Yoichi Nagumo (pelo negro, cuello de piel)",
+    "para_que": "identificar a Nagumo en fotogramas; es el secundario más querido, punto 7",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196521-bedknWj9u7s2.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Shin Asakura (pelo rubio)",
+    "para_que": "identificar a Shin en fotogramas del tráiler, punto 13",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207272-qQ7YZOKtbzzZ.png",
+    "fuente": "AniList",
+    "ancho": 230,
+    "alto": 345,
+    "que_es": "Retrato de Lu Shaotang (pelo rosa/borgoña)",
+    "para_que": "identificar a Lu en fotogramas del tráiler, punto 13",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9a858e",
+    "fuente": "Netflix (Dailymotion)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tráiler oficial completo, doblaje español latino confirmado (108 s)",
+    "para_que": "fuente primaria de frases y caras del doblaje latino, puntos 8 y 13",
+    "licencia": "© Netflix / TMS Entertainment; sólo referencia, no para descargar completo"
+  },
+  {
+    "url": "https://sakamoto-days.fandom.com/wiki/Popularity_Polls",
+    "fuente": "Sakamoto Days Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tablas completas de las 2 encuestas oficiales de popularidad de Shueisha",
+    "para_que": "datos exactos de votos del punto 7 (no es imagen, es texto/tabla)",
+    "licencia": "texto de la wiki, con fuente citada (Shonen Jump)"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Sakamoto_Days",
+    "fuente": "Doblaje Wiki",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa del doblaje latino: estudio, dirección, reparto por personaje",
+    "para_que": "tabla del punto 8 (no es imagen, es texto/tabla)",
+    "licencia": "texto de la wiki"
+  }
+]

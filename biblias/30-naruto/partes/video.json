@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=1194",
+    "fuente": "Internet Archive · naruto-completo (doblaje latino, ep. 005)",
+    "ancho": 1280,
+    "alto": 966,
+    "que_es": "Fotograma real de «¡Aprobados!»: Naruto atado al tocón riendo, Kakashi saltando con Sakura, cielo nocturno morado",
+    "para_que": "Corrige la pose y la luz que la biblia daba «de memoria» para el cierre de la prueba de los cascabeles",
+    "licencia": "© Masashi Kishimoto / Shueisha / Studio Pierrot; sólo referencia, mirado con fotogramas.py"
+  },
+  {
+    "url": "https://archive.org/download/naruto-completo/Naruto%20-%20005.mp4?t=967",
+    "fuente": "Internet Archive · naruto-completo (doblaje latino, ep. 005)",
+    "ancho": 1280,
+    "alto": 966,
+    "que_es": "Kakashi de espaldas ante la piedra de los caídos, mano en el bolsillo, luz de atardecer anaranjada; Sakura con el vestido rojo cereza visible",
+    "para_que": "Pose de «pensar/serio»; medí el hex del vestido de Sakura en esta imagen (#9C2A38)",
+    "licencia": "© Masashi Kishimoto / Shueisha / Studio Pierrot; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/naruto-completo/Naruto%20-%20025.mp4?t=648",
+    "fuente": "Internet Archive · naruto-completo (doblaje latino, ep. 025)",
+    "ancho": 1280,
+    "alto": 966,
+    "que_es": "Naruto sentado en su pupitre del examen chūnin, brazo derecho en alto con el puño cerrado, sudando",
+    "para_que": "Pose real de «acepto el reto» (corrige la descripción «golpea la mesa y se levanta» de la biblia); sirve para personaje sentado que se anima",
+    "licencia": "© Masashi Kishimoto / Shueisha / Studio Pierrot; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/naruto-completo/Naruto%20-%20001.mp4?t=1241",
+    "fuente": "Internet Archive · naruto-completo (doblaje latino, ep. 001)",
+    "ancho": 1280,
+    "alto": 966,
+    "que_es": "Primer plano muy cerrado de la bandana de Konoha ya puesta, justo tras la graduación de Naruto",
+    "para_que": "Referencia de encuadre (primer plano extremo) para el momento de «felicitar/graduar»",
+    "licencia": "© Masashi Kishimoto / Shueisha / Studio Pierrot; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/naruto-completo/Naruto%20-%20086.mp4?t=1215",
+    "fuente": "Internet Archive · naruto-completo (doblaje latino, ep. 086)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Primer plano de Jiraiya con el rasguño rojo en la cara, bosque detrás, explicando el ejercicio del globo de agua (fase 1 del Rasengan)",
+    "para_que": "Confirma el minuto y la pose de «explicar un ejercicio» de la biblia",
+    "licencia": "© Masashi Kishimoto / Shueisha / Studio Pierrot; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/naruto-shippuden-lat/Naruto%20shippuden%20Lat%2086.mp4?t=900",
+    "fuente": "Internet Archive · naruto-shippuden-lat (doblaje latino, ep. 86)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Hidan con la capa de Akatsuki (torso descubierto, capa abierta) y el símbolo de la nube roja bien visible, en penumbra de bosque",
+    "para_que": "Medición real del hex de la capa de Akatsuki (#2A2B33) y de la nube roja (#431C29-#491B28), sustituye al color «de memoria» de la biblia",
+    "licencia": "© Masashi Kishimoto / Shueisha / Studio Pierrot; sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88r3bd",
+    "fuente": "Dailymotion (subido por FILMSTARTS)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Clip de un opening de Naruto Shippuden (1:32): siluetas del equipo 7, logo NARUTO a 0:16, Kakashi, Roca Hokage, atardecer final",
+    "para_que": "Referencia de encuadre, tipografía del logo en movimiento y paleta de un opening real, mirado fotograma a fotograma",
+    "licencia": "© titulares; sólo referencia; no confirmado qué número de opening es exactamente"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Silhouette_(Kana-Boon_song)",
+    "fuente": "Wikipedia (inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de «Silhouette» (KANA-BOON), opening 16 de Shippuden (ep. 380-405) y su viralización en TikTok como «hand seal dance»",
+    "para_que": "Fuente de la tendencia de vídeo/TikTok para el punto 10 del encargo",
+    "licencia": "Texto informativo; no es imagen para pegar"
+  }
+]

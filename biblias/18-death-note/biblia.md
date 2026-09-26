@@ -1,0 +1,2601 @@
+---
+tags: [biblia, serie, laminas]
+serie: "Death Note"
+canal: "#textos"
+fecha: 2026-09-24
+repaso: 2026-09-26
+---
+
+# Biblia · Death Note — para #textos
+
+> [!important] Cómo se hizo, y sus límites
+> - **Segunda pasada, 26-sep-2026, con la red abierta.** Un equipo de
+>   cuatro investigadores (imagen, vídeo, voz, texto) y un redactor. Se
+>   pudo usar: la wiki de Fandom por su API (`investigar_serie.py`, 1181
+>   imágenes, **3 hojas en `hojas/`**), Doblaje Wiki y The Dubbing
+>   Database por su API, **Internet Archive** (los 37 episodios, mirados
+>   fotograma a fotograma con `fotogramas.py`), Dailymotion (opening,
+>   ending y tráiler), la API de Sketchfab (licencias exactas), Wallhaven,
+>   Zerochan, ambientCG, AniList, Wikipedia, TV Tropes y Reddit por Arctic
+>   Shift. Sigue cerrado: **YouTube para bajar vídeo** («Sign in to confirm
+>   you're not a bot»); sí se leen sus páginas de resultados con vistas.
+>   Lo que cambió va justo debajo, en «Segunda pasada · qué cambió».
+> - **Primera pasada, 24-sep-2026.** La red de esa sesión estaba cerrada. Fandom (y Doblaje Wiki),
+>   Wikipedia, YouTube, Reddit, Arctic Shift, Wayback Machine,
+>   fonts.google.com y TV Tropes dan **403** (comprobado por la sesión
+>   principal; yo además choqué con Madhouse, Nlab, Sketchfab y otros). Por eso **no se pudo correr**
+>   `herramientas/investigar_serie.py`: entonces **no hubo hojas de
+>   contacto** (ahora sí, ver «Las hojas de contacto», tras §3).
+> - **Segunda pasada**: lo que ya **se vio** en un fotograma lleva ✅ y,
+>   cuando lo hay, un enlace al segundo exacto en Internet Archive (`?t=`
+>   en segundos). Ese minuto es el **del archivo de Internet Archive**, que
+>   puede ir unos segundos desfasado del de Netflix; se dice en cada caso.
+> - Mi fuente principal fue la **búsqueda web** (la lista está al final, en
+>   la bitácora).
+> - GitHub sí respondía. De ahí saqué lo más útil: **los subtítulos de los
+>   37 episodios, con sus tiempos**, del repositorio
+>   [Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/DEATH%20NOTE).
+>   Hay japonés de Netflix (los 37) e inglés de fans (TSR, del 1 al 24).
+>   **Todos los minutos de esta biblia son del archivo japonés de
+>   Netflix**, que empieza con el opening. Los archivos de Blu-ray van
+>   unos **80 segundos antes** (lo medí línea a línea: el desfase es de 80 s
+>   en los 24 episodios). Puede moverse un minuto según la plataforma.
+> - También bajé de [google/fonts](https://github.com/google/fonts) las
+>   letras propuestas y comprobé una a una, con fontTools, si traen
+>   á é í ó ú ñ ¿ ¡.
+> - **Cómo leo los episodios**: «ep. 8» es el episodio 8 de 37. El minuto
+>   va así: 00:18:35.
+> - ✅ **confirmado**: dos fuentes, o lo dice el subtítulo con su minuto.
+>   ⚠️ **dudoso**: una sola fuente, o lo describo de memoria. Lo de
+>   memoria siempre va marcado.
+
+---
+
+## Segunda pasada · qué cambió
+
+Fecha: 26-sep-2026. Se corrigió y completó la biblia en su sitio, sin
+rehacerla. Las fuentes de cada dato están en su sección.
+
+### Corregido (antes → ahora)
+
+| Qué | Antes | Ahora | Dónde |
+|---|---|---|---|
+| Ep. 1, 00:04:32 | Light lee el cuaderno en las manos | Es un **insert de la página negra** «How to use it», letra blanca gótica, calavera con aureola | §2.1, §2.11, §15 |
+| La sonrisa de Light con L muerto | ep. 25, 00:17:41 | **00:18:00** (luz roja de alarma); suena «Kyrie II» | §2.8, §11.1 |
+| Light en el almacén | ep. 36, de pie, cabeza gacha | Primerísimo plano, **bolígrafo entre los dientes** | §15 |
+| Light, miedo final | ep. 37, ≈00:18:30 | **00:15:58** (a las 18:30 ya sale Ryuk) | §8.1 |
+| L, concentración | ep. 15, 00:09:07 | **00:08:04** (en cuclillas sobre un banco) | §8.1, §15 |
+| Ryuk, alegría | ep. 1, 00:16:12 | **00:17:29** (la sonrisa enorme) | §8.1, §15 |
+| Misa, miedo (atada) | ep. 16, 00:03:21 | **00:20:58** (a las 03:21 el plano es de L) | §8, §8.1, §15 |
+| Noche del cuarto de Light | `#141A24` (estimado) | `#0F1127` y `#030212`, **azul violeta** (medido) | §5.5 |
+| Universidad Tōō | «día, luz dura» | Interior **gris malva cálido** | §5.1, §5.5 |
+| Vaquero de L | `#4F6B8C` | `#596D76` (medido) | §16.1 |
+| Piel de Ryuk | `#7C8794` | `#84889D` (medido) | §16.1 |
+| Sōichirō en latino | José Lavat ⚠️ | José Lavat ✅ (dos wikis) | §10 |
+| Rem, Watari, Matsuda, Mikami en latino | «no lo encontré» | Erica Edwards, Carlos del Campo, Alfredo Leal, Arturo Mercado Jr. ✅ | §10 |
+| Parte de imagen, hoja 2 | *Jump Force* = nº259-260 | *Jump Force* = **nº252-253** (259-260 son Mello) | «Las hojas de contacto» |
+
+### Añadido
+
+- **3 hojas de contacto** en `hojas/`, miradas y explicadas, con los
+  originales de la wiki (tamaño leído en su API).
+- §2.11 (11 escenas vistas, más opening, ending y tráiler), §3.6 (arte
+  oficial con tamaño), §5.5 (paleta medida en 10 fotogramas), §6.3
+  (letras vueltas a comprobar, coreano y chino), §8.1 (la cara en cada
+  emoción con `?t=`), §9.1 (AniList y Reddit), §10 (14 voces y ficha de
+  producción), §11.1 (qué suena en cada escena), §12.1 (vídeos y TikTok),
+  §13.1 (interfaz de *Killer Within*), §14.1 (fandom hispano con vistas),
+  §16.1 (ropa medida), §17.1 (fondos con tamaño y autor), la **IA de
+  texto** en §18 (13 frases reales por emoción) y los **puntos 18 a 25**.
+- La tabla **«Cumplimiento del encargo»**, antes de la bitácora.
+- Los 3 conceptos siguen siendo los mismos (A cuaderno de Ryuk, B guion
+  de L, C cinta de Misa), ahora con poses vistas, hex medidos y números
+  de hoja. En A, la página izquierda puede ser **negra con letra blanca**,
+  como la del ep. 1.
+
+### Los ⚠️
+
+- **Antes**: 75.
+- **Ahora**: 136 en el dossier (141 en todo el archivo, contando este
+  apartado y la bitácora nueva). Suben porque la biblia pasó de 1278 a
+  unas 2600 líneas (puntos 18-25 y 13 apartados nuevos) y cada dato
+  nuevo de una sola fuente lleva su ⚠️.
+- De los 75 viejos se **quitaron 13** en el texto (poses y cuerpos vistos,
+  voces, plataformas, ojos rojos, luz de memoria). Otros siguen escritos
+  pero quedan **resueltos en su apartado nuevo** (licencias de Sketchfab
+  en §4, paleta en §5.5, poses en §15, vestuario en §16.1).
+- **Lo que sigue dudoso** está en §20.1: frases del doblaje salvo
+  «fritura», el estudio de doblaje, 1080p, *Kira Game*, el libro «/A».
+
+---
+
+## 0 · El canal y lo que tiene que decir
+
+Del inventario (`servidor/inventario.md`, sección EL ESTUDIO):
+
+> **ıı・📖・textos** (foro) · 2 hilos · etiquetas: Monólogo, Diálogo,
+> Escena de anime, Comercial, Narración, Original, Libre para usar, Pide
+> crédito, Para dos voces — _Guiones para practicar: monólogos, diálogos,
+> escenas y narraciones. Un hilo por guion, y di si se puede usar libre o
+> hay que pedir permiso._
+> - 📌 De qué va esto · adj: `textos.png` (la lámina que hay que hacer)
+> - EJEMPLO · Monólogo — hombre adulto, 40 segundos, tono contenido
+
+Y el encargo añade la **ficha** de cada hilo: **Tipo, Voces, Duración,
+Tono, Uso**.
+
+> [!tip] La casualidad que lo une todo
+> El hilo de ejemplo dice **«40 segundos»**. Y la regla más famosa del
+> Death Note, después de la primera, es justo esa: **si escribes la causa
+> de la muerte en los 40 segundos siguientes al nombre, pasa así**. La
+> ficha del guion y las reglas del cuaderno se parecen: nombre, cómo,
+> cuánto tiempo, detalles. Ver §2.
+
+
+### Los textos de la lámina 1 (qué es el canal)
+
+Una idea cada uno, sin «·», «—» ni paréntesis. Salen del inventario, tal
+cual o partidos:
+
+| # | Texto | Idea |
+|---|---|---|
+| 1 | **Textos** | nombre del canal |
+| 2 | **Guiones para practicar** | para qué es |
+| 3 | **Monólogos, diálogos, escenas y narraciones** | qué hay |
+| 4 | **Un hilo por guion** | regla 1 |
+| 5 | **Llena la ficha: Tipo, Voces, Duración, Tono, Uso** | regla 2 (la ficha) |
+| 6 | **Di si se puede usar libre o hay que pedir permiso** | regla 3 |
+| 7 | Frase del personaje, en su voz (ver §7 y §19) | gancho |
+
+La ficha, campo por campo, con el hilo de ejemplo del foro:
+
+| Campo | Ejemplo (del inventario) |
+|---|---|
+| Tipo | Monólogo |
+| Voces | Hombre adulto |
+| Duración | 40 segundos |
+| Tono | Contenido |
+| Uso | Libre para usar, o Pide crédito |
+
+### Los textos de la lámina 2 (las etiquetas)
+
+**Las nueve etiquetas no caben bien en la lámina 1.** Propongo **lámina
+2**, con las etiquetas repartidas en tres grupos, como las reglas del
+cuaderno (ver §19):
+
+| Grupo | Etiquetas |
+|---|---|
+| **Qué es** | Monólogo · Diálogo · Escena de anime · Comercial · Narración |
+| **De quién es** | Original |
+| **Cómo se usa** | Libre para usar · Pide crédito |
+| **Cuántas voces** | Para dos voces |
+
+(En la lámina, sin los «·»: una etiqueta por renglón o por papel.)
+
+---
+
+## 1 · Resumen para quien tenga prisa
+
+| Pregunta | Respuesta |
+|---|---|
+| Por qué Death Note encaja | **Todo gira alrededor de un cuaderno con instrucciones escritas.** En el ep. 1 Light lo abre y lee «使い方» («How to use it», cómo se usa) y cinco reglas (ep. 1, 00:04:32 a 00:05:30) ✅. Un foro de guiones con su ficha es lo mismo: **un texto escrito con reglas para usarlo**. Y **L habla por una voz que lee un guion ajeno**: en el ep. 2 un preso, Lind L. Tailor, lee en la tele el texto de L (00:15:02) ✅. |
+| Cuadro de diálogo propio | No hay globo propio. En pantalla, el texto sale en: **la página «HOW TO USE IT»** del cuaderno (inglés, numeración romana), **la pantalla blanca con la «L» gótica** cuando L habla con voz sintética (ep. 2, 00:17:36) ✅, **la pausa (eyecatch)** que enseña una regla por episodio ✅, y **los nombres escritos a mano** en las hojas del cuaderno. |
+| Objeto para la lámina | **El cuaderno negro abierto sobre el escritorio de Light** (el del plan, mejorado): en la página izquierda «CÓMO SE USA» con las reglas del canal; en la derecha, la ficha escrita a mano. Al lado: **la manzana roja mordida**, la bolsa de papas y el cajón con doble fondo (ep. 2, 00:10:32) ✅. Todo se puede hacer en Blender. |
+| El más querido | **L**, no Light. No hubo encuesta oficial de la Jump ⚠️ (Yahoo! Chiebukuro), pero en la de **Nlab (2021)** L sale **1.º con 397 votos (35,2 %)** y Light **2.º con 272 (24,1 %)** ⚠️ (las cifras, de una fuente). Que **L va primero** lo dicen también Yahoo! 知恵袋 («ネットならLが1位»), Ranker y Namuwiki ✅. Lo confirma una fuente nueva, los favoritos de [AniList](https://anilist.co/anime/1535): **L 26 512**, Light 20 343, Ryuk 7 079, Misa 7 010 ✅. **Ryuk** es la imagen más reconocible de la serie (casi el triple de favoritos que Mello) ✅. Secundario de culto: **Matsuda** (§9). |
+| Letras | **UnifrakturMaguntia** para la «L» y el rótulo gótico; **IM Fell English** o **Special Elite** para las reglas; **Kalam** o **Nothing You Could Do** para la letra a mano; **Nosifer** sólo para una gota de sangre, nunca para el texto. Todas traen tildes, ñ, ¿ y ¡: comprobado en el archivo. |
+| Voz latina | Light **Manuel Campuzano** ✅, L **Hugo Núñez** ✅, Ryuk **Rolando de Castro** (también director) ✅, Misa **Rebeca Gómez** ✅, Near **Bruno Coronel** ✅, Mello **Javier Olguín** ✅; y ahora también Rem **Erica Edwards**, Watari **Carlos del Campo**, Matsuda **Alfredo Leal**, Mikami **Arturo Mercado Jr.** y Sōichirō **José Lavat** ✅. Ver §10. |
+| Tono | Negro, gris azulado y **rojo** (manzanas, ojos de shinigami, sangre del final). Sangriento, como pidió el servidor: **la sangre tiene base en la serie**: en el último episodio Light, herido, **intenta escribir un nombre con su sangre** (ep. 37, 00:14:28, «血で!», «¡con sangre!») ✅. |
+| Juegos de la franquicia | **Kira Game** (DS, Konami, 2007) y su secuela **L o Tsugu Mono** (DS; el año, 2008, ⚠️) ✅; **Death Note: Killer Within** (PS4, PS5 y PC, Bandai Namco y Grounding, 2024) ✅. |
+
+---
+
+## 2 · Las escenas que sirven para #textos (con minuto)
+
+Todas salen de los subtítulos de
+[kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/DEATH%20NOTE):
+el texto y el minuto están comprobados ✅ (minuto del archivo japonés de
+Netflix). Lo que **se ve** en cada una (postura, luz) lo describí en la
+primera pasada de memoria. **En la segunda pasada se miraron los
+fotogramas de verdad** (Internet Archive, 1280×720): el resultado está
+en §2.11, con dos correcciones (el 00:04:32 del ep. 1 y la sonrisa del
+ep. 25).
+
+### 2.1 «Cómo se usa»: el cuaderno trae sus instrucciones (ep. 1)
+
+| Minuto | Qué pasa | Texto (japonés · inglés de fans) |
+|---|---|---|
+| 00:04:32 | Light lee la primera página. **Lo que se ve** (fotograma, 2.ª pasada): no es Light, es un **insert de la página negra** «DEATH NOTE / How to use it», letra blanca gótica, calavera con aureola, marco decorado ✅ | «“使い方”» · «"How to use"...» |
+| 00:04:33 | Regla I | «The human whose name is written in this note shall die» |
+| 00:05:09 | Regla II | «This note will not take effect unless the writer has the person's face in their mind…» |
+| 00:05:22 | Regla III | «“40秒以内に死因を書くと そのとおりになる”» · «If the cause of death is written within 40 seconds…» |
+| 00:05:26 | Regla IV | «“書かなければ 死因は全て心臓麻痺になる”» · heart attack |
+| 00:05:30 | Regla V | «“死因を書くと さらに６分40秒⸺”» · 6 minutes and 40 seconds |
+| 00:05:41 | Light, burlón | «Quite a lot of detail to go into for a simple prank… Not bad.» |
+| 00:16:44 | Light a Ryuk | «丁寧に使い方まで書いて» («y encima con las instrucciones escritas con tanto cuidado») |
+
+**Para qué sirve**: es la escena que convierte la lámina en «las reglas
+del canal». El foro también tiene reglas cortas y numeradas.
+
+### 2.2 El guion leído por otro: Lind L. Tailor (ep. 2)
+
+| Minuto | Qué pasa | Texto |
+|---|---|---|
+| 00:14:50 | Retransmisión especial de la ICPO en toda la tele | «ＩＣＰＯ インターポールからの 全世界同時特別生中継» |
+| 00:15:02 | Un hombre lee **el texto de L** ante la cámara | «I am the only person who can control the entire world's police forces, Lind L. Tailor. I go by the code name… "L".» |
+| 00:16:14 | Sigue leyendo | «お前のしていることは悪だ» («lo que haces es el mal») |
+| 00:16:24 | Light, furioso | «僕は正義だ！» («¡Yo soy la justicia!») |
+| 00:17:10 | Light cuenta | «あと５秒 ４ ３ ２ １» |
+| 00:17:36 | **Pantalla blanca con la «L» gótica**, voz sintética | «（Ｌ：合成音声）信じられない» («increíble») |
+| 00:17:59 | L revela el truco | Tailor era un preso condenado a muerte ese mismo día: **leía un guion** |
+| 00:18:23 | L reta a Light | «さあ 私を殺してみろ» («vamos, intenta matarme») |
+| 00:21:10 a 00:21:16 | Cierre a dos voces | «必ず お前を 捜し出して始末する … 僕が… 私が… 正義だ！» |
+
+**Para qué sirve**: es literalmente **un guion para dos voces**, con
+réplica y contrarréplica. Y el final del ep. 2 (00:21:10) está **dicho a
+la vez por dos personajes**: la etiqueta «Para dos voces» hecha escena.
+
+### 2.3 El doble fondo del cajón (ep. 2)
+
+| Minuto | Qué pasa |
+|---|---|
+| 00:09:41 | Light enseña a Ryuk dónde guarda el cuaderno: «この引き出しの中にね» |
+| 00:10:32 | Ryuk: «なるほど 二重底か» («ya veo, doble fondo») |
+| 00:11:06 | La trampa: si alguien fuerza el cajón, **arde gasolina en una bolsa fina** y quema el cuaderno |
+
+**Para qué sirve**: es un objeto de Blender perfecto (cajón, doble
+fondo, bolsita, bolígrafo). Puede ser el **sitio de la lámina 2**: las
+etiquetas guardadas en el cajón secreto.
+
+### 2.4 La papa frita (ep. 8)
+
+| Minuto | Texto |
+|---|---|
+| 00:16:14 | Sayu: «お兄ちゃん ごはんのあとにポテチ？» («¿papas después de cenar?») |
+| 00:18:06 | Light: «やってやるよ Ｌ！» («te lo voy a demostrar, L») |
+| 00:18:26 | «右手で方程式を解き続け» (con la derecha resuelve ecuaciones) |
+| 00:18:29 | «左手で名前を書き» (con la izquierda escribe nombres) |
+| 00:18:35 | **«ポテチを取り 食べる»** («tomo una papa frita… y me la como») |
+
+Se repite al principio del ep. 9 (00:01:39 a 00:01:45). Es **el meme más
+conocido de la serie** ✅ ([ComicBook.com](https://comicbook.com/anime/news/death-note-potato-chip-scene-reddit/),
+[AniLoop](https://aniloop.org/why-death-notes-potato-chip-scene-actually-works/),
+[Peliplat](https://www.peliplat.com/en/article/10072541/the-potato-chip-scene-in-death-note-is-actually-brilliant)).
+El director **Tetsurō Araki** la montó con música de orquesta y cortes
+rápidos, como si fuera una batalla ⚠️ (lo cuenta AniLoop; lo de la
+música se oye en el episodio). Que Araki dirigió la serie ✅
+([SlashFilm](https://www.slashfilm.com/1251249/death-note-director-romance-stories-anime-isnt-ready/),
+[Madhouse](https://www.madhouse.co.jp/works/2006-2005/works_tv_deathnote_interview.html)).
+
+**Para qué sirve**: enseña que **un gesto pequeño leído con tono épico**
+es un ejercicio de actuación. Guion de práctica perfecto: «Tono:
+dramático exagerado».
+
+### 2.5 L se presenta (ep. 9)
+
+| Minuto | Texto |
+|---|---|
+| 00:14:39 | L, a Light, en la ceremonia de ingreso: **«私はＬです»** («Soy L») |
+| 00:14:50 | Light, por dentro: «Ｌが“Ｌだ”と言うはずがない» («L no diría nunca que es L») |
+
+### 2.6 L y su forma de sentarse (ep. 10)
+
+| Minuto | Texto |
+|---|---|
+| 00:08:14 | L: **«一般的な座り方をすると 推理力が40％減です»** («si me siento normal, mi capacidad de deducción baja un 40 %») |
+| 00:08:32 | L: «夜神君の推理力を テストしてみてもいいでしょうか？» («¿puedo poner a prueba tu capacidad de deducción?») |
+
+Otra vez **el 40**. Y la escena del **partido de tenis** está en el
+ep. 10 (00:01:28) ✅.
+
+### 2.7 «Tal como lo planeé» (ep. 24)
+
+| Minuto | Texto |
+|---|---|
+| 00:05:39 | Light, por dentro: «勝った» («gané») |
+| 00:05:42 | **«計画どおり»** («todo según el plan») |
+
+Es la cara malvada que los fans llaman *keikaku doori* ✅ (subtítulo).
+Que sea meme mundial: ver §14.
+
+### 2.8 La muerte de L (ep. 25)
+
+| Minuto | Qué pasa |
+|---|---|
+| 00:01:57 a 00:02:23 | **Campanas** (鐘の音) |
+| 00:10:30 a 00:11:05 | L en la azotea, bajo la lluvia: «鐘の音が 今日 すごく うるさいんですよね» («las campanas suenan muy fuerte hoy») |
+| 00:13:36 a 00:14:21 | **L le seca los pies a Light** («マッサージもつけますよ») |
+| 00:14:45 | L: **«寂しいですね … もうすぐ お別れです»** («qué triste… pronto nos despediremos») |
+| 00:16:28 | Se va la luz, alarmas; muere Watari |
+| 00:17:12 a 00:17:15 | L: «皆さん しにが…» y cae de la silla |
+| 00:17:41 a 00:18:52 | Light lo sostiene: **la sonrisa** que todos recuerdan. **Corregido en la 2.ª pasada**: la sonrisa nítida (boca abierta, dientes, luz roja de alarma) está a las **00:18:00**; a las 00:17:41 aún no se ve clara ✅ (fotograma). Suena **«Kyrie II»** (§11) |
+
+### 2.9 «Sakujo» (ep. 31)
+
+| Minuto | Texto |
+|---|---|
+| 00:18:47 a 00:19:29 | Mikami, escribiendo con furia: **«削除»** («¡Eliminar!»), seis veces |
+
+### 2.10 Los 40 segundos (ep. 36) y la sangre (ep. 37)
+
+| Minuto | Texto |
+|---|---|
+| 36, 00:20:55 | «（秒針の音）» (el segundero) |
+| 36, 00:20:58 a 00:21:10 | Light cuenta: «30… 31… 32… … 39…» |
+| 36, 00:21:12 | **«ニア 僕の勝ちだ»** («Near, he ganado») |
+| 36, 00:21:15 | Mikami: **«40！»** |
+| 37, 00:10:09 a 00:10:16 | Light: «僕はキラ そして… 新世界の神だ» («soy Kira… y el dios del nuevo mundo») |
+| 37, 00:14:28 | Aizawa: **«血で！»** («¡con sangre!»): Light, herido de bala, intenta escribir con su sangre |
+| 37, 00:18:37 | Ryuk: **«お前の負けだ 月»** («perdiste, Light») |
+| 37, 00:19:27 | Ryuk: «結構 長い間 互いの 退屈しのぎになったじゃないか» («nos quitamos el aburrimiento un buen rato») |
+
+**Para qué sirve**: el **40** de la ficha de ejemplo («40 segundos») es
+el número de la serie: 40 segundos para la causa de muerte (ep. 1),
+40 % de deducción de L (ep. 10) y la cuenta de Mikami (ep. 36). Y la
+sangre de verdad sale al final: **escribir con sangre** es la imagen
+«sangrienta» que no inventa nada.
+
+### 2.11 Lo que se ve en cada escena (segunda pasada, fotograma mirado)
+
+Episodios completos de Internet Archive (`archive.org/download/death-note-XX`,
+1280×720; el 11 es `death-note-11_202008`), fotograma sacado con
+`fotogramas.py --fotograma <segundo>` y mirado uno a uno. Minuto de
+partida: el de los subtítulos (coincide).
+
+| Escena | Ep., minuto | Qué se ve de verdad | Cambia algo |
+|---|---|---|---|
+| Las reglas del cuaderno | 1, 00:04:32 | Insert en primer plano de la página negra «DEATH NOTE / How to use it», letra blanca gótica, calavera con aureola, marco decorado. Es el mismo insert del tráiler (0:36 y 1:00) | Sí: no es Light con el cuaderno |
+| Ryuk se presenta | 1, 00:13:00 | Contrapicado: Ryuk enorme detrás de Light (de espaldas, en su escritorio), alas de pelo negro en punta, ventana con cortina azul, estantería | Confirma ✅ |
+| Ryuk y la manzana | 1, 00:16:12 | Silueta de Ryuk a contraluz azul noche, ojos amarillos, cinturón con hebilla de calavera. El mordisco cae ±2 s | ⚠️ ajustar ±2 s |
+| «¡Soy la justicia!» | 2, 00:16:24 | Primer plano de Light gritando a la tele, puño cerca de la cara | Confirma ✅ |
+| La «L» gótica | 2, 00:17:36 | Tele CRT azul sobre un mueble, pantalla blanca con la **L** caligráfica negra, suelo verde | Confirma ✅ |
+| La papa frita | 8, 00:18:35 | Plano dividido: la **derecha escribe** con bolígrafo en el cuaderno abierto mientras la **izquierda sube la papa** a la boca; bolsa naranja, luz lateral dura, estantería | Mejora: se ven las dos manos a la vez ✅ |
+| *Keikaku doori* | 24, 00:05:42 | Primerísimo plano: media cara en sombra, **ojos rojos brillantes**, sonrisa torcida, **auricular de manos libres** junto a la boca (está al teléfono), borde del cuaderno abajo | Añade el auricular ✅ |
+| L en cuclillas (café) | 10, 00:08:14 | L en cuclillas sobre la silla, dedo en el labio, jardinera verde detrás, luz cálida de persiana | Confirma ✅ |
+| Muerte de L | 25, 00:17:12 y 00:18:00 | 17:12: plano rojo de emergencia, L girado hacia un panel. **18:00: la sonrisa** de Light, boca abierta, luz roja | Sí: la sonrisa es 00:18:00 ✅ |
+| Light enloquece | 36, 00:21:12 | Primerísimo plano: pelo despeinado tapando un ojo, **bolígrafo entre los dientes**, mirada de locura, fondo blanco quemado | Nuevo ✅ |
+| «¡Con sangre!» | 37, 00:14:28 | Contrapicado de Aizawa gritando, gabardina gris, corbata naranja, vigas metálicas del almacén | Confirma ✅ |
+
+**Opening, ending y tráiler, mirados** (YouTube no deja bajar vídeo; se
+usó Dailymotion con `fotogramas.py`):
+
+- **Opening 1** «the WORLD» ([Dailymotion x31pve2](https://www.dailymotion.com/video/x31pve2)):
+  0:30 Light de gabardina por una calle de Tokio con una manzana en la
+  mano; 0:45 alguien en un sillón rojo envuelto en tela oscura; 1:00
+  silueta por un pasillo oscuro; 1:15 figura alada sobre fondo
+  dorado-rosado ✅.
+- **Ending 1** «Alumina» ([Dailymotion x6alujt](https://www.dailymotion.com/video/x6alujt)):
+  0:12 primer plano rojo de una mano o rostro con líneas de velocidad;
+  0:24 silueta cayendo contra un cielo azul; 0:48 andamio a contraluz;
+  1:00 rostro con ojos rojos muy cerca, rojo y negro ✅.
+- **Tráiler del anime** ([Dailymotion x89nprz](https://www.dailymotion.com/video/x89nprz),
+  el del anime, no el de la película de 2017: lleva el logo de la
+  calavera con aureola): 0:12 ojos de Light; 0:24 una mano abre el
+  cuaderno sobre un cadáver dibujado a tinta; 0:36 y 1:00 el insert
+  «How to use it» con las reglas en pantalla; 0:48 un auditorio mirando
+  la pantalla con la «L»; 1:12 Light y L cara a cara ✅.
+
+⚠️ No hay fotogramas a 1080p: Internet Archive sólo tiene 1280×720
+(`archive.org/metadata/death-note-01`) y YouTube no deja bajar.
+
+---
+
+## 3 · Arte oficial y referencias visuales
+
+> [!note] Primera pasada sin imágenes; segunda pasada con 1181
+> En la primera pasada ni la wiki de Fandom ni las webs oficiales se
+> dejaban abrir: 3.1 a 3.5 son **las fuentes que existen y dónde
+> buscarlas**. En la segunda pasada `investigar_serie.py` bajó **1181
+> imágenes** de 6 páginas de la wiki (Light, L, Ryuk, Misa, Near, Mello),
+> con su tamaño real: lo nuevo está en 3.6 y en «Las hojas de contacto»,
+> justo después.
+
+### 3.1 El manga (Tsugumi Ohba y Takeshi Obata, Shūeisha, 2003-2006)
+
+- **12 tomos + el tomo 13, «How to Read»** (guía oficial) ✅
+  ([Wikipedia: capítulos](https://en.wikipedia.org/wiki/List_of_Death_Note_chapters)).
+- **Entre capítulo y capítulo**, el tomo japonés trae **una página «How to
+  Use It»**: una regla del cuaderno **en inglés** con su traducción
+  japonesa debajo ✅ ([YOSHI BLOG](https://yoshiblog.info/anime/deathnote/deathnote-yougo/),
+  [TV Tropes: EyeCatch](https://tvtropes.org/pmwiki/pmwiki.php/EyeCatch/AnimeAndManga)).
+  **Es el modelo de la lámina**: una regla por página, numerada.
+- **Viz «Black Edition»**, en EE. UU. ✅ (que sean 6 tomos dobles ⚠️, de memoria)
+  ([SciFi Japan](https://www.scifijapan.com/merchandise/revisit-the-world-of-death-note-in-the-new-black-edition-from-viz-media)).
+- **Capítulos especiales**: «C-Kira» (2008 ⚠️) y **«a-Kira Story»**
+  (Jump SQ, 4 de febrero de 2020), con **Ryuk que vuelve al mundo humano**
+  diez años después; reunidos en **Death Note: Short Stories** (Viz, 10 de
+  mayo de 2022) ✅ ([Hypebeast](https://hypebeast.com/2022/4/death-note-short-stories-manga-viz-media-release-info),
+  [GameSpot](https://www.gamespot.com/articles/death-note-short-stories-brings-one-shots-to-print-including-that-infamous-trump-story/1100-6502665/),
+  [Viz](https://www.viz.com/shonenjump/chapters/death-note-short-stories)).
+
+### 3.2 El artbook de Obata
+
+- **«blanc et noir»** (小畑健画集, Shūeisha, 31 de mayo de 2006): B4, 168
+  páginas, **más de 120 ilustraciones** de Death Note y Hikaru no Go, con
+  un *making of* de color ✅ ([HLJ](https://www.hlj.co.jp/product/SYU82146),
+  [Books.or.jp](https://www.books.or.jp/book-details/9784087821468),
+  [漫画全巻ドットコム](https://www.mangazenkan.com/items/46773/)).
+  **Es la mejor referencia de pose y color**: Obata pinta con acuarela y
+  tinta, blancos grandes y negros densos ⚠️ (de memoria).
+
+### 3.3 El anime (Madhouse, 2006-2007, 37 episodios)
+
+- Equipo: dirección **Tetsurō Araki** ✅ (Madhouse, SlashFilm,
+  fullfrontal.moe). Diseño de personajes **Masaru Kitao**, dirección de
+  arte **Mio Isshiki** (一色美緒), color **Ken Hashimoto** (橋本賢) ⚠️ (un
+  resumen de búsqueda en japonés, con [Anime Staff DB](https://seesaawiki.jp/w/radioi_34/d/DEATH%20NOTE)
+  y la [ficha de Madhouse](https://www.madhouse.co.jp/works/2006-2005/works_tv_deathnote.html)).
+  Guion de la serie: Toshiki Inoue ⚠️
+  ([AniLoop](https://aniloop.org/why-death-notes-potato-chip-scene-actually-works/)).
+- Araki: «si el original vale 100, quise llegar a 120» y «es un manga con
+  poco movimiento: todo está en cómo sostener la imagen» ✅ (resumen de su
+  entrevista en [Madhouse](https://www.madhouse.co.jp/works/2006-2005/works_tv_deathnote_interview.html);
+  no pude abrir la página).
+- Hay una entrevista larga sobre **color y fotografía** con Araki
+  ([fullfrontal.moe, 2024](https://fullfrontal.moe/tetsuro-araki/)).
+  **Leída en la segunda pasada**: lo que dice está en «Punto 18» ✅.
+- **Segunda pasada, equipo según AniList** (`datos-texto.md`): diseño de
+  personajes **Masaru Kitao**, dirección de arte **Mio Isshiki**, diseño
+  de arte **Shinji Sugiyama**, diseño de color **Satoshi Hashimoto** ✅.
+  Kitao e Isshiki quedan confirmados con dos fuentes. El color: AniList
+  dice **Satoshi** Hashimoto y el resumen japonés de la primera pasada
+  decía **Ken** Hashimoto (橋本賢) ⚠️ (no se resolvió; usa el de AniList).
+- **Ediciones**: 13 DVD en Japón (dic. 2006 a dic. 2007); **caja de
+  Blu-ray** el 19 de octubre de 2016 ⚠️ (una fuente); en EE. UU., Viz
+  «The Complete Series» ✅ ([Viz](https://www.viz.com/anime/tv-series/death-note-video-box-sets/product/4770),
+  [SciFi Japan](https://www.scifijapan.com/dvd-blu-ray-digital/death-note-anime-series-complete-dvd-set-on-november-18th)).
+- **Galería de imágenes del anime** en la wiki (bloqueada aquí):
+  [Death Note (anime)/Image Gallery](https://deathnote.fandom.com/wiki/Death_Note_(anime)/Image_Gallery).
+
+### 3.4 Juegos y otros
+
+- **Death Note: Killer Within** (2024): arte clave oficial con Kira y L
+  ✅ ([Bandai Namco](https://www.bandainamcoent.com/games/death-note-killer-within),
+  [Steam](https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/)).
+- **El musical** (HoriPro) vuelve en **julio de 2026** en Londres ✅
+  ([Screen Rant](https://screenrant.com/death-note-revival-2026-musical-stage-play-london/),
+  [ComicBook.com](https://comicbook.com/anime/news/death-note-announces-surprise-2026-comeback/)).
+- La **serie de Netflix** de los Duffer está en el aire: se fueron de
+  Netflix en abril de 2026 ⚠️ ([What's on Netflix](https://www.whats-on-netflix.com/news/netflix-death-note-series-from-stranger-things-creators-what-we-know-so-far/),
+  [ComicBook.com](https://comicbook.com/anime/news/netflix-death-note-live-action-status/)).
+- **La película de Netflix (2017)** tiene otro Ryuk, otro Light y otro
+  estilo. **No la mezcles** con el anime (ver §14).
+
+### 3.5 Lo que falta ⚠️
+
+- Las **portadas de los 12 tomos** una a una, con tamaño: sigue sin
+  salir en la segunda pasada (la wiki no las separa por tomo; sólo
+  tiendas de reventa sin medida) ⚠️.
+- ~~Los **key visuals** del anime en alta~~: **resuelto**, 4 key visuals
+  oficiales a 1920×1080 en Zerochan (§17).
+- Las **pausas (eyecatch)** en fotograma: el subtítulo de fans marca su
+  sitio (ep. 1, hacia el minuto 10:37 del archivo de fans «zza»; ep. 2,
+  12:12; ep. 3, 12:31; sin alinear con Netflix) pero **no trae el
+  texto** ⚠️. En la hoja 2, nº245, hay una página del manga con el
+  eyecatch nocturno.
+
+### 3.6 Arte oficial con tamaño real (segunda pasada)
+
+Todo de la wiki de Fandom por su API, tamaño leído del archivo ✅.
+
+| Qué | Tamaño | Original |
+|---|---|---|
+| Light de perfil, camisa del instituto (color page de Obata) | 2001×4705 | [299276.jpg](https://static.wikia.nocookie.net/deathnote/images/0/05/299276.jpg) |
+| L de pie, de blanco, pareja de la anterior | 2088×4608 | [299276L.jpg](https://static.wikia.nocookie.net/deathnote/images/7/76/299276L.jpg) |
+| Misa, «Saint Valentine's Day», vestido rojo y calaveras | 3466×5000 | [295978.jpg](https://static.wikia.nocookie.net/deathnote/images/6/60/295978.jpg) |
+| Near, mano en la cara | 3039×5000 | [DN_013.jpg](https://static.wikia.nocookie.net/deathnote/images/8/8b/DN_013.jpg) |
+| L sentado comiendo chocolate | 1352×2200 | [Lfull.jpg](https://static.wikia.nocookie.net/deathnote/images/0/0f/Lfull.jpg) |
+| Ryuk a color, cuerpo entero | 860×1384 | [Ryuk_DN_Coloured.png](https://static.wikia.nocookie.net/deathnote/images/a/a8/Ryuk_DN_Coloured.png) |
+| Grupo del artbook: L, Light, Misa y más | 3326×5000 | [LLightMisa(art-book)](https://static.wikia.nocookie.net/deathnote/images/e/e7/LLightMisa%28art-book%29.jpg) |
+| L en un sillón con Near y Mello detrás (artbook) | 3114×5000 | [LNearMello(art-book)](https://static.wikia.nocookie.net/deathnote/images/6/61/LNearMello%28art-book%29.jpg) |
+| Light y L espalda con espalda, con una cruz | 3467×5000 | [Death_note_4.jpg](https://static.wikia.nocookie.net/deathnote/images/1/19/Death_note_4.jpg) |
+| Near sentado entre juguetes, ventanas con «N» | 3306×5000 | [2079.jpg](https://static.wikia.nocookie.net/deathnote/images/b/be/2079.jpg) |
+| Light de negro entre shinigami | 2435×3485 | [DN_043.png](https://static.wikia.nocookie.net/deathnote/images/8/8a/DN_043.png) |
+| Light, arte nuevo de la exposición de Death Note (rojo, blanco y negro) | 2892×2076 | [Light_new_art_DN_Exhibition](https://static.wikia.nocookie.net/deathnote/images/d/db/Light_new_art_DN_Exhibition.jpeg) |
+| Wallpapers del juego *Othellonia* (Light, L, Light y L, Misa, Near, Mello) | 2208×2208 cada uno | [Light](https://static.wikia.nocookie.net/deathnote/images/a/af/Othellonia_wallpaper_Light.jpg), [L](https://static.wikia.nocookie.net/deathnote/images/3/3f/Othellonia_wallpaper_L.jpg), [Misa](https://static.wikia.nocookie.net/deathnote/images/d/d8/Othellonia_wallpaper_Misa.jpg), [Near](https://static.wikia.nocookie.net/deathnote/images/f/f0/Othellonia_wallpaper_Near.jpg), [Mello](https://static.wikia.nocookie.net/deathnote/images/0/05/Othellonia_wallpaper_Mello.jpg) |
+| Portada y banner del anime | — | [AniList portada](https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg), [banner](https://s4.anilist.co/file/anilistcdn/media/anime/banner/1535.jpg) |
+
+- **El musical** (HoriPro): pósteres y fotos de las giras de Taiwán 2017
+  (6000×4000) y Corea 2015 y 2017 ✅. Son actores reales: sirven para
+  pose, **no para color ni diseño**.
+- **Cuidado en la wiki**: mezcla el anime con las películas de imagen
+  real (2006, *Light Up the New World* 2016), el drama de 2015 y la
+  película de Netflix 2017. En las hojas van marcadas: no las uses como
+  estilo.
+
+---
+
+## Las hojas de contacto
+
+Tres hojas en `hojas/` (JPEG de menos de 1 MB), sacadas de las 12 que
+montó `investigar_serie.py`. **Miradas una a una** por el redactor.
+Cada número lleva debajo su tamaño real y el nombre del archivo en la
+wiki.
+
+**`hojas/arte_oficial_01.jpg`** (nº 1-48)
+
+- **Sirven (anime y manga)**: nº7 Light y L espalda con espalda con la
+  cruz · nº8 Misa «Saint Valentine's Day» · nº9 grupo del artbook ·
+  nº10 L cabeza abajo (DN 022) · nº11 «L Lawliet», L con el dedo en el
+  labio · nº12 Near con juguetes · nº13 L en el sillón con Near y Mello
+  · nº14 Near, mano en la cara · nº15 Light, Misa y L · nº16 y nº17
+  grupos con Ryuk y Rem · nº26 L de blanco y nº27 Light de perfil (la
+  pareja 299276) · nº29 Light de negro entre shinigami · nº31 Near a
+  los 21 años (cartel) · nº34 Light, arte de la exposición · nº36 Near
+  de cuerpo entero · nº37-42 wallpapers de *Othellonia* · nº44 Ryuk
+  (póster, 1720×2500) · nº46 primera aparición de Mello.
+- **No sirven de estilo** (imagen real): nº1-5 y 25 musical de Taiwán,
+  nº18-20 y 28 musical coreano, nº21-24, 30, 45 y 47 películas
+  japonesas, nº6, 32-33, 35, 43 y 48 película de Netflix 2017.
+- **Para qué**: nº8 es Misa para el concepto C; nº11 y nº26 sirven
+  para L «explicando» (concepto B); nº27, Light de perfil con el
+  uniforme; nº13, una lámina en grupo con los sucesores.
+
+**`hojas/colaboraciones_02.jpg`** (nº 241-288)
+
+- **Sirven**: nº241-243 color pages (Light con shinigami, Light
+  tendiendo la mano, Misa con Light) · nº244 cartel de **Universal Jump
+  Summer** (Ryuk con Luffy y Goku) · nº245 página del manga · nº251
+  Ryuk con Light (DN 006) · **nº252-253 Light y Ryuk en 3D de *Jump
+  Force*** · nº255 hoja de modelo de Light a lápiz (Pp140-141) · nº256
+  Light cara a cara con Near · nº258 Near *chibi* de *Jumputi Heroes* ·
+  nº259-260 Mello de cuero rojo · nº261 L de pie, descalzo · nº262
+  página del manga con Near · nº265 Ryuk a color (concepto A) · nº267 Ryuk con una
+  chica que abraza un Death Note (DNP 001, del piloto) · nº268 L y
+  nº271 Near en el anime · nº272 Ryuk en rojo · nº276-285 fotogramas
+  del ep. 1 (ojo rojo del shinigami, sonrisas de Ryuk, Light a
+  contraluz) · nº286 Ryuk en el mundo shinigami · nº287 L empapado ·
+  nº288 Mello en el anime.
+- **No sirven de estilo**: nº246-250, 254, 257, 263-264, 266, 269-270,
+  273-275 (películas, musical, Netflix).
+- **Corrección a la parte de imagen**: *Jump Force* es **nº252-253**, no
+  nº259-260 (esos son Mello). La nº261 es L de pie, no un fondo de
+  Wammy's. La nº267 no es Ryuk con Misa muerta: es Ryuk con una chica y
+  el cuaderno (piloto).
+
+**`hojas/colaboraciones_03.jpg`** (nº 529-540)
+
+- **Sirven**: nº530-531 y nº538-539 colaboración con **LINE Bubble 2**
+  (anuncios con L y Ryuk *chibi*, stickers; el nº538 lleva el plazo
+  «11/30 … 12/3 23:59», sin año) · nº532 **Light le da una patada a L**
+  (página a color del manga, capítulo 45; buena para «regañar») · nº533
+  L en el ep. 25 · nº536 **Death Note the Escape** (sala de escape, con
+  «能力診断», 930×550).
+- **No sirven de estilo**: nº529, 534-535, 537 y 540 (películas,
+  musical coreano 2017, drama 2015).
+
+Originales de las que se citan en los conceptos:
+[Universal_Jump_Summer](https://static.wikia.nocookie.net/deathnote/images/c/c8/Universal_Jump_Summer.jpg) (1400×1027),
+[Jumpforcelight1](https://static.wikia.nocookie.net/deathnote/images/b/ba/Jumpforcelight1.png) (1600×850),
+[ChapterDN045](https://static.wikia.nocookie.net/deathnote/images/6/60/ChapterDN045.jpg) (712×728),
+[DeathNoteL](https://static.wikia.nocookie.net/deathnote/images/9/90/DeathNoteL.png) (871×1480),
+[DNP_001](https://static.wikia.nocookie.net/deathnote/images/a/ac/DNP_001.jpg) (1000×1168),
+[Ryuk_in_the_Shinigami_Realm](https://static.wikia.nocookie.net/deathnote/images/0/04/Ryuk_in_the_Shinigami_Realm.jpg) (1391×782),
+[LINE_Bubble_2_ad_3](https://static.wikia.nocookie.net/deathnote/images/d/dc/LINE_Bubble_2_ad_3.jpg) (800×638),
+[Death_Note_the_Escape_03](https://static.wikia.nocookie.net/deathnote/images/8/86/Death_Note_the_Escape_03.jpg) (930×550) ✅
+(tamaño leído en la API de la wiki, 26-sep-2026).
+
+---
+
+## 4 · Fan art y 3D (sólo como referencia)
+
+### 4.1 Modelos 3D del cuaderno (Sketchfab)
+
+Según los resultados de búsqueda, todos con licencia **CC BY**
+(atribución obligatoria) ⚠️: **abre cada página y confirma la licencia
+antes de bajarlo**; no pude entrar en Sketchfab.
+
+| Modelo | Autor | Enlace |
+|---|---|---|
+| Death Note (2020) | CG.oum (@ayoub.oumahou) | [38e9f0d](https://sketchfab.com/3d-models/death-note-38e9f0d0c6944557b6ecf2003f5aa4bb) |
+| Notebook of Death (2025): permite usarlo en juegos y animación con enlace o crédito | Kasuga (@kasuga) | [cee405b](https://sketchfab.com/3d-models/notebook-of-death-cee405b6e2a544e1a819bbc514233090) |
+| Death Note (2024) | ParaGO | [d82d654](https://sketchfab.com/3d-models/death-note-d82d6546f5994f128147748487f64ca8) |
+| Death note, sin textura (2023) | OFFICIALSAGAM | [6583eaa](https://sketchfab.com/3d-models/death-note-no-texture-so-far-blender-6583eaa92f21431580fe8734de1f4393) |
+| Death note (2025) | Shah Bakhat026 | [a6fe57b](https://sketchfab.com/3d-models/death-note-a6fe57b372134841896f785a0253ebef) |
+
+**Consejo**: el cuaderno es una caja con tapas. **Se modela en diez
+minutos** y así la tinta y la luz son tuyas (como la estela de AoT). Usa
+estos modelos sólo para mirar el grosor, el lomo y cómo cae la tapa.
+
+Personajes en 3D (sólo para mirar poses): [L](https://sketchfab.com/3d-models/l-from-death-note-5ebc1b2d188049d18c767283f9c4bdce)
+y [Light](https://sketchfab.com/3d-models/light-yagami-from-death-note-7d0599365ae141f7b0b65cd55d27a06b),
+de Shah Bakhat026.
+
+**Segunda pasada: licencias leídas en la API de Sketchfab** (campo
+`license.label` de `api.sketchfab.com/v3/search`, 26-sep-2026) ✅.
+*CC Attribution* = **hay que citar al autor** en los créditos.
+
+| Modelo | Autor | Licencia (API) | ♥ | Enlace |
+|---|---|---|---|---|
+| Death Note (cuaderno) | ayoub.oumahou (CG.oum) | CC Attribution | 134 | [38e9f0d](https://sketchfab.com/3d-models/none-38e9f0d0c6944557b6ecf2003f5aa4bb) |
+| Death Note (cuaderno) | rengokukyojuro | CC Attribution | 37 | [9d98c78](https://sketchfab.com/3d-models/none-9d98c78fdeca4846a91b3e474bd5d038) |
+| Death Note (cuaderno) | zevik-es | CC Attribution | 15 | [17e2a68](https://sketchfab.com/3d-models/none-17e2a68603464169b22ea5cdb8572f69) |
+| Death Note anime book fanart | pedrohmm123 | CC Attribution | 14 | [9702482](https://sketchfab.com/3d-models/none-970248251f124cddbfc2b4999c43b713) |
+| Death Note (cuaderno) | ParaGO | CC Attribution | 10 | [d82d654](https://sketchfab.com/3d-models/none-d82d6546f5994f128147748487f64ca8) |
+| Death Note Notebook (más detallado) | Efes3DStudio | **CC Attribution-NonCommercial** | — | [9bbeb99](https://sketchfab.com/3d-models/none-9bbeb99898f14d2cb01f4146a1a7d5c0) |
+| Ryuk from Death Note | PotBin | CC Attribution | 19 | [cf0ccb0](https://sketchfab.com/3d-models/none-cf0ccb0310ea4bdd97122b6183e9e71b) |
+| RYUK | Theo_Prodger | CC Attribution | 8 | [3c21e12](https://sketchfab.com/3d-models/none-3c21e12167fc482db5f5512eb34aff00) |
+| ryuk death note | bakhats110 | CC Attribution | — | [7acb4b1](https://sketchfab.com/3d-models/none-7acb4b1db5d745f4a734686a469cbb89) |
+| L from death note | bakhats110 | CC Attribution | 6 | [5ebc1b2](https://sketchfab.com/3d-models/none-5ebc1b2d188049d18c767283f9c4bdce) |
+| light yagami from Death note | bakhats110 | CC Attribution | 17 | [7d05993](https://sketchfab.com/3d-models/none-7d0599365ae141f7b0b65cd55d27a06b) |
+
+- Los de CG.oum y ParaGO de la tabla de arriba quedan **confirmados
+  CC BY** ✅. Los de Kasuga, OFFICIALSAGAM y el cuaderno a6fe57b no
+  salieron en la API: su licencia sigue ⚠️.
+- **No hay modelo libre de Misa ni de Near** (la API dio 0 y 2
+  resultados sin relación) ⚠️.
+
+### 4.2 Fan art 2D (mirar, nunca pegar)
+
+| Obra | Autor | Nota |
+|---|---|---|
+| [Ryuk, concept art](https://www.artstation.com/artwork/OKk2e) | Luca Nemolato | Es **de la película de Netflix**: otro diseño |
+| [Ryuk](https://www.artstation.com/artwork/rRb5zO) | Maicon Ricardo | Escultura en ZBrush, para coleccionable |
+| [Ryuk](https://emilio_mansilla.artstation.com/projects/OyJ1E6) | Emilio Mansilla García | Estudio de luz |
+| [Ryuk y Light](https://www.artstation.com/artwork/442E1) | Sheridan Doose | Pareja clásica |
+| [Ryuk, a lápiz](https://www.artstation.com/artwork/G8W4e1) | Carolina Akemi | Grafito |
+| [«How to use it»](https://www.deviantart.com/shoushinnokarera/art/Death-Note-How-to-use-it-79542089) | ShoushinNoKarera | Página de reglas recreada |
+| [Death Note](https://www.deviantart.com/giando1611990/art/Death-Note-392623223) | Giando1611990 | L, Light y Ryuk |
+
+En **pixiv** hay miles: la etiqueta **夜神月** tiene unas 3.500
+ilustraciones, **L月** unas 990, **月L** unas 650, **リューク** unas 450 y
+**L(DEATHNOTE)** unas 300 ⚠️ (cifras del resumen de búsqueda)
+([夜神月](https://www.pixiv.net/en/tags/%E5%A4%9C%E7%A5%9E%E6%9C%88),
+[L(DEATHNOTE)](https://www.pixiv.net/tags/L(DEATHNOTE)),
+[リューク](https://www.pixiv.net/en/tags/%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%AF/illustrations)).
+Lo que más se dibuja es **Light con L** (la pareja rival).
+
+**Segunda pasada, fan art con autor** (Safebooru, URL directa leída en
+su JSON) ✅: Misa 3360×4096 de
+[wjaefinbki3azde](https://x.com/wjaefinbki3azde/status/2031964125707022370)
+(el más votado de los cinco); Ryuk 719×1000 vía
+[pixiv](http://img33.pixiv.net/img/saipin/13000916.jpg); Near 4937×8000
+vía [minitokyo](http://gallery.minitokyo.net/view/635498); Light
+3124×4000 (sin origen). Mirar, nunca pegar.
+
+---
+
+## 5 · Sitios, luz, paleta y texturas
+
+### 5.1 Los sitios de la serie
+
+La columna «Luz» es de la primera pasada, de memoria; **la luz y la
+paleta medidas en fotograma están en 5.5** (segunda pasada).
+
+| Sitio | Qué es y cuándo sale | Luz (1.ª pasada, ver 5.5) |
+|---|---|---|
+| **El cuarto de Light** | Escritorio, **cajón con doble fondo** (ep. 2, 00:10:32) ✅, ventana, cama. Aquí lee las reglas (ep. 1, 00:04:32) y hace lo de la papa (ep. 8) ✅ | Noche, lámpara de escritorio cálida, el resto azul oscuro |
+| **El mundo de los shinigami** | Desierto gris con huesos; juegan con **dados de calavera** (ep. 1, 00:02:01: «髑髏サイコロを振る音») ✅ | Gris sin sol, polvo |
+| **El cuartel de la investigación** | Primero hoteles; luego el edificio que construye L. Pantallas por todas partes | Luz de monitores, fría |
+| **La Universidad Tōō** (東応大学) | Donde L se presenta (ep. 9, 00:14:39) ✅. Inspirada en la Universidad de Tokio ⚠️ ([Lemon8](https://www.lemon8-app.com/@japanogcspm/7537973584863003142?region=us)) | **Corregido**: la ceremonia es de interior, gris malva cálido (5.5), no «día, luz dura» |
+| **Sakura TV** | La cadena que emite las cintas de Kira (ep. 11, 00:02:02) ✅ | Plató, focos |
+| **La azotea bajo la lluvia** | L y Light, con **campanas** (ep. 25, 00:10:30 a 00:11:05) ✅ | Gris azul, lluvia |
+| **El almacén Yellow Box** | El final: la cuenta de 40 segundos (ep. 36) y la sangre (ep. 37) ✅ | Luz de naves: tiras de sol entre polvo |
+| **Wammy's House** | El orfanato de L, Near y Mello en Inglaterra (ep. 27, 00:02:01) ✅ | Invierno, interiores de madera |
+
+Lugares reales que inspiran la serie: la sede de la policía en
+**Kasumigaseki 2-1-1**, **Torre de Tokio**, **Shibuya (Dōgenzaka)** y
+**Shinjuku** ✅ ([AniTabi](https://www.anitabi.jp/works/296),
+[Anime Pilgrimage: 24 sitios](https://www.animepilgrimage.com/ja/map?data=death-note),
+[Lemon8](https://www.lemon8-app.com/@japanogcspm/7530328393926558264?region=us)).
+Hay una guía de Wammy's House en [pixiv](https://www.pixiv.net/en/artworks/60506907).
+
+### 5.2 Luz ⚠️
+
+- **Contraluz y sombras duras**: la cara de Light **medio en sombra** cuando
+  piensa mal. Araki es conocido por el **trabajo de fotografía** (撮影):
+  luz con brillo, humo, rayos ✅ (lo dice la presentación de la entrevista de
+  [fullfrontal.moe](https://fullfrontal.moe/tetsuro-araki/)); el detalle de
+  Death Note no lo pude leer.
+- **Los ojos de Light se ponen rojos** en los momentos de Kira ✅ (visto
+  en la segunda pasada: ep. 24, 00:05:42, ojos rojos brillantes; la wiki
+  relaciona a Light con el rojo y a L con el azul,
+  [Fandom: Symbolism](https://deathnote.fandom.com/wiki/Symbolism)).
+- La lámpara de escritorio es **la única luz cálida** del cuarto.
+
+### 5.3 Paleta
+
+Estimada por mí en la primera pasada ⚠️. **Los fondos ya están medidos
+en 5.5** (usa esos); la ropa medida está en §16. Esta tabla sirve para
+los objetos que no salen medidos (manzana, sangre, papel):
+
+| Uso | Hex | Qué es |
+|---|---|---|
+| Negro del cuaderno | `#0E0E10` | Tapa |
+| Fondo de noche | `#141A24` | Cuarto de Light |
+| Gris azulado | `#3A4350` | Sombras, lluvia |
+| Piel de Ryuk | `#7C8794` | Gris azulado, casi muerto |
+| Rojo manzana | `#B3121B` | Manzanas de Ryuk |
+| Sangre | `#7A0A0A` | Fresca, oscura |
+| Ojos de shinigami | `#E0242E` | Brillo rojo |
+| Luz de lámpara | `#E9B872` | Cálida |
+| Papel del cuaderno | `#EDE8DC` | Hueso, no blanco puro |
+| Castaño de Light | `#7A4B2A` | Pelo |
+| Rubio de Misa | `#E6C76A` | Pelo |
+| Blanco de L y Near | `#F1F1EE` | Camisa, pijama |
+| Vaquero de L | `#4F6B8C` | Pantalón |
+
+Paleta de fans para comparar: `#1f1f1f #4a4a4a #7d7d7d #e0e0e0 #c92c3c`
+⚠️ ([color-hex](https://www.color-hex.com/color-palette/1012638),
+[ColorMagic](https://colormagic.app/palette/671fe563ab6cc866507fea60)).
+**La regla**: gris y negro casi todo, **rojo sólo donde importa**.
+
+### 5.4 Texturas reales equivalentes (CC0)
+
+| Para | Textura | Enlace |
+|---|---|---|
+| Tapa del cuaderno | Cuero negro | [ambientCG Leather026](https://ambientcg.com/view?id=Leather026), [Leather008](https://ambientcg.com/view?id=Leather008), [Poly Haven: leather](https://polyhaven.com/textures/leather) |
+| Hojas | Papel | [Paper001](https://ambientcg.com/view?id=Paper001), [Paper003](https://ambientcg.com/view?id=Paper003), [Paper005](https://ambientcg.com/view?id=Paper005) |
+| Escritorio | Madera | [Wood039](https://ambientcg.com/view?id=Wood039), [Wood095](https://ambientcg.com/view?id=Wood095) |
+
+ambientCG es **CC0** (dominio público) ✅ ([ambientCG](https://ambientcg.com/)).
+No pude abrir las fichas para ver cuál es oscura o clara: elige al verlas.
+La sangre, con `v3/sangre.py` (lo dice `servidor/reglas_del_dueno.md`).
+**Segunda pasada**: la licencia CC0 queda confirmada con dos fuentes,
+[docs.ambientcg.com/license](https://docs.ambientcg.com/license/) y
+[LicenseOrg](https://www.licenseorg.com/guide/3d-assets/ambientcg) ✅.
+
+### 5.5 Luz y paleta MEDIDAS en fotograma (segunda pasada)
+
+`herramientas/estilo.py` (Pillow, k-means sobre el píxel) sobre los
+fotogramas de §2.11 (Internet Archive, 1280×720). Hex de más a menos
+presente ✅.
+
+| Sitio | Fotograma | Paleta medida | Saturación / brillo | Qué cambia |
+|---|---|---|---|---|
+| Cuarto de Light, de noche | ep. 1, 00:16:12 | `#0F1127` `#030212` `#1A2237` `#515B6C` `#343D51` `#8F9DA3` | 57 % / 22 % | Confirma la noche azul; el `#141A24` de 5.3 es demasiado gris: el real tira a **violeta** |
+| Cuarto de Light, tele encendida | ep. 2, 00:14:50 | `#6A728B` `#4A546D` `#83879F` `#9F9FB5` `#C3BBCA` `#0A0E1F` | 26 % / 55 % | Nuevo: la pantalla sube el brillo y vuelve el azul **gris lavanda** |
+| Cuarto de Light, Ryuk detrás | ep. 1, 00:13:00 | `#030214` `#0B0D25` `#171F39` `#424E5E` `#2B3246` `#63737F` | 66 % / 19 % | Confirma el azul casi negro |
+| Mundo shinigami | ep. 1, 00:02:01 | gris hacia `#C9C9BE` con **iris rojo** hacia `#8A0E12` sobre negro (visto, no medido en tabla) | — | Confirma «gris sin sol» y rojo sólo en los ojos |
+| Azotea bajo la lluvia | ep. 25, 00:10:30 | `#0D1027` `#09081D` `#040214` `#1A1F35` `#303B52` `#5C617A` | 66 % / 17 % | Más **morado** que el `#3A4350` estimado |
+| Universidad Tōō, salón de actos | ep. 9, 00:14:30 | `#090714` `#635C63` `#B9ABA8` `#44424D` `#C8BBB8` `#8F8D9A` | 32 % / 40 % | Corrige: interior gris malva cálido |
+| Café de L y Light | ep. 10, 00:08:14 | `#110E0F` `#352A0E` `#454C48` `#A67A3F` `#575411` `#C2B093` | 61 % / 33 % | Nuevo: **dorado oliva** (persiana y plantas) |
+| Almacén Yellow Box, la cuenta | ep. 36, 00:20:55 | `#45423F` `#6F6F6D` `#BCB8A3` `#898A86` `#E2ECDC` `#ECD6B7` | 13 % / 61 % | Confirma las tiras de sol entre polvo: la escena **más clara y menos saturada** |
+| Almacén, Aizawa grita | ep. 37, 00:14:28 | `#999583` `#090715` `#2E2C32` `#D4C3A0` `#84806F` `#635549` | 33 % / 40 % | Confirma tierra y gris |
+| La página del cuaderno (insert) | ep. 1, 00:04:32 | `#070311` `#150F1C` `#40363F` `#29202A` `#786E78` `#CCC1CC` | 43 % / 18 % | No es un sitio: es el **negro violeta de la página** con letra blanca. Sirve para la tapa y la hoja |
+
+**La regla, ahora medida**: interiores azul violeta casi negro o gris
+tierra, casi sin rojo. El **rojo sólo sale en villanía o muerte** (ojos
+del shinigami, ojos de Light, la alarma del ep. 25). Luz rasante y
+contraluz para las revelaciones (la «L» en pantalla blanca). Coincide
+con la wiki de símbolos (Light rojo, L azul) ✅.
+
+---
+
+## 6 · Tipografía
+
+### 6.1 Lo que usa la franquicia
+
+| Dónde | Qué letra | Estado |
+|---|---|---|
+| **Logo «DEATH NOTE»** | Rotulado a mano, **estilo gótico** (blackletter); nunca salió como fuente | ✅ ([Made Good Designs](https://madegooddesigns.com/death-note-font/), [VectorDad](https://vectordad.com/fonts/death-note-font/)) |
+| Imitación del logo de la tapa | «**Death Font**», de joshua1985 (gratis, uso personal) | ⚠️ licencia sin comprobar ([FontBolt](https://www.fontbolt.com/font/death-note-font/)) |
+| **La «L» de L** | **Cloister Black** (Old English) | ✅ ([TextStudio](https://blog.textstudio.com/death-note-font/), guía de cuadros de diálogo) |
+| Reglas «HOW TO USE IT» | Inglés, numeración romana | ✅ el texto; la letra ⚠️ |
+| Letra del fansub en la pausa | 華康古印體 (Dynacomware, de pago) | ✅ (estilo en el archivo de subtítulos TSR) |
+
+### 6.2 Letras libres comprobadas por mí
+
+Bajadas de [google/fonts](https://github.com/google/fonts) y revisadas con
+fontTools: **todas traen á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü** (sí = ✅).
+
+| Letra | Licencia | Para qué | Tildes, ñ, ¿ ¡ |
+|---|---|---|---|
+| **UnifrakturMaguntia** | OFL | La «L» y el título «Textos» en gótico | ✅ |
+| **UnifrakturCook** | OFL | Gótico más grueso, para rótulo grande | ✅ |
+| **Pirata One** | OFL | Gótico estrecho y legible, para subtítulos | ✅ |
+| **Grenze Gotisch** | OFL | Gótico moderno, legible en el celular | ✅ |
+| **IM Fell English** | OFL | Las **reglas**: imprenta vieja, irregular | ✅ |
+| **Special Elite** | Apache | Ficha a máquina (lo policial de L) | ✅ |
+| **Kalam** | OFL | Letra a mano ordenada (Light) | ✅ |
+| **Nothing You Could Do** | OFL | Letra a mano rápida (nombres) | ✅ |
+| **Zeyada** | OFL | Garabato (Ryuk) | ✅ |
+| **Shippori Mincho B1** / **Zen Old Mincho** | OFL | デスノート, 使い方 en japonés | ✅ (kana y latín) |
+| **Nosifer** | OFL | Letra que gotea. **Sólo un acento**; nunca el texto | ✅ |
+| Butcherman | OFL | — | ❌ le falta el **¿** |
+
+**Mi elección**: título en **UnifrakturMaguntia**; reglas en **IM Fell
+English**; lo escrito a mano en **Kalam**; la «L» sola, en
+UnifrakturMaguntia negra sobre blanco.
+
+### 6.3 Segunda pasada: vuelta a comprobar
+
+- El investigador de texto **volvió a bajar los `.ttf`** de
+  `fonts.gstatic.com` y los pasó por `fontTools` (`getBestCmap()`): las
+  10 letras de la tabla traen á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü ✅, y a
+  **Butcherman le falta el ¿** ✅ (dos comprobaciones propias).
+- **Shippori Mincho B1** y **Zen Old Mincho** traen la katakana デスノート
+  y los kanji 死神使い方神様 ✅.
+- Para textos en **coreano o chino** (el juego *Killer Within* los trae):
+  **Noto Sans KR** (데스노트) y **Noto Sans SC** (死亡笔记), OFL ✅.
+- La licencia de «**Death Font**» sigue sin salir (dafont y fontbolt no
+  respondieron) ⚠️. **No la uses**: el logo se rehace con
+  UnifrakturMaguntia o UnifrakturCook, que son libres y ya están
+  comprobadas.
+
+---
+
+## 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
+
+### 7.1 Lo que la serie pone en pantalla
+
+En Death Note **no hay globo propio**. El texto sale así:
+
+| Soporte | Dónde se ve | Estado |
+|---|---|---|
+| **La página «HOW TO USE IT»** del cuaderno, en inglés | ep. 1, 00:04:32 a 00:05:30 | ✅ |
+| **Ryuk escribió esas instrucciones** «en inglés, la lengua más popular» | ep. 1, 00:16:37 | ✅ |
+| **La pausa (eyecatch)**: una regla por episodio; en el 25 y el 26 sólo «Death Note» | cada episodio | ✅ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/EyeCatch/AnimeAndManga), guía de cuadros) |
+| **La pantalla blanca con la «L» gótica** y voz sintética | ep. 2, 00:17:36; ep. 3, 00:01:22 («ＩＣＰＯの皆様 Ｌです») | ✅ |
+| **Near usa una «N»** del mismo modo | ep. 28, 00:01:57 («Ｎです») | ✅ el texto; la letra ⚠️ |
+| **Las cintas de vídeo de Kira** leídas en la tele (voz sintética: «私はキラです») | ep. 11, 00:03:27 | ✅ |
+| **Nombres escritos a mano** en las hojas | ep. 8, 00:18:29, y todo el anime | ✅ |
+| **El monólogo interior** de Light: la voz en off lo explica todo | toda la serie | ✅ (lo dice [AniLoop](https://aniloop.org/why-death-notes-potato-chip-scene-actually-works/)) |
+
+### 7.2 Cómo hablan (por el subtítulo)
+
+| Quién | Cómo habla | Ejemplo (minuto) |
+|---|---|---|
+| **Light** | Educado por fuera («僕»); por dentro, **arrogante y teatral**. Se ríe «**フフフ… ハハハ**» cada vez más fuerte | ep. 8, 00:17:34: «フフフフフ ハハッ フフフ…»; ep. 1, 00:21:00: «新世界の神となる» |
+| **L** | **Siempre de usted** («です/ます»), incluso con Light. **Habla en porcentajes** | ep. 9, 00:15:27: «キラである可能性は５％未満»; ep. 10, 00:07:20: «１％ぐらいです»; ep. 11, 00:19:24: «70％以上です» |
+| **Ryuk** | Coloquial («俺», «〜だぜ»). Todo le parece **divertido**. **Pide manzanas** | ep. 2, 00:21:04: «やっぱり 人間って面白(おもしれ)え！»; ep. 8, 00:18:03: «マズい 禁断症状が！» |
+| **Misa** | **Habla de sí en tercera persona** («ミサ») ✅ ([pixiv 百科](https://dic.pixiv.net/a/%E5%BC%A5%E6%B5%B7%E7%A0%82)). Alarga las vocales, cantarina | ep. 12, 00:09:13: «もっちろん»; ep. 13, 00:10:31: «見ーっけ» |
+| **Near** | Tranquilo, frío, **de usted**. Todo es un juego | ep. 27, 00:02:01: «ゲームは勝たなければ»; ep. 28, 00:01:49: «２代目Ｌ はじめまして» |
+| **Mello** | De niño, impulsivo; «ロジャー» a cada rato | ep. 27, 00:01:35: «死んだ？ あ… なんで？» |
+| **Mikami** | Fanático; «神» (dios) | ep. 31, 00:18:47: «削除»; ep. 32, 00:07:44: «神が舞い降りた» |
+
+### 7.3 Cómo se traduce a una lámina fija
+
+1. **Lo que dice el personaje va escrito en el cuaderno** o en una hoja
+   arrancada de él: tinta negra sobre papel hueso. Si es Ryuk, en inglés
+   y en español, como la regla del manga (inglés arriba, traducción
+   debajo).
+2. **El nombre de quien habla** no va en una pestaña: va **en la letra**.
+   Light, en Kalam ordenada. Ryuk, garabato. L, **su «L» gótica** en una
+   pantalla blanca.
+3. **La emoción** no es un globo con pinchos: es **el rojo** (ojos,
+   manzana, sangre) y **la sombra** en media cara.
+4. Si hace falta un **pensamiento**, imita el monólogo de Light: texto
+   sin caja, en cursiva, en una esquina oscura.
+
+### 7.4 Qué NO hacer con el texto
+
+- Una **burbuja blanca redonda** flotando.
+- Letras de cómic redondeadas o alegres.
+- Escribir las reglas con la letra que gotea: se lee mal y parece de
+  Halloween. La sangre va **encima del papel**, no en la letra.
+- Inventar «reglas oficiales» que no están: las reglas del canal son del
+  canal; las del cuaderno se citan tal cual.
+
+---
+
+## 8 · Los personajes
+
+Datos de carácter y diseño: [Wikipedia: L](https://en.wikipedia.org/wiki/L_(Death_Note)),
+[Wikipedia: Ryuk](https://en.wikipedia.org/wiki/Ryuk_(Death_Note)),
+[Wikipedia: Light](https://en.wikipedia.org/wiki/Light_Yagami),
+[pixiv 百科: 弥海砂](https://dic.pixiv.net/a/%E5%BC%A5%E6%B5%B7%E7%A0%82),
+[Namuwiki (coreano)](https://namu.wiki/w/L(%EB%8D%B0%EC%8A%A4%EB%85%B8%ED%8A%B8)),
+leídos a través de los resúmenes de búsqueda. Lo que dicen Ohba y Obata
+viene del tomo **13: How to Read** (resumido en esas páginas y en
+[LiveJournal](https://death-note.livejournal.com/357564.html)). Las frases,
+del subtítulo ✅.
+
+### Light Yagami (夜神月) — el protagonista, 2.º en votos
+
+- **Quién es**: el mejor alumno de Japón, aburrido del mundo. Encuentra el
+  cuaderno y decide **limpiar el mundo de criminales**: se convierte en
+  **Kira**. Obata: «un estudiante brillante que no se mata a estudiar»; su
+  diseño salió sin problemas ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Light_Yagami)).
+- **Miedo**: que lo descubran. **Qué le importa**: ganar y ser «dios».
+- **Con quién**: Ryuk (lo sigue a todas partes), L (rival y «amigo»),
+  su padre Sōichirō, su hermana Sayu, Misa (la usa).
+- **Cómo saluda**: con cortesía perfecta de buen hijo.
+- **Cómo explica**: en su cabeza, paso a paso, con voz de cirujano (ep. 8,
+  00:18:12 a 00:18:35).
+- **Cómo se ríe**: «フッ… フッ ハハハ…», primero bajo y luego a carcajadas
+  (ep. 1, 00:22:32; ep. 2, 00:17:24).
+- **Cómo se enfada**: «僕は正義だ！» (ep. 2, 00:16:24), gritando a la tele.
+- **Su frase**: «新世界の神となる» («seré el dios del nuevo mundo»,
+  ep. 1, 00:21:00) y «計画どおり» (ep. 24, 00:05:42).
+- **Cuerpo**: recto, ordenado; cuando gana, **sonrisa torcida con media
+  cara en sombra** y ojos con brillo rojo ✅ (visto en la segunda pasada:
+  ep. 24, 00:05:42, con un auricular de manos libres junto a la boca).
+
+### L (エル) — el detective, 1.º en votos ✅
+
+- **Quién es**: el mejor detective del mundo. Nadie conoce su cara hasta
+  el ep. 6 («Ｌです», 00:01:35). Luego se hace llamar **Ryūzaki** (ep. 6,
+  00:03:45).
+- **Diseño**: Ohba pidió **su forma de sentarse**, que fuera «en parte
+  inglés» y «desganado»; Obata le puso **ojeras negras** para que tuviera
+  una cara «que queda bien según el ángulo» ✅
+  ([Wikipedia](https://en.wikipedia.org/wiki/L_(Death_Note))).
+- **Manías** ✅: **se sienta en cuclillas** (dice que sentado normal
+  razona un 40 % peor, ep. 10, 00:08:14), **sólo come dulces**, **coge las
+  cosas con dos dedos**, va **descalzo**, ordena todo con manía
+  ([Wikipedia](https://en.wikipedia.org/wiki/L_(Death_Note)),
+  [Namuwiki](https://namu.wiki/w/L(%EB%8D%B0%EC%8A%A4%EB%85%B8%ED%8A%B8))).
+  Pide pastel en el comedor: «ショートケーキ ありますかね？» (ep. 15,
+  00:09:07).
+- **Cómo habla**: **de usted con todos** y **en porcentajes** (ver §7.2).
+- **Cómo se presenta**: sin aviso: «私はＬです» (ep. 9, 00:14:39).
+- **Su lado triste**: «寂しいですね… もうすぐ お別れです» (ep. 25,
+  00:14:45).
+- **Cuerpo**: encorvado, **pulgar en el labio**, mirada fija de ojos
+  enormes, pelo negro revuelto ✅ (visto: ep. 10, 00:08:14, en cuclillas
+  con el dedo en el labio; ep. 15, 00:08:04, en cuclillas sobre el
+  respaldo de un banco, zapatos en el suelo).
+
+### Ryuk (リューク) — el shinigami
+
+- **Quién es**: «そのノートの落とし主 死神のリューク» («el dueño que dejó
+  caer el cuaderno, el shinigami Ryuk», ep. 1, 00:13:00). Lo tiró **porque
+  se aburría** (ep. 1, 00:16:51). **Él escribió las instrucciones en
+  inglés** (ep. 1, 00:16:37) ✅.
+- **No ayuda a nadie**: «キラとＬの どっちの味方もしない» (ep. 3,
+  00:20:31). Sólo mira, se ríe y come.
+- **Manzanas**: le encantan las del mundo humano («すごいぜ 人間界の
+  リンゴは», ep. 1, 00:16:12). Sin ellas, **síndrome de abstinencia**
+  (ep. 8, 00:18:03) ✅.
+- **Diseño**: Obata quería shinigamis como **«estrellas de rock
+  atractivas»**, pero Ryuk no podía ser más guapo que Light: le dio un
+  aire de **reptil** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Ryuk_(Death_Note))).
+- **Cómo se ríe**: «フフフフフ…» (ep. 7, 00:18:34); «ククク» ⚠️ (de memoria).
+- **Final**: escribe el nombre de Light (ep. 37, 00:18:37 a 00:19:27).
+- **Cuerpo**: alto, flaco, encorvado, **sonrisa enorme de dientes**,
+  ojos amarillos con pupila roja, plumas negras, cinturón con cadena ✅
+  (visto: ep. 1, 00:13:00 y 00:16:12, alas de pelo negro en punta y
+  **hebilla de calavera**). Mide **230 cm** (§«Punto 20»).
+
+### Misa Amane (弥海砂) — la segunda Kira
+
+- **Quién es**: modelo y actriz; la **segunda Kira**, con el cuaderno de la
+  shinigami Rem. Se enamora de Light a primera vista ✅
+  ([pixiv 百科](https://dic.pixiv.net/a/%E5%BC%A5%E6%B5%B7%E7%A0%82)).
+- **Graba vídeos**: manda **cintas** a Sakura TV (ep. 11, 00:03:27) y, al
+  ver la respuesta de «Kira», corre a grabar otra: «さあ！　ビデオ ビデオ»
+  (ep. 12, 00:09:08) ✅. **Es el personaje que graba**: el más cercano a
+  un canal de doblaje.
+- **Cómo habla**: **se nombra a sí misma «Misa»** ✅; alarga las vocales:
+  «もっちろん», «見ーっけ».
+- **Carácter**: impulsiva, infantil, cómica y temeraria, pero lista para
+  las coartadas ✅ ([pixiv 百科](https://dic.pixiv.net/a/%E5%BC%A5%E6%B5%B7%E7%A0%82)).
+- **Momento duro**: atada y con los ojos vendados (ep. 16, 00:03:21) ✅.
+  **Segunda pasada**: a las 00:03:21 (minuto del subtítulo) el plano es
+  de L con Matsuda y otro agente; **su cara atada se ve a las 00:20:58**
+  (ver 8.1).
+- **Ropa**: **gótica lolita** (ver §16).
+
+### Near (ニア) — el sucesor
+
+- **Quién es**: niño de Wammy's House, sucesor de L con Mello. Se
+  presenta a Light como **«Ｎ»** (ep. 28, 00:01:57) ✅. Descubre que
+  **Light es Kira** (ep. 33, 00:11:53) y gana en el almacén (ep. 37).
+- **Frase**: «ゲームは勝たなければ パズルは解かなければ» («un juego hay que
+  ganarlo, un puzle hay que resolverlo», ep. 27, 00:02:01 a 00:02:04) ✅.
+- **Cuerpo** ⚠️: sentado en el suelo, una rodilla arriba, **enrollándose
+  un mechón blanco** con el dedo; juguetes (puzles blancos, dados,
+  muñecos) por todas partes. **Visto en la segunda pasada**: de niño, en
+  cuclillas sobre una alfombra oriental, pelo tapando los ojos (ep. 27,
+  00:02:01) ✅; y primer plano frío, camisa blanca abierta (ep. 33,
+  00:11:53) ✅. El mechón con el dedo sale en el arte oficial (hoja 1,
+  nº14), no se vio en fotograma.
+
+### Los secundarios que conviene tener a mano
+
+| Quién | Por qué | Minuto |
+|---|---|---|
+| **Mello** | Rival de Near, chocolate, cuero negro | ep. 27, 00:01:35 |
+| **Mikami** | «削除», el fan de Kira | ep. 31, 00:18:47 |
+| **Matsuda** | El novato torpe; **dispara a Light** al final | ep. 37, 00:14:16 |
+| **Sōichirō Yagami** | El padre honrado | ep. 6, 00:01:44 |
+| **Watari** | El mayordomo de L | ep. 25, 00:16:38 |
+| **Rem** | La shinigami de Misa | ep. 13, 00:02:25 |
+
+**Matsuda** es, además, el **secundario de comedia más querido** del
+fandom (ver §9 y «Punto 21»): no es un genio, se equivoca, y al final
+dispara a Light por pura rabia humana.
+
+### 8.1 La cara en cada emoción, con fotograma (segunda pasada)
+
+Fotogramas de la serie completa en Internet Archive
+([DeathNoteTV](https://archive.org/details/DeathNoteTV), 37 episodios),
+sacados con `ffmpeg -ss` directo sobre la URL (la función `sacar()` de
+`fotogramas.py`). El enlace lleva el segundo exacto (`?t=`). **En 4 de 6
+filas el minuto que traía la primera pasada (del subtítulo, sin vídeo)
+no era la escena**: se buscó con una hoja de contacto cada 25-30 s y se
+corrigió. La columna «Antes» dice el minuto viejo.
+
+| Personaje | Emoción | Ep. | Minuto | Antes | Qué se ve y enlace |
+|---|---|---|---|---|---|
+| Light | Rabia | 2 | 00:16:24 | igual | ✅ Primer plano de perfil, ceño hundido, ojos entornados que reflejan la pantalla. [Internet Archive, `?t=984`](https://archive.org/download/DeathNoteTV/02%20-%20Confrontation.mp4?t=984) |
+| Light | Miedo, pánico final, herido y solo | 37 | **00:15:58** | ≈00:18:30 | ✅ Primerísimo plano, sangre en la mejilla, ojo muy abierto, luz cálida. A las 00:18:30 la cámara ya está en Ryuk sobre la torre. [`?t=958`](https://archive.org/download/DeathNoteTV/37%20-%20New%20World.mp4?t=958) |
+| Light | Alegría, triunfo (la risa del meme) | 1 | 00:22:32 | igual | ⚠️ En este archivo, a las 00:22:32 sale un destello blanco de transición; se buscó la risa en la tumba de L en el ep. 24 (cada 60 s) sin dar con ella. Hay un clip doblado de la escena: [YouTube KOFd72TcTj8](https://www.youtube.com/watch?v=KOFd72TcTj8) |
+| L | Concentración, manía | 15 | **00:08:04** | 00:09:07 | ✅ En cuclillas sobre el respaldo de un banco de exterior, rodillas al pecho, zapatos en el suelo, Light de pie al lado. A las 00:09:07 ya hablan los dos de pie. [`?t=484`](https://archive.org/download/DeathNoteTV/15%20-%20Wager.mp4?t=484) |
+| L | Tristeza («寂しいですね») | 25 | 00:14:45 | igual | ⚠️ Sin fotograma propio; clip doblado de la escena del masaje de pies: [YouTube rIc7gVUzUBY](https://www.youtube.com/watch?v=rIc7gVUzUBY) |
+| Ryuk | Alegría (sonrisa enorme, colmillos) | 1 | **00:17:29** | 00:16:12 | ✅ Primerísimo plano de la cara de Ryuk sonriendo de oreja a oreja, ojos muy abiertos, pupilas rojas. En este archivo, a las 00:16:12 sale Light; la cesta de manzanas, a las 00:15:50. [`?t=1049`](https://archive.org/download/DeathNoteTV/01%20-%20Rebirth.mp4?t=1049) |
+| Misa | Miedo (atada, con antifaz, celda blanca) | 16 | **00:20:58** | 00:03:21 | ✅ Inmovilizada con correas contra un panel blanco, antifaz, coletas colgando. A las 00:03:21 el plano es de L con Matsuda y otro agente. [`?t=1258`](https://archive.org/download/DeathNoteTV/16%20-%20Decision.mp4?t=1258) |
+| Near | Calma, pensativo, jugando en el suelo | 27 | 00:02:01 | igual | ✅ En cuclillas sobre una alfombra oriental, mangas remangadas, brazos a media altura, cabeza inclinada, pelo tapando los ojos. [`?t=121`](https://archive.org/download/DeathNoteTV/27%20-%20Abduction.mp4?t=121) |
+| Matsuda | Vergüenza, torpeza (dispara a Light, tembloroso) | 37 | 00:14:16 | igual | ⚠️ Sin fotograma propio; comparación de doblajes de la escena: [YouTube VJPH7IIKNFw](https://www.youtube.com/watch?v=VJPH7IIKNFw) |
+
+**Ojo con las copias**: Internet Archive tiene **dos copias** de la
+serie. La de esta tabla (`DeathNoteTV`) y la de §2.11 (`death-note-XX`)
+no van siempre al mismo segundo: en el ep. 1, a las 00:16:12, una
+enseña la silueta de Ryuk y la otra a Light; en el ep. 27, a las
+00:02:01, una enseña a Near y la otra a otro niño de Wammy's. **Usa
+siempre el enlace con `?t=` de la fila**, no el minuto a secas.
+
+---
+
+## 9 · ¿Quién es el más querido?
+
+| Encuesta | Resultado | Estado |
+|---|---|---|
+| **Jump, oficial** | **No hubo** encuesta oficial de personajes; «en internet, L es 1.º» | ⚠️ ([Yahoo! 知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13118117603), una respuesta de usuario) |
+| **Nlab (ねとらぼ), 2021** | **1.º L** (397 votos, 35,2 %), **2.º Light** (272, 24,1 %), luego **Near** y **Mello** | ⚠️ las cifras, una fuente ([Nlab](https://nlab.itmedia.co.jp/research/articles/118759/); hay otra encuesta abierta: [ねとらぼ](https://nlab.itmedia.co.jp/research/articles/84945/)) |
+| **みんなのランキング** | Ranking vivo de 52 personajes | ⚠️ no pude ver el orden ([ranking.net](https://ranking.net/rankings/best-deathnote-characters)) |
+| **Ranker (EE. UU.)** | L, Ryuk y Light arriba | ⚠️ ([Ranker](https://www.ranker.com/list/all-death-note-anime-characters/reference)) |
+| **Corea** | L tiene «popularidad de culto» por la postura, el pelo, las ojeras y los dulces | ✅ ([Namuwiki](https://namu.wiki/w/L(%EB%8D%B0%EC%8A%A4%EB%85%B8%ED%8A%B8)), [Wikipedia coreana](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%8A%A4%EB%85%B8%ED%8A%B8%EC%9D%98_%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC_%EB%AA%A9%EB%A1%9D)) |
+
+**Conclusión**: **L es el más querido**, por delante del protagonista ✅
+(cuatro fuentes coinciden, aunque ninguna es oficial).
+Justo el caso que el dueño avisó («quizá un secundario es más querido que
+el principal»). **Ryuk** es el más reconocible de lejos (por su cara y la
+manzana) ⚠️. **Near** sale 3.º, empatado con Mello: úsalo para la
+lámina 2, no para la 1. **Misa** no sale arriba en ninguna encuesta que
+pude ver ⚠️.
+
+### 9.1 Segunda pasada: dos fuentes nuevas
+
+| Fuente | Resultado | Estado |
+|---|---|---|
+| **AniList, favoritos de usuarios** (recuento vivo) | **L 26 512**, Light 20 343, Ryuk 7 079, Misa 7 010, Mello 2 492, Near 2 473 | ✅ ([AniList](https://anilist.co/anime/1535)); coincide con Nlab y Namuwiki: L 1.º, Light 2.º |
+| **Reddit r/deathnote** (Arctic Shift, hilos con más votos) | **Matsuda**, secundario de culto: «hoy es el cumpleaños de Matsuda, mi favorito» (238 votos); hilo sobre el favorito *menor* (292 votos) | ✅ ([hilo 1](https://www.reddit.com/r/deathnote/comments/1pmllij/its_touta_matsudas_birthday_today_hes_my_favorite/), [hilo 2](https://www.reddit.com/r/deathnote/comments/1qnnbxe/whos_your_favorite_minor_character_i_dont_mean/)) |
+| Danbooru («los más dibujados», de `recolectar.py`) | **Descartado**: la lista era de otras franquicias (la etiqueta se filtró mal) | ⚠️ no usar |
+
+- **L sigue siendo el más querido** ✅ (ya son cinco fuentes).
+- **Ryuk** saca casi el triple de favoritos que Mello y Near, y está
+  empatado con Misa: **es el más reconocible de lejos** ✅ (AniList y
+  Reddit; sube de ⚠️ a ✅).
+- **Matsuda** es el **secundario de comedia más querido** ✅: buena carta
+  para una lámina 2 con un personaje distinto de L o Light.
+
+---
+
+## 10 · Doblaje latino
+
+**Sí hay doblaje latino** del anime, hecho en México, y está en
+plataformas: Netflix, Crunchyroll y otras (confirmado en la segunda
+pasada, ver abajo) ✅ (lista de
+[The Dubbing Database](https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish));
+Netflix: [título 70204970](https://www.netflix.com/title/70204970)).
+
+- **Estudio**: AF The Dubbing House / Fogarty Studios ⚠️ (una fuente: la
+  guía de cuadros de diálogo, que lo sacó de Doblaje Wiki).
+- **Dirección**: **Rolando de Castro**, que además hace de Ryuk. **Se leyó
+  el primer tomo del manga** para guiar a los actores ✅ (Doblaje Wiki y
+  The Dubbing Database, en los resúmenes).
+- **Estreno**: en **Animax**, en su programación de **2008** ✅
+  ([Animeol](https://animeol.wordpress.com/2008/05/29/mas-sobre-el-doblaje-de-death-note-en-latinoamerica/),
+  [ANMTV, 2009](https://www.anmtvla.com/2009/03/que-opinas-sobre-el-doblaje-latino-de.html)).
+- **El doblaje tardó un año y ocho meses**, y **se grabó en el orden de
+  los episodios**, cosa rara en México: los actores crecieron con sus
+  personajes (lo cuenta Rebeca Gómez) ✅ (The Dubbing Database y Doblaje
+  Wiki, en los resúmenes).
+- Animax publicó **entrevistas** a Campuzano, Núñez, Coronel y Olguín ✅.
+
+| Personaje | Voz latina | De paso | Estado |
+|---|---|---|---|
+| **Light** | **Manuel Campuzano** | Chōji (Naruto), Urahara (Bleach), Franky (One Piece), Pantera Negra (MCU) | ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Manuel_Campuzano), [TikTok](https://www.tiktok.com/@theraer17/video/7372463782171397382?lang=es), [YouTube](https://www.youtube.com/shorts/1ibgO7BYhFs)) |
+| **L** | **Hugo Núñez** | Nelson Muntz (Los Simpson), Laito (Diabolik Lovers) | ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hugo_N%C3%BA%C3%B1ez), [Star Con](https://www.facebook.com/starconmx/videos/hugo-n%C3%BA%C3%B1ez-actor-de-doblaje-que-dio-voz-a-l-en-death-note-laito-sakamaki-en-diab/977152957527148/), [YouTube](https://www.youtube.com/watch?v=Mbc2Axk5v20)) |
+| **Ryuk** | **Rolando de Castro** (y director) | Snape (Harry Potter), Freddy Krueger | ✅ ([Doblaje Wiki: Ryuk](https://doblaje.fandom.com/es/wiki/Ryuk), [Star Con](https://www.facebook.com/starconmx/videos/rolando-de-castro-actor-de-doblaje-que-di%C3%B3-voz-a-ryuk-en-la-serie-death-note-fre/1933706170137083/)) |
+| **Misa** | **Rebeca Gómez** | — | ✅ ([TikTok de ella](https://www.tiktok.com/@rebecagomez_voz/video/7124101453160975621), [YouTube](https://www.youtube.com/watch?v=lEpcImh9vF4)) |
+| **Near** | **Bruno Coronel** | — | ✅ ([TikTok de él](https://www.tiktok.com/@bruno_coronel/video/7125570347570564358), [The Dubbing Database](https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish))) |
+| **Mello** | **Javier Olguín** | — | ✅ (Doblaje Wiki y The Dubbing Database, en los resúmenes) |
+| Sōichirō | **José Lavat** | Narrador de muchos animes clásicos | ✅ **segunda pasada**: Doblaje Wiki por su API y The Dubbing Database (antes, dos pistas indirectas: [Propuestas fanon](https://propuestas-fanon.fandom.com/es/wiki/Death_Note_Relight), [TikTok](https://www.tiktok.com/@imitandupoficial/video/7626173420266425621)) |
+| **Rem** | **Erica Edwards** | — | ✅ segunda pasada (antes «no lo encontré») |
+| **Watari** | **Carlos del Campo** | — | ✅ segunda pasada (antes «no lo encontré») |
+| **Matsuda** | **Alfredo Leal** | — | ✅ segunda pasada (antes «no lo encontré»); también citado en foros de doblaje mexicano ⚠️ |
+| **Mikami** | **Arturo Mercado Jr.** | — | ✅ segunda pasada (antes «no lo encontré») |
+| Aizawa | Carlo Vázquez | — | ✅ segunda pasada |
+| Naomi Misora | Claudia Contreras | — | ✅ segunda pasada |
+| Mogi | Alejandro Mayén | — | ✅ segunda pasada |
+
+**Segunda pasada: de dónde sale el reparto.** Wikitext de
+[Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Death_Note) por su
+`api.php` (la web pide verificación) y de
+[The Dubbing Database](https://dubdb.fandom.com/wiki/Death_Note_(Latin_American_Spanish)).
+Los catorce nombres salen en las dos ✅. Ojo: The Dubbing Database cita
+a Doblaje Wiki como su fuente (`ref=doblaje`), así que en rigor es un
+mismo origen leído en dos wikis; se acepta igual que en la primera
+pasada. Seiyū de cada uno: Miyano (Light), Yamaguchi (L), Nakamura
+(Ryuk), Hirano (Misa), Hidaka (Near), Sasaki (Mello), Saitō (Rem),
+Kobayashi (Watari), Naitō (Matsuda), Matsukaze (Mikami), Uchida
+(Sōichirō).
+
+- **Ficha de producción** (Doblaje Wiki, una fuente ⚠️): casting
+  **Marina Huerta**; traducción **Adrián Fogarty y Gabriela Gómez**;
+  adaptación **Carlos Blanco**; edición de diálogo **Adrián Fogarty**;
+  grabación **2008-2009**.
+- **El estudio, con matiz** ⚠️: Doblaje Wiki dice **AF The Dubbing
+  House**; The Dubbing Database dice **Mystic Sound**, enlazado a
+  **Fogarty Studios**. Lo más probable: AF gestionó el doblaje y Mystic
+  Sound / Fogarty fue el estudio de grabación. No elijas uno solo.
+- **Dónde verlo en latino, oficial** ✅ (The Dubbing Database): en TV
+  salió por Animax, Sony Spin, Adult Swim LA, ETC, TN8, Canal UCR, Canal
+  Claro, Willax y Pánico; en streaming, **Netflix, Pluto TV,
+  Crunchyroll, HBO Max, Mercado Play y Amazon Prime Video** (y
+  Funimation, ya cerrado). Sube de ⚠️ a ✅ la lista de plataformas.
+
+Casting: Hugo Núñez **probó para varios personajes** (Matsuda, Ryuk,
+Light y L) y se quedó con L ⚠️ (una fuente dice cuatro, otra cinco).
+
+### Frases del doblaje latino
+
+| Frase | Escena | Estado |
+|---|---|---|
+| **«Tomo una fritura… y la como»** (en latino es **«fritura»**, no «papa frita») | ep. 8, 00:18:35 | ✅ la palabra «fritura» ([YouTube: «LIGHT: ¡¡TOMO UNA FRITURA Y LA COMO!!»](https://www.youtube.com/watch?v=8V1szEGOGTs), [TikTok: «Ahora tomo una papa y me la como»](https://www.tiktok.com/discover/ahora-tomo-una-papa-y-me-la-como)); el orden exacto de las palabras ⚠️ |
+| «Yo soy la justicia» | ep. 2, 00:16:24 | ⚠️ (webs de frases de fans; puede venir de fansubs) |
+| «Seré el dios del nuevo mundo» | ep. 1, 00:21:00 | ⚠️ (igual) |
+| «Los humanos son tan interesantes» (Ryuk) | final de la **película de Netflix** de 2017 | ⚠️ (Doblaje Wiki, en el resumen); en el anime, sin comprobar |
+
+**Segunda pasada**: la palabra **«fritura»** queda confirmada con un
+segundo clip doblado, «Death note Español latino /la escena de la
+patata/ xD» (canal *anadanielapotter15*, 147 k vistas,
+[YouTube IXwqj7g9rWk](https://www.youtube.com/watch?v=IXwqj7g9rWk)) ✅;
+el orden exacto de la frase sigue sin comprobar con un subtítulo
+oficial ⚠️. Para oír **el latino y el castellano lado a lado** en la
+escena en que Matsuda dispara a Light (ep. 37): canal *RVD Doblajes*,
+33 k vistas ([YouTube VJPH7IIKNFw](https://www.youtube.com/watch?v=VJPH7IIKNFw))
+⚠️ (recopilación de fan, no oficial).
+
+**Antes de rotular una frase del doblaje, escúchala en Netflix.** Si no
+se puede, usa una frase **nueva en la voz del personaje**, sin decir que
+es del doblaje.
+
+---
+
+## 11 · Música
+
+✅ ([Wikipedia: OST](https://en.wikipedia.org/wiki/Death_Note_original_soundtracks),
+[Apple Music](https://music.apple.com/us/album/death-note-original-soundtrack/1611734763);
+y el archivo de letras de Moozzi2 en kitsunekko, que pone cada canción en
+su episodio)
+
+| Tema | Quién | Episodios | Ambiente |
+|---|---|---|---|
+| **«the WORLD»** (OP 1) | Nightmare | 1 a 19 | Rock visual kei, épico, de «revolución» («革命の契り») |
+| **«Alumina»** (ED 1) | Nightmare | 1 a 19 | Balada oscura |
+| **«What's up, people?!»** (OP 2) | Maximum the Hormone | 20 a 37 | Metal a gritos, caótico |
+| **«Zetsubō Billy»** (ED 2) | Maximum the Hormone | 20 a 36 | Metal con humor negro |
+| **Banda sonora** | **Hideki Taniuchi** (pistas 1-18 del OST 1) y **Yoshihisa Hirano** (19-28) | — | Coros latinos, órgano, guitarra eléctrica |
+| «**L's Theme**» | OST | — | Piano y cuerdas: pensar, deducir |
+| «**Low of Solipsism**» | OST | — | Coro y órgano: la iglesia de Kira |
+
+Para la lámina: **coro y órgano** = luz de iglesia, vitral rojo;
+**L's Theme** = pantallas, azul frío. Los OST se editaron el 21 de
+diciembre de 2006 (I) y el 21 de marzo de 2007 (II), en VAP ✅.
+
+### 11.1 Qué suena en cada escena (segunda pasada)
+
+Temas reconocidos por su audio en [wtas.moe](https://wtas.moe) y
+cruzados con el tracklist oficial de las tres OST (Wikipedia, arriba).
+
+| Escena | Ep., minuto | Tema | Estado |
+|---|---|---|---|
+| **L muere en brazos de Light** (la sonrisa) | 25, desde 00:17:13 | **«Kyrie II»** (pista 1 de la OST II) | ✅ wtas.moe + tracklist |
+| Openings | 1-19 / 20-37 | «the WORLD» / «What's up, people?!» (versión TV) | ✅ |
+| Endings | 1-19 / 20-36 | «Alumina» / «Zetsubō Billy» (versión TV) | ✅ |
+| Ep. 8 entero (con la papa, 00:18:35) | 8 | «Low of Solipsism», «Low of Solipsism II», «Reasoning», «Himitsu», «Kuroi Light», «Kyrie» | ⚠️ una fuente, sin minuto por pista |
+| Ep. 25 entero (muerte de L) | 25 | «Semblance of Dualism», «Misa no Uta», «L no Theme», «L no Kabe», «Tactics of the Absolute», «Alert», «Domine Kira», «Requiem» | ⚠️ una fuente; sólo «Kyrie II» tiene su minuto |
+
+- **El sonido de Kira es de iglesia**: «Kyrie», «Requiem», «Domine
+  Kira» («Señor Kira» en latín litúrgico) ✅ (tres títulos del
+  tracklist). **El de pensar** es piano y cuerdas («L no Theme»).
+- **Efectos que todos reconocen** (oídos en la segunda pasada): el
+  **tictac del segundero** antes de los 40 segundos (ep. 36, 00:20:55 a
+  00:21:10; en pantalla, un plano fijo del reloj de pared) y las
+  **campanas** antes de la muerte de L (ep. 25, 00:01:57 a 00:02:23 y
+  00:10:30) ✅.
+- En la muerte de Misa, al final, **el ending cambia a una canción más
+  suave** (lo dice TV Tropes) ⚠️: no se sacó el nombre del tema.
+
+---
+
+## 12 · Vídeos
+
+En la primera pasada YouTube estaba bloqueado: **no pude ver ninguno**.
+En la segunda sigue sin dejar bajar vídeo, pero **se miraron los
+episodios en Internet Archive y el opening, el ending y el tráiler en
+Dailymotion**: todo eso, con minuto, está en §2.11 y en 12.1.
+
+| Vídeo | Para qué |
+|---|---|
+| **Los 37 episodios, gratis en el canal de YouTube de Viz** (EE. UU.) ✅ ([Anime News Network](https://www.animenewsnetwork.com/news/2023-02-18/viz-media-youtube-channel-adds-death-note-inuyasha-hunter-x-hunter-more-anime/.195055), [Anime Corner](https://animecorner.me/viz-media-makes-death-note-inuyasha-and-more-available-to-stream-on-youtube-in-the-united-states/)) | Sacar fotogramas en HD |
+| [Death Note, doblaje latino](https://www.youtube.com/watch?v=LH2By2Gd5vc) | Oír voces |
+| [Las voces de Death Note (doblaje latino)](https://www.youtube.com/watch?v=eK5mMMzUcTc) | Reparto |
+| [«¡¡Tomo una fritura y la como!!»](https://www.youtube.com/watch?v=8V1szEGOGTs) | La frase en latino |
+| [Light come una papa, latino](https://www.youtube.com/watch?v=IFHxQOJT8NA) | Igual |
+| [Entrevista a Hugo Núñez (L)](https://www.youtube.com/watch?v=Mbc2Axk5v20) | Cómo hizo a L |
+| [Manuel Campuzano grabando como Light](https://www.youtube.com/shorts/1ibgO7BYhFs) | Cómo suena Light hoy |
+| [Rebeca Gómez firmando (Misa)](https://www.youtube.com/watch?v=lEpcImh9vF4) | — |
+| [El IMPACTO de L en Death Note](https://www.youtube.com/watch?v=9iyGff0-jng) | Análisis en español |
+| [Lo que revelan las conversaciones entre Light y L](https://www.youtube.com/watch?v=vcknhV5VkGk) | Análisis en español (2024) |
+| [Por qué perdió Light Yagami](https://www.youtube.com/watch?v=462Ia6vGres) | Final explicado |
+| [Españoles reaccionan: latino vs. español](https://www.youtube.com/watch?v=lHUKue4evAU) | Comparar doblajes |
+| [The Brilliance of Death Note's Potato Chip Scene](https://www.youtube.com/watch?v=eoHC_rfX50U) | La papa, en inglés |
+| Bilibili: [计划通, doblajes comparados](https://www.bilibili.com/video/BV1Eb411L7Sn/) y [la risa de Light](https://www.bilibili.com/video/BV1Ny4y1e7T8/) | Fandom chino |
+
+Tráileres: los que salen en Netflix con «Death Note | Tráiler» son **de
+la película de 2017**, no del anime ([Netflix](https://www.youtube.com/watch?v=u2GX_z65k-s)).
+**No los uses** de referencia.
+
+TikTok: retos de doblaje con Light y Misa
+([SDV servicios de voz: Light](https://www.tiktok.com/@sdv_serviciosdevoz/video/7187095780468034821),
+[Misa](https://www.tiktok.com/@sdv_serviciosdevoz/video/7145238036119309573)).
+**Son justo el tipo de guion que iría en #textos.** Siguen activos en la
+segunda pasada ✅.
+
+### 12.1 Segunda pasada: vídeos mirados y tendencias
+
+- **Tráiler del anime**: [Dailymotion x89nprz](https://www.dailymotion.com/video/x89nprz),
+  0:00 a 1:34, ocho fotogramas mirados (0:12 ojos de Light, 0:36 y 1:00
+  «How to use it», 0:48 la «L», 1:12 Light y L cara a cara) ✅.
+- **Opening** [x31pve2](https://www.dailymotion.com/video/x31pve2) y
+  **ending** [x6alujt](https://www.dailymotion.com/video/x6alujt), con
+  sus minutos en §2.11 ✅.
+- **Episodios con el segundo exacto**: los enlaces `?t=` de §8.1 y la
+  serie entera en [Internet Archive](https://archive.org/details/DeathNoteTV) ✅.
+- **Cuidado**: los clips «Death Note - L Confronts Light» de Dailymotion
+  (canal de Netflix, [x70vd6b](https://www.dailymotion.com/video/x70vd6b))
+  son **de la película de 2017**. No sirven de estilo.
+
+**Tendencias de TikTok** (enlaces directos; TikTok no deja leer vistas ni
+fecha desde aquí ⚠️):
+
+| Qué | Enlace | Qué es |
+|---|---|---|
+| El sonido de la papa | [TikTok, sonido](https://www.tiktok.com/music/Death-note-light-potato-chips-7140838365938633518) | La frase de Light usada de fondo en muchos vídeos ✅ |
+| Vídeo con ese sonido | [@baixy__](https://www.tiktok.com/@baixy__/video/7569787627541482774) | «Potato Chips and Death Note» ✅ |
+| *Keikaku doori* fuera de contexto | [@vegansocietynz](https://www.tiktok.com/@vegansocietynz/video/7115303261917252865), [@micahllection](https://www.tiktok.com/@micahllection/video/7308189862421663006) | La cara del ep. 24 para humor ✅ |
+| El origen del meme | [Know Your Meme: Just According to Keikaku](https://knowyourmeme.com/memes/just-as-planned) | Nace de una **nota de traducción de un fansub** del ep. 24 que explicaba que «keikaku» es «plan»: la nota se hizo tan famosa como la frase ✅ |
+
+**Análisis de YouTube de la tabla de arriba**: siguen sin minuto
+(YouTube no deja abrirlos desde aquí; Dailymotion sólo tiene clips de
+la película de 2017) ⚠️.
+
+---
+
+## 13 · Videojuegos de la franquicia
+
+| Juego | Qué es | Interfaz |
+|---|---|---|
+| **Death Note: Kira Game** (DS, Konami, 15-feb-2007, sólo Japón) | Juego de deducción: eres Kira o L. Fases de **investigación, votación y «L o Kira»**. 19 personajes ✅ ([StrategyWiki](https://strategywiki.org/wiki/Death_Note:_Kira_Game), [RetroAchievements](https://retroachievements.org/game/15499)) | Retratos con texto en caja ⚠️ (no vi capturas) |
+| **L o Tsugu Mono** (DS, 2008 ⚠️) | Secuela ✅ (con Near y Mello ⚠️, de memoria) | ⚠️ |
+| **Death Note: Killer Within** (Grounding y Bandai Namco, 5-nov-2024; PS4, PS5, PC) | Deducción social para 10: Kira, seguidores, L e investigadores. **Kira escribe en el cuaderno y se le ve con él en la mano**. L guía la reunión. En 2025 añadieron **X Kira** y **N** ✅ ([Bandai Namco](https://www.bandainamcoent.com/news/death-note-killer-within-available-now-on-playstation-and-pc), [Steam Deck HQ](https://www.steamdeckhq.com/game-reviews/death-note-killer-within/), [ANN](https://www.animenewsnetwork.com/news/2025-08-27/death-note-killer-within-social-deduction-game-adds-x-kira-n-roles-3d-mode/.228148), [Screen Rant](https://screenrant.com/death-note-killer-within-review-playstation/)) | Fase de reunión con votos ⚠️ |
+
+**Para #textos**: la **reunión** de Killer Within es un **diálogo para
+varias voces**. Buena idea de guion, no de lámina.
+
+### 13.1 La interfaz real de Killer Within (segunda pasada, capturas miradas)
+
+Seis capturas oficiales de Steam a 1920×1080 (las URL están en
+`partes/datos-texto.md`; ejemplo:
+[captura 3](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213190/ss_427a9f56562d4a45862ecaf3d5514ac9c4bc468f.1920x1080.jpg)).
+Miradas por el redactor, 26-sep-2026 ✅ (una fuente: el propio juego).
+
+- **Escribir en el cuaderno**: panel a la derecha con tres pestañas
+  («Select Target», «Select Condition», «Write in Death Note»), la
+  frase «Enter the command and write in the Death Note!», una **hoja
+  rayada gris oscuro** y, encima, en **rojo a mano**, «004 Died in an
+  accident in front of the convenience store». Alrededor, **trazos rojos
+  de pincel** que salen en abanico, como un grito.
+- **El aviso de L**: un **portátil con la «L» gótica** «habla» con un
+  **globo blanco de cómic de borde dentado** y contorno negro: «A player
+  who could be Kira was found at Restroom!». El fondo se vuelve **gris,
+  desaturado**, y la cámara de vigilancia sale en una ventana con
+  «LIVE». Debajo, botones en cartela blanca: «Resolve the incident!»,
+  «Kira has been found!», «A body was found!».
+- **Siempre arriba a la izquierda**: un reloj redondo con un sector rojo
+  y «Day 01 · 77 seconds left». Arriba a la derecha, dos barras:
+  «Investigation Progress» (azul, con la cara de L) y «World Progress»
+  (roja, con la de Kira).
+- **Testimonio**: una cinta verde «Hear Testimony» sobre una mancha de
+  pincel negra, y un botón «OK».
+- **Votación**: fichas en rejilla «Standard Investigator 001…010», cada
+  una con un minibocadillo «C is Kira!», un sello rojo **«Suspect»**,
+  «Skip Vote» con una calavera y «Time until voting ends: 176 seconds ·
+  All votes are final».
+- **Las escenas**: los jugadores son **muñecos cabezones** de colores;
+  detrás, **Light gigante con ojos rojos** sobre una calle de noche con
+  una señal de velocidad «40», o **L gigante con el dedo en el labio**
+  junto a un cartel «近寄ってくる人に要注意!!».
+
+**Para la lámina**: el globo dentado de L y la hoja rayada con letra
+roja son **cuadros de diálogo oficiales de la franquicia**. Sirven para
+una lámina 2 o para el bot; en la lámina principal manda el cuaderno de
+papel (§7.3). El juego no trae español latino (sólo español de España)
+✅ (Steam).
+
+---
+
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+### Lo que todos reconocen
+
+- **La papa frita** (ep. 8): el meme más grande; en inglés «I'll take a
+  potato chip… and EAT IT!» (Brad Swaile) ✅ ([Know Your Meme](https://knowyourmeme.com/memes/just-according-to-keikaku),
+  [ComicBook.com](https://comicbook.com/anime/news/death-note-potato-chip-scene-reddit/));
+  en latino, **«fritura»** (§10). En chino, «一边学习，一边杀人，顺便吃薯片»
+  ([Bilibili](https://www.bilibili.com/video/BV1Ww411F7hv/)).
+- **«Just according to keikaku»** (ep. 24): un fansub puso «(T/N: keikaku
+  means plan)»; es meme desde 2008 ✅ ([Know Your Meme](https://knowyourmeme.com/memes/just-according-to-keikaku),
+  [萌娘百科: 计划通](https://zh.moegirl.org.cn/zh-hans/%E8%AE%A1%E5%88%92%E9%80%9A),
+  [Namuwiki](https://namu.wiki/w/%EC%95%BC%EA%B0%80%EB%AF%B8%20%EB%9D%BC%EC%9D%B4%ED%86%A0)).
+- **La postura de L** (cuclillas, pulgar al labio) ✅.
+- **Ryuk y las manzanas** ✅.
+- **«削除» de Mikami** (ep. 31) ⚠️ (meme de memoria; el minuto ✅).
+- **La risa de Light** ✅ ([Bilibili](https://www.bilibili.com/video/BV1Ny4y1e7T8/)).
+- **La pareja L y Light** domina el fan art (pixiv, §4.2).
+- Tendencias en TikTok: cuadernos «Death Note» hechos a mano y cosplay
+  de Ryuk ✅ ([TikTok](https://www.tiktok.com/discover/death-note-book-trend),
+  [CapCut](https://www.capcut.com/explore/death-note-tiktok)).
+
+### Qué NO hacer (lo que un fan notaría)
+
+- **Mezclar la película de Netflix (2017)** con el anime: otro Light,
+  otro Ryuk (el concept de Luca Nemolato es de la película).
+- **Usar arte hecho con IA**: hay fondos «4K» de Ryuk hechos con
+  Midjourney ([4kwallpapers](https://4kwallpapers.com/anime/ryuk-death-note-ai-14431.html)).
+  El dueño no quiere que parezca IA.
+- **Poner a L sentado normal** o con zapatos. **Poner a Ryuk con
+  colores alegres**. **Poner a Near con ropa de color**.
+- **Sangre en cada muerte**: en el cuaderno **se muere de infarto** (regla
+  IV). La sangre de verdad está **al final** (ep. 37) y en la manzana roja.
+  La lámina puede ser sangrienta, pero **la sangre sobre el papel, no
+  gente destripada**.
+- **Escribir un nombre real** en el cuaderno de la lámina: en un servidor
+  de gente real, **nunca**. Se escriben títulos de guiones, no nombres de
+  personas.
+- Poner la «L» en cualquier letra gótica con adornos: es **una sola
+  letra negra sobre blanco**.
+
+### 14.1 Segunda pasada: el fandom hispano, con vistas reales
+
+Páginas de resultados de YouTube leídas con `navegar.py` (vistas al
+26-sep-2026) y Reddit por Arctic Shift.
+
+- **El meme más grande en español es el ego y el plan de Light** ✅:
+  «SI KIRA TUVIERA EL EGO HASTA LAS NUBES 📖» (*El Canolexx*, **1,3
+  millones**, [YouTube dXEMsibyrmw](https://www.youtube.com/watch?v=dXEMsibyrmw));
+  «¿Acaso eres gay, Kira?» (*Briff B*, **1,1 millones**,
+  [qwMjbGUXBtc](https://www.youtube.com/watch?v=qwMjbGUXBtc)); «Light
+  salva al mundo» (edit, **1,3 millones**). El fandom hispano se ríe
+  **de la soberbia de Light**, más que de Ryuk o L.
+- **El uniforme escolar de Light** es «su ropa más icónica, aunque casi
+  no lo use» (hilo con **704 votos**,
+  [r/deathnote](https://www.reddit.com/r/deathnote/comments/1g4dtuj/lights_school_uniform_is_his_most_iconic_outfit/))
+  ✅; el **lolita gótico de Misa** también (cosplay con **732 votos**,
+  [r/deathnote](https://www.reddit.com/r/deathnote/comments/1nqbrei/my_misa_misa_cosplay_wearing_one_of_her_iconic/))
+  ✅.
+- También se parodia **con acento regional**: doblaje argentino de fans
+  (*Fedebpolita*, **1 millón**,
+  [P-EMtvZsBY8](https://www.youtube.com/watch?v=P-EMtvZsBY8)) ✅.
+
+**Qué NO hacer (nuevo)**
+
+- **No usar un cover hecho con voz de IA** como si fuera un fandub: hay
+  uno del opening 1 etiquetado «Cover IA»
+  ([sólo como aviso](https://www.youtube.com/watch?v=RthY66kb3eM)) ⚠️. Ni
+  de referencia.
+- **No hacer que el chiste sea de Ryuk o de L**: los tres memes
+  hispanos más vistos son sobre **Light**. Ryuk de gracioso sería al
+  revés de lo que hace el fandom.
+- **No citar como fandub** los clips de Dailymotion «Death Note: El nuevo
+  mundo - Tráiler español»: son el doblaje oficial de una película, mal
+  etiquetados ⚠️.
+
+---
+
+## 15 · Poses analizadas por personaje
+
+El minuto es del subtítulo ✅. **Lo que se ve (postura, manos, mirada)
+era de memoria** en la primera pasada ⚠️. **En la segunda pasada se
+miraron los fotogramas de 19 filas** (Internet Archive): donde pone
+«**Visto**» está comprobado ✅, y donde pone «**Corregido**» el minuto o
+el gesto eran otros. Las filas sin marca siguen de memoria ⚠️. Columna «Sirve para»: presentar, explicar,
+celebrar, regañar, pensar, animar.
+
+### Light
+
+| # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
+|---|---|---|---|---|
+| 1 | 1, 00:04:32 | «“使い方”» | **Corregido**: no es Light, es el insert de la página negra «How to use it» con letra blanca gótica ✅. Para Light con el cuaderno, usa el arte oficial (hoja 1, nº27) | **explicar** (el cuaderno) |
+| 2 | 1, 00:13:25 | «待ってたよ リューク» | Se gira en la silla hacia Ryuk, tranquilo, sin miedo | presentar |
+| 3 | 1, 00:21:00 | «新世界の神となる» | De pie, de noche, mirada alta, sonrisa | **presentar** |
+| 4 | 2, 00:16:24 | «僕は正義だ！» | Grita a la tele, puño cerca de la cara. **Visto** ✅ | **regañar** |
+| 5 | 2, 00:17:24 | «ハハハハハッ» | Risa desatada, cabeza atrás | celebrar (villano) |
+| 6 | 8, 00:18:35 | «ポテチを取り 食べる» | **Visto** ✅: la derecha escribe con bolígrafo en el cuaderno abierto mientras la izquierda sube la papa a la boca; bolsa naranja, luz lateral dura. El gesto es «trabajar con las dos manos» | **animar** (humor) |
+| 7 | 24, 00:05:42 | «計画どおり» | Media cara en sombra, sonrisa torcida. **Visto** ✅, y además ojos rojos brillantes y un auricular de manos libres junto a la boca | **pensar** (villano) |
+| 8 | 36, 00:21:12 | «ニア 僕の勝ちだ» | **Corregido** ✅: primerísimo plano, pelo despeinado tapando un ojo, **bolígrafo entre los dientes**, fondo blanco quemado. Más intenso que «de pie» | celebrar (villano) |
+| 8b | 25, **00:18:00** | (sin texto) | **Visto** ✅: la sonrisa sosteniendo a L, boca abierta, luz roja de alarma. A las 00:17:41 aún no se ve clara | celebrar (villano) |
+| 9 | 37, 00:10:16 | «新世界の神だ» | Brazos abiertos, confiesa | presentar (final) |
+
+### L
+
+| # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
+|---|---|---|---|---|
+| 1 | 2, 00:17:36 | «信じられない» | Sólo la **«L» gótica** en pantalla blanca. **Visto** ✅: tele CRT azul sobre un mueble, suelo verde | **presentar sin cara** |
+| 2 | 6, 00:01:35 | «Ｌです» | De pie, encorvado, manos en los bolsillos, descalzo | **presentar** |
+| 3 | 9, 00:14:39 | «私はＬです» | En la ceremonia, junto a Light, lo dice sin mirarlo | presentar (secreto) |
+| 4 | 9, 00:15:27 | «キラである可能性は５％未満» | Pulgar en el labio | **pensar** |
+| 5 | 10, 00:08:14 | «推理力が40％減です» | En cuclillas sobre la silla del café. **Visto** ✅: dedo en el labio, jardinera verde detrás, luz cálida de persiana | **explicar** |
+| 6 | 10, 00:01:28 | (tenis) | En la pista, raqueta, postura rara | acción |
+| 7 | 15, 00:09:07 | «ショートケーキ ありますかね？» | Pide pastel con la cara seria. A las 00:09:07 hablan los dos de pie; **en cuclillas sobre el respaldo de un banco a las 00:08:04** ✅ (§8.1) | **animar** (humor) |
+| 8 | 25, 00:10:30 | «鐘の音が…» | En la azotea, empapado, mirando al cielo. **Visto** ✅ el plano de lluvia (su paleta está medida en §5.5); a las 00:17:12 ya está dentro, con luz roja | pensar (triste) |
+| 9 | 25, 00:13:36 | «マッサージもつけますよ» | De rodillas, seca los pies de Light | cuidar |
+| 10 | 25, 00:14:45 | «寂しいですね» | Sentado, de perfil, mirada baja | despedir |
+
+### Ryuk
+
+| # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
+|---|---|---|---|---|
+| 1 | 1, 00:02:01 | (dados de calavera) | Tumbado en el mundo shinigami, aburrido | presentar el mundo |
+| 2 | 1, 00:13:00 | «死神のリュークだ» | Aparece detrás de Light, enorme. **Visto** ✅: contrapicado, Light de espaldas al escritorio, alas de pelo negro en punta llenando el plano, cortina azul | **presentar** |
+| 3 | 1, 00:16:12 | «すごいぜ 人間界のリンゴは» | Muerde una manzana roja. **Corregido**: en ese segundo se ve su silueta a contraluz azul con la hebilla de calavera; el mordisco cae ±2 s. La sonrisa enorme, a las 00:17:29 (§8.1) ✅ | **animar** |
+| 4 | 1, 00:16:37 | «英語で説明を付けたんだぜ» | Explica que él escribió las reglas | **explicar** |
+| 5 | 1, 00:21:04 | «やっぱり 人間って… 面白っ！» | Carcajada, brazos abiertos | **celebrar** |
+| 6 | 2, 00:10:32 | «なるほど 二重底か» | Asoma la cabeza al cajón | pensar |
+| 7 | 3, 00:20:09 | «死神の目玉の値段は…» | Se inclina hacia Light, ojos rojos | explicar (el trato) |
+| 8 | 8, 00:18:03 | «マズい 禁断症状が！» | Se retuerce, del revés | humor |
+| 9 | 37, 00:18:37 | «お前の負けだ 月» | Saca su cuaderno y escribe | **regañar** (final) |
+
+### Misa
+
+| # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
+|---|---|---|---|---|
+| 1 | 11, 00:03:27 | «私はキラです» (su cinta, voz sintética) | **Visto** ✅: pantalla de tele con estática, cronómetro verde «5:59» y **«KIRA» escrito a mano en gótico** | presentar |
+| 2 | 12, 00:09:08 | «さあ！　ビデオ ビデオ» | Corre a grabar la respuesta | **animar a grabar** |
+| 3 | 12, 00:14:39 | «ウフッ» | Posa en una sesión de fotos. **Visto** ✅: primer plano, labios rojos, **bufanda roja tejida con un colgante en forma de «M»**, mirada de lado sonriente | **celebrar** |
+| 4 | 13, 00:10:31 | «見ーっけ» | Ve a Light entre la gente, con los ojos de shinigami. ⚠️ En ese segundo sale alguien con gafas y el **anillo rojo** de los ojos de shinigami reflejado: el efecto se confirma, que sea Misa no | presentar |
+| 5 | 13, 00:15:26 | «は… はじめまして» | En la puerta de los Yagami, tímida | **presentar** |
+| 6 | 15, 00:10:17 | «え～ ホント？　うれしい！» | L le dice que es su fan; se emociona | celebrar |
+| 7 | 16, 00:03:21 | «目隠しだけでも取って» | Atada y con los ojos vendados. Se oye a las 00:03:21; **su cara, a las 00:20:58** ✅ (§8.1) | **no usar** |
+
+### Near
+
+| # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
+|---|---|---|---|---|
+| 1 | 27, 00:02:01 | «ゲームは勝たなければ» | De niño, en el suelo. **Visto** ✅ en la copia `DeathNoteTV`: en cuclillas sobre una alfombra oriental, pelo tapando los ojos (§8.1); en la otra copia sale otro niño ⚠️ | **explicar** |
+| 2 | 28, 00:01:49 | «２代目Ｌ はじめまして» | Voz tras una **«N»** en pantalla. ⚠️ Parcial: se ve una cara de pelo claro al teléfono en penumbra azul, no la «N»; mira ±10 s | **presentar** |
+| 3 | 28, 00:15:31 | «結構 難しいことを 簡単に言いますね» | Frío, girando un mechón | regañar suave |
+| 4 | 33, 00:11:53 | «Ｌキラは夜神 月…» | Concluye. **Visto** ✅ en parte: primer plano, pelo sobre los ojos, camisa blanca abierta; los juguetes no entran en el encuadre | **pensar** |
+| 5 | 37, 00:04:03 | «さっき 君は “僕の勝ちだ”と言った» (quién lo dice ⚠️) | En el almacén, frente a Light | regañar |
+
+---
+
+## 16 · Vestuario
+
+De guías de cosplay (no de hojas de modelo oficiales) y de memoria, en
+la primera pasada. **Los colores medidos en arte oficial están en 16.1**:
+usa esos.
+
+| Personaje | Ropa icónica | Colores ⚠️ | Accesorios y pelo |
+|---|---|---|---|
+| **Light** (instituto) | Camisa blanca, **corbata roja**, americana caqui, pantalón oliva ✅ ([Carbon Costume](https://carboncostume.com/title/death-note/), [Costumet](https://www.costumet.com/death-note/light-yagami/)) | americana `#B79C6E`, corbata `#8E1B1B` | Pelo castaño liso con flequillo; reloj de pulsera (luego esconde un trozo del cuaderno en él ⚠️) |
+| **Light** (adulto) | Traje oscuro, camisa blanca, corbata | `#2B2F36` | — |
+| **L** | **Camiseta blanca de manga larga y vaqueros anchos**, descalzo ✅ ([Carbon Costume](https://carboncostume.com/title/death-note/), [Lemon8](https://www.lemon8-app.com/@smexymarie22/7462094351515304494?region=us)) | `#F1F1EE`, `#4F6B8C` | Pelo negro revuelto; **ojeras**; piel muy pálida |
+| **Misa** | **Gótica lolita**: corsé de cuero negro, **gargantilla negra**, **cruz de plata**, falda negra, mangas y medias de encaje, botas; uñas rojas ✅ ([Carbon Costume: Misa](https://carboncostume.com/misa-amane/), [Anime Fire](https://animefire.com/2023/09/10/misa-cosplay-guide-how-to-cosplay-from-death-note/)) | negro `#111`, plata `#C9CCD1` | **Rubia con dos coletas finas** y flequillo |
+| **Near** | **Pijama blanco**; en el anime, el pantalón cambia de color ✅ ([Carbon Costume](https://carboncostume.com/title/death-note/)) | `#F2F2F2` | Pelo blanco rizado; siempre un juguete |
+| **Mello** | Cuero negro, rosario ⚠️ | `#141414` | Rubio, media melena; **tableta de chocolate** ✅ |
+| **Ryuk** | Plumas negras, pantalón ajustado, cinturón con cadena y calavera ⚠️; **cuaderno colgado de la cadera** ⚠️ | piel `#7C8794` | Pelo en púas negras, ojos amarillos y rojos ⚠️ |
+
+**Lo que todos reconocen**: Light con **camisa blanca y corbata roja**;
+L **de blanco y vaqueros, en cuclillas**; Misa **de negro con la cruz**;
+Ryuk **con la manzana**.
+
+### 16.1 Colores MEDIDOS en arte oficial (segunda pasada)
+
+Mediana de una zona de la prenda, medida con Pillow sobre el arte
+oficial de §3.6 (no de memoria). La mediana mezcla luz y sombra: es el
+tono medio real de la tinta, no el más saturado.
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| Light | Camisa blanca del instituto | `#F9F5F4` | 299276.jpg, color page de Obata ✅ |
+| Light | Pelo | `#85542D` | la misma ✅ |
+| Light | Corbata roja | `#8E1B1B` | guía de cosplay, **no medida** ⚠️ ([Carbon Costume](https://carboncostume.com/title/death-note/)) |
+| L | Camiseta de manga larga | `#E6D19F` en la sombra; los blancos llegan a `#F5F0E0` | Lfull.jpg ✅ |
+| L | Vaquero ancho | `#596D76` | la misma, sombra del pliegue ✅ |
+| Ryuk | Piel | `#84889D` | Ryuk_DN_Coloured.png ✅ |
+| Misa | Vestido rojo («Saint Valentine's Day») | `#A74E44` | 295978.jpg, tela sin brillo ✅ |
+| Misa | Gargantilla y guantes de cuero | negro puro, no medido (se mezcla con el pelo) | la misma ⚠️ |
+| Near | Pijama | `#F7F2EE` | DN_013.jpg ✅ |
+| Near | Pantalón del pijama | **blanco en el manga** (`#F7F2EE`); celeste en el anime, sin fotograma propio | ⚠️ el del anime |
+| Mello | Gabardina de cuero | `#0E0D12` | wallpaper de *Othellonia* (crédito oficial en la imagen) ✅ |
+| Mello | Pelo rubio ceniza | `#BB9786` | la misma ✅ |
+
+- **Corrige la tabla de arriba**: el vaquero de L es **gris azulado
+  apagado** (`#596D76`), no el azul `#4F6B8C`; la piel de Ryuk, `#84889D`
+  (más lavanda que `#7C8794`); el blanco de L tira a **hueso cálido**.
+- **Mello**: cuero negro, rosario y chocolate, confirmado en el arte
+  oficial y en la hoja 2 (nº259-260, 288) ✅ (sube de ⚠️).
+- **Ryuk**: plumas negras y cinturón con **hebilla de calavera**, visto
+  en fotograma (ep. 1, 00:16:12) ✅.
+- **Misa**, detalle nuevo visto en fotograma: **bufanda roja tejida con
+  colgante «M»** (ep. 12, 00:14:39) ✅.
+- **Lo más icónico según el fandom**: el **uniforme escolar de Light**
+  (704 votos en Reddit) y el **lolita gótico de Misa** (732 votos), ver
+  §14.1 ✅.
+
+---
+
+## 17 · Paisajes y fondos de pantalla
+
+### Los sitios, con su luz ⚠️
+
+Ver §5.1. Resumen: **noche azul con lámpara cálida** (cuarto de Light),
+**gris sin sol** (mundo shinigami), **lluvia gris azul** (azotea de L),
+**tiras de sol entre polvo** (almacén del final).
+
+### Fondos de pantalla
+
+| Qué | Tamaño | Enlace | Nota |
+|---|---|---|---|
+| «Shadowed Pact»: Light y Ryuk | 3840×2160 | [Wallpaper Abyss 1182462](https://wall.alphacoders.com/big.php?i=1182462) | Autor sin comprobar |
+| Ryuk | 3840×2160 | [Wallpaper Abyss 961726](https://wall.alphacoders.com/big.php?i=961726) | Subido por ncoll36 |
+| L, Ryuk y el cuaderno | 4K | [Wallpapers Clan](https://wallpapers-clan.com/desktop-wallpapers/death-note-l-and-ryuk-book/) | ⚠️ |
+| Light y Ryuk | HD | [Wallpapers Den](https://wallpapersden.com/death-note-light-yagami-ryuk-wallpaper/) | ⚠️ |
+| Varios | 1080p a 5K | [WallpaperFlare](https://www.wallpaperflare.com/search?wallpaper=death+note) | Mezcla oficial y fan |
+| Ryuk «4K» | 3840×2160 | [4kwallpapers](https://4kwallpapers.com/anime/ryuk-death-note-ai-14431.html) | **Hecho con IA (Midjourney): NO usar** |
+
+Los tamaños son los que dicen las páginas en el resultado de búsqueda ⚠️.
+En la segunda pasada, Wallpaper Abyss no dejó leer el tamaño sin
+cuenta: usa los de abajo, que sí lo dan.
+
+### 17.1 Segunda pasada: fondos con tamaño comprobado
+
+**Oficiales** (Zerochan, con el crédito «by MADHOUSE»; tamaño leído del
+`og:image` de cada página) ✅:
+
+| Qué | Tamaño | Enlace |
+|---|---|---|
+| Key visual, grupo | 1920×1080 | [zerochan 4253569](https://www.zerochan.net/4253569) |
+| Key visual, grupo | 1920×1080 | [zerochan 4377401](https://www.zerochan.net/4377401) |
+| Key visual, grupo | 1920×1080 | [zerochan 4382652](https://www.zerochan.net/4382652) |
+| Near, key visual | 1920×1080 | [zerochan 4377547](https://www.zerochan.net/4377547) |
+
+**De fans** (Wallhaven, ♥ reales de su API; mirar, nunca pegar) ✅:
+
+| Tamaño | ♥ | Qué sale | Enlace | Autor |
+|---|---|---|---|---|
+| 4096×2304 | 136 | Misa, cruz | [6d5mll](https://w.wallhaven.cc/full/6d/wallhaven-6d5mll.jpg) | [jeonmin8974](https://twitter.com/jeonmin8974/status/1646235438745788416) |
+| 2896×4494 | 124 | Misa | [g79mkd](https://w.wallhaven.cc/full/g7/wallhaven-g79mkd.jpg) | Tokkyu (sin enlace) |
+| 1920×2776 | 106 | Misa y Rem, retrato | [ogdg9p](https://w.wallhaven.cc/full/og/wallhaven-ogdg9p.jpg) | [En_D_D](https://x.com/En_D_D/status/1926586543260500217) |
+| 2076×4096 | 94 | Misa y Rem | [xe8pwd](https://w.wallhaven.cc/full/xe/wallhaven-xe8pwd.png) | [ZabiMasurao](https://x.com/ZabiMasurao/status/1956294807568921021) |
+| 1920×1080 | 77 | Light, Ryuk, manzanas | [0wgqyx](https://w.wallhaven.cc/full/0w/wallhaven-0wgqyx.jpg) | sin origen |
+| 2560×1440 | 166 | Ryuk en un tren (cruce con Chainsaw Man) | [p9qvge](https://w.wallhaven.cc/full/p9/wallhaven-p9qvge.png) | [gorzius](https://www.pixiv.net/en/users/20708445) |
+
+La luz de cada sitio ya está **medida** en §5.5.
+
+---
+
+## 18 · Guía para generar con IA (Firefly, Canva)
+
+Sólo para **fondos, luz o tanteos de pose**. **Nunca** para sacar a los
+personajes finales: esos salen de fotogramas o del artbook, recortados
+con `v3/integrar.py`.
+
+### Rasgos que nunca cambian
+
+- **Light**: chico japonés de 17-18 años, pelo castaño liso con flequillo
+  hasta las cejas, ojos castaños rojizos, camisa blanca y corbata roja.
+- **L**: joven delgado, **pelo negro muy revuelto**, **ojeras negras**,
+  piel pálida, camiseta blanca de manga larga, vaqueros, **descalzo, en
+  cuclillas**, pulgar en el labio.
+- **Ryuk**: shinigami muy alto y flaco, piel gris azulada, **sonrisa
+  enorme con muchos dientes**, ojos amarillos con pupila roja, pelo negro
+  en púas, plumas negras, **manzana roja en la mano**.
+- **El cuaderno**: **tapa negra lisa** con «DEATH NOTE» en letras góticas
+  plateadas o blancas; hojas **hueso con renglones**.
+
+### Estilo
+
+- Línea **fina y precisa**, realista para ser anime (Obata); sombras
+  **duras**, en bloques; mucho **negro**.
+- Luz: **una sola fuente cálida** en un cuarto azul oscuro; o contraluz
+  de ventana. Brillo rojo en ojos.
+- Encuadre: **picado o contrapicado**, primeros planos de ojos y manos,
+  el cuaderno en primer plano.
+
+### Palabras que ayudan
+
+`dark psychological thriller anime, Madhouse 2006 style, Takeshi Obata
+character design, dramatic chiaroscuro, single desk lamp, deep blue
+shadows, crimson accents, black leather notebook, gothic lettering,
+rain, cinematic low angle, film grain`
+
+### Palabras que lo estropean
+
+`chibi`, `kawaii`, `pastel`, `bright colors`, `cartoon`, `3D render`,
+`Netflix 2017`, `gore`, `zombie`, `blood everywhere`, `neon`. Y nunca
+pidas el logo ni la «L»: **esos se ponen a mano con la letra**.
+
+### Qué imágenes usar como referencia
+
+- **De estilo**: un fotograma del ep. 1 (00:13:00, Ryuk detrás de
+  Light; **no** el 00:04:32, que es sólo la página) y del ep. 25
+  (00:10:30, la azotea con lluvia). Arte de Obata: hoja 1, nº8 y nº27.
+- **De pose**: §15 (las filas en **negrita** y las «Visto») y §8.1.
+- **De color**: los hex **medidos** de §5.5 (fondos) y §16.1 (ropa); la
+  paleta de §5.3 sólo para manzana, sangre y papel.
+- **De técnica**: «Punto 18» (línea, sombra dura, una sola luz).
+
+### Vocabulario de gestos (para que la IA de imagen entienda cada cara)
+
+Todo visto en fotograma o en el arte oficial (segunda pasada):
+
+| Gesto | Qué pedir | Dónde se ve |
+|---|---|---|
+| Kira gana | `half face in shadow, glowing red eyes, crooked smile` | ep. 24, 00:05:42 |
+| Kira enloquece | `extreme close-up, messy hair over one eye, pen between teeth, blown-out white background` | ep. 36, 00:21:12 |
+| Triunfo cruel | `open-mouth grin, red emergency light` | ep. 25, 00:18:00 |
+| L piensa | `crouching on a chair, thumb on lower lip, wide dark-ringed eyes` | ep. 10, 00:08:14 |
+| Ryuk aparece | `towering figure behind the boy, low angle, spiky black feathers, huge toothy grin` | ep. 1, 00:13:00 |
+| Ojos de shinigami | `red ring in the iris, red glint on glasses` | ep. 13, 00:10:31 |
+| Near frío | `hair covering the eyes, white pajama, crouching on a rug` | ep. 27, 00:02:01 |
+
+- Los recursos cómicos del anime típico (gota de sudor gigante, fondos
+  de flores, ojos de espiral) **no salen en ningún fotograma mirado**.
+  El único *chibi* oficial es de las colaboraciones (hoja 2, nº258;
+  hoja 3, nº538-539): no lo uses en la lámina principal.
+
+### Para una IA de texto: cómo escribir en su voz
+
+**Reglas generales** (de §7.2 y del subtítulo):
+
+- **Frases cortas y frías**. La emoción no se grita con signos: sale en
+  una palabra seca al final («…gané»).
+- **El monólogo interior** de Light va aparte, sin comillas, como un
+  cálculo paso a paso (ep. 8, 00:18:26 a 00:18:35).
+- **L**: siempre **de usted**, **en porcentajes**, con preguntas corteses
+  que son trampas («¿puedo poner a prueba…?»).
+- **Ryuk**: coloquial, **se ríe de todo** («je, je»), habla de manzanas y
+  de aburrimiento.
+- **Misa**: **dice «Misa» en vez de «yo»**, alarga las vocales
+  («¡claaaro!»), exclama.
+- **Near**: tranquilo, de usted, **todo es un juego o un puzle**.
+- **Mikami**: repite una palabra con rabia («¡Eliminar!»).
+- En latino, la papa es **«fritura»** (§10).
+
+**Frases reales, por emoción** (subtítulo japonés con su minuto; la
+traducción es mía, no del doblaje):
+
+| Emoción | Quién | Frase | Ep., minuto |
+|---|---|---|---|
+| Alegre | Ryuk | «やっぱり 人間って… 面白っ！» («los humanos son divertidos») | 1, 00:21:04 |
+| Alegre | Misa | «え～ ホント？ うれしい！» («¿de verdad? ¡qué alegría!») | 15, 00:10:17 |
+| Alegre (villano) | Light | «計画どおり» («todo según el plan») | 24, 00:05:42 |
+| Enfadado | Light | «僕は正義だ！» («¡yo soy la justicia!») | 2, 00:16:24 |
+| Enfadado | Mikami | «削除！» («¡eliminar!»), seis veces | 31, 00:18:47 |
+| Explicando | L | «一般的な座り方をすると 推理力が40％減です» («si me siento normal, deduzco un 40 % peor») | 10, 00:08:14 |
+| Explicando | Ryuk | «英語で説明を付けたんだぜ» («le puse las instrucciones en inglés») | 1, 00:16:37 |
+| Explicando | Near | «ゲームは勝たなければ パズルは解かなければ» («un juego hay que ganarlo, un puzle hay que resolverlo») | 27, 00:02:01 |
+| Animando, retando | L | «さあ 私を殺してみろ» («vamos, intenta matarme») | 2, 00:18:23 |
+| Animando | Misa | «さあ！ ビデオ ビデオ» («¡venga, la cámara, la cámara!») | 12, 00:09:08 |
+| Animando | Light | «やってやるよ Ｌ！» («te lo voy a demostrar, L») | 8, 00:18:06 |
+| Triste | L | «寂しいですね … もうすぐ お別れです» («qué triste… pronto nos despediremos») | 25, 00:14:45 |
+| Triste | Ryuk | «結構 長い間 互いの 退屈しのぎになったじゃないか» («nos quitamos el aburrimiento un buen rato») | 37, 00:19:27 |
+
+**Palabras que lo estropean en texto**: emojis, «¡¡¡», diminutivos
+cariñosos, chistes de Ryuk (el fandom se ríe de **Light**, §14.1),
+nombres de personas reales escritos en el cuaderno.
+
+---
+
+## Punto 18 · Estilo de dibujo, técnica y cómo replicarlo
+
+### El dibujo de Obata (la base de todo)
+
+- **Línea de grosor variable a propósito**: donde la luz pega fuerte, la
+  línea se afina o **desaparece**; se engorda en barbilla y nariz para
+  dar volumen ⚠️ ([análisis técnico, sleepycrossing](https://sleepycrossing.neocities.org/longform/takeshi-obata);
+  un blog, pero con ejemplos que se comprueban mirando el manga).
+- **Sombras de oclusión**: triángulos negros pequeños donde el pelo se
+  cruza o la ropa se pliega; la trama (screentone) sólo da **el tono
+  propio de un objeto**, no la sombra ⚠️ (misma fuente).
+- **La oscuridad cuenta la historia**: páginas casi blancas en lo
+  cotidiano, negro denso en la tensión ⚠️ (misma fuente).
+- **Caras de adulto real** (mentón largo, ojos estrechos), raras en un
+  shonen; los shinigami rompen ese realismo con rasgos góticos ⚠️
+  ([anifusion.ai](https://anifusion.ai/style/death-note-style-generator/);
+  el mismo análisis se repite en varias webs de «prompts», cuenta como
+  una fuente).
+- **Obata sobre Ryuk**: «me encantó dibujar líneas afiladas, algo que no
+  hago a menudo»; empieza cada shinigami por la calavera y cuida que no
+  sea ni muy aterrador ni muy tierno. **Sobre L**: «quería su rareza y
+  también su frialdad» ⚠️ ([recopilación de entrevistas, Tumblr](https://www.tumblr.com/kiranatrix/190168994761/obata-interviews-on-death-note-character-designs);
+  no se encontró el original japonés).
+
+### Cómo lo llevó Madhouse al anime
+
+- Equipo (AniList): dirección **Tetsurō Araki**, personajes **Masaru
+  Kitao**, dirección de arte **Mio Isshiki**, diseño de arte **Shinji
+  Sugiyama**, color **Satoshi Hashimoto** ✅ (ver §3.3).
+- **Araki reconoce** que la adaptación «no le hace justicia a lo bien
+  que dibuja» Obata, y por eso volvió a trabajar con él en *Bubble*
+  (2022) ✅ ([fullfrontal.moe](https://fullfrontal.moe/tetsuro-araki/),
+  entrevista firmada).
+- Sus influencias de luz: el cineasta **Shunji Iwai** («amo los destellos
+  de lente») y el animador **Osamu Dezaki** («cómo insertaba la luz») ✅
+  (misma entrevista). ⚠️ Es su filosofía general, no una cita sobre
+  Death Note.
+- **Libro de *making of***: *DEATH NOTE /A アニメーション公式解析ガイド*
+  (Shūeisha, 9-sep-2007, 160 páginas, ISBN 978-4-08-874197-0), con
+  entrevistas al equipo y arte conceptual del cuarto de Light, la celda
+  y la sede de L ✅ ([ficha en la wiki](https://deathnote.fandom.com/wiki/Death_Note_/A_Official_Analysis_Guide_of_the_Animation)).
+  Nunca salió de Japón: **su contenido no se pudo leer** ⚠️.
+- Programa: lo normal en los estudios grandes de la época era **RETAS**
+  (Celsys) ⚠️ ([Wikipedia](https://en.wikipedia.org/wiki/RETAS)); no hay
+  cita de Madhouse que lo diga de esta serie.
+- **Lo medido en la segunda pasada** (§5.5): interiores azul violeta
+  casi negro, saturación media y brillo muy bajo (17-22 %); el rojo sólo
+  en ojos y alarmas.
+
+### Encuadres y composición
+
+- **Primerísimos planos de ojos** para el giro psicológico (ep. 24,
+  00:05:42; ep. 36, 00:21:12) ✅ visto.
+- **Contrapicado** para lo que impone: Ryuk detrás de Light (ep. 1,
+  00:13:00), Aizawa gritando (ep. 37, 00:14:28) ✅ visto.
+- **Plano dividido** para lo que pasa a la vez (la papa: ep. 8,
+  00:18:35) ✅ visto.
+- **Insert de objeto** a pantalla completa para las reglas (ep. 1,
+  00:04:32) y la «L» (ep. 2, 00:17:36) ✅ visto.
+- **Luz que parte la cara en dos** cuando alguien cruza una línea moral
+  ✅ visto (ep. 24).
+
+### Cómo replicarlo en Photoshop
+
+1. **Línea variable**: boceto con pincel a presión; en la capa de línea,
+   **borra o aclara el trazo donde pega la luz** (goma a baja opacidad) y
+   engorda mentón y nariz.
+2. **Color plano, casi monocromo**: relleno con «Bloquear píxeles
+   transparentes»; grises, negros y un blanco hueso. **Un solo color
+   puro por escena** (la manzana o el rojo de los ojos).
+3. **Sombra en formas duras**: capa en Multiplicar, lazo o pincel de
+   borde duro, pensando en triángulos de oclusión. **Nada de aerógrafo.**
+4. **Una sola luz dura**: capa en Trama o Superponer sólo en el lado
+   iluminado; el resto, negro cerrado.
+5. **Grano y viñeta** encima de todo (Ruido monocromático bajo y un
+   degradado radial en Multiplicar) ⚠️ (técnica general de
+   posproducción, no cita de Madhouse).
+
+### Cómo replicarlo en Blender
+
+1. **Contorno**: modificador **Line Art** de Grease Pencil; para que
+   varíe como el de Obata, modula el grosor con una textura, o usa
+   **Freestyle** con el grosor ligado a la luz. **Solidify** invertido
+   sólo en las zonas de sombra es la otra vía.
+2. **Sombra dura**: **Diffuse BSDF → Shader to RGB → ColorRamp** en
+   modo **Constant**, con **dos paradas** (luz y sombra).
+3. **Luz**: una sola **Spot** o **Area** pequeña y dura, como lámpara de
+   escritorio, **sin HDRI ni luz de relleno** (el HDR suave rompe el
+   *noir*).
+4. **Compositor**: grano (*Film Grain* o ruido + Mix) y viñeta oscura.
+5. **Modelos y rigs libres**: el cuaderno y Ryuk, L y Light de §4 (CC
+   BY, citar autor). **El cuaderno, mejor modelarlo** (una caja con
+   tapas, diez minutos) con las texturas de «Punto 19».
+
+---
+
+## Punto 19 · Texturas 2D
+
+### Tramas y pinceles de entintado libres
+
+| Recurso | Qué trae | Licencia | Enlace |
+|---|---|---|---|
+| [FREE] Manga Screentone Pack 1 | Tramas de puntos y líneas para Clip Studio | Gratis en Clip Studio Assets ✅ | [2142037](https://assets.clip-studio.com/en-us/detail?id=2142037) |
+| Essential Screentone Brushes | Tramas combinables, Clip Studio | Gratis ✅ | [2087033](https://assets.clip-studio.com/en-us/detail?id=2087033) |
+| Free Screen Tone Collection 1 | PNG de 4500×4500 (A4 y B4 a 300 ppp), para Photoshop, Krita o Procreate | Gratis; leer su nota antes de redistribuir ⚠️ | [manga-with-stef.com](https://manga-with-stef.com/free-screen-tone-collection-1) |
+| 65+ Halftone Brushes | Pinceles de medio tono para Photoshop | Gratis, personal y comercial con atribución ✅ | [photoshopsupply.com](https://www.photoshopsupply.com/patterns-textures/halftone-texture) |
+| 1000+ Manga Screentone Compilation | Puntos, líneas, degradados | DeviantArt, licencia del autor ⚠️ | [theawesomeaki-kun](https://www.deviantart.com/theawesomeaki-kun/art/1000-Manga-Screentone-Compilation-681249872) |
+
+Abiertos uno a uno el 26-sep-2026. Obata usa **poca trama y mucho negro
+sólido**: la trama sirve sobre todo para los grises del mundo
+shinigami.
+
+### Papel, cuero y madera (CC0)
+
+Las de §5.4 (ambientCG y Poly Haven), licencia CC0 confirmada con dos
+fuentes ✅. Para la hoja del cuaderno: **Paper003 o Paper005** (grano de
+papel viejo) con una trama de puntos encima; para la tapa, **Leather026**;
+para el escritorio, **Wood039**. El negro violeta de la página del
+insert (`#070311` a `#29202A`, §5.5) sirve para teñir la tapa.
+
+### Patrones y emblemas
+
+- **Encaje de Misa**: no hay pack libre de encaje gótico (sólo de pago
+  en Creative Market) ⚠️. Se dibuja a mano: rombos con festón.
+- **Cruces y calaveras** de Misa: sin pack libre; vectoriza la silueta
+  desde «Saint Valentine's Day» (§3.6), que trae cuatro calaveras
+  distintas. Copia la silueta, no el archivo.
+- **El logo**: hoja 1, nº7 tiene «DEATH NOTE» grande y limpio para sacar
+  la forma; se rehace con UnifrakturMaguntia (§6.3).
+- **La calavera con aureola** de la página del cuaderno (insert del ep.
+  1, 00:04:32): dibujarla a mano mirando el fotograma.
+- **Los trazos rojos de pincel en abanico** de *Killer Within* (§13.1):
+  un recurso oficial para el «grito» de una regla.
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+De AniList (fichas con los datos de los *databooks*) cruzado con la
+wiki de Death Note, que cita el tomo **13: How to Read** y el *settei*
+del anime.
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Light | ganar, el orden, ser el mejor | perder el control, que lo descubran | tenis, estudiar | 28 de febrero | 179 cm | ✅ [AniList](https://anilist.co/character/80) + [wiki](https://deathnote.fandom.com/wiki/Light_Yagami) |
+| L | los dulces, el azúcar, los pasteles | perder, las mentiras | resolver casos, apilar cosas | 31 de octubre | 179 cm | ✅ AniList + [wiki](https://deathnote.fandom.com/wiki/L_(character)) |
+| Ryuk | las manzanas del mundo humano, el caos de Light | el aburrimiento | mirar a Light «jugar» | sin dato | **230 cm** | ✅ [wiki](https://deathnote.fandom.com/wiki/Ryuk) (*settei*) |
+| Misa | Light, la moda gótica lolita | quien mató a sus padres | modelar, actuar, cantar, grabar vídeos | 25 de diciembre | 152 cm | ✅ AniList + wiki |
+| Near | puzles y juegos | perder, sobre todo ante Mello | puzles, dados, juguetes | 24 de agosto | 155 cm | ✅ [wiki](https://deathnote.fandom.com/wiki/Near) |
+| Mello | el chocolate | perder ante Near | motos, mandar en la mafia | 13 de diciembre | sin dato | ⚠️ [AniList](https://anilist.co/character/463) |
+| Matsuda | sentirse útil, que lo tomen en serio | que lo subestimen | ninguna en especial | 14 de diciembre | 174 cm | ⚠️ [AniList](https://anilist.co/character/1906) |
+| Mikami | la justicia, «Dios» (Kira) | los criminales | hacer ejercicio a diario, hasta en Año Nuevo | 7 de junio | 175 cm | ⚠️ [AniList](https://anilist.co/character/1904) |
+| Naomi Misora | Raye Penber, resolver casos | dejar casos sin cerrar | investigar | 11 de febrero | sin dato | ⚠️ [AniList](https://anilist.co/character/4959) |
+| Matt (Mail Jeevas) | los videojuegos | salir de casa | videojuegos, fumar | 1 de febrero | 168 cm | ⚠️ [AniList](https://anilist.co/character/2730) |
+
+- **El objeto que siempre lleva**: Light, el cuaderno escondido (doble
+  fondo, ep. 2); L, algo dulce; Ryuk, su propio cuaderno; Misa, el
+  teléfono o la cámara para grabarse; Near, un juguete o un dado; Mello,
+  una tableta de chocolate ✅.
+- **Cómo se ve a sí mismo**: Light, un dios que hace justicia; L, un
+  detective más que no busca fama (nunca da la cara); Misa, la segunda
+  Kira al servicio de Light; Near, jugador de un juego que hay que
+  ganar, sin odio; Mello, alguien que sólo vale si le gana a Near ✅
+  (AniList, resumido).
+
+---
+
+## Punto 21 · Por qué la gente la ama
+
+### Los datos
+
+- **Más de 30 millones de copias** del manga (abril de 2015) ✅
+  ([Wikipedia, cita ICv2](https://en.wikipedia.org/wiki/Death_Note)).
+- **3.er manga más vendido en Norteamérica** (ICv2, 2.º trimestre de
+  2009) ✅.
+- **2.º en «Kono Manga ga Sugoi!»** 2006 y 2007 (lectores hombres) y
+  **10.º mejor manga de la historia** en una encuesta de 2007 del
+  Ministerio de Cultura de Japón ✅.
+- Premios: **Japan Expo Awards 2007** (mejor manga y mejor guion),
+  **Eagle Award 2008**; nominado al **Seiun** y al **Premio Cultural
+  Tezuka Osamu** 2007; Obata nominado a los **Eisner 2008** ✅.
+- **Anime News Network**: «sorprendentemente cautivador y original, con
+  preguntas interesantes sobre la moral» (Zac Bertschy); y lo que la hace
+  distinta: **no hay villano, hay dos bandos que creen en la misma
+  justicia** (Briana Lawrence) ✅.
+
+### Con quién se identifica el público
+
+- Con **L**: lógica fría pero torpe con la gente; un hilo con 123 votos
+  defiende que «no es socialmente inconsciente, sólo distinto» ✅
+  (Reddit).
+- Con la **caída de Light**, como tragedia de ambición (88 votos: «mi
+  personaje favorito de todos los tiempos») ✅.
+- Con **Matsuda**, el «normal»: no es un genio, se equivoca y aun así es
+  indispensable; al final **dispara a Light por pura rabia humana** ✅
+  (Reddit, 238 votos, y [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/DeathNote)).
+
+### Las escenas que hacen llorar
+
+De la página *TearJerker/DeathNote* de TV Tropes (leída con
+`navegar.py`), con el minuto de este dossier:
+
+| Escena | Ep., minuto | Qué pasa | Por qué duele, y cómo está hecha |
+|---|---|---|---|
+| **Mueren Watari y L** | 25, 00:13:36 a 00:18:52 | L seca los pies de Light, se va la luz, muere Watari, L cae de la silla y **Light sonríe** (00:18:00) | Lluvia y **campanas** antes (00:10:30); casi silencio; suena **«Kyrie II»** desde 00:17:13; luz roja de alarma ✅. Matsuda llora, Sōichirō promete vengarlo |
+| **Suicidio de Naomi Misora** | 7 | Light le confiesa por teléfono que es Kira y la obliga a matarse sin dejar rastro | Imagen metafórica con una soga y música suave; acababa de perder a su prometido ✅ |
+| **Muerte de Light** | 37, 00:15:58 a 00:19:27 | Herido de bala, pide ayuda; nadie contesta; Ryuk escribe su nombre | Primerísimo plano con sangre (00:15:58, visto) y Ryuk sobre la torre; muere solo ✅ |
+| **Suicidio de Mikami** | 37 | Se apuñala con un bolígrafo cuando su «dios» lo abandona | Un niño bueno convertido en fanático ✅ |
+| **Muerte implícita de Misa** | final | Sola en un tejado, con su vestido lolita, ojos cerrados | El *ending* cambia a una canción más suave (nombre sin sacar ⚠️); *How to Read* confirma que murió un San Valentín ✅ |
+
+### Las que hacen reír o gritar
+
+- **Reír**: la papa frita (ep. 8, 00:18:35), montada como una batalla;
+  *keikaku doori* (ep. 24, 00:05:42), que se volvió meme por una nota de
+  fansub (§12.1); L pidiendo pastel (ep. 15, 00:09:07).
+- **Gritar**: la «L» en la pantalla blanca (ep. 2, 00:17:36); «Soy L»
+  (ep. 9, 00:14:39); la cuenta de 40 segundos (ep. 36, 00:20:58 a
+  00:21:15) ✅.
+- **Reacciones**: los memes hispanos de más de un millón de vistas
+  (§14.1) son todos sobre el ego de Light. No se encontraron vídeos de
+  reacción con minuto (YouTube no abre) ⚠️.
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Páginas de resultados de YouTube leídas con `navegar.py` y la API de
+Dailymotion. Vistas al 26-sep-2026 ✅.
+
+### Covers de los openings en español
+
+| Qué | Canal | Vistas | Enlace |
+|---|---|---|---|
+| «Death Note opening español latino» | *p777pdc* | **3,6 millones** | [mslIXaFIqY8](https://www.youtube.com/watch?v=mslIXaFIqY8) |
+| «Death Note "The WORLD" (Español Latino) [2013]» | *Omar Cabán -YuriFoX-* | **3,4 millones** | [JiU9erFknLg](https://www.youtube.com/watch?v=JiU9erFknLg) |
+| «OPENING 2 - What's Up People? (Spanish cover)» | *Mane Ribs* | **1,3 millones** | [g1mPgDBqruc](https://www.youtube.com/watch?v=g1mPgDBqruc) |
+| «Opening 1 Full - The World (Latino)»; también el ED 1 (67 k) y el OP 2 (65 k) | *Alberto Alva* | 30 k | [PAeDga6hY90](https://www.youtube.com/watch?v=PAeDga6hY90) |
+| «OP 1 Fandub Latino Full ~ The World【Doblecero】» (espejo, por si YouTube falla) | *Worldlatino* (Dailymotion) | 39 | [x4xr7h7](https://www.dailymotion.com/video/x4xr7h7) |
+
+### Fandubs y parodias
+
+| Qué | Canal | Vistas | Enlace |
+|---|---|---|---|
+| «SI KIRA TUVIERA EL EGO HASTA LAS NUBES 📖» | *El Canolexx* | **1,3 millones** | [dXEMsibyrmw](https://www.youtube.com/watch?v=dXEMsibyrmw) |
+| «¿Acaso eres gay, Kira?» | *Briff B* | **1,1 millones** | [qwMjbGUXBtc](https://www.youtube.com/watch?v=qwMjbGUXBtc) |
+| «Death note - Doblaje argentino (Fedebpolito)» (acento argentino, no el neutro) | *Fedebpolita* | **1 millón** | [P-EMtvZsBY8](https://www.youtube.com/watch?v=P-EMtvZsBY8) |
+| «LIGHT EN EL FUNERAL DE "L" / FANDUB ESPAÑOL LATINO» | *Julio di esto* | 158 k | [1u0hKqtVOLQ](https://www.youtube.com/watch?v=1u0hKqtVOLQ) |
+| «Light Yagami (Kira) Gana · Final Alternativo · Español Latino (FANMADE)» | *Medatrox* | 107 k | [YzFksR3rJys](https://www.youtube.com/watch?v=YzFksR3rJys) |
+| Retos de doblaje de Light y Misa en TikTok | *SDV servicios de voz* | — | ver §12 |
+
+- **Para #textos**: el funeral de L y el final alternativo son justo
+  «escenas de anime» para dos voces. El doblaje argentino enseña que la
+  comunidad también juega con **acentos regionales**.
+- ⚠️ No se encontró un fandub de audio en TikTok con vistas comprobables
+  (TikTok no tiene API abierta desde aquí).
+- ⚠️ Los clips de Dailymotion «Death Note: El nuevo mundo - Tráiler
+  español» **no son fandubs**: son doblaje oficial de una película.
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+| Colaboración | Qué hay | Imagen | Estado |
+|---|---|---|---|
+| **Jump Force** (Bandai Namco, 14-feb-2019) | Light y Ryuk jugables, por los 50 años de la Jump | Hoja 2, **nº252-253** (Light en 3D, Light con Ryuk) | ✅ ([GameSpot](https://www.gamespot.com/articles/e3-2018-naruto-dragon-ball-one-piece-and-death-not/1100-6459612/), [Gematsu](https://www.gematsu.com/2018/06/jump-force-death-note-teaser-trailer)) |
+| **Universal Studios Japan**, «Universal Jump Summer» | Ryuk en el cartel junto a Luffy y Goku | Hoja 2, nº244 | ✅ la imagen oficial; la fecha, sin nota de prensa ⚠️ |
+| **Othellonia × Death Note** (DeNA y MegaHouse) | Wallpapers y cartas propias de Light, L, Misa, Near y Mello (2208×2208) | Hoja 1, nº37-42 | ✅ (crédito oficial en la propia imagen) |
+| **LINE Bubble 2** | Stickers y *power-ups* de L y Ryuk en *chibi*; plazo «11/30 … 12/3», sin año | Hoja 3, nº530-531, 538-539 | ✅ la colaboración; el año ⚠️ |
+| **Uniqlo UT × 50 años de Shōnen Jump** | Camisetas de edición limitada, sólo Japón | — | ✅ ([Aitai Kuji](https://www.aitaikuji.com/shonen-jump-50th-anniversary-x-uniqlo-t-shirts-bleach-death-note-and-jump), [eBay](https://www.ebay.com/itm/193286960166)) |
+| **XLARGE × Death Note** (1-ene-2022) | Camiseta, sudaderas y una **chamarra universitaria con mangas de cuero centrada en Ryuk**; ¥6.050 a ¥28.600 | — | ✅ ([Hypebeast](https://hypebeast.com/2021/12/death-note-xlarge-collection-release-info), [Highsnobiety](https://www.highsnobiety.com/p/death-note-xlarge-collab-collection-clothing/)) |
+| **Team Liquid × Death Note** (29-mar-2024) | Línea de ropa de esports | — | ⚠️ una fuente ([Team Liquid](https://store.teamliquid.com/blogs/news/team-liquid-x-death-note-apparel-collection-drops)) |
+| **Toonique Cafe** (Hongdae, Seúl) | Café temático con menú y merchandising | — | ⚠️ una fuente, sin fecha ([KCulture](https://kculture.com/k-event/toonique-x-death-note-collaboration-cafe/)) |
+| **Death Note the Escape** | Sala de escape real con el cuaderno como objeto central | Hoja 3, nº536 | ⚠️ una fuente; sin web de reservas vigente |
+| **Pachislot y pachinko** (Sammy, 2008-2010) | Máquinas con arte propio de Light, L y Ryuk; su merchandising se revende de ¥3.000 a más de ¥80.000 | — | ✅ ([OneMall](https://blog.onemall.jp/2026/04/16/death-note-merchandise-from-japan-2026-collector-buying-guide/)) |
+| **Jumputi Heroes** | Near en *chibi* | Hoja 2, nº258 | ✅ la imagen (con crédito del juego) |
+
+- **Ropa y pose nuevas**: la **chamarra varsity de Ryuk** (XLARGE) es un
+  diseño que no sale en el anime: sirve para «Ryuk vestido de calle».
+- **Figuras oficiales** (pose y volumen ya resueltos, buena referencia
+  3D): **Nendoroid y Nendoroid Petite** de Light, L, Misa y Ryuk (Good
+  Smile), figuras a escala de MegaHouse y *Candy Toys* de Bandai ✅
+  ([OneMall](https://blog.onemall.jp/2026/04/16/death-note-merchandise-from-japan-2026-collector-buying-guide/),
+  [lista de la wiki](https://deathnote.fandom.com/wiki/List_of_Death_Note_figurines)).
+  La wiki no da imagen directa de cada una ⚠️.
+- **Cosplay**: lo más replicado es la gargantilla de cuero y las medias
+  de encaje de Misa, y la camiseta y el vaquero de L descalzo (guías de
+  §16). El lolita de Misa tiene un cosplay con 732 votos en Reddit
+  (§14.1) ✅. No se encontró un cosplay premiado con foto en alta y
+  crédito claro ⚠️.
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+**Series de tono parecido** (recomendaciones de usuarios de AniList,
+`partes/datos-texto.md`):
+
+- **Code Geass** (la más votada, 3559 votos): un genio que manipula
+  desde las sombras con un poder sobre la voluntad ajena (el Geass ↔ el
+  cuaderno) y un rival igual de listo ✅.
+- **Monster** y **Psycho-Pass**: duelo psicológico, justicia y moral
+  gris ✅. La ficha de temas de AniList para Death Note: `Anti-Hero 94 %`,
+  `Police 87 %`, `Philosophy 84 %`, `Noir 79 %` ✅.
+- **Death Parade** (decisiones morales con un árbitro que observa) y
+  **Moriarty the Patriot** (genio criminal que se cree la justicia) ✅.
+- **Terror in Resonance**: thriller policial callado con dos genios
+  jóvenes ✅.
+- Otras de la lista: The Promised Neverland, Parasyte, Talentless Nana,
+  Platinum End, Inuyashiki, Kaiji, Erased ✅ (AniList).
+
+**Lo que dice el autor (Tsugumi Ohba)**
+
+- De dónde salió: «No hubo nada en particular. Empecé a pensar ideas y
+  fueron llegando más, hasta llenar la trama con las reglas y el dios de
+  la muerte». Y: «No pensé mucho en temas como "vida y muerte" o
+  "justicia y maldad". La escribí esperando que fuera buen
+  entretenimiento» ✅ ([ComiPress](https://www.comipress.com/news/2007/01/15/1330)
+  y la misma entrevista en [Yahoo](https://www.yahoo.com/news/creator-apos-death-note-apos-212900017.html)).
+- Autor con **seudónimo, casi sin rostro público** ✅
+  ([Inverse](https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga)).
+- Sus modelos: **Fujiko F. Fujio** (Doraemon), **Fujio Akatsuka** y
+  **Shotaro Ishinomori** ⚠️ (una fuente, Inverse).
+- **Obata**, su colaborador favorito: *Death Note*, *Bakuman*, *Platinum
+  End* ⚠️ (Inverse).
+- **Relacionadas directas**: el manga, *Death Note: Relight* (resumen) y
+  *Death Parade* (mismo terreno temático) ✅ (AniList).
+
+**Otras láminas del servidor que se le parecen** (para no repetir
+ideas; `encargos/`, 26-sep-2026)
+
+- **Cowboy Bebop** (jazz y *noir*): la misma luz dura y paleta apagada
+  ✅. Ojo con repetir el recurso de «una sola lámpara».
+- **Neon Genesis Evangelion**: peso psicológico y protagonista atrapado
+  en su cabeza ✅.
+- **Kakegurui** (duelo mental, siempre un paso por delante) y **Bungo
+  Stray Dogs** (detectives con poderes) ⚠️ (comparación por género).
+- **Vinland Saga** y **Chainsaw Man**: shonen oscuro con dilema moral ⚠️.
+- **Doraemon** (`19-doraemon`): el ídolo de Ohba, pero tono opuesto.
+- **Sin choque de canal**: ninguna de estas pide #textos.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+### Las reglas del mundo, en cinco líneas
+
+1. Quien tenga su nombre escrito en el cuaderno **muere**; sin causa
+   escrita, de **infarto a los 40 segundos** ✅
+   ([reglas, wiki](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note/Manga_Chapter_Rules)
+   y el ep. 1, 00:05:22 a 00:05:30).
+2. Hay que conocer **la cara y el nombre real**; un tocayo no muere ✅.
+3. Quien lo usa **no va ni al cielo ni al infierno**; el cuaderno es de
+   quien lo toca en el mundo humano ✅.
+4. El shinigami dueño **sigue al poseedor hasta su muerte** y no ayuda
+   ni impide nada ✅.
+5. Por **la mitad de la vida que te queda**, tienes **ojos de
+   shinigami**: ves el nombre y los años de vida de cualquiera con
+   mirarle la cara ✅ ([Shinigami Eyes](https://deathnote.fandom.com/wiki/Shinigami_Eyes)).
+
+### El objeto
+
+Una **libreta negra corriente por fuera**, con **hojas blancas rayadas**
+como un cuaderno escolar; no se le acaban las páginas; se rasga y se
+quema como papel normal; el shinigami puede cambiarle la tapa, pero casi
+todos la dejan lisa ✅ ([Death Note (object)](https://deathnote.fandom.com/wiki/Death_Note_(object))).
+Por dentro, la primera página es **negra con letra blanca gótica** y una
+calavera con aureola (visto en el ep. 1, 00:04:32; su color, §5.5) ✅.
+
+### La historia por arcos
+
+- **Kira contra L (ep. 1-25)**: Light encuentra el cuaderno y mata
+  criminales; aparece Ryuk. La Interpol llama a **L**, que lo sitúa en
+  Kantō con la trampa de Lind L. Tailor (ep. 2). **Misa** consigue otro
+  cuaderno y los ojos (Rem), descubre que Light es Kira y se enamora.
+  Con el truco de **perder la memoria del cuaderno**, Light entra al
+  equipo de L; juntos atrapan a Higuchi (Yotsuba); Light recupera la
+  memoria. **Rem mata a L** para salvar a Misa y se desintegra (ep. 25).
+  Light pasa a ser el nuevo «L» ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Death_Note)
+  y la [wiki](https://deathnote.fandom.com/wiki/Death_Note_Wiki)).
+- **Near y Mello (ep. 26-37)**: cinco años después, con cultos a Kira.
+  **Near** (con la SPK) y **Mello** (con la mafia) compiten entre sí.
+  **Aizawa** sospecha de Light. Light da el cuaderno a **Mikami** y pone a
+  **Takada** de portavoz. Mello secuestra a Takada; ella lo mata y Light
+  la mata a ella. **Near prueba que Light es Kira** en el almacén (ep.
+  36-37); herido, Light pide a Ryuk que escriba; **Ryuk escribe el nombre
+  de Light**, como le prometió el primer día ✅ (mismas dos fuentes).
+
+### Emblemas, grupos y objetos
+
+- **Equipo japonés** (Task Force): sin logo; su símbolo es la **insignia
+  de investigador** que enseñan al identificarse ✅
+  ([Japanese Task Force](https://deathnote.fandom.com/wiki/Japanese_Task_Force)).
+- **SPK** (Special Provision for Kira), de Near: sólo nombre, sin logo ✅
+  ([SPK](https://deathnote.fandom.com/wiki/Special_Provision_for_Kira)).
+- **Grupo Yotsuba** (よつば, «cuatro hojas»): logo corporativo en
+  documentos y edificios ✅ ([Yotsuba Group](https://deathnote.fandom.com/wiki/Yotsuba_Group)).
+- **Objetos que un fan reconoce al instante**: el cuaderno negro, **la
+  manzana roja**, **la «L» gótica en pantalla blanca**, **la «N»** de Near
+  (mismo recurso), los dulces de L, **las esposas** que unen a L y a
+  Light, el cronómetro de las cintas de Misa con «KIRA» escrito a mano
+  (ep. 11, 00:03:27) ✅.
+
+### Vocabulario propio
+
+| Palabra | Qué es |
+|---|---|
+| **Kira** (キラ, de *killer*) | El apodo del asesino; sale escrito como pintada en la serie ⚠️ (la página de la wiki no se releyó) |
+| **Shinigami** (死神) | Dios de la muerte: Ryuk, Rem, Sidoh; viven en un desierto gris con huesos ✅ |
+| **Ojos de shinigami** (死神の目) | El trato de la mitad de la vida ✅ |
+| **Segundo Kira** | Misa, cuando aparece con el otro cuaderno ✅ |
+| **Dios del nuevo mundo** (新世界の神) | Lo que Light dice que será (ep. 1, 00:21:00) ✅ |
+| **Wammy's House** | El orfanato inglés de Watari donde se formaron L, Near y Mello ✅ ([wiki](https://deathnote.fandom.com/wiki/The_Wammy%27s_House)) |
+| **40 segundos** y **6 minutos 40 segundos** | Lo que tarda el infarto y el plazo para escribir los detalles ✅ |
+| *Keikaku doori* (計画どおり) | «Todo según el plan», la cara de Light (ep. 24) ✅ |
+
+---
+
+## 19 · Tres conceptos para la lámina de #textos
+
+Los tres usan los textos de §0. Donde pongo una frase «en la voz del
+personaje» es **mía**, no del doblaje latino. Recortes siempre por
+`v3/integrar.py` y comprobados a 1:1. Sangre, con `v3/sangre.py`.
+
+> [!tip] Dos datos que dan pie a todo
+> - **Las reglas del cuaderno las escribió Ryuk**, «en inglés, la lengua
+>   más popular» (ep. 1, 00:16:37) ✅. Y hay reglas **en la primera página y
+>   en la contratapa**: «裏表紙のほうの “How to use”» (ep. 24, 00:11:55) ✅.
+> - Light, sobre las reglas: «ルールとは いつの世界も 神とされる者によって
+>   作られるものだ» («las reglas, en cualquier mundo, las hace quien se
+>   tiene por dios», ep. 24, 00:15:13) ✅.
+
+### Concepto A — «Cómo se usa» (el cuaderno del plan, mejorado)
+
+- **Objeto y sitio**: **el Death Note abierto sobre el escritorio de
+  Light**, de noche (su cuarto). Al lado: **una manzana
+  roja mordida**, un bolígrafo, **la bolsa de papas** y **el cajón a medio
+  abrir con el doble fondo** (ep. 2, 00:10:32). En Blender: cuaderno (caja
+  con tapas y hojas curvadas), manzana, cajón. Texturas: cuero
+  [Leather026](https://ambientcg.com/view?id=Leather026), papel
+  [Paper003](https://ambientcg.com/view?id=Paper003), madera
+  [Wood039](https://ambientcg.com/view?id=Wood039).
+- **Personaje**: **Ryuk**, porque **él escribió las instrucciones**.
+  Detrás del escritorio, inclinado sobre el cuaderno, con la manzana en la
+  mano. Pose: ep. 1, 00:13:00 (**visto** ✅: contrapicado, enorme, alas
+  de pelo en punta llenando el plano) o la sonrisa de oreja a oreja del
+  ep. 1, 00:17:29 ([`?t=1049`](https://archive.org/download/DeathNoteTV/01%20-%20Rebirth.mp4?t=1049)).
+  Cuerpo entero a color: hoja 2, nº265; con Light: nº251. La mano que sostiene la manzana **se ve entera, con su brazo**
+  (regla 7 del dueño).
+- **Cómo habla**: como en el manga, **la regla en inglés arriba y la
+  traducción debajo**. Su frase, **garabateada en el margen** del cuaderno
+  (letra Zeyada), sin globo: **«Las escribí yo. Léelas, que me aburro.»**
+- **Dónde va cada texto**:
+  - Arriba de la página izquierda, en gótico (UnifrakturMaguntia):
+    **Textos**. Debajo, pequeño: *HOW TO USE IT*.
+  - En IM Fell English: **Guiones para practicar**. **Monólogos,
+    diálogos, escenas y narraciones.**
+  - Las reglas, numeradas en romano: **I. Un hilo por guion.**
+    **II. Llena la ficha.** **III. Di si se puede usar libre o hay que
+    pedir permiso.**
+  - Página derecha, **a mano** (Kalam), como Light escribe los nombres:
+    **Tipo** Monólogo, **Voces** Hombre adulto, **Duración** 40 segundos,
+    **Tono** Contenido, **Uso** Libre para usar. Es el hilo de ejemplo del
+    foro, y el **40** es el de la regla del cuaderno.
+- **Segunda pasada, la página**: la primera hoja del cuaderno es **negra
+  con letra blanca gótica** y una calavera con aureola (insert del ep. 1,
+  00:04:32, visto ✅). La página izquierda puede ser así (negro violeta
+  `#070311` a `#29202A`, medido) y la derecha, la hoja rayada hueso donde
+  se escribe a mano.
+- **Para que no quede plano**: lámpara de escritorio **cálida** a un lado,
+  cuarto **azul violeta casi negro** (`#0F1127`, `#030212`, `#1A2237`,
+  medidos en el ep. 1); la manzana **desenfocada en primer plano**; los
+  ojos rojos de Ryuk como único brillo del fondo; **una gota de sangre**
+  que cae de la punta del bolígrafo sobre el margen (sangre.py), y la
+  sombra de Ryuk sobre la página derecha.
+- **Lámina 2**: **el cajón con doble fondo**, abierto: las nueve
+  etiquetas como fichas de papel escondidas en el hueco, en tres montones
+  (Qué es, Cómo se usa, Cuántas voces).
+
+### Concepto B — «Lo lee otro» (L y la emisión de Lind L. Tailor)
+
+- **Objeto y sitio**: **la mesa del cuartel de la investigación** con un
+  **televisor** que emite la pantalla blanca de la «L» (ep. 2, 00:17:36;
+  **en la pantalla va el fotograma real**, regla 2 del dueño). Delante,
+  **el guion impreso** que leyó Lind L. Tailor: un taco de folios con
+  clip. En Blender: tele de tubo, folios, clip, taza y **una torre de
+  terrones de azúcar**.
+- **Personaje**: **L, el más querido** (§9). **En cuclillas en la silla**,
+  sujetando el guion **con dos dedos**. Pose: ep. 10, 00:08:14 (**visto**
+  ✅: en cuclillas, dedo en el labio) o ep. 15, 00:08:04 (en cuclillas
+  sobre un banco, [`?t=484`](https://archive.org/download/DeathNoteTV/15%20-%20Wager.mp4?t=484)).
+  Arte oficial: hoja 1, nº11 (dedo en el labio) y nº26 (de blanco);
+  hoja 2, nº261 (de pie, descalzo). La tele del ep. 2 es un **CRT azul
+  sobre un mueble** (visto ✅).
+- **Cómo habla**: L habla **de usted y en porcentajes**. Su frase, **a
+  máquina** (Special Elite) en un post-it pegado al guion: **«Si llenas la
+  ficha, la probabilidad de que alguien lo grabe sube mucho.»**
+- **Dónde va cada texto**:
+  - Portada del guion, a máquina: **Textos**. **Guiones para practicar.**
+  - Debajo, en casillas, como una ficha policial: **Tipo, Voces,
+    Duración, Tono, Uso**, ya llenas con el ejemplo del foro.
+  - Tres folios abiertos en abanico, uno por regla: **Un hilo por guion**,
+    **Llena la ficha**, **Di si es libre o pide crédito**.
+  - En la esquina del guion, **un sello rojo** con una huella: **Pide
+    crédito**. Al lado, un sello en tinta: **Libre para usar**.
+- **Para que no quede plano**: la tele **ilumina a L por delante** en
+  blanco frío; detrás, oscuridad; la torre de azúcar **desenfocada en
+  primer plano**; la huella roja es la única mancha de color.
+- **Lámina 2**: el **puzle blanco de Near** a medio armar en el suelo
+  (ep. 27, 00:02:04: «パズルは解かなければ»): cada pieza, una etiqueta; la
+  pieza que falta, **Para dos voces**.
+
+### Concepto C — «La cinta de Misa» (grabar un guion)
+
+- **Objeto y sitio**: **el tocador de Misa** con **una cinta de vídeo**, su
+  sobre para **Sakura TV** y **una cámara de vídeo** con la luz roja de
+  grabar encendida (ep. 11, 00:02:24: las cintas que llegan al canal; ep.
+  12, 00:09:08: «さあ！　ビデオ ビデオ»). En Blender: cinta VHS con su
+  etiqueta, sobre, cámara, espejo.
+- **Personaje**: **Misa**, porque **es la que graba**. Pose: ep. 12,
+  00:14:39 (posando) o 00:09:08 (va corriendo a grabar). Ropa gótica,
+  **cruz de plata**. **Visto** ✅ en el ep. 12, 00:14:39: labios rojos y
+  **bufanda roja tejida con un colgante «M»**. Arte oficial: hoja 1, nº8
+  («Saint Valentine's Day», vestido rojo `#A74E44` medido) y nº40.
+- **La cinta, tal cual sale** (ep. 11, 00:03:27, visto ✅): tele con
+  estática, un **cronómetro verde «5:59»** y **«KIRA» escrito a mano en
+  gótico**. Úsalo para la pantalla del fondo.
+- **Cómo habla**: **en tercera persona**, cantarina. Su frase en la
+  **etiqueta de otra cinta**, a mano (Kalam), con un corazón negro:
+  **«Misa ya grabó el suyo. ¡Ahora tú!»**
+- **Dónde va cada texto**:
+  - Lomo de la cinta: **Textos**.
+  - Etiqueta grande de la cinta: **Guiones para practicar**.
+  - En el sobre, como remitente y destino: **Un hilo por guion**.
+  - En el papel que Misa lee delante de la cámara: la **ficha** (Tipo,
+    Voces, Duración, Tono, Uso) y **Di si es libre o pide crédito**.
+- **Para que no quede plano**: **luz roja** del piloto de la cámara en
+  primer plano; bombillas del espejo de camerino detrás; una **mancha de
+  pintalabios rojo** en el sobre que pasa por sangre (sangre.py, con
+  cuidado).
+- **Riesgo**: Misa no sale arriba en las encuestas japonesas ⚠️; en
+  AniList es **4.ª**, casi empatada con Ryuk (7 010 contra 7 079) ✅. Es
+  la opción **más «de doblaje»**, pero la menos querida de las tres.
+
+### ¿Cuál primero?
+
+**A**. Es el objeto que pidió el servidor, se hace entero en Blender, y la
+relación con el canal es **literal**: el cuaderno trae instrucciones
+escritas y el foro también. Ryuk es reconocible al instante.
+**Para no dejar fuera a L**, el más querido, se puede usar **B como
+lámina 2** del canal, o poner a L en A **en el borde del encuadre**, en
+cuclillas en una silla, leyendo el cuaderno con dos dedos (así lo tienen
+en el ep. 24, 00:11:55 a 00:13:09, cuando leen las reglas de la contratapa)
+⚠️ (que L lo sostenga así es de memoria).
+
+---
+
+## 20 · Lo que no pude verificar
+
+- **Imágenes**: no se pudo bajar nada (Fandom, Wikipedia, YouTube,
+  Sketchfab, pixiv, Madhouse: bloqueados). **Sin hojas de contacto.**
+- **Lo que se ve en cada fotograma**: las posturas de §15 son de memoria.
+- **Frases exactas del doblaje latino**: sólo confirmé que la papa es
+  «**fritura**». «Yo soy la justicia» y «Seré el dios del nuevo mundo»
+  pueden ser de fansubs.
+- **Voces latinas** de Sōichirō (José Lavat, dudoso), Rem, Watari,
+  Matsuda, Mikami.
+- **El estudio** del doblaje: una sola fuente.
+- **Encuesta oficial** de la Jump: parece que no hubo; lo dice un usuario
+  de Yahoo! 知恵袋.
+- **La letra de las reglas** «HOW TO USE IT» del anime y del manga.
+- **Las pausas (eyecatch)**: qué regla sale en cada episodio y cómo es el
+  fondo.
+- **Capturas de los juegos** (Kira Game, Killer Within).
+- **Licencias de Sketchfab**: sólo por el resultado de búsqueda.
+- **Hex de la paleta**: estimados, no medidos.
+- La **entrevista de Araki** sobre color (fullfrontal.moe) y la de la web
+  de Madhouse: sólo resúmenes.
+
+### 20.1 Tras la segunda pasada (26-sep-2026)
+
+**Resuelto**: hojas de contacto (3 en `hojas/`); 19 poses y 9 caras
+vistas en fotograma; voces de Sōichirō, Rem, Watari, Matsuda y Mikami;
+licencias de Sketchfab por su API; hex medidos (fondos en §5.5, ropa en
+§16.1); la entrevista de Araki (fullfrontal.moe); capturas de *Killer
+Within* (§13.1).
+
+**Sigue sin verificar** ⚠️:
+
+- **Frases del doblaje latino**: sólo «fritura» tiene audio; el orden
+  exacto de la frase y «Yo soy la justicia» / «Seré el dios del nuevo
+  mundo» siguen sin oírse en el doblaje.
+- **El estudio** del doblaje: AF The Dubbing House o Mystic Sound /
+  Fogarty Studios (las dos wikis no coinciden).
+- **Encuesta oficial** de la Jump: parece que no hubo.
+- **La letra de las reglas** y **las pausas (eyecatch)** episodio a
+  episodio.
+- **Capturas de Kira Game** (DS).
+- **Fotogramas a 1080p**: Internet Archive sólo tiene 720p; YouTube no
+  deja bajar.
+- **Minutos de los análisis de YouTube** y vistas de TikTok.
+- **Caras sin fotograma propio**: la risa de Light, la tristeza de L y
+  Matsuda disparando (hay clips doblados); Misa en el ep. 13 y Near en el
+  ep. 28 (mira ±10 s).
+- **Alturas y cumpleaños** de Mello, Matsuda, Mikami y Naomi (sólo
+  AniList).
+- **El libro «/A»** de la animación (nunca salió de Japón), la licencia
+  de «Death Font», el año de LINE Bubble 2 y la fecha de USJ.
+- **Portadas de los 12 tomos** con tamaño.
+- **Modelo 3D libre de Misa o Near**: no existe en Sketchfab.
+
+---
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Estado tras la
+segunda pasada (26-sep-2026).
+
+| Punto | Qué pide | Estado | Por qué y dónde |
+|---|---|---|---|
+| 1 | Arte oficial, mucho y variado | ✅ | §3.6 y «Las hojas de contacto»: 1181 imágenes de la wiki, color pages de Obata hasta 3466×5000, artbook, *Othellonia*, *Jump Force*. Faltan las portadas de los 12 tomos con tamaño |
+| 2 | Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | §2 (minuto del subtítulo) y §2.11 (11 escenas vistas en Internet Archive, más opening, ending y tráiler). A 720p, no a 1080p: YouTube no deja bajar |
+| 3 | Fan art, renders y modelos 3D con licencia | ✅ | §4: 11 modelos con la licencia leída en la API de Sketchfab (cuaderno, Ryuk, L, Light); fan art con autor. No hay Misa ni Near libres |
+| 4 | Fondos, luz, paleta en hex y texturas reales | ✅ | §5.5: 9 sitios y la página del cuaderno con hex medidos en fotograma; §5.4 texturas CC0 con licencia confirmada |
+| 5 | Tipografía por uso, letra libre y si trae tildes | ✅ | §6 y §6.3: 12 letras pasadas por fontTools (a Butcherman le falta el ¿), japonés, coreano y chino. La licencia de «Death Font» no salió: no se usa |
+| 6 | Cómo hablan y piensan en pantalla | ✅ | §7: página «HOW TO USE IT», la «L» gótica, monólogo interior, cómo habla cada uno; §13.1 el globo dentado y la hoja roja de *Killer Within* |
+| 7 | Personajes y encuestas de popularidad | ✅ | §8 y §9.1: Nlab, Namuwiki, Ranker y AniList (L 1.º); Matsuda, secundario de culto en Reddit |
+| 8 | Doblaje latino: frases y voces en dos fuentes | ⚠️ | §10: 14 voces en Doblaje Wiki y The Dubbing Database (las 5 que faltaban, resueltas); ficha de producción. Frases: sólo «fritura» con audio; el estudio, dos versiones |
+| 9 | Música, efectos de sonido y onomatopeyas | ✅ | §11.1: «Kyrie II» en la muerte de L (00:17:13), temas por episodio, tictac y campanas con minuto |
+| 10 | Vídeos con enlace y minuto | ⚠️ | §12.1: tráiler, opening y ending en Dailymotion con minuto; episodios con `?t=`; TikTok. Los análisis de YouTube, sin minuto |
+| 11 | Videojuegos: interfaz, menús y cajas de diálogo | ⚠️ | §13 y §13.1: seis capturas de *Killer Within* miradas (cuaderno, aviso de L, votación). *Kira Game* (DS), sin captura |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | §14 y §14.1: papa, *keikaku*, memes hispanos de más de 1 millón de vistas, uniforme y lolita; qué NO hacer |
+| 13 | Descripción profunda y cara en cada emoción | ✅ | §8 y §8.1: carácter, cómo habla, dinámicas; 9 caras, 6 vistas en fotograma con `?t=` (4 minutos corregidos). Tres, sólo con clip doblado |
+| 14 | Poses en varias escenas, por personaje | ✅ | §15: 5 a 10 poses con minuto por personaje; 19 filas vistas en fotograma, con correcciones |
+| 15 | Vestuario con hex | ✅ | §16.1: 10 hex medidos en arte oficial; la corbata de Light y el pantalón de Near en el anime, sin medir |
+| 16 | Ciudades, paisajes y fondos de pantalla con tamaño y autor | ✅ | §17.1: 4 key visuals oficiales a 1920×1080 y 6 de Wallhaven con tamaño, ♥ y autor |
+| 17 | Guía para IA de imagen y de texto | ✅ | §18: rasgos fijos, palabras que ayudan y estropean, vocabulario de gestos visto en fotograma, voz de cada uno y 13 frases reales por emoción |
+| 18 | Estilo de dibujo, técnica y cómo replicarlo | ✅ | «Punto 18»: línea y sombras de Obata, entrevista de Araki, encuadres vistos, recetas de Photoshop y Blender. El libro «/A» no se pudo leer |
+| 19 | Texturas 2D | ✅ | «Punto 19»: 5 packs de tramas con licencia, papel y cuero CC0, emblemas. Sin encaje gótico libre |
+| 20 | Gustos y detalles de cada personaje | ✅ | «Punto 20»: 10 personajes con cumpleaños y altura; 5 con una sola fuente |
+| 21 | Por qué la aman y escenas que hacen llorar | ✅ | «Punto 21»: ventas, premios, crítica, identificación; 5 escenas que hacen llorar con minuto y música. Sin vídeos de reacción con minuto |
+| 22 | Fan dubs y comunidad hispana | ✅ | «Punto 22»: 5 covers (hasta 3,6 millones) y 5 fandubs y parodias con canal y vistas. TikTok, sin vistas |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | «Punto 23»: *Jump Force*, USJ, *Othellonia*, LINE Bubble 2, Uniqlo, XLARGE, pachislot, figuras Nendoroid; cosplay de Reddit |
+| 24 | Obras parecidas y temas relacionados | ✅ | «Punto 24»: recomendaciones de AniList, cita de Ohba con dos fuentes, láminas del servidor parecidas, sin choque de canal |
+| 25 | El mundo, la historia y sus símbolos | ✅ | «Punto 25»: reglas en cinco líneas, dos arcos, grupos, objetos y vocabulario |
+| Conceptos de lámina (3) | Tres ideas distintas con objeto, personaje, letra y textos | ✅ | §19: A el cuaderno de Ryuk, B el guion de L, C la cinta de Misa; actualizados con fotogramas vistos, hex medidos y números de hoja |
+| Fuentes distintas (40) | Mínimo 40 webs | ✅ | Más de 100 webs distintas enlazadas en el cuerpo |
+| Tipos de fuente | Oficiales, otros idiomas, wikis, foros, arte, vídeo, código, doblaje | ⚠️ | Hay de todos: japonés (Nlab, 知恵袋, subtítulos), coreano (Namuwiki), chino (Bilibili), Reddit, TV Tropes, pixiv, GitHub, Doblaje Wiki. The Cutting Room Floor no se consultó para *Kira Game*; YouTube, sin vídeo |
+| Hojas de contacto | 3 JPEG de menos de 3 MB | ✅ | `hojas/`: 3 hojas de menos de 1 MB, miradas y explicadas (con dos correcciones a la parte de imagen) |
+| `referencias.json` | Mínimo 20, las mejores primero | ✅ | Más de 270 referencias; primero las de los investigadores |
+
+---
+
+## 21 · Bitácora de búsqueda
+
+### Comprobación de red (24-sep-2026)
+
+- WebFetch bloqueado (EGRESS_BLOCKED): doblaje.fandom.com (API),
+  nlab.itmedia.co.jp, madhouse.co.jp, fullfrontal.moe,
+  animeol.wordpress.com. Dejé de probar después de cinco.
+- curl sin respuesta: api.sketchfab.com, sketchfab.com, dafont.com,
+  fontmeme.com, api.polyhaven.com, ambientcg.com.
+- GitHub responde (git y raw; `api.github.com` dio 200).
+- `herramientas/investigar_serie.py` no se corrió: sin Fandom no hay
+  hojas. Por eso **no hay `hojas/`**.
+
+### Búsquedas web (49)
+
+| # | Idioma | Búsqueda (dominio si lo hubo) |
+|---|---|---|
+| 1 | ES | Death Note doblaje latino reparto Light L Misa Near Ryuk (doblaje.fandom.com) |
+| 2 | ES | «Death Note» doblaje latino Misa, Near, Mello, Matsuda, Sōichirō, AF The Dubbing House, Rolando de Castro |
+| 3 | ES | Death Note latino «Near» «Hugo Núñez» «Manuel Campuzano» «Rebeca Gómez» |
+| 4 | ES | Death Note latino «papa frita» «me la comeré» |
+| 5 | ES | frases Death Note latino «dios del nuevo mundo» «la justicia» Ryuk «humanos son» |
+| 6 | EN | Death Note official popularity poll Jump L Light Mello Near |
+| 7 | JA | デスノート 人気投票 結果 ジャンプ 1位 |
+| 8 | EN | Death Note eyecatch rules «How to use it» each episode |
+| 9 | EN | Death Note notebook cover font / logo typeface |
+| 10 | ES | manga en español: reglas «Cómo usarlo» «cuyo nombre sea escrito…» |
+| 11 | ES | «Death Note» latino «libreta» Ryuk Light |
+| 12 | JA | デスノート 荒木哲郎 インタビュー ポテチ 北尾勝 美術監督 色彩設計 |
+| 13 | EN | Tetsuro Araki potato chip scene interview |
+| 14 | EN | Araki color cinematography (fullfrontal.moe) |
+| 15 | EN | Kira Game DS gameplay interface L o Tsugu Mono |
+| 16 | EN | Death Note: Killer Within gameplay UI |
+| 17 | EN | Death Note notebook 3D model CC (sketchfab.com) |
+| 18 | EN | «How to use it» rules page font / replica |
+| 19 | JA | DEATH NOTE 20周年 小畑健 画集 Blanc et Noir キービジュアル |
+| 20 | EN | anime key visual, DVD and Blu-ray covers, Viz |
+| 21 | EN | OST Hirano, Taniuchi, «the WORLD», «What's up, people?!», «Alumina», «Zetsubō Billy» |
+| 22 | EN | Know Your Meme: keikaku, potato chip |
+| 23 | ES/EN | tendencia TikTok 2025-2026 Death Note |
+| 24 | EN | noticias 2026: nuevo anime, serie de Netflix, musical |
+| 25 | ES | doblaje latino: estudio, año 2008, Animax, Hugo Núñez, Bruno Coronel |
+| 26 | ES | reparto latino: Rolando de Castro, Bruno Coronel, Javier Olguín, Sōichirō, Rem… |
+| 27 | ES | «papita» «papa frita» «y me la comeré» (salió «fritura») |
+| 28 | ES | Ryuk latino Rolando de Castro «humanos» «interesantes» |
+| 29 | EN | cosplay: ropa y colores de Light, L, Misa, Near, Mello |
+| 30 | JA | デスノート 聖地 モデル 東応大学 捜査本部 |
+| 31 | EN | CC0 cuero negro, papel, madera (Poly Haven, ambientCG) |
+| 32 | EN | ambientCG paper, wood, leather (ambientcg.com) |
+| 33 | EN | wallpaper 4K 3840×2160 (alphacoders, wallhaven, wallpapercave) |
+| 34 | EN | fan art Ryuk Light L (artstation.com, deviantart.com, pixiv.net) |
+| 35 | JA | デスノート イラスト 人気 (pixiv.net) |
+| 36 | EN | L: postura, pulgar, dulces, dedos, descalzo, diseño de Obata |
+| 37 | JA | 弥海砂 一人称 ゴスロリ / ニア 玩具 パズル (pixiv 百科) |
+| 38 | JA | デスノート アイキャッチ ルール 英文 «HOW TO USE IT» |
+| 39 | ZH | 死亡笔记 名场面 薯片 计划通 L 坐姿 (Bilibili) |
+| 40 | KO | 데스노트 명대사 계획대로 감자칩 L 인기 (나무위키) |
+| 41 | EN | paleta de color hex Death Note |
+| 42 | EN | «a-Kira Story» 2020, «Death Note Short Stories» |
+| 43 | ES | voz latina de Rem, Watari, Sōichirō, Matsuda, Mikami |
+| 44 | ES | «soy la justicia» «yo soy L» «tal como lo planeé» en latino |
+| 45 | ES/EN | tráiler oficial del anime (Viz, Netflix Latinoamérica) |
+| 46 | EN | Killer Within: fase de reunión, interfaz, roles |
+| 47 | EN | Ohba y Obata en «How to Read»: diseño de Ryuk y Light |
+| 48 | ES | entrevista a Hugo Núñez: casting de L |
+| 49 | ES | análisis de Death Note en español (youtube.com) |
+
+### GitHub (sin cupo)
+
+- [Ajatt-Tools/kitsunekko-mirror](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/DEATH%20NOTE):
+  270 archivos. Usé **el japonés de Netflix (37 episodios)**, **el
+  inglés de fans TSR (ep. 1-24)**, alineado con el japonés (desfase medio
+  de 80 s en todos) y **las letras de OP y ED de Moozzi2**. Los dejé en mi
+  carpeta temporal, **no en el repositorio**.
+- [google/fonts](https://github.com/google/fonts): 45 familias,
+  comprobadas con fontTools (tildes, ñ, ¿, ¡, ü) y con una hoja de muestra.
+
+### Fuentes consultadas por tipo
+
+- **Oficiales**: Madhouse (ficha y entrevista a Araki, sólo resumen), Viz
+  (anime, Short Stories, YouTube), Bandai Namco (Killer Within), Steam,
+  Shūeisha (artbook, por tiendas: HLJ, Books.or.jp, 漫画全巻), Netflix.
+- **Otros idiomas**: japonés (Yahoo! 知恵袋, ねとらぼ, みんなのランキング,
+  pixiv 百科, AniTabi, Anime Pilgrimage, YOSHI BLOG, Anime Staff DB),
+  chino (Bilibili, 萌娘百科, Baidu), coreano (Namuwiki, Wikipedia).
+- **Wikis**: Fandom (Death Note, Doblaje, Dubbing Database, Tropedia),
+  TV Tropes, Wikipedia, StrategyWiki, Propuestas fanon.
+- **Foros y comunidades**: Yahoo! 知恵袋, LiveJournal (death_note),
+  foros en español (foroactivo, blogspot), Facebook (Star Con, Death Note
+  Spanish), TikTok. Reddit: bloqueado.
+- **Arte**: pixiv, ArtStation, DeviantArt, Wallpaper Abyss, WallpaperFlare.
+- **Vídeo**: YouTube, TikTok, Bilibili (sólo títulos: no pude verlos).
+- **Código y recursos**: GitHub, Sketchfab, ambientCG, Poly Haven,
+  color-hex, ColorMagic.
+- **Doblaje latino**: Doblaje Wiki (sólo extractos), The Dubbing
+  Database, ANMTV, Animeol, TikToks y vídeos de los actores.
+- **Prensa**: ComicBook.com, Screen Rant, SlashFilm, AniLoop, Peliplat,
+  Anime News Network, Anime Corner, SciFi Japan, Hypebeast, GameSpot,
+  What's on Netflix, CBR.
+
+### Lo que NO encontré
+
+- Imágenes descargadas y hojas de contacto.
+- Una encuesta oficial de popularidad (parece que no existe).
+- El orden completo de la encuesta de Nlab más allá del 4.º.
+- Voces latinas de Rem, Watari, Matsuda y Mikami; la de Sōichirō, dudosa.
+- Frases latinas con fuente, salvo «fritura».
+- Qué regla sale en cada pausa del anime.
+- La letra de las reglas del manga.
+- Capturas de la interfaz de los juegos. The Cutting Room Floor: no lo
+  busqué (no hay juegos de Death Note con betas documentadas que yo
+  sepa ⚠️). Wayback Machine: bloqueada.
+- Una hoja de modelo oficial del anime (Kitao).
+
+---
+
+## Bitácora de la segunda pasada (26-sep-2026)
+
+### Bitácora de imagen
+
+- Fandom API (`deathnote.fandom.com/api.php`) + `investigar_serie.py`:
+  1181 imágenes, 12 hojas — español/inglés — ✅.
+- `api.sketchfab.com/v3/search` (ES/EN): «death note notebook», «death
+  note l», «ryuk death note», «misa death note», «near death note»,
+  «death note» (ordenado por ♥) — licencias reales, no de resultado de
+  búsqueda — ✅.
+- WebSearch (español e inglés): «Death Note colaboración cafe merchandising
+  crossover pachislot figuras oficiales», «"Death Note" Jump Force
+  collaboration crossover game art», «"Death Note" Universal Studios Japan
+  Halloween Horror Nights maze attraction» (sin resultado de una casa del
+  terror propia; sí existe el evento «Jump Summer» ⚠️), «Death Note x BAPE
+  OR Uniqlo OR Loungefly collaboration merchandise art», «"Death Note"
+  XLARGE Ryuk varsity jacket 2022 collaboration highsnobiety», «Death Note
+  official wallpaper download site oficial fondo de escritorio Viz
+  Madhouse», «free manga screentone halftone pattern pack license CC0
+  download», «Clip Studio Assets free screentone brushes ink pinceles
+  gratis licencia», «ambientCG CC0 license public domain textures
+  confirmed».
+- `curl` directo con cabecera `Referer: https://www.fandom.com/` para bajar
+  las imágenes de color page (Light, L, Ryuk, Misa, Near) y medir hex con
+  Pillow (`sample.py` propio, mediana de zona con y sin máscara de color) —
+  ✅, archivos en `/tmp/claude-0/trabajo/18-death-note-imagen/color/`.
+- `curl -A "Mozilla/5.0"` a `zerochan.net` para el tamaño real de los
+  wallpapers oficiales (leído del `og:image` de cada página) — ✅.
+- `python3 herramientas/estilo.py` sobre las 6 imágenes de color page:
+  paleta dominante y estilo de sombreado por personaje — ✅.
+- Fandom API a `List_of_Death_Note_figurines` (wikitext): confirma que la
+  lista existe y qué marcas hicieron figuras, pero sin URLs de imagen
+  directas por personaje ⚠️.
+- No hizo falta usar `navegar.py` en esta tanda: todo respondió a `curl` o
+  a la API correspondiente.
+
+Nota de orden: el punto 3 quedó al final del archivo (no por delante del
+15) por un error mío al editar por partes; el contenido está completo, sólo
+el orden de guardado no siguió la numeración.
+
+### Bitácora de video
+
+- `yt-dlp` sobre `youtube.com/watch?v=NlJZ-YgAt-c` (tráiler AniList): **429 → «Sign in to confirm you're not a bot»**, dos intentos con minutos de por medio. No reintento más.
+- `fotogramas.py` sobre 13 episodios completos de Internet Archive (`archive.org/download/death-note-XX`, y `death-note-11_202008` para el 11): **funciona perfecto**, 1280×720, sin bloqueo. 30 fotogramas extraídos y mirados con Read.
+- `fotogramas.py` sobre 3 clips de Dailymotion (opening x31pve2, ending x6alujt, tráiler x89nprz): **funciona**, hojas de contacto de 6-8 fotogramas.
+- `api.dailymotion.com/videos?search=...` (dos búsquedas: «Death Note analisis L Light»): da resultados pero son de la película 2017, no del anime.
+- `api.animethemes.moe/anime?filter[name]=Death Note`: **403** (con `curl -g` y con `urllib` con cabeceras normales). No lo reintento (regla de dos intentos).
+- `estilo.py` (Pillow) sobre 11 fotogramas para medir paleta real: **funciona**, da hex + saturación/brillo, sin necesidad de red.
+- `wtas.moe/ost/death-note/25` y `/8` (WebFetch): da tracklist detectado por audio, con 5 bloques horarios por episodio.
+- Wikipedia `Death_Note_original_soundtracks` (WebFetch): tracklist oficial de las 3 OST, cruzado con wtas.moe.
+- WebSearch (es/en): «Death Note episode 25 death scene soundtrack», «Death Note TikTok trend keikaku doori potato chip», «potato chip Death Note TikTok trend». 3 búsquedas de las ~50 permitidas.
+- `www.tiktok.com/discover/...` con `curl` y con `navegar.py --selector body`: la página carga (200) pero sin contenido útil (JS puro, 0 caracteres con navegar.py). Uso los enlaces directos a vídeos/sonidos que sí dio la búsqueda web.
+- Metadatos de Internet Archive (`archive.org/metadata/death-note-XX`) para confirmar el nombre exacto del `.mp4` de cada episodio antes de pedir el fotograma: 13 episodios comprobados (01, 02, 08, 09, 10, 11, 12, 13, 24, 25, 27, 28, 33, 36, 37).
+- Disco: se borraron todos los `video.mp4` descargados por `fotogramas.py` en cuanto salieron las hojas (regla del disco compartido); sólo quedan los `.jpg` en `/tmp/claude-0/trabajo/18-death-note-video/` (2,6 MB en total).
+
+### Bitácora de voz
+
+- Continué una tanda cortada por límite de uso: `partes/voz.md` sólo
+  tenía el punto 7 escrito. Empecé desde el punto 8, sin repetir lo ya
+  confirmado.
+- `doblaje.fandom.com/es/api.php?action=parse&prop=wikitext&page=Death_Note`
+  (español, directo): wikitext completo con el reparto de 37 episodios;
+  resolvió el «no encontré» de Rem/Watari/Matsuda/Mikami que traía la
+  biblia.
+- `dubdb.fandom.com/api.php?action=parse&prop=wikitext&page=Death_Note_(Latin_American_Spanish)`
+  (inglés, wiki de doblaje): segunda fuente para cada nombre del reparto
+  latino, y plataformas oficiales.
+- `en.wikipedia.org/w/api.php` (inglés): dio «too many requests» dos
+  veces (varios ayudantes comparten IP); a la tercera con
+  `User-Agent` identificado sí respondió. Extraje ventas, premios y
+  reseñas (sección Reception).
+- `deathnote.fandom.com/api.php` (inglés, wiki de la serie): alturas de
+  Light, L, Misa, Near y Ryuk desde el infobox (cruce con AniList).
+- `anilist.co` (ya lo trajo `recolectar.py`; sólo leí lo que faltaba):
+  fichas de personaje completas para el punto 20.
+- `python3 herramientas/navegar.py` en **TV Tropes**
+  (`YMMV/DeathNote`, `TearJerker/DeathNote`) e inglés: la vista con
+  `--selector` no basta (folders colapsados por JS), tuve que pedir
+  `--html` y limpiar las etiquetas a mano para leer el contenido
+  plegado.
+- `python3 herramientas/navegar.py` en **YouTube** (`/results?search_query=…`,
+  español): funcionó bien para ver título, canal y vistas reales sin
+  necesitar login; hice un script propio con Playwright (basado en
+  `navegar.py`) para sacar también el `href` de cada vídeo. Búsquedas:
+  «death note fandub latino opening», «death note fandub español light».
+  `yt-dlp --dump-json` sigue bloqueado («sign in to confirm you're not a
+  bot») para bajar vídeo.
+- `api.dailymotion.com/videos?search=…` (varias consultas en español):
+  vistas muy bajas comparado con YouTube; sirve sólo como plan B si
+  YouTube falla, tal como dice AYUDANTE.md.
+- Reddit ya venía traído por `recolectar.py` (Arctic Shift); sólo lo leí,
+  no repetí la consulta.
+- **Tanda «seguir»**: la serie completa (37 episodios, TV) está en
+  Internet Archive, `archive.org/details/DeathNoteTV`
+  (`archive.org/metadata/DeathNoteTV` para el listado de archivos), en
+  MP4 con `moov` al principio (`ffprobe` lee la duración en ~1 s vía
+  HTTP sin bajar el archivo). Eso permite usar `ffmpeg -ss <seg> -i
+  <url-directa>.mp4 -frames:v 1` (la función `sacar()` de
+  `herramientas/fotogramas.py`) para un fotograma exacto sin pasar por
+  el paso de descarga completa de `bajar()`/yt-dlp, que sí sería
+  pesado (cada episodio pesa 130-200 MB).
+- Con eso saqué los 6 fotogramas que faltaban en la tabla del punto 13.
+  En 4 casos el minuto que traía la biblia (anotado sin vídeo, del
+  subtítulo japonés) no coincidía con la escena descrita: hice una hoja
+  de contacto (grid con `PIL`, igual que las hojas de
+  `fotogramas.py` pero apuntando directo a la URL) cada ~25-30 s
+  alrededor del minuto para localizar la escena real, y corregí el
+  minuto en la tabla (diferencias de 1 a 18 min, siempre dentro del
+  mismo episodio). Los dos que coincidían de entrada (Light-rabia,
+  Near-calma) se quedaron con su minuto original.
+- Probé además localizar la risa de Light en la tumba de L (fila
+  «Alegría/triunfo», ya con enlace de YouTube, no obligatoria):
+  escaneé el episodio 1 completo (fotograma en 00:22:32 sale
+  sobreexpuesto/blanco, un flash de transición) y el episodio 24 entero
+  cada 60 s sin encontrar la escena del cementerio; no insistí más por
+  no ser obligatoria.
+
+### Bitácora de texto
+
+- 26-sep-2026 (repaso, español/inglés): Fandom API de `deathnote.fandom.com` para reglas del mundo, el objeto Death Note, ojos de shinigami, grupo Yotsuba, Task Force y SPK — sin bloqueo, la API funciona directo.
+- 26-sep-2026 (inglés): Wikipedia `action=parse` sobre «Death Note» para la sección Plot completa, contrastada con la secuencia de arcos de Death Note Wiki (dos fuentes independientes para el punto 25).
+- 26-sep-2026 (inglés): TV Tropes `Franchise/DeathNote` con `navegar.py` (funciona en esta máquina) para el panorama de toda la franquicia (usado sólo de contexto, ya cubierto por `datos-texto.md`).
+- Sesión anterior (24/25-sep-2026, cortada por el límite de uso): fontTools sobre 12 fuentes descargadas de Google Fonts; entrevistas a Araki (fullfrontal.moe) y Obata (Tumblr); Inverse sobre Tsugumi Ohba; ComiPress/Yahoo con la cita original de Ohba; comparación con `encargos/` para el punto 24.
+
+### Del redactor
+
+- Juntó las cuatro partes en su sitio, sin rehacer la biblia: 2.11,
+  3.6, «Las hojas de contacto», 5.5, 6.3, 8.1, 9.1, 11.1, 12.1, 13.1,
+  14.1, 16.1, 17.1, la IA de texto en §18 y los puntos 18 a 25.
+- Miró las 3 hojas y corrigió a la parte de imagen: *Jump Force* es la
+  hoja 2, nº252-253 (no nº259-260, que son Mello); la nº261 es L de pie
+  y la nº267 es Ryuk con el cuaderno del piloto.
+- Leyó por la API de la wiki de Fandom el tamaño y la URL original de 24
+  imágenes de las hojas (inglés, `action=query&prop=imageinfo`).
+- Miró seis capturas oficiales de *Killer Within* en Steam (URL de
+  `partes/datos-texto.md`) para describir su interfaz (§13.1).
+- Avisó de que Internet Archive tiene dos copias de la serie que no van
+  al mismo segundo (§8.1).

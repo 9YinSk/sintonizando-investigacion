@@ -1,0 +1,1378 @@
+[
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/0/01/Tanya_von_Degurechaff_%28Anime%29.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 650,
+  "alto": 963,
+  "que_es": "Ficha oficial de personaje, cuerpo completo, sin fondo",
+  "para_que": "Referencia de vestuario y pose de acción; hex medidos en imagen.md",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/b/ba/Tanya_Reading_Reports.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 56)",
+  "ancho": 1365,
+  "alto": 767,
+  "que_es": "Tanya con la tablilla de pinza, avance de capítulo (次回予告), orbe rojo al pecho",
+  "para_que": "Concepto A (#castings): pose H-1 «explicar/revisar»",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/9/99/Tanya45.png",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 30)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tanya con los ojos cerrados tomando café junto a una cafetera de sifón y un quinqué",
+  "para_que": "Pose H-2 «pensar»; luz del despacho del concepto A (llama #FFE65A)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/8/8d/Ep02_-_First_magical_power_display.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 64)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tanya niña con el casco de sensores de la prueba de aptitud (cap. 2), esfera y tintero con el alfabeto inventado",
+  "para_que": "Concepto B (#hardware): el aparato del banco de pruebas",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/9/96/Platoon3Members.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 52)",
+  "ancho": 1365,
+  "alto": 767,
+  "que_es": "Puesto de mando con radios y bombillas colgantes; Tanya, oficiales y Visha",
+  "para_que": "Concepto C (#en-directo): el sitio de la radio",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/1/12/Saga_of_Tanya_the_Evil_Movie_1st_Visual.jpg",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 3502,
+  "alto": 4948,
+  "que_es": "Visual clave de la película, Tanya de pie con abrigo",
+  "para_que": "Pose de autoridad, arte oficial variado",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/3/32/HorribleSubs-Youjo-Senki-10-1080p.mkv0044.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 28)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 1080p del cap. 10: Tanya de frente con gorra de plato de banda roja",
+  "para_que": "Pose H-3; referencia de estilo para IA; hex de la gorra",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/8/86/Viktoriya_Ivanovna_Serebryakov_%28Anime%29.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 650,
+  "alto": 963,
+  "que_es": "Ficha oficial de Visha, cuerpo completo, sin fondo",
+  "para_que": "Referencia de vestuario y pose de acción",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/c/c2/HorribleSubs-Youjo-Senki-08-1080p.mkv0012.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 33)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 1080p del cap. 8: Visha comiendo pan en el comedor",
+  "para_que": "Pose V-4; vida de cuartel; gustos (punto 20)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/e/e7/Victoria_Manga_Ch3.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 67)",
+  "ancho": 840,
+  "alto": 839,
+  "que_es": "Visha en el manga gritando «Second Lieutenant!!»",
+  "para_que": "Pose V-7 para el concepto C (cara alegre)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5bp78t?start=36",
+  "fuente": "Dailymotion (mirado con fotogramas.py)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cap. 5: trance del Tipo 95, ojos dorados (T-3); 0:54 ciudad en llamas; 1:00 silueta",
+  "para_que": "Pose T-3 y escena «¡Tamaya!»",
+  "licencia": "clip de anime - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5tslcz?start=40",
+  "fuente": "Dailymotion (mirado con fotogramas.py)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cap. 1: sonrisa demoníaca (T-2); 0:32 vuelo triunfal (T-1)",
+  "para_que": "Poses T-1 y T-2",
+  "licencia": "clip de anime - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5bp76k?start=8",
+  "fuente": "Dailymotion (mirado con fotogramas.py)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cap. 6: entrada en vuelo (T-4); 0:56 cálculo frío (T-5); 1:04 francotiradora",
+  "para_que": "Poses T-4, T-5 y T-6; concepto B y C",
+  "licencia": "clip de anime - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x96pfti?start=8",
+  "fuente": "Dailymotion (mirado con fotogramas.py)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tráiler de la película: «Men, I have returned.» (T-7); 0:48 «Glory to the Empire!»",
+  "para_que": "Poses T-7 y T-8; desierto del Sur",
+  "licencia": "tráiler oficial - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5bp70j?start=48",
+  "fuente": "Dailymotion (mirado con fotogramas.py)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cap. 5, entrenamiento en la nieve: Visha asustada (V-1); 1:28 escandalizada; 2:08 con el batallón; 2:24 halo dorado",
+  "para_que": "Poses de Visha y T-9",
+  "licencia": "clip de anime - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9uo9wg?start=56",
+  "fuente": "Dailymotion (mirado con fotogramas.py)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tráiler de la temporada 2 (2026)",
+  "para_que": "Aspecto de la T2",
+  "licencia": "tráiler oficial - solo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21613-qT3NiwYP5dYc.png",
+  "fuente": "AniList",
+  "ancho": 460,
+  "alto": 689,
+  "que_es": "Portada oficial del anime",
+  "para_que": "Arte oficial base, encuadre vertical",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21613-FGAqKSTvfxuA.png",
+  "fuente": "AniList",
+  "ancho": 1900,
+  "alto": 400,
+  "que_es": "Banner oficial del anime",
+  "para_que": "Formato horizontal para cabecera",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/1/1c/Saga_of_Tanya_the_Evil_Movie_2nd_Visual.jpg",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 1080,
+  "alto": 968,
+  "que_es": "2ª visual de la película, grupo con crossover Overlord",
+  "para_que": "Pose de grupo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/a/a9/MangaVol2.jpg",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 1750,
+  "alto": 2480,
+  "que_es": "Portada manga Vol.2",
+  "para_que": "Arte oficial de portada",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/f/f2/MangaVol3.jpg",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 1750,
+  "alto": 2480,
+  "que_es": "Portada manga Vol.3",
+  "para_que": "Arte oficial de portada",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/c/c3/Vol8_Color2.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 4191,
+  "alto": 2248,
+  "que_es": "Ilustración a color LN Vol.8, key art de guerra",
+  "para_que": "Paleta cálida de batalla, composición panorámica",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/c/c6/Vol1_Ch1_Illustration.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 1218,
+  "alto": 1800,
+  "que_es": "Ilustración interior LN Vol.1",
+  "para_que": "Referencia de línea a blanco y negro",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/e/e1/Tanya_dress_up_Anime.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 1365,
+  "alto": 765,
+  "que_es": "Tanya con vestido y boina rojos, fondo de flores",
+  "para_que": "Referencia de vestuario formal fuera de uniforme; hex medidos en imagen.md",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/8/8b/Salaryman.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Vida anterior de Tanya, salaryman japonés",
+  "para_que": "Referencia de la identidad previa (contraste)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/f/ff/EmpireFlag.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 1194,
+  "alto": 796,
+  "que_es": "Escudo/bandera del Imperio, águila-dragón negro sobre dorado",
+  "para_que": "Emblema y textura de sello; hex medidos en imagen.md",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/e/eb/Vol_2_Ch_4_Pg_255_Bad_scan_LQ.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 676,
+  "alto": 1000,
+  "que_es": "Página de manga con trama de screentone visible",
+  "para_que": "Referencia de textura 2D de manga",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/f/f0/Vol_4_Ch_5_Pg_347_Bad_scan_LQ.png",
+  "fuente": "Fandom youjo-senki",
+  "ancho": 1093,
+  "alto": 1600,
+  "que_es": "Página de manga, escena de explosión con tramado",
+  "para_que": "Referencia de textura 2D de manga",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3190/7fdaa7d5cbc16a10066e55d00a1f7b7500a25eff.png",
+  "fuente": "Safebooru / origen pixiv 85104172",
+  "ancho": 3273,
+  "alto": 5091,
+  "que_es": "Fan art de Tanya con alas negras (clímax final)",
+  "para_que": "Referencia de pose dramática; NO pegar, sólo referencia",
+  "licencia": "© del artista; fan art, sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3412/1a807cbff1790b2687a19bdc90c12ecd9043a6ee.jpg",
+  "fuente": "Safebooru / origen pixiv 90729684",
+  "ancho": 812,
+  "alto": 1200,
+  "que_es": "Fan art de Tanya apuntando con el fusil",
+  "para_que": "Referencia de pose de combate; sólo referencia",
+  "licencia": "© del artista; fan art, sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1344/94fa2e100cda808bb95309a3322e2a96abddf1e4.jpg",
+  "fuente": "Safebooru / x.com/Kokoya_art",
+  "ancho": 1800,
+  "alto": 1200,
+  "que_es": "Pintura de Tanya y Visha en calle europea lluviosa con bandera del Imperio",
+  "para_que": "Referencia de paisaje urbano de entreguerras y paleta fría; sólo referencia",
+  "licencia": "© del artista; fan art, sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1842/d09f5579de13c90b326b700c6269ef4f5e939d7f.png",
+  "fuente": "Safebooru / origen pixiv 134420174",
+  "ancho": 2480,
+  "alto": 3508,
+  "que_es": "Pintura de Tanya y Visha en puerto bajo asedio",
+  "para_que": "Referencia de paisaje/luz fría; sólo referencia",
+  "licencia": "© del artista; fan art, sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/lm/wallhaven-lm2x12.png",
+  "fuente": "Wallhaven / subido por Kotan, origen twitter.com/popopopopoopw",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla de Tanya, fondo simple, uniforme y coleta",
+  "para_que": "Fondo de pantalla curado (♥55)",
+  "licencia": "© del artista; fan art, sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/yj/wallhaven-yjkevk.jpg",
+  "fuente": "Wallhaven / subido por mbourrig, origen pixiv 61962594",
+  "ancho": 2520,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla, ilustración de Tanya y Aqua (Konosuba)",
+  "para_que": "Fondo de pantalla curado (♥51), cruce isekai",
+  "licencia": "© del artista; fan art, sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/73/wallhaven-7312je.jpg",
+  "fuente": "Wallhaven / subido por Dokkar, origen twitter isekai_quartet",
+  "ancho": 4096,
+  "alto": 2542,
+  "que_es": "Fondo de pantalla oficial de Isekai Quartet (crossover)",
+  "para_que": "Referencia de crossover, punto 23",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/62/0c90a3bb5891d89653bfecacb05eda38e107c658.jpg",
+  "fuente": "Safebooru (repost de arte oficial Isekai Quartet)",
+  "ancho": 2048,
+  "alto": 1322,
+  "que_es": "Escena chibi de Isekai Quartet con Tanya en la mesa",
+  "para_que": "Referencia de estilo chibi del crossover",
+  "licencia": "© titulares/Kadokawa; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/5w/wallhaven-5wkqx5.jpg",
+  "fuente": "Wallhaven / subido por Aniru",
+  "ancho": 2048,
+  "alto": 1454,
+  "que_es": "Fondo de pantalla con Tanya, Aqua, Emilia y Albedo (crossover)",
+  "para_que": "Referencia de crossover isekai",
+  "licencia": "© del artista; fan art, sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/gewehr-98-ww1-387295724d4d40c3867098e096a63318",
+  "fuente": "Sketchfab / Janovich",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D del fusil Gewehr 98 (WWI), arma real de la infantería del Imperio",
+  "para_que": "Referencia/asset 3D descargable para Blender",
+  "licencia": "CC Attribution (crédito al autor)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-2cfae8885fe747feaeb6068133f5fb38",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D del fusil Mondragón M1908, arma de las magas (incluida Visha)",
+  "para_que": "Referencia/asset 3D descargable para Blender",
+  "licencia": "CC Attribution (crédito al autor)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3162bdd6f91d4334bebb40bae461933a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de la pistola Luger P08, arma de Tanya en la escena final",
+  "para_que": "Referencia/asset 3D descargable para Blender",
+  "licencia": "CC Attribution (crédito al autor)"
+ },
+ {
+  "url": "https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes",
+  "fuente": "Brusheezy",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Paquete de 34 pinceles de screentone/halftone para Photoshop",
+  "para_que": "Textura 2D equivalente a la trama de manga",
+  "licencia": "Gratis (revisar términos de uso comercial en el sitio)"
+ },
+ {
+  "url": "https://worldcosplay.net/character/157607",
+  "fuente": "WorldCosplay",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Listado de 44 fotos de cosplay de Tanya Degurechaff",
+  "para_que": "Referencia de materiales y volumen real del uniforme",
+  "licencia": "© de cada cosplayer; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/3/36/Saga_of_Tanya_the_Evil_3rd_Visual.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 2)",
+  "ancho": 2932,
+  "alto": 4332,
+  "que_es": "Tercera visual de la película: Tanya con fusil y figura alada detrás",
+  "para_que": "Cartel, presentar",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/a/a5/Vol6clean.png",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 11)",
+  "ancho": 1463,
+  "alto": 2048,
+  "que_es": "Portada del tomo 6 de la novela: capucha de piel y gafas de vuelo",
+  "para_que": "Vestuario de invierno",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/2/20/Luger_P08_-_Tanya.png",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 8)",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Tanya con la Luger P08",
+  "para_que": "Arma de la escena final",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/6/6b/HorribleSubs-Youjo-Senki-09-1080p.mkv0050.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 27)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 1080p del cap. 9: Tanya gritando de rabia en una ciudad en ruinas",
+  "para_que": "Cara de rabia (punto 13)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/7/77/HorribleSubs-Youjo-Senki-03-1080p.mkv0060.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 26)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 1080p del cap. 3: Tanya ante el atardecer con el orbe rojo",
+  "para_que": "Color del orbe; luz de atardecer",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/4/4c/HorribleSubs-Youjo-Senki-02-1080p.mkv0029.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 25)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 1080p del cap. 2: Tanya gritando en exterior",
+  "para_que": "Cara de grito",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/8/8b/HorribleSubs-Youjo-Senki-01-1080p.mkv0035.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 31)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 1080p del cap. 1: Tanya y Visha con la tropa",
+  "para_que": "Lámina en grupo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/8/81/HorribleSubs-Youjo-Senki-06-1080p.mkv0008.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 32)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma 1080p del cap. 6: Visha con gorra",
+  "para_que": "Cara y gorra de Visha",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/a/a8/Tanya_fake_smile_Anime.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 58)",
+  "ancho": 1365,
+  "alto": 766,
+  "que_es": "Tanya con sonrisa falsa de ojos cerrados",
+  "para_que": "Pose H-6, saludo falso",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/4/4e/Episode1.2.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 51)",
+  "ancho": 1365,
+  "alto": 767,
+  "que_es": "Dos magos volando entre nubes (cap. 1)",
+  "para_que": "Fondo de cielo gris",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/a/ab/MangaCh1Sc.png",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 43)",
+  "ancho": 1596,
+  "alto": 908,
+  "que_es": "Manga cap. 1: la maldición de Being X, en inglés",
+  "para_que": "Escena del renacer (punto 21)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/4/46/Tanya_going_nuts.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 21)",
+  "ancho": 1739,
+  "alto": 1249,
+  "que_es": "Manga: grito en globo negro «And GOOD DAY!!!»",
+  "para_que": "Referencia de grito y onomatopeya",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/6/61/50.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 20)",
+  "ancho": 1739,
+  "alto": 1249,
+  "que_es": "Manga: Tanya rezando con «PRAISE THE LORD / IN HIS NAME»",
+  "para_que": "Rótulo vertical en inglés",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/6/66/Vol1_Ch2_Illustration.png",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 17)",
+  "ancho": 1218,
+  "alto": 1800,
+  "que_es": "Ilustración de la novela con «Nein, mein Herr!!» a mano",
+  "para_que": "Rótulo a mano en alemán",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/9/93/Visha3.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 62)",
+  "ancho": 1002,
+  "alto": 961,
+  "que_es": "Manga: Visha se ofrece voluntaria para el rescate",
+  "para_que": "Pose V-6",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/e/e1/Bread.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 82)",
+  "ancho": 799,
+  "alto": 751,
+  "que_es": "Manga: viñeta del pan",
+  "para_que": "Gustos de Visha (sin confirmar)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/f/fd/Corporal1.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 57)",
+  "ancho": 1365,
+  "alto": 767,
+  "que_es": "Visha preocupada en interior",
+  "para_que": "Cara de Visha",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/d/d3/Vol5_Color2.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 47)",
+  "ancho": 1600,
+  "alto": 862,
+  "que_es": "Color de la novela, tomo 5: Tanya y soldados en una taberna",
+  "para_que": "Escena de grupo y luz cálida",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/3/38/Vol4_Color2.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 45)",
+  "ancho": 1600,
+  "alto": 867,
+  "que_es": "Color de la novela, tomo 4: grupo",
+  "para_que": "Escena de grupo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/a/ac/Vol6_Color2.jpg",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 48)",
+  "ancho": 1600,
+  "alto": 862,
+  "que_es": "Color de la novela, tomo 6: retratos",
+  "para_que": "Retratos del Estado Mayor",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/0/01/Vol8_illustration6.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 68)",
+  "ancho": 676,
+  "alto": 1000,
+  "que_es": "Ilustración de la novela, tomo 8: sonrisa terrorífica",
+  "para_que": "Cara de amenaza",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/9/91/Tanya_Official_Appearance_in_War_College.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 55)",
+  "ancho": 1365,
+  "alto": 767,
+  "que_es": "Avance de capítulo con Tanya en primer plano y 次回予告",
+  "para_que": "Tarjeta de avance (punto 6)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/4/47/Tanya1.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 53)",
+  "ancho": 1365,
+  "alto": 767,
+  "que_es": "Primer plano de Tanya",
+  "para_que": "Cara",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/a/a7/Tanya2.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 54)",
+  "ancho": 1365,
+  "alto": 767,
+  "que_es": "Tanya con gorra de pie en un despacho",
+  "para_que": "Pose de interior",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/c/c1/Poorvisha.png",
+  "fuente": "Fandom youjo-senki (hoja 1 nº 41)",
+  "ancho": 1041,
+  "alto": 1600,
+  "que_es": "Manga: Visha",
+  "para_que": "Visha en el manga",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/9/94/Protectprotect.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 60)",
+  "ancho": 818,
+  "alto": 1249,
+  "que_es": "Manga: viñetas de Tanya",
+  "para_que": "Manga",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/b/b0/Youjo_senki_tanya_degurechaff_poster_by_srazaki-daw41du.png",
+  "fuente": "Fandom youjo-senki (hoja 2 nº 49)",
+  "ancho": 1024,
+  "alto": 1252,
+  "que_es": "Póster de fan de Tanya arrodillada con fusil (srazaki)",
+  "para_que": "Pose de fan art",
+  "licencia": "© del artista; fan art, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/7/70/Manga_Ch_1_Pg_1.jpeg/revision/latest?cb=20170211013558",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": 1114,
+  "alto": 1600,
+  "que_es": "Primera página del manga: logo, paisaje, cartelas de fecha/lugar y globo de radio hexagonal 'Fairy 08'",
+  "para_que": "Referencia de tipografía del logo japonés y de cuadros de diálogo/cartelas militares (puntos 5 y 6)",
+  "licencia": "Copyright Kadokawa/Carlo Zen/Chika Tojo, uso de referencia (fair use editorial), enlace directo a la imagen alojada en Fandom"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/youjo-senki/images/a/a3/Unknown_%2817%29.png/revision/latest?cb=20170831113657",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": 960,
+  "alto": 542,
+  "que_es": "Fotograma del anime: Being X representado como cascanueces, con paleta sepia y viñeteado fuerte",
+  "para_que": "Colores medidos con Pillow (#0f121f, #c6c4b2, #b5a898, #868177) y ejemplo de estilo de luz/paleta (punto 18)",
+  "licencia": "Copyright NUT/Kadokawa, uso de referencia (fair use editorial), enlace directo a la imagen alojada en Fandom"
+ },
+ {
+  "url": "https://www.4gamer.net/games/509/G050970/20201210187/TN/001.jpg",
+  "fuente": "4Gamer.net",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Arte clave del videojuego móvil Youjo Senki: Madoushi Kaku Tatakaeri, hecho por Studio NUT",
+  "para_que": "Referencia del punto 11 (videojuegos de la franquicia) y del logotipo del juego",
+  "licencia": "Copyright NUT inc./Esprit, uso de referencia editorial; crédito visible en la imagen 'Main visual by NUT inc.'"
+ },
+ {
+  "url": "https://www.4gamer.net/games/509/G050970/20201210187/TN/004.jpg",
+  "fuente": "4Gamer.net",
+  "ancho": 240,
+  "alto": 180,
+  "que_es": "Banner promocional de lanzamiento del videojuego con la Cruz de Hierro del uniforme de Tanya",
+  "para_que": "Referencia de emblema/objeto icónico (punto 25) usado en material de marketing del juego",
+  "licencia": "Copyright NUT inc./Esprit, uso de referencia editorial"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Youjo_Senki_Light_Novel",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tabla oficial de los 14 títulos en latín de la novela ligera con su traducción (Deus lo vult, Plus Ultra, etc.)",
+  "para_que": "Vocabulario y símbolos de la franquicia, estructura de arcos por volumen (punto 25)",
+  "licencia": "Texto bajo licencia CC BY-SA de Fandom; los títulos citados son propiedad de Kadokawa/Enterbrain"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Operation_Orb",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del Orbe de Cómputo (Computation Orb), objeto mágico-tecnológico central de la serie",
+  "para_que": "Objeto icónico modelable en Blender, vocabulario propio (punto 25)",
+  "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Silver_Wings_Assault_Medal",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la máxima condecoración militar del Imperio, casi siempre póstuma",
+  "para_que": "Emblema/objeto icónico para lámina o prop (punto 25)",
+  "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Terminologies",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tabla comparativa de traducciones discrepantes de términos clave (rangos, naciones, Operation Orb)",
+  "para_que": "Evitar mezclar traducciones al citar diálogos o rangos (punto 25/6)",
+  "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+ },
+ {
+  "url": "https://truefork.org/wp/deciphering-youjo-senki-part-1-text/",
+  "fuente": "The True Fork (blog de fan)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis fotograma a fotograma de los textos inventados que aparecen en pantalla en el anime, con las bromas ocultas (ZORUCA, CARLOZEN KONZERN)",
+  "para_que": "Cómo hablan/escriben en pantalla (punto 6), detalle de easter eggs para vocabulario (punto 25)",
+  "licencia": "Blog personal, contenido con copyright del autor; enlace de referencia, no para reproducir imágenes"
+ },
+ {
+  "url": "https://truefork.org/wp/deciphering-youjo-senki-part-3-fonts/",
+  "fuente": "The True Fork (blog de fan)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reconstrucción del alfabeto ficticio 'print' y 'Fraktur' de la serie en dos fuentes .ttf descargables",
+  "para_que": "Letra libre decorativa para 'cartel del mundo' (punto 5)",
+  "licencia": "Fuentes hechas por un fan (no oficiales), descarga gratuita en http://truefork.org/resources/; no cubren ñ/tildes/¿/¡"
+ },
+ {
+  "url": "https://www.dafont.com/forum/read/350705/y-jo-senki-saga-of-tanya-the-evil-font",
+  "fuente": "dafont.com (foro de identificación de fuentes)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Hilo donde la comunidad identifica el logo internacional de la serie como la fuente Goudy Text (blackletter)",
+  "para_que": "Base para elegir la letra libre del logo (punto 5): UnifrakturMaguntia/UnifrakturCook",
+  "licencia": "Foro público; la identificación no es oficial (⚠️ una sola fuente)"
+ },
+ {
+  "url": "https://fonts.gstatic.com/s/unifrakturmaguntia/v22/WWXPlieVYwiGNomYU-ciRLRvEmK7oaVunw.ttf",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente UnifrakturMaguntia (blackletter), comprobada con fontTools: tiene ñ, ¿, ¡ y tildes",
+  "para_que": "Letra libre para el logo/título en la lámina (punto 5)",
+  "licencia": "SIL Open Font License, gratuita"
+ },
+ {
+  "url": "https://fonts.gstatic.com/s/specialelite/v20/XLYgIZbkc4JPUL5CVArUVL0nhnc.ttf",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Special Elite (máquina de escribir), comprobada con fontTools: tiene ñ, ¿, ¡ y tildes",
+  "para_que": "Letra libre para dossiers/telegramas militares en pantalla (punto 5)",
+  "licencia": "SIL Open Font License, gratuita"
+ },
+ {
+  "url": "https://fonts.gstatic.com/s/blackopsone/v21/qWcsB6-ypo7xBdr6Xshe96H3WDw.ttf",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Black Ops One (stencil militar), comprobada con fontTools: tiene ñ, ¿, ¡ y tildes",
+  "para_que": "Letra libre para gritos/onomatopeyas de combate (punto 5)",
+  "licencia": "SIL Open Font License, gratuita"
+ },
+ {
+  "url": "https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FsOs.ttf",
+  "fuente": "Google Fonts",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fuente Rajdhani (técnica/angulosa), comprobada con fontTools: tiene ñ, ¿, ¡ y tildes",
+  "para_que": "Letra libre para interfaz de videojuego/HUD militar (punto 5)",
+  "licencia": "SIL Open Font License, gratuita"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/interview/2019-06-08/the-saga-of-tanya-the-evil-author-carlo-zen-and-english-translator-emily-balistrieri/.146974",
+  "fuente": "Anime News Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista a Carlo Zen sobre la premisa histórica alternativa (WWI/WWII fusionadas) del Imperio",
+  "para_que": "Reglas del mundo en cinco líneas (punto 25), inspiración real (punto 24)",
+  "licencia": "Artículo periodístico, enlace de referencia"
+ },
+ {
+  "url": "https://news.denfaminicogamer.jp/interview/youjo-senki",
+  "fuente": "Dengeki/Famitsu Nico Gamer (denfaminicogamer.jp)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista en japonés (2017) con referencias al mundo mezclando vocabulario de la Primera y Segunda Guerra Mundial",
+  "para_que": "Fuente en japonés para las reglas del mundo (punto 25) y contexto de producción (punto 18)",
+  "licencia": "Artículo periodístico en japonés, enlace de referencia"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2021-12-04/saga-of-tanya-the-evil-smartphone-game-ends-service-in-january/.180243",
+  "fuente": "Anime News Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Noticia del cierre del videojuego móvil Madoushi Kaku Tatakaeri (17-ene-2022)",
+  "para_que": "Ficha del videojuego de la franquicia (punto 11)",
+  "licencia": "Artículo periodístico, enlace de referencia"
+ },
+ {
+  "url": "https://www.4gamer.net/games/509/G050970/20201210187/",
+  "fuente": "4Gamer.net",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cobertura en japonés del lanzamiento del videojuego móvil (10-dic-2020), roles de combate y mecánicas",
+  "para_que": "Detalle de mecánica y roles del videojuego (punto 11)",
+  "licencia": "Artículo periodístico en japonés, enlace de referencia"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Youjo_Senki:_Madoushi_Kaku_Tatakaeri",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del videojuego móvil: desarrollador, roles de combate, guionista de eventos",
+  "para_que": "Punto 11 (videojuegos de la franquicia)",
+  "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Empire",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la nación 'Imperio', con la cita de Carlo Zen sobre su inspiración en la Alemania de Weimar",
+  "para_que": "Reglas del mundo (punto 25)",
+  "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Youjo_Senki_Timeline",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cronología completa de la historia por etapas: vida anterior, academia militar, frentes de guerra",
+  "para_que": "Historia por arcos (punto 25)",
+  "licencia": "Texto bajo licencia CC BY-SA de Fandom"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5bp78t",
+  "fuente": "Dailymotion / Anime Selection",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Clip EP5 — Tanya activa el Type 95 (ojos dorados) y destruye ciudad ('Tamaya!')",
+  "para_que": "Escena más icónica del fandom. Pose T-3 (ojos dorados, manos levantadas). Fondo ciudad en llamas.",
+  "licencia": "clip de anime - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5bp76k",
+  "fuente": "Dailymotion",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Clip EP6 — Tanya vs. bombardero ('Hello and Goodbye'). Includes poses T-4, T-5, T-6.",
+  "para_que": "Poses de Tanya en vuelo y apuntando. Paleta oscura/gris con acentos naranja.",
+  "licencia": "clip de anime - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5tslcz",
+  "fuente": "Dailymotion / Yixexapof",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Clip EP1 — Primera batalla aérea de Tanya. Poses T-1 y T-2. Magia arcoíris.",
+  "para_que": "Fotogramas de escena icónica de combate aéreo. Paleta gris-explosión.",
+  "licencia": "clip de anime - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x96pfti",
+  "fuente": "Dailymotion / Sensacine México",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tráiler oficial de la película. Poses T-7 ('Men, I have returned') y T-8 ('Glory to the Empire!').",
+  "para_que": "Las dos frases más icónicas de la película. Setting del desierto (Continente Sur).",
+  "licencia": "tráiler oficial Kadokawa - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9uo9wg",
+  "fuente": "Dailymotion / 3djuegos",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Tráiler Youjo Senki II (Temporada 2, 2026). Incluye battle scenes, Tanya con ojos rojos.",
+  "para_que": "Material de S2. Contraste ojos azules (inocente) vs rojos (combate).",
+  "licencia": "tráiler oficial - solo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x5bp70j",
+  "fuente": "Dailymotion / Anime Selection",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Clip EP5 — Entrenamiento en montaña nevada. Poses T-9, V-1, V-2, V-3.",
+  "para_que": "Escenas de Visha y Tanya en nieve. Paleta azul-gris-blanca (frío). Pose 'ángel caído'.",
+  "licencia": "clip de anime - solo referencia"
+ },
+ {
+  "url": "https://archive.org/details/YOUJOSENKIOP",
+  "fuente": "Internet Archive",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "OP completo en MP4 (YOUJO SENKI OP · 1:38). Créditos visibles con nombres de staff.",
+  "para_que": "Fuente principal del OP. Créditos de ED 'Los! Los! Los!' visibles en pantalla. Descargable.",
+  "licencia": "subida por fan - uso referencial"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x594l9r",
+  "fuente": "Dailymotion",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "OP de Youjo Senki S1 (1:30). 'JINGO JUNGLE' de MYTH & ROID.",
+  "para_que": "Paleta del OP medida con estilo.py. Título dorado-bronce sobre negro.",
+  "licencia": "subida por fan - uso referencial"
+ },
+ {
+  "url": "https://archive.org/details/youjo-senki-latino",
+  "fuente": "Internet Archive",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colección completa del doblaje latino de Youjo Senki S1 (16.926 descargas).",
+  "para_que": "Fuente para comparar doblaje. Verificar episodios exactos incluidos.",
+  "licencia": "subida por fan - uso referencial"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Jingo_Jungle",
+  "fuente": "Wikipedia (en)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo sobre el single 'Jingo Jungle' de MYTH & ROID (5.º single, 2017-02-08).",
+  "para_que": "Confirmación del Opening S1. Datos de lanzamiento, artista, uso como OP de Youjo Senki.",
+  "licencia": "CC BY-SA"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/news/2026-06-06/saga-of-tanya-the-evil-ii-unveils-theme-song-artists-july-8-debut-mini-anime/.238213",
+  "fuente": "Anime News Network",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Noticia de ANN sobre los temas de Youjo Senki II (S2 2026). OP 'Why? RED induction.' + ED 'Weiter! Weiter!'.",
+  "para_que": "Confirmación temas S2. Datos de artistas y fechas de lanzamiento.",
+  "licencia": "todos los derechos reservados - referencia editorial"
+ },
+ {
+  "url": "https://en.skream.jp/news/2026/07/youjosenki_op_ed_release.php",
+  "fuente": "Skream! (JP)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nota en inglés de Skream! sobre lanzamiento digital (16 julio 2026) del OP/ED de S2.",
+  "para_que": "Segunda fuente para temas S2. Confirma productor Masayuki Nakano (BOOM BOOM SATELLITES).",
+  "licencia": "todos los derechos reservados - referencia editorial"
+ },
+ {
+  "url": "https://www.cdjapan.co.jp/product/ZMCZ-13039",
+  "fuente": "CDJapan",
+  "ancho": null,
+  "alto": null,
+  "que_es": "OST oficial de la película Youjo Senki. Compositor: Shūji Katayama. 45 tracks.",
+  "para_que": "Fuente del compositor de la BSO. Para sección de música.",
+  "licencia": "todos los derechos reservados - catálogo comercial"
+ },
+ {
+  "url": "https://www.youtube.com/playlist?list=PLLkVJ2IZsgYplOKwgYnD6MKnu6MaMjA4b",
+  "fuente": "YouTube / fan playlist",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Playlist del OST de Youjo Senki en YouTube. Incluye 'Young Girl's War' y otros tracks.",
+  "para_que": "Referencia del OST. Posible acceso a tracks individuales para análisis.",
+  "licencia": "subida por fan - solo referencia"
+ },
+ {
+  "url": "https://soundcloud.com/tiwi-zo/sets/youjo-senki-saga-of-tanya-the",
+  "fuente": "SoundCloud / TiWIZO",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Playlist del OST completo de Youjo Senki en SoundCloud.",
+  "para_que": "Acceso al OST para análisis de pistas específicas si es necesario.",
+  "licencia": "subida por fan - solo referencia"
+ },
+ {
+  "url": "https://archive.org/details/harmony-team-j.am-los-los-los-youjo-senki-rus-cover",
+  "fuente": "Internet Archive / Harmony Team J.am",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cover ruso de 'Los! Los! Los!' (ending Youjo Senki). Prueba de popularidad del tema.",
+  "para_que": "Evidencia del alcance viral del ED. Fan dub en ruso (communidad hispanohablante analoga).",
+  "licencia": "obra derivada - uso referencial"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Tanya_von_Degurechaff",
+  "fuente": "Youjo Senki Wiki (Fandom)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Wiki oficial del personaje Tanya von Degurechaff. Detalles de uniforme, computation orb, historia.",
+  "para_que": "Detalles del uniforme M1910 Feldrock, vuelo, orbe. Para puntos 7, 14, 15.",
+  "licencia": "CC BY-SA"
+ },
+ {
+  "url": "https://www.lyrical-nonsense.com/global/lyrics/youjo-senki-saga-of-tanya-the-evil-theme-songs/",
+  "fuente": "UtaTime / Lyrical Nonsense",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letras y datos de los temas de Youjo Senki S1. OP 'JINGO JUNGLE' + ED 'Los! Los! Los!'.",
+  "para_que": "Fuente de letras y datos de artistas para punto 9.",
+  "licencia": "todos los derechos reservados - referencia editorial"
+ },
+ {
+  "url": "https://www.lyrical-nonsense.com/global/lyrics/youjo-senki-ii-theme-songs/",
+  "fuente": "UtaTime / Lyrical Nonsense",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letras y datos de los temas de Youjo Senki II (S2 2026). OP + ED completos.",
+  "para_que": "Segunda fuente para temas S2. Letras de 'Why? RED induction.' y 'Weiter! Weiter!'.",
+  "licencia": "todos los derechos reservados - referencia editorial"
+ },
+ {
+  "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Saga_of_Tanya_the_Evil",
+  "fuente": "Doblaje Wiki (API wikitext)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha completa del doblaje latino: estudios, directores, reparto completo con temporadas y muestras de audio",
+  "para_que": "Fuente primaria del reparto latino (Punto 8). Contiene cada actor por personaje y temporada.",
+  "licencia": "CC BY-SA 3.0"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/b/b5/Tanya_Degurechaff_Saga_Of.ogg/revision/latest?cb=20190923060213&path-prefix=es",
+  "fuente": "Doblaje Wiki – muestra de audio Tanya (narración ep.1)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de voz latina de Tanya (Jocelyn Robles): narración del episodio 1, registro medio 205Hz, 15,9 semitonos",
+  "para_que": "Frases textuales del doblaje (Punto 8): 'En un mundo maldito, lleno de guerras continuas…'. Referencia de tono y estilo vocal.",
+  "licencia": "Uso educativo / referencia de doblaje"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/e/e9/Tanya_Degurechaff_Forma_Real.ogg/revision/latest?cb=20190923070737&path-prefix=es",
+  "fuente": "Doblaje Wiki – muestra de audio Tanya (salaryman)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de voz latina de Tanya pre-reencarnación (José Gilberto Vilchis): registro grave 89Hz, 11,5 semitonos",
+  "para_que": "Frases textuales: 'Estoy completamente consciente de mis deficiencias humanas… soy mejor que el incompetente frente a mí.'",
+  "licencia": "Uso educativo / referencia de doblaje"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/4/48/Viktoriya_Ivanovna_Saga.ogg/revision/latest?cb=20190923060340&path-prefix=es",
+  "fuente": "Doblaje Wiki – muestra de audio Visha (Erika Langarica)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de voz latina de Visha: registro agudo 229Hz, muy expresiva 23,1 semitonos",
+  "para_que": "Frase textual: 'La teniente Tania de Gurechav volaba firme, impasible, entre la lluvia de balas y proyectiles.'",
+  "licencia": "Uso educativo / referencia de doblaje"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/32/Youjo_Senki_Vooren_Grantz.ogg/revision/latest?cb=20200702041650&path-prefix=es",
+  "fuente": "Doblaje Wiki – muestra de audio Grantz (Eleazar Muñoz)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de voz latina de Grantz: registro muy agudo 358Hz, muy expresiva 29,1 semitonos. Frase explosiva de combate.",
+  "para_que": "Frases: '¡Carajo! ¡Se ha vuelto loca! ¡Maldita!' — referencia de doblaje de acción.",
+  "licencia": "Uso educativo / referencia de doblaje"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/38/Matheus_Johan_Weiss.ogg/revision/latest?cb=20190930222626&path-prefix=es",
+  "fuente": "Doblaje Wiki – muestra de audio Weiss",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de voz latina de Weiss: registro medio 181Hz, muy expresiva 17,9 semitonos, velocidad rápida",
+  "para_que": "Frases: 'Sí, señor. ¿Eliminamos a los enemigos restantes?...' — referencia de diálogo militar formal.",
+  "licencia": "Uso educativo / referencia de doblaje"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/b/b3/Youjo_Senki_Isaac_Dustin_DRAKE.ogg/revision/latest?cb=20200701185242&path-prefix=es",
+  "fuente": "Doblaje Wiki – muestra de audio Drake (Óscar Gómez)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de voz latina de Drake: registro grave 111Hz, muy expresiva 9,8 semitonos, tono serio",
+  "para_que": "Frases: 'Realmente es un demonio.' — perspectiva del enemigo sobre Tanya, referencia de diálogo antagonista.",
+  "licencia": "Uso educativo / referencia de doblaje"
+ },
+ {
+  "url": "https://anilist.co/anime/21613",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la serie en AniList con ranking de personajes por favoritos de usuarios",
+  "para_que": "Punto 7 (popularidad): Tanya 6458 favs, Visha 761. Segunda fuente para reparto latino.",
+  "licencia": "Uso libre"
+ },
+ {
+  "url": "https://youjo-senki.fandom.com/wiki/Viktoriya_Ivanovna_Serebryakov",
+  "fuente": "Youjo Senki Fandom Wiki – página de Visha",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo sobre Viktoriya: personalidad en anime/manga/LN, trivia (chocolate, cartas, café), relaciones",
+  "para_que": "Punto 13 y 20 (descripción y gustos de Visha). Trivia de café y cartas.",
+  "licencia": "CC BY-SA 3.0"
+ },
+ {
+  "url": "https://www.soapcentral.com/anime/saga-tanya-evil-ii-episode-12-a-brutal-finale-changes-everything",
+  "fuente": "Soap Central – review del final de la temporada 2 (2026)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis del episodio 12 de la T2: muerte de Rudersdorf, traiciones, momento emotivo más fuerte del final",
+  "para_que": "Punto 21 (escenas que emocionan): muerte de Rudersdorf con la conclusión equivocada.",
+  "licencia": "Uso editorial"
+ },
+ {
+  "url": "https://studiojakemedia.substack.com/p/the-saga-of-tanya-the-evil-anime",
+  "fuente": "Studio Jake Media – reseña del anime",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis crítico de la serie: el Misunderstanding Field, por qué funciona como isekai atípico",
+  "para_que": "Punto 12 y 21: por qué el fandom ama la serie, concepto del bucle cómico-dramático de Tanya.",
+  "licencia": "Uso editorial"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9uycb4",
+  "fuente": "Dailymotion – Trailer temporada 2 (Espinof, 2436 vistas)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tráiler oficial de la temporada 2 doblado al español latino, 1:42 min",
+  "para_que": "Referencia de frases del doblaje T2 y de imagen promocional de la temporada.",
+  "licencia": "Promotional / Crunchyroll"
+ },
+ {
+  "url": "https://danbooru.donmai.us/posts?tags=youjo_senki",
+  "fuente": "Danbooru – tag youjo_senki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Galería de fan art del tag youjo_senki (1529 posts). Tanya_degurechaff = 1461 dibujos individuales.",
+  "para_que": "Punto 7 (popularidad): Tanya es la etiqueta individual dominante de la serie en el fandom artístico.",
+  "licencia": "Referencia de uso"
+ },
+ {
+  "url": "https://www.facebook.com/Ashfandubs/videos/1017435787805721/",
+  "fuente": "Ash Fandubs – Facebook",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fandub en español latino de una escena de Tanya Degurechaff, Youjo Senki",
+  "para_que": "Punto 22 (fan dubs hispanos): evidencia de actividad de fandub en comunidad latina.",
+  "licencia": "Fan content"
+ },
+ {
+  "url": "https://www.crunchyroll.com/es/series/GR9P57W96/saga-of-tanya-the-evil",
+  "fuente": "Crunchyroll Latinoamérica – Saga of Tanya the Evil",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página oficial de Crunchyroll con temporadas 1 y 2 disponibles en español latino",
+  "para_que": "Punto 8 y 22: confirma disponibilidad del doblaje latino oficial en streaming.",
+  "licencia": "Plataforma oficial"
+ },
+ {
+  "url": "https://mystiqora.com/saga-of-tanya-the-evil-season-2-release-date-confirmed-trailer-cast-and-reddit-community-reacts-to-the-july-2026-return/",
+  "fuente": "Mystiqora – reacción del fandom a T2 (2026)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo sobre el estreno de la T2 en julio 2026 y la reacción masiva de Reddit, YouTube y Twitter/X",
+  "para_que": "Punto 21 (por qué la aman): contexto del revival del fandom en 2026.",
+  "licencia": "Uso editorial"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/8/8e/Youjo_Senki_Mortiz_Paul_VON_HAN.ogg/revision/latest?cb=20200702044055&path-prefix=es",
+  "fuente": "Doblaje Wiki",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Muestra de voz latina de Mortiz-Paul von Han: «Alégrese, Mayor…»",
+  "para_que": "Frase protocolar (punto 17)",
+  "licencia": "Uso educativo / referencia de doblaje"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121052-bQZT3nIvaryX.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 345,
+  "que_es": "Retrato de Tanya Degurechaff",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121057-xoaUSV1sO1CM.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Viktoriya Serebryakov",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121056-1f489EpsESd3.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Hans von Zettour",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121058-K1CDSG3os7Yb.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Erich von Lergen",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135052-HEGhtD0uSsUm.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Mary Sioux",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135058-dZPLFV5RES9P.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Matheus Johann Weiss",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135044-uoi8pqlghYgJ.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Sonzai X",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121059-FSKjrAcZ4R7S.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 353,
+  "que_es": "Retrato de Kurt von Rudersdorf",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135041-h12RTaL7PRTM.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Warren Grantz",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135047-M6VcEM54azDv.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Adelheid Von Schugel",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135046-JJkWsPJAIJto.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Wilibald Koenig",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135057-miJNxrLFdXke.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Rhiner Neumann",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135048-gEK7kAVZzmWk.png",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Anson Sioux",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135053-H157bPibqoqT.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Ihlen  Schwarzkopf",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135055-4PUKMsOZ36nM.jpg",
+  "fuente": "AniList",
+  "ancho": 230,
+  "alto": 358,
+  "que_es": "Retrato de Aisha  Schubert",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/bde6d00f570ea0e4a631a6b3490a7d44f97590c6.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1005,
+  "alto": 1005,
+  "que_es": "Fan art de tanya_degurechaff (https://i.pximg.net/img-original/img/2020/01/20/00/34/01/78995490_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2716/6e13bf7b45c9d3b47a9ce21188815bf228dea818.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3197,
+  "alto": 2467,
+  "que_es": "Fan art de tanya_degurechaff (http://www.pixiv.net/member_illust.php?mode=medium&illust_id=74465629)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2826/e95daa97f5106a441234b59a997c87ac4c073070.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 1200,
+  "que_es": "Fan art de tanya_degurechaff (https://i.pximg.net/img-original/img/2018/08/02/10/12/55/69977893_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2836/698669de1085aaa5a6966a61da15c2da38a69998.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 2400,
+  "que_es": "Fan art de tanya_degurechaff (https://i.pximg.net/img-original/img/2018/06/07/07/33/59/69112228_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ym/wallhaven-ymlq67.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1363,
+  "que_es": "Fondo de pantalla (Aqua (KonoSuba), Emilia (Re:Zero), Isekai Quartet, Tanya Degurechaff, Albedo (OverLord), anime girls)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Amat0r; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/gj/wallhaven-gjmdgl.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Youjo Senki, Tanya Degurechaff, anime, anime girls, Neichiru)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por sanoboss; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/76/wallhaven-76lepe.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (anime girls, artwork, Youjo Senki, Tanya Degurechaff)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ParanoidDollv2; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6q/wallhaven-6qpy66.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Youjo Senki, Tanya Degurechaff, blue eyes, anime girls, anime, Neichiru)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por sanoboss; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/8x/wallhaven-8x8lm1.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1200,
+  "que_es": "Fondo de pantalla (Youjo Senki, anime girls, Tanya Degurechaff)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vm/wallhaven-vmjegm.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (anime, Youjo Senki, Tanya Degurechaff)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Okayama68; © su autor"
+ }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/xwr79w",
+    "fuente": "Dailymotion, canal Wolff Amandine, «La Mort d'Aerith Final Fantasy VII»",
+    "ancho": 320,
+    "alto": 240,
+    "que_es": "Clip de 1:51 con la escena completa de la muerte de Aerith del juego original de 1997 (Ciudad Olvidada), mirado con fotogramas.py",
+    "para_que": "Fotogramas con minuto para el punto 13 (cara en cada emoción: Aerith serena, Sephiroth frío, Cloud con dolor) y para la escena que hace llorar del punto 21",
+    "licencia": "Captura de la cinemática oficial de Square Enix, recirculada por un usuario; no libre, sólo referencia con minuto"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7p3q62",
+    "fuente": "Dailymotion, cuenta oficial de distribución, «Final Fantasy VII Remake - Bande-annonce Cloud Strife (VF)»",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tráiler oficial de personaje de Cloud Strife (Game Awards 2019), en 1080p",
+    "para_que": "Fotograma de Cloud serio/tenso para el punto 13, y referencia de vestuario/expresión del Remake",
+    "licencia": "Material oficial de Square Enix, no libre; sólo referencia con minuto"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x4qnl9",
+    "fuente": "Dailymotion, montaje de escenas de «Final Fantasy VII Advent Children»",
+    "ancho": 640,
+    "alto": 480,
+    "que_es": "Montaje con primeros planos CG de Cloud, Tifa y Sephiroth de la película Advent Children (2005)",
+    "para_que": "Fotogramas de Tifa (melancolía) y Sephiroth (determinación fría) del punto 13, con más detalle facial que el juego original",
+    "licencia": "Material oficial de Square Enix/Visual Works, no libre; sólo referencia con minuto"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2yc6on",
+    "fuente": "Dailymotion, «Final Fantasy VII : Sephiroth à Nibelheim»",
+    "ancho": 568,
+    "alto": 372,
+    "que_es": "Longplay de la escena del incendio de Nibelheim y la revelación de Sephiroth (juego original)",
+    "para_que": "Referencia de guion y diálogo textual de Cloud/Sephiroth para el punto 13 (cómo se expresan) y contexto narrativo del punto 21",
+    "licencia": "Captura de la cinemática oficial, recirculada; no libre"
+  },
+  {
+    "url": "https://vandal.elespanol.com/noticia/1350765060/asi-suena-el-espectacular-doblaje-al-espanol-hecho-por-unos-fans-de-final-fantasy-vii-remake/",
+    "fuente": "Vandal (elespanol.com), noticia sobre el proyecto de fandub «Voice Emotions»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo que documenta el fandub español de Final Fantasy VII Remake (50+ actores, 3 años de trabajo, 9 horas de trama)",
+    "para_que": "Fuente textual para el punto 22 (fan dubs y comunidad hispana); no es imagen, es referencia de texto",
+    "licencia": "Artículo periodístico, no libre; sólo como fuente citada"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ef/Cloud_Strife_from_FFVII_Remake_bust_render.png",
+    "fuente": "Final Fantasy Wiki (Fandom), ficha de Cloud Strife",
+    "ancho": 4126,
+    "alto": 4734,
+    "que_es": "Render oficial en alta resolución del busto de Cloud Strife (FFVII Remake)",
+    "para_que": "Referencia de apariencia para acompañar la descripción de carácter del punto 13 (ya listada también en datos-imagen.md, del investigador de imagen)",
+    "licencia": "Arte oficial de Square Enix vía wiki de fans; no libre, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/finalfantasy/images/4/42/Aerith_Gainsborough_from_FFVII_Remake_battle_render.png",
+    "fuente": "Final Fantasy Wiki (Fandom), ficha de Aerith Gainsborough",
+    "ancho": 2542,
+    "alto": 4000,
+    "que_es": "Render oficial en alta resolución de Aerith Gainsborough en pose de combate (FFVII Remake)",
+    "para_que": "Referencia de apariencia para el punto 13 y el punto 20 (objeto que lleva: Materia Blanca en el lazo)",
+    "licencia": "Arte oficial de Square Enix vía wiki de fans; no libre, sólo referencia"
+  },
+  {
+    "url": "https://danbooru.donmai.us/posts?tags=final_fantasy_vii",
+    "fuente": "Danbooru, búsqueda «final_fantasy_vii» (41 876 dibujos)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página de resultados con el recuento de dibujos de fans por personaje (Tifa 17112, Cloud 16037, Aerith 11984, Sephiroth 5855…)",
+    "para_que": "Fuente del punto 7 (medida de popularidad por cariño del fandom, distinta de las encuestas oficiales)",
+    "licencia": "Página de índice, no es una imagen; sólo como fuente de datos"
+  },
+  {
+    "url": "https://www.behindthevoiceactors.com/characters/Final-Fantasy/Cloud-Strife/",
+    "fuente": "Behind The Voice Actors, ficha de Cloud Strife",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Listado de actores de voz de Cloud Strife en todas sus apariciones (japonés e inglés)",
+    "para_que": "Segunda fuente del punto 8 (verificación de seiyū y voz en inglés)",
+    "licencia": "Página de datos, no es una imagen; sólo como fuente citada"
+  }
+]

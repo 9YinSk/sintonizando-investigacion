@@ -1,0 +1,82 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190297-fV511b3HOzvt.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-dd8ede596d044655bb6bd0abf35577a5",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Furia (Anger) de Heiner Morales",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-fd928e681d9242f0903317a8fc103255",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: ❤LIKE if download Anxiety v 2.0 - inside out 2 de Roberto Domínguez",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-43ae2637a6a74b65814cf7954b3e2f39",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Bing Bong de matisosanimation",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d7f95a0d6cb247bdab6f1d4c7161aa87",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Desagrado de intensamente, inside out de osotvart",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-dda171d2971c4c89b3dc1be028329469",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Ansiedad de Constanza_Valenzuela",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://media.sketchfab.com/models/43ae2637a6a74b65814cf7954b3e2f39/thumbnails/4a289562bec3464490a76c8b39c33723/6d578f572ce04b989c1996e1596e617e.jpeg",
+  "fuente": "Openverse (sketchfab)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Bing Bong",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 4.0, autor sosamatisosa",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://media.sketchfab.com/models/dd8ede596d044655bb6bd0abf35577a5/thumbnails/f0a9600a3e7f4c74b6d87a3cf4e5ca72/1024.jpeg",
+  "fuente": "Openverse (sketchfab)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Furia (Anger)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 4.0, autor Heiner Morales",
+  "origen": "recolectar.py"
+ }
+]

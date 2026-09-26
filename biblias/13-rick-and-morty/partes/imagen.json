@@ -1,0 +1,227 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/9/9e/Morty_model_sheet.jpg",
+    "fuente": "Rick and Morty Wiki (Fandom), archivo con logo de Starburns Industries",
+    "ancho": 9796,
+    "alto": 4482,
+    "que_es": "Hoja de modelo oficial de Morty (turnaround completo) y turnaround de línea de Rick, con los logos de Starburns Industries y de la serie",
+    "para_que": "Punto 1: la referencia de pose y proporción más oficial que hay; también sirve para medir hex (ya usado en punto 15)",
+    "licencia": "Arte de producción de Adult Swim / Starburns Industries. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/6/68/FullBodyRick.png",
+    "fuente": "Rick and Morty Wiki (Fandom)",
+    "ancho": 696,
+    "alto": 1082,
+    "que_es": "Rick de cuerpo entero, pose de pie sosteniendo un dispositivo con un vial verde, hoja de modelo/estilo oficial",
+    "para_que": "Punto 1 y 15: pose de presentar algo en la mano; hex del pantalón medido aquí (#8E774D)",
+    "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+  },
+  {
+    "url": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153842702706815.jpg",
+    "fuente": "adultswim.com (ficha del vídeo, confirmada por fetch directo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Miniatura oficial del vídeo «Rick and Morty Style Guide», con el director de arte Jeffrey Thompson explicando qué hacer y qué no al dibujar a los personajes",
+    "para_que": "Punto 1 y 18 (técnica): referencia directa del estudio sobre cómo dibujar a los personajes",
+    "licencia": "© Adult Swim / Warner Bros. Discovery. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/0/02/RickCouncilBadge.png",
+    "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+    "ancho": 830,
+    "alto": 962,
+    "que_es": "Insignia/escudo dorado del Consejo de Ricks (la Ciudadela)",
+    "para_que": "Punto 19: emblema/logo propio de la serie, sirve de sello o textura de fondo",
+    "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/b/b8/BlipsChitzBack.png",
+    "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+    "ancho": 263,
+    "alto": 266,
+    "que_es": "Logo del arcade galáctico Blips and Chitz",
+    "para_que": "Punto 19: logo propio de la serie, estilo interfaz de videojuego (también sirve al punto 11 de otro rol)",
+    "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/d/dc/2000px-Adult_Swim_2003_logo.svg.png",
+    "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+    "ancho": 2000,
+    "alto": 370,
+    "que_es": "Logo oficial de Adult Swim (el bloque nocturno que emite la serie)",
+    "para_que": "Punto 19: cartela tipo «presenta», textura/sello de canal oficial",
+    "licencia": "© Adult Swim / Warner Bros. Discovery. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/a/ac/Story_train.png",
+    "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+    "ancho": 774,
+    "alto": 444,
+    "que_es": "Caja del juguete Story Train (Jerry, 3x02) con su logo y arte propio",
+    "para_que": "Punto 19: referencia de «logo de juguete dentro de la serie», parecido al hueco del concepto C de la lámina",
+    "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/a/a8/PickleRickOutfitFortnite.webp",
+    "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Arte promocional de la skin Pickle Rick en Fortnite (wave 3, marzo 2026)",
+    "para_que": "Punto 23: colaboración con Fortnite, el personaje secundario del encargo vigente en 2026",
+    "licencia": "© Epic Games / Adult Swim. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/4/43/RickPrimeFortnite.webp",
+    "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Arte promocional de la skin Rick Prime en Fortnite (wave 3, marzo 2026)",
+    "para_que": "Punto 23: colaboración con Fortnite",
+    "licencia": "© Epic Games / Adult Swim. Sólo referencia, no pegar."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-88525f59bb974271a0933fc7608672c2",
+    "fuente": "Sketchfab (API, licencia confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de la Caja Meeseeks, por el usuario pythagean",
+    "para_que": "Punto 3 y objeto del concepto C de la lámina; licencia confirmada por API (antes ⚠️ sin comprobar)",
+    "licencia": "CC Attribution (Sketchfab)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-fd20bf1ea1604d569f54227cd79dc90d",
+    "fuente": "Sketchfab (API, licencia confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de varias Cajas Meeseeks, por ClemFandango273",
+    "para_que": "Punto 3, alternativa a la Caja Meeseeks",
+    "licencia": "CC Attribution (Sketchfab)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-c5f7b4a950de4002b448ac65c6b0207b",
+    "fuente": "Sketchfab (API, licencia confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de la pistola de portales, por Bob.Ho",
+    "para_que": "Punto 3, alternativa a la pistola de portales para el concepto de Blender",
+    "licencia": "CC Attribution (Sketchfab)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-93a6db7f97614fb0af7287de33027532",
+    "fuente": "Sketchfab (API, licencia confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D descargable de un plumbus, por Rifeor",
+    "para_que": "Punto 3, objeto de fondo para escenas del garaje o la cocina",
+    "licencia": "CC Attribution (Sketchfab)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-ab19c2419c2647299ce96d027b3e7f5e",
+    "fuente": "Sketchfab (API, licencia confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de un monitor CRT de estudio real (Sony PVM-14L2), por poring",
+    "para_que": "Punto 3: alternativa con licencia clara a la tele de tubo del concepto A, más fácil de re-texturizar que un CRT genérico",
+    "licencia": "CC Attribution (Sketchfab)"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/yj/wallhaven-yj1z57.png",
+    "fuente": "Wallhaven (tamaño verificado por descarga directa)",
+    "ancho": 8000,
+    "alto": 4500,
+    "que_es": "Fondo de pantalla con Rick y Morty en un auto, arcoíris, estilo acuarela colorida (Run the Jewels)",
+    "para_que": "Punto 16: fondo de pantalla en muy alta resolución, con autor (baeda) confirmado",
+    "licencia": "Fan art, subido por baeda a Wallhaven. Sólo referencia."
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/d5/wallhaven-d51kqj.jpg",
+    "fuente": "Wallhaven (tamaño verificado por descarga directa)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla crossover con Firewatch, montañas y atardecer con Rick y Morty",
+    "para_que": "Punto 16: fondo de pantalla con origen en Reddit (r/rickandmorty) enlazado",
+    "licencia": "Fan art, subido por wectium a Wallhaven, origen en Reddit. Sólo referencia."
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/g8/wallhaven-g8862e.jpg",
+    "fuente": "Wallhaven (tamaño verificado por descarga directa)",
+    "ancho": 3840,
+    "alto": 2064,
+    "que_es": "Fondo de pantalla, dibujo de Rick Sanchez y Morty Smith estilo fan art digital",
+    "para_que": "Punto 16: fondo de pantalla con origen en ArtStation enlazado (HanaSama)",
+    "licencia": "Fan art, subido por HanaSama a Wallhaven, origen en ArtStation. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/e/ec/S3e3_Tommy_Scott_bgs3.jpg",
+    "fuente": "Rick and Morty Wiki (Fandom), galería del episodio 3x03 Pickle Rick",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Storyboard/boceto de fondo del hospital St. Gloopy Noops, con crédito de archivo al artista de fondos Tommy Scott",
+    "para_que": "Punto 1 y 18: muestra el paso de boceto a pintura terminada en la producción real de un episodio",
+    "licencia": "Arte de producción de la serie (© Adult Swim). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/4/49/S3e3_Corey_Booth_paints6.jpg",
+    "fuente": "Rick and Morty Wiki (Fandom), galería del episodio 3x03 Pickle Rick",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Pintura de fondo terminada (pasillo/oficina del hospital), con crédito de archivo al pintor de fondos Corey Booth",
+    "para_que": "Punto 1 y 18: fondo terminado con luz y color final, referencia directa para pintar en Photoshop",
+    "licencia": "Arte de producción de la serie (© Adult Swim). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/6/6b/Pubescent_Rick.png",
+    "fuente": "Rick and Morty Wiki (Fandom), ya listada en datos-imagen.md",
+    "ancho": 2454,
+    "alto": 1620,
+    "que_es": "Arte oficial de Rick adolescente/joven (variante del personaje)",
+    "para_que": "Punto 1: variedad de arte oficial más allá del Rick adulto habitual",
+    "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/8/89/S1e10_memory_babby_morty.png",
+    "fuente": "Rick and Morty Wiki (Fandom), ya listada en datos-imagen.md",
+    "ancho": 1920,
+    "alto": 1088,
+    "que_es": "Fotograma en 1080p de Rick con Morty bebé (1x10)",
+    "para_que": "Punto 1: fotograma en alta resolución con los dos personajes principales, dinámica abuelo-nieto",
+    "licencia": "Fotograma de la serie (© Adult Swim). Sólo referencia."
+  },
+  {
+    "url": "https://live.staticflickr.com/1457/25988428002_52e77bfd60_b.jpg",
+    "fuente": "Openverse (Flickr), ya listada en datos-imagen.md",
+    "ancho": 1024,
+    "alto": 683,
+    "que_es": "Foto de cosplay de Rick and Morty en WonderCon 2016, por W10002",
+    "para_que": "Punto 23: cosplay real con licencia libre, referencia de materiales y volumen",
+    "licencia": "CC BY-SA 2.0 (Openverse/Flickr)"
+  },
+  {
+    "url": "https://live.staticflickr.com/659/22343854161_9526c15c82_b.jpg",
+    "fuente": "Openverse (Flickr), ya listada en datos-imagen.md",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "LEGO MOC (no oficial) de la nave de Rick, por Umm Who?",
+    "para_que": "Punto 23: aclara que no existe set oficial de LEGO, esto es un MOC de fan con licencia libre",
+    "licencia": "CC PDM 1.0 (dominio público, Openverse/Flickr)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/a/a2/814700pohsL._SL1500_.jpg",
+    "fuente": "Rick and Morty Wiki (Fandom), imageinfo medido (foto de producto de McFarlane Toys)",
+    "ancho": 1500,
+    "alto": 1500,
+    "que_es": "Foto de producto del set de construcción «Rick and Morty» de McFarlane Toys (piezas compatibles tipo Lego)",
+    "para_que": "Punto 23: figura/set de construcción oficial con licencia, referencia 3D real (no un MOC de fan)",
+    "licencia": "© McFarlane Toys / Adult Swim. Producto oficial con licencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png",
+    "fuente": "Rick and Morty Wiki (Fandom), ya listada en datos-imagen.md",
+    "ancho": 848,
+    "alto": 1080,
+    "que_es": "Retrato oficial de Rick Sanchez de cuerpo entero, pose neutra",
+    "para_que": "Punto 15: referencia base de vestuario (bata, camisa, pantalón) para comparar con las medidas de hex",
+    "licencia": "Arte oficial de la serie (© Adult Swim). Sólo referencia."
+  }
+]

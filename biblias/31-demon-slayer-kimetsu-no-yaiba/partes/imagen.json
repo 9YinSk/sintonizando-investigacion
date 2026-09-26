@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/25/Demon_Slayer_Corps_Insignia.png",
+    "fuente": "Kimetsu no Yaiba Wiki (Fandom), archivo File:Demon Slayer Corps Insignia.png",
+    "ancho": 559,
+    "alto": 553,
+    "que_es": "Insignia oficial del Cuerpo de Cazademonios: una rama de glicinia (fuji) enroscada alrededor del kanji 藤",
+    "para_que": "Punto 19 (emblemas y logos): sello o marca grabada en un objeto de madera de la lámina",
+    "licencia": "Fair use / arte oficial de la wiki (con Referer: https://www.fandom.com/); sólo como referencia visual, no para pegar sin más"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Asanoha_Kumiko_Pattern.svg",
+    "fuente": "Wikimedia Commons, File:Asanoha Kumiko Pattern.svg",
+    "ancho": 512,
+    "alto": 494,
+    "que_es": "Patrón geométrico asanoha (hoja de cáñamo) en vector, el mismo que lleva el kimono de Nezuko",
+    "para_que": "Punto 19: textura 2D libre para forrar o grabar el traje de Nezuko en la lámina",
+    "licencia": "CC BY-SA 4.0 (crédito al autor de la página del archivo en Wikimedia Commons)"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Uroko.svg",
+    "fuente": "Wikimedia Commons, File:Uroko.svg",
+    "ancho": 800,
+    "alto": 831,
+    "que_es": "Patrón de triángulos repetidos (uroko, escama), igual en su geometría al del haori de Zenitsu",
+    "para_que": "Punto 19: textura 2D libre para el patrón de Zenitsu, fácil de convertir en relieve en Blender",
+    "licencia": "Dominio público (sin crédito obligatorio)"
+  },
+  {
+    "url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014759_vVPMEchI_02.jpg",
+    "fuente": "Tamashii Nations / Bandai Spirits, ficha oficial S.H.Figuarts Nezuko Kamado (tamashiiweb.com/item/14759)",
+    "ancho": 560,
+    "alto": 560,
+    "que_es": "Foto oficial de producto: figura S.H.Figuarts de Nezuko mordiendo el bambú, cara y manos intercambiables",
+    "para_que": "Punto 23 (figuras oficiales): referencia 3D exacta de una pose icónica, con volumen real de tela y lazo",
+    "licencia": "Derechos de Bandai Spirits; sólo como referencia de pose/volumen, nunca para vender ni pegar"
+  },
+  {
+    "url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014758_gIs5SJW4_02.jpg",
+    "fuente": "Tamashii Nations / Bandai Spirits, ficha oficial S.H.Figuarts Tanjiro Kamado (tamashiiweb.com/item/14758)",
+    "ancho": 560,
+    "alto": 560,
+    "que_es": "Foto oficial de producto: figura S.H.Figuarts de Tanjiro, piezas para tomarse de la mano con Nezuko",
+    "para_que": "Punto 23: referencia 3D de pose y de cómo cae el haori a cuadros en volumen",
+    "licencia": "Derechos de Bandai Spirits; sólo como referencia de pose/volumen"
+  },
+  {
+    "url": "https://pad.gungho.jp/member/collabo/kimetsu/2312/img/ogp.jpg?=231221",
+    "fuente": "Puzzle & Dragons (GungHo), página oficial de la colaboración (pad.gungho.jp/member/collabo/kimetsu/2312)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Arte oficial de la colaboración Demon Slayer x Puzzle & Dragons (ago-sep 2025): Akaza, Giyu&Tanjiro, Doma",
+    "para_que": "Punto 23 (colaboraciones y cruces): ejemplo de arte de colaboración con poses nuevas",
+    "licencia": "Derechos de GungHo/Aniplex; sólo como referencia, citada con enlace a la campaña oficial"
+  },
+  {
+    "url": "https://www.lawson.co.jp/lab/entertainment/art/__icsFiles/afieldfile/2026/06/29/20260630_collabo_usj_g_2.jpg",
+    "fuente": "Lawson (konbini), nota oficial de la colaboración con Universal Studios Japan (lawson.co.jp/lab)",
+    "ancho": 800,
+    "alto": 450,
+    "que_es": "Foto oficial de la tienda Lawson decorada para la colaboración con la atracción de Demon Slayer en USJ",
+    "para_que": "Punto 23: ejemplo de colaboración con una marca fuera del anime (tienda física)",
+    "licencia": "Derechos de Lawson/Aniplex; sólo como referencia documental"
+  },
+  {
+    "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481120/item/goods_00_481120_3x4.jpg",
+    "fuente": "Uniqlo, ficha oficial de producto UT Demon Slayer (uniqlo.com/jp/ja/products/E481120-000/00)",
+    "ancho": 1500,
+    "alto": 2000,
+    "que_es": "Foto oficial de producto: camiseta UT de la 2.ª colaboración Uniqlo x Demon Slayer (2025), Tanjiro y Nezuko",
+    "para_que": "Punto 23: merchandising oficial bien resuelto, referencia de estampado y color reales",
+    "licencia": "Derechos de Uniqlo/Aniplex; sólo como referencia documental"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Cosplay_of_Zenitsu_Agatsuma%2C_Tanjiro_Kamado%2C_and_Nezuko_Kamado_from_Demon_Slayer_Kimetsu_no_Yaiba_at_FanimeCon_2023_%2853055055502%29.jpg",
+    "fuente": "Wikimedia Commons (Openverse), foto de LX-Designs en FanimeCon 2023",
+    "ancho": 2048,
+    "alto": 1365,
+    "que_es": "Foto de cosplay grupal de Zenitsu, Tanjiro y Nezuko con trajes de tela real bien terminados",
+    "para_que": "Punto 23 (cosplay bien hecho): referencia de caída de tela y volumen real, nunca para pegar el diseño de un fan",
+    "licencia": "CC BY-SA 2.0 (crédito: LX-Designs from SF Bay Area, CA)"
+  }
+]

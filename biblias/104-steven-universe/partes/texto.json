@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.gameuidatabase.com/uploads/Steven-Universe-Unleash-the-Light03262021-121238-15152.jpg",
+    "fuente": "Game UI Database (gameuidatabase.com), captura del juego oficial Steven Universe: Unleash the Light",
+    "ancho": 1920,
+    "alto": 887,
+    "que_es": "Cuadro de diálogo real del juego: burbuja redondeada pastel con rabito, color a juego con el personaje (Steven en coral), texto grueso redondeado",
+    "para_que": "Referencia directa de 'cuadro de diálogo acorde a la temática' (punto 6) para evitar la burbuja blanca genérica que rechaza el dueño",
+    "licencia": "Captura de un videojuego con copyright de Cartoon Network/Grumpyface Studios; sólo como referencia de diseño, no para redistribuir"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/uploads/Steven-Universe-Unleash-the-Light03262021-121238-18752.jpg",
+    "fuente": "Game UI Database (gameuidatabase.com), captura del juego oficial Steven Universe: Unleash the Light",
+    "ancho": 1920,
+    "alto": 887,
+    "que_es": "Cuadro de diálogo con el mismo diseño pero mostrando el texto sin traducir en Gem Glyph (glifo del mundo)",
+    "para_que": "Prueba visual de que Gem Glyph aparece como 'idioma que no todos entienden' dentro del propio juego (puntos 5, 6 y 25)",
+    "licencia": "Captura de un videojuego con copyright de Cartoon Network/Grumpyface Studios; sólo como referencia"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/uploads/Steven-Universe-Unleash-the-Light03262021-121402-4858.jpg",
+    "fuente": "Game UI Database (gameuidatabase.com), captura del juego oficial Steven Universe: Unleash the Light",
+    "ancho": 1920,
+    "alto": 887,
+    "que_es": "Menú de equipo: los personajes sobre una estrella de 5 puntas estilo cuaderno de renglones, iconos circulares con barra de 'harmony' en fracción numérica, botones laterales de color plano",
+    "para_que": "Referencia de interfaz de videojuego (punto 11) y de cómo la estrella-emblema de las Crystal Gems se reutiliza como elemento de UI (punto 25)",
+    "licencia": "Captura de un videojuego con copyright de Cartoon Network/Grumpyface Studios; sólo como referencia"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/uploads/Steven-Universe-Unleash-the-Light03262021-121402-67526.jpg",
+    "fuente": "Game UI Database (gameuidatabase.com), captura del juego oficial Steven Universe: Unleash the Light",
+    "ancho": 1920,
+    "alto": 887,
+    "que_es": "Cartel de etapa ('Stage 1-6') con letra de burbuja redondeada blanca y contorno morado, botones cuadrados rosa con iconos dibujados a mano",
+    "para_que": "Referencia de tipografía de interfaz de juego (punto 5) y de cartelas del mundo del videojuego (punto 6)",
+    "licencia": "Captura de un videojuego con copyright de Cartoon Network/Grumpyface Studios; sólo como referencia"
+  },
+  {
+    "url": "https://dl.dafont.com/dl/?f=crewniverse",
+    "fuente": "dafont.com, fuente de MaxiGamer (maxigamer.deviantart.com)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente Crewniverse v.5 (.ttf/.otf), réplica de la letra de las cartelas de título de cada episodio de la serie; comprobada por mí con fontTools: trae á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ completos",
+    "para_que": "Letra libre principal para cualquier texto largo en español de la lámina (punto 5)",
+    "licencia": "100% gratis (dafont), uso libre según nota del autor"
+  },
+  {
+    "url": "https://dl.dafont.com/dl/?f=crystal_universe",
+    "fuente": "dafont.com, fuente de MaxiGamer",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente Crystal Universe (.ttf), réplica del logo/título de la serie ('Steven Universe' con estrella por la U); comprobada por mí con fontTools: NO trae tildes/ñ/¿/¡ salvo é",
+    "para_que": "Sólo para el logo o letras sueltas del título (punto 5); no usar para texto en español corrido sin sustituir letras",
+    "licencia": "100% gratis (dafont), uso libre según nota del autor"
+  },
+  {
+    "url": "https://dl.dafont.com/dl/?f=creditverse",
+    "fuente": "dafont.com, fuente de MaxiGamer",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente Creditverse (.ttf), réplica de la letra de los créditos finales de la serie; comprobada por mí con fontTools: NO trae ningún carácter español",
+    "para_que": "Sólo para créditos cortos en inglés o sustituyendo letras a mano (punto 5)",
+    "licencia": "100% gratis (dafont), uso libre según nota del autor"
+  },
+  {
+    "url": "https://ayelis.itch.io/gem-glyph-font",
+    "fuente": "itch.io, Ayelis",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente fan 'Gem Glyph Font', pensada como sustitución de alfabeto tipo Homeworld para meter en un juego",
+    "para_que": "Letra libre para el 'cartel del mundo' o la interfaz de un videojuego ambientado en Homeworld (puntos 5, 6, 11 y 25)",
+    "licencia": "No confirmada del todo en la ficha; revisar antes de usar en un producto publicado"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/e/eb/Better_Temple_Door.png/revision/latest?cb=20180903113052",
+    "fuente": "Steven Universe Wiki (Fandom), página 'Temple Gate'",
+    "ancho": 1953,
+    "alto": 3105,
+    "que_es": "La Puerta del Templo con la estrella de 5 gemas de color (rosa, crema, morado, rojo, azul): el emblema real de las Crystal Gems",
+    "para_que": "Símbolo/logo del grupo para la lámina (punto 25), mejor que inventar un logo nuevo",
+    "licencia": "Material con copyright de Cartoon Network/Warner Bros. Discovery; sólo como referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/steven-universe/images/6/6a/Little_Homeschool_259.png/revision/latest?cb=20191208224908",
+    "fuente": "Steven Universe Wiki (Fandom), página 'Gem Glyph'",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fotograma con Gem Glyph (la escritura logográfica del mundo Gem) visible en un cartel de fondo",
+    "para_que": "Referencia visual directa de la escritura del mundo para el 'cartel del mundo' (puntos 5, 6 y 25)",
+    "licencia": "Fotograma con copyright de Cartoon Network/Warner Bros. Discovery; sólo como referencia"
+  }
+]

@@ -1,0 +1,137 @@
+[
+ {
+  "url": "https://www.dailymotion.com/video/x908684&t=0",
+  "fuente": "Dailymotion (adorocinema)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial temporada 1, doblado/subtitulado en español, 1:35",
+  "para_que": "punto 2 y 10: escenas icónicas y tráiler oficial con minuto",
+  "licencia": "© C2C/productoras; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8r9ybf&t=0",
+  "fuente": "Dailymotion (FilmAffinity)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial temporada 2, español, 1:00, con fichas de personaje y actor de doblaje japonés",
+  "para_que": "punto 2 y 10: tráiler oficial con minuto",
+  "licencia": "© C2C/productoras; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9d51n2&t=190",
+  "fuente": "Dailymotion (The World Of Isekai - Clip)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tramo final del episodio 24 (duelo Makoto vs Sofia Bulga), 6:35, subtítulos en inglés",
+  "para_que": "punto 2 y 14: escena icónica viral en TikTok, poses de combate de Makoto",
+  "licencia": "© C2C/productoras; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/tsuki-ga-michibiku-isekai-douchuu",
+  "fuente": "Internet Archive (archivo Tsuki 1.mp4)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Episodio 1 completo T1, sub. español (AnimeFenix), 23:40",
+  "para_que": "punto 2, 9 y 14: opening «Gambling», introducción de Tomoe y Mio, poses",
+  "licencia": "© C2C/productoras; copia de fans, sólo referencia para investigación"
+ },
+ {
+  "url": "https://archive.org/details/subs-please-tsuki-ga-michibiku-isekai-douchuu-s-2-01-1080p-0316510-f.mkv",
+  "fuente": "Internet Archive (SubsPlease, derivado 1280x720)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Episodio 1 completo T2, sub. inglés, 23:40, incluye opening «Utopia» y ending «Aa Jinsei ni Namida Ari» Ver.3",
+  "para_que": "punto 2, 4 y 9: opening/ending completos, paletas de sitios (Obitt, laboratorio), poses de Tomoe",
+  "licencia": "© C2C/productoras; copia de fans, sólo referencia para investigación"
+ },
+ {
+  "url": "https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Gambling_(song)",
+  "fuente": "Fandom (wiki oficial de fans)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del opening T1 «Gambling», interpretada por syudou",
+  "para_que": "punto 9: crédito verificado del tema de apertura",
+  "licencia": "texto de wiki; referencia"
+ },
+ {
+  "url": "https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Utopia_(song)",
+  "fuente": "Fandom (wiki oficial de fans)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del opening T2 «Utopia», interpretada por Keina Suda",
+  "para_que": "punto 9: crédito verificado del tema de apertura",
+  "licencia": "texto de wiki; referencia"
+ },
+ {
+  "url": "https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Aa_Jinsei_ni_Namida_Ari_(song)",
+  "fuente": "Fandom (wiki oficial de fans)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del ending recurrente, 3 versiones por personajes distintos",
+  "para_que": "punto 9: el gag musical de la serie, clave para un cuadro de diálogo propio",
+  "licencia": "texto de wiki; referencia"
+ },
+ {
+  "url": "https://www.tiktok.com/discover/tsukimichi-moonlit-fantasy-edits",
+  "fuente": "TikTok (discover)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Listado de edits virales de la serie, incluida la escena del arco del episodio 24",
+  "para_que": "punto 10: tendencia TikTok confirmada",
+  "licencia": "referencia externa, no descargable"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=Wi5k6q5ZKPg",
+  "fuente": "YouTube",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reseña/análisis en inglés «This Is What Peak Isekai Looks Like! - TSUKIMICHI Moonlit Fantasy»",
+  "para_que": "punto 10: vídeo de análisis (no se pudo mirar por bloqueo de YouTube desde el servidor, 429 con navegar.py incluso ya arreglado el proxy)",
+  "licencia": "referencia externa, no vista con fotogramas.py"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Tsukimichi:_Moonlit_Fantasy",
+  "fuente": "Wikipedia (inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo con infobox de OP/ED por temporada, estudios C2C/J.C.Staff, compositor Yasuharu Takanashi, 37 episodios y anuncio de la 3ª temporada",
+  "para_que": "punto 9 y 10: segunda fuente para créditos musicales, estudios y anuncio de temporada 3",
+  "licencia": "CC BY-SA 4.0 (Wikipedia); texto, referencia"
+ },
+ {
+  "url": "https://tsukimichi.com/1st/music/",
+  "fuente": "Sitio oficial japonés (tsukimichi.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página MUSIC oficial: OP de la T1 por syudou, ED por Ezoshika Gourmet Club",
+  "para_que": "punto 9: fuente primaria de los temas de apertura y cierre",
+  "licencia": "© あずみ圭・アルファポリス/月が導く異世界道中製作委員会; sólo referencia"
+ },
+ {
+  "url": "https://tsukimichi.com/1st/movie/",
+  "fuente": "Sitio oficial japonés (tsukimichi.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página MOVIE oficial con 4 vídeos promocionales (CM de anuncio S2, 2 PV y 1 teaser) y su ID real de YouTube en el HTML",
+  "para_que": "punto 2 y 10: identificar los tráilers oficiales exactos (mismos PV ya vistos vía Dailymotion)",
+  "licencia": "© あずみ圭・アルファポリス/月が導く異世界道中製作委員会; sólo referencia"
+ },
+ {
+  "url": "https://tsukimichi.com/1st/staffcast/",
+  "fuente": "Sitio oficial japonés (tsukimichi.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha STAFF oficial: compositor Yasuharu Takanashi, director de sonido Shouji Hata, equipo de sonido Don Juan",
+  "para_que": "punto 9: crédito primario del compositor y del sonido",
+  "licencia": "© あずみ圭・アルファポリス/月が導く異世界道中製作委員会; sólo referencia"
+ },
+ {
+  "url": "https://www.tiktok.com/tag/tsukimichimoonlitfantasy",
+  "fuente": "TikTok (hashtag, visto en vivo con navegar.py)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página real del hashtag con los edits recurrentes de la cuenta AnimeEchoes sobre Tomoe, Mio y Makoto",
+  "para_que": "punto 10: tendencia TikTok confirmada viendo la página real, no sólo un snippet de búsqueda",
+  "licencia": "referencia externa, no descargable"
+ }
+]

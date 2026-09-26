@@ -1,0 +1,281 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/7/7e/ER_Render_Melina03.png",
+    "fuente": "eldenring.fandom.com (wiki de Fandom)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Render promocional de Melina de pie, con la capucha puesta, mirando de frente",
+    "para_que": "Arte oficial variado (punto 1); referencia de pose de pie y de medir el hex de su capa (punto 15)",
+    "licencia": "Copyright FromSoftware/Bandai Namco, uso editorial de referencia (no comercial)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/c/c7/Melina_reveal.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fotograma del tráiler de presentación de Melina, capucha bajada, primer plano emotivo",
+    "para_que": "Arte oficial variado (punto 1): pose distinta a la de pie, cara descubierta",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/9/98/ER_Boss_Malenia%2C_Goddess_of_Rot_Scarlet_Aeonia.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 1778,
+    "alto": 1000,
+    "que_es": "Key art oficial de Malenia como jefe: casco alado, brazo protésico dorado, capa roja",
+    "para_que": "Arte oficial (punto 1) y vestuario con hex medido (punto 15): imagen más icónica del personaje",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/b/b4/Malenia_Concept_Art.jpg",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 1932,
+    "alto": 1653,
+    "que_es": "Concept art oficial de artbook de Malenia, de pie con espada y alas cerradas",
+    "para_que": "Arte oficial variado (punto 1): pose de presentación distinta al render 3D del juego",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/3/39/Haligtree_Promenade_Demigods_Statue_2.jpg",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Captura in-game de la estatua de los Semidioses (Malenia y Miquella abrazados) en las ruinas de Haligtree",
+    "para_que": "Fondo de ruinas con musgo para la lámina (punto 16) y pose de grupo tierna (punto 1)",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/f/f0/Promised_Consort_Radahn_CloseUp.jpg",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Captura in-game de Radahn (Promised Consort, jefe final del DLC) en primer plano, armadura dorada rediseñada",
+    "para_que": "Arte oficial variado (punto 1): diseño distinto al Radahn original",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/e/e4/ER_Icon_Armor_Malenia%27s_Armor.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Icono oficial del juego del conjunto de armadura equipable de Malenia, sobre fondo verde",
+    "para_que": "Vestuario con hex medido (punto 15) y patrón de ropa (punto 19): color limpio sin iluminación de escena",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/6/6a/ER_Icon_Armor_Radahn%27s_Lion_Armor.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Icono oficial del conjunto de armadura del león de Radahn, sobre fondo verde",
+    "para_que": "Vestuario con hex medido (punto 15)",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/a/a3/ER_Icon_Key_Item_Great_Rune_Malenia%27s.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Icono oficial de la Gran Runa de Malenia, símbolo circular",
+    "para_que": "Emblema/logo para texturas 2D (punto 19), sirve de icono de canal",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/a/a7/ER_Icon_Armor_Haligtree_Crest_Surcoat.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Icono oficial de la sobrecota con el emblema bordado del Haligtree (árbol alado)",
+    "para_que": "Emblema/logo del mundo (punto 19)",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/3/38/ER_Limgrave_First_Step_Panorama.png",
+    "fuente": "eldenring.fandom.com (pageimage de la región)",
+    "ancho": 2428,
+    "alto": 874,
+    "que_es": "Panorámica oficial de Limgrave con el Árbol Áureo al fondo, luz de atardecer",
+    "para_que": "Fondos y paisajes con hex medido (punto 16)",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/d/d4/ER_Liurnia_Lake-Facing_Cliffs_Panorama.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 3702,
+    "alto": 1188,
+    "que_es": "Panorámica oficial de Liurnia de los Lagos, luz fría de niebla",
+    "para_que": "Fondos con hex medido (punto 16)",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/9/99/ER_Caelid_Gael_Panorama.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 3515,
+    "alto": 1293,
+    "que_es": "Panorámica oficial de Caelid, pantano de la Podredumbre Escarlata",
+    "para_que": "Fondos con hex medido (punto 16), coincide con la paleta de Malenia",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/0/08/ER_Leyndell%2C_Royal_Capital.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Panorámica oficial de Leyndell, Capital Real, ciudad dorada en ruinas",
+    "para_que": "Fondos con hex medido (punto 16)",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/eldenring/images/2/26/ER_Miquella%27s_Haligtree.png",
+    "fuente": "eldenring.fandom.com",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Panorámica oficial del Haligtree de Miquella, árbol congelado con nieve",
+    "para_que": "Fondos con hex medido (punto 16)",
+    "licencia": "Copyright FromSoftware/Bandai Namco"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/57/wallhaven-57o9j5.png",
+    "fuente": "wallhaven.cc (origen: ArtStation, smilyfox)",
+    "ancho": 3777,
+    "alto": 2125,
+    "que_es": "Fondo de pantalla de fans más guardado de Elden Ring (1432 favoritos): Malenia con alas de mariposa",
+    "para_que": "Fondos de pantalla en alta (punto 16)",
+    "licencia": "Fan art, uso de referencia; crédito a smilyfox/artista de ArtStation"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/e7/wallhaven-e76ge8.jpg",
+    "fuente": "wallhaven.cc (origen: Reddit r/Eldenring, Nightmarian)",
+    "ancho": 5120,
+    "alto": 2880,
+    "que_es": "Fondo de pantalla de paisaje puro de Elden Ring sin personajes ni logo, en 5K",
+    "para_que": "Fondo limpio para poner un personaje encima en la lámina (punto 16)",
+    "licencia": "Captura de fan, uso de referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-4c7284834ef748109276ba2138ca8123",
+    "fuente": "sketchfab.com (API v3/search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable «Old Church Ruins» de H.Foucault (875 likes)",
+    "para_que": "Modelo 3D con licencia libre de un sitio en ruinas (punto 3)",
+    "licencia": "CC Attribution-ShareAlike"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-8b58145484204c44bebddea6795dd09b",
+    "fuente": "sketchfab.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable «Elden Ring's Malenia» de Gilgamesh.art (139 likes)",
+    "para_que": "Modelo 3D con licencia libre del personaje (punto 3)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-ce99340b141c4c559316ca7a886e59fc",
+    "fuente": "sketchfab.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable «Marika's hammer» de MichalCavrnoch (76 likes)",
+    "para_que": "Modelo 3D con licencia libre de un objeto/arma icónica (punto 3)",
+    "licencia": "CC Attribution-NonCommercial"
+  },
+  {
+    "url": "https://polyhaven.com/a/stone_01",
+    "fuente": "polyhaven.com (API)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D fotogramétrico CC0 de una roca real (equivalente a las ruinas del juego)",
+    "para_que": "Modelo 3D con licencia libre para maquetar terreno (punto 3)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/a/dead_tree_trunk",
+    "fuente": "polyhaven.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D fotogramétrico CC0 de un tronco muerto real",
+    "para_que": "Referencia real del Árbol Áureo marchito y bosques quemados (punto 3)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Rock064",
+    "fuente": "ambientcg.com (API v2)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura fotorrealista CC0 de roca erosionada (hasta 8K)",
+    "para_que": "Textura real equivalente a las ruinas para pintar sobre los renders 3D (punto 16)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Bark013",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura fotorrealista CC0 de corteza de árbol muerta (hasta 8K)",
+    "para_que": "Textura real equivalente al Árbol Áureo marchito (punto 16 y 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura fotorrealista CC0 de grano de papel (hasta 8K)",
+    "para_que": "Textura 2D para dar aspecto de artbook pintado a mano (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal048A",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura fotorrealista CC0 de metal dorado ornamentado (hasta 8K)",
+    "para_que": "Textura 2D para repintar armaduras y objetos dorados (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes",
+    "fuente": "brusheezy.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pack de 34 pinceles de screentone/halftone en alta resolución para Photoshop/CSP",
+    "para_que": "Texturas 2D de trama para una viñeta al estilo del manga oficial (punto 19)",
+    "licencia": "Licencia \"community\" de Brusheezy (revisar términos antes de uso comercial)"
+  },
+  {
+    "url": "https://www.j-connection.jp/event/eldenring_lt/index-en.html",
+    "fuente": "j-connection.jp (web oficial de la colaboración)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página oficial de la colaboración ELDEN RING × Leathers and Treasures (joyería de cuero)",
+    "para_que": "Colaboraciones y cruces (punto 23)",
+    "licencia": "Copyright FromSoftware/Bandai Namco y Leathers and Treasures"
+  },
+  {
+    "url": "https://tamashiiweb.com/item_character/eldenring/?wovn=en",
+    "fuente": "tamashiiweb.com (tienda oficial de figuras Bandai/TAMASHII NATIONS)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Listado oficial de figuras S.H.Figuarts y Figuarts mini de Elden Ring (Malenia, Radahn, Vyke)",
+    "para_que": "Figuras oficiales como referencia 3D de pose (punto 23)",
+    "licencia": "Copyright Bandai Spirits/FromSoftware"
+  },
+  {
+    "url": "https://pufacosplay.gumroad.com/l/Malenia",
+    "fuente": "gumroad.com (portfolio de la cosplayer)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Set fotográfico de cosplay de Malenia, Blade of Miquella, por Julianna Podnebesnaya",
+    "para_que": "Cosplay bien hecho como referencia de materiales y volumen reales (punto 23)",
+    "licencia": "Propiedad de la cosplayer, uso de referencia (crédito obligatorio)"
+  },
+  {
+    "url": "https://safebooru.org/images/3791/b74997a3d213eac62a45eb9885ced0b677489c55.jpg",
+    "fuente": "safebooru.org (origen: twitter.com/samdoesarts)",
+    "ancho": 1440,
+    "alto": 1800,
+    "que_es": "Fan art mejor puntuado de Melina en Safebooru",
+    "para_que": "Fan art como referencia de pose, nunca para pegar (punto 3)",
+    "licencia": "Derechos del artista (SamDoesArts), sólo referencia con crédito"
+  }
+]

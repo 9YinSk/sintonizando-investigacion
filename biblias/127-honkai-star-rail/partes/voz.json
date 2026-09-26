@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x8n3btc?t=80",
+    "fuente": "Dailymotion — Trailer da Kafka - Ironia Dramática (Honkai: Star Rail)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Kafka, primer plano de perfil sereno, minuto 1:20 del tráiler oficial",
+    "para_que": "cara en la emoción «calma/control» (punto 13)",
+    "licencia": "© HoYoverse/miHoYo; sólo referencia, no reeditable"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8a7le6?t=12",
+    "fuente": "Dailymotion — Honkai Star Rail - Bande-annonce de March 7th",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "March 7th con los ojos cerrados, sonriendo con su cámara, minuto 0:12",
+    "para_que": "cara en la emoción «alegría/ternura» (punto 13)",
+    "licencia": "© HoYoverse/miHoYo; sólo referencia, no reeditable"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8a7le6?t=90",
+    "fuente": "Dailymotion — Honkai Star Rail - Bande-annonce de March 7th",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "March 7th en plena acción de combate con hielo, minuto 1:30",
+    "para_que": "cara/pose en la emoción «determinación» (punto 13)",
+    "licencia": "© HoYoverse/miHoYo; sólo referencia, no reeditable"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x90j8pu?t=40",
+    "fuente": "Dailymotion — Honkai: Star Rail - Embers in a Shell - Firefly Trailer",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Firefly con los ojos cerrados rodeada de llamas, minuto 0:40",
+    "para_que": "cara en la emoción «resignación serena» (punto 13)",
+    "licencia": "© HoYoverse/miHoYo; sólo referencia, no reeditable"
+  },
+  {
+    "url": "https://www.hoyolab.com/article/40440025",
+    "fuente": "HoYoLAB — evento oficial «2025 HSR Popularity Poll»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Resultados de la encuesta oficial de popularidad 2025 (votos por personaje)",
+    "para_que": "dato de popularidad oficial (punto 7); no es imagen, es la fuente del dato",
+    "licencia": "© HoYoverse; página de texto, sin imagen que citar"
+  },
+  {
+    "url": "https://danbooru.donmai.us/posts?tags=honkai_%28series%29",
+    "fuente": "Danbooru — búsqueda «honkai_(series)»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Recuento de dibujos de fans por personaje (190 986 en total)",
+    "para_que": "medida de popularidad por fan art (punto 7)",
+    "licencia": "obras de fans variadas; sólo como dato de recuento, no para usar las imágenes"
+  },
+  {
+    "url": "https://www.youtube.com/@HonkaiSpanishDubs",
+    "fuente": "YouTube — canal «Honkai Spanish Dubs»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Canal de comic dubs y fandubs latinos de Honkai: Star Rail (5330 suscriptores, 18 vídeos)",
+    "para_que": "fan dubs y comunidad hispana (punto 22)",
+    "licencia": "contenido de fans; enlazar como referencia, no descargar"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=p1EHkhaCGvs",
+    "fuente": "YouTube — ALANREQUIEM DUBS, «La novia de Caelus ✨ | Honkai Star Rail Fandub Latino»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fandub latino de una escena de Caelus (44 000 vistas)",
+    "para_que": "fan dubs y comunidad hispana (punto 22)",
+    "licencia": "contenido de fans; enlazar como referencia, no descargar"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=query&titles=Honkai:%20Star%20Rail&format=json",
+    "fuente": "Doblaje Wiki (API)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Confirmación de que la página de la obra no existe en Doblaje Wiki (missing)",
+    "para_que": "prueba de que no hay doblaje latino (punto 8)",
+    "licencia": "consulta de API, sin imagen"
+  }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "url": "https://www.dafont.com/arcane-nine.font",
+  "fuente": "dafont.com (fuente: Chequered Ink)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Arcane Nine: letra libre (100% Free, comprobado bajando el .otf real) que imita el logo hecho a mano de Arcane. Con fontTools trae á é í ó ú ñ Ñ ¿ ¡ ü completos.",
+  "para_que": "Rótulos y título que imiten el logo de la serie sin usar una fuente de pago.",
+  "licencia": "100% Free (dafont)"
+ },
+ {
+  "url": "https://github.com/google/fonts",
+  "fuente": "GitHub (Google Fonts), vía API fonts.googleapis.com/css2",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letras libres nuevas comprobadas por mí con fontTools (á é í ó ú ñ Ñ ¿ ¡ completos): Barlow (alternativa libre a Spiegel Sans, interfaz), Cardo (serif de cartela/créditos), Almendra Display (display fino con floritas), EB Garamond (serif clásica para créditos).",
+  "para_que": "Interfaz Hextech, cartelas de acto y créditos de estilo Arcane sin usar Beaufort/Spiegel (de pago).",
+  "licencia": "OFL (SIL Open Font License)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/c/c6/Piltover_Crest.png/revision/latest?cb=20241118070136",
+  "fuente": "Fandom Arcane Wiki (campo crest de la ficha oficial de Piltover)",
+  "ancho": 4042,
+  "alto": 4167,
+  "que_es": "Escudo/emblema oficial de Piltóver: un Hexgate (portal Hextech) parcialmente rodeado de un engranaje (símbolo oficial, campo 'symbol' de la ficha).",
+  "para_que": "Símbolo real de Piltóver para decorar sin texto (ver punto 25); corrige la suposición de 'engranaje de reloj'.",
+  "licencia": "© Riot Games. Material de ficha de wiki, fair use. Sólo referencia, no pegar sin comprobar más."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/b/bc/Zaun_Crest.png/revision/latest?cb=20241123234130",
+  "fuente": "Fandom Arcane Wiki (campo crest de la ficha oficial de Zaun)",
+  "ancho": 3487,
+  "alto": 4167,
+  "que_es": "Escudo/emblema oficial de Zaun: un vial químico alado (símbolo oficial, campo 'symbol' de la ficha). No es un triángulo.",
+  "para_que": "Símbolo real de Zaun para decorar sin texto (ver punto 25), en contraste con el de Piltóver.",
+  "licencia": "© Riot Games. Material de ficha de wiki, fair use. Sólo referencia, no pegar sin comprobar más."
+ },
+ {
+  "url": "https://wiki.play2xko.com/en-us/Jinx/Audio",
+  "fuente": "2XKO Wiki (wiki.play2xko.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Transcripción completa de las frases de Jinx en 2XKO (selección, intro, taunts, combate, especiales, supers, ultimate, outro). Sin captura del formato visual del subtítulo.",
+  "para_que": "Frases reales de Jinx para la guía de IA de texto (punto 17, la hace el redactor) y contexto del videojuego (punto 11).",
+  "licencia": "Contenido de Riot Games documentado por fans; wiki de comunidad."
+ },
+ {
+  "url": "https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/",
+  "fuente": "Destructoid",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo que confirma que Path of Champions (Legends of Runeterra) cuenta las historias de Jinx y Vi como 'cómics animados con voces' (animated comics and voiceovers).",
+  "para_que": "Referencia de formato de caja de diálogo de videojuego de la franquicia (punto 11), como alternativa a un globo de manga.",
+  "licencia": "Artículo periodístico, sólo como fuente de texto, no imagen."
+ },
+ {
+  "url": "https://formeinfullbloom.wordpress.com/2021/11/14/the-anicamera-in-arcane/",
+  "fuente": "Blog atelier emily, autora ajthefourth",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de cómo Arcane usa la cámara virtual ('anicámara'): grounded (como cámara real) en escenas cotidianas, imposible/libre en momentos emocionales clave.",
+  "para_que": "Punto 18: cómo encuadrar cada emoción al replicar el estilo (planos imposibles para momentos íntimos, cámara 'real' para acción).",
+  "licencia": "Artículo de blog, sólo como fuente de texto."
+ }
+]

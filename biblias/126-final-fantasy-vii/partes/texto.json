@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://www.dafont.com/reactor7.font",
+    "fuente": "dafont.com (Caveras)",
+    "ancho": 827,
+    "alto": 2174,
+    "que_es": "Mapa de caracteres de Reactor7, recreación libre de la fuente de píxel del texto principal de Final Fantasy VII (PS1, 1997)",
+    "para_que": "Letra libre para diálogos, menús y cuadros de texto estilo juego original (punto 5/6)",
+    "licencia": "Gratis para descargar en dafont.com; licencia exacta no detallada en la ficha, revisar antes de uso comercial"
+  },
+  {
+    "url": "https://dotcolon.net/fonts/ferrum/",
+    "fuente": "dotcolon.net (Japón)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ferrum: fuente romana estrecha hecha a propósito tomando como referencia el logo de FINAL FANTASY",
+    "para_que": "Logotipo del canal en mayúsculas/inglés (punto 5) — OJO: no tiene ñ/tildes/¿/¡, sólo ASCII básico, comprobado con fontTools",
+    "licencia": "No Rights Reserved (la más libre posible; el propio autor permite modificar y redistribuir)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cinzel",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Cinzel: mayúsculas romanas grabadas de alto contraste, la letra libre más parecida al logo rotulado de la saga",
+    "para_que": "Título/logo del canal (punto 5)",
+    "licencia": "OFL-1.1 (libre, comercial incluido); ñ/Ñ/tildes/¿/¡ comprobados con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Rajdhani",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Rajdhani: geométrica condensada de HUD futurista, cercana al estilo de interfaz de Remake/Rebirth",
+    "para_que": "Textos de interfaz o HUD del canal (punto 5/11)",
+    "licencia": "OFL-1.1 (libre, comercial incluido); ñ/Ñ/tildes/¿/¡ comprobados con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Anton",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Anton: condensada muy negra para titulares de impacto",
+    "para_que": "Énfasis de batalla tipo «CRITICAL!» o textos de aviso del canal (punto 5)",
+    "licencia": "OFL-1.1 (libre, comercial incluido); ñ/Ñ/tildes/¿/¡ comprobados con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Oswald",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Oswald: condensada de rótulo urbano/industrial",
+    "para_que": "Carteles del mundo (letreros de Shinra o de los barrios de Midgar) en la lámina (punto 5)",
+    "licencia": "OFL-1.1 (libre, comercial incluido); ñ/Ñ/tildes/¿/¡ comprobados con fontTools"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Barlow",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Barlow: sans limpia estándar de subtítulo",
+    "para_que": "Subtítulos o créditos de escenas cinemáticas en la lámina (punto 5)",
+    "licencia": "OFL-1.1 (libre, comercial incluido); ñ/Ñ/tildes/¿/¡ comprobados con fontTools"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/finalfantasy/images/6/61/FFVII_Materia_Menu_1.png/revision/latest?cb=20130127134416",
+    "fuente": "Final Fantasy Wiki (Fandom)",
+    "ancho": 633,
+    "alto": 433,
+    "que_es": "Captura oficial del menú de Materia de Final Fantasy VII (1997/PC), caja azul degradada con letra de píxel",
+    "para_que": "Referencia exacta del cuadro de diálogo/menú clásico para la lámina (punto 6); hex del degradado medidos aquí",
+    "licencia": "Captura de juego con copyright de Square Enix; uso editorial/referencia, no para pegar tal cual en la lámina final"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/finalfantasy/images/c/c9/Materia_%26_Equipment_Menu_from_FFVII_Remake.jpg/revision/latest?cb=20200530232644",
+    "fuente": "Final Fantasy Wiki (Fandom)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial del menú Materia & Equipment de Final Fantasy VII Remake, con créditos de diseño de personajes en pantalla",
+    "para_que": "Referencia del HUD romboidal de cristal y de los créditos de Nomura/Roberto Ferrari (punto 6/18)",
+    "licencia": "Captura de juego con copyright de Square Enix; uso editorial/referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/finalfantasy/images/8/82/Shinra_Electric_Power_Company_logo_from_Final_Fantasy_VII_Remake.png/revision/latest?cb=20200513021046",
+    "fuente": "Final Fantasy Wiki (Fandom)",
+    "ancho": 7087,
+    "alto": 7072,
+    "que_es": "Logo oficial en alta resolución de la Shinra Electric Power Company (rombo rojo, kanji 神羅)",
+    "para_que": "Emblema/símbolo del mundo para la lámina (punto 25); hex del rojo medido aquí",
+    "licencia": "Logo con copyright de Square Enix; uso editorial/referencia, no redistribuir como logo propio"
+  },
+  {
+    "url": "https://namelivia.com/final-fantasy-vii-scene-reconstruction-using-blender-part-1/",
+    "fuente": "namelivia.com (José Ignacio Amelivia Santiago)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tutorial técnico: reconstrucción de fondos pre-renderizados de FFVII en Blender con el add-on Blam",
+    "para_que": "Guía práctica para el punto 18 (cómo replicar el estilo en Blender)",
+    "licencia": "Blog personal, contenido de autor; el add-on Blam enlazado es gratuito en GitHub"
+  },
+  {
+    "url": "https://automaton-media.com/en/interviews/we-ask-final-fantasy-vii-remake-director-naoki-hamaguchi-about-the-switch-2-versions-hair-problem-why-does-it-happen-and-can-it-be-avoided/",
+    "fuente": "AUTOMATON WEST",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Entrevista directa a Naoki Hamaguchi (director de la trilogía Remake) sobre la técnica de renderizado del pelo (TAA, DRS, DLSS)",
+    "para_que": "Fuente primaria de técnica de producción para el punto 18",
+    "licencia": "Artículo periodístico; enlazar, no reproducir el texto completo"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/ss_5540aef3258019f77559ca77ef29ba893b61010f.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Final Fantasy VII Rebirth (combate, Cloud y compañero contra un dragón)",
+    "para_que": "Referencia de encuadre y composición diagonal en combate (punto 18)",
+    "licencia": "Captura oficial de tienda Steam, uso editorial/referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/ss_45513682d4c2e77b2a89e7bea00ec2851c110116.1920x1080.jpg",
+    "fuente": "Steam (store.steampowered.com)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Final Fantasy VII Rebirth (Sephiroth y Cloud enfrentados, composición en grupo)",
+    "para_que": "Referencia de pose enfrentada y luz de contorno para conceptos de lámina",
+    "licencia": "Captura oficial de tienda Steam, uso editorial/referencia"
+  },
+  {
+    "url": "https://store.steampowered.com/app/4354570/FINAL_FANTASY_VII_REVELATION",
+    "fuente": "Steam / Square Enix",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha oficial de Final Fantasy VII Revelation, cierre de la trilogía Remake (preventa, lanzamiento 8 abr 2027)",
+    "para_que": "Confirmación de la franquicia activa y su estética heredada (punto 11)",
+    "licencia": "Página oficial de tienda; no descargable como imagen suelta"
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "url": "https://www.famitsu.com/news/202109/17234166.html",
+    "fuente": "Famitsu",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Encuesta oficial de popularidad de Persona 5 por su 5º aniversario (PlayStation Japón, 2021), con el ranking completo y los votos de cada personaje",
+    "para_que": "Punto 7: encuesta de popularidad oficial",
+    "licencia": "Artículo de prensa japonesa, sólo como fuente de datos"
+  },
+  {
+    "url": "https://mynintendonews.com/2023/01/03/atlus-sega-reveal-results-for-the-persona-5-royal-character-popularity-poll/",
+    "fuente": "My Nintendo News",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Encuesta oficial de popularidad de Persona 5 Royal (Atlus/SEGA, 2023) con el ranking de 10 personajes",
+    "para_que": "Punto 7: segunda encuesta oficial, para comparar con la de 2021",
+    "licencia": "Artículo de prensa, sólo como fuente de datos"
+  },
+  {
+    "url": "https://www.nintendolife.com/news/2023/01/atlus-reveals-most-popular-persona-5-royal-character-in-official-poll",
+    "fuente": "Nintendo Life",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda fuente de la encuesta oficial de Persona 5 Royal (2023)",
+    "para_que": "Punto 7: confirmar en dos fuentes la encuesta de 2023",
+    "licencia": "Artículo de prensa, sólo como fuente de datos"
+  },
+  {
+    "url": "https://anilist.co/manga/98652",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la obra con favoritos de usuarios por personaje, cumpleaños, altura y personalidad base",
+    "para_que": "Puntos 7 y 20: favoritos de fans y datos de ficha por personaje",
+    "licencia": "Datos públicos de la API de AniList"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=query&list=allpages&apprefix=Persona&format=json",
+    "fuente": "Doblaje Wiki (api.php)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Comprobación de que Persona 5 no tiene página en Doblaje Wiki (no hay doblaje latino oficial)",
+    "para_que": "Punto 8: confirmar la ausencia de doblaje latino",
+    "licencia": "Consulta a la API pública de Fandom"
+  },
+  {
+    "url": "https://dubbing.fandom.com/wiki/Persona_5:_The_Animation",
+    "fuente": "Dubbing Database (ficha internacional de doblajes)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa del doblaje del anime Persona 5: The Animation, seiyū y actor en inglés por personaje (sin sección en español)",
+    "para_que": "Punto 8: reparto de seiyū y confirmar que sólo existe doblaje al inglés",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://gamebanana.com/wips/85365",
+    "fuente": "GameBanana",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página oficial del mod de fans \"Persona 5 LATAM Visions\": traducción y futuro doblaje al español latino de Persona 5 Royal",
+    "para_que": "Punto 22: el proyecto de fandub/traducción latino más grande de la obra",
+    "licencia": "Mod de fans no oficial, sin licencia comercial; sólo como referencia"
+  },
+  {
+    "url": "https://www.xataka.com.mx/videojuegos/buscabas-pretexto-para-volver-a-jugar-persona-5-royal-tienes-motivo-conoce-mod-doblaje-latino",
+    "fuente": "Xataka México",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reportaje sobre el mod \"Persona 5 LATAM Visions\" y su tráiler de voces en español latino",
+    "para_que": "Punto 22: contexto y segunda fuente del proyecto de fandub",
+    "licencia": "Artículo de prensa, sólo como fuente de datos"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Usuario_Blog:SupaKaminari/Propuesta:_Persona_5",
+    "fuente": "Doblaje Wiki (blog de propuesta de fan)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Propuesta de reparto de doblaje latino imaginario para Persona 5, hecha por un usuario (NO es un doblaje real)",
+    "para_que": "Punto 22: ejemplo de fan-casting de la comunidad hispana de doblaje",
+    "licencia": "Contenido de fan, claramente marcado como propuesta no oficial"
+  },
+  {
+    "url": "https://propuestas-fanon.fandom.com/es/wiki/Persona_5",
+    "fuente": "Propuestas de fans del Doblaje (wiki de fanon)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda propuesta de fan-casting de doblaje latino para Persona 5 (NO oficial)",
+    "para_que": "Punto 22: segundo ejemplo de fan-casting",
+    "licencia": "Contenido de fan, claramente marcado como propuesta no oficial"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6gu5mf?t=15",
+    "fuente": "Dailymotion (canal Gematsu)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tráiler oficial #2 de Persona 5: The Animation; fotograma de Joker sonriendo con picardía al ponerse la máscara",
+    "para_que": "Punto 13: cara de Joker en confianza/picardía, con minuto exacto",
+    "licencia": "Vídeo oficial de terceros, sólo como referencia de encuadre/expresión, no para usar el clip en sí"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6gu5mf?t=79",
+    "fuente": "Dailymotion (canal Gematsu)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mismo tráiler; fotograma de Joker con mirada fija y determinada antes de transformarse",
+    "para_que": "Punto 13: cara de Joker en determinación",
+    "licencia": "Vídeo oficial de terceros, sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6gu5mf?t=30",
+    "fuente": "Dailymotion (canal Gematsu)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mismo tráiler; fotograma de Morgana (forma gato) saltando con la boca abierta, alegre",
+    "para_que": "Punto 13: cara de Morgana en alegría",
+    "licencia": "Vídeo oficial de terceros, sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6uu26k?t=16",
+    "fuente": "Dailymotion (canal !t Live, doblaje inglés con subtítulos)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Clip del episodio de playa; Ryuji sin camisa gritando \"Swimsuits!\" de la emoción",
+    "para_que": "Punto 13: cara de Ryuji en alegría/euforia",
+    "licencia": "Vídeo de terceros (reedición de doblaje oficial en inglés), sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6uu26k?t=40",
+    "fuente": "Dailymotion (canal !t Live)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mismo clip; Morgana diciendo \"You look beautiful, Lady Ann!\"",
+    "para_que": "Punto 13: cómo se expresa Morgana (apodo cariñoso) con minuto",
+    "licencia": "Vídeo de terceros, sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6uu26k?t=92",
+    "fuente": "Dailymotion (canal !t Live)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mismo clip; Yusuke con dos langostas, diciendo que se enamoró de su forma nada más verlas",
+    "para_que": "Punto 13 y 12: la manía real de Yusuke con la comida/langostas, con diálogo y minuto",
+    "licencia": "Vídeo de terceros, sólo como referencia"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Memes/Persona5",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de memes y chistes internos del fandom de Persona 5 (FOR REAL?!, langosta de Yusuke, guantes de Joker, etc.)",
+    "para_que": "Punto 12: qué ama el fandom y qué NO hacer",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/Persona5",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de escenas que hacen llorar de Persona 5, con contexto de cada una",
+    "para_que": "Punto 21: escenas que hacen llorar",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://lparchive.org/Persona-5/Update%20184/",
+    "fuente": "LP Archive (Let's Play transcrito con capturas)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Transcripción con capturas reales del juego de la escena del \"sacrificio\" de Ryuji (fecha in-game 12/8), con la música exacta (\"Collapse of Pride\")",
+    "para_que": "Punto 21: confirmar con capturas literales la escena y su música",
+    "licencia": "Let's Play de fans (capturas del juego con fines de comentario/crítica), sólo como referencia"
+  },
+  {
+    "url": "https://lparchive.org/Persona-5/Update%20210/",
+    "fuente": "LP Archive",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Transcripción con capturas reales de la despedida final del juego (fecha in-game 3/19), con la música exacta (\"Sunset Bridge\")",
+    "para_que": "Punto 21: confirmar con capturas literales la escena final y su música",
+    "licencia": "Let's Play de fans, sólo como referencia"
+  },
+  {
+    "url": "https://personacentral.com/p5-p5r-10-million-sales/",
+    "fuente": "Persona Central",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cifras de ventas mundiales de Persona 5 y Persona 5 Royal (10,46 millones combinados, agosto de 2025)",
+    "para_que": "Punto 21: por qué la gente la ama, con números de ventas",
+    "licencia": "Artículo de prensa especializada, sólo como fuente de datos"
+  },
+  {
+    "url": "https://www.metacritic.com/game/persona-5-royal/",
+    "fuente": "Metacritic",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota media de la crítica de Persona 5 Royal (95/100)",
+    "para_que": "Punto 21: por qué la gente la ama, con la nota de crítica",
+    "licencia": "Agregador de reseñas, sólo como fuente de datos"
+  },
+  {
+    "url": "https://megamitensei.fandom.com/wiki/Ryuji_Sakamoto",
+    "fuente": "Megami Tensei Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Ryuji Sakamoto: personalidad, altura oficial (artbook), cita textual de su forma de hablar",
+    "para_que": "Punto 13: carácter y forma de hablar de Ryuji",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://megamitensei.fandom.com/wiki/Ann_Takamaki",
+    "fuente": "Megami Tensei Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Ann Takamaki: personalidad y cita textual antes de despertar su Persona",
+    "para_que": "Punto 13: carácter y forma de hablar de Ann",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6gzgvk&t=168",
+    "fuente": "Dailymotion (canal kirill_y, «First 6 Minutes»)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Episodio 1 real del anime («I am Thou, Thou Art I»); fotograma de Ren Amamiya justo tras el primer golpe del interrogatorio ilegal de Sae Niijima, esposado y con una lágrima cayendo",
+    "para_que": "Punto 13: cara de Ren/Joker en miedo, con episodio y minuto exactos",
+    "licencia": "Fragmento de emisión de TV subido por un canal de fans, sólo como referencia de encuadre/expresión"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6gzgvk&t=345",
+    "fuente": "Dailymotion (canal kirill_y, «First 6 Minutes»)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mismo episodio 1; fotograma de Ren con las manos ensangrentadas en la cara, lágrimas cayendo en silencio, ya sin fuerzas",
+    "para_que": "Punto 13: cara de Ren/Joker en tristeza, con episodio y minuto exactos",
+    "licencia": "Fragmento de emisión de TV subido por un canal de fans, sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6uu26k&t=46",
+    "fuente": "Dailymotion (canal !t Live, doblaje inglés con subtítulos)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Episodio 18 real del anime («I'll guide you to victory», la salida a la playa por Futaba); fotograma de Ann Takamaki regañando a Ryuji, boca abierta y ceño fruncido: «Hey, cut it out!»",
+    "para_que": "Punto 13: cara de Ann en rabia/enfado, con episodio y minuto exactos",
+    "licencia": "Vídeo de terceros (reedición de doblaje oficial en inglés), sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x6uu26k&t=24",
+    "fuente": "Dailymotion (canal !t Live)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mismo episodio 18; fotograma de Futaba Sakura cubriéndose con el brazo, sonrojada e insegura estrenando bañador: «W-What do you think?»",
+    "para_que": "Punto 13: cara de Futaba en vergüenza, con episodio y minuto exactos",
+    "licencia": "Vídeo de terceros, sólo como referencia"
+  },
+  {
+    "url": "https://megamitensei.fandom.com/wiki/List_of_Persona_5_The_Animation_Episodes",
+    "fuente": "Megami Tensei Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de episodios del anime con sinopsis oficial de cada uno; confirma que el interrogatorio es el Episodio 1 y la playa de Futaba el Episodio 18",
+    "para_que": "Punto 13: identificar con una segunda fuente el episodio exacto de cada fotograma nuevo",
+    "licencia": "Texto de wiki de fans, con fuente citada en la biblia"
+  }
+]

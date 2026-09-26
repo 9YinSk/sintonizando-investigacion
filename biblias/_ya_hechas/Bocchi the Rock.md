@@ -209,13 +209,16 @@ fallo de señal"**. Esta investigación lo confirma y lo amplía:
   entrada con neón rojo y azul, piso a cuadros, una barra chiquita al fondo.
   Fuente: [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/bocchi-the-rock-anime-locations-shimokitazawa/),
   [voyapon.com](https://voyapon.com/bocchi-the-rock-locations/).
-- **La caja de cartón de Bocchi**: se esconde dentro de una caja de cartón
-  corriente cuando la ansiedad la supera — es SU refugio portátil, no un
-  objeto de la banda. (El encargo la llama "caja de mangos": no encontré esa
-  caja específica en la serie — sí hay mercancía que empaqueta las figuras en
-  una caja con estampado de cartón de fruta como broma visual, pero el gag
-  original de la serie es una **caja de cartón lisa**. Uso "caja de cartón"
-  para no inventar un objeto que no está en el show.)
+- **La caja de mangos de Bocchi**: en el **episodio 1** toca su primer
+  concierto en STARRY **metida dentro de una caja de cartón de mangos**, idea de
+  Ryo para calmarle los nervios; por eso Seika la llama **«Mango Mask»**
+  (マンゴー仮面, manga tomo 1, cap. 4, pág. 35). Es SU refugio portátil y uno de
+  los gags más reconocidos de la serie. Fuente: ficha de
+  [Hitori Gotoh en la wiki](https://bocchi-the-rock.fandom.com/wiki/Hitori_Gotoh)
+  («performing her first live house show from inside a cardboard mango box»,
+  Season 1, Episode 1).
+  > Corregido el 24-sep-2026: la primera versión decía que la «caja de mangos»
+  > del encargo era una confusión y que el gag era una caja lisa. Era un error.
 - El **micrófono y el cableado del escenario**, los **amplificadores**, y los
   **flyers de conciertos pegados en las paredes de ladrillo** son atrezzo
   típico de cualquier escena en STARRY.
@@ -224,7 +227,7 @@ fallo de señal"**. Esta investigación lo confirma y lo amplía:
 
 | Personaje | Pose típica | Manía | Frase (original/sub, no verificada en audio latino) |
 |---|---|---|---|
-| Bocchi | encorvada, guitarra pegada al cuerpo, mirada al piso — o, tocando, totalmente distinta: espalda recta, ojos cerrados | se esconde en su caja de cartón; tiembla como gelatina | «Incluso alguien encerrada como yo puede brillar si tengo una guitarra.» |
+| Bocchi | encorvada, guitarra pegada al cuerpo, mirada al piso — o, tocando, totalmente distinta: espalda recta, ojos cerrados | se esconde en su caja de mangos (ep. 1); tiembla como gelatina | «Incluso alguien encerrada como yo puede brillar si tengo una guitarra.» |
 | Kita | sonrisa grande, señala con el micrófono, salta al cantar | destellos alrededor cuando entra en un cuarto | «Voy a esforzarme para ser una guitarrista digna de Hitori-chan.» |
 | Nijika | brazos abiertos animando al grupo, baquetas girando | siempre motivando a Bocchi a salir de su caja | «Voy a hacer de esta banda la mejor, ¡así que prepárate!» |
 | Ryo | apoyada en su bajo con desgano, mano extendida pidiendo | vive de una familia con dinero pero siempre está sin un yen | «Si abuchean, les doy con el bajo.» |
@@ -242,7 +245,7 @@ doblaje latino línea por línea):
   tipo criptozoológico (tsuchinoko) que se vuelve un "monstruo atención-whore"
   gigante — el fandom lo usa como mascota/formato de meme para dibujarla.
   Fuente: búsqueda TVTropes/pixiv.
-- **La caja de cartón**: el meme más repetido de todos ("Bocchi cardboard box
+- **La caja (de mangos, en el ep. 1)**: el meme más repetido de todos ("Bocchi cardboard box
   slam", figuras que "se esconden" en una caja de verdad). Fuente:
   [knowyourmeme.com](https://knowyourmeme.com/photos/2497735-bocchi-the-rock).
 - **Ryo y el dinero**: viene de familia rica pero siempre está sin plata
@@ -260,7 +263,8 @@ doblaje latino línea por línea):
 - No usar las fotos de **LIVE STAGE** (`081`, `082`, `083`, `200`) como arte
   final recortado — son fotografía real de actrices, no van con la línea
   plana del anime. Sólo sirven para copiar la pose.
-- No inventar la "caja de mangos": el gag real es una caja de cartón lisa.
+- No cambiar la caja de mangos por una caja de cartón lisa: el fan reconoce la
+  de mangos (episodio 1, «Mango Mask»).
 - No repetir el letrero de STARRY tal cual sin nada delante — necesita algo en
   primer plano (un ampli, un cable, una mano) para que no quede plano.
 
@@ -283,8 +287,8 @@ brilla en la pared del fondo, medio tapado por el humo de escenario.
 
 ### Concepto B — "Detrás del escenario, la caja de Bocchi"
 Escena en el camerino/bambalinas de STARRY, no en el escenario — así se ve
-otra parte del mismo mundo. El objeto es una **caja de cartón real** (la de
-Bocchi) usada como tablón: la ficha (Nombre / Registro / Estilos / etc.) va
+otra parte del mismo mundo. El objeto es una **caja de cartón de mangos real** (la de
+Bocchi en el episodio 1) usada como tablón: la ficha (Nombre / Registro / Estilos / etc.) va
 escrita a marcador en sus solapas abiertas, como si alguien la hubiera
 convertido en pizarra de last-minute. Bocchi se asoma apenas por encima del
 borde de la caja, con su guitarra negra asomando también (pose de `030.png`);
@@ -318,9 +322,8 @@ luz misma diga quién es quién sin necesidad de etiqueta.
   artículos especializados (linkeados arriba), no de mirar el video yo mismo.
   Si quieres el desmontaje real del opening (ritmo de corte, tipografía en
   movimiento), se puede pedir aparte con esa skill.
-- **La "caja de mangos"** del encargo: no encontré ese objeto específico en la
-  serie ni en la wiki — lo dejé anotado como posible confusión con el gag de
-  la caja de cartón lisa (punto 7). Si tienes una fuente de dónde salió, dímelo
-  y lo reviso.
+- ~~La "caja de mangos" del encargo: no encontré ese objeto~~ — **corregido el
+  24-sep-2026**: sí existe (episodio 1 y ficha de Hitori Gotoh en la wiki). Ver
+  punto 7.
 - Los **códigos hex de la paleta** (punto 4) son de guías hechas por fans, no
   de un pantone oficial de CloverWorks/Aniplex — trátalos como orientación.

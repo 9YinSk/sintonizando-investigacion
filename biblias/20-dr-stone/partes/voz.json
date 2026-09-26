@@ -1,0 +1,245 @@
+[
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Dr._Stone",
+    "fuente": "Doblaje Wiki (API, wikitext completo)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa del doblaje latino: reparto principal, secundario, recurrente y episódico; estudio, dirección, traducción; sección «Datos de interés» con cambios de actor y curiosidades de adaptación.",
+    "para_que": "Base de §8 (reparto completo con actores secundarios que no estaban en biblia §10) y de la confirmación con dos fuentes de Tsukasa=Arturo Cataño.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom). Sólo consulta, no se copia entero."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/6/6b/GenAsagiriBrandonSantini.mp3/revision/latest?cb=20231223044242&path-prefix=es",
+    "fuente": "Doblaje Wiki, página de actor Brandon Santini",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Muestra de audio con diálogo real de Gen Asagiri (a Magma), interpretado por Brandon Santini. 28 segundos.",
+    "para_que": "§8.4 y §13: voz medida con voz.py (registro muy agudo 398 Hz, 22,9 semitonos de rango, 3,1 palabras/s) para describir cómo suena Gen con datos, no de memoria.",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki (fair use / muestra corta). Sólo consulta y análisis, no redistribuir el archivo."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/7/76/Alejandro_Orozco_Demo_Voces.ogg/revision/latest?cb=20180708194728&path-prefix=es",
+    "fuente": "Doblaje Wiki, página de actor Alejandro Orozco",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Carrete de demo general del actor (no es diálogo de Dr. Stone): varios personajes y tonos, 2:52.",
+    "para_que": "§8.4: rango vocal del actor de Senku medido con voz.py (registro medio 174 Hz, 26,3 semitonos, velocidad normal). Dato del actor, no del personaje en pantalla.",
+    "licencia": "Muestra de doblaje subida por Doblaje Wiki. Sólo consulta y análisis."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Senku_Ishigami#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de la ficha de Senku: catchphrases exactas, alergia a la laca, chiste recurrente del matrimonio-divorcio con Ruri, origen del nombre.",
+    "para_que": "§13 y §20: carácter y gustos de Senku con fuente concreta, no genérica.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Gen_Asagiri#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Gen: mecanismo exacto de su tic verbal (sílabas invertidas), la flor que usa en sus trucos (hierba mora negra = «mentiroso»), que sólo bebe cola, sus tres cartas comodín, su lenguaje corporal (esconde manos, encorva la espalda).",
+    "para_que": "§13 y §20: forma de hablar y gustos de Gen con mecanismo exacto, y §12 (qué NO hacer: nunca con alcohol).",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Chrome#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Chrome: su nombre viene del elemento químico cromo (número atómico 24, igual que su cumpleaños 2/4), gag recurrente de que sólo Kohaku (y a veces Ginro) lo golpea por llamarla gorila.",
+    "para_que": "§13: el chiste de nombre/cumpleaños de Chrome, pensado por el autor.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Kaseki#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Kaseki: se le rompe la ropa cuando se emociona (incluso ropa difícil de hacer), su apego a los vehículos y tristeza cuando los desguazan/reciclan, cumpleaños compartido con Yakov Nikitin.",
+    "para_que": "§12 (qué NO hacer: no dejarlo con ropa impecable) y §13/§20 (su apego a las máquinas).",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Suika#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Suika: hablaba de sí misma en tercera persona de niña y lo dejó al crecer; su casco de sandía original lo hizo Kaseki, no ella.",
+    "para_que": "§13 y §20: forma de hablar y objeto icónico de Suika con fuente.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Kohaku#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Sección Trivia de Kohaku: primera chica en besar a Senku, primera humana del Stone World en pisar la Luna (más adelante en la historia), gag de que sólo golpea a Chrome/Ginro por llamarla gorila.",
+    "para_que": "§20: cómo se ve a sí misma Kohaku.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Ryusui_Nanami#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Trivia y cita textual de Ryusui: «My sailor's instincts are never wrong!», su postura sobre el amor sin género.",
+    "para_que": "§20: gustos y autopercepción de Ryusui.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://dr-stone.fandom.com/wiki/Tsukasa_Shishio#Trivia",
+    "fuente": "Dr. Stone Wiki (Fandom, en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Trivia de Tsukasa: significado de su nombre (rey león), su ideología descrita como anarco-primitivista, puestos en las encuestas de popularidad.",
+    "para_que": "§20: cómo se ve a sí mismo Tsukasa.",
+    "licencia": "Wiki de fans (CC BY-SA)."
+  },
+  {
+    "url": "https://myanimelist.net/anime/38691",
+    "fuente": "MyAnimeList (datos vía api.jikan.moe/v4/anime/38691)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota 8,26/10 (1.191.080 votos), puesto #372 general, #49 en popularidad, 1.974.878 miembros, 31.662 favoritos.",
+    "para_que": "§21.1: números que confirman por qué la gente la ama.",
+    "licencia": "Datos públicos de MyAnimeList vía API no oficial Jikan. Sólo consulta."
+  },
+  {
+    "url": "https://www.fandompost.com/2026/03/22/manga-by-the-numbers-dr-stone-crosses-20-million-volume-mark/",
+    "fuente": "The Fandom Post",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo de marzo de 2026: el manga de Dr. Stone supera los 20 millones de copias en circulación (27 tomos).",
+    "para_que": "§21.1: ventas del manga.",
+    "licencia": "Artículo periodístico. Sólo cita y enlace."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/4th_Crunchyroll_Anime_Awards",
+    "fuente": "Wikipedia (en inglés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de ganadores de los 4.º Crunchyroll Anime Awards (2020): Senku Ishigami, Mejor Protagonista.",
+    "para_que": "§21.1: premio oficial de Senku.",
+    "licencia": "Wikipedia, CC BY-SA."
+  },
+  {
+    "url": "https://www.cbr.com/crunchyroll-anime-award-winners/",
+    "fuente": "CBR (Comic Book Resources)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Repaso de todos los ganadores de los Crunchyroll Anime Awards 2020, confirma a Senku como Mejor Protagonista.",
+    "para_que": "§21.1: segunda fuente del premio de Senku.",
+    "licencia": "Artículo periodístico. Sólo cita y enlace."
+  },
+  {
+    "url": "https://www.reddit.com/r/DrStone/comments/1v6dnxe/",
+    "fuente": "Reddit r/DrStone (vía arctic-shift.photon-reddit.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo «Has Dr. Stone ever made you cry and if so which part?», 734 votos, 94 comentarios: Byakuya, la cámara de Minami, las gafas de Suika, Ruri curada, la invasión de Stanley, el final de la serie (con un comentario en español).",
+    "para_que": "§21.3: escenas que hacen llorar y reacción real del fandom, con un comentario textual en español de un fan hispano.",
+    "licencia": "Contenido público de Reddit, CC-like (licencia de Reddit). Sólo cita corta."
+  },
+  {
+    "url": "https://www.reddit.com/r/DrStone/comments/1v9z5u5/",
+    "fuente": "Reddit r/DrStone (vía arctic-shift.photon-reddit.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo «Who is the character you relate to the most, and why?», 126 votos, 210 comentarios: identificación con Chrome y Gen («coleccionar piedras, cola, chicos científicos»).",
+    "para_que": "§12 y §21.2: con qué personaje se identifica el público y por qué.",
+    "licencia": "Contenido público de Reddit. Sólo cita corta."
+  },
+  {
+    "url": "https://www.reddit.com/r/DrStone/comments/1sn8x9v/",
+    "fuente": "Reddit r/DrStone",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Hilo «As a programmer, Sai is my favorite character and the anime is spot on accurate», 114 votos, 19 comentarios.",
+    "para_que": "§21.2: identificación profesional con un personaje secundario.",
+    "licencia": "Contenido público de Reddit."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0nQIJhVza68",
+    "fuente": "YouTube, canal Alex Fandubs (confirmado con oembed, sin login)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub latino de una escena de Dr. Stone: New World, «Búsqueda del tesoro».",
+    "para_que": "§22.1: fandubs hispanos de escenas.",
+    "licencia": "Vídeo de fans en YouTube. Sólo enlace, no se descarga."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vwxypyHzAN0",
+    "fuente": "YouTube, canal Zacky-Kun Fandubs (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub latino del tráiler de Dr. Stone.",
+    "para_que": "§22.1: fandubs hispanos.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qAwQZEOBDRc",
+    "fuente": "YouTube, canal Olea Dubs (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub latino, «La cocina de Senku».",
+    "para_que": "§22.1: fandubs hispanos.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VmHCWf4_ByU",
+    "fuente": "YouTube, canal EnmaDS - EnmanuelDSite (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fandub/cover en español del ending de Dr. Stone, versión completa.",
+    "para_que": "§22.1 y §22.2: fandub y cover musical en español.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WT3Gm4_igIs",
+    "fuente": "YouTube, canal David Delgado (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover en español latino del Opening 2 «Sangenshoku».",
+    "para_que": "§22.2: covers de openings en español.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mGPjLinWsO8",
+    "fuente": "YouTube, canal David Delgado (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Recopilación «Dr. STONE Todos los Openings en Español Latino».",
+    "para_que": "§22.2: covers de openings en español, uno solo con varios openings.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MAzpBwx41Kc",
+    "fuente": "YouTube, canal André - A! / Edgardo Artieda (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover en español latino del Opening 8 «SKINS».",
+    "para_que": "§22.2: covers de openings en español.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eNZ_2736ZB4",
+    "fuente": "YouTube, canal FUGATOON (oembed)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cover en español latino del Opening 3 «Rakuen».",
+    "para_que": "§22.2: covers de openings en español.",
+    "licencia": "Vídeo de fans en YouTube."
+  },
+  {
+    "url": "https://www.tiktok.com/discover/10-mil-millones-por-ciento",
+    "fuente": "TikTok (página de descubrimiento/hashtag)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Actividad de TikTok en español alrededor del meme «10 mil millones por ciento» de Senku, 2022-2026.",
+    "para_que": "§12 y §22.3: meme vivo en la comunidad hispana.",
+    "licencia": "Plataforma pública. Sólo enlace y descripción, no se descarga contenido."
+  }
+]

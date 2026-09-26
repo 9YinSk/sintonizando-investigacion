@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/7/7a/Providence_Certificate.jpg",
+    "fuente": "Generator Rex Wiki (Fandom)",
+    "ancho": 1208,
+    "alto": 920,
+    "que_es": "Certificado \"Decree of Commendation\" de Providence: prop con el logo de Providence (P geométrica) y tipografía de sello burocrático/diploma",
+    "para_que": "referencia de tipografía del mundo (punto 5) y símbolo de Providence (punto 25)",
+    "licencia": "© Cartoon Network / Man of Action; captura de la serie, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/generator-rex-website-tour/generator-rex-website-tour.thumbs/Generator%20Rex%20Website%20Tour_000029.jpg",
+    "fuente": "Internet Archive (generator-rex-website-tour, fotograma ~0:00:28)",
+    "ancho": 720,
+    "alto": 576,
+    "que_es": "Captura del sitio oficial archivado cartoonnetwork.com/generatorrex: logo real, menú y panel de biografía tipo HUD",
+    "para_que": "referencia exacta del logo (punto 5) y de la cartela/interfaz tipo HUD para el cuadro de diálogo (punto 6)",
+    "licencia": "© Cartoon Network; grabación de usuario en Internet Archive, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/generator-rex-website-tour/generator-rex-website-tour.thumbs/Generator%20Rex%20Website%20Tour_000149.jpg",
+    "fuente": "Internet Archive (generator-rex-website-tour, fotograma ~0:02:29)",
+    "ancho": 720,
+    "alto": 576,
+    "que_es": "Captura del visor 3D interactivo de los \"builds\" de Rex en el sitio oficial, con pantalla de carga tipo interfaz de videojuego",
+    "para_que": "referencia de interfaz de videojuego/sitio (puntos 6 y 11)",
+    "licencia": "© Cartoon Network; grabación de usuario en Internet Archive, sólo referencia"
+  },
+  {
+    "url": "https://archive.org/details/PS3_Longplay_141_Generator_Rex_Agent_of_Providence",
+    "fuente": "Internet Archive",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Longplay completo en vídeo del videojuego \"Generator Rex: Agent of Providence\" (PS3), con menús, HUD y texto de misión reales",
+    "para_que": "fuente primaria para el punto 11 (interfaz y cajas de diálogo del videojuego)",
+    "licencia": "vídeo de usuario en Internet Archive; el juego es © Cartoon Network / THQ, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/e/e4/Rex_Build_Omnitrix.webp",
+    "fuente": "Generator Rex Wiki (Fandom)",
+    "ancho": 1125,
+    "alto": 1377,
+    "que_es": "Arte promocional del crossover Ben 10/Generator Rex: Heroes United (recogido ya por el investigador de imagen)",
+    "para_que": "referencia para el punto 24 (obra parecida/crossover oficial con Ben 10)",
+    "licencia": "© Cartoon Network / Man of Action; sólo referencia"
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/Generator_Rex:_Agent_of_Providence",
+    "fuente": "Generator Rex Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha completa del videojuego de consola: armas jugables, niveles, árbol de habilidades por arma, personajes",
+    "para_que": "fuente de texto para el punto 11 (videojuegos de la franquicia)",
+    "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/M._Rex",
+    "fuente": "Generator Rex Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del cómic precursor M. Rex (1999, Image Comics), creado por Joe Kelly y Duncan Rouleau",
+    "para_que": "fuente de texto para el punto 24 (obra parecida/origen de la franquicia)",
+    "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/Jose_Lopez",
+    "fuente": "Generator Rex Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del diseñador de personajes Jose Lopez, con su trayectoria (Jackie Chan Adventures, Green Lantern: First Flight, Transformers: Prime)",
+    "para_que": "fuente de texto para el punto 18 (estilo de dibujo y técnica) y 24 (obras parecidas)",
+    "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Black+Ops+One",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre \"Black Ops One\": bloque grueso stencil, la más parecida al logo real de Generator Rex, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "letra de reemplazo para el título/logo del canal (punto 5)",
+    "licencia": "SIL Open Font License 1.1 (libre, comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Comic+Neue",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre \"Comic Neue\": alternativa abierta a Comic Sans pensada para lettering real de cómic, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "letra para el cuadro de diálogo tipo cómic (punto 6)",
+    "licencia": "SIL Open Font License 1.1 (libre, comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre \"Bangers\": gruesa e inclinada tipo grito/onomatopeya de cómic de acción, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "letra para grito/onomatopeya (punto 5 y 6)",
+    "licencia": "SIL Open Font License 1.1 (libre, comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Audiowide",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre \"Audiowide\": técnica/futurista para HUD, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "letra para interfaz de videojuego/HUD de Providence (punto 5 y 11)",
+    "licencia": "SIL Open Font License 1.1 (libre, comercial permitido)"
+  },
+  {
+    "url": "https://www.dafont.com/generator-rex.font",
+    "fuente": "dafont.com (autor SpideRaYsfoNtS)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente fan-hecha que imita el logo oficial de Generator Rex (engranaje de 8 dientes); comprobada con fontTools: sin tildes, ñ, ¿ ni ¡",
+    "para_que": "referencia visual del logo (punto 5), NO usar en la lámina: licencia sólo para uso personal, prohíbe medios públicos",
+    "licencia": "Gratis sólo para uso personal; prohibido uso público sin permiso del autor (ver License - READ THIS.txt)"
+  }
+]

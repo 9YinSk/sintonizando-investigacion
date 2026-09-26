@@ -1,0 +1,173 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/cyberpunk/images/5/5f/Arasaka_Logo_CP2077.png",
+    "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Logo oficial de la corporación Arasaka (el mismo universo que Edgerunners).",
+    "para_que": "Punto 19: emblema/logo para texturas 2D (carteles, pegatinas de la recreativa).",
+    "licencia": "Propiedad de CD PROJEKT RED; sólo referencia visual, no reutilizar el archivo."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/cyberpunk/images/6/67/Militech_Logo_CP2077.png",
+    "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+    "ancho": 3840,
+    "alto": 582,
+    "que_es": "Logo oficial de la corporación Militech.",
+    "para_que": "Punto 19: emblema/logo para texturas 2D.",
+    "licencia": "Propiedad de CD PROJEKT RED; sólo referencia visual."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/cyberpunk/images/a/ae/Kiroshi_Logo_CP2077.png",
+    "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+    "ancho": 502,
+    "alto": 116,
+    "que_es": "Logo oficial de la corporación Kiroshi Optics.",
+    "para_que": "Punto 19: emblema/logo para texturas 2D.",
+    "licencia": "Propiedad de CD PROJEKT RED; sólo referencia visual."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/cyberpunk/images/c/c8/Trauma_Team_Logo_CP2077.png",
+    "fuente": "Cyberpunk Wiki (Fandom), API imageinfo",
+    "ancho": 3134,
+    "alto": 1064,
+    "que_es": "Logo oficial de la corporación médica Trauma Team.",
+    "para_que": "Punto 19: emblema/logo para texturas 2D.",
+    "licencia": "Propiedad de CD PROJEKT RED; sólo referencia visual."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/cyberpunk/images/1/15/Rebecca_Acquiring_Guts_CPEDGEMAD.jpg",
+    "fuente": "Cyberpunk Wiki (Fandom), manga Edgerunners MADNESS",
+    "ancho": 914,
+    "alto": 634,
+    "que_es": "Página del manga oficial MADNESS: Rebecca consigue la escopeta Guts, con trama de rejilla y líneas de velocidad.",
+    "para_que": "Punto 19: referencia real de la trama de manga (screentone) de la franquicia.",
+    "licencia": "Propiedad de CD PROJEKT RED / KADOKAWA; sólo mirar, no reutilizar el archivo."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/cyberpunk/images/7/70/Rebecca_%28Madness%29_Infobox_CPEDGE.png",
+    "fuente": "Cyberpunk Wiki (Fandom), manga Edgerunners MADNESS",
+    "ancho": 702,
+    "alto": 816,
+    "que_es": "Retrato de Rebecca niña del manga MADNESS, con trama de rejilla en el cuello y hombros.",
+    "para_que": "Punto 19: otra muestra de la trama de manga oficial.",
+    "licencia": "Propiedad de CD PROJEKT RED / KADOKAWA; sólo mirar."
+  },
+  {
+    "url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Paper004.png",
+    "fuente": "ambientCG, API v2",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura de grano de papel envejecido (Paper004), mapa hasta 2048x2048.",
+    "para_que": "Punto 19: grano de papel real equivalente al del manga/cartones de cuenta atrás.",
+    "licencia": "CC0 (ambientCG)."
+  },
+  {
+    "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+    "fuente": "Clip Studio Assets",
+    "ancho": null,
+    "alto": null,
+    "que_es": "\"[FREE] Manga Screentone Pack 1\": pinceles de trama de manga gratis para Clip Studio Paint.",
+    "para_que": "Punto 19: recrear digitalmente la trama de manga vista en las hojas.",
+    "licencia": "Gratis en Clip Studio Assets; revisar términos de uso comercial antes de vender la lámina."
+  },
+  {
+    "url": "https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/",
+    "fuente": "GraphicsBunker",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pack gratuito de pinceles de screentone/manga para Procreate, Photoshop y Clip Studio Paint.",
+    "para_que": "Punto 19: alternativa gratis a la trama de manga, con más densidades de punto.",
+    "licencia": "Gratis (descarga a $0 en Gumroad); licencia comercial no aclarada, revisar antes de vender."
+  },
+  {
+    "url": "https://www.behance.net/gallery/71632077/My-digital-oil-painting-brushes-(FREE)-for-Photoshop",
+    "fuente": "Behance (Martina Palazzese)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pinceles de pintura al óleo digital gratuitos para Photoshop, de la ilustradora Martina Palazzese.",
+    "para_que": "Punto 19: pincelada para imitar los fondos pintados a mano de Trigger.",
+    "licencia": "Gratis, publicados por la autora en su propio portafolio de Behance."
+  },
+  {
+    "url": "https://gear.cdprojektred.com/cdn/shop/files/GRID-1_6e4bd277-abaf-4892-85cb-142bf72faa52.jpg?v=1737383644",
+    "fuente": "CD PROJEKT RED Gear Store (tienda oficial)",
+    "ancho": 600,
+    "alto": 900,
+    "que_es": "Foto de producto de la litografía de aniversario de Edgerunners por Studio Trigger.",
+    "para_que": "Punto 1/23: confirma que la litografía es un producto oficial real (antes ⚠️ una fuente).",
+    "licencia": "Producto con copyright de CD PROJEKT RED / Studio Trigger; sólo referencia, no venta."
+  },
+  {
+    "url": "https://gear.cdprojektred.com/collections/cyberpunk-edgerunners",
+    "fuente": "CD PROJEKT RED Gear Store (tienda oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Catálogo completo del merchandising oficial de Edgerunners: figuras (FigZero, Funko, Youtooz, Kotobukiya), réplicas, ropa y objetos de casa.",
+    "para_que": "Punto 23: qué objetos de la serie ya son merchandising real (pistas de qué es icónico).",
+    "licencia": "Tienda oficial de CD PROJEKT RED."
+  },
+  {
+    "url": "https://www.sideshow.com/collectibles/cyberpunk-2077-lucy-prime-1-studio-914452",
+    "fuente": "Sideshow Collectibles (distribuidor oficial de Prime 1 Studio)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Estatua de Lucy escala 1/4 (50 cm) de Prime 1 Studio, apoyada en la barra del Afterlife.",
+    "para_que": "Punto 23: figura oficial con pose de referencia 3D (Lucy relajada, apoyada).",
+    "licencia": "Producto con licencia oficial de CD PROJEKT RED, fabricado por Prime 1 Studio."
+  },
+  {
+    "url": "https://www.toy-people.com/en/?p=100665",
+    "fuente": "Toy People",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Estatua de Rebecca escala 1/4 de Prime 1 Studio, estilo realista del videojuego.",
+    "para_que": "Punto 23: figura oficial, referencia de pose y proporciones 3D de Rebecca.",
+    "licencia": "Producto con licencia oficial; nota de prensa del fabricante."
+  },
+  {
+    "url": "https://www.goodsmile.com/en/product/1140950",
+    "fuente": "Good Smile Company (fabricante oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "BUZZmod. Rebecca, figura de acción articulada 1/12 de Cyberpunk: Edgerunners.",
+    "para_que": "Punto 23: figura oficial articulada, útil para poses de Rebecca en varias posturas.",
+    "licencia": "Producto con licencia oficial de Good Smile Company."
+  },
+  {
+    "url": "https://www.insertcoinclothing.com/cyberpunk-edgerunners/",
+    "fuente": "Insert Coin Clothing (tienda con licencia oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Colección de ropa con licencia oficial de Edgerunners: chaqueta de David, camisetas de Lucy y Rebecca.",
+    "para_que": "Punto 15/23: réplica real de la chaqueta icónica de David, con sus costuras y forro.",
+    "licencia": "Ropa con licencia oficial de CD PROJEKT RED."
+  },
+  {
+    "url": "https://www.tokyoweekender.com/entertainment/entertainment-roundup-stylish-streetwear-with-cyberpunk-edgerunners-collaboration/",
+    "fuente": "Tokyo Weekender",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la colaboración de streetwear Nonsense x Cyberpunk Edgerunners (enero 2024): camisetas, balaclava, «Corporate Jacket» con logos de corporaciones.",
+    "para_que": "Punto 19/23: ejemplo real de los logos de corporaciones aplicados a una prenda.",
+    "licencia": "Artículo periodístico; la ropa es de la marca Nonsense con licencia."
+  },
+  {
+    "url": "https://www.yayahan.com/post/cosplaying-lucy-from-cyberpunk-edgerunners",
+    "fuente": "Yaya Han (cosplayer profesional), blog personal",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Making-of detallado del cosplay de Lucy: telas usadas, construcción de la chaqueta flotante con espuma EVA, peluca aerografiada.",
+    "para_que": "Punto 23: cosplay bien hecho, con materiales y volumen reales explicados paso a paso.",
+    "licencia": "Contenido propio de la autora (Yaya Han), sólo como referencia, no para copiar imágenes."
+  },
+  {
+    "url": "https://www.crunchyroll.com/news/latest/2025/4/25/cyberpunk-edgerunners-anime-insert-coin-david-jacket",
+    "fuente": "Crunchyroll News",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nota de prensa sobre la colaboración de ropa Insert Coin x Cyberpunk Edgerunners.",
+    "para_que": "Punto 23: segunda fuente que confirma la colaboración de ropa oficial.",
+    "licencia": "Artículo periodístico."
+  }
+]

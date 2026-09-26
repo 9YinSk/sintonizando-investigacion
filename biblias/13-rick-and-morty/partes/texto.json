@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://archive.org/download/rick-and-morty-style-guide/Rick%20and%20Morty%20Style%20Guide%20_%20Rick%20and%20Morty%20_%20Adult%20Swim.mp4",
+    "fuente": "Internet Archive (mirror del vídeo oficial de Adult Swim; YouTube pide iniciar sesión)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "Vídeo oficial «Rick and Morty Style Guide» (2:42 min): un artista del estudio dibuja a Rick y Morty en vivo, en Adobe Photoshop CC 2016.3.",
+    "para_que": "Punto 18 (estilo y cómo replicarlo): construcción de la cabeza, asimetría intencional de los ojos, orden de trazos (pelo de Rick antes que la cara). Minuto 0:14 se lee el software en la barra de título; 0:26-2:42 la construcción completa.",
+    "licencia": "Vídeo promocional de Adult Swim; sólo como referencia, no para reutilizar el clip."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/2/2b/Crafting_Station_interface.png/revision/latest?cb=20160927191544",
+    "fuente": "Rick and Morty Wiki (Fandom), captura oficial de Pocket Mortys",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Interfaz de crafteo de Pocket Mortys: máquina sci-fi con esfera azul, botones «ADD», pestañas Craft/Share/Recipes y una barra rosa de aviso abajo con texto.",
+    "para_que": "Punto 6 y 11: ejemplo real de «caja de texto» de videojuego de la franquicia (barra de aviso, no burbuja de cómic).",
+    "licencia": "Captura de juego con copyright de Adult Swim Games / Big Pixel Studios; uso como referencia, cabecera Referer: https://www.fandom.com/ para bajarla."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/rickandmorty/images/5/52/Salesmanrick_in_game.png/revision/latest?cb=20160529034045",
+    "fuente": "Rick and Morty Wiki (Fandom), captura oficial de Pocket Mortys",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Vista cenital (overworld) de Pocket Mortys: d-pad y botón A táctiles, personajes con contorno negro grueso, cartel de tienda rotulado a mano.",
+    "para_que": "Punto 11: interfaz de juego móvil de la franquicia, estilo del rótulo de tienda para comparar con la tipografía del punto 5.",
+    "licencia": "Captura de juego con copyright de Adult Swim Games / Big Pixel Studios; uso como referencia, cabecera Referer: https://www.fandom.com/ para bajarla."
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469610/ss_6f25a5fe0e92f12f881798a2d3d131ba4c154f18.1920x1080.jpg",
+    "fuente": "Steam (ficha de Rick and Morty: Virtual Rick-ality)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: el garaje de Rick en primera persona (VR), manos del jugador, cartel amarillo «CAUTION WATCH FOR PORTALS», trampilla de portal en el suelo.",
+    "para_que": "Punto 11: interfaz de VR de la franquicia (sin HUD clásico); punto 6: texto diegético (cartel de aviso).",
+    "licencia": "Captura oficial de Steam/Owlchemy Labs; sólo como referencia."
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469610/ss_ad09661030ad427adb462929eb8b388fdb316766.1920x1080.jpg",
+    "fuente": "Steam (ficha de Rick and Morty: Virtual Rick-ality)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: mesa de trabajo con nota de papel «VOUCHER — REPLACEMENT MORTY» y un diagrama tipo plano técnico con «DETACH FROM BODY / TRAP IN BALL / VOICEBOX».",
+    "para_que": "Punto 6: el mejor ejemplo encontrado de texto «acorde a la temática, no burbuja blanca» — un plano pinchado en un corcho, con avisos en mayúscula y círculos rojos.",
+    "licencia": "Captura oficial de Steam/Owlchemy Labs; sólo como referencia."
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469610/ss_e081750eb3609fe30a116143736b2482e641ca2d.1920x1080.jpg",
+    "fuente": "Steam (ficha de Rick and Morty: Virtual Rick-ality)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: combate en VR contra criaturas alienígenas voladoras y un ovni, paisaje rosado/morado con «salchichas» gigantes de fondo.",
+    "para_que": "Punto 11: sin barra de vida ni texto flotante en combate; manos como cañones robóticos.",
+    "licencia": "Captura oficial de Steam/Owlchemy Labs; sólo como referencia."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/morty-rig-blender-c99a7fbd39b84428ab99ec1af4b15800",
+    "fuente": "Sketchfab (mfxmotions)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Rig de Morty para Blender, con huesos/controles listos para animar.",
+    "para_que": "Punto 18: modelo/rig libre del personaje para Blender, con licencia comprobada.",
+    "licencia": "CC Attribution (CC BY 4.0) — comprobado con la API de Sketchfab (api.sketchfab.com/v3/models/c99a7fbd39b84428ab99ec1af4b15800): uso comercial permitido citando al autor."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/portal-gun-rick-and-morty-ac3226c6b9e64142af2065409f0162ee",
+    "fuente": "Sketchfab (kreems)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de la pistola de portales, descargable.",
+    "para_que": "Punto 18: objeto 3D con licencia libre confirmada para primer plano en Blender (corrige el ⚠️ de referencias.json, que decía «comprobar si es CC BY»).",
+    "licencia": "CC Attribution (CC BY 4.0) — comprobado con la API de Sketchfab: uso comercial permitido citando al autor."
+  },
+  {
+    "url": "https://fontsource.org/fonts/comic-relief",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre «Comic Relief», de estilo rotulado a mano de cómic.",
+    "para_que": "Punto 5: letra libre equivalente a la rotulación de cómic (más fiel que Sniglet/Grandstander) para el globo si se usa el cómic de Oni Press como referencia.",
+    "licencia": "OFL-1.1. Comprobado con fontTools (archivo latin-400-normal.ttf): trae á é í ó ú ñ Ñ ¿ ¡ Á É."
+  },
+  {
+    "url": "https://rickandmorty.fandom.com/wiki/The_Citadel",
+    "fuente": "Rick and Morty Wiki (Fandom), wikitexto",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de La Ciudadela (The Citadel): ciudad-estado transdimensional de todos los Ricks y Mortys.",
+    "para_que": "Punto 25: símbolo/lugar icónico y regla del mundo (gobierno de los Ricks).",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta de datos."
+  },
+  {
+    "url": "https://rickandmorty.fandom.com/wiki/Central_Finite_Curve",
+    "fuente": "Rick and Morty Wiki (Fandom), wikitexto",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la Central Finite Curve: el muro que separa los universos donde Rick es el más listo del resto del multiverso.",
+    "para_que": "Punto 25: regla central del mundo, con la cita de Evil Morty en «Rickmurai Jack».",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta de datos."
+  },
+  {
+    "url": "https://rickandmorty.fandom.com/wiki/Portal_Gun",
+    "fuente": "Rick and Morty Wiki (Fandom), wikitexto",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la pistola de portales: origen (Rick Prime), funcionamiento y «Quantum Transport Solution».",
+    "para_que": "Punto 25: objeto icónico central de la serie y su regla de uso.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta de datos."
+  },
+  {
+    "url": "https://rickandmorty.fandom.com/wiki/Birdperson",
+    "fuente": "Rick and Morty Wiki (Fandom), wikitexto",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Ave Persona (Birdperson), con la explicación literal de qué significa «Wubba Lubba Dub Dub».",
+    "para_que": "Punto 25: vocabulario propio de la serie, frase de cabecera de Rick.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta de datos."
+  },
+  {
+    "url": "https://www.denofgeek.com/tv/rick-and-morty-just-the-lore-episodes/",
+    "fuente": "Den of Geek",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo con los episodios «de lore» esenciales de la serie, en orden, con qué pasa en cada uno.",
+    "para_que": "Punto 25: columna vertebral de «la historia por arcos».",
+    "licencia": "Artículo periodístico; sólo consulta de datos."
+  },
+  {
+    "url": "https://www.itsnicethat.com/features/inside-rick-and-morty-art-director-james-mcdermotts-sketchbooks-250717",
+    "fuente": "It's Nice That",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista/perfil del director de arte James McDermott (temporadas 1-2): filosofía de diseño, influencias, proceso.",
+    "para_que": "Punto 18: citas directas sobre «shape language», inspiración en ciencia ficción de los 70, contraste doméstico/alienígena.",
+    "licencia": "Artículo periodístico; sólo consulta de datos."
+  },
+  {
+    "url": "https://torontoguardian.com/2017/01/rick-and-morty-artist-jeffrey-thompson/",
+    "fuente": "Toronto Guardian",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Perfil del director de arte de la temporada 3, Jeffrey Thompson (también autor del vídeo Style Guide).",
+    "para_que": "Punto 18: confirma el uso de «color keys» para planear el ánimo de cada episodio.",
+    "licencia": "Artículo periodístico; sólo consulta de datos."
+  },
+  {
+    "url": "https://jasonpiperberg.com/4140/4140/",
+    "fuente": "Jason Piperberg Illustration",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tutorial de coloreado al estilo Rick and Morty en Photoshop (bloqueo de capa en modo Alfa, aerógrafo para brillos).",
+    "para_que": "Punto 18: técnica concreta y reproducible para «cómo replicarlo» en Photoshop.",
+    "licencia": "Tutorial de un ilustrador independiente; sólo consulta de técnica, no reutilizar sus imágenes."
+  },
+  {
+    "url": "https://www.tvline.com/2121225/tv-shows-like-rick-and-morty/",
+    "fuente": "TVLine",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista curada de 15 series parecidas a Rick and Morty, con una razón concreta cada una.",
+    "para_que": "Punto 24: obras parecidas y por qué se parecen (incluye Solar Opposites, Futurama, South Park, etc.).",
+    "licencia": "Artículo periodístico; sólo consulta de datos."
+  },
+  {
+    "url": "https://rickandmorty.fandom.com/wiki/The_Real_Animated_Adventures_of_Doc_and_Mharti",
+    "fuente": "Rick and Morty Wiki (Fandom), wikitexto",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del corto amateur de 2006 que dio origen a la serie: parodia no autorizada de Volver al futuro.",
+    "para_que": "Punto 24/25: origen real de la serie, dato de trivia para el pie de la lámina.",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); sólo consulta de datos."
+  },
+  {
+    "url": "https://bluejuicecomics.com/about/crank/",
+    "fuente": "Blue Juice Comics",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Bio profesional del rotulista Crank! (Christopher Crank), autor de la rotulación de los cómics de Rick and Morty de Oni Press.",
+    "para_que": "Punto 5: quién rotula el cómic oficial (persona, no fuente descargable).",
+    "licencia": "Página de estudio de cómic; sólo consulta de datos."
+  }
+]

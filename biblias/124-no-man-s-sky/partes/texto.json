@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/1/1f/Speaking_with_an_Autophage.png",
+    "fuente": "nomanssky.fandom.com (wiki oficial de fans)",
+    "ancho": 2522,
+    "alto": 1138,
+    "que_es": "Captura real de un diálogo con un NPC (Autophage): cartela de texto translúcida + menú de opciones numeradas 1-4",
+    "para_que": "Referencia exacta del cuadro de diálogo del juego, punto 6 (no usar burbuja blanca genérica)",
+    "licencia": "captura del juego (Hello Games), alojada en wiki de fans, uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e4/NmsExosuit_Panel.jpg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Interfaz de inventario del Exosuit (versión 2016): rejilla de casillas con iconos de elemento y traje en 3D",
+    "para_que": "Referencia de interfaz de juego, punto 11",
+    "licencia": "captura del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e5/QuickMenu02.jpeg",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1680,
+    "alto": 1050,
+    "que_es": "Menú rápido (radial) en uso: iconos circulares translúcidos con nombre de objeto y ayuda de teclas",
+    "para_que": "Referencia de interfaz de juego, punto 11 y 6",
+    "licencia": "captura del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/eb/Overseer_NPC.png",
+    "fuente": "nomanssky.fandom.com",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "NPC Overseer junto a consolas con hologramas cian de esquemas técnicos",
+    "para_que": "Referencia de interfaz diegética (pantallas dentro del mundo) para el fondo de la lámina, punto 6 y 11; paleta medida con estilo.py",
+    "licencia": "captura del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/0/08/PATCH.MILESTONE.5.png",
+    "fuente": "nomanssky.fandom.com (Expedition Patches)",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Parche/insignia de expedición tipo tela cosida, óvalo azul noche con estrellas y silueta de nave",
+    "para_que": "Símbolo reconocible del mundo (punto 25), referencia de forma de insignia para un objeto Blender (parche cosido)",
+    "licencia": "icono del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/3/31/PATCH.SPOOKY.STAGE.3.png",
+    "fuente": "nomanssky.fandom.com (Expedition Patches)",
+    "ancho": 512,
+    "alto": 512,
+    "que_es": "Parche/insignia de expedición especial (Halloween): triángulo verde con tentáculos naranja",
+    "para_que": "Segundo ejemplo de la variedad de forma/color de los parches de expedición, punto 25",
+    "licencia": "icono del juego (Hello Games), referencia"
+  },
+  {
+    "url": "https://github.com/NMSCD/No-Mans-Sky-Universal-Font/raw/master/assets/font/NMSGeoSans_Kerned/Web-TT/NMSGeoSans_Kerned.ttf",
+    "fuente": "GitHub: NMSCD/No-Mans-Sky-Universal-Font",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente NMSGeoSans (la del sitio web oficial nomanssky.com), corregida por el proyecto comunitario NMSCD",
+    "para_que": "Tipografía de logo/interfaz clásica, punto 5; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡",
+    "licencia": "SIL Open Font License 1.1 (LICENSE.txt del propio repositorio)"
+  },
+  {
+    "url": "https://github.com/NMSCD/No-Mans-Sky-Universal-Font/raw/master/assets/font/NMSFuturaProBook_Kerned/Web-TT/NMSFuturaProBook_Kerned.ttf",
+    "fuente": "GitHub: NMSCD/No-Mans-Sky-Universal-Font",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente NMSFuturaProBook (extraída de los archivos del juego, basada en Futura Pro), corregida por NMSCD",
+    "para_que": "Tipografía de interfaz clásica alternativa, punto 5; comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡",
+    "licencia": "SIL Open Font License 1.1 (LICENSE.txt del propio repositorio)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Jost",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Jost: revival geométrica libre de Futura, la letra libre recomendada para imitar el logo/interfaz de NMS",
+    "para_que": "Letra libre del punto 5 (logo + interfaz); comprobada con fontTools: trae á é í ó ú ñ Ñ ¿ ¡",
+    "licencia": "SIL Open Font License 1.1 (Google Fonts)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Roboto",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Roboto: la fuente base real de la interfaz y subtítulos del juego desde el update NEXT (2018)",
+    "para_que": "Letra libre ya usada por el propio juego, punto 5; comprobada con fontTools: trae á é í ó ú ñ ¿ ¡ (no trae CJK por defecto)",
+    "licencia": "Apache License 2.0 (Google Fonts)"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/gameData.php?id=293",
+    "fuente": "Game UI Database (abierto con herramientas/navegar.py, Cloudflare bloquea curl)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha catalogada de toda la interfaz de No Man's Sky por categorías (HUD, menús, mapas, etc.)",
+    "para_que": "Índice de qué piezas de interfaz existen, punto 11 — su web prohíbe usar sus capturas para generación con IA, sólo como lista de referencia",
+    "licencia": "capturas propias del sitio; uso de referencia únicamente, no para IA de imagen (aviso explícito del sitio)"
+  },
+  {
+    "url": "https://www.gdcvault.com/play/1024265/Continuous-World-Generation-in-No",
+    "fuente": "GDC Vault (charla oficial de Hello Games)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Charla técnica del GDC sobre la generación continua de mundo por voxels/ruido en No Man's Sky",
+    "para_que": "Fuente técnica oficial para el punto 18 (cómo se construye el terreno, base para replicarlo en Blender)",
+    "licencia": "charla de conferencia, contenido oficial de Hello Games; sólo referencia, no descargable libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/63/NMS1dot3GalaxyMap.jpg",
+    "fuente": "nomanssky.fandom.com (wiki oficial de fans)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura real de la interfaz del Galactic Map (mapa de la galaxia): fondo casi negro-azulado, etiqueta de sistema con distancia en años luz, ficha de icono+texto por fila",
+    "para_que": "Referencia de interfaz de juego, punto 11 (mapa), y de paleta sin negro puro, punto 18",
+    "licencia": "captura del juego (Hello Games), alojada en wiki de fans, uso de referencia"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/NMSCD/Expedition-Alphabet/main/public/assets/font/nms-alphabet.ttf",
+    "fuente": "github.com/NMSCD/Expedition-Alphabet",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente TTF real \"NMS Alphabet\" (67 glifos) que convierte A-Z/números al alfabeto-glifo alienígena del juego; comprobada con fontTools: NO trae tildes, ñ ni ¿¡",
+    "para_que": "Letra libre para cartelas del mundo en el alfabeto alien, punto 5 (con el aviso de que no sirve para español sin tildes)",
+    "licencia": "FontStruct License (declarada en el propio archivo, no es OFL; revisar términos de FontStruct.com antes de redistribuir)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/f2/NMSAtlasInterface.jpg",
+    "fuente": "nomanssky.fandom.com (wiki oficial de fans)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura real del juego en una Atlas Interface: esfera roja facetada dentro de un marco de diamante con borde de neón rojo, sala oscura",
+    "para_que": "Confirmación visual directa del símbolo del Atlas, punto 25 (emblemas y símbolos)",
+    "licencia": "captura del juego (Hello Games), alojada en wiki de fans, uso de referencia"
+  }
+]

@@ -1,0 +1,612 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Killua Zoldyck",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kurapika",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Gon Freecss",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31-FZckOuu7L1un.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Hisoka Morow",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Chrollo Lucilfer",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Leorio Paradinight",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/3195.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Feitan Portor",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14489-WgGsdlQJka65.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Isaac Netero",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5833.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Shizuku Murasaki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57-pTFguojSOQZW.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Illumi Zoldyck",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20594-QQJBR3LYobbv.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kite",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5830-IEl8BCasHZvG.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Machi Komacine",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ging Freecss",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5835-cbomgYG3LWrP.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Pakunoda",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5832.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Shalnark Ryuseih",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136-uHALFo2vGOGd.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/7/75/Yorknew_1st_september.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Gon Freecss: Yorknew 1st september.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/9/96/Victor_x_And_x_Loser.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Gon Freecss: Victor x And x Loser.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/2/24/Potclean_2011.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Gon Freecss: Potclean 2011.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/58/Jajanken_Pa.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Gon Freecss: Jajanken Pa.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/1/16/HxH2011_EP99_Gon_uses_sound_against_Bat.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Gon Freecss: HxH2011 EP99 Gon uses sound against Bat.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c5/Gon_struggling_to_understand_Knuckle_-_Episode_90.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Gon Freecss: Gon struggling to understand Knuckle - Episode 90.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6e/Gon_Seeing_Kite_-_Episode_95.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Gon Freecss: Gon Seeing Kite - Episode 95.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/4/46/HxH2011_EP2_Gon_Leorio_Kurapika_meet_the_Quiz_Lady.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Gon Freecss: HxH2011 EP2 Gon Leorio Kurapika meet the Quiz Lady.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/4/40/HxH2011_EP12_Passing_the_Third_Phase.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2557,
+  "alto": 1436,
+  "que_es": "Gon Freecss: HxH2011 EP12 Passing the Third Phase.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/3/35/Wing_Nen_2.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Gon Freecss: Wing Nen 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/8/8f/Killua_and_Gon_intimidated_by_Knuckle_EP87.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Killua Zoldyck: Killua and Gon intimidated by Knuckle EP87.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/1/1d/KilluaLightning.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1356,
+  "alto": 1689,
+  "que_es": "Killua Zoldyck: KilluaLightning.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a1/Shocked_about_leorio%27s_age.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Killua Zoldyck: Shocked about leorio's age.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/57/Sadaso_threatened_by_Killua_2011.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Killua Zoldyck: Sadaso threatened by Killua 2011.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c1/Main_Four_Reunion_EP54_IMG.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Killua Zoldyck: Main Four Reunion EP54 IMG.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/4/4c/Knuckle_and_Killua_watch_as_Gon_faces_manipulated_Kite_EP95.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Killua Zoldyck: Knuckle and Killua watch as Gon faces manipulated Kite EP95.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/9/95/King_White_Stag_Beetles_Obtained_EP66.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Killua Zoldyck: King White Stag Beetles Obtained EP66.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/6/60/Kurapika_%26_Pairo_Movie1_IMG_2.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Kurapika: Kurapika & Pairo Movie1 IMG 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/f/ff/HxH2011_EP41_Nostrade_Bodyguards.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Kurapika: HxH2011 EP41 Nostrade Bodyguards.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/d/db/HxH2011_Kurapika_Yorknew_City_Design.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2961,
+  "alto": 2000,
+  "que_es": "Kurapika: HxH2011 Kurapika Yorknew City Design.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/0/08/Py_save_Kura.PNG",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3152,
+  "alto": 1720,
+  "que_es": "Kurapika: Py save Kura.PNG",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/e/ea/HxH2011_EP9_Kurapika_knocks_out_Majtani.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Kurapika: HxH2011 EP9 Kurapika knocks out Majtani.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/8/81/HxH2011_EP6_Kurapika_Gon_Leorio_during_the_Second_Phase.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Kurapika: HxH2011 EP6 Kurapika Gon Leorio during the Second Phase.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/a/a0/HxH2011_EP46_Kurapika_on_the_phone_with_Light_Nostrade.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Kurapika: HxH2011 EP46 Kurapika on the phone with Light Nostrade.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/53/HxH2011_EP44_Kurapika_Chain_Jail_while_driving.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Kurapika: HxH2011 EP44 Kurapika Chain Jail while driving.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/3/3d/HxH2011_EP3_Kurapika_pours_out_Tonpa%27s_drink.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Kurapika: HxH2011 EP3 Kurapika pours out Tonpa's drink.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/e/ef/Leorio_Leaving_Yorknew_City.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Leorio Paradinight: Leorio Leaving Yorknew City.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/3/3d/HxH2011_EP2_Kurapika_blocks_Leorio%27s_attack.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Leorio Paradinight: HxH2011 EP2 Kurapika blocks Leorio's attack.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/6/64/HxH2011_EP1_Gon_Kurapika_Leorio_catch_Katzo.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Leorio Paradinight: HxH2011 EP1 Gon Kurapika Leorio catch Katzo.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/7/7e/Leorio%27s_warped_punch_hits_Ging.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Leorio Paradinight: Leorio's warped punch hits Ging.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/0/05/Leorio%27s_speech.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Leorio Paradinight: Leorio's speech.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/a/ac/Leorio_episode_16_facing_Hisoka.PNG",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Leorio Paradinight: Leorio episode 16 facing Hisoka.PNG",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/6/6c/HxH2011_EP5_Hisoka_knocks_Leorio_out.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Leorio Paradinight: HxH2011 EP5 Hisoka knocks Leorio out.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0a/HxH2011_EP42_Gon_arm_wrestling.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Leorio Paradinight: HxH2011 EP42 Gon arm wrestling.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/c/cd/Chap_377_-_Phantom_Troupe_members.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 2133,
+  "alto": 1600,
+  "que_es": "Hisoka Morow: Chap 377 - Phantom Troupe members.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/4/4b/Unrivaled_stupidity.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: Unrivaled stupidity.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/c/c5/Texture_surprise_2011.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: Texture surprise 2011.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/0/0b/Kurapika%27s_phone_screen_2011.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: Kurapika's phone screen 2011.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/50/Illumi_threatening_Hisoka.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: Illumi threatening Hisoka.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/d/de/HxH2011_EP5_Hisoka_passes_Gon.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: HxH2011 EP5 Hisoka passes Gon.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/5/5f/HxH2011_EP32_Hisoka%27s_fake_Spider_tattoo.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: HxH2011 EP32 Hisoka's fake Spider tattoo.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/0/08/HxH2011_EP3_Hisoka_debut_scene.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: HxH2011 EP3 Hisoka debut scene.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/0/00/HxH2011_EP28_Hisoka_Heavens_Arena.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: HxH2011 EP28 Hisoka Heavens Arena.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/hunterxhunter/images/2/24/HxH2011_EP20_Kurapika_vs_Hisoka_IMG8.png",
+  "fuente": "Fandom hunterxhunter",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Hisoka Morow: HxH2011 EP20 Kurapika vs Hisoka IMG8.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+    "fuente": "AniList",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Portada oficial del anime",
+    "para_que": "estilo/paleta general de referencia",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/6/6d/Blue_Lock_TV_Anime_Key_Visual.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 2600,
+    "alto": 1962,
+    "que_es": "Key visual principal del anime (grupo)",
+    "para_que": "paleta oficial nocturna, composición de grupo",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/7/7e/Blue_Lock_LA_Movie_Teaser_Visual.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 2895,
+    "alto": 4096,
+    "que_es": "Teaser visual de la película live-action (2026)",
+    "para_que": "contexto de franquicia reciente; NO usar como referencia de estilo 2D",
+    "licencia": "© Toho; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/a/a9/Blue_Lock_LA_Movie_BTS_Isagi.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 952,
+    "alto": 634,
+    "que_es": "Foto de rodaje (BTS) de Isagi en la película live-action",
+    "para_que": "referencia de pose real, no de estilo de dibujo",
+    "licencia": "© Toho; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868930/b89d62480d3e067a1ebe6f4cac11191684c395de/ss_b89d62480d3e067a1ebe6f4cac11191684c395de.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REMATCH: BLUE LOCK TRAINING PACK",
+    "para_que": "arte oficial reciente del videojuego colaborativo",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/518/5789af77f608310ae275a103191b3d2f83b8a50e.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 3869,
+    "alto": 1900,
+    "que_es": "Fan art mejor puntuado de Rin Itoshi",
+    "para_que": "referencia de pose/color, nunca para pegar",
+    "licencia": "© autor original (Pixiv); sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/518/00d3c0e2f1b85c37bbdb2bed9fecacd5acd1a1ba.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 3300,
+    "alto": 3200,
+    "que_es": "Fan art de Rin Itoshi",
+    "para_que": "referencia de pose/color, nunca para pegar",
+    "licencia": "© autor original (Pixiv); sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-0ea7bbb0771648a0aca45891bbd2b007",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D 'NAGI BLUE LOCK FREE FIRE 2 STYLES'",
+    "para_que": "base 3D con licencia libre para pose de Nagi",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-12d7ed39e8d54d5c8058fe2110f40315",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D 'ISAGI BLUE LOCK FREE FIRE 2 STYLES'",
+    "para_que": "base 3D con licencia libre para pose de Isagi",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-84306d1b03464943b609f9af1b3624f4",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D 'Blue Lock Soccer Ball'",
+    "para_que": "balón 3D con logo pintado, licencia libre",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-2537204b334d4af8a5bcc409115b60ea",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D fan-made 'Blue Lock training Stadium'",
+    "para_que": "base para maquetar el edificio/campo en Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-f8225941e44e4d9090b2a6c14db95031",
+    "fuente": "Sketchfab",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D fan-made 'Blue Lock Training Facility'",
+    "para_que": "base alternativa para el edificio en Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/f/f3/Yoichi_Isagi_uniform_anime_design.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 1500,
+    "alto": 2142,
+    "que_es": "Modelo oficial del bodysuit de Isagi (uniforme Blue Lock)",
+    "para_que": "hex medido con estilo.py: negro #020202, azul #5875C9, azul oscuro #333A54",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/f/f4/Meguru_Bachira_uniform_anime_design.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 1500,
+    "alto": 2142,
+    "que_es": "Modelo oficial del bodysuit de Bachira",
+    "para_que": "hex medido: negro #030303, azul grisáceo #5A75C8, azul marino #363C53",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/6/65/Seishiro_Nagi_uniform_anime_design.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 2138,
+    "alto": 3055,
+    "que_es": "Modelo oficial del bodysuit de Nagi",
+    "para_que": "hex medido: gris azulado #33353A, negro #010102, gris claro #5E5E75",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/c/c4/Rin_Itoshi_suit_anime_design.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 2250,
+    "alto": 3213,
+    "que_es": "Traje formal promocional de Rin (no el bodysuit de partido)",
+    "para_que": "hex medido: azul marino #32374F, negro #000000",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/3/3b/Blue_Lock_%28Anime%29.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 3584,
+    "alto": 2009,
+    "que_es": "Exterior oficial del edificio Blue Lock (anime, de día)",
+    "para_que": "paleta de sitio medida: #182951, #ACCFE1, #405764, #274893",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/bluelock/images/9/97/Blue_Lock_facility.png",
+    "fuente": "Fandom bluelock",
+    "ancho": 2140,
+    "alto": 1600,
+    "que_es": "Plano oficial de planta del edificio Blue Lock (extra de tomo)",
+    "para_que": "distribución exacta para maquetar en Blender",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/gp/wallhaven-gppoj7.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla oficial (rueda de prensa bluelock-pr.com)",
+    "para_que": "fondo de pantalla en alta, origen oficial",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/qr/wallhaven-qrrzdl.jpg",
+    "fuente": "Wallhaven",
+    "ancho": 4800,
+    "alto": 2400,
+    "que_es": "Viñeta de Nagi a color en alta resolución",
+    "para_que": "fondo de pantalla de fans en alta",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal063",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura real de metal azulado",
+    "para_que": "equivalente real del revestimiento del edificio",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Grass005",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura real de césped",
+    "para_que": "equivalente real del campo de juego",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Blue_Lock_Logo_Japan.png",
+    "fuente": "Openverse (wikimedia)",
+    "ancho": 1776,
+    "alto": 435,
+    "que_es": "Logo oficial 'Blue Lock' (diamante con cadena)",
+    "para_que": "emblema de la serie para esquina/objeto de la lámina",
+    "licencia": "CC BY-SA 4.0 (PatoAnidae02)"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper001",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura real de papel con grano",
+    "para_que": "grano de página para que la lámina no se vea digital",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric081C",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura real de malla técnica de poliéster",
+    "para_que": "patrón de tela del uniforme",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Leather037",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura real de cuero con costuras",
+    "para_que": "base del balón antes del patrón pintado",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://store.steampowered.com/app/4868930/REMATCH_BLUE_LOCK_TRAINING_PACK/",
+    "fuente": "Steam",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página oficial de la colaboración REMATCH x Blue Lock (24-sep-2026)",
+    "para_que": "colaboración con videojuego, muy reciente",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://www.goodsmile.com/en/product/60957",
+    "fuente": "Good Smile Company",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nendoroid oficial de Meguru Bachira",
+    "para_que": "figura oficial, referencia de pose 3D",
+    "licencia": "© Good Smile Company; sólo referencia"
+  },
+  {
+    "url": "https://www.amiami.com/eng/detail/?gcode=FIGURE-167214",
+    "fuente": "AmiAmi",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nendoroid oficial de Yoichi Isagi",
+    "para_que": "figura oficial, referencia de pose 3D",
+    "licencia": "© Good Smile Company; sólo referencia"
+  },
+  {
+    "url": "https://live.staticflickr.com/65535/54161951673_8864c634a1_b.jpg",
+    "fuente": "Openverse (flickr)",
+    "ancho": 1024,
+    "alto": 1024,
+    "que_es": "Cosplay real de Meguru Bachira (Destination Tokyo 2024)",
+    "para_que": "referencia de materiales y volumen reales",
+    "licencia": "CC BY 2.0 (Isabelle + Stéphane Gallay)"
+  }
+]

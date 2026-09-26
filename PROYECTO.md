@@ -1,5 +1,8 @@
 # Para crear el Proyecto en Claude Code (una sola cuenta)
 
+*(Histórico: una cuenta y 3 hilos, antes del 24-sep-2026. Hoy el trabajo va por
+equipos (EQUIPO.md y la skill serie-en-equipo) y por lotes en GitHub (README).)*
+
 ## Instrucciones del proyecto (pégalas en «Project instructions»)
 
 Este proyecto investiga, serie por serie, el material para las láminas del

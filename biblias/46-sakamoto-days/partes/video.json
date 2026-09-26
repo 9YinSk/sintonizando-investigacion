@@ -1,0 +1,101 @@
+[
+ {
+  "url": "https://archive.org/details/sakamoto-days-op-1",
+  "fuente": "Internet Archive (resubida, opening 1 completo)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Opening 1 completo, \"Hashire Sakamoto\" (Vaundy), episodios 1-11",
+  "para_que": "sitios con luz y paleta (4 ambientes medidos), poses finales de Sakamoto y Shin",
+  "licencia": "© TMS Entertainment / Shueisha; sólo referencia, resubida por usuario"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9c6rxi",
+  "fuente": "Dailymotion (Sekai)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler oficial Netflix VOSTFR (francés), 1:29",
+  "para_que": "escenas icónicas, poses (abrazo Sakamoto-Shin, sofá), minuto exacto de la canción del OP en pantalla",
+  "licencia": "© Netflix / TMS Entertainment; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9g89je",
+  "fuente": "Dailymotion (MyTV)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Escena real del episodio 1 (ataque de asesinos a la tienda de Sakamoto), subtítulos en inglés",
+  "para_que": "escena icónica verificada contra la sinopsis oficial, 3 poses de Sakamoto, 3 de Shin, paleta de la armería",
+  "licencia": "© TMS Entertainment; clip resubido, sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9k1124",
+  "fuente": "Dailymotion (NoPopCorn)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler oficial Netflix Parte 2 VOSTFR, 1:55",
+  "para_que": "confirma \"Method\" (Kroi) como opening 2 en pantalla, nuevo arco y villano \"la Orden\"",
+  "licencia": "© Netflix / TMS Entertainment; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9ji7wi",
+  "fuente": "Dailymotion (NoPopCorn)",
+  "ancho": 512,
+  "alto": 288,
+  "que_es": "Tráiler oficial Netflix Parte 2, versión en inglés",
+  "para_que": "segunda fuente del tráiler de la Parte 2 (mismo contenido que x9k1124)",
+  "licencia": "© Netflix / TMS Entertainment; sólo referencia"
+ },
+ {
+  "url": "https://sakamoto-days.fandom.com/wiki/Hashire_Sakamoto",
+  "fuente": "Fandom sakamoto-days (wikitext vía api.php)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del opening 1: artista (Vaundy), duración, fechas, episodios en los que suena",
+  "para_que": "confirmar autor y rango de episodios de la música",
+  "licencia": "texto de wiki, CC BY-SA"
+ },
+ {
+  "url": "https://sakamoto-days.fandom.com/wiki/Futs%C5%AB",
+  "fuente": "Fandom sakamoto-days (wikitext vía api.php)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del ending 1 \"Futsū\": artista (Conton Candy), duración, episodios",
+  "para_que": "música de la serie; no se encontró el vídeo, sólo esta ficha",
+  "licencia": "texto de wiki, CC BY-SA"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Sakamoto_Days",
+  "fuente": "Wikipedia (inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha técnica del anime: estudio, dirección, compositor, fechas de emisión",
+  "para_que": "segunda fuente del compositor (Yuki Hayashi) y datos de producción",
+  "licencia": "texto CC BY-SA"
+ },
+ {
+  "url": "https://musicbrainz.org/release-group/48a2b48a-6ecb-4c01-8ad4-9a670d7ab012",
+  "fuente": "MusicBrainz",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Álbum \"SAKAMOTO DAYS Original Sound Track Anime original Mix Vol.1\" de Yuki Hayashi",
+  "para_que": "confirmar compositor de la banda sonora",
+  "licencia": "datos abiertos MusicBrainz (CC0/PDDL)"
+ },
+ {
+  "url": "https://www.youtube.com/playlist?list=PLwzWP6A-AbgTMlIs82AaV8sGQwKQSYCaW",
+  "fuente": "YouTube (buscador web, no abierto por bloqueo de login)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Playlist \"Sakamoto Days Fight Analysis\"",
+  "para_que": "vídeos de análisis de las peleas para profundizar después",
+  "licencia": "© autores del canal; sólo referencia"
+ },
+ {
+  "url": "https://www.tiktok.com/discover/shin-sonic-sway-sakamoto-days",
+  "fuente": "TikTok (buscador web, navegar.py no cargó el JS)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Página de descubrimiento de la tendencia \"Shin Sonic Sway\"",
+  "para_que": "evidencia de tendencia viral con Shin esquivando ataques",
+  "licencia": "© TikTok/usuarios; sólo referencia, sin cifras verificadas"
+ }
+]

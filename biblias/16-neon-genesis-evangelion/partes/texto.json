@@ -1,0 +1,164 @@
+[
+  {
+    "url": "https://github.com/lowercasename/helloedit/blob/master/resources/fonts/ChiKareGo2.woff",
+    "fuente": "GitHub (helloedit)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente ChiKareGo2 (recreación libre de Chicago), comprobada por mí con fontTools: trae á é í ó ñ Ñ Á É Í Ó Ú Ü ¿ ¡, le faltan ú y ü minúsculas",
+    "para_que": "Número de los monolitos de SEELE (punto 5) sin usar copias piratas del Chicago original",
+    "licencia": "Creative Commons (⚠️ una fuente sin especificar variante exacta)"
+  },
+  {
+    "url": "http://www.suppertime.co.uk/blogmywiki/2017/04/chicago/",
+    "fuente": "suppertime.co.uk (blog de tipografía)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Historia de la recreación ChiKareGo2 del Chicago original de Mac",
+    "para_que": "Contexto de licencia y origen de la letra usada para SEELE (punto 5)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://tcrf.net/Neon_Genesis_Evangelion:_Koutetsu_no_Girlfriend_(PlayStation)",
+    "fuente": "The Cutting Room Floor",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de contenido descartado de Girlfriend of Steel (PS1, 1998): material de depuración",
+    "para_que": "Punto 11 (videojuegos); bloqueada por Cloudflare en este contenedor, pendiente de reintentar",
+    "licencia": "Wiki; ver licencia de TCRF"
+  },
+  {
+    "url": "https://tcrf.net/Shin_Seiki_Evangelion:_Koutetsu_no_Girlfriend_Special_Edition_(PlayStation_2)",
+    "fuente": "The Cutting Room Floor",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de contenido descartado de Girlfriend of Steel Special Edition (PS2, 2006-07): texto de desarrollo oculto y gráficos sin usar",
+    "para_que": "Punto 11 (videojuegos); bloqueada por Cloudflare en este contenedor, pendiente de reintentar",
+    "licencia": "Wiki; ver licencia de TCRF"
+  },
+  {
+    "url": "https://wiki.evageeks.org/Human_Instrumentality_Project",
+    "fuente": "EvaWiki (EvaGeeks.org)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Explicación con cita textual del Proyecto de Instrumentalización Humana",
+    "para_que": "Punto 25: reglas del mundo, el objetivo final del Tercer Impacto",
+    "licencia": "Wiki; ver licencia de EvaGeeks"
+  },
+  {
+    "url": "https://wiki.evageeks.org/MAGI",
+    "fuente": "EvaWiki (EvaGeeks.org)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El sistema MAGI: Melchior/Balthasar/Caspar como tres aspectos de Naoko Akagi",
+    "para_que": "Punto 25: glosario y vocabulario propio de la serie",
+    "licencia": "Wiki; ver licencia de EvaGeeks"
+  },
+  {
+    "url": "https://wiki.evageeks.org/Second_Impact",
+    "fuente": "EvaWiki (EvaGeeks.org)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El Segundo Impacto: fecha (13-sep-2000), causa oficial vs. real (Adán)",
+    "para_que": "Punto 25: reglas del mundo e historia",
+    "licencia": "Wiki; ver licencia de EvaGeeks"
+  },
+  {
+    "url": "https://wiki.evageeks.org/AT_Field",
+    "fuente": "EvaWiki (EvaGeeks.org)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Qué es el Campo AT (Absolute Terror Field) y cómo se rompe",
+    "para_que": "Punto 25: vocabulario propio de la serie",
+    "licencia": "Wiki; ver licencia de EvaGeeks"
+  },
+  {
+    "url": "https://wiki.evageeks.org/Lance_of_Longinus",
+    "fuente": "EvaWiki (EvaGeeks.org)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "La Lanza de Longinus: forma, propiedades, origen",
+    "para_que": "Punto 25: objeto icónico y símbolo",
+    "licencia": "Wiki; ver licencia de EvaGeeks"
+  },
+  {
+    "url": "https://wiki.evageeks.org/Children",
+    "fuente": "EvaWiki (EvaGeeks.org)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Por qué se llama «Children» a los pilotos y el orden Primero a Quinto",
+    "para_que": "Punto 25: vocabulario que un fan reconoce al instante",
+    "licencia": "Wiki; ver licencia de EvaGeeks"
+  },
+  {
+    "url": "https://www.500type-eva.jp/evangelion-ultraman-relationship-explained/",
+    "fuente": "500type-eva.jp (blog japonés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anécdota de Anno: la idea de los Ángeles como alienígenas le vino de ver a un ángel con cara de Ultraman en el manga BASTARD!!",
+    "para_que": "Punto 24: influencia reconocida por el propio Anno",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://chiebukuronews.blog.jp/archives/31803850.html",
+    "fuente": "chiebukuronews.blog.jp (blog japonés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "El final de The End of Evangelion como parodia del final de Space Runaway Ideon",
+    "para_que": "Punto 24: obra que influyó directamente en Eva",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://screenrant.com/neon-genesis-evangelion-pretentious-hidden-meaning-philosophical-factoid/",
+    "fuente": "ScreenRant",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cita de Anno (Newtype 1997): «usamos símbolos cristianos porque se veían bien, sin significado profundo»",
+    "para_que": "Punto 25: cómo tratar el simbolismo en la lámina (estética, no lore a explicar)",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://medium.com/@annocinema/annos-compositional-vocabulary-f28ef87d45f7",
+    "fuente": "AnnoCinema (Medium)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis del vocabulario de encuadre de Anno: primer plano de la parte que actúa, corte al objeto nombrado, sobre-el-hombro aislante",
+    "para_que": "Punto 18: encuadres y composición típicos para replicar",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://aiptcomics.com/2021/02/04/revisiting-sadamotos-evangelion-manga-p1/",
+    "fuente": "AIPT Comics",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis de la línea «arrugada» de Sadamoto y su composición de viñetas en el manga",
+    "para_que": "Punto 18: tipo de línea y punto 6: composición del manga",
+    "licencia": "Artículo; sólo consulta"
+  },
+  {
+    "url": "https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender",
+    "fuente": "StraySpark Studio (tutorial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guía de look anime en Blender: Line Art, Shader to RGB + Color Ramp constante, EEVEE",
+    "para_que": "Punto 18.3: receta de Blender para replicar el estilo",
+    "licencia": "Tutorial libre; sólo consulta de la técnica"
+  },
+  {
+    "url": "https://www.micahbuzan.com/cel-shading-tutorial/",
+    "fuente": "MicahBuzan.com (tutorial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guía de cel shading en Photoshop: capas, ruido en Multiplicar para grano",
+    "para_que": "Punto 18.2: receta de Photoshop para replicar el estilo",
+    "licencia": "Tutorial libre; sólo consulta de la técnica"
+  },
+  {
+    "url": "https://www.cbr.com/neon-genesis-evangelion-other-anime-ran-out-of-budget-quality-decline/",
+    "fuente": "CBR",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis de la animación limitada de NGE por presupuesto/tiempo en los últimos episodios",
+    "para_que": "Punto 18.1: por qué la serie usa fotogramas fijos sostenidos",
+    "licencia": "Artículo; sólo consulta"
+  }
+]

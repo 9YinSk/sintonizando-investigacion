@@ -1,0 +1,172 @@
+# Parte de TEXTO, JUEGOS Y TÉCNICA · Death Note (repaso, 26-sep-2026)
+
+Investigador de texto: puntos 5, 6, 11, 18, 24 y 25 de `ENCARGO.md`. La
+biblia ya tiene los puntos 5, 6 y 11 con bastante detalle (secciones
+«6 · Tipografía», «7 · Cómo hablan y piensan en pantalla» y
+«13 · Videojuegos de la franquicia», numeración vieja de `biblia.md`, hecha
+con la red cerrada). Este repaso corto **confirma lo dudoso de esos tres y
+cubre a fondo los tres que faltan del todo: 18, 24 y 25**. Parte de
+`partes/datos-texto.md` (AniList: obra, equipo creativo, obras parecidas y
+relacionadas, capturas de Steam) sin repetir esas consultas.
+
+Leyenda: ✅ dos fuentes (o algo que comprobé yo mismo) · ⚠️ una fuente o dudoso.
+
+No hay serie hermana en `encargos/18-death-note.md`.
+
+---
+
+## Hallazgos
+
+### Puntos 5, 6 y 11 · Verificación de lo que ya hay en la biblia
+
+**Punto 5 (Tipografía) — bajé y comprobé las letras yo mismo con fontTools** (antes sólo se afirmaba comprobado; ahora es real, con los archivos descargados de Google Fonts, no de memoria):
+
+- **UnifrakturMaguntia**, **IM Fell English**, **Special Elite**, **Zeyada**, **Nothing You Could Do**, **Kalam**, **Nosifer**, **Pirata One**, **Grenze Gotisch**, **UnifrakturCook**: las 10 traen á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü · comprobado con `fontTools.ttLib.TTFont(...).getBestCmap()` sobre los `.ttf` reales bajados de `fonts.gstatic.com` (24-sep-2026) ✅ (verificación propia)
+- **Butcherman**: confirmado que **le falta el ¿** (igual que decía la biblia) ✅ (verificación propia con fontTools)
+- Para el japonés del logo y las pausas: **Shippori Mincho B1** y **Zen Old Mincho** traen katakana (デスノート) y los kanji de prueba (死神使い方神様) completos · comprobado con fontTools ✅ (verificación propia)
+- Para una interfaz o subtítulo en **coreano o chino** (la letra libre que pide `AYUDANTE.md` en esos idiomas; el juego *Killer Within* tiene textos en coreano y chino tradicional, ver punto 11 abajo): **Noto Sans KR** (hangul 데스노트 completo) y **Noto Sans SC** (hanzi 死亡笔记 completo), las dos OFL, gratis y con carácter neutro que no rompe el tono de la lámina · comprobado con fontTools ✅ (verificación propia)
+- Sigue sin comprobar la licencia exacta de «**Death Font**» (imitación del logo, de joshua1985): lo intenté en dafont.com y fontbolt.com, las dos dieron error de conexión con `curl` y con `navegar.py` no cargó el detalle de licencia en el tiempo dado ⚠️ (no resuelto; recomiendo generar el logo con **UnifrakturMaguntia** o **UnifrakturCook**, que sí están 100% libres y ya comprobadas, en vez de depender de una fuente de dafont sin licencia clara)
+
+**Punto 6 (cuadro de diálogo) y punto 11 (videojuegos)**: el contenido de la
+biblia (globo del manga inexistente, «HOW TO USE IT», pantalla blanca con la
+«L» gótica, monólogo interior, tabla de cómo habla cada personaje) está bien
+armado y con minuto; no hace falta reescribirlo. Lo completo con la interfaz
+real de **Killer Within** en el apartado del punto 11 más abajo (por eso no
+lo repito aquí).
+
+---
+
+### Punto 18 · Estilo de dibujo y técnica, y cómo replicarlo
+
+**rigs y tramas: ver puntos 3 y 19** (los trae el investigador de imagen).
+
+**El estilo de dibujo (manga de Obata, base de todo el diseño)**
+
+- Obata usa **línea de grosor variable a propósito**: donde la luz pega fuerte, la línea se afina o **desaparece del todo** (ejemplo citado: el borde de la taza de Matsuda pierde el contorno justo donde brilla más); la línea se engorda en barbilla y nariz para dar volumen rápido · [sleepycrossing.neocities.org, análisis técnico del estilo de Obata](https://sleepycrossing.neocities.org/longform/takeshi-obata) ⚠️ (un blog, pero con citas de la técnica muy concretas y verificables mirando el manga)
+- Su sombreado favorito son las **«sombras de oclusión»**: triángulos negros pequeños donde el pelo se cruza o la ropa se pliega, no tramas por todos lados; el screentone lo usa para dar **el valor local de un objeto**, no para simular la sombra proyectada · misma fuente ⚠️
+- La oscuridad es un **recurso narrativo**: páginas casi en blanco en escenas cotidianas, negro denso y sombreado detallado en los momentos de tensión · misma fuente ⚠️
+- Su iluminación es de **una sola fuente dura** (flequillo de persiana, lámpara de escritorio) que **parte la cara en dos mitades**, una limpia y otra en sombra cerrada; la paleta es desaturada, tipo «drama de suspenso de los 2000», y dos colores hacen todo el trabajo cromático: **el rojo de la manzana** y **el negro del cuaderno** · [búsqueda agregada de varios generadores de estilo IA que citan el mismo análisis](https://anifusion.ai/style/death-note-style-generator/) ⚠️ (repetido casi textual en 3 sitios de «prompts de estilo»: probablemente un único análisis original reciclado, cuento como una fuente)
+- **Rasgo raro en shonen**: caras con **proporciones de adulto real** (mentones largos, ojos estrechos, frente anatómica) en vez de la plantilla de ojos redondos; los shinigami rompen esa realidad con rasgos góticos y asimétricos · misma fuente ⚠️
+- **El propio Obata**, en una entrevista, sobre Ryuk: «me encantó dibujar líneas afiladas [*sharp lines*], algo que no hago frecuentemente»; empieza todo shinigami por la calavera, y se cuida de **no hacerlo ni muy aterrador ni muy tierno** («demasiada expresión facial lo haría demasiado *cute*») · [Tumblr, «Obata Interviews on Death Note Character Designs»](https://www.tumblr.com/kiranatrix/190168994761/obata-interviews-on-death-note-character-designs) ⚠️ (recopilación de fan de una entrevista japonesa; no se pudo verificar la fuente original directa)
+- Sobre L: «quería capturar su rareza pero también su frialdad. Es muy extraño y excéntrico pero muy genial» · misma fuente ⚠️
+
+**Quién lo hizo y cómo se llevó al anime (equipo real, de `datos-texto.md` + entrevistas)**
+
+- Equipo: dirección **Tetsurō Araki**, diseño de personajes **Masaru Kitao** (sobre el diseño original de Obata), dirección de arte **Mio Isshiki**, diseño de arte **Shinji Sugiyama**, diseño de color **Satoshi Hashimoto**, estudio **Madhouse** · `datos-texto.md` (AniList/staff) ✅
+- **El propio Araki reconoce que la adaptación no estuvo a la altura del dibujo de Obata**: «ya amaba el arte de Obata entonces, pero no creo que la adaptación le haga justicia a lo bien que dibuja» — lo dice en una entrevista sobre *Bubble* (2022), explicando por qué quiso volver a trabajar con Obata para esa película, «para estar a la altura de la calidad del arte de Obata» esta vez · [fullfrontal.moe, entrevista larga a Araki](https://fullfrontal.moe/tetsuro-araki/) ✅ (entrevista firmada, con cita directa)
+- Araki cita como sus dos grandes influencias de estilo (generales, de toda su carrera, Death Note fue su primera serie de TV): el director de cine **Shunji Iwai** («amo los destellos de lente [*lens flares*]... tuvo una influencia enorme en la gente de mi generación», sobre todo su manejo de luz en reflejos de neón y lluvia) y el animador **Osamu Dezaki** («la forma en que insertaba luz en su trabajo y cómo hacía brillar el mar eran muy hermosas») · misma fuente ✅ — ⚠️ es su filosofía general de dirección, no una cita específica sobre Death Note en concreto
+- **Guía oficial de análisis de la animación** (fuente de *making of* que confirma que existe, aunque no se tradujo nunca): *DEATH NOTE スラッシュA アニメーション公式解析ガイド* («Death Note /A Official Analysis Guide of the Animation»), Shueisha, 9-sep-2007, 160 páginas, ISBN 978-4-08-874197-0; capítulo III «Cast & Staff» (pág. 101-138) trae entrevistas al reparto y al equipo técnico; capítulo IV «Setting & Data» (pág. 139-159); arte conceptual de los escenarios (cuarto de Light, la celda, la sede de L) · [Death Note Wiki, ficha del libro (wikitext vía API)](https://deathnote.fandom.com/wiki/Death_Note_/A_Official_Analysis_Guide_of_the_Animation) ✅ · nunca salió fuera de Japón, así que su contenido exacto **no se pudo leer** ⚠️
+- Contexto de industria (no específico de Madhouse en 2006, no hay entrevista que lo confirme por nombre): el software estándar de los estudios japoneses grandes en esa época era **RETAS** (Celsys: Stylos para dibujar, TraceMan para escanear/vectorizar, PaintMan para colorear) · [Wikipedia, «RETAS»](https://en.wikipedia.org/wiki/RETAS) ⚠️ (contexto general de industria, sin cita directa de Madhouse)
+- **Iluminación y cámara descritas por análisis de estilo** (repetidas casi igual en varias webs, probablemente un único análisis reciclado, cuenta como una fuente): luz de lámpara de escritorio desde cámara derecha con sombra dura proyectada, luz de persiana tipo *noir* cruzando la cara, o el resplandor de un monitor CRT iluminando desde abajo (escenas de L); **se evita la iluminación global suave o HDR** para no perder el contraste *noir* · [anifusion.ai, generador de estilo Death Note](https://anifusion.ai/style/death-note-style-generator/) ⚠️
+
+**Encuadres y composición típicos**
+
+- Primeros planos muy cerrados en los ojos (Light, L) para marcar el giro psicológico de una escena; ángulos bajos y encuadre encogido para la postura en cuclillas de L; luz que parte la cara en dos para marcar el punto en que un personaje cruza una línea moral · combinación de lo anterior (Obata + análisis de estilo) ⚠️ — descripción compuesta, no una única fuente que lo liste así
+- La **pausa (eyecatch)**, ya en `biblia.md`: una regla del cuaderno por episodio sobre fondo texturado; es el único momento «de manual gráfico» fijo de toda la serie y sirve de plantilla para una cartela fija del canal.
+
+**Cómo replicarlo en Photoshop**
+
+1. **Línea de grosor variable, no uniforme**: dibuja el boceto con una tableta a presión (Kyle's o Pencil brushes) y, en la capa de línea, **borra o aclara el trazo donde la luz pega** (con la goma en modo *Opacity* baja) en vez de dejar el contorno cerrado; engorda el trazo en mentón/nariz. Esto imita directamente la técnica de Obata citada arriba.
+2. **Color plano, casi monocromo**: rellena con el cubo con «Lock Transparent Pixels» activado; paleta muy desaturada (grises, negros, un blanco hueso) y **reserva el color puro para un solo objeto por escena** (la manzana roja, la portada negra del cuaderno) — así se replica el «dos colores hacen todo el trabajo» citado arriba.
+3. **Sombra en formas sólidas, no degradado**: capa en modo Multiply, pintada con el lazo o un pincel de borde duro, pensando en «sombras de oclusión» (triángulos donde el pelo se cruza, el pliegue de la ropa) en vez de un degradado suave. Nada de aerógrafo.
+4. **Luz de una sola fuente dura**: una capa en modo Screen u Overlay, sólo en el lado iluminado de la cara, dejando el resto en negro cerrado — la «cara partida en dos» de las fuentes de arriba.
+5. **Grano y viñeta como capas de ajuste encima de todo**: ruido monocromo a baja opacidad (Filtro > Ruido > Añadir ruido, «monocromático») + viñeta oscura en los bordes con una capa de degradado radial en Multiply — el «filtro» típico del anime de 2006-2007, sin que ninguna fuente lo confirme como técnica exacta de Madhouse (⚠️ técnica general de posproducción, no cita directa de la serie).
+
+**Cómo replicarlo en Blender**
+
+1. **Contorno**: el modificador **Line Art** de Grease Pencil (Blender 2.93+) da un contorno limpio desde la geometría; para que el grosor **varíe como la línea de Obata** (fino o ausente donde pega la luz), se puede modular el grosor del Line Art con una textura o con el modificador **Solidify** invertido sólo en las zonas de sombra, o recurrir a **Freestyle** (Render > Freestyle) y controlar el grosor por «Alpha» ligado a la iluminación de la escena.
+2. **Shader de sombra dura, sin degradado**: cadena de nodos **Diffuse BSDF → Shader to RGB → ColorRamp** con el ColorRamp en modo **Constant** (no Linear), y **sólo dos paradas de color** (piel iluminada / piel en sombra) para el corte duro que pide el estilo, igual de duro que la sombra de la manga.
+3. **Luz**: una sola **Spot** o **Area light** dura (sombras activadas, tamaño pequeño para que el borde de la sombra sea nítido) posicionada como una lámpara de escritorio desde un lado, sin luz de relleno ni HDRI de ambiente — así se evita el «HDR suave» que las fuentes de arriba dicen que rompe el look *noir*.
+4. **Render y composición**: en el compositor de Blender, añadir grano (nodo *Film Grain* o ruido + Mix) y una viñeta oscura en los bordes, igual que en Photoshop, para el «filtro de animación» del anime.
+5. Modelos y *rigs* del personaje, y las tramas/texturas 2D para aplicar encima del shader: **ver puntos 3 y 19** (los trae el investigador de imagen), no se repiten aquí.
+
+### Punto 24 · Obras parecidas y temas relacionados
+
+**Series de tono o estilo parecido** (recomendaciones de usuarios de AniList, ya en `partes/datos-texto.md`: Code Geass, Monster, Code Geass R2, The Promised Neverland, Parasyte, Terror in Resonance, Moriarty the Patriot, Death Parade, Talentless Nana, Platinum End, Psycho-Pass, Inuyashiki, Kaiji, Erased — no se repite esa consulta)
+
+- **Code Geass** (nota 85, 3559 votos, la recomendación más votada) comparte con Death Note el protagonista genio que manipula desde las sombras con un poder que cambia la voluntad ajena (el Geass ↔ el cuaderno) y el «juego del gato y el ratón» contra un rival igual de listo (Suzaku/Lelouch ↔ L/Light) · `datos-texto.md` (AniList) ✅
+- **Monster** (nota 88, del mismo tono: un médico persigue durante años a un asesino con máscara de normalidad) y **Psycho-Pass** (policía y justicia automatizada, moralidad gris) son las comparaciones más citadas en listas de recomendación por «duelo psicológico entre genio del bien y genio del mal» · `datos-texto.md` (AniList) ✅ + coincide con la ficha temática de AniList para Death Note (`Anti-Hero 94%`, `Philosophy 84%`, `Police 87%`, `Noir 79%`) ✅
+- **Death Parade**, del mismo tono de decisiones morales bajo presión con un maestro de juego observando (Decim ↔ L/Ryuk observando el tablero), y **Moriarty the Patriot** (genio criminal que se cree la justicia, detective que lo persigue) son las más parecidas en la propia estructura «detective contra villano genio» · `datos-texto.md` (AniList) ✅
+- **Terror in Resonance** (Zankyou no Terror) comparte el tono de thriller policial silencioso con dos genios jóvenes contra el sistema · `datos-texto.md` (AniList) ✅
+
+**Influencias que reconoce el propio autor (Tsugumi Ohba, guionista)**
+
+- Ohba es un autor bajo **seudónimo, casi sin rostro público** (su género ni se confirmó hasta la ficha interior de *Bakuman* en 2008) ✅ [Inverse, «Who Is the Creator of Death Note?»](https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga)
+- Sobre la idea de Death Note, en sus propias palabras: **«No hubo nada en particular. Empecé a pensar algunas ideas y, mientras flotaban en mi cabeza, fueron llegando más ideas hasta llenar la trama con detalles como las reglas y el dios de la muerte»**; y sobre el tema de la justicia: **«No pensé mucho en temas como "vida y muerte" o "justicia y maldad". Escribí la historia esperando que fuera buen entretenimiento»** · ✅ dos fuentes con la misma cita (traducción de la entrevista original de Shonen Jump): [ComiPress](https://www.comipress.com/news/2007/01/15/1330) + [Yahoo/la misma entrevista recogida](https://www.yahoo.com/news/creator-apos-death-note-apos-212900017.html)
+- Sus **modelos a seguir declarados** son **Fujiko F. Fujio** (creador de *Doraemon* — en la cola de encargos, `19-doraemon.md`, tono radicalmente distinto), **Fujio Akatsuka** (padre del manga de gags) y **Shotaro Ishinomori** (creador de *Kamen Rider* y de la base de *Super Sentai/Power Rangers*) · [Inverse](https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga) ⚠️ (una fuente; no hay declaración directa de Ohba citando a estos tres, es un dato de perfil del medio)
+- **Takeshi Obata** (dibujante) es, según el propio Ohba, su «colaborador profesional favorito»: casi todo lo que ha escrito Ohba lo ha dibujado Obata (*Death Note*, *Bakuman*, *Platinum End*) · [Inverse](https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga) ⚠️ (una fuente)
+
+**Obras relacionadas directamente** (ya en `datos-texto.md`, AniList): manga original (adaptación), *Death Note: Relight* (especial resumen), *Death Parade* (mismo universo temático, personaje compartido: Ryuk aparece en un cameo) ✅.
+
+**Qué otras láminas del servidor se le parecen** (comprobado contra `ls encargos/`, 26-sep-2026; para no repetir ideas cuando les toque)
+
+- **Cowboy Bebop: jazz y noir** (en `encargos/`) — el match de tono más directo: ambas usan **estética noir** (luz dura, sombra que parte la escena, paleta apagada) como recurso central, no de fondo ✅
+- **Neon Genesis Evangelion**, dos veces (`16-neon-genesis-evangelion.md` y la de «tarjetas y NERV») — comparte el peso psicológico y filosófico (`Philosophy 84%` en la ficha de temas de Death Note) y el protagonista atrapado en su propia cabeza ✅
+- **Bungo Stray Dogs** (en `encargos/`) — agencia de detectives con poderes sobrenaturales, mismo terreno de «genio contra genio» con un caso a resolver ⚠️ (comparación mía por género y estructura, no de una fuente que compare ambas obras directamente)
+- **Kakegurui** (`12-kakegurui.md`) — duelo mental de apuestas con un genio manipulador que siempre va un paso por delante, misma tensión de «¿quién lleva la ventaja de verdad?» que Light vs. L ⚠️ (comparación mía por estructura de género)
+- **Vinland Saga** y **Chainsaw Man** — mismo terreno de shonen oscuro con violencia real y dilema moral, aunque de acción más física que mental; ya señalados como parecidos entre sí en otras biblias de este mismo equipo (ver `biblias/32-jujutsu-kaisen/partes/texto.md`) ⚠️
+- No hay choque de **canal**: la propuesta de #textos (guiones de práctica) no se repite en ninguna de las anteriores por lo que dice `servidor/inventario.md`.
+
+### Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** (de la lista oficial «Rules of the Death Note», impresa entre capítulos del manga)
+
+- Quien tenga su nombre escrito en el cuaderno **muere**; si no se escribe la causa, muere de un **infarto a los 40 segundos** de escribir el nombre · [Death Note Wiki, «Rules of the Death Note/Manga Chapter Rules», Volumen 1](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note/Manga_Chapter_Rules) ✅ (página wiki + confirmado en el propio anime, ep. 1, ya citado en `biblia.md`)
+- Hay que **conocer la cara y el nombre real** de la víctima; dos personas con el mismo nombre no mueren por error · misma fuente ✅
+- Quien usa el cuaderno **ni va al cielo ni al infierno**; el cuaderno pasa a ser propiedad de quien lo toca en el mundo humano · misma fuente ✅
+- Quien lo posee **es perseguido por el shinigami dueño original** hasta que muere; el shinigami no ayuda ni evita las muertes por norma · misma fuente ✅
+- Un humano puede **cambiar la mitad de su vida restante por «ojos de shinigami»**: ver el nombre y los años de vida de cualquier persona con sólo mirarle la cara · [Death Note Wiki, «Shinigami Eyes»](https://deathnote.fandom.com/wiki/Shinigami_Eyes) ✅ + ya citado en el anime (ep. 11) en `biblia.md`
+
+**El objeto en sí (para el «cuaderno sobre la mesa» que pide el encargo)**
+
+- El Death Note es una **libreta negra corriente por fuera** (páginas rayadas blancas por dentro, como un cuaderno escolar); nunca se le acaban las páginas; su material es «desconocido para la ciencia humana» pero se puede rasgar o quemar como papel normal; los shinigami pueden ponerle **una portada distinta** (la mayoría la dejan lisa, sin nada escrito) · [Death Note Wiki, «Death Note (object)», sección «Appearance»](https://deathnote.fandom.com/wiki/Death_Note_(object)) ✅
+- Dato para la lámina: el cuaderno de Light (el de Ryuk) es el que aparece en pantalla con la portada lisa y «DEATH NOTE» rotulado a mano en el lomo o la tapa (ya en el punto 5 de tipografía, letra gótica) — no hace falta inventar un diseño de portada nuevo, el canon lo deja abierto («si algo, nada») ✅
+
+**La historia por arcos, con sus momentos clave**
+
+- **Arco Kira / L (ep. 1-25 aprox.)**: Light encuentra el cuaderno, empieza a matar criminales, aparece Ryuk. Interpol manda a **L**; L engaña a Light para localizarlo en Kantō. Misa consigue un segundo cuaderno y ojos de shinigami por Rem; se enamora de Kira y descubre que es Light. Light la usa para averiguar el nombre real de L. Con el truco de la **amnesia del cuaderno** (Light y Misa pierden la memoria de tenerlo), Light entra al equipo de L y juntos atrapan a Higuchi (Yotsuba); Light recupera la memoria y mata a Higuchi. **Rem mata a L** para salvar a Misa y se desintegra; Light se convierte en el nuevo «L» · [Wikipedia, «Death Note», sección Plot](https://en.wikipedia.org/wiki/Death_Note) ✅ + [Death Note Wiki](https://deathnote.fandom.com/wiki/Death_Note_Wiki) ✅ (misma secuencia, dos fuentes independientes)
+- **Arco Near / Mello (ep. 26-37)**: cinco años después, con cultos que adoran a Kira. Aparecen los sucesores de L: **Near** (se une al gobierno de EE. UU., forma la SPK) y **Mello** (se une a la mafia). Mello secuestra y usa el cuaderno; Near y Mello intercambian información aunque compiten entre sí. **Aizawa** (del equipo japonés) empieza a sospechar de Light. Light pasa el cuaderno de Misa a **Mikami** (fanático de Kira) y pone a **Takada** como voz pública de Kira. Mello secuestra a Takada, ella lo mata con el cuaderno y luego Light la mata a ella. **Near demuestra que Light es Kira** en la reunión final; Light, herido, le pide a Ryuk que escriba los nombres de todos los presentes — **Ryuk escribe el nombre de Light**, cumpliendo lo que le prometió el día que se conocieron, y Light muere · mismas dos fuentes ✅
+- Momentos clave ya con minuto exacto en `biblia.md` (no se repiten aquí): la manzana y la primera muerte, la pausa con reglas, la pantalla blanca de la «L», la muerte de L, la muerte de Light.
+
+**Emblemas, logos de grupos y objetos icónicos**
+
+- **Task Force / equipo japonés** (タスクフォース): grupo secreto fundado por L dentro de la policía japonesa (NPA); no tiene un logo público, su símbolo visual en la lámina sería la **insignia de investigador** que muestran al identificarse (imagen «TaskForceVerification») · [Death Note Wiki, «Japanese Task Force»](https://deathnote.fandom.com/wiki/Japanese_Task_Force) ✅
+- **SPK** (Special Provision for Kira): grupo de elite FBI/CIA liderado por Near, con base en Nueva York y luego Japón; su nombre es sólo texto, sin logo gráfico propio en el canon · [Death Note Wiki, «Special Provision for Kira»](https://deathnote.fandom.com/wiki/Special_Provision_for_Kira) ✅
+- **Grupo Yotsuba** (Yotsuba Group/Yotsuba Corporation): conglomerado empresarial fundado por Kyosuke Higuchi; en el manga y el anime aparece con el logo corporativo «Yotsuba» (よつば, «cuatro hojas») sobre documentos y edificios de la empresa · [Death Note Wiki, «Yotsuba Group»](https://deathnote.fandom.com/wiki/Yotsuba_Group) ✅
+- **Objetos icónicos que un fan reconoce al instante**: el cuaderno negro «DEATH NOTE», la **manzana roja** (Ryuk), la **«L» gótica sobre pantalla blanca**, el **reloj de arena / los dulces de L** (torres de azúcar), el celular con el que Light escribe nombres al final, el **maletín/las esposas** que unen a L y Light, la letra «N» de Near sobre pantalla blanca (mismo recurso que la «L») ✅ (recopilación de datos ya confirmados en `biblia.md`, puestos aquí como lista de símbolos para la lámina)
+
+**Vocabulario propio que un fan reconoce al instante**
+
+- **Kira** (キラ, del inglés «killer»): el apodo mediático del asesino; aparece pintado como grafiti/ｷﾗ en el mundo real de la serie · [Death Note Wiki](https://deathnote.fandom.com/wiki/Kira) ⚠️ (página existe, contenido no releído a fondo, pero el término está confirmado en el propio anime en `biblia.md`)
+- **Shinigami** (死神, «dios de la muerte»): Ryuk, Rem, Sidoh; viven en el «Reino Shinigami» (Shinigami Realm), un desierto gris con huesos, ya citado en `biblia.md` ✅
+- **Ojos de shinigami** (死神の目): el trato de la mitad de vida por ver nombres, ya descrito arriba ✅
+- **Segundo Kira** (2番目のキラ): apodo mediático de Misa cuando aparece con el segundo cuaderno · [Death Note Wiki, «Shinigami Eyes»](https://deathnote.fandom.com/wiki/Shinigami_Eyes) ✅
+- **«Dios del nuevo mundo»** (新世界の神): la frase con la que Light se proclama a sí mismo, ya citada con minuto en `biblia.md` (ep. 1) ✅
+- **La Casa Wammy** (The Wammy's House / Wammy's House): el orfanato inglés de Watari que forma a los sucesores de L (L, Near, Mello, A, B) · [Death Note Wiki, «The Wammy's House»](https://deathnote.fandom.com/wiki/The_Wammy%27s_House) ✅ (redirect confirmado desde «Wammy's House»)
+- **La regla de los 40 segundos** y **la regla de los 6 minutos 40 segundos**: las que todo fan cita de memoria (40 s para escribir la causa de muerte tras el nombre; 6 min 40 s más para los detalles) · [Death Note Wiki, «Rules of the Death Note/Manga Chapter Rules»](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note/Manga_Chapter_Rules) ✅
+
+---
+
+## Lo mejor para la lámina
+
+- Letra: título en **UnifrakturMaguntia** (gótica, OFL, comprobada con fontTools); la «L» sola en la misma letra sobre fondo blanco; texto escrito a mano en **Kalam**.
+- El texto del canal va **como si estuviera escrito en una hoja arrancada del cuaderno**: tinta negra sobre papel hueso, nunca en una burbuja blanca redonda.
+- Estilo visual a replicar: **una sola luz dura** que parte la cara en dos, paleta casi monocroma con **un solo color puro por escena** (rojo de manzana o portada del cuaderno), sombras en triángulos duros (Multiply), nunca degradado suave.
+- En Blender: contorno con **Line Art** o **Freestyle** de grosor variable, sombreado con **Shader to RGB + ColorRamp en modo Constant** (dos paradas, sin degradado), luz tipo Spot dura sin HDRI de relleno.
+- Objeto/símbolo central para la lámina: el **cuaderno negro DEATH NOTE** sobre la mesa, con una manzana roja al lado (el único color puro de la escena) — es el símbolo que cualquier fan reconoce sin leer una palabra.
+
+## No encontré
+
+- Licencia exacta de la fuente «Death Font» (imitación del logo) en dafont.com/fontbolt.com: dos intentos con `curl` y con `navegar.py`, ambos sin resultado ⚠️ (recomendada alternativa libre ya comprobada: UnifrakturMaguntia/UnifrakturCook).
+- Contenido exacto del libro *DEATH NOTE スラッシュA アニメーション公式解析ガイド* (Shueisha, 2007): nunca se tradujo ni se escaneó fuera de Japón; sólo se confirmó que existe y su índice, por la ficha de Death Note Wiki ⚠️.
+- Confirmación directa de Madhouse (por nombre del estudio) usando RETAS en 2006: es contexto de industria de la época (Wikipedia), no una entrevista que lo diga sobre esta serie en concreto ⚠️.
+- Un logo gráfico propio del Task Force japonés y de la SPK: las dos organizaciones son secretas en la trama y el canon no les da un emblema visual, sólo nombre y una insignia de identificación genérica ⚠️.
+- Búsquedas hechas en esta sesión (repaso, 26-sep-2026): Fandom API `deathnote.fandom.com` (`Rules of the Death Note/Manga Chapter Rules`, `Death Note (object)`, `Shinigami Eyes`, `Yotsuba Group`, `Japanese Task Force`, `Special Provision for Kira`, búsquedas internas por «arc», «symbol»/«emblem»/«logo», «Wammy's House»/«SPK»/«Kira Task Force»), Wikipedia (`Death Note`, sección Plot), TV Tropes (`Franchise/DeathNote`, con `navegar.py`), `servidor/reglas_del_dueno.md` e `servidor/inventario.md` (comprobación de choque de canal, ya hecha).
+
+## Bitácora
+
+- 26-sep-2026 (repaso, español/inglés): Fandom API de `deathnote.fandom.com` para reglas del mundo, el objeto Death Note, ojos de shinigami, grupo Yotsuba, Task Force y SPK — sin bloqueo, la API funciona directo.
+- 26-sep-2026 (inglés): Wikipedia `action=parse` sobre «Death Note» para la sección Plot completa, contrastada con la secuencia de arcos de Death Note Wiki (dos fuentes independientes para el punto 25).
+- 26-sep-2026 (inglés): TV Tropes `Franchise/DeathNote` con `navegar.py` (funciona en esta máquina) para el panorama de toda la franquicia (usado sólo de contexto, ya cubierto por `datos-texto.md`).
+- Sesión anterior (24/25-sep-2026, cortada por el límite de uso): fontTools sobre 12 fuentes descargadas de Google Fonts; entrevistas a Araki (fullfrontal.moe) y Obata (Tumblr); Inverse sobre Tsugumi Ohba; ComiPress/Yahoo con la cita original de Ohba; comparación con `encargos/` para el punto 24.
+

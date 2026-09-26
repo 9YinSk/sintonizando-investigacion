@@ -1,0 +1,290 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada/key visual oficial del anime",
+  "para_que": "paleta base y composición general",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174576-6stJnscy5rCi.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner horizontal oficial",
+  "para_que": "composición ancha para cabecera de lámina",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_1_main.png",
+  "fuente": "Sitio oficial del anime (wistoria-anime.com/character)",
+  "ancho": 780,
+  "alto": 1600,
+  "que_es": "Will Serfort, arte oficial de cuerpo completo, uniforme de Regarden",
+  "para_que": "pose base y colores reales del uniforme (hex medidos con estilo.py)",
+  "licencia": "© FTK/WP (comité de producción); sólo referencia"
+ },
+ {
+  "url": "https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_1_main2.png",
+  "fuente": "Sitio oficial del anime",
+  "ancho": 780,
+  "alto": 1600,
+  "que_es": "Will Serfort, traje de mazmorra con gafas bajadas",
+  "para_que": "pose de acción/combate y accesorio icónico (gafas)",
+  "licencia": "© FTK/WP; sólo referencia"
+ },
+ {
+  "url": "https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_2_main.png",
+  "fuente": "Sitio oficial del anime",
+  "ancho": 780,
+  "alto": 1600,
+  "que_es": "Elfaria Albis Serfort, Manto Sagrado de Polvo de Diamante",
+  "para_que": "vestuario icónico y hex del vestido",
+  "licencia": "© FTK/WP; sólo referencia"
+ },
+ {
+  "url": "https://wistoria-anime.com/jrepgmrf/wp-content/themes/wistoria-anime/assets/img/character/character_4_main.png",
+  "fuente": "Sitio oficial del anime",
+  "ancho": 780,
+  "alto": 1600,
+  "que_es": "Sion Ulster, uniforme de Regarden",
+  "para_que": "vestuario de personaje secundario querido",
+  "licencia": "© FTK/WP; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/c/c6/Will_Serfort_-_Anime_Design.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 780,
+  "alto": 1600,
+  "que_es": "Hoja de modelo oficial de producción, Will uniforme",
+  "para_que": "referencia técnica de diseño (turnaround simplificado)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/0/0d/Will_Serfort_%28High_Mage%29_-_Anime_Design.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 748,
+  "alto": 1384,
+  "que_es": "Hoja de modelo, Will traje de Alto Mago",
+  "para_que": "vestuario de arco avanzado (más claro y dorado)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/7/7f/Elfaria_Albis_Serfort_-_Anime_Design.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 780,
+  "alto": 1600,
+  "que_es": "Hoja de modelo oficial, Elfaria",
+  "para_que": "referencia técnica del vestido y accesorios",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/2f/Zion_Alster_Color.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 1272,
+  "alto": 1740,
+  "que_es": "Arte a color de Sion Ulster (pose de acción con fuego)",
+  "para_que": "paleta de fuego medida (#D32E12) y pose dinámica",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://dvs-cover.kodansha.co.jp/0000349822/VjUQEJvrRcZBToVCKGJ7jrEDwSReFJi8pzg7GWnz.jpg",
+  "fuente": "Kodansha (editorial oficial)",
+  "ancho": 640,
+  "alto": 957,
+  "que_es": "Portada oficial del tomo 1 del manga",
+  "para_que": "arte de portada de tomo, punto 1 del encargo",
+  "licencia": "© Fujino Omori / Toshi Aoi / Kodansha; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/9/90/Urbus_Regarden_%28Anime%29.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Vista aérea de Urbus Regarden (la ciudad-torre)",
+  "para_que": "paisaje/fondo de pantalla, paleta de campo y cielo medida",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/4/48/Regarden_Magical_Academy.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 1050,
+  "alto": 506,
+  "que_es": "Fachada de la Regarden Magical Academy (manga)",
+  "para_que": "referencia de la academia de magia (foco del encargo)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/c/ce/Mercedes_Caulis.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 433,
+  "alto": 678,
+  "que_es": "La torre Mercedes Caulis (manga)",
+  "para_que": "referencia de la torre (foco del encargo)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/3/32/Abyss_Gates.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 1115,
+  "alto": 1600,
+  "que_es": "Entrada de la mazmorra (Abyss Gates)",
+  "para_que": "arquitectura interior gótica de piedra",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/6/6a/Slumland_Street_%28Anime%29.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Calle del barrio de los enanos, Slumland Street",
+  "para_que": "fondo/paisaje alternativo, luz cálida de noche",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/9o/wallhaven-9o681x.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2302,
+  "alto": 1629,
+  "que_es": "Fondo de pantalla de fans, Will/Sion/Julius",
+  "para_que": "fondo de pantalla en alta resolución",
+  "licencia": "uso personal (Wallhaven); crédito: Omelettte"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/yx/wallhaven-yxp2pd.png",
+  "fuente": "Wallhaven",
+  "ancho": 2048,
+  "alto": 1373,
+  "que_es": "Fondo de pantalla de fans, manga",
+  "para_que": "fondo de pantalla en alta resolución",
+  "licencia": "uso personal (Wallhaven); crédito: MAKEMO"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/58/The_emblems_of_the_current_Magia_Vander_factions.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 1006,
+  "alto": 681,
+  "que_es": "Lámina con 4 emblemas de facción (fuego, hielo, trueno, hadas)",
+  "para_que": "vocabulario gráfico de sellos/emblemas para marcos y cuadros de diálogo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/f/f4/Albis_Vina_Emblem.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 3116,
+  "alto": 3096,
+  "que_es": "Emblema en alta resolución de la facción de hielo de Elfaria",
+  "para_que": "logo/sello limpio en muy alta resolución",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/0/01/Incindia_Barham_Emblem.png",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 3140,
+  "alto": 3145,
+  "que_es": "Emblema en alta resolución de la facción de fuego (mentora de Sion)",
+  "para_que": "logo/sello limpio en muy alta resolución",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://wistoria-anime.com/jrepgmrf/wp-content/uploads/2024/08/g15.jpg",
+  "fuente": "Sitio oficial del anime (goods)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Funda de cartas oficial: grupo completo caminando hacia la torre, con logo",
+  "para_que": "pose de grupo viva + tratamiento oficial del logo",
+  "licencia": "© FTK/WP; sólo referencia"
+ },
+ {
+  "url": "https://wistoria-anime.com/jrepgmrf/wp-content/uploads/2024/08/g20.jpg",
+  "fuente": "Sitio oficial del anime (goods)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Macarons oficiales con retratos de personajes",
+  "para_que": "ejemplo de colaboración/merchandising temático (punto 23)",
+  "licencia": "© FTK/WP; sólo referencia"
+ },
+ {
+  "url": "https://wistoria-anime.com/jrepgmrf/wp-content/uploads/2024/08/g07.jpg",
+  "fuente": "Sitio oficial del anime (goods)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Llavero acrílico chibi de personaje secundario elfo",
+  "para_que": "referencia de versión chibi oficial",
+  "licencia": "© FTK/WP; sólo referencia"
+ },
+ {
+  "url": "https://img.sunrise-inc.co.jp/images/2026/06/thm_202606111155103091.jpg",
+  "fuente": "Magical Sisters Lulutto Lilly (sitio oficial de la colaboración)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Manga de 3 viñetas del crossover con Kiki (jun-2026)",
+  "para_que": "documentar el crossover oficial (punto 23)",
+  "licencia": "© titulares de ambas series; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/stylized-fantasy-magic-sword-4fee2edc25e841c8b173e783d933c9ad",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D CC de una espada mágica estilizada (base genérica, no oficial)",
+  "para_que": "referencia de topología para Wis en Blender",
+  "licencia": "CC Attribution — autor Danciu Cristian-Alexa"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/medieval-tower-c4d4b41b87fd427fbfc9c61f3c151ae9",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D CC de una torre medieval (base genérica, no oficial)",
+  "para_que": "referencia de proporciones para la Mercedes Caulis en Blender",
+  "licencia": "CC Attribution — autor farooq.smurf"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper001",
+  "fuente": "AmbientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura de grano de papel CC0",
+  "para_que": "capa de grano de papel/manga en Photoshop",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Fabric061",
+  "fuente": "AmbientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura de tela CC0",
+  "para_que": "capa de tela para togas/capas del uniforme",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Marble012",
+  "fuente": "AmbientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura de mármol/piedra clara CC0",
+  "para_que": "capa de piedra para la Academia y la Torre",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes",
+  "fuente": "Brusheezy",
+  "ancho": null,
+  "alto": null,
+  "que_es": "34 pinceles de screentone/halftone de manga en alta resolución",
+  "para_que": "tramas de manga equivalentes para Photoshop/Clip Studio",
+  "licencia": "gratis, revisar términos de atribución del sitio"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/28/Elfie_and_Will.jpg.jpg",
+  "fuente": "Wistoria Fandom Wiki",
+  "ancho": 1179,
+  "alto": 654,
+  "que_es": "Will y Elfaria juntos, escena de niños",
+  "para_que": "dinámica entre los dos protagonistas para lámina en grupo",
+  "licencia": "© titulares; sólo referencia"
+ }
+]

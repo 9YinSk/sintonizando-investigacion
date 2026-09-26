@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_663171dc3afce8fe987e57e8659f91b69faa39bc.1920x1080.jpg",
+    "fuente": "Steam (tienda oficial de Persona 5 Royal)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: cuadro de diálogo en clase, cuadrilátero blanco irregular con borde negro y cola en punta, cinta de nombre inclinada, calendario/reloj arriba a la izquierda",
+    "para_que": "Punto 6: referencia exacta del cuadro de diálogo real del juego para la cartela de la lámina",
+    "licencia": "Captura oficial de Steam; copyright ATLUS/SEGA (uso de referencia)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_c665872b4c5cb3a4e4fd3a4abde97ee60fe51e33.1920x1080.jpg",
+    "fuente": "Steam (tienda oficial de Persona 5 Royal)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: diálogo de Kasumi en la sala del club, mismo formato de cuadro y cinta de nombre",
+    "para_que": "Punto 6: segunda muestra del cuadro de diálogo, confirma el patrón en dos escenas distintas",
+    "licencia": "Captura oficial de Steam; copyright ATLUS/SEGA (uso de referencia)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_ddcc016b8e5c434ccbd1a89c0157ce73acf905ae.1920x1080.jpg",
+    "fuente": "Steam (tienda oficial de Persona 5 Royal)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: pantalla de grupo con los Ladrones Fantasma en la alfombra roja, ángulo bajo, luz de contraluz y destellos de lente",
+    "para_que": "Punto 18: referencia de encuadre y composición (ángulo bajo, fondo rojo saturado, siluetas)",
+    "licencia": "Captura oficial de Steam; copyright ATLUS/SEGA (uso de referencia)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_63d2164bf39a43905e9602381f43a9ad4ab46dea.1920x1080.jpg",
+    "fuente": "Steam (tienda oficial de Persona 5 Royal)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de la pantalla de rango de confidente de Ann/Carmen: panel de cómic con tramas de medio tono, rosas y titular en letras recortadas «Beauty is Devotion»",
+    "para_que": "Punto 18: referencia directa de trama de medio tono (halftone) y tipografía tipo nota de rescate en una cartela real del juego",
+    "licencia": "Captura oficial de Steam; copyright ATLUS/SEGA (uso de referencia)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382330/ss_dcf8139ee8becf74ebbcda5d818ea4d9f16dc64f.1920x1080.jpg",
+    "fuente": "Steam (tienda oficial de Persona 5 Strikers)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: HUD de combate en tiempo real, menú de comandos diagonal rojo PERSONA/ATTACK/SUPPORT/GUN, contador de Actions",
+    "para_que": "Punto 11: interfaz de un videojuego de acción de la franquicia (distinto del turnos por turnos)",
+    "licencia": "Captura oficial de Steam; copyright ATLUS/SEGA/Omega Force (uso de referencia)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254740/ss_7edb63fe02989c63833f901746c393ac75d39f36.1920x1080.jpg",
+    "fuente": "Steam (tienda oficial de Persona 5 Tactica)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de Persona 5 Tactica: mismo calendario y cuadro de diálogo, con paleta morada del spin-off táctico",
+    "para_que": "Punto 11: interfaz de un spin-off táctico de la franquicia",
+    "licencia": "Captura oficial de Steam; copyright ATLUS/SEGA (uso de referencia)"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/8bb7bb086c2456446ebfeb26aeb6ed23464fd6ea/ss_8bb7bb086c2456446ebfeb26aeb6ed23464fd6ea.1920x1080.jpg",
+    "fuente": "Steam (tienda oficial de Persona5: The Phantom X)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial del gacha Persona5: The Phantom X (2025), mantiene el mismo lenguaje visual de diálogo y calendario",
+    "para_que": "Punto 11: interfaz del videojuego más reciente de la franquicia, confirma que el lenguaje visual se mantiene 9 años después",
+    "licencia": "Captura oficial de Steam; copyright ATLUS/SEGA/Perfect World (uso de referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/megamitensei/images/2/28/Phantom_Thieves_Logo.png/revision/latest?cb=20170528120634",
+    "fuente": "Wiki de Megami Tensei (Fandom), imageinfo por API (prop=imageinfo&iiprop=url|size)",
+    "ancho": 529,
+    "alto": 615,
+    "que_es": "Logo oficial de los Ladrones Fantasma (máscara/ojo estilizado en blanco sobre negro)",
+    "para_que": "Punto 25: emblema principal del grupo protagonista, símbolo más reconocible de la serie",
+    "licencia": "Wiki de Fandom (arte oficial de ATLUS/SEGA; uso de referencia, requiere cabecera Referer: https://www.fandom.com/ para descargar)"
+  }
+]

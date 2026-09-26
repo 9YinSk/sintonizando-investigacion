@@ -1,0 +1,1512 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Inuyasha",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1358-oR7bIGfc5pnX.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Sesshoumaru",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1354-PuUTCSX7UzKA.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kagome Higurashi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1355-zPTmTwhMXQbt.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Sango",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1359-AFczK1HRd3ub.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kikyou",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1356-rLhVHJzPY0Mp.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Miroku",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1357-q81pBzC7ynld.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Shippo",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/1371.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Koga",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1365-C5r2sPW8PwA8.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Rin",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1369-LD9NafSxg3zv.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kagura",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8323-RGrk8ZVTYUuy.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kirara",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/1367.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Naraku",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1364-4Y3v1IMEAwIg.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Jaken",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1366-Fac3MafjvAaJ.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Kohaku",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9022-UuYoelOzlCyU.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Yura",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx249-jVBkyLnBvnRE.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/249-9ufXhmXxncry.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/4/48/InufriendsK.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 2252,
+  "alto": 1080,
+  "que_es": "Inuyasha: InufriendsK.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/8/8b/Miroku_and_Inuyasha_%28Ep193%29.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Inuyasha: Miroku and Inuyasha (Ep193).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/d/db/Inuyasha_and_Kagome_reunited_%28Ep193%29.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Inuyasha: Inuyasha and Kagome reunited (Ep193).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/0/04/InuandMoro.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Inuyasha: InuandMoro.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/b/be/InuYasha_Final_Act_Inuyasha_and_Kagome_Towards_Tomorrow.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Inuyasha: InuYasha Final Act Inuyasha and Kagome Towards Tomorrow.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/0/07/InuKoga.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Inuyasha: InuKoga.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/5/59/InuKagu.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Inuyasha: InuKagu.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/e/e3/Inuyasha_Anime.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1916,
+  "alto": 1080,
+  "que_es": "Inuyasha: Inuyasha Anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/f/f2/Inuyasha_miruko.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1440,
+  "alto": 1080,
+  "que_es": "Inuyasha: Inuyasha miruko.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/a/a2/Inuyasha_and_shippo.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1440,
+  "alto": 1080,
+  "que_es": "Inuyasha: Inuyasha and shippo.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/a/a2/Kagome_Higurashi_Anime.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 2880,
+  "alto": 1615,
+  "que_es": "Kagome Higurashi: Kagome Higurashi Anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/5/5c/BabyKagomeEp148.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 2396,
+  "alto": 1799,
+  "que_es": "Kagome Higurashi: BabyKagomeEp148.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/8/8a/InuKag_Since_Then.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 2559,
+  "alto": 1439,
+  "que_es": "Kagome Higurashi: InuKag Since Then.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/c/c2/Kagome_Vector.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 800,
+  "alto": 3254,
+  "que_es": "Kagome Higurashi: Kagome Vector.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/7/7e/Morokag.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kagome Higurashi: Morokag.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/f/f5/KagomeAndMoroha.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kagome Higurashi: KagomeAndMoroha.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/5/5d/Kagome_worries_Kikyo_%28Ep175%29.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kagome Higurashi: Kagome worries Kikyo (Ep175).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/2/2a/Kagome_and_kikyo.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kagome Higurashi: Kagome and kikyo.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/1/18/InuYasha_Final_Act_Screenshot_0516.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Kagome Higurashi: InuYasha Final Act Screenshot 0516.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/2/2f/Inuyasha_and_Kagome_artbook.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1023,
+  "alto": 1200,
+  "que_es": "Kagome Higurashi: Inuyasha and Kagome artbook.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/4/44/Sesshomaru_Wielding_Bakusaiga.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 2880,
+  "alto": 1617,
+  "que_es": "Sesshōmaru: Sesshomaru Wielding Bakusaiga.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/d/d3/Sesshomaru.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Sesshōmaru: Sesshomaru.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/3/3a/FA_17_-_Sesshomaru%27s_new_arm_%26_sword.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Sesshōmaru: FA 17 - Sesshomaru's new arm & sword.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/e/e0/Sesshomaru_demon_form.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1444,
+  "alto": 1084,
+  "que_es": "Sesshōmaru: Sesshomaru demon form.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/a/a2/Relationship_Kikyo_and_Sesshomaru.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1432,
+  "alto": 1077,
+  "que_es": "Sesshōmaru: Relationship Kikyo and Sesshomaru.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/b/bd/Sesshomaru_carrying_Towa_and_Setsuna.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1366,
+  "alto": 768,
+  "que_es": "Sesshōmaru: Sesshomaru carrying Towa and Setsuna.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/e/e4/SesshoumaruAndKirinmaru.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Sesshōmaru: SesshoumaruAndKirinmaru.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/c/c0/Sesshomaru%27s_Grief.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Sesshōmaru: Sesshomaru's Grief.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/c/c2/Sesshomaru_and_Jaken_FA_image.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Sesshōmaru: Sesshomaru and Jaken FA image.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/5/58/Rin_and_Sesshomaru.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Sesshōmaru: Rin and Sesshomaru.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/b/be/Kikyo_and_Miroku_Ep174.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 2880,
+  "alto": 1619,
+  "que_es": "Miroku: Kikyo and Miroku Ep174.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/1/19/Miroku%27s_Wind_Tunnel.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Miroku: Miroku's Wind Tunnel.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/4/4f/Miroku_placed_a_seal_on_Setsuna_%28Yashahime_Ep20%29.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Miroku: Miroku placed a seal on Setsuna (Yashahime Ep20).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/d/db/Miroku_FA.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Miroku: Miroku FA.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/a/af/Miroku_adult.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1079,
+  "alto": 1079,
+  "que_es": "Miroku: Miroku adult.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/c/cb/Miroku_and_his_Shakujo.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Miroku: Miroku and his Shakujo.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/b/ba/Sacred_Sutra.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Miroku: Sacred Sutra.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/9/91/Child_miroku.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Miroku: Child miroku.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/d/d1/Thewholefam.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1289,
+  "alto": 483,
+  "que_es": "Miroku: Thewholefam.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/9/9b/InuYasha-TheFinalAct-06-Large30.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Miroku: InuYasha-TheFinalAct-06-Large30.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/b/bf/Sango-kiss-inu.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 1438,
+  "alto": 1080,
+  "que_es": "Sango: Sango-kiss-inu.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/1/1e/Chapter178-Cover.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 728,
+  "alto": 881,
+  "que_es": "Sango: Chapter178-Cover.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/6/63/Sango_Anime.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 960,
+  "alto": 486,
+  "que_es": "Sango: Sango Anime.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/8/81/Sango_Vector.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 593,
+  "alto": 719,
+  "que_es": "Sango: Sango Vector.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/4/4a/Sango_After_Giving_Birth.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 832,
+  "alto": 468,
+  "que_es": "Sango: Sango After Giving Birth.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/d/d5/Sangomiroku6.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 704,
+  "alto": 528,
+  "que_es": "Sango: Sangomiroku6.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/d/d1/Sangomiroku8.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Sango: Sangomiroku8.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/8/84/Kagomeandsangocleaning.jpg",
+  "fuente": "Fandom inuyasha",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Sango: Kagomeandsangocleaning.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/inuyasha/images/5/54/Ep135_%285%29.png",
+  "fuente": "Fandom inuyasha",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Sango: Ep135 (5).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1023,
+  "alto": 3043,
+  "que_es": "Fan art de inuyasha_(character) (https://static.zerochan.net/Cross-Over.full.1643400.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/699/58dac1b3c324120013985e5b2dae411b17df340c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 800,
+  "que_es": "Fan art de inuyasha_(character) (http://img52.pixiv.net/img/goldencat1212/22285378.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2733/abf2c7b57c55b685b5944ac9f997662ee9327d75.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1449,
+  "alto": 1024,
+  "que_es": "Fan art de inuyasha_(character) (https://i.pximg.net/img-original/img/2019/05/27/02/07/44/74925625_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/345/eb8ab8ffd8d611fdedbc5e78c7b0264a2c292c05.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2450,
+  "alto": 1600,
+  "que_es": "Fan art de inuyasha_(character) (http://img33.pixiv.net/img/duke2413/9654295.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1902/d1d79b814684201210f9ebfd498f7d7e14b3c9f8.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 800,
+  "que_es": "Fan art de inuyasha_(character) (http://i4.pixiv.net/img-original/img/2016/11/13/23/55/07/59939991_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/592/578485a300aa0200fe0676ca5363d84a82c9cfe9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 627,
+  "que_es": "Fan art de inuyasha_(character) (http://img56.pixiv.net/img/3458/17328201.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/753/74a68d8042ac90142ed57bbf0c90357edcd6e635.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2168,
+  "alto": 1568,
+  "que_es": "Fan art de higurashi_kagome (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3150/84b2a17173f1b50d01e945c26bfe29cca08daeb1.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1473,
+  "que_es": "Fan art de higurashi_kagome (https://i.pximg.net/img-original/img/2018/05/04/16/28/53/68570520_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/612/a57c97350a29dbb9bb331981bb28e9884571b11b.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 600,
+  "que_es": "Fan art de higurashi_kagome (http://img16.pixiv.net/img/kinokosuke/18117335.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/223/c85581d84b98fa4c4294aecda6a2d036e953046e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de higurashi_kagome (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1558/720ac1ea136f6d8f0b0c38e77d4cf9d768c145ea.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 974,
+  "alto": 1100,
+  "que_es": "Fan art de miroku_(inuyasha) (http://i4.pixiv.net/img-original/img/2015/11/27/22/03/34/53767627_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2908/b05b70441c760980f3beb14b28223d4f2798f206.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 1329,
+  "que_es": "Fan art de miroku_(inuyasha) (https://twitter.com/yvotoro/status/1405657780892188676)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3838/46f370e38bc2930218c74058e12e21dcb15121a2.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1603,
+  "alto": 1502,
+  "que_es": "Fan art de miroku_(inuyasha) (https://i.pximg.net/img-original/img/2021/03/07/01/00/21/88265661_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/be2f2e4d396ac149c0300c3f1cc33cc2093411ed.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1152,
+  "alto": 1631,
+  "que_es": "Fan art de miroku_(inuyasha) (https://twitter.com/tnseld4_/status/1703096396067582350)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2144/3cf3ba33caa7bafff230df0c16bec1482a06de50.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1259,
+  "alto": 893,
+  "que_es": "Fan art de miroku_(inuyasha) (https://i.pximg.net/img-original/img/2016/10/01/21/52/24/59256233_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1859/8c34454e1bc216ea6403653b84f7697b4920c306.gif",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 683,
+  "alto": 486,
+  "que_es": "Fan art de miroku_(inuyasha) (Inuyasha )",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1211/f72fb29476644daabffe788dcc7d0c312200acda.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1830,
+  "alto": 1200,
+  "que_es": "Fan art de sango_(inuyasha) (Image Board)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4304/f961707febd04f96f6bbc244f48f115ceefd9fff.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1449,
+  "que_es": "Fan art de sango_(inuyasha) (https://twitter.com/camus27315/status/1510563634614730755)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/88ddc568d28126182e091bafffd448d27623b403.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1936,
+  "que_es": "Fan art de sango_(inuyasha) (https://twitter.com/zuchi_wan/status/1765048388352086344)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/312/1cbf7f9ca0b8d4bfaba0cdbfbc9a85a27919c2e3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1800,
+  "alto": 2250,
+  "que_es": "Fan art de sango_(inuyasha) (https://x.com/CriCriArt/status/2045213683677065475)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1568/ab7779da7a85c529d339d5e641574bcf52a6605b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 900,
+  "alto": 557,
+  "que_es": "Fan art de sango_(inuyasha) (file://inuyasha_and_conan.jpeg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/51/5abd0210bc6ce4e62194dbf5384778c041aa8362.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de pikachu (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/788/54325ea39f0baa982f77de2fcce49be9f2c6f171.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2027,
+  "alto": 2012,
+  "que_es": "Fan art de pikachu (http://img24.pixiv.net/img/pix-cocobank-loco/25473865.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2520,
+  "alto": 2520,
+  "que_es": "Fan art de pikachu (https://twitter.com/totototo0507/status/1807802641482985883)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/20/1f00a70194c6a61b7598f4a0be8d4d083100e608.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1399,
+  "que_es": "Fan art de pikachu (http://img05.pixiv.net/img/hanokage/3732379.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/768/e40bdc175fe98f678580f5fe88d377b7bfdabdaa.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1223,
+  "que_es": "Fan art de pikachu (http://img20.pixiv.net/img/yuinopartyyou127/25063229.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/993/f3c6da6cbe41f861479e78bd78862e2e365bd91e.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Fan art de pikachu (http://i1.pixiv.net/img35/img/empty_p/34324859.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/614/246d55efc67557f9d892230c0e68befaf42201fe.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 835,
+  "que_es": "Fan art de saotome_ranma (http://img13.pixiv.net/img/ranma3049/18948539.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/461/c81ca35f79cc2bc7e371d6b31e3d02c000d903a8.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1168,
+  "que_es": "Fan art de saotome_ranma (http://img41.pixiv.net/img/sin2-chikku/12452459.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/2687/538e5248c9a0bad1bd73c6e9c4fa303c835ec7a1.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2133,
+  "alto": 3033,
+  "que_es": "Fan art de saotome_ranma (https://files.yande.re/image/1151d2d8ac91c570be770ddaa8b5d7a7/yande.re%20527162.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/702/3ca6a1f7c2ab0b59d9b7edb032a7ac9294f98f96.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 400,
+  "alto": 703,
+  "que_es": "Fan art de saotome_ranma (http://img06.pixiv.net/img/mizoremizore/22535141.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/809/89d1a56a1a348a3da4ed7c0ee4c2cc2480841286.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 800,
+  "alto": 800,
+  "que_es": "Fan art de saotome_ranma (http://img16.pixiv.net/img/kinokosuke/26545061.png?1334343047)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/462/f319b96e4ac6353743fec173d963ba342aa3291d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 1006,
+  "que_es": "Fan art de tsukino_usagi (http://img1.sankakustatic.com/wp-content/gallery/safe-misc-vii/the-periodic-table-of-japanese-characters.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1359/98a265343448587a1c9da60ea9a5310ab3b68fc7.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2000,
+  "alto": 1500,
+  "que_es": "Fan art de tsukino_usagi (http://i2.pixiv.net/img-original/img/2015/01/26/19/02/23/48388745_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1225/3f658285602196c9dd122c161091c7bf7552b61e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1920,
+  "alto": 1494,
+  "que_es": "Fan art de tsukino_usagi (https://www.pixiv.net/artworks/44834670)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1366/d8df69d6960357f1109c95c3de4db167874cfc42.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 3332,
+  "que_es": "Fan art de tsukino_usagi (http://i4.pixiv.net/img-original/img/2015/02/07/19/05/23/48599967_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/656/75b305d2d87cf80d11042db15f7796e2bd168e4c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1275,
+  "alto": 1789,
+  "que_es": "Fan art de tsukino_usagi (http://img35.pixiv.net/img/bebopdog/20780981_big_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1/df29b3901f9a4176b5e511e9a4578f4191cb62e5.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 681,
+  "que_es": "Fan art de uzumaki_naruto (ladygt93.deviantart.com)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/4143/9800f04895220048990cae8e24dd6cfcfa62c0f0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4096,
+  "alto": 3221,
+  "que_es": "Fan art de uzumaki_naruto (https://x.com/OsweltOrtiz/status/2029448679786955220)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/3087/81f148447f78444e8f3bc244cc2bdc7f6d14b3a4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1653,
+  "alto": 1723,
+  "que_es": "Fan art de uzumaki_naruto (http://twitter.com/behindxa/status/1309346889863626754)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/444/2aa6ed087922b48b6d5e0d7829dc407e36766721.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2576,
+  "alto": 1910,
+  "que_es": "Fan art de uzumaki_naruto (http://img35.pixiv.net/img/miyabi310/11670515.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/610/be89a548f089568fa494bf5017ba8d54df03d41c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Fan art de uzumaki_naruto (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://safebooru.org/images/1700/4ffdf4ad4e4117b106d26d8b6ccebe9c191457fb.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 700,
+  "alto": 919,
+  "que_es": "Fan art de uzumaki_naruto (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56952539)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/x1/wallhaven-x1xy9l.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Accel World, Elric Alphonse, Shingeki no Kyojin, Bleach, Blue Exorcist, Code Geass)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por BAZZAZ; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/dp/wallhaven-dprvzm.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 2849,
+  "que_es": "Fondo de pantalla (JiaYuan Song, drawing, women, dark hair, long hair, ribbon)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por lumberjacck; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vg/wallhaven-vg1ogp.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3375,
+  "alto": 6000,
+  "que_es": "Fondo de pantalla (Inuyasha, anime girls, miko, kimono, 2D, black hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/jx/wallhaven-jx8lzw.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4500,
+  "alto": 3138,
+  "que_es": "Fondo de pantalla (Dragon Ball, Naruto (anime), One Piece, Overwatch, Street Fighter, Fullmetal Alchemist)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 18064624063; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/gp/wallhaven-gpj1eq.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4000,
+  "alto": 2668,
+  "que_es": "Fondo de pantalla (The Avengers, Dragon Ball, Naruto (anime), One Piece, Overwatch, Street Fighter)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 18064624063; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/we/wallhaven-we8xoq.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2018,
+  "alto": 6000,
+  "que_es": "Fondo de pantalla (anime boys, anime girls, anime, crossover, portrait display, anime creatures)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 18064624063; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/md/wallhaven-md82m1.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1352,
+  "que_es": "Fondo de pantalla (Kikyo, CGI, anime, anime girls, dark hair, red lipstick)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/43/wallhaven-43k193.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Naruto Shippuden, anime, Fullmetal Alchemist, Samurai Champloo, Soul Eater, Spirited Away)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Galactigus; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/eo/wallhaven-eog7lr.png",
+  "fuente": "Wallhaven",
+  "ancho": 4096,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Son Goku, Monkey D. Luffy, Uzumaki Naruto, Gon Freecss, Dragneel Natsu, Elric Edward)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por PedroKun; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/o5/wallhaven-o5d7rl.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4000,
+  "alto": 2680,
+  "que_es": "Fondo de pantalla (The Avengers, Dragon Ball, Naruto (anime), One Piece, Overwatch, Street Fighter)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 18064624063; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/v9/wallhaven-v9j9z3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4210,
+  "alto": 2976,
+  "que_es": "Fondo de pantalla (BRJ, Kikyou Inuyasha, Inuyasha, anime, Kikyo, kimono)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Avispon217; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/39/wallhaven-398w93.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4055,
+  "alto": 6165,
+  "que_es": "Fondo de pantalla (Inuyasha, anime girls, small boobs, kimono, long hair, smiling)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqolg5.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (jr-pencil, Inuyasha, anime girls, anime boys, sword, fan art)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por wuchen001; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqe87p.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5123,
+  "alto": 2881,
+  "que_es": "Fondo de pantalla (anime, anime girls, Inuyasha, Kikyou Inuyasha, sitting, Moon)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Inrro; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/xl/wallhaven-xlyjlo.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2480,
+  "alto": 3508,
+  "que_es": "Fondo de pantalla (Inuyasha, anime girls, long hair, miko, kimono, black hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-46db3eb9c08640e78d674a022957f70d",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Kagome de deankagura",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-78a46b41520b4952b487f5013337b18a",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Inuyasha de deankagura",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-9f3e31140ad94bb7819a4b7566fe16f8",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Sesshomaru de deankagura",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-28de1ea05e1241b8ae8f1eb3fc20c6d3",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Kikyo de deankagura",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-ce14690f27054aa597143dea9d179706",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Sango de deankagura",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-98c7a41e8dd841129f97a9f2c67e813e",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Tesaiga Inuyasha (low) de Ericks.Raphael.Effio.Lujan",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d887603b46b748dea4919587e9eb4cb9",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Kagome de deankagura",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/61/208411752_4a0f82973a_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Inuyasha Cosplay",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor DJOtaku",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/6124/5947204386_14628d782e_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 810,
+  "que_es": "MIROKU (INUYASHA)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor animepapertoys",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/5299/5391747685_874f4b8156_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 810,
+  "que_es": "KIRARA (INUYASHA)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor animepapertoys",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/4154/4956945649_286339387c_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 560,
+  "alto": 1024,
+  "que_es": "Inuyasha cosplay",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor nayukim",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/3443/3300615133_a593401040_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 718,
+  "alto": 1024,
+  "que_es": "Sasuke (Naruto Shippuden) and Chibi-Inuyasha @ ConNooga '09",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor djzippy",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7146/6760056767_0820824c79_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC 2.0, autor Mark Dumont",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8046/29011976893_c363788f60_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/3446/3838535428_08c268850a_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 792,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor mobu28",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8251/29010547234_37ec2211c1_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8382/29632253755_8d08dbd5db_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8421/29597707326_502efa3ebd_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/5224/5763464815_a86036aa47_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor Gage Skidmore",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8423/29635158865_d86446e640_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8283/29520792632_2304974373_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8730/29552254431_1f69e63ff6_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 683,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/3437/3837764631_90a24e6b0b_m.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 240,
+  "alto": 219,
+  "que_es": "InuYasha Tongue Twister",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor mobu28",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/3935/15314385387_98b7f5efb5_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Docking Bay 93",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/8459/29635657305_81cb2297ac_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor Xubaet",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/3075/3837770187_69bbeb88f3.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 450,
+  "alto": 324,
+  "que_es": "Inuyasha",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor mobu28",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/63/203910166_6184901f25_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 768,
+  "que_es": "Inuyasha vs. Kouga (2)",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY 2.0, autor agius",
+  "origen": "recolectar.py"
+ }
+]

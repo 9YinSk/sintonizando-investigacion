@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/c/c0/Anime_Episode_11_Picture_5.png",
+    "fuente": "Fandom (solo-leveling.fandom.com), captura del anime ep. 11",
+    "ancho": 1366,
+    "alto": 768,
+    "que_es": "Fotograma de Igris (ep. 11): casi sin contorno negro, volumen por luz de borde rosa/violeta sobre negro casi puro. Medido con herramientas/estilo.py (paleta y línea #693D56)",
+    "para_que": "Punto 18: referencia de línea y sombreado del anime (frente al webtoon), para la guía de estilo Photoshop/Blender",
+    "licencia": "Captura de la wiki de Fandom (uso de referencia, no comercial); imagen bajo copyright de A-1 Pictures/Aniplex"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/3/3c/Chapter_50.png",
+    "fuente": "Fandom (solo-leveling.fandom.com), viñeta del webtoon, capítulo 50",
+    "ancho": 574,
+    "alto": 778,
+    "que_es": "Viñeta de Jinwoo en la nieve: línea negra limpia y continua, sombreado plano, nieve pintada con pincel suave. Medido con herramientas/estilo.py (línea #3F3F47)",
+    "para_que": "Punto 18: referencia de línea y sombreado del webtoon original (Dubu/Redice Studio), contraste con el estilo del anime",
+    "licencia": "Captura de la wiki de Fandom (uso de referencia, no comercial); imagen bajo copyright de Chugong/Dubu/D&C Media"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/8/88/Ahjin.png",
+    "fuente": "Fandom, imageinfo por API (prop=imageinfo&iiprop=url|size)",
+    "ancho": 700,
+    "alto": 700,
+    "que_es": "Emblema del gremio Ahjin (el de Sung Jinwoo): fénix/llama estilizada en violeta sobre fondo transparente",
+    "para_que": "Punto 25: emblema/símbolo del gremio del protagonista; su violeta coincide con la paleta Monarca ya medida en la biblia (#9229F9/#ED77F3)",
+    "licencia": "Wiki de Fandom (arte oficial de la franquicia; uso de referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/8/89/Insignia_Hunters.png",
+    "fuente": "Fandom, imageinfo por API",
+    "ancho": 480,
+    "alto": 480,
+    "que_es": "Emblema del Gremio de Cazadores (Hunters Guild): escudo gris con espada vertical, estilo gótico",
+    "para_que": "Punto 25: emblema/símbolo de uno de los gremios principales de la serie",
+    "licencia": "Wiki de Fandom (arte oficial de la franquicia; uso de referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/e/ee/Insignia_White_Tiger.png",
+    "fuente": "Fandom, imageinfo por API",
+    "ancho": 140,
+    "alto": 140,
+    "que_es": "Emblema del gremio Tigre Blanco (White Tiger Guild): cabeza de tigre en líneas blancas finas",
+    "para_que": "Punto 25: emblema/símbolo del gremio donde Jinwoo empieza como cazador rango E",
+    "licencia": "Wiki de Fandom (arte oficial de la franquicia; uso de referencia)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/solo-leveling/images/d/d7/Insignia_Chivalry.png",
+    "fuente": "Fandom, imageinfo por API",
+    "ancho": 529,
+    "alto": 471,
+    "que_es": "Emblema del gremio Caballería (Chivalry Guild): forma de '人' estilizada en azul oscuro",
+    "para_que": "Punto 25: emblema/símbolo de otro gremio importante (Baek Yoonho)",
+    "licencia": "Wiki de Fandom (arte oficial de la franquicia; uso de referencia)"
+  },
+  {
+    "url": "https://media.sketchfab.com/models/b07a938c74a84bfe8caab58a97e3b305/thumbnails/e07a05fb35b641b8bcdb2696b46e3288/aa32b608800c422ea80f0b5014421323.jpeg",
+    "fuente": "Sketchfab, «Cha Hae-In - Solo Leveling» de Casttelan2 (licencia y tamaño por la API)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Cha Hae-In (35 694 caras, descargable), no usado todavía en la biblia (modelo: https://sketchfab.com/3d-models/b07a938c74a84bfe8caab58a97e3b305)",
+    "para_que": "Punto 18: modelo libre para posar a Cha Hae-In en Blender en un concepto de lámina nuevo",
+    "licencia": "CC BY 4.0. Crédito: \"Cha Hae-In - Solo Leveling\" by Casttelan2, licensed under CC BY 4.0"
+  }
+]
