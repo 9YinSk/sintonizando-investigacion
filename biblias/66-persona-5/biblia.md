@@ -886,3 +886,54 @@ Al no haber doblaje latino, la comunidad se lo está haciendo. Es el gancho de e
 **Vocabulario que un fan reconoce al instante**
 Persona · Metaverso · Palacio · Sombra · Tesoro · Mementos · Confidente · calling card · Tercer Ojo · All-Out Attack · Velvet Room (Igor y las gemelas) · Joker, Skull, Panther, Mona, Fox, Queen, Oracle, Noir, Crow, Violet · «I am thou, thou art I» · «Take Your Heart».
 
+## Tres conceptos de lámina
+
+Persona 5 todavía no tiene canal. **El que mejor encaja es #🎯・reto-de-la-semana**: «Un reto por semana: una línea, una escena, un tono. Se entrega dentro del hilo del reto. No se gana nada y esa es la gracia». Una calling card es justo eso: un reto con fecha límite.
+Los otros dos van a **#🎟️・eventos** («Lo que se viene. Se convoca con /create y cada uno lo ve en su hora.») y **#🎧・demos** («Tu ficha de DOBLAJE: un hilo con tu nombre, tus demos y tu rango vocal.»).
+Cada concepto usa un formato de diálogo distinto de la serie. Ninguno lleva burbuja blanca redonda.
+Textos cortos, sin «·», «—» ni paréntesis (regla 4 del dueño). El español es **nuestro**: no hay doblaje latino (§8).
+#reto-de-la-semana y #eventos también los piden otras biblias; no bloquea nada.
+
+### Concepto A · La calling card del reto · #🎯・reto-de-la-semana (recomendado)
+
+- **Objeto y sitio.** Una **calling card** de papel, en Blender: plano fino con una curva suave, papel [Paper006](https://ambientcg.com/view?id=Paper006). Diseño de la tarjeta real ([imagen](https://static.wikia.nocookie.net/megamitensei/images/4/49/Phantom_Thief_Calling_Card.PNG)): sombrero de copa y máscara roja sobre espiral roja y negra con trama. Sitio: la **barra de Leblanc** de noche (nº3, nº59, nº122), con una taza de café humeando al lado (Joker ama el café, §20).
+- **Personaje y pose.** **Joker**, el más votado en las dos encuestas. Con el uniforme de Shujin (nº20, nº103; americana `#181516`, cuadros `#4D4645`), porque en Leblanc no se lleva el traje de ladrón. Pose de la nº76: la tarjeta sujeta con dos dedos a la altura de la cara, como la máscara. Cara de picardía, la sonrisa torcida del [0:15](https://www.dailymotion.com/video/x6gu5mf?t=15). Sirve para «presentar». Brazo y hombro enteros a la vista: la mano no sale de la nada.
+- **Cómo habla.** Joker casi no habla: una línea. **Caja de diálogo del juego**: cuadrilátero negro torcido, borde blanco, cola en zigzag hacia él, texto blanco en **Archivo** negrita. Tira blanca inclinada con «Joker» en **Oswald** cursiva y la «o» invertida en **Earwig Factory**. El resto lo dice **la tarjeta**, en letras recortadas **Earwig Factory**.
+- **Dónde va cada texto:**
+  - Tarjeta, arriba, letras recortadas: «RETO DE LA SEMANA».
+  - Tarjeta, centro: «Una línea. Una escena. Un tono.»
+  - Tarjeta, abajo: «Se entrega en el hilo del reto.»
+  - Caja de Joker: «No se gana nada. Esa es la gracia.»
+  - Remate en la esquina de la tarjeta, como el lema: «TAKE YOUR HEART», en inglés, tal cual el original.
+- **Lámina 2.** La **cara B de la tarjeta**, llena de fichas recortadas con las 8 etiquetas, en tres grupos: estado (Reto activo, Cerrado), disciplina (Doblaje, Canto, Locución) y tipo (Para empezar, Con trampa, Libre).
+- **Que no quede plano.** La tarjeta muy cerca de la cámara, con la tinta siguiendo su curva. El vapor del café delante, desenfocado. Joker en plano medio, contrapicado suave. Detrás, el café en luz cálida y desenfocado. Sombra de 2 bandas en morado, contorno negro por Freestyle (§18). Recorte de Joker por `v3/integrar.py`.
+
+### Concepto B · El calendario de la buhardilla · #🎟️・eventos
+
+- **Objeto y sitio.** Un **calendario de pared** hecho en Blender con la forma del calendario del juego: número grande blanco con contorno negro, tira blanca inclinada para el día y un **sol y una luna** recortados. Sitio: **la buhardilla de Leblanc**, donde duerme Joker, de noche (nº99). Luz fría de ventana y una lámpara cálida.
+- **Personaje y pose.** **Morgana**, forma de gato (nº8, nº78; rig libre de JulioSillet, §3). Sentado en la cama o en el alféizar, pata señalando el calendario. Pose de «explicar» del [0:16](https://www.dailymotion.com/video/x51by64?t=16). Collar amarillo, ojos azules. Es el meme más querido de Morgana: mandar a Joker a dormir (§12).
+- **Cómo habla.** **Globo de exploración de Morgana**: blanco irregular, contorno negro grueso, sin ningún lado redondo, con su retrato recortado en la esquina (§6). Letra **Archivo** negrita, negra. La nota pegada al calendario, en **Caveat**.
+- **Dónde va cada texto:**
+  - Tira del calendario: «Lo que se viene».
+  - Nota pegada debajo: «Se convoca con /create».
+  - Junto al sol y la luna, pequeño: «Cada uno lo ve en su hora».
+  - Globo de Morgana, 1: «Mira el calendario, Joker. Ahí está todo lo que se viene.»
+  - Globo de Morgana, 2, el remate de su meme: «Y ahora, a dormir.»
+- **Que no quede plano.** Luz azul de luna por la ventana contra la lámpara cálida. El borde de la manta desenfocado delante, abajo. El calendario con una esquina levantada. Morgana en contraluz, con la sombra de sus orejas en la pared.
+
+### Concepto C · Arráncate la máscara · #🎧・demos
+
+- **Objeto y sitio.** La **máscara roja de gata de Ann** en su mano, modelada en Blender a partir del concept art (primer boceto de Panther, [imagen](https://static.wikia.nocookie.net/megamitensei/images/4/46/Panther_Concept_Art.jpg)). Sitio: el **salón del Palacio de Kamoshida**, primer arco: araña de luces y estandartes rojos ([0:24](https://www.dailymotion.com/video/x8afeg6?t=24); `#380F07`, `#881116`). Alfombra [Carpet016](https://ambientcg.com/view?id=Carpet016).
+- **Personaje y pose.** **Ann como Panther**, la 2.ª más dibujada por fans. Látex rojo `#FF0100`, coletas, látigo. Pose del giro con el látigo del [0:06](https://www.dailymotion.com/video/x4nn845?t=06) mezclada con el gesto de arrancarse la máscara de la nº40. Cara decidida, boca abierta en grito. Es su despertar: «I hear you… Carmen. You're right. No more holding back…!» (§8).
+- **Cómo habla.** Dos formatos:
+  - La **cartela de cómic del final del All-Out Attack** (nº81): panel inclinado con trama de puntos y su grito en **Bangers** blanca con contorno negro.
+  - La **caja de diálogo** del juego para la información, como en el concepto A, con «Ann» en la tira y la «n» invertida.
+- **Dónde va cada texto:**
+  - Cartela, grito, traducción nuestra de su frase real: «¡Se acabó contenerme!»
+  - Caja de Ann: «Tu ficha de doblaje. Un hilo con tu nombre.»
+  - Caja de Ann, segunda línea: «Dentro, tus demos y tu rango vocal.»
+- **Lámina 2.** Las 19 etiquetas en una **página de rango de Confidente** impresa, como la «Beauty is Devotion» de Ann (§6): trama de puntos, borde floral, titular en letras recortadas «Tu voz». Grupos: tipo de voz, edad, estilo, medio, estado y colaboración.
+- **Que no quede plano.** Contrapicado de victoria. El látigo cruza delante, casi tocando la cámara. Llama azul saliendo de la máscara al arrancarla. Velas cálidas detrás y sombras muy negras. Un estandarte rojo cortando el borde de la imagen.
+
+**Si se prefiere la secundaria más votada:** Makoto, 2.ª en las dos encuestas. ⚠️ No hay pose propia suya en las partes; habría que mirar antes su cartón de cuenta atrás y el fondo de m0nkie de §16.
+
