@@ -44,3 +44,67 @@ tildes, ñ y ¿¡.
 - El japonés real del logo y las cartelas usa fuentes gót icas gruesas tipo Gothic (comprobado visualmente,
   no identificado el nombre exacto) → para textos japoneses libres en la lámina, la familia gratuita más
   usada en el equipo es **Noto Sans JP** (Google Fonts, OFL; cubre kanji, hiragana y katakana)
+
+## 6 · Cómo hablan y piensan en pantalla (manga, cartelas, videojuego)
+
+Sakamoto Days **no usa la burbuja blanca genérica** casi nunca fuera de las viñetas normales: los títulos
+de capítulo son cartelas negras con letras amarillas, y el videojuego tiene su propio cuadro de diálogo
+estilo *visual novel*, ninguno de los dos parecido a un globo de cómic occidental.
+
+- **Cartela de título de capítulo** (portada de la revista, capítulo 2, «殺し屋商店始めました»): caja
+  **negra de esquinas redondeadas**, letras **amarillas** gruesas verticales, con furigana pequeño en gris
+  encima de cada kanji; una palabra clave suelta en **rojo** fuera de la caja para dar énfasis (ej. «尻」
+  ・殺し屋» en rojo junto al título) · mirado en `ch2_small.jpg` (portada Weekly Shōnen Jump nº2) · ✅
+- **Globo de diálogo normal**: óvalo de contorno fino negro (~2 px), sin relleno de color, cola corta y
+  recta hacia quien habla; en la página de ejemplo mirada (capítulo 43) los globos aparecen en blanco
+  porque es la versión sin letrar que usa la wiki para las miniaturas de capítulo, pero la **forma** del
+  globo (óvalo apaisado, trazo fino) se ve igual de clara · `ch43_small.jpg` · ✅ (forma), ⚠️ (el texto
+  real de esa página no se pudo leer, está vacío en la fuente)
+- **Onomatopeya/efecto**: pincelada de tinta negra gruesa y angulosa, directamente sobre el dibujo, sin
+  caja ni contorno (ej. «触即発!!», «on the verge of conflict», capítulo 43, escrita a mano encima de la
+  acción) · `ch43_small.jpg` · ✅
+- **Videojuego «Sakamoto Days: Dangerous Puzzle» (Sakapazu, sólo Japón)**, cuadro de diálogo de las
+  escenas de historia (estilo *visual novel*), medido con Pillow en una captura oficial de Google Play:
+  - Fondo de la caja de texto: **negro casi opaco `#1e1e1e`**, rectángulo redondeado en la parte baja de
+    la pantalla, con esquinas verde neón marcando el marco (detalle de HUD, no de la caja en sí).
+  - Placa del nombre: rectángulo redondeado **naranja-amarillo `#fecb00`**, arriba a la izquierda de la
+    caja, con el nombre del personaje en negro y negrita (ej. «南雲», Nagumo).
+  - El texto va en **blanco**, dos líneas, alineado a la izquierda, letra de trazo uniforme sin serifa.
+  - Botón «スキップ» (saltar) arriba a la derecha, en una píldora oscura translúcida.
+  - Fuente: captura propia (`playshots/c.jpg`, 288×512) de la ficha de Google Play · ✅ (medido con
+    Pillow, un solo pantallazo — sin verificar en más de una escena)
+- **Pantalla de equipo** (チーム編成, formación de equipo) del mismo juego: tarjetas de personaje con
+  insignia de color por elemento (rosa corazón, azul gota, amarillo estrella) arriba a la izquierda,
+  etiqueta «Lv.» y botón «詳細» (detalles) en rosa pastel `#f6d6ba`; fondo de pantalla degradado lila
+  `#b88abd` · `playshots/b.jpg` · ✅ (medido)
+- **Escena de historia con villano**: fondo con cinta de peligro amarilla y negra en diagonal (motivo de
+  «escena de acero/atraco»), texto de impacto blanco con contorno, todo en mayúsculas gruesas tipo cartel
+  de cine de acción · `playshots/a.jpg` · ✅
+- **Qué NO hacer**: un globo blanco redondo con cola puntiaguda tipo cómic americano clásico; la serie usa
+  óvalos finos sin relleno y cartelas negras con letra amarilla, nunca globos de colores vivos.
+
+## 11 · Videojuegos de la franquicia: interfaz y cajas de diálogo
+
+Una sola obra jugable oficial confirmada, japonesa y sólo para móvil; no hay juego de PC/consola (Steam
+vacío en `datos-texto.md`, comprobado).
+
+- **SAKAMOTO DAYS デンジャラスパズル (サカパズ)** — «Sakamoto Days Dangerous Puzzle», de GOODROID Inc.
+  (subsidiaria de CyberAgent), estrenado el 2-abr-2025 en Japón, gratis con compras · ✅
+  ([Google Play](https://play.google.com/store/apps/details?id=jp.co.goodroid.sakapuzz&hl=en_US),
+  [CyberAgent, nota de prensa](https://www.cyberagent.co.jp/en/news/detail/id=31588))
+- Mecánica: **puzle de combinar 3** (match-3) por colores para dañar enemigos, con combos y movimientos
+  especiales; se arma un equipo con Sakamoto, Shin, Lu y otros personajes; la app sólo está en japonés
+  (sin selector de idioma) · ✅ (Google Play + CyberAgent)
+- Reparto de voces del juego **igual que el anime**: Tomokazu Sugita (Sakamoto), Nobunaga Shimazaki
+  (Shin), Ayane Sakura (Lu), Nao Toyama (Aoi), Hina Kino (Hana), Ryota Suzuki (Heisuke), más Natsuki Hanae
+  (Nagumo), Taku Yashiro (Kamihate/«Kamigami») y Saori Hayami (Osaragi) · ✅ (ficha de Google Play)
+- El juego incluye **ilustraciones exclusivas** («ゲームオリジナルのイラスト», arte que no sale en el manga
+  ni el anime, con historias cortas propias) — interesa como referencia de poses nuevas · ✅ (ficha), ⚠️
+  no se pudo entrar al juego para ver el catálogo completo de ilustraciones
+- Interfaz medida: ver punto 6 (caja de diálogo, pantalla de equipo). No se encontró interfaz de combate
+  (el tablero de puzle en sí) en las capturas conseguidas · ⚠️
+- **The Cutting Room Floor**: sin página del juego (`tcrf.net` da con Cloudflare un reto de verificación
+  que no se pudo pasar, con `curl` y con `navegar.py`, dos intentos cada uno) · ❌ probé, no hay o no se
+  pudo comprobar
+- No hay más videojuegos de la franquicia (ni en Steam, ni anunciados para consola) a fecha de esta
+  investigación (26-sep-2026) · ✅ (búsqueda en inglés y japonés, sin resultados)
