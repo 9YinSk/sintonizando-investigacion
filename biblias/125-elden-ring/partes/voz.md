@@ -64,6 +64,55 @@ Encuesta de fans (netlab/itmedia, ねとらぼリサーチ, 2022): ranking de je
 
 ⚠️ Extra (muestra muy pequeña, N=10 votos): encuesta de fans en BTVA «Favorite Character» → Dung Eater 30%, Melina 20%, Ranni 10%, Malenia 10%, Margit 10%. No usar como dato fuerte, sólo contraste · https://www.behindthevoiceactors.com/video-games/Elden-Ring/
 
+### 13 · Descripción profunda de personajes (Melina, Malenia, Ranni)
+
+Aviso importante para el redactor: Elden Ring **no es una serie con primeros planos expresivos** tipo anime. El diseño de FromSoftware es deliberadamente contenido: caras casi inmóviles, emoción llevada por la voz y el texto, no por el gesto. Busqué activamente «cara en cada emoción» en el tráiler de historia oficial (6:29, mirado entero, fotograma a fotograma con `fotogramas.py --cortes`, 211 planos) y en el combate contra Malenia (4:16, mirado cada 15 s): la variedad de expresión real es poca. Lo digo en vez de inventar variedad que no existe.
+
+**Melina** (voz Martha Mackintosh) — deuteragonista, «doncella de encendido». Nace al pie del Árbol Áureo, hija secreta de Marika; ofrece un pacto al Desvaído: ella convierte fragmentos de runas en fuerza a cambio de que la lleven al Árbol al final. Es un espíritu, no puede tocar sin quemarse (tiene quemaduras curadas en las manos) · ✅ (ficha oficial de la wiki, wikitext con citas literales de sus diálogos) · https://eldenring.fandom.com/wiki/Melina
+- Transmite: misterio protector, ternura fría, sacrificio. Ver su arco duele porque su final «bueno» (Lord Áureo) es que se prende fuego ella misma para encender el Árbol; si el jugador se vuelve Señor de la Llama Enloquecida, ella rompe el pacto y jura matarlo («Destined Death») · ✅ (wikitext, cita literal) · https://eldenring.fandom.com/wiki/Melina
+- Cómo habla: registro arcaico («thou», «shouldst»), frases cortas y con peso, nunca grita ni bromea; llama «compañero» al jugador.
+- Frases de tráilers pre-lanzamiento que NO están en el juego final (curiosidad de fandom, punto 12): «The Tarnished will soon return… guided by grace once lost», «The Golden Order is broken to its core» · ⚠️ (trivia de wiki, sin segunda fuente) · https://eldenring.fandom.com/wiki/Melina
+
+**Cara en cada emoción — Melina** (tráiler de historia oficial, Bandai Namco/FromSoftware, mirado en Dailymotion porque YouTube bloquea):
+
+| Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| Melina | Seria / interrogante (ceja fruncida, mirada fija bajo la capucha, un ojo brilla azul) — «Thou shouldst take the crown?» | Tráiler de historia oficial (2021) | 0:44 | https://www.dailymotion.com/video/x8837gv?t=44 |
+| Melina | Calma resignada / triste contenida (mirada baja, boca tensa) — «I offer you an accord» | Tráiler de historia oficial (2021) | 1:32 | https://www.dailymotion.com/video/x8837gv?t=92 |
+| Malenia | Sin cara visible — yelmo completo en todo el combate; su «emoción» visual es la Flor Escarlata (transformación roja, furia/putrefacción) al entrar en fase 2 | Combate oficial (JeuxVideo.com, gameplay Bandai Namco) | 1:45 | https://www.dailymotion.com/video/x89wlj1?t=105 |
+| Malenia | Floración completa «Danza del Ave Acuática» / clímax de furia | Combate oficial | 3:00 | https://www.dailymotion.com/video/x89wlj1?t=180 |
+
+⚠️ No hay fotograma verificado de alegría, miedo o vergüenza en clips oficiales para estos dos personajes: no existen en el material que encontré (ambos personajes no ríen ni muestran miedo en pantalla; es coherente con el tono «fantasía oscura» del encargo). Rabia/tristeza sí están cubiertas arriba.
+
+**Malenia, Hoja/Diosa de la Podredumbre** (voz Pippa Bennett-Warner) — hija gemela de Miquella, enferma de Podredumbre Escarlata desde el nacimiento (le consumió los ojos y varios miembros); pese a ello nunca ha conocido la derrota. Luchó contra su medio-hermano Radahn en la Batalla de Aeonia: liberó la Podredumbre, lo dejó feral, y ella quedó en coma; la rescató su caballero Finlay · ✅ (wikitext con citas de objetos y diálogos in-game) · https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella
+- Transmite: grandeza trágica — la guerrera perfecta traicionada por su propio cuerpo. Frase icónica: «I am Malenia, Blade of Miquella. And I have never known defeat» (dicha también al derrotar al jugador).
+- Cómo se expresa: apenas habla (una boss fight, no una NPC de diálogo); su «voz» son sus movimientos: estocadas dobles, el vuelo del Ave Acuática, y el bloom final. No tiene muletillas ni risa registradas.
+- Curiosidad de fandom: tuvo un nombre y una cinemática de introducción distintos en desarrollo («Arbitress Malenia», con Miquella presente en el árbol) recortados antes de salir · ⚠️ (wiki, contenido cortado, sin verificar en juego) · misma fuente.
+
+**Ranni la Bruja** (voz Aimee-Ffion Edwards) — la NPC más popular (ver punto 7). Hija de Radagon y Rennala, princesa Carian, busca «robar la Muerte» y acabar con el Orden Áureo para fundar el suyo propio (final «Age of the Stars»). Se apoya en su lobo Blaidd y su marioneta corporal · ✅ (wikitext oficial) · https://eldenring.fandom.com/wiki/Ranni_the_Witch
+- Por qué se la ama tanto (ver también 21): ofrece uno de los pocos finales con calidez y humor seco, tiene el arco argumental más largo y mejor hilado del juego, y su forma de niña-marioneta con voz distinta a su «verdadera» apariencia (una gran serpiente astral) es un giro que sorprende a quien no se lo espera.
+
+### 20 · Gustos y detalles de cada personaje
+
+Aviso: Elden Ring no tiene *databook* oficial con cumpleaños/altura/comida favorita como una serie anime (comprobado: busqué «Elden Ring artbook height stats profile» y sólo salen gráficos de altura **hechos por fans**, no oficiales) · ⚠️ (dato negativo, confirmado por ausencia real, no por no buscar) · fuentes: https://gamerant.com/elden-ring-malenia-how-tall-comparison/ (fan chart, NO oficial). Documento lo que sí existe con fuente: objeto icónico, manías, cómo se ve a sí mismo, curación/«comida».
+
+**Tabla para el redactor** (punto 20; casillas vacías = el dato no existe en la obra, no es que falte buscar):
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Melina | Cumplir su propósito; el Desvaído («mi compañero») | Que rompan el pacto / la Llama Enloquecida | Ninguna mostrada (es un espíritu funcional, no tiene «tiempo libre») | No existe (no es una serie con fichas de cumpleaños) | No especificada (aparece de tamaño humano estándar) | https://eldenring.fandom.com/wiki/Melina ✅ |
+| Malenia | La lucha noble; su hermano Miquella (a quien sirve y ama) | La debilidad, perder, la propia Podredumbre que la consume | Ninguna aficiones de ocio; su vida es la guerra | No existe | Modelo tallado sobrehumano; sin cifra oficial (las «256 cm» que circulan son un gráfico de fan, no oficial) ⚠️ | https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella ✅ / altura: sin fuente oficial |
+| Ranni | El conocimiento prohibido, la libertad de elegir su propio destino, a Blaidd e Iji (su familia adoptiva) | El Orden Áureo, la Muerte controlada por los dioses | Astrología, nigromancia (su marioneta-cuerpo) | No existe | Su forma «niña» es una marioneta hecha a medida de su alma; forma real (serpiente astral) sin medida | https://eldenring.fandom.com/wiki/Ranni_the_Witch ✅ |
+
+**Objeto que siempre lleva (sí documentado, con fuente):**
+- Melina: el fragmento de la Llama de Encendido / su capacidad de convertir runas en fuerza — no porta un objeto físico, es su propia naturaleza · ✅ · https://eldenring.fandom.com/wiki/Melina
+- Malenia: prótesis dorada en el brazo (perdió el suyo) para empuñar su espada «Hand of Malenia»; su escudo está hecho con la cuna en la que durmió de niña junto a Miquella · ✅ (wikitext, cita del objeto «Valkyrie's Prosthesis» y del escudo) · https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella
+- Ranni: la Espada Oscura de la Noche (Dark Moon Greatsword) y su marioneta-cuerpo, que ella misma tejió · ⚠️ (una fuente) · https://eldenring.fandom.com/wiki/Ranni_the_Witch
+
+**Cómo se ve a sí misma:**
+- Malenia se define por la frase que repite dos veces en el juego: «I am Malenia, Blade of Miquella, and I have never known defeat» — se ve como la guerrera invicta, aunque la Podredumbre la esté matando por dentro (contradicción que es el corazón de su personaje) · ✅ · https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella
+- Melina se ve como un instrumento con un propósito dado por su madre, no como alguien con voluntad propia — hasta que, según el final, elige (u obedece) su propio destino · ✅ · https://eldenring.fandom.com/wiki/Melina
+
 ## Bitácora (parcial, se completa al final)
 
 - «Famitsu エルデンリング 人気投票» (japonés, WebSearch) → encontré el artículo oficial con los dos rankings.

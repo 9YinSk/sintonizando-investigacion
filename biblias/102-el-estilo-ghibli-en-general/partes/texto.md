@@ -95,9 +95,24 @@ consultas directas a wikis y APIs.
   - Dos generadores de logo (no fuentes descargables): uno de estilo *Mi
     Vecino Totoro* (mincho en negrita) y otro de estilo *El Viento se Levanta*
     (manuscrito suave), en tubudeco.com.
-  - **Pendiente de comprobar con fontTools**: si Source Han Serif y las
-    fuentes gratuitas japonesas cubren tildes, ñ, ¿ y ¡ para el español (ver
-    «Sigue»).
+- **Comprobado con fontTools (glifos latinos, no de memoria)**:
+  - **Noto Serif JP** (mismo diseño que Source Han Serif; descargada vía
+    Fontsource/jsdelivr, `noto-serif-jp-latin-400-normal.woff2`): cubre
+    á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü — todos presentes · comprobado con
+    `fontTools.ttLib` sobre el archivo real · ✅
+  - **Jost**, alternativa libre gratuita a Futura para el logo/título (90%
+    de similitud según [fontalternatives.com](https://fontalternatives.com/alternatives/futura/),
+    confirmado también por [learnui.design](https://www.learnui.design/blog/futura-similar-fonts.html)
+    y [donstudio.com](https://donstudio.com/jost-a-google-font-similar-to-futura/))
+    · ✅ (varias fuentes coinciden en Jost como mejor alternativa libre) ·
+    descargada vía Fontsource/jsdelivr, comprobada con fontTools: cubre
+    tildes, ñ, ¿ y ¡ completas · ✅
+  - No se encontró un equivalente libre igual de claro para **Albertus**
+    (título de *El Increíble Castillo Vagabundo*): las fuentes tipográficas
+    consultadas mencionan "Village", "Asul" o "Grantham Roman" como
+    parecidas, pero ninguna se confirma como réplica cercana disponible en
+    Google Fonts/Fontsource · [typetype.org, "Fonts similar to Albertus"](https://typetype.org/fonts/albertus-similar-fonts/)
+    · ⚠️ (ver «No encontré»)
 
 ## Punto 6 — Cómo se comunica el texto y el diálogo en pantalla
 
@@ -228,6 +243,9 @@ consultas directas a wikis y APIs.
     "Shader to RGB" + rampa de color para aplanar la iluminación a 2-3 tonos
     (cel shading), y una textura de papel/pincel superpuesta en modo
     multiplicar para igualar el grano de los fondos pintados.
+  - **rigs y tramas: ver puntos 3 y 19** (modelos 3D, rigs y texturas de
+    trama los trae el investigador de imagen; aquí sólo la técnica de
+    Photoshop/Blender para replicar el estilo).
 - **Citas de Miyazaki sobre su proceso**: describió dibujar a lápiz como
   "drawing with your whole body" (dibujar con todo el cuerpo), y sobre la IA
   generativa dijo que es "an insult to life itself" (un insulto a la vida
@@ -343,3 +361,74 @@ mundo" concreto, porque 102 es un tema general)
   de esta tanda: PDF de Carnegie Mellon University sobre temas recurrentes en
   el arte y la literatura japonesa aplicados a Ghibli (`andrew.cmu.edu`,
   RoslynMcDonald_Ghibli.pdf) — pendiente de leer, ver «Sigue».
+
+## Lo mejor para la lámina
+
+- Letra del logo: **Futura** real → libre gratis **Jost** (Google Fonts,
+  SIL OFL, cubre tildes/ñ/¿/¡, comprobado con fontTools).
+- Letra de rótulos/créditos con aire Ghibli: **Noto Serif JP** (= Source Han
+  Serif), SIL OFL, cubre todo el español, comprobado con fontTools.
+- Fondo pintado a mano de referencia directa (min. de qué se habla en el
+  punto 18: capas planas + veladuras con opacidad baja en multiplicar sobre
+  textura de papel): `totoro001.jpg` (ghibli.jp, 1920×1038).
+- Símbolos de origen del universo Miyazaki para viñetas de lore: el amuleto
+  de levitación de *El Castillo en el Cielo* y los Guerreros Gigantes /
+  "Siete Días de Fuego" de *Nausicaä* (`laputa001.jpg`, `nausicaa001.jpg`).
+- Para el look "3D disimulado bajo 2D" en Blender: Freestyle o Solidify para
+  el contorno + nodo Shader to RGB con rampa de 2-3 tonos (cel shading), como
+  en los interiores CGI de *El Viaje de Chihiro* y *El Viento se Levanta*.
+
+## No encontré
+
+- Tipografía exacta del título de *La Princesa Mononoke* — búsqueda en foros
+  de dafont, sin respuesta identificada con fuente fiable.
+- Análisis verificado en dos fuentes sobre la tipografía específica de los
+  créditos finales de las películas de Ghibli.
+- Capturas o descripciones verificadas en dos fuentes de los menús/cuadros de
+  diálogo concretos de la interfaz de *Ni no Kuni* — búsqueda en Openverse
+  ("Ni no Kuni") sólo devolvió fotos de merchandising y eventos, no capturas
+  de juego reales.
+- Cita de Miyazaki ("an insult to life itself") verificada en la fuente
+  primaria del BFI — sólo se pudo confirmar de segunda mano (animepapa.com).
+- PDF académico de Carnegie Mellon University sobre temas recurrentes en el
+  arte japonés aplicados a Ghibli (`andrew.cmu.edu/.../RoslynMcDonald_Ghibli.pdf`)
+  — no se llegó a abrir por límite de tiempo/tokens.
+- Equivalente libre confirmado para **Albertus** (título de *El Increíble
+  Castillo Vagabundo*) — búsqueda web "free font alternative to Albertus
+  typeface": sólo aparecen nombres poco disponibles en Google Fonts (Village,
+  Asul, Grantham Roman, A028 de URW++ para Ghostscript/TeX).
+- Equivalente libre confirmado para **Palatino** (título de *El Viaje de
+  Chihiro*) — no se investigó a fondo en esta tanda (fuera del foco de 102,
+  que es específico de esa película en la serie hermana 98).
+- Captura limpia de la interfaz de **OpenToonz "Ghibli Edition"** — se
+  encontraron fichas en Wikimedia Commons (`File:OpenToonz 1.7.1
+  screenshot.webp`, `File:OpenToonz logo.svg`) pero la API de Commons dio
+  "too many requests" tres veces seguidas; no se insistió más (regla de
+  máximo dos intentos por sitio bloqueado).
+- Imágenes limpias (no merchandising/eventos) en licencia libre de Cartoon
+  Saloon (*Wolfwalkers*) y Studio Ponoc (*Mary and the Witch's Flower*) para
+  el punto 24 — Openverse sólo devolvió una recorte de periódico en trama y
+  un diorama de LEGO hecho por un fan, ninguno útil como referencia visual de
+  estilo; se descartaron ambos del `.json`.
+
+## Bitácora
+
+- (es) Fandom API `logos.fandom.com/api.php` → dimensiones exactas del SVG
+  del logo (1000×481) confirmadas sin descargar el archivo entero.
+- (en) WebSearch "Jost font free alternative to Futura Google Fonts" →
+  confirmado, varias fuentes coinciden.
+- (en) WebSearch "free font alternative to Albertus typeface" → sin
+  alternativa clara disponible en Google Fonts/Fontsource.
+- `fontTools.ttLib` sobre `noto-serif-jp-latin-400-normal.woff2` y
+  `jost-latin-400-normal.woff2` (descargados de Fontsource vía
+  cdn.jsdelivr.net) → comprobación real de glifos, no de memoria.
+- `ghibli.jp/gallery/{totoro,mononoke,laputa,nausicaa}001.jpg` → fotogramas
+  oficiales de cuatro películas distintas a las que ya cubre la serie hermana
+  98 (Chihiro), para variar los ejemplos del estilo general.
+- Openverse API (`api.openverse.org`) → consultas "OpenToonz", "Wolfwalkers",
+  "Studio Ponoc", "Ni no Kuni": resultados de baja utilidad (merchandising,
+  fotos de eventos, LEGO fan-made), descartados tras revisar las imágenes.
+- Wikimedia Commons API (`commons.wikimedia.org/w/api.php`) → "too many
+  requests" en tres intentos seguidos (con y sin User-Agent); abandonado.
+- `opentoonz.github.io` → página raíz sin logo accesible en el HTML
+  consultado; no se insistió más.

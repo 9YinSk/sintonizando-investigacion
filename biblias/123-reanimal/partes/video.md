@@ -10,6 +10,16 @@ sobre los clips de Dailymotion de `datos-video.md`; las capturas oficiales
 Los dos hermanos protagonistas son **The Boy** y **The Girl** (sin nombre
 propio revelado; alias «The Brother»/«The Sister»).
 
+**Clave visual para identificar a cada uno en fotogramas** (confirmado en la
+wiki, `reanimal.fandom.com/wiki/The_Boy`, `/The_Girl`, `/Hood`, ✅): el Niño
+lleva un **saco de arpillera que le cubre cabeza y torso a modo de poncho**,
+un dogal al cuello, un cuadrado rojo en el pecho y lleva un encendedor; la
+Niña lleva **máscara blanca de conejo, vestido/gorro blanco hasta la rodilla,
+un farol y un cuchillo**, va descalza; **Hood** (uno de los 3 amigos
+perdidos, no un acompañante fijo) es una niña con un **saco puntiagudo**,
+parche naranja, abrigo largo marrón y mitones grises. Corrijo aquí un cruce
+de identidad que traía la primera pasada de esta parte (ver punto 2 y 14).
+
 ## 2 · Fotogramas de escenas icónicas
 
 Vi el tráiler de lanzamiento, el de anuncio y el de co-op con `fotogramas.py`
@@ -19,13 +29,15 @@ del propio tráiler de anuncio, más 3+ escenas icónicas confirmadas con la
 wiki (evito repetir mera prosa: son notas de lo que se ve).
 
 - El bote de apertura cruza la niebla nocturna hacia el buque hundido; el Niño rema/dirige el motor y la Niña va de pie en la proa con el farol en alto, iluminando entre minas navales · fotograma propio del tráiler «Tráiler de anuncio de REANIMAL» (Dailymotion/3djuegos) https://www.dailymotion.com/video/x9o072c?t=45 · guión de la wiki, capítulo 1 «Dead in the Water» («he begins to drive the boat forward… uses her lantern to light the way») https://reanimal.fandom.com/wiki/The_Boy · ✅ · 0:45 (tráiler) / cap. 1
-- Persecución bajo el letrero de neón rojo «CINEMA» en Small Forest Town: dos siluetas cruzan corriendo la calle huyendo de Sniffer · fotograma propio del teaser/tráiler de lanzamiento (Dailymotion/JeuxVideo.com) https://www.dailymotion.com/video/xa1mxgm?t=30 · captura oficial Steam 1920×1080 (misma escena, plano fijo) https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/aab121e5bdaf552e60ed7e7503368fcc4e3bfaab/ss_aab121e5bdaf552e60ed7e7503368fcc4e3bfaab.1920x1080.jpg · wiki, capítulo 2 «The Cleaning House»: «they witness Sniffer taking the Boy through the doors of a cinema» (imagen citada ahí: «Boy Girl Sniffer Hood town cinema.png») https://reanimal.fandom.com/wiki/The_Cleaning_House · ✅ · 0:30 (teaser) / cap. 2
+- Persecución bajo el letrero de neón rojo «CINEMA» en Small Forest Town: dos siluetas cruzan corriendo la calle · fotograma propio del teaser/tráiler de lanzamiento (Dailymotion/JeuxVideo.com) https://www.dailymotion.com/video/xa1mxgm?t=30 · captura oficial Steam 1920×1080 (misma escena, plano fijo) https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/aab121e5bdaf552e60ed7e7503368fcc4e3bfaab/ss_aab121e5bdaf552e60ed7e7503368fcc4e3bfaab.1920x1080.jpg · wiki, capítulo 2 «The Cleaning House», sección Solution: «The two siblings observe Sniffer dragging **Hood** into the cinema» (imagen citada ahí: «Boy Girl Sniffer Hood town cinema.png») https://reanimal.fandom.com/wiki/The_Cleaning_House · ✅ · 0:30 (teaser) / cap. 2 · **corrijo** un dato de la pasada anterior de esta parte: la Description de la misma página dice «taking the Boy», pero es errata de la wiki (la propia sección Solution, más detallada, dice Hood; y Hood es «their friend» que el capítulo dice que buscan rescatar desde el principio)
+- Dos siluetas corren agachadas por un pasillo/almacén en penumbra, luz cenital al fondo: la de blanco brillante (Niña, máscara y farol) delante, la oscura (Niño) detrás · fotograma propio del «Tráiler de anuncio de REANIMAL» (Dailymotion/3djuegos) https://www.dailymotion.com/video/x94c4ui?t=45 y https://www.dailymotion.com/video/x94c4ui?t=49 · mismo tráiler que arriba, encaja con la huida de Sniffer del capítulo 1-2 · ✅ (2 fotogramas del mismo tráiler, mismo plano continuado)
+- Monstruo con largas extremidades tipo araña, agazapado sobre un tejado bajo la lluvia, dos siluetas pequeñas se cubren abajo · fotograma propio del mismo tráiler de anuncio https://www.dailymotion.com/video/x94c4ui?t=59 · wiki, «Spider Kids» y capítulo 4 «No Shelter» (niños hostiles con forma de araña que asaltan a los hermanos) https://reanimal.fandom.com/wiki/Spider_Kids · ⚠️ (encaja por diseño con Spider Kids pero no crucé el minuto exacto de esa escena en el capítulo)
 - Sniffer agachado planchando pieles sobre las lavadoras de su «dominio», luz verde-blanca de un tubo fluorescente entre vapor · fotograma propio del mismo teaser https://www.dailymotion.com/video/xa1mxgm?t=45 · wiki: «a flooded laundry room… Sniffer ironing the skin of their corpses» (cap. 2 «The Cleaning House», sección Small Forest Town#The Sniffer's Domain) https://reanimal.fandom.com/wiki/Sniffer · ✅ · 0:45 (teaser) / cap. 2
 - Parada de autobús bajo lluvia intensa: el Niño, la Niña y Hood esperan sentados y muy juntos en la marquesina iluminada por un tubo fluorescente, antes de subir al autobús escolar rumbo al orfanato · fotograma propio del tráiler de anuncio https://www.dailymotion.com/video/x9o072c?t=39 · captura oficial Steam 1920×1080 (mismo plano) https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/19a638fbf5e2821fae387f88e492c44801f47885/ss_19a638fbf5e2821fae387f88e492c44801f47885.1920x1080.jpg · wiki, capítulo 4 «No Shelter»: «board a school bus and are brought to… the orphanage» https://reanimal.fandom.com/wiki/No_Shelter · ✅ · 0:39 (tráiler) / cap. 4
 - Trinchera del Warzone bañada en rojo de bengala: un niño corre hacia otro caído en el suelo entre escombros de guerra · fotograma propio del tráiler de anuncio https://www.dailymotion.com/video/x9o072c?t=60 · wiki, capítulos 7 «The Spoils» y 8 «The Watcher» (trincheras, Soldiers, Sheep Beast) https://reanimal.fandom.com/wiki/The_Spoils · ✅ · 1:00-1:03 (tráiler) / cap. 7-8
 - Autobús escolar hundido en un pasillo inundado, con una máscara flotando en el agua bajo un haz de luz cenital · fotograma propio del tráiler «Release Date and Co-Op Gameplay Trailer» (Dailymotion/gamesworld) https://www.dailymotion.com/video/x9ve578?t=57 · ⚠️ (encaja con «The Flooded Town» por el contexto visual, pero no crucé el texto de esa página de la wiki)
 - Ruinas en llamas del Warzone al anochecer, silueta sobre los escombros con el fuego de fondo · fotograma propio del mismo tráiler co-op https://www.dailymotion.com/video/x9ve578?t=56 · wiki, página «The Island»: «front lines… ruins of one of the Island's larger, unnamed cities» https://reanimal.fandom.com/wiki/The_Island · ✅ · 0:56 (tráiler)
-- Puerta circular con barrotes oxidados: la Niña (máscara de conejo, vestido blanco) y Hood observan a un prisionero encapuchado dentro · captura oficial Steam 1920×1080 https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/dccf798f7e98af871edc4b625700f2005854e9cb/ss_dccf798f7e98af871edc4b625700f2005854e9cb.1920x1080.jpg · ⚠️ (no confirmé si es «The Prisoner (Character)» de la campaña base o del DLC «The Prisoner»)
+- Puerta circular de tubería con barrotes oxidados: la Niña (máscara de conejo, farol) y el Niño (saco, silueta más baja) miran dentro, donde hay una figura con **saco puntiagudo** de pie · captura oficial Steam 1920×1080 https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/dccf798f7e98af871edc4b625700f2005854e9cb/ss_dccf798f7e98af871edc4b625700f2005854e9cb.1920x1080.jpg · el mismo plano exacto aparece también en el vídeo «REANIMAL Full Gameplay Demo 45 Minutes» (WildGamerSK, con extractos oficiales + entrevista a David Mervik, director narrativo) al minuto 10:30 https://www.dailymotion.com/video/x9tibzi?t=630 · wiki, capítulo 1 «Dead in the Water», Solution: «the brother and sister duo come across a **pipe blocked off by bars**, where they find one of their friends sitting alone» https://reanimal.fandom.com/wiki/Dead_in_the_Water · **resuelto** (antes ⚠️): es campaña base, capítulo 1, no el DLC «The Prisoner» (ese personaje viste bata blanca y saco granate con 4 agujeros, no un saco puntiagudo marrón/verdoso) · ✅ (2 fuentes de vídeo independientes + texto de la wiki)
 
 No encontré fotograma de una escena de «final» real (los tráilers oficiales
 no muestran el desenlace, es lógico por spoilers); lo anoto en «No encontré».
@@ -87,6 +99,7 @@ occidental en 3D, no un cómic):
 - «Release Date and Co-Op Gameplay Trailer» (1:20, gamesworld) · https://www.dailymotion.com/video/x9ve578 · ✅
 - «What Happens After The Flood Gameplay Trailer» (1:27, gryonline) · https://www.dailymotion.com/video/x9o072c · ✅
 - Demo jugable: «REANIMAL Demo» en Steam (id 4019420, 13-oct-2025) y longplay de la demo archivado · https://archive.org/details/reanimal-demo · ✅
+- «REANIMAL Full Gameplay Demo 45 Minutes» (HappyPlayz/WildGamerSK, Dailymotion) mezcla gameplay oficial de preview con una entrevista a **David Mervik, director narrativo**: confirma en vídeo (no sólo en capturas fijas) la escena de la celda circular del cap. 1 (10:30) y la parada de autobús del cap. 4 (28:30), y muestra un tramo con vagoneta de vías en un patio de tren (≈19:00-19:30, cap. 1, huida de Sniffer) que los tráilers no incluyen · https://www.dailymotion.com/video/x9tibzi · ✅
 - Reseñas/análisis en texto (no hay minuto porque no son vídeo, pero coinciden en lo mismo): Eurogamer.es https://www.eurogamer.es/reanimal-analisis-review · TheSixthAxis https://www.thesixthaxis.com/2026/02/12/reanimal-review/ · GameSpew https://www.gamespew.com/2026/02/reanimal-review/ · Kotaku (más crítica: «a great ending can't save a boring adventure») https://kotaku.com/reanimal-review-little-nightmares-3-horror-adventure-2000667716 · ✅ (4 medios coinciden en atmósfera y sonido; Kotaku discrepa en el ritmo)
 - Comparación repetida en varias reseñas: «más oscuro y menos condescendiente que Little Nightmares», con un pueblo abandonado que «evoca a Silent Hill» por el sonido y la puesta en escena · Eurogamer.es + TheSixthAxis · ✅
 - Tendencia viral en TikTok: la persecución de Sniffer en **triciclo/bicicleta** en el capítulo 2 «The Cleaning House» (los niños tienen que esconderse para que no los atrape) es el momento más repetido en clips y reacciones, con hashtags `#reanimal #reanimalhorrorgame #reanimaledit` · página de descubrimiento «Reanimal Bike Scene» https://www.tiktok.com/discover/reanimal-bike-scene y cuenta de fans @.reanimal_ln https://www.tiktok.com/@.reanimal_ln/video/7633451294702800141 · confirmado también en texto por dos guías de paso (TheGamer y The Review Geek) y por la propia wiki («riding different modes of transportation, including a bicycle», ficha de Sniffer) https://reanimal.fandom.com/wiki/Sniffer · ✅
@@ -98,22 +111,30 @@ occidental en 3D, no un cómic):
 Los «episodios» son capítulos del juego; cuando la pose sale de una captura
 fija (no de vídeo) lo digo en la columna Minuto.
 
+**Corrección importante sobre la pasada anterior**: la captura de la celda y
+la del cajón tenían el Niño y la Niña cruzados (ver la clave visual al
+principio de esta parte). Las filas de abajo ya vienen corregidas, comparando
+saco de arpillera (Niño) contra máscara de conejo/vestido blanco (Niña).
+
 Personaje | Episodio | Minuto | Sirve para
 ---|---|---|---
 El Niño | Tráiler de anuncio, cap. 1 «Dead in the Water» | 0:45 https://www.dailymotion.com/video/x9o072c?t=45 | Presentar — timonea el bote con las dos manos, mirada al frente, hombros tensos
 La Niña | mismo tráiler, cap. 1 | 0:45 (mismo enlace) | Presentar — de pie en la proa, farol en alto con el brazo extendido, ilumina el camino
-La Niña | Captura oficial Steam (celda circular) | imagen fija, sitio sin confirmar | Explicar/señalar — una mano sobre los barrotes, el cuerpo inclinado hacia delante, mirando fijamente al prisionero
-Hood | misma captura | imagen fija | Pensar/dudar — de pie junto a la Niña, cabeza agachada bajo la capucha de saco, brazos pegados al cuerpo
-El Niño | Captura oficial Steam (escondite del cajón) | imagen fija, «go through hell together» en el tráiler co-op | Animar/proteger — empuja el cajón de madera con el brazo extendido, cuerpo entre el monstruo y Hood
-Hood | misma captura | imagen fija | Temer/esconderse — agachada junto al farol, apenas asomando tras el cajón
+El Niño | Captura oficial Steam (celda circular, cap. 1) | imagen fija, confirmada en vídeo al 10:30 https://www.dailymotion.com/video/x9tibzi?t=630 | Explicar/señalar — una mano sobre los barrotes oxidados, el cuerpo inclinado hacia delante
+La Niña | misma captura | imagen fija | Explicar/mostrar — sostiene el farol a la altura de la cadera para iluminar dentro de la celda, mirada fija en Hood
+El Niño | Captura oficial Steam (escondite del cajón, cap. 6-7 aprox.) | imagen fija, escena también en el tráiler co-op («go through hell together») https://www.dailymotion.com/video/x9ve578 | Temer/esconderse — agachado junto al farol en el suelo, hombros encogidos, apenas asoma tras el cajón
+La Niña | misma captura | imagen fija | Animar/proteger — de pie, sujeta con ambos brazos el cajón de madera contra el monstruo, cuerpo inclinado hacia delante
 El Niño y la Niña (siluetas) | Teaser, cap. 2 «The Cleaning House» | 0:30 https://www.dailymotion.com/video/xa1mxgm?t=30 | Huir — corren agachados cruzando la calle bajo el neón del cine
-El Niño, la Niña y Hood | Tráiler de anuncio, cap. 4 «No Shelter» | 0:39 https://www.dailymotion.com/video/x9o072c?t=39 | Pensar/esperar — sentados muy juntos en el banco, hombros caídos, mirando al frente bajo la lluvia
-Un niño (no identificado con certeza) | Tráiler de anuncio, cap. 7-8 | 1:00 https://www.dailymotion.com/video/x9o072c?t=60 | Animar — corre hacia otro niño caído en el suelo entre la luz roja de la trinchera
+La Niña (delante, brillante) y el Niño (detrás, en sombra) | Tráiler de anuncio | 0:45 y 0:49 https://www.dailymotion.com/video/x94c4ui?t=45 · https://www.dailymotion.com/video/x94c4ui?t=49 | Huir — corren por un pasillo/almacén en penumbra, cuerpo inclinado hacia delante, brazos en impulso
+El Niño, la Niña y un tercer niño (Hood o Bandage, cap. 4 aparecen ambos) | Tráiler de anuncio, cap. 4 «No Shelter» | 0:39 https://www.dailymotion.com/video/x9o072c?t=39 | Pensar/esperar — sentados muy juntos en el banco, hombros caídos, mirando al frente bajo la lluvia (misma parada de autobús confirmada en vídeo oficial de preview al 28:30 https://www.dailymotion.com/video/x9tibzi?t=1710)
+Hood | Captura oficial Steam (celda circular, cap. 1) | imagen fija | Temer — de pie tras los barrotes, una mano agarra un barrote a la altura del hombro, cabeza gacha bajo el saco puntiagudo
+Un niño (Boy, Bandage o Bucket; no identificable con certeza) | Tráiler de anuncio, cap. 7 «The Spoils» | 1:00 https://www.dailymotion.com/video/x9o072c?t=60 | Animar — corre hacia otro niño caído en el suelo entre la luz roja de la trinchera
 
-No encontré poses claras de «celebrar» ni «regañar»: el tono del juego es de
-tensión constante y los tráilers oficiales no muestran momentos de calma o
-victoria (coherente con las reseñas: «darker, stranger, less forgiving» que
-Little Nightmares).
+El Niño y la Niña llegan así a 6 poses analizadas cada uno (mínimo del
+encargo). No encontré poses claras de «celebrar» ni «regañar»: el tono del
+juego es de tensión constante y los tráilers oficiales no muestran momentos
+de calma o victoria (coherente con las reseñas: «darker, stranger, less
+forgiving» que Little Nightmares).
 
 ## Lo mejor para la lámina
 
@@ -126,10 +147,10 @@ Little Nightmares).
 ## No encontré
 
 - Fotograma o imagen oficial del final del juego (spoiler evidente; los tráilers no lo muestran) · busqué «Reanimal ending trailer», «Reanimal final scene» en Dailymotion y YouTube (bloqueado).
-- Vídeo con minuto exacto de la persecución en triciclo de Sniffer (cap. 2): confirmada por texto y TikTok (ver punto 10) pero no encontré el clip concreto en Dailymotion ni Internet Archive para sacarle fotograma.
-- Vídeos de análisis de YouTube con minuto exacto: YouTube devuelve 429 / «sign in to confirm you're not a bot» con `yt-dlp` (probé una vez, no insistí); usé reseñas de texto en su lugar (ver punto 10).
+- Vídeo con minuto exacto de la persecución en triciclo de Sniffer (cap. 2): confirmada por texto y TikTok (ver punto 10) pero no encontré el clip concreto. Repasé 35 minutos del vídeo «REANIMAL Full Gameplay Demo 45 Minutes» (`x9tibzi`, cada 15-30 s) buscándola: aparecen la celda del cap. 1 (10:30) y la parada de autobús del cap. 4 (28:30), pero no un triciclo — puede estar en los 10 minutos finales que no revisé, o en gameplay no incluido en ese preview.
+- Vídeos de análisis de YouTube con minuto exacto: YouTube devuelve 429 / «sign in to confirm you're not a bot» con `yt-dlp` (probé una vez, no insistí); usé reseñas de texto en su lugar (ver punto 10). TikTok también bloquea a `yt-dlp` («Unexpected response», sin impersonation disponible).
 - Vistas o «me gusta» exactos de los clips de TikTok (@.reanimal_ln y similares): la web no da métricas sin sesión iniciada.
-- Confirmación exacta del sitio de la captura Steam con la celda circular con barrotes (¿campaña base o DLC «The Prisoner»?): sólo una fuente (la propia imagen), lo dejo como ⚠️.
+- Identidad exacta del tercer niño en la parada de autobús (cap. 4): la wiki confirma que Hood y Bandage viajan juntos ahí, pero la silueta bajo la lluvia es demasiado pequeña para distinguir el saco puntiagudo de Hood de las vendas de Bandage.
 - Texturas reales equivalentes (madera, metal oxidado) en ambientcg.com: los dos intentos con la API no devolvieron resultados; puede que el endpoint haya cambiado.
 
 ## Bitácora

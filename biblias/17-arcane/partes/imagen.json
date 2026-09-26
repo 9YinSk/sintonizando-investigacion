@@ -1,0 +1,191 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/arcane/images/c/c6/Piltover_Crest.png/revision/latest?cb=20241118070136",
+    "fuente": "Arcane Wiki (Fandom)",
+    "ancho": 4042,
+    "alto": 4167,
+    "que_es": "Escudo oficial de Piltóver, PNG con fondo transparente",
+    "para_que": "Sello grabado en los planos de Hextech; oro medido #C7A965",
+    "licencia": "Arte oficial de Riot Games, vía Fandom (crédito a la wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/arcane/images/b/bc/Zaun_Crest.png/revision/latest?cb=20241118070136",
+    "fuente": "Arcane Wiki (Fandom)",
+    "ancho": 3487,
+    "alto": 4167,
+    "que_es": "Escudo oficial de Zaun, PNG con fondo transparente",
+    "para_que": "Emblema de bando para la pared de grafiti de Jinx; mismo oro #C7A965",
+    "licencia": "Arte oficial de Riot Games, vía Fandom (crédito a la wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/arcane/images/5/54/Silco_Season_1_Poster_1.jpg/revision/latest?cb=20241129110302",
+    "fuente": "Arcane Wiki (Fandom)",
+    "ancho": 2025,
+    "alto": 3000,
+    "que_es": "Cartel individual de Silco, temporada 1, con jeringa de Shimmer",
+    "para_que": "Pose de referencia: sostener un objeto pequeño y peligroso, mirando de lado",
+    "licencia": "Arte oficial de Riot Games / Netflix, vía Fandom"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-71ff4266065e475d817ca882922137f0",
+    "fuente": "Sketchfab (API v3 confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Orivers - Hextech Gauntlet - Arcane, modelo 3D del guantelete",
+    "para_que": "Referencia 3D del guantelete Hextech de Vi sobre la mesa de Jayce",
+    "licencia": "CC Attribution (autor Frayseur)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-f04d59aed16347a6b7b074a0b044ea7a",
+    "fuente": "Sketchfab (API v3 confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Orivers - Hextech hammer - Arcane, modelo 3D del martillo de Jayce",
+    "para_que": "Referencia 3D del martillo sobre la mesa de Jayce y Viktor",
+    "licencia": "CC Attribution (autor Frayseur)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-82b0959b18524af2a6311586183bd8f7",
+    "fuente": "Sketchfab (API v3 confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Game Ready - Arcane - Jinx's Grenade, modelo 3D de la granada de Jinx",
+    "para_que": "Objeto en la mano de Jinx o sobre su pared de grafiti",
+    "licencia": "CC Attribution (autor AllanJayBranscombe)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-936a0976aab94e9ca9a7148aa1f11cf5",
+    "fuente": "Sketchfab (API v3 confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Chibi Vi – Arcane 3D Print Ready",
+    "para_que": "Referencia de proporciones chibi si la lámina va a un estilo más suave",
+    "licencia": "CC Attribution (autor sergei_8888)"
+  },
+  {
+    "url": "https://polyhaven.com/a/painted_brick",
+    "fuente": "Poly Haven (API confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de ladrillo pintado y desconchado (azul)",
+    "para_que": "Pared de Zaun detrás de Jinx, o textura de fondo del grafiti",
+    "licencia": "CC0 (autor Amal Kumar)"
+  },
+  {
+    "url": "https://polyhaven.com/a/spray_paint_bottles",
+    "fuente": "Poly Haven (API confirmada)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de botes de espray con etiquetas y gotas",
+    "para_que": "Objetos sueltos junto a la pared de grafiti de Jinx",
+    "licencia": "CC0 (autor James Ray Cock)"
+  },
+  {
+    "url": "https://ambientcg.com/a/Paper006",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de papel beige-marrón (color, rugosidad, normal)",
+    "para_que": "Base del grano de papel de los planos Hextech (cerca de #B39A84)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/a/Metal063",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de metal oscuro envejecido",
+    "para_que": "Tuberías y máquinas de Zaun",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/a/Fabric060",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de tela con patrón tartán/cuadros",
+    "para_que": "Chalecos o forros de la clase alta de Piltóver",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/a/Leather037",
+    "fuente": "ambientCG",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Textura PBR de cuero marrón limpio",
+    "para_que": "Guantes de Jayce, chaqueta de Caitlyn T1",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://myphotoshopbrushes.com/brushes/id/3570/",
+    "fuente": "MyPhotoshopBrushes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "106 Concept Art Brushes (.abr), texturas orgánicas para pintura digital",
+    "para_que": "Imitar el pintado a mano de las texturas de Fortiche sobre el 3D",
+    "licencia": "Free for Commercial Use (declarado en la página)"
+  },
+  {
+    "url": "https://www.adobe.com/learn/photoshop/web/372-free-grunge-and-grit-brushes-for-photoshop",
+    "fuente": "Adobe (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Pack de pinceles grunge y grit para Photoshop",
+    "para_que": "El chisporroteo pintado a mano de los efectos de Jinx (2D sobre 3D, a 12 fps)",
+    "licencia": "Gratis, publicado por Adobe"
+  },
+  {
+    "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+    "fuente": "Clip Studio Assets",
+    "ancho": null,
+    "alto": null,
+    "que_es": "[FREE] Manga Screentone Pack 1",
+    "para_que": "Tramas de manga si la lámina usa una viñeta estilo cómic",
+    "licencia": "Gratis (marcado FREE en la ficha)"
+  },
+  {
+    "url": "https://merch.riotgames.com/en-us/product/nendoroid-jinx-arcane-version/",
+    "fuente": "Riot Games Store (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Nendoroid Jinx (Arcane Ver.) nº 2678, figura oficial Good Smile Company",
+    "para_que": "Referencia 3D con pose y caras intercambiables (burlona, loca, seria)",
+    "licencia": "Producto con licencia oficial (colección, no descargable)"
+  },
+  {
+    "url": "https://youtooz.com/products/vi-and-jinx",
+    "fuente": "Youtooz (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Set de figuras de vinilo Vi y Jinx, 'Lookin' good, Sis'",
+    "para_que": "Referencia de volumen y pose de las dos hermanas juntas",
+    "licencia": "Producto con licencia oficial (colección, no descargable)"
+  },
+  {
+    "url": "https://merch.riotgames.com/en-us/product/tokidoki-arc-backpack/",
+    "fuente": "Riot Games Store (oficial)",
+    "ancho": 818,
+    "alto": 850,
+    "que_es": "Mochila tokidoki x Arcane, estampado con todo el reparto en estilo kawaii",
+    "para_que": "Ejemplo de colaboración de marca con arte nuevo (patrón/estampado)",
+    "licencia": "Producto con licencia oficial (colección, no descargable)"
+  },
+  {
+    "url": "https://www.arcane.com/en-us/news/announcements/watch-play-experience-heres-how-were-celebrating-arcane-season-2-across-the-globe/",
+    "fuente": "arcane.com (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anuncio oficial de los pop-ups y cafés temáticos de la temporada 2",
+    "para_que": "Cómo Riot lleva la paleta de la serie a un espacio físico real",
+    "licencia": "Página oficial, no es un archivo descargable"
+  },
+  {
+    "url": "https://secretlair.wizards.com/us/en/product/696669/secret-lair-x-arcane",
+    "fuente": "Wizards of the Coast (oficial)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Secret Lair x Arcane, cartas de Magic: The Gathering con escenas de la serie",
+    "para_que": "Referencia de paisaje pintado (la segunda tanda son tierras básicas de Piltóver/Zaun)",
+    "licencia": "Producto oficial con licencia (colección, no descargable)"
+  }
+]

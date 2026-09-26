@@ -30,7 +30,8 @@ Dailymotion (YouTube pide login en este servidor). Hojas de contacto en
   - 2:00-2:12 lluvia de meteoritos violeta (ataque de gravedad estelar) · &t=120
 - Final de partida «Fin d'Elden Ring : Seigneur d'Elden» (MGG France, 1581 vistas, cinemático de un final del juego) · https://www.dailymotion.com/video/x88ktlq · ✅ (vídeo de cierre con créditos «Directed by Hidetaka Miyazaki / World created by Miyazaki and George R. R. Martin») · 2:55, cada 8 s
   - 0:24-1:04 primer plano de una figura gigante de pelo dorado (nuevo Señor de Elden) fundiéndose con la corona/el Círculo · &t=24
-  - 1:12 un personaje pequeño de capa roja se arrodilla ante la figura dorada, luz cenital · &t=72
+  - 1:12 dos siluetas de pie en el suelo, una con capa rojiza, junto a la base de la figura dorada · &t=72
+  - 1:20 haz de luz dorada vertical cayendo sobre la figura, muy brillante (plano casi sobreexpuesto) · &t=80
   - 1:36-1:52 el Árbol Áureo se dobla y sus ramas se vuelven doradas sobre la ciudad en ruinas · &t=96
   - 2:08-2:16 plano fijo de dos figuras coronadas sentadas en tronos gemelos (sala del trono de Leyndell) · &t=128
   - 2:24 logo «ELDEN RING» y créditos de dirección · &t=144
@@ -94,7 +95,7 @@ para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo
 |---|---|---|---|
 | De pie, brazo protésico dorado alzado, mirada fija a la cámara | https://www.dailymotion.com/video/x89wlj1&t=0 | 0:00 | Presentar / portada |
 | Girando en el aire dejando estelas blancas en abanico (Waterfowl Dance) | https://www.dailymotion.com/video/x89wlj1&t=32 | 0:32 | Celebrar / acción |
-| Arrodillada, espada clavada en el suelo, respirando (transición de fase) | https://www.dailymotion.com/video/x89wlj1&t=96 | 1:36 | Pensar / pausa dramática |
+| Agachada, silueta oscura recortada contra el fondo dorado, pausa entre ataques | https://www.dailymotion.com/video/x89wlj1&t=96 | 1:36 | Pensar / pausa dramática |
 | Envuelta en llamas rojas, alas de polilla desplegadas | https://www.dailymotion.com/video/x89wlj1&t=136 | 2:16 | Regañar / advertir (amenaza) |
 | En el centro de la explosión floral «Scarlet Aeonia», brazos abiertos | https://www.dailymotion.com/video/x89wlj1&t=184 | 3:04 | Celebrar (ataque definitivo, pose icónica de material promocional) |
 | Silueta alada completa sobre el humo rojo, de perfil | https://www.dailymotion.com/video/x89wlj1&t=248 | 4:08 | Presentar (silueta reconocible) |
@@ -105,11 +106,12 @@ para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo
 |---|---|---|---|
 | Primer plano de perfil, capucha y capa, cuerno/rama dorada visible en la sien | https://www.dailymotion.com/video/x89nx9b&t=192 | 3:12 | Presentar |
 | Rostro de frente mirando a cámara, ojo azul brillante, fondo oscuro | https://www.dailymotion.com/video/x89nx9b&t=200 | 3:20 | Explicar (mirada directa, tono solemne) |
-| De pie junto a una hoguera de Gracia, luz cálida ascendente | https://www.dailymotion.com/video/x8fuija&t=8 | 0:08 | Explicar / diálogo tranquilo |
-| Sentada en un tronco, mano en el pecho | https://www.dailymotion.com/video/x8fuija&t=40 | 0:40 | Pensar |
+| Sentada con las piernas cruzadas junto a la hoguera de Gracia, capucha puesta, de espaldas parcial al jugador | https://www.dailymotion.com/video/x8fuija&t=20 | 0:20 | Explicar (diálogo de subida de nivel) |
+| Sentada igual, plano más cercano, manos sobre el regazo, luz de la hoguera desde abajo | https://www.dailymotion.com/video/x8fuija&t=40 | 0:40 | Pensar / escuchar |
+| Sentada junto al Tarnished arrodillado, en el interior de la Mesa Redonda (alfombra roja) | https://www.dailymotion.com/video/x8fuija&t=85 | 1:25 | Presentar (diálogo formal, dos personajes) |
+| De pie junto a la hoguera, columna de luz blanca vertical detrás (ceremonia del espíritu) | https://www.dailymotion.com/video/x8fuija&t=95 | 1:35 | Animar (ceremonia solemne) |
 
-⚠️ Melina: sólo 4 poses fijadas con minuto exacto de vídeo por presupuesto de tanda (mínimo pedido 6-10);
-el investigador de imagen puede sumar hojas de la wiki para completar hasta 6-10 (ver «Sigue»).
+✅ (dos vídeos oficiales/de medios distintos muestran el mismo diseño: capucha, capa, silueta menuda) · 6 poses, cumple el mínimo del encargo (6-10).
 
 ## Lo mejor para la lámina
 
