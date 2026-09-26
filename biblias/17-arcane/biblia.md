@@ -1105,6 +1105,10 @@ es más de Arcane que un globo. Cómo es exactamente: ⚠️ no vi capturas.
 | **Viktor T1** | Chaleco de punto gris, camisa oscura, pañuelo granate `#4D1A26`; bastón | Gris `#544A50` | ✅ avatar |
 | **Viktor T2** | Pelo blanco, túnica lila | `#CC84FC` | ✅ S7 |
 | **Ekko** | Bufanda naranja, pelo blanco en rastas cortas | Naranja `#773019` | ✅ avatar |
+| **Jinx T2** (2×04, fotograma) | Top negro con lazada en X, gargantilla, guantes sin dedos | Pelo `#133650` / `#0B2946` | ✅ medido en el fotograma de 6:10 (§5.2) |
+| **Vi T1** (1×08, fotograma) | Chaqueta roja, vendas hasta el codo, tatuajes en los brazos, aro en la nariz | Pelo `#491A26` | ✅ medido en el fotograma de 13:40 |
+| **Silco** | Camisa **granate**, chaleco negro y rojo morado con detalles dorados, corbata blanca; jeringa de Shimmer | Sin hex fiable: las imágenes abiertas llevan luz verde o nocturna ⚠️ | ✅ la ropa ([Arcane Wiki](https://arcane.fandom.com/wiki/Silco#Appearance)) |
+| **Emblemas de Piltóver y Zaun** | El oro de los dos escudos | `#C7A965` | ✅ medido por píxel (§3.3) |
 
 **Lo «icónico» que todos reconocen**: las **trenzas azules** de Jinx, la
 **chaqueta roja** y los **guanteletes** de Vi, el **martillo** de Jayce,

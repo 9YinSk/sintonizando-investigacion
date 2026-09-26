@@ -53,3 +53,53 @@ Fichas de personaje con más imágenes grandes en `undertale.fandom.com` (de `re
 - Napstablook from Undertale · anyaachan · CC Atribución · https://sketchfab.com/3d-models/none-34eebb66d54b467888d446206bfe6ddf · ✅
 - Real Knife (el objeto icónico del True Pacifist/Genocide) · konan734 y anyaachan, dos versiones · CC Atribución · https://sketchfab.com/3d-models/none-c87b4663e6984cd78a5cc8072c8e13b5 · https://sketchfab.com/3d-models/none-56742ff2f64c4fdd89d773fd2e562f1f · ✅ (dos fuentes)
 - Búsqueda «Delta Rune symbol» en Sketchfab: sin resultados con licencia (⚠️, ver punto 19).
+
+## 15 · Vestuario, colores medidos con `estilo.py` (Pillow, cuantización de color)
+
+Personaje | Prenda | Hex medido | De qué imagen
+---|---|---|---
+Sans | Sudadera con capucha | #2F79B6 | Sans artwork plush.png (foto de producto) · https://static.wikia.nocookie.net/undertale/images/6/61/Sans_artwork_plush.png
+Papyrus | «Battle body» (capa/guantes/botas) | #D8492A | Papyrus artwork plush.png · https://static.wikia.nocookie.net/undertale/images/a/a6/Papyrus_artwork_plush.png
+Toriel | Túnica larga | #5A5790 | Toriel artwork plush.png · https://static.wikia.nocookie.net/undertale/images/2/2e/Toriel_artwork_plush.png
+Undyne | Piel/escamas | #40A9E5 | Undyne artwork plush.png · https://static.wikia.nocookie.net/undertale/images/d/df/Undyne_artwork_plush.png
+Undyne | Cabello (cola de caballo) | #CB2C29 | mismo archivo
+Frisk | Camiseta (base) | #67A3E0 | Frisk overworld.png (sprite oficial) · https://static.wikia.nocookie.net/undertale/images/f/f8/Frisk_overworld.png
+Kris (mundo real) | Jersey lima con raya amarilla | #D8E95C | Sticker oficial de LINE · https://static.wikia.nocookie.net/deltarune/images/f/fb/Kris_LINE_sticker_artwork.png
+Kris (Dark World) | Armadura plateada | #7D99AB | Kris artwork Famitsu.png · https://static.wikia.nocookie.net/deltarune/images/d/d1/Kris_artwork_Famitsu.png
+Kris (Dark World) | Capa rosa | #BE2768 | mismo archivo
+Susie | Piel/cabello escamoso | #8F1E61 | Susie artwork Famitsu.png · https://static.wikia.nocookie.net/deltarune/images/5/53/Susie_artwork_Famitsu.png
+Susie | Chaqueta | #402866 | mismo archivo
+Ralsei | Capa/gorro | #189868 | Ralsei artwork Famitsu.png · https://static.wikia.nocookie.net/deltarune/images/1/1f/Ralsei_artwork_Famitsu.png
+Ralsei | Bufanda/capa interior | #CD1A56 | mismo archivo
+
+- Todos ✅: cada hex viene de `herramientas/estilo.py` sobre la imagen oficial citada **y** coincide con la descripción textual de la wiki (Appearance de cada ficha, ver bitácora). El texto de la wiki confirma «blue hoodie» (Sans), «orange-red cape... blue briefs» (Papyrus), «long purple robe» (Toriel), «blue scales... red ponytail» (Undyne), «light blue shirt» (Frisk), «lime shirt with one horizontal yellow stripe» (Kris mundo real), «silver armor... navy blue bodysuit... pink cape... cyan skin» (Kris Dark World), «scaled skin is purple... long dark purple hair» (Susie), «green, round glasses... pink scarf... green cloak with a black heart» (Ralsei).
+- Ropa icónica que todo fan reconoce: la sudadera azul de Sans (con capucha gris) y sus slippers; el «battle body» de Papyrus (su disfraz de fiesta que usa como armadura, con el símbolo tipo Starman de MOTHER); la túnica morada de Toriel con el Delta Rune bordado al pecho; el jersey a rayas azul/magenta de Frisk; el jersey verde de Kris (mundo real) contra su armadura de caballero plateada y capa rosa en el Dark World (el cambio de vestuario más marcado de toda la franquicia).
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+**Sitios con luz y hora del día medidas** (paleta con `estilo.py` sobre capturas oficiales):
+- Snowdin (Undertale): pueblo nevado en penumbra azulada de atardecer, acentos naranjas de antorchas y ventanas · #849ECB / #445F70 (fondo frío) + #8D4631 / #D68B44 (luces cálidas) · Snowdin screenshot Famitsu.png 663×507 · https://static.wikia.nocookie.net/undertale/images/8/86/Snowdin_screenshot_Famitsu.png · ✅
+- Waterfall (Undertale): cueva muy oscura con luz bioluminiscente violeta-azul, casi sin luz natural · #1C1749 / #1E235B · Waterfall location Sans telescope.png · https://static.wikia.nocookie.net/undertale/images/7/79/Waterfall_location_Sans_telescope.png · ✅
+- Hotland (Undertale): calor naranja-rojizo de lava, ambiente industrial · #AE5125 / #85291F · Famitsu screenshot Hotland.png 1048×518 · https://static.wikia.nocookie.net/undertale/images/f/fb/Famitsu_screenshot_Hotland.png · ✅
+- Castle Town (Deltarune, capítulo 5, «Card Kingdom»): noche azul-violeta con faroles cálidos, ambiente festivo (banderines) · #3D4267 (cielo) + #EFA050 (faroles) · Chapter 5 Castle town.jpg 1920×1200 · https://static.wikia.nocookie.net/deltarune/images/3/35/Chapter_5_Castle_town.jpg · ✅
+
+**Fondos de pantalla oficiales y de fans en alta** (Wallhaven, sólo aptos, 1920×1080+, con autor y origen):
+- 1920×1200 · ♥41 · Kris/Ralsei, oscuro · subido por DaxterDotEXE, origen Pixiv · https://w.wallhaven.cc/full/p8/wallhaven-p8k1kp.png · ✅
+- 2048×1152 · ♥35 · brillante, arte de videojuego · subido por Amirize · https://w.wallhaven.cc/full/je/wallhaven-jel9mw.jpg · ⚠️ (sin origen declarado)
+- 3440×2440 (ultrawide) · ♥17 · Kris/Susie/Ralsei · deviantart.com/tomtc «It's breathtaking isn't it» · https://w.wallhaven.cc/full/k8/wallhaven-k8d35d.jpg · ✅
+- 1920×1080 · ♥11 · Pink (Deltarune) y Mettaton · tumblr.com/kirukrono · https://w.wallhaven.cc/full/og/wallhaven-ogjw7l.png · ✅
+- Las 4 restantes (de 8 recolectadas) están en `partes/datos-imagen.md`, ya filtradas por aptas.
+
+## 19 · Texturas 2D (no hay manga: tramas equivalentes a lo que sí tiene el juego)
+
+Undertale/Deltarune no tienen manga oficial, así que no hay tramas de screentone que buscar; lo que sí pide el punto son sus equivalentes: el sombreado plano por celdas de los sprites, el dithering de 8/16-bit de los fondos, y los emblemas del juego.
+
+- **Sombreado real del juego**: `estilo.py` mide sombreado **plano (cel)** en casi todo el arte de personaje (Sans, Toriel, Kris, Susie, Ralsei) y **mixto/degradado** en fondos pintados (Hotland, Snowdin, Castle Town) — ver puntos 15-16. Es decir: personajes a bloques de color, fondos con degradado suave.
+- **Pinceles de dithering libres** (para el degradado retro de los fondos y transiciones de luz):
+  - 605+ Dithering Brushes & Patterns for Aseprite · sodedromme · gratis (itch.io, «name your price», descargable en 0) · https://sodedromme.itch.io/246-brushes-and-patterns-for-aseprite · ✅
+  - 112+ Free Dithering Brushes & Patterns for Aseprite · sodedromme · gratis · https://sodedromme.itch.io/112-brushes-and-patterns-aseprite · ✅
+  - Aseprite Pixel Art Brush Set (Dithering Patterns) · pixelglade · donationware (paga lo que quieras, incluido $0) · https://ko-fi.com/s/f800bb898c · ⚠️ (revisar licencia exacta antes de usarlo en algo comercial)
+- **Texturas reales equivalentes a los sitios** (complementa al punto 4 del investigador de vídeo): Snow015 (nieve, CC0, PBR) para Snowdin y Lava004 (lava, CC0, PBR) para Hotland, ambas de ambientCG · https://ambientcg.com/view?id=Snow015 · https://ambientcg.com/view?id=Lava004 · ✅
+- **Patrones de ropa** (repetidos, no un solo color): el jersey de Frisk es celeste con rayas horizontales magenta; el de Kris (mundo real) es verde lima con una sola raya amarilla; la túnica de Toriel lleva el Delta Rune bordado al pecho (no es un patrón repetido, es un emblema único). Fuente: Appearance de cada ficha (undertale.fandom.com / deltarune.fandom.com) · ✅
+- **Emblema del Delta Rune**: «un orbe entre dos alas y tres triángulos debajo, con el triángulo del medio invertido» · https://undertale.fandom.com/wiki/Delta_Rune · ✅. La wiki tiene su propio SVG de referencia visual (`File:Delta rune.svg`) pero es una recreación de fans para ilustrar el artículo, no un recurso con licencia libre para reutilizar: no encontré una versión vectorial CC0/libre del emblema (⚠️, para la lámina toca redibujarlo a mano con Illustrator/Blender siguiendo esa descripción, nunca calcarlo de merchandising con copyright).
+- **Logo de Undertale/Deltarune**: son logotipos tipográficos (no un emblema con textura), eso lo cubre el investigador de texto en el punto 5.

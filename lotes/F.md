@@ -188,7 +188,7 @@ Cuenta: cuenta A104
 | 88 | redactor (seguir) | Opus | 11 | 201 k |
 | 90 | redactor | Opus | 21 | 324 k |
 | 91 | imagen | Sonnet | 16 | 215 k |
-| 91 | video | Sonnet | — | — |
+| 91 | video | Sonnet | 13 | 182 k |
 
 ## En marcha (sesión reanudada 2026-09-25 ~19:55 UTC)
 

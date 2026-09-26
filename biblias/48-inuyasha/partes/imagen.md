@@ -5,7 +5,17 @@ fuente con enlace, ✅ (dos fuentes) o ⚠️ (una), minuto o tamaño si aplica.
 Partida de `partes/datos-imagen.md` (recolectar.py, 2026-09-25): esos datos no
 se repiten aquí, sólo se comprueban y se amplían.
 
-## 1 · Arte oficial, en cantidad y variado
+## 3 · Fan art y renders 3D (referencia; nunca para pegar) y modelos 3D con licencia
+
+- Fan art mejor valorado en Safebooru por personaje (Inuyasha, Kagome, Miroku, Sango), con tamaño y enlace al origen en Pixiv/Twitter/Zerochan cuando lo hay: ver bloque «Fan art mejor valorado» de `datos-imagen.md` (30 imágenes) · ✅ (Safebooru + origen enlazado)
+- Modelos 3D de todo el elenco principal, con licencia **CC Attribution**, autor **deankagura** (Sketchfab): Inuyasha, Kagome, Sesshōmaru, Kikyō, Sango — ver `datos-imagen.md` (bloque Sketchfab) · ✅
+- Modelo 3D de **Naraku** (postura de combate) y **Naraku (Casual)**, mismo autor, CC Attribution · https://sketchfab.com/3d-models/none-3312dfe1d19342feb6b68a7405524bf4 (♥21) y https://sketchfab.com/3d-models/none-a6b498884a8347f6ab523327029cbda5 (♥6) · ✅ (licencia visible en la ficha del modelo)
+- Modelo 3D de **Kirara** en forma de gatita (kitten), CC Attribution, deankagura · https://sketchfab.com/3d-models/none-dec388ee3ae947e3a5a116a0f3cf1264 (♥13) · ✅
+- **Tessaiga** (espada de Inuyasha) en dos modelos CC Attribution: «Tessaiga» de lvdagmil (♥24, https://sketchfab.com/3d-models/none-5e849d275acc40149b1a01694da420c7) y «Tesaiga Inuyasha (low)» de Ericks.Raphael.Effio.Lujan (♥27, ya en `datos-imagen.md`) · ✅
+- **HDRI CC0 de Poly Haven «Bamboo Tunnel»** (túnel de bambú, luz de mediodía, natural), sirve de referencia real de iluminación y textura para los bosques de bambú del Sengoku que recorren los personajes · https://polyhaven.com/a/bamboo_tunnel · resoluciones hasta 16K · licencia CC0 · ✅ (ficha de Poly Haven, autoría Dimitrios Savva)
+- No encontré modelo 3D con licencia libre de **Hiraikotsu** (el bumerán-hueso de Sango) ni de sitios recreados (el Árbol Sagrado, el pozo devora-huesos) en Sketchfab con `downloadable=true`: búsqueda «Hiraikotsu», «feudal japan village», «InuYasha well» sin resultados descargables ⚠️
+
+
 
 - Portada del videojuego «InuYasha: Feudal Combat» (PS2, 2005, lucha por equipos, célula-shading) · https://static.wikia.nocookie.net/inuyasha/images/e/ef/Feudal-Combat.jpg (707×1000) · fuente: https://inuyasha.fandom.com/wiki/Feudal_Combat y https://en.wikipedia.org/wiki/Inuyasha:_Feudal_Combat · ✅
 - Portada de «InuYasha: The Secret of the Cursed Mask» (PS2, RPG) · https://static.wikia.nocookie.net/inuyasha/images/d/db/The-Secret-of-the-Cursed-Mask.jpg (704×1000) · fuente: https://inuyasha.fandom.com/wiki/The_Secret_of_the_Cursed_Mask · ⚠️ (una fuente, wiki)
