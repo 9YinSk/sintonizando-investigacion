@@ -1,6 +1,40 @@
 # CONTINUAR — cómo seguir desde otra cuenta o sesión
 
-## 0. Lo último (26-sep-2026, 01:50 UTC) — empieza por aquí
+## 0. Lo último (26-sep-2026, 03:40 UTC) — empieza por aquí
+
+La rama con todo al día es ahora **`claude/focused-ritchie-qolnvi`** (sesión
+https://claude.ai/code/session_0138RwvbWSrVhmaUChfe2D2s). Lleva dentro
+`claude/awesome-hypatia-ofqvy7` (la sesión que se quedó sin cuota a las 03:20
+UTC) y, por tanto, `quirky-brahmagupta`, `trusting-thompson` y `amazing-johnson`.
+
+- Estado al arrancar: 87 biblias COMPLETAS (revisar.py); con biblia pero con
+  faltas: 17 (tabla de cumplimiento) y 105 (1 ❌); sin biblia y con partes: 47,
+  48, 67, 68, 91, 127; con datos recolectados: 106, 128.
+- En marcha desde las 03:35 UTC, un flujo por lote (B, D, E, F, G, H) con
+  `Workflow({scriptPath: ".claude/workflows/serie-en-equipo-roles.js", args:
+  {lote: "D", max: 4, esfuerzo: {inv: "medium", red: "high", aux: "low"}}})`.
+  `serie-en-equipo-roles.js` es el flujo para una sesión que arrancó sin los
+  `.claude/agents/` registrados: cada agente lee su ficha de rol y **lleva el
+  modelo fijo del rol** (Haiku recolector/revisor/cierre, Sonnet
+  investigadores, Opus redactor), y **mide las partes con revisor-partes antes
+  de cada redactor también en modo redactar/seguir** (67 tenía texto.md con 7
+  líneas y siguiente.py decía «redactar»). Lo flojo o inexistente se relanza
+  una vez.
+- Dos flujos de revisión (Sonnet, sólo lectura) sobre las 47 biblias cerradas
+  desde el 25-sep 12:00 UTC: obra correcta, puntos flojos, restos, tabla
+  honesta. Sus hallazgos se apuntan aquí abajo cuando acaben.
+- Herramientas en esta máquina: apt (`apt-get update` primero: sin él da 404)
+  y pip del punto 3.2 instalados; `navegar.py` necesita **los dos**
+  certificados del proxy en NSS: `certutil -d sql:$HOME/.pki/nssdb -A -t "C,,"
+  -n a -i /root/.ccr/ca-bundle.crt` y lo mismo con
+  `/root/.ccr/agent-proxy-ca.crt` (con sólo el bundle sigue dando
+  ERR_CERT_AUTHORITY_INVALID). No hace falta `playwright install`: usa
+  /opt/pw-browsers/chromium.
+- Red de esta máquina: archive.org, Wikipedia, YouTube, AniList, MAL,
+  Dailymotion, MusicBrainz y Google responden 200 a curl; fandom.com, Reddit y
+  TV Tropes dan 403 a curl (fandom por api.php; los otros con navegar.py).
+
+## 0 (anterior). 26-sep-2026, 01:50 UTC
 
 La rama con todo al día es ahora **`claude/quirky-brahmagupta-vrgrir`**. Lleva
 dentro `claude/amazing-johnson-mxlnjs` y `claude/trusting-thompson-8pej3z` (la
