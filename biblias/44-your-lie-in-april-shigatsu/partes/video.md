@@ -110,8 +110,13 @@ Fotogramas propios (`ffmpeg -ss` sobre `archive.org/download/EVYourLieinApril/<e
 ⚠️ = sólo el fotograma). Identidad de cada personaje verificada contra los
 retratos de AniList (pelo: Kousei azul oscuro con gafas, Kaori rubia, Watari
 castaño-naranja sin gafas, Tsubaki castaña corta). Watari y Tsubaki, al ser
-secundarios, tienen menos planos propios en los 4 episodios revisados: lo que
-falta para llegar a 6-10 cada uno lo puede completar imagen (hojas de la wiki).
+secundarios, tienen menos planos propios: revisé episodios 1, 2, 3, 4, 6, 10,
+20 y 22 buscando específicamente sus escenas (con la lista de personajes de
+cada ficha de episodio de la wiki, para no ir a ciegas) y llegué a **4 cada
+uno** (subido desde 3 en la tanda anterior). Sigue faltando para las 6-10 que
+pide el encargo: sus arcos con más protagonismo (9-16) apenas los toqué por
+tiempo. Lo que falte lo puede completar imagen con **ilustraciones** (el
+encargo permite fotograma O ilustración) de las hojas de contacto de la wiki.
 
 | Pose | Episodio | Minuto | Sirve para |
 |---|---|---|---|
@@ -152,7 +157,7 @@ falta para llegar a 6-10 cada uno lo puede completar imagen (hojas de la wiki).
 - Actualización de esta tanda: `navegar.py` **sí** funciona en este contenedor (el fallo anterior era del entorno de esa sesión, no de la web); pude abrir `tiktok.com/tag/yourlieinapril` de verdad y ya está citado arriba con vídeos y autores reales. Sigue sin poder abrirse cada vídeo individual de TikTok (el listado no da minuto ni vistas) ni los dos vídeos de YouTube del punto 10 (429 «tráfico inusual» en dos intentos hoy, misma IP compartida): esos dos quedan sólo con título/fecha por búsqueda web, sin minuto exacto. ⚠️
 - Vistas y «me gusta» reales de los vídeos de TikTok/YouTube: no accesibles sin navegador con JS ni login. ⚠️
 - No encontré doblaje latino en ningún clip oficial de OP/ED (eso es del investigador de voz, punto 8, pero lo anoto porque toqué música): los AMV latinos que aparecen en `datos-video.md` («Opening Español Latino» x8dnwv0) fueron borrados de Dailymotion (vídeo no encontrado).
-- No hay más de 3-4 poses propias de Watari y Tsubaki en los episodios que revisé (1, 2, 3, 4, 6, 22): son secundarios y su protagonismo visual llega más tarde en la serie (arcos 9-16). Si hace falta llegar a 6-10 por personaje, conviene completarlo con las hojas de contacto de la wiki (trabajo del investigador de imagen) o revisando los episodios 7-16 con más tiempo.
+- Watari y Tsubaki se quedan en **4 poses propias** cada uno (subí de 3, revisando además los episodios 10 y 20 esta tanda), por debajo de las 6-10 que pide el encargo. Son secundarios y su protagonismo visual llega más tarde (arcos 9-16, sobre todo el 20 «Hand in Hand» donde Tsubaki confronta a Kousei); revisé las fichas de personajes de esos episodios en la wiki para no buscar a ciegas, pero no me dio tiempo a sacar y mirar más fotogramas de esos arcos. Conviene completarlo con ilustraciones oficiales (el encargo admite fotograma O ilustración) de las hojas de contacto de la wiki, trabajo del investigador de imagen.
 
 ## Bitácora de búsqueda
 
@@ -184,6 +189,8 @@ falta para llegar a 6-10 cada uno lo puede completar imagen (hojas de la wiki).
 | 2 · Fotogramas de escenas icónicas, capítulo y minuto | ✅ | Tráiler oficial (PV2) + 3 escenas icónicas con episodio y minuto exacto, miradas fotograma a fotograma |
 | 4 · Fondos y sitios: luz y paleta medida | ✅ | 6 sitios con hex medidos con `estilo.py` sobre fotogramas propios en 1080p |
 | 9 · Música y sonido | ✅ | OP1/OP2/ED1/ED2/ED3 confirmados (wiki + visto en vídeo), compositor, tema de la escena final, música de la escena del tejado, ambiente sonoro |
-| 10 · Vídeos: tráileres, escenas, análisis, tendencias | ⚠️ | Tráiler y tendencia «POV»/Twixtor vistos y citados con minuto; los vídeos de YouTube (reacciones) sólo por título, sin abrir (bloqueo de login); TikTok sin poder navegar (falta el navegador en el contenedor) |
-| 14 · Poses por personaje, con capítulo y minuto | ⚠️ | Kaori (7) y Kousei (6) completos; Watari (3) y Tsubaki (3) por debajo de 6 — son secundarios con menos protagonismo en los episodios revisados |
+| 10 · Vídeos: tráileres, escenas, análisis, tendencias | ⚠️ | Tráiler visto fotograma a fotograma; TikTok visto de verdad esta tanda (`tiktok.com/tag/yourlieinapril`, vídeos y autores reales); popularidad en MyAnimeList. Sólo quedan sin abrir los 2 vídeos de reacción de YouTube (429 en dos intentos, bloqueo del servidor compartido, no de la web) |
+| 14 · Poses por personaje, con capítulo y minuto | ⚠️ | Kaori (7) y Kousei (6) completos; Watari y Tsubaki subieron de 3 a 4 cada uno esta tanda (episodios 1, 2, 3, 4, 6, 10, 20, 22 revisados), pero siguen bajo el mínimo de 6 — necesitan sus arcos 9-16, que no me dio tiempo a mirar |
+
+Sigue: punto 14, Watari y Tsubaki están en 4 poses cada uno, faltan 2 más cada uno para llegar al mínimo de 6 — revisar episodios 9, 11-19 (sus arcos con más protagonismo) con `ffmpeg -ss` sobre `archive.org/download/EVYourLieinApril/<ep>.mp4`, apoyándose en la lista de personajes de cada ficha de episodio de la wiki para no ir a ciegas.
 

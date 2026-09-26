@@ -237,3 +237,188 @@ En Zelda el «globo» es la **caja de texto del juego**. Cada juego cambia la su
 - Una caja para un sabio de TotK: hablan sin caja.
 - Una caja en ALttP: es sólo texto.
 - Una burbuja blanca de cómic para Link: Link no habla.
+
+## 7 · Personajes y encuestas de popularidad
+
+**Principales:** Link (héroe, mudo), Zelda (princesa, sabia, la que habla), Ganon/Ganondorf (villano que siempre vuelve).
+**Secundarios queridos:** Mipha, Sidon, Revali, Urbosa, Daruk (los Campeones de BotW), Purah, Tulin, Riju, Midna (TP), Tetra (WW), los Koroks.
+
+**Encuestas oficiales de *Nintendo Dream*** (revista japonesa, votos reales de lectores):
+- **Tears of the Kingdom** (2024): 1.º Link 1032 · 2.ª Zelda 742 · 3.º Tulin 439 · 4.º Sidon 416 · 5.ª Purah 357 · 6.º Ganondorf disfrazado de Kohga 337 · 7.º los Koroks 289 · 8.º Ganondorf real 280 · 9.ª Riju 243 · 10.º Rauru 221 ([ndw.jp](https://www.ndw.jp/zeldatotk-si04/)). ✅
+- Dato curioso: el villano quedó **por debajo** de los Koroks y de su propio disfraz. ✅
+- En la categoría de secundarios de TotK ganó Sakura con 126 votos. ⚠️ No da el 2.º puesto.
+- **Breath of the Wild** (2018): 1.º Link · **2.ª Mipha** · 3.ª Zelda · 4.º Sidon · 5.º Revali · 6.º Momo · empate 7.º Cassiva, Purah y Riju · empate 10.º Urbosa y Paya ([ndw.jp](https://www.ndw.jp/post-1013/)). ✅
+- Todos los personajes de Nintendo (2018): Link 3.º y Zelda 10.ª; Link 1.º en «con quién irías de campamento» ([Universo Zelda](https://universozelda.com/2018/09/17/los-personajes-mas-queridos-de-nintendo/)). ⚠️
+
+**Encuestas de fans:**
+- Schaffrillas Productions (más de 23 000 votos): 1.ª Midna · 2.ª Zelda de BotW/TotK · 3.º Morshu (el vendedor meme del CD-i) · 4.º Groose · 5.ª Tetra ([TheGamer](https://www.thegamer.com/the-legend-of-zelda-fan-poll-top-five-characters/)). ⚠️
+- Torneo de GameFAQs «Character Battle»: Link ganó 5 de 10 ediciones, la última en 2018 contra Cloud ([Board8 Wiki](https://board8.fandom.com/wiki/Character_Battle_X)). ✅
+- Dibujos de fans en [Danbooru](https://danbooru.donmai.us/posts?tags=the_legend_of_zelda): Link 21 026 · Zelda 16 833 · Midna 2419 · Ganondorf 1560 · Sheik 908. ✅
+
+**Conclusión.** Link es el más querido de verdad. Pero la que habla y la que emociona es Zelda. Mipha es el caso «secundaria más querida que la princesa».
+
+## 8 · Doblaje latino y frases textuales
+
+Sí hay doblaje latino oficial, y mucho. Nintendo dobló en México la serie de 1989 y, desde *Breath of the Wild* (2017), cada Zelda 3D con voces.
+Fuentes: [Doblaje Wiki, franquicia](https://doblaje.fandom.com/es/wiki/The_Legend_of_Zelda_%28franquicia%29) y [ficha de BotW](https://doblaje.fandom.com/es/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild), más ANMTV, LEVEL UP y 3DJuegos.lat.
+
+| Personaje | Voz japonesa | Voz latina | Estado |
+|---|---|---|---|
+| Link (serie 1989) | (inglés: Jonathan Potts) | Jorge Roig Jr. | ✅ Doblaje Wiki + [Fandub Wiki](https://fandub-doblaje-latino.fandom.com/es/wiki/Jorge_Roig_Jr.) |
+| Link (BotW, Age of Calamity, TotK) | Kengo Takanashi | **no tiene**: sólo gritos y esfuerzos | ⚠️ dos páginas del mismo sitio |
+| Zelda (serie 1989) | (inglés: Cynthia Preston) | Rocío Garcel | ⚠️ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Zelda) |
+| Zelda (BotW, AoC, TotK, Age of Imprisonment) | Yū Shimamura | **Jessica Ángeles** | ✅ [ANMTV](https://www.anmtvla.com/2023/04/the-legend-of-zelda-tears-of-kingdom.html) + [LEVEL UP](https://www.levelup.com/noticias/zelda-tears-of-the-kingdom-presume-avance-con-doblaje-latino-y-es-hermoso-jessica-angeles-regresa/) |
+| Ganon (serie 1989) | (inglés: Len Carlson) | Herman López | ⚠️ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Ganondorf) |
+| Ganondorf (TotK) | Kōsuke Takaguchi | Jaime Collepardo | ✅ ANMTV |
+| Ganondorf como Kohga (Age of Imprisonment) | Kōsuke Takaguchi | Juan José Hernández | ⚠️ juego de 2025 |
+| Rey Rhoam (BotW) | Hiroshi Naka | Octavio Rojas | ✅ [ANMTV BotW](https://www.anmtvla.com/2017/01/the-legend-of-zelda-breath-of-wild.html) |
+| Mipha (BotW, AoC) | Mayu Isshiki | Alondra Hidalgo | ✅ [3DJuegos.lat](https://www.3djuegos.lat/nintendo-switch/the-legend-of-zelda-tears-of-the-kingdom-asi-se-escuchan-voces-espanol-latino-jessica-angeles-alondra-hidalgo) |
+| Daruk (BotW, AoC) | Kōji Takeda | Ricardo Tejedo | ✅ ANMTV |
+| Impa (BotW, TotK) | Shōko Tsuda | Yolanda Vidal | ✅ ANMTV |
+| Gran Árbol Deku | Hideaki Nonaka | Rubén Moya | ✅ ANMTV |
+| Sidon | Kōsuke Ōnishi | José Antonio Macías | ⚠️ sólo Doblaje Wiki |
+| Revali | Noboru Yamaguchi | Enzo Fortuny | ⚠️ sólo Doblaje Wiki (y su audio) |
+| Urbosa | Rei Shimoda | Kerygma Flores | ⚠️ sólo Doblaje Wiki |
+
+**Ficha técnica.** Estudio KiteTeam (BotW) y Keywords Studios (AoC, TotK, Age of Imprisonment). Dirección: **Xóchitl Ugarte** en los cuatro. Grabado en México, 2016-2017. ✅
+- Por qué la eligieron, según ella: «necesitaban a alguien que entendiera a los creadores, a los fans, y que ahora los personajes iban a tener voz».
+- Pronunciación fijada por Nintendo: «Hyrule» se dice **«Irule»**; «hylianos», **«ilianos»**; Hylia, **«Ília»**. ⚠️ nota del propio doblaje.
+- La escena en que Zelda llora se grabó con la directora dentro de la cabina. ⚠️
+- Error conocido: en el recuerdo de Revali el subtítulo dice «con mis talentos» y la voz dice «con **todos** mis talentos». ✅ (oído en la muestra)
+
+**Frases textuales** (muestras de audio de Doblaje Wiki transcritas con `voz.py` y repasadas a oído). El minuto es el de la muestra.
+
+Zelda, Jessica Ángeles. Voz aguda (311 Hz), muy expresiva (24,3 semitonos). [Muestra de 68 s](https://static.wikia.nocookie.net/doblaje/images/2/2f/Zelda_TLoZBotW.ogg/revision/latest?cb=20170414024802&path-prefix=es). ✅
+- 0:05-0:12 · «Ya te dije que hoy no necesito escolta. Y no me importa que sean órdenes del rey. La decisión es mía y no requiero de tu protección.»
+- 0:22-0:28 · «¿Serías un candidato ideal? ¡Pruébalo! ¡Por la ciencia!»
+- 0:38 · «Ruego que me digas, ¿qué es lo que estoy haciendo mal?»
+- 0:44 · «No pude detener a Ganon y me arrebató lo único que nos protegía de él.»
+- 1:01-1:08 · «Lleven a Link al santuario de la vida. […] Está muy débil. Dense prisa o morirá.»
+
+Revali, Enzo Fortuny. Tono medio (188 Hz), muy expresivo (15,4 semitonos). Presumido. [Muestra de 18 s](https://static.wikia.nocookie.net/doblaje/images/7/7e/Revali_TLoZBotW.ogg/revision/latest?cb=20170414023226&path-prefix=es). ✅
+- 0:00 · «Impresionante, ¿no? No hacen falta alas para apreciar tal proeza.»
+- 0:04 · «He perfeccionado la técnica de crear corrientes de aire ascendentes.»
+- 0:09 · «Mi nivel de maestría es inigualable, incluso entre la tribu Orni.»
+- 0:14 · «Con todos mis talentos, estoy seguro de que podremos derrotar a Ganon sin mayores dificultades.»
+
+⚠️ No hay un tráiler o partida doblada con minutero donde salgan estas líneas exactas. Hay muestras de Impa, Sidon, Yunobo, Teba y Riju sin transcribir. De Ganondorf no hay muestra.
+
+## 9 · Música y sonido
+
+- **Compositor de la saga: Koji Kondo.** Sale en los créditos de *Ocarina of Time* ([0:30](https://www.dailymotion.com/video/xfna7f?t=30)) y en [MusicBrainz](https://musicbrainz.org/ws/2/release-group/?query=Zelda%20CD%20Hyrule%20Fantasy). ✅
+- No hay openings ni endings: la música es instrumental. El más parecido es el opening de la serie de 1989: orquesta con sintetizador ochentero, nada que ver con los juegos ([vídeo](https://www.dailymotion.com/video/x9z52vq)). ✅
+- Disco oficial: «Zelda CD ~Hyrule Fantasy~» (2001). ⚠️ sólo MusicBrainz.
+- Gira de conciertos «Symphony of the Goddesses», disco «Master Quest» (2017). ⚠️ sólo MusicBrainz.
+- El 40.º aniversario (2026) anunció otra gira de conciertos ([CNN en Español](https://cnnespanol.cnn.com/2026/09/08/entretenimiento/legend-of-zelda-40-aniversario-pelicula-anuncios-orix)). ✅
+- **La escena más triste con música propia:** «Midna's Lament», en la despedida de Midna al final de *Twilight Princess* (se rompe el Espejo del Crepúsculo). ⚠️ una fuente; no se sacó el clip.
+- **Sonidos que todo fan reconoce:**
+  - El «tin-tin-tin» agudo al sacar un objeto de un cofre.
+  - La melodía corta al resolver un puzle.
+  - Están en la página «Sound Effects» de la [Zelda Wiki](https://zelda.fandom.com). ⚠️ No se pudo escuchar el audio desde el servidor.
+- **Frases-sonido:** «It's dangerous to go alone! Take this!» (1986) y «Hey! Listen!» (Navi, OoT). Están en «Iconic quotes» y «The Legend of Zelda in Popular Culture» de la wiki. ✅
+- **Link en combate:** gritos marcados, tipo «¡Hyaaa!», en los golpes fuertes. ✅
+
+## 10 · Vídeos
+
+Vistos enteros con `fotogramas.py` (62 fotogramas la parte de vídeo, más cuatro vídeos la de voz).
+
+| Vídeo | Duración | Qué sirve y en qué minuto |
+|---|---|---|
+| [Tráiler BotW, E3 2016](https://www.dailymotion.com/video/xa39e4u) | 3:50 | Espada 0:45, Link a caballo 1:15, Zelda 2:45, Urbosa 3:00 |
+| [Tráiler final TotK](https://www.dailymotion.com/video/x8k28ay) | 5:10 | Islas del Cielo 1:20, brazo en alto 2:40, Espada verde 3:00, Zelda en el cielo 4:40 |
+| [Tráiler definitivo TotK](https://www.dailymotion.com/video/x8k22ef) | 3:54 | Lágrima de Zelda 2:09, Link decidido 3:18 |
+| [Intro de *Ocarina of Time 3D*](https://www.dailymotion.com/video/x84bbjw) | 1:25 | Epona 0:21, vado 0:56, túnel 1:17 |
+| [Combate con Ganon, BotW](https://www.dailymotion.com/video/x89nrh5) | 4:54 (60 s vistos) | Ganon y su nombre en pantalla 0:20 |
+| [Opening serie 1989](https://www.dailymotion.com/video/x9z52vq) | 0:57 | espada y rayo 0:05, Ganon animado 0:15, salto al agua 0:40 |
+| [Tráiler DLC *The Champions' Ballad*](https://www.dailymotion.com/video/x6bc0bm) | 2:36 | Rey Rhoam serio 1:44 |
+| [BotW, primeros minutos en español](https://www.dailymotion.com/video/x5ahli0) | 20 min | Link recién despierto 2:15 |
+| [Anuncio de la secuela, E3 2019](https://www.dailymotion.com/video/x7au2j3) | — | Zelda alerta 0:34, miedo 0:46 |
+
+**Tendencias:**
+- Los inventos con **Ultramano** de TotK (vehículos, máquinas, bromas) se hicieron virales en 2023 ([Digital Trends](https://www.digitaltrends.com/gaming/tears-of-the-kingdom-ultrahand-player-creations/), [etiqueta de TikTok](https://www.tiktok.com/discover/zelda-tears-of-the-kingdom)). ✅ Sin cifras de vídeos concretos.
+- **PointCrow**, youtuber de retos y *randomizers* de Zelda ([Wikipedia](https://en.wikipedia.org/wiki/PointCrow)). ⚠️
+- Análisis en español: «ANÁLISIS ZELDA: TEARS OF THE KINGDOM» ([YouTube](https://www.youtube.com/watch?v=JoXWILR-uck)) y «La Saga en 1 Video» ([YouTube](https://www.youtube.com/watch?v=eJDNSmztO7U)). ⚠️ No se pudieron abrir: YouTube bloqueó el servidor.
+
+## 11 · Videojuegos: interfaz y menús
+
+La franquicia **es** la saga de juegos. Cada época cambia su menú.
+
+- **Ocarina of Time.** Subpantalla con START. Tres botones C para objetos; el de arriba llama a Navi ([wiki](https://zelda.fandom.com/wiki/Controller_Buttons)). ✅
+- **Majora's Mask.** Subpantalla de **máscaras**, la mecánica central ([manual oficial](https://www.nintendo.com/eu/media/downloads/games_8/emanuals/nintendo_8/Manual_Nintendo64_TheLegendOfZeldaMajorasMask_EN.pdf)). ✅
+- **The Wind Waker.** Cuadrícula simple de objetos, con el diario de navegación y la carta del tesoro como objetos. ⚠️
+- **Breath of the Wild.** Inventario por pestañas (armas, arcos, escudos, equipo, materiales, comida, objetos clave). Casi monocromo. Las runas del **Sheikah Slate** van en un **menú radial** aparte ([ResetEra](https://www.resetera.com/threads/zelda-has-a-menu-and-ui-problem-the-series-needs-to-solve-it.1150038/), [Interface In Game](https://interfaceingame.com/games/the-legend-of-zelda-breath-of-the-wild/)). ✅
+- Tamaños reales de la interfaz de BotW: fotos del álbum a 54×480 px, fotos del compendio a 280×280 px ([ZeldaMods](https://zeldamods.org/w_botw/index.php?title=Draft:Content/UI)). ✅
+- **Tears of the Kingdom.** El Sheikah Slate pasa a ser el **Purah Pad**. El menú enseña qué botón pulsar. El radial suma Ultramano, Fusión, Ascenso y Recuperación ([TheGamer](https://www.thegamer.com/the-legend-of-zelda-tears-of-the-kingdom-purah-pad-guide/), [wiki](https://zelda.fandom.com/wiki/Purah_Pad)). ✅
+- **Hyrule Warriors.** Barra de vida y contador de enemigos, visto en la hoja `personajes_02.jpg` nº80. ⚠️ una imagen.
+
+**Para la lámina.** El Sheikah Slate y el Purah Pad son **objetos reales**: una tableta en la mano. Se pueden modelar en Blender y llevar el texto del canal en su pantalla. Un panel de interfaz suelto, no (regla 1 del dueño).
+
+## 12 · Lo que el fandom ama y qué NO hacer
+
+Es un fandom de 40 años que nota enseguida un detalle mal puesto.
+
+**Lo que ama:**
+- **«I am Error».** Un aldeano de *Zelda II* (1987) se llama Error. Tiene un gemelo llamado Bagu («bug»). Es un chiste de programadores, no un fallo. Hoy lo citan *Terraria* o *The Binding of Isaac* ([Wikipedia](https://en.wikipedia.org/wiki/I_am_Error)). ✅
+- **«It's dangerous to go alone! Take this.»** El anciano de la cueva regala la primera espada (1986). La frase más citada de la saga. ⚠️ cultura general, sin fuente primaria.
+- **«Hey! Listen!»** Navi, el hada de OoT, avisando sin parar. Muy parodiada. ⚠️
+- **«Well excuuuuuse me, Princess!»** De los juegos de CD-i (1993), con animación torpe. Meme de YouTube Poop. El vendedor **Morshu** es de ahí ([Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_CD-i_games)). ✅
+- **Las 900 semillas Korok.** Broma por lo pesado que es; el premio final es una caca dorada. ⚠️
+- **Los trucos de física** (lanzar cosas a kilómetros con Stasis). Se celebran como si fueran oficiales. ⚠️
+- **El debate de la línea temporal** de *Hyrule Historia* ([Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Hyrule_Historia)). ✅
+
+**Qué NO hacer:**
+- **Llamar «Zelda» a Link.** El error más señalado. Zelda es la princesa ([TheGamer](https://www.thegamer.com/legend-of-zelda-zelda-is-link-memes/)). ✅
+- **Darle a Link diálogo largo con voz.** Es mudo por diseño. Cada rumor de darle voz causa pelea. ✅
+- **Poner la Trifuerza al revés.** Poder arriba, Sabiduría abajo a la izquierda, Valor abajo a la derecha ([Wikipedia en español](https://es.wikipedia.org/wiki/Trifuerza), [Zelda Wiki](https://zelda.fandom.com/wiki/Triforce)). ✅
+- **Dibujar una espada genérica en vez de la Espada Maestra.** Guarda en forma de alas, empuñadura azul violácea, hoja clara. Ver hoja nº10 y el modelo de Sketchfab. ⚠️
+- **Mezclar Links de juegos distintos sin querer.** El de *Wind Waker*, el de *Twilight Princess* y el de BotW tienen otras proporciones.
+- **Usar el símbolo gerudo antiguo** (luna creciente con estrella). Nintendo lo quitó por su asociación religiosa ([Wikipedia](https://en.wikipedia.org/wiki/Gerudo)). ✅
+
+## 13 · Personajes a fondo
+
+Base: *Breath of the Wild* y *Tears of the Kingdom*, las versiones más jugadas hoy.
+
+### Link
+
+- **Carácter.** Mucho sentido de la justicia. Casi nunca habla: gruñe y grita. Los Links realistas (TP, BotW) sonríen poco. El de *Wind Waker* es lo contrario: expresivo y se ríe fácil ([wiki](https://zelda.fandom.com/wiki/Link#Personality)). ✅
+- **Arco en BotW.** Despierta sin memoria en el Santuario de la Resurrección, 100 años después de perder contra Ganon. Recupera recuerdos explorando. ✅
+- **Miedo.** Haber fallado hace 100 años y no proteger a Zelda. ⚠️
+- **Cómo se expresa.** Con gestos: asiente, señala, desenvaina. En TotK tiene alguna línea en cartela, sin voz.
+- **Qué transmite.** Calma y seguridad silenciosa. No promete: actúa. ⚠️ lectura propia.
+- **Su cara:** determinación, cejas fruncidas, mirada fija ([3:18](https://www.dailymotion.com/video/x8k22ef?t=198)). Recién despierto, neutro y curioso ([2:15](https://www.dailymotion.com/video/x5ahli0?t=135)). ✅
+
+### Zelda
+
+- **Carácter.** Bondadosa, sabia, se sacrifica por los demás. Como gobernante decide lo más sabio aunque le duela ([wiki](https://zelda.fandom.com/wiki/Princess_Zelda#Personality)). ✅
+- **Arco en BotW.** De niña no logra despertar su poder sagrado aunque reza y entrena. La presión crece tras morir su madre. Se refugia en la ciencia y la tecnología Sheikah ([GameFAQs](https://gamefaqs.gamespot.com/switch/189707-the-legend-of-zelda-breath-of-the-wild/faqs/75427/hobbies-of-the-rich), [Zelda Archive](https://zelda-archive.fandom.com/wiki/Princess_Zelda)). ⚠️
+- **Miedo.** No sellar a Ganon a tiempo. Sentir que no merece ser «la elegida». Lo dice ella: «Ruego que me digas, ¿qué es lo que estoy haciendo mal?» ✅
+- **Cómo se expresa.** De la firmeza cortante al entusiasmo científico y al pánico. Habla rápido cuando está nerviosa o emocionada. ✅
+- **Qué transmite.** Vulnerabilidad detrás del cargo. Es la que más duele de los tres. ✅
+- **Su cara:** tristeza con lágrima de perfil ([2:09](https://www.dailymotion.com/video/x8k22ef?t=129)); alerta ([0:34](https://www.dailymotion.com/video/x7au2j3?t=34) y [2:45](https://www.dailymotion.com/video/xa39e4u?t=165)); miedo junto a la mano momificada ([0:46](https://www.dailymotion.com/video/x7au2j3?t=46)). ✅
+
+### Ganon / Ganondorf
+
+- **Carácter.** Despiadado. Para él conquistar y destruir es lo mismo. A veces va un paso por delante; su arrogancia lo pierde ([wiki](https://zelda.fandom.com/wiki/Ganon#Personality)). ✅
+- **Historia.** Único varón nacido entre las gerudo en siglos. Roba la Trifuerza del Poder y vuelve una y otra vez. ✅
+- **Qué le importa.** El poder, aunque dañe a los suyos. No muestra miedo.
+- **Cómo se expresa.** Frases cortas, con autoridad. En TotK su voz es más ronca. ⚠️ sin muestra de audio.
+- **Qué transmite.** Amenaza fría y paciencia de milenios: da miedo porque siempre vuelve. ✅
+- **Su cara:** bestia con ojo rojo ([0:20](https://www.dailymotion.com/video/x89nrh5?t=20)); capturas de TotK con la cara visible en la hoja `personajes_01.jpg` nº25 (ojo rojo encendido), nº27 y nº28. ⚠️ sin minuto.
+
+### Otros con voz y carácter claro
+
+- **Revali.** Presumido, frases tajantes que rematan con una autoafirmación (punto 8). ✅
+- **Rey Rhoam.** Serio, autoritario ([1:44](https://www.dailymotion.com/video/x6bc0bm?t=104)). Murió culpándose por presionar a Zelda. ⚠️
+- **Urbosa.** Gesto serio, armadura dorada ([3:00](https://www.dailymotion.com/video/xa39e4u?t=180)). ⚠️
+
+### Dinámicas (para láminas en grupo)
+
+- **Link y Zelda:** de igual a igual en BotW y TotK. Ella da órdenes («Lleven a Link al santuario») y él cumple en silencio. ✅
+- **Zelda y su padre:** tensión por la presión de despertar su poder. ⚠️
+- **Ganon y los héroes:** casi nunca hablan. Los persigue, los posee o pelea sin palabras. ⚠️
+
+### Emociones que faltan
+
+⚠️ No hay fotograma con minuto de **alegría**, **rabia abierta** ni **vergüenza** en primer plano.
+Se buscó en el tráiler de *The Champions' Ballad*, 20 minutos de partida doblada y el anuncio de 2019.
+Pista para quien siga: las memorias completas de los Campeones y a Mipha sonrojada.

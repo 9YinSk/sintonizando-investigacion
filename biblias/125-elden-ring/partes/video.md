@@ -35,6 +35,12 @@ Dailymotion (YouTube pide login en este servidor). Hojas de contacto en
   - 1:36-1:52 el Árbol Áureo se dobla y sus ramas se vuelven doradas sobre la ciudad en ruinas · &t=96
   - 2:08-2:16 plano fijo de dos figuras coronadas sentadas en tronos gemelos (sala del trono de Leyndell) · &t=128
   - 2:24 logo «ELDEN RING» y créditos de dirección · &t=144
+- Compilado «ELDEN RING - All Endings (4 Endings) PS5» a 1280×720/60 fps (grabación real del juego subida a Internet Archive por el usuario «bazitube»; marca de agua de Twitter @ChrisZanar en el cierre) · https://archive.org/download/elden-ring-game-movie-720p-60-fps-bazitube/ELDEN%20RING%20-%20All%20Endings%20(4%20Endings)%20PS5%20720p%2060FPS%20bazitube.mp4 · ⚠️ (una sola fuente, grabación de un creador de contenido, no canal oficial; es la de mayor resolución encontrada: 720p, porque Dailymotion sólo sirve 512×288 en estos clips de prensa y YouTube pide iniciar sesión en este servidor) · 11:33, fotogramas sueltos
+  - 0:00-2:00 final «Age of the Duskborn/Death Prince»: figura de pelo dorado fusionada al Círculo, luego sentada en un trono dorado de arquitectura gótica clara · &2:00 (t=120)
+  - 4:00-4:30 final «Age of Stars» (Ranni): el personaje diminuto de pie sobre un fragmento de piedra flotante frente a un planeta azul y un cielo estrellado, silueta de bruja con sombrero puntiagudo · &4:30 (t=270)
+  - 7:00 final gris/ceniza: el mismo trono, misma sala, pero con luz fría y ceniza cayendo (versión distinta del mismo set, tono apagado) · &7:00 (t=420)
+  - 8:00-9:00 final «Lord of Frenzied Flame»: el personaje camina hacia una pared de fuego rojo gigante entre dos manos en llamas · &8:00 (t=480)
+  - 10:30 el personaje envuelto en llamas amarillas, un ojo de fuego brillante sobre el pecho · &10:30 (t=630)
 
 ## 4 · Fondos y sitios (luz y paleta)
 
@@ -46,12 +52,16 @@ de arriba (no de wallpapers; eso es del investigador de imagen). Enlaces con `&t
 | Limgrave (pradera inicial, niebla) | Exploración JeuxVideo.com, 0:00 · https://www.dailymotion.com/video/x89nwm8&t=0 | Gris-verde apagado, cielo nublado, niebla baja | #353426 29% · #484736 27% · #5D5E47 18% · #A9A485 16% (caqui) |
 | Caelid (páramo de la Podredumbre) | «Elden Ring - Radahn», 1:48 · https://www.dailymotion.com/video/x89nzty&t=108 | Cielo rojo intenso, luz cálida y sucia | #9B5034 29% · #7E3E2C 27% · #5C2E23 22% · #B96A41 7% |
 | Academia de Raya Lucaria (interior, Rennala) | «Elden Ring - Rennala», 0:16 · https://www.dailymotion.com/video/x89nyhu&t=16 | Luz de luna azulada, piedra fría | #272F49 26% · #494C5C 26% · #6A6970 24% · #16172B 20% |
-| Leyndell, sala del trono (final) | Final «Seigneur d'Elden», 2:08 · https://www.dailymotion.com/video/x88ktlq&t=128 | Dorado cálido, luz alta lateral | #30241A 25% · #9D744F 23% · #815839 21% · #B88E62 16% |
+| Leyndell, sala del trono (final, versión dorada) | Final «Seigneur d'Elden», 2:08 · https://www.dailymotion.com/video/x88ktlq&t=128 | Dorado cálido, luz alta lateral | #30241A 25% · #9D744F 23% · #815839 21% · #B88E62 16% |
+| Mismo trono, versión gris/ceniza (otro final) | «All Endings» IA, 7:00 (t=420) · https://archive.org/download/elden-ring-game-movie-720p-60-fps-bazitube/ELDEN%20RING%20-%20All%20Endings%20(4%20Endings)%20PS5%20720p%2060FPS%20bazitube.mp4 | Fría, gris, ceniza cayendo, sin dorado | #4F525B 35% · #454448 23% · #60636D 22% · #2F2E31 16% |
+| Cielo de «Age of Stars» (final de Ranni) | «All Endings» IA, 4:30 (t=270) | Nocturno azul profundo, planeta iluminado, casi sin calidez | #0A0B12 43% · #202435 25% · #3F4B66 15% · #B8CBDC 8% |
+| Muro de fuego de «Frenzied Flame» (final) | «All Endings» IA, 10:30 (t=630) | Fuego intenso, amarillo casi blanco en el núcleo | #4B311B 31% · #875526 22% · #F9F37E 17% · #E5C351 14% |
 | Elphael / arena de Malenia (Haligtree) | «Elden Ring - Malenia», 0:00 · https://www.dailymotion.com/video/x89wlj1&t=0 | Niebla dorada-parda, contraluz difuso | #15130E 42% · #2E2618 35% · #4A4339 13% |
 | Castillo en ruinas ardiendo (tráiler) | Story trailer, 1:44 · https://www.dailymotion.com/video/x89nx9b&t=104 | Nocturno, brasas ámbar, casi sin luz de relleno | #18140E 39% · #2E231A 18% · #594636 4% |
 
-- Estilo detectado por `estilo.py` en todos los fotogramas: sombreado degradado/pintado (no cel-shading plano), con línea de contorno débil o ausente: coherente con el render realista de FromSoftware (nada de línea negra dura). ✅ (7 fotogramas medidos, mismo patrón).
+- Estilo detectado por `estilo.py` en todos los fotogramas: sombreado degradado/pintado (no cel-shading plano), con línea de contorno débil o ausente: coherente con el render realista de FromSoftware (nada de línea negra dura). ✅ (11 fotogramas medidos, mismo patrón).
 - Texturas reales equivalentes (para capas de Photoshop): piedra caliza gris-azulada (Raya Lucaria) → buscar «weathered sandstone» en ambientCG; tierra agrietada rojiza (Caelid) → «cracked mud» o «red rock» en ambientCG. ⚠️ (no se llegó a bajar ninguna textura concreta, sólo se identifica el tipo; falta cruzarlo con ambientCG).
+- Resolución: todos los fotogramas de Dailymotion están limitados a 512×288 (comprobado con `yt-dlp -F`, es el único formato que sirven esos clips de prensa) y YouTube pide iniciar sesión en este servidor. El compilado de finales de Internet Archive sí llega a 1280×720/60fps: es la fuente de mayor resolución conseguida para el punto 2/4. ⚠️ (no se alcanzó 1080p pleno, ver «No encontré»).
 
 ## 9 · Música y sonido
 
@@ -123,6 +133,7 @@ para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo
 
 ## No encontré
 
+- Fotogramas a 1080p o más (lo pide el punto 2): los clips de prensa en Dailymotion sólo sirven 512×288 (comprobado con `yt-dlp -F` en el clip de Malenia) y YouTube pide iniciar sesión en este servidor. La mejor resolución lograda fue 1280×720/60fps con el compilado de finales de Internet Archive. ⚠️ Si se necesita 1080p real, pendiente probar `YT_COOKIES` (cuenta secundaria) para bajar de YouTube directamente.
 - Cinemático de introducción («Opening», pista 2 del OST) como clip suelto e independiente en Dailymotion: probé «Elden Ring opening cinematic» (en) y «Elden Ring cinématique d'ouverture» (fr) en la API de Dailymotion, sólo salieron vídeos de otros juegos. Sustituido por el tráiler de lanzamiento «Rise, Tarnished» (que sí es el cinemático que Bandai Namco usó como apertura de campaña) y por el story trailer.
 - Tendencias de TikTok: probado `herramientas/navegar.py` sobre `tiktok.com/tag/eldenring` y `tiktok.com/search?q=elden+ring` (2 intentos): las dos veces devolvió página vacía (0 caracteres), TikTok bloquea el contenido sin sesión aunque cargue el HTML base. No se insistió más (regla de 2 intentos). ⚠️
 - Vídeos de análisis largos (tipo video-ensayo) con minuto exacto de una escena que hace llorar: no es punto de vídeo (es del investigador de voz/personajes, punto 21); no se buscó a fondo aquí.
@@ -130,8 +141,10 @@ para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo
 
 ## Bitácora
 
-- `herramientas/fotogramas.py` sobre 6 clips de Dailymotion (tráiler narrativo, tráiler de lanzamiento indirectamente citado, Malenia, Radahn, Rennala, final del juego, exploración de Limgrave): 7 hojas de contacto miradas con Read.
-- `herramientas/estilo.py --colores 5` sobre 8 fotogramas sueltos (Limgrave, Caelid, Raya Lucaria, Leyndell, Elphael, ruinas, Erdtree) para el punto 4.
+- `herramientas/fotogramas.py` sobre 8 clips (7 de Dailymotion: tráiler narrativo, Malenia, Radahn, Rennala, final del juego en francés, exploración de Limgrave, «The Melina Accord»; 1 de Internet Archive: compilado de los 4 finales a 720p): 8 hojas de contacto miradas con Read.
+- `herramientas/estilo.py --colores 5` sobre 12 fotogramas sueltos (Limgrave, Caelid, Raya Lucaria, Leyndell dorado, Leyndell ceniza, cielo de Ranni, muro de fuego, Elphael, ruinas, Erdtree) para el punto 4.
+- `herramientas/navegar.py` sobre `tiktok.com/tag/eldenring` y `tiktok.com/search?q=elden+ring`: página vacía las dos veces (bloqueo sin sesión).
+- `yt-dlp -F` sobre un clip de Dailymotion para comprobar la resolución máxima real (512×288).
 - API de Dailymotion (`api.dailymotion.com/videos?search=…`): «Elden Ring Melina» (fr/en), «Elden Ring opening cinematic» (en), «Elden Ring cinématique d'ouverture» (fr), «Elden Ring Tarnished grace cinematic» (en) — 4 búsquedas.
 - Archive.org: metadata de la banda sonora oficial (tracklist completo, 2 discos) y de «PS5 Longplay Elden Ring» (comprobado pero descartado por peso).
 - MusicBrainz: confirmación de los 3 álbumes oficiales de banda sonora (base + Shadow of the Erdtree + Nightreign).

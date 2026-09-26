@@ -151,7 +151,7 @@ Carácter, historia, miedos, cómo se expresa y lenguaje corporal, con fuente. L
 
 ### Cara en cada emoción (con fotograma y minuto)
 
-Sacados con `fotogramas.py` de tráileres oficiales localizados con subtítulos o texto en español (Dailymotion, ver bitácora): la 2ª temporada de Hotel Hazbin (FilmAffinity), el 1er tráiler de Hotel Hazbin subtitulado (Tomatazos) y el de la 3ª temporada de Helluva Boss (todos con "&t="). Angel Dust y varios secundarios no aparecen con claridad en estos clips: falta cubrirlos con más vídeo (ver «No encontré»).
+Sacados con `fotogramas.py` de tráileres oficiales localizados con subtítulos o texto en español (Dailymotion, ver bitácora): la 2ª temporada de Hotel Hazbin (FilmAffinity), el 1er tráiler de Hotel Hazbin subtitulado (Tomatazos), el episodio completo «Murder Family» de Helluva Boss (doblado) y el de la 3ª temporada de Helluva Boss (todos con "&t="). Angel Dust se localizó en el tráiler S2 junto a Cherri Bomb y Arackniss (su hermano); la emoción «miedo» se sacó de Moxxie en un primer plano de «Murder Family», más claro que cualquier toma de los tráileres cortos.
 
 | Personaje | Emoción | Episodio/clip | Minuto | Fotograma (enlace) |
 |---|---|---|---|---|
@@ -159,11 +159,13 @@ Sacados con `fotogramas.py` de tráileres oficiales localizados con subtítulos 
 | Charlie | Tristeza/ansiedad (cejas caídas, boca apretada, sonrojo) | Tráiler oficial S1, Prime Video (subtitulado es) | 1:12 | https://www.dailymotion.com/video/x8x43rc?t=72 |
 | Charlie | Vergüenza/nervios (ojos muy abiertos, boca ondulada, sonrojo fuerte) | Tráiler oficial S1, Prime Video (subtitulado es) | 0:54 | https://www.dailymotion.com/video/x8x43rc?t=54 |
 | Alastor | Rabia/amenaza (forma sombra, dientes triangulares, estática verde) — con la frase «Es hora de recordarles a todos por qué estoy aquí» | Tráiler oficial S1, Prime Video (subtitulado es) | 1:43 | https://www.dailymotion.com/video/x8x43rc?t=103 |
+| Angel Dust | Burla/confianza (sonrisa amplia de dientes afilados, ojos entrecerrados, apoyado con sus 2 brazos extra visibles detrás) junto a Cherri Bomb y su hermano Arackniss | Tráiler oficial S2, Prime Video (doblado) | 0:53 | https://www.dailymotion.com/video/x9rrk90?t=53 |
 | Vaggie | Fastidio/seriedad (un ojo entrecerrado, ceja alzada) | Tráiler oficial S2, Prime Video (doblado) | 2:24 | https://www.dailymotion.com/video/x9rrk90?t=144 |
 | Vaggie | Determinación de combate (forma ángel, ojos en X, espadas de luz) | Tráiler oficial S2, Prime Video (doblado) | 0:09 | https://www.dailymotion.com/video/x9rrk90?t=9 |
 | Loona | Fastidio/aburrimiento (comiendo botana, mirada de lado) | Tráiler oficial T3, Helluva Boss, Prime Video (doblado) | 0:30 | https://www.dailymotion.com/video/xb8zcka?t=30 |
+| Moxxie | Miedo (cejas alzadas y hacia arriba, ojos muy abiertos, dientes apretados, gotas de sudor en las mejillas) huyendo de la familia asesina | «Murder Family», Helluva Boss T1E2, doblado es-LATAM | 5:16 | https://www.dailymotion.com/video/x8j7dde?t=316 |
 
-Nota: el fotograma de 0:30 de Loona muestra la bolsa de botana "Chaos" en su mano — encaja con el gusto de la wiki (ver punto 20: fumar, beber, botanas).
+Nota: el fotograma de 0:30 de Loona muestra la bolsa de botana "Chaos" en su mano — encaja con el gusto de la wiki (ver punto 20: fumar, beber, botanas). El de Angel Dust confirma que su hermano Arackniss (con caparazón segmentado gris a rayas y sombrero) y Cherri Bomb (pelo rosa, ojo en X) comparten plano con él, útil para láminas de grupo del punto 14.
 
 ## 20 · Gustos y detalles de cada personaje
 
@@ -250,5 +252,5 @@ Doblajes de fans, covers y parodias en español encontrados en Dailymotion (mism
 - Arctic Shift (Reddit) para r/Hazbinhotel: dio timeout, no se insistió más de dos veces (regla de AYUDANTE.md).
 - `herramientas/navegar.py` sobre thetoptens.com: falló (no hay navegador Chromium instalado en este contenedor) — se documenta como límite del entorno, no se insistió.
 - No hay `biblias/55-hazbin-hotel/partes/voz.md` ni carpeta `biblias/55-hazbin-hotel/` todavía: nada que evitar repetir de la serie hermana.
-
-Sigue: completar la tabla de «cara en cada emoción» del punto 13 — faltan Angel Dust (no aparece con claridad en los tráileres oficiales de Dailymotion localizados) y la emoción «miedo» en cualquier personaje; buscar más clips oficiales doblados (otro tráiler, un featurette, o volver a intentar YouTube cuando el bloqueo de este servidor pase) y repetir `fotogramas.py`.
+- Relanzo (26-sep): `fotogramas.py --fotograma` sobre el tráiler S1 x8qjgw6 a 1:59 (escena de grupo de 7 personajes en el lobby: Alastor, Vaggie, Charlie, Niffty, Sir Pentious, Zestial y Husk — sin Angel Dust, se descartó para ese personaje) y sobre el tráiler S2 x9rrk90 en varios segundos entre 0:45-1:00, donde sí apareció Angel Dust con Cherri Bomb y Arackniss · para completar la fila que faltaba del punto 13.
+- Relanzo (26-sep): `fotogramas.py --cada 4` sobre el episodio completo doblado «Murder Family» de Helluva Boss (x8j7dde, 12:20 min) para buscar un fotograma de miedo: se encontró un primer plano claro de Moxxie a los 5:16 · para la fila «miedo» del punto 13. No se usó el piloto x8j7da8 (no hizo falta, ya salió en el primer intento).

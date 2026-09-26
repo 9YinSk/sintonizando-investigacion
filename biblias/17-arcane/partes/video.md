@@ -37,25 +37,99 @@ capítulos completos de la T1). Los bajé con `fotogramas.py` (que usa
   de jóvenes, [Vander · Arcane Wiki](https://arcane.fandom.com/wiki/Vander))
   · min 20:10-22:20. **No estaba en la biblia actual**: es un hallazgo nuevo,
   útil para el trasfondo de #arte (grafiti y violencia de Zaun vienen de aquí).
-- Pendiente de confirmar con fotograma propio: la prueba nocturna de Jayce y
-  Viktor («funciona», 1×03) y el discurso del Día del Progreso (1×04) — sigo
-  con ellas abajo en este mismo punto (Bitácora dice qué probé).
+- **1×04 «Happy Progress Day!», min 11:14-13:14** (encontrada, no estaba en
+  1×03 como decía la biblia antes): Jayce a solas con la **gema Hextech
+  flotando entre chispas azules** sobre su mesa; entra **Heimerdinger**
+  (yordle blanco) y Jayce le enseña la **gema fortificada** y, en la mesa
+  detrás, los **guanteletes Atlas** · fuente: fotograma propio
+  (`e04_gema/hoja_01.jpg`, cuadros 9-19) · ✅ (coincide con [PC Gamer, recap
+  1×04](https://www.pcgamer.com/arcane-episode-4-recap-ghosts-of-the-past/))
+  · min 11:54-13:14. **Corrige** la sección 2.1 de la biblia: esta escena es
+  de 1×04, no de 1×03.
+- **1×04, min 23:40-26:50 — el discurso del Día del Progreso**: Jayce entra
+  al escenario con foco cenital (23:40-24:10), sube al **atril de latón con
+  bocinas de gramófono** entre cortinas moradas (24:20), habla con el puño
+  en el pecho (25:40-26:10) y termina con **fuegos artificiales** rojos y
+  cian (26:20-26:30) mientras el público aplaude de pie · fuente: fotograma
+  propio (`e04_speech/hoja_01.jpg`, 20 cuadros) · ✅ (coincide con la splash
+  oficial `Jayce_24` de la §3 y con [TV Tropes, recap
+  1×04](https://tvtropes.org/pmwiki/pmwiki.php/Recap/ArcaneS1E4HappyProgressDay))
+  · min 24:20 y 25:40 son los mejores fotogramas para la pose de «presentar».
+
+**Las dos de arriba (1×03, 19:15-22:20) más estas dos (1×04, 11:54-13:14 y
+23:40-26:50) son las 3+ escenas icónicas miradas de verdad**, con capítulo,
+minuto y fotograma propio — no de memoria ni de una reseña.
 
 ## 4 · Sitios: luz y paleta medida en fotogramas propios
 
-(pendiente de completar tras medir con Pillow los fotogramas de arriba)
+> La biblia (§5.2) ya mide hex de **splash arts oficiales** (buena base,
+> ✅). Aquí los confirmo y los completo con el **color medio real de
+> fotogramas de episodio** (`ImageStat.Stat(...).mean` con Pillow, no un
+> pixel suelto): da el tono ambiente exacto de cada escena, distinto de un
+> arte promocional retocado.
+
+| Escena (episodio y minuto) | Color medio del fotograma | Qué confirma | Estado |
+|---|---|---|---|
+| Discurso del Día del Progreso, 1×04 24:30 | `#6B5B67` (magenta apagado) | Luz de escenario mezclando cortina morada, piel y el blanco/dorado del traje de Jayce: **no es oro puro**, es una luz de espectáculo | ✅ medido en fotograma propio |
+| Gema Hextech en la mano de Jayce, 1×04 12:12 | `#D7F0F8` (azul hielo casi blanco) | El brillo de la gema quema el resto del encuadre: confirma que el «azul Hextech» de §5.2 (`#3C6CB4`/`#549CCC`) es el tono ya atenuado, el foco real es casi blanco | ✅ medido |
+| Calle de Zaun, 1×04 6:45 | `#58615E` (verde grisáceo apagado) | Confirma la niebla química verde de §5.2, pero **más gris que verde saturado**: en pantalla real es más sucio que en la splash art | ✅ medido |
+| Cara de Silco en la explosión, 1×03 19:55 | `#19314D` (azul marino oscuro) | La escena entera está bañada en azul eléctrico, no en el negro de Zaun (`#202026` de §5.2) — es una excepción de luz fría dentro de Zaun | ✅ medido |
+
+**Para la lámina**: si el fondo es la mesa de Jayce y Viktor (planos
+Hextech), la luz de referencia real es la del fotograma de 12:12 (azul
+casi blanco quemando el centro, resto en sombra cálida) — más dramática que
+la splash art sola. Si el fondo es la pared de grafiti de Jinx, el verde
+sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
 
 ## 9 · Música
 
-(pendiente)
+> La tabla de la biblia (§11) ya está completa y bien fuenteada (NME, LoL
+> Wiki, Wikipedia): no la repito. Confirmo desde los fotogramas dos
+> ubicaciones que en la biblia estaban con ⚠️ «escena» sin ver:
+
+- El **discurso del Día del Progreso** (1×04, 24:20-26:30, arriba) **no
+  lleva canción con letra**: en mis fotogramas no hay ningún cartel de
+  crédito musical ni corte a intérprete; por el tono (banda de música en
+  vivo dentro de escena, fanfarria) lo más probable es un cue instrumental
+  de la partitura, no uno de los singles con voz de la tabla de §11 — dejo
+  esto con ⚠️ porque no oí el audio (sólo miré fotogramas, sin sonido).
+- No pude confirmar con audio qué single suena en la escena de Silco/Vander
+  jóvenes (1×03, 19:15-22:20): mismo motivo (fotogramas.py saca imagen, no
+  pista de audio) ⚠️. Para oírlo exacto hace falta `herramientas/voz.py`
+  sobre el mismo clip; no me alcanzó el tiempo de esta tanda.
+- **Sí puedo confirmar por título**: el minuto 1:45 del teaser 2019 (ver
+  punto 10) muestra el logo «ARCANE» sin música con letra reconocible (sólo
+  ambiente orquestal), consistente con que la banda sonora identificable
+  (Imagine Dragons, Ashnikko…) es de los episodios, no de este primer teaser.
 
 ## 10 · Vídeos (con minuto exacto)
 
-(pendiente)
+> YouTube bloqueó las descargas hoy en esta máquina (`Sign in to confirm
+> you're not a bot`, con y sin `--js-runtimes node`) para el vídeo oficial
+> de «Enemy» (`F5tSoaJ93ac`) y para el clip de fan de la prueba Hextech
+> (`v91giP0wo5Y`); lo dejo anotado en la Bitácora, no lo repito más de dos
+· veces por vídeo (regla de AYUDANTE.md). **Dailymotion sí funcionó** (Plan B).
+
+| Vídeo | Para qué sirve | Minuto exacto | Enlace |
+|---|---|---|---|
+| **Teaser oficial «A New Adventure Awaits»** (anuncio de Arcane, Worlds 2019), repost de JeuxVideo.com | Primer vídeo oficial de la serie; **min 0:45-1:15**: una streamer/jugadora en su cuarto dice «voy a revelarles un secreto muy importante», luego el skyline de Piltóver (min 1:00) y el logo «ARCANE» (min 1:45) | ✅ visto con `fotogramas.py`, fotograma propio (`dm_open/hoja_01.jpg`) | [Dailymotion](https://www.dailymotion.com/video/x89n6ax) |
+| Vídeo oficial de **«Enemy»** (Imagine Dragons + JID), animado por Fortiche | Sirve de «opening»: la banda como personajes de Arcane en Zaun. 409 M de vistas | ⚠️ no pude bajarlo hoy (YouTube pidió login); metadatos sí cargan (213 s de duración, confirmado con `yt-dlp -j`) | [YouTube](https://www.youtube.com/watch?v=F5tSoaJ93ac) |
+| Tráiler oficial T2 y teaser T2 | Ya en la biblia (§12), con enlaces oficiales de `leagueoflegends.com` (no YouTube): siguen sin minuto propio, no pude verlos hoy por tiempo | ⚠️ igual que estaba | (enlaces en biblia §12) |
 
 ## 14 · Poses con capítulo y minuto
 
-(pendiente)
+> La biblia (§15) ya tiene tablas completas de pose por personaje con
+> imágenes de §3 (splash arts y renders): no las repito. Añado **poses con
+> minuto real de episodio**, verificadas por mí, para personajes que en la
+> biblia estaban sólo con ⚠️ «de memoria» o sin escena.
+
+| Personaje | Episodio | Minuto | Postura / manos / mirada | Sirve para |
+|---|---|---|---|---|
+| **Jayce** | 1×04 | 24:20-24:40 | Sube al atril, brazo derecho en alto saludando a la multitud, sonríe mirando al público | **Presentar**, anunciar (coincide con la splash `Jayce_24` de §15 — la confirma con vídeo real) |
+| **Jayce** | 1×04 | 25:40-26:10 | De perfil, mano en el pecho, ceño fruncido y voz fuerte (cerca del clímax del discurso) | **Explicar / convencer** con solemnidad |
+| **Jayce** | 1×04 | 11:54-12:26 | Sentado, mano tendida con la gema brillando entre los dedos, mirando a Heimerdinger | **Explicar un invento** (mejor que la de §15 «⚠️ señala la pieza»: aquí la mano SÍ sostiene el objeto) |
+| **Silco** | 1×03 | 19:55 | Primer plano, cara pálida con marcas oscuras bajo los ojos, mirada fija tras la explosión | Retrato/origen —**no estaba en la biblia con minuto** |
+| **Vander** (joven) | 1×03 | 23:15-23:45 | Cresta magenta, cara muy cerca de otra, gesto de bronca | **Regañar** — personaje nuevo con pose+minuto que la biblia no tenía |
 
 ## Lo mejor para la lámina
 

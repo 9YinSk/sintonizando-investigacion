@@ -87,7 +87,166 @@ de cada página de la wiki (`datos-imagen.md`) ✅.
 
 ---
 
-## 3 · Fan art y renders 3D (sólo como referencia, nunca para pegar)
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+Los sitios de la serie y su luz están en el punto 4 (lo investiga vídeo);
+aquí van sólo los **fondos de pantalla** en alta, oficiales y de fans.
+
+### Oficiales (Zerochan, créditos «by MADHOUSE», tamaño comprobado con curl)
+
+| Qué | Tamaño real | Enlace |
+|---|---|---|
+| Key visual (grupo) | 1920×1080 | [zerochan.net/4253569](https://www.zerochan.net/4253569) |
+| Key visual (grupo) | 1920×1080 | [zerochan.net/4377401](https://www.zerochan.net/4377401) |
+| Key visual (grupo) | 1920×1080 | [zerochan.net/4382652](https://www.zerochan.net/4382652) |
+| Near, key visual | 1920×1080 | [zerochan.net/4377547](https://www.zerochan.net/4377547) |
+
+✅ los 4: tamaño leído del `<meta property="og:image">` de la propia página,
+25-sep-2026 (Zerochan aloja escaneos oficiales de Madhouse, no fan art, lo
+dice el crédito «by MADHOUSE» junto a cada imagen).
+
+### De fans, sólo aptos (Wallhaven, con ♥ real de la API — `datos-imagen.md`)
+
+| Tamaño | ♥ | Qué sale | Enlace | Autor/origen |
+|---|---|---|---|---|
+| 4096×2304 | 136 | Misa Amane, cross | [wallhaven-6d5mll](https://w.wallhaven.cc/full/6d/wallhaven-6d5mll.jpg) | [jeonmin8974](https://twitter.com/jeonmin8974/status/1646235438745788416) |
+| 2896×4494 | 124 | Misa Amane, Tokkyu (artista) | [wallhaven-g79mkd](https://w.wallhaven.cc/full/g7/wallhaven-g79mkd.jpg) | sin origen listado |
+| 1920×2776 | 106 | Misa y Rem, retrato | [wallhaven-ogdg9p](https://w.wallhaven.cc/full/og/wallhaven-ogdg9p.jpg) | [En_D_D](https://x.com/En_D_D/status/1926586543260500217) |
+| 2076×4096 | 94 | Misa y Rem, ilustración | [wallhaven-xe8pwd](https://w.wallhaven.cc/full/xe/wallhaven-xe8pwd.png) | [ZabiMasurao](https://x.com/ZabiMasurao/status/1956294807568921021) |
+| 1920×1080 | 77 | Light, Ryuk, manzanas | [wallhaven-0wgqyx](https://w.wallhaven.cc/full/0w/wallhaven-0wgqyx.jpg) | sin origen listado |
+| 2560×1440 | 166 | Ryuk, en un tren (crossover Chainsaw Man) | [wallhaven-p9qvge](https://w.wallhaven.cc/full/p9/wallhaven-p9qvge.png) | [gorzius](https://www.pixiv.net/en/users/20708445) |
+
+⚠️ **«4kwallpapers.com/…ryuk-death-note-ai-14431.html»** (de la biblia
+vieja): la propia página dice que está **hecha con Midjourney**. **No
+usarla ni de referencia**: no es arte de la serie.
+Wallpaper Abyss (`wall.alphacoders.com`) también tiene 480+ pero no dejó
+leer el tamaño exacto por API sin cuenta ⚠️: usa Wallhaven o Zerochan, que sí
+lo dan.
+
+### Sitios y su luz (resumen; el detalle es de §4 de vídeo)
+
+Noche azul con lámpara cálida (cuarto de Light) · gris sin sol (mundo
+shinigami) · lluvia gris azul (azotea) · tiras de sol entre polvo (almacén
+final) — confirmado también en las hojas de contacto (nº245 en
+`colaboraciones_02.jpg` es una página de manga con el eyecatch nocturno).
+
+---
+
+## 19 · Texturas 2D (tramas, papel, pinceladas, patrones, con licencia)
+
+### Tramas de manga (screentone) y pinceles de entintado, libres
+
+| Recurso | Qué trae | Licencia | Enlace |
+|---|---|---|---|
+| [FREE] Manga Screentone Pack 1 | Set de tramas de puntos y líneas para Clip Studio Paint | Gratis en Clip Studio Assets (cuenta CSP, uso libre) ✅ | [assets.clip-studio.com/…2142037](https://assets.clip-studio.com/en-us/detail?id=2142037) |
+| Essential Screentone Brushes | Tramas combinables para crear patrones nuevos, CSP | Gratis, Clip Studio Assets ✅ | [assets.clip-studio.com/…2087033](https://assets.clip-studio.com/en-us/detail?id=2087033) |
+| Free Screen Tone Collection 1 | Tramas en PNG de 4500×4500 px (a 300 dpi cubren A4/B4/Carta), sirven en Krita, Procreate o Photoshop | Gratis, sitio de la autora (Manga with Stef) ⚠️ (leer su nota de uso antes de redistribuir) | [manga-with-stef.com](https://manga-with-stef.com/free-screen-tone-collection-1) |
+| 65+ Halftone Brushes | Pinceles de medio tono para Photoshop y otros | Gratis, uso personal y comercial con atribución ✅ | [photoshopsupply.com](https://www.photoshopsupply.com/patterns-textures/halftone-texture) |
+| 1000+ Manga Screentone Compilation | Compilación enorme de tramas (puntos, líneas, degradados) | DeviantArt, licencia del autor: revisar antes de usar comercialmente ⚠️ | [deviantart.com/theawesomeaki-kun](https://www.deviantart.com/theawesomeaki-kun/art/1000-Manga-Screentone-Compilation-681249872) |
+
+✅/⚠️ confirmados abriendo cada página (25-sep-2026, red abierta). Con esto
+se puede recrear el sombreado plano con trama del manga de Death Note
+(Obata usa poca trama y mucho negro sólido; las tramas sirven sobre todo
+para los fondos grises del mundo shinigami).
+
+### Texturas reales equivalentes (CC0, ambientCG y Poly Haven)
+
+CC0 (dominio público) confirmado en dos fuentes:
+[docs.ambientcg.com/license](https://docs.ambientcg.com/license/) y la guía
+independiente [LicenseOrg](https://www.licenseorg.com/guide/3d-assets/ambientcg) ✅.
+
+| Para | Textura | Enlace |
+|---|---|---|
+| Tapa del cuaderno (cuero negro) | Leather026, Leather008 | [Leather026](https://ambientcg.com/view?id=Leather026), [Leather008](https://ambientcg.com/view?id=Leather008) |
+| Cuero de Mello y Misa | Poly Haven leather (CC0 igual que ambientCG) | [polyhaven.com/textures/leather](https://polyhaven.com/textures/leather) |
+| Hojas del cuaderno | Paper001, Paper003, Paper005 | [Paper001](https://ambientcg.com/view?id=Paper001) |
+| Escritorio de Light | Wood039, Wood095 | [Wood039](https://ambientcg.com/view?id=Wood039) |
+
+### Patrones y emblemas (para ropa y objetos)
+
+- **Encaje de Misa**: no hay pack CC0 específico de encaje gótico; el
+  patrón se puede montar con un pincel de lazo/randa de los packs de arriba
+  o dibujarlo a mano (es simple: rombos con festón). No encontré una textura
+  libre lista ⚠️ (busqué «gothic lace pattern CC0» y «lace brush free
+  license»: sólo salieron packs de pago de Creative Market).
+- **Cruces y calaveras** (motivo de Misa): sin pack de pinceles libre
+  encontrado; se recomienda vectorizar a mano desde la referencia de §15
+  (la pieza «Saint Valentine's Day» ya trae 4 diseños de calavera distintos
+  para copiar la silueta, no el archivo).
+- El **logo y la tipografía** «DEATH NOTE» son del investigador de texto
+  (punto 5); aquí sólo dejo que **hojas/arte_oficial_01.jpg nº7** tiene el
+  logo grande y limpio para sacar la silueta si hace falta.
+
+---
+
+## 23 · Colaboraciones y cruces
+
+- **Jump Force** (Bandai Namco/Spike Chunsoft, PS4/Xbox One, 14-feb-2019):
+  crossover oficial de Shūeisha por el 50º aniversario de Jump. Light Yagami
+  y Ryuk son personajes jugables ✅ ([GameSpot](https://www.gamespot.com/articles/e3-2018-naruto-dragon-ball-one-piece-and-death-not/1100-6459612/),
+  [Gematsu](https://www.gematsu.com/2018/06/jump-force-death-note-teaser-trailer)).
+  Arte oficial del anuncio en **hojas/colaboraciones_02.jpg nº259-260**.
+- **Universal Studios Japan** — evento «Universal Jump Summer»: Death Note
+  fue parte del crossover veraniego de USJ con Shūeisha Jump (cartel oficial
+  en **hojas/colaboraciones_02.jpg nº244**, `Universal_Jump_Summer.jpg` de
+  la propia wiki) ✅ (imagen oficial alojada en `deathnote.fandom.com`; no
+  encontré la nota de prensa de USJ en español o inglés que dé la fecha
+  exacta ⚠️).
+- **Othellonia × Death Note** (DeNA/MegaHouse, juego móvil de Othello):
+  colaboración con wallpapers y cartas de personaje propios; el crédito
+  «©大場つぐみ・小畑健／集英社・VAP・マッドハウス・NTV・D.N.・ドリームパートナーズ
+  ／©Othello,Co. and MegaHouse／©DeNA Co.,Ltd.» aparece **en la propia
+  imagen** ✅ (wallpapers en **hojas/arte_oficial_01.jpg nº37-42**, uno por
+  personaje, 2208×2208; usados también para medir el hex de Mello en §15).
+- **LINE Bubble 2** (LINE Corp, juego móvil): colaboración «デスノートコラボ»
+  con stickers y power-ups de Ryuk y L, anuncios oficiales del juego ✅
+  (**hojas/colaboraciones_03.jpg nº531, 538-539**, capturas «LINE Bubble 2
+  Ryuzaki and Ryuk.jpg» y «LINE Bubble 2 ad 3/4.jpg» alojadas en la propia
+  wiki). No encontré fecha exacta del evento ⚠️.
+- **Uniqlo UT × Shonen Jump 50º aniversario**: camisetas de edición limitada
+  de varias series de Jump, incluida Death Note, sólo en Japón ✅ (dos
+  fuentes: [Aitai Kuji](https://www.aitaikuji.com/shonen-jump-50th-anniversary-x-uniqlo-t-shirts-bleach-death-note-and-jump),
+  reventa confirmada en [eBay](https://www.ebay.com/itm/193286960166)).
+- **XLARGE × Death Note** (streetwear, Japón): colección lanzada
+  1-ene-2022 con camiseta, sudaderas y una **chamarra universitaria con
+  mangas de cuero centrada en Ryuk**; Light, L y Misa también en la línea;
+  ¥6.050-¥28.600 ✅ (dos fuentes:
+  [Hypebeast](https://hypebeast.com/2021/12/death-note-xlarge-collection-release-info),
+  [Highsnobiety](https://www.highsnobiety.com/p/death-note-xlarge-collab-collection-clothing/)).
+  **Pose y ropa nuevas** para Ryuk: la chamarra varsity es un diseño que no
+  sale en el anime, sirve como referencia de «Ryuk vestido de calle».
+- **Team Liquid × Death Note** (esports, 29-mar-2024): línea de ropa que
+  mezcla la estética del equipo con Death Note ✅ ([Team Liquid Store](https://store.teamliquid.com/blogs/news/team-liquid-x-death-note-apparel-collection-drops)),
+  segunda fuente no encontrada con el mismo detalle ⚠️.
+- **Cafés temáticos**: colaboración con **Toonique Cafe** en Hongdae (Seúl,
+  Corea del Sur), menú y merchandising temáticos ⚠️ (una fuente,
+  [KCulture](https://kculture.com/k-event/toonique-x-death-note-collaboration-cafe/);
+  no da fecha exacta).
+- **Death Note the Escape**: sala de escape real con el cuaderno como
+  objeto central, cartel oficial en **hojas/colaboraciones_03.jpg nº536**
+  ⚠️ (una fuente, la imagen de la wiki; no encontré el sitio de reservas
+  vigente en 2026).
+- **Pachislot/pachinko** (Sammy, 2008-2010): máquinas oficiales con arte
+  propio de Light, L y Ryuk; el merchandising promocional de esa época
+  (folletos, tomos de edición limitada) se revende hoy como coleccionable,
+  de ¥3.000 a más de ¥80.000 ✅ ([OneMall, guía de coleccionista 2026](https://blog.onemall.jp/2026/04/16/death-note-merchandise-from-japan-2026-collector-buying-guide/)).
+- **Figuras oficiales** (referencia 3D real, pose y volumen ya resueltos):
+  **Good Smile Company** — Nendoroid y Nendoroid Petite de Light, L, Misa y
+  Ryuk; **MegaHouse** y otras marcas japonesas — figuras a escala; Bandai —
+  Candy Toys ✅ (dos fuentes: [OneMall](https://blog.onemall.jp/2026/04/16/death-note-merchandise-from-japan-2026-collector-buying-guide/),
+  lista de la propia wiki [List of Death Note figurines](https://deathnote.fandom.com/wiki/List_of_Death_Note_figurines)
+  — la wiki no da URLs de imagen directas, hay que verlas página por
+  página con `investigar_serie.py` si se necesita una en concreto).
+- **Cosplay** (para materiales y volumen reales, no para pegar): la
+  gargantilla de cuero y las medias de encaje de Misa, y la camiseta/vaquero
+  descalzo de L, son los disfraces más replicados; las guías con foto real
+  están en §15 (Carbon Costume, Anime Fire). No until encontré un cosplay
+  concreto premiado (tipo Crunchyroll Expo) con foto en alta y crédito
+  claro ⚠️ (busqué «Death Note cosplay contest winner 2025/2026»: sólo
+  salieron compilaciones sin autor).
+
+---
+ Fan art y renders 3D (sólo como referencia, nunca para pegar)
 
 ### Modelos 3D con licencia libre (Sketchfab, licencia confirmada por su API v3)
 

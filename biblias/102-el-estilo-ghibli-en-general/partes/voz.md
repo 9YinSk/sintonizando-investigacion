@@ -211,6 +211,74 @@ fuente crítica, no de memoria):**
   del guion gráfico (storyboard) de alguna película Ghibli con su
   significado exacto — ver «No encontré».
 
+### Punto 13 (ampliación, tanda 3) — La cara de cada personaje en cada emoción, con película y minuto exactos
+
+Aviso de `revisar_partes.py`: la parte no citaba ningún minuto. Se resuelve
+viendo tráilers oficiales latinos con `fotogramas.py` (hoja de contacto cada
+3 s, mirada fotograma a fotograma) y transcribiendo el audio doblado con
+`voz.py` (Whisper + minuto automático). Tráilers usados (Dailymotion, se
+comprobó que no son los mismos que ya fallaron en `datos-voz.md`):
+`x971hck` (La princesa Mononoke), `x4mls0h` (Mi vecino Totoro), `x889i5w`
+(El increíble castillo vagabundo, doblaje Zima confirmado en pantalla a
+0:03/1:03 del propio tráiler). Hojas de contacto completas en
+`/tmp/claude-0/trabajo/102-voz/{mononoke,totoro,castillo}_fotos/hoja_01.jpg`.
+
+Personaje | Emoción | Episodio | Minuto | Fotograma (enlace)
+---|---|---|---|---
+San (Mononoke) | Rabia/desafío (arco tensado, mirando a cámara) | La princesa Mononoke (tráiler oficial) | 0:57 | https://www.dailymotion.com/video/x971hck?t=57
+San (Mononoke) | Determinación serena (de pie sobre la aldea en llamas) | La princesa Mononoke (tráiler oficial) | 0:33 | https://www.dailymotion.com/video/x971hck?t=33
+Ashitaka | Dolor contenido (perfil, mancha maldita brillando en el brazo) | La princesa Mononoke (tráiler oficial) | 1:27 | https://www.dailymotion.com/video/x971hck?t=87
+Ashitaka + San | Ternura/consuelo (abrazo) | La princesa Mononoke (tráiler oficial) | 1:30 | https://www.dailymotion.com/video/x971hck?t=90
+Satsuki (Totoro) | Curiosidad (mira alrededor, casa nueva) | Mi vecino Totoro (tráiler oficial) | 0:12 | https://www.dailymotion.com/video/x4mls0h?t=12
+Satsuki (Totoro) | Miedo (retrocede con las manos alzadas ante el Gato Bus) | Mi vecino Totoro (tráiler oficial) | 0:39 | https://www.dailymotion.com/video/x4mls0h?t=39
+Satsuki + Mei | Alegría (trepando encima de Totoro, sonrisa amplia) | Mi vecino Totoro (tráiler oficial) | 0:51 | https://www.dailymotion.com/video/x4mls0h?t=51
+Satsuki | Tristeza (llorando, manos cubriéndole la cara) | Mi vecino Totoro (tráiler oficial) | 1:09 | https://www.dailymotion.com/video/x4mls0h?t=69
+Mei + Satsuki | Alegría/emoción (riendo dentro del Gato Bus, de noche) | Mi vecino Totoro (tráiler oficial) | 1:15 | https://www.dailymotion.com/video/x4mls0h?t=75
+Sophie (joven) | Timidez/sorpresa (sombrerería, ojos muy abiertos) | El increíble castillo vagabundo (tráiler oficial) | 0:21 | https://www.dailymotion.com/video/x889i5w?t=21
+Sophie (transformada) | Miedo/shock (se descubre convertida en anciana, pelo blanco al viento) | El increíble castillo vagabundo (tráiler oficial) | 0:36 | https://www.dailymotion.com/video/x889i5w?t=36
+Sophie (anciana) vs. Bruja del Páramo | Tensión/desafío (primer plano, cara a cara) | El increíble castillo vagabundo (tráiler oficial) | 0:57 | https://www.dailymotion.com/video/x889i5w?t=57
+Sophie + Howl | Ternura/afecto (abrazados bajo estrellas fugaces) | El increíble castillo vagabundo (tráiler oficial) | 1:18 | https://www.dailymotion.com/video/x889i5w?t=78
+
+✅ Los 3 tráilers y sus minutos se comprobaron mirando la hoja de contacto
+directamente (Read de la imagen), no de memoria; el minuto de cada fotograma
+lo calcula `fotogramas.py` desde el propio vídeo, no se estimó a ojo.
+
+### Punto 12/13 (ampliación, tanda 3) — Frases del doblaje latino con minuto real en un tráiler (no sólo muestra suelta)
+
+Transcritas con `herramientas/voz.py` (Whisper, modelo `small`, `--idioma es`)
+sobre el audio de los mismos 3 tráilers de arriba; el minuto lo pone la
+herramienta, no se calculó a mano. Whisper comete algún error de palabra suelta
+en nombres propios (avisado en la documentación de la herramienta): se marca
+donde hay duda.
+
+- **Mi vecino Totoro (tráiler latino, personaje: el papá, Tatsuo Kusakabe)**,
+  al llegar a la casa nueva: *«Esto es todo, chicas. Entonces, ¿cómo te gusta
+  el nuevo lugar?»* · minuto 0:11 ·
+  [dailymotion.com/video/x4mls0h?t=11](https://www.dailymotion.com/video/x4mls0h?t=11)
+  · ✅ (transcrito con voz.py en esta tanda, frase clara y completa).
+- **Mi vecino Totoro (tráiler latino, Satsuki o Mei)**, exclamación al
+  descubrir algo en el bosque: *«¡Mei, mira eso!»* (Whisper transcribió «Ni»
+  en vez de «Mei», corregido a oído) · minuto 0:16 ·
+  [dailymotion.com/video/x4mls0h?t=16](https://www.dailymotion.com/video/x4mls0h?t=16)
+  · ⚠️ (nombre propio corregido a oído, el resto de la frase es clara).
+- **El increíble castillo vagabundo (tráiler latino, doblaje Zima Entertainment,
+  confirmado en pantalla a 0:03 del mismo tráiler), Sophie**, justo al verse
+  transformada en anciana por primera vez: *«Ay, en verdad soy yo»* · minuto
+  0:44 · [dailymotion.com/video/x889i5w?t=44](https://www.dailymotion.com/video/x889i5w?t=44)
+  · ✅ (frase corta y clara, coincide con el fotograma de shock de la tabla de
+  arriba a 0:36 — la reacción visual y la frase hablada son la misma escena).
+- **El increíble castillo vagabundo (tráiler latino)**, narrador sobre la
+  Bruja del Páramo: *«Creo que es brujería»* · minuto 0:25 ·
+  [dailymotion.com/video/x889i5w?t=25](https://www.dailymotion.com/video/x889i5w?t=25)
+  · ✅.
+- **El viaje de Chihiro (tráiler latino, Dailymotion `x4bncvf`, distinto del
+  que falló como `x9ysqao`, que ya no existe)**: *«antes de que anochezca,
+  además, este no es lugar para los humanos… volverá a saber»* (línea de Haku
+  advirtiendo a Chihiro; transcripción con algo de ruido de fondo musical) ·
+  minuto 0:33 · [dailymotion.com/video/x4bncvf?t=33](https://www.dailymotion.com/video/x4bncvf?t=33)
+  · ⚠️ (frase con más incertidumbre por música de fondo, pero el minuto y el
+  clip están verificados).
+
 ## Punto 8 — Doblaje latino: historia, estudios, actores, patrón por película
 (Cada dato sale del wikitext de Doblaje Wiki vía su API, `action=parse&prop=wikitext`,
 leído directamente — no de la web normal que da 402. Todas las páginas fueron
@@ -441,6 +509,10 @@ encontré»).
   Ghibli con vistas medidas — las búsquedas devolvieron fandubs de otras
   franquicias de anime, no de Ghibli. AnimeThemes devolvió error 522 en la
   recolección automática (ver `datos-voz.md`).
+- ⚠️ Kiki: entregas a domicilio (tráiler Dailymotion `x8x2kas`) se transcribió
+  con voz.py pero salió demasiado ruidoso para citar («Yo soy el tío de Black
+  Cat» es un error claro de Whisper) — no se usó como cita, se deja la
+  frase de El increíble castillo vagabundo y Totoro en su lugar.
 - ⚠️ Entrevista original de Roger Ebert a Miyazaki donde surge la palabra
   "ma" — la cita se documenta de segunda mano en un blog/Tumblr, no se pudo
   localizar la fuente primaria (transcripción o video de esa entrevista) en
@@ -526,6 +598,24 @@ encontré»).
 - Lectura directa de `ranking.net/rankings/best-ghibli-characters` (HTML con
   curl, extraído con regex en Python) y de un artículo de Nlab (curl +
   regex) — no se imprimió el HTML completo, sólo los fragmentos con datos.
+
+**Tanda 3 (`seguir`, aviso de `revisar_partes.py`: «0 minutos citados»,
+26-sep-2026):**
+- Búsqueda directa en la API de Dailymotion (`api.dailymotion.com/videos?search=`)
+  de tráilers oficiales doblados al latino de 5 películas (Chihiro, Castillo
+  vagabundo, Mononoke, Totoro, Kiki); un id salió muerto (`x9ysqao`, "Not
+  found") y se sustituyó por `x4bncvf` de la misma búsqueda.
+- `herramientas/voz.py` sobre 5 tráilers de Dailymotion (Chihiro, Mononoke,
+  Totoro, Castillo vagabundo, Kiki) con `--idioma es --modelo small`: da
+  transcripción con minuto automático (`[m:ss]` + enlace `&t=`). El de Kiki
+  salió inservible (ruido/hallucination de Whisper) y se descartó.
+- `herramientas/fotogramas.py` sobre 3 tráilers (Mononoke, Totoro, Castillo
+  vagabundo) cada 3 s, hojas de contacto miradas fotograma a fotograma (Read
+  de la imagen) para identificar la cara de cada personaje en 5 emociones
+  distintas con su minuto exacto — resuelve el punto 13 (tabla de emociones)
+  que antes no existía en esta parte.
+- Todo lo pesado (audio, vídeo, hojas de contacto) quedó en
+  `/tmp/claude-0/trabajo/102-voz/` (fuera del repositorio).
 
 Sin `Sigue:` — no queda pendiente ninguna tarea obligatoria de mis 7 puntos.
 Extras que no se hicieron (quedan en «No encontré» con ⚠️, no aquí): más

@@ -143,3 +143,124 @@ francotiradora**; Ekko, el **bate con engranajes** (su Z-Drive) · ✅ ya
   y ofrece «la **Gloriosa Evolución**» — cómo se ve: un salvador para los
   enfermos de Zaun · ✅ lore oficial `es_MX`, ya citado en biblia.md §8.
 
+
+## 21 · Por qué la gente la ama
+
+### Reconocimiento y cifras (razones «de peso»)
+
+- **100 % en Rotten Tomatoes** (crítica) en la T1 y la T2, con **96 %** de
+  audiencia en T1 · ✅ [Rotten Tomatoes T1](https://www.rottentomatoes.com/tv/arcane_league_of_legends/s01),
+  [MovieWeb, comparación T1/T2](https://movieweb.com/arcane-netflix-fantasy-perfect-rotten-tomatoes-score/).
+- Metacritic no le hizo Metascore de crítica (poca prensa tradicional la
+  cubrió), pero su **nota de usuario, 9,4, fue la más alta de Netflix**
+  ese año · ⚠️ una fuente que cita Metacritic de segunda mano
+  ([MovieWeb](https://movieweb.com/arcane-netflix-fantasy-perfect-rotten-tomatoes-score/)).
+- **T1**: 9 semanas en el top 10 global de Netflix, **187,6 millones de
+  horas vistas** y **30,2 millones de reproducciones completas** · ✅
+  [What's on Netflix](https://www.whats-on-netflix.com/news/how-well-has-arcane-done-on-netflix-all-the-stats-so-far/).
+- **Emmy a Mejor Programa de Animación**: lo ganó en **2022** (T1, la
+  primera vez que lo gana una serie de streaming) y otra vez en **2025**
+  (T2, por el episodio «The Dirt Under Your Nails»), más el Emmy a mejor
+  edición de sonido las dos veces · ✅
+  [Cartoon Brew, 2025](https://www.cartoonbrew.com/awards/arcane-emmy-netflix-fortiche-riot-254008.html),
+  [Bubbleblabber, 2025](https://www.bubbleblabber.com/2025/09/arcane-season-2-secures-second-emmy-for-outstanding-animated-program/).
+- En **Corea del Sur**, la demanda de la serie llegó a **15,0× la media**
+  de las series en marzo de 2025 (Parrot Analytics), la más alta medida
+  ahí para Arcane · ✅ [Parrot Analytics](https://tv.parrotanalytics.com/KR/arcane-netflix)
+  (dato ya usado también en el punto 7).
+
+### Con qué personaje se identifica el público, y por qué
+
+- **Jinx**: la razón que más se repite es que su colapso da miedo pero se
+  entiende — «I am the mess... the misery» (tema *Enemy*, ya citado en
+  §14 de biblia.md). Un ensayo personal de una autora autista cuenta que
+  se sintió «gafe en cada interacción social» toda su vida, sola y
+  «defectuosa», y que cambiarse el nombre (como Powder→Jinx) le ayudó con
+  su identidad de género — aunque avisa: «partir tu personalidad en dos
+  no es la respuesta a todo» · ⚠️ una fuente, un ensayo, no una encuesta
+  ([Curioodes, «i'm a jinx»](https://curioodes.substack.com/p/im-a-jinx)).
+- **Viktor**: varios lectores dicen identificarse con su lado «reservado
+  y reflexivo» desde la T1, y con ver cómo su sueño de un Zaun mejor se
+  le rompe en las manos · ⚠️ una fuente, ensayo
+  ([Substack, «The Human Condition Through the Lens of Arcane»](https://sain786.substack.com/p/the-human-condition-through-the-lens)).
+- En general, la crítica repite que Arcane «hace que te relaciones con
+  los personajes aunque no estés de acuerdo con lo que hacen»: da el
+  contexto para entender incluso a los villanos · ⚠️ varias reseñas, sin
+  una encuesta que lo mida en número.
+
+### Escenas que hacen llorar (capítulo, minuto, qué pasa, por qué duele)
+
+| Escena | Episodio | Qué pasa | Por qué duele | Fuente |
+|---|---|---|---|---|
+| **Vander apuñalado por Silco** | 1×06 «When These Walls Come Tumbling Down» | Silco apuñala a Vander por la espalda y el estómago; parece morir (en realidad Singed lo revive en secreto, como Warwick, y no se sabe hasta la T2) | Es el padre adoptivo de Vi y Powder; su «muerte» es la que empuja a Silco a quedarse con Zaun y, más tarde, a Powder a convertirse en Jinx | ✅ [Arcane Wiki: Vander](https://arcane.fandom.com/wiki/Vander) (ficha, confirma el apuñalamiento y la reanimación secreta); episodio y título ✅ [TheReviewGeek](https://www.thereviewgeek.com/arcane-s1e6review/) |
+| **Vi grita «eres una jinx» y la abandona** | 1×03 «The Base Violence Necessary for Change» | Tras la bomba que mata a Mylo y Claggor, Vi culpa a Powder y se va con Vander; Powder se queda sola | Es el quiebre que crea a Jinx: la niña que más quería ayudar es la que más daño hace, y pierde a su única familia | ✅ visto, fotogramas en §13 arriba (23:30 y 24:45) |
+| **Silco: «Don't cry. You're perfect»** | 1×09 (final de temporada) | Jinx le dispara a Silco cuando este intenta protegerla de Sevika/Vi; sus últimas palabras son de cariño, no de reproche | El villano que adoptó a Jinx muere perdonándola, justo cuando ella cree que lo ha destruido todo | ✅ la frase y la escena se citan en decenas de *edits* de YouTube ([ejemplo](https://www.youtube.com/watch?v=ipEYMDxtwC4)); **la frase en doblaje LATINO exacta sigue sin encontrar** (biblia.md §10.2 ya lo marca ❌) |
+| **Muerte de Isha** | 2×06 «The Message Hidden in the Pattern» | Isha, la niña que Jinx adoptó y con la que pintaba murales (§14 de biblia.md), muere protegiendo a los suyos de un Vander/Warwick fuera de control | Jinx vuelve a perder a alguien que cuidaba, repitiendo su patrón: todo lo que ama se rompe | ✅ [ComingSoon: qué le pasó a Isha](https://www.comingsoon.net/guides/news/1879154-arcane-season-2-what-happened-to-isha-episode-6), [Yahoo](https://www.yahoo.com/entertainment/happened-isha-arcane-season-2-064321425.html) |
+
+- No encontré **qué música exacta** suena en la muerte de Vander ni en la
+  de Isha (⚠️, pendiente para quien mire esos minutos con `voz.py` o
+  `fotogramas.py`); la de Silco («You're perfect») se sabe que **no**
+  lleva canción con letra, es score instrumental, pero no tengo su
+  nombre exacto ⚠️.
+- **Reddit** (`r/arcane`, ya en `datos-voz.md`): los hilos «favorite
+  character» y «best scene» tienen cientos de votos y decenas de
+  comentarios en Jinx y en escenas de Silco — la propia cantidad de
+  comentarios es la reacción con más «votos» que pude medir sin entrar a
+  Reddit con sesión.
+
+
+## 22 · Fan dubs y comunidad hispana
+
+> Busqué en YouTube (por buscador, no pude abrir los vídeos: YouTube dio
+> **429** a `navegar.py` en esta tanda — IP compartida con el resto del
+> equipo, como avisa `AYUDANTE.md`) y en TikTok. Los enlaces son reales
+> (confirmados por el título exacto del resultado), pero **no pude medir
+> vistas exactas** de la mayoría: lo marco ⚠️ donde falta.
+
+### Covers del opening «Enemy» en español
+
+«Enemy» (Imagine Dragons x J.I.D) es el tema más versionado. Encontré
+**al menos 5 canales distintos** con cover en español:
+
+| Canal | Título del vídeo | Qué tiene de especial | Enlace |
+|---|---|---|---|
+| David Delgado ft. EnmaDS | «ENEMY - Arcane: League of Legends OP Full (Cover Español)» | Versión completa, con la parte de rap también adaptada | ⚠️ [YouTube](https://www.youtube.com/watch?v=3rB9ja3AbVM) |
+| LeoZu | «ENEMY ARCANE (Cover en Español)» | También lo subió a TikTok con el hashtag `#doblajelatino` | ⚠️ [YouTube](https://www.youtube.com/watch?v=hOoFtuKPNOs), [TikTok](https://www.tiktok.com/@leozu_/video/7429340155338689797) |
+| AlejCaz & D4ve | «ENEMY ARCANE (Cover Español)» | A dos voces, con la música descargable aparte | ⚠️ [YouTube](https://www.youtube.com/watch?v=sliIRIogSh8) |
+| Maxim Tru | «Arcane Opening - Enemy | Cover Español» | — | ⚠️ [YouTube](https://www.youtube.com/watch?v=9NQYyFMnKcg) |
+| Canal sin identificar (publicado dic. 2021) | «(Full) Enemy - Arcane - Opening - Cover Español Latino - Imagine Dragons x J.I.D» | El más visto de los que salieron en la búsqueda, por su fecha (el primero, a los pocos días del estreno) | ⚠️ [YouTube](https://www.youtube.com/watch?v=j2TXUdtAm_s) |
+
+- Todos son de **finales de 2021 a 2024**: el opening se sigue versionando
+  tres años después.
+- **No encontré** cover en español de «Goodbye» (ending T1) ni de los
+  temas de la T2 («Sur les toits», etc.) — puede que existan y no salieran
+  en la búsqueda ⚠️.
+
+### Doblajes de fans (escenas, no canciones)
+
+- Comparaciones de doblaje **latino vs castellano** en TikTok/YouTube
+  Shorts, con la escena «Ekko salva a Jinx»: es contenido de aficionados
+  que enseña las dos versiones lado a lado, muy comentado por el
+  contraste de acento y de apodos (ver §12 arriba) · ⚠️
+  [TikTok, ejemplo 1](https://www.tiktok.com/@decadejay21/video/7439827477041646903),
+  [YouTube Shorts, ejemplo 2](https://www.youtube.com/shorts/bSPWgE2Kgfo).
+- Demos de voz de aficionados que se postulan como «Jayce» o «Jinx»
+  latinos, etiquetadas `#fandub #fandublatino #retodedoblaje`: son
+  pruebas de casting personales, no doblajes de una escena completa · ⚠️
+  [TikTok, ejemplo](https://www.tiktok.com/@fandub_chiledubs.98/video/7439566077819997495).
+- **No encontré** un fandub completo de una escena larga (varios
+  personajes, con edición) en español, del estilo que sí existe para
+  anime; lo que hay en español es sobre todo **covers de canciones** y
+  **comparaciones del doblaje oficial**, no doblaje de fans de cero.
+
+### Memes y parodias hispanas
+
+- El apodo **«bombón»/«pastelito»** (§12, §14 de biblia.md) es el chiste
+  del doblaje que más se repite en clips hispanos.
+- Búsquedas por `Arcane meme español` devuelven sobre todo páginas de
+  descubrimiento de TikTok por idioma («Memes De Arcane En Español»,
+  «Arcane Mexican Meme», «One Mexican Down Arcane Meme»), señal de que
+  **sí hay comunidad de memes en español**, pero TikTok no deja leer el
+  contenido de esas páginas sin sesión — **no pude listar memes
+  concretos con enlace** ⚠️.
+

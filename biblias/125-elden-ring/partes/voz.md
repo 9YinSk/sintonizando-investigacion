@@ -129,8 +129,92 @@ Aviso: Elden Ring no tiene *databook* oficial con cumpleaños/altura/comida favo
 - El **combate contra Radahn** («Radahn Festival»): el jefe más popular en la encuesta oficial (687 votos, ver punto 7) — se libra en un campo abierto convocando NPCs aliados a pelear junto al jugador, algo único en el juego; los jugadores lo describen como el combate que más «grita de emoción» genera por su escala y música coral · ✅ (Famitsu + comentarios de la propia encuesta oficial, que citan la escala del combate como motivo) · https://www.famitsu.com/news/202205/07260652.html
 - Detalle que enternece a la comunidad (Gurranq/Maliketh): de noche, antes de revelarse como el jefe Maliketh, el NPC Gurranq aúlla mirando hacia el Árbol Áureo, donde está su ama Marika — un detalle opcional que muchos fans descubren tarde y que resignifica todo su combate como el más triste del juego · ✅ (mismo dato reportado por dos medios) · https://eldenring.fandom.com/wiki/Gurranq,_Beast_Clergyman
 
-## Bitácora (parcial, se completa al final)
+### 22 · Fan dubs y comunidad hispana
 
-- «Famitsu エルデンリング 人気投票» (japonés, WebSearch) → encontré el artículo oficial con los dos rankings.
-- «Elden Ring character popularity poll official ranking» (inglés, WebSearch) → confirmación en GameSpot, PCGamesN, Kakuchopurei.
-- Leído directo `https://www.famitsu.com/news/202205/07260652.html` con curl (200 OK) para sacar los números exactos, no de memoria.
+Elden Ring no tiene opening ni ending cantado (no es una serie), así que no hay «covers de opening»: la comunidad hispana hace en su lugar fandubs de las cinemáticas, «series» narradas dobladas, raps tributo y memes/parodias. Todo esto es MÁS importante para este servidor (es de doblaje) que la ausencia de doblaje oficial (punto 8).
+
+**Fandubs de cinemáticas y series dobladas (YouTube):**
+- «Elden Ring Cinemática Inicial Español Latino (Fandub)» — dobla el tráiler de historia inicial · https://www.youtube.com/watch?v=bLpf2mibtF4 · ✅ (título confirma que es fandub, no oficial)
+- Canal **Offline Player**: serie «ELDEN RING - DOBLAJE ESPAÑOL LATINO - CASTELLANO | SERIE», narrada y doblada por capítulos (al menos 10 episodios numerados) que resume la historia con doblaje propio · ✅ (varias entregas: #2 https://www.youtube.com/watch?v=GPA4ujianIY · #8 https://www.youtube.com/watch?v=tdXEg9e96pw · #10 https://www.youtube.com/watch?v=azq8qOEi9zs)
+- Playlist «ELDEN RING - LA SERIE», recopilación de capítulos con voces en español · https://www.youtube.com/playlist?list=PLQ58A6hM5kHoao_k9nXZB0ywh_U0SBFmI
+- «Elden Ring opening [Doblaje castellano por Kainkrup]» — doblaje de España (castellano, no latino) del vídeo de apertura · https://www.youtube.com/watch?v=Eqsz2RUjHnQ
+- «Elden Rings GAME BREAKING Weapon - FANDUB LATINO - SPANISH DUB» · https://www.youtube.com/watch?v=pnwu0lOiuVI
+- Vídeo tutorial de un aspirante a actor de doblaje practicando con Elden Ring: «TUTORIAL PARA PONER TU VOZ AL DOBLAJE DE UN VIDEOJUEGO ELDEN RING [[GUILLERMO MORANTE]]» — sirve de ejemplo de cómo el propio servidor podría plantear un casting con esta obra · https://www.youtube.com/watch?v=p24CrK0FP24
+- TikTok de práctica de doblaje: «Práctica de doblaje | Messmer | Elden Ring DLC» (@carloren96) · ✅ (dos formatos: YouTube y TikTok, mismo tipo de contenido) · https://www.tiktok.com/@carloren96/video/7394571839512530208
+
+**Covers/tributos musicales en español (no hay opening que versionar, así que la comunidad hace raps tributo):**
+- «Tarnished (Elden Ring Rap Song)» de Tirow, en Spotify (2024) · https://open.spotify.com/intl-es/album/0ldm97M3htqqxt6qPYvbts
+- «Rise Up Tarnished RAP | GMV | Elden Ring» — «Despierta, Sinluz» · https://www.youtube.com/watch?v=Ha-pWzWwo0M
+
+**Parodias y memes hispanos:**
+- TikTok @manu_partida: «🔴Te explico videojuegos» sobre Elden Ring, resume el juego con humor para quien no lo conoce, menciona a Radahn y Malenia explícitamente como los sustos del vídeo · https://www.tiktok.com/@manu_partida/video/7482359116602576150
+- TikTok @zequiodzilla: «El Lore de Elden Ring: Mohg» — sketch/parodia de lore · https://www.tiktok.com/@zequiodzilla/video/7382858284782406944
+- Memedroid (es.memedroid.com) mantiene una etiqueta activa de memes de Elden Ring en español · https://es.memedroid.com/memes/tag/elden+ring
+- Título de vídeo confirmando la ausencia de doblaje, ya citado en el punto 8: «ELDEN RING no tendrá DOBLAJE en ESPAÑOL!!» — el propio fandom lo discute como carencia, lo que hace más valiosos los fandubs de arriba · https://www.youtube.com/watch?v=MqSasmw2__Q
+
+### 12 · Lo que el fandom ama y qué NO hacer
+
+**Lo que ama (con fuente):**
+- El detalle de Gurranq/Maliketh aullando hacia el Árbol Áureo de noche, un secreto que casi nadie ve la primera vez y que la comunidad comparte como «easter egg que rompe el corazón» (ver 21) · ✅ · https://eldenring.fandom.com/wiki/Gurranq,_Beast_Clergyman
+- Los memes sobre lo brutal de Malenia y Radahn como jefes (son, con diferencia, los dos enemigos más citados en la encuesta oficial y en Reddit — ver 7): la dificultad extrema se volvió una insignia de orgullo, no una queja · ✅ (encuesta Famitsu + hilos de Reddit ya recolectados en `datos-voz.md`)
+- Hilos de Reddit r/Eldenring con miles de votos sobre «lo más icónico» (armas nunca usadas, enemigos memorables, citas de Igon) — ya recolectados en `datos-voz.md`, útiles para vocabulario del fandom · ✅ https://www.reddit.com/r/Eldenring/comments/1sxj620/iconic_weapons_you_never_used/
+- La cifra de ventas (30 millones, ver 21) y el GOTY 2022 son motivo de orgullo recurrente citado por el propio fandom para defender el juego en discusiones · ✅
+
+**Qué NO hacer (para no sonar falso ante un fan):**
+- No dibujar a Malenia con la cara descubierta «bonita» sin más: perdió un brazo, una pierna y los ojos por la Podredumbre; su heridas y su prótesis dorada son parte de su identidad, no un detalle a esconder · ✅ (wikitext oficial) · https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella
+- No poner a Melina «alegre» o sonriente en poses genéricas: es un personaje espectral, contenido, casi nunca sonríe (ver 13); una Melina efusiva rompe el tono.
+- No inventar un doblaje latino que no existe (punto 8): un fan lo detecta al instante porque ANMTV y la propia comunidad ya han hablado del tema («no tendrá doblaje en español»).
+- No mezclar el tono: el encargo pide «fantasía oscura, ruinas» (ver `encargos/125-elden-ring.md`) — nada de colores alegres ni interfaces limpias tipo juego casual; el mundo es decadente, dorado-ceniza, ruinoso.
+- No confundir a Malenia con Marika (madre) ni con Ranni: son personajes distintos que comparten diseño «mujer pálida, pelo largo», error común de quien no miró bien las fichas.
+
+## Lo mejor para la lámina
+
+- Melina en el tráiler oficial a 0:44 (capucha blanca, ojo brillante azul, «Thou shouldst take the crown?»): pose y mirada listas para una lámina de fantasía oscura sin tocar el diseño original.
+- Malenia no muestra cara: su icono visual es la Flor Escarlata (bloom rojo, minuto 1:45-3:00 del combate) — mejor referencia de color/efecto que un retrato.
+- Ranni es la NPC más querida con diferencia (918 votos oficiales, 2274 dibujos de fans) y tiene el final más cálido: buena candidata a personaje secundario protagonista de una lámina, no sólo Melina/Malenia.
+- No hay doblaje latino oficial (punto 8): cualquier cuadro de diálogo debe indicar que la voz es un fandub o el registro original inglés/subtítulo, nunca inventar un actor.
+- El servidor no tiene canal propio para Elden Ring todavía (ver `encargos/125-elden-ring.md`); dado que es de doblaje, un canal de **fandubs/casting de videojuegos** encaja mejor que uno genérico, aprovechando el material del punto 22.
+
+## No encontré
+
+- Cumpleaños y altura oficiales de Melina, Malenia o Ranni: busqué «Elden Ring artbook height stats profile» (inglés) y no hay *databook* con esos datos; sólo gráficos de fans sin fuente oficial (⚠️ ya anotado en el punto 20).
+- Frases textuales en «doblaje latino»: no existen porque no hay doblaje latino (punto 8, comprobado en dos fuentes independientes).
+- Vistas exactas de los canales de fandub de YouTube (Offline Player, ZaroDubs): no pude abrir YouTube directamente (pide iniciar sesión desde este servidor) así que no tengo el contador de vistas, sólo título y enlace confirmados por WebSearch.
+- Un fotograma oficial de Malenia mostrando alegría, miedo o vergüenza: no existe en el material disponible (ella no muestra esas emociones en pantalla; es coherente con su diseño de jefa silenciosa) — no es un fallo de búsqueda, es el propio personaje.
+- Estudio y director del (inexistente) doblaje latino: no aplica, no hay doblaje que dirigir.
+
+## Bitácora
+
+Punto de partida: `partes/datos-voz.md` (Danbooru, Dailymotion, Reddit r/Eldenring ya recolectados automáticamente) — no repetí esas consultas, sólo las usé y las amplié.
+
+**Búsquedas (WebSearch), con idioma:**
+- «Famitsu エルデンリング 人気投票 キャラクター ランキング» (japonés) → artículo oficial con los dos rankings (NPC y enemigo/jefe).
+- «Elden Ring character popularity poll official ranking» (inglés) → confirmación en GameSpot, PCGamesN, Kakuchopurei.
+- «"Ranni" popular NPC Famitsu survey "Alexander" "Blaidd" ranking Elden Ring» (inglés) → cifras exactas de votos.
+- «Elden Ring idiomas de voz audio español latino doblaje» (español) → confirma que sólo hay fandubs, no oficial.
+- «Elden Ring Steam supported languages "full audio" list English Japanese French German» (inglés) → lista oficial de idiomas.
+- «site:anmtv.es Elden Ring doblaje» (español) → sin resultados directos, pero confirma título de vídeo «no tendrá doblaje».
+- «Elden Ring 日本語音声 吹き替え 収録 声優» (japonés) → confirma que tampoco hay doblaje japonés, sólo inglés.
+- «"Martha Mackintosh" Melina Elden Ring voice actress» / «"Pippa Bennett-Warner" Malenia Elden Ring voice actress» (inglés) → segunda fuente (IMDb) para el reparto.
+- «Elden Ring artbook Melina Malenia height stats official profile» (inglés) → confirma que NO hay databook oficial (dato negativo verificado).
+- «Elden Ring Game Awards 2022 Game of the Year sales million copies» (inglés) → premios y ventas.
+- «Elden Ring saddest scene reddit "made me cry" ending» (inglés) → hilos de Steam/Reddit con reacciones.
+- «Gurranq Bestial Clergyman howls direction Erdtree sad detail Elden Ring» (inglés) → detalle de fandom confirmado en dos wikis.
+- «"Elden Ring" Fia embrace scene emotional most touching moment players» (inglés) → Kotaku + ScreenRant.
+- «Malenia scarlet rot chronic illness disability representation fans relate reddit» (inglés) → identificación del público con el personaje.
+- «Elden Ring fandub español latino canal youtube capitulos serie animada» (español) → canales Offline Player, ZaroDubs.
+- «Elden Ring meme hispano parodia tiktok español "el juego que"» (español) → TikTok @manu_partida, @zequiodzilla, Memedroid.
+- «Elden Ring canción tributo rap español "Tarnished" OR "Sin Luz" videojuego cover» (español) → raps tributo (Tirow, Keyblade).
+
+**Red directa (sin buscador), con resultado:**
+- `curl` a `https://www.famitsu.com/news/202205/07260652.html` (200 OK) → texto completo de la encuesta, números exactos extraídos con Python, no de memoria.
+- `curl` a Doblaje Wiki API (`action=query&list=search&srsearch=ELDEN`) → confirma que no existe página de Elden Ring en el catálogo de doblaje latino.
+- `curl` a `win.gg` y `gamepur.com` → confirmación de idiomas oficiales (sólo inglés con audio completo).
+- `navegar.py` sobre `behindthevoiceactors.com/video-games/Elden-Ring/` (bloqueaba a curl con 403) → reparto completo en inglés, créditos oficiales, verificado también en IMDb.
+- `api.dailymotion.com` (varias búsquedas: trailer oficial, Melina ending, Malenia intro, Fia embrace/champions) → clips usados con `fotogramas.py`.
+- `fotogramas.py --cortes` sobre el tráiler de historia oficial (Dailymotion x8837gv, 6:29, 211 planos, mirado entero) → fotogramas de Melina con minuto exacto.
+- `fotogramas.py --cada 15` sobre el combate oficial contra Malenia (Dailymotion x89wlj1, 4:16) → fotogramas de la transformación Flor Escarlata.
+- `fotogramas.py --cada 6/12` sobre dos clips de Fia (uno resultó ser animación de fans, se descartó; el otro es gameplay real).
+- `eldenring.fandom.com/api.php` (action=parse, prop=wikitext) → fichas completas de Melina, Malenia y Ranni, con citas literales de diálogos.
+
+**Fuentes consultadas (resumen, con enlace ya citado arriba en Hallazgos):** Famitsu, GameSpot, PCGamesN, Kakuchopurei, itmedia nlab, Danbooru, win.gg, Gamepur, Steambase, Doblaje Wiki (API), Behind The Voice Actors, IMDb, Wikipedia (Elden Ring, Malenia, Pippa Bennett-Warner, Martha Mackintosh), Eldenring Fandom wiki (Melina, Malenia, Ranni, Gurranq), Kotaku, ScreenRant, Video Games Chronicle, Anime News Network, The Game Awards (Wikipedia), Reddit r/Eldenring (vía datos-voz.md), Dailymotion (tráiler oficial + combate Malenia + Fia), YouTube (títulos vía WebSearch, no reproducidos), TikTok, Spotify, Memedroid.
