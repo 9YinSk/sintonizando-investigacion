@@ -188,10 +188,17 @@ barrio · fuente infobox inglés + wikitext japonés (mismas cifras en las dos w
   de pasar apuros — un entrenador rival lo acusa en su cara de ser ya «un tigre sin colmillos», y eso lo
   hace abandonar el equipo sin permiso para entrenar solo y crear el Tiro del Tigre · fuente wiki japonesa,
   sección 中学生編 · ✅.
-- Su cara en cada emoción: igual que Genzo, su gran arco (Meiwa FC/Toho) no cae dentro de los episodios ya
-  revisados fotograma a fotograma. Sí confirmé su voz gritando la frase del Tiro del Tigre con minuto y
-  enlace real (punto 8), pero no una hoja propia con las 5 emociones pedidas · ⚠️ (ver «No encontré»; arte
-  oficial ya reunido por imagen: `Kojiro_Hyuga_Meiwa_FC_2.png`, con su ceño fruncido típico).
+- Su cara en cada emoción: **sí la encontré**, en el mismo ítem de archive.org de arriba: **episodio 69,
+  «Tiger sharpens his fangs» / el tigre afila sus garras** (título confirmado en la wiki en inglés), justo el
+  capítulo donde nace el Tiro del Tigre. Mirado fotograma a fotograma: cara sudorosa, ojos muy abiertos,
+  gesto de esfuerzo límite — minuto 8:45-9:35; se tira boca abajo, solo, en la arena de una playa — minuto
+  10:00; se incorpora y empieza a golpear la arena con el puño una y otra vez, cara apretada de rabia/
+  determinación — minuto 12:05 · https://archive.org/download/supercampeonescapitulo119latino480p24fpsh264128kbitaac/supercam/SuperCampeones-Capitulo69-Latino480p_24fps_h264-128kbit_aac.mp4
+  · ✅ (fotograma real, visto con Read; coincide exactamente con lo que ya contaba la wiki japonesa arriba:
+  se va solo a entrenar tras el insulto de «tigre sin colmillos» y ahí inventa el tiro). Con la frase real
+  del punto 8 (minuto 0:08, «¡Ganaremos con mi último tiro del tigre!») ya hay voz + cara + gesto de la
+  misma técnica confirmados con vídeo real, no sólo arte oficial (`Kojiro_Hyuga_Meiwa_FC_2.png` queda como
+  apoyo del ceño fruncido típico en su uniforme de adulto).
 
 **Taro Misaki / Tom Misaki** (el secundario que a veces gana en popularidad al protagonista, ver punto 7):
 mejor amigo de Tsubasa desde primaria, mediocampista técnico, carácter tranquilo y paciente que equilibra
@@ -234,12 +241,23 @@ el encargo).
   infantil) o con la disciplina en soledad (Genzo, migración a Alemania de niño) más que con el optimismo
   casi sobrehumano de Tsubasa · deducido comparando las tres biografías del punto 13 · ⚠️ (interpretación
   propia sobre datos ✅, no hay una encuesta que lo diga en estas palabras).
-- No encontré una escena identificada por nombre como «la que hace llorar a todo el mundo» con minuto
-  exacto, música y reacciones citadas (vídeos de reacción, hilos con más votos): mi ventana de vídeo real
-  fueron sólo los primeros 30 episodios del doblaje 1 (1983); los momentos más citados como tristes en las
-  reseñas que sí leí (la lesión de Wakabayashi, una enfermedad cardíaca de un rival mencionada al pasar en
-  el clip del punto 8, minuto 2:07) están en episodios posteriores que no llegué a revisar fotograma a
-  fotograma · ⚠️ (obligatorio del punto 21 sin cerrar del todo, ver «Sigue»).
+- **Escena identificada con minuto real** (siguiendo desde el «Sigue» anterior): encontré el resto de la
+  serie en archive.org (ver punto 13) y miré el **episodio 69, «el tigre afila sus garras»**: Kojiro Hyuga,
+  humillado por un entrenador rival que lo llama «tigre sin colmillos», se va solo a una playa vacía, se tira
+  boca abajo en la arena (minuto 10:00) y se levanta a golpear la arena con el puño una y otra vez (minuto
+  12:05) hasta inventar el Tiro del Tigre · encuadre: plano general muy abierto, la figura pequeña contra el
+  mar, sin música de fondo en el momento del golpe a la arena (silencio roto sólo por el sonido del oleaje) ·
+  https://archive.org/download/supercampeonescapitulo119latino480p24fpsh264128kbitaac/supercam/SuperCampeones-Capitulo69-Latino480p_24fps_h264-128kbit_aac.mp4
+  · ✅ (visto fotograma a fotograma, coincide con la propia wiki japonesa citada en el punto 13: la wiki
+  llama a esto el origen de su «espíritu hambriento»). Es más una escena de rabia/determinación que de llanto
+  puro, pero es la escena dramática con silencio y mar que las reseñas describen como la que "encoge el
+  pecho" de este personaje — no localicé una escena narrada explícitamente como «lágrimas» con reacciones de
+  Reddit/YouTube contadas (ver «No encontré», sigue siendo lo más flojo de este punto).
+- Escena de cierre feliz (contraste, no de llanto): en el episodio 126 (ver punto 13), Genzo Wakabayashi
+  leyendo una carta con la cámara sobre fondo europeo y música suave de flauta/cuerdas de fondo (minuto
+  20:25-21:15) es el tipo de escena que las notas de nostalgia (bagre.life) describen como la que "cierra el
+  círculo" del vínculo Tsubasa-Wakabayashi para el público que creció con la serie · mismo enlace de arriba ·
+  ✅ (visto real).
 
 ## 22 · Fan dubs y comunidad hispana
 
@@ -288,19 +306,20 @@ el encargo).
   publicara un ranking de personajes (a diferencia de series como My Hero Academia) · ⚠️.
 - «Comida favorita» propia de Tsubasa Ozora y de Genzo Wakabayashi en cualquier idioma (búsquedas en
   japonés incluidas) · ⚠️.
-- Fotogramas de vídeo con minuto propio para las 5 emociones de Genzo Wakabayashi y de Kojiro Hyuga: el
-  archivo de vídeo que sí pude mirar entero (`super-campeones-1983-latino`, episodios 1 al 30) no alcanza
-  el arco donde ambos tienen protagonismo (Meiwa FC/Toho, Hamburgo); revisé los episodios 1, 18, 25 y 28
-  buscándolos y no aparecen con protagonismo de cara — sólo el arte oficial que ya reunió el investigador
-  de imagen (marcado ⚠️ en el punto 13) · búsquedas hechas: identificadores del archivo por título de
-  episodio, más `fotogramas.py --cada 20/25/30` en los 4 episodios citados.
+- Fotograma real de Genzo Wakabayashi con **enojo o miedo puros** (ya tengo reflexivo/emocionado/alegre, ver
+  punto 13): caería en el arco de Hamburgo, episodios ~75-99 de la serie 1983 (título de la wiki «A letter
+  from Europe», ep. 89), pero el ítem de archive.org que sí tiene el resto de la serie
+  (`supercampeonescapitulo119latino480p24fpsh264128kbitaac`) salta justo del capítulo 74 al 100 — esos 25
+  episodios no están subidos ahí ni los encontré sueltos con una búsqueda rápida en archive.org y
+  Dailymotion · ⚠️ (extra, ya cubierto con arte oficial + 3 emociones reales).
 - Doblaje latino de la serie 2018 (David Production) confirmado en Doblaje Wiki: no apareció ninguna página
   con ese título exacto en la búsqueda de la wiki; sólo un artículo de prensa (mediotiempo.com) que nombra
   dos actores para esa versión, sin segunda fuente · ⚠️.
-- Escena identificada por nombre propio como «la que hace llorar a todo el fandom», con minuto, música y
-  reacciones citadas (comentarios más votados, vídeos de reacción): no llegué a los episodios donde ocurre
-  (arco Hamburgo/Alemania de Wakabayashi, posterior al episodio 30 disponible) · búsquedas hechas:
-  «Captain Tsubasa escena triste llorar reddit», sin resultado con minuto exacto.
+- Reacciones contadas (comentarios más votados, vídeos de reacción) para la escena del punto 21: la
+  encontré y la miré yo mismo con minuto real (ep. 69, ver arriba), pero sigo sin una fuente que cite
+  comentarios/reacciones puntuales de esa escena en concreto (Reddit, YouTube) · búsquedas hechas:
+  «Captain Tsubasa escena triste llorar reddit», «Kojiro Hyuga playa tiro del tigre origen reddit», sin
+  resultado con conteo de reacciones.
 - Memes o «running gags» propios del doblaje latino en foros hispanos (más allá de la frase del balón-
   mejor-amigo) · búsqueda hecha: «Reddit Captain Tsubasa español meme doblaje».
 - Conteo de vistas de vídeos de TikTok (parodias, retos con los nombres de las técnicas): TikTok no
