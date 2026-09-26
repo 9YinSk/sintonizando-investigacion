@@ -2294,7 +2294,69 @@ equipo salieron series de tono parecido (fantasía, humor y emoción):
 
 ## H · El mundo, la historia y sus símbolos (punto 25)
 
-_(pendiente)_
+### H.1 Las reglas de Ooo, en cinco líneas ✅
+
+(Wikitext de la wiki: [Mushroom War](https://adventuretime.fandom.com/wiki/Mushroom_War), [Land of Ooo](https://adventuretime.fandom.com/wiki/Land_of_Ooo).)
+1. Ooo es **la Tierra, unos mil años después de la Guerra de los
+   Champiñones**, un intercambio nuclear de finales del siglo XX o
+   principios del XXI.
+2. La bomba mutagénica que cayó sobre lo que fue Norteamérica **despertó
+   al Lich** y **trajo de vuelta la magia**.
+3. La humanidad casi desapareció; de las tribus que quedaron y de la
+   mutación nacieron las razas nuevas (gente-dulce, elementales…).
+4. Ooo se reparte en reinos: **Reino Helado, Dulce Reino, Condado de
+   Limongrab, Reino Wildberry, Reino de Fuego, Reino de las Nubes**, y
+   zonas sin reino como el Bosque Maligno. El **Espacio Grumoso** es otra
+   dimensión.
+5. Frederator publicó **dos mapas oficiales** con el documento de
+   presentación: uno en blanco y negro de Ghostshrimp (más fiel a la
+   pantalla) y otro a color.
+
+### H.2 La historia por arcos
+
+- **T1-5**: episodios sueltos, con pistas sobre el pasado del Rey Helado
+  y el origen de Marceline ✅. Marceline aparece en «Evicted!» (1×12) ✅.
+- **T6**: Finn busca a su padre humano ✅.
+- **T7, «Estacas»** (8 episodios): el pasado vampiro de Marceline; hace
+  las paces con lo que es ✅. Aquí suena «Everything Stays».
+- **T8, «Islands»**: Finn, Jake, BMO y Susan cruzan el mar; Finn conoce a
+  su madre ✅.
+- **T9, «Elements»**: la magia elemental vuelve Ooo una distopía ✅.
+- **T10, final**: la Princesa contra su tío Gumbald; Betty le quita la
+  corona a Simon; beso de Marceline y la Princesa; «Come Along With Me» ✅.
+- **Después**: «Tierras lejanas» (2020-2021, con «Obsidian» y «BMO»),
+  «Fionna & Cake» (2023-2024) y «**Misiones Secundarias**» (2026) ✅.
+- Fuente del detalle por temporada:
+  [Wikipedia, temporadas 6-10](https://en.wikipedia.org/wiki/Adventure_Time_season_6)
+  ⚠️ (una fuente para cada arco; los arcos sueltos también están en la
+  wiki).
+
+### H.3 Objetos y emblemas que un fan reconoce al instante
+
+- **El bajo-hacha** de Marceline: el hacha de la familia Abadeer (§3.5) ✅.
+- **El Enchiridion**: el manual del héroe, casi sagrado; del griego
+  *encheiridion*, «lo que se lleva en la mano» ✅
+  ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AdventureTime),
+  [Wikipedia](https://en.wikipedia.org/wiki/The_Enchiridion!)).
+- **La corona del Rey Helado**: la hizo Urgence Evergreen; llevarla
+  siglos **volvió loco a Simon** ✅ ([wiki](https://adventuretime.fandom.com/wiki/Ice_King%27s_crown)).
+- **La Espada de Hierba** de Finn, y luego su brazo-espada: dos «eras» de
+  Finn ✅ ([wiki](https://adventuretime.fandom.com/wiki/Grass_Sword)).
+- **Hambo**, el osito rojo de Marceline, regalo de Simon ✅ (§2.4).
+- **Card Wars**: el juego de cartas del episodio que se hizo juego real
+  (§13) ✅.
+- **BMO**: una consola viva que parodia al Game Boy (§7.1) ✅.
+
+### H.4 Vocabulario propio
+
+- **Ooo**; **Glob** (como «Dios»: «¡Oh por Glob!») ✅; **Nocheósfera**
+  (*Nightosphere*, el inframundo de Hunson Abadeer) ✅
+  ([wiki](https://adventuretime.fandom.com/wiki/Nightosphere)); **Espacio Grumoso**.
+- «**¿Qué hora es? ¡Hora de aventura!**» (el opening) ⚠️.
+- «**¡Matemático!**», «**¡Algebraico!**»: las muletillas del piloto y
+  la T1, que luego se usaron menos ⚠️ (TV Tropes).
+- **Dulce Princesa**, **Rey Helado**, **Hora de aventura** (en latino,
+  sin «s»); no los nombres de España ✅ (§7.4).
 
 ---
 
