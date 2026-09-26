@@ -128,3 +128,61 @@ El vídeo del equipo mide luz y paleta de las escenas con fotogramas.py (punto 4
 - Nibelheim: pueblo de montaña nevado, tejados de madera oscura, luz fría azulada de noche en la escena del incendio (naranja del fuego contra el azul de la nieve). Ref.: `VIICC Nibelheim.jpg` (datos-imagen.md línea 77). ✅
 - Cosmo Canyon: cañón rojo-naranja, atardecer permanente, observatorio en la roca. Ref.: wallpaper «At Cosmo Canyon» arriba. ✅
 - Costa del Sol: playa turquesa, luz blanca de mediodía, sombrillas de colores. Ref.: wallpaper «Beach Vacation» arriba. ✅
+
+## 19 · Texturas 2D
+
+FFVII no tiene manga canónico con tramas (es videojuego + CG); su «papel impreso» equivalente son los artbooks/Ultimania (pintura digital, no screentone) y la novela ilustrada «The Kids Are Alright: A Turks Side Story» (2019), con arte de Sho-u Tajima de trazo fino y aguadas, distinto del 3D del juego. Para las capas 2D (grano, trama, patrones, emblemas) van texturas libres reales equivalentes; para 3D real, ver el punto 3, y para fondos/sitios el punto 4 (lo cubre vídeo).
+
+**Trama/screentone (para simular impresión de cómic o el libro ilustrado)**
+- «Free Comic/Manga Screentone Brushes» (Photoshop/Procreate/CSP), gratis con código «$0» en Gumroad, listado en GraphicsBunker · https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/ · ⚠️ licencia «libre para uso comercial y personal» según el sitio, pero hay que comprobar la del autor al bajarlo (así lo advierte la propia web)
+- «Comic Screentone Procreate Brushes» (23 pinceles, gratis) · https://www.graphicsbunker.com/brushes/free-comic-screentone-procreate-brushes/ · ⚠️ misma reserva de licencia
+
+**Grano de papel, metal y cuero (ambientcg, CC0, medidos en la API)**
+- Leather 030, con relieve de costuras (para los guantes/hombreras de Cloud y Tifa), 45×45 cm reales · CC0 · https://ambientcg.com/view?id=Leather030
+- Metal 063, placa desgastada (para el plato de Midgar y la Masamune) · CC0 · https://ambientcg.com/view?id=Metal063
+- Corrugated Steel 009, chapa ondulada (tugurios/slums, barracas del Sector 5) · CC0 · https://ambientcg.com/view?id=CorrugatedSteel009
+- Concrete 046, hormigón sucio 240×240 cm (calles de Midgar) · CC0 · https://ambientcg.com/view?id=Concrete046
+- Fabric 061, tela lisa con textura de trama (vestido de Aerith) · CC0 · https://ambientcg.com/view?id=Fabric061
+- Paper 006, grano de papel (para el «libro» de la novela ilustrada o cartas del Shinra) · CC0 · https://ambientcg.com/view?id=Paper006
+- Todas de https://ambientcg.com/api/v2/full_json?type=Material&q=<palabra>, licencia CC0 confirmada por la propia API (campo del sitio, sin restricción de crédito) · ✅
+
+**Patrones, emblemas y logos propios de la serie (para vectorizar o calcar, no descargables sueltos)**
+- Logo del Shinra (águila con alas extendidas sobre círculo rojo) → `File:Shin-ra logo.jpg` en la wiki, 1997 · ✅
+- Logo de AVALANCHE (el grupo rebelde de Barret): no tiene un ítem de imagen propio separado en la wiki (aparece bordado en la ropa, no como logo suelto) · ⚠️ no encontré un PNG aislado, busqué `insource:"AVALANCHE logo"` sin resultado
+- Símbolo de materia (orbe con destello en cruz, se repite en el HUD de combate) visible en `File:FFVII Materia Menu 1.png` · ✅
+- Emblema de SOLDIER (ala estilizada) visible en las hombreras de Cloud en los renders de Remake (arriba, punto 15) · ✅
+- Patrón geométrico del vestido de Aerith (florcitas pequeñas repetidas, visible de cerca en el render de batalla) — para el patrón repetible de tela, usar Fabric 061 de ambientcg (arriba) como base y pintar encima las florcitas
+
+## 23 · Colaboraciones y cruces
+
+Fuente principal: la página «Collaboration» de la wiki de Fandom (`finalfantasy.fandom.com/wiki/Collaboration`), leída por su API (texto wiki), cruzada con las hojas de contacto. Todas confirmadas por texto + imagen (✅).
+
+**Videojuegos ajenos (crossover de personaje jugable)**
+- Super Smash Bros. for Nintendo 3DS/Wii U → Ultimate: Cloud Strife es luchador DLC desde 2016, con la Buster Sword y el Ómnislash como especial. Sephiroth se sumó a Ultimate en 2021. Arte oficial de la revelación: `File:Super Smash Bros. Tetsuya Nomura.jpg`, 1777×2500 · https://static.wikia.nocookie.net/finalfantasy/images/8/8f/Super_Smash_Bros._Tetsuya_Nomura.jpg · ✅
+- Street Fighter 6: Tifa Lockhart como traje/colaboración promocional, arte oficial · `File:Tifa Lockhart from Street Fighter 6 promo art.jpg`, 1500×1383 · https://static.wikia.nocookie.net/finalfantasy/images/4/47/Tifa_Lockhart_from_Street_Fighter_6_promo_art.jpg · ✅
+- Dissidia Final Fantasy NT: Cloud y Sephiroth como luchadores desde el Dissidia original (2008); captura de presentación de Tifa en la versión NT · `File:DFFNT Tifa Lockhart Presentation Screenshot.png`, 1920×1080 · ✅
+- LittleBigPlanet 2: disfraz/nivel de Sephiroth para Sackboy (colaboración Sony) · `File:Lbp2 ffvii sephiroth.jpg`, 1920×1200 · https://static.wikia.nocookie.net/finalfantasy/images/1/1a/Lbp2_ffvii_sephiroth.jpg · ✅
+- Dragon Quest Tact (Japón): tráiler crossover con Sephiroth como jefe (disfrazado de Psaro), Cloud como el héroe Erdrick y Aerith como una princesa — texto de la wiki, sin imagen propia bajada · ⚠️ una fuente
+
+**Colaboraciones dentro de «Final Fantasy VII Ever Crisis» (el juego móvil gacha; cada una trae ROPA Y POSES NUEVAS para Cloud/Tifa/Aerith/Sephiroth, justo lo que pide el punto 23)**
+- × Final Fantasy IX (nov. 2023, evento «A Resonant Waltz»): Cloud vestido de Zidane, Tifa de Amarant, Aerith de Garnet, Sephiroth de Kuja. Arte: `File:Zidane's Outfit set from FFVIIEC.png`, 438×618 · https://static.wikia.nocookie.net/finalfantasy/images/d/da/Zidane%27s_Outfit_set_from_FFVIIEC.png · ✅
+- × Monster Hunter (jun. 2024, evento «Rathalos in the Midgar Skies»): armaduras temáticas Glavenus, Zinogre y Kirin para el elenco. Arte: `File:Glavenus Armor set from FFVIIEC.png`, 625×892 · https://static.wikia.nocookie.net/finalfantasy/images/f/f9/Glavenus_Armor_set_from_FFVIIEC.png · ✅
+- × Final Fantasy VI (oct.-dic. 2024, evento «Cackling Court Mage Kefka»): Cloud de Locke, Aerith de Terra, Tifa de Sabin, Sephiroth de Edgar. ✅
+- × Final Fantasy XIII / saga Lightning (nov. 2025, evento «Flash of Destiny»): Tifa y Aerith con el uniforme de la Guardia de Cocoon, Sephiroth con el traje de Caballero de Etro. Arte: `File:Guardian Corps Uniform (Tifa) set from FFVIIEC.png`, 1327×4096 · https://static.wikia.nocookie.net/finalfantasy/images/8/8a/Guardian_Corps_Uniform_%28Tifa%29_set_from_FFVIIEC.png · ✅
+- × NieR (nov. 2025, evento «YoRHa No.2 Type B Intercept»): Tifa de 2B, Cloud de 9S, Aerith de Kainé, Sephiroth de Nier. Arte: `File:Battler Ensemble set from FFVIIEC.png`, 1647×4096 · https://static.wikia.nocookie.net/finalfantasy/images/a/a0/Battler_Ensemble_set_from_FFVIIEC.png · ✅
+- Todo esto en el wallpaper conmemorativo del 1er aniversario · `File:Commemorative Wallpaper Gift FF7EC 1st Anniversary.jpeg`, 1920×1080 · ✅
+
+**Figuras oficiales (su pose es referencia 3D real, no inventada)**
+- Play Arts (2007, primera línea de figuras): Cloud con la Buster Sword y tres manos extra; Tifa con manos extra; Aerith con su bastón — ficha completa en la wiki `Final Fantasy Play Arts` · ✅
+- Play Arts Kai, Cloud con las Fusion Swords desmontables (Advent Children) · `File:ACFFVII-Play-Arts-Kai-Cloud-Swords.jpg`, 800×800 · https://static.wikia.nocookie.net/finalfantasy/images/9/96/ACFFVII-Play-Arts-Kai-Cloud-Swords.jpg · ✅
+- Figura Play Arts Kai «Shin» de Cloud para Rebirth (2025) · `File:Cloud Strife Play Arts Shin for FFVII Rebirth.jpg`, 640×640 · ✅
+- Estatua «Aerith-Bust» (fan-print 3D, no oficial) ya en el punto 3, licencia CC BY
+
+**Cosplay bien hecho (materiales y volumen reales, todas ya en `datos-imagen.md` líneas 199-221, licencia CC de Flickr vía Openverse)**
+- Tifa Lockhart, Saboten-Con, por kevin dooley, CC BY 2.0 · https://live.staticflickr.com/2688/4074334035_a198336231_b.jpg · ✅ · falda de cuero con volumen real y guantes con relieve, buen ejemplo de cómo cae la tela en un cuerpo real
+- Aerith Gainsborough, Anime Expo 2015, por Eras Photography, CC BY 2.0 · https://live.staticflickr.com/732/20700047449_1f210eccdb_b.jpg · ✅ · trenza con cinta rosa grande bien lograda, referencia de cómo luce el peinado en pelo real
+- Yuffie Kisaragi, DragonCon 2015, por Stella Chuu (WhiteDesertSun), CC BY-NC-ND 2.0 · https://live.staticflickr.com/598/21282563498_7d538ce52c_b.jpg · ⚠️ licencia no-derivados, sólo para mirar la silueta, no calcar
+
+**Lo que NO encontré en esta categoría** (con las búsquedas hechas)
+- Colaboración con marcas de ropa o cafés temáticos fuera de Japón (Square Enix Café/Artnia existen pero genéricos de la franquicia, no específicos de FFVII con arte propio) · busqué `insource:"cafe"` en la wiki y `Final Fantasy VII collaboration cafe` en la web · ⚠️
+- Fortnite: no hay colaboración confirmada con FFVII (sí la hay con otros juegos de Square Enix, pero no ésta) · busqué «Final Fantasy VII Fortnite collaboration» en inglés, sin resultado en la wiki ni en prensa

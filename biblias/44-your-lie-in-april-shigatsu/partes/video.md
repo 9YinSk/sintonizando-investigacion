@@ -139,10 +139,14 @@ identificable propia en los minutos revisados) — anotado en «No encontré».
 | Watari entre Tsubaki y Kousei en la grada, boca abierta reaccionando | Ep. 02 Friend A | 10:00 | explicar (reacciona a la pieza del concurso) |
 | Watari en cuclillas con la camiseta de fútbol n.º 11, teléfono pegado a la boca como si cantara, mirada traviesa (tráiler PV2) | PV2 oficial (no es episodio) | 0:45 | celebrar / animar |
 | Watari inclinado hacia delante sobre una baranda, cejas juntas, preocupado por Kousei («Is this the Arima I know?») | Ep. 10 The Scenery I Shared With You | 8:00 | explicar (reacciona, preocupado) / animar |
+| Watari en primer plano, semiperfil, mirada seria y vulnerable, cabeza gacha, confesando a Kousei «I don't think I'm the one for Kaori» | Ep. 17 Twilight | 8:55-9:10 | explicar (confesar sentimientos) |
+| Watari de pie con las manos en los bolsillos, semiperfil, mirando el tablón de resultados junto al grupo (Tsubaki, Emi, Takeshi, Kaori) | Ep. 11 Light of Life | 9:00 | explicar (reacciona a un resultado) |
 | Tsubaki de espaldas, mano en la cintura, dedo índice apuntando a Kousei, marcas de enfado | Ep. 01 Monotone/Colorful | 11:00 | regañar |
 | Tsubaki en la grada, inclinada hacia delante, explicando la pieza «Kreutzer» con la boca abierta | Ep. 02 Friend A | 10:00 | explicar |
 | Tsubaki caminando de espaldas junto a Kousei, mochila con tirantes rojos, bajo los cerezos | Ep. 01 Monotone/Colorful | 6:00 | presentar (plano de establecimiento del trío) |
 | Tsubaki de uniforme de béisbol/sóftbol y gorra, guante alzado, sonrisa con ojos entornados, en la cancha | Ep. 06 On the Way Home | 4:00 | celebrar / animar |
+| Tsubaki corriendo descalza de noche junto a una baranda, zapatos en la mano, sonriendo, pelo al viento (escena de la playa) | Ep. 14 Footsteps | 20:00 | celebrar / animar |
+| Tsubaki con los brazos cruzados, cabeza ladeada, expresión resignada/escéptica, de pie entre Takeshi y Kousei en un pasillo de hospital | Ep. 19 Goodbye, Hero | ~19:30 | explicar (reacciona, escéptica) |
 
 ## Lo mejor para la lámina
 
@@ -159,7 +163,8 @@ identificable propia en los minutos revisados) — anotado en «No encontré».
 - Actualización de esta tanda: `navegar.py` **sí** funciona en este contenedor (el fallo anterior era del entorno de esa sesión, no de la web); pude abrir `tiktok.com/tag/yourlieinapril` de verdad y ya está citado arriba con vídeos y autores reales. Sigue sin poder abrirse cada vídeo individual de TikTok (el listado no da minuto ni vistas) ni los dos vídeos de YouTube del punto 10 (429 «tráfico inusual» en dos intentos hoy, misma IP compartida): esos dos quedan sólo con título/fecha por búsqueda web, sin minuto exacto. ⚠️
 - Vistas y «me gusta» reales de los vídeos de TikTok/YouTube: no accesibles sin navegador con JS ni login. ⚠️
 - No encontré doblaje latino en ningún clip oficial de OP/ED (eso es del investigador de voz, punto 8, pero lo anoto porque toqué música): los AMV latinos que aparecen en `datos-video.md` («Opening Español Latino» x8dnwv0) fueron borrados de Dailymotion (vídeo no encontrado).
-- Watari y Tsubaki se quedan en **4 poses propias** cada uno (subí de 3, revisando además los episodios 10 y 20 esta tanda), por debajo de las 6-10 que pide el encargo. Son secundarios y su protagonismo visual llega más tarde (arcos 9-16, sobre todo el 20 «Hand in Hand» donde Tsubaki confronta a Kousei); revisé las fichas de personajes de esos episodios en la wiki para no buscar a ciegas, pero no me dio tiempo a sacar y mirar más fotogramas de esos arcos. Conviene completarlo con ilustraciones oficiales (el encargo admite fotograma O ilustración) de las hojas de contacto de la wiki, trabajo del investigador de imagen.
+- Episodios 9, 12, 13, 15 y 16 (revisados con `ffmpeg -ss` en varios minutos y con la ficha de personajes de la wiki): Watari y Tsubaki aparecen en la lista de personajes de casi todos, pero en los tramos que pude muestrear salen sólo de fondo o de espaldas en grupo, sin una pose propia clara que añadir (el 9 es capítulo de Emi, el 16 es capítulo de Nagi/Kaori). No agoté cada episodio minuto a minuto, así que puede haber más poses suyas ahí sin encontrar. ⚠️
+- El minuto de la pose de Tsubaki del Ep. 19 (brazos cruzados, pasillo del hospital) es aproximado (~19:30): la localicé con un escaneo de fotogramas cada 90 s (`ffmpeg -vf fps=1/90`) y no logré reproducir el segundo exacto con `-ss` puntual (el vídeo saltó a un fotograma vecino distinto en los intentos directos); el fotograma en sí y los personajes están confirmados, sólo el segundo exacto queda con margen de ±10 s. ⚠️
 
 ## Bitácora de búsqueda
 
@@ -184,6 +189,14 @@ identificable propia en los minutos revisados) — anotado en «No encontré».
 - `musicbrainz.org`: reutilicé los 3 discos ya recolectados en `datos-video.md` y los enlacé directamente en el punto 9 (antes sólo se mencionaban, no estaban citados como enlace).
 - YouTube (los 2 vídeos de reacción del punto 10) con `navegar.py`: 429 «tráfico inusual» en los dos, igual que antes.
 
+### Tercera pasada (relanzo puntual: completar poses de Watari y Tsubaki)
+
+- Wiki de Fandom, wikitext de «Episode 09: Resonance», «Episode 11: Light of Life», «Episode 13: Love's Sorrow», «Episode 14: Footsteps», «Episode 15: Liar», «Episode 16: Two of a Kind», «Episode 17: Twilight», «Episode 18: Hearts Come Together» y «Episode 19: Goodbye, Hero» (`action=parse&prop=wikitext`, filtrando líneas con «Watari»/«Tsubaki») para saber en qué episodios tienen escena propia antes de sacar fotogramas a ciegas.
+- `ffmpeg -ss <segundo> -i "https://archive.org/download/EVYourLieinApril/<ep>.mp4"` (mismo método que tandas anteriores). Esta vez archive.org devolvía **403** al pedir el `.mp4` directo con ffmpeg sin más: hacía falta pasarle el proxy de este contenedor explícito (`-http_proxy "http://127.0.0.1:33635"`, tomado de la variable de entorno `HTTPS_PROXY`) además de `-user_agent`; con eso funcionó igual que antes. Lo anoto por si otro investigador de esta serie se topa con el mismo 403.
+- Para explorar tramos largos sin gastar una llamada por minuto usé `ffmpeg -vf "fps=1/90"` sobre 600-1300 s seguidos de una sola vez (contact sheet con Pillow), y sólo pedí en grande el fotograma que servía.
+- Encontradas y confirmadas: Watari en Ep. 17 «Twilight» (min 8:55-9:10, confesión sobre Kaori, diálogo coincide palabra por palabra con la cita de la wiki) y en Ep. 11 «Light of Life» (min 9:00, tablón de resultados, identificado por pelo castaño-naranja y ropa ya usadas en otras poses); Tsubaki en Ep. 14 «Footsteps» (min 20:00, escena de la playa que cita la propia wiki del episodio) y en Ep. 19 «Goodbye, Hero» (min ~19:30, pasillo del hospital con Takeshi y Kousei).
+- Episodios revisados sin pose nueva aprovechable de ninguno de los dos: 9, 12, 13, 15, 16 (ver «No encontré»).
+
 ## Cumplimiento del encargo (mis puntos)
 
 | Punto | Estado | Por qué |
@@ -192,7 +205,5 @@ identificable propia en los minutos revisados) — anotado en «No encontré».
 | 4 · Fondos y sitios: luz y paleta medida | ✅ | 6 sitios con hex medidos con `estilo.py` sobre fotogramas propios en 1080p |
 | 9 · Música y sonido | ✅ | OP1/OP2/ED1/ED2/ED3 confirmados (wiki + visto en vídeo), compositor, tema de la escena final, música de la escena del tejado, ambiente sonoro |
 | 10 · Vídeos: tráileres, escenas, análisis, tendencias | ⚠️ | Tráiler visto fotograma a fotograma; TikTok visto de verdad esta tanda (`tiktok.com/tag/yourlieinapril`, vídeos y autores reales); popularidad en MyAnimeList. Sólo quedan sin abrir los 2 vídeos de reacción de YouTube (429 en dos intentos, bloqueo del servidor compartido, no de la web) |
-| 14 · Poses por personaje, con capítulo y minuto | ⚠️ | Kaori (7) y Kousei (6) completos; Watari y Tsubaki subieron de 3 a 4 cada uno esta tanda (episodios 1, 2, 3, 4, 6, 10, 20, 22 revisados), pero siguen bajo el mínimo de 6 — necesitan sus arcos 9-16, que no me dio tiempo a mirar |
-
-Sigue: punto 14, Watari y Tsubaki están en 4 poses cada uno, faltan 2 más cada uno para llegar al mínimo de 6 — revisar episodios 9, 11-19 (sus arcos con más protagonismo) con `ffmpeg -ss` sobre `archive.org/download/EVYourLieinApril/<ep>.mp4`, apoyándose en la lista de personajes de cada ficha de episodio de la wiki para no ir a ciegas.
+| 14 · Poses por personaje, con capítulo y minuto | ✅ | Kaori (7), Kousei (6), Watari (6) y Tsubaki (6) — los 4 personajes llegan al mínimo de 6 poses con episodio y minuto. Watari y Tsubaki completados esta tanda revisando sus arcos 9, 11-19 (episodios 11, 17 y 19 dieron poses nuevas y confirmadas) |
 

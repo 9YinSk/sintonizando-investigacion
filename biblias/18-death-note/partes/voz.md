@@ -322,3 +322,90 @@ mal etiquetados (p. ej. «Death Note: El nuevo mundo - Tráiler español»,
 No los cites como fan dub.
 
 ---
+
+## Lo mejor para la lámina
+
+- **Matsuda, el secundario más querido de comedia** (238 votos en Reddit,
+  1 203 favoritos en AniList): buena carta si la lámina 2 busca un
+  personaje distinto de L o Light.
+- **La frase «cojo una fritura… y la como»**, confirmada en audio latino
+  real ([clip](https://www.youtube.com/watch?v=IXwqj7g9rWk)): frase
+  reconocible y con gracia, buena para un cuadro de diálogo de ejemplo.
+- **José Lavat como Sōichirō**, confirmado con dos fuentes: voz seria y
+  reconocible (narrador de mil animes clásicos), útil si el canal quiere
+  un tono «autoridad, padre».
+- **El ego de Light es lo que más parodia el fandom hispano** (tres
+  memes con más de 1 millón de vistas cada uno): la lámina puede jugar
+  con esa arrogancia sin necesitar spoilers finales.
+- **La muerte de L (ep. 25, 00:14:45)** es la escena que más duele según
+  TV Tropes y ya tenía minuto exacto: sirve si el canal quiere un
+  momento emotivo con el cuaderno de por medio.
+
+## No encontré
+
+- **Fecha de nacimiento y altura de Mello, Matsuda, Mikami y Naomi**:
+  sólo en AniList (una fuente); no encontré un databook escaneado ni una
+  segunda web que las repita ⚠️ (búsqueda: «Death Note databook Mello
+  height», en, sin resultado fiable en el tiempo disponible).
+- **El nombre exacto de la canción del ending «triste» en la escena de
+  Misa**: TV Tropes lo menciona pero no lo nombra ⚠️ (habría que
+  escuchar el episodio final entero con `episodio.py`, no me alcanzó el
+  tiempo).
+- **Fotogramas propios** (JPG) para la mayoría de la tabla de emociones
+  del punto 13: YouTube pide iniciar sesión en este servidor y
+  Dailymotion no tenía las escenas exactas ⚠️ (búsquedas: «death note
+  ep 2 light angry clip», «death note ep16 misa tied clip», sin vídeo
+  descargable).
+- **Canal de TikTok específico de fan dubs de Death Note**: encontré
+  tendencias de cosplay y cuadernos hechos a mano (ya en la biblia, §14)
+  pero no un fandub de audio en TikTok con vistas verificables ⚠️
+  (TikTok no tiene API abierta desde este servidor).
+- **Segunda fuente independiente para Mello y Matt (Mail Jeevas)** en el
+  doblaje: Doblaje Wiki y The Dubbing Database comparten el mismo origen
+  citado; no encontré una tercera web (foro, TikTok del actor) que lo
+  repita ⚠️ (búsqueda: «Javier Olguín Mello Death Note», «Miguel Ángel
+  Ruiz Matt Death Note»).
+
+## Bitácora
+
+- Continué una tanda cortada por límite de uso: `partes/voz.md` sólo
+  tenía el punto 7 escrito. Empecé desde el punto 8, sin repetir lo ya
+  confirmado.
+- `doblaje.fandom.com/es/api.php?action=parse&prop=wikitext&page=Death_Note`
+  (español, directo): wikitext completo con el reparto de 37 episodios;
+  resolvió el «no encontré» de Rem/Watari/Matsuda/Mikami que traía la
+  biblia.
+- `dubdb.fandom.com/api.php?action=parse&prop=wikitext&page=Death_Note_(Latin_American_Spanish)`
+  (inglés, wiki de doblaje): segunda fuente para cada nombre del reparto
+  latino, y plataformas oficiales.
+- `en.wikipedia.org/w/api.php` (inglés): dio «too many requests» dos
+  veces (varios ayudantes comparten IP); a la tercera con
+  `User-Agent` identificado sí respondió. Extraje ventas, premios y
+  reseñas (sección Reception).
+- `deathnote.fandom.com/api.php` (inglés, wiki de la serie): alturas de
+  Light, L, Misa, Near y Ryuk desde el infobox (cruce con AniList).
+- `anilist.co` (ya lo trajo `recolectar.py`; sólo leí lo que faltaba):
+  fichas de personaje completas para el punto 20.
+- `python3 herramientas/navegar.py` en **TV Tropes**
+  (`YMMV/DeathNote`, `TearJerker/DeathNote`) e inglés: la vista con
+  `--selector` no basta (folders colapsados por JS), tuve que pedir
+  `--html` y limpiar las etiquetas a mano para leer el contenido
+  plegado.
+- `python3 herramientas/navegar.py` en **YouTube** (`/results?search_query=…`,
+  español): funcionó bien para ver título, canal y vistas reales sin
+  necesitar login; hice un script propio con Playwright (basado en
+  `navegar.py`) para sacar también el `href` de cada vídeo. Búsquedas:
+  «death note fandub latino opening», «death note fandub español light».
+  `yt-dlp --dump-json` sigue bloqueado («sign in to confirm you're not a
+  bot») para bajar vídeo.
+- `api.dailymotion.com/videos?search=…` (varias consultas en español):
+  vistas muy bajas comparado con YouTube; sirve sólo como plan B si
+  YouTube falla, tal como dice AYUDANTE.md.
+- Reddit ya venía traído por `recolectar.py` (Arctic Shift); sólo lo leí,
+  no repetí la consulta.
+
+Sigue: falta una segunda fuente independiente para el doblaje de Mello
+y Matt, y los fotogramas JPG reales de la tabla del punto 13 (YouTube
+bloqueado en este servidor para descarga; lo puede resolver el
+investigador de vídeo con `fotogramas.py` en los minutos ya confirmados
+aquí).

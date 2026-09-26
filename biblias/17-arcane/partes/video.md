@@ -104,18 +104,21 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
 
 ## 10 · Vídeos (con minuto exacto)
 
-> YouTube bloqueó las descargas hoy en esta máquina (`Sign in to confirm
-> you're not a bot`, con y sin `--js-runtimes node`) para el vídeo oficial
-> de «Enemy» (`F5tSoaJ93ac`) y para el clip de fan de la prueba Hextech
-> (`v91giP0wo5Y`); lo dejo anotado en la Bitácora, no lo repito más de dos
-· veces por vídeo (regla de AYUDANTE.md). **Dailymotion sí funcionó** (Plan B).
+> **Actualización (relanzo):** YouTube volvió a bloquear la descarga de
+> `F5tSoaJ93ac` hoy también (no lo reintenté una tercera vez, regla de
+> AYUDANTE.md), pero encontré el mismo vídeo oficial de «Enemy» **subido en
+> Internet Archive** (varias copias) y lo bajé sin problema con
+> `fotogramas.py`. Ya tengo fotograma propio del opening, con minuto exacto.
 
 | Vídeo | Para qué sirve | Minuto exacto | Enlace |
 |---|---|---|---|
+| **«Enemy» (Imagine Dragons + JID from the series Arcane League of Legends)**, animado por Fortiche, copia 1080p/213 s | El **opening musical** de la serie: la banda como personajes de Arcane en Zaun. Min **0:45**: Vi y Jinx (pelo azul, luz de atardecer) se miran de perfil; min **1:00**: la banda tocando entre la gente de Zaun con luz verde tóxica; min **2:30**: primer plano de Jinx con distorsión RGB (efecto glitch); min **3:30**: pantalla negra con el logo **«ARCANE / LEAGUE OF LEGENDS»** en rojo — el cierre del vídeo, es el fotograma que sirve como «opening card» | ✅ **visto entero con fotograma propio** (`enemy_overview/hoja_01.jpg`, 15 cuadros, cada 15 s) — duración 213 s, coincide con los 213 s que ya había confirmado por metadatos de YouTube | [Internet Archive](https://archive.org/details/9convert.com-imagine-dragons-x-jid-enemy-from-the-series-arcane-league-of-legends-1080p) (mismo vídeo, mismo tramo, sin bloqueo de login) |
+| **«Enemy with JID (Opening Title Version)»** — copia aparte en IA, 720×720, **186 s** (más corta que el vídeo musical de 213 s) | Es un **recorte específico para título**: la descripción del ítem dice «Arcane II Theme». Al ser más corta que el video musical completo, es candidata a ser el montaje que se usa como cabecera/opening real dentro del reproductor, distinto del vídeo musical íntegro de arriba | ⚠️ sólo comprobé metadatos (duración, resolución), no bajé fotogramas — el archivo de 4,4 MB es de baja resolución y el otro ítem ya cubre el logo y las escenas clave | [Internet Archive](https://archive.org/details/EnemywithJIDOpeningTitleVersion) |
 | **Teaser oficial «A New Adventure Awaits»** (anuncio de Arcane, Worlds 2019), repost de JeuxVideo.com | Primer vídeo oficial de la serie; **min 0:45-1:15**: una streamer/jugadora en su cuarto dice «voy a revelarles un secreto muy importante», luego el skyline de Piltóver (min 1:00) y el logo «ARCANE» (min 1:45) | ✅ visto con `fotogramas.py`, fotograma propio (`dm_open/hoja_01.jpg`) | [Dailymotion](https://www.dailymotion.com/video/x89n6ax) |
-| Vídeo oficial de **«Enemy»** (Imagine Dragons + JID), animado por Fortiche | Sirve de «opening»: la banda como personajes de Arcane en Zaun. 409 M de vistas | ⚠️ no pude bajarlo hoy (YouTube pidió login); metadatos sí cargan (213 s de duración, confirmado con `yt-dlp -j`) | [YouTube](https://www.youtube.com/watch?v=F5tSoaJ93ac) |
 | Tráiler oficial T2 y teaser T2 | Ya en la biblia (§12), con enlaces oficiales de `leagueoflegends.com` (no YouTube): siguen sin minuto propio, no pude verlos hoy por tiempo | ⚠️ igual que estaba | (enlaces en biblia §12) |
 | **Créditos finales de 1×03** | Sirven de «ending» visual: rótulo Riot Games/Fortiche en francés y chino, lista de reparto en francés (Silco: Bernard Gabay; Vi: Alice Taurand; Mel: Géraldine Asselin) — confirma otro doblaje (FR) además del latino | ✅ visto, min **42:40-44:00** (`e03_overview/hoja_02.jpg`) | archivo IA de 1×03 (arriba) |
+| **Créditos finales de 1×06** | Confirma el reparto francés otra vez (Silco: Bernard Gabay; Vander: Boris Rehlinger; Vi: Alice Taurand; Mylo: Hervé Grull; Jayce: François Deblock; Viktor: Cédric Dumond) — coincide con 1×03, mismos actores en toda la T1 | ✅ visto, min **40:10-41:40** (`e06_overview/hoja_01.jpg`, cuadro 41) | archivo IA de 1×06 (Bitácora) |
+| **«\*Enemy start playing in the background»** (post de r/arcane) | Prueba de la **tendencia real** del opening: meme/reacción con 3041 upvotes y 21 comentarios sobre el momento en que suena «Enemy» — confirma que la canción sigue siendo el gancho viral de la serie, útil para el ángulo «tendencias» del punto 10 | ✅ visto (JSON de la API, no capturas de pantalla completas) | [Reddit](https://reddit.com/r/arcane/comments/1ogwy9g/enemy_start_playing_in_the_background/) |
 
 ## 14 · Poses con capítulo y minuto
 

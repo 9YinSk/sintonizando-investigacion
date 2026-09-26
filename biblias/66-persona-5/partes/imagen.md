@@ -66,6 +66,32 @@ librería CC0 de materiales, HDRIs y props genéricos (no personajes con
 licencia), así que no aporta a este punto; sus texturas sí sirven para el
 punto 19 (ver abajo).
 
+## 15 · Vestuario
+
+Colores medidos con `herramientas/estilo.py` sobre recortes de las imágenes
+oficiales (no de memoria); método: paleta dominante del recorte de cada
+prenda. Peinado y accesorios, vistos directamente en las imágenes.
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| Joker (Ren Amamiya) | Abrigo largo negro, traje ladrón (icónico) | #020202 | Phantom Unmasked Concept Art P5 |
+| Joker | Guante rojo, traje ladrón | #83161C | Phantom Unmasked Concept Art P5 |
+| Joker | Americana negra, uniforme de Shujin (mismo corte para alumnos) | #181516 | Shujin Male Winter Uniform |
+| Joker/uniforme | Pantalón de cuadros del uniforme | #4D4645 | Shujin Male Winter Uniform |
+| Morgana (forma humana, P5R) | Cárdigan negro | #161616 | P5R ConceptArt MorganaHuman |
+| Morgana (forma humana) | Camiseta gris oscuro | #46484A | P5R ConceptArt MorganaHuman |
+| Ann Takamaki | Traje ladrón «Panther», licra roja (icónico) | #FF0100 | Ann All Out |
+| Ann Takamaki | Mallas rojas, ropa de calle | #AB2823 | AnnConcept (character model sheet) |
+| Ryuji Sakamoto | Chaqueta traje ladrón «Skull» | #010101 | P5 Ryuji Sakamoto, Phantom Thief |
+| Ryuji Sakamoto | Pañuelo rojo al cuello, traje ladrón | #830C09 | P5 Ryuji Sakamoto, Phantom Thief |
+| Ryuji Sakamoto | Guantes amarillos, traje ladrón | #C7A513 | P5 Ryuji Sakamoto, Phantom Thief |
+
+- Peinado: Joker pelo negro despeinado corto; Ann coletas rubias con mechas rojizas por dentro (visible en «Ann All Out»); Ryuji rapado a los lados con cresta rubia teñida; Morgana en forma humana pelo negro-azulado. Vistos directamente en las imágenes citadas. ✅
+- Accesorio icónico de cada uno: Joker su máscara blanca en forma de pico de cuervo (se la quita con la mano, ver punto 1); Ryuji su máscara blanca de calavera con cuencas negras; Ann antifaz rojo tipo gato; Morgana, en forma de gato, orejas y cola reales (no lleva máscara). Visto en las imágenes de concept art citadas arriba. ✅
+- El uniforme de Shujin (chico y chica) es el mismo para **todo** el alumnado, así que sirve también para personajes secundarios del instituto: escudo «SYUJIN HIGH SCHOOL» (chevron negro sobre blanco) cosido en la solapa. ✅ (visto en la imagen)
+- Uniforme de verano de Shujin, más claro (camisa suelta, sin americana) · https://static.wikia.nocookie.net/megamitensei/images/c/c4/Shujin_Summer_Uniform.jpg · ⚠️ (no medido en detalle, sólo referenciado) · 1349×1685
+- La ropa «icónica que todos reconocen» por personaje: Joker = abrigo negro + guantes rojos + máscara de cuervo; Ann = mallas rojas con coletas (más que el traje Panther, que sólo se ve en combate); Ryuji = chaqueta de cuero + pañuelo rojo + guantes amarillos + máscara de calavera; Morgana = gato blanco y negro (tuxedo), collar amarillo/dorado, ojos azules — visto en «Morgana (Cat Version, P5T)». ✅ (visto directamente en la imagen, corrige una primera lectura de memoria)
+
 ## Lo mejor para la lámina
 
 - El key visual grupal de Soejima (2522×1664) da a los 4 personajes juntos y con pose.

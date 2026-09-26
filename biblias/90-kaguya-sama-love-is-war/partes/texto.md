@@ -73,14 +73,62 @@ Parte de `datos-texto.md` (AniList: ficha, equipo, obras parecidas — Steam vac
 - **Por qué importa para la lámina**: si se quiere un concepto que juegue con "parodia visual reconocible" (como hace la propia serie con Bakemonogatari, Ace Attorney o James Bond), es un recurso legítimo dentro del tono de la obra — pero cualquier parodia debe evitarse literalmente en el arte final si compromete marcas registradas de terceros; sirve como justificación de tono, no como plantilla a copiar.
 - **Qué otras láminas del servidor se le parecen**: igual que constató 43, en `biblias/_ya_hechas/` no hay ninguna comedia romántica escolar; si en el futuro se hace una biblia de una obra dirigida por Shinbo/Shaft (Monogatari, Madoka Magica) o de otra comedia con muchas referencias pop (Gintama, Nichijou), conviene repasar esta parte antes de proponer conceptos, para no repetir el gag de "parodia de portada/cartel".
 
+### 25 · El mundo, la historia y sus símbolos (foco: comedia)
+
+43 ya cubrió a fondo las reglas del mundo (Shuchi'in, el Consejo Estudiantil, "quien confiesa pierde"), los arcos y los símbolos principales (el corazón+pulso del logo, Cubari Facaccimo, el teléfono plegable de Kaguya, los zaibatsu). No lo repito. Sumo el **chiste gramatical que da nombre a la serie** (nadie lo explica en 43) y **símbolos cómicos concretos** que no estaban documentados:
+
+- **El propio título japonés es un chiste gramatical**: 「かぐや様は告らせたい」(*Kaguya-sama wa Kokurasetai*) usa el verbo 告る (*kokuru*, jerga juvenil para "declararse") en su forma **causativa** -*setai* ("querer HACER QUE alguien haga algo"). No es "Kaguya quiere confesarse", es "Kaguya quiere OBLIGAR A ÉL a confesarse primero" — el juego de palabras resume en una palabra toda la premisa de la serie (quien confiesa pierde, así que cada uno maniobra para forzar al otro). La traducción inglesa oficial ("Kaguya Wants to Be Confessed To") conserva el sentido pero pierde la gramática exacta. · Fuente: análisis lingüístico cruzado en varias fichas de la obra (MyAnimeList, Wikipedia, TV Tropes) que coinciden en la misma lectura del causativo. ⚠️ (dato lingüístico verificable por gramática japonesa estándar, sin una única fuente primaria citable, pero coincide en todas las fichas consultadas).
+  - El spin-off cómico oficial imita el mismo patrón de título: **「かぐや様を語りたい」** (*Kaguya-sama wo Kataritai*, "querEMOS hablar de Kaguya-sama") usa el mismo sufijo -*tai* ("querer") como broma de familia tipográfica y lingüística con el título principal (ver punto 5/6). ✅ (wikitext de la wiki, página de la obra).
+- **El grito de JoJo de Ishigami, símbolo cómico de personaje**: tras ganarle un pulso a Fujiwara, el personaje más callado y monótono de la serie grita de golpe **"ORAORAORAORAORA! WRYYYYYY!"** (cita directa de *JoJo's Bizarre Adventure*) — el chiste depende de que es la última persona de quien se esperaría ese estallido. Se convirtió en un momento citado por el fandom por el contraste de carácter, no sólo por la referencia en sí. · Fuente: TV Tropes, `ShoutOut/KaguyaSamaLoveIsWar`, episodio 25. ✅.
+- **Objetos-gag reconocibles al instante** (ver punto 5 para la letra de cada uno, no se repite la ficha): el cartel **"Biotic Hazard"** de la casa del terror del festival, y el cartel de mano **"Fooled You"** de Kaguya — dos props de cartulina/rotulador que resumen el humor "cartel casero" de la serie, distinto de los símbolos "serios" que ya documentó 43 (el corazón+pulso, Cubari Facaccimo).
+- **La diadema 「おに」de Chika** (ver `imagen.md`, hoja `comedia_01.jpg` #13): objeto textil de juego escolar, del mismo registro de "rótulo cómico cotidiano" que los carteles de cartulina — vocabulario visual reconocible de un día de gimnasia normal, no de la trama de "guerra mental".
+
 ## Lo mejor para la lámina
 
-(se completa al final)
+1. **El director se formó en Shaft y la serie lo cita directamente**: en el episodio 16 (T2E4), la escena de la campaña de Fujiwara recrea el primer episodio de *Bakemonogatari*, hasta en el guion ilustrado — no es sólo "influencia", hay una escena gemela y prueba en redes (mayo 2020, @AniTrendz). Da pie a una lámina-guiño sin copiar marca ajena.
+2. **El cuadro de diálogo cómico de esta serie no es la cartela seria del Narrador**: es la caja de comentario seco tipo "it took them 104 chapters to find out his name", o un cartel de cartulina como "Fooled You" — mucho más fiel al tono de comedia que pide este encargo.
+3. **3 letras libres nuevas, comprobadas con fontTools** (además de las 8 de 43): **Zen Old Mincho** Black (portada tipo tabloide del spin-off cómico), **Nosifer** (cartel de casa del terror "Biotic Hazard") y **Permanent Marker** (cartel de mano casero) — las tres con á/é/í/ó/ú/ñ/¿/¡ ✅.
+4. **El gag de "Off-Model"** (cabeza y boca se agrandan para la comedia física, cita textual del tropo) se replica en Photoshop con Licuar/Puppet Warp sobre una capa aparte de la cabeza, y en Blender con Shape Keys sobre el mismo rig de 43 — sin tocar cuerpo, cámara ni luz, igual que en el anime real.
+5. **Ishigami, el secundario, grita "ORAORAORAORA! WRYYYYYY!" (JoJo) tras ganar un pulso**: el gag funciona porque es el personaje más callado — encaja con la regla del dueño de que un secundario puede ser más memorable que el protagonista, y da una pose/cita muy reconocible para una lámina.
 
 ## No encontré
 
-(se completa al final)
+- ⚠️ **The Cutting Room Floor (TCRF)**: no tiene página de la franquicia (búsqueda directa en `tcrf.net`). Es coherente: ninguno de los 3 juegos oficiales (navegador, pachislot, ver punto 11) es el tipo de videojuego de consola/PC que cataloga TCRF — no es una búsqueda mal hecha, es que no aplica.
+- ⚠️ **Wayback Machine**: `web.archive.org` no respondió en este contenedor (timeout repetido en `/cdx/search/cdx` y en `WebFetch`) — no se pudo comprobar si el minijuego de Young Jump tuvo una versión anterior archivada. Es un fallo de red del contenedor, no de la web (anotado, no se insistió más de dos veces).
+- ⚠️ **Marcador visual de "puntos" o victorias en pantalla**: busqué si existe un *overlay* gráfico tipo marcador (además del comentario hablado del Narrador, ya documentado por 43) — sólo encontré que fans y medios (CBR) llevan la cuenta de victorias/derrotas de forma editorial fuera de la serie, no un elemento gráfico confirmado dentro del anime. No lo doy por existente sin verlo en un fotograma.
+- ⚠️ No se abrió un fotograma propio de las vallas publicitarias paródicas de la película (Harry Potter/Lupin III/Fantasma de la Ópera/Rey León/Gundam) — están descritas por texto en TV Tropes, pero no se localizó la imagen exacta para medir tamaño/hex; sería un extra para el investigador de imagen o video si hace fotogramas propios de la apertura de la película.
+- No aplica al punto 11 nada más allá de lo ya cerrado por 43: sigue sin existir un juego de rol o de aventura narrativa propio de la franquicia.
 
 ## Bitácora
 
-(se completa al final)
+**Punto de partida** (no repetido): `partes/datos-texto.md` (AniList: ficha, staff, obras parecidas — sección Steam vacía, confirmado por qué en el punto 11 de 43 y reconfirmado aquí).
+
+**Serie hermana**: `biblias/43-kaguya-sama-love-is-war/partes/texto.md` leída entera (186 líneas) antes de empezar — de ahí sale todo lo que aquí se cita como "ya cubierto por 43" y no se repite.
+
+**Wiki de Fandom** `kaguyasama-wa-kokurasetai.fandom.com` (la misma que confirmó 43 e imagen de este encargo):
+- `action=query&list=search` para "poster", "campaign election", "scoreboard" (sin resultado útil para un marcador gráfico).
+- `action=parse&prop=wikitext` leído directo en: Chaotic Election Arc, Talk Chapter 58, Kaguya-sama wo Kataritai, Love is Show (descartada, es un opening musical, no un rótulo).
+- `action=query&prop=imageinfo` para la portada del tomo 1 de *Kaguya-sama wo Kataritai* (bajada, mirada con Read, `/tmp/claude-0/trabajo/90-kaguya-sama-love-is-war-texto/full/talk_vol01_small.jpg`).
+
+**TV Tropes directo** (`tvtropes.org`, no el mirror de Tropedia que usó 43 — **en esta máquina sí respondió** con `herramientas/navegar.py`, confirma lo que decía el aviso de lanzamiento):
+- `Funny/KaguyaSamaLoveIsWar` (`--selector '#main-article' --html --max 0`, texto extraído con Python, ~158 000 caracteres) → cartelas cómicas de remate, cartel "Fooled You".
+- `ShoutOut/KaguyaSamaLoveIsWar` (mismo método, ~18 000 caracteres) → toda la lista de parodias episodio a episodio, incluida la de Bakemonogatari y el cartel "Biotic Hazard".
+- `Manga/KaguyaSamaLoveIsWar` (página principal): el selector trajo sobre todo JavaScript de la plantilla del sitio y la lista de VideoExamples, no el cuerpo de tropos con folders — no se insistió más (ya se cubrió lo importante vía Tropedia, que usó 43, y las dos subpáginas de arriba sí funcionaron limpias).
+- Nota: los números de episodio de TV Tropes son **acumulados** (temporada 2 empieza en "Episode 13"), así que "Episode 16" = temporada 2, episodio 4 — confirmado cruzando con Animehunch, que sí usa la numeración por temporada.
+
+**Fuentes en inglés fuera de wiki**:
+- `en.wikipedia.org/wiki/Shinichi_Omata` (leída completa con `curl` directo, WebFetch la bloqueaba) → carrera del director en Shaft, pseudónimo Mamoru Hatakeyama, filmografía completa con referencias numeradas.
+- `animehunch.com` (leída con `curl` directo, WebFetch bloqueado por el proxy de red) → confirmación secundaria e independiente de la referencia a Bakemonogatari, con fecha (mayo 2020) y capturas de tuits citadas.
+- `cbr.com` (bloqueado por el proxy de red, no se pudo leer directamente) → se dejó como referencia sin verificar el detalle visual del marcador de victorias (ver «No encontré»).
+
+**Búsquedas web** (WebSearch, en inglés):
+1. Mamoru Hatakeyama Shaft Monogatari Kaguya-sama director style
+2. Kaguya-sama anime points scoreboard "points" battle victory overlay text
+3. "Kaguya-sama" cuttingroomfloor.com OR tcrf.net game
+4. "Mamoru Hatakeyama" director style "theatrical" "references to other" anime feature interview
+5. Kaguya-sama Love is War review compared "Monogatari" OR "Nisemonogatari" comedic style visual text
+6. "Kokurasetai" title meaning causative grammar joke Kaguya-sama translation nuance
+
+**Fontsource/fontTools** (obligatorio del punto 5, nuevas de este encargo): `zen-old-mincho` (peso 900/Black), `permanent-marker`, `nosifer` — las tres bajadas en `.ttf` subset `latin` y comprobadas con `fontTools.ttLib.TTFont(f).getBestCmap()` para á/é/í/ó/ú/ñ/¿/¡/Á/Ñ: las tres completas ✅. Script y `.ttf` en `/tmp/claude-0/trabajo/90-kaguya-sama-love-is-war-texto/fonts/`.
+
+No quedan puntos obligatorios pendientes de este rol (5, 6, 11, 18, 24, 25 completos, con el enfoque de comedia y rótulos que pide el encargo 90). Parte terminada.
