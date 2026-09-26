@@ -91,7 +91,7 @@ para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo
 
 ### Malenia
 
-| Pose | Vídeo | Minuto | Sirve para |
+| Pose | Episodio (vídeo) | Minuto | Sirve para |
 |---|---|---|---|
 | De pie, brazo protésico dorado alzado, mirada fija a la cámara | https://www.dailymotion.com/video/x89wlj1&t=0 | 0:00 | Presentar / portada |
 | Girando en el aire dejando estelas blancas en abanico (Waterfowl Dance) | https://www.dailymotion.com/video/x89wlj1&t=32 | 0:32 | Celebrar / acción |
@@ -102,7 +102,7 @@ para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo
 
 ### Melina
 
-| Pose | Vídeo | Minuto | Sirve para |
+| Pose | Episodio (vídeo) | Minuto | Sirve para |
 |---|---|---|---|
 | Primer plano de perfil, capucha y capa, cuerno/rama dorada visible en la sien | https://www.dailymotion.com/video/x89nx9b&t=192 | 3:12 | Presentar |
 | Rostro de frente mirando a cámara, ojo azul brillante, fondo oscuro | https://www.dailymotion.com/video/x89nx9b&t=200 | 3:20 | Explicar (mirada directa, tono solemne) |

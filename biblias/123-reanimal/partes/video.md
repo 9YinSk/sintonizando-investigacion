@@ -164,5 +164,4 @@ forgiving» que Little Nightmares).
 - WebSearch (inglés/español): «Reanimal TikTok viral moment reaction», «Reanimal review análisis Little Nightmares comparación horror 2026», «"Reanimal" tricycle scene chapter wiki jumpscare».
 - Steam (`store.steampowered.com/app/2129530`): descargué 4 capturas oficiales 1920×1080 directamente para medir hex y confirmar escenas de los tráilers.
 - `ambientcg.com/api/v2/full_json` (texturas): 2 intentos sin resultado; no insistí más.
-
-Sigue: confirmar el sitio exacto de la captura de la celda circular con barrotes (campaña base o DLC) y, si se puede, un clip con minuto exacto de la persecución en triciclo de Sniffer (cap. 2).
+- **Segunda pasada (modo seguir)**: Dailymotion API `Reanimal gameplay walkthrough` → encontré «REANIMAL Full Gameplay Demo 45 Minutes» (`x9tibzi`, 45:46). `fotogramas.py --cada 30/15` sobre los primeros 35 min (3 tandas) para localizar la celda del cap. 1 y buscar el triciclo del cap. 2. `reanimal.fandom.com/api.php`: wikitext de The Prisoner (Chapter), The Prisoner (Character), Bandage, Bucket, Hood, No Shelter, The Spoils, Masked Children — para identificar con certeza quién es quién en cada fotograma (la primera pasada tenía al Niño y la Niña cruzados en dos escenas, ya corregido en los puntos 2 y 14). `yt-dlp` contra TikTok (`@.reanimal_ln`): bloqueado, sin vía alterna.
