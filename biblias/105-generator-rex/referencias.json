@@ -1,50 +1,5 @@
 [
  {
-  "url": "https://safebooru.org/images/4619/bd90c8a4f95681f298f48854efb05c4c7cd6b0bb.jpg",
-  "fuente": "Safebooru (fan art, origen twitter.com/_obarii)",
-  "ancho": 2753,
-  "alto": 3540,
-  "que_es": "Fan art de Rex con ojos brillantes, fondo oscuro dramático, tamaño de wallpaper",
-  "para_que": "candidato a fondo de pantalla vertical; referencia de estilo, nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://ambientcg.com/view?id=Metal055A",
-  "fuente": "ambientcg",
-  "ancho": 2048,
-  "alto": 2048,
-  "que_es": "Textura CC0 de metal cepillado (tamaño estándar de descarga, hasta 8K)",
-  "para_que": "textura 2D para los builds mecánicos de Rex y los EVOs metálicos (punto 19)",
-  "licencia": "CC0"
- },
- {
-  "url": "https://ambientcg.com/view?id=CorrugatedSteel009",
-  "fuente": "ambientcg",
-  "ancho": 2048,
-  "alto": 2048,
-  "que_es": "Textura CC0 de acero corrugado (tamaño estándar de descarga, hasta 8K)",
-  "para_que": "textura 2D para la arquitectura industrial de Providence",
-  "licencia": "CC0"
- },
- {
-  "url": "https://ambientcg.com/view?id=Fabric066",
-  "fuente": "ambientcg",
-  "ancho": 2048,
-  "alto": 2048,
-  "que_es": "Textura CC0 de tela de lona/algodón caqui (tamaño estándar de descarga, hasta 8K)",
-  "para_que": "textura 2D para el chaleco de Bobo y los uniformes de Providence",
-  "licencia": "CC0"
- },
- {
-  "url": "https://safebooru.org/images/75/788570e88ab6810e442e2f7e6a71c283bcac954a.jpg",
-  "fuente": "Safebooru (fan art, origen x.com/LuisGangMD)",
-  "ancho": 1603,
-  "alto": 2048,
-  "que_es": "Fan art de Rex con alas y espada mecánicas, pose de acción, alta resolución",
-  "para_que": "referencia de pose y de estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
   "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/4/4a/GenRexBen10.jpeg",
   "fuente": "Generator Rex Wiki (Fandom)",
   "ancho": 1920,
@@ -52,24 +7,6 @@
   "que_es": "Imagen promocional oficial del crossover Ben 10/Generator Rex: Heroes United, en alta resolución",
   "para_que": "fondo de pantalla / lámina en alta; referencia de colaboración",
   "licencia": "© Cartoon Network; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/e/e4/Rex_Build_Omnitrix.webp/revision/latest?cb=20240809033333",
-  "fuente": "Generator Rex Wiki (Fandom)",
-  "ancho": 1125,
-  "alto": 1377,
-  "que_es": "Arte promocional del crossover Ben 10/Generator Rex: Heroes United, Rex con Omnitrix",
-  "para_que": "referencia de colaboración/crossover (punto 23) y pose de acción",
-  "licencia": "© Cartoon Network; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/e/e4/Rex_Build_Omnitrix.webp",
-  "fuente": "Generator Rex Wiki (Fandom)",
-  "ancho": 1125,
-  "alto": 1377,
-  "que_es": "Arte promocional del crossover Ben 10/Generator Rex: Heroes United (recogido ya por el investigador de imagen)",
-  "para_que": "referencia para el punto 24 (obra parecida/crossover oficial con Ben 10)",
-  "licencia": "© Cartoon Network / Man of Action; sólo referencia"
  },
  {
   "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/7/7a/Providence_Certificate.jpg/revision/latest?cb=20230512135220",
@@ -81,15 +18,6 @@
   "licencia": "© Cartoon Network; captura de la serie, sólo referencia"
  },
  {
-  "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/7/7a/Providence_Certificate.jpg",
-  "fuente": "Generator Rex Wiki (Fandom)",
-  "ancho": 1208,
-  "alto": 920,
-  "que_es": "Certificado \"Decree of Commendation\" de Providence: prop con el logo de Providence (P geométrica) y tipografía de sello burocrático/diploma",
-  "para_que": "referencia de tipografía del mundo (punto 5) y símbolo de Providence (punto 25)",
-  "licencia": "© Cartoon Network / Man of Action; captura de la serie, sólo referencia"
- },
- {
   "url": "https://www.dailymotion.com/video/xa14dbg",
   "fuente": "Dailymotion (World Cartoon Videos)",
   "ancho": 1280,
@@ -99,58 +27,13 @@
   "licencia": "Cartoon Network / Man of Action — resubida sin licencia libre, sólo referencia"
  },
  {
-  "url": "https://www.dailymotion.com/video/x1n1tr1&t=20",
-  "fuente": "Dailymotion (TheCollectorX)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Créditos de cierre de un episodio con nombres del equipo de música y producción",
-  "para_que": "Confirmar compositor (Kevin Manthei) y tema principal (Orange); punto 9",
-  "licencia": "Cartoon Network Studios — sólo referencia"
- },
- {
-  "url": "https://www.dailymotion.com/video/x84bg5o",
-  "fuente": "Dailymotion (3djuegos)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Tráiler oficial del videojuego Generator Rex: Agent of Providence (Activision, 2010)",
-  "para_que": "Fondos de sitios (patio colonial, interior de ruinas) y poses de combate 3D; puntos 4, 10, 14",
-  "licencia": "Activision / Cartoon Network — sólo referencia"
- },
- {
-  "url": "https://www.dailymotion.com/video/x2tkgs7",
-  "fuente": "Dailymotion (Tiould1989), marca de agua Cartoon Network visible",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Clip promocional del episodio Operation: Wingman (T1E11)",
-  "para_que": "Escena icónica con episodio confirmado; pose de Six saltando de noche; puntos 2, 4, 14",
-  "licencia": "Cartoon Network — sólo referencia"
- },
- {
-  "url": "https://www.dailymotion.com/video/x2tkhza&t=14",
-  "fuente": "Dailymotion (Chre1977), montaje de fans sobre metraje real",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Primer plano de Agent Six, fotograma de emisión real reeditado por un fan",
-  "para_que": "Referencia de diseño de Six de cerca; punto 2",
-  "licencia": "Cartoon Network — sólo referencia; edición de fan"
- },
- {
-  "url": "https://archive.org/details/rex-salazar-all-powers-fights-scenes-1-generator-rex-s-01",
-  "fuente": "Internet Archive",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Compilación de fan de los poderes y peleas de Rex en la temporada 1",
-  "para_que": "Poses de poderes (Smack Hands, Punk Busters) sin episodio identificado; puntos 2, 14",
-  "licencia": "Cartoon Network — resubida por fan, sólo referencia"
- },
- {
-  "url": "https://sketchfab.com/3d-models/rex-salazarpunkbusters-2ced5b0c57a84131b1ad20fca7999e38",
-  "fuente": "Sketchfab",
-  "ancho": 1024,
-  "alto": 576,
-  "que_es": "Modelo 3D descargable del build Punk Busters de Rex Salazar, 17574 caras, por StevenS1",
-  "para_que": "referencia 3D de una de las máquinas/builds de Rex",
-  "licencia": "CC Attribution"
+  "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/e/e4/Rex_Build_Omnitrix.webp/revision/latest?cb=20240809033333",
+  "fuente": "Generator Rex Wiki (Fandom)",
+  "ancho": 1125,
+  "alto": 1377,
+  "que_es": "Arte promocional del crossover Ben 10/Generator Rex: Heroes United, Rex con Omnitrix",
+  "para_que": "referencia de colaboración/crossover (punto 23) y pose de acción",
+  "licencia": "© Cartoon Network; sólo referencia"
  },
  {
   "url": "https://archive.org/download/generator-rex-website-tour/generator-rex-website-tour.thumbs/Generator%20Rex%20Website%20Tour_000029.jpg",
@@ -169,6 +52,24 @@
   "que_es": "Captura del visor 3D interactivo de los \"builds\" de Rex en el sitio oficial, con pantalla de carga tipo interfaz de videojuego",
   "para_que": "referencia de interfaz de videojuego/sitio (puntos 6 y 11)",
   "licencia": "© Cartoon Network; grabación de usuario en Internet Archive, sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x84bg5o",
+  "fuente": "Dailymotion (3djuegos)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial del videojuego Generator Rex: Agent of Providence (Activision, 2010)",
+  "para_que": "Fondos de sitios (patio colonial, interior de ruinas) y poses de combate 3D; puntos 4, 10, 14",
+  "licencia": "Activision / Cartoon Network — sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x2tkgs7",
+  "fuente": "Dailymotion (Tiould1989), marca de agua Cartoon Network visible",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Clip promocional del episodio Operation: Wingman (T1E11)",
+  "para_que": "Escena icónica con episodio confirmado; pose de Six saltando de noche; puntos 2, 4, 14",
+  "licencia": "Cartoon Network — sólo referencia"
  },
  {
   "url": "https://static.wikia.nocookie.net/generatorrexpedia/images/8/8a/Generator_Rex_volume_1.jpg",
@@ -252,6 +153,15 @@
   "licencia": "© Mattel / Cartoon Network; foto de producto, sólo referencia"
  },
  {
+  "url": "https://sketchfab.com/3d-models/rex-salazarpunkbusters-2ced5b0c57a84131b1ad20fca7999e38",
+  "fuente": "Sketchfab",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Modelo 3D descargable del build Punk Busters de Rex Salazar, 17574 caras, por StevenS1",
+  "para_que": "referencia 3D de una de las máquinas/builds de Rex",
+  "licencia": "CC Attribution"
+ },
+ {
   "url": "https://sketchfab.com/3d-models/the-meta-nanites-generator-rex-fbx-96c7ebeae4984f1795bfc03566b0c994",
   "fuente": "Sketchfab",
   "ancho": 64,
@@ -288,6 +198,60 @@
   "licencia": "CC Attribution"
  },
  {
+  "url": "https://sketchfab.com/3d-models/none-e113a940c5a9445e8364145f8202dc13",
+  "fuente": "Sketchfab (GeneratedSentience)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D del nanito Omega-1",
+  "para_que": "objeto en Blender para una lámina de nanitos (licencia CC BY a confirmar en la ficha)",
+  "licencia": "CC Attribution (⚠️ una fuente)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/rexs-nanites-fcb18f29fade4093a12220f65d71e361",
+  "fuente": "Sketchfab (DigiWiz)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Modelo 3D «Rex's Nanites», 4752 caras",
+  "para_que": "nube de nanitos en Blender",
+  "licencia": "CC Attribution (⚠️ una fuente)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-27fcb1daca6248fd8e880e211405ad3b",
+  "fuente": "Sketchfab (GeneratedSentience)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "«The Meta-Nanites | Generator Rex» en STL, para imprimir",
+  "para_que": "versión imprimible del nanito para una foto real o un evento",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x1n1tr1&t=20",
+  "fuente": "Dailymotion (TheCollectorX)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Créditos de cierre de un episodio con nombres del equipo de música y producción",
+  "para_que": "Confirmar compositor (Kevin Manthei) y tema principal (Orange); punto 9",
+  "licencia": "Cartoon Network Studios — sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x2tkhza&t=14",
+  "fuente": "Dailymotion (Chre1977), montaje de fans sobre metraje real",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Primer plano de Agent Six, fotograma de emisión real reeditado por un fan",
+  "para_que": "Referencia de diseño de Six de cerca; punto 2",
+  "licencia": "Cartoon Network — sólo referencia; edición de fan"
+ },
+ {
+  "url": "https://archive.org/details/rex-salazar-all-powers-fights-scenes-1-generator-rex-s-01",
+  "fuente": "Internet Archive",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Compilación de fan de los poderes y peleas de Rex en la temporada 1",
+  "para_que": "Poses de poderes (Smack Hands, Punk Busters) sin episodio identificado; puntos 2, 14",
+  "licencia": "Cartoon Network — resubida por fan, sólo referencia"
+ },
+ {
   "url": "https://archive.org/details/PS3_Longplay_141_Generator_Rex_Agent_of_Providence",
   "fuente": "Internet Archive",
   "ancho": 0,
@@ -297,31 +261,139 @@
   "licencia": "vídeo de usuario en Internet Archive; el juego es © Cartoon Network / THQ, sólo referencia"
  },
  {
-  "url": "https://generatorrex.fandom.com/wiki/Generator_Rex:_Agent_of_Providence",
-  "fuente": "Generator Rex Wiki (Fandom)",
+  "url": "https://archive.org/details/tvtunes_16677",
+  "fuente": "Internet Archive",
   "ancho": 0,
   "alto": 0,
-  "que_es": "Ficha completa del videojuego de consola: armas jugables, niveles, árbol de habilidades por arma, personajes",
-  "para_que": "fuente de texto para el punto 11 (videojuegos de la franquicia)",
-  "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+  "que_es": "Audio del tema de apertura (Revolution) sin vídeo, 616 descargas",
+  "para_que": "Escuchar el tema completo sin depender de YouTube; punto 9",
+  "licencia": "Cartoon Network — sólo referencia"
  },
  {
-  "url": "https://generatorrex.fandom.com/wiki/M._Rex",
-  "fuente": "Generator Rex Wiki (Fandom)",
+  "url": "https://archive.org/details/cartoon-network-turkiye-generator-rex-acilis-2011-2016",
+  "fuente": "Internet Archive",
   "ancho": 0,
   "alto": 0,
-  "que_es": "Ficha del cómic precursor M. Rex (1999, Image Comics), creado por Joe Kelly y Duncan Rouleau",
-  "para_que": "fuente de texto para el punto 24 (obra parecida/origen de la franquicia)",
-  "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+  "que_es": "Anuncio de estreno del opening en Cartoon Network Turquía",
+  "para_que": "Alcance internacional de la emisión; punto 10",
+  "licencia": "Cartoon Network — sólo referencia"
  },
  {
-  "url": "https://generatorrex.fandom.com/wiki/Jose_Lopez",
-  "fuente": "Generator Rex Wiki (Fandom)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Ficha del diseñador de personajes Jose Lopez, con su trayectoria (Jackie Chan Adventures, Green Lantern: First Flight, Transformers: Prime)",
-  "para_que": "fuente de texto para el punto 18 (estilo de dibujo y técnica) y 24 (obras parecidas)",
-  "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+  "url": "https://safebooru.org/images/4619/bd90c8a4f95681f298f48854efb05c4c7cd6b0bb.jpg",
+  "fuente": "Safebooru (fan art, origen twitter.com/_obarii)",
+  "ancho": 2753,
+  "alto": 3540,
+  "que_es": "Fan art de Rex con ojos brillantes, fondo oscuro dramático, tamaño de wallpaper",
+  "para_que": "candidato a fondo de pantalla vertical; referencia de estilo, nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/75/788570e88ab6810e442e2f7e6a71c283bcac954a.jpg",
+  "fuente": "Safebooru (fan art, origen x.com/LuisGangMD)",
+  "ancho": 1603,
+  "alto": 2048,
+  "que_es": "Fan art de Rex con alas y espada mecánicas, pose de acción, alta resolución",
+  "para_que": "referencia de pose y de estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/a1c1bd448c9d0def94e3c9a2596cc5c92223e453.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3050,
+  "alto": 1951,
+  "que_es": "Fan art de rex_salazar (https://i.pximg.net/img-original/img/2022/01/09/04/06/48/95398777_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4369/a6af41fe3ca022b2305210df8a84d36641f5a697.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1431,
+  "alto": 2013,
+  "que_es": "Fan art de rex_salazar (https://i.pximg.net/img-original/img/2012/03/10/22/28/51/25697888_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4369/958bea3ed9f7e5c2f97f97feedb5e1e913109495.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 1817,
+  "que_es": "Fan art de rex_salazar (https://i.pximg.net/img-original/img/2012/03/10/22/28/51/25697888_p1.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2372/8982f9bccc8c518a40b1b8bf6cf53a71b58a9036.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 900,
+  "que_es": "Fan art de rex_salazar (https://timothypan.deviantart.com/art/Heroes-United-667053225)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2107/ac9ab22fec18b551b7ccbe851f5993751bdd9389.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1024,
+  "alto": 576,
+  "que_es": "Fan art de rex_salazar (http://steveahn.deviantart.com/art/Ben-10-and-Generator-Rex-498104237)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2372/c993e153e4d5bf99019db3ea71071f0707e14ca9.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 600,
+  "alto": 900,
+  "que_es": "Fan art de rex_salazar (https://timothypan.deviantart.com/art/Rex-666628585)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1053/7eaae138d28344ab973a773993184864a7d53cfc.jpg",
+  "fuente": "Safebooru (fan art, origen Pixiv)",
+  "ancho": 1143,
+  "alto": 1210,
+  "que_es": "Fan art de Rex con el Slam Cannon en el brazo, estilo fiel a la serie",
+  "para_que": "referencia de pose con su máquina (nunca para pegar)",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1344/15544a796f788687b55a99aad28ba1e1bcbe809f.jpg",
+  "fuente": "Safebooru (fan art, origen x.com/Zero_zoner)",
+  "ancho": 850,
+  "alto": 1100,
+  "que_es": "Fan art del cruce Rex + Ben Tennyson",
+  "para_que": "referencia de pareja Rex y Ben para una lámina de crossover",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Metal055A",
+  "fuente": "ambientcg",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura CC0 de metal cepillado (tamaño estándar de descarga, hasta 8K)",
+  "para_que": "textura 2D para los builds mecánicos de Rex y los EVOs metálicos (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=CorrugatedSteel009",
+  "fuente": "ambientcg",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura CC0 de acero corrugado (tamaño estándar de descarga, hasta 8K)",
+  "para_que": "textura 2D para la arquitectura industrial de Providence",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Fabric066",
+  "fuente": "ambientcg",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura CC0 de tela de lona/algodón caqui (tamaño estándar de descarga, hasta 8K)",
+  "para_que": "textura 2D para el chaleco de Bobo y los uniformes de Providence",
+  "licencia": "CC0"
  },
  {
   "url": "https://fonts.google.com/specimen/Black+Ops+One",
@@ -369,6 +441,33 @@
   "licencia": "Gratis sólo para uso personal; prohibido uso público sin permiso del autor (ver License - READ THIS.txt)"
  },
  {
+  "url": "https://generatorrex.fandom.com/wiki/Generator_Rex:_Agent_of_Providence",
+  "fuente": "Generator Rex Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha completa del videojuego de consola: armas jugables, niveles, árbol de habilidades por arma, personajes",
+  "para_que": "fuente de texto para el punto 11 (videojuegos de la franquicia)",
+  "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+ },
+ {
+  "url": "https://generatorrex.fandom.com/wiki/M._Rex",
+  "fuente": "Generator Rex Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del cómic precursor M. Rex (1999, Image Comics), creado por Joe Kelly y Duncan Rouleau",
+  "para_que": "fuente de texto para el punto 24 (obra parecida/origen de la franquicia)",
+  "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+ },
+ {
+  "url": "https://generatorrex.fandom.com/wiki/Jose_Lopez",
+  "fuente": "Generator Rex Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha del diseñador de personajes Jose Lopez, con su trayectoria (Jackie Chan Adventures, Green Lantern: First Flight, Transformers: Prime)",
+  "para_que": "fuente de texto para el punto 18 (estilo de dibujo y técnica) y 24 (obras parecidas)",
+  "licencia": "texto de wiki bajo CC BY-SA (Fandom); sólo como referencia/cita"
+ },
+ {
   "url": "https://generatorrex.fandom.com/wiki/Soundtrack_of_Generator_Rex",
   "fuente": "Generator Rex Wiki (Fandom)",
   "ancho": 0,
@@ -405,24 +504,6 @@
   "licencia": "CC BY-SA (Fandom)"
  },
  {
-  "url": "https://archive.org/details/tvtunes_16677",
-  "fuente": "Internet Archive",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Audio del tema de apertura (Revolution) sin vídeo, 616 descargas",
-  "para_que": "Escuchar el tema completo sin depender de YouTube; punto 9",
-  "licencia": "Cartoon Network — sólo referencia"
- },
- {
-  "url": "https://archive.org/details/cartoon-network-turkiye-generator-rex-acilis-2011-2016",
-  "fuente": "Internet Archive",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Anuncio de estreno del opening en Cartoon Network Turquía",
-  "para_que": "Alcance internacional de la emisión; punto 10",
-  "licencia": "Cartoon Network — sólo referencia"
- },
- {
   "url": "https://orangeband.bandcamp.com/track/revolution",
   "fuente": "Bandcamp (banda Orange)",
   "ancho": 0,
@@ -439,509 +520,5 @@
   "que_es": "Artículo sobre la banda pop-punk Orange",
   "para_que": "Tercera fuente de autoría del opening; punto 9",
   "licencia": "CC BY-SA (Wikipedia)"
- },
- {
-  "url": "https://safebooru.org/images/4619/a1c1bd448c9d0def94e3c9a2596cc5c92223e453.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 3050,
-  "alto": 1951,
-  "que_es": "Fan art de rex_salazar (https://i.pximg.net/img-original/img/2022/01/09/04/06/48/95398777_p0.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2224/8e0c502b9100f557b73e7b11fccfc2ed72ff52e1.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1977,
-  "alto": 2361,
-  "que_es": "Fan art de starfire (https://twitter.com/Punziella/status/902151348845551616)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3062/c6d5adb6853dcdc911b0011d7f02d7c2496410ab.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1500,
-  "alto": 2919,
-  "que_es": "Fan art de marceline_abadeer (https://twitter.com/OmyChan2/status/1295517616380039176)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3237/8c64478c659bd0c338183b98e96a6ad340c46b41.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1704,
-  "alto": 2048,
-  "que_es": "Fan art de raven_(dc) (http://twitter.com/urucra/status/1360137557292457987)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2237/0480c56061b0b8c941203858cce5b1e180c46f4a.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1576,
-  "alto": 2048,
-  "que_es": "Fan art de robin_(dc) (https://twitter.com/_gabrielpicolo/status/907431248330665984)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3742/7e369b8ae4dab64811c1337b4bf6fe6992f374ae.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 2069,
-  "alto": 1451,
-  "que_es": "Fan art de princess_bonnibel_bubblegum (https://www.reddit.com/r/jerma985/comments/teg883/the_most_insane_commission_ive_done/)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2876/a2d1996b54579c650b1f7486371288103056f508.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1442,
-  "alto": 2048,
-  "que_es": "Fan art de raven_(dc) (https://i.pximg.net/img-original/img/2019/09/02/23/14/54/76595336_p0.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2237/9b1dec00ccf7952664956532d16f0adee7b45758.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1434,
-  "alto": 2048,
-  "que_es": "Fan art de raven_(dc) (https://twitter.com/_gabrielpicolo/status/892374593746464769)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4369/a6af41fe3ca022b2305210df8a84d36641f5a697.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1431,
-  "alto": 2013,
-  "que_es": "Fan art de rex_salazar (https://i.pximg.net/img-original/img/2012/03/10/22/28/51/25697888_p0.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4369/958bea3ed9f7e5c2f97f97feedb5e1e913109495.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1280,
-  "alto": 1817,
-  "que_es": "Fan art de rex_salazar (https://i.pximg.net/img-original/img/2012/03/10/22/28/51/25697888_p1.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/1064/154771dfac338e8c74005361bf583bf72294455e.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1240,
-  "alto": 1754,
-  "que_es": "Fan art de marceline_abadeer (http://i2.pixiv.net/img36/img/anya-noir/36048509.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4107/7a3cf00bf33f202d312b0931e2a0eb3dbfcefa57.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1279,
-  "alto": 1434,
-  "que_es": "Fan art de starfire (https://twitter.com/Batrobin_k/status/1634832931142369280)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3296/40223eec13034a9ac6fcccf7b425735487a9b0a4.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1198,
-  "alto": 1481,
-  "que_es": "Fan art de princess_bonnibel_bubblegum (https://casanovakevin.tumblr.com/post/154406166415)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/887/1feb3a325f8411ea0ab2678f3105c20a270dda52.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1000,
-  "alto": 1127,
-  "que_es": "Fan art de robin_(dc) (http://i2.pixiv.net/img14/img/ladama/28706912.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2372/8982f9bccc8c518a40b1b8bf6cf53a71b58a9036.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1200,
-  "alto": 900,
-  "que_es": "Fan art de rex_salazar (https://timothypan.deviantart.com/art/Heroes-United-667053225)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/4916/45291982145_bbbd50a65c_b.jpg",
-  "fuente": "Openverse (nasa)",
-  "ancho": 1024,
-  "alto": 1024,
-  "que_es": "NASA's OSIRIS-REx Spacecraft Arrives at Asteroid Bennu",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC 2.0, autor NASA's Marshall Space Flight Center"
- },
- {
-  "url": "https://safebooru.org/images/1063/b9ca8a3d1d962458bbf1c1e684114c60daba1e18.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 800,
-  "alto": 1171,
-  "que_es": "Fan art de marceline_abadeer (http://i1.pixiv.net/img43/img/l8308032/38459162.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/3005/2624602755_9dc0af66fc_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 846,
-  "alto": 1024,
-  "que_es": "Barbers' Garden: June 30, 2008: Same Pots as Below",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC 2.0, autor bill barber"
- },
- {
-  "url": "https://live.staticflickr.com/6096/6233068460_74e6a4c02b_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 793,
-  "que_es": "Photo-Montage-Famous-People-Blind-Low-Vision-Cover Page",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC-SA 2.0, autor ItsOurStory.org"
- },
- {
-  "url": "https://safebooru.org/images/1063/95879f31e174e09f4fbf52b731532a3f25d7079e.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 768,
-  "alto": 1024,
-  "que_es": "Fan art de marceline_abadeer (http://i2.pixiv.net/img90/img/magicangel13/30949066.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/5129/5344563907_e0a11184ec_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 768,
-  "que_es": "General Rex Ryan",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC-SA 2.0, autor beedubz"
- },
- {
-  "url": "https://live.staticflickr.com/3919/15320935656_aba9d89912_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 768,
-  "que_es": "Tyrannosaurus rex theropod dinosaur (Hell Creek Formation, Upper Cretaceous;…",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY 2.0, autor James St. John"
- },
- {
-  "url": "https://live.staticflickr.com/3918/15157270200_fbb0cde9ec_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 768,
-  "que_es": "Tyrannosaurus rex theropod dinosaur (Hell Creek Formation, Upper Cretaceous;…",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY 2.0, autor James St. John"
- },
- {
-  "url": "https://live.staticflickr.com/2943/15340794381_7a43c28f30_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 768,
-  "que_es": "Tyrannosaurus rex theropod dinosaur (Hell Creek Formation, Upper Cretaceous;…",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY 2.0, autor James St. John"
- },
- {
-  "url": "https://safebooru.org/images/1900/fb1e757288db9f9ef70bec9d99ec181df00c9c12.jpeg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 500,
-  "alto": 1506,
-  "que_es": "Fan art de robin_(dc) (http://www.pixiv.net/member_illust.php?id=155678)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/5491/12189696073_8d82d0aabe_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 703,
-  "alto": 1024,
-  "que_es": "King, Stephen - 11/22/63 (2011 HB)",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC 2.0, autor sdobie"
- },
- {
-  "url": "https://safebooru.org/images/125/730ea0f647d23b144d3d14215006bb7069c81078.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 660,
-  "alto": 1080,
-  "que_es": "Fan art de robin_(dc) (http://fc09.deviantart.com/fs12/f/2006/329/1/a/Robin_and_Batgirl_by_JenZee.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/1203/1411370802_ea0e316f21_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 692,
-  "alto": 1024,
-  "que_es": "Tuberous Begonias",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC 2.0, autor bill barber"
- },
- {
-  "url": "https://live.staticflickr.com/3244/2803770997_34d7b9a86a_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 691,
-  "alto": 1024,
-  "que_es": "Coke Side of Life: Coca-Cola Art Remix",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC 2.0, autor Coca-Cola Art Gallery"
- },
- {
-  "url": "https://live.staticflickr.com/7036/6965947037_05af0af549_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 683,
-  "que_es": "dinosaurs",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY 2.0, autor psiaki"
- },
- {
-  "url": "https://live.staticflickr.com/8107/8459416265_af32f4e4e7_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 681,
-  "que_es": "Ocean Liner, Conte Di Savoia, Italian Line, Flotte, Riunite Genova",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC-ND 2.0, autor photolibrarian"
- },
- {
-  "url": "https://live.staticflickr.com/65535/52003292029_23b33c1ef2_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 681,
-  "que_es": "Thevenard. Eyre Peninsula. The second busiest port in South Australia. Salt and…",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-ND 2.0, autor denisbin"
- },
- {
-  "url": "https://safebooru.org/images/3482/6e89c230194579a1212e3845d9b6d6bee6d2dd9f.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 846,
-  "alto": 821,
-  "que_es": "Fan art de marceline_abadeer (https://twitter.com/_Myrarose_/status/1411100002357858306)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3160/3aee02bfd4d64b6feef100a6c727cad1c51b02ad.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 700,
-  "alto": 987,
-  "que_es": "Fan art de marceline_abadeer (https://twitter.com/nak4675/status/1332946482459070464)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/51/187079947_f926db0993_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 670,
-  "que_es": "T-Rex",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC 2.0, autor Humanoide"
- },
- {
-  "url": "https://safebooru.org/images/369/2f8236205f87432ce32f8eb2c17828ab57e60ce8.jpeg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 600,
-  "alto": 1130,
-  "que_es": "Fan art de raven_(dc) (http://img24.pixiv.net/img/fullco/6612222.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/3781/11642097595_0129d427f0_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 652,
-  "que_es": "p011469",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-SA 2.0, autor PhotosNormandie"
- },
- {
-  "url": "https://safebooru.org/images/876/23b76efb5af26ab287448bfdbcb11bcfefeec490.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 900,
-  "alto": 688,
-  "que_es": "Fan art de raven_(dc) (http://fc02.deviantart.net/fs70/i/2012/213/b/b/starfire____by_promisemaker-d59en86.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/65535/23511033188_974a934a04_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 589,
-  "que_es": "Circa 1923 - 'COMO CAFE & BOATSHEDS', Como, Sydney, New South Wales, Australia…",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC-SA 2.0, autor aussiejeff"
- },
- {
-  "url": "https://safebooru.org/images/2107/ac9ab22fec18b551b7ccbe851f5993751bdd9389.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1024,
-  "alto": 576,
-  "que_es": "Fan art de rex_salazar (http://steveahn.deviantart.com/art/Ben-10-and-Generator-Rex-498104237)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/1888/44463900682_357224002c_b.jpg",
-  "fuente": "Openverse (nasa)",
-  "ancho": 1024,
-  "alto": 576,
-  "que_es": "#TBT: OSIRIS-Rex Launches – Sept. 8, 2016",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC 2.0, autor NASA's Marshall Space Flight Center"
- },
- {
-  "url": "https://safebooru.org/images/1377/7d34e32787f80472d5c8345028f881b7228ab16a.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 692,
-  "alto": 824,
-  "que_es": "Fan art de princess_bonnibel_bubblegum (http://i3.pixiv.net/img-original/img/2015/03/10/02/06/12/49192338_p0.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2372/c993e153e4d5bf99019db3ea71071f0707e14ca9.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 600,
-  "alto": 900,
-  "que_es": "Fan art de rex_salazar (https://timothypan.deviantart.com/art/Rex-666628585)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/909/fe67ff75325d8460373583cdff1ca135.jpeg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 700,
-  "alto": 670,
-  "que_es": "Fan art de starfire (sin origen)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/342/c25d37471e25be47d1cb8bd9d30c423a17625e2f.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 766,
-  "alto": 600,
-  "que_es": "Fan art de robin_(dc) (http://img30.pixiv.net/img/bacalorieta/8715960.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/3917/15340795121_5b230e42e6_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 1024,
-  "alto": 372,
-  "que_es": "Tyrannosaurus rex theropod dinosaur (Hell Creek Formation, Upper Cretaceous;…",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY 2.0, autor James St. John"
- },
- {
-  "url": "https://live.staticflickr.com/5164/5377980033_74d2825253_b.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 372,
-  "alto": 1024,
-  "que_es": "Metal Grudge Article",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC BY-NC-SA 2.0, autor mahjqa"
- },
- {
-  "url": "https://safebooru.org/images/842/70cd1a5318e3a55d6b742e346822cc5ce0e1e67a.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 600,
-  "alto": 600,
-  "que_es": "Fan art de raven_(dc) (http://img14.pixiv.net/img/ladama/11068577.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://live.staticflickr.com/3629/3471559441_53a6e07670.jpg",
-  "fuente": "Openverse (flickr)",
-  "ancho": 395,
-  "alto": 500,
-  "que_es": "King Edward VI of England",
-  "para_que": "foto real (cosplay, objeto, evento)",
-  "licencia": "CC PDM 1.0, autor lisby1"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-1ca883f237ca4004992cb1124c0ed067",
-  "fuente": "Sketchfab",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D: Cowboy adventure kit #AdventureKitChallenge de Troncature",
-  "para_que": "objeto o personaje 3D para Blender",
-  "licencia": "CC Attribution"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-0ca66411447946afbb02613fcf44f1e5",
-  "fuente": "Sketchfab",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D: Red Sculpted Plains - Terrain de artfromheath",
-  "para_que": "objeto o personaje 3D para Blender",
-  "licencia": "CC Attribution"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-79cce02cfa0b4bc192a91665ba9547c5",
-  "fuente": "Sketchfab",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D: Terrain capture test - Red Rock reserve LV de tojek_vfx",
-  "para_que": "objeto o personaje 3D para Blender",
-  "licencia": "CC Attribution"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-c218cb5146eb47539fee5ff8801508f9",
-  "fuente": "Sketchfab",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D: SciFi Style Generator de Sousinho",
-  "para_que": "objeto o personaje 3D para Blender",
-  "licencia": "CC Attribution"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-a9e4a259da8445f4aff720710cbea017",
-  "fuente": "Sketchfab",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D: No to AI Generated Images (READ DESCIPTION) de Calfan",
-  "para_que": "objeto o personaje 3D para Blender",
-  "licencia": "CC Attribution"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-8fb7f10a79c14e8b80f904ebd1293c6d",
-  "fuente": "Sketchfab",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D: Green Knight de FrazierChristopher",
-  "para_que": "objeto o personaje 3D para Blender",
-  "licencia": "CC Attribution"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-6bd804f3f61a4a5e9dcddddab42cf0f9",
-  "fuente": "Sketchfab",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Modelo 3D: Mercedes- Benz AMG GLC 63s 4MATIC+ de DR1KING100K",
-  "para_que": "objeto o personaje 3D para Blender",
-  "licencia": "CC Attribution"
  }
 ]

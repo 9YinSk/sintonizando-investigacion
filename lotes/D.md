@@ -72,3 +72,4 @@ Cuenta: cuenta I34
 | 42 | equipo completo | Sonnet + Opus | — | — |
 | 45 | equipo completo | Sonnet + Opus | — | — |
 | 43 | redactor | Opus | — | — |
+| 44 | redactor (seguir) | Opus | 8 | 174 k |

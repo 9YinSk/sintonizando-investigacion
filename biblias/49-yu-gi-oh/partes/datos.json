@@ -1,0 +1,612 @@
+[
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Narrator",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1375-J4lAw8j1ICi1.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Yami Yuugi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1378-PVWGuLucDP44.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Seto Kaiba",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1377-QpO3YtEaEMa4.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Katsuya Jonouchi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1374-dZVmlraKNPp3.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Yuugi Mutou",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1489-dsJraGhhWx4y.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Yami Bakura",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5287.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Marik Ishtar",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1379-9rgYwHTOpv0x.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Anzu Mazaki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5994.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mai Kujaku",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5991.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Pegasus Crawford",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1488-kxvTwOy1EvEP.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ryou Bakura",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b330657-yhImUVwuXP3A.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Black Magician Girl",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/5993.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ishizu Ishtar",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5990-Kl7Uv7ILmT6L.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ryuuji Otogi",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/16524.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Mana",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx481-Qpqy1TQBOxZO.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/481-Myzi3sutiRyp.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/1/12/Seto_Kaiba_and_Yami_Yugi_meet_Dartz_%28Yu-Gi-Oh%21_Ep168%29.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 1437,
+  "alto": 1080,
+  "que_es": "Seto Kaiba: Seto Kaiba and Yami Yugi meet Dartz (Yu-Gi-Oh! Ep168).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/9/9a/Kaiba%27s_soul_return_to_his_body_%28Yu-Gi-Oh%21_Ep_182%29.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 1437,
+  "alto": 1080,
+  "que_es": "Seto Kaiba: Kaiba's soul return to his body (Yu-Gi-Oh! Ep 182).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/2/27/Joey%2C_Yami_Yugi%2C_and_Kaiba_captured_by_the_Great_Leviathan_%28Yu-Gi-Oh%21_Ep183%29.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 1437,
+  "alto": 1080,
+  "que_es": "Seto Kaiba: Joey, Yami Yugi, and Kaiba captured by the Great Leviathan (Yu-Gi-Oh! Ep183).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/1/11/Seto_Kaiba_and_Yami_Yugi_ready_for_duel_%28Yu-Gi-Oh%21_Ep177%29.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 1436,
+  "alto": 1080,
+  "que_es": "Seto Kaiba: Seto Kaiba and Yami Yugi ready for duel (Yu-Gi-Oh! Ep177).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/0/05/Yugioh116.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 1200,
+  "alto": 900,
+  "que_es": "Seto Kaiba: Yugioh116.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/e/e5/Kaiba_and_Yami_Yu-Gi-Oh_068.jpg",
+  "fuente": "Fandom yugioh",
+  "ancho": 1086,
+  "alto": 828,
+  "que_es": "Seto Kaiba: Kaiba and Yami Yu-Gi-Oh 068.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/a/ab/Kaiba_and_Pegasus_Yu-Gi-Oh_016.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 1034,
+  "alto": 828,
+  "que_es": "Seto Kaiba: Kaiba and Pegasus Yu-Gi-Oh 016.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/8/8e/Rip.jpg",
+  "fuente": "Fandom yugioh",
+  "ancho": 1003,
+  "alto": 768,
+  "que_es": "Seto Kaiba: Rip.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/6/65/SetoKaibaMD.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 768,
+  "alto": 949,
+  "que_es": "Seto Kaiba: SetoKaibaMD.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/d/dc/Seto_Kaiba.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 905,
+  "alto": 695,
+  "que_es": "Seto Kaiba: Seto Kaiba.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/8/82/Flame_Swordsman_Joey.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 1200,
+  "alto": 900,
+  "que_es": "Joey Wheeler: Flame Swordsman Joey.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/9/97/Joey_wheeler.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 1020,
+  "alto": 765,
+  "que_es": "Joey Wheeler: Joey wheeler.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/7/7f/Jonouchi_Linework.jpg",
+  "fuente": "Fandom yugioh",
+  "ancho": 640,
+  "alto": 921,
+  "que_es": "Joey Wheeler: Jonouchi Linework.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/d/d2/JoeyWheelerMD.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 598,
+  "alto": 834,
+  "que_es": "Joey Wheeler: JoeyWheelerMD.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/1/1b/Joey7xq.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 800,
+  "alto": 600,
+  "que_es": "Joey Wheeler: Joey7xq.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/1/1f/JoeyWheeler-DULI.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 538,
+  "alto": 681,
+  "que_es": "Joey Wheeler: JoeyWheeler-DULI.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/2/24/Joey_attacked_by_Ra.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Joey Wheeler: Joey attacked by Ra.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/7/78/GXx107_-_Joey.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 640,
+  "alto": 480,
+  "que_es": "Joey Wheeler: GXx107 - Joey.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/5/5e/Joey.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 426,
+  "alto": 702,
+  "que_es": "Joey Wheeler: Joey.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/yugioh/images/b/ba/Joey_acquires_Hermos.png",
+  "fuente": "Fandom yugioh",
+  "ancho": 633,
+  "alto": 466,
+  "que_es": "Joey Wheeler: Joey acquires Hermos.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqo2ol.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3360,
+  "alto": 2100,
+  "que_es": "Fondo de pantalla (anime, anime boys, anime girls, Naruto (anime), Bleach, One Piece)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 18064624063; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/x1/wallhaven-x1xy9l.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Accel World, Elric Alphonse, Shingeki no Kyojin, Bleach, Blue Exorcist, Code Geass)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por BAZZAZ; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/9d/wallhaven-9d126x.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5000,
+  "alto": 3127,
+  "que_es": "Fondo de pantalla (Nintendo, Nintendo Game Boy, retro games, retro console, video games, cartridge)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por jrmnt; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/ym/wallhaven-ym2eqx.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Bleach, anime, Uzumaki Naruto, Gon Freecss, Rurouni Kenshin, Koro-sensei)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Phantom1188; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/j3/wallhaven-j3vwgp.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4000,
+  "alto": 2251,
+  "que_es": "Fondo de pantalla (no.18, Yu-Gi-Oh!, Red Blossoms From Underroot (Yu-Gi-Oh), anime, anime girls, weapon)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por stepbro; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/g7/wallhaven-g7x57q.png",
+  "fuente": "Wallhaven",
+  "ancho": 2774,
+  "alto": 1987,
+  "que_es": "Fondo de pantalla (anime, anime girls, Yu-Gi-Oh!, ahoge, blonde, ponytail)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Heroine2000; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/l8/wallhaven-l8wrer.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 4726,
+  "alto": 2528,
+  "que_es": "Fondo de pantalla (Yu-Gi-Oh!, Trading Card Games, Osiris the Sky Dragon, anime boys, dragon, Yami Yugi)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 嗚嗛嗞嗠嗢; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/0p/wallhaven-0p6kzp.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5000,
+  "alto": 3541,
+  "que_es": "Fondo de pantalla (manga, anime, One Piece, Naruto Shippuden, Dragon Ball, Dragon Ball Z)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Gattaca95; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/5g/wallhaven-5g58w3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5126,
+  "alto": 2651,
+  "que_es": "Fondo de pantalla (Yu-Gi-Oh!, blue hair, dragon, white background, loose clothing, blue eyes)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por october21; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/57/wallhaven-5758z8.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5000,
+  "alto": 2488,
+  "que_es": "Fondo de pantalla (Yu-Gi-Oh!, anime, creature, space)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Roland2021; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/wq/wallhaven-wq2ggx.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5468,
+  "alto": 2795,
+  "que_es": "Fondo de pantalla (Yu-Gi-Oh!, Trading Card Games, The Winged Dragon of Ra, Osiris the Sky Dragon, Obelisk the Tormentor)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por lanweishi123; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/eo/wallhaven-eog7lr.png",
+  "fuente": "Wallhaven",
+  "ancho": 4096,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Son Goku, Monkey D. Luffy, Uzumaki Naruto, Gon Freecss, Dragneel Natsu, Elric Edward)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por PedroKun; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/pk/wallhaven-pkqdq9.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5000,
+  "alto": 2231,
+  "que_es": "Fondo de pantalla (Yu-Gi-Oh!, Underworld Goddess of the Closed World, anime, anime girls, LEO (Artist))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por yuioplm; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/kx/wallhaven-kx16w7.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5000,
+  "alto": 2347,
+  "que_es": "Fondo de pantalla (Yu-Gi-Oh!, Mirrorjade the Iceblade Dragon, dragon, Trading Card Games, digital art, snow)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por october21; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6d/wallhaven-6dlv7x.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 6811,
+  "alto": 4257,
+  "que_es": "Fondo de pantalla (Yu-Gi-Oh!, Trading Card Games, Yugi Mutou, Dark Magician, Odd-Eyes Pendulum Dragon, Elemental HERO Neos)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por lanweishi123; © su autor",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-14d4cc46e53a46ad903a9aa5f64e681c",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: duel disk from Yu-Gi-Oh Duel Monsters (blocky) de burning-icecream",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-4c2550f4e1bb4c66a4cb3cc90af70a3b",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Kuriboh (Yugioh) de Yanez Designs",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-0be8b650aef247a78cc9e31c5301d983",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: yugioh de 3d.impressoesltda",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-c49614e71da644cebfb9b6c7fed387f3",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Summoned Skull - Yu Gi Oh Duel Monster de Christian Day",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-1230deaad490439fad7e6949bb2ab3a0",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Celtic Guardian Bust - Yu Gi Oh Duel Monster! de Christian Day",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3817c928acc74cc8af64eac3f10aeca2",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Sakaki's Duel Disk (Yugioh) de Yanez Designs",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-683595130c5a4c43a88eacd3f1da66df",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Millennium Pendant de M_Thimmig",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/175/425697554_10a5f2e2a2_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 779,
+  "que_es": "Yu-Gi-Oh! Chaps",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor NguyenDai",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://live.staticflickr.com/7179/6944515217_d8f18a2bcd_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 965,
+  "que_es": "It's time to duel...",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-SA 2.0, autor DisturbedMurders Photography",
+  "origen": "recolectar.py"
+ }
+]

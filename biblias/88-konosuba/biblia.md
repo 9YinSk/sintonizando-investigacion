@@ -793,3 +793,196 @@ Cumpleaños de AniList; gustos de la wiki en inglés (secciones Personality y Tr
 
 **Detalle de diseño:** según el ilustrador Kurone Mishima, Darkness tiene una talla de pecho muy grande (dato de la wiki). La armadura amarilla está pensada para que se la vea y aguante golpes ([SportsKeeda](https://www.sportskeeda.com/anime/10-reasons-love-watch-konosuba)).
 
+## 21 · Por qué la gente la ama
+
+**Vende mucho y gana premios** ✅ (cifras de Crunchyroll News, citadas una a una en [Wikipedia](https://en.wikipedia.org/wiki/KonoSuba)):
+
+- Novelas ligeras: 1,5 millones de copias en marzo de 2016, 6,5 millones en febrero de 2019 y **10 millones en noviembre de 2021**.
+- Enero de 2018: la novela ligera digital más vendida del mundo en BookWalker (Anime News Network).
+- Gran Premio de BookWalker 2016.
+- Premios Newtype y Crunchyroll Anime Awards: en el punto 7.
+- La película *Legend of Crimson* recaudó 7,9 millones de dólares (6,5 en Japón). Roger Avary, guionista con Óscar por *Pulp Fiction*, le puso 5 de 5: «una de las mejores experiencias que he tenido en un cine» ([Wikipedia de la película](https://en.wikipedia.org/wiki/KonoSuba:_God%27s_Blessing_on_This_Wonderful_World!_Legend_of_Crimson)) ✅.
+
+**Lo que dice la crítica, con cita real:**
+
+- Theron Martin (Anime News Network), episodio 2: «el episodio de anime más divertido que he visto desde *Monthly Girls' Nozaki-kun*» ([reseña](https://www.animenewsnetwork.com/review/konosuba-god-blessing-on-this-wonderful-world/episodes-1-2/.97800)) ✅.
+- Martin, sobre Jun Fukushima (Kazuma en japonés), T2 ep. 7: sin su «ironía seca» muchas escenas «no serían ni la mitad de graciosas» ([reseña](https://www.animenewsnetwork.com/review/konosuba-god-blessing-on-this-wonderful-world-2/episode-7/.112580)) ✅.
+- Nick Creamer (ANN): el grupo tiene una «química extraña pero entrañable». Se llevan mal, pero están muy unidos. El público se ve en sus problemas de cada día: deudas y trabajos malos por la paga ([reseña](https://www.animenewsnetwork.com/review/konosuba-god-blessing-on-this-wonderful-world-episodes-1-10-streaming/.100209)) ✅.
+- Kim Morrissy (Crunchyroll): el cariño del grupo «se nota en cómo interactúan entre ellos» ([artículo](https://www.crunchyroll.com/anime-feature/2017/02/27-1/feature-novel-vs-anime-konosuba)) ✅.
+- **El dibujo «feo» es a propósito.** Koichi Kikuta, diseñador de personajes del anime: busca «el lado más humano de cada uno, sus rasgos poco favorecedores y sus momentos de apuro», no un dibujo bonito como el de las novelas ([entrevista traducida](https://wavemotioncannon.com/2017/02/07/konosuba-interview-with-koichi-kikuta-anime-style-009-july-2016/)) ✅. Para la lámina: se pueden deformar las caras sin miedo.
+
+**Las razones, resumidas** ([SportsKeeda](https://www.sportskeeda.com/anime/10-reasons-love-watch-konosuba) ⚠️, una fuente, pero coincide con ANN):
+
+- Kazuma es un tipo normal, no un elegido.
+- Parodia sin piedad los tópicos del isekai.
+- Empiezan sin dinero ni recursos, algo raro en el género.
+- Lo que hacen tiene consecuencias.
+- Las caras exageradas cuentan la emoción sin diálogo.
+- Megumin es de las pocas heroínas isekai en pareja «no oficial» con el protagonista.
+
+**Con quién se identifica el público:**
+
+- Con **Megumin**, la favorita en todas las encuestas (punto 7).
+- Con **Aqua**, de otra forma: lo más votado de r/Konosuba es ella siendo un desastre con el dinero y el alcohol (punto 12). La gente se ríe con ella y de ella ✅.
+- Con **Kazuma**, por las deudas y los trabajos mal pagados (Creamer, ANN).
+- **Yunyun** despierta cariño puro: la solitaria que celebra su cumpleaños sola ✅.
+
+**Escenas que hacen llorar, reír o gritar:**
+
+| Qué da | Escena | Dónde y minuto | Qué pasa | Cómo está hecha |
+|---|---|---|---|---|
+| Llorar de alegría | Final de *Legend of Crimson* | Película (2019), minuto ⚠️ sin ver | Tras vencer a la general Sylvia con Yunyun y la magia de toda la aldea, y con Kazuma resucitado, el grupo va de picnic. Megumin prueba un hechizo nuevo: una explosión con **forma de corazón** en el cielo | ⚠️ No vista: sólo está en YouTube, bloqueado desde el contenedor |
+| Ternura triste | Megumin de niña, sola | Spin-off ep. 1, [18:15](https://www.dailymotion.com/video/xa0oox0?t=1095) | Sentada sola, abrazando las rodillas | Plano quieto, ella pequeña en el cuadro |
+| Llanto de gag | Aqua llora a gritos | T2 ep. 2, 4:45 ([Internet Archive](https://archive.org/details/kono-subarashii-sekai-ni-shukufuku-wo-s-2-ep-2-tm)) | Llora con el brazo estirado | Boca enorme, lágrimas en chorro |
+| Risa | Darkness y el gólem | [OVA T2, 0:06-0:15](https://www.dailymotion.com/video/x5wd601?t=6) | Un gólem la agarra. Grita «¡Alto! ¡Qué indecente!» con cara de gusto. Megumin decide esperar a ver qué pasa (0:21) | Primero la reacción de Kazuma y Aqua (0:00), luego ella |
+| Risa | «¡Purificación!» en bucle | [Recopilación de Aqua, 1:12-1:28](https://www.dailymotion.com/video/x9ta1ve?t=72) | Aqua repite el conjuro con los brazos en alto | Gag de repetición |
+| Risa | «¡Sólo fui a los baños!» | [Recopilación de Aqua, 5:20](https://www.dailymotion.com/video/x9ta1ve?t=320) | Aqua llora por una injusticia | Llanto exagerado |
+| Gritar de emoción | El origen de la Explosión | [Clip, 3:04-3:08](https://www.dailymotion.com/video/x8prbvb?t=184) | Megumin se presenta y lanza su magia | Ojos rojos que brillan (1:36), media cara iluminada al recitar (2:32), explosión naranja (2:12) |
+| Gritar de emoción | Pelea final de la T1 | [Clip, 1:40-1:56](https://www.dailymotion.com/video/x4wslwi?t=100) | Megumin y Wiz, un ataque a la vez; Explosión final | Círculos dorados en el suelo y destello |
+
+**Cómo reaccionó la gente:**
+
+- El vídeo del final de la película circula con el título «Kazuma made Megumin cry from joy - Final Scene - [KonoSuba Movie 1]» ⚠️ (sólo el título; no se pudo ver).
+- La pelea final de la T1 se sigue resubiendo diez años después (punto 10) ⚠️.
+- En el archivo de Reddit ([Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Konosuba)) las búsquedas «cry» y «favorite character» no dieron nada ⚠️.
+
+**Qué música suena en la escena más emotiva:** no se pudo oír ⚠️ (punto 9).
+
+## 22 · Fan dubs y comunidad hispana
+
+**El fandub más completo: «Konosuba 1ra Temporada»** (2019), de **Fandub Varios** (©2020 LinkOz FD, Soy Todito y Yorokobi FD). Doblaron 4 de los 10 capítulos. Dirige **AdSan Voice** ([ficha del proyecto](https://fandub2018.wixsite.com/fandubvarios/konosuba-fandub)) ⚠️ (una fuente, la del propio proyecto):
+
+| Personaje | Voz de fandub |
+|---|---|
+| Kazuma | AdSan Voice (también guion, mezcla y sincronía) |
+| Aqua | Arale MR |
+| Megumin | Ditwi-Chan |
+| Darkness | Prince Alynn |
+| Luna | Danako |
+| Rufián (un capítulo) | Sandro Noe Rivas Alejos |
+
+El opening lo canta y adapta **Naomi**. El ending lo cantan las tres chicas del proyecto, igual que en el original (punto 9).
+
+**Covers del opening en español** (vistas leídas con `yt-dlp` sin bajar el vídeo):
+
+- «Fantastic Dreamer» cover latino, canal **Naomi**, 11-feb-2018, **362 207 vistas** ([YouTube](https://www.youtube.com/watch?v=WzFcCTDBxoI)) ✅. Es la misma Naomi del fandub de arriba.
+- «Konosuba 2 OP Fandub Español Latino», canal **MasterJulio**, 13-jul-2017, 4932 vistas ([YouTube](https://www.youtube.com/watch?v=5vqB0TDoBDw)) ⚠️.
+- «KonoSuba: Legend of Crimson Español Latino Fandub», canal **Chico Shido**, 4-may-2021, 3309 vistas ([YouTube](https://www.youtube.com/watch?v=x0SLqRDCtO0)) ⚠️.
+- El opening 1 subido por **KENBO** a Dailymotion lleva un cover latino encima del audio ([x6ks8bt](https://www.dailymotion.com/video/x6ks8bt?t=16)) ✅. Es el que se usó para los fotogramas del punto 2.
+
+**TikTok** ⚠️ (sólo por el buscador; TikTok no abre sin sesión):
+
+- «Chica Planta Fandub español latino», del creador **Karl el Kaballo**.
+- Comparaciones del doblaje de la OVA 2 de la T3 entre países: México contra Perú.
+- No se vieron vistas ni fechas.
+
+**Ojo, no es un fandub:** el episodio 1 completo que subió **Rayvox** a Dailymotion (22:44) es el doblaje oficial vuelto a subir. Suena igual que el reparto de Doblaje Wiki. Se usó en el punto 8 para las frases. No lo cuentes como fandub.
+
+**Memes y humor hispano:**
+
+- Crunchyroll Latinoamérica titula sus clips con chistes locales: «**SAPOtamadre**» (Aqua y los sapos), «Eres taaan ruin», «CALIÉNTAME» (punto 8).
+- «EVIL YunYun» con Kazuma, de un artista hispano, 2388 votos en Reddit (punto 12) ✅.
+- Desde la T3 el doblaje oficial mete groserías y modismos (Doblaje Wiki, punto 8).
+
+**Para el servidor, que es de doblaje:** las frases del doblaje con minuto (punto 8) y el conjuro de Megumin son material de reto. El cover de Naomi demuestra que el opening funciona en español.
+
+**No encontré** parodias hispanas en vídeo con vistas comprobadas, fuera de estos covers ⚠️.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+Konosuba cruza mucho con otros isekai, por su tono de parodia. Tiene colaboraciones activas en 2024 y 2025.
+
+**Cruces y colaboraciones:**
+
+- ***Isekai Quartet*** (anime de cruce oficial, en versión chibi, con *Re:Zero*, *Overlord* y *Tanya*). Los cuatro comparten aula con los otros isekai. Arte promocional de la cuenta oficial: [4096×2900](https://twitter.com/isekai_quartet/status/1128325214578679808) y [4096×2542](https://twitter.com/isekai_quartet/status/1115641595460587520) ✅.
+- **MapleStory × KonoSuba** (20-feb a 19-mar-2024). Kazuma, Aqua, Megumin y Darkness llegan a Maple World como disfraces y misiones ([nota de prensa en ANN](https://www.animenewsnetwork.com/press-release/2024-02-27/limited-time-konosuba-god-blessing-on-this-wonderful-world-and-maplestory-crossover-event-is-here/.208073)) ✅.
+- **Knives Out × KonoSuba** (juego móvil, 31-ago a 20-sep-2025). Objetos exclusivos, entre ellos el traje «marco dorado» de Darkness ([noticia](http://www.haveagood-holiday.com/en/articles/knives-out-konosuba-collaboration-2025)) ⚠️.
+- **Unison League × KonoSuba** (RPG móvil, dos colaboraciones). Los cuatro, jugables por tiempo limitado ([nota de Ateam](https://www.ateam-entertainment.com/en/news/1492/)) ✅.
+- **Fantastic Days × Re:Zero** (9-23 de noviembre) y **× DanMachi** (26 de mayo a 9 de junio), dentro del propio juego móvil (gamingcoffee.com) ✅.
+- **Super Sonico × KonoSuba**, figura de cruce. Preventa desde el 4-sep-2025 en la tienda de Kadokawa; salida prevista en marzo de 2026 ([noticia](https://essential-japan.com/news/orders-open-for-new-super-sonico-x-konosuba-crossover-figure/)) ⚠️.
+- **Café con Cure Maid Cafe** (Akihabara, centrado en Megumin). Menú temático con un pastel de chocolate «Chomusuke» ([Around Akiba](https://aroundakiba.tv/news/megumin-stars-at-konosuba-maid-cafe-collaboration/)) ⚠️ (sin fecha).
+- Fan art de cruce con *Frieren* y *Dungeon Meshi* en ultrapanorámico (punto 16).
+
+**No encontré** colaboración con *Fortnite* (buscado en inglés; *Re:Zero* sí la tiene) ni un café oficial fuera de Japón ⚠️. No digo que no existan.
+
+**Figuras oficiales** (su pose es una referencia 3D real):
+
+- **Megumin «Rock Version»**, escala 1/7, Kadokawa. Pose dinámica lanzando el hechizo; sombrero y capa desmontables ([Amazon](https://www.amazon.com/Kadokawa-KonoSuba-Blessing-Wonderful-Multicolor/dp/B0862QKGBB)) ✅. **La mejor para el concepto de la Explosión.**
+- Megumin «Gothic Lolita Dress», 1/7, Kadokawa ([tienda](https://megamitoys.com.mx/products/kadokawa-scale-figure-konosuba-an-explosion-on-this-wonderful-world-megumin-gothic-lolita-dress-escala-1-7-preventa)) ⚠️. Traje alternativo, no el icónico.
+- Megumin «Light Novel Swimsuit Ver.», Kadokawa ([tienda](https://www.akibastation.es/2020/06/figura-megumin-light-novel-swimsuit-ver-konosuba-kadokawa.html)) ⚠️. Traje de baño: no apta para el servidor.
+- Catálogo de figuras de Aqua, Megumin y los demás, con fotos de la pose real, incluidas «Rock Version» y «POP UP PARADE» ([Nihon Figures](https://www.nihonfigures.com/c880353_figuras-konosuba.html)) ✅.
+
+**Cosplay con volumen y materiales reales:**
+
+- **Aqua**, «diosa del agua», de **NikoBitre**, 2252×4000, licencia **CC BY-SA 4.0** ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4b/AQUA_DE_KONOSUBA_cosplay_de_la_diosa_del_agua.jpg)) ✅. Sirve para ver cómo cae la tela de las mangas sueltas y del lazo.
+- Cosplay de convención (PHXCC 2017), de Florentino Luna, CC BY-NC-ND 2.0, 683×1024 ([Flickr](https://live.staticflickr.com/4244/34795107621_6d2884865e_b.jpg)) ⚠️. El título no dice qué personaje es: revísala antes de usarla.
+
+## 24 · Obras parecidas y temas relacionados
+
+**Lo que recomienda el mismo público** ([AniList](https://anilist.co/anime/21202), votos de usuarios) ✅:
+
+1. *Cautious Hero: The Hero Is Overpowered but Overly Cautious* (1107 votos).
+2. *Combatants Will Be Dispatched!* (373).
+3. *Princess Connect! Re:Dive* (299).
+4. *The Devil is a Part-Timer!* (256).
+5. *Uncle from Another World* (226).
+6. *Isekai Quartet* (200), el cruce oficial.
+7. *TSUKIMICHI -Moonlit Fantasy-* (136), *DanMachi* (134) y *Mushoku Tensei* (86).
+
+**De qué va el humor.** [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Literature/KonoSuba) la resume así: «toma casi todos los tópicos y arquetipos del isekai y de los juegos de rol, y los deconstruye, los tuerce o los invierte» ⚠️ (resumen del buscador; la página da 403 desde el contenedor).
+
+**Su lugar entre los isekai.** En *Isekai Quartet* comparte elenco con *Re:Zero*, *Overlord* y *Tanya*, los tres serios. Konosuba es el contrapunto cómico del grupo ✅.
+
+**No confundir con una obra parecida:** *¡Explosión en este mundo maravilloso!* ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Literature/KonoSubaAnExplosionOnThisWonderfulWorld)) es su propio spin-off de Megumin, no una influencia ⚠️.
+
+**Influencias del autor:** no encontré una cita de Natsume Akatsuki sobre qué leyó o jugó ⚠️. La pista más prometedora es una entrevista en vídeo, «#InterviewMeSenpai» (abril de 2017), en YouTube, que no se pudo abrir.
+
+**Láminas del servidor que se le parecen** (para no repetir ideas; leídas en sus biblias) ✅:
+
+- *Overlord* (83): propone #reglas, #bienvenidas y #staff, con tono de señor oscuro. Konosuba es su contrario: parodia, no poder.
+- *Sword Art Online* (85): propone #presentaciones, #reto-de-la-semana y #general-doblaje, con tono de acción y drama.
+- *Tsukimichi* (87), la más cercana en tono: #ofertas-y-gratis, #presentaciones y #reto-de-la-semana. Su biblia avisa de que #reto-de-la-semana ya lo comparte con *Mushoku Tensei*.
+- Si a Konosuba le toca uno de esos canales, que se distinga por **la comedia y la Explosión**, no por ser «otro isekai más».
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** (sinopsis de [AniList](https://anilist.co/anime/21202) y [wiki](https://konosuba.fandom.com/wiki/Terminology)) ✅:
+
+1. Si mueres en Japón, un dios te deja renacer en un mundo de fantasía con un regalo. Kazuma elige mal: se lleva a la diosa Aqua, que es inútil.
+2. Hay un Rey Demonio de verdad que aterroriza el mundo. Alguien tiene que vencerlo.
+3. El mundo funciona como un juego de rol: niveles, puntos de habilidad, carnet con estadísticas y gremios que reparten misiones.
+4. El dinero es el **eris**. Hay dos religiones rivales, la de Axis y la de Eris, que se pelean por los fieles.
+5. Sobrevivir cada día (pagar, comer) pesa más que la aventura. Esa es la broma central.
+
+**La historia por arcos.** La novela tiene 17 tomos, más los spin-off de Megumin (*Bakuen*, 4 tomos) y de Darkness (*Kyakkou*, 6 tomos). El director Kanasaki lo resume así: cada arco grande enfrenta al grupo con un general distinto del Rey Demonio, cada uno con su comedia («el Dullahan, Hans, todos los altos mandos del ejército del Rey Demonio…», [entrevista en ddnavi](https://ddnavi.com/article/d574070/a/)) ✅:
+
+1. **Llegada a Axel** (inicio de la T1). Kazuma y Aqua, sin dinero, cazan ranas gigantes para comer.
+2. **Beldia, el Dullahan**, un caballero sin cabeza casi invencible. Lo vencen con una trampa, no con fuerza. Marca el tono: se gana por ingenio y suerte ✅.
+3. **Vanir y la tienda de Wiz.** Un archidemonio trabaja de dependiente. Comedia de convivencia con el enemigo.
+4. **La aldea de los Demonios Carmesí**, en la película *Legend of Crimson* (2019, J.C.Staff). La general Sylvia ataca el pueblo de Megumin. Megumin y Yunyun la vencen con la magia de toda la aldea. Kazuma muere y resucita. Dice el director: «tenía que decidir primero cuál era la justicia de Sylvia» ✅.
+5. **Temporada 3** (10-abr a 19-jun-2024, Studio Drive; [Wikipedia](https://en.wikipedia.org/wiki/KonoSuba_season_3)). En su tráiler sale Iris junto a Aqua y Yunyun ([0:17](https://www.dailymotion.com/video/x8qwfj9?t=17)) ✅.
+6. **El asalto final al castillo del Rey Demonio** no está adaptado al anime ⚠️. La temporada 4 está anunciada para 2027 ⚠️ (punto 0).
+
+**El dinero.** El eris se acuña en cobre, plata, oro y mithril. Una moneda de mithril vale 1 000 000 de eris. Un eris es más o menos un yen, según Aqua. También hay billetes ✅.
+
+**El carnet de aventurero.** Siete estadísticas: Fuerza (筋力), Vitalidad (生命力), Inteligencia (知力), Poder Mágico (魔力), Destreza (器用度), Agilidad (敏捷性) y Suerte (幸運). Lleva también nivel, puntos de habilidad y la lista de monstruos cazados ✅. Aqua lo enseña en la nº121.
+
+**Organizaciones:** Gremio de Aventureros (del gobierno), Gremio de Mercaderes, Gremio de Magos (controla los pergaminos), Asociación de Cazadores e Instituto de Investigación Mágica ✅. No encontré la imagen del emblema del Gremio ⚠️.
+
+**Las dos religiones, con su símbolo:**
+
+- **Orden de Axis** (アクシズ教), la de Aqua. Unos pocos cientos de fieles. Sede en **Arcanletia**, pagada con unas aguas termales que Aqua volvió agua bendita. Símbolo: [AxisCult.png](https://static.wikia.nocookie.net/konosuba/images/1/17/AxisCult.png) (480×480) ✅.
+- **Orden de Eris**, la de la diosa de la fortuna, fe nacional del Reino de Belzerg. La familia noble de Darkness (Dustiness) le es fiel. Cada verano hacen el Festival de Apreciación a Eris, donde alguien se disfraza de la diosa ([wiki](https://konosuba.fandom.com/wiki/Eris_Order)). Símbolo: [Faith.png](https://static.wikia.nocookie.net/konosuba/images/e/e6/Faith.png) (511×505) ✅.
+
+**Los Demonios Carmesí** (紅魔族), la tribu de Megumin y Yunyun. Piel pálida, pelo oscuro, **ojos rojos que brillan** al emocionarse y un tatuaje de código de barras de nacimiento. Todos son chūnibyō: cada uno tiene su pose y su frase de presentación ([wiki](https://konosuba.fandom.com/wiki/Crimson_Demons)) ✅.
+
+**Objetos que un fan reconoce al instante:** el sombrero y el báculo de esfera roja de Megumin; el báculo con gema de Aqua; el espadón y la armadura dorada de Darkness; la capa verde y la chaqueta de chándal de Kazuma; Chomusuke, el gato de Megumin; la máscara de Vanir (modelos 3D en el punto 3).
+
+**Vocabulario propio:**
+
+- **Explosión** (エクスプロージョン), con su conjuro largo.
+- **«Durian Quest»**: en Axel, la misión que nadie quiere porque paga poco para lo que arriesga (como la fruta durián) ✅.
+- Eris, carnet de aventurero, puntos de habilidad, Rey Demonio, Demonios Carmesí.
+- **Paladín**: así llama el doblaje latino a la clase «Crusader» de Darkness (punto 8).
+- Hikikomori y NEET, lo que era Kazuma en Japón.
+
