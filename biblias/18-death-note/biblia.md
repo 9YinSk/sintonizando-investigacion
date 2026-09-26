@@ -1422,10 +1422,11 @@ celebrar, regañar, pensar, animar.
 
 ---
 
-## 16 · Vestuario ⚠️
+## 16 · Vestuario
 
-De guías de cosplay (no de hojas de modelo oficiales) y de memoria.
-**Compara con el fotograma.**
+De guías de cosplay (no de hojas de modelo oficiales) y de memoria, en
+la primera pasada. **Los colores medidos en arte oficial están en 16.1**:
+usa esos.
 
 | Personaje | Ropa icónica | Colores ⚠️ | Accesorios y pelo |
 |---|---|---|---|
@@ -1440,6 +1441,40 @@ De guías de cosplay (no de hojas de modelo oficiales) y de memoria.
 **Lo que todos reconocen**: Light con **camisa blanca y corbata roja**;
 L **de blanco y vaqueros, en cuclillas**; Misa **de negro con la cruz**;
 Ryuk **con la manzana**.
+
+### 16.1 Colores MEDIDOS en arte oficial (segunda pasada)
+
+Mediana de una zona de la prenda, medida con Pillow sobre el arte
+oficial de §3.6 (no de memoria). La mediana mezcla luz y sombra: es el
+tono medio real de la tinta, no el más saturado.
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| Light | Camisa blanca del instituto | `#F9F5F4` | 299276.jpg, color page de Obata ✅ |
+| Light | Pelo | `#85542D` | la misma ✅ |
+| Light | Corbata roja | `#8E1B1B` | guía de cosplay, **no medida** ⚠️ ([Carbon Costume](https://carboncostume.com/title/death-note/)) |
+| L | Camiseta de manga larga | `#E6D19F` en la sombra; los blancos llegan a `#F5F0E0` | Lfull.jpg ✅ |
+| L | Vaquero ancho | `#596D76` | la misma, sombra del pliegue ✅ |
+| Ryuk | Piel | `#84889D` | Ryuk_DN_Coloured.png ✅ |
+| Misa | Vestido rojo («Saint Valentine's Day») | `#A74E44` | 295978.jpg, tela sin brillo ✅ |
+| Misa | Gargantilla y guantes de cuero | negro puro, no medido (se mezcla con el pelo) | la misma ⚠️ |
+| Near | Pijama | `#F7F2EE` | DN_013.jpg ✅ |
+| Near | Pantalón del pijama | **blanco en el manga** (`#F7F2EE`); celeste en el anime, sin fotograma propio | ⚠️ el del anime |
+| Mello | Gabardina de cuero | `#0E0D12` | wallpaper de *Othellonia* (crédito oficial en la imagen) ✅ |
+| Mello | Pelo rubio ceniza | `#BB9786` | la misma ✅ |
+
+- **Corrige la tabla de arriba**: el vaquero de L es **gris azulado
+  apagado** (`#596D76`), no el azul `#4F6B8C`; la piel de Ryuk, `#84889D`
+  (más lavanda que `#7C8794`); el blanco de L tira a **hueso cálido**.
+- **Mello**: cuero negro, rosario y chocolate, confirmado en el arte
+  oficial y en la hoja 2 (nº259-260, 288) ✅ (sube de ⚠️).
+- **Ryuk**: plumas negras y cinturón con **hebilla de calavera**, visto
+  en fotograma (ep. 1, 00:16:12) ✅.
+- **Misa**, detalle nuevo visto en fotograma: **bufanda roja tejida con
+  colgante «M»** (ep. 12, 00:14:39) ✅.
+- **Lo más icónico según el fandom**: el **uniforme escolar de Light**
+  (704 votos en Reddit) y el **lolita gótico de Misa** (732 votos), ver
+  §14.1 ✅.
 
 ---
 
@@ -1463,6 +1498,33 @@ Ver §5.1. Resumen: **noche azul con lámpara cálida** (cuarto de Light),
 | Ryuk «4K» | 3840×2160 | [4kwallpapers](https://4kwallpapers.com/anime/ryuk-death-note-ai-14431.html) | **Hecho con IA (Midjourney): NO usar** |
 
 Los tamaños son los que dicen las páginas en el resultado de búsqueda ⚠️.
+En la segunda pasada, Wallpaper Abyss no dejó leer el tamaño sin
+cuenta: usa los de abajo, que sí lo dan.
+
+### 17.1 Segunda pasada: fondos con tamaño comprobado
+
+**Oficiales** (Zerochan, con el crédito «by MADHOUSE»; tamaño leído del
+`og:image` de cada página) ✅:
+
+| Qué | Tamaño | Enlace |
+|---|---|---|
+| Key visual, grupo | 1920×1080 | [zerochan 4253569](https://www.zerochan.net/4253569) |
+| Key visual, grupo | 1920×1080 | [zerochan 4377401](https://www.zerochan.net/4377401) |
+| Key visual, grupo | 1920×1080 | [zerochan 4382652](https://www.zerochan.net/4382652) |
+| Near, key visual | 1920×1080 | [zerochan 4377547](https://www.zerochan.net/4377547) |
+
+**De fans** (Wallhaven, ♥ reales de su API; mirar, nunca pegar) ✅:
+
+| Tamaño | ♥ | Qué sale | Enlace | Autor |
+|---|---|---|---|---|
+| 4096×2304 | 136 | Misa, cruz | [6d5mll](https://w.wallhaven.cc/full/6d/wallhaven-6d5mll.jpg) | [jeonmin8974](https://twitter.com/jeonmin8974/status/1646235438745788416) |
+| 2896×4494 | 124 | Misa | [g79mkd](https://w.wallhaven.cc/full/g7/wallhaven-g79mkd.jpg) | Tokkyu (sin enlace) |
+| 1920×2776 | 106 | Misa y Rem, retrato | [ogdg9p](https://w.wallhaven.cc/full/og/wallhaven-ogdg9p.jpg) | [En_D_D](https://x.com/En_D_D/status/1926586543260500217) |
+| 2076×4096 | 94 | Misa y Rem | [xe8pwd](https://w.wallhaven.cc/full/xe/wallhaven-xe8pwd.png) | [ZabiMasurao](https://x.com/ZabiMasurao/status/1956294807568921021) |
+| 1920×1080 | 77 | Light, Ryuk, manzanas | [0wgqyx](https://w.wallhaven.cc/full/0w/wallhaven-0wgqyx.jpg) | sin origen |
+| 2560×1440 | 166 | Ryuk en un tren (cruce con Chainsaw Man) | [p9qvge](https://w.wallhaven.cc/full/p9/wallhaven-p9qvge.png) | [gorzius](https://www.pixiv.net/en/users/20708445) |
+
+La luz de cada sitio ya está **medida** en §5.5.
 
 ---
 

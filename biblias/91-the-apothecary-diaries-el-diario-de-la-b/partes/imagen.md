@@ -38,3 +38,46 @@ Hojas de contacto ya montadas (`herramientas/referencias/the-apothecary-diaries-
   - chibi master Jinshi from The Apothecary Diaries · Shah Bakhat026 · CC Attribution (BY) · ♥7 · https://sketchfab.com/3d-models/none-dadaaa5bbfde40568f827e9138c050a8
   - ⚠️ no hay modelos de Gaoshun, Lihaku ni de sitios (palacio, farmacia) en Sketchfab con licencia libre; busqué "apothecary diaries palace", "chinese palace hanfu 3d model free" y "kusuriya no hitorigoto 3d" sin resultado nuevo aparte de los 4 de arriba
 - Fotos con licencia libre de cosplay (Openverse, `datos.json`, 20 fotos): todas del mismo cosplayer/evento, Lucca Comics and Games 2024, por esby.photo, CC BY-NC-SA 2.0 — cosplay de Maomao (aoqun verde/granate reconocible) · ✅ (Flickr de esby.photo + el propio Openverse las indexa con el mismo pie de foto)
+
+## 15 · Vestuario: trajes por temporada, colores hex medidos, accesorios y peinado
+
+Colores medidos con Pillow (promedio de un cuadro de ±3 px, para evitar el
+contorno negro) sobre las 4 fichas de diseño oficiales de studio descargadas de
+la wiki (`Maomao/Jinshi Anime Design Season 2/3.png`, fondo neutro, sin sombra
+de escena). Cruzado con la descripción textual de la wiki (`#Appearance`) para
+confirmar el nombre del color, aunque el hex en sí sale de una sola imagen por
+prenda (⚠️ salvo que diga lo contrario).
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| Maomao | Top/chaqueta verde claro (T1-2, boticaria del harén trasero) | #6FB078 | Maomao Anime Design Season 2.png (Pillow) |
+| Maomao | Falda larga granate (T1-2) | #7A3850 | Maomao Anime Design Season 2.png (Pillow) |
+| Maomao | Pelo (verde oscuro; "negro" en la novela original) | #1C373B | Maomao Anime Design Season 2.png (Pillow) |
+| Maomao | Zapatillas planas verde oscuro | #283838 | Maomao Anime Design Season 2.png (Pillow) |
+| Maomao | Top menta/verde-azulado (T3, tras pasar a la facultad médica) | #64B896 | Maomao Anime Design Season 3.png (Pillow) |
+| Maomao | Falda larga azul marino (T3) | #1B3E6E | Maomao Anime Design Season 3.png (Pillow) |
+| Maomao | Detalle rojo bajo el cuello (T3) | #904D4F | Maomao Anime Design Season 3.png (Pillow) |
+| Jinshi | Túnica exterior azul casi negro (T2, eunuco de palacio) | #202038 | Jinshi Anime Design Season 2.png (Pillow) |
+| Jinshi | Túnica interior azul-violeta | #5B69A5 | Jinshi Anime Design Season 2.png (Pillow) |
+| Jinshi | Ribete dorado con motivo geométrico repetido | #8F7C49 | Jinshi Anime Design Season 2.png (Pillow) |
+| Jinshi | Pelo violeta oscuro (descrito "negro azabache" en el anime, "morado" en la novela) | #49345E | Jinshi Anime Design Season 3.png (Pillow) |
+| Jinshi | Panel bordado con dragón, fondo morado (T3, rango más alto) | #624B70 | Jinshi Anime Design Season 3.png (Pillow) |
+| Jinshi | Faja/cinturón oscuro con cierre dorado (T3) | #45274A | Jinshi Anime Design Season 3.png (Pillow) |
+
+- Maomao: peinado fijo en toda la serie — flequillo recto + coleta alta, con un
+  listón celeste, y dos mechones sueltos que enmarcan la cara, decorados con
+  cuentas rojas y celestes · fuente https://kusuriya.fandom.com/wiki/Maomao#Appearance
+  ✅ (coincide en las 180 imágenes de la hoja de contacto, sin excepción en todo
+  el rango de fechas) · cicatrices de pruebas de veneno ocultas con una venda en
+  el antebrazo izquierdo (mismo texto de la wiki)
+- Maomao: el traje **icónico** que todo fan reconoce es justo el de T1-2 de la
+  tabla — la propia wiki lo llama **"signature outfit"**, un aoqun (hanfu) verde
+  claro con falda granate y calzado verde oscuro · fuente wiki (texto exacto:
+  "Maomao's signature outfit is an aoqun") ✅
+- Jinshi: peinado con el pelo largo suelto y un pequeño adorno/moño blanco en la
+  coronilla ("bun cover" en el nombre del archivo de la wiki); apariencia descrita
+  como "andrógina", cara "de una doncella celestial" · fuente wiki #Appearance ✅
+  (misma descripción en las 53 imágenes de su galería)
+- El ribete dorado y el panel bordado de dragón de Jinshi T3 llevan un patrón
+  repetido tipo brocado chino (rombos y una especie de sello/kanji estilizado);
+  sirve de referencia directa para el punto 19 (texturas).

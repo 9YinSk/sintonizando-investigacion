@@ -109,11 +109,86 @@ los retratos oficiales «Game» de cada personaje (2026-09-26).
 
 ## 16 · Ciudades, paisajes y fondos de pantalla
 
-_(pendiente)_
+Hex y luz medidos con `estilo.py` en arte oficial de área (mapa/loading screen
+de cada zona, 1920×1080, wiki de Fandom), y mirados con Read.
+
+- **Golden Hour** (distrito Dreamscape de Penacony): bulevar nocturno estilo
+  «Las Vegas retro-futurista» con tubos de neón turquesa y rosa cruzando entre
+  rascacielos Art Decó, carteles dorados de comida y espectáculos, cielo azul
+  casi negro · paleta: #726C65 (piedra cálida), #1B2D47 / #464D56 (azul-gris
+  de la noche), #4481BB (neón azul) · fuente:
+  `Area Golden Hour.png` (1920×1080) · ✅ (imagen vista + medida).
+- **Dewlight Pavilion** (Penacony, casino): interiores cálidos en penumbra,
+  madera oscura y dorado, luces puntuales · paleta: #1A2024 (sombra fría de
+  fondo), #857667 / #D8C7A2 (madera y dorado), #541810 (rojo vino de
+  tapicería) · fuente: `Area Dewlight Pavilion.png` · ✅.
+- **Penacony Grand Theater**: tonos tierra/ámbar muy saturados, luz cálida de
+  escenario · paleta: #411F12 / #201410 (sombra), #6D3A21 / #95613F (madera y
+  piel), #DA976C (luz cálida) · fuente: `Area Penacony Grand Theater.png`
+  (1319×746) · ✅.
+- **Fyxestroll Garden** (Xianzhou Luofu): jardín flotante de estilo chino
+  clásico entre islas de roca, niebla azul-turquesa muy densa, arces
+  anaranjados de otoño, pilares de tecnología brillante cian · paleta:
+  #07698A / #0D4B67 (azul-teal de la niebla), #077DA2 (cian de los pilares),
+  #0C3648 (sombra profunda) · fuente: `Area Fyxestroll Garden.png` · ✅ (imagen
+  vista con Read: puentes de madera, tejados curvos, niebla que cubre media
+  escena).
+- **Scalegorge Waterscape** (Xianzhou Luofu): cascadas y agua turquesa entre
+  montañas, luz de mediodía más clara que Fyxestroll · paleta: #386881 /
+  #1F415C (azul agua), #3BA1AA (turquesa claro), #8CBACB (bruma) · fuente:
+  `Area Scalegorge Waterscape.png` · ✅.
+- Cada mundo tiene su propia paleta dominante y hora del día fija en su arte
+  de loading: Herta Space Station (blanco/azul frío, sci-fi), Jarilo-VI/
+  Belobog (blanco-hielo, ciudad bajo nieve), Xianzhou Luofu (verde-jade y
+  niebla), Penacony (noche perpetua, neón), Amphoreus (dorado/ámbar, mitológico)
+  · ✅ (nombres y orden de los mundos confirmados por las categorías
+  `Chapter <Mundo> Black.png` de la wiki) · ⚠️ (paleta de Amphoreus y
+  Herta no medida con Pillow todavía, sólo por descripción).
+- Fondos de pantalla de fans en alta (Wallhaven, ya en `datos-imagen.md`, no se
+  repite aquí): el más guardado es March 7th a 4256×2636 (♥945, origen Pixiv
+  105998772) · ✅.
+- Fondos de pantalla **oficiales**: HoYoLAB publica packs de wallpaper por
+  versión («All HSR version wallpapers», «[FOR DOWNLOAD] New Official Honkai:
+  Star Rail Wallpaper») · fuente: https://www.hoyolab.com/article/31831587 y
+  https://www.hoyolab.com/article/23317219 · ⚠️ (confirmé que existen y su
+  tema por el título; no medí resolución exacta de cada descarga, HoYoLAB no
+  la muestra sin entrar a cada post).
 
 ## 19 · Texturas 2D
 
-_(pendiente)_
+- **Emblemas oficiales de Camino** (el «Path» de cada personaje, aparecen en
+  banners, tarjetas de personaje e interfaz): Destruction, Preservation, Hunt,
+  Erudition, Harmony, Nihility, Abundance, Remembrance · 512×512 px cada uno,
+  wiki de Fandom (`File:Path <Nombre>.png`) · ✅ (los 8 confirmados por
+  imageinfo). Sirven como logo/vocabulario del mundo (van con el punto 25,
+  que no es mío, pero el archivo de imagen es mío).
+- **Emblemas de mundo/capítulo** («Chapter <Mundo> Black.png» e íconos
+  `Icon Amphoreus.png`, `Icon Astral Express.png`, `Icon Herta Space
+  Station.png`, `Icon Dreamscape.png`, 64-128 px) · misma fuente · ✅.
+- El juego usa paneles tipo cómic para sus historias de evento (p. ej. «The
+  Comic With No Answers», hallado en la wiki) en vez de manga con tramas de
+  puntos; no hay screentone tradicional que imitar, sí líneas gruesas y
+  relleno plano de color · ⚠️ (confirmado que existe el formato, no miré el
+  cómic completo por tiempo).
+- **Texturas libres equivalentes (CC0, ambientCG)**, elegidas para igualar
+  materiales que aparecen en vestuario y fondos:
+  - Tela lisa/gabardina para abrigos (Kafka, Trailblazer): `Fabric081C` ·
+    https://ambientcg.com/view?id=Fabric081C · CC0.
+  - Metal con relieve/placa para hebillas y adornos dorados: `Metal048A` ·
+    https://ambientcg.com/view?id=Metal048A · CC0.
+  - Placa de diamante/metal industrial (Astral Express, interiores sci-fi):
+    `DiamondPlate009` · https://ambientcg.com/view?id=DiamondPlate009 · CC0.
+  - Papel con grano suave (para el look «cómic de evento» y cartas del Camino):
+    `Paper006` · https://ambientcg.com/view?id=Paper006 · CC0.
+  Las cuatro con licencia CC0 (dominio público, sin atribución obligatoria)
+  · ✅ (licencia confirmada en la ficha de ambientCG).
+- ⚠️ No encontré un pincel de Photoshop/CSP gratuito hecho específicamente
+  para imitar el sombreado de Star Rail (sombreado mixto: planos duros +
+  degradados suaves en pelo y tela, ver `estilo.py` en los puntos 1 y 15); un
+  pincel redondo duro con opacidad de trazo variable más un degradado lineal
+  en «Multiplicar» reproduce el efecto visto en los recortes de vestuario.
+  Búsquedas: «Honkai Star Rail Photoshop brush free», «Star Rail CSP brush
+  CC0» (sin resultado libre concreto).
 
 ## 23 · Colaboraciones y cruces
 
