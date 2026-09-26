@@ -39,7 +39,70 @@ fecha: 2026-09-24
 
 ## Segunda pasada · qué cambió
 
-(pendiente)
+26-sep-2026, con la red abierta. Equipo: investigadores de imagen, vídeo,
+voz y texto (sus notas, en `partes/`) y un redactor.
+
+**Corregido (antes → ahora)**
+- **Don Cangrejo en latino**: Luis Pérez Pons «temporadas 1 a mitad de la
+  6, y 9 a 13» → **1-5 y 9-13**; se añade **Carlos Vitale** (temporadas
+  6-9) y un episodio de Walter Véliz (§10).
+- **Karen**: «la voz actual no la encontré» → **Paulina Monfort**, desde
+  2025. Melanie Henríquez se fue en 2015 **a Tenerife** (dos fuentes).
+- **Colores** (§5.5 y §16): Don Cangrejo `#EA3941` (fans) → `#F04A3E` y
+  `#D34835`, medidos en la hoja de modelo 2200×2200 y en el stock art;
+  Calamardo `#54DBC2` → `#B6D5CA`; Patricio `#FF808B` → `#FE9285`;
+  Plankton `#68A079` → `#00613B` (del SVG oficial); el logo, del SVG.
+  Bob, con la **ficha Pantone** oficial.
+- **La caja**: azul pizarra `#427193` (textura de un juego) → **gris
+  antracita `#282927`**, medida en el episodio. Se dejan las dos, con su
+  fuente.
+- **La luz de fuera**: «de memoria» → **medida**, cielo `#289FBF`.
+- **Sketchfab**: el Crustáceo de Mrlunettes era «descarga gratis» → es
+  **CC BY-NC** (no comercial), según la API.
+- **El más querido**: «no hay encuesta» → no hay una **oficial**, pero sí el
+  bracket de The Ringer (2,5 millones de votos; gana Bob).
+- Confirmados con más fuentes: Kaihiamal Martínez, las voces antiguas de
+  Plankton, que el Balde está enfrente y la «sensación hawaiana» de las
+  nubes-flor.
+- **Corrección a la parte de imagen**: la billetera de Don Cangrejo es la
+  n.º 19 de la hoja (no la 39), y «Phylum Porifera» no está en las hojas.
+
+**Añadido**
+- **3 hojas de contacto** en `hojas/`, descritas número a número (§3.6).
+- **7 vídeos mirados enteros** (299 fotogramas) en Dailymotion: 17
+  escenas con enlace al segundo (§2.4), el opening plano a plano (§11), el
+  tráiler 2025 (§12) y 17 poses vistas (§15).
+- La frase del canal, vista: **«THE MONEY IS ALWAYS RIGHT!»**
+  ([3:55](https://www.dailymotion.com/video/x3uvarj?t=235)).
+- Arte del 25.º aniversario y Main Model Pack, vistos (§3.2, §3.3).
+- Carteles de precios de la propia serie («NUT SHACK», «DAILY SPECIAL») y
+  el tablón de corcho (§7.3).
+- Una letra por uso (§6.4), la cara de cada personaje en cada emoción y
+  sus dinámicas (§8), los memes confirmados (§14), la ficha Pantone (§16),
+  Wallhaven (§17).
+- **Secciones nuevas 18 a 25**: técnica y cómo replicarla, texturas 2D,
+  gustos, por qué la aman, fan dubs, colaboraciones, obras parecidas y el
+  mundo. La guía para IA (§26) trae ahora la parte **de texto**, con 18
+  frases reales por emoción.
+- La tabla **«Cumplimiento del encargo»** (§29) y la bitácora de la
+  segunda pasada (§30).
+- `referencias.json`: de 35 a **126**, con las mejores primero.
+
+**Orden**: las secciones de antes siguen en su sitio. Las antiguas 18, 19,
+20 y 21 son ahora **26** (guía IA), **27** (conceptos), **28** (lo que no
+pude verificar) y **30** (bitácora), para que los puntos nuevos 18-25
+lleven su número del encargo.
+
+**Conceptos de lámina**: siguen los mismos tres. Cambian la caja (gris
+antracita), las poses (fotogramas vistos y números de hoja), el menú (el
+cartel «NUT SHACK») y la lámina 2 (el tablón de corcho, como opción).
+
+**Avisos (dudosos)**: la primera pasada tenía **63**. Se resolvieron
+**27**. Quedan 36 de entonces y se añadieron los de los datos nuevos que
+tienen una sola fuente o no se pudieron ver, contados otra vez en la tabla
+§29 y la lista §28: en total, **127**. Lo que más falta: frases
+del doblaje latino con minuto, vídeo en 1080p, caras de algunas emociones
+y las vistas de los fandubs.
 
 ---
 
@@ -2148,7 +2211,50 @@ Actualizado en la segunda pasada. Tachado = resuelto.
 
 ## 29 · Cumplimiento del encargo
 
-(pendiente)
+Los 25 puntos de «Qué investigar» de `ENCARGO.md`, tras la segunda pasada.
+✅ hecho, ⚠️ a medias (se dice qué falta), ❌ no hecho.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | 214 imágenes nuevas en hojas de contacto; hoja de modelo 2200×2200, ficha Pantone, Main Model Pack y las 2 key arts del 25.º vistas; portadas de juegos; logo en SVG (§3) |
+| 2 · Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | 17 escenas **vistas** con enlace al segundo y las de subtítulo de la primera pasada (§2). **Ninguna en 1080p**: los clips de Dailymotion van de 320×240 a 512×312 (YouTube dio 429). Los fotogramas 1920×1080 de la wiki no tienen minuto |
+| 3 · Fan art y 3D con licencia | ✅ | 18 modelos de Sketchfab con licencia leída de la API; Mrlunettes corregido a no comercial; ArtStation y LEGO Ideas como referencia (§4) |
+| 4 · Sitios, luz, paleta y texturas | ✅ | exterior de día medido en fotograma (`#289FBF`…), la caja (`#282927`), dos casas de Don Cangrejo vistas, Poly Haven y ambientCG CC0 (§5). Falta medir el interior y un papel térmico libre ⚠️ |
+| 5 · Tipografía, una letra por uso | ✅ | tabla de 8 usos con letra libre comprobada con fontTools (tildes, ñ, ¿, ¡); Some Time Later comprobada dos veces (§6). La letra de los globos de los cómics no se encontró ⚠️ |
+| 6 · Cómo hablan en pantalla | ✅ | la serie no usa globos: tarjeta del narrador, menú, carteles («NUT SHACK», «DAILY SPECIAL»), botón de Calamardo visto, tablón de corcho, avisos de *Rehydrated* con el icono dentro (§7) |
+| 7 · Personajes y encuestas de popularidad | ✅ | no hay encuesta oficial de Nickelodeon (dicho); The Ringer 2021 (2,5 millones de votos, gana Bob), Ranker (Patricio, Calamardo), KCA 17 años seguidos (§9) |
+| 8 · Doblaje latino y frases textuales | ⚠️ | reparto con dos o tres fuentes por nombre, corregido (Carlos Vitale, Pérez Pons, Karen actual) (§10). **Frases textuales con vídeo y minuto: no hay**; las latinas son 3 confirmadas sin minuto. Queda para oír en persona |
+| 9 · Música y sonido | ✅ | opening visto plano a plano con segundo exacto; steel guitar, ukelele, «Grass Skirt Chase», el «cha-ching»; ending cantado no existe (visto) (§11) |
+| 10 · Vídeos con minuto | ⚠️ | tráiler 2025 y clip de Nick Latinoamérica vistos con minuto (§12); los vídeos de YouTube y las tendencias de TikTok, sin minuto (YouTube 429) |
+| 11 · Videojuegos: interfaz, menús, cajas | ⚠️ | rótulos de *BFBB*, capturas del juego de Patricio, patrón de avisos de *Rehydrated* (TCRF), *All-Star Brawl 2* (§13). Las cajas de diálogo y *Krusty Cook-Off*, sin ver; Game UI Database no abre |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | 9 memes confirmados con la lista de la wiki latina; qué no hacer ampliado (§14) |
+| 13 · Descripción profunda y cara en cada emoción | ⚠️ | carácter, historia, cómo habla y dinámicas de los 6 (§8). Tabla de caras: 14 de 25 casillas con fotograma, 11 sin encontrar; parte de los minutos es de copias sin enlace |
+| 14 · Poses analizadas con minuto | ⚠️ | 17 poses **vistas** con enlace y 28 de la primera pasada, casi todas deducidas del subtítulo (§15). Sólo Don Cangrejo llega a 6 poses vistas; Calamardo, Patricio y Plankton, 2 cada uno |
+| 15 · Vestuario con hex | ✅ | hex medidos en dos fuentes (hoja de modelo y stock art) para Don Cangrejo, Calamardo y Patricio; Plankton del SVG; Bob con Pantone oficial (§16). Karen sigue con hex de fans ⚠️ |
+| 16 · Paisajes y fondos de pantalla | ✅ | sitios con su hora del día (día, noche, nevado); 2 fondos de Wallhaven con tamaño; key arts oficiales (§17). Autores originales de los fondos de fans sin confirmar ⚠️ |
+| 17 · Guía para IA de imagen y de texto | ✅ | rasgos fijos con hex, línea, luz, encuadre, palabras que ayudan y estropean, referencias con número de hoja; voz de cada personaje y 18 frases reales por emoción (§26) |
+| 18 · Estilo y técnica, cómo replicarlo | ✅ | etapas de animación con fuente primaria, fondos en gouache (dos fuentes), color de la línea (Pantone 392), receta de Photoshop y Blender, encuadres (§18) |
+| 19 · Texturas 2D | ✅ | logos, patrón del short, grano de papel CC0, pinceles, papeles del mundo; aviso de que no hay tramas de manga (§19) |
+| 20 · Gustos y detalles | ⚠️ | cumpleaños, comida, aficiones, miedos, alergias, objeto y cómo se ve, de 6 personajes (§20). **Alturas: no encontradas** |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | premios y récord Guinness, con quién se identifica el público, 4 escenas (§21). Falta minuto, música y reacciones con votos en 3 de las 4 |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 4 fandubs de YouTube y 3 TikToks de doblaje, uno con 109 000 likes (§22). Vistas sin contar; covers del opening en español no encontrados |
+| 23 · Colaboraciones, figuras y cosplay | ⚠️ | Fortnite, Vans, Krabby Patty Kollab, *All-Star Brawl*, Funko, con dos fuentes (§23). **Cosplay con crédito y cafés temáticos: no encontrados** |
+| 24 · Obras parecidas | ✅ | *Rocko's Modern Life* y *Ren y Stimpy* confirmados; series del mismo tono; ningún otro encargo pide este canal (§24) |
+| 25 · Mundo, historia y símbolos | ✅ | reglas en 5 líneas, etapas de producción, emblemas y vocabulario (§25) |
+| 3 conceptos de lámina | ✅ | A caja, B Calamardo, C Crustáceo contra Balde, actualizados con fotogramas y números de hoja (§27) |
+| Fuentes distintas (mínimo 40) | ✅ | 92 webs distintas enlazadas en la biblia |
+| Oficiales y staff | ✅ | Nickelodeon, AWN, Smithsonian, Tibbitt, Hillenburg, Waller y Ceccarelli, Amy Lewis, Hogan's Alley |
+| Otros idiomas | ✅ | serie de EE. UU.: español e inglés; subtítulos chinos de GitHub. Japonés y coreano no aplican |
+| Wikis, TV Tropes, TCRF, Wayback | ✅ | Encyclopedia SpongeBobia, Doblaje Wiki, Bob Esponja Wiki, TV Tropes y TCRF por Wayback |
+| Foros y comunidades | ✅ | Reddit por Arctic Shift, SBMania, blog de Tumblr |
+| Arte (Pixiv, ArtStation, DeviantArt) | ⚠️ | ArtStation sí; Pixiv y DeviantArt sin resultados útiles |
+| Vídeo con minuto | ✅ | 7 vídeos de Dailymotion, 299 fotogramas mirados |
+| Código y recursos | ✅ | GitHub, Sketchfab, Poly Haven, ambientCG |
+| Doblaje latino (API, ANMTV, entrevistas) | ✅ | Doblaje Wiki por su API, ANMTV, entrevistas en TikTok (Luis Carreño, El Retake) |
+| Hojas de contacto | ✅ | 3 en `hojas/`, vistas y descritas por número (§3.6) |
+| `referencias.json` | ✅ | 126 referencias, las mejores primero |
+
+Ningún punto queda en ❌. Los ⚠️ se explican arriba y en §28.
 
 ## 30 · Bitácora de búsqueda
 
