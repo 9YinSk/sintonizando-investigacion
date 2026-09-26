@@ -681,3 +681,72 @@ El fandub de Zelda es pequeño: es un juego, no un anime.
 - **Covers de openings:** no aplica; la música es instrumental. No se llegó a buscar covers de «Zelda's Lullaby». ⚠️
 - **Memes hispanos propios:** no se encontró uno viral. El fandom hispano comparte los memes en inglés (Navi, CD-i, «I am Error»). ⚠️
 - **Gancho para el servidor:** el héroe más famoso del videojuego **no tiene voz** en sus juegos 3D. Un reto de doblaje perfecto.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+**Juegos cruzados:**
+- ***Cadence of Hyrule*** (2019), con Brace Yourself Games. Se juega con Link, Zelda, Cadence o Yves al ritmo de 25 temas de Zelda remezclados ([web oficial](https://cadenceofhyrule.nintendo.com/), [Wikipedia](https://en.wikipedia.org/wiki/Cadence_of_Hyrule)). ✅
+- ***Mario Kart 8* y *8 Deluxe*:** Link corre con la moto Master Cycle Zero, ruedas antiguas y un planeador tipo paravela; lleva la Túnica del Campeón ([MarioWiki](https://www.mariowiki.com/Master_Cycle_Zero), [Zelda Dungeon](https://www.zeldadungeon.net/new-mario-kart-8-deluxe-update-adds-master-cycle-zero-and-breath-of-the-wild-link/)). ✅
+- ***Monster Hunter XX*** (2017, Japón): colaboración con BotW ([wiki de Monster Hunter](https://monsterhunter.fandom.com/wiki/The_Legend_of_Zelda)). ⚠️
+- ***Super Smash Bros.*:** Link, Zelda/Sheik, Ganondorf, Young Link y Toon Link. Arte cruzado: Zelda y Peach animando (nº82). ✅
+
+**40.º aniversario (2026, en curso):**
+- El Nintendo Direct del 8-sep-2026 anunció **película de acción real**, **gira de conciertos** y el remake de *Ocarina of Time* con el Nintendo Museum de Kioto ([CNN en Español](https://cnnespanol.cnn.com/2026/09/08/entretenimiento/legend-of-zelda-40-aniversario-pelicula-anuncios-orix), [Nintenderos](https://www.nintenderos.com/2026/09/resumen-completo-y-diferido-en-espanol-del-nintendo-direct-del-40o-aniversario-de-the-legend-of-zelda-8-9-26/)). ✅
+- Restaurante temático en el Nintendo Museum, otoño de 2026 ([Nintenderos](https://www.nintenderos.com/2026/09/zelda-ocarina-of-time-remake-confirma-precios-oficiales-colaboracion-con-el-nintendo-museum-y-lanza-el-medley-orquestal-del-direct/)). ⚠️
+
+**Marcas:** lata de café Suntory Boss con arte de TotK, en máquinas de todo Japón ([Nintenderos](https://www.nintenderos.com/2024/09/disfruta-del-cafe-de-zelda-gracias-a-esta-colaboracion/), [LEVEL UP](https://www.levelup.com/noticias/lanzan-un-cafe-de-the-legend-of-zelda-gracias-a-una-nueva-colaboracion/)). ✅
+
+**Figuras oficiales** (su pose sirve de referencia 3D):
+- First 4 Figures, Link de BotW, edición exclusiva ([tienda](https://www.first4figures.com/the-legend-of-zelda-breath-of-the-wild-link-exclusive-edition.html)). ✅
+- First 4 Figures, Zelda y Link, edición Master, 10" ([catálogo](https://first4figures.com/collections/the-lefgend-of-zelda)). ✅
+
+**Cosplay bien hecho** (volumen y materiales reales):
+- Link y Zelda de BotW: **valetz_ryu_lain** y **peppyy_**; foto de **osawaay**, edición de **ragezeph_photo** ([ScreenRant](https://screenrant.com/botw-link-zelda-incredible-cosplay/)). ✅
+- Guardián de BotW a tamaño real ([ScreenRant](https://screenrant.com/zelda-botw-cosplay-decayed-guardian-megacon-orlando/)). ⚠️
+- Link con armadura bárbara y maza de Lynel a mano ([ScreenRant](https://screenrant.com/zelda-botw-barbarian-armor-cosplay-lynel-crusher/)). ⚠️
+- Técnica de armadura en goma EVA: [Kinpatsu Cosplay](https://kinpatsucosplay.com/). ⚠️
+
+## 24 · Obras parecidas
+
+**Influencias que reconoce Miyamoto:**
+- Su infancia explorando cuevas y bosques cerca de Sonobe (Kioto): quería que el juego diera esa sensación de descubrir y perderse ([Den of Geek](https://www.denofgeek.com/games/the-inspiration-behind-the-legend-of-zelda/), [VGC](https://www.videogameschronicle.com/features/zelda-at-40-how-shigeru-miyamotos-childhood-explorations-inspired-nintendos-legendary-classic/)). ✅
+- *El Señor de los Anillos* de Tolkien. ✅
+- Ghibli o *Nausicaä*: no se encontró fuente. No se afirma. ⚠️
+
+**Influencias de ida y vuelta:**
+- *Shadow of the Colossus* (2005) pensó sus colosos como «mazmorras de Zelda al revés». Luego BotW se inspiró en él y en *Skyrim* ([Zelda Dungeon](https://www.zeldadungeon.net/inspired-by-zelda-the-twilight-essence-of-shadow-of-the-colossus/)). ✅
+- *Elden Ring* (2022) se ve como heredero de BotW. Fujibayashi negó que TotK se inspirara en él: no tuvieron tiempo de jugarlo ([FandomWire](https://fandomwire.com/zelda-eiji-aonuma-tears-of-the-kingdom-elden-ring/)). ✅
+
+**Biblias del servidor que se le parecen (para no repetir ideas):**
+- Mundo abierto y mazmorras: `117-god-of-war`, `125-elden-ring`, `121-tomb-raider`, `67-hollow-knight`. Zelda se distingue por la paleta clara y el tono de cuento.
+- Fantasía pintada a mano: las de Ghibli (`98` a `102`). Si la lámina de Zelda va pictórica, que lleve el Sheikah Slate, la Trifuerza o la cápsula de BotW para que no parezca «otro canal Ghibli».
+- Canal: no hay ninguna lámina de Zelda todavía.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas:** ✅
+1. Tres diosas (Din, Nayru, Farore) crearon Hyrule y dejaron la **Trifuerza**, que concede el deseo de quien la toca.
+2. **Link**, **Zelda** (reencarnación de la diosa Hylia) y **Ganon** renacen una y otra vez en épocas distintas.
+3. Pueblos: hylianos, zora (del agua), goron (de roca), gerudo (del desierto, casi sólo mujeres), kokiri y korok (del bosque), sheikah (sigilo y tecnología antigua).
+4. Magia y tecnología antigua conviven: Guardianes y Bestias Divinas sheikah; en TotK, la tecnología **zonai**, aún más antigua.
+5. La **Espada Maestra** sella el mal y sólo la empuña quien es digno.
+
+**La historia por arcos** (cronología oficial de *Hyrule Historia*) ([Zelda Wiki](https://zelda.fandom.com/wiki/Zelda_Timeline), [Dexerto](https://www.dexerto.com/legend-of-zelda/the-legend-of-zelda-fallen-hero-child-and-adult-timelines-explained-2115913/)): ✅
+- **El origen:** *Skyward Sword*. Hylia, el primer Link, la fundación de Hyrule.
+- **La ruptura:** *Ocarina of Time*. La historia se parte en tres:
+  - **Línea del héroe caído** (Link pierde): *A Link to the Past*, *Oracle*, *Link's Awakening* y, al final, el Zelda de 1986 y *Zelda II*.
+  - **Línea adulta** (Link vence de adulto): *The Wind Waker* (Hyrule bajo el mar), *Phantom Hourglass*, *Spirit Tracks*.
+  - **Línea infantil** (Link vuelve a ser niño): *Majora's Mask*, *Twilight Princess*, *Four Swords Adventures*.
+- **BotW y TotK:** miles de años después, con Hyrule en ruinas. Nintendo no los sitúa en ninguna rama. ⚠️
+- ⚠️ Nota del redactor: la parte de texto ponía *Minish Cap* en la línea infantil y unía cada línea a un trozo de la Trifuerza. Eso no sale en las fuentes que cita; aquí se quitó. Comprobar en la wiki antes de usarlo.
+
+**Momentos clave que todo fan reconoce:** sacar la Espada Maestra; el despertar de Link sin memoria en BotW; el llanto de Zelda; la despedida de Midna; Ganon convertido en bestia en el castillo.
+
+**Emblemas:**
+- **Trifuerza:** Poder (Din) arriba, Sabiduría (Nayru) abajo a la izquierda, Valor (Farore) abajo a la derecha ([Zelda Wiki](https://zelda.fandom.com/wiki/Triforce), [TheGamer](https://www.thegamer.com/the-legend-of-zelda-triforce-aspects-history-goddesses/)). ✅
+- **Cresta Hyliana:** ave de alas abiertas, marca de Hylia y de la familia real; es el Loftwing carmesí del primer héroe. Va en el Escudo Hyliano ([wiki](https://zelda.fandom.com/wiki/Hylian_Crest)). ✅
+- **Ojo Sheikah:** ojo abierto con tres pestañas triangulares y una lágrima: la tribu «llega hasta donde haga falta» ([wiki](https://zelda.fandom.com/wiki/Eye_Symbol)). ✅
+- **Símbolo gerudo:** la luna con estrella de la N64 se retiró ([foro de Zelda Universe](https://zeldauniverse.net/forums/Thread/82753-Sheikah-and-Gerudo/)). ✅ Usar el diseño posterior.
+- **Espiral zonai** (TotK): verde menta, como sus glifos. ⚠️
+
+**Vocabulario que un fan reconoce al instante:** Hyrule, Trifuerza, Espada Maestra, rupia, corazón, Ganon, Ganondorf, Calamity Ganon, Hylia, hyliano, Kokiri, Korok, Zora, Goron, Gerudo, Sheikah, Zonai, Guardianes, Bestias Divinas, Campeones, Sabios, Sheikah Slate, Purah Pad, Malicia.

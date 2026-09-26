@@ -173,3 +173,69 @@ salen varios clips «Death Note - L Confronts Light» (64 s, canal Netflix
 entre ellos, https://www.dailymotion.com/video/x70vd6b). **Son de la
 película live-action de 2017**, no del anime — mismo aviso que ya tenía la
 biblia para los tráilers de Netflix. No los uses de referencia de estilo.
+
+---
+
+## 14 · Poses analizadas por personaje (confirmadas mirando el fotograma real)
+
+La tabla de poses de la biblia (§15) tenía el minuto de los subtítulos ✅
+pero la postura descrita era **de memoria** ⚠️. Abrí el fotograma real de
+cada una (mismos minutos, Internet Archive) con Read. Marco **confirma**,
+**corrige** (minuto o gesto distintos) o **nuevo** (pose que no estaba).
+
+### Light Yagami
+
+| # | Ep., minuto | Fotograma dice | Resultado |
+|---|---|---|---|
+| 1 | 1, 04:32 | «sentado con el cuaderno en las manos» | **corrige**: es un insert de la página, no un plano de Light (ver punto 2) |
+| 6 | 8, 18:35 | «mano en la bolsa, papa en el aire» | **confirma y mejora**: además escribe con la otra mano en el cuaderno abierto a la vez — el gesto es «trabajar con las dos manos» |
+| 7 | 24, 05:42 | «media cara en sombra, sonrisa torcida» | **confirma y añade**: ojos rojos brillantes + auricular de manos libres junto a la boca (está al teléfono mientras sonríe) |
+| — | 25, 18:00 (no 17:41) | «la sonrisa que todos recuerdan» | **corrige el minuto**: a las 17:41 aún no se ve con claridad; la sonrisa nítida, boca abierta, luz roja de alarma, es a las **18:00** |
+| 8 | 36, 21:12 | «de pie, cabeza gacha, sonríe» | **corrige el encuadre**: es un primerísimo primer plano, pelo despeinado tapando un ojo, **bolígrafo entre los dientes**, fondo blanco quemado de luz — más intenso que «de pie» |
+
+**Sirve para** (con el fotograma ya comprobado): explicar (insert del cuaderno),
+animar/humor (papa+escritura simultánea), pensar-villano (keikaku doori, con
+el detalle del teléfono), celebrar-villano (la sonrisa con L, el boli en los
+dientes del almacén).
+
+### L
+
+| # | Ep., minuto | Fotograma dice | Resultado |
+|---|---|---|---|
+| 1 | 2, 17:36 | «sólo la "L" gótica en pantalla blanca» | **confirma exacto**: tele CRT azul con la letra L caligráfica negra sobre blanco, mueble y suelo verde alrededor |
+| 5 | 10, 08:14 | «en cuclillas sobre la silla del café» | **confirma exacto**: dedo en el labio, jardinera con plantas verdes, luz cálida de persiana detrás — postura de pensar perfecta para «explicar» |
+| 8 | 25, 17:12 | «en la azotea, empapado, mirando al cielo» | **corrige el momento**: a las 17:12 ya está DENTRO, en un plano rojo de alarma alcanzando un panel — el plano de la azotea bajo la lluvia es antes, a las **10:30-11:05** |
+
+**Sirve para**: presentar sin cara (la «L», el misterio antes de conocerlo),
+explicar/pensar (la postura en cuclillas, icónica en todo merchandising).
+
+### Ryuk
+
+| # | Ep., minuto | Fotograma dice | Resultado |
+|---|---|---|---|
+| 2 | 1, 13:00 | «aparece detrás de Light, enorme, sonrisa de dientes» | **confirma**: contrapicado, Light de espaldas al escritorio, Ryuk con alas de pelo negro en punta llenando el encuadre, ventana con cortina azul |
+| 3 | 1, 16:12 | «muerde una manzana roja» | **corrige**: en ese segundo se ve su silueta completa a contraluz azul con el cinturón de hebilla-calavera; el mordisco cae uno o dos segundos antes o después (±2 s, aviso de storyboard) |
+
+**Sirve para**: presentar (la silueta enorme detrás de Light es la pose más
+reutilizable: funciona para «alguien imponente entra en escena»).
+
+### Misa Amane
+
+| # | Ep., minuto | Fotograma dice | Resultado |
+|---|---|---|---|
+| 1 | 11, 03:27 | «sólo la cinta en la tele» | **confirma**: pantalla de TV con estática, cronómetro verde «5:59» y la palabra «KIRA» escrita a mano en gótico — no se ve a Misa, es literalmente la grabación |
+| 3 | 12, 14:39 | «posa para la cámara en una sesión de fotos» | **confirma y detalla**: primer plano, pelo rubio, labios rojos, bufanda roja tejida con un pendiente en forma de «M», mirada de lado sonriente — buena pose para «celebrar» |
+| 4 | 13, 10:31 | «ve a Light entre la gente, con los ojos de shinigami» | ⚠️ **no confirmado**: en ese segundo el plano es de un personaje con gafas (no identifico si es Misa) con el efecto de «ojos de shinigami» (anillo rojo) reflejado en los cristales — confirma el EFECTO visual pero no que sea ella en ese fotograma exacto |
+
+### Near
+
+| # | Ep., minuto | Fotograma dice | Resultado |
+|---|---|---|---|
+| 1 | 27, 02:01 | «de niño, en el suelo, con un puzle blanco» | ⚠️ **no confirmado**: el fotograma de ese segundo muestra a otro chico de Wammy's House (pelo cobrizo, luz dorada), no a Near — el minuto puede necesitar ajuste de ±5-10 s, no lo pude fijar hoy |
+| 2 | 28, 01:49 | «voz tras una "N" en pantalla» | ⚠️ **parcial**: se ve una cara de pelo claro despeinado (compatible con Near) hablando por teléfono en penumbra azul, pero no el texto «N» en pantalla en ese segundo exacto |
+| 4 | 33, 11:53 | «sentado entre juguetes, concluye» | **confirma parcialmente**: primer plano de Near con el pelo cubriéndole los ojos, camisa blanca abierta — no se ven los juguetes en este encuadre cerrado, pero sí la postura fría y el gesto de concluir |
+
+**Nota honesta**: con Misa y Near el ajuste fino de segundo a segundo es más
+flojo que con Light/L/Ryuk (protagonistas, más fotogramas comprobados). Quien
+monte la lámina debería mirar ±10 s alrededor de los minutos con ⚠️ antes de
+usarlos como referencia exacta de pose.

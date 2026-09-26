@@ -1,1424 +1,1397 @@
 [
- {
-  "url": "https://safebooru.org/images/1096/db3d1c9105029bf9f66d68bc2cfcfa1d6241f771.jpg",
-  "fuente": "Safebooru",
-  "ancho": 2952,
-  "alto": 2075,
-  "que_es": "Fan art estilo Ghibli, etiqueta transversal studio_ghibli",
-  "para_que": "Referencia de estilo (nunca pegar)",
-  "licencia": "Derechos del autor original (X/Twitter)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo035.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: cuenco de ramen con jamón (Ponyo)",
-  "para_que": "Referencia de 'comida Ghibli', paleta medida",
-  "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro025.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: luz filtrada entre hojas (komorebi), Mei en el túnel de plantas",
-  "para_que": "Referencia de luz/komorebi, paleta medida",
-  "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/kazetachinu015.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: bento envuelto en furoshiki (El viento se levanta)",
-  "para_que": "Referencia de comida cotidiana japonesa",
-  "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/kazetachinu001.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: Jiro volando con gafas sobre el campo (viento)",
-  "para_que": "Referencia de viento/vuelo",
-  "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl020.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: vapor verde mágico dentro de la casa (Howl)",
-  "para_que": "Referencia de luz de color/magia",
-  "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/majo020.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: Kiki con vestido negro y lazo rojo en la panadería",
-  "para_que": "Vestuario icónico de Kiki, hex medidos",
-  "licencia": "Uso libre no comercial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl005.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: Sophie y Howl de cerca (sombrero, vestido, capa)",
-  "para_que": "Vestuario de Sophie y Howl, hex medidos",
-  "licencia": "Uso libre no comercial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/nausicaa025.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: Nausicaä con su traje azul",
-  "para_que": "Vestuario de Nausicaä, hex medidos",
-  "licencia": "Uso libre no comercial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo030.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: Ponyo en forma mitad pez sobre las olas",
-  "para_que": "Vestuario/color de Ponyo, hex medidos",
-  "licencia": "Uso libre no comercial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro030.jpg",
-  "fuente": "ghibli.jp (oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial: primer plano de Totoro rugiendo",
-  "para_que": "Color de pelaje de Totoro, hex medidos",
-  "licencia": "Uso libre no comercial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro001.jpg",
-  "fuente": "Studio Ghibli (ghibli.jp/works/totoro/), fotograma oficial de libre uso",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Mei y Satsuki corriendo hacia la casa nueva (Mi Vecino Totoro): fondo pintado a mano con capas de vegetación, veladuras de luz y línea de contorno constante",
-  "para_que": "referencia visual directa de la técnica de fondo pintado a mano y la luz (punto 18; coincide con 'cómo se logra: fondos, luz' del encargo)",
-  "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke001.jpg",
-  "fuente": "Studio Ghibli (ghibli.jp/works/mononoke/), fotograma oficial de libre uso",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Ashitaka y un anciano bajo un tejado de paja, luz de contraluz recortando las siluetas contra el cielo azul",
-  "para_que": "ejemplo de manejo de luz y sombreado plano por capas, útil para el punto 18 (contraluz, paleta reducida en interiores)",
-  "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/laputa001.jpg",
-  "fuente": "Studio Ghibli (ghibli.jp/works/laputa/), fotograma oficial de libre uso",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Sheeta cayendo con la piedra de levitación brillando en su pecho (El Castillo en el Cielo)",
-  "para_que": "el amuleto/piedra de levitación es uno de los objetos-símbolo más reconocibles del universo Miyazaki (punto 25)",
-  "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/nausicaa001.jpg",
-  "fuente": "Studio Ghibli (ghibli.jp/works/nausicaa/), fotograma oficial de libre uso",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Los Guerreros Gigantes (Kyoshinhei) incendiando una ciudad, escena del prólogo sobre los 'Siete Días de Fuego'",
-  "para_que": "símbolo de origen/mito fundacional recurrente en el mundo Miyazaki, citado en varias películas como advertencia ecológica (punto 25)",
-  "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro034.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Mi vecino Totoro): parada del autobús bajo la lluvia, Totoro con paraguas",
-  "para_que": "Escena icónica punto 2; pose 'pensar/esperar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro031.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Mi vecino Totoro): Gatobús llegando de noche con los ojos-faro encendidos",
-  "para_que": "Escena icónica punto 2; paleta medida punto 4 (#272A27 dominante); pose 'presentar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro019.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Mi vecino Totoro): los totoros pequeños corriendo por un túnel de árboles",
-  "para_que": "Escena icónica punto 2 (viento, hojas en movimiento); pose 'animar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro022.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Mi vecino Totoro): panza enorme de Totoro roncando con las niñas dormidas encima",
-  "para_que": "Pose 'celebrar/relajar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro037.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Mi vecino Totoro): Totoro y otros dos tocando una ocarina de hoja en una rama",
-  "para_que": "Pose 'animar/celebrar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/totoro046.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Mi vecino Totoro): boca abierta del Gatobús con las niñas sentadas dentro",
-  "para_que": "Pose 'celebrar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/majo010.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki volando de noche sobre el mar con Jiji, vestido al viento",
-  "para_que": "Escena icónica punto 2 (viento)",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/majo028.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Kiki: entregas a domicilio): panadería con el horno y el pan recién hecho",
-  "para_que": "Escena icónica punto 2 (comida); paleta medida punto 4 (#232322 dominante, marrones de madera)",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/majo001.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki tumbada en la hierba, brazos tras la cabeza, Jiji cerca",
-  "para_que": "Pose 'pensar/soñar despierta' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/majo019.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki fregando el suelo a cuatro patas",
-  "para_que": "Pose 'explicar' (trabajo diario) punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/majo034.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki entregando un pastel en una puerta, cesta en el brazo",
-  "para_que": "Pose 'presentar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/majo025.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki agarrada al plumaje de un cuervo en pleno vuelo",
-  "para_que": "Pose 'pensar/aguantar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/majo046.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki barriendo la calle, ropa despeinada por el viento",
-  "para_que": "Pose 'explicar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke010.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (La princesa Mononoke): el Espíritu del Bosque (Shishigami) de día, entre rayos de luz dorada",
-  "para_que": "Escena icónica punto 2 (luz); paleta medida punto 4 (#2E2823 dominante, amarillo-dorado de acento)",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke025.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (La princesa Mononoke): el Caminante Nocturno, forma gigante azul translúcida del mismo espíritu",
-  "para_que": "Escena icónica punto 2 (luz nocturna)",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke007.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (La princesa Mononoke): San con sangre en la boca, mejilla pegada al lobo blanco Moro",
-  "para_que": "Pose 'regañar/advertir' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke034.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (La princesa Mononoke): San montada sobre un lobo, lanza en alto, corriendo con la manada",
-  "para_que": "Pose 'animar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke031.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (La princesa Mononoke): cara de San pegada al ojo de un lobo gigante",
-  "para_que": "Pose 'pensar/confiar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke043.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (La princesa Mononoke): San sosteniendo a Ashitaka en brazos dentro del agua",
-  "para_que": "Pose 'explicar/cuidar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke046.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (La princesa Mononoke): San forcejeando con Ashitaka, sujetos por un lobo",
-  "para_que": "Pose 'regañar/discutir' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/mononoke049.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (La princesa Mononoke): San mirando al cielo con nubes, expresión serena tras la batalla",
-  "para_que": "Pose 'pensar/celebrar en calma' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl016.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (El increíble castillo vagabundo): desayuno de tocino y huevos fritos en la sartén de Calcifer",
-  "para_que": "Escena icónica punto 2 (comida más citada de Ghibli); paleta medida punto 4 (#8E6C56 dominante, naranja de fuego)",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl049.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (El increíble castillo vagabundo): el castillo ambulante volando entre montañas y nubes al amanecer",
-  "para_que": "Escena icónica punto 2 (luz)",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl001.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie asomada a la ventana de su sombrerería, rodeada de flores",
-  "para_que": "Pose 'presentar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl004.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie caminando del brazo de Howl por el pueblo en fiesta",
-  "para_que": "Pose 'explicar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl019.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie ya anciana, fregando el suelo del castillo entre trastos",
-  "para_que": "Pose 'explicar/trabajar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl022.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie de joven otra vez, envuelta en una toalla, corriendo emocionada",
-  "para_que": "Pose 'celebrar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl037.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie abrazando a alguien en un campo de flores",
-  "para_que": "Pose 'celebrar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/howl046.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie con el pelo plateado alborotado, rodeada de burbujas de agua",
-  "para_que": "Pose 'pensar/sorprenderse' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo028.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Ponyo en el acantilado): Ponyo corriendo sobre olas convertidas en peces gigantes en la tormenta",
-  "para_que": "Escena icónica punto 2 (viento y agua); pose 'animar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo034.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Ponyo en el acantilado): Ponyo comiendo ramen con jamón en un tazón verde, a cucharadas",
-  "para_que": "Escena icónica punto 2 (comida); pose 'celebrar/comer' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo025.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Ponyo en el acantilado): ola-pez gigante en plena tormenta",
-  "para_que": "Paleta medida punto 4 (#317AA9 dominante, casi todo azul, la más clara de la muestra)",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo004.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Ponyo en el acantilado): cara de Ponyo asomando dentro de una burbuja/medusa gigante bajo el agua",
-  "para_que": "Pose 'pensar/observar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo007.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Ponyo en el acantilado): Ponyo enredada en una red de pesca junto a basura marina",
-  "para_que": "Pose 'explicar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo016.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Ponyo en el acantilado): cara de Ponyo metida en un tazón verde, sonriendo",
-  "para_que": "Pose 'celebrar' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/ponyo049.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Ponyo en el acantilado): Ponyo saltando junto a Sōsuke desde un acantilado hacia el cielo",
-  "para_que": "Pose 'celebrar (final)' punto 14",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.ghibli.jp/gallery/kazetachinu028.jpg",
-  "fuente": "ghibli.jp (galería oficial)",
-  "ancho": 1920,
-  "alto": 1038,
-  "que_es": "Fotograma oficial (Se levanta el viento): Naoko pintando al aire libre, bosque agitado por el viento",
-  "para_que": "Escena icónica punto 2 (viento); paleta medida punto 4 (#66A93F dominante, verdes vegetales)",
-  "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
- },
- {
-  "url": "https://www.dailymotion.com/video/x9csuhi",
-  "fuente": "Dailymotion (tráiler doblado ES)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Mi vecino Totoro (1988) — tráiler oficial doblado al español, 70 s, 8589 vistas, 24 planos vistos con fotogramas.py --cortes",
-  "para_que": "Punto 10 (vídeos/tráileres); plano de la parada del autobús citado en el punto 2 a 0:32",
-  "licencia": "Vídeo promocional oficial de distribución"
- },
- {
-  "url": "https://www.dailymotion.com/video/x88a5in",
-  "fuente": "Dailymotion (tráiler japonés subtitulado en inglés)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "Kiki: entregas a domicilio — tráiler oficial japonés subtitulado, 118 s, 2692 vistas, 31 planos vistos",
-  "para_que": "Punto 10; créditos de música en pantalla citados en el punto 9 (1:20-1:23); vuelo sobre el mar en el punto 2 a 0:34",
-  "licencia": "Vídeo promocional oficial de distribución"
- },
- {
-  "url": "https://www.dailymotion.com/video/x971hck",
-  "fuente": "Dailymotion (tráiler Miramax, inglés)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "La princesa Mononoke — tráiler oficial (Miramax), 102 s, 962 vistas, 42 planos vistos",
-  "para_que": "Punto 10; Shishigami de día en el punto 2 a 1:32; Caminante Nocturno a 0:48",
-  "licencia": "Vídeo promocional oficial de distribución"
- },
- {
-  "url": "https://www.dailymotion.com/video/x8x2lpe",
-  "fuente": "Dailymotion (tráiler Disney US, inglés)",
-  "ancho": 1280,
-  "alto": 720,
-  "que_es": "El increíble castillo vagabundo — tráiler oficial (Disney US), 96 s, 1354 vistas, 45 planos vistos",
-  "para_que": "Punto 10; castillo volando citado en el punto 2 a 1:04",
-  "licencia": "Vídeo promocional oficial de distribución"
- },
- {
-  "url": "https://live.staticflickr.com/8313/8025600359_b89c00a1c1_b.jpg",
-  "fuente": "Openverse/Flickr",
-  "ancho": 1024,
-  "alto": 768,
-  "que_es": "Foto del Museo Ghibli (Mitaka), exterior con el robot de Laputa",
-  "para_que": "Referencia real de arquitectura Ghibli",
-  "licencia": "CC BY-SA 2.0"
- },
- {
-  "url": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Studio_Ghibli.svg/revision/latest?cb=20170514021826",
-  "fuente": "Logos Wiki / Logopedia (Fandom), vector alojado en static.wikia.nocookie.net (pide cabecera Referer: https://www.fandom.com/)",
-  "ancho": 1000,
-  "alto": 481,
-  "que_es": "Logo principal del estudio (Rey Totoro de perfil + Chibi Totoro), en negro puro sobre fondo transparente, con 'STUDIO GHIBLI' en Futura",
-  "para_que": "referencia exacta de la tipografía del logo y su trazo (punto 5); tamaño confirmado con la API de imageinfo de Fandom",
-  "licencia": "Marca registrada de Studio Ghibli; vector alojado por Fandom/Logopedia, no es el archivo oficial del estudio (uso como referencia, no para redistribuir como propio)"
- },
- {
-  "url": "https://www.dailymotion.com/video/x9mj300",
-  "fuente": "Dailymotion (tráiler doblado ES)",
-  "ancho": 320,
-  "alto": 256,
-  "que_es": "Ponyo en el acantilado — tráiler oficial doblado al español, 107 s, 2448 vistas, 44 planos vistos, incluye la tormenta completa 0:53-1:25",
-  "para_que": "Punto 10; contexto de la escena de la tormenta citada en el punto 2",
-  "licencia": "Vídeo promocional oficial de distribución"
- },
- {
-  "url": "https://www.ghibli-museum.jp/en/exhibitions/013127/",
-  "fuente": "Museo Ghibli (oficial)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Página de la exposición oficial 'Delicious! Animating Memorable Meals'",
-  "para_que": "Fuente oficial sobre el tema comida en Ghibli",
-  "licencia": "Copyright Studio Ghibli / Museo Ghibli, sólo consulta"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-e326c36890364526910cba03c1393ebc",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: nubes estilizadas tipo Ghibli",
-  "para_que": "Fondo/cielo para escenas 3D",
-  "licencia": "CC BY 4.0 (lavakongen)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-0e8fde91fdb5413494e878b0fef85cda",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: desayuno de Howl's Moving Castle (huevo y tocino)",
-  "para_que": "Referencia 3D de comida Ghibli",
-  "licencia": "CC BY 4.0 (Zeps3D)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-5e614fea3aaf4e78bd82cf2b6e0e5c7a",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: ramen de Ponyo",
-  "para_que": "Referencia 3D de comida Ghibli",
-  "licencia": "CC BY 4.0 (Discovered)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-ffb11769e03e4a9395416d714ccd66ce",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: Totoro",
-  "para_que": "Referencia 3D de personaje icónico del estudio",
-  "licencia": "CC BY 4.0 (Vanillaburp)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-f64cff7095ce490aaa3c225c12f81314",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: Catbus (Gatobús)",
-  "para_que": "Referencia 3D de vehículo icónico",
-  "licencia": "CC BY 4.0 (Valentine_Ventura)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-a659068938054b64bbac15110ffd2fa1",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: robot de Laputa",
-  "para_que": "Referencia 3D de objeto icónico del estudio",
-  "licencia": "CC BY 4.0 (zionkoenig)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-e19b57e1b37b470aa00d2f5adb7971f8",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: Kamaji (El viaje de Chihiro)",
-  "para_que": "Referencia 3D de personaje",
-  "licencia": "CC BY 4.0 (godislove431)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-49fceff027814c31bae3bdf2e5e9e732",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: Calcifer (El castillo ambulante)",
-  "para_que": "Referencia 3D de personaje/luz",
-  "licencia": "CC BY 4.0 (berchello)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-64979b7b22d947698600b8d63a05ae47",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: Nausicaä",
-  "para_que": "Referencia 3D de personaje",
-  "licencia": "CC BY 4.0 (lages.miguel)"
- },
- {
-  "url": "https://sketchfab.com/3d-models/none-97090e9e77014c21b64f7f6dfb7803fc",
-  "fuente": "Sketchfab",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Modelo 3D: colección de props de Kiki entrega a domicilio",
-  "para_que": "Referencia 3D de objetos",
-  "licencia": "CC BY 4.0 (Kanna-nakajima)"
- },
- {
-  "url": "https://ghibli.fandom.com/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(manga)",
-  "fuente": "Ghibli Fandom wiki",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Página sobre el manga original de Nausicaä (lápiz/tinta sepia, sin screentone)",
-  "para_que": "Punto 19: única obra grande de Ghibli con manga propio, textura de hachurado",
-  "licencia": "Consulta, derechos de Studio Ghibli/Tokuma Shoten"
- },
- {
-  "url": "https://www.brusheezy.com/brushes/1183-sumi-ink-brushes",
-  "fuente": "Brusheezy",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Pinceles de tinta sumi-e para Photoshop",
-  "para_que": "Punto 19: textura de pincelada tipo fondo pintado a mano",
-  "licencia": "Gratis, uso libre declarado en la ficha"
- },
- {
-  "url": "https://brushespack.com/product/ghibli-inspired-hand-painted-brush-collection/",
-  "fuente": "Brushespack",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Pack de pinceles pintados a mano inspirados en Ghibli (hecho por fans)",
-  "para_que": "Punto 19: textura gouache/acuarela para Photoshop/Procreate",
-  "licencia": "Descarga gratuita declarada en la ficha"
- },
- {
-  "url": "https://ambientcg.com/view?id=Paper004",
-  "fuente": "ambientcg.com",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Textura de papel de grano claro",
-  "para_que": "Punto 19: grano de papel para fondo pintado a mano",
-  "licencia": "CC0"
- },
- {
-  "url": "https://ambientcg.com/view?id=Fabric034",
-  "fuente": "ambientcg.com",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Textura de tela lisa (lino/algodón)",
-  "para_que": "Punto 19: patrón de ropa sencilla tipo Kiki/Sophie",
-  "licencia": "CC0"
- },
- {
-  "url": "https://ambientcg.com/view?id=Wood060",
-  "fuente": "ambientcg.com",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Textura de madera clara",
-  "para_que": "Punto 19: interiores cálidos tipo la casa de Totoro",
-  "licencia": "CC0"
- },
- {
-  "url": "https://en.wikipedia.org/wiki/Ghibli_Park",
-  "fuente": "Wikipedia",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Ghibli Park: las 5 zonas oficiales (Dondoko Forest, Valley of Witches, Mononoke Village, Hill of Youth, Grand Warehouse)",
-  "para_que": "Punto 23: colaboración/expansión física oficial del estudio, referencia 3D del castillo de Howl",
-  "licencia": "Consulta, parque oficial de Studio Ghibli"
- },
- {
-  "url": "https://en.wikipedia.org/wiki/Ni_no_Kuni",
-  "fuente": "Wikipedia",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Serie de videojuegos Ni no Kuni, colaboración oficial Studio Ghibli + Level-5 (incluye el gacha Cross Worlds)",
-  "para_que": "Punto 23: crossover de videojuego oficial confirmado (Fortnite/gacha)",
-  "licencia": "Consulta, propiedad de Level-5/Studio Ghibli"
- },
- {
-  "url": "https://thesmartlocal.jp/shirohiges-cream-puff-factory/",
-  "fuente": "The Smart Local Japan",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Shirohige's Cream Puff Factory, pastelería con permiso oficial del estudio (cuñada de Miyazaki)",
-  "para_que": "Punto 23: colaboración oficial de comida/merchandising transversal",
-  "licencia": "Consulta"
- },
- {
-  "url": "https://www.kanpai-japan.com/travel-guide/donguri-official-ghibli-shops",
-  "fuente": "Kanpai Japan",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Donguri Kyowakoku, tienda oficial de merchandising de todo el catálogo Ghibli",
-  "para_que": "Punto 23: figuras oficiales de referencia, todas las películas",
-  "licencia": "Consulta"
- },
- {
-  "url": "https://1000logos.net/studio-ghibli-logo/",
-  "fuente": "1000logos.net",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Historia y diseño del logo de Studio Ghibli (silueta de Totoro, diseñado por Miyazaki)",
-  "para_que": "Punto 19: emblema/logo transversal del estudio",
-  "licencia": "Consulta, marca registrada de Studio Ghibli"
- },
- {
-  "url": "https://cdn.jsdelivr.net/npm/@fontsource/noto-serif-jp@latest/files/noto-serif-jp-latin-400-normal.woff2",
-  "fuente": "Google Fonts vía Fontsource (api.fontsource.org / cdn.jsdelivr.net)",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Letra libre Noto Serif JP (mismo diseño que Source Han Serif de Adobe) — comprobada con fontTools: á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü, todas presentes",
-  "para_que": "letra libre para rótulos/carteles del mundo y créditos con aspecto mincho formal (punto 5), asociada por kyoukasho.net al look de Porco Rosso / La Colina de las Amapolas",
-  "licencia": "SIL Open Font License 1.1"
- },
- {
-  "url": "https://cdn.jsdelivr.net/npm/@fontsource/jost@latest/files/jost-latin-400-normal.woff2",
-  "fuente": "Google Fonts vía Fontsource (api.fontsource.org / cdn.jsdelivr.net)",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Letra libre Jost, geométrica sans-serif con 'a' de un solo piso — alternativa gratuita a Futura con 90% de similitud según fontalternatives.com; comprobada con fontTools: cubre tildes, ñ, ¿ y ¡ completas",
-  "para_que": "letra libre para el logo/título del canal, equivalente a la Futura real del logo de Studio Ghibli (punto 5)",
-  "licencia": "SIL Open Font License 1.1"
- },
- {
-  "url": "https://ranking.net/rankings/best-ghibli-characters",
-  "fuente": "みんなのランキング / ranking.net (voto público japonés, ~83 personajes de todo Ghibli)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Ranking de personajes Ghibli por voto abierto 1-100 puntos: 1º Haku, 2º Howl, 3º Totoro, 4º Ashitaka, 5º Jiji, 6º Nausicaä, 7º San, 8º Calcifer...",
-  "para_que": "Punto 7: popularidad de personajes a nivel estudio (no por película), y para detectar qué secundarios superan a los protagonistas",
-  "licencia": "Datos de la web, uso como referencia/cita, no reproducir el sitio"
- },
- {
-  "url": "https://nlab.itmedia.co.jp/research/articles/765102/",
-  "fuente": "ねとらぼ調査隊 / Nlab (ITmedia), encuesta de lectores 29-may al 5-jun-2022",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Encuesta con metodología declarada: personaje chico/joven Ghibli favorito, 1º Ashitaka (Mononoke), 2º Shun Amasawa (Susurros del corazón)",
-  "para_que": "Punto 7: segunda medida independiente de popularidad de personajes, cruza con la encuesta Simeji de la biblia hermana (98)",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://nlab.itmedia.co.jp/research/articles/664678/",
-  "fuente": "Nlab (ITmedia), encuesta de heroínas Ghibli 2022",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Encuesta de heroínas favoritas: empate en 1º lugar entre Nausicaä y Sheeta (Laputa)",
-  "para_que": "Punto 7: popularidad de heroínas a nivel estudio",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://nlab.itmedia.co.jp/research/articles/2391170/",
-  "fuente": "Nlab (ITmedia), encuesta de heroínas Ghibli 2024",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Repetición de la encuesta de heroínas en 2024: 1º lugar para Nausicaä sola",
-  "para_que": "Punto 7: confirma en el tiempo que Nausicaä se mantiene como heroína más votada",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://nlab.itmedia.co.jp/research/articles/1585357/",
-  "fuente": "Nlab (ITmedia), encuesta «novio ideal» Ghibli 2023",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Encuesta de personaje Ghibli ideal como novio: 1º Pazu (El castillo en el cielo)",
-  "para_que": "Punto 7: otra dimensión de popularidad de personajes masculinos",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://nlab.itmedia.co.jp/research/articles/1091463/",
-  "fuente": "Nlab (ITmedia), encuesta película Ghibli favorita de los 20 años, 2022",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "1º lugar: El viaje de Chihiro, entre encuestados de 20 años",
-  "para_que": "Punto 21: cruce independiente que confirma el patrón por edad de la encuesta LINE Research",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://nlab.itmedia.co.jp/research/articles/1091651/",
-  "fuente": "Nlab (ITmedia), encuesta película Ghibli favorita de los 40 años, 2022",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "1º lugar: Mi vecino Totoro, entre encuestados de 40 años",
-  "para_que": "Punto 21: cruce independiente que confirma el patrón por edad de la encuesta LINE Research",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://prtimes.jp/main/html/rd/p/000004020.000001594.html",
-  "fuente": "LINE Corporation, comunicado de prensa oficial (PR Times)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Fuente primaria de la encuesta LINE Research: 2-5 sept 2022, n=5.254, top películas Ghibli favoritas por edad",
-  "para_que": "Punto 21: por qué la gente ama Ghibli (datos oficiales de la encuesta, con fecha y n exactos)",
-  "licencia": "Comunicado de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://www.nippon.com/es/japan-data/h01468/",
-  "fuente": "Nippon.com (reporte en español de la encuesta LINE Research)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Resumen en español de la encuesta LINE Research con desglose por edad",
-  "para_que": "Punto 21: segunda fuente (junto a PR Times) y versión en español citable",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Nausica%C3%A4:_Guerreros_del_viento",
-  "fuente": "Doblaje Wiki (Fandom, api.php?action=parse)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Reparto completo del doblaje latino de Nausicaä (Zima 2010, México, dir. Juan Alfonso Carralero) y confirmación de que está en la 2ª fase de Ghibli/Netflix sin doblaje latino",
-  "para_que": "Punto 8: doblaje latino de Nausicaä (completa el pendiente de la tanda anterior)",
-  "licencia": "Texto CC-BY-SA de Fandom; datos de doblaje sólo como referencia"
- },
- {
-  "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Guerreros_del_viento",
-  "fuente": "Doblaje Wiki (Fandom, api.php?action=parse)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Ficha de «Guerreros del viento» (Warriors of the Wind, 1985): corte editado en EE.UU. que rebautizó a Nausicaä «Princesa Zandra», con reparto de sus dos doblajes (Los Ángeles y México)",
-  "para_que": "Punto 8/12: origen de la cláusula de «no cortes» de Ghibli, historia central del doblaje mal hecho que cambió cómo se distribuye la obra",
-  "licencia": "Texto CC-BY-SA de Fandom"
- },
- {
-  "url": "https://www.slashfilm.com/786405/the-reason-studio-ghibli-has-a-strict-no-edits-policy/",
-  "fuente": "SlashFilm",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Explica la política de «no cortes» de Ghibli desde Warriors of the Wind, y la anécdota de la katana de Toshio Suzuki a Harvey Weinstein",
-  "para_que": "Punto 8/12: segunda fuente de la cláusula de no cortes; anécdota citable para «qué NO hacer»",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://screenrant.com/nausicaa-worst-dub-anime-history-factoid/",
-  "fuente": "ScreenRant",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Detalle de que Warriors of the Wind cortó más de 20 minutos y tradujo mal el diálogo a propósito",
-  "para_que": "Punto 8: segunda fuente del corte editado de Nausicaä",
-  "licencia": "Artículo de prensa, uso como cita/referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/doblaje/images/e/e8/Howlhowl1.ogg/revision/latest?cb=20200330152228&path-prefix=es",
-  "fuente": "Doblaje Wiki, muestra de audio (doblaje Zima de El increíble castillo vagabundo)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Audio de Howl (Gerardo García) escoltando a Sophie en el mercado; transcrito completo y medido con voz.py (129 Hz, 21.1 semitonos, 3.12 palabras/s)",
-  "para_que": "Punto 8/13: frase textual completa con ficha de voz de Howl, versión Zima",
-  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
- },
- {
-  "url": "https://static.wikia.nocookie.net/doblaje/images/a/ae/HowlWBhowl1.ogg/revision/latest?cb=20200330160251&path-prefix=es",
-  "fuente": "Doblaje Wiki, muestra de audio (doblaje Wild Bunch de El increíble castillo vagabundo)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "La misma escena de Howl (Alan Prieto); transcrito completo y medido con voz.py (128 Hz, 25.2 semitonos, 2.7 palabras/s)",
-  "para_que": "Punto 8/13: comparación directa de la misma escena en dos actores de doblaje distintos",
-  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
- },
- {
-  "url": "https://static.wikia.nocookie.net/doblaje/images/8/8c/MononokeDisneySan.ogg/revision/latest?cb=20180710222055&path-prefix=es",
-  "fuente": "Doblaje Wiki, muestra de audio (doblaje Buena Vista/Disney de La princesa Mononoke)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Audio de San enfrentando al clan de simios; transcrito completo y medido con voz.py (323 Hz, 12.9 semitonos, 3.52 palabras/s)",
-  "para_que": "Punto 8/13: frase textual completa con ficha de voz de San, versión Disney",
-  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
- },
- {
-  "url": "https://static.wikia.nocookie.net/doblaje/images/7/7b/MononokeZimaSan.ogg/revision/latest?cb=20180710222109&path-prefix=es",
-  "fuente": "Doblaje Wiki, muestra de audio (doblaje Zima de La princesa Mononoke)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "La misma escena de San, versión Zima; transcrito completo y medido con voz.py (322 Hz, 10.0 semitonos, 3.36 palabras/s)",
-  "para_que": "Punto 8/13: comparación directa de la misma escena en dos doblajes distintos",
-  "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
- },
- {
-  "url": "https://www.fandom.com/articles/10-studio-ghibli-heroines-hbo-max",
-  "fuente": "Fandom (artículo editorial)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Análisis de los arquetipos de heroínas Ghibli (sin plantilla única) y del retrato positivo de mujeres mayores (Dola, Yubaba/Zeniba, ancianas de aldea)",
-  "para_que": "Punto 7: arquetipos de personajes transversales a todo el estudio",
-  "licencia": "Artículo editorial, uso como cita/referencia"
- },
- {
-  "url": "https://www.cbr.com/studio-ghibli-best-female-characters/",
-  "fuente": "CBR",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Segunda fuente sobre la diversidad de heroínas Ghibli (no hay dos iguales)",
-  "para_que": "Punto 7: segunda fuente del arquetipo de heroínas variadas",
-  "licencia": "Artículo editorial, uso como cita/referencia"
- },
- {
-  "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9E%97%E5%92%8C%E5%BC%98",
-  "fuente": "Wikipedia japonesa",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Biografía de Kazuhiro Wakabayashi (若林和弘), confirma su filmografía real en Ghibli (Mononoke, Chihiro, Castillo vagabundo) como director de sonido",
-  "para_que": "Punto 13: segunda fuente de las credenciales de Wakabayashi (no de sus citas textuales)",
-  "licencia": "Texto con licencia CC-BY-SA de Wikipedia"
- },
- {
-  "url": "https://ghibli.fandom.com/wiki/Kazuhiro_Wakabayashi",
-  "fuente": "Ghibli Fandom (wiki de fans en inglés)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Entrevista citada de Kazuhiro Wakabayashi sobre su método de diseño de sonido (nunca repetir un efecto, grabar en sitios reales)",
-  "para_que": "Punto 13: cómo se logra el sonido Ghibli, con citas directas",
-  "licencia": "Texto CC-BY-SA de Fandom"
- },
- {
-  "url": "https://danbooru.donmai.us/posts?tags=studio_ghibli",
-  "fuente": "Danbooru (recolectado con recolectar.py)",
-  "ancho": 0,
-  "alto": 0,
-  "que_es": "Cuántos dibujos de fans tiene cada personaje Ghibli (Kiki 1148, San 786, Howl 700, Chihiro 676, Jiji 674...)",
-  "para_que": "Punto 7/12: medida de cariño del fandom distinta del voto directo",
-  "licencia": "Datos de la web, imágenes con derechos de sus autores, sólo referencia del conteo"
- },
- {
-  "url": "https://safebooru.org/images/4155/b692b1f83a69926b85c6e670a485641474fc8f1c.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 3300,
-  "alto": 5100,
-  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://lilystrations.tumblr.com/post/712715047766540288)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4126/b3cc1f6fa0f5c96e8117be97b4d19435724b0b09.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 3600,
-  "alto": 3600,
-  "que_es": "Fan art de ogino_chihiro (https://twitter.com/saghaley/status/1975710304282812650)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3342/a55a0f8e4f1519bd4ed9aaf0312f45b94a2fea2d.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 3000,
-  "alto": 4000,
-  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2025/05/19/09/37/18/130574498_p0.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3562/5c98cd0ece482fabf8eb06dd495fdad727edbbfe.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 2891,
-  "alto": 4096,
-  "que_es": "Fan art de san_(mononoke_hime) (https://twitter.com/yoshi55level/status/1113143189739732992)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/8/8f/Studio_Ghibli_-_All_Characters.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 3556,
-  "alto": 2844,
-  "que_es": "Studio Ghibli: Studio Ghibli - All Characters.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/1/15/Hd-wallpaper.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 4664,
-  "alto": 2160,
-  "que_es": "Studio Ghibli: Hd-wallpaper.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3589/1a74360396bc32416fd34539d59f3fef6159d484.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1200,
-  "alto": 6000,
-  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://i.pximg.net/img-original/img/2013/01/04/23/35/30/32640741_p0.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/5/53/Totoro.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 3622,
-  "alto": 1936,
-  "que_es": "Studio Ghibli: Totoro.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/2/23/Spirited_Away_streets.JPG",
-  "fuente": "Fandom ghibli",
-  "ancho": 3250,
-  "alto": 1757,
-  "que_es": "Studio Ghibli: Spirited Away streets.JPG",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4190/b946628973a7f53d7e9efd2d2f0057155c366b94.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 2048,
-  "alto": 2048,
-  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/Noche_official_/status/1498250015101227008)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4021/18f116c3f7d42f015056ee930f9e7c15ecfd75dc.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 2000,
-  "alto": 2000,
-  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2022/04/30/11/19/13/97982236_p0.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2694/52f09313b86929eb43c7775364fdfbe6fd6f9395.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1593,
-  "alto": 2138,
-  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://twitter.com/matata_tatabi/status/1112236379562369024)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/59/5649988be249ff454aeaf1f7e448f16843663cd6.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 2048,
-  "alto": 1593,
-  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (https://x.com/doremifaso64/status/2051643073260892442)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/1670/08d15960503016067f9573551803e1f4de4f6a7d.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 2048,
-  "alto": 1588,
-  "que_es": "Fan art de san_(mononoke_hime) (http://twitter.com/hammar_dobucof/status/1256366755401707520)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3686/942d6fd9dd95a368015c7069a7668b5c82c43a5c.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1600,
-  "alto": 2003,
-  "que_es": "Fan art de san_(mononoke_hime) (https://www.pillowfort.social/posts/1501544)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4189/6e6dc8684a56abee080e6ec1cec8cfb339d62764.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1797,
-  "alto": 1750,
-  "que_es": "Fan art de san_(mononoke_hime) (https://i.pximg.net/img-original/img/2020/07/23/01/40/34/83152684_p1.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1023,
-  "alto": 3043,
-  "que_es": "Fan art de ogino_chihiro (https://static.zerochan.net/Cross-Over.full.1643400.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/f/ff/Totoro_Oga.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 2098,
-  "alto": 1336,
-  "que_es": "Kazuo Oga: Totoro Oga.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/3d/40-maliciasan.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 1726,
-  "alto": 1382,
-  "que_es": "Studio Ghibli: 40-maliciasan.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4116/3f8c9046eceb1b91d7c3e569959589c9112c198e.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 2048,
-  "alto": 1152,
-  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/cloudtrumpets/status/1598352685811597312)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4116/1521f986b1ae5dd858dd4cecc0b4cf5bed20c490.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 2048,
-  "alto": 1152,
-  "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/cloudtrumpets/status/1598352685811597312)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Bathhouse_workers_cheer.JPG",
-  "fuente": "Fandom ghibli",
-  "ancho": 2010,
-  "alto": 1086,
-  "que_es": "Studio Ghibli: Bathhouse workers cheer.JPG",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a5/Art-kazuo-oga-only-yesterday.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 2512,
-  "alto": 850,
-  "que_es": "Kazuo Oga: Art-kazuo-oga-only-yesterday.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c3/Studio_Ghibli_Wallpaper.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "Studio Ghibli: Studio Ghibli Wallpaper.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/30/Ghibli_wallpaper.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 1920,
-  "alto": 1080,
-  "que_es": "Studio Ghibli: Ghibli wallpaper.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/0/06/Totoro-allsleep.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 1600,
-  "alto": 1280,
-  "que_es": "Studio Ghibli: Totoro-allsleep.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/500/07fe53756529792fec42e09ce3218780c8df4656.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1074,
-  "alto": 1517,
-  "que_es": "Fan art de ogino_chihiro (http://img39.pixiv.net/img/tottorimegane/8597139.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/4618/8a156e94fe0ff7ec0acf7c20ae6e6414189777aa.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1024,
-  "alto": 1457,
-  "que_es": "Fan art de san_(mononoke_hime) (https://i.pximg.net/img-original/img/2017/02/20/04/52/58/61548214_p0.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3925/bcff741463b7dffe52be33f92d81056606814284.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 900,
-  "alto": 1300,
-  "que_es": "Fan art de san_(mononoke_hime) (https://twitter.com/Seraziel/status/1538328293295812608)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/543/36077cd7f173cfb8196bcb76d8871e7f089cbc6f.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1000,
-  "alto": 1089,
-  "que_es": "Fan art de ogino_chihiro (http://img50.pixiv.net/img/kazoku3103/15814082.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2547/5e415d76bbcdfc2bc740ebb86be97651ebd6724f.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 900,
-  "alto": 1160,
-  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=70644738)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/539/de555b3bedce6a431fad79e436f56edf2a772195.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1300,
-  "alto": 800,
-  "que_es": "Fan art de ogino_chihiro (sin origen)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/258/a83a2d58dc31266aa2b18a08e4d94b7a9f2449ae.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 800,
-  "alto": 1147,
-  "que_es": "Fan art de nausicaa (Image board)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/1414/0c4383c29be5784bf929cb3b3a6f641f96e312b5.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 900,
-  "alto": 900,
-  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://kr0npr1nz.tumblr.com/post/117678512290/kiki-and-the-first-snow)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/3119/607b4bd94354ae8698dfa5b8fcba0c6a2b406bf0.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1063,
-  "alto": 685,
-  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://twitter.com/denaseey/status/1267835240833118210)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/631/e13be9f51c304f47f890c342d54f6526.jpeg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 1000,
-  "alto": 724,
-  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://img01.pixiv.net/img/massala/11924179.jpg)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/2930/7a7dbfdbd8e968cbc3d61b7afad64fb88deb18fd.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 920,
-  "alto": 672,
-  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2020/04/01/12/30/33/80490270_p0.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e1/Mononoke_Forest_New.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 603,
-  "alto": 770,
-  "que_es": "Kazuo Oga: Mononoke Forest New.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/438/a83b588c8a5895b0d27eb7652c4f3d2e73feb19d.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 700,
-  "alto": 600,
-  "que_es": "Fan art de ogino_chihiro (http://img16.pixiv.net/img/hiyo_226/10064476.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/1534/80e37eb078d14a6cf1c8d55dea5577ba740b8e51.png",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 500,
-  "alto": 822,
-  "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (http://i2.pixiv.net/img-original/img/2015/07/29/15/49/33/51669489_p0.png)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/4/42/Ghibli_Oga.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 595,
-  "alto": 679,
-  "que_es": "Kazuo Oga: Ghibli Oga.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b5/Akita_Oga.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 1032,
-  "alto": 375,
-  "que_es": "Kazuo Oga: Akita Oga.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/645/6849a3114ed009749dfaad98dbaf8e3d02f27723.gif",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 440,
-  "alto": 780,
-  "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://paulrobertson.mechafetus.com/coolcats02.gif)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/31/Miyazaki_and_otto.png",
-  "fuente": "Fandom ghibli",
-  "ancho": 700,
-  "alto": 440,
-  "que_es": "Hayao Miyazaki: Miyazaki and otto.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://safebooru.org/images/426/b4eb88644808a0d4b3fab3624c1c53f40f31a5fb.jpg",
-  "fuente": "Safebooru (fan art)",
-  "ancho": 600,
-  "alto": 500,
-  "que_es": "Fan art de nausicaa (http://www005.upp.so-net.ne.jp/doraneko-21/gallery/ghiblies/ghiblies.html)",
-  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-  "licencia": "© su autor; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a1/Kazuo_Oga.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 400,
-  "alto": 500,
-  "que_es": "Kazuo Oga: Kazuo Oga.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/d/da/Hayao_miyazaki_2024.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 381,
-  "alto": 508,
-  "que_es": "Hayao Miyazaki: Hayao miyazaki 2024.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b6/Isao_Takahata.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 367,
-  "alto": 489,
-  "que_es": "Isao Takahata: Isao Takahata.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/68/Takahata_hols_prince_of_the_sun.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 440,
-  "alto": 358,
-  "que_es": "Isao Takahata: Takahata hols prince of the sun.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/ef/Hayao_Miyazaki.jpg",
-  "fuente": "Fandom ghibli",
-  "ancho": 250,
-  "alto": 375,
-  "que_es": "Hayao Miyazaki: Hayao Miyazaki.jpg",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/ce/Wikipedia_Logo.png",
-  "fuente": "Fandom ghibli",
-  "ancho": 103,
-  "alto": 94,
-  "que_es": "Hayao Miyazaki: Wikipedia Logo.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/2/2d/IMDb_Favicon.png",
-  "fuente": "Fandom ghibli",
-  "ancho": 16,
-  "alto": 15,
-  "que_es": "Hayao Miyazaki: IMDb Favicon.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://static.wikia.nocookie.net/studio-ghibli/images/9/90/ANN.png",
-  "fuente": "Fandom ghibli",
-  "ancho": 15,
-  "alto": 15,
-  "que_es": "Hayao Miyazaki: ANN.png",
-  "para_que": "pose, ropa y colores del personaje",
-  "licencia": "© titulares; sólo referencia"
- }
+  {
+    "url": "https://safebooru.org/images/1096/db3d1c9105029bf9f66d68bc2cfcfa1d6241f771.jpg",
+    "fuente": "Safebooru",
+    "ancho": 2952,
+    "alto": 2075,
+    "que_es": "Fan art estilo Ghibli, etiqueta transversal studio_ghibli",
+    "para_que": "Referencia de estilo (nunca pegar)",
+    "licencia": "Derechos del autor original (X/Twitter)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo035.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: cuenco de ramen con jamón (Ponyo)",
+    "para_que": "Referencia de 'comida Ghibli', paleta medida",
+    "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro025.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: luz filtrada entre hojas (komorebi), Mei en el túnel de plantas",
+    "para_que": "Referencia de luz/komorebi, paleta medida",
+    "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/kazetachinu015.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: bento envuelto en furoshiki (El viento se levanta)",
+    "para_que": "Referencia de comida cotidiana japonesa",
+    "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/kazetachinu001.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Jiro volando con gafas sobre el campo (viento)",
+    "para_que": "Referencia de viento/vuelo",
+    "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl020.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: vapor verde mágico dentro de la casa (Howl)",
+    "para_que": "Referencia de luz de color/magia",
+    "licencia": "Uso libre no comercial (nota de Toshio Suzuki, 2020)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo020.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Kiki con vestido negro y lazo rojo en la panadería",
+    "para_que": "Vestuario icónico de Kiki, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl005.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Sophie y Howl de cerca (sombrero, vestido, capa)",
+    "para_que": "Vestuario de Sophie y Howl, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/nausicaa025.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Nausicaä con su traje azul",
+    "para_que": "Vestuario de Nausicaä, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo030.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Ponyo en forma mitad pez sobre las olas",
+    "para_que": "Vestuario/color de Ponyo, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro030.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: primer plano de Totoro rugiendo",
+    "para_que": "Color de pelaje de Totoro, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro001.jpg",
+    "fuente": "Studio Ghibli (ghibli.jp/works/totoro/), fotograma oficial de libre uso",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Mei y Satsuki corriendo hacia la casa nueva (Mi Vecino Totoro): fondo pintado a mano con capas de vegetación, veladuras de luz y línea de contorno constante",
+    "para_que": "referencia visual directa de la técnica de fondo pintado a mano y la luz (punto 18; coincide con 'cómo se logra: fondos, luz' del encargo)",
+    "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke001.jpg",
+    "fuente": "Studio Ghibli (ghibli.jp/works/mononoke/), fotograma oficial de libre uso",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Ashitaka y un anciano bajo un tejado de paja, luz de contraluz recortando las siluetas contra el cielo azul",
+    "para_que": "ejemplo de manejo de luz y sombreado plano por capas, útil para el punto 18 (contraluz, paleta reducida en interiores)",
+    "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/laputa001.jpg",
+    "fuente": "Studio Ghibli (ghibli.jp/works/laputa/), fotograma oficial de libre uso",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Sheeta cayendo con la piedra de levitación brillando en su pecho (El Castillo en el Cielo)",
+    "para_que": "el amuleto/piedra de levitación es uno de los objetos-símbolo más reconocibles del universo Miyazaki (punto 25)",
+    "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/nausicaa001.jpg",
+    "fuente": "Studio Ghibli (ghibli.jp/works/nausicaa/), fotograma oficial de libre uso",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Los Guerreros Gigantes (Kyoshinhei) incendiando una ciudad, escena del prólogo sobre los 'Siete Días de Fuego'",
+    "para_que": "símbolo de origen/mito fundacional recurrente en el mundo Miyazaki, citado en varias películas como advertencia ecológica (punto 25)",
+    "licencia": "© Studio Ghibli — uso libre declarado por Ghibli 'dentro de lo razonable' para la galería oficial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro034.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Mi vecino Totoro): parada del autobús bajo la lluvia, Totoro con paraguas",
+    "para_que": "Escena icónica punto 2; pose 'pensar/esperar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro031.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Mi vecino Totoro): Gatobús llegando de noche con los ojos-faro encendidos",
+    "para_que": "Escena icónica punto 2; paleta medida punto 4 (#272A27 dominante); pose 'presentar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro019.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Mi vecino Totoro): los totoros pequeños corriendo por un túnel de árboles",
+    "para_que": "Escena icónica punto 2 (viento, hojas en movimiento); pose 'animar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro022.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Mi vecino Totoro): panza enorme de Totoro roncando con las niñas dormidas encima",
+    "para_que": "Pose 'celebrar/relajar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro037.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Mi vecino Totoro): Totoro y otros dos tocando una ocarina de hoja en una rama",
+    "para_que": "Pose 'animar/celebrar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro046.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Mi vecino Totoro): boca abierta del Gatobús con las niñas sentadas dentro",
+    "para_que": "Pose 'celebrar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo010.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki volando de noche sobre el mar con Jiji, vestido al viento",
+    "para_que": "Escena icónica punto 2 (viento)",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo028.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Kiki: entregas a domicilio): panadería con el horno y el pan recién hecho",
+    "para_que": "Escena icónica punto 2 (comida); paleta medida punto 4 (#232322 dominante, marrones de madera)",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo001.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki tumbada en la hierba, brazos tras la cabeza, Jiji cerca",
+    "para_que": "Pose 'pensar/soñar despierta' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo019.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki fregando el suelo a cuatro patas",
+    "para_que": "Pose 'explicar' (trabajo diario) punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo034.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki entregando un pastel en una puerta, cesta en el brazo",
+    "para_que": "Pose 'presentar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo025.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki agarrada al plumaje de un cuervo en pleno vuelo",
+    "para_que": "Pose 'pensar/aguantar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo046.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Kiki: entregas a domicilio): Kiki barriendo la calle, ropa despeinada por el viento",
+    "para_que": "Pose 'explicar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke010.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (La princesa Mononoke): el Espíritu del Bosque (Shishigami) de día, entre rayos de luz dorada",
+    "para_que": "Escena icónica punto 2 (luz); paleta medida punto 4 (#2E2823 dominante, amarillo-dorado de acento)",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke025.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (La princesa Mononoke): el Caminante Nocturno, forma gigante azul translúcida del mismo espíritu",
+    "para_que": "Escena icónica punto 2 (luz nocturna)",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke007.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (La princesa Mononoke): San con sangre en la boca, mejilla pegada al lobo blanco Moro",
+    "para_que": "Pose 'regañar/advertir' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke034.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (La princesa Mononoke): San montada sobre un lobo, lanza en alto, corriendo con la manada",
+    "para_que": "Pose 'animar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke031.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (La princesa Mononoke): cara de San pegada al ojo de un lobo gigante",
+    "para_que": "Pose 'pensar/confiar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke043.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (La princesa Mononoke): San sosteniendo a Ashitaka en brazos dentro del agua",
+    "para_que": "Pose 'explicar/cuidar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke046.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (La princesa Mononoke): San forcejeando con Ashitaka, sujetos por un lobo",
+    "para_que": "Pose 'regañar/discutir' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/mononoke049.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (La princesa Mononoke): San mirando al cielo con nubes, expresión serena tras la batalla",
+    "para_que": "Pose 'pensar/celebrar en calma' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl016.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (El increíble castillo vagabundo): desayuno de tocino y huevos fritos en la sartén de Calcifer",
+    "para_que": "Escena icónica punto 2 (comida más citada de Ghibli); paleta medida punto 4 (#8E6C56 dominante, naranja de fuego)",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl049.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (El increíble castillo vagabundo): el castillo ambulante volando entre montañas y nubes al amanecer",
+    "para_que": "Escena icónica punto 2 (luz)",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl001.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie asomada a la ventana de su sombrerería, rodeada de flores",
+    "para_que": "Pose 'presentar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl004.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie caminando del brazo de Howl por el pueblo en fiesta",
+    "para_que": "Pose 'explicar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl019.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie ya anciana, fregando el suelo del castillo entre trastos",
+    "para_que": "Pose 'explicar/trabajar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl022.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie de joven otra vez, envuelta en una toalla, corriendo emocionada",
+    "para_que": "Pose 'celebrar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl037.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie abrazando a alguien en un campo de flores",
+    "para_que": "Pose 'celebrar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl046.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (El increíble castillo vagabundo): Sophie con el pelo plateado alborotado, rodeada de burbujas de agua",
+    "para_que": "Pose 'pensar/sorprenderse' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo028.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Ponyo en el acantilado): Ponyo corriendo sobre olas convertidas en peces gigantes en la tormenta",
+    "para_que": "Escena icónica punto 2 (viento y agua); pose 'animar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo034.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Ponyo en el acantilado): Ponyo comiendo ramen con jamón en un tazón verde, a cucharadas",
+    "para_que": "Escena icónica punto 2 (comida); pose 'celebrar/comer' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo025.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Ponyo en el acantilado): ola-pez gigante en plena tormenta",
+    "para_que": "Paleta medida punto 4 (#317AA9 dominante, casi todo azul, la más clara de la muestra)",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo004.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Ponyo en el acantilado): cara de Ponyo asomando dentro de una burbuja/medusa gigante bajo el agua",
+    "para_que": "Pose 'pensar/observar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo007.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Ponyo en el acantilado): Ponyo enredada en una red de pesca junto a basura marina",
+    "para_que": "Pose 'explicar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo016.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Ponyo en el acantilado): cara de Ponyo metida en un tazón verde, sonriendo",
+    "para_que": "Pose 'celebrar' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo049.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Ponyo en el acantilado): Ponyo saltando junto a Sōsuke desde un acantilado hacia el cielo",
+    "para_que": "Pose 'celebrar (final)' punto 14",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/kazetachinu028.jpg",
+    "fuente": "ghibli.jp (galería oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial (Se levanta el viento): Naoko pintando al aire libre, bosque agitado por el viento",
+    "para_que": "Escena icónica punto 2 (viento); paleta medida punto 4 (#66A93F dominante, verdes vegetales)",
+    "licencia": "Uso libre 'dentro de lo razonable' (常識の範囲で), © Studio Ghibli (galería oficial ghibli.jp)"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9csuhi",
+    "fuente": "Dailymotion (tráiler doblado ES)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Mi vecino Totoro (1988) — tráiler oficial doblado al español, 70 s, 8589 vistas, 24 planos vistos con fotogramas.py --cortes",
+    "para_que": "Punto 10 (vídeos/tráileres); plano de la parada del autobús citado en el punto 2 a 0:32",
+    "licencia": "Vídeo promocional oficial de distribución"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88a5in",
+    "fuente": "Dailymotion (tráiler japonés subtitulado en inglés)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Kiki: entregas a domicilio — tráiler oficial japonés subtitulado, 118 s, 2692 vistas, 31 planos vistos",
+    "para_que": "Punto 10; créditos de música en pantalla citados en el punto 9 (1:20-1:23); vuelo sobre el mar en el punto 2 a 0:34",
+    "licencia": "Vídeo promocional oficial de distribución"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x971hck",
+    "fuente": "Dailymotion (tráiler Miramax, inglés)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "La princesa Mononoke — tráiler oficial (Miramax), 102 s, 962 vistas, 42 planos vistos",
+    "para_que": "Punto 10; Shishigami de día en el punto 2 a 1:32; Caminante Nocturno a 0:48",
+    "licencia": "Vídeo promocional oficial de distribución"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8x2lpe",
+    "fuente": "Dailymotion (tráiler Disney US, inglés)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "El increíble castillo vagabundo — tráiler oficial (Disney US), 96 s, 1354 vistas, 45 planos vistos",
+    "para_que": "Punto 10; castillo volando citado en el punto 2 a 1:04",
+    "licencia": "Vídeo promocional oficial de distribución"
+  },
+  {
+    "url": "https://live.staticflickr.com/8313/8025600359_b89c00a1c1_b.jpg",
+    "fuente": "Openverse/Flickr",
+    "ancho": 1024,
+    "alto": 768,
+    "que_es": "Foto del Museo Ghibli (Mitaka), exterior con el robot de Laputa",
+    "para_que": "Referencia real de arquitectura Ghibli",
+    "licencia": "CC BY-SA 2.0"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Studio_Ghibli.svg/revision/latest?cb=20170514021826",
+    "fuente": "Logos Wiki / Logopedia (Fandom), vector alojado en static.wikia.nocookie.net (pide cabecera Referer: https://www.fandom.com/)",
+    "ancho": 1000,
+    "alto": 481,
+    "que_es": "Logo principal del estudio (Rey Totoro de perfil + Chibi Totoro), en negro puro sobre fondo transparente, con 'STUDIO GHIBLI' en Futura",
+    "para_que": "referencia exacta de la tipografía del logo y su trazo (punto 5); tamaño confirmado con la API de imageinfo de Fandom",
+    "licencia": "Marca registrada de Studio Ghibli; vector alojado por Fandom/Logopedia, no es el archivo oficial del estudio (uso como referencia, no para redistribuir como propio)"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9mj300",
+    "fuente": "Dailymotion (tráiler doblado ES)",
+    "ancho": 320,
+    "alto": 256,
+    "que_es": "Ponyo en el acantilado — tráiler oficial doblado al español, 107 s, 2448 vistas, 44 planos vistos, incluye la tormenta completa 0:53-1:25",
+    "para_que": "Punto 10; contexto de la escena de la tormenta citada en el punto 2",
+    "licencia": "Vídeo promocional oficial de distribución"
+  },
+  {
+    "url": "https://www.ghibli-museum.jp/en/exhibitions/013127/",
+    "fuente": "Museo Ghibli (oficial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página de la exposición oficial 'Delicious! Animating Memorable Meals'",
+    "para_que": "Fuente oficial sobre el tema comida en Ghibli",
+    "licencia": "Copyright Studio Ghibli / Museo Ghibli, sólo consulta"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e326c36890364526910cba03c1393ebc",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: nubes estilizadas tipo Ghibli",
+    "para_que": "Fondo/cielo para escenas 3D",
+    "licencia": "CC BY 4.0 (lavakongen)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-0e8fde91fdb5413494e878b0fef85cda",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: desayuno de Howl's Moving Castle (huevo y tocino)",
+    "para_que": "Referencia 3D de comida Ghibli",
+    "licencia": "CC BY 4.0 (Zeps3D)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-5e614fea3aaf4e78bd82cf2b6e0e5c7a",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: ramen de Ponyo",
+    "para_que": "Referencia 3D de comida Ghibli",
+    "licencia": "CC BY 4.0 (Discovered)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-ffb11769e03e4a9395416d714ccd66ce",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: Totoro",
+    "para_que": "Referencia 3D de personaje icónico del estudio",
+    "licencia": "CC BY 4.0 (Vanillaburp)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-f64cff7095ce490aaa3c225c12f81314",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: Catbus (Gatobús)",
+    "para_que": "Referencia 3D de vehículo icónico",
+    "licencia": "CC BY 4.0 (Valentine_Ventura)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-a659068938054b64bbac15110ffd2fa1",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: robot de Laputa",
+    "para_que": "Referencia 3D de objeto icónico del estudio",
+    "licencia": "CC BY 4.0 (zionkoenig)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e19b57e1b37b470aa00d2f5adb7971f8",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: Kamaji (El viaje de Chihiro)",
+    "para_que": "Referencia 3D de personaje",
+    "licencia": "CC BY 4.0 (godislove431)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-49fceff027814c31bae3bdf2e5e9e732",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: Calcifer (El castillo ambulante)",
+    "para_que": "Referencia 3D de personaje/luz",
+    "licencia": "CC BY 4.0 (berchello)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-64979b7b22d947698600b8d63a05ae47",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: Nausicaä",
+    "para_que": "Referencia 3D de personaje",
+    "licencia": "CC BY 4.0 (lages.miguel)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-97090e9e77014c21b64f7f6dfb7803fc",
+    "fuente": "Sketchfab",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D: colección de props de Kiki entrega a domicilio",
+    "para_que": "Referencia 3D de objetos",
+    "licencia": "CC BY 4.0 (Kanna-nakajima)"
+  },
+  {
+    "url": "https://ghibli.fandom.com/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(manga)",
+    "fuente": "Ghibli Fandom wiki",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página sobre el manga original de Nausicaä (lápiz/tinta sepia, sin screentone)",
+    "para_que": "Punto 19: única obra grande de Ghibli con manga propio, textura de hachurado",
+    "licencia": "Consulta, derechos de Studio Ghibli/Tokuma Shoten"
+  },
+  {
+    "url": "https://www.brusheezy.com/brushes/1183-sumi-ink-brushes",
+    "fuente": "Brusheezy",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pinceles de tinta sumi-e para Photoshop",
+    "para_que": "Punto 19: textura de pincelada tipo fondo pintado a mano",
+    "licencia": "Gratis, uso libre declarado en la ficha"
+  },
+  {
+    "url": "https://brushespack.com/product/ghibli-inspired-hand-painted-brush-collection/",
+    "fuente": "Brushespack",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pack de pinceles pintados a mano inspirados en Ghibli (hecho por fans)",
+    "para_que": "Punto 19: textura gouache/acuarela para Photoshop/Procreate",
+    "licencia": "Descarga gratuita declarada en la ficha"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper004",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de papel de grano claro",
+    "para_que": "Punto 19: grano de papel para fondo pintado a mano",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric034",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de tela lisa (lino/algodón)",
+    "para_que": "Punto 19: patrón de ropa sencilla tipo Kiki/Sophie",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Wood060",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de madera clara",
+    "para_que": "Punto 19: interiores cálidos tipo la casa de Totoro",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ghibli_Park",
+    "fuente": "Wikipedia",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ghibli Park: las 5 zonas oficiales (Dondoko Forest, Valley of Witches, Mononoke Village, Hill of Youth, Grand Warehouse)",
+    "para_que": "Punto 23: colaboración/expansión física oficial del estudio, referencia 3D del castillo de Howl",
+    "licencia": "Consulta, parque oficial de Studio Ghibli"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ni_no_Kuni",
+    "fuente": "Wikipedia",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Serie de videojuegos Ni no Kuni, colaboración oficial Studio Ghibli + Level-5 (incluye el gacha Cross Worlds)",
+    "para_que": "Punto 23: crossover de videojuego oficial confirmado (Fortnite/gacha)",
+    "licencia": "Consulta, propiedad de Level-5/Studio Ghibli"
+  },
+  {
+    "url": "https://thesmartlocal.jp/shirohiges-cream-puff-factory/",
+    "fuente": "The Smart Local Japan",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Shirohige's Cream Puff Factory, pastelería con permiso oficial del estudio (cuñada de Miyazaki)",
+    "para_que": "Punto 23: colaboración oficial de comida/merchandising transversal",
+    "licencia": "Consulta"
+  },
+  {
+    "url": "https://www.kanpai-japan.com/travel-guide/donguri-official-ghibli-shops",
+    "fuente": "Kanpai Japan",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Donguri Kyowakoku, tienda oficial de merchandising de todo el catálogo Ghibli",
+    "para_que": "Punto 23: figuras oficiales de referencia, todas las películas",
+    "licencia": "Consulta"
+  },
+  {
+    "url": "https://1000logos.net/studio-ghibli-logo/",
+    "fuente": "1000logos.net",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Historia y diseño del logo de Studio Ghibli (silueta de Totoro, diseñado por Miyazaki)",
+    "para_que": "Punto 19: emblema/logo transversal del estudio",
+    "licencia": "Consulta, marca registrada de Studio Ghibli"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/@fontsource/noto-serif-jp@latest/files/noto-serif-jp-latin-400-normal.woff2",
+    "fuente": "Google Fonts vía Fontsource (api.fontsource.org / cdn.jsdelivr.net)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre Noto Serif JP (mismo diseño que Source Han Serif de Adobe) — comprobada con fontTools: á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü, todas presentes",
+    "para_que": "letra libre para rótulos/carteles del mundo y créditos con aspecto mincho formal (punto 5), asociada por kyoukasho.net al look de Porco Rosso / La Colina de las Amapolas",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/@fontsource/jost@latest/files/jost-latin-400-normal.woff2",
+    "fuente": "Google Fonts vía Fontsource (api.fontsource.org / cdn.jsdelivr.net)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre Jost, geométrica sans-serif con 'a' de un solo piso — alternativa gratuita a Futura con 90% de similitud según fontalternatives.com; comprobada con fontTools: cubre tildes, ñ, ¿ y ¡ completas",
+    "para_que": "letra libre para el logo/título del canal, equivalente a la Futura real del logo de Studio Ghibli (punto 5)",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://ranking.net/rankings/best-ghibli-characters",
+    "fuente": "みんなのランキング / ranking.net (voto público japonés, ~83 personajes de todo Ghibli)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ranking de personajes Ghibli por voto abierto 1-100 puntos: 1º Haku, 2º Howl, 3º Totoro, 4º Ashitaka, 5º Jiji, 6º Nausicaä, 7º San, 8º Calcifer...",
+    "para_que": "Punto 7: popularidad de personajes a nivel estudio (no por película), y para detectar qué secundarios superan a los protagonistas",
+    "licencia": "Datos de la web, uso como referencia/cita, no reproducir el sitio"
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/research/articles/765102/",
+    "fuente": "ねとらぼ調査隊 / Nlab (ITmedia), encuesta de lectores 29-may al 5-jun-2022",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Encuesta con metodología declarada: personaje chico/joven Ghibli favorito, 1º Ashitaka (Mononoke), 2º Shun Amasawa (Susurros del corazón)",
+    "para_que": "Punto 7: segunda medida independiente de popularidad de personajes, cruza con la encuesta Simeji de la biblia hermana (98)",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/research/articles/664678/",
+    "fuente": "Nlab (ITmedia), encuesta de heroínas Ghibli 2022",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Encuesta de heroínas favoritas: empate en 1º lugar entre Nausicaä y Sheeta (Laputa)",
+    "para_que": "Punto 7: popularidad de heroínas a nivel estudio",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/research/articles/2391170/",
+    "fuente": "Nlab (ITmedia), encuesta de heroínas Ghibli 2024",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Repetición de la encuesta de heroínas en 2024: 1º lugar para Nausicaä sola",
+    "para_que": "Punto 7: confirma en el tiempo que Nausicaä se mantiene como heroína más votada",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/research/articles/1585357/",
+    "fuente": "Nlab (ITmedia), encuesta «novio ideal» Ghibli 2023",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Encuesta de personaje Ghibli ideal como novio: 1º Pazu (El castillo en el cielo)",
+    "para_que": "Punto 7: otra dimensión de popularidad de personajes masculinos",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/research/articles/1091463/",
+    "fuente": "Nlab (ITmedia), encuesta película Ghibli favorita de los 20 años, 2022",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "1º lugar: El viaje de Chihiro, entre encuestados de 20 años",
+    "para_que": "Punto 21: cruce independiente que confirma el patrón por edad de la encuesta LINE Research",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/research/articles/1091651/",
+    "fuente": "Nlab (ITmedia), encuesta película Ghibli favorita de los 40 años, 2022",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "1º lugar: Mi vecino Totoro, entre encuestados de 40 años",
+    "para_que": "Punto 21: cruce independiente que confirma el patrón por edad de la encuesta LINE Research",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://prtimes.jp/main/html/rd/p/000004020.000001594.html",
+    "fuente": "LINE Corporation, comunicado de prensa oficial (PR Times)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente primaria de la encuesta LINE Research: 2-5 sept 2022, n=5.254, top películas Ghibli favoritas por edad",
+    "para_que": "Punto 21: por qué la gente ama Ghibli (datos oficiales de la encuesta, con fecha y n exactos)",
+    "licencia": "Comunicado de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://www.nippon.com/es/japan-data/h01468/",
+    "fuente": "Nippon.com (reporte en español de la encuesta LINE Research)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Resumen en español de la encuesta LINE Research con desglose por edad",
+    "para_que": "Punto 21: segunda fuente (junto a PR Times) y versión en español citable",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Nausica%C3%A4:_Guerreros_del_viento",
+    "fuente": "Doblaje Wiki (Fandom, api.php?action=parse)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Reparto completo del doblaje latino de Nausicaä (Zima 2010, México, dir. Juan Alfonso Carralero) y confirmación de que está en la 2ª fase de Ghibli/Netflix sin doblaje latino",
+    "para_que": "Punto 8: doblaje latino de Nausicaä (completa el pendiente de la tanda anterior)",
+    "licencia": "Texto CC-BY-SA de Fandom; datos de doblaje sólo como referencia"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Guerreros_del_viento",
+    "fuente": "Doblaje Wiki (Fandom, api.php?action=parse)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de «Guerreros del viento» (Warriors of the Wind, 1985): corte editado en EE.UU. que rebautizó a Nausicaä «Princesa Zandra», con reparto de sus dos doblajes (Los Ángeles y México)",
+    "para_que": "Punto 8/12: origen de la cláusula de «no cortes» de Ghibli, historia central del doblaje mal hecho que cambió cómo se distribuye la obra",
+    "licencia": "Texto CC-BY-SA de Fandom"
+  },
+  {
+    "url": "https://www.slashfilm.com/786405/the-reason-studio-ghibli-has-a-strict-no-edits-policy/",
+    "fuente": "SlashFilm",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Explica la política de «no cortes» de Ghibli desde Warriors of the Wind, y la anécdota de la katana de Toshio Suzuki a Harvey Weinstein",
+    "para_que": "Punto 8/12: segunda fuente de la cláusula de no cortes; anécdota citable para «qué NO hacer»",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://screenrant.com/nausicaa-worst-dub-anime-history-factoid/",
+    "fuente": "ScreenRant",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Detalle de que Warriors of the Wind cortó más de 20 minutos y tradujo mal el diálogo a propósito",
+    "para_que": "Punto 8: segunda fuente del corte editado de Nausicaä",
+    "licencia": "Artículo de prensa, uso como cita/referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/e/e8/Howlhowl1.ogg/revision/latest?cb=20200330152228&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio (doblaje Zima de El increíble castillo vagabundo)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Audio de Howl (Gerardo García) escoltando a Sophie en el mercado; transcrito completo y medido con voz.py (129 Hz, 21.1 semitonos, 3.12 palabras/s)",
+    "para_que": "Punto 8/13: frase textual completa con ficha de voz de Howl, versión Zima",
+    "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/a/ae/HowlWBhowl1.ogg/revision/latest?cb=20200330160251&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio (doblaje Wild Bunch de El increíble castillo vagabundo)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "La misma escena de Howl (Alan Prieto); transcrito completo y medido con voz.py (128 Hz, 25.2 semitonos, 2.7 palabras/s)",
+    "para_que": "Punto 8/13: comparación directa de la misma escena en dos actores de doblaje distintos",
+    "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/8/8c/MononokeDisneySan.ogg/revision/latest?cb=20180710222055&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio (doblaje Buena Vista/Disney de La princesa Mononoke)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Audio de San enfrentando al clan de simios; transcrito completo y medido con voz.py (323 Hz, 12.9 semitonos, 3.52 palabras/s)",
+    "para_que": "Punto 8/13: frase textual completa con ficha de voz de San, versión Disney",
+    "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/doblaje/images/7/7b/MononokeZimaSan.ogg/revision/latest?cb=20180710222109&path-prefix=es",
+    "fuente": "Doblaje Wiki, muestra de audio (doblaje Zima de La princesa Mononoke)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "La misma escena de San, versión Zima; transcrito completo y medido con voz.py (322 Hz, 10.0 semitonos, 3.36 palabras/s)",
+    "para_que": "Punto 8/13: comparación directa de la misma escena en dos doblajes distintos",
+    "licencia": "Derechos del estudio de doblaje, sólo referencia/cita"
+  },
+  {
+    "url": "https://www.fandom.com/articles/10-studio-ghibli-heroines-hbo-max",
+    "fuente": "Fandom (artículo editorial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Análisis de los arquetipos de heroínas Ghibli (sin plantilla única) y del retrato positivo de mujeres mayores (Dola, Yubaba/Zeniba, ancianas de aldea)",
+    "para_que": "Punto 7: arquetipos de personajes transversales a todo el estudio",
+    "licencia": "Artículo editorial, uso como cita/referencia"
+  },
+  {
+    "url": "https://www.cbr.com/studio-ghibli-best-female-characters/",
+    "fuente": "CBR",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Segunda fuente sobre la diversidad de heroínas Ghibli (no hay dos iguales)",
+    "para_que": "Punto 7: segunda fuente del arquetipo de heroínas variadas",
+    "licencia": "Artículo editorial, uso como cita/referencia"
+  },
+  {
+    "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9E%97%E5%92%8C%E5%BC%98",
+    "fuente": "Wikipedia japonesa",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Biografía de Kazuhiro Wakabayashi (若林和弘), confirma su filmografía real en Ghibli (Mononoke, Chihiro, Castillo vagabundo) como director de sonido",
+    "para_que": "Punto 13: segunda fuente de las credenciales de Wakabayashi (no de sus citas textuales)",
+    "licencia": "Texto con licencia CC-BY-SA de Wikipedia"
+  },
+  {
+    "url": "https://ghibli.fandom.com/wiki/Kazuhiro_Wakabayashi",
+    "fuente": "Ghibli Fandom (wiki de fans en inglés)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Entrevista citada de Kazuhiro Wakabayashi sobre su método de diseño de sonido (nunca repetir un efecto, grabar en sitios reales)",
+    "para_que": "Punto 13: cómo se logra el sonido Ghibli, con citas directas",
+    "licencia": "Texto CC-BY-SA de Fandom"
+  },
+  {
+    "url": "https://danbooru.donmai.us/posts?tags=studio_ghibli",
+    "fuente": "Danbooru (recolectado con recolectar.py)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Cuántos dibujos de fans tiene cada personaje Ghibli (Kiki 1148, San 786, Howl 700, Chihiro 676, Jiji 674...)",
+    "para_que": "Punto 7/12: medida de cariño del fandom distinta del voto directo",
+    "licencia": "Datos de la web, imágenes con derechos de sus autores, sólo referencia del conteo"
+  },
+  {
+    "url": "https://safebooru.org/images/4155/b692b1f83a69926b85c6e670a485641474fc8f1c.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 3300,
+    "alto": 5100,
+    "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://lilystrations.tumblr.com/post/712715047766540288)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4126/b3cc1f6fa0f5c96e8117be97b4d19435724b0b09.png",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 3600,
+    "alto": 3600,
+    "que_es": "Fan art de ogino_chihiro (https://twitter.com/saghaley/status/1975710304282812650)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3342/a55a0f8e4f1519bd4ed9aaf0312f45b94a2fea2d.png",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 3000,
+    "alto": 4000,
+    "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2025/05/19/09/37/18/130574498_p0.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3562/5c98cd0ece482fabf8eb06dd495fdad727edbbfe.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 2891,
+    "alto": 4096,
+    "que_es": "Fan art de san_(mononoke_hime) (https://twitter.com/yoshi55level/status/1113143189739732992)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/8/8f/Studio_Ghibli_-_All_Characters.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 3556,
+    "alto": 2844,
+    "que_es": "Studio Ghibli: Studio Ghibli - All Characters.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/1/15/Hd-wallpaper.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 4664,
+    "alto": 2160,
+    "que_es": "Studio Ghibli: Hd-wallpaper.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3589/1a74360396bc32416fd34539d59f3fef6159d484.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1200,
+    "alto": 6000,
+    "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://i.pximg.net/img-original/img/2013/01/04/23/35/30/32640741_p0.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/5/53/Totoro.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 3622,
+    "alto": 1936,
+    "que_es": "Studio Ghibli: Totoro.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/2/23/Spirited_Away_streets.JPG",
+    "fuente": "Fandom ghibli",
+    "ancho": 3250,
+    "alto": 1757,
+    "que_es": "Studio Ghibli: Spirited Away streets.JPG",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4190/b946628973a7f53d7e9efd2d2f0057155c366b94.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/Noche_official_/status/1498250015101227008)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4021/18f116c3f7d42f015056ee930f9e7c15ecfd75dc.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 2000,
+    "alto": 2000,
+    "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2022/04/30/11/19/13/97982236_p0.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/2694/52f09313b86929eb43c7775364fdfbe6fd6f9395.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1593,
+    "alto": 2138,
+    "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://twitter.com/matata_tatabi/status/1112236379562369024)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/59/5649988be249ff454aeaf1f7e448f16843663cd6.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 2048,
+    "alto": 1593,
+    "que_es": "Fan art de jiji_(majo_no_takkyuubin) (https://x.com/doremifaso64/status/2051643073260892442)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1670/08d15960503016067f9573551803e1f4de4f6a7d.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 2048,
+    "alto": 1588,
+    "que_es": "Fan art de san_(mononoke_hime) (http://twitter.com/hammar_dobucof/status/1256366755401707520)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3686/942d6fd9dd95a368015c7069a7668b5c82c43a5c.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1600,
+    "alto": 2003,
+    "que_es": "Fan art de san_(mononoke_hime) (https://www.pillowfort.social/posts/1501544)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4189/6e6dc8684a56abee080e6ec1cec8cfb339d62764.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1797,
+    "alto": 1750,
+    "que_es": "Fan art de san_(mononoke_hime) (https://i.pximg.net/img-original/img/2020/07/23/01/40/34/83152684_p1.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1023,
+    "alto": 3043,
+    "que_es": "Fan art de ogino_chihiro (https://static.zerochan.net/Cross-Over.full.1643400.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/f/ff/Totoro_Oga.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 2098,
+    "alto": 1336,
+    "que_es": "Kazuo Oga: Totoro Oga.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/3d/40-maliciasan.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 1726,
+    "alto": 1382,
+    "que_es": "Studio Ghibli: 40-maliciasan.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4116/3f8c9046eceb1b91d7c3e569959589c9112c198e.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 2048,
+    "alto": 1152,
+    "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/cloudtrumpets/status/1598352685811597312)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4116/1521f986b1ae5dd858dd4cecc0b4cf5bed20c490.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 2048,
+    "alto": 1152,
+    "que_es": "Fan art de kiki_(majo_no_takkyuubin) (https://twitter.com/cloudtrumpets/status/1598352685811597312)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Bathhouse_workers_cheer.JPG",
+    "fuente": "Fandom ghibli",
+    "ancho": 2010,
+    "alto": 1086,
+    "que_es": "Studio Ghibli: Bathhouse workers cheer.JPG",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a5/Art-kazuo-oga-only-yesterday.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 2512,
+    "alto": 850,
+    "que_es": "Kazuo Oga: Art-kazuo-oga-only-yesterday.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c3/Studio_Ghibli_Wallpaper.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Studio Ghibli: Studio Ghibli Wallpaper.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/30/Ghibli_wallpaper.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Studio Ghibli: Ghibli wallpaper.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/0/06/Totoro-allsleep.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 1600,
+    "alto": 1280,
+    "que_es": "Studio Ghibli: Totoro-allsleep.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/500/07fe53756529792fec42e09ce3218780c8df4656.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1074,
+    "alto": 1517,
+    "que_es": "Fan art de ogino_chihiro (http://img39.pixiv.net/img/tottorimegane/8597139.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/4618/8a156e94fe0ff7ec0acf7c20ae6e6414189777aa.png",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1024,
+    "alto": 1457,
+    "que_es": "Fan art de san_(mononoke_hime) (https://i.pximg.net/img-original/img/2017/02/20/04/52/58/61548214_p0.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3925/bcff741463b7dffe52be33f92d81056606814284.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 900,
+    "alto": 1300,
+    "que_es": "Fan art de san_(mononoke_hime) (https://twitter.com/Seraziel/status/1538328293295812608)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/543/36077cd7f173cfb8196bcb76d8871e7f089cbc6f.png",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1000,
+    "alto": 1089,
+    "que_es": "Fan art de ogino_chihiro (http://img50.pixiv.net/img/kazoku3103/15814082.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/2547/5e415d76bbcdfc2bc740ebb86be97651ebd6724f.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 900,
+    "alto": 1160,
+    "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=70644738)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/539/de555b3bedce6a431fad79e436f56edf2a772195.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1300,
+    "alto": 800,
+    "que_es": "Fan art de ogino_chihiro (sin origen)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/258/a83a2d58dc31266aa2b18a08e4d94b7a9f2449ae.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 800,
+    "alto": 1147,
+    "que_es": "Fan art de nausicaa (Image board)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1414/0c4383c29be5784bf929cb3b3a6f641f96e312b5.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 900,
+    "alto": 900,
+    "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://kr0npr1nz.tumblr.com/post/117678512290/kiki-and-the-first-snow)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/3119/607b4bd94354ae8698dfa5b8fcba0c6a2b406bf0.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1063,
+    "alto": 685,
+    "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (https://twitter.com/denaseey/status/1267835240833118210)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/631/e13be9f51c304f47f890c342d54f6526.jpeg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 1000,
+    "alto": 724,
+    "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://img01.pixiv.net/img/massala/11924179.jpg)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/2930/7a7dbfdbd8e968cbc3d61b7afad64fb88deb18fd.png",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 920,
+    "alto": 672,
+    "que_es": "Fan art de jiji_(majo_no_takkyuubin) (https://i.pximg.net/img-original/img/2020/04/01/12/30/33/80490270_p0.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e1/Mononoke_Forest_New.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 603,
+    "alto": 770,
+    "que_es": "Kazuo Oga: Mononoke Forest New.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/438/a83b588c8a5895b0d27eb7652c4f3d2e73feb19d.png",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 700,
+    "alto": 600,
+    "que_es": "Fan art de ogino_chihiro (http://img16.pixiv.net/img/hiyo_226/10064476.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/1534/80e37eb078d14a6cf1c8d55dea5577ba740b8e51.png",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 500,
+    "alto": 822,
+    "que_es": "Fan art de howl_(howl_no_ugoku_shiro) (http://i2.pixiv.net/img-original/img/2015/07/29/15/49/33/51669489_p0.png)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/4/42/Ghibli_Oga.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 595,
+    "alto": 679,
+    "que_es": "Kazuo Oga: Ghibli Oga.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b5/Akita_Oga.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 1032,
+    "alto": 375,
+    "que_es": "Kazuo Oga: Akita Oga.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/645/6849a3114ed009749dfaad98dbaf8e3d02f27723.gif",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 440,
+    "alto": 780,
+    "que_es": "Fan art de jiji_(majo_no_takkyuubin) (http://paulrobertson.mechafetus.com/coolcats02.gif)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/31/Miyazaki_and_otto.png",
+    "fuente": "Fandom ghibli",
+    "ancho": 700,
+    "alto": 440,
+    "que_es": "Hayao Miyazaki: Miyazaki and otto.png",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://safebooru.org/images/426/b4eb88644808a0d4b3fab3624c1c53f40f31a5fb.jpg",
+    "fuente": "Safebooru (fan art)",
+    "ancho": 600,
+    "alto": 500,
+    "que_es": "Fan art de nausicaa (http://www005.upp.so-net.ne.jp/doraneko-21/gallery/ghiblies/ghiblies.html)",
+    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+    "licencia": "© su autor; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/a/a1/Kazuo_Oga.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 400,
+    "alto": 500,
+    "que_es": "Kazuo Oga: Kazuo Oga.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/d/da/Hayao_miyazaki_2024.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 381,
+    "alto": 508,
+    "que_es": "Hayao Miyazaki: Hayao miyazaki 2024.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/b/b6/Isao_Takahata.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 367,
+    "alto": 489,
+    "que_es": "Isao Takahata: Isao Takahata.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/68/Takahata_hols_prince_of_the_sun.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 440,
+    "alto": 358,
+    "que_es": "Isao Takahata: Takahata hols prince of the sun.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/ef/Hayao_Miyazaki.jpg",
+    "fuente": "Fandom ghibli",
+    "ancho": 250,
+    "alto": 375,
+    "que_es": "Hayao Miyazaki: Hayao Miyazaki.jpg",
+    "para_que": "pose, ropa y colores del personaje",
+    "licencia": "© titulares; sólo referencia"
+  }
 ]
