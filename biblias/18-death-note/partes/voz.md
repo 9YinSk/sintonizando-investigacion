@@ -102,32 +102,37 @@ propia por tiempo).
 ## 13 · La cara de cada personaje en cada emoción
 
 La biblia (§8) ya describe carácter, manías y frases con minuto (visto
-sin red, del subtítulo japonés). Aquí sólo añado la **tabla de
-emociones con fotograma** que pide el encargo; los minutos son los que
-ya validó la biblia, el enlace es nuevo (clip real donde se ve la
-escena; YouTube bloquea la descarga en este servidor, así que no pude
-sacar el JPG exacto, sólo el minuto para que el redactor o el
-investigador de vídeo lo capture con `fotogramas.py` desde su propio
-equipo):
+sin red, del subtítulo japonés). Esta tanda (modo seguir) completa los
+**fotogramas que faltaban**: la serie completa está en Internet Archive
+(`archive.org/details/DeathNoteTV`, 37 episodios en TV, MP4 con el
+átomo `moov` al principio) y `ffmpeg` puede leer un fotograma exacto
+directo de la URL con `-ss`/`-i` (sin descargar el episodio entero:
+~1-2 s por captura). Usé `herramientas/fotogramas.py` (su función
+`sacar()`) contra esa fuente para las 6 filas que quedaron con
+⚠️ «sin clip encontrado». Al ver el fotograma real en el minuto que
+tenía anotado, en 4 de las 6 la escena no era la descrita (el minuto
+venía sólo del subtítulo japonés, sin vídeo, en la tanda anterior);
+localicé la escena correcta con una hoja de contacto de esa misma
+fuente y corregí el minuto (diferencia de 1-18 min según el caso, nunca
+de episodio). Las dos que sí coincidían con el minuto anotado
+(rabia de Light y calma de Near) se dejan igual. Tabla actualizada:
 
 | Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
 |---|---|---|---|---|
 | Light | Alegría/triunfo (risa que se hizo meme) | ep. 1 | 00:22:32 | [clip doblado, risa en la tumba de L](https://www.youtube.com/watch?v=KOFd72TcTj8) (ep. 24, escena equivalente) |
-| Light | Rabia (grita «yo soy la justicia») | ep. 2 | 00:16:24 | ⚠️ sin clip encontrado |
-| Light | Miedo/pánico final, solo y herido | ep. 37 | ≈00:18:30 | ⚠️ sin clip encontrado (YouTube bloqueado en este servidor) |
+| Light | Rabia (mirada fija y dientes apretados al monitor, tras el reto de L en la TV) | ep. 2 | 00:16:24 | ✅ vista: primer plano de perfil, ceño hundido, ojos entornados reflejando la pantalla del portátil. [Internet Archive, `?t=984`](https://archive.org/download/DeathNoteTV/02%20-%20Confrontation.mp4?t=984) |
+| Light | Miedo/pánico final, herido de bala, solo | ep. 37 | 00:15:58 | ✅ vista: primerísimo plano con sangre en la mejilla, ojo muy abierto, luz cálida (la corté 2:32 antes de lo anotado: a las ≈00:18:30 la cámara ya está en Ryuk sobre la torre, no en Light). [Internet Archive, `?t=958`](https://archive.org/download/DeathNoteTV/37%20-%20New%20World.mp4?t=958) |
 | L | Tristeza («寂しいですね») | ep. 25 | 00:14:45 | [«L seca los pies de Light» (doblaje)](https://www.youtube.com/watch?v=rIc7gVUzUBY), misma escena del masaje de pies |
-| L | Concentración/manía (cuclillas, dulce) | ep. 15 | 00:09:07 | ⚠️ sin clip encontrado |
-| Ryuk | Alegría (manzanas) | ep. 1 | 00:16:12 | ⚠️ sin clip encontrado |
-| Misa | Miedo (atada, ojos vendados) | ep. 16 | 00:03:21 | ⚠️ sin clip encontrado |
-| Near | Calma/pensativo (enrolla su pelo) | ep. 27 | 00:02:01 | ⚠️ sin clip encontrado |
+| L | Concentración/manía (cuclillas sobre un banco, descalzo, teléfono en la mano) | ep. 15 | 00:08:04 | ✅ vista: L sentado en cuclillas sobre el respaldo de un banco de exterior, rodillas al pecho, zapatos en el suelo, Light de pie junto a él (un minuto antes de lo anotado: a las 00:09:07 ya están los dos hablando de pie). [Internet Archive, `?t=484`](https://archive.org/download/DeathNoteTV/15%20-%20Wager.mp4?t=484) |
+| Ryuk | Alegría (sonrisa enorme, colmillos, pendiente en forma de corazón) | ep. 1 | 00:17:29 | ✅ vista: primerísimo plano de la cara de Ryuk sonriendo de oreja a oreja, ojos muy abiertos con las pupilas rojas (77 s después de lo anotado: a las 00:16:12 el plano es de Light, no de Ryuk; la cesta de manzanas aparece unos segundos antes, a las 00:15:50). [Internet Archive, `?t=1049`](https://archive.org/download/DeathNoteTV/01%20-%20Rebirth.mp4?t=1049) |
+| Misa | Miedo (atada de brazos y torso, con antifaz, sentada en una celda blanca) | ep. 16 | 00:20:58 | ✅ vista: Misa inmovilizada con correas contra un panel blanco, antifaz, coletas colgando (el minuto anotado, 00:03:21, era una escena de L con Matsuda y otro agente; la de Misa atada está mucho más avanzada en el episodio). [Internet Archive, `?t=1258`](https://archive.org/download/DeathNoteTV/16%20-%20Decision.mp4?t=1258) |
+| Near | Calma/pensativo, jugando agachado en el suelo | ep. 27 | 00:02:01 | ✅ vista: Near en cuclillas sobre una alfombra oriental, mangas remangadas, brazos a media altura como si lanzara o acomodara algo, cabeza inclinada, pelo tapando los ojos. [Internet Archive, `?t=121`](https://archive.org/download/DeathNoteTV/27%20-%20Abduction.mp4?t=121) |
 | Matsuda | Vergüenza/torpeza (dispara a Light, tembloroso) | ep. 37 | 00:14:16 | [comparación de doblajes de la escena](https://www.youtube.com/watch?v=VJPH7IIKNFw) |
 
-**Ojo para el redactor**: las filas con ⚠️ no tienen fotograma propio
-todavía porque este investigador no pudo bajar vídeo de YouTube (pide
-iniciar sesión en este servidor); Dailymotion sólo tenía clips cortos
-sin esas escenas exactas. El investigador de vídeo (o una sesión con
-YouTube disponible) puede sacar el JPG exacto con
-`herramientas/fotogramas.py` en el minuto ya confirmado aquí.
+Nota: los 4 minutos corregidos (Light-miedo, L-concentración,
+Ryuk-alegría, Misa-miedo) quedan también en `voz.json` como
+`minuto_corregido`, con el minuto original que traía la biblia, para
+que el redactor sepa que cambió y por qué.
 
 ---
 
@@ -351,11 +356,6 @@ No los cites como fan dub.
   Misa**: TV Tropes lo menciona pero no lo nombra ⚠️ (habría que
   escuchar el episodio final entero con `episodio.py`, no me alcanzó el
   tiempo).
-- **Fotogramas propios** (JPG) para la mayoría de la tabla de emociones
-  del punto 13: YouTube pide iniciar sesión en este servidor y
-  Dailymotion no tenía las escenas exactas ⚠️ (búsquedas: «death note
-  ep 2 light angry clip», «death note ep16 misa tied clip», sin vídeo
-  descargable).
 - **Canal de TikTok específico de fan dubs de Death Note**: encontré
   tendencias de cosplay y cuadernos hechos a mano (ya en la biblia, §14)
   pero no un fandub de audio en TikTok con vistas verificables ⚠️
@@ -403,9 +403,27 @@ No los cites como fan dub.
   YouTube falla, tal como dice AYUDANTE.md.
 - Reddit ya venía traído por `recolectar.py` (Arctic Shift); sólo lo leí,
   no repetí la consulta.
-
-Sigue: los fotogramas JPG reales de varias filas de la tabla del punto
-13 (YouTube pide iniciar sesión en este servidor para descargar vídeo,
-Dailymotion no tenía esas escenas exactas); los minutos y episodios ya
-están confirmados, sólo falta capturar la imagen con `fotogramas.py`
-desde un equipo sin ese bloqueo.
+- **Tanda «seguir»**: la serie completa (37 episodios, TV) está en
+  Internet Archive, `archive.org/details/DeathNoteTV`
+  (`archive.org/metadata/DeathNoteTV` para el listado de archivos), en
+  MP4 con `moov` al principio (`ffprobe` lee la duración en ~1 s vía
+  HTTP sin bajar el archivo). Eso permite usar `ffmpeg -ss <seg> -i
+  <url-directa>.mp4 -frames:v 1` (la función `sacar()` de
+  `herramientas/fotogramas.py`) para un fotograma exacto sin pasar por
+  el paso de descarga completa de `bajar()`/yt-dlp, que sí sería
+  pesado (cada episodio pesa 130-200 MB).
+- Con eso saqué los 6 fotogramas que faltaban en la tabla del punto 13.
+  En 4 casos el minuto que traía la biblia (anotado sin vídeo, del
+  subtítulo japonés) no coincidía con la escena descrita: hice una hoja
+  de contacto (grid con `PIL`, igual que las hojas de
+  `fotogramas.py` pero apuntando directo a la URL) cada ~25-30 s
+  alrededor del minuto para localizar la escena real, y corregí el
+  minuto en la tabla (diferencias de 1 a 18 min, siempre dentro del
+  mismo episodio). Los dos que coincidían de entrada (Light-rabia,
+  Near-calma) se quedaron con su minuto original.
+- Probé además localizar la risa de Light en la tumba de L (fila
+  «Alegría/triunfo», ya con enlace de YouTube, no obligatoria):
+  escaneé el episodio 1 completo (fotograma en 00:22:32 sale
+  sobreexpuesto/blanco, un flash de transición) y el episodio 24 entero
+  cada 60 s sin encontrar la escena del cementerio; no insistí más por
+  no ser obligatoria.

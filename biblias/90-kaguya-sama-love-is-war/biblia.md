@@ -292,3 +292,303 @@ dos veces salvo lo marcado.
 Los minutos 15:44-16:08 y 22:24 de la parte de vídeo cuadran; los de 7:12,
 13:04, 14:16, 16:24-16:40, 17:20, 19:20 y 20:00-20:08 se corrigieron (§3).
 
+## Punto 3 · Fan art y 3D con licencia libre
+
+La biblia 43 (punto 3) tiene 6 modelos CC BY, entre ellos la **sala del
+consejo** y **Kaguya**. La parte de imagen halló un **juego de 5 modelos del
+mismo autor**, `maya_2023`, con el mismo estilo: combinan en una sola escena
+de Blender. Licencia **CC Attribution 4.0** y descarga comprobadas modelo a
+modelo con la API de Sketchfab ✅.
+
+| Personaje | Caras | Enlace | Crédito |
+|---|---|---|---|
+| Chika Fujiwara | 121 548 | [modelo](https://sketchfab.com/3d-models/chika-fujiwara-1dc4c6832d904834ab5d6c8fd40efcdf) | maya_2023, CC BY 4.0 |
+| Kei Shirogane | 145 168 | [modelo](https://sketchfab.com/3d-models/kei-shirogane-66b618113cb344f0afc1e9a13a4d58c9) | maya_2023, CC BY 4.0 |
+| Miyuki Shirogane | 82 599 | [modelo](https://sketchfab.com/3d-models/miyuki-shirogane-7fb8a907e2114b2cad3a45fe8ac403c7) | maya_2023, CC BY 4.0 |
+| Yu Ishigami | 92 412 | [modelo](https://sketchfab.com/3d-models/yu-ishigami-da365a42604842d093d5df14d43b47b0) | maya_2023, CC BY 4.0 |
+| Ai Hayasaka | 49 406 | [modelo](https://sketchfab.com/3d-models/ai-hayasaka-3d3289eabb274ee9a64907780809114c) | maya_2023, CC BY 4.0 |
+
+Con los de la 43, **los siete principales tienen modelo libre**. ⚠️ No se
+abrieron para ver si traen esqueleto (*rig*).
+
+**Fan art nuevo** ([Wallhaven](https://wallhaven.cc/w/g7dwle), sólo aptos,
+tamaño leído en su API) ✅:
+- Grupo de Kaguya, Chika, Hayasaka y Miko, semirrealista, firma «Wachiroku»,
+  5032×2670, 131 favoritos: [g7dwle](https://wallhaven.cc/w/g7dwle).
+- Kaguya sonrojada y avergonzada, primer plano, 2923×1886, 129 favoritos:
+  [xlo59d](https://wallhaven.cc/w/xlo59d). Es el gag central: quien se
+  enamora, pierde.
+- Kaguya y Hayasaka de la mano, 2250×4000, 132 favoritos:
+  [3zvqed](https://wallhaven.cc/w/3zvqed).
+
+**Sin resultados** (comprobado): Danbooru (Cloudflare) y Safebooru (su API
+de etiquetas no trae ninguna de la serie). El fan art de esta obra vive en
+Pixiv y X, que no se buscaron ⚠️.
+
+## Punto 4 · Sitios nuevos, luz y paleta medida
+
+La sala del consejo, los pasillos y la calle de Tokio están medidos en la
+biblia 43 (punto 4). En el ep. 2 la sala **repite la misma paleta** (4:24,
+18:00, 22:24): es el color fijo del sitio ✅. La alfombra, medida por el
+redactor a 22:24: `#B62C5A`.
+
+Dos sitios nuevos, medidos por la parte de vídeo con `estilo.py`:
+
+- **Sendero de montaña** (fantasía de la excursión, ep. 2, 10:00): cielo
+  limpio, luz de día franca. Paleta: `#EEF4F6` 20 % · `#82D1D6` 18 % ·
+  `#275848` 17 % · `#171922` 14 % · `#4B8978` 12 % · `#843131` 8 % ·
+  `#BA9C7D` 7 % · mochila `#E0752A` 4 %. Línea `#4E5C4E`, saturación 43 %,
+  brillo 62 %. Es la escena **más luminosa** vista de la serie ✅.
+- **Pasillo a contraluz** (ep. 2, 21:44): ventanales en fila, luz de
+  atardecer malva de lado. Paleta: `#4D3248` 18 % · `#19101A` 17 % ·
+  `#332335` 16 % · `#674763` 13 % · `#FBF8FB` 12 % · `#D9B7D8` 9 % ·
+  `#84647E` 9 % · `#AE8BAE` 6 %. Línea `#8F708A`, saturación 29 %, brillo
+  45 %. Para persecuciones y momentos íntimos ✅.
+- **Fachada de Shuchi'in** (15:12, redactor): piedra clara `#C2C1B5` bajo
+  cielo azul, tejado de pizarra con buhardillas ⚠️ (medida rápida).
+
+**Paleta de los rótulos** (redactor, Pillow, mediana de los píxeles del
+propio texto en fotogramas de 1280×720):
+
+| Rótulo | Minuto | Colores |
+|---|---|---|
+| «生徒会長» oro 3D | 3:44 | oro `#E2C47F`, brillo `#F1E4B6`, sombra `#514439`, fondo `#121011` |
+| «海VS山!!» | 11:04 | 海 `#64CBEB`, 山 `#86E340`, rayo `#B60124`, fondo `#0E0109` |
+| «備考» fichas | 11:52 / 15:52 | papel `#FFFFFF`, tinta y marco `#040409`; damero `#FEFDFC` y `#3A3936` |
+| Burbuja de chat | 7:12 | fondo `#F3F3F3`, letra `#3A3A3C` |
+| «かしわぎさん» | 16:32 | letra `#594E40` sobre fondo pastel `#EEF5C2` |
+| «ハッ» | 17:20 | rojo `#D75038` |
+| «ワナワナ» | 20:00 | azul `#264496` |
+
+**Texturas reales** para estos sitios (madera, alfombra, tela, papel CC0 de
+[ambientCG](https://ambientcg.com/view?id=Paper001) y el HDRI
+[Entrance Hall](https://polyhaven.com/a/entrance_hall)): biblia 43, punto 4.
+⚠️ No hay HDRI de «festival nocturno con farolillos» en Poly Haven
+(comprobado con su API).
+
+## Punto 5 · Tipografía de los rótulos
+
+Los 8 usos generales (logo del manga y del anime, globo, grito,
+pensamiento, onomatopeya, cartel, interfaz, subtítulos) están en la biblia
+43, punto 5, con su letra libre comprobada. Aquí, **una letra por cada
+rótulo cómico**. Todas las letras se comprobaron con `fontTools` sobre el
+subset **`latin`** de Fontsource (el `latin-ext` no trae á, ñ, ¿, ¡): las
+tres nuevas, por la parte de texto; las demás, por la biblia 43.
+
+| Rótulo de la serie | Cómo es | Letra libre | á é í ó ú ñ ¿ ¡ |
+|---|---|---|---|
+| Cartela-epopeya «生徒会長» (ep. 2, 3:44) | kanji de **mincho extragruesa** con remates afilados, en oro 3D con bisel | [Zen Old Mincho](https://fontsource.org/fonts/zen-old-mincho) 900, extruida en Blender | ✅ (texto) · ⚠️ el parecido es propuesta del redactor |
+| Ficha «備考», marcador «本日の勝敗» (11:52, 15:52, 22:24) | mincho negra **vertical**, rectángulo blanco con marco negro grueso y filete | [Shippori Mincho](https://fontsource.org/fonts/shippori-mincho) 700 | ✅ (43) |
+| Título de combate «海VS山!!» (11:04) | pincel grueso, cada palabra de un color, «VS» pequeño en cursiva | [Bangers](https://fontsource.org/fonts/bangers) | ✅ (43) · ⚠️ propuesta |
+| Etiqueta de nombre a mano «かしわぎさん» (16:32) | trazo fino, gris pardo, vertical, junto a la cara | [Caveat](https://fontsource.org/fonts/caveat) | ✅ (43) · ⚠️ propuesta |
+| Onomatopeya «ハッ», «ワナワナ» (17:20, 20:00) | katakana a mano, gruesos, de color, torcidos | [Luckiest Guy](https://fontsource.org/fonts/luckiest-guy) | ✅ (43) · ⚠️ propuesta |
+| Burbuja de chat (7:12) | gótica fina gris en caja redondeada | [M PLUS Rounded 1c](https://fontsource.org/fonts/m-plus-rounded-1c) Regular | ✅ (43) · ⚠️ propuesta |
+| Portada «tabloide» del spin-off «かぐや様を語りたい» | mincho negra gruesa en un **sello rojo**, caja blanca con borde rojo | [Zen Old Mincho](https://fontsource.org/fonts/zen-old-mincho) 900 | ✅ (texto) |
+| Cartel de casa del terror «Biotic Hazard» (ep. 35) | letra de terror de feria, pintada a mano | [Nosifer](https://fontsource.org/fonts/nosifer) | ✅ (texto) |
+| Cartel de cartulina «Fooled You» de Kaguya | rotulador grueso irregular | [Permanent Marker](https://fontsource.org/fonts/permanent-marker) | ✅ (texto) |
+| Anuncio pop «WE'RE GETTING AN ANIME!» (hoja 1 #15) | mayúsculas gritonas amarillas con contorno | [Bangers](https://fontsource.org/fonts/bangers) | ✅ (43) · ⚠️ propuesta |
+
+**Carteles paródicos de la película** (Harry Potter, Lupin III, El
+fantasma de la ópera, El rey león, Gundam): imitan el logo del original con
+un cambio mínimo, según [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/ShoutOut/KaguyaSamaLoveIsWar)
+✅. ⚠️ No se sacó fotograma propio.
+
+## Punto 6 · Cómo hablan en pantalla: el sistema de rótulos cómicos
+
+Lo central (la cartela «本日の勝敗», el fondo a cuadros, el monólogo con
+fondo cambiado, el narrador) está en la biblia 43, punto 6. Aquí, **cómo
+rotula la serie un chiste**. Es lo más importante de este encargo.
+
+### 6.1 · Los rótulos del episodio 2, mirados
+
+Todo ✅ en fotogramas propios (`rotulos_02.jpg`).
+
+1. **La cartela-epopeya** (3:44): «生徒会長» («presidente del consejo») en
+   **letras de oro 3D** con bisel y reflejo, sobre negro, con **rayos y
+   estallidos blancos**. Suena una **fanfarria** de trompetas y platillos
+   (parte de vídeo). Presenta un cargo escolar como un campeón. Detrás,
+   Shirogane serio (3:52).
+2. **El título de combate** (11:04): «海VS山!!»: cada bando en su color (mar
+   azul `#64CBEB`, montaña verde `#86E340`) y un **«VS» pequeño naranja**
+   entre **rayos rojos** `#B60124`. Una discusión sobre vacaciones pintada
+   como un cartel de pelea.
+3. **La ficha de nota «備考»** (11:52 y 15:52-16:00): un **rectángulo
+   vertical blanco con marco negro** pegado al borde del plano, en mincho:
+   «備考：カナヅチ» («nota: no sabe nadar») y «備考：童貞» («nota: virgen»).
+   Es la **ficha técnica** de un personaje que revela, seria, un dato
+   humillante. La segunda va sobre un **damero** blanco y negro y el ojo
+   sudado de Shirogane. Es el gag del episodio.
+4. **La etiqueta de nombre a mano** (16:32): «かしわぎさん» en trazo fino
+   gris, vertical, junto a la cara de Nagisa, que sale en un plano de
+   «flechazo» (fondo pastel, destellos dorados, trama de puntos en la piel).
+5. **Onomatopeyas de color** dentro del plano: «ハッ» roja con destello
+   blanco (17:20) y «ワナワナ» azul a los lados de la cabeza, con rayas de
+   agobio en la frente (20:00). No son globos: van **pintadas en la escena**.
+6. **La burbuja de chat** (7:12): caja gris clara redondeada con colita,
+   letra gótica, y una **pegatina con borde blanco** (7:20). Es el móvil
+   dentro de la ficción, no un globo de diálogo.
+7. **El marcador del día** «本日の勝敗», en dos tallas: **corto** (15:12,
+   sólo el título, sobre la fachada del instituto) y **largo** (22:24):
+   título a la derecha y, a la izquierda, una **cartela más ancha** con el
+   porqué en mincho fina y el ganador en **letra gruesa**: «白銀の一人負け»
+   («Shirogane pierde él solo»).
+8. **Fondos de emoción** del episodio: damero (15:52), **grano oscuro** de
+   sospecha (15:48), **rayas horizontales de velocidad** (14:32), **espiral
+   blanca y negra** de rabia (14:16), **verde de héroe** con estelas
+   (19:56) y **rayas verticales** de vergüenza (7:24).
+
+### 6.2 · Otros rótulos cómicos de la serie (parte de texto)
+
+Catalogados en [TV Tropes, «Funny»](https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar)
+y [«ShoutOut»](https://tvtropes.org/pmwiki/pmwiki.php/ShoutOut/KaguyaSamaLoveIsWar),
+leídas directas ✅ (una fuente de catálogo, con capítulo o episodio):
+- **Cartela seca de remate** (manga): tras un soborno torpe de Chika, la
+  caja de narración dice sólo «daughter of a politician» (cap. ~29); y al
+  saberse el nombre del novio de Kashiwagi, «it took them 104 chapters (two
+  seasons in the anime) to find out his name». Humor de editor, no la voz
+  de relator del narrador.
+- **Cartel de cartulina «Fooled You»**: Kaguya lo levanta a cámara para
+  revelar una broma a Chika. Un cartel físico dentro de la viñeta.
+- **Caja de novela visual y forma «yukkuri»** (ep. 36): el plan de
+  Hayasaka se explica con **retrato y texto abajo**, y las dos se dibujan
+  como cabezas redondas sin cuello, un meme de 2channel y Niconico.
+- **Pantalla de invocación tipo *Fate/Grand Order*** (ep. 33) para explicar
+  un café de *cosplay*.
+- **Etiquetas de tipo Pokémon** (ep. 30): serpiente, rana y babosa
+  etiquetadas Fuego, Agua y Planta.
+- **El 4-koma del spin-off** «Kaguya-sama wo Kataritai» (G3 Ida, 8 tomos):
+  cuatro viñetas apiladas, un chiste por tira, contado por Karen y Erika
+  del Club de Medios ([wiki](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kaguya-sama_wo_Kataritai)) ✅.
+
+### 6.3 · Qué cuadro usar en una lámina cómica
+
+- **Título del canal**: la **cartela-epopeya** (oro 3D con rayos) o el
+  **título de combate**. Nunca un globo.
+- **Cada dato o regla**: una **ficha «備考»** vertical blanca con marco negro,
+  al borde, sin tapar caras. En español se titula «Nota:».
+- **El nombre de alguien**: la **etiqueta a mano**, fina y gris, junto a su
+  cara.
+- **El remate**: el **marcador largo** «Resultado de hoy», con la última
+  frase en letra gruesa.
+- **Si el marco es un móvil**: la **burbuja de chat** gris y las pegatinas.
+- **Nunca**: globo blanco redondo con cola, ni el subtítulo de streaming.
+
+## Punto 7 · Personajes y popularidad (lo nuevo)
+
+Las encuestas (AniList, ねとらぼ, みんなのランキング, サブカルウォーカー) y el
+hallazgo de que **Shirogane queda último** están en la biblia 43, punto 7.
+Resumen: AniList, Kaguya 20 513, Chika 16 164, Miko 15 180, Ishigami 14 674,
+Hayasaka 10 924, Shirogane 9128; en Japón gana Hayasaka
+([ねとらぼ](https://nlab.itmedia.co.jp/research/articles/229268/)).
+
+**Lo nuevo, ligado a la comedia**:
+- **Chika tiene su propia página en Wikipedia en inglés**, algo raro para
+  una secundaria: «an extremely popular and somewhat of a breakout
+  character» ([Wikipedia](https://en.wikipedia.org/wiki/Chika_Fujiwara),
+  sección *Popularity*) ✅.
+- **Nominada a «Best Girl»** en los 4.º Crunchyroll Anime Awards (misma
+  página) ✅.
+- **El autor explica por qué Chika casi no tiene monólogo interior**: «I
+  draw Fujiwara like she's everyone's heroine. Please feel free to like
+  her.» Y admite que **se parece a ella**: le encantan los juegos de mesa
+  alemanes ✅ ([entrevista de 16-feb-2020 traducida en Guya](https://guya.moe/pages/livedoor-aka-akasaka-interview/)
+  + nota 3 de Wikipedia).
+- **Una de las más cosplayeadas** ✅ ([Bitme](https://www.bitme.gg/noticias/cultura-geek/cosplay-nos-muestra-a-la-simpatica-chika-fujiwara-de-kaguya-sama-love-is-war/)
+  y [Código Espagueti](https://codigoespagueti.com/noticias/cultura/kaguya-sama-chica-consigue-un-increible-cosplay-de-chika-fujiwara/)).
+- **Los secundarios cómicos en AniList** (favoritos, recolector): Kei 1739,
+  Maki Shijo 818, el padre de Shirogane 700, Nagisa 135, Kobachi 118, Moeha
+  92, Karen Kino 58, Adolphe 36, Tsubasa 33 ⚠️ (una fuente).
+
+**Para una lámina cómica**: **Chika** si se busca el caos alegre y el
+meme; **Ishigami** para el meme seco (punto 12); **Kaguya** para la cara de
+«he ganado» o el cartel de broma; **Shirogane** como víctima del gag, mejor
+acompañado. Los secundarios del ep. 2 (Tsubasa, Nagisa) sirven de extras
+con nombre, no de protagonistas.
+
+## Punto 8 · Doblaje latino: los secundarios cómicos y los chistes locales
+
+Estudio **VSI Mexico City** (MilVox en la T3), dirección de Leyla Rangel
+(T1-T2) y Jessica Ángeles (T3); los principales, con dos fuentes y siete
+frases oídas, están en la biblia 43, punto 8
+([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War)).
+
+**Tres secundarios que la 43 dejó con una fuente, ahora con dos** ✅:
+
+| Personaje | Seiyū | Voz latina | Fuente 1 | Fuente 2 |
+|---|---|---|---|---|
+| Kei Shirogane | Sayumi Suzushiro | **Amanda Hinojosa** | Doblaje Wiki | [FuniAnime](https://funianime.com/este-es-el-cast-de-kaguya-sama-love-is-war/), 26-jul-2021 |
+| Tsubasa Tanuma | Taku Yashiro | **Diego Becerril** | Doblaje Wiki | FuniAnime (mismo artículo) |
+| Nagisa Kashiwagi | Momo Asakura | **Yaha Lima** | Doblaje Wiki | [ANMTV](https://www.anmtvla.com/2023/02/kaguya-sama-love-is-war-first-kiss-that_7.html), reparto de la película |
+| Adolphe Pescarolo | Itaru Yamamoto | Raúl Anaya | ⚠️ sólo Doblaje Wiki | — |
+| Kobachi Osaragi | Rina Hidaka | Jocelyn Robles | ⚠️ sólo Doblaje Wiki | — |
+| Sr. Shirogane (padre) | Takehito Koyasu | Rafael Pacheco | ⚠️ sólo Doblaje Wiki | — |
+
+**Frases textuales oídas con `voz.py`** (muestras oficiales de Doblaje Wiki,
+Whisper con los nombres corregidos a mano; tono y velocidad **medidos**):
+
+- **Kei** (Amanda Hinojosa), [audio](https://static.wikia.nocookie.net/doblaje/images/4/4e/Kei_Shirogane_%28ESP-LA%29.ogg/revision/latest?cb=20220502182134&path-prefix=es), 0:00-0:17:
+  *«Hola, soy la tesorera del Consejo Estudiantil de Secundaria. Me llamo Kei
+  Shirogane. […] un presidente del Consejo recién llegado a la escuela tuvo
+  que salir del país por desafiar a los líderes de los clubes.»* · aguda
+  (258 Hz), muy expresiva (18,9 semitonos), rápida (3,14 palabras/s) ✅.
+- **Nagisa** (Yaha Lima), [audio](https://static.wikia.nocookie.net/doblaje/images/f/f5/Nagisa_Kashigawi_%28ESP-LA%29.ogg/revision/latest?cb=20220502182130&path-prefix=es), 0:00-0:13:
+  *«Kaguya, ya eres la única en quien puedo confiar. Sólo quiero saber cómo
+  puedo romper sin problemas con mi novio.»* · **la más aguda medida** (416
+  Hz), 9 semitonos, **muy rápida** (3,67 palabras/s) ✅. La novia que
+  dramatiza crisis de un minuto.
+- **Tsubasa** (Diego Becerril), [audio](https://static.wikia.nocookie.net/doblaje/images/f/fa/Tsubasa_Tanuma_%28ESP-LA%29.ogg/revision/latest?cb=20220502182124&path-prefix=es), 0:00-0:16:
+  *«Sí, es que todos en la escuela hablan de tu experiencia en el amor,
+  presidente. Por eso pensé que podrías ayudarme dándome algunos consejos.
+  […] ¡Quiero declarármela para que ella sea mi novia!»* · 219 Hz, 11,5
+  semitonos, 3,46 palabras/s ✅. **Es la escena del episodio 2** (15:44 a
+  20:12, §3): se puede doblar con el fotograma delante.
+- **Adolphe** (Raúl Anaya), [audio](https://static.wikia.nocookie.net/doblaje/images/f/f4/Adolphe_Pescarolo_%28ESP-LA%29.ogg/revision/latest?cb=20220502182135&path-prefix=es), 0:00-0:16:
+  *«Joven Shirogane, ¿por qué crees que de la nada te pedí que fueras tú
+  quien preparara esa gran partida? […] Tu verdadero test comienza justo
+  ahora.»* · **la más grave medida** (96 Hz), 12,1 semitonos, 3,05
+  palabras/s ⚠️ («academy» de Whisper corregido a «academia»).
+- **Kobachi** (Jocelyn Robles), [audio](https://static.wikia.nocookie.net/doblaje/images/7/74/Kobachi_Osaragi_%28ESP-LA%29.ogg/revision/latest?cb=20220502182134&path-prefix=es), 0:00-0:14:
+  *«La verdad, yo no quiero estar en el consejo. Lo único que yo quería era
+  apoyar a Miko. ¿Y tú qué harás, Miko?»* · 264 Hz, **la menos expresiva**
+  (4,5 semitonos), 3,17 palabras/s ✅ (encaja con su ficha: «a girl of few
+  words», [wiki](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kobachi_Osaragi)).
+- **Sr. Shirogane** (Rafael Pacheco), [audio](https://static.wikia.nocookie.net/doblaje/images/7/7c/Sr._Shirogane_%28ES-LA%29.ogg/revision/latest?cb=20220810141849&path-prefix=es), 0:00-0:24:
+  *«Es el presidente del Consejo Estudiantil, se está esforzando demasiado.
+  No quiere que la gente note lo incompetente que es. […] señorita
+  Shinomiya, ¿sería tan amable de contarme más acerca del tipo de persona que
+  es Miyuki Shirogane?»* · grave (112 Hz), 12,3 semitonos, 2,63 palabras/s ✅.
+
+**Un premio con dos del reparto**: Elizabeth Infante (Chika) fue nominada a
+mejor interpretación en español en los 7.º Crunchyroll Anime Awards (2023)
+por *Ultra Romantic*, y ganó **Alejandro Orozco**, la voz de Ishigami, por
+Gyutaro de *Demon Slayer* ⚠️ (Wikipedia; Anime News Network dio captcha).
+
+### 8.1 · Los chistes locales del doblaje, por episodio
+
+De los «Datos de interés» de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War#Datos%20de%20inter%C3%A9s)
+(recolector) ⚠️ una fuente. La 43 ya citó «Jesús de Veracruz», «metiche»,
+«Perfectirijillo», «¡Quiero mi cocol!», «Ola k ase?», «maldita lisiada» y
+«loquita del centro». Los que suma este encargo:
+- **Ep. 2** (el visto aquí): Chika cita a **Chespirito, Pedro Infante y Juan
+  Gabriel**.
+- **Ep. 4**: Chika rapea y llama «Kaguya san» a Kaguya, como en japonés.
+- **Ep. 8**: Shirogane dice **«¡Booyah!»** de Ron Imparable (*Kim
+  Possible*); Enzo Fortuny dobla a los dos.
+- **Ep. 18**: Kaguya suelta «…juegos de azar y mujerzuelas» de Bender
+  (*Futurama*).
+- **Ep. 19**: Kaguya dice «una chica normal, con una vida normal», la intro
+  de *Miraculous*; Jessica Ángeles es también Marinette.
+- **Ep. 29**: Chika, «¡Arigato por todo lo que me enseñaste!»; el rap lleva
+  groserías con pitido.
+- **Ep. 30**: Shirogane llama **«Ishigod»** a Ishigami; salen «friendzone»,
+  «calenturiento» y «todo chiquito, todo panzón».
+- **Ep. 32**: Kaguya canta «No rompas más mi pobre corazón» (Caballo Dorado).
+- **Ep. 35**: vuelve la referencia a Gordon Ramsay; Arsène pasa a Arsenio.
+- **Ep. 36**: Kaguya dice **«uwu»** y Hayasaka le contesta **«Usted es la
+  vergüenza de Sor Juana»**.
+- **Errores**: en el ep. 5 Chika dice «¡¿No exageres?!»; en el ep. 19 el
+  narrador dice «Fuguiwara».
+
+Para un canal de doblaje: los **guiños locales son parte de la voz latina**
+de la serie. Una lámina o un reto puede usarlos, con medida.
+

@@ -190,7 +190,7 @@ Es una caricatura occidental: **en la serie no hay globos**. Los diálogos se oy
 - **Agente Seis (Six)**: el agente que lo cuida y lo vigila. Traje verde, gafas oscuras, **dos katanas a la espalda**. Callado y letal.
 - **Bobo Haha**: **chimpancé EVO** que habla (la ficha dice *Chimpanzee EVO*, no «mono»). Fez, parche, **dos pistolas láser**. El alivio cómico: gira balones, levanta el pulgar, lee cómics.
 - **Dra. Rebecca Holiday**: la científica de Providence. Sale examinando a Breach (nº 92) y peleando (nº 91). Rex coquetea con ella (nº 43, «Rex flirts with Dr. Holiday»).
-- **Noah Nixon**: el amigo «normal» de Rex, sin poderes (nº 45 «101-Rex and Noah», nº 95 «Noah and Rex double date»). En un episodio se vuelve EVO (nº 89).
+- **Noah Nixon**: el amigo «normal» de Rex, sin poderes (nº 77 «101-Rex and Noah», sentados en un muro con grafitis; nº 95 «Noah and Rex double date»). En un episodio se vuelve EVO (nº 89).
 - **César Salazar**: sale en la 2.ª y 3.ª temporada (Doblaje Wiki). Que es el hermano mayor de Rex no está en las partes ⚠️ (de memoria).
 
 **Providence**
@@ -317,7 +317,7 @@ Buscados en la [API de Dailymotion](https://api.dailymotion.com/videos?search=ge
 - **Qué es**: un chico amnésico que controla sus nanitos. Genera máquinas con su cuerpo y **cura EVOs**, algo que nadie más puede ([wiki](https://generatorrex.fandom.com/wiki/Exponentially_Variegated_Organism)) ✅.
 - **Qué transmite**: seguridad, chulería simpática, energía. En el retrato oficial sonríe de lado mirando arriba; en el opening sonríe tras formar los Smack Hands ([0:04](https://www.dailymotion.com/video/xa14dbg&t=4)).
 - **Qué le pesa**: no recordar su pasado. El violín de «Frostbite Dream» suena en sus recuerdos con ansiedad (1.06) ⚠️.
-- **Relaciones**: Six lo cuida y lo vigila (le regala un tantō por su cumpleaños, 1.19) ⚠️; coquetea con Holiday (nº 43); Noah es su amigo de calle (nº 45, nº 95); Circe es su amiga en el bando contrario (nº 59, nº 63); pelea con Van Kleiss y lo cura (nº 40, nº 41).
+- **Relaciones**: Six lo cuida y lo vigila (le regala un tantō por su cumpleaños, 1.19) ⚠️; coquetea con Holiday (nº 43); Noah es su amigo de calle (nº 77, nº 95); Circe es su amiga en el bando contrario (nº 59, nº 63); pelea con Van Kleiss y lo cura (nº 40, nº 41).
 - **Caras vistas**:
   - alegría y seguridad: opening [0:04](https://www.dailymotion.com/video/xa14dbg&t=4) y [0:11](https://www.dailymotion.com/video/xa14dbg&t=11); nº 39, sonriendo con un examen en la mano;
   - explicar o avisar, cejas fruncidas y manos abiertas: tráiler del juego [0:33](https://www.dailymotion.com/video/x84bg5o&t=33);
@@ -409,4 +409,139 @@ Medido con Pillow en zonas limpias de tela (sin línea) de los retratos oficiale
 **Caballero Blanco**: además del abrigo, un **traje de combate** blindado gris (nº 109).
 **Circe**: pelo negro con mechas rojas; antes, negro con morado (cambia en la 2.ª temporada) ✅ ficha.
 **Lo icónico**: la chamarra roja con los goggles de Rex; el traje verde con gafas de Six; el fez con parche de Bobo.
+
+## 16 · Paisajes y fondos de pantalla
+
+**Sitios y su luz** (detalle en §4):
+- **Cuartel de Providence**: torre gris en un cañón desértico, **día**, cielo azul claro, roca arena (nº 36, nº 50).
+- **Interiores de Providence**: blancos y grises, **luz cenital fría** (`#E9F9FA`, `#A9CCD9`).
+- **Ciudad de noche**: azules muy oscuros (`#0F2239`, `#192F4C`), relámpagos, para Six.
+- **Patios coloniales** (nivel México del juego): **tarde** cálida, terracota.
+- **Selva** (nº 65) y calles con grafitis (nº 77).
+
+**Fondos de pantalla**:
+- **Oficial**: la imagen del cruce con Ben 10, 1920×1080 ([GenRexBen10.jpeg](https://static.wikia.nocookie.net/generatorrexpedia/images/4/4a/GenRexBen10.jpeg)) ✅. Es el único oficial de ese tamaño hallado.
+- **Fan art grande**: Rex con ojos brillantes, **2753×3540** vertical (twitter.com/_obarii) ⚠️; Rex en pelea, **3050×1951** horizontal (Pixiv 2022) ✅ (§3).
+- **Bancos de fondos** con colecciones de la serie (sin abrir una a una, hay que medir la elegida) ⚠️: [Alpha Coders](https://alphacoders.com/generator-rex), [WallpaperAccess](https://wallpaperaccess.com/generator-rex), [Wallpaper Flare](https://www.wallpaperflare.com/search?wallpaper=generator+rex).
+- **Wallhaven**: 0 resultados ([búsqueda](https://wallhaven.cc/api/v1/search?q=Generator%20Rex)) ✅ comprobado.
+- **Cartoon Network no sacó un pack de fondos** para esta serie: no se encontró ninguno ⚠️.
+
+## 17 · Guía para IA de imagen y de texto
+
+Hecha por el redactor con los datos de esta biblia. Para Firefly, Canva o similar: la IA no conoce bien esta serie de 2010, así que **hay que describirla entera** y darle referencias.
+
+### IA de imagen
+
+**Estilo general** (va en todas las peticiones):
+- «caricatura de acción estadounidense de 2010 con influencia anime, estilo Cartoon Network, **color plano con una sola sombra de borde duro**, **línea de contorno gruesa y uniforme** casi negra, sin textura, sin grano, sin degradados suaves, proporciones realistas estilizadas, rostros angulosos».
+- **Luz**: una principal dura; sombras netas en bloque. Interior de Providence: cenital fría blanca-azulada. Exterior: sol de desierto. Noche: azul muy oscuro con un contraluz.
+- **Encuadre**: plano medio de 3/4 para presentar; **contrapicado** para máquinas y EVOs grandes; plano medio fijo a la altura de los ojos para diálogos (§18).
+
+**Rasgos que nunca cambian**
+- **Rex**: chico latino de piel morena (`#BB926D`), pelo negro hacia atrás en puntas, ojos cafés, **chamarra roja de cuello alto** (`#A04D47`) con parches naranjas en la manga, camiseta verde petróleo (`#394B45`) con dos rectángulos naranjas y la mitad de abajo blanca, pantalón negro con líneas geométricas azules, guantes azules, **goggles de lente naranja sobre la cabeza**, sonrisa ladeada.
+- **Máquinas de Rex**: salen de su cuerpo; **naranja y gris con remaches** (T1-T2) o **negras con líneas verde lima que brillan** (T3). Nombres: Smack Hands (puños gigantes), BFS (espada enorme), Slam Cannon, Punk Busters (botas), Boogie Pack (mochila cohete), Rex Ride (moto), Battle Axes (hachas cian).
+- **Six**: hombre alto y delgado, pelo castaño oscuro corto peinado atrás, **gafas oscuras rectangulares de cristal verdoso**, perilla, **traje verde botella** (`#3F4C43`), camisa blanca, corbata negra, dos katanas.
+- **Bobo**: **chimpancé** robusto, pelaje castaño, cara gris lavanda, **fez granate con borla negra**, **parche negro en el ojo izquierdo**, camisa caqui (`#838370`) con franja azul-gris, correas marrones, dos pistolas grandes.
+- **Nanitos**: esferas pequeñas con pinchos, azul brillante, en nube.
+
+**Palabras que ayudan**: *western action cartoon 2010*, *cel shading, flat colors, hard shadow*, *thick uniform outline*, *Cartoon Network style*, *mechanical arms*, *orange goggles on head*, *red jacket*, *desert canyon tower*, *clean digital animation*.
+**Palabras que lo estropean**: *anime*, *manga*, *chibi*, *kawaii*, *screentone*, *watercolor*, *realistic*, *3D render*, *Pixar*, *film grain*, *VHS*, *T-rex* o *dinosaur* (confunde el nombre), *monkey* (usar *chimpanzee*), *beret* (Bobo lleva *fez*).
+
+**Referencias para dar a la IA**
+- estilo y vestuario: los retratos de [Rex](https://static.wikia.nocookie.net/generatorrexpedia/images/e/e5/Rex_Salazar.png), [Six](https://static.wikia.nocookie.net/generatorrexpedia/images/9/94/Agent_Six.png) y [Bobo](https://static.wikia.nocookie.net/generatorrexpedia/images/9/97/Bobo.png);
+- grupo y escala: hoja nº 51;
+- máquinas: hoja `maquinas_01`, nº 97-108;
+- pose: opening [0:04](https://www.dailymotion.com/video/xa14dbg&t=4) (celebrar), tráiler [0:33](https://www.dailymotion.com/video/x84bg5o&t=33) (explicar);
+- fondo: nº 36 (cuartel) y el fotograma de Providence del opening [0:10](https://www.dailymotion.com/video/xa14dbg&t=10).
+
+**Vocabulario de expresiones** (esta serie no usa gotas de sudor, *chibi* ni fondos de emoción de manga):
+- enfado o poder fuera de control: **ojos que brillan rojo** (nº 57);
+- poder activo: **líneas azules que brillan** en el pantalón y en las máquinas; forma Omega-1 con **líneas cian** (nº 54);
+- acción o grito: **estallido radial rojo y blanco** de fondo (nº 28);
+- curar: **chispas azules** entre la mano de Rex y el EVO (nº 40).
+
+### IA de texto
+
+⚠️ **No hay frases reales de la serie en las partes** (ni en inglés ni del doblaje latino). Lo de abajo es **tono deducido** de poses y relaciones, no citas. Antes de usar la voz latina, oír muestras de Doblaje Wiki con `voz.py`.
+
+- **Rex**: frases cortas, chulo y bromista, se ríe de sí mismo, presume de sus máquinas, anima. Signos: «¡…!» y preguntas retóricas. Nunca solemne.
+- **Six**: seco, pocas palabras, sin exclamaciones, órdenes en punto y aparte. No bromea; si lo hace, sin sonreír.
+- **Bobo**: sarcástico, relajado, se da importancia («yo»), se burla de Rex con cariño.
+- **Caballero Blanco**: autoridad fría, habla de protocolo, por pantalla.
+- **Ejemplos por emoción** (escritos por el redactor para láminas, **no son de la serie**):
+  - alegre, Rex: «¡Esto sí es una máquina!»
+  - enfadado, Six: «No. Otra vez.»
+  - explicando, Rex: «Mira. Un hilo por cacharro. Así de fácil.»
+  - animando, Bobo: «Tú tranquilo. Aquí nadie muerde. Casi.»
+  - triste, Rex: «No me acuerdo de nada… pero de esto sí.»
+- Términos del mundo que usar tal cual hasta oír el doblaje: nanitos, EVO, Providence, el Evento, Abysus, *builds*.
+
+## 18 · Estilo y técnica, y cómo replicarlo
+
+**Quién y cómo**
+- **Diseño de personajes: Jose Lopez** (Los Ángeles). Antes: *Godzilla* (serie), *Men in Black: The Series*, *Jackie Chan Adventures*, *Green Lantern: First Flight*, *The Batman*. Después: director de arte de personajes en *Transformers: Prime* ([wiki](https://generatorrex.fandom.com/wiki/Jose_Lopez)) ✅. De ahí el diseño anguloso de superhéroe.
+- **Estudio**: Cartoon Network Studios (Burbank). Director supervisor **John Fang**. Directores de episodio: Christofer Graham, Rick Morales, Seung-Hyun Oh, Samuel Montes, Kenji Ono ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Generator_Rex)). El estudio de animación de fuera no se identificó ⚠️.
+- **Técnica**: animación 2D digital en color ⚠️ (ficha de la wiki, sin *making of*). Ningún *making of* ni comentario de DVD habla de programas.
+- **Filtros**: **sin grano, sin brillo difuso, sin aberración** ⚠️ observado en las imágenes, no dicho por el estudio. Sólo brillan los nanitos y las líneas de poder.
+- **Línea**: gruesa y uniforme, casi negra, algo marrón en primeros planos. **Color**: plano, una sombra de borde duro por zona (lo confirman los hex del §15).
+
+**En Photoshop**
+- Línea: pincel de tinta de **grosor fijo** con suavizado, sin textura. Capa en **Multiplicar** sobre el color.
+- Color base en capa Normal, plano. **Sombra** en otra capa en **Multiplicar**, con máscara de recorte y **borde duro**. Nada de aerógrafo.
+- Brillos (lente de los goggles, filo de la espada): capa en **Superponer** con forma simple, sin desenfoque.
+- Nanitos y líneas de poder: capa aparte con **Resplandor exterior** a media opacidad y un desenfoque gaussiano suave **sólo en esa capa**.
+
+**En Blender**
+- Material *toon*: **Shader to RGB** + **ColorRamp** de 2-3 bandas en Constante.
+- Contorno: **Freestyle** de grosor constante, o **Solidify** invertido con material negro sin luz (más barato).
+- Render **Eevee**, luz principal dura, sin GI difuso fuerte.
+- Texturas planas en Base Color; sin mapas PBR complejos.
+- **Modelos libres** para empezar: nanitos (Meta-Nanites, Standard Nanite), Punk Busters, Boogie Pack y Rex sin máquinas (§3), todos CC BY con crédito.
+
+**Encuadres y composición**
+- **Presentar un *build***: plano medio-corto de perfil o 3/4, el brazo o el arma en primer plano (así lo enseñaba el visor 3D del sitio oficial).
+- **Peleas**: **contrapicado** para EVOs grandes; cámara cercana y en movimiento para los golpes de Rex.
+- **Diálogo en Providence**: plano medio fijo, cámara a la altura de los ojos, pasillo desenfocado detrás.
+- **Emociones**: seguridad = 3/4 con luz lateral fuerte (opening 0:11); amenaza = de frente, simétrico, gafas (Six); acción = diagonal y estallido radial detrás (nº 28).
+
+## 19 · Texturas 2D
+
+La serie no usa tramas de manga. Las capas 2D que sí tiene: **patrón de nanitos** (puntos azules que brillan), **líneas geométricas** del pantalón de Rex, **metal de los *builds***, **tela caqui** de Providence, el **emblema de la «P»** y el **guilloché** del certificado.
+
+- **Grano de papel** (para imitar las páginas del cómic *Action Pack*): [Paper006](https://ambientcg.com/view?id=Paper006), CC0 ✅.
+- **Metal y lona** como capa 2D encima del color plano: Metal055A y Fabric066 (§4), CC0 ✅.
+- **Pinceles de trama de puntos** para Photoshop (útiles para el cómic y el estallido radial): «Mabecman's Screentones», 34 pinceles, gratis con crédito ([Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes)) ⚠️ comprobar la licencia al bajarlos.
+- **Emblema de Providence**: una «P» geométrica de dos trazos rectos en ángulo recto, verde azulado sobre claro, dentro de un rectángulo (certificado, nº 3) ✅. Se redibuja en vector, no hace falta textura.
+- **Guilloché** (las líneas finas del borde del certificado): no hay un recurso libre en las partes ⚠️. Se puede sacar del propio certificado de la wiki como referencia y redibujar.
+- **Cómics oficiales del *Action Pack*** como referencia de línea impresa: la parte de imagen cita «Wood for the Trees» (n.º 67), «Extra baggage» (n.º 51), «A Blank Canvas» (n.º 56) y «Heart of Stone» (n.º 54); la de texto, los números 50, 54, 55, 56, 59, 61 y 63 ⚠️ no cuadran (ver «Correcciones»). El arte interior no se abrió.
+
+## 20 · Gustos y detalles
+
+❌ **No se buscó**: la parte de voz no llegó. Faltan comida, aficiones, cumpleaños, altura, lo que ama y odia cada uno y cómo se ve a sí mismo. Lo poco que sale de las otras partes:
+- **Objeto que siempre llevan**: Rex, los **goggles naranjas**; Six, las **dos katanas** y las gafas oscuras; Bobo, las **dos pistolas** y el fez.
+- **Cumpleaños de Rex**: se celebra en el 1.19 («Promises, Promises»); Six le regala un **tantō** ⚠️ (una fuente, la wiki de la banda sonora). La fecha no está.
+- **Bobo lee cómics** (tráiler del juego, [0:26](https://www.dailymotion.com/video/x84bg5o&t=26)) y juega con un balón (opening [0:13](https://www.dailymotion.com/video/xa14dbg&t=13)).
+- **Rex** saca una buena nota en un examen (nº 39) y sale en citas dobles con Noah (nº 95): tiene vida de adolescente fuera de las misiones.
+- Para completarlo: fichas de la wiki de cada personaje (sección *Personality* y *Trivia*) y Doblaje Wiki «Datos de interés».
+
+## 21 · Por qué la aman
+
+⚠️ A medias. Sin reseñas, premios ni ventas en las partes; sólo títulos y votos de Reddit.
+- **Envejeció bien**: el hilo con más comentarios sobre la serie la llama una de las mejores caricaturas de los 2010 (102 votos, 22 comentarios, §12).
+- **El cruce con Ben 10** es el momento que más grita el fandom (379 y 146 votos). Se estrenó en la Comic Con de Nueva York el 16-oct-2011 y se emitió el 25-nov-2011 ✅ (§23).
+- **Un protagonista latino** con poderes de máquina: dos hilos preguntan por el «personaje latino favorito» (36 y 14 votos) ⚠️ sin leer.
+- **Las máquinas**: cada fan tiene su *build* favorito (hilo «Each character favorite builds?»).
+- **La escena que emociona mejor localizada**: el final de la 1.ª temporada, **1.19 «Promises, Promises»**, cuando Six le regala un tantō a Rex por su cumpleaños; suena **«Happy Birthday Rex»** ⚠️ una fuente, sin minuto ni vídeo.
+- **Otra emotiva**: los recuerdos de Rex con el violín de **«Frostbite Dream»** (1.06) ⚠️.
+- **Para gritar de emoción**: el opening con «Revolution» de Orange y la pose de Smack Hands ([0:04](https://www.dailymotion.com/video/xa14dbg&t=4)).
+- **No se buscó**: escenas que hacen llorar con minuto, cómo están dibujadas, vídeos de reacción, comentarios más votados ❌.
+
+## 22 · Fan dubs y comunidad hispana
+
+⚠️ A medias.
+- El recolector buscó en Dailymotion «Generator Rex fandub español» y «fandub latino»: **ningún fandub**, sólo clips sueltos del cruce con Ben 10, el tráiler y el opening ✅ buscado, sin resultado.
+- **YouTube y TikTok no se buscaron** (YouTube pide sesión) ❌.
+- **Comunidad hispana**: dos hilos en inglés de r/generatorrex preguntan por el **personaje latino favorito** (§7). Rex Salazar y César Salazar tienen apellido hispano.
+- **Covers en español del opening, parodias y memes hispanos**: no están en las partes ❌.
+- Dato útil: el doblaje es mexicano y conocido (Irwin Daayán, Roberto Mendiola, Gabriel Pingarrón, §8); un fandub de escena del cruce con Ben 10 encajaría en el servidor.
 

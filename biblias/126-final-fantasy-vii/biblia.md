@@ -844,3 +844,209 @@ Sin doblaje oficial, los fans hispanos lo doblan ellos. Esto le interesa mucho a
 
 **Vocabulario que un fan reconoce al instante:** Mako, Materia, Lifestream o Corriente Vital, SOLDIER, Turks, Cetra o Ancianos, Jenova, Geostigma, Shinra, AVALANCHE, Chocobo, Gil, Limit Break, Highwind, Sector ✅ (wiki y Wikipedia).
 
+## Tres conceptos de lámina
+
+FFVII aún no tiene canal. Tres canales posibles: **#a-que-juegas**, **#reto-de-la-semana** y **#castings**. Otras series proponen los mismos, y no pasa nada: la biblia vale para cualquier uso.
+Los textos de la lámina van cortos, sin «·», sin «—» y sin paréntesis. Tono sobrio: nada de colores alegres.
+
+### Concepto 1 · #a-que-juegas · «Séptimo Cielo»
+
+- **El objeto y el sitio.** La **estantería de botellas** detrás de la barra del Séptimo Cielo, el bar de Tifa en el Sector 7 (nº 91). Tres botellas llevan una **etiqueta de papel escrita a mano**. Delante, la barra de madera con un vaso de cóctel (nº 138) y un **orbe de Materia verde** que brilla.
+  En Blender: la base es el diorama del bar de aaronc3D (CC BY). Botellas de vidrio, etiquetas con `Paper006`; la tinta sigue la curva de cada botella.
+  ⚠️ Las etiquetas escritas son nuestras. Las botellas, la barra y las lámparas sí salen en nº 91 y nº 138.
+- **Personaje.** **Tifa**, la más dibujada por los fans y 2.ª en Famitsu. Detrás de la barra, apoyada, sonriendo al espectador como en nº 91. Top blanco #E7E8E7 con tirantes, o el delantal «Pride of Seventh Heaven» (nº 75). Para posarla, el modelo con rig de agung.ihackstuff (CC BY).
+  Por qué ella: su bar es donde se junta el grupo. Es justo «quién se apunta a una partida».
+- **Cómo habla.** Con la **caja azul clásica de 1997**, en el tercio de abajo. Degradado #01017E → #000091 → #000056, esquinas redondeadas y borde claro de 2 px. Texto blanco en **Reactor7**. Sin retrato.
+  ⚠️ Antes de maquetar, mirar cómo va el nombre dentro de la caja en el fotograma de [3:20](https://www.dailymotion.com/video/x89clz1?t=200).
+- **Dónde va cada texto**
+  - Arriba, un **letrero de madera** sobre la estantería, en Oswald: «A QUÉ JUEGAS».
+  - Botella 1: «Di a qué juegas.»
+  - Botella 2: «Sube tus capturas.»
+  - Botella 3: «Busca con quién jugar.»
+  - La caja de Tifa: «¿A qué juegas hoy? Siéntate y cuéntamelo.»
+- **Para que no quede plano**
+  - Delante, arriba, dos lámparas colgantes desenfocadas en ámbar #EBC27E y #B67D4A (medido en nº 138).
+  - Delante, abajo a la izquierda, el vaso de cóctel desenfocado.
+  - La Materia verde #347035 tiñe la madera de la barra. Fondo en penumbra: #110A04, #3B2417, #76533F.
+  - Luz de borde fría sobre el pelo de Tifa, como en Remake.
+- **Música para un vídeo:** «Tifa's Theme».
+- **Si se quiere evitar otro bar** (Cyberpunk ya tiene uno): la **torre de agua de Nibelheim** de noche (nº 142), con los textos grabados en las tablas.
+
+### Concepto 2 · #reto-de-la-semana · «El expediente de la mansión Shinra»
+
+- **El objeto y el sitio.** Una **carpeta abierta de documentos de Shinra** sobre la mesa de la biblioteca de la mansión Shinra, en Nibelheim. Es donde Sephiroth lee sobre Jenova ([0:40](https://www.dailymotion.com/video/x2yc6on?t=40)). Hojas sueltas, una lámpara, libros detrás.
+  En Blender: carpeta de cartón, hojas con `Paper006` algo curvadas, y el **sello rojo de Shinra** #B10711 impreso en la tapa.
+  ⚠️ El clip es de 512×288: la mesa y los papeles no se ven con detalle. El sello es nuestro, hecho con el logo real.
+- **Personaje.** **Sephiroth**, sentado, con una hoja en la mano. Levanta la vista hacia el espectador, sin sonreír del todo. Pose de [0:40](https://www.dailymotion.com/video/x2yc6on?t=40); cara de nº 79 y del primer plano de [9:00](https://www.dailymotion.com/video/x2yc6on?t=540). La **Masamune** apoyada en la estantería (nº 1).
+  Su abrigo casi no cambia de 1997 a Remake, así que se puede usar el Sephiroth de Remake en esta escena sin romper nada.
+  Por qué él: el meme de «Sephiroth en todos los juegos» y su idea de ser «el elegido». Y la escena es literalmente alguien leyendo un texto en voz alta.
+- **Cómo habla.** Con el **subtítulo de cinemática de Remake**: sin caja, blanco, el nombre pequeño encima a la izquierda (como en nº 86 y nº 133). Letra **Barlow**. Es lo que se dobla encima: encaja con un reto de voz.
+- **Dónde va cada texto**
+  - Tapa de la carpeta, en Cinzel: «RETO DE LA SEMANA».
+  - Hoja 1, como un guion: «Una línea. Una escena. Un tono.»
+  - Hoja 2: «Se entrega dentro del hilo del reto.»
+  - Hoja 3: «No se gana nada. Esa es la gracia.»
+  - Subtítulo: «Sephiroth» encima y, debajo, «¿Serás tú el elegido de esta semana?»
+- **Para que no quede plano**
+  - Luz cálida de la lámpara sobre las hojas; frío verde Mako #3CB6AD por la puerta que baja al reactor.
+  - Delante, abajo a la izquierda, una pila de libros desenfocada. Polvo en el haz de luz.
+  - Luz de borde en el pelo plateado #A19FAB. Fondo pardo muy oscuro, como la cámara de Jenova: #35120F, #61251D.
+  - ⚠️ La biblioteca en sí no está medida: son los tonos del sótano de la misma mansión.
+- **Lámina 2:** las etiquetas del foro (Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, Con trampa, Libre) como **pestañas de colores** en el canto de las hojas de la carpeta.
+
+### Concepto 3 · #castings · «Vendedora de flores» ⭐ recomendado
+
+- **El objeto y el sitio.** La **cesta de flores de Aerith** (nº 82), en su iglesia del Sector 5, junto al macizo de flores que crece entre los tablones. Cada ramo lleva una **etiqueta de papel atada con hilo**: cada etiqueta es un casting.
+  En Blender: la iglesia de Julia Szlachetka (CC BY) de fondo; cesta de mimbre, lirios amarillos como los de nº 133, etiquetas con `Paper006` que se doblan con el hilo.
+  ⚠️ Las etiquetas son nuestras. La cesta y las flores amarillas sí son reales.
+- **Personaje.** **Aerith**, 3.ª en todas las encuestas y la más doblada por los fans. Tiende una flor amarilla hacia el espectador, como en nº 133, con la cesta en el otro brazo (nº 82). Vestido rosa #D2BABC, bolero rojo #7A1A20, lazo rosa en la trenza.
+- **Cómo habla.** Con el **subtítulo de Remake**, pero con el detalle real de su primera escena: la etiqueta no dice «Aerith», dice **«Vendedora de flores»**, como «Flower Peddler» en nº 133. En un canal de castings, el nombre es el papel. Letra **Barlow** blanca.
+- **Dónde va cada texto**
+  - Un **letrero de madera pintado a mano** clavado en el macizo, en Oswald: «CASTINGS».
+  - Etiqueta 1: «Cada casting es un hilo.»
+  - Etiqueta 2: «Ponle sus etiquetas.»
+  - Etiqueta 3: «Ciérralo cuando el papel esté cubierto.»
+  - Subtítulo: «Vendedora de flores» encima y, debajo, «Toma. Este papel es para ti.»
+  - La frase adapta su línea real «Here. This is for you.» En español, «papel» es a la vez la etiqueta de papel del ramo y el personaje que se dobla.
+- **Para que no quede plano**
+  - Un haz de luz entra por el techo roto sobre las flores, como en el opening ([2:10](https://www.dailymotion.com/video/x89nb1q?t=130)).
+  - Luciérnagas verdes de Mako delante de Aerith, desenfocadas.
+  - Pétalos amarillos y el borde de la cesta en primer plano.
+  - Fondo de la iglesia en penumbra parda: #161416, #342A29, #5D463E, #D7B88D (medido en nº 116).
+- **Lámina 2:** las 15 etiquetas del foro como **tarjetas en macetas** del macizo, por grupos. Formato: Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro, Canto. Pago: Pagado, Sin paga. Estado: Abierto, Cerrado, Urgente. Otras: Oficial del servidor, +18.
+- **Por qué es la recomendada:** usa una frase real, un detalle real de la interfaz y un juego de palabras que sólo funciona en español. Y FFVII no tiene doblaje latino: el canal de castings es donde se empezaría.
+
+## Cumplimiento del encargo
+
+✅ hecho y confirmado · ⚠️ a medias, con una sola fuente, o algo que no existe en la obra (comprobado) · ❌ no se buscó (aquí no hay ninguno)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Portadas, póster, logo, 4 acuarelas de Amano, renders de Remake y Crisis Core, key art, capturas en 4K, hojas de modelo y bocetos, con tamaño y número de hoja. Falta medir la caja de Remake |
+| 2 · Fotogramas con capítulo y minuto | ⚠️ | Más de 25 fotogramas con minuto de 6 vídeos, pero a 512×288: Dailymotion no da más y YouTube pedía sesión. En alta y sin minuto, las capturas de la wiki a 3840×2160 |
+| 3 · Fan art y 3D con licencia | ✅ | Fan art con autor y enlace; 15 modelos de Sketchfab con licencia, entre ellos el bar, la iglesia y Shinra. No hay orbe de Materia ni nada en Poly Haven |
+| 4 · Fondos, luz, paleta y texturas | ✅ | 6 sitios medidos en fotograma y 5 más en las hojas, con su luz. 6 texturas CC0 de ambientCG |
+| 5 · Tipografía por uso | ⚠️ | 6 letras libres con tildes, ñ, ¿ y ¡ comprobadas. La letra del logo, de la interfaz de Remake y de Advent Children no están identificadas. Pensamiento y onomatopeya no tienen grafismo propio en el juego |
+| 6 · Cómo hablan en pantalla | ✅ | Caja de 1997 medida en hex, subtítulo de Remake leído en 2 capturas y menús de Remake medidos. Falta ver cómo va el nombre en la caja clásica y el detalle de Ever Crisis |
+| 7 · Personajes y popularidad | ✅ | Famitsu 2020 con votos en 2 fuentes, NHK 2020 en 2 fuentes y Danbooru. Cloud en votos, Tifa en dibujos |
+| 8 · Doblaje latino | ⚠️ | **No existe**, comprobado en Doblaje Wiki con dos consultas. Voces japonesas e inglesas en 2 fuentes. No hay frases latinas porque no hay doblaje. ANMTV bloqueado |
+| 9 · Música y sonido | ✅ | Tracklist en 2 fuentes, qué suena en cada escena y el silencio antes del grito visto en 2 clips. Remake y Rebirth sin escuchar; el «¡Kweh!» sin medir |
+| 10 · Vídeos con minuto | ⚠️ | 12 vídeos con minuto exacto y tendencias de Reddit con votos. TikTok pedía sesión y los fandubs de YouTube van sin minuto |
+| 11 · Videojuegos de la franquicia | ✅ | 10 juegos con su interfaz. TCRF sólo por el resumen del buscador. Ehrgeiz y The First Soldier sin fuente |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | Memes de TV Tropes, hilos de Reddit con votos y 7 reglas de qué no hacer |
+| 13 · Personajes a fondo | ⚠️ | Los 4 principales, Barret y 3 secundarios. Cara en serenidad, frialdad, tristeza, tensión, melancolía y alegría. Faltan miedo y vergüenza |
+| 14 · Poses analizadas | ✅ | 27 poses con minuto y función, más las de las hojas, y qué pose para cada uso |
+| 15 · Vestuario con hex | ✅ | 20 prendas medidas, rasgos fijos y trajes por arco con número de hoja |
+| 16 · Sitios y fondos de pantalla | ✅ | 8 sitios con su hora y luz; 12 fondos oficiales y 4 de fans con tamaño y autor |
+| 17 · Guía para IA | ✅ | Tres estilos, rasgos fijos, etiquetas de Danbooru, paleta, palabras sí y no, referencias, y frases reales por emoción. Sin frase real de alegría pura |
+| 18 · Estilo y cómo replicarlo | ✅ | Programas de cada época, entrevista al director sobre el pelo, pasos en Photoshop y Blender, y encuadres |
+| 19 · Texturas 2D | ✅ | Tramas, texturas CC0 y emblemas con hex. Falta el logo suelto de AVALANCHE |
+| 20 · Gustos y detalles | ⚠️ | Altura y cumpleaños en la wiki, que cita los Ultimania. Sephiroth no tiene cumpleaños oficial y el de Cloud tiene dos fechas. Los gustos salen de la personalidad, no de una ficha |
+| 21 · Por qué la aman y escenas | ⚠️ | Ventas y premios en 2 fuentes; la muerte de Aerith con minuto, música, luz y reacción. Faltan los comentarios más votados de los vídeos de reacción |
+| 22 · Fandubs y comunidad hispana | ⚠️ | Voice Emotions en 2 fuentes, 2 fandubs con vistas y el reparto soñado de Doblaje Wiki. No hay covers ni parodias de TikTok encontradas |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | 6 juegos, 5 eventos de Ever Crisis con ropa nueva, figuras y 4 cosplays. No hay cafés ni Fortnite |
+| 24 · Obras parecidas | ✅ | Influencias de Sakaguchi, 6 juegos en 2 fuentes, Kingdom Hearts y 3 biblias del servidor comparadas |
+| 25 · Mundo, historia y símbolos | ✅ | 5 reglas, 4 arcos, emblemas, objetos y vocabulario |
+| Tres conceptos de lámina | ✅ | Botellas del bar, expediente de Shinra y cesta de flores: tres objetos en sitios reales, cada uno con su caja de la serie y dos con lámina 2 |
+| 40 fuentes distintas | ✅ | 48 webs enlazadas en el cuerpo del texto |
+| Oficiales | ✅ | Steam, web de Square Enix, cuenta oficial en X, entrevistas al director en Unreal Engine y AUTOMATON, créditos del propio juego |
+| Otros idiomas | ⚠️ | Japonés (Famitsu, AUTOMATON, dotcolon), francés (clips de JeuxVideo.com) y español. Sin fuentes en coreano ni chino |
+| Wikis, TV Tropes, TCRF y Wayback | ⚠️ | Final Fantasy Wiki, Doblaje Wiki y TV Tropes. TCRF sólo por el resumen del buscador. No se usó Wayback |
+| Foros | ✅ | Reddit con votos, ResetEra, GameFAQs y Blender Artists |
+| Arte | ✅ | Pixiv por Safebooru, ArtStation, DeviantArt, Wallhaven y Danbooru |
+| Vídeo | ✅ | 273 minutos citados de Dailymotion; metadatos de YouTube. TikTok cerrado |
+| Código y recursos | ⚠️ | Sketchfab, ambientCG, Google Fonts, dafont y el add-on Blam. La búsqueda de GitHub no dio nada |
+| Doblaje latino (Doblaje Wiki, ANMTV…) | ⚠️ | La API de Doblaje Wiki confirma que no hay ficha. ANMTV bloqueado por el proxy |
+| Hojas | ✅ | 3 JPEG de 2400×1704, de 0,63 a 0,74 MB, en `hojas/` |
+| referencias.json | ✅ | 197 referencias. Quité 12 fan arts de Kirby y 2B y 2 modelos de Vivi, que no son de FFVII, y corregí la descripción de un fan art de grupo |
+
+## Bitácora
+
+### Bitácora de imagen
+
+- Fandom `finalfantasy.fandom.com` API (`action=query`, `prop=images|imageinfo`) para portadas, Amano, key art y tamaños exactos — español/inglés
+- `herramientas/investigar_serie.py` sobre Cloud/Tifa/Aerith/Sephiroth: 1186 imágenes enlazadas, 539 grandes, 12 hojas de contacto en `herramientas/referencias/final-fantasy-vii/` (miradas todas, elegidas 3 para `hojas/`)
+- `herramientas/estilo.py` sobre 4 renders oficiales descargados y recortados a mano por prenda (18 recortes en total) para los hex del punto 15
+- Sketchfab API (`api.sketchfab.com/v3/search`) con las consultas: «Sephiroth Final Fantasy», «Midgar Final Fantasy», «Materia Final Fantasy VII», «Chocobo Final Fantasy», «Buster Sword», «Aerith Final Fantasy», «Tifa Lockhart», «Cloud Strife Final Fantasy» — todas devolvieron modelos CC
+- ambientcg API (`ambientcg.com/api/v2/full_json`) con «Leather», «Fabric», «Concrete», «Metal», «Rust», «Paper» — todo CC0
+- WebSearch (2 búsquedas): «Final Fantasy VII fan art ArtStation Tifa Cloud Aerith destacado» (inglés/español) y «free manga screentone halftone brush pack CC0» (inglés), más una sobre la novela «Kids Are Alright»
+- Wiki de Fandom, página «Collaboration» completa por wikitext (`action=parse&prop=wikitext`), para el punto 23: confirmó Smash Bros., Street Fighter 6, Dissidia NT, LittleBigPlanet 2, Dragon Quest Tact y 5 eventos crossover dentro de Ever Crisis (FFIX, Monster Hunter, FFVI, saga Lightning/FFXIII, NieR)
+- GitHub API (`search/repositories`) para pinceles de screentone: sin resultados, se usó WebSearch en su lugar
+- Sin serie hermana declarada en el encargo, no se leyó ninguna biblia previa
+
+### Bitácora de video
+
+- `herramientas/fotogramas.py` sobre 8 clips de Dailymotion (opening Remake, opening tech-demo
+  PS3, ending Fin Partie 4, muerte de Aerith, flashback de Nibelheim, caída del Sector 7,
+  gameplay de Tifa en Remake, recuerdos de Tifa en la Corriente Vital, tráiler final de
+  Rebirth): 8 hojas de contacto miradas con Read, más de 190 fotogramas en total.
+- `ffmpeg` para extraer 6 fotogramas sueltos de los vídeos ya bajados (sin volver a descargar) +
+  `herramientas/estilo.py --colores 5` sobre esos 6 fotogramas para el punto 4.
+- API de Dailymotion (`api.dailymotion.com/videos?search=…`): búsquedas en francés e inglés —
+  «Final Fantasy VII bombing mission», «Aerith death», «Sephiroth Nibelheim», «opening movie
+  FMV», «Midgar plate falls Sector 7», «Cloud vs Sephiroth final battle», «La chute du secteur
+  7», «generique de fin», «cinematique finale», «Fin Partie 1», «Tifa Cloud puits», «Tifa combat
+  Corel», «Cloud presente Buster Sword» (12 búsquedas en total).
+- `archive.org/metadata/final_fantasy_vii_soundtrack`: tracklist completo de 90 pistas del OST
+  original, para el punto 9.
+- `musicbrainz.org`: confirmación de 3 álbumes oficiales (original, Remake, Rebirth).
+- `arctic-shift.photon-reddit.com`: 100 posts recientes de r/FinalFantasyVII, ordenados por
+  puntuación en el propio análisis, para el punto 10 (tendencias).
+- `herramientas/navegar.py` sobre `tiktok.com/tag/finalfantasy7rebirth`: bloqueado (login).
+- `yt-dlp -F` sobre un clip de Dailymotion para comprobar la resolución máxima real (512×288).
+- Ya recolectado por `recolectar.py` y **no repetido**: los clips de Dailymotion de
+  `datos-video.md` (opening/ending/trailer/escena genéricos), Internet Archive (soundtracks,
+  Advent Children) y MusicBrainz (13 álbumes) — se usaron esos datos como punto de partida y se
+  añadió lo que faltaba (clips concretos con escena identificada, minuto exacto y paleta medida).
+
+### Bitácora de voz
+
+- Doblaje Wiki (`api.php`, `action=parse` y `action=query&list=search`, español): «Final Fantasy VII», «Final Fantasy VII Remake», «Final Fantasy VII Rebirth», «Final Fantasy VII: Advent Children», «Kingdom Hearts III», «Ever Crisis» → confirmado que no existe doblaje latino oficial de ningún FFVII.
+- Final Fantasy Wiki (`finalfantasy.fandom.com/api.php`, inglés): wikitext de Cloud Strife, Tifa Lockhart, Aerith Gainsborough, Sephiroth, Barret Wallace, Red XIII, Cid Highwind, Yuffie Kisaragi, Cait Sith, Vincent Valentine, Materia (Final Fantasy VII), Birthday, Final Heaven — voces, edades, alturas, tipo de sangre, cumpleaños.
+- Behind The Voice Actors (`navegar.py`, porque curl daba 403): Cloud Strife, Tifa Lockhart, Aerith Gainsborough, Sephiroth, Barret Wallace — confirmación en inglés de seiyū y voces en inglés, como segunda fuente.
+- TV Tropes (`navegar.py --html --max 0` porque los «folders» ocultan texto con JavaScript y con `--selector` no se veían): YMMV/FinalFantasyVII y Tearjerker/FinalFantasyVII, en inglés — memes, qué ama el fandom, escenas que hacen llorar.
+- WebSearch (español e inglés): «Final Fantasy VII Remake character popularity poll Famitsu Dengeki ranking», «encuesta popularidad personajes Final Fantasy VII más querido resultado oficial», «Final Fantasy VII Remake Ultimania profile favorite food hobby», «fandub Final Fantasy VII español latino youtube», «Final Fantasy VII cover opening español latino».
+- Push Square, ResetEra, NextN, LEVEL UP, Wikipedia (inglés y español): encuesta Famitsu 2020 con votos exactos, encuesta nacional NHK 2020, ventas y premios.
+- Dailymotion (`api.dailymotion.com`, búsquedas por texto) + `fotogramas.py` sobre los clips encontrados: «La Mort d'Aerith Final Fantasy VII» (xwr79w), «Final Fantasy VII : Le Gold Saucer» (x89clxh), «Sephiroth à Nibelheim» (x2yc6on), montaje de Advent Children (x4qnl9), «Chez Don Cornéo» (x89clzv), tráiler «Cloud Strife» de Remake (x7p3q62), «Cloud dates Jessie in Kalm» de Rebirth (x9mj91u) — 7 clips mirados de verdad, no sólo leídos.
+- yt-dlp `--skip-download --print` (sin necesidad de iniciar sesión) para metadatos de 2 vídeos de fandub en YouTube.
+- Intentos fallidos: `www.anmtv.la` (proxy del contenedor lo bloquea, «connect_rejected», 2 intentos); Corona Jumper (blog, 403 con curl y con navegar.py); Tumblr de aitaikimochi (200 la primera vez, 429 al segundo intento — no insistí más).
+- Corregido dato de `datos-voz.md`: la ficha de doblaje recolectada automáticamente ahí es de **Final Fantasy XVI**, no de Final Fantasy VII — se confirmó que es la única entrega de la franquicia con doblaje latino oficial, y por eso se cita para el punto 8, no por error del recolector.
+
+### Bitácora de texto
+
+Punto de partida: `partes/datos-texto.md` (recolectado, capturas de Steam de 6 juegos) — no repetí esa consulta, la usé directamente en el punto 11. Sin serie hermana declarada para este encargo.
+
+**Búsquedas web (WebSearch), todas en inglés salvo que se diga lo contrario**:
+- «Final Fantasy VII logo font identify typeface»
+- «"Final Fantasy VII" font fontsinuse.com»
+- «Final Fantasy VII Remake dialogue text font typeface UI»
+- «"Final Fantasy VII" site:tcrf.net»
+- «Advent Children title font credits typeface»
+- «Final Fantasy VII Ever Crisis comic panels speech bubbles story mode»
+- «Final Fantasy VII original PlayStation dialogue box design blue border description»
+- «Final Fantasy VII Remake dialogue box character name tag design subtitle style»
+- «"Final Fantasy VII" manga adaptation official comic "On the Way to a Smile" OR "Kids are Alright"»
+- «Final Fantasy VII Remake battle menu command HUD font description blue white»
+- «Final Fantasy VII Remake art director interview Unreal Engine character shader realistic Nomura»
+- «Final Fantasy VII Advent Children Visual Works making of Maya CG production»
+- «Final Fantasy VII 1997 development making of 3D models Softimage backgrounds prerendered»
+- «Naoki Hamaguchi Unreal Engine interview Final Fantasy VII Remake "Cloud's" expression redo hair shader»
+- «Tetsuya Nomura character design influences Todd McFarlane comics Cloud buster sword interview»
+- «Hironobu Sakaguchi Final Fantasy VII influences Star Wars interview inspiration»
+- «"Final Fantasy VII" similar games recommend if you like JRPG cyberpunk dystopia»
+- «"Final Fantasy VII Revelation" Steam app 4354570»
+- «tcrf.net "Final Fantasy VII" unused text debug room dummied dialogue»
+- «ファイナルファンタジー7 リメイク 書体 フォント インタビュー» (japonés)
+
+**Navegación directa (curl/API, sin gastar cupo de búsqueda)**:
+- dafont.com/reactor7.font (vía curl con user-agent; WebFetch lo bloquea el proxy) — descargado su mapa de caracteres y mirado con Read
+- api.fontsource.org — Cinzel, Rajdhani, Anton: comprobados con `fontTools.getBestCmap()` sobre el `.ttf` real descargado (no de memoria)
+- finalfantasy.fandom.com/api.php — búsqueda de texto y wikitext de «Menu (Final Fantasy VII)», «Menu (VII Remake)», «Menu (Dirge of Cerberus)», «Materia (Final Fantasy VII equipment)», «Midgar», y `imageinfo` de 4 imágenes oficiales (medidas en Pillow: menú de Materia original, menú de Materia & Equipment del Remake, logo de Shinra)
+- gameuidatabase.com/gameData.php?id=29 (Final Fantasy VII Remake) — bloqueado por Cloudflare a `curl`, abierto con `python3 herramientas/navegar.py --selector body`: confirmó las etiquetas **Flat 2.0** y **Futuristic**; **aviso**: esa web prohíbe expresamente el uso de su contenido para IA/ML, así que no se citan sus imágenes en `texto.json`
+- namelivia.com (blog técnico, 2015) — leído por curl (WebFetch lo bloquea el proxy): técnica de reconstrucción de fondos de FFVII en Blender con el add-on Blam
+- automaton-media.com — leído por curl: entrevista completa a Naoki Hamaguchi sobre el pelo de Cloud (TAA/DRS/DLSS)
+- store.steampowered.com — ya recolectado en `datos-texto.md`; descargué y miré 3 capturas de Rebirth/Remake con Read para buscar UI en pantalla (no salió HUD en esas 3, sólo cinemáticas)
+- dotcolon.net/fonts/ferrum/ — leído por curl: fuente japonesa gratis «No Rights Reserved» hecha a propósito referenciando el logo de FINAL FANTASY; descargada y comprobada con fontTools (sólo ASCII, sin ñ/tildes/¿/¡)
+- automaton-media.com/articles/newsjp (japonés) y famitsu.com (japonés) — polémica de la fuente en inglés del Pixel Remaster
+
+**Bloqueado o sin poder verificar**: unrealengine.com (egress bloqueado por el proxy tanto en WebFetch como en curl, 403); dafont.com por WebFetch (funcionó por curl directo); gameuidatabase.com por curl directo (Cloudflare; resuelto con `navegar.py`); **tcrf.net bloqueado por los 3 caminos** (Cloudflare a curl y a `navegar.py`, proxy del contenedor a WebFetch) — los datos de TCRF que aparecen en el punto 11 vienen de fragmentos de búsqueda, no de la página completa.

@@ -904,3 +904,338 @@ download», pero el estudio del anime es **TMS Entertainment** (§12). Esa
 búsqueda habría que repetirla con TMS.
 
 ---
+
+## 18 · Guía para generar con IA: imagen y texto
+
+Esta sección la escribe el redactor juntando §3-§17. Sirve para Firefly,
+Canva o cualquier IA de imagen, y para una IA de texto que escriba
+diálogos. **Todo lo que salga de una IA se retoca a mano**: el dueño no
+quiere que la lámina «parezca hecha por IA».
+
+### 18.1 Para una IA de imagen
+
+**Rasgos que nunca cambian:**
+- **Sakamoto (gordo)**: muy corpulento y alto (188 cm), cara redonda,
+  **lentes redondos pequeños**, pelo corto **gris claro**, expresión
+  tranquila. Camiseta mostaza `#E6B740`, **delantal verde** `#2E664B`,
+  pantalón azul grisáceo `#36515F`, zapatillas blancas.
+- **Shin**: chico delgado (172 cm), **pelo rubio** con flequillo,
+  **sudadera azul con capucha** `#3974B0`, pantalón ancho claro
+  `#E0D7C9`, zapatillas rojas y blancas; delantal verde si trabaja.
+- **Nagumo**: muy alto (190 cm), **pelo negro** despeinado, **gabardina
+  beige** `#DED0B3`, camisa estampada rojo ladrillo `#7B584E`, tatuajes
+  en cuello y dedos, sonrisa ladeada.
+- **Lu Shaotang**: chica (165 cm), **pelo rosa-borgoña**. ⚠️ Sin hex
+  medido: sacarlo del retrato de AniList antes de pedirlo.
+
+**Estilo:**
+- **Línea**: negra, fina y de **grosor muy constante**. Sin trazos gruesos
+  y finos de pincel. El parecido depende del contorno exacto (lo dijo el
+  director, §19).
+- **Sombreado**: *cel* plano, **dos tonos** (luz y una sola sombra), sin
+  degradado.
+- **Textura**: grano de papel **sólo en las sombras**, fijo, suave.
+- **Armas**: con brillo metálico realista; el resto, plano.
+- **Luz**: cálida de día en la tienda y el salón (§5); violeta al
+  anochecer; casi negra con un punto de luz en la armería.
+- **Encuadre**: **una silueta clara** por plano; la acción congelada en
+  su **pico** (el instante del golpe o del disparo); cámara sencilla.
+- **Portadas**: fondos de color plano saturado y rótulos verticales
+  japoneses (hoja 1 nº15; hoja 2 nº81).
+
+**Palabras que ayudan** (en inglés, que las IA entienden mejor):
+`Japanese shonen manga anime style, clean thin uniform black lineart,
+flat two-tone cel shading, subtle paper grain in the shadows, warm
+daylight small Japanese neighborhood store, heavyset man with small round
+glasses and short light grey hair, mustard yellow t-shirt, dark green shop
+apron, comedic but deadly, single clear silhouette, peak of action`.
+
+**Palabras que lo estropean:** `photorealistic`, `3D render`, `hyper
+detailed`, `painterly`, `soft gradient shading`, `gore`, `blood
+splatter`, `dark gritty`, `black suit and dog` (lo vuelve John Wick),
+`chibi` (salvo que se quiera la versión de *Sakamoto Holidays*).
+Tampoco nombres de personajes: muchas IA los bloquean o inventan otro.
+Describir, no nombrar.
+
+**Imágenes de referencia de estilo o de pose:**
+- Estilo del anime: hojas de modelo hoja 1 nº44, 39, 42, 37, 36.
+- Estilo de ilustración (rotulador y trama): hoja 1 nº33.
+- Pose y sitio: hoja 1 nº15 (puerta de la tienda); hoja 2 nº58 (rodaje);
+  hoja 2 nº81 (fila de fichaje).
+- Caras: los fotogramas de §8 (tráiler latino, 0:22 a 1:14).
+
+**Vocabulario de expresiones** (para pedir cada gesto):
+- **Pánico cómico**: boca muy abierta, **ojos como platos** (Sakamoto al
+  oír «¡divorcio!», 1:14).
+- **Seriedad que asusta**: cejas fruncidas tras los lentes, cara quieta
+  (ep. 1, 2:00); **lentes que brillan** y tapan los ojos (teaser, hoja 3
+  nº100).
+- **Rabia de Shin**: grito con cejas en V, dientes apretados (0:23, 1:14).
+- **Determinación**: **fondo en llamas** detrás de Shin (0:50).
+- **Leer mentes**: **nube de pensamiento** junto a la cabeza del otro.
+- **Ternura**: mano en la nuca en el abrazo (1:15).
+- **Versión *chibi***: las portadas de *Sakamoto Holidays* (hoja 3 nº99)
+  y la portada del cap. 55 (hoja 3 nº125). ⚠️ sin analizar a fondo.
+- Gotas de sudor y fondos de emoción concretos: **no se estudiaron** en
+  las partes. ⚠️
+
+### 18.2 Para una IA de texto (diálogos en su voz)
+
+**Cómo habla cada uno:**
+- **Sakamoto**: frases **cortas**, calmadas, sin adornos. Casi nunca
+  grita. Si explica, da una razón y ya. Su tema: proteger a los suyos.
+  Pánico sólo con Aoi. Puntos, no exclamaciones.
+- **Shin**: directo y honesto. **Grita** cuando algo le indigna, con
+  frases cortadas y muchos «¡!». Dice en voz alta lo que el otro piensa
+  (lee mentes): «Ya sé lo que estás pensando».
+- **Nagumo**: tono ligero, bromista, **miente sin avisar** y luego se ríe.
+  Nunca parece del todo serio.
+- **Lu**: alegre y despistada; si se enfada, cambia de golpe a dura.
+- **El narrador**: solemne para decir cosas ridículas («Pero un día el
+  señor Sakamoto engordó mucho»). Es el 1º en favoritos de AniList.
+
+**Frases reales del doblaje latino, por emoción:**
+- **Explicando**: «Cuando la gente tiene algo que quiere proteger,
+  obviamente pelea con todas sus fuerzas» (Sakamoto, 1:09).
+- **Animando o decidido**: «A partir de ahora, voy a pelear en serio»
+  (Shin, 0:58). «Decidí que ahora la utilizaré para proteger a los que
+  amo. Eso es lo que me hace más fuerte» (Sakamoto, 1:19).
+- **Firme**: «No volveré a ser un asesino» (Sakamoto, 0:22).
+- **Enfadado**: «¿Cómo te atreves a llamarme?» (0:24-0:32).
+- **Burlón**: «¡Ay, qué bonito tener amigos!» (un enemigo, 0:37).
+- **Humor del narrador**: «Pero un día el señor Sakamoto engordó mucho»
+  (0:09).
+- **Alegre** y **triste**: no hay frase latina real en lo que se oyó. ⚠️
+  Para lo triste, la escena de Ando (cap. 202, §22) sólo existe en manga.
+
+**Reglas de estilo para el texto:**
+- Una idea por frase. Nada de discursos.
+- Humor por contraste: algo terrible dicho con calma, o algo trivial
+  dicho con solemnidad.
+- Gritos en mayúsculas sólo para Shin y para onomatopeyas.
+- Onomatopeyas japonesas del manga (ドッ y ゴッ se ven en la hoja 2 nº78
+  y nº83) o su versión latina («¡PUM!»), nunca las dos a la vez.
+- Mexicanismos suaves, como el doblaje (VSI México): «¡Ay, caray!».
+
+---
+
+## 19 · Estilo de dibujo, técnica, Photoshop, Blender y encuadres
+
+### 19.1 El manga (Yuto Suzuki)
+
+Fuentes: entrevista a su editor Sousuke Ishikawa en
+[MangaPlus](https://mangaplus.shueisha.co.jp/web_pages/1293/) y perfil en
+japonés de [MEDIA DOGS](https://mediadogs.jp/2026/03/03/yuto-suzuki-sakamoto-days-career-fixed-2026/). ✅
+
+- Suzuki (Nagoya, 1993) estudió **Nihonga**, pintura tradicional
+  japonesa, en la Universidad de Bellas Artes de Tokio, hasta el posgrado.
+  De ahí su ojo para que **cada plano tenga una silueta que funcione**.
+- Antes trabajó dibujando **storyboards** (絵コンテ) para vídeo. Por eso
+  los lectores dicen que leerlo es «como ver un anime en papel»
+  (「紙上でアニメを見ているようだ」).
+- Dibuja con **Clip Studio Paint** (lo dijo él en Jump GIGA 2023,
+  resumido por [Shonen Jump News en X](https://x.com/WSJ_manga/status/1607079895108050944)). ✅
+- Busca **el instante en que arranca el movimiento**, no coreografías
+  largas. Cámara sencilla y legible para todas las edades.
+- Guarda vídeos de referencia en Pinterest y ve mucho cine y series.
+- Influencias: el manga **Domu** de Katsuhiro Otomo, y **John Wick** y
+  **The Equalizer**. Admira a **Takehiko Inoue** (SLAM DUNK). ✅
+
+### 19.2 El anime (TMS Entertainment)
+
+Fuentes: entrevista al director Masaki Watanabe en
+[AWN](https://www.awn.com/animationworld/masaki-watanabe-talks-sakamoto-days)
+y en [ScreenRant](https://screenrant.com/sakamoto-days-anime-problem-biggest-challenge-character-designs/). ✅
+
+- **Programas**: Clip Studio Paint para dibujar y animar; programas de
+  **Adobe** para la composición final.
+- **El filtro de papel**: la textura de papel se saca de las **zonas de
+  sombra** del color original y se pone **sólo ahí**, al componer. Queda
+  **fija**: no se mueve con el personaje ni con la cámara. Fue idea del
+  director de fotografía (Bolun Cai), para dar información con menos
+  líneas. Se nota bajo la barbilla y en los pliegues oscuros.
+- **Diseños «engañosamente simples»**: sin cicatrices ni pelos de colores
+  raros. El parecido depende de **la forma de la cara, el tamaño de los
+  ojos y el grosor exacto de la línea**. Un desvío pequeño lo rompe.
+- **3D y rotoscopia**: la montaña rusa del **episodio 3** se modeló en 3D,
+  se animó y luego se **calcó a mano**. Tardó el triple.
+- **Armas realistas**: brillo de metal y filo visibles, con licencias (el
+  rifle de Heisuke dispara a ráfagas, un Mosin-Nagant real no).
+
+### 19.3 Cómo replicarlo en Photoshop
+
+1. **Línea**: grosor **constante** (2-3 px a tamaño final). Pincel con
+   presión casi plana, o la Pluma. Corregir cada curva: el parecido está
+   en el contorno.
+2. **Sombra**: un solo tono, en una capa **Multiplicar** recortada sobre
+   el color base. Sin degradados.
+3. **Filtro de papel**: textura `Paper001` de ambientCG en **Multiplicar**
+   o **Luz suave** al 15-25 %, recortada **sólo sobre la capa de
+   sombra**. No se deforma con el dibujo.
+4. **Acabado**: un poco de ruido en una capa de ajuste final, muy bajo.
+   La serie es limpia, no granulada.
+
+### 19.4 Cómo replicarlo en Blender
+
+1. Modelar el objeto (la tablilla, la cámara, el cartel) con geometría
+   simple y sacar el contorno con **Line Art** de Grease Pencil (o
+   Freestyle). Es el mismo camino del estudio: 3D primero, retoque a mano
+   después.
+2. **Shader de dos tonos**: `Shader to RGB` → `ColorRamp` en modo
+   *Constant*, con un corte duro. Metal con brillo marcado sólo en armas.
+3. Para una pose difícil: animar en Blender y **calcar el contorno** en
+   Photoshop, como la montaña rusa.
+4. Renderizar el objeto sin fondo y ponerle en Photoshop el filtro de
+   papel **sólo en sus sombras**.
+5. Para posar a Sakamoto, el modelo libre de shanevm (§4), con crédito.
+
+### 19.5 Encuadres y composición
+
+- **Una silueta clara** por plano. Se reconoce por el contorno.
+- **Pico de la acción**: el golpe, el disparo, la revelación.
+- **Cámara sencilla**: un plano, una idea.
+- **Portadas**: personajes a cuerpo entero sobre color plano, con **rótulos
+  verticales** de frases cortas (hoja 1 nº15; hoja 2 nº57, 81; hoja 3
+  nº140).
+- **Humor**: primer plano de la cara de pánico, cortado en seco.
+- **Seriedad**: primer plano quieto con los lentes brillando (hoja 3
+  nº100; ep. 1, 2:00).
+
+---
+
+## 20 · Texturas 2D
+
+| Capa | Recurso libre | Licencia | Para qué |
+|---|---|---|---|
+| Trama de manga (*screentone*) | [svg-halftone](https://github.com/evestera/svg-halftone): convierte una imagen en trama SVG de círculos, hexágonos o rombos | **MIT** ✅ | imitar el tramado de las páginas en blanco y negro (hoja 1 nº1, 10, 13; hoja 2 nº63, 76-78) |
+| Grano de papel | [Paper001](https://ambientcg.com/a/Paper001) y Paper004 | **CC0** ✅ | el filtro de papel de las sombras (§19) |
+| Tela lisa | [Fabric030](https://ambientcg.com/a/Fabric030) y Fabric036 | **CC0** ✅ | delantal y camisetas, teñidas con el hex de §16 |
+| Rombos de la camisa de Nagumo | [freesvg: seamless diamond pattern](https://freesvg.org/seamless-diamond-pattern) | **CC0** ✅ | recolorear a `#7B584E` y verde azulado |
+| Cinta de peligro amarilla y negra | se dibuja; referencia en la [captura del juego](https://play-lh.googleusercontent.com/2I-64vrEFIUenNcp71WNZ0qlpO74EjvZwQK9CBN1-Ds5jzBxUa8rxzIFR29c1_il3xSI0sVM) | — | escenas de peligro |
+
+**Emblemas y logos:**
+- La **Order** y la **JCC** **no tienen escudo dibujado**: sólo el nombre
+  en texto (comprobado en la ficha y la categoría de la wiki). ⚠️
+- El **logo** con la carita de lentes en la «O» es el único emblema
+  gráfico de la serie (§6, §26).
+- Los **tatuajes** de Nagumo: ⚠️ no se sabe si son símbolo de grupo o
+  personales.
+- No se encontraron **pinceles de trama con licencia libre** hechos para
+  esta serie; los packs genéricos no dejan clara su licencia. ⚠️
+
+---
+
+## 21 · Gustos y detalles de cada personaje
+
+Cumpleaños y altura en dos fuentes (AniList y la wiki, que cita el
+*Character Profile* oficial). ✅
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura / peso |
+|---|---|---|---|---|---|
+| **Sakamoto** | su familia (Aoi y Hana), la vida tranquila, la comida casera | que Aoi se enoje; que lo traten como el asesino que fue | origami (se lo enseñó Hana) | 21 de noviembre | 188 cm; 140 kg (normal), 80 kg («prime») |
+| **Shin** | algodones de azúcar, perros bonitos | leer pensamientos molestos (los de Heisuke) | sacarle fotos a Sakamoto cuando adelgaza | 7 de junio (2000) | 172 cm / 67 kg |
+| **Lu Shaotang** | cocinar **bollos de cerdo**; los recuerdos de sus padres | que amenacen a la gente de la tienda | cocinar, beber (lo aguanta mal) | 8 de abril | 165 cm / 48 kg |
+| **Nagumo** | dormir, su cama, el silencio de la noche, las bromas | las mañanas, madrugar, ir rápido en coche | sudokus en la cama | 9 de julio | 190 cm / 78 kg |
+
+Fuentes: [wiki de Sakamoto](https://sakamoto-days.fandom.com/wiki/Taro_Sakamoto),
+[de Shin](https://sakamoto-days.fandom.com/wiki/Shin_Asakura),
+[de Lu](https://sakamoto-days.fandom.com/wiki/Lu_Shaotang) y
+[de Nagumo](https://sakamoto-days.fandom.com/wiki/Yoichi_Nagumo).
+
+- **El objeto que siempre lleva Sakamoto**: el **delantal** de la tienda y
+  los **lentes redondos**. ✅
+- **Cómo se ve a sí mismo**: como un tendero de barrio normal, no como una
+  leyenda. ✅
+- **Shin cobra 1855 yenes la hora** en la tienda (cap. 1, pág. 52, según
+  la ficha de la tienda en la wiki). ⚠️ una fuente
+- **Comida favorita** de cada uno: no está en la wiki ni en AniList;
+  estará en el *Official Fan Book* japonés, sin traducir. ⚠️
+- Lu tiene una ficha corta en la wiki (5833 caracteres frente a unos
+  30 000 de los demás): hay menos detalles suyos. ⚠️
+
+---
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar
+
+### 22.1 Las cifras
+
+- **Manga**: más de **18 millones** de copias en 2026. 7M en diciembre de
+  2024, 15M en agosto de 2025 (tuit oficial de @SAKAMOTO_STORE,
+  «全世界累計1500万部大突破», recogido por
+  [ComicBook.com](https://comicbook.com/anime/news/sakamoto-days-manga-ending-sales-milestone/)).
+  7º manga más vendido de Japón en 2025, con 2,344 millones de copias ese
+  año. ✅
+- **Anime**: el **mejor estreno de un anime en Netflix** hasta entonces,
+  **8,6 millones** de vistas la primera semana (superó a *Baki Hanma*, 6
+  millones). 2º en el ranking global no anglófono, sólo detrás de *Squid
+  Game* 2. ✅ (Game Rant, ScreenRant y CBR)
+- **El anime más visto de Netflix** en el primer semestre de 2025: 24,4
+  millones de vistas, por delante de *Devil May Cry* (18,2) y *Dandadan*
+  (7,5). ✅
+- **Recepción mixta al principio**: se saltó capítulos del manga. El
+  director Masaki Watanabe reconoció que «algunos pensaron que era
+  demasiado ligero» y que pedían «colores más maduros», y prometió
+  cambios para la parte 2. ✅ (cita en ComicBook.com)
+- AniList: nota media 76, 221 701 usuarios, 5003 favoritos (parte 1). ✅
+
+### 22.2 Por qué, en concreto
+
+- **El contraste**: un padre de familia gordo y tranquilo que es una
+  leyenda. Es la razón más repetida en reseñas y Reddit.
+- **La acción creativa**: Sakamoto pelea con lo que tenga a mano (un
+  cartel, un autobús, hoja 2 nº80). El hilo «por qué lo amo» más votado
+  va de eso (§14).
+- **Con quién se identifican**: con **Sakamoto** (la vida normal que
+  protege algo grande) y con **Shin** (el raro leal y cariñoso). ⚠️
+  lectura propia de los datos de carácter, no una encuesta.
+
+### 22.3 Las escenas que hacen llorar, reír o gritar
+
+| Tipo | Dónde | Qué pasa | Por qué funciona | Estado |
+|---|---|---|---|---|
+| **Llorar** | manga, cap. 202 (arco de la cárcel de la JAA) | Muere **Ando**, el padre adoptivo distante de Shin. Se interpone para salvarlo, bromea con que Shin nunca tendrá madera de asesino y piensa «vaya que creciste». Shin llora al entender que sí lo quería | el cariño que nunca se dijo | ⚠️ una fuente ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/SakamotoDays)); no visto, es manga tardío |
+| **Enternecer** | manga, cap. 16 | Sakamoto pelea contra padres y abuelos en un centro comercial por la última mochila de edición limitada que pidió Hana. Shin le lee la mente y ve **el recuerdo del nacimiento de Hana** | el amor de padre, sin palabras | ⚠️ ([TV Tropes, Heartwarming](https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/SakamotoDays)) |
+| **Enternecer** | manga, cap. 1 | Sakamoto, sonrojado de felicidad, con su hija recién nacida en brazos | la vida que eligió | ⚠️ |
+| **Reír** | manga, cap. 177 | Homenaje al final de *My Hero Academia*: Shin llora a moco tendido leyendo sus tomos, los demás posan en una piscina | metahumor | ⚠️ |
+| **Reír** | anime, ep. 1 | Sakamoto imagina que mata a Shin al verlo; Shin lo lee en su mente y se enfurece | el poder de Shin como chiste | ⚠️ ([TV Tropes, Funny](https://tvtropes.org/pmwiki/pmwiki.php/Funny/SakamotoDays)) |
+| **Reír** | anime, ep. 4 «Hard-Boiled» | La gran venganza de Boiled es que Sakamoto era más popular con las asesinas | el villano ridículo | ⚠️ |
+| **Reír** | anime, ep. 5 | Shin le saca fotos sin parar a Sakamoto delgado, porque al día siguiente volverá a engordar | la transformación | ⚠️ |
+| **Gritar de emoción** | anime, ep. 5 | **Boiled contra Sakamoto**, «la icónica» | la pelea del fandom | ✅ (Reddit, 387 votos) |
+| **Emoción** | tráiler | El abrazo Sakamoto-Shin (1:15) | lo más cálido del material visto | ✅ visto |
+
+**Qué música suena, cómo está dibujada cada escena y los comentarios más
+votados de cada una:** no se pudo mirar ningún episodio completo. ⚠️
+
+---
+
+## 23 · Fan dubs y comunidad hispana
+
+**Aviso:** buscar «Sakamoto Days fandub» devuelve covers de *Sakamoto
+desu ga?* («¿Soy Sakamoto?», 2016), otra serie. Se descartaron.
+
+- **Fandub real** (redoblaje de fans en español): **no se encontró**. ⚠️
+- **Recortes del doblaje oficial con comentario**, lo que más hay:
+  - **MigueBlue7u7**: «Una broma pesada a Shin»
+    ([Short](https://www.youtube.com/shorts/42r0GJpQ__4)) y «La ternura de
+    Hana Sakamoto» ([Short](https://www.youtube.com/shorts/kZtfl-WjqQU)). ✅
+  - **Banzai Kaisen**: «Lo Olvidé»
+    ([vídeo](https://www.youtube.com/watch?v=s0w0KJoMZdE)). ⚠️
+- **Comparaciones y opinión sobre el doblaje:**
+  - «SAKAMOTO DAYS doblaje español latino vs original japonés» (Nahu,
+    [vídeo](https://www.youtube.com/watch?v=LfB7qhFTork)). ⚠️
+  - «El doblaje de Sakamoto Days es el mejor de todos» (Palmerozky,
+    [vídeo](https://www.youtube.com/watch?v=5lojBZuCgJA)). ⚠️
+  - «Las voces detrás de Sakamoto Days» (Doblajes Geeks,
+    [vídeo](https://www.youtube.com/watch?v=iVrKFWnm3f4)). ⚠️
+- **Entrevista** a **Roberto Salguero**, director del doblaje (y voz de
+  Luigi), en [TikTok](https://www.tiktok.com/@etonvideos/video/7483204731574308151). ⚠️
+  no se pudo abrir
+- **El «¡Ay, caray!»** de Óscar López (§10.3): es la clase de decisión
+  creativa que más comenta el fandom hispano de doblaje. ⚠️
+- **Covers en español** del opening de Vaundy y **parodias hispanas**: no
+  se encontraron. ⚠️ Puede haberlas en TikTok, que no filtra bien.
+
+Las vistas de cada vídeo no se pudieron leer (YouTube pidió sesión; sólo
+se usó `oembed` para título y canal). ⚠️
+
+---
