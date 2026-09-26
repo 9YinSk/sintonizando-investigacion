@@ -1,0 +1,164 @@
+[
+  {
+    "url": "https://www.gameuidatabase.com/uploads/Captain-Tsubasa-Rise-of-New-Champions02022022-104603-80215.jpg",
+    "fuente": "Game UI Database",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de \"Captain Tsubasa: Rise of New Champions\" (2020): cuadro de diálogo con placa azul (locutor de estadio) y caja oscura de texto",
+    "para_que": "Referencia exacta del cuadro de diálogo propio de la franquicia en videojuego (punto 6 y 11), azul medido ~#143B75",
+    "licencia": "captura de juego comercial, uso como referencia de estudio, no para pegar"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/uploads/Captain-Tsubasa-Rise-of-New-Champions02022022-104603-68866.jpg",
+    "fuente": "Game UI Database",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Segunda captura de \"Rise of New Champions\": mismo tipo de cuadro de diálogo",
+    "para_que": "Confirma el patrón visual del cuadro de diálogo (punto 6)",
+    "licencia": "captura de juego comercial, uso como referencia de estudio, no para pegar"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/uploads/Captain-Tsubasa-Rise-of-New-Champions02022022-104609-46281.jpg",
+    "fuente": "Game UI Database",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de \"Rise of New Champions\": diálogo de Tsubasa Ozora con retrato 3D cel-shading y placa azul con su nombre",
+    "para_que": "Referencia del cuadro de diálogo con nombre de personaje y del cel-shading del juego (puntos 6, 11 y 18)",
+    "licencia": "captura de juego comercial, uso como referencia de estudio, no para pegar"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/captaintsubasa/images/4/43/Battle_of_World_Youth_arc%2C_Chapter_39.jpg/revision/latest?cb=20201222021741",
+    "fuente": "Captain Tsubasa Wiki (Fandom)",
+    "ancho": 625,
+    "alto": 900,
+    "que_es": "Página de manga (edición en inglés), arco World Youth, capítulo 39: cartelas de narración y globos de diálogo",
+    "para_que": "Referencia exacta de cómo son las cartelas y los globos del manga (punto 6), y de la línea de contorno/composición (punto 18)",
+    "licencia": "material con derechos de Shueisha/Yoichi Takahashi, uso como referencia de estudio, no para pegar"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Captain_Tsubasa_logo.gif",
+    "fuente": "Wikimedia Commons",
+    "ancho": 250,
+    "alto": 72,
+    "que_es": "Logo oficial del anime de 1983 \"Captain Tsubasa\"",
+    "para_que": "Referencia de la tipografía del logo original (punto 5)",
+    "licencia": "uso razonable / logo (marca registrada), ver página de Wikimedia para detalle"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/anton@latest/latin-400-normal.ttf",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente libre Anton (condensada, gruesa, mayúsculas) — candidata para el logo/título",
+    "para_que": "Letra libre del punto 5, tildes/ñ/¿¡ comprobados con fontTools",
+    "licencia": "OFL-1.1"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/bebas-neue@latest/latin-400-normal.ttf",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente libre Bebas Neue (muy condensada, alta) — candidata para marcador deportivo/título",
+    "para_que": "Letra libre del punto 5, tildes/ñ/¿¡ comprobados con fontTools",
+    "licencia": "OFL-1.1"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/noto-sans@latest/latin-700-normal.ttf",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente libre Noto Sans Bold — candidata para globo/cartela de manga y cuerpo de texto",
+    "para_que": "Letra libre del punto 5, tildes/ñ/¿¡ comprobados con fontTools",
+    "licencia": "OFL-1.1"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/bangers@latest/latin-400-normal.ttf",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente libre Bangers (estilo cómic con relieve) — candidata para onomatopeya/grito",
+    "para_que": "Letra libre del punto 5, tildes/ñ/¿¡ comprobados con fontTools",
+    "licencia": "OFL-1.1"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/barlow-condensed@latest/latin-700-normal.ttf",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente libre Barlow Condensed Bold — candidata para subtítulos/créditos",
+    "para_que": "Letra libre del punto 5, tildes/ñ/¿¡ comprobados con fontTools",
+    "licencia": "OFL-1.1"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/noto-sans-jp@latest/japanese-700-normal.ttf",
+    "fuente": "Fontsource / Google Fonts (Adobe/Google Noto)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente libre Noto Sans JP Bold — candidata para texto o UI ambientado en japonés",
+    "para_que": "Letra libre en japonés del punto 5",
+    "licencia": "OFL-1.1"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/gameData.php?id=1360",
+    "fuente": "Game UI Database",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha completa de interfaz de \"Captain Tsubasa: Rise of New Champions\" (todas las pantallas catalogadas)",
+    "para_que": "Mapa de menús e interfaz del punto 11",
+    "licencia": "consulta libre, capturas con derechos del juego"
+  },
+  {
+    "url": "https://www.sounds-resource.com/nes/captaintsubasa/sound/3832/",
+    "fuente": "The Sounds Resource",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Biblioteca de efectos de sonido del juego NES \"Captain Tsubasa\" (1988, Tecmo)",
+    "para_que": "Referencia de sonido/beeps de UI de videojuego retro (apoya puntos 9 y 11)",
+    "licencia": "extracción de ROM, uso como referencia de estudio"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Anime/CaptainTsubasa",
+    "fuente": "TV Tropes",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página general de la obra: arcos, cronología, nombres por doblaje, técnicas, influencia real en futbolistas",
+    "para_que": "Fuente base de los puntos 24 y 25",
+    "licencia": "texto de wiki colaborativa, uso como referencia"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CaptainTsubasa",
+    "fuente": "TV Tropes",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Lista completa de videojuegos de la franquicia por editora y plataforma",
+    "para_que": "Fuente base del punto 11",
+    "licencia": "texto de wiki colaborativa, uso como referencia"
+  },
+  {
+    "url": "https://ramenparados.com/entrevista-yoichi-takahashi-autor-de/",
+    "fuente": "Ramen Para Dos",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Entrevista en español a Yoichi Takahashi sobre su evolución de estilo de dibujo",
+    "para_que": "Fuente del punto 18 (evolución del trazo, técnica actual a lápiz)",
+    "licencia": "artículo periodístico, uso como referencia"
+  },
+  {
+    "url": "https://captaintsubasa.fandom.com/wiki/Captain_Tsubasa_(1983_TV_series)",
+    "fuente": "Captain Tsubasa Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del anime de 1983, estudio Tsuchida Production, 128 episodios",
+    "para_que": "Fuente del punto 18 (estudios de animación)",
+    "licencia": "wiki de fans, uso como referencia"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=916",
+    "fuente": "Anime News Network",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de enciclopedia del anime de 1983",
+    "para_que": "Segunda fuente del estudio de animación 1983 (punto 18)",
+    "licencia": "enciclopedia editorial, uso como referencia"
+  }
+]

@@ -254,7 +254,9 @@ Mismo repositorio, carpeta `extras/arcane/` ✅ (descargado y medido). Direcció
 
 | Qué | Dónde | Estado |
 |---|---|---|
-| **Carteles de personaje de la T2** (Vi y Jinx enfrentadas, Ekko «From Little Man to The Boy Savior», Ambessa) | [Netflix Tudum, galería](https://www.netflix.com/tudum/galleries/arcane-season-2-character-posters), [The Mary Sue](https://www.themarysue.com/netflix-drops-arcane-season-2-character-posters/), [ComicBook: Ekko](https://comicbook.com/gaming/news/arcane-season-2-netflix-ekko-poster/), [Bleeding Cool: Ambessa](https://bleedingcool.com/tv/arcane-season-2-character-key-art-poster-spotlights-ambessa-medarda/) | ✅ que existen; no pude abrirlos ⚠️ |
+| **Carteles de personaje de la T2** (Vi y Jinx enfrentadas, Ekko «From Little Man to The Boy Savior», Ambessa) | [Netflix Tudum, galería](https://www.netflix.com/tudum/galleries/arcane-season-2-character-posters), [The Mary Sue](https://www.themarysue.com/netflix-drops-arcane-season-2-character-posters/), [ComicBook: Ekko](https://comicbook.com/gaming/news/arcane-season-2-netflix-ekko-poster/), [Bleeding Cool: Ambessa](https://bleedingcool.com/tv/arcane-season-2-character-key-art-poster-spotlights-ambessa-medarda/) | ✅ que existen. **Segunda pasada**: descritos. El de **Vi** lleva **una diana de grafiti pintada en la espalda** (la marca de Jinx); el de **Jinx**, apuntando. Están compuestos para leerse juntos: hermana contra hermana ✅ ([The Mary Sue](https://www.themarysue.com/netflix-drops-arcane-season-2-character-posters/) + [CGMagazine](https://www.cgmagonline.com/news/new-arcane-season-2-poster-dropped/)). La galería de Tudum sólo dio el título, sin descripción ⚠️ |
+| **Cartel de Silco, T1** (`Silco_Season_1_Poster_1.jpg`, 2025×3000) | De perfil, media cara humana y media con textura de madera y metal verde (la cicatriz química). Sostiene una jeringa de **Shimmer** morada que le tiñe la mano de rosa. Detrás, en transparencia, su despacho de **The Last Drop** con una lámpara Tiffany naranja | ✅ mirado directamente ([Arcane Wiki, imagen](https://static.wikia.nocookie.net/arcane/images/5/54/Silco_Season_1_Poster_1.jpg/revision/latest?cb=20241129111151)). Pose útil: «sostener algo pequeño y peligroso mirando de lado», para quien explica un secreto |
+| **Escudos de Piltóver y Zaun** (`Piltover_Crest.png` 4042×4167 y `Zaun_Crest.png` 3487×4167, PNG con **fondo transparente de verdad**) | Piltóver: un Hexgate rodeado en parte por un engranaje. Zaun: un **vial químico alado**. Los dos en el mismo oro, **`#C7A965`**, medido por píxel (el oro «de catálogo», sin luz de escena; la splash de Jayce da `#B4843C`, más oscuro por la luz) | ✅ medido ([Piltover Crest](https://static.wikia.nocookie.net/arcane/images/c/c6/Piltover_Crest.png/revision/latest?cb=20241118070136), [Zaun Crest](https://static.wikia.nocookie.net/arcane/images/b/bc/Zaun_Crest.png/revision/latest?cb=20241123234130)); los símbolos, del campo `symbol` de las fichas de [Piltover](https://arcane.fandom.com/wiki/Piltover) y Zaun |
 | Cartel principal de la T2 (Jinx, Vi, Caitlyn, Ambessa) | [CGMagazine](https://www.cgmagonline.com/news/new-arcane-season-2-poster-dropped/), [Yahoo](https://www.yahoo.com/entertainment/arcane-season-2-poster-previews-192014449.html), [Game Rant: qué esconden](https://gamerant.com/arcane-season-2-posters-hints-clues/) | ✅ |
 | Guía del *making of* de la T2 | [Netflix Tudum](https://www.netflix.com/tudum/features/arcane-season-two-behind-the-scenes) | ✅ |
 
@@ -301,6 +303,25 @@ Mismo repositorio, carpeta `extras/arcane/` ✅ (descargado y medido). Direcció
   recogida por el buscador, sin la fuente original a la vista).
 - **Cada magia tiene su color**: runas, Hextech, quimtech y Shimmer tienen
   paletas distintas ✅ ([Netflix Tudum](https://www.netflix.com/tudum/features/arcane-season-two-behind-the-scenes)).
+- **Más, con la técnica paso a paso para Photoshop y Blender**: §18b.1.
+
+### 3.7 Las hojas de contacto (segunda pasada)
+
+`investigar_serie.py --serie "Arcane" --wiki arcane --paginas "Jinx" "Vi"
+"Jayce Talis" "Viktor" "Caitlyn Kiramman" "Ekko" "Silco"` corrió esta vez:
+**268 imágenes grandes** de la wiki en 6 hojas. El investigador de imagen
+las miró las 6. Quedan 3 en `hojas/` (JPEG, menos de 3 MB):
+
+| Hoja | Números que sirven | Para qué |
+|---|---|---|
+| `hojas/arte_modelos_01.jpg` (nº 49-96) | **70** Jayce, boceto de color con la paleta al lado · **75** el Heraldo, escultura gris en *turnaround* · **77-79** el pelo de Caitlyn en 5 ángulos · **86** *turnaround* con 5 poses de baile y el rótulo «ARCANE» · **93** bustos del personal del Consejo | Hojas de modelo reales del estudio: proporciones para Blender (punto 1) |
+| `hojas/colaboraciones_figuras_01.jpg` (nº 145-192) | **150** portada del cómic promocional de Jayce · **157-159** tres vistas de concepto del Heraldo · **163** render T2 de Jayce · **182** Nendoroid Jinx · **183** sudadera con la cita de Viktor · **186** Youtooz Vi y Jinx · **187** sudadera «Jayvik» · **188-189** figuras de Jinx | Figuras oficiales y colaboraciones (§18b.6) |
+| `hojas/colaboraciones_merch_01.jpg` (nº 241-268) | **245** mochila tokidoki × Arcane · **252** Funko Viktor · **260-261** *turnaround* oficial de Ekko, de frente y de perfil · **262** Funko Jinx · **263** Youtooz Jinx suelta | Merch y el modelo de Ekko |
+
+Las otras 3 hojas (`hoja_01`, `hoja_03`, `hoja_05`) son sobre todo
+fotogramas y las splash de §3.1, que ya tienen enlace directo. Se
+regeneran con el mismo comando. Los originales de cada número están en
+`referencias.json` (fuente «Fandom arcane»).
 
 ---
 

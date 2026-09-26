@@ -636,3 +636,160 @@ Cuatro sitios con paleta medida con `estilo.py` sobre capturas de la wiki ✅:
 
 No hay fondos de pantalla oficiales descargables de Kadokawa ni de Crunchyroll ⚠️ (buscado en inglés y español).
 
+## 17 · Guía para IA de imagen y de texto
+
+Escrita con todo lo anterior. Úsala para Firefly, Canva o cualquier IA. Las imágenes de referencia son siempre las oficiales de las hojas.
+
+### Para una IA de imagen
+
+**El estilo, en una frase:** anime de televisión de 2016, colores planos con **una sola sombra** por zona, **línea fina y uniforme de color marrón oscuro, no negra**, colores claros de cuento, cielos azul claro, fondos pintados con degradado suave.
+
+**Datos medidos para pedir el estilo:**
+
+- Línea: `#4E3135` en la ropa y `#5E4563` en el sombrero de Megumin (punto 18).
+- Luz de día: cielo `#80DAF4`, césped `#72C360` (mansión, opening 0:32).
+- Atardecer épico: `#F7EF78` y `#CEAC5E` (castillo, tráiler T3 0:20).
+- Interior con velas: `#40342F` con un punto crema `#EFE3C0` (tienda de Wiz).
+- Saturación media-alta (21-51 %) y brillo alto (58-74 %).
+
+**Rasgos que nunca cambian** (cópialos tal cual en el prompt):
+
+- **Kazuma:** chico joven, pelo castaño corto y despeinado, cejas en V, capa corta verde azulada (`#357679`) con borde crema (`#EDD58E`), camisa blanca con cordón cruzado, cinturón marrón, pantalón azul marino (`#4E525E`), espada corta al cinto. Referencias: nº2, nº22, nº143.
+- **Aqua:** pelo azul claro muy largo con un aro recogido arriba y una esfera azul, vestido azul marino (`#434B88`) con lazo verde menta (`#71DDBA`), mangas blancas sueltas, ribetes dorados (`#F9CD7B`), medias largas, báculo con gema. Referencias: nº1, nº14, nº126.
+- **Megumin:** chica bajita, pelo castaño oscuro **corto** con mechones a los lados, **ojos rojos**, sombrero de bruja marrón con banda naranja en zigzag, vestido rojo (`#C24148`), capa malva (`#6A4856`) con ribete dorado (`#F9C667`), gargantilla, guantes sin dedos, **venda blanca en una pierna**, botas naranja (`#E36C4C`), báculo con esfera roja. Referencias: nº4, nº44, tráiler T3 1:00.
+- **Darkness:** mujer alta, pelo rubio en **coleta alta con adorno en X**, armadura dorada (`#FCC046`), falda negra (`#38363B`), hombrera marfil (`#F3E3E4`), guantes negros largos, espadón. Referencias: nº3, nº42, nº67.
+
+**Encuadre según la emoción** (punto 18):
+
+- Presentar: contrapicado leve, primer plano o medio.
+- Situar el sitio: plano general con el nombre del lugar pequeño abajo a la izquierda.
+- Gag físico: plano cenital o picado.
+- Explosión: pantalla quemada en blanco, sin plano intermedio.
+
+**Palabras que ayudan:** `anime screenshot`, `2016 TV anime`, `cel shading`, `flat colors`, `single tone shadow`, `thin brown lineart`, `bright fantasy town`, `clear blue sky`, `comedic exaggerated expression`. Y las etiquetas de Danbooru del punto 3 (`witch_hat`, `red_dress`, `bandaged_leg`, `x_hair_ornament`, `high_ponytail`, `hair_rings`, `sphere_hair_ornament`, `green_jacket`).
+
+**Palabras que lo estropean:** `realistic`, `semi-realistic`, `3D render`, `dark fantasy`, `grimdark`, `dramatic rim light`, `glossy`, `painterly`, `thick black outline`, `sexy` o cualquier cosa de fanservice. `eyepatch` sólo si quieres la Megumin de la T1.
+
+**Imágenes para dar a la IA como referencia:**
+
+- De estilo de grupo: nº101 (key visual T3) y nº43 (visual T1).
+- De cuerpo entero: nº1-4 (hojas de modelo T3).
+- De cara y gag: nº127 y nº141 (Aqua llorando), nº129 (Aqua con ojos muertos), nº56 (Megumin tramando).
+- De luz: nº65 (Megumin de noche con luz naranja), nº12 (Darkness con farolas).
+- De explosión: nº106 (ilustración a color de la Explosión) y el tráiler T3 a 1:20.
+
+**Vocabulario de expresiones** (para que la IA entienda cada gesto):
+
+- **Ojos rojos que brillan**: los Demonios Carmesí cuando se emocionan (Megumin en el origen, 1:36).
+- **Sonrojo con rayas diagonales** en las mejillas: vergüenza (Megumin, T2 ep. 2, 21:58).
+- **Llanto a chorro con la boca enorme**: el llanto de gag de Aqua (nº141).
+- **Ojos sin brillo, «muertos»**: decepción cómica (nº129).
+- **Cara de suficiencia** («smug»): Megumin cuando presume.
+- **Cara de gusto con sonrojo y jadeo**: Darkness humillada (gólem, 0:06-0:15).
+- **SD o chibi**: cabezas grandes y cuerpos pequeños, como en *Isekai Quartet* y *Fantastic Days*.
+- **Destello a blanco**: el golpe de la Explosión (tráiler OVA 0:24).
+
+### Para una IA de texto
+
+**Reglas de voz:**
+
+- **Kazuma:** frases cortas, sarcásticas, que pinchan. Llama a las cosas por su nombre. Regaña a gritos, pero se nota el cariño resignado. Habla de dinero y de ventajas.
+- **Aqua:** exclamaciones, dobles signos, se ofende y llora en la misma frase. Presume de diosa. Alarga vocales cuando se queja.
+- **Megumin:** registro solemne y teatral para cosas pequeñas. Se presenta con nombre y título. Habla de la Explosión como de un arte. Si se burlan de su magia, se ofende más que por nada.
+- **Darkness:** noble y correcta, hasta que la humillan: entonces se le corta la voz, jadea y protesta sin querer que paren.
+- **Puntuación:** muchas ¡! en Aqua; puntos suspensivos en Darkness; frases rotundas y cortas en Megumin; preguntas retóricas en Kazuma.
+- **Onomatopeyas:** «¡Explosión!», la risa «¡Wahahahaha!» de Megumin, «¡Purificación!» repetido.
+
+**Frases reales, por emoción.** Las marcadas **(doblaje)** son del doblaje latino. Las marcadas **(subs)** están traducidas por los investigadores de los subtítulos en inglés: úsalas como tono, no como texto oficial.
+
+- **Alegre / orgullosa:** «¡Soy Megumin! La mejor prodigio de los Demonios Carmesí y maestra de la magia Explosión» (subs, origen 3:04). Aqua: «¡God Blow!» (subs, 5:04).
+- **Enfadada:** Megumin: «¡Nunca me digas eso! Es peor que burlarte de mi nombre» (subs, last fight 1:12). Título de clip: «Eres taaan ruin» (doblaje).
+- **Explicando:** Megumin: «Esta es la historia de, según algunos, una gran maga. Aunque muchas otras personas la conocen como la niña loca de las fuertes y devastadoras explosiones» (doblaje, 1:04). Kazuma: «Esos 300 000 eris son tuyos» (subs, 2:32).
+- **Seca / cómica:** «¿Megumin, es algún apodo?» «Así me llamo» (doblaje, 1:35). Megumin: «Te mando a volar unas piezas del rompecabezas que yo acababa de terminar. ¿Me ayudas a encontrarlas, por favor?» (doblaje, 1:42).
+- **Animando o retando:** Kazuma: «¿Tu amor por la Explosión es de verdad?» (subs, last fight 1:00). Título de clip: «No subestimen el poder de los héroes» (doblaje).
+- **Triste o quejica:** Aqua: «¡Sólo fui a los baños!» (subs, 5:20).
+- **Darkness en su gag:** «¡Alto! ¡Qué indecente!» (subs, gólem 0:06). Títulos de clip: «Qué gustos tan peculiares» y «Podrás tener mi cuerpo pero jamás mi corazón» (doblaje).
+
+**Vocabulario de la serie** para los textos: eris (el dinero), Gremio de Aventureros, carnet de aventurero, puntos de habilidad, «Durian Quest» (misión mal pagada), Demonios Carmesí, Orden de Axis, Orden de Eris, Rey Demonio, Paladín (Darkness en el doblaje), hikikomori, NEET.
+
+**Ejemplo de cómo sonaría un texto de canal** (inventado, en su voz): Megumin: «¡Mi nombre es Megumin! Archimaga, maestra de la Explosión. ¿Y tú quién eres?». Kazuma: «Léete las reglas. Una vez. No como Aqua.»
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+**Quién lo hizo** ([AniList](https://anilist.co/anime/21202/staff) y la web oficial [konosuba.com](http://konosuba.com/1st)) ✅:
+
+- Director T1-T2 y película: **Takaomi Kanasaki** (金崎貴臣). Guion: Makoto Uezu.
+- Diseño de personajes del anime: **Kouichi Kikuta** (菊田幸一), sobre el diseño original de **Kurone Mishima** (三嶋くろね).
+- Director de arte: Masakazu Miyake. Diseño de color: Saori Yoshida. Fotografía: Shigemitsu Hamao. CG: Kana Imagaki.
+- Estudios: Studio DEEN (T1-T2), J.C.Staff (película), Studio Drive (T3; director Yujiro Abe, según Anime Corner).
+
+**La animación «poco pulida» es a propósito.** Kikuta explicó en una entrevista (*Anime Style* 009, julio de 2016) que busca sacar «el lado más humano de cada uno, sus rasgos poco favorecedores y sus momentos de apuro», no un dibujo bonito como el de las novelas ([traducción en Wave Motion Cannon](https://wavemotioncannon.com/2017/02/07/konosuba-interview-with-koichi-kikuta-anime-style-009-july-2016/)) ✅. Por eso las caras se deforman tanto en los gags.
+
+**El ritmo de la comedia.** Kanasaki distingue el **gag** («algo repentino y sin conexión que hace reír de golpe, como fuegos artificiales de un solo tiro») de la **comedia** («hace reír de forma natural dentro del drama»). Calcula la subida y bajada de tensión **plano a plano** ([entrevista en ddnavi, en japonés](https://ddnavi.com/article/d574070/a/)) ✅.
+
+**Línea y sombreado** (medido en un primer plano de Megumin, tráiler OVA, 0:03) ✅:
+
+- Contorno **marrón oscuro violáceo**, no negro: `#4E3135` en la capa, `#5E4563` en el ala del sombrero.
+- Grosor medio-fino y uniforme; no cambia de ancho como en el manga.
+- Pelo con **una sola sombra plana**, sin degradado.
+- Ojo con un brillo blanco rosado de una sola pincelada.
+- Ribetes dorados planos, sin textura de tela.
+
+**Encuadres típicos** (tráiler de la OVA, 0:00-0:30) ✅: contrapicado leve para presentar a Megumin (0:03); plano general con el nombre del sitio abajo a la izquierda (0:12); picado cenital para la caída cómica del grupo (0:18-0:21); pantalla quemada a blanco para la Explosión (0:24).
+
+**Cómo se dibuja una explosión de anime** (técnica de oficio, no exclusiva de Konosuba). Kazunori Ozawa explica que manda la **silueta** y no el realismo. Se construye girando formas redondas de luz llamadas **«T-light»** y se mezclan rectas y curvas tipo rayo ([genkosha](https://genkosha.pictures/movie/19091928091), en japonés) ✅.
+
+**Programas del estudio:** no se encontró ningún making-of que lo diga ⚠️. Lo normal en 2016 era Retas o CLIP STUDIO PAINT, pero no hay fuente.
+
+**Cómo replicarlo en Photoshop:**
+
+1. Colores planos con los hex de los puntos 15 y 16. Una sola capa de sombra en modo Multiplicar, con bordes duros.
+2. Contorno: recolorea la línea a `#4E3135` (capa de color recortada sobre la línea). Nunca negro puro.
+3. Explosión: silueta grande y redonda; 3-4 capas de «T-light» (óvalos blancos y amarillos con desenfoque gaussiano, girados 15-30° cada uno) en Sobreexponer color; rayos rectos finos en Trama.
+4. Texto de impacto: trazo blanco grueso (Estilo de capa, Trazo, 6-10 px), como el título de la T3 (halo `#FFD8FF` sobre fondo `#212C2E`).
+5. Final: capa de ruido suave y una leve aberración cromática (mover los canales rojo y azul) para imitar el vídeo.
+6. Recortes: por `v3/integrar.py`, como dicen las reglas del dueño.
+
+**Cómo replicarlo en Blender:**
+
+- **Personajes:** modelos de Sketchfab del punto 3 (Megumin de xenoaisam, Aqua de julianmigueldescolado2008, Darkness de jb117; CC BY).
+- **Toon shading:** `Shader to RGB` con una rampa de color de 2-3 tonos en constante (plano, no suave).
+- **Contorno:** **Solidify invertido** con material marrón `#4E3135` (más fácil de controlar que Freestyle cuando hay muchos objetos). Freestyle o Line Art valen para planos simples.
+- **El pergamino del cuadro de diálogo:** un plano con textura de papel de ambientCG, bordes enrollados con `Bevel` o una curva, `Principled BSDF` con rugosidad alta y un `Bump` suave. Colores `#CCB47A`, `#D4AE67` y `#C08E53`.
+- **Luz:** sol fuerte y cielo claro para Axel; sol bajo dorado para el atardecer carmesí; un punto de luz cálida para interiores.
+- **Render:** Eevee con filmic o estándar y poco contraste. Nada de reflejos brillantes.
+
+## 19 · Texturas 2D
+
+- **Tramas de manga:** el anime va en color plano, pero el manga y el spin-off en blanco y negro usan tramas de puntos y líneas (nº20, nº50-52, nº78). Equivalentes libres: paquetes de screentone de DeviantArt y GitHub ⚠️ (cada uno con su licencia; revisarla antes).
+- **Grano de papel** (tomo impreso, pergamino): ambientCG `Paper001` a `Paper006` y `Cardboard002`, CC0, hasta 8K ✅.
+- **Tela** (capas de Kazuma y Megumin, vestido de Aqua): `Fabric030`, `Fabric036`, `Fabric061` y otras, CC0 ✅.
+- **Cuero** (cinturón de Kazuma, guantes de Darkness): `Leather026` a `Leather038`, CC0 ✅.
+- **Metal dorado** (ribetes, armadura de Darkness): `Metal048A/B/C`, CC0 ✅.
+- **Madera** (mansión, tienda de Wiz, tablones del Gremio): `WoodFloor040` a `WoodFloor064`, `Planks037A`, CC0 ✅.
+- **Patrones de ropa:** el aspa dorada del sombrero de Megumin, la X del pelo de Darkness y los rombos dentados dorados del borde de la capa de Megumin ✅.
+- **Emblemas con imagen:** símbolo de la Orden de Axis ([AxisCult.png](https://static.wikia.nocookie.net/konosuba/images/1/17/AxisCult.png), 480×480) y de la Orden de Eris ([Faith.png](https://static.wikia.nocookie.net/konosuba/images/e/e6/Faith.png), 511×505) ✅. Sirven de sello o parche.
+- **Alfabeto del mundo** para carteles que no se leen: fuente de HarJIT (punto 5) ⚠️.
+- **Logo:** letras redondas con degradado y contorno blanco grueso (punto 5).
+- **No encontré** un blasón de los Demonios Carmesí ⚠️ (buscado `emblem` y `crest` en la wiki).
+
+Con esto están todas las capas: 3D en Sketchfab (punto 3), texturas reales en ambientCG (puntos 4 y 19) y 2D aquí.
+
+## 20 · Gustos y detalles de cada personaje
+
+Cumpleaños de AniList; gustos de la wiki en inglés (secciones Personality y Trivia) ✅.
+
+| | Le gusta | Odia | Aficiones | Cumpleaños | Altura |
+|---|---|---|---|---|---|
+| **Kazuma** | Mujeres de pelo largo y mucho pecho; el juego de cartas «Young Grandchild»; apostar (se lo enseñó Dust) | Que se aprovechen de él o de su grupo | Videojuegos (compró *Myriad Swords 2* antes de morir), dormir 12 horas, apostar | 7 de junio | 162 cm |
+| **Aqua** | El espumante (duerme abrazada a una botella); pulir piedras | Que la llamen inútil o diosa de pacotilla; quedarse sin dinero | Beber, fiestas, presumir de belleza | 1 de agosto | ⚠️ no está |
+| **Megumin** | La Magia Explosión (calor, onda, humo, brillo); lo gótico; en secreto, las mascotas monas | Cualquier otra «explosión» que no sea la suya; parecer poco genial | Ensayar poses; presumir de archimaga | 12 de abril | ⚠️ no está |
+| **Darkness** | Hombres vagos que la traten mal; el dolor y la humillación; la ropa mona (se prueba la de Megumin en secreto) | Que le hablen de su peso o de sus músculos | Imaginar que la captura el Rey Demonio; ejercicios de aguante | 4 de junio | ⚠️ no está |
+| **Yunyun** | Hacer amigos; juegos de mesa de dos (juega sola cambiando de silla); su diario | Que la vean rara o sola | Pasar el rato en el Gremio; celebrarse su cumpleaños sola | 29 de febrero | ⚠️ no está |
+
+**Objetos que siempre llevan:** Kazuma, su espada corta; Aqua, su báculo con gema; Megumin, su báculo con esfera roja y su sombrero; Darkness, su espadón y su armadura. Megumin tiene además un gato familiar, **Chomusuke** (hay modelo 3D, punto 3).
+
+**Cómo se ven a sí mismos:** Aqua, la más bella; Megumin, la mejor archimaga; Kazuma, el único cuerdo del grupo (aunque hace trampas y apuesta); Darkness, una cruzada noble en público.
+
+**Detalle de diseño:** según el ilustrador Kurone Mishima, Darkness tiene una talla de pecho muy grande (dato de la wiki). La armadura amarilla está pensada para que se la vea y aguante golpes ([SportsKeeda](https://www.sportskeeda.com/anime/10-reasons-love-watch-konosuba)).
+

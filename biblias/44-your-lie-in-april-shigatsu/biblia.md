@@ -603,3 +603,70 @@ Todas de [ambientCG](https://ambientcg.com/view?id=Paper001), **CC0**, uso comer
 - **Emblemas:** el escudo del Colegio Sumiya con una «S» (visible en las credenciales, personajes_01 #12, #36, #37).
 - Capas completas: 3D en el punto 3, texturas reales en el 4, 2D aquí.
 
+## 20 · Gustos y detalles
+
+Cumpleaños y altura cruzados entre AniList y la wiki: ✅. **Gustos y odios son ⚠️**: no hay databook accesible. Sólo los canelés de Kaori vienen de una línea de trivia; lo demás se deduce de su carácter. Úsalo como pista, no como cita.
+
+| Personaje | Cumpleaños | Altura | Le gusta ⚠️ | Odia ⚠️ | Afición | Fuentes |
+|---|---|---|---|---|---|---|
+| Kousei | 28 de marzo | 168 cm | la música libre de Kaori; sus amigos | que lo comparen con su madre | piano | [AniList](https://anilist.co/character/69407) · wiki |
+| Kaori | 4 de julio | 157 cm | dulces, sobre todo **canelés**; tocar libre | las partituras «tal cual» | violín, melódica, algo de piano | [AniList](https://anilist.co/character/69411) · wiki |
+| Tsubaki | 19 de mayo | 159 cm | estar con Kousei y Watari | que la llamen «rara» por no ser femenina | sóftbol | [AniList](https://anilist.co/character/69409) · wiki |
+| Watari | 14 de abril | 170 cm | las chicas; el fútbol | perder partidos | fútbol, capitán, n.º 11 | [AniList](https://anilist.co/character/69405) · wiki |
+
+- Las credenciales oficiales confirman los cumpleaños de Kaori (7月4日), Tsubaki (5月19日) y Watari (4月14日). ✅
+- **Objeto que siempre lleva:** Kaori, el violín en su maletita rosa ⚠️; Kousei, sus lentes ✅; Watari, su móvil rojo de tapa (Ep. 1, 7:00).
+- **Cómo se ve Kousei:** «el metrónomo humano», una máquina que toca sin emoción propia. ✅
+- Posible **amusia** de Kousei: teoría de fans en la [trivia de la wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kousei_Arima#Trivia), no diagnóstico oficial. ⚠️
+- Kaori con un dulce redondo oscuro en la mano (¿un canelé?): personajes_02 #61. ⚠️ sin identificar.
+- **Manzana acaramelada:** momento dulce de Kaori y Kousei en el Ep. 12 ([ficha](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Candy_Apple)). ✅
+- Gata de la infancia de Kousei: **Chelsea**, que su madre le obligó a regalar (punto 25). ⚠️
+
+## 21 · Por qué la gente la ama
+
+**Premios y ventas:**
+- Manga: **Premio Kodansha n.º 37** (shōnen, 2013) y nominado al Manga Taishō ([Wikipedia, Naoshi Arakawa](https://en.wikipedia.org/wiki/Naoshi_Arakawa)). ✅
+- Anime: **Sugoi Japan Award 2016** a mejor adaptación. ✅
+- Más de **4 millones** de tomos vendidos (feb-2016). ⚠️
+- Eiichiro Oda (One Piece) dijo que le daba envidia cómo muestra la música en el dibujo; el manga se agotó y hubo que reimprimir ([TV Tropes, Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/YourLieInApril)). ✅
+
+**Por qué conecta:**
+- La música como lenguaje para sanar y despedirse. El realismo de manos y arcos hace que músicos de verdad la respeten ([reseña de un músico en Medium](https://medium.com/the-aurora-chronicle/a-musician-reviews-your-lie-in-april-c890668420fd)). ⚠️
+- **Con quién se identifica el público:** con Kousei (padre o madre exigente, miedo escénico, «tocar como una máquina») y con Tsubaki (amor callado por el mejor amigo). ⚠️ impresión repetida en reseñas.
+
+**La escena que hace llorar: la carta de Kaori, Ep. 22 «Spring Wind».** Vista completa de 15:30 a 21:22. ✅
+- **Qué pasa (15:30-19:30):** Kousei lee en voz en off la carta que Kaori escribió antes de morir. Se cruzan recuerdos de ella en los mismos sitios por donde él camina.
+- **Luz (17:06-19:46):** el presente de Kousei es frío, cielo celeste y una reja metálica; los recuerdos de Kaori son cálidos, dorados, con pétalos cayendo.
+- **19:22:** «好きです。I love you.» a mano sobre pétalos.
+- **20:02-20:10:** Tsubaki aparece corriendo y lo llama por su nombre.
+- **20:50:** un gato negro en un muro cuando la carta dice que llega la estación en que se conocieron.
+- **21:14:** foto enmarcada de los tres de niños sobre un escritorio.
+- **Sonido:** no hay lluvia ni efectos; sólo música y la voz en off. Ese vacío es el silencio.
+- **Música:** «Kouiu Kimochi wo Nante Itta kana» (15:34-17:46) y «Kirameki» cantada por Kousei y Kaori (17:46-21:20). ⚠️ nombres de una fuente.
+- **Por qué duele:** ella supo todo el tiempo que iba a morir y aun así eligió la mentira que la acercaba a él.
+- **Reacción:** decenas de *reaction mashups* sólo de esta escena en YouTube. ✅
+
+**Otras escenas:**
+- La confesión de Tsubaki, Ep. 20 ([Mage in a Barrel](https://mageinabarrel.com/2015/03/05/your-lie-in-april-episode-20/)). ⚠️ sin minuto.
+- Ep. 10, citado como el mejor por algunos lectores. ⚠️ un comentario.
+- **Para reír:** el gag de Tsubaki y la pelota (Ep. 1, 11:00) y la furia de Kaori con el megáfono (Ep. 1, 18:20).
+- **Para gritar de emoción:** Kousei vuelve a tocar con Kaori en el concurso (Ep. 3-4) ⚠️ sin minuto propio más allá del 18:00-21:00 del Ep. 3.
+
+## 22 · Fan dubs y comunidad hispana
+
+Sin doblaje oficial, la comunidad hispana ya se adelantó. Vistas medidas con `yt-dlp` (sólo metadatos).
+
+| Canal | Qué es | Vistas | Fecha | Enlace |
+|---|---|---|---|---|
+| Luxe KO (Hana, Balu, Jhair, Luxe) | Cover en español de «Hikaru Nara» | 1 107 538 | 09-06-2018 | [YouTube](https://www.youtube.com/watch?v=V3EP2vqpRuU) |
+| MAGO REY / Blanca Tapia | Fandub «Naranja Adiós» | 12 215 | 16-06-2017 | [YouTube](https://www.youtube.com/watch?v=TBoHfc3d2f0) |
+| Lyrical Legends Music | Cover latino de «Hikaru Nara» | 5 059 | 16-10-2023 | [YouTube](https://www.youtube.com/watch?v=z9BoGuU4_tU) |
+| Yashua Dub Studios | Fandub del cap. 1, parte 1 | 1 623 | 31-07-2025 | [YouTube](https://www.youtube.com/watch?v=BZW9_SgDX2M) |
+| Bolt | Parodia «Your Lie in April en 1 minuto» | 1 519 | 24-04-2019 | [YouTube](https://www.youtube.com/watch?v=Inmj2FiqCMY) |
+| Friki Zone – Fandub | Fandub de la carta (cap. 22) | 317 | 04-07-2021 | [YouTube](https://www.youtube.com/watch?v=aokas_5ETLY) |
+
+- Más covers de «Hikaru Nara» en español en plataformas de música: Hitomi Flor ([Spotify](https://open.spotify.com/track/7HmwxDD8F5SEgbMKBwWFax)), Omar Cabán & The Covers Duo. ⚠️ sin vistas.
+- Un segundo fandub de la carta, «El Milagro de Kaori», ya no está disponible. ⚠️
+- En TikTok sólo aparece la categoría «Your Lie in April Doblaje Español», sin vídeos medibles. ⚠️
+- **Dato para el servidor:** el cover de Luxe KO pasa el millón. La comunidad hispana se quedó con el opening antes que con el doblaje. Es ideal para #canto.
+
