@@ -647,32 +647,41 @@ ficha con episodio e id.
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
-### 4.1 Modelos 3D del bajo-hacha (Sketchfab)
+### 4.1 Modelos 3D con licencia (Sketchfab, leída en su API) ✅
 
-Sketchfab no abría (ni la web ni su API), así que **no pude leer la
-licencia de casi ninguno**. Los que en el título dicen «Download Free»
-son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
-**Comprueba la licencia en la ficha antes de usar.**
+En la primera pasada Sketchfab no abría y casi todo iba «sin ver». En la
+segunda, **la licencia se leyó en la API de Sketchfab**
+(`api.sketchfab.com/v3/search`), que es quien la certifica.
 
-| Modelo | Autor | Licencia | Nota |
+**El bajo-hacha**
+
+| Modelo | Autor | Licencia (API) | Nota |
 |---|---|---|---|
-| [Marceline's Ax Bass](https://sketchfab.com/3d-models/marcelines-ax-bass-2224d0a363a24ba883614f209761454c) | **Yogensia** | **CC BY-NC-SA 4.0** ✅ (lo dice su ficha, según la búsqueda) | Descargable. Crédito: «Marceline's Ax Bass» by Yogensia, CC BY-NC-SA 4.0. **Sin uso comercial**: vale para el Discord si no se vende nada |
-| [Marceline's Ax Bass](https://sketchfab.com/3d-models/marcelines-ax-bass-417178d709774642b0d5b5a02181caa2) | Haxis | descargable, licencia sin ver ⚠️ | |
-| [Low Poly Marceline's Ax Bass](https://sketchfab.com/3d-models/low-poly-marcelines-ax-bass-adventure-time-101d7036f35b411295e6a500c86e952b) | Roberto Cuxil (@cuxilrodas) | descargable, sin ver ⚠️ | **Texturas pintadas en Blender con aspecto de dibujo animado**: la más fiel al estilo |
-| [Marceline's Axe Bass](https://sketchfab.com/3d-models/marcelines-axe-bass-477b56a2db134065947b2c931c52b3aa) | denizin | descargable, sin ver ⚠️ | textura iridiscente (se aleja del estilo plano) |
-| [Marceline axe bass guitar](https://sketchfab.com/3d-models/marceline-axe-bass-guitar-adventure-time-9bc622d77287423391e4e5451c05ca77) | Z3bbz | sin ver ⚠️ | |
-| [Marceline Bass Axe](https://sketchfab.com/3d-models/marceline-bass-axe-b6f6f74eb92f4bbfbcbd2d4d01f3b8df) | Froes | sin ver ⚠️ | 16,5 mil triángulos |
-| [(SGP) Marceline's Bass Axe](https://sketchfab.com/3d-models/sgp-adventure-time-marcelines-bass-axe-6e72178681c44722a0cb5226deff7e8e) | TravisEvashkevich | sin ver ⚠️ | |
-| [Marceline's Bass Guitar](https://sketchfab.com/3d-models/marcelines-bass-guitar-4d89b7121de54b4e9410f4472fa1bab6) | deadlygeek | sin ver ⚠️ | |
-| [Marceline's guitar bass](https://sketchfab.com/3d-models/marcelines-guitar-bass-c003bed4b97244d1b705626dd5bb5e69) | Hoho (@hoho03) | sin ver ⚠️ | trae versión alta y baja en polígonos |
-| [Marceline's Axe Bass](https://sketchfab.com/3d-models/marcelines-axe-bass-e111ddfd74f9426dab13a70fce789d44) | 10958533 | sin ver ⚠️ | |
+| [Marceline's Ax Bass](https://sketchfab.com/3d-models/none-417178d709774642b0d5b5a02181caa2) | **Haxis** | **CC BY** ✅ | **El más libre**: deja uso comercial con crédito. ♥ 61. Crédito: «Marceline's Ax Bass» by Haxis, CC BY |
+| [Marceline's Ax Bass](https://sketchfab.com/3d-models/none-2224d0a363a24ba883614f209761454c) | **Yogensia** | **CC BY-NC-SA 4.0** ✅ | sin uso comercial; vale para el Discord si no se vende nada |
+| [Marceline's Axe/Guitar](https://sketchfab.com/3d-models/none-412c96ee288a4bcdb01a7433dff90fa7) | ScoobSter_ | CC BY ✅ | |
+| [Marceline`s Bass guitar](https://sketchfab.com/3d-models/none-bac567bac05b46039f0e5510bf0c3062) | coffe0wolf | CC BY-NC ✅ | |
+| [Marceline's Axe Bass](https://sketchfab.com/3d-models/none-477b56a2db134065947b2c931c52b3aa) | denizin | CC BY-NC ✅ | textura iridiscente (se aleja del estilo plano) |
+| [Low Poly Marceline's Ax Bass](https://sketchfab.com/3d-models/none-101d7036f35b411295e6a500c86e952b) | cuxilrodas | **«Free Standard»** ⚠️ | **Corrección**: no es Creative Commons, es la licencia por defecto de Sketchfab (se baja gratis, sin permiso claro para reusar). Tiene las texturas más «de dibujo animado»: **pedir permiso al autor** antes de usarla |
+| [Marceline axe bass guitar](https://sketchfab.com/3d-models/marceline-axe-bass-guitar-adventure-time-9bc622d77287423391e4e5451c05ca77) · [Marceline Bass Axe](https://sketchfab.com/3d-models/marceline-bass-axe-b6f6f74eb92f4bbfbcbd2d4d01f3b8df) · [(SGP) Bass Axe](https://sketchfab.com/3d-models/sgp-adventure-time-marcelines-bass-axe-6e72178681c44722a0cb5226deff7e8e) · [Bass Guitar](https://sketchfab.com/3d-models/marcelines-bass-guitar-4d89b7121de54b4e9410f4472fa1bab6) · [guitar bass](https://sketchfab.com/3d-models/marcelines-guitar-bass-c003bed4b97244d1b705626dd5bb5e69) · [Axe Bass](https://sketchfab.com/3d-models/marcelines-axe-bass-e111ddfd74f9426dab13a70fce789d44) | Z3bbz, Froes, TravisEvashkevich, deadlygeek, Hoho, 10958533 | ⚠️ | la API los da como descargables pero **sin campo de licencia** en la consulta: mirar la ficha uno a uno |
 | [Axe bass – Marceline](https://www.artstation.com/artwork/BmZxOm) (ArtStation) | Victor Cavalcante Vk | sólo para mirar | render 3D |
 
-> Recomendación: usar **el de Yogensia** (licencia conocida) o modelarlo
-> desde cero siguiendo §3.5. Es un objeto sencillo: dos hojas de hacha,
-> un mástil y una pala. **Ojo**: un render 3D realista del bajo **no
-> encaja** junto a un personaje plano; hay que darle material plano con
-> contorno (ver §18).
+**Personajes y sitios**
+
+| Modelo | Autor | Licencia (API) | Para qué |
+|---|---|---|---|
+| [Marceline the vampire queen](https://sketchfab.com/3d-models/none-f520806111dc454ba3455947e51b04de) | coffe0wolf | CC BY ✅ | **maniquí de proporciones** de Marceline entera |
+| [Finn - (Adventure Time)](https://sketchfab.com/3d-models/finn-adventure-time-309e158598764644a5c6068e0cfdc898) | Agu.3D | CC BY ✅ | Finn, 64 992 caras |
+| [Finn Adventure Time](https://sketchfab.com/3d-models/none-19255b56148247eaa213bff7974304a4) | Nico Caraballo (theniloart) | CC BY ✅ | Finn ligero, 1 548 caras, para pruebas |
+| [Finn - Adventure Time](https://sketchfab.com/3d-models/none-b3c5b1d5e4274eb0ba7f42ea00ed0ad2) · [Finn's Demon Blood Sword](https://sketchfab.com/3d-models/none-7f919633863140a49e6d51a8f0d87aab) | RenataDiFlorio · Haxis | CC BY ✅ | Finn y su espada |
+| [Jake](https://sketchfab.com/3d-models/jake-6326c036c6f14d09bf0708ca4289d699) · [Jake el Perro Toon](https://sketchfab.com/3d-models/none-6fd2e3f4ef614842add5cec885cec2f2) | Mormont · Luis Angel | CC BY ✅ | Jake |
+| [Bmo - Adventure Time](https://sketchfab.com/3d-models/none-ffeb3e9ab97e4e3dbed4ddc0650d8b9b) · [Adventure Time BMO](https://sketchfab.com/3d-models/none-57a8b359d2ad41a3bacc41facfc77531) · [BMO / Hora de Aventura](https://sketchfab.com/3d-models/none-c746c7382fe748759b7f11eda14b8b9a) | featbear · ezgibakim · Jzero_95 | CC BY ✅ | BMO (concepto C) |
+| **[The Treehouse](https://sketchfab.com/3d-models/none-0131dc63d8894892b0c87dc852f23984)** · [Finn and Jake's Treehouse](https://sketchfab.com/3d-models/none-a390d3c9873c4c219959d0b930aabe52) | gleksono | **CC BY** ✅ | **la casa del árbol entera**, el sitio del concepto C |
+
+> Recomendación: el bajo de **Haxis** (CC BY) para la lámina; el de
+> **Yogensia** si no se vende nada. Marceline de **coffe0wolf** como
+> maniquí. **Ojo**: un render 3D realista **no encaja** junto a un
+> personaje plano; hay que darle material plano con contorno (§A).
 
 ### 4.2 Fan art 2D (mirar, nunca pegar)
 
@@ -681,6 +690,14 @@ son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
 - [Marceline Plays the Bass](https://www.deviantart.com/disneyponyfan/art/Marceline-Plays-the-Bass-924284143), Disneyponyfan.
 - [Marceline Bass](https://www.deviantart.com/minty-kitty-art/art/Marceline-Bass-510877467), Minty-Kitty-Art (se vendió como lámina).
 - Diseños del bajo solo: [DavaDs](https://www.deviantart.com/davads/art/Marceline-s-Axe-Bass-382362695), [TheBreakfastUnicorn](https://www.deviantart.com/thebreakfastunicorn/art/Marcelines-axe-bass-3-304673345).
+- Fondos de fans con autor y tamaño (Wallhaven): ver §17.
+- **Fotos con licencia libre** (Openverse): disfraces caseros de
+  Halloween de «Violently Japy» (Flickr, CC BY-NC 2.0) y 8 fotos
+  tituladas «Marceline» de **Peu Pundik Fotografia** (Flickr, **CC BY-SA
+  2.0**, 683×1024, p. ej.
+  [esta](https://live.staticflickr.com/5520/10413902646_377f68940e_b.jpg))
+  ⚠️ (las trajo el recolector; nadie las miró una a una).
+  Para cosplay con materiales de verdad, ver §F.
 
 ---
 
@@ -705,49 +722,105 @@ son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
     donde entra el Rey Helado.
 - **El Anfiteatro Fantasma** del **cementerio de Hamburger Hills**
   (10×07): escenario con **niebla** y público de fantasmas ✅.
-- **La casa del árbol** de Finn y Jake: donde vive BMO ✅ (serie entera).
+- **La casa del árbol** de Finn y Jake: donde vive BMO ✅ (serie entera). Hay
+  **modelo 3D entero con licencia CC BY** (gleksono, §4.1).
 - **El Reino de Cristal** («Obsidian»): escenario con telones, un
   **horno** donde está encerrado el dragón y un pueblo de cristal ✅.
+  En el tráiler (visto): **camino de piedra** hacia **picos morados y
+  turquesa** y **una torre de cristal**; una **ciudad de cristal** a la
+  que llegan en moto ✅.
+- **La puerta del Señor de las Puertas** (3×10): **arco de piedra con
+  botones circulares dorados** (visto en el clip oficial, y hoja 9
+  **#393**) ✅.
+- **La cocina de la casa** («Obsidian»): suelo turquesa, armarios verdes,
+  dos tazas humeantes (visto, 0:16) ✅. Por dentro la casa es **rosa**
+  (dos clips) ✅; fotogramas de la wiki: hoja 9 **#385**, **#386**, **#400**.
 
-### 5.2 Luz ⚠️ (de memoria)
+### 5.2 Luz (vista en vídeo en la segunda pasada) ✅
 
-- Cueva: luz **fría, azul violeta**, con puntos cálidos de **velas**;
-  reflejos de la laguna.
-- La casa por dentro: **cálida**, lámparas y velas.
-- Escenario del cementerio: **noche**, niebla verde azulada y un foco.
-- Casa del árbol: **luz de tarde dorada** entrando por ventanas redondas.
+- **Casa de Marceline por dentro**: luz **plana y cálida**, rebotada en
+  las paredes rosa, **sin sombras marcadas** ✅ (visto en «Fry Song» y en
+  la cocina del tráiler de «Obsidian»: dos clips distintos).
+- **La puerta del Señor de las Puertas** («I'm Just Your Problem»):
+  **tarde con cielo despejado**, nubes blancas; cae la noche con fondo
+  rojizo al final ✅. **Corrección**: no es la cueva; la primera pasada
+  mezclaba las dos localizaciones.
+- **Reino de Cristal** («Obsidian»): **violeta y magenta frío** con
+  acentos cian, aire nocturno y mágico; el camino está **pintado con
+  degradado**, más pictórico que el resto de la serie ✅ (3 fotogramas,
+  `estilo.py`).
+- **Créditos finales**: **verde lima plano**, sin degradado, con abejas y
+  mariposas sueltas ✅.
+- **La cueva** (luz fría azul violeta con velas) y **el escenario del
+  cementerio** (noche, niebla y foco): **siguen de memoria** ⚠️; no hubo
+  clip real de ninguno de los dos.
+- Casa del árbol: luz de tarde dorada por ventanas redondas ⚠️ (de
+  memoria; el opening la muestra por dentro, sin medir).
 
-### 5.3 Paleta ⚠️ (aproximada, de memoria: **muestrear en un fotograma** antes de usar)
+### 5.3 Paleta medida ✅ (con Pillow y `estilo.py`; dice de dónde sale cada una)
 
-| Qué | Hex aproximado |
+**Casa de Marceline** («Fry Song» 0:16 y tráiler de «Obsidian» 0:16)
+
+| Qué | Hex | De dónde |
+|---|---|---|
+| Pared rosa | **`#F8AEC5`** | «Fry Song» 0:16, 37 % del cuadro |
+| Techo, pared clara | `#FBE0E8` | «Fry Song» 0:16 |
+| Sillón rojo | `#D94344` | «Fry Song» 0:00, píxel puntual |
+| Zócalo y marco de ventana gris azulado | `#7A8A96` ⚠️ | a ojo en el fotograma; el agrupado automático no lo separó |
+| Cocina: rojo vino de fondo | `#4D252C` | «Obsidian» 0:16 |
+| Cocina: turquesa de los aparatos | `#5B8890` | «Obsidian» 0:16 |
+| Cocina: rosa de la pared en sombra | `#B04E5E` | «Obsidian» 0:16 |
+
+**Reino de Cristal** (tráiler de «Obsidian», 0:00, 0:16, 0:44, 1:00)
+
+| Qué | Hex |
 |---|---|
-| Piel de Marceline (gris azulado pálido) | `#A9B8C2` |
-| Pelo de Marceline (negro azulado) | `#1C1B2B` |
-| Camiseta gris de tirantes | `#8C8C8C` |
-| Vaqueros azules | `#3E5C9A` |
-| Botas rojas | `#B3262B` |
-| Bajo-hacha: filos rojos | `#C22B2F` |
-| Bajo-hacha: madera del mástil | `#6B4226` |
-| Casa de Marceline (rosa) | `#E7A1B0` |
-| Tejado marrón | `#6E4A36` |
-| Fondo de la cueva (morado oscuro) | `#2A2440` |
-| Finn: camiseta celeste | `#35A9E0` |
-| Finn: pantalón azul | `#1F4E9B` |
-| Finn: mochila verde | `#5FAE44` |
-| Jake: amarillo naranja | `#F2B133` |
-| Dulce Princesa: piel rosa | `#F6A9C8` |
-| Dulce Princesa: pelo chicle | `#E0569A` |
-| BMO: carcasa turquesa | `#6CC3B3` |
-| BMO: pantalla verde claro | `#CFEFD9` |
-| Papel viejo de las cartelas | `#E8DCBC` |
-| Vinilo «Glassboy Blue» | azul claro translúcido, sin ver |
+| Camino y cielo violeta oscuro (0:44, 36 %) | **`#422D6B`** |
+| Violeta medio | `#6A53A0` |
+| Rosa pálido de la luz | `#E7D1D9` |
+| Magenta de acento | `#8F3F6E` |
+| Cian pálido del cristal (0:00, 53 %) | **`#E1F7F9`** |
+| Azul cielo claro | `#BDE0F5` |
+| Picos de cristal, violeta | `#9055C3` y `#D3A0E8` |
+
+**Cielo de «I'm Just Your Problem»** (0:52): `#EFEFFF` y `#A5B9F6`.
+
+**Personajes** (el detalle, prenda por prenda, en §16)
+
+| Qué | Hex medido | De dónde |
+|---|---|---|
+| Piel de Marceline, **color plano** | **`#D8E7E7`** (blanco menta muy pálido) | *model sheet* oficial ep. 057 y «Drama bomb», dos veces ✅ |
+| Piel de Marceline **en escena con sombra** | `#657471` | fotograma 0:52 de «I'm Just Your Problem», 12 puntos ✅ |
+| Pelo de Marceline, plano | `#000000` | *model sheet* y captura ✅ |
+| Pelo en escena | `#150209` y `#24080E` | «I'm Just Your Problem» 0:52 y «Fry Song» 0:16 ✅ |
+| Finn: camiseta / mochila / piel | `#018BCB` / `#7BBB59` / `#FDE5DA` | *model sheet* «Original Finn» ✅ |
+| Jake | `#FEB925` | *model sheet* «Jakesalad», 40 % de la imagen ✅ |
+| Dulce Princesa: rosa y rosa en luz | `#ED8ACE` y `#F3BBFB` | «Princess Bubblegum Duct Tape» ✅ |
+| BMO: carcasa turquesa | `#6CC3B3` ⚠️ | de memoria: el rosa del fondo tapaba la muestra |
+| Papel viejo de las cartelas | `#E8DCBC` ⚠️ | de memoria |
+
+> **Corrección importante (piel de Marceline)**: la primera pasada puso
+> `#A9B8C2`, «gris azulado», de memoria. **Medido, el color plano es
+> `#D8E7E7`**: casi blanco, con un toque menta. El `#657471` sólo sale
+> cuando la escena la oscurece; **para dibujarla se usa `#D8E7E7`** y se
+> sombrea encima. Y el pelo es **negro puro**, no «negro azulado»
+> (`#1C1B2B` era de memoria).
+>
+> Quedan **de memoria** ⚠️ (no se midieron): vaqueros `#3E5C9A`, madera
+> del mástil `#6B4226`, casa por fuera `#E7A1B0` con tejado `#6E4A36`,
+> fondo de la cueva `#2A2440`, pantalón de Finn `#1F4E9B`, pelo chicle
+> de la Princesa `#E0569A` y pantalla de BMO `#CFEFD9`. El vinilo
+> «Glassboy Blue», sin ver.
 
 ### 5.4 Texturas reales equivalentes (CC0, sin crédito obligatorio)
 
 - Roca de la cueva: [Rock Wall 05 (Poly Haven, 8K)](https://polyhaven.com/a/rock_wall_05) y [Rock Wall 13 (16K)](https://polyhaven.com/a/rock_wall_13) ✅ CC0.
 - Luz de cueva real para Blender: [Cave Wall HDRI (Poly Haven)](https://polyhaven.com/a/cave_wall) ✅ CC0 (cueva con río y vegetación, luz suave).
-- Cartón de la funda del disco, papel de la nota, madera del mástil:
-  **ambientCG** (CC0) o la [sección de texturas de Poly Haven](https://polyhaven.com/textures) ✅. No busqué la textura concreta.
+- Cartón de la funda del disco, papel de la nota, madera del mástil,
+  cuero de las botas y tela: **ambientCG** (CC0), nombres leídos en su
+  API ✅: papel **Paper001-006**, cartón **Cardboard001-004**, madera
+  **Wood092, 094, 095**, cuero **Leather026, 030, 037, 038**, tela
+  **Fabric081C, 061, 066** ([ambientCG](https://ambientcg.com/list?type=Material&q=paper)).
 - **Papel viejo de las cartelas**: escanear papel real amarillento
   (como hacía Jennings) o una textura de papel de ambientCG.
 
@@ -762,15 +835,26 @@ son descargables, y en Sketchfab eso **suele** ser Creative Commons ⚠️.
   temblorosas**, con proporciones desiguales ✅
   ([madegooddesigns](https://madegooddesigns.com/adventure-time-font/),
   [BetterStudio](https://betterstudio.com/fonts/adventure-time-font/)).
-- Hay una **fuente de fans, «Adventure Time Logo»**, gratis en
+- Hay una **fuente de fans, «Adventure Time»**, que imita el logo
+  ([dafont](https://www.dafont.com/adventure-time.font); también en
   [Font Meme](https://fontmeme.com/fonts/adventure-time-font/) y
-  [font.download](https://font.download/font/adventure-time-logo) ✅.
-  **No pude bajarla** para ver si trae tildes y ñ ⚠️. Las fuentes de fans
-  de logos casi nunca las traen: **compruébalo antes**.
+  [font.download](https://font.download/font/adventure-time-logo)).
+  **En la segunda pasada se bajó y se abrió con fontTools** ✅: tiene
+  dibujadas á é í ó ú ñ ¿ ¡ ü, **pero sólo en la tabla Mac Roman**; **no
+  tiene tabla Unicode de Windows** (sólo una «Symbol» en 0xF000+). En
+  Photoshop sobre Windows, al teclear ñ o ¿ **lo más probable es que no
+  salga la letra**. **Úsala sólo para «Adventure Time» en inglés**, nunca
+  para texto en español.
 - **Las cartelas de título**: cada una **rotulada a mano** por el pintor,
   distinta en cada episodio, sobre papel viejo ✅ (ver §3.2).
-- **Los cómics de BOOM!**: globos con letra de cómic a mano ⚠️ (de
-  memoria; no busqué el rotulista).
+- **Los cómics de BOOM!**: globos con letra de cómic; el rotulista es
+  **Steve Wands** ✅ ([Adventure Time Wiki](https://adventuretime.fandom.com/wiki/Steve_Wands),
+  [League of Comic Geeks](https://leagueofcomicgeeks.com/comic/3374523/adventure-time-41)).
+  Cómo es su letra, sin ver una página ⚠️.
+- **Los créditos finales** (vistos, §2.9): letras claras sobre verde lima;
+  la fuente exacta no se identificó ⚠️.
+- **El menú de «Card Wars»** (visto, §7.3): botón «BATTLE!» con **letra
+  blanca gruesa de cartel**, del estilo de Chewy o Luckiest Guy.
 
 ### 6.2 Letras libres comprobadas por mí
 
@@ -790,8 +874,28 @@ con fontTools: **todas traen á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü** ✅.
 | Guiño «de vampira» (sólo una palabra) | **Creepster** o **Eater** | letra que gotea | OFL |
 | Cartel de concierto punk | **Bungee** o **Rubik Doodle Shadow** | bloque, de póster | OFL |
 
+Segunda comprobación (texto, 25-sep): **VT323, Press Start 2P, Creepster,
+Eater, Rubik Doodle Shadow y Bungee** se volvieron a bajar (el `.woff2`
+de Fontsource) y a abrir con fontTools: las seis traen todo ✅.
+**Ojo al bajar de Fontsource**: hay que coger el subconjunto **«latin»**,
+no «latin-ext». Las tildes españolas están en «latin»; con «latin-ext»
+faltaban las 15 letras (comprobado con VT323).
+
+**Una letra para cada uso** (propuesta con las letras de arriba):
+
+| Uso | Letra |
+|---|---|
+| Logo o título | Chewy (o la fuente de fans, sólo «Adventure Time» en inglés) |
+| Texto normal que «dice» un personaje | Mali SemiBold, o la letra de mano de quien escribe |
+| Grito | Luckiest Guy en mayúsculas |
+| Pensamiento o nota íntima de Marceline | Rock Salt o Caveat Brush |
+| Onomatopeya | Bungee; la serie casi no las rotula en pantalla (es animación americana), sólo los cómics ⚠️ |
+| Cartel del mundo (concierto, tienda) | Bungee o Rubik Doodle Shadow |
+| Interfaz de juego y pantalla de BMO | VT323 o Press Start 2P |
+| Subtítulos o créditos | Mali; la de los créditos reales no se identificó ⚠️ |
+
 > **No** usar Comic Sans ni fuentes «de anime». **No** usar la fuente
-> de fans del logo para frases largas: sólo para una o dos palabras.
+> de fans del logo para frases largas ni en español.
 
 ---
 
@@ -816,8 +920,15 @@ Cuando **aparece texto**, sale en **objetos**:
 3. **Las cartelas de título** ✅: ilustración pintada con el título
    rotulado a mano, **papel viejo escaneado de borde** y **tramado de
    cómic** (§3.2). Es lo más parecido a una «caja de texto oficial».
-4. **La pantalla de BMO** ⚠️ (de memoria): su cara es una pantalla;
-   a veces muestra imágenes o texto de videojuego.
+4. **La pantalla de BMO**: su cara es una pantalla. Está diseñado como
+   **parodia de las consolas portátiles de Nintendo** tipo Game Boy ✅
+   (dos fuentes: un mod real que convierte un Game Boy Color en BMO,
+   [Instructables](https://www.instructables.com/Adventure-Times-BMO-Roommate-GBC-Mod/),
+   y la web interactiva de Active Theory para «Tierras lejanas: BMO», que
+   usa su cara como menú, [Medium](https://medium.com/active-theory/adventure-time-distant-lands-bmo-5997687372b7)).
+   Qué texto sale en su pantalla dentro de un episodio: sin fotograma ⚠️.
+   En una ficha de DVD su «edad» es **«VER. 2600»** y su especie **«110
+   VOLT-60 HERTZ SYSTEM»**, un guiño a la Atari 2600 ✅ (§C).
 5. **Los discos** ✅: la **letra de «Monster» va grabada en el vinilo**
    de «Obsidian» (§3.4). Un disco oficial usa el propio objeto para
    poner texto.
@@ -837,7 +948,7 @@ Cuando **aparece texto**, sale en **objetos**:
   ⚠️. Si al final se usa un globo, que sea **de cómic de BOOM!**, con
   cola curva y letra de mano, **nunca** una burbuja blanca lisa genérica.
 
-### 7.3 En los videojuegos ⚠️
+### 7.3 En los videojuegos (a medias ⚠️)
 
 - Hay muchos: **«Hey Ice King! Why'd You Steal Our Garbage?!!»**
   (WayForward, DS y 3DS, 2012; Pendleton Ward ayudó con la historia),
@@ -846,10 +957,23 @@ Cuando **aparece texto**, sale en **objetos**:
   ([Gaming Nexus](https://www.gamingnexus.com/Article/Adventure-Time-Hey-Ice-King!--Whyd-you-steal-our-garbage!!/Item3804.aspx),
   [Destructoid](https://www.destructoid.com/reviews/review-adventure-time-pirates-of-the-enchiridion/),
   [IMDb](https://www.imdb.com/title/tt9863808/)).
-- **No encontré cómo son sus cajas de diálogo** (Game UI Database tiene
-  reto de Cloudflare y no sale en búsquedas). Creo recordar que el de DS
-  usa **retratos de los personajes junto a una caja de texto** ⚠️, pero
-  **no lo pude comprobar**: no lo uses sin ver una captura.
+- **«Hey Ice King!» (DS), visto** ✅: la hoja de *sprites* «Mugshots»
+  ([Spriters Resource](https://www.spriters-resource.com/ds_dsi/adventuretimehicwysog/asset/54668/),
+  759×673) trae **retratos de cuerpo entero, simplificados, de unos 28
+  personajes** (Finn, Jake, BMO, Dulce Princesa, Flama Princesa, Rey
+  Helado, Marceline, Lady Arcoíris, Gunter…), hechos para ir **junto a la
+  caja de texto** del diálogo. La caja en sí, sin captura ⚠️.
+- **«Card Wars» (móvil, 2014-2019), visto** ✅: captura del menú en
+  2560×1440 ([imagen](https://i.imgur.com/cXUolY0.jpg), del puerto a PC
+  archivado en [GitHub](https://github.com/shishkabob27/CardWars)):
+  **marcos metálicos biselados azul grisáceo**, barra de vida y XP con
+  retrato arriba a la izquierda, monedas y gemas arriba a la derecha,
+  tapete de batalla **hexagonal** de madera y piedra, **botón rojo
+  redondeado «BATTLE!»** con letra blanca gruesa.
+- **No encontré la caja de diálogo** de «The Secret of the Nameless
+  Kingdom» ni de «Pirates of the Enchiridion» ⚠️ (la API de Steam dio
+  `success:false` para 298890 y 353200; TrueAchievements y Steam
+  Community no abrieron). Más juegos en §13.
 
 ### 7.4 Qué NO hacer con el texto
 
@@ -909,6 +1033,25 @@ marco ⚠️ es de memoria o de una sola fuente.
   orgulloso: «I am proud of my punk daughter!») ✅.
 - **Voces**: inglés **Olivia Olson** ✅; latino **Isabel Martiñón** ✅
   (ver §10).
+- **Carácter, a fondo** (segunda pasada, wikitext de
+  [Adventure Time Wiki: Marceline](https://adventuretime.fandom.com/wiki/Marceline)) ✅: independiente y
+  traviesa; empieza de **antagonista** («Evicted!», 1×12) hasta que Finn
+  ve que es «a radical dame who likes to play games». Debajo de la
+  fachada dura es **muy sentimental**: rompió con su ex **Ash** porque él
+  vendió a Hambo. **Le cuesta decir lo que siente si no es cantando**
+  («Fry Song», «I'm Just Your Problem»).
+- **Arco** ✅: villana traviesa (T1) → amiga cercana que acepta su
+  inmortalidad («The Dark Cloud») → en «Obsidian», años después, **mucho
+  más madura sin perder lo juguetona**.
+- **El miedo de verdad** ✅: no sólo que la olviden; es **el peso de la
+  inmortalidad**, ver morir a todos los que quiere. En «Estacas» su arco
+  gira en torno a «Magia, Locura y Tristeza».
+- **Cómo se ve a sí misma**: «No soy mala. Tengo mil años y perdí de
+  vista mi código moral» ⚠️ (traducción del inglés; la línea doblada no
+  se encontró).
+- **Qué transmite**: la amiga mayor, *cool* y un poco peligrosa que
+  esconde una tristeza enorme. Verla cantar es ver cómo se le cae la
+  armadura.
 
 ### Finn el humano
 
@@ -924,6 +1067,21 @@ marco ⚠️ es de memoria o de una sola fuente.
   tontas («A Song About Noodles», 3×10) ✅.
 - **Cuerpo**: brazos de fideo, **pulgar arriba** cuando algo sale bien
   («Finn gives Jake a thumbs up», 3×21) ✅; se sonroja con facilidad ✅.
+- **Carácter, a fondo** ✅ ([Adventure Time Wiki: Finn](https://adventuretime.fandom.com/wiki/Finn)):
+  impulsivo y a veces de mal genio, pero **bondadoso, valiente y con un
+  código moral casi absoluto**: le cuesta hasta robar en una misión
+  («City of Thieves»). Hace de «sheriff moral» de Ooo.
+- **Arco** ✅: al saber que su padre humano es un criminal egoísta
+  («Wake Up», «The Tower») casi cae en la venganza; la Dulce Princesa le
+  ayuda a controlarla. Madura en lo romántico: vomita de vergüenza en «Go
+  With Me», besa a la Princesa en «Too Young», sale con Flama Princesa.
+- **Cómo llora**: **casi nunca**, sólo en lo devastador (muerte, corazón
+  roto), según «Dad's Dungeon» ✅. Usa las palabras de matemáticas
+  («mathematical», «rhombus», «algebraic») **también para no decir
+  groserías** ✅.
+- **Qué transmite**: el niño que crece delante de ti; *Entertainment
+  Weekly* lo compara con los niños que crecieron con Harry Potter ✅
+  (§D).
 
 ### Jake el perro
 
@@ -938,11 +1096,22 @@ marco ⚠️ es de memoria o de una sola fuente.
   Doblaje Wiki por búsqueda). Ver §10.
 - **Cuerpo**: tumbado, relajado; se transforma en cosas (en el final,
   **en megáfono**, 10×13 ≈37:15) ✅.
+- **Carácter, a fondo** ✅ ([Adventure Time Wiki: Jake](https://adventuretime.fandom.com/wiki/Jake)):
+  relajado, nada preocupado; se apoya en sus poderes (o en Finn) para
+  salir de líos. Hace de **mentor sabio** con consejos que van de
+  brillantes a absurdos. A veces **irresponsable**, deja a Finn peleando
+  solo, pero **siempre llega cuando hace falta**. La wiki apunta que
+  **quizá es disléxico** y con **rasgos de TDAH** ⚠️ (lo dice como
+  «posible», no es oficial).
+- **Qué transmite**: el hermano mayor que te dice «todo estará bien» y
+  te lleva de compras (frase real del doblaje, §10.4).
 
 ### Dulce Princesa (Princess Bubblegum, Bonnibel)
 
 - **Quién es**: la **gobernante del Dulce Reino** y **científica** ✅
-  (wikis). Tiene cientos de años ⚠️.
+  (wikis). Tiene **827 años** según *Explore the Dungeon Because I DON'T
+  KNOW!*, y es **más joven que Marceline** según *The Art of Ooo* ✅
+  ([Adventure Time Wiki: Princess Bubblegum](https://adventuretime.fandom.com/wiki/Princess_Bubblegum)).
 - **En la música**: quiere **dirigir**: «For our next attempt, **I
   wanna be the lead**» y da órdenes técnicas («triplet quavers in
   mixolydian mode») que nadie entiende (3×10) ✅. Toca a BMO como
@@ -952,7 +1121,17 @@ marco ⚠️ es de memoria o de una sola fuente.
   **juguetona**: «Ooooo, so mysterious all the time. Just like your
   song» («Obsidian») ✅.
 - **Cuerpo**: postura recta, manos juntas o señalando, bata de
-  laboratorio en ciencia ⚠️.
+  laboratorio en ciencia ⚠️. Visto: **manos juntas contra el pecho**
+  cuando se preocupa (§8.2) ✅; **taza en la mano** con Marceline
+  («Obsidian», 0:16) ✅.
+- **Carácter, a fondo** ✅: amable y educada, pero con un lado **frío y
+  algo macabro**: corta y vuelve a pegar extremidades de criaturitas «sin
+  dolor» para experimentar («The Lich»), bromea con venenos («The Other
+  Tarts»). **Muy racional**: «all magic is science». **Come de más**
+  cuando el estrés la supera. Es el personaje con **más vestuarios** de
+  toda la serie.
+- **Qué transmite**: la que lo controla todo y lo arregla todo, y que
+  con Marceline por fin se deja llevar.
 
 ### BMO
 
@@ -963,7 +1142,13 @@ marco ⚠️ es de memoria o de una sola fuente.
   Tiene **disco propio**: «BMO's Mixtape» (§3.4) ✅. La Princesa le hace
   sonar «Sound Structure Alpha» (3×10) ✅.
 - **Cómo habla**: como un niño pequeño muy seguro de sí mismo; habla de
-  sí en tercera persona a veces ⚠️.
+  sí en tercera persona a veces ✅ ([Adventure Time Wiki: BMO](https://adventuretime.fandom.com/wiki/BMO)).
+- **Carácter, a fondo** ✅: dice «I am incapable of emotion», **pero llora,
+  se enfada y se pone celoso**. Muy protector: «If anyone tries to hurt
+  Finn, I will kill them». **Hace de mediador** cuando Finn y Jake se
+  pelean (en «Video Makers» edita su película para arreglarlo).
+- **Es el personaje favorito del creador**, Pendleton Ward (entrevista con
+  Hot Topic) ✅.
 
 ### Los secundarios musicales
 
@@ -978,6 +1163,74 @@ marco ⚠️ es de memoria o de una sola fuente.
   frase es perfecta para el canal.
 - **Glassboy** («Obsidian»): **fan de Marceline**, con muñeca suya ✅.
 
+### 8.1 Rey Helado / Simon Petrikov (el secundario más querido)
+
+- **Como Simon** ✅: inteligente, cariñoso, capaz de un **sacrificio
+  enorme**: cuidó a Marceline niña en el apocalipsis mientras la corona
+  le quitaba la cordura. Sus cartas (4×25) muestran que **temía
+  abandonarla** ([Adventure Time Wiki: Ice King](https://adventuretime.fandom.com/wiki/Ice_King)).
+- **Como Rey Helado** ✅: al principio, villano pesado «al estilo
+  Gargamel»; desde la T3, **trágico y solo**: quiere casarse con una
+  princesa **sin recordar por qué** (el eco de **Betty**, su prometida).
+- **Cómo se expresa** ✅: optimista hasta en lo peor; en el final
+  consuela a Finn: nadie elige cómo morir, pero al menos estaban juntos.
+- **Con Marceline** ✅: padre e hija adoptivos. Ella (y Betty) son las
+  únicas que lo llaman «Simon»; a Marceline se lo acepta.
+- **Voces**: latino **Óscar Flores**, toda la serie ✅ (§10).
+- **Qué transmite**: risa y pena a la vez. *Vulture* lo llamó «el mejor
+  personaje» de la serie y lee su arco como una metáfora del
+  **Alzheimer** ✅ (§9, §D).
+- Detalle de trivia: un **tatuaje de pingüino** en el glúteo derecho
+  («Prisoners of Love») ⚠️ (sin fotograma).
+
+### 8.2 Su cara en cada emoción (vista en vídeo, con minuto)
+
+| Personaje | Emoción | Cómo es la cara | Clip y minuto |
+|---|---|---|---|
+| Marceline | tristeza | ojos entornados, boca abierta, cantando | [«Fry Song» 0:32](https://www.dailymotion.com/video/x51arca?t=32) ✅ |
+| Marceline | tristeza (llanto) | cabeza atrás, dientes apretados en mueca triangular, **una sola lágrima** de un ojo cerrado | [«I Remember You» ≈1:18](https://www.dailymotion.com/video/xzt1l7?t=78) ⚠️ (ver §2.4) |
+| Marceline | angustia, pensar | **una mano en la cabeza** | [«I Remember You» 0:24](https://www.dailymotion.com/video/xzt1l7?t=24) ✅ |
+| Marceline | rabia | **ceño fruncido, colmillos a la vista**, canta con fuerza | [«I'm Just Your Problem» 0:52](https://www.dailymotion.com/video/x537pqr?t=52) ✅ |
+| Marceline | miedo | shock, ojos abiertos, fondo oscuro estrellado | [tráiler «Obsidian» 1:24](https://www.dailymotion.com/video/x7xejon?t=84) ✅ |
+| Marceline | rabia extrema y llanto | *model sheets* oficiales: grito con ojos rojos y «a punto de llorar» | hoja 1 **#15** y **#16** ✅ |
+| Finn | vergüenza | óvalo rosa en las mejillas, boca en rayita, ojos de punto muy abiertos y descentrados | [piloto 6:00](https://www.dailymotion.com/video/x84oaz2?t=360) ✅ |
+| Rey Helado | fastidio cómico | cejas caídas, ojos entrecerrados, boca en zigzag; dice «Eso... es estúpido» con Finn agarrándolo | [piloto 4:05](https://www.dailymotion.com/video/x84oaz2?t=245) ✅ |
+| Jake | alegría, orgullo | ojos enormes casi blancos con franja negra abajo, **sonrisa ancha de dientes cuadrados** (piel azulada por la luz nocturna) | [«Jake the Starchild» 1:39](https://www.dailymotion.com/video/x6gkz32?t=99) ✅ |
+| Dulce Princesa | preocupación, miedo | ojos muy redondos con brillo blanco, boquita entreabierta, **manos juntas contra el pecho** | [«Slumber Party Panic» 2:12](https://www.dailymotion.com/video/x8ghhnc?t=132) ✅ |
+| BMO | calma, contento | ojos cerrados en dos curvas, boca en curva suave | [«The More You Moe…» 2:36](https://www.dailymotion.com/video/x3q931u?t=156) ✅ |
+
+**Cuentas**: de las **25 combinaciones** (Marceline, Finn, Jake, Princesa
+y BMO × alegría, rabia, tristeza, miedo y vergüenza) hay **7 vistas en
+vídeo** (Marceline 3, los demás 1), más la del Rey Helado. **Faltan** ⚠️:
+alegría y vergüenza de Marceline; alegría, rabia, tristeza y miedo de
+Finn; rabia, tristeza, miedo y vergüenza de Jake; alegría, rabia,
+tristeza y vergüenza de la Princesa; rabia, tristeza, miedo y vergüenza
+de BMO. Los clips de Dailymotion no daban más y YouTube pedía iniciar
+sesión.
+
+### 8.3 Dinámicas (para láminas en grupo) ✅
+
+- **Marceline y la Dulce Princesa**: de la tensión con humor a pareja
+  oficial (beso en 10×13; en «Obsidian» ríen juntas).
+- **Marceline y Simon**: padre e hija adoptivos (arriba).
+- **Finn y Jake**: el impulsivo con código moral y el hermano sabio pero
+  disperso; el contraste es la base cómica del dúo.
+- **BMO media** cuando Finn y Jake discuten.
+- **Marceline y Finn**: ella lo chincha y él la admira (§8, arriba).
+
+### 8.4 Cómo suenan en latino (medido con `voz.py`) ✅
+
+Sobre las 6 muestras oficiales de Doblaje Wiki (§10.4):
+
+| Personaje | Registro | Expresividad | Velocidad |
+|---|---|---|---|
+| Marceline (Isabel Martiñón) | agudo, 295 Hz | **muy expresiva**, 17,3 semitonos | normal, 2,86 palabras/s |
+| Finn (José Antonio Toledano) | medio, 164 Hz | muy expresiva, 16,0 | **rápida**, 3,49 |
+| Jake (José Arenas, tono nuevo) | medio, 214 Hz | muy expresiva, 14,8 | normal, 2,43 |
+| Dulce Princesa (Karla Falcón) | **muy agudo**, 397 Hz | — | rápida, 3,36 |
+| Rey Helado (Óscar Flores) | agudo, 266 Hz | muy expresiva, 15,8 | — |
+| BMO | **muy agudo**, 465 Hz | — | **lenta**, 1,36 |
+
 ---
 
 ## 9 · ¿Quién es el más querido?
@@ -986,11 +1239,28 @@ marco ⚠️ es de memoria o de una sola fuente.
   productora.
 - Lo que sí hay:
   - La editorial **BOOM!** llamó a Marceline «**fan-favorite**» en la nota
-    de prensa de «Marceline and the Scream Queens» ⚠️ (lo cita
-    [Wikipedia](https://en.wikipedia.org/wiki/Marceline_the_Vampire_Queen),
-    según el resumen de la búsqueda).
-  - «Evicted!» (su primer episodio) **disparó su popularidad** ⚠️ (misma
-    fuente).
+    de prensa de «Marceline and the Scream Queens» ✅
+    ([Wikipedia](https://en.wikipedia.org/wiki/Marceline_the_Vampire_Queen)
+    y [Adventure Time Wiki](https://adventuretime.fandom.com/wiki/Marceline), leídas en la segunda pasada).
+  - Según **Pendleton Ward**, su popularidad **«creció enormemente»**
+    después de «Evicted!» (1×12), su primer episodio ✅ (mismas fuentes).
+  - **Cartoon Network UK** la nombró **«Character of the Week»** el **24
+    de enero de 2012** ✅ (Wikipedia + Adventure Time Wiki). Es lo más
+    parecido a un reconocimiento oficial que hay.
+  - ***The Guardian*** la llamó **lo mejor de la serie** en una reseña
+    del DVD: «responsable de algunas de las mejores canciones del show» ✅.
+  - **WhatCulture** (2016) la puso **#4** de los mejores personajes: «el
+    personaje más cool de la serie» ⚠️ (una fuente).
+  - **El Rey Helado/Simon**: **Eric Thurm** (*Vulture*) lo llamó
+    «**Adventure Time's Best Character**» ✅
+    ([Wikipedia: Ice King](https://en.wikipedia.org/wiki/Ice_King) +
+    [Adventure Time Wiki](https://adventuretime.fandom.com/wiki/Ice_King)). Para mucha gente, el más querido.
+  - **BMO es el personaje favorito del propio Pendleton Ward** (entrevista
+    con Hot Topic) ✅ ([Adventure Time Wiki: BMO](https://adventuretime.fandom.com/wiki/BMO)). El creador
+    prefiere a un secundario.
+  - Otros secundarios con peso propio: la **Princesa Grumosa** (memes,
+    «¡Oh por Glob!») y **Fionna**, que tuvo serie propia («Fionna & Cake»,
+    2023-2024) ✅.
   - Tuvo **su propia miniserie** («Estacas», 2015) y **su propio
     especial** («Obsidian», 2020) ✅
     ([Wikipedia: Stakes](https://en.wikipedia.org/wiki/Stakes_(miniseries)),
@@ -999,40 +1269,74 @@ marco ⚠️ es de memoria o de una sola fuente.
   - Tiene **dos discos propios** («Marceline Canta» en español y
     portugués) ✅.
   - Listas de fans: [Ranker](https://www.ranker.com/list/best-adventure-time-characters/cerberus)
-    (1.958 votantes a septiembre de 2026; no vi su orden),
+    (1.958 votantes a septiembre de 2026; **da 401**, no se pudo ver su
+    orden ⚠️),
     [Looper](https://www.looper.com/803890/15-most-popular-adventure-time-characters-ranked-worst-to-best/),
     [Screen Rant](https://screenrant.com/best-adventure-time-characters-ranked/)
     ⚠️ (no pude abrirlas).
   - Japón: «マーセリンはアドベンチャー・タイムの人気キャラクターの一人»
     (es uno de los personajes populares) ⚠️
     ([ciatr](https://ciatr.jp/topics/74459)).
-- **Conclusión**: para un canal de música, **Marceline no es sólo la
-  más querida: es la única música de verdad del reparto**. Finn y Jake
-  sirven de acompañantes (beatbox y viola), y **BMO** es el secundario
-  más tierno con disco propio.
+- **Conclusión**: no hay encuesta oficial con números. La crítica se
+  reparte entre **Marceline** (BOOM!, CN UK, *The Guardian*) y **el Rey
+  Helado** (*Vulture*); el creador prefiere a **BMO**. Para un canal de
+  música, **Marceline no es sólo de las más queridas: es la única música
+  de verdad del reparto**. Finn y Jake acompañan (beatbox y viola), BMO
+  es el secundario tierno con disco propio y **Simon** el que hace
+  llorar (§D).
 
 ---
 
 ## 10 · Doblaje latino
 
-> Doblaje Wiki y la Wiki de Hora de Aventura no abrían (ni por su API).
-> Los datos salen de **resúmenes de búsqueda** de esas páginas, cruzados
-> con noticias, TikTok y Facebook de convenciones.
+> **Segunda pasada**: la página de la serie en Doblaje Wiki **sí se leyó
+> entera por su API** ([`Hora de aventura`](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Hora_de_aventura),
+> 87 135 caracteres, con `curl -A "Mozilla/5.0"`). Es la primera fuente
+> de cada nombre; la segunda va en la tabla. En la primera pasada todo
+> salía de resúmenes de búsqueda.
 
 ### 10.1 El doblaje de la serie ✅
 
 - Estreno en Latinoamérica: **8 de agosto de 2010** (en EE. UU., 5 de
-  abril de 2010) ⚠️ (una fuente: [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hora_de_aventura) por búsqueda).
+  abril de 2010). Terminó en EE. UU. el **3 de septiembre de 2018** (283
+  episodios, 10 temporadas) y en Latinoamérica el **23 de septiembre de
+  2018** ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hora_de_aventura)
+  + [Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time)).
 - **Estudio**: **Sensaciones Sónicas** (México) desde el principio
   **hasta la temporada 5**; desde el episodio «**El traje de Jake**»,
   **SDI Media de México** ✅
   ([Hora de Aventura Wiki: Sensaciones Sónicas](https://horadeaventura.fandom.com/es/wiki/Sensaciones_S%C3%B3nicas),
   [Milenio](https://www.milenio.com/espectaculos/television/cambio-voz-jake-perro-hora-aventura)
-  habla de SDI México).
-- **Dirección**: empezó a **principios de 2010** con **Óscar Flores**
-  (que además es el Rey Helado); desde la temporada 3 cambió varias veces:
-  Rafael Pacheco, Juan Antonio Edwards, Circe Luna, Elsa Covián y Carlos
-  Hugo Hidalgo ⚠️ (una fuente).
+  habla de SDI México). Algunos promocionales se doblaron en **Candiani
+  Dubbing Studios** ✅ (Doblaje Wiki, tabla de estudios).
+- **Dirección**, tabla exacta de Doblaje Wiki ✅:
+
+  | Director | Temporadas |
+  |---|---|
+  | **Óscar Flores** (también el Rey Helado) | 1-2, 4 (eps. 96-101), 5 (desde el 131) |
+  | Rafael Pacheco | 3, 8 episodios |
+  | Circe Luna | 3 y 4, algunos |
+  | Elsa Covián | 4, algunos |
+  | Carlos Hugo Hidalgo | 4, algunos (retake de sonido) |
+  | Juan Antonio Edwards | 3, algunos |
+  | *(sin datos en la wiki)* | 5, hasta el ep. 130 |
+  | **Arturo Castañeda** | **6 a 9** |
+
+- **Arturo Castañeda** (director de la T6 a la T9): nació el 3-oct-1988
+  en Ciudad de México, **hijo de Mario Castañeda (la voz de Goku) y Rommy
+  Mendoza**; de niño dobló a Harry Potter en *La piedra filosofal* ✅
+  ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arturo_Casta%C3%B1eda),
+  [Comic Fest Juárez](https://www.facebook.com/comicfestjuarez/posts/arturo-casta%C3%B1eda-doblajeactor-y-director-de-doblaje-mexicano-hijo-de-los-tambi%C3%A9n/811605114317097/)).
+- **Productor ejecutivo** (T5.2-6): **Mario Castañeda** ⚠️ (sólo Doblaje
+  Wiki). Ingeniero de grabación: Antonio Hernández. Gerentes de
+  producción: Gerardo Suárez (T1-5) y Gabriela Garay (T5.2-9) ✅.
+- **Traductores** ✅: Carlos Hugo Hidalgo (la mayoría), Janet León, Luis
+  Leonardo Suárez (desde el 131), Circe Luna y David Bueno (ep. 279).
+- **Las voces de Finn y Marceline nunca cambiaron** en toda la serie,
+  cosa rara: casi todos los demás tuvieron cambios ✅ (Doblaje Wiki,
+  curiosidades).
+- **Canal 2 (El Salvador) y Canal 5 (México)** la emiten **sin las
+  censuras** de Cartoon Network y Netflix Latinoamérica ✅ (Doblaje Wiki).
 
 ### 10.2 Reparto
 
@@ -1045,10 +1349,15 @@ marco ⚠️ es de memoria o de una sola fuente.
 | Marceline (una canción de la temp. 6) | Romina Marroquín Payró | ⚠️ | Doblaje Wiki (por búsqueda) |
 | **Finn** | **José Antonio Toledano**, **toda la serie** (de los pocos que no cambió) y «Misiones Secundarias» | ✅ | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Hora_de_aventura), [GeekZilla](https://geekzilla.tech/hora-de-aventura-misiones-secundarias-llega-a-hbo-max/), [The Project Arcade](https://theprojectarcade.com/hora-de-aventura-misiones-secundarias-revive-al-jake-clasico-hbo-max-revela-su-doblaje-latino/) |
 | **Jake** | **José Arenas** | ✅ | [Doblaje Wiki: Jake](https://doblaje.fandom.com/es/wiki/Jake_el_perro), [Milenio](https://www.milenio.com/espectaculos/television/cambio-voz-jake-perro-hora-aventura), [TVLaint](https://www.tvlaint.com/2026/09/jose-arenas-regresa-como-jake-en-hora.html) |
-| **Dulce Princesa** | **Karla Falcón** (temp. 1-2 y **vuelve desde la 4 a petición de los fans**) | ✅ | [Doblaje Wiki: Dulce Princesa](https://doblaje.fandom.com/es/wiki/Dulce_Princesa), [TikTok, entrevista en Festigame 2024](https://www.tiktok.com/@eldiariodelalquimista/video/7440244073505623352) |
-| Dulce Princesa (suplente, temp. 3 hasta el ep. 94) | Claudia Urbán | ⚠️ | Doblaje Wiki (por búsqueda) |
+| **Dulce Princesa** | **Karla Falcón** (temp. 1-2; **vuelve en la 4, ep. 96, «Rey Gusano»**, hasta el final, **tras una campaña de los fans**, §E) | ✅ | [Doblaje Wiki: Dulce Princesa](https://doblaje.fandom.com/es/wiki/Dulce_Princesa), [TikTok, entrevista en Festigame 2024](https://www.tiktok.com/@eldiariodelalquimista/video/7440244073505623352) (también es Tori en *Victorious* y Jinx en *Arcane*) |
+| Dulce Princesa (suplente, **eps. 58-94**, temp. 3-4) | **Claudia Urbán**; se retiró del doblaje en **noviembre de 2012** para llevar su empresa con su esposo, Gerardo Suárez | ✅ | Doblaje Wiki (tabla y ficha propia) |
 | **Rey Helado** | **Óscar Flores** (toda la serie y «Misiones Secundarias») | ✅ | [Doblaje Wiki: Rey Helado](https://doblaje.fandom.com/es/wiki/Rey_Helado), noticias de «Misiones Secundarias» |
-| **BMO** | **Gustavo Melgarejo** (hasta la temp. 5, en Sensaciones Sónicas) | ⚠️ | Hora de Aventura Wiki (por búsqueda) |
+| **BMO** | **Gustavo Melgarejo** (T1-5) → **Héctor Emmanuel Gómez** (T5.2-9, desde «El traje de Jake») | ✅ | Doblaje Wiki (API), [Hora de Aventura Wiki: Héctor Emmanuel Gómez](https://horadeaventura.fandom.com/es/wiki/H%C3%A9ctor_Emmanuel_G%C3%B3mez) |
+| **Princesa Grumosa** | **Alfonso Obregón**, casi toda la serie | ✅ | Doblaje Wiki (API), [Hora-de wiki](https://hora-de.fandom.com/es/wiki/Princesa_Grumosa) |
+| Jake (2 loops sueltos) | Víctor Ugarte (ep. 202) y Tommy Rojas (ep. 279, «Diamantes y limones») | ⚠️ | sólo Doblaje Wiki |
+| Rey Helado (eps. 59-60) | Rafael Pacheco | ⚠️ | sólo Doblaje Wiki |
+| Marceline alterna («Fionna & Cake») | Ángela Villanueva (T5) → vuelve Isabel Martiñón (T7) | ⚠️ | sólo Doblaje Wiki |
+| Hunson Abadeer | José Luis Orozco (T2) → Rafael Pacheco (T3) → Julián Lavat (T4) → Enrique Cervantes (T9) | ⚠️ | sólo Doblaje Wiki |
 
 Voz original de Marceline: **Olivia Olson**, que **canta ella misma** sus
 canciones ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Olivia_Olson),
@@ -1078,7 +1387,7 @@ canciones ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Olivia_Olson),
 | «**Nunca me hagan eso**» (de Clavillazo) | Jake | ✅ (guía de cuadros y búsqueda 27) |
 | «**¡Ay, mamachita!**», «**¿Qué pasó, qué pasó? Vamos, ¡ay!**» | Jake | ✅ (guía de cuadros) |
 | «**Los amigos se ayudan siempre, ¡SIEMPRE!**» | Finn | ⚠️ |
-| «**¡Oh, por Glob!**» | en inglés «Oh my Glob». Según la búsqueda, en latino **a veces se cambió por «¡Oh, por Dios!»**, y «¡Oh por Glob!» quedó como muletilla de la **Princesa Grumosa** | ⚠️ (dato confuso) |
+| «**¡Oh por Glob!**» | **Princesa Grumosa**; es su muletilla latina, de «Oh my Glob». **Corrección**: no se cambió por «Oh por Dios»; lleva «Glob» en latino | ✅ (Doblaje Wiki + [Hora-de wiki](https://hora-de.fandom.com/es/wiki/Princesa_Grumosa)) |
 | «**Soy tu problema**», «**Canción de las papas**», «**Todo se queda**», «**¡Oh, Dulce Princesa!**» | títulos latinos de canciones | ✅ |
 | «**Marceline la Reina Vampiro**» | título latino oficial de 7×06 («Estacas», parte 1) | ✅ ([HBO Max](https://www.hbomax.com/bo/es/shows/hora-de-aventura/s7/fff09eaf-17c3-446b-be32-8a0d47e4ccf1/e6-marceline-la-reina-vampiro/73c26176-7919-4bfe-8b77-db471f43719d), [Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Marceline_la_Reina_Vampiro)) |
 
@@ -1090,9 +1399,34 @@ de aventura!»
 [musica.com](https://www.musica.com/letras.asp?letra=2056436),
 [Hora de Aventura Wiki: secuencia de apertura](https://horadeaventura.fandom.com/es/wiki/Secuencia_de_apertura)).
 
+**Frases oídas de verdad** (segunda pasada): Doblaje Wiki sube una
+muestra de audio de cada actor. Se bajaron **6** y se transcribieron con
+`voz.py` (Whisper local). **Son diálogo real doblado** ✅; **de qué
+episodio sale cada una, no lo dice la wiki** ⚠️, y Whisper puede fallar
+en algún nombre (marcado).
+
+| Personaje | Frase textual | Audio |
+|---|---|---|
+| **Marceline** (Isabel Martiñón) | «¿Vía⚠️? ¿Qué estás haciendo? No puedes estar aquí. **Ash no quiere que salga con mortales**» | [.ogg](https://static.wikia.nocookie.net/doblaje/images/a/a6/Isabel_Marti%C3%B1on_como_Marceline.ogg) |
+| **Finn** (José Antonio Toledano, T5) | «Tienes razón, sólo hay una forma de salir. Uno de nosotros será sacrificado para que los otros vivan. […] No traten de convencerme. Estoy seguro de que... esto es lo que significa ser un...» | [.ogg](https://static.wikia.nocookie.net/doblaje/images/5/57/Jose_Toledano_-_Finn_5ta_Temporada.ogg) |
+| **Jake** (José Arenas, tono nuevo) | «Estoy para ti, hermano. Pero, Finn, te diré algo gentilmente. Necesitas otra espada. Ellos iban a acabarte. Todo estará bien. **Vayamos de compras**» | [.ogg](https://static.wikia.nocookie.net/doblaje/images/5/51/Jose_Arenas_-_Jake_Nuevo_Tono.ogg) |
+| **Dulce Princesa** (Karla Falcón) | «**¡Los veo en el dulce reino! ¡Esta noche!**» | [.ogg](https://static.wikia.nocookie.net/doblaje/images/4/40/Karla_Falcon_como_la_Dulce_Princesa.ogg) |
+| **Rey Helado** (Óscar Flores) | «¡La hora es suya, pero el día será mío! ¡Como tú, princesa mía!» | [.ogg](https://static.wikia.nocookie.net/doblaje/images/7/7a/Oscar_Flores_como_el_Rey_Helado.ogg) |
+| **BMO** | «¡Jajajajajaja! ¡Juguemos⚠️ a policías y⚠️ ladrones!» (Whisper oyó «Cukemos... iradrones»; reconstruido de oído) | [.ogg](https://static.wikia.nocookie.net/doblaje/images/7/70/BMO.ogg) |
+
+Cómo suena cada voz (registro, expresividad, velocidad): §8.4.
+
+- El **título latino del final** en Doblaje Wiki es **«Ven Conmigo»**
+  ✅; la primera pasada lo daba como «¡Ven conmigo!» (así sale en otras
+  páginas) ⚠️.
+- **No hay clips oficiales doblados** en Dailymotion (sólo tráileres y
+  cajitas felices) y YouTube pide iniciar sesión: por eso las frases
+  salen de las muestras de la wiki.
+
 > **No encontré** cómo dice Marceline en latino «Thanks for helping me
 > record», «I'm Marceline the Vampire Queen» ni la frase del Hoyo Musical.
-> Las frases que propongo para la lámina son **traducción mía**.
+> Las frases que propongo para la lámina son **traducción mía**, salvo
+> las de la tabla de arriba.
 
 ### 10.5 Lo nuevo: «Hora de aventura: Misiones Secundarias» ✅
 
@@ -1136,18 +1470,33 @@ de aventura!»
 - «Everything Stays» se presentó en la **Comic-Con de San Diego de
   2015** con Olivia Olson y Rebecca Sugar ✅ (Wikipedia y
   [The Mary Sue](https://www.themarysue.com/olivia-olson-talks-marceline/), por búsqueda).
+- **De qué trata de verdad «Everything Stays»**: lo dice la propia
+  Rebecca Sugar en su TikTok (texto leído con la API oEmbed de TikTok):
+  «I wrote this song for Adventure Time after I'd left to create Steven
+  Universe… I was so touched to be asked to write a song for **Marcy's
+  mom**». Es **la canción de la madre de Marceline**, no una despedida
+  cualquiera. La graba con Jeff (@Jeffthatnoise) al violín ✅ (fuente
+  primaria: [@rebeccasugar](https://www.tiktok.com/@rebeccasugar/video/7380076323168996650)).
+- **El disco oficial en español** tiene 10 pistas con su duración real
+  (lista en §3.4); «**Acompáñame**» es «Come Along With Me» ✅.
+- **La intro cambia en cada miniserie**: hay versiones para «Stakes»,
+  «Islands», «Food Chain» y «Fionna & Cake», de 24-26 s cada una
+  ([Islands](https://www.dailymotion.com/video/x5whnwn),
+  [Stakes](https://www.dailymotion.com/video/x5whnw2),
+  [Food Chain](https://www.dailymotion.com/video/x5whp1h)) ✅ que existen
+  y cuánto duran; ⚠️ no se miraron fotograma a fotograma.
 
 ### 11.2 Los temas que dan ambiente
 
 | Tema | Dónde | Ambiente |
 |---|---|---|
-| Intro «Hora de aventura» | cada episodio | ukelele y voz aniñada, alegre y casera ⚠️ |
+| Intro «Hora de aventura» | cada episodio | ukelele y voz aniñada, alegre y casera ⚠️ (el sonido no se midió; la imagen sí se vio, §2.9) |
 | **«Island Song (Come Along With Me)»**, de **Ashley Eriksson** | cierre de cada episodio y final de la serie | dulce, melancólico, de despedida ✅ |
 | «Fry Song» / «Canción de las papas» | 2×01 | bajo solo y voz, **íntimo, de grabación casera** ✅ |
 | «I'm Just Your Problem» / «Soy tu problema» | 3×10 | rock con rabia contenida, **con banda** ✅ |
 | «Remember You» / «Recordándote» | 4×25 | teclado (omnichord) y voz, **para llorar** ✅ |
 | «Slow Dance With You» | 10×07 | **concierto en directo** ✅ |
-| «Everything Stays» / «Todo se queda» | 7×07 | nana, triste y cálida ✅ |
+| «Everything Stays» / «Todo se queda» | 7×07 | nana, triste y cálida; **es la canción de la madre de Marceline** ✅ |
 | «Woke Up», «Monster», «See Through», «Eternity With You» | «Obsidian» | **punk** («Woke Up»), **balada** («Monster»), dúo final ✅ |
 | «Time Adventure» | 10×13 | BMO, **canción de cuna que vence al caos** ✅ |
 | «Bacon Pancakes» | 4×16 | tontería pegadiza de Jake; meme ✅ |
@@ -1155,13 +1504,35 @@ de aventura!»
 > Para #musica-nueva, el ambiente es **el del estreno casero**: bajo,
 > voz y ritmo hecho con la boca. No una superproducción.
 
+**Efectos de sonido**: es animación americana; **no hay onomatopeyas
+rotuladas** en pantalla como en el manga. Los sonidos que todos
+reconocen son de voz: el **siseo** de Marceline, el **beatbox** de Finn,
+el «**Boompa-boompa-boom**» de Jake (10×13) y la **risa** de BMO (§10.4).
+No se buscó un efecto de sonido concreto ⚠️.
+
 ---
 
 ## 12 · Vídeos
 
-> YouTube y TikTok estaban cerrados: **no pude ver los vídeos ni dar el
-> minuto dentro de ellos**. Van con su enlace, tal como salieron en la
-> búsqueda. Los minutos de las escenas están en §2 (del episodio).
+> **Segunda pasada**: YouTube sigue pidiendo iniciar sesión, así que los
+> enlaces de YouTube de abajo (12.1-12.2) **siguen sin mirar** ⚠️. Los que
+> sí se vieron, con minuto, son los de Dailymotion (12.0). Los TikTok se
+> comprobaron con la API oEmbed (título y autor reales).
+
+### 12.0 Vistos de verdad, con minuto (Dailymotion) ✅
+
+| Clip | Dura | Canal | Qué sirve, con minuto |
+|---|---|---|---|
+| [Opening doblado al latino](https://www.dailymotion.com/video/x8p2dsj) | 0:29 | Espinof (medio de cine) | la intro entera, 1080p (§2.9) |
+| [«I'm Just Your Problem»](https://www.dailymotion.com/video/x537pqr) | 2:07 | **Cartoon Network** (oficial) | [0:12 entra volando con el bajo](https://www.dailymotion.com/video/x537pqr?t=12), [0:52 canta con rabia](https://www.dailymotion.com/video/x537pqr?t=52), [1:32 apoyada en la puerta](https://www.dailymotion.com/video/x537pqr?t=92) |
+| [«Fry Song» Sing-a-Long](https://www.dailymotion.com/video/x51arca) | 0:52 | resubido de «Toon Tunes» de CN | [0:00 flota bocabajo](https://www.dailymotion.com/video/x51arca?t=0), [0:12 la grabadora](https://www.dailymotion.com/video/x51arca?t=12), [0:32 canta triste](https://www.dailymotion.com/video/x51arca?t=32) |
+| [«I Remember You»](https://www.dailymotion.com/video/xzt1l7) | 1:58 | emisión de CN HD, audio francés | [0:24 mano en la cabeza](https://www.dailymotion.com/video/xzt1l7?t=24), [0:42 dúo bajo y batería](https://www.dailymotion.com/video/xzt1l7?t=42), [1:36 la Polaroid](https://www.dailymotion.com/video/xzt1l7?t=96) |
+| [Tráiler «Obsidian»](https://www.dailymotion.com/video/x7xejon) | 1:30 | resubido, logo HBO Max | [0:16 las tazas](https://www.dailymotion.com/video/x7xejon?t=16), [0:36 flota tocando al Reino de Cristal](https://www.dailymotion.com/video/x7xejon?t=36), [1:08 bajo al hombro](https://www.dailymotion.com/video/x7xejon?t=68) |
+| [Créditos finales](https://www.dailymotion.com/video/x4fakxm) | 0:33 | resubido, logos reales | staff y fondo verde lima (§2.9) |
+| [Tráiler de «BMO» (Tierras lejanas), en español](https://www.dailymotion.com/video/x7vjn4d) | 1:54 | HobbyConsolas | tráiler oficial doblado ⚠️ (identificado, sin mirar a fondo) |
+| [Tráiler de «Fionna & Cake»](https://www.dailymotion.com/video/x8nce5e) | 2:05 | HobbyConsolas | 720p; no sale la Marceline clásica |
+| [Piloto subtitulado](https://www.dailymotion.com/video/x84oaz2) | 7:30 | Capra TV | [4:05 Rey Helado](https://www.dailymotion.com/video/x84oaz2?t=245), [6:00 Finn avergonzado](https://www.dailymotion.com/video/x84oaz2?t=360) |
+| Clips de la parte de voz | — | con logo de CN | [«Jake the Starchild» 1:39](https://www.dailymotion.com/video/x6gkz32?t=99), [«Slumber Party Panic» 2:12](https://www.dailymotion.com/video/x8ghhnc?t=132), [«The More You Moe…» 2:36](https://www.dailymotion.com/video/x3q931u?t=156) |
 
 ### 12.1 Oficiales (Cartoon Network)
 
@@ -1186,19 +1557,27 @@ de aventura!»
 
 ### 12.3 TikTok (tendencias y actores)
 
+Los cuatro con enlace de abajo se comprobaron en la **API oEmbed de
+TikTok** (título y autor reales) ✅. Las vistas no se pueden contar
+desde aquí ⚠️.
+
 - «**Everything Stays**» es **viral en TikTok**: versiones, mezclas con
   «Drift Away» de Steven Universe y dúos de hermanos ✅
   ([búsqueda de TikTok](https://www.tiktok.com/discover/everything-stays-adventure-time-full)).
 - **Rebecca Sugar** tiene TikTok y subió «Everything Stays»:
   [vídeo](https://www.tiktok.com/@rebeccasugar/video/7380076323168996650) ✅.
 - **Evanescence (Amy Lee)** hizo su versión:
-  [vídeo](https://www.tiktok.com/@evanescence/video/7008939931548568837) ✅.
+  [vídeo](https://www.tiktok.com/@evanescence/video/7008939931548568837)
+  ✅ («One of my favorite #adventuretime songs ❤️❤️❤️ #everythingstays
+  #marceline»).
 - Isabel Martiñón en la Expomac de Veracruz:
   [vídeo](https://www.tiktok.com/@rebecavirgen/video/7434952138339536184).
 - Entrevista a Karla Falcón (Dulce Princesa) en Festigame 2024:
   [vídeo](https://www.tiktok.com/@eldiariodelalquimista/video/7440244073505623352).
 - «¿Por qué cambió la voz de Jake?»:
-  [vídeo](https://www.tiktok.com/@acubick/video/7206541052713438469).
+  [vídeo](https://www.tiktok.com/@acubick/video/7206541052713438469)
+  («Por qué Jake el perro cambio de voz en las últimas temporadas de
+  #horadeaventura? doblaje: José Arenas») ✅.
 
 ### 12.4 Análisis
 
@@ -1209,14 +1588,27 @@ de aventura!»
 
 ---
 
-## 13 · Videojuegos de la franquicia ⚠️
+## 13 · Videojuegos de la franquicia
 
-Ver §7.3. Lo único confirmado: existen (WayForward 2012, 2014, Climax
-2018) y el de 2012 tiene **más de 50 personajes** de las temporadas 1-3
+Interfaz y retratos: ver §7.3 (la hoja «Mugshots» de DS y el menú de
+«Card Wars», vistos). Lista (segunda pasada):
+
+| Juego | Estudio, año, consola | Cómo se juega | Estado |
+|---|---|---|---|
+| **Hey Ice King! Why'd You Steal Our Garbage?!!** | WayForward (D3/Bandai Namco), **20-nov-2012**, DS y 3DS | historia escrita por **Pendleton Ward** con WayForward; mapa desde arriba y mazmorras de lado, como *Zelda II*; Finn y Jake a la vez (Jake en la mochila saca objetos); 4 zonas: Grass Lands, Candy Kingdom, Red Rock Pass, Ice Kingdom | ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Hey_Ice_King!_Why%27d_You_Steal_Our_Garbage%3F!!), [Giant Bomb](https://giantbomb.com/wiki/Games/Adventure_Time_Hey_Ice_King_Whyd_you_steal_our_garbage), [Nintendo Life](https://www.nintendolife.com/reviews/ds/adventure_time_hey_ice_king_whyd_you_steal_our_garbage)) |
+| **Explore the Dungeon Because I Don't Know!** | WayForward, 2013, PS3, Xbox 360, Wii U, 3DS | mazmorras en cooperativo, hasta 4 | ⚠️ ([Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Explore_the_Dungeon_Because_I_Don%27t_Know!)) |
+| **The Secret of the Nameless Kingdom** | WayForward, 2014 | tipo Zelda | ✅ |
+| **Pirates of the Enchiridion** | Climax Studios, 2018 | aventura | ✅ |
+| **Card Wars** | Kung Fu Factory / CN, 2014, iOS y Android; retirado en dic-2019 | cartas; Finn, Jake, BMO, Princesa, Marceline y Flama Princesa jugables | ✅ ([Adventure Time Wiki](https://adventuretime.fandom.com/wiki/Card_Wars_(application))) |
+| **Card Wars Kingdom** | secuela móvil | cartas | ⚠️ (sólo tiendas de APK) |
+| Apariciones en otros juegos | Fortnite, MultiVersus, LEGO Dimensions, Minecraft, Brawlhalla | ver §F | ✅ |
+
+Lo de la primera pasada: el de 2012 tiene **más de 50 personajes** de las temporadas 1-3
 y lugares como el Dulce Reino, el Reino Helado, el Espacio Grumoso y la
 casa del árbol ✅ ([Gaming Nexus](https://www.gamingnexus.com/Article/Adventure-Time-Hey-Ice-King!--Whyd-you-steal-our-garbage!!/Item3804.aspx),
 [Mash Those Buttons](https://mashthosebuttons.com/review/adventure-time-hey-ice-king-whyd-you-steal-our-garbage-review/)).
-**No sé cómo son sus cajas de diálogo.** No los propongo como cuadro.
+**La caja de diálogo** de los juegos sigue sin captura ⚠️ (sí los
+retratos de DS y el menú de Card Wars). No los propongo como cuadro.
 También existe **Card Wars** (el juego de cartas del episodio, hecho
 juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 
@@ -1226,11 +1618,13 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 
 ### 14.1 Lo que todos reconocen
 
-- «**¿Qué hora es? ¡Hora de aventura!**» ⚠️ (la frase del opening).
+- «**¿Qué hora es? ¡Hora de aventura!**» ⚠️ (es la letra del opening, no
+  un diálogo; no se encontró como frase exacta de un capítulo doblado).
 - «**¡Matemático!**» y «**¡Algebraico!**» ✅.
 - «**Bacon Pancakes**» de Jake ✅ (4×16).
-- «**Papi, ¿por qué te comiste mis papas?**»: la **Canción de las papas**
-  ✅ (título latino confirmado; la letra exacta en latino ⚠️).
+- «**Papi, te comiste mis papas**»: la **Canción de las papas** ✅ (así se
+  llama la pista 6 del disco en español, MusicBrainz + Facebook de CN
+  Latinoamérica; la letra entera en latino ⚠️).
 - **«I Remember You»**: el episodio que hace llorar; Marceline y Simón ✅.
 - **«Bubbline»**: la pareja Marceline y Dulce Princesa, **hecha oficial**
   con el beso del final (10×13, ≈33:30) ✅.
@@ -1238,7 +1632,18 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 - **«Everything Stays»** en TikTok ✅.
 - El **bajo-hacha**: los fans lo **construyen de verdad** y lo modelan en
   3D ✅ (§3.5, §4.1).
-- **«Oh my Glob»** (Princesa Grumosa) ⚠️ en latino.
+- «**¡Oh por Glob!**» de la **Princesa Grumosa**: así se dice en latino ✅
+  (§10.4).
+- **La campaña por Karla Falcón**: los fans firmaron peticiones, hicieron
+  un grupo de Facebook y se quejaron en foros hasta que **volvió a doblar
+  a la Dulce Princesa** (T4, ep. 96) ✅ (§E). Para un servidor de doblaje,
+  es el dato de oro: **el público latino defendió a su actriz**.
+- **Bubbline, reconocida**: «Obsidian» fue **nominado a un GLAAD Media
+  Award** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Marceline_the_Vampire_Queen)).
+  Es el hito de representación LGBTQ+ más citado de la serie.
+- **BMO es el favorito del creador** ✅ (§9).
+- La serie **sin censura** en Canal 2 (El Salvador) y Canal 5 (México):
+  los fans comparan versiones ✅ (Doblaje Wiki).
 
 ### 14.2 Qué NO hacer (lo que un fan notaría)
 
@@ -1263,15 +1668,66 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 - **Burbuja blanca genérica** (§7).
 - Frases del doblaje **inventadas y presentadas como reales**: si la
   frase es mía, no se atribuye al doblaje.
+- **Piel de Marceline gris oscuro** o azulada: en el color plano es casi
+  blanca, **`#D8E7E7`** ✅ (§5.3). Y el **pelo negro puro**, no azulado.
+- **Cambiar la voz o el nombre latino** de un personaje: el fandom se
+  organizó para recuperar una voz (§E); con Finn y Marceline, que nunca
+  cambiaron, es aún más sensible.
+- Usar la **fuente de fans del logo** para texto en español: no trae
+  bien ñ ni ¿ en Windows (§6.1).
 
 ---
 
 ## 15 · Poses analizadas por personaje
 
-> Sin fotogramas descargados. Las poses salen de las **acotaciones de las
-> transcripciones** ✅ (qué hace) con **minuto estimado** ⚠️ (dónde
-> mirar). La mano, la mirada y el gesto que añado son **descripción mía
-> de memoria** ⚠️: comprobar en el fotograma.
+> **Segunda pasada**: primero van las poses **vistas en vídeo** (15.0),
+> con minuto exacto y enlace. Las tablas de debajo son de la primera
+> pasada: salen de las **acotaciones de las transcripciones** ✅ (qué
+> hace) con **minuto estimado** ⚠️; la mano, la mirada y el gesto son de
+> memoria ⚠️. Las de «Henchman», «Marceline's Closet» y «Slow Dance With
+> You» **no tienen clip real** (buscadas en Dailymotion).
+
+### 15.0 Vistas en vídeo, con minuto exacto ✅
+
+**Marceline** (12 poses, 4 clips):
+
+| # | Clip | Minuto | Qué hace | Sirve para |
+|---|---|---|---|---|
+| V1 | «Fry Song» | [0:00](https://www.dailymotion.com/video/x51arca?t=0) | flota **bocabajo tocando el bajo**, de espaldas a cámara | presentar el «estreno casero» |
+| V2 | «Fry Song» | [0:32](https://www.dailymotion.com/video/x51arca?t=32) | primer plano, **ojos entornados, boca abierta**, canta triste | emocionar |
+| V3 | «I'm Just Your Problem» | [0:16](https://www.dailymotion.com/video/x537pqr?t=16) | vuela hacia la puerta con **el bajo por delante** y sombrero | **anunciar**, entrar en escena |
+| V4 | «I'm Just Your Problem» | [0:52](https://www.dailymotion.com/video/x537pqr?t=52) | **ceño fruncido, colmillos**, canta con fuerza | **regañar** |
+| V5 | «I'm Just Your Problem» | [1:32](https://www.dailymotion.com/video/x537pqr?t=92) | apoyada en la puerta, **toca relajada** con el sombrero | pensar, calma |
+| V6 | «I Remember You» | [0:24](https://www.dailymotion.com/video/xzt1l7?t=24) | de pie, **mano en la cabeza**, angustia | **pensar**, dolor |
+| V7 | «I Remember You» | [1:00](https://www.dailymotion.com/video/xzt1l7?t=60) | sentada, **toca el bajo seria** con el Rey Helado en la batería | tocar en dúo |
+| V8 | tráiler «Obsidian» | [0:16](https://www.dailymotion.com/video/x7xejon?t=16) | sentada en la cocina, **taza humeante** con la Princesa | conversar |
+| V9 | tráiler «Obsidian» | [0:20](https://www.dailymotion.com/video/x7xejon?t=20) | sentada, **toca el bajo**, la Princesa cocina detrás | tocar en casa, **explicar** |
+| V10 | tráiler «Obsidian» | [0:36](https://www.dailymotion.com/video/x7xejon?t=36) | **flota tocando** sobre un camino de piedra al Reino de Cristal | **avanzar**, presentar (la mejor nueva) |
+| V11 | tráiler «Obsidian» | [1:08](https://www.dailymotion.com/video/x7xejon?t=68) | de pie, **bajo al hombro**, con la Princesa y dos figuras de cristal | **celebrar**, grupo |
+| V12 | tráiler «Obsidian» | [1:24](https://www.dailymotion.com/video/x7xejon?t=84) | primer plano, **shock** | susto |
+
+Y en arte oficial (hoja 1): **#36** de pie tocando en el huerto, **un
+ojo guiñado** (la mejor «con su instrumento»); **#20** con sombrero,
+guantes y botas; **#1** caminando en 4 poses.
+
+**Los demás** (vistos):
+
+| Personaje | Clip · minuto | Qué hace |
+|---|---|---|
+| Finn | «Fry Song» · [0:40](https://www.dailymotion.com/video/x51arca?t=40) | de pie, **audífonos**, levanta la grabadora |
+| Finn | piloto · [6:00](https://www.dailymotion.com/video/x84oaz2?t=360) | vergüenza, mejillas rosas |
+| Jake | «I'm Just Your Problem» · [0:04](https://www.dailymotion.com/video/x537pqr?t=4) | **corre tocando la viola** |
+| Jake | «Jake the Starchild» · [1:39](https://www.dailymotion.com/video/x6gkz32?t=99) | sonrisa enorme de orgullo |
+| Dulce Princesa | tráiler «Obsidian» · [0:16](https://www.dailymotion.com/video/x7xejon?t=16) | **taza humeante**, sentada a la mesa |
+| Dulce Princesa | tráiler «Obsidian» · 1:12 | **conduce una moto** con Marceline detrás |
+| Dulce Princesa | «I'm Just Your Problem» · [0:00](https://www.dailymotion.com/video/x537pqr?t=0) | sostiene el **aparato verde** de sonido junto a BMO |
+| Rey Helado | «I Remember You» · [0:42](https://www.dailymotion.com/video/xzt1l7?t=42) | toca **la batería verde con «#1»** |
+| BMO | «The More You Moe…» · [2:36](https://www.dailymotion.com/video/x3q931u?t=156) | contento, en brazos de su creador |
+
+**Cuántas por personaje**: Marceline tiene **12 vistas** (más 13 de
+transcripción); Finn, Jake y la Princesa **2-3 vistas** cada uno, BMO
+**1**. Para ellos, el resto son las tablas de abajo, con minuto estimado
+⚠️.
 
 ### Marceline
 
@@ -1291,9 +1747,10 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 | 12 | «Obsidian», ≈18:47 | **se echa el bajo al hombro**: «Next up…» | **animar**, pasar a lo siguiente |
 | 13 | «Obsidian», ≈33:37 | ojos rojos, **se vuelve murciélago**: «MY BASS!» | **regañar fuerte** (usar poco) |
 
-**La mejor para presentar el canal**: la 10 (escenario) o la 6
-(grabando). **Para la regla «nada de vida personal»**: la 4 (guiño
-burlón) o la 11 (desgana).
+**La mejor para presentar el canal**: la **V10** (flota tocando, vista en
+1080p), la 10 (escenario, sin clip) o la 6 (grabando; vista como V1).
+**Para la regla «nada de vida personal»**: la 4 (guiño burlón) o la 11
+(desgana). **Para regañar**: V4. **Para pensar**: V6.
 
 ### Finn
 

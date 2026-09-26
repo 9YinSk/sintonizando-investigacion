@@ -82,3 +82,297 @@ La biblia actual dice «Luis Pérez Pons: temporadas 1 a mitad de la 6, y 9 a
   Viacom/Paramount por época en el infobox, y el texto dice que la serie se
   graba en Venezuela desde finales de 1999 ✅ ([Doblaje Wiki: ficha de la
   serie](https://doblaje.fandom.com/es/wiki/Bob_Esponja)).
+
+### Punto 12 · Memes confirmados con fuente (la biblia los tenía «de memoria»)
+
+Todos con la ficha completa de **Bob Esponja Wiki: Lista de memes**
+([wikitext vía API](https://bobesponja.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=Lista_de_memes)),
+que cita el episodio y a veces el año en que se volvió viral. Antes la
+biblia los daba con ⚠️ «de memoria»; ahora ✅:
+
+- **«Bob Esponja burlón» / mayúsculas alternas**: **no está** en la lista de
+  memes de esta wiki latina (v. Bitácora); sigue con ⚠️ una sola fuente de
+  memoria del equipo.
+- **Bob Esponja Prehistórico (el «Spongegar»)** ✅: de «SB-129» (Bob Esponja
+  y Patricio primitivos, electrocutados por una medusa, cara de sorpresa).
+  Se volvió meme **en mayo de 2016**; hay un huevo de pascua suyo pintado
+  como arte rupestre en el juego *SpongeBob SquarePants: Battle for Bikini
+  Bottom – Rehydrated*.
+- **Bob Esponja emo** ✅: nació como **dibujo de fan** (DeviantArt, usuario
+  kez-the-emo-lord, 2007) dentro de una página del libro oficial *I Ripped
+  My Pants!*; se hizo viral en vídeos de YouTube 2008-2009 y hoy se usa de
+  forma irónica.
+- **Patricio sorprendido / deslumbrado** ✅: fotograma de *Bob Esponja: la
+  película* (2004), boca abierta. Nickelodeon lo reutiliza oficialmente en
+  videojuegos (*Battle for Bikini Bottom: Rehydrated*, *Nickelodeon Lanes*)
+  y hasta en una figura de juguete.
+- **«¡No! ¡Es Patricio!»** ✅: de «Perdedor Rosado» (*Big Pink Loser*).
+  Patricio contesta el teléfono del Crustáceo y dice esa frase; la wiki lo
+  compara con el meme «¡Esto es Esparta!» de *300* por lo parecido del
+  formato.
+- **«¡Máxima Potencia!»** ✅: escena del **Vídeo de Entrenamiento del
+  Crustáceo Cascarudo** (el mismo vídeo institucional del Crustáceo que ya
+  cita la biblia en §1 y §7): Plankton intenta escapar montado en una
+  Cangreburguer diciendo «¡No cuando cambio a máxima velocidad!». Se sigue
+  usando en vídeos de creadores como SMG4. **Es el meme más pegado al canal**:
+  nace de un vídeo «institucional» de precios y entrenamiento, como pediría
+  una lámina de ofertas.
+- **Imaginación (el arcoíris de manos)** ✅: de «La Caja de los Bobos»
+  (*Frankendoodle*/relacionado); Bob Esponja extiende las manos formando un
+  arcoíris y dice «¡Ima-gin-ación!» para explicarle algo a Calamardo. Sirve
+  de plantilla de meme para «explicar algo mágico o absurdo».
+- **Calamardo Guapo** ✅ (ya la tenía la biblia, se confirma también aquí:
+  «Las Dos Caras de Calamardo»).
+- **«Hola, me gusta el dinero»** ✅ (ya la tenía la biblia; confirmado
+  también en esta lista de memes, entrada propia).
+- **«¿La mayonesa es un instrumento?»** ✅ (ya la tenía la biblia; entrada
+  propia en la lista de memes, de «Band Geeks»/«Músicos Frustrados»).
+
+### Punto 12 · Qué NO hacer (ampliación con fuente)
+
+- **No** poner a Bob Esponja con la cara «burlona» de mayúsculas alternas
+  sin comprobar antes si el canal la usa: es un meme global (de otro
+  fandom, «Mocking Spongebob») y **no aparece** en la wiki latina de memes;
+  mejor usar uno de los confirmados arriba.
+- El meme más fiel al tono de #ofertas-y-gratis es el del **Vídeo de
+  Entrenamiento** («¡Máxima Potencia!»): un cartel o pantalla institucional
+  del propio Crustáceo, no una foto suelta de reacción.
+
+---
+
+### Punto 13 · Su cara en cada emoción (fotograma y minuto, vistos de verdad)
+
+Vi las hojas de contacto que ya había sacado el investigador de vídeo (no
+repetí la descarga: `/tmp/…/15-spongebob-video/hojas_*`, con `Read` directo
+sobre los JPEG). Cada hoja numera el segundo exacto.
+
+**Don Cangrejo** (episodio «Born Again Krabs» / «Renacido», hoja
+`hojas_bornagain_overview/hoja_01.jpg` y `hoja_02.jpg`):
+- **Miedo**: min. 0:30-0:50, temblando en el congelador, ojos como platos,
+  antenas rígidas, imaginando que se muere ✅ (visto).
+- **Alegría/generosidad boba** (poseído por su propio fantasma bueno): min.
+  6:33-7:17 (hoja `hojas_bornagain_zoom/hoja_01.jpg`), sonrisa ancha,
+  regala comida bajo el cartel «Live for Today», abraza a Calamardo ✅
+  (visto).
+- **Shock/terror económico**: min. 7:27-7:29, boca abierta, ojos fuera,
+  mirando la cuenta «BILL $10.000» ✅ (visto). Es la cara perfecta para «se
+  le pasó gratis sin querer», el chiste contrario al canal.
+- **Rabia posesiva** (fantasma verde furioso, dientes afilados, ceño):
+  min. 8:50-9:40 ✅ (visto).
+
+**Calamardo** (mismo episodio, hoja `hoja_01.jpg`, min. 6:39-7:15):
+- **Fastidio/hastío** con los ojos entrecerrados y los brazos caídos,
+  escuchando a Don Cangrejo generoso sin entender qué pasa ✅ (visto).
+- **Llanto/cara desecha**: en «La Torta o la Vida» / *Dying for Pie*
+  (hoja `hojas_dyingforpie/hoja_01.jpg`), min. 0:36-0:39, ojos rojos e
+  inyectados, boca abierta en grito mudo, temblando, al creer que va a
+  «perderse la explosión» de Bob Esponja ✅ (visto). Termina abrazado a Bob
+  Esponja con el libro «Friends 4-Ever», sonriendo avergonzado, min.
+  0:51-1:00 ✅ (visto).
+
+**Bob Esponja** (mismo episodio, min. 9:50, hoja `hoja_02.jpg`):
+- **Susto genuino** con lágrima asomando y boca en «o», al ver algo que no
+  entiende del todo ✅ (visto).
+
+**Patricio** (tráiler de *Sponge Out of Water*, 2015, hoja
+`hojas_trailer/hoja_02.jpg`):
+- **Enfado/indignación**: min. 1:15-1:16, cejas fruncidas muy abajo, boca
+  en línea recta apretada, señalando ✅ (visto).
+- **Asco**: min. 1:16, ojos entornados, boca torcida hacia un lado ✅
+  (visto).
+- **Euforia/celebración musculosa** (versión de juguete gigante de la
+  película): min. 2:10-2:16, puños en alto, boca abierta gritando ✅
+  (visto).
+
+**No pude ver** la cara de Calamardo tocando bien el clarinete al final de
+«¿Navidad, quién?» (*Christmas Who?*) —el clip que bajó el investigador de
+vídeo es **el segmento en imagen real del pirata**, no la escena animada
+final—, ni la cara de Plankton con miedo a las ballenas (cetafobia, de
+«One Coarse Meal»): ninguno de los dos estaba entre los clips ya bajados y
+no abrí YouTube de nuevo para no gastar cupo. Quedan con ⚠️, descritos por
+texto de wiki en el punto 20.
+
+### Punto 13 · Arco, momentos clave y dinámicas (lo que faltaba)
+
+- **Don Cangrejo, arco de personaje**: no cambia de un episodio a otro (es
+  un personaje de sitcom, vuelve siempre a la tacañería), pero **el
+  episodio que mejor lo explica es «Born Again Krabs»/«Renacido»**: cree
+  que ha muerto, un fantasma bueno lo posee y se vuelve generoso feliz
+  (min. 6:33-7:17), y cuando vuelve a ser él mismo, ver una cuenta de
+  $10.000 lo destroza (min. 7:27) ✅ (visto, mismos fotogramas de arriba).
+  Es EL episodio para entender por qué «dar gratis» le cuesta un mundo.
+- **Quién lo hace reír / con quién discute**: Don Cangrejo se ríe con el
+  sonido de las monedas, no con chistes; discute todo el tiempo con
+  **Plankton** (rivalidad de toda la vida) y regaña a **Calamardo** por
+  vago; a **Bob Esponja** lo trata casi como un hijo torpe pero querido
+  ✅ ([Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Eugene_H._Krabs)).
+- **Calamardo, arco**: en «La Torta o la Vida» pasa de creer que Bob
+  Esponja va a morir (y alegrarse en secreto) a un remordimiento real
+  cuando cree haberlo matado sin querer; el final revela que era un plan
+  para asustarlo, no matarlo, y ambos se ríen ✅ (visto, fotogramas
+  arriba). Es su episodio más citado por los fans para explicar su
+  relación de «odio-cariño» con Bob Esponja.
+- **Dinámica que sirve para láminas en grupo**: Don Cangrejo cuenta el
+  dinero → Calamardo pone los ojos en blanco → Bob Esponja sonríe sin
+  entender el sarcasmo → Patricio pregunta algo fuera de lugar ✅ (patrón
+  repetido en varios episodios, según lo visto en las hojas y en §8 de la
+  biblia).
+
+---
+
+### Punto 20 · Gustos y detalles de cada personaje (faltaba entero)
+
+Fuente principal: el **wikitext completo** de cada ficha de personaje en
+**Encyclopedia SpongeBobia** (la wiki en inglés, la más completa; descargado
+ya por `recolectar.py` en `datos-voz.md` como JSON, `parse&prop=wikitext`).
+La mayoría de fechas de nacimiento citan a su vez el libro oficial
+**_SpongeBob SquarePants Annual 2014_** (Egmont Group): cuenta como fuente
+✅ dos niveles (el libro oficial, citado por la wiki), salvo que diga lo
+contrario.
+
+**Don Cangrejo (Eugene H. Krabs)**
+- **Cumpleaños**: 30 de noviembre de 1942 **o** 25 de septiembre de 1960
+  (la propia serie se contradice en dos episodios, «Sleepy Time»/«End of
+  Summer Daze» contra «Mall Girl Pearl») ⚠️ dato contradictorio, ambas
+  fechas salen en pantalla.
+- **Horóscopo**: Sagitario (*Annual 2014*) ✅.
+- **Odia**: el golf, que le llamen por su nombre de pila («Eugene»), la
+  palabra «overtime» (le da urticaria) ✅.
+- **Miedos**: pavor a los **mimos** («One Coarse Meal») y a los «robots que
+  toman el control» ✅.
+- **Le hace daño**: la sal en los ojos, aunque es un crustáceo de agua
+  salada (chiste recurrente) ✅.
+- **A quién ama**: a su hija **Perla** más que al dinero, y en secreto a la
+  **Sra. Puff** (le compró una cita de $100.000 sólo por ella) ✅.
+- **Se conocieron de bebés**: él y **Plankton** nacieron el mismo día y se
+  conocieron en la guardería, antes de ser rivales ✅.
+
+**Bob Esponja**
+- **Cumpleaños**: 14 de julio de 1986, según su licencia de conducir
+  («Sleepy Time») ✅.
+- **Comida favorita**: la Cangreburguer (confirmado en la revista/encuesta
+  *Simple-Ton* del episodio «You Don't Know Sponge») ✅.
+- **Sabor de helado favorito**: vainilla simple ✅.
+- **Color favorito**: beige ✅.
+- **Día festivo favorito**: el Día de los Inocentes (1 de abril) ✅.
+- **Aficiones**: pescar medusas y hacer burbujas con Patricio; también
+  limpiar (usa su propio cuerpo de esponja) ✅.
+- **Le tiene miedo a**: la oscuridad y a los payasos ✅.
+- **Odia**: la salsa picante «Volcano Sauce» ✅.
+- **Alergias**: a los tulipanes ✅.
+- **Manía**: guarda basura en su casa por nostalgia (frascos de grasa de
+  parrilla, su propio sudor) ✅.
+- **El objeto que siempre lleva**: a su caracol **Gary**, su mascota, y
+  vive con él en la piña de Calle Conchas 124 ✅.
+
+**Calamardo**
+- **Cumpleaños**: 9 de octubre, que además es el «Día de Leif Erikson»,
+  chiste que la propia serie menciona («Bubble Buddy») ✅.
+- **Comida favorita**: el helado (revelado en «The Fish Bowl») ✅, con la
+  ironía de que **en secreto ama las Cangreburguers** («Sweet and Sour
+  Squid»: come tantas que se hincha) ✅.
+- **Aficiones**: pintar autorretratos y tocar el **clarinete**, aunque casi
+  no tiene talento para ninguna de las dos ✅. Al final de «¿Navidad,
+  quién?» toca el clarinete que le talló Bob Esponja **realmente bien**,
+  su único triunfo musical del programa ✅ (texto de wiki; no lo vi en
+  vídeo, ver punto 13).
+- **Miedo**: a las alturas (acrofobia, «Are You Happy Now?») ✅.
+- **Alergias**: a la baba de caracol, a las moras de mar («seaberries»), a
+  las nueces y a las mascotas en general (estornuda con todas) ✅.
+- **Cómo se ve a sí mismo**: un artista incomprendido «de vocación», atado
+  a un trabajo de cajero que odia por pura mala suerte ✅.
+
+**Patricio**
+- **Cumpleaños**: 17 de agosto ✅.
+- **Horóscopo**: Leo, cuatro días después que Plankton ✅.
+- **Sabor de helado favorito**: «Dill Pickle Swirl» (remolino de pepinillo
+  encurtido) con mostaza y trocitos de tocino ✅ — el gusto más raro de
+  toda la serie, bueno para un gag de «oferta rara que nadie compra».
+  Además, en el episodio se revela mientras hace un test de mejor amigo
+  llamado justo «You Don't Know Sponge» (No conoces a la Esponja).
+- **Serie de televisión favorita**: *Las Aventuras del Hombre Medusa y
+  Chico Percebe* (su ídolo) ✅.
+- **Color favorito**: aguamarina ✅.
+- **Aficiones**: hacer burbujas y pescar medusas con Bob Esponja; toca la
+  **batería** en la banda «SpongeBob & the Hi-Seas» ✅.
+- **Miedo**: a las arañas de mar (fobia puntual, «Pretty Patties»/otros
+  episodios; en «Ink Lemonade» no le teme, es inconsistente) ⚠️ una sola
+  fuente, con la propia wiki avisando de la inconsistencia.
+- **El objeto que siempre lleva**: nada, ni ropa (sólo un short verde con
+  flores moradas); vive bajo su roca, sin muebles.
+
+**Plankton**
+- **Cumpleaños**: el mismo día que Don Cangrejo (30 nov. 1942 o 25 sept.
+  1960, según el episodio), aunque el creador Stephen Hillenburg había
+  planeado originalmente el **21 de agosto de 1961** (su propio
+  cumpleaños), documentado en la biblia de producción de 1997 (filtrada en
+  Scribd) ✅ dos fuentes (wiki + documento de producción enlazado).
+- **Horóscopo**: Leo, como Patricio ✅.
+- **Miedo**: **cetafobia**, terror a las ballenas, porque una manada se
+  comió a sus ancestros («One Coarse Meal»); tan fuerte que intenta
+  suicidarse del susto ✅. Por eso al principio le teme a **Perla** (la
+  hija ballena de Don Cangrejo) ✅.
+- **A quién ama**: a su esposa **Karen** (la computadora) ✅.
+- **El objeto que siempre lleva**: su cuerpo diminuto de un solo ojo no
+  necesita nada más; su «arma» constante es algún invento nuevo para robar
+  la fórmula.
+- **Cómo se ve a sí mismo**: un genio incomprendido y un villano de tiempo
+  completo, nunca como el «malo» real.
+
+**Arenita** (con `Sandy_Cheeks.json`)
+- **Cumpleaños**: 17 de noviembre; nació **gemela** de su hermano Randy,
+  en Houston (Texas) ✅.
+- **Horóscopo**: Escorpio ✅.
+- **Apodo**: «Big Cheeks» (Mejillas Grandes) ✅.
+- **Aficiones**: deportes extremos, kárate (comparte con Bob Esponja),
+  ciencia (es científica y astronauta), tocar la guitarra y cantar ✅.
+- **Curiosidad al revés**: es alérgica **al agua de mar** (no puede
+  respirarla, es una ardilla) ✅.
+- **Cómo se ve a sí misma**: una científica y deportista de Texas orgullosa
+  de sus raíces, «rodéalos con cariño» le enseñó su madre sobre el kárate.
+
+---
+
+### Punto 21 · Por qué la gente la ama (faltaba entero)
+
+**Datos de éxito y premios** ✅ dos fuentes ([Wikipedia en español: Anexo de
+premios y nominaciones](https://es.wikipedia.org/wiki/Anexo:Premios_y_nominaciones_recibidos_por_Bob_Esponja),
+[Excélsior sobre el récord Guinness 2023](https://www.excelsior.com.mx/funcion/chorros-de-slime-y-record-guinness/1605431)):
+- **27 nominaciones al Emmy, con 6 victorias.**
+- **20 Kids' Choice Awards**, y por eso tiene el **récord Guinness** al
+  personaje animado con más premios ganados en los Kids' Choice Awards.
+- **6 premios Annie**, **8 Golden Reel** y **2 BAFTA infantiles**.
+- Según *Networth Area*/varias fuentes de negocio, la franquicia generó
+  **más de 13.000 millones de dólares en merchandising** hacia 2019, y es
+  la serie con el rating más alto en la historia de Nickelodeon ⚠️ una
+  fuente de negocios, cifra repetida en varios medios pero sin verificarla
+  yo en un reporte financiero oficial.
+
+**Con qué personaje se identifica el público, y por qué**
+- **Calamardo = los adultos con trabajos que odian.** Ya lo tenía la
+  biblia (§8, con fuentes de Medium y The Odyssey); se confirma también en
+  Reddit: hilos recurrentes «Best Episode for Characterization» del
+  subreddit r/spongebob sobre él siguen activos y con decenas de votos ✅
+  ([r/spongebob](https://www.reddit.com/r/spongebob/), vía Arctic Shift,
+  búsqueda «favorite character»).
+- **Patricio = el amigo que no juzga, que acompaña sin pensarlo dos
+  veces.** Es el personaje más votado en encuestas de fans (Ranker, ya en
+  §9 de la biblia).
+- **Don Cangrejo = el jefe tacaño que todo el mundo ha tenido.** Encaja
+  perfecto con el tono de dinero de #ofertas-y-gratis.
+
+**Escenas que hacen llorar (con capítulo, qué pasa y por qué)**
+
+| Escena | Capítulo | Qué pasa | Por qué duele | Fuente |
+|---|---|---|---|---|
+| Calamardo cree que mató a Bob Esponja sin querer | «La Torta o la Vida» (*Dying for Pie*), min. 0:36-1:00 de la copia bajada (§13, visto) | Calamardo, seguro de que la «bomba-pastel» va a explotar, cuenta los segundos llorando de los nervios; cuando no explota nada, se derrumba de alivio y termina abrazado a Bob Esponja con el libro «Friends 4-Ever» | Es el episodio que más citan los fans para explicar que, bajo el fastidio, **Calamardo sí quiere a Bob Esponja**; el giro (no hay explosión real) convierte el miedo en ternura | ✅ visto (fotogramas propios) + [Encyclopedia SpongeBobia: Dying for Pie](https://spongebob.fandom.com/wiki/Dying_for_Pie) |
+| Gary se escapa de casa | «¿Has Visto a Este Caracol?» (*Have You Seen This Snail?*) | Bob Esponja, tan metido en un reto de paleta con pelota que olvida alimentar a Gary, lo pierde; sale a buscarlo con un montaje musical, la canción **«Gary Come Home»**, la más triste de la serie según varios rankings de fans | Toca la culpa de descuidar a una mascota sin querer; el montaje (no la trama) es lo que hace llorar | ✅ dos fuentes: [WatchMojo: Top 10 Saddest SpongeBob SquarePants Moments](https://www.watchmojo.com/articles/top-10-saddest-spongebob-squarepants-moments), menciones repetidas en TikTok con la etiqueta «Gary Come Home» |
+| Calamardo toca bien el clarinete, una sola vez | «¿Navidad, quién?» (*Christmas Who?*), final | Bob Esponja le regala un clarinete nuevo tallado a mano; Calamardo, que lleva todo el programa tocando mal, por fin suena precioso | Es su único triunfo artístico real de toda la serie, y llega por generosidad de alguien a quien trata mal | ⚠️ sólo wiki (no lo vi en vídeo: el clip bajado por vídeo era el segmento en imagen real, no la escena animada final; ver §13) |
+| SpongeBob se hace «adulto» y luego llora por volver a ser niño | citado en WatchMojo (sin título exacto verificado por mí) | Los vecinos se burlan de él por seguir actuando como niño; crece de golpe, pero la vida adulta no le gusta y hace una rabieta pidiendo volver a ser bebé | Habla del miedo a crecer, muy comentado por espectadores que vieron la serie de niños y la revén de adultos | ⚠️ un solo resumen (WatchMojo), episodio exacto sin confirmar por mí con dos fuentes |
+
+**No encontré** (busqué en inglés y español) una encuesta académica o de
+medios que pregunte directamente «por qué amas Bob Esponja»: lo que hay son
+listas de «momentos tristes» y artículos de opinión (Medium, The Odyssey,
+ya citados) que explican el porqué caso por caso, no una sola cifra.
+
+---
