@@ -850,3 +850,39 @@ Al no haber doblaje latino, la comunidad se lo está haciendo. Es el gancho de e
 - *Cyberpunk: Edgerunners* (27) comparte neón nocturno. Aquí el neón es morado y rosa, y el rojo lo pone la interfaz. ⚠️ Comparación nuestra.
 - *Sword Art Online* (85) ya menciona el cruce con Persona 5 Royal.
 
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** ([wiki, Palace](https://megamitensei.fandom.com/wiki/Palace)) ✅
+1. Existe el **Metaverso**, un mundo hecho de lo que la gente piensa y desea.
+2. Una persona muy corrupta tiene sin saberlo un **Palacio**: sus vicios hechos edificio.
+3. Dentro está el **Tesoro**, su deseo corrupto. Si se roba, el dueño confiesa en la vida real.
+4. Lo que piensa la gente normal se junta en **Mementos**, un metro infinito.
+5. Se entra con la app **Metaverse Navigator**: nombre completo, papel, lugar y forma del Palacio.
+
+**La historia por arcos**, con la fecha límite de cada golpe ✅
+| Arco | Palacio | Qué es | Fecha límite |
+|---|---|---|---|
+| 1 | Kamoshida | Castillo; profesor de gimnasia que abusa | 29 de abril |
+| 2 | Madarame | Museo; pintor que roba a sus alumnos | 31 de mayo |
+| 3 | Kaneshiro | Banco; yakuza que extorsiona a estudiantes | 6 de julio |
+| 4 | Futaba | Pirámide; culpa por la muerte de su madre | 19 de agosto |
+| 5 | Okumura | Nave espacial; empresario que trata a sus empleados como robots | 8 de octubre |
+| 6 | Niijima | Casino; la fiscal Sae Niijima, manipulada | 16 de noviembre |
+| 7 | Shido | Barco; político que planea un golpe de Estado | 16 de diciembre |
+| 8 | Maruki (sólo *Royal*) | Mundo de finales felices falsos | calling card el 2 de febrero |
+
+- Cada Palacio es uno de los **siete pecados capitales**. ✅
+- Antes del golpe final, los ladrones mandan la **calling card**. ✅
+- Momentos clave: el despertar de cada ladrón arrancándose la máscara; el interrogatorio (episodio 1); el barco de Shido; la despedida del 19 de marzo (§21).
+
+**Emblemas y objetos**
+- **Logo de los Ladrones Fantasma**: máscara u ojo blanco sobre negro (§19). ✅
+- **Lema: «Take Your Heart»** ([wiki](https://megamitensei.fandom.com/wiki/Phantom_Thieves_of_Hearts)). ✅
+- **La calling card**: la pieza gráfica más reconocible de la serie. ✅
+- **La máscara** de cada ladrón: se arranca al despertar a su Persona. ✅
+- **El móvil con el Metaverse Navigator**: rojo y negro. ✅
+- **Morgana autobús**: el coche del grupo en Mementos (nº11, nº35). ✅
+
+**Vocabulario que un fan reconoce al instante**
+Persona · Metaverso · Palacio · Sombra · Tesoro · Mementos · Confidente · calling card · Tercer Ojo · All-Out Attack · Velvet Room (Igor y las gemelas) · Joker, Skull, Panther, Mona, Fox, Queen, Oracle, Noir, Crow, Violet · «I am thou, thou art I» · «Take Your Heart».
+

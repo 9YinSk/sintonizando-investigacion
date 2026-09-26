@@ -1308,41 +1308,79 @@ papel (§7.3). El juego no trae español latino (sólo español de España)
 - Poner la «L» en cualquier letra gótica con adornos: es **una sola
   letra negra sobre blanco**.
 
+### 14.1 Segunda pasada: el fandom hispano, con vistas reales
+
+Páginas de resultados de YouTube leídas con `navegar.py` (vistas al
+26-sep-2026) y Reddit por Arctic Shift.
+
+- **El meme más grande en español es el ego y el plan de Light** ✅:
+  «SI KIRA TUVIERA EL EGO HASTA LAS NUBES 📖» (*El Canolexx*, **1,3
+  millones**, [YouTube dXEMsibyrmw](https://www.youtube.com/watch?v=dXEMsibyrmw));
+  «¿Acaso eres gay, Kira?» (*Briff B*, **1,1 millones**,
+  [qwMjbGUXBtc](https://www.youtube.com/watch?v=qwMjbGUXBtc)); «Light
+  salva al mundo» (edit, **1,3 millones**). El fandom hispano se ríe
+  **de la soberbia de Light**, más que de Ryuk o L.
+- **El uniforme escolar de Light** es «su ropa más icónica, aunque casi
+  no lo use» (hilo con **704 votos**,
+  [r/deathnote](https://www.reddit.com/r/deathnote/comments/1g4dtuj/lights_school_uniform_is_his_most_iconic_outfit/))
+  ✅; el **lolita gótico de Misa** también (cosplay con **732 votos**,
+  [r/deathnote](https://www.reddit.com/r/deathnote/comments/1nqbrei/my_misa_misa_cosplay_wearing_one_of_her_iconic/))
+  ✅.
+- También se parodia **con acento regional**: doblaje argentino de fans
+  (*Fedebpolita*, **1 millón**,
+  [P-EMtvZsBY8](https://www.youtube.com/watch?v=P-EMtvZsBY8)) ✅.
+
+**Qué NO hacer (nuevo)**
+
+- **No usar un cover hecho con voz de IA** como si fuera un fandub: hay
+  uno del opening 1 etiquetado «Cover IA»
+  ([sólo como aviso](https://www.youtube.com/watch?v=RthY66kb3eM)) ⚠️. Ni
+  de referencia.
+- **No hacer que el chiste sea de Ryuk o de L**: los tres memes
+  hispanos más vistos son sobre **Light**. Ryuk de gracioso sería al
+  revés de lo que hace el fandom.
+- **No citar como fandub** los clips de Dailymotion «Death Note: El nuevo
+  mundo - Tráiler español»: son el doblaje oficial de una película, mal
+  etiquetados ⚠️.
+
 ---
 
 ## 15 · Poses analizadas por personaje
 
 El minuto es del subtítulo ✅. **Lo que se ve (postura, manos, mirada)
-es de memoria** ⚠️: saca el fotograma del episodio de Viz o Netflix y
-compruébalo antes de usarlo. Columna «Sirve para»: presentar, explicar,
+era de memoria** en la primera pasada ⚠️. **En la segunda pasada se
+miraron los fotogramas de 19 filas** (Internet Archive): donde pone
+«**Visto**» está comprobado ✅, y donde pone «**Corregido**» el minuto o
+el gesto eran otros. Las filas sin marca siguen de memoria ⚠️. Columna «Sirve para»: presentar, explicar,
 celebrar, regañar, pensar, animar.
 
 ### Light
 
 | # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
 |---|---|---|---|---|
-| 1 | 1, 00:04:32 | «“使い方”» | Sentado al escritorio, el cuaderno abierto en las dos manos, lee con desdén | **explicar** |
+| 1 | 1, 00:04:32 | «“使い方”» | **Corregido**: no es Light, es el insert de la página negra «How to use it» con letra blanca gótica ✅. Para Light con el cuaderno, usa el arte oficial (hoja 1, nº27) | **explicar** (el cuaderno) |
 | 2 | 1, 00:13:25 | «待ってたよ リューク» | Se gira en la silla hacia Ryuk, tranquilo, sin miedo | presentar |
 | 3 | 1, 00:21:00 | «新世界の神となる» | De pie, de noche, mirada alta, sonrisa | **presentar** |
-| 4 | 2, 00:16:24 | «僕は正義だ！» | Grita a la tele, puño cerrado | **regañar** |
+| 4 | 2, 00:16:24 | «僕は正義だ！» | Grita a la tele, puño cerca de la cara. **Visto** ✅ | **regañar** |
 | 5 | 2, 00:17:24 | «ハハハハハッ» | Risa desatada, cabeza atrás | celebrar (villano) |
-| 6 | 8, 00:18:35 | «ポテチを取り 食べる» | Mano en la bolsa, papa en el aire, cara de guerra | **animar** (humor) |
-| 7 | 24, 00:05:42 | «計画どおり» | Media cara en sombra, sonrisa torcida | **pensar** |
-| 8 | 36, 00:21:12 | «ニア 僕の勝ちだ» | De pie en el almacén, cabeza gacha, sonríe | celebrar |
+| 6 | 8, 00:18:35 | «ポテチを取り 食べる» | **Visto** ✅: la derecha escribe con bolígrafo en el cuaderno abierto mientras la izquierda sube la papa a la boca; bolsa naranja, luz lateral dura. El gesto es «trabajar con las dos manos» | **animar** (humor) |
+| 7 | 24, 00:05:42 | «計画どおり» | Media cara en sombra, sonrisa torcida. **Visto** ✅, y además ojos rojos brillantes y un auricular de manos libres junto a la boca | **pensar** (villano) |
+| 8 | 36, 00:21:12 | «ニア 僕の勝ちだ» | **Corregido** ✅: primerísimo plano, pelo despeinado tapando un ojo, **bolígrafo entre los dientes**, fondo blanco quemado. Más intenso que «de pie» | celebrar (villano) |
+| 8b | 25, **00:18:00** | (sin texto) | **Visto** ✅: la sonrisa sosteniendo a L, boca abierta, luz roja de alarma. A las 00:17:41 aún no se ve clara | celebrar (villano) |
 | 9 | 37, 00:10:16 | «新世界の神だ» | Brazos abiertos, confiesa | presentar (final) |
 
 ### L
 
 | # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
 |---|---|---|---|---|
-| 1 | 2, 00:17:36 | «信じられない» | Sólo la **«L» gótica** en pantalla blanca | **presentar sin cara** |
+| 1 | 2, 00:17:36 | «信じられない» | Sólo la **«L» gótica** en pantalla blanca. **Visto** ✅: tele CRT azul sobre un mueble, suelo verde | **presentar sin cara** |
 | 2 | 6, 00:01:35 | «Ｌです» | De pie, encorvado, manos en los bolsillos, descalzo | **presentar** |
 | 3 | 9, 00:14:39 | «私はＬです» | En la ceremonia, junto a Light, lo dice sin mirarlo | presentar (secreto) |
 | 4 | 9, 00:15:27 | «キラである可能性は５％未満» | Pulgar en el labio | **pensar** |
-| 5 | 10, 00:08:14 | «推理力が40％減です» | En cuclillas sobre la silla del café | **explicar** |
+| 5 | 10, 00:08:14 | «推理力が40％減です» | En cuclillas sobre la silla del café. **Visto** ✅: dedo en el labio, jardinera verde detrás, luz cálida de persiana | **explicar** |
 | 6 | 10, 00:01:28 | (tenis) | En la pista, raqueta, postura rara | acción |
-| 7 | 15, 00:09:07 | «ショートケーキ ありますかね？» | Pide pastel con la cara seria | **animar** (humor) |
-| 8 | 25, 00:10:30 | «鐘の音が…» | En la azotea, empapado, mirando al cielo | pensar (triste) |
+| 7 | 15, 00:09:07 | «ショートケーキ ありますかね？» | Pide pastel con la cara seria. A las 00:09:07 hablan los dos de pie; **en cuclillas sobre el respaldo de un banco a las 00:08:04** ✅ (§8.1) | **animar** (humor) |
+| 8 | 25, 00:10:30 | «鐘の音が…» | En la azotea, empapado, mirando al cielo. **Visto** ✅ el plano de lluvia (su paleta está medida en §5.5); a las 00:17:12 ya está dentro, con luz roja | pensar (triste) |
 | 9 | 25, 00:13:36 | «マッサージもつけますよ» | De rodillas, seca los pies de Light | cuidar |
 | 10 | 25, 00:14:45 | «寂しいですね» | Sentado, de perfil, mirada baja | despedir |
 
@@ -1351,8 +1389,8 @@ celebrar, regañar, pensar, animar.
 | # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
 |---|---|---|---|---|
 | 1 | 1, 00:02:01 | (dados de calavera) | Tumbado en el mundo shinigami, aburrido | presentar el mundo |
-| 2 | 1, 00:13:00 | «死神のリュークだ» | Aparece detrás de Light, enorme, sonrisa de dientes | **presentar** |
-| 3 | 1, 00:16:12 | «すごいぜ 人間界のリンゴは» | Muerde una manzana roja | **animar** |
+| 2 | 1, 00:13:00 | «死神のリュークだ» | Aparece detrás de Light, enorme. **Visto** ✅: contrapicado, Light de espaldas al escritorio, alas de pelo negro en punta llenando el plano, cortina azul | **presentar** |
+| 3 | 1, 00:16:12 | «すごいぜ 人間界のリンゴは» | Muerde una manzana roja. **Corregido**: en ese segundo se ve su silueta a contraluz azul con la hebilla de calavera; el mordisco cae ±2 s. La sonrisa enorme, a las 00:17:29 (§8.1) ✅ | **animar** |
 | 4 | 1, 00:16:37 | «英語で説明を付けたんだぜ» | Explica que él escribió las reglas | **explicar** |
 | 5 | 1, 00:21:04 | «やっぱり 人間って… 面白っ！» | Carcajada, brazos abiertos | **celebrar** |
 | 6 | 2, 00:10:32 | «なるほど 二重底か» | Asoma la cabeza al cajón | pensar |
@@ -1364,22 +1402,22 @@ celebrar, regañar, pensar, animar.
 
 | # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
 |---|---|---|---|---|
-| 1 | 11, 00:03:27 | «私はキラです» (su cinta, voz sintética) | Sólo la cinta en la tele | presentar |
+| 1 | 11, 00:03:27 | «私はキラです» (su cinta, voz sintética) | **Visto** ✅: pantalla de tele con estática, cronómetro verde «5:59» y **«KIRA» escrito a mano en gótico** | presentar |
 | 2 | 12, 00:09:08 | «さあ！　ビデオ ビデオ» | Corre a grabar la respuesta | **animar a grabar** |
-| 3 | 12, 00:14:39 | «ウフッ» | Posa para la cámara en una sesión de fotos | **celebrar** |
-| 4 | 13, 00:10:31 | «見ーっけ» | Ve a Light entre la gente, con los ojos de shinigami | presentar |
+| 3 | 12, 00:14:39 | «ウフッ» | Posa en una sesión de fotos. **Visto** ✅: primer plano, labios rojos, **bufanda roja tejida con un colgante en forma de «M»**, mirada de lado sonriente | **celebrar** |
+| 4 | 13, 00:10:31 | «見ーっけ» | Ve a Light entre la gente, con los ojos de shinigami. ⚠️ En ese segundo sale alguien con gafas y el **anillo rojo** de los ojos de shinigami reflejado: el efecto se confirma, que sea Misa no | presentar |
 | 5 | 13, 00:15:26 | «は… はじめまして» | En la puerta de los Yagami, tímida | **presentar** |
 | 6 | 15, 00:10:17 | «え～ ホント？　うれしい！» | L le dice que es su fan; se emociona | celebrar |
-| 7 | 16, 00:03:21 | «目隠しだけでも取って» | Atada y con los ojos vendados | **no usar** |
+| 7 | 16, 00:03:21 | «目隠しだけでも取って» | Atada y con los ojos vendados. Se oye a las 00:03:21; **su cara, a las 00:20:58** ✅ (§8.1) | **no usar** |
 
 ### Near
 
 | # | Ep., minuto | Qué dice | Qué hace ⚠️ | Sirve para |
 |---|---|---|---|---|
-| 1 | 27, 00:02:01 | «ゲームは勝たなければ» | De niño, en el suelo, con un puzle blanco | **explicar** |
-| 2 | 28, 00:01:49 | «２代目Ｌ はじめまして» | Voz tras una **«N»** en pantalla | **presentar** |
+| 1 | 27, 00:02:01 | «ゲームは勝たなければ» | De niño, en el suelo. **Visto** ✅ en la copia `DeathNoteTV`: en cuclillas sobre una alfombra oriental, pelo tapando los ojos (§8.1); en la otra copia sale otro niño ⚠️ | **explicar** |
+| 2 | 28, 00:01:49 | «２代目Ｌ はじめまして» | Voz tras una **«N»** en pantalla. ⚠️ Parcial: se ve una cara de pelo claro al teléfono en penumbra azul, no la «N»; mira ±10 s | **presentar** |
 | 3 | 28, 00:15:31 | «結構 難しいことを 簡単に言いますね» | Frío, girando un mechón | regañar suave |
-| 4 | 33, 00:11:53 | «Ｌキラは夜神 月…» | Sentado entre juguetes, concluye | **pensar** |
+| 4 | 33, 00:11:53 | «Ｌキラは夜神 月…» | Concluye. **Visto** ✅ en parte: primer plano, pelo sobre los ojos, camisa blanca abierta; los juguetes no entran en el encuadre | **pensar** |
 | 5 | 37, 00:04:03 | «さっき 君は “僕の勝ちだ”と言った» (quién lo dice ⚠️) | En el almacén, frente a Light | regañar |
 
 ---

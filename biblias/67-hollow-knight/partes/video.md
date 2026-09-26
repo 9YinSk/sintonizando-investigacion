@@ -73,15 +73,17 @@ Quirrel de pie ante un gran arco de piedra con una máscara tallada y enredadera
 Quirrel mira hacia arriba un domo/caparazón gigante que brilla en azul, de noche | Wiki — Screenshot HK Quirrel 01 (enlace) | enlace | explicar
 Quirrel camina por una estructura de arquitectura y seda, en movimiento | Wiki — Screenshot HK Quirrel 03 (enlace) | enlace | animar
 Quirrel observa en silencio a una figura translúcida y blanca (la White Lady) en una sala verde | Wiki — Screenshot HK Quirrel 10 (enlace) | enlace | pensar
+Quirrel, agachado, alza su estoque frente a una criatura gigante en forma de medusa cargada de electricidad | Wiki — Screenshot HK Quirrel 09 (enlace) | enlace | regañar
+Quirrel sentado al borde de un muelle, piernas colgando, mirando un lago azul en silencio | Wiki — Screenshot HK Quirrel 11 (enlace) | enlace | pensar
 
-Quirrel tiene menos filas (5, no 6-10) porque no aparece en ningún tráiler oficial ni en el gameplay de prensa mirado: es un NPC de ritmo lento, sin escenas de acción propias; sus poses sólo están en capturas fijas de la wiki. Enlaces de las imágenes de la wiki, en `video.json`.
+Quirrel no aparece en ningún tráiler oficial ni en el gameplay de prensa mirado (es un NPC de ritmo lento, sin escenas de acción propias en material promocional): sus 7 poses salen de capturas fijas de la wiki, dentro del rango pedido. Enlaces de las imágenes de la wiki, en `video.json`.
 
 ## Lo mejor para la lámina
 
 - Hornet entrando al poblado nocturno (tráiler de lanzamiento, 0:08): pose de «llegada», calmada, con capa al viento — sirve para presentar un canal.
 - El Knight sentado en el banco de Dirtmouth junto a un Vessel (Screenshot HK Knight 05): la pose de «descanso/guardado» más reconocible del juego, perfecta para un rincón de «pensar» en la lámina.
 - Bellhart, sala de la campana con lava (#A15A37/#CA733E/#E89750): el único sitio con luz cálida medida en todo Silksong, útil para dar profundidad de color sin caer en el azul-violeta dominante del resto del juego.
-- «Sealed Vessel» (5:45) como referencia de qué tema suena en el momento más emotivo: piano y coro creciendo, útil si la lámina cita una frase o un cuadro de diálogo del clímax del juego.
+- «Sealed Vessel» (5:45) como referencia de qué tema suena en el momento más emotivo: piano y cuerdas in crescendo, útil si la lámina cita una frase o un cuadro de diálogo del clímax del juego.
 - Quirrel mirando el domo glóbulo azul (Screenshot HK Quirrel 01): pose de asombro/quietud, buena para un personaje secundario que explica un lugar sin hablar.
 
 ## No encontré
@@ -95,7 +97,7 @@ Quirrel tiene menos filas (5, no 6-10) porque no aparece en ningún tráiler ofi
 
 - `herramientas/fotogramas.py` sobre 6 vídeos (Dailymotion x2, Internet Archive x4), unos 100 fotogramas mirados en hojas de contacto + 10 fotogramas sueltos en grande — sin bloqueos; YouTube dio «Sign in to confirm you're not a bot» en yt-dlp directo, como avisa AYUDANTE.md.
 - `herramientas/estilo.py` sobre 4 fotogramas de vídeo (Moss Grotto, 3 rincones de Bellhart) para hex y estilo de sombreado medidos, no de memoria.
-- Wiki de Fandom (`hollowknight.fandom.com/api.php`): `imageinfo` sobre 14 archivos «Screenshot HK …» para confirmar 1920×1080 real antes de citarlos, y `list=search&srwhat=text&srsearch=onomatopoeia` (cero resultados, comprobado antes de decir que no hay onomatopeyas en pantalla) y wikitext completo de `Soundtrack_(Hollow_Knight)` y `Dream_Nail`.
+- Wiki de Fandom (`hollowknight.fandom.com/api.php`): `imageinfo` sobre 16 archivos «Screenshot HK …» para confirmar 1920×1080 real antes de citarlos, y `list=search&srwhat=text&srsearch=onomatopoeia` (cero resultados, comprobado antes de decir que no hay onomatopeyas en pantalla) y wikitext completo de `Soundtrack_(Hollow_Knight)` y `Dream_Nail`.
 - MusicBrainz y Archive.org (ya recolectados por recolectar.py): tracklists completos de Hollow Knight OST y Silksong OST, comprobados y citados sin repetir la consulta.
 - WebSearch (inglés): «Hollow Knight ending credits song theme Sealed Vessel OR Dream», «Hollow Knight iconic sound effects geo chime bench save dream nail whisper recognizable», «Hollow Knight Silksong TikTok trend viral 2025».
 - WebFetch: `en.wikipedia.org/wiki/Music_of_Hollow_Knight` (tono de la banda sonora, temas de créditos y de la pelea final).

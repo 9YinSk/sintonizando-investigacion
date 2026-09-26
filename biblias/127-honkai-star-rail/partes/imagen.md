@@ -41,11 +41,71 @@ tamaño si aplica.
 
 ## 3 · Fan art y renders 3D con licencia
 
-_(pendiente)_
+- Fan art mejor votado por personaje (Safebooru, con puntos, autor y enlace de
+  origen en Twitter/X o Pixiv) ya recolectado en `datos-imagen.md`: destaca uno
+  de Kafka a 3800×3882 (110816900_p0, Pixiv) y uno de Trailblazer/Stelle a
+  2552×4312 (112053233_p0, Pixiv) · ⚠️ (fan art, sólo como referencia de pose y
+  paleta, nunca para pegar; crédito al autor si se usa de inspiración).
+- Modelos 3D con licencia libre (Sketchfab, `downloadable=true`), todos
+  **CC Attribution** salvo donde se dice lo contrario:
+  - Acheron · weilin791 · ♥358 · https://sketchfab.com/3d-models/none-778da4070e324c518f664b487726a948 · ✅ (licencia en la API).
+  - Acheron (variante 2) · anónimo · https://sketchfab.com/3d-models/none-42dd33212d184dfb86036a86fa62e765 · ⚠️.
+  - Hysilens · X9_YT · ♥316 · https://sketchfab.com/3d-models/none-67960f7a0c8c4fac8c109e90cefc0e85 · ✅.
+  - Jingliu · X9_YT · ♥278 · https://sketchfab.com/3d-models/none-d93dc01b6c184454b9d06d93be52924a · ✅.
+  - The Herta · X9_YT · ♥222 · https://sketchfab.com/3d-models/none-c30f5dfa6ec04dd9ab2f9c8f2f9f6418 · ✅.
+  - Welt («Astral Express», busto/escena) · dokidisneydangan · https://sketchfab.com/3d-models/none-30e60a6e31814317a72c5097f8e62221 · ✅.
+  - Dr. Ratio · dokidisneydangan · https://sketchfab.com/3d-models/none-d5bb0afda7c14fee99036d5f8a7af36d · ⚠️.
+  - March 7th (personaje del encargo) · StarlightLambda64 · **Free Standard**
+    (uso libre, créditos) · https://sketchfab.com/3d-models/none-7ce32856885741f78ffc3742f09e9f5c · ✅.
+  - March 7th + su arco («Weapon») · kimvinh040276 · CC Attribution ·
+    https://sketchfab.com/3d-models/none-77c4fd910ee54da6bd623c2640d13022 · ✅.
+  - March 7th's Bow / Arrow (el objeto que siempre lleva) · StarlightLambda64 ·
+    Free Standard · https://sketchfab.com/3d-models/none-97edb8dcc2754788956f021fcd64730e · ✅.
+  - Kafka · ilyakardailskiy · ♥76 · CC Attribution ·
+    https://sketchfab.com/3d-models/none-02b2eed1be5043f886dee1540cf41445 · ✅.
+  - Ruan Mei «Cat Cake» (objeto de evento) · Grzybson · **CC Attribution-NonCommercial**
+    (⚠️ no usar en nada que se monetice) · https://sketchfab.com/3d-models/none-f700f314430043c99bc700185f3ab0a2 · ✅.
+- No encontré un tren o sitio de la serie (Astral Express, estación de Herta)
+  como modelo 3D completo en Sketchfab: sólo hay bustos/figuras de personajes.
+  Búsquedas «Astral Express», «Honkai Star Rail train», «Honkai Star Rail
+  Herta» en Sketchfab.
+- Poly Haven no aplica aquí: es HDRIs y texturas de sitios reales (no hay
+  activos con licencia de objetos o lugares de esta serie); sus texturas de
+  materiales genéricos sirven para el punto 4 (fondos reales), no para 3D con
+  licencia de la obra.
 
 ## 15 · Vestuario
 
-_(pendiente)_
+Hex medidos con `estilo.py`/Pillow en recortes del torso (sin fondo de UI) de
+los retratos oficiales «Game» de cada personaje (2026-09-26).
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| March 7th (Preservation, traje base) | Falda/abrigo azul marino con vivos morados | #3C3149 (sombra), #515D91 / #7AA5DA (azul medio y claro de la tela) | recorte de torso de `Character March 7th (Preservation) Game.png` (1000×1778) |
+| March 7th | Cámara instantánea que lleva al cinto (su objeto icónico) | cuerpo turquesa #3B5482≈ (tono azulado), correa naranja/marrón | mismo recorte; vista directa (Read) |
+| March 7th «Nascent Spring» (traje alterno, evento) | Vestido largo azul hielo con capa blanca afelpada y copos de nieve bordados | #352E61 (azul sombra), #39448C / #A79AD3 (azul-violeta medio y claro), #E9DAEB (blanco rosado de la piel de la capa) | recorte de torso de `Character March 7th (Preservation) Nascent Spring Game.png` |
+| Kafka (traje base) | Abrigo negro entallado con correas cruzadas magenta y hebillas doradas en muslo y bota | #44313C / #23131E (negro-vino del abrigo), #7A445F (magenta de las correas) | recorte de torso de `Character Kafka Game.png` |
+| Kafka | Medias moradas y detalle azul del forro del abrigo | #3B5482 | mismo recorte |
+| Trailblazer (F, Destruction) | Falda/short gris oscuro con vivos dorados, banda tipo bandolera al cinto y espada corta enfundada | #53423E / #2B1B1C (gris-negro de la tela), #D8B16D (dorado de hebillas y botones) | recorte de torso de `Character Trailblazer Game (F).png` |
+| Trailblazer (M, Destruction) | Mismo esquema gris-negro con dorado, silueta de abrigo largo | #4C403E / #291B1D, #81634D (dorado más apagado) | recorte de torso de `Character Trailblazer Game (M).png` |
+
+- Ropa «icónica» que todos reconocen: el traje base de cada personaje en el
+  banner de invocación (el que sale en Nessun Dorma para Kafka, en Indelible
+  Coterie para March 7th) es el que usa el fandom como referencia por
+  defecto · fuente: comparación de los banners con las fichas de personaje ·
+  ✅ (coincide en ambas).
+- Peinado: March 7th lleva coletas altas rosa pastel con flequillo recto;
+  Kafka lleva el pelo largo morado suelto con un mechón por delante del ojo
+  derecho; el/la Trailblazer lleva el pelo gris/plateado corto (M) o media
+  melena (F) · visto directamente en los retratos «Game» · ✅.
+- Accesorios recurrentes (vistos en las imágenes, confirman el vocabulario de
+  Danbooru de `datos-imagen.md`): guantes en los tres, joyería/pendiente
+  único en March 7th y Kafka, correas cruzadas (dato repetido en Danbooru:
+  `black_gloves`, `jewelry`, `choker`) · ✅ (imagen + etiquetas coinciden).
+- ⚠️ No comprobé el vestuario de Firefly ni de Stelle con recorte propio (sólo
+  quedaron en la hoja de contacto, imagen 1 y las Danbooru tags); si hace
+  falta profundizar en ellas para la lámina, medir igual con `estilo.py` sobre
+  `Character Firefly Game.png` (aún no descargada).
 
 ## 16 · Ciudades, paisajes y fondos de pantalla
 
