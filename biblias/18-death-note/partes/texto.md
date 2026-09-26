@@ -107,3 +107,66 @@ lo repito aquí).
 - **Vinland Saga** y **Chainsaw Man** — mismo terreno de shonen oscuro con violencia real y dilema moral, aunque de acción más física que mental; ya señalados como parecidos entre sí en otras biblias de este mismo equipo (ver `biblias/32-jujutsu-kaisen/partes/texto.md`) ⚠️
 - No hay choque de **canal**: la propuesta de #textos (guiones de práctica) no se repite en ninguna de las anteriores por lo que dice `servidor/inventario.md`.
 
+### Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** (de la lista oficial «Rules of the Death Note», impresa entre capítulos del manga)
+
+- Quien tenga su nombre escrito en el cuaderno **muere**; si no se escribe la causa, muere de un **infarto a los 40 segundos** de escribir el nombre · [Death Note Wiki, «Rules of the Death Note/Manga Chapter Rules», Volumen 1](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note/Manga_Chapter_Rules) ✅ (página wiki + confirmado en el propio anime, ep. 1, ya citado en `biblia.md`)
+- Hay que **conocer la cara y el nombre real** de la víctima; dos personas con el mismo nombre no mueren por error · misma fuente ✅
+- Quien usa el cuaderno **ni va al cielo ni al infierno**; el cuaderno pasa a ser propiedad de quien lo toca en el mundo humano · misma fuente ✅
+- Quien lo posee **es perseguido por el shinigami dueño original** hasta que muere; el shinigami no ayuda ni evita las muertes por norma · misma fuente ✅
+- Un humano puede **cambiar la mitad de su vida restante por «ojos de shinigami»**: ver el nombre y los años de vida de cualquier persona con sólo mirarle la cara · [Death Note Wiki, «Shinigami Eyes»](https://deathnote.fandom.com/wiki/Shinigami_Eyes) ✅ + ya citado en el anime (ep. 11) en `biblia.md`
+
+**El objeto en sí (para el «cuaderno sobre la mesa» que pide el encargo)**
+
+- El Death Note es una **libreta negra corriente por fuera** (páginas rayadas blancas por dentro, como un cuaderno escolar); nunca se le acaban las páginas; su material es «desconocido para la ciencia humana» pero se puede rasgar o quemar como papel normal; los shinigami pueden ponerle **una portada distinta** (la mayoría la dejan lisa, sin nada escrito) · [Death Note Wiki, «Death Note (object)», sección «Appearance»](https://deathnote.fandom.com/wiki/Death_Note_(object)) ✅
+- Dato para la lámina: el cuaderno de Light (el de Ryuk) es el que aparece en pantalla con la portada lisa y «DEATH NOTE» rotulado a mano en el lomo o la tapa (ya en el punto 5 de tipografía, letra gótica) — no hace falta inventar un diseño de portada nuevo, el canon lo deja abierto («si algo, nada») ✅
+
+**La historia por arcos, con sus momentos clave**
+
+- **Arco Kira / L (ep. 1-25 aprox.)**: Light encuentra el cuaderno, empieza a matar criminales, aparece Ryuk. Interpol manda a **L**; L engaña a Light para localizarlo en Kantō. Misa consigue un segundo cuaderno y ojos de shinigami por Rem; se enamora de Kira y descubre que es Light. Light la usa para averiguar el nombre real de L. Con el truco de la **amnesia del cuaderno** (Light y Misa pierden la memoria de tenerlo), Light entra al equipo de L y juntos atrapan a Higuchi (Yotsuba); Light recupera la memoria y mata a Higuchi. **Rem mata a L** para salvar a Misa y se desintegra; Light se convierte en el nuevo «L» · [Wikipedia, «Death Note», sección Plot](https://en.wikipedia.org/wiki/Death_Note) ✅ + [Death Note Wiki](https://deathnote.fandom.com/wiki/Death_Note_Wiki) ✅ (misma secuencia, dos fuentes independientes)
+- **Arco Near / Mello (ep. 26-37)**: cinco años después, con cultos que adoran a Kira. Aparecen los sucesores de L: **Near** (se une al gobierno de EE. UU., forma la SPK) y **Mello** (se une a la mafia). Mello secuestra y usa el cuaderno; Near y Mello intercambian información aunque compiten entre sí. **Aizawa** (del equipo japonés) empieza a sospechar de Light. Light pasa el cuaderno de Misa a **Mikami** (fanático de Kira) y pone a **Takada** como voz pública de Kira. Mello secuestra a Takada, ella lo mata con el cuaderno y luego Light la mata a ella. **Near demuestra que Light es Kira** en la reunión final; Light, herido, le pide a Ryuk que escriba los nombres de todos los presentes — **Ryuk escribe el nombre de Light**, cumpliendo lo que le prometió el día que se conocieron, y Light muere · mismas dos fuentes ✅
+- Momentos clave ya con minuto exacto en `biblia.md` (no se repiten aquí): la manzana y la primera muerte, la pausa con reglas, la pantalla blanca de la «L», la muerte de L, la muerte de Light.
+
+**Emblemas, logos de grupos y objetos icónicos**
+
+- **Task Force / equipo japonés** (タスクフォース): grupo secreto fundado por L dentro de la policía japonesa (NPA); no tiene un logo público, su símbolo visual en la lámina sería la **insignia de investigador** que muestran al identificarse (imagen «TaskForceVerification») · [Death Note Wiki, «Japanese Task Force»](https://deathnote.fandom.com/wiki/Japanese_Task_Force) ✅
+- **SPK** (Special Provision for Kira): grupo de elite FBI/CIA liderado por Near, con base en Nueva York y luego Japón; su nombre es sólo texto, sin logo gráfico propio en el canon · [Death Note Wiki, «Special Provision for Kira»](https://deathnote.fandom.com/wiki/Special_Provision_for_Kira) ✅
+- **Grupo Yotsuba** (Yotsuba Group/Yotsuba Corporation): conglomerado empresarial fundado por Kyosuke Higuchi; en el manga y el anime aparece con el logo corporativo «Yotsuba» (よつば, «cuatro hojas») sobre documentos y edificios de la empresa · [Death Note Wiki, «Yotsuba Group»](https://deathnote.fandom.com/wiki/Yotsuba_Group) ✅
+- **Objetos icónicos que un fan reconoce al instante**: el cuaderno negro «DEATH NOTE», la **manzana roja** (Ryuk), la **«L» gótica sobre pantalla blanca**, el **reloj de arena / los dulces de L** (torres de azúcar), el celular con el que Light escribe nombres al final, el **maletín/las esposas** que unen a L y Light, la letra «N» de Near sobre pantalla blanca (mismo recurso que la «L») ✅ (recopilación de datos ya confirmados en `biblia.md`, puestos aquí como lista de símbolos para la lámina)
+
+**Vocabulario propio que un fan reconoce al instante**
+
+- **Kira** (キラ, del inglés «killer»): el apodo mediático del asesino; aparece pintado como grafiti/ｷﾗ en el mundo real de la serie · [Death Note Wiki](https://deathnote.fandom.com/wiki/Kira) ⚠️ (página existe, contenido no releído a fondo, pero el término está confirmado en el propio anime en `biblia.md`)
+- **Shinigami** (死神, «dios de la muerte»): Ryuk, Rem, Sidoh; viven en el «Reino Shinigami» (Shinigami Realm), un desierto gris con huesos, ya citado en `biblia.md` ✅
+- **Ojos de shinigami** (死神の目): el trato de la mitad de vida por ver nombres, ya descrito arriba ✅
+- **Segundo Kira** (2番目のキラ): apodo mediático de Misa cuando aparece con el segundo cuaderno · [Death Note Wiki, «Shinigami Eyes»](https://deathnote.fandom.com/wiki/Shinigami_Eyes) ✅
+- **«Dios del nuevo mundo»** (新世界の神): la frase con la que Light se proclama a sí mismo, ya citada con minuto en `biblia.md` (ep. 1) ✅
+- **La Casa Wammy** (The Wammy's House / Wammy's House): el orfanato inglés de Watari que forma a los sucesores de L (L, Near, Mello, A, B) · [Death Note Wiki, «The Wammy's House»](https://deathnote.fandom.com/wiki/The_Wammy%27s_House) ✅ (redirect confirmado desde «Wammy's House»)
+- **La regla de los 40 segundos** y **la regla de los 6 minutos 40 segundos**: las que todo fan cita de memoria (40 s para escribir la causa de muerte tras el nombre; 6 min 40 s más para los detalles) · [Death Note Wiki, «Rules of the Death Note/Manga Chapter Rules»](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note/Manga_Chapter_Rules) ✅
+
+---
+
+## Lo mejor para la lámina
+
+- Letra: título en **UnifrakturMaguntia** (gótica, OFL, comprobada con fontTools); la «L» sola en la misma letra sobre fondo blanco; texto escrito a mano en **Kalam**.
+- El texto del canal va **como si estuviera escrito en una hoja arrancada del cuaderno**: tinta negra sobre papel hueso, nunca en una burbuja blanca redonda.
+- Estilo visual a replicar: **una sola luz dura** que parte la cara en dos, paleta casi monocroma con **un solo color puro por escena** (rojo de manzana o portada del cuaderno), sombras en triángulos duros (Multiply), nunca degradado suave.
+- En Blender: contorno con **Line Art** o **Freestyle** de grosor variable, sombreado con **Shader to RGB + ColorRamp en modo Constant** (dos paradas, sin degradado), luz tipo Spot dura sin HDRI de relleno.
+- Objeto/símbolo central para la lámina: el **cuaderno negro DEATH NOTE** sobre la mesa, con una manzana roja al lado (el único color puro de la escena) — es el símbolo que cualquier fan reconoce sin leer una palabra.
+
+## No encontré
+
+- Licencia exacta de la fuente «Death Font» (imitación del logo) en dafont.com/fontbolt.com: dos intentos con `curl` y con `navegar.py`, ambos sin resultado ⚠️ (recomendada alternativa libre ya comprobada: UnifrakturMaguntia/UnifrakturCook).
+- Contenido exacto del libro *DEATH NOTE スラッシュA アニメーション公式解析ガイド* (Shueisha, 2007): nunca se tradujo ni se escaneó fuera de Japón; sólo se confirmó que existe y su índice, por la ficha de Death Note Wiki ⚠️.
+- Confirmación directa de Madhouse (por nombre del estudio) usando RETAS en 2006: es contexto de industria de la época (Wikipedia), no una entrevista que lo diga sobre esta serie en concreto ⚠️.
+- Un logo gráfico propio del Task Force japonés y de la SPK: las dos organizaciones son secretas en la trama y el canon no les da un emblema visual, sólo nombre y una insignia de identificación genérica ⚠️.
+- Búsquedas hechas en esta sesión (repaso, 26-sep-2026): Fandom API `deathnote.fandom.com` (`Rules of the Death Note/Manga Chapter Rules`, `Death Note (object)`, `Shinigami Eyes`, `Yotsuba Group`, `Japanese Task Force`, `Special Provision for Kira`, búsquedas internas por «arc», «symbol»/«emblem»/«logo», «Wammy's House»/«SPK»/«Kira Task Force»), Wikipedia (`Death Note`, sección Plot), TV Tropes (`Franchise/DeathNote`, con `navegar.py`), `servidor/reglas_del_dueno.md` e `servidor/inventario.md` (comprobación de choque de canal, ya hecha).
+
+## Bitácora
+
+- 26-sep-2026 (repaso, español/inglés): Fandom API de `deathnote.fandom.com` para reglas del mundo, el objeto Death Note, ojos de shinigami, grupo Yotsuba, Task Force y SPK — sin bloqueo, la API funciona directo.
+- 26-sep-2026 (inglés): Wikipedia `action=parse` sobre «Death Note» para la sección Plot completa, contrastada con la secuencia de arcos de Death Note Wiki (dos fuentes independientes para el punto 25).
+- 26-sep-2026 (inglés): TV Tropes `Franchise/DeathNote` con `navegar.py` (funciona en esta máquina) para el panorama de toda la franquicia (usado sólo de contexto, ya cubierto por `datos-texto.md`).
+- Sesión anterior (24/25-sep-2026, cortada por el límite de uso): fontTools sobre 12 fuentes descargadas de Google Fonts; entrevistas a Araki (fullfrontal.moe) y Obata (Tumblr); Inverse sobre Tsugumi Ohba; ComiPress/Yahoo con la cita original de Ohba; comparación con `encargos/` para el punto 24.
+
