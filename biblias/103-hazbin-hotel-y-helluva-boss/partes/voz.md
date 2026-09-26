@@ -97,3 +97,68 @@ Memes y momentos que cualquier fan reconoce al toque; también lo que rompería 
   - Dibujar a Angel Dust con sólo dos brazos: sus cuatro brazos son parte central del diseño y de sus gags físicos · ⚠️
   - Hacer hablar "neutro" o sin groserías a Husk, Valentino o Blitzø: el humor del programa depende del choque entre lo soez y lo tierno; suavizar el lenguaje se siente falso para el fandom (ver frases del punto 8, todas con garabatos reales) · ✅
   - Mezclar la estética: Hazbin Hotel es Art Decó de los años 20-30 (dorados, rojo carmesí, luces de teatro); Helluva Boss es más "oficina/comedia moderna" con acabados más simples y colores planos. Confundirlas se nota al toque · ⚠️ (impresión visual propia sobre los fotogramas, sin fuente que lo diga explícito)
+
+## 13 · Personajes a fondo
+
+Carácter, historia, miedos, cómo se expresa y lenguaje corporal, con fuente. Los cuatro que pide el encargo (Charlie, Alastor, Angel Dust, Vaggie) llevan la ficha completa; el resto, resumida pero con datos reales, no relleno.
+
+### Charlie Morningstar
+- Princesa del Infierno, hija de Lucifer y Lilith; monta el Hotel Hazbin para redimir pecadores y evitar el Exterminio anual · [Hellaverse Wiki](https://hazbinhotel.fandom.com/wiki/Charlie_Morningstar) · ✅ (coincide con la sinopsis oficial en Doblaje Wiki)
+- Carácter: compasiva hasta el extremo, idealista, a veces ingenua sobre lo dura que es la realidad del Infierno; su pareja Vaggie se lo recuerda todo el tiempo · Hellaverse Wiki · ✅
+- No es sumisa: cuando la insultan o se meten con su plan, planta cara e incluso pelea físicamente; se transforma en demonio completo si pierde el control (le pasó al ver a Valentino maltratando a Angel Dust) · Hellaverse Wiki · ⚠️
+- Miedo/dolor central: perder a la gente que quiere (le cuesta mucho la muerte de Sir Pentious) y que su madre Lilith no le conteste las llamadas · Hellaverse Wiki (sección Likes/Dislikes) · ⚠️
+- Cómo se expresa: cuando algo le afecta lo canta en vez de hablarlo (musicales, baladas); casi no dice groserías, pero se le escapan alguna vez · Hellaverse Wiki, confirmado por Vivziepop en TikTok oficial (citado en la misma wiki) · ✅
+- Voz medida (doblaje latino, Karla Carrizo): registro agudo 283 Hz, muy expresiva (15 semitonos), habla lenta y remarcando — ver frase textual en el punto 8 · `voz.py` sobre muestra oficial de Doblaje Wiki · ✅
+- Dinámica: Vaggie es su ancla (novia, la protege y la regaña con cariño); Alastor la trata con un respeto burlón poco habitual en él; su padre Lucifer la sobreprotege y eso la frustra · Hellaverse Wiki · ⚠️
+
+### Alastor
+- El "Radio Demon": un Overlord del Infierno de los años 30, presentador de radio en vida (quizá asesino en serie), ahora la atracción principal del Hotel como socio de Charlie a cambio de un trato ambiguo · Hellaverse Wiki, Wikipedia (Alastor the Radio Demon) · ✅
+- Carácter: encantador y de modales anticuados por fuera; narcisista, sádico y hasta caníbal por dentro. Su sonrisa fija es una máscara de control, no de alegría: la usa para parecer siempre dueño de la situación · Hellaverse Wiki · ✅
+- Miedo/límite: que lo toquen sin permiso (odia el contacto, sobre todo que le toquen el pelo) y perder su libertad — tiene un trato oscuro que lo controla y no puede hablar de él directamente · Hellaverse Wiki · ⚠️
+- Cómo se expresa: acento "transatlántico" de locutor antiguo, dice frases pasadas de moda ("el cine", "querida"), puntúa con estática de radio cuando se enoja de verdad, y su forma demoníaca completa llega con un berrido de alce de fondo (ver punto 12) · Hellaverse Wiki · ⚠️
+- Voz medida (doblaje latino, Mario Vargas): registro agudo y nasal (295 Hz, insólito para un locutor "grave"), muy expresivo (21 semitonos), rápido (3.2 palabras/s): cadencia de presentador de radio — ver punto 8 · `voz.py` · ✅
+- Cara en rabia real: fotograma propio con su forma de sombra (dientes amarillos triangulares, ojos rojos, estática verde) diciendo «Es hora de recordarles a todos por qué estoy aquí» · ver tabla de emociones abajo · ✅ (mirado y verificado)
+- Dinámica: se burla de Vox, Vaggie y Lucifer por gusto; trata a Husk "como mascota" (lo tiene atado a un trato); disfruta pasar tiempo con Niffty · Hellaverse Wiki · ⚠️
+
+### Angel Dust (Anthony)
+- Ex miembro de una familia criminal ítalo-estadounidense (nombre real Anthony), hermano gemelo de Molly (en el Cielo); ahora estrella porno propiedad de Valentino, que posee su alma · Wikipedia (Angel Dust), Hellaverse Wiki · ✅
+- Carácter: doble cara — sarcástico, coqueto y "insensible" hacia afuera como mecanismo de defensa; vulnerable y necesitado de cariño real por dentro. Blake Roman (su actor original) lo describe como "fiercely independent" · Wikipedia (Angel Dust) · ✅
+- Miedo/herida central: la relación abusiva con Valentino, que lo humilla y controla; también que descubran que su seguridad es fachada ("being called fake") · Wikipedia, Hellaverse Wiki · ✅
+- Cómo se expresa: humor grosero y directo, evade la responsabilidad con chistes, pero corta el tono sexual si su cerdito Fat Nuggets está cerca (ver punto 12) · Hellaverse Wiki · ⚠️
+- Voz medida (doblaje latino, Felipe Waldhorn): registro medio (177 Hz), el más expresivo de todo el reparto medido (27.7 semitonos), pasa de burlón a asustado en la misma frase — ver punto 8 · `voz.py` · ✅
+- Reconocimiento de crítica: Collider dijo que Blake Roman "es una estrella instantánea", ScreenRant destacó su "profundidad emocional"; una reseña de The Michigan Daily criticó que su hipersexualidad a veces se use sólo para comedia · Wikipedia (Angel Dust) · ✅ (dos críticas distintas citadas en la misma fuente, contraste positivo/negativo)
+- Dinámica: Husk lo consuela y lo apoya (posible interés romántico, cantan juntos "Loser, Baby"); se mete con Vaggie por diversión; protege a Niffty cuando ella se mete en líos · Hellaverse Wiki · ⚠️
+
+### Vaggie
+- Ex-ángel exterminadora caída, ahora gerente del Hotel Hazbin y novia de Charlie; guarda un secreto sobre su pasado angelical que le cuesta contar · Hellaverse Wiki · ⚠️
+- Carácter: protectora, ordenada, directa hasta lo cortante; la contraparte realista del optimismo ciego de Charlie · Hellaverse Wiki · ✅
+- Miedo/límite: que hieran a Charlie, que Charlie no la escuche o le oculte cosas, y que descubran cómo se pronuncia "de verdad" su nombre (dato curioso listado en la wiki) · Hellaverse Wiki · ⚠️
+- Cómo se expresa: seca, rápida, casi sin adornos; regaña más de lo que consuela, pero se ablanda sólo con Charlie · confirmado con `voz.py`: la menos expresiva del reparto medido (9.4 semitonos) pese a hablar muy rápido (3.86 palabras/s) — ver punto 8 · ✅
+- Forma de combate/ángel: cuando se transforma para pelear le salen alas, ojos en X y dos espadas de luz — pose de furia contenida, no de rabia gritada · fotograma propio (ver tabla de emociones) · ✅
+- Dinámica: discute con Angel Dust por su actitud, no traga a Alastor ("condescendencia"), y es la única que le hace ver a Charlie los riesgos reales de su plan · Hellaverse Wiki · ⚠️
+
+### Personajes secundarios (resumen con dato real, no relleno)
+
+- **Husk**: bartender del Hotel, ex-Overlord que perdió su poder en una apuesta con Alastor y quedó "atado" a él; gruñón, bebedor, pero el más honesto del reparto — detecta enseguida cuando alguien finge · Hellaverse Wiki · ⚠️. Voz medida: 173 Hz, muy expresivo (28.9 semitonos) — regaña subiendo el tono, ver punto 8.
+- **Niffty**: mucama del Hotel, alegre casi hasta lo perturbador, obsesionada con la limpieza y con matar bichos; Alastor disfruta su "depravación" · Hellaverse Wiki · ⚠️. Voz medida: la más aguda de todo el reparto (358 Hz).
+- **Vox**: líder de VoxTek, antagonista principal de la 2ª temporada; encarna los monopolios mediáticos modernos y manipula con propaganda; rivaliza con Alastor desde que este rechazó su alianza · Wikipedia (Vox) · ✅. Voz medida: la más grave del reparto (130 Hz), cadencia de comercial de televisión.
+- **Valentino**: Overlord proxeneta, jefe y maltratador de Angel Dust; seductor en público, agresivo y soez en privado (ver frase real del punto 8, con groserías fuertes) · Hellaverse Wiki, Doblaje Wiki · ✅.
+- **Blitzø**: jefe de I.M.P. (asesinatos por encargo), bocazas, inseguro bajo la fachada segura, willing a sacrificarse por su empresa; relación complicada (sexo sin etiqueta) con Stolas · Hellaverse Wiki · ✅. Voz medida: habla atropellado, muy rápido (3.5 palabras/s), a la defensiva.
+- **Loona**: sabuesa infernal adoptada por Blitzø, cínica, de mecha corta, siempre en el teléfono; su frialdad tapa que le aterra perder a Blitzø · Hellaverse Wiki · ✅. Voz medida: la más grave de las mujeres (132 Hz), tono plano y desganado.
+- **Stolas**: Príncipe Goético, culto y bibliófilo, regio por fuera y "giddy"/emocional por dentro; enamorado de Blitzø, sufre el desprecio de su esposa Stella · Hellaverse Wiki · ✅. Voz medida: declamación teatral, alarga las vocales.
+- **Moxxie**: francotirador de I.M.P., culto y sensible (teatro musical, ópera), inseguro por el abuso de su padre; a Millie la ama sin dudar · Hellaverse Wiki · ✅.
+
+### Cara en cada emoción (con fotograma y minuto)
+
+Sacados con `fotogramas.py` de tráileres oficiales localizados con subtítulos o texto en español (Dailymotion, ver bitácora): la 2ª temporada de Hotel Hazbin (FilmAffinity), el 1er tráiler de Hotel Hazbin subtitulado (Tomatazos) y el de la 3ª temporada de Helluva Boss (todos con "&t="). Angel Dust y varios secundarios no aparecen con claridad en estos clips: falta cubrirlos con más vídeo (ver «No encontré»).
+
+| Personaje | Emoción | Episodio/clip | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| Charlie | Alegría (risa amplia, ojos cerrados) | Tráiler oficial S2, Prime Video (doblado) | 2:09 | https://www.dailymotion.com/video/x9rrk90?t=129 |
+| Charlie | Tristeza/ansiedad (cejas caídas, boca apretada, sonrojo) | Tráiler oficial S1, Prime Video (subtitulado es) | 1:12 | https://www.dailymotion.com/video/x8x43rc?t=72 |
+| Alastor | Rabia/amenaza (forma sombra, dientes triangulares, estática verde) — con la frase «Es hora de recordarles a todos por qué estoy aquí» | Tráiler oficial S1, Prime Video (subtitulado es) | 1:43 | https://www.dailymotion.com/video/x8x43rc?t=103 |
+| Vaggie | Fastidio/seriedad (un ojo entrecerrado, ceja alzada) | Tráiler oficial S2, Prime Video (doblado) | 2:24 | https://www.dailymotion.com/video/x9rrk90?t=144 |
+| Vaggie | Determinación de combate (forma ángel, ojos en X, espadas de luz) | Tráiler oficial S2, Prime Video (doblado) | 0:09 | https://www.dailymotion.com/video/x9rrk90?t=9 |
+| Loona | Fastidio/aburrimiento (comiendo botana, mirada de lado) | Tráiler oficial T3, Helluva Boss, Prime Video (doblado) | 0:30 | https://www.dailymotion.com/video/xb8zcka?t=30 |
+
+Nota: el fotograma de 0:30 de Loona muestra la bolsa de botana "Chaos" en su mano — encaja con el gusto de la wiki (ver punto 20: fumar, beber, botanas).

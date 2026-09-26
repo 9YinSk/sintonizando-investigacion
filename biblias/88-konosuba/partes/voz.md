@@ -421,3 +421,54 @@ mundo (6.5 M en Japón, 1.4 M fuera) y el guionista Roger Avary (Oscar por
 *Pulp Fiction*) la calificó con 5/5, llamándola «una de las mejores
 experiencias que he tenido en un cine» ✅ (misma página de Wikipedia,
 cita a prensa de estreno en EE.UU., nov-2019).
+
+### 22 · Fan dubs y comunidad hispana
+
+**Proyecto de fandub más completo encontrado**: «Konosuba 1ra Temporada»
+(2019), 4 de 10 capítulos doblados por fans, dirigido por «AdSan Voice»,
+grupo «Fandub Varios» (©2020 LinkOz FD, Soy Todito y Yorokobi FD) —
+https://fandub2018.wixsite.com/fandubvarios/konosuba-fandub ⚠️ (una fuente,
+la ficha del propio proyecto):
+
+| Personaje | Actor/actriz de fandub |
+|---|---|
+| Kazuma Satō | AdSan Voice (también guion, mezcla y sincronización) |
+| Aqua | Arale MR |
+| Megumin | Ditwi-Chan |
+| Darkness | Prince Alynn |
+| Luna | Danako |
+| Rufián (personaje episódico) | Sandro Noe Rivas Alejos |
+
+El opening «Fantastic Dreamer» lo canta y adapta «Naomi»; el ending lo
+adaptan las tres protagonistas del propio proyecto.
+
+**Covers del opening en español, con vistas reales** (`yt-dlp
+--skip-download`, que sí puede leer metadatos de YouTube sin necesitar
+sesión, a diferencia de bajar el vídeo — comprobado que funciona incluso en
+los mismos vídeos donde bajar el audio con `voz.py` falla):
+- «Fantastic Dreamer» (Konosuba Opening 1) Cover Latino, canal **Naomi**,
+  subido 11-feb-2018, **362 207 vistas** — es el mismo canal que hace el
+  opening del proyecto Fandub Varios de arriba —
+  https://www.youtube.com/watch?v=WzFcCTDBxoI ✅ (metadato propio de
+  YouTube, contrastado con la mención del mismo nombre en Fandub Varios)
+- «Konosuba 2 OP Fandub Español Latino», canal **MasterJulio**, subido
+  13-jul-2017, 4932 vistas — https://www.youtube.com/watch?v=5vqB0TDoBDw ⚠️
+- «KonoSuba: Legend of Crimson Español Latino Fandub», canal **Chico
+  Shido**, subido 4-may-2021, 3309 vistas —
+  https://www.youtube.com/watch?v=x0SLqRDCtO0 ⚠️
+
+**TikTok**: hay contenido de fandub hispano activo (búsqueda web, sin poder
+entrar directamente a TikTok desde aquí) — «Chica Planta Fandub español
+latino» con el creador Karl el Kaballo, y comparaciones entre doblajes de
+distintos países hispanos (México vs. Perú) para la OVA 2 de la temporada 3
+⚠️ (sólo referencia indirecta vía buscador, sin poder verificar vistas ni
+fecha exacta).
+
+**Ya en `datos-voz.md` (Dailymotion, sin repetir la búsqueda)**: bajo
+«Konosuba fandub español» aparece un clip de 22:44 subido por el canal
+Rayvox, titulado como episodio 1 completo — usado ya en el punto 8 para
+sacar frases textuales del doblaje oficial con `voz.py`, así que ese vídeo
+en concreto es más una redifusión del doblaje oficial que un fandub nuevo
+(la traducción y el reparto suenan profesionales e iguales a los de
+Doblaje Wiki, no a una producción de aficionados) — lo dejo anotado aquí
+para que quien revise no lo cuente dos veces como «fandub distinto».

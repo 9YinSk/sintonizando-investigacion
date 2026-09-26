@@ -20,7 +20,12 @@ Dailymotion y se leyó con Read.
 - Fotograma 20 · 1:16: Aqua, Megumin y Darkness caminando juntas. Fotograma 22 · 1:24: Darkness con espadón en alto, pose heroica.
 - ⚠️ (una fuente de vídeo, pero coincide con las capturas oficiales de la wiki: animación real confirmada por el logo y diseño de personajes)
 
-**Ending: no se encontró un clip fiel** — ver «No encontré».
+**Ending 1 «Chiisana Boukensha» (ED1, animación oficial real) — RELANZO: encontrado**
+- Fuente: episodio 2 completo, doblaje ruso sobre audio/imagen original, Internet Archive: https://archive.org/details/archive_etot_zamechatelnyy_mir_kono_subarashii_sekai_ni_shukufuku_wo · archivo `[02].mp4` · minuto 22:35-23:48 (ending real dentro del episodio, verificado fotograma a fotograma con `fotogramas.py` sobre el .mp4 bajado por `yt-dlp`). Episodio verificado como Konosuba auténtico con un fotograma de control en el minuto 5:00 del episodio 1 del mismo ítem (Aqua, escena de la diosa) antes de usarlo. ✅
+- Fotograma 22:40-22:45: logo «このすば» sobre fondo tipo pergamino (tarjeta de la ending). ✅
+- Fotograma 22:50-23:30: paisaje de Axel visto desde el río (tejados rojos, puente, molinos de viento) con los créditos de staff superpuestos — sitio para el punto 4. ✅
+- Fotograma 23:35: Darkness junto al agua al atardecer. Fotograma 23:40: Aqua de pie junto al río, expresión de sorpresa. Fotograma 23:45: Megumin con su sombrero de bruja bajo un cielo estrellado. Las tres protagonistas aparecen en solitario una tras otra — coincide con que sean ellas quienes cantan el tema (dato ya confirmado en la bitácora). ✅
+- Nota: en el episodio 1 del mismo ítem, el OP «fantastic dreamer» aparece desplazado al final del episodio (min 23:12-23:36, tras el prólogo largo) en vez de al principio — dato curioso confirmado también fotograma a fotograma, no es el ending.
 
 **Tráiler oficial — KONOSUBA Temporada 3 (Official Trailer 2)**
 - Fuente: https://www.dailymotion.com/video/x8tpkt4 · 2:13 min · canal Movie Corner
@@ -204,11 +209,8 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 
 ## NO ENCONTRÉ
 
-- ⚠️ **Ending real en vídeo**: no se localizó un clip fiel de «Chiisana Boukensha» (T1) ni de las otras dos endings. Se probaron 3 vías, las 3 fallaron:
-  1. Dailymotion API: `Chiisana Boukensha full`, `ちいさな冒険者`, `おうちに帰りたい`, `Konosuba ED1 animation`, `Konosuba ending 1 full` → nada fiel (un resultado «Ending 1» resultó ser de otra serie, descartado).
-  2. AnimeThemes (tendría el `.webm` oficial del ED) → HTTP 522 desde este servidor, igual que en `datos-video.md`.
-  3. Internet Archive, episodio 1 «BD 1080p» de FFF (`fff-kono-subarashii-sekai-ni-shukufuku-wo-01-bd-1080p...`): se bajó el minuto 21:20-23:20 con `fotogramas.py` para pescar el ED real del capítulo — **el archivo no es Konosuba**, son fotogramas de una serie 3D de vaqueros/desierto no identificada (identifier de Archive.org mal etiquetado o contenido sustituido). Se descartó como fuente; no se usa en `video.json`.
-  Sólo queda un ED en formato audio (sin vídeo) en Internet Archive.
+- ⚠️→✅ **Ending real en vídeo**: RESUELTO en el relanzo. Fallaron primero Dailymotion (`Chiisana Boukensha full`, `ちいさな冒険者`, `おうちに帰りたい`, `Konosuba ED1 animation`, y en esta tanda también `konosuba ending`, `konosuba ED`, `この素晴らしい世界に祝福を ED` → sin resultado fiel), AnimeThemes (HTTP 522) y un episodio de Internet Archive mal etiquetado (FFF, series de vaqueros/desierto). Se encontró en un ítem distinto de Internet Archive: la serie completa doblada al ruso sobre imagen/audio original (`archive_etot_zamechatelnyy_mir_kono_subarashii_sekai_ni_shukufuku_wo`, episodios 01-10 en .mp4). Se verificó que es Konosuba auténtico con un fotograma de control (episodio 1, min 5:00, escena de Aqua) antes de usar el episodio 2, donde el ending real (min 22:35-23:48) se vio fotograma a fotograma. Ver detalle en el punto 2.
+- No se probó Bilibili/Niconico ni `navegar.py` sobre TikTok/Bilibili en esta tanda porque Internet Archive resolvió el pendiente antes; queda como vía de repuesto si un repaso futuro necesita el ED oficial sin doblaje encima.
 - ⚠️ **Tendencias de TikTok con enlace verificable**: TikTok no es accesible por API pública ni por `curl` simple desde este servidor. No se intentó `navegar.py` sobre TikTok por ser previsible que bloquee igual que Reddit/TV Tropes con más severidad; se relanzaría en un repaso si el jefe lo pide.
 - ⚠️ **Darkness con sólo 4 poses** (el resto de personajes tiene 6-7): se probaron más búsquedas (`Lalatina Konosuba`, `Darkness Konosuba battle fight`, `Darkness Dustiness Konosuba`, `Darkness Konosuba tank shield`, `Darkness Konosuba confession`) sin encontrar más clips suyos en Dailymotion aparte de los ya usados. Las 4 poses cubren sus rasgos clave (masoquismo, guerrera, heroica, protectora), pero un repaso podría sumar 2-3 más si aparecen mejores clips.
 - ⚠️ Episodio exacto de la «pelea final T1»: el título del clip dice «Konosuba season 1 last fight» pero no se confirmó el número de episodio con una segunda fuente.
@@ -241,7 +243,7 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 | — | `estilo.py` sobre 4 fotogramas (castillo, campo+explosión, mansión, puerta de Axel) | — | Herramienta local | Hex + saturación/brillo medidos ✅ |
 | — | `yt-dlp` directo sobre YouTube (tráiler de AniList) | — | YouTube | Bloqueado: «Sign in to confirm you're not a bot» ❌ (confirma la nota de AYUDANTE.md) |
 
-**Confirmado (✅):** OP/ED de las 3 temporadas (título, cantante, fecha), compositor de la BSO (Masato Kōda), tráiler oficial T3 visto fotograma a fotograma, 3 escenas icónicas vistas y citadas con minuto, 4 sitios con paleta medida, 22 poses de los 4 personajes con capítulo/clip y minuto.
-**A medias (⚠️):** ending sin vídeo real (sólo letra y ficha confirmadas), tendencias TikTok, 2-3 poses de Darkness por debajo del mínimo recomendado.
+**Confirmado (✅):** OP/ED de las 3 temporadas (título, cantante, fecha), compositor de la BSO (Masato Kōda), opening y ending 1 vistos en vídeo real fotograma a fotograma (con episodio de control para verificar autenticidad), tráiler oficial T3 visto fotograma a fotograma, 3 escenas icónicas vistas y citadas con minuto, 4 sitios con paleta medida, 22 poses de los 4 personajes con capítulo/clip y minuto.
+**A medias (⚠️):** tendencias TikTok (no probadas por falta de tiempo, ver «No encontré»), 2-3 poses de Darkness por debajo del mínimo recomendado.
 
 Sigue: ver un ending real en vídeo (AYUDANTE.md lo pide como mínimo obligatorio junto al opening/tráiler/3 escenas). Se agotaron 3 vías en esta tanda (Dailymotion, AnimeThemes caído, extracción directa de un episodio de Internet Archive que resultó mal etiquetado). Probar de nuevo cuando YouTube libere el bloqueo de este servidor, o con otro episodio/fuente de Internet Archive.

@@ -1248,3 +1248,164 @@ llamaran mandona; Shirogane, sólo como el esfuerzo que hace.
 **Reacciones**: «A CONFESSION?! … S3 Ep 8 REACTION!» y «THE CONFESSION!! …
 S3 Ep 12-13 REACTION» ✅ (dos canales), ⚠️ sin vistas ni comentarios con
 votos (YouTube pidió sesión; el subreddit está en cuarentena).
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+Interesa mucho: el servidor es de doblaje. ⚠️ **Sin vistas ni suscriptores**:
+YouTube pidió iniciar sesión a `yt-dlp`; sólo hay título y canal.
+
+- **My Dubber Heroes** (canal de fandub latino de varias series: My Hero
+  Academia, Jujutsu Kaisen, Demon Slayer): *«Kaguya Rechazo al Presidente!»*
+  · [YouTube](https://www.youtube.com/watch?v=nD22uFbx3rQ) ✅ (dos resultados).
+- Otros fandubs latinos (una fuente cada uno ⚠️):
+  - *«The First Kiss Never Ends — Episodio 1 (Fandub Latino)»* ·
+    [YouTube](https://www.youtube.com/watch?v=QeVehIdm_oc)
+  - *«Síndrome de Manga Shoujo (Fandub Latino)»* ·
+    [YouTube](https://www.youtube.com/watch?v=xXHeJgms--s)
+  - *«El Amor es Guerra / Love Dramatic — El Paraguas»* ·
+    [YouTube](https://www.youtube.com/watch?v=8ZpNlBR0cHE)
+  - *«Fujiwara golpea a Ishigami (Fandub latino)»* ·
+    [YouTube](https://www.youtube.com/watch?v=DbYrHol5oMM)
+- **Covers en español**: el opening completo «Fandub Latino/Cover en
+  Español» ([YouTube](https://www.youtube.com/watch?v=FsolJBlwutY)); el OP2
+  *«Daddy! Daddy! Do!»* completo ([YouTube](https://www.youtube.com/watch?v=lNuG97R6IXc));
+  un cover de San Valentín ([YouTube](https://www.youtube.com/watch?v=Tjw7maZ3_Zg)).
+  En TikTok, el OP2 por **@VickyDubs** y **@Elii-Elyne**, y clips del
+  doblaje oficial por **@eldonchalo** ✅ (dos plataformas).
+- **Memes hispanos**: los del propio doblaje latino (**«¡Quiero mi cocol!»,
+  «Ola k ase?», «maldita lisiada», «loquita del centro»**, punto 8.2) y el
+  «Ishigod».
+- **Reddit**: **r/Kaguya_sama** existe pero está **en cuarentena**
+  (subredditstats), por eso [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Kaguya_sama)
+  da 0 resultados (3 intentos) ⚠️.
+- ⚠️ No se encontraron hilos hispanos con votos sobre las escenas tristes.
+- **Idea para el servidor**: la escena del narrador («Esta es la Academia
+  Privada Shuchiin…», 16 s) y el diálogo Kaguya-Hayasaka («una pregunta
+  hipotética…», 12 s) son **retos de doblaje** cortos y con texto real.
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+**Cruces** (su arte trae ropa y poses nuevas):
+- **Oshi no Ko** (mismo autor, mismo universo): capítulo especial 90.1 (Young
+  Jump Heroine's, 10-ago-2022); Kaguya, ya **«Kaguya Shirogane»**, es
+  **fotógrafa profesional** ✅ (Epicstream + Anime Senpai; hoja 2 #75).
+- **Mahjong Soul**: evento «War of Love» (26-abr al 17-may), 4 personajes
+  jugables (Kaguya, Miyuki, Hayasaka, Kei) con **trajes nuevos** ✅
+  ([Pocket Gamer](https://www.pocketgamer.com/mahjong-soul/kaguya-sama/) +
+  Hungry Geeks).
+- **Monster Strike** (XFLAG): colaboración con la película, 8-15 de abril ⚠️
+  (QooApp News).
+- **Saing** (mercancía): Kaguya, Chika, Miko y Hayasaka **en yukata**, ropa
+  que no sale en la serie ⚠️ ([anmosugoi.com](https://anmosugoi.com/), web de fans).
+- **Cruces de portada en el manga** ✅ ([wiki, «Crossovers»](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Crossovers)):
+  promoción de 3 series en el cap. 49 (con *Boarding School Juliet* y
+  *Magical Sempai*); Shizu de *Yoake Ato no Shizu* con el uniforme de
+  Shuchi'in (cap. 111) ⚠️; guiños en *Komi Can't Communicate* (caps. 149 y
+  158) ⚠️; Nagatoro y Senpai en el *doujinshi* interno (cap. 27) ⚠️.
+
+**Figuras oficiales** (Good Smile Company; la pose sirve de referencia 3D):
+- **POP UP PARADE Kaguya Shinomiya**, ~170 mm, de pie con sonrisa suave y
+  uniforme ✅ ([Good Smile US](https://www.goodsmileus.com/fandom/kaguya-sama-love-is-war-series-418)).
+- **Kaguya Swimsuit Ver.**, 1/12 ✅ ([Good Smile](https://www.goodsmile.info/en/product/9584/Kaguya+Shinomiya+Swimsuit+Ver.html))
+  (no sirve para el servidor).
+- ⚠️ No se encontraron figuras de Kotobukiya.
+
+**Cosplay**:
+- **Chika** en Crunchyroll Expo Australia 2022, CC BY-SA, 4000×3000 ✅
+  ([Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/52/Chika_Fujiwara_cosplay_at_Crunchyroll_Expo_Australia_2022.jpg)):
+  el mejor para ver el volumen real del uniforme.
+- 5 fotos de Flickr, CC BY-NC-SA (no comercial), 1024×683-731 ⚠️
+  ([ejemplo](https://live.staticflickr.com/65535/48366910627_6522950d7e_b.jpg), vía
+  [Openverse](https://api.openverse.org/v1/images/?q=kaguya-sama%20cosplay)): sólo para mirar tela y pose.
+- ⚠️ No se buscaron cafés temáticos ni eventos en japonés («かぐや様 コラボ
+  カフェ»): queda para un repaso.
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+**Lo que reconoce el autor** ✅ (entrevista en Guya + Wikipedia):
+- **Death Note**: «al principio quería hacer batallas intelectuales como las
+  de Death Note, pero fui entendiendo que lo que todos quieren ver es el
+  choque de emociones románticas». La «guerra mental» nace como homenaje.
+- **GANTZ** y Young Jump: se dice de «la generación GANTZ».
+- **Los juegos de su padre**, productor de *Terranigma* e *Illusion of Gaia*
+  (Enix, SNES).
+
+**Lo que cita la serie** ⚠️ (Tropedia): Studio Ghibli; *Anne of Green
+Gables* (la favorita de Kaguya); *Your Name* (Ishigami); *Onegai My Melody*
+(Miko). Y el **cuento de la princesa Kaguya** (*El cuento del cortador de
+bambú*): las dos esconden lo que sienten tras su posición; en la T2 ep. 3
+miran la luna desde la azotea y lo comentan.
+
+**Parecidas** (AniList, votos de usuarios): *Horimiya*, *SPY x FAMILY*,
+*Toradora!*, *Science Fell in Love, So I Tried to Prove It*, *Monthly Girls'
+Nozaki-kun*, *Teasing Master Takagi-san*, *TONIKAWA*, **Oshi no Ko** (mismo
+autor), *ORESUKI*, *Tsuredure Children*, *Alya Sometimes Hides Her Feelings
+in Russian*, *Komi Can't Communicate*, *Tomo-chan Is a Girl!*, *His and Her
+Circumstances*, *Wotakoi*.
+
+**Láminas vecinas del servidor** (para no repetir ideas):
+- **Oshi no Ko** (biblia 05): mismo autor, mismo universo; si se usa a Kaguya
+  fotógrafa, coordinarlo con esa biblia.
+- **Death Note** (biblia 18): la «guerra mental» es su parodia; no copiar su
+  cuaderno ni su tono oscuro.
+- **Bocchi the Rock!** (en `_ya_hechas`): **mismo director** (Hatakeyama);
+  la caja de Bocchi ya se hizo, así que aquí no va una caja.
+- **Spy x Family** (biblia 06): comedia con secretos y fachadas; evitar
+  otra lámina de «espías».
+- **Kakegurui** (biblia 12): academia de élite y apuestas con cartas; el
+  concepto A usa una carta: diferenciarla con la madera cálida del consejo
+  y el tono de comedia, no el rojo de casino.
+- Reto de la semana ya lo proponen Steven Universe (104) y Hellblade (118).
+
+## Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+**Las reglas del mundo en cinco líneas** ✅ (wiki: «Shuchi'in Academy» y
+«Student Council»):
+1. Todo pasa en el **Instituto Shuchi'in**, colegio de élite de Minato
+   (Tokio) para familias ricas y nobles, fundado en la época Edo.
+2. Manda el **consejo estudiantil**: **sólo se vota al presidente**, y él
+   nombra al resto (vicepresidente, secretario, tesorero, auditor, oficial
+   general). Da privilegios reales (acceso preferente a la universidad,
+   becas, salas privadas).
+3. La ley no escrita: **quien confiesa primero, pierde**.
+4. Cada capítulo y episodio se parte en **batallas** con su título.
+5. Un **narrador** fuera de la ficción cuenta la guerra como un partido.
+
+**Fuera del colegio**: la familia de Kaguya, el **zaibatsu Shinomiya**, es
+uno de los «cuatro grandes» de Japón (~200 billones de yenes; bancos,
+trenes, coches, y mano en la policía y los tribunales); su rival es la
+**Corporación Shijo**, rama escindida de los Shinomiya ✅ (wiki).
+**No hay magia ni tecnología especial**: es un Japón contemporáneo real.
+
+**La historia por arcos** (nombres de la wiki; el orden de los intermedios
+es aproximado ⚠️):
+- **Arranque**: presidente y vicepresidenta, primer año (*Everyday Life*,
+  *Cell Phone Arc*).
+- **Batallas cotidianas**: fiesta francesa, cine, *mixer*, vacaciones de
+  verano, **festival deportivo**, **fuegos artificiales**, San Valentín,
+  cumpleaños del presidente, visita a casa, visita al enfermo, viaje de
+  clase, «New Game», el **rap**.
+- **Drama y pasado**: *Farewell Arc*, la marcha de Shirogane, el cuenco de
+  Buda (el pasado de Ishigami), *The ABCs of Men and Women*.
+- **Final**: la **elección caótica** (*Chaotic Election Arc*), el **festival
+  cultural de la doble confesión**, el arco que se llama como la serie, y
+  *The First Kiss Never Ends* (la película de 2022), fin de los secretos y
+  reconciliación.
+- El manga terminó en **2022** tras 7 años y medio; Akasaka dejó de
+  **dibujar** y sigue como guionista ✅ (Wikipedia; despedida en
+  [Movie Walker Press](https://press.moviewalker.jp/news/article/1116468/) ⚠️).
+
+**Símbolos y objetos que un fan reconoce al instante**:
+- **El corazón con el 告** (ep. 1, 1:00) y la **línea de pulso** del logo del
+  manga; el pulso llega hasta la lámpara de la pachislot.
+- **La cartela «本日の勝敗»** (punto 6).
+- **El Cubari Facaccimo**: el «bombón» morado de un solo ojo y dos patas que
+  Kaguya creó por accidente en San Valentín (cap. 59; vuelve en el cap. 195);
+  el ojo se mueve solo ✅ (wiki).
+- **El teléfono plegable** de Kaguya (no sabe usar apps) ✅ imagen (hoja 3 #97).
+- **La cadena dorada de presidente**, el **brazalete amarillo** de Miko, los
+  **cascos** de Ishigami, el **lazo negro** de Chika, la **bicicleta azul**
+  de Shirogane.
+- **Las salchichas-pulpo** del bento (ep. 1, 23:52).
+- **Vocabulario**: «guerra mental» (頭脳戦), «el que confiesa, pierde»,
+  «Presi», «Señorita Kaguya», «Ishigod», «IQ de 3», «Princesa de Hielo».
