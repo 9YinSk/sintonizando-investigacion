@@ -205,3 +205,64 @@ libres para replicarlas en Photoshop/Clip Studio.
   collab game" y "薬屋のひとりごと コラボ ゲーム" sin resultado; a diferencia de
   otras franquicias de temporada, sus cruces son sobre todo turismo/exposición,
   no videojuegos.
+
+## Lo mejor para la lámina
+
+- Maomao con su traje icónico (aoqun verde+granate) sosteniendo hierbas o un
+  frasco — pose de trabajo, no de pie sin más (ver figura Good Smile arriba).
+- Jinshi T3 con el panel bordado de dragón: da textura rica y color morado/oro
+  distinto de Maomao, buen contraste para un fondo de palacio.
+- El key visual de "IBARAKI is Blossoming" (imagen 74) tiene a ambos juntos en
+  ropa nueva, floral, ya pensada para un cartel — buena referencia de
+  composición de dos personajes.
+- Trama de puntos real del capítulo 69 (imagen 113) + el pack gratis de Clip
+  Studio (id 2142037) para dar textura de manga auténtica al cuadro de diálogo.
+- El palacio (Rear Palace / Kōkyū) como sitio: arcos rojos, farolillos,
+  celosías de madera — nombres oficiales listos para no inventar un "palacio
+  genérico".
+
+## No encontré
+
+- Modelos 3D libres de sitios (palacio, farmacia) en Sketchfab: busqué
+  "apothecary diaries palace", "chinese palace hanfu 3d model free",
+  "kusuriya no hitorigoto 3d" (inglés) — sólo salieron los 4 modelos de
+  personajes ya listados en el punto 3.
+- Emblema o escudo de clan con diseño gráfico fijo: busqué `emblem`, `crest`,
+  `insignia` en el buscador de texto de la wiki (inglés) — sólo aparecieron los
+  apellidos de clan (Ka, La) sin imagen de blasón asociada.
+- Colaboración con videojuegos (Fortnite, gacha): busqué "Apothecary Diaries x
+  Fortnite", "Kusuriya no Hitorigoto collab game" (inglés) y "薬屋のひとりごと
+  コラボ ゲーム" (japonés) — sin resultado.
+- Confirmación en una segunda fuente (japonesa) del tren de colaboración de la
+  línea Yamanote: sólo lo cubre Oricon (news 6902) en inglés; lo dejo con ⚠️.
+- Fondos de pantalla "limpios" sin personaje en primer plano: los 15 de
+  Wallhaven llevan todos a algún personaje; un fondo sin gente tendría que
+  salir de un fotograma del anime (trabajo de vídeo, punto 4).
+
+## Bitácora
+
+- API GraphQL de AniList (`graphql.anilist.co`, POST) para confirmar
+  Media 161645 = "Kusuriya no Hitorigoto" / "The Apothecary Diaries" (inglés,
+  directo, sin buscador).
+- `api.php` de `kusuriya.fandom.com` (español no tiene wiki propia; se usó la
+  inglesa): `action=parse&prop=wikitext` en Rear_Palace, Red_Plum_Village, The
+  Apothecary Diaries x Universal Studios Japan, The Apothecary Diaries Anime
+  Exhibition, Kusushiki; `action=query&list=search` para localizar fichas de
+  sitios, colaboraciones y emblemas (varias consultas, en inglés).
+- `herramientas/navegar.py` para `assets.clip-studio.com` (pack de tramas
+  gratis) y para la API JSON de `ambientcg.com` (`curl` directo daba
+  connection reset).
+- `api.openverse.org` (directo, sin pasar por el buscador web) para brocados
+  CC0 (Smithsonian/rawpixel) y grano de papel.
+- Búsquedas en el buscador web (5 de mi cupo de ~50, en inglés): "free CC0
+  manga screentone brush pack download"; "Chinese cloud brocade seamless
+  pattern public domain texture"; `"Apothecary Diaries" Maomao figure Good
+  Smile Company OR Kotobukiya OR "POP UP PARADE"`; `"Apothecary Diaries" OR
+  "薬屋のひとりごと" Ibaraki tourism collaboration campaign` (con caracteres en
+  japonés en la propia consulta).
+- Medidas de color con Pillow (script propio, promedio de una caja de 7×7 px)
+  sobre las 4 fichas de diseño oficiales de Maomao/Jinshi descargadas de la
+  wiki (temporadas 2 y 3), evitando el contorno negro con recortes de
+  comprobación antes de medir.
+- Miradas completas las 4 hojas de contacto de `investigar_serie.py` (180
+  imágenes de la wiki) antes de elegir qué ampliar.

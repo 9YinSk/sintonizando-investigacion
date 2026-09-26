@@ -258,3 +258,86 @@ el encargo).
 - No encontré memes o parodias concretas de TikTok con conteo de vistas verificable (TikTok no se puede
   consultar por API sin cuenta desde este servidor); sólo confirmé por búsqueda web que existen decenas de
   vídeos bajo la etiqueta «capitan tsubasa tiro del aguila» · ⚠️.
+
+## Lo mejor para la lámina
+
+- La frase real y doblada «el balón es mi mejor amigo» (con minuto y enlace, punto 8): funciona como texto
+  de bienvenida de un canal, dicha por Tsubasa/Oliver con el balón al pecho.
+- Genzo Wakabayashi/Benji Price con su gorra puesta y su perro John: pose «guardián» perfecta para un
+  canal de reglas o de moderación («nada pasa mientras yo vigile»).
+- Kojiro Hyuga/Steve Hyuga con la manga subida y el grito «¡Tiro del Tigre!» (audio real, punto 8): la
+  imagen de mayor energía de los tres, sirve para un canal de retos o de lanzamiento de proyectos.
+- El dato de que Taro Misaki/Tom Misaki, un secundario, gana a Tsubasa en encuestas de fans (punto 7): pie
+  perfecto para un texto tipo «no siempre gana el protagonista», si el canal habla de doblaje de
+  secundarios.
+- Los dos doblajes latinos con actores distintos (punto 8): dato exacto para un canal de doblaje que quiera
+  explicar «un mismo personaje, dos voces, dos generaciones».
+
+## No encontré
+
+- Encuesta de popularidad **oficial** (Shueisha/Jump/Shueisha Grand Jump): busqué «キャプテン翼 人気投票
+  結果» en japonés y sólo hallé recopilaciones de sitios de fans; no hay evidencia de que la revista misma
+  publicara un ranking de personajes (a diferencia de series como My Hero Academia) · ⚠️.
+- «Comida favorita» propia de Tsubasa Ozora y de Genzo Wakabayashi en cualquier idioma (búsquedas en
+  japonés incluidas) · ⚠️.
+- Fotogramas de vídeo con minuto propio para las 5 emociones de Genzo Wakabayashi y de Kojiro Hyuga: el
+  archivo de vídeo que sí pude mirar entero (`super-campeones-1983-latino`, episodios 1 al 30) no alcanza
+  el arco donde ambos tienen protagonismo (Meiwa FC/Toho, Hamburgo); revisé los episodios 1, 18, 25 y 28
+  buscándolos y no aparecen con protagonismo de cara — sólo el arte oficial que ya reunió el investigador
+  de imagen (marcado ⚠️ en el punto 13) · búsquedas hechas: identificadores del archivo por título de
+  episodio, más `fotogramas.py --cada 20/25/30` en los 4 episodios citados.
+- Doblaje latino de la serie 2018 (David Production) confirmado en Doblaje Wiki: no apareció ninguna página
+  con ese título exacto en la búsqueda de la wiki; sólo un artículo de prensa (mediotiempo.com) que nombra
+  dos actores para esa versión, sin segunda fuente · ⚠️.
+- Escena identificada por nombre propio como «la que hace llorar a todo el fandom», con minuto, música y
+  reacciones citadas (comentarios más votados, vídeos de reacción): no llegué a los episodios donde ocurre
+  (arco Hamburgo/Alemania de Wakabayashi, posterior al episodio 30 disponible) · búsquedas hechas:
+  «Captain Tsubasa escena triste llorar reddit», sin resultado con minuto exacto.
+- Memes o «running gags» propios del doblaje latino en foros hispanos (más allá de la frase del balón-
+  mejor-amigo) · búsqueda hecha: «Reddit Captain Tsubasa español meme doblaje».
+- Conteo de vistas de vídeos de TikTok (parodias, retos con los nombres de las técnicas): TikTok no
+  responde a `curl`/`navegar.py` sin sesión iniciada desde este servidor.
+
+## Bitácora
+
+- Fandom (inglés) `captaintsubasa.fandom.com`, vía `action=parse&prop=wikitext`: páginas «Tsubasa Ozora»,
+  «Genzo Wakabayashi», «Kojiro Hyuga» (perfiles completos, historia, trivia, relaciones).
+- Fandom (japonés) `captaintsubasa.fandom.com/ja`: páginas «大空翼», «若林源三», «日向小次郎» (mismo
+  contenido con más detalle biográfico, en japonés).
+- Doblaje Wiki `doblaje.fandom.com/es`, vía `action=parse&prop=wikitext`: páginas «Súper Campeones» y
+  «Súper Campeones: Camino al mundial» (repartos completos de los dos doblajes latinos).
+- `herramientas/hermanas.py 47-captain-tsubasa-supercampeones` → «sin hermana».
+- Búsquedas web (español): «Benjamín Rivera Oliver Atom doblaje voz Supercampeones», «Jesús Barrero Tom
+  Misaki Supercampeones voz», «José Arenas Benji Price Genzo Wakabayashi doblaje voz», «Ricardo Mendoza
+  Steve Hyuga Kojiro Hyuga voz doblaje», «Captain Tsubasa encuesta popularidad personajes ranking oficial»,
+  «Supercampeones fandub español cover opening YouTube», «Supercampeones por qué la gente ama la serie
+  nostalgia latinoamerica futbol influencia», «Captain Tsubasa meme tiro del tigre / gato de acero / águila
+  fandom joke reddit», «José Arenas entrevista Súper Campeones Benji».
+- Búsquedas web (japonés): «キャプテン翼 人気投票 結果 キャラクター», «大空翼 好きな食べ物 趣味 データ
+  プロフィール», «若林源三 プロフィール 好きな食べ物 誕生日 趣味», «日向小次郎 プロフィール 誕生日 好きな
+  食べ物 性格».
+- `WebFetch` (bloqueado por 403 en pixiv.dic.net, usado en su lugar el fandom japonés): mediotiempo.com
+  («Conoce a las voces de Oliver Atom»), kamo2kamo.com (rondas 3 y 4 de encuesta de fans),
+  mangakastore.cl (bio de José Arenas).
+- Dailymotion, vía `api.dailymotion.com` (búsquedas: «Supercampeones doblaje latino», «Oliver Atom frase la
+  pelota es mi amiga», «Genzo Wakabayashi Benji Price frase», «Supercampeones 1983 Benji Price atajada»,
+  «Supercampeones Steve Hyuga tiro del tigre») + `herramientas/voz.py` en 3 clips oficiales:
+  `x5mwl6q` (boxset 1983, diálogo real con Roberto/Oliver niño), `x8wmme4` («El tiro del tigre»), `x2zx3gp`
+  (Oliver vs. Steve Hyuga) — todas transcritas con Whisper local, minuto y enlace `&t=` citados en el
+  punto 8.
+- Internet Archive `super-campeones-1983-latino` (colección de 30 episodios en español latino, DVD Zima
+  Entertainment): mirados fotograma a fotograma con `herramientas/fotogramas.py --cada 20/25/30` los
+  episodios 001 «El Desafío», 018 «Encuentro Entre Capitanes», 025 «Soy el Mejor Portero del Campeonato» y
+  028 «Los Bravos Jugadores del Norte» (hojas de contacto miradas con Read, no sólo generadas).
+- `yt-dlp --skip-download` (metadatos, sin descargar vídeo) para fandubs y covers en YouTube: búsquedas
+  `ytsearch8:Supercampeones fandub español latino` y `ytsearch6:opening Supercampeones cover español
+  latino`, más metadatos individuales del fandub de Manu CMR.
+- ANMTV (`anmtv.la`) no respondió a `curl` (HTTP 000, timeout) para su buscador interno; no se insistió más
+  de un intento, según regla de dos intentos por sitio bloqueado.
+
+Sigue: punto 13, faltan fotogramas con minuto real (no arte oficial) de Genzo Wakabayashi/Benji Price y de
+Kojiro Hyuga/Steve Hyuga en sus 5 emociones — hay que mirar episodios más allá del 30 del boxset
+`super-campeones-1983-latino` (o el arco Meiwa FC/Toho y Hamburgo en `Súper Campeones: Camino al mundial`
+en Internet Archive/Dailymotion) con `fotogramas.py`. Punto 21, falta al menos una escena identificada por
+nombre que haga llorar al fandom, con capítulo, minuto, música y reacciones citadas (no localizada dentro
+de los episodios 1-30 ya revisados).

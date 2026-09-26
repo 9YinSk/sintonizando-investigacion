@@ -96,9 +96,10 @@ rehacerla. Las fuentes de cada dato están en su sección.
 ### Los ⚠️
 
 - **Antes**: 75.
-- **Ahora**: 136 en el cuerpo (138 con la bitácora). Suben porque la
-  biblia creció en unas 1100 líneas (puntos 18-25 y 13 apartados nuevos)
-  y cada dato nuevo de una sola fuente lleva su ⚠️.
+- **Ahora**: 136 en el dossier (141 en todo el archivo, contando este
+  apartado y la bitácora nueva). Suben porque la biblia pasó de 1278 a
+  unas 2600 líneas (puntos 18-25 y 13 apartados nuevos) y cada dato
+  nuevo de una sola fuente lleva su ⚠️.
 - De los 75 viejos se **quitaron 13** en el texto (poses y cuerpos vistos,
   voces, plataformas, ojos rojos, luz de memoria). Otros siguen escritos
   pero quedan **resueltos en su apartado nuevo** (licencias de Sketchfab
