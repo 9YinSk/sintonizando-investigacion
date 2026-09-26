@@ -144,3 +144,40 @@ Todos ✅ [wiki, «Palace»](https://megamitensei.fandom.com/wiki/Palace) (fecha
 ### Vocabulario que un fan reconoce al instante
 **Persona, Metaverse (Metaverso), Palace (Palacio), Shadow (Sombra), Treasure (Tesoro), Mementos, Confidant (Confidente, antes «Social Link»), calling card, Third Eye (Tercer Ojo, detecta objetos/enemigos ocultos), All-Out Attack («Todos por uno», el ataque especial en grupo con la silueta roja), Velvet Room (la Sala de Terciopelo, con Igor y las gemelas), Persona user, cognición, código de guerra** (los apodos: Joker, Skull, Panther, Mona, Fox, Queen, Oracle, Noir, Crow, Violet). Todo ✅ visto en el propio TV Tropes y wiki, y confirmado también en las capturas oficiales que miré (punto 6).
 
+
+## 24 · Obras parecidas y temas relacionados
+
+- **Influencia confirmada por el propio director, Katsura Hashino**: la idea de partida fue «si existiera hoy un ladrón clásico como **Arsène Lupin**, ¿cómo fascinaría a la gente y cambiaría la sociedad?». Combina **novela picaresca** con ficción juvenil de instituto. Hashino temía que los fans lo compararan con **Lupin III** por la idea de los «ladrones fantasma» · ✅ dos fuentes ([Anime News Network](https://www.animenewsnetwork.com/news/2015-02-05/persona-5-director-katsura-hashino-talks-story-themes/.84132), recopilado también en Game Informer/Persona Central).
+- **Recomendaciones de usuarios de AniList** (ya en `datos-texto.md`, no repetido aquí): Persona 4, Persona 3, Persona 5: Mementos Mission, My Hero Academia: Vigilantes, JoJo's Bizarre Adventure (varias partes), Metaphor: ReFantazio, Spiral: Bonds of Reasoning, Devil Survivor, Bakemonogatari, Fairy Tail.
+- **Metaphor: ReFantazio** (2024) es del **mismo estudio y el mismo director, Katsura Hashino** (Studio Zero, con exmiembros del equipo de Persona) — la crítica la describe constantemente como «Persona en un mundo de fantasía», mismo lenguaje de UI recortado/collage · ✅ (recomendación de AniList + de dominio público que Hashino la dirige, confirmable en su [wiki de Wikipedia](https://en.wikipedia.org/wiki/Katsura_Hashino)).
+- **Catherine** (2011) usa el **mismo equipo de diseño de UI** que Persona 5 (Suto/Wada), con la misma filosofía de «un color principal fuerte primero» (rosa fucsia en vez de rojo) · ✅ [Famitsu, CEDEC+KYUSHU 2017](https://www.famitsu.com/news/201711/13145540.html) (fuente primaria, ya citada en el punto 18).
+- **Persona 3 y Persona 4**: misma saga, comparten el «Social Link»/Confidant y la estructura de instituto + mazmorra, pero con colores principales distintos (azul y amarillo) por decisión consciente de diseño (ver punto 18) · ✅.
+- **Cruce ya documentado en esta biblioteca de series**: *Sword Art Online* tuvo una colaboración oficial con Persona 5 Royal en los juegos móviles *Memory Defrag* e *Integral Factor* · ✅ (visto en `biblias/85-sword-art-online-todas/biblia.md`, línea 610) — es del punto 23 (colaboraciones), lo anoto para que no se repita al investigar esa serie.
+- **Qué otras láminas del servidor se le parecen**: revisé la lista completa de series en `biblias/` (más de 130 carpetas) y no hay ningún canal ya hecho de heist/crimen juvenil con estética punk-collage. El más cercano en paleta roja/negra y contraste duro es **Death Note** (18-death-note), pero el tono es opuesto (terror psicológico vs. rebeldía pop): no hay riesgo real de repetir idea de lámina ⚠️ (comparación propia, no una fuente externa).
+
+## Lo mejor para la lámina
+
+- La **calling card** (tarjeta negra, letras recortadas, lema «Take Your Heart») es el objeto de mundo real más reconocible de toda la serie: perfecta como «objeto real en sitio real».
+- El **cuadro de diálogo** blanco/negro angular, con retrato en la esquina y cinta de nombre inclinada, es la seña de identidad — nunca una burbuja blanca genérica.
+- El **calendario/reloj** (placa negra irregular con fecha, día y sol/luna) es un segundo elemento de UI, fácil de convertir en un objeto 3D (una placa o cartel).
+- **Un solo color fuerte manda**: rojo saturado, casi sin color secundario — es la regla de diseño real del estudio (Famitsu/CEDEC 2017), no una elección estética libre.
+- Letras libres ya comprobadas con tildes/ñ/¿/¡: **Jost** (logo), **Earwig Factory** (calling card/cartel), **Oswald** (interfaz), **Bangers** (grito), **Anton** (onomatopeya), **Caveat** (pensamiento), **Archivo** (créditos).
+
+## No encontré
+
+- **TCRF** (`tcrf.net/Persona_5`): bloqueado por el desafío anti-bot de Cloudflare, con `curl` y con `navegar.py` (403 los dos, dos intentos cada uno).
+- **Wayback Machine** (`web.archive.org`): la conexión se cortó a media descarga en los 4 intentos (con `curl` y con `navegar.py`); parece un fallo de red puntual del proxy compartido, no del sitio.
+- El blog **ridwankhan.com** («The Typography of Atlus USA», con detalle de fuentes de toda la saga) está bloqueado por el proxy de salida (`WebFetch` y `navegar.py`); lo sustituí con las fichas oficiales de Fontworks y el hilo de WhatFontIs.
+- **La fuente exacta de la interfaz en inglés** de Persona 5: no hay confirmación oficial de Atlus, sólo análisis de fans (Charisma, Slump, Optima Nova Black, Arsenal, P5 Hatty mezcladas) — lo dejo con ⚠️.
+- **La fuente de letra del manga en inglés** (edición de Udon): Udon no publica esos datos en ninguna ficha ni entrevista que encontrara.
+- **El motor gráfico** de Persona 5 (propio de Atlus o con licencia): no encontré ninguna fuente técnica que lo confirme.
+- No pude descargar **Anime Ace 2.0 BB** (Blambot) para comprobar tildes/ñ/¿/¡ con `fontTools` yo mismo: dafont y sus 4 réplicas devolvieron 403/404/vacío a `curl`. Queda con licencia confirmada (gratis, uso personal) pero glifos sin comprobar por mí ⚠️.
+
+## Bitácora
+
+- Búsquedas en español: «Entrevista Hisato Murasaki Persona 5», «ペルソナ5 ロゴ フォント» (japonés).
+- Búsquedas en inglés (≈16): tipografía del logo y de la UI, «Persona 5 UI font», «Atlus USA typography», «Persona 5 manga lettering Udon», «Persona 5 cel shading toon shader», «Katsura Hashino influences Lupin picaresque», «Persona 5 opening Production I.G Sayo Yamamoto», «Adapting Persona5 CloverWorks», «P5 Hatty font license», «github Persona 5 font mod», «Persona 5 Royal PC mod fonts».
+- Fuentes oficiales usadas: fichas de **Fontworks/Monotype** (`fontworks.co.jp`, fabricante real de las fuentes del juego), **Famitsu** (crónica de la charla CEDEC+KYUSHU 2017 de los propios diseñadores de UI de Atlus), **Art of the Title** (créditos oficiales completos del opening), wiki de **Megami Tensei** (Fandom, vía su API `action=parse&prop=wikitext`), **The Game UI Database**.
+- Fuentes de fans/comunidad, marcadas ⚠️: hilo de dafont sobre el logo, WhatFontIs sobre la fuente de diálogo, recopilaciones de mods de GameBanana sobre las fuentes de la UI en inglés.
+- Herramientas propias: `fontTools` (comprobación de á/ñ/¿/¡ en 8 fuentes candidatas, todas ✅), capturas oficiales de Steam (P5 Royal, Strikers, Tactica, The Phantom X) miradas en dos hojas de contacto propias, `navegar.py` (TV Tropes, funcionó; TCRF y algunos blogs, bloqueados), `curl` directo (funcionó donde `WebFetch` estaba bloqueado por el proxy: fontworks.co.jp, famitsu.com, artofthetitle.com, blog.alltheanime.com, ramenparados.com).
+- Webs que bloquearon el acceso: `tcrf.net` (Cloudflare), `ridwankhan.com` y `fontworks.co.jp`/`famitsu.com`/`artofthetitle.com` sólo vía `WebFetch` (con `curl` sí funcionaron), `web.archive.org` (fallo de red repetido), varios espejos de descarga de fuentes (dafont directo, fontsaddict, ffonts.net, wfonts — todos 403/404 a `curl`; `font.download` sí funcionó para Earwig Factory).

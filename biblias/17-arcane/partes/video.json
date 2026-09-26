@@ -61,5 +61,59 @@
     "que_es": "Recap de 1x04",
     "para_que": "Confirma el discurso del Día del Progreso como el mismo tramo que grabé (24:20-26:30)",
     "licencia": "CC BY-NC-SA (TV Tropes)"
+  },
+  {
+    "url": "https://archive.org/details/9convert.com-imagine-dragons-x-jid-enemy-from-the-series-arcane-league-of-legends-1080p",
+    "fuente": "Internet Archive (reupload del vídeo oficial de Enemy)",
+    "ancho": 1920,
+    "alto": 816,
+    "que_es": "Copia 1080p del vídeo musical oficial \"Enemy\" (Imagine Dragons x JID), 213 s, animado por Fortiche",
+    "para_que": "Punto 10: opening de la serie con fotograma propio y minuto exacto (logo ARCANE en 3:30), sin el bloqueo de login de YouTube",
+    "licencia": "Reupload de fans del vídeo oficial de Riot Games/Imagine Dragons; sólo como referencia de investigación"
+  },
+  {
+    "url": "https://archive.org/details/EnemywithJIDOpeningTitleVersion",
+    "fuente": "Internet Archive",
+    "ancho": 720,
+    "alto": 720,
+    "que_es": "\"Enemy with JID (Opening Title Version)\", recorte de 186 s (más corto que el vídeo musical completo)",
+    "para_que": "Punto 10: posible versión usada como cabecera de título dentro del reproductor, distinta del vídeo musical íntegro",
+    "licencia": "Reupload de fans; sólo metadatos comprobados, no se bajaron fotogramas"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/35990e4e-72da-4ca1-9193-2ee30cc23050",
+    "fuente": "MusicBrainz",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de \"Enemy (from the animated series Arcane: League of Legends)\", Imagine Dragons + JID, 2021-10-28",
+    "para_que": "Punto 9: confirma autores y fecha de lanzamiento del tema del opening",
+    "licencia": "CC0 / datos abiertos de MusicBrainz"
+  },
+  {
+    "url": "https://reddit.com/r/arcane/comments/1ogwy9g/enemy_start_playing_in_the_background/",
+    "fuente": "Reddit (r/arcane, vía arctic-shift.photon-reddit.com)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Post con 3041 votos y 21 comentarios sobre el momento en que suena \"Enemy\"",
+    "para_que": "Punto 10: evidencia de que el opening sigue siendo tendencia/meme del fandom",
+    "licencia": "Contenido de usuario de Reddit; sólo como referencia de investigación"
+  },
+  {
+    "url": "https://arcane.fandom.com/wiki/Everybody_Wants_to_Be_My_Enemy",
+    "fuente": "Arcane Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha y sinopsis del episodio 1x05",
+    "para_que": "Confirma la escena de Jinx con el dispositivo hextech (10:40-11:20) y el atraco a la caja fuerte (18:00) que grabé en fotogramas propios",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://arcane.fandom.com/wiki/When_These_Walls_Come_Tumbling_Down",
+    "fuente": "Arcane Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha y sinopsis del episodio 1x06",
+    "para_que": "Confirma la escena de Marcus, Ren y Silco (12:25-14:25) y el hex core en el laboratorio (27:00) que grabé en fotogramas propios",
+    "licencia": "CC BY-SA (Fandom)"
   }
 ]

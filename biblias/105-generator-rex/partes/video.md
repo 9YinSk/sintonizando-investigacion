@@ -57,11 +57,17 @@ Hex sacados con `estilo.py` sobre fotogramas propios (no de memoria).
   (créditos «Music by KEVIN MANTHEI» en el propio episodio) ·
   https://www.dailymotion.com/video/x1n1tr1&t=20 y ficha de la wiki
   `generatorrex.fandom.com/wiki/Kevin_Manthei` · ✅
-- Tema de apertura «Revolution», interpretado por la banda pop-punk **Orange**
-  (Los Ángeles, ex Hellcat/Epitaph): créditos «Main Title Music by ORANGE» en
-  el propio episodio y ficha `generatorrex.fandom.com/wiki/Orange` (contactados
-  por el productor John Fang tras que Cartoon Network buscara un tema
-  pop-punk) · ✅ (dos fuentes: créditos del show + wiki con entrevista citada)
+- Tema de apertura **«Revolution»**, interpretado por la banda pop-punk
+  **Orange** (Los Ángeles, ex Hellcat/Epitaph): créditos «Main Title Music by
+  ORANGE» en el propio episodio, ficha `generatorrex.fandom.com/wiki/Orange`
+  (contactados por el productor John Fang cuando Cartoon Network buscaba un
+  tema pop-punk) y confirmado además en Wikipedia (`en.wikipedia.org/wiki/
+  Orange_(band)`) y en Bandcamp de la banda (`orangeband.bandcamp.com/track/
+  revolution`, del álbum «Phoenix», 2009) · ✅ (cuatro fuentes)
+- La canción «Revolution» tiene versiones publicadas después en streaming:
+  «Lofi Version» y «Orchestral Version» en Apple Music/Spotify (con el
+  subtítulo «Generator Rex Theme Song»), señal de que la banda sigue
+  explotando el tema años después · https://music.apple.com/us/song/revolution-generator-rex-theme-song-lofi-version/1676200588 · ✅ (dos plataformas: Apple Music y Spotify)
 - «The Zoo» (tema del paseo de Rex y Bobo por el zoo en el episodio 1) se
   reutiliza en parte como música de los créditos de cierre · wiki
   `Soundtrack of Generator Rex` · ⚠️ (una fuente)
@@ -122,6 +128,7 @@ Hex sacados con `estilo.py` sobre fotogramas propios (no de memoria).
 | Rex con las manos abiertas hacia el espectador, cejas fruncidas, explicando algo urgente | Tráiler del videojuego (interior de ruinas) | 0:33 (https://www.dailymotion.com/video/x84bg5o&t=33) | Explicar / advertir |
 | Rex clava su Espada de Combate (Battle Saw) en el suelo, cuerpo en estocada baja, tres EVOs alrededor | Tráiler del videojuego (patio colonial) | 0:20-0:22 (https://www.dailymotion.com/video/x84bg5o&t=20) | Pelear / defender |
 | Rex con gafas puestas y sonrisa amplia, Punk Busters humeando detrás | Compilación de poderes T1 (episodio exacto no identificado) | 1:00 (https://archive.org/details/rex-salazar-all-powers-fights-scenes-1-generator-rex-s-01&t=60) | Presentar / triunfar tras la acción |
+| Bobo sentado sobre una caja, boina roja, sosteniendo una tablilla y con la otra mano en el aire, gesto de estar leyendo/calculando | Tráiler del videojuego (patio de contenedores) | 0:26 (https://www.dailymotion.com/video/x84bg5o&t=26) | Pensar / repasar un plan |
 
 ## Lo mejor para la lámina
 

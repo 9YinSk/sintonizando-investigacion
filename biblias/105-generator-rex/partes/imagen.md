@@ -24,6 +24,16 @@ y Rebecca Holiday: 121 imágenes enlazadas, 113 grandes, 3 hojas (en `hojas/`). 
 - «Rex Build Omnitrix.webp», arte promocional del crossover Ben 10/Generator Rex: Heroes United (Rex con un Omnitrix) · https://static.wikia.nocookie.net/generatorrexpedia/images/e/e4/Rex_Build_Omnitrix.webp · ✅ (hoja 1 nº2, se ve el hilo de Twitter de Duncan Rouleau -co-creador- confirmando que era técnicamente posible) · 1125×1377
 - Fotograma de Rex en su forma EVO completa/Omega-1 (transformación de cuerpo entero, textura dorada-armadura) · https://static.wikia.nocookie.net/generatorrexpedia/images/...(320-Full_Omega-1_form.png, hoja 1 nº30) · ⚠️ (una sola fuente, wiki) · 511×288
 
+- Portada oficial del DVD «Generator Rex, Volume 1» (primer lanzamiento en DVD, 19-oct-2010, EE.UU.), arte de
+  key visual con Rex en pose de acción y logo del show · Generator Rex Wiki · https://static.wikia.nocookie.net/generatorrexpedia/images/8/8a/Generator_Rex_volume_1.jpg · ✅ (wiki + 90sdvds.com y cinematerial.com listan la
+  misma caja) · 455×500
+- Índice con ~17 variantes de pósters/carátulas de TV de distintos países (incluida una portada de DVD rusa) ·
+  CinemaMaterial · https://www.cinematerial.com/tv/generator-rex-i1636691 · ⚠️ (índice, no se abrió cada variante
+  una por una; el redactor puede elegir la que más sirva)
+- Anuncio impreso promocional de Cartoon Network en formato página de cómic (2010), estilo de línea y color
+  oficial fuera de la wiki · eBay (venta de coleccionismo, la imagen del anuncio es la fuente) ·
+  https://www.ebay.com/itm/156490284583 · ⚠️ (una sola fuente, listado comercial)
+
 Sigue en «Bitácora» las búsquedas de arte fuera de wiki (portadas DVD/Blu-ray, artbook) que no dieron nada verificable en la red abierta de este contenedor.
 
 ## 15 · Vestuario, colores medidos

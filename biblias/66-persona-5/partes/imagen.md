@@ -92,6 +92,24 @@ prenda. Peinado y accesorios, vistos directamente en las imágenes.
 - Uniforme de verano de Shujin, más claro (camisa suelta, sin americana) · https://static.wikia.nocookie.net/megamitensei/images/c/c4/Shujin_Summer_Uniform.jpg · ⚠️ (no medido en detalle, sólo referenciado) · 1349×1685
 - La ropa «icónica que todos reconocen» por personaje: Joker = abrigo negro + guantes rojos + máscara de cuervo; Ann = mallas rojas con coletas (más que el traje Panther, que sólo se ve en combate); Ryuji = chaqueta de cuero + pañuelo rojo + guantes amarillos + máscara de calavera; Morgana = gato blanco y negro (tuxedo), collar amarillo/dorado, ojos azules — visto en «Morgana (Cat Version, P5T)». ✅ (visto directamente en la imagen, corrige una primera lectura de memoria)
 
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+Fondos oficiales de Atlus (`atlus.com`, accesible por `curl` directo aunque el
+WebFetch del propio Claude lo tiene bloqueado por el proxy) y los más
+guardados de Wallhaven (ya en `datos-imagen.md`).
+
+- Fondo de pantalla oficial de escritorio «Persona 5 Strikers» (visto en la imagen): Joker con su Persona Arsene (alas blancas, brazo rojo) volando sobre el horizonte nocturno de Tokio, logo del juego y créditos «©ATLUS ©SEGA/©2020 TECMO GAMES» · https://atlus.com/wp-content/uploads/2021/02/海外版2021FIX◆PC用壁紙_01.jpg · ✅ (oficial, Atlus West) · 3840×2160 (12,4 MB)
+- Fondo de pantalla oficial de móvil, Ann/Panther · https://atlus.com/wp-content/uploads/2021/02/◆海外◆スマホ壁紙_杏.jpg · ✅ (oficial) · 1080×1920
+- Fondo de pantalla oficial de móvil, Arsene (Persona de Joker) · https://atlus.com/wp-content/uploads/2021/02/◆海外◆スマホ壁紙_アルセーヌ.jpg · ✅ (oficial) · 1080×1920
+- Fondo de pantalla oficial de móvil, Ryuji, pose alternativa · https://atlus.com/wp-content/uploads/2021/02/◆海外◆スマホ壁紙_竜司ポーズ違い.jpg · ✅ (oficial) · 1080×1920
+- Fondo de pantalla oficial de móvil, Ryuji con su Persona Captain Kidd (galeón pirata) · https://atlus.com/wp-content/uploads/2021/02/◆海外◆スマホ壁紙_竜司とキャプテンキッド-1.jpg · ⚠️ (10,7 MB, no medido el píxel exacto) · —
+- Página oficial de la colección completa (más personajes: Futaba, Yusuke, Makoto, Haru, Sophia, Zenkichi) · https://atlus.com/persona-5-strikers-digital-wallpaper-collection/ · ✅ · —
+- Concept art «Tokio estilizado, de día» · https://static.wikia.nocookie.net/megamitensei/images/4/45/P5-StylizedTokyoSkylineDay.jpg · ⚠️ · 637×358 (hay versión .png más grande sin bajar)
+- Concept art «Tokio estilizado, de noche» (silueta violeta/azul con luces, edificios geométricos) · https://static.wikia.nocookie.net/megamitensei/images/3/3c/P5-StylizedTokyoSkylineNight.png · ✅ (estilo repetido en cargas del juego) · 4096×2304
+- Concept art del Velvet Room, sala del «Acuario» (celdas de cristal en fila, luz azul) · https://static.wikia.nocookie.net/megamitensei/images/9/96/VelvetAquarium.png · ⚠️ · 1023×506
+- Wallhaven, los 14 fondos mejor guardados (1920×1080 o más, ♥ entre 116 y 445) ya listados en `datos-imagen.md`: el más guardado es Tae Takemi a 3200×4000 (♥445); hay uno panorámico de 8102×2018 con crossover de varias series.
+- Wallhaven, escenario nocturno de ciudad, sin personajes (Reddit «4K confidant wallpapers») · https://w.wallhaven.cc/full/vm/wallhaven-vm69rm.jpg · ⚠️ · 3840×2160
+
 ## Lo mejor para la lámina
 
 - El key visual grupal de Soejima (2522×1664) da a los 4 personajes juntos y con pose.

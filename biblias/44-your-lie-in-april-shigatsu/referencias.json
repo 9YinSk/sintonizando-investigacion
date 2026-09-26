@@ -193,8 +193,8 @@
   "fuente": "Internet Archive (rip TV 1080p)",
   "ancho": 1920,
   "alto": 1080,
-  "que_es": "Watari inclinado hacia delante, preocupado, mirando a Kousei tocar",
-  "para_que": "pose de Watari para el punto 14",
+  "que_es": "Takeshi Aiza (no Watari, corregido en la hoja fotogramas_03 #16) inclinado, preocupado, «Is this the Arima I know?»",
+  "para_que": "pose de Takeshi Aiza, rival de Kousei",
   "licencia": "© Aniplex/Kodansha; copia de archivo, referencia"
  },
  {
@@ -828,7 +828,7 @@
   "licencia": "© AniPlaylist"
  },
  {
-  "url": "https://www.youtube.com/watch?v=V3EP2vqpRuU?t=0",
+  "url": "https://www.youtube.com/watch?v=V3EP2vqpRuU&t=0",
   "fuente": "YouTube, canal «Luxe KO» (Hana, Balu, Jhair, Luxe), cover en español de «Hikaru Nara» (opening)",
   "ancho": 0,
   "alto": 0,
@@ -1427,15 +1427,6 @@
   "ancho": null,
   "alto": null,
   "que_es": "Retrato de Saki Arima",
-  "para_que": "cara y colores base del personaje",
-  "licencia": "© titulares; sólo referencia"
- },
- {
-  "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
-  "fuente": "AniList",
-  "ancho": null,
-  "alto": null,
-  "que_es": "Retrato de Otokonoko",
   "para_que": "cara y colores base del personaje",
   "licencia": "© titulares; sólo referencia"
  }

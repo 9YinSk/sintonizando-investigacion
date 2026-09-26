@@ -202,3 +202,58 @@ mejor documentados en Nagumo porque su ficha cita el *Sakamoto Days Official Fan
   en la wiki en inglés ni en AniList; puede estar sólo en el *Official Fan Book* japonés, no
   traducido (ver «No encontré»).
 
+## 21 · Por qué la gente la ama
+
+Datos de ventas y streaming (varios medios especializados, todos citando cifras oficiales de
+Shueisha o del propio reporte de Netflix) y de escenas que hacen llorar o reír (TV Tropes).
+
+- El manga superó los **18 millones de copias en circulación mundial** en 2026 (arrancó en
+  2020); en 2025 fue el 7º manga más vendido de Japón con 2,344 millones de copias ese año ·
+  Anime News Network + Gamerant (coinciden en la progresión 7M dic-2024 → 15M ago-2025 → 18M 2026) ✅
+- ComicBook.com confirma **15 millones de copias** a agosto de 2025 citando el tuit oficial de
+  @SAKAMOTO_STORE («全世界累計1500万部大突破», «superamos los 15 millones en todo el mundo») ·
+  https://comicbook.com/anime/news/sakamoto-days-manga-ending-sales-milestone/ ✅ (artículo + tuit oficial incrustado)
+- El anime tuvo el **mejor estreno de la historia de Netflix para un anime hasta ese momento**:
+  8,6 millones de vistas en su primera semana, superando el récord de *Baki Hanma* (6
+  millones); quedó 2º en el ranking global no-anglófono de Netflix, sólo detrás de *Squid
+  Game* temporada 2 · Game Rant + ScreenRant + CBR (mismo dato, medios distintos) ✅
+- En el reporte de Netflix del primer semestre de 2025, Sakamoto Days fue el anime **más visto
+  de la plataforma** ese periodo, con 24,4 millones de vistas (por delante de *Devil May Cry*,
+  18,2 millones, y *Dandadan*, 7,5 millones) · ScreenRant + CBR ✅
+- Recepción mixta del anime al inicio (se saltó capítulos del manga); el propio director
+  **Masaki Watanabe** reconoció las quejas de los fans («algunos pensaron que era demasiado
+  ligero... pedían colores más maduros») y prometió cambios para la 2ª parte ·
+  https://comicbook.com/anime/news/sakamoto-days-manga-ending-sales-milestone/ ✅ (cita directa del director en la misma nota)
+- Con qué personaje se identifica el público: con **Sakamoto**, por el contraste entre padre
+  de familia común y leyenda oculta (razón más repetida en reseñas y en Reddit, ver punto 12);
+  con **Shin**, por sentirse «diferente» por sus poderes pero seguir siendo leal y cariñoso ·
+  https://sakamoto-days.fandom.com/wiki/Shin_Asakura#Personality ⚠️ (interpretación propia sobre datos de carácter, no una encuesta directa de identificación)
+
+**Escenas que hacen llorar** (capítulo/episodio, qué pasa, por qué duele):
+- Cap. 202 (arco de la cárcel de la JAA): muere Ando, el padre adoptivo distante de Shin; se
+  interpone para salvarlo, bromea que «Shin nunca tendría madera de asesino» y en su cabeza
+  piensa «vaya que creciste» antes de morir. Shin llora al entender que sí lo quería, aunque
+  nunca supo decirlo · https://tvtropes.org/pmwiki/pmwiki.php/YMMV/SakamotoDays (sección Tear Jerker) ⚠️ (una fuente, TV Tropes; no se pudo mirar el capítulo en imagen: es manga, no anime, y el arco es muy tardío)
+
+**Escenas que emocionan/enternecen** (Heartwarming, TV Tropes):
+- Cap. 16: Sakamoto pelea contra otros padres y abuelos en un centro comercial por conseguir
+  la última mochila de edición limitada que pidió Hana; cuando Shin le pregunta por qué se
+  esfuerza tanto, le lee la mente y ve el recuerdo del nacimiento de Hana — ahí entiende cuánto
+  la ama · https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/SakamotoDays ⚠️ (una fuente)
+- La primera viñeta de la serie: Sakamoto recién nacido en brazos, con la hija recién nacida,
+  sonrojado de felicidad — la propia wiki lo señala como una de las imágenes más entrañables
+  de la introducción · misma fuente ⚠️
+- Referencia emotiva a *My Hero Academia* cuando esa serie terminó (cap. 177 de Sakamoto Days,
+  coincidiendo con el fin de MHA): Shin llorando a moco tendido leyendo los tomos mientras el
+  resto del reparto posa en una piscina de fondo · misma fuente ⚠️
+
+**Escenas que hacen reír** (Funny, TV Tropes, por episodio del anime):
+- Ep. 1: Sakamoto imagina —dentro de su cabeza— que mata a Shin apenas lo ve aparecer; a Shin
+  le enoja muchísimo ver esa imagen mental tan gráfica.
+- Ep. 4 «Hard-Boiled»: toda la venganza personal de Boiled contra Sakamoto es que, siendo
+  asesino, Sakamoto era muy popular con las asesinas y casi no notaba a Boiled; Obiguro queda
+  decepcionado de que ese sea el motivo «serio» de Boiled.
+- Ep. 5: mientras Sakamoto recupera su forma «prime», Shin se pone a tomarle fotos sin parar
+  para no perdérselo, porque sabe que en un día recuperará todo el peso otra vez.
+  · https://tvtropes.org/pmwiki/pmwiki.php/Funny/SakamotoDays ⚠️ (una fuente, TV Tropes; buen candidato para revisar en vídeo si se consigue el episodio completo)
+

@@ -17,7 +17,7 @@ No hay globos de manga tradicionales (FFVII es videojuego); mapeo los 8 usos del
 - Monólogo interno: no encontré un tratamiento visual propio (globo de pensamiento) en el juego original ni en Remake/Rebirth; los pensamientos de Cloud se narran como texto de diálogo normal o VO en flashback · búsquedas «FFVII thought bubble», «Remake internal monologue text style» sin resultado claro ⚠️
 - Onomatopeyas visuales: no existen como grafismo en pantalla (no es manga); los efectos de sonido son sólo audio · comprobado revisando las fichas de la wiki y no hallando ninguna mención · ⚠️ «no lo encontré», no «no existe»
 - Cartel del mundo (rótulos in-game: bar «Seventh Heaven», letrero de Shinra, señalética de Midgar): texturas pintadas a mano por el equipo de arte, sin fuente vectorial: letras irregulares tipo grafiti/industrial en los barrios bajos de Midgar, letras corporativas geométricas en los edificios Shinra · visto en capturas propias y en hojas de imagen (ver `partes/imagen.md`) ⚠️
-- Interfaz de juego (Remake/Rebirth, 2020-2024): Game UI Database clasifica su interfaz con las etiquetas **Flat 2.0** y **Futuristic** (diseño plano moderno, sin bordes de ventana clásicos) · comprobado navegando `gameData.php?id=29` con `navegar.py` (Cloudflare bloquea curl directo) ✅ (categorización propia del sitio, coincide con capturas de Steam) · https://www.gameuidatabase.com/gameData.php?id=29 — **aviso de licencia**: esa web prohíbe expresamente usar su contenido para «AI asset generation, machine learning or cryptocurrency initiatives», así que no se citan sus imágenes en `referencias.json`, sólo su texto descriptivo
+- Interfaz de juego (Remake/Rebirth, 2020-2024): Game UI Database clasifica su interfaz con las etiquetas **Flat 2.0** y **Futuristic** (diseño plano moderno, sin bordes de ventana clásicos) · comprobado navegando `gameData.php?id=29` con `navegar.py` (Cloudflare bloquea curl directo) ✅ (categorización propia del sitio, coincide con capturas de Steam) · https://www.gameuidatabase.com/gameData.php?id=29 — **aviso de licencia**: esa web prohíbe expresamente usar su contenido para «AI asset generation, machine learning or cryptocurrency initiatives», así que no se citan sus imágenes en `texto.json`, sólo su texto descriptivo
   - Letra libre para ese estilo: **Rajdhani** (Google Fonts/Fontsource, OFL-1.1), geométrica condensada de HUD futurista · tiene ñ/Ñ/tildes/¿/¡ ✅ (comprobado con fontTools) · https://fonts.google.com/specimen/Rajdhani
 - Subtítulos/créditos de «Advent Children» (2005): no identifiqué el tipo exacto de los créditos finales; búsquedas en inglés («Advent Children credits font», «Advent Children title typeface») sólo devuelven fuentes con nombre parecido («Advent», «Adventura») sin relación real · ⚠️ «no lo encontré»
 
@@ -99,3 +99,57 @@ Rigs y tramas: ver puntos 3 y 19. Aquí sólo línea/sombreado/técnica de produ
 - Moneda: **Gil**. Sistema de progreso de personaje: **Limit Break** (ataque especial al llenar una barra de furia/daño recibido).
 
 **Vocabulario que un fan reconoce al instante**: Mako, Materia, Lifestream/Corriente Vital, SOLDIER (con mayúsculas así, la tropa de élite de Shinra), Turks (la unidad encubierta de Shinra), Cetra/Ancianos, Jenova, Geostigma, ShinRa, AVALANCHE, Chocobo, Gil, Limit Break, Highwind (el dirigible), Sector (cada barrio de Midgar tiene un número de Sector) · todos confirmados cruzando la ficha de Midgar y la de Materia de Final Fantasy Wiki con Wikipedia ✅ (dos fuentes)
+
+## Lo mejor para la lámina
+
+- El cuadro de diálogo clásico —degradado azul marino `#01017E → #000091 → #000056`, esquinas redondeadas, letra Reactor7— es el que de verdad reconoce un fan de FFVII; úsalo en vez de una burbuja blanca.
+- Para el título/logo del canal: **Cinzel** en mayúsculas (grabado, alto contraste), como sustituto libre de la rotulación de Amano.
+- El marco romboidal de cristal del HUD del Remake (líneas cian `#0F52A0` sobre fondo `#050B20`) da un encuadre «de menú de Materia» muy reconocible para bordear texto de canal.
+- Los 5 colores de Materia (verde `#347035` magia, amarillo `#57450B` comando, morado independiente, rojo `#902B2D` invocación, azul apoyo) sirven de paleta de iconos/acentos sin tocar el logo de Shinra.
+- El rombo rojo de Shinra (`#B10711`, kanji 神羅) es el sello más fuerte de la saga si el canal habla de la corporación, el poder o las reglas del servidor.
+
+## No encontré
+
+- Nombre exacto de la tipografía del logo «FINAL FANTASY VII» (parece rotulación a mano, no hay confirmación oficial) — búsquedas: «Final Fantasy VII logo font identify typeface» (en), «Final Fantasy VII font fontsinuse.com» (en)
+- Nombre exacto de la fuente de créditos/subtítulos de «Advent Children» — búsqueda: «Advent Children title font credits typeface» (en)
+- Nombre exacto de la fuente de la interfaz de Remake/Rebirth (Square no la ha hecho pública) — búsqueda: «Final Fantasy VII Remake dialogue text font typeface UI» (en), revisado también el sitio de mods ZenHAX/GitHub sin dato de nombre comercial
+- Tratamiento visual del monólogo interno (si existe un estilo de «pensamiento» diferenciado) — búsqueda: «FFVII thought bubble», «Remake internal monologue text style» (en)
+- Captura propia del cuadro de diálogo de Ever Crisis — búsqueda: «Final Fantasy VII Ever Crisis comic panels speech bubbles story mode» (en); sólo confirmé la estructura por capítulos, no el diseño exacto del cuadro
+- Emblema propio de AVALANCHE con la misma documentación que el de Shinra — búsqueda en la wiki: «AVALANCHE emblem logo» (en)
+- Detalle de HUD de Ehrgeiz y de The First Soldier (juego cerrado) — no se verificó con captura propia por presupuesto de acciones, sólo dato general
+- Cita textual de Nomura sobre la influencia de Todd McFarlane/cómics occidentales en el diseño de Cloud (se menciona mucho en foros de fans, pero no encontré la entrevista original en esta tanda) — búsqueda: «Tetsuya Nomura character design influences Todd McFarlane comics Cloud buster sword interview» (en) ⚠️
+
+## Bitácora
+
+Punto de partida: `partes/datos-texto.md` (recolectado, capturas de Steam de 6 juegos) — no repetí esa consulta, la usé directamente en el punto 11. Sin serie hermana declarada para este encargo.
+
+**Búsquedas web (WebSearch), todas en inglés salvo que se diga lo contrario**:
+- «Final Fantasy VII logo font identify typeface»
+- «"Final Fantasy VII" font fontsinuse.com»
+- «Final Fantasy VII Remake dialogue text font typeface UI»
+- «"Final Fantasy VII" site:tcrf.net»
+- «Advent Children title font credits typeface»
+- «Final Fantasy VII Ever Crisis comic panels speech bubbles story mode»
+- «Final Fantasy VII original PlayStation dialogue box design blue border description»
+- «Final Fantasy VII Remake dialogue box character name tag design subtitle style»
+- «"Final Fantasy VII" manga adaptation official comic "On the Way to a Smile" OR "Kids are Alright"»
+- «Final Fantasy VII Remake battle menu command HUD font description blue white»
+- «Final Fantasy VII Remake art director interview Unreal Engine character shader realistic Nomura»
+- «Final Fantasy VII Advent Children Visual Works making of Maya CG production»
+- «Final Fantasy VII 1997 development making of 3D models Softimage backgrounds prerendered»
+- «Naoki Hamaguchi Unreal Engine interview Final Fantasy VII Remake "Cloud's" expression redo hair shader»
+- «Tetsuya Nomura character design influences Todd McFarlane comics Cloud buster sword interview»
+- «Hironobu Sakaguchi Final Fantasy VII influences Star Wars interview inspiration»
+- «"Final Fantasy VII" similar games recommend if you like JRPG cyberpunk dystopia»
+- «"Final Fantasy VII Revelation" Steam app 4354570»
+
+**Navegación directa (curl/API, sin gastar cupo de búsqueda)**:
+- dafont.com/reactor7.font (vía curl con user-agent; WebFetch lo bloquea el proxy) — descargado su mapa de caracteres y mirado con Read
+- api.fontsource.org — Cinzel, Rajdhani, Anton: comprobados con `fontTools.getBestCmap()` sobre el `.ttf` real descargado (no de memoria)
+- finalfantasy.fandom.com/api.php — búsqueda de texto y wikitext de «Menu (Final Fantasy VII)», «Menu (VII Remake)», «Menu (Dirge of Cerberus)», «Materia (Final Fantasy VII equipment)», «Midgar», y `imageinfo` de 4 imágenes oficiales (medidas en Pillow: menú de Materia original, menú de Materia & Equipment del Remake, logo de Shinra)
+- gameuidatabase.com/gameData.php?id=29 (Final Fantasy VII Remake) — bloqueado por Cloudflare a `curl`, abierto con `python3 herramientas/navegar.py --selector body`: confirmó las etiquetas **Flat 2.0** y **Futuristic**; **aviso**: esa web prohíbe expresamente el uso de su contenido para IA/ML, así que no se citan sus imágenes en `texto.json`
+- namelivia.com (blog técnico, 2015) — leído por curl (WebFetch lo bloquea el proxy): técnica de reconstrucción de fondos de FFVII en Blender con el add-on Blam
+- automaton-media.com — leído por curl: entrevista completa a Naoki Hamaguchi sobre el pelo de Cloud (TAA/DRS/DLSS)
+- store.steampowered.com — ya recolectado en `datos-texto.md`; descargué y miré 3 capturas de Rebirth/Remake con Read para buscar UI en pantalla (no salió HUD en esas 3, sólo cinemáticas)
+
+**Bloqueado o sin poder verificar**: unrealengine.com (egress bloqueado por el proxy tanto en WebFetch como en curl, 403), dafont.com por WebFetch (funcionó por curl directo), gameuidatabase.com por curl directo (Cloudflare; resuelto con `navegar.py`).

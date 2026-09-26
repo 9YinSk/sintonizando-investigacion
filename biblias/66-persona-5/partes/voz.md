@@ -85,6 +85,49 @@ narrado por el periodista · ✅ (visto, no trae frases de personajes)
 
 ## Hallazgos · Punto 12 — Lo que el fandom ama y qué NO hacer
 
+Fuente principal de esta sección: TV Tropes, página de memes de la obra (texto completo bajado con
+`navegar.py --html`, TV Tropes esconde los memes en carpetas plegables que un `inner_text` normal no
+lee, así que se sacó el HTML entero y se limpiaron las etiquetas a mano) ·
+https://tvtropes.org/pmwiki/pmwiki.php/Memes/Persona5 · ✅ (página comunitaria pero cada entrada cita
+la fuente in-game; contrastado con lo ya visto en los fotogramas propios, ver punto 13)
+
+- **«FOR REAL?!»** — la muletilla de Ryuji, doblada de verdad en inglés/japonés; Atlus le hizo un guiño
+  llamando «For Reels» a una tragaperras oficial dentro del juego · TV Tropes (Memes) · ✅ (el propio
+  juego lo referencia, dato verificable jugando/viendo el minijuego)
+- **«Looking cool, Joker!» / «It's almost scary how good I am!»** — frases de Morgana como navegador
+  de combate que se repiten muchísimo; Atlus las reusó como una de las burlas (taunts) de Joker en
+  *Super Smash Bros. Ultimate*, con la voz de Morgana real · TV Tropes (Memes) · ✅
+- **El amor de Yusuke por las langostas / #FeedYusuke** — en la «isla playera» compra dos langostas
+  «por apreciarlas», y por su pasado de hambre bajo Madarame los fans quieren «alimentarlo» siempre ·
+  confirmado con imagen y diálogo real (ver punto 13, clip doblado al inglés, minuto 1:32-1:40) ·
+  TV Tropes (Memes) + clip visto · ✅ (dos fuentes: texto del meme y el propio clip con el diálogo)
+- **«Being Goro is suffering»** — el fandom quiere mucho a Akechi precisamente por lo trágico de su
+  historia (muere sin que casi nadie en el mundo del juego lo llore) · TV Tropes (Memes) · ⚠️ (una
+  fuente, pero coincide con que Akechi entra 3º-5º en las dos encuestas oficiales del punto 7)
+- **Morgana y la hora de dormir** — Morgana obliga a Joker a irse a dormir casi cada noche («You must
+  be tired…»); la actriz de doblaje en inglés, Cassandra Lee Morris, llegó a narrar un cuento infantil
+  real con la voz de Morgana como guiño a este meme · TV Tropes (Memes) · ⚠️ (una fuente, dato curioso
+  de cultura de fans, no crítico para la lámina)
+- **Apodos cariñosos de las Personas:** el Persona de Makoto (Johanna, una moto basada en un Papa)
+  apodado «Popemobile»; el de Ann (Carmen) conectado de broma con Carmen Sandiego · TV Tropes (Memes) · ⚠️
+- **Lala Escargot «best girl»** — un PNJ secundario (dueña del bar Crossroads) muy querida pese a no
+  tener Confidant propio, por ser una representación LGBT positiva y una figura de autoridad razonable
+  · TV Tropes (Memes) · ⚠️ (un dato de nicho, útil para saber qué NO ignorar si se hace lámina del bar)
+
+**Qué NO hacer (lo que un fan notaría falso):**
+- No dibujar a Joker **sin sus guantes rojos**: cuando una colaboración oficial (ropa de Persona 5 para
+  el avatar de *Sonic Forces*) salió sin ellos, el fandom lo notó al instante y lo volvió meme
+  («NO GLOVES!») · TV Tropes (Memes) · ✅ (referencia a un caso real de colaboración oficial)
+- No poner a Morgana como «sólo un gato»: él se enoja si lo llaman gato, se ve a sí mismo como un ser
+  que fue humano y perdió la memoria · wiki (Morgana, sección Personality, ya en `datos-voz.md`) · ✅
+- No hacer a Ryuji tranquilo o comedido: su gracia es gritar y hablar con `'` en vez de `g` final
+  («hangin'», «bein'») — ver cita real en el punto 13 · wiki (Ryuji, Personality) · ✅
+- No convertir a Akechi en un villano plano de una nota: el fandom lo quiere por su tragedia, no sólo
+  por «el traidor» · deducido de «Being Goro is suffering» + su posición alta en las encuestas del
+  punto 7 · ✅
+- No dibujar a Yusuke comiendo algo «normal» y sin entusiasmo: su gag es la comida (hambre crónica,
+  amor por la langosta) — ver diálogo real en el punto 13 · ✅
+
 ## Hallazgos · Punto 13 — Descripción profunda de cada personaje
 
 ## Hallazgos · Punto 20 — Gustos y detalles de cada personaje
