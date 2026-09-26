@@ -3,9 +3,7 @@
 Investigador de voz y personajes. Puntos 7, 8, 12, 13, 20, 21 y 22 de ENCARGO.md.
 Libreta de datos: un dato por línea, con fuente(s), ✅/⚠️ y minuto o tamaño si aplica.
 
-## Hallazgos
-
-### 7 · Encuestas de popularidad
+## 7 · Encuestas de popularidad
 Zelda no es un anime con encuestas anuales, pero la revista japonesa *Nintendo Dream* hace encuestas
 oficiales de personaje por juego, con miles de votos de lectores. En Occidente el fandom vota con
 memes y torneos tipo GameFAQs.
@@ -20,7 +18,7 @@ memes y torneos tipo GameFAQs.
 - Medida indirecta de cariño del fandom, dibujos de fans (Danbooru, etiqueta «the_legend_of_zelda», 39.059 dibujos en total): Link 21.026 · Zelda 16.833 · Midna 2.419 · Ganondorf 1.560 · Sheik 908 · https://danbooru.donmai.us/posts?tags=the_legend_of_zelda · ✅ (recuento directo de la API)
 
 
-### 8 · Doblaje latino y frases textuales
+## 8 · Doblaje latino y frases textuales
 Sorpresa importante: sí hay doblaje latino oficial, y bastante. Nintendo dobló al español (México) la
 serie animada de 1989 y, desde *Breath of the Wild* (2017), cada juego 3D grande con diálogo hablado.
 Es el primer videojuego de Nintendo doblado en México (antes se hacía desde EE.UU.). Todo confirmado
@@ -82,7 +80,7 @@ oficiales de audio de Doblaje Wiki, Whisper en local; nombres propios repasados 
   incluya estas líneas exactas: las muestras de Doblaje Wiki son clips cortos ya recortados, sin
   minutero propio; por eso el minuto citado es el de la propia muestra (0:00 = inicio del audio).
 
-### 12 · Lo que el fandom ama, y qué NO hacer
+## 12 · Lo que el fandom ama, y qué NO hacer
 Es una franquicia de 38 años con memes muy asentados y un fandom que nota enseguida un error de
 diseño (el Triforce mal puesto, la Espada Maestra mal dibujada). Esto es justo lo que pide el dueño:
 «que no parezca hecho por IA».
@@ -139,7 +137,7 @@ diseño (el Triforce mal puesto, la Espada Maestra mal dibujada). Esto es justo 
   sin criterio en una misma imagen se lee como error, no como referencia intencional · nota de
   cultura general del fandom · ⚠️
 
-### 13 · Personajes a fondo: carácter, cómo se expresan y su cara en cada emoción
+## 13 · Personajes a fondo: carácter, cómo se expresan y su cara en cada emoción
 Centrado en Link, Zelda y Ganon/Ganondorf (los 3 que pide el encargo para empezar), con base en
 *Breath of the Wild* / *Tears of the Kingdom* (las versiones más jugadas hoy) y contraste con otras
 eras cuando aporta matiz. Las descripciones de personalidad ya bajadas en `datos-voz.md` (Zelda Wiki,
@@ -209,7 +207,7 @@ secciones «Personality») son la base; aquí se profundiza con arco, miedos y f
 | Rey Rhoam | Seriedad / autoridad | *BOTW: The Champions' Ballad*, tráiler DLC (Nintendo, 2017) | 1:44 | https://www.dailymotion.com/video/x6bc0bm?t=104 |
 | Link | Recién despierto, neutro/curioso | *BOTW*, primeros minutos (gameplay doblado, canal Hobby Consolas) | 2:15 | https://www.dailymotion.com/video/x5ahli0?t=135 |
 
-### 20 · Gustos y detalles de cada personaje
+## 20 · Gustos y detalles de cada personaje
 Zelda no tiene *databook* de personaje al estilo anime (con cumpleaños y comida favorita fijados por
 el autor); los datos «duros» que sí existen (altura) salen del libro oficial *Hyrule Historia* (2011)
 y de la propia *Encyclopedia* (2018). Lo demás sale del comportamiento mostrado en el juego.
@@ -251,7 +249,7 @@ y de la propia *Encyclopedia* (2018). Lo demás sale del comportamiento mostrado
 | Zelda | la ciencia, la tecnología Sheikah, la arquitectura, la historia, la naturaleza | sentir que no está a la altura de su título | investigar, observar la naturaleza | no encontré fecha oficial | 5'6" (CBR, sin confirmar en fuente oficial) | GameFAQs «Hobbies of the Rich» + CBR ⚠️ |
 | Ganon/Ganondorf | el poder, dominar Hyrule, su corcel negro | perder el control, que lo subestimen (irónico, porque él subestima a otros) | montar su corcel, la guerra | no encontré fecha oficial | 7'7" / 231 cm (forma bestia, *Hyrule Historia*) | Zelda Wiki (Ganon) + CBR (Hyrule Historia) ⚠️ |
 
-### 21 · Por qué la gente la ama
+## 21 · Por qué la gente la ama
 - Razón más citada en reseñas de *Breath of the Wild*: la libertad real de mundo abierto combinada con
   un motor de físicas muy trabajado (fuego, viento, hielo, electricidad se combinan para resolver
   puzles y pelear), «ningún recorrido es igual a otro» · https://www.3djuegos.com/juegos/the-legend-of-zelda-breath-of-the-wild/noticias/zelda-breath-of-the-wild-es-unico-razones-por-las-que-debes-jugarlo-190205-5216 · ✅ (coincide con Xataka y Vandal)
@@ -273,7 +271,7 @@ y de la propia *Encyclopedia* (2018). Lo demás sale del comportamiento mostrado
   perfil, luz baja y cálida detrás, silencio salvo la voz entrecortada — es un recurso muy típico de
   Zelda: pausar la acción para un primer plano quieto en los momentos más tristes.
 
-### 22 · Fan dubs y comunidad hispana
+## 22 · Fan dubs y comunidad hispana
 YouTube bloqueó el acceso desde este servidor durante toda la sesión (HTTP 429 / «confirma que no eres
 un bot», con y sin espera), así que los fandubs de YouTube sólo se pudieron citar por su título y canal
 (vía buscador), sin confirmar vistas ni bajar el vídeo. Dailymotion sí funcionó y dio resultados reales,

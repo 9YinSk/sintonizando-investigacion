@@ -883,3 +883,214 @@ inclinada (22:36); explicar → Chika con la carta o Shirogane escribiendo;
 celebrar → Chika en «V» (22:45); regañar → la mirada roja (24:24); pensar →
 Shirogane con la mano en la barbilla (ep. 3, 15:20); animar → el puño de
 Kaguya (ep. 3, 20:40).
+
+## Punto 15 · Vestuario, con hex medidos
+
+Medidos con Pillow (`getcolors`, sin el fondo transparente) sobre las
+**hojas de modelo oficiales del anime** (punto 1.1). El lazo rojo salió casi
+igual en tres fichas distintas: buena señal de que es el color real.
+
+| Personaje | Prenda | Hex |
+|---|---|---|
+| Kaguya | Vestido negro del uniforme (relleno) | `#342E32` |
+| Kaguya | Lazo rojo del cuello | `#B43833` |
+| Kaguya | Pelo negro con tinte violeta | `#262127` |
+| Kaguya | Ojos rojos | `#AD0218` |
+| Shirogane | Gakuran negro | `#231A21` |
+| Shirogane | Cordón / broche dorado del cuello | `#C7A44C` |
+| Shirogane | Pelo rubio ceniza | `#DBB180` |
+| Chika | Vestido negro | `#342E32` |
+| Chika | Lazo rojo | `#B33832` |
+| Chika | Pelo rosa pálido (plateado en el manga) | `#EBD0D5` |
+| Chika | Ojos azules | `#0D6E9F` |
+| Ishigami | Saco negro | `#221A21` |
+| Ishigami | Camisa blanca | `#F3F3F3` |
+| Ishigami | Pelo negro azulado | `#1B1F2E` |
+| Hayasaka | Base negra | `#342E32` |
+| Hayasaka | Lazo/cinta color arena | `#D0A68F` |
+| Hayasaka | Pelo rubio | `#D5BF85` |
+| Miko | Vestido negro (mismo corte que Kaguya) | `#342E32` |
+| Miko | **Brazalete amarillo** del comité | `#EAD558` |
+| Miko | Lazo rojo | `#B63833` |
+| Miko | Pelo castaño | `#7E5D51` |
+
+- **La ropa icónica**: el **uniforme femenino de invierno** de Shuchi'in
+  (vestido negro, cuello marinero blanco, lazo rojo, calcetines altos negros,
+  zapatos blancos). Sale en el logo, en casi toda la mercancía y en casi todas
+  las miniaturas de las 3 hojas ✅.
+- **Chicos**: *gakuran* negro de cuello alto con broche dorado; el de
+  Shirogane lleva además la **cadena dorada de presidente** (aiguillette),
+  aire de «príncipe» ✅.
+- **Kaguya «Ice»** (T3): el mismo uniforme con el **pelo suelto** y ojos sin
+  brillo; es un estado de ánimo, no otra ropa ✅.
+- **Ishigami**: cascos negros al cuello; en otras escenas, chaleco de punto
+  gris sobre camisa blanca (hoja 3 #117, visto) ✅.
+- **Kaguya**: cinta roja en el pelo (visto en el opening, 1:48) y distintas
+  cintas en los primeros capítulos ✅.
+- **Otras ropas, sin medir** ⚠️: yukata (colaboración Saing), bañadores de la
+  playa (hoja 1 #15, #44-45), vestido de novia (hoja 1 #26), ropa de invierno
+  de calle (hoja 3 #107), fiesta de graduación (hoja 2 #72), época Edo (hoja
+  2 #85), Caperucita (hoja 2 #92).
+
+## Punto 16 · Sitios y fondos de pantalla
+
+**Un solo gran sitio**: la **Academia Shuchi'in** (edificio occidental
+antiguo para hijos de ricos, en Minato, Tokio). Interiores señoriales, no
+paisaje urbano. Luz y paleta en el punto 4.
+
+- **Sala del consejo**: mesa larga de madera, sillón alto del presidente,
+  sofás verdes, ventanales con luz cálida de tarde ✅ (+ modelo 3D, punto 3).
+- **Pasillos y aulas**: techos altos, ventanales, madera oscura, alfombra
+  roja; vitral en el ep. 14 (hoja 1 #27) ✅.
+- **Noche**: luz azul fría de ventana en las escenas de tensión (hoja 3 #98,
+  ep. 11) ⚠️ sin medir.
+- **Exterior**: calles de Tokio con setos (ep. 3, 17:00-17:40), atardecer
+  naranja (ep. 3, 13:00) ✅.
+
+**Fondos de pantalla** ([Wallhaven](https://wallhaven.cc/w/v99k55), SFW,
+comprobados por su API):
+
+| Qué | Tamaño | Favoritos | Enlace |
+|---|---|---|---|
+| Kaguya con cartas, fondo rojo | 1920×1080 | 341 | [136x99](https://wallhaven.cc/w/136x99) |
+| Kaguya por Sakimichan | 2333×3500 | 275 | [9m3rv1](https://wallhaven.cc/w/9m3rv1) |
+| Chika de cuerpo entero | 5900×3200 | 187 | [g86v9d](https://wallhaven.cc/w/g86v9d) |
+| **Los 7 del consejo juntos** | 4096×2442 | 139 | [v99k55](https://wallhaven.cc/w/v99k55) |
+| Banner oficial de AniList | 1600×900 aprox. | — | [banner](https://s4.anilist.co/file/anilistcdn/media/anime/banner/101921-GgvvFhlNhzlF.jpg) |
+| Banner del anuncio T2 | 1500×500 | — | hoja 3 #112 |
+
+⚠️ No hay fondos de pantalla oficiales descargables aparte del premio en
+*pixel art* del minijuego de Young Jump (punto 11), que no se consiguió.
+
+## Punto 17 · Guía para generar con IA (imagen y texto)
+
+Escrita por el redactor con todo lo anterior. Sirve para Firefly, Canva o
+cualquier IA de imagen, y para una IA de texto que escriba sus diálogos.
+
+### 17.1 · El estilo en una frase
+
+*Anime escolar de 2019 de A-1 Pictures: línea fina y uniforme, color plano
+con una sola sombra, caras sin sombra en los primeros planos, grano de
+película suave, interiores señoriales con luz de tarde.*
+
+### 17.2 · Rasgos que nunca cambian
+
+- **Kaguya**: pelo negro muy largo y liso `#262127` con **media coleta
+  atada con cinta roja**, flequillo recto, **ojos rojos** `#AD0218`, piel
+  clara, uniforme negro `#342E32` con cuello marinero blanco y lazo
+  `#B43833`. Postura erguida, manos juntas o una mano en la mejilla.
+- **Shirogane**: pelo rubio ceniza `#DBB180` despeinado, **ojos azules con
+  ojeras marcadas**, mirada dura, *gakuran* negro `#231A21` con broche
+  dorado `#C7A44C` y cadena dorada de presidente.
+- **Chika**: pelo **rosa pálido** `#EBD0D5` largo con **lazo negro** grande,
+  ojos azules `#0D6E9F` redondos, sonrisa abierta, uniforme igual al de
+  Kaguya.
+- **Ishigami**: pelo negro azulado `#1B1F2E` con **flequillo largo que tapa
+  el ojo izquierdo**, **cascos negros al cuello**, hombros caídos.
+- **Hayasaka**: pelo **rubio** `#D5BF85`, ojos azules; de criada (base
+  negra y cinta color arena `#D0A68F`) o con el uniforme.
+- **Miko**: **la más bajita** (147 cm), pelo castaño `#7E5D51` con
+  flequillo recto, ojos rojos, **brazalete amarillo** `#EAD558` en el brazo.
+
+### 17.3 · Luz, encuadre y línea
+
+- **Línea**: una sola, fina, negra o marrón oscura (`#5E4849` en la sala),
+  sin grosor variable.
+- **Sombra**: una capa plana; **nada de sombra en la cara** en primer plano.
+- **Luz**: tarde cálida por ventanales (sala), cenital blanca que quema los
+  cristales (pasillos), naranja saturado (derrota), azul frío (noche).
+- **Encuadre**: **primerísimo plano de la cara** al pensar; **plano medio**
+  con la cabeza deformada en la comedia; plano general con grano pesado en
+  el drama.
+
+### 17.4 · Descripciones listas (en inglés, que las IA entienden mejor)
+
+- **Kaguya retando**: *anime key visual, 2019 A-1 Pictures style, teenage
+  girl with very long straight black hair, half-up with a red ribbon, blunt
+  bangs, crimson red eyes, confident half-smile, black Japanese school dress
+  with white sailor collar and red bow, elegant student council room, long
+  wooden table, green sofas, warm afternoon window light, flat cel shading,
+  no shadows on the face, thin uniform lineart, soft film grain*
+- **Chika celebrando**: *… girl with long pale pink hair and a big black
+  bow, round blue eyes, both arms up in a V, jumping, open-mouth smile,
+  sparkles, same black school dress …*
+- **Ishigami de bajón**: *… boy with dark blue-black hair covering his left
+  eye, black headphones around his neck, grey knit vest, blank white eyes,
+  single tear, dark blue background with vertical streak lines …*
+- **Fondo de nervios**: *warped black and white checkerboard background,
+  psychedelic, characters in flat color in the center*
+- **La sala sola**: *empty elegant Western-style student council room,
+  Japanese elite academy, long dark wooden table, tall president chair,
+  green sofas, red carpet, tall windows with curtains, warm late afternoon
+  light, anime background art*
+
+**Palabras que ayudan**: *cel shading, flat colors, thin lineart, anime
+screenshot, 2019, A-1 Pictures, film grain, elite academy, sailor collar,
+red bow, warm afternoon light*.
+**Palabras que lo estropean**: *realistic, 3D render, semi-realistic,
+painterly, thick lineart, chibi* (salvo que se quiera), *fanservice,
+swimsuit, bikini, gothic horror, neon cyberpunk*; y **«tsundere»**, que
+empuja a caras de enfado genéricas que Kaguya no tiene.
+
+**Imágenes de referencia de estilo**: el banner de AniList, las hojas de
+modelo (punto 1.1), la hoja 3 #116 (Kaguya sonriendo) y #104 (con cartas).
+**De pose**: la tabla del punto 14. **De sitio**: el modelo 3D de la sala.
+
+### 17.5 · Vocabulario de expresiones (para que la IA entienda cada gesto)
+
+| Qué | Cómo se dibuja en la serie |
+|---|---|
+| Victoria | ojos rojos con brillo, media sonrisa, primer plano |
+| Nervios / mentira | **fondo a cuadros** deformado |
+| Bajón | fondo **azul con rayas verticales**, ojos en blanco, lágrima |
+| Amenaza | «ゴゴゴ» detrás, sombra en los ojos |
+| Vergüenza | ojos «><», sonrojo en líneas, gotas de sudor |
+| *Shock* | ojos blancos redondos, líneas de velocidad |
+| Soñar despierta | fondo de fantasía barata (planetas de cartón) |
+| Enfado cómico | llamita dibujada en la esquina |
+| Perder | silueta sola ante un atardecer enorme |
+| *Chibi* | versiones pequeñas en los extras (modelo 3D chibi, punto 3) |
+
+### 17.6 · Para una IA de texto: cómo escribir en su voz
+
+**Reglas generales**
+- Todo se cuenta **como una guerra**: «batalla», «ataque», «jugada»,
+  «derrota», «victoria». Lo mínimo se vuelve épico.
+- El **narrador** habla como noticiero, frases largas y solemnes:
+  *«Esta es la Academia Privada Shuchiin. Se trata de un honorable y antiguo
+  instituto de gran fama y enorme prestigio…»*
+- Cada escena **termina con un resultado**: «Resultado de hoy: gana X».
+- En latino hay **mexicanismos** y guiños (punto 8.2); úsalos con medida.
+
+**Cada voz**
+- **Kaguya**: formal, apellidos, desprecio elegante y **pensamiento
+  interior** calculador. Frases reales: *«Estúpidos y vulgares plebeyos…»*,
+  *«Es sólo cuestión de tiempo.»* Nunca dice «me gustas».
+- **Shirogane**: fanfarrón por fuera, inseguro por dentro. *«A las masas les
+  encanta inventar romances sin sentido, qué gente tan ingenua…»*.
+- **Chika**: exclamaciones, preguntas al grupo, «¡Ay, por favor!», planes
+  locos. *«¿A ustedes les interesaría ir juntos?»*.
+- **Ishigami**: sentencias cínicas, rápidas, jerga de videojuego. *«¿No se
+  da cuenta que ella cavó su propia tumba?»*.
+- **Hayasaka**: «Señorita Kaguya», calmada, pregunta incómoda. *«Una
+  pregunta hipotética…»*.
+- **Miko**: reglamento, frases solemnes, cortesía nerviosa. *«Las ideas no
+  ideales carecen de significado.»*.
+
+**Frases reales por emoción** (del doblaje latino y del tráiler T3)
+- **Alegre**: Chika, *«¡Ay, por favor! ¿Saben? Hace poco gané un par de
+  boletos para ir al cine…»*.
+- **Enfadada / altiva**: Kaguya, *«Estúpidos y vulgares plebeyos… ¿Qué
+  ideas tan ridículas tienen sobre mí?»*.
+- **Explicando**: el narrador, *«Esta es la Academia Privada Shuchiin…»*;
+  Ishigami, *«Así debemos reaccionar cuando una mujer está enojada por
+  tonterías.»*.
+- **Animando / retando**: Kaguya, *«Es sólo cuestión de tiempo.»*; Miko,
+  *«¿Qué no conocen la joya que tienen en sus manos?»*.
+- **Nervios**: Chika, *«Presi, ¿tienes a alguien que te gusta, verdad?»*;
+  Kaguya en off, *«me asusta confesar»*.
+- **Triste**: ⚠️ no hay muestra latina; en subtítulo inglés, Ishigami: *«I
+  want to die, so I'm going home.»*.
+
+**Puntuación**: puntos suspensivos para el cálculo interior (…),
+exclamaciones dobles en Chika, preguntas retóricas en Kaguya e Ishigami.

@@ -205,5 +205,104 @@
     "que_es": "Fotograma oficial: primer plano de Totoro rugiendo",
     "para_que": "Color de pelaje de Totoro, hex medidos",
     "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://ghibli.fandom.com/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(manga)",
+    "fuente": "Ghibli Fandom wiki",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página sobre el manga original de Nausicaä (lápiz/tinta sepia, sin screentone)",
+    "para_que": "Punto 19: única obra grande de Ghibli con manga propio, textura de hachurado",
+    "licencia": "Consulta, derechos de Studio Ghibli/Tokuma Shoten"
+  },
+  {
+    "url": "https://www.brusheezy.com/brushes/1183-sumi-ink-brushes",
+    "fuente": "Brusheezy",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pinceles de tinta sumi-e para Photoshop",
+    "para_que": "Punto 19: textura de pincelada tipo fondo pintado a mano",
+    "licencia": "Gratis, uso libre declarado en la ficha"
+  },
+  {
+    "url": "https://brushespack.com/product/ghibli-inspired-hand-painted-brush-collection/",
+    "fuente": "Brushespack",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pack de pinceles pintados a mano inspirados en Ghibli (hecho por fans)",
+    "para_que": "Punto 19: textura gouache/acuarela para Photoshop/Procreate",
+    "licencia": "Descarga gratuita declarada en la ficha"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Paper004",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de papel de grano claro",
+    "para_que": "Punto 19: grano de papel para fondo pintado a mano",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric034",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de tela lisa (lino/algodón)",
+    "para_que": "Punto 19: patrón de ropa sencilla tipo Kiki/Sophie",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Wood060",
+    "fuente": "ambientcg.com",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Textura de madera clara",
+    "para_que": "Punto 19: interiores cálidos tipo la casa de Totoro",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ghibli_Park",
+    "fuente": "Wikipedia",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ghibli Park: las 5 zonas oficiales (Dondoko Forest, Valley of Witches, Mononoke Village, Hill of Youth, Grand Warehouse)",
+    "para_que": "Punto 23: colaboración/expansión física oficial del estudio, referencia 3D del castillo de Howl",
+    "licencia": "Consulta, parque oficial de Studio Ghibli"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ni_no_Kuni",
+    "fuente": "Wikipedia",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Serie de videojuegos Ni no Kuni, colaboración oficial Studio Ghibli + Level-5 (incluye el gacha Cross Worlds)",
+    "para_que": "Punto 23: crossover de videojuego oficial confirmado (Fortnite/gacha)",
+    "licencia": "Consulta, propiedad de Level-5/Studio Ghibli"
+  },
+  {
+    "url": "https://thesmartlocal.jp/shirohiges-cream-puff-factory/",
+    "fuente": "The Smart Local Japan",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Shirohige's Cream Puff Factory, pastelería con permiso oficial del estudio (cuñada de Miyazaki)",
+    "para_que": "Punto 23: colaboración oficial de comida/merchandising transversal",
+    "licencia": "Consulta"
+  },
+  {
+    "url": "https://www.kanpai-japan.com/travel-guide/donguri-official-ghibli-shops",
+    "fuente": "Kanpai Japan",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Donguri Kyowakoku, tienda oficial de merchandising de todo el catálogo Ghibli",
+    "para_que": "Punto 23: figuras oficiales de referencia, todas las películas",
+    "licencia": "Consulta"
+  },
+  {
+    "url": "https://1000logos.net/studio-ghibli-logo/",
+    "fuente": "1000logos.net",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Historia y diseño del logo de Studio Ghibli (silueta de Totoro, diseñado por Miyazaki)",
+    "para_que": "Punto 19: emblema/logo transversal del estudio",
+    "licencia": "Consulta, marca registrada de Studio Ghibli"
   }
 ]

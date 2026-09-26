@@ -33,9 +33,20 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 - 12 Kakegurui: **COMPLETA** (19:47, ya subida por guardar.sh). ✅27 ⚠️10 ❌0, 81 referencias, 97 webs, 150 min citados, 40 hex, 2226 líneas.
   14: video, imagen y texto terminados; voz dejó un Sigue: obligatorio (punto 13, caras/emociones) → relanzada corta desde 19:49. 15: 4 investigadores (Sonnet, repaso) en marcha desde 19:49.
 - 14 Adventure Time (Hora de aventura): **COMPLETA** y subida (00:01). ✅24 ⚠️6 ❌0, 142 referencias, 104 webs, 3120 líneas.
+- 16 Evangelion: **COMPLETA** (segunda pasada) y subida (2026-09-26 01:27 UTC). ✅24 ⚠️6 ❌0, 223 referencias, 133 webs, 2632 líneas.
 
 ## Avisos para el dueño
 
+- **16 Evangelion** (segunda pasada): más querida, Asuka (NHK 2020, AniList y Danbooru); Kaworu 2.º en NHK con un solo episodio.
+  Cuadro: cartela negra con mincho blanca comprimida (Matisse EB) y los monolitos «SOUND ONLY» de SEELE; nuevo: el rótulo
+  «TEST PLUG-02 · HARMONICS TEST PROCEEDING». Láminas: A ficha del Instituto Marduk con Misato; B «SOUND ONLY» con Kaworu;
+  C el chelo de Shinji con Asuka aplaudiendo.
+  - Oír: los 26 episodios latinos de Internet Archive son probablemente el doblaje de Netflix; comparar la voz antes de
+    rotular sus frases como «del doblaje original». Tampoco se oyó cómo dice el latino «あんたバカ？».
+  - Ver: concepto A, «tender el folleto» de Misato (ep. 1, 10:16) no se vio; se propone su pose de quitarse las gafas (ep. 1, 6:20).
+  - Ver: ep. 15 (chelo, concepto C) sin fotograma: la postura de Asuka va de memoria.
+  - Decidir: ChiKareGo2 (monolitos) no trae «ú» ni «ü» minúsculas: sólo en mayúsculas.
+  - 6 puntos ⚠️ por bloqueos de red (TCRF/Wayback, YouTube, Reddit, caras y poses sin fotograma propio).
 - **14 Adventure Time (Hora de aventura)** (segunda pasada): más querida, Marceline (voz latina Isabel Martiñón). Mejor secundario: Rey Helado/Simon; BMO favorito de Pendleton Ward. Cuadro de diálogo: sin globos — texto en objetos (nota de Simon a Marcy, cuaderno de Marceline, nota de Finn, pantalla de BMO en VT323, cartelas de papel viejo). Láminas: A caja de discos en la casa rosa de Marceline (#F8AEC5); B concierto en el Anfiteatro Fantasma; C mixtape de BMO en la casa del árbol.
   Avisos: 6 model sheets oficiales de Marceline con el bajo (Special Pose A-F, ep. 062) en §3.7 y referencias.json. Confirmar de oído las frases latinas marcadas ⚠️ (transcritas con Whisper de Doblaje Wiki, sin episodio). El concierto de 10×07 (concepto B), «Henchman» y «Marceline's Closet» con minuto estimado: comprobar en el episodio. Decidir los campos de la lámina 2 (artista, título, tipo, fecha, enlace): no están en el inventario. Licencias 3D: bajo de Haxis CC BY; Yogensia CC BY-NC-SA; low poly de cuxilrodas NO es CC (sólo mirar). Las frases de los conceptos son traducción del redactor, no del doblaje. Cantantes latinas de Marceline (Claudia Urbán, Patty Urbán, Carla Cerda) con una sola fuente; vistas de fan dubs sin ver (YouTube y TikTok cerrados). Dailymotion: ?t= cambiado por ?start=.
 

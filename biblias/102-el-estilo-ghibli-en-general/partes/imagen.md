@@ -350,7 +350,7 @@ una peli.
   of Witches** el 16-mar-2024, con un **castillo de Howl de 20 metros de
   alto** (incluida la habitación de Howl y el horno de Calcifer) y un
   tiovivo. Desde marzo de 2024 las 5 zonas están abiertas a la vez por
-  primera vz. ✅ (dos fuentes:
+  primera vez. ✅ (dos fuentes:
   [en.wikipedia.org/wiki/Ghibli_Park](https://en.wikipedia.org/wiki/Ghibli_Park)
   y [japan-in-a-box.com/ghibli-park-guide-2025](https://japan-in-a-box.com/blogs/inside-the-box/ghibli-park-guide-2025))
 - **Ni no Kuni — el crossover de videojuego oficial que SÍ existe** (a

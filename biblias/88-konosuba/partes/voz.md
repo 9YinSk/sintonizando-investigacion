@@ -212,3 +212,116 @@ sobre el gag recurrente de Aqua atacada por sapos.
     también aparece con identidad secreta como la ladrona «Chris» — son
     plano y trasfondo muy distintos aunque ambas visten de forma similar en
     su arte promocional.
+
+### 13 · Descripción profunda de cada personaje
+
+Fuente principal de esta sección: wikitext completo de
+`konosuba.fandom.com` (wiki en inglés, mucho más detallada que la versión
+truncada que suele traer el recolector), secciones «Personality» y «Trivia»
+de cada personaje, más los créditos y expresiones vistas en dos tráilers
+oficiales de Kadokawa/Crunchyroll (Dailymotion, plan B de AYUDANTE.md) y un
+vídeo del 10º aniversario, todos mirados fotograma a fotograma con
+`fotogramas.py`.
+
+**Kazuma Satou** — antes de morir era un hikikomori que jugaba videojuegos
+todo el día; en el otro mundo sigue siendo vago (duerme más de 12 horas al
+día) pero también muy calculador con el dinero, con buen ojo para los
+negocios. Ve el mundo nuevo como si fuera un videojuego, comparando todo con
+tropos de manga y clasificando a la gente en arquetipos. Es el «niñero» de
+su grupo de «niños problemáticos» (Aqua, Megumin, Darkness), lo que lo
+volvió una persona muy estresada, propensa a explotar de rabia, tristeza o
+incluso alegría — regaña a sus compañeras sin dudarlo cuando la lían. Es
+sincero hasta el punto de herir, usa el discurso de la «verdadera igualdad
+de género» para no tener que ser caballeroso, y aunque tiene instintos
+pervertidos se contiene la mayor parte del tiempo (salvo con Megumin,
+Darkness o Chris, con quienes aprovecha cualquier ocasión) · https://konosuba.fandom.com/wiki/Kazuma_Satou ✅ (coincide con su ficha en AniList, ya en `datos-voz.md`: 17 años, 162 cm, «Adventurer», suerte extraordinaria).
+Autoimagen: fue chūnibyō de más joven, así que reconoce y domina el registro
+de Megumin cuando quiere. Cómo se ríe/saluda: sarcástico, con doble sentido;
+cómo se enfada: grita y da collejas o regaños directos a su grupo.
+
+**Aqua** — diosa del agua, guía a los muertos al más allá, pero es
+descuidada, imprudente, chula y bocazas; muy poco inteligente (no recuerda
+nada después de 3 días) aunque a veces muestra intuición aguda. Es
+alcohólica: siempre quiere fiesta, se emborracha hasta vomitar y sólo duerme
+abrazada a una botella de espumante. Es una llorona: se pone a llorar por
+cosas pequeñas (una vez lloró por perder una moneda de 100 eris que iba a
+usar para un helado) pero también tiene un lado maternal genuino. Se cree de
+una «belleza deslumbrante» y considera a Megumin y Darkness sólo
+«relativamente bonitas». Su afición es coleccionar y pulir piedras, incluida
+un tesoro divino que Chris anda buscando desesperadamente · https://konosuba.fandom.com/wiki/Aqua ✅.
+Cómo se expresa: exclama todo en voz muy alta, se ofende con facilidad,
+llora fácil y ruidosamente. Dinámica: es quien más discute con Kazuma
+(ambos se llaman «NEET» e «inútil» mutuamente) pero también su lado más
+protector con quien esté triste de verdad.
+
+**Megumin** — Archimaga de los Demonios Carmesí, obsesionada con la Magia
+Explosión desde que la salvó una desconocida usándola: le encantan su poder
+destructivo, el calor, la onda expansiva, el humo y el brillo. Sólo puede
+lanzarla una vez al día y queda inconsciente después, pero busca excusas
+para lanzarla igual todos los días, en misiones o en su rutina, aunque cause
+problemas. Sufre chūnibyō: se presenta como «la más grande archimaga y
+portadora de la Magia Explosión», usa frases hechas y practica poses que
+cree «geniales» pero que le fallan. Le gusta lo «edgy»: nombres raros, moda
+gótica — aunque en secreto también le gustan las mascotas tiernas, algo que
+no admite para no romper su imagen · https://konosuba.fandom.com/wiki/Megumin ✅.
+Su conjuro completo, citado por la propia wiki (coincide con el tono
+grandilocuente que se oye en el doblaje latino, punto 8): «Darker than
+black, darker than darkness, combine with my intense crimson… Explosion!».
+Cómo se ríe: risa malvada «Wahahahahaha»; cómo saluda: con su presentación
+completa de nombre y título, nunca un simple «hola».
+
+**Darkness** — cruzada de aspecto heroico, en realidad masoquista: siente
+placer con el dolor y la humillación, tanto física como verbal, y por eso
+se lanza sin pensar contra los enemigos «por deber», cuando en realidad
+quiere sentir sus golpes. Se sonroja y jadea de la emoción, su voz se
+vuelve aguda cuando está nerviosa o excitada. Tiene fantasías eróticas
+sobre ser capturada por el Rey Demonio; su tipo de hombre ideal es «vago,
+pervertido, sin oficio, alcohólico y que la trate mal» — exactamente por
+qué se empeñó en unirse al grupo de Kazuma. Lo único que NO le gusta que le
+digan es sobre su peso o sus músculos duros; le encantan la ropa mona
+aunque no puede soportar que se lo hagan notar en público. Su talla de
+copa es H, según el propio ilustrador Kurone Mishima · https://konosuba.fandom.com/wiki/Darkness ✅.
+Su propia presentación oficial en el tráiler de la temporada 3 la llama
+literalmente «la cruzada masoquista» (ドMのクルセイダー) — Dailymotion,
+https://www.dailymotion.com/video/x8qwfj9?t=34, 0:34 ✅ (coincide con la
+wiki). Cómo se ríe cuando algo la humilla: gime en vez de reír.
+
+**Yunyun (secundaria más querida, ver punto 7)** — a diferencia de otros
+Demonios Carmesí, es tímida y sensible, avergonzada por las costumbres
+chūnibyō de su clan; por eso su tribu la ve como una rara y la aisló, y
+nunca desarrolló habilidades sociales. Busca amigos desesperadamente,
+incluso acosando sutilmente a quien quiere conocer, porque no tiene
+confianza para acercarse directamente. Es tan solitaria que celebra su
+propio cumpleaños ella sola: se compra regalos a sí misma y monta una
+fiesta entera aunque sea la única invitada — uno de los detalles más
+citados por los fans como «triste-tierno» de toda la serie · https://konosuba.fandom.com/wiki/Yunyun ✅
+(y ya confirmado indirectamente por su spin-off propio de novelas, *Yunyun's
+Wonderful Now!*, señal de cariño editorial hacia el personaje).
+
+**Su cara en cada emoción** (fotograma y minuto; los tráileres traen
+tarjeta con el nombre del personaje y su seiyū, así que la identificación es
+segura):
+
+| Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| Kazuma | Alegría (ríe a carcajadas) | Vídeo de anuncio temp. 3 (Dailymotion) | 0:05 | https://www.dailymotion.com/video/x9avkfi?t=5 |
+| Kazuma | Miedo/pánico (grita, ojos muy abiertos) | Tráiler oficial temp. 3 (Dailymotion) | 0:18 | https://www.dailymotion.com/video/x8qwfj9?t=18 |
+| Aqua | Miedo/sorpresa (boca abierta, junto a Yunyun e Iris) | Tráiler oficial temp. 3 (Dailymotion) | 0:17 | https://www.dailymotion.com/video/x8qwfj9?t=17 |
+| Aqua | Rabia/grito (señala, boca muy abierta) | Vídeo de anuncio temp. 3 (Dailymotion) | 0:02 | https://www.dailymotion.com/video/x9avkfi?t=2 |
+| Megumin | Alegría eufórica (lanzando su magia, ojos brillantes) | Tráiler oficial temp. 3 (Dailymotion) | 0:30 | https://www.dailymotion.com/video/x8qwfj9?t=30 |
+| Megumin | Miedo/sorpresa (primer plano, ojos muy abiertos) | Vídeo 10º aniversario (Dailymotion) | 2:45 | https://www.dailymotion.com/video/xasu3fq?t=165 |
+| Darkness | Satisfacción/placer contenido (su presentación oficial, «la cruzada masoquista») | Tráiler oficial temp. 3 (Dailymotion) | 0:34 | https://www.dailymotion.com/video/x8qwfj9?t=34 |
+
+No encontré fotograma propio de **tristeza** de Aqua (llora mucho según la
+wiki, pero no until en los tráileres que miré) ni de **vergüenza** de
+Darkness sonrojada (su vergüenza sale sobre todo en escenas largas de
+diálogo, no en los tráileres de acción que pude mirar sin YouTube) — queda
+en «No encontré» al final, con lo que sí probé.
+
+**Créditos oficiales confirmados en el propio tráiler** (refuerzan el
+punto 8, ahora con fuente japonesa oficial además de Doblaje Wiki): カズマ
+CV. 福島潤 (Fukushima Jun), アクア CV. 雨宮天 (Amamiya Sora), めぐみん CV.
+高橋李依 (Takahashi Rie), ダクネス CV. 茅野愛衣 (Kayano Ai), ルナ CV. 原紗友里
+(Hara Sayuri), クリス CV. 諏訪彩花 (Suwa Ayaka), ウィズ CV. 堀江由衣 (Horie
+Yui), ゆんゆん CV. 豊崎愛生 (Toyosaki Aki) — https://www.dailymotion.com/video/x8qwfj9?t=77
+(fotograma de créditos STAFF/CAST completo, 1:17) ✅.
