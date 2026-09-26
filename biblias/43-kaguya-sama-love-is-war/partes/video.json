@@ -1,0 +1,92 @@
+[
+ {
+  "url": "https://archive.org/details/kaguya-sama_202403",
+  "fuente": "Internet Archive (subida de usuario, episodios íntegros)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Episodio 1 completo de la temporada 1 (archivo SEASON 1/01.mkv), con opening y ending reales",
+  "para_que": "sacar fotogramas del opening, el ending, la sala del consejo y la escena de los fuegos artificiales (puntos 2, 4, 9, 14)",
+  "licencia": "© A-1 Pictures / Aka Akasaka / Shueisha; copia no oficial en Internet Archive, sólo referencia para investigación"
+ },
+ {
+  "url": "https://archive.org/details/kaguya-sama_202403",
+  "fuente": "Internet Archive (subida de usuario, episodios íntegros)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Episodio 3 completo de la temporada 1 (archivo SEASON 1/03.mkv), incluye el ending especial bailado por Chika",
+  "para_que": "poses de Chika (baile completo min. 22:30-23:57), calle de Tokio, atardecer, marcador cómico (puntos 2, 4, 9, 14)",
+  "licencia": "© A-1 Pictures / Aka Akasaka / Shueisha; copia no oficial en Internet Archive, sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x88pf8w",
+  "fuente": "Dailymotion (canal Sensacine)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial VO de 30 segundos, cartas de corazones y texto «el que confiesa pierde»",
+  "para_que": "punto 10 (tráiler visto completo) y punto 2 (imaginería de cartas/duelo)",
+  "licencia": "© titulares; vídeo alojado oficialmente por el distribuidor en Dailymotion, sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/kaguyasamaloveiswaranimes2ndseasonofficialtrailerteasernewpreviewpv",
+  "fuente": "Internet Archive",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial japonés de la temporada 2 (1:43), con textos «生徒会», «仲間との別れ», fecha de emisión y créditos de la canción de inserción",
+  "para_que": "punto 10 (tráiler) y punto 9 (confirmar canción de inserción «Kaze ni Fukarete»)",
+  "licencia": "© titulares; copia no oficial en Internet Archive, sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8bc80m",
+  "fuente": "Dailymotion",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial de la temporada 3 «Ultra Romantic», subtitulado al español (1:55)",
+  "para_que": "punto 10 (tráiler con diálogo traducido) y punto 9 (canción de apertura GIRI GIRI en pantalla)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/chikaYo",
+  "fuente": "Internet Archive",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Clip recortado del baile de Chika Fujiwara con fondo verde (pantalla croma), 72 segundos",
+  "para_que": "punto 10 (origen del meme viral «Chika Dance» en TikTok) y punto 14 (poses de referencia)",
+  "licencia": "© A-1 Pictures; recorte de fan alojado en Internet Archive, sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/kaguya-sama-love-is-war-the-first-kiss-that-never-ends-op-ed",
+  "fuente": "Internet Archive",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Opening y ending de la película «The First Kiss That Never Ends» por separado",
+  "para_que": "punto 9 (música de la película); descarga llegó truncada, pendiente de reintentar",
+  "licencia": "© titulares; copia no oficial, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/e3/IshigamiAnime.png",
+  "fuente": "Fandom (kaguyasama-wa-kokurasetai.fandom.com), vía API",
+  "ancho": 480,
+  "alto": 1006,
+  "que_es": "Ficha de cuerpo entero de Yu Ishigami (arte oficial del anime), cascos al cuello, postura relajada",
+  "para_que": "punto 14: única pose de referencia conseguida para Ishigami (no aparece en los episodios vistos)",
+  "licencia": "© A-1 Pictures / Aka Akasaka; alojada por la wiki de fans bajo uso razonable, sólo referencia"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War_season_1",
+  "fuente": "Wikipedia (inglés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha de la temporada 1 con opening, ending, director, guionista y compositor",
+  "para_que": "confirmar en dos fuentes los datos musicales del punto 9",
+  "licencia": "CC BY-SA (texto de Wikipedia)"
+ },
+ {
+  "url": "https://knowyourmeme.com/memes/chika-dance",
+  "fuente": "Know Your Meme",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo sobre el origen y difusión del meme «Chika Dance»",
+  "para_que": "confirmar el origen del baile (episodio 3, ending especial) para el punto 10",
+  "licencia": "sólo referencia, texto con derechos de Know Your Meme"
+ }
+]
