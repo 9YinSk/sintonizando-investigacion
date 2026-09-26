@@ -100,3 +100,46 @@ créditos de prensa de Netflix Latinoamérica: **cierra varios ⚠️ de §10.1*
   `/tmp/claude-0/trabajo/17-arcane-video/` y en
   `/tmp/claude-0/trabajo/17-arcane-voz/e03_faces/`: el siguiente que lo
   necesite no tiene que volver a bajarlo.
+
+## 20 · Gustos y detalles de cada personaje
+
+> **No hay databook** de Arcane (es una serie occidental, no anime): no
+> existe una ficha oficial con comida favorita o cumpleaños exacto como en
+> series japonesas. Lo que sigue sale de dos tipos de fuente: (a) **altura
+> y edad**, de las hojas de diseño de producción citadas por prensa y por
+> la cuenta oficial de Arcane en X; (b) **gustos, odios y aficiones**, de
+> las secciones «Personality»/«Abilities» de Arcane Wiki (ya bajadas en
+> `datos-voz.md`) — cuento estas últimas como **⚠️ una fuente** porque
+> aunque la wiki resume bien el guion, no hay una segunda ficha oficial
+> que las repita palabra por palabra.
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| **Jinx** (Powder) | El caos y sorprender; pintar grafitis con Isha; que la sigan aunque dé miedo | Que la llamen «gafe»; quedarse sola; ser «la que lo rompe todo» | Inventar explosivos, armas (Fishbones, Pow-Pow); grafiti | ❌ no hay | **164 cm** ⚠️ (otra fuente dice 160 cm) · 17-18 años en la T2 | Altura ✅ [Riot Praeco/Spideraxe (X)](https://x.com/Spideraxe30/status/1555208521574240258), [ComingSoon (cita a @arcaneshow)](https://www.comingsoon.net/guides/news/1876321-arcane-season-2-height-age-how-tall-old-is-jinx-vi-caitlyn) · gustos ⚠️ [Arcane Wiki](https://arcane.fandom.com/wiki/Jinx) |
+| **Vi** | Pelear cuerpo a cuerpo; proteger a su familia; la libertad de los tejados | Los Enforcers y Piltóver «los de arriba»; que la subestimen; perder gente | Boxeo callejero, parkour por los tejados de Zaun | ❌ no hay | **172 cm** ⚠️ (otra fuente dice 174-175 cm) · 22-23 años | Mismas fuentes ✅/⚠️ + [Arcane Wiki: Vi](https://arcane.fandom.com/wiki/Vi) |
+| **Jayce** | Inventar; dar discursos; «la era del progreso» | Que la Hextech se use para matar; la política sucia | Herrería/forja, el Hextech | ❌ no hay | **184 cm** ⚠️ (otra fuente dice 188 cm) · «principios de sus 30» en la T2 | Mismas fuentes ✅/⚠️ + [Arcane Wiki: Jayce Talis](https://arcane.fandom.com/wiki/Jayce_Talis) |
+| **Viktor** | Ayudar a los enfermos de Zaun; la precisión; que Jayce lo escuche | El sufrimiento sin remedio; el elitismo de Piltóver | Inventar, estudiar mecánica y anatomía | ❌ no hay | **172 cm** ✅ (misma cifra en las dos fuentes) · «principios de sus 30» | Mismas fuentes + [Arcane Wiki: Viktor](https://arcane.fandom.com/wiki/Viktor) |
+| **Caitlyn** | La justicia; resolver misterios; la puntería | La corrupción; la crueldad gratuita | Tiro de precisión (francotiradora), investigar | ❌ no hay | **185 cm** ⚠️ (otra fuente da 183-188 cm) · 22-23 años | Mismas fuentes + [Arcane Wiki: Caitlyn Kiramman](https://arcane.fandom.com/wiki/Caitlyn_Kiramman) |
+| **Ekko** | Su gente, los Firelights; inventar el Z-Drive | Silco; la explotación de Zaun; perder a la gente | Liderar, aerotabla, inventar | ❌ no hay | **168 cm** ✅ (misma cifra en las dos fuentes) · **20 años al final de la serie**, dicho tal cual por la wiki | Altura, mismas fuentes · edad ✅ [Arcane Wiki: Ekko](https://arcane.fandom.com/wiki/Ekko) («Ekko is only twenty years old») |
+| **Silco** | Un Zaun independiente; Jinx, como si fuera su hija | Vander (por «traicionar» Zaun); Piltóver | El negocio del Brillo (Shimmer), la estrategia | ❌ no hay | **177 cm** ✅ (misma cifra en las dos fuentes) · edad ❌ no dicha | Altura, mismas fuentes + [Arcane Wiki: Silco](https://arcane.fandom.com/wiki/Silco) |
+
+**Objeto que siempre lleva** (ya documentado por escenas en `biblia.md`,
+lo repito aquí porque es parte del punto 20): Jinx, el arma **Fishbones**
+y la minigun **Pow-Pow**, y el **mono de juguete** con un ojo pintado de
+rojo (visto en `Caitlyn_28`); Vi, sus **guanteletes Hextech**; Jayce, el
+**martillo de Mercurio**; Viktor, el **bastón**; Caitlyn, el **rifle de
+francotiradora**; Ekko, el **bate con engranajes** (su Z-Drive) · ✅ ya
+✅ en biblia.md.
+
+**Cómo se ve a sí mismo** (frases textuales, no interpretación mía):
+- **Jinx**, al cambiar de nombre: «**It's Jinx now! "Powder" fell down a
+  well!**» (1×03) — decide que Powder «murió» y ahora es otra persona · ✅
+  [CBR, 10 Best Jinx Quotes](https://www.cbr.com/arcane-jinx-best-quotes-netflix-league-legends/),
+  citada también por el propio guion (episodio visto). **Ojo**: otras
+  «citas» de Jinx que circulan («mi identidad es ruidosa y mía») salen de
+  listados de citas de baja fiabilidad tipo SEO — **no las uso**, huelen a
+  inventadas.
+- **Viktor** se llama a sí mismo, en la T2, «el **Heraldo de lo Arcano**»
+  y ofrece «la **Gloriosa Evolución**» — cómo se ve: un salvador para los
+  enfermos de Zaun · ✅ lore oficial `es_MX`, ya citado en biblia.md §8.
+

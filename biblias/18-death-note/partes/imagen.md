@@ -54,6 +54,39 @@ punto 23 (colaboraciones), que faltaba entero.
 
 ---
 
+## 15 · Vestuario
+
+Colores **medidos con Pillow** (mediana de una zona de la prenda, código en
+`sample.py`, guardado en la carpeta de trabajo) sobre imágenes oficiales
+confirmadas en §1, no estimados de memoria como en la biblia vieja. Ojo:
+la mediana toma sombra y luz juntas, así que el hex es el tono medio real
+de la tinta, no el más saturado del dibujo.
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| Light Yagami | Camisa blanca del instituto | `#F9F5F4` | «299276.jpg», color page de Obata (perfil, de espaldas) ✅ |
+| Light Yagami | Pelo | `#85542D` | misma imagen ✅ |
+| Light Yagami | Corbata roja (uniforme, no aparece en esta pieza) | `#8E1B1B` | guía de cosplay, no medida en imagen oficial ⚠️ ([Carbon Costume](https://carboncostume.com/title/death-note/)) |
+| L | Camiseta de manga larga | `#E6D19F` (zona de sombra; los blancos puros llegan a `#F5F0E0`) | «Lfull.jpg», color page de Obata ✅ |
+| L | Vaquero ancho | `#596D76` | misma imagen, zona de sombra del pliegue ✅ |
+| Ryuk | Piel | `#84889D` | «Ryuk DN Coloured.png» (wiki, color oficial) ✅ |
+| Misa Amane | Vestido rojo (Saint Valentine's Day) | `#A74E44` | «295978.jpg», color page de Obata, mediana de la tela (no del brillo) ✅ |
+| Misa Amane | Gargantilla y guantes de cuero negro | negro puro, no medido con precisión de píxel (mezcla con el pelo) | misma imagen ⚠️ |
+| Misa Amane | Cruz del pendiente | rojo granate oscuro | misma imagen, visual ⚠️ |
+| Near | Pijama (camisa) | `#F7F2EE` | «DN 013.jpg», color page de Obata ✅ |
+| Near | Pantalón del pijama: **blanco en el manga, celeste en el anime** | manga `#F7F2EE` ✅; anime ⚠️ (de memoria, sin fotograma propio) | ver arriba |
+| Mello | Gabardina de cuero negro | `#0E0D12` | wallpaper oficial «Othellonia × Death Note» (juego con licencia de Shūeisha/VAP/Madhouse, crédito en la propia imagen) ✅ |
+| Mello | Pelo rubio ceniza | `#BB9786` | misma imagen ✅ |
+
+**Lo que todos reconocen** (confirmado también en las hojas de contacto):
+Light con **camisa blanca y corbata roja**; L **de blanco, en cuclillas**;
+Misa **de negro/rojo gótico con la cruz**; Near **de pijama blanco jugando
+con el pelo**; Mello **de cuero negro con el rosario y el chocolate**; Ryuk
+**con las plumas negras y la manzana**. Coincide con el texto «Appearance»
+de cada página de la wiki (`datos-imagen.md`) ✅.
+
+---
+
 ## 3 · Fan art y renders 3D (sólo como referencia, nunca para pegar)
 
 ### Modelos 3D con licencia libre (Sketchfab, licencia confirmada por su API v3)

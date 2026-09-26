@@ -188,3 +188,52 @@ Colores medidos con Pillow sobre nuestros propios fotogramas. ✅ salvo lo marca
 - Piedra del castillo y los templos: [Bricks097](https://ambientcg.com/view?id=Bricks097).
 - Papel o pergamino para mapas: [Paper006](https://ambientcg.com/view?id=Paper006).
 - Hierba y roca agrietada: buscar «grass» o «rock» en la [API de ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=grass). ⚠️ No se bajó ninguna.
+
+## 5 · Tipografía
+
+Nintendo no vende sus letras. Todo lo de abajo es la letra libre más parecida.
+Tildes, ñ, ¿ y ¡ comprobadas abriendo cada `.ttf` con fontTools, no de memoria. ✅
+
+| Uso | Letra libre | Tildes y ñ | ¿ y ¡ | Dónde |
+|---|---|---|---|---|
+| Logo o título (BotW, TotK) | **Hylia Serif** (gratis, no comercial) | sí | **no** | [descarga](https://static.wfonts.com/download/data/2017/11/16/hylia-serif/HyliaSerif.ttf) |
+| Logo antiguo «THE LEGEND OF» | Charlemagne (de pago, sin gemela libre) | sin comprobar | sin comprobar | [lista de la wiki](https://zelda.fandom.com/wiki/List_of_fonts_used_in_The_Legend_of_Zelda_logos) |
+| Diálogo de BotW y TotK | oficial FOT-Rodin (de pago); libre: ver nota | — | — | [Zelda Universe](https://zeldauniverse.net/media/fonts/) |
+| Diálogo en píxel de SNES | **Return of Ganon** (codeman38) | sí | sí | [wfonts](https://www.wfonts.com/font/return-of-ganon) |
+| Diálogo en píxel de GBA | **TLOZ Minish Cap / ALttP / Four Sword** | sí | no | [dafont](https://www.dafont.com/tloz-minish-cap-a-link-to-the-past-four-sword.font) |
+| Interfaz y menús | **RocknRoll One** (OFL) | sí | sí | [Google Fonts](https://fonts.google.com/specimen/RocknRoll+One) |
+| Onomatopeya, grito y cartel del mundo | **Reggae One** (OFL) | sí | sí | [Google Fonts](https://fonts.google.com/specimen/Reggae+One) |
+| Globo normal y pensamiento del manga | Anime Ace 2.0 BB (Blambot) ⚠️ | sí | sin comprobar | convención del equipo, no propia de Zelda |
+| Subtítulos y créditos | una sans neutra (Noto Sans) ⚠️ | — | — | no hay letra de créditos propia |
+
+**Nota del redactor sobre el diálogo.** La parte de texto propone Hylia Serif para el diálogo, pero no trae ¿ ni ¡.
+FOT-Rodin es una letra de palo seco. Para la cápsula de BotW en español, mejor **RocknRoll One**: es japonesa, sin remates y lo trae todo.
+Hylia Serif queda para títulos sin signos de apertura.
+
+**Alfabetos inventados** (conlangs, un glifo por letra latina). Sirven de adorno, no para leer. ✅
+- Hylian 64 (OoT, MM), Ancient Hylian (WW), TP Hylian, SS Ancient Hylian, ALBW/BotW Hylian, BotW Sheikah, Gerudo Typography.
+- Listados igual en [Zelda Universe](https://zeldauniverse.net/media/fonts/) y [Zelda Central](https://zeldacentral.com/media/fonts/).
+- **Zonai** de TotK (glifos verde menta de los templos): letra de fans gratis en [Cogspace](https://www.cogspace.com/2023/05/29/zonai-font-from-the-legend-of-zelda-tears-of-the-kingdom/).
+- El logo de TotK imita piedra agrietada, con «of the» pequeño y apilado. ⚠️ No hay réplica libre.
+
+## 6 · Cómo hablan en pantalla: cuadros de diálogo
+
+En Zelda el «globo» es la **caja de texto del juego**. Cada juego cambia la suya.
+
+- **A Link to the Past (SNES, 1991).** Texto blanco en píxel, sin caja, directo sobre la escena ([Game UI Database](https://www.gameuidatabase.com/gameData.php?id=1820)). ✅
+- **Ocarina of Time (N64, 1998).** Cinco cajas en el motor: negra estándar, de **madera** (cambia el color del texto), azul, la de tocar la ocarina y dos sin marco ([CloudModding](https://wiki.cloudmodding.com/oot/Text_Format)). ✅ Letra FOT-Chiaro. ⚠️
+- **The Wind Waker (GameCube, 2003).** Caja negra translúcida. Al coger un objeto, caja **azul translúcida con el icono del objeto a la izquierda** ([editor de textos de WW en GitHub](https://github.com/Sage-of-Mirrors/WindWakerTextEditor)). ✅
+- **Spirit Tracks (DS).** Caja blanca de esquinas redondas, texto oscuro, flecha roja ▽ abajo al centro y botón verde «Menu». Visto en la hoja `objetos_01.jpg` nº112. ⚠️ una imagen.
+- **Breath of the Wild (2017).** Cápsula negra translúcida (≈80 %; sobre hierba mide `#1F2315`). Extremos redondos con un adorno fino en cada punta. Nombre del que habla pequeño, en blanco, arriba a la izquierda y fuera del texto. Texto blanco, centrado. Un ▽ parpadea abajo para seguir. ✅
+- **Tears of the Kingdom (2023).** Los sabios y los templos hablan **sin caja**: letras **verde menta `#7FF1D7`** flotando, rodeadas de glifos Zonai del mismo color. ✅
+- **Carteles del mundo.** Postes y letreros de tienda en madera tallada (Kakariko, pradera). Son objetos 3D, no un recuadro encima.
+
+**Manga de Akira Himekawa** (dúo de autoras; OoT, MM, Four Swords, TP, ALttP…; Shogakukan y VIZ) ([Wikipedia](https://en.wikipedia.org/wiki/Akira_Himekawa)). ✅
+- Globo ovalado fino para hablar, dentado para gritar, nube de circulitos para pensar, onomatopeya grande fuera. ⚠️ Por convención shonen, no mirando una página.
+- Página con trama de puntos vista en la hoja `personajes_02.jpg` nº86 ([imagen](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9f/Zelda_from_Mirage_Castle%27s_Battle.jpg)). ✅
+
+**Qué NO hacer:**
+- Un rectángulo gris opaco en una lámina de BotW: es una cápsula translúcida redonda.
+- Una caja para un sabio de TotK: hablan sin caja.
+- Una caja en ALttP: es sólo texto.
+- Una burbuja blanca de cómic para Link: Link no habla.

@@ -131,9 +131,11 @@ falta para llegar a 6-10 cada uno lo puede completar imagen (hojas de la wiki).
 | Watari, teléfono pegado a la cara, sonrisa amplia, cejas arriba («¡Mensaje de Keiko!») | Ep. 01 Monotone/Colorful | 7:00 | celebrar / animar |
 | Watari entre Tsubaki y Kousei en la grada, boca abierta reaccionando | Ep. 02 Friend A | 10:00 | explicar (reacciona a la pieza del concurso) |
 | Watari en cuclillas con la camiseta de fútbol n.º 11, teléfono pegado a la boca como si cantara, mirada traviesa (tráiler PV2) | PV2 oficial (no es episodio) | 0:45 | celebrar / animar |
+| Watari inclinado hacia delante sobre una baranda, cejas juntas, preocupado por Kousei («Is this the Arima I know?») | Ep. 10 The Scenery I Shared With You | 8:00 | explicar (reacciona, preocupado) / animar |
 | Tsubaki de espaldas, mano en la cintura, dedo índice apuntando a Kousei, marcas de enfado | Ep. 01 Monotone/Colorful | 11:00 | regañar |
 | Tsubaki en la grada, inclinada hacia delante, explicando la pieza «Kreutzer» con la boca abierta | Ep. 02 Friend A | 10:00 | explicar |
 | Tsubaki caminando de espaldas junto a Kousei, mochila con tirantes rojos, bajo los cerezos | Ep. 01 Monotone/Colorful | 6:00 | presentar (plano de establecimiento del trío) |
+| Tsubaki de uniforme de béisbol/sóftbol y gorra, guante alzado, sonrisa con ojos entornados, en la cancha | Ep. 06 On the Way Home | 4:00 | celebrar / animar |
 
 ## Lo mejor para la lámina
 
