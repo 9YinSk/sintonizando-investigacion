@@ -13,8 +13,8 @@
   "fuente": "eldenring.fandom.com (wiki de Fandom)",
   "ancho": 3840,
   "alto": 2160,
-  "que_es": "Hoja de modelo oficial de Melina: cabezas en varios ángulos, ojos sueltos y la capa gris con capucha (hoja personajes_01, nº 11)",
-  "para_que": "Rasgos que nunca cambian (pelo, ojo cerrado con marca, capa) y hex de su capa (punto 15)",
+  "que_es": "Render promocional de Melina de pie, con la capucha puesta, mirando de frente",
+  "para_que": "Arte oficial variado (punto 1); referencia de pose de pie y de medir el hex de su capa (punto 15)",
   "licencia": "Copyright FromSoftware/Bandai Namco, uso editorial de referencia (no comercial)"
  },
  {
@@ -963,6 +963,15 @@
   "licencia": "subido por WENBIII; © su autor"
  },
  {
+  "url": "https://w.wallhaven.cc/full/gw/wallhaven-gwweme.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Blade Runner 2049, movies, video games, Ana de Armas, FromSoftware, Elden Ring)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Eijoni; © su autor"
+ },
+ {
   "url": "https://static.wikia.nocookie.net/eldenring/images/7/75/ER_Promo_07_3840x1630.png",
   "fuente": "Fandom eldenring",
   "ancho": 3840,
@@ -1138,8 +1147,8 @@
   "fuente": "Fandom eldenring",
   "ancho": 1920,
   "alto": 1080,
-  "que_es": "Captura promocional: los Tres Dedos de la Llama Frenética, espirales de fuego amarillo sobre negro (hoja sitios_01, nº 53)",
-  "para_que": "Efecto y color de la Llama Frenética (puntos 4 y 25)",
+  "que_es": "Ranni the Witch: Three Fingers Icon.png",
+  "para_que": "pose, ropa y colores del personaje",
   "licencia": "© titulares; sólo referencia"
  },
  {
