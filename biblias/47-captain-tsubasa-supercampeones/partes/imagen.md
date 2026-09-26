@@ -29,6 +29,14 @@ Wiki de Fandom confirmada: `captaintsubasa.fandom.com` (nombres de página en ja
 - Poses VIVAS confirmadas en las hojas: en grupo celebrando con el trofeo (imagen 14 «Tsubasa
   Champion»), en portería atajando (imagen 8, 85, 148), a media chilena en el aire (imagen 26, «La
   Chilena»), con el balón al pecho (imagen 106, 120) · fuente hojas 01-03 · ✅.
+- Portada oficial del anime clásico (1983) catalogada en AniList (id 2116, «Captain Tsubasa» /
+  «キャプテン翼»): 230×334, 27 KB · fuente
+  https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2116-ajWg3wcwvb2q.jpg (ficha
+  https://anilist.co/anime/2116) · ✅ (AniList + coincide con las portadas de VHS de la wiki) ·
+  medido con Pillow.
+- Banner/key visual horizontal del mismo registro de AniList: 1416×500, 358 KB · fuente
+  https://s4.anilist.co/file/anilistcdn/media/anime/banner/2116-DccGEDGnsqcu.jpg · ⚠️ (una sola
+  fuente, AniList no dice el ilustrador original) · medido con Pillow.
 
 ## 3 · Fan art y renders 3D (referencia) + modelos 3D con licencia
 
@@ -62,6 +70,21 @@ descarga habilitada):
 - Danbooru/Safebooru: la obra no tiene etiqueta propia (confirmado por `recolectar.py`, poco fan art
   digital moderno bajo ese nombre en esos tableros) · ⚠️ una sola comprobación automática, no se
   insistió a mano porque no es obligatorio duplicar búsquedas que ya fallaron.
+- Corrección a mano de lo anterior: Danbooru (`danbooru.donmai.us`) sí bloquea con verificación
+  Cloudflare incluso con navegador sin ventana, pero **Safebooru sí tiene etiqueta propia**:
+  `captain_tsubasa` (71 posts, tag id 42136) y `oozora_tsubasa` (23 posts, tag id 476901) · fuente
+  `https://safebooru.org/index.php?page=dapi&s=tag&q=index&json=1&name_pattern=%25captain%25tsubasa%25`
+  · ✅ (API respondida, conteos de tag) · no es que falte fan art, es que el tablero equivocado
+  (Danbooru) fue el que se probó antes.
+- Ejemplo de fan art de referencia (nunca para pegar): retrato de Alan Pascal (delantero del equipo
+  francés) subido a Safebooru desde Pixiv · 851×1024 · fuente
+  https://safebooru.org/images/841/40fdfff7ba10ca884e9ef86c5adb842229583c13.jpg (origen
+  https://i.pximg.net/img-original/img/2022/10/25/23/42/29/102232437_p0.jpg) · ✅ (post indexado +
+  imagen de origen en Pixiv) · autor no identificado por nombre real, sólo el post.
+- Otro ejemplo de fan art de referencia: parodia/crossover de Oozora Tsubasa vestido de superhéroe
+  (con Captain America y Captain Marvel), estilo del propio Takahashi, por la artista `Cookie` ·
+  2250×550 · fuente https://safebooru.org/images/525/8379fc86b019d4421eb32ac6fc41e936fcb0124e.jpg
+  (origen https://seiga.nicovideo.jp/seiga/im5778177) · ✅ (post + fuente en Niconico Seiga).
 
 ## 15 · Vestuario (colores medidos con `herramientas/estilo.py` y Pillow)
 
