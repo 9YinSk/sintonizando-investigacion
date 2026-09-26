@@ -81,4 +81,4 @@ Cuenta: cuenta I34
 | 44 | redactor (seguir) | Opus | 8 | 174 k |
 | 46 | redactor | Opus | 18 | 301 k |
 | 47 | video | Sonnet | 20 | 215 k |
-| 47 | voz | Sonnet | — | — |
+| 47 | voz | Sonnet | 24 | 272 k |
