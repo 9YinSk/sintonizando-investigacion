@@ -85,6 +85,17 @@ Pillow para evitar el contorno de línea negra.
 | Darkness | Traje de mucama, ribete rojo | #9A1F16 | `Darkness_Still_Refuses.jpg` |
 | Darkness | Vestido de novia ("Bride Darkness", especial T3) | tonos casi blancos, #F0F2F0 / #E6E7E5 (sin color saturado) | `Bride_Darkness.jpg` |
 
+Notas de peinado y accesorios (visual, de las mismas hojas de modelo):
+- Kazuma: pelo castaño corto despeinado, cinturón marrón con hebilla, katana envainada al cinto · ✅ (visto en `Kazuma_Satou_3rd.png`)
+- Aqua: coleta alta con anillo/esfera azul, medias hasta el muslo, lanza-báculo con gema rosa · ✅
+- Megumin: sombrero de bruja puntiagudo con cruz dorada, coleta lateral, venda blanca en una pierna, báculo con esfera roja · ✅
+- Darkness: coleta alta con adorno en X, guantes negros largos, espada a dos manos · ✅
+
+El traje "icónico" que todo fan reconoce es el de la portada/opening (el de la
+tabla de arriba): es el que sale en el 90% del merchandising y las figuras
+(punto 23). ⚠️ Dato de proporción a ojo, no medido con encuesta; no encontré
+una encuesta oficial de "traje favorito".
+
 ## 16 · Ciudades, paisajes y fondos de pantalla
 
 Konosuba se mueve en 4 sitios recurrentes; luz y paleta medidas con
@@ -123,13 +134,118 @@ alta son de fans en Wallhaven, con origen a Pixiv/DeviantArt cuando lo dan.
 ✅ (Wallhaven, tamaños y corazones tomados directo de la API; todas confirmadas
 "sólo aptas"/SFW). Lista completa de 15 en `datos-imagen.md` e `imagen.json`.
 
-Notas de peinado y accesorios (visual, de las mismas hojas de modelo):
-- Kazuma: pelo castaño corto despeinado, cinturón marrón con hebilla, katana envainada al cinto · ✅ (visto en `Kazuma_Satou_3rd.png`)
-- Aqua: coleta alta con anillo/esfera azul, medias hasta el muslo, lanza-báculo con gema rosa · ✅
-- Megumin: sombrero de bruja puntiagudo con cruz dorada, coleta lateral, venda blanca en una pierna, báculo con esfera roja · ✅
-- Darkness: coleta alta con adorno en X, guantes negros largos, espada a dos manos · ✅
+## 19 · Texturas 2D (tramas, grano, patrones, emblemas)
 
-El traje "icónico" que todo fan reconoce es el de la portada/opening (el de la
-tabla de arriba): es el que sale en el 90% del merchandising y las figuras
-(punto 23). ⚠️ Dato de proporción a ojo, no medido con encuesta; no encontré
-una encuesta oficial de "traje favorito".
+El anime está pintado a color plano (cel-shading; ver "estilo" en cada
+medición de arriba: "sombreado plano" o "degradado/pintado", poca línea fina
+de color, nunca negro puro). El manga y los *spin-off* en blanco y negro sí
+usan tramas clásicas de screentone (vistas en `hoja_01.jpg` nº19-21, 28-31:
+`KonaSuba Vol5-3/4 Colored`, viñetas b/n de "Megumin Spinoff"). Equivalentes
+libres con licencia:
+
+- **Screentones/tramas de manga**: paquetes libres de puntos, líneas y
+  degradados en capas para Photoshop/CSP ("Manga Screentone Pack" y
+  repositorios similares en DeviantArt/GitHub) · búsqueda hecha "manga
+  screentone brush pack free license" · ⚠️ (hay varios repos, cada uno con su
+  propia licencia declarada; comprobar la de cada paquete antes de usarlo, no
+  hay un estándar único) · sirve para sombrear como el spin-off en blanco y negro
+- **Grano de papel** (aspecto de tomo impreso/artbook): ambientcg `Paper001`
+  a `Paper006` y `Cardboard002`, CC0, hasta 8K, con mapas de rugosidad ·
+  https://ambientcg.com/view?id=Paper001 (y Paper003-006) · ✅ (licencia CC0
+  confirmada en la API `full_json` de ambientcg)
+- **Tela** (capa de Kazuma, vestido de Aqua, capa de Megumin): ambientcg
+  `Fabric030`, `Fabric036`, `Fabric061`, `Fabric062`, `Fabric066`,
+  `Fabric081C`, CC0 · https://ambientcg.com/view?id=Fabric030 · ✅
+- **Cuero** (cinturón de Kazuma, guantes de Darkness): ambientcg
+  `Leather026`, `Leather030`, `Leather034C`, `Leather037`, `Leather038`, CC0 ·
+  https://ambientcg.com/view?id=Leather026 · ✅
+- **Metal dorado** (ribetes de Aqua/Megumin, armadura de Darkness):
+  ambientcg `Metal034`, `Metal042A`, `Metal048A/B/C`, CC0 ·
+  https://ambientcg.com/view?id=Metal048A · ✅
+- **Madera** (mansión de Kazuma, tienda de Wiz): ambientcg `WoodFloor040`,
+  `WoodFloor041`, `WoodFloor043`, `WoodFloor064`, `Planks037A`, CC0 ·
+  https://ambientcg.com/view?id=WoodFloor040 · ✅
+- **Patrón de ropa propio**: la cruz/aspa dorada del sombrero de Megumin y el
+  adorno en X del pelo de Darkness son el mismo tipo de símbolo (aspa con
+  remate) repetido en ambos diseños; el borde de la capa de Megumin es un
+  patrón de rombos dentados dorados, medido directamente en `Megumin_3rd.png`
+  (recortes de color de arriba) · ✅ (visto en la hoja de modelo, no de memoria)
+- **Emblemas/logos**: el logotipo del título usa letras estilizadas con
+  degradado y contorno grueso (ver portadas de tomo, `hojas/portadas_02.jpg`).
+  No encontré un blasón o escudo de grupo catalogado (los Demonios Carmesí no
+  tienen un emblema de clan en la wiki más allá del nombre) · búsquedas
+  hechas: wiki en inglés `srsearch=emblem`, `srsearch=crest`, sin resultado
+  relevante → **no lo encontré**, no digo que no exista.
+
+Con esto no falta ninguna capa: 3D con licencia → Sketchfab (punto 3);
+texturas reales de sitios y trajes → ambientcg (arriba); 2D de superficie
+(tramas y patrones) → este punto.
+
+## 23 · Colaboraciones y cruces
+
+Konosuba cruza mucho con otros isekai (por tono de parodia) y tiene
+colaboraciones comerciales activas en 2024-2025. Figuras oficiales y cosplay
+al final.
+
+- ***Isekai Quartet*** (crossover oficial en anime, chibi, con *Re:Zero*,
+  *Overlord* y *Saga of Tanya the Evil*): los 4 protagonistas en versión SD
+  comparten aula/mecha con los otros isekai · arte promocional
+  https://twitter.com/isekai_quartet/status/1128325214578679808 (4096×2900) y
+  https://twitter.com/isekai_quartet/status/1115641595460587520 (4096×2542) ·
+  ✅ (dos posts oficiales de la cuenta de la franquicia, vía Safebooru/Wallhaven)
+- **MapleStory × KonoSuba** (evento de juego, 20 feb-19 mar 2024): Kazuma,
+  Aqua, Megumin y Darkness llegan a Maple World como disfraces/misiones ·
+  https://www.animenewsnetwork.com/press-release/2024-02-27/limited-time-konosuba-god-blessing-on-this-wonderful-world-and-maplestory-crossover-event-is-here/.208073
+  · ✅ (nota de prensa oficial de Anime News Network)
+- **"Knives Out" × KonoSuba** (evento de juego móvil, 31 ago-20 sep 2025):
+  ítems exclusivos, incluido el traje "marco dorado" de Darkness ·
+  http://www.haveagood-holiday.com/en/articles/knives-out-konosuba-collaboration-2025
+  · ⚠️ (una sola fuente de noticias, no oficial directa)
+- **Super Sonico × KonoSuba** (figura crossover): preventa desde el
+  4-sep-2025 en la tienda oficial de Kadokawa, lanzamiento previsto marzo 2026
+  · https://essential-japan.com/news/orders-open-for-new-super-sonico-x-konosuba-crossover-figure/
+  · ⚠️ (una fuente; vendedor menciona tienda oficial Kadokawa como canal)
+- **Unison League × KonoSuba** (2 colaboraciones, RPG móvil): personajes
+  jugables de Kazuma/Aqua/Megumin/Darkness por tiempo limitado ·
+  https://www.ateam-entertainment.com/en/news/1492/ · ✅ (nota oficial de
+  Ateam Entertainment, el estudio del juego)
+- **KonoSuba: Fantastic Days × Re:Zero** (9-23 nov, evento in-game) y
+  **× DanMachi** (26 may-9 jun, evento in-game): crossovers dentro del propio
+  juego móvil de Konosuba con otros isekai de temporada · ✅ (gamingcoffee.com,
+  cubre el anuncio oficial del juego)
+- **Café colaborativo con Cure Maid Cafe** (Akihabara, centrado en Megumin):
+  menú temático con plato "Chomusuke" (pastel de chocolate) y bebidas de
+  colaboración · https://aroundakiba.tv/news/megumin-stars-at-konosuba-maid-cafe-collaboration/
+  · ⚠️ (una fuente, medio especializado en Akihabara; no tengo fecha exacta)
+
+**Figuras oficiales** (pose = referencia 3D real, no inventada):
+
+- Megumin "Rock Version", escala 1/7, PVC, Kadokawa · vendida en Amazon ·
+  https://www.amazon.com/Kadokawa-KonoSuba-Blessing-Wonderful-Multicolor/dp/B0862QKGBB
+  · pose dinámica lanzando el hechizo, sombrero y capa desmontables · ✅
+  (listado de tienda + nota de prensa en español, somoskudasai.com)
+- Megumin "Gothic Lolita Dress", escala 1/7, Kadokawa · https://megamitoys.com.mx/products/kadokawa-scale-figure-konosuba-an-explosion-on-this-wonderful-world-megumin-gothic-lolita-dress-escala-1-7-preventa
+  · traje alternativo, no el icónico · ⚠️ (una tienda)
+- Megumin "Light Novel Swimsuit Ver.", Kadokawa · https://www.akibastation.es/2020/06/figura-megumin-light-novel-swimsuit-ver-konosuba-kadokawa.html
+  · traje de baño, arco de playa · ⚠️ (una tienda)
+- Catálogo general de figuras de la serie (Aqua, Megumin y el resto) en
+  tienda española especializada: https://www.nihonfigures.com/c880353_figuras-konosuba.html
+  · ✅ (segunda fuente de que las figuras "Rock Version" y "POP UP PARADE"
+  existen, con fotos de la pose real)
+
+**Cosplay con materiales y volumen reales** (no dibujos, fotos):
+
+- Aqua, cosplay "diosa del agua", foto con licencia libre CC BY-SA 4.0 ·
+  autora NikoBitre · 2252×4000 ·
+  https://upload.wikimedia.org/wikipedia/commons/4/4b/AQUA_DE_KONOSUBA_cosplay_de_la_diosa_del_agua.jpg
+  · ✅ (Wikimedia Commons, licencia verificable en la propia página del archivo)
+- Cosplay de convención (PHXCC 2017), foto CC BY-NC-ND 2.0 · Florentino Luna ·
+  683×1024 · https://live.staticflickr.com/4244/34795107621_6d2884865e_b.jpg
+  · ⚠️ (una fuente, Flickr vía Openverse; no identifica el personaje en el
+  título, revisar antes de usar)
+
+No encontré (⚠️/❌, con la búsqueda hecha): un evento de café temático oficial
+de Kadokawa fuera de Japón; una colaboración con *Fortnite* (buscado
+"Konosuba Fortnite collaboration", sin resultados, a diferencia de otros
+isekai como *Re:Zero* que sí están en Fortnite) — **no lo encontré**, no digo
+que no exista.

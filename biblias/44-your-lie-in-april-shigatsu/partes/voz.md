@@ -128,3 +128,67 @@ Premios y ventas confirman el éxito oficial; las reseñas y reacciones en víde
 - Reacción de la gente: docenas de «reaction mashups» en YouTube dedicados sólo a esta escena (p. ej. «Kaori's Letter Reaction Mashup», «SOS Bros React») confirman que es el momento más citado de la serie · https://www.youtube.com/watch?v=jy4dsCBFe4g · ✅ (varios canales distintos hacen vídeo de reacción sólo de esta escena) · —
 - Otra escena muy citada por fans: la confesión de Tsubaki a Kousei, episodio 20 · https://mageinabarrel.com/2015/03/05/your-lie-in-april-episode-20/ y menciones repetidas en TikTok/YouTube · ⚠️ (no verifiqué minuto exacto por falta de tiempo) · —
 - Otro episodio señalado como favorito por fans en foros: episodio 10 («still the best episode of the series for me», comentario de lector) · https://mageinabarrel.com/2015/03/19/your-lie-in-april-episode-22-end/ (comentarios) · ⚠️ (opinión de un solo comentarista) · —
+
+## 22 · Fan dubs y comunidad hispana
+
+Sin doblaje oficial todavía (punto 8), la comunidad hispana de fandub ya se adelantó: hay fandubs de escenas sueltas y varios covers del opening «Hikaru Nara» en español, con vistas verificadas con `yt-dlp` (metadatos, sin descargar).
+
+| Canal | Enlace | Escena/tema | Vistas | Fecha |
+|---|---|---|---|---|
+| Luxe KO (Hana, Balu, Jhair, Luxe) | https://www.youtube.com/watch?v=V3EP2vqpRuU | Cover español «Hikaru Nara» (opening) | 1 107 538 | 2018-06-09 |
+| MAGO REY / Blanca Tapia | https://www.youtube.com/watch?v=TBoHfc3d2f0 | Fandub «Naranja Adiós» (escena) | 12 215 | 2017-06-16 |
+| Lyrical Legends Music | https://www.youtube.com/watch?v=z9BoGuU4_tU | Cover español latino «Hikaru Nara» | 5 059 | 2023-10-16 |
+| Bolt | https://www.youtube.com/watch?v=Inmj2FiqCMY | Parodia «Your Lie in April en 1 minuto» | 1 519 | 2019-04-24 |
+| Yashua Dub Studios | https://www.youtube.com/watch?v=BZW9_SgDX2M | Fandub cap. 1 parte 1 (doblaje completo por fans) | 1 623 | 2025-07-31 |
+| Friki Zone – Fandub | https://www.youtube.com/watch?v=aokas_5ETLY | Fandub escena del capítulo 22 (la carta) | 317 | 2021-07-04 |
+
+- Hay más covers de «Hikaru Nara» en español de otros canales (Hitomi Flor en Spotify/Apple Music, Omar Cabán & The Covers Duo) que no pude medir en vistas por no tener metadatos de YouTube (están en plataformas de streaming musical) · https://open.spotify.com/track/7HmwxDD8F5SEgbMKBwWFax · ⚠️ · —
+- El fandub del cap. 22 (la carta de Kaori) confirma que la escena más llorada (punto 21) también es la más adaptada por fans hispanos: dos canales distintos («Friki Zone» y «El Milagro de Kaori») hicieron fandub de esa escena en concreto · https://www.youtube.com/watch?v=aokas_5ETLY y https://www.youtube.com/watch?v=iTVBiFTfDNo (este último enlace ya no está disponible: «Video unavailable») · ⚠️ (un enlace roto) · —
+- No encontré fandubs de la serie en TikTok con métricas propias (TikTok no da vistas por yt-dlp sin sesión); sólo apareció como categoría de descubrimiento «Your Lie in April Doblaje Español» sin vídeos individuales medibles. ⚠️
+
+## Lo mejor para la lámina
+
+- Kaori es más querida que el protagonista Kousei (9323 vs 4810 favoritos en AniList, mismo orden en Ranker): un personaje secundario/coprotagonista puede llevar la lámina, no sólo Kousei.
+- La escena que todo fan reconoce y llora: la carta final de Kaori en el ep. 22 «Spring Wind», con Tsubaki gritando su amor junto a las barreras de un cruce de tren en primavera.
+- Objetos de firma para dibujar: los lentes gruesos de Kousei, la maletita rosa del violín de Kaori, flores de cerezo (sakura) de fondo — nunca cambiar la estación a otra que no sea primavera.
+- El doblaje latino aún NO existe (se estrena a fines de 2026): cualquier cuadro de diálogo con voz debe citarse como «voz original japonesa» o esperar al estreno del doblaje, no inventar frases dobladas.
+- Cover de «Hikaru Nara» en español con más de un millón de vistas (canal Luxe KO): la comunidad hispana ya se apropió del opening antes que del doblaje oficial.
+
+## No encontré
+
+- Encuesta oficial japonesa de popularidad (Newtype, Anime!Anime!, Charapedia) dedicada a Shigatsu wa Kimi no Uso: busqué «四月は君の嘘 キャラクター人気投票» (japonés) y «Your Lie in April Newtype popularity poll» (inglés). El sitio oficial kimiuso.jp no tiene encuesta ni fichas de personaje en texto (usa imágenes).
+- Conteo de favoritos de MyAnimeList (Jikan API): la API devolvió error 504 en 3 intentos distintos (26-sep-2026); no hay segunda cifra numérica de favoritos aparte de AniList.
+- Clips oficiales del doblaje latino: no existen todavía (el doblaje no se ha estrenado). Busqué en Dailymotion, YouTube y TikTok bajo «Your Lie in April doblaje latino»; todo lo que aparece son AMV con audio japonés o instrumental.
+- TV Tropes (páginas Characters/YourLieInApril y Funny/YourLieInApril): da 403 con curl y `navegar.py` no funciona en este contenedor («BrowserType.launch: Executable doesn't exist at /opt/pw-browsers/...» — falta el binario del navegador headless). Lo dejo anotado para que se arregle el entorno; mientras tanto usé blogs de reseña como sustituto parcial (⚠️).
+- Ficha oficial completa (databook) con gustos/odios de Kousei, Tsubaki y Watari: sólo el gusto de Kaori por los canelés está documentado en una fuente de trivia de wiki. No encontré un artbook o databook digitalizado accesible desde este contenedor.
+- Minuto exacto verificado a ojo de la escena de la carta (ep. 22): sólo tengo el dato de una fuente de terceros (AniPlaylist) con las marcas de tiempo de la música; no llegué a ver el episodio 22 completo en esta tanda por límite de tiempo.
+- Reddit vía Arctic Shift: la API devolvió «Timeout. Maybe slow down a bit» en varios intentos con `/api/posts/search`; no pude sacar hilos de Reddit directamente (usé resultados de búsqueda web en su lugar, que sí encontraron reseñas y foros de MyAnimeList).
+
+## Bitácora
+
+- AniList (`anilist.co/anime/20665`): favoritos por personaje y fichas — ya venía en `datos-voz.md`, verificado y ampliado.
+- Doblaje Wiki (`doblaje.fandom.com/es/api.php?action=parse`): wikitext completo de la ficha de la serie — descargado directamente con curl, sacó el reparto que `datos-voz.md` no había parseado bien (tabla vacía → reparto completo con personaje-actor).
+- Shigatsu wa Kimi no Uso Wiki (Fandom, `api.php?action=parse`): wikitext de Kousei Arima, Kaori Miyazono, Tsubaki Sawabe y Ryota Watari (infobox, personalidad, apariencia, relaciones, trivia, episodio 22).
+- Wikipedia ES (`es.wikipedia.org/wiki/Shigatsu_wa_Kimi_no_Uso`): sección de reparto de doblaje por personaje e idioma — segunda fuente independiente para los 4 actores latinos.
+- Wikipedia EN (`en.wikipedia.org/wiki/Your_Lie_in_April`, `en.wikipedia.org/wiki/Naoshi_Arakawa`): premios y ventas.
+- kimiuso.jp/character/: sitio oficial revisado con curl; sin texto de fichas (usa imágenes), sin encuesta.
+- eldoblaje.com: ficha de España (no Latinoamérica) con id capturado por recolectar.py da 404; descartado.
+- MyAnimeList / Jikan API (`api.jikan.moe/v4/anime/23273/characters`): 504 repetido, sin datos.
+- Internet Archive (`archive.org/advancedsearch.php`, `archive.org/metadata/...`): busqué «your lie in april» / «shigatsu wa kimi no uso»; encontré y usé el episodio 1 completo BDRip (`lns-tsundere-shigatsu-wa-kimi-no-uso-01-...`) con `fotogramas.py` (hojas de contacto cada 20 s + 5 fotogramas individuales en detalle).
+- Dailymotion (API, `datos-voz.md`): probé un AMV (`x479c6d`) con `fotogramas.py` como plan B; sirvió para confirmar estilo visual pero no lo usé para las citas finales (el episodio 1 de Internet Archive da capítulo y minuto reales, el AMV no).
+- yt-dlp (metadatos, `--skip-download --print`): usado para sacar título, canal, vistas y fecha de 8 vídeos de YouTube (fandubs y covers en español) sin descargar nada; funciona aunque la descarga de vídeo esté bloqueada por «inicia sesión».
+- navegar.py: falló con «BrowserType.launch: Executable doesn't exist» — el navegador headless no está instalado en este contenedor. Anotado como fallo de entorno, no de la web.
+- Arctic Shift (Reddit, `arctic-shift.photon-reddit.com/api/posts/search`): 3 intentos, todos con timeout. Descartado, usé búsqueda web para contenido de Reddit/foros en su lugar.
+- Búsquedas web (WebSearch), en español, inglés y japonés: «Your Lie in April doblaje latino», «ANMTV Your Lie in April Crunchyroll», «Your Lie in April reparto voces latino», «anmtvla.com Your Lie in April reparto doblaje 2026», «Your Lie in April Newtype character popularity poll», «Your Lie in April personaje más querido encuesta MyAnimeList», «四月は君の嘘 キャラクター人気投票» (japonés), «Your Lie in April fandom memes running gag», «Your Lie in April reddit best crying scene», «Your Lie in April qué NO hacer fans odian adaptación», «Your Lie in April running joke comedic violence», «Your Lie in April awards sales Kodansha Manga Award», «Your Lie in April episode 22 letter scene reaction», «Your Lie in April episode 22 letter scene song Watashi no Uso», «Your Lie in April Tsubaki confession episode number», «Your Lie in April fandub español latino YouTube», «Hikaru Nara cover español latino».
+
+## Cumplimiento de mis puntos (7, 8, 12, 13, 20, 21, 22)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 7 · Popularidad | ✅ | AniList + Ranker (2 fuentes independientes); falta encuesta oficial japonesa (no existe publicada, ⚠️ documentado) |
+| 8 · Doblaje latino | ✅ (con aviso) | 4 actores confirmados en 2 fuentes cada uno; no hay frases porque el doblaje no se ha estrenado (documentado con evidencia) |
+| 12 · Fandom y qué NO hacer | ⚠️ | Gags y objetos icónicos confirmados; sin TV Tropes (bloqueado + navegar.py roto en el contenedor) |
+| 13 · Personajes a fondo | ✅ | 4 personajes con personalidad, arco, relaciones, frases reales con minuto y 5 fotogramas de emociones vistos y medidos |
+| 20 · Gustos y detalles | ⚠️ | Cumpleaños/altura de los 4 con 2 fuentes; gustos/odios con 1 fuente para Kaori, inferidos para el resto (sin databook) |
+| 21 · Por qué la aman | ✅ | Premios, ventas, escena que hace llorar con minuto de la música y reacciones en vídeo |
+| 22 · Fan dubs hispanos | ✅ | 6 vídeos con canal, escena y vistas medidas con yt-dlp |

@@ -66,11 +66,12 @@ rehacerla. Las fuentes de cada dato están en su sección.
 - **Estudio de *Renewal of Evangelion***: «no lo encontré» → Grabaciones y
   Doblajes Internacionales, dirección de Gerardo García, grabado en 2007 y
   emitido en 2008 ⚠️ (sólo lo dice Doblaje Wiki).
-- **Pose «silueta de Rei», ep. 6, 15:32** → es **Shinji llorando** (visto
-  en los fotogramas vecinos). Se quita de las poses de Rei.
+- **Ep. 6, 15:32** («No morirás», la pose de Rei era de memoria): en el
+  archivo mirado, ese tramo (15:32-15:48) enseña a **Shinji llorando**, no
+  a Rei. La postura de Rei en esa frase sigue sin verse ⚠️ (§15).
 - **«La ficha de Rei», ep. 5, 4:25** (era de memoria) → **no existe** ese
   plano. Ese tramo es un resumen técnico de la Unidad 00. Lo que sí hay: la
-  placa «402 綾波» en la puerta de Rei (13:12) y sus gafas rotas (14:15).
+  placa «402 綾波» en la puerta de Rei (13:12) y unas gafas rotas (14:15).
 - **Vestuario**: hex «de memoria» → **medidos** en arte oficial con fondo
   transparente: traje de Shinji `#036ED3`, pichi de Asuka `#022A51`, traje
   de Rei `#E9EDF3`, chaqueta de Misato `#E02824`.
@@ -297,6 +298,31 @@ comenta, se compara. Es lo que pasa con una demo.
 | «好意に値するよ» (Mereces mi afecto) | Kaworu | ep. 24, 00:09:35 |
 | «僕は ここにいてもいいんだ！» → «おめでとう» (¡Puedo quedarme aquí! → Felicidades) | Shinji / todos | ep. 26, 00:21:17 y 00:21:33 |
 
+### 2.3 Segunda pasada: lo que se ve, ya comprobado ✅
+
+Fotogramas mirados en Internet Archive (el minuto es del archivo; puede ir
+unos segundos desfasado del de arriba). Las poses van en §15; las caras,
+en §8.
+
+- **Ep. 5, la ficha de Rei (00:04:25)**: la voz de Ritsuko lee los datos,
+  pero **en pantalla hay diagramas de sinapsis de la «EVA-00»**, no una
+  ficha. El título «EPISODE: 5 · Rei I» no sale hasta el **13:12**, y ahí
+  mismo se ve la placa «402 綾波» de su puerta. Para la lámina, **la ficha
+  se oye, no se ve**: justo como una demo de voz.
+- **Ep. 1, 15:38**: las gafas de Gendo con el **carnet de Shinji
+  reflejado dos veces**, números de expediente en rosa y violeta. Es la
+  única «ficha» con foto que se ve en el ep. 1.
+- **Ep. 1, 19:55 y 20:58**: Shinji en la cápsula de LCL y la Unidad 01
+  encadenada en su jaula verde.
+- **Ep. 6, 21:34 → 21:45**: en latino, «¿Por qué no pruebas sonreír,
+  Rei?»; y la sonrisa, en primer plano.
+- **Una ficha de piloto en pantalla que sí existe**: la prueba de
+  sincronía de Kaworu, con el rótulo **«TEST PLUG-02 · HARMONICS TEST
+  PROCEEDING · LIVE · SUBJECT: FIFTH C. KAWORU NAGISA»** (hoja
+  `settei_figuras_03.jpg`, nº 99; ep. 24, 00:06:26 según §15) ✅.
+- **Una tarjeta de NERV en la mano**: la de Shinji en *Rebuild* (hoja
+  `vestuario_pantallazos_02.jpg`, nº 71), con «VIP:ID» ✅.
+
 ---
 
 ## 3 · Arte oficial y referencias visuales
@@ -358,7 +384,7 @@ comenta, se compara. Es lo que pasa con una demo.
 - **Ojo con «la tarjeta de Rei»** (segunda pasada): el ep. 5 se miró
   minuto a minuto de 0:00 a 15:00 y **no hay un primer plano de la
   tarjeta en 4:25**. Ese tramo es un resumen técnico de la Unidad 00. Lo
-  que sí se ve: la placa «402 綾波» en la puerta de Rei (13:12) y sus gafas
+  que sí se ve: la placa «402 綾波» en la puerta de Rei (13:12) y unas gafas
   rotas en el suelo (14:15). Para dibujar la tarjeta, usa las de reventa
   de arriba.
 
@@ -1312,15 +1338,20 @@ en #demos.
 ## 15 · Poses analizadas por personaje
 
 El **minuto** está comprobado en el subtítulo ✅. **Lo que se ve** (postura,
-manos, mirada) es de memoria ⚠️: abre el fotograma en tu PC antes de usarlo.
+manos, mirada) era de memoria ⚠️: abre el fotograma en tu PC antes de usarlo.
+
+**Segunda pasada**: las filas con **✅ visto** se miraron en un fotograma
+real de Internet Archive, con enlace al segundo. Ese archivo puede ir
+unos segundos desfasado del subtítulo de Netflix. Lo que no coincidía con
+lo de memoria está corregido en la fila.
 
 ### Misato
 
 | Escena | Minuto | Qué hace (⚠️) | Sirve para |
 |---|---|---|---|
-| ep. 1, se presenta | 00:06:20 | De pie junto a su coche, sonriendo, mano en la cadera | **presentar** |
-| ep. 1, da el folleto | 00:10:16 | En el coche/tren hacia el GeoFront, **tiende el folleto de NERV** | **explicar** (el léeme) |
-| ep. 2, la cerveza | 00:13:14 | Echa la cabeza atrás con la lata, ojos cerrados | **celebrar** (en casa) |
+| ep. 1, se presenta | 00:06:20 | **✅ visto** ([6:20](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=380)): **se quita las gafas de sol de un tirón**, mirada de lado, sonrisa de medio lado | **presentar** |
+| ep. 1, da el folleto | 00:10:16 | En el transporte hacia el GeoFront, **tiende el folleto de NERV** ⚠️. Visto a [10:16](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=616): el plano es de **Shinji** nervioso, mirando de reojo; el folleto va justo antes o después | **explicar** (el léeme) |
+| ep. 2, la cerveza | 00:13:14 | **✅ visto** ([13:14](https://archive.org/download/evangelion-the-full-series/1.10A%20Neon%20Genesis%20Evangelion%20-%20Episode%202%20%28SUB%29%201920x1080%20-%20Unfamiliar%20Ceilings.mp4?t=794)): ojos cerrados, sonrisa enorme, bebiendo; en la lata se lee «YEBISU» (hoja 2, nº 91) | **celebrar** (en casa) |
 | ep. 6, Operación Yashima | 00:09:20 → 00:09:26 | En la sala de mando, **señala el mapa en la pantalla** | **explicar** |
 | ep. 9, plan del unísono | 00:11:03 → 00:11:34 | Delante de los dos, dedo arriba, con la cinta de música | **explicar** |
 | ep. 16, «You are number one» | 00:03:20 | Al micrófono de la sala de pruebas, pulgar arriba | **celebrar / animar** |
@@ -1331,9 +1362,10 @@ manos, mirada) es de memoria ⚠️: abre el fotograma en tu PC antes de usarlo.
 
 | Escena | Minuto | Qué hace (⚠️) | Sirve para |
 |---|---|---|---|
-| ep. 8, llega al portaaviones | 00:03:30 | Vestido amarillo, al viento, sonrisa de superioridad | **presentar** |
-| ep. 8, se presenta | 00:03:46 | Manos en la cintura, barbilla alta | **presentar** |
-| ep. 8, «あんたバカァ？» | 00:11:02 | Se inclina hacia Shinji, dedo acusador | **regañar** |
+| ep. 8, llega al portaaviones | 00:03:30 | Vestido amarillo, al viento, sonrisa de superioridad. Visto a [3:20](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4?t=200): **de perfil, ojos muy abiertos**, girada hacia un grupo que celebra | **presentar** / **celebrar** |
+| ep. 8, se presenta | 00:03:46 | **✅ visto** ([3:46](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4?t=226)): de pie, **barbilla alta, con una carpeta en la mano**, hablando al grupo (no manos en la cintura) | **presentar / explicar** |
+| ep. 8, «何すんのよ！» | 00:04:04 | **✅ visto** ([4:04](https://archive.org/download/evangelion-the-full-series/1.70A%20Neon%20Genesis%20Evangelion%20-%20Episode%208%20%28SUB%29%201920x1080%20-%20Asuka%20Arrives%20in%20Japan.mp4?t=244)): cara roja, boca muy abierta gritando | **regañar** |
+| ep. 8, «あんたバカァ？» | 00:11:02 | Se inclina hacia Shinji, dedo acusador ⚠️. Visto a [11:02](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4?t=662) del archivo: **de pie, muy tensa contra una pared, con el traje, manos juntas al pecho** | **regañar** ⚠️ / **pensar** (lo visto) |
 | ep. 9, «Guten Morgen» | 00:02:24 | Saludo desde la puerta del colegio | **saludar** |
 | ep. 10, «見て見て シンジ！» | 00:06:33 | En la piscina, presume antes de tirarse | **celebrar** |
 | ep. 15, aplaude el chelo | 00:11:33 | Aplaude despacio, apoyada en la puerta | **animar** (dar feedback) |
@@ -1344,18 +1376,21 @@ manos, mirada) es de memoria ⚠️: abre el fotograma en tu PC antes de usarlo.
 
 | Escena | Minuto | Qué hace (⚠️) | Sirve para |
 |---|---|---|---|
-| ep. 5, su ficha | 00:04:25 | (Ritsuko la lee; Rei en la cápsula de prueba) | **la ficha** |
+| ep. 5, su ficha | 00:04:25 | Ritsuko lee sus datos; **en pantalla hay diagramas de la Unidad 00, no una ficha** (visto en la segunda pasada) | la ficha, sólo como voz en off |
+| ep. 5, su puerta | 00:13:12 | **✅ visto**: la placa «402 綾波» | el objeto «nombre en la puerta» |
 | ep. 5, «何？» | 00:15:55 | Recién salida de la ducha en su piso; mirada neutra | — (evitar: escena de desnudo) |
-| ep. 6, «私が守るもの» | 00:15:32 | Sentada de noche junto a Shinji, mira al frente | **animar** (proteger) |
+| ep. 6, «私が守るもの» | 00:15:32 | Sentada de noche junto a Shinji, mira al frente ⚠️. En el archivo mirado, 15:32-15:48 enseña a **Shinji llorando**: la postura de Rei sigue sin verse | **animar** (proteger) |
 | ep. 6, «絆» | 00:16:25 | De pie, con el traje de conector, mira la ciudad | **pensar** |
-| ep. 6, la sonrisa | 00:21:30 → 00:21:35 | Sentada en la cápsula abierta, **sonríe por primera vez** | **celebrar** (suave) |
+| ep. 6, la sonrisa | 00:21:30 → 00:21:35 | **✅ visto** ([21:45](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4?t=1305)): primer plano en la cápsula, mirada de lado, **sonrisa pequeña y real** | **celebrar** (suave) |
+| Rei sola, a oscuras | 00:14:45 | **✅ visto** ([enlace](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4?t=885), archivo del ep. 6; la parte de vídeo también lo sitúa en el ep. 5 ⚠️): de pie en un piso vacío, mirando de reojo, apoyada en la mano, cansada | **pensar** |
 | ep. 16, «さよなら» | 00:03:49 | Se va, de espaldas | despedirse |
 
 ### Shinji
 
 | Escena | Minuto | Qué hace (⚠️) | Sirve para |
 |---|---|---|---|
-| ep. 1, «逃げちゃダメだ» | 00:18:33 | Puños apretados, mirada baja | **animar** (valor) |
+| ep. 1, «逃げちゃダメだ» | 00:18:33 | **✅ visto** ([18:33](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=1113)): **primerísimo plano, sólo ojo y mechones, dientes apretados** (no se ven los puños) | **animar** (valor) |
+| ep. 1, en la cápsula | 00:19:55 | **✅ visto** ([19:55](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=1195)): LCL, gotas en el pelo, ojos muy abiertos | **pensar** (miedo antes de empezar) |
 | ep. 2, «知らない天井だ» | 00:03:53 | Tumbado en la cama del hospital | **pensar** |
 | ep. 2, el SDAT | 00:16:16 | Tumbado, auriculares puestos | **escuchar demos** |
 | ep. 5, la tarjeta | 00:16:11 | Tartamudea, tarjeta en la mano | **presentar** (nervioso) |
@@ -1369,7 +1404,9 @@ manos, mirada) es de memoria ⚠️: abre el fotograma en tu PC antes de usarlo.
 |---|---|---|---|
 | ep. 24, tararea | 00:04:55 | Sentado en una estatua rota junto al lago, al atardecer | **presentar** (con música) |
 | ep. 24, «歌はいいね» | 00:05:13 | Se gira hacia Shinji, sonrisa suave | **gancho del canal** |
-| ep. 24, se presenta | 00:05:36 → 00:05:48 | Mano abierta, invita a tutearle | **presentar / saludar** |
+| ep. 24, se presenta | 00:05:36 → 00:05:48 | Mano abierta, invita a tutearle ⚠️. **✅ visto** a [00:05:40](https://archive.org/download/evangelion-the-full-series/3.30A%20Neon%20Genesis%20Evangelion%20-%20Episode%2024%20%28SUB%29%201920x1080%20-%20The%20Last%20Cometh.mp4?t=340): media sonrisa cálida, luz de atardecer, mirando a Shinji | **presentar / saludar** |
+| ep. 24, llega a NERV | archivo 22-24, 56:30 (segundo 3390) | **✅ visto** ([ítem](https://archive.org/details/neon-genesis-evangelion-22-al-24)): sonríe de frente, pelo plateado, ojos rojos | **presentar** |
+| ep. 24, en las termas | archivo 22-24, 58:20 (segundo 3500) | **✅ visto**: ojos cerrados, relajado, el monte Fuji al fondo | **pensar / confiar** |
 | ep. 24, «好意に値するよ» | 00:09:35 | En el baño público, junto a Shinji | **animar** |
 | ep. 24, prueba de sincronización | 00:06:26 | (En la cápsula de prueba) | **la demo** |
 
@@ -1377,17 +1414,17 @@ manos, mirada) es de memoria ⚠️: abre el fotograma en tu PC antes de usarlo.
 
 | Escena | Minuto | Qué hace (⚠️) | Sirve para |
 |---|---|---|---|
-| ep. 1, «乗るなら早くしろ» | 00:15:38 | Arriba, en la cabina, mirando a Shinji desde lejos | **regañar** (norma) |
+| ep. 1, «乗るなら早くしろ» | 00:15:38 | **✅ visto** ([15:38](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=938)): **primerísimo plano de sus gafas** con el carnet de Shinji reflejado dos veces, números de expediente en rosa y violeta sobre negro. No tapa la boca con las manos | **regañar / explicar en frío** (norma) |
 | ep. 1, «問題ない» | 00:09:48 | Pose Gendo en la sala de mando | **la norma** |
 | ep. 5, salva a Rei | 00:04:05 | Abre la cápsula ardiendo con las manos; las gafas caen ⚠️ | — |
 | ep. 15, en la tumba de Yui | 00:10:26 | De pie, de espaldas, con Shinji | **pensar** |
 
 ---
 
-## 16 · Vestuario ⚠️
+## 16 · Vestuario
 
-Todo de memoria: **compruébalo con las hojas de modelo de Sadamoto** antes
-de dibujar. Los hex son aproximados. Ayudas:
+La tabla de abajo es de la primera pasada, de memoria ⚠️. **Manda la de
+§16.1**, con hex medidos en arte oficial. Ayudas:
 [EvaWiki: diseños de personajes](https://wiki.evageeks.org/Evangelion_Character_Designs),
 [guía de cosplay de calle](https://closetchloecosplay.wordpress.com/2018/03/12/evangelion-10-outfits-to-closet-cosplay/),
 [paleta del traje de Asuka](https://www.pixilart.com/palettes/evangelion-asuka-plugsuit-40378).
@@ -1407,11 +1444,54 @@ blanco) y el **vestido amarillo de Asuka**. En una lámina de voz, mejor el
 **uniforme escolar o la ropa de calle** que el traje de conector (se evita
 lo ceñido: son menores).
 
+### 16.1 Segunda pasada: hex medidos ✅
+
+Medidos con Pillow (mediana de un parche de 6-12 px, sin línea) en arte
+oficial de la wiki. Los de **fondo transparente o liso** son los más
+fiables: no hay luz de escena que los tiña. La forma de cada prenda
+coincide con la descripción de la wiki («light blue torso… dark blue»,
+«black flapper dress… red jacket»): dos fuentes ✅.
+
+| Personaje | Prenda | Hex | Imagen |
+|---|---|---|---|
+| Shinji | Traje de conexión, cuerpo azul | `#036ED3` | [Shinji In Plugsuit (Mugshot)](https://static.wikia.nocookie.net/evangelion/images/d/dd/Shinji_In_Plugsuit_%28Mugshot%29.png) |
+| Shinji | Panel blanco del torso | `#DCEFF3` | la misma |
+| Shinji | Anillo rojo del cuello | `#8B2A2C` en sombra, `#C23B2E` con luz | la misma |
+| Shinji | Pelo | `#583535` | la misma |
+| Asuka | Uniforme: pichi azul marino | `#022A51` | [Asuka in her iconic outfit](https://static.wikia.nocookie.net/evangelion/images/4/46/Asuka_Langley_Soryu_in_her_iconic_outfit.png) (hoja 1, nº 36) |
+| Asuka | Blusa (blanca con sombra azulada) | `#D5E0DA` | la misma |
+| Asuka | Lazo del cuello | `#A5190D` | la misma |
+| Asuka | Pelo | `#A5360F` | la misma |
+| Asuka | Traje de conexión rojo | `#A31812` ⚠️ (foto con luz roja de fondo) | [figura S-FIRE](https://static.wikia.nocookie.net/evangelion/images/e/ea/S-FIRE_Evangelion_3.0%2B1.0_Thrice_Upon_a_Time_Figure_-_Asuka_Langley_1.jpg) |
+| Rei | Traje de conexión blanco | `#E9EDF3` | [Rei (Damaged Plugsuit)](https://static.wikia.nocookie.net/evangelion/images/a/a0/Rei_Ayanami_%28Damaged_Plugsuit%29.png) (hoja 1, nº 41) |
+| Rei | Banda del pecho | `#466440` | la misma |
+| Rei | Pelo | `#B0C4E4` | la misma |
+| Misato | Chaqueta roja (con luz) | `#E02824` | [Katsuragi.Misato.full](https://static.wikia.nocookie.net/evangelion/images/6/69/Katsuragi.Misato.full.71156.jpg) (hoja 3, nº 121) |
+| Misato | Vestido negro | `#100B0D` | la misma |
+| Misato | Pelo morado | `#1C1231` | la misma |
+| Gendo | Uniforme | `#413C53` ⚠️ (fotograma de EoE con luz roja; el real es casi negro azulado) | fotograma «Gendo threatening Ritsuko» (hoja 2, nº 59) |
+| Gendo | Cristal de las gafas | `#E97151` | el mismo |
+| Kaworu | Ropa de calle: camisa blanca | `#F5F8F3` luz, `#8797C6` sombra | [Kaworu Promotional Artwork](https://static.wikia.nocookie.net/evangelion/images/c/c3/Kaworu_Nagisa_Promotional_Artwork.png) |
+| Kaworu | Pantalón oscuro | `#3F3B54` | la misma |
+| Kaworu | Pelo gris | `#EAE4E7` luz, `#B0ACB2` sombra | la misma |
+
+- **Kaworu con uniforme**: camisa blanca de manga corta y pantalón azul
+  marino, **el mismo corte que el de Shinji** (visto en
+  [Shinji Rei Kaworu (EoE)](https://static.wikia.nocookie.net/evangelion/images/4/44/Shinji_Rei_Kaworu_%28EoE%29.png)).
+  Sin hex limpio (la escena tiene tinte de agua): usa los de Shinji ⚠️.
+- **Los trajes, vistos en las hojas**: Asuka de rojo cayendo (hoja 2,
+  nº 53), Rei de blanco tumbada (nº 54), Shinji de azul (hoja 3, nº 101);
+  la ropa de los adultos de NERV, en «The adults in NERV» (hoja 2, nº 56).
+- Los hex de la tabla de arriba (primera pasada) se quedan como
+  referencia; si no coinciden, **gana §16.1**.
+
 ---
 
 ## 17 · Paisajes y fondos de pantalla
 
 ### 17.1 Los sitios, con su luz ⚠️
+
+Medidos en fotograma (segunda pasada): §5.2. Lo de abajo sigue de memoria.
 
 - **Tokio-3 al atardecer**: rascacielos que suben del suelo, cielo naranja,
   **postes y cables eléctricos** en primer plano, **cigarras** sonando. Es
@@ -1437,6 +1517,23 @@ lo ceñido: son menores).
 | Pilotos y Eva con cielo nublado | 3840×2160 | ⚠️ | [Wallpaper Alchemy](https://www.wallpaperalchemy.com/wallpaper/neon-genesis-evangelion-characters-mechs-4k-wallpaper-2056) |
 | Más de 120 fondos 4K | varios | varios | [alphacoders](https://alphacoders.com/neon-genesis-evangelion-4k-wallpapers) |
 | Fondos de la serie (cuenta de fans) | — | «Anime Background Art» | [X](https://x.com/backgroundsbot/status/960223392547864576?lang=en) |
+
+Segunda pasada: los 4 enlaces de Wallpaper Abyss **siguen vivos** (código
+200 con `curl -I`) ✅.
+
+### 17.3 Los fondos de fans más guardados (API de Wallhaven) ✅
+
+Ordenados por favoritos, sólo contenido apto; tamaño y autor de la propia
+[API de Wallhaven](https://wallhaven.cc/). Ninguno dice su licencia:
+míralos uno a uno antes de citarlos; para la lámina, mejor arte oficial.
+
+| Fondo | Tamaño | Subido por | Favoritos | Enlace |
+|---|---|---|---|---|
+| Personajes y Eva, paleta oscura | 6600×3000 | Rocketizada | 1.007 | [kw6x56](https://wallhaven.cc/w/kw6x56) |
+| ⚠️ sin describir | 1920×1080 | wallpaperengine | 734 | [6ople6](https://wallhaven.cc/w/6ople6) |
+| ⚠️ sin describir | 8000×4133 | SRWCharacter | 585 | [weolkp](https://wallhaven.cc/w/weolkp) |
+| ⚠️ sin describir | 3840×2160 | KetewStudio | 584 | [yqmlmx](https://wallhaven.cc/w/yqmlmx) |
+| ⚠️ sin describir | 2608×3877 | (cuenta borrada) | 542 | [72159y](https://wallhaven.cc/w/72159y) |
 
 ---
 

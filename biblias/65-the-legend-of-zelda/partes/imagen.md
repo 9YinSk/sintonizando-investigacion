@@ -148,6 +148,62 @@ Política de ambientCG: todo su catálogo es CC0 (dominio público), confirmado 
 - Ojo Sheikah (ojo con lágrima dentro de un rombo, usado en BotW/TotK para tecnología antigua) · hoja `objetos_01.jpg` nº 104 «BotW Crest of the Sheikah Symbol.png» (807×747) · ✅
 - Vector SVG libre («gratis para uso comercial», reutilizable como guía de trazo, NUNCA como logo oficial por ser marca registrada de Nintendo): Ojo Sheikah · https://www.svgrepo.com/svg/321355/sheikah-eye · ⚠️; Trifuerza · https://www.svgrepo.com/svg/323529/triforce · ⚠️
 
+## 23 · Colaboraciones, cruces, figuras oficiales y cosplay
+
+### Crossovers y colaboraciones oficiales de juego
+
+- **Cadence of Hyrule: Crypt of the NecroDancer feat. The Legend of Zelda** (2019): spin-off oficial completo con Brace Yourself Games, la primera colaboración a gran escala de Nintendo con un estudio indie; se juega como Link, Zelda, Cadence o Yves con 25 temas de Zelda remezclados al ritmo del juego · https://cadenceofhyrule.nintendo.com/ (sitio oficial) y https://en.wikipedia.org/wiki/Cadence_of_Hyrule · ✅ (sitio oficial de Nintendo + Wikipedia)
+- **Mario Kart 8 (Wii U, DLC) y Mario Kart 8 Deluxe** (actualización 1.6.0): Link es personaje jugable con su moto Master Cycle Zero (BotW), neumáticos «Ancient Tires» y planeador basado en el Paraglider; trae ropa nueva (Champion's Tunic) al universo de Mario Kart · https://www.mariowiki.com/Master_Cycle_Zero · https://www.zeldadungeon.net/new-mario-kart-8-deluxe-update-adds-master-cycle-zero-and-breath-of-the-wild-link/ · ✅ (dos fuentes)
+- **Monster Hunter XX** (2017, Japón): colaboración con Breath of the Wild confirmada por la wiki de Monster Hunter · https://monsterhunter.fandom.com/wiki/The_Legend_of_Zelda · ⚠️ (una fuente consultada directamente; se sabe que Zelda colabora con Monster Hunter en cada estreno en consola Nintendo, pero no se confirmó el detalle exacto de la skin/quest con una segunda fuente en esta tanda)
+- **Super Smash Bros.** (todas las entregas): Link, Zelda/Sheik, Ganondorf, Young Link y Toon Link son luchadores desde el Smash 64/Melee; el propio artwork de Smash entra como "arte oficial cruzado" (hoja `personajes_02.jpg` nº 82 «SSBB Princess Zelda and Peach cheering») · zelda.fandom.com · ✅
+
+### 40 aniversario de la franquicia (2026, en curso) — trae eventos y arte nuevo
+
+- Nintendo Direct del 40.º aniversario (8-sep-2026) anunció **película de acción real**, **gira de conciertos** de celebración y la colaboración de **Zelda: Ocarina of Time Remake con el Nintendo Museum** de Kioto · https://cnnespanol.cnn.com/2026/09/08/entretenimiento/legend-of-zelda-40-aniversario-pelicula-anuncios-orix · https://www.nintenderos.com/2026/09/resumen-completo-y-diferido-en-espanol-del-nintendo-direct-del-40o-aniversario-de-the-legend-of-zelda-8-9-26/ · ✅ (dos fuentes)
+- El **Nintendo Museum** (Kioto) abre en otoño de 2026 el «Super Family Restaurant» temático, con Link y otros personajes de Nintendo en la decoración, como parte del 40.º aniversario · https://www.nintenderos.com/2026/09/zelda-ocarina-of-time-remake-confirma-precios-oficiales-colaboracion-con-el-nintendo-museum-y-lanza-el-medley-orquestal-del-direct/ · ⚠️ (una fuente, evento muy reciente)
+- **Café/lata de café Suntory Boss x Zelda: Tears of the Kingdom**, vendida en máquinas expendedoras de todo Japón (con arte del juego en la lata) · https://www.nintenderos.com/2024/09/disfruta-del-cafe-de-zelda-gracias-a-esta-colaboracion/ · https://www.levelup.com/noticias/lanzan-un-cafe-de-the-legend-of-zelda-gracias-a-una-nueva-colaboracion/ · ✅ (dos fuentes)
+
+### Figuras oficiales (pose = referencia 3D real)
+
+- **First 4 Figures — The Legend of Zelda: Breath of the Wild, Link (Exclusive Edition)**, estatua PVC/resina con licencia oficial · https://www.first4figures.com/the-legend-of-zelda-breath-of-the-wild-link-exclusive-edition.html · ✅ (tienda oficial del fabricante licenciado)
+- **First 4 Figures — Zelda & Link (Master Edition)**, estatua doble de 10", también con licencia · https://first4figures.com/collections/the-lefgend-of-zelda · ✅
+
+### Cosplay bien hecho (materiales y volumen reales, no sólo tela)
+
+- Dúo de cosplay de BotW: **valetz_ryu_lain** como Link (Champion's Tunic con detalle en tela y orejas puntiagudas) y **peppyy_** como Zelda, fotografía de **osawaay**, edición de **ragezeph_photo** · https://screenrant.com/botw-link-zelda-incredible-cosplay/ · ✅ (reportaje con nombres verificables de cada participante)
+- Cosplay de un **Guardian de BotW funcional a tamaño real** (armadura mecánica, «el mejor cosplay de BOTW» según fans) · https://screenrant.com/zelda-botw-cosplay-decayed-guardian-megacon-orlando/ · ⚠️ (una fuente)
+- Cosplay de **Link Bárbaro (Barbarian armor) con un Lynel Crusher de tamaño real** hecho a mano, buen ejemplo de volumen/peso real en accesorios · https://screenrant.com/zelda-botw-barbarian-armor-cosplay-lynel-crusher/ · ⚠️ (una fuente)
+- **Kinpatsu Cosplay** (dúo canadiense) publica patrones/tutoriales de armadura en foam EVA que sirven de referencia técnica para construir cualquier armadura estilo Zelda (Ganondorf, Hyrule Warriors, etc.) con volumen real · https://kinpatsucosplay.com/ · ⚠️ (una fuente, no es un cosplay de Zelda específico sino la técnica)
+
+## Lo mejor para la lámina
+
+- El arte de **BotW Link disparando flecha** (985×1407, hoja nº75) y el de **Zelda con antorcha + su fantasma detrás** (TotK, 790×1058, hoja nº92) son las poses más «vivas»: acción real, no de pie.
+- Colores medidos listos para pegar en Photoshop: túnica de Link BotW `#277AAF`, vestido de Zelda TotK-espíritu `#EEE4AA` con dorado `#D99936`, capa de Ganondorf `#C0361F`.
+- El modelo 3D **Hylian Shield** y la **Master Sword** (Sketchfab, CC BY, descargables ya) son el objeto perfecto en primer plano para dar profundidad en Blender, sin tener que modelarlos desde cero.
+- El **Ojo Sheikah** (hoja `objetos_01.jpg` nº104) y la **Trifuerza** son los símbolos más reconocibles para poner en el fondo o como marca de agua de la lámina.
+- El 40.º aniversario (en curso, sept-2026) da arte y contexto fresco: puede justificar un concepto de lámina "de celebración" con el logo dorado de 40 años si Nintendo lo publica pronto.
+
+## No encontré
+
+- Portada exacta de un tomo de manga de Zelda confirmada (AniList sólo da un ID de manga sin contrastar con Viz Media) — búsqueda: «Legend of Zelda manga cover Viz Media» (no se llegó a hacer por límite de tiempo en esta tanda) ⚠️
+- Descarga directa de los fondos de pantalla oficiales de Nintendo (My Nintendo Rewards pide cuenta y puntos; no se pudo entrar desde este servidor) — búsqueda: «Nintendo official Tears of the Kingdom wallpaper download» (en)
+- Confirmación con una segunda fuente del detalle exacto de la colaboración Zelda × Monster Hunter XX (2017) — búsqueda: «Zelda Breath of the Wild collaboration Monster Hunter Rise Sunbreak Link armor quest» (en)
+- El PDF o contenido interior del artbook Hyrule Historia (sólo se confirmó que existe y qué cubre, no se navegó su contenido) — no se buscó a fondo por presupuesto de acciones
+- Poly Haven no tiene ningún asset con marca de Zelda (es todo CC0 genérico): se dejó constancia y se usaron 5 objetos genéricos que encajan con la estética (cofre, farol, barriles, fogata, cajón)
+
+## Bitácora
+
+- `herramientas/investigar_serie.py --serie "The Legend of Zelda" --wiki zelda --paginas "Link" "Princess Zelda" "Ganon"` → 247 imágenes enlazadas, 120 grandes, 3 hojas de contacto en `hojas/` (miradas con Read completas)
+- `herramientas/estilo.py` sobre 8 artes oficiales bajadas (Link ×3 épocas, Zelda ×3 épocas, Ganondorf ×2 épocas) con cabecera `Referer: https://www.fandom.com/` para descargar de `static.wikia.nocookie.net`
+- API de Sketchfab v3 (`/search` y `/models/<uid>`): consultas «zelda», «master sword», «hylian shield», «hyrule castle», «korok», «triforce», «ganondorf» — confirmado `isDownloadable` y licencia real de cada modelo elegido
+- API de Poly Haven (`/assets?type=models`): 521 modelos totales, filtrados por palabras clave de ambientación (barril, farol, cofre, fogata, cajón) — sin contenido con marca, todo CC0
+- API de ambientCG (`/api/v2/full_json`): «chainmail», «leather», «wood», «stone wall», «paper» — todo CC0 por política del sitio
+- API de Wallhaven v1 (`/search`, `/w/<id>`): «zelda», «hyrule breath of the wild», «tears of the kingdom», filtro `purity=100` (aptas) y `atleast=1920x1080`
+- API de Danbooru (`/posts.json?tags=... rating:general order:score`): «link», «princess_zelda», «ganondorf» — se descartaron los datos de Safebooru de `datos-imagen.md` por venir repetidos/idénticos entre personajes distintos (fallo del recolector)
+- Búsqueda web (inglés): «Nintendo official Tears of the Kingdom wallpaper download», «free manga screentone brushes Clip Studio Paint CC0», «Hylian Crest Sheikah Eye Triforce SVG vector free download github», «"Cadence of Hyrule" crossover Zelda Crypt of the NecroDancer official», «Zelda Breath of the Wild collaboration Monster Hunter Rise Sunbreak Link armor quest», «"Mario Kart 8" Link DLC Master Cycle Zero official Nintendo crossover», «Zelda First 4 Figures official statue license best cosplay Link Zelda award», «screenrant Incredible Zelda Breath of the Wild Cosplay Brings Link to Life»
+- Búsqueda web (español): «Zelda cafe temático colaboración Nintendo evento oficial Tokio»
+- `herramientas/hermanas.py 65-the-legend-of-zelda` → sin serie hermana
+
 ## Referencias
 
 Ver `partes/imagen.json`.

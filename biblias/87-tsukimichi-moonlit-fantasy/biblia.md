@@ -283,7 +283,7 @@ Segunda fuente para el reparto principal: [anuncio de Crunchyroll del 29-ene-202
 ## 12 · Lo que el fandom ama y qué NO hacer
 
 **Lo que ama**
-- **Odiar a la Diosa.** Está fichada como «Hate Sink» (personaje hecho para odiarlo con gusto): vanidosa, juzga por la belleza, cobarde cuando alguien la iguala ✅ ([Hate Sink Wiki](https://hate-sink.fandom.com/wiki/The_Goddess_(TSUKIMICHI_-Moonlit_Fantasy-)) y [Villains Wiki](https://villains.fandom.com/wiki/The_Goddess_(TSUKIMICHI_-Moonlit_Fantasy-))). [Su arte](https://static.wikia.nocookie.net/hate-sink/images/0/0e/Goddess_Moonlit_Fantasy.png), 450×750.
+- **Odiar a la Diosa.** Está fichada como «Hate Sink» (personaje hecho para odiarlo con gusto): vanidosa, juzga por la belleza, cobarde cuando alguien la iguala ✅ ([Hate Sink Wiki](https://hate-sink.fandom.com/wiki/The_Goddess_%28TSUKIMICHI_-Moonlit_Fantasy-%29) y [Villains Wiki](https://villains.fandom.com/wiki/The_Goddess_%28TSUKIMICHI_-Moonlit_Fantasy-%29)). [Su arte](https://static.wikia.nocookie.net/hate-sink/images/0/0e/Goddess_Moonlit_Fantasy.png), 450×750.
 - **Makoto y su mala suerte.** Narra con ironía «esto me pasa siempre» (ep. 1, 0:01) ✅.
 - **El «sólo disparó una flecha».** Makoto humilla a la más fuerte con un arco (ep. 24) ✅.
 - **Tomoe y Mio poniendo en su sitio a aventureros arrogantes** en el gremio (edits de TikTok) ✅.
@@ -377,4 +377,143 @@ Todas de vídeo mirado con su minuto.
 **Para cada uso**: presentar = Tomoe de brazos cruzados (OP 2:00) o Makoto rascándose la nuca · explicar = Tomoe con el hacha (ep. 2, 10:00) · celebrar = trío en el círculo de luna · regañar = Tomoe furiosa (ep. 2, 20:00) · pensar = Tomoe en el pico nevado o Makoto de perfil · animar = Makoto con la mano brillante (ep. 1, 5:00).
 Más poses dibujadas: bocetos CAGallery (punto 1) y el arte del juego de navegador.
 ⚠️ Mio tiene sólo tres poses vistas: faltan escenas de la T1 ep. 3 en adelante.
+
+## 15 · Vestuario con colores
+
+Hex medidos con `estilo.py` sobre las fichas oficiales (parte de imagen), revisados contra `hojas/personajes_01.jpg`.
+
+### Makoto
+- **T1, la ropa icónica** (celda 1): capa con capucha marrón oscura #423C38 · túnica o delantal blanco #D8DBDF cruzado por correas de cuero con hebillas · pantalón negro hasta la rodilla #525557 · antebrazos vendados en negro, guantes sin dedos · zapatos negros ✅.
+- **T2, el mercader** (celda 2): abrigo largo azul #6377A4 con cierres oscuros, pantalón claro, botas altas, anillos ✅. ⚠️ El azul se midió en otra imagen; compruébalo en la ficha T2.
+- **Pelo**: negro azulado #3D4355 con brillos #7F8895, corto, despeinado, con un mechón de punta arriba ✅.
+- **Ojos**: pequeños, con un iris oscuro diminuto en mucho blanco (#EBEBEB). De lejos parecen vacíos ✅ (visto en la hoja). Es parte del chiste de que es «feo».
+- **Piel**: #DFB089.
+- **Objeto**: el arco. Los anillos Draupnir, que se ponen rojos cuando hay que cambiarlos ⚠️ (una fuente).
+
+### Tomoe
+- **T1, la icónica** (Blu-ray v01 y v02): kimono verde #6B9950 con pliegues en línea oscura #3A4A30 · bufanda o mangas rojas #C03040 · faja roja oscura · coleta alta con adorno dorado · katana en la cintura ✅. Danbooru la etiqueta «green_kimono», «red_scarf», «ponytail».
+- **T2** (celda 3): haori rosa #E8A8B8 con un signo repetido en las mangas · hakama verde oscuro #3D5A48 · cinta verde #4E7A50 · la misma bufanda roja · adorno de dragón dorado en el pelo · calcetines blancos y sandalias ✅.
+- **Rasgos fijos**: pelo teal muy largo y ondulado #5BBCB5 con brillos #9DCFC9 · ojos rojos #D94040 con pupila de reptil ✅.
+
+### Mio
+- **La icónica** (celda 4): kimono negro #2A2535 con telaraña blanca #FFFFFF en hombro y bajo · ribete rojo oscuro #703030 · obi marrón #5A3A2A con hebilla dorada · guantes negros largos #1A1A1A · botas negras ✅.
+- **Pelo**: bob negro #1A1517 con flequillo recto, diadema roja #C83070 y lazo rojo a un lado ✅.
+- **Ojos**: dorados verdosos #B8C840 ✅.
+- **Variantes**: kimono modificado gris pizarra con la misma telaraña y botas de tacón; ropa de entrenamiento ⚠️. Abanico en la mano en el Blu-ray v02 (Danbooru: «holding_fan») ✅.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+| Sitio | Qué es | Luz y hora | Paleta |
+|---|---|---|---|
+| Páramo del fin del mundo (Wasteland) | Donde echan a Makoto. Orcos, arañas y otras razas no hyuman | Día duro o noche; tierra gris parda | ⚠️ sin medir |
+| Asora (亜空) | Mundo de bolsillo de Makoto, con el Pueblo de la Niebla. Construcciones de madera de aire japonés | Noche azul con niebla blanca | #172C52 · #1E2033 ⚠️ (una fuente) |
+| Tsige | Ciudad fronteriza junto al páramo; primera tienda Kuzunoha | Día | ⚠️ sin medir |
+| Rotsgard | Ciudad académica; segunda tienda; Makoto da clase | Día | ⚠️ sin medir |
+| Obitt | Ciudad de casas de entramado y calles de piedra | Día suave (T2 ep. 1, 2:40) | #E5E9E5 · #A59089 · #8BBEEF ✅ |
+| Laboratorio subterráneo | Tanque verde brillante | Oscuro (T2 ep. 1, 1:40) | #132D2F · #4CC4A2 ✅ |
+| Cumbre nevada | Tomoe mirando las estrellas | Noche (opening T2, 1:58) | #2F56B0 · #0A113E · #3CBCE2 ✅ |
+| Tienda Kuzunoha | Fachada con el letrero de madera ([imagen](https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/e/ee/Kuzunoha.png/revision/latest?cb=20240930164259)) | Día | Madera marrón cálida ✅ |
+| Fuerte Stella | Territorio demonio, destruido | Fuego (ep. 24) | ⚠️ sin medir |
+
+**Mapa**: [mapa del mundo de la novela](https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/7/72/World%27s_Map.png/revision/latest?cb=20170310094347), 830×1220 ✅.
+
+**Fondos de pantalla**
+- Oficial: fondo de luna de la wiki, 1920×1080, versión clara y oscura ✅. El más útil.
+- De fans en [Wallhaven](https://wallhaven.cc), subidos por Jesus177177, autor original desconocido ⚠️: [3840×2160 Tomoe plana](https://w.wallhaven.cc/full/6o/wallhaven-6oglqw.png) · [3840×2160 pelo oscuro](https://w.wallhaven.cc/full/3z/wallhaven-3z5d6y.jpg) · [4096×2160 Tomoe triste](https://w.wallhaven.cc/full/3z/wallhaven-3z5qg6.png) · [4096×2160 Tomoe de cerca](https://w.wallhaven.cc/full/l3/wallhaven-l3k22y.png) · [4096×2160 Makoto con gafas](https://w.wallhaven.cc/full/e7/wallhaven-e7eerl.png) · [4096×2160 Makoto](https://w.wallhaven.cc/full/wq/wallhaven-wqlq7r.png).
+
+## 17 · Guía para IA de imagen y de texto
+
+Hecha por el redactor con todo lo anterior. Sirve para Firefly, Canva o cualquier IA. Las imágenes de referencia son las de este documento, nunca inventadas.
+
+### IA de imagen
+
+**Estilo base** (pegar al principio):
+«Anime japonés de televisión de 2021. Cel shading de dos tonos. Línea fina gris oscura, no negra pura. Colores planos poco saturados en la ropa y vivos en ojos y lazos. Fondo pintado con degradado suave. Luz de luna azul con un acento dorado.»
+
+**Rasgos que nunca cambian**
+- **Makoto**: chico delgado de instituto. Pelo negro azulado, corto, despeinado, con un mechón de punta. Ojos pequeños con iris diminuto: cara sencilla, nada de galán. T1: capa marrón con capucha, túnica blanca con correas, pantalón negro a la rodilla, antebrazos vendados. T2: abrigo largo azul de mercader. Arma: arco japonés largo.
+- **Tomoe**: mujer alta. Pelo turquesa muy largo y ondulado, coleta alta con adorno dorado. Ojos rojos con pupila rasgada de reptil. Bufanda roja. Kimono verde (T1) o haori rosa con hakama verde (T2). Katana.
+- **Tomoe dragona**: dragón oriental largo y serpentino, verde azulado. Sin alas de murciélago.
+- **Mio**: bob negro con flequillo recto, diadema roja con lazo, ojos dorados. Kimono negro con telaraña blanca, guantes negros largos, obi marrón con hebilla dorada, botas negras. A veces abanico.
+
+**Paleta**: noche #1B3060 · violeta #452D56 · luna #DAE7FD · dorado de luna #F2C450 · día #E5E9E5, #A59089 y cielo #8BBEEF.
+
+**Encuadre**: composición en pirámide con la luna llena arriba al centro (key visuals). Acción en contrapicado con el arma o la magia hacia delante. Comedia en plano medio con la cara exagerada.
+
+**Palabras que ayudan**: anime key visual, cel shading, moonlit night, full moon, japanese period clothing, kimono, hakama, spider web print kimono, oriental dragon, slit pupils, red scarf, sweat drop, anger mark, sparkles.
+**Etiquetas que usan los fans** ([Danbooru](https://danbooru.donmai.us/posts?tags=tsuki_ga_michibiku_isekai_douchuu)): Tomoe «very_long_hair, ponytail, red_eyes, slit_pupils, green_kimono, red_scarf, sword, sheath» · Mio «bob_cut, blunt_bangs, yellow_eyes, red_hairband, black_kimono, black_gloves, spider_web_print, holding_fan».
+**Palabras que lo estropean**: realistic, 3D render, semi-realistic, western dragon, bat wings, armor, handsome, glossy, watercolor, chibi (salvo gag o ending).
+
+**Referencias para subir**: estilo = `personajes_01.jpg` celdas 3 (Tomoe HD), 5 (key visual T1) y 8 (fondo de luna). Pose = celdas 6 y 7 (Blu-ray), bocetos CAGallery y los fotogramas del punto 14.
+
+**Vocabulario de gestos**: gotas de sudor (Makoto asustado, ep. 1, 15:40) · marcas de enfado en la cabeza (Tomoe, ep. 2, 20:00) · destellos alrededor (captura oficial de Tomoe) · recuadro azul de reacción (ep. 1, 22:00) · chibi (ending T2) · ojos brillando en lo oscuro (Mio araña, ep. 2, 16:40) · mano en la nuca (vergüenza) · ceja levantada (ep. 24, 3:10).
+
+### IA de texto
+
+**Cómo habla cada uno**
+- **Makoto**: primera persona, ironía seca sobre su mala suerte. Empieza normal y acaba en queja. Educado, casi no grita; cuando grita, corto: «¡Maldita!». Triste: enumera despacio y remata con un lamento.
+- **Tomoe**: formal y de época: «mi señor», «visitante de otro mundo». Se presenta con título y gloria. Bromea con orgullo samurái. Sin muletillas modernas.
+- **Mio**: corta, directa y devota a Makoto. Entusiasta cuando aprende algo (cocinar).
+- **La Diosa**: cantarina y cruel. Insultos en cadena, uno tras otro, todos con exclamación.
+
+**Puntuación**: ¡…! dobles en gritos e insultos. Puntos suspensivos en la narración irónica. Preguntas retóricas al quejarse. ⚠️ No hay onomatopeyas propias documentadas.
+
+**Frases reales por emoción** (L = doblaje latino oficial; S = subtítulos; T = tráiler en español)
+- **Alegre e irónico**: «Una aventura en otro mundo suele comenzar de esta manera… pero estas son las chicas que me tocaron a mí» (Makoto, ep. 1, 0:01, L).
+- **Enfadado**: «¡Maldita! Oye, ¿por qué estás tan feliz chupándome la sangre?» (Makoto, ep. 2, 18:23, L) · «¿Una herida? ¿Cómo? ¡Si soy resistente al fuego!» (Tomoe dragona, ep. 1, 20:00, S).
+- **Explicando o presentando**: «Visitante de otro mundo. Mi nombre es Shin. Soy un dragón superior y se me considera invencible» (Tomoe, ep. 1, 20:01, L).
+- **Animando**: «¡Viajaré por el mundo para mejorar como cocinera!» (Mio, tráiler T2, 0:27, T) · «espero poder cambiar» (Makoto, tráiler T2, 0:06, T).
+- **Triste**: «Tres días no he escuchado más que mi propia voz, mis pasos y el viento… ¡me siento tan solo! ¡Triste es mi vida!» (Makoto, ep. 1, 8:01, L).
+- **Burla**: «¡Eres horroroso! ¡Puro pato y nada de cisne!» (la Diosa, ep. 1, 5:00, L).
+- **Broma**: «Prefiero que me llames samurái» (Tomoe, ep. 1, 22:00, S).
+
+**Vocabulario del mundo para los textos**: Asora, Compañía Kuzunoha, hyuman, la Diosa, el páramo, pacto, Raidou, «noche» por capítulo (punto 25).
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+**Quién lo hizo** (T1, [staff en AniList](https://anilist.co/anime/125206/staff)): dirección Shinji Ishihira · diseño original Mitsuaki Matsumoto · diseño de personajes y jefa de animación Yukie Suzuki · dirección de arte Masahiro Satou · color Masato Takagi · fotografía Masaaki Onodera · guion Kenta Ihara ✅. T1 de C2C, T2 de J.C.Staff ✅.
+⚠️ No se encontraron entrevistas ni *making of* sobre programas o técnica (buscado en inglés y japonés).
+
+**T1 · C2C (2021)**
+- Línea limpia de grosor casi uniforme, sin presión marcada. Medida en las fichas: gris pardo #736D69, no negro puro ✅.
+- Sombra plana de dos tonos (base y oscuro) más degradado suave para la luz ✅.
+- Paleta del key visual: #F5F2EE · #D6CFC1 · #9E978D · #706265 · #2C364F · #9BB3C2 · #466CAC y el dorado de luna #F2C450 (3 %, acento) ✅. Saturación baja (24 %), brillo alto (74 %).
+
+**T2 · J.C.Staff (2024)**
+- Más fluida, fondos con más detalle, efectos de partículas ✅. Línea más oscura: #3C3B38.
+- Paleta del key visual: #454048 · #947A8E · #595F73 · #F1D9DF (sakura) · #815B53 · #C7A5B3 y el dorado #D09D4E ✅. Saturación 27 %, brillo 53 %: más nocturna.
+
+**Manga (Kotora Kino)**: tinta negra densa, trazo grueso en el contorno y fino en detalles, sólo tramas (sin grises), poses dinámicas y tono cómico. Mucho detalle en la ropa de Tomoe y Mio; Makoto, simple a propósito ✅.
+
+**Cómo reproducirlo**
+- **Photoshop**: capa de línea con borde duro en #736D69 (T1) o #3C3B38 (T2) → color plano → sombra en Multiplicar, azul violeta, 50 % → luz en Aclarar, dorada, borde duro ⚠️ (técnica estándar aplicada a lo observado).
+- **Blender**: Shader to RGB + Color Ramp de 2-3 pasos (Constant) → contorno con Freestyle o Line Art de 1.5-2 px → sol frío azul como luz de luna y relleno cálido dorado ⚠️.
+- **Clip Studio (manga)**: pincel de tinta con presión y tramas en capas; rayado a mano en tierra y piedra ⚠️.
+- El dorado de luna (#F2C450 a #D09D4E) está en todos los key visuals: que no falte ✅.
+
+**Composición**: pirámide con el protagonista arriba al centro, aliados en diagonal y la luna llena arriba ✅. Acción en contrapicado y escorzo ✅. Comedia en plano medio con caras exageradas ⚠️.
+
+## 19 · Texturas 2D
+
+- **Telaraña de Mio**: red blanca sobre negro, en diagonal, en hombro y bajo del kimono. Se hace con un pincel de telaraña o un trazado vectorial ✅ (ficha T2).
+- **Kimono de Tomoe T1**: verde liso con pliegues marcados en línea oscura #3A4A30, sombra plana ✅.
+- **Haori de Tomoe T2**: un signo repetido en las mangas, más oscuro que el rosa ✅.
+- **Cielo nocturno**: nubes difuminadas con partículas de luz (bokeh) y estrellas fugaces ✅ (fondo oficial).
+- **Tramas del manga**: tramas de punto para sombras y ropa; rayado para piedra y tierra ✅.
+- **Emblemas**: la zorra alada sobre luna de la Kuzunoha ([logo del manga](https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/9/9b/Kuzunoha_Company_Logo.png/revision/latest?cb=20220815095440), 172×186, pequeño) y la luna creciente dentro del 月 del logo ✅.
+- **Madera tallada**: el letrero de la Kuzunoha ✅.
+- **Recursos libres**: ⚠️ sólo [ambientCG](https://ambientcg.com/api/v2/full_json?type=Material&q=paper) (CC0) para papel, tela oscura y bambú. No se verificaron pinceles de tramas ni de telaraña con licencia.
+
+## 20 · Gustos y detalles
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Makoto | Su familia, sobre todo sus hermanas; la calma del arco | El abuso; que amenacen a los suyos | Tiro con arco; escribir poemas cortos en momentos importantes | 1 de abril | 160 cm | [wiki](https://tsukimichi.fandom.com/wiki/Makoto_Misumi) + [AniList](https://anilist.co/character/138137) ✅ |
+| Tomoe | Lo japonés que vio en los recuerdos de Makoto: samuráis, doramas de época, historia | El aburrimiento | Doramas, shogi, sumo, bonsái, arte tradicional, aguas termales, coleccionar libros | No tiene (edad «desconocida») | No consta; «alta y curvilínea» | [wiki](https://tsukimichi.fandom.com/wiki/Tomoe) ⚠️ |
+| Mio | Makoto; aprender rápido | Quien dañe a Makoto | Cocinar para él; verlo dormir | No tiene («posiblemente milenaria») | No consta | [wiki](https://tsukimichi.fandom.com/wiki/Mio) ⚠️ |
+
+- **Cómo se ven**: Makoto, «el chico normal sin suerte», aun poderoso. Tomoe, orgullosa de ser la primera sirviente y la «hermana mayor». Mio no se pregunta quién es: existe para Makoto.
+- **Lo que siempre llevan**: Makoto, el arco y los anillos Draupnir ⚠️. Tomoe, la katana y la charla de historia japonesa. Mio, los guantes y la diadema.
+- ⚠️ Tomoe y Mio no son humanas: la wiki no les da cumpleaños ni altura. Es un dato que no existe, no que falte buscar.
+- ⚠️ No hay databook traducido con datos de Shiki, Eris, Sofia o Tsukuyomi: sus fichas en la wiki están vacías.
 

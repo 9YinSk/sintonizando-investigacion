@@ -190,8 +190,6 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 | **Darkness** — de pie sosteniendo un espadón enorme sobre la cabeza, pose heroica | Opening 1 | 1:24 | Animar al grupo / pose de combate |
 | **Darkness** — junto a Megumin y Kazuma reaccionando a un monstruo, postura alerta con escudo | «recopilación Aqua» | 1:36-1:44 | Proteger / alerta de combate |
 
-⚠️ Faltan 2-3 poses más de Darkness para llegar al mínimo de 6-10 recomendado por personaje (ver «Sigue» si no da tiempo).
-
 ---
 
 ## LO MEJOR PARA LA LÁMINA
@@ -206,8 +204,13 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 
 ## NO ENCONTRÉ
 
-- ⚠️ **Ending real en vídeo**: no se localizó un clip fiel de «Chiisana Boukensha» (T1) ni de las otras dos endings en Dailymotion ni Internet Archive (un resultado llamado «Ending 1» resultó ser de otra serie, descartado). Sólo hay un ED en formato audio en Internet Archive. Búsquedas hechas: `Chiisana Boukensha full`, `ちいさな冒険者`, `おうちに帰りたい`, `Konosuba ED1 animation`, `Konosuba ending 1 full` (todas en Dailymotion API). AnimeThemes (que tendría el `.webm` oficial) devuelve HTTP 522 desde este servidor, igual que en `datos-video.md`.
+- ⚠️ **Ending real en vídeo**: no se localizó un clip fiel de «Chiisana Boukensha» (T1) ni de las otras dos endings. Se probaron 3 vías, las 3 fallaron:
+  1. Dailymotion API: `Chiisana Boukensha full`, `ちいさな冒険者`, `おうちに帰りたい`, `Konosuba ED1 animation`, `Konosuba ending 1 full` → nada fiel (un resultado «Ending 1» resultó ser de otra serie, descartado).
+  2. AnimeThemes (tendría el `.webm` oficial del ED) → HTTP 522 desde este servidor, igual que en `datos-video.md`.
+  3. Internet Archive, episodio 1 «BD 1080p» de FFF (`fff-kono-subarashii-sekai-ni-shukufuku-wo-01-bd-1080p...`): se bajó el minuto 21:20-23:20 con `fotogramas.py` para pescar el ED real del capítulo — **el archivo no es Konosuba**, son fotogramas de una serie 3D de vaqueros/desierto no identificada (identifier de Archive.org mal etiquetado o contenido sustituido). Se descartó como fuente; no se usa en `video.json`.
+  Sólo queda un ED en formato audio (sin vídeo) en Internet Archive.
 - ⚠️ **Tendencias de TikTok con enlace verificable**: TikTok no es accesible por API pública ni por `curl` simple desde este servidor. No se intentó `navegar.py` sobre TikTok por ser previsible que bloquee igual que Reddit/TV Tropes con más severidad; se relanzaría en un repaso si el jefe lo pide.
+- ⚠️ **Darkness con sólo 4 poses** (el resto de personajes tiene 6-7): se probaron más búsquedas (`Lalatina Konosuba`, `Darkness Konosuba battle fight`, `Darkness Dustiness Konosuba`, `Darkness Konosuba tank shield`, `Darkness Konosuba confession`) sin encontrar más clips suyos en Dailymotion aparte de los ya usados. Las 4 poses cubren sus rasgos clave (masoquismo, guerrera, heroica, protectora), pero un repaso podría sumar 2-3 más si aparecen mejores clips.
 - ⚠️ Episodio exacto de la «pelea final T1»: el título del clip dice «Konosuba season 1 last fight» pero no se confirmó el número de episodio con una segunda fuente.
 - ⚠️ Texturas AmbientCG: sugeridas por analogía, sin URL exacta verificada (mismo límite que en otras biblias del equipo, p. ej. Tanya).
 
@@ -229,9 +232,16 @@ Todos los fotogramas se vieron con `fotogramas.py` + Read; los minutos son del c
 | 10 | Dailymotion API `search=Fantastic Dreamer Konosuba full` / `Konosuba opening 1 full HD` | EN | api.dailymotion.com | OP1 real con cover fandub latino encima (KENBO) ✅ |
 | 11 | Dailymotion API `search=Chiisana Boukensha full` / `ちいさな冒険者` / `おうちに帰りたい` / `Konosuba ED1 animation` | JA/EN | api.dailymotion.com | Sin resultado fiel al ED real ❌ |
 | 12 | `archive.org/advancedsearch.php?q=konosuba+opening` | EN | Internet Archive | Sólo el OP del spin-off «Bakuen» (Megumin) en audio, no el OP principal |
+| 13 | `fotogramas.py` sobre minuto 21:20-23:20 del episodio 1 «BD 1080p» de FFF en Internet Archive (para pescar el ED real) | — | Internet Archive | El archivo no es Konosuba (vídeo 3D mal etiquetado) ❌ — descartado |
+| 14 | Dailymotion API `この素晴らしい世界に祝福を ED` / `Konosuba ED full screen` / `koi wo shite` (verso de letra) | JA/EN | api.dailymotion.com | Sin ED real ❌ |
+| 15 | Dailymotion API `Lalatina Konosuba` / `Darkness Konosuba battle fight` / `Darkness Dustiness Konosuba` | EN | api.dailymotion.com | Sin poses nuevas de Darkness ❌ |
+| 16 | `KonoSuba anime soundtrack composer "Masato Kōda"` | EN | WebSearch | Compositor confirmado (+ cruce con MusicBrainz de datos-video.md) ✅ |
+| 17 | Fandom `action=parse&page=Give_Blessings_to_us_on_the_Road!` | EN | konosuba.fandom.com API | Confirma fecha del OST1 y cruza con MusicBrainz ✅ |
 | — | `fotogramas.py` sobre 6 clips de Dailymotion (trailer, OP1, ED1-descartado, megumin_explosion, last_fight, aqua_recap, darkness_golem) | — | Dailymotion | 7 hojas de contacto vistas con Read ✅ |
 | — | `estilo.py` sobre 4 fotogramas (castillo, campo+explosión, mansión, puerta de Axel) | — | Herramienta local | Hex + saturación/brillo medidos ✅ |
 | — | `yt-dlp` directo sobre YouTube (tráiler de AniList) | — | YouTube | Bloqueado: «Sign in to confirm you're not a bot» ❌ (confirma la nota de AYUDANTE.md) |
 
 **Confirmado (✅):** OP/ED de las 3 temporadas (título, cantante, fecha), compositor de la BSO (Masato Kōda), tráiler oficial T3 visto fotograma a fotograma, 3 escenas icónicas vistas y citadas con minuto, 4 sitios con paleta medida, 22 poses de los 4 personajes con capítulo/clip y minuto.
 **A medias (⚠️):** ending sin vídeo real (sólo letra y ficha confirmadas), tendencias TikTok, 2-3 poses de Darkness por debajo del mínimo recomendado.
+
+Sigue: ver un ending real en vídeo (AYUDANTE.md lo pide como mínimo obligatorio junto al opening/tráiler/3 escenas). Se agotaron 3 vías en esta tanda (Dailymotion, AnimeThemes caído, extracción directa de un episodio de Internet Archive que resultó mal etiquetado). Probar de nuevo cuando YouTube libere el bloqueo de este servidor, o con otro episodio/fuente de Internet Archive.

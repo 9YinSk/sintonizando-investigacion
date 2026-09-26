@@ -529,5 +529,115 @@ Son emociones, no personas: **cumpleaños y altura no aplican**. Sólo Riley es 
 | Riley | el hockey, su familia, la pizza (no la de brócoli) | mudarse sin avisar, no encajar | [Pixar Wiki](https://pixar.fandom.com/wiki/Riley) ✅ |
 | Bing Bong | ayudar a Riley, su carrito, cantar | que lo olviden | [Pixar Wiki](https://pixar.fandom.com/wiki/Bing_Bong) ✅ |
 
-- **Objetos que siempre llevan**: Tristeza, sus gafas; Ansiedad, maletín en el cosplay; Bing Bong, su carrito-cohete; Riley, el palo de hockey (lo agarra para salir del pánico).
+- **Objetos que siempre llevan**: Tristeza, sus gafas; Bing Bong, su carrito-cohete; Riley, el palo de hockey (lo agarra para salir del pánico). Las guías de cosplay le ponen maletín a Ansiedad; en la película no está comprobado ⚠️.
+
+## Punto 21 · Por qué la gente la ama
+
+- **La avalan psicólogos**: Paul Ekman, referencia en emociones básicas, fue consultor y explica la ciencia en su blog: todas las emociones, también la tristeza, cumplen una función sana ([Paul Ekman Group](https://www.paulekman.com/blog/the-science-of-inside-out/)) ✅.
+- **Terapeutas la usan** con niños y pacientes: «da permiso» para estar triste sin vergüenza ([Annie Wright en Psychology Today](https://www.psychologytoday.com/us/blog/making-the-whole-beautiful/202406/from-riley-to-reality-a-trauma-expert-revisits-inside-out), [anniewright.com](https://anniewright.com/trauma-therapist-reviews-the-inside-out-movie/), [Cedar Counseling](https://www.cedarcounselingandwellness.com/inside-out-2-a-therapists-review/)) ✅.
+- **IO2 acierta con la ansiedad adolescente**: la psicóloga Lisa Damour, consultora, la llama «sorprendentemente precisa» sobre la pubertad y el ataque de pánico ([NPR](https://www.npr.org/transcripts/1198910281)) ✅.
+- **Premios del público**: Kids' Choice Award 2025 (punto 7) ✅.
+
+**Las escenas que hacen llorar:**
+
+1. **La muerte de Bing Bong** (2015). En el Vertedero de la Memoria, salta del cohete para que Alegría pueda escapar y volver con Riley. «Llévala a la Luna de mi parte» y se desvanece. **Por qué duele**: llora caramelos, algo gracioso que se vuelve terrible; la cámara se aleja despacio, en silencio, con un piano suave. La escena original era 40-60 segundos más larga y se cortó por dura, según Richard Kind ([TIME](https://time.com/4098711/inside-out-bing-bong/) y [MTV News](https://www.mtv.com/news/0vhlbf/inside-out-bing-bong-death-scene)) ✅. Amy Poehler, 10 años después: «cuando Bing Bong murió, América estuvo de luto» ([Cinemablend](https://www.cinemablend.com/interviews/amy-poehler-reflects-bing-bong-death-10-years-after-inside-out)) ✅. Minuto en la película: no conseguido ⚠️.
+2. **Alegría llora en el vertedero** al ver tres recuerdos olvidados; suena «Tears of Joy», piano con cuerdas y marimba (punto 9) ✅.
+3. **Riley deja el hockey y llora en la cena** ([clip](https://www.dailymotion.com/video/x31t210), 0:00-1:33) ⚠️.
+4. **El ataque de pánico de IO2**: todas las emociones abrazan a Ansiedad; suena «A Mind at Freeze» ([clip](https://www.dailymotion.com/video/x91jygs), 0:00-4:40) ⚠️.
+
+**Las que hacen reír**: Furia explotando en la cena ([clip](https://www.dailymotion.com/video/x4fd9rc), 0:36); Temor y el «oso» que resulta ser un señor peludo; el chicle TripleDent ✅.
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+- **Fandubs**: por buscador aparecen «Intensa-Mente: La memoria de Riley (Doblado al español)», «Intensamente 2 - Compilación de Cómic's Fandub Latino» y una lista «FANDUB PARODIA - Escenas en Español Latino». No se pudieron abrir (YouTube pide sesión): sin vistas ni fecha ⚠️.
+- **Las voces oficiales en TikTok**, justo lo que interesa a un servidor de doblaje: María José Guerrero, voz de Ansiedad, «¡Soy Ansiedad!» ([vídeo](https://www.tiktok.com/@majoguerreroj/video/7384907791061798150)) y [«Reto Emocional con Ansiedad»](https://www.tiktok.com/@majoguerreroj/video/7389341292267982086) ✅; @cricrivoz, «¡Somos las voces en español latino de las emociones de Riley!», con Cristina Hernández ⚠️; @spiderhenry, «Estos son los actores de doblaje en Intensamente 2» ⚠️.
+- **Retos de doblaje**: #retodedoblaje y #actingchallenge con #intensamente2, gente imitando a las emociones ⚠️. Encaja con #reto-de-la-semana.
+- **Cover del opening**: no aplica; el tema de Giacchino es instrumental.
+- **Memes hispanos**: «un recuerdo esencial» circula igual en cuentas hispanas, con la esfera dorada ⚠️.
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+- **Funko Pop!** de IO2: Alegría, Ansiedad, Envidia con su esfera, Aburrimiento y Vergüenza, cada uno con su pose ([Mandatory](https://www.mandatory.com/news/1825020-pixar-funko-pop-collaboration-disney-cars-monsters-inc)) ✅. Referencia 3D de cuerpo entero.
+- **LEGO «Mood Cubes»**: dos cubos con nueve placas de ánimo intercambiables; iconos planos de cada emoción ([Pop Culture](https://pocculture.com/relive-the-emotions-with-new-products-from-disney-and-pixars-inside-out-2/)) ✅.
+- **Crocs** con las 5 y charms de sus caras ([Issuu](https://issuu.com/brent-grath/docs/mood-boosting_inside_out_emotion_crocs_for_pixar_f)) ⚠️.
+- **Ropa y bolsos**: BoxLunch y Loungefly; también cremas y curitas temáticas ✅.
+- **Disney Dreamlight Valley**, «Emotional Rescue» (2025): Alegría y Tristeza con ropa y props nuevos (punto 11) ✅.
+- **Muñecas y peluches** de Mattel y Tomy: la de Alegría en su caja (H3-164) ⚠️.
+- **Cosplay** con materiales reales: Envidia en terciopelo con lunares, botas verde azulado y delineador blanco; Ansiedad con peluca de rafia naranja, suéter a rayas, pana café ([Envidia](https://costumewall.com/dress-like-envy/), [Ansiedad](https://costumewall.com/dress-like-anxiety/)) ✅.
+- **Metro BART** de San Francisco: anuncios por emoción en estaciones reales (punto 1) ✅.
+- **No se encontró**: cafés temáticos, marcas de lujo, evento fijo en parques Disney (sólo desfiles temporales tipo Pixar Fest), ni Fortnite.
+
+## Punto 24 · Obras parecidas
+
+- ***Everything You Always Wanted to Know About Sex*** (Woody Allen, 1972): el sketch del cuarto de control del cerebro. Pete Docter lo estudió **para no parecerse**: que las emociones no fueran mecánicas ([NPR](https://www.npr.org/2015/06/10/413273007/its-all-in-your-head-director-pete-docter-gets-emotional-in-inside-out)) ✅.
+- **Origen**: Docter vio los cambios de humor de su hija preadolescente mientras hacía *Up* ([SlashFilm](https://www.slashfilm.com/919442/the-idea-for-inside-out-came-from-the-production-of-pixars-up/)) ✅.
+- ***Herman's Head*** (Fox, 1991-1994): cuatro personajes dentro de la cabeza de un hombre. Docter dice que no la conocía ([SlashFilm](https://www.slashfilm.com/1989921/simpsons-stars-hank-azaria-yeardley-smith-sitcom-hermans-head-inside-out-adults/) y [Wikipedia](https://en.wikipedia.org/wiki/Herman%27s_Head)) ✅.
+- ***Osmosis Jones*** (2001): el cuerpo por dentro, no las emociones ([The Numbers](https://www.the-numbers.com/movies/custom-comparisons/Osmosis-Jones/Inside-Out-(2015)) y [Wikipedia](https://en.wikipedia.org/wiki/Osmosis_Jones)) ✅.
+- **De Pixar, mismo tono**: *Soul* (2020), *Coco* (2017), *Onward* (2020), *Elemental* (2023) ([Thecinemaholic](https://thecinemaholic.com/movies-like-inside-out/) y [Scary Mommy](https://www.scarymommy.com/entertainment/movies-like-inside-out)) ✅.
+- **En el servidor**, para no repetir ideas: *Coco* (57) usa una carta; *Encanto* (58), una puerta con nombre; *Shrek* (59), una página de cuento, un letrero y un periódico; *Toy Story* (60), una caja de voz para #demos y la garra de Pizza Planeta para #castings; *Kung Fu Panda* (61), pergaminos. **Nadie usa una consola, esferas de recuerdo ni un plató de sueños.** Naruto y Haikyuu piden #reto-de-la-semana con otros objetos.
+- TV Tropes (páginas de obras parecidas) no se pudo leer esta vez ⚠️.
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas en cinco líneas** (wikitext de [Inside Out Wiki](https://insideout.fandom.com/wiki/Long_Term_Memory)) ✅:
+
+1. Cada persona tiene un Cuartel General en la mente, con sus emociones en una consola.
+2. Los recuerdos son esferas del color de la emoción; van por un tubo a la Memoria a Largo Plazo.
+3. Los Recuerdos Centrales, dorados, alimentan las Islas de la Personalidad.
+4. Si una isla se apaga, la persona pierde ese trozo de sí misma.
+5. En IO2, bajo el Cuartel General hay un Sistema de Creencias que forma el Sentido del Yo.
+
+**La historia por arcos:**
+
+- ***Intensamente*** (2015): Riley, 11 años, se muda a San Francisco. Alegría y Tristeza salen despedidas del Cuartel General con los Recuerdos Centrales. Cruzan la Memoria a Largo Plazo, el Pensamiento Abstracto y Producciones de los Sueños. Bing Bong se sacrifica en el Vertedero. Tristeza toca un Recuerdo Central y nace el primer recuerdo **mixto**, agridulce ✅.
+- ***Intensamente 2*** (2024): Riley, 13 años, entra en la pubertad. Llegan cuatro emociones nuevas durante una obra en el Cuartel General («Pardon our dust, puberty is messy»). Ansiedad encierra a las viejas en **La Bóveda** (donde viven secretos y personajes como Bloofy y Lance Slashblade) y fabrica un Sentido del Yo falso; la aventura pasa por el **Sar-Chasm**. Clímax: el ataque de pánico, que se resuelve aceptando que caben todas las emociones ([Disney Wiki](https://disney.fandom.com/wiki/Inside_Out_2)) ✅.
+
+**Símbolos que un fan reconoce al instante**: la consola de botones y palancas; la esfera dorada; el Tren del Pensamiento; los Manuales de la Mente; el carrito-cohete de Bing Bong; el cartel de obra de IO2; la nube de Tristeza lloviendo.
+
+**Vocabulario**: Cuartel General, Recuerdo Central, Islas de la Personalidad, Memoria a Largo Plazo, Tren del Pensamiento, Producciones de los Sueños, Vertedero de la Memoria, Sistema de Creencias, Sentido del Yo, Sar-Chasm, La Bóveda, mentaleros (los trabajadores de la mente).
+
+## 3 conceptos de lámina
+
+Tres ideas distintas: una **consola** que decide el tono (A), una **estantería de recuerdos** que guarda tu voz (B) y una **claqueta de plató** para los papeles (C). Las tres: objeto real en un sitio real de la mente de Riley, sin burbuja blanca, textos cortos en la voz de cada emoción y luz que sale de los propios personajes.
+
+### A ⭐ #🎯・reto-de-la-semana · «La misma línea, otro tono»
+
+- **Objeto y sitio**: la **consola de Cuartel General**, de noche (H1-24, H1-25, H1-45; de cerca H1-48). En Blender: una media luna de plástico brillante con botones cilíndricos y **una palanca por emoción**, del color de cada una. Detrás, el ventanal curvo con paisaje naranja muy desenfocado. Luz medida: violeta `#441667`, lavanda `#BB9CC3`, magenta `#B64B71`.
+- **Personajes**: **Alegría** presenta, con la mano en alto explicando (tráiler IO2, [1:00](https://www.dailymotion.com/video/x8u17p0?t=60)); vestido `#E7EB74`, pelo `#1E44E0`, modelo libre de guinavarro.al. A su lado, **Furia** con los puños en la consola (tráiler 1, 0:30) dice la parte del premio. Tristeza, Temor y Desagrado, pequeñas al fondo, cada una junto a su palanca: la misma frase se dirá en su tono.
+- **Cómo habla**: **placas de plástico biseladas** del color de quien habla, letra `Baloo 2` ExtraBold; la palabra clave en su color, como las tarjetas oficiales (H3-187). Nada de globos.
+- **Dónde va cada texto**:
+  - Título en placa grande sobre la consola: «Reto de la semana».
+  - Placa amarilla de Alegría: «¡Oye, mira esto! Cada semana, una línea nueva.» y «Una línea, una escena, un tono.»
+  - Placa pegada a la consola: «Se entrega dentro del hilo del reto.»
+  - Placa roja de Furia: «¿Premio? NINGUNO. Graba igual.»
+  - Las 8 etiquetas, como **etiquetas de botón** a lo largo de la consola: Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, Con trampa, Libre.
+  - Pie discreto en la base: «Lee el fijado: De qué va esto.»
+- **Que no quede plana**: palancas desenfocadas **delante** en primer plano; Alegría es la fuente de luz, con su halo oscurecido según la luz clave (*glow darkening*, punto 18); una **esfera dorada** rodando sobre la consola con reflejos; niebla violeta al fondo.
+- **Lámina 2** si se satura: un botón grande por etiqueta, cada uno con una línea que diga para qué sirve.
+
+### B #🎧・demos · «Aquí se guarda tu voz»
+
+- **Objeto y sitio**: un pasillo de la **Memoria a Largo Plazo** con estantes curvos llenos de **esferas de cristal** que brillan por dentro (H1-47, H2-60). En Blender: estante y esferas con vidrio y emisión, cada una de un color. Paleta medida: `#A0727E`, `#D89BB1`, `#D7D3E6`, `#999AE4`, `#60424A`.
+- **Personajes**: **Bing Bong**, el más querido, hace de guía como en la película, caminando y señalando el estante ([clip, 0:05](https://www.dailymotion.com/video/x3ok2ma)); modelo de matisosanimation, licencia no comercial. **Tristeza** sostiene una esfera azul con el brazo extendido, lento (clip hockey, 0:30); gafas y suéter `#586D7F`.
+- **Cómo habla**: **etiquetas de biblioteca** en el borde del estante para los datos y una placa lavanda para las frases, letra `Fredoka` Bold.
+- **Dónde va cada texto**:
+  - Rótulo del pasillo: «Demos».
+  - Bing Bong: «Aquí se guarda todo lo que grabas. ¡Que no se te olvide!»
+  - Etiquetas del estante: «Tu ficha de doblaje.» «Un hilo con tu nombre.» «Tus demos y tu rango vocal.»
+  - Tristeza, con su esfera: «Lee el fijado antes de abrir la tuya…»
+- **Que no quede plana**: esferas desenfocadas delante; el pasillo en perspectiva que se pierde en niebla azul; la luz sale de las esferas y pinta a los personajes desde abajo.
+- **Lámina 2** necesaria: las **19 etiquetas** como esferas de colores en un estante, agrupadas: voz (Voz masculina, Voz femenina, Voz andrógina), edad (Infantil, Joven, Adulto, Anciano), tipo (Narración, Comercial, Canto, Imitación), medio (Anime, Series, Películas, Videojuegos, Audiolibro), estado (Disponible, Ocupado, Colaboración).
+
+### C #🎬・castings · «Producciones de los Sueños busca voces»
+
+- **Objeto y sitio**: una **claqueta de rodaje** en el plató de **Producciones de los Sueños**, bajo la entrada con arco y focos (H1-41), siempre de noche. La claqueta no es un objeto visto en las partes: es un objeto de plató que encaja con el sitio ⚠️. En Blender: tabla negra con listón rayado y tiza, fácil de modelar y de iluminar.
+- **Personajes**: **Ansiedad**, la estrella de 2024: los nervios de todo casting. De pie, pelo de punta, ojos enormes, sonrisa tensa (tráiler IO2, [0:30](https://www.dailymotion.com/video/x8u17p0?t=30); póster H1-17), sujetando la claqueta como si fuera su lista. Colores `#DD8F59`, `#F0AE4E`. Modelo libre de Roberto Domínguez.
+- **Cómo habla**: los datos van **escritos con tiza en la claqueta**; su frase, en un **cartel amarillo de obra** como el «Pardon our dust» de IO2, letra `Oswald` en mayúsculas.
+- **Dónde va cada texto**:
+  - Arriba, letrero del estudio: «Castings».
+  - Cartel amarillo de Ansiedad, en lista: «¿Abres un casting? UN HILO POR PAPEL.» «¡CIÉRRALO CUANDO ESTÉ CUBIERTO!»
+  - En la claqueta, en lugar de «escena» y «toma»: TIPO, PAGO, ESTADO.
+  - Pie: «Lee el fijado: Cómo se abre un casting.»
+- **Que no quede plana**: un foco de teatro con haz volumétrico sobre Ansiedad; la claqueta inclinada en primer plano; cables en el suelo; el arco del estudio desenfocado detrás.
+- **Lámina 2**: las 15 etiquetas repartidas en la claqueta: tipo (Anime, Videojuego, Serie, Película, Corto, Comercial, Audiolibro, Canto), pago (Pagado, Sin paga), estado (Abierto, Cerrado, Urgente) y aparte Oficial del servidor y +18.
 

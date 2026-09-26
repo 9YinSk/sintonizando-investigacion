@@ -2,6 +2,8 @@
 
 Puntos 1, 3, 15, 16, 19 y 23 de ENCARGO.md. Libreta de datos, un dato por línea. Todo lo mirado con Read antes de citarlo.
 
+**Hojas de contacto** (regeneradas con `investigar_serie.py`, 112 imágenes de la wiki, 74 grandes): `hojas/personajes_01.jpg` = `hoja_01` (imágenes #1-48) y `hojas/personajes_02.jpg` = `hoja_02` (imágenes #49-74) citadas abajo por número. Índice completo con URL de cada número en `herramientas/referencias/your-lie-in-april-shigatsu/indice.json` (fuera del repo).
+
 ## 1 · Arte oficial, en cantidad y variado
 
 Wiki de Fandom (`shigatsu-wa-kimi-no-uso`) con `investigar_serie.py` sobre las 4 páginas del encargo: 112 imágenes enlazadas, 74 grandes, 2 hojas de contacto miradas entera. AniList para portada/banner. Búsqueda aparte de covers de disco y pósters.
@@ -10,14 +12,14 @@ Wiki de Fandom (`shigatsu-wa-kimi-no-uso`) con `investigar_serie.py` sobre las 4
 - Banner oficial AniList (horizontal, para cabecera) · https://s4.anilist.co/file/anilistcdn/media/anime/banner/20665-j4kSsfhfkM24.jpg · ⚠️ · —
 - Póster oficial del elenco «YLIA Poster» (Kousei, Kaori, Tsubaki, Watari y secundarios en línea, fondo claro) · hoja_01 #62 · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/5/50/YLIA_Poster.jpg · ⚠️ · 640×1136
 - Portada del tomo 11 del manga (Kaori en primer plano, cerezos) · hoja_01 #6 · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/e/eb/Miyazono.Kaori.full.1877339.jpg · ⚠️ · 3228×4519
-- Portada del tomo 1 del manga (Kousei y Kaori, blanco y negro con acento rosa) · hoja_02 #65 · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/… (título «Manga Volume 1.png» en la galería del wiki) · ⚠️ · 669×1000
+- Portada del tomo 1 del manga (Kousei y Kaori, blanco y negro con acento rosa) · hoja_02 #65 · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/3/3c/Manga_Volume_1.png · ⚠️ · 669×1000
 - Key visual «grey sweater + violín + pétalos» (Kaori de espaldas, mirando atrás, arco en la mano) — el más reproducido de la serie en merchandising y redes · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/b/b3/Miyazono.Kaori.full.1801874.jpg · ✅ (aparece también en Wallhaven y Pinterest) · 2001×3064
 - Cover del single «Hikaru Nara» de Goose house (versión cover del ED, con Kaori dibujada en vestido rosa tocando un keytar; arte oficial de Sony Music Labels, no fan art) · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/8/85/Miyazono.Kaori.full.1800153.jpg · ✅ (código de barras/SRCL 8641-2 visible, catálogo Sony Music) · 6884×2915 (carátula desplegada CD+DVD)
 - Cartela de cumpleaños oficial del wiki (Kousei, Kaori, Tsubaki, Watari juntos, estilo felicitación) «Happy Birthday Kaori Miyazono» · hoja_01 #30 · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/e/ee/Image_5983.jpg · ⚠️ · 1638×2048
 - Credencial escolar ilustrada de Kaori (ficha tipo hoja de modelo: cara, nombre en kanji, cumpleaños) · hoja_01 #36 · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/8/88/KaoriMiyazonoID.jpg · ✅ (mismo formato en Tsubaki y Watari, propio de merchandising de la serie) · 2007×1275
 - Credencial de Tsubaki Sawabe (mismo formato) · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/f/fc/TsubakiSawabeID.jpg · ✅ · 2558×1600
 - Credencial de Ryota Watari (mismo formato) · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/7/7b/RyotaWatariID.jpg · ✅ · 1992×1274
-- Ilustración de Kaori con alas (arte promocional fantasioso, no dentro del anime) · hoja_01 #2 · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/…(«full.2111893.jpg») · ⚠️ · 4500×6365
+- Ilustración de Kaori con alas (arte promocional fantasioso, no dentro del anime) · hoja_01 #2 · https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/a/ae/Miyazono.Kaori.full.2111893.jpg · ⚠️ · 4500×6365
 - Fotograma del ending «Orange» (grupo de 4 sentado en las gradas, luz de atardecer) usado como arte de galería · hoja_02 #52 · 1366×768 · ⚠️
 - No encontré cartones de cuenta atrás (countdown boards) oficiales ni arte de videojuego propio: la franquicia no tiene videojuego licenciado que yo haya hallado (búsquedas «Your Lie in April game», «Shigatsu wa Kimi no Uso ゲーム» sin resultado más allá de fan-games no oficiales). Sí hay arte de portada de Blu-ray/CD (ver arriba) y de manga.
 
@@ -25,7 +27,11 @@ Wiki de Fandom (`shigatsu-wa-kimi-no-uso`) con `investigar_serie.py` sobre las 4
 
 Sketchfab no devolvió resultados descargables en la búsqueda automática del recolector (`downloadable=true`). Repetí la búsqueda a mano con varios términos.
 
-- Sketchfab, búsqueda `Your Lie in April` y `Shigatsu wa Kimi no Uso`: sin modelos descargables con licencia libre (la mayoría de resultados son de otras obras o vistas no descargables). ⚠️ No encontré modelo 3D de Kousei/Kaori con licencia libre en Sketchfab.
+- Sketchfab, búsqueda `Your Lie in April` y `Shigatsu wa Kimi no Uso`: sin modelos descargables con licencia libre de los PERSONAJES (la mayoría de resultados son de otras obras o vistas no descargables). ⚠️ No encontré modelo 3D de Kousei/Kaori con licencia libre en Sketchfab.
+- El encargo pide modelos de **objetos** de la serie, no sólo personajes: busqué el violín y el piano (los dos objetos icónicos) y sí hay modelos descargables con licencia libre:
+- Violín realista, escaneado 3D de museo · Virtual Museums of Małopolska · **CC0 (dominio público)**, descargable · https://sketchfab.com/3d-models/none-a784af0713a643b19ffcf65194bc0fbf · ✅ (licencia visible en la ficha del modelo) · 459 874 caras
+- Piano de cola («Grand Piano») · autor `farhad.Guli` · **CC Attribution**, descargable, bajo poli (10 693 caras, fácil de usar en Blender) · https://sketchfab.com/3d-models/none-371090c279ff4e77a59acdebc25b5892 · ✅ · crédito: nombrar a farhad.Guli y enlazar la ficha
+- Piano de cola alternativo, más detallado · autor `Raphael Baget` · **CC Attribution** · https://sketchfab.com/3d-models/none-77ef2018382f4165a65372e594ed538e · ✅ · 23 255 caras
 - Poly Haven: no tiene personajes (solo texturas/HDRIs/props reales) — no aplica a este punto, sí al 19 (texturas).
 - Fan art de referencia (Openverse, con licencia CC pero como REFERENCIA de pose/estilo, no para pegar): 12 fotos etiquetadas «Your Lie in April» de la usuaria `bdrc` (CC BY-NC-ND 2.0), Flickr — variedad de fan art expuesto en eventos/paneles: https://live.staticflickr.com/1535/25578477605_bd8e9530e2_b.jpg (1024×760) y 11 más listadas en `imagen.json`. ✅ (mismo lote repetido en Flickr y Openverse)
 - Pixiv: búsqueda del tag `四月は君の嘘` (nombre japonés) confirma miles de fan arts (no se puede listar por API sin login; referencia de que existe un fandom artístico muy activo, sobre todo de Kaori con violín y escenas de lluvia). ⚠️ (no pude listar URLs concretas sin sesión)

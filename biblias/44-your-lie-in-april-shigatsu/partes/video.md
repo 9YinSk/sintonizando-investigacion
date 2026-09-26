@@ -78,3 +78,49 @@ del episodio 2 (mismo minutaje en todos los episodios de este rip, ~22:50 c/u).
 - Efecto reconocible: el «tictac» del metrónomo/latido que se oye cuando Kousei entra en pánico al piano (motivo recurrente de ansiedad) · visto en varios episodios · ⚠️ (observación propia)
 
 ## 10 · Vídeos: tráileres, escenas, análisis y tendencias
+
+Tráiler oficial ya descrito en el punto 2. Aquí lo que no es «escena en sí»:
+análisis, reacciones y tendencias en redes cortas.
+
+- Reacciones de YouTube a la carta de Kaori (ep. 22): «Kaori's Letter Reaction Mashup - Your Lie In April Ending» · https://www.youtube.com/watch?v=jy4dsCBFe4g · ⚠️ (no lo pude abrir, YouTube pide iniciar sesión desde este servidor; dato sólo de título/fecha por búsqueda web) · sin minuto
+- Reacciones al final completo (ep. 21-22): «Painfully Beautiful... Your Lie in April Episodes 21-22 REACTION! *FINALE*» · https://www.youtube.com/watch?v=gzckEJAN7m0 · ⚠️ (mismo motivo, no abierto)
+- Mismo patrón en «THE FINALE 💙 Your Lie In April Episode 21+22 Reaction» y «Your Lie In April Ending Scene Reaction Mashup» (2022-2024): confirma que **el final (ep. 21-22, la carta de Kaori) es, con diferencia, el momento más comentado/reaccionado** de la serie en YouTube · ✅ (varios vídeos independientes con el mismo foco, búsqueda web)
+- Tendencia de TikTok «POV» con clips de la serie: vídeo real analizado con `fotogramas.py` (funciona aunque sea repost en Dailymotion): «Your lie in April 😭🥀 1 April 2026» con el texto superpuesto «POV: April returned, but she didn't» sobre planos de Kousei y Kaori (incl. su primer plano sonriendo del ep. 1) · https://www.dailymotion.com/video/xa3w48g?start=5 · ✅ (vídeo visto fotograma a fotograma + hashtags #yourlieinapril #animesad #animeedits) · 0:05-0:35, formato vertical 9:16
+- Tendencia de ediciones «Twixtor» (suavizado/cámara lenta) sobre el episodio 1: «Your Lie in April Ep1 Twixtor | Smooth Anime Edit» (varias subidas, 8-17 s cada una) · https://www.dailymotion.com/video/x9hz552 · ⚠️ (vistas bajas en Dailymotion, pero el hashtag y formato son el mismo que domina TikTok/IG Reels para esta serie)
+- Búsqueda directa en TikTok (`tiktok.com/discover/your-lie-in-april-…`): hay etiquetas propias «Your Lie in April Song Edit», «…Clips for Edits», «…Piano Trend» y «…Edits with Laufey»; los ediciones más comunes usan música ajena a la BSO (Sade «Like a Tattoo», Billie Eilish «Birds of a Feather», Laufey) sobre planos del final y de Kaori tocando el violín · ✅ (resultados de búsqueda web, confirma varias etiquetas activas) · no se pudieron abrir directamente (TikTok exige JavaScript; `navegar.py` falló por un navegador sin instalar en este contenedor — anotado, no es bloqueo de la web sino del entorno)
+- Dato para la lámina: la tendencia de vídeo corto sobre esta serie es casi siempre **triste/nostálgica** («POV», «sad edit»), nunca cómica; encaja con un canal de canto o de textos emotivos, no con memes.
+- Curiosidad, no confundir: existe una **película de imagen real** de 2016 (Kento Yamazaki, Suzu Hirose) con su propio tráiler oficial · JustWatch en Dailymotion, teaser 30 s: https://www.dailymotion.com/video/x9iiyhw y tráiler 102 s: https://www.dailymotion.com/video/x9iixgg · ✅ (dos tráileres distintos de la misma distribuidora, JustWatch) — no es la serie de anime, pero comparte título y puede confundir búsquedas
+
+## 14 · Poses analizadas por personaje (capítulo y minuto)
+
+Fotogramas propios (`ffmpeg -ss` sobre `archive.org/download/EVYourLieinApril/<ep>.mp4`,
+✅ = fotograma visto + contexto confirmado en la wiki de personajes o de episodio;
+⚠️ = sólo el fotograma). Identidad de cada personaje verificada contra los
+retratos de AniList (pelo: Kousei azul oscuro con gafas, Kaori rubia, Watari
+castaño-naranja sin gafas, Tsubaki castaña corta). Watari y Tsubaki, al ser
+secundarios, tienen menos planos propios en los 4 episodios revisados: lo que
+falta para llegar a 6-10 cada uno lo puede completar imagen (hojas de la wiki).
+
+| Pose | Episodio | Minuto | Sirve para |
+|---|---|---|---|
+| Kaori sonríe de frente, rodeada de flores, «Nice to meet you!» | Ep. 01 Monotone/Colorful | 19:00 | presentar |
+| Kaori, primer plano de perfil sonriendo bajo los cerezos | Ep. 01 Monotone/Colorful | 20:30 | presentar / celebrar |
+| Kaori de pie, puño cerrado en alto, gesto «genki» (en el OP) | Ep. 02 Friend A (OP) | 0:40 | animar |
+| Kaori toca el violín de pie en el escenario, cuerpo inclinado hacia el instrumento | Ep. 02 Friend A | 9:00 | explicar (mostrar su talento) |
+| Kaori señala al frente con el pulgar, sonrisa de lado, segura | Ep. 06 On the Way Home | 5:00 | animar / explicar |
+| Kaori llorando, se frota un ojo con el puño, hombros caídos | Ep. 03 Inside Spring | 20:00 | (vulnerable — no encaja en las 6 categorías, pero es su pose más citada por fans) |
+| Kaori de espaldas, pelo al viento, saltando descalza (tráiler PV2) | PV2 oficial (no es episodio) | 1:15 | celebrar |
+| Kousei mirando hacia arriba, mano cerca de la barbilla, pensativo (en el OP) | Ep. 02 Friend A (OP) | 1:04 | pensar |
+| Kousei toca el piano solo, a oscuras, cuerpo tenso sobre el teclado | Ep. 03 Inside Spring | 18:00 | explicar (tocar) / pensar |
+| Kousei agarra la manga de Kaori con fuerza, mirada decidida | Ep. 03 Inside Spring | 21:00 | animar |
+| Kousei de perfil, ojos entrecerrados, cansado, caminando junto a Tsubaki | Ep. 01 Monotone/Colorful | 7:05 | pensar |
+| Kousei sentado, se encoge con las manos arriba, sudor de susto (gag cómico) | Ep. 01 Monotone/Colorful | 11:00 | (reacción cómica — sirve para viñetas de humor) |
+| Kousei camina leyendo una carta, gesto serio y concentrado, cerezos cayendo | Ep. 22 Spring Wind | 20:00 | pensar / explicar |
+| Watari, teléfono pegado a la cara, sonrisa amplia, cejas arriba («¡Mensaje de Keiko!») | Ep. 01 Monotone/Colorful | 7:00 | celebrar / animar |
+| Watari entre Tsubaki y Kousei en la grada, boca abierta reaccionando | Ep. 02 Friend A | 10:00 | explicar (reacciona a la pieza del concurso) |
+| Watari en cuclillas con la camiseta de fútbol n.º 11, teléfono pegado a la boca como si cantara, mirada traviesa (tráiler PV2) | PV2 oficial (no es episodio) | 0:45 | celebrar / animar |
+| Tsubaki de espaldas, mano en la cintura, dedo índice apuntando a Kousei, marcas de enfado | Ep. 01 Monotone/Colorful | 11:00 | regañar |
+| Tsubaki en la grada, inclinada hacia delante, explicando la pieza «Kreutzer» con la boca abierta | Ep. 02 Friend A | 10:00 | explicar |
+| Tsubaki caminando de espaldas junto a Kousei, mochila con tirantes rojos, bajo los cerezos | Ep. 01 Monotone/Colorful | 6:00 | presentar (plano de establecimiento del trío) |
+
+

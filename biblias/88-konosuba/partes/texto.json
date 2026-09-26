@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://www.dafont.com/anime-ace-bb.font",
+    "fuente": "Blambot / Nate Piekos, vía dafont.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anime Ace 2.0 BB (Regular/Bold/Italic), la fuente estándar de facto para rotular globos de manga en inglés desde 2006",
+    "para_que": "Letra libre para globo normal, grito (Bold) y pensamiento (Italic) del punto 5; trae tildes y ñ pero NO ¿ ni ¡ (comprobado con fontTools)",
+    "licencia": "Gratis para cómic independiente y uso sin fines de lucro; pago si la usa una editorial \"mainstream\" o para merchandising comercial (leído del EULA dentro del zip)"
+  },
+  {
     "url": "https://harjit.moe/konosubanomoji.html",
     "fuente": "HarJIT (fan, página personal)",
     "ancho": null,
