@@ -110,11 +110,11 @@ actor de la **voz original en inglés**.
 | **Vi** y **Powder** | Ternura / preocupación (no es de las 5 pedidas, pero sirve para láminas de #proyectos en equipo) | 1×03, ídem | 16:55 | ✅ vista: Vi con el brazo vendado sobre el hombro de Powder, las dos mirando abajo. [Internet Archive, `?t=1015`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015) |
 | Alegría | — | — | — | ❌ **no encontré** fotograma propio en el tiempo que tuve (revisé el tráiler T1 completo, cada 6 s, y no salió ningún personaje principal sonriendo de cerca; en 1×03 tampoco). El «todo flota, Jayce celebra» que ya cita `biblia.md` §15 (poses) sigue con ⚠️ de memoria: **falta verlo**. |
 | Vergüenza | — | — | — | ❌ no encontré: no vi ninguna escena de vergüenza clara en lo que pude mirar. Probablemente esté en escenas de Jayce (torpe ante el Consejo) o Ekko adolescente; **queda pendiente**. |
+| **Jayce** | Vergüenza / humillación pública | 1×02 «Some Mysteries Are Better Left Unsolved» | 14:48 | ✅ vista: juicio ante el Consejo por su hextech sin permiso (un niño hizo explotar un cristal robado en su taller); Jayce está solo, diminuto, de pie en un círculo de luz en medio de la cámara del Consejo, todos mirándolo desde arriba — la Consejera Kiramman le da la espalda y él termina expulsado de la Academia («su castigo fue peor que la muerte», [Jayce Talis · Arcane Wiki](https://arcane.fandom.com/wiki/Jayce_Talis)) · fotograma propio, Internet Archive [`?t=888`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=888) |
+| **Jayce** | Alegría / orgullo | 1×04 «Happy Progress Day!» | 26:32 | ✅ vista: primer plano en el discurso del Día del Progreso, cejas arriba, boca abierta a media sonrisa hablando con energía ante el público que aplaude y los fuegos artificiales (ver también `partes/video.md` §2 y §14, min 24:20-26:30) · fotograma propio, Internet Archive [`?t=1592`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1592) |
 
-- **Jayce**, **Viktor**, **Caitlyn**, **Ekko** y **Silco**: no me dio tiempo
-  a bajar y mirar un episodio centrado en cada uno; sus emociones siguen
-  descritas «de memoria» en `biblia.md` §8, sin fotograma. Si se quiere
-  completar la tabla para los 7, queda pendiente.
+- **Viktor**, **Caitlyn**, **Ekko** y **Silco**: sigo completando la tabla
+  (relanzo en curso); ver Bitácora.
 - El vídeo de 1×03 (1080p, 60fps) sigue en
   `/tmp/claude-0/trabajo/17-arcane-video/` y en
   `/tmp/claude-0/trabajo/17-arcane-voz/e03_faces/`: el siguiente que lo

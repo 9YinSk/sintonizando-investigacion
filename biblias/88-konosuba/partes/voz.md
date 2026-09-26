@@ -332,12 +332,20 @@ segura):
 | Megumin | Alegría eufórica (lanzando su magia, ojos brillantes) | Tráiler oficial temp. 3 (Dailymotion) | 0:30 | https://www.dailymotion.com/video/x8qwfj9?t=30 |
 | Megumin | Miedo/sorpresa (primer plano, ojos muy abiertos) | Vídeo 10º aniversario (Dailymotion) | 2:45 | https://www.dailymotion.com/video/xasu3fq?t=165 |
 | Darkness | Satisfacción/placer contenido (su presentación oficial, «la cruzada masoquista») | Tráiler oficial temp. 3 (Dailymotion) | 0:34 | https://www.dailymotion.com/video/x8qwfj9?t=34 |
+| Aqua | Tristeza (llora a gritos, extiende el brazo pidiendo ayuda) | S2E2 (Internet Archive, mirado entero con `fotogramas.py --cortes`) | 4:45 | fotograma propio, minuto exacto del corte — https://archive.org/details/kono-subarashii-sekai-ni-shukufuku-wo-s-2-ep-2-tm |
+| Megumin | Vergüenza (sonrojo intenso con líneas diagonales en las mejillas, tras un chiste sobre ella y Kazuma) | S2E2 (Internet Archive, mismo episodio) | 21:58 | fotograma propio — https://archive.org/details/kono-subarashii-sekai-ni-shukufuku-wo-s-2-ep-2-tm |
 
-No encontré fotograma propio de **tristeza** de Aqua (llora mucho según la
-wiki, pero no until en los tráileres que miré) ni de **vergüenza** de
-Darkness sonrojada (su vergüenza sale sobre todo en escenas largas de
-diálogo, no en los tráileres de acción que pude mirar sin YouTube) — queda
-en «No encontré» al final, con lo que sí probé.
+Las dos últimas filas salen de mirar un episodio completo (no sólo
+tráileres): la 2ª temporada, episodio 2, en Internet Archive
+(`kono-subarashii-sekai-ni-shukufuku-wo-s-2-ep-2-tm`, MP4 directo de 160 MB),
+con `fotogramas.py --cortes` (430 fotogramas, uno por plano, 0:00-23:39) ✅
+(coincide con el diseño y colores de personaje ya confirmados en el punto 8).
+Queda sin fotograma propio la **vergüenza de Darkness** sonrojada: en este
+episodio ella aparece poco (una escena donde se la traga y escupe una rana
+gigante, que para ella es más gusto que vergüenza, coherente con su
+masoquismo) — queda en «No encontré», ⚠️, como extra, no como obligatorio
+pendiente (ya hay tristeza y vergüenza propias de personajes principales,
+que era lo que pedía el encargo).
 
 **Créditos oficiales confirmados en el propio tráiler** (refuerzan el
 punto 8, ahora con fuente japonesa oficial además de Doblaje Wiki): カズマ
@@ -534,10 +542,12 @@ para que quien revise no lo cuente dos veces como «fandub distinto».
   sólo trae cumpleaños (ya en la tabla del punto 20), no altura; la wiki en
   inglés tampoco la trae en la infobox salvo para Kazuma (162 cm). Busqué en
   el wikitext de las 4 fichas sin encontrar el campo.
-- Cara de **tristeza** de Aqua y de **vergüenza** de Darkness con fotograma
-  propio: los tres vídeos que miré (tráiler T3, vídeo de anuncio, 10º
-  aniversario) no traen un plano claro de esas dos emociones — falta mirar
-  un episodio completo con `episodio.py`, que no llegué a usar por tiempo.
+- Cara de **vergüenza** de Darkness sonrojada con fotograma propio: ya
+  miré un episodio completo (S2E2, 430 fotogramas con `--cortes`) y ella
+  casi no sale — sólo una escena donde una rana gigante se la traga y
+  escupe, que por su masoquismo es más gusto que vergüenza. Faltaría mirar
+  otro episodio centrado en ella (comentarios sobre su cuerpo/peso, según
+  la wiki) para sacarla — ⚠️, extra.
 - Los 8 clips oficiales de Crunchyroll listados en el punto 8 (geobloqueo
   LatAm confirmado con `yt-dlp`, no bloqueo de sesión).
 - Vistas y fecha exactas de los fandubs de TikTok (Karl el Kaballo y otros):
@@ -578,5 +588,14 @@ para que quien revise no lo cuente dos veces como «fandub distinto».
   o vídeo de clips geobloqueados falle.
 - `navegar.py` sobre TV Tropes: falló por falta de navegador Chromium en el
   contenedor (ver «No encontré»).
-
-Sigue: cara de tristeza y de vergüenza con fotograma y minuto propios para los personajes principales (punto 13) — los 3 vídeos que miré (dos tráilers y el vídeo de 10º aniversario) no traen un plano claro de esas dos emociones; falta mirar un capítulo completo con `episodio.py` o `fotogramas.py --cortes` sobre un episodio via Dailymotion/Internet Archive para sacarlas.
+- Relanzo (punto 13, cara de tristeza/vergüenza): `fotogramas.py --cortes`
+  sobre dos episodios completos. (1) El spin-off *Kono Subarashii Sekai ni
+  Bakuen wo!* ep. 1, doblado al español, en Dailymotion (`xa0oox0`, ya
+  bajado por el investigador anterior) — 314 fotogramas, 0:00-22:43; sirvió
+  para confirmar la tristeza de Megumin de niña (sentada sola, abrazando
+  las rodillas, 18:15) pero no tiene a Kazuma/Aqua/Darkness (es sólo su
+  pasado). (2) *Konosuba* temporada 2, episodio 2, en Internet Archive
+  (`kono-subarashii-sekai-ni-shukufuku-wo-s-2-ep-2-tm`, MP4 directo de
+  160 MB bajado con yt-dlp/ffmpeg) — 430 fotogramas, 0:00-23:39, con los 4
+  principales; de ahí salen la tristeza de Aqua (4:45) y la vergüenza de
+  Megumin (21:58) que quedan en la tabla del punto 13.

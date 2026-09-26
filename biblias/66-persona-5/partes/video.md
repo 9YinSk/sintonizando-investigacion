@@ -137,3 +137,33 @@ Palacio); minuto exacto de cada clip.
 | Morgana junto a Ryuji sentados en una escalera, mirando al frente mientras habla ("Mi apariencia habrá cambiado, pero sigo siendo un ser humano admirable") | Persona 5 – Introducing Morgana | 0:16 · https://www.dailymotion.com/video/x51by64?t=16 | Explicar |
 | Ryuji con los brazos en alto celebrando entre chispas doradas, boca abierta gritando | Persona 5 – All-Out Attack (Ryuji) | 0:15 · https://www.dailymotion.com/video/x4mxiax?t=15 | Celebrar |
 | Joker con la máscara puesta, mirada baja y seria, luz azul eléctrica envolviéndolo (invocación de Persona) | Persona 5 gameplay trailer #2 | 1:04 · https://www.dailymotion.com/video/x8afeg6?t=64 | Pensar / concentrarse antes de actuar |
+| Ann (Panther) girando en el aire con el látigo de fuego extendido, cola felina de su Persona Carmen visible detrás | Persona 5 – All-Out Attack (Ann) | 0:06 · https://www.dailymotion.com/video/x4nn845?t=6 | Presentar / atacar |
+| Morgana con los ojos muy abiertos y una gota de sudor, bocadillo de sorpresa, en un café de maids | Persona 5 – Au maid café (clip oficial GKult, doblado FR) | 0:24 · https://www.dailymotion.com/video/x4ppmvg?t=24 | Reaccionar con sorpresa |
+| Morgana sonriente hablando de frente a cámara sobre una pantalla negra con estrella amarilla de puntuación (mecánica de vínculo social) | Persona 5 – Au maid café | 1:04 · https://www.dailymotion.com/video/x4ppmvg?t=64 | Explicar / reflexionar en voz alta |
+
+## Lo mejor para la lámina
+
+- El "rojo Persona" medido en el logo (#BE0002/#C00005), muy saturado y plano: úsalo como color base de cualquier pieza del canal, con negro y blanco.
+- Pose de celebración de Ryuji (brazos en alto, chispas doradas, 0:15 del clip All-Out Attack) es la más "viva" encontrada: sirve para un cuadro que anime a participar.
+- Morgana sentado de mal humor en la silla roja (0:28 de "Introducing Morgana") es un gesto muy reconocible y da personalidad sin ser el protagonista.
+- El Velvet Room (foco dorado sobre fondo azul-morado casi negro) es el sitio con más contraste de luz de toda la serie: ideal para un cuadro tipo "confesionario" con texto flotando en el haz de luz.
+- Portada del Steelbook de lanzamiento (grupo completo en pose, 1:55 del tráiler) es la referencia más completa de "todos juntos" si la lámina necesita al elenco entero.
+
+## No encontré
+
+- Cifras exactas de visualizaciones de TikTok actualizadas al día de hoy: TikTok no da API pública gratuita; sólo pude citar ejemplos puntuales vía buscador web (arg0nt, solenevelvet), sin poder comparar cuál es "el" trend dominante ahora mismo. Búsquedas: "Persona 5 TikTok trend viral Beneath the Mask edit" (inglés, buscador web).
+- Vídeo oficial completo del opening/intro del juego en 1080p o superior: YouTube pide iniciar sesión desde este servidor; usé la copia de Dailymotion (720p), que es la mejor fuente libre disponible. Búsquedas: Dailymotion API directa "Persona 5 opening wake up get up".
+- Clip oficial doblado en español latino del opening o de escenas icónicas: no apareció ninguno en Dailymotion ni Internet Archive (Persona 5 no tiene doblaje al español en el juego; el anime tampoco lo tiene confirmado en estas fuentes). Búsquedas: "Persona 5 opening español latino", "Persona 5 the Animation doblaje latino" (Dailymotion API, sin resultados relevantes).
+- AnimeThemes.moe siguió devolviendo error 522 (caído) en los reintentos de esta tanda: no pude sacar de ahí los .webm de los openings/endings del anime para pasarlos por fotogramas.py; usé el clip de Dailymotion de Persona France en su lugar.
+- 6-10 poses por personaje exactas para los cuatro (Joker, Morgana, Ann, Ryuji): Joker y Morgana llegan a 5-6, Ryuji a 5, Ann a 3 — con más presupuesto de acciones se puede ampliar Ann buscando más clips oficiales cortos de sus técnicas o del anime.
+
+## Bitácora de búsqueda
+
+- Partí de `partes/datos-video.md` (Dailymotion, Internet Archive, MusicBrainz ya recolectados el 2026-09-25): comprobé los enlaces de opening/ending/tráiler y descarté los que no eran de Persona 5 (p. ej. resultados de "Persona 3 Reload" o "Babylon 5" mezclados en las búsquedas automáticas).
+- Dailymotion API directa (`api.dailymotion.com/videos?search=`), en inglés y francés: "Persona 5 opening wake up get up", "Persona 5 all out attack", "Persona 5 Kamoshida boss battle", "Persona 5 interrogation scene", "Persona 5 Joker awakening persona", "Persona 5 ending true ending", "Persona 5 Royal trailer official", "Persona 5 Leblanc cafe", "Persona 5 castle palace gameplay", "Persona 5 Morgana cat scene".
+- `herramientas/fotogramas.py` sobre 9 clips de Dailymotion (opening del juego, ending 1 del anime, tráiler de lanzamiento, tráiler cinemático de Royal, 3 clips de All-Out Attack, clip de Palacios, clip de Morgana) — todas las hojas de contacto miradas con Read antes de escribir.
+- `herramientas/estilo.py` (Pillow) sobre 5 fotogramas grandes para medir paleta y tipo de sombreado de 4 sitios distintos.
+- `megamitensei.fandom.com/api.php` (wiki de fans en inglés, vía API para evitar el 403): páginas "Beneath the Mask", "Last Surprise", "Life Will Change", búsqueda de texto "Persona 5 soundtrack Beneath the Mask", "Life Will Change Persona 5".
+- Buscador web (inglés): "Persona 5 TikTok trend viral Beneath the Mask OR Last Surprise edit", "Persona 5 YouTube analysis video All Out Attack iconic scene reaction".
+- AnimeThemes.moe: falló con error 522 en dos reintentos (uno heredado de `recolectar.py`, otro propio); no insistí más según la regla de dos intentos.
+- YouTube: no se consultó directamente (pide inicio de sesión desde este servidor); todo lo de YouTube viene citado desde resultados del buscador web, sin descarga ni fotogramas.

@@ -108,3 +108,113 @@ vacío en `datos-texto.md`, comprobado).
   pudo comprobar
 - No hay más videojuegos de la franquicia (ni en Steam, ni anunciados para consola) a fecha de esta
   investigación (26-sep-2026) · ✅ (búsqueda en inglés y japonés, sin resultados)
+
+## 18 · Estilo de dibujo y técnica, y cómo replicarlo (Photoshop y Blender)
+
+Rigs y tramas: ver puntos 3 y 19 (los trae el investigador de imagen). Aquí: línea, sombreado, filtros de la
+animación, programas reales usados y cómo imitarlos con Photoshop y Blender, y encuadre/composición.
+
+**Del manga (Yuto Suzuki), por entrevista de su editor Sousuke Ishikawa en MangaPlus** ✅
+([mangaplus.shueisha.co.jp/web_pages/1293](https://mangaplus.shueisha.co.jp/web_pages/1293/)):
+- Suzuki estudió **Nihonga** (pintura tradicional japonesa) antes de dedicarse al manga; de ahí su ojo para
+  que cada plano tenga «una silueta que funciona» dentro de su encuadre, incluso en los cortes de acción
+  detenida a media acción.
+- Dibuja con **Clip Studio Paint** ✅ (confirmado también por él mismo en una entrevista especial de Jump
+  GIGA 2023, resumida por Shonen Jump News: [x.com/WSJ_manga](https://x.com/WSJ_manga/status/1607079895108050944)).
+- Su acción es «fácil de leer» a propósito: evita el encuadre de cámara complicado y busca **el instante en
+  que arranca el movimiento** (el pico de la acción), no coreografías largas; por eso lo lee bien tanto
+  público joven como adulto.
+- Colecciona vídeos de referencia en Pinterest y ve cine y series constantemente para mantener el ojo
+  actualizado.
+- Influencias directas del propio autor: el manga **«Domu» de Katsuhiro Otomo** (lo que le hizo querer ser
+  mangaka) y el cine de acción de sicarios de Hollywood, sobre todo **John Wick** y **The Equalizer** (de
+  ahí el tono «asesino profesional, frío y elegante») ✅ (MangaPlus + resumen del tuit de Shonen Jump News).
+
+**Del anime (TMS Entertainment), por entrevista al director Masaki Watanabe** ✅
+([AWN](https://www.awn.com/animationworld/masaki-watanabe-talks-sakamoto-days),
+[ScreenRant](https://screenrant.com/sakamoto-days-anime-problem-biggest-challenge-character-designs/)):
+- Programas: **Clip Studio Paint** para el dibujo/animación y programas de **Adobe** (composición, tipo
+  After Effects) para el acabado final · ✅
+- **Filtro de «papel»**: la textura de papel/grano se extrae de las **zonas de sombra** del material de
+  color original y se aplica sólo ahí, en la fase de **composición** (no en cada dibujo). La textura queda
+  **fija** (no se mueve con el personaje ni la cámara) para no multiplicar el trabajo. Fue idea del director
+  de fotografía, para dar más información visual reduciendo el número de líneas necesarias en la animación
+  · ✅ (cita directa del director)
+- Se nota más en las sombras bajo la barbilla y en los pliegues oscuros de la ropa; da un aire cálido y
+  casero en escenas familiares y un aire denso en las de pelea · ✅
+- **Precisión del diseño**: los personajes son «engañosamente simples» (sin marca vistosa tipo cicatriz o
+  pelo de color), así que el reconocimiento depende de detalles finísimos —forma de la cara, tamaño de los
+  ojos, **grosor exacto de la línea**—; un pequeño desvío rompe el parecido, así que el estudio revisaba
+  constantemente para mantener el modelo · ✅ (ScreenRant, cita directa)
+- **3D + rotoscopia**: la escena de la montaña rusa (episodio 3) se modeló primero en 3D, se animó, y
+  luego se **rotoscopió** a mano; tardó el triple que una escena normal · ✅ (AWN, cita directa)
+- El director quiere usar más **animación 3D como base** en futuros proyectos, sin sustituir a los
+  animadores expertos, para sostener un nivel de dibujo constante · ✅ (AWN)
+- Las armas se dibujan con intención **realista** (brillo del metal, filo visible) aunque el estudio se
+  toma licencias de diseño por espectacularidad (ej. el rifle de Heisuke dispara a ráfagas, algo que un
+  Mosin-Nagant real no hace) · ✅ (AWN, cita directa)
+
+**Cómo replicarlo en Photoshop** (para un objeto o cartel de la lámina):
+1. Línea limpia y de grosor **muy constante** (2-3 px a tamaño final), sin la variación gruesa/fina típica
+   de otros shonen: usa el Lápiz o el Pincel con *Pen pressure* casi plano, o vectoriza con la herramienta
+   Pluma; corrige cada curva a mano, porque aquí el parecido depende del contorno, no de un gesto suelto.
+2. Sombra plana a **un solo tono** (cel-shading de 2 niveles: luz base + una sombra, sin degradado) en una
+   capa `Multiply` recortada (clipping mask) sobre el color base.
+3. **Filtro de papel**: crea una capa de textura de papel/grano (ver `ambientcg.com` tipo Paper001), ponla
+   en modo `Multiply` o `Soft Light` al 15-25 % de opacidad, y recórtala (clipping mask) **sólo** sobre la
+   capa de sombra, no sobre toda la ilustración. No la animes ni la distorsiones con el dibujo: en la serie
+   se queda fija encima, como un cristal esmerilado.
+4. Añade un leve grano/aberración cromática muy sutil en la capa de ajuste final (Filtro > Ruido, cantidad
+   baja) para el aire de composición de vídeo, sin pasarse (la serie es limpia, no granulada al estilo
+   found-footage).
+
+**Cómo replicarlo en Blender** (para el objeto real en 3D que pide el punto 17/concepto de lámina):
+1. Modela el objeto (pistola, caja registradora, letrero de la tienda) con geometría simple y **el
+   modificador Line Art** de Grease Pencil (o Freestyle) para sacar un contorno limpio tipo manga
+   directamente del render — es el mismo camino que usó el propio estudio (3D primero, luego se afina a
+   mano).
+2. Shader de 2 tonos: nodo `Shader to RGB` → `ColorRamp` con un corte duro (sin degradado) para imitar el
+   cel-shading plano de la serie; nada de PBR realista salvo en las armas, donde sí conviene un metal con
+   brillo especular marcado (según la propia serie, «un arma sin brillo pierde tensión»).
+3. Si la pieza necesita movimiento o una pose difícil (algo articulado, no sólo un objeto quieto), anímala
+   en Blender y luego **repasa el contorno a mano en Photoshop** (rotoscopia), igual que hizo el equipo con
+   la montaña rusa: ahorra tiempo de modelado fino sin perder el look dibujado.
+4. Renderiza el objeto solo (sin fondo), pásalo a Photoshop y aplícale ahí el filtro de papel del paso 3 de
+   arriba, recortado sólo a sus sombras, para que combine con el resto de la lámina dibujada a mano.
+
+**Encuadre y composición** (de la entrevista a Ishikawa) ✅:
+- Prioriza **una silueta clara** por plano: el personaje o el objeto se reconoce por su contorno general,
+  no por el detalle interno — pensado para lectores de todas las edades.
+- Congela la acción en su **punto más alto** (el instante en que golpea, dispara o revela algo), no a
+  mitad de un movimiento confuso.
+- Cámara sencilla: evita ángulos imposibles o múltiples cortes; un plano, una idea clara.
+
+## 24 · Obras parecidas y temas relacionados
+
+Tono: comedia + acción con toques de crimen organizado, familia encontrada y un protagonista que oculta
+un pasado violento bajo una vida doméstica tranquila.
+
+- **The Way of the Househusband** (Gokushufudou): la propia página de TV Tropes de Sakamoto Days lo pone
+  como «Compare» directo — ex-yakuza legendario que ahora es amo de casa, mismo choque de «leyenda
+  criminal + vida cotidiana absurda» · ✅ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/SakamotoDays))
+- **SPY×FAMILY**: la recomendación con más votos de los usuarios de AniList para esta serie (162 votos) ·
+  ✅ (`datos-texto.md`, AniList). Ya tiene su propia biblia en el servidor: `biblias/06-spy-x-family/` — no
+  repetir sus ideas de lámina (agente secreto + familia falsa que se vuelve real); Sakamoto Days es la
+  familia real de un asesino retirado, el contraste está en que aquí la familia **ya existe** y él es quien
+  vive la doble vida.
+- **One-Punch Man**: protagonista aplastantemente fuerte que vive con calma casi aburrida su poder,
+  comedia por contraste · votos en AniList: 37 · ✅. Ya tiene biblia (`biblias/35-one-punch-man/`).
+- **Assassination Classroom**: escuela de asesinos, tono que mezcla comedia escolar y acción letal, mismo
+  espíritu que la JCC (Japan Clear Creation) de Sakamoto Days · votos AniList: 14 · ✅. Ya tiene biblia
+  (`biblias/24-assassination-classroom/`) — si la lámina de Sakamoto Days usa la JCC, no repetir el
+  «examen de ingreso mortal» si ya está en esa biblia.
+- Otras recomendaciones de AniList con menos votos: Gintama (73), Buddy Daddies (56), Rurouni Kenshin 2023
+  (41), Mission: Yozakura Family (22), The Fable (18), Lycoris Recoil (18), The Yakuza's Guide to
+  Babysitting (29), Kill Blue (46), Marriagetoxin (66) · ⚠️ (una sola fuente, AniList, sin comprobar en
+  reseñas)
+- **Influencias reconocidas por el propio autor** (ver punto 18): el manga **Domu** de Katsuhiro Otomo, y
+  el cine de sicarios de Hollywood **John Wick** y **The Equalizer** · ✅ (MangaPlus + Shonen Jump News)
+- Con qué NO comparar: Sakamoto Days no tiene el tono sentimental de Spy×Family (la ternura ahí viene de
+  la familia falsa aprendiendo a quererse; aquí la familia ya se quiere, la comedia sale de que él ya no
+  puede matar) ni el gore constante de Chainsaw Man (aquí la violencia se dibuja «cool», no traumática,
+  según el propio editor: «evito la brutalidad gratuita») · ✅ (MangaPlus, cita directa del editor)
