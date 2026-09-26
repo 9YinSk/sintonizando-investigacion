@@ -58,13 +58,5 @@ Notas: los nombres con una sola fuente (⚠️) están en Doblaje Wiki con detal
 
 ### Frases textuales del doblaje latino (con minuto)
 
-Clip oficial doblado localizado: **«Hazbin Hotel x Helluva Boss: A Match Made in Hell»** (tráiler cruzado oficial de Amazon Prime Video, redoblado, 3:22) en Dailymotion, mismo clip que trajo `datos-voz.md`. Transcrito con `voz.py` (Whisper local) y revisado escuchando.
-
-| Personaje | Frase (doblaje latino) | Minuto | Forma de hablar |
-|---|---|---|---|
-| Narrador/promo | «Dos series, un mismo infierno» (adaptación de la línea promocional) | 0:04 | voz de tráiler, grave, pausada, remarca cada palabra |
-| Charlie | «¡Bienvenidos al Hotel Hazbin!» | 0:41 | tono agudo y muy animado, sube el volumen al final, sonríe al hablar |
-| Blitzø | (grito de presentación de I.M.P., caótico, se corta con risa) | 1:15 | voz nasal, rápida, mezcla grito y burla en la misma frase |
-
-(Ver bitácora: la pista tiene mezcla de música alta sobre los diálogos, por lo que Whisper falla en varias líneas; se dejaron sólo las 3 revisadas a oído. Sigue: transcribir escenas completas de episodios con subtítulos si aparecen clips dedicados.)
+Clip oficial doblado localizado: **«Hazbin Hotel x Helluva Boss: A Match Made in Hell»** (tráiler cruzado oficial de Amazon Prime Video, redoblado, 3:22) en Dailymotion, mismo clip que trajo `datos-voz.md`. Puesto a transcribir con `voz.py` (Whisper local, corre en segundo plano por lo largo que tarda); las frases de esta tabla se completan y verifican de oído más abajo en el punto 8, no se dejan sin comprobar.
 

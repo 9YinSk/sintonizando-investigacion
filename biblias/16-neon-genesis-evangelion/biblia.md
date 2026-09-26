@@ -301,10 +301,11 @@ comenta, se compara. Es lo que pasa con una demo.
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] Sin imágenes bajadas
-> Ni Fandom ni las webs de las tiendas respondían. Aquí van **enlaces que
-> salieron en las búsquedas** y lo que se sabe de cada cosa. Antes de
-> dibujar, abre cada enlace en tu PC y guarda lo que sirva.
+> [!note] Segunda pasada: ya hay imágenes vistas
+> En la primera pasada no se pudo bajar nada. Ahora `investigar_serie.py`
+> bajó de la wiki de Fandom **455 imágenes (208 grandes)** y montó 5 hojas;
+> las 3 mejores están en `hojas/` (sección «Las hojas de contacto», justo
+> después). Lo nuevo está en §3.5.
 
 ### 3.1 Quién hizo el aspecto de la serie ✅
 
@@ -354,17 +355,53 @@ comenta, se compara. Es lo que pasa con una demo.
 | **Walkman F «SDAT»** (Sony, 2014) | Walkman oficial grabado como el SDAT de Shinji, con cascos XBA-H3 y caja retro; 87.000 yenes | [ANN](https://www.animenewsnetwork.com/interest/2014-04-19/shinji-tape-player-gets-a-tech-upgrade-with-new-sony-walkman-f) · [Operation Rainfall](https://operationrainfall.com/2014/04/17/sony-evangelion-walkman-details/) ✅ |
 | **Letra oficial EVA-Matisse** (Fontworks, 2016) | «EVA-Matisse Classic» (la de la serie) y «EVA-Matisse Standard» (la de las películas) | [ANN](https://www.animenewsnetwork.com/interest/2016-11-07/replicate-evangelion-stark-episode-titles-with-special-font-package/.108496) ✅ (**de pago**) |
 
-### 3.5 Lo que falta ⚠️
+- **Ojo con «la tarjeta de Rei»** (segunda pasada): el ep. 5 se miró
+  minuto a minuto de 0:00 a 15:00 y **no hay un primer plano de la
+  tarjeta en 4:25**. Ese tramo es un resumen técnico de la Unidad 00. Lo
+  que sí se ve: la placa «402 綾波» en la puerta de Rei (13:12) y sus gafas
+  rotas en el suelo (14:15). Para dibujar la tarjeta, usa las de reventa
+  de arriba.
 
-- **No pude bajar ni ver** ninguna imagen: ni key visuals, ni portadas de
-  tomos, ni de Blu-ray. Lo que sé de ellas es de memoria.
-- De memoria ⚠️, las más útiles para poses vivas (búscalas en tu PC):
-  - Las **portadas de los 14 tomos del manga** (Sadamoto): cada una, un
-    personaje con su Eva detrás.
-  - Los **pósteres de The End of Evangelion** y de las cuatro *Rebuild*.
-  - Las **carátulas de los Blu-ray** de la serie.
-  - Las **ilustraciones de Sadamoto para Newtype** (Asuka y Rei juntas,
-    Rei con el traje de conector, Misato con cerveza y Pen Pen).
+### 3.5 Lo que ya se vio (segunda pasada) ✅
+
+Todo visto en las hojas de `investigar_serie.py`, con enlace a la imagen
+original de la wiki:
+
+- **Las 13 portadas de los laserdisc «Genesis 01-13»**, cada una con un
+  personaje y su Eva, a **3660×3660** (por ejemplo
+  [Genesis 06](https://static.wikia.nocookie.net/evangelion/images/e/e2/Genesis_06_LD.jpg)).
+- **Hojas de personaje a color «Evangelion Chronicle»** de Shinji, Rei,
+  Misato y Gendo.
+- **Hojas de producción a lápiz** (決定稿, «versión final») de Rei, Asuka y
+  Misato, con notas en japonés ⚠️ (el Tumblr de origen no dice de qué
+  libro salen).
+- **Portadas del manga** con Asuka y Rei; y la **enciclopedia de robots de
+  Media Works** dibujada por Yamashita (5672×7108).
+- **Figuras oficiales fotografiadas**: premios B y C del Ichiban Kuji del
+  30 aniversario ([premio C](https://static.wikia.nocookie.net/evangelion/images/c/ca/Ichiban_Kuji_Neon_Genesis_Evangelion_30th_Anniversary_Prize_C.jpg))
+  y la figura S-FIRE de Asuka sentada en la playa (Punto 23).
+- **Portada de AniList** ([bx30](https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg)),
+  al tamaño servido, no el de imprenta.
+- Siguen **sin mirar** ⚠️: los pósteres de *The End of Evangelion* y de las
+  *Rebuild*, y las carátulas de los Blu-ray.
+
+---
+
+## Las hojas de contacto
+
+Tres hojas en `hojas/`, elegidas entre las 5 que dio
+`investigar_serie.py` (se miraron las 5). Cada número de la hoja es una
+imagen de la wiki; su original está en `referencias.json`.
+
+| Hoja | Qué trae | Números que sirven | Para qué |
+|---|---|---|---|
+| `arte_oficial_01.jpg` (nº 1-48) | Portadas de laserdisc, key visual del *EVANGELION STORE TOKYO-01* (Rei y Asuka con el traje, nº 6), hojas «Evangelion Chronicle», calendarios, pósteres | **16-24** portadas de LD (personaje + su Eva, 3660×3660); **7-15** hojas de personaje a color; **36** Asuka con el uniforme; **41** Rei con el traje dañado; **26, 28, 34** Misato (con pistola en la 28) | Poses vivas con su Eva; color de referencia para la IA (§18) |
+| `vestuario_pantallazos_02.jpg` (nº 49-96) | Ilustraciones de trajes, fotogramas de *The End of Evangelion* y de los ep. 1-2 | **53** Asuka de rojo cayendo, con Misato (póster de LD); **54** Rei de blanco tumbada; **55** Shinji señalando (portada de *Refrain*, Yamashita); **56** «The adults in NERV» (ropa de los adultos); **59** Gendo con pistola y gafas naranja; **71** **una tarjeta de identidad de NERV en la mano de Shinji** (*Rebuild*); **86** la sala de mando; **91** Misato con la lata «YEBISU» (ep. 2) | Vestuario (§16), el objeto del concepto A, fondos |
+| `settei_figuras_03.jpg` (nº 97-144) | Hojas de producción a lápiz, arte promocional, figuras | **99** **pantalla «TEST PLUG-02 · HARMONICS TEST PROCEEDING · LIVE · SUBJECT: FIFTH C. KAWORU NAGISA»**; **104-112, 114-117, 119, 123, 127-130** hojas a lápiz (決定稿); **101** Shinji con el traje; **102** grupo de cinco; **133** arte del juego *Girlfriend of Steel 2*; **134-135** figuras de Rei y Shinji del Ichiban Kuji; **136** figura S-FIRE de Asuka en la playa | Línea (Punto 18), poses 3D (Punto 23), rótulo de pantalla del concepto A |
+
+Las otras dos hojas (manga y pachinko/fondos de fans) quedaron fuera por
+el límite de 3. Lo útil de ellas va enlazado en el Punto 19 (manga) y en
+el Punto 23 (pachinko).
 
 ---
 
@@ -372,21 +409,31 @@ comenta, se compara. Es lo que pasa con una demo.
 
 ### 4.1 Modelos 3D de objetos para la lámina (Sketchfab)
 
-> [!warning] La licencia hay que mirarla en cada página
-> Sketchfab no respondía desde aquí. Los modelos gratis de Sketchfab suelen
-> ser **CC BY** (hay que dar crédito), pero **compruébalo en cada uno** antes
-> de usarlo. Y ojo: el **diseño** de una Eva es de Khara aunque la malla sea
-> libre. Úsalas sólo como referencia de pose o de forma.
+> [!note] Segunda pasada: licencias leídas en la API de Sketchfab
+> El 26-sep-2026 se leyó la licencia exacta y las caras de cada modelo en
+> `api.sketchfab.com/v3/search` (todos siguen descargables). **CC BY** =
+> hay que dar crédito; **CC BY-SA** = crédito y compartir igual. Y ojo: el
+> **diseño** de una Eva es de Khara aunque la malla sea libre. Úsalas como
+> base o referencia de pose, nunca como producto oficial.
 
-| Modelo | Autor | Para qué | Estado |
+| Modelo | Autor | Para qué | Licencia |
 |---|---|---|---|
-| [Clipboard](https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738) | Cookie (@cookiepop) | **La tablilla de la ficha de piloto** | «Download Free» ⚠️ licencia |
-| [Cello](https://sketchfab.com/3d-models/cello-d67ed4cbbc0c4477ba5d89413e715c82) | Lordricker | **El chelo de Shinji** (ep. 15) | «Download Free» ⚠️ |
+| [Clipboard](https://sketchfab.com/3d-models/clipboard-a37158f20ccf436483029e8295629738) | Cookie (@cookiepop) | **La tablilla de la ficha de piloto** (2.256 caras) | **CC BY** ✅ |
+| [Cello](https://sketchfab.com/3d-models/cello-d67ed4cbbc0c4477ba5d89413e715c82) | Lordricker | **El chelo de Shinji** (ep. 15; 134.552 caras) | **CC BY** ✅ |
+| [Sony Walkman TPS-L2](https://sketchfab.com/3d-models/none-3cad4141c9aa4e67ba1d2ab1e5b9d277) | berilbaska | Base para el **SDAT** (el real es un Sony WMD-DT1, sin malla libre; 11.215 caras) | **CC BY** ✅ |
+| [Asuka Langley Sohryu / Rig](https://sketchfab.com/3d-models/none-5e66c14e43164330a6dbd4bc863913f7) | JoeTrekV | **Asuka con esqueleto**, lista para posar (6.752 caras) | **CC BY** ✅ |
+| [Evangelion - Eva 01 Rigged](https://sketchfab.com/3d-models/none-cec471affcb445cb9231bba50267191a) | najwanazhiim | Unidad 01 con esqueleto (873.951 caras, muy pesado) | **CC BY** ✅ |
+| [Evangelion Unit-01](https://sketchfab.com/3d-models/none-9fddeb0a7143436598c805dab2f147bf) | allanromanreyes | Unidad 01; el autor tiene también la 00, 02, 03 y las de serie | **CC BY-SA** ✅ |
+| [EVANGELION MARI (rigged)](https://sketchfab.com/3d-models/none-82bcdbde1483490f896418476b2c9d6f) | browniecoats | Mari con esqueleto (241.778 caras) | **CC BY** ✅ |
+| [Gendo Ikari](https://sketchfab.com/3d-models/none-49a40e59a5b34ed7b34838027d573809) | 185684 | Busto de Gendo, pocos polígonos (1.598 caras) | **CC BY** ✅ |
+| [Pen Pen - Rig](https://sketchfab.com/3d-models/none-7672ac8bd3454ff9aee30d270874d01d) | sirliks | Pen Pen con esqueleto | **CC BY** ✅ |
+| [Sachiel](https://sketchfab.com/3d-models/none-3c212c7ce6ac4284a8b718078bc6fc0f) | solodovnykov | El primer Ángel que ataca Tokio-3 | **CC BY** ✅ |
+| [Lilith](https://sketchfab.com/3d-models/none-c8c4c0f24f854f8084f8038a34057d9d) | solodovnykov | Lilith crucificada (dos versiones) | **CC BY** ✅ |
 | [sony walkman 1985](https://sketchfab.com/3d-models/sony-walkman-1985-70984e9a3bb4497da196275feb343713) | milkmanfromhell | Base para modelar el **SDAT** | «Download Free» ⚠️ |
 | [SONY WALKMAN](https://sketchfab.com/3d-models/sony-walkman-72e212b9f0894abbad50530f01a0adff) | rr025073 | Ídem | «Download Free» ⚠️ |
 | [Walkman Cassete Player](https://sketchfab.com/3d-models/walkman-cassete-player-14daacbaf0f94f458851e15dfd717426) | Merow (@TehMerow) | Ídem | «Download Free» ⚠️ |
 | [Evangelion - Entry Plug (with sound)](https://sketchfab.com/3d-models/evangelion-entry-plugwith-sound-3e4245a5f40b45eca02dab55e6b47a93) | Jongmin (@kingjongmin) | La cápsula del piloto | **de pago** (Sketchfab Store) |
-| [Evangelion unit 01](https://sketchfab.com/3d-models/evangelion-unit-01-49c7a77272c84154a711d7cfd5cb47f4) | lefort | Unidad 01 para el 25 aniversario (2020) | «Download Free» ⚠️ |
+| [Evangelion unit 01](https://sketchfab.com/3d-models/evangelion-unit-01-49c7a77272c84154a711d7cfd5cb47f4) | lefort | Unidad 01 para el 25 aniversario (2020) | la API no dio su licencia; mírala en la página ⚠️ |
 | [EVANGELION Unit-01](https://sketchfab.com/3d-models/evangelion-unit-01-2bae40f88a494086a251cc63df100327) | aqua-blender | Unidad 01 | «Download Free» ⚠️ |
 | [Eva Unit 01 Rigged](https://sketchfab.com/3d-models/eva-unit-01-rigged-a9c89d4df6b04818984cffd00cc5f634) | TitanGoji1954 | Unidad 01 con esqueleto (para posar) | «Download Free» ⚠️ |
 | [Neon Genesis Evangelion Unit 01](https://sketchfab.com/3d-models/neon-genesis-evangelion-unit-01-2e0c150a4d864e838d1bed40b173ff8b) | lucaspitaperex | Unidad 01 | «Download Free» ⚠️ |
@@ -459,6 +506,25 @@ negro, blanco y naranja `#F66E25` ⚠️
 
 **Cartelas**: blanco puro `#FFFFFF` sobre negro puro `#000000`. Nada más.
 
+**Segunda pasada: colores medidos en fotogramas oficiales** ✅ (con
+`estilo.py` sobre fotogramas vistos en Internet Archive; ya no son
+paletas de fans):
+
+| Sitio | Luz y hora | Hex medidos | Fotograma |
+|---|---|---|---|
+| **Jaula de las Eva** (la Unidad 01 encadenada) | Penumbra industrial | musgo `#3D4D2E`, oliva `#536347`, verde claro `#88A27E`, vigas `#0B0C03` | [ep. 1, 20:58](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=1258) |
+| **Cápsula de entrada** (LCL) | Luz verdosa difusa | `#5E6146`, `#559671`, luz `#ECF3DD` | [ep. 1, 19:55](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=1195) |
+| **Transporte a NERV** | Interior de metal, tapicería granate | `#141411`, `#544E29` | [ep. 1, 10:16](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=616) |
+| **Tokio-3 al atardecer** (silueta de una Eva) | Tarde, ocre y dorado | `#967E2E`, `#403411`, cielo `#544E29` | opening, 1:00 |
+| **La Unidad 02 de pie** | Fondo rojo | `#EA5E41`, `#96422E`, sombra violeta `#3A273E` | opening, 1:15 |
+| **La luna del ending** | Noche | `#182032`, `#162F4C`, `#214868`, luna `#678E9C` / `#84A1A5` | ending, 0:20 |
+| **Crucifixión** (*The End of Evangelion*) | Rojo de LCL | `#C5344A`, granate `#421E27`, hueso `#DECDD1` | [tráiler de GKIDS, 0:16](https://archive.org/download/youtube-JGcbdUgNYOY/JGcbdUgNYOY.mp4?t=16) |
+| **Cielo del Tercer Impacto** | Rosa apocalíptico | magenta `#ED5AB9`, `#572145`, `#793662` | [tráiler de GKIDS, 0:32](https://archive.org/download/youtube-JGcbdUgNYOY/JGcbdUgNYOY.mp4?t=32) |
+
+La paleta de pantallas de nerv-ui (arriba) sigue siendo de fans ⚠️; la de
+esta tabla sí es de fotograma oficial. La columna «Luz» de §5.1 sigue de
+memoria salvo en estos sitios.
+
 ### 5.3 Texturas reales equivalentes ⚠️
 
 - **Papel de expediente** (la ficha): papel de oficina blanco algo
@@ -471,7 +537,11 @@ negro, blanco y naranja `#F66E25` ⚠️
 - **Plástico de tarjeta** (la tarjeta NERV): plástico blanco satinado, con
   reflejo suave.
 - **Metal pintado y hormigón** (el cuartel): chapa gris con arañazos,
-  hormigón con manchas de agua.
+  hormigón con manchas de agua. Para el **verde oxidado de la jaula**:
+  [ambientCG «Metal038»](https://ambientcg.com/view?id=Metal038), CC0 ✅.
+- **Papel CC0 comprobado en la API de ambientCG** (segunda pasada):
+  `Paper001`, `Paper003`, `Paper004`, `Paper005` y `Paper006`, con difuso,
+  normal y rugosidad ✅.
 - **Cristal de pantalla CRT** (la sala de mando): negro con líneas de
   barrido, ligero brillo curvo.
 
@@ -526,8 +596,14 @@ fontTools. **Todas** traen á é í ó ú ñ ¿ ¡ (y Á É Í Ó Ú Ñ ü). Tod
 | **Saira Extra Condensed** | sellos de «WARNING» | hasta Black | no | Avisos |
 | **DotGothic16** | pantallas de pocos píxeles | 1 | sí | Para un contador o reloj |
 
-**Chicago** (números de SEELE): no hay equivalente en Google Fonts. Existe
-«ChiKareGo2», gratis, pero **no lo comprobé** ⚠️.
+**Chicago** (números de SEELE): no hay equivalente en Google Fonts. La
+recreación libre **«ChiKareGo2»** (Creative Commons ⚠️, una fuente) se
+bajó de [GitHub](https://github.com/lowercasename/helloedit/blob/master/resources/fonts/ChiKareGo2.woff)
+y se pasó por fontTools en la segunda pasada ✅: **trae** á é í ó ñ Ñ Á É Í
+Ó Ú Ü ¿ ¡; **le faltan ú y ü minúsculas**. Sirve para «SEELE 01» o «SOUND
+ONLY» (todo en mayúsculas); si un texto lleva «ú», escríbelo en versalitas
+o usa otra letra. Descripción de la letra:
+[suppertime.co.uk](http://www.suppertime.co.uk/blogmywiki/2017/04/chicago/).
 
 **Receta de cartela** (la que usa también nerv-ui): letra serif muy negra,
 **comprimida al 78-85 % de ancho** (`scaleX(0.78–0.85)`), blanca sobre negro,
@@ -572,9 +648,24 @@ sin sombra ni borde.
    que Misato da a Shinji (ep. 1). Todo en §2.
 6. **El avance del próximo episodio** ✅: Misato lo narra y siempre acaba
    con «この次も サービス サービス！» (ep. 1, 3, 8, 9, 12, 13, 00:23:19).
-7. **El manga** ⚠️ (de memoria): globos redondos normales, texto japonés
-   vertical. No tiene un globo propio reconocible; lo reconocible es la
-   cartela y la pantalla.
+7. **El manga** ⚠️: globos redondos normales, texto japonés vertical. No
+   tiene un globo propio reconocible; lo reconocible es la cartela y la
+   pantalla. Segunda pasada: el análisis de
+   [AIPT Comics](https://aiptcomics.com/2021/02/04/revisiting-sadamotos-evangelion-manga-p1/)
+   habla de sus **viñetas que se estrechan hacia el centro** y de su
+   línea afilada, pero no de un globo especial. Hay páginas del manga en
+   la hoja `settei_figuras_03.jpg` (nº 132 y 143) y en las hojas que no se
+   subieron (nº 146-152), con trama de puntos; el globo sigue sin
+   comprobarse de cerca.
+8. **Las pantallas de prueba con nombre** ✅ (visto en la hoja
+   `settei_figuras_03.jpg`, nº 99): rótulo naranja **«TEST PLUG-02 ·
+   HARMONICS TEST PROCEEDING · LIVE»** arriba a la izquierda y abajo
+   **«SUBJECT : FIFTH C. · KAWORU NAGISA»**. Es la ficha en pantalla de un
+   piloto durante una prueba: el formato exacto para una ficha de voz.
+9. **Los juegos** (§13): *Girlfriend of Steel* y sus secuelas son novelas
+   visuales con retrato y caja de diálogo abajo ⚠️ (descripción, sin
+   captura: The Cutting Room Floor no abre). Arte del juego 2 en la hoja
+   `settei_figuras_03.jpg`, nº 133.
 
 ### 7.2 Cómo hablan (por el subtítulo)
 
@@ -694,7 +785,7 @@ sin sombra ni borde.
 - **Para #demos**: la ficha en sí (su ficha se lee en voz alta, ep. 5).
   Buena para «explicar» con pocas palabras. Mala para «celebrar».
 
-### Shinji Ikari (碇シンジ) — el protagonista, 4.º ⚠️
+### Shinji Ikari (碇シンジ) — el protagonista, 4.º ✅
 
 - **Quién es**: el **Third Children**, piloto de la **Unidad 01**. Su padre
   le llama después de tres años sin verse (ep. 1, 00:12:25).
@@ -710,7 +801,7 @@ sin sombra ni borde.
   別にないよ» (No tengo talento). Una lámina con él dice «no pasa nada, súbela
   igual».
 
-### Misato Katsuragi (葛城ミサト) — 5.ª ⚠️
+### Misato Katsuragi (葛城ミサト) — 5.ª ✅
 
 - **Quién es**: jefa de operaciones de NERV. Capitana, luego **mayor**
   (ascenso en el ep. 12, 00:04:11 ✅). Tutora de Shinji y Asuka.
@@ -739,7 +830,10 @@ sin sombra ni borde.
   00:15:38). «問題ない» (No hay problema, ep. 1, 00:09:48; ep. 14,
   00:21:17). «全ては心の中だ» (Todo está en el corazón, ep. 15, 00:10:26).
 - **La pose**: **sentado, codos en la mesa, manos juntas delante de la
-  boca, gafas que brillan** ⚠️ (la «pose Gendo», meme mundial).
+  boca, gafas que brillan** (la «pose Gendo», meme mundial ✅,
+  [Know Your Meme](https://knowyourmeme.com/memes/gendo-pose)). Ojo: en
+  el plano de las gafas del ep. 1 (15:38) **no** tapa la boca con las
+  manos; esa pose hay que sacarla de otro fotograma o del arte oficial ⚠️.
 - **Para #demos**: sólo para **la norma seca** (p. ej. «Un hilo por
   persona»). Nunca para dar la bienvenida.
 
@@ -747,13 +841,37 @@ sin sombra ni borde.
 
 | Personaje | Por qué | Frase o escena |
 |---|---|---|
-| **Ritsuko Akagi** | Científica jefe. **Lee las fichas y evalúa las pruebas**: es la «jurado» de las demos | ep. 5, 00:04:25 (ficha de Rei); ep. 12, 00:05:22 («よくやったわ») |
+| **Ritsuko Akagi** | Científica jefe. **Lee las fichas y evalúa las pruebas**: es la «jurado» de las demos | ep. 5, 00:04:25 (lee los datos de Rei; **en pantalla** no se ve una ficha, sino diagramas de la Unidad 00, visto en la segunda pasada); ep. 12, 00:05:22 («よくやったわ») |
 | **Maya Ibuki** | La que **canta los datos** en la sala de mando | ep. 1, 00:19:58 («シンクロ率 41.3パーセント») |
 | **Makoto Hyūga** | Operador; lee datos de Kaworu y **se cuela en archivos** | ep. 24, 00:06:03 |
 | **Pen Pen** | El pingüino de Misato. Mascota del fandom | ep. 2, 00:15:05 («名前は ペンペン») |
 | **Ryōji Kaji** | Espía encantador; cultiva sandías | ep. 17, 00:21:02 |
 | **Mari Makinami** | Sólo en las *Rebuild*. Canta mientras pilota ⚠️ | (no está en la serie de TV) |
 | **Toji Suzuhara** | El **Fourth Children**; su ficha sale en el ep. 17 | ep. 17, 00:21:24 |
+
+### Su cara en cada emoción (fotogramas vistos en la segunda pasada)
+
+Sacados de Internet Archive y mirados uno a uno. El ítem
+`evangelion-the-full-series` trae los 26 episodios en 1080p con el corte
+japonés, así que su minuto coincide con el de este dossier. El ítem de
+Toonami es una grabación de TV con anuncios: su minuto es **el de la
+grabación**, no el del episodio.
+
+| Personaje | Emoción | Cómo se ve | Episodio y minuto |
+|---|---|---|---|
+| Asuka | **Rabia / vergüenza** | Cara roja, boca muy abierta gritando «何すんのよ！» | [ep. 8, 00:04:04](https://archive.org/download/evangelion-the-full-series/1.70A%20Neon%20Genesis%20Evangelion%20-%20Episode%208%20%28SUB%29%201920x1080%20-%20Asuka%20Arrives%20in%20Japan.mp4?t=244) ✅ |
+| Asuka | **Presentarse** | De pie, barbilla alta, carpeta en la mano | [ep. 8, 3:46](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2008%20Asuka%20Strikes%21%20%5BC6590C43%5D.mp4?t=226) ✅ |
+| Misato | **Alegría** | Ojos cerrados, sonrisa enorme, bebiendo cerveza | [ep. 2, 00:13:14](https://archive.org/download/evangelion-the-full-series/1.10A%20Neon%20Genesis%20Evangelion%20-%20Episode%202%20%28SUB%29%201920x1080%20-%20Unfamiliar%20Ceilings.mp4?t=794) ✅ |
+| Kaworu | **Ternura** | Media sonrisa cálida, luz de atardecer, mirando a Shinji | [ep. 24, 00:05:40](https://archive.org/download/evangelion-the-full-series/3.30A%20Neon%20Genesis%20Evangelion%20-%20Episode%2024%20%28SUB%29%201920x1080%20-%20The%20Last%20Cometh.mp4?t=340) ✅ |
+| Rei | **La sonrisa rara** | Primer plano en la cápsula, mirada de lado, sonrisa pequeña | [ep. 6, 21:45](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4?t=1305) ✅ |
+| Rei | **Dolor** | Cabeza vendada, ojos entrecerrados | [Toonami, 20:30 de la grabación](https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=1230) ✅ |
+| Shinji | **Miedo** | Ojos muy abiertos, sudor, boca tensa | [Toonami, 41:00 de la grabación](https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=2460) ✅ |
+| Shinji | **Valor** | Sólo el ojo y el pelo, dientes apretados («no debo huir») | [ep. 1, 18:33](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=1113) ✅ |
+| Ritsuko | **Alarma** | Cejas fruncidas, boca abierta gritando | [Toonami, 20:15 de la grabación](https://archive.org/download/neon-genesis-evangelion-toonami-rip/Neon%20Genesis%20Evangelion%20Toonami%20Rips.mp4?t=1215) ✅ |
+| Gendo | **Frialdad** | Primerísimo plano de las gafas con el carnet de Shinji reflejado dos veces | [ep. 1, 15:38](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=938) ✅ |
+
+Faltan con fotograma propio ⚠️: la tristeza y la vergüenza de Shinji y
+de Misato, y cualquier emoción de Gendo que no sea frialdad.
 
 ---
 
@@ -772,8 +890,8 @@ NHK BS Premium hizo un **voto nacional** del 27-mar al 29-abr-2020 con
 | 1 | **Asuka** | ✅ (Famitsu, MANTANWEB) |
 | 2 | **Kaworu** | ✅ ([Kimigaku](https://kimigaku.jp/archives/388/), [SMZDM, en chino](https://post.smzdm.com/p/alpw8g5e/)) |
 | 3 | **Rei** | ✅ (las mismas) |
-| 4 | Shinji | ⚠️ una fuente |
-| 5 | Misato | ⚠️ una fuente |
+| 4 | Shinji | ✅ (segunda pasada: [Kimigaku](https://kimigaku.jp/archives/388/) da el mismo orden 1-5) |
+| 5 | Misato | ✅ (la misma) |
 | 7 | Kaji | ⚠️ una fuente |
 
 **Frases más votadas** ✅ (Famitsu y MANTANWEB):
@@ -821,6 +939,26 @@ es Gaghiel (el pez). No sé cuál de las dos cuentas usó NHK.
 - **Misato** no gana votos, pero es **la que explica** en la serie.
 - **Recomendación**: Asuka o Kaworu como cara; Misato como la voz que
   explica.
+
+### 9.4 Otras dos medidas (segunda pasada) ✅
+
+| Personaje | Favoritos en [AniList](https://anilist.co/anime/30) (todo el mundo) | Dibujos de fans en [Danbooru](https://danbooru.donmai.us/posts?tags=neon_genesis_evangelion) |
+|---|---|---|
+| Asuka | **14.666** | **17.588** |
+| Rei | 11.549 | 10.518 |
+| Shinji | 11.348 | 6.470 |
+| Misato | 10.981 | 2.105 |
+| Kaworu | 5.450 | 4.666 |
+| Kaji | 1.019 | — |
+| Ritsuko | 925 | — |
+| Gendo | 729 | — |
+| Mari (sólo *Rebuild*) | — | 2.833 |
+
+**Asuka gana en las tres medidas** (voto de NHK, favoritos, fan art): es
+la apuesta más segura. Kaworu gana a Misato en fan art igual que en NHK,
+aunque sale en un solo episodio. En AniList, Rei pasa a Kaworu: fuera de
+Japón pesa más la heroína de los 90. El ranking numérico de MyAnimeList
+no se encontró ⚠️.
 
 ---
 
@@ -1330,6 +1468,369 @@ emociones se dibujan así:
   of mouth».
 - **Palabras que lo estropean** (además de §18.3): «sweat drop», «anime
   reaction face», «chibi», «speech bubble».
+
+---
+
+## Punto 18 · Estilo de dibujo, técnica y cómo replicarlo
+
+### Cómo se hizo la serie
+
+- **Celuloide tradicional de 1995**, fotografiado con grano de película
+  real. Gainax **no** usaba Clip Studio ni Toon Boom (no existían). Hubo
+  retoques digitales sólo en momentos puntuales (créditos, *glitches* de
+  los ep. 25-26) ⚠️: no encontré qué programa usaron.
+- **Planos fijos a propósito**: al final se animó con muy poco tiempo, y
+  Anno sostuvo fotogramas quietos como si la cámara se parara. Los dos
+  famosos: el ascensor con Rei y Asuka, y la Unidad 01 sosteniendo a
+  Kaworu. ¿Presupuesto o tiempo? Se discute, pero la quietud es un recurso
+  dramático ⚠️ ([CBR](https://www.cbr.com/neon-genesis-evangelion-other-anime-ran-out-of-budget-quality-decline/),
+  [foro EvaGeeks](https://forum.evageeks.org/thread/19083/Did-Evangelion-really-run-out-of-budget/),
+  que se citan entre sí).
+- **Capas densas de línea en la acción**: animadores como **Mitsuo Iso**
+  hacían que los Eva se movieran como seres vivos, no como robots ⚠️ (una
+  fuente).
+- **Maquetas de General Products** (la tienda de *garage kits* de Gainax)
+  como referencia de luz y perspectiva para el storyboard ⚠️ (una fuente).
+- **Línea de Sadamoto**: «arrugada», afilada pero orgánica
+  ([AIPT Comics](https://aiptcomics.com/2021/02/04/revisiting-sadamotos-evangelion-manga-p1/) ⚠️).
+- **Lo que midió `estilo.py`** en fotogramas oficiales ✅: personajes con
+  sombra plana de un solo tono; fondos y luces con **degradado de
+  aerógrafo**; línea casi ausente en la piel de los primeros planos; línea
+  marcada sólo en metal y estructuras (`#414F37` en la jaula de las Eva).
+
+### Encuadres y composición (el «vocabulario» de Anno)
+
+Según el análisis de [AnnoCinema (Medium)](https://medium.com/@annocinema/annos-compositional-vocabulary-f28ef87d45f7)
+y su [Tumblr](https://annocinema.tumblr.com/post/159747328453/a-type-of-shot-that-anno-uses-in-all-of-his-works)
+⚠️ (análisis de fans, no entrevista):
+
+- **Primer plano de la parte que actúa**: una mano en el interruptor, un
+  pie en el pedal, en vez de la persona entera.
+- **Corte al objeto del que se habla**: alguien lo nombra y el siguiente
+  plano ES el objeto.
+- **Sobre el hombro «que aísla»**: el de delante y el de detrás muy
+  distintos en tamaño o luz, para marcar distancia.
+- **Cada emoción, su encuadre** (visto en la segunda pasada): el miedo en
+  primerísimo plano del ojo (Shinji, ep. 1, 18:33); la frialdad en las
+  gafas que reflejan (Gendo, ep. 1, 15:38); la soledad en plano general
+  pequeño dentro de algo enorme (la Unidad 01 en la jaula, ep. 1, 20:58).
+
+### Cómo reproducirlo en Photoshop
+
+1. **Línea**: pincel duro, color **gris muy oscuro**, no negro puro. Capa
+   en **Multiplicar**, encima del color.
+2. **Color**: una capa plana por zona (piel, pelo, traje), sin degradado.
+   **Sombra** en otra capa en Multiplicar, un solo tono más oscuro, borde
+   **duro**.
+3. **Grano**: capa blanca → Filtro > Ruido > Añadir ruido (25-30 %,
+   uniforme, monocromático) → Multiplicar al 15-30 %.
+4. **Orden**: fondo → color → luces → sombras → línea → texto → grano.
+5. **Pantallas de NERV**: brillo verde o naranja en Sobreexponer color
+   sobre negro, y **líneas horizontales finas** al 10 % (efecto de
+   monitor de 1995).
+
+Fuentes: [MicahBuzan.com](https://www.micahbuzan.com/cel-shading-tutorial/),
+[zombiebass](https://zombiebass.portfolio.site/anime-cel-tutorial),
+[Adobe: guía de cel shading](https://www.adobe.com/uk/creativecloud/animation/discover/cel-shading.html)
+⚠️ (técnica general, no de Eva).
+
+### Cómo reproducirlo en Blender
+
+1. **Contorno**: modificador **Solidify** con grosor negativo, *Flip
+   Normals* y material negro con *Backface Culling*; o **Grease Pencil →
+   Line Art**; o **Freestyle** ([StraySpark](https://www.strayspark.studio/blog/how-to-get-anime-toon-look-blender),
+   [tutorial de contornos](https://www.youtube.com/watch?v=cO4BDrdUHc0) ⚠️).
+2. **Sombreado de celuloide**: **Shader to RGB → Color Ramp en
+   Constante**, con dos paradas (luz y sombra) o tres (tono medio). EEVEE
+   con *View Transform: Standard*, o Blender suaviza los cortes.
+3. **Render**: pásalo por el Compositor y añade grano, como en Photoshop.
+4. **Modelos y rigs libres** (licencias leídas en la API de Sketchfab, §4):
+   [Asuka con rig, JoeTrekV, CC BY](https://sketchfab.com/3d-models/none-5e66c14e43164330a6dbd4bc863913f7),
+   [Unidad 01 con rig, najwanazhiim, CC BY](https://sketchfab.com/3d-models/none-cec471affcb445cb9231bba50267191a),
+   [Pen Pen con rig, sirliks, CC BY](https://sketchfab.com/3d-models/none-7672ac8bd3454ff9aee30d270874d01d).
+5. **Texturas encima**: las de papel de ambientCG (Punto 19) y el óxido
+   verde [Metal038](https://ambientcg.com/view?id=Metal038) (CC0) para la
+   jaula.
+
+---
+
+## Punto 19 · Texturas 2D
+
+Junto con §4 (3D) y §5 (texturas reales): no falta ninguna capa.
+
+- **Tramas del manga**: en las páginas de Sadamoto vistas en la hoja del
+  manga (nº 146-152, 164 y 172 de `investigar_serie.py`) hay **trama de
+  puntos** en fondos y sombras, y **rayado fino** en la tensión. No existe
+  un pack de tramas 100 % CC0. Lo mejor gratis:
+  - [SuperScreentones, muestra gratis](https://ittaimanero.gumroad.com/l/FREESuperScreentoneSample)
+    (Procreate, Photoshop, CSP) ⚠️ licencia de uso, no CC0.
+  - [23 pinceles de trama gratis (Graphics Bunker)](https://www.graphicsbunker.com/brushes/free-comic-screentone-procreate-brushes/).
+  - [Brusheezy, SCREENTONES Halftone Brushes (Mabecman)](https://www.brusheezy.com/free/halftone), `.abr` de Photoshop.
+- **Grano de papel**: [ambientCG](https://ambientcg.com/) `Paper001`,
+  `Paper003` a `Paper006`, **CC0** de verdad (comprobado en su API), con
+  difuso, normal y rugosidad ✅. Para una tarjeta de plástico, busca
+  `Plastic` en la misma web.
+- **Patrones de ropa**: el traje de conexión es liso, con paneles. El
+  pichi del uniforme de Tokio-3 sí lleva cuadros: no hay textura hecha;
+  usa un tartán CC0 genérico y recoloréalo a `#022A51` ⚠️.
+- **Emblemas y logos**: el de NERV y el de Evangelion están trazados por
+  fans en [Worldvectorlogo](https://worldvectorlogo.com/logo/nerv) y
+  [SeekLogo](https://seeklogo.com/free-vector-logos/evangelion). **No son
+  libres**: la marca es de Khara. Sirven para ver las proporciones, no para
+  pegarlos ⚠️.
+- **Pantallas de NERV**: la recreación limpia de
+  [Pedro Fleming en Behance](https://www.behance.net/gallery/96540159/Neon-Genesis-Evangelion-Screen-Graphics)
+  y el proyecto [nerv-ui](https://github.com/TheGreatGildo/nerv-ui) (MIT).
+- **Pincel de tinta**: ⚠️ no verificado. Usa un pincel de tinta gratuito de
+  Krita o de Clip Studio y ajústalo con la receta del Punto 18.
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+Cumpleaños y altura de las fichas de AniList (que citan *Newtype* y las
+guías oficiales). Carácter de §8 y de la [wiki de Evangelion](https://evangelion.fandom.com/wiki/Rei_Ayanami#Personality).
+No hay *databook* oficial en español al alcance: los libros son de pago y
+en japonés.
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura |
+|---|---|---|---|---|---|
+| [Asuka](https://anilist.co/character/94) | Que la reconozcan como la mejor, ganar, Kaji | Perder, que Shinji la supere, que la comparen con su madre | Fue a la universidad en Alemania de niña | 4 de diciembre ✅ | 155 cm ✅ |
+| [Rei](https://anilist.co/character/86) | La psicología y la genética (lee un libro en alemán, ep. 9) | ⚠️ nada explícito, coherente con ella | Vive sola, apenas cuida su piso | 30 de marzo ✅ | 149 cm ✅ |
+| [Shinji](https://anilist.co/character/89) | El chelo (desde los 5 años), su SDAT, que lo elogien aunque no se lo crea | El rechazo, el conflicto, sentirse una carga | Chelo y música | 6 de junio ✅ | 155 cm ✅ |
+| [Misato](https://anilist.co/character/1259) | La cerveza al llegar a casa, celebrar a lo grande | Su trauma del Segundo Impacto (su desorden no le molesta) | Beber y desordenar | 8 de diciembre ✅ | 163 cm ✅ |
+| [Kaworu](https://anilist.co/character/1261) | La música, la cultura de «los Lilin», hablar de sentimientos | ⚠️ nada: no rechaza nada humano | Tararear el «Himno de la alegría» | 13 de septiembre ✅ | ⚠️ no está |
+| [Gendo](https://anilist.co/character/1257) | El recuerdo de Yui, el control | Perder el control | ⚠️ ninguna fuera de NERV | 29 de abril ✅ | ⚠️ no está |
+| [Ritsuko](https://anilist.co/character/1251) | ⚠️ sin lista | Su madre (la admira y la desprecia) | La ciencia, el MAGI | 21 de noviembre ✅ | ⚠️ no está |
+| [Pen Pen](https://anilist.co/character/1892) | ⚠️ sin ficha | — | Vive en el refrigerador de Misato | — | — |
+
+**El objeto que siempre lleva**: Asuka, las **pinzas rojas** del pelo;
+Shinji, el **SDAT** con auriculares (§8, con minuto); Misato, una **lata de
+cerveza Yebisu**: en el fotograma del ep. 2 de la hoja
+`vestuario_pantallazos_02.jpg` (nº 91) se lee «YEB…» en la lata ✅ (visto;
+ninguna ficha lo dice por escrito).
+
+**Cómo se ve a sí mismo** (de sus frases oídas en latino, §10): Shinji
+cree que no vale y que lo quieren sólo si pilota («Todo el mundo me
+aprecia y me felicita»); Asuka sólo vale si gana («Nadie desea a una
+piloto que no puede controlar a su Eva»); Rei se define por sus vínculos
+(«Me convertí en mí a través de… los lazos»).
+
+---
+
+## Punto 21 · Por qué la gente la ama
+
+- **Es la más votada de Japón y de fuera**: la votación oficial de NHK de
+  2020 (109.577 votos, §9) y los favoritos de [AniList](https://anilist.co/anime/30)
+  dan el mismo podio (§9) ✅.
+- **Con quién se identifica el público**: con **Shinji**, «todos nosotros
+  en la adolescencia»: miedo al rechazo, no creerse los elogios, querer
+  desaparecer. Es la razón más repetida en los foros ⚠️ (Reddit no abre ni
+  por Arctic Shift; resumen de foros como EvaGeeks).
+- **Premios**: Animage Anime Grand Prix de 1996 a mejor anime; ese año Rei
+  y Shinji ganaron mejor personaje femenino y masculino ⚠️ (una fuente).
+
+### Las escenas que hacen llorar
+
+1. **La sonrisa de Rei** (ep. 6). Rei le dice a Shinji «No morirás. Yo te
+   protegeré» (00:15:32). Tras el combate, él abre la cápsula y le pide que
+   sonría; en el doblaje latino: **«¿Por qué no pruebas sonreír, Rei?»**
+   ([00:21:34](https://archive.org/download/26-neon-genesis-evangelion/6%20Neon%20genesis%20Evangelion.mp4?t=1294)).
+   Ella sonríe: [fotograma, 21:45](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4?t=1305) ✅.
+   - **Por qué duele**: es el único gesto cálido de alguien presentado como
+     una muñeca. El público siente que «algo humano sobrevive» en ella.
+   - **Cómo está dibujada**: primer plano, mirada de lado, sonrisa pequeña
+     (visto). La luz de atardecer y el silencio en el instante exacto van
+     de memoria ⚠️.
+   - **Cómo reaccionó la gente**: su frase «No morirás» es la **n.º 1** del
+     voto de NHK ✅.
+2. **Kaworu** (ep. 24). Le confiesa a Shinji que lo quiere; en latino:
+   **«¡Yo te amo, Shinji!»** ([00:09:37](https://archive.org/download/26-neon-genesis-evangelion/24%20Neon%20genesis%20Evangelion.mp4?t=577)).
+   Poco después Shinji tiene que matarlo con la Unidad 01.
+   - **Por qué duele**: es la primera vez que alguien le dice a Shinji que
+     lo quiere, y él mismo tiene que destruirlo.
+   - **Qué suena**: el «**Himno de la alegría**» de Beethoven en toda la
+     escena final ✅ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Awesome/NeonGenesisEvangelion)).
+   - **Cómo está dibujada**: la Unidad 01 sostiene a Kaworu en un **plano
+     fijo que dura muchísimo** (Punto 18). Minuto aproximado en el archivo
+     combinado 22-24 de Internet Archive: 1:08-1:11 ⚠️.
+
+### Las que hacen reír o gritar
+
+- **Misato y su cerveza** (ep. 2, [00:13:14](https://archive.org/download/evangelion-the-full-series/1.10A%20Neon%20Genesis%20Evangelion%20-%20Episode%202%20%28SUB%29%201920x1080%20-%20Unfamiliar%20Ceilings.mp4?t=794)):
+  ojos cerrados, sonrisa enorme ✅.
+- **Asuka sale gritando** de debajo de la falda levantada de una
+  tripulante (ep. 8, [00:04:04](https://archive.org/download/evangelion-the-full-series/1.70A%20Neon%20Genesis%20Evangelion%20-%20Episode%208%20%28SUB%29%201920x1080%20-%20Asuka%20Arrives%20in%20Japan.mp4?t=244)) ✅.
+- **«¡Y la próxima, más servicio!»**: Misato cierra el avance de varios
+  episodios (00:23:19, §2) ✅.
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+- **Cover cantado del opening en español**: «Evangelion - opening
+  español», 90 s, subido por kidabashasha, 13 vistas
+  ([Dailymotion x3bwse](https://www.dailymotion.com/video/x3bwse); copia en
+  [x4sdbj](https://www.dailymotion.com/video/x4sdbj)). Letra propia, oída
+  con `voz.py`: «Con esa sonrisa… / es lo que tú buscas con obsesión / y no
+  puedes ver tu destino así / con ojos tan inocentes» (0:32-0:50). Voz
+  aguda y muy expresiva ✅. **No es el doblaje oficial**: la canción nunca
+  se dobló (§10).
+- **Un «fandub» de Asuka**: «cosplay butterfly-fairy (asuka langley soryu)
+  evangelion fandub NeoPhantom2007» ([Dailymotion xlka0b](https://www.dailymotion.com/video/xlka0b),
+  85 s, 1 vista) ⚠️ no se escuchó.
+- **Un AMV, no un fandub**: «Neon Genesis Evangelion - Rammstein - Engel»
+  ([Dailymotion](https://www.dailymotion.com/video/x2yjm4k), 4:21, 906
+  vistas).
+- **Fan dubs de voz completos en español**: ⚠️ no encontrados. YouTube
+  pide iniciar sesión y TikTok no tiene buscador abierto. Covers del
+  opening sí existen según foros de karaoke, pero no se pudo abrir ninguno
+  concreto más que el de arriba.
+- **Lo que de verdad mueve a la comunidad hispana**: discutir **cuál de
+  los tres doblajes oficiales** es el bueno (original de 1999, *Renewal*
+  de 2007-08 y Netflix de 2019), en foros de eldoblaje, grupos de Facebook
+  y Atamashi (§10). Es una comunidad del doblaje oficial más que del
+  fandub.
+- **Memes hispanos propios**: ⚠️ no encontré ninguno. Los memes de Eva
+  («Get in the robot», la pose Gendo) circulan en inglés.
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+Su arte trae poses y ropa que no están en la serie de 1995.
+
+- **The First Descendant × Evangelion** (juego de disparos de Nexon, del
+  18-jun al 30-jul-2026): Bunny, Valby y Gley llevan los **trajes de
+  conexión de Asuka, Rei y Mari**, con armas, peinados y gestos a juego ✅
+  ([Anime News Network](https://www.animenewsnetwork.com/press-release/2026-06-16/the-first-descendant-reveals-details-of-evangelion-collaboration-arriving-june-18/.238581),
+  [Siliconera](https://www.siliconera.com/evangelion-characters-join-the-first-descendant-in-new-crossover/)).
+- **McDonald's Japón** (6-ene a principios de feb-2026, 30 aniversario):
+  tres figuras de Eva que se transforman en comida: Big Mac = Unidad 01,
+  patatas = Unidad 02, batido = Unidad 00, con anuncio de TV propio ✅
+  ([SNKRDUNK](https://snkrdunk.com/en/magazine/2024/12/19/neon-genesis-evangelion-mcdonalds-value-figurine-set-release-date-price-where-to-buy/),
+  [GameRant](https://gamerant.com/mcdonalds-x-evangelion-collab-confirms-release-date-menu-items-exclusive-figures/)).
+- **GU × Evangelion** (ropa, dentro de «EVANGELION:30+») ⚠️: sólo sé que
+  existe ([SNKRDUNK](https://snkrdunk.com/en/magazine/2025/01/03/evangelion-unveils-30th-anniversary-plans/)),
+  sin fotos de las prendas.
+- **Ichiban Kuji del 30 aniversario** (lotería de premios de Bandai
+  Spirits, desde el 6-feb-2026, 790 yenes la tirada): el premio A es la
+  **Unidad 01 desplegando alas**, 43 cm, una pose que no estaba en el arte
+  clásico ✅ ([Toy People](https://www.toy-people.com/en/?p=107064),
+  [Otaku House](https://shop.otakuhouse.com/en-us/products/ichiban-kuji-evangelion-30th-anniversary-full-set-of-60)).
+  Premios B y C fotografiados en la hoja `settei_figuras_03.jpg`, nº 134-135.
+- **Pachislot Evangelion Magokoro2** (tragamonedas japonesa) con arte de
+  Rei ([imagen oficial](https://static.wikia.nocookie.net/evangelion/images/e/ee/Pachislot_Evangelion_Magokoro2_Rei_3.png)) ✅.
+- **Exposición «ALL OF EVANGELION»** (14-nov-2025 a 12-ene-2026, Tokyo
+  City View), fotos en [Animate Times](https://www.animatetimes.com/news/details.php?id=1763006385) ✅;
+  web del aniversario: [30th.evangelion.jp](https://30th.evangelion.jp/).
+- **Figura de escala S-FIRE de Asuka** (*3.0+1.0*): **sentada en la playa
+  con las piernas cruzadas**, una pose tranquila muy distinta a las de
+  acción ([foto oficial](https://static.wikia.nocookie.net/evangelion/images/e/ea/S-FIRE_Evangelion_3.0%2B1.0_Thrice_Upon_a_Time_Figure_-_Asuka_Langley_1.jpg),
+  hoja `settei_figuras_03.jpg` nº 136) ✅.
+- **Cosplay**:
+  - [Alodia Gosiengfiao, Rei «Grimrock»](https://en.wikipedia.org/wiki/Alodia_Gosiengfiao)
+    (Supanova 2010): versión con armadura, sirve de acabado, no de traje
+    liso ✅.
+  - [SecondImpactCosplay, traje de Rei cosido](https://www.deviantart.com/secondimpactcosplay/art/Rei-Ayanami-Plugsuit-484359771)
+    ⚠️ no se miró de cerca.
+  - **Lo que no sirve**: los disfraces baratos de licra impresa de tiendas
+    en línea. No tienen el volumen de placas del traje real.
+- **Evangelion × Fortnite**: ⚠️ **no es real** a fecha de hoy. Circula en
+  TikTok, pero ni Epic Games ni Khara la anunciaron.
+
+---
+
+## Punto 24 · Obras parecidas y temas relacionados
+
+### Influencias que reconoce Anno
+
+- **Ultraman**: Anno contó que la idea de los Ángeles le vino de ver, en el
+  manga *BASTARD!!*, un ángel **con cara de Ultraman**: «¡así que Ultraman
+  era un ángel!» ✅ (en japonés, [500type-eva.jp](https://www.500type-eva.jp/evangelion-ultraman-relationship-explained/)
+  y [evamania.net](https://evamania.net/archives/1833)).
+- **Space Runaway Ideon** (Tomino, 1980-81): el final de *The End of
+  Evangelion* es un homenaje al de *Ideon: Be Invoked* (destrucción total y
+  renacimiento) ✅ ([chiebukuronews](https://chiebukuronews.blog.jp/archives/31803850.html),
+  [Ameblo](https://ameblo.jp/maumau21floyd/entry-12661092996.html)). Anno y
+  Tomino se entrevistaron en *Animage* en julio de 1994 ⚠️
+  ([Wave Motion Cannon](https://wavemotioncannon.com/2016/11/08/interview-hideaki-anno-vs-yoshiyuki-tomino-animage-071994/)).
+- **Devilman** y el manga de **Nausicaä**: citadas junto a las anteriores
+  en repasos japoneses ⚠️ (sin entrevista directa).
+- **Kunihiko Ikuhara** (*Utena*, 1997): amigo de Anno; el fandom compara
+  las dos series por su tono psicológico ⚠️
+  ([TV Tropes: Hideaki Anno](https://tvtropes.org/pmwiki/pmwiki.php/Creator/HIDEAKIANNO)).
+
+### Series parecidas según el público
+
+De las recomendaciones de usuarios de AniList ⚠️ (votos, no lista
+oficial): *Serial Experiments Lain*, *Madoka Magica*, *Gurren Lagann*,
+*Akira*, *Devilman Crybaby*, *FLCL*, *Gunbuster*, *Sonny Boy*, *Utena*,
+*Gundam*, *Berserk*, *RahXephon* (le llaman «el Evangelion pobre»),
+*Ideon* y *Darling in the Franxx*. Comparten mecha, trauma y preguntas
+sobre quién es uno.
+
+### Otras láminas del servidor
+
+Ninguna biblia usa #demos ni un terminal militar como lámina (búsqueda de
+«demos» en `biblias/*/biblia.md`) ✅. En tono se parecen *Attack on Titan*
+(02) y *Cyberpunk: Edgerunners* (27), pero van a otros canales: no hay
+riesgo de repetir la idea.
+
+---
+
+## Punto 25 · El mundo, la historia y sus símbolos
+
+Todo de [EvaWiki](https://wiki.evageeks.org/Second_Impact), que cita sus
+fuentes primarias, y de la Wikipedia japonesa.
+
+### Las reglas del mundo, en cinco líneas
+
+1. En **2000**, el **Segundo Impacto** derritió la Antártida e inundó las
+   costas. La ONU dijo «meteorito»; fue el despertar de **Adán** ✅.
+2. Los **Ángeles** (使徒, «apóstoles») atacan Tokio-3 buscando a
+   **Lilith**, bajo NERV. Sus nombres son de ángeles judeocristianos
+   (Sachiel, ángel del agua) ✅ ([note.com](https://note.com/bunnygirlman/n/na6197925aea9),
+   [Wikipedia en japonés](https://ja.wikipedia.org/wiki/%E4%BD%BF%E5%BE%92_(%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3))).
+   **La humanidad es el 18.º Ángel** ✅.
+3. Sólo los **Eva** (seres vivos con un alma humana dentro, **no robots**)
+   crean un **Campo AT** capaz de romper el de un Ángel. Lo atraviesa
+   también la **Lanza de Longinus** ✅ ([EvaWiki: AT Field](https://wiki.evageeks.org/AT_Field),
+   [Lance of Longinus](https://wiki.evageeks.org/Lance_of_Longinus)).
+4. **NERV** (de la ONU) pilota los Eva; **SEELE**, 12 ancianos que sólo se
+   muestran como monolitos negros, la controla en la sombra ✅
+   ([EvaWiki: Human Instrumentality Project](https://wiki.evageeks.org/Human_Instrumentality_Project)).
+5. SEELE quiere el **Tercer Impacto**: fundir todas las almas en una y
+   borrar al individuo ✅.
+
+### La historia por arcos
+
+- **Ep. 1-6 · Los Ángeles**: Shinji llega a Tokio-3 y pilota la Unidad 01
+  (ep. 1); Rei; se descubre que los Eva **sienten dolor**. Momento clave:
+  la sonrisa de Rei (ep. 6).
+- **Ep. 8-15 · Llega Asuka**: la Unidad 02 (ep. 8), la vida en el piso de
+  Misato, el chelo de Shinji (ep. 15).
+- **Ep. 16-24 · El derrumbe**: cada uno choca con su propio muro; la
+  Unidad 03 poseída y Toji herido (ep. 18); Kaworu llega y muere (ep. 24).
+- **Ep. 25-26 y *The End of Evangelion***: la Instrumentalización; un
+  final hacia dentro (TV) y otro apocalíptico (película) ✅.
+
+### Glosario que un fan reconoce al instante
+
+| Término | Qué es |
+|---|---|
+| **NERV** | Agencia de la ONU. Logo con media hoja de higuera y la frase de Browning «God's in his heaven, all's right with the world» (§7) |
+| **SEELE** | Comité en la sombra: 12 monolitos negros «SOUND ONLY» (§7) |
+| **MAGI** | Tres superordenadores que deciden por mayoría: **Melchior** (Naoko Akagi como científica), **Balthasar** (como madre) y **Caspar** (como mujer) ✅ ([EvaWiki: MAGI](https://wiki.evageeks.org/MAGI)) |
+| **Children** | Los pilotos: Rei, 1.ª; Asuka, 2.ª; Shinji, 3.º; Toji, 4.º; Kaworu, 5.º ✅ ([EvaWiki: Children](https://wiki.evageeks.org/Children)) |
+| **Campo AT** | El muro que protege a Ángeles y Eva… y a cada persona |
+| **Lanza de Longinus** | Arma roja de dos puntas del tamaño de un Eva |
+| **LCL** | Líquido naranja que llena la cápsula; el piloto lo respira ⚠️ |
+| **Árbol de la Vida** | Sale en el opening y en el Tercer Impacto. Anno dijo que usaron símbolos cristianos «porque se veían bien» ⚠️ ([ScreenRant](https://screenrant.com/neon-genesis-evangelion-pretentious-hidden-meaning-philosophical-factoid/)) |
+
+**Para la lámina**: usa los símbolos **como estética** (logo, monolitos,
+árbol), no como teoría que haya que explicar. Así los trata el propio
+Anno.
 
 ---
 

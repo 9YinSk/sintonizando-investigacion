@@ -151,5 +151,203 @@
   "que_es": "Modelo 3D oficial de Ganondorf (Wind Waker)",
   "para_que": "referencia 3D de Ganondorf niño/joven",
   "licencia": "© Nintendo; sólo referencia, no redistribuir el archivo"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/legend-of-zelda-master-sword-cb7f91aa8594406ea6fc7cb72846743b",
+  "fuente": "Sketchfab, confirmado por la API v3/models",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de la Master Sword",
+  "para_que": "objeto icónico en 3D para la lámina (punto 3)",
+  "licencia": "CC Attribution (CC BY) — autor Voldepreuss"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/hylian-shield-c0a9c05d45174318a9a2b13ebc53b1b7",
+  "fuente": "Sketchfab, confirmado por la API v3/models",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable del Escudo Hyliano",
+  "para_que": "objeto icónico en 3D (punto 3)",
+  "licencia": "CC Attribution (CC BY) — autor MikeLuxton"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/triforce-a8e46e9f5ea1491babc610360f2b57ff",
+  "fuente": "Sketchfab, confirmado por la API v3/models",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de la Trifuerza",
+  "para_que": "símbolo/objeto en 3D para composición (punto 3 y 25)",
+  "licencia": "CC Attribution (CC BY) — autor Dryan5"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/korok-legend-of-zelda-4e21d9b8eaef498da778863cc8fee8a7",
+  "fuente": "Sketchfab, confirmado por la API v3/models",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de un Korok",
+  "para_que": "personaje secundario en 3D, detalle de fondo (punto 3)",
+  "licencia": "CC Attribution-ShareAlike (CC BY-SA) — autor wersaus33"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/legend-of-zelda-adventurers-backpack-dc3b000a15fa4042ba7f756cc4bb3dfe",
+  "fuente": "Sketchfab, confirmado por la API v3/models",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de la mochila de aventurero de Link",
+  "para_que": "accesorio/objeto en 3D (punto 3)",
+  "licencia": "CC Attribution (CC BY) — autor glenatron"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/the-wind-waker-hyrule-castle-9c30907ba24143ef85624084331d855b",
+  "fuente": "Sketchfab, confirmado por la API v3/models",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable del Castillo de Hyrule (estilo Wind Waker)",
+  "para_que": "sitio completo en 3D para fondo de escena (punto 3 y 16)",
+  "licencia": "CC Attribution (CC BY) — autor jkimmel694"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/voxel-kakariko-full-scene-6ef46d45927945259127a73484f10d24",
+  "fuente": "Sketchfab, confirmado por la API v3/models",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Escena 3D completa del pueblo Kakariko (estilo voxel)",
+  "para_que": "sitio completo en 3D para fondo de escena (punto 3 y 16)",
+  "licencia": "CC Attribution (CC BY) — autor dysonson"
+ },
+ {
+  "url": "https://polyhaven.com/a/treasure_chest",
+  "fuente": "Poly Haven, API v2/assets",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cofre de madera con herrajes metálicos, modelo 3D CC0",
+  "para_que": "objeto de set dressing tipo Hyrule sin pedir crédito (punto 3)",
+  "licencia": "CC0 (dominio público) — Poly Haven"
+ },
+ {
+  "url": "https://polyhaven.com/a/wooden_lantern_01",
+  "fuente": "Poly Haven, API v2/assets",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Farol de madera, modelo 3D CC0",
+  "para_que": "iluminación de escena de aldea (punto 3)",
+  "licencia": "CC0 (dominio público) — Poly Haven"
+ },
+ {
+  "url": "https://danbooru.donmai.us/posts?tags=princess_zelda+rating%3Ageneral+order%3Ascore",
+  "fuente": "Danbooru (rating:general, order:score)",
+  "ancho": 3582,
+  "alto": 2026,
+  "que_es": "Fan art mejor valorado de Zelda, por la artista the_only_shoe",
+  "para_que": "referencia de estilo/pose de fan art (punto 3), nunca para pegar",
+  "licencia": "© de la artista; sólo referencia con enlace y autor"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/29/OoT_Link_Artwork.png",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 2782,
+  "alto": 3463,
+  "que_es": "Link adulto, túnica verde clásica (Ocarina of Time)",
+  "para_que": "medición de color de la túnica icónica (punto 15)",
+  "licencia": "© Nintendo; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1e/ALBW_Link_Artwork.png",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 3373,
+  "alto": 3609,
+  "que_es": "Link, túnica verde oliva (A Link Between Worlds)",
+  "para_que": "medición de color de vestuario por arco (punto 15)",
+  "licencia": "© Nintendo; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/08/BotW_Link_Shooting_Artwork_2.png",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 985,
+  "alto": 1407,
+  "que_es": "Link disparando flecha, Túnica del Prócer/Campeón azul (Breath of the Wild)",
+  "para_que": "medición de color de la túnica BotW (punto 15)",
+  "licencia": "© Nintendo; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/eb/ALBW_Princess_Zelda_Artwork.png",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 2158,
+  "alto": 2659,
+  "que_es": "Zelda, vestido azul grisáceo con dorado (A Link Between Worlds)",
+  "para_que": "medición de color del vestido (punto 15)",
+  "licencia": "© Nintendo; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0f/BotW_Zelda_Artwork.png",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 2645,
+  "alto": 2992,
+  "que_es": "Zelda, traje casual de exploradora azul petróleo (Breath of the Wild)",
+  "para_que": "medición de color del traje BotW (punto 15)",
+  "licencia": "© Nintendo; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c9/TotK_Princess_Zelda_Artwork.png",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 790,
+  "alto": 1058,
+  "que_es": "Zelda exploradora con la Zelda-espíritu detrás, vestido crema con dorado (Tears of the Kingdom)",
+  "para_que": "medición de color del vestido del espíritu (punto 15)",
+  "licencia": "© Nintendo; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8f/HWL_Ganondorf_Thief%27s_Trident_Artwork.png",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 3130,
+  "alto": 3810,
+  "que_es": "Ganondorf con tridente, armadura de cuero y capa roja (Hyrule Warriors Legends)",
+  "para_que": "medición de color de armadura y capa (punto 15)",
+  "licencia": "© Nintendo/Koei Tecmo; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/23/OoT_Ganondorf_Artwork.png",
+  "fuente": "Fandom (zelda wiki)",
+  "ancho": 2122,
+  "alto": 3734,
+  "que_es": "Ganondorf humano, piel y armadura oscura (Ocarina of Time)",
+  "para_que": "medición de color de piel y armadura (punto 15)",
+  "licencia": "© Nintendo; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/5d/wallhaven-5dodx5.png",
+  "fuente": "Wallhaven (API v1/w)",
+  "ancho": 2559,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla fan de Link y Zelda abrazados con el Castillo de Hyrule al fondo (BotW), por PhoenixBlood",
+  "para_que": "fondo de pantalla en alta resolución (punto 16)",
+  "licencia": "© del autor; uso personal, Wallhaven no da licencia libre"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/3z/wallhaven-3z85yy.jpg",
+  "fuente": "Wallhaven (API v1/w)",
+  "ancho": 2000,
+  "alto": 1129,
+  "que_es": "Fondo de pantalla fan de Zelda y Link (TotK), por bubbleboba",
+  "para_que": "fondo de pantalla en alta resolución (punto 16)",
+  "licencia": "© del autor; uso personal"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/yx/wallhaven-yxg9rg.jpg",
+  "fuente": "Wallhaven (API v1/w)",
+  "ancho": 2000,
+  "alto": 1122,
+  "que_es": "Fondo de pantalla fan de Link (TotK), por Rynios",
+  "para_que": "fondo de pantalla en alta resolución (punto 16)",
+  "licencia": "© del autor; uso personal"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6d/wallhaven-6dz5p6.jpg",
+  "fuente": "Wallhaven (API v1/w)",
+  "ancho": 4000,
+  "alto": 2500,
+  "que_es": "Fondo de pantalla fan de Zelda, por Owl279",
+  "para_que": "fondo de pantalla en alta resolución (punto 16)",
+  "licencia": "© del autor; uso personal"
  }
 ]
