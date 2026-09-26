@@ -371,3 +371,44 @@ Compositor: **Shoji Meguro**, del Atlus Sound Team. Sale en los créditos en gra
 - **Bandas sonoras publicadas:** OST en FLAC ([Internet Archive](https://archive.org/details/persona-5-ost-flac), 46 124 descargas), *Royal Straight Flush Edition* ([Internet Archive](https://archive.org/details/persona-5-royal-straight-flush-edition-original-soundtrack)), y hasta un *Prototype Soundtrack* ([MusicBrainz](https://musicbrainz.org/release-group/cf25ed0d-fa81-4d11-bf72-89cbf08140d3)). ✅
 - La portada del OST es el círculo rojo y negro en espiral con Joker (nº114). Sirve de disco en Blender.
 
+## 10 · Vídeos
+
+**Oficiales, mirados con `fotogramas.py`**
+- Tráiler de lanzamiento, 2:01, doblado al inglés. Shinjuku, Velvet Room, Palacio y Steelbook ([vídeo](https://www.dailymotion.com/video/x89juaf)). ✅ 60 676 vistas, el más visto.
+- Tráiler cinemático de *Royal*, 1:40, en estilo anime ([vídeo](https://www.dailymotion.com/video/x8gjqsv)). ✅ Subido por dos canales.
+- Tráiler *Finish 'Em* de *Royal*, los ataques finales ([vídeo](https://www.dailymotion.com/video/x8exg6p)). ✅
+- Infiltración en Palacios y Sombras ([vídeo](https://www.dailymotion.com/video/x8afeg6)). ✅
+- All-Out Attack de Joker ([vídeo](https://www.dailymotion.com/video/x4nn82v)), de Ryuji ([vídeo](https://www.dailymotion.com/video/x4mxiax)) y de Ann ([vídeo](https://www.dailymotion.com/video/x4nn845)), unos 30 s cada uno. ✅ Sirven fotograma a fotograma.
+- Presentación de Morgana ([vídeo](https://www.dailymotion.com/video/x51by64)), Morgana en el café de maids ([vídeo](https://www.dailymotion.com/video/x4ppmvg)) y tráiler de Ann de *Royal* ([vídeo](https://www.dailymotion.com/video/x7cq9qv)). ✅
+- Anime: tráiler #2 ([vídeo](https://www.dailymotion.com/video/x6gu5mf)), primeros 6 minutos del episodio 1 ([vídeo](https://www.dailymotion.com/video/x6gzgvk)), playa del episodio 18 doblado al inglés ([vídeo](https://www.dailymotion.com/video/x6uu26k)) y ending 1 ([vídeo](https://www.dailymotion.com/video/x6hui2b)). ✅
+- Vandal explica el doblaje al inglés, en español de España ([vídeo](https://www.dailymotion.com/video/x72nes2)). ✅ No trae frases de personajes.
+
+**Tendencias** (sin cifras al día: TikTok no da API)
+- Edits con «Beneath the Mask» sobre Ryuji, Joker, Akechi y Ann: uno con 76 100 «me gusta» ([TikTok](https://www.tiktok.com/@arg0nt/video/7385933368178855173)). ⚠️
+- Cover en clave *cyberjazz* de «Beneath the Mask» ([TikTok](https://www.tiktok.com/@solenevelvet/video/7432041669861756206)). ⚠️
+- Etiqueta «Last Surprise edit» ([TikTok](https://www.tiktok.com/discover/persona-5-last-surprise-edit)). ⚠️
+- Recopilación de todos los All-Out Attack de *Royal* ([YouTube](https://www.youtube.com/watch?v=ZG3mxYz165U)) y lista de reacciones «Gamers React» ([YouTube](https://www.youtube.com/playlist?list=PLPdb4thXhGxAQG5qmqrF_f_XDOiULQXq_)). ⚠️ Sólo título: YouTube pide cuenta.
+- Lo que más se comparte: el **All-Out Attack**. ⚠️ Deducido de los títulos.
+
+## 11 · Videojuegos: interfaz y menús
+
+La interfaz de Persona 5 es la razón del encargo: la más copiada de los juegos.
+
+| Juego | Año | Qué tiene su interfaz | Fuente |
+|---|---|---|---|
+| *Persona 5* | 2016 | Caja negra torcida, calendario, menú en diagonal con línea blanca central | ✅ [Game UI Database](https://www.gameuidatabase.com/gameData.php?id=72) |
+| *Persona 5 Royal* | 2019/2022 | Lo mismo, más la página de cómic de Confidente | ✅ [Game UI Database](https://www.gameuidatabase.com/gameData.php?id=618) y capturas de Steam |
+| *Persona 5 Strikers* | 2020/2021 | Acción: menú rojo en diagonal **PERSONA / ATTACK / SUPPORT / GUN**, contador de «Actions», vida y SP arriba a la izquierda | ✅ [captura](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382330/ss_dcf8139ee8becf74ebbcda5d818ea4d9f16dc64f.1920x1080.jpg) |
+| *Persona 5 Tactica* | 2023 | Mismo calendario y diálogo, con morado del nuevo enemigo e iconos de cobertura y turno | ✅ captura de Steam |
+| *Persona5: The Phantom X* | 2025 | Gacha: retrato, cinta de nombre, calendario, rojo y negro | ✅ captura de Steam |
+
+- Game UI Database cataloga: diálogo, elección de respuesta, menús, objeto conseguido, cinemáticas, pantalla de resultados, habilidades, equipo, mapa y diario. ✅
+- **Cómo se diseñó** (Masayoshi Suto, CEDEC 2017, [Famitsu](https://www.famitsu.com/news/201711/13145540.html)) ✅
+  - Una **línea blanca central** guía la vista en los menús.
+  - Al bajar un nivel de menú **cambian el ángulo y la composición**, para que se note.
+  - Lo importante brilla más; lo secundario, menos.
+  - Casi ningún color aparte del rojo: sólo la vida y el SP.
+  - Gráficos en **vectores**, para escalar entre PS3 y PS4.
+- Idiomas: en *Royal*, *Strikers* y *Tactica* hay español de España, japonés, coreano y chino en texto ([Steam de *Strikers*](https://store.steampowered.com/app/1382330)). ✅
+- **The Cutting Room Floor** (contenido descartado): bloqueado por Cloudflare, 403 en dos intentos ([tcrf.net](https://tcrf.net/Persona_5)). ⚠️ Queda el *Prototype Soundtrack* de §9 como rastro de la beta.
+

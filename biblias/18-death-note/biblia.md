@@ -329,10 +329,13 @@ usó Dailymotion con `fotogramas.py`):
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] Sin imágenes descargadas
-> Ni la wiki de Fandom ni las webs oficiales se dejaban abrir. Aquí van
-> **las fuentes que existen y dónde buscarlas** desde el PC de la lámina.
-> Las imágenes, **ábrelas y comprueba el tamaño** antes de usarlas.
+> [!note] Primera pasada sin imágenes; segunda pasada con 1181
+> En la primera pasada ni la wiki de Fandom ni las webs oficiales se
+> dejaban abrir: 3.1 a 3.5 son **las fuentes que existen y dónde
+> buscarlas**. En la segunda pasada `investigar_serie.py` bajó **1181
+> imágenes** de 6 páginas de la wiki (Light, L, Ryuk, Misa, Near, Mello),
+> con su tamaño real: lo nuevo está en 3.6 y en «Las hojas de contacto»,
+> justo después.
 
 ### 3.1 El manga (Tsugumi Ohba y Takeshi Obata, Shūeisha, 2003-2006)
 
@@ -376,8 +379,14 @@ usó Dailymotion con `fotogramas.py`):
   entrevista en [Madhouse](https://www.madhouse.co.jp/works/2006-2005/works_tv_deathnote_interview.html);
   no pude abrir la página).
 - Hay una entrevista larga sobre **color y fotografía** con Araki
-  ([fullfrontal.moe, 2024](https://fullfrontal.moe/tetsuro-araki/)): no
-  pude leerla ⚠️.
+  ([fullfrontal.moe, 2024](https://fullfrontal.moe/tetsuro-araki/)).
+  **Leída en la segunda pasada**: lo que dice está en «Punto 18» ✅.
+- **Segunda pasada, equipo según AniList** (`datos-texto.md`): diseño de
+  personajes **Masaru Kitao**, dirección de arte **Mio Isshiki**, diseño
+  de arte **Shinji Sugiyama**, diseño de color **Satoshi Hashimoto** ✅.
+  Kitao e Isshiki quedan confirmados con dos fuentes. El color: AniList
+  dice **Satoshi** Hashimoto y el resumen japonés de la primera pasada
+  decía **Ken** Hashimoto (橋本賢) ⚠️ (no se resolvió; usa el de AniList).
 - **Ediciones**: 13 DVD en Japón (dic. 2006 a dic. 2007); **caja de
   Blu-ray** el 19 de octubre de 2016 ⚠️ (una fuente); en EE. UU., Viz
   «The Complete Series» ✅ ([Viz](https://www.viz.com/anime/tv-series/death-note-video-box-sets/product/4770),

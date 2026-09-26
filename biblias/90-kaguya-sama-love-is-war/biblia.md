@@ -1193,3 +1193,129 @@ batallas con título y un narrador lo cuenta como un partido. Lo nuevo:
   «一人負け» («pierde él solo»), «ワナワナ», «ハッ», «Ishigod», «IQ de 3»,
   «お可愛いこと».
 
+## Tres conceptos de lámina
+
+Tres ideas distintas entre sí y distintas de las de la biblia 43 (naipe,
+fanbook, tablón): **letras de oro 3D** sobre la mesa, **un móvil** con el
+chat y **una cartulina** de broma. Tres personajes: el protagonista como
+víctima del gag, el secundario del meme y la más querida. Todas hablan con
+**rótulos de la serie** (punto 6.3), nunca con un globo blanco.
+
+### A ⭐ · #🎞️・edicion — «Rótulo de presidente»
+
+- **Objeto y sitio**: la palabra **«EDICIÓN» en letras de oro 3D**, de pie
+  sobre la **mesa larga de la sala del consejo**, como la cartela «生徒会長»
+  (ep. 2, 3:44, `rotulos_02` #2) pero hecha objeto. **Blender**: la sala es
+  el [modelo CC BY](https://sketchfab.com/3d-models/kaguya-samalove-is-war-student-council-ver-287ebc7d09b945589b70eeb9c8c37e0d)
+  (crédito a kaguyasama_fanart); las letras, un objeto Texto con Zen Old
+  Mincho 900, *Extrude*, *Bevel* y metal `#E2C47F` (receta del punto 18). La
+  luz de tarde de los ventanales resbala por el bisel y **refleja el oro en
+  la madera**. Detrás de las letras, **rayos y estallidos blancos** pintados
+  en 2D, como si el gag irrumpiera en la sala.
+- **Personaje**: **Shirogane** detrás de la mesa, **manos entrelazadas,
+  sonrisa ladeada y una gota de sudor** (ep. 2, 17:24, `poses_03` #13):
+  presume de un título que le queda grande. Se puede posar su
+  [modelo CC BY](https://sketchfab.com/3d-models/miyuki-shirogane-7fb8a907e2114b2cad3a45fe8ac403c7)
+  (crédito a maya_2023). En primer plano, a la izquierda, **Kaguya asomada
+  tras el marco de la puerta**, media cara y un ojo rojo `#AD0218` (17:04,
+  `poses_03` #11): espía, como en todo el episodio 2.
+- **Cómo habla**: con **fichas «Nota:»** verticales, blancas `#FFFFFF`, con
+  marco negro `#040409` grueso y filete fino, en **Shippori Mincho 700**,
+  pegadas al borde derecho **sin tapar caras**; una **etiqueta a mano** gris
+  `#594E40` en **Caveat**; y el **marcador largo** abajo.
+- **Dónde va cada texto**:
+  1. Las letras de oro sobre la mesa: **«EDICIÓN»**.
+  2. Ficha vertical, borde derecho: **«Nota: un hilo por cosa.»**
+  3. Segunda ficha, más abajo: **«Nota: montaje, subtítulos, miniaturas,
+     portadas y diseño.»**
+  4. Ficha pequeña junto a Kaguya, sin tocarle la cara: **«Nota: el
+     subtítulo nunca tapa la cara.»** (el hilo de ejemplo del canal).
+  5. Etiqueta a mano junto a Shirogane: **«el presi»**.
+  6. Marcador largo, abajo a la izquierda: título **«Resultado de hoy»**; el
+     porqué **«Lo terminado se enseña en galería.»**; y en letra gruesa
+     **«Aquí, el proceso.»** ⚠️ El inventario corta la frase del canal tras
+     «aquí»: el dueño debe confirmar ese final.
+- **Para que no quede plano**: el **marco de la puerta** y Kaguya delante,
+  desenfocados; el oro con reflejo sobre la madera; chispas blancas detrás
+  de las letras; una **franja de luz** de ventana cruzando la mesa;
+  Shirogane a media distancia; su cara **sin sombra** (*kagenashi*).
+- **Paleta**: la sala (biblia 43, punto 4) con la alfombra `#B62C5A`; el oro
+  `#E2C47F` y su brillo `#F1E4B6` como único color vivo, más el ojo rojo.
+- **Lámina 2 · las 10 etiquetas**: arriba, un **título de combate** como
+  «海VS山!!» (11:04) con **«DUDA VS RESUELTO»** en azul `#64CBEB` y verde
+  `#86E340` entre rayos rojos `#B60124`. Debajo, las otras 8 como **fichas
+  «Nota:»** en fila: Montaje, Subtítulos, Miniatura, Portada, Efectos,
+  Diseño, Proceso y **Truco que funciona**. A un lado, **Chika** con el dedo
+  en el labio (14:40, `poses_03` #9), la cara de la duda.
+- **Voz para un vídeo**: el narrador latino (Óscar Flores, 43) anunciando
+  «EDICIÓN» con fanfarria, como a 3:44.
+
+### B · #😂・memes — «El chat del consejo»
+
+- **Objeto y sitio**: un **móvil** en las manos de **Ishigami**, sentado en
+  el **sofá verde de la sala del consejo**. En la pantalla, el **chat** de
+  la serie: burbujas grises `#F3F3F3` con letra `#3A3A3C` (ep. 2, 7:12,
+  `rotulos_02` #3) y una **pegatina con borde blanco** (7:20, #15). Como el
+  marco es una pantalla, **los memes del chat son fotogramas reales**: la
+  ficha «備考：童貞» sobre el damero (15:52, `rotulos_02` #9) y el
+  «海VS山!!» (11:04, #4). **Blender**: un móvil sencillo con la pantalla
+  emisiva; la luz de la pantalla le da en la cara.
+- **Personaje**: **Ishigami** (4.º en AniList, 2.º en ねとらぼ, el
+  secundario del meme), hombros caídos, **cascos al cuello**, flequillo
+  sobre el ojo izquierdo y la cara del **Nendoroid «Cállate, idiota»** (ojos
+  de pez, boca plana) como referencia
+  ([Good Smile](https://www.goodsmile.com/en/product/11986/Nendoroid+Yu+Ishigami)).
+  Base 3D: su [modelo CC BY](https://sketchfab.com/3d-models/yu-ishigami-da365a42604842d093d5df14d43b47b0)
+  (crédito a maya_2023). Al fondo, desenfocada, **Chika con su móvil rosa y
+  corazones** (6:48, `poses_03` #3): es la que manda los memes.
+- **Cómo habla**: dentro del chat, en **M PLUS Rounded 1c**; su comentario,
+  como **ficha «Nota:»** seca al borde, en Shippori Mincho.
+- **Dónde va cada texto**:
+  1. Cabecera del chat, en la pantalla: **«Memes»**.
+  2. Burbuja de Chika: **«El meme, sin más.»**
+  3. Debajo, la imagen del meme (el fotograma de 15:52).
+  4. Burbuja de respuesta de Ishigami: **«Si lo doblas, va a
+     fandub-de-memes.»**
+  5. Ficha vertical, borde derecho: **«Nota: sin más.»**
+- **Para que no quede plano**: el **móvil muy cerca de la cámara**, algo
+  inclinado, con reflejo del ventanal en el cristal; la luz fría de la
+  pantalla en la cara de Ishigami contra la luz cálida de la sala; Chika y
+  sus corazones detrás; los cascos y el flequillo recortados contra la
+  ventana.
+- ⚠️ El canal «fandub-de-memes» **no sale en el inventario**: el dueño debe
+  decir si existe o cómo se llama.
+
+### C · #📖・textos — «Guion en cartulina»
+
+- **Objeto y sitio**: una **cartulina** grande escrita con rotulador, que
+  **Kaguya levanta con las dos manos** en la sala del consejo, como su cartel
+  de broma «Fooled You» (punto 6.2). **Blender**: un plano con curvatura
+  leve y papel [Paper001](https://ambientcg.com/view?id=Paper001); la tinta
+  sigue la curva y una esquina se dobla hacia la cámara.
+- **Personaje**: **Kaguya** (1.ª en AniList), con la **mirada roja de
+  «he ganado» y media sonrisa** (biblia 43, ep. 1, 24:24) asomando por
+  encima de la cartulina. Base 3D: su
+  [modelo](https://sketchfab.com/3d-models/kaguya-shinomiya-from-kaguya-sama-love-is-war-d7432156713648059a9c88aabe41b6ba)
+  (crédito a alexferrart3D, 43). Detrás, **Chika pillada**, boca torcida y
+  sudor (14:24, `poses_03` #8).
+- **Cómo habla**: la cartulina en **Permanent Marker**; las reglas en
+  **fichas «Nota:»** (Shippori Mincho 700); el remate en el **marcador
+  largo**.
+- **Dónde va cada texto**:
+  1. En la cartulina: **«Guiones para practicar»**.
+  2. Ficha vertical, borde derecho: **«Nota: un hilo por guion.»**
+  3. Segunda ficha: **«Nota: di si es libre o si pide permiso.»**
+  4. Marcador largo, abajo a la izquierda: título **«Resultado de hoy»**; el
+     porqué **«Monólogos, diálogos, escenas y narraciones.»**; y en letra
+     gruesa **«Para dos voces, también.»**
+- **Para que no quede plano**: la cartulina **delante** de Kaguya, tapándole
+  medio cuerpo, con su sombra sobre la mesa; la esquina doblada hacia
+  nosotros; Chika desenfocada al fondo; franjas de luz de tarde.
+- **Lámina 2 · las 9 etiquetas**: en **4 viñetas apiladas**, como el
+  spin-off «Kaguya-sama wo Kataritai» (punto 6.2): 1) **Monólogo, Diálogo,
+  Para dos voces**; 2) **Escena de anime, Comercial, Narración**; 3)
+  **Original**; 4) **Libre para usar** o **Pide crédito**. Chika explica en
+  cada viñeta con el dedo en el labio (14:40) y Kaguya remata en la última.
+- **Voz para un vídeo**: el diálogo de Tsubasa pidiendo consejo (punto 8)
+  como guion de ejemplo **para dos voces**.
+
