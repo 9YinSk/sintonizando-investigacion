@@ -501,3 +501,246 @@ de Shirogane
 - **Dinámicas**: le da a Shirogane un par de esposas de regalo navideño
   (punto 12); se hace amiga de Kaguya al compartir el mismo enamoramiento;
   discute con Kei por las mismas razones.
+
+### Punto 20 — Gustos y detalles de cada personaje (secundarios cómicos)
+
+43 ya hizo la tabla de Kaguya, Shirogane, Chika, Ishigami, Hayasaka, Miko y
+Kei. Repito **Kei con más detalle** (43 la dejó sin fila propia con datos
+completos — sólo la mencionó en una línea aparte) y sumo a Nagisa, Tsubasa,
+Adolphe, Kobachi, Papá Shirogane y Moeha. Cumpleaños, altura y sangre
+confirmados en **dos fuentes independientes**: la ficha en inglés de la wiki
+(que a su vez cita el capítulo o el *fanbook*) y la API pública de AniList
+(`graphql.anilist.co`, campo `Character.dateOfBirth`/`bloodType`, con
+`User-Agent` propio tras un primer 403 sin cabecera) — coinciden en los 6
+personajes con dato disponible.
+
+| Personaje | Cumpleaños | Altura | Sangre | Le gusta | No le gusta | Lo que siempre lleva | Fuente |
+|---|---|---|---|---|---|---|---|
+| Kei Shirogane | 1 de agosto (Leo) | 158 cm | B | El café negro (como su hermano); admira muchísimo a Kaguya, casi como un flechazo | Que la traten de niña; el derroche de dinero | Diadema con perla; ícono de LINE de una caja de té de limón (su bebida fija) | ✅ [Fandom](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kei_Shirogane) + [AniList #126144](https://anilist.co/character/126144) |
+| Nagisa Kashiwagi | 25 de junio (Cáncer) | 160 cm | B | El voluntariado (es su afición oficial); chismear sobre parejas con Kaguya | Que le sean infiel (llegó a contratar un detective) | Pinza doble en el lado izquierdo del pelo | ✅ [Fandom](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Nagisa_Kashiwagi) + [AniList #134330](https://anilist.co/character/134330) |
+| Tsubasa Tanuma | 25 de agosto (Virgo) | — | A | Presumir su relación con Nagisa; los aretes «de chico malo» que a ella le gustan | Nada registrado (nunca se enoja, ni con eso) | El nuevo peinado teñido que adoptó tras el verano | ✅ [Fandom](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Tsubasa_Tanuma) + [AniList #134327](https://anilist.co/character/134327) |
+| Adolphe Pescarolo | — (⚠️ sin dato) | — (⚠️) | — (⚠️) | Pokémon Go (lo juegan en horario escolar) | El descontrol de los alumnos… salvo el suyo propio | El uniforme de saco y chaleco del director | ⚠️ [Fandom](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Adolphe_Pescarolo) (campos vacíos también en AniList) |
+| Kobachi Osaragi | 6 de junio (Géminis) | 163 cm | B | Que le digan que es bonita; una revista *Boys' Love* que confiscó (le pareció «pretty hot») | Que subestimen a Miko | Sus lentes redondos, los usa desde niña | ✅ [Fandom](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kobachi_Osaragi) + [AniList #134331](https://anilist.co/character/134331) |
+| Papá Shirogane | — (⚠️ sin dato) | — (⚠️) | — (⚠️) | Su canal de YouTube «500 millones de yenes en deuda»; bromear con cara seria | Que le digan «DILF» dos veces (aunque él mismo lo inventó) | El teléfono con el que transmite en vivo | ⚠️ [Fandom](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Papa_Shirogane) (AniList #134893 también sin fecha) |
+| Moeha Fujiwara | 26 de junio (Cáncer) | 150 cm | AB | Fantasear con «encerrar» a la gente que quiere (a su manera); Shirogane, de quien está enamorada | Que Chika intente convencerla de lo contrario (le hace efecto rebote) | Coletas gemelas (a diferencia del lazo único de Chika) | ✅ [Fandom](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Moeha_Fujiwara) + [AniList #134329](https://anilist.co/character/134329) |
+
+**Cómo se ve cada uno**: Kei se ve «sólo» la hermana menor, sin saber que su
+hermano la admira en secreto; Nagisa se sabe «de las VIP» del colegio por su
+familia, pero no se cree capaz de mantener una relación sin vigilarla;
+Adolphe se ve un director estricto sin notar lo hipócrita que resulta (nadie
+en la wiki registra que él mismo se vea gracioso); Papá Shirogane se sabe un
+fracasado económico y por eso convierte su vida en contenido, con humor, en
+vez de esconderla.
+
+### Punto 21 — Por qué la gente se RÍE (43 ya cubrió el llanto)
+
+43 cerró el punto 21 con las escenas que hacen llorar (fuegos artificiales,
+doble confesión, arco de Hayasaka) y las cifras de ventas y premios
+generales. El encargo 90 pide fijarse en comedia, así que giro este punto
+hacia **por qué la serie hace reír** con reseñas y reconocimientos que 43 no
+citó, y las escenas de risa de los secundarios (punto 12) con su recepción.
+
+- **Kaguya-sama está en el Top 3 de «anime más gracioso de todos los
+  tiempos» en DOS listas de medios grandes distintos, de forma
+  independiente**: **CBR** la pone en el puesto 3 («turning every
+  interaction into a calculated strategy game to get the other to confess
+  their love first… absurd mind games, dramatic overreactions, and
+  perfectly delivered comedic timing») y **ScreenRant** también en el puesto
+  3 («a cat-and-mouse mind game… leads to all manner of absurdly laughable
+  situations») ✅ fuente 1: [CBR, «10 Funniest Anime Series of All
+  Time»](https://www.cbr.com/official-funniest-anime-series-of-all-time/) ·
+  fuente 2: [ScreenRant, «10 Funniest Anime Of All Time,
+  Ranked»](https://screenrant.com/funniest-anime-of-all-time-ranked/) — 43 ya
+  tenía los 2 premios Crunchyroll a Mejor Comedia (2019 y 2020); esto suma
+  reconocimiento de crítica occidental **específico de comedia**, no de la
+  serie en general.
+- **Las escenas que hacen reír de los secundarios** (todas con capítulo y
+  episodio confirmados en el punto 12): el regalo de las esposas de Moeha
+  (Kei: *«¡Moeha! ¿Lo drogaste, verdad?!»*); el descubrimiento del nombre de
+  Tsubasa tras 104 capítulos; Papá Shirogane proponiendo ser VTuber antes de
+  conformarse con «youtuber normal»; el director Adolphe jugando Pokémon Go
+  mientras regaña a alumnos por lo mismo; el chiste metanarrativo de Kaguya
+  («no es que quien confesé pierda o algo así») que el propio narrador señala
+  como un ataque a la premisa del manga.
+- **El fandom notó solo, sin ayuda de reseñas, el chiste de la voz de DIO**
+  en Papá Shirogane (punto 12): un hilo de r/anime de 2021 llamado *«New
+  theory!! Papa Shirogane is actually Dio Brando»* (5 comentarios) muestra
+  que el chiste llegó al público angloparlante por su cuenta, sin que se lo
+  explicaran ✅ https://reddit.com/r/anime/comments/oid9fd/.
+- **Con qué personaje se identifica el público, versión cómica**: TV Tropes
+  llama a Fujiwara «un desastre natural» que arruina o arregla los planes sin
+  darse cuenta (ya en 43); aquí el matiz nuevo es que el propio ranking de
+  ScreenRant/CBR atribuye la gracia de TODA la serie al mecanismo, no a un
+  personaje: es la «guerra mental» aplicada a tonterías (mudarse de casa, el
+  cumpleaños, un helado) lo que hace reír, más que un chiste puntual.
+- **Cómo está filmada la comedia** (dato que cruza con el punto 2 de la parte
+  de vídeo, que ya vio esto en el episodio 2): música orquestal falsamente
+  épica bajo hechos triviales, cartelas de texto tipo ficha de personaje
+  («no sabe nadar», «virgen») usadas como si fueran estadísticas oficiales, y
+  un marcador de «resultado del día» al estilo deportivo para discusiones sin
+  importancia — el gag de comedia depende tanto del dibujo/rótulo como del
+  diálogo, no sólo de lo que se dice.
+
+### Punto 22 — Fan dubs y comunidad hispana (comedia)
+
+43 ya listó 4 fandubs latinos en YouTube (My Dubber Heroes, «First Kiss Never
+Ends» ep. 1, «Síndrome de Manga Shoujo», «El Paraguas», «Fujiwara golpea a
+Ishigami»), covers del opening y la cuarentena de r/Kaguya_sama. Aquí sumo
+contenido **de comunidad sobre el propio doblaje** (no fandub sino aprecio
+del doblaje oficial, que es justo lo que interesa a este servidor) y
+reacciones nuevas, todo comprobado por metadato propio con `yt-dlp` cuando
+YouTube lo permitió (dio «Sign in to confirm you're not a bot» en 2 de 4
+intentos, ⚠️ anotado):
+
+- **«Las voces de KAGUYA-SAMA LOVE IS WAR en ESPAÑOL LATINO»**, canal **Voces
+  que dan vida** (Facebook, Instagram y TikTok activos como
+  `@vocesquedan_vida`) — vídeo dedicado por completo al elenco de doblaje
+  latino, mencionando a Leyla Rangel como directora; **45 861 vistas**,
+  10:00 min, publicado el 2-ago-2021 ✅ (metadato propio, `yt-dlp
+  --skip-download`) https://www.youtube.com/watch?v=mJmRRujQmKE — es
+  contenido hecho por y para gente que sigue el doblaje, no un fandub, pero
+  encaja de lleno con el foro del servidor.
+- **«REACCIÓN DOBLAJE LATINO de KAGUYA SAMA LOVE IS WAR»**, canal **HoliSofi**
+  — reacción específica al doblaje (no a la trama); **55 834 vistas**, 11:23
+  min, publicado el 1-ago-2021 ✅ (metadato propio)
+  https://www.youtube.com/watch?v=o6s67m5KWRI.
+- **«Las Voces de Kaguya-Sama 2021»**, canal **Doblajes Geeks** — mismo
+  formato de spotlight de voces, hallado por búsqueda ⚠️ (YouTube pidió
+  inicio de sesión a `yt-dlp` en 2 intentos, sin poder confirmar vistas ni
+  fecha por metadato propio) https://www.youtube.com/watch?v=zhNMFhXpyU0.
+- **«¿A dónde tan fachero?»**, clip corto de una escena doblada de **Ultra
+  Romantic** (T3) con un mexicanismo en el título («fachero», alguien
+  arreglado/vanidoso) — coherente con los mexicanismos ya documentados del
+  punto 8.2 y 12 ⚠️ (sólo hallado por búsqueda web, `yt-dlp` no pudo dar
+  metadato: mismo bloqueo de sesión) https://www.youtube.com/watch?v=8RXLlzAV-1I.
+- **El especial «Otona e no Kaidan» (con el arco cómico de Papá Shirogane
+  youtuber, punto 12) ya tiene reacciones en español**: *«¡¡NO ME LO PUEDO
+  CREER!!💖 Kaguya-sama wa Kokurasetai: Otona e no Kaidan REACCIÓN»* (emitido
+  en Japón en ene-2026, la reacción es a la versión japonesa/subtitulada,
+  **antes** de que llegara el doblaje latino con el reparto original
+  recuperado en ago-2026, que ya confirmó 43) ⚠️ (hallado por búsqueda,
+  título y fecha del resultado, sin metadato propio en esta tanda) —
+  https://www.youtube.com/watch?v=L1EmRkQLNuM; también hay contenido en
+  TikTok bajo la etiqueta **«Kaguya Sama Otona E No Kaidan En Español»** ⚠️
+  (búsqueda, sin poder abrir TikTok con `navegar.py` para contar vistas en
+  esta tanda).
+- **Reddit**: confirmado de nuevo que **r/Kaguya_sama** sigue sin resultados
+  en Arctic Shift (ya lo anotó 43 como cuarentena); pero **r/anime SÍ
+  devuelve resultados** con la búsqueda correcta (`title=`, no `q=`) — ahí
+  está el hilo del punto 21 sobre Papá Shirogane/DIO, y dos hilos más:
+  *«The Funniest Romance Anime Ever [Kaguya-sama: Love Is War]»* y *«The
+  Funniest Misunderstanding - Kaguya-sama Love is War Season 2»* ⚠️ (0
+  votos ninguno de los dos, poca participación, pero confirman que el
+  ángulo de «comedia» es justo el que discute el fandom angloparlante en
+  Reddit sobre esta serie, no el romance).
+- **Idea para el servidor** (más allá de las dos ya propuestas por 43): el
+  regalo de las esposas de Moeha (texto corto, tres voces: Moeha, Kei,
+  Shirogane) o la escena de Kei robándole el celular a Miyuki para chismear
+  con Fujiwara (tres voces también) son **retos de doblaje cortos, 100%
+  cómicos y con personajes que casi nunca se doblan en fandubs existentes**
+  (a diferencia de Kaguya/Chika/Miyuki, ya muy repetidos por los fandubs que
+  encontró 43).
+
+## Lo mejor para la lámina
+
+- El «Papá de Shirogane» con voz de DIO (punto 12/13): cara de villano +
+  frases de padre torpe es el contraste más gracioso y más «de doblaje» de
+  toda la serie — ideal si el canal habla de actuación de voz o de
+  contrastes de personaje.
+- El regalo de las esposas de Moeha (Kei: *«¡Moeha! ¿Lo drogaste,
+  verdad?!»*): tres voces, cómico, con personajes poco explotados por los
+  fandubs ya existentes.
+- La ficha «no sabe nadar / virgen» sobre Ishigami (ya la vio el
+  investigador de vídeo en el ep. 2): plantilla exacta de cartela cómica
+  «dato-privado-vuelto-estadística», reutilizable para el canal.
+- Kaguya-sama en el Top 3 de dos rankings de comedia (CBR y ScreenRant) es
+  un dato de peso para justificar por qué el canal usa esta serie y no otra
+  más dramática.
+- Kei Shirogane (voz Amanda Hinojosa) y Kobachi Osaragi (voz Jocelyn Robles,
+  la MENOS expresiva medida en todo el reparto) son los dos extremos de
+  tono que sirven para explicar el rango de un elenco de doblaje.
+
+## No encontré
+
+- **Vídeo propio con minuto** de las escenas de Kei, Nagisa, Tsubasa,
+  Adolphe, Kobachi, Papá Shirogane o Moeha: el único episodio descargado por
+  el equipo (ep. 2, del investigador de vídeo) no los muestra; usé arte de
+  la wiki en su lugar, con tamaño medido. Búsquedas hechas: `internet
+  archive kaguya-sama season 2`, `kaguya-sama Otona e no Kaidan streaming`
+  (sin acceso a más episodios en esta tanda).
+- **Muestra de audio de Moeha Fujiwara**: Doblaje Wiki no trae un `.ogg`
+  propio para ella (sólo aparece nombrada en la tabla de reparto); su voz
+  latina (Marisol Hamed) queda con una sola fuente (AniList) sin frase
+  transcrita.
+- **Segunda fuente para el clip «¿A dónde tan fachero?»** y para
+  «Doblajes Geeks»: YouTube pidió inicio de sesión a `yt-dlp` en ambos casos
+  (2 intentos cada uno, con espera entre reintentos); quedan con una sola
+  fuente (el resultado de búsqueda) ⚠️.
+- **Vistas/comentarios de las reacciones a «Otona e no Kaidan»** en TikTok:
+  `navegar.py` no pudo abrir la página de descubrimiento de TikTok en esta
+  tanda (carga por scroll infinito, sin selector fijo); queda sólo el título
+  hallado por búsqueda.
+- **Altura y cumpleaños de Adolphe Pescarolo y Papá Shirogane**: ni la wiki
+  en inglés ni AniList los traen (campos vacíos en ambas fuentes,
+  comprobado); no es un vacío de esta investigación, es un vacío real de la
+  obra (ninguno de los dos es un personaje jugable/coleccionable con ficha
+  de *databook*, a diferencia del resto).
+
+## Bitácora
+
+- Punto de partida: `datos-voz.md` (recolector automático) y
+  `biblias/43-kaguya-sama-love-is-war/partes/voz.md` completo, leído entero
+  con `herramientas/seccion.py 43-kaguya-sama-love-is-war --rol voz` antes de
+  empezar — de ahí salió qué NO repetir (puntos 7, 8, 12, 13, 20, 21, 22 ya
+  hechos por 43 con foco general) y qué secundarios cómicos priorizar (Kei,
+  Nagisa, Tsubasa, Adolphe, Kobachi, Sr. Shirogane, Moeha).
+- Revisadas también `biblias/90-kaguya-sama-love-is-war/partes/imagen.md` y
+  `video.md` (mismo encargo, ya terminadas) para no repetir hallazgos de
+  comedia/rótulos de esos investigadores y para confirmar el dominio de la
+  wiki de Fandom en inglés (`kaguyasama-wa-kokurasetai.fandom.com`, que el
+  investigador de vídeo no localizó al probar sólo variantes sin guion).
+- `curl` a `kaguyasama-wa-kokurasetai.fandom.com/api.php` (`action=parse`,
+  `prop=wikitext`): fichas completas de Kei Shirogane, Nagisa Kashiwagi,
+  Tsubasa Tanuma, Adolphe Pescarolo, Kobachi Osaragi, Papá Shirogane y Moeha
+  Fujiwara; además los capítulos 6, 73, 100, 104, 106, 122, 149, 191 y 200
+  (`prop=wikitext`, campo `Anime Episode`) para confirmar qué gags están
+  animados y en qué episodio.
+- `api.php?action=query&prop=imageinfo&iiprop=url|size` sobre 16 archivos de
+  la wiki (galerías `Kei_Shirogane/Image_Gallery`, `Nagisa_Kashiwagi/Image_Gallery`,
+  y las páginas de Tsubasa, Kobachi, Papá Shirogane y Moeha): tamaños
+  medidos, 9 imágenes descargadas con cabecera `Referer: fandom.com` a
+  `/tmp/claude-0/.../scratchpad/90-voz-img/` y **miradas con Read**
+  (obligatorio, no de memoria) antes de describir cada expresión.
+- TV Tropes, página **Funny** (no la YMMV que ya usó 43):
+  `https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar` — el
+  texto normal (`navegar.py` sin `--html`) sólo trae los títulos de carpeta
+  (el contenido está oculto por CSS, no por JavaScript bajo demanda); lo
+  resolví pidiendo `navegar.py --html --max 0`, guardando el HTML e
+  interpretándolo con BeautifulSoup (`div.folder` trae el texto completo
+  aunque esté colapsado) — 32 volúmenes, ~104 000 caracteres, filtrados por
+  nombre de personaje con Python (nunca impresos enteros).
+- `graphql.anilist.co` (`Character(search:)`, con `User-Agent` propio tras un
+  primer 403 sin cabecera): cumpleaños, sangre y favoritos de Kei, Nagisa,
+  Tsubasa, Kobachi, Moeha, Adolphe y Papá Shirogane — segunda fuente
+  independiente para la tabla del punto 20, coincide con la wiki en los 6
+  personajes con dato disponible.
+- `arctic-shift.photon-reddit.com`: confirmado que el parámetro correcto es
+  `title=`, no `q=` (con `q=` siempre da 0 resultados aunque haya hilos) —
+  hallazgo útil para el resto del equipo. `subreddit=anime` con
+  `title=Papa%20Shirogane` y `title=Kaguya-sama%20funniest` dan resultados
+  reales; `subreddit=Kaguya_sama` sigue en 0 (cuarentena, ya lo sabía 43).
+- `yt-dlp --skip-download --print` sobre 4 vídeos de YouTube hallados por
+  búsqueda: 2 dieron metadato completo (título, canal, vistas, fecha), 2
+  pidieron inicio de sesión («Sign in to confirm you're not a bot») incluso
+  tras reintentar una vez — no se insistió más (regla de AYUDANTE.md).
+- WebSearch (español e inglés, 6 búsquedas): «Kaguya-sama Papa Shirogane DIO
+  voice funniest reddit», «Kaguya-sama Tsubasa Tanuma 104 chapters name
+  reveal joke», «Kaguya-sama doblaje latino blooper anecdota gracioso
+  entrevista actor», «Kaguya-sama fandub español Papá de Shirogane OR señor
+  Shirogane gracioso», «Otona e no Kaidan doblaje latino reacción TikTok OR
+  YouTube 2026», «Kaguya-sama funniest anime ranked list comedy award».
+- WebFetch sobre CBR y ScreenRant (las 2 listas de «anime más gracioso»)
+  para confirmar puesto y cita textual, sin inventar la posición de memoria.
+- Herramienta nueva usada: `pip install beautifulsoup4` (no venía instalada;
+  necesaria para leer las carpetas colapsadas de TV Tropes) — dejo la nota
+  para el resto del equipo por si a alguien más le hace falta.

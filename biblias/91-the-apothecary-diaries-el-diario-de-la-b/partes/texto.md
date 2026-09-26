@@ -27,7 +27,7 @@ descartó sin usar ningún dato de ahí).
 El título original, **「薬屋のひとりごと」 (Kusuriya no Hitorigoto)**, se traduce literalmente «El monólogo/soliloquio de la boticaria» ✅ ([Wikipedia](https://en.wikipedia.org/wiki/The_Apothecary_Diaries)): la serie entera está narrada como el monólogo interior de Maomao. Esto es la clave de cómo «habla y piensa» en pantalla.
 
 - **Manga** (Nekokurage, Square Enix, `Monthly Big Gangan`): globo ovalado de línea fina y limpia, sin relleno ni tramas de color, igual que el estándar del manga seinen/josei ✅ (visto en `Chapter_6.jpg`, panel de grupo con globos pequeños). El sombreado usa **trama de puntos (screentone)** clásica para la piel y las sombras del pelo, muy visible en las ilustraciones de Jinshi (`Jinshi_Full_Manga.jpg`) ✅ — dato que también sirve para el punto 18/19 (textura).
-- **Cartelas del anime** (avisos de «próximo episodio» y título de cada capítulo): fondo real del fotograma (nunca una caja plana), texto blanco fino con leve sombra, **sin caja de color** — measured en `KusuriyaHitorigoto-Anime-S01-Ep12.png`: arriba a la izquierda «次回予告» (avance), abajo a la derecha el número y el título del capítulo. Otra portada de capítulo del manga (`Chapter_5.jpg`) pone el título abajo a la izquierda sobre una ilustración a color, con furigana diminuta. **Qué NO hacer**: una caja blanca de cómic occidental — aquí el texto siempre flota sobre la ilustración o el fotograma, sin fondo propio.
+- **Cartelas del anime** (avisos de «próximo episodio» y título de cada capítulo): fondo real del fotograma (nunca una caja plana), texto blanco fino con leve sombra, **sin caja de color** — medido en `KusuriyaHitorigoto-Anime-S01-Ep12.png`: arriba a la izquierda «次回予告» (avance), abajo a la derecha el número y el título del capítulo. Otra portada de capítulo del manga (`Chapter_5.jpg`) pone el título abajo a la izquierda sobre una ilustración a color, con furigana diminuta. **Qué NO hacer**: una caja blanca de cómic occidental — aquí el texto siempre flota sobre la ilustración o el fotograma, sin fondo propio.
 - **El monólogo interior de Maomao** (el «hitorigoto» del título): en el anime se resuelve con **voz en off** (la actriz susurra sus pensamientos sobre la imagen, sin texto en pantalla) según se desprende de las reseñas sobre el tono de la serie ⚠️ (no verifiqué un fotograma con texto de pensamiento en el anime; puede no llevar caja propia, a diferencia del formato que sí usa el videojuego, ver abajo).
 - **Videojuego de KOEI TECMO** (`The Apothecary Diaries: The False Imperial Brother`, 2027): aquí sí hay una **caja de pensamiento explícita**: un rótulo blanco redondeado, con una pequeña cola hacia el busto del personaje en la esquina inferior izquierda, en cursiva ligera, para el monólogo de Maomao mientras explora («Some flowers are there to look beautiful… But I'd prefer flowers that could be used as medicine.») ✅ (medido en la captura de Steam `steam2_aceacc44…jpg`). Es el cuadro más fiel a la esencia «hitorigoto» de toda la franquicia y el más recomendable para una lámina.
 - **Pantallas de deducción del mismo juego**: título en mayúsculas gruesas arriba a la izquierda («REVIEW MEMORY», «CHOOSE RESPONSE»), una **fila de rombos** debajo a modo de medidor (el último, rosa, destaca) y opciones de respuesta en una lista sobre panel oscuro semitransparente con esquinas rectas ✅ (medido en las mismas capturas). Etiquetas de ubicación en el mapa van en rótulos redondeados verdes (la pista correcta) o grises translúcidos (las demás).
@@ -55,6 +55,8 @@ Hay **dos juegos**, ninguno lanzado aún del todo (uno ya en servicio, otro anun
 - **Dirección**: el director de temporada 2, **Akinori Fudesaka**, explica que transmiten la emoción «a través de los ángulos de cámara, los colores, los fondos, el procesado de filmación y el sonido», cuidando que cada personaje «viva de verdad en ese mundo» ✅ (cita directa, [Mantan Web](https://en.mantan-web.jp/e_article/20250223dog00m200048000c.html)). El director de la 1ª temporada, Norihiro Naganuma, dijo que pensaba en «vibrance» (viveza de color) como palabra clave para el público internacional ✅ ([ScreenRant](https://screenrant.com/apothecary-diaries-interview-norihiro-naganuma/), resumen).
 - **Rigs y tramas**: ver puntos 3 y 19 (los trae el investigador de imagen).
 - Manga: screentone (trama de puntos) clásico para sombras y piel, línea de pincel fina y uniforme, fondos muy trabajados de flores en las páginas de personajes importantes (ver `Jinshi_Full_Manga.jpg`) ✅ (visto por mí).
+- **Filtros de la animación**: en los fotogramas que miré (interiores de palacio, `KusuriyaHitorigoto-Anime-S01-Ep12.png` y la captura de Steam de Jinshi) hay un **brillo/bloom cálido marcado** en las escenas con luz de ventana o vela (la luz «rebosa» sobre los bordes del personaje) ✅ (visto por mí). No vi grano de película explícito ni aberración cromática en ninguno de los fotogramas que miré ⚠️ (puede haber en otras escenas que no revisé; no lo afirmo ni lo descarto).
+- **Encuadres típicos, vistos por mí en los fotogramas y capturas revisadas**: primer plano muy cerrado a nivel de ojos para momentos de tensión o sospecha (la cara enfadada de Maomao en `steam_cf6882e3…jpg`, simétrica, sin ladear la cámara); plano medio de tres cuartos con luz de ventana detrás para presentar a un personaje con carisma (Jinshi en `steam_ce36b8dd…jpg`); plano general de interior de palacio con personajes en primer y segundo término y la arquitectura dorada de fondo, a contraluz, para escenas de corte o reunión social (`KusuriyaHitorigoto-Anime-S01-Ep12.png`). En Blender: cámara a la altura de los ojos del busto para el primer plano de sospecha, luz de relleno cálida detrás del personaje para el plano de tres cuartos.
 
 ## 24 · Obras parecidas y temas relacionados
 
@@ -75,3 +77,45 @@ Hay **dos juegos**, ninguno lanzado aún del todo (uno ya en servicio, otro anun
   - Los **clanes con nombre** (unas 20 familias) forman la aristocracia; cada clan recibe un carácter kanji propio del Emperador, prendido delante del apellido de nacimiento (p. ej. la protagonista es hija ilegítima del **Clan La**, apellido de nacimiento Kan/漢, carácter de clan La/羅) ✅ ([wiki: Clans](https://kusuriya.fandom.com/wiki/Clans)). Cada clan guarda una **reliquia** que el jefe de familia porta ante el Emperador — es el objeto-emblema más parecido a un «escudo de armas» de la serie.
   - El **tablero de Go** es el objeto de cabecera de **Lakan** (el padre biológico de Maomao, estratega excéntrico) — coherente con la etiqueta oficial «Go» al 44 % en AniList (ya en `datos-texto.md`) ✅.
   - **Vocabulario que un fan reconoce al instante**: *Kōkyū* (palacio interior/harén), *hitorigoto* (el «monólogo» del título), los **lunares/pecas falsas** que Maomao se pinta con arcilla y aceite para parecer vulgar y pasar desapercibida (su disfraz de toda la serie) ✅ ([wiki: Maomao, Appearance](https://kusuriya.fandom.com/wiki/Maomao)), y el nombre de las provincias (Central, Norte del Clan Shi, Oeste del Clan Yi/You).
+
+## Lo mejor para la lámina
+
+1. La caja de pensamiento del videojuego de KOEI TECMO (punto 6) es, con diferencia, el cuadro de diálogo más fiel al «hitorigoto» (monólogo) que da nombre a la serie: rótulo blanco redondeado con cola hacia el busto, cursiva ligera. Úsalo tal cual para que Maomao «hable» en la lámina.
+2. Línea de contorno medida en dos fotogramas oficiales: **`#6E6255`** (día) / **`#674443`** (noche) — nunca negro puro. Aplica directamente en Photoshop (pincel de tinta) y en Blender (Freestyle/Solidify).
+3. Fuente exacta y verificada del logo en inglés: **Black Chancery** (freeware, con tildes/ñ/¿/¡ comprobados) — no hace falta aproximar, es la misma que usa la edición oficial y que copió Netflix.
+4. Objeto real para una lámina en Blender: un **tablero de Go** (el de Lakan) o una **reliquia de clan** — encajan con la regla del dueño de «un objeto real en un sitio real», y el Go ya sale como etiqueta oficial (44 %) en los propios datos de AniList.
+5. El personaje secundario con más gancho para un canal de misterio/investigación: **Lakan**, el padre biológico estratega y jugador de Go de Maomao — mucho más visual (parche en el ojo, monóculo, tablero) que otro retrato más de Maomao o Jinshi de pie.
+
+## No encontré
+
+- El nombre exacto de la tipografía japonesa de los globos del manga (busqué «manga font database Apothecary Diaries», sin resultado propio; sólo el estándar del sector). ⚠️
+- Confirmación de primera mano (no resumen de IA) de que Fontworks/Monotype usa la familia Tsukushi en el logo: su página de casos (`en.fontworks.co.jp/case/10449/`) es una SPA que no entrega el detalle ni con `navegar.py --espera` ni con selector; sólo tengo el resumen de búsqueda. ⚠️
+- La cita original en japonés de Hyūganatsu sobre Dorohedoro como influencia (sólo la vi de segunda mano, en un hilo de X que resume la revista Da Vinci). ⚠️
+- Capturas de la interfaz real (no arte promocional) del juego de navegador G123 «Palace Chronicles»: sólo encontré ilustraciones de marketing, no pantallazos de la simulación en sí. ⚠️
+- Contenido descartado en TCRF: no aplica todavía — los dos videojuegos de la franquicia son nuevos (uno recién lanzado en junio de 2026, el otro sin fecha fija hasta 2027), así que no hay nada que datar.
+- Un desglose oficial de la historia en «arcos» con nombre propio (tipo «arco de la Provincia Occidental»): la wiki no lo separa así de forma oficial; describí la progresión general sin ponerle nombres que no confirmé.
+
+## Bitácora
+
+- AniList 161645 (español/inglés): datos base ya en `datos-texto.md`, comprobados de nuevo contra la wiki correcta antes de usarlos.
+- Búsqueda de la wiki correcta: probé `apothecarydiaries`, `kusuriyanohitorigoto`, `maomao` (falso positivo: es la wiki de «Mao Mao: Heroes of Pure Heart», serie infantil sin relación) y `kusuriya` (correcta) — todas por `api.php?action=query&meta=siteinfo` con `curl`.
+- `kusuriya.fandom.com/api.php`: wikitext de Country of Li, Clans, Rear Palace, Maomao (en inglés).
+- `herramientas/investigar_serie.py` (comparte caché con el investigador de imagen): 180 imágenes, 4 hojas de contacto en `herramientas/referencias/the-apothecary-diaries-el-diario-de-la-boticaria/` — las miré todas para tipografía y cuadros de diálogo, no para elegir arte (eso es del investigador de imagen).
+- Fotogramas oficiales bajados de la wiki (`static.wikia.nocookie.net`, con `Referer: https://www.fandom.com/`): dos «avances de episodio» (ep06, ep07, ep12) y dos páginas de manga (`Chapter_5.jpg`, `Chapter_6.jpg`, `Jinshi_Full_Manga.jpg`) — medidos con `herramientas/estilo.py` y mirados con Read.
+- Steam (`store.steampowered.com/app/4905780` + API `appdetails`): ficha completa y las 8 capturas oficiales (1920×1080), navegada con `navegar.py` (curl normal ya funcionaba, pero la ficha completa salió mejor con el navegador).
+- Portal oficial `kusuriyanohitorigoto.jp/news/2406/`, `4gamer.net`, `g123.jp/game/kusuriya` (imágenes de marketing del juego de navegador).
+- `dafont.com` (descarga de Black Chancery) + `fontTools` (comprobación de tildes/ñ/¿/¡) — hecho por mí, no de memoria.
+- `fonts.gstatic.com` (descarga de Shippori Mincho) + `fontTools` — igual, comprobado por mí.
+- Búsquedas web (WebSearch, en inglés y japonés): tipografía del logo (inglés y japonés), interviews de Naganuma/Fudesaka (dirección y técnica), interviews de Hyūganatsu (influencias, proceso creativo), CGWORLD (3D layout, herramientas de producción), videojuegos de la franquicia (Steam + G123).
+- Intentos fallidos (2 como mucho cada uno, según la regla): `en.fontworks.co.jp/case/10449/` con `navegar.py` normal, con `--espera 3000` y con `--selector body` — la SPA nunca entrega el caso concreto, sólo el menú; anotado y descartado.
+
+## Cumplimiento de mis puntos (5, 6, 11, 18, 24, 25)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 5 · Tipografía | ✅ | Logo inglés (Black Chancery) y mincho libre (Shippori Mincho) comprobados con fontTools por mí; japonés real ⚠️ una fuente indirecta |
+| 6 · Cuadros de diálogo | ✅ | Manga, cartelas de anime y las dos pantallas del videojuego, todas vistas y medidas por mí, con qué NO hacer |
+| 11 · Videojuegos | ✅ | Los dos juegos de la franquicia, con capturas propias del primero y arte oficial del segundo |
+| 18 · Estilo y réplica | ✅ | Making-of con cita directa (CGWORLD), colores de línea medidos por mí con `estilo.py`, pasos concretos para Photoshop/Blender |
+| 24 · Obras parecidas | ✅ | AniList + dos entrevistas con cita directa de la autora sobre sus influencias |
+| 25 · Mundo y símbolos | ✅ | País de Li, clanes, Kōkyū y vocabulario, todo con wikitext de la wiki correcta |

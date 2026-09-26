@@ -1,0 +1,164 @@
+[
+  {
+    "url": "https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Generador_Rex",
+    "fuente": "Doblaje Wiki, wikitext completo de la ficha «Generador Rex» (vía api.php)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha técnica completa del doblaje: estudio Sensaciones Sónicas, directores, traductores, y la tabla de reparto completa (principales, secundarios, recurrentes, Providencia, Antagonistas, Los Seis, El Consorcio, personajes episódicos). También trae la sinopsis oficial en español que usa literalmente «Providencia», «nanites» y «E.V.O.».",
+    "para_que": "Punto 8 (reparto y terminología del doblaje) y base de los puntos 13/20 (nombres de personajes).",
+    "licencia": "Página de wiki de fans (Fandom/Doblaje Wiki), texto bajo CC BY-SA; usar como dato, no reproducir la ficha entera."
+  },
+  {
+    "url": "https://www.behindthevoiceactors.com/characters/Generator-Rex/Rex/",
+    "fuente": "Behind The Voice Actors, página del personaje «Rex»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Confirma de forma independiente (no es Doblaje Wiki ni Fandom) que Irwin Daayán es la voz en español de Rex; el dato está en el HTML tras un botón «Show Non-English Actors», visible con navegar.py --html.",
+    "para_que": "Punto 8: segunda fuente fuera de Doblaje Wiki para el reparto latino, pedida explícitamente en esta tanda.",
+    "licencia": "Sitio de referencia de doblaje (BTVA), datos comunitarios; usar como confirmación, no reproducir la página."
+  },
+  {
+    "url": "https://www.behindthevoiceactors.com/characters/Generator-Rex/Van-Kleiss/",
+    "fuente": "Behind The Voice Actors, página del personaje «Van Kleiss»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Confirma independientemente a Ulises Maynardo Zavala como voz en español de Van Kleiss, coincidiendo con Doblaje Wiki.",
+    "para_que": "Punto 8: segunda fuente no-Doblaje-Wiki del reparto latino.",
+    "licencia": "Sitio de referencia de doblaje (BTVA); usar como confirmación, no reproducir la página."
+  },
+  {
+    "url": "https://www.behindthevoiceactors.com/characters/Generator-Rex/Bobo-Haha/",
+    "fuente": "Behind The Voice Actors, página del personaje «Bobo Haha»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Da un actor «Spanish» distinto al de Doblaje Wiki (Juan Amador Pulido en vez de Gabriel Pingarrón): comprobado que Pulido es actor de doblaje de ESPAÑA, no de Latinoamérica. Revela que la serie tiene doblaje propio en España además del latino, y que BTVA no distingue el país bajo la bandera «Spanish».",
+    "para_que": "Punto 8 y 12 (qué NO hacer): aviso para no confundir el doblaje de España con el latino al usar BTVA como fuente.",
+    "licencia": "Sitio de referencia de doblaje (BTVA); usar como dato de advertencia, no reproducir la página."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x84bg5o",
+    "fuente": "Dailymotion, «Generator Rex: Trailer oficial» (repost de 3djuegos.com)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tráiler oficial doblado al español; transcrito con herramientas/voz.py (Whisper + medición de tono). Trae frases reales con minuto, entre ellas «agente de Providence» (0:42, sin traducir en este tráiler puntual, a diferencia de la ficha escrita de la serie). Ficha de voz: 116 Hz, muy expresiva (21.9 semitonos), velocidad normal (2.53 palabras/s).",
+    "para_que": "Punto 8 (frase textual del doblaje con minuto) y punto 13 (cómo suena la voz protagonista).",
+    "licencia": "Material promocional oficial de Cartoon Network/Activision, repost en Dailymotion; sólo como referencia (minuto y transcripción), no publicar el vídeo."
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/Caesar_Salazar",
+    "fuente": "generatorrex.fandom.com (wiki en inglés), página «Caesar Salazar», sección Trivia",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Señala que el apodo cariñoso «mijo» que César usa con Rex en el original se pierde en el doblaje latino, donde dice «hermano» en su lugar; cita como referencia la wiki en español generadorrex.fandom.com/es.",
+    "para_que": "Punto 8 y 12 (qué NO hacer / cuadro de diálogo fraterno correcto en el doblaje).",
+    "licencia": "Página de wiki de fans (Fandom), CC BY-SA; usar como dato, no reproducir la página completa."
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/YMMV/GeneratorRex",
+    "fuente": "TV Tropes, página «YMMV/GeneratorRex» (navegada con navegar.py, la web bloquea curl)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Página de texto (sin imagen) con las reacciones del fandom: Ensemble Dark Horse (Gatlocke, Jungle Cat, Breach), Ho Yay/Foe Yay (Rex/Noah, Rex/Breach), apodos de fans («Sleevespace», «Omega Rex»), Magnificent Bastard (Van Kleiss, Black Knight, Jungle Cat) y Tear Jerker (Six Minus Six, despedida de Breach, «Plague»).",
+    "para_que": "Puntos 7, 12 y 21: qué ama el fandom, personajes favoritos inesperados y escenas que hacen llorar.",
+    "licencia": "Wiki de fans (TV Tropes), texto bajo su propia licencia; usar sólo como referencia de datos, no reproducir el texto entero."
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/White_Knight",
+    "fuente": "generatorrex.fandom.com, página «White Knight», sección Trivia",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Cita textual del co-creador Duncan Rouleau confirmando que el Caballero Blanco es gay y estuvo enamorado del Agente Seis, y que Rex habría tenido temática LGBT+ si la serie se hiciera hoy.",
+    "para_que": "Punto 12 (lo que el fandom valora/representación) y punto 13 (carácter del Caballero Blanco, incluida su frase «...Everything but me»).",
+    "licencia": "Página de wiki de fans (Fandom), CC BY-SA; la cita del creador está archivada de Tumblr, usar como referencia, no reproducir la página completa."
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/Rex_Salazar",
+    "fuente": "generatorrex.fandom.com, página «Rex Salazar» (Personality, History, Trivia)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha profunda del personaje: carácter, historia (amnesia, familia, Providencia), gustos (telenovelas españolas, anime, banda ficticia Trendbenders) y manías de habla (mezcla español mal pronunciado a propósito).",
+    "para_que": "Puntos 13 y 20: carácter y gustos de Rex.",
+    "licencia": "Página de wiki de fans (Fandom), CC BY-SA; usar como dato, no reproducir la página completa."
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/Agent_Six",
+    "fuente": "generatorrex.fandom.com, página «Agent Six» (Personality, Trivia)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Carácter estoico de Six, su regla de nunca disparar un arma de fuego, y el dato de que en toda la serie sólo se le ven los ojos completos 3 veces.",
+    "para_que": "Puntos 13 y 20: carácter, manías y forma de hablar del Agente Seis.",
+    "licencia": "Página de wiki de fans (Fandom), CC BY-SA; usar como dato, no reproducir la página completa."
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/Bobo_Haha",
+    "fuente": "generatorrex.fandom.com, página «Bobo Haha» (Personality, Trivia)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Carácter fiestero y desconfiado de los humanos de Bobo, y el dato de que originalmente iba a fumar un puro en el diseño (quitado por Standards & Practices de Cartoon Network).",
+    "para_que": "Puntos 13, 20 y 12 (qué NO dibujar: sin el puro descartado).",
+    "licencia": "Página de wiki de fans (Fandom), CC BY-SA; usar como dato, no reproducir la página completa."
+  },
+  {
+    "url": "https://generatorrex.fandom.com/wiki/Breach",
+    "fuente": "generatorrex.fandom.com, página «Breach» (Personality, History)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Carácter infantil y coleccionista de Breach, y el resumen completo de la escena de «Lions and Lambs» donde Van Kleiss la tortura y Rex la convence de liberarlo antes de desaparecer.",
+    "para_que": "Puntos 13 y 21 (escena que hace llorar / personaje querido por el fandom, Ensemble Dark Horse).",
+    "licencia": "Página de wiki de fans (Fandom), CC BY-SA; usar como dato, no reproducir la página completa."
+  },
+  {
+    "url": "https://www.reddit.com/r/generatorrex/comments/1md66jb/",
+    "fuente": "Reddit r/generatorrex, hilo «Who was your favorite Latino character here?»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Hilo con 36 votos y 7 comentarios preguntando específicamente por el personaje latino favorito (no sólo el favorito a secas), señal de identificación del público con el reparto latino de la ficción.",
+    "para_que": "Puntos 7 y 21: identificación del público hispano con la serie.",
+    "licencia": "Foro público (Reddit); usar el enlace y el dato de votos, no reproducir comentarios completos."
+  },
+  {
+    "url": "https://www.reddit.com/r/generatorrex/comments/14bux7c/",
+    "fuente": "Reddit r/generatorrex, hilo «Who's your favorite Hispanic/Latino character?»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Hilo con 14 votos y 8 comentarios, misma pregunta de identificación hispana que el anterior.",
+    "para_que": "Puntos 7 y 21.",
+    "licencia": "Foro público (Reddit); usar el enlace y el dato de votos, no reproducir comentarios completos."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=PhRQow6KSo8",
+    "fuente": "YouTube, «Opening de Generador Rex en español latino» (canal Gabo_SRT_68, confirmado con oEmbed)",
+    "ancho": 480,
+    "alto": 360,
+    "que_es": "Repost del opening real de la serie doblada al español latino, subido por un fan que preserva grabaciones viejas de Cartoon Network Latinoamérica (no es un cover ni un fandub).",
+    "para_que": "Punto 22: cómo la comunidad hispana preserva (más que redobla) el material viejo.",
+    "licencia": "Contenido con copyright de Cartoon Network/Turner, repost de fan; sólo como referencia (enlace y contexto), no descargar ni publicar el vídeo."
+  },
+  {
+    "url": "https://fandubdb.fandom.com/wiki/Generator_Rex",
+    "fuente": "The Dubbing Database, página «Generator Rex»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Catálogo de doblajes OFICIALES internacionales de la serie (pese al nombre del sitio, no cataloga fandubs). No tiene ninguna entrada en español (ni España ni Latinoamérica), un vacío llamativo comprobado por mí.",
+    "para_que": "Punto 22: documentar la ausencia de esta serie en un catálogo de doblajes que sí cubre muchos otros idiomas.",
+    "licencia": "Página de wiki de fans (Fandom), CC BY-SA; usar como dato de ausencia, no reproducir la página completa."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2z8as2",
+    "fuente": "Dailymotion, promo oficial de Cartoon Network USA «Ben 10/Generator Rex: Heroes United» (repost cuenta DaiseyKahn)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Promo oficial partida en dos mitades (ojo de Ben / clips de Rex); en 0:19 Rex tiene una expresión de determinación/confianza con sus gafas puestas.",
+    "para_que": "Punto 13: cara de Rex (determinación) con fotograma y minuto.",
+    "licencia": "Material promocional oficial de Cartoon Network, repost en Dailymotion; sólo como referencia, no publicar el vídeo."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x31x2vw",
+    "fuente": "Dailymotion, compilado de fan «Generator Rex Episode 1» (mezcla metraje de la serie y del videojuego)",
+    "ancho": 640,
+    "alto": 360,
+    "que_es": "En 3:36 se ve a Rex cargando a Bobo herido con expresión seria/preocupada. Aviso: es un compilado de fan, no un clip oficial aislado, así que la identificación de la escena no está tan confirmada como en un clip de CN.",
+    "para_que": "Punto 13: posible cara de preocupación de Rex, con la salvedad de la fuente indicada.",
+    "licencia": "Compilado de fan con metraje con copyright de Cartoon Network; sólo como referencia de minuto, no publicar el vídeo."
+  }
+]

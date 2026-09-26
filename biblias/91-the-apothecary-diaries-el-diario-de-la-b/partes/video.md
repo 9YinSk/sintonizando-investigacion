@@ -39,6 +39,7 @@ Colores medidos con `estilo.py` (Pillow) sobre fotogramas propios del episodio 1
 - **Patio de palacio de noche** (ep.1, 8:00): paleta #1E1832, #16204E, #0F1120, #243468, #3D507E — azules casi negros, sombreado degradado con poca línea, saturación alta para lo oscuro (58%) y brillo muy bajo (26%): la serie usa el azul noche cerrado (casi sin negro puro) para las escenas nocturnas de palacio · fuente fotograma propio (`fotograma_00480.jpg`) ✅ (mismo tono de azul nocturno en el tráiler, fotograma 1:50)
 - **Retrato de consorte con fondo floral** (Gyokuyou, ep.1, 9:15): paleta #DCE4F1, #58497D, #BDC7E3, #F8DDDA, #8C7FC2, #D89DAC — pasteles lilas y rosas, brillo muy alto (83%) y saturación baja (22%), línea normal (#7B738F): es la paleta que la serie reserva para presentar a una consorte importante (fondo decorativo con flores, no un fondo realista) · fuente fotograma propio (`fotograma_00555.jpg`) ✅ (mismo tratamiento de fondo floral pastel en las fichas de personaje "Anime Design" de la wiki, ya medidas por el investigador de imagen con otros hex de vestuario)
 - Contraste: exteriores de día = paleta cálida tierra/naranja de baja saturación (edificios, mercado); interiores/noche de palacio = azules fríos oscuros; escenas de "presentación de personaje" = fondo decorativo pastel casi monocromo. Sirve de guía de luz para la lámina.
+- **Texturas libres (CC0) equivalentes**, buscadas en la API de ambientCG para las superficies que se ven en palacio: tejas de barro naranja "RoofingTiles013A/014A/012A" (`https://ambientcg.com/a/RoofingTiles013A`), piedra de suelo/patio "PavingStones151" y "Rock064" (`https://ambientcg.com/a/PavingStones151`), metal para bisagras/herrajes y la bandeja de Maomao "Metal063"/"Metal049A" (`https://ambientcg.com/a/Metal063`), papel para las cartas y etiquetas de hierbas "Paper001/005/006" (`https://ambientcg.com/a/Paper001`) · fuente https://ambientcg.com/api/v2/full_json (API propia) ✅ (catálogo con licencia CC0 declarada en la propia web de ambientCG) · ⚠️ no encontré textura de laca roja/lacquer en ambientCG (busqué "lacquer" y no da resultados); la madera lacada roja de las columnas de palacio no tiene equivalente CC0 exacto, sólo "Wood094/095" como base sin lacar
 
 ## 9 · Música y sonido
 
@@ -103,3 +104,33 @@ sólo de arte promocional. Postura, manos y mirada descritas de lo que se ve.
   (las poses "vivas" que pide el punto 1, ya cubiertas por el investigador de
   imagen con las fichas de diseño oficiales).
 
+## Lo mejor para la lámina
+
+- El fondo aéreo del palacio trasero (ep.1, 5:30) con su paleta naranja-teja/gris medida: sirve tal cual de fondo de escena para cualquier concepto ambientado en palacio.
+- La pose de Jinshi de pie solo en el corredor (ep.1, 16:00, "I was given to understand you couldn't read") + la de Maomao explicando firme (18:30): la pareja de poses perfecta para una lámina con los dos personajes en diálogo.
+- El eslogan visual del ending "毒を、暴け" ("Desenmascara el veneno") es una frase corta, temática y ya usada oficialmente: encaja como cuadro de diálogo o texto de cabecera de canal.
+- El anuncio de temporada 3 (estreno 2-oct-2026, en una semana) es un gancho de actualidad: la lámina puede mencionarlo o usar la nueva paleta del OP de Yorushika cuando salga.
+- El efecto sonoro del "chirrido metálico" cuando Maomao se limpia de Jinshi es un detalle muy específico y gracioso para un texto de bot o un meme del canal, no sólo para la imagen.
+
+## No encontré
+
+- AnimeThemes.moe (fuente oficial de clips de OP/ED en `.webm`) dio error 522 todo el rato: no lo reintenté más de dos veces, usé el remix oficial de Dailymotion y el propio episodio 1 como plan B/C (regla de AYUDANTE.md) ⚠️
+- No pude mirar el episodio 1 completo entero (sólo hasta el minuto 24, que es su duración total, así que en realidad sí lo cubrí completo por tramos) ni otros episodios por presupuesto de acciones: los picos emocionales de S2/S3 (punto 21, que no es mío) y más poses de personajes secundarios (Gaoshun, Lakan, Xiaolan) quedan sin fotograma propio — si se necesitan, repetir el mismo método (`fotogramas.py --desde --hasta` sobre los archivos de Internet Archive, episodios 2-24) ⚠️
+- No encontré textura CC0 de laca roja/madera lacada en ambientCG (busqué "lacquer", "red lacquer wood", cero resultados) ⚠️
+- No pude verificar con yt-dlp los metadatos (duración, vistas, fecha) de los 4 vídeos de análisis de YouTube: da "Sign in to confirm you're not a bot" incluso con `--skip-download`; los cito sólo por título y enlace de la búsqueda web ⚠️
+- No encontré declaraciones del compositor Satoru Kōsaki sobre el diseño de sonido/onomatopeyas en concreto (sólo créditos de discografía); lo que sí hay es la lista de efectos de librería de `soundeffects.fandom.com`, que ya cubre el punto con otra fuente ✅
+
+## Bitácora
+
+- API GraphQL de AniList (`Media(id:161645)`) — comprobación de partida (repetida del investigador de imagen, verificada de nuevo) ✅
+- `api.dailymotion.com` (campo `search=`) en inglés: "Hana ni Natte Ryokuoushoku Shakai", "Kusuriya no Hitorigoto OP", "Aikotoba AiNA THE END", "In Bloom Lilas Ikuta" — encontré el remix oficial `x8ogai7` con OP+ED
+- `api.dailymotion.com/video/<id>` — comprobación uno a uno de los 6 enlaces de `datos-video.md` (todos existen y son de esta obra, salvo `x8jlclk` que da 404 y lo descarto)
+- `fotogramas.py` sobre Dailymotion `x8mmgoz` (tráiler, cada 5 s) y `x8ogai7` (OP/ED, cada 3 s) — mirados completos
+- `fotogramas.py --desde/--hasta` sobre Internet Archive `anime-pahe-kusuriya-no-hitorigoto-eng-dub-01-bd-720p-sam.mp-4-kw` (episodio 1 completo, 0:00 a 24:00, por tramos de 5-7 min cada vez) — mirado completo
+- `estilo.py --colores 6` sobre 3 fotogramas propios del episodio 1 — paleta y estilo de sombreado medidos
+- `kusuriya.fandom.com/api.php` (`action=parse&prop=wikitext`, en inglés): páginas de canciones individuales y las dos páginas "anime songs S1/S2" — lista completa de OP/ED/insert songs con episodios
+- `soundeffects.fandom.com/api.php` (la web normal da 403 con navegador; su API sí funciona) — lista de efectos de sonido de librería
+- `musicbrainz.org` — ya venía en `datos-video.md`; filtrado a mano (4 de 14 resultados son de esta obra, el resto descartado por título genérico "Diaries")
+- Buscador web (en inglés, 3 búsquedas de las ~50 permitidas): "Apothecary Diaries Satoru Kosaki sound design onomatopoeia interview" (sin resultado directo, llevó a la wiki de efectos), "Apothecary Diaries TikTok viral trend scene" (tendencias confirmadas), "Apothecary Diaries season 3 trailer 2026" (anuncio de actualidad) y "Apothecary Diaries video essay analysis YouTube why so good" (4 vídeos de análisis)
+- `ambientcg.com/api/v2/full_json` (`q=stone|metal|roof|lacquer|paper`) — texturas CC0 equivalentes a las superficies de palacio
+- `yt-dlp --skip-download` sobre un vídeo de YouTube — bloqueado ("Sign in to confirm you're not a bot"), como avisa AYUDANTE.md

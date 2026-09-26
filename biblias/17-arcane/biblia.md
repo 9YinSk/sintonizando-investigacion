@@ -734,7 +734,8 @@ Ver §13. Lo nuevo de la segunda pasada:
 | **Vi** | **Vergüenza**, fuera de lugar | 1×08 «Oil and Water» | **13:40** | Boca abajo en la cama de sábanas verdes de la mansión Kiramman, barbilla sobre el antebrazo vendado, mirada baja y de lado, boca apretada. Sus vendas y tatuajes de Zaun contra el lujo de Piltóver. Es incomodidad más que sonrojo: lo más cercano a vergüenza que da la escena | ✅ [`?t=820`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=820) |
 | **Vi** | Rabia | 1×03 | 23:30 | Dientes apretados, ceño hundido, mirada de lado, sangre en la mejilla. Justo antes de llamar «jinx» a Powder | ✅ [`?t=1410`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1410) |
 | **Vi** | Tristeza | 1×07 | hacia 12:30 | Llorosa ante el mural de los Firelights, junto a Ekko (§2.2) | ✅ visto en la hoja; minuto aproximado ⚠️ |
-| **Vi** | Miedo | — | — | Sin fotograma | ⚠️ |
+| **Vi** joven | Miedo, alarma | Tráiler oficial T1 | 1:54 | Ojos muy abiertos, boca entreabierta, durante el atraco del episodio 1 (aún sin teñir) | ✅ [Dailymotion `?t=114`](https://www.dailymotion.com/video/x85f7g5?t=114) |
+| **Vi** adulta | Determinación | Tráiler oficial T1 | 2:06 | Mirada fija, mandíbula tensa, guanteletes puestos: rabia sin sangre | ✅ [Dailymotion `?t=126`](https://www.dailymotion.com/video/x85f7g5?t=126) |
 | **Vi** y **Powder** | Ternura | 1×03 | 16:55 | Vi, con el brazo vendado, sobre el hombro de Powder; las dos miran abajo | ✅ [`?t=1015`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015) |
 | **Jayce** | Vergüenza, humillación | 1×02 | 14:48 | Solo y diminuto en un círculo de luz en la cámara del Consejo; todos lo miran desde arriba | ✅ [`?t=888`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=888) |
 | **Jayce** | Alegría, orgullo | 1×04 | 26:32 | Cejas arriba, boca abierta a media sonrisa, hablando con energía; aplausos y fuegos artificiales | ✅ [`?t=1592`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1592) |
@@ -743,7 +744,8 @@ Ver §13. Lo nuevo de la segunda pasada:
 | **Ekko** adulto | Tristeza, recelo | 1×07 | 12:18 | Ceño fruncido, párpados caídos, junto a Vi ante el mural de sus muertos | ✅ [`?t=738`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=738) |
 | **Silco** | Rabia fría | 1×03 | 37:44 | De pie, mentón alto, mirada entornada hacia abajo, mandíbula tensa, relámpago azul detrás | ✅ [`?t=2264`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2264) |
 
-**Huecos** (sin fotograma todavía) ⚠️: rabia de Jinx adulta y miedo de Vi;
+**Huecos** (sin fotograma todavía) ⚠️: rabia de Jinx adulta; miedo de Vi
+adulta (el de arriba es de Vi joven);
 miedo, tristeza y vergüenza de Viktor; alegría y rabia de Caitlyn y de
 Ekko; tristeza, miedo y vergüenza de Silco. Para la **alegría de Vi en
 otra escena**: 1×05, min 22:59, sonrisa irónica al ver a Caitlyn en el
@@ -806,8 +808,10 @@ Para #arte, Jinx sin duda. Para #proyectos, **Jayce y Viktor juntos**
 
 ## 10 · Doblaje latino
 
-> Doblaje Wiki no abría (403). Todo sale de otras fuentes y de lo que el
-> buscador leyó de Doblaje Wiki. **Hay otro doblaje, el de España**
+> En la primera pasada Doblaje Wiki no abría (403). **En la segunda
+> (26-sep) se leyó entera por su API** (`action=parse`) y se cruzó con el
+> reparto por capítulo de [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/),
+> que copia los créditos de Netflix Latinoamérica. **Hay otro doblaje, el de España**
 > ([Doblaje España Wiki](https://doblaje-espana.fandom.com/es/wiki/Arcane),
 > [Vandal](https://vandal.elespanol.com/noticia/1350748054/lol-este-es-el-reparto-de-actores-de-doblaje-para-la-serie-arcane-de-netflix/)):
 > no confundirlos.
@@ -822,16 +826,32 @@ Para #arte, Jinx sin duda. Para #proyectos, **Jayce y Viktor juntos**
 | **Silco** | **Nicolás Frías** (el profesor Frink de *Los Simpson*) | ✅ [Bolavip](https://bolavip.com/gamer/Arcane-la-serie-de-League-of-Legends-confirma-su-elenco-de-voces-en-latino-20210921-0044.html), [TikTok SDV](https://www.tiktok.com/@sdv_serviciosdevoz/video/7414674465876937989) |
 | **Caitlyn** | **Karina Altamirano** (Lois en *Padre de familia*) | ✅ [TikTok SDV](https://www.tiktok.com/@sdv_serviciosdevoz/video/7442462275287452983), [AniList](https://anilist.co/staff/108265/Karina-Altamirano) |
 | **Ekko** | **José Antonio Toledano** (también en el juego) | ✅ [TikTok SDV](https://www.tiktok.com/@sdv_serviciosdevoz/video/7416131651387854086?lang=es), [Starcon](https://www.facebook.com/starconmx/posts/jos%C3%A9-antonio-toledano-actor-de-doblaje-que-dio-voz-a-ekko-en-el-universo-league-/1446435646854462/) |
-| **Jayce** | **Miguel de León** (Bugs Bunny en *Looney Tunes Cartoons*) | ⚠️ una búsqueda dice que hace a Jayce **joven**, otra que en la T2; en el juego dobla a «Arcane: Jayce Sobreviviente» ([TikTok](https://www.tiktok.com/@.ru_ma/video/7440738759320096055)). Otra búsqueda nombró a **Michel Tejerina**, que parece del doblaje **de España**. **Comprobar** |
-| **Heimerdinger** | José Luis Orozco (repite del juego) | ⚠️ una fuente |
-| **Vander** | Dafnis Fernández | ⚠️ una fuente (Bolavip, vía buscador) |
-| **Mel** | Adriana Núñez | ⚠️ una fuente |
-| **Marcus** | Eduardo Garza | ⚠️ una fuente |
+| **Jayce** | **Miguel de León** (Bugs Bunny en *Looney Tunes Cartoons*), desde el capítulo 1; también el Jayce Sobreviviente del juego | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Arcane) + [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/). **Corrección**: Michel Tejerina es del doblaje **de España**, no del latino |
+| **Heimerdinger** | José Luis Orozco (repite del juego) | ✅ mismas dos fuentes |
+| **Vander** / Warwick | Dafnis Fernández | ✅ mismas dos fuentes |
+| **Mel** | Adriana Núñez | ✅ mismas dos fuentes |
+| **Marcus** | Eduardo Garza (también el director de la T1 y la voz de Kayn en el juego) | ✅ mismas dos fuentes |
+| **Powder** (Jinx niña) | Susana Moreno | ⚠️ una fuente (Doblaje Wiki) |
+| **Sevika** | Kerygma Flores | ⚠️ una fuente (Doblaje Wiki) |
+| **Singed** | Roberto Mendiola | ⚠️ una fuente (Doblaje Wiki) |
+| **Ekko enmascarado** (con filtro grave) | Roberto Cuevas | ⚠️ una fuente (Doblaje Wiki) |
+
+**Datos de interés** (Doblaje Wiki, por la API ✅ leído):
+- **Vi, Jinx, Ekko y Heimerdinger repiten** la voz del juego; **Jayce,
+  Caitlyn, Viktor, Singed y Warwick no**.
+- Karla Falcón tuvo que **hacer *casting*** para la serie, aunque ya era
+  Jinx en el juego.
+- **No se doblaron los gritos ni los jadeos**: se dejaron los del
+  original. El doblaje **mantiene los tacos**.
+- La canción de Heimerdinger «**Spin the Wheel**» (2×07) **sí se dobló**;
+  el resto de canciones, en inglés.
+- Los episodios **11 y 14** no tienen créditos de doblaje en Netflix.
 
 **Estudio y dirección**:
 - **T1**: **Sysdub**, dirección de **Eduardo Garza** (director del juego
-  *League of Legends* de 2014 a 2017) ⚠️ (dos búsquedas, pero parece la
-  misma fuente de fondo, Doblaje Wiki).
+  *League of Legends* de 2014 a 2017), traducción de **Ilda de Córdova**.
+  Leído en la ficha de Doblaje Wiki por la API; Bolavip lo repite, pero
+  no encontré un tercer sitio fuera de ese círculo ⚠️.
 - **T2**: **Iyuno México**, dirección de **Angie Villa**, traducción de
   **Briana González** ✅ ([Bubbleblabber LATAM](https://latam.bubbleblabber.com/2024/11/netflix-estrena-el-doblaje-de-la-segunda-temporada-de-arcane-en-espanol-latino/)
   y Doblaje Wiki, vía buscador).
@@ -842,12 +862,19 @@ Para #arte, Jinx sin duda. Para #proyectos, **Jayce y Viktor juntos**
 
 | Quién | Frase | Estado |
 |---|---|---|
-| Vi a Caitlyn (1×08) | «It's been real, cupcake» → «**Fue un placer, cariño**» | ✅ Doblaje Wiki (vía buscador) y la guía de cuadros |
-| Vi a Caitlyn (T1) | «cupcake» → «**Bombón**» | ⚠️ Doblaje Wiki (vía buscador) |
-| Vi a Caitlyn (T2) | «cupcake» → «**Pastelito**», más fiel | ⚠️ Doblaje Wiki (vía buscador) |
-| Jinx a Vi (1×09, con un pastelito) | «**Mira, traje a tu novia**» (el chiste de «cupcake» se pierde porque en la T1 era «bombón») | ⚠️ Doblaje Wiki (vía buscador) |
-| Ekko (2×07) | «**A veces, para dar un paso hacia adelante, hay que dejar algo atrás**» | ⚠️ la guía de cuadros, que cita Doblaje Wiki |
-| Silco (1×09) | «You're perfect» → ❌ no encontré cómo se dijo | — |
+| Vi a Caitlyn (1×08) | «It's been real, cupcake» → «**Fue un placer, cariño**» | ✅ Doblaje Wiki (por la API) y la guía de cuadros |
+| Vi a Caitlyn (T1) | «cupcake» → «**Bombón**» | ⚠️ Doblaje Wiki (por la API); los TikTok que comparan doblajes lo repiten, sin frase textual (§18b.5) |
+| Vi a Caitlyn (T2) | «cupcake» → «**Pastelito**», más fiel | ⚠️ ídem |
+| Jinx a Vi (1×09, con un pastelito) | «**Mira, traje a tu novia**» (el chiste de «cupcake» se pierde porque en la T1 era «bombón») | ⚠️ Doblaje Wiki (por la API) |
+| Ekko (2×07) | «**A veces, para dar un paso hacia adelante, hay que dejar algo atrás**». Más adelante, en el mismo episodio, la repiten distinta: «para dar un **paseo** hacia adelante» (un desliz del doblaje) | ⚠️ Doblaje Wiki (por la API) |
+| Silco (1×09) | «You're perfect» → ❌ no encontré cómo se dijo (buscado otra vez en la segunda pasada) | — |
+
+**Muestras de audio del doblaje** (Doblaje Wiki): hay de Jinx (adulta,
+niña, infante), Vi (adulta y joven), Jayce, Viktor (niño, T1, Heraldo,
+forma final), Caitlyn, Ekko, Silco, Mel, Vander y otros. Enlaces en
+`partes/datos-voz.md`. **No se pasaron por `voz.py`** ⚠️: es lo primero
+para sacar más frases textuales. Por ejemplo, [Silco](https://static.wikia.nocookie.net/doblaje/images/5/51/Arcane_-_Silco.mp3/revision/latest?cb=20250109152046&path-prefix=es)
+y [Jinx](https://static.wikia.nocookie.net/doblaje/images/a/a6/Audio_de_Jinx_%28Arcane%29.mp3/revision/latest?cb=20220212022906&path-prefix=es).
 
 ### 10.3 Nombres oficiales en latino (del juego)
 
@@ -882,6 +909,17 @@ el doblaje de la serie ⚠️.
   (6, 13 y 20 de noviembre de 2021); la de la T2 tiene **22 temas**
   (23-nov-2024) ✅ ([LoL Wiki: Soundtrack](https://wiki.leagueoflegends.com/en-us/Arcane_(Soundtrack)), [Wikipedia S2](https://en.wikipedia.org/wiki/Arcane_League_of_Legends:_Season_2)).
 - Por escena: [Tunefind T2](https://www.tunefind.com/show/arcane/season-2).
+- **Segunda pasada**:
+  - «**Enemy**»: ficha oficial en [MusicBrainz](https://musicbrainz.org/release-group/35990e4e-72da-4ca1-9193-2ee30cc23050)
+    (28-oct-2021, título completo «Enemy (from the series Arcane League
+    of Legends)») y vídeo mirado entero, 213 s (§12) ✅.
+  - **Discurso del Día del Progreso** (1×04, 24:20-26:30): en los
+    fotogramas no hay cantante ni crédito; parece fanfarria instrumental
+    de la banda de la escena ⚠️ (visto sin sonido).
+  - **Muertes de Vander, Silco e Isha**: qué suena, sin comprobar ⚠️.
+    Se oiría pasando el audio del episodio por `voz.py`.
+  - La canción de Heimerdinger «**Spin the Wheel**» (2×07) es la única
+    doblada al latino (§10.1).
 - **Para #proyectos**: el ambiente es el del laboratorio (cuerdas,
   esperanza). **Para #arte**: «Paint the Town Blue».
 
@@ -889,18 +927,26 @@ el doblaje de la serie ⚠️.
 
 ## 12 · Vídeos
 
-> YouTube no abría desde aquí: **no tengo minutos exactos**. Los enlaces
-> salen de los resultados de búsqueda.
+> Primera pasada: YouTube no abría y no había minutos. **Segunda pasada
+> (26-sep)**: YouTube siguió pidiendo sesión para bajar, pero los mismos
+> vídeos estaban en **Internet Archive** y **Dailymotion**. Se miraron
+> con `fotogramas.py`: los minutos de abajo son de esas copias.
 
 | Vídeo | Para qué sirve | Enlace |
 |---|---|---|
 | **Enemy**, vídeo oficial (animado por Fortiche, la banda como personajes de Arcane; **409 millones de vistas**) | Estilo, poses de la banda en Zaun | [YouTube](https://www.youtube.com/watch?v=F5tSoaJ93ac) ✅ |
-| Tráiler oficial T2 (5-sep-2024) | Poses de la T2 | [LoL](https://leagueoflegends.com/en-us/news/media/arcane-season-2-official-trailer) ✅ |
+| **Enemy**, la misma copia en 1080p (213 s), **mirada entera** | **0:45** Vi y Jinx de perfil, mirándose, luz de atardecer · **1:00** la banda entre la gente de Zaun, luz verde · **3:00** primer plano con distorsión RGB cian y magenta · **3:30** logo «ARCANE / LEAGUE OF LEGENDS» en rojo sobre negro | ✅ visto ([Internet Archive](https://archive.org/details/9convert.com-imagine-dragons-x-jid-enemy-from-the-series-arcane-league-of-legends-1080p)) |
+| «Enemy with JID (Opening Title Version)», 186 s | El montaje corto de cabecera | ⚠️ sólo los datos, sin fotogramas ([Internet Archive](https://archive.org/details/EnemywithJIDOpeningTitleVersion)) |
+| **Teaser del anuncio** («A New Adventure Awaits», Worlds 2019) | **0:45** una jugadora en su cuarto: «voy a revelarles un secreto» · **1:00** el perfil de Piltóver · **1:45** el logo | ✅ visto ([Dailymotion](https://www.dailymotion.com/video/x89n6ax)) |
+| **Tráiler oficial T1** | **1:54** Vi joven con miedo · **2:06** Vi adulta con los guanteletes (§8) | ✅ visto ([Dailymotion](https://www.dailymotion.com/video/x85f7g5?t=114)) |
+| Créditos finales de 1×03 (42:40-44:00) y 1×06 (40:10-41:40) | Hacen de *ending*: rótulos de Riot y Fortiche; reparto francés (Silco, Bernard Gabay; Vi, Alice Taurand) | ✅ visto (archivo de la T1) |
+| Tendencia: «*Enemy start playing in the background*» | El meme del opening: **3041 votos** en r/arcane | ✅ ([Reddit](https://reddit.com/r/arcane/comments/1ogwy9g/enemy_start_playing_in_the_background/)) |
+| Tráiler oficial T2 (5-sep-2024) | Poses de la T2 | [LoL](https://leagueoflegends.com/en-us/news/media/arcane-season-2-official-trailer) ✅; sin minuto propio ⚠️ |
 | Teaser oficial T2 | Vi de agente | [LoL](https://www.leagueoflegends.com/en-us/news/media/arcane-season-2--official-teaser-trailer-/) ✅ |
 | Making of T2: dirección de arte (Fortiche) | Cómo pintan | [YouTube Shorts](https://www.youtube.com/shorts/pA5aa8zbyIg) ✅ |
 | Entrevista a los creadores de Fortiche (francés) | Los secretos de la creación | [YouTube](https://www.youtube.com/watch?v=pYY0HpyAPa4) ✅ |
 | Charrue y Delord en MIFA | Estilo del estudio | [YouTube](https://www.youtube.com/watch?v=YWDPC2cgr3c) ✅ |
-| Jayce y Viktor, el experimento del acto 1 | La escena de la Hextech (1×03) | [YouTube](https://www.youtube.com/watch?v=v91giP0wo5Y) ⚠️ subida de fan |
+| Jayce y Viktor, el experimento del acto 1 | La escena de la Hextech (1×03) | [YouTube](https://www.youtube.com/watch?v=v91giP0wo5Y) ⚠️ subida de fan; en la segunda pasada pidió sesión |
 | Las voces latinas de Arcane | Oír el doblaje | [YouTube 1](https://www.youtube.com/watch?v=2ReoiBnYdkc), [YouTube 2](https://www.youtube.com/watch?v=eDalIyzRMbM), [YouTube 3](https://www.youtube.com/watch?v=TQ5GBqCJUiU) ⚠️ |
 | Retos de doblaje de SDV con las voces oficiales | Frases en latino, voz por voz | [Silco](https://www.tiktok.com/@sdv_serviciosdevoz/video/7414674465876937989), [Caitlyn](https://www.tiktok.com/@sdv_serviciosdevoz/video/7442462275287452983), [Ekko](https://www.tiktok.com/@sdv_serviciosdevoz/video/7416131651387854086?lang=es), [Jinx](https://www.tiktok.com/@sdv_serviciosdevoz/video/7413937045812382981), [Vi](https://www.tiktok.com/@sdv_serviciosdevoz/video/7441395739810401591) |
 | Entrevista a Karla Falcón en FestiGame 2024 | Cómo vive a Jinx | [TikTok](https://www.tiktok.com/@eldiariodelalquimista/video/7440244073505623352?lang=es) |
@@ -914,9 +960,12 @@ el doblaje de la serie ⚠️.
 | Juego | Qué tiene de Arcane | Cómo «hablan» | Estado |
 |---|---|---|---|
 | **League of Legends** | Skins «Arcane» de Jinx, Vi, Jayce, Viktor, Caitlyn, Ekko, Heimerdinger, Mel y Warwick (lista y nombres latinos en §3.1) | Frases sueltas de cada campeón; sin cajas de diálogo | ✅ (Data Dragon) |
-| **RiotX Arcane** (evento web, 2021) | El mapa-plano de Piltóver (R1), fondos y avatares | ⚠️ no vi el evento | ✅ los archivos (los tengo); la dirección `riotxarcane.riotgames.com` sale en un tuit de LoL LATAM copiado en [cocotbodol](https://www.cocotbodol.com/author/lollatam) ⚠️ |
+| **RiotX Arcane** (evento web, 2021) | El mapa-plano de Piltóver (R1), fondos y avatares | ⚠️ no vi el evento | ✅ los archivos (los tengo); la dirección `riotxarcane.riotgames.com` sale en un tuit de LoL LATAM copiado en [cocotbodol](https://www.cocotbodol.com/author/lollatam). **Segunda pasada**: la API de Wayback confirma una copia del **8-dic-2021** ([snapshot](http://web.archive.org/web/20211208230625/https://riotxarcane.riotgames.com/)), pero `web.archive.org` está bloqueado desde aquí: cómo era la interfaz ⚠️ |
 | **Legends of Runeterra: Path of Champions** (evento Arcane) | Historia en Piltóver y Zaun; historias de Jinx y Vi | **«Cómics animados» con voces** y decisiones que cambian el final. Ej.: Vi: «If I hear fat-hands one more time!» / Jinx: «Jeeez. Least one of us got a sense of humor» | ✅ ([Destructoid](https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/), [YouTube: Jinx](https://www.youtube.com/watch?v=L4-suaLzH7Y), [YouTube: Vi](https://www.youtube.com/watch?v=OZzo7hmPonA)); cómo es la caja ⚠️ |
 | **2XKO** (lucha, Riot) | Jinx, Ekko, Vi… | **Diálogos de entrada** entre parejas de campeones | ✅ ([Game8](https://game8.co/articles/latest/2xko-gameplay-and-story), [2XKO Wiki: Jinx](https://wiki.play2xko.com/en-us/Jinx/Audio), [YouTube](https://www.youtube.com/watch?v=JwGyVB_etaA)) |
+| ***Fortnite*** y ***PUBG Mobile*** | Jinx y Vi (y Jayce y Caitlyn en PUBG) como personajes invitados | Sin diálogo propio | ✅ (§18b.6) |
+| Juegos de Steam con «Arcane» en el nombre (*Arcane Merchant*, *Arcane Rush*…) | **Nada**: no son de Riot, sólo comparten la palabra | — | ✅ descartados uno a uno (y quitados de `referencias.json`) |
+| **The Cutting Room Floor** | Tiene páginas de *League of Legends* (betas, recursos sin usar), **ninguna de Arcane** | — | ✅ [TCRF: LoL](https://tcrf.net/League_of_Legends/Unused_Assets); el contenido, sin abrir (Cloudflare) ⚠️ |
 
 **Lo útil para la lámina**: el **«cómic animado» de Path of Champions**
 confirma que Riot cuenta Arcane en viñetas pintadas. Si hace falta una
@@ -967,7 +1016,9 @@ es más de Arcane que un globo. Cómo es exactamente: ⚠️ no vi capturas.
 ## 15 · Poses analizadas por personaje
 
 > Las imágenes con código (S1…S14, R1…R6) están en §3. Las escenas sin
-> fotograma van con ⚠️: son de memoria o de una sinopsis.
+> fotograma van con ⚠️: son de memoria o de una sinopsis. **Segunda
+> pasada**: las filas con minuto se miraron en el episodio (archivo de
+> Internet Archive, §2); las caras por emoción están en §8.
 
 ### Jinx
 
@@ -981,6 +1032,8 @@ es más de Arcane que un globo. Cómo es exactamente: ⚠️ no vi capturas.
 | 6 | 2×04, montaje de «Paint the Town Blue» | Pintando la pared, con Isha | Brocha o espray | Juguetona, rompe la cuarta pared | **Explicar #arte** ✅ la escena; pose ⚠️ |
 | 7 | 1×04, el laboratorio | Entra de noche, deja su pintura | Espray | — | Guiño #proyectos ⚠️ |
 | 8 | `Caitlyn_28` (primer plano) | El **mono de juguete** de Jinx con ojo rojo encendido y cristales pintados | — | — | Firma de Jinx sin Jinx |
+| 9 | **2×04, 6:10** | De pie en su escondite, junto a Isha | Una mano abierta a la altura del hombro | **Sonrisa torcida, ceja arriba, mira de lado a Isha** | **Animar**, presentar #arte con complicidad ✅ visto ([`?t=370`](https://archive.org/download/arcane-season-2-60fps/ep%204.mp4?t=370)) |
+| 10 | 1×05, 11:10-11:20 | Encogida contra la baranda, rodillas al pecho | Se tapa la cara | Temblando | Su lado vulnerable; no para estos canales ✅ visto |
 
 ### Jayce
 
@@ -990,9 +1043,12 @@ es más de Arcane que un globo. Cómo es exactamente: ⚠️ no vi capturas.
 | 2 | S6 `Jayce_35` | Encorvado, abrazado al martillo | Una mano en la cabeza | Agotado, roto | **Pensar**, dudar, «En pausa» |
 | 3 | R4 (estilo juego) | Martillo en diagonal, cargando | Las dos en el mango | Sonrisa segura | Acción |
 | 4 | R6 avatar | Busto, abrigo blanco, pañuelo rojo | — | Serio, frontal | Retrato |
-| 5 | 1×03, la prueba nocturna | Todo flota a su alrededor | Brazos abiertos ⚠️ | Asombro | **Celebrar** «¡funciona!» ✅ escena |
-| 6 | 1×04, discurso del Día del Progreso | Ante el público | ⚠️ | ⚠️ | **Anunciar** ✅ escena |
-| 7 | 1×04, enseña inventos a Heimerdinger (gema fortificada, guanteletes Atlas) | Junto a la mesa | Señala la pieza ⚠️ | Orgullo | **Explicar** un proyecto ✅ escena ([PC Gamer](https://www.pcgamer.com/arcane-episode-4-recap-ghosts-of-the-past/)) |
+| 5 | 1×03, la prueba nocturna | Todo flota a su alrededor | Brazos abiertos ⚠️ | Asombro | **Celebrar** «¡funciona!» ✅ escena; minuto sin encontrar ⚠️ (§2.1) |
+| 6 | **1×04, 24:20-24:40**, discurso del Día del Progreso | Sube al atril de latón | **Brazo derecho en alto**, saludando | Sonríe al público | **Presentar**, anunciar ✅ visto ([`?t=1460`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1460)); confirma la splash S5 |
+| 6b | **1×04, 25:40-26:10** | De perfil en el atril | **Mano en el pecho** | Ceño fruncido, voz fuerte | **Explicar** con solemnidad, convencer ✅ visto |
+| 7 | **1×04, 11:54-12:26**, enseña la gema a Heimerdinger | Sentado a la mesa; detrás, los guanteletes Atlas | **Mano tendida con la gema brillando entre los dedos** | Mira a Heimerdinger, orgulloso | **Explicar** un proyecto ✅ visto ([`?t=714`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=714)) + [PC Gamer](https://www.pcgamer.com/arcane-episode-4-recap-ghosts-of-the-past/) |
+| 8 | **1×06, 27:00** | De perfil, el Núcleo Hex brillando detrás | — | Mira abajo, ceño fruncido | **Pensar**, preocuparse ✅ visto ([`?t=1620`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E06.When.These.Walls.Come.Tumbling.Down.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1620)) |
+| 9 | 1×02, 14:48 | Solo, diminuto, en un círculo de luz del Consejo | Brazos caídos | Todos lo miran desde arriba | «En pausa», fracaso; con cuidado ✅ visto (§8) |
 
 ### Viktor
 
@@ -1001,29 +1057,36 @@ es más de Arcane que un globo. Cómo es exactamente: ⚠️ no vi capturas.
 | 1 | S7 `Viktor_24` (T2) | De pie, túnica lila, bastón alto | **Mano abierta tendida hacia quien mira** | Sereno, triste | **Invitar**, «únete» |
 | 2 | R6 avatar (T1) | Busto, chaleco de punto gris, pañuelo granate | — | Ojos ámbar `#C88729`, cansado | Retrato |
 | 3 | Concepto de Mariana Galiano (Jayce lo encuentra) | Caído | — | — | No para estos canales |
-| 4 | 1×03, la prueba con Jayce | ⚠️ | ⚠️ | ⚠️ | **Equipo** ✅ escena |
+| 4 | **1×03, 17:30**, primer experimento con Jayce | De pie en el taller, junto a Jayce | **Cuaderno en la mano** | Sonrisa leve, cejas relajadas, mira el arco eléctrico azul | **Equipo**, ilusión ✅ visto (§8) |
 | 5 | 1×06, el Núcleo Hex | Inclinado sobre el núcleo ⚠️ | ⚠️ | Fascinado ⚠️ | **Pensar** ⚠️ |
 
-### Vi, Caitlyn y Ekko
+### Vi, Caitlyn, Ekko y Silco
 
 | # | Imagen o escena | Qué hace | Sirve para |
 |---|---|---|---|
 | Vi 1 | S3 `Vi_29` | De pie, guantelete enorme a la altura del pecho, mirada dura | **Regañar**, poner orden |
 | Vi 2 | S4 `Vi_48` | Rodilla en tierra tras el golpe | Acción |
 | Vi 3 | R6 avatar | Uniforme azul de agente, gafas en la frente | Retrato T2 |
+| Vi 4 | **1×03, 23:30** | Primer plano, dientes apretados, mirada de lado, sangre en la mejilla | **Regañar** fuerte ✅ visto (§8) |
+| Vi 5 | **1×08, 14:16** | Boca arriba, cabeza atrás, carcajada | **Celebrar** ✅ visto (§8) |
+| Vi 6 | **1×03, 16:55** | Brazo vendado sobre el hombro de Powder | **Equipo**, cuidar ✅ visto |
+| Vi 7 | **1×06, 21:50** | De espaldas, hombros cuadrados, camina decidida por un pasillo oscuro | **Avanzar**, «vamos» ✅ visto; que sea Vi ⚠️ (no se ve la cara) |
 | Cait 1 | S8 `Caitlyn_28` | Rifle cruzado, avanza entre cristales pintados por Jinx | **Investigar** |
 | Cait 2 | S9 `Caitlyn_50` | Boina blanca, rifle horizontal, tropas detrás | **Mandar**, anunciar |
 | Ekko 1 | S10 `Ekko_36` | Salto con el bate en alto | **Animar**, acción |
-| Ekko 2 | 1×07, delante del mural | Enseña el mural a Vi | **Explicar #arte** ✅ escena |
+| Ekko 2 | **1×07, 12:18**, delante del mural | Junto a Vi, serio, párpados caídos; enseña el mural de sus muertos | **Explicar #arte** con respeto ✅ visto (§8) |
 | Ekko 3 | R6 avatar | Bufanda naranja `#773019`, ceño serio | Retrato |
+| Cait 3 | **1×08, 22:18** | Quieta en el Consejo, cejas apretadas, mirada fija | Esperar un veredicto, «en revisión» ✅ visto (§8) |
+| Silco 1 | **1×06, 12:25-14:25** | Sentado junto a Ren con sus naipes; deja caer una carta y se va | Amenazar sin alzar la voz ✅ visto ([`?t=790`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E06.When.These.Walls.Come.Tumbling.Down.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=790)) |
+| Silco 2 | **1×03, 37:44** | De pie, mentón alto, relámpago azul detrás | Imponerse ✅ visto (§8) |
 
-**Resumen de uso**:
-- **Presentar**: Jayce S5 (el atril) · Jinx S1.
-- **Explicar**: Jayce ante Heimerdinger (1×04) · Ekko ante el mural (1×07).
-- **Celebrar**: la Hextech que flota (1×03) · Heimerdinger con el banjo (S12).
-- **Regañar**: Jinx S2 · Vi S3.
-- **Pensar**: Jayce S6.
-- **Animar / invitar**: Viktor S7 (mano tendida).
+**Resumen de uso** (con minuto, tras la segunda pasada):
+- **Presentar**: Jayce en el atril, brazo en alto (1×04, 24:20) · S5 · Jinx S1.
+- **Explicar**: Jayce con la gema en la mano (1×04, 11:54) · Ekko ante el mural (1×07, 12:18).
+- **Celebrar**: Vi riendo (1×08, 14:16) · Jayce orgulloso (1×04, 26:32) · Heimerdinger con el banjo (S12).
+- **Regañar**: Vi (1×03, 23:30) · Jinx S2 · Vi S3.
+- **Pensar**: Jayce ante el Núcleo Hex (1×06, 27:00) · Jayce S6.
+- **Animar / invitar**: Viktor S7 (mano tendida) · Jinx con Isha (2×04, 6:10).
 
 ---
 
