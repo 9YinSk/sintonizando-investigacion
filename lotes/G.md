@@ -48,6 +48,7 @@ Cuenta: cuenta R49
 - 100 La princesa Mononoke: **COMPLETA y subida** (23:50 UTC). `revisar.py`: ✅30 ⚠️10 ❌0, 1080 líneas, 177 referencias (87 webs distintas, 226 minutos, 90 hex medidos).
 - 104 Steven Universe: **COMPLETA y subida** (20:30 UTC). `revisar.py`: ✅23 ⚠️7 ❌0, 1318 líneas, 125 referencias, 53 webs.
 - 101 Your Name: cielos y ciudades: **COMPLETA y subida** (00:23 UTC), ✅22 ⚠️8 ❌0, 82 referencias, 43 webs.
+- 102 El estilo Ghibli en general: **COMPLETA y subida** (2026-09-26 14:00 UTC). ✅21 ⚠️9 ❌0, 963 líneas, 155 referencias, 74 webs.
 
 ### Para quien siga (paso a la compu del dueño con MWAPI, 25-sep 19:20 UTC)
 
@@ -74,6 +75,7 @@ alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 
 ## Avisos para el dueño
 
+- 102 El estilo Ghibli: más querido Haku (1.º en ranking.net, Simeji y Nlab); Totoro la cara del estudio; Kiki la más dibujada. Cuadro: no hay globos, el texto va pintado a gouache en un cartel o papel del sitio (Jost + Noto Serif JP, con tildes y ñ). Láminas: A #🎨 arte «La mesa de Oga» (recomendada); B #🌐 general «El ramen de Ponyo»; C #🎟️ eventos «La parada del autobús». Decidir: prohibir IA de imagen en estas láminas (Miyazaki y el fandom rechazan el «estilo Ghibli» con IA). Decidir: el logo de Totoro es marca registrada, no va en la lámina. Oír: escena del mercado de Howl en dos doblajes (Zima y Wild Bunch). Ver: caja de diálogo de Ni no Kuni sin captura; hoja comida_viento_01 n.º 97-115 mezcla Nausicaä y Ponyo; minutos sólo de tráileres; ampliar el cartel de la parada (totoro034) y el letrero de la panadería de Kiki (majo028).
 - 97 Bocchi the Rock: 4 datos en que las partes no coinciden (primera guitarra de Bocchi: Les Paul o
   «Fender»; su grupo sanguíneo: B u O; en qué ending sale el «dedo» de Kita; color del uniforme de Kita).
   El redactor no pudo resolverlos con las fuentes que tenía.

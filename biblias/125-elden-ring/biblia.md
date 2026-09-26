@@ -505,3 +505,95 @@ No hay «temporadas»: la ropa cambia por conjunto de armadura. Hex medidos con 
 
 **Ejemplo en su voz para un canal** (escrito por nosotros, no del juego): «Sin Luz. Te ofrezco un pacto. Una línea, una escena. Cumple, y la gracia te guiará».
 
+## 18 · Estilo de dibujo y cómo replicarlo
+
+**Cómo está hecho**
+- Motor propio de FromSoftware, que los modders llaman **Dantelion**. Es el mismo, mejorado, desde *Demon's Souls*. No usa Unreal ni Unity ([Souls Modding Wiki](http://soulsmodding.wikidot.com/topic:engines), [oreate](https://resources.oreate.ai/updates/the-proprietary-tech-behind-elden-ring-and-fromsoftwares-engineering-legacy)) ✅
+- **Render realista**, sombreado degradado, sin tinta. Saturación medida 29 %, brillo 45 % ✅
+- George R. R. Martin escribió la mitología antes del diseño de niveles. Miyazaki explica la verticalidad: el camino «sube a las ramas del cielo y baja a las raíces» ([GamesRadar+](https://www.gamesradar.com/elden-ring-fromsoftware-hidetaka-miyazaki-interview/)) ✅
+- Artbook: seis capítulos (arte de apertura, concept art, personajes, enemigos, armas, iconos) ✅
+- ⚠️ No se encontró el nombre del director de arte.
+
+**Encuadres típicos**
+- Plano muy abierto: personaje pequeño abajo, arquitectura o jefe llenando el resto. Da escala e indefensión.
+- Contraluz fuerte detrás de lo importante (el Árbol, un jefe).
+- Niebla y partículas entre la cámara y el fondo.
+- Cámara baja al revelar a un jefe.
+- Primer plano sólo en cinemáticas íntimas (Melina a 3:12 del tráiler).
+
+**En Photoshop**
+- Base con pincel de textura irregular (roca, musgo) en tonos apagados.
+- Capa «Sobreexponer color» o «Superponer» sólo en los focos de luz dorada (#BBB478 a #DAD3A4).
+- Niebla: capa gris verde (#42504A) al 20-40 % con máscara de degradado.
+- Al final, ruido monocromático al 2-3 % y una curva en S suave.
+
+**En Blender**
+- Shader **Principled BSDF** realista, no toon. Rugosidad alta en piedra y tela; baja y algo metálica en oro.
+- Niebla con **Volume Scatter** (densidad 0,005-0,02) y un Sol o luz de Área fuerte detrás, para los rayos.
+- Luz: HDRI de cielo nublado (frío) y un **rim light** cálido de 2700-3200 K detrás del personaje.
+- Cycles, o EEVEE con raytracing. En el compositor: Color Balance (sombras a verde azul, luces a dorado) y Glare «Fog Glow».
+- Sin contorno: no hace falta Line Art ni Freestyle.
+- Modelos libres: §3 (ruinas, iglesia, Malenia, Melina, casco alado).
+
+## 19 · Texturas 2D, emblemas y pinceles
+
+- **Gran Runa de Malenia** · [icono](https://static.wikia.nocookie.net/eldenring/images/a/a3/ER_Icon_Key_Item_Great_Rune_Malenia%27s.png) 1024×1024 ✅
+- **Gran Runa de Radahn** · [icono](https://static.wikia.nocookie.net/eldenring/images/9/9c/ER_Icon_Key_Item_Great_Rune_Radahn%27s.png) 1024×1024 ✅
+- **Emblema del Haligtree** (árbol alado) en la [sobreveste](https://static.wikia.nocookie.net/eldenring/images/a/a7/ER_Icon_Armor_Haligtree_Crest_Surcoat.png) y el [escudo](https://static.wikia.nocookie.net/eldenring/images/4/47/ER_Icon_shield_Haligtree_Crest_Greatshield.png) ✅
+- Patrones de ropa: filigrana bronce de Malenia y melena de león de Radahn (hex en §15) ✅
+- Papel de artbook: [Paper001](https://ambientcg.com/view?id=Paper001), CC0 ✅
+- Tramas de manga (sólo para el manga): [pinceles de Mabecman en Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes) ⚠️ (licencia de la plataforma, revisar antes de uso comercial)
+- Capas completas: 3D (§3), texturas reales (§4), 2D (aquí).
+
+## 20 · Gustos y detalles de cada personaje
+
+⚠️ **No hay databook oficial** con cumpleaños, altura o comida. Está comprobado: sólo hay gráficas de altura hechas por fans ([GameRant](https://gamerant.com/elden-ring-malenia-how-tall-comparison/), no oficial).
+
+| Personaje | Le importa | Odia | Objeto que siempre lleva | Cómo se ve a sí misma |
+|---|---|---|---|---|
+| Melina | Cumplir su propósito; su «compañero» | Que rompan el pacto; la Llama Enloquecida | Ninguno: su poder es su naturaleza | Un instrumento con la misión que le dio su madre ✅ |
+| Malenia | La lucha noble; su hermano Miquella | La debilidad; la Podredumbre que la consume | Prótesis dorada para su espada; **escudo hecho con la cuna** donde dormía con Miquella ✅ | «Nunca he conocido la derrota», aunque se muere por dentro ✅ |
+| Ranni | Elegir su destino; Blaidd e Iji | La Orden Dorada; la Muerte en manos de los dioses | Espada de la Luna Oscura; su cuerpo de muñeca ⚠️ | Dueña de su propio destino ✅ |
+
+- Cumpleaños y altura: **no existen**. Las «256 cm» de Malenia son de fans ⚠️
+- Aficiones: Ranni, astrología y nigromancia. Melina y Malenia no tienen.
+
+## 21 · Por qué la gente la ama
+
+- **Juego del Año** en The Game Awards 2022 ([Wikipedia](https://en.wikipedia.org/wiki/The_Game_Awards_2022), [brignews](https://brignews.com/2022/12/20/why-elden-ring-deserves-its-game-of-the-year-accolades/)) ✅
+- **Ventas**: 20 millones al año ([VGC](https://www.videogameschronicle.com/news/elden-ring-has-sold-20-million-copies-worldwide-bandai-namco-says/)); más de 30 millones en abril de 2025 ([Anime News Network](https://www.animenewsnetwork.com/news/2025-04-28/fromsoftware-elden-ring-game-sells-30-million-copies/.224012)) ✅
+- **Con quién se identifica el público**
+  - **Malenia**: gente con enfermedades crónicas o discapacidad se ve en ella. Pierde brazo, pierna y ojos, y sigue invicta ⚠️
+  - **Sellen**: el hilo de Reddit más votado sobre «por qué el fandom la ama tanto» (5319 votos) es sobre ella. En un mundo donde todos están mal, ella cuida de verdad ✅
+  - **El propio jugador**: sin cara ni voz, cada uno pone su historia.
+
+**Escenas que hacen llorar o gritar**
+- **El abrazo de Fía**: el jugador se arrodilla y ella lo abraza. Quita un poco de vida a cambio. Un jugador: «this hug was an other worldly kind of comfort» ([Kotaku](https://kotaku.com/elden-ring-fromsoftware-fia-deathbed-companion-debuff-s-1848603291), [ScreenRant](https://screenrant.com/elden-ring-fia-hug-baldachins-blessing-help-quests/)) ✅
+- **El festival de Radahn**: campo abierto, aliados llamados a pelear contigo, coro de hombres. El jefe más votado ✅
+- **Gurranq aullando** al Árbol de noche: todo su combate se vuelve triste ✅
+- **El sacrificio de Melina**: se quema para encender el Árbol (ficha de la wiki) ✅ · ⚠️ sin fotograma de esa escena.
+- **Malenia a 3:04**: la flor Scarlet Aeonia, lo que hace gritar a todo el que la pelea. Suena «Malenia, Blade of Miquella» ✅
+
+## 22 · Fandubs y comunidad hispana
+
+Como no hay doblaje, **la comunidad lo dobla**. Para un servidor de doblaje, esto es lo más útil.
+
+**Fandubs en YouTube**
+- «[Elden Ring Cinemática Inicial Español Latino (Fandub)](https://www.youtube.com/watch?v=bLpf2mibtF4)» ✅
+- Canal **Offline Player**, «ELDEN RING · DOBLAJE ESPAÑOL LATINO · SERIE», al menos 10 capítulos: [#2](https://www.youtube.com/watch?v=GPA4ujianIY), [#8](https://www.youtube.com/watch?v=tdXEg9e96pw), [#10](https://www.youtube.com/watch?v=azq8qOEi9zs) ✅
+- [Playlist «ELDEN RING · LA SERIE»](https://www.youtube.com/playlist?list=PLQ58A6hM5kHoao_k9nXZB0ywh_U0SBFmI) ✅
+- «[Elden Ring opening, doblaje castellano por Kainkrup](https://www.youtube.com/watch?v=Eqsz2RUjHnQ)» (España) ✅
+- «[Fandub latino, arma que rompe el juego](https://www.youtube.com/watch?v=pnwu0lOiuVI)» ✅
+- «[Tutorial para poner tu voz al doblaje de un videojuego, Guillermo Morante](https://www.youtube.com/watch?v=p24CrK0FP24)»: modelo de casting para el servidor ✅
+- TikTok: [práctica de doblaje de Messmer](https://www.tiktok.com/@carloren96/video/7394571839512530208) (@carloren96) ✅
+- ⚠️ Sin número de vistas: YouTube no abre desde el servidor.
+
+**Música en español** (no hay opening que versionar)
+- «Tarnished», rap de Tirow en [Spotify](https://open.spotify.com/intl-es/album/0ldm97M3htqqxt6qPYvbts) ✅
+- «[Rise Up Tarnished RAP](https://www.youtube.com/watch?v=Ha-pWzWwo0M)», «Despierta, Sinluz» ✅
+
+**Memes y parodias hispanas**
+- [@manu_partida, «Te explico videojuegos»](https://www.tiktok.com/@manu_partida/video/7482359116602576150): Radahn y Malenia como los sustos ✅
+- [@zequiodzilla, «El lore de Elden Ring: Mohg»](https://www.tiktok.com/@zequiodzilla/video/7382858284782406944) ✅
+- Etiqueta de memes en [Memedroid](https://es.memedroid.com/memes/tag/elden+ring) ✅
+
