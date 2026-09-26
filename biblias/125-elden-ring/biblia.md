@@ -651,3 +651,57 @@ Casilla con «no existe» quiere decir que la obra no lo da, no que falte buscar
 
 ⚠️ **Faltan** los minutos de la Forja y de Fía y vídeos de reacción con votos: la parte de voz no los reprodujo. Para oírlo y verlo, busca «Melina Forge of the Giants cutscene» en YouTube con sesión.
 
+## 22 · Fandubs y comunidad hispana
+
+Como no hay doblaje oficial, **los fans lo hacen**. Para un servidor de doblaje es lo más útil de esta biblia.
+⚠️ Las vistas no se pudieron contar: YouTube pedía sesión. Los títulos están confirmados por el buscador.
+
+**Fandubs y series dobladas**
+- «Elden Ring Cinemática Inicial Español Latino (Fandub)», que dobla la intro ([YouTube](https://www.youtube.com/watch?v=bLpf2mibtF4)) ✅.
+- Canal **Offline Player**, «ELDEN RING - DOBLAJE ESPAÑOL LATINO - CASTELLANO | SERIE»: al menos 10 capítulos narrados y doblados. Por ejemplo el [n.º 2](https://www.youtube.com/watch?v=GPA4ujianIY), el [n.º 8](https://www.youtube.com/watch?v=tdXEg9e96pw) y el [n.º 10](https://www.youtube.com/watch?v=azq8qOEi9zs) ✅.
+- Lista «ELDEN RING - LA SERIE» ([playlist](https://www.youtube.com/playlist?list=PLQ58A6hM5kHoao_k9nXZB0ywh_U0SBFmI)).
+- «Elden Ring opening», doblaje castellano de Kainkrup ([YouTube](https://www.youtube.com/watch?v=Eqsz2RUjHnQ)). Es de España, no latino.
+- «Elden Rings GAME BREAKING Weapon - FANDUB LATINO» ([YouTube](https://www.youtube.com/watch?v=pnwu0lOiuVI)).
+- **Tutorial de un aspirante a actor de doblaje**, Guillermo Morante, poniendo su voz a Elden Ring ([YouTube](https://www.youtube.com/watch?v=p24CrK0FP24)). Es un modelo de casting para el servidor.
+- «Práctica de doblaje | Messmer | Elden Ring DLC», de @carloren96 ([TikTok](https://www.tiktok.com/@carloren96/video/7394571839512530208)).
+
+**Covers y tributos.** No hay opening que versionar, así que se hacen raps:
+- «Tarnished (Elden Ring Rap Song)», de Tirow, 2024 ([Spotify](https://open.spotify.com/intl-es/album/0ldm97M3htqqxt6qPYvbts)).
+- «Rise Up Tarnished RAP», o «Despierta, Sinluz» ([YouTube](https://www.youtube.com/watch?v=Ha-pWzWwo0M)).
+
+**Parodias y memes hispanos**
+- @manu_partida, «Te explico videojuegos». Pone a Radahn y a Malenia como los sustos del juego ([TikTok](https://www.tiktok.com/@manu_partida/video/7482359116602576150)).
+- @zequiodzilla, «El Lore de Elden Ring: Mohg» ([TikTok](https://www.tiktok.com/@zequiodzilla/video/7382858284782406944)).
+- Etiqueta de memes en español en [Memedroid](https://es.memedroid.com/memes/tag/elden+ring).
+
+**Idea para el servidor.** Un «reto de la semana» o un casting con la línea de Malenia, o con el pacto de Melina, en español latino. No hay versión oficial con la que comparar.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+**Colaboraciones**
+- **ELDEN RING × Leathers and Treasures**: joyería de cuero hecha a mano bajo pedido, diseñada por Shinya Mukaijo. Es una colaboración oficial ([web](https://www.j-connection.jp/event/eldenring_lt/index-en.html)) ✅.
+- **Tienda oficial Elden Ring Store**, colección de verano de 2025: ropa con arte de los personajes, sin poses nuevas ([Barchart](https://www.barchart.com/story/news/33354823/elden-ring-store-launches-summer-collection-for-fans-of-the-iconic-dark-fantasy-rpg-worldwide)). ⚠️ Es una fuente secundaria.
+- ***Nightreign* no es un crossover**: es un spin-off propio de FromSoftware, de 2025.
+- ⚠️ **No se encontró ningún cruce con otros juegos** (Fortnite, gachas), ni café temático, ni evento presencial oficial. Se buscó en inglés. Queda pendiente probar en japonés: «エルデンリング コラボカフェ».
+
+**Figuras oficiales**, que sirven de referencia 3D de pose ([Tamashii Nations](https://tamashiiweb.com/item_character/eldenring/?wovn=en)) ✅
+- **S.H.Figuarts Malenia, Blade of Miquella**: pose de combate con las alas cerradas y la espada. Salió el 26-jul-2025.
+- **Figuarts mini Radahn**, versión chibi sobre su montura (nº 24). Sale en febrero de 2027.
+- **S.H.Figuarts Vyke**, jefe del DLC, en pose amenazante. Febrero de 2027.
+
+**Cosplay**
+- **Malenia**, de Julianna Podnebesnaya (pufacosplay): 17 fotos con el casco alado y el brazo dorado hechos con volumen de verdad ([Gumroad](https://pufacosplay.gumroad.com/l/Malenia)). ⚠️ Una sola fuente. Falta su Instagram para cruzarla.
+
+## 24 · Obras parecidas y temas relacionados
+
+- **Del mismo estudio y director**, Hidetaka Miyazaki, con el mismo motor: *Demon's Souls* (2009), *Dark Souls I-III* (2011-2016), *Bloodborne* (2015) y *Sekiro* (2019). Comparten la caja de diálogo discreta, una muerte sin HUD invasivo y la historia contada en las descripciones de objetos ✅.
+- **Berserk**, de Kentaro Miura: la influencia visual reconocida desde *Demon's Souls*, «el secreto peor guardado» de la industria. Miyazaki nunca lo ha negado ([TheGamer](https://www.thegamer.com/elden-ring-berserk-kentaro-miura/), [Yahoo](https://tech.yahoo.com/general/articles/berserk-fans-uncover-could-final-155311663.html), [Kotaku](https://kotaku.com/elden-ring-anime-berserk-hidetaka-miyazaki-kentaro-miur-1848728874)) ✅.
+- **George R. R. Martin** (*Canción de hielo y fuego*) escribió la mitología ✅.
+- **Soulslikes de otros estudios:** *Lies of P*, que es gótico victoriano; *Lords of the Fallen* (2023), con dos reinos paralelos; y *Wo Long: Fallen Dynasty* ([GameRant](https://gamerant.com/soulslikes-feel-like-elden-ring/), [PrimaGames](https://primagames.com/gaming/best-games-like-elden-ring)) ✅.
+- **Manga *The Road to the Erdtree***: la misma historia en comedia.
+
+**Láminas del servidor que se parecen**, para no repetir ideas:
+- **God of War** (`117-god-of-war-todas-las-sagas`): mitología y combate brutal.
+- **Hellblade** (`118-hellblade`): mitología nórdica y pintura sombría.
+- Los conceptos de abajo evitan la hoguera o el altar nórdico de esas dos. Usan la gracia dorada, una silla entre raíces y un grimorio de una academia de magos.
+
