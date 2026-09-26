@@ -273,7 +273,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 > Haz la tanda S26 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/101-your-name-cielos-y-ciudades.md`, `encargos/102-el-estilo-ghibli-en-general.md`, `encargos/103-hazbin-hotel-y-helluva-boss.md`, `encargos/104-steven-universe.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [x] 101-your-name-cielos-y-ciudades
-- [ ] 102-el-estilo-ghibli-en-general
+- [x] 102-el-estilo-ghibli-en-general
 - [ ] 103-hazbin-hotel-y-helluva-boss
 - [x] 104-steven-universe
 
