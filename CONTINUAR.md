@@ -1,5 +1,40 @@
 # CONTINUAR — cómo seguir desde otra cuenta o sesión
 
+## 0. Lo último (26-sep-2026, 01:50 UTC) — empieza por aquí
+
+La rama con todo al día es ahora **`claude/quirky-brahmagupta-vrgrir`**. Lleva
+dentro `claude/amazing-johnson-mxlnjs` y `claude/trusting-thompson-8pej3z` (la
+sesión que se quedó sin cuota a las 01:22 UTC con los lotes B, D-H en marcha).
+
+- Cerradas en la sesión https://claude.ai/code/session_01R4yquRAnGecNhSQcEfBmQJ:
+  103 Hazbin Hotel, 123 Reanimal, 102 Ghibli en general; 125 Elden Ring, con
+  el redactor en marcha.
+- **Esa sesión no pudo investigar**: su entorno («Default», red «de confianza»)
+  da 403 a archive.org, Wikipedia, Fandom, AniList, YouTube, Dailymotion,
+  Google… y también a WebFetch. Hace falta un entorno con **acceso de red
+  completo**; si no, sólo se puede redactar lo ya investigado.
+- Cola cuando haya red (lo cortado primero):
+  - 18: voz y texto de repaso, y luego el redactor (faltan también las 3 hojas).
+  - 125: vídeo flojo (3 webs), sólo si su redactor no la cierra.
+  - 17: voz y vídeo (Sigue:).
+  - 44: vídeo (Sigue:).
+  - 88: voz (Sigue:) y vídeo flojo.
+  - 90: texto, más imagen, vídeo y voz flojas.
+  - 46: texto, vídeo y voz, más imagen floja.
+  - Después, las nuevas de `siguiente.py 9 --lote L`: 66, 47, 105, 126, 91…
+    Ya tienen datos.json recolectado.
+- Repasos cortos por herramientas que faltaron en su día (sin rastro de
+  `voz.py`: 02, 03, 18, 23, 24, 28, 31, 32, 33, 89; sin fotogramas: 15, 31, 33).
+- Si la sesión arranca desde `main`, los subagentes de `.claude/agents/` no
+  aparecen hasta traer la rama: se lanzan con `general-purpose` y «Eres el
+  subagente definido en .claude/agents/<rol>.md…», con el `model` del rol.
+- **Una sola sesión por lote**: si la sesión de `trusting-thompson` tenía
+  «continuar automáticamente» (06:10 UTC), hay que apagarla.
+
+Mensaje para pegar en la sesión nueva (entorno con red completa):
+
+> Lee CONTINUAR.md, punto 0. Trae la rama `claude/quirky-brahmagupta-vrgrir` (`git fetch origin claude/quirky-brahmagupta-vrgrir && git checkout -B <tu rama> FETCH_HEAD`), instala las herramientas (punto 3.2), deja `herramientas/guardar.sh --cada 300` en segundo plano y sigue la cola del punto 0 con la skill `serie-en-equipo` (o `Workflow` si lo tienes), lote por lote (B, D, E, F, G, H). El lote C está terminado. No toques `main`.
+
 Escrito el 25-sep-2026 a las 22:40 UTC por la sesión central
 (https://claude.ai/code/session_0178LSBU8mFn49LiPaSVU6fN). Si esa sesión se
 acaba, **todo lo necesario está aquí y en la rama**.
