@@ -15,6 +15,12 @@ Escrita por el redactor con las partes de los 4 investigadores (`partes/imagen.m
 > `fotogramas.py`, uno por plano, y midió la luz con `estilo.py`. Así salió la tercera hoja
 > (`hojas/escenas_01.jpg`) y se corrigieron varios minutos mal descritos en `partes/video.md`
 > (lista en «Segunda pasada · qué cambió»). La película entera **no** se vio: no hubo copia accesible.
+>
+> **Segunda sesión del redactor (26-sep-2026, modo «seguir»).** La primera sesión se cortó en el
+> punto 17. En ésta se añadieron, con lo que ya traían las partes, los puntos **18 a 25**, «Las 3 hojas
+> de contacto», los 3 conceptos de lámina, «Segunda pasada · qué cambió», la tabla «Cumplimiento del
+> encargo» y la bitácora. También se limpió `referencias.json` (fuera el fan art de otras obras) y se
+> comprobaron a mano los enlaces de BFI, ANN, las texturas y el fandub. Nada de lo de 0-17 se reescribió.
 
 > **Ojo con los datos del recolector.** El id de AniList que usó (`97962`) **no es la película**:
 > son 3 anuncios de agua Suntory con Taki y Mitsuha. La película es el id **21519**. Por eso
@@ -23,7 +29,8 @@ Escrita por el redactor con las partes de los 4 investigadores (`partes/imagen.m
 > Hatsune Miku, Cirno o Kancolle. Nada de eso se usa como dato de la película.
 
 > **Serie hermana.** El encargo 52 (*Your Name*, Makoto Shinkai) es la misma película con otro
-> enfoque. **No tiene biblia todavía** (comprobado el 25-sep). Cuando se haga, que parta de ésta.
+> enfoque. **No tiene biblia ni partes todavía** (comprobado el 25-sep y otra vez el 26-sep con
+> `herramientas/hermanas.py`). Cuando se haga, que parta de ésta.
 
 ## Índice
 
@@ -616,3 +623,61 @@ con las referencias reales (puntos 1, 2 y 14).
 - **Triste:** ⚠️ no hay frase triste textual en las partes; oírla en la película.
 
 **Vocabulario propio** (punto 25): *musubi* (el lazo que une personas y tiempo), *kumihimo* (cordón trenzado), *kataware-doki* (el crepúsculo), *kuchikamizake* (el sake del ritual), Tiamat (el cometa), Itomori, *tasokare* («¿quién es aquel?»).
+
+## 18. Estilo de dibujo y técnica, y cómo replicarlo
+
+### Lo que dice Shinkai (entrevistas directas)
+
+- **La base es el contraste**: «cielo, tierra, gente». ✅ ([BFI Sight & Sound](https://www.bfi.org.uk/sight-and-sound/interviews/trading-places-makoto-shinkai-your-name))
+- **El crepúsculo va parejo**: «en esta escena del atardecer lo hice todo neutro: nada más brillante que nada». Sin un foco dramático, sin blancos quemados, sin negros puros. ✅ (BFI)
+- **Tokio es realista porque fue a los sitios**, pero no es un documental: es «el Tokio que sueña Mitsuha», un estereotipo. ✅ (BFI)
+- **El cielo es suyo**: creció en montañas con «un cielo grande» y le sigue gustando mirar cielo, estrellas y nubes. ✅ (BFI)
+- **El hilo rojo del destino** es la raíz del guion y del cordón de Mitsuha. ✅ ([entrevista de Anime News Network, 2016](https://www.animenewsnetwork.com/feature/2016-12-20/interview-makoto-shinkai/.110150))
+- **Dos pájaros volando** por el cielo, a propósito: son los dos protagonistas separados. ✅ (ANN 2016)
+- **Hay un hueco entre el fondo y lo animado encima**, y es querido: fondo casi de foto, personaje plano. No se funden del todo. ✅ (ANN 2016)
+
+### Cómo trabaja el estudio (visita a CoMix Wave)
+
+Reportaje con nombres y citas: [Anime News Network, «Inside CoMix Wave Films»](https://www.animenewsnetwork.com/feature/2025-04-18/inside-comix-wave-films-the-studio-that-made-your-name/.217914). ✅
+- Cinco departamentos: **Animación** (*layout* y dibujos clave), **Acabado y color**, **Fondos**, **3D CG** y **Fotografía**, que junta personaje, fondo y 3D y pone la luz y la «cámara».
+- El animador **Minoru Ōhashi** dibuja a lápiz: **lápiz normal** para el dibujo, **rojo** para las zonas de luz o las líneas de color y **azul** para las sombras.
+- La fondista **Yuna Murooka** usa libros de arquitectura real para que la ciudad sea exacta.
+- **Hiromi Yamashita** (Fotografía) procesa la luz y la cámara según lo que pide el director: ahí nace la «luz de Shinkai».
+- El 3D se usa para fondos, vehículos y algunos movimientos.
+- **Qué programas usan: no se dice.** Ni este reportaje ni otra fuente primaria nombran Photoshop, RETAS o Toon Boom. ⚠️
+
+### Lo medido en esta biblia (para copiarlo)
+
+- **Línea fina y de color**, nunca negra: `#768887` (gris verdoso) a `#A28B88` (malva); densidad de línea 1,5-6 %. (punto 17)
+- **Personajes en cel** con una o dos sombras planas; **sombras con color** (azul o violeta), nunca gris.
+- **Cielos en degradado de 3 o más tonos**: de día `#074D9A` → `#059BDB` → `#E1E4E7`; de noche `#19232A` → `#283B50` → `#4C6C92`. (puntos 4 y 16)
+- Saturación baja o media (17-40 %), brillo alto en Tokio.
+- ⚠️ Grano de cámara: la parte de imagen lo cita, pero ninguna fuente del estudio lo confirma. Úsalo muy suave o nada.
+
+### Cómo replicarlo en Photoshop (propuesta; ⚠️ donde no hay cita)
+
+1. **Fondo primero**, en su propio grupo de capas y con mucho detalle. Parte de una foto o fotograma del sitio real (Tokio, Hida).
+2. **Cielo**: degradado de 3 tonos con los hex de arriba. Nubes con un pincel de textura, como en este [tutorial de nubes de anime con pincel de tiza](http://www.mclelun.com/2016/05/anime-cloud-tutorial.html). ⚠️ es de un tercero, no del estudio.
+3. **Personaje encima**, plano: una capa de color base, una de sombra en **Multiplicar** con azul o violeta, y una de luz pequeña. Línea en una capa aparte, teñida con los hex de línea.
+4. **Capa de «fotografía»** al final: rayos de sol en **Trama** o **Sobreexponer color**, un brillo suave en las luces y, en el crepúsculo, todo parejo. ⚠️ los destellos de lente los citan blogs, no Shinkai.
+5. Para que el recorte case con el fondo, pasarlo por `v3/integrar.py` (regla 3 del dueño).
+
+### Cómo replicarlo en Blender (propuesta; ⚠️)
+
+- **Personajes u objetos con *toon shader***: nodo *Shader to RGB* y una rampa de color constante de 2 o 3 pasos (dato de la parte de texto).
+- **Fondo aparte**: una pintura mate o un render realista en otra *View Layer*, y juntar las dos en el compositor. Es lo que hace el departamento de Fotografía.
+- **Contorno** (propuesta del redactor ⚠️): *Line Art* fino, con el color de línea medido, no negro. Nada de *Solidify* grueso.
+- **Luz** (propuesta ⚠️): un *Sun* cálido de contraluz y el cielo del mundo en degradado; el nodo *Glare* (*Fog Glow*) del compositor para el brillo. Para el crepúsculo, luz de relleno lila fuerte, que no haya un punto más brillante que otro.
+- Modelos: no hay *rigs* libres de Taki ni de Mitsuha (punto 3). Sí torii, farol, estación y torniquete en Sketchfab.
+
+### Encuadres y composición (vistos en las hojas)
+
+| Emoción | Encuadre | Ejemplo |
+|---|---|---|
+| Nostalgia, soledad | Plano general; el personaje **pequeño y de espaldas** frente a una ciudad o un cielo enorme | [tráiler 0:48](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=48), [apertura 1:23](https://archive.org/details/kimi-no-na-wa-op-1?t=83) |
+| Algo íntimo | **Primerísimo plano de manos y objetos**: cordones, móvil, cuaderno, palma | [tráiler 0:09](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=9), [*Sparkle* 4:50](https://archive.org/details/sparkle_201703?t=290) |
+| Pelea cómica | **Pantalla partida**, uno arriba y otro abajo | [tráiler 0:59](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=59) |
+| Encuentro | Dos **siluetas frente a frente a contraluz**, horizonte bajo | [*Sparkle* 4:20](https://archive.org/details/sparkle_201703?t=260) |
+| Asombro | **Contrapicado** hacia el cielo y el cometa | [tráiler 1:17](https://archive.org/details/YourNameKimiNoNaWaTrailer?t=77) |
+| Lo que no se recuerda | Fondo **blanco y lila** sin decorado, siluetas grises | [apertura 0:27](https://archive.org/details/kimi-no-na-wa-op-1?t=27) |
+| Separación | **Una línea de luz vertical** que parte la imagen en dos (el cartel) | cartel, punto 1 |

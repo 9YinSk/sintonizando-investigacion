@@ -1,0 +1,92 @@
+[
+ {
+  "url": "https://www.dailymotion.com/video/x908684&t=0",
+  "fuente": "Dailymotion (adorocinema)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial temporada 1, doblado/subtitulado en español, 1:35",
+  "para_que": "punto 2 y 10: escenas icónicas y tráiler oficial con minuto",
+  "licencia": "© C2C/productoras; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8r9ybf&t=0",
+  "fuente": "Dailymotion (FilmAffinity)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial temporada 2, español, 1:00, con fichas de personaje y actor de doblaje japonés",
+  "para_que": "punto 2 y 10: tráiler oficial con minuto",
+  "licencia": "© C2C/productoras; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x9d51n2&t=190",
+  "fuente": "Dailymotion (The World Of Isekai - Clip)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tramo final del episodio 24 (duelo Makoto vs Sofia Bulga), 6:35, subtítulos en inglés",
+  "para_que": "punto 2 y 14: escena icónica viral en TikTok, poses de combate de Makoto",
+  "licencia": "© C2C/productoras; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/tsuki-ga-michibiku-isekai-douchuu",
+  "fuente": "Internet Archive (archivo Tsuki 1.mp4)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Episodio 1 completo T1, sub. español (AnimeFenix), 23:40",
+  "para_que": "punto 2, 9 y 14: opening «Gambling», introducción de Tomoe y Mio, poses",
+  "licencia": "© C2C/productoras; copia de fans, sólo referencia para investigación"
+ },
+ {
+  "url": "https://archive.org/details/subs-please-tsuki-ga-michibiku-isekai-douchuu-s-2-01-1080p-0316510-f.mkv",
+  "fuente": "Internet Archive (SubsPlease, derivado 1280x720)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Episodio 1 completo T2, sub. inglés, 23:40, incluye opening «Utopia» y ending «Aa Jinsei ni Namida Ari» Ver.3",
+  "para_que": "punto 2, 4 y 9: opening/ending completos, paletas de sitios (Obitt, laboratorio), poses de Tomoe",
+  "licencia": "© C2C/productoras; copia de fans, sólo referencia para investigación"
+ },
+ {
+  "url": "https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Gambling_(song)",
+  "fuente": "Fandom (wiki oficial de fans)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del opening T1 «Gambling», interpretada por syudou",
+  "para_que": "punto 9: crédito verificado del tema de apertura",
+  "licencia": "texto de wiki; referencia"
+ },
+ {
+  "url": "https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Utopia_(song)",
+  "fuente": "Fandom (wiki oficial de fans)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del opening T2 «Utopia», interpretada por Keina Suda",
+  "para_que": "punto 9: crédito verificado del tema de apertura",
+  "licencia": "texto de wiki; referencia"
+ },
+ {
+  "url": "https://tsukigamichibikuisekaidouchuu.fandom.com/wiki/Aa_Jinsei_ni_Namida_Ari_(song)",
+  "fuente": "Fandom (wiki oficial de fans)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del ending recurrente, 3 versiones por personajes distintos",
+  "para_que": "punto 9: el gag musical de la serie, clave para un cuadro de diálogo propio",
+  "licencia": "texto de wiki; referencia"
+ },
+ {
+  "url": "https://www.tiktok.com/discover/tsukimichi-moonlit-fantasy-edits",
+  "fuente": "TikTok (discover)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Listado de edits virales de la serie, incluida la escena del arco del episodio 24",
+  "para_que": "punto 10: tendencia TikTok confirmada",
+  "licencia": "referencia externa, no descargable"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=Wi5k6q5ZKPg",
+  "fuente": "YouTube",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Reseña/análisis en inglés «This Is What Peak Isekai Looks Like! - TSUKIMICHI Moonlit Fantasy»",
+  "para_que": "punto 10: vídeo de análisis (no se pudo mirar por bloqueo de YouTube desde el servidor)",
+  "licencia": "referencia externa, no vista con fotogramas.py"
+ }
+]
