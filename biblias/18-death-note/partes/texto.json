@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://fonts.google.com/specimen/UnifrakturMaguntia",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente gótica libre UnifrakturMaguntia, comprobada con fontTools (trae tildes, ñ, ¿, ¡)",
+    "para_que": "Rótulo o cartela con letra estilo L / logo del cuaderno",
+    "licencia": "OFL (SIL Open Font License), gratis"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/UnifrakturCook",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente gótica libre UnifrakturCook, comprobada con fontTools (trae tildes, ñ, ¿, ¡)",
+    "para_que": "Alternativa al logo de Death Note sin depender de una fuente de dafont sin licencia clara",
+    "licencia": "OFL (SIL Open Font License), gratis"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Special+Elite",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente de máquina de escribir, comprobada con fontTools (tildes, ñ, ¿, ¡)",
+    "para_que": "Notas del cuaderno de investigación de L o cartelas tipo expediente policial",
+    "licencia": "OFL, gratis"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Shippori+Mincho+B1",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente japonesa (katakana/kanji completos), comprobada con fontTools sobre デスノート",
+    "para_que": "Logo o rótulo en japonés fiel al título original",
+    "licencia": "OFL, gratis"
+  },
+  {
+    "url": "https://fonts.google.com/noto/specimen/Noto+Sans+KR",
+    "fuente": "Google Fonts (Noto)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente coreana (hangul completo), comprobada con fontTools sobre 데스노트",
+    "para_que": "Interfaz o subtítulo en coreano, como en el videojuego Killer Within",
+    "licencia": "OFL, gratis"
+  },
+  {
+    "url": "https://fonts.google.com/noto/specimen/Noto+Sans+SC",
+    "fuente": "Google Fonts (Noto)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente china simplificada (hanzi completo), comprobada con fontTools sobre 死亡笔记",
+    "para_que": "Interfaz o subtítulo en chino",
+    "licencia": "OFL, gratis"
+  },
+  {
+    "url": "https://store.steampowered.com/app/2213190",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Capturas oficiales de DEATH NOTE Asesino Interior (Killer Within), interfaz y cuadros de diálogo del videojuego",
+    "para_que": "Referencia de interfaz de videojuego de la franquicia (punto 11)",
+    "licencia": "Material promocional de Steam, sólo como referencia (no para pegar)"
+  },
+  {
+    "url": "https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note",
+    "fuente": "Death Note Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Las reglas completas del cuaderno, fuente primaria del manga (páginas How to Use It)",
+    "para_que": "Reglas del mundo en cinco líneas (punto 25)",
+    "licencia": "CC BY-SA (Fandom), texto de referencia, no imagen para pegar"
+  },
+  {
+    "url": "https://deathnote.fandom.com/wiki/Death_Note_(object)",
+    "fuente": "Death Note Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del objeto central de la serie: el cuaderno negro con letras blancas",
+    "para_que": "Diseño exacto del objeto icónico que propone el encargo",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://deathnote.fandom.com/wiki/Special_Provision_for_Kira",
+    "fuente": "Death Note Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la SPK de Near, con su identidad visual (máscara de payaso blanca)",
+    "para_que": "Símbolo/identidad visual de un grupo del mundo (punto 25)",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/DeathNote",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista oficial de episodios del anime dividida en Parte I y Parte II",
+    "para_que": "Base para la historia por arcos (punto 25)",
+    "licencia": "Texto de referencia, no imagen"
+  },
+  {
+    "url": "https://sleepycrossing.neocities.org/longform/takeshi-obata",
+    "fuente": "Blog independiente (análisis técnico)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Análisis detallado del estilo de línea y sombreado de Takeshi Obata",
+    "para_que": "Base del punto 18 (estilo de dibujo y cómo replicarlo)",
+    "licencia": "Texto de referencia, no imagen para pegar"
+  },
+  {
+    "url": "https://fullfrontal.moe/tetsuro-araki/",
+    "fuente": "Full Frontal (entrevista)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista larga a Tetsurō Araki (director del anime) sobre su estilo e influencias",
+    "para_que": "Cita directa sobre técnica y equipo real de producción (punto 18)",
+    "licencia": "Texto de referencia"
+  },
+  {
+    "url": "https://www.tumblr.com/kiranatrix/190168994761/obata-interviews-on-death-note-character-designs",
+    "fuente": "Tumblr (recopilación de entrevistas a Obata)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Citas de Obata sobre el diseño de Ryuk y L",
+    "para_que": "Punto 18, intención del autor en el diseño",
+    "licencia": "Texto de referencia, recopilación de fan"
+  },
+  {
+    "url": "https://www.comipress.com/news/2007/01/15/1330",
+    "fuente": "ComiPress",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Traducción de la entrevista original de Shonen Jump a Tsugumi Ohba sobre el origen de Death Note",
+    "para_que": "Punto 24, influencias e intención del autor",
+    "licencia": "Texto de referencia"
+  },
+  {
+    "url": "https://www.inverse.com/article/35689-death-note-tsugumi-ohba-creator-netflix-manga",
+    "fuente": "Inverse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Perfil de Tsugumi Ohba con sus modelos a seguir declarados (Fujiko F. Fujio, Akatsuka, Ishinomori)",
+    "para_que": "Punto 24, influencias del autor",
+    "licencia": "Texto de referencia"
+  },
+  {
+    "url": "https://anifusion.ai/style/death-note-style-generator/",
+    "fuente": "Anifusion (generador de estilo IA)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Resumen agregado de iluminación, paleta y cámara típicas de Death Note",
+    "para_que": "Punto 18, iluminación y encuadres",
+    "licencia": "Texto de referencia"
+  },
+  {
+    "url": "https://deathnote.fandom.com/wiki/Death_Note_/A_Official_Analysis_Guide_of_the_Animation",
+    "fuente": "Death Note Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del making of oficial japonés (Shueisha, 2007), nunca traducido",
+    "para_que": "Punto 18, confirma la existencia del making of aunque no se pudo leer su interior",
+    "licencia": "CC BY-SA (Fandom)"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/RETAS",
+    "fuente": "Wikipedia",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Software RETAS (Celsys), estándar de animación 2D japonesa de los 2000",
+    "para_que": "Punto 18, contexto de industria/técnica de producción",
+    "licencia": "CC BY-SA"
+  },
+  {
+    "url": "https://deathnote.fandom.com/wiki/Shinigami_Eyes",
+    "fuente": "Death Note Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del trato de los ojos de shinigami",
+    "para_que": "Vocabulario propio del mundo (punto 25)",
+    "licencia": "CC BY-SA (Fandom)"
+  }
+]

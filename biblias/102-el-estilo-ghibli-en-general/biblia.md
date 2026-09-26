@@ -152,3 +152,83 @@ Los modelos de *Chihiro* (Aburaya, Haku, Sin Cara) están en la biblia 98. Aquí
 **Fotos CC para volumen real:** 10 fotos del **Museo Ghibli** (robot de Laputa en la azotea, jardín, fachada), CC BY-SA 2.0, 1024×768, en [Flickr](https://live.staticflickr.com/8313/8025600359_b89c00a1c1_b.jpg). ✅ (licencia en la API de Openverse)
 
 **Lo que dice el fan art del estilo:** en [Danbooru](https://danbooru.donmai.us/posts?tags=studio_ghibli), las etiquetas de Kiki, San, Howl, Chihiro, Jiji y Nausicaä repiten pelo natural, ropa sencilla y **fondo simple**. Es lo contrario del estudio, que pinta el fondo con detalle. Es justo lo que falla al imitar Ghibli (punto 17).
+
+## 4. Fondos y sitios: luz, paleta y texturas reales
+
+La casa de baños de *Chihiro* y sus paletas están en la biblia 98 (punto 4). Aquí, **sitios de otras películas**, para ver que la paleta cambia pero la técnica no. Todo medido con `estilo.py` sobre fotogramas oficiales de 1920×1038.
+
+| Sitio (película) | Luz | Paleta medida (de más a menos píxeles) | Línea y brillo |
+|---|---|---|---|
+| Bosque del Espíritu, de día ([mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg)) | rayos dorados entre árboles | `#2E2823` `#463B27` `#D6D183` `#675223` `#95781E` `#B6A249` | poca línea (`#6C5228`), brillo 42 % |
+| Sartén sobre Calcifer ([howl016](https://www.ghibli.jp/gallery/howl016.jpg)) | fuego naranja en interior | `#8E6C56` `#61463C` `#362B28` `#E3DBCD` `#EB6E35` `#DFA881` | línea normal (`#7C5144`), brillo 56 % |
+| Carretera de noche, Gatobús ([totoro031](https://www.ghibli.jp/gallery/totoro031.jpg)) | faros cálidos en la noche | `#272A27` `#66523D` `#AB803E` `#C7A070` `#93807B` `#E3CC9C` | línea normal (`#6B5138`), brillo 48 % |
+| Ola-pez en la tormenta ([ponyo025](https://www.ghibli.jp/gallery/ponyo025.jpg)) | tormenta de día | `#317AA9` `#C6EAE8` `#296A90` `#96C2CD` `#4C99BB` `#28516B` | brillo 70 %, sin acento cálido |
+| Naoko pinta en el bosque ([kazetachinu028](https://www.ghibli.jp/gallery/kazetachinu028.jpg)) | sol de verano, viento | `#66A93F` `#3B3B34` `#32743C` `#4F977A` `#A4A484` `#D5D7CD` | línea `#497143`, brillo 52 % |
+| Panadería de Kiki ([majo028](https://www.ghibli.jp/gallery/majo028.jpg)) | interior de madera | `#232322` `#48403A` `#BD9F86` `#7F7A7A` `#7C503C` `#AA714F` | brillo 45 % |
+| Colina con el espantapájaros ([howl010](https://www.ghibli.jp/gallery/howl010.jpg)) | atardecer, viento fuerte | `#403639` `#694E3F` `#542C2D` `#352324` `#B99D89` `#A77951` | brillo 39 % |
+| Calle del pueblo de Kiki ([majo015](https://www.ghibli.jp/gallery/majo015.jpg)) | tarde nublada, fría | `#263238` `#1E292E` `#CBB993` `#404B56` `#9D957D` | brillo 34 %, la más azul |
+| Valle tóxico ([nausicaa020](https://www.ghibli.jp/gallery/nausicaa020.jpg)) | verde-ocre con esporas | `#273031` `#3D4341` `#142023` `#575A51` `#777560` `#A68D55` | mucha línea, brillo 33 % |
+| Fábrica de aviones ([kazetachinu030](https://www.ghibli.jp/gallery/kazetachinu030.jpg)) | gris plomizo, difusa | `#2D302E` `#1D1E1B` `#494438` `#374E58` `#685C47` `#657676` | mucha línea, brillo 31 % |
+
+✅ todo medido.
+
+**Lo que enseñan las medidas:**
+- **Fuera con luz → más brillo, menos línea.** Tormenta de Ponyo 70 %, bosque de Mononoke casi sin contorno.
+- **Dentro, trabajo o comida → cálido, madera, con línea.** Panadería y sartén.
+- Es el mismo patrón que midió la biblia 98 en la casa de baños. ✅ (dos películas distintas, mismo resultado)
+- **Un solo acento cálido** rompe una masa oscura: el amarillo de los rayos, el naranja del fuego, el ocre de los faros.
+
+**Texturas reales CC0** ([ambientCG](https://ambientcg.com/view?id=Grass001), licencia comprobada en su API):
+- Hierba de Totoro y Mononoke: `Grass001`, `Grass005` (la colina de Howl).
+- Madera: `Planks030A` (mostrador de la panadería), `WoodFloor051` (suelo del castillo), `Wood060` (interiores claros).
+- Piedra de calle europea (Kiki): `PavingStones151`.
+- Tejas (*El viento se levanta*): `RoofingTiles013A`.
+- ⚠️ No hay «papel de acuarela mojado» en ambientCG (0 resultados). Lo más cercano: `Paper004` (punto 19).
+
+## 5. Tipografía
+
+Las 9 letras por uso de *Chihiro* (Shippori Mincho, Klee One, Yuji Syuku…) están en la biblia 98, punto 5. Aquí, **la letra del estudio** y la idea clave: **no hay una única «letra Ghibli»**. Cada película tiene la suya.
+
+**El logo.**
+- Totoro de perfil con el pequeño encima; texto japonés arriba y «STUDIO GHIBLI» abajo, separados por una línea fina. ✅ ([Logos Wiki](https://logos.fandom.com/wiki/Studio_Ghibli), [1000logos](https://1000logos.net/studio-ghibli-logo/))
+- «STUDIO GHIBLI» está en **Futura**. ✅ ([Scary Logos Wiki](https://freakylogo.fandom.com/wiki/Studio_Ghibli), [Closing Logo Group](http://closinglogogroup.fandom.com/wiki/Studio_Ghibli_(Japan)))
+- ⚠️ Una recreación de fan en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Studio_Ghibli.png) dice MS Gothic + ITC Avant Garde. Es de fan y Avant Garde se confunde con Futura: manda Futura.
+- El SVG oficial es **negro puro** (`#000000`) sobre transparente, 1000×481. El fondo celeste que circula es de vídeo, no del vector. ✅ medido.
+- Historia: Topcraft (1972-85), sin logo propio (1985-91), Totoro desde *Recuerdos del ayer* (1991), Totoro pequeño solo desde 1993 para merchandising y Blu-ray. ✅
+
+**El título de cada película:**
+- *Mi vecino Totoro*: **Spumoni**, redonda y con rebote. ⚠️ ([fontmeme](https://fontmeme.com/my-neighbor-totoro-font/))
+- *El viaje de Chihiro*: variante de **Palatino**. ⚠️
+- *El castillo ambulante*: **Albertus** (Berthold Wolpe, Monotype). ✅ (fontmeme + [fontbolt](https://www.fontbolt.com/font/howls-moving-castle-font/)). ⚠️ No hay equivalente libre claro ([typetype.org](https://typetype.org/fonts/albertus-similar-fonts/) cita Village, Asul, Grantham Roman).
+- *La princesa Mononoke*: no encontrada.
+
+**Letras libres por uso, para el estilo en general:**
+
+| Uso | Letra libre | Tildes, ñ, ¿ ¡ |
+|---|---|---|
+| Logo o título | **Jost** (la mejor alternativa a Futura: [fontalternatives](https://fontalternatives.com/alternatives/futura/), [learnui.design](https://www.learnui.design/blog/futura-similar-fonts.html), [donstudio](https://donstudio.com/jost-a-google-font-similar-to-futura/)) | ✅ comprobado con fontTools |
+| Cartel del mundo, créditos | **Noto Serif JP** (= Source Han Serif, [GitHub de Adobe](https://github.com/adobe-fonts/source-han-serif), SIL OFL) | ✅ comprobado con fontTools |
+| Texto «a mano» de *Ponyo* | **Tanugo** (tanukifont, gratis comercial) | ⚠️ no comprobado |
+| Rótulo gótico de *Laputa* | **Tetsubin Gothic** (Flop Design, BOOTH, gratis) | ⚠️ no comprobado |
+| Letra redonda de *Nausicaä* | **Checkpoint Font** (cute-freefont, «商用OK») | ⚠️ no comprobado |
+| Carteles con pincel, notas | las de la biblia 98 (Klee One, Yuji Syuku, Yomogi) | ✅ en la 98 |
+
+Las cuatro japonesas las recomienda un blog de tipografía ([kyoukasho.net](https://www.kyoukasho.net/entry/ghibli-fonts)). ⚠️ una fuente, de aficionado.
+
+**No hay globos, gritos, pensamientos ni onomatopeyas escritas**: son películas, se habla en voz (punto 6). Subtítulos: sobrios, sin letra propia verificada. ⚠️
+
+## 6. Cómo hablan y piensan en pantalla
+
+**Lo más importante de esta biblia para la lámina.**
+
+- **Ghibli no usa globos ni cartelas.** Casi no hay texto sobre la imagen ni interfaz. La historia va con imagen, voz y sonido ambiente. ✅ (partes de texto y vídeo, y la 98)
+- **El texto vive dentro del fondo.** Letreros y carteles en japonés real, **pintados a mano** con la misma luz y textura que la escena. No son un gráfico puesto encima. ✅
+- **Ejemplo:** en *Chihiro* (min. 7:24) un cartel con forma de ojo lleva 塩 («sal») como pupila, y otros dicen め («ojo») y 三千眼 («tres mil ojos»). Chihiro, que no sabe leerlos, se siente vigilada. ⚠️ ([K-State English](https://englishkstate.org/2022/12/08/signs-signs-everywherethe-hidden-depth-of-japanese-signs-in-spirited-away/)). La bandera 油屋 («Aburaya») juega con 湯 y 油, que se leen igual. ✅ ([Yahoo Chiebukuro](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1454570314)). Más en la 98.
+- **El silencio también habla: «ma» (間).** Una pausa a propósito para que la escena respire. El kanji une «puerta» y «sol»: una puerta por la que entra la luz. ✅ ([Sensacine México](https://www.sensacine.com.mx/noticias/noticia-1000202284/), [Tumblr @isavstheworld](https://www.tumblr.com/isavstheworld/172528407297/the-concept-of-ma-%E9%96%93-in-miyazakis-movies)). Roger Ebert le preguntó a Miyazaki por esos momentos y él respondió con la palabra «ma». ⚠️ (de segunda mano)
+- **Los compañeros casi no hablan idioma humano**: Totoro ruge, el Gatobús maúlla grave, Sin Cara jadea. Su «diálogo» es gesto y sonido. ✅
+
+**Qué cuadro de diálogo usar en una lámina:**
+- **Un cartel, un papel o una tablilla pintados en el sitio**, a gouache, con la luz de la escena. Ejemplos: las fichas de madera y la bandera 油 de la casa de baños (biblia 98). ⚠️ Para la parada de Totoro (totoro034) y la panadería de Kiki (majo028), ampliar el fotograma antes de copiar un cartel: las partes no lo describen.
+- Letra: **Noto Serif JP** para el cartel, **Jost** para el título.
+- **Nunca** una burbuja blanca. Nunca un panel de interfaz: Ghibli no tiene.
+- Si el personaje «habla», es **una frase corta y real** del doblaje (punto 8) escrita en un objeto que él sostiene o señala.
