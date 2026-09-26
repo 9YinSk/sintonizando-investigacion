@@ -14,11 +14,19 @@ Cuenta: cuenta I34
 - 42 Blue Lock: **COMPLETA** (23:04). ✅23 ⚠️11 ❌0, 164 refs, 68 webs.
 - 45 Mob Psycho 100: **COMPLETA** (00:05). ✅32 ⚠️5 ❌0, 108 refs, 49 webs.
 - 43 Kaguya-sama: **COMPLETA** (2026-09-26 01:40 UTC). ✅25 ⚠️12 ❌0, 111 refs, 55 webs.
-- 44 Shigatsu: 4 partes hechas; vídeo relanzado (floja: 3 webs); luego redactor.
+- 44 Shigatsu: **COMPLETA** (2026-09-26 13:55 UTC). ✅21 ⚠️9 ❌0, 156 refs, 53 webs.
 - 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados; se relanzó todo al reanudar).
 
 ## Avisos para el dueño
 
+- **44 Shigatsu**: más querida, Kaori (9323 favoritos en AniList frente a 4810 de Kousei). Cuadro: la carta manuscrita
+  de Kaori (ep. 22, 19:22); el pensamiento va sobre fondo de océano oscuro, nunca en nube. Láminas (#canto / #demos-canto):
+  la carta sobre el atril; el programa del concierto en Towa Hall; la partitura en escenario mitad gris mitad color.
+  - Punto 14 ⚠️: Watari (5) y Tsubaki (4) poses con minuto; faltan los ep. 9 y 11-19.
+  - Ver a mano ep. 3, 20:30-21:30: el plano de Kousei agarrando la manga de Kaori (tres poses de la parte eran de otro personaje; corregido).
+  - Doblaje latino sin estrenar (fines de 2026): voces confirmadas, pero las frases son subtítulos del japonés.
+  - Figura de Kaori anunciada en kimiuso.jp (feb-2025), sin fabricante ni fotos.
+  - Decidir: la frase «¡Y aplaude a los demás!» del concepto 2 es propuesta del redactor.
 - **43 Kaguya-sama**: más querida, Kaguya en AniList (20 513; luego Chika y Miko Iino); en Japón (ねとらぼ) gana Ai Hayasaka;
   Shirogane último en las dos. Cuadro: la cartela vertical «本日の勝敗» (#FCFCFC, borde negro grueso, Shippori Mincho).
   Láminas: A ⭐ #🎯・reto-de-la-semana naipe en la mesa del consejo con Kaguya; B #🎧・demos el fanbook abierto con Chika;

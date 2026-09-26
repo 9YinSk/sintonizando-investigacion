@@ -420,3 +420,88 @@ Aviso: Elden Ring **no tiene caras expresivas** como un anime. Las caras casi no
 - Poses de arte oficial: Melina sentada al brasero (4 fotogramas), turnarounds (hoja 1, nº 10, 46, 47); Malenia concept art de pie (nº 43).
 - ✅ Dos vídeos distintos muestran el mismo diseño. Cumple el mínimo de 6 poses por personaje.
 
+## 15 · Vestuario con hex medidos
+
+No hay «temporadas»: la ropa cambia por conjunto de armadura. Hex medidos con `estilo.py`.
+
+| Personaje | Prenda | Hex medidos | De qué imagen |
+|---|---|---|---|
+| Melina | Capa y túnica con capucha, gris ceniza | #585252 · #80716F · #332F2F | Render Melina03 |
+| Melina | Piel, casi cadavérica | #DBCDC6 · #AD9893 | Render Melina03 |
+| Malenia | Casco alado, brazo dorado, capa roja | #AD4B36 (óxido, Podredumbre) · #DA7650 (naranja quemado) · #E7B18B (dorado) | Key art «Goddess of Rot» |
+| Malenia | Armadura equipable (bronce viejo) | #372F26 · #5E5145 · #8C8171 | Icono «Malenia's Armor» |
+| Radahn | Armadura de león (bronce, melena roja) | #392F24 · #615440 · #9D8F75 | Icono «Radahn's Lion Armor» |
+| Radahn (DLC) | Armadura dorada con halo | ⚠️ sin medir | Promised Consort CloseUp |
+
+- **Ropa icónica de Melina**: la misma capa gris siempre. Cambia la **capucha, puesta o bajada**.
+- **Ropa icónica de Malenia**: casco alado, **brazo dorado** y capa roja. En la fase 2 se abren alas de pétalos y pierde parte de la armadura del pecho (hoja 2, nº 58-59). Es la imagen que todos reconocen.
+- Los iconos de armadura (fondo verde) dan el color limpio, sin la luz oscura de las cinemáticas.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+**Regiones** (panorámicas oficiales de la wiki, medidas con `estilo.py`)
+| Región | Luz | Hex | Tamaño |
+|---|---|---|---|
+| **Limgrave** (campo inicial, Árbol Áureo al fondo) | Atardecer cálido | #525A41 · #7C7A55 · #A5A67A · #D2D3A5 | 2428×874 ✅ |
+| **Liurnia de los Lagos** (lago, niebla, torres de magos) | Mediodía frío y nublado | #9298AF · #6F7592 · #4F5064 · #282626 | 3702×1188 ✅ |
+| **Caelid** (Podredumbre, tierra quemada) | Roja, de alarma | #2C1C1E · #553D38 · #952A25 · #D54934 | 3515×1293 ✅ |
+| **Leyndell, Capital Real** (ciudad dorada en ruinas) | Gris de tormenta sobre piedra clara | #646B67 · #818883 · #444C4B · #C4C9C9 | 1920×1080 ✅ |
+| **Haligtree de Miquella** (árbol helado, casa de Malenia) | Azul de nieve, anochecer | #4B637C · #3C546A · #576E88 · #2B4052 | 1920×1080 ✅ |
+
+- El rojo de Caelid es el mismo del key art de Malenia: la Podredumbre usa ese rojo en todo el juego ✅
+- Captura oficial de Steam del Árbol Áureo ardiendo: #42504A · #5D6754 · #78815E · #969B6A · #BBB478 · #DAD3A4 (verde musgo apagado y dorado cálido; saturación 29 %) ✅
+
+**Fondos de pantalla** (de [Wallhaven](https://w.wallhaven.cc/full/57/wallhaven-57o9j5.png))
+- **Malenia con alas de mariposa**, el más guardado (1432 favoritos), de smilyfox, origen [ArtStation](https://www.artstation.com/artwork/0360Vy) · 3777×2125 ✅
+- **Paisaje puro**, sin personajes, de Nightmarian (892 guardados), comentado en [Reddit](https://www.reddit.com/r/Eldenring/comments/q7yfo1/) · [5120×2880](https://w.wallhaven.cc/full/e7/wallhaven-e76ge8.jpg) ✅
+- **Ranni** con sombrero, noche morada, de ThorRagnarok · [2467×3700](https://w.wallhaven.cc/full/wq/wallhaven-wqkxyp.jpg) ✅
+- Capturas CC en [Flickr](https://live.staticflickr.com/65535/51912330757_bcb69e2b55_b.jpg) (MetaLanTNF «Dando un paseo a caballo», CC BY-NC, 1024×576) y otras en `referencias.json` ✅
+
+## 17 · Guía para generar con IA (imagen y texto)
+
+### Para una IA de imagen (Firefly, Canva)
+
+**Rasgos que nunca cambian**
+- **Melina**: mujer joven y menuda, pelo largo rosa ceniza, piel muy pálida, **un ojo cerrado con una marca oscura** (hoja 1, nº 29 y 31), bufanda clara, capa y túnica gris con capucha, botas. Sin armas.
+- **Malenia**: casco dorado **con alas**, capa **roja**, **brazo protésico dorado**, espada en la mano (concept art, hoja 1, nº 43). Heridas de Podredumbre visibles. Nunca «limpia».
+- **Ranni**: piel azulada, sombrero grande de bruja, fondo de noche morada (hoja 1, nº 14-20 y el wallpaper de ThorRagnarok) ⚠️
+
+**Estilo**
+- Render **realista pintado**, no anime ni cel-shading. Sin contorno de tinta.
+- Paleta desaturada (saturación cerca de 29 %). Verdes musgo apagados, dorado de la gracia, rojo óxido en Caelid, azul frío en Liurnia.
+- Luz: **una fuente fuerte detrás** (contraluz dorado) y niebla entre cámara y fondo.
+- Encuadre: **personaje pequeño** abajo, arquitectura o jefe enorme detrás. Cámara baja para revelar a un jefe.
+
+**Palabras que ayudan**: «dark fantasy oil painting», «ruined gothic cathedral», «golden erdtree glowing in the distance», «volumetric fog», «rim light», «muted desaturated palette», «weathered stone, moss», «FromSoftware concept art style».
+**Palabras que lo estropean**: «anime», «cel shading», «chibi», «vibrant», «cute», «clean UI», «smiling», «white speech bubble», «glossy».
+
+**Referencias de estilo y pose**
+- Estilo: captura de Steam del Árbol Áureo; concept art de Malenia (hoja 1, nº 43); panorámicas de §16.
+- Pose de Melina: sentada junto a la gracia ([0:20](https://www.dailymotion.com/video/x8fuija?t=20)) o de frente ([3:20](https://www.dailymotion.com/video/x89nx9b?t=200)).
+- Pose de Malenia: de pie con el brazo dorado ([0:00](https://www.dailymotion.com/video/x89wlj1?t=0)) o en la flor ([3:04](https://www.dailymotion.com/video/x89wlj1?t=184)).
+
+**Vocabulario de expresiones** (no hay gotas de sudor ni chibi; esto es lo que hay)
+- Rabia de Malenia = **flor escarlata**, llamas rojas, pétalos naranjas.
+- Tristeza de Melina = mirada baja, capucha que tapa media cara.
+- Revelación = **columna de luz blanca o dorada** vertical.
+- Locura = **ojos de fuego amarillo** (Llama Enloquecida).
+- Muerte o derrota = pantalla oscura con letras rojas.
+
+### Para una IA de texto (sus diálogos, en su voz)
+
+**Reglas**
+- Frases **cortas y solemnes**. Tono de profecía, sin prisa.
+- En inglés, arcaico («thou», «shouldst»). En español: **vos o tú con aire antiguo**, sin jerga moderna.
+- **Nunca** «jaja», emojis ni signos múltiples (¡¡!!). Nada de gritos escritos; la emoción va en lo que se dice.
+- Palabras del mundo: Sin Luz, gracia, Árbol Áureo, Gran Runa, Señor de Elden, Fractura, Orden Dorada, pacto, doncella.
+
+**Frases reales, por emoción**
+- **Explicando** (Melina): «I offer you an accord». «Thou shouldst take the crown?»
+- **Orgullo o reto** (Malenia): «I am Malenia, Blade of Miquella. And I have never known defeat».
+- **Enfadada** (Melina, si eliges la Llama): jura matarte, «Destined Death» ✅ (ficha de la wiki).
+- **Épico o narrador** (Story Trailer, 1:28): «El Círculo de Elden se rompió, pero ¿quién lo rompió, y para qué?»
+- **Triste o animando** (Melina, tráiler que no está en el juego): «The Tarnished will soon return… guided by grace once lost» ⚠️
+- ⚠️ No hay frases alegres: los personajes no las tienen.
+
+**Ejemplo en su voz para un canal** (escrito por nosotros, no del juego): «Sin Luz. Te ofrezco un pacto. Una línea, una escena. Cumple, y la gracia te guiará».
+

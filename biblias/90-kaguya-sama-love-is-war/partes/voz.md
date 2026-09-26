@@ -338,3 +338,82 @@ memean en Twitter/X según los hilos de TV Tropes citados arriba (sección
 **Mejor Comedia en los Crunchyroll Anime Awards dos años seguidos (2019 y
 2020)** — 43 ya mencionó el dato pero sin explicar el porqué; aquí queda
 unido a las escenas de arriba como evidencia concreta.
+
+### Punto 22 — Fan dubs y comunidad hispana (enfoque comedia, distinto a lo que listó 43)
+
+43 ya dio la lista general de fandubs y covers. Aquí sumo los que son
+**escenas cómicas específicas**, encontrados con búsqueda nueva (⚠️ YouTube
+sin sesión: sólo título y canal, sin vistas):
+
+- **«Fandub latino Kaguya sama | El Test Psicológico»** — escena cómica
+  del «test psicológico» del consejo (uno de los gags de malentendidos de la
+  serie) · [YouTube](https://www.youtube.com/watch?v=kTtAt8OPgVY) ✅ (dos
+  resultados de búsqueda apuntan al mismo canal, «Love Dramatic»).
+- **«¿A dónde tan fachero?»** — clip corto reposteado del doblaje oficial
+  (T3 «Ultra Romantic»), con el emoji 🤣 en el propio título, señal de que lo
+  suben **porque hace reír**, no por la trama · [YouTube](https://www.youtube.com/watch?v=8RXLlzAV-1I)
+  ⚠️ (un solo canal).
+- **My Dubber Heroes** (ya citado por 43 para «Kaguya Rechazo al
+  Presidente») también tiene fandubs de escenas de rechazo/comedia
+  romántica que son justo el tipo de malentendido cómico del punto 21.
+- El propio **doblaje oficial** genera clips virales por comedia (no sólo
+  por romance): la cuenta de TikTok **@eldonchalo** que ya citó 43 sube
+  específicamente **momentos graciosos doblados** con hashtags de comedia
+  (#anime #doblaje), confirmando que el ángulo cómico es el que más se
+  comparte del doblaje latino en redes ✅ (tiktok.com/@eldonchalo).
+
+**Para el servidor de doblaje** (idea concreta, comedia): la escena del
+«wiener» (punto 21) y la del padre de Shirogane con voz de DIO (punto 12-13)
+son **retos de doblaje comedia** ideales — cortas, con una frase icónica y
+un tono muy marcado (sorpresa/susto cómico) fácil de imitar.
+
+## Lo mejor para la lámina
+
+- **Papá Shirogane con voz de DIO** (Rafael Pacheco, 112 Hz grave): gag
+  visual+sonoro perfecto para un personaje secundario en una lámina cómica.
+- **El «Snark Test»** con niveles por personaje: se puede adaptar como
+  mini-encuesta o insignia del canal (¿qué nivel eres?).
+- **Frase de Nagisa** («sólo quiero saber cómo puedo romper con mi novio»,
+  0:00-0:13, Yaha Lima, la voz más aguda medida) para un reto de doblaje
+  corto de comedia romántica.
+- **Adolphe jugando Pokémon GO** mientras regaña por el celular: gag de
+  doble moral, bueno para un secundario en pose "regañando" pero con el
+  teléfono a medio esconder.
+- **Chika Fujiwara con página propia en Wikipedia** y nominación a "Best
+  Girl": confirma que el secundario puede ser el protagonista de la lámina.
+
+## No encontré
+
+- **Vistas o comentarios con votos** de los fandubs cómicos nuevos
+  («El Test Psicológico», «¿A dónde tan fachero?»): YouTube pidió sesión
+  ⚠️ (3 intentos, distintos videos).
+- **Minuto exacto en el anime** de la escena del «wiener» (cap. 27 del
+  manga) y del juego de mesa (cap. 57): no confirmé si están adaptadas en
+  el anime o son manga-only; TV Tropes no da número de episodio ⚠️
+  (búsqueda: "kaguya sama episode list volume 27 chapter adaptation").
+- **Caras con minuto de vídeo** de los 6 secundarios cómicos (Kei, Nagisa,
+  Tsubasa, Adolphe, Kobachi, Sr. Shirogane): sólo arte de wiki sin minuto,
+  porque casi no tienen planos propios en el anime ⚠️.
+- **Reacciones hispanas con votos** a los gags de comedia (equivalente al
+  llanto que documentó 43): Reddit r/Kaguya_sama sigue en cuarentena
+  (confirmado otra vez con Arctic Shift, 0 resultados) ⚠️.
+
+## Bitácora
+
+- doblaje.fandom.com/es/api.php — reparto latino y «Datos de interés»
+  (español) — ya leído por `recolectar.py`, filtrado aquí para comedia.
+- kaguyasama-wa-kokurasetai.fandom.com/api.php — secciones *Personality* de
+  Nagisa, Tsubasa, Kobachi, Adolphe, Moeha, Toyomi (inglés) — 6 llamadas.
+- kaguyasama-wa-kokurasetai.fandom.com/api.php — imágenes e imageinfo de 5
+  secundarios (inglés) — 2 llamadas.
+- `herramientas/voz.py` sobre 6 muestras `.ogg` de Doblaje Wiki que 43 no
+  había transcrito (español) — hecho en el punto 8.
+- `herramientas/navegar.py` en tvtropes.org/.../Funny/KaguyaSamaLoveIsWar
+  (inglés, con selector `.folder` para saltar el colapso de JS) — 2
+  intentos, el segundo funcionó.
+- WebSearch: `"Kaguya-sama" fandub latino parodia comedia español tiktok`
+  y `"Kaguya sama" fandub cómico "escena" latino youtube español` (español) —
+  2 búsquedas, encontraron 2 fandubs cómicos nuevos.
+- en.wikipedia.org/wiki/Chika_Fujiwara (inglés) — ya usado en punto 7-8.
+- arctic-shift.photon-reddit.com — confirmado r/Kaguya_sama en cuarentena,
+  0 resultados (repetido de 43, mismo resultado).

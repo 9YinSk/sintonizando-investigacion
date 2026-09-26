@@ -635,3 +635,130 @@ Nuggets; Vaggie, la lanza; Loona, el móvil; Millie, el hacha; Stolas, el grimor
 **Cómo se ven**: Charlie, como la única esperanza de cambio; Angel, como un
 fracaso tras la fachada («Loser, Baby»); Alastor, como el único con clase ⚠️.
 
+## 21 · Por qué la gente la ama
+
+- **Las canciones son la puerta de entrada**: «Poison» con 153 millones de streams; «Hell's Greatest Dad» con más de 100 millones de vistas ✅.
+- **Angel Dust** conecta por su doble cara: fachada segura y trauma real, abuso y adicción sin perder la comedia. Collider llamó a Blake Roman «estrella instantánea» ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Angel_Dust_(Hazbin_Hotel))). Crítica en contra: The Michigan Daily dice que a veces su hipersexualidad es sólo chiste.
+- **Alastor** fascina porque nadie sabe qué quiere: años de teorías ✅.
+- **Charlie y Vaggie**: pareja LGBT+ protagonista, poco común en animación adulta ⚠️.
+- **Es independiente**: nació gratis en YouTube (piloto de 2019) y «Addict» llegó a 150 millones antes de la serie ⚠️.
+- El público se identifica con **Angel y Husk**: dos «duros» que admiten que se sienten perdidos.
+
+**Escenas que hacen llorar o gritar**
+
+| Escena | Episodio | Qué pasa | Por qué duele | Música |
+|---|---|---|---|---|
+| «Poison» | T1E4 «Masquerade» | Angel revive su relación abusiva con Valentino mientras canta | no suaviza el abuso; la letra choca con el color del show | «Poison», Blake Roman |
+| «Loser, Baby» | T1E4 | Husk y Angel cantan que se sienten un fracaso, rodeados de letreros de neón con sus inseguridades | dos personajes duros se abren | «Loser, Baby», Keith David y Blake Roman |
+| «Hell's Greatest Dad» | T1 «Dad Beat Dad» | Lucifer y Alastor compiten cantando por Charlie | risa con fondo agridulce: Charlie quiere a su padre cerca | «Hell's Greatest Dad» |
+
+⚠️ No se leyeron comentarios con más votos ni vídeos de reacción: YouTube
+bloqueado. Minutos exactos de estas escenas dentro del episodio: no
+localizados (los episodios están tras el muro de Prime Video).
+
+## 22 · Fan dubs y comunidad hispana
+
+- **«La Cita de Alastor» (Alastor × Rosie)**, fandub cómico latino, canal LATAM Fandub Studios, 484 vistas, 1:33 · [x9btgze](https://www.dailymotion.com/video/x9btgze) ✅ (visto)
+- Fandub por capítulos «Hazbin Hotel (Cap. 4/5/7) Español Latino | Fandub - Doblaje», en partes ⚠️ (título por buscador; YouTube bloqueado)
+- Cover de «Poison» en español latino ⚠️ (título en YouTube, no reproducido)
+- Cover «En cada demonio hay un arcoíris», 35 vistas · [x7ouvjc](https://www.dailymotion.com/video/x7ouvjc) ⚠️
+- «Hazbin Hotel Anime Opening [Fanmade]», 1205 vistas · [x80dx2d](https://www.dailymotion.com/video/x80dx2d) ⚠️
+- Versiones oficiales en español latino de «Loser, Baby» y «Poison» publicadas aparte ⚠️
+- El elenco latino de la T1 posó en una foto de presentación, 2000×2000 · [imagen](https://static.wikia.nocookie.net/doblaje/images/7/7a/Elenco-Hotel_Hazbin.jpg) ⚠️
+- **Helluva Boss**: no se encontró fandub ni cover en español.
+
+**Para el servidor**: el fallo real del doblaje (el filtro de radio de Alastor
+que se quedó puesto) y las muestras de voz medidas del punto 8 dan juego para
+retos de doblaje.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Hazbin Hotel × Animate Café**, Tokio (Ikebukuro) y Osaka, 8-oct a 2-dic-2025: menú temático y 17 posavasos al azar ✅ ([essential-japan.com](https://essential-japan.com/)).
+- Pop-up de Parco Ikebukuro, nov-2025, cartel con arte exclusivo (punto 1) ✅.
+- **Helluva Boss × Hazbin Hotel × Smile Base Café**, gira 2026: Nagoya (1-8 abr y 18-29 abr), Shinsaibashi (2-13 may), Ikebukuro (23 may-4 jun) ✅ ([Smile Base Café en X](https://x.com/smilebasecafe)).
+- **Figuras Youtooz** oficiales llegando a Japón, anunciadas por [@HELLAVERSE](https://x.com/HELLAVERSE/status/1949845490490593432) ⚠️.
+- Merchandising oficial (tienda propia y Hot Topic): pósters, figuras, peluches, pines · página «Official Merchandise» de las dos wikis ✅. BoxLunch vende ropa de VoxTek con el año 1952 ✅.
+- **Cosplay con licencia CC BY 2.0**: diez fotos del encuentro de cosplay de Animate! Miami 2025, por «Super Festivals», hasta 6048×4032 · [foto 3](https://upload.wikimedia.org/wikipedia/commons/3/34/Hazbin_Hotel_Cosplay_Meet_Up_-_Animate%21_Miami_2025_3.jpg) ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hazbin_Hotel_Cosplay_Meet_Up_-_Animate!_Miami_2025_3.jpg)) ✅
+- Cruce propio: Charlie de Jack y Vaggie de Sally (Halloween 2018) ⚠️.
+- **No hay** colaboración con Fortnite, gachas ni marcas grandes: sólo un rumor de April Fools 2024 ⚠️.
+
+## 24 · Obras parecidas
+
+- **Invader Zim**: Medrano lo recomienda y hay cameo de los Altos Rojo y Púrpura ✅ ([Dexerto](https://www.dexerto.com/tv-movies/shows-to-watch-if-you-like-hazbin-hotel-2533898/), [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/ReferencedBy/InvaderZim)).
+- **Murder Drones** (Glitch): también nació en YouTube y comparte actores (Michael Kovach, Elsie Lovelock) ✅.
+- **Panty & Stocking**: la comparación de la crítica por ángeles, demonios y vulgaridad ✅ ([ScreenRant](https://screenrant.com/panty-and-stocking-beat-hazbin-hotel-viral-anime/)).
+- **The Good Place** y **The Owl House**: Cielo, Infierno y redención; personajes queer ✅.
+- Influencias de estilo: Bruce Timm, Tim Burton, Disney, Looney Tunes (punto 18).
+- **Ya en el servidor, no repetir**: Steven Universe (104, tono pastel y familiar), Arcane (17, pintada), Rick and Morty (13, ciencia ficción). Ninguna tiene el ángulo «musical + radio demoníaca».
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas en cinco líneas** ([Rings of Hell](https://hazbinhotel.fandom.com/wiki/Rings_of_Hell)):
+1. El Infierno tiene **siete Anillos**, uno por pecado capital. Los pecadores no salen de su Anillo; los nacidos en el Infierno y la realeza, sí.
+2. Los **Sinners** (almas humanas) están por debajo de los **Hellborn** (imps, sabuesos, súcubos).
+3. Los **Overlords** (Alastor, los Vees, Carmilla, Zestial, Rosie…) controlan territorio, medios y negocios.
+4. Los **Siete Pecados** (Lucifer, Satán, Belcebú, Mammón, Asmodeo, Leviatán, Belfegor) gobiernan por encima.
+5. Cada año llega el **Exterminio**: exorcistas con **armas angélicas** bajan a matar pecadores.
+
+**La historia por arcos:**
+- **Piloto** «That's Entertainment», 28-oct-2019, gratis en YouTube: el Happy Hotel y la idea de redención.
+- **A24** la recoge (7-ago-2020). **T1** en Prime Video, 19-ene-2024, 8 episodios: se funda el hotel, llegan Angel y Sir Pentious, el Exterminio ataca al final. Muere Sir Pentious.
+- **T2**, 29-oct-2025, 8 episodios: la guerra de Vox contra el hotel; los Vees como villanos.
+- **T3, T4 y T5**: confirmadas ✅.
+- **Helluva Boss** en paralelo: I.M.P., sicarios que trabajan del Infierno hacia el mundo humano.
+
+**Símbolos que un fan reconoce al instante:**
+- El **letrero de neón del hotel** y el logo déco con el ojo en diamante.
+- El **bastón-micrófono** de Alastor y su estática.
+- **VoxTek** (fundada en 1952 en el lore) y **666 News** («Murder! Sex! Weather!»).
+- **I.M.P.** (Immediate Murder Professionals) y su jingle.
+- El **grimorio de Stolas** (hay modelo 3D y caja del juego de mesa con su forma) y el **hacha de Millie**.
+- Las **armas angélicas** (mercado negro de Carmine Industries).
+- El **pentagrama** que da nombre a la ciudad.
+
+**Vocabulario**: Sinner, Hellborn, Overlord, Exterminio, Anillo del Orgullo,
+Pentagram City, Radio Demon, «Smiles», «the Vees», Goetia.
+
+## Conceptos de lámina (3)
+
+Canal principal propuesto: **📻・RADIO EN VIVO** (escenario, «La radio de la
+casa. Pides por comandos y suena aquí.»), y su hermano de voz **📻・Radio 24/7**.
+Otras biblias también proponen la radio (Kakegurui, Days Gone, Digimon,
+Dandadan, Mob Psycho): no es problema, el dueño elige.
+
+### Concepto 1 · «En el aire con el Demonio de la Radio» → 📻 RADIO EN VIVO
+
+- **Objeto real en sitio real**: una **radio de válvulas de los años 30** sobre la **barra del bar del hotel**, en el lobby art déco. En Blender: radio CC0 de [Poly Haven](https://polyhaven.com/a/vintage_radio_transceiver) + bar CC BY de ladydarkness_99 (Sketchfab) + alfombra `Carpet016` y terciopelo.
+- **Personaje**: **Alastor**, el más querido. De pie, apoyado en el bastón-micrófono, sonrisa enorme (pose del tráiler T1, 1:59; render «Alastor s2 Render by OKDraws», hoja n.º 33). Mira a cámara, una mano abierta hacia la radio, como quien presenta su programa.
+- **Cómo habla**: sin burbuja. Su frase sale de la radio como una **banda de estática**: líneas horizontales y la onda de radio ondulando, en rojo `#E41C44` y verde de estática. Letra: **Cinzel Decorative** para el título, **Special Elite** para los comandos (tarjeta de programación escrita a máquina).
+- **Dónde va cada texto**:
+  - Título «RADIO EN VIVO» → grabado en la **esfera del dial**, iluminada por detrás.
+  - «La radio de la casa.» → en la banda de estática que sale del altavoz, voz de Alastor: «Bienvenidos a la radio de la casa, queridos.»
+  - «Pides por comandos y suena aquí.» → en la **tarjeta de programación** apoyada contra la radio, con los comandos en lista.
+- **Que no quede plano**: luz ámbar de las válvulas (`#E2BD87`) desde abajo; neón rojo del lobby detrás (`#6C0E2A`); el **candelabro** desenfocado delante, arriba; una copa de Husk en primer plano de la barra.
+
+### Concepto 2 · «Tu nombre en la marquesina» → ıı・🎼・demos-canto
+
+- **Objeto real en sitio real**: el **letrero de neón «HAZBIN HOTEL»** (tráiler T1, 0:24, el que bajan entre farolas con su gag escrito) y, colgada debajo, una **marquesina de vodevil con letras de quita y pon**. En Blender: tubos de neón con emisión real y bombillas.
+- **Personaje**: **Charlie**, la que canta todo lo que siente. Brazo en alto y boca abierta cantando (hoja n.º 45, 2732×1532; alegría del tráiler T2, 2:09). Detrás, en pequeño, Vaggie mirando con los brazos cruzados (1:59).
+- **Cómo habla**: la propia marquesina es el cuadro, como en la serie. Letra: **Monoton** (neón) para el título y **Oswald** para el cuerpo en las letras de quita y pon.
+- **Dónde va cada texto**:
+  - «demos-canto» → en el neón, bajo «HAZBIN HOTEL».
+  - «Tu ficha de CANTO, aparte de la de doblaje» → primera línea de la marquesina.
+  - «Un hilo con tu registro y tus covers» → segunda línea.
+  - Las 14 etiquetas (Soprano… Anime OP/ED, Disponible, Ocupado) → **lámina 2**: un programa de mano del musical, con las etiquetas como «reparto».
+- **Que no quede plano**: farolas en primer plano cortando el borde; cielo de Pentagram City en magenta (`#AA0A39`, `#D21A4D`) con humo; las bombillas reflejadas en la piel de Charlie.
+
+### Concepto 3 · «Encargo de la semana en I.M.P.» → ıı・🎯・reto-de-la-semana
+
+- **Objeto real en sitio real**: la **pizarra de la oficina de I.M.P.** (piloto de Helluva Boss, 0:00, la de «FIXING SHIT»). En Blender: sala de juntas CC BY de simysimes (Sketchfab), pizarra con la tinta siguiendo la superficie.
+- **Personaje**: **Blitzø** señalando la pizarra, inclinado hacia delante, ceja fruncida (pose de explicar, 0:00). Al fondo, **Loona** con el móvil y cara de fastidio (tráiler T3, 0:30).
+- **Cómo habla**: cabecera con el **logo de I.M.P.** (círculo rojo sobre trama de puntos); su frase en un recuadro con halftone, letra **Bangers** (grita). En la pizarra, **Permanent Marker**; título en **Nosifer**.
+- **Dónde va cada texto**:
+  - «reto-de-la-semana» → en la cabecera I.M.P.
+  - «Un reto por semana: una línea, una escena, un tono.» → escrito a rotulador en la pizarra, como un encargo.
+  - «Se entrega dentro del hilo del reto.» → post-it pegado en la pizarra.
+  - «No se gana nada y esa es la gracia» → lo dice Blitzø. ⚠️ El texto del canal en el inventario viene cortado («es para grabar…»): pedir el texto completo.
+  - Etiquetas (Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, Con trampa, Libre) → post-its de colores en el borde de la pizarra.
+- **Que no quede plano**: la luz de la oficina es plana y sepia (`#735861`), así que añadir una lámpara de flexo cálida; el **hacha de Millie** (modelo CC BY de NinJOke) apoyada en la mesa en primer plano, desenfocada; trama de puntos sólo en la cabecera.
+

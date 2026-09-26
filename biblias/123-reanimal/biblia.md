@@ -507,3 +507,122 @@ Sin tramas de manga: es 3D con telas sucias.
 - **Grano y viñeta**: se hacen en Photoshop, no son textura descargable.
 - **Máscaras**: la hoja de máscaras del artbook (hoja nº 235) sirve de patrón.
 
+## 20 · Gustos y detalles
+
+| Personaje | Le gusta | Odia o teme | Aficiones | Objeto | Fuente |
+|---|---|---|---|---|---|
+| El Niño | Su hermana, recordar su casa | Perder a sus amigos | Mecánica, herramientas | Encendedor | [The Boy](https://reanimal.fandom.com/wiki/The_Boy) |
+| La Niña | Los conejos | Ver un conejo muerto | Pelear con cuchillo, cuidar su farol | Farol y cuchillo | [The Girl](https://reanimal.fandom.com/wiki/The_Girl) |
+| Hood | Que sus amigos estén a salvo | Que la sigan en vez de huir | Intuir por dónde vienen los monstruos | — | [Hood](https://reanimal.fandom.com/wiki/Hood) |
+| Bandage | Estar con sus amigos | Los monstruos | Correr y esconderse | Bufanda de rayas | [Bandage](https://reanimal.fandom.com/wiki/Bandage) |
+| Bucket | Comer (papas, pescado) | No entender por qué volvieron | Esconderse | Cubo en la cabeza | [Bucket](https://reanimal.fandom.com/wiki/Bucket) |
+
+- **Cumpleaños y altura**: no existen. Los autores los quieren «a nameless boy and girl» ([Xbox Wire](https://news.xbox.com/en-us/2026/02/13/reanimal-interview/)); la wiki no tiene esos campos ⚠️ comprobado.
+- **Cómo se ven a sí mismos**: no hay monólogos ni diarios ⚠️.
+
+## 21 · Por qué la gente la ama
+
+- **Notas**: [Metacritic](https://www.metacritic.com/game/reanimal/) 80-83; [OpenCritic](https://opencritic.com/game/19727/reanimal) 80/100 con 153 reseñas ✅. IGN 9/10, Eurogamer 4/5 («a thing of phenomenal artistry and mood», [Eurogamer](https://www.eurogamer.net/reanimal-review)), [PC Gamer](https://www.pcgamer.com/games/horror/reanimal-review/) 74, [Game Informer](https://gameinformer.com/review/reanimal/macabre-merit) 8.25 «Macabre Merit», [Destructoid](https://www.destructoid.com/reviews/reanimal-review/) 8 ✅.
+- **En español**: [Vandal](https://vandal.elespanol.com/analisis/ps5/reanimal/182453) 8.4, «un sucesor espiritual de Little Nightmares con una variedad, un ritmo y un despliegue visual impresionantes»; [3DJuegos](https://www.3djuegos.com/juegos/reanimal/analisis/tiene-gran-pega-te-voy-a-recomendar-igualmente-analisis-reanimal), «ese juego de 6 horas fluidas que sabe cuándo tiene que terminar» ✅.
+- **Miedo compartido**: el cooperativo nació de ver a la gente jugar *Little Nightmares* pasándose el mando. Lo dicen Andreas Johnsson y el director narrativo en [Xbox Wire](https://news.xbox.com/en-us/2026/02/13/reanimal-interview/) ✅. Los jugadores lo confirman: «con mi papá» ✅.
+- **Con quién se identifica el público**: con **Hood**, la que más sufre ✅.
+- **Influencias que enganchan**: *Alien*, *Tiburón*, los cuentos de Astrid Lindgren y David Lynch: «quieres llorar tanto como esconderte» ✅.
+
+**Escenas que duelen**
+- **Hood raptada**: Sniffer se la lleva en el camión de helados, suena «Chasing Glass»; entra al cine bajo el neón rojo ([teaser 0:30](https://www.dailymotion.com/video/xa1mxgm?t=30)). Luego la Bestia Oveja la devora. Reacción: «Poor Hood», «Kill em, Hood!!!» ⚠️ sin minuto del momento exacto.
+- **La oveja se come a los tres amigos**, cap. 7, en un metro. Suena «Punishment» ⚠️ sin fotograma.
+- **El giro final**: dentro de la oveja, un recuerdo revela que el Niño y los amigos ataron a la Niña y la llevaron al pozo. El sueño del principio era un recuerdo. Vuelve «Dead in the Water» antes de cortar a la Niña en el Pozo; «All is Well» (8:32) en los créditos ✅ (wiki y Wikipedia).
+- **Para gritar**: la persecución de Sniffer en bicicleta, lo más viral en TikTok ✅.
+
+**Lo que no gusta**: el DLC *The Prisoner* parece corto y caro («Too small, waste of money», [hilo](https://www.reddit.com/r/ReanimalGame/comments/1w93rzd/)) ✅. Kotaku lo ve aburrido.
+
+## 22 · Fan dubs y comunidad hispana
+
+- **Fandubs en español: no se encontró ninguno** (YouTube, Dailymotion, TikTok, en español e inglés) ⚠️. Motivo probable: hay muy poco diálogo que redoblar.
+- **Covers del opening**: no hay tema cantado; la BSO es instrumental ⚠️ comprobado.
+- **Lo que sí hay**:
+  - Partida completa en español latino, 4K60, «Juego Completo en Español Latino, FINAL VERDADERO» ([YouTube](https://www.youtube.com/watch?v=8Cwt91Oax0k)) ⚠️.
+  - Vegetta y Fargan (España) jugándolo juntos, archivado: «Reanimal con Fargan y Vegetta» ([Internet Archive](https://archive.org/details/sacamos-un-cuerpo-del-wc-en-reanimal-1-vegetta-y-fargan-x-fa-rg-anx-yt-720p-h-264)) ⚠️ no visto.
+  - Stream «Terror cooperativo muy turbio» (punto 10) ⚠️.
+  - Indiepodcast 17x07 sobre Reanimal ([audio](https://archive.org/details/indiepodcast-17-07)) ⚠️ no oído.
+- **Parodias o memes hispanos**: no se encontraron ⚠️.
+- **Oportunidad para el servidor**: como casi no hay fandubs, un reto de doblaje con las 10 frases del punto 8 sería de los primeros.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Colección oficial con IGN Store**: camisetas, hoodies, gorras, tazas ([store.ign.com](https://store.ign.com/pages/reanimal)) ✅.
+- **Figuras «Reanimal Orphan»**: la Niña, el Niño, Bucket, Hood y Bandage ([colección](https://store.ign.com/collections/reanimal)); Tarsier las enseñó en la Gamescom ([X](https://x.com/TarsierStudios/status/1959934196320780333)) ✅. Sirven de referencia 3D de pose.
+- **Collector's Edition**: estatuilla del Cerdo, mini de Bucket, llavero, póster del mapa «Unreliable Memories», artbook, pegatinas ⚠️.
+- **Cosplay**: la cosplayer rusa INOE y un compañero como los dos hermanos ([ixbt.games](https://ixbt.games/en/news/2026/02/13/kospleery-predstali-v-obrazax-glavnyx-geroev-iz-reanimal-pobeg-s-kosmarnogo-ostrova.html)) ⚠️.
+- **Máscara de conejo imprimible** de SKS Props ([MyMiniFactory](https://www.myminifactory.com/object/3d-print-reanimal-cosplay-bunny-mask-sks-props-767424), [MakerWorld](https://makerworld.com/en/models/2432214-reanimal-cosplay-bunny-mask-sks-props)) ⚠️ licencia sin leer (403).
+- **Crossovers** (Fortnite, gachas), cafés temáticos o marcas: **no existen** a día de hoy; buscado «Reanimal x», «collab», «Fortnite» ⚠️.
+
+## 24 · Obras parecidas
+
+- **Hermana espiritual**: *Little Nightmares* I y II, del mismo estudio. *Little Nightmares III* lo hizo Supermassive ✅. Ver la biblia `122-little-nightmares`.
+- **Influencias declaradas**: *It Takes Two*, *The Wind Waker*, *Silent Hill 2* ✅; *Alien*, *Tiburón*, Astrid Lindgren, David Lynch (*Twin Peaks*) ✅.
+- **Comparaciones de prensa**: *Silent Hill* por el pueblo ✅; *LIMBO*, *INSIDE* y *Coraline* ⚠️ (comparación del equipo).
+- Tarsier presentó el juego en el Tokyo Game Show por el cariño japonés ([Cubed3](https://www.cubed3.com/features/interviews/tarsier-interview)) ✅.
+- **Temas**: niños contra el mundo adulto y su guerra, hambre y cuerpos que mutan, máscaras, culpa entre hermanos.
+
+**Láminas del servidor que se le parecen**: sólo **122-little-nightmares** (cuaderno → `#guia`, tele → `#que-estas-viendo`, caja de música → `#canto`). Aquí se evitan esos tres objetos. Choque de estilo, no de canal: anotado y sin problema.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Reglas del mundo** ([The Island](https://reanimal.fandom.com/wiki/The_Island)) ✅
+1. Todo pasa en **la Isla** donde crecieron los hermanos: inundada, en ruinas y en guerra.
+2. Pueblos y ciudades vacíos; el agua lo invade todo. Se viaja en barca.
+3. Cada monstruo nace del **trauma compartido** de los niños.
+4. **Las máscaras esconden quién es cada uno**: niños, soldados con máscara de gas, monstruos.
+5. Una **guerra** de fondo (minas, soldados, lanzallamas) se mezcla con lo sobrenatural.
+
+**La historia por arcos** ([Wikipedia](https://en.wikipedia.org/wiki/Reanimal)) ✅
+1. **Despertar**: el Niño sueña con sus amigos y su hermana mirando un pozo. Despierta en el mar y rescata a la Niña.
+2. **Cap. 1-2**: rescatan a **Hood** de **Sniffer**, que viaja por dentro de cadáveres y maneja los Skins.
+3. **Cap. 3**: rescatan a **Bandage** del pelícano, encerrándolo en un granero en llamas.
+4. **Cap. 4-5**: en el orfanato matan a **la Madre** y liberan a **Bucket** de los Spider Kids.
+5. **Cap. 6**: huyen en un camión; le quitan un ojo al **Caballo del arroyo** y se lo dan a la **Ballena espiral** ciega para cruzar el mar.
+6. **Cap. 7**: en el metro, la Niña vomita la oveja de sus visiones; crece y **se come a los tres amigos**.
+7. **Cap. 8-9**: cruzan la ciudad en guerra en un tanque; la oveja los traga. Dentro, la verdad: **el pacto de sangre y la Niña atada, llevada al pozo**. La Niña «reanima» y flota en el pozo tras los créditos.
+8. **DLC *The Prisoner***: el Prisionero y la Soldado en una guerra de trincheras; un «Segundo Prisionero» misterioso ⚠️ (dos capítulos sin salir).
+
+**Símbolos**
+- **Las dos máscaras**: saco de arpillera (Niño) y conejo blanco (Niña) ✅.
+- **El Pozo**: principio y final ✅.
+- **La oveja**: la culpa hecha monstruo ✅.
+- **La Ballena espiral**: su espiral roja con espinas es el emblema de la carátula del soundtrack ✅.
+- **Los ataúdes**: guardan los espíritus de los amigos y de un conejo; abren un final secreto ([Coffins](https://reanimal.fandom.com/wiki/Coffins)) ✅.
+- **El farol y el mechero**: las únicas luces ✅.
+- **La boya**: la luz que guía la barca y el tema del menú ✅.
+- **Vocabulario**: the Island, the Well, Sniffer, Skins, Boomers, Critters, Sheep Beast, Spiral Whale, Brook Horse, the Mother, Spider Kids, Coffins, Posters, the Expanded World.
+
+**Contenido cortado**: sin página en The Cutting Room Floor ([tcrf.net](https://tcrf.net/wiki/Reanimal) da 403 y la [Wayback Machine](https://web.archive.org/cdx/search/cdx?url=tcrf.net/wiki/Reanimal) no tiene copias). Lo equivalente está en la sección «Unused and Cut Content» de la wiki, y en [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Characters/Reanimal) sólo el índice ⚠️.
+
+## Tres conceptos de lámina
+
+Tono de las tres: noche azul casi negra y **un solo acento de color**. Texto como **subtítulo del juego** (barra negra semitransparente, Barlow Condensed clara), título en **Anton** con el tratamiento del logo. Frases cortas, susurradas. Nada de globos.
+
+### Concepto 1 · La marquesina del cine · `#noticias-gaming`
+
+- **Objeto y sitio**: la **marquesina del cine** de Small Forest Town, cap. 2, con su neón rojo «CINEMA» y la fila de bombillas. En Blender: una caja de marquesina con un tablero de letras sueltas debajo del neón. Las noticias van en ese tablero. Referencia: [captura del cine](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0/ss_7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0.1920x1080.jpg).
+- **Personaje**: **la Niña**, de pie en la calle mojada, **farol en alto** con el brazo estirado (pose de presentar, [0:45](https://www.dailymotion.com/video/x9o072c?t=45); render `TheGirl.png`). El Niño detrás, en sombra, sin cara.
+- **Cómo habla**: subtítulo abajo. «Aquí salen los juegos nuevos.» / «Parches y presentaciones. Una noticia por mensaje.» / «Las ofertas, en ofertas-y-gratis.»
+- **Dónde va cada texto**: título «NOTICIAS» en el tablero, con letras de marquesina (Bungee); la función del canal en las líneas del tablero; la regla de las ofertas en el subtítulo.
+- **Para que no quede plano**: el neón `#c90030` tiñe los charcos y el borde del vestido; farol ámbar como segunda luz pequeña; lluvia en primer plano desenfocada; un poste de luz delante tapando un poco el borde.
+
+### Concepto 2 · La parada de autobús bajo la lluvia · `🎲・Juegos` (voz)
+
+- **Objeto y sitio**: la **marquesina de la parada**, cap. 4, con su tubo fluorescente. El **horario de autobús** de papel pegado al cristal es el soporte. En Blender: marquesina de chapa (CorrugatedSteel007A) y el papel mojado con arrugas.
+- **Personajes**: **los tres niños sentados muy juntos** en el banco, como en la [captura oficial](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/19a638fbf5e2821fae387f88e492c44801f47885/ss_19a638fbf5e2821fae387f88e492c44801f47885.1920x1080.jpg): el Niño, la Niña y **Hood** (la más querida). Es el motivo de por qué aman el juego: jugarlo acompañado.
+- **Cómo habla**: subtítulo con la frase real del doblaje: «No te preocupes, vamos a salir de esta juntos, ¿sí?». Debajo, la función del canal en otra línea corta.
+- **Dónde va cada texto**: en el horario, «SALA DE JUEGOS» y las reglas en filas como horas de salida (entra, avisa a qué juegas, invita); frase de la serie en el subtítulo.
+- **Para que no quede plano**: luz verde cálida `#4c6e77` sólo dentro de la marquesina y noche `#000614` fuera; gotas en el cristal delante del papel; reflejos en el suelo mojado.
+
+### Concepto 3 · El póster en el muelle del faro · `#castings`
+
+- **Objeto y sitio**: un **póster coleccionable** de papel (los «Posters» del juego) clavado en la madera del **embarcadero del faro**, cap. 3. En Blender: tablones (Wood051), papel con clavos, cuerda (Rope001).
+- **Personaje**: **el Niño** acerca el **encendedor** para leer el papel. Cuerpo inclinado, mano apoyada en la madera (pose de la celda, [10:30](https://www.dailymotion.com/video/x9tibzi?t=630)). Nunca cara.
+- **Cómo habla**: subtítulo con la frase de Bucket, que encaja con buscar a alguien: «¿Por qué volviste por nosotros?». Y la regla del canal: «Cada casting es un hilo. Ciérralo cuando el papel esté cubierto.»
+- **Dónde va cada texto**: el póster lleva el título «CASTINGS» y las etiquetas (Videojuego, Anime, Abierto, Cerrado…); si no caben, **lámina 2** con las etiquetas; el subtítulo lleva la regla.
+- **Para que no quede plano**: una sola luz ámbar del mechero sobre el papel; niebla azul `#12283f` y la silueta del faro al fondo; una cuerda y un poste en primer plano.
+
