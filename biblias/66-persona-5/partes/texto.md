@@ -110,3 +110,37 @@ Fuente principal: la charla oficial de Atlus en **CEDEC+KYUSHU 2017** (recogida 
 5. **Texturas encima**: pintar una textura de trama de puntos en un canal aparte y mezclarla sólo en las zonas de sombra con un nodo Mix por máscara, igual que el paso 4 de Photoshop.
 6. **Rigs y tramas**: ver puntos 3 y 19 (los trae el investigador de imagen).
 
+## 25 · El mundo, la historia y sus símbolos
+
+Fuente: wiki oficial de Megami Tensei (Fandom), consultada por su API (`action=parse&prop=wikitext`), que es la fuente más fiable y detallada disponible en español/inglés para las reglas del mundo.
+
+### Las reglas del mundo en cinco líneas
+- Existe un **Metaverso**, un mundo paralelo hecho de la **cognición** colectiva de la gente: los pensamientos y deseos reales de las personas se vuelven un lugar físico ahí dentro.
+- La gente muy corrupta desarrolla sin saberlo un **Palace** (Palacio): una fortaleza mental donde sus vicios más oscuros se manifiestan como un lugar (un castillo, un banco, un casino…) · ✅ [wiki, «Palace»](https://megamitensei.fandom.com/wiki/Palace).
+- Dentro de cada Palace hay un **Treasure** (Tesoro): la forma física del deseo corrupto; robarlo hace que su dueño confiese sus crímenes en la vida real.
+- Los pensamientos de **toda la gente normal** (no sólo los muy corruptos) se mezclan en **Mementos**, un Palace colectivo con forma de metro infinito, generado al azar.
+- Para entrar a un Palace hace falta la app **Metaverse Navigator**, con el nombre completo del dueño, su papel/título, la ubicación real y la forma mental del lugar.
+
+### La historia por arcos (con su fecha límite, confirmado en la wiki)
+1. **Kamoshida** (castillo, sale del acoso de un profesor de gimnasia) — límite 29 de abril.
+2. **Madarame** (museo de arte, un pintor que roba las obras de sus alumnos) — límite 31 de mayo.
+3. **Kaneshiro** (banco, un yakuza que extorsiona estudiantes) — límite 6 de julio.
+4. **Futaba** (pirámide, sobre el trauma y la culpa de una chica por la muerte de su madre) — límite 19 de agosto.
+5. **Okumura** (nave espacial/fábrica, un empresario que trata a sus empleados como robots) — límite 8 de octubre.
+6. **Niijima** (casino, la fiscal Sae Niijima manipulada por el villano final) — límite 16 de noviembre.
+7. **Shido** (barco/galeón, el villano final, un político que planea un golpe de estado) — límite 16 de diciembre.
+8. **Maruki** (sólo en Royal: un mundo de fantasía que da finales felices falsos) — la calling card sale el 2 de febrero.
+Todos ✅ [wiki, «Palace»](https://megamitensei.fandom.com/wiki/Palace) (fechas límite listadas explícitamente en la página).
+- Cada Palace representa uno de los **siete pecados capitales** ✅ (mismo artículo).
+- Tras robar el Tesoro, los ladrones mandan una **calling card** (tarjeta de aviso) al dueño antes del golpe final.
+
+### Emblemas, logos y objetos icónicos
+- **El logo de los Ladrones Fantasma**: una máscara/ojo estilizado en blanco sobre fondo negro, PNG oficial de la wiki, 529×615 px · ✅ [imagen](https://static.wikia.nocookie.net/megamitensei/images/2/28/Phantom_Thieves_Logo.png/revision/latest?cb=20170528120634).
+- **Lema del grupo**: «**Take Your Heart**» (aparece en las calling cards) · ✅ [wiki, «Phantom Thieves of Hearts»](https://megamitensei.fandom.com/wiki/Phantom_Thieves_of_Hearts).
+- **La calling card**: tarjeta de aviso previa al robo, la pieza gráfica más repetida y reconocible de toda la serie (letras recortadas tipo nota de rescate, ver punto 6).
+- **La máscara** de cada ladrón (se la quitan de un tirón al invocar su Persona por primera vez) es el objeto-símbolo central del «despertar».
+- **El teléfono/app Metaverse Navigator**: pantalla roja y negra, el objeto que abre la puerta al Metaverso — el mismo lenguaje visual que la interfaz del juego (ver puntos 5 y 6).
+
+### Vocabulario que un fan reconoce al instante
+**Persona, Metaverse (Metaverso), Palace (Palacio), Shadow (Sombra), Treasure (Tesoro), Mementos, Confidant (Confidente, antes «Social Link»), calling card, Third Eye (Tercer Ojo, detecta objetos/enemigos ocultos), All-Out Attack («Todos por uno», el ataque especial en grupo con la silueta roja), Velvet Room (la Sala de Terciopelo, con Igor y las gemelas), Persona user, cognición, código de guerra** (los apodos: Joker, Skull, Panther, Mona, Fox, Queen, Oracle, Noir, Crow, Violet). Todo ✅ visto en el propio TV Tropes y wiki, y confirmado también en las capturas oficiales que miré (punto 6).
+

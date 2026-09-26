@@ -41,7 +41,7 @@ tildes, ñ y ¿¡.
   Fonts, OFL, con tildes/ñ/¿¡ comprobado)
 - Subtítulos / créditos (letra de máquina, para una cartela tipo «informe de la JAA» o ficha de expediente
   de asesino): **IBM Plex Mono** en negrita (Google Fonts, OFL, con tildes/ñ/¿¡ comprobado)
-- El japonés real del logo y las cartelas usa fuentes gót icas gruesas tipo Gothic (comprobado visualmente,
+- El japonés real del logo y las cartelas usa fuentes góticas gruesas tipo Gothic (comprobado visualmente,
   no identificado el nombre exacto) → para textos japoneses libres en la lámina, la familia gratuita más
   usada en el equipo es **Noto Sans JP** (Google Fonts, OFL; cubre kanji, hiragana y katakana)
 
@@ -53,8 +53,9 @@ estilo *visual novel*, ninguno de los dos parecido a un globo de cómic occident
 
 - **Cartela de título de capítulo** (portada de la revista, capítulo 2, «殺し屋商店始めました»): caja
   **negra de esquinas redondeadas**, letras **amarillas** gruesas verticales, con furigana pequeño en gris
-  encima de cada kanji; una palabra clave suelta en **rojo** fuera de la caja para dar énfasis (ej. «尻」
-  ・殺し屋» en rojo junto al título) · mirado en `ch2_small.jpg` (portada Weekly Shōnen Jump nº2) · ✅
+  encima de cada kanji; una palabra clave suelta en **rojo** fuera de la caja, en letra más pequeña, para
+  dar énfasis · mirado en `ch2_small.jpg` (portada Weekly Shōnen Jump nº2) · ✅ (forma y colores), ⚠️ (el
+  texto exacto de esa palabra roja es difícil de leer a este tamaño, no lo doy por seguro)
 - **Globo de diálogo normal**: óvalo de contorno fino negro (~2 px), sin relleno de color, cola corta y
   recta hacia quien habla; en la página de ejemplo mirada (capítulo 43) los globos aparecen en blanco
   porque es la versión sin letrar que usa la wiki para las miniaturas de capítulo, pero la **forma** del
@@ -288,6 +289,58 @@ un pasado violento bajo una vida doméstica tranquila.
   Sakamoto · ✅ (mirado en dos portadas oficiales, `ch1_small.jpg` y `vol9_small.jpg`)
 - **Regla nº1 de la familia Sakamoto**: «no matar» — todo el humor de acción de la serie nace de buscar
   formas de vencer sin romperla.
-- **La transformación físca de Sakamoto**: delgado y letal en su pasado de asesino, gordo y manso en su
+- **La transformación física de Sakamoto**: delgado y letal en su pasado de asesino, gordo y manso en su
   presente; vuelve a su cuerpo delgado tras esfuerzo físico intenso y engorda de nuevo en un par de días —
   es el gag visual más reconocible de la portada del tomo 1.
+
+## Lo mejor para la lámina
+
+- La cartela negra de esquinas redondeadas con letras amarillas (título de capítulo) es un cuadro de
+  diálogo propio de la serie, mucho mejor que una burbuja blanca genérica.
+- El almacén secreto de armas bajo la caja registradora de la tienda es el objeto real perfecto para
+  Blender: mueble corriente por fuera, con una sorpresa dentro — encaja con «un objeto real en un sitio
+  real» que pide `reglas_del_dueno.md`.
+- El logo oficial (bloque negro, la O convertida en la carita de gafas de Sakamoto) da un icono/mascota
+  reutilizable como sello o etiqueta en la lámina.
+- La caja de diálogo del propio videojuego (negro `#1e1e1e` + placa naranja `#fecb00`) es una interfaz real
+  y ya medida, ideal si la lámina toca el canal de videojuegos o castings.
+- Letras libres ya comprobadas con tildes/ñ/¿¡: Anton (logo), Bangers (grito), Patrick Hand o Archivo Black
+  (globo/cartel), Caveat (pensamiento), Press Start 2P (interfaz), IBM Plex Mono (subtítulos).
+
+## No encontré
+
+- El nombre exacto de la tipografía del logo oficial «SAKAMOTO DAYS» (parece un diseño a medida, no una
+  fuente comercial) · busqué «Sakamoto Days logo font», «Sakamoto Days font dafont», «Sakamoto Days font
+  identifont» en inglés · ⚠️
+- Capturas del tablero de puzles del videojuego móvil en combate (sólo conseguí pantallas de historia y de
+  equipo) · busqué en Google Play (captura propia), QooApp, APKPure, Uptodown · ⚠️
+- Página de Sakamoto Days en The Cutting Room Floor: `tcrf.net` devuelve un reto de Cloudflare que no se
+  pudo pasar ni con `curl` ni con `navegar.py` (dos intentos cada uno) · ⚠️ no se pudo comprobar si existe
+- Nombre exacto de la fuente japonesa gótica del logo y las cartelas (identifiqué el estilo, no el
+  nombre comercial) · busqué en inglés y japonés · ⚠️
+- Búsqueda específica en coreano o chino: no se hizo porque la obra es de origen japonés (Weekly Shōnen
+  Jump), no coreano ni chino; toda la profundidad en idioma original se buscó en japonés (MangaPlus,
+  MEDIA DOGS, tuit de Shonen Jump News, búsqueda directa 「鈴木祐斗 インタビュー」) · nota, no ⚠️
+
+## Bitácora de búsqueda
+
+- Wiki de Fandom `sakamoto-days.fandom.com` por su `api.php` (búsqueda de texto y wikitext completo):
+  Order, Japanese Association of Assassins, X's Organization, Japan Clear Creation, Story Arcs, Sakamoto's
+  Store, logo del sitio · sin bloqueo
+- `WebSearch` en inglés: «Sakamoto Days logo font», «Sakamoto Days font dafont», «Yuto Suzuki interview
+  drawing process Clip Studio Paint», «Sakamoto Days anime animation style interview director», «Sakamoto
+  Days video game mobile app Goodroid», «Yuto Suzuki interview influences Domu Otomo»
+- `WebSearch` en japonés: «サカモトデイズ 鈴木祐斗 インタビュー 作画 画材», «サカモトデイズ 実写映画 目黒蓮
+  福田雄一 2026年4月29日»
+- `navegar.py` (funciona en esta máquina): TV Tropes (`Manga/SakamotoDays`, 200 OK), Animation Magazine
+  (403/error de navegación, descartado), AWN (200 OK), `tcrf.net` (403, Cloudflare, dos intentos),
+  Google Play (200 OK, con `--captura` para ver capturas del juego)
+- `curl` directo: `mangaplus.shueisha.co.jp` (entrevista completa), `mediadogs.jp` (perfil en japonés),
+  `animationmagazine.net` (403 CloudFront, no se insistió), `tcrf.net` (403 Cloudflare)
+- fontTools (`getBestCmap()`) sobre 8 fuentes de Google Fonts/Fontsource bajadas con `curl` (subset
+  `latin`, que es el que trae á/é/í/ó/ú/ñ/¿/¡, no `latin-ext`): Anton, Bangers, Archivo Black, Caveat,
+  Press Start 2P, IBM Plex Mono, Titan One, Patrick Hand — las 8 con todos los caracteres
+- Pillow: medidos los hex de la caja de diálogo y la pantalla de equipo del videojuego móvil
+  (`playshots/*.jpg`, capturas propias de Google Play)
+- Imágenes miradas con Read: `ch1_small.jpg`, `ch2_small.jpg`, `ch43_small.jpg`, `vol9_small.jpg`,
+  `sitelogo_conv.png`, `playstore.png`, `playshots/sheet1.jpg` (todas en mi carpeta de trabajo temporal)

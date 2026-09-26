@@ -194,3 +194,32 @@ Fuente principal: la página «Collaboration» de la wiki de Fandom (`finalfanta
 **Lo que NO encontré en esta categoría** (con las búsquedas hechas)
 - Colaboración con marcas de ropa o cafés temáticos fuera de Japón (Square Enix Café/Artnia existen pero genéricos de la franquicia, no específicos de FFVII con arte propio) · busqué `insource:"cafe"` en la wiki y `Final Fantasy VII collaboration cafe` en la web · ⚠️
 - Fortnite: no hay colaboración confirmada con FFVII (sí la hay con otros juegos de Square Enix, pero no ésta) · busqué «Final Fantasy VII Fortnite collaboration» en inglés, sin resultado en la wiki ni en prensa
+
+## Lo mejor para la lámina
+
+- El render de batalla de Tifa (FFVII Remake, 2525×4488) con su hex medido: top blanco #E7E8E7, falda #141314, botas rojas #8A0507 — pose de pelea, lista para recortar
+- El key art de Aerith con su bastón en la Iglesia (3900×3056): pose viva, no de pie plana, luz cálida
+- Los tres modelos 3D con rig o prop suelto de Sketchfab (Tifa T-Pose, la Buster Sword, la iglesia del Sector 5), todos CC BY: sirven directo en Blender citando autor
+- Los wallpapers oficiales «Home Wallpaper» de Ever Crisis (2436×1080, Cosmo Canyon / Costa del Sol / Midgar): ya vienen recortados en 21:9-16:9, perfectos de fondo
+- El crossover Ever Crisis × NieR (Tifa vestida de 2B): si el canal admite un chiste visual, es la referencia más reciente y menos vista de todo lo encontrado
+
+## No encontré
+
+- Modelos 3D de Poly Haven de objetos o sitios de FFVII: Poly Haven es sólo HDRI/texturas/props genéricos, no tiene contenido con licencia de una franquicia con copyright · comprobado en su web, no tiene buscador por nombre de personaje
+- Un modelo 3D suelto del orbe de materia (el objeto icónico) en Sketchfab: la búsqueda «materia orb» sólo devuelve orbes genéricos sin relación con la serie · ⚠️ para el orbe, mejor partir de una esfera simple en Blender con el material que describe el punto 17 (harán ambos investigadores)
+- Un logo suelto de AVALANCHE (el grupo de Barret) fuera de la ropa bordada · búsqueda `insource:"AVALANCHE logo"` en la wiki, sin resultado
+- Cifras de tamaño de descarga o polígonos exactos de algunos modelos Sketchfab más antiguos (Cloud low-poly, Tifa low-poly de NiNoStyle): Sketchfab no siempre expone `faceCount` en la búsqueda · ⚠️
+- Una colaboración de FFVII con una marca de moda global (tipo Uniqlo UT, Vans, Gap) que sí tienen otras franquicias de Square Enix · búsqueda «Final Fantasy VII x [marca] collaboration» en inglés para 4 marcas distintas, sin resultado
+
+## Bitácora
+
+- Fandom `finalfantasy.fandom.com` API (`action=query`, `prop=images|imageinfo`) para portadas, Amano, key art y tamaños exactos — español/inglés
+- `herramientas/investigar_serie.py` sobre Cloud/Tifa/Aerith/Sephiroth: 1186 imágenes enlazadas, 539 grandes, 12 hojas de contacto en `herramientas/referencias/final-fantasy-vii/` (miradas todas, elegidas 3 para `hojas/`)
+- `herramientas/estilo.py` sobre 4 renders oficiales descargados y recortados a mano por prenda (18 recortes en total) para los hex del punto 15
+- Sketchfab API (`api.sketchfab.com/v3/search`) con las consultas: «Sephiroth Final Fantasy», «Midgar Final Fantasy», «Materia Final Fantasy VII», «Chocobo Final Fantasy», «Buster Sword», «Aerith Final Fantasy», «Tifa Lockhart», «Cloud Strife Final Fantasy» — todas devolvieron modelos CC
+- ambientcg API (`ambientcg.com/api/v2/full_json`) con «Leather», «Fabric», «Concrete», «Metal», «Rust», «Paper» — todo CC0
+- WebSearch (2 búsquedas): «Final Fantasy VII fan art ArtStation Tifa Cloud Aerith destacado» (inglés/español) y «free manga screentone halftone brush pack CC0» (inglés), más una sobre la novela «Kids Are Alright»
+- Wiki de Fandom, página «Collaboration» completa por wikitext (`action=parse&prop=wikitext`), para el punto 23: confirmó Smash Bros., Street Fighter 6, Dissidia NT, LittleBigPlanet 2, Dragon Quest Tact y 5 eventos crossover dentro de Ever Crisis (FFIX, Monster Hunter, FFVI, saga Lightning/FFXIII, NieR)
+- GitHub API (`search/repositories`) para pinceles de screentone: sin resultados, se usó WebSearch en su lugar
+- Sin serie hermana declarada en el encargo, no se leyó ninguna biblia previa
+

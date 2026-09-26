@@ -180,3 +180,25 @@ Todas las filas ✅: fotograma visto directamente (`fotogramas.py --cortes`) sob
 citado en el punto 8. No se encontró tristeza ni vergüenza clara en este tráiler de 108 s: falta
 mirar un episodio completo para esas dos (ver «No encontré»).
 
+## 20 · Gustos y detalles de cada personaje
+
+Cumpleaños y altura confirmados en dos fuentes independientes (AniList y la wiki en inglés,
+que cita el *Character Profile* oficial). Gustos y odios: de la wiki (Trivia y Personality),
+mejor documentados en Nagumo porque su ficha cita el *Sakamoto Days Official Fan Book*.
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Tarō Sakamoto | Su familia (Aoi y Hana), la vida tranquila de tendero, la comida casera | Que Aoi se enoje por volver a matar; que lo reconozcan como el asesino que fue | Origami (se lo enseñó Hana) | 21 de noviembre | 188 cm (140 kg normal / 80 kg «prime») | AniList ✅ + [wiki, Trivia](https://sakamoto-days.fandom.com/wiki/Taro_Sakamoto) ✅ |
+| Shin Asakura | Los algodones de azúcar, los perros bonitos | Leer pensamientos molestos (p. ej. los de Heisuke); antes fumaba, lo dejó | Tomar fotos de Sakamoto cuando recupera su forma «prime» | 7 de junio (2000) | 172 cm / 67 kg | AniList ✅ + [wiki, Trivia](https://sakamoto-days.fandom.com/wiki/Shin_Asakura) ✅ |
+| Lu Shaotang | Cocinar bollos de cerdo (por eso trabaja en la tienda); los recuerdos de sus padres | Que amenacen a la gente de la tienda (en modo «Triad ebria» se vuelve despiadada) | Cocinar, beber (mal aguantada) | 8 de abril | 165 cm / 48 kg | AniList ✅ + [wiki, Personality](https://sakamoto-days.fandom.com/wiki/Lu_Shaotang) ✅ |
+| Yoichi Nagumo | Dormir, la comodidad de su cama, el silencio de la noche, gastar bromas ligeras | Las mañanas, madrugar, ir rápido en coche (se marea) | Sudoku en la cama, dormir, espiar/mentir por diversión | 9 de julio | 190 cm / 78 kg | AniList ✅ + [wiki, Trivia, cita el *Official Fan Book*](https://sakamoto-days.fandom.com/wiki/Yoichi_Nagumo) ✅ |
+
+- El objeto que Sakamoto siempre lleva: su delantal de la tienda («坂本商店», Sakamoto Shōten) y
+  los lentes redondos; en su forma «prime» (delgado) se ve distinto, casi otra persona ·
+  visto en las hojas de contacto del tráiler (punto 13) ✅
+- Cómo se ve a sí mismo Sakamoto: como un tendero de barrio común y corriente, no como una
+  leyenda; incomoda que lo traten como el asesino que fue · https://sakamoto-days.fandom.com/wiki/Taro_Sakamoto#Personality ✅
+- No se encontraron datos oficiales de comida favorita o plato preferido de ningún personaje
+  en la wiki en inglés ni en AniList; puede estar sólo en el *Official Fan Book* japonés, no
+  traducido (ver «No encontré»).
+

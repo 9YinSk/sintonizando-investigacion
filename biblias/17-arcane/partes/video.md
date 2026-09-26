@@ -271,9 +271,45 @@ sucio de `#58615E` es más fiel que un verde saturado de arte promocional.
   `/tmp/claude-0/trabajo/17-arcane-video/` (fuera del repositorio, como pide
   AYUDANTE.md).
 
-Sigue: verificar con fotograma propio el opening («Enemy», YouTube pidió
-login las dos veces que lo intenté hoy — reintentar en frío, esperando los
-3-5 min que pide AYUDANTE.md, o por Dailymotion/Internet Archive si aparece
-una copia); y, si hay tiempo, mirar 1×05 y 1×06 para encontrar la prueba
-nocturna «todo flota, funciona» de Jayce y Viktor con Mel (no está en 1×03
-ni en los primeros 26:50 de 1×04, que sí miré enteros).
+### Relanzo (26-sep-2026)
+
+- YouTube volvió a bloquear `F5tSoaJ93ac` hoy (mismo error). Lo busqué en
+  Internet Archive (`advancedsearch.php?q=title:(Enemy) AND Arcane`) y
+  aparecieron **varias copias subidas por fans**, incluida una de 213 s
+  (igual a la duración oficial) en 1080p: la bajé con `fotogramas.py --cada
+  15` (`enemy_overview/hoja_01.jpg`, 15 cuadros) y la miré entera — confirma
+  el opening con fotograma propio, ya no sólo metadatos.
+  https://archive.org/details/9convert.com-imagine-dragons-x-jid-enemy-from-the-series-arcane-league-of-legends-1080p
+- Mismo ítem de siempre (`arcane-season-1-60fps`) para 1×05 y 1×06: bajé
+  ambos completos con `--cada 60` (visión general) y luego afiné 1×05 en
+  `--desde 480 --hasta 960 --cada 15` (`e05_fine/`) y `--desde 520 --hasta
+  640 --cada 5` (`e05_demo/`, la escena de Jayce/Marcus con la crisis de
+  enforcers) y `--desde 640 --hasta 760 --cada 10` (`e05_hexcore/`, la
+  escena de Jinx que sí sirvió); y 1×06 en `--desde 745 --hasta 870 --cada
+  15` (`e06_gift/`, Marcus/Ren/Silco) y `--desde 1580 --hasta 1720 --cada 15`
+  (`e06_vi/`).
+- Color con Pillow (mismo método del punto 4) sobre 4 fotogramas nuevos de
+  1280 px con `--fotograma <segundo>`: `color/fotograma_00660.jpg` (1×05
+  11:00), `color/fotograma_01080.jpg` (1×05 18:00), `color/fotograma_01310.jpg`
+  (1×06 21:50) y `color/fotograma_01620.jpg` (1×06 27:00).
+- Wiki de Arcane (`arcane.fandom.com/api.php?action=parse&prop=wikitext`)
+  sobre «Everybody Wants to Be My Enemy» y «When These Walls Come Tumbling
+  Down» (las páginas de episodio) para confirmar personajes y orden de
+  escenas antes de citarlas — así identifiqué bien a Jinx, Marcus, Ren,
+  Silco y el hex core sin adivinar por la imagen sola.
+- **Dominios nuevos para las fuentes** (antes sólo tenía 6): probé Wikipedia
+  (bloqueada con 429 «too many requests» las dos veces que la llamé, parece
+  un límite compartido del contenedor — no insistí más), IMDb (403/202,
+  verificación de humano tanto por `curl` como por `navegar.py`), Genius
+  (403) y varias URLs adivinadas de recaps (ComicBook, Den of Geek,
+  ScreenRant, IGN, Riot Games) que dieron 404 por no acertar la ruta exacta
+  — las dejo anotadas para no repetir el intento. Lo que sí funcionó:
+  **MusicBrainz** (ficha de «Enemy», ya la traía `datos-video.md`) y **la
+  API de Reddit** (`arctic-shift.photon-reddit.com`, subreddit `arcane`) para
+  el post viral de «Enemy start playing in the background» — dos dominios
+  nuevos (`musicbrainz.org`, `reddit.com`) que se suman a los 6 de antes:
+  ahora la parte cita 8 dominios distintos.
+- Espacio: borré `enemy_overview/video.mp4`, `e05_overview/video.mp4`,
+  `e05_fine`, `e05_demo`, `e06_overview/video.mp4` y los `.mp4` intermedios
+  de `color/` al terminar cada descarga; sólo quedan las hojas JPEG y los
+  4 fotogramas sueltos de `color/` en `/tmp/claude-0/trabajo/17-arcane-video/`.

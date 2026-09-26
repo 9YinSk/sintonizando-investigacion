@@ -49,3 +49,100 @@ Circe | Guantes/botas (tostado) | #554E43 | Circe.png
 Nota: son capturas de wiki en baja resolución (333×250), colores «planos» del cel-shading de la serie sin degradado
 fuerte; el hex es representativo del tono base de cada prenda, no un Pantone exacto. Rex NO lleva camiseta blanca
 (como asumen algunos resúmenes en inglés): es verde oscuro, confirmado mirando el arte oficial.
+
+## 3 · Fan art (referencia) y modelos 3D con licencia libre
+
+Fan art real de `rex_salazar` en Safebooru (tag `generator_rex`), 15 resultados; se descartan los de personajes
+que no son de esta serie que trajo `datos-imagen.md` (Raven, Robin, Starfire, Marceline, Bonnibel, Buttercup:
+ruido del recolector, no son Generator Rex).
+
+- Rex con alas mecánicas y espada, pose de acción, alta resolución · x.com/LuisGangMD · https://safebooru.org/images/75/788570e88ab6810e442e2f7e6a71c283bcac954a.jpg · ✅ (Safebooru + fuente original en X) · 1603×2048
+- Crossover fan art Rex + Ben Tennyson (animification, varios estilos) · x.com/Zero_zoner · https://safebooru.org/images/1344/15544a796f788687b55a99aad28ba1e1bcbe809f.jpg · ⚠️ · 850×1100
+- Rex con cañón de brazo (Slam Cannon), estilo fiel al show · Pixiv (id 23327...) · https://safebooru.org/images/1053/7eaae138d28344ab973a773993184864a7d53cfc.jpg · ⚠️ · 1143×1210
+- Rex EVO/lucha (gyosone), muy detallado, estilo semirrealista · Pixiv, 2022 · https://safebooru.org/images/4619/a1c1bd448c9d0def94e3c9a2596cc5c92223e453.png · ✅ (en datos-imagen.md y Safebooru) · 3050×1951
+- Rex ojos brillantes/glow, fan art oscuro y dramático · twitter.com/_obarii · https://safebooru.org/images/4619/bd90c8a4f95681f298f48854efb05c4c7cd6b0bb.jpg · ⚠️ · 2753×3540 (candidato a fondo de pantalla por tamaño)
+- Rex de espaldas, chamarra verde alterna, fan art de pose dinámica · timothypan (DeviantArt) · https://safebooru.org/images/2372/c993e153e4d5bf99019db3ea71071f0707e14ca9.png · ⚠️ · 600×900
+- Crossover Ben 10/Generator Rex «Heroes United», Rex y Ben espalda con espalda · timothypan (DeviantArt) · https://safebooru.org/images/2372/8982f9bccc8c518a40b1b8bf6cf53a71b58a9036.png · ⚠️ · 1200×900
+- Crossover Ben 10 Omniverse + Generator Rex, ambos personajes juntos · steveahn (DeviantArt) · https://safebooru.org/images/2107/ac9ab22fec18b551b7ccbe851f5993751bdd9389.jpg · ⚠️ · 1024×576
+- Vocabulario de tags que más se repite al dibujar a Rex solo (Danbooru related_tag): shirt, black_hair, jacket, white_shirt (fan-error: en el show es verde, no blanco), full_body, open_clothes, spiked_hair, red_jacket, goggles, blue_pants, orange_goggles, mechanical_arms, huge_weapon, dark_skin · https://danbooru.donmai.us/related_tag?query=rex_salazar · ✅ (recolectado y comprobado contra el arte oficial) · —
+
+**Modelos 3D con licencia libre (Sketchfab, todos CC Attribution y descargables), centrados en nanitos y máquinas de Rex:**
+
+- «The Meta-Nanites | Generator Rex» (FBX) · GeneratedSentience · CC Attribution · 29 164 caras · https://sketchfab.com/3d-models/the-meta-nanites-generator-rex-fbx-96c7ebeae4984f1795bfc03566b0c994 · ✅ (aparece también en búsqueda web) · miniatura 64×36
+- «The Meta-Nanites | Generator Rex» (STL, para imprimir) · GeneratedSentience · CC Attribution · https://sketchfab.com/3d-models/none-27fcb1daca6248fd8e880e211405ad3b · ✅
+- «Standard Nanite | Generator Rex» · GeneratedSentience · CC Attribution · 2 882 caras · https://sketchfab.com/3d-models/standard-nanite-generator-rex-dfce4adcfab3413dad270e0ec6b54cd9 · ✅
+- «The Omega-1 Nanite from Generator Rex» · GeneratedSentience · CC Attribution · https://sketchfab.com/3d-models/none-e113a940c5a9445e8364145f8202dc13 · ⚠️
+- «Rex's Nanites» · DigiWiz · CC Attribution · 4 752 caras · https://sketchfab.com/3d-models/rexs-nanites-fcb18f29fade4093a12220f65d71e361 · ⚠️
+- «Rex Salazarpunkbusters» (el build Punk Busters de Rex) · StevenS1 · CC Attribution · 17 574 caras · https://sketchfab.com/3d-models/rex-salazarpunkbusters-2ced5b0c57a84131b1ad20fca7999e38 · ✅ · miniatura 1024×576
+- «Generator Rex Flying jetpack high quality» (su Boogie Pack) · K_I_R_A · CC Attribution · 8 450 caras · https://sketchfab.com/3d-models/generator-rex-flying-jetpack-high-quality-c0a4918e586b440f830153665bc7d7f2 · ✅
+- «No Machines Rex Salazar» (Rex sin sus builds, sólo el personaje) · Mateusz.Krupa · CC Attribution · 5 900 caras · https://sketchfab.com/3d-models/no-machines-rex-salazar-7e85161474cd40c293c2e8264d6338ac · ✅
+- «Biowulf (generator rex)» (EVO villano, forma de lobo) · luh842011 · a comprobar licencia exacta en la ficha (aparece en búsqueda como descargable) · https://sketchfab.com/3d-models/biowulf-generator-rex-c07d5bc8bfa64fd6bc8ab8cd2fed4d8f · ⚠️
+- Colección «Generator Rex» de Natsu (@gochusuper), varios modelos agrupados · https://sketchfab.com/gochusuper/collections/generator-rex-14e4f576759440d7b446874f1771501e · ⚠️ (no se abrió cada modelo suelto)
+
+No se encontró nada específico de Generator Rex en Poly Haven (es un banco genérico de HDRIs/materiales
+fotorrealistas, sin contenido de fan de series); sus texturas metálicas sirven para el punto 19 (más abajo), no
+como «modelo con licencia de la serie».
+
+## 16 · Fondos de pantalla (ciudades, paisajes; oficiales y de fans en alta)
+
+Wallhaven no tiene nada con «Generator Rex» (0 resultados, `wallhaven.cc/api/v1/search?q=Generator Rex`): es una
+serie de 2010-2013 con poco fandom de wallpapers ahí. Se encontró en su lugar:
+
+- Imagen promocional oficial 1920×1080 del especial crossover «Ben 10/Generator Rex: Heroes United» (Rex y Ben
+  Tennyson juntos, fondo de acción) · Generator Rex Wiki · https://static.wikia.nocookie.net/generatorrexpedia/images/4/4a/GenRexBen10.jpeg · ✅ (usada como imagen de la ficha del episodio) · 1920×1080 — sirve directo como wallpaper o fondo de lámina
+- Fan art de Rex a toda plantilla, 2753×3540, fondo oscuro dramático (candidato a wallpaper vertical/story) ·
+  twitter.com/_obarii · https://safebooru.org/images/4619/bd90c8a4f95681f298f48854efb05c4c7cd6b0bb.jpg · ⚠️ · 2753×3540
+- Fan art de Rex en pelea, 3050×1951, buena resolución horizontal · Pixiv 2022 · https://safebooru.org/images/4619/a1c1bd448c9d0def94e3c9a2596cc5c92223e453.png · ✅ · 3050×1951
+- Bancos de wallpapers de terceros con colecciones dedicadas a la serie (no medidos uno a uno, hay que elegir
+  dentro): Alpha Coders («Generator Rex» ~1113 fondos) https://alphacoders.com/generator-rex ; WallpaperAccess
+  https://wallpaperaccess.com/generator-rex ; Wallpaper Flare https://www.wallpaperflare.com/search?wallpaper=generator+rex
+  · ⚠️ (páginas índice, no una imagen concreta medida; el redactor o quien monte la lámina debería abrir la que
+  más le sirva y medirla)
+
+No encontré fondos de pantalla **oficiales** de estudio (Cartoon Network nunca publicó un pack de wallpapers
+dedicado, a diferencia de series más recientes); lo mejor es el fotograma 1920×1080 del crossover y el fan art
+grande de Pixiv/X.
+
+## 19 · Texturas 2D (tramas, grano, patrones, emblemas; con licencia)
+
+Generator Rex es cel-shading plano occidental, sin tramas de manga; el punto se adapta a lo que sí tiene: patrón
+de nanites (puntitos azules brillantes), textura metálica de los builds, tela caqui del equipo de Providence, y
+el logo/emblema de Providence. Texturas equivalentes libres (todas CC0, ambientcg):
+
+- Metal cepillado (para los builds mecánicos de Rex y los EVOs metálicos) · «Metal055A» · CC0 · https://ambientcg.com/view?id=Metal055A · ✅ (catálogo verificado) · hasta 8K, aquí citado a 2048×2048 (tamaño estándar de descarga)
+- Acero corrugado (para la arquitectura industrial de Providence/laboratorios) · «CorrugatedSteel009» · CC0 · https://ambientcg.com/view?id=CorrugatedSteel009 · ✅ · 2048×2048
+- Tela de lona/algodón caqui (para el chaleco de Bobo Haha y los uniformes de Providence) · «Fabric066» · CC0 · https://ambientcg.com/view?id=Fabric066 · ✅ · 2048×2048
+- Grano de papel (para viñetas del cómic digital tie-in) · «Paper006» · CC0 · https://ambientcg.com/view?id=Paper006 · ✅ · 2048×2048
+- Pinceles de trama/halftone gratis para Photoshop (puntos de cómic, útiles para las viñetas de Cartoon Network
+  Action Pack) · Brusheezy, «Mabecman's Screentones» (34 pinceles, gratis, licencia de uso libre con crédito) ·
+  https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes · ⚠️ (verificar la licencia
+  exacta del autor al bajar, Brusheezy mezcla free/premium) · —
+
+**Cómics oficiales tie-in** (existen, y traen su propio estilo de línea plana con relleno digital, no trama de
+imprenta): la revista digital *Cartoon Network Action Pack* publicó episodios cortos de Generator Rex, p. ej.
+«Wood for the Trees» (№67), «Extra baggage» (№51), «A Blank Canvas» (№56), «Heart of Stone» (№54) · Generator
+Rex Wiki, listado de cómics · ⚠️ (confirmado que existen por la wiki; no se abrió cada número para ver el arte
+interior, sólo los títulos)
+
+## 23 · Colaboraciones y cruces
+
+- **Crossover oficial de TV**: «Ben 10/Generator Rex: Heroes United» (estrenado en NYCC el 16-oct-2011, emisión
+  en Cartoon Network el 25-nov-2011), episodio doble (T3, ep. 11-12), Rex se junta con Ben Tennyson de *Ben 10:
+  Ultimate Alien* · Generator Rex Wiki (wikitext del episodio) · ✅ (ficha del episodio + imagen promocional
+  1920×1080) · imagen: https://static.wikia.nocookie.net/generatorrexpedia/images/4/4a/GenRexBen10.jpeg
+- **Crossover en videojuego navegador**: Rex es un «Battler» jugable en el juego de Cartoon Network «Titanic
+  Kungfubot Offensive» (TKO), con sus movimientos Smack Hands, Slam Cannon y su super Big Fat Sword (B.F.S.) ·
+  Generator Rex Wiki (ficha del personaje en el juego) · ✅ · imagen 174×252: https://static.wikia.nocookie.net/generatorrexpedia/images/7/7f/Tko_charrex_174x252.png
+- **Figuras oficiales**: línea de juguetes Mattel 2010, figuras básicas de 4" (Rex, Agent Six, Van Kleiss,
+  Providence Agent, Punk Busters, Battle Saw, Twin Blaster Boogie Pack), venían con un «mini-EVO» · Generator
+  Rex Wiki «Generator Rex toy line» + amoktime.com (fichas individuales por figura) · ✅ (dos fuentes
+  independientes) · foto de la línea: https://static.wikia.nocookie.net/generatorrexpedia/images/1/12/Generator_rex_toy_line.jpg (200×160, baja resolución, es foto de producto de catálogo)
+- Hubo también **juguetes cancelados** nunca puestos a la venta (galería «Canceled Generator Rex Toys» en la
+  wiki, 8 imágenes) · Generator Rex Wiki · ⚠️ (una sola fuente, no se abrió cada imagen)
+- **Cosplay**: guía de construcción del disfraz de Rex Salazar (chamarra roja con detalle dorado tipo moto,
+  pantalón negro con líneas geométricas azules que en el show brillan al usar sus poderes; sugiere pintura que
+  brilla en la oscuridad para replicar el efecto) · Carbon Costume · https://carboncostume.com/rex-salazar-from-generator-rex/ · ✅ (coincide con el hex medido en el punto 15) · —; también listados de cosplay en Cosplay.com (https://cosplay.com/character/rex-salazar) y disfraces/pelucas a la venta en CosplayFU · ⚠️ (páginas de catálogo, no fotos concretas de cosplay verificadas)
+- No encontré colaboraciones con marcas externas (cafés temáticos, eventos, gachas, Fortnite): es una serie de
+  2010-2013 sin ese tipo de merchandising posterior; búsquedas «Generator Rex x Fortnite», «Generator Rex café»,
+  «Generator Rex gacha collab» sin resultados relevantes.
+
