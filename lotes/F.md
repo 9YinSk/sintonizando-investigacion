@@ -178,8 +178,8 @@ Junté `claude/lote-f-local`, que otras cuentas habían llevado hasta 85 complet
 gracias a eso no repetí ese trabajo.)
 
 Herramientas ya estaban instaladas (verificado). guardar.sh y el enlace de sesión de subir.sh/guardar.sh
-al día. Retomo la cadena: 86 Saga of Tanya the Evil sin `Sigue:` obligatorio → redactor. 87 Tsukimichi
-(imagen+texto listos, faltan vídeo+voz) → investigadores. 88-95 con datos recolectados, listas para
+al día. - 86 Saga of Tanya the Evil: **COMPLETA y subida** (18:47 UTC). ✅12 ⚠️18 ❌0, 129 referencias, 51 webs, 904 líneas.
+- 87 Tsukimichi: vídeo completo; voz en marcha. 88-95 con datos recolectados, listas para
 investigadores. 96 Bubble recolectado a mano (tipo película para --solo, y --tipo anime aparte para
 que AniList entrara).
 
@@ -187,3 +187,4 @@ que AniList entrara).
 no 522. El investigador de vídeo de 87 lo consiguió pasando un User-Agent normal. Vale la pena que
 los próximos investigadores de vídeo lo intenten así antes de darlo por muerto.
 | 87-tsukimichi-moonlit-fantasy | video | sonnet | 17 | 219627 |
+| 86-saga-of-tanya-the-evil | redactor (opus) | opus | 19 | 312238 |
