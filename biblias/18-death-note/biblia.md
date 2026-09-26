@@ -53,7 +53,58 @@ repaso: 2026-09-26
 
 ## Segunda pasada · qué cambió
 
-(en curso: se completa al terminar de editar)
+Fecha: 26-sep-2026. Se corrigió y completó la biblia en su sitio, sin
+rehacerla. Las fuentes de cada dato están en su sección.
+
+### Corregido (antes → ahora)
+
+| Qué | Antes | Ahora | Dónde |
+|---|---|---|---|
+| Ep. 1, 00:04:32 | Light lee el cuaderno en las manos | Es un **insert de la página negra** «How to use it», letra blanca gótica, calavera con aureola | §2.1, §2.11, §15 |
+| La sonrisa de Light con L muerto | ep. 25, 00:17:41 | **00:18:00** (luz roja de alarma); suena «Kyrie II» | §2.8, §11.1 |
+| Light en el almacén | ep. 36, de pie, cabeza gacha | Primerísimo plano, **bolígrafo entre los dientes** | §15 |
+| Light, miedo final | ep. 37, ≈00:18:30 | **00:15:58** (a las 18:30 ya sale Ryuk) | §8.1 |
+| L, concentración | ep. 15, 00:09:07 | **00:08:04** (en cuclillas sobre un banco) | §8.1, §15 |
+| Ryuk, alegría | ep. 1, 00:16:12 | **00:17:29** (la sonrisa enorme) | §8.1, §15 |
+| Misa, miedo (atada) | ep. 16, 00:03:21 | **00:20:58** (a las 03:21 el plano es de L) | §8, §8.1, §15 |
+| Noche del cuarto de Light | `#141A24` (estimado) | `#0F1127` y `#030212`, **azul violeta** (medido) | §5.5 |
+| Universidad Tōō | «día, luz dura» | Interior **gris malva cálido** | §5.1, §5.5 |
+| Vaquero de L | `#4F6B8C` | `#596D76` (medido) | §16.1 |
+| Piel de Ryuk | `#7C8794` | `#84889D` (medido) | §16.1 |
+| Sōichirō en latino | José Lavat ⚠️ | José Lavat ✅ (dos wikis) | §10 |
+| Rem, Watari, Matsuda, Mikami en latino | «no lo encontré» | Erica Edwards, Carlos del Campo, Alfredo Leal, Arturo Mercado Jr. ✅ | §10 |
+| Parte de imagen, hoja 2 | *Jump Force* = nº259-260 | *Jump Force* = **nº252-253** (259-260 son Mello) | «Las hojas de contacto» |
+
+### Añadido
+
+- **3 hojas de contacto** en `hojas/`, miradas y explicadas, con los
+  originales de la wiki (tamaño leído en su API).
+- §2.11 (11 escenas vistas, más opening, ending y tráiler), §3.6 (arte
+  oficial con tamaño), §5.5 (paleta medida en 10 fotogramas), §6.3
+  (letras vueltas a comprobar, coreano y chino), §8.1 (la cara en cada
+  emoción con `?t=`), §9.1 (AniList y Reddit), §10 (14 voces y ficha de
+  producción), §11.1 (qué suena en cada escena), §12.1 (vídeos y TikTok),
+  §13.1 (interfaz de *Killer Within*), §14.1 (fandom hispano con vistas),
+  §16.1 (ropa medida), §17.1 (fondos con tamaño y autor), la **IA de
+  texto** en §18 (13 frases reales por emoción) y los **puntos 18 a 25**.
+- La tabla **«Cumplimiento del encargo»**, antes de la bitácora.
+- Los 3 conceptos siguen siendo los mismos (A cuaderno de Ryuk, B guion
+  de L, C cinta de Misa), ahora con poses vistas, hex medidos y números
+  de hoja. En A, la página izquierda puede ser **negra con letra blanca**,
+  como la del ep. 1.
+
+### Los ⚠️
+
+- **Antes**: 75.
+- **Ahora**: 136 en el cuerpo (138 con la bitácora). Suben porque la
+  biblia creció en unas 1100 líneas (puntos 18-25 y 13 apartados nuevos)
+  y cada dato nuevo de una sola fuente lleva su ⚠️.
+- De los 75 viejos se **quitaron 13** en el texto (poses y cuerpos vistos,
+  voces, plataformas, ojos rojos, luz de memoria). Otros siguen escritos
+  pero quedan **resueltos en su apartado nuevo** (licencias de Sketchfab
+  en §4, paleta en §5.5, poses en §15, vestuario en §16.1).
+- **Lo que sigue dudoso** está en §20.1: frases del doblaje salvo
+  «fritura», el estudio de doblaje, 1080p, *Kira Game*, el libro «/A».
 
 ---
 

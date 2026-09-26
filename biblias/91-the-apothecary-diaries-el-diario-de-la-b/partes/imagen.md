@@ -156,3 +156,52 @@ libres para replicarlas en Photoshop/Clip Studio.
   un "emblema" reconocible es el dragón bordado del panel de Jinshi T3 (arriba).
   Si hace falta un logo, mejor usar el propio patrón de dragón que un escudo
   inventado.
+
+## 23 · Colaboraciones y cruces
+
+- **Turismo: "IBARAKI is Blossoming" con la prefectura de Ibaraki** (revelada el
+  1-ago-2025): key visual y corto animado original de 140 s con Maomao y Jinshi
+  explorando la prefectura (cascada Furukoda, jardín Kairakuen). Trae ropa y
+  fondo nuevos, distintos del palacio: key visual con ambos en tonos azules y
+  motivo floral, imagen 74 de la hoja 3 (`Prtimes-jp-IBARAKI is Blossoming x
+  The...`, 1950×1096) · fuente Anime News Network + Oricon (ambas coinciden en
+  fecha y detalle) ✅
+  - **Stamp rally** del 25-oct-2025 al 18-ene-2026: 10 sitios turísticos reales
+    en dos rutas, "Maomao's Sea Breeze Course" y "Jinshi's Sunlight Through
+    Leaves Course", con sellos con mini-personajes propios (arte chibi nuevo) ·
+    fuente Oricon + Mantan Web ✅
+  - **Tren de colaboración** en la línea Yamanote de Tokio con las key visuals
+    en pantallas digitales de tres paneles · fuente Oricon (news 6902) ⚠️ (una
+    sola fuente en inglés, no confirmado en japonés)
+- **Universal Studios Japan**: atracción **"The Apothecary Diaries: Mystery
+  Walk ~Investigate the Mysterious Medicine~"** (『薬屋のひとりごと ミステリー・
+  ウォーク〜謎の薬を調査せよ〜』), anunciada en marzo de 2025 dentro de Universal
+  Cool Japan 2025 (10.º aniversario), en cartel desde el verano de 2025 hasta
+  principios de 2026 · fuente wikitext de la wiki (con referencia a
+  essential-japan.com y kusuriyanohitorigoto.jp/news/1479) ✅ · póster oficial
+  960×1280 · https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/0/0b/Twitter-USJ_Official-TADxUSJ-poster-21mar2025.png
+- **Exposición oficial itinerante del anime** ("TVアニメ『薬屋のひとりごと』展"):
+  empezó en la 8.ª planta de Matsuya Ginza (Tokio), del 26-mar al 14-abr-2025,
+  con más sedes después y la última en Yamagata (hasta principios de abril de
+  2026) · fuente wikitext de la wiki (ficha propia "The Apothecary Diaries Anime
+  Exhibition") ✅ · póster en hoja 3, imagen 118 (1032×1458)
+- **AMNIBUS pop-up shop** (tienda temporal oficial de merchandising), con arte
+  chibi propio de Maomao y Jinshi distinto del habitual · imágenes 4, 28 y 154
+  de las hojas 1/3/4 · fuente wiki (galerías Maomao/Jinshi) ✅ (se repite el
+  mismo evento en 3 fechas distintas: 2024, y dos veces en 2026)
+- **Figura oficial con licencia**: **Good Smile Company, POP UP PARADE Maomao**
+  (17 cm, pintada, con peana), pose de trabajo recogiendo hierbas con la falda
+  al viento, publicada junio-2024 y reeditada nov-2025 · fuente
+  https://www.goodsmile.com/en/product/55961 ✅ (repetida en TOHO animation
+  Store y Solaris Japan con la misma foto de producto) · sirve de referencia 3D
+  de pose directa, con licencia comercial (producto, no libre para reutilizar
+  la malla, pero sí como referencia de pose/proporciones)
+- **Cosplay real** (fotos con licencia libre, ya en `datos.json`): Maomao en
+  Lucca Comics and Games 2024, por esby.photo, CC BY-NC-SA 2.0 — aoqun verde y
+  granate bien reconocible, con accesorios de pelo correctos (listón celeste,
+  cuentas) · ✅
+- ⚠️ No encontré colaboraciones con videojuegos tipo gacha (Fortnite, Genshin,
+  etc.): busqué "Apothecary Diaries x Fortnite", "Kusuriya no Hitorigoto
+  collab game" y "薬屋のひとりごと コラボ ゲーム" sin resultado; a diferencia de
+  otras franquicias de temporada, sus cruces son sobre todo turismo/exposición,
+  no videojuegos.
