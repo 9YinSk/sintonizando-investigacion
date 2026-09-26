@@ -1,16 +1,16 @@
 # Datos para el investigador de TEXTO, JUEGOS Y TÉCNICA (puntos 5, 6, 11, 18, 24, 25) · Frieren: paisajes y memoria
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## La obra en datos (AniList)
 _Fuente: https://anilist.co/anime/154587_
 
 - Títulos: Sousou no Frieren · Frieren: Beyond Journey’s End · 葬送のフリーレン · también: Frieren at the Funeral, 장송의 프리렌, Frieren - Oltre la Fine del Viaggio, คำอธิษฐานในวันที่จากลา Frieren, Frieren e a Jornada para o Além, Frieren – Nach dem Ende der Reise
-- Formato TV, año 2023, episodios 28, capítulos None, estado FINISHED, nota media 91, popularidad 483340, favoritos 56353
+- Formato TV, año 2023, episodios 28, capítulos None, estado FINISHED, nota media 91, popularidad 483674, favoritos 56381
 - Estudio: MADHOUSE · géneros: Adventure, Drama, Fantasy
 - Sinopsis: The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure… · · (Source: Crunchyroll)
 - Temas y rasgos (etiquetas, % de acuerdo): Travel 96%, Magic 95%, Elf 91%, Female Protagonist 85%, Philosophy 84%, Medieval 82%, Found Family 79%, Kuudere 75%, Demons 71%, Shounen 71%, Foreign 69%, Iyashikei 63%, Adoption 61%, Rural 60%, Heterosexual 58%, Aromantic 58%, Dungeon 56%, Asexual 55%, Episodic 54%, Religion 47%, Rotoscoping 47%, Snowscape 43%, Spearplay 42%, Dragons 38%, CGI 37%, Food 36%, Horticulture 30%
@@ -47,7 +47,7 @@ _Fuente: https://anilist.co/anime/154587/staff_
 ## Obras parecidas (recomendaciones de usuarios de AniList)
 _Fuente: https://anilist.co/anime/154587_
 
-- Violet Evergarden (TV, nota 85) · votos 1187
+- Violet Evergarden (TV, nota 85) · votos 1188
 - Delicious in Dungeon (TV, nota 85) · votos 765
 - Wandering Witch: The Journey of Elaina (TV, nota 74) · votos 502
 - To Your Eternity (TV, nota 81) · votos 423
@@ -60,7 +60,7 @@ _Fuente: https://anilist.co/anime/154587_
 - Spice and Wolf: MERCHANT MEETS THE WISE WOLF (TV, nota 79) · votos 193
 - Secrets of the Silent Witch (TV, nota 81) · votos 180
 - Spice and Wolf (TV, nota 80) · votos 121
-- Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 (TV, nota 83) · votos 119
+- Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 (TV, nota 83) · votos 120
 - Mushoku Tensei: Jobless Reincarnation (TV, nota 82) · votos 112
 
 ## Obras relacionadas (películas, juegos, spin-offs)

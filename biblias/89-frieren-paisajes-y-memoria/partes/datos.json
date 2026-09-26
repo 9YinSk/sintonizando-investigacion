@@ -140,11 +140,11 @@
   "origen": "recolectar.py"
  },
  {
-  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219110-LEB5T4oG0gel.png",
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293727-Jaf2eiNfINWx.png",
   "fuente": "AniList",
   "ancho": null,
   "alto": null,
-  "que_es": "Retrato de Aura",
+  "que_es": "Retrato de Lawine",
   "para_que": "cara y colores base del personaje",
   "licencia": "© titulares; sólo referencia",
   "origen": "recolectar.py"
@@ -166,6 +166,326 @@
   "alto": null,
   "que_es": "Banner oficial",
   "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/0/0d/Chapter_67_extra.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3984,
+  "alto": 4096,
+  "que_es": "Frieren: Chapter 67 extra.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/3/37/745000_Twitter_followers_icon.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3937,
+  "alto": 3937,
+  "que_es": "Frieren: 745000 Twitter followers icon.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/b/b4/Comic_Seymour_20th_Anniversary_illustration_%28clean%29.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3335,
+  "alto": 3762,
+  "que_es": "Frieren: Comic Seymour 20th Anniversary illustration (clean).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/0/04/Chapter_100_sketch.png",
+  "fuente": "Fandom frieren",
+  "ancho": 4096,
+  "alto": 2901,
+  "que_es": "Frieren: Chapter 100 sketch.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/4/4c/Frieren%27s_Party_character_visual.png",
+  "fuente": "Fandom frieren",
+  "ancho": 4096,
+  "alto": 2892,
+  "que_es": "Frieren: Frieren's Party character visual.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/3/33/Episode_37_Ending_Card_illustration_by_Runa_Harano.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Frieren: Episode 37 Ending Card illustration by Runa Harano.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/c/c4/Episode_33_Ending_Card_illustration_by_Hiroyuki_Kobashi.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Frieren: Episode 33 Ending Card illustration by Hiroyuki Kobashi.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/d/d8/Episode_16_Ending_Card_illustration_by_K%C5%8Dta_Mori.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Frieren: Episode 16 Ending Card illustration by Kōta Mori.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/f/fc/Episode_14_Ending_Card_illustration_by_Tomoko_Mori.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Frieren: Episode 14 Ending Card illustration by Tomoko Mori.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/7/76/545000_Twitter_followers_icon.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3201,
+  "alto": 3201,
+  "que_es": "Frieren: 545000 Twitter followers icon.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/5/54/750000_Twitter_followers_icon.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3937,
+  "alto": 3937,
+  "que_es": "Fern: 750000 Twitter followers icon.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/4/46/Frieren_Season_2_illustration_by_Ryuhei_Tamura.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3130,
+  "alto": 4096,
+  "que_es": "Fern: Frieren Season 2 illustration by Ryuhei Tamura.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/4/4d/New_Year_2026_special_visual.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2897,
+  "alto": 4096,
+  "que_es": "Fern: New Year 2026 special visual.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/6/63/Frieren_Season_2_illustration_by_Inoue.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2897,
+  "alto": 4096,
+  "que_es": "Fern: Frieren Season 2 illustration by Inoue.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/8/82/Fern_character_visual.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2893,
+  "alto": 4096,
+  "que_es": "Fern: Fern character visual.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/f/fe/Fern_Volume_10_Special_Edition_Bonus_illustration.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2894,
+  "alto": 3893,
+  "que_es": "Fern: Fern Volume 10 Special Edition Bonus illustration.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/5/5d/Frieren_and_Fern_character_visual_%28Season_2%29.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3029,
+  "alto": 2999,
+  "que_es": "Fern: Frieren and Fern character visual (Season 2).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/5/56/Frieren%27s_party_character_visual_2_%28Season_2%29.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3012,
+  "alto": 3012,
+  "que_es": "Fern: Frieren's party character visual 2 (Season 2).png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/6/6d/Stark_character_visual.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2893,
+  "alto": 4096,
+  "que_es": "Stark: Stark character visual.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/1/18/Volume_8_sketch.jpg",
+  "fuente": "Fandom frieren",
+  "ancho": 2892,
+  "alto": 4096,
+  "que_es": "Stark: Volume 8 sketch.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/c/c9/Volume_1_%28Prelude%29_illustration.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2892,
+  "alto": 4096,
+  "que_es": "Stark: Volume 1 (Prelude) illustration.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/1/11/Episode_6_Ending_Card_illustration_by_Toru_Iwasawa.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Stark: Episode 6 Ending Card illustration by Toru Iwasawa.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/a/a9/Frieren_Season_2_illustration_by_Aya_Hirakawa.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3541,
+  "alto": 2508,
+  "que_es": "Stark: Frieren Season 2 illustration by Aya Hirakawa.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/4/43/Frieren_Season_2_illustration_by_Kaeru_Mizuho.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2508,
+  "alto": 3541,
+  "que_es": "Stark: Frieren Season 2 illustration by Kaeru Mizuho.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/f/fa/Japan_Expo_25th_Anniversary_illustration.png",
+  "fuente": "Fandom frieren",
+  "ancho": 3678,
+  "alto": 4096,
+  "que_es": "Himmel: Japan Expo 25th Anniversary illustration.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/5/54/Frieren_Season_2_illustration_by_Yu_Yabuchi.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2564,
+  "alto": 3537,
+  "que_es": "Himmel: Frieren Season 2 illustration by Yu Yabuchi.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/a/ac/Frieren_Season_2_illustration_by_Oreco_Tachibana.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2508,
+  "alto": 3541,
+  "que_es": "Himmel: Frieren Season 2 illustration by Oreco Tachibana.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/2/24/Frieren_Season_2_illustration_by_Morishita_Miyu.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2508,
+  "alto": 3541,
+  "que_es": "Himmel: Frieren Season 2 illustration by Morishita Miyu.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/8/8a/Episode_22_Ending_Card_illustration_by_Toshiyuki_Sat%C5%8D.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2480,
+  "alto": 3508,
+  "que_es": "Himmel: Episode 22 Ending Card illustration by Toshiyuki Satō.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/e/e6/Chapter_120.png",
+  "fuente": "Fandom frieren",
+  "ancho": 2058,
+  "alto": 3037,
+  "que_es": "Himmel: Chapter 120.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/d/df/Chapter_146.png",
+  "fuente": "Fandom frieren",
+  "ancho": 1909,
+  "alto": 2741,
+  "que_es": "Himmel: Chapter 146.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia",
+  "origen": "recolectar.py"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/frieren/images/3/34/Himmel_anime_character_design.jpg",
+  "fuente": "Fandom frieren",
+  "ancho": 2718,
+  "alto": 1920,
+  "que_es": "Himmel: Himmel anime character design.jpg",
+  "para_que": "pose, ropa y colores del personaje",
   "licencia": "© titulares; sólo referencia",
   "origen": "recolectar.py"
  },

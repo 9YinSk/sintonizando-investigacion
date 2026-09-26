@@ -1,16 +1,101 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Frieren: paisajes y memoria
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## Portada y banner oficiales (AniList)
 _Fuente: https://anilist.co/anime/154587_
 
 - Portada oficial: https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg
 - Banner oficial: https://s4.anilist.co/file/anilistcdn/media/anime/banner/154587-ivXNJ23SM1xB.jpg
+
+## Frieren: las imágenes más grandes de la wiki (499 en total)
+_Fuente: https://frieren.fandom.com/wiki/Frieren_
+
+- 3984×4096 · Chapter 67 extra.png · https://static.wikia.nocookie.net/frieren/images/0/0d/Chapter_67_extra.png
+- 3937×3937 · 745000 Twitter followers icon.png · https://static.wikia.nocookie.net/frieren/images/3/37/745000_Twitter_followers_icon.png
+- 3335×3762 · Comic Seymour 20th Anniversary illustration (clean).png · https://static.wikia.nocookie.net/frieren/images/b/b4/Comic_Seymour_20th_Anniversary_illustration_%28clean%29.png
+- 4096×2901 · Chapter 100 sketch.png · https://static.wikia.nocookie.net/frieren/images/0/04/Chapter_100_sketch.png
+- 4096×2892 · Frieren's Party character visual.png · https://static.wikia.nocookie.net/frieren/images/4/4c/Frieren%27s_Party_character_visual.png
+- 2894×4093 · Episode 37 Ending Card illustration by Runa Harano.png · https://static.wikia.nocookie.net/frieren/images/3/33/Episode_37_Ending_Card_illustration_by_Runa_Harano.png
+- 2894×4093 · Episode 33 Ending Card illustration by Hiroyuki Kobashi.png · https://static.wikia.nocookie.net/frieren/images/c/c4/Episode_33_Ending_Card_illustration_by_Hiroyuki_Kobashi.png
+- 2894×4093 · Episode 16 Ending Card illustration by Kōta Mori.png · https://static.wikia.nocookie.net/frieren/images/d/d8/Episode_16_Ending_Card_illustration_by_K%C5%8Dta_Mori.png
+- 2894×4093 · Episode 14 Ending Card illustration by Tomoko Mori.png · https://static.wikia.nocookie.net/frieren/images/f/fc/Episode_14_Ending_Card_illustration_by_Tomoko_Mori.png
+- 3201×3201 · 545000 Twitter followers icon.png · https://static.wikia.nocookie.net/frieren/images/7/76/545000_Twitter_followers_icon.png
+
+## Frieren · Appearance (texto de la wiki)
+_Fuente: https://frieren.fandom.com/wiki/Frieren#Appearance_
+
+Frieren is a petite, female elf with green eyes, thick eyebrows, and long, silver hair parted in the middle and tied into two high pigtails. Like all elves, she has large, pointed ears. Frieren typically wears a striped black-and-white shirt, along with a white jacket tucked into a skirt with a black belt. The sleeves of her jacket end with large, gold cuffs. Both her jacket and skirt have gold trims along the edges. Over her jacket, she wears a short cape that matches the white and gold theme of her jacket and skirt, and the cape includes decorative, gold accents with red jewels on each shoulder and a high collar that is fastened with a red jewel. She also wears black tights, brown boots, and a pair of gold earrings with red, teardrop-shaped jewels hanging from each earring. === Staff === When casting spells as a mage, Frieren utilizes a red staff with a gold, crescent-shaped tip that…
+
+## Fern: las imágenes más grandes de la wiki (489 en total)
+_Fuente: https://frieren.fandom.com/wiki/Fern_
+
+- 3937×3937 · 750000 Twitter followers icon.png · https://static.wikia.nocookie.net/frieren/images/5/54/750000_Twitter_followers_icon.png
+- 3130×4096 · Frieren Season 2 illustration by Ryuhei Tamura.png · https://static.wikia.nocookie.net/frieren/images/4/46/Frieren_Season_2_illustration_by_Ryuhei_Tamura.png
+- 2897×4096 · New Year 2026 special visual.png · https://static.wikia.nocookie.net/frieren/images/4/4d/New_Year_2026_special_visual.png
+- 2897×4096 · Frieren Season 2 illustration by Inoue.png · https://static.wikia.nocookie.net/frieren/images/6/63/Frieren_Season_2_illustration_by_Inoue.png
+- 2893×4096 · Fern character visual.png · https://static.wikia.nocookie.net/frieren/images/8/82/Fern_character_visual.png
+- 4096×2892 · Frieren's Party character visual.png · https://static.wikia.nocookie.net/frieren/images/4/4c/Frieren%27s_Party_character_visual.png
+- 2894×4093 · Episode 33 Ending Card illustration by Hiroyuki Kobashi.png · https://static.wikia.nocookie.net/frieren/images/c/c4/Episode_33_Ending_Card_illustration_by_Hiroyuki_Kobashi.png
+- 2894×3893 · Fern Volume 10 Special Edition Bonus illustration.png · https://static.wikia.nocookie.net/frieren/images/f/fe/Fern_Volume_10_Special_Edition_Bonus_illustration.png
+- 3029×2999 · Frieren and Fern character visual (Season 2).png · https://static.wikia.nocookie.net/frieren/images/5/5d/Frieren_and_Fern_character_visual_%28Season_2%29.png
+- 3012×3012 · Frieren's party character visual 2 (Season 2).png · https://static.wikia.nocookie.net/frieren/images/5/56/Frieren%27s_party_character_visual_2_%28Season_2%29.png
+
+## Fern · Appearance (texto de la wiki)
+_Fuente: https://frieren.fandom.com/wiki/Fern#Appearance_
+
+.]] Fern is a young human with purple eyes and long, waist-length purple hair with bangs. She usually wears her hair down with two additional chest-length strands framing her face in a hime-style haircut and partially tied back. After turning sixteen, Fern grew to be taller than Frieren and with a more developed figure. As a result of her mature and calm personality, she frequently wears a stoic expression and rarely expresses strong emotions. Her facial features are characteristic of those from the Southern Lands. During her travels with Frieren, Fern is most commonly seen wearing a long, buttoned white dress with a Victorian top, including a frilled collar and puffy white sleeves, along with black boots. When outdoors, she also dons a long, black coat with a hood, which has a gray inside layer. For Fern's sixteenth birthday, Frieren gifted her a butterfly hair ornament, which Fern…
+
+## Stark: las imágenes más grandes de la wiki (488 en total)
+_Fuente: https://frieren.fandom.com/wiki/Stark_
+
+- 3984×4096 · Chapter 67 extra.png · https://static.wikia.nocookie.net/frieren/images/0/0d/Chapter_67_extra.png
+- 2893×4096 · Stark character visual.png · https://static.wikia.nocookie.net/frieren/images/6/6d/Stark_character_visual.png
+- 4096×2892 · Frieren's Party character visual.png · https://static.wikia.nocookie.net/frieren/images/4/4c/Frieren%27s_Party_character_visual.png
+- 2892×4096 · Volume 8 sketch.jpg · https://static.wikia.nocookie.net/frieren/images/1/18/Volume_8_sketch.jpg
+- 2892×4096 · Volume 1 (Prelude) illustration.png · https://static.wikia.nocookie.net/frieren/images/c/c9/Volume_1_%28Prelude%29_illustration.png
+- 2894×4093 · Episode 6 Ending Card illustration by Toru Iwasawa.png · https://static.wikia.nocookie.net/frieren/images/1/11/Episode_6_Ending_Card_illustration_by_Toru_Iwasawa.png
+- 2894×4093 · Episode 33 Ending Card illustration by Hiroyuki Kobashi.png · https://static.wikia.nocookie.net/frieren/images/c/c4/Episode_33_Ending_Card_illustration_by_Hiroyuki_Kobashi.png
+- 3012×3012 · Frieren's party character visual 2 (Season 2).png · https://static.wikia.nocookie.net/frieren/images/5/56/Frieren%27s_party_character_visual_2_%28Season_2%29.png
+- 3541×2508 · Frieren Season 2 illustration by Aya Hirakawa.png · https://static.wikia.nocookie.net/frieren/images/a/a9/Frieren_Season_2_illustration_by_Aya_Hirakawa.png
+- 2508×3541 · Frieren Season 2 illustration by Kaeru Mizuho.png · https://static.wikia.nocookie.net/frieren/images/4/43/Frieren_Season_2_illustration_by_Kaeru_Mizuho.png
+
+## Stark · Appearance (texto de la wiki)
+_Fuente: https://frieren.fandom.com/wiki/Stark#Appearance_
+
+Stark has spiky, red hair with black roots alongside orange eyes. He typically wears a black, sleeveless collared shirt with white fastenings, baggy black pants, black boots, a white sash around his waist, and bandages wrapped around his arms. In colder climates, he wears a black turtleneck sweater. While outside, he wears a red coat with cream-colored lapels and cuffs and black fingerless gloves, and he straps his weapon—a large, double-headed gray-and-silver axe—to his back with a crossbody strap. On his wrist, he wears a silver bracelet that he received as an eighteenth-birthday gift from Fern. He has a large scar on his forehead that he got from Eisen striking him out of fear. Wirbel comments that Stark has a solid figure when he borrows him to be a vanguard.
+
+## Himmel: las imágenes más grandes de la wiki (257 en total)
+_Fuente: https://frieren.fandom.com/wiki/Himmel_
+
+- 3678×4096 · Japan Expo 25th Anniversary illustration.png · https://static.wikia.nocookie.net/frieren/images/f/fa/Japan_Expo_25th_Anniversary_illustration.png
+- 2894×4093 · Episode 37 Ending Card illustration by Runa Harano.png · https://static.wikia.nocookie.net/frieren/images/3/33/Episode_37_Ending_Card_illustration_by_Runa_Harano.png
+- 2564×3537 · Frieren Season 2 illustration by Yu Yabuchi.png · https://static.wikia.nocookie.net/frieren/images/5/54/Frieren_Season_2_illustration_by_Yu_Yabuchi.png
+- 2508×3541 · Frieren Season 2 illustration by Oreco Tachibana.png · https://static.wikia.nocookie.net/frieren/images/a/ac/Frieren_Season_2_illustration_by_Oreco_Tachibana.png
+- 2508×3541 · Frieren Season 2 illustration by Morishita Miyu.png · https://static.wikia.nocookie.net/frieren/images/2/24/Frieren_Season_2_illustration_by_Morishita_Miyu.png
+- 2508×3541 · Frieren Season 2 illustration by Kaeru Mizuho.png · https://static.wikia.nocookie.net/frieren/images/4/43/Frieren_Season_2_illustration_by_Kaeru_Mizuho.png
+- 2480×3508 · Episode 22 Ending Card illustration by Toshiyuki Satō.png · https://static.wikia.nocookie.net/frieren/images/8/8a/Episode_22_Ending_Card_illustration_by_Toshiyuki_Sat%C5%8D.png
+- 2058×3037 · Chapter 120.png · https://static.wikia.nocookie.net/frieren/images/e/e6/Chapter_120.png
+- 1909×2741 · Chapter 146.png · https://static.wikia.nocookie.net/frieren/images/d/df/Chapter_146.png
+- 2718×1920 · Himmel anime character design.jpg · https://static.wikia.nocookie.net/frieren/images/3/34/Himmel_anime_character_design.jpg
+
+## Himmel · Appearance (texto de la wiki)
+_Fuente: https://frieren.fandom.com/wiki/Himmel#Appearance_
+
+Himmel was a male human with blue hair and a mole near his left eye. His eyes were light blue. He was self-declared to be handsome and took great care of his appearance. Himmel wore a long, beige cloak that draped down to his ankles, a fitted blue tunic, white pants, and black boots. Around his waist, he wore a white belt which contrasted with the blue fabric of his tunic, and this belt held his replica of the Sword of the Hero that was placed within a white scabbard. === Other Attire === When he was a child, Himmel wore a simple tunic. In his old age, Himmel went from a rather tall man to a much shorter hunched senior, smaller than the already short Frieren. He went bald and grew a full beard and mustache. He wore a long shirt tied around the waist with a brown band and a blue mantle. To get around, he walked with a thick, straight cane. === Replica of the Sword of the Hero === The…
+
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de frieren.fandom.com (4 páginas y sus galerías)…
+  1564 imágenes enlazadas, 1261 grandes → 27 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/frieren-paisajes-y-memoria
+
+```
 
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
@@ -19,7 +104,7 @@ _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
 - **fern_(sousou_no_frieren)**: purple_hair, long_hair, purple_eyes, looking_at_viewer, blunt_bangs, dress, white_dress, simple_background, closed_mouth, white_background, blush, sidelocks, long_sleeves, holding, very_long_hair, straight_hair, staff, coat, black_coat, holding_staff, upper_body, robe, artist_name, open_clothes, standing, collarbone, sitting, black_robe
 - **stark_(sousou_no_frieren)**: male_focus, red_hair, short_hair, red_eyes, multicolored_hair, holding, jacket, bandages, looking_at_viewer, bandaged_arm, weapon, axe, gloves, pants, black_hair, red_jacket, closed_mouth, simple_background, black_pants, black_gloves, fingerless_gloves, shirt, two-tone_hair, long_sleeves, holding_axe, battle_axe, coat, red_coat
 - **himmel_(sousou_no_frieren)**: male_focus, blue_hair, short_hair, blue_eyes, closed_mouth, smile, pointy_ears, elf, looking_at_viewer, long_hair, shirt, flower, mole, jewelry, mole_under_eye, holding, upper_body, twintails, earrings, long_sleeves, cape, blue_flower, outdoors, simple_background, capelet, cloak, white_capelet, white_background
-- **hatsune_miku**: long_hair, twintails, very_long_hair, aqua_hair, looking_at_viewer, skirt, aqua_eyes, necktie, detached_sleeves, smile, shirt, open_mouth, hair_ornament, hair_between_eyes, blue_eyes, blue_hair, blush, sleeveless, simple_background, bare_shoulders, white_background, sleeveless_shirt, black_skirt, pleated_skirt, long_sleeves, holding, collared_shirt, full_body
+- **hatsune_miku**: long_hair, twintails, very_long_hair, aqua_hair, looking_at_viewer, skirt, aqua_eyes, necktie, detached_sleeves, smile, shirt, open_mouth, hair_ornament, hair_between_eyes, blue_eyes, blush, blue_hair, sleeveless, simple_background, bare_shoulders, white_background, sleeveless_shirt, black_skirt, long_sleeves, pleated_skirt, holding, collared_shirt, full_body
 - **gotoh_hitori**: pink_hair, long_hair, hair_ornament, cube_hair_ornament, blue_eyes, jacket, one_side_up, looking_at_viewer, pink_jacket, hair_between_eyes, simple_background, blush, white_background, track_jacket, long_sleeves, skirt, open_mouth, holding, closed_mouth, instrument, guitar, pleated_skirt, electric_guitar, black_skirt, upper_body, shirt, very_long_hair, sweat
 - **princess_zelda**: pointy_ears, blonde_hair, long_hair, looking_at_viewer, braid, jewelry, dress, blue_eyes, green_eyes, smile, hair_ornament, crown_braid, short_hair, blush, hairclip, earrings, gloves, simple_background, parted_bangs, sidelocks, triforce, closed_mouth, white_background, open_mouth, upper_body, artist_name, necklace, holding
 - **megumin**: red_eyes, looking_at_viewer, hat, brown_hair, blush, dress, witch_hat, gloves, red_dress, bandages, short_hair_with_long_locks, fingerless_gloves, short_hair, bandaged_leg, belt, cape, simple_background, black_hair, smile, open_mouth, black_gloves, white_background, staff, long_sleeves, collarbone, bare_shoulders, holding, choker
@@ -92,15 +177,15 @@ _Fuente: https://wallhaven.cc_
 - 3840x2160 · ♥ 442 · https://w.wallhaven.cc/full/rr/wallhaven-rrz76w.jpg · subido por Owl279 · origen: https://www.pixiv.net/en/artworks/114710157 · anime girls, anime boys, looking below, Catbox233, Himmel (Sousou no Frieren), Heiter (Sousou no Frieren)
 - 3688x1920 · ♥ 421 · https://w.wallhaven.cc/full/7p/wallhaven-7pmgv9.jpg · subido por InrroInrro · origen: https://www.pixiv.net/en/artworks/113776452 · Sousou No Frieren, anime, lying down, lying on side, Frieren, anime girls
 - 2480x3508 · ♥ 411 · https://w.wallhaven.cc/full/85/wallhaven-858vpj.jpg · subido por Owl279 · origen: https://twitter.com/gyoukan000/status/1723628606033911903 · Sousou No Frieren, anime, portrait display, anime girls, anime boys, looking back
-- 3840x2160 · ♥ 401 · https://w.wallhaven.cc/full/ly/wallhaven-lyjvl2.jpg · subido por destex · origen: https://www.pixiv.net/en/artworks/140098051 · anime, anime girls, Frieren, Sousou No Frieren, Fern (Sousou No Frieren), Breaking Bad
+- 3840x2160 · ♥ 403 · https://w.wallhaven.cc/full/ly/wallhaven-lyjvl2.jpg · subido por destex · origen: https://www.pixiv.net/en/artworks/140098051 · anime, anime girls, Frieren, Sousou No Frieren, Fern (Sousou No Frieren), Breaking Bad
 - 3840x2160 · ♥ 311 · https://w.wallhaven.cc/full/p9/wallhaven-p9m13e.png · subido por orsted2222 · origen: https://twitter.com/nest_virgo · anime, bare midriff, anime girls, headphones, simple background, Frieren
 - 3360x1440 · ♥ 303 · https://w.wallhaven.cc/full/l8/wallhaven-l8o2op.jpg · subido por Cobb141 · origen: https://www.pixiv.net/en/artworks/115738312 · anime, anime girls, Sousou No Frieren, Frieren, void_0, women outdoors
 - 4961x2961 · ♥ 298 · https://w.wallhaven.cc/full/o5/wallhaven-o5zrj7.jpg · subido por Owl279 · origen: https://i.pximg.net/img-original/img/2024/04/25/19/55/47/118150098_p0.jpg · Fern (Sousou No Frieren), Stark (Sousou no Frieren), Sousou No Frieren, Frieren, group of people, suitcase
 - 3626x4503 · ♥ 288 · https://w.wallhaven.cc/full/3l/wallhaven-3lykgv.jpg · subido por Owl279 · origen: https://www.pixiv.net/artworks/115466786 · Delicious in Dungeon, elves, Sousou No Frieren, staff, Marcille Donato, Frieren
-- 3840x2160 · ♥ 269 · https://w.wallhaven.cc/full/p9/wallhaven-p953g3.png · subido por orsted2222 · origen: https://twitter.com/nest_virgo/status/1730200967457694153/photo/2 · artwork, minimalism, Sousou No Frieren, purple eyes, purple hair, looking at viewer
+- 3840x2160 · ♥ 268 · https://w.wallhaven.cc/full/p9/wallhaven-p953g3.png · subido por orsted2222 · origen: https://twitter.com/nest_virgo/status/1730200967457694153/photo/2 · artwork, minimalism, Sousou No Frieren, purple eyes, purple hair, looking at viewer
 - 3840x2160 · ♥ 255 · https://w.wallhaven.cc/full/9d/wallhaven-9depzk.jpg · subido por Owl279 · origen: https://www.pixiv.net/en/artworks/114900900 · anime girls, white hair, sitting, Sousou No Frieren, Frieren, closed eyes
-- 2000x3094 · ♥ 251 · https://w.wallhaven.cc/full/9d/wallhaven-9d7rd1.jpg · subido por Owl279 · origen: https://www.pixiv.net/artworks/115959359 · Sousou No Frieren, Frieren, portrait display, anime girls, backlighting, open mouth
-- 6055x3462 · ♥ 242 · https://w.wallhaven.cc/full/vq/wallhaven-vq3ykl.jpg · subido por InrroInrro · origen: https://www.pixiv.net/artworks/114234634 · anime, anime girls, Sousou No Frieren, Frieren, closed eyes, pointy ears
+- 2000x3094 · ♥ 252 · https://w.wallhaven.cc/full/9d/wallhaven-9d7rd1.jpg · subido por Owl279 · origen: https://www.pixiv.net/artworks/115959359 · Sousou No Frieren, Frieren, portrait display, anime girls, backlighting, open mouth
+- 6055x3462 · ♥ 243 · https://w.wallhaven.cc/full/vq/wallhaven-vq3ykl.jpg · subido por InrroInrro · origen: https://www.pixiv.net/artworks/114234634 · anime, anime girls, Sousou No Frieren, Frieren, closed eyes, pointy ears
 - 3000x1308 · ♥ 232 · https://w.wallhaven.cc/full/2y/wallhaven-2yw1qx.jpg · subido por hk25 · origen: https://www.pixiv.net/en/artworks/114336330 · anime, anime girls, Sousou No Frieren, Fern (Sousou No Frieren), Frieren, MEInoss
 
 ## Modelos 3D descargables con licencia (Sketchfab)

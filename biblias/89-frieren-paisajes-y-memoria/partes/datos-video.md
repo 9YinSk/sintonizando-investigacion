@@ -1,10 +1,10 @@
 # Datos para el investigador de VÍDEO (puntos 2, 4, 9, 10, 14) · Frieren: paisajes y memoria
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-26, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · fandom: el encargo no trae wiki (usa --wiki) · animethemes: HTTP Error 522: <none> · reddit: no encontré el subreddit
+**Fuentes que fallaron** (hazlas a mano si hacen falta): doblaje_wiki: no encontré la página de la obra (prueba --nombres con el título latino) · animethemes: HTTP Error 500: Internal Server Error · reddit: no encontré el subreddit
 
 ## Tráiler y enlaces oficiales (AniList)
 _Fuente: https://anilist.co/anime/154587_
@@ -25,24 +25,24 @@ _Fuente: https://api.dailymotion.com_
 
 **«Sousou no Frieren opening»**
 - Frieren & Fern vs Qual | Frieren: Beyond Journey's End: Sousou no Frieren · 3:26 · Anime Brawl Collection · 1300 vistas · https://www.dailymotion.com/video/x8qbrgb
-- ►葬送のフリーレン // フリーレンの力に果敢に挑戦したアウラの痛ましい結末// Sousou no Frieren · 7:16 · Adventure Magic · 250 vistas · https://www.dailymotion.com/video/x9meffc
+- ►葬送のフリーレン // フリーレンの力に果敢に挑戦したアウラの痛ましい結末// Sousou no Frieren · 7:16 · Adventure Magic · 251 vistas · https://www.dailymotion.com/video/x9meffc
 - Hentai for Sousou no Frieren?, Netflix Vows to Fix the Anime Industry · 7:40 · The Best Anime Here · 208 vistas · https://www.dailymotion.com/video/x98ejmg
 - ►葬送のフリーレン // 一流魔術師の座を巡る熾烈な争い // Sousou no Frieren ►葬送のフリーレン //… · 8:16 · Adventure Magic · 157 vistas · https://www.dailymotion.com/video/x9mc6x6
-- Speed4x 葬送のフリーレン 第2期 1 10話 Sousou no Frieren Season 2 episode 1-10 · 8:47 · One Piece Kawaii Channel OwO · 136 vistas · https://www.dailymotion.com/video/xa8y5e2
+- Speed4x 葬送のフリーレン 第2期 1 10話 Sousou no Frieren Season 2 episode 1-10 · 8:47 · One Piece Kawaii Channel OwO · 137 vistas · https://www.dailymotion.com/video/xa8y5e2
 - Sousou no Frieren Animator Worked on H3ntai? Popular Cosplayer Revealed as a Man! · 9:46 · The Best Anime Here · 135 vistas · https://www.dailymotion.com/video/x9c3au6
 **«Sousou no Frieren ending»**
 - Frieren & Fern vs Qual | Frieren: Beyond Journey's End: Sousou no Frieren · 3:26 · Anime Brawl Collection · 1300 vistas · https://www.dailymotion.com/video/x8qbrgb
-- ►葬送のフリーレン // フリーレンの力に果敢に挑戦したアウラの痛ましい結末// Sousou no Frieren · 7:16 · Adventure Magic · 250 vistas · https://www.dailymotion.com/video/x9meffc
+- ►葬送のフリーレン // フリーレンの力に果敢に挑戦したアウラの痛ましい結末// Sousou no Frieren · 7:16 · Adventure Magic · 251 vistas · https://www.dailymotion.com/video/x9meffc
 - Hentai for Sousou no Frieren?, Netflix Vows to Fix the Anime Industry · 7:40 · The Best Anime Here · 208 vistas · https://www.dailymotion.com/video/x98ejmg
 - ►葬送のフリーレン // 一流魔術師の座を巡る熾烈な争い // Sousou no Frieren ►葬送のフリーレン //… · 8:16 · Adventure Magic · 157 vistas · https://www.dailymotion.com/video/x9mc6x6
-- Speed4x 葬送のフリーレン 第2期 1 10話 Sousou no Frieren Season 2 episode 1-10 · 8:47 · One Piece Kawaii Channel OwO · 136 vistas · https://www.dailymotion.com/video/xa8y5e2
+- Speed4x 葬送のフリーレン 第2期 1 10話 Sousou no Frieren Season 2 episode 1-10 · 8:47 · One Piece Kawaii Channel OwO · 137 vistas · https://www.dailymotion.com/video/xa8y5e2
 - Sousou no Frieren Animator Worked on H3ntai? Popular Cosplayer Revealed as a Man! · 9:46 · The Best Anime Here · 135 vistas · https://www.dailymotion.com/video/x9c3au6
 **«Sousou no Frieren trailer»**
 - Frieren & Fern vs Qual | Frieren: Beyond Journey's End: Sousou no Frieren · 3:26 · Anime Brawl Collection · 1300 vistas · https://www.dailymotion.com/video/x8qbrgb
-- ►葬送のフリーレン // フリーレンの力に果敢に挑戦したアウラの痛ましい結末// Sousou no Frieren · 7:16 · Adventure Magic · 250 vistas · https://www.dailymotion.com/video/x9meffc
+- ►葬送のフリーレン // フリーレンの力に果敢に挑戦したアウラの痛ましい結末// Sousou no Frieren · 7:16 · Adventure Magic · 251 vistas · https://www.dailymotion.com/video/x9meffc
 - Hentai for Sousou no Frieren?, Netflix Vows to Fix the Anime Industry · 7:40 · The Best Anime Here · 208 vistas · https://www.dailymotion.com/video/x98ejmg
 - ►葬送のフリーレン // 一流魔術師の座を巡る熾烈な争い // Sousou no Frieren ►葬送のフリーレン //… · 8:16 · Adventure Magic · 157 vistas · https://www.dailymotion.com/video/x9mc6x6
-- Speed4x 葬送のフリーレン 第2期 1 10話 Sousou no Frieren Season 2 episode 1-10 · 8:47 · One Piece Kawaii Channel OwO · 136 vistas · https://www.dailymotion.com/video/xa8y5e2
+- Speed4x 葬送のフリーレン 第2期 1 10話 Sousou no Frieren Season 2 episode 1-10 · 8:47 · One Piece Kawaii Channel OwO · 137 vistas · https://www.dailymotion.com/video/xa8y5e2
 - Sousou no Frieren Animator Worked on H3ntai? Popular Cosplayer Revealed as a Man! · 9:46 · The Best Anime Here · 135 vistas · https://www.dailymotion.com/video/x9c3au6
 **«Frieren: paisajes y memoria escena»**
 
