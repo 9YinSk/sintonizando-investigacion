@@ -1,0 +1,281 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/2/27/Rise-of-the-Tomb-Raider.jpg",
+    "fuente": "Fandom (tombraider.fandom.com, imagen más grande de la wiki de Lara Croft)",
+    "ancho": 9000,
+    "alto": 5762,
+    "que_es": "Key art oficial de Rise of the Tomb Raider: Lara escalando con pico de hielo, nieve y luz fría",
+    "para_que": "Arte oficial variado (punto 1); pose viva en acción para lámina o key visual",
+    "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/4/44/TR1_Classic_Outfit.jpg",
+    "fuente": "Fandom",
+    "ancho": 4000,
+    "alto": 3000,
+    "que_es": "Render de portada de Tomb Raider (1996): pose de disparo, mint tank top y shorts marrón, traje icónico",
+    "para_que": "Vestuario clásico con hex medidos (punto 15); mirada en hojas/vestuario_02.jpg nº1",
+    "licencia": "© Core Design / Eidos, uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/f/f0/Many_Changes_of_Lara_Croft_2.jpg",
+    "fuente": "Fandom",
+    "ancho": 4875,
+    "alto": 1300,
+    "que_es": "Collage oficial/semioficial con todas las épocas visuales de Lara Croft lado a lado",
+    "para_que": "Arte oficial variado (punto 1); explicar de un vistazo el cambio de estilo gráfico",
+    "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/5/5a/20_Years_of_Croft.jpg",
+    "fuente": "Fandom",
+    "ancho": 1600,
+    "alto": 904,
+    "que_es": "Collage oficial de aniversario: Lara en grupo mostrando 20 años de evolución",
+    "para_que": "Arte oficial variado (punto 1), pose en grupo",
+    "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/8/8b/Gol1.jpg",
+    "fuente": "Fandom",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Arte oficial de Lara Croft and the Guardian of Light, acción entre ruinas con arco tensado",
+    "para_que": "Arte oficial variado (punto 1), pose viva de acción/exploración",
+    "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/6/6b/ROTTR_Desert_Tank.png",
+    "fuente": "Fandom (imagen = Gear Up Guide oficial de tombraider.com)",
+    "ancho": 3300,
+    "alto": 2550,
+    "que_es": "Hoja oficial 'Gear Up Guide: Desert Tank Top' de Rise of the Tomb Raider, con cita del director de arte Brenoch Adams",
+    "para_que": "Vestuario con material exacto citado (punto 15); mirada en hojas/vestuario_02.jpg nº4",
+    "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/e/ed/SOTTR_Tank_Top.png",
+    "fuente": "Fandom (imagen = Gear Guide oficial de tombraider.com)",
+    "ancho": 2070,
+    "alto": 1080,
+    "que_es": "Hoja oficial 'Shadow of the Tomb Raider: Gear Guide', outfit por defecto en 6 poses",
+    "para_que": "Vestuario con hex medidos y material citado (punto 15); mirada en hojas/vestuario_02.jpg nº5",
+    "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/4/41/TR_L_Legend_Outfit.jpg",
+    "fuente": "Fandom",
+    "ancho": 310,
+    "alto": 579,
+    "que_es": "Render in-game del outfit principal de Tomb Raider: Legend",
+    "para_que": "Vestuario Legend con hex medidos (punto 15); mirada en hojas/vestuario_02.jpg nº2",
+    "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/d/df/Lara_Yamatai_Aftermath.PNG",
+    "fuente": "Fandom",
+    "ancho": 491,
+    "alto": 720,
+    "que_es": "Render del outfit estándar del reboot 2013 (Survivor Timeline)",
+    "para_que": "Vestuario reboot con hex medidos (punto 15); mirada en hojas/vestuario_02.jpg nº3",
+    "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/7/72/Croft_Family_Crest.png",
+    "fuente": "Fandom",
+    "ancho": 747,
+    "alto": 747,
+    "que_es": "Escudo de armas de la familia Croft, coleccionable de Rise of the Tomb Raider: Blood Ties",
+    "para_que": "Símbolo/emblema medido con hex (punto 19); objeto real tallable en Blender",
+    "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/laracroft/images/1/1d/Trinity_Badge.png",
+    "fuente": "Fandom",
+    "ancho": 1019,
+    "alto": 1019,
+    "que_es": "Foto in-game (polaroid) del parche triangular de la organización Trinity sobre un cadáver",
+    "para_que": "Símbolo del antagonista (punto 19), color declarado como ⚠️ por escena oscura",
+    "licencia": "© Square Enix / Crystal Dynamics, uso de referencia no comercial"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_749f99146e5ebad371e37d95bfab7b17847c1d81.1920x1080.jpg",
+    "fuente": "Steam API appdetails (appid 391220, Rise of the Tomb Raider)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: templo de la selva cubierto de vegetación, Lara saltando entre ruinas",
+    "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº1",
+    "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_2b612bfa62d920b061e900e1f7a975a2de6729ec.1920x1080.jpg",
+    "fuente": "Steam API appdetails (appid 391220, Rise of the Tomb Raider)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: arco de piedra nevado, ruina excavada en la nieve",
+    "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº2",
+    "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_c61955cad6c9ec672f6a2f4a192b234a6f752d10.1920x1080.jpg",
+    "fuente": "Steam API appdetails (appid 391220, Rise of the Tomb Raider)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: cueva con haz de luz vertical",
+    "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº6",
+    "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_3fcd62a2831bcc1e557a0fe2a061b6369ba030d1.1920x1080.jpg",
+    "fuente": "Steam API appdetails (appid 750920, Shadow of the Tomb Raider)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: templo maya de Paititi con farolillos de colores y multitud en fiesta",
+    "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº3",
+    "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/ss_a98e6f581b293d80e722a143a038c22bb11e1a0d.1920x1080.jpg",
+    "fuente": "Steam API appdetails (appid 750920, Shadow of the Tomb Raider)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: aldea entre árboles con pirámide de fondo",
+    "para_que": "Fondos de pantalla y paisajes de ruinas con paleta medida (punto 16); hojas/fondos_03.jpg nº4",
+    "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_c93f9a97f2fd890f21c829cf8781850484eec7f3.1920x1080.jpg",
+    "fuente": "Steam API appdetails (appid 203160, Tomb Raider 2013 GOTY)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: puente colgante entre ruinas con niebla y sol rasante",
+    "para_que": "Mejor fondo de pantalla 'postal' de exploración, paleta medida (punto 16); hojas/fondos_03.jpg nº5",
+    "licencia": "© Square Enix / Crystal Dynamics, material de prensa oficial de Steam"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/k9/wallhaven-k9p181.jpg",
+    "fuente": "Wallhaven (API, ya en datos-imagen.md)",
+    "ancho": 4500,
+    "alto": 3971,
+    "que_es": "Fondo de pantalla de fans: arte de Shadow of the Tomb Raider, selva con eclipse, 96 favoritos",
+    "para_que": "Fondos de pantalla de fans en alta resolución (punto 16)",
+    "licencia": "Fan-made, licencia no explícita en Wallhaven (uso personal, no comercial)"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/72/wallhaven-72pgov.jpg",
+    "fuente": "Wallhaven (API, ya en datos-imagen.md)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla más guardado (268 favoritos), arte 3D de Rise of the Tomb Raider vía Nexus Mods",
+    "para_que": "Fondos de pantalla de fans en alta resolución (punto 16)",
+    "licencia": "Fan-made, licencia no explícita en Wallhaven (uso personal, no comercial)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-3da7952b31484ea88a6c8edd371b40ad",
+    "fuente": "Sketchfab API v3 (ya en datos-imagen.md)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D 'Tomb Raider Laracroft' por ItsKrish7, 481 me gusta",
+    "para_que": "Fan art / 3D con licencia libre (punto 3), referencia de pose y proporciones en Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-ec0a62ef13c04448891744baa7f215eb",
+    "fuente": "Sketchfab API v3 (ya en datos-imagen.md)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D 'Home of Adventure' por PippyJ, 260 me gusta: un sitio de la serie, no sólo el personaje",
+    "para_que": "Fan art / 3D con licencia libre de un sitio (punto 3), útil para maquetar en Blender",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-tmWTkx4Plhd8czuMmZMoIbu7qNn",
+    "fuente": "Sketchfab API v3 (ya en datos-imagen.md)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D 'Ice Axe (DMM Rebel)' por Yogensia, 237 me gusta: el piolet icónico de Rise/Shadow",
+    "para_que": "Fan art / 3D con licencia libre de un objeto icónico (punto 3)",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike"
+  },
+  {
+    "url": "https://live.staticflickr.com/5318/14230572907_d81b27f9d5_b.jpg",
+    "fuente": "Openverse / Flickr (ya en datos-imagen.md)",
+    "ancho": 683,
+    "alto": 1024,
+    "que_es": "Foto de cosplay de Lara Croft Reboot por 'Kanracakes' en JAFAX 2013",
+    "para_que": "Cosplay bien hecho como referencia (punto 3 y 23)",
+    "licencia": "CC BY-NC-ND 2.0 (WhiteDesertSun/Flickr)"
+  },
+  {
+    "url": "https://polyhaven.com/a/colosseum",
+    "fuente": "Poly Haven API",
+    "ancho": 8192,
+    "alto": 4096,
+    "que_es": "HDRI 'Colosseum': ruinas de piedra reales bajo luz de mañana/tarde de alto contraste",
+    "para_que": "Sitio/luz real equivalente a las ruinas de la serie (puntos 3 y 16), CC0",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/a/blue_grotto",
+    "fuente": "Poly Haven API",
+    "ancho": 8192,
+    "alto": 4096,
+    "que_es": "HDRI 'Blue Grotto': cueva real con cascada, roca y vegetación",
+    "para_que": "Sitio/luz real equivalente a las cuevas de la serie (puntos 3 y 16), CC0",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Rock064",
+    "fuente": "ambientCG API v2",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura CC0 de roca con musgo",
+    "para_que": "Textura real equivalente a las ruinas cubiertas de vegetación (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=PavingStones151",
+    "fuente": "ambientCG API v2",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura CC0 de adoquín/piedra de cantera",
+    "para_que": "Textura real equivalente a la piedra tallada de las ruinas (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Ground068",
+    "fuente": "ambientCG API v2",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura CC0 de tierra/musgo de suelo de selva",
+    "para_que": "Textura real equivalente al suelo de las ruinas en la selva (punto 19)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://safebooru.org/images/1392/a1d0dd3c548f21ceea193f1ccc6dbd9547a1123a.jpg",
+    "fuente": "Safebooru (ya en datos-imagen.md)",
+    "ancho": 3500,
+    "alto": 2000,
+    "que_es": "Fan art de Lara Croft mejor puntuado en Safebooru, origen DeviantArt (kokecit)",
+    "para_que": "Fan art como referencia, nunca para pegar (punto 3)",
+    "licencia": "Fan art, no libre; sólo referencia con crédito de origen"
+  },
+  {
+    "url": "https://www.tombraider.com/news/cosplay",
+    "fuente": "tombraider.com (sección oficial de noticias)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Listado oficial de 'Cosplay Guides' y 'Gear Up Guides' de Crystal Dynamics, un artículo por outfit",
+    "para_que": "Fuente de materiales exactos de vestuario (punto 15) y apoyo oficial al cosplay (punto 23)",
+    "licencia": "© Crystal Dynamics group of companies, página informativa pública"
+  },
+  {
+    "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_Crossovers",
+    "fuente": "Fandom (tombraider.fandom.com)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página wiki con más de 20 colaboraciones oficiales de Tomb Raider, cada una con fuente primaria citada",
+    "para_que": "Colaboraciones y cruces (punto 23)",
+    "licencia": "Texto de la wiki (CC BY-SA), no es una imagen"
+  }
+]

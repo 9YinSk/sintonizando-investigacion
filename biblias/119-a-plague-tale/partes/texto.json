@@ -1,0 +1,200 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x76ok0c?t=248",
+    "fuente": "Dailymotion — A PLAGUE TALE INNOCENCE Gameplay Trailer (Focus/Asobo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 4:08 — rueda radial de creación de munición alquímica (Ignifer) en Innocence, con nombre, descripción, coste y 'HOLD X TO CRAFT'",
+    "para_que": "Referencia exacta de interfaz/cuadro de diálogo propio del juego (puntos 6 y 11)",
+    "licencia": "Tráiler oficial de Focus Entertainment/Asobo Studio; uso como referencia de estudio, no para redistribuir el vídeo"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x76ok0c?t=120",
+    "fuente": "Dailymotion — A PLAGUE TALE INNOCENCE Gameplay Trailer",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 2:00 — rueda de munición cruda de la honda (piedra, bote, dardo de sueño) con nombre y descripción cortada",
+    "para_que": "Referencia de interfaz radial (puntos 6 y 11)",
+    "licencia": "Tráiler oficial de Focus Entertainment/Asobo Studio; uso como referencia de estudio"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x76ok0c?t=184",
+    "fuente": "Dailymotion — A PLAGUE TALE INNOCENCE Gameplay Trailer",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 3:04 — notificación de recogida de objeto: rombo + texto '+2 Salpeter (4/12)'",
+    "para_que": "Referencia de tipografía y forma de las notificaciones de recogida (puntos 5, 6, 11)",
+    "licencia": "Tráiler oficial de Focus Entertainment/Asobo Studio; uso como referencia de estudio"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8d3rrf?t=200",
+    "fuente": "Dailymotion — A Plague Tale: Requiem - Gameplay Tráiler (Focus/Asobo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 3:20 — panel de Mejora (Upgrade) de Requiem: categorías Sling/Alchemy/Gear/Instruments, descripción del objeto, coste, botón de mejora",
+    "para_que": "Referencia principal de interfaz para la lámina (objeto tipo cuaderno/panel, puntos 6 y 11)",
+    "licencia": "Tráiler oficial de Focus Entertainment/Asobo Studio; uso como referencia de estudio"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8d3rrf?t=48",
+    "fuente": "Dailymotion — A Plague Tale: Requiem - Gameplay Tráiler",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma 0:48 — logo 'A Plague Tale: Requiem' completo, con la G sustituida por un trazo curvo y el dorado #BEBB80 medido en REQUIEM",
+    "para_que": "Referencia de tipografía del logo (punto 5)",
+    "licencia": "Tráiler oficial de Focus Entertainment/Asobo Studio; uso como referencia de estudio"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/cinzel@latest/latin-400-normal.ttf",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente Cinzel (subset latin) — cabeceras de menú de Innocence y fuente de titulares del sitio oficial de Focus Entertainment; comprobada con fontTools: trae tildes, ñ, ¿ y ¡",
+    "para_que": "Letra libre para títulos/cabeceras de la lámina (punto 5)",
+    "licencia": "SIL Open Font License (gratuita)"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/belleza@latest/latin-400-normal.ttf",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente Belleza (subset latin) — subtítulos de A Plague Tale: Innocence según la comunidad de Steam; comprobada con fontTools: trae tildes, ñ, ¿ y ¡",
+    "para_que": "Letra libre para subtítulos/cuerpo de texto de la lámina (punto 5)",
+    "licencia": "SIL Open Font License (gratuita)"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/sura@latest/latin-400-normal.ttf",
+    "fuente": "Fontsource / Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Fuente Sura (subset latin) — texto de menú de Innocence; comprobada con fontTools: le faltan mayúsculas acentuadas y la Ñ",
+    "para_que": "Letra libre para menús, con aviso de qué le falta en español (punto 5)",
+    "licencia": "SIL Open Font License (gratuita); usar con cuidado en mayúsculas acentuadas"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/alicia-de-rune-9fc2ea8894be4f23862d36ff400870ef",
+    "fuente": "Sketchfab (autor: avishka0977)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de Amicia de Rune hecho por fan, 93 877 caras",
+    "para_que": "Referencia/base 3D libre para Blender (punto 18)",
+    "licencia": "CC Attribution (CC-BY 4.0) — citar autoría, permite uso comercial y modificación"
+  },
+  {
+    "url": "https://blog.playstation.com/archive/2019/05/09/how-a-plague-tale-innocences-horrifying-rat-swarm-was-created/",
+    "fuente": "PlayStation.Blog (Aurélie Belzanne, con declaraciones de Kevin Choteau y Sebastien Renard, Asobo Studio)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo oficial sobre la técnica de renderizado de ratas en Innocence: 4 niveles de detalle, 5000+5000 ratas, multihilo",
+    "para_que": "Fuente técnica principal del punto 18 (cómo se animan miles de ratas)",
+    "licencia": "Artículo de prensa oficial de Sony/PlayStation, uso como fuente de texto, no de imagen"
+  },
+  {
+    "url": "https://blog.playstation.com/2022/09/28/the-ps5-features-bringing-a-plague-tale-requiem-to-life/",
+    "fuente": "PlayStation.Blog (Nicolas Bécavin y Cyril Doillon, Asobo Studio)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo oficial sobre las mejoras técnicas de Requiem en PS5: cientos de miles de ratas, iluminación",
+    "para_que": "Fuente técnica del punto 18 para Requiem",
+    "licencia": "Artículo de prensa oficial de Sony/PlayStation"
+  },
+  {
+    "url": "https://news.xbox.com/en-us/2022/09/28/powering-the-astounding-journey-of-a-plague-tale-requiem-with-xbox-series-x-s/",
+    "fuente": "Xbox Wire (Ludivine Guerin, Asobo Studio)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo oficial sobre motion capture completo en Requiem frente a body capture de Innocence",
+    "para_que": "Fuente técnica del punto 18 (captura de movimiento)",
+    "licencia": "Artículo de prensa oficial de Microsoft/Xbox"
+  },
+  {
+    "url": "https://www.focus-entmt.com/build/assets/a-plague-tale-requiem-CsR6mPy5.css",
+    "fuente": "Focus Entertainment (CSS real del sitio oficial de A Plague Tale: Requiem)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Hoja de estilos con las declaraciones @font-face y font-family reales: Myriad Pro (cuerpo) y Cinzel (titulares)",
+    "para_que": "Prueba directa (no de memoria) de la tipografía oficial del sitio (punto 5)",
+    "licencia": "Recurso técnico público del sitio oficial, sólo como fuente de dato tipográfico"
+  },
+  {
+    "url": "https://aplaguetale.fandom.com/wiki/Zouna",
+    "fuente": "A Plague Tale Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo sobre el motor propio Zouna: historia desde Kalisto Entertainment/TotemTech hasta hoy, con referencias a Hacker News y GitHub",
+    "para_que": "Fuente principal del punto 18 (motor propio)",
+    "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom), sólo texto"
+  },
+  {
+    "url": "https://aplaguetale.fandom.com/wiki/Prima_Macula",
+    "fuente": "A Plague Tale Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo sobre la Prima Macula (la maldición/enfermedad central del mundo)",
+    "para_que": "Fuente principal del punto 25 (reglas del mundo)",
+    "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom), sólo texto"
+  },
+  {
+    "url": "https://aplaguetale.fandom.com/wiki/Timeline",
+    "fuente": "A Plague Tale Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Cronología completa de la franquicia, 549 d.C. a un futuro sin fechar",
+    "para_que": "Fuente principal del punto 25 (historia por arcos)",
+    "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom), sólo texto"
+  },
+  {
+    "url": "https://aplaguetale.fandom.com/wiki/Inquisition",
+    "fuente": "A Plague Tale Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Artículo sobre la Inquisición: blasón (cruz patriarcal), lema 'Ad Ignem. Ad Lucem.', jerarquía",
+    "para_que": "Fuente principal del punto 25 (símbolos y facciones)",
+    "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom), sólo texto"
+  },
+  {
+    "url": "https://www.u-bordeaux-montaigne.fr/fr/actualites/culture/annee-2022-2023-2/recherche-et-jeu-video-roxane-chila-consultante-pour-le-jeu-a-plague-tale-requiem.html",
+    "fuente": "Université Bordeaux Montaigne (en francés)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Nota de la universidad sobre la Dra. Roxane Chilà como consultora histórica de Requiem y Resonance",
+    "para_que": "Fuente oficial en francés del punto 25 (ambientación histórica real)",
+    "licencia": "Comunicado universitario público, sólo como fuente de texto"
+  },
+  {
+    "url": "https://fandomwire.com/a-plague-tale-requiem-developers-discuss-plans/",
+    "fuente": "FandomWire (entrevista a desarrolladores de Asobo Studio)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Cita literal de los desarrolladores sobre sus influencias: The Last of Us, Ico, Brothers, Journey",
+    "para_que": "Fuente principal del punto 24 (obras parecidas)",
+    "licencia": "Artículo de prensa, sólo como fuente de texto"
+  },
+  {
+    "url": "https://aplaguetale.fandom.com/wiki/Resonance:_A_Plague_Tale_Legacy",
+    "fuente": "A Plague Tale Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del spin-off Resonance: A Plague Tale Legacy (27-ago-2026), precuela centrada en Sophia",
+    "para_que": "Fuente del punto 25 (franquicia completa) y 24 (obra hermana más parecida)",
+    "licencia": "Contenido de wiki de fans (CC BY-SA vía Fandom), sólo texto"
+  },
+  {
+    "url": "https://store.steampowered.com/api/appdetails?appids=967380",
+    "fuente": "Steam (API oficial de tienda)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Descripción oficial del DLC 'Coats of Arms': trajes alternativos con escudo para Amicia y Hugo",
+    "para_que": "Aclarar que el escudo de los de Rune es cosmético de tienda, no lore confirmado (punto 25)",
+    "licencia": "Datos públicos de la API de Steam, sólo texto"
+  },
+  {
+    "url": "https://steamcommunity.com/app/752590/discussions/0/1643166649097676257/",
+    "fuente": "Steam Community (hilo de discusión, con crédito a admins de la wiki)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Identificación de fuentes de Innocence: Belleza (subtítulos), Cinzel (cabeceras), Sura (menú)",
+    "para_que": "Fuente del punto 5 (tipografía en juego)",
+    "licencia": "Foro público, sólo como fuente de texto"
+  }
+]

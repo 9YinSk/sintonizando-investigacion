@@ -1,10 +1,10 @@
 # Datos para el investigador de IMAGEN (puntos 1, 3, 15, 16, 19, 23) · Rick and Morty
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · fans_booru: HTTP Error 500: Internal Server Error
 
 ## Rick Sanchez: las imágenes más grandes de la wiki (13 en total)
 _Fuente: https://rickandmorty.fandom.com/wiki/Rick_Sanchez_
@@ -83,6 +83,15 @@ _Fuente: https://rickandmorty.fandom.com/wiki/Pickle_Rick_%28episode%29_
 - 1920×1080 · S3e3 who would do this.png · https://static.wikia.nocookie.net/rickandmorty/images/3/30/S3e3_who_would_do_this.png
 - 1920×1080 · S3e3 who are these people.png · https://static.wikia.nocookie.net/rickandmorty/images/d/d0/S3e3_who_are_these_people.png
 
+## Hojas de contacto (investigar_serie.py)
+_Fuente: herramientas/referencias/_
+
+```
+· imágenes de rickandmorty.fandom.com (5 páginas y sus galerías)…
+  248 imágenes enlazadas, 220 grandes → 5 hojas en /home/user/sintonizando-investigacion/herramientas/referencias/rick-and-morty
+
+```
+
 ## Rasgos que más se repiten al dibujar a cada personaje solo (Danbooru; vocabulario de las IA de imagen)
 _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
 
@@ -90,68 +99,6 @@ _Fuente: https://danbooru.donmai.us/related_tag?query=<personaje>_
 - **morty_smith**: brown_hair, short_hair, holding, male_focus, shirt, genderswap, genderswap_(mtf), animification, smile, blush, closed_eyes, shorts, pillow, eyepatch, long_hair, looking_at_viewer, simple_background, green_eyes, white_hair, heart, collared_shirt, necktie, medium_hair, artist_name, tongue, signature, tongue_out, midriff
 - **summer_smith**: artist_name, fishnets, looking_at_viewer, blush, brown_hair, ponytail, border, white_border, outside_border, long_hair, open_mouth, shirt, simple_background, blue_eyes, bare_shoulders, cowboy_shot, pantyhose, looking_back, orange_hair, from_behind, fingernails, uncensored, anus, red_shirt, long_fingernails, thong, pink_lips, ass_focus
 - **pickle_rick**: blush, open_mouth, white_background, meme, pickle, long_hair, simple_background, blue_eyes, holding, blonde_hair, hair_ornament, hat, twintails, blue_hair, food, two_side_up, crossover, hair_bobbles, east-west_crossover, looking_at_viewer, smile, shirt, long_sleeves, skirt, closed_mouth, gloves, bow, jewelry
-- **hatsune_miku**: long_hair, twintails, very_long_hair, aqua_hair, looking_at_viewer, skirt, aqua_eyes, necktie, detached_sleeves, smile, shirt, open_mouth, hair_ornament, hair_between_eyes, blue_eyes, blue_hair, blush, sleeveless, simple_background, bare_shoulders, white_background, sleeveless_shirt, black_skirt, long_sleeves, pleated_skirt, holding, collared_shirt, full_body
-- **pikachu**: pokemon_(creature), no_humans, smile, simple_background, open_mouth, full_body, looking_at_viewer, white_background, pokemon_focus, closed_mouth, tail, holding, :3, standing, blush, long_hair, brown_eyes, cosplay, hat, sitting, animal_ears, blush_stickers, clothed_pokemon, animal_focus, shirt, blonde_hair, artist_name, closed_eyes
-- **souryuu_asuka_langley**: long_hair, blue_eyes, mecha_pilot_suit, plugsuit_(evangelion), bodysuit, looking_at_viewer, orange_hair, red_bodysuit, interface_headset_(evangelion), simple_background, brown_hair, hair_between_eyes, two_side_up, eyepatch, closed_mouth, hair_ornament, white_background, smile, blush, standing, gloves, cowboy_shot, headgear, full_body, open_mouth, sitting, turtleneck, skin_tight
-- **kirby**: no_humans, blush_stickers, blue_eyes, open_mouth, smile, looking_at_viewer, simple_background, star_(symbol), holding, blush, white_background, full_body, food, hat, closed_mouth, copy_ability, long_hair, sitting, shoes, shirt, outdoors, short_hair, closed_eyes, sky, :d, bow, :o, long_sleeves
-- **ayanami_rei**: blue_hair, red_eyes, short_hair, mecha_pilot_suit, plugsuit_(evangelion), bodysuit, looking_at_viewer, white_bodysuit, interface_headset_(evangelion), hair_between_eyes, simple_background, school_uniform, white_background, closed_mouth, tokyo-3_middle_school_uniform, blush, standing, shirt, sitting, full_body, parted_lips, expressionless, cowboy_shot, upper_body, ribbon, gloves, long_hair, holding
-- **paimon_(genshin_impact)**: white_hair, halo, hair_ornament, looking_at_viewer, long_sleeves, hair_between_eyes, open_mouth, smile, blush, blue_eyes, romper, white_romper, dress, simple_background, white_background, scarf, white_dress, short_hair, long_hair, holding, full_body, boots, :d, cape, food, medium_hair, bright_pupils, closed_mouth
-
-## Fan art mejor valorado por personaje (Safebooru; enlace, tamaño y autor/origen)
-_Fuente: https://safebooru.org_
-
-**rick_sanchez**
-- 1152×648 · puntos 4 · https://safebooru.org/images/4344/3809f8dbcf1f95867339b95cae034f2f6543e6ae.png · autor/origen: https://i.pximg.net/img-original/img/2023/06/10/02/33/20/108875659_p1.png
-- 3500×1373 · puntos 4 · https://safebooru.org/images/4150/c336888777f6ea5dbfc2e24f3fb5e9eca7099b91.jpg · autor/origen: file://IMG_5388.jpeg
-- 320×1840 · puntos 3 · https://safebooru.org/images/1883/7efe634e43ab7535644bd0cdbcd0e9a1285ba2d7.gif · autor/origen: sin origen
-- 853×900 · puntos 2 · https://safebooru.org/images/1509/b3ea3df658e76d1c092ba8f681920f831bfc0061.png · autor/origen: http://gashi45.tumblr.com/post/129086445585
-- 1200×1199 · puntos 2 · https://safebooru.org/images/4619/694edb1ead86b804170ae873b7dee5e9b52af68d.png · autor/origen: https://i.pximg.net/img-original/img/2021/12/29/20/48/42/95114921_p1.png
-- 2500×2123 · puntos 2 · https://safebooru.org/images/290/ee1b6fad348de272b5b59ec391061268.png · autor/origen: https://x.com/NoctisEcztasy?t=p5qvL_PJ4K3jo0TS_rXf5A&amp;s=09
-**morty_smith**
-- 1200×1199 · puntos 2 · https://safebooru.org/images/4619/694edb1ead86b804170ae873b7dee5e9b52af68d.png · autor/origen: https://i.pximg.net/img-original/img/2021/12/29/20/48/42/95114921_p1.png
-- 1668×932 · puntos 2 · https://safebooru.org/images/3981/4514ec0bad8878a7c621cc4fbc383ce63bc041d4.jpg · autor/origen: https://i.pximg.net/img-original/img/2022/07/13/23/51/33/99705675_p62.jpg
-- 2388×1668 · puntos 2 · https://safebooru.org/images/3991/eba67fa36d05bfbc0b0a6cbaec0b8185b3359d9f.jpg · autor/origen: https://i.pximg.net/img-original/img/2021/10/16/23/57/37/93490787_p0.jpg
-- 1000×956 · puntos 1 · https://safebooru.org/images/2280/b98c997e3a4fee5fbe371ca53cf20bc77170cafc.png · autor/origen: sin origen
-- 1080×1080 · puntos 1 · https://safebooru.org/images/2198/7a593d25cfec649541e1ed66db1ef7844d34edd1.jpg · autor/origen: http://kuvshinov-ilya.tumblr.com/post/163677610695/rick-and-morty-sketch
-- 900×680 · puntos 1 · https://safebooru.org/images/1952/49b76101dba844412e28610113ff0a47dfa07795.jpg · autor/origen: http://i2.pixiv.net/img-original/img/2016/04/30/03/02/15/56604821_p15.jpg
-**summer_smith**
-- 1521×2048 · puntos 1 · https://safebooru.org/images/1099/b067dc680e49c3f2414b8ef112a1f83a4da98224.jpg · autor/origen: https://x.com/Xianyu_Sirmu/status/1970074486985921000
-- 712×1500 · puntos 0 · https://safebooru.org/images/3985/cfcaf3b2b68fb5e47b9015c7235716dea056b832.png · autor/origen: https://i.pximg.net/img-original/img/2018/03/26/05/31/11/67920671_p2.png
-**pickle_rick**
-- 4228×2560 · puntos 3 · https://safebooru.org/images/67/335fd21f1dfeef77ec22fb2b54bb2378.png · autor/origen: https://x.com/GrayNerdArt/status/2068820314780217768?s=20
-- 4096×3413 · puntos 2 · https://safebooru.org/images/581/4c9e34d6c58defbfe3a0625f76ca2263dd721391.jpg · autor/origen: https://x.com/ColorFairie/status/1620559729872494592
-- 3416×4096 · puntos 1 · https://safebooru.org/images/3762/520150d3e012fd90d31a10ed14b92e636c129989.jpg · autor/origen: https://twitter.com/04119__snail/status/1508474858493014022
-- 1140×1140 · puntos 1 · https://safebooru.org/images/1053/69644c2a220f61baa95fd80569b39fe37963b501.jpg · autor/origen: https://twitter.com/shibedraws/status/1973796602759557555
-- 600×700 · puntos 0 · https://safebooru.org/images/3599/45913d23841fcaca7fc0847e45bd410812d80501.png · autor/origen: https://seiga.nicovideo.jp/seiga/im7747941
-- 1504×944 · puntos None · https://safebooru.org/images/3124/ee87110ff82207dce1e61fea013714bc28b38fef.jpg · autor/origen: https://x.com/Gonghead_6271/status/2038601197398143222
-**hatsune_miku**
-- 1000×1395 · puntos 40 · https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg · autor/origen: http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg
-- 1536×2048 · puntos 37 · https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg · autor/origen: https://x.com/siro_itigo_o/status/1805557196505465262
-- 1280×960 · puntos 36 · https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg · autor/origen: sin origen
-- 1440×960 · puntos 21 · https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg · autor/origen: sin origen
-- 516×3642 · puntos 21 · https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg · autor/origen: http://img03.pixiv.net/img/matilda/990992.jpg
-- 1200×800 · puntos 21 · https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg · autor/origen: http://img11.pixiv.net/img/nekogamisama/1837016.jpg
-**pikachu**
-- 1024×768 · puntos 20 · https://safebooru.org/images/51/5abd0210bc6ce4e62194dbf5384778c041aa8362.jpg · autor/origen: sin origen
-- 2027×2012 · puntos 18 · https://safebooru.org/images/788/54325ea39f0baa982f77de2fcce49be9f2c6f171.jpg · autor/origen: http://img24.pixiv.net/img/pix-cocobank-loco/25473865.jpg
-- 2520×2520 · puntos 16 · https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png · autor/origen: https://twitter.com/totototo0507/status/1807802641482985883
-- 2000×1399 · puntos 15 · https://safebooru.org/images/20/1f00a70194c6a61b7598f4a0be8d4d083100e608.jpg · autor/origen: http://img05.pixiv.net/img/hanokage/3732379.jpg
-- 1600×1223 · puntos 14 · https://safebooru.org/images/768/e40bdc175fe98f678580f5fe88d377b7bfdabdaa.jpg · autor/origen: http://img20.pixiv.net/img/yuinopartyyou127/25063229.jpg
-- 1024×768 · puntos 13 · https://safebooru.org/images/993/f3c6da6cbe41f861479e78bd78862e2e365bd91e.png · autor/origen: http://i1.pixiv.net/img35/img/empty_p/34324859.png
-**souryuu_asuka_langley**
-- 1500×964 · puntos 64498 · https://safebooru.org/images/10/0d7694c3db6efb74039fb3308cb2b481799459e0.jpg · autor/origen: http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;amp;illust_id=6077838
-- 1521×1698 · puntos 16 · https://safebooru.org/images/482/de7f1c1aabffeb630660d7139acf6d3afab431b6.jpg · autor/origen: http://img53.pixiv.net/img/entryfile/13293546.jpg
-- 1000×1333 · puntos 14 · https://safebooru.org/images/1/bc784ee95613c9982948bd70821f6fc774a64031.jpg · autor/origen: sin origen
-- 5839×7563 · puntos 13 · https://safebooru.org/images/1/b07dec8d1a676c4dee08fd24c7b0deef3883d3c9.jpg · autor/origen: sin origen
-- 3000×2700 · puntos 11 · https://safebooru.org/images/4619/eb8d7b559fcd8aa5df33b07f51f20282e4afd16a.jpg · autor/origen: https://twitter.com/khyleri/status/1825570340333883886
-- 396×650 · puntos 10 · https://safebooru.org/images/542/82d9479839e2a0710368672d371e150830da0ada.jpg · autor/origen: http://twitpic.com/3psi4p/full
-**kirby**
-- 2048×1859 · puntos 21 · https://safebooru.org/images/4610/46cb694f296c2813324a66b8d0105377bd4dbdbd.jpg · autor/origen: https://twitter.com/KirbyEarthbound/status/1856058394563825692
-- 1920×1366 · puntos 21 · https://safebooru.org/images/3047/c3e4ddb8c5804f0e164843f415fe9317e830f67a.jpg · autor/origen: https://i.pximg.net/img-original/img/2016/10/12/08/34/39/59434534_p0.jpg
-- 2520×2520 · puntos 16 · https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png · autor/origen: https://twitter.com/totototo0507/status/1807802641482985883
-- 2000×1399 · puntos 15 · https://safebooru.org/images/20/1f00a70194c6a61b7598f4a0be8d4d083100e608.jpg · autor/origen: http://img05.pixiv.net/img/hanokage/3732379.jpg
-- 1600×1223 · puntos 14 · https://safebooru.org/images/768/e40bdc175fe98f678580f5fe88d377b7bfdabdaa.jpg · autor/origen: http://img20.pixiv.net/img/yuinopartyyou127/25063229.jpg
-- 1200×960 · puntos 13 · https://safebooru.org/images/266/945a7165ced9a01424323520322346316f7425e0.jpg · autor/origen: http://img12.pixiv.net/img/bonorisu/1642048.jpg
 
 ## Fondos de pantalla más guardados (Wallhaven, sólo aptos, 1920×1080 o más)
 _Fuente: https://wallhaven.cc_
@@ -175,7 +122,54 @@ _Fuente: https://wallhaven.cc_
 ## Modelos 3D descargables con licencia (Sketchfab)
 _Fuente: https://sketchfab.com_
 
+**«Rick and Morty»**
+- Rick and Morty Garage (Fan Art) · Mumladze28 · CC Attribution · ♥ 1287 · https://sketchfab.com/3d-models/none-4e882af2241d43bc9870ad7ef13fe539
+- Rick and Morty - Summer Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 405 · https://sketchfab.com/3d-models/none-b5405c6f7cfd492ab57e626d3ab2641c
+- Rick and Morty - Jessica Collection · ASideOfChidori · CC Attribution · ♥ 325 · https://sketchfab.com/3d-models/none-91e419f830434b659a9627021df00305
+- Rick and Morty - Beth Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 288 · https://sketchfab.com/3d-models/none-89c56314bde64875b69246af76f5f780
+- Rick T-Pose · CzernO · CC Attribution · ♥ 222 · https://sketchfab.com/3d-models/none-01ab944194c54b508b1dd96dfe7514d9
+- Portal gun (Rick and Morty) · kreems · CC Attribution · ♥ 119 · https://sketchfab.com/3d-models/none-ac3226c6b9e64142af2065409f0162ee
+**«Rick and Morty Rick»**
+- Rick and Morty Garage (Fan Art) · Mumladze28 · CC Attribution · ♥ 1287 · https://sketchfab.com/3d-models/none-4e882af2241d43bc9870ad7ef13fe539
+- Rick and Morty - Summer Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 405 · https://sketchfab.com/3d-models/none-b5405c6f7cfd492ab57e626d3ab2641c
+- Rick and Morty - Jessica Collection · ASideOfChidori · CC Attribution · ♥ 325 · https://sketchfab.com/3d-models/none-91e419f830434b659a9627021df00305
+- Rick and Morty - Beth Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 288 · https://sketchfab.com/3d-models/none-89c56314bde64875b69246af76f5f780
+- Rick T-Pose · CzernO · CC Attribution · ♥ 222 · https://sketchfab.com/3d-models/none-01ab944194c54b508b1dd96dfe7514d9
+- Portal gun (Rick and Morty) · kreems · CC Attribution · ♥ 119 · https://sketchfab.com/3d-models/none-ac3226c6b9e64142af2065409f0162ee
+**«Rick and Morty Morty»**
+- Rick and Morty Garage (Fan Art) · Mumladze28 · CC Attribution · ♥ 1287 · https://sketchfab.com/3d-models/none-4e882af2241d43bc9870ad7ef13fe539
+- Rick and Morty - Summer Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 405 · https://sketchfab.com/3d-models/none-b5405c6f7cfd492ab57e626d3ab2641c
+- Rick and Morty - Jessica Collection · ASideOfChidori · CC Attribution · ♥ 325 · https://sketchfab.com/3d-models/none-91e419f830434b659a9627021df00305
+- Rick and Morty - Beth Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 288 · https://sketchfab.com/3d-models/none-89c56314bde64875b69246af76f5f780
+- Rick T-Pose · CzernO · CC Attribution · ♥ 222 · https://sketchfab.com/3d-models/none-01ab944194c54b508b1dd96dfe7514d9
+- Portal gun (Rick and Morty) · kreems · CC Attribution · ♥ 119 · https://sketchfab.com/3d-models/none-ac3226c6b9e64142af2065409f0162ee
+**«Rick and Morty Summer»**
+- Rick and Morty - Summer Smith Free Collection · ASideOfChidori · CC Attribution-NonCommercial · ♥ 405 · https://sketchfab.com/3d-models/none-b5405c6f7cfd492ab57e626d3ab2641c
+- Summer Smith 01 Pose · Placidone · CC Attribution · ♥ 46 · https://sketchfab.com/3d-models/none-a5d7833552364af6960835491e24a20a
+- Squanchy · David Glynch · CC Attribution · ♥ 28 · https://sketchfab.com/3d-models/none-32e69d89a7fe4ec188f2052a9a597ea6
+- Summer Smith · sean4297 · CC Attribution · ♥ 22 · https://sketchfab.com/3d-models/none-eabb8f7435614d5c9c180a1dd7eeb19f
+- Summer Rick and Morty · Mr.Vatrushka · CC Attribution · ♥ 0 · https://sketchfab.com/3d-models/none-92ba76fe128f4b89b0e4478532be1570
 
 ## Fotos con licencia libre (Openverse: cosplay, exposiciones, merchandising, murales)
 _Fuente: https://openverse.org_
 
+- 1024×768 · LEGO® Rick and Morty: Rick's Spaceship car WABALABADUPDUP! · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/659/22343854161_9526c15c82_b.jpg
+- 1024×683 · LEGO® Rick and Morty: 'What is my purpose?' · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/3952/15354103210_b5d7f625e5_b.jpg
+- 1024×871 · Custom Lego Rick and Morty · AntMan3001 · CC BY-SA 2.0 · https://live.staticflickr.com/7457/27297929844_d25b81a62c_b.jpg
+- 1024×577 · LEGO® Rick and Morty: Steampunk'd · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/7696/17072580255_d5e1f72f82_b.jpg
+- 1024×710 · LEGO® Rick and Morty: Cthulu (from the opening theme song) · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/7629/16853651967_1516d4b804_b.jpg
+- 1024×683 · Rick and Morty · pasukaru76 · CC CC0 1.0 · https://live.staticflickr.com/4222/34861592711_f59e808a61_b.jpg
+- 1024×768 · LEGO® Rick and Morty: Wabalabadupdup! · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/5594/14992447717_6c0e194e27_b.jpg
+- 1024×576 · Rick and Morty Season 1 DVD Art Contest · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/3946/15498437286_446ee62cb7_b.jpg
+- 1024×710 · LEGO® Rick and Morty: Cthulu (from the opening theme song) · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/8788/16440907633_83b56094fe_b.jpg
+- 1024×496 · LEGO® Rick and Morty: Dan dan dada da dadaa! · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/8687/16232330754_2d6e7148a0_b.jpg
+- 1024×683 · Rick and Morty Exploit the Fans for Art DVD Contest Entry #2 · Umm, Who? · CC PDM 1.0 · https://live.staticflickr.com/3956/15353714487_b17dba0e0f_b.jpg
+- 1024×759 · 20180106 1647 - Rick And Morty legos - Ricks & Meeseeks - 28471676 · Claire CJS · CC BY-NC-SA 2.0 · https://live.staticflickr.com/1850/42526348900_6cbf917958_b.jpg
+- 1024×683 · Wondercon 2016 - Rick and Morty Cosplay · W10002 · CC BY-SA 2.0 · https://live.staticflickr.com/1457/25988428002_52e77bfd60_b.jpg
+- 500×500 · Rick and Morty / 100 yrs / dot com · ▓▒░ TORLEY ░▒▓ · CC BY-SA 2.0 · https://live.staticflickr.com/7194/13989730662_610dc75491.jpg
+- 768×1024 · Rick and Morty BrickHeadz · LegoSamBo · CC BY-NC-SA 2.0 · https://live.staticflickr.com/4290/34837490110_2700425327_b.jpg
+- 1024×768 · Rick and Morty from Adult Swim marketing next to the Flatiron Building · Marianne O'Leary · CC BY 2.0 · https://live.staticflickr.com/7316/11300393144_9a472f5768_b.jpg
+- 1024×768 · Adult Swim's Rick and Morty marketing next to the Flatiron Building · Marianne O'Leary · CC BY 2.0 · https://live.staticflickr.com/3676/11300428003_760e996845_b.jpg
+- 680×1024 · Rick and Morty · Omar Echeverria · CC BY-NC-SA 2.0 · https://live.staticflickr.com/4350/36554909732_43b7f57c2e_b.jpg
+- 5184×3456 · Wondercon 2016 - Rick and Morty Cosplay (25988428002) · William Tung from USA · CC BY-SA 2.0 · https://upload.wikimedia.org/wikipedia/commons/b/b9/Wondercon_2016_-_Rick_and_Morty_Cosplay_%2825988428002%29.jpg
+- 683×1024 · Rick and Morty · Courtarro · CC BY-NC-ND 2.0 · https://live.staticflickr.com/4417/36281389373_fd594bb170_b.jpg

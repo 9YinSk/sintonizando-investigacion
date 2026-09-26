@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.dailymotion.com/video/x41mo7i",
+    "fuente": "Dailymotion (canal Anime Fights, recopilación de fotogramas reales del anime)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Pelea Kirito vs. The Gleam Eyes (jefe del piso 74, Aincrad), episodios 8-9 de Sword Art Online, con Starburst Stream y HUD de vida",
+    "para_que": "Escena icónica (punto 2), poses de combate de Kirito y Asuna (punto 14), interfaz de vida (punto 10)",
+    "licencia": "Contenido con derechos de Aniplex/A-1 Pictures; sólo como referencia de minuto y pose, nunca para reusar"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x31uoid",
+    "fuente": "Dailymotion",
+    "ancho": 440,
+    "alto": 248,
+    "que_es": "Reencuentro de Kirito y Asuna tras la batalla contra The Gleam Eyes, cueva con luz de cristal verde",
+    "para_que": "Escena icónica (punto 2), poses de cariño/promesa de Kirito y Asuna (punto 14), paleta de la cueva (punto 4)",
+    "licencia": "Contenido con derechos de Aniplex/A-1 Pictures; sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x23wv4c",
+    "fuente": "Dailymotion",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Sinon y Kirito en el pasillo hexagonal de teletransporte antes del Bullet of Bullets, Sword Art Online II (arco Phantom Bullet, GGO)",
+    "para_que": "Escena icónica (punto 2), poses de Sinon (punto 14), paleta de la sala GGO (punto 4)",
+    "licencia": "Contenido con derechos de Aniplex/A-1 Pictures; sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x7wcnga",
+    "fuente": "Dailymotion",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Cinemática de videojuego: Kirito, Asuna y Alice contra un monstruo abisal en combate espacial",
+    "para_que": "Poses de Alice, Kirito y Asuna juntos (punto 14) — única fuente con Alice en movimiento accesible sin YouTube",
+    "licencia": "Contenido con derechos de Bandai Namco/Aniplex (videojuego SAO); sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x8hvbsi",
+    "fuente": "Dailymotion (distribuidora Wakanim, tráiler oficial en francés)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler oficial de Sword Art Online Alicization War of Underworld (estreno 11 julio 2020)",
+    "para_que": "Vídeo oficial con minuto exacto (punto 10), poses de Asuna y Alice (punto 14), paleta del cielo de Underworld (punto 4)",
+    "licencia": "Tráiler oficial de la distribuidora; sólo como referencia, no para reusar el vídeo"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x5cgnco",
+    "fuente": "Dailymotion",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Opening/cierre visual del arco Mother's Rosario (Sword Art Online II), tema 'courage' de Tomatsu Haruka",
+    "para_que": "Música por arco (punto 9), paleta de la pantalla de título y de la sala de ALO (punto 4)",
+    "licencia": "Contenido con derechos de Aniplex; sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x33t3vs",
+    "fuente": "Dailymotion",
+    "ancho": 480,
+    "alto": 360,
+    "que_es": "Ending del arco Aincrad de Sword Art Online (coincide visualmente con 'Yume Sekai')",
+    "para_que": "Música por arco (punto 9), paleta del bosque de ALO (punto 4)",
+    "licencia": "Contenido con derechos de Aniplex; sólo como referencia"
+  },
+  {
+    "url": "https://www.tiktok.com/@soundnime/video/7372160452756802821",
+    "fuente": "TikTok",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Edit de anime con el opening 'Crossing Field' (LiSA) de Sword Art Online, tendencia activa 2024-2025",
+    "para_que": "Tendencia de TikTok con enlace real (punto 10)",
+    "licencia": "Vídeo de usuario en TikTok; sólo como referencia de tendencia"
+  },
+  {
+    "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Anime_Main_Page",
+    "fuente": "Fandom (swordartonline.fandom.com, vía api.php action=parse)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista completa de aperturas y cierres por arco de todo el anime de SAO, con referencias oficiales citadas",
+    "para_que": "Música y sonido (punto 9)",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+  },
+  {
+    "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Episode_09",
+    "fuente": "Fandom",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del episodio 9 'The Blue-Eyed Demon', pelea contra The Gleam Eyes y su resolución",
+    "para_que": "Confirmar capítulo/minuto de la escena icónica (punto 2)",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+  },
+  {
+    "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online",
+    "fuente": "Fandom",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página general de la serie: confirma el comando de voz 'Link Start' y el anuncio del sistema de Kayaba",
+    "para_que": "Efectos de sonido y frases de sistema reconocibles (punto 9)",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://fonts.google.com/specimen/Orbitron",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía Orbitron (bold), sans-serif geométrica estilo HUD/sci-fi",
+    "para_que": "Punto 5 — letra libre para logo/título de canal y rótulos de interfaz de juego; tildes/ñ/¿/¡ comprobadas con fontTools",
+    "licencia": "OFL-1.1 (Open Font License), gratis y con permiso de uso comercial"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Michroma",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía Michroma (regular), sans-serif geométrica ancha",
+    "para_que": "Punto 5 — segunda opción libre para logo/interfaz de juego; tildes/ñ/¿/¡ comprobadas con fontTools",
+    "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Anton",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía Anton, condensada de trazo grueso",
+    "para_que": "Punto 5 — letra libre para globo normal de manga y grito/énfasis; tildes/ñ/¿/¡ comprobadas",
+    "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía Bangers, estilo cómic de trazo grueso",
+    "para_que": "Punto 5 — alternativa libre para grito/onomatopeya; tildes/ñ/¿/¡ comprobadas",
+    "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Exo+2",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía Exo 2, sans-serif geométrica fina",
+    "para_que": "Punto 5 y 11 — letra libre para interfaz de los videojuegos (menús, HUD); tildes/ñ/¿/¡ comprobadas",
+    "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Rajdhani",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tipografía Rajdhani, sans-serif técnica condensada",
+    "para_que": "Punto 5 y 11 — segunda opción libre para interfaz de videojuego/HUD; tildes/ñ/¿/¡ comprobadas",
+    "licencia": "OFL-1.1, gratis y con permiso de uso comercial"
+  },
+  {
+    "url": "https://blendswap.com/blend/14849",
+    "fuente": "Blend Swap (autor: chelyzmarx)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Kirito de baja poligonización, rigueado y animado (hecho para un mod, exportable), Blender 2.7x",
+    "para_que": "Punto 18 — modelo/rig libre de partida para practicar el shader toon y el contorno en Blender",
+    "licencia": "CC-BY (atribución obligatoria al autor), comprobada en la página"
+  },
+  {
+    "url": "https://www.gameuidatabase.com/gameData.php?id=394",
+    "fuente": "Game UI Database",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Colección de capturas reales de interfaz de Sword Art Online: Fatal Bullet (menú de armas, mapa, diálogo de misión)",
+    "para_que": "Punto 11 — referencia visual directa de menús y cajas de diálogo del videojuego",
+    "licencia": "Con derechos (Bandai Namco); uso editorial/referencia, la base de datos es de acceso libre para consulta"
+  }
+]

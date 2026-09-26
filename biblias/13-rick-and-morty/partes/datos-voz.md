@@ -1,10 +1,10 @@
 # Datos para el investigador de VOZ Y PERSONAJES (puntos 7, 8, 12, 13, 20, 21, 22) · Rick and Morty
 
-Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-24, sin IA. Cada bloque dice su fuente.
+Recolectado automáticamente con `herramientas/recolectar.py` el 2026-09-25, sin IA. Cada bloque dice su fuente.
 Es el punto de partida, no la verdad: lo que pase a la biblia se comprueba (✅ con dos fuentes) y se mira.
 No repitas estas consultas: sigue desde aquí y busca lo que falta.
 
-**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · animethemes: HTTP Error 522: <none>
+**Fuentes que fallaron** (hazlas a mano si hacen falta): anilist: no aplica (occidental; usa --tipo anime si lo es) · fans_booru: HTTP Error 500: Internal Server Error
 
 ## Doblaje latino: ficha de «Rick y Morty» (Doblaje Wiki)
 _Fuente: https://doblaje.fandom.com/es/wiki/Rick_y_Morty_
@@ -155,22 +155,22 @@ Mr. Meeseeks exhibits a friendly, cheerful, and helpful demeanor; willing to ass
 _Fuente: https://danbooru.donmai.us/posts?tags=rick_and_morty_
 
 Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans tiene cada uno.
-1. hatsune_miku · 146410 dibujos
-2. pikachu · 17606 dibujos
+1. hatsune_miku · 146435 dibujos
+2. pikachu · 17609 dibujos
 3. souryuu_asuka_langley · 17588 dibujos
-4. kirby · 11064 dibujos
+4. kirby · 11065 dibujos
 5. ayanami_rei · 10518 dibujos
-6. paimon_(genshin_impact) · 8382 dibujos
-7. samus_aran · 8156 dibujos
+6. paimon_(genshin_impact) · 8383 dibujos
+7. samus_aran · 8157 dibujos
 8. tojo_nozomi · 7811 dibujos
-9. son_goku · 7229 dibujos
+9. son_goku · 7231 dibujos
 10. meiko_(vocaloid) · 7022 dibujos
 11. ikari_shinji · 6470 dibujos
-12. sonic_the_hedgehog · 6290 dibujos
-13. stocking_(psg) · 5556 dibujos
+12. sonic_the_hedgehog · 6291 dibujos
+13. stocking_(psg) · 5557 dibujos
 14. jinx_(league) · 3613 dibujos
-15. sans_(undertale) · 2310 dibujos
-16. ness_(mother_2) · 1401 dibujos
+15. sans_(undertale) · 2311 dibujos
+16. ness_(mother_2) · 1402 dibujos
 17. eva_01 · 1118 dibujos
 18. bubbles_(ppg) · 623 dibujos
 19. doomguy · 585 dibujos
@@ -180,51 +180,44 @@ Medida de cariño del fandom distinta de las encuestas: cuántos dibujos de fans
 _Fuente: https://api.dailymotion.com_
 
 **«Rick and Morty latino»**
-- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5297 vistas · https://www.dailymotion.com/video/x667qj5
-- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2041 vistas · https://www.dailymotion.com/video/x8otb1z
+- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5298 vistas · https://www.dailymotion.com/video/x667qj5
+- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2042 vistas · https://www.dailymotion.com/video/x8otb1z
 - Rick and Morty Saison 4 - Rick & Morty trailer (EN) · 1:35 · BetaSeries · 1820 vistas · https://www.dailymotion.com/video/x86et1x
 - Rick and Morty S08 · 1:18 · Teaser Trailer · 482 vistas · https://www.dailymotion.com/video/x9jqx4m
-- Rick and Morty - Intro · 0:32 · Tomatazos · 312 vistas · https://www.dailymotion.com/video/x8x2x8y
+- Rick and Morty - Intro · 0:32 · Tomatazos · 313 vistas · https://www.dailymotion.com/video/x8x2x8y
 - Rick and Morty S08E10 Hot Rick · 0:30 · Teaser Trailer · 266 vistas · https://www.dailymotion.com/video/x9ncaew
 **«Rick and Morty doblaje latino»**
-- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5297 vistas · https://www.dailymotion.com/video/x667qj5
-- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2041 vistas · https://www.dailymotion.com/video/x8otb1z
+- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5298 vistas · https://www.dailymotion.com/video/x667qj5
+- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2042 vistas · https://www.dailymotion.com/video/x8otb1z
 - Rick and Morty Saison 4 - Rick & Morty trailer (EN) · 1:35 · BetaSeries · 1820 vistas · https://www.dailymotion.com/video/x86et1x
 - Rick and Morty S08 · 1:18 · Teaser Trailer · 482 vistas · https://www.dailymotion.com/video/x9jqx4m
-- Rick and Morty - Intro · 0:32 · Tomatazos · 312 vistas · https://www.dailymotion.com/video/x8x2x8y
+- Rick and Morty - Intro · 0:32 · Tomatazos · 313 vistas · https://www.dailymotion.com/video/x8x2x8y
 - Rick and Morty S08E10 Hot Rick · 0:30 · Teaser Trailer · 266 vistas · https://www.dailymotion.com/video/x9ncaew
 **«Rick and Morty fandub español»**
-- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5297 vistas · https://www.dailymotion.com/video/x667qj5
-- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2041 vistas · https://www.dailymotion.com/video/x8otb1z
+- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5298 vistas · https://www.dailymotion.com/video/x667qj5
+- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2042 vistas · https://www.dailymotion.com/video/x8otb1z
 - Rick and Morty Saison 4 - Rick & Morty trailer (EN) · 1:35 · BetaSeries · 1820 vistas · https://www.dailymotion.com/video/x86et1x
 - Rick and Morty S08 · 1:18 · Teaser Trailer · 482 vistas · https://www.dailymotion.com/video/x9jqx4m
-- Rick and Morty - Intro · 0:32 · Tomatazos · 312 vistas · https://www.dailymotion.com/video/x8x2x8y
+- Rick and Morty - Intro · 0:32 · Tomatazos · 313 vistas · https://www.dailymotion.com/video/x8x2x8y
 - Rick and Morty S08E10 Hot Rick · 0:30 · Teaser Trailer · 266 vistas · https://www.dailymotion.com/video/x9ncaew
 **«Rick and Morty fandub latino»**
-- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5297 vistas · https://www.dailymotion.com/video/x667qj5
-- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2041 vistas · https://www.dailymotion.com/video/x8otb1z
+- Rick and Morty: Naughty and Funny Moments - Rick and Morty [adult swim] · 4:06 · The Bored PO · 5298 vistas · https://www.dailymotion.com/video/x667qj5
+- Rick and Morty 7x01 · 1:56 · Promo Trailer · 2042 vistas · https://www.dailymotion.com/video/x8otb1z
 - Rick and Morty Saison 4 - Rick & Morty trailer (EN) · 1:35 · BetaSeries · 1820 vistas · https://www.dailymotion.com/video/x86et1x
 - Rick and Morty S08 · 1:18 · Teaser Trailer · 482 vistas · https://www.dailymotion.com/video/x9jqx4m
-- Rick and Morty - Intro · 0:32 · Tomatazos · 312 vistas · https://www.dailymotion.com/video/x8x2x8y
+- Rick and Morty - Intro · 0:32 · Tomatazos · 313 vistas · https://www.dailymotion.com/video/x8x2x8y
 - Rick and Morty S08E10 Hot Rick · 0:30 · Teaser Trailer · 266 vistas · https://www.dailymotion.com/video/x9ncaew
 
 ## Reddit r/rickandmorty: lo que ama y discute el fandom (títulos de hilos)
 _Fuente: https://www.reddit.com/r/rickandmorty_
 
-**«favorite character»**
-- (807 votos, 180 comentarios) Who is your favorite one-episode character? · https://www.reddit.com/r/rickandmorty/comments/1ux000c/who_is_your_favorite_oneepisode_character/
-- (353 votos, 128 comentarios) Favorite Side Character? · https://www.reddit.com/r/rickandmorty/comments/1vnnqa5/favorite_side_character/
-- (331 votos, 143 comentarios) Who is your favorite one-off character? · https://www.reddit.com/r/rickandmorty/comments/1v1lg1p/who_is_your_favorite_oneoff_character/
-- (299 votos, 84 comentarios) What's your favorite throwaway character, that you'd like to see more of? · https://www.reddit.com/r/rickandmorty/comments/1vv87gf/whats_your_favorite_throwaway_character_that_youd/
-- (176 votos, 118 comentarios) Who is y’all’s favorite one time appearance character? · https://www.reddit.com/r/rickandmorty/comments/1rrs5hx/who_is_yalls_favorite_one_time_appearance/
-- (143 votos, 36 comentarios) This is my favorite character is it a good or bad opinion · https://www.reddit.com/r/rickandmorty/comments/1um7ac0/this_is_my_favorite_character_is_it_a_good_or_bad/
-**«why I love»**
-- (4313 votos, 104 comentarios) Why do I love Jerry popping balloons on the iPad? · https://www.reddit.com/r/rickandmorty/comments/x0b8cg/why_do_i_love_jerry_popping_balloons_on_the_ipad/
-- (987 votos, 101 comentarios) I love the detail they added with the planet being right next to a black hole. Explains why Summer only said where they… · https://www.reddit.com/r/rickandmorty/comments/1upibqp/i_love_the_detail_they_added_with_the_planet/
-- (414 votos, 92 comentarios) S06 has reminded me why I love this show so much! · https://www.reddit.com/r/rickandmorty/comments/y0gabz/s06_has_reminded_me_why_i_love_this_show_so_much/
-- (268 votos, 5 comentarios) Finding gems like this is why I love thrifting! · https://www.reddit.com/r/rickandmorty/comments/1o04qfh/finding_gems_like_this_is_why_i_love_thrifting/
-- (259 votos, 111 comentarios) Why do I love this episode so much??? Hahahaha · https://www.reddit.com/r/rickandmorty/comments/1g6u20v/why_do_i_love_this_episode_so_much_hahahaha/
-- (221 votos, 17 comentarios) Pickle Rick Makes no sense whatsoever. …and that’s why I love it. · https://www.reddit.com/r/rickandmorty/comments/1pc27lz/pickle_rick_makes_no_sense_whatsoever_and_thats/
+**«best scene»**
+- (10960 votos, 224 comentarios) The worst possible Jerry received the worst possible fate. Peak Rick and Morty comedy but let's admit he really… · https://www.reddit.com/r/rickandmorty/comments/yx11db/the_worst_possible_jerry_received_the_worst/
+- (4618 votos, 142 comentarios) My submission for best post credits scene, Season 4 Ep 3 · https://www.reddit.com/r/rickandmorty/comments/xsymrl/my_submission_for_best_post_credits_scene_season/
+- (4507 votos, 87 comentarios) My nominee for best post-credits scene · https://www.reddit.com/r/rickandmorty/comments/1gwexmq/my_nominee_for_best_postcredits_scene/
+- (3656 votos, 128 comentarios) My nominee for best post-credits scene · https://www.reddit.com/r/rickandmorty/comments/1gvt4oq/my_nominee_for_best_postcredits_scene/
+- (521 votos, 42 comentarios) Best scene of S7E2 · https://www.reddit.com/r/rickandmorty/comments/17elfav/best_scene_of_s7e2/
+- (369 votos, 20 comentarios) I think this has to be the best post credits scene. · https://www.reddit.com/r/rickandmorty/comments/1gvjnk8/i_think_this_has_to_be_the_best_post_credits_scene/
 **«unpopular opinion»**
 - (1270 votos, 84 comentarios) Unpopular Opinion: Morty Should have someone OUTSIDE the Core Family to hang out and interact with. · https://www.reddit.com/r/rickandmorty/comments/1wc5da3/unpopular_opinion_morty_should_have_someone/
 - (277 votos, 112 comentarios) Unpopular opinion (maybe) Jerry is a top 3 funniest character on the show · https://www.reddit.com/r/rickandmorty/comments/1m21zxq/unpopular_opinion_maybe_jerry_is_a_top_3_funniest/
@@ -232,3 +225,10 @@ _Fuente: https://www.reddit.com/r/rickandmorty_
 - (51 votos, 39 comentarios) Unpopular Opinion: The Last Temptation of Jerry is really overhated · https://www.reddit.com/r/rickandmorty/comments/1o0oteq/unpopular_opinion_the_last_temptation_of_jerry_is/
 - (50 votos, 10 comentarios) Unpopular Opinion: Jessica's scene recounting her trip to Narnia is one of the most epic moments in Rick and Morty. · https://www.reddit.com/r/rickandmorty/comments/1okcoqw/unpopular_opinion_jessicas_scene_recounting_her/
 - (37 votos, 38 comentarios) Unpopular Opinion: Rickdependence Spray was awesome. · https://www.reddit.com/r/rickandmorty/comments/1marg8u/unpopular_opinion_rickdependence_spray_was_awesome/
+**«iconic»**
+- (1380 votos, 57 comentarios) Most iconic scene? · https://www.reddit.com/r/rickandmorty/comments/1qiwpa1/most_iconic_scene/
+- (1184 votos, 199 comentarios) Iconic one-off characters - which of these (or other) deserves a re-appearance? · https://www.reddit.com/r/rickandmorty/comments/1j4zggo/iconic_oneoff_characters_which_of_these_or_other/
+- (845 votos, 53 comentarios) Crow rick is definately one of my favourite phases its iconic and unforgettable · https://www.reddit.com/r/rickandmorty/comments/1mupr9o/crow_rick_is_definately_one_of_my_favourite/
+- (597 votos, 83 comentarios) Rick says “say hello to my little me” instead of the iconic Scarface line because he has no friends. · https://www.reddit.com/r/rickandmorty/comments/po6v8d/rick_says_say_hello_to_my_little_me_instead_of/
+- (436 votos, 16 comentarios) This was one of those iconic scenes for me · https://www.reddit.com/r/rickandmorty/comments/1cwhc01/this_was_one_of_those_iconic_scenes_for_me/
+- (215 votos, 30 comentarios) I don’t think any single tv or movie has produced a more iconic guttural scream since ‘The Wilhelm Scream… · https://www.reddit.com/r/rickandmorty/comments/1cpdfu3/i_dont_think_any_single_tv_or_movie_has_produced/

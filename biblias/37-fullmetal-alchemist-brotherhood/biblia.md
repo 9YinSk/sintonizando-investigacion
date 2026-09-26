@@ -1,0 +1,2145 @@
+---
+tags: [biblia, serie, laminas, biblioteca]
+serie: "Fullmetal Alchemist: Brotherhood (鋼の錬金術師 FULLMETAL ALCHEMIST)"
+canal: "sin canal: propuesta #general-doblaje (alternativas 🎚️ Mesa de Trabajo y #staff, ver §0)"
+fecha: 2026-09-24
+---
+
+# Biblia · Fullmetal Alchemist: Brotherhood — para la biblioteca
+
+> [!important] Cómo se hizo, y sus límites
+> - La escribió el **redactor** sólo con las partes del equipo
+>   (`partes/imagen.md`, `video.md`, `voz.md`, `texto.md`, `episodios.md`
+>   y, para completar, los `datos-*.md`). Nada nuevo sin fuente.
+> - **YouTube pidió iniciar sesión todo el día** y AnimeThemes dio 522.
+>   Los vídeos se miraron en **Internet Archive**: el OP1 y el ED1 del
+>   Blu-ray sin créditos, el **tráiler de la OVA de FUNimation en 1080p**
+>   y el **blooper reel oficial** del vol. 5 (outtakes del doblaje inglés
+>   sobre metraje real). **El minuto es el del vídeo enlazado**, no el del
+>   capítulo, salvo que diga «ep.».
+> - **El redactor miró las hojas de contacto de vídeo** del equipo y
+>   **corrigió 22 datos** de las partes (Hughes que no era Roy, Alphonse
+>   que no era Gluttony, Central que no era Ishval…). Todo está en §28.2. La tercera hoja, `escenas_01.jpg`, la monté con esos fotogramas.
+> - **Frases del doblaje latino**: de las **6 muestras de audio de Doblaje
+>   Wiki**, transcritas con `voz.py`. No hay clips doblados oficiales que
+>   se pudieran bajar (§10.4).
+> - ✅ = dos fuentes o visto por nosotros. ⚠️ = una sola fuente, o minuto
+>   aproximado. Lo que no se encontró está en §28 y en la tabla final.
+
+## Índice
+
+Entre corchetes, el punto de `ENCARGO.md` que cubre cada sección.
+
+0. Fullmetal Alchemist: Brotherhood no tiene canal: dónde encaja mejor
+1. Resumen para quien tenga prisa
+2. Las escenas que sirven, con minuto [2]
+3. Arte oficial y hojas de contacto [1]
+4. Fan art y 3D, sólo como referencia [3]
+5. Sitios, luz, paleta y texturas reales [4]
+6. Tipografía: una letra para cada uso [5]
+7. Cómo hablan y piensan en pantalla: el cuadro de diálogo [6]
+8. Los personajes: qué transmiten, su cara y sus dinámicas [7, 13]
+9. ¿Quién es el más querido? [7]
+10. Doblaje latino y frases textuales [8]
+11. Música y sonido [9]
+12. Vídeos y tendencias [10]
+13. Videojuegos de la franquicia [11]
+14. Lo que ama el fandom, y qué NO hacer [12]
+15. Poses analizadas por personaje [14]
+16. Vestuario, con hex medidos [15]
+17. Paisajes y fondos de pantalla [16]
+18. Guía para generar con IA: imagen y texto [17]
+19. Estilo de dibujo, técnica, Blender y encuadres [18]
+20. Texturas 2D [19]
+21. Gustos y detalles de cada personaje [20]
+22. Por qué la gente la ama, y las escenas que hacen llorar [21]
+23. Fan dubs y comunidad hispana [22]
+24. Colaboraciones, figuras y cosplay [23]
+25. Obras parecidas y láminas vecinas [24]
+26. El mundo, la historia por arcos y sus símbolos [25]
+27. Tres conceptos de lámina
+28. Lo que no pude verificar, y lo que corregí de las partes
+- Cumplimiento del encargo
+29. Bitácora de búsqueda
+
+---
+
+## 0 · Fullmetal Alchemist: Brotherhood no tiene canal: dónde encaja mejor
+
+### 0.1 La propuesta
+
+**ıı・💬・general-doblaje** (sección EL ESTUDIO). Su texto real
+(`servidor/inventario.md`): «Del oficio: micros, voces, técnica y dudas de
+novato. Tu voz grabada va a demos; los papeles, a castings». Es **el canal
+más vivo del servidor**: 14 de los últimos 15 mensajes son de personas.
+
+- **La alquimia de la serie es un método en tres pasos**: comprender,
+  descomponer, reconstruir (§26). Es lo mismo que doblar una línea:
+  entender la escena, desarmar la frase y volver a armarla con tu voz.
+- **El «intercambio equivalente»**: «para obtener algo, hay que perder
+  algo de igual valor». Es la frase que todo fan reconoce (§10.5) y cuadra
+  con el oficio: la voz se paga en horas de práctica.
+- **Es un caso de doblaje de manual**: tiene **dos doblajes latinos
+  completos** (Venezuela 2011-12 y México 2021). **Edward y Alphonse
+  tienen la misma voz en los dos** (José Manuel Vieira y Jhonny Torres), y
+  Jhonny Torres ha sido Alphonse en **todas** las versiones. En el doblaje
+  de Animax **todos los personajes con armadura llevan filtro de voz**
+  (§10). Es charla «del oficio» pura.
+- **Edward es el más querido** (1.º en AniList y en la encuesta de fans,
+  §9) y su gesto, **el aplauso antes de transmutar**, es la pose más
+  reconocible de la serie (OP1 [0:28](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=28);
+  hoja `personajes_02.jpg` #56).
+- ⚠️ **Choque**: el encargo 29 propone **Monsters, Inc.** para
+  #general-doblaje. Lo decide el dueño (sexta línea del informe).
+
+Concepto completo en §27 A. **Reservas**: 🎚️ **Mesa de Trabajo** (el banco
+de Winry, §27 B) y **#staff** (el ajedrez de Roy, §27 C).
+
+### 0.2 Todos los canales que miré
+
+| Canal o sala | Qué pondría FMA: Brotherhood | Encaje | Nota |
+|---|---|---|---|
+| **#general-doblaje** | **Edward** y un **círculo de tiza** con los tres pasos; los dos doblajes latinos | ⭐⭐⭐ | el encargo 29 propone Monsters, Inc. |
+| 🎚️ **Mesa de Trabajo** (voz) | el **banco de trabajo de Winry** en el taller de automail de Resembool (ED1 [0:54](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=54)) | ⭐⭐⭐ | el encargo 29 pone ahí el taller de Monsters, Inc. «por vecindad»; la sala no tiene texto en el inventario |
+| **#staff** (privado) | el **tablero de ajedrez de Roy**: su equipo son piezas (Fuery peón, Falman alfil, Havoc caballo, Breda torre, Hawkeye reina, Roy rey, §14) ↔ «Coordinación del equipo» | ⭐⭐⭐ | **libre**; sólo si los privados llevan lámina |
+| **#destacados** | el **reloj de plata** del Alquimista Estatal: sólo lo recibe quien aprueba el examen ↔ «Lo que junta estrellas acaba aquí solo» | ⭐⭐ | el encargo 29 propone Super Mario Galaxy |
+| **#postulaciones** (privado) | el **examen de Alquimista Estatal** ↔ «Solicitudes de staff y de proyectos» | ⭐⭐ | libre; privado |
+| **#hardware** | el **automail**: Winry y su taller | ⭐⭐⭐ | **ya es de Dr. Stone** (20): sirve de lámina 2 si el dueño cambia |
+| 🔊 **Aula** (voz) | Izumi Curtis, la maestra de los hermanos | ⭐⭐ | lo pide Demon Slayer (31); las partes traen pocos datos de Izumi |
+| **#eventos** | el **Día Prometido** (el eclipse con fecha fija) | ⭐ | es el clímax de muertes de la serie; el encargo 29 propone Phineas y Ferb |
+
+**Lo que NO encaja**: #memes, #que-estas-viendo o #bienvenidas. La serie
+tiene guerra, genocidio y la escena de Nina (§14): en un canal de risa o de
+saludo quedaría falsa. Tampoco #reglas (ya es de Attack on Titan), aunque
+las **tres normas del Alquimista Estatal** (obedecer al ejército, no crear
+oro, no crear humanos, §26) darían una lámina 2 muy de la serie.
+
+## 1 · Resumen para quien tenga prisa
+
+- **Qué es**: anime de 64 capítulos (2009-2010) del estudio **BONES**,
+  dirigido por **Yasuhiro Irie**, que sigue de cerca el manga de **Hiromu
+  Arakawa** ([AniList](https://anilist.co/anime/5114)). Nota **9.11** en
+  MyAnimeList con 2,3 millones de votos, **puesto 3 histórico** (fue el 1.º
+  más de una década) y **9.1** en [IMDb](https://www.imdb.com/title/tt1355642/) ✅.
+- **El mundo**: Amestris, un país militar. La alquimia sigue una ley: el
+  **intercambio equivalente**. Dos hermanos la rompen para revivir a su
+  madre: Edward pierde una pierna y un brazo; Alphonse, el cuerpo entero
+  (su alma vive en una armadura).
+- **El más querido**: **Edward** (1.º). Luego **Roy Mustang** (2.º) y
+  **Riza Hawkeye** (3.ª, la mujer más votada). El secundario que más citan los fans:
+  **Maes Hughes** (§9).
+- **Cómo habla en pantalla**: no con burbujas blancas. Con la **cartela
+  del eyecatch** (marco fino con adornos en las esquinas, nombre en serif
+  cursiva, logo 鋼の錬金術師), el **título de capítulo del manga** y
+  **objetos que hablan**: el reloj de plata, el círculo de transmutación,
+  el tatuaje de uróboros (§7).
+- **Letras libres comprobadas** (tildes, ñ, ¿, ¡): Rokkitt Black (título),
+  Comic Neue Bold (globo), Special Elite (informes), Libre Baskerville
+  (créditos) (§6).
+- **Colores medidos**: abrigo de Ed `#DA4332`, uniforme de Roy `#354565`,
+  armadura de Al `#7C8592`, mono de Winry `#D2D9B2`, escudo de Amestris
+  `#3D705C` con borde `#D8BD25` (§16, §20).
+- **Objetos en 3D con licencia CC BY**: el **reloj de Alquimista
+  Estatal**, un **círculo de transmutación**, el **brazo de automail** y
+  la armadura de Alphonse (§4).
+- **Doblaje latino**: dos completos. Ed = José Manuel Vieira y Al =
+  Jhonny Torres en los dos (§10).
+- **Tres láminas**: A · #general-doblaje (Edward y el círculo de tiza);
+  B · 🎚️ Mesa de Trabajo (el banco de Winry); C · #staff (el ajedrez de
+  Roy) (§27).
+- **No hacer**: reducir a Ed al chiste de la estatura; mezclar diseños de
+  la serie de 2003; tratar a Envidia en femenino; colores alegres sobre
+  escenas de guerra (§14).
+
+## 2 · Las escenas que sirven, con minuto
+
+Todas **vistas** en las hojas de fotogramas (entre paréntesis, el número
+en `hojas/escenas_01.jpg`: A = OP1, B = ED1, E = elegidos). El minuto es el
+del vídeo enlazado.
+
+### 2.1 Tráiler de la OVA Collection (FUNimation, 1920×1080 real, 58 s)
+
+[Internet Archive `turner_video_134431`](https://archive.org/details/turner_video_134431).
+Mezcla la serie y las OVA («4 OVAs & Four-Panel Comic Theater», se lee al
+final): lo que no sé si es de la serie lleva ⚠️.
+
+| Minuto | Qué se ve | Sirve para |
+|---|---|---|
+| [0:08](https://archive.org/download/turner_video_134431/134431.mp4?t=8) | Ed (abrigo rojo) y Al en un callejón de luz cálida | los dos juntos, de viaje |
+| [0:10](https://archive.org/download/turner_video_134431/134431.mp4?t=10) | título «Fullmetal Alchemist Brotherhood» en serif sobre papel viejo con salpicaduras de sangre | tipografía del marketing (§6) |
+| [0:12](https://archive.org/download/turner_video_134431/134431.mp4?t=12) | figura con capa y ojos que brillan, bosque nevado de noche con luna (E24) ⚠️ sin identificar | luz fría nocturna (§5) |
+| [0:14](https://archive.org/download/turner_video_134431/134431.mp4?t=14) | mano de automail con rayos azules de alquimia | el chispazo de la transmutación |
+| [0:24](https://archive.org/download/turner_video_134431/134431.mp4?t=24) | **Maes Hughes** apunta la pistola a cámara, gafas y barba de tres días (E12) | Hughes serio |
+| [0:26](https://archive.org/download/turner_video_134431/134431.mp4?t=26) | dos manos humanas entre llamas (E23) ⚠️ sin identificar | efecto de alquimia de fuego |
+| [0:34](https://archive.org/download/turner_video_134431/134431.mp4?t=34) | Ed de frente en un callejón, Al al fondo (E4) | Ed alerta |
+| [0:35](https://archive.org/download/turner_video_134431/134431.mp4?t=35) | Hughes con un rifle entre arbustos, junto a un soldado bajito ⚠️ (parece OVA) | Hughes en guerra |
+| [0:39](https://archive.org/download/turner_video_134431/134431.mp4?t=39) | el casco de Al con **ojos blancos redondos** y boca de sierra: gag cómico | la cara cómica de Al |
+| [0:46](https://archive.org/download/turner_video_134431/134431.mp4?t=46) | Al, armadura de frente, ojos rojos (E7) | Al presentando |
+| [0:47](https://archive.org/download/turner_video_134431/134431.mp4?t=47) | Ed de cerca, sonrisa de confianza (E1) | Ed presentando |
+| [0:50](https://archive.org/download/turner_video_134431/134431.mp4?t=50) | caja del Blu-ray + DVD «OVA Collection» | arte de caja |
+| [0:54](https://archive.org/download/turner_video_134431/134431.mp4?t=54) | **gag**: Ed en camiseta, sentado en un sofá, recibe una **llave inglesa en la cabeza** (E6) | el golpe de llave de Winry, en *chibi* |
+
+### 2.2 Blooper reel oficial (FUNimation, vol. 5, 854×480, 7:33)
+
+[Internet Archive `turner_video_11409`](https://archive.org/details/turner_video_11409).
+Se oyen tomas falsas del doblaje inglés (lo presenta Mike McFarland,
+director de doblaje), pero **la imagen es metraje real de la serie**.
+
+| Minuto | Qué se ve | Sirve para |
+|---|---|---|
+| [0:26](https://archive.org/download/turner_video_11409/11409.mp4?t=26) | **cartela del eyecatch de Jean Havoc**: fondo naranja, marco fino con adornos, «Jean Havoc» en cursiva y el logo 鋼の錬金術師 (E16) | **el cuadro propio de la serie** (§7) |
+| [1:20](https://archive.org/download/turner_video_11409/11409.mp4?t=80) | Roy de cerca, ceño fruncido, camisa clara (E9) | Roy serio |
+| [1:29](https://archive.org/download/turner_video_11409/11409.mp4?t=89)-[1:33](https://archive.org/download/turner_video_11409/11409.mp4?t=93) | un tanque dispara contra el muro del **Cuartel General de Central**, con el **estandarte verde del escudo de Amestris** (E19) | Central en guerra |
+| [1:44](https://archive.org/download/turner_video_11409/11409.mp4?t=104)-[1:51](https://archive.org/download/turner_video_11409/11409.mp4?t=111) | **Ed y Al ya con cuerpo**, jóvenes; luego de espaldas ante las colinas verdes (E22) | final feliz, despedida |
+| [2:38](https://archive.org/download/turner_video_11409/11409.mp4?t=158) | Winry de perfil en un sótano de madera, junto a un chico de coleta negra (E13) | Winry escuchando |
+| [3:10](https://archive.org/download/turner_video_11409/11409.mp4?t=190) | **Roy con un ramo de flores**, media sonrisa (E10) | Roy en tono ligero |
+| [3:53](https://archive.org/download/turner_video_11409/11409.mp4?t=233) | Alex Armstrong sin camisa, sacando músculo, junto a su hermana Olivier | gag de Armstrong |
+| [4:04](https://archive.org/download/turner_video_11409/11409.mp4?t=244)-[4:08](https://archive.org/download/turner_video_11409/11409.mp4?t=248) | **la Verdad**: figura blanca sentada ante la Puerta, fondo blanco vacío (E21) | lo sagrado y lo prohibido |
+| [4:12](https://archive.org/download/turner_video_11409/11409.mp4?t=252) | Ed de cerca, ojo dorado, media sonrisa (E2) | Ed seguro de sí |
+| [4:52](https://archive.org/download/turner_video_11409/11409.mp4?t=292) | **el muro de Briggs** en la montaña nevada (E20) | sitio frío (§5) |
+| [5:11](https://archive.org/download/turner_video_11409/11409.mp4?t=311) | **King Bradley** ensangrentado, con parche (E18) | villano |
+| [5:54](https://archive.org/download/turner_video_11409/11409.mp4?t=354) | Ed con **coleta y camisa blanca**, sin abrigo (E5) | Ed del epílogo |
+| [6:16](https://archive.org/download/turner_video_11409/11409.mp4?t=376) | **Gluttony**, boca abierta con costillas (E17) | homúnculo |
+| [6:50](https://archive.org/download/turner_video_11409/11409.mp4?t=410) | Scar sin camisa, con los **tatuajes del brazo** | Scar |
+| [7:07](https://archive.org/download/turner_video_11409/11409.mp4?t=427) | **Ed grita** con sangre en la cara (E3) | rabia y dolor |
+| [7:15](https://archive.org/download/turner_video_11409/11409.mp4?t=435) | la armadura de Al tendida, **Ed desplomado encima** y May Chang al lado (E8) | sacrificio |
+| [7:19](https://archive.org/download/turner_video_11409/11409.mp4?t=439) | **Riza** con el cuello vendado y ensangrentado, junto a **Roy** con los ojos cerrados (E11) | Royai, tras la batalla |
+| [7:26](https://archive.org/download/turner_video_11409/11409.mp4?t=446)-[7:30](https://archive.org/download/turner_video_11409/11409.mp4?t=450) | **Winry niña** grita en la colina; **Ed y Al niños** saludan con los brazos (E14, E15) | la infancia en Resembool |
+
+### 2.3 Opening y ending (Blu-ray sin créditos)
+
+Descritos en §11. Los momentos que más sirven: logo sobre fuego y luego
+sobre cielo nocturno (A10-A11, OP1 0:18-0:20); **el aplauso de Ed** (A15,
+OP1 0:28); el casco de Al con ojos rojos (A21, 0:40); Hughes (A23, 0:44);
+Roy de espaldas contra el fuego (A24, 0:46); Scar bajo la lluvia (A36-A38,
+1:10-1:14); el **globo dibujado «TA-DA»** (B16, ED1 0:45) y **Winry en su
+banco de trabajo** (B19-B20, ED1 0:54-0:57).
+
+### 2.4 Tráiler con subtítulos en español (Vidaextra)
+
+[Dailymotion `x8rhg1x`](https://www.dailymotion.com/video/x8rhg1x), 512×288
+(baja resolución; sirve de guion, no de imagen). Lo miró el investigador
+de vídeo:
+- [0:02](https://www.dailymotion.com/video/x8rhg1x?t=2): casa ardiendo de
+  noche, **todo en rojo** (paleta en §5), subtítulo «Agua: 35 litros.» ✅
+- [0:20](https://www.dailymotion.com/video/x8rhg1x?t=20): cadáveres
+  cubiertos junto a un canal, soldados y un perro ✅
+- [0:56](https://www.dailymotion.com/video/x8rhg1x?t=56): «¿Por qué el
+  ejército está matando a los ciudadanos en vez de protegerlos?» ✅
+
+### 2.5 Escenas con capítulo pero sin minuto propio
+
+- **Ep. 4**: Nina Tucker convertida en quimera por su padre ✅
+  ([fma.fandom.com](https://fma.fandom.com/wiki/Nina_Tucker) + Doblaje
+  Wiki + Univision).
+- **Ep. 10 «Separate Destinations»**: muerte de Maes Hughes ✅
+  ([CBR](https://www.cbr.com/fmab-episode-10-review/) +
+  [OtakuKart](https://otakukart.com/what-episode-does-hughes-die-a-death-that-is-still-considered-one-of-the-saddest/)).
+  Según un listado de fans, suena «Requiem for the Brigadier General»
+  del minuto **16:45 al 18:49** ⚠️ ([fmabostlist](https://sites.google.com/view/fmabostlist/episodes/1-16)).
+- ⚠️ Ningún capítulo completo se pudo abrir (ni YouTube, ni Dailymotion, ni
+  Internet Archive los tienen): el resto de escenas está en §22 por
+  capítulo, sin minuto.
+
+## 3 · Arte oficial y hojas de contacto
+
+### 3.1 Las tres hojas (miradas enteras por el redactor)
+
+| Hoja | Qué tiene | Tamaño |
+|---|---|---|
+| `hojas/personajes_01.jpg` | #1-48 de la wiki `fma` (`investigar_serie.py`): tomos, portadas de capítulo a color, hojas de modelo 2009, eyecatches | 2400×1704, 960 KB |
+| `hojas/personajes_02.jpg` | #49-96: más portadas, fotogramas, 6 eyecatches de Winry, hojas de modelo de cuerpo entero, figura Funko | 2400×1704, 794 KB |
+| `hojas/escenas_01.jpg` | **A1-A45** OP1 cada 2 s, **B1-B31** ED1 cada 3 s, **E1-E24** fotogramas elegidos del tráiler (T) y el blooper (B), con su minuto | 1920×3192, 1187 KB |
+
+Las imágenes #97-99 (un boceto de Ed y Al en la vía del tren, un cel de Ed
+con el pulgar arriba y la hoja de modelo rotulada «エドワード・エルリック
+CV：朴璐美») no caben en las 3 hojas: van enlazadas en `referencias.json`.
+⚠️ La parte de imagen numeró mal algunas (§28.2); los números de abajo son
+los que se ven en las hojas.
+
+### 3.2 Lo que sirve de cada hoja
+
+**Poses vivas y en grupo** (`personajes_01.jpg`):
+- **#3** «Past and Present»: los niños y los mayores, juntos. Grupo.
+- **#6** portada del cap. 50: el grupo de viaje con bicicleta y carro.
+- **#7** portada del cap. 1: Ed en cuclillas y Al detrás, sobre un
+  **círculo de transmutación** (§7.2).
+- **#10** cap. 61: Ed saluda sonriendo, Al detrás. **#12** cap. 78: Ed
+  hace la V. **#14** cap. 100 y **#15** cap. 107: multitudes de personajes.
+- **#19** cap. 6: **Ed sentado en el hombro de Al**, con pájaros. El dúo
+  más vivo de las hojas.
+- **#35** cap. 11: Ed sube escaleras con la maleta; Al detrás.
+- **#37** cap. 29: los hermanos entre ovejas y un cartel.
+
+**Objetos y oficio**:
+- **#4** cap. 81: primer plano del **brazo de automail** (2000×1426).
+- **#26** y **#27**: el **brazo y la pierna de automail despiezados**
+  (hojas de modelo 2009).
+- **#32**: eyecatch de **Winry con la llave inglesa** (1920×1080).
+- **#60** (`personajes_02`): Winry arrodillada, feliz, con un automail en el
+  suelo de madera.
+- **#62**: eyecatch de Winry con un automail y una tarta ⚠️ (no sé de qué).
+
+**Hojas de modelo 2009** (para vestuario y giros, §16):
+- **#25** Ed con chaleco; **#28** Ed con abrigo marrón (epílogo); **#29**
+  **Roy** de frente, espalda y cabeza; **#30** Winry con bolsa de viaje;
+  **#24** Al humano con abrigo rojo.
+- **#72** Roy, **#77** Ed, **#85** Al y **#96** Winry de cuerpo entero.
+- **#79** hoja de Ed con **caras** y la cruz de Flamel; **#80** hoja de
+  **caras de Winry**; **#81** la **ropa de trabajo de Winry** en tres vistas.
+
+**Cartelas y títulos** (§7):
+- **#31**, **#32**, **#33** y **#61-66**: **eyecatches**. #33 es el único
+  con los tres (Al, Winry, Ed haciendo la V) y el logo 鋼の錬金術師.
+- **#9-15**, **#17**, **#18**: **portadas de capítulo** con título en dos
+  líneas y la cruz de Flamel.
+
+**Tono oscuro**: **#1** portada del tomo 13 (Ed encapuchado de rojo entre
+cadenas) y **#17** cap. 108 («With His Bare Hands?!», con salpicaduras).
+
+**Otros**: **#2** Ed y Winry con el *kagami mochi* de Año Nuevo; **#43**
+los tres de niños («Winry's Birthday Present»); **#56** **Ed aplaudiendo
+con la luz de la transmutación**, a color (la pose de §15); **#58** Riza y
+Roy en el despacho; **#59** Roy en contrapicado; **#67** figura Funko de
+Al; **#90** la armadura y Al humano leyendo; **#91-92** Al y Ed del «Día
+Prometido»; **#93** Ed con el pulgar arriba junto a Al.
+⚠️ **#41** es arte de la serie de **2003**: no usarlo para vestuario (§14).
+
+### 3.3 Fuera de la wiki
+
+- **Exposición «FULLMETAL ALCHEMIST × Daemons of the Shadow Realm»**
+  (Matsuya Ginza, Tokio, 13-ago al 2-sep-2026): más de **300 dibujos
+  originales y bocetos**, café temático y productos exclusivos. **Ya cerró
+  en Ginza**; sigue de gira por Sapporo, Kanazawa, Osaka y Nagoya ✅
+  ([Matsuya Ginza](https://www.matsuyaginza.com/en/ginza/events/exhibition/haganeno-renkinjutsushi-20260729),
+  [GameRant](https://gamerant.com/fullmetal-alchemist-exhibition-2026/)).
+- **Fullmetal Alchemist Premiere Tour** (Universal Studios Japan, 2005):
+  clip animado exclusivo y fotos con los Elric ✅
+  ([LiveJournal](https://fm-alchemist.livejournal.com/1495319.html),
+  [Tokyo Otaku Mode](https://otakumode.com/news/62a41cb609e677001d786ca9/Fullmetal-Alchemist-Returns-Exhibition-Photo-Report)).
+- **Portada y banner oficiales** en AniList (460×647 y 1900×1188) y el
+  **póster oficial** `Fmab-poster.png` (1143×1600, paleta en §19).
+- Web oficial japonesa [hagaren.jp/fa](https://www.hagaren.jp/fa/) y
+  cuenta [@hagaren_anime](https://x.com/hagaren_anime) (enlazadas por
+  AniList; no se abrieron).
+- ⚠️ No encontré una página oficial de **fondos de pantalla** (§17).
+
+## 4 · Fan art y 3D, sólo como referencia
+
+Nunca para pegar: sirven de proporción, pose y volumen.
+
+### 4.1 Modelos 3D con licencia libre (Sketchfab, licencia leída en su API)
+
+| Modelo | Autor | Licencia | Caras | Para qué |
+|---|---|---|---|---|
+| [State Alchemist Watch](https://sketchfab.com/3d-models/none-d01a4822154e4e9aa0efc616a4a07475) | Yanez-Designs | **CC BY** | 14 108 | **el reloj de plata** con el escudo: el objeto de §27 C y de #destacados |
+| [Human Transmutation Circle](https://sketchfab.com/3d-models/none-4ad153e685f64e15a1d0453041b3248a) | Yanez-Designs | **CC BY** | 2 540 | círculo grabado en el suelo. ⚠️ Es **el de la transmutación humana** (el tabú de la serie): para la lámina, sólo la técnica de grabado, no ese dibujo |
+| [Transmutation Platform](https://sketchfab.com/3d-models/none-0119f385ee334603ae491f89a8ca248f) | RJGonzalez23 | **CC BY** | 3 336 | pedestal con círculo |
+| [Edward Arm Automail](https://sketchfab.com/3d-models/none-ee490a1766144addb9772e4cb14daeec) | Ahbangkun | **CC BY** | 132 690 | **el brazo de automail** sobre el banco de Winry (§27 B) |
+| [Fullmetal Alchemist - Alphonse Elric](https://sketchfab.com/3d-models/none-a110797c6d19424db20cecfe5f001501) | SixSong | **CC BY** | — (273 ♥) | la armadura de cuerpo entero |
+| [Riza Hawkeye - Fanart](https://sketchfab.com/3d-models/none-b3405795a0584c0c97ba99b3c4a7c735) | yuliuskrisna | **CC BY** | 14 396 | uniforme militar en 3D |
+
+Crédito exacto en la lámina o en su hilo: «"<nombre>" by <autor>,
+Sketchfab, CC BY». ⚠️ El único modelo de Roy Mustang
+(`e48f058b1d474f0a81a303a249edfee3`) es **CC BY-NC**: sólo de referencia.
+
+### 4.2 Fan art (Safebooru, las más votadas, sin contenido adulto)
+
+- **Ed y Roy juntos**, 1469×2295, puntuación 22, origen deviantART ⚠️ ·
+  [imagen](https://safebooru.org/images/686/14a1b9e3d703bf006508ca728a8bad2ef255525c.jpg)
+- **Alphonse**, 1023×3043, origen Zerochan ⚠️ ·
+  [imagen](https://safebooru.org/images/2573/22b7fdb19e016aaf32f073ad856ed7364920802d.jpg)
+- **Winry**, 800×1000, origen Pixiv (`naruchan`) ⚠️ ·
+  [imagen](https://safebooru.org/images/467/8fa70a304e4a532e0e3f9fd4f7d781f589b8e2ac.jpg)
+- Hay **menos fan art nuevo** que en series recientes (puntuaciones de 6 a
+  22): la serie es de 2009.
+
+### 4.3 Lo que el fandom etiqueta de cada uno (Danbooru, tag `fullmetal_alchemist`)
+
+- **Edward**: blonde_hair, yellow_eyes, braid, ahoge, red_coat,
+  black_pants, **mechanical_arms**, single_mechanical_arm, gloves, belt ✅
+- **Alphonse**: armor, full_armor, helmet, spikes, gloves (y, de humano,
+  blonde_hair, yellow_eyes) ✅
+- **Roy**: amestris_military_uniform, black_hair, black_eyes,
+  **white_gloves**, blue_jacket, fire ✅
+- **Winry**: blonde_hair, long_hair, blue_eyes, ponytail, earrings,
+  gloves ⚠️ (el resto de sus etiquetas es fan art adulto: filtrado).
+
+Es el vocabulario de §18. Confirma los tres rasgos que más se dibujan de
+Ed: **el automail, el abrigo rojo y la trenza con el mechón de punta**.
+
+### 4.4 Cosplay con licencia libre
+
+- **Edward con el automail extendido hacia cámara** (`_casterclass`,
+  Flickr, 1023×685, **CC BY-NC 2.0**): guante metálico con dedos por
+  segmentos y remaches, **esculpido en volumen**, en una nave industrial ✅
+  (visto) · [imagen](https://live.staticflickr.com/8474/8139539132_b1290277b7_b.jpg)
+- Descartado: un «cosplay de FMA» de Openverse que era de otra serie.
+
+## 5 · Sitios, luz, paleta y texturas reales
+
+Paletas medidas con `herramientas/estilo.py` sobre fotogramas de la wiki
+(1280×800) o de los vídeos. Se cita de qué imagen sale cada una.
+
+| Sitio | Luz y hora | Paleta medida | De dónde |
+|---|---|---|---|
+| **Resembool, casa-taller Rockbell** (cartel «AUTO MAIL» en la fachada) | día soleado, sin nubes: lo más luminoso de la serie | cielo `#87BAE8`, fachada `#E5D8BA`, tejado `#50605A` y `#758679`, césped `#96B791` | [Rockbells-house.png](https://static.wikia.nocookie.net/fma/images/9/94/Rockbells-house.png) ✅ |
+| **Resembool, campo** | día muy luminoso, verdes pastel (brillo 84 %) | `#DCFC9A` `#EDF2E2` `#D7D0C8` `#43682D` | OP1 [0:06](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=6) ✅ |
+| **Resembool, camino entre setos** | verdes más saturados y en sombra | `#1E311A` `#82B486` `#669762` `#334E2F` `#4F724A` | OP1 [0:38](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=38) ✅ |
+| **Ciudad Central**, Cuartel General | día nublado; piedra neoclásica maciza; **estandarte verde** con el escudo | piedra `#808A87` `#A8A9A2`, cielo `#8EACC2` `#4F7AB0` | [Centralcity_movie2.png](https://static.wikia.nocookie.net/fma/images/1/16/Centralcity_movie2.png) ✅ |
+| **Central en batalla** (el tanque contra el muro) | muy desaturado (13 %), gris | `#4C4D58` `#616167` `#BDDAF0` `#383843` | blooper [1:29](https://archive.org/download/turner_video_11409/11409.mp4?t=89) ✅ (la parte lo llamó Ishval: es Central, §28.2) |
+| **Ishval**, mercado de refugiados | interior en sombra, lo más oscuro medido | `#2A2B2A` `#1D1E1B` `#100F0E`, telas `#AFA9AB` `#D9D5D5` | [Ishval-people.png](https://static.wikia.nocookie.net/fma/images/f/f6/Ishval-people.png) ✅ |
+| **Ishval, casa ardiendo** de noche | **rojo sangre** en todo el cuadro (saturación 93 %, brillo 26 %) | `#630113` `#7C031A` `#B60A23` `#310A26` | Vidaextra [0:02](https://www.dailymotion.com/video/x8rhg1x?t=2) ✅ |
+| **Fuerte Briggs** | día despejado muy frío; sombras azules, no grises | `#76A9EC` `#1B263D` `#304060`, nieve `#DBE5FA` | [Fort.png](https://static.wikia.nocookie.net/fma/images/c/c6/Fort.png) ✅ |
+| **Briggs, el muro** | azules pálidos (brillo 72 %) | `#A6C5EE` `#E2E6F2` `#6C707E` `#8390B0` | blooper [4:52](https://archive.org/download/turner_video_11409/11409.mp4?t=292) ✅ |
+| **Bosque nevado de noche** | casi negro con un acento rojo | `#090909` (61 %) + `#C64659` | tráiler [0:12](https://archive.org/download/turner_video_134431/134431.mp4?t=12) ✅ |
+| **Xerxes**, ruinas | mediodía fuerte, sombras marcadas | arenisca `#4B3C33` `#AF9576` `#967B5F`, claros `#CAB59B` `#E1D2B9` | [Ruins.png](https://static.wikia.nocookie.net/fma/images/6/6c/Ruins.png) ✅ |
+| **Lior** (Reole), catedral del culto de Leto | atardecer-noche; ventanas cálidas | `#0B2A47` `#134671` + naranja de ventana | [Lior0.png](https://static.wikia.nocookie.net/fma/images/4/4c/Lior0.png) ✅ |
+| **La Puerta de la Verdad** | blanco vacío, sin sombra | blanco con la figura blanca y la Puerta negra | blooper [4:04](https://archive.org/download/turner_video_11409/11409.mp4?t=244) ✅ (visto, sin medir) |
+
+⚠️ La parte de vídeo dio una paleta violeta de «tejados de Central al
+anochecer» (`#7E4E45` `#66382D` `#875870` `#9A75BF` `#C7B2F4`, tráiler
+0:16). En las dos hojas del tráiler, en 0:16 hay **hombres de traje en un
+callejón**: no encontré ese plano. La paleta queda sin sitio seguro.
+
+**Cómo está pintado el fondo**: degradado y pintado a mano, no cel plano;
+línea fina verde-gris (`#5B734F`, `#A4AB8B`) y casi sin contorno negro
+(OP1, Resembool) ✅.
+
+**Texturas reales equivalentes** (ambientCG, **CC0**):
+- madera de tablón claro (casa Rockbell, suelo del taller):
+  [Wood095](https://ambientcg.com/view?id=Wood095)
+- tierra arcillosa (ruinas de Ishval): [Ground054](https://ambientcg.com/view?id=Ground054)
+- ladrillo agrietado (Ishval, Central): [Bricks105](https://ambientcg.com/view?id=Bricks105)
+- nieve compactada (Briggs): [Snow015](https://ambientcg.com/view?id=Snow015)
+- acero corrugado (Briggs): [CorrugatedSteel009](https://ambientcg.com/view?id=CorrugatedSteel009)
+- ⚠️ tejas de tejado: no hay «RoofingTiles» en ambientCG; queda el ladrillo.
+
+## 6 · Tipografía: una letra para cada uso
+
+### 6.1 Lo que se ve en pantalla
+
+- **El logo** lo diseñó **Tsuyoshi Kusano** (crédito «Title Logo Design»
+  en [AniList](https://anilist.co/anime/5114/staff)). En el OP1 (A10-A11,
+  [0:18](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=18)-0:20)
+  son **kanji 鋼の錬金術師 muy gruesos, con borde gastado**, y debajo
+  «FULLMETAL ALCHEMIST» en **mayúsculas serif muy espaciadas**. Primero
+  sobre fuego, luego sobre un cielo de noche azul ✅ (visto).
+- Según fontmeme.com, el logo occidental se parece a **Geometric Slab Serif
+  703 Extra Bold Condensed** y el subtítulo a **Baskerville Roman** ⚠️ (una
+  fuente; la web bloqueó el segundo acceso).
+- **Eyecatch**: el nombre del personaje en **serif cursiva** blanca
+  («Jean Havoc», blooper [0:26](https://archive.org/download/turner_video_11409/11409.mp4?t=26);
+  «Winry Rockbell», hoja #31) ✅ (visto).
+- **Portada de capítulo del manga**: «Chapter 1:» en una línea fina y el
+  título debajo en **negrita grande**, en blanco, abajo a la izquierda, con
+  la cruz de Flamel al lado (hoja #7) ✅.
+- **Tráiler de FUNimation**: frases en **versalitas serif** sobre papel
+  viejo, con la palabra clave en rojo («You thought you knew **the whole**
+  story», [0:20](https://archive.org/download/turner_video_134431/134431.mp4?t=20)) ✅ (visto).
+- **ED1**: letra **a mano, de cómic**, en inglés («TA-DA», B16) ✅ (visto).
+
+### 6.2 La letra libre para cada uso (comprobadas con fontTools)
+
+Todas descargadas y abiertas con `TTFont(f).getBestCmap()` por el
+investigador de texto: **traen á é í ó ú ñ Ñ ¿ ¡**.
+
+| Uso | Letra libre | Licencia | Tildes, ñ, ¿, ¡ |
+|---|---|---|---|
+| **Logo o título** (como la slab condensada del logo) | **Rokkitt** Black (Google Fonts) | OFL | ✅ |
+| **Globo normal** | **Comic Neue** Bold | OFL | ✅ |
+| **Grito** | **Bangers** | OFL | ✅ |
+| **Pensamiento** (notas de los hermanos, voz interior) | **Permanent Marker** | OFL | ✅ |
+| **Onomatopeya** | **Dela Gothic One** (gótica japonesa gruesa) | OFL | ✅ |
+| **Cartel del mundo** (informes y papeles del ejército) | **Special Elite** (máquina de escribir) | OFL | ✅ |
+| **Subtítulos, créditos, nombre del eyecatch** | **Libre Baskerville** (como la Baskerville del subtítulo) | OFL | ✅ (⚠️ la cursiva no se abrió) |
+| **Interfaz de juego** | ⚠️ ninguna comprobada: el menú del juego de PSP usa una **sans condensada dorada** sobre granate `#6B0000` (§13) | — | — |
+
+También se comprobó **Klee One** (trae todo), sin uso asignado.
+
+### 6.3 Aviso para todo el equipo: Anime Ace
+
+La **Anime Ace gratis** de 1001fonts (`animeace.ttf`, v1 de Blambot) **no
+tiene ni tildes, ni ñ, ni ¿ ¡**: comprobado con fontTools, todo `False` ✅.
+La que sí las trae es la «Anime Ace 2.0 BB» de pago. Antes de usarla en
+cualquier lámina, hay que mirar qué versión se tiene. Confirma lo que ya
+pasó con Haikyuu (DECISIONES.md).
+
+**Combinación recomendada** para esta serie: **Rokkitt Black** (título) +
+**Libre Baskerville** (nombre en la cartela) + **Comic Neue Bold** (lo que
+dice el personaje) + **Special Elite** (si hay un papel militar).
+
+## 7 · Cómo hablan y piensan en pantalla: el cuadro de diálogo
+
+No había nota de FMA en `_Cuadros de dialogo por franquicia` (el
+investigador de texto lo comprobó con grep: 0 resultados). Esto es lo que
+se vio.
+
+### 7.1 La cartela del eyecatch: el cuadro propio de la serie ✅
+
+Es la tarjeta que sale en la pausa de cada capítulo. Vista en el blooper
+([0:26](https://archive.org/download/turner_video_11409/11409.mp4?t=26),
+E16, Jean Havoc) y en las hojas (#31-33, #61-66, Winry y el trío):
+- **Fondo de un color** (naranja, azul, rosa, verde o morado) con un
+  degradado suave, y el personaje **pintado encima**, en una pose de su
+  vida diaria (Havoc con el rifle y el cigarro; Winry con la llave
+  inglesa, con una cámara, en la bañera con un pato).
+- **Un marco fino blanco**, metido hacia dentro, con **volutas de
+  filigrana en las esquinas**.
+- **El nombre en serif cursiva blanca**, abajo a la derecha.
+- **El logo 鋼の錬金術師 / FULLMETAL ALCHEMIST**, en una esquina.
+- En el **doblaje venezolano** estas cartelas y los letreros **los leía en
+  voz alta Gary Matos**; en el mexicano, no ✅ (Doblaje Wiki, «Datos de
+  interés»). Es un puente directo con un canal de doblaje.
+- ⚠️ No se midieron los colores de las cartelas.
+
+**Cómo usarla en la lámina**: el texto del canal va **dentro del marco de
+filigrana**, sobre un color plano de la paleta; el nombre del personaje
+que habla, en cursiva abajo a la derecha. Es la «caja» que un fan
+reconoce, y no es una burbuja.
+
+### 7.2 La portada de capítulo del manga ✅
+
+Hoja #7 ([Chapter1.jpg](https://static.wikia.nocookie.net/fma/images/4/47/Chapter1.jpg), 1800×1350):
+- Ilustración pintada (gouache o acuarela), con el **título en dos líneas
+  abajo a la izquierda**: «Chapter 1:» fino y «The Two Alchemists» en
+  negrita grande, en blanco.
+- Al lado, **el icono de la cruz de Flamel** en blanco, como firma.
+- De fondo, **un círculo de transmutación** de líneas finas celestes
+  (`#7BB3C4`, medido) sobre tuberías y ladrillo.
+
+### 7.3 Objetos que hablan por el personaje ✅
+
+- **El círculo de transmutación** no es adorno: es **la instrucción**.
+  El alquimista lo dibuja con tiza o lo traza con las manos: comprender,
+  descomponer, reconstruir ([fma wiki, Alchemy](https://fma.fandom.com/wiki/Alchemy)).
+- **El reloj de plata** hace de credencial: no lleva texto, sólo el
+  grabado. Se enseña y ya está dicho todo.
+- **El tatuaje de uróboros** delata a un homúnculo sin una palabra (Ed los
+  llama «los del uróboros» antes de saber sus nombres) ([fma wiki](https://fma.fandom.com/wiki/Ouroboros)).
+- La **alquimia de Xing** también usa círculos de tiza en el suelo, no
+  caligrafía ([fma wiki, Alkahestry](https://fma.fandom.com/wiki/Alkahestry)).
+
+### 7.4 El globo dibujado a mano del ED1 ✅ (visto)
+
+ED1 [0:45](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=45)
+(B16): una viñeta *chibi* sobre papel amarillo con **globos de borde
+irregular** y letra de cómic a mano: «You are short as always!» / «What the
+hell did you say!!» / «Ok then we'll get together Al!» y un **«TA-DA»**
+rojo grande. Es el único globo hecho a mano de todo lo que se vio: sirve
+**sólo para tono de broma**.
+
+### 7.5 Los globos del manga ⚠️
+
+En las páginas en blanco y negro de las hojas (#8, #16, #52, #55, en
+miniatura) los globos son **óvalos blancos de trazo fino** con letra de
+cómic (edición inglesa). No se analizaron en grande ni se encontró la
+edición en español. Como el dueño no quiere «una burbuja blanca rara»,
+**para la lámina manda la cartela del eyecatch** (§7.1).
+
+### 7.6 Letras en pantalla del anime
+
+En el máster japonés, **los kanji de expresiones, reacciones y efectos de
+sonido** salen dibujados en pantalla; en la versión latina estaban
+**subtitulados al español** en los capítulos 1-50, y ya no del 51 al 64 ✅
+(Doblaje Wiki, «Datos de interés»).
+
+### 7.7 Los videojuegos (más en §13)
+
+- **PSP** (*Brotherhood*, 2010): **panel granate translúcido** (`#6B0000`,
+  medido) con la **cruz de Flamel roja** arriba a la izquierda, opciones en
+  **texto dorado** y la activa con **barra roja**; retrato a la derecha ✅.
+- **Wii** (*Prince of the Dawn*): se habla con la gente con los comandos
+  «hablar», «mirar» y «tocar» ✅ (texto; no se vio la caja).
+
+### 7.8 Qué NO hacer
+
+- Una **burbuja blanca ovalada** genérica.
+- Letras **redondas e infantiles**: el tono es bélico y filosófico.
+- Un círculo de transmutación **grueso, de colores o relleno**: en la
+  serie son **líneas finas**, blancas, celestes o doradas, a mano o con tiza.
+- ⚠️ Los **papeles militares** (informes, traslados, el examen) no se
+  vieron en ninguna captura: la máquina de escribir de §6 es una
+  **propuesta**.
+
+## 8 · Los personajes: qué transmiten, su cara y sus dinámicas
+
+Fuentes: Personality, Trivia y Relationships de la wiki `fma` (leídas por
+su API), fichas de AniList y los fotogramas de §2. «E», «A» y «B» son
+números de `escenas_01.jpg`.
+
+### 8.1 Edward Elric — el Alquimista de Acero (1.º en popularidad)
+
+- **Carácter**: terco, orgulloso, rápido para enfadarse, poco amigo de
+  la autoridad; presume de su licencia militar. Su apodo viene de ahí:
+  «hagane» (acero) en japonés es también alguien **cabezota** ✅
+  ([fma wiki](https://fma.fandom.com/wiki/Edward_Elric)).
+- **Su herida**: la culpa por el cuerpo de Al. Todo lo hace para
+  devolvérselo. Guarda rencor a su padre, Hohenheim, que los dejó.
+- **Qué transmite**: energía, rabia justa y una ternura que esconde.
+  Hace reír en medio de la violencia (lo nota la reseña de *The Anime
+  Empire*, [3:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=180)).
+- **Cómo se expresa**: grita, exagera, habla rápido (3,18 palabras por
+  segundo en la muestra del doblaje, §10.3). Explica con aplomo de
+  sabelotodo. Escribe con la izquierda (su derecha es automail).
+- **Detalles**: odia la leche; ama el guiso; sus sándwiches, sin corteza ✅
+  (wiki, Trivia).
+
+| Emoción | Su cara | Dónde |
+|---|---|---|
+| alegría, confianza | sonrisa ladeada, ojos dorados abiertos | E1 (tráiler [0:47](https://archive.org/download/turner_video_134431/134431.mp4?t=47)), E2 (blooper [4:12](https://archive.org/download/turner_video_11409/11409.mp4?t=252)) |
+| seriedad | ceño, boca recta, mechones al viento | A13 (OP1 [0:24](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=24)) |
+| concentración | **manos juntas**, ojos cerrados | A15 (OP1 0:28), hoja #56 |
+| rabia, dolor | grito con la boca muy abierta, sangre | E3 (blooper [7:07](https://archive.org/download/turner_video_11409/11409.mp4?t=427)) |
+| angustia | manos juntas cerca de la boca, ojos entrecerrados | tráiler de 2009, ~0:41 ⚠️ ([miniatura](https://archive.org/download/turner_video_11408/turner_video_11408.thumbs/11408_000041.jpg)) |
+| dolor cómico | golpe de llave inglesa en la cabeza, *chibi* | E6 (tráiler [0:54](https://archive.org/download/turner_video_134431/134431.mp4?t=54)) |
+| tristeza, vergüenza | ❌ sin fotograma: no se pudo abrir ningún capítulo | — |
+
+### 8.2 Alphonse Elric — el alma en la armadura (4.º)
+
+- **Carácter**: calmado, bondadoso, paciente «casi hasta el exceso».
+  Más maduro que Ed aunque sea el menor. Su enfado tarda más en salir, y
+  bromea con que Ed siempre se enfada antes. También lleva oscuridad por
+  todo lo vivido ✅ (wiki, Personality).
+- **Qué transmite**: ternura y fuerza tranquila. En Reddit lo llaman
+  «santo»: aguanta años sin sentir nada y se queja «sólo una vez» ✅.
+- **Detalles**: **ama los gatos**; sólo deja entrar **mujeres y gatos** en
+  su armadura; cargó con la panda Xiao-Mei creyendo que era un gato ✅.
+  Ed dice que Al pelea mejor que él ✅ (wiki, Abilities).
+- **Su cara** (es una armadura: la cara son **los ojos de luz**): ojos
+  rojos encendidos al presentarse (E7, tráiler [0:46](https://archive.org/download/turner_video_134431/134431.mp4?t=46);
+  A21, OP1 0:40); **ojos blancos redondos** en los gags (tráiler
+  [0:39](https://archive.org/download/turner_video_134431/134431.mp4?t=39));
+  inerte, con Ed encima (E8, blooper 7:15). ❌ Sin fotograma de Al
+  humano llorando o avergonzado.
+
+### 8.3 Roy Mustang — el Alquimista de la Llama (2.º)
+
+- **Carácter**: parece vago, engreído y mujeriego; es **fachada**. Por
+  dentro es un estratega brillante que quiere ser Führer para cambiar el
+  país desde dentro, por la culpa de Ishval ✅ (wiki, Personality).
+- **Su punto débil**: **la lluvia**. Le trae Ishval y con los guantes
+  mojados no hay chispa ✅ (wiki, Trivia).
+- **Detalles**: vive solo, con «poco más que un sofá» (Arakawa, *Guidebook*);
+  ojos negros ✅. **Guantes blancos con el círculo de fuego cosido en el
+  dorso** (hoja #29, vista de espalda).
+- **Cómo se expresa**: voz grave y medida (108 Hz), ritmo tranquilo;
+  estalla de rabia en la muestra de la muerte de Hughes (§10.3).
+
+| Emoción | Su cara | Dónde |
+|---|---|---|
+| serio | ceño fruncido, mirada fija | E9 (blooper [1:20](https://archive.org/download/turner_video_11409/11409.mp4?t=80)) |
+| ligero, galán | media sonrisa, ramo de flores en la mano | E10 (blooper [3:10](https://archive.org/download/turner_video_11409/11409.mp4?t=190)) |
+| poder | de espaldas contra un fondo de fuego | A24 (OP1 [0:46](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=46)) |
+| herido, tras la batalla | ojos cerrados, junto a Riza | E11 (blooper [7:19](https://archive.org/download/turner_video_11409/11409.mp4?t=439)) |
+| altivo | contrapicado | hoja #59 |
+
+### 8.4 Winry Rockbell — la mecánica de automail (5.ª)
+
+- **Carácter**: buena, empática y ambiciosa. **El automail es su pasión**,
+  no sólo su trabajo: se emociona con piezas buenas (Ed la llama «friki
+  del automail») y **se enfada si maltratan su trabajo** ✅ (wiki).
+- **Historia**: la crió su abuela Pinako, a la que ya **supera**; con 11
+  años le hizo a Ed el brazo y la pierna; trabaja en el taller Garfiel de
+  Rush Valley ✅ (wiki, Abilities).
+- **Detalles**: lleva **muchos pendientes** porque Ed y Al le regalaban
+  aretes; se dejó el pelo largo al ver a Riza ✅ (Trivia de Winry y de Riza).
+- **Su cara**: niña, **gritando** con las manos en la boca (E14, blooper
+  [7:26](https://archive.org/download/turner_video_11409/11409.mp4?t=446));
+  escuchando, de perfil (E13, [2:38](https://archive.org/download/turner_video_11409/11409.mp4?t=158));
+  **exasperada, tapándose la cara en su banco** (B19-B20, ED1 [0:54](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=54)-0:57);
+  feliz con un automail (hoja #60); la **hoja oficial de caras** (#80).
+  ⚠️ Poco vídeo suyo: faltan rabia y tristeza en fotograma.
+
+### 8.5 Los secundarios que más pesan
+
+- **Riza Hawkeye** (3.ª, la mujer más votada): leal a Roy, **pero le
+  desobedece** si él intenta sacrificarse; tiene permiso de él para
+  **dispararle si se tuerce**. Es su conciencia. Tiradora; perro Black
+  Hayate; 168 cm ✅ (wiki). Cara: herida, firme, junto a Roy (E11).
+- **Maes Hughes** (el secundario que más citan los fans, §9): mejor amigo de Roy y su
+  mayor apoyo; «padre de familia devoto», padre de Elicia ✅
+  (AniList). Cálido y efusivo: **el más expresivo** de las voces medidas
+  (23,3 semitonos, §10.3). Cara: serio con la pistola (E12, tráiler
+  [0:24](https://archive.org/download/turner_video_134431/134431.mp4?t=24));
+  **alarmado al teléfono** (tráiler de 2009, ~0:35 ⚠️,
+  [miniatura](https://archive.org/download/turner_video_11408/turner_video_11408.thumbs/11408_000035.jpg)).
+- **Alex Louis Armstrong**: parece temible, es **cariñoso de más**;
+  presume de las técnicas de su familia (y de sus músculos, blooper
+  [3:53](https://archive.org/download/turner_video_11409/11409.mp4?t=233)) ✅ (AniList).
+- **Olivier Mira Armstrong**: general de Briggs; se ríe del intercambio
+  equivalente: «sobrevive el más fuerte» ✅ (AniList).
+- **Ling Yao**: príncipe de Xing, relajado y **siempre con hambre**, noble
+  con los suyos ✅ (AniList).
+- **Greed**: homúnculo avaricioso que **cuida de los suyos** ✅ (AniList).
+- **Scar**: vengador de Ishval; su brazo derecho es el de su hermano,
+  tatuado (blooper [6:50](https://archive.org/download/turner_video_11409/11409.mp4?t=410)) ✅.
+- **King Bradley**: el Führer; tranquilo y amable incluso al ordenar una
+  batalla, maestro del sable ✅ (AniList). Parche en el ojo (E18).
+- **Envidia**: cambia de forma y de voz; se enfurece si le insultan ✅.
+- **Izumi Curtis**: la maestra de los hermanos: «para entrenar el
+  espíritu, primero entrena el cuerpo» ✅ (wiki, Abilities de Ed y Al).
+- **Pinako Rockbell**: la abuela de Winry, antes famosa como «la Pantera
+  de Resembool» ✅ (wiki).
+
+### 8.6 Dinámicas (para láminas en grupo)
+
+| Pareja | Cómo es | Fuente |
+|---|---|---|
+| Ed y Al | discuten a menudo, pero cada uno moriría por el otro; **Al cuida a Ed** por dentro | wiki, Relationships ✅ |
+| Ed y Roy | «animosidad amistosa»: Roy le chincha, Ed esquiva sus órdenes; cómplices contra los homúnculos | wiki ✅ |
+| Ed y Winry | ella le arregla (y le pega con la llave); él la llama «friki del automail»; **acaban juntos con hijos** | wiki ✅ |
+| Roy y Riza | lealtad total; «Royai», el ship más grande; no se casan sólo por el reglamento militar (Artbook 3) | wiki, Trivia de Roy y de Riza ✅ |
+| Roy y su equipo | **piezas de ajedrez**: Fuery peón, Falman alfil, Havoc caballo, Breda torre, Hawkeye reina, Roy rey | wiki ✅ |
+| Roy y Hughes | mejores amigos; Hughes empuja su plan de ser Führer | AniList ✅ |
+| Winry y Riza | Winry se dejó el pelo largo por Riza; Riza se puso pendientes por Winry | wiki ✅ |
+| Ed y Hohenheim | rencor por el abandono; su padre es el único que le hace llorar de mayor | wiki ⚠️ (una fuente) |
+
+## 9 · ¿Quién es el más querido?
+
+**Edward**, y de cerca **Roy Mustang**. La mujer más votada es **Riza
+Hawkeye** (por encima de Winry). En los comentarios de fans, el secundario
+que más duele es **Maes Hughes**; en los números le ganan Ling y Greed.
+
+| # | Personaje | AniList (favoritos) | Encuesta de fans («final fan poll», wiki) | Dibujos de fans (Danbooru) |
+|---|---|---|---|---|
+| 1 | Edward Elric | 19 253 | **1.º** | 2 661 |
+| 2 | Roy Mustang | 14 478 | **2.º** | 1 070 |
+| 3 | Alphonse Elric | 7 332 | 4.º | 1 370 |
+| 4 | Winry Rockbell | 4 155 | 5.ª | 1 245 |
+| 5 | Riza Hawkeye | 4 139 | **3.ª** (la mujer más votada) | 999 |
+| 6 | Ling Yao | 3 666 | — | — |
+| 7 | Greed | 2 982 | — | — |
+| 8 | **Maes Hughes** | 2 875 | — | — |
+| 9 | Scar | 2 450 | — | — |
+| 10 | Olivier Mira Armstrong | 2 369 | — | — |
+
+Fuentes: [AniList](https://anilist.co/anime/5114) ✅; la encuesta la cita
+la wiki en las Trivia de Ed, Roy, Riza y Winry (mismo orden en las cuatro
+páginas) ⚠️ (no dice quién la hizo ni cuándo); Danbooru
+([counts](https://danbooru.donmai.us/counts/posts.json?tags=edward_elric)) ✅.
+
+- **Encuesta oficial**: Edward ganó **«personaje masculino favorito»** en
+  la **26.ª encuesta de lectores de *Animage*** (Japón, 2003, con la serie
+  de 2003) ✅ (wiki + [furinkan.com](https://www.furinkan.com/features/articles/charactersmale.html)).
+- **Roy**, 2.º «en cada encuesta desde su debut» (búsqueda web de la
+  parte de voz) ⚠️.
+- **Por qué Hughes es el secundario**: en dos hilos de r/FullmetalAlchemist
+  ([«Tell me your favorite character and why»](https://old.reddit.com/r/FullmetalAlchemist/comments/1sk23t1/tell_me_your_favorite_character_and_why/),
+  159 puntos; [«Who is your favorite side character?»](https://old.reddit.com/r/FullmetalAlchemist/comments/1vxhv6u/who_is_your_favorite_side_character/),
+  57 puntos) es el nombre que más se repite fuera del cuarteto («will
+  always be my number 1, it still hurts all these years later»), junto a
+  Bradley, Greed, Armstrong, Pinako y Scar. En AniList es el 8.º (por
+  detrás de Ling y Greed): la parte de voz decía que era el secundario con
+  más favoritos, y no es así (§28.2). Queda como **el más amado en los
+  comentarios**, no en los números ⚠️.
+- **La serie entera**: 244 136 favoritos en [MyAnimeList](https://myanimelist.net/anime/5114) ✅.
+- ⚠️ No se encontró ninguna **encuesta hispana** de personajes.
+
+**Para la lámina**: Edward para el canal principal (§27 A); si se quiere
+un secundario, **Roy con Riza** (§27 C) pesa más que otros nombres; Hughes
+es el más querido, pero su historia es la de una muerte (§22): mejor como
+guiño que como presentador.
+
+## 10 · Doblaje latino y frases textuales
+
+Fuente base: el wikitext de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Fullmetal_Alchemist:_Brotherhood)
+por su API (`action=parse&prop=wikitext`). Tiene **dos pestañas de
+reparto**, una por doblaje. Segunda fuente: [ANMTV](https://www.anmtvla.com/2021/10/fullmetal-alchemist-brotherhood-estrena_88.html)
+y la ficha de [AniList](https://anilist.co/anime/5114) («Spanish VA»).
+
+### 10.1 Hay dos doblajes latinos completos
+
+| | Doblaje 1 · Animax | Doblaje 2 · Funimation (redoblaje) |
+|---|---|---|
+| País y años | **Venezuela**, 2011-2012 | **México**, 2021 |
+| Estudio | **M&M Studios**: fue **el último anime** que grabó antes de cerrar (abril de 2012) ✅ | **C&G Dubbing Studio** (antes Artworks Digital Studio) ✅ |
+| Dirección | casting de **Maythe Guedes**; sin director fijo ⚠️ | **Gerardo Ortega y Óscar López** ✅ (Doblaje Wiki + ANMTV) |
+| Traducción | del japonés, con un guion en inglés de apoyo | **Jennifer Medel** (ep. 1-49 y 61) y **Ai Enomoto** (el resto) |
+| Estreno | Animax, licencia de enero de 2011 ([ANMTV](https://www.anmtvla.com/2011/01/animax-latinoamerica-compro-fullmetal.html?m=1)) | Funimation, **14-oct-2021** (ep. 1-24), 28-oct (25-50), el resto en noviembre ✅ |
+| Ritmo | Animax dio **dos semanas para los 7 primeros capítulos** (Eder La Barrera) | — |
+
+### 10.2 Quién dobla a cada uno
+
+| Personaje | Seiyū | Animax (Venezuela) | Funimation (México) | Dos fuentes |
+|---|---|---|---|---|
+| **Edward Elric** | Romi Park | **José Manuel Vieira** | **José Manuel Vieira** | ✅ Doblaje Wiki + AniList |
+| **Alphonse Elric** | Rie Kugimiya | **Jhonny Torres** | **Jhonny Torres** | ✅ Doblaje Wiki + AniList |
+| **Roy Mustang** | Shinichirō Miki | **Rolman Bastidas** | **Rafael Escalante** | ✅ Doblaje Wiki + AniList |
+| **Winry Rockbell** | Megumi Takamoto | **Melanie Henríquez** | **Montserrat Aguilar** | ✅ Doblaje Wiki + AniList |
+| Riza Hawkeye | Fumiko Orikasa | Rocío Mallo | Annie Rojas | ✅ Doblaje Wiki + AniList (cita a las dos) |
+| Maes Hughes | Keiji Fujiwara | Sergio Pinto | Alfredo Gabriel Basurto | Funimation ✅; Animax ⚠️ |
+| Ling Yao | Mamoru Miyano | Eder La Barrera | Gerardo Ortega | Funimation ✅; Animax ⚠️ |
+| Greed / Codicia | Yūichi Nakamura | Salvador Pérez | Óscar López | Funimation ✅; Animax ⚠️ |
+| Scar / Cicatriz | Kenta Miyake | Adolfo Nittoli | Ricardo Brust | Funimation ✅; Animax ⚠️ |
+| Alex Louis Armstrong | Kenji Utsumi | Juan Guzmán | Octavio Rojas | Funimation ✅; Animax ⚠️ |
+| Olivier Mira Armstrong | Yōko Sōmi | Claudia Nieto | Liliana Barba | Funimation ✅; Animax ⚠️ |
+| King Bradley / Ira | Hidekatsu Shibata | José Granadillo | Carlos Segundo | Funimation ✅; Animax ⚠️ |
+| Van Hohenheim | Unshō Ishizuka | Héctor Indriago | Gerardo Reyero | Funimation ✅; Animax ⚠️ |
+| Envidia | Minami Takayama | Yvette García | Jahel Morga | Funimation ✅; Animax ⚠️ |
+| Izumi Curtis | Shōko Tsuda | Citlalli Godoy | Rommy Mendoza | Funimation ✅; Animax ⚠️ |
+| Lujuria | Kikuko Inoue | Elena Díaz Toledo | Georgina Sánchez | Funimation ✅; Animax ⚠️ |
+| Solf J. Kimblee | Hiroyuki Yoshino | Víctor Díaz | Manuel Campuzano | Funimation ✅; Animax ⚠️ |
+| May Chang | Mai Gotō | María José Estévez | Nycolle González | ✅ AniList cita a las dos |
+| Lan Fan | Nana Mizuki | Leisha Medina | Wendy Malvárez | Funimation ✅; Animax ⚠️ |
+| Jean Havoc | Yūji Ueda | Angel Balam | Carlos Monroy | Funimation ✅; Animax ⚠️ |
+| Pinako Rockbell | Miyoko Asō | Valentina Toro | Olga Hnidey | ⚠️ sólo Doblaje Wiki |
+| Trisha Elric | Yoshino Takamori | Maritza Rojas | Patricia Hannidez | ⚠️ sólo Doblaje Wiki |
+| La Verdad | (la voz de quien le habla) | José Méndez (y Nayip Rodríguez al final) | Eduardo Garza | Funimation ✅; Animax ⚠️ |
+
+Los nombres ⚠️ sólo salen en Doblaje Wiki (la tabla y sus «Datos de
+interés»): falta una segunda fuente. La lista completa (32 personajes por
+doblaje) la sacó el investigador de voz del wikitext.
+
+**Datos de oficio** (Doblaje Wiki, «Datos de interés»):
+- **Jhonny Torres** es el único actor que ha doblado a **Alphonse en todas
+  las versiones** de la franquicia ✅ (tabla + trivia).
+- En Animax **volvieron muchas voces de la serie de 2003**: Vieira, Torres,
+  Bastidas, Nittoli (Cicatriz), Víctor Díaz (Kimblee), Sergio Pinto
+  (Hughes), Maritza Rojas (Trisha)…
+- En Animax **todos los personajes con armadura** llevan **filtro de voz**
+  (en 2003 sólo Al). La Verdad tiene filtro de vibración en los caps. 2 y
+  20, y de eco en el resto.
+- En el cap. 4, la voz de Nina quimera **no** lleva filtro en el doblaje;
+  en el 5 (la pesadilla de Ed) sí; en el 26, Leisha Medina usa **su voz
+  grave** en vez de filtro.
+- Del *live action* de 2017 repiten en el redoblaje **Jhonny Torres** y
+  **Montserrat Aguilar** ⚠️.
+- **Herman López** (Sig Curtis) enfermó durante el redoblaje y murió el
+  19-dic-2021; un actor sin identificar le sustituyó desde el cap. 62 ⚠️.
+  Dato delicado: **no llevarlo a una lámina**.
+
+### 10.3 Frases textuales (muestras de audio de Doblaje Wiki, doblaje Animax)
+
+Transcritas con `voz.py` (Whisper en local). El minuto es **el segundo
+dentro de la muestra**, no el del capítulo. Registro, expresividad y
+velocidad, medidos.
+
+| Personaje (actor) | Frase textual | Segundo | Cómo suena |
+|---|---|---|---|
+| **Edward** (José Manuel Vieira) | «¿Por qué nadie entiende que **la alquimista de acero** soy yo?» | 0:53 | medio (177 Hz), muy expresivo (16,5 semitonos), **rápido** (3,18 palabras/s) |
+| **Edward** | «Parece que tendré que obligarte a entregármelo» | 0:49 | ídem |
+| **Roy** (Rolman Bastidas) | «Tú mataste a Hughes, será todo lo que necesitaba saber… ya no tienes que decir nada más» | 0:40-0:46 | **grave** (108 Hz), expresivo (10,7), ritmo normal (2,03) |
+| **Roy** | «Empezó a llover» | 0:35 | ídem |
+| **Maes Hughes** (Sergio Pinto) | «Los hombres son criaturas que dejan que sus acciones hablen por ellos… cuando sienten dolor no quieren que otros sufran ni se preocupen» | 0:34-0:38 | grave (134 Hz) pero **el más expresivo** (23,3) |
+| **Trisha** (Maritza Rojas) | «Son hijos de su padre, estoy orgullosa de ustedes» | 0:18-0:20 | agudo (227 Hz), expresiva (20,5) |
+| **Alphonse niño** | «Hermano, tengo hambre… hace frío… vayamos a casa» | 0:02-0:09 | medio (190 Hz), **lento** (1,79), triste |
+| **Winry niña** | «¿Están leyendo otra vez un libro que no es de la escuela?… no es justo, siempre guardan secretos entre ustedes» | 0:17-0:23 | muy agudo (305 Hz), la más rápida (3,56) y expresiva (28,3) |
+
+Audios: [Edward](https://static.wikia.nocookie.net/doblaje/images/0/04/EdwardElric%28Audio%29FMAB.mp3),
+[Roy](https://static.wikia.nocookie.net/doblaje/images/d/d0/RoyMustang%28Audio%29FMAB.mp3),
+[Hughes](https://static.wikia.nocookie.net/doblaje/images/1/1d/MaesHughes%28Audio%29FMAB.mp3),
+[Trisha](https://static.wikia.nocookie.net/doblaje/images/a/a1/TrishaElric%28Audio%29FMAB.mp3).
+✅ (transcripción propia sobre audio oficial). ⚠️ «la alquimista de acero»
+es lo que oyó Whisper: hay que confirmarlo oyendo (¿«el alquimista»?).
+
+### 10.4 Lo que no se pudo
+
+⚠️ No hay **clips oficiales doblados** que se pudieran bajar: YouTube pidió
+iniciar sesión (y dio 429 al reintentar), Dailymotion sólo tiene tráilers
+sin doblar e Internet Archive no tiene la serie doblada. Las frases de
+Ed, Al y Winry mayores **en una escena larga** quedan por oír (§28).
+
+### 10.5 El vocabulario del doblaje latino (Doblaje Wiki, «Datos de interés») ✅
+
+- **«Equivalencia de intercambio»** (Animax) pasó a **«intercambio
+  equivalente»** (Funimation; Animax también lo decía a veces).
+- **«Alquimista de Acero»** es el apodo de Ed; los avances del redoblaje
+  llaman a la serie «**Fullmetal Alchemist: El Alquimista de Acero**».
+- Los homúnculos: **Lujuria, Gula, Envidia, Avaricia/Codicia, Ira, Pereza,
+  Orgullo** y **Padre**. Greed empieza como «Avaricia» y luego es
+  «Codicia» («Codicia, el avaricioso»). Scar es **Cicatriz**; los de Ishval,
+  **ishvalanos**.
+- En el cap. 10, «Führer» se tradujo **«Generalísimo»**.
+- Cap. 2: Pinako a Ed: «no fue eso, **Pulgarcito**».
+- Cap. 53: un técnico de radio suelta «**¡Ahí te voy, San Pedro!**» (la
+  de Burro en *Shrek*). Cap. 56: Bradley dice «**Sabandija**», con un tono
+  a lo Piccolo.
+- En el redoblaje se oye «**carajo**» (Codicia y Havoc).
+- **Pronunciación**: «Winly» (Animax) / «Winrry» (Funimation); «Máis» /
+  «Mās» (Hughes); «Joenjáim» / «Jojenjáim» (Hohenheim); «Íshval» / «Ishvál».
+- **Envidia** va en **masculino** en los dos doblajes (en japonés no tiene
+  género). No cambiarlo al escribir.
+- En Venezuela, **Gary Matos** leía los letreros y las cartelas.
+
+## 11 · Música y sonido
+
+### 11.1 Openings y endings ✅
+
+Confirmados en la [wiki `fma`](https://fma.fandom.com/wiki/Fullmetal_Alchemist:_Brotherhood)
+(«Theme Songs») y en los archivos del Blu-ray subidos a Internet Archive.
+
+| # | Tema | Intérprete | Capítulos | Vídeo sin créditos |
+|---|---|---|---|---|
+| OP1 | Again | YUI | 1-14 | [1:30](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4) |
+| OP2 | Hologram | NICO Touches the Walls | 15-26 | [1:30](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/03.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2002%20%5BNICO%20Touches%20the%20Walls%20-%20Hologram%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4) |
+| OP3 | Golden Time Lover | Sukima Switch | 27-38 | [1:30](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/04.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2003%20%5BSukima%20Switch%20-%20Golden%20Time%20Lover%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4) |
+| OP4 | Period | CHEMISTRY | 39-50 | [1:33](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/05.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2004%20%5BBD%201920x1080%20x264%20FLAC%5D.mp4) |
+| OP5 | Rain | SID | 51-60, 62 | [1:33](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/06.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2005%20%5BBD%201920x1080%20x264%20FLAC%5D.mp4) |
+| ED1 | Uso (嘘) | SID | 1-14 | [1:30](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4) |
+| ED2 | Let It Out | Miho Fukuhara | 15-26 | — |
+| ED3 | Tsunaida Te | Lil'B | 27-38 | — |
+| ED4 | Shunkan Sentimental | SCANDAL | 39-50 | — |
+| ED5 | Ray of Light | Shoko Nakagawa | 51-62 | — |
+| ED6 | Rain (de nuevo) | SID | 63 | — |
+| ED7 | Hologram (de nuevo) | NICO Touches the Walls | 64 | — |
+
+⚠️ El `.mp4` que se puede bajar mide **852×480** aunque el nombre diga
+1080p (medido con `ffprobe`).
+
+### 11.2 El OP1 «Again», visto (hoja A, cada 2 s)
+
+Cortes de 2 a 4 segundos, al ritmo de la guitarra. Lo que se ve:
+- 0:02-0:04: un círculo adornado con flores entre **cortinas moradas**, y
+  un joven rubio de camisa blanca (A2-A3) ⚠️ no sé quién es (la parte dijo
+  «Winry», y no lo es: §28.2).
+- 0:06: **Trisha** con la casa de Resembool detrás (A4). 0:10: **Hohenheim**
+  con gafas (A6). 0:12: una **llama roja** en la oscuridad (A7).
+- 0:18-0:20: **el logo** sobre fuego y luego sobre cielo nocturno (A10-A11).
+- 0:22-0:28: Ed con el abrigo rojo en un campo dorado, al viento; en 0:28
+  **junta las manos** (A12-A15).
+- 0:36: Ed y Al **niños durmiendo** (A19). 0:40: el casco de Al con ojos
+  rojos (A21). 0:44: **Hughes** (A23). 0:46: **Roy** de espaldas contra el
+  fuego (A24). 0:50: Ed niño corre con rayos de alquimia ante una casa (A26).
+- 0:58: Havoc y Fuery **sorprendidos**, con signos de exclamación rojos:
+  gag (A30). 1:02: **Bradley** (A32). 1:10-1:14: **Scar bajo la lluvia**
+  (A36-A38). 1:20: Ed da una patada (A41). 1:22: **Gluttony** (A42).
+- 1:26-1:28: destello blanco y tierra roja al atardecer (A44-A45).
+
+### 11.3 El ED1 «Uso», visto (hoja B, cada 3 s)
+
+**Otro estilo**: dibujo *chibi* a mano sobre **papel con textura de
+acuarela**, naranja y mostaza, casi sin línea negra ✅.
+- 0:03-0:09: Ed *chibi* enseña el brazo de automail; la mano metálica en
+  grande (B2-B4).
+- 0:24: Winry con su perro Den (B9). 0:39: Roy, Riza y Ed (B14). 0:42:
+  **Armstrong abraza a Ed** (B15). 0:45: los **globos a mano** y el
+  «TA-DA» (B16, §7.4).
+- 0:48-0:57: **el banco de trabajo de Winry**: tarros, llave inglesa,
+  martillo, tornillos, papeles y una cortina rosa; Winry se tapa la cara
+  (B17-B20). Es el sitio de §27 B.
+- 1:00: Al solo en un cuarto azul con una estantería (B21).
+- 1:21: **la esfera de un reloj de bolsillo** en grande (B28). 1:24: Ed con
+  el abrigo rojo y **la cruz de Flamel** (B29). 1:27: Ed y Al de espaldas
+  en la **vía del tren** (B30).
+
+### 11.4 La banda sonora
+
+- **Akira Senju**, *Original Soundtrack 1, 2 y 3* (2009-2010) ✅
+  ([MusicBrainz](https://musicbrainz.org/release-group/e5bd2535-915c-4d4f-88ae-8fb6a0b771a4)
+  + [wiki](https://fma.fandom.com/wiki/Fullmetal_Alchemist_Brotherhood_Original_Soundtrack_1)).
+  ⚠️ La parte dice que se grabó con la Filarmónica de Varsovia, sin fuente.
+- **«Requiem for the Brigadier General»**: orquesta lenta, la muerte de
+  Hughes (ep. 10, 16:45-18:49) ⚠️ (un listado de fans,
+  [fmabostlist](https://sites.google.com/view/fmabostlist/episodes/1-16)).
+- **«Trisha's Lullaby»**: nana de piano de la madre; en los flashbacks de
+  la infancia (ep. 2-6) ⚠️ (mismo listado).
+- **«One is All, All is One»**: el tema del lema; desde el ep. 1 ⚠️.
+- **Equipo de sonido** (AniList): dirección de sonido **Masafumi Mima**,
+  efectos **Shizuo Kurahashi** ✅.
+
+### 11.5 Efectos y onomatopeyas
+
+- La transmutación suena a **chispazo eléctrico** con destello: rayos
+  azules (tráiler [0:14](https://archive.org/download/turner_video_134431/134431.mp4?t=14))
+  ✅ (visto). ⚠️ No se encontró el nombre del efecto ni una fuente que lo
+  describa.
+- El **doblaje en inglés** usa efectos de librería (Hollywood Edge, Sound
+  Ideas: crujidos, golpes metálicos, yunque) ✅
+  ([Soundeffects Wiki](https://soundeffects.fandom.com/wiki/Fullmetal_Alchemist:_Brotherhood)).
+- En la versión latina, los **kanji de efectos en pantalla** salían
+  subtitulados hasta el cap. 50 (§7.6).
+
+## 12 · Vídeos y tendencias
+
+### 12.1 Oficiales (mirados, no sólo por el título)
+
+- **Tráiler de la OVA Collection** (FUNimation, 2013), 1920×1080, 58 s ✅ ·
+  [Internet Archive](https://archive.org/details/turner_video_134431). Lo
+  mejor: Hughes con la pistola [0:24](https://archive.org/download/turner_video_134431/134431.mp4?t=24),
+  Ed sonriendo [0:47](https://archive.org/download/turner_video_134431/134431.mp4?t=47),
+  el gag de la llave [0:54](https://archive.org/download/turner_video_134431/134431.mp4?t=54).
+- **Blooper reel del vol. 5** (FUNimation), 7:33 ✅ ·
+  [Internet Archive](https://archive.org/details/turner_video_11409). Lo
+  presenta **Mike McFarland**, director de doblaje y voz de Havoc
+  ([0:00](https://archive.org/download/turner_video_11409/11409.mp4?t=0)):
+  tomas falsas del doblaje inglés sobre metraje real. Interesa a un canal
+  de doblaje: se oye cómo se equivocan y se ríen en la cabina
+  ([1:00](https://archive.org/download/turner_video_11409/11409.mp4?t=60)-[7:00](https://archive.org/download/turner_video_11409/11409.mp4?t=420),
+  transcrito en `partes/episodios.md`). ⚠️ Tiene palabrotas en inglés.
+- **Dynit** (Italia), evento de cine con los caps. 59-64 (17, 18 y 19 de
+  noviembre; el 17 en japonés, 18-19 doblado) ✅ ·
+  [Dailymotion `x9rfq9q`](https://www.dailymotion.com/video/x9rfq9q).
+- **Vidaextra**, tráiler con subtítulos en español, 20 303 vistas ✅ ·
+  [Dailymotion `x8rhg1x`](https://www.dailymotion.com/video/x8rhg1x) (§2.4).
+- **Tráiler de Cartoon Network / Toonami (2009)** ⚠️ ·
+  [Internet Archive `turner_video_11408`](https://archive.org/details/turner_video_11408):
+  sólo se miraron sus 12 miniaturas («One nation… and governed by
+  secrets», «They must survive»). Hughes al teléfono (~0:35) ✅; el que
+  grita en ~0:46 **no es Ed** (pelo negro, bufanda a rayas, §28.2).
+- ⚠️ El tráiler que enlaza AniList en YouTube (`1ac3_YdSSy0`) no se pudo
+  abrir: YouTube pedía iniciar sesión.
+
+### 12.2 Mal etiquetados (para no usarlos)
+
+- Dailymotion `x88ab2g` («Sensacine México, tráiler oficial») es un **AMV
+  de fans** con una falsa calificación «FMA-18» ⚠️.
+- Dailymotion `x22nwtd` (el que el recolector dio como opening, ending y
+  tráiler) es el tráiler de la **película *La estrella sagrada de Milos***
+  (2011) ⚠️.
+
+### 12.3 Análisis en vídeo
+
+**«The Anime Empire», reseña del cap. 1** (Blip.tv, 2013, archivada) ✅ ·
+[vídeo](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4):
+- [0:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=0):
+  casi todos los primeros capítulos de anime son flojos; éste «lo
+  recomendaría».
+- [1:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=60):
+  al ser una segunda versión (tras la de 2003) ya tenía fans y pudo
+  empezar a lo grande.
+- [2:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=120):
+  el cap. 1 abre con **McDougal, el Alquimista Congelador**; se oye a Ed
+  presentarse («My name is Edward Elric. This is my younger brother»).
+- [3:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=180):
+  hay muertos y un asesino, «pero la serie pasa a la comedia sin
+  esfuerzo… y funciona»; el chiste de la estatura ya asoma.
+
+⚠️ No se pudo abrir ningún análisis de YouTube (bloqueado).
+
+### 12.4 Tendencias
+
+- En TikTok siguen los *edits* de FMAB (2024-2025): cuentas como
+  `@fullmetaledit`, la etiqueta `#fullmetalalchemist` y «Sad Fullmetal
+  Alchemist Brotherhood Edit» (escenas tristes con música *indie*) ⚠️
+  ([TikTok Discover](https://www.tiktok.com/discover/fullmetal-alchemist-brotherhood-edit);
+  sin vistas ni fechas: TikTok no se abre sin sesión).
+- Fan dubs y covers en español: §23.
+
+## 13 · Videojuegos de la franquicia
+
+- **Ningún juego de FMA en Steam** ✅ (API de la tienda: 0 resultados).
+- **La lista** ✅ ([wiki](https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_Video_Games)):
+  - Línea de 2003: *and the Broken Angel* (PS2), *Curse of the Crimson
+    Elixir* (PS2), *The Girl Who Succeeds God* (PS2, sólo Japón), *Dream
+    Carnival* (PS2), *Stray Rondo* y *Sonata of Memories* (GBA), *Dual
+    Sympathy* y un juego de cartas (DS), 4 juegos flash de Adult Swim.
+  - Línea de Brotherhood: ***Prince of the Dawn*** y ***Daughter of the
+    Dusk*** (Wii, sólo Japón), ***Brotherhood*** (PSP, Bandai Namco), ***To
+    the Promised Day*** (PSP) y ***Fullmetal Alchemist Mobile***.
+
+### 13.1 *Brotherhood* (PSP, 2010): la interfaz, vista ✅
+
+Tres capturas reales de [The Video Games Museum](https://www.video-games-museum.com/en/game/Fullmetal-Alchemist-Brotherhood/89/5/43998)
+(480×272), miradas y medidas:
+- **Menú**: panel **granate oscuro translúcido** (`#6B0000`), **cruz de
+  Flamel roja** arriba a la izquierda, opciones en **dorado** («Story
+  Mode», «Free Battle Mode», «Multiplayer», «Gallery Mode», «Options»), la
+  activa con una **barra roja**; retrato de Lan Fan a la derecha; ayudas de
+  botones al pie.
+- **Combate**: nombres flotando sobre las cabezas con un **rombo
+  amarillo**; abajo a la izquierda, aliados con **barra de vida
+  horizontal** (Alphonse en celeste) y un icono redondo verde.
+- Acción cooperativa **hasta 4 jugadores**, misiones por personaje ✅
+  ([GameFAQs](https://gamefaqs.gamespot.com/psp/961552-hagane-no-renkinjutsushi-senaka-o-takuseshimono)).
+
+### 13.2 Los demás
+
+- ***Prince of the Dawn*** (Wii, 2009): aventura por Ciudad Central; Ed y
+  Al hablan con la gente con **«hablar», «mirar» y «tocar»** ✅
+  ([GBAtemp](https://gbatemp.net/threads/fullmetal-alchemist-prince-of-the-dawn-details.139971/),
+  [wiki](https://fma.fandom.com/wiki/Fullmetal_Alchemist:_Prince_of_the_Dawn)).
+  Hoja #84: Ed con el mando de Wii (promoción) ⚠️.
+- ***Fullmetal Alchemist Mobile*** (Square Enix): sólo Japón, del
+  4-ago-2022 al **29-mar-2024**; combate en arena 3D con estrategia por
+  turnos y gacha; cerró tras quejas por un cambio de equilibrio del
+  primer aniversario ✅ ([ANN](https://www.animenewsnetwork.com/news/2023-12-27/fullmetal-alchemist-mobile-end-of-service-notice/),
+  [Pocket Gamer](https://www.pocketgamer.com/fullmetal-alchemist-mobile/shutdown/)).
+- **Contenido descartado** ([TCRF](https://tcrf.net/Category:Fullmetal_Alchemist_series)) ⚠️
+  (Cloudflare; sólo el resumen del buscador): menús de depuración ocultos
+  en *Broken Angel* (con prueba de sonido), *Dual Sympathy* y *Dream
+  Carnival*.
+- ⚠️ No se vio la **caja de diálogo** del modo historia de ningún juego,
+  ni la letra de sus menús (Game UI Database y MobyGames dieron 403).
+
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+### 14.1 Lo que todo fan reconoce
+
+- **«Intercambio equivalente»**: la ley y la frase de la serie ✅.
+- **La estatura de Ed**: le enfurece que le llamen bajito. Es canon… y el
+  fandom **ya está harto del chiste**: el post «I've Had It Up To Here With
+  The Short Jokes» (meme de Bob Esponja) tiene **1 970 puntos** ✅
+  ([r/FullmetalAlchemist](https://old.reddit.com/r/FullmetalAlchemist/comments/1ustwqy/ive_had_it_up_to_here_with_the_short_jokes/)).
+- **Al y los gatos**: sólo deja entrar **mujeres y gatos** en su armadura;
+  la figura Nendoroid trae **un gato dentro del pecho** ✅ (wiki + §24).
+- **El golpe de llave inglesa** de Winry (tráiler [0:54](https://archive.org/download/turner_video_134431/134431.mp4?t=54)) ✅ (visto).
+- **«Royai»** (Roy y Riza): el ship más grande. Arakawa dijo en el Artbook
+  3 que no se casan sólo por el reglamento militar. Roy la llama
+  «Elizabeth» en clave y amenaza con quemar a quien se le insinúe ✅.
+- **«Edwin»** (Ed y Winry): canon, acaban con hijos ✅.
+- **El ajedrez de Roy**: su equipo son piezas (Fuery peón, Falman alfil,
+  Havoc caballo, Breda torre, Hawkeye reina, Roy rey) ✅.
+- **Armstrong** sacando músculo (blooper [3:53](https://archive.org/download/turner_video_11409/11409.mp4?t=233))
+  y abrazando a Ed (ED1 0:42) ✅ (visto).
+- **La lluvia de Roy** («Empezó a llover», §10.3) ✅.
+
+### 14.2 Zona delicada
+
+- **Nina Tucker** (ep. 4): «el momento más triste y horrible que pueda
+  existir» para el fandom hispano ✅ ([Univision](https://www.univision.com/entretenimiento/geek/fullmetal-alchemist-los-momentos-de-brotherhood-que-todavia-nos-dan-ganas-de-llorar-y-no-solo-de-tristeza)).
+  **Nunca** en una lámina alegre.
+- **La muerte de Hughes** (ep. 10): duele «todos estos años después».
+  Hughes en la lámina, sí; su muerte, no.
+- **Ishval**: guerra y genocidio. Sus colores (el rojo sangre de §5) sólo
+  para tono dramático.
+
+### 14.3 Qué NO hacer
+
+- Reducir a **Ed al chiste de la estatura**. Como mucho, un guiño sin
+  subrayarlo con texto.
+- Dibujar a **Al** como «el gracioso de la armadura» y nada más: es el más
+  maduro de los dos.
+- **Mezclar la serie de 2003 con Brotherhood**: cambian los uniformes, el
+  color de ojos de Envidia y los nombres ⚠️ (una fuente: Reddit y las
+  diferencias de pronunciación de Doblaje Wiki). La hoja #41 es de 2003.
+- Tratar a **Envidia en femenino** (fue el error de la serie de 2003) ✅.
+- Olvidar que **Riza es la mujer más votada** (3.ª) por encima de Winry.
+- **Una burbuja blanca** o letras redondas infantiles (§7.8).
+- **Colores alegres** en escenas de guerra o de muerte (regla 6 del dueño).
+- Usar en la lámina el **círculo de la transmutación humana**: es el tabú
+  de la serie (el que costó el cuerpo de Al).
+- Poner a **Roy con gafas** o a **Hughes sin ellas**: Roy no las lleva
+  (E9); Hughes sí (E12).
+
+## 15 · Poses analizadas por personaje
+
+Salen de los vídeos (A, B, E de `escenas_01.jpg`, con minuto) y de las
+hojas de la wiki (#). Todas vistas por el redactor.
+
+### 15.1 Edward (13)
+
+| # | Dónde | Postura, manos, mirada | Sirve para |
+|---|---|---|---|
+| 1 | A15 · OP1 [0:28](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=28) | **palmas juntas** delante del pecho, ojos entornados, abrigo al viento | **explicar**, actuar: la pose de la serie |
+| 2 | #56 (manga a color) | el aplauso con **luz de transmutación** entre las manos, mirada al frente | **explicar** (versión de ilustración) |
+| 3 | E1 · tráiler [0:47](https://archive.org/download/turner_video_134431/134431.mp4?t=47) | cara de frente, sonrisa ladeada, ojos a cámara | **presentar** |
+| 4 | E2 · blooper [4:12](https://archive.org/download/turner_video_11409/11409.mp4?t=252) | tres cuartos, un ojo dorado, media sonrisa | **celebrar**, presumir |
+| 5 | #10 (cap. 61) | **saludo militar** con sonrisa de oreja a oreja | saludar, dar la bienvenida |
+| 6 | #12 (cap. 78) | la **V** con los dedos, sonriendo | **celebrar** |
+| 7 | #93 | **pulgar arriba**, Al detrás | **animar** |
+| 8 | E3 · blooper [7:07](https://archive.org/download/turner_video_11409/11409.mp4?t=427) | cabeza adelantada, **grito** con la boca abierta | **regañar**, rabia |
+| 9 | #7 (cap. 1) | **en cuclillas**, brazos sobre la rodilla, mirada seria | **pensar**, explicar desde abajo |
+| 10 | A12-A13 · OP1 0:22-0:24 | de pie en el campo, abrigo al viento, ceño | **pensar** |
+| 11 | E4 · tráiler [0:34](https://archive.org/download/turner_video_134431/134431.mp4?t=34) | girado, alerta, en un callejón | acción |
+| 12 | #19 (cap. 6) | **sentado en el hombro de Al**, relajado | presentar en dúo |
+| 13 | E5 · blooper [5:54](https://archive.org/download/turner_video_11409/11409.mp4?t=354) | epílogo: coleta, mirada al horizonte | despedirse, pensar |
+
+### 15.2 Alphonse (9)
+
+| # | Dónde | Postura | Sirve para |
+|---|---|---|---|
+| 1 | E7 · tráiler [0:46](https://archive.org/download/turner_video_134431/134431.mp4?t=46) | de frente, erguido, ojos rojos encendidos | **presentar** |
+| 2 | #85 (hoja de modelo) | de pie, brazos a los lados, cuerpo entero | presentar, escala |
+| 3 | A21 · OP1 [0:40](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=40) | primer plano del casco, ojos rojos | serio |
+| 4 | A22 · OP1 0:42 | **corriendo** por el campo | **animar** |
+| 5 | tráiler [0:39](https://archive.org/download/turner_video_134431/134431.mp4?t=39) | casco con **ojos blancos redondos**, boca de sierra | reaccionar, broma |
+| 6 | #19 (cap. 6) | de pie con Ed sentado en su hombro | dúo, **animar** |
+| 7 | #90 | la armadura junto a Al humano **leyendo un libro** | **explicar**, estudiar |
+| 8 | Nendoroid (§24) | **pecho abierto con un gato dentro** | tierno, dar la bienvenida |
+| 9 | E8 · blooper [7:15](https://archive.org/download/turner_video_11409/11409.mp4?t=435) | tendido, inerte, Ed encima | sacrificio (no para lámina alegre) |
+
+### 15.3 Roy Mustang (8)
+
+| # | Dónde | Postura | Sirve para |
+|---|---|---|---|
+| 1 | #29 (hoja de modelo) | firme, de frente y de espaldas; **círculo de fuego en el dorso del guante** | presentar |
+| 2 | E10 · blooper [3:10](https://archive.org/download/turner_video_11409/11409.mp4?t=190) | ramo de flores en la mano, media sonrisa | **presentar en tono ligero** |
+| 3 | E9 · blooper [1:20](https://archive.org/download/turner_video_11409/11409.mp4?t=80) | cara de frente, ceño | **regañar** |
+| 4 | #59 | contrapicado, barbilla alta | mandar |
+| 5 | #58 | en su despacho, con Riza | **explicar**, coordinar (§27 C) |
+| 6 | A24 · OP1 [0:46](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/01.%20Fullmetal%20Alchemist%20Brotherhood%20-%20NC%20OP%2001%20%5BYui%20-%20again%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=46) | de espaldas, fondo de fuego | mostrar poder |
+| 7 | Nendoroid (§24) | **chasquido de dedos** con la línea de fuego | actuar, el gesto de Roy |
+| 8 | E11 · blooper [7:19](https://archive.org/download/turner_video_11409/11409.mp4?t=439) | ojos cerrados, junto a Riza herida | emoción, no para presentar |
+
+### 15.4 Winry (10)
+
+| # | Dónde | Postura | Sirve para |
+|---|---|---|---|
+| 1 | #32 (eyecatch) | **llave inglesa** en alto, sonrisa | **presentar**, explicar el oficio |
+| 2 | #60 | arrodillada, feliz, con un automail en el suelo | **celebrar** |
+| 3 | #81 (hoja de modelo) | ropa de trabajo en tres vistas | presentar, vestuario |
+| 4 | B19-B20 · ED1 [0:54](https://archive.org/download/Fullmetal-Alchemist-Brotherhood-op-1-5-ed-1-creditless/02.%20Fullmetal%20Alchemist%20Brotherhood%20~%20Ending%2001%20%5BSID%20-%20Uso%5D%20%5BBD%5D%20%5B1080p%5D%20%5BCreditless%5D.mp4?t=54) | en su banco, **se tapa la cara** con las manos | **regañar**, exasperarse (*chibi*) |
+| 5 | E14 · blooper [7:26](https://archive.org/download/turner_video_11409/11409.mp4?t=446) | niña, **manos en la boca**, gritando | **animar**, llamar |
+| 6 | E13 · blooper [2:38](https://archive.org/download/turner_video_11409/11409.mp4?t=158) | de perfil, escuchando | **pensar** |
+| 7 | #61 (eyecatch) | con una **cámara** | enseñar algo |
+| 8 | #44 (tomo 5) | con Den, el perro de la pierna de automail | tierna |
+| 9 | #2 | con Ed y el *kagami mochi* | celebrar (Año Nuevo) |
+| 10 | Nendoroid (§24) | llave inglesa, tarta de manzana y **la mano de Ed señalando** | interactuar con Ed |
+
+### 15.5 Otros
+
+- **Hughes**: serio con la pistola (E12, [0:24](https://archive.org/download/turner_video_134431/134431.mp4?t=24));
+  serio (A23, OP1 0:44); alarmado al teléfono (tráiler de 2009, ~0:35 ⚠️).
+- **Riza**: en el despacho con Roy (#58); herida y firme (E11); modelo 3D
+  (§4.1).
+- ❌ **Faltan** poses de vídeo de Riza y Hughes contentos, y de Winry
+  adulta enfadada: ningún capítulo se pudo abrir.
+
+### 15.6 Qué pose para qué
+
+| Para… | Edward | Alphonse | Roy | Winry |
+|---|---|---|---|---|
+| presentar | E1 | E7 | E10 | #32 |
+| explicar | A15, #56 | #90 | #58 | #32 |
+| celebrar | #12, E2 | — | — | #60 |
+| regañar | E3 | — | E9 | B19-B20 |
+| pensar | #7, A12 | — | #59 | E13 |
+| animar | #93 | A22, #19 | — | E14 |
+
+## 16 · Vestuario, con hex medidos
+
+Medido con `estilo.py` sobre **hojas de modelo oficiales** (no sobre
+escenas con luz de ambiente). Los PNG con fondo transparente se pusieron
+antes sobre blanco (si no, el canal alfa cuenta como negro).
+
+### 16.1 Edward
+
+**El traje icónico** ([Edward_Full_Body.png](https://static.wikia.nocookie.net/fma/images/1/15/Edward_Full_Body.png), 650×1220, #77) ✅:
+- **abrigo rojo con capucha** `#DA4332`, con la **cruz de Flamel negra en
+  la espalda** (ED1 B29; wiki);
+- chaqueta, pantalón y botas **negros** `#0D1012` (la wiki dice que va de
+  negro para disimular las manchas de aceite);
+- piel `#E9E5D8`; guantes blancos; automail de **plata media con
+  remaches**; hebilla dorado mate (a ojo: área pequeña);
+- **pelo**: trenza hasta los hombros y **mechón de punta** arriba.
+- Línea `#805142`, **marrón rojizo, no negra**; sombreado plano.
+
+**Después de la serie** ([2005_edward.png](https://static.wikia.nocookie.net/fma/images/f/f6/2005_edward.png), 1920×1080, #28) ✅:
+abrigo largo marrón `#423935`, chaleco `#857C6A`, camisa `#C5B79E`, sin
+automail a la vista; pelo **en coleta baja**, sin trenza (E5). Sólo para
+decir «ya recuperó su cuerpo». El icónico es el rojo.
+
+### 16.2 Alphonse
+
+([Alphonse_Full_Body.png](https://static.wikia.nocookie.net/fma/images/f/fc/Alphonse_Full_Body.png), 553×1301, #85) ✅:
+- placas **gris azulado** `#7C8592`, en sombra `#646E74`, brillos
+  `#AFB5C6` y `#C1C5D8`;
+- **faldón blanco lavanda** a la cintura `#D9D0EC` y `#EDE6F1`;
+- casco con una **cresta** y pinchos en los hombros; la cruz de Flamel en
+  el hombro o el pecho (hoja #7).
+- Mucha línea (`#707784`): juntas y remaches.
+
+### 16.3 Roy Mustang
+
+([Roy_2005.png](https://static.wikia.nocookie.net/fma/images/1/15/Roy_2005.png), 1920×1080, #29) ✅:
+- **uniforme azul marino** `#354565` con cuello alto y botonadura dorada;
+- pelo y botas `#191B1F`; piel `#DACCBB`;
+- **guantes blancos** (≈`#F0EEE9`, a ojo) con el **círculo de fuego en el
+  dorso**;
+- pelo corto y despeinado sobre los ojos; peinado hacia atrás en momentos
+  formales (wiki).
+- Poca línea (`#3C3D44`), sombreado plano.
+
+### 16.4 Winry
+
+**La ropa de trabajo**, dos hojas de producción que coinciden ✅✅
+([WinryMecahnicArtwork.jpg](https://static.wikia.nocookie.net/fma/images/d/d5/WinryMecahnicArtwork.jpg), 1024×724, #81, rotulada «ウィンリィー作業着»; y
+[Winry_Full_Body.png](https://static.wikia.nocookie.net/fma/images/a/a0/Winry_Full_Body.png), 454×1221, #96):
+- **mono verde pálido** `#D2D9B2`, con la parte de arriba **anudada a la
+  cintura**. **No es beige**, como dice la ficha de la wiki: el estudio lo
+  pinta verde (lo confirma también el fondo de Mona Finden, §17);
+- **top negro** corto (bandeau);
+- **pañuelo verde** en la cabeza `#7E8E62` y `#A7AE8E`;
+- pelo rubio `#F7F3DA` y `#F6EFB7`, **coleta alta**, flequillo al medio;
+- guantes de cuero marrón (≈`#6B4A2E`, a ojo); sandalias; **muchos
+  pendientes** en las orejas.
+- Línea verde oliva (`#818763`, `#777D5A`).
+
+### 16.5 Otros
+
+- **Ejército de Amestris**: casacas azules, botas negras, charreteras según
+  el rango y **capa blanca** en terreno hostil ✅ ([wiki](https://fma.fandom.com/wiki/State_Military)).
+- **Riza**: el mismo uniforme azul (modelo 3D en §4.1; hoja #58).
+- **Hughes**: uniforme azul, **gafas rectangulares** y barba de tres días
+  (E12).
+
+### 16.6 Lo que todos reconocen
+
+**Ed = abrigo rojo + trenza + automail**. **Al = la armadura con el faldón
+blanco**. **Roy = uniforme azul + guantes blancos**. **Winry = mono verde
+atado a la cintura + pañuelo + llave inglesa**.
+
+## 17 · Paisajes y fondos de pantalla
+
+### 17.1 Los sitios y su hora (paletas en §5)
+
+| Sitio | Hora y luz | Imagen |
+|---|---|---|
+| **Resembool** (pueblo de los Elric y los Rockbell) | día soleado, colinas verdes, cielo limpio | [Rockbells-house.png](https://static.wikia.nocookie.net/fma/images/9/94/Rockbells-house.png) 1280×800; E22; A4 |
+| **Ciudad Central** (capital, Cuartel General) | día nublado, piedra gris | [Centralcity_movie2.png](https://static.wikia.nocookie.net/fma/images/1/16/Centralcity_movie2.png) 1280×1600; E19 |
+| **Ishval** | sombra de posguerra; de noche, incendio rojo | [Ishval-people.png](https://static.wikia.nocookie.net/fma/images/f/f6/Ishval-people.png) 1280×800 |
+| **Fuerte Briggs** (frontera norte) | día despejado y helado | [Fort.png](https://static.wikia.nocookie.net/fma/images/c/c6/Fort.png) 1280×800; E20 |
+| **Xerxes** (ruinas) | mediodía fuerte | [Ruins.png](https://static.wikia.nocookie.net/fma/images/6/6c/Ruins.png) 640×730 |
+| **Lior** (catedral de Leto) | atardecer y noche | [Lior0.png](https://static.wikia.nocookie.net/fma/images/4/4c/Lior0.png) 1280×800 |
+| **Rush Valley** (la ciudad del automail) | página de manga en blanco y negro | hoja #8 ([0017-008.jpg](https://static.wikia.nocookie.net/fma/images/5/5c/0017-008.jpg)) |
+| **La Puerta de la Verdad** | blanco infinito | E21; [Truth.png](https://static.wikia.nocookie.net/fma/images/e/e8/Truth.png) 1280×800 |
+
+### 17.2 Fondos de pantalla (Wallhaven, etiquetas revisadas una a una) ✅
+
+| Qué | Tamaño | Autor | Enlace |
+|---|---|---|---|
+| **Ed y Al entre flores** (estilo oficial) | 1920×2632 | Mona Finden | [wallhaven-ey75ro](https://w.wallhaven.cc/full/ey/wallhaven-ey75ro.jpg) |
+| **Winry con el mono verde y la llave** | 2400×3597 | Mona Finden | [wallhaven-k7rkwq](https://w.wallhaven.cc/full/k7/wallhaven-k7rkwq.jpg) |
+| Ed, manos y letra del logo, minimalista | 1920×1200 | — | [wallhaven-43kl3d](https://w.wallhaven.cc/full/43/wallhaven-43kl3d.jpg) |
+| Ed sobre rojo, minimalista | 3840×2160 | — | [wallhaven-gjz3pq](https://w.wallhaven.cc/full/gj/wallhaven-gjz3pq.jpg) |
+| **Lust con el uróboros** (el más guardado: 319 ♥) | 2560×1440 | origen ArtStation | [wallhaven-exq3q8](https://w.wallhaven.cc/full/ex/wallhaven-exq3q8.jpg) |
+
+Descartados: `wallhaven-28j5dm` y `wallhaven-oxzldm` (collages de varios
+animes). Son de fans: **referencia**, no para pegar.
+
+⚠️ **No encontré** una página oficial de fondos (ni de Square Enix, ni de
+BONES, ni de la web japonesa): se buscó en japonés («フルメタル錬金術師 壁紙
+公式 ダウンロード») y en inglés; sólo salen bancos de fans. Lo oficial en
+alta más cercano: el banner de AniList (1900×1188) y el póster (1143×1600).
+
+## 18 · Guía para generar con IA: imagen y texto
+
+Con todo lo anterior. La IA (Firefly, Canva) sirve para **poses, fondos
+o bocetos de composición**; el personaje final sale de las referencias
+oficiales y se integra con `v3/integrar.py` (regla 3 del dueño).
+
+### 18.1 Rasgos que nunca cambian
+
+- **Edward**: rubio dorado, **ojos dorados**, **trenza** hasta los hombros
+  y **un mechón de punta**; **brazo derecho de metal** (y pierna
+  izquierda); abrigo **rojo** con capucha y la **cruz de Flamel negra** en
+  la espalda; ropa negra; guantes blancos. Bajito para su edad.
+- **Alphonse**: **armadura enorme** gris azulada, casco con cresta,
+  pinchos en los hombros, **ojos de luz** (rojos o blancos) en la ranura,
+  **faldón blanco** a la cintura. Nunca se le ve la cara.
+- **Roy**: pelo negro sobre los ojos, ojos negros, **sin gafas**,
+  **uniforme azul marino**, **guantes blancos con un círculo en el dorso**.
+- **Winry**: rubia pálida, **ojos azules**, coleta alta con **pañuelo
+  verde**, **mono verde pálido atado a la cintura** y top negro,
+  **pendientes**, **llave inglesa**.
+- **Hughes**: **gafas rectangulares**, barba de tres días, uniforme azul.
+- **Riza**: rubia, pelo recogido, uniforme azul, pistola.
+
+### 18.2 Paleta
+
+Personajes: `#DA4332` (abrigo), `#0D1012` (negro), `#7C8592` (armadura),
+`#354565` (uniforme), `#D2D9B2` (mono), `#7E8E62` (pañuelo), `#F7F3DA`
+(rubio claro). Mundo: `#3D705C` y `#D8BD25` (escudo), `#87BAE8` (cielo de
+Resembool), `#808A87` (piedra de Central), `#B60A23` (fuego de Ishval),
+`#76A9EC` (Briggs). Póster: negros cálidos y crema (`#212022`, `#F6EFD9`).
+
+### 18.3 Línea, sombreado y luz
+
+- **Línea de color**, no negra: marrón rojizo en Ed (`#805142`), marrón
+  gris en el póster (`#544D4A`), verde oliva en Winry.
+- **Personajes en cel plano** (dos tonos); **fondos pintados** con
+  degradado y casi sin contorno.
+- Luz: sol limpio en Resembool; nublado gris en Central; **azul helado**
+  en Briggs; **rojo** de incendio en Ishval; lámpara cálida en interiores.
+
+### 18.4 Encuadre
+
+Plano medio **en diagonal** (hoja #7); **contrapicado** para la autoridad
+(#59); **primer plano de ojos** para la emoción (E2); **de espaldas ante
+el paisaje** para despedirse (E22); dúo en vertical, uno sobre el hombro
+del otro (#19).
+
+### 18.5 Palabras que ayudan y que estropean
+
+**Ayudan** (vocabulario de Danbooru, §4.3, en inglés):
+`2009 TV anime, flat cel shading, colored lineart, blonde_hair,
+yellow_eyes, single_braid, ahoge, red_coat, hood, black_pants,
+mechanical_arms, full_armor, helmet, amestris_military_uniform,
+white_gloves, blue_jacket, ponytail, bandana, earrings, wrench,
+early 20th century European town, steampunk, thin white transmutation
+circle`.
+
+**Estropean**: `chibi` (salvo gag), `3D render`, `glossy`, `neon`,
+`cyberpunk`, `pastel kawaii`, `thick black outlines`, `speech bubble`,
+`2003 anime` (otros diseños), `glasses` en Roy.
+
+**Ejemplo** (Firefly): *«2009 TV anime still, flat cel shading, colored
+lineart. Blond teenage boy with golden eyes, single braid and ahoge, red
+hooded coat over black clothes, metal right arm, clapping his hands in
+front of his chest, eyes half closed. Inside a wooden workshop at dusk,
+warm lamp light, thin white chalk transmutation circle on the floor.»*
+
+### 18.6 Qué imágenes dar como referencia
+
+- **Estilo**: hojas de modelo #77, #85, #72, #81; póster (§19).
+- **Pose**: #56 y A15 (aplauso), E1 (presentar), #32 (Winry con la
+  llave), E10 (Roy ligero), #19 (dúo).
+- **Fondo**: A4 y E22 (Resembool), E19 (Central), E20 (Briggs).
+- **Cartela**: E16 y #31-33.
+
+### 18.7 Para una IA de texto: cómo hablan
+
+- **Ed**: frases cortas, **exclamaciones y preguntas indignadas**, habla
+  rápido, presume y se defiende. Llama a su hermano «Al» (globo del ED1).
+  Roy es **coronel** (su rango en la serie). Explica con aplomo.
+- **Al**: suave, paciente, llama a Ed **«hermano»**. Nunca grita primero.
+- **Roy**: calmado, grave, **irónico**; manda sin levantar la voz; si
+  estalla, es frío y seco.
+- **Winry**: directa y cálida; **regaña si tocan su automail**; se
+  emociona hablando de piezas.
+- **Hughes**: efusivo, cariñoso, filosofa sin darse importancia.
+- **Puntuación**: «¡…!» y «¿…?» para Ed; puntos suspensivos para la
+  tristeza (Al niño); frases cerradas y sin exclamación para Roy.
+
+**Frases reales del doblaje latino** (las únicas textuales que hay, §10.3),
+por emoción:
+
+| Emoción | Frase | Quién |
+|---|---|---|
+| alegre, orgullosa | «Son hijos de su padre, estoy orgullosa de ustedes» | Trisha |
+| alegre, de broma | «¿Están leyendo otra vez un libro que no es de la escuela?… no es justo, siempre guardan secretos entre ustedes» | Winry niña |
+| enfadado | «¿Por qué nadie entiende que la alquimista de acero soy yo?» ⚠️ | Ed |
+| enfadado, frío | «Tú mataste a Hughes, será todo lo que necesitaba saber… ya no tienes que decir nada más» | Roy |
+| amenazando | «Parece que tendré que obligarte a entregármelo» | Ed |
+| explicando | «Los hombres son criaturas que dejan que sus acciones hablen por ellos… cuando sienten dolor no quieren que otros sufran ni se preocupen» | Hughes |
+| explicando (la ley) | «Para obtener algo, hay que perder algo de igual valor» (sinopsis oficial en AniList, traducida) | narración |
+| animando | «Para entrenar el espíritu, primero entrena el cuerpo» (lema de Izumi, wiki, traducido) | Izumi |
+| triste | «Hermano, tengo hambre… hace frío… vayamos a casa» | Al niño |
+| triste | «Empezó a llover» | Roy |
+
+⚠️ No hay más frases textuales latinas: no inventar citas «reales».
+
+### 18.8 Vocabulario visual de las emociones
+
+- **Gag**: deformación ***chibi*** (todo el ED1; el golpe de llave, E6),
+  **ojos blancos redondos** en el casco de Al (tráiler 0:39), **signos de
+  exclamación rojos** alrededor de la cabeza (Havoc y Fuery, A30).
+- **Drama**: **sangre** en la cara (E3, E18), **lluvia** (Scar, A36-A38;
+  la tristeza de Roy), fondo **rojo** de fuego (A8-A9, A24).
+- **Alquimia**: **rayos azules** y destello blanco (tráiler 0:14; A44).
+- **Acción**: líneas de velocidad azules (tráiler 0:18).
+- ⚠️ No se vieron **gotas de sudor** ni fondos de emoción con flores en lo
+  que se miró.
+
+## 19 · Estilo de dibujo, técnica, Blender y encuadres
+
+### 19.1 Quién lo hizo ✅ ([AniList, staff](https://anilist.co/anime/5114/staff))
+
+Dirección **Yasuhiro Irie**; diseño de personajes **Hiroki Kanno**; diseño
+mecánico **Masahisa Suzuki**; dirección de arte **Takeshi Satou**; diseño
+de arte **Kazushige Kanehira**; **color Fusako Nakao**; fotografía Mayuko
+Furumoto y Yoshiyuki Takei; logo **Tsuyoshi Kusano**; estudio **BONES**.
+
+### 19.2 Lo que cuentan el director y la autora
+
+- **Irie** ([ANN, 2017](https://www.animenewsnetwork.com/feature/2017-11-30/interview-yasuhiro-irie/.124659)) ✅:
+  «el estándar era el manga: era como **la Biblia**». Venía del 3D y quería
+  volver a la animación tradicional; entró tras dirigir el opening de *Soul
+  Eater* en BONES. El equipo mezcló animadores jóvenes y los cambios
+  visuales más fuertes llegan en la segunda mitad.
+- **Arakawa** ✅ ([wiki](https://fma.fandom.com/wiki/Hiromu_Arakawa) +
+  [The Mary Sue](https://www.themarysue.com/hiromu-arakawa-part-1/), citando
+  el artbook *Profiles*): estudió **pintura al óleo**; fue asistente de
+  **Hiroyuki Etō** (*Mahōjin Guru Guru*); para Amestris leyó sobre la
+  **Europa de la Revolución Industrial**, sobre todo Inglaterra; el
+  intercambio equivalente viene de la **granja lechera de sus padres en
+  Hokkaidō**; entrevistó a refugiados, veteranos y exyakuza para Ishval. Le
+  gusta dibujar **músculos y hombres mayores**: «si los dibujo muy
+  flacos, pensarán que mis personajes no comen».
+
+### 19.3 Cómo es el dibujo (medido y mirado)
+
+- **Anime**: personajes en **cel plano**, línea **de color** (Ed `#805142`,
+  Roy `#3C3D44`, Al `#707784`); Al es el de más línea (juntas y remaches).
+- **Póster oficial** ([Fmab-poster.png](https://static.wikia.nocookie.net/fma/images/e/e9/Fmab-poster.png),
+  1143×1600): negros y grises cálidos con crema (`#050505`, `#212022`,
+  `#F6EFD9`, `#3E393C`, `#635555`, `#DDCDA9`, `#9C7360`, `#BAA282`);
+  **degradado pintado**, saturación 21 %; línea `#544D4A`, no negra ✅.
+- **Fondos**: pintados, degradados, casi sin contorno (§5).
+- **Portadas del manga**: gouache o acuarela, con salpicaduras en las
+  dramáticas (#17) ✅.
+- **Páginas en blanco y negro**: **rayado a mano** denso en rocas y
+  montañas, tramas de puntos en edificios lejanos, **negros sólidos** a
+  contraluz (#8) ✅.
+- **ED1**: otro mundo: *chibi* a mano sobre **papel de acuarela** (§11.3).
+
+### 19.4 Cómo reproducirlo ⚠️ (propuesta: no hay *making of* del estudio)
+
+No se encontró qué programas usó BONES en Brotherhood (RETAS, Toon Boom…):
+sólo que eran los normales en 2009-2010 ⚠️.
+
+**Photoshop**:
+1. Capa de línea en **Multiplicar** con marrón oscuro (`#544D4A` o el del
+   personaje), nunca negro puro.
+2. Personaje en **dos tonos** (luz y sombra) con borde casi duro; el fondo,
+   pintado con degradados suaves.
+3. **Ruido monocromo al 3-5 %** encima para el aire de emisión de 2009.
+4. Para una lámina de tono ED1: papel de acuarela (§20) en **Multiplicar**.
+
+**Blender**:
+1. Modelos de §4.1 (reloj, automail, círculo). El automail tiene **132 690
+   caras**: pasarle **Decimate** antes de nada (regla 9 del dueño: no
+   saturar el PC).
+2. Sombreado *toon*: **Shader to RGB → Color Ramp** de 2-3 pasos.
+3. Contorno con **Freestyle** o el modificador **Line Art**, en el marrón
+   de la línea; más orgánico que Solidify.
+4. Luz principal **dura** y un relleno flojo; nada de render realista
+   suave.
+5. **Texturas** de §5 y §20 encima (madera del suelo, metal cepillado,
+   papel).
+6. Pruebas a ×2 y sólo la final a ×3 (regla 10).
+
+### 19.5 Encuadres
+
+- **Plano medio en diagonal**: tuberías y vigas cruzan el cuadro; el
+  círculo de fondo explica el tema sin texto (hoja #7) ✅.
+- **Contrapicado** para mando (Roy, #59); **primer plano** de un ojo para
+  la emoción (E2); **de espaldas ante el paisaje** para despedirse (E22,
+  B30); **dúo en vertical** (#19); **grupo apiñado** en las portadas
+  (#14, #15).
+- ⚠️ No se sacó una tabla de encuadre por emoción de capítulos enteros
+  (no se pudieron abrir).
+
+## 20 · Texturas 2D
+
+### 20.1 Del manga y la animación (miradas)
+
+- **Trama del manga**: rayado a mano en paralelo, más cerrado en la
+  sombra; puntos en lo lejano; negros sólidos ([0017-008.jpg](https://static.wikia.nocookie.net/fma/images/5/5c/0017-008.jpg),
+  1800×1350, hoja #8; `estilo.py`: «mixto, mucha línea», línea `#848484`) ✅.
+- **Pincelada suelta** y salpicaduras de tinta tipo acuarela ([Chapter108.jpg](https://static.wikia.nocookie.net/fma/images/2/20/Chapter108.jpg),
+  1855×1300, #17; línea `#74685A`) ✅.
+- **Papel de acuarela** naranja y mostaza del ED1 (B1-B31) ✅.
+- **Ropa**: **lisa, sin estampados** en los cuatro. La única superficie
+  con textura es el **automail**: placas de metal, remaches y juntas
+  (#4, #26, #27) ✅.
+
+### 20.2 Emblemas y logos (medidos)
+
+| Símbolo | Qué es | Colores | Imagen |
+|---|---|---|---|
+| **Cruz de Flamel** | cruz con alas, corona y serpiente; en la espalda de Ed, en Al y en el pecho de Izumi; firma de las portadas | negro sobre blanco (rojo en el pecho de Al y en el menú del juego) | [Flamel's cross](https://static.wikia.nocookie.net/fma/images/9/93/370px-Flamel%27s_cross.png) 370×615 ✅ |
+| **Escudo de Amestris** | criatura tipo dragón-león blanca sobre escudo verde con borde dorado; el del estandarte del Cuartel General | verde `#3D705C`, oro `#D8BD25`, blanco `#E0E8E1` | [Amestris_2.png](https://static.wikia.nocookie.net/fma/images/7/70/Amestris_2.png) 1174×1734 ✅ |
+| **Uróboros** | serpiente que se muerde la cola con un hexagrama: la marca de los homúnculos | rojo `#E90303` y `#C71214` | [Ouroboros_Tatoo.JPG](https://static.wikia.nocookie.net/fma/images/0/0c/Ouroboros_Tatoo.JPG) 200×200 ✅ |
+| **Reloj de plata** | dragón de Amestris con una espada sobre un hexágono, entre laureles | plata `#ECEEF2`, cojín morado `#4C3D64` | [Pocketwatch.png](https://static.wikia.nocookie.net/fma/images/1/1c/Pocketwatch.png) 1280×800 ✅ |
+| **Círculo de transmutación** | círculos, hexagrama y engranajes en línea fina | celeste `#7BB3C4` | portada del cap. 1, #7 ✅ |
+| Medallón gris | variante en relieve del escudo | gris `#CBC9CA` sobre negro | [State_alchemist_symbol.jpg](https://static.wikia.nocookie.net/fma/images/a/a7/State_alchemist_symbol.jpg) 600×600 ⚠️ (uso sin aclarar) |
+
+### 20.3 Texturas libres equivalentes (ambientCG, CC0) ⚠️
+
+(Licencia general del sitio; no se leyó cada ficha.)
+- **Metal cepillado** para el automail y el reloj: serie Metal009-Metal012
+  ([lista](https://ambientcg.com/list?type=Material&q=brushed+metal)).
+- **Paño de uniforme**: [Fabric019](https://ambientcg.com/view?id=Fabric019).
+- **Cuero** (guantes, correas, botas): [Leather037](https://ambientcg.com/view?id=Leather037).
+- **Papel** (manga, cartela, ED1): [Paper001](https://ambientcg.com/view?id=Paper001).
+- Madera, tierra, ladrillo, nieve y acero: §5.
+- ⚠️ **No se encontraron pinceles** ni packs de tramas libres para imitar
+  el rayado de Arakawa.
+
+## 21 · Gustos y detalles de cada personaje
+
+De la wiki `fma` (Trivia e Infobox) y de las fichas de AniList. **No se
+encontró un *databook* oficial** traducido: lo que falta, falta.
+
+| Personaje | Edad | Altura | Cumpleaños | Come / no come | Siempre lleva | Cómo se ve |
+|---|---|---|---|---|---|---|
+| **Edward** | 15-16; 18 al final (AniList) | **149 cm** al empezar (wiki); 1,65 m al final (AniList) ⚠️ | ⚠️ no fijado en canon | **odia la leche**; ama el guiso; sándwiches sin corteza | el **reloj de plata**; escribe con la izquierda | se define por proteger a Al; odia que le llamen bajito |
+| **Alphonse** | 14-15 | la armadura es de lo más alto de la serie (más que Armstrong) | ⚠️ no fijado | no come (armadura) | — (ama los **gatos**) | carga con la culpa de Ed sin compartirla |
+| **Roy** | 29-32 | 173 cm (wiki, según la parte) ⚠️ | ⚠️ no encontrado | ⚠️ sin dato | **guantes de ignición**; casa con casi sólo un sofá | se hace pasar por vago y mujeriego; es un estratega con un plan de país |
+| **Winry** | 15-16 | ⚠️ sin dato | **9 de junio** (AniList) ⚠️ | ⚠️ sin dato | **llave inglesa**; muchos pendientes | mecánica antes que «la novia de Ed»; orgullo total de su automail |
+| **Riza** | — | **168 cm** (wiki) | ⚠️ no fijado | — | dos pistolas; su perro **Black Hayate** | la conciencia y el arma de Roy |
+| **Hughes** | 29 (AniList) | — | — | — | — (AniList: «padre de familia devoto») | el amigo que sostiene a todos |
+| **King Bradley** | 59-60 | — | **24 de agosto** (AniList) ⚠️ | — | su sable; parche | amable incluso al mandar a la guerra |
+| **Olivier** | 37 | — | — | — | la espada de la familia | «sobrevive el más fuerte» |
+| **Ling** | 15-18 | — | — | **siempre con hambre** | — | quiere ser emperador para proteger a su clan |
+
+- ⚠️ La parte de voz ponía a Roy un cumpleaños «24/8» que en AniList es de
+  **King Bradley**, y a Ed «165 cm con alzas (141 real)», que no coincide
+  con la wiki (149 cm). Corregido aquí (§28.2).
+- **La parte de voz buscó** «Fullmetal Alchemist character guidebook Winry
+  height» y «Roy Mustang favorite food databook» (inglés y japonés
+  romanizado) sin resultado fiable.
+
+## 22 · Por qué la gente la ama, y las escenas que hacen llorar
+
+### 22.1 Los números
+
+- **MyAnimeList**: **9,11** con 2 326 893 votos; **puesto 3** histórico y
+  **1.º durante más de una década**; 244 136 favoritos; 3,7 millones de
+  miembros ✅ ([MAL](https://myanimelist.net/anime/5114), vía
+  [Jikan](https://api.jikan.moe/v4/anime/5114), 24-sep-2026).
+- **IMDb**: **9,1** ✅ ([IMDb](https://www.imdb.com/title/tt1355642/)).
+- **AniList**: nota media 90, 731 240 de popularidad ✅.
+
+### 22.2 Por qué
+
+- Una historia **madura**, rara en el anime; **cada personaje cuenta**,
+  aunque no sea del grupo principal ✅ ([DualShockers](https://www.dualshockers.com/reasons-why-fullmetal-alchemist-brotherhood-is-still-the-gold-standard-of-anime/),
+  GameRant).
+- **Una magia con reglas duras**: el intercambio equivalente tiene
+  consecuencias de verdad ✅.
+- **Mezcla drama y risa** sin romperse («pasa a la comedia sin esfuerzo…
+  y funciona», *The Anime Empire*, [3:00](https://archive.org/download/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604/bliptv-20131012-110526-Animan-TheAnimeEmpireFullmetalAlchemistBrotherhoodReview604.mp4?t=180)) ✅.
+- **Con quién se identifica la gente**: con **Ed** por terco y orgulloso;
+  con **Al** por cargar con el dolor sin quejarse (le llaman «santo») ✅
+  (r/FullmetalAlchemist).
+
+### 22.3 Las escenas que hacen llorar
+
+⚠️ Ninguna tiene minuto propio: no se pudo abrir ningún capítulo. Lo que
+hay de imagen está en los vídeos de §2.
+
+| Escena | Capítulo | Qué pasa y por qué duele | Fuente |
+|---|---|---|---|
+| **La transmutación humana** | ⚠️ sin confirmar: la parte de voz dice ep. 1; el listado de música, ep. 4 (18:29-20:57); el ep. 1 abre con McDougal (§12.3) | los niños intentan revivir a su madre; Ed pierde la pierna y luego el brazo, Al el cuerpo entero; Ed ata el alma de Al a una armadura (AniList) | Univision; wiki ✅ (el episodio, ⚠️) |
+| **Nina Tucker** | **ep. 4** | su padre la convierte en quimera; «el momento más triste y horrible que pueda existir» | Univision + wiki + Doblaje Wiki ✅ |
+| **La muerte de Hughes** | **ep. 10** «Separate Destinations» | Envidia, disfrazado de su esposa, le dispara en una cabina de teléfono; suena «Requiem for the Brigadier General» (16:45-18:49 ⚠️) | CBR + OtakuKart ✅ |
+| **Elicia en el entierro** | ep. 10-11 ⚠️ | explicarle a la niña pequeña que su papá ha muerto | Univision ⚠️ |
+| **Al se sacrifica** | final ⚠️ | se sacrifica por Ed; la armadura queda tendida (E8, blooper [7:15](https://archive.org/download/turner_video_11409/11409.mp4?t=435)) | Univision ✅ |
+| **Hohenheim muere** | final ⚠️ | por fin su hijo le mira con respeto | Univision ⚠️ |
+| **El final** | ep. 64 | Ed se declara a Winry; toda la «familia» reunida; los hermanos de espaldas ante Resembool (E22, [1:51](https://archive.org/download/turner_video_11409/11409.mp4?t=111)) | Univision ✅ |
+
+- **Cómo reaccionó la gente**: «will always be my number 1, it still
+  hurts all these years later» (sobre Hughes, r/FullmetalAlchemist) ✅.
+  En TikTok, los *edits* tristes con música *indie* (§12.4) ⚠️.
+- **Cómo está dibujado lo triste** (visto en los vídeos): **lluvia**
+  (Scar, A36-A38; «Empezó a llover» de Roy), **sangre** en la cara (E3,
+  E18) y el **blanco vacío** de la Puerta (E21).
+
+### 22.4 Las que hacen reír o gritar
+
+- **Reír**: el golpe de llave de Winry (E6), Armstrong sacando músculo
+  (blooper 3:53), Havoc y Fuery sorprendidos (A30), el casco de Al con
+  ojos redondos (tráiler 0:39) ✅ (vistos).
+- **Gritar de emoción**: la rabia de Roy con quien mató a Hughes («Tú
+  mataste a Hughes…», §10.3) ✅; ⚠️ el resto de clímax del Día Prometido,
+  sin minuto.
+
+## 23 · Fan dubs y comunidad hispana
+
+⚠️ YouTube pidió iniciar sesión y dio 429 al reintentar: **no se vieron
+ni vistas ni canal**. Son títulos y enlaces que dio el buscador; hay que
+abrirlos antes de citarlos en una lámina.
+
+| Qué | Idioma | Enlace |
+|---|---|---|
+| «Muerte de Van Hohenheim [Fandub Español Latino]» (una de las escenas que hacen llorar) | latino | [YouTube](https://www.youtube.com/watch?v=eDltSfZRzU8) ⚠️ |
+| «Un corazón de acero · Fandub Español Latino + RECAP FIN DE AÑO 2025» (canal activo en 2025-2026) | latino | [YouTube](https://www.youtube.com/watch?v=Sx7lf1Shpf0) ⚠️ |
+| «【Devy】USO · Fandub Español Latino» (cover cantado del ED1) | latino | [YouTube](https://www.youtube.com/watch?v=P4ZK8EMEucg) ⚠️ |
+| «AGAIN · OP1 [Fandub Español] Acoustic ver.» (cover del opening) | español | [YouTube](https://www.youtube.com/watch?v=uByvZPd84OY) ⚠️ |
+| «[Spanish Fandub] Clip en castellano» | **España**, no latino | [YouTube](https://www.youtube.com/watch?v=KWNMuUXxrLA) ⚠️ |
+
+**Lo que circula entre la comunidad de doblaje hispana** (Doblaje Wiki) ✅:
+- Los **guiños latinos** del doblaje: «¡Ahí te voy, San Pedro!» (cap. 53,
+  la frase de Burro en *Shrek*), el «**Sabandija**» de Bradley con tono de
+  Piccolo (cap. 56), el «**Pulgarcito**» de Pinako (cap. 2).
+- Los **errores** documentados: Vieira dobló por error una línea de Olivier
+  (cap. 35); Codicia confunde quién murió (cap. 49); «prócimo episodio»
+  (avance del 58); Hakuro llamado «Haruko».
+- La **pronunciación** que divide a los fans: «Winly» o «Winrry», «Máis» o
+  «Mās» (§10.5).
+- **José Manuel Vieira** y otros actores **subieron a sus redes el proceso
+  de grabación** del redoblaje; el vídeo sigue en YouTube ⚠️ (una fuente,
+  sin enlace).
+
+⚠️ **No encontré** en TikTok vídeos hispanos concretos con vistas (sin
+sesión sólo salen páginas de «descubrir»), ni parodias o memes hispanos con
+enlace propio.
+
+## 24 · Colaboraciones, figuras y cosplay
+
+### 24.1 Juegos y gachas (traen arte y poses nuevas)
+
+- **Puzzle & Dragons × FMA: Brotherhood**: mazmorra y personajes (Ed, Roy,
+  Winry, Riza), **26-feb al 11-mar-2018**; vuelta del **3 al 16-dic-2018**
+  ✅ ([ANN, marzo](https://www.animenewsnetwork.com/press-release/2018-03-07/fullmetal-alchemist-collaboration-in-mobile-game-puzzle-and-dragons/.128607),
+  [ANN, diciembre](https://www.animenewsnetwork.com/press-release/2018-12-03/fullmetal-alchemist-brotherhood-collab-bursts-back-into-puzzle-and-dragons/.140330)).
+- **Monster Strike × FMA**: una primera con **13 personajes**; una segunda
+  del **12-feb al 2-mar-2023** con formas nuevas de Ed, Al, Roy y Ling ✅
+  ([QooApp](https://news.qoo-app.com/en/post/13435/qoo-news-monster-strike-x-fullmetal-alchemist-event-will-start-147),
+  [QooApp, 2.ª](https://news.qoo-app.com/en/post/148995/monster-strike-fullmetal-alchemist2)).
+- ⚠️ **No encontré** colaboración con **Fortnite** ni con otros juegos
+  occidentales (búsqueda en español e inglés).
+
+### 24.2 Ropa, cafés y exposiciones
+
+- **UNIQLO Manga UT** (19-ago-2019): FMA tuvo camiseta propia ✅
+  ([aitaikuji](https://www.aitaikuji.com/series/uniqlo-manga-ut-t-shirts));
+  ⚠️ no se vio el diseño.
+- **Café del 20.º aniversario** (Akihabara): 3-30 sep y 1-28 oct de 2022;
+  otra edición del 21-mar al 7-may-2023 ✅
+  ([QooApp](https://news.qoo-app.com/en/post/111430/fullmetal-alchemist-cafe),
+  [Crunchyroll](https://www.crunchyroll.com/anime-news/2023/03/18-1/torna-il-fullmetal-alchemist-20th-anniversary-caf-in-giappone)).
+- **«FMA × Yomi no Tsugai Cafe»** (Motto Cafe, Tokio, 2025): platos como
+  **«Ed's Curry Pilaf»** y **«Winry's Ajillo»** ✅
+  ([Japan Travel](https://en.japantravel.com/tokyo/fullmetal-alchemist-x-yomi-no-tsugai-cafe/71226),
+  [Tokyo Weekender](https://www.tokyoweekender.com/event/full-metal-alchemist-x-yomi-no-tsugai-cafe/)).
+- **Exposición de Matsuya Ginza** (2026) y **Premiere Tour de USJ** (2005):
+  §3.3.
+
+### 24.3 Figuras oficiales (su pose es una referencia 3D)
+
+| Personaje | Figura | Lo que trae | Fuente |
+|---|---|---|---|
+| Edward | Nendoroid (#788) | 3 caras; brazos para la **pose del aplauso**; automail a la vista | [goodsmile.info](https://www.goodsmile.info/en/product/6519/Nendoroid+Edward+Elric.html) ✅ |
+| Alphonse | Nendoroid | 3 caras; **pecho que se abre con un gato dentro** | [Kahotan's Blog](https://mikatan.goodsmile.info/en/2017/07/18/nendoroid-alphonse-elric-fullmetal-alchemist/) + [goodsmile.info](https://www.goodsmile.info/en/product/6586/Nendoroid+Alphonse+Elric.html) ✅ |
+| Roy | Nendoroid (reedición) | 3 caras; **llama y línea de fuego** para el chasquido | [Good Smile US](https://www.goodsmileus.com/products/fullmetal-alchemist-brotherhood-nendoroid-roy-mustang-figure-rerelease) ✅ |
+| Winry | Nendoroid (#2474, anunciada 23-may-2024) | caras sonriente, enfadada y encantada; **llave inglesa, tarta de manzana y una mano de Ed señalando** | [goodsmile.com](https://www.goodsmile.com/en/product/34673) + [HLJ](https://www.hlj.com/nendoroid-winry-rockbell-fullmetal-alchemist-brotherhood-gsc19495) ✅ |
+| Edward | BUZZmod. (Aniplex, 1/12, articulada) | — | [Aniplex](https://store.aniplexusa.com/fma/edward-elric-buzzmod-ver/) ✅ |
+| Ed y Al | estatua DX (Prime 1 Studio) | pose de combate en pareja | [Prime 1](https://www.prime1studio.com/fma-edward-and-alphonse-elric/CMFMA-01DX.html) ⚠️ |
+| Alphonse | Funko Pop | de pie, faldón blanco | hoja #67 ✅ |
+
+⚠️ No encontré **figma** de los cuatro (sí Nendoroid, BUZZmod, Revoltech y
+la estatua).
+
+### 24.4 Cosplay
+
+- El **automail esculpido** de `_casterclass` (Flickr, CC BY-NC 2.0,
+  §4.4) ✅: volumen real, remaches, dedos por segmentos.
+- ⚠️ No encontré un cosplay de FMA **premiado** (World Cosplay Summit)
+  confirmado en dos fuentes.
+
+## 25 · Obras parecidas y láminas vecinas
+
+### 25.1 Lo que reconoce la autora
+
+- **Hiroyuki Etō** (*Mahōjin Guru Guru*, fue su asistente) y **Suihō
+  Tagawa** (*Norakuro*) ✅ (wiki + The Mary Sue).
+- **Yudetamago** (*Kinnikuman*), su manga de infancia ✅ (mismas dos).
+- **Rumiko Takahashi** y **Shigeru Mizuki** (*GeGeGe no Kitarō*) ⚠️ (sólo
+  The Mary Sue, citando el artbook *Profiles*).
+- Su obra actual, ***Daemons of the Shadow Realm*** (*Yomi no Tsugai*),
+  comparte exposición y café con FMA (§24) ✅ (AniList la relaciona).
+
+### 25.2 Lo que recomienda la comunidad (AniList)
+
+*Hunter x Hunter* (2011, 3 621 votos), *Attack on Titan*, *Soul Eater*,
+*Daemons of the Shadow Realm*, *D.Gray-man*, *One Piece*, *Witch Hat
+Atelier*, *Demon Slayer*, *Naruto Shippuden*, *Orb: On the Movements of
+the Earth*, *Fate/Zero*, *Dororo*, *Jujutsu Kaisen* ✅ ([AniList](https://anilist.co/anime/5114)).
+
+**En qué se parecen** (comparación de las sinopsis, ⚠️ sin fuente que lo
+diga): ejército y guerra (*Attack on Titan*, *Fate/Zero*); ciencia contra
+dogma (*Orb*); hermanos y maestros (*Soul Eater*, *Demon Slayer*); **cuerpos
+robados o de metal** (*Dororo*, paralelo directo con el automail y la
+armadura).
+
+**De la propia franquicia**: el manga (2001), la serie de **2003** (otro
+final), la *OVA Collection*, la película *La estrella sagrada de Milos* y
+el *4-Koma Theater* ✅. En TV Tropes hay páginas del manga, de la serie de
+2003 y hasta de una parodia *Abridged* ⚠️ (sólo el buscador: la web dio 403).
+
+### 25.3 Láminas vecinas del servidor (para no repetir ideas)
+
+| Lámina | Parecido | Cómo no chocar |
+|---|---|---|
+| **Dr. Stone** (#hardware) | ciencia, taller, cacharros | el banco de Winry (§27 B) es **automail y metal**, con luz de pueblo; nada de laboratorio de piedra |
+| **Attack on Titan** (#reglas) | ejército, uniformes, guerra | FMA no va en #reglas; el ajedrez de Roy (§27 C) es un despacho, no un muro |
+| **Violet Evergarden** (#poemas) | posguerra, uniformes, **máquina de escribir** | usar Special Elite sólo en un papel suelto, no una máquina de escribir como objeto |
+| **Evangelion** (#demos) | fichas técnicas | la cartela de FMA es un **marco de filigrana**, no una ficha |
+| **Big Hero 6** (#soporte) | prótesis y robots | el automail es **de metal viejo con remaches**, no plástico blanco |
+| **Monsters, Inc.** (propuesta del encargo 29 para #general-doblaje) | el oficio de la voz | si gana Monsters, FMA pasa a su reserva (§0.2) |
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas del mundo, en cinco líneas ✅
+
+1. **Amestris**: país militar, república de fachada que en la práctica
+   manda el ejército; capital **Ciudad Central**; cinco regiones ([wiki](https://fma.fandom.com/wiki/Amestris)).
+2. **La alquimia** tiene tres pasos: **comprender, descomponer y
+   reconstruir**; y una ley, el **intercambio equivalente**: para obtener
+   algo hay que perder algo de igual valor ([wiki](https://fma.fandom.com/wiki/Alchemy)).
+3. **La Verdad** castiga la **transmutación humana**: quien cruza **la
+   Puerta** pierde algo suyo ([wiki](https://fma.fandom.com/wiki/The_Truth)).
+4. **La Piedra Filosofal** está hecha de **almas humanas**: se salta la
+   ley, pero se gasta ([wiki](https://fma.fandom.com/wiki/Philosopher%27s_Stone)).
+5. **Los Alquimistas Estatales** sirven al ejército con rango de mayor y un
+   **reloj de plata**; tres normas: **obedecer al ejército, no crear oro,
+   no crear humanos** ([wiki](https://fma.fandom.com/wiki/Alchemist)).
+
+### 26.2 La historia por arcos ✅
+
+Los 13 arcos que usa la wiki ([Story Arcs](https://fma.fandom.com/wiki/Story_Arcs/Manga)):
+1. **Primer arco**: Lior y el falso profeta Cornello; termina con **Nina
+   Tucker**.
+2. **Scar**, el asesino de Alquimistas Estatales.
+3. **Laboratorio 5**: aparecen los **homúnculos** y Barry el Carnicero.
+4. **Winry llega a Central** para arreglar el automail de Ed.
+5. **Rush Valley**, la ciudad del automail.
+6. **Dublith**: vuelve **Izumi**, la maestra; el recuerdo de la
+   transmutación fallida.
+7. **Ling**, el príncipe de Xing que busca la inmortalidad.
+8. **Revelaciones**: sale a la luz el plan de **Padre**.
+9. **Regreso de Scar**.
+10. **Envidia**.
+11. **Ishval**: la guerra civil y el genocidio ordenado desde arriba.
+12. **Briggs**, la fortaleza del norte de Olivier Armstrong.
+13. **El Día Prometido**: eclipse y batalla final contra Padre.
+
+### 26.3 Símbolos y objetos (colores en §20.2)
+
+- **La cruz de Flamel**: en la espalda de Ed, en la armadura de Al,
+  tatuada en el pecho de Izumi ✅ ([wiki](https://fma.fandom.com/wiki/Flamel)).
+- **El reloj de plata**: grabado con el **dragón de Amestris en un
+  hexagrama** (el anime lo suaviza a un polígono) ✅.
+- **El uróboros**: cada homúnculo lo lleva en un sitio: **Lujuria** en el
+  pecho, **Gula** en la lengua, **Envidia** en el muslo izquierdo,
+  **Codicia** en el dorso de la mano izquierda, **Ira** en el ojo
+  izquierdo, **Pereza** en el hombro derecho; **Orgullo** y **Padre** no
+  lo llevan ✅ ([wiki](https://fma.fandom.com/wiki/Ouroboros)).
+- **El automail**: prótesis de metal (el brazo y la pierna de Ed); el
+  oficio de Winry.
+- **Los círculos de transmutación**: línea fina, círculos, hexagramas y
+  engranajes.
+- **Xerxes**: civilización que desapareció de golpe hace 400 años
+  (convertida en piedra filosofal) ✅ ([wiki](https://fma.fandom.com/wiki/Xerxes)).
+- **Xing y la alkahestría** (錬丹術): alquimia oriental que usa el **Pulso
+  del Dragón**; la llevó allí Hohenheim ✅ ([wiki](https://fma.fandom.com/wiki/Alkahestry)).
+
+### 26.4 Vocabulario que un fan reconoce al instante
+
+**Intercambio equivalente** · **Alquimista de Acero** · **Alquimista
+Estatal** · **perro del ejército** (mote de los alquimistas del Estado) ·
+**transmutación humana** · **la Puerta** · **la Verdad** · **Piedra
+Filosofal** · **homúnculos** (Lujuria, Gula, Envidia, Codicia, Ira,
+Pereza, Orgullo) · **Padre** · **automail** · **ishvalanos** ·
+**Generalísimo** (el Führer, en el doblaje) · **el Día Prometido** ·
+**«Uno es todo, todo es uno»** (el lema) · **uróboros**.
+
+## 27 · Tres conceptos de lámina
+
+Tres ideas distintas, cada una para un canal o sala (§0). Todas siguen
+las reglas del dueño: objeto real en un sitio real, pose que va con lo que
+dice, textos cortos en la voz de la serie, tono serio con luz de verdad.
+
+### A · #general-doblaje — «El círculo de tiza» (la propuesta principal)
+
+- **El objeto y el sitio**: un **círculo de transmutación dibujado con
+  tiza** sobre el **suelo de tablones** de un cuarto de estudio en
+  Resembool, con estantería de libros y ventana (como el cuarto de Al en el
+  ED1, B21). Se hace en **Blender**: un plano con madera
+  ([Wood095](https://ambientcg.com/view?id=Wood095)) y el círculo como
+  calcomanía, para que **la tiza siga las vetas**. Al lado, un trozo de
+  tiza, un cuaderno abierto y el **reloj de plata** abierto
+  ([modelo CC BY](https://sketchfab.com/3d-models/none-d01a4822154e4e9aa0efc616a4a07475)).
+  El círculo es de **tres anillos con hexagrama y engranajes**, como el de
+  la portada del cap. 1 (#7). **Nunca** el de la transmutación humana.
+- **El personaje**: **Edward** (el más querido), **de rodillas** al borde
+  del círculo, con **las palmas juntas** a punto de tocarlo: la pose A15
+  (OP1 0:28) y #56. Abrigo rojo `#DA4332`, trenza, automail a la vista. Al
+  fondo, en penumbra, **la armadura de Al** sentada (#85), con **los ojos
+  encendidos** y un gato asomando del pecho (el gag de §14).
+- **Cómo habla**: con la **cartela del eyecatch** (§7.1): arriba a la
+  izquierda, color plano naranja (como la de Havoc, E16), marco fino de
+  filigrana, «Edward Elric» en cursiva abajo a la derecha. Título en
+  **Rokkitt Black**; lo que dice, en **Comic Neue Bold**; lo escrito con
+  tiza, en **Permanent Marker** blanca.
+- **Dónde va cada texto** (el del canal, repartido; sin «·», «—» ni
+  paréntesis):
+  - Cartela, título: «general-doblaje».
+  - Cartela, Ed: «Aquí se habla del oficio.» / «Micros, voces, técnica y
+    dudas de novato.»
+  - Los tres anillos, en tiza: «Comprende la escena.» / «Desarma la
+    frase.» / «Rehazla con tu voz.»
+  - Dos flechas de tiza que salen del círculo: «¿Ya grabaste? A demos.» y
+    «¿Buscas papel? A castings.»
+  - Al borde, pequeño: «Para obtener algo, hay que dar algo a cambio.»
+- **Para que no quede plano**: dos luces, **azul frío de la ventana** al
+  anochecer por la izquierda y **lámpara cálida** por la derecha; un
+  **brillo azul** de transmutación que empieza a subir de las líneas y le
+  ilumina la cara desde abajo (los rayos del tráiler, 0:14); **polvo de
+  tiza** en el aire; **el reloj desenfocado en primer plano**; los ojos
+  de Al brillando al fondo.
+- **Lámina 2** (si el dueño la quiere): «Dos doblajes, dos voces» con las
+  dos cartelas (Venezuela 2011 y México 2021) y el dato de Jhonny Torres
+  (§10).
+
+### B · 🎚️ Mesa de Trabajo — «El banco de Winry»
+
+- **El objeto y el sitio**: **el banco de trabajo del taller de automail
+  Rockbell**, en Resembool (la casa del cartel «AUTO MAIL», §17). Sobre el
+  banco, lo que se ve en el ED1 (B17-B20): **tarros de tornillos, llave
+  inglesa, martillo, papeles**, y una ventana con cortina rosa. En medio,
+  **un brazo de automail abierto** ([modelo CC BY](https://sketchfab.com/3d-models/none-ee490a1766144addb9772e4cb14daeec),
+  con Decimate) sobre un paño. Clavada al banco, **una hoja de encargo**.
+- **El personaje**: **Winry**, con la **ropa de trabajo** (#81: mono verde
+  `#D2D9B2` atado a la cintura, top negro, pañuelo verde) y **la llave
+  inglesa en alto** (#32), sonrisa firme. Bajo el banco, **Den**, el perro
+  de la pierna de automail (#44).
+- **Cómo habla**: su nombre en una **cartela verde** (como la #65). Lo que
+  dice va **en la hoja de encargo**: el formulario en **Special Elite** y
+  sus notas a mano en **Permanent Marker**.
+- **Dónde va cada texto** ⚠️ (la sala **no tiene texto** en el
+  inventario: esto es una propuesta):
+  - Cartela: «Mesa de Trabajo».
+  - Hoja de encargo: «Trae tu proyecto.» / «Se trabaja en voz, codo con
+    codo.» / «Comparte pantalla y pide ayuda.»
+  - Nota de Winry, a mano: «Y cuida tus herramientas.»
+- **Para que no quede plano**: **luz de día** limpia entrando por la
+  ventana de atrás (el cielo de Resembool, `#87BAE8`); el **automail en
+  primer plano** con brillos de metal cepillado; la llave inclinada hacia
+  cámara; Den asomando por debajo; tarros con reflejos.
+- ⚠️ **Choque**: el encargo 29 pone aquí el taller de Monsters, Inc. «por
+  vecindad»; si #general-doblaje es de FMA, la Mesa de Trabajo también
+  sería de FMA y la sección quedaría de un solo mundo.
+
+### C · #staff — «El ajedrez de Roy»
+
+- **El objeto y el sitio**: **un tablero de ajedrez** (fácil en Blender)
+  sobre la mesa del **despacho de Roy** (hoja #58), entre papeles
+  militares. Cada pieza lleva **una etiqueta de papel** con su nombre del
+  equipo: Fuery peón, Falman alfil, Havoc caballo, Breda torre, Hawkeye
+  reina, Roy rey (§14).
+- **El personaje**: **Roy** (2.º en popularidad), sentado, **moviendo la
+  reina** con el **guante blanco** (el círculo de fuego en el dorso a la
+  vista), media sonrisa (la cara de E10, sin las flores). Detrás, de pie y
+  firme, **Riza** (3.ª) (modelo 3D de §4.1; E11 para la cara), con Black
+  Hayate a sus pies.
+- **Cómo habla**: cartela del eyecatch **azul** (como la #32) con «Roy
+  Mustang» en cursiva; lo que dice en Comic Neue; un **parte militar** en
+  Special Elite junto al tablero.
+- **Dónde va cada texto**:
+  - Cartela: «staff».
+  - Roy: «Aquí se coordina el equipo.»
+  - Parte militar: «Lo que no es moderación ni planificación.»
+  - Etiqueta de la reina, a mano: «Cada pieza sabe qué le toca.»
+- **Para que no quede plano**: **lámpara de mesa** baja y cálida que
+  proyecta las sombras de las piezas; **las piezas del primer plano
+  desenfocadas**; Riza en segundo plano con luz más fría; los papeles de
+  la mesa en diagonal hacia el fondo.
+- ⚠️ **Es un canal privado**: sólo si los privados llevan lámina. Si no,
+  la variante es **#destacados**: el **reloj de plata sobre su cojín
+  morado** (`#4C3D64`, [Pocketwatch.png](https://static.wikia.nocookie.net/fma/images/1/1c/Pocketwatch.png)),
+  que sólo recibe quien aprueba: «Lo que junta estrellas acaba aquí solo.»
+  (choca con Super Mario Galaxy del encargo 29).
+
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### 28.1 Lo que falta (con lo que se intentó)
+
+- **Ningún capítulo completo** se pudo abrir: YouTube pedía iniciar
+  sesión, Dailymotion e Internet Archive sólo tienen tráilers, extras y
+  el OP/ED. Por eso las escenas que hacen llorar no tienen minuto (§22) y
+  el episodio de la **transmutación humana** no está confirmado (ep. 1
+  según la parte de voz, ep. 4 según el listado de música).
+- **Caras**: faltan con fotograma la **tristeza y la vergüenza** de Ed, la
+  **rabia y la tristeza** de Winry adulta, y casi todo de Riza y Hughes
+  (§8, §15).
+- **Doblaje**: sin clips oficiales doblados; las voces de Animax de los
+  secundarios sólo salen en Doblaje Wiki (§10.2).
+- **Fan dubs**: sin vistas ni canal (§23); TikTok, sin vídeos concretos.
+- **Letras**: el nombre de la letra del logo sólo lo da fontmeme (⚠️); no
+  se abrió la **cursiva** de Libre Baskerville; **no hay letra libre**
+  comprobada para la interfaz de juego (§6).
+- **Juegos**: no se vio la **caja de diálogo** del modo historia (Game UI
+  Database y MobyGames dieron 403; TCRF, Cloudflare).
+- **Técnica**: no hay *making of* ni entrevista con los programas de BONES
+  (§19.4); no se encontraron **pinceles o tramas libres** (§20.3).
+- **Pantalla**: no se vieron **papeles militares** (§7.8); no se midieron
+  los colores de las **cartelas del eyecatch** (§7.1).
+- **Fondos**: no hay página oficial de fondos de pantalla (§17).
+- **Datos sueltos**: quién hizo la «final fan poll» de la wiki (§9); el
+  nombre del efecto de la transmutación (§11.5); la Filarmónica de Varsovia
+  (§11.4); cumpleaños de Ed, Al, Roy y Riza (no fijados en canon, §21);
+  ninguna encuesta hispana (§9).
+- **Colaboraciones**: sin Fortnite, sin figma, sin cosplay premiado, sin
+  el diseño de la camiseta de UNIQLO (§24).
+- **Webs bloqueadas**: TV Tropes (403, sin copia en Wayback), TCRF, Game UI
+  Database, MobyGames, fontmeme, Riot Pixels; el tráiler de YouTube
+  `1ac3_YdSSy0`.
+
+**Para oír en persona** (va a DECISIONES, §2):
+- Doblaje Animax, muestra de Edward, segundo 0:53: ¿dice «**la**
+  alquimista de acero» o «**el** alquimista de acero»?
+- FMA: Brotherhood, ep. 10: minuto de la cabina de teléfono de Hughes y la
+  frase latina de Roy al saberlo.
+
+### 28.2 Lo que corregí de las partes (miré sus hojas de contacto)
+
+El redactor abrió las hojas de fotogramas del equipo (OP1, ED1, tráiler,
+blooper y las miniaturas del tráiler de 2009) y las hojas de la wiki.
+Esto no cuadraba:
+
+| # | La parte decía | Lo que se ve o dicen las fuentes | Parte |
+|---|---|---|---|
+| 1 | tráiler 0:24, Roy apuntando | es **Hughes** (gafas y barba) | vídeo |
+| 2 | tráiler 0:26, la mano de Al en llamas | **dos manos humanas** entre llamas | vídeo |
+| 3 | tráiler 0:38-0:42, Gluttony | el **casco de Al** con ojos redondos (gag) | vídeo |
+| 4 | tráiler 0:36, Scar y su discípulo | **Hughes con un rifle** junto a un soldado | vídeo |
+| 5 | tráiler 0:12, silueta de lobo o quimera | una **figura con capa** | vídeo |
+| 6 | tráiler 0:16, tejados de Central al anochecer | **hombres de traje** en un callejón; la paleta violeta queda sin sitio | vídeo |
+| 7 | tráiler 0:34, Ed de espaldas ante ruinas | Ed **de frente**, Al detrás | vídeo |
+| 8 | blooper 1:29, guerra de Ishval | el tanque ataca el **Cuartel General de Central** (estandarte verde) | vídeo |
+| 9 | blooper 0:12, Roy con auriculares | no hay ese plano; el del auricular (1:12) es **otro militar** | vídeo |
+| 10 | blooper 1:20, Roy con gafas | Roy **sin gafas** | vídeo |
+| 11 | blooper 3:46, Al protege a May | plano en **negro**; Al con May está en **7:15** | vídeo |
+| 12 | blooper 5:54, Ed con la capa al viento | Ed con **coleta y camisa blanca** | vídeo |
+| 13 | blooper 6:02, Roy furioso con parche | son **las quimeras**; el del parche es **Bradley** (5:11) | vídeo |
+| 14 | blooper 7:26, Ed y Al ante Roy | **Winry niña** gritando en la colina | vídeo |
+| 15 | OP1 0:02-0:04, Winry en una ventana | **no es Winry** (un joven rubio sin identificar) | vídeo |
+| 16 | OP1 0:44, Roy con fuego | **Hughes**; Roy sale en **0:46** | vídeo |
+| 17 | OP1 0:26, el aplauso | es en **0:28** | vídeo |
+| 18 | tráiler 2009 ~0:46, Ed gritando | un personaje de **pelo negro con bufanda a rayas** | voz |
+| 19 | Hughes, el secundario con más favoritos en AniList | es el **8.º**; le ganan Ling y Greed | voz |
+| 20 | Roy cumple el 24/8; Ed mide 165 con alzas (141) | el 24/8 es de **Bradley**; la wiki da a Ed **149 cm** al empezar | voz |
+| 21 | hojas de modelo #25-32 en `personajes_02`; #86 «Volume 3» | están en **`personajes_01`** (#25-30); eyecatch #31-33; **#86 es Ed de WEBTOON** (#78 es el tomo 3) | imagen |
+| 22 | la exposición de Ginza está «activa ahora» | **cerró el 2-sep-2026**; sigue de gira | imagen |
+
+Además, `personajes_03.jpg` (sólo 3 imágenes) se cambió por
+`escenas_01.jpg`, montada con esas hojas de vídeo.
+
+## Cumplimiento del encargo
+
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado | ✅ | 99 imágenes de la wiki en 2 hojas numeradas: tomos, portadas de capítulo, 9 eyecatches, hojas de modelo 2009 con el automail despiezado; póster, banner; exposición de 2026 (§3) |
+| 2 | Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | 24 fotogramas elegidos y 76 del OP1 y ED1 con minuto (§2, `escenas_01.jpg`). El minuto es **del vídeo** (tráiler 1080p, blooper, OP/ED), no del capítulo: ningún capítulo se pudo abrir; sólo el ep. 4 y el 10 tienen número |
+| 3 | Fan art y 3D con licencia | ✅ | 6 modelos CC BY (reloj, automail, círculo, Al, Riza) con autor; fan art con origen; cosplay CC BY-NC (§4). El de Roy es NC |
+| 4 | Sitios, luz, paleta y texturas reales | ✅ | 13 sitios con luz y paleta medida con `estilo.py`; 9 texturas CC0 (§5, §20). ⚠️ la paleta violeta de Central quedó sin plano |
+| 5 | Tipografía: una letra para cada uso | ⚠️ | 7 usos con letra libre comprobada con fontTools (§6.2) y el logo visto. Falta letra para la **interfaz de juego**; el nombre de la letra del logo tiene una sola fuente; cursiva sin abrir |
+| 6 | Cómo hablan en pantalla (cuadro de diálogo) | ⚠️ | **la cartela del eyecatch** vista y descrita, portada de capítulo, objetos que hablan, globo del ED1, menú del juego (§7). Los globos del manga sólo en miniatura; sin caja de diálogo de ningún juego |
+| 7 | Personajes y encuestas de popularidad | ✅ | AniList, «final fan poll» de la wiki, *Animage* 2003, Danbooru, dos hilos de Reddit (§9). ⚠️ sin encuesta hispana; la de la wiki sin autor |
+| 8 | Doblaje latino y frases textuales | ⚠️ | **dos doblajes** con estudio y dirección en dos fuentes; 23 personajes por doblaje (los 4 principales y los de Funimation con dos fuentes); 8 frases textuales de las muestras con `voz.py` (§10). Sin clips doblados: el tiempo es de la muestra; las voces Animax de secundarios, una fuente |
+| 9 | Música y sonido | ⚠️ | 5 OP y 7 ED confirmados; OP1 y ED1 **mirados** plano a plano; banda sonora de Akira Senju (§11). Temas por escena, de un listado de fans; sin nombre del efecto de la transmutación |
+| 10 | Vídeos y tendencias con minuto | ⚠️ | tráiler 1080p, blooper, Dynit, Vidaextra y una reseña en vídeo, con minuto (§12). YouTube bloqueado; TikTok sin vistas |
+| 11 | Videojuegos: interfaz, menús, diálogo | ⚠️ | lista completa; menú y combate del juego de PSP vistos y medidos; Wii y móvil por texto (§13). **Sin caja de diálogo** del modo historia |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | 9 cosas que todo fan reconoce, zona delicada y 9 «no hacer» (§14) |
+| 13 | Descripción profunda: qué transmite, cara en cada emoción, dinámicas | ⚠️ | 4 principales a fondo y 11 secundarios; 8 dinámicas (§8). Tablas de caras incompletas: faltan **tristeza y vergüenza** de Ed y casi todo de Winry adulta, Riza y Hughes en fotograma |
+| 14 | Poses analizadas (6-10 por personaje) | ✅ | Ed 13, Al 9, Roy 8, Winry 10, con minuto o número de hoja, y tabla de qué pose para qué (§15) |
+| 15 | Vestuario con hex | ✅ | unos 20 hex medidos sobre hojas de modelo oficiales; traje icónico y de epílogo; corrección del mono de Winry (verde, no beige) (§16) |
+| 16 | Ciudades y fondos de pantalla | ⚠️ | 8 sitios con hora y luz; 5 fondos de fans con tamaño y autor (§17). **No encontré** página oficial de fondos |
+| 17 | Guía para IA de imagen y de texto | ✅ | rasgos fijos, paleta, línea, luz, encuadre, palabras que ayudan y que estropean, ejemplo, referencias; voz de cada uno, frases reales por emoción y vocabulario visual (§18) |
+| 18 | Estilo, técnica, Photoshop, Blender y encuadres | ⚠️ | staff, entrevista al director, fuentes de Arakawa, póster medido, receta de Photoshop y Blender, encuadres (§19). Sin *making of* ni programas de BONES; la receta es propuesta; sin encuadres por emoción de capítulos |
+| 19 | Texturas 2D | ⚠️ | trama y pincelada miradas; 6 emblemas con hex; 4 texturas CC0 (§20). **No encontré** pinceles ni tramas libres |
+| 20 | Gustos y detalles | ⚠️ | 9 personajes con lo que hay en la wiki y AniList (§21). Sin *databook*: faltan comidas, alturas y cumpleaños (no se inventan) |
+| 21 | Por qué la aman y escenas que hacen llorar o reír | ⚠️ | números (MAL, IMDb, AniList), razones con fuente, 7 escenas con capítulo, reacciones (§22). **Sin minuto** de las escenas; el capítulo de la transmutación humana, sin confirmar |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | 5 fandubs y covers con enlace, guiños y errores del doblaje que circulan (§23). **Sin vistas ni canal** (YouTube bloqueado); sin TikTok hispano |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | Puzzle & Dragons, Monster Strike, UNIQLO, 3 cafés, 2 exposiciones, 7 figuras, cosplay con licencia (§24). ⚠️ sin Fortnite ni figma |
+| 24 | Obras parecidas y láminas vecinas | ✅ | influencias de Arakawa, recomendaciones de AniList, franquicia, 6 láminas vecinas y cómo no chocar (§25) |
+| 25 | Mundo, historia por arcos y símbolos | ✅ | 5 reglas, 13 arcos, símbolos con sus colores y vocabulario (§26) |
+| 3 conceptos | Tres láminas distintas con canal propuesto | ✅ | A #general-doblaje (propuesta), B 🎚️ Mesa de Trabajo, C #staff (o #destacados), con choques anotados (§0, §27) |
+| 40 fuentes | Mínimo 40 fuentes distintas | ✅ | 52 webs enlazadas |
+| Tipos de fuente | Oficiales, idiomas, wikis, foros, arte, vídeo, código, doblaje | ⚠️ | oficiales (entrevista de Irie, Good Smile, Matsuya, Blu-ray), inglés, japonés (búsqueda y hojas), italiano (Dynit), Fandom, Doblaje Wiki, Reddit, Danbooru, Safebooru, Wallhaven, Sketchfab, ambientCG, Internet Archive, Dailymotion ✅. Sin entrevista en japonés, coreano o chino; **sin GitHub**; TV Tropes y TCRF bloqueados; sin entrevistas a actores latinos |
+| Minutos y colores | 15 minutos citados y 10 hex medidos | ✅ | cientos de minutos con enlace `?t=`; más de 100 hex |
+| Hojas | 3 hojas de menos de 3 MB | ✅ | `personajes_01.jpg` (960 KB), `personajes_02.jpg` (794 KB), `escenas_01.jpg` (1187 KB), numeradas en §3.1 |
+| referencias.json | Todas las útiles, las mejores primero | ✅ | **189** referencias de las cuatro partes y `datos.json`, sin tope; primero las de los 3 conceptos (hoja de modelo de Ed, el aplauso, reloj y automail en 3D, cartelas, ropa y banco de Winry, Roy); tamaños medidos en las imágenes |
+
+## 29 · Bitácora de búsqueda
+
+Junta las bitácoras de las cuatro partes, la de `recolectar.py` y lo que
+hizo el redactor. Idioma entre paréntesis.
+
+### 29.1 Recolector gratuito (`herramientas/recolectar.py`, 24-sep-2026)
+
+- AniList (ficha, staff, personajes, recomendaciones), Doblaje Wiki (ficha,
+  «Datos de interés» y muestras de audio), wiki `fma` (imágenes y textos
+  de Ed, Al, Roy y Winry), Sketchfab, Openverse, Dailymotion, MusicBrainz,
+  Steam, hojas de contacto con `investigar_serie.py` (169 imágenes
+  enlazadas, 99 grandes).
+- **Fallaron**: AnimeThemes (522); Reddit («no encontré el subreddit»);
+  Danbooru, Safebooru y Wallhaven quedaron vacíos porque buscó con el
+  nombre largo de la serie en vez del tag `fullmetal_alchemist`; los
+  clips de Dailymotion estaban mal etiquetados (§12.2).
+
+### 29.2 Investigador de imagen (puntos 1, 3, 15, 16, 19, 23)
+
+- **API de la wiki `fma`** (inglés): búsquedas de Resembool, Central City,
+  Ishval, Xerxes, Fort Briggs, Lior (la página real es «Reole»),
+  Ouroboros, State Alchemist, Amestris, Flamel; `prop=images` e
+  `imageinfo` con tamaño antes de bajar.
+- **Danbooru** (`related_tag`, tag `fullmetal_alchemist`, 6 647 posts) y
+  `<personaje> solo`; **Safebooru** (4 búsquedas, sin contenido adulto);
+  **Wallhaven** (API, etiquetas revisadas una a una); **Sketchfab** (API
+  v3: «Automail», «State Alchemist watch», «Fullmetal Alchemist», «Roy
+  Mustang», «transmutation circle»); **ambientCG** (wool, leather,
+  brushed metal, paper).
+- **`estilo.py`** sobre 17 imágenes (6 de vestuario, 7 de sitios, 4 de
+  símbolos, 2 de manga), todas miradas con Read.
+- **WebSearch** (8; español e inglés): colaboraciones con gachas,
+  Nendoroid y figma, cafés temáticos, UNIQLO UT, cosplay premiado,
+  Universal Studios Japan, figma de Ed, figuras de Winry. Y en **japonés**:
+  «フルメタル錬金術師 壁紙 公式 ダウンロード» (sin página oficial).
+- Sin 403 ni 404.
+
+### 29.3 Investigador de vídeo (puntos 2, 4, 9, 10, 14)
+
+- AnimeThemes: 522 cuatro veces (recolector, `--solo animethemes` y API
+  con espera).
+- **Dailymotion API** (español e inglés): «episodio 1 completo»,
+  «capítulo 1», «episode 1 full»: sólo tráilers y openings.
+- **Internet Archive** (`advancedsearch`): `fullmetal alchemist
+  brotherhood`, `identifier:turner_video_* AND fullmetal`,
+  `title:(fullmetal alchemist brotherhood)`: los extras de FUNimation, el
+  OP/ED sin créditos y la reseña de Blip.tv. `ffprobe` para medir cada
+  vídeo (el «1080p» del nombre era 852×480).
+- Wiki `fma` (temas musicales), Soundeffects Wiki, `fmabostlist` (música
+  por episodio), búsqueda web de efectos de la alquimia y de tendencias de
+  TikTok 2024-2025 (español e inglés).
+- `fotogramas.py` sobre el OP1 (cada 2 s), el ED1 (cada 3 s), el tráiler de
+  FUNimation (cada 2 s) y el de Vidaextra (cada 4 s); `episodio.py` ×4
+  (blooper, tráiler, ED1, reseña) → `partes/episodios.md`; `estilo.py`
+  sobre 8 fotogramas; ambientCG (Stone, Snow, Ice, RoofingTiles sin
+  resultado, Sand, WoodSiding sin resultado, Bricks, Wood, Metal).
+- YouTube pidió iniciar sesión todo el día.
+
+### 29.4 Investigador de voz y personajes (puntos 7, 8, 12, 13, 20, 21, 22)
+
+- **Doblaje Wiki** por su API (`action=parse&prop=wikitext`): la tabla de
+  reparto con sus dos pestañas (el recolector sólo había sacado los
+  nombres de los audios) y los «Datos de interés».
+- **AniList** (ya recolectado), **Danbooru** (`counts`, tag correcto),
+  **Jikan/MyAnimeList**, **Arctic Shift** para r/FullmetalAlchemist (con
+  `title=`; `query=` da error: aviso para el recolector), **wiki `fma`**
+  (Trivia y Relationships de Ed, Al, Roy, Winry y Riza).
+- **Internet Archive**: miniaturas del tráiler de 2009 (`turner_video_11408`).
+- **6 muestras de audio** de Doblaje Wiki con `voz.py` (Whisper local).
+- **WebSearch** (8; español e inglés): ANMTV y el redoblaje 2021; encuesta
+  de popularidad (Newtype, Square Enix); escenas que hacen llorar
+  (→ Univision); fandubs en español (→ 6 vídeos); memes; por qué la aman
+  (→ DualShockers, GameRant); episodio de la muerte de Hughes (→ CBR,
+  OtakuKart); encuesta de *Animage* (→ furinkan.com).
+- **Fallaron**: TV Tropes (403 de Cloudflare, sin copia en Wayback
+  Machine, 2 intentos); reddit.com directo (bloqueo; se usó Arctic Shift);
+  un artículo de etc.cl (404); YouTube (sesión y 429 al reintentar).
+
+### 29.5 Investigador de texto, juegos y técnica (puntos 5, 6, 11, 18, 24, 25)
+
+- **API de la wiki `fma`** (inglés): Amestris, Alchemy, The Truth,
+  Philosopher's Stone, Alchemist, Story Arcs/Manga, Flamel, Ouroboros,
+  Xerxes, Alkahestry, Xing, State Military, Chapter 1, Hiromu Arakawa,
+  List of Video Games; búsquedas de texto completo (Flamel cross, pocket
+  watch inscription, emblema, timeline, story arc, title page, Xingese,
+  newspaper).
+- **Imágenes miradas y medidas**: `Chapter1.jpg`, `Pocketwatch.png`,
+  `Truth.png`, `Fmab-poster.png` y 3 capturas del juego de PSP.
+- **fontTools** sobre 8 letras de Google Fonts y la Anime Ace v1.
+- **WebSearch** (12; inglés): letra del logo, globos y onomatopeyas del
+  manga, entrevista de Irie, influencias de Arakawa, capturas del PSP y de
+  la Wii, cierre del juego móvil, programas de animación de BONES, diseño
+  de color de los círculos, TV Tropes, TCRF, cartelas de título. **No se
+  buscó en japonés, coreano ni chino** (lo dice la parte: la documentación
+  técnica occidental estaba en inglés).
+- **Fetch directo**: The Mary Sue, The Video Games Museum, la API de
+  Steam (0 juegos).
+- **Bloqueadas** (403 «Just a moment…», 2 intentos cada una): Game UI
+  Database, MobyGames, fontmeme, TCRF, Riot Pixels; dafont sin resultados.
+
+### 29.6 Redactor
+
+- Leyó las cuatro partes, `episodios.md` y, para completar, los
+  `datos-*.md` (staff de AniList con el diseñador del logo, «Datos de
+  interés» del doblaje, fichas de personajes de AniList).
+- **Miró las hojas de fotogramas** del equipo (OP1, ED1, tráiler cortado
+  por planos y cada 2 s, las tres del blooper y las miniaturas del tráiler
+  de 2009) y las dos hojas de la wiki: corrigió **22 datos** (§28.2).
+- Montó `hojas/escenas_01.jpg` con Pillow desde esas hojas (A: OP1, B:
+  ED1, E1-E24 elegidos) y quitó `personajes_03.jpg` (3 imágenes).
+- Juntó `referencias.json` (189) desde `imagen.json`, `video.json`,
+  `voz.json`, `texto.json`, `datos.json`, el índice de las hojas y los
+  fotogramas con `?t=`; midió con Pillow el tamaño de las imágenes que no
+  lo traían.
+- Revisó los canales libres en `servidor/inventario.md`, los encargos y
+  las propuestas de las biblias 29-36 para no chocar (§0).
+- Comprobado con `python3 herramientas/revisar.py`.

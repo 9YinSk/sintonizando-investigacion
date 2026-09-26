@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/5/54/Tokyo_Blade_Anime_Poster.jpg",
+    "fuente": "Fandom oshinoko.fandom.com, página «Tokyo Blade» (API imageinfo, medido; imagen mirada en grande con Read)",
+    "ancho": 992,
+    "alto": 1401,
+    "que_es": "Póster oficial de 'Tokyo Blade', el manga/obra de teatro ficticio dentro de la propia serie: reparto con katanas y cuernos de oni ante un castillo de neón, estética shōnen de batallas clásica, muy distinta del dibujo normal de la serie",
+    "para_que": "Punto 25 (objeto icónico del mundo, ejemplo de ficción-dentro-de-la-ficción) y punto 18 (referencia de que el mismo estudio/autor cambian de estilo dentro de la obra; útil para avisar a una IA de imagen de no mezclar estilos)",
+    "licencia": "© 赤坂アカ×横槍メンゴ／集英社・【推しの子】制作委員会 (visible en el propio póster). Sólo referencia, no libre."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/6/6f/Tokyo_Blade_2.5D_SP_Poster.png",
+    "fuente": "Fandom oshinoko.fandom.com, página «Tokyo Blade» (API imageinfo, medido)",
+    "ancho": 501,
+    "alto": 643,
+    "que_es": "Póster de la obra de teatro 2.5D de 'Tokyo Blade' dentro de la serie (arco 5, temporada 2)",
+    "para_que": "Punto 25: variante teatral del mismo objeto-símbolo de franquicia ficticia",
+    "licencia": "© comité de producción de Oshi no Ko. Sólo referencia."
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/oshi_no_ko/images/0/03/Ichibanboshi_no_Spica.png",
+    "fuente": "Fandom oshinoko.fandom.com, página «Spica the First Star» (API imageinfo, medido)",
+    "ancho": 1511,
+    "alto": 2148,
+    "que_es": "Portada de la novela ligera spin-off 'Spica the First Star' (一番星のスピカ), sobre el pasado de Ai Hoshino antes de B-Komachi",
+    "para_que": "Punto 24 (obra relacionada de la franquicia) y punto 25 (el título usa 'Spica', la estrella más brillante de Virgo: refuerza el motivo de las estrellas)",
+    "licencia": "© Aka Akasaka / Hajime Tanaka / Jump J Books - Yen On. Sólo referencia."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/ai-hoshino-oshi-no-ko-64ce3c96f9524644a38c47c390b40488",
+    "fuente": "Sketchfab, autor DarienToad (comprobado por la API de Sketchfab: license.label = 'CC Attribution', downloadable = true)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D descargable de Ai Hoshino, hecho por fan, con licencia CC BY (atribución obligatoria)",
+    "para_que": "Punto 18: base gratuita para practicar el rig y el toon shader/contorno en Blender antes de montar una escena original (nunca para publicar como oficial)",
+    "licencia": "CC BY (Creative Commons Atribución) — dar crédito a DarienToad. Es fan art 3D, sólo como base de práctica técnica (cruza con el punto 3 de la biblia)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/oshi-no-ko-hoshino-ai-3d-model-fv-dl-5d92181a0dec48d4a6a71c4a1d0fd5ec",
+    "fuente": "Sketchfab, autor higuys920 (comprobado por la API de Sketchfab: license.label = 'CC Attribution', downloadable = true)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Segundo modelo 3D descargable de Ai Hoshino, CC BY, alternativa al anterior",
+    "para_que": "Punto 18: base gratuita alternativa para practicar rig/shader en Blender",
+    "licencia": "CC BY — dar crédito a higuys920. Fan art 3D, sólo referencia/práctica técnica."
+  }
+]

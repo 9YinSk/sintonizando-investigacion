@@ -1,0 +1,200 @@
+[
+  {
+    "url": "https://www.spriters-resource.com/media/assets/52/54668.png?updated=1755473107",
+    "fuente": "The Spriters Resource",
+    "ancho": 759,
+    "alto": 673,
+    "que_es": "Hoja de sprites «Mugshots» del juego de DS «Hey Ice King! Why'd You Steal Our Garbage?!!»: retratos de cuerpo completo de ~28 personajes, estilo simplificado, usados junto al cuadro de diálogo del juego.",
+    "para_que": "Punto 6 y 11: cómo son las cajas de diálogo/portadas de los videojuegos de la franquicia. Vista y medida directamente.",
+    "licencia": "© Cartoon Network / WayForward / D3 Publisher. Extracción de datos del juego alojada por un sitio de fans, sólo como referencia, no para pegar."
+  },
+  {
+    "url": "https://i.imgur.com/cXUolY0.jpg",
+    "fuente": "GitHub (shishkabob27/CardWars, puerto a PC de Card Wars)",
+    "ancho": 2560,
+    "alto": 1440,
+    "que_es": "Captura real del menú principal de la app «Card Wars»: interfaz metálica biselada, barra de vida/XP con retrato de Finn, contadores de monedas/gemas, tapete hexagonal, botón rojo «BATTLE!».",
+    "para_que": "Punto 6 y 11: interfaz real de un videojuego de la franquicia, vista y medida directamente.",
+    "licencia": "© Cartoon Network / Kung Fu Factory. Captura de un puerto de fans no oficial y archivado, sólo como referencia visual."
+  },
+  {
+    "url": "https://www.dafont.com/adventure-time.font",
+    "fuente": "dafont.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente de fans «Adventure Time» (imita el logo). Descargada y comprobada con fontTools: trae los glifos de á é í ó ú ñ Ñ ¿ ¡ ü pero sólo en tabla Mac Roman, sin tabla Unicode para Windows.",
+    "para_que": "Punto 5: qué letra usar para el título/logo, y su límite técnico real para escribir en español (no usar para frases largas).",
+    "licencia": "Gratis para uso personal según dafont.com; revisar términos exactos antes de usar en un producto del servidor."
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/vt323@latest/latin-400-normal.woff2",
+    "fuente": "Fontsource (jsDelivr)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente libre VT323 (píxel, look de consola vieja), subset «latin». Comprobada con fontTools: trae todas las tildes, ñ, ¿ y ¡.",
+    "para_que": "Punto 5 y 6: letra para la pantalla de BMO / interfaz de videojuego en la lámina, ya verificada.",
+    "licencia": "OFL (SIL Open Font License)."
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontsource/fonts/press-start-2p@latest/latin-400-normal.woff2",
+    "fuente": "Fontsource (jsDelivr)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fuente libre Press Start 2P (píxel, de arcade). Comprobada con fontTools: trae todas las tildes, ñ, ¿ y ¡.",
+    "para_que": "Punto 5 y 6: alternativa a VT323 para texto de videojuego/consola.",
+    "licencia": "OFL (SIL Open Font License)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/finn-adventure-time-309e158598764644a5c6068e0cfdc898",
+    "fuente": "Sketchfab (autor: Agu.3D)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Finn, 64 992 caras, con licencia CC Attribution confirmada por la API de Sketchfab.",
+    "para_que": "Punto 18: rig/modelo libre de partida para posar a Finn en Blender.",
+    "licencia": "CC BY (Creative Commons Attribution). Crédito: Agu.3D."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-19255b56148247eaa213bff7974304a4",
+    "fuente": "Sketchfab (autor: Nico Caraballo — theniloart)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Finn, 1 548 caras (bajo poligonaje, más ligero para pruebas), licencia CC Attribution confirmada por la API de Sketchfab.",
+    "para_que": "Punto 18: alternativa ligera al modelo de Agu.3D para Blender.",
+    "licencia": "CC BY (Creative Commons Attribution). Crédito: Nico Caraballo (theniloart)."
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/jake-6326c036c6f14d09bf0708ca4289d699",
+    "fuente": "Sketchfab (autor: Mormont)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Modelo 3D de Jake, licencia CC Attribution.",
+    "para_que": "Punto 18: rig/modelo libre de partida para posar a Jake en Blender.",
+    "licencia": "CC BY (Creative Commons Attribution). Crédito: Mormont."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Adventure_Time",
+    "fuente": "Wikipedia (en)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo principal de la serie, sección «Animation»: dibujo a mano + composición digital, preproducción en Photoshop (cita a Phil Rynda), animación hecha en Corea (Rough Draft Korea / Saerom Animation), diseño y color en Cartoon Network Studios Burbank, comparación de estilo con Felix the Cat y Max Fleischer.",
+    "para_que": "Punto 18: cómo se hizo realmente la serie, base para la guía de réplica en Photoshop/Blender.",
+    "licencia": "Texto bajo CC BY-SA de Wikipedia. Sólo consulta."
+  },
+  {
+    "url": "https://adventuretime.fandom.com/wiki/Steve_Wands",
+    "fuente": "Adventure Time Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del letrista Steve Wands, que hace el lettering de los cómics de Adventure Time (BOOM! Studios).",
+    "para_que": "Punto 5 y 6: quién rotula los cómics, para citar la letra de mano de los globos.",
+    "licencia": "Texto CC BY-SA de Fandom. Sólo consulta."
+  },
+  {
+    "url": "https://leagueofcomicgeeks.com/comic/3374523/adventure-time-41",
+    "fuente": "League of Comic Geeks",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Créditos del cómic Adventure Time #41 (BOOM! Studios), con Steve Wands como letterer.",
+    "para_que": "Punto 5: segunda fuente independiente para el letrista de los cómics.",
+    "licencia": "Página de créditos de catálogo comercial. Sólo consulta."
+  },
+  {
+    "url": "https://adventuretime.fandom.com/wiki/Mushroom_War",
+    "fuente": "Adventure Time Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la Guerra de los Hongos: intercambio nuclear global que devastó la Tierra ~1000 años antes de la serie y despertó al Lich.",
+    "para_que": "Punto 25: regla base del mundo de Ooo, origen del escenario post-apocalíptico.",
+    "licencia": "Texto CC BY-SA de Fandom. Sólo consulta."
+  },
+  {
+    "url": "https://adventuretime.fandom.com/wiki/Land_of_Ooo",
+    "fuente": "Adventure Time Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la Tierra de Ooo: reinos que la forman, mapas oficiales publicados por Frederator Studios junto al documento de presentación.",
+    "para_que": "Punto 25: geografía y reglas del mundo.",
+    "licencia": "Texto CC BY-SA de Fandom. Sólo consulta."
+  },
+  {
+    "url": "https://adventuretime.fandom.com/wiki/Ice_King%27s_crown",
+    "fuente": "Adventure Time Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la corona mágica del Rey Helado, creada por Urgence Evergreen; llevarla puesta durante siglos volvió loco a Simon Petrikov.",
+    "para_que": "Punto 25: objeto-símbolo central de la mitología de la serie.",
+    "licencia": "Texto CC BY-SA de Fandom. Sólo consulta."
+  },
+  {
+    "url": "https://adventuretime.fandom.com/wiki/Grass_Sword",
+    "fuente": "Adventure Time Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la Espada de Hierba de Finn, comprada al Mago de la Hierba, perdida junto con su brazo.",
+    "para_que": "Punto 25: objeto-símbolo de las distintas etapas de Finn como héroe.",
+    "licencia": "Texto CC BY-SA de Fandom. Sólo consulta."
+  },
+  {
+    "url": "https://adventuretime.fandom.com/wiki/Nightosphere",
+    "fuente": "Adventure Time Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre el Nightosphere, el inframundo demoníaco gobernado por Hunson Abadeer, padre de Marceline.",
+    "para_que": "Punto 25: dimensión/símbolo del mundo, relevante también para Marceline.",
+    "licencia": "Texto CC BY-SA de Fandom. Sólo consulta."
+  },
+  {
+    "url": "https://www.slashfilm.com/1581694/flapjack-cartoon-network-disney-nickelodeon-descendants/",
+    "fuente": "SlashFilm",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre cómo «The Marvelous Misadventures of Flapjack» fue el semillero de Pendleton Ward (Adventure Time), Alex Hirsch (Gravity Falls), Patrick McHale (Over the Garden Wall) y Rebecca Sugar (Steven Universe).",
+    "para_que": "Punto 24: obras parecidas y su conexión real de equipo, no sólo de tono.",
+    "licencia": "Artículo periodístico. Sólo consulta."
+  },
+  {
+    "url": "https://www.themarysue.com/pendleton-ward-interview/",
+    "fuente": "The Mary Sue",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista a Pendleton Ward donde compara escribir la serie con jugar una partida de Dungeons & Dragons.",
+    "para_que": "Punto 24: influencia reconocida por el propio creador, con cita textual.",
+    "licencia": "Artículo periodístico. Sólo consulta."
+  },
+  {
+    "url": "https://studio.blender.org/training/toon-character-workflow/5859a5da1f47427e3fe82330/",
+    "fuente": "Blender Studio",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guía oficial de Blender Studio sobre contorno tipo cómic con el modificador Solidify (método «inverted hull»).",
+    "para_que": "Punto 18: técnica concreta para replicar el contorno negro de la serie en Blender.",
+    "licencia": "Documentación de Blender Studio. Sólo consulta."
+  },
+  {
+    "url": "https://www.instructables.com/Adventure-Times-BMO-Roommate-GBC-Mod/",
+    "fuente": "Instructables",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Mod real que convierte un Game Boy Color en «BMO» cambiando el cartucho; describe a BMO como parodia de consolas Nintendo retro.",
+    "para_que": "Punto 6: de dónde sale el diseño de BMO como «pantalla»/interfaz de videoconsola.",
+    "licencia": "Proyecto de fans, con lista de materiales. Sólo consulta/referencia, no para pegar."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Adventure_Time:_Hey_Ice_King!_Why%27d_You_Steal_Our_Garbage%3F!!",
+    "fuente": "Wikipedia (en)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del videojuego de DS/3DS «Hey Ice King!»: desarrollado por WayForward, guion de Pendleton Ward, mecánica tipo Zelda II.",
+    "para_que": "Punto 11: datos verificados del primer videojuego de la franquicia.",
+    "licencia": "Texto CC BY-SA de Wikipedia. Sólo consulta."
+  },
+  {
+    "url": "https://github.com/shishkabob27/CardWars",
+    "fuente": "GitHub (shishkabob27)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Puerto a PC (Unity), archivado, del juego móvil «Card Wars»; incluye dos capturas reales del juego.",
+    "para_que": "Punto 6 y 11: fuente de la captura de interfaz medida y citada arriba.",
+    "licencia": "Proyecto de fans en GitHub, repositorio archivado. Sólo consulta/referencia."
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "tipo": "escena",
+    "titulo": "El discurso de Sora ante Elkia (montaje)",
+    "url": "https://www.dailymotion.com/video/x8x362g",
+    "fuente": "Dailymotion (canal Tomatazos)",
+    "capitulo_o_minuto": "clip 3:50; fotogramas usados en 1:00, 1:20 y 3:20 del clip",
+    "que_es": "Montaje de fotogramas reales del anime con el discurso de Sora sobre la debilidad de la humanidad tras la guerra antigua",
+    "para_que": "Escena icónica (punto 2); paleta de la plaza/coliseo de Elkia y de la escena a contraluz (punto 4); pose de arenga (punto 14)",
+    "confirmacion": "Dos fuentes: subida también a YouTube como 'Sora Speech | Epic Moment' (https://www.youtube.com/watch?v=tIQNkmuPNsI)"
+  },
+  {
+    "tipo": "escena",
+    "titulo": "Los Diez Mandamientos (Ten Covenants) sobre el paisaje de Disboard",
+    "url": "https://archive.org/details/no-game-no-life-episodio-1",
+    "fuente": "Internet Archive (episodio 1 completo)",
+    "capitulo_o_minuto": "episodio 1, minuto 10:00 del archivo",
+    "que_es": "Narración de las reglas del mundo sobre un paisaje fantástico lavanda-magenta con Sora y Shiro volando",
+    "para_que": "Escena icónica de worldbuilding (punto 2); paleta de Disboard, la más saturada de la serie (punto 4)",
+    "confirmacion": "Fandom wiki 'Ten Covenants' + ensayo Animated Observations 'No Game No Life and the Philosophy of Disboard'",
+    "hoja_local": "hojas/video_ep1_sitios_01.jpg"
+  },
+  {
+    "tipo": "escena",
+    "titulo": "Presentación de Jibril en la Gran Biblioteca de Elkia",
+    "url": "https://archive.org/details/no-game-no-life-episodio-6",
+    "fuente": "Internet Archive (episodio 6 completo)",
+    "capitulo_o_minuto": "episodio 6, minutos 5:00 a 14:00 del archivo",
+    "que_es": "Sora encara a Jibril a la entrada de la biblioteca; ella responde con duda y termina con su reacción cómica de ojos en espiral",
+    "para_que": "Escena icónica de debut de personaje (punto 2); paleta oscura ambarina de la biblioteca (punto 4); 3 poses de Jibril y 1 de Sora (punto 14)",
+    "confirmacion": "MyWaifuList + reacción de YouTube 'BLANK VS JIBRIL! | No Game No Life Episode 6 REACTION'",
+    "hoja_local": "hojas/video_ep6_jibril_03.jpg"
+  },
+  {
+    "tipo": "trailer",
+    "titulo": "No Game No Life: Zero - Trailer (Deutsch) HD",
+    "url": "https://www.dailymotion.com/video/x88thsc",
+    "fuente": "Dailymotion (canal FILMSTARTS)",
+    "capitulo_o_minuto": "0:10 (pieza de ajedrez cayendo), 0:20-0:30 (Schwi en la batalla)",
+    "que_es": "Tráiler de la película Zero con la batalla antigua entre Imanity y los Ex-Machina",
+    "para_que": "Escena icónica de la película (punto 2); paleta roja/negra de guerra, la más oscura de la franquicia (punto 4)",
+    "hoja_local": "hojas/video_zero_trailer_01.jpg"
+  },
+  {
+    "tipo": "opening",
+    "titulo": "This Game (opening de la serie de TV)",
+    "url": "https://www.dailymotion.com/video/x8x3fiq",
+    "fuente": "Dailymotion",
+    "capitulo_o_minuto": "clip 1:29; fotogramas en 0:10 y 1:10",
+    "que_es": "Animación de cabecera: logo con icono de encendido, Sora y Shiro cayendo en silueta azul sobre tablero de ajedrez",
+    "para_que": "Punto 9 (música) y punto 4 (paleta lavanda/azul frío desaturada del opening)",
+    "interprete": "Konomi Suzuki",
+    "confirmacion": "Fandom wiki 'This game' + animesonglyrics.com",
+    "hoja_local": "hojas/video_opening_this_game_01.jpg"
+  },
+  {
+    "tipo": "musica",
+    "titulo": "Oración (ending de la serie de TV)",
+    "interprete": "Ai Kayano (seiyuu de Shiro)",
+    "confirmacion": "Fandom wiki 'Oración' + animesonglyrics.com ('Ending Theme 1')",
+    "para_que": "Punto 9"
+  },
+  {
+    "tipo": "musica",
+    "titulo": "OST de la serie de TV (Super Sweep)",
+    "compositores": ["Shinji Hosoe", "Ayako Saso", "Takahiro Eguchi", "Fumihisa Tanaka"],
+    "confirmacion": "MyAnimeList + Anime News Network Encyclopedia",
+    "relacionado_datos": "3 volúmenes ya listados en datos-video.md vía MusicBrainz (Super sweep, 2014-2015)",
+    "para_que": "Punto 9"
+  },
+  {
+    "tipo": "musica",
+    "titulo": "OST de la película Zero",
+    "compositor": "Yoshiaki Fujisawa",
+    "tema_principal": "THERE IS A REASON (interpretada por Konomi Suzuki, una sola fuente clara)",
+    "confirmacion": "CDJapan (edición en vinilo) + Wikipedia en inglés de No Game No Life: Zero",
+    "para_que": "Punto 9"
+  },
+  {
+    "tipo": "video_analisis",
+    "titulo": "I Analyzed No Game No Life's Chess Scene | It's Actually Genius",
+    "url": "https://www.youtube.com/watch?v=uKEVXuNWi8I",
+    "fuente": "YouTube",
+    "capitulo_o_minuto": "⚠️ no se pudo ver el minuto exacto (YouTube pide sesión en este servidor)",
+    "que_es": "Analiza la lógica real del juego de piedra-papel-tijera/ajedrez del episodio 1",
+    "para_que": "Punto 10"
+  },
+  {
+    "tipo": "tendencia",
+    "titulo": "Edits de No Game No Life / No Game No Life Zero en TikTok",
+    "hashtags": ["no game no life edit", "no game no life edits", "nogamenolifeedit"],
+    "ejemplo": "https://www.tiktok.com/@n1ko.amv/video/7434613319350209812",
+    "que_es": "Actividad constante de ediciones de fans (AMV/slow-motion) de Sora, Shiro y Jibril; sin un reto o audio viral aislado con métricas verificables",
+    "para_que": "Punto 10",
+    "aviso": "⚠️ genérico, sin cifras confirmadas en dos fuentes"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Sora",
+    "capitulo_o_minuto": "episodio 6, minuto 5:00",
+    "descripcion": "De pie frente a Jibril, puño cerrado al pecho, mentón bajo, mirada fija",
+    "uso": "regañar/confrontar",
+    "hoja_local": "hojas/video_ep6_jibril_03.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Sora",
+    "capitulo_o_minuto": "episodio 8, minuto 14:00",
+    "descripcion": "Primer plano, ceja alzada, sonrisa torcida, sosteniendo una manzana roja",
+    "uso": "presentar/provocar",
+    "hoja_local": "hojas/video_ep8_poses_04.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Sora",
+    "capitulo_o_minuto": "episodio 8, minuto 18:00",
+    "descripcion": "Primer plano, boca abierta a media frase, corona de fondo",
+    "uso": "explicar",
+    "hoja_local": "hojas/video_ep8_poses_04.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Sora",
+    "capitulo_o_minuto": "clip del discurso, minuto 3:20",
+    "descripcion": "A contraluz junto a Shiro, mano alzada, cuerpo hacia delante",
+    "uso": "animar/arengar",
+    "hoja_local": "hojas/video_discurso_sora_01.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Sora",
+    "capitulo_o_minuto": "episodio 1, minuto 15:00",
+    "descripcion": "Sentado a la mesa del jardín, brazo apoyado, hablando con Steph y Shiro",
+    "uso": "explicar (tono relajado)",
+    "hoja_local": "hojas/video_ep1_sitios_01.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Shiro",
+    "capitulo_o_minuto": "episodio 8, minuto 6:00",
+    "descripcion": "Apoyada en el hombro de Sora, ojos entrecerrados, expresión de sueño/desinterés",
+    "uso": "pensar",
+    "hoja_local": "hojas/video_ep8_poses_04.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Shiro",
+    "capitulo_o_minuto": "episodio 1, minuto 15:00",
+    "descripcion": "Sentada a la mesa del jardín, mirando hacia abajo, postura recogida",
+    "uso": "grupo/diálogo tranquilo",
+    "hoja_local": "hojas/video_ep1_sitios_01.jpg",
+    "aviso": "⚠️ pocas poses de Shiro sola confirmadas en esta tanda"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Stephanie Dola",
+    "capitulo_o_minuto": "episodio 9, minuto 11:40",
+    "descripcion": "Ojos muy abiertos, boca entreabierta, manos cerca del pecho",
+    "uso": "reaccionar/gag de sorpresa",
+    "hoja_local": "hojas/video_ep9_poses_05.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Stephanie Dola",
+    "capitulo_o_minuto": "episodio 1, minuto 15:00",
+    "descripcion": "Sentada a la mesa con una carta en la mano, mirando hacia Sora",
+    "uso": "escuchar/participar",
+    "hoja_local": "hojas/video_ep1_sitios_01.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Jibril",
+    "capitulo_o_minuto": "episodio 6, minuto 5:00",
+    "descripcion": "Sosteniendo una tablilla, cabeza ladeada, mirada de duda/cautela",
+    "uso": "pensar/dudar",
+    "hoja_local": "hojas/video_ep6_jibril_03.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Jibril",
+    "capitulo_o_minuto": "episodio 6, minuto 11:00",
+    "descripcion": "Primer plano, boca entreabierta, ceja levantada, fondo de red de datos azul",
+    "uso": "explicar",
+    "hoja_local": "hojas/video_ep6_jibril_03.jpg"
+  },
+  {
+    "tipo": "pose",
+    "personaje": "Jibril",
+    "capitulo_o_minuto": "episodio 6, minuto 14:00",
+    "descripcion": "Plano entero, ojos en espiral, boca abierta en grito, cuerpo encogido",
+    "uso": "reírse/vergüenza (gag recurrente del personaje)",
+    "hoja_local": "hojas/video_ep6_jibril_03.jpg"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Coliseo/plaza de Elkia",
+    "capitulo_o_minuto": "clip del discurso, minuto 1:00",
+    "hex": ["#F0C68E", "#EDC9B1", "#EAB964", "#D9A48B", "#C76C52"],
+    "descripcion": "Luz dorada de atardecer, saturación 42%, brillo 90%"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Montañas al atardecer (narración)",
+    "capitulo_o_minuto": "clip del discurso, minuto 1:20",
+    "hex": ["#CD8351", "#925746", "#492E26", "#E3B489", "#F6E2CF"],
+    "descripcion": "Tonos tierra/ámbar, saturación 48%, brillo 69%"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Mundo de Disboard (Diez Mandamientos)",
+    "capitulo_o_minuto": "episodio 1, minuto 10:00",
+    "hex": ["#D5D0F4", "#BC8DDD", "#3323D6", "#7161E1", "#A94778"],
+    "descripcion": "Lavanda, azul eléctrico y magenta de crepúsculo, saturación 48%, brillo 88% — la más saturada de la serie"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Mundo real / flashback",
+    "capitulo_o_minuto": "episodio 1, minuto 5:00",
+    "hex": ["#020103", "#191327", "#553EB6", "#362A68", "#D5CCEE"],
+    "descripcion": "Casi negro con un único acento violeta-azulado; contraste deliberado con Disboard"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Balcón/jardín del castillo de Elkia",
+    "capitulo_o_minuto": "episodio 1, minuto 15:00",
+    "hex": ["#4B1831", "#8ECDA2", "#BF5655", "#D1D0CE", "#584D9C"],
+    "descripcion": "Verdes suaves con acentos rosa y malva, luz diurna difusa"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Pasillo interior del castillo",
+    "capitulo_o_minuto": "episodio 1, minuto 20:00",
+    "hex": ["#EAE0D9", "#5A2344", "#E1B694", "#180825", "#7E8BCD"],
+    "descripcion": "Dorado cálido con sombras moradas, pétalos de rosa cayendo"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Gran Biblioteca de Elkia",
+    "capitulo_o_minuto": "episodio 6, minuto 8:00",
+    "hex": ["#060303", "#1C0D0C", "#401D18", "#6F3526", "#AD5B37"],
+    "descripcion": "Marrón casi negro con acentos ámbar de farol; estanterías flotantes encadenadas"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Campo de batalla de la Gran Guerra (película Zero)",
+    "capitulo_o_minuto": "tráiler, minutos 0:20 y 0:30",
+    "hex": ["#2C0A0F", "#3A0D14", "#1C080A", "#500E17", "#6F0E1B", "#32071A", "#770C19", "#562545"],
+    "descripcion": "Rojo sangre y negro, saturación 73-77%, brillo 20-37% — la paleta más oscura de la franquicia"
+  },
+  {
+    "tipo": "paleta",
+    "sitio": "Cabecera/opening real",
+    "capitulo_o_minuto": "clip del opening, minutos 0:10 y 1:10",
+    "hex": ["#E2E0EA", "#434ABE", "#D1A79A", "#919BD9", "#8C4A4D", "#E1E4E7", "#CFA0C9", "#755E92", "#E8CB62", "#80242D"],
+    "descripcion": "Lavanda pálido y azul frío con acentos piel/carmín, saturación 29-33%, brillo 83-86%"
+  }
+]

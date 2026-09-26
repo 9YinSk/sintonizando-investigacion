@@ -1,0 +1,209 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/9/9d/Lilo_%26_Stitch_Logo.png/revision/latest?cb=20160630120430",
+    "fuente": "Fandom disney (API imageinfo)",
+    "ancho": 800,
+    "alto": 310,
+    "que_es": "Logo oficial de la franquicia Lilo & Stitch, rótulo a mano rojo con contorno blanco",
+    "para_que": "Referencia tipográfica exacta del logo (punto 5)",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/disney/images/9/9d/Lilo_%26_Stitch_-_Lilo_holding_Scrump.png/revision/latest?cb=20230820215155",
+    "fuente": "Fandom disney (API imageinfo)",
+    "ancho": 1806,
+    "alto": 1080,
+    "que_es": "Lilo abrazando a Scrump, la muñeca de trapo que se hizo ella misma",
+    "para_que": "Símbolo del mundo (punto 25): objeto casero hecho a mano, inspirado en muñeco vudú y Frankenstein",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://ducktalks.com/wp-content/uploads/2024/01/0007-1.jpg",
+    "fuente": "DuckTalks (preview oficial de Dynamite Entertainment)",
+    "ancho": 1988,
+    "alto": 3057,
+    "que_es": "Página de cómic Disney's Lilo & Stitch #1 (2024, Dynamite), con bocadillos de diálogo reales",
+    "para_que": "Referencia de forma de bocadillo y letra de cómic (puntos 5 y 6)",
+    "licencia": "© Disney/Dynamite Entertainment; sólo referencia"
+  },
+  {
+    "url": "https://ducktalks.com/wp-content/uploads/2024/01/0008-1.jpg",
+    "fuente": "DuckTalks (preview oficial de Dynamite Entertainment)",
+    "ancho": 1988,
+    "alto": 3057,
+    "que_es": "Página de cómic con la frase 'Ohana means family' y las palabras Kuleana / Mālama 'āina lettered en el globo",
+    "para_que": "Frase icónica confirmada por segunda fuente + vocabulario del mundo (puntos 6 y 25)",
+    "licencia": "© Disney/Dynamite Entertainment; sólo referencia"
+  },
+  {
+    "url": "https://archive.org/download/stitch_gba/screenshot_12.png",
+    "fuente": "Internet Archive (stitch_gba)",
+    "ancho": 480,
+    "alto": 320,
+    "que_es": "Pantalla de título del videojuego Disney's Lilo & Stitch (Game Boy Advance, 2002)",
+    "para_que": "Variante del logo en un objeto de producto (tabla de surf) y letra PRESS START (puntos 5 y 11)",
+    "licencia": "© Disney; captura de preservación en Internet Archive, sólo referencia"
+  },
+  {
+    "url": "https://tokyopop.com/cdn/shop/products/9781427868961.jpg?v=1775858242&width=1946",
+    "fuente": "TOKYOPOP (tienda oficial)",
+    "ancho": 432,
+    "alto": 648,
+    "que_es": "Portada del manga Disney Manga: Stitch and the Samurai / Tono-sama to Stitch, vol. 1 (Hiroto Wada, 2020-2021)",
+    "para_que": "Obra parecida/relacionada en japonés (punto 24) y variante de logo (punto 5)",
+    "licencia": "© Disney/Kodansha/Tokyopop; sólo referencia"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/stitch-626-from-lilo-and-stitch-rigged-5ae4cd66c67d42c49202f2003fe7f559",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Stitch (Experimento 626) con rig, 35 464 caras, autor werasik2aa1",
+    "para_que": "Rig libre para Blender (punto 18)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/stitch-kh3-rig-d1c674e7c0424687935d1839a2a55843",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Stitch con rig, estilo Kingdom Hearts III, 34 782 caras, autor guinavarro.al",
+    "para_que": "Rig libre alternativo para Blender (punto 18)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/pleakley-lilo-stitch-3a4305debb52451a8ba5ccb8a174e7ef",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Pleakley, 260 220 caras (pesado), autor ArbitraryCanary",
+    "para_que": "Rig libre para Blender (punto 18); ojo con el punto 9 de reglas_del_dueno.md, es pesado",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/nani-from-lilo-and-stitch-8ed9ce5f0f944c7182fc150cf9d4c10b",
+    "fuente": "Sketchfab (API v3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Modelo 3D de Nani, 2 758 caras (ligero), autor werasik2aa1",
+    "para_que": "Rig libre para Blender (punto 18)",
+    "licencia": "CC Attribution"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Comic+Neue",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Comic Neue Bold, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para el globo normal de cómic (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Bangers",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Bangers, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para gritos/exclamaciones de cómic (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Trade+Winds",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Trade Winds, estilo cartel tiki/luau, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para carteles del mundo (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Actor",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Actor, sans condensada de aire tecnológico, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para interfaz de juego / HUD (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Quicksand",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra Quicksand, comprobada con fontTools (tildes, ñ, ¿, ¡ completos)",
+    "para_que": "Letra libre para subtítulos o créditos (punto 5)",
+    "licencia": "OFL"
+  },
+  {
+    "url": "https://animationobsessive.substack.com/p/the-shape-and-color-of-lilo-and-stitch",
+    "fuente": "Animation Obsessive (artículo con entrevistas de producción)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo con citas de Ric Sluiter, Byron Howard, Sue Nichols, Paul Felix y David Wang sobre la técnica de acuarela y el diseño de personajes",
+    "para_que": "Fuente principal del punto 18 (cómo se hizo y cómo replicarlo)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://www.awn.com/animationworld/lilo-stitch-revisited-part-i",
+    "fuente": "Animation World Network (AWN)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista de producción con Dean DeBlois sobre storyboard, composición y el rediseño del clímax tras el 11-S",
+    "para_que": "Fuente del punto 18 (encuadres y composición)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://www.awn.com/animationworld/lilo-toothless-and-totoro-too",
+    "fuente": "Animation World Network (AWN)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre la influencia de Mi vecino Totoro (Miyazaki) en Lilo & Stitch, con cita de Dean DeBlois",
+    "para_que": "Fuente del punto 24 (obras parecidas / influencias declaradas)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Lilo_%26_Stitch_(franchise)",
+    "fuente": "Disney Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha completa de la franquicia: películas, series, juegos, cronología y datos de popularidad en Asia",
+    "para_que": "Fuente de los puntos 11 (videojuegos), 24 (obras parecidas) y 25 (arcos de la historia)",
+    "licencia": "CC BY-SA (Fandom); texto, sólo referencia"
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Grand_Councilwoman",
+    "fuente": "Disney Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la Gran Consejera y la Federación Galáctica Unida",
+    "para_que": "Vocabulario del mundo (punto 25)",
+    "licencia": "CC BY-SA (Fandom); texto, sólo referencia"
+  },
+  {
+    "url": "https://disney.fandom.com/wiki/Scrump",
+    "fuente": "Disney Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Scrump, con su inspiración de diseño (muñeco vudú, Frankenstein)",
+    "para_que": "Símbolo del mundo (punto 25)",
+    "licencia": "CC BY-SA (Fandom); texto, sólo referencia"
+  },
+  {
+    "url": "https://ryukyushimpo.jp/culture/entry-3182982.html",
+    "fuente": "Ryukyu Shimpo (periódico de Okinawa, en japonés)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo sobre el anime Stitch! y su ambientación en Okinawa (isla ficticia Izayoi, personajes de folclore)",
+    "para_que": "Fuente en japonés del punto 24 (obras parecidas)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  },
+  {
+    "url": "https://www.animenewsnetwork.com/news/2020-01-13/disney-character-stitch-gets-manga-set-in-feudal-japan/.155297",
+    "fuente": "Anime News Network",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Noticia del anuncio del manga Stitch & the Samurai (Japón feudal), con datos del autor Hiroto Wada",
+    "para_que": "Fuente del punto 24 (obras parecidas, en inglés/con datos de Japón)",
+    "licencia": "Artículo periodístico; sólo cita/referencia"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://video.akamai.steamstatic.com/store_trailers/203160/10727/bc433a91a02e76d1ea82a1bfaa6b9bf118a27429/1750498724/hls_264_master.m3u8?t=1447357498&t=148",
+    "fuente": "Steam (CDN oficial Akamai) / Square Enix",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler oficial de revelación de Tomb Raider (2013), 'Turning Point'; fotograma 2:28 (Lara en la playa junto al naufragio, atardecer)",
+    "para_que": "Escena icónica (punto 2), fondo y paleta de Yamatai (punto 4), poses de huida/determinación (punto 14)",
+    "licencia": "Material promocional oficial de Square Enix; sólo como referencia, no para pegar"
+  },
+  {
+    "url": "https://video.akamai.steamstatic.com/store_trailers/750920/183833/87b5a80178719395a8eacf41be455afc790e40a2/1750578719/hls_264_master.m3u8?t=1536601620&t=42",
+    "fuente": "Steam (CDN oficial Akamai) / Square Enix",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Tráiler de lanzamiento de Shadow of the Tomb Raider; fotograma 0:42 (Lara con Jonah y el Dr. Dominguez ante un mural con antorchas)",
+    "para_que": "Escena icónica (punto 2), pose de 'explicar' (punto 14), ambiente de Paititi (punto 4)",
+    "licencia": "Material promocional oficial de Square Enix; sólo como referencia, no para pegar"
+  },
+  {
+    "url": "https://archive.org/download/TombRaider_23930/TombRaider_23930_part01_512kb.mp4",
+    "fuente": "Internet Archive (longplay de Stacy Corron, 2005)",
+    "ancho": 320,
+    "alto": 240,
+    "que_es": "Tomb Raider (1996, PS1), nivel 1 'Caves' completo (apertura del juego), minuto 0:00 a 3:33",
+    "para_que": "Escena icónica de apertura (punto 2), poses iniciales de Lara (punto 14)",
+    "licencia": "Grabación de fan subida a Internet Archive; captura de un juego con derechos de Square Enix/Core Design, sólo como referencia"
+  },
+  {
+    "url": "https://archive.org/download/TombRaider_23930/TombRaider_23930_part03_512kb.mp4",
+    "fuente": "Internet Archive (longplay de Stacy Corron, 2005)",
+    "ancho": 320,
+    "alto": 240,
+    "que_es": "Tomb Raider (1996, PS1), nivel 3 'Lost Valley' completo (el nivel del T-Rex), minuto 0:00 a 7:26",
+    "para_que": "Escena icónica de la jungla (punto 2), paleta y luz de Lost Valley (punto 4), pose de carrera (punto 14)",
+    "licencia": "Grabación de fan subida a Internet Archive; sólo como referencia"
+  },
+  {
+    "url": "https://archive.org/download/TombRaider_23930/TombRaider_23930_part15_512kb.mp4",
+    "fuente": "Internet Archive (longplay de Stacy Corron, 2005)",
+    "ancho": 320,
+    "alto": 240,
+    "que_es": "Tomb Raider (1996, PS1), nivel 15 'The Great Pyramid' completo (el final del juego, previo a Natla), minuto 0:00 a 11:59",
+    "para_que": "Escena icónica del final (punto 2), paleta oscura de la tumba (punto 4), pose de cansancio/tensión (punto 14)",
+    "licencia": "Grabación de fan subida a Internet Archive; sólo como referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x89cmfn?t=480",
+    "fuente": "Dailymotion (canal Globtopus / JeuxVideo.com)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Programa de análisis 'Le Fond De L'affaire' sobre la historia de Tomb Raider (dir. Maxime Robinet); minuto 8:00, créditos en pantalla",
+    "para_que": "Vídeo de análisis con minuto exacto (punto 10)",
+    "licencia": "Vídeo de un canal de terceros; sólo como referencia y cita, no para descargar como propio"
+  },
+  {
+    "url": "https://archive.org/details/tomb_raider_legend_xbox360",
+    "fuente": "Internet Archive / Eidos Interactive",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tráiler oficial de Tomb Raider: Legend para Xbox 360 (no medido en fotograma propio, sólo ficha)",
+    "para_que": "Vídeo/tráiler adicional documentado (punto 10)",
+    "licencia": "Material promocional oficial de Eidos Interactive, de época; sólo como referencia"
+  },
+  {
+    "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_(2013_Game)/Music",
+    "fuente": "Tomb Raider Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la banda sonora de Tomb Raider (2013): compositor Jason Graves, instrumento a medida, lista de pistas",
+    "para_que": "Música y ambiente sonoro (punto 9)",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom); usar como dato, citando la fuente"
+  },
+  {
+    "url": "https://tombraider.fandom.com/wiki/Rise_of_the_Tomb_Raider/Music",
+    "fuente": "Tomb Raider Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la banda sonora de Rise of the Tomb Raider: compositor Bobby Tahouri, tema 'I Shall Rise' de Karen O",
+    "para_que": "Música y colaboración musical (punto 9)",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+  },
+  {
+    "url": "https://tombraider.fandom.com/wiki/Shadow_of_the_Tomb_Raider/Music",
+    "fuente": "Tomb Raider Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la banda sonora de Shadow of the Tomb Raider: compositor Brian D'Oliveira, lista de pistas con nombres de escenas clave",
+    "para_que": "Música y escenas emotivas (punto 9)",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+  },
+  {
+    "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game)/Music",
+    "fuente": "Tomb Raider Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la banda sonora del Tomb Raider original: compositor Nathan McCree, hecha con sintetizador",
+    "para_que": "Música original de la franquicia (punto 9)",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+  },
+  {
+    "url": "http://www.musicoftombraider.com/2013/11/interview-with-tomb-raider-legacy.html",
+    "fuente": "Music of Tomb Raider (blog especializado), entrevista de Daryl Baxter",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Entrevista a Nathan McCree (nov-2013) sobre la falta de un tema propio en el reboot de 2013 ('a complete disaster')",
+    "para_que": "Cita de compositor, comparación con la franquicia (puntos 9 y 24)",
+    "licencia": "Artículo de blog; cita textual con atribución"
+  },
+  {
+    "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_(2013_Game)/Videos",
+    "fuente": "Tomb Raider Wiki (Fandom)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Listado oficial de tráilers y vídeos de Tomb Raider (2013), incluido 'Turning Point Debut Trailer'",
+    "para_que": "Confirmación de tráilers oficiales (punto 10)",
+    "licencia": "Texto de wiki de fans (CC BY-SA vía Fandom)"
+  },
+  {
+    "url": "https://www.tiktok.com/tag/laracroft",
+    "fuente": "TikTok",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Etiqueta #laracroft con millones de publicaciones; edits y comparaciones de diseño de personaje",
+    "para_que": "Tendencia de TikTok (punto 10)",
+    "licencia": "Página pública de la plataforma; sólo como referencia de tendencia, no de un clip concreto"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/917490b5-7e77-4012-926c-e73fe8d78687",
+    "fuente": "MusicBrainz",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la banda sonora de Tomb Raider (2013) por Jason Graves, publicada 2013-03-05",
+    "para_que": "Música oficial publicada (punto 9)",
+    "licencia": "Datos abiertos de MusicBrainz (CC0/PD para metadatos)"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/4351e26e-7a97-41b5-afae-55bae4b616b7",
+    "fuente": "MusicBrainz",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "The Tomb Raider Suite (2018): re-grabación orquestal de Nathan McCree con la Royal Philharmonic Orchestra",
+    "para_que": "Música y su reinterpretación posterior (punto 9)",
+    "licencia": "Datos abiertos de MusicBrainz (CC0/PD para metadatos)"
+  }
+]

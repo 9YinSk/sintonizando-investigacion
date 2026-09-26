@@ -41,6 +41,9 @@ fecha: 2026-09-24
 > - **Siguen cerradas o fallan:** bajar vídeo, audio o subtítulos de YouTube
 >   (sólo dan *storyboards*), Wayback Machine (el túnel se corta), Blog
 >   Hogwarts (503), ArtStation (403), Texturelabs (reto antibots).
+> - **Repaso corto** (24-sep-2026, noche): 3 investigadores (imagen, voz,
+>   texto) y un redactor añadieron los **puntos 18-25** del encargo y la
+>   guía para IA de texto (§18.1). Ver «Segunda pasada · qué cambió».
 > - La segunda pasada la hicieron **tres ayudantes seguidos** el mismo día: al
 >   primero lo cortó el límite de uso; el segundo terminó §15-§21,
 >   `referencias.json`, la tabla de cumplimiento y la bitácora; el tercero
@@ -182,6 +185,36 @@ fecha: 2026-09-24
 **Marcas de duda:** había **55** antes de la segunda pasada; **38** cuando
 cerró el segundo ayudante; quedan **22** (contadas con `grep -o`; el número
 incluye la leyenda). Lo que sigue dudoso y por qué: §20.
+
+**Repaso corto (24-sep-2026, noche): los puntos 18-25 del encargo**
+- **Añadido**: 8 secciones nuevas, **«Punto 18» a «Punto 25»**, entre §18
+  y §19. Salen de las partes de 3 investigadores: imagen (19, 23), voz
+  (20, 21, 22) y texto (18, 24, 25), en `partes/`.
+- **Añadido a §18 (punto 17)**: **§18.1, la guía para una IA de texto**,
+  que faltaba: reglas de la voz latina y 13 frases reales por emoción.
+- **Corregido (antes → ahora)**: la parte de texto decía que **ninguna
+  lámina del servidor se parece** a la de Harry Potter (sólo miró 3
+  biblias). Revisados los conceptos de **todas**: **Mafalda** tiene un
+  diario doblado sobre la mesa (como nuestro A) y **One Piece** carteles
+  clavados (como nuestro C). Anotado en el punto 24 y en los conceptos.
+- **Corregido al pasar a la biblia**: la parte de voz decía que §14 da
+  «Always» en latino; §14 no lo dice → «no comprobado». La de texto decía
+  que el lema del escudo estaba en §6; no está → queda con su duda.
+- **Conceptos (§19)**: no cambian; se añaden mejoras (Dobby en LEGO como
+  referencia 3D y sus calcetines sin pareja en C; técnica de la foto que
+  se mueve y grano en A; B, el único sin parecido en otras láminas).
+- **`referencias.json`**: de **40 a 100**. Entran las 9 de
+  `partes/imagen.json` y `partes/texto.json`, 8 vídeos de fandub y
+  parodias de `partes/voz.md` (no hay `voz.json`) y 43 de
+  `partes/datos.json` **miradas en hoja** (Pottermore, Studio Tour con CC
+  BY, LEGO, fondos de Wallhaven, capturas de Steam medidas de nuevo: las
+  de los juegos viejos no eran de 1920×1080).
+- **Aviso para el dueño**: la colaboración con **Fortnite** salió en plena
+  polémica por la postura de J. K. Rowling sobre las personas trans
+  (punto 23).
+- **Marcas de duda**: de **22 a 63**. Las 41 nuevas son de los puntos
+  18-25 (una sola fuente o no encontrado), listadas en §20. `revisar.py`:
+  **COMPLETA**, 144 webs distintas, tabla con 36 hechos, 3 a medias y ninguno sin hacer.
 
 ---
 
@@ -1689,6 +1722,658 @@ periódico (salen garabatos: la portada se compone con las letras de §6),
 las gafas de Dumbledore redondas en vez de media luna, y Dobby con ropa
 (sólo lleva la funda).
 
+### 18.1 · Para una IA de texto (diálogos en su voz)
+
+> Añadido en el repaso corto (24-sep-2026) con las frases **ya oídas** de
+> §10.3 y la forma de hablar de §8. Todas son del doblaje latino de cine.
+
+**Reglas que la IA tiene que seguir**
+- **Latino, no España**: «auto», «vociferador», «ustedes». Nunca «coche»,
+  «Howler» ni «vosotros» (§10.3, la misma escena en los dos doblajes).
+- **Signos dobles** ¡! y ¿?, con tildes. Sin «·», «—» ni paréntesis
+  (regla 4 del dueño).
+- **Dobby**: siempre **en tercera persona** y muy cortés («señor»).
+  Exagera: «A Dobby lo amenazan cinco veces al día en casa».
+- **Luna**: frases cortas y raras, dichas con calma. Criaturas que nadie
+  ve (nargles; «torposoplos» ⚠️, sin oír del todo).
+- **Dumbledore**: calma, humor seco, una frase para recordar. En un aviso,
+  **nunca grita** (§14).
+- **Hermione**: datos y correcciones. Su frase de marca: «Es Leviosa, no
+  Leviosá».
+- **Ron**: quejica y cómico. Su muletilla latina: «**Ay, diablos**».
+- **Titulares de El Profeta**: cortos, casi sin verbo, como los que lee
+  el narrador del doblaje: «Dumbledore y Potter reivindicados»,
+  «Director de Hogwarts, restituido», «Harry Potter, el elegido».
+- **Gritos**: exclamaciones seguidas, como el vociferador. Es cine: no hay
+  onomatopeyas dibujadas. El vocabulario de expresiones del anime (gotas de
+  sudor, fondos de emoción, *chibi*) **no aplica**.
+
+**Frases reales, por emoción** (doblaje latino, §10.3)
+
+| Emoción | Frase | Quién y dónde |
+|---|---|---|
+| Alegre | «¡Miren todos! La señorita Granger lo hizo. ¡Espléndido!» | Flitwick, P1 01:05:57 |
+| Alegre | «Ginny, cariño, felicidades por entrar a Gryffindor. Estamos muy orgullosos.» | Molly en el vociferador, P2 00:34:28 |
+| Enfadado | «¡Ronald Weasley! ¡Cómo osaste robar el auto! ¡Estoy verdaderamente enojada!» | Molly, P2 00:34:28 |
+| Enfadado | «Nada. Repito. Nada. Justifica que un estudiante camine por la escuela en la noche.» | McGonagall, P1 |
+| Explicando | «Nicolás Flamel es el único que ha podido crear la piedra filosofal.» | Hermione, P1 |
+| Explicando | «Si te digo que te escondas, te escondes. Si te digo que corras, corres.» | Dumbledore, P6 |
+| Anunciando | «La víspera de Navidad… nos reunimos en el gran salón para una noche de recatada frivolidad.» | McGonagall, P4 01:06:47 |
+| Anunciando | «Silencio. TIMOS en progreso.» | narrador de los insertos, P5 ≈01:34:20 |
+| Animando | «Ya saben a qué vinieron. Por un maestro, un maestro de verdad.» | Hermione, P5 00:54:01 |
+| Animando | «Las palabras son, en mi no tan humilde opinión, nuestra fuente más inagotable de magia.» | Dumbledore, P8 01:34:46 |
+| Triste | «Entiendo cómo te sientes, Harry. No, es mi culpa…» | Dumbledore, P5 02:04:35 |
+| Triste | «Qué playa tan hermosa para estar con amigos.» | Dobby, P7 ≈02:10:48 (no usar en #anuncios) |
+| Raro y tierno | «Hola, Harry. Interrumpí un pensamiento, ¿verdad? Vi que se hacía pequeño en tus ojos.» | Luna, P7 |
+
+**Ejemplo para #anuncios** (inventado a partir de esas reglas, para
+revisar): Dobby, en su notita del concepto C: «Dobby ha clavado el aviso,
+señor. ¡Dobby está muy orgulloso!».
+
+---
+
+## Punto 18 · Estilo de imagen y técnica, y cómo replicarlo
+
+> De `partes/texto.md` (repaso corto, 24-sep-2026). Harry Potter es **cine
+> de acción real**: no hay línea de dibujo ni tramas. Hay 4 capas de estilo,
+> cada una con su técnica documentada, y El Profeta de la lámina mezcla las 4.
+
+### Cine (P1-P8): película, luz y color
+- **Película de 35 mm de verdad**, no digital (Arricam, Arriflex 435;
+  Kodak Vision2 500T y 200T) en P3 y P8. **Grano visible a propósito**: las
+  sombras «tienen textura y densidad», no son negro digital ✅
+  ([Color Culture P3](https://colorculture.org/harry-potter-and-the-prisoner-of-azkaban-cinematography-analysis/),
+  [Color Culture P8](https://colorculture.org/deathly-hallows-part-2-cinematography-analysis/)).
+- **Objetivos cálidos, revelado frío**: Cooke S4/i (P3) y Panavision (P8)
+  dan piel cálida y redonda contra un color frío. **Michael Seresin** (P3)
+  quería «más sombra y luz cruzada», tan dramática como se pudiera «sin
+  llegar a parecer *Seven*» ✅ ([entrevista en The Leaky Cauldron](http://www.the-leaky-cauldron.org/2004/06/13/interview-with-poa-cinematographer-michael-seresin/),
+  [resumen de *American Cinematographer*](https://cinema.wisc.edu/2017/02/17/untucked-world-harry-potter-and-prisoner-azkaban/)).
+- **Luz con fuente visible**: en el tren de P3, el tungsteno cálido del
+  vagón pasa a **cian frío y desaturado** cuando llegan los dementores. En
+  P8 la luz sale de los hechizos y del fuego, con negros muy cerrados y el
+  brillo de la magia **sin cortar** (*bloom* suave) ✅ (Color Culture P3 y P8).
+- **Color**: colorista **Peter Doyle** en P3 y P8. P3 vira a azules y cian
+  desaturados; P8, frío de base con el rojo y naranja de las explosiones
+  como único acento; en los recuerdos de Snape sube el blanco para dar
+  nostalgia ✅ (Color Culture). **Bruno Delbonnel** graduaba más frías,
+  casi monocromas, las escenas tensas, y dejaba el cálido otoñal para las
+  ligeras ([In Depth Cine](https://www.indepthcine.com/videos/bruno-delbonnel)).
+- **Stuart Craig**, diseñador de producción de las 8: «sin luz no hay
+  forma». Empieza cada decorado **dibujando una ventana**. En Hogwarts, casi
+  todo en grises («grises verdosos, grises ocre») y **pan de latón de
+  verdad**, no pintura dorada, porque el reflejo no se finge ✅
+  ([IndieWire](https://www.indiewire.com/awards/industry/immersed-in-movies-production-designer-stuart-craig-talks-the-long-road-of-harry-potter-183079/),
+  de pago, leído su resumen; [SGFA Journal](https://sgfajournal.wordpress.com/2011/07/27/drawn-to-cinema-award-winning-production-designer-stuart-craig/),
+  misma cita de la ventana).
+- **Filtros**: grano de película y *bloom* de la magia, confirmados. De
+  **aberración cromática** u otros filtros ópticos no encontré ninguna
+  entrevista ⚠️.
+- **Serie de HBO** (sin estrenar): el director de fotografía **Adriano
+  Goldman** separa el mundo muggle, frío y pálido, del Hogwarts cálido; la
+  quiere «más vibrante» ⚠️ ([CBR](https://www.cbr.com/hbo-harry-potter-color-grading-criticism-cinematographer/), una fuente).
+
+### Encuadres y composición según la emoción
+- **Secretos**: personajes **enmarcados por ventanas o puertas**; barandillas
+  o velas **entre ellos** marcan distancia, y desaparecen cuando se
+  reconcilian (P3) ⚠️.
+- **Escala y vulnerabilidad** (P8): planos generales con mucha profundidad
+  de campo en la batalla; **foco corto** en los momentos frágiles.
+- **Poder**: **ángulo bajo** para Voldemort; Harry, al principio, más
+  pequeño en el cuadro ⚠️ (las dos cosas, de Color Culture; sin segunda
+  fuente línea a línea).
+- Lo visto en los clips (§18): plano medio a la altura de la mesa con
+  cabezas desenfocadas delante; planos simétricos del Gran Comedor.
+
+### Ilustración: Jim Kay y MinaLima
+- **Jim Kay** (ediciones ilustradas, libros 1-4): línea a **lápiz 4B o más
+  blando**; color con «cualquier pintura vieja»: acuarela buena, **botes de
+  prueba de pintura de pared** y ceras, **en capas y lijando**. En el
+  callejón Diagon coloreó en digital para no perder el lápiz. Los fantasmas
+  los pinta **en negativo** y superpone capas. Tira el 85 % de lo que
+  prueba ✅ ([MuggleNet](https://www.mugglenet.com/2015/10/the-great-big-harry-potter-fansite-interview-with-jim-kay/),
+  [Lines and Colors](https://linesandcolors.com/2015/09/25/jim-kay/)).
+- **MinaLima** (Miraphora Mina y Eduardo Lima, todo el papel de las
+  películas): **escanean papel antiguo real**, no parten de vectores
+  limpios; probaron «del *letterpress* victoriano al diseño moderno». Mina
+  aprendió **Photoshop e Illustrator** a la fuerza para el primer encargo ✅
+  ([Harry Potter Fan Zone](https://www.harrypotterfanzone.com/exclusive-meet-minalima-part-1/),
+  [Wikipedia](https://en.wikipedia.org/wiki/MinaLima)).
+
+### Videojuegos: dos técnicas opuestas
+- **Hogwarts Legacy** (Avalanche, Unreal Engine): **realista**, luz
+  dinámica y activos «a escala de cine». El director de arte **Jeff
+  Bunker** releía los libros para cada función nueva. Hechizos, fuego y
+  humo con **Niagara** (partículas de Unreal); el flujo típico usa
+  Houdini, EmberGen y Substance Designer, y Maya y ZBrush para esculpir ✅
+  ([80.lv](https://80.lv/articles/an-in-engine-look-at-hogwarts-legacy-s-environments),
+  [VFX Apprentice](https://www.vfxapprentice.com/blog/magical-vfx-behind-hogwarts-legacy)).
+- **Magic Awakened** (NetEase): **libro ilustrado pintado a mano**, con
+  *shaders* de personaje y escena hechos a medida (charla de GDC de
+  **Qingfeng Zeng**, artista líder; sólo leí el resumen, la charla es de
+  pago ⚠️, [GDC Vault](https://gdcvault.com/play/1028748/Creating-the-Art-of-Harry)).
+  Las cartas «respiran» con animación 2D por huesos (**Spine**) ✅
+  ([GameRes](https://www.gameres.com/885575.html), [ZCOOL](https://www.zcool.com.cn/article/ZMTI5OTkwNA==.html)).
+
+### Cómo replicarlo en Photoshop
+- **Papel viejo** (portada, pergamino, avisos): textura de papel real en
+  **Multiplicar**, manchas en **Trama de color** y una **Curva que suba el
+  negro** (nunca negro puro: MinaLima usa papel escaneado). Papeles CC0 en
+  §5 y en el punto 19.
+- **Grano de película**: filtro **Grano** pequeño y suave, o un grano de
+  35 mm en **Superponer**. **Viñeteado** leve. Temperatura a cian para
+  tensión, a ámbar para confort, con la paleta medida: velas `#BFAE7C`,
+  ventanal frío `#989D92` (§5, §16).
+- **La foto que se mueve**: en las películas es **vídeo de fondo verde**
+  compuesto en **After Effects** sobre el hueco del atrezo ✅
+  ([PerfectCorp](https://www.perfectcorp.com/consumer/blog/video-editing/how-to-do-prophet-poster-video-effect),
+  [Filmbro](https://www.filmbro.com/blogs/tutorials/newspaper-flythrough-in-after-effects-like-harry-potter)).
+  En una lámina quieta: **2 o 3 fotogramas semitransparentes y un poco
+  desplazados** (doble exposición), o una foto nítida con el borde
+  corrido, como una estela.
+
+### Cómo replicarlo en Blender
+- **Contorno** (sólo si se quiere un acabado de ilustración; el cine no
+  lleva): **Solidify invertido** (malla duplicada, normales al revés, grosor
+  negativo, material negro), que va en Eevee y Cycles. Para línea fina y
+  selectiva, **Line Art** con Grease Pencil o **Freestyle** ✅
+  ([BlenderNation](https://www.blendernation.com/2020/02/06/how-to-make-a-toon-shader-with-dynamic-outlines/),
+  [CGian](https://cgian.com/blender-line-art/)).
+- **Modelos de base**: los de §4 (periódico doblado de abdillaamy, búho
+  dorado para el atril, velas, pergamino, tablón). La portada hecha en
+  Photoshop va encima como *Image Texture*.
+- **Luz de vela**: varias luces de punto pequeñas con la fuerza animada con
+  ruido, no una luz de área. Render en **Cycles**, para que el oro refleje
+  como el latón de Craig y no quede un `#B4956C` plano.
+- **Papel que «respira»**: una *Noise Texture* suave en el desplazamiento UV
+  de la foto la hace temblar sin renderizar vídeo.
+- **Modelos o *rigs* libres de los personajes**: no hacen falta (la lámina
+  lleva fotogramas y recortes reales). Los que hay están en
+  `partes/datos.json` (Sketchfab, CC BY): Hermione y Ron de zack_graham, y
+  los de *La cámara secreta* para PS2 y GameCube de Chronis.
+
+---
+
+## Punto 19 · Texturas 2D (papel, patrones de ropa, emblemas y pinceles)
+
+> De `partes/imagen.md`. No es manga: **no hay tramas** que buscar. Sí
+> papel, patrones de tela, emblemas y pinceles de tinta. Las otras capas:
+> 3D en §4, texturas reales de sitios en §5.
+
+### Emblemas oficiales (para calcar la forma, nunca pegar)
+Todos de un artículo oficial, [harrypotter.com, «The MACUSA seal and other
+emblems»](https://www.harrypotter.com/features/the-macusa-seal-and-other-emblems-of-the-wizarding-world) ⚠️ (una fuente, pero oficial):
+- **Escudo de Hogwarts**: 4 cuarteles, uno por casa, y un escudete con la
+  «H» en el centro. Gryffindor, en el cuartel de más honor.
+- **Ministerio de Magia**: «M» con serifas atravesada por una varita.
+  Insignia oficial de MinaLima en el punto 25.
+- **Wizengamot**: la «M» del Ministerio, una balanza y el lema latino
+  «ignorantia juris neminem excusat».
+- **Sortilegios Weasley**: simétrico, con una explosión en el centro.
+- **Durmstrang**: águila de dos cabezas, latín y cirílico, cúpula de
+  cebolla, cabeza de ciervo. **Beauxbatons**: dos varitas cruzadas y
+  adorno rococó. **MACUSA**: fénix en un círculo de 48 estrellas.
+
+### Emblemas con licencia libre
+- **Reliquias de la Muerte**, PNG transparente de 600×600 (medido),
+  [freesvg.org](https://freesvg.org/deathlyhallows), espejo de Openclipart,
+  **CC0** ⚠️ (una ficha). Es el único emblema del fandom con licencia limpia.
+- **León heráldico** para montar un escudo propio con los hex de §16:
+  [Openclipart, león alado](https://openclipart.org/detail/313397/heraldic-winged-lion-silhouette)
+  y [león de perfil](https://openclipart.org/detail/255195/lion-profile-silhouette),
+  CC0 ⚠️. [heraldicart.org](https://heraldicart.org/lion/) no dice licencia.
+  **Serpiente, águila y tejón sueltos: no los encontré** con licencia clara.
+- Escudos de casa de [The Noun Project](https://thenounproject.com/icon/gryffindor-crest-1704953/):
+  **no son libres** (cuenta Pro o 4,99 USD y atribución). Sólo para ver la
+  composición: escudo, animal y yelmo.
+
+### Patrones de ropa
+- **Qué patrón va con cada casa, oficial**: la colaboración Vans × Harry
+  Potter (7-jun-2019) puso **rayas rojas y doradas** a Gryffindor,
+  **serpiente** a Slytherin y **tablero de ajedrez** a Ravenclaw ✅
+  ([harrypotter.com](https://www.harrypotter.com/news/first-look-at-hogwarts-house-themed-vans-x-harry-potter-collection),
+  [CNN](https://www.cnn.com/style/article/vans-harry-potter-shoes-intl-scli)).
+- **25 tartanes** tileables de Luke.RUSTLTD,
+  [OpenGameArt](https://opengameart.org/content/25-tartan-patterns), **CC0** ✅.
+  Son al azar: base para pintar encima la bufanda de una casa, no un tartán
+  oficial.
+- **Rayas y tramas SVG** para la corbata: [Hero Patterns](https://heropatterns.com/),
+  CC BY 4.0 ⚠️ (la propia web).
+- **Túnica**: «Poly Wool Herringbone», **8216×8387**, [Poly Haven](https://polyhaven.com/a/poly_wool_herringbone), CC0 ✅.
+- **Jersey Weasley**: «Knitted Fleece», **8103×8226**, [Poly Haven](https://polyhaven.com/a/knitted_fleece), CC0 ✅.
+  El patrón de punto real, en Ravelry ([Alison Hansel](https://www.ravelry.com/patterns/library/the-weasley-sweater),
+  [RitaKhor](https://www.ravelry.com/patterns/library/weasley-sweater-6)):
+  raglán con la inicial; no comprobé si es gratis ⚠️.
+
+### Papel, grano y pinceles
+- **Papel extra** (por si Texturelabs sigue cerrado):
+  [Paper](https://opengameart.org/content/paper),
+  [Old paper texture](https://opengameart.org/content/old-paper-texture) y
+  [Old-squared paper](https://opengameart.org/content/old-squared-paper),
+  OpenGameArt, **CC0** ✅.
+- **Pinceles de tinta y pluma** (cartas, Mapa del Merodeador):
+  [Brusheezy, «Vintage Ink Pen Brushes»](https://www.brusheezy.com/brushes/47193-vintage-ink-pen-brushes-and-splatter-brush-pack)
+  ⚠️ (licencia según quién lo sube; no la comprobé).
+- **Trama de puntos de imprenta** para las fotos de El Profeta: **no la
+  encontré con licencia clara** (Unblast, Spoongraphics y Texturelabs
+  bloquearon dos veces) ⚠️. Mientras, el papel viejo CC0 de arriba, que
+  no trae el punto de imprenta.
+
+---
+
+## Punto 20 · Gustos y detalles de cada personaje
+
+> De `partes/voz.md`: fichas de la [Harry Potter Wiki](https://harrypotter.fandom.com/wiki/Harry_Potter)
+> leídas por su API, que citan los libros, Pottermore y a J. K. Rowling.
+> Las alturas salen del [HP Lexicon](http://www.hp-lexicon.org) vía la wiki.
+
+| | Harry | Hermione | Ron |
+|---|---|---|---|
+| **Cumpleaños** | 31-jul-1980, Valle de Godric ✅ | 19-sep-1979 ✅ | 1-mar-1980, Ottery St Catchpole ✅ |
+| **Altura** | menos de 1,75 m (deducido: Ron es más alto) ⚠️ | 1,65 m ⚠️ | 1,75 m, 69 kg ⚠️ |
+| **Le encanta** | la tarta de melaza | Aritmancia («¡Es mi materia favorita!»); *Historia de Hogwarts* | el sándwich de tocino; el ajedrez mágico; los **Chudley Cannons**, el peor equipo, con pósters en su cuarto |
+| **Odia** | — | que la llamen «sangre sucia»; la injusticia con los elfos (§8) | el sándwich de carne en conserva; el **granate** de su jersey de Navidad |
+| **Siempre lleva** | la capa invisible y el Mapa del Merodeador; varita de acebo y pluma de fénix | en la guerra, el **bolsito de cuentas** con encantamiento de extensión (libros, ropa, una tienda) | el **Desiluminador** de Dumbledore |
+| **Amortentia** (lo que huele) | tarta de melaza, mango de escoba y algo floral: el pelo de Ginny ✅ | césped recién cortado, pergamino nuevo y el pelo de Ron (en la película, pasta de dientes de menta) ✅ | — |
+| **Cómo se ve** | en el Espejo de Oesed, **sus padres vivos a su lado**: quiere familia, no fama ✅ | su boggart: McGonagall diciéndole que **lo ha suspendido todo** ✅ | en el Espejo, **capitán de quidditch y Premio Anual** con la copa: quiere que lo noten ✅ |
+| **Miedo (boggart)** | un dementor ✅ | suspender ✅ | Aragog, las arañas ✅ |
+
+| | Dumbledore | Luna | Dobby |
+|---|---|---|---|
+| **Cumpleaños** | entre el 16 y el 31 de agosto de 1881 ⚠️ (sólo el rango) | 13-feb-1981, lo dijo [Rowling en X](https://x.com/jk_rowling/status/622008983000363008) ✅ | 28 de junio, año sin confirmar ✅ |
+| **Altura** | 1,80 m ⚠️ | no consta en la wiki | 91 cm; ojos verdes «como pelotas de tenis» ✅ |
+| **Le encanta** | los dulces raros (sus contraseñas: grageas ácidas, racimos de escarabajos), la música de cámara, los bolos ✅ | las criaturas de *El Quisquilloso* (snorkacks, nargles); collar de chapas de cerveza de mantequilla, pendientes de rábano ✅ | Harry, la libertad y **los calcetines**: los colecciona y lleva varios sin pareja ✅ |
+| **Manías** | gafas de media luna | la varita **detrás de la oreja izquierda**, las revistas **al revés**, descalza porque le escondían los zapatos ✅ | se castiga: «¡Dobby es malo!» |
+| **Siempre lleva** | la Varita de Saúco ✅ | el collar «contra los nargles» y las gafas espectrales ✅ | la funda de almohada, y el calcetín que lo liberó (P2 02:25:12) ✅ |
+| **Cómo se ve** | en el Espejo dice ver **calcetines de lana** («uno nunca tiene suficientes»): esquiva la pregunta ✅ | no le importa que la llamen «Lunática» | en **tercera persona**, hasta que se sabe «un elfo libre» ✅ |
+| **Miedo (boggart)** | el cadáver de su hermana **Ariana**, su culpa ✅ | campo vacío en la wiki: **no lo encontré** | Voldemort, sólo en *LEGO Harry Potter Years 1-4* ⚠️ |
+
+Fuentes de las filas: fichas de [Hermione](https://harrypotter.fandom.com/wiki/Hermione_Granger),
+[Ron](https://harrypotter.fandom.com/wiki/Ronald_Weasley),
+[Dumbledore](https://harrypotter.fandom.com/wiki/Albus_Dumbledore),
+[Luna](https://harrypotter.fandom.com/wiki/Luna_Lovegood),
+[Dobby](https://harrypotter.fandom.com/wiki/Dobby),
+[Amortentia](https://harrypotter.fandom.com/wiki/Amortentia) (cita el
+[chat de Rowling con Bloomsbury, 2007](https://www.the-leaky-cauldron.org/2007/07/30/bloomsbury-chat.html))
+y [Espejo de Oesed](https://harrypotter.fandom.com/wiki/Mirror_of_Erised).
+
+**Para la lámina**: los **calcetines sin pareja de Dobby** son su objeto,
+su gag y su libertad a la vez. Encajan en el concepto C (colgados del
+tablón) y en una lámina 2.
+
+---
+
+## Punto 21 · Por qué la gente la ama (y las escenas que hacen llorar)
+
+> De `partes/voz.md`, más títulos de Reddit de `partes/datos-voz.md`.
+
+### Datos duros
+- **Más de 600 millones de libros** en más de 80 idiomas (cifra de 2023;
+  en 2019 la web oficial [decía 500 millones](https://www.harrypotter.com/news/500-million-harry-potter-books-have-now-been-sold-worldwide))
+  ✅. Los más vendidos de la historia fuera de textos religiosos y políticos.
+- **Récord Guinness**: la saga de cine con **más BAFTA infantiles**
+  ([Guinness](https://www.guinnessworldrecords.com/world-records/452669-most-childrens-bafta-awards-won-by-a-movie-series)) ✅.
+  Mejor película infantil con P3 (2004) y P8 (2011); voto del público con
+  P2 (2003) y P4 (2006); premio a la «contribución destacada al cine
+  británico» en 2011 ([BAFTA](https://www.bafta.org/media-centre/press-releases/harry-potter-films-awarded-bafta/)) ✅.
+
+### Por qué la aman
+- **Familia elegida**: Harry no tiene padres y la encuentra en los
+  Weasley, en Ron y Hermione. La familia es lealtad, no sólo sangre ✅
+  ([Medium](https://medium.com/@aylinkanber/why-do-we-love-harry-potter-c28fdf51800b),
+  [APU](https://www.apu.edu/articles/family-matters-in-the-harry-potter-novels/)).
+- **Escapismo que refleja el mundo real**: lealtad, amor y estar juntos,
+  lo que el lector querría fuera del libro ✅ (mismas dos fuentes).
+- En Reddit (títulos de hilos): «Why I love Ron and Harry's interaction
+  after the destruction of the locket» (84 votos), «Why I love Book Snape»,
+  y quien acaba la saga: «I understand why people love this series»
+  ([r/harrypotter](https://www.reddit.com/r/harrypotter/comments/1mldsrl/just_finished_the_entire_series_i_understand_why/)) ⚠️ (sólo títulos).
+
+### Con quién se identifica el público
+- **Neville**: tímido y torpe, florece tarde. Lo quieren **por** sus
+  torpezas ✅ ([CBR](https://www.cbr.com/harry-potter-most-understandable-characters/),
+  [ScreenRant](https://screenrant.com/harry-potter-best-most-relatable-characters/)).
+- **Luna**: la de quien se sintió raro; nunca finge ser otra ✅ (CBR,
+  ScreenRant, y el hilo de 6 555 votos de §14).
+- **Ron**: el «normal» entre dos genios, el menos especial de su familia
+  (su Espejo de Oesed, punto 20) ✅.
+- En [Goodreads](https://www.goodreads.com/topic/show/597754-which-character-from-any-of-the-harry-potter-books-do-you-most-identify),
+  las respuestas se reparten entre Luna, Ron, Ginny y Hermione ⚠️ (un hilo).
+
+### Las escenas que hacen llorar, reír o gritar
+
+**1. La muerte de Dobby** (la que más se cita como «la que más duele»)
+- **Dónde**: P7, **02:10:48**, en la playa de la Cabaña Concha (§8) ✅.
+- **Qué pasa**: rescata a Harry y a sus amigos de la mansión Malfoy y le
+  alcanza el cuchillo que Bellatrix lanza. Harry **lo entierra a mano, sin
+  magia**. Su última frase latina: «Qué playa tan hermosa para estar con
+  amigos» (§10.3).
+- **Por qué duele**: fiel desde P2, muere rescatando, y tiene **funeral en
+  pantalla** ✅ ([Collider](https://collider.com/harry-potter-dobby-death/),
+  [CBR](https://www.cbr.com/saddest-harry-potter-scenes/),
+  [Syfy](https://www.syfy.com/syfy-wire/harry-potter-movies-saddest-moments-hedwig-dobby-deaths)).
+- **Música**: *Farewell to Dobby*, de Alexandre Desplat, pista 25 de la
+  banda sonora de P7, **3:44** ✅ ([Spotify](https://open.spotify.com/track/6TnfdR9iEcLnWdw1AIJeWZ)).
+- **Reacción**: miles de vídeos en TikTok («Dobby Dies Scene»). En Reddit,
+  un hilo de escenas que hacen llorar **deja fuera las muertes** porque ya
+  se dan por hechas ([r/harrypotter](https://www.reddit.com/r/harrypotter/comments/1wcgx8j/what_scenes_from_harry_potter_made_you_cry_your/), 34 votos) ✅.
+- **Cómo está dibujada**: no lo miré en vídeo ⚠️. Hay fotograma oficial del
+  funeral en `partes/datos.json` («Dobby's funeral», 3834×1500).
+
+**2. Snape: «Always»**
+- **Dónde**: P8, **01:22:37** (§14) ✅.
+- **Qué pasa**: en el Pensadero, Harry ve que Snape amó a Lily toda la
+  vida. Dumbledore le pregunta si aún la ama; él conjura su Patronus
+  plateado, igual al de Lily, y dice «Always».
+- **Por qué duele**: da la vuelta a siete libros. No era crueldad: era dolor.
+- **Música**: *Snape's Demise* trae el tema de Hedwig en celesta; el
+  recuerdo usa *Severus and Lily*, que retoma «Dumbledore's Farewell» de
+  Nicholas Hooper (P6) ✅ ([MovieMusicUK](https://moviemusicuk.us/2011/08/15/harry-potter-and-the-deathly-hallows-part-ii-alexandre-desplat/)).
+- **Cómo está filmada**: Snape en **silueta contra un cielo gris** tras una
+  ventana, en uno de los silencios de la batalla ⚠️
+  ([ensayo en Medium](https://alpenglowmemory.medium.com/harry-potter-and-the-deathly-hallows-part-2-spectacle-and-silence-24d4a32efcb2), una fuente).
+- **En latino**: cómo se dice «Always» en el doblaje **no lo comprobé** ⚠️.
+
+**3. Molly contra Bellatrix** (la que hace gritar de emoción)
+- **Dónde**: P8, Batalla de Hogwarts. **El minuto no lo encontré** ⚠️.
+- **Qué pasa**: Bellatrix va a matar a Ginny. Molly se interpone: «Not my
+  daughter, you bitch!» y la derriba.
+- **Reacción**: el público **gritó y aplaudió en los estrenos de 2011** ⚠️
+  ([BuzzFeed](https://www.buzzfeed.com/kaileyhansen/people-are-sharing-movies-that-got-applause),
+  testimonios de lectores). Julie Walters habla del rodaje en
+  [este vídeo](https://www.youtube.com/watch?v=T-mM69B08ko), sin mirar
+  (YouTube pide iniciar sesión).
+
+**Para #anuncios**: ninguna de estas escenas va en la lámina (§14: no usar
+la muerte de Dobby para algo alegre). Sirven para láminas 2, eventos o el
+canal de doblaje.
+
+---
+
+## Punto 22 · Fan dubs y comunidad hispana
+
+> De `partes/voz.md`. Vistas, duración y fecha **medidas con `yt-dlp
+> --print`** (24-sep-2026) hasta que YouTube dio 429. Doblaje Wiki no
+> tiene sección de fandubs: esto sale entero de YouTube.
+
+### Fandubs en español latino
+| Vídeo | Canal | Vistas | Duración · fecha |
+|---|---|---|---|
+| [«El pequeño Potter»](https://www.youtube.com/watch?v=6FPsMCEZPDM) | @LemonLads, resubido por ElJoulex | **41 886 226** | 0:26 · 31-dic-2024 |
+| [«Harry Potter y la Cámara Secreta»](https://www.youtube.com/watch?v=54bU0odF2UE) | Carlangas Fandub | 421 005 | 1:57 · 22-jul-2011 |
+| [«Harry conoce a Dobby» (fandub latino)](https://www.youtube.com/watch?v=R2pd55lttJs) | EL MUNDO DE ANGIE | 206 105 | 4:06 · 8-ago-2017 |
+| [«Harry Potter en 99 segundos»](https://www.youtube.com/watch?v=VhzaDlJ7JtI) | Andubs FD | 2 886 | 2:06 · 13-jul-2017 |
+| [«Wingardium Leviosa» (parodia de Oney Cartoons)](https://www.youtube.com/watch?v=gJ4iUrXq2Tk) | VinoDubs | 1 294 | 0:46 · 3-ene-2022 |
+
+- El de **LemonLads** es, con mucho, el fandub de HP en español más visto
+  que se encontró: un *short* de humor con la voz de Harry niño ✅.
+- El de **Carlangas** es de los más veteranos (2011). El de **Angie** es
+  justo la escena de Dobby, personaje del encargo ✅.
+
+### Parodias en español (más vistas que los fandubs)
+- [«Harry Potter y La Piedra Filosofal | CANCIÓN Parodia»](https://www.youtube.com/watch?v=nUV0l7VGXjk),
+  **Destripando La Historia** (España, muy visto en Latinoamérica):
+  **6 010 134** vistas, 2:55, 3-may-2017 ✅. Canción original, no doblaje.
+- [«HARRY POTTER y La Piedra Filosofal (PARODIA)»](https://www.youtube.com/watch?v=gZoydeBXxJE),
+  **Saúl Tijeras**: 1 409 298 vistas, 10:13, 17-ago-2018 ✅. Actuada.
+- **«Es Leviosa, no Leviosá»** sigue viva en TikTok en español; hasta
+  **Warner Bros. México** la usa ([@warnerbrosmx](https://www.tiktok.com/@warnerbrosmx/video/7449551655030312197))
+  ⚠️ (TikTok no da las vistas sin sesión).
+
+### Covers del tema
+- No hay *opening* con letra: el tema es **Hedwig's Theme**, orquestal
+  (John Williams, 2001). **No encontré** covers cantados en español;
+  abundan los de piano, sin un canal latino grande identificado ⚠️.
+
+### Comunidad hispana
+- Formato que se repite: **«Españoles reaccionan al doblaje latino vs
+  español»**, con Dobby y con Hagrid ✅ (títulos vistos; vistas sin medir).
+- No hay un foro de fandub de HP en español: sólo canales sueltos.
+
+**Para el servidor**: los **41,9 millones** de LemonLads prueban que HP
+mueve fandub hispano a gran escala. Buen gancho para un evento de doblaje:
+la escena del vociferador (§10.3) o «Harry conoce a Dobby».
+
+---
+
+## Punto 23 · Colaboraciones, figuras y cosplay
+
+> De `partes/imagen.md`. Lo que trae **poses o ropa nuevas** va en negrita.
+
+### Videojuegos y cruces digitales
+- **Fortnite × Harry Potter** (The Game Awards, dic-2025): uniforme de
+  Hogwarts **personalizable por casa**, mochila de la Rana de Chocolate
+  gratis y una **escoba mítica** para volar ✅
+  ([Dexerto](https://www.dexerto.com/fortnite/fortnite-harry-potter-crossover-3293270/),
+  [PinkNews](https://www.thepinknews.com/2025/12/19/fortnite-leaker-spoiled-harry-potter-crossover-over-j-k-rowlings-trans-views/)).
+  ⚠️ **Aviso para el dueño**: PinkNews cuenta que salió en plena polémica
+  por la postura de J. K. Rowling sobre las personas trans. No ponerlo en
+  la lámina sin que él lo sepa.
+- **Wizards Unite** (Niantic, como Pokémon GO; cerró en 2022): realidad
+  aumentada, «Fortalezas» en vez de gimnasios ✅
+  ([La Nación](https://www.lanacion.com.ar/tecnologia/wizards-unite-asi-es-videojuego-harry-potter-nid2227903/),
+  [TechRadar](https://www.techradar.com/news/harry-potter-wizards-unite)).
+- **Puzzles & Spells** (Zynga, 2020): *match-3*; lo presentó Zayn Malik.
+  Sus renders recortados son los de P·26 ✅
+  ([harrypotter.com](https://www.harrypotter.com/news/zynga-game-puzzles-and-spells-mobile-game-announcement),
+  [Zynga](https://www.zynga.com/games/harry-potter-puzzles-and-spells/)).
+- **Magic Awakened** (NetEase, 2023): **gacha** de verdad, con *banners* y
+  cartas aseguradas a las 60 tiradas. Cerró en América y Europa el
+  29-oct-2024; sigue en Asia ✅
+  ([BusinessWire](https://www.businesswire.com/news/home/20230627057479/en/Warner-Bros.-Games-and-NetEase-Announce-The-Worldwide-Launch-of-Harry-Potter-Magic-Awakened),
+  [GamingOnPhone](https://gamingonphone.com/guides/harry-potter-magic-awakened-the-complete-gacha-system-guide/)).
+
+### LEGO, 25 aniversario (2026)
+- **Ministerio de Magia, edición de coleccionista**: 3 491 piezas, 14
+  minifiguras (Arabella Figg por primera vez) y el **Patronus de lince de
+  Kingsley** como pieza nueva; venta el 1-sep-2026, 449,99 USD ⚠️
+  ([LEGO.com](https://www.lego.com/en-us/aboutus/news/2026/august/25-years-of-harry-potter-with-a-new-ministry-of-magic-set)).
+- **La ola de verano**, 8 sets ✅ ([The Brick Fan](https://www.thebrickfan.com/lego-harry-potter-summer-2026-sets-revealed/) y LEGO.com):
+  **Dobby the Free Elf** (76469, 379 piezas: **pose 3D oficial nueva de
+  Dobby**), **Forbidden Forest: Expecto Patronum** (76475: **Harry lanzando
+  el Patronus**), Hogwarts House Crest (76462, mosaico del escudo), Book
+  Nook: Dumbledore's Office, Knockturn Alley y otros tres.
+
+### Marcas y moda
+- **Vans** (7-jun-2019): un modelo por casa, con mochilas y parches ✅
+  (patrones en el punto 19).
+- **Pandora** (28-nov-2019, ampliada en 2020): dijes de la carta de
+  admisión, Hedwig, el Sombrero Seleccionador, las Reliquias, gafas y rayo,
+  la Nimbus 2000 ✅
+  ([Pandora](https://www.pandoragroup.com/media/press-releases/pandora-launches-harry-potter-collection),
+  [Marie Claire](https://www.marieclaire.co.uk/news/fashion-news/pandora-harry-potter-collection-665884)).
+- **Ariani** (Malasia, 2023): colección de ropa **de quidditch** ⚠️
+  ([Malay Mail](https://www.malaymail.com/news/life/2023/06/06/malaysian-fashion-brand-ariani-unveils-second-harry-potter-collection-with-focus-on-quidditch/72784)).
+
+### Cafés y tiendas
+- **Studio Tour de Tokio** (2023): Backlot Cafe con menú por casa y
+  **bebidas que cambian de color** ✅
+  ([wbstudiotour.jp](https://www.wbstudiotour.jp/en/the-experience/fooddrink/),
+  [GoTokyo](https://www.gotokyo.org/en/spot/1854/index.html)).
+- **Harry Potter Shop Harajuku** (14-ago-2025): Buckbeak a tamaño real,
+  réplica de Honeydukes, galería de MinaLima y barra de cerveza de
+  mantequilla a 800 yenes ⚠️ ([SoraNews24](https://soranews24.com/2025/08/14/tokyo-has-a-brand-new-harry-potter-shop-with-its-own-butterbeer-bar-lets-see-whats-inside%E3%80%90pics%E3%80%91/)).
+- **House of MinaLima en Seúl** (desde el 2-sep, un año): tienda y galería
+  de su atrezo de papel ✅
+  ([Korea Herald](https://m.koreaherald.com/article/3282442),
+  [harrypotter.com](https://www.harrypotter.com/news/minalima-to-open-pop-up-store-in-seoul)).
+
+### Figuras oficiales (la pose es referencia 3D)
+- **Funko Pop!**, desde 2015, más de 250 figuras; los «Pop! Rides» del
+  expreso de Hogwarts ✅
+  ([Funko](https://funko.com/fandoms/movies-tv/fantasy/harry-potter/),
+  [Funko Wiki](https://funko.fandom.com/wiki/Pop!_Harry_Potter),
+  [Cardboard Connection](https://www.cardboardconnection.com/funko-pop-harry-potter-vinyl-figures)).
+- **Mattel**: muñeca de coleccionista «Design Collection» ⚠️
+  ([Mattel Creations](https://creations.mattel.com/products/harry-potter-design-collection-harry-potter-doll-hnd81)).
+  **McFarlane Toys**: su página dio 404; **no lo verifiqué**.
+- Minifiguras LEGO de 2026 (Dobby, Arabella Figg, el lince): arriba.
+
+### Cosplay con materiales reales
+- **Bellatrix**, de Amber Reifsteck ([The Woodland Elf](https://thewoodlandelf.com/bellatrix-how-to-make-a-bellatrix-lestrange-costume/)):
+  vestido negro de segunda mano, pintura *puffy* plateada, **7 yardas de
+  cordón negro y 50 ojales** para el corsé cruzado, unos 10 USD ⚠️.
+- Cosplay de Hermione, Draco o Luna con el mismo detalle: **no lo busqué**
+  (cupo de la tanda).
+
+**Para la lámina**: el Dobby de LEGO y el Harry del Patronus son las dos
+poses nuevas más citables; la de Dobby sirve de referencia 3D para el
+concepto C.
+
+---
+
+## Punto 24 · Obras parecidas y láminas vecinas
+
+> De `partes/texto.md`. Obra británica: el idioma original es el inglés, ya
+> cubierto; no aplica buscar influencias en japonés o coreano.
+
+### Lo que J. K. Rowling reconoce, en sus palabras
+Fuente: [Wikipedia, «Harry Potter influences and analogues»](https://en.wikipedia.org/wiki/Harry_Potter_influences_and_analogues)
+y [HogwartsProfessor](https://www.hogwartsprofessor.com/rowlings-admitted-literary-influences/) para las citas ✅.
+- **Mitología y folclore británico**: «le he tomado libertades horribles,
+  y no me arrepiento».
+- ***La Ilíada***: el trato al cuerpo de Héctor inspiró la muerte de Cedric (P4).
+- ***El viento en los sauces*** (Grahame): el primer libro que la marcó.
+- **E. Nesbit**: «me identifico con ella más que con ningún otro escritor».
+- ***Macbeth***: «posiblemente mi obra favorita de Shakespeare».
+- ***Emma*** (Austen): la vara con la que mide sus finales sorpresa.
+- ***La espada en la piedra*** (T. H. White: Arturo como «antepasado
+  espiritual» de Harry, Merlín como Dumbledore) y **Narnia** (el andén 9¾)
+  ⚠️: de artículos de análisis, sin cita de ella.
+
+### A qué la comparan crítica y fans ✅ (misma Wikipedia, que cita varios críticos)
+- **Escuela de magia antes de Hogwarts**: *Un mago de Terramar* (Le Guin)
+  y *The Worst Witch* (Jill Murphy).
+- **Niño que descubre su poder a los 11**: *The Dark Is Rising* (Susan
+  Cooper) y *Chrestomanci* (Diana Wynne Jones).
+- **El elegido, la profecía, el mentor**: *El Señor de los Anillos* y
+  *Star Wars*; Snape, con el Heathcliff de *Cumbres Borrascosas*.
+- **Escuela oculta y miedo a los que tienen poderes**: **X-Men**.
+- **Niño de gafas con un búho que descubre que es mago**: *The Books of
+  Magic*, de Neil Gaiman (cómic anterior).
+- **Novela de internado británica + fantasía** (*Tom Brown's Schooldays*)
+  ⚠️: TV Tropes da 403; el dato es de un resumen.
+
+### Obras hermanas o posteriores
+- ***Animales fantásticos***: mismo mundo, mismo estudio y **MinaLima** en
+  el papel; la más cercana en estilo ✅.
+- **La serie de HBO** (sin estrenar): mismos libros, otra luz, «más
+  vibrante» (punto 18) ⚠️.
+- ***Percy Jackson***: la comparación de siempre en listas de «si te
+  gustó» ⚠️ (sin artículo que citar).
+
+### Láminas del servidor que se le parecen (para no repetir)
+La parte de texto comparó sólo con One Piece, Attack on Titan y Solo
+Leveling («ninguna se parece»). **El redactor revisó los títulos de los
+conceptos de todas las biblias** (búsqueda de «periódico», «diario»,
+«tablón», «carta», «noticias») y **sí hay parecidos**:
+- **Mafalda (#sugerencias), concepto A**: «**La página del diario**», un
+  diario de los sesenta **doblado sobre una mesa de madera**. Es la misma
+  idea que nuestro concepto A. Diferencia que hay que cuidar: aquí papel
+  crema con cabecera gótica, velas y oro; allí un diario argentino con
+  tiras de historieta, en un salón de casa.
+- **One Piece (#bienvenidas), concepto A**: «**Se busca: tú**», carteles
+  de papel clavados en el mástil. Se parece a nuestro concepto C (avisos
+  clavados en el tablón). Diferencia: fieltro rojo con cintas y lacre
+  frente a madera de barco y carteles de recompensa.
+- **Oshi no Ko (#redes-y-novedades)**: un directo de noticias en pantalla.
+  Mismo tema (novedades), otro objeto: no choca.
+- **Sin parecido**: Attack on Titan (ficha militar gris) y Solo Leveling
+  (ventana azul de videojuego).
+
+**Consecuencia**: el concepto B (el atril) es el único de los tres sin
+parecido en otra lámina. Si Mafalda o One Piece se hacen antes, marcar
+bien las diferencias de A y C (papel, luz y letra).
+
+---
+
+## Punto 25 · El mundo, la historia por arcos y sus símbolos
+
+> De `partes/texto.md`, con la API de la Harry Potter Wiki.
+
+### Las reglas del mundo, en cinco líneas
+1. **El mundo mágico vive escondido** de los muggles por el **Estatuto
+   Internacional del Secreto**, firmado en 1689 y en vigor desde 1692, tras
+   siglos de quema de brujas ✅ ([wiki](https://harrypotter.fandom.com/wiki/International_Statute_of_Wizarding_Secrecy),
+   que cita *Quidditch a través de los tiempos*).
+2. **Cada país tiene su Ministerio de Magia**: hace cumplir la ley y
+   guarda el secreto ✅ ([wiki](https://harrypotter.fandom.com/wiki/Ministry_of_Magic)).
+3. **La sangre marca el prejuicio**: sangre pura, mestizos, hijos de
+   muggles. Es el motor de Voldemort y los mortífagos ✅
+   ([wiki](https://harrypotter.fandom.com/wiki/Blood_status)).
+4. **Hogwarts reparte en 4 casas** con el Sombrero Seleccionador; compiten
+   por la **Copa de las Casas** con puntos que se ganan o se pierden ✅
+   (fichas de las casas, abajo).
+5. **La magia va con varita** (los elfos, no). Se viaja por la Red Flu, al
+   aparecerse o con trasladores; se escribe con lechuzas y vociferadores.
+   Nada de tecnología muggle ⚠️ (sin cita concreta en la parte).
+
+### La historia por arcos ✅
+([Wikipedia, «Harry Potter»](https://en.wikipedia.org/wiki/Harry_Potter) y la
+ficha de cada libro en la wiki)
+1. **La piedra filosofal** (P1): Harry sabe que es mago. Quirrell, con
+   Voldemort, quiere la piedra de la inmortalidad; Harry lo frena ante el
+   **espejo de Oesed**.
+2. **La cámara secreta** (P2): ataques a alumnos. El **diario de Tom
+   Ryddle** posee a Ginny; Harry destruye ese recuerdo de Voldemort.
+3. **El prisionero de Azkaban** (P3): Sirius, su padrino, era inocente. Un
+   **giratiempo** ayuda a destapar al verdadero traidor.
+4. **El cáliz de fuego** (P4): Harry entra sin querer en el **Torneo de
+   los Tres Magos** y ve **volver a Voldemort**. El giro de la saga.
+5. **La Orden del Fénix** (P5): el Ministerio lo niega todo. Harry forma
+   el **Ejército de Dumbledore** mientras Umbridge aprieta Hogwarts.
+6. **El misterio del príncipe** (P6): los **Horrocruxes**. Dumbledore muere
+   a manos de Snape.
+7. **Las reliquias de la muerte** (P7-P8): Harry sabe que **él mismo es un
+   Horrocrux**, se entrega, sobrevive y vence gracias al amor de su madre.
+
+**Para #anuncios**: la época alegre es la de P1-P4 (§14: no mezclar la
+cabecera de P5 con Harry niño).
+
+### Emblemas, logos y objetos icónicos
+- **Las 4 casas** ✅ ([fichas de la wiki](https://harrypotter.fandom.com/wiki/Gryffindor),
+  que citan Pottermore y los libros):
+
+| Casa | Fundador | Colores | Animal | Elemento | Virtud |
+|---|---|---|---|---|---|
+| Gryffindor | Godric Gryffindor | escarlata y oro | león | fuego | valentía |
+| Slytherin | Salazar Slytherin | verde y plata | **serpiente** (*serpent*) | agua | astucia |
+| Ravenclaw | Rowena Ravenclaw | azul y bronce | **águila**, no cuervo | aire | ingenio |
+| Hufflepuff | Helga Hufflepuff | amarillo y negro | tejón | tierra | lealtad |
+
+- **Escudo de Hogwarts**: los 4 animales alrededor de una H (punto 19),
+  con el lema *Draco dormiens nunquam titillandus*, «nunca le hagas
+  cosquillas a un dragón dormido» ⚠️ (sin enlace en la parte).
+- **Marca Tenebrosa**: calavera verde con una serpiente saliendo de la
+  boca; negra en el antebrazo izquierdo de cada mortífago, verde en el
+  cielo con *Morsmordre* ✅ ([wiki](https://harrypotter.fandom.com/wiki/Dark_Mark)).
+  **Nunca en #anuncios**.
+- **Signo de las Reliquias**: triángulo (la capa), círculo (la piedra) y
+  línea (la Varita de Saúco). Grindelwald lo llevó en un colgante ✅
+  ([wiki](https://harrypotter.fandom.com/wiki/Sign_of_the_Deathly_Hallows)).
+  Versión CC0 en el punto 19.
+- **Moneda del ED**: galeones falsos con encantamiento Proteico, de
+  Hermione (1995), para avisar en secreto de la próxima reunión. Después
+  de la guerra, **insignia de honor** ✅ ([wiki](https://harrypotter.fandom.com/wiki/Dumbledore%27s_Army_coin)).
+  Es **un aviso mágico en un objeto**: guiño posible para #anuncios.
+- **Emblema del Ministerio**: lo diseñó MinaLima; lo venden como
+  [insignia oficial](https://minalima.com/product/button-badge-ministry-of-magic-emblem/) ✅.
+- **Cabecera de El Profeta**: medida y descrita en §2.1 y §6.
+
+### Vocabulario que un fan reconoce al instante
+✅ (wiki y [harrypotter.com](https://www.harrypotter.com/features/everything-you-need-to-know-about-squibs))
+- **Muggle**: sin magia, de padres sin magia. **Squib**: de familia mágica
+  pero casi sin magia ([wiki](https://harrypotter.fandom.com/wiki/Squib)).
+- **Animago**: se convierte en un animal a voluntad. **Patronus**: luz con
+  forma de animal contra los dementores, uno por mago.
+- **Horrocrux**, **poción multijugos**, **polvos flu**, **traslador**,
+  **aparecerse**, **sangre sucia** (insulto), **snitch dorada**, **quaffle**,
+  **bludger**, **el que no debe ser nombrado**.
+- Hechizos de oído: *Wingardium Leviosa*, *Expecto Patronum*, *Avada
+  Kedavra*, *Expelliarmus*, *Alohomora*, *Lumos*, *Accio*.
+- En latino: **vociferador** (no «Howler»), **«el que no debe ser
+  nombrado»** (§10.3).
+
 ---
 
 ## 19 · Tres conceptos para la lámina de #anuncios
@@ -1808,6 +2493,23 @@ las gafas de Dumbledore redondas en vez de media luna, y Dobby con ropa
   A un lado, el borde del tapiz del unicornio con collar de lunas (como en
   el fotograma de P1): el fan lo reconoce.
 
+### Mejoras del repaso corto (puntos 18-25)
+- **A**: la foto que se mueve se hace como en el cine, pero quieta: 2 o 3
+  fotogramas semitransparentes y desplazados (punto 18). Papel con
+  **grano de 35 mm** y **negro levantado**, como el papel escaneado de
+  MinaLima. **Ojo**: Mafalda (#sugerencias) también tiene un diario
+  doblado sobre la mesa (punto 24); aquí manda el gótico, la vela y el oro.
+- **B**: es el **único sin parecido** en otras láminas (punto 24). Luz de
+  varias velas pequeñas y oro con reflejo real en Cycles, como el latón de
+  Stuart Craig (punto 18).
+- **C**: **referencia 3D de pose** para Dobby: el set LEGO *Dobby the Free
+  Elf* (76469, 2026, punto 23). Y su gag: **calcetines sin pareja**
+  colgados de una chincheta del tablón, de estampados distintos (punto
+  20). Se parece al «Se busca» de One Piece (punto 24): que se note el
+  fieltro rojo, las cintas y el lacre.
+- **Posible guiño en A o C**: la **moneda del ED**, un aviso mágico que
+  cambia solo (punto 25).
+
 ### ¿Cuál primero?
 **A**, porque es el objeto del plan con escena real y la lectura de «noticia»
 es inmediata. **B** es la más solemne y la más «staff». **C** es la más
@@ -1853,6 +2555,24 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
 - **Licencia de Texturelabs**: la página de condiciones devuelve un reto
   antibots y la copia de Wayback no baja.
 
+**Repaso corto, puntos 18-25** (24-sep-2026): lo que queda dudoso o sin
+encontrar, cada cosa con su marca en su sección:
+- **Punto 18**: aberración cromática u otro filtro óptico, sin entrevista;
+  la charla de GDC de *Magic Awakened*, de pago; el color de la serie de
+  HBO, una fuente; los encuadres por emoción, sólo Color Culture.
+- **Punto 19**: trama de imprenta con licencia libre; serpiente, águila y
+  tejón heráldicos libres; licencias de Ravelry y Brusheezy.
+- **Punto 20**: alturas (sólo HP Lexicon); fecha exacta de Dumbledore;
+  altura y boggart de Luna (no están en la wiki); boggart de Dobby (sólo
+  un juego de LEGO).
+- **Punto 21**: minuto de Molly contra Bellatrix; cómo dice «Always» el
+  doblaje latino; cómo están filmadas las escenas (no se miraron en vídeo).
+- **Punto 22**: vistas del TikTok de Warner México; un canal latino grande
+  de covers del tema.
+- **Punto 23**: McFarlane Toys (404); cosplay de Hermione, Draco o Luna.
+- **Punto 24**: TV Tropes (403); Percy Jackson sin artículo.
+- **Punto 25**: el lema del escudo, sin enlace.
+
 ---
 
 ## Cumplimiento del encargo
@@ -1876,12 +2596,20 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
 | 14 · Poses con minuto | ✅ | 6 tablas, 7-15 poses cada una (§15); casi todas vistas en vídeo, clip u hoja; 2 gestos sin ver (Harry P1, Ron P8) |
 | 15 · Vestuario con hex | ✅ | hex medidos en figurines y promos (§16) |
 | 16 · Ciudades y fondos de pantalla | ✅ | 10 fondos con tamaño y autor (§17); fondos de fans en alta: buscados en DeviantArt, no hay que valgan |
-| 17 · Guía para IA | ✅ | rasgos, estilo, paleta medida, palabras sí y no, referencias numeradas (§18) |
+| 17 · Guía para IA | ✅ | rasgos, estilo, paleta medida, palabras sí y no, referencias numeradas (§18); **IA de texto** añadida en el repaso corto (§18.1): reglas de voz latina y 13 frases reales ordenadas por emoción. El vocabulario de expresiones del anime no aplica (es cine) |
+| 18 · Estilo y técnica, cómo replicarlo | ✅ | punto 18: película de 35 mm, luz y color con entrevistas (Seresin, Craig) y análisis técnicos; Jim Kay y MinaLima; Hogwarts Legacy y Magic Awakened; Photoshop y Blender paso a paso; encuadres por emoción. Sin fuente: aberración cromática (no encontrada) y la charla de GDC (de pago) |
+| 19 · Texturas 2D | ✅ | punto 19: emblemas oficiales, Reliquias CC0 medida, tartanes, papel y telas CC0 (Poly Haven medidas por la API), patrón por casa de Vans. No hay tramas (no es manga). Falta: trama de imprenta con licencia y serpiente, águila y tejón heráldicos libres |
+| 20 · Gustos y detalles | ✅ | punto 20: los 6 personajes, con cumpleaños, gustos, objeto, Amortentia, Espejo de Oesed y boggart (wiki por API). Alturas con una fuente; Luna sin altura ni boggart en la wiki |
+| 21 · Por qué la aman y escenas que hacen llorar | ⚠️ | punto 21: ventas, Guinness y BAFTA, con quién se identifica el público, y 3 escenas con música y reacción. Falta el minuto de Molly contra Bellatrix, cómo se dice «Always» en latino y mirar en vídeo cómo están filmadas |
+| 22 · Fan dubs y comunidad hispana | ✅ | punto 22: 5 fandubs y 2 parodias con vistas medidas con yt-dlp (el mayor, 41,9 millones); TikTok de Warner México. Covers cantados: no existen (el tema no tiene letra) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | punto 23: Fortnite (con aviso), 3 juegos móviles, LEGO 2026 con pose nueva de Dobby, Vans, Pandora, cafés de Tokio y Seúl, Funko, un cosplay con materiales. McFarlane sin verificar |
+| 24 · Obras parecidas | ✅ | punto 24: influencias en palabras de Rowling, comparaciones de la crítica y **láminas vecinas revisadas en todas las biblias**: Mafalda (diario en la mesa) y One Piece (carteles clavados) se parecen a A y C |
+| 25 · Mundo, historia y símbolos | ✅ | punto 25: 5 reglas, 7 arcos, las 4 casas, Marca Tenebrosa, Reliquias, moneda del ED, Ministerio y vocabulario. El lema del escudo, sin enlace |
 | 3 conceptos de lámina | ✅ | A, B y C distintos, con pose vista y número de hoja (§19); el C copia ahora el tablón de la película 1 |
-| 40 fuentes distintas | ✅ | unas 80 webs distintas enlazadas (el cierre añadió Pentagram, DubDB, Moviepedia, Wikipedia en español, O Tempo, IBTimes, IMDb News, ANMTV, Looper, TECHNÈS y Dailymotion) |
+| 40 fuentes distintas | ✅ | **144 webs distintas** enlazadas tras el repaso corto (`revisar.py`); antes unas 80 (el cierre añadió Pentagram, DubDB, Moviepedia, Wikipedia en español, O Tempo, IBTimes, IMDb News, ANMTV, Looper, TECHNÈS y Dailymotion) |
 | Oficiales | ✅ | harrypotter.com, MinaLima, Warner Bros. Games, Pentagram (estudio del logo de Hogwarts Legacy), canales oficiales de YouTube, tráileres oficiales en el Internet Archive, créditos de cine del doblaje, soporte de Portkey |
 | Entrevistas al staff | ✅ | MinaLima, Magic Awakened, Hogwarts Legacy, Javier Rivero (su blog), Cuarón (prensa) |
-| Otros idiomas | ✅ | japonés, coreano, chino (§9, §7.2, §12.2) y portugués (O Tempo, sobre Eduardo Lima) |
+| Otros idiomas | ✅ | japonés, coreano, chino (§9, §7.2, §12.2) y portugués (O Tempo, sobre Eduardo Lima); en el repaso corto, chino (arte de *Magic Awakened*) y prensa de Corea, Japón y Malasia (punto 23) |
 | Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom (inglés, español, doblaje), Wikipedia en español, DubDB, Moviepedia (guiones), HP Lexicon, TCRF ✅; TV Tropes sigue en 403 (Cloudflare); Wayback: la API de disponibilidad responde, las páginas guardadas no bajan |
 | Foros y comunidades | ✅ | Reddit por Arctic Shift, foro de dafont |
 | Arte | ✅ | ArtStation, DeviantArt (ArtStation da 403 a la API) |
@@ -1889,11 +2617,67 @@ voces del doblaje (créditos de cine, DubDB, Wikipedia).
 | Código y recursos | ✅ | GitHub (subtítulos, letras), Sketchfab, Poly Haven, ambientCG |
 | Doblaje latino | ✅ | Doblaje Wiki (API y audios), prensa mexicana, entrevistas en YouTube |
 | Hojas (`hojas/`) | ✅ | 3 JPEG de menos de 1 MB, numeradas y descritas (§2.0) |
-| `referencias.json` | ✅ | 40 entradas: la imagen misma (o el vídeo con su segundo), con ancho y alto medidos, uso y licencia; 3 cambiadas en el cierre (tablón de P1, tráiler de P1, logo latino de P4) |
+| `referencias.json` | ✅ | **100 entradas** tras el repaso corto (60 nuevas de `partes/*.json`, los vídeos de `voz.md` y `datos.json`, miradas antes; los 8 vídeos de fandub sin ancho ni alto: YouTube no deja bajarlos). Las 40 primeras: la imagen misma (o el vídeo con su segundo), con ancho y alto medidos, uso y licencia; 3 cambiadas en el cierre (tablón de P1, tráiler de P1, logo latino de P4) |
 
 ---
 
 ## 21 · Bitácora de búsqueda
+
+### Repaso corto (24-sep-2026): puntos 18-25
+
+Tres investigadores, cada uno con su parte en `partes/`; el redactor las
+juntó. Detalle completo en la «Bitácora» de cada parte.
+
+**Imagen (19, 23)**, `partes/imagen.md`
+- Web, en inglés casi todo (las notas de prensa de moda y juguetes son en
+  inglés): escudos SVG, Reliquias libres, papel CC0, rayas de corbata,
+  jersey Weasley en Ravelry, trama de imprenta CC0, Noun Project, pinceles
+  de tinta, león heráldico, Fortnite, Wizards Unite, cafés de Tokio y
+  Seúl, Funko, Mattel, McFarlane, cosplay, LEGO 2026, *Magic Awakened*,
+  Vans y Pandora. Una en español (colaboraciones y cafés).
+- Abiertas directamente: harrypotter.com, freesvg.org, heropatterns.com,
+  API de Poly Haven (tamaños), OpenGameArt, heraldicart.org, The Brick
+  Fan, LEGO.com, The Woodland Elf, Dexerto, SoraNews24, Korea Herald.
+- **Bloqueadas** (dos intentos y no más): Vecteezy y Flaticon (403),
+  Unblast (captcha); McFarlane (404).
+
+**Voz (20, 21, 22)**, `partes/voz.md`
+- API de la Harry Potter Wiki: fichas de los 6 personajes, Amortentia y
+  Espejo de Oesed.
+- Web en español: fandubs latinos, parodias, «Leviosa, no Leviosá»,
+  covers de Hedwig's Theme. En inglés: ventas, muerte de Dobby, Desplat,
+  identificación con personajes, Molly contra Bellatrix, BAFTA, ensayos
+  sobre la familia elegida.
+- `yt-dlp --print`: 12 vídeos medidos hasta el **429** de YouTube.
+- Arctic Shift: respondió con `title=cry`; **522/422 Timeout** en el
+  resto (no se insistió más de tres veces).
+
+**Texto (18, 24, 25)**, `partes/texto.md`
+- 14 búsquedas web: 13 en inglés y 1 en **chino** (arte de *Magic
+  Awakened*). Influencias de Rowling, Jim Kay, Jeff Bunker, MinaLima,
+  Stuart Craig, Seresin, filtros de cámara, TV Tropes, glosario oficial,
+  la foto que se mueve, Blender.
+- Leídas: Wikipedia (influencias y trama), Color Culture (P3 y P8), VFX
+  Apprentice, resumen de GDC. **Sin leer**: TV Tropes (403) e IndieWire
+  (402, de pago).
+- API de la wiki: Reliquias, Marca Tenebrosa, Estatuto del Secreto,
+  moneda del ED, Ministerio, estatus de sangre, las 4 casas.
+
+**Redactor**
+- Leyó las 3 partes, `partes/*.json`, los `datos-*.md` y `datos.json`.
+- Montó 2 hojas de trabajo (fuera del repositorio) para **mirar** las
+  candidatas de `datos.json` antes de meterlas en `referencias.json`:
+  23 capturas de Steam (5 elegidas; midió su tamaño real) y 42 imágenes de
+  Fandom, Wallhaven y Openverse.
+- **Descartadas de `datos.json`**, y por qué: fan art de Safebooru (estilo
+  anime, no sirve para una lámina de cine; 6 ni siquiera son de Harry
+  Potter, son de *Umamusume*), fondos de Wallhaven de otras series o
+  sugerentes, retratos de personajes que no salen en la biblia (Fleur,
+  Lupin, Tonks, Grindelwald), la obra de teatro y los modelos de
+  Sketchfab (su enlace es una página, sin tamaño; los útiles ya están en
+  §4 y en el punto 18).
+- Revisó los títulos de los conceptos de **todas las biblias** buscando
+  «periódico», «diario», «tablón», «carta» y «noticias» (punto 24).
 
 ### Segunda pasada (24-sep-2026, red abierta)
 

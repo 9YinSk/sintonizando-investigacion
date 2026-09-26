@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://archive.org/details/pokemon-indigo-league-season-1-1998",
+    "fuente": "Internet Archive (colección: Pokémon Indigo League - The Complete Collection, doblaje inglés 4Kids)",
+    "ancho": 640,
+    "alto": 480,
+    "que_es": "Episodio 1 real y completo, \"Pokémon, I Choose You!\" (1997). Recorté con ffmpeg por rango HTTP los minutos 1:30-7:30 (laboratorio de Oak, elección de Pikachu) y 16:00-20:00 (Misty, ataque de Spearow, primera aparición de Ho-Oh) y los miré fotograma a fotograma con fotogramas.py --cortes.",
+    "para_que": "Minuto real y fotograma de la escena del laboratorio (punto 2), de la escena de Ho-Oh (punto 2) y de las poses de Ash/Pikachu/Oak/Gary (punto 14); confirma en vídeo el diseño del laboratorio (punto 4).",
+    "licencia": "© The Pokémon Company / 4Kids Entertainment, sólo referencia (no vender ni redistribuir el episodio)."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x84bzwf&t=12",
+    "fuente": "Dailymotion (canal 3djuegos)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Tráiler oficial en español de España de Pokémon Rojo/Pokémon Azul (Game Boy). Minuto 0:12 \"¡Hola a todos! ¡Bienvenidos al mundo de POKéMON!\"; 0:18 Oak \"¡Ven conmigo!\"; 0:24 Oak explica que quedan 3 iniciales; 1:00 combate de ejemplo con jugador \"ASH\" y su Pikachu.",
+    "para_que": "Vídeo oficial mirado del punto 10; texto real del cuadro de diálogo del juego (punto 6) y prueba de que \"Ash + Pikachu + elegir inicial\" es oficial del juego, no sólo del anime (concepto de lámina de #autoroles).",
+    "licencia": "© Nintendo/Game Freak/The Pokémon Company, sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x2sqtay",
+    "fuente": "Dailymotion (usuario Lakeisha Alston)",
+    "ancho": 480,
+    "alto": 360,
+    "que_es": "Ending oficial de TV \"Friends to the End\" (etapa Liga Índigo, doblaje inglés). Animación real de la serie: Ash con la gorra de la Liga Pokémon (visera verde), Pikachu, Profesor Oak, combates y el estadio de la Liga Índigo.",
+    "para_que": "Vídeo del punto 10 (ending mirado, requisito de AYUDANTE.md); poses de Ash con Pikachu en brazos (minutos 0:56-1:28) para el punto 14.",
+    "licencia": "© The Pokémon Company / 4Kids Entertainment, sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x88osgb",
+    "fuente": "Dailymotion (canal Sensacine)",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Clip de un opening del anime, etapa Kanto-Johto (el vídeo no especifica el número exacto): Ash, Pikachu, Raichu, Growlithe, Charmander, Charizard, una Pokébola abriéndose en flash de luz y el logo \"Pokémon\".",
+    "para_que": "Vídeo del punto 10 (opening mirado, requisito de AYUDANTE.md); referencia de tipografía del logo clásico y de color de fondo del cielo/espacio de la secuencia.",
+    "licencia": "© The Pokémon Company / 4Kids Entertainment, sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/xs14pe",
+    "fuente": "Dailymotion",
+    "ancho": 320,
+    "alto": 240,
+    "que_es": "Compilación \"Lema Team Rocket\" (35 s): Jessie y James en silueta contra un remolino de estrellas, primeros planos con gesto exagerado y cierre con Meowth.",
+    "para_que": "Escena icónica nº3 del punto 2 (mirada completa, un fotograma por plano); pose de presentación en grupo, útil también para el punto 6 (la \"R\" del uniforme) y point 14.",
+    "licencia": "© The Pokémon Company / 4Kids Entertainment, sólo referencia."
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x3urahi",
+    "fuente": "Dailymotion (fan, créditos \"Cristy P.R.\")",
+    "ancho": 512,
+    "alto": 288,
+    "que_es": "Vídeo de fans (NO animación oficial) del ending \"Peace Smile\" (XY&Z): ilustraciones fijas con la letra en rōmaji y su traducción al español superpuesta.",
+    "para_que": "Letra traducida de un ending para referencia de texto (rol de texto/voz); marcado en video.md como NO oficial para que no se use como referencia de animación real.",
+    "licencia": "Canción © The Pokémon Company; el vídeo/edición es de un fan, sólo referencia de letra."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pret/pokered/master/data/sgb/sgb_palettes.asm",
+    "fuente": "GitHub, pret/pokered (código fuente descompilado de Pokémon Rojo/Azul)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Código fuente con las paletas reales de Super Game Boy: PAL_PALLET, PAL_ROUTE, PAL_YELLOWMON, etc. (ya citado en biblia.md 5.1, referencia cruzada desde vídeo).",
+    "para_que": "Confirma con el código (no de memoria) los hex de Pueblo Paleta y de los tres iniciales usados en el punto 4/5.",
+    "licencia": "Proyecto pret/pokered, código de ingeniería inversa con fines educativos; sólo referencia."
+  },
+  {
+    "url": "https://bulbapedia.bulbagarden.net/wiki/EP001",
+    "fuente": "Bulbapedia (vía su API, action=query&prop=extracts)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha completa del episodio 1: blurb oficial, lista de debuts (incluye Ho-Oh) y trivia (el reloj Voltorb, el orden de las Pokébolas vacías, el único capítulo con Pikachu dentro de su Pokébola, el guiño al intro de los juegos).",
+    "para_que": "Segunda fuente para subir a ✅ varios ⚠️ del punto 2 y 14 (escenas y poses del episodio 1).",
+    "licencia": "Contenido de wiki de fans (CC BY-NC-SA vía Bulbagarden), sólo referencia de texto."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Pok%C3%A9mon/M%C3%BAsica",
+    "fuente": "Doblaje Wiki (vía su API, action=parse&prop=wikitext)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha musical completa del doblaje latino de Pokémon: cantantes de cada apertura (Óscar Roa, Rodrigo Zea...), letrista/adaptador (Adolfo Aguirre Gamboa, Jorge Roig), estudio de canciones (Audiomaster 3000), letra completa en español de \"¡Atrápalos ya!\", y los segmentos musicales post-episodio (Pokérap, Pikachu's Jukebox, Karaokémon).",
+    "para_que": "Confirma a ✅ el cantante latino del opening (punto 9) y añade datos nuevos de música no usados en la primera pasada de la biblia.",
+    "licencia": "Contenido de wiki de fans (licencia Fandom), sólo referencia de texto."
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/%C3%93scar_Roa",
+    "fuente": "Doblaje Wiki (vía su API, action=parse&prop=wikitext)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del tenor mexicano Óscar Roa, confirma que cantó el primer opening latino de Pokémon.",
+    "para_que": "Segunda fuente (con la de arriba) para subir a ✅ el dato del punto 9.",
+    "licencia": "Contenido de wiki de fans (licencia Fandom), sólo referencia de texto."
+  }
+]

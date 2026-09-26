@@ -1,0 +1,245 @@
+[
+  {
+    "url": "https://www.foundry.com/insights/film-tv/graphic-look-in-comp-spiderman",
+    "fuente": "Foundry (Nuke) — Geeta Basantani, Lead Compositor, Sony Pictures Imageworks",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo técnico sobre las herramientas propias de Nuke (Hatcher, Thresher, ChromaShifter, Brush Bomber) usadas en Into the Spider-Verse para el halftone y el rayado.",
+    "para_que": "Punto 18: qué programa y qué herramientas exactas usó el estudio para el sombreado impreso.",
+    "licencia": "Artículo editorial de Foundry. Sólo consulta/cita."
+  },
+  {
+    "url": "https://www.foundry.com/insights/film-tv/across-the-spider-verse-nuke-mari-katana",
+    "fuente": "Foundry — Marco Recuay, Head of Compositing, Sony Pictures Imageworks",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo técnico sobre Nuke, Mari y Katana en Across the Spider-Verse: Kismet, PigmentMerge, MaskToInk, sistema de pinceladas.",
+    "para_que": "Punto 18: herramientas de la segunda película, más detalladas que la primera.",
+    "licencia": "Artículo editorial de Foundry. Sólo consulta/cita."
+  },
+  {
+    "url": "https://www.toonboom.com/behind-the-amazing-2dfx-in-spider-man-across-the-spider-verse",
+    "fuente": "Toon Boom — entrevista a Nikolaos Finizio, jefe de FX 2D, Sony Pictures Imageworks",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Qué se dibujó a mano en 2D con Toon Boom Harmony en ATSV (tinta de Spot, sistema nervioso de Miles, humo, acuarela).",
+    "para_que": "Punto 18: confirma el uso de Toon Boom Harmony y qué elementos son 2D dibujado a mano.",
+    "licencia": "Artículo editorial de Toon Boom. Sólo consulta/cita."
+  },
+  {
+    "url": "https://www.cgspectrum.com/blog/spider-man-into-the-spider-verse-how-they-got-that-mind-blowing-look",
+    "fuente": "CG Spectrum",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Resumen técnico de cómo se pinta a mano sobre CG con Houdini y una interfaz propia en Python.",
+    "para_que": "Punto 18: confirma Houdini y el pintado a mano encima de la animación CG.",
+    "licencia": "Artículo editorial. Sólo consulta/cita."
+  },
+  {
+    "url": "https://cgworld.jp/interview/201904-spiderverse-01.html",
+    "fuente": "CGWORLD (japonés) — animadores Atsuo Fujiwara, Hiroya Sonoda, Tatsuyuki Shimada",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista en japonés a animadores japoneses de Sony Pictures Imageworks: Maya como programa principal, herramientas Incline y Pose Stamp.",
+    "para_que": "Punto 18: fuente en japonés no traducida, confirma el software base y herramientas de dibujo a mano sobre Maya.",
+    "licencia": "Artículo editorial de CGWORLD. Sólo consulta/cita."
+  },
+  {
+    "url": "https://cgworld.jp/interview/202006-spi-danny.html",
+    "fuente": "CGWORLD (japonés) — Danny Dimian",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista en japonés sobre el proceso creativo y la patente del sistema de animación.",
+    "para_que": "Punto 18: confirma en japonés la patente de EE. UU. de diciembre de 2018.",
+    "licencia": "Artículo editorial de CGWORLD. Sólo consulta/cita."
+  },
+  {
+    "url": "https://fansvoice.jp/2019/05/14/spiderman-spiderverse-interview/",
+    "fuente": "Fan's Voice (japonés) — entrevista a directores y productor",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista en japonés donde los directores citan a Miyazaki, Akira (Otomo), Satoshi Kon y Sailor Moon como influencias directas.",
+    "para_que": "Punto 24: influencias de anime confirmadas por el propio equipo, sólo en japonés.",
+    "licencia": "Artículo editorial. Sólo consulta/cita."
+  },
+  {
+    "url": "https://www.cbr.com/across-the-spider-verse-comics-artists-influence/",
+    "fuente": "CBR",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de autores de cómic que influyeron en el estilo de ATSV: Ditko, Romita, Kane, Steranko, Sienkiewicz, Pope, Moebius, Alex Ross, J. Scott Campbell, Sara Pichelli.",
+    "para_que": "Puntos 18 y 24: influencias de estilo por personaje/universo.",
+    "licencia": "Artículo editorial. Sólo consulta/cita."
+  },
+  {
+    "url": "https://comicbook.com/movies/news/spider-man-across-the-spider-verse-jack-kirby-universe/",
+    "fuente": "ComicBook.com — bocetos de Aymeric Kevin",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Universo con estética de Jack Kirby diseñado y descartado para ATSV, revelado por el diseñador de producción.",
+    "para_que": "Puntos 24 y 25: influencia de Kirby y un universo/símbolo que no llegó a la película.",
+    "licencia": "Artículo editorial. Sólo consulta/cita; los bocetos originales son de Sony/Aymeric Kevin."
+  },
+  {
+    "url": "https://thedirect.com/article/spider-verse-2-miles-morales-prowler-designs-rejected-photos",
+    "fuente": "The Direct — bocetos de Kris Anka y Evan Monteiro",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Diseños descartados del traje/emblema del Prowler de Miles del Earth-42: colores, garras, símbolos pintados con espray.",
+    "para_que": "Punto 25: proceso de diseño del emblema del Prowler alterno; cruza con Kris Anka ya citado en biblia §4.",
+    "licencia": "Artículo editorial. Bocetos originales de Sony/los diseñadores. Sólo consulta."
+  },
+  {
+    "url": "https://intothespiderverse.fandom.com/wiki/Canon_Events",
+    "fuente": "Into the Spider-Verse Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de los «eventos canónicos» (canon events) y la Red de la Vida y el Destino.",
+    "para_que": "Punto 25: regla central del mundo del multiverso.",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom). Sólo consulta."
+  },
+  {
+    "url": "https://intothespiderverse.fandom.com/wiki/Spider-Totems",
+    "fuente": "Into the Spider-Verse Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del concepto «Spider-Totem» / arácno-humanoide, con todas las variantes de Spider-Person conocidas.",
+    "para_que": "Punto 25: vocabulario y regla base del mundo.",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom). Sólo consulta."
+  },
+  {
+    "url": "https://intothespiderverse.fandom.com/wiki/Alchemax_(Earth-1610)",
+    "fuente": "Into the Spider-Verse Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de la corporación Alchemax en el universo de Miles.",
+    "para_que": "Punto 25: emblema/logo corporativo recurrente de la saga.",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom). Sólo consulta."
+  },
+  {
+    "url": "https://intothespiderverse.fandom.com/wiki/Multiversal_Gizmo",
+    "fuente": "Into the Spider-Verse Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del reloj/gadget multiversal creado por Lyla, usado por la Spider-Society.",
+    "para_que": "Punto 25: objeto icónico y vocabulario del mundo.",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom). Sólo consulta."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse",
+    "fuente": "Wikipedia",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Resumen de la trama de ATSV por actos, incluido el cliffhanger del Earth-42.",
+    "para_que": "Punto 25: historia por arcos.",
+    "licencia": "CC BY-SA. Sólo consulta/cita."
+  },
+  {
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-beyond-the-spider-verse-release-1236320001/",
+    "fuente": "The Hollywood Reporter",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Fecha de estreno confirmada de Beyond the Spider-Verse: 25 de junio de 2027.",
+    "para_que": "Punto 25: cierre del arco de la historia (tercera película).",
+    "licencia": "Artículo editorial. Sólo consulta/cita."
+  },
+  {
+    "url": "https://garagefarm.net/blog/recreating-the-spider-verse-look-in-the-blender-node-editor",
+    "fuente": "GarageFarm.NET — tutorial de Amiel",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Receta completa de nodos de Blender para el shader estilo Spider-Verse (halftone, hatching, Freestyle, aberración cromática).",
+    "para_que": "Punto 18: cómo reproducir el estilo en Blender, paso a paso.",
+    "licencia": "Tutorial editorial gratuito. Sólo consulta/uso de la técnica descrita, no del texto."
+  },
+  {
+    "url": "https://www.blendernation.com/2024/01/15/7-steps-to-make-a-spiderverse-shader-in-blender/",
+    "fuente": "BlenderNation",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segundo tutorial con los mismos 7 pasos para el shader estilo cómic en Blender.",
+    "para_que": "Punto 18: confirma y amplía la receta de nodos en Blender.",
+    "licencia": "Tutorial editorial gratuito. Sólo consulta."
+  },
+  {
+    "url": "https://www.photoshopessentials.com/photo-effects/get-better-color-halftone-effects-in-photoshop/",
+    "fuente": "Photoshop Essentials",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guía del filtro Semitono de color (Color Halftone) de Photoshop en modo CMYK, con ángulos de pantalla por canal.",
+    "para_que": "Punto 18: cómo reproducir el halftone y el desfase de impresión en Photoshop.",
+    "licencia": "Tutorial editorial gratuito. Sólo consulta."
+  },
+  {
+    "url": "https://www.academyclass.com/blog/colour-halftones-in-photoshop/",
+    "fuente": "Academy Class",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda guía del mismo filtro con el paso de desplazar canales para el desfase de impresión.",
+    "para_que": "Punto 18: confirma el método del desfase CMYK en Photoshop.",
+    "licencia": "Tutorial editorial gratuito. Sólo consulta."
+  },
+  {
+    "url": "https://fontsinuse.com/uses/41204/marvel-2099-comic-books",
+    "fuente": "Fonts In Use",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Identificación de las letras Zephyr/Chariot y Eurostile en los cómics Marvel 2099.",
+    "para_que": "Punto 5: resuelve el ⚠️ de la biblia sobre la letra de 2099/Miguel.",
+    "licencia": "Base de datos editorial. Sólo consulta/cita."
+  },
+  {
+    "url": "https://gizmodo.com/into-the-spider-verse-lifted-a-key-line-of-dialogue-fro-1831360476",
+    "fuente": "Gizmodo",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Confirma que el audio de «with great power...» es el de Cliff Robertson, reciclado del Spider-Man de Raimi (2002).",
+    "para_que": "Punto 6: pasa de ⚠️ a ✅ el dato de la biblia sobre este audio.",
+    "licencia": "Artículo editorial. Sólo consulta/cita."
+  },
+  {
+    "url": "https://www.cbr.com/into-spider-verse-raimi-spider-man-line/",
+    "fuente": "CBR",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Segunda fuente que confirma el mismo dato del audio reciclado de Raimi.",
+    "para_que": "Punto 6: segunda fuente para pasar el dato a ✅.",
+    "licencia": "Artículo editorial. Sólo consulta/cita."
+  },
+  {
+    "url": "https://lego-marvelsuperheroes.fandom.com/wiki/Spider-Man_(Miles_Morales)",
+    "fuente": "LEGO Marvel Superheroes Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha de Miles Morales y sus trajes de Into the Spider-Verse en LEGO Marvel Super Heroes 2.",
+    "para_que": "Punto 11: juego real (no de la franquicia, pero con el personaje jugable) con trajes de UNU.",
+    "licencia": "Wiki de fans (CC BY-SA vía Fandom). Sólo consulta."
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/647830/header.jpg",
+    "fuente": "Steam — LEGO Marvel Super Heroes 2",
+    "ancho": 460,
+    "alto": 215,
+    "que_es": "Imagen de cabecera de la tienda de Steam de LEGO Marvel Super Heroes 2 (medida con Pillow).",
+    "para_que": "Punto 11: referencia de tienda para el juego que trae a Miles Morales.",
+    "licencia": "Copyright de TT Games/WB Games/Sony. Sólo consulta, no usar en la lámina."
+  },
+  {
+    "url": "https://www.marvel.com/articles/games/marvel-snap-swings-into-new-season-spider-versus",
+    "fuente": "Marvel.com",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Temporada «Spider-Versus» de Marvel Snap, con cartas e interfaz tipo viñeta de cómic.",
+    "para_que": "Punto 11: interfaz de un juego con personajes del Spider-Verse.",
+    "licencia": "Web oficial de Marvel. Sólo consulta."
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/MythologyGag/SpiderManIntoTheSpiderVerse",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de guiños/mythology gags de UNU, incluida la similitud con el final de Spider-Man: The Animated Series.",
+    "para_que": "Punto 24: obra parecida dentro del propio universo Spider-Man.",
+    "licencia": "Wiki de fans (CC BY-NC-SA). Sólo consulta."
+  }
+]

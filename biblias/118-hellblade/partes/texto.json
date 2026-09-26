@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d4/Iron_Mirror.png",
+    "fuente": "Hellblade Wiki (thehellblade.fandom.com, vía API imageinfo)",
+    "ancho": 1000,
+    "alto": 715,
+    "que_es": "El espejo de hierro de Senua, colgado del cinturón, con grabado de espiral triple (triskel) celta visible",
+    "para_que": "Punto 25.3-25.4 (símbolo picta más importante del juego, basado en un espejo celta real); punto 11.2 (objeto de la mecánica Focus); mirado directamente por el investigador de texto",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/f/fb/Gramr.png",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "La espada Gramr en manos de Senua, forjada por Odín",
+    "para_que": "Punto 25.4 (objeto icónico); punto 11.2 (arma de combate y las Cuatro Pruebas de Odín)",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/7/77/TheDarkRot.gif",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 600,
+    "alto": 337,
+    "que_es": "Animación de la Corrupción Oscura (Dark Rot) infestando el brazo de Senua",
+    "para_que": "Punto 6.1 (el indicador de 'salud' diegético que sustituye al HUD); punto 18.6 (cómo pintar la corrupción)",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/e/e4/Focus.gif",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 569,
+    "alto": 320,
+    "que_es": "Senua usando Focus para ralentizar a un enemigo en combate",
+    "para_que": "Punto 11.2 (la mecánica central del juego, ligada al espejo de hierro)",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/f/f1/Hidden_Faces.png",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 690,
+    "alto": 388,
+    "que_es": "Un rostro tallado en la roca, coleccionable de Hellblade II",
+    "para_que": "Punto 5.2 (evolución del puzle de runas al puzle de rostros escondidos en la secuela); mirado directamente",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/1/13/Mark_of_Valravn.png",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 164,
+    "alto": 189,
+    "que_es": "El símbolo/sello 'Marca de Valravn' que Senua obtiene tras vencer al dios de la ilusión",
+    "para_que": "Punto 25.3 (emblema/símbolo, 'llave narrativa' para abrir la Puerta a Helheim)",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/2/2d/Mark_of_Surtr.png",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 70,
+    "alto": 100,
+    "que_es": "El símbolo/sello 'Marca de Surtr' que Senua obtiene tras vencer al gigante de fuego",
+    "para_que": "Punto 25.3 (emblema/símbolo, segunda 'llave narrativa')",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/3/39/GoddessHela.png",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Hela, diosa de los muertos y gobernante de Helheim, en su enfrentamiento con Senua",
+    "para_que": "Punto 25.2 (antagonista final del primer juego)",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/c/c3/Helheim.png",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "El paisaje de Helheim, tierra de niebla y bruma nórdica",
+    "para_que": "Punto 25.1-25.2 (el mundo/reino de los muertos); referencia de luz y paleta fría/brumosa",
+    "licencia": "© Ninja Theory; sólo referencia, no libre"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hellblade-nt/images/d/d7/Hellblade_II.jpg",
+    "fuente": "Hellblade Wiki (vía API imageinfo)",
+    "ancho": 2732,
+    "alto": 4096,
+    "que_es": "Key art oficial de Senua's Saga: Hellblade II",
+    "para_que": "Punto 24-25 (arte oficial de portada, alta resolución, para composición/paleta)",
+    "licencia": "© Ninja Theory / Xbox Game Studios; sólo referencia, no libre"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cinzel",
+    "fuente": "Google Fonts (OFL, libre)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tipografía Cinzel: la misma familia que usa oficialmente la web senuassaga.com para sus titulares (confirmado leyendo el CSS del sitio); con tildes, ñ, ¿, ¡ comprobadas con fontTools",
+    "para_que": "Punto 5.1: letra libre recomendada para el título/logo de la lámina",
+    "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Outfit",
+    "fuente": "Google Fonts (OFL, libre)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tipografía Outfit: la misma familia que usa oficialmente la web senuassaga.com para su cuerpo de texto (confirmado en el CSS); con tildes, ñ, ¿, ¡ comprobadas con fontTools",
+    "para_que": "Punto 5.1: letra libre recomendada para cuerpo de texto de la lámina",
+    "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://fonts.google.com/noto/specimen/Noto+Sans+Runic",
+    "fuente": "Google Fonts, familia Noto (OFL, libre)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Tipografía con los 24 signos reales del Futhark Antiguo (comprobado con fontTools: 24/24 presentes, 426 glifos rúnicos en total)",
+    "para_que": "Punto 5.2: letra libre para inscripciones rúnicas decorativas del mundo nórdico de Hellblade",
+    "licencia": "SIL Open Font License (gratis, uso comercial permitido)"
+  },
+  {
+    "url": "https://digital.valiantentertainment.com/",
+    "fuente": "Valiant Entertainment",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Editorial del cómic promocional 'Hellblade: Senua's Song #1' (guion Tameem Antoniades, arte Ben Templesmith)",
+    "para_que": "Punto 6.3: único material impreso oficial de la franquicia, sin globos de cómic tradicionales",
+    "licencia": "© Ninja Theory / Valiant; sólo referencia"
+  }
+]
