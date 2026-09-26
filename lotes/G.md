@@ -48,6 +48,7 @@ Cuenta: cuenta R49
 - 100 La princesa Mononoke: **COMPLETA y subida** (23:50 UTC). `revisar.py`: ✅30 ⚠️10 ❌0, 1080 líneas, 177 referencias (87 webs distintas, 226 minutos, 90 hex medidos).
 - 104 Steven Universe: **COMPLETA y subida** (20:30 UTC). `revisar.py`: ✅23 ⚠️7 ❌0, 1318 líneas, 125 referencias, 53 webs.
 - 101 Your Name: cielos y ciudades: **COMPLETA y subida** (00:23 UTC), ✅22 ⚠️8 ❌0, 82 referencias, 43 webs.
+- 103 Hazbin Hotel y Helluva Boss: **COMPLETA y subida** (01:47 UTC), ✅20 ⚠️10 ❌0, 74 referencias, 46 webs.
 
 ### Para quien siga (paso a la compu del dueño con MWAPI, 25-sep 19:20 UTC)
 
@@ -88,6 +89,7 @@ alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 - 100 La princesa Mononoke: Tres doblajes latinos (Buena Vista 2001, Zima 2010, Wild Bunch/Netflix 2020); hay que decidir cuál se usa. Las frases de los conceptos son del de Netflix. «¡Odio a los humanos!» sin comprobar en doblaje latino; mejor usar «¡Silencio! Yo no recibo órdenes de humanos» (Netflix). Color de ojos de San sin resolver (wiki azul real, Danbooru castaños). YouTube pidió sesión (sin ver tráiler japonés 1997 ni análisis en español). Sketchfab CC BY exige crédito. recolectar.py falló dos veces aquí (bajó reparto de 2007 de Mononoke y fan art de otras películas Ghibli): revisar en demás series Ghibli.
 - 104 Steven Universe: Etiqueta «Diseno» sin ñ en #🎨・arte (¿a propósito o errata?). Texto de #🎯・reto-de-la-semana cortado en servidor/inventario.md. Revisar KYF 1:10 (sombrero y colores de Sardonyx, sin medir) y END 0:02 (mano de la estatua) antes de modelar. Crystal Universe (logo) no trae á í ó ú ñ ¿ ¡ (corrige a la 64). Licencia de Gem Glyph Font (Ayelis, itch.io) poco clara; modelos 3D CC BY-NC no comerciales; CC BY para atrezo: Big Donut, Garnet, Amatista. Faltan vistas de fandubs y minutos en 1080p (YouTube).
 - 101 Your Name: Oír las frases del doblaje latino del clímax y de la pregunta por el nombre en HBO Max, Netflix o Prime (no hay clip latino accesible). El hilo fijado de #fotos ya lleva un adjunto (fotos.png): si ya tiene lámina, los conceptos 1 y 2 sirven de lámina 2. Ver el fandub latino de Steve Dub (dailymotion x6gfqxf) para anotar qué escenas dobla. Fan art de Safebooru casi sin mirar: nº13 (Takao Akizuki) y nº19, 22, 23 (Z-Kai) de personajes_01 sin comprobar, no usar. Sin buscar figuras oficiales (MyFigureCollection) ni Poly Haven (huecos de 23 y 3). Si se vuelve a correr juntar_referencias.py vuelve el fan art de otras obras de datos.json (Miku, Cirno, Kancolle): no dejes que entre. La hermana 52 sigue sin biblia: cuando se haga, que parta de ésta.
+- 103 Hazbin Hotel y Helluva Boss: Comandos del bot de radio no están en inventario (lámina 2 de RADIO EN VIVO). Serie adulta: guía para IA excluye a Angel Dust y Valentino, pide frases sin insultos. Verificar palabras ⚠️ de muestras de Doblaje Wiki (Angel Dust, Niffty, Vox, Valentino, Lucifer, Blitzø, Millie). Comprobar si Angel Dust sale a 1:59 del tráiler T1. ¿Angel Dust con 4 o 6 brazos? Recolores mal asignados: #27304B (pelo de Vaggie), #F9D18E (piel de Blitzo). Fotogramas a 720p (YouTube bloqueado). Modelos Sketchfab CC BY piden crédito; Husk es CC BY-NC.
 
 ## Costos
 
@@ -114,3 +116,4 @@ alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 | 101 | 4 investigadores (cortados) | Sonnet | ? | ? (sin aviso de fin) |
 | 104 | equipo completo | Sonnet + Opus | — | — |
 | 101 | equipo completo | Sonnet + Opus | — | — |
+| 103 | equipo completo | Sonnet + Opus | — | — |

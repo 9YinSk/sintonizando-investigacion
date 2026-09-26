@@ -221,6 +221,7 @@ El juego tiene 7 meses. No hay encuesta oficial: se buscó en español e inglés
 - **La Niña** es la más dibujada en Danbooru (6 de 7), luego el Niño (5); Hood, Bandage y Bucket, 4 cada uno ⚠️ (muestra mínima)
 - Los monstruos también tienen fans: la Bestia Oveja tiene fan art propio ⚠️
 - La guía de fans reanimalgame.com pone a los dos hermanos en el centro, sin ranking de secundarios · https://reanimalgame.com/tier-list ⚠️
+- Los votos de Reddit se sacaron del archivo público de Arctic Shift, ordenando 100 posts a mano · https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=ReanimalGame ✅
 - **Conclusión:** protagonista para presentar = **La Niña**; secundaria más querida = **Hood**.
 
 ## 8 · Voces y doblaje latino
@@ -306,6 +307,8 @@ Reanimal es una obra nueva de Tarsier, no viene de otra saga. La franquicia es e
 - **Mandos** completos por plataforma · https://reanimal.fandom.com/wiki/Controls ✅: moverse, correr, agacharse, usar, **mechero o linterna** (`F`/`RB`/`R`), **«Llamar»** al otro (`C`/`LB`/`L`) y controles de vehículo (barco, carrito): acelerar, impulso y bocina.
 - **Cajas de diálogo:** ninguna. Sólo subtítulos ✅.
 - **Logros:** existen en Steam; el texto de cada uno no se revisó · https://reanimal.fandom.com/wiki/Achievements ⚠️
+- **Orden de capítulos**, incluidos los del DLC, confirmado en TV Tropes · https://tvtropes.org/pmwiki/pmwiki.php/NightmareFuel/Reanimal ✅. Su página de personajes sólo dejó ver el índice · https://tvtropes.org/pmwiki/pmwiki.php/Characters/Reanimal ⚠️
+- **Betas y contenido cortado:** The Cutting Room Floor no tiene página del juego (https://tcrf.net/wiki/Reanimal dio 403 dos veces y la Wayback Machine no guarda copias). Lo cortado está en la wiki · https://reanimal.fandom.com/wiki/Unused_and_Cut_Content ✅
 
 ## 12 · Lo que el fandom ama y qué NO hacer
 
@@ -708,3 +711,120 @@ Texto del canal: «Un reto por semana: una línea, una escena, un tono. Se entre
 - **Lámina 2 si se satura:** las 8 etiquetas colgando de la reja, cada una con una línea de qué significa.
 - **Referencias:** captura dccf…, #220, #225 (letra a mano), concept de Hood #229, modelo de Hood en Sketchfab, audio de Hood en Doblaje Wiki (punto 8).
 
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias o no existe (explicado) · ❌ no se buscó.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial | ✅ | Artbook (18 páginas citadas por número), arte de prensa, imágenes de tienda, póster de Pascua, *concept art*, una captura 4K por capítulo, renders. El redactor corrigió números y descripciones mal puestos por la parte de imagen. No hay manga ni tomos (es un juego). Póster de Pascua sin URL ⚠️ |
+| 2 · Fotogramas con minuto | ✅ | 11 escenas con capítulo y minuto de tráiler o de *preview*, 4 capturas oficiales. Sin fotograma del final ⚠️ |
+| 3 · Fan art y 3D con licencia | ✅ | 9 modelos de Sketchfab con licencia comprobada, 8 fan arts con autor. ArtStation sin medir; autor de los modelos con dos nombres ⚠️ |
+| 4 · Fondos y sitios | ✅ | 9 sitios con hex medidos en fotogramas, más 3 de la wiki y texturas reales CC0 |
+| 5 · Tipografía | ⚠️ | Letra libre por uso con tildes comprobadas en 6 letras. La del logo no tiene crédito oficial, no hay captura de menú y Monoton/Bungee no se comprobaron |
+| 6 · Cómo hablan en pantalla | ✅ | Subtítulos, sin globos ni HUD, en dos fuentes. Tres formatos reales para la lámina, dos vistos por el redactor en las hojas |
+| 7 · Popularidad | ⚠️ | No hay encuesta oficial (buscada en dos idiomas). Medidas informales: Reddit (Hood) y Danbooru (7 dibujos) |
+| 8 · Doblaje latino | ⚠️ | Existe y hay 9 frases textuales oídas. Pero el reparto no está emparejado con personajes y el estudio tiene una sola fuente; ANMTV no respondió |
+| 9 · Música y sonido | ✅ | Compositores, 8 pistas con su momento, sonidos reconocibles. Fecha y número de pistas no cuadran entre fuentes ⚠️ |
+| 10 · Vídeos | ✅ | 4 tráileres, demo, *preview* con entrevista, directos, TikTok, 4 reseñas. Análisis de YouTube con minuto bloqueados ⚠️ |
+| 11 · Videojuegos de la franquicia | ✅ | Juego base, 5 añadidos y mandos completos. No hay menú visto ni texto de logros ⚠️; contradicción sobre La Madre en el DLC ⚠️ |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | Contenido cortado, Hood, OCs, cooperativo; 9 cosas que no hacer, con fuente |
+| 13 · Personajes a fondo | ⚠️ | 5 personajes, monstruos y DLC con carácter, arco, voz y dinámicas. «Cara en cada emoción» no existe: caras tapadas por diseño y sin primeros planos en los tráileres |
+| 14 · Poses | ✅ | 16 poses, 6 de juego por hermano. «Regañar» y «celebrar» no existen en el juego; se usan render y póster de Pascua ⚠️ |
+| 15 · Vestuario | ✅ | 12 hex medidos en renders (un píxel cada uno ⚠️), ropa icónica, máscaras de disfraz. No hay trajes por temporada |
+| 16 · Ciudades y fondos de pantalla | ✅ | La Isla y sus zonas, una captura por capítulo, 6 fondos oficiales con origen en X |
+| 17 · Guía para IA | ✅ | Hecha por el redactor: rasgos fijos, paleta, luz, encuadre, palabras sí y no, referencias, gestos y frases reales por emoción |
+| 18 · Estilo y técnica | ✅ | Motor, cámara, inspiración, pintura, encuadres. Photoshop y Blender son propuesta razonada, sin *making of* oficial ⚠️ |
+| 19 · Texturas 2D | ✅ | 7 texturas CC0 con enlace y logos. Faltan vendas y papel rasgado ⚠️ |
+| 20 · Gustos y detalles | ⚠️ | Tabla de gustos por personaje. Cumpleaños y altura no existen (personajes anónimos a propósito) |
+| 21 · Por qué la aman | ⚠️ | Notas, entrevista oficial, Reddit, influencias. Las escenas que duelen tienen capítulo y música, pero no minuto ni encuadre en vídeo |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Buscado en tres plataformas y dos idiomas: no hay fandubs, covers ni memes hispanos. Sí partidas en español latino |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | IGN Store, figuras oficiales, Collector's Edition, cosplay, arte de temporada. Sin crossovers (buscados) |
+| 24 · Obras parecidas | ✅ | Influencias del estudio en dos fuentes, prensa con nota y la biblia 122 |
+| 25 · Mundo, historia y símbolos | ✅ | Cinco reglas, 8 arcos, 9 símbolos y vocabulario |
+| 3 conceptos | ✅ | Mapa del desván (`a-que-juegas`), marquesina del cine (`noticias-gaming`), reja de la tubería (`reto-de-la-semana`) |
+| 40 fuentes distintas | ✅ | Más de 40 webs enlazadas en el texto (lo mide `revisar.py`) |
+| Tipos de fuente | ⚠️ | Oficiales, entrevistas, wikis, TV Tropes, Reddit, Wayback, DeviantArt, ArtStation, Sketchfab, Doblaje Wiki, prensa en 4 idiomas: sí. TCRF no tiene página. **No se buscaron** GitHub, Pixiv ni entrevistas en japonés (el juego es sueco); sin red en esta pasada no se pudo |
+| Hojas | ✅ | 3 hojas JPEG de menos de 500 KB, miradas por el redactor |
+| referencias.json | ✅ | 108 referencias. Se quitaron 30 de Safebooru (otras obras), 20 fotos de Flickr ajenas y 7 repetidas; se añadieron 26 de las partes de texto y voz (no había `texto.json` ni `voz.json`) |
+
+## Bitácora
+
+### Bitácora de imagen
+
+- Comprobación pedida por el investigador de vídeo (Niño = saco/capucha de arpillera, Niña = máscara de conejo): repasé las 6 apariciones de «arpillera»/«conejo»/«máscara»/«saco» en esta parte (puntos 1, 3, 15, 23) y todas asignan bien cada prenda; lo confirmé además mirando el render `TheGirl.png` en la hoja de contacto (máscara + vestido claro, cuchillo, linterna) y `Boy.png` (capucha oscura de arpillera). No había confusión que corregir.
+- Corregí dos datos con la API de Fandom (`reanimal.fandom.com/api.php`, con cabecera de navegador porque sin ella Cloudflare responde con un reto): la URL de `ArtofReanimal_Cover.png` (hash `a/aa` inventado → `a/a8` real) y la medida de `Boy.png` (313×550 de una pasada anterior → 401×822, la que da hoy la wiki; probablemente el archivo se revisó tras esa medición, `cb=20260214032843`).
+- Español: sin búsquedas nuevas en esta tanda (ya cubiertas en pasadas anteriores).
+- Inglés (directo, sin buscador): API de Fandom `list=allimages` (2 páginas, 667 imágenes) para confirmar tamaño real y URL exacta de `ArtofReanimal_Cover.png`, `Collectorsedition.png`, `Boy.png`, `TheGirl.png`, `Feature-graphic-1/2/3.png`, `Reanimal-Officialart-1/2`, `DLCKeyArt.jpg`, `Mother_Spider_Kids_trading_card.png` y dos páginas del artbook (Hood pág. 11, Mother pág. 27); API de Poly Haven (`/info/hessian_230`, `/info/hessian_380`) para la resolución máxima real de las dos texturas de arpillera; API de ambientCG (`/api/v2/full_json`) para intentar sacar resolución de Metal041B (no la da; se usó el estándar de 2048×2048 con el que se listan sus previews).
+- Verifiqué de nuevo (visualmente, con la herramienta de lectura de imagen) las 3 hojas de contacto completas (`arte_oficial_01.jpg`, `personajes_mascaras_01.jpg`, `personajes_render_01.jpg`) para el aviso de arriba y para confirmar los números de imagen citados en el resto de la parte.
+- Cree `imagen.json` con 43 referencias candidatas (campos `url`, `fuente`, `ancho`, `alto`, `que_es`, `para_que`, `licencia`), cubriendo los 6 puntos de este rol: arte oficial (11), fan art (4), 3D con licencia (9), fondos de pantalla (6), renders para hex (2), texturas libres (7) y colaboraciones/figuras/cosplay (3).
+
+### Bitácora de video
+
+- Dailymotion API (`api.dailymotion.com/videos?search=…`): «Reanimal opening/ending/trailer/escena» (ya en `datos-video.md`), «Reanimal Sniffer tricycle» (sin resultado directo), «Reanimal gameplay» (encontré el id correcto `x9xxbbm`, que luego dio 404 al bajarlo con `yt-dlp`; usé `x9o072c` y `x9ve578` en su lugar, que sí funcionaron).
+- `fotogramas.py` sobre 3 tráilers de Dailymotion (`xa1mxgm`, `x9o072c`, `x9ve578`): hojas de contacto cada 3-4 s + fotogramas grandes en segundos concretos. `x9xxb36` y `x9xxbbm` fallaron con «Not found» pese a aparecer en la API (geobloqueo o vídeo caído).
+- `reanimal.fandom.com/api.php`: `allpages`, `categorymembers` de Characters/Chapters/Locations, y `action=parse&prop=wikitext` de The Boy, The Girl, The Island, The Mother, Sniffer, REANIMAL, REANIMAL (soundtrack), Dead in the Water, The Cleaning House, No Shelter, Down in a Hole, Nobody Left Behind, The Spoils, The Watcher (todo en inglés, es una wiki en inglés).
+- `navegar.py` en TV Tropes `NightmareFuel/Reanimal` (bloquea a curl): confirmó el orden completo de capítulos, incluidos los del DLC «The Prisoner».
+- YouTube `oembed` (sin sesión) para comprobar 4 pistas de la BSO citadas por la wiki: las 4 devolvieron el canal oficial «Reanimal - Topic».
+- Un intento directo de `yt-dlp` sobre YouTube (id `ledRJ2CQuGU`): 429 y «sign in to confirm you're not a bot»; no insistí, según lo avisado en AYUDANTE.md.
+- WebSearch (inglés/español): «Reanimal TikTok viral moment reaction», «Reanimal review análisis Little Nightmares comparación horror 2026», «"Reanimal" tricycle scene chapter wiki jumpscare».
+- Steam (`store.steampowered.com/app/2129530`): descargué 4 capturas oficiales 1920×1080 directamente para medir hex y confirmar escenas de los tráilers.
+- `ambientcg.com/api/v2/full_json` (texturas): 2 intentos sin resultado; no insistí más.
+- **Segunda pasada (modo seguir)**: Dailymotion API `Reanimal gameplay walkthrough` → encontré «REANIMAL Full Gameplay Demo 45 Minutes» (`x9tibzi`, 45:46). `fotogramas.py --cada 30/15` sobre los primeros 35 min (3 tandas) para localizar la celda del cap. 1 y buscar el triciclo del cap. 2. `reanimal.fandom.com/api.php`: wikitext de The Prisoner (Chapter), The Prisoner (Character), Bandage, Bucket, Hood, No Shelter, The Spoils, Masked Children — para identificar con certeza quién es quién en cada fotograma (la primera pasada tenía al Niño y la Niña cruzados en dos escenas, ya corregido en los puntos 2 y 14). `yt-dlp` contra TikTok (`@.reanimal_ln`): bloqueado, sin vía alterna.
+
+### Bitácora de voz
+
+- Doblaje Wiki, API `action=parse&prop=wikitext`, página REANIMAL completa (no solo la tabla parseada por el recolector) → reparto, estudio, traductores, créditos.
+- reanimal.fandom.com, API `action=query&prop=revisions` sobre: The Boy, The Girl, The Brother, The Sister, Hood, Bandage, Bucket, Masks, Masked Children, The Mother, The Prisoner (Character), The Second Prisoner, The Soldier, The Watcher, Pigs, The Spiral Whale, Unused and Cut Content, Art of REANIMAL, Critters, Skins, REANIMAL (soundtrack).
+- Imagen de créditos del doblaje descargada (`Créditos REANIMAL ESLAT.png`, formato WebP real) y leída con `tesseract -l spa`, contrastada mirando la imagen directamente.
+- Renders oficiales descargados y mirados: TheGirl.png, The_Boy.png (para comprobar los agujeros de la máscara).
+- `voz.py` sobre las 8 muestras oficiales de audio del doblaje latino (Boy, Girl, Hood, Bandage, Bucket, Pig, Whale, Kid) — todas oídas, no solo listadas.
+- `fotogramas.py` sobre el teaser oficial (dailymotion/xa1mxgm, cada 3 s, 31 fotogramas) y el tráiler de anuncio (dailymotion/x94c4ui, cada 3 s, 26 fotogramas + 3 fotogramas sueltos en 0:30, 0:45 y 0:51), todos mirados con Read.
+- Reddit r/ReanimalGame vía Arctic Shift (`/api/posts/search`, 100 posts; `/api/comments/search` sobre 3 hilos) — búsqueda por tema (favorite character, why I love, best scene) sin resultado por `title=`, así que ordené por puntuación a mano.
+- Danbooru: `/counts/posts.json` para los tags `girl_(reanimal)`, `boy_(reanimal)`, `hood_(reanimal)`, `reanimal` (contraste del dato ya recolectado).
+- WebSearch (en español e inglés): «Reanimal doblaje latino elenco», «Reanimal review Tarsier Studios metacritic score», «Reanimal ending explained cry sad scene reddit», «Reanimal fandub español latino youtube», «"Reanimal" personaje favorito encuesta poll», «"Made in Spanish" estudio doblaje Reanimal México», «Reanimal opening ending song vocal theme soundtrack», «Reanimal Tarsier Studios interview director character design Boy Girl».
+- `navegar.py` sobre news.xbox.com/en-us/2026/02/13/reanimal-interview (entrevista completa leída), tvtropes.org/pmwiki/pmwiki.php/Characters/Reanimal (solo el índice, las carpetas están cerradas por JS) y reanimalgame.com/tier-list (guía de fans, sin relación oficial).
+- `anmtv.la` inalcanzable (curl: timeout; navegar.py: `ERR_TUNNEL_CONNECTION_FAILED`) — no pude usarlo como segunda fuente de doblaje pese a intentarlo dos veces.
+
+### Bitácora de texto
+
+- Español: «Reanimal wiki fandom», «Reanimal tipografía logo» → sin resultados
+  útiles en español; se pasó a inglés.
+- Inglés (web): «Reanimal Tarsier Studios interview Unreal Engine art style»,
+  «Reanimal Tarsier Studios "toon shader" OR "stop-motion" art director
+  interview», «Reanimal review "no dialogue" OR "don't speak" OR subtitles
+  gibberish language children», «"Reanimal" "Unreal Engine 5" Tarsier»,
+  «Reanimal Tarsier Studios ArtStation concept artist "Konstantin Kostadinov"
+  OR "Petrus Johansson" postmortem».
+- Fandom API (`reanimal.fandom.com/api.php`): `list=allpages` (lista completa
+  de páginas), `action=parse&prop=wikitext` sobre Masks, Controls, Unused and
+  Cut Content, REANIMAL, The Boy, The Spiral Whale, Posters, Paintings
+  Portraits and Photos, Art of REANIMAL, REANIMAL: The Expanded World,
+  Coffins, The Island; `list=search` para «spiral» y «dialogue».
+- `reanimal.thqnordic.com`: HTML completo descargado y filtrado con `grep`
+  para fuentes (`font-family`, `.woff`) — reveló la letra «Fabrikat».
+- Steam: ficha de la app 2129530 (`store.steampowered.com` + API
+  `appdetails`) para descripción, 14 capturas, tabla de idiomas (interfaz,
+  audio, subtítulos) y categorías.
+- `en.wikipedia.org/wiki/Reanimal`: artículo completo (desarrollo, argumento,
+  recepción con notas de Metacritic/OpenCritic y reseñas).
+- `gamecritics.com/jason-ricci/reanimal-review`,
+  `cubed3.com/features/interviews/tarsier-interview`: entrevistas y reseñas
+  completas descargadas y filtradas con `python3 -re` (nunca impresas enteras).
+- `tcrf.net`: dos intentos (curl y `navegar.py`), 403 verificación Cloudflare
+  las dos veces; Wayback Machine CDX sin snapshots.
+- fontTools: `TTFont(...).getBestCmap()` sobre Anton, Barlow Condensed, Big
+  Shoulders Display, Permanent Marker, Yanone Kaffeesatz y Noto Sans JP
+  (descargados de `fonts.googleapis.com`/`fonts.gstatic.com`), comprobando
+  á é í ó ú ñ Ñ ü ¿ ¡ y (en Noto Sans JP) hiragana/katakana/kanji.
+- Hojas de contacto propias armadas con Pillow a partir de las capturas de
+  Steam (`/tmp/claude-0/trabajo/123-reanimal-texto/hoja_capturas*.jpg`),
+  miradas con Read antes de describir el estilo.
+
+### Bitácora del redactor
+
+- 26-sep-2026, modo `nueva`, sin serie hermana. Red bloqueada (curl y WebFetch con 403): no se bajó nada; todo sale de las cuatro partes, de `datos-voz.md` y de las tres hojas.
+- `juntar_referencias.py` dio 139 referencias. Quité 30 de Safebooru (Touhou y Magia Record, otra obra), 20 fotos de Flickr de la palabra «reanimate», 6 modelos de Sketchfab repetidos y una captura repetida. Añadí 26 de las partes de texto y voz, que no tenían `.json`: quedan 108. Corregí las descripciones de las capturas de la puerta circular y del cajón, del arte de prensa, de las imágenes de tienda y de Hood, Bandage y Bucket (no son monstruos).
+- Miré las tres hojas y recorté a mano #21, #213, #219-222, #225, #231 y #232. Hallazgos propios: el arte de prensa y las imágenes de tienda estaban mal descritos en la parte de imagen; hay un marco oficial de papel rasgado, una página del artbook con texto a mano, un mapa en corro (base del concepto 1) y un póster de Pascua con el grupo.
+- Contradicciones entre partes, dejadas con ⚠️: número de pistas de la banda sonora (30 o 33), nota de Metacritic (81 u 80/83), apellido del director narrativo (Mervik o Mervick), género del Prisionero, La Madre en el DLC, Lisbeth Moller Fly como voz y como artista, autor de los modelos 3D.
+- No hice búsquedas nuevas: GitHub, Pixiv, las entrevistas en otros idiomas, la URL del póster de Pascua y las texturas de papel quedan pendientes para una pasada con red.
