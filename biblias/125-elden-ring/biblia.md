@@ -627,3 +627,27 @@ Casilla con «no existe» quiere decir que la obra no lo da, no que falte buscar
 
 **«Comida» del juego:** no hay comida favorita. Lo que se bebe son los frascos de lágrimas carmesí y cerúleas (nº 142 y 143), dos frascos dorados con lágrimas de colores dentro.
 
+## 21 · Por qué la gente la ama
+
+**Cifras y premios** (dos fuentes por dato)
+- **Juego del Año en The Game Awards 2022**, el 8 de diciembre ([Wikipedia](https://en.wikipedia.org/wiki/The_Game_Awards_2022), [BrigNews](https://brignews.com/2022/12/20/why-elden-ring-deserves-its-game-of-the-year-accolades/)) ✅.
+- **Ventas:** 17,5 millones en septiembre de 2022, 20 millones al año de salir y **más de 30 millones en abril de 2025** ([VGC](https://www.videogameschronicle.com/news/elden-ring-has-sold-20-million-copies-worldwide-bandai-namco-says/), [ANN](https://www.animenewsnetwork.com/news/2025-04-28/fromsoftware-elden-ring-game-sells-30-million-copies/.224012)) ✅.
+
+**Con quién se identifica el público**
+- **Malenia.** Muchos jugadores con enfermedades crónicas o alguna discapacidad se ven en ella: pierde miembros y la vista y sigue siendo invicta. ⚠️ Es un patrón de conversación, no una encuesta.
+- **Sellen.** «En un mundo donde todos están mal de la cabeza», ella te cuida, te enseña gratis y confía en ti. Lo dice el hilo más votado sobre ella (5319 votos) ✅.
+- **El propio Sinluz.** No tiene cara fija ni voz, así que el jugador pone su historia. La crítica lo cita como la base del vínculo.
+
+**Escenas que hacen llorar, gritar o reír**
+
+| Escena | Dónde y cuándo | Qué pasa y por qué duele | Cómo se ve y se oye | Reacción |
+|---|---|---|---|---|
+| **Melina se prende fuego en la Forja** | Hoja `sitios_01`, nº 64-67. ⚠️ Sin minuto de vídeo | Se quema para abrir paso al Árbol y cumple el pacto con su vida | Muro de fuego, una mano que se enciende, un estallido dorado de noche | ⚠️ Sin comentarios medidos |
+| **El abrazo de Fía** | Misión de Fía. ⚠️ Sin minuto | Ella abraza al Sinluz contra su pecho a cambio de un 5 % de vida máxima. Es uno de los pocos gestos de calor en toda la saga | Él arrodillado y ella encima | «this hug was an other worldly kind of comfort» ([Kotaku](https://kotaku.com/elden-ring-fromsoftware-fia-deathbed-companion-debuff-s-1848603291), [ScreenRant](https://screenrant.com/elden-ring-fia-hug-baldachins-blessing-help-quests/)) ✅ |
+| **El festival de Radahn** | [Combate, 1:48-2:12](https://www.dailymotion.com/video/x89nzty?t=108) | Batalla en campo abierto con aliados invocados, algo único en el juego. Es la escena que más hace gritar | Páramo rojo, meteoritos violeta, coro masculino (*Starscourge Radahn*, 6:08) | El jefe n.º 1 de Famitsu, con 687 votos ✅ |
+| **Malenia en su silla y su flor** | [Combate, 3:04](https://www.dailymotion.com/video/x89wlj1?t=184) y nº 57 | La jefa más difícil, con su frase «never known defeat» | Silencio seco, luego coro femenino. Flor naranja sobre niebla dorada | Memes de orgullo en Reddit ✅ |
+| **Gurranq aúlla al Árbol** | De noche, antes de revelarse como Maliketh | Llora a su ama Marika. El fandom lo llama «el secreto que rompe el corazón» | Una bestia sola, luz nocturna | ✅ ([wiki](https://eldenring.fandom.com/wiki/Gurranq,_Beast_Clergyman)) |
+| **Final «Señor de Elden»** | [Final, 2:08](https://www.dailymotion.com/video/x88ktlq?t=128) | Dos tronos gemelos: se cumple el viaje | Sala dorada y luz alta de lado | ⚠️ Sin comentarios medidos |
+
+⚠️ **Faltan** los minutos de la Forja y de Fía y vídeos de reacción con votos: la parte de voz no los reprodujo. Para oírlo y verlo, busca «Melina Forge of the Giants cutscene» en YouTube con sesión.
+
