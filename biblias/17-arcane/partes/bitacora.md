@@ -24,6 +24,16 @@
 - No usé japonés/coreano/chino en esta parte: todo el material oficial de
   colaboraciones y merchandising que encontré está en inglés (Riot Games es
   la fuente primaria en todos los casos).
+- **Repaso (revisar_partes.py marcó «FLOJA: 3 hex»)**: bajé 3 imágenes más de
+  Silco desde Fandom (`Silco_Headshot.jpg`, `Silco_Arcane_Shimmer.webp`,
+  `Silco_Season_1_Episode_7_001.png`, con `Referer: https://www.fandom.com/`)
+  y las abrí con Pillow. La primera es un busto de escultura gris (turnaround
+  de estudio, sin color de ropa, ver §1/§18). Las otras dos sí sirvieron:
+  medí el granate y el dorado de su cuello en la segunda (recorté la zona
+  plana del cuello y promedié los píxeles del filo dorado para evitar el
+  antialiasing) y el morado del vial de Shimmer en la primera (media de 4
+  puntos en la zona más saturada). Con esto quedan **6 hex únicos** en esta
+  parte (antes 3) y se cierra el ⚠️ de Silco que quedaba en «No encontré».
 
 ### Bitácora de video
 

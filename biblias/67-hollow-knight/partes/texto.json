@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "url": "https://fonts.google.com/specimen/Cinzel+Decorative",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre Cinzel Decorative, serif ornamental parecida al logo grabado de Hollow Knight",
+    "para_que": "Título/logo de lámina; comprobada con fontTools: trae tildes, ñ, ¿ y ¡",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cinzel",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre Cinzel, serif inscripcional más sobria que Cinzel Decorative",
+    "para_que": "Subtítulos o rótulos de lámina en el mismo estilo del logo",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cormorant+Garamond",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre Cormorant Garamond, serif fina parecida a Perpetua/Trajan usadas en el juego",
+    "para_que": "Texto de diálogo o cartela larga en la lámina",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/EB+Garamond",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre EB Garamond, serif clásica de lectura cómoda",
+    "para_que": "Alternativa a Cormorant Garamond para cartelas o pies de imagen",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Uncial+Antiqua",
+    "fuente": "Google Fonts",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre Uncial Antiqua, aspecto manuscrito/monástico",
+    "para_que": "Rótulos de mundo antiguo tipo Lore Tablet",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_5384f9f8b96a0b9934b2bc35a4058376211636d2.1920x1080.jpg",
+    "fuente": "Steam (ficha oficial Hollow Knight)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de interfaz/HUD y caja de diálogo de Hollow Knight",
+    "para_que": "Referencia de interfaz de juego para el punto 11 y 6",
+    "licencia": "Captura promocional de Steam, uso editorial/referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg",
+    "fuente": "Steam (ficha oficial Hollow Knight: Silksong)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial de interfaz/HUD de Silksong",
+    "para_que": "Referencia de interfaz de la secuela para el punto 11",
+    "licencia": "Captura promocional de Steam, uso editorial/referencia"
+  },
+  {
+    "url": "https://hollowknight.fandom.com/wiki/Hallownest_Seal",
+    "fuente": "Hollow Knight Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Hallownest Seal, símbolo oficial del reino",
+    "para_que": "Referencia del emblema principal para el punto 25",
+    "licencia": "Fan wiki, texto CC BY-SA; imágenes propiedad de Team Cherry (referencia, no para pegar)"
+  },
+  {
+    "url": "https://hollowknight.fandom.com/wiki/Hallownest",
+    "fuente": "Hollow Knight Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del reino de Hallownest con geografía e historia",
+    "para_que": "Base del punto 25 (mundo y arcos de la historia)",
+    "licencia": "Fan wiki, texto CC BY-SA"
+  },
+  {
+    "url": "https://hollowknight.fandom.com/wiki/Dream_Nail",
+    "fuente": "Hollow Knight Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del Dream Nail, habilidad de leer sueños/pensamientos",
+    "para_que": "Ejemplo de 'pensamiento en pantalla' para el punto 6",
+    "licencia": "Fan wiki, texto CC BY-SA"
+  }
+]

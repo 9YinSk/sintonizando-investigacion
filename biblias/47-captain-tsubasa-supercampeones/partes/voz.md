@@ -361,10 +361,18 @@ el encargo).
   latino`, más metadatos individuales del fandub de Manu CMR.
 - ANMTV (`anmtv.la`) no respondió a `curl` (HTTP 000, timeout) para su buscador interno; no se insistió más
   de un intento, según regla de dos intentos por sitio bloqueado.
+- Tanda «seguir» (siguiendo desde el «Sigue» anterior): encontré en Internet Archive un ítem que, pese al
+  nombre (`supercampeonescapitulo119latino480p24fpsh264128kbitaac`), trae 100 capítulos sueltos en español
+  latino (del 2 al 74 y del 100 al 127) — mucho más que el boxset de 30 episodios ya revisado. Confirmé
+  títulos de episodio en `captaintsubasa.fandom.com` (categoría «1983 TV series episodes», 128 páginas) para
+  ubicar los arcos sin adivinar: episodio 69 «Tiger sharpens his fangs» (Hyuga) y episodio 126 «My best
+  friend. Genzo Wakabayashi» (final de la serie). Descargué ambos capítulos completos, corrí
+  `fotogramas.py --cada 25` sobre cada uno y miré las hojas de contacto con Read; en el 69 até además una
+  franja fina (`--desde --hasta --cada 5`) para confirmar el minuto exacto de la escena de la playa. Los
+  vídeos `.mp4` se borraron de `/tmp/claude-0/trabajo/47-voz` tras sacar las hojas.
 
-Sigue: punto 13, faltan fotogramas con minuto real (no arte oficial) de Genzo Wakabayashi/Benji Price y de
-Kojiro Hyuga/Steve Hyuga en sus 5 emociones — hay que mirar episodios más allá del 30 del boxset
-`super-campeones-1983-latino` (o el arco Meiwa FC/Toho y Hamburgo en `Súper Campeones: Camino al mundial`
-en Internet Archive/Dailymotion) con `fotogramas.py`. Punto 21, falta al menos una escena identificada por
-nombre que haga llorar al fandom, con capítulo, minuto, música y reacciones citadas (no localizada dentro
-de los episodios 1-30 ya revisados).
+Sigue: punto 13, falta un fotograma real (no arte oficial) de Genzo Wakabayashi con enojo o miedo puros —
+cae en el arco de Hamburgo (episodios ~75-99), que no está en el ítem de archive.org ya usado (salta del 74
+al 100); sería extra, no obligatorio, así que queda en «No encontré». Punto 21 ya tiene una escena real con
+capítulo, minuto y encuadre (ep. 69, Hyuga en la playa) pero sin reacciones de fans citadas con fuente —
+también en «No encontré», no bloquea el punto.
