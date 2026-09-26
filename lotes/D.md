@@ -14,10 +14,18 @@ Cuenta: cuenta I34
 - 42 Blue Lock: **COMPLETA** (23:04). ✅23 ⚠️11 ❌0, 164 refs, 68 webs.
 - 45 Mob Psycho 100: **COMPLETA** (00:05). ✅32 ⚠️5 ❌0, 108 refs, 49 webs.
 - 43 Kaguya-sama: **COMPLETA** (2026-09-26 01:40 UTC). ✅25 ⚠️12 ❌0, 111 refs, 55 webs.
-- 44 Shigatsu: 4 partes hechas; vídeo relanzado (floja: 3 webs); luego redactor.
+- 44 Shigatsu: **COMPLETA** (2026-09-26 02:55 UTC). ✅27 ⚠️10 ❌0, 159 refs, 47 webs.
 - 00:20-06:44 UTC: la sesión chocó con el límite de uso de la cuenta (3 agentes cortados; se relanzó todo al reanudar).
 
 ## Avisos para el dueño
+
+- **44 Shigatsu**: más querida, Kaori (AniList 9 323; Kousei 4 810; Watari 551). Cuadro: la carta manuscrita de Kaori
+  (papel claro con pétalos, Caveat); el pensamiento cambia el fondo, no va en nube. Láminas (todas #canto): A ⭐ «La carta
+  en la maletita», B «El programa de Towa Hall», C «El tablón de resultados» (Watari, ep. 11 9:00).
+  - Doblaje latino aún sin estrenar (se espera fines de 2026): 4 voces confirmadas, ninguna frase; cambiar citas al salir.
+  - Mirar el fotograma del tablón (ep. 11, 9:00) antes de modelar el concepto C: no está en las hojas.
+  - Figura de Kaori anunciada en feb-2025: fabricante y pose sin confirmar (buscar a mano en MyFigureCollection).
+  - #canto también lo propone la 29 (Sing); el concepto C puede ir de lámina 2.
 
 - **43 Kaguya-sama**: más querida, Kaguya en AniList (20 513; luego Chika y Miko Iino); en Japón (ねとらぼ) gana Ai Hayasaka;
   Shirogane último en las dos. Cuadro: la cartela vertical «本日の勝敗» (#FCFCFC, borde negro grueso, Shippori Mincho).

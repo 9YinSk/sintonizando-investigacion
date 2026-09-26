@@ -1,6 +1,6 @@
 # Your Lie in April (Shigatsu wa Kimi no Uso) · biblia
 
-Encargo 44 · modo nueva · 26-sep-2026 · sin serie hermana.
+Encargo 44 · modo nueva, terminada en modo seguir (puntos 23-25, conceptos, tabla y bitácora) · 26-sep-2026 · sin serie hermana.
 Hecha sólo con las cuatro partes de los investigadores (imagen, vídeo, voz y texto) y las 3 hojas de `hojas/`.
 ✅ = dos fuentes o visto en pantalla. ⚠️ = una sola fuente, lectura propia o no existe (se explica).
 
@@ -670,3 +670,299 @@ Sin doblaje oficial, la comunidad hispana ya se adelantó. Vistas medidas con `y
 - En TikTok sólo aparece la categoría «Your Lie in April Doblaje Español», sin vídeos medibles. ⚠️
 - **Dato para el servidor:** el cover de Luxe KO pasa el millón. La comunidad hispana se quedó con el opening antes que con el doblaje. Es ideal para #canto.
 
+## 23 · Colaboraciones, figuras y cosplay
+
+La serie terminó en 2015 y no tiene juego propio. Por eso casi no hay cruces con marcas ni juegos.
+
+**Colaboraciones con arte propio:**
+- **Single de Goose house «Hikaru Nara»** (Sony Music, SRCL 8641-2). Trae un arte oficial de Kaori con **vestido rosa tocando un keytar**, una pose y una ropa que no salen en el anime. Carátula desplegada de 6884×2915 en la [wiki](https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/8/85/Miyazono.Kaori.full.1800153.jpg). ✅ (código de catálogo visible en la carátula)
+- **Marcas, gachas, Fortnite, cafés temáticos:** no encontré ninguno. Se buscó «Your Lie in April collaboration», «四月は君の嘘 コラボ» y «四月は君の嘘 カフェ», y en la wiki (`merchandise`, `collaboration`, `cafe`). ⚠️ buscado y no hallado; puede haber cafés japoneses de 2014-2015 sin rastro en la red.
+
+**La misma historia en otros formatos (ropa y caras distintas, no mezclar con el anime):**
+- Película de imagen real (2016), Kento Yamazaki y Suzu Hirose: [tráiler](https://www.dailymotion.com/video/x9iixgg) y [teaser de 30 s](https://www.dailymotion.com/video/x9iiyhw). ✅
+- Musical con canciones de **Frank Wildhorn**: estreno en Japón en 2020, luego Londres y Corea ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/YourLieInApril)). ⚠️ no encontré fotos del vestuario del musical.
+- OVA *Moments* (mayo de 2015) y el manga extra *Coda* (sólo con el Blu-ray, sin traducir).
+
+**Figuras oficiales:**
+- La [web oficial](https://www.kimiuso.jp/) sigue viva y en febrero de 2025 anunciaba una **figura de Kaori**. ✅ visto en la web.
+- No pude confirmar el fabricante ni la pose. Good Smile no dio resultados y MyFigureCollection bloquea las descargas automáticas. ⚠️ Para la pose 3D, buscar a mano «Kaori Miyazono figure» en MyFigureCollection.
+
+**Cosplay bien hecho (fotos con licencia libre, vía [Openverse](https://openverse.org)):**
+- Kaori en **Sakura-Con 2016**, por camknows, CC BY-NC-SA 2.0: [foto 1024×683](https://live.staticflickr.com/1471/26020166541_970134c2d9_b.jpg). ✅
+- Varios cosplays de Kaori con violín y vestido en AMG2015, ACMY2015 y Kuantan CosWalk 2016, por FAT8893, CC BY 2.0: [AMG2015 015.1](https://live.staticflickr.com/5800/21527961892_27c0651cf8_b.jpg), [ACMY2015 031](https://live.staticflickr.com/8755/17062071412_bfa90e5fb7_b.jpg), [CosWalk 2016](https://live.staticflickr.com/1606/25179898674_0466ef48d7_b.jpg). ✅
+- **Para qué sirven:** ver cómo cae la tela del vestido, cómo se sujeta de verdad el violín bajo la barbilla y el volumen del pelo rubio ondulado. Es la referencia real que el dibujo no da.
+
+**Modelos 3D de los objetos:** el violín CC0 y los dos pianos de cola CC BY del punto 3.
+
+## 24 · Obras parecidas
+
+**De tono parecido** (recomendadas por afinidad en [AniList](https://anilist.co/anime/20665)): *Kids on the Slope* (música y adolescencia, la más cercana), *I Want to Eat Your Pancreas*, *A Silent Voice*, *Violet Evergarden*, *Clannad: After Story*, *Anohana*, *March Comes in Like a Lion*, *Golden Time*, *Blue Period* y *Your Name.* ✅
+
+**Del mismo autor, Naoshi Arakawa:** *Sayonara Football* y *Farewell, My Dear Cramer*, las dos de fútbol femenino. Arakawa cuenta en su [entrevista oficial](https://www.kimiuso.jp/special/05_05.html) que eligió la música porque no quería repetir deporte. ✅
+
+**Guiños dentro de la obra** ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/YourLieInApril), *Shout-Out*):
+- En el Ep. 1 Kaori toca con la melódica **«A Morning of the Slag Ravine»**, de *El castillo en el cielo* (Ghibli). Los niños le dicen que no atrae pájaros y ella contesta que a Pazu sí le funcionó. ✅
+- Kaori cita a **Snoopy y Charlie Brown** (*Peanuts*) en los Ep. 6, 7, 11 y 21. ✅
+
+**Quién la admira:** Eiichiro Oda (*One Piece*) envidiaba cómo «muestra la música en el dibujo» (punto 21). El compositor Masaru Yokoyama estudió piano clásico de niño, como Kousei ([entrevista](https://www.kimiuso.jp/special/05_01.html)). ✅
+
+**Láminas del servidor que se le parecen (para no repetir ideas):**
+- **Violet Evergarden** (biblia 22) ya usa una carta: «La hoja en la máquina», una carta **a máquina** en un escritorio. Aquí la carta es **a mano**, en papel claro, con pétalos. Nada de máquina ni de oficina.
+- **Sing** (biblia 29) propone #canto con el **volante de la audición** y el Teatro Moon, sobre el escenario. Aquí no va micrófono ni escenario visto de frente: el público habla desde las butacas.
+- **KPop Demon Hunters** (biblia 63) pone un **cuaderno de letras sobre un atril** en #demos-canto. No usar el atril con partitura como soporte del texto.
+- **Bocchi the Rock!** tiene #demos-canto con la caja y la lámina 2 con el **teclado** (reglas del dueño). Nada de teclados sueltos.
+- **K-On!** (biblia 10) ya tiene la mesa del té del club. *A Silent Voice* (92), *Blue Period* (95) y *Your Name* (101) también tienen biblia y son vecinas de tono: mirar sus conceptos antes de cerrar una lámina.
+- Según la biblia 63, 🎶 Karaoke y 🎭 Escenario ya los proponen *Sing* y *Saint Seiya*. No es un problema: las biblias son generales.
+
+
+## 25 · Mundo, historia y símbolos
+
+**Las reglas del mundo en cinco líneas:**
+1. Japón de hoy, en el barrio de Nerima (Tokio), con fondos sacados de sitios reales. ⚠️ una fuente.
+2. No hay magia: el único «poder» es tocar y hacer sentir algo a quien escucha.
+3. Dos capas visuales: **monótono** cuando Kousei no siente su música, **a todo color** cuando sí. Lo confirma el director (punto 18). ✅
+4. El calendario manda: empieza y acaba en **abril**, con los cerezos en flor. De ahí el título.
+5. Los concursos de piano ordenan la historia, como torneos.
+
+**La historia por arcos:**
+- **1 · El reencuentro con la música** (Ep. 1-6 aprox.). Kousei no oye su piano desde que murió su madre. Kaori lo elige como su acompañante para un concurso de violín.
+- **2 · Los concursos** (Ep. 7-14 aprox.). La [Maihou Competition](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Maihou_Competition) y la [Eastern Japan Piano Competition](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Eastern_Japan_Piano_Competition), las dos en Towa Hall. Kousei vuelve a competir contra Takeshi Aiza y Emi Igawa. ✅
+- **3 · La enfermedad de Kaori** (Ep. 15-20 aprox.). Kaori está grave. Decide operarse para volver a tocar con él, aunque sea arriesgado.
+- **4 · El final** (Ep. 21-22). Kaori muere. Su carta revela la «mentira de abril»: nunca le gustó Watari, siempre fue Kousei (punto 6). Kousei vuelve a tocar, ya en color.
+
+**Objetos y símbolos que un fan reconoce al instante:**
+- **El violín y la maletita rosa** de Kaori. **Los lentes de pasta negra** de Kousei.
+- **Piano-senpai:** el apodo en broma del piano de Kousei. La wiki le dedica [página propia](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Piano-senpai). ✅
+- **Towa Hall:** la sala de los dos concursos grandes, el «coliseo» de la serie. ✅
+- **La manzana acaramelada** del Ep. 12, momento dulce de Kaori y Kousei. ✅
+- **Los gatos.** Un gato negro que Kaori acaricia muere atropellado justo antes que ella: lo anticipa. ✅ ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/YourLieInApril) y [análisis de Rai Anime Blog](https://raianimeblog.wordpress.com/2016/08/18/analysis-the-use-of-symbolism-and-metaphor-in-your-lie-in-april/)). Un gato de ojos amarillos que sería la duda de Kousei, ligado a Chelsea, la gata que su madre le hizo regalar, y otro de ojos azules que sería Kaori. ⚠️ lectura de fans, una fuente.
+- **El océano oscuro:** Kousei se hunde en agua negra cuando no oye su piano. En el Ep. 12 una piscina real resuelve la metáfora: ve la luz desde la superficie. ✅
+- **Rojo y azul:** Kousei, el «metrónomo humano», es azul; Kaori, apasionada, es roja. Se repite con los rivales: Emi roja, Takeshi azul. El Ep. 9 los marca por color. ✅ (TV Tropes, *Red Oni, Blue Oni*)
+- **Las bengalas que se apagan** antes de tiempo en el Ep. 12, mientras Kaori duda de su futuro. ✅ (TV Tropes, *Dying Candle*)
+- **かをり (Kawori):** así se escribe el nombre de Kaori, no かおり (punto 6).
+- **Piezas que un fan tararea:** el [Estudio Op. 25 n.º 5 de Chopin](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Chopin%27s_Etude_Opus_25_No._5), la «Kreutzer» de Beethoven y la Balada n.º 1 de Chopin del final (punto 9).
+
+**Vocabulario propio:** «la mentira de abril», «Amigo A» (título del Ep. 2), «monótono y a todo color», «el metrónomo humano», «Piano-senpai», «acompañante», Towa Hall, canelés.
+
+## 3 conceptos de lámina
+
+**Canal propuesto: #canto** (EL ESTUDIO). Su texto real, de `servidor/inventario.md`: «Hablar de cantar. Tus covers van a demos-canto, un hilo por cover.» La serie es de música y de emoción, y la comunidad hispana ya canta su opening (punto 22). Alternativa: la sala de voz 🎶 Karaoke, que no tiene texto propio en el inventario.
+
+Las tres ideas usan un objeto real de la serie y su forma real de hablar, nunca una burbuja blanca. Los textos para la lámina son cortos y sin «·», «—» ni paréntesis. Son texto nuevo en la voz de cada personaje, no citas.
+
+### A · La carta en la maletita (#canto) ⭐
+
+- **Objeto y sitio:** la **maletita rosa del violín** de Kaori, abierta sobre el muro bajo de la calle de cerezos por donde vuelve el trío (Ep. 1, 6:00, fotogramas_03 #17; paleta #9C5E26, #E5B470, #D6774D). Dentro, el violín sobre el forro. En la tapa, sujeta con la cinta, **una carta a mano** en papel claro.
+- **En Blender:** la maleta es una caja con tapa y forro de terciopelo. El violín es el modelo CC0 del punto 3. La carta, un plano con dos pliegues, con la textura [Paper001](https://ambientcg.com/view?id=Paper001) CC0: la tinta sigue los pliegues.
+- **Personaje:** **Kaori**, la más querida (9323 favoritos contra 4810 de Kousei). De pie junto a la maleta, **señala al frente con sonrisa de lado y la otra mano en la cadera** (Ep. 6, 5:00, fotogramas_03 #5): es su pose de explicar y animar. Uniforme Sumiya o el cárdigan gris #9C9F9E del key visual (personajes_01 #9).
+- **Cómo habla:** la **carta manuscrita**, el cuadro propio de la serie (punto 6). Letra **Caveat**, fina y a mano. El nombre del canal, en **Shippori Mincho** como el logo del anime, con dos pétalos rosa y celeste.
+- **Dónde va cada texto:**
+  - En el sobre, arriba a la izquierda: «#canto».
+  - Carta, línea 1: «¡Aquí se habla de cantar!»
+  - Carta, línea 2: «¿Grabaste un cover? Súbelo a #demos-canto.»
+  - Carta, línea 3: «Un hilo por cover. ¡Que se oiga tu voz, no la partitura!»
+  - Firma abajo a la derecha: «Kaori» y, pequeño, かをり.
+- **Para que no quede plano:** pétalos desenfocados delante de la cámara. El arco del violín cruza por delante de la tapa. Contraluz dorado de atardecer que recorta el pelo de Kaori. La tapa proyecta su sombra sobre la carta. Postes y cables eléctricos al fondo, como en el final (fotogramas_03 #22).
+- **Ojo con el tono:** la carta recuerda al final triste. Aquí es alegre y de primavera, en la voz de Kaori viva. Nada de negro ni de lluvia. Y nada de máquina de escribir: esa idea es de Violet Evergarden (punto 24).
+
+### B · El programa de Towa Hall (#canto, versión en grupo)
+
+- **Objeto y sitio:** el **programa impreso del concurso**, un díptico doblado, en las manos de Tsubaki. Están en las **butacas de la sala de conciertos** (Ep. 2, 10:00, fotogramas_03 #12). La sala, con el piano de cola encendido al fondo, sale en el Ep. 2, 13:00 (#21; paleta #251309, #B39566, #3D2D22, #D3C094).
+- **En Blender:** el programa es un papel con pliegue central y algo de curva. Las butacas son cajas con cojín. El piano del escenario es el modelo CC BY de farhad.Guli, con su crédito.
+- **Personajes:** el trío tal como está en #12. **Tsubaki** inclinada hacia delante, explicando con la boca abierta, como cuando explica la «Kreutzer». **Kousei** en medio, serio. **Watari** riendo a su lado.
+- **Cómo habla:**
+  - Arriba, una **banda de anuncio de sala** con la letra de subtítulo (**Noto Sans**, blanco con contorno), como «There will now be a fifteen-minute intermission.» del Ep. 2, 13:00.
+  - En el programa, letra de cartel del mundo: **Zen Maru Gothic**.
+  - En el margen, **notas a mano de Tsubaki** en **Yomogi**, como las partituras anotadas de la serie.
+- **Dónde va cada texto:**
+  - Banda de arriba: «Se abre la sala. Aquí se habla de cantar.»
+  - Portada del programa: «Programa de #canto».
+  - Dentro, tres líneas: «Hablar de cantar», «Tu cover va a #demos-canto», «Un hilo por cover».
+  - Nota de Tsubaki en el margen, con una flecha a la segunda línea: «¡Aquí se habla, allá se canta!»
+- **Para que no quede plano:** la fila de butacas de delante, desenfocada, tapa las piernas. Al fondo, el escenario iluminado con luz cálida #D3C094 y polvo en el haz. El programa, en primer plano, proyecta sombra sobre las rodillas de Tsubaki.
+- **No repetir:** nada de micrófono ni de escenario visto de frente, que es la idea de *Sing* para #canto (punto 24). Aquí el público habla desde las butacas.
+
+### C · El tablón de resultados (lámina 2: las etiquetas de #demos-canto)
+
+- **Objeto y sitio:** el **tablón de resultados del vestíbulo de Towa Hall**, con hojas impresas clavadas con chinchetas ([Ep. 11, 9:00](https://archive.org/download/EVYourLieinApril/11.mp4#t=540)). ⚠️ Mirar ese fotograma antes de modelarlo: el tablón no está en las hojas de contacto.
+- **En Blender:** un tablero con hojas curvadas por las esquinas y chinchetas de metal. La luz entra de lado por el ventanal del vestíbulo.
+- **Personaje:** **Watari**, 3.º en AniList (551 favoritos, más que Tsubaki). **Manos en los bolsillos ante el tablón**, en semiperfil (Ep. 11, 9:00): pose de explicar. Si hace falta más energía, su **pulgar arriba** (personajes_01 #42).
+- **Cómo habla:** una línea de **subtítulo** abajo (Noto Sans, blanco con contorno negro), como en todos los fotogramas de la serie. Las hojas del tablón, en **Zen Maru Gothic**.
+- **Dónde va cada texto:**
+  - Cabecera del tablón: «Etiquetas de #demos-canto».
+  - Hoja 1, «Registro»: Soprano, Mezzosoprano, Contralto, Tenor, Barítono, Bajo, Falsete, Growl.
+  - Hoja 2, «Estilo»: Balada, Rock, Pop, Anime OP/ED.
+  - Hoja 3, «Estado»: Disponible, Ocupado.
+  - Subtítulo de Watari: «Busca tu registro y ponle etiqueta a tu hilo. ¡Así te encuentran!»
+- **Monótono y a todo color:** el vestíbulo y casi todas las hojas en gris. La hoja que mira Watari, a todo color. Es la regla visual de la serie (punto 25).
+- **Para que no quede plano:** gente de espaldas y desenfocada delante, como en el Ep. 11. Las esquinas levantadas de las hojas dan sombra. Watari tapa un poco el borde del tablón.
+- **Aviso:** #demos-canto ya tiene lámina y lámina 2 de Bocchi. Esto sirve como lámina 2 de #canto o como alternativa.
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias o no existe (comprobado, con el porqué) · ❌ no hecho.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial | ✅ | 112 imágenes de la wiki, 74 grandes, en 2 hojas miradas. Portadas de tomo, póster del elenco, carátula del single, credenciales, key visual. No hay cartones de cuenta atrás ni arte de juego: no se encontraron |
+| 2 · Fotogramas con episodio y minuto | ✅ | 22 fotogramas propios en 1080p en `fotogramas_03`, más el PV2 minuto a minuto |
+| 3 · Fan art y 3D con licencia | ✅ | Violín CC0 y dos pianos CC BY con crédito exacto; fan art de Flickr, ArtStation y DeviantArt con autor. No hay modelo libre de los personajes (buscado) |
+| 4 · Fondos y sitios, luz y paleta | ✅ | 6 sitios con hex medidos en fotogramas propios, patrón de luz y texturas CC0 |
+| 5 · Tipografía por uso | ✅ | Una letra libre por uso, todas comprobadas con fontTools (á, ñ, ¿, ¡). Quedan ⚠️ el eslogan sin identificar y los globos del manga sin ver (tomo con DRM) |
+| 6 · Cómo hablan y piensan | ✅ | La carta a mano, el océano oscuro en vez de nube, el silencio, かをり. Dos fuentes y visto en pantalla |
+| 7 · Personajes y popularidad | ✅ | AniList y Ranker coinciden: Kaori 1.ª, Kousei 2.º. No existe encuesta oficial japonesa publicada (buscado en japonés) |
+| 8 · Doblaje latino | ⚠️ | 4 voces confirmadas en Doblaje Wiki y Wikipedia ES. El doblaje no se ha estrenado (anuncio en ANMTV, estreno esperado a fines de 2026): no hay frases dobladas que citar |
+| 9 · Música y sonido | ✅ | OP, ED, compositor y música de las escenas clave, vistos en los episodios. El OP2 sólo por la wiki ⚠️ |
+| 10 · Vídeos | ⚠️ | PV2 visto, TikTok abierto de verdad, edits en Dailymotion. Dos reacciones de YouTube sin abrir (error 429) y sin vistas de TikTok |
+| 11 · Videojuegos | ⚠️ | No existe ninguno: comprobado en Steam, búsquedas en inglés y japonés y TCRF |
+| 12 · Lo que el fandom ama y qué NO hacer | ✅ | Gags vistos con minuto, objetos de firma, Piano-senpai y lista de qué NO hacer. No hay lista oficial de memes |
+| 13 · Cada personaje a fondo | ✅ | 4 personajes con carácter, arco, relaciones, frases con minuto y cara por emoción con fotograma |
+| 14 · Poses por personaje | ✅ | Kaori 7, Kousei 6, Tsubaki 6 y Watari 8, con episodio y minuto y para qué sirve cada una |
+| 15 · Vestuario y colores | ✅ | Hex medidos por prenda en Kaori, Tsubaki y Watari. El uniforme de Kousei sin toma neutra ⚠️: se usa el de Watari |
+| 16 · Ciudades y fondos de pantalla | ✅ | 7 fondos de Wallhaven con tamaño y autor. No hay fondos oficiales descargables (buscado) |
+| 17 · Guía para IA de imagen y de texto | ✅ | Hecha por el redactor: rasgos fijos, paleta, línea, palabras que ayudan y estropean, frases reales por emoción |
+| 18 · Estilo de dibujo y cómo replicarlo | ✅ | Entrevistas oficiales del director y reporte de producción, receta para Photoshop y Blender. Graphinica con fuente única ⚠️ |
+| 19 · Texturas 2D | ⚠️ | 5 texturas CC0 de ambientCG. No hay trama de manga libre y gratis (sólo un pack de pago); se propone el filtro de Photoshop |
+| 20 · Gustos y detalles | ⚠️ | Cumpleaños y altura de los 4 en dos fuentes. Gustos sólo de Kaori (canelés); no hay databook accesible |
+| 21 · Por qué la gente la ama | ✅ | Premios, ventas, Oda, y la escena de la carta vista entera (Ep. 22, 15:30-21:22) con música, encuadre y reacción |
+| 22 · Fan dubs y comunidad hispana | ✅ | 6 vídeos con canal, escena y vistas medidas con yt-dlp; cover de Luxe KO con más de un millón |
+| 23 · Colaboraciones, figuras y cosplay | ⚠️ | Single de Goose house con arte propio y 4 cosplays con licencia. No hay colaboraciones con marcas ni cafés (buscado); la figura de Kaori de 2025 sin fabricante ni pose |
+| 24 · Obras parecidas | ✅ | AniList, obras del autor con su entrevista, guiños a Ghibli y Peanuts, y qué láminas del servidor se parecen |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas en 5 líneas, 4 arcos, símbolos con fuente y vocabulario propio |
+| 3 conceptos de lámina | ✅ | Tres objetos distintos (maletita con carta, programa, tablón), tres personajes y tres letras. Canal #canto |
+| 40 fuentes distintas | ✅ | Más de 40 webs enlazadas en el cuerpo (revisar.py) |
+| Oficiales | ✅ | kimiuso.jp: entrevistas del staff (director y autor) y reportes de producción semanales |
+| Otros idiomas | ⚠️ | Japonés leído en la web oficial y en búsquedas. Coreano y chino buscados sin fuentes útiles |
+| Wikis, TV Tropes, TCRF, Wayback | ✅ | Fandom por API, TV Tropes con navegar.py, TCRF sin página (no hay juego), Wayback probado para ANN |
+| Foros y comunidades | ⚠️ | MyAnimeList, Ranker, TikTok. Reddit por Arctic Shift dio timeout en varios intentos |
+| Arte | ⚠️ | ArtStation, DeviantArt, Flickr, Wallhaven. Pixiv no se pudo listar sin sesión |
+| Vídeo | ✅ | Internet Archive en 1080p con ffmpeg, Dailymotion, YouTube con yt-dlp, TikTok |
+| Código y recursos | ✅ | Google Fonts en GitHub, Sketchfab, ambientCG, Openverse |
+| Doblaje latino | ⚠️ | Doblaje Wiki por API, ANMTV y Wikipedia ES. Sin créditos de Crunchyroll ni Netflix: aún no se estrena |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB: personajes_01, personajes_02 y fotogramas_03 |
+| referencias.json | ✅ | 159 referencias, las mejores primero (juntar_referencias.py; se quitaron un enlace roto de YouTube y un retrato por defecto de AniList) |
+
+## Bitácora
+
+### Bitácora de imagen
+
+- Fandom API (`shigatsu-wa-kimi-no-uso.fandom.com/api.php`) — pageimages de los 4 personajes, imageinfo de las 4 páginas + galerías (idioma: inglés/wiki).
+- `investigar_serie.py --serie "Your Lie in April (Shigatsu)" --wiki shigatsu-wa-kimi-no-uso --paginas "Kousei Arima" "Kaori Miyazono" "Tsubaki Sawabe" "Ryota Watari"` — regenerado porque `herramientas/referencias/` estaba vacío al arrancar (otro proceso lo había limpiado); 112 imágenes, 74 grandes, 2 hojas miradas enteras con Read.
+- `herramientas/estilo.py` sobre 6 imágenes locales (paleta dominante de imagen completa) — poco útil por la iluminación cálida; sustituido por recortes propios con Pillow por prenda.
+- Wallhaven (ya recolectado, revisado y ordenado).
+- Openverse (ya recolectado: fan art expuesto + cosplay).
+- Sketchfab: sin `--con-gemini`, probé `https://api.sketchfab.com/v3/search?type=models&q=your+lie+in+april&downloadable=true` y variantes en inglés y japonés romanizado — sin resultados relevantes.
+- ambientCG API (`type=Material&q=paper|wood|fabric|metal|leather`) — 5 texturas CC0 elegidas y citadas en el punto 19.
+- OpenGameArt (`screentone`, `halftone`) e itch.io (`tag-screentone`, `tag-manga` en la sección `/free/`) — sin resultado libre; sólo un pack de pago.
+- Wikimedia Commons API — 429 (límite de tasa) en dos intentos, sin insistir más.
+- Fandom API `srsearch=merchandise|collaboration|cafe` — sin resultados en la wiki de imagen para el punto 23.
+- `goodsmileshop.com` (búsqueda de figuras) y `myfigurecollection.net` — sin resultado / bloqueado; `navegar.py` no disponible en este contenedor (Chromium headless no instalado).
+- Recortes propios con Pillow (no `estilo.py` completo) sobre 9 imágenes locales para el punto 15, apuntando coordenadas por prenda tras mirar cada imagen con Read.
+
+Pendiente sin ser obligatorio (queda en «No encontré»): figuras oficiales, café temático, cuero medido con hex propio, más fan art de Pixiv listado uno por uno.
+
+### Bitácora de video
+
+- `datos-video.md` (recolectado antes de empezar): tráiler AniList, clips Dailymotion (sólo AMV de fans), MusicBrainz. Partí de ahí y descarté los AMV de fans como fuente de «escena icónica» (no son metraje oficial en la mayoría de los casos).
+- Dailymotion API (`api.dailymotion.com/videos?search=…`), en inglés y japonés: «Shigatsu wa Kimi no Uso official trailer», «Your Lie in April official trailer Aniplex», «四月は君の嘘 PV», «Hikaru Nara Goose house», «Kirameki Ai Kayano», «Orange 7 nanauchi», «Your Lie in April analysis video essay», «Your Lie in April AMV edit», «Shigatsu wa Kimi no Uso reseña» → encontré el PV2 oficial (x2682f1), un vídeo de tendencia tipo «POV» (xa3w48g) y varios «Twixtor edit».
+- `api.animethemes.moe`: error 522 en todos los intentos (caído, igual que en `recolectar.py`).
+- Internet Archive: `archive.org/advancedsearch.php` con «Shigatsu wa Kimi no Uso» → ítem `EVYourLieinApril`, los 22 episodios + OVA en 1080p. Localicé OP/ED/escenas con `ffmpeg -ss <segundo> -i "archive.org/download/…"` (range requests, sin bajar el archivo completo) y contact sheets propias con Pillow, igual que hace `fotogramas.py`.
+- Wiki de Fandom (`shigatsu-wa-kimi-no-uso.fandom.com/api.php`), en inglés: páginas «Music», «Hikaru Nara», «Nanairo Symphony», «Kirameki», «Orange», «Episode 03: Inside Spring» (`action=parse&prop=wikitext`) y búsqueda de texto («Ballade», «Kreutzer») para confirmar temas e insertos musicales.
+- `herramientas/estilo.py` sobre 6 fotogramas propios en 1080p para los hex de sitios (punto 4).
+- WebSearch (2 búsquedas): «"Your Lie in April" tiktok trend edit viral sound», «"Your Lie in April" ending scene reaction youtube analysis video minute» → confirmaron el formato de tendencia y que el final es lo más reaccionado.
+- `herramientas/navegar.py` sobre `tiktok.com/discover/…`: falló (navegador de Playwright no instalado, ver «No encontré»).
+- Retratos de AniList (ya en `datos.json`) para verificar de qué personaje es cada fotograma (pelo y gafas), antes de rellenar la tabla de poses.
+
+### Segunda pasada (relanzo por pocas webs distintas: sólo 3 enlazadas)
+
+- `graphql.anilist.co` (POST directo, sin buscador): pedí `idMal` y `externalLinks` del media 20665 para tener el id real de MyAnimeList (23273) y el enlace oficial `kimiuso.jp` con URL exacta.
+- `myanimelist.net/anime/23273` con `navegar.py` (sí carga, sin login): ficha completa, sinopsis, puesto de popularidad y **reparto de voces japonés** → descubrí que había leído mal dos nombres del PV (Kaori no es «Oda Risa» sino Risa Taneda; Watari no es «Aisaka Ryouta» sino Ryouta Oosaka), corregido en el punto 2.
+- `en.wikipedia.org/wiki/Your_Lie_in_April` con `navegar.py --selector '#mw-content-text' --max 0` (la API `action=query` de Wikipedia dio «too many requests» varias veces, cambié a navegar.py): sección «Production» con la razón del director para elegir cada banda de OP/ED, y sección de emisión con fechas exactas. También `--html` para sacar los `href` reales de las dos noticias de Anime News Network citadas.
+- `animenewsnetwork.com` (las dos URLs de la nota anterior, directas y vía `web.archive.org`): 403 «security check» (captcha) en todos los intentos, incluso con `navegar.py`; me quedé con el título de cada noticia (visible en el propio enlace de Wikipedia) como confirmación parcial.
+- `www.kimiuso.jp` con `navegar.py`: sitio oficial japonés, sigue actualizado (anuncio de figura de Kaori, feb-2025).
+- `www.tiktok.com/tag/yourlieinapril` con `navegar.py --espera 6000` (funcionó, a diferencia del intento anterior): listado real de vídeos con autor y descripción, sin buscador.
+- `musicbrainz.org`: reutilicé los 3 discos ya recolectados en `datos-video.md` y los enlacé directamente en el punto 9 (antes sólo se mencionaban, no estaban citados como enlace).
+- YouTube (los 2 vídeos de reacción del punto 10) con `navegar.py`: 429 «tráfico inusual» en los dos, igual que antes.
+
+### Tercera pasada (relanzo puntual: completar poses de Watari y Tsubaki)
+
+- Wiki de Fandom, wikitext de «Episode 09: Resonance», «Episode 11: Light of Life», «Episode 13: Love's Sorrow», «Episode 14: Footsteps», «Episode 15: Liar», «Episode 16: Two of a Kind», «Episode 17: Twilight», «Episode 18: Hearts Come Together» y «Episode 19: Goodbye, Hero» (`action=parse&prop=wikitext`, filtrando líneas con «Watari»/«Tsubaki») para saber en qué episodios tienen escena propia antes de sacar fotogramas a ciegas.
+- `ffmpeg -ss <segundo> -i "https://archive.org/download/EVYourLieinApril/<ep>.mp4"` (mismo método que tandas anteriores). Esta vez archive.org devolvía **403** al pedir el `.mp4` directo con ffmpeg sin más: hacía falta pasarle el proxy de este contenedor explícito (`-http_proxy "http://127.0.0.1:33635"`, tomado de la variable de entorno `HTTPS_PROXY`) además de `-user_agent`; con eso funcionó igual que antes. Lo anoto por si otro investigador de esta serie se topa con el mismo 403.
+- Para explorar tramos largos sin gastar una llamada por minuto usé `ffmpeg -vf "fps=1/90"` sobre 600-1300 s seguidos de una sola vez (contact sheet con Pillow), y sólo pedí en grande el fotograma que servía.
+- Encontradas y confirmadas: Watari en Ep. 17 «Twilight» (min 8:55-9:10, confesión sobre Kaori, diálogo coincide palabra por palabra con la cita de la wiki) y en Ep. 11 «Light of Life» (min 9:00, tablón de resultados, identificado por pelo castaño-naranja y ropa ya usadas en otras poses); Tsubaki en Ep. 14 «Footsteps» (min 20:00, escena de la playa que cita la propia wiki del episodio) y en Ep. 19 «Goodbye, Hero» (min ~19:30, pasillo del hospital con Takeshi y Kousei).
+- Episodios revisados sin pose nueva aprovechable de ninguno de los dos: 9, 12, 13, 15, 16 (ver «No encontré»).
+
+### Bitácora de voz
+
+- AniList (`anilist.co/anime/20665`): favoritos por personaje y fichas — ya venía en `datos-voz.md`, verificado y ampliado.
+- Doblaje Wiki (`doblaje.fandom.com/es/api.php?action=parse`): wikitext completo de la ficha de la serie — descargado directamente con curl, sacó el reparto que `datos-voz.md` no había parseado bien (tabla vacía → reparto completo con personaje-actor).
+- Shigatsu wa Kimi no Uso Wiki (Fandom, `api.php?action=parse`): wikitext de Kousei Arima, Kaori Miyazono, Tsubaki Sawabe y Ryota Watari (infobox, personalidad, apariencia, relaciones, trivia, episodio 22).
+- Wikipedia ES (`es.wikipedia.org/wiki/Shigatsu_wa_Kimi_no_Uso`): sección de reparto de doblaje por personaje e idioma — segunda fuente independiente para los 4 actores latinos.
+- Wikipedia EN (`en.wikipedia.org/wiki/Your_Lie_in_April`, `en.wikipedia.org/wiki/Naoshi_Arakawa`): premios y ventas.
+- kimiuso.jp/character/: sitio oficial revisado con curl; sin texto de fichas (usa imágenes), sin encuesta.
+- eldoblaje.com: ficha de España (no Latinoamérica) con id capturado por recolectar.py da 404; descartado.
+- MyAnimeList / Jikan API (`api.jikan.moe/v4/anime/23273/characters`): 504 repetido, sin datos.
+- Internet Archive (`archive.org/advancedsearch.php`, `archive.org/metadata/...`): busqué «your lie in april» / «shigatsu wa kimi no uso»; encontré y usé el episodio 1 completo BDRip (`lns-tsundere-shigatsu-wa-kimi-no-uso-01-...`) con `fotogramas.py` (hojas de contacto cada 20 s + 5 fotogramas individuales en detalle), y también la colección `EVYourLieinApril` (serie completa, 22 episodios + OVA): vi el episodio 22 completo entre el min. 15:30 y 21:22 (la escena de la carta) con fotogramas cada 8 s. Borré los `video.mp4` bajados al terminar de mirarlos (disco compartido).
+- Dailymotion (API, `datos-voz.md`): probé un AMV (`x479c6d`) con `fotogramas.py` como plan B; sirvió para confirmar estilo visual pero no lo usé para las citas finales (el episodio 1 de Internet Archive da capítulo y minuto reales, el AMV no).
+- yt-dlp (metadatos, `--skip-download --print`): usado para sacar título, canal, vistas y fecha de 8 vídeos de YouTube (fandubs y covers en español) sin descargar nada; funciona aunque la descarga de vídeo esté bloqueada por «inicia sesión».
+- navegar.py: falló con «BrowserType.launch: Executable doesn't exist» — el navegador headless no está instalado en este contenedor. Anotado como fallo de entorno, no de la web.
+- Arctic Shift (Reddit, `arctic-shift.photon-reddit.com/api/posts/search`): 3 intentos, todos con timeout. Descartado, usé búsqueda web para contenido de Reddit/foros en su lugar.
+- Búsquedas web (WebSearch), en español, inglés y japonés: «Your Lie in April doblaje latino», «ANMTV Your Lie in April Crunchyroll», «Your Lie in April reparto voces latino», «anmtvla.com Your Lie in April reparto doblaje 2026», «Your Lie in April Newtype character popularity poll», «Your Lie in April personaje más querido encuesta MyAnimeList», «四月は君の嘘 キャラクター人気投票» (japonés), «Your Lie in April fandom memes running gag», «Your Lie in April reddit best crying scene», «Your Lie in April qué NO hacer fans odian adaptación», «Your Lie in April running joke comedic violence», «Your Lie in April awards sales Kodansha Manga Award», «Your Lie in April episode 22 letter scene reaction», «Your Lie in April episode 22 letter scene song Watashi no Uso», «Your Lie in April Tsubaki confession episode number», «Your Lie in April fandub español latino YouTube», «Hikaru Nara cover español latino».
+
+### Bitácora de texto
+
+- Fandom `shigatsu-wa-kimi-no-uso.fandom.com`, API `api.php` (allpages,
+  allcategories, categorymembers, parse&prop=wikitext): páginas de
+  competencias, localizaciones, objetos, piezas musicales, temas de
+  apertura/cierre. Sin bloqueo.
+- AniList (`datos-texto.md`, ya recolectado): ficha, equipo creativo, obras
+  recomendadas — no repetido.
+- WebSearch (idioma inglés): "Your Lie in April" A-1 Pictures 3DCG piano
+  hands animation interview · Kyohei Ishiguro director interview visual
+  style flowers light · Your Lie in April flower petals visual metaphor
+  performance scenes analysis · site:tvtropes.org Your Lie in April YMMV ·
+  site:tcrf.net Your Lie in April · "Your Lie in April" OR "Shigatsu wa Kimi
+  no Uso" game app mobile · "Your Lie in April" logo font identify title ·
+  Your Lie in April Kaori letter handwritten scene final episode · A-1
+  Pictures animation software RETAS Toon Boom Photoshop compositing pipeline
+  2014 · Graphinica "Your Lie in April" piano 3DCG.
+- WebSearch (idioma japonés): 四月は君の嘘 ゲーム アプリ · 四月は君の嘘
+  アニメ 制作 CG 手 ピアノ インタビュー · 四月は君の嘘 石黒恭平 演出
+  インタビュー 色.
+- Sitio oficial `kimiuso.jp/special/`: reportes de producción semanales
+  (`04.html`) y entrevistas al staff (`05_01.html` director Ishiguro,
+  `05_05.html` autor Arakawa) — leídos completos con `curl`, en japonés, no
+  traducidos antes al español en ninguna fuente encontrada.
+- `animeherald.com`: transcripción de charla en Anime Boston 2016 con
+  Ishiguro y Aikei — leída completa con `curl`.
+- TV Tropes (`tvtropes.org`) bloquea `curl`/`WebFetch` con 403. Arreglado
+  `herramientas/navegar.py` para esta sesión: el Chromium instalado está en
+  `/opt/pw-browsers/chromium_headless_shell-1194/...` (no
+  `-1243`, que es lo que el script trae por defecto) y hacía falta
+  `ignore_https_errors=True` en el contexto de Playwright porque el proxy
+  reemplaza el certificado TLS. Con `PLAYWRIGHT_CHROMIUM` apuntando a la
+  build correcta sí funcionó, dos páginas leídas completas (Manga y Trivia).
+- Internet Archive: el volumen 1 del manga está indexado pero es préstamo
+  con DRM, no legible sin pedirlo prestado — no se insistió.
+- `fontTools` (`TTFont(f).getBestCmap()`) sobre 8 fuentes bajadas de
+  `raw.githubusercontent.com/google/fonts`: Zen Maru Gothic, Shippori
+  Mincho, M PLUS 1p, M PLUS Rounded 1c, Bungee, Comfortaa, Caveat, Noto
+  Sans, Anton, Yomogi — las 10 con á, ñ, ¿, ¡. (Permanent Marker no se pudo
+  bajar del repo, no crítico: no se usó como recomendación final.)
+- Fuentes que fallaron sin insistir más de dos intentos: `tcrf.net` directo
+  (Cloudflare); Wikipedia `pageimages` API (sin respuesta útil, se resolvió
+  extrayendo el `<img>` del HTML de la página en su lugar); Wayback Machine
+  (`web.archive.org/cdx/search/cdx`) — el túnel del proxy se cerró a medio
+  intercambio en dos intentos (`ws_closed_mid_exchange`, ver
+  `__agentproxy/status`), parece un fallo transitorio del lado de Internet
+  Archive en este momento, no del proxy. No hizo falta insistir más: ninguno
+  de mis puntos tenía una página borrada específica que recuperar (no hay
+  videojuego ni sitio de franquicia desaparecido que rastrear).
+
+### Bitácora del redactor
+
+- Biblia empezada en modo nueva y cortada en el punto 22. Terminada en modo seguir: puntos 23-25, 3 conceptos, tabla y esta bitácora, sin tocar lo anterior.
+- `juntar_referencias.py` y `juntar_bitacora.py` vueltos a correr. En referencias.json se volvieron a quitar el enlace roto de YouTube (`?v=…?t=0`) y el retrato por defecto de AniList: quedan 159.
+- Para no repetir ideas se miraron los objetos y canales de los conceptos de las biblias 10, 22, 29, 58, 63 y 97 (con grep) y las reglas del dueño (punto 24).
+- Vista la hoja `fotogramas_03` para elegir poses y sitios de los conceptos. Queda sin ver el tablón de resultados del Ep. 11, 9:00 (concepto C).
+- Aviso de la parte de imagen: llama «KyoAni» al key visual; el estudio es A-1 Pictures. No se copió ese error.
