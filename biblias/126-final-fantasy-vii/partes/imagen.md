@@ -59,3 +59,42 @@ Fan art sólo como referencia de pose/composición (nunca para pegar). Modelos 3
 - Chocobo (genérico, sirve de referencia de la montura icónica) · larotzke · CC BY · https://sketchfab.com/3d-models/none-baf7f26cff5d4970811f6f6f21aba4f0 · ⚠️ (no es diseño oficial exacto, es fan-model)
 
 Nota de licencias para el dibujante: **CC BY** = usar y modificar citando autor (vale para el proyecto); **CC BY-NC** y **CC BY-NC-SA** = sólo para estudio o referencia, no para una pieza que se use comercialmente sin permiso; el Discord es sin fines de lucro pero conviene avisarlo igual.
+
+## 15 · Vestuario (colores hex medidos)
+
+Hex sacados con `herramientas/estilo.py` sobre recortes cerrados de cada prenda (no del fotograma entero, que mete fondo blanco/negro) en los renders oficiales de FFVII Remake / Crisis Core Reunion. El traje base de cada uno es el «icónico» que todo fan reconoce; los demás son variantes por arco o evento.
+
+Personaje | Prenda | Hex medido | De qué imagen
+---|---|---|---
+Cloud Strife | Camiseta sin mangas negra (uniforme ex-SOLDIER) | #151215 | render de batalla, FFVII Remake ✅
+Cloud Strife | Pantalón índigo/negro | #0F0F15 | ídem ✅
+Cloud Strife | Pelo rubio de punta (mechón claro / sombra) | #E2C29B / #A58765 | ídem ✅
+Cloud Strife | Guantes y muñequeras de cuero | #211D1C | ídem ✅
+Cloud Strife | Hombrera metálica | #343037 | ídem ✅
+Cloud Strife | Botas | #14171A | ídem ✅
+Tifa Lockhart | Top blanco recortado | #E7E8E7 | render de batalla, FFVII Remake ✅
+Tifa Lockhart | Falda de cuero negra | #141314 | ídem ✅
+Tifa Lockhart | Medias hasta el muslo | #100F10 | ídem ✅
+Tifa Lockhart | Botas rojas | #8A0507 | ídem ✅
+Tifa Lockhart | Guantes de pelea | #181715 | ídem ✅
+Tifa Lockhart | Pelo negro-castaño oscuro | #191311 | ídem ✅
+Aerith Gainsborough | Chaqueta bolero roja | #7A1A20 (medio entre luz #932129 y sombra #6E1217) | key art / render de batalla, FFVII Remake ✅
+Aerith Gainsborough | Vestido rosa hasta la rodilla | #D2BABC | ídem ✅
+Aerith Gainsborough | Pelo castaño (sombra) | #2A221A | ídem ⚠️ (una sola imagen medida)
+Aerith Gainsborough | Botas | #161617 | ídem ✅
+Sephiroth | Abrigo largo negro | #27252A | boss render, Crisis Core Reunion ✅
+Sephiroth | Hombreras/placas plateadas | #776E6C (sombra) / #999CAC (brillo) | ídem ✅
+Sephiroth | Pelo plateado | #A19FAB | ídem ⚠️ (escena muy oscura/contraluz, hex más claro de lo real)
+Sephiroth | Botas negras | #000000 / #373741 | ídem ✅
+
+**Por arco o evento (variantes confirmadas en la wiki, sin hex propio medido — ⚠️ una fuente, texto/galería)**
+- Cloud: uniforme SOLDIER original (1997, más claro y con hombreras distintas) → traje ex-SOLDIER de Remake (arriba) → «Advent Children» (abrigo largo rojo-negro) → vestido nº1/2/3 para colarse en el Wall Market (Remake) — imágenes #18-20 de la hoja de contacto (`File:Cloud dress 1/2/3 from FFVII Remake render.png`, 2400×4266) · https://static.wikia.nocookie.net/finalfantasy/images/9/98/Cloud_dress_1_from_FFVII_Remake_render.png
+- Tifa: traje base (arriba) → vestido deportivo/elegante/exótico para el Wall Market (Remake, imágenes 26,31 y datos-imagen.md líneas 32-37) → traje «Midgar Infantry» de camuflaje (Rebirth) 1461×3748 · https://static.wikia.nocookie.net/finalfantasy/images/3/3d/Tifa_Midgar_Infantry_outfit_from_FFVII_Rebirth_render.png → traje «Majestic Glamour» (gala, Rebirth) 1318×3721 → «Pride of Seventh Heaven» (delantal del bar, Rebirth) 1267×3755
+- Aerith: vestido base rosa (arriba) → vestido nº1/2/3 alternativos del Remake (2500×4000, ya en `datos-imagen.md`) → «Pink Mermaid» (playa, Rebirth) 1274×3814 · https://static.wikia.nocookie.net/finalfantasy/images/b/b1/Aerith_Pink_Mermaid_outfit_from_FFVII_Rebirth_render.png → «Floral Delight» (Rebirth) 958×3791
+- Sephiroth: abrigo largo de icono (arriba, igual desde 1997 hasta Remake) → armadura de placas blancas de «Advent Children»/Kingdom Hearts (imagen #71 «Sephiroth-Alt1 SSBU.png») → SOLDIER 1st Class uniforme azul (flashback de Nibelheim, joven) — imagen `VIICC Nibelheim.jpg`, 3837×2145, ya en `datos-imagen.md` línea 77
+
+**Accesorios y peinado que hacen «reconocible» a cada uno** (para la guía de IA de imagen del punto 17, que hace el redactor)
+- Cloud: pendiente plateado único en la oreja izquierda, mako-eyes (azul brillante), Buster Sword al hombro
+- Tifa: pendiente blanco en forma de lágrima en la oreja izquierda, pelo atado en la punta (cola de delfín)
+- Aerith: cinta rosa grande en la trenza (guarda dentro la White Materia), broche/collar con flor
+- Sephiroth: un solo mechón de pelo cae sobre el hombro derecho, pupilas de gato, la Masamune (katana larga)

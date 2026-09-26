@@ -31,6 +31,41 @@ Todo mirado, no sólo enlazado.
 hoja trae el boceto a lápiz sin colorear junto a la versión a color, típico de un artbook
 de diseño de personajes «antes/después».
 
+## 3 · Fan art y renders 3D (referencia; modelos 3D con licencia libre completos)
+
+Fan art sólo como referencia de pose/composición (enlace y autor, nunca para pegar).
+Los modelos 3D con licencia sí son descargables y van completos aquí.
+
+**Fan art mejor valorado (Safebooru, ya en datos-imagen.md, no repetido)**: 6
+piezas por personaje (Joker, Morgana, Ann, Ryuji), con tamaño real y enlace al
+autor original (Pixiv, Twitter/X, Patreon). Lo mejor: Joker 10271×1902 puntos
+por rue_bit (Twitter) y Ryuji 1920×1080 wallpaper oficial de la TGS 2015
+(`persona5.jp/tgs2015`) redistribuido en Safebooru.
+
+- Joker, ArtStation, línea limpia, práctica de fan art · Nei Sukkasem · https://www.artstation.com/artwork/W2YVBG · ⚠️ · —
+- Joker, ArtStation, otro enfoque, pintura digital · Aida Tastenova · https://www.artstation.com/artwork/vJdRP6 · ⚠️ · —
+- Joker & Arsene, ArtStation, ilustración con su Persona · https://www.artstation.com/artwork/g2JZqG · ⚠️ · —
+- Joker, pixel art, Aseprite · Elyse Miyake · https://www.artstation.com/artwork/EaGrGK · ⚠️ (estilo pixel, distinto del oficial pero sirve de contraste) · —
+
+**Modelos 3D con licencia libre (Sketchfab, todos CC Attribution 4.0, comprobado con la API `/v3/models/<uid>`, licencia y `isDownloadable: true`)**:
+
+- Joker (Persona 5 Strikers), rig completo del personaje · 雨宮レン · CC BY 4.0 · ♥196 · https://sketchfab.com/3d-models/none-55a479d4c862476480105c75c6623205
+- Joker (Persona 5) · asifsaj · CC BY 4.0 · ♥67 · https://sketchfab.com/3d-models/none-feb5abf77da84dac9d1a9ed2cf3b4c8e
+- Máscara de Joker (Joker's Mask), objeto suelto para imprimir/renderizar · DarkTenshiDT · CC BY 4.0 · ♥59 · https://sketchfab.com/3d-models/none-81669910c0b74f41a3a58febfd514794
+- Máscara de Joker, otra versión · JosevanD2 · CC BY · ♥23 · https://sketchfab.com/3d-models/none-2c4a99ce4a764803b47849993cf2654b
+- Daga de Joker (Joker's Dagger), objeto suelto · DarkTenshiDT · CC BY · ♥36 · https://sketchfab.com/3d-models/none-b6577ea6a0d04423a383c3c32666f4c2
+- Morgana, rig completo · JulioSillet · CC BY 4.0 · ♥81 · https://sketchfab.com/3d-models/none-c022583f89b0425180615f63b168729d
+- Morgana (Persona 5, PS4) · 雨宮レン · CC BY · ♥9 · https://sketchfab.com/3d-models/none-c39122925d17434b9702714397045ae3
+- Ann Takamaki (Persona 5 Tactica) · 雨宮レン · CC BY · ♥54 · https://sketchfab.com/3d-models/none-6f179a49616945749f206ceb40f89c8b
+- Aula estilo liceo japonés (LowPoly Stylized Classroom), sirve de fondo genérico para Shujin · Mumladze28 · CC BY · ♥924 · https://sketchfab.com/3d-models/none-35762c5a787e40c8b1daae410c1429de
+- «Fleeing Assassin» (referencia de daga/arma corta con capucha, no es de la serie pero sirve de base para retexturizar un arma de ladrón) · Blackhart · CC BY · ♥10 · https://sketchfab.com/3d-models/none-424b73f324cd4ea1a89a30e22329aae1
+
+**Poly Haven**: comprobado por su API (`api.polyhaven.com/assets?t=models`, 521
+modelos) — no hay ningún asset con «Persona» o «Joker» en el nombre. Es una
+librería CC0 de materiales, HDRIs y props genéricos (no personajes con
+licencia), así que no aporta a este punto; sus texturas sí sirven para el
+punto 19 (ver abajo).
+
 ## Lo mejor para la lámina
 
 - El key visual grupal de Soejima (2522×1664) da a los 4 personajes juntos y con pose.

@@ -63,6 +63,10 @@ reales equivalentes de ambientcg.com, con licencia CC0.
 - **Salón de la casa de Sakamoto** (sofá, luz cálida de interior, de día) ·
   #746455, #B8A99B, #EFF1E6, #FBF9E4, #F3DFCD · medido en fotograma 0:15 del
   tráiler Netflix · ✅ · https://www.dailymotion.com/video/x9c6rxi
+- **La tienda de Sakamoto** (mostrador, estanterías, luz cálida de interior de
+  día) · #54423E, #987E71, #B0A68E, #E6E5C7 · medido en fotograma 1:20 del
+  tráiler Netflix · ✅ (visto en vídeo; es la localización central de la serie,
+  también sale en la portada del volumen 1) · https://www.dailymotion.com/video/x9c6rxi
 - Texturas reales equivalentes (CC0, ambientcg.com): madera clara para el
   mostrador de la tienda (`WoodFloor051`), papel/cartón para las cajas de la
   armería (`Cardboard004`), asfalto húmedo para las calles nocturnas

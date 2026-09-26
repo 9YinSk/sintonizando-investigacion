@@ -218,3 +218,55 @@ un pasado violento bajo una vida doméstica tranquila.
   la familia falsa aprendiendo a quererse; aquí la familia ya se quiere, la comedia sale de que él ya no
   puede matar) ni el gore constante de Chainsaw Man (aquí la violencia se dibuja «cool», no traumática,
   según el propio editor: «evito la brutalidad gratuita») · ✅ (MangaPlus, cita directa del editor)
+
+## 25 · El mundo, la historia y sus símbolos
+
+**El mundo en 5 líneas** ✅ (wiki + TV Tropes, cruzado):
+1. Japón, actualidad, pero con un submundo paralelo de asesinos profesionales tan organizado que casi
+   sustituye a la policía (según un personaje, la policía sólo resuelve un 10 % real de los casos).
+2. La **JAA (Japanese Association of Assassins)** es el gremio legal de esos asesinos: 1.000 miembros, unos
+   400 profesionales, con nómina, seguro y hasta una escuela.
+3. La gente corriente vive al lado de eso **sin inmutarse**: si un asesino destroza una farola nadie grita,
+   como mucho dicen «oh, no» (es un chiste recurrente de la serie, «Apathetic Citizens»).
+4. Sakamoto vive esa regla familiar no escrita: **«no matar»**, jurada a su mujer Aoi bajo pena de divorcio
+   — es la única ley que de verdad le da miedo.
+5. El gremio tiene su propia policía interna secreta, la **Order**, y su propio villano, **Slur**, que
+   quiere destruirlo desde dentro.
+
+**La historia por arcos** (10 arcos hasta la fecha, manga en curso; el anime, 11 episodios ONA, cubre los
+2 primeros) ✅ (wiki, `Story Arcs`, resumen oficial en inglés de cada arco):
+
+| Arco | En pocas líneas | Capítulos / Episodios |
+|---|---|---|
+| Amusement Park Arc | Sakamoto retirado; Shin lo visita y se hacen socios; rescatan a Lu; viaje a Sugar Park donde reaparecen viejos enemigos (Boiled) | 15 caps · 5 eps |
+| Lab Arc | Lu es secuestrada por un laboratorio; Sakamoto, Shin y el nuevo francotirador Heisuke la rescatan; aparece Kashima, con máscara de ciervo; interviene la Order | 16 caps · 4 eps |
+| Death Row Prisoners Arc | 4 presos condenados a muerte escapan; los persiguen para llegar a Slur, que al final se presenta solo | — |
+| JCC Transfer Exams Arc | Se descubre que Slur fue alumno de la JCC hace 10 años; Sakamoto y Shin hacen el examen de ingreso a esa academia de asesinos | — |
+| JCC Infiltration Arc | Ya dentro de la JCC, buscan la base de datos con la info de Slur mientras sus secuaces intentan pararlos | — |
+| Taro Sakamoto's Past Arc | Flashback: el pasado de Sakamoto en la JCC con sus amigos Nagumo y Rion, y el asesino más rápido, Kindaka | — |
+| Bangkok Arc | Viaje a Bangkok tras Slur; Heisuke conoce a Hyo | — |
+| Assassin Exhibition of the Century Arc | Slur intenta matar a Asaki en una exhibición pública; choque total entre su grupo, la Order y la familia Sakamoto | — |
+| JAA Jail Arc | Sakamoto y Nagumo, con recompensa por su cabeza, se esconden; Shin y Heisuke entran a la cárcel de la JAA | — |
+| New JAA Arc (en curso) | Slur toma el país, da un arma y 3 balas a cada ciudadano; caos total; parte de la Order lo traiciona | — |
+
+**Emblemas, objetos icónicos y vocabulario propio** ✅ (wiki, cruzado en varias fichas):
+- **JAA** (Japanese Association of Assassins / 日本殺し屋連盟, «Satsuren»): el gremio legal de asesinos de
+  Japón, con agencias subcontratadas (la única con nombre, **Dondenkai Ltd**).
+- **The Order** (オーダー): los 8-10 asesinos más fuertes de la JAA, una leyenda urbana incluso para otros
+  asesinos; su líder actual es Oki.
+- **X's Organization / Slur** (Kei Uzuki): el grupo rebelde que quiere destruir la JAA desde dentro,
+  formado por antiguos huérfanos del **orfanato Al-Kamar**.
+- **JCC (Japan Clear Creation)**: la academia de asesinos más prestigiosa de Japón, en una isla remota; casi
+  1.000 alumnos, 35 profesores, 4 años de carrera y sólo **10 % de graduación** (el resto muere o
+  abandona) — el «Hogwarts» siniestro de la serie.
+- **La tienda de los Sakamoto**: convenience store de dos pisos, con un **almacén secreto de armas debajo,
+  activado por un código en la caja registradora** — el objeto-símbolo de toda la serie (vida normal por
+  fuera, arsenal por dentro).
+- **El logo/mascota**: cara redonda con gafas circulares que sustituye la «O» de SAKAMOTO y de DAYS en el
+  logo oficial — por el diseño (calvo, gafas redondas) se lee como una versión chibi de la cara de
+  Sakamoto · ✅ (mirado en dos portadas oficiales, `ch1_small.jpg` y `vol9_small.jpg`)
+- **Regla nº1 de la familia Sakamoto**: «no matar» — todo el humor de acción de la serie nace de buscar
+  formas de vencer sin romperla.
+- **La transformación físca de Sakamoto**: delgado y letal en su pasado de asesino, gordo y manso en su
+  presente; vuelve a su cuerpo delgado tras esfuerzo físico intenso y engorda de nuevo en un par de días —
+  es el gag visual más reconocible de la portada del tomo 1.

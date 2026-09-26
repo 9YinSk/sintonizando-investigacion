@@ -130,3 +130,43 @@ YouTube disponible) puede sacar el JPG exacto con
 `herramientas/fotogramas.py` en el minuto ya confirmado aquí.
 
 ---
+
+## 12 · Lo que ama el fandom hispano, y qué NO hacer
+
+La biblia (§14) ya tiene la papa frita, «keikaku», la postura de L y las
+manzanas de Ryuk. Confirmo con datos hispanos nuevos (vistas reales en
+YouTube, no sólo memes en inglés):
+
+- **El ego/plan de Light es el meme más grande en español**: «SI KIRA
+  TUVIERA EL EGO HASTA LAS NUBES 📖» (canal El Canolexx) **1,3 millones**
+  de vistas ✅; «¿Acaso eres gay, Kira?» (Briff B) **1,1 millones** ✅;
+  «Light salva al mundo» (parodia/edit) **1,3 millones** ✅ — el fandom
+  hispano se ríe sobre todo del **plan maestro y la soberbia de Light**,
+  más que de Ryuk o L
+  ([búsqueda YouTube](https://www.youtube.com/results?search_query=death+note+fandub+espa%C3%B1ol+light)).
+- **El uniforme escolar de Light** es «su ropa más icónica, aunque casi
+  no lo use» según un hilo con **704 votos** en r/deathnote ✅
+  ([hilo](https://www.reddit.com/r/deathnote/comments/1g4dtuj/lights_school_uniform_is_his_most_iconic_outfit/));
+  el traje **lolita gótico rosa de Misa** también se repite como icónico
+  en cosplay con **732 votos** ✅
+  ([hilo](https://www.reddit.com/r/deathnote/comments/1nqbrei/my_misa_misa_cosplay_wearing_one_of_her_iconic/)).
+  Sirve para el punto 15 (vestuario) también.
+- **Doblaje argentino de fans** (no oficial, distinto del latino
+  neutro): canal *Fedebpolita*, **1 millón** de vistas ✅
+  ([enlace](https://www.youtube.com/watch?v=P-EMtvZsBY8)) — muestra que
+  el fandom hispano también parodia con acentos regionales, no sólo en
+  «neutro».
+
+### Qué NO hacer (nuevo, además de lo que ya dice la biblia)
+
+- **No usar un cover hecho con voz de IA** como si fuera un fandub real:
+  encontré uno etiquetado «Cover IA» del opening 1 ⚠️ (existe, pero el
+  dueño no quiere que nada del canal huela a IA; ni de referencia)
+  ([ejemplo, sólo como aviso](https://www.youtube.com/watch?v=RthY66kb3eM)).
+- **No hacer que el chiste de Light sea sobre Ryuk o L**: el fandom
+  hispano centra la burla en el **ego y el plan de Light**, no en los
+  otros dos (los tres memes de más vistas arriba son todos sobre Light).
+  Usar a Ryuk como el gracioso sería «al revés» de lo que el fandom
+  realmente hace.
+
+---
