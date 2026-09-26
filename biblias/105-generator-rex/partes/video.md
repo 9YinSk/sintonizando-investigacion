@@ -23,7 +23,7 @@ Mirado con `fotogramas.py` (hojas de contacto de verdad, no descripciones).
 - Escena icónica 1 — «Operation: Wingman» (T1E11, verificado por búsqueda en
   la wiki): Noah de esmoquin en una gala (1:00-1:15), Bobo con corbatín
   levanta el pulgar (1:00), Six salta de un edificio de noche con línea de
-  vida (2:00-2:30) · https://www.dailymotion.com/video/x2tkgs7&t=75 (marca de agua CN visible = emisión real) · ✅ (título de episodio confirmado en la wiki: `generatorrex.fandom.com/wiki/Operation:_Wingman`) · hoja en /tmp/claude-0/trabajo/105-generator-rex-video/wingman/hoja_01.jpg
+  vida (2:00-2:30) · https://www.dailymotion.com/video/x2tkgs7&t=75 (marca de agua CN visible = emisión real) · ✅ (título de episodio confirmado en la wiki: https://generatorrex.fandom.com/wiki/Operation:_Wingman) · hoja en /tmp/claude-0/trabajo/105-generator-rex-video/wingman/hoja_01.jpg
 - Escena icónica 2 — Six primer plano con gafas oscuras y traje verde,
   fotograma real de emisión (marca CN) reeditado en un montaje de fans sobre
   la relación Six/Rex; episodio no identificado · https://www.dailymotion.com/video/x2tkhza&t=14 · ⚠️ (una fuente, episodio sin confirmar) · frames en /tmp/claude-0/trabajo/105-generator-rex-video/sixrex/hoja_01.jpg
@@ -56,14 +56,15 @@ Hex sacados con `estilo.py` sobre fotogramas propios (no de memoria).
 - Compositor de la banda sonora orquestal/incidental: **Kevin Manthei**
   (créditos «Music by KEVIN MANTHEI» en el propio episodio) ·
   https://www.dailymotion.com/video/x1n1tr1&t=20 y ficha de la wiki
-  `generatorrex.fandom.com/wiki/Kevin_Manthei` · ✅
+  https://generatorrex.fandom.com/wiki/Kevin_Manthei · ✅
 - Tema de apertura **«Revolution»**, interpretado por la banda pop-punk
   **Orange** (Los Ángeles, ex Hellcat/Epitaph): créditos «Main Title Music by
-  ORANGE» en el propio episodio, ficha `generatorrex.fandom.com/wiki/Orange`
+  ORANGE» en el propio episodio, ficha https://generatorrex.fandom.com/wiki/Orange
   (contactados por el productor John Fang cuando Cartoon Network buscaba un
-  tema pop-punk) y confirmado además en Wikipedia (`en.wikipedia.org/wiki/
-  Orange_(band)`) y en Bandcamp de la banda (`orangeband.bandcamp.com/track/
-  revolution`, del álbum «Phoenix», 2009) · ✅ (cuatro fuentes)
+  tema pop-punk) y confirmado además en Wikipedia
+  (https://en.wikipedia.org/wiki/Orange_(band)) y en Bandcamp de la banda
+  (https://orangeband.bandcamp.com/track/revolution, del álbum «Phoenix»,
+  2009) · ✅ (cuatro fuentes)
 - La canción «Revolution» tiene versiones publicadas después en streaming:
   «Lofi Version» y «Orchestral Version» en Apple Music/Spotify (con el
   subtítulo «Generator Rex Theme Song»), señal de que la banda sigue
