@@ -116,6 +116,7 @@ Carácter, historia, miedos, cómo se expresa y lenguaje corporal, con fuente. L
 - Carácter: encantador y de modales anticuados por fuera; narcisista, sádico y hasta caníbal por dentro. Su sonrisa fija es una máscara de control, no de alegría: la usa para parecer siempre dueño de la situación · Hellaverse Wiki · ✅
 - Miedo/límite: que lo toquen sin permiso (odia el contacto, sobre todo que le toquen el pelo) y perder su libertad — tiene un trato oscuro que lo controla y no puede hablar de él directamente · Hellaverse Wiki · ⚠️
 - Cómo se expresa: acento "transatlántico" de locutor antiguo, dice frases pasadas de moda ("el cine", "querida"), puntúa con estática de radio cuando se enoja de verdad, y su forma demoníaca completa llega con un berrido de alce de fondo (ver punto 12) · Hellaverse Wiki · ⚠️
+- Muletilla/saludo: llama "querida"/"my dear" a casi todo el mundo y suelta frases como «Una sonrisa es una herramienta valiosa, querida: inspira a tus amigos, confunde a tus enemigos y te asegura llevar siempre el control» (guion original en inglés; el doblaje real de esta línea no se localizó en clip, sólo la ficha) · [Hellaverse Wiki (cita de apertura)](https://hazbinhotel.fandom.com/wiki/Alastor) · ⚠️ (guion original, no doblaje verificado)
 - Voz medida (doblaje latino, Mario Vargas): registro agudo y nasal (295 Hz, insólito para un locutor "grave"), muy expresivo (21 semitonos), rápido (3.2 palabras/s): cadencia de presentador de radio — ver punto 8 · `voz.py` · ✅
 - Cara en rabia real: fotograma propio con su forma de sombra (dientes amarillos triangulares, ojos rojos, estática verde) diciendo «Es hora de recordarles a todos por qué estoy aquí» · ver tabla de emociones abajo · ✅ (mirado y verificado)
 - Dinámica: se burla de Vox, Vaggie y Lucifer por gusto; trata a Husk "como mascota" (lo tiene atado a un trato); disfruta pasar tiempo con Niffty · Hellaverse Wiki · ⚠️
@@ -214,3 +215,37 @@ Doblajes de fans, covers y parodias en español encontrados en Dailymotion (mism
 - **"Hazbin Hotel Anime Opening [Fanmade]"**: apertura fan-hecha al estilo anime, 1205 vistas — muestra cómo el fandom cruza el estilo de la serie con estética anime, algo a evitar si se busca ser fiel al original (ver punto 12) · [Dailymotion](https://www.dailymotion.com/video/x80dx2d) · ⚠️
 - Versiones oficiales en español latino de las canciones "Loser, Baby" y "Poison" (no fandub, pero confirman que el estudio publicó el material por separado para que el fandom cantara) · resultado de búsqueda web (YouTube, no reproducido) · ⚠️
 - No encontré covers ni fandubs de Helluva Boss específicos en español (más allá de los tráilers oficiales ya usados en el punto 13); la comunidad hispana de fandub parece concentrada en Hazbin Hotel · búsquedas: «Helluva Boss fandub español» (Dailymotion, datos-voz.md, sin resultados), «Helluva Boss cover español latino» (web, sin resultados directos)
+
+## Lo mejor para la lámina
+
+- La frase de Charlie doblada «¡Bienvenidos al Hotel Hazbin!» / el tono que usa para animar a la gente encaja perfecto si el canal es de bienvenida o presentación (ver voz medida, punto 8 y 13).
+- El fotograma de Charlie riendo a carcajadas (2:09 del tráiler S2, enlace en el punto 13) es la cara más "viva" y menos genérica que se encontró: sirve de referencia de alegría real, no de sonrisa de stock.
+- La sonrisa fija y la estática verde de Alastor (fotograma 1:43, punto 13) son su seña más reconocible: cualquier lámina con Alastor debería llevar ese detalle, no una sonrisa cualquiera.
+- Frases reales con groserías propias del personaje (punto 8: Husk, Valentino, Blitzø) para cuadros de diálogo que no suenen "traducidos" ni suavizados.
+- El gag de Fat Nuggets con Angel Dust (punto 12) es reconocible al toque para cualquier fan y es tierno, útil si se quiere un ángulo menos oscuro del elenco.
+
+## No encontré
+
+- Encuesta oficial de popularidad con cifras publicadas por Amazon/A24/Vivziepop: sólo hay encuestas de foros de fans (Fandom, 136-158 votos) y un resultado suelto de Twitter sobre "el más atractivo" (Vox) sin captura directa · búsquedas: «Hazbin Hotel personaje más popular encuesta oficial Twitter Vivziepop» (es), «Hazbin Hotel favorite character poll fandom» (en) — ⚠️ extra, no obligatorio (el encargo pide "encuestas oficiales y de fans": las de fans sí están).
+- Encuesta numérica de popularidad para Helluva Boss (no encontré ninguna con cifras, sólo el consenso repetido en wikis y reseñas) · búsquedas: «Helluva Boss personaje favorito encuesta fans» (es), «Helluva Boss most popular character survey» (en, implícito en resultados).
+- Altura y cumpleaños exactos de cualquier personaje: la wiki de personajes (`hazbinhotel.fandom.com`) no registra esos campos para ninguno de los 13 personajes comprobados, sólo edad aproximada · comprobado en el wikitext de cada ficha (campo `|height` y `|birthday` vacíos).
+- Transcripción limpia del tráiler cruzado «A Match Made in Hell» (Dailymotion x9iq344): no es doblaje oficial, es un vídeo no oficial en inglés (ver corrección en el punto 8) — descartado, no es un vacío real.
+- Fandub o cover en español de Helluva Boss (sólo se encontraron para Hazbin Hotel) · búsquedas: «Helluva Boss fandub español» (Dailymotion, ya en datos-voz.md, sin resultados útiles), «Helluva Boss cover español latino» (web).
+- Reacciones con conteo real de "comentarios más votados" o "vídeos de reacción" para las escenas que hacen llorar (punto 21): se documentaron las canciones y su repercusión en streams/vistas, pero no se pudo abrir YouTube desde este servidor para leer comentarios ni ordenar por votos · YouTube pide iniciar sesión en este servidor (limitación conocida, ver AYUDANTE.md) — ⚠️ extra.
+- Confirmación con segunda fuente de prensa para Octavia, Verosika Mayday, Striker y Fizzarolli en el doblaje latino (quedan con Doblaje Wiki solo, marcados ⚠️ en la tabla del punto 8) · búsqueda: «ANMTV Helluva Boss doblaje reparto completo» no trajo el listado completo, sólo los principales.
+
+## Bitácora
+
+- Doblaje Wiki, API `action=parse&prop=wikitext` sobre «Hotel Hazbin» y «Helluva Boss» (es): reparto completo con actor original y latino, estudio y dirección · usado para el punto 8.
+- Búsqueda en Doblaje Wiki (`action=query&list=search`) con «Hazbin Hotel» y «Helluva Boss» para encontrar el nombre exacto de la página (el recolector automático había fallado) · es.
+- ANMTV (`anmtvla.com`) y SDP Noticias: reparto de doblaje latino como segunda fuente de cada nombre · es, vía WebSearch + WebFetch.
+- Hellaverse Wiki (`hazbinhotel.fandom.com`, cubre también Helluva Boss), API `action=parse&prop=wikitext` sobre Charlie Morningstar, Alastor, Angel Dust, Vaggie, Husk, Niffty, Blitzo, Loona, Stolas, Moxxie, Millie: personalidad, gustos/odios, edad · en (la wiki está en inglés; se tradujo al escribir la ficha).
+- Wikipedia en inglés: «Angel Dust (Hazbin Hotel)», «Vox (Hazbin Hotel)», «Poison (Hazbin Hotel song)»: recepción de crítica, cifras de popularidad · en, vía WebFetch.
+- `herramientas/voz.py` (Whisper local + Parselmouth) sobre 15 muestras oficiales de audio de Doblaje Wiki (una por personaje) bajadas con `curl -H "Referer: https://www.fandom.com/"`: frase textual, tono, expresividad y velocidad de cada voz · para el punto 8 y 13.
+- `herramientas/voz.py` sobre el clip de Dailymotion «A Match Made in Hell» (x9iq344): se descartó, no es doblaje oficial (ver punto 8); tardó más de 280 s sin terminar de transcribir por el ruido de fondo.
+- `herramientas/fotogramas.py --cada 3` sobre 4 tráileres oficiales de Dailymotion (Hazbin Hotel S1 subtitulado, Hazbin Hotel S2 doblado, Helluva Boss S3 doblado, y el clip x9iq344 que resultó no oficial): hojas de contacto y fotogramas sueltos con `&t=` · para el punto 13.
+- API de Dailymotion (`api.php`... en realidad `api.dailymotion.com/videos?search=`) con «Hazbin Hotel español latino escena», «Helluva Boss español latino clip», «Hazbin Hotel cover español opening»: clips oficiales y de fans · es.
+- WebSearch: «ANMTV Hazbin Hotel doblaje latino reparto voces» / «ANMTV Helluva Boss doblaje latino reparto de voces» (es), «Hazbin Hotel favorite character poll fandom most popular» (en), «Helluva Boss personaje favorito encuesta fans» (es), «Hazbin Hotel memes fandom running jokes» (en), «Hazbin Hotel escena que hace llorar Poison Hell's Greatest Dad Loser Baby» (es), «Hazbin Hotel fandub español latino YouTube canal» (es), «"Hazbin Hotel" reception praise fans identify with» (en).
+- Arctic Shift (Reddit) para r/Hazbinhotel: dio timeout, no se insistió más de dos veces (regla de AYUDANTE.md).
+- `herramientas/navegar.py` sobre thetoptens.com: falló (no hay navegador Chromium instalado en este contenedor) — se documenta como límite del entorno, no se insistió.
+- No hay `biblias/55-hazbin-hotel/partes/voz.md` ni carpeta `biblias/55-hazbin-hotel/` todavía: nada que evitar repetir de la serie hermana.

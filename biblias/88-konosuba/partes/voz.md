@@ -298,6 +298,27 @@ citados por los fans como «triste-tierno» de toda la serie · https://konosuba
 (y ya confirmado indirectamente por su spin-off propio de novelas, *Yunyun's
 Wonderful Now!*, señal de cariño editorial hacia el personaje).
 
+**Arco, miedos y dinámicas** (Wikipedia «KonoSuba», reseñas de ANN/Crunchyroll
+ya citadas en el punto 21, y la página de la película en el punto 21) ✅:
+Kazuma empieza como un cínico que sólo quiere sobrevivir cómodo y termina
+asumiendo de verdad el papel de líder de su grupo — su miedo de fondo no es
+morir (ya murió una vez, de vergüenza, por un tractor) sino fallarle a la
+gente que depende de él, por eso estalla cuando el grupo la lía. Aqua teme
+que la vean como una diosa inútil y que la manden de vuelta al Cielo en
+desgracia, aunque lo disimula con bravuconería. Megumin teme, sobre todo en
+la película *Legend of Crimson* (punto 21), que le pase algo a su Aldea
+Carmesí y a su familia — ahí es cuando deja de lado su lado cómico y pelea
+en serio junto a Yunyun. Darkness, irónicamente, no teme el peligro físico
+(lo busca) pero sí que la vean como «poco femenina» por su fuerza y altura.
+Dinámica de grupo: Aqua y Kazuma se pelean casi todo el episodio pero se
+cubren mutuamente en apuros reales; Megumin y Yunyun son rivales-mejores
+amigas desde la infancia; Darkness es quien más veces salva literalmente al
+grupo (su defensa/aguante) y a la vez la que menos se queja de que se rían
+de ella. Kazuma es quien hace reír a las tres con su sarcasmo; Aqua es con
+quien más discute (ambos se llaman inútiles); Megumin es con quien tiene más
+química de pareja no oficial (única heroína isekai en esa posición, según
+SportsKeeda en el punto 21).
+
 **Su cara en cada emoción** (fotograma y minuto; los tráileres traen
 tarjeta con el nombre del personaje y su seiyū, así que la identificación es
 segura):
@@ -472,3 +493,89 @@ en concreto es más una redifusión del doblaje oficial que un fandub nuevo
 (la traducción y el reparto suenan profesionales e iguales a los de
 Doblaje Wiki, no a una producción de aficionados) — lo dejo anotado aquí
 para que quien revise no lo cuente dos veces como «fandub distinto».
+
+## Lo mejor para la lámina
+
+- El conjuro completo de Megumin («Darker than black... Explosion!») es la
+  frase más reconocible de toda la serie: funciona para un canal ligado a
+  intensidad o remate cómico, con su hechizo dibujado en el fondo.
+- El servidor es de doblaje: usar una frase real y medida del doblaje
+  latino oficial (punto 8) en vez de un globo genérico encaja mejor que
+  cualquier otra serie ya investigada — «Te mando a volar unas piezas del
+  rompecabezas» es rara, graciosa y 100% Konosuba.
+- La serie no tiene canal asignado todavía (nota del encargo): por el peso
+  real del fandom hispano de doblaje (r/Megumin, los covers de opening con
+  más de 360 mil vistas, el fandub completo de 2019), encaja de forma
+  natural en **general-doblaje** o en un hilo de **noticias-anime**, más que
+  en un canal de arte puro.
+- Darkness con su propio tagline oficial «ドMのクルセイダー» (la cruzada
+  masoquista) es un gancho directo para explicar personajes secundarios
+  queridos, con humor ya validado por el propio estudio.
+- Aqua desastrosa con el alcohol y el dinero es, con datos reales de Reddit,
+  el gag que más comparte el fandom — mejor material para una lámina
+  «graciosa» que la explosión de Megumin, que ya es más esperada.
+
+## No encontré
+
+- Página archivada de Sneaker Bunko con los votos exactos de la encuesta
+  oficial de personajes: el proxy corta la conexión a `web.archive.org`
+  (`ws_closed_mid_exchange`) en los dos intentos que hice; quedó sólo como
+  cita de Wikipedia, ⚠️.
+- TV Tropes, página «Memes/Konosuba»: bloquea con 403 tanto a WebFetch como
+  a curl; `herramientas/navegar.py` falló porque no hay navegador Chromium
+  instalado en este contenedor («Executable doesn't exist at
+  /opt/pw-browsers/...»). Aviso para el dueño: esa herramienta no funciona
+  en esta sesión.
+- Minuto exacto y transcripción de la escena final de *Legend of Crimson*
+  (Megumin llorando de alegría): el vídeo está sólo en YouTube, bloqueado.
+  Sólo dejo el título real del vídeo y el resumen de la escena por
+  Wikipedia, marcado ⚠️.
+- Altura y cumpleaños exactos de Aqua, Megumin, Darkness y Yunyun: AniList
+  sólo trae cumpleaños (ya en la tabla del punto 20), no altura; la wiki en
+  inglés tampoco la trae en la infobox salvo para Kazuma (162 cm). Busqué en
+  el wikitext de las 4 fichas sin encontrar el campo.
+- Cara de **tristeza** de Aqua y de **vergüenza** de Darkness con fotograma
+  propio: los tres vídeos que miré (tráiler T3, vídeo de anuncio, 10º
+  aniversario) no traen un plano claro de esas dos emociones — helping falta
+  mirar un episodio completo con `episodio.py`, que no llegué a usar por
+  tiempo.
+- Los 8 clips oficiales de Crunchyroll listados en el punto 8 (geobloqueo
+  LatAm confirmado con `yt-dlp`, no bloqueo de sesión).
+- Vistas y fecha exactas de los fandubs de TikTok (Karl el Kaballo y otros):
+  sólo aparecen citados en resultados de búsqueda web, sin poder abrir
+  TikTok directamente desde aquí.
+
+## Bitácora de búsqueda
+
+- Doblaje Wiki, API `action=parse` (es): ficha de franquicia (ya en
+  `datos-voz.md`) y ficha de la serie completa (nueva, con «Datos de
+  interés», créditos y «Muestras multimedia»); `imageinfo|metadata` de 9
+  `Archivo:` de vídeo para sacar sus videoId de YouTube sin pasar por
+  YouTube.
+- `konosuba.fandom.com`, API `action=parse` (en): fichas completas de
+  Kazuma, Aqua, Megumin, Darkness y Yunyun.
+- `voz.py` sobre 2 clips de Dailymotion (`x8qwfj9`, `xa0oox0`), modelos
+  `tiny` y `small`; 2 intentos de bajar clips oficiales de YouTube con
+  `voz.py` (fallaron por geobloqueo, no por sesión).
+- `fotogramas.py --cortes` sobre 2 vídeos de Dailymotion (`x9avkfi`,
+  `x8qwfj9`) y `--cada 15` sobre uno más (`xasu3fq`); 6 fotogramas sueltos
+  en grande con `--fotograma`.
+- Búsquedas web (todas en español o inglés, sin encontrar fuentes propias en
+  japonés o coreano/chino más allá de lo ya citado de Wikipedia): «Konosuba
+  encuesta popularidad personajes oficial Crunchyroll Anime Awards premio»,
+  «ANMTV Konosuba doblaje latino reparto», «Konosuba fandom memes Megumin
+  Day explosion», «Konosuba Know Your Meme Explosion Kazuma meme»,
+  «Konosuba most emotional scene reddit», «reddit r/Konosuba identify with
+  character», «Konosuba opening cover español latino fandub youtube»,
+  «Konosuba fandub tiktok español parodia».
+- `arctic-shift.photon-reddit.com`: `subreddit=Konosuba` (100 posts, sin
+  filtro de fecha) y con `query=favorite character` / `query=cry` (sin
+  resultados en estos dos últimos).
+- Wikipedia (en), wikitext crudo vía `action=raw`: artículos «KonoSuba» y
+  «Megumin», para sacar las citas originales (Crunchyroll News, Anime News
+  Network, Newtype) en vez de quedarme con el resumen.
+- `yt-dlp --skip-download --print` para metadatos (vistas, canal, fecha) de
+  5 vídeos de YouTube sin necesitar sesión — funciona aunque bajar el audio
+  o vídeo de clips geobloqueados falle.
+- `navegar.py` sobre TV Tropes: falló por falta de navegador Chromium en el
+  contenedor (ver «No encontré»).

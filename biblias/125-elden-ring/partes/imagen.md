@@ -26,14 +26,3 @@ Elden Ring tiene arte oficial enorme: renders promocionales, key art de expansi�
 - Radahn (Promised Consort, DLC) rediseño con más armadura dorada y halo, primer plano (pose "de cerca", cambia mucho su diseño) · https://static.wikia.nocookie.net/eldenring/images/f/f0/Promised_Consort_Radahn_CloseUp.jpg · ✅ (dos ángulos del mismo boss: CloseUp y Gate) · 2560×1440
 - Icono/wallpaper promocional genérico reutilizado en toda la wiki (título del juego sobre fondo verde) · https://static.wikia.nocookie.net/eldenring/images/1/18/Promotional_Wallpaper_2.png · ⚠️ (se repite tanto en las 4 páginas de personaje que probablemente sólo sea el icono por defecto de la wiki, no arte específico de cada uno) · 3132×3132
 
-## Lo mejor para la lámina
-
-- Malenia key art de boss (alas, brazo dorado, capa roja) para protagonizar una lámina de canal de **arte** o **edición**: pose de combate muy reconocible, paleta rojo óxido/dorado ya medida (ver punto 15).
-- Melina sentada junto al fuego de gracia (hoja 1, nº 72-75): pose tranquila, sirve para un canal de charla/bienvenida en vez de combate; el brasero azul es un objeto del mundo que puede llevar texto alrededor.
-- Estatua de los Semidioses (Malenia + Miquella abrazados, ruinas de Haligtree): fondo de piedra cubierta de musgo, perfecto para "fantasía oscura, ruinas" del encargo; sirve de escenario de lámina sin que el personaje tape el texto.
-- Modelo 3D con licencia de "Old Church Ruins" (Sketchfab, ver punto 3) para maquetar el fondo en Blender con la misma luz de las ruinas del juego.
-- Paleta de Malenia (#AD4B36 óxido, #DA7650 naranja quemado, #E7B18B piel/dorado) + paleta de ruinas (#974428, #CA7438, #1C0F0B) ya medidas: coherentes entre sí, listas para usar en la lámina sin tener que adivinar tonos.
-
-## No encontré
-
-- No encontré el tamaño de píxel exacto de la carátula oficial del juego (portada física de Bandai Namco): la wiki no aloja la carátula limpia, sólo variantes recortadas. Búsqueda: `site:eldenring.fandom.com box art`, `Elden Ring cover art official png` (inglés). Pendiente confirmar en Steam CDN si hace falta en alta.

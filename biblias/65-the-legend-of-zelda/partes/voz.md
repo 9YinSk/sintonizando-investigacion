@@ -368,6 +368,10 @@ que el de series animadas.
 - **Covers de opening en español**: Zelda no tiene canción de apertura cantada (su música es
   instrumental), así que busqué covers de temas instrumentales icónicos («Zelda's Lullaby», «Hyrule
   Field») y no llegué a esa búsqueda por tiempo; queda pendiente si el redactor lo necesita.
+- **Nombre exacto de la música** de la escena del llanto de Zelda (punto 21): busqué «Breath of the
+  Wild Zelda memory crying scene music track name soundtrack "Final Trial"» y sólo confirmé el nombre
+  de la misión asociada («Final Trial»/«Recovered Memory»), no el título de la pista musical exacta;
+  lo dejo para quien tenga acceso al soundtrack oficial completo (investigador de vídeo/música).
 - **Parodias/memes específicamente hispanos** que sean virales de forma reconocible (tipo sonido de
   TikTok): no encontré uno propio en español, más allá de que el fandom hispano comparte los mismos
   memes en inglés (Navi, CD-i, «I am Error»).
@@ -396,9 +400,11 @@ que el de series animadas.
   Breath Wild memorias aliados latino», «Tears of the Kingdom trailer español latino», «Zelda Tears
   Kingdom cinematica español», «Zelda Champions Ballad Español Latino Pelicula» → de ahí salieron los
   tráilers usados para los fotogramas de emoción y el fandub de Skyward Sword.
-- `herramientas/fotogramas.py` sobre 3 vídeos de Dailymotion: tráiler final de *Tears of the Kingdom*
+- `herramientas/fotogramas.py` sobre 4 vídeos de Dailymotion: tráiler final de *Tears of the Kingdom*
   (x8k22ef, contacto cada 3 s + 2 fotogramas grandes), tráiler de *The Champions' Ballad* (x6bc0bm,
-  contacto cada 4 s), primeros minutos doblados de *BOTW* (x5ahli0, 0:00-3:00 cada 5 s).
+  contacto cada 4 s), primeros minutos doblados de *BOTW* (x5ahli0, 0:00-3:00 cada 5 s) y el tráiler de
+  anuncio E3 2019 de la secuela (hoy *Tears of the Kingdom*) (x7au2j3, contacto cada 2 s + 2 fotogramas
+  grandes en 0:34 y 0:46). Se borraron todos los `video.mp4` de trabajo tras sacar las hojas (~92 MB).
 - `yt-dlp --dump-json` sobre 2 vídeos de YouTube (fandubs): los dos devolvieron 429/«confirma que no
   eres un bot» — confirma el bloqueo de YouTube que avisa AYUDANTE.md.
 - `herramientas/hermanas.py 65-the-legend-of-zelda`: sin serie hermana para este encargo.
