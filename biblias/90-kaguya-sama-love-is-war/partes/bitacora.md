@@ -81,3 +81,59 @@
 **Fontsource/fontTools** (obligatorio del punto 5, nuevas de este encargo): `zen-old-mincho` (peso 900/Black), `permanent-marker`, `nosifer` — las tres bajadas en `.ttf` subset `latin` y comprobadas con `fontTools.ttLib.TTFont(f).getBestCmap()` para á/é/í/ó/ú/ñ/¿/¡/Á/Ñ: las tres completas ✅. Script y `.ttf` en `/tmp/claude-0/trabajo/90-kaguya-sama-love-is-war-texto/fonts/`.
 
 No quedan puntos obligatorios pendientes de este rol (5, 6, 11, 18, 24, 25 completos, con el enfoque de comedia y rótulos que pide el encargo 90). Parte terminada.
+
+### Bitácora de voz
+
+**Punto de partida** (no repetido): `partes/datos-voz.md` (reparto latino sin
+confirmar de Doblaje Wiki, muestras `.ogg`, «Datos de interés» del doblaje,
+resultados de Dailymotion) y `biblias/43-kaguya-sama-love-is-war/partes/voz.md`
+completo (leído con `seccion.py 43-kaguya-sama-love-is-war --rol voz`): de ahí
+sale qué NO repetir (puntos 7/8/12/13/20/21/22 ya hechos por 43 con foco
+general) y qué secundarios cómicos priorizar con el enfoque de este encargo
+(comedia): Kei, Nagisa, Tsubasa, Adolphe, Kobachi, Sr. Shirogane y Moeha.
+
+- Acciones 1-45 (tanda anterior, ya en `voz.md`): reparto latino de 3
+  secundarios con segunda fuente (`funianime.com`, `anmtvla.com`), 6 muestras
+  de audio transcritas con `voz.py` (Kei, Nagisa, Tsubasa, Adolphe, Kobachi,
+  Sr. Shirogane) y el hallazgo de Chika Fujiwara con página propia en
+  Wikipedia (puntos 7 y 8).
+- Esta tanda (puntos 12, 13, 20, 21, 22): `curl` a
+  `kaguyasama-wa-kokurasetai.fandom.com/api.php` (`action=parse&prop=wikitext`)
+  — fichas completas de Kei, Nagisa, Tsubasa, Adolphe, Kobachi, Papá Shirogane
+  y Moeha, más los capítulos 6, 73, 100, 104, 106, 122, 149, 191 y 200 para
+  confirmar qué gags están animados y en qué episodio.
+- TV Tropes, página **Funny** (no la YMMV que usó 43):
+  `tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar` — el texto
+  normal de `navegar.py` sólo trae los títulos de carpeta (contenido oculto
+  por CSS, no JavaScript bajo demanda); resuelto con `navegar.py --html --max
+  0` + BeautifulSoup sobre `div.folder` (32 volúmenes, ~104 000 caracteres,
+  filtrados por nombre de personaje con Python, nunca impresos enteros).
+  Nota para el resto del equipo: `pip install beautifulsoup4` no venía
+  instalado, hizo falta para esto.
+- `graphql.anilist.co` (`Character(search:)`, con `User-Agent` propio tras un
+  primer 403 sin cabecera): cumpleaños, sangre y favoritos de los 7
+  secundarios — segunda fuente independiente para la tabla del punto 20,
+  coincide con la wiki en los 6 personajes con dato disponible.
+- `api.php?action=query&prop=imageinfo&iiprop=url|size` sobre 16 archivos de
+  las galerías de estos personajes: 9 imágenes descargadas (cabecera
+  `Referer: fandom.com`) a `scratchpad/90-voz-img/` y **miradas con Read**
+  antes de describir cada expresión (obligatorio, no de memoria).
+- `arctic-shift.photon-reddit.com`: confirmado que el parámetro correcto es
+  `title=`, no `q=` (con `q=` siempre da 0 aunque haya hilos) — hallazgo útil
+  para el resto del equipo. `subreddit=anime` con `title=Papa%20Shirogane` y
+  `title=Kaguya-sama%20funniest` dan resultados reales; `subreddit=Kaguya_sama`
+  sigue en 0 (cuarentena, ya lo sabía 43).
+- `yt-dlp --skip-download --print` sobre 4 vídeos hallados por búsqueda: 2 con
+  metadato completo, 2 con «Sign in to confirm you're not a bot» (reintentado
+  una vez, sin insistir más).
+- WebSearch (6, español e inglés): DIO/Papá Shirogane, chiste del nombre de
+  Tsubasa, blooper/anécdota de doblaje latino, fandub español de Papá
+  Shirogane, reacciones a «Otona e no Kaidan», rankings de «anime más
+  gracioso».
+- WebFetch sobre CBR y ScreenRant (listas de «anime más gracioso»): puesto 3
+  en ambas, de forma independiente, con cita textual — no se infirió de
+  memoria.
+
+No quedan puntos obligatorios pendientes de este rol (7, 8, 12, 13, 20, 21 y
+22 completos, con el enfoque de comedia que pide el encargo 90). Parte
+terminada.

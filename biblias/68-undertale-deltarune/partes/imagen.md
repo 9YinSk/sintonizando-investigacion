@@ -74,6 +74,7 @@ Ralsei | Bufanda/capa interior | #CD1A56 | mismo archivo
 
 - Todos ✅: cada hex viene de `herramientas/estilo.py` sobre la imagen oficial citada **y** coincide con la descripción textual de la wiki (Appearance de cada ficha, ver bitácora). El texto de la wiki confirma «blue hoodie» (Sans), «orange-red cape... blue briefs» (Papyrus), «long purple robe» (Toriel), «blue scales... red ponytail» (Undyne), «light blue shirt» (Frisk), «lime shirt with one horizontal yellow stripe» (Kris mundo real), «silver armor... navy blue bodysuit... pink cape... cyan skin» (Kris Dark World), «scaled skin is purple... long dark purple hair» (Susie), «green, round glasses... pink scarf... green cloak with a black heart» (Ralsei).
 - Ropa icónica que todo fan reconoce: la sudadera azul de Sans (con capucha gris) y sus slippers; el «battle body» de Papyrus (su disfraz de fiesta que usa como armadura, con el símbolo tipo Starman de MOTHER); la túnica morada de Toriel con el Delta Rune bordado al pecho; el jersey a rayas azul/magenta de Frisk; el jersey verde de Kris (mundo real) contra su armadura de caballero plateada y capa rosa en el Dark World (el cambio de vestuario más marcado de toda la franquicia).
+- Accesorios y peinado (de la wiki, texto «Appearance»): Undyne lleva parche en el ojo izquierdo y se lo cambia por uno claro en su cita con Alphys (donde también usa polera de cuello alto y chaqueta de cuero negra); Toriel a veces usa lentes de lectura; Papyrus no usa bufanda, es Undyne quien tiene cola de caballo roja larga; Ralsei pasa de gorro puntiagudo (capítulo 1, tapa sus cuernos) a mostrar sus cuernos rosas sin gorro desde el capítulo 2 · https://undertale.fandom.com/wiki/Undyne#Appearance · https://deltarune.fandom.com/wiki/Ralsei · ✅
 
 ## 16 · Ciudades, paisajes y fondos de pantalla
 
@@ -103,3 +104,51 @@ Undertale/Deltarune no tienen manga oficial, así que no hay tramas de screenton
 - **Patrones de ropa** (repetidos, no un solo color): el jersey de Frisk es celeste con rayas horizontales magenta; el de Kris (mundo real) es verde lima con una sola raya amarilla; la túnica de Toriel lleva el Delta Rune bordado al pecho (no es un patrón repetido, es un emblema único). Fuente: Appearance de cada ficha (undertale.fandom.com / deltarune.fandom.com) · ✅
 - **Emblema del Delta Rune**: «un orbe entre dos alas y tres triángulos debajo, con el triángulo del medio invertido» · https://undertale.fandom.com/wiki/Delta_Rune · ✅. La wiki tiene su propio SVG de referencia visual (`File:Delta rune.svg`) pero es una recreación de fans para ilustrar el artículo, no un recurso con licencia libre para reutilizar: no encontré una versión vectorial CC0/libre del emblema (⚠️, para la lámina toca redibujarlo a mano con Illustrator/Blender siguiendo esa descripción, nunca calcarlo de merchandising con copyright).
 - **Logo de Undertale/Deltarune**: son logotipos tipográficos (no un emblema con textura), eso lo cubre el investigador de texto en el punto 5.
+
+## 23 · Colaboraciones y cruces
+
+- **Super Smash Bros. Ultimate (Nintendo, 4-sep-2019)**: disfraz oficial de Sans para el Mii Gunner (usa un Gaster Blaster como cañón), con un remix de MEGALOVANIA hecho por el propio Toby Fox como música desbloqueable. Primer personaje de un juego indie en tener disfraz Mii. Revelado en el «Mr. Sakurai Presents» de Banjo & Kazooie · https://www.nintendo.com/en-gb/DLC/Sans-Mask-Outfit-1635158.html · https://www.ssbwiki.com/Sans · ✅ (dos fuentes)
+- **Undertale × Square Enix / Final Fantasy (Fangamer, 2026)**: colaboración oficial de merchandising; stickers, tenugui, pouch y tote bag con Toriel, Undyne, Mettaton, Papyrus, Alphys, Frisk y Sans vestidos con clases de trabajo de Final Fantasy (Papyrus = Mystic Knight de FFV). Además, remera «Human and Tonberry» de Lit Bāff Apt. (marca de ropa de Square Enix) · https://x.com/FangamerJP/status/2100238291136127240 · https://www.fangamer.com/products/tonberry-undertale-shirt · ✅ (dos fuentes)
+- **Undertale Cafe × Requiem Cafe (Fangamer, Anaheim, California, 15-sep al 10-oct-2022)**: café temático con menú especial («Sans Soda», «Toriel's Taro Milk Tea») y merchandising exclusivo con arte y logo propios del evento · https://nintendosoup.com/undertale-collaboration-announced-for-requiem-cafe-in-anaheim/ · https://lariatnews.com/life/fantasy-themed-cafe-in-anaheim-opens-a-crossover-event-based-on-the-game-undertale/ · ✅ (dos fuentes)
+- **10.º aniversario de Undertale (2025-2026)**: serie de eventos oficiales (anunciados por Toby Fox/Fangamer) con merchandising y contenido conmemorativo, algunos ya con guiños a Deltarune · https://undertale.wiki/w/UNDERTALE_10th_Anniversary_events · ⚠️ (una fuente, wiki independiente a Fandom; no alcancé a cruzarla con un anuncio oficial directo de Toby Fox)
+- **Figuras oficiales** (su pose sirve de referencia 3D real, no dibujada): Nendoroid de Good Smile Company (Sans, Papyrus, Toriel, Frisk, Undyne, Ralsei) y la línea «Little Buddy» de peluches con pose fija de pie, ambas vistas en las fichas de personaje · ✅ (imágenes propias, ver punto 1)
+- **Cosplay real** (para materiales y volumen, no ilustrado): serie de fotos «AN19 - Undertale & Deltarune» en Anime NYC 2019, licencia CC BY 2.0, de Xander Ashburn (Flickr/Wikimedia Commons) — 18 fotos con grupos completos (Kris, Susie, Ralsei, Sans, Papyrus) · https://upload.wikimedia.org/wikipedia/commons/f/f2/AN19_-_Undertale_%26_Deltarune_-_Saturday_%2822_of_35%29_%2848217370562%29.jpg · https://live.staticflickr.com/65535/48217338581_46cf766c1e_b.jpg · ✅ (licencia libre verificada, dos fotos de la misma serie)
+- Búsquedas sin resultado claro: colaboración con un juego gacha o un evento tipo Fortnite (no encontré ninguna oficial; sólo memes/mods de fans) · búsquedas «Undertale Fortnite collab», «Undertale gacha crossover» (⚠️, va a «No encontré»).
+
+## Lo mejor para la lámina
+
+1. Sans con su sudadera azul (#2F79B6) y su sonrisa, en pose de «pointer fingers» — el gesto más citado del fandom — sobre un fondo de Snowdin en penumbra azul/naranja (paleta medida arriba).
+2. El contraste Kris mundo real (jersey lima #D8E95C) / Kris Dark World (armadura plateada + capa rosa #BE2768): es EL cambio de vestuario más reconocible de Deltarune, ideal para «antes/después» en una lámina.
+3. Toriel con su túnica morada (#5A5790) y el Delta Rune al pecho, leyendo — conecta directo con «cómo se usa este canal» si el canal es de lectura/guías.
+4. El Real Knife (objeto icónico, con modelo 3D libre) como prop en primer plano para dar profundidad sin tapar al personaje.
+5. Paleta cálida de Card Castle Town (Deltarune cap. 5, faroles #EFA050 sobre cielo #3D4267) para una lámina nocturna con mucho ambiente.
+
+## No encontré
+
+- Colaboración oficial tipo Fortnite/gacha: sólo hay mods y memes de fans, ninguna con licencia · búsquedas «Undertale Fortnite collab» (inglés), «Undertale gacha crossover» (inglés).
+- Versión vectorial libre (CC0) del emblema Delta Rune: sólo existe el SVG de la propia wiki, que es una recreación con copyright del juego, no un recurso reutilizable (⚠️, ver punto 19).
+- Modelos 3D con licencia libre de localizaciones de Undertale más allá de Snowdin y la casa de Undyne: no encontré Waterfall, Hotland ni New Home en Sketchfab con descarga · búsqueda «Waterfall Undertale», «Hotland Undertale 3d model» (inglés).
+- Fondos de pantalla oficiales (hechos por Toby Fox/Fangamer) en alta: lo que hay en Wallhaven es todo de fans; no hay un pack de wallpapers oficial documentado (⚠️).
+
+## Cumplimiento del encargo (mis puntos)
+
+Punto | Estado | Por qué
+---|---|---
+1. Arte oficial variado | ✅ | 113 imágenes de la wiki de Undertale + 60 de la de Deltarune, miradas y descritas por pose
+3. Fan art y 3D con licencia | ✅ | Danbooru + Safebooru (autor real) + 12 modelos Sketchfab (personajes, sitios y objetos) con licencia y crédito
+15. Vestuario con hex medidos | ✅ | 13 hex medidos con `estilo.py`, cruzados con el texto «Appearance» de cada ficha
+16. Fondos de pantalla y sitios | ✅ | 4 localizaciones con paleta medida + 8 wallpapers de Wallhaven con autor/origen
+19. Texturas 2D | ⚠️ | no hay manga (se explica por qué); sí hay dithering libre, texturas CC0 de sitio y el emblema descrito, pero sin vector libre del Delta Rune
+23. Colaboraciones y cruces | ✅ | Smash Bros (Nintendo), Square Enix/Final Fantasy (Fangamer), café temático, figuras oficiales, cosplay con licencia
+
+## Bitácora
+
+- Fandom API (`undertale.fandom.com/api.php`): páginas de Sans, Papyrus, Frisk, Toriel, Undyne ya traídas por `recolectar.py`; comprobé a mano que Kris/Susie/Ralsei no existen ahí (`list=allpages&apprefix=`, español/inglés).
+- Fandom API (`deltarune.fandom.com/api.php`): confirmé que sí existen ahí (Kris, Susie, Ralsei), corrí `investigar_serie.py --serie Deltarune --wiki deltarune --paginas Kris Susie Ralsei` → 2 hojas nuevas, 60 imágenes grandes.
+- `action=parse&prop=wikitext` en ambas wikis para las secciones «Appearance» (inglés) de los 8 personajes, para cruzar los hex medidos con la descripción textual.
+- `herramientas/estilo.py` sobre 12 imágenes oficiales (tarjetas de Steam, peluches, arte de Famitsu, sprites, capturas de localización) para paleta y tipo de sombreado.
+- Danbooru `related_tag` (inglés) y Safebooru (búsqueda por personaje) para vocabulario y fan art mejor puntuado, con autor/origen real.
+- Sketchfab API (`api.sketchfab.com/v3/search`, inglés): personajes (ya en `datos-imagen.md`) + búsquedas propias «Snowdin», «Waterfall Undertale», «Delta Rune symbol», «Undertale knife», «Card Castle Deltarune».
+- ambientCG API (`full_json?type=Material&q=snow|lava`) para texturas CC0 de sitio.
+- Búsqueda web (inglés): «Undertale Deltarune official collaboration crossover event pop-up cafe merchandise», «Sans Papyrus official crossover Smash Bros Fortnite Steam collab», «Sans Mii Gunner costume Super Smash Bros Ultimate Nintendo official DLC Megalovania», «Undertale Final Fantasy Fangamer crossover merchandise what is it», «free pixel dithering brush pack CC0 texture Aseprite Photoshop retro».
+- Wallhaven y Openverse: ya traídos por `recolectar.py`, comprobé licencias (CC BY 2.0 en las fotos de cosplay de Wikimedia Commons) y elegí las mejores para la lámina.

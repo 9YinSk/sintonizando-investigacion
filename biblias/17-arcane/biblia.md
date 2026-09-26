@@ -8,12 +8,24 @@ fecha: 2026-09-24
 # Biblia · Arcane — para #proyectos y #arte
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Por curl y por WebFetch daban
+> - **Dos pasadas.** La primera (24-sep-2026), con la red cerrada: es lo
+>   que cuentan los puntos de abajo. La **segunda (26-sep-2026), con la
+>   red abierta**, la hicieron cuatro investigadores (imagen, vídeo, voz y
+>   texto) y este redactor. Se pudo usar: la wiki de Fandom por su API
+>   (`investigar_serie.py`: 268 imágenes, 3 hojas en `hojas/`),
+>   **Doblaje Wiki por su API**, **los episodios de la T1 y el 2×04 en
+>   Internet Archive** mirados con `fotogramas.py` (minutos exactos),
+>   Dailymotion (tráileres), las APIs de Sketchfab, Poly Haven y
+>   ambientCG (licencias), fontTools (letras), MusicBrainz y Reddit por
+>   Arctic Shift. **No respondieron**: la descarga de YouTube (pide
+>   sesión), las páginas de Wayback Machine, TCRF (Cloudflare), IMDb y
+>   Wikipedia (429). Qué cambió: justo debajo.
+> - Primera pasada: la red estaba cerrada. Por curl y por WebFetch daban
 >   error: Fandom (Arcane Wiki y **Doblaje Wiki**), la wiki de League of
 >   Legends, arcane.com, leagueoflegends.com, Sketchfab, ArtStation,
 >   Game UI Database, Bolavip, El Vortex, Bubbleblabber. Por eso **no se
 >   pudo correr** `herramientas/investigar_serie.py`: **no hay hojas de
->   contacto** ni carpeta `hojas/`.
+>   contacto** ni carpeta `hojas/` (en la segunda sí: §3.7).
 > - Mi fuente principal fue la búsqueda web: **50 búsquedas** en
 >   español, inglés, francés, chino y coreano (lista en §21).
 > - GitHub sí respondía por `git` y por `raw`. De ahí saqué lo mejor:
@@ -22,11 +34,69 @@ fecha: 2026-09-24
 >   subo al repositorio: cada imagen tiene su enlace directo.
 > - Arcane **no es anime**: no está en el espejo de subtítulos de
 >   kitsunekko, y los sitios de subtítulos no abrían. **No hay minutos
->   de subtítulo**: doy episodio y escena, con su fuente.
+>   de subtítulo**: doy episodio y escena, con su fuente. En la segunda
+>   pasada los minutos salen de **mirar el episodio** (§2, §8, §15).
 > - **Cómo leo los episodios**: «1×04» es temporada 1, episodio 4.
 >   Arcane tiene 2 temporadas de 9 episodios, en 3 actos cada una.
 > - ✅ **confirmado**: dos fuentes. ⚠️ **dudoso**: una sola fuente, o lo
 >   describo de memoria. Lo de memoria siempre va marcado.
+
+## Segunda pasada · qué cambió
+
+**Corregido (antes → ahora):**
+- **La gema estabilizada con Heimerdinger**: «1×03» → **1×04, min
+  11:14-13:14** (§2.1).
+- **Jayce en latino**: «Miguel de León, ¿o Michel Tejerina?» → **Miguel
+  de León** ✅ desde el capítulo 1; Tejerina es del doblaje de España
+  (§10.1). Heimerdinger, Vander, Mel y Marcus pasan a ✅.
+- **Piltover x Zaun Regular**: «licencia ⚠️» → **es de pago**, no usar.
+  **Arcane Nine**: «tildes ⚠️» → libre y con tildes, ñ, ¿ ¡ (§6.1).
+- **Beaufort y Spiegel** (las del juego): «de memoria» → autores y
+  licencia comprobados; sustitutos libres **Cinzel** y **Barlow** (§6).
+- **Licencias de Sketchfab**: «las dio el buscador» → leídas por la
+  API; la granada es de **AllanJayBranscombe** y el guantelete de Vi de
+  potias es **CC BY-NC-ND** (sólo mirar) (§4.1).
+- **Silco apuñala a Vander**: la parte de voz decía 1×06 → **1×03**, en
+  la fábrica, durante las explosiones (ficha de Vander por la API,
+  §18b.4).
+- **El emblema de Zaun** no es un triángulo: es un **vial químico
+  alado**; el de Piltóver, un **Hexgate** con engranaje (§3.3, §18b.8).
+- **Fortiche y Gorillaz**: «Saturnz Barz» y «Tranz» no son suyos (§18b.7).
+- **Dos fotogramas de 1×03 con identidad dudosa** (19:55 «Silco» y
+  20:10 «Vander joven»): marcados ⚠️ en §2.3.
+- `referencias.json`: fuera **36 capturas de Steam** de juegos que sólo
+  se llaman «Arcane», 17 fotos de Flickr sin relación y 6 fan arts de
+  Spider-Gwen.
+
+**Añadido:**
+- **Minutos de verdad**: la T1 bajada de Internet Archive y mirada con
+  `fotogramas.py` (§2.1-2.3, §12, §15).
+- **La cara en cada emoción** con fotograma y `?t=` (§8): 20 filas. Las
+  tres últimas del investigador de voz, **Vi alegre (1×08, 14:16)**, **Vi
+  fuera de lugar (1×08, 13:40)** y **Jinx alegre (2×04, 6:10)**, las
+  volví a sacar y a mirar. Y las **dinámicas** para láminas en grupo.
+- **Colores medidos en fotogramas** (8 escenas y 2 pelos) y el oro de
+  los escudos, `#C7A965` (§5.2, §16).
+- **Letras**: una para cada uso, con Barlow, Cardo, Almendra Display y
+  EB Garamond comprobadas con fontTools (§6).
+- **Doblaje**: reparto nuevo (Powder niña, Sevika, Singed, Ekko
+  enmascarado), los «datos de interés» y las muestras de audio (§10).
+- **Vídeos con minuto**: *Enemy* entero, el teaser de 2019, el tráiler
+  T1 y los créditos (§12).
+- **IA de texto**: reglas de voz y 14 frases reales por emoción (§18.6).
+- **Los puntos 18-25**, que no existían: técnica y cómo copiarla
+  (§18b.1), texturas 2D (§18b.2), gustos (§18b.3), por qué la aman
+  (§18b.4), fan dubs (§18b.5), colaboraciones (§18b.6), obras parecidas
+  (§18b.7) y el mundo (§18b.8).
+- **Hojas de contacto**: 3 en `hojas/` (§3.7).
+- **Conceptos**: A gana la gema en la mano (1×04), el Viktor de 1×03 y
+  los escudos oficiales como sellos; B gana la sonrisa de Jinx con Isha
+  (2×04, 6:10). Ninguno cambia de idea.
+
+**Los ⚠️**: había **121**; se resolvieron unos **27** (licencias,
+reparto, letras, poses con minuto, conceptos). Ahora hay **164**: los
+nuevos vienen casi todos de lo añadido (puntos 18-25, caras por emoción,
+reparto nuevo), y cada uno dice por qué. Lo que sigue dudoso: §20.
 
 ---
 
@@ -1653,13 +1723,16 @@ no del doblaje latino (no las encontré). Recortes siempre por
   pisapapeles. Al lado: compás, regla, lápices, una lupa. En Blender:
   tablero de madera, hojas con curvatura y esquinas levantadas (la tinta
   sigue la curva), gema con emisión azul, martillo apoyado detrás
-  ([Orivers Hextech hammer](https://sketchfab.com/3d-models/orivers-hextech-hammer-arcane-f04d59aed16347a6b7b074a0b044ea7a) ⚠️ licencia).
-  El papel imita R1 (`#B39A84`, lápiz `#5B4D42`).
+  ([Orivers Hextech hammer](https://sketchfab.com/3d-models/orivers-hextech-hammer-arcane-f04d59aed16347a6b7b074a0b044ea7a), CC BY ✅, con crédito a Frayseur).
+  El papel imita R1 (`#B39A84`, lápiz `#5B4D42`) con la textura
+  [Paper006](https://ambientcg.com/a/Paper006) (CC0) debajo.
 - **Personaje**: **Jayce y Viktor juntos** (el equipo es el mensaje).
   Jayce con la pose de S5 (`Jayce_24`): **puño en alto con la gema** y
-  la otra mano abierta hacia la mesa. Viktor, a su lado, apoyado en el
-  bastón, mirando el plano (cara del avatar R6; pose ⚠️ a buscar en 1×03).
-  Si sólo cabe uno: Jayce.
+  la otra mano abierta hacia la mesa. Alternativa vista en el episodio:
+  **la gema en la mano tendida** (1×04, 11:54, §15). Viktor, a su lado,
+  apoyado en el bastón, con **el cuaderno en la mano y la sonrisa leve
+  de 1×03, 17:30** (§8; segunda pasada, ya no hay que buscarla). Cara
+  del avatar R6. Si sólo cabe uno: Jayce.
 - **Cómo habla**: sin globo. **Nota a lápiz** en el margen del plano,
   con flecha, en **Architects Daughter**: «**Un hilo por proyecto**».
   Debajo, con otra letra (**Caveat**) y como corrección de Viktor:
@@ -1671,13 +1744,16 @@ no del doblaje latino (no las encontré). Recortes siempre por
   - **Equipo, avance y entregas**: el plano dibuja un invento con **tres
     piezas numeradas**; cada número lleva su rótulo a lápiz: 1 Equipo,
     2 Avance, 3 Entregas.
-  - **Oficial del servidor**: **sello dorado** de la Academia de
-    Piltóver en la esquina. **De la comunidad**: **marca pintada con
-    espray**, como de Zaun, en la otra esquina.
+  - **Oficial del servidor**: **sello dorado con el escudo de
+    Piltóver** (el Hexgate con engranaje, `Piltover_Crest.png`, oro
+    `#C7A965`, §3.3) en la esquina. **De la comunidad**: **el vial alado
+    de Zaun pintado con espray** (`Zaun_Crest.png` como plantilla) en la
+    otra esquina.
   - Guiño para fans: un **garabato rosa de Jinx** en una esquina del
     plano (en 1×04 entró en este laboratorio y dejó su pintura).
 - **Para que no quede plano**: la gema **ilumina el papel desde abajo**
-  en azul; **luz dorada de ventanal** por detrás; sombras moradas de
+  en azul, con el centro casi blanco (`#D7F0F8`, como en 1×04, 12:12);
+  **luz dorada de ventanal** por detrás; sombras moradas de
   cortina (como S5); **compás y cabeza del martillo desenfocados** en
   primer plano; motas de polvo en el haz de luz.
 - **Lámina 2 (los estados)**: una **regleta de latón en la pared** con
@@ -1697,8 +1773,10 @@ no del doblaje latino (no las encontré). Recortes siempre por
 - **Personaje**: **Jinx**, la más querida. En cuclillas sobre una
   tubería o una caja, **bote de espray en la mano**, girada hacia quien
   mira. Cara y actitud de S2 (`Jinx_60`); movimiento del cuerpo de R2
-  (sólo la pose: la ropa del juego no). Opcional: **Isha** pintando
-  abajo, pequeña (2×04).
+  (sólo la pose: la ropa del juego no). **Mejor, tras la segunda
+  pasada**: **Isha** pintando abajo, pequeña, y Jinx mirándola con **la
+  sonrisa torcida y la ceja arriba de 2×04, 6:10** (§8). Es la única
+  alegría de Jinx que no da miedo, y es de la escena de pintar.
 - **Cómo habla**: **lo que dice es el grafiti**. **Sedgwick Ave Display**
   en rosa `#FC6CFC` y cian `#6CCCFC`, con sus garabatos: estrellas,
   corazones, flechas, una carita con ojos en X. Nada de globo.
@@ -1712,7 +1790,8 @@ no del doblaje latino (no las encontré). Recortes siempre por
     título**: rodeado con un círculo rosa y estrellas, o en un **cartel
     de cartón colgado** de un clavo.
 - **Para que no quede plano**: la pintura **brilla** un poco (rosa y
-  cian); cono de luz cálida de la farola; neblina verde al fondo; **un
+  cian); cono de luz cálida de la farola; neblina verde grisácea al
+  fondo (`#58615E`, medida en 1×04); **un
   bote desenfocado y goterones** en primer plano; **una trenza de Jinx
   cruza por delante** del texto; el **mono de juguete** de Jinx en una
   esquina (S8).
@@ -1732,7 +1811,9 @@ no del doblaje latino (no las encontré). Recortes siempre por
   una escalera, **raíces del árbol** entrando por un lado.
 - **Personaje**: **Ekko**, el secundario más querido de Zaun, con una
   **brocha en la mano** delante del mural, girándose a explicar
-  (escena de 1×07 en que se lo enseña a Vi ✅; la pose exacta ⚠️).
+  (escena de 1×07 en que se lo enseña a Vi ✅; en el 12:18 está serio y
+  con los párpados caídos, §8: para la lámina, la cara de R6 y un gesto
+  más abierto ⚠️).
   Bufanda naranja (R6).
 - **Cómo habla**: **letras pintadas a brocha** en tablas de madera
   clavadas junto al mural, en blanco sucio y verde Firelight ⚠️ (el
@@ -1773,26 +1854,36 @@ comprobé cómo es su tablero en la serie.
 
 ## 20 · Lo que no pude verificar
 
-- **Minutos exactos** de todas las escenas: no hay subtítulos de Arcane
-  en GitHub y los sitios de subtítulos y transcripciones daban error.
-- **Fotogramas** de la serie: ninguno (Fandom, YouTube y Netflix
-  cerrados). Todas las imágenes de §3 son de promoción y del juego.
-- **Qué pinta Jinx exactamente** en el laboratorio (1×04) y en 2×04.
-- **El tablero de Caitlyn** y **el escondite de Jinx** (sus paredes).
-- **Colores y letras del mural** de los Firelights.
-- **Jayce en latino**: Miguel de León es lo más probable, pero no está
-  confirmado con dos fuentes limpias. También Heimerdinger, Vander, Mel
-  y Marcus (una fuente cada uno).
-- **Frases del doblaje latino** de Jinx, Silco, Jayce y Viktor.
-- **Licencias exactas** de los modelos de Sketchfab (las dio el buscador).
-- **Arcane Nine** y **Piltover x Zaun**: licencia y tildes.
-- **La imagen oficial «The colors of Piltover vs Zaun»** (no abrió).
-- **Cajas de diálogo** de Path of Champions y 2XKO: sin capturas.
-- **Encuesta oficial** de popularidad: no encontré ninguna de Riot o
-  Netflix; sólo de fans.
-- Títulos de los episodios en español latino: la búsqueda dio una lista
-  desordenada (de España) ⚠️. Mejor usar los títulos en inglés.
+**Resuelto en la segunda pasada (26-sep)** ✅: los minutos (T1 mirada
+en Internet Archive, §2, §8, §15), los fotogramas, Jayce en latino
+(Miguel de León) y Heimerdinger, Vander, Mel y Marcus, las licencias de
+Sketchfab, Arcane Nine (libre, con tildes) y Piltover x Zaun (de pago),
+Beaufort y Spiegel.
 
+**Sigue sin verificar** ⚠️:
+- **Qué pinta Jinx** en el laboratorio (1×04) y dónde: 1×04 mirado
+  hasta el 26:50 al detalle y el resto cada 45 s; no apareció.
+- **La prueba nocturna «todo flota»** (1×03): no está entre 0:00 y
+  32:00 de 1×03, ni en 1×05 ni en 1×06. Falta 1×03 desde el 32:00.
+- **El tablero de Caitlyn**, las paredes del escondite de Jinx y los
+  colores del mural de los Firelights.
+- **Frases del doblaje latino** de Silco («You're perfect»), Jayce y
+  Viktor. Las muestras de audio de Doblaje Wiki están sin pasar por
+  `voz.py`.
+- **Estudio y director de la T1** (Sysdub, Eduardo Garza): Doblaje Wiki y
+  Bolavip, sin tercer sitio.
+- **La imagen oficial «The colors of Piltover vs Zaun»** (no abrió).
+- **Cajas de diálogo** de *Path of Champions* y *2XKO*: sin capturas.
+- **Encuesta oficial** de popularidad: ninguna de Riot o Netflix; la de
+  IMDb pide sesión.
+- **Minuto y música** de las muertes de Vander, Silco e Isha.
+- **Vistas** de los covers y fandubs (YouTube dio 429).
+- **Cumpleaños y comida favorita**: no existen (no hay *databook*).
+- **Emblemas** de los Firelights y de la casa Kiramman: no encontrados.
+- La identidad de dos fotogramas de 1×03 (19:55 y 20:10-22:25): el
+  investigador leyó «Silco» y «Vander joven»; por el orden del episodio
+  pueden ser otra cosa (§2.3).
+- Títulos de los episodios en español latino: mejor usar los ingleses.
 ---
 
 ## 21 · Bitácora de búsqueda

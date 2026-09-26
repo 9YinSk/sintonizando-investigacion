@@ -55,6 +55,35 @@
 ### Bitácora de voz
 
 - Doblaje Wiki, wikitext completo de «Generador Rex» vía `action=parse&prop=wikitext` (api.php, funciona en este servidor) · español.
+- Behind The Voice Actors (`behindthevoiceactors.com`): páginas de personaje de Rex, Van
+  Kleiss, Agente Seis, Bobo Haha, Dra. Holiday, Caballero Blanco, Circe, Brecha, Caballero
+  Negro, Skalamandra, Hunter Caín, Noah, César — leídas con `navegar.py --html --max 0`
+  para ver el HTML completo (los actores no ingleses están ocultos tras un botón «Show
+  Non-English Actors», pero el HTML los trae igual) — inglés/español mezclado en los
+  nombres de actor.
+- WebSearch: «Juan Amador Pulido» (para identificar el país del actor que dio BTVA para
+  Bobo), ANMTV + Generador Rex (varias veces, sin ficha de reparto útil, sólo noticias de
+  estreno/emisión), TV Tropes Ensemble Darkhorse, fandub español latino, memes/TikTok
+  hispano — español e inglés.
+- `herramientas/navegar.py` sobre `tvtropes.org/pmwiki/pmwiki.php/YMMV/GeneratorRex`
+  completo (--max 0) — inglés.
+- `generatorrex.fandom.com` (wiki en inglés activa), API `action=parse&prop=wikitext`,
+  páginas: Rex Salazar, Agent Six, Bobo Haha, Rebecca Holiday, Noah Nixon, Caesar Salazar,
+  Van Kleiss, White Knight, Circe, Biowulf, Breach, Black Knight, Hunter Cain — inglés.
+- `herramientas/voz.py` sobre el tráiler oficial doblado de Dailymotion
+  (`x84bg5o`, repost de 3djuegos.com) para transcripción con minuto y ficha de voz —
+  español.
+- `herramientas/fotogramas.py --cortes` sobre dos clips de Dailymotion (compilado
+  «Generator Rex Episode 1», x31x2vw; promo oficial CN «Heroes United», x2z8as2) para
+  fotogramas del punto 13.
+- Archive.org (`advancedsearch.php` y `metadata`) buscando «generator rex» y «generator
+  rex latino»: sin episodios doblados aprovechables — inglés.
+- API de Dailymotion (`api.dailymotion.com/videos?search=...`) varias veces: «Generator
+  Rex fandub», «Generador Rex cover», «Generator Rex Revolution cover», «Generador Rex
+  capitulo español latino» — sin fandubs reales, sólo contenido no relacionado o
+  reposts oficiales.
+- YouTube, API oEmbed, para confirmar el canal real del opening reposteado
+  (`youtube.com/oembed?url=...&format=json`) — español.
 
 ### Bitácora de texto
 
