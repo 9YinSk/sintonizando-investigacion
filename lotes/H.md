@@ -16,6 +16,7 @@ ahora lleva el lote H.)
 - 121 Tomb Raider: **COMPLETA** y subida (23:59). ✅22 ⚠️15 ❌0, 193 referencias, 56 webs, 91 minutos, 55 hex, 827 líneas.
 - 122 Little Nightmares: **COMPLETA** y subida (00:01 UTC, 26-sep). ✅25 ⚠️11 ❌0, 208 referencias, 54 webs, 120 minutos, 80 hex, 930 líneas.
 - 124 No Man's Sky: **COMPLETA** y subida (00:21 UTC), ✅20 ⚠️10 ❌0, 120 referencias, 60 webs.
+- 123 Reanimal: **COMPLETA** y subida (2026-09-26 14:05 UTC). ✅23 ⚠️7 ❌0, 103 referencias, 52 webs, 106 minutos, 43 hex, 743 líneas.
 - 123-127 recolectando.
 - Cambio de cuenta (25-sep, 13:25 UTC, cuenta .108): rama juntada; guardar.sh cada 300 s.
   119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
@@ -29,6 +30,7 @@ ahora lleva el lote H.)
 
 ## Avisos para el dueño
 
+- 123 Reanimal: más querida Hood (Capucha); la Niña la más dibujada. Niño = saco de arpillera, Niña = máscara de conejo. Cuadro: subtítulo de juego (barra negra semitransparente, Barlow Condensed; título en Anton). Láminas: #noticias-gaming marquesina «CINEMA» con la Niña; 🎲・Juegos parada de autobús con los tres niños (textos de esa sala son propuesta: no están en el inventario); #castings póster en el muelle del faro con el Niño. Oír: doblaje latino (Made in Spanish) casi sin personajes asignados; Raúl Solo como Cerdo y Ballena sólo en Doblaje Wiki. Datos que no cuadran entre partes (en el punto 0): Metacritic 81 u 80-83, OST 30 o 33 pistas y su fecha, Mervik/Mervick, Prisionero o Prisionera del DLC. Modelos Sketchfab CC BY-NC (no vender). Nombres Capucha, Benda y Cubeta sin confirmar en el doblaje.
 - **120 Days Gone**: más querido, Deacon (sin encuesta; en Reddit Deacon y Boozer son 1 y 2); el
   secundario más discutido es Copeland (Radio Free Oregon). Cuadro de diálogo: sin globos, barra negra a
   todo lo ancho abajo con «NOMBRE:» en blanco y negrita; grabaciones de NERO como guion de radio;

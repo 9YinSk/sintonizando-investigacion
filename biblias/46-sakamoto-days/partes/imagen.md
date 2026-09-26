@@ -63,4 +63,15 @@ Sakamoto Days pasa en un Japón urbano contemporáneo: la tienda de la familia S
 - Portada Blu-ray y *teaser visual* oficial (hoja 2 nº71, 88, 101 en `imagen.md` punto 1) muestran la tienda «Sakamoto Store» y el logo de neón rojo como escenario reconocible de la franquicia
 - No encontré fondos de pantalla oficiales (del propio estudio/editorial) en alta resolución fuera de las portadas de tomo ya listadas en el punto 1; todo lo de paisajes «puros» (sin personaje) es escaso porque la serie apenas usa fondos elaborados fuera de la tienda y las calles · ⚠️ (búsqueda Wallhaven + Google Images «Sakamoto Days wallpaper landscape»)
 
+## 19 · Texturas 2D: tramas, grano de papel, pinceles, emblemas
+
+Yuto Suzuki dibuja el manga con tramas (screentones) clásicas de Shōnen Jump: puntos regulares para sombras, líneas de velocidad muy marcadas en las peleas y textura de papel visible en los tomos escaneados. Equivalentes libres con licencia:
+
+- Grano de papel para viñetas/tomo: «Paper 006» (CC0, PBR con mapa de altura) · https://ambientcg.com/a/Paper006 · ✅ (ambientCG, licencia CC0 en la ficha)
+- Tela para el delantal/changshan (textura de trama de tejido, base para pintar ropa con volumen real) · «Fabric 061» y «Fabric 030» (CC0) · https://ambientcg.com/a/Fabric061 · https://ambientcg.com/a/Fabric030 · ✅
+- Metal cepillado para el arma/sierra de Osaragi y la pistola de Shin (superficie brillante con reflejos duros, típica del acabado industrial que dibuja Suzuki) · «Metal 009» (CC0) · https://ambientcg.com/a/Metal009 · ✅
+- Pinceles/tramas de manga gratis para Procreate/Clip Studio/Photoshop: «Manga Screentone Pack 1» (gratis, Clip Studio Assets) · https://assets.clip-studio.com/en-us/detail?id=2142037 · ✅ (ficha dice «Free», licencia de uso del propio Clip Studio Assets) · incluye tramas de puntos y líneas cinéticas como las del manga
+- Kit gratuito equivalente para Procreate/Photoshop/CSP (líneas de velocidad, tramas de puntos, texturas de impacto) · «Anime Starter Brush Kit», Manga Brush · https://www.mangabrush.com · ⚠️ (gratis según la web, no comprobé la licencia exacta letra a letra; revisar antes de redistribuir)
+- Emblema/logo: el rótulo «Sakamoto Store» en rojo sobre fondo blanco (visto en el manga y en la tienda) es el emblema más reconocible de la serie; no hay versión vectorial oficial descargable, sólo capturas del manga (hoja 1, viñetas con el escaparate) · ⚠️ (sin fuente vectorial libre)
+
 Notas de vestuario (texto de la wiki, ya en `datos-imagen.md`): Sakamoto lleva delantal sobre camiseta y pantalón largo, siempre con chanclas (incluso fuera de casa); su pelo canoso recogido en moño; bigote fino. Shin varía entre su ropa de trabajo (camisa con cuello + delantal verde de la tienda) y capucha/chaqueta de calle. Lu Wutang lleva una trenza francesa con lazo rojo, tatuaje de diamante morado bajo el ojo izquierdo y aretes verde menta; de niño no tenía la trenza y usaba camiseta azul. **La prenda icónica que todos reconocen**: el delantal de tienda de Sakamoto (verde/beige con el logo de «Sakamoto Store») y las gafas redondas que le tapan los ojos.

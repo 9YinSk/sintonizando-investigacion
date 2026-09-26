@@ -597,3 +597,48 @@ Como no hay doblaje, **la comunidad lo dobla**. Para un servidor de doblaje, est
 - [@zequiodzilla, «El lore de Elden Ring: Mohg»](https://www.tiktok.com/@zequiodzilla/video/7382858284782406944) ✅
 - Etiqueta de memes en [Memedroid](https://es.memedroid.com/memes/tag/elden+ring) ✅
 
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Joyería oficial** ELDEN RING × Leathers and Treasures (Japón), piezas de cuero a mano, diseño de Shinya Mukaijo · [web de la colaboración](https://www.j-connection.jp/event/eldenring_lt/index-en.html) ✅
+- **Figuras oficiales** en [Tamashii Nations](https://tamashiiweb.com/item_character/eldenring/?wovn=en) ✅
+  - S.H.Figuarts **Malenia, Blade of Miquella**: pose de combate, alas cerradas, espada. Salió el 26-jul-2025. Buena referencia 3D de sus proporciones.
+  - Figuarts mini **Radahn** sobre su montura (feb-2027).
+  - S.H.Figuarts **Vyke** (feb-2027).
+- Tienda oficial, colección de verano 2025 · [Barchart](https://www.barchart.com/story/news/33354823/elden-ring-store-launches-summer-collection-for-fans-of-the-iconic-dark-fantasy-rpg-worldwide) ⚠️
+- **Cosplay de Malenia** con casco y brazo en resina y tela, de Julianna Podnebesnaya · [pufacosplay](https://pufacosplay.gumroad.com/l/Malenia) ⚠️
+- ⚠️ **No se encontraron cruces con otros juegos** (Fortnite, gachas) ni cafés temáticos. Se buscó en inglés; no está confirmado que no existan.
+- ⚠️ Un hilo de Reddit habla de una película con Alex Garland; sólo es un título del recolector, sin comprobar.
+
+## 24 · Obras parecidas
+
+- **Del mismo estudio y director** (Miyazaki, motor Dantelion): *Demon's Souls* (2009), *Dark Souls I-III* (2011-2016), *Bloodborne* (2015), *Sekiro* (2019). Cajas discretas, muerte sin HUD, historia contada en los objetos ✅
+- **Berserk** de Kentaro Miura: la influencia que Miyazaki nunca ha negado ([TheGamer](https://www.thegamer.com/elden-ring-berserk-kentaro-miura/), [Yahoo](https://tech.yahoo.com/general/articles/berserk-fans-uncover-could-final-155311663.html), [Kotaku](https://kotaku.com/elden-ring-anime-berserk-hidetaka-miyazaki-kentaro-miur-1848728874)) ✅
+- **George R. R. Martin** (*Canción de hielo y fuego*): la mitología previa ✅
+- **Soulslike de otros estudios**: *Lies of P*, *Lords of the Fallen* (2023), *Wo Long* ([GameRant](https://gamerant.com/soulslikes-feel-like-elden-ring/), [PrimaGames](https://primagames.com/gaming/best-games-like-elden-ring)) ✅
+- **En el servidor**, para no repetir: *God of War* (`117`) y *Hellblade* (`118`) ya tienen biblia, con tono oscuro y mitológico. No usar otra vez «fragua» (God of War tiene la de Brok) ni «runas nórdicas».
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas, en cinco líneas** ([Fextralife](https://eldenring.wiki.fextralife.com/Lore), [Fandom](https://eldenring.fandom.com/wiki/The_Shattering)) ✅
+1. La **Tierra Intermedia** vive bajo la **Orden Dorada** y el **Árbol Áureo**, que da la **gracia**.
+2. El **Anillo de Elden** se rompió en **Grandes Runas**. Cada semidiós, hijo de Marika, se quedó una: así empezó la guerra, **la Fractura**.
+3. Aquí la muerte casi no existe. Sólo la **Runa de la Muerte**, robada en la Noche de los Cuchillos Negros, mata de verdad (así murió Godwyn).
+4. Tú eres un **Sin Luz** (*Tarnished*): un exiliado al que la gracia llama de vuelta para ser **Señor de Elden**.
+5. Detrás acechan **Dioses Exteriores** que corrompen el mundo: la Podredumbre Escarlata, la Llama Enloquecida.
+
+**La historia por arcos** ([ScreenRant](https://screenrant.com/elden-ring-timeline-lore-history-shattering-before-game/)) ✅
+- **Antes**: era dorada de Marika. Noche de los Cuchillos Negros (muere Godwyn). Marika rompe el Anillo y queda encerrada en el Árbol. Estalla la Fractura.
+- **Prólogo**: el Sin Luz despierta y cruza la niebla, guiado por **Melina**.
+- **Acto 1**: Limgrave, Liurnia, Caelid, Altus. Semidiós tras semidiós: Godrick, Rennala, Radahn, Rykard, Malenia.
+- **Acto 2**: la capital Leyndell, las Cumbres de los Gigantes, y qué es la llama que hay que encender.
+- **Final**: subir al Árbol. Varios finales: Señor de Elden, Era de las Estrellas con Ranni, Llama Enloquecida…
+- **DLC Shadow of the Erdtree** (2024): la Tierra de las Sombras y la historia de **Miquella**.
+
+**Símbolos que un fan reconoce al instante**
+- **Árbol Áureo**: luz dorada visible desde casi todo el mapa.
+- **Grandes Runas**: un sello dorado distinto por semidiós (iconos 1024×1024 de Godrick, Malenia y Radahn).
+- **La gracia**: el rastro de luz dorada que guía. Es el «GPS» dentro del mundo.
+- **Podredumbre Escarlata**: motas rojas, tierra muerta. Es Malenia y es Caelid.
+- **Llama Enloquecida**: ojos en llamas.
+- **Vocabulario**: Sin Luz, gracia, Sitio de Gracia, Árbol Áureo, Gran Runa, Señor de Elden, la Fractura, Orden Dorada, los Dos Dedos, Maidenless, Omen.
+
