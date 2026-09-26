@@ -153,26 +153,48 @@ La biblia (§14) ya tiene una buena lista con 5 ⚠️. Confirmo y añado:
 
 ### 13.1 Frases textuales de clips oficiales doblados, con minuto
 
-Busqué clips oficiales doblados en Dailymotion (los de `datos-voz.md` y
-`datos-video.md`, todos de medios hispanos: Xataka México, Vidaextra,
-JeuxVideo.com). **Los tres clips de 0:37-1:31 son tráilers de Netflix con
-locución en español latino de anuncio, no diálogo de personajes** (lo oí con
-`voz.py`): dicen frases de marketing («Ya disponible en Netflix», «Los
-clásicos vuelven»), no líneas de Shinji/Asuka/Rei. Cito la única frase de
-personaje que encontré, del tráiler de Xataka México:
+**Relanzo — resuelto**: en la tanda anterior no encontré clips oficiales
+doblados con diálogo largo (sólo tráilers de anuncio en Dailymotion). En esta
+tanda busqué en Internet Archive con `q=evangelion+latino` y encontré el ítem
+`26-neon-genesis-evangelion` («Neon Genesis Evangelion (español latino)»,
+`language: spa`, descripción calcada de la sinopsis de Netflix), con los
+**26 episodios completos doblados al español latino**, duración ≈23:20 cada
+uno (igual que el corte japonés, sin cortes de TV: el minuto SÍ coincide con
+el que ya citaba la biblia de oído). Sequé el audio con `herramientas/voz.py`
+(rango de 30-35 s por escena, sin bajar el episodio entero) sobre las DOS
+escenas que la biblia ya marcaba como las que hacen llorar (ver también punto
+21). Transcripción real de Whisper (ojo: se equivoca con los nombres propios,
+tal como avisa AYUDANTE.md — «Xinyi» por Shinji, «Rey» por Rei):
 
-- ⚠️ **No hay clip oficial doblado con diálogo largo de personajes en
-  Dailymotion** (sólo tráilers de anuncio). Las frases largas y con minuto
-  reales que sí tengo son las medidas arriba (punto 8) de los audios propios
-  de Doblaje Wiki, oficiales pero cortos (7-25 s cada uno, sin minuto de
-  episodio porque son clips sueltos, no el episodio entero).
-- Las frases con **minuto de episodio** que cita la biblia (§8, §9, §14) son
-  del **audio japonés con subtítulo**, no del doblaje latino: eso lo deja
-  claro la nota de la biblia («Lo que va con minuto sale del subtítulo»). No
-  pude acceder a los episodios completos con audio latino (Netflix/Crunchyroll
-  bloquean el vídeo, YouTube pide iniciar sesión desde este servidor) para
-  sacar el minuto latino exacto de esas mismas frases. Queda como bien lo dice
-  la biblia: pendiente si alguien tiene acceso a esos episodios.
+- **Episodio 6, justo antes de la sonrisa de Rei** — Shinji: «Dime por qué
+  estás llorando, [Shinji→Rei]» (en realidad dirigido a Rei) → Rei: «Estoy
+  apenada. No tengo idea de lo que debo hacer o sentir en un momento como
+  este» → Shinji: **«¿Por qué no pruebas sonreír, Rey [Rei]?»** ✅ minuto
+  **00:21:34** (coincide casi exacto con el 00:21:35 que la biblia ya citaba
+  del japonés) · fuente:
+  [`26-neon-genesis-evangelion`, episodio 6](https://archive.org/download/26-neon-genesis-evangelion/6%20Neon%20genesis%20Evangelion.mp4?t=1294)
+  (Internet Archive, audio escuchado directamente con `voz.py`).
+- **Episodio 24, confesión de Kaworu** — «El hombre debe soportar el
+  sufrimiento, es parte de la vida […] Tu corazón es demasiado frágil, frágil
+  como el cristal. Mi corazón, si es digno de ser amado, amigo amado…
+  **¡Yo te amo, Shinji!**» ✅ minuto **00:09:37** (coincide con el 00:09:35 que
+  cita biblia §8 del japonés) · fuente:
+  [`26-neon-genesis-evangelion`, episodio 24](https://archive.org/download/26-neon-genesis-evangelion/24%20Neon%20genesis%20Evangelion.mp4?t=577)
+  (Internet Archive, audio escuchado directamente). Whisper metió frases
+  sueltas de relleno después del «Shinji» (parece solaparse con la siguiente
+  escena de SEELE) — la frase citada («Yo te amo, Shinji») la confirmé
+  reescuchando el segmento, no de la transcripción cruda.
+- ⚠️ **Qué doblaje latino es exactamente** (de los 3 que documenta biblia
+  §10: original 1999, *Renewal*/Animax 2007-08, Netflix 2019): el tamaño
+  pequeño de archivo (53 MB/episodio) y la sinopsis calcada de Netflix en la
+  descripción del ítem apuntan al **doblaje de Netflix (2019)**, pero no lo
+  confirmé comparando voces (no tuve presupuesto en esta tanda para
+  contrastar el timbre de Kaworu aquí con la muestra de Ernesto Lezama de
+  Doblaje Wiki, que es del doblaje original) — lo dejo como ⚠️, probable
+  Netflix, no confirmado.
+- Esto también resuelve una duda de la biblia («Lo que va con minuto sale del
+  subtítulo japonés, no del doblaje latino»): ahora hay dos frases con minuto
+  **del propio doblaje latino**, verificadas de oído.
 
 ### 13.2 Cara en cada emoción
 

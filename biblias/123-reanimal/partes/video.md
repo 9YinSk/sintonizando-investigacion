@@ -44,7 +44,7 @@ arriba (no de paletas de fans). Cada sitio tiene una paleta muy marcada de
 - Ruinas en llamas del Warzone (mismo capítulo, otro ángulo): ámbar apagado por el humo `#6b554a` contra sombras azul-verdosas `#19242a`/`#233040` · fotograma propio 0:56 del tráiler co-op · ✅
 - Puerta circular/celda (sitio sin confirmar): azul-teal muy oscuro, casi monocromo, `#33414a`/`#05121a`/`#051620` · captura oficial Steam citada arriba · ⚠️
 - Cerca con alambre de púas (posible celda de «The Flooded Town#The Prison»): teal frío `#0b2438`/`#2a4558` con negro puro `#010609` en sombra · fotograma propio 0:36 del tráiler co-op https://www.dailymotion.com/video/x9ve578?t=36 · ⚠️
-- Interior de madera con farol (cajón donde se escconden el Niño y Hood de un monstruo gigante): tonos cálidos de linterna sobre madera `#71635a` contra negro casi total `#030406``/`#1c1d21` · captura oficial Steam https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/82ca7105ed03969d014465312fb15050b029fc94/ss_82ca7105ed03969d014465312fb15050b029fc94.1920x1080.jpg · ✅ (escena también visible en el tráiler co-op, «go through hell together»)
+- Interior de madera con farol (cajón donde se esconden el Niño y Hood de un monstruo gigante): tonos cálidos de linterna sobre madera `#71635a` contra negro casi total `#030406`/`#1c1d21` · captura oficial Steam https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/82ca7105ed03969d014465312fb15050b029fc94/ss_82ca7105ed03969d014465312fb15050b029fc94.1920x1080.jpg · ✅ (escena también visible en el tráiler co-op, «go through hell together»)
 
 Patrón general: casi toda la paleta es azul-negro nocturno; el color entra
 sólo como acento puntual (rojo de neón o de guerra, ámbar de fuego o farol,

@@ -163,3 +163,179 @@ Paletas medidas con `estilo.py --colores 6` sobre un fotograma oficial
   `Planks030A` (https://ambientcg.com/view?id=Planks030A) y `WoodFloor051`
   (https://ambientcg.com/view?id=WoodFloor051). Todas CC0, comprobadas en la
   API `ambientcg.com/api/v2/full_json`. ✅
+
+## 9 · Música y sonido
+
+El investigador de voz ya cubrió la biografía de Joe Hisaishi (punto 9 cruza
+con el 13 de fandom); aquí me centro en **qué tema suena en cada película**
+y en el diseño de sonido del viento, confirmado con lo que vi en fotogramas
+y tráilers.
+
+- Las 6 películas llevan música de **Joe Hisaishi (久石譲)**, confirmado en
+  el campo «音楽» (música) de la ficha oficial de cada una en `ghibli.jp` ·
+  ✅ (fuente oficial, ver metadatos citados en la introducción de esta
+  parte).
+- Confirmación visual (no sólo de texto): el tráiler japonés subtitulado de
+  Kiki muestra en pantalla, en los créditos finales del propio tráiler,
+  **「音楽 久石譲 / Music: Joe Hisaishi」** en el segundo 1:23 y **「主題歌
+  荒井由実 / Theme Song: Yumi Arai」** en el segundo 1:20 ·
+  https://www.dailymotion.com/video/x88a5in?t=80 y
+  https://www.dailymotion.com/video/x88a5in?t=83 · ✅ (lo vi con mis propios
+  ojos en el vídeo, no sólo en texto de wiki).
+- Temas principales por película (letra/cantante, campo «主題歌» de
+  `ghibli.jp`): Totoro — **Azumi Inoue** («さんぽ»/«Uchi wa Tonari no
+  Totoro»); Kiki — **Yumi Arai/Yumin** («やさしさに包まれたなら» y «ルージュの
+  伝言»/Rouge no Dengon, que se oye en la propia escena de la panadería);
+  Mononoke — **Yoshikazu Mera**, contratenor («もののけ姫»/tema de Ashitaka);
+  Howl — **Chieko Baisho** (voz de Sophie) canta «世界の約束»/La Promesa del
+  Mundo; Ponyo — **Fujioka Fujimaki y Nozomi Ohashi** («崖の上のポニョ»); Se
+  levanta el viento — **Yumi Arai** de nuevo, «ひこうき雲»/Hikōkigumo (estela
+  de avión, escrita en 1973, años antes de la película) · ✅ (campo oficial
+  de cada ficha en `ghibli.jp`, ver HTML descargado en
+  `/tmp/claude-0/trabajo/102-video/*.html`).
+- **Sonido del viento como firma**: en el tráiler de Kiki se oye viento real
+  de fondo (sin música) durante los planos de vuelo sobre el mar (0:34) —
+  el estudio deja el silbido del viento como único sonido en los momentos de
+  vuelo, en vez de música orquestal continua · ✅ (escuchado directamente en
+  el tráiler).
+- **Comida sin diálogo, con sonido de cocina**: la escena del desayuno de
+  Howl (tocino y huevos, `howl016.jpg`) es célebre por el chisporroteo de la
+  sartén como único sonido mientras Calcifer cocina — coincide con la
+  filosofía de comida "sin diálogo, sólo sensorial" descrita en el punto 4 ·
+  ⚠️ (deducido del still + descripciones de la escena, no tengo el clip con
+  audio de esta escena en concreto).
+- Efecto de sonido reconocible fuera de Chihiro: el maullido/gruñido grave
+  del Gatobús (Nekobus) y su motor-ronroneo son un efecto propio, sin
+  equivalente real, muy imitado en fandubs y memes · ⚠️ (descripción de
+  fandom, no aislé el clip de audio en esta tanda).
+
+## 10 · Vídeos: tráileres, escenas, análisis, tendencias
+
+Tráilers vistos enteros con `fotogramas.py --cortes` (plano a plano, minuto
+exacto), todos en Dailymotion porque YouTube pidió iniciar sesión:
+
+- **Mi vecino Totoro — tráiler doblado (español)**: 70 s, 8589
+  visualizaciones · https://www.dailymotion.com/video/x9csuhi · 24 planos
+  vistos, hoja en `/tmp/claude-0/trabajo/102-video/totoro-trailer/hoja_01.jpg`
+  · ✅.
+- **Kiki: entregas a domicilio — tráiler japonés subtitulado en inglés**:
+  118 s, 2692 visualizaciones · https://www.dailymotion.com/video/x88a5in ·
+  31 planos vistos, incluye los créditos de música y tema citados en el
+  punto 9 · ✅.
+- **La princesa Mononoke — tráiler (Miramax, inglés)**: 102 s, 962
+  visualizaciones · https://www.dailymotion.com/video/x971hck · 42 planos
+  vistos · ✅.
+- **El increíble castillo vagabundo — tráiler (Disney US, inglés)**: 96 s,
+  1354 visualizaciones · https://www.dailymotion.com/video/x8x2lpe · 45
+  planos vistos · ✅.
+- **Ponyo en el acantilado — tráiler doblado (español)**: 107 s, 2448
+  visualizaciones · https://www.dailymotion.com/video/x9mj300 · 44 planos
+  vistos, incluye la tormenta completa (0:53-1:25) · ✅.
+- Los `video.mp4` de estos 5 tráilers se borraron tras sacar las hojas
+  (disco compartido), como pide `AYUDANTE.md`.
+
+**La tendencia más grande sobre «el estilo Ghibli» no es un vídeo suelto,
+es un fenómeno de 2025** — encaja de lleno con el tema de este informe:
+
+- **Marzo de 2025: OpenAI lanzó GPT-4o con generación de imágenes**, y su
+  capacidad de imitar «esa estética onírica, dibujada a mano, con texturas
+  tipo acuarela» de Studio Ghibli se volvió una obsesión mundial de un día
+  para otro; los servidores de ChatGPT se saturaron y la empresa pidió
+  paciencia mientras escalaba capacidad · [CNN, 27-mar-2025](https://www.cnn.com/2025/03/27/style/chatgpt-studio-ghibli-ai-images-intl-hnk)
+  · ✅.
+- El hashtag **#GhibliAI** se volvió viral en Instagram, TikTok y Pinterest;
+  gente común, famosos y hasta políticos compartieron sus fotos
+  «ghiblificadas»; el prompt típico era «Ghibli-style portrait of a girl in
+  a magical forest» · [CNN](https://www.cnn.com/2025/03/27/style/chatgpt-studio-ghibli-ai-images-intl-hnk),
+  [The Bridge Chronicle, resumen de tendencias IA 2025](https://www.thebridgechronicle.com/tech/top-ai-photo-trends-2025-ghibli-retro-saree-hug-younger-self-mp99)
+  · ✅ (dos fuentes).
+- **Hayao Miyazaki se pronunció en contra** de este tipo de arte con IA,
+  llamándolo **"un insulto a la vida misma"**, y dijo que el arte real nace
+  de sentimientos y experiencia humana, no de algoritmos · [Jerusalem Post](https://www.jpost.com/science/ai-news/article-848538)
+  · ✅ — dato importante para el dueño: usar «estilo Ghibli generado por IA»
+  como referencia visual sería justo lo que Miyazaki ha criticado en público
+  (avisar en `DECISIONES.md`, no me corresponde decidirlo).
+- Vídeos y artículos de análisis sobre «por qué la comida de Ghibli se ve
+  tan deliciosa» y «cómo se pintan los fondos de Ghibli» abundan en inglés
+  (Creative Bloq, Nerdist, i-D, Dazed — ver fuentes citadas en el punto 4);
+  no pude verlos en vídeo por el bloqueo de YouTube, pero varios son
+  artículos con capturas de making-of citando entrevistas del estudio · ⚠️
+  (contenido leído, no vídeo).
+- Búsqueda de tendencia de TikTok específica sobre «comida Ghibli» (recrear
+  platos de las películas) y sobre «Ghibli aesthetic»/cottagecore: aparece
+  mencionada en varios artículos sobre el trend de IA de 2025 como
+  fenómeno paralelo (gente cocinando el desayuno de Howl, el ramen de
+  Ponyo), pero no pude abrir TikTok directamente desde este contenedor para
+  contar vistas o citar un vídeo concreto · ⚠️ (mencionado en fuentes
+  secundarias, sin enlace directo verificable).
+
+## 14 · Poses analizadas en varias escenas
+
+Como 102 es el estilo general, no una obra con un elenco fijo, elijo 5
+personajes de 5 películas distintas para mostrar el vocabulario de poses
+«vivas» del estudio (con objeto, en grupo, en acción) que pide el punto 1
+del encargo. Columna «Episodio» = película (no hay capítulos); «Minuto» =
+`still oficial` cuando es un fotograma de `ghibli.jp` sin vídeo, o el
+segundo exacto cuando lo confirmé en el tráiler. Todas las imágenes están en
+`/tmp/claude-0/trabajo/102-video/<película>/`, miradas una por una.
+
+### Totoro (Mi vecino Totoro)
+
+| Pose | Episodio | Minuto | Sirve para |
+|---|---|---|---|
+| De pie en la parada del autobús, paraguas en una mano, orejas erguidas, quieto bajo la lluvia | Mi vecino Totoro | still oficial (totoro034) | pensar / esperar |
+| Corriendo con los totoros pequeños por un túnel de árboles, sosteniendo una hoja grande como paraguas | Mi vecino Totoro | still oficial (totoro019) | animar |
+| Panza enorme en primer plano, boca entreabierta roncando, niñas dormidas encima | Mi vecino Totoro | still oficial (totoro022) | celebrar / relajar |
+| De pie junto al Gatobús iluminado de noche, cabeza ladeada mirando a las niñas | Mi vecino Totoro | still oficial (totoro031) | presentar |
+| Sentado en una rama gigante con otros dos totoros, tocando una ocarina de hoja, cabeza echada atrás | Mi vecino Totoro | still oficial (totoro037) | animar / celebrar |
+| Boca abierta enorme mostrando los dientes dentro del Gatobús, con las niñas sentadas en su interior | Mi vecino Totoro | still oficial (totoro046) | celebrar |
+
+### Kiki (Kiki: entregas a domicilio)
+
+| Pose | Episodio | Minuto | Sirve para |
+|---|---|---|---|
+| Tumbada en la hierba, brazos cruzados tras la cabeza, cinta roja en el pelo, Jiji cerca | Kiki: entregas a domicilio | still oficial (majo001) | pensar / soñar despierta |
+| Volando en la escoba sobre el mar de noche, Jiji agarrado a la espalda, cuerpo inclinado hacia delante | Kiki: entregas a domicilio | 0:34 (tráiler japonés) — https://www.dailymotion.com/video/x88a5in?t=34 | animar |
+| Fregando el suelo a cuatro patas, cinta roja, gesto de esfuerzo | Kiki: entregas a domicilio | still oficial (majo019) | explicar (trabajo diario) |
+| De pie en una puerta entregando un pastel, cesta en el brazo, sonrisa tímida | Kiki: entregas a domicilio | still oficial (majo034) | presentar |
+| Agarrada al plumaje de un cuervo en pleno vuelo, cara de susto, intentando no caer | Kiki: entregas a domicilio | still oficial (majo025) | pensar / aguantar |
+| Barriendo la calle con la escoba, cuerpo agachado, ropa despeinada por el viento | Kiki: entregas a domicilio | still oficial (majo046) | explicar |
+
+### San (La princesa Mononoke)
+
+| Pose | Episodio | Minuto | Sirve para |
+|---|---|---|---|
+| Sangre en la boca, mejilla pegada al costado del lobo blanco Moro, mirada fija y hostil | La princesa Mononoke | still oficial (mononoke007) | regañar / advertir |
+| Montada sobre el lomo de un lobo, lanza en alto, corriendo con toda la manada | La princesa Mononoke | still oficial (mononoke034) | animar |
+| Cara pegada al ojo de un lobo gigante, expresión de calma y confianza | La princesa Mononoke | still oficial (mononoke031) | pensar / confiar |
+| Sosteniendo a Ashitaka en brazos dentro del agua, mirada de urgencia | La princesa Mononoke | still oficial (mononoke043) | explicar / cuidar |
+| Tirando de un extremo mientras forcejea con Ashitaka, sujetos por un lobo | La princesa Mononoke | still oficial (mononoke046) | regañar / discutir |
+| Retrato mirando al cielo con nubes, expresión serena tras la batalla | La princesa Mononoke | still oficial (mononoke049) | pensar / celebrar en calma |
+
+### Sophie (El increíble castillo vagabundo)
+
+| Pose | Episodio | Minuto | Sirve para |
+|---|---|---|---|
+| Asomada a la ventana de su sombrerería, rodeada de flores, mano en el cristal | El increíble castillo vagabundo | still oficial (howl001) | presentar |
+| Caminando del brazo de Howl por el pueblo en fiesta, mirando alrededor asombrada | El increíble castillo vagabundo | still oficial (howl004) | explicar |
+| Ya anciana, agachada fregando el suelo del castillo entre trastos, gesto decidido | El increíble castillo vagabundo | still oficial (howl019) | explicar / trabajar |
+| De joven otra vez, envuelta en una toalla, corriendo emocionada por el pasillo | El increíble castillo vagabundo | still oficial (howl022) | celebrar |
+| Abrazando a alguien en un campo de flores, brazos extendidos, sonrisa amplia | El increíble castillo vagabundo | still oficial (howl037) | celebrar |
+| Pelo plateado alborotado, rodeada de burbujas de agua, mirando hacia arriba con sorpresa | El increíble castillo vagabundo | still oficial (howl046) | pensar / sorprenderse |
+
+### Ponyo (Ponyo en el acantilado)
+
+| Pose | Episodio | Minuto | Sirve para |
+|---|---|---|---|
+| Cara asomando dentro de una burbuja/medusa gigante bajo el agua, ojos muy abiertos | Ponyo en el acantilado | still oficial (ponyo004) | pensar / observar |
+| Enredada en una red de pesca junto a basura marina, empujando con las manos | Ponyo en el acantilado | still oficial (ponyo007) | explicar |
+| Cara metida dentro de un tazón verde, boca abierta sonriendo, sostenida por unas manos | Ponyo en el acantilado | still oficial (ponyo016) | celebrar |
+| Corriendo sobre las cabezas de peces gigantes que forman las olas, brazos extendidos, vestido rojo al viento | Ponyo en el acantilado | still oficial (ponyo028) | animar |
+| Comiendo ramen con jamón a cucharadas, mejillas infladas, mirada feliz de lado | Ponyo en el acantilado | still oficial (ponyo034) | celebrar / comer |
+| Saltando en el aire junto a Sōsuke desde un acantilado hacia el cielo, brazos y piernas extendidos | Ponyo en el acantilado | still oficial (ponyo049) | celebrar (final) |
+
+Nota: todas las poses «still oficial» son ✅ en cuanto a que la imagen es
+oficial y libre (licencia de `ghibli.jp` comprobada), pero van con ⚠️ en la
+lectura del gesto en sí (una sola fuente: mi propia lectura de la imagen,
+sin segunda fuente escrita que describa la postura con esas palabras). Las
+2 poses con minuto de tráiler son ✅ dobles (imagen + vídeo).

@@ -244,3 +244,162 @@ lámina de terror todavía) o a un objeto propio de la isla (un poster
 coleccionable, un mapa, una máscara) que no repita ni la tele ni el cuaderno.
 No hay más biblias de terror ni de muñecos/máscaras en el servidor por ahora
 ✅ (comprobado con `ls biblias/`).
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo en cinco líneas** · https://reanimal.fandom.com/wiki/The_Island ✅
+1. Todo pasa en **la Isla**, el lugar donde crecieron los hermanos, ahora
+   inundado, en ruinas y en guerra.
+2. La Isla tiene ciudades y pueblos enteros abandonados; el agua lo ha
+   invadido casi todo (de ahí el barco y el arpón como herramientas).
+3. Los monstruos nacen de heridas del pasado de los niños: el diseño de cada
+   uno «gira en torno» a su trauma compartido, no son monstruos al azar
+   (Wikipedia, sección Development) ✅.
+4. **Las máscaras ocultan la identidad** de casi todos: los niños (zorro,
+   cordero, conejo, saco con soga), los soldados (máscara de gas) y hasta
+   algunos monstruos.
+5. Hay una **guerra en curso** de fondo (soldados, minas navales, un
+   lanzallamas, un francotirador) que se solapa con el horror sobrenatural.
+
+**La historia por arcos** (resumen del argumento completo en Wikipedia, con
+todas las referencias primarias que cita el propio artículo) ✅
+https://en.wikipedia.org/wiki/Reanimal
+1. **Despertar y reencuentro:** el Boy despierta en el mar tras soñar con sus
+   tres amigos y su hermana mirando un pozo. Rescata a la Girl (camisón blanco,
+   máscara de conejo) y llegan juntos a la Isla.
+2. **Capítulos 1-2 (*Dead in the Water*, *The Cleaning House*):** rescatan a
+   **Hood** de **Sniffer**, un humanoide que se teletransporta por dentro de
+   cadáveres y controla los «Skins» (pieles humanas vacías y vivas).
+3. **Capítulo 3 (*After the Flood*):** rescatan a **Bandage** de un pelícano
+   monstruoso, atrapándolo en un granero en llamas.
+4. **Capítulos 4-5 (*No Shelter*, *Down in a Hole*):** en un orfanato en
+   ruinas, matan a **la Madre** (arácnida, seis patas) y rescatan a **Bucket**
+   de los Spider Kids.
+5. **Capítulo 6 (*Nobody Left Behind*):** los cuatro niños huyen en un camión
+   de carga; para cruzar el mar, le quitan un ojo al **Caballo del Arroyo**
+   (*Brook Horse*) y se lo dan a **la Ballena Espiral**, ciega, para que los
+   deje pasar.
+6. **Capítulo 7 (*The Spoils*):** en un metro subterráneo, la Girl vomita la
+   oveja de sus visiones; la criatura crece y **se come a los tres amigos**.
+7. **Capítulos 8-9 (*The Watcher*, *All-Consuming Past*):** cruzan una ciudad
+   de guerra en un tanque; la oveja gigante los traga a ambos. Dentro de ella,
+   un *flashback* revela que **el Boy y los tres amigos hicieron un ritual de
+   sangre y arrastraron a la Girl, atada, hasta el pozo** — el sueño inicial
+   era en realidad un recuerdo. La Girl «reanima» al final (de ahí el
+   título) y aparece flotando en el pozo en la escena post-créditos.
+8. **DLC *The Prisoner* (2026):** nuevos protagonistas, la Prisionera y la
+   Soldado, en un flashback de guerra con soldados de estilo I Guerra Mundial;
+   aparece un «Segundo Prisionero» misterioso que conecta con el resto de la
+   trama (2º y 3º capítulo del DLC aún sin publicar, TBA en la wiki) ⚠️.
+
+**Símbolos que un fan reconoce al instante**
+- **Las máscaras**: zorro (Boy) y cordero/muttonhead (Girl) dan nombre a la DLC
+  cosmética *Foxhead and Muttonhead Masks*; hay 20+ máscaras coleccionables en
+  total (pájaro, gusano, almeja, cerdo, cono…) · https://reanimal.fandom.com/wiki/Masks ✅
+- **El pozo (the Well):** origen de la pesadilla y de todo el ritual de sangre;
+  aparece en el sueño inicial y en el final ✅.
+- **La oveja / Sheep Beast:** el monstruo central, nacido de la culpa y que se
+  come a los tres amigos; su iconografía (ovejas erguidas, lluvia de sangre)
+  es el clímax visual del juego ✅.
+- **La ballena espiral** (*Spiral Whale*), ciega y enroscada sobre sí misma:
+  su forma de espiral es el símbolo que usa la propia carátula del *REANIMAL
+  Soundtrack* (espiral roja con espinas) ✅ — ver punto 5.
+- **Los ataúdes (Coffins):** coleccionables que muestran los «espíritus» de
+  los tres amigos y de un conejo; desbloquean un final secreto en el capítulo
+  9 ✅ https://reanimal.fandom.com/wiki/Coffins
+- **El mechero y el farol:** las únicas fuentes de luz de Boy y Girl,
+  heredadas visualmente del mechero de Six en *Little Nightmares* ✅.
+- **La guerra de fondo:** minas navales, soldados, un lanzallamas — vocabulario
+  visual distinto al resto de la saga del estudio (aparece sobre todo en el
+  DLC *The Prisoner*) ✅.
+- **Vocabulario propio:** the Island, the Well, Sniffer, Skins, Boomers,
+  Critters, the Sheep Beast, the Spiral Whale, the Brook Horse, the Mother,
+  Spider Kids, Coffins, Posters, the Prisoner, the Second Prisoner, the
+  Expanded World.
+
+## Lo mejor para la lámina
+
+- El cuadro de diálogo real del juego es un **subtítulo, no un globo**: barra
+  semitransparente abajo, mayúsculas contenidas en Barlow Condensed — así se
+  evita la «burbuja blanca genérica» que rechazó el dueño.
+- El logo «REANIMAL» (rojo muy condensado sobre negro, tipo Anton) es un
+  tratamiento de título fuerte y reconocible para encabezar la lámina.
+- Un **Poster coleccionable** (papel encontrado en la Isla) es el objeto real
+  perfecto para pegar el texto del canal: ya es «una hoja de papel en un sitio
+  real», sin inventar nada.
+- El símbolo de la **ballena espiral** (espiral con espinas, de la carátula del
+  soundtrack) funciona como marca de agua o adorno de fondo sin tapar a los
+  personajes.
+- Luz motivada única (mechero o farol) + niebla de fondo: así la lámina no
+  queda plana, igual que las 14 capturas oficiales revisadas.
+
+## No encontré
+
+- **TCRF (The Cutting Room Floor):** no tiene página de *Reanimal*. Comprobado
+  con `tcrf.net/wiki/Reanimal` (403, verificación anti-bot de Cloudflare, dos
+  intentos: `curl` directo y `navegar.py` con navegador) y con la Wayback
+  Machine (`web.archive.org/cdx/search/cdx?url=tcrf.net/wiki/Reanimal` sin
+  resultados). El contenido equivalente (diálogos y escenas cortadas) sí está
+  en la propia wiki de Fandom, sección «Unused and Cut Content», usada en su
+  lugar.
+- **Captura oficial de un menú o pantalla de pausa:** ninguna de las 14
+  capturas de Steam la muestra; tampoco se encontró en la wiki. Sin esto no se
+  pudo confirmar la letra exacta de los menús (queda como candidata Barlow
+  Condensed / Fabrikat, sin comprobar).
+- **Crédito oficial de la letra del logo «REANIMAL»**: no hay press kit
+  descargable enlazado desde `reanimal.thqnordic.com`; la letra libre
+  propuesta (Anton) es comparación visual, no un dato confirmado por el
+  estudio.
+- **Texto exacto de los logros (Achievements) de Steam**: la wiki tiene la
+  página pero no se revisó línea por línea por límite de tiempo de esta tanda.
+- **Entrevistas técnicas en japonés o coreano**: *Reanimal* es sueco (Tarsier)
+  y editado por THQ Nordic (Austria), no viene de Japón/Corea, así que no se
+  buscaron entrevistas de making-of en esos idiomas más allá de confirmar que
+  el juego se presentó en el Tokyo Game Show (Cubed3) y que tiene interfaz,
+  subtítulos y voces en japonés, coreano y chino (tabla de idiomas de Steam).
+
+## Bitácora
+
+- Español: «Reanimal wiki fandom», «Reanimal tipografía logo» → sin resultados
+  útiles en español; se pasó a inglés.
+- Inglés (web): «Reanimal Tarsier Studios interview Unreal Engine art style»,
+  «Reanimal Tarsier Studios "toon shader" OR "stop-motion" art director
+  interview», «Reanimal review "no dialogue" OR "don't speak" OR subtitles
+  gibberish language children», «"Reanimal" "Unreal Engine 5" Tarsier»,
+  «Reanimal Tarsier Studios ArtStation concept artist "Konstantin Kostadinov"
+  OR "Petrus Johansson" postmortem».
+- Fandom API (`reanimal.fandom.com/api.php`): `list=allpages` (lista completa
+  de páginas), `action=parse&prop=wikitext` sobre Masks, Controls, Unused and
+  Cut Content, REANIMAL, The Boy, The Spiral Whale, Posters, Paintings
+  Portraits and Photos, Art of REANIMAL, REANIMAL: The Expanded World,
+  Coffins, The Island; `list=search` para «spiral» y «dialogue».
+- `reanimal.thqnordic.com`: HTML completo descargado y filtrado con `grep`
+  para fuentes (`font-family`, `.woff`) — reveló la letra «Fabrikat».
+- Steam: ficha de la app 2129530 (`store.steampowered.com` + API
+  `appdetails`) para descripción, 14 capturas, tabla de idiomas (interfaz,
+  audio, subtítulos) y categorías.
+- `en.wikipedia.org/wiki/Reanimal`: artículo completo (desarrollo, argumento,
+  recepción con notas de Metacritic/OpenCritic y reseñas).
+- `gamecritics.com/jason-ricci/reanimal-review`,
+  `cubed3.com/features/interviews/tarsier-interview`: entrevistas y reseñas
+  completas descargadas y filtradas con `python3 -re` (nunca impresas enteras).
+- `tcrf.net`: dos intentos (curl y `navegar.py`), 403 verificación Cloudflare
+  las dos veces; Wayback Machine CDX sin snapshots.
+- fontTools: `TTFont(...).getBestCmap()` sobre Anton, Barlow Condensed, Big
+  Shoulders Display, Permanent Marker, Yanone Kaffeesatz y Noto Sans JP
+  (descargados de `fonts.googleapis.com`/`fonts.gstatic.com`), comprobando
+  á é í ó ú ñ Ñ ü ¿ ¡ y (en Noto Sans JP) hiragana/katakana/kanji.
+- Hojas de contacto propias armadas con Pillow a partir de las capturas de
+  Steam (`/tmp/claude-0/trabajo/123-reanimal-texto/hoja_capturas*.jpg`),
+  miradas con Read antes de describir el estilo.
+
+## Cumplimiento de mis puntos (5, 6, 11, 18, 24, 25)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 5 · Tipografía | ✅ | Logo, web, cartel de neón y CJK comprobados con fontTools; interfaz sin captura confirmada (⚠️) |
+| 6 · Cómo hablan y piensan en pantalla | ✅ | Subtítulos y ausencia de globos/HUD confirmados en dos fuentes |
+| 11 · Videojuegos de la franquicia | ✅ | Tabla completa del juego base y las 5 DLC/ediciones; controles completos; sin captura de menú (⚠️) |
+| 18 · Estilo y cómo replicarlo | ✅ | Motor, cámara e inspiración confirmados por Wikipedia; Photoshop/Blender son propuesta razonada del investigador (⚠️, como en 122) |
+| 24 · Obras parecidas | ✅ | Influencias declaradas por el estudio + comparación con Little Nightmares y reseñas con nota |
+| 25 · El mundo y sus símbolos | ✅ | Reglas del mundo, argumento completo por arcos y símbolos, todo con fuente |

@@ -484,9 +484,7 @@ encontré»).
 - API directa Doblaje Wiki (`action=parse&prop=wikitext`) para 9 páginas:
   El viaje de Chihiro, Mi vecino Totoro, La princesa Mononoke, Kiki: entregas
   a domicilio, Ponyo, El increíble castillo vagabundo, Se levanta el viento,
-  Un castillo en el cielo, Nausicaä: Guerreros del viento (dos de estas
-  últimas con datos técnicos pero sin tabla completa de reparto en esta
-  tanda — Nausicaä no llegué a extraer su reparto, ver Sigue).
+  Un castillo en el cielo, Nausicaä: Guerreros del viento.
 - API directa Fandom (`ghibli.fandom.com`, `soundeffects.fandom.com`) para
   Kazuhiro Wakabayashi y My Neighbor Totoro (1988) — WebFetch dio 402, la API
   cruda funcionó.
@@ -497,9 +495,41 @@ encontré»).
   se Olvida" — no aisló el video exacto, sólo confirmó que aparece listado
   en resultados de búsqueda web de Dailymotion.
 
-Sigue: extraer el reparto de doblaje latino de Nausicaä: Guerreros del viento
-(el wikitext se bajó pero no se procesó su tabla de reparto); buscar 1-2
-frases textuales completas (no sólo nombre de archivo de audio) del doblaje
-latino con subtítulos automáticos de algún clip oficial en YouTube/Crunchyroll
-si el bloqueo de YouTube se libera; y si hay tiempo, una segunda fuente para
-la encuesta LINE Research (punto 21) y para la cita de Wakabayashi (punto 13).
+**Tanda 2 (continuación en modo `seguir`, 25/26-sep-2026):**
+- API directa Doblaje Wiki (`action=parse&prop=wikitext`) para **Nausicaä:
+  Guerreros del viento** (reparto completo del doblaje Zima 2010) y para
+  **Guerreros del viento** (la ficha de la versión editada estadounidense de
+  1985, con la tabla de reparto que rebautiza a Nausicaä «Princesa Zandra»).
+- API `action=query&prop=imageinfo` de Doblaje Wiki para sacar la URL directa
+  de 4 muestras de audio (`Howlhowl1.ogg`, `HowlWBhowl1.ogg`,
+  `MononokeDisneySan.ogg`, `MononokeZimaSan.ogg`), bajadas con curl y el
+  header `Referer: https://www.fandom.com/`, y transcritas con
+  `herramientas/voz.py` (Whisper + ficha de voz) — resuelve el pendiente de
+  «frases textuales completas» sin necesitar YouTube.
+- WebSearch (en): `Miyazaki "no cuts" clause "Warriors of the Wind" Nausicaa
+  edited dub contract` → SlashFilm, ScreenRant, cinema.wisc.edu, Wikipedia EN
+  — confirma la cláusula de «no cortes» y la anécdota de la katana a
+  Weinstein.
+- WebSearch (ja): `スタジオジブリ キャラクター 人気投票 ランキング 公式` →
+  ranking.net (voto de fans, ~83 personajes), varias encuestas de ねとらぼ
+  (Nlab/ITmedia) por categoría (chicos, heroínas, «novio ideal»).
+- WebSearch (en): `Studio Ghibli recurring character archetypes strong girl
+  heroines crone witch essay` → Fandom, CBR, Japan Nakama (arquetipos de
+  heroínas y de mujeres mayores).
+- WebSearch (ja): `Kazuhiro Wakabayashi 若林和弘 音響 スタジオジブリ 千と千尋
+  インタビュー` → Wikipedia JA, eiga.com, jfdb.jp (confirman su filmografía
+  real en Ghibli, segunda fuente para el dato biográfico, no para las citas).
+- WebSearch (ja): `LINE Research 2022 ジブリ 好きな映画 ランキング 5254人` →
+  encontró el **comunicado de prensa oficial de LINE Corporation** en
+  PR Times (fuente primaria de la encuesta) y dos encuestas más de Nlab por
+  franja de edad (20s, 40s) que confirman el mismo patrón generacional.
+- Lectura directa de `ranking.net/rankings/best-ghibli-characters` (HTML con
+  curl, extraído con regex en Python) y de un artículo de Nlab (curl +
+  regex) — no se imprimió el HTML completo, sólo los fragmentos con datos.
+
+Sin `Sigue:` — no queda pendiente ninguna tarea obligatoria de mis 7 puntos.
+Extras que no se hicieron (quedan en «No encontré» con ⚠️, no aquí): más
+canales de TikTok de fandub hispano específico de Ghibli con métricas, la
+entrevista original de Roger Ebert, un ranking oficial (no de fans/prensa) de
+personaje favorito, y datos tipo databook (altura/cumpleaños) por personaje —
+este último punto (20) se resuelve mejor en cada biblia de película.

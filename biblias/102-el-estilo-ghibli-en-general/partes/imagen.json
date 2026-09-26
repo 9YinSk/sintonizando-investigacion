@@ -160,5 +160,50 @@
     "que_es": "Fan art estilo Ghibli, etiqueta transversal studio_ghibli",
     "para_que": "Referencia de estilo (nunca pegar)",
     "licencia": "Derechos del autor original (X/Twitter)"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/majo020.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Kiki con vestido negro y lazo rojo en la panadería",
+    "para_que": "Vestuario icónico de Kiki, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/howl005.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Sophie y Howl de cerca (sombrero, vestido, capa)",
+    "para_que": "Vestuario de Sophie y Howl, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/nausicaa025.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Nausicaä con su traje azul",
+    "para_que": "Vestuario de Nausicaä, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/ponyo030.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: Ponyo en forma mitad pez sobre las olas",
+    "para_que": "Vestuario/color de Ponyo, hex medidos",
+    "licencia": "Uso libre no comercial"
+  },
+  {
+    "url": "https://www.ghibli.jp/gallery/totoro030.jpg",
+    "fuente": "ghibli.jp (oficial)",
+    "ancho": 1920,
+    "alto": 1038,
+    "que_es": "Fotograma oficial: primer plano de Totoro rugiendo",
+    "para_que": "Color de pelaje de Totoro, hex medidos",
+    "licencia": "Uso libre no comercial"
   }
 ]

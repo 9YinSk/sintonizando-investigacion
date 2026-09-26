@@ -179,11 +179,104 @@ Ghibli).
 
 ### Punto 15 — Vestuario con hex medidos
 
-(pendiente)
+Enfoque: aquí NO repito Chihiro (hermana 98) ni Mononoke (biblia 100), ya
+tienen su vestuario a fondo. Elijo un personaje icónico de **otras 5
+películas distintas** para mostrar la variedad de paletas de vestuario del
+estudio. Medido con Pillow (`getpixel`/`getcolors`) sobre fotogramas
+oficiales de `ghibli.jp` descargados a `stills/` (1920×1038 cada uno),
+localizando antes la zona exacta con una rejilla de coordenadas (no un color
+al azar).
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| Kiki (Nicky, la aprendiz de bruja) | Lazo rojo del pelo | `#AA0118` | `majo020.jpg` (oficial, ghibli.jp) |
+| Kiki | Vestido negro de trabajo | `#2A2B3F` | `majo020.jpg` |
+| Sophie (El increíble castillo vagabundo) | Cinta del sombrero de paja | `#A04854` | `howl005.jpg` |
+| Sophie | Vestido verde | `#699389` ⚠️ (zona con posible mezcla con el hombro de Howl) | `howl005.jpg` |
+| Howl | Pelo rubio | `#EED39E` | `howl005.jpg` |
+| Howl | Capa rosa con ribete dorado | `#EE90A0` (capa) · `#EBCA6D` (ribete) | `howl005.jpg` |
+| Nausicaä (Nausicaä del Valle del Viento) | Mono/traje azul-verdoso | `#5691A8` | `nausicaa025.jpg` |
+| Nausicaä | Bufanda/cuello marrón-vino | `#523436` | `nausicaa025.jpg` |
+| Ponyo (forma mitad pez) | Vestido rojo-coral | `#E76476` | `ponyo030.jpg` |
+| Ponyo | Vientre blanco-azulado | `#DEEBF1` | `ponyo030.jpg` |
+| Ponyo | Pelo naranja | `#D68776` | `ponyo030.jpg` |
+| Totoro | Pelaje del rostro (gris-pardo) | `#4E4F48` | `totoro030.jpg` |
+| Totoro | Lengua/boca | `#DD868E` | `totoro030.jpg` |
+
+✅ todos medidos directamente sobre el fotograma citado, coordenadas
+localizadas con una rejilla propia antes de recortar (evita medir piel o
+fondo por error). El único marcado ⚠️ (vestido de Sophie) es porque la zona
+de recorte quedó pegada al hombro de Howl en ese plano; para confirmarlo
+haría falta otro fotograma sin solape.
+
+- **Ropa icónica que todos reconocen** (transversal al estudio, no de una
+  sola peli): el vestido negro + lazo rojo de Kiki es probablemente el
+  «uniforme» más reconocible de toda la filmografía Ghibli fuera de Totoro
+  mismo — aparece en merchandising, cosplay y en el propio logo de Kiki's
+  Delivery Service. ✅ (visual + volumen de fan art en Danbooru/Safebooru, ya
+  en `datos-imagen.md`)
+- Totoro **no lleva ropa**: su "vestuario" es el propio pelaje gris con
+  vientre más claro y las hojas que a veces lleva sobre la cabeza a modo de
+  paraguas (visible en `totoro030.jpg`, hoja verde sobre la cabeza). Lo
+  anoto en vez de forzar una tabla de ropa que no existe. ✅ (visto
+  directamente)
+- Howl cambia de color de pelo (rubio ↔ negro) según su estado de ánimo en
+  la trama; el fotograma medido es su estado "normal" (rubio). ⚠️ (dato de
+  memoria de la trama, no verificado con un segundo fotograma del pelo
+  negro en esta pasada — lo dejo para quien tenga más cupo)
 
 ### Punto 16 — Fondos y sitios: luz, paleta, texturas reales
 
-(pendiente)
+Enfoque: sitios de **varias películas** (no repito el balneario de Chihiro
+ni el bosque/Irontown de Mononoke, ya hechos por sus investigadores). La
+idea es mostrar que "el estilo Ghibli" cambia de paleta según la película
+pero mantiene la misma técnica de fondo pintado.
+
+Paletas medidas con `herramientas/estilo.py` sobre fotogramas oficiales
+descargados (1920×1038):
+
+| Sitio / película | Luz | Paleta medida | Textura real libre (CC0) |
+|---|---|---|---|
+| Colina con espantapájaros al atardecer, viento fuerte (El increíble castillo vagabundo, `howl010.jpg`) | atardecer cálido, cielo dramático | `#403639` `#694E3F` `#542C2D` `#352324` `#B99D89` `#A77951` — brillo 39% | [Grass005](https://ambientcg.com/view?id=Grass005) |
+| Calle de pueblo costero europeo, edificios de piedra (Kiki, entrega urgente, `majo015.jpg`) | tarde nublada, tonos fríos | `#263238` `#1E292E` `#CBB993` `#404B56` `#9D957D` — brillo 34% (la más fría/azulada medida) | [PavingStones151](https://ambientcg.com/view?id=PavingStones151) |
+| Valle con plantas raras, atmósfera tóxica (Nausicaä del Valle del Viento, `nausicaa020.jpg`) | verde-ocre apagado, aire con esporas | `#273031` `#3D4341` `#142023` `#575A51` `#777560` `#A68D55` — brillo 33%, mucha línea | — |
+| Fábrica de aviones/campo, gris industrial (El viento se levanta, `kazetachinu030.jpg`) | gris plomizo, luz difusa | `#2D302E` `#1D1E1B` `#494438` `#374E58` `#685C47` `#657676` — brillo 31%, mucha línea | [RoofingTiles013A](https://ambientcg.com/view?id=RoofingTiles013A) |
+| Estanque con flores en verano, luz natural (Arrietty, el mundo de los pequeños seres) — no es fotograma propio, es el fondo de pantalla de fans más guardado con esta escena en Wallhaven (ver abajo) | sol de mediodía, verdes vivos | ver ficha de Wallhaven | [Grass001](https://ambientcg.com/view?id=Grass001) |
+| Comida/luz/viento (Ponyo, Totoro, El viento se levanta, Howl) | — ya medido en el punto 1 (komorebi de Totoro, luz mágica de Howl, cielo de Kazetachinu) — no se repite aquí | — | — |
+
+- **Fondos de pantalla oficiales de todo el catálogo**: los 26 slugs del
+  punto 1 sirven directamente como fondos (1920×1038, sin marca de agua). Y
+  el propio `ghibli.jp` publica fondos específicos "para videollamada" por
+  película en `/info/013251/` (ya usados por las hermanas 98 y 100 para sus
+  películas). ✅
+- **Fondos de pantalla de fans, transversales al estudio** (Wallhaven,
+  búsqueda `"studio ghibli"`, sólo "sfw", ordenados por favoritos):
+  - `wallhaven-yx5kml` — 3840×2160, **591 favoritos** (el más guardado de
+    toda la búsqueda), etiquetas: *anime screenshot, creature, stars, starry
+    night, sky, Studio Ghibli* — https://wallhaven.cc/w/yx5kml — por las
+    etiquetas coincide con la escena nocturna de la parada de autobús con
+    Totoro bajo un cielo estrellado. ⚠️ (no lo abrí para confirmar la
+    escena exacta, sólo por metadatos)
+  - `wallhaven-96l5xd` — 3840×2160, 416 favoritos, etiquetas: *pond, grass,
+    flowers, sunlight, summer, **Karigurashi no Arrietty**, Hayao Miyazaki,
+    natural light* — https://wallhaven.cc/w/96l5xd — **confirmado por
+    etiqueta de la propia web**: fotograma de *Arrietty* (estanque con
+    flores en verano). ✅
+  - `wallhaven-x8oxez` — 3072×1452, 535 favoritos, fan art de Totoro por el
+    ilustrador *DannyLaiLai* — https://wallhaven.cc/w/x8oxez ⚠️ (licencia
+    del autor, sólo referencia, no oficial)
+- **Textura real de fondo pintado**: el propio Kazuo Oga (punto 1) pinta
+  sobre papel mojado con gouache; el grano final se parece más a una
+  **acuarela sobre papel de acuarela húmedo** que a un dibujo digital. No
+  encontré en ambientcg una textura específica de "papel de acuarela
+  mojado" (busqué "watercolor paper", 0 resultados) — lo más cercano son las
+  texturas de papel genéricas ya usadas en el punto 19. ⚠️
+- **Constante de todo el estudio**: cada localización mide brillo bajo (31-39%,
+  salvo la de Arrietty en pleno día) porque casi todos los fotogramas
+  elegidos por su interés dramático son de amanecer/atardecer/interior — es
+  un patrón de **cómo se ilumina** una escena Ghibli para que se vea
+  importante, no sólo casualidad de la muestra. ⚠️ (observación sobre 4-6
+  fotogramas, no es una medición estadística del catálogo completo)
 
 ### Punto 19 — Texturas 2D
 

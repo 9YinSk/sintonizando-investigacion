@@ -177,9 +177,43 @@ Madera vieja (embarcaderos, el faro) | Lighthouse, muelles | Wood051 | CC0 (ambi
   alternativa libre se encarga el investigador de texto (punto 5); aquí sólo
   se deja dicho para no perder la pista.
 - Grano de la imagen: los tráilers y capturas oficiales muestran una capa de
-  grano/ruido fotográfico y viñeteado, típico del estilo stop-motion de
-  Tarsier (igual que en Little Nightmares); es un filtro de post-proceso del
-  motor, no una textura descargable — se replica en Photoshop con un ajuste
-  de grano + viñeta (así lo hizo el equipo en la biblia de Little Nightmares,
-  encargo 122, según su propio archivo de imagen) ⚠️ (una fuente, sin comprobar contra 122 directamente).
+  grano/ruido fotográfico y viñeteado; es un filtro de post-proceso del
+  motor (visible a simple vista en las capturas 4K de la hoja
+  `personajes_mascaras_01.jpg`), no una textura descargable — se replica en
+  Photoshop con un ajuste de grano + viñeta. ⚠️ (visto en las capturas, sin
+  entrevista técnica que lo confirme; esa parte técnica es del punto 18, no
+  mío).
+
+## 23 · Colaboraciones y cruces
+
+Reanimal es reciente (salió en febrero de 2026) y ya tiene merchandising
+oficial y cosplay temprano; no encontré crossovers con otros videojuegos
+(nada de Fortnite ni gacha) ni cafés temáticos.
+
+- **Colección oficial con IGN Store**: ropa (playeras, hoodies), gorras,
+  tazas y más, hecha con Tarsier Studios y THQ Nordic · anunciada por
+  @igndotcom · https://store.ign.com/pages/reanimal · ✅ (el anuncio de IGN en
+  redes + la propia tienda, dos fuentes).
+- **Figuras oficiales «Reanimal Orphan»**: set con La Niña, El Niño, Bucket,
+  Hood y Bandage, vendidas también en la tienda de IGN · https://store.ign.com/collections/reanimal · ✅ (anuncio de IGN + el tuit de Tarsier Studios sobre las figuras en la Gamescom, https://x.com/TarsierStudios/status/1959934196320780333, que dice literalmente «@THQNordic made some amazing merch for our game»).
+- **Edición Coleccionista** (ver punto 1): trae una estatuilla de Pig y una
+  mini-estatuilla de Bucket, llavero, póster del mapa «Unreliable Memories»,
+  artbook, stickers y caja exclusiva — la pose de estas figuras es
+  referencia 3D válida para la lámina · reanimal.fandom.com/wiki/REANIMAL
+  (sección «Editions») · ⚠️ (una fuente, la wiki).
+- **Cosplay**: la cosplayer rusa INOE y un colega se fotografiaron como los
+  dos hermanos (fotos en su grupo de VK, enlazadas desde la nota) ·
+  https://ixbt.games/en/news/2026/02/13/kospleery-predstali-v-obrazax-glavnyx-geroev-iz-reanimal-pobeg-s-kosmarnogo-ostrova.html
+  · ⚠️ (una fuente; no hay foto directa verificable sin cuenta de VK).
+- **Máscara de conejo imprimible en 3D** para cosplay (prop, no el personaje
+  completo), por Steve K. Smith («SKS Props») · dos copias del mismo
+  archivo: https://www.myminifactory.com/object/3d-print-reanimal-cosplay-bunny-mask-sks-props-767424
+  y https://makerworld.com/en/models/2432214-reanimal-cosplay-bunny-mask-sks-props
+  · ⚠️ (ambas webs bloquean `curl` y `navegar.py` con 403; el título de
+  búsqueda dice «Free 3D Print Model» pero no pude leer la licencia exacta
+  dentro de la ficha).
+- No encontré colaboraciones con marcas de ropa, bebidas o eventos
+  (tipo Fortnite×Marvel), ni cafés temáticos ni crossovers con otros
+  videojuegos: busqué «Reanimal x» y «Reanimal collab» en inglés, sin más
+  resultados que el merchandising de arriba. ⚠️ (no encontré, búsquedas hechas).
 
