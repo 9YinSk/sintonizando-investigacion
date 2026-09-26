@@ -98,3 +98,33 @@ Sephiroth | Botas negras | #000000 / #373741 | ídem ✅
 - Tifa: pendiente blanco en forma de lágrima en la oreja izquierda, pelo atado en la punta (cola de delfín)
 - Aerith: cinta rosa grande en la trenza (guarda dentro la White Materia), broche/collar con flor
 - Sephiroth: un solo mechón de pelo cae sobre el hombro derecho, pupilas de gato, la Masamune (katana larga)
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+El vídeo del equipo mide luz y paleta de las escenas con fotogramas.py (punto 4); aquí van los **fondos de pantalla en alta** (oficiales y de fans, enlace + tamaño + autor) y una nota rápida de la luz de cada sitio para que casen.
+
+**Oficiales, del juego móvil «Final Fantasy VII Ever Crisis» (serie «Home Wallpaper», hechos para ponerse de fondo de menú, 1080p+)**
+- «At Cosmo Canyon», 2436×1080 · https://static.wikia.nocookie.net/finalfantasy/images/2/28/Home_Wallpaper_At_Cosmo_Canyon_from_FFVIIEC.png · ✅ · luz cálida de atardecer, roca roja
+- «Battle for the Planet», 2436×1080 · https://static.wikia.nocookie.net/finalfantasy/images/3/34/Home_Wallpaper_Battle_for_the_Planet_from_FFVIIEC.png · ✅
+- «Battle to Save the Planet», 2436×1080 · https://static.wikia.nocookie.net/finalfantasy/images/9/98/Home_Wallpaper_Battle_to_Save_the_Planet_from_FFVIIEC.png · ✅
+- «Beach Vacation», 2436×1080 · https://static.wikia.nocookie.net/finalfantasy/images/6/65/Home_Wallpaper_Beach_Vacation_from_FFVIIEC.png · ✅ · Costa del Sol, luz de mediodía, agua turquesa
+- «Cunning Would-Be Brides», 2436×1080 · https://static.wikia.nocookie.net/finalfantasy/images/8/87/Home_Wallpaper_Cunning_Would-Be_Brides_from_FFVIIEC.png · ✅
+- «The Demon King and the Captive Princess», 2336×1080 · https://static.wikia.nocookie.net/finalfantasy/images/9/90/Home_Wallpaper_The_Demon_King_and_the_Captive_Princess_from_FFVIIEC.png · ✅
+- «Challenging Fate», 2436×1080 (nº95 de la hoja) · https://static.wikia.nocookie.net/finalfantasy/images/2/28/Home_Wallpaper_Challenging_Fate_from_FFVIIEC.png · ✅
+- «Glory to Mankind», 2436×1080 · https://static.wikia.nocookie.net/finalfantasy/images/e/e1/Glory_to_Mankind_from_FFVIIEC.png · ✅
+- «Traces of Two Pasts», 2308×1080 · https://static.wikia.nocookie.net/finalfantasy/images/f/fa/FFVIIEC_Wallpaper_TracesOfTwoPasts.jpg · ✅
+- Fondo de temporada 1 (genérico, todo el elenco), 2400×1080 · https://static.wikia.nocookie.net/finalfantasy/images/d/d3/FFVIIEC_Wallpaper_Season1.jpg · ✅
+- Key art oficial «Midgar Highway» de FFVII Remake (autopista elevada sobre la ciudad, noche, neones), 2510×1080 · https://static.wikia.nocookie.net/finalfantasy/images/0/0b/Final_Fantasy_VII_Remake_key_art_Midgar_Highway.png · ✅
+
+**Fan wallpapers en alta (Wallhaven, ya en `datos-imagen.md` líneas 153-167, con favoritos y origen)**
+- 5077×6000, Tifa por Nixeu, 1395 ♥ · https://w.wallhaven.cc/full/m9/wallhaven-m9p7r8.jpg · origen ArtStation · ✅
+- 7680×4800, Tifa y Aerith por WLOP, 314 ♥ · https://w.wallhaven.cc/full/o5/wallhaven-o5dm2m.jpg · ✅
+- 4780×6500, ilustración de Psychofruit, 297 ♥ · https://w.wallhaven.cc/full/28/wallhaven-281x2x.jpg · ⚠️ (sin origen enlazado)
+- 3900×6500, Psychofruit/Wickellia, 279 ♥ · https://w.wallhaven.cc/full/ey/wallhaven-ey5r9k.jpg · ⚠️
+
+**Los sitios clave y su luz** (para casar el fondo de la lámina; detalle fotograma a fotograma lo hace vídeo en el punto 4)
+- Midgar (la ciudad-planta): plato metálico gris que tapa el sol a los sectores bajos («los tugurios» / slums), luz artificial verde-azulada de neones y del Mako; arriba, en el plato, luz de atardecer anaranjada sobre torres corporativas. Ref.: Shinra Corporation (Sketchfab, punto 3) y key art «Midgar Highway» arriba. ✅
+- Sector 5 Slums / Iglesia de Aerith: luz solar suave que entra por el techo roto de la iglesia, verde de las flores creciendo entre tablones; el resto del sector es gris-marrón, chatarra y madera. Ref.: modelo 3D «Sector 5 slums church» (punto 3). ✅
+- Nibelheim: pueblo de montaña nevado, tejados de madera oscura, luz fría azulada de noche en la escena del incendio (naranja del fuego contra el azul de la nieve). Ref.: `VIICC Nibelheim.jpg` (datos-imagen.md línea 77). ✅
+- Cosmo Canyon: cañón rojo-naranja, atardecer permanente, observatorio en la roca. Ref.: wallpaper «At Cosmo Canyon» arriba. ✅
+- Costa del Sol: playa turquesa, luz blanca de mediodía, sombrillas de colores. Ref.: wallpaper «Beach Vacation» arriba. ✅

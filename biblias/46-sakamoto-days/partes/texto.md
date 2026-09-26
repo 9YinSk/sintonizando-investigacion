@@ -221,7 +221,7 @@ un pasado violento bajo una vida doméstica tranquila.
 
 ## 25 · El mundo, la historia y sus símbolos
 
-**El mundo en 5 líneas** ✅ (wiki + TV Tropes, cruzado):
+**El mundo en 5 líneas** ✅ ([Fandom: JAA](https://sakamoto-days.fandom.com/wiki/Japanese_Association_of_Assassins) + [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/SakamotoDays), cruzado):
 1. Japón, actualidad, pero con un submundo paralelo de asesinos profesionales tan organizado que casi
    sustituye a la policía (según un personaje, la policía sólo resuelve un 10 % real de los casos).
 2. La **JAA (Japanese Association of Assassins)** es el gremio legal de esos asesinos: 1.000 miembros, unos
@@ -234,7 +234,7 @@ un pasado violento bajo una vida doméstica tranquila.
    quiere destruirlo desde dentro.
 
 **La historia por arcos** (10 arcos hasta la fecha, manga en curso; el anime, 11 episodios ONA, cubre los
-2 primeros) ✅ (wiki, `Story Arcs`, resumen oficial en inglés de cada arco):
+2 primeros) ✅ ([Fandom: Story Arcs](https://sakamoto-days.fandom.com/wiki/Story_Arcs), resumen en inglés de cada arco, contrastado con [AniList](https://anilist.co/anime/177709) para el recuento de episodios):
 
 | Arco | En pocas líneas | Capítulos / Episodios |
 |---|---|---|
@@ -251,17 +251,20 @@ un pasado violento bajo una vida doméstica tranquila.
 
 **Emblemas, objetos icónicos y vocabulario propio** ✅ (wiki, cruzado en varias fichas):
 - **JAA** (Japanese Association of Assassins / 日本殺し屋連盟, «Satsuren»): el gremio legal de asesinos de
-  Japón, con agencias subcontratadas (la única con nombre, **Dondenkai Ltd**).
+  Japón, con agencias subcontratadas (la única con nombre, **Dondenkai Ltd**) ·
+  [Fandom: JAA](https://sakamoto-days.fandom.com/wiki/Japanese_Association_of_Assassins)
 - **The Order** (オーダー): los 8-10 asesinos más fuertes de la JAA, una leyenda urbana incluso para otros
-  asesinos; su líder actual es Oki.
+  asesinos; su líder actual es Oki · [Fandom: Order](https://sakamoto-days.fandom.com/wiki/Order)
 - **X's Organization / Slur** (Kei Uzuki): el grupo rebelde que quiere destruir la JAA desde dentro,
-  formado por antiguos huérfanos del **orfanato Al-Kamar**.
+  formado por antiguos huérfanos del **orfanato Al-Kamar** ·
+  [Fandom: X's Organization](https://sakamoto-days.fandom.com/wiki/X%27s_Organization)
 - **JCC (Japan Clear Creation)**: la academia de asesinos más prestigiosa de Japón, en una isla remota; casi
   1.000 alumnos, 35 profesores, 4 años de carrera y sólo **10 % de graduación** (el resto muere o
-  abandona) — el «Hogwarts» siniestro de la serie.
+  abandona) — el «Hogwarts» siniestro de la serie ·
+  [Fandom: JCC](https://sakamoto-days.fandom.com/wiki/Japan_Clear_Creation)
 - **La tienda de los Sakamoto**: convenience store de dos pisos, con un **almacén secreto de armas debajo,
   activado por un código en la caja registradora** — el objeto-símbolo de toda la serie (vida normal por
-  fuera, arsenal por dentro).
+  fuera, arsenal por dentro) · [Fandom: Sakamoto's Store](https://sakamoto-days.fandom.com/wiki/Sakamoto%27s_Store), confirmado también por TV Tropes («Hidden Supplies») ✅ (dos fuentes)
 - **El logo/mascota**: cara redonda con gafas circulares que sustituye la «O» de SAKAMOTO y de DAYS en el
   logo oficial — por el diseño (calvo, gafas redondas) se lee como una versión chibi de la cara de
   Sakamoto · ✅ (mirado en dos portadas oficiales, `ch1_small.jpg` y `vol9_small.jpg`)

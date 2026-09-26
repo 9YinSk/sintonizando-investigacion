@@ -170,3 +170,155 @@ YouTube, no sólo memes en inglés):
   realmente hace.
 
 ---
+
+## 20 · Gustos y detalles de cada personaje
+
+De AniList (fichas de personaje, con altura y cumpleaños de los
+databooks) cruzado con Death Note Wiki (Fandom, cita el tomo **13: How
+to Read** y el *settei* del anime para la altura de Ryuk). Tabla para
+pegar:
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Light Yagami | ganar, el orden, ser el mejor | perder el control, que lo descubran | tenis, estudiar | 28 de febrero | 179 cm | ✅ [AniList](https://anilist.co/character/80) + [Death Note Wiki](https://deathnote.fandom.com/wiki/Light_Yagami) (altura coincide) |
+| L Lawliet | los dulces, el azúcar, pasteles | perder, las mentiras | resolver casos, apilar cosas | 31 de octubre | 179 cm | ✅ AniList + [Death Note Wiki](https://deathnote.fandom.com/wiki/L_(character)) (altura coincide) |
+| Ryuk | las manzanas del mundo humano, el caos que provoca Light | el aburrimiento | mirar a Light «jugar», reírse | sin dato | **230 cm** | ✅ [Death Note Wiki](https://deathnote.fandom.com/wiki/Ryuk) (*settei* del anime); AniList no da altura |
+| Misa Amane | Light, la moda gótica lolita | quien mató a sus padres | modelaje, actuar, cantar, grabar vídeos | 25 de diciembre | 152 cm | ✅ AniList + Death Note Wiki (altura coincide) |
+| Near (Nate River) | los rompecabezas y los juegos | perder (sobre todo ante Mello) | armar puzles, dados, juguetes | 24 de agosto | 155 cm | ✅ [Death Note Wiki](https://deathnote.fandom.com/wiki/Near) (AniList no da altura de Near) |
+| Mello (Mihael Keehl) | el chocolate | perder ante Near | motos, liderar la mafia | 13 de diciembre | sin dato | ⚠️ [AniList](https://anilist.co/character/463) (una fuente) |
+| Tota Matsuda | sentirse útil, ser tomado en serio | que lo subestimen | ninguna particular (torpe, entusiasta) | 14 de diciembre | 174 cm | ⚠️ [AniList](https://anilist.co/character/1906) (una fuente) |
+| Teru Mikami | la justicia, a «Dios» (Kira) | los criminales, la injusticia | hacer ejercicio a diario, hasta en año nuevo | 7 de junio | 175 cm | ⚠️ [AniList](https://anilist.co/character/1904) (una fuente) |
+| Naomi Misora | Raye Penber, resolver casos | dejar casos sin cerrar | investigar | 11 de febrero | sin dato | ⚠️ [AniList](https://anilist.co/character/4959) (una fuente) |
+| Mail Jeevas (Matt) | los videojuegos | salir de casa | videojuegos, fumar | 1 de febrero | 168 cm | ⚠️ [AniList](https://anilist.co/character/2730) (una fuente) |
+
+- **El objeto que siempre lleva**: Light, la Death Note escondida (doble
+  fondo del cajón, ep. 2); L, algo dulce en la mano; Ryuk, su propia
+  Death Note; Misa, su teléfono para grabarse; Near, un juguete o dado
+  entre los dedos; Mello, una barra de chocolate ✅ (ya visto en §8 de la
+  biblia y en AniList).
+- **Cómo se ve a sí mismo**: Light se cree un dios que hace justicia; L
+  se ve como un detective más, no busca fama (nunca da la cara); Misa se
+  ve leal «al servicio» de Light, como su segunda Kira; Near ve todo
+  como un juego que hay que ganar, sin odio personal a Light; Mello
+  necesita ganarle a Near para sentir que vale ✅ (AniList, resumido).
+
+---
+
+## 21 · Por qué la gente la ama
+
+### Datos concretos: ventas, premios, crítica
+
+- **+30 millones de copias en circulación** del manga (a abril de 2015),
+  uno de los shonen más vendidos ✅ ([Wikipedia, cita ICv2](https://en.wikipedia.org/wiki/Death_Note)).
+- Tercer manga más vendido en Norteamérica según **ICv2, «Top 10 Shonen
+  Properties Q2 2009»** ✅ (misma fuente).
+- **2.º lugar en «Kono Manga ga Sugoi!»** (Takarajimasha) de 2006 y 2007
+  para lectores varones; **10.º mejor manga de la historia** en una
+  encuesta de 2007 del Ministerio de Cultura de Japón ✅.
+- Premios: **Gran Premio a Mejor Manga y Mejor Guión, Japan Expo Awards
+  2007**; **Eagle Award 2008** (favorito de los fans del Reino Unido);
+  nominado al **Seiun Award 2007** y al **Tezuka Osamu Cultural Prize
+  2007**; Obata nominado a **mejor dibujante/entintador, Eisner Awards
+  2008** ✅ (todos, Wikipedia).
+- Reseña de **Anime News Network** (Zac Bertschy): «cuento de suspenso
+  sorprendentemente cautivador y original que plantea preguntas
+  interesantes sobre la moral», elogia «gran arte, gran historia,
+  personajes convincentes» ✅ ([ANN vía Wikipedia](https://en.wikipedia.org/wiki/Death_Note)) —
+  fuente distinta de la de ventas, así que cuenta como segunda fuente
+  independiente del fenómeno.
+- Otra crítica de ANN (Briana Lawrence): lo que hace interesante a
+  Death Note es que **no hay villano, sino dos bandos que creen en la
+  misma idea de justicia** ✅ (misma reseña).
+
+### Con qué personaje se identifica el público, y por qué
+
+- Los hilos de Reddit («guess my favorite character», «unpopular
+  opinion on Light») muestran que el público se identifica con **L**
+  por su lógica fría pero torpe socialmente (un hilo con 123 votos
+  defiende que «L no es socialmente inconsciente, sólo distinto») ✅, y
+  con la caída de **Light** como una tragedia de ambición (un usuario
+  con 88 votos lo llama «mi personaje favorito de todos los tiempos» por
+  ese dibujo de hace 10 años) ✅.
+- **Matsuda** es el secundario con el que más se identifica el fandom
+  «normal»: no es un genio, comete errores, y aun así es indispensable
+  (238 votos, ver punto 7) ✅. TV Tropes también lo señala como el que
+  **dispara a Light por pura rabia humana**, no por cálculo, lo que lo
+  hace el personaje más «de la calle» de la serie ✅
+  ([TV Tropes, Heartwarming/Tearjerker DeathNote](https://tvtropes.org/pmwiki/pmwiki.php/TearJerker/DeathNote)).
+
+### Las escenas que hacen llorar (con capítulo, minuto y por qué)
+
+Sacado de TV Tropes (página *TearJerker/DeathNote*, navegada con
+`navegar.py` porque bloquea a curl):
+
+| Escena | Cap. y minuto | Qué pasa | Por qué duele |
+|---|---|---|---|
+| **Mueren L y Watari** | ep. 25, ≈00:14-19 | Rem escribe sus nombres para proteger a Misa; se ve la cuchara de L caer al suelo | Lluvia, silencio total salvo una palabra en el adelanto; Matsuda llora, Sōichirō promete vengarlo, Light se ríe en la tumba después ✅ |
+| **Suicidio de Naomi Misora** | ep. 7 | Light le confiesa que es Kira por teléfono y la obliga (por la Death Note) a matarse sin que se sepa dónde | Escena metafórica con una soga y música suave; ella acaba de perder a su prometido Raye y ahora pierde todo control ✅ |
+| **Muerte (implícita) de Misa** | final del anime | Se la ve sola en un tejado, con su vestido lolita, ojos cerrados; el ending cambia a una canción triste | How to Read 13 confirma que murió un día de San Valentín; nunca recuperó los recuerdos de Rem ni de Gelus, quienes murieron por ella ✅ |
+| **Muerte de Light** | ep. 37 (final) | Herido de bala, llama a Misa y a Takada pidiendo ayuda; nadie contesta; ve una imagen de L antes de morir | Muere solo, frío, tras ver que el crimen vuelve a subir meses después; la música final y el silencio remarcan que todo fue en vano ✅ |
+| **Suicidio de Mikami** | ep. 37 (final) | Se apuñala con un bolígrafo al ver que Light lo culpa de todo y su «dios» lo abandona | TV Tropes lo llama trágico: fue un niño bueno que la vida convirtió en fanático ✅ |
+
+**Música**: la biblia (§11) ya cubre los openings/endings; lo nuevo aquí
+es que el ending **cambia por una canción distinta y más suave** justo
+en la escena de Misa, señal deliberada de tristeza ⚠️ (TV Tropes lo dice,
+falta el nombre exacto del tema para esa escena).
+
+---
+
+## 22 · Fan dubs y comunidad hispana
+
+Busqué en YouTube con `navegar.py` (yt-dlp no puede bajar el vídeo en
+este servidor, pero la página de resultados sí carga) y en Dailymotion
+por su API. Vistas reales al 26-sep-2026:
+
+### Covers de openings/endings en español (los más vistos)
+
+- **«Death Note opening español latino»** — canal *p777pdc* — **3,6
+  millones** de vistas (13 años) ✅
+  ([enlace](https://www.youtube.com/watch?v=mslIXaFIqY8)). El cover más
+  visto que encontré de toda la serie.
+- **«Death Note "The WORLD" (Español Latino) [2013]»** — canal *Omar
+  Cabán -YuriFoX-* — **3,4 millones** de vistas ✅
+  ([enlace](https://www.youtube.com/watch?v=JiU9erFknLg)).
+- **«Death Note OPENING 2 - What's Up People? (Spanish cover)»** — canal
+  *Mane Ribs* — **1,3 millones** de vistas ✅
+  ([enlace](https://www.youtube.com/watch?v=g1mPgDBqruc)).
+- **«[Death Note] Opening 1 Full - The World (Latino)»** — canal
+  *Alberto Alva* — 30 k vistas; el mismo canal subió también el ending
+  1 «Alumina» (67 k) y el opening 2 (65 k) ✅
+  ([enlace](https://www.youtube.com/watch?v=PAeDga6hY90)).
+- En Dailymotion (mirror, vistas mucho menores): **«Death Note ~ OP 1
+  Fandub Latino Full ~ The World【Doblecero】»**, canal *Worldlatino*, 39
+  vistas ✅ ([enlace](https://www.dailymotion.com/video/x4xr7h7)) — sirve
+  como alternativa si YouTube falla, con `fotogramas.py`/`voz.py`.
+
+### Fandubs y parodias de escenas (comedia)
+
+- **«SI KIRA TUVIERA EL EGO HASTA LAS NUBES 📖»** — canal *El Canolexx*
+  — **1,3 millones** de vistas ✅
+  ([enlace](https://www.youtube.com/watch?v=dXEMsibyrmw)).
+- **«¿Acaso eres gay, Kira?»** — canal *Briff B* — **1,1 millones** de
+  vistas ✅ ([enlace](https://www.youtube.com/watch?v=qwMjbGUXBtc)).
+- **«Death note - Doblaje argentino (Fedebpolito)»** — canal
+  *Fedebpolita* — **1 millón** de vistas ✅
+  ([enlace](https://www.youtube.com/watch?v=P-EMtvZsBY8)) — doblaje de
+  fans con acento argentino, no el latino neutro oficial.
+- **«Light Yagami(Kira) Gana|Final Alternativo-Death Note-|Español
+  Latino \*VERSIÓN DEFINITIVA\* (FANMADE)»** — canal *Medatrox* — 107 k
+  vistas ✅ ([enlace](https://www.youtube.com/watch?v=YzFksR3rJys)) — final
+  alternativo hecho por fans, útil para ver qué desenlaces imagina el
+  fandom hispano.
+- **«LIGHT EN EL FUNERAL DE "L" /FANDUB ESPAÑOL LATINO»** — canal *Julio
+  di esto* — 158 k vistas ✅
+  ([enlace](https://www.youtube.com/watch?v=1u0hKqtVOLQ)).
+
+### Nota sobre el dato de recolectar.py
+
+`datos-voz.md` trae varios clips de Dailymotion bajo «Death Note fandub
+español» que en realidad son trailers oficiales de Netflix/FilmAffinity
+mal etiquetados (p. ej. «Death Note: El nuevo mundo - Tráiler español»,
+5 115 vistas) ⚠️: no son fandubs, son doblaje oficial de la película.
+No los cites como fan dub.
+
+---

@@ -111,12 +111,14 @@ Fotogramas propios (`ffmpeg -ss` sobre `archive.org/download/EVYourLieinApril/<e
 retratos de AniList (pelo: Kousei azul oscuro con gafas, Kaori rubia, Watari
 castaño-naranja sin gafas, Tsubaki castaña corta). Watari y Tsubaki, al ser
 secundarios, tienen menos planos propios: revisé episodios 1, 2, 3, 4, 6, 10,
-20 y 22 buscando específicamente sus escenas (con la lista de personajes de
-cada ficha de episodio de la wiki, para no ir a ciegas) y llegué a **4 cada
-uno** (subido desde 3 en la tanda anterior). Sigue faltando para las 6-10 que
-pide el encargo: sus arcos con más protagonismo (9-16) apenas los toqué por
-tiempo. Lo que falte lo puede completar imagen con **ilustraciones** (el
-encargo permite fotograma O ilustración) de las hojas de contacto de la wiki.
+20 y 22 en tandas anteriores y esta vez sus arcos con más protagonismo (9,
+11-19), leyendo primero la ficha de personajes de cada episodio en la wiki
+(`action=parse&prop=wikitext`) para no ir a ciegas y luego sacando el
+fotograma exacto con `ffmpeg -ss` sobre `archive.org/download/EVYourLieinApril/<ep>.mp4`.
+Con eso llegué a **6 poses cada uno** (mínimo del encargo cumplido). Episodios
+sin escena propia de ninguno de los dos pese a estar en el reparto: 9
+(Resonance, centrado en Emi), 12, 13, 15, 16 (planos de fondo, sin pose
+identificable propia en los minutos revisados) — anotado en «No encontré».
 
 | Pose | Episodio | Minuto | Sirve para |
 |---|---|---|---|
