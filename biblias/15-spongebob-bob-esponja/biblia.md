@@ -263,7 +263,23 @@ oficial de Nickelodeon:
   aniversario** ([AWN](https://www.awn.com/news/exclusive-happy-25th-spongebob-squarepants-anniversary-artwork),
   [NickALive](https://www.nickalive.net/2024/07/nickelodeon-unveils-happy-25th.html),
   [PR Newswire](https://www.prnewswire.com/news-releases/nickelodeon-commemorates-25-years-of-spongebob-squarepants-with-larger-than-life-tribute-to-original-pilot-episode-at-comic-con-international-san-diego-2024-302193519.html)).
-  No pude abrir las páginas para describir la imagen ⚠️.
+  Ahora **vistas** (segunda pasada) ✅✅:
+  - **«25 con medusas»** ([imagen, 620×413](https://www.awn.com/sites/default/files/styles/inline/public/image/featured/25_anniversary_jellyfish_final-1280.jpg)):
+    los 6 principales **cazan medusas con redes**. Don Cangrejo, Patricio,
+    Bob (red en mano, lengua fuera) y Calamardo corren en fila por el
+    césped; Gary detrás; Arenita con su traje espacial flota arriba;
+    Plankton espía bajo una hoja. Las medusas rosas forman el «25». Fondo
+    pintado, degradado turquesa y coral morado. Pose de **acción con
+    objeto**.
+  - **«25 con burbuja de flor»** ([imagen, 620×652](https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1062874-25anniversarybubblefinalforpressonly-1280.jpg)):
+    **foto de grupo mirando a cámara**. Bob sopla una burbuja con forma de
+    flor que dibuja el «25»; a su lado Don Cangrejo, Arenita (lo abraza),
+    Patricio, Calamardo y Gary. Pose de **grupo feliz que presenta**.
+  - Estilo medido con `estilo.py`: **pintado con degradado**, saturación
+    41-51 %, línea gris rosada suave. **No** es el color plano de la serie
+    (ver §18).
+  - En el mismo artículo de AWN hablan Tom Kenny, Bill Fagerbakke, Carolyn
+    Lawrence, Rodger Bumpass, Clancy Brown y Mr. Lawrence ✅.
 - Notas de prensa y fotos oficiales: [Paramount Press Express](https://www.paramountpressexpress.com/nickelodeon/shows/spongebob-squarepants/releases/).
 - **Bob Esponja: En busca de los pantalones cuadrados** (cines, 25 de
   diciembre de 2025): tráileres doblados en [ANMTV (julio 2025)](https://www.anmtvla.com/2025/07/bob-esponja-en-busca-de-los-pantalones.html)
@@ -277,8 +293,31 @@ oficial de Nickelodeon:
 - El **«Main Model Pack»** (1999): el libro que usaba el equipo para dibujar
   igual a Bob, Patricio, Calamardo, Don Cangrejo y Arenita. Trae dibujos de
   construcción con notas debajo ✅ ([Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Main_Model_Pack)).
-  No pude ver las páginas ⚠️. **Es la mejor referencia de poses**: buscarla
-  en esa wiki desde otra red.
+  **Ya se pudo ver** (segunda pasada) ✅✅: lo usó Nickelodeon Animation
+  Studio de 1999 a 2016. Al principio traía 8 personajes (Arenita en
+  bañador y con traje espacial, Bob, Patricio, Calamardo, Don Cangrejo, la
+  Sra. Puff y Perla); luego Gary y, tras la película de 2004, Plankton.
+  Karen fue al «BG Layout Stock Pack» porque es un objeto. Segunda fuente:
+  una foto de Vincent Waller (director de arte) citada en la wiki, y el
+  *making of* *Show Design* del DVD *Nautical Nonsense and Sponge Buddies*
+  (2002), minuto **18:00**.
+- **Foto del cuaderno real** abierto en la mesa de un animador, con pinceles
+  y botes de pintura; encima, un fondo con rocas y niebla y las siluetas en
+  color de Patricio, Bob, Calamardo y Don Cangrejo ([imagen, 909×532](https://static.wikia.nocookie.net/spongebob/images/9/9a/Season_1_Complete_Model_Pack.png/revision/latest?cb=20190218054312)) ✅ visto.
+- **«SpongeBob Main Characters», hoja de modelo oficial a color**
+  ([imagen, 2200×2200](https://static.wikia.nocookie.net/spongebob/images/f/fa/SpongeBob-Main-Characters-sheet-color.jpg/revision/latest?cb=20260405224319)) ✅ visto y medido:
+  cuerpo entero de frente y de lado. Página 1: Arenita en bikini y con
+  traje espacial, Gary, Bob, Patricio (short verde de flores moradas).
+  Página 2: Calamardo, Don Cangrejo, Sra. Puff, Perla. **Es la mejor
+  referencia de vestuario**: de aquí salen los hex de §16.
+- **Ficha Pantone oficial de color** ([imagen, 800×1100](https://static.wikia.nocookie.net/spongebob/images/8/8c/SpongeBob-character-model-colors-Pantone.jpg/revision/latest?cb=20210313185736)) ✅✅:
+  la hoja de color del estudio (Bob, Arenita, Sra. Puff). Tabla en §16.
+- **Bocetos de diseño**: Don Cangrejo de Hillenburg en 1996 ([imagen, 950×650](https://static.wikia.nocookie.net/spongebob/images/c/c6/Crabs-Stephen-Hillenburg-1996.jpg/revision/latest?cb=20211021073925))
+  y Patricio ([imagen, 950×800](https://static.wikia.nocookie.net/spongebob/images/9/9c/Design-patrick.jpg/revision/latest?cb=20190725154202)) ✅ visto (hoja de objetos, n.º 211 y 203).
+- **Logo de la serie en vector** ([SVG, 600×600](https://static.wikia.nocookie.net/spongebob/images/4/46/SVG_SpongeBob_SquarePants.svg/revision/latest?cb=20181117230211)),
+  colores leídos del propio código ✅✅: amarillo `#FFF463`, contorno
+  verde oliva `#B2B618` y `#919107`, rojo `#EF5240` y `#EB1C22`, marrón
+  `#B26E2D`.
 
 ### 3.4 Objetos de la serie, recreados en juegos (sólo referencia) ✅ visto y medido
 
@@ -302,6 +341,10 @@ nunca para pegar.
   cuerpo **azul pizarra** `#427193`, ventanita azul claro `#89BED7`,
   teclas redondas, **contorno negro grueso**. Otra textura (128×128) trae
   blanco, gris azulado `#738E9C` y **rojo** `#BD0C10`.
+  **Ojo (segunda pasada)**: en la serie, vista en vídeo, la caja es **gris
+  antracita `#282927`**, no azul (*Born Again Krabs*, [3:52](https://www.dailymotion.com/video/x3uhkek?t=232), §5.4) ✅ medido.
+  El azul es de la textura del juego. Para la lámina manda el gris del
+  episodio; el azul puede ser otra temporada, por eso se dejan las dos.
 - **Fachada del Crustáceo** (texturas de *Battle for Bikini Bottom* en el
   mod [hmmm2121/Doom-of-the-Bob](https://github.com/hmmm2121/Doom-of-the-Bob),
   carpeta `Assets/Maps/BikiniBottomHub/Textures`):
@@ -328,13 +371,112 @@ El generador de tarjetas de [Jordy3D](https://github.com/Jordy3D/Jordy3D.github.
 - Promedios medidos: 009 `#D6B12F`, 015 `#DFC834`, 016 `#620C0B`,
   011 `#0C293F`, 007 `#130C25`.
 
+### 3.6 Las hojas de contacto (`hojas/`) ✅ vistas
+
+Salen de `investigar_serie.py --wiki spongebob` con 6 fichas en inglés
+(«Eugene H. Krabs», «Squidward Tentacles», «SpongeBob SquarePants
+(character)», «Patrick Star», «Sheldon J. Plankton», «Krusty Krab»): 254
+imágenes, 214 grandes, 5 hojas. Quedan 3. El número es el del recuadro
+amarillo de cada miniatura. Las revisé yo, una por una.
+
+**`personajes_01.jpg`** (n.º 1-48): stock art de cuerpo entero, renders 3D
+y fotogramas en 1920×1080.
+
+| N.º | Qué es | Para qué |
+|---|---|---|
+| 1 | Bob feliz, brazos arriba, stock art 4429×4368 ([original](https://static.wikia.nocookie.net/spongebob/images/6/6b/Spongebob_happy_stock_art_1.octet-stream.png/revision/latest)) | **Celebrar**, presentar |
+| 2 | Calamardo con desgana, stock art 3500×3500 ([original](https://static.wikia.nocookie.net/spongebob/images/4/49/Squidward_unhappy_stock_art.png/revision/latest)) | **Cajero harto** (concepto B) |
+| 3 | Don Cangrejo sonriente, pinzas abiertas, 3000×3000 ([original](https://static.wikia.nocookie.net/spongebob/images/7/7f/Eugene_Krabs.png/revision/latest)) | **Presentar** la oferta (concepto A) |
+| 8 | Patricio, stock art pintado, 2500×2500 ([original](https://static.wikia.nocookie.net/spongebob/images/5/5f/Patrick_stock_art_%28oil_painted%29.png/revision/latest)) | Animar |
+| 9 | Plankton malvado, 2500×2500 ([original](https://static.wikia.nocookie.net/spongebob/images/6/6b/EvilPlankton24.png/revision/latest?cb=20251104033338)) | Concepto C |
+| 11 | Calamardo con el clarinete, 2009×2421 ([original](https://static.wikia.nocookie.net/spongebob/images/7/72/Squidward_with_clarinet_stock_art.png/revision/latest?cb=20200812083255)) | Calamardo fuera del trabajo |
+| 16 | Patricio en *Nickelodeon All-Star Brawl 2* (render 3D) | Cruces (§23) |
+| 17 | El Crustáceo por fuera, stock 2400×1746 ([original](https://static.wikia.nocookie.net/spongebob/images/7/77/KrustyKrabStock.png/revision/latest?cb=20221031053149)) | Fondo de día |
+| 19 y 38 | **La billetera de Don Cangrejo** con su carné de Fondo de Bikini | Objeto de dinero |
+| 21 | Oficina de Don Cangrejo, 2071×1500 ([original](https://static.wikia.nocookie.net/spongebob/images/5/52/KrustyKrabOfficeDay.png/revision/latest?cb=20231121222630)) | Fondo interior |
+| 23 | Cocina del Crustáceo, 1898×1500 ([original](https://static.wikia.nocookie.net/spongebob/images/2/20/KrustyKrabKitchenStock.png/revision/latest?cb=20231121223009)) | Fondo interior |
+| 25, 27, 30, 32, 33 | Renders 3D de *Kamp Koral* (Don Cangrejo, Patricio, Plankton, Calamardo, Bob) | Volumen para Blender |
+| 39 | Don Cangrejo gritando, primer plano (*Friendiversary*, 1920×1080, [original](https://static.wikia.nocookie.net/spongebob/images/f/f8/Friendiversary_130.png/revision/latest?cb=20230623224126)) | **Regañar** |
+| 40 | Don Cangrejo con sonrisa enorme (*Krabby Patty Creature Feature*, [original](https://static.wikia.nocookie.net/spongebob/images/5/5a/Krabby_Patty_Creature_Feature_012.png/revision/latest?cb=20171022164932)) | **Celebrar** |
+| 42 | Don Cangrejo abre la billetera con las dos pinzas (*Mall Girl Pearl*, [original](https://static.wikia.nocookie.net/spongebob/images/0/00/Mall_Girl_Pearl_034.png/revision/latest?cb=20220706154704)) | **Pagar / cobrar** |
+
+**`fondos_01.jpg`** (n.º 49-96): fotogramas 1920×1080 de sitios.
+
+| N.º | Qué es | Para qué |
+|---|---|---|
+| 75 | Laboratorio del Balde de Carnada con Karen (*Plankton Retires*, [original](https://static.wikia.nocookie.net/spongebob/images/2/27/Plankton_Retires_043.png/revision/latest?cb=20221221023340)) | Concepto C |
+| 79 | La piña de Bob | Fondo |
+| 84 | Bob y Don Cangrejo junto a la puerta «EMPLOYEES ONLY» | Interior |
+| **86** | **Don Cangrejo en una escalera cuelga el cartel «DAILY SPECIAL BBQ NUTS»**, rojo con letras amarillas, junto a «ORDER HERE»; Calamardo en el **barquito de la caja** (*Hot Crossed Nuts*, [original](https://static.wikia.nocookie.net/spongebob/images/e/e0/Hot_Crossed_Nuts_045.png/revision/latest?cb=20230623060414)) | **Oferta del día** (concepto B) |
+| **88** | **Cartel de madera colgante «KOWBOY KRAB'S NUT SHACK»** con precios y puntos guía: «NUTS…… 5.00», «KRABBY PATTY…… 1.25»; Don Cangrejo con sombrero vaquero, sonriendo (*Hot Crossed Nuts*, [original](https://static.wikia.nocookie.net/spongebob/images/c/c1/Hot_Crossed_Nuts_124.png/revision/latest?cb=20230623060311)) | **Cartel de precios de la propia serie** (concepto A) |
+| 90 | El Crustáceo **nevado**, en stop-motion (*It's a SpongeBob Christmas!*, [original](https://static.wikia.nocookie.net/spongebob/images/6/63/It%27s_a_SpongeBob_Christmas%21_063.png/revision/latest?cb=20200105214847)) | Ofertas de Navidad |
+| 93 | El Crustáceo de día (*The Patrick Star Show*, [original](https://static.wikia.nocookie.net/spongebob/images/a/af/The_Krusty_Krab_in_TPSS.png/revision/latest?cb=20230531052600)) | Fondo de día |
+| 94 | El Crustáceo **de noche** con farolillos (*The Legend of Boo-Kini Bottom*, [original](https://static.wikia.nocookie.net/spongebob/images/9/90/The_Legend_of_Boo-Kini_Bottom_174.png/revision/latest?cb=20171014103718)) | Ofertas de Halloween o de noche |
+| 96 | Bob y Don Cangrejo ante una pared de monitores (*Truth or Square*, [original](https://static.wikia.nocookie.net/spongebob/images/0/0e/Truth_or_Square_344.png/revision/latest?cb=20220205010123)) | Idea de «pantallas de tienda» |
+
+**`objetos_01.jpg`** (n.º 193-214): fichas, carteles y bocetos.
+
+| N.º | Qué es | Para qué |
+|---|---|---|
+| **194** | **El tablón de corcho del Crustáceo** (900×1000): notas clavadas, «Money of the Month Club», «IN CASE OF CHOKING», «Modern Dance Lessons», «ROOMMATE WANTED», «Canned Food Drive», «Mrs. Puff's Driving School», una lista de la compra ([original](https://static.wikia.nocookie.net/spongebob/images/5/55/KKbulletinboard.jpg/revision/latest?cb=20130619095820)) | **Tablón de ofertas** (lámina 2) |
+| 196 | Ficha Pantone de color | Colores exactos (§16) |
+| 200 | **Carné de conducir de Patricio**, «Bikini Bottom Driver License» (1024×768, [original](https://static.wikia.nocookie.net/spongebob/images/3/3f/License.jpg/revision/latest?cb=20120329082855)) | Documento del mundo (§19) |
+| 203, 198 y 211 | Bocetos de Patricio y de Don Cangrejo (Hillenburg, 1996) | Línea de construcción |
+| 204 | Biografía temprana de Plankton (2000), página de libro | Tono del mundo |
+| **209** | **Don Cangrejo abraza un billete de $10.000.000** en su cama (950×675, [original](https://static.wikia.nocookie.net/spongebob/images/5/55/Krabs_with_money.png/revision/latest?cb=20200213000335)) | **Amor al dinero** |
+| 214 | Cuadro del mundo «The Clam Calamity» con marco dorado | Cartel antiguo (§19) |
+
+> Corrección del redactor: la parte de imagen decía que la billetera es la
+> n.º 39 y que «Phylum Porifera» es la n.º 98 de esta hoja. Al mirarla, la
+> billetera es la **19** (y la 38) y la hoja de personajes sólo llega a
+> la 48: «Phylum Porifera» no está en las 3 hojas guardadas ⚠️.
+
 ---
 
 ## 4 · Fan art y 3D (sólo como referencia)
 
-### 4.1 Modelos 3D en Sketchfab ⚠️ licencia
+### 4.1 Modelos 3D en Sketchfab (licencias comprobadas por la API en la segunda pasada)
 
-Sketchfab no abre desde aquí; los datos salen del resultado de búsqueda.
+En la primera pasada Sketchfab no abría y la licencia salía del resultado
+de búsqueda. En la segunda se miró el campo de licencia de la **API de
+Sketchfab** (`/v3/search?type=models`). Lo que no se volvió a comprobar
+queda como estaba («según la búsqueda»).
+
+**Confirmado por la API** ✅:
+
+| Modelo | Autor | Licencia (API) | Para qué |
+|---|---|---|---|
+| [BFBBR - Krusty Krab Cash Register](https://sketchfab.com/3d-models/bfbbr-krusty-krab-cash-register-cc79260fc5f44d73b8268f68dfb83a3f) | SMF Features Developed From Cheryl Hill | CC Attribution | la caja del Crustáceo, pero **sacada del juego** *Rehydrated* (THQ Nordic): mirar, no publicar |
+| [The Krusty Krab](https://sketchfab.com/3d-models/the-krusty-krab-e109df8b1cb1487dbf2553e5e2d7eff1) | Mrlunettes | **CC Attribution-NonCommercial** | **corregido**: antes decía «descarga gratis»; es **no comercial** |
+| [Mr Krabs (Spongebob)](https://sketchfab.com/3d-models/none-d7e712d733ae4de69623cd408d68a289) | Yanez Designs | CC Attribution | Don Cangrejo en 3D |
+| [Krabby Patty (Spongebob)](https://sketchfab.com/3d-models/none-6bf2dc6ffc594a8598bcf84f5d0325f1) | Yanez Designs | CC Attribution | la Cangreburger, objeto suelto |
+| [Krusty Krab Employee Hat (Spongebob)](https://sketchfab.com/3d-models/none-8d0e167b2eef4c9d8b99bfd4823d9329) | Yanez Designs | CC Attribution | el gorro de empleado |
+| [Krusty Krab Menu (Spongebob)](https://sketchfab.com/3d-models/none-2d19327e22284f7e85ffd444e55bbbc8) | Yanez Designs | CC Attribution | **el menú de precios**, para el objeto del canal |
+| [Jelly Fish (Spongebob)](https://sketchfab.com/3d-models/none-4227c0c46a1640ef9c61c455f7bc10f7) | Yanez Designs | CC Attribution | medusa |
+| [The SpongeBob Squarepants](https://sketchfab.com/3d-models/none-74e87e0af5b2495792d8068d561fd816) | Pixel | CC Attribution | Bob completo |
+| [Plankton](https://sketchfab.com/3d-models/none-683b0ce1f9324ae9ba59bcda10a18d80) | 1ooooJ0Y | CC Attribution | Plankton |
+| [Sandy Bikini](https://sketchfab.com/3d-models/none-ee46def4864945198c053754725f9a9a) | Placidone | CC Attribution | Arenita |
+| [Spongebob Rig](https://sketchfab.com/3d-models/spongebob-rig-5009dc11dd1f45d3ac8dda79b06e09db) | FreeModeler12345 | CC Attribution, descargable | *rig* de Bob; dedos y casi toda la cara **sin riggear** (lo dice el autor) |
+| [Battle for bikini bottom SpongeBob Rig](https://sketchfab.com/3d-models/none-e0848f57d5074f9daf90d9b7817ce098) | — | CC Attribution | **sacado del juego**: mirar, no usar |
+
+**Del recolector** (licencia de la API guardada en `datos-imagen.md`) ✅:
+[Plankton de Vin D'Alembert](https://sketchfab.com/3d-models/none-3f1a3065100c44038aa0fee5886e5818),
+[«Calamardo Fuerte Hermosura»](https://sketchfab.com/3d-models/none-79e86cbc30a94005af544fd1e8203c53)
+y [«Calamardo en Reposo»](https://sketchfab.com/3d-models/none-84f4d2a5a4af43f1810045daabffdf6b) de Mike BlueG,
+[Gary de Osvaldo Mendes](https://sketchfab.com/3d-models/none-873d034079d84b70b2c22bfe1d121558),
+[«BOB ESPONJA RIGGED» de Sapx](https://sketchfab.com/3d-models/none-ba715233cda9453fb2ec47c6a641d84d)
+y [«Colorburgers - Pretty Patties» de David Tena C.](https://sketchfab.com/3d-models/none-d95d332a61114c788b03aac3047c2fdf):
+todos CC Attribution.
+
+**Lo mejor**: el catálogo de **Yanez Designs** (Don Cangrejo, la
+Cangreburger, el gorro, el menú, la medusa). Piezas sueltas, CC BY, fáciles
+de juntar en Blender. Crédito: «*Título* por Yanez Designs, CC BY 4.0,
+Sketchfab».
+
+**Sin volver a comprobar** (tabla de la primera pasada, abajo): la
+licencia de «The Krusty Krab» de pizzabrian no reapareció en la API ⚠️ (quizá
+lo retiraron); la caja genérica de BumBácBonifác sale como descarga gratis
+**sin licencia CC explícita** en la API ⚠️.
 
 | Modelo | Autor | Licencia que dice | Ojo |
 |---|---|---|---|
@@ -343,7 +485,7 @@ Sketchfab no abre desde aquí; los datos salen del resultado de búsqueda.
 | [TSCP - Krusty Krab Interior](https://sketchfab.com/3d-models/tscp-krusty-krab-interior-360b06ee55de4fda975b7f58f4568045) | el mismo | descarga gratis | interior entero: barco de la caja, mesas. |
 | [The Krusty Krab](https://sketchfab.com/3d-models/the-krusty-krab-45f210e1a77b481a872040b627832415) | pizzabrian | CC BY (según la búsqueda) | hecho por un fan. Comprobar licencia antes. |
 | [The Krusty Krab!](https://sketchfab.com/3d-models/the-krusty-krab-4db13d7b4ac642028f51072a2b8b1eb5) | Phillyy cheesesteakk gamingg (@milene2009) | CC BY (según la búsqueda) | fan. |
-| [The Krusty Krab](https://sketchfab.com/3d-models/the-krusty-krab-e109df8b1cb1487dbf2553e5e2d7eff1) | Mrlunettes | descarga gratis | fan, interior y exterior. |
+| [The Krusty Krab](https://sketchfab.com/3d-models/the-krusty-krab-e109df8b1cb1487dbf2553e5e2d7eff1) | Mrlunettes | **CC BY-NC** (API, segunda pasada) | fan, interior y exterior. No comercial. |
 | [Cash Register](https://sketchfab.com/3d-models/cash-register-1e04d7a73a004e2380e2ee715ce7bd06) | BumBácBonifác (@ondraman43) | descarga gratis | **caja genérica**: la más segura como base para modelarla a mano. |
 
 **Recomendación**: modelar la caja y el barquito a mano en Blender (son
@@ -385,8 +527,12 @@ Según [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Krusty_Krab)
 - **La oficina de Don Cangrejo**: caja fuerte, escritorio hecho con un
   **baúl de marinero**, sillas de barril, cuadros y **dinero enmarcado en
   la pared**.
-- La caja registradora es **gris pizarra o azul oscura**. En la wiki la
-  llaman **«Betsy»** y **«Cashy»** ⚠️ ([ficha de la caja](https://spongebob.fandom.com/wiki/Krusty_Krab_cash_register)).
+- La caja registradora es **gris pizarra o azul oscura** según la wiki.
+  **Medida en un fotograma** (segunda pasada): **gris antracita `#282927`**
+  ([*Born Again Krabs*, 3:52](https://www.dailymotion.com/video/x3uhkek?t=232)) ✅.
+  En la wiki la llaman **«Betsy»** y **«Cashy»** ⚠️ ([ficha de la caja](https://spongebob.fandom.com/wiki/Krusty_Krab_cash_register)).
+- El barquito de la caja se ve bien en la hoja `fondos_01.jpg`, n.º 86:
+  casco blanco con franja roja, Calamardo dentro, caja gris encima ✅ visto.
 - En la serie el sitio de la caja se llama **«register boat»** (16x12
   00:20:17, subtítulo) ✅.
 
@@ -395,19 +541,49 @@ Según [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Krusty_Krab)
 - **El Balde de Carnada** (Chum Bucket), de Plankton y Karen: el
   restaurante que **no triunfa** ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Plankton_and_Karen),
   [Plankton: The Movie](https://en.wikipedia.org/wiki/Plankton:_The_Movie)). Está
-  **enfrente** del Crustáceo ⚠️ (de memoria).
+  **enfrente**, al otro lado de la calle ✅ (segunda pasada: [Wikipedia](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)
+  y la biografía de Plankton de 2000, «Across the street is the Chum
+  Bucket», hoja `objetos_01.jpg`, n.º 204).
   En la 1.ª temporada latina se llamó **«El Balde de Bocados»** ✅ (Doblaje Wiki).
 - **Barg'N-Mart**: la tienda barata (01x01 00:06:02, subtítulo) ✅.
 - **El cielo de Fondo de Bikini**: nubes con forma de **flor**. Hillenburg
-  dijo que eran para dar **«sensación hawaiana»** ⚠️ (una fuente: [foro de SBMania](https://www.sbmania.net/forums/threads/what-up-with-the-flower-clouds.43079/)).
+  dijo que eran para dar **«sensación hawaiana»** ✅ (segunda pasada: [foro de SBMania](https://www.sbmania.net/forums/threads/what-up-with-the-flower-clouds.43079/)
+  y [Wikipedia](https://en.wikipedia.org/wiki/SpongeBob_SquarePants), con
+  nota a Hogan's Alley: «como una camisa hawaiana floreada»).
   El **arco de flores** ya estaba en su biblia de 1996 ✅ ([Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Flower_arch)).
+- **La casa de Don Cangrejo** (segunda pasada, visto en vídeo) ✅: hay **dos
+  versiones**. En *Se busca ayuda* es **un cofre del tesoro** aparte
+  ([4:30](https://www.dailymotion.com/video/x51sid2?t=270)). En el
+  *Krusty Krab Training Video* duerme **dentro del Crustáceo**, en una cama
+  con forma de barquito ([0:42](https://www.dailymotion.com/video/x3uvarj?t=42)).
+  No es un error nuestro: la serie no cuida esa continuidad.
 
-### 5.4 Luz ⚠️ (de memoria; comprobar en fotogramas)
+### 5.4 Luz (medida en fotogramas en la segunda pasada)
 
+- **Fuera, de día** ✅ medido: fotograma 0:24 del *Krusty Krab Training
+  Video* ([ver](https://www.dailymotion.com/video/x3uvarj?t=24)), con
+  `estilo.py`. **Cielo `#289FBF`** (27 %), verde agua `#4BC2AB` (24 %),
+  madera y sombra oscuras `#1F1F15` y `#465247` (15 % y 13 %), arena
+  `#D0CFBA` (14 %), flor verde `#97A680` (7 %). Cielo turquesa **liso**,
+  sombra **plana** bajo el edificio, flores de fondo en amarillo, celeste y
+  violeta. **Luz plana de mediodía, sin sombras duras**: antes era de
+  memoria, ahora está visto.
+- **La caja, de cerca** ✅ medido: fotograma 3:52 de *Born Again Krabs*
+  ([ver](https://www.dailymotion.com/video/x3uhkek?t=232)). Cuerpo **gris
+  antracita `#282927`** (28 %), ventana del local azul `#3C95B7` (10 %),
+  pinzas de Don Cangrejo `#B93F23` (5 %), negro del encuadre `#040505`
+  (37 %, incluye las barras del vídeo).
 - **Dentro del Crustáceo**: luz cálida de día, tonos de madera, sin
-  sombras duras. Los ojos de buey dejan ver agua azul.
-- **Fuera**: agua azul turquesa, arena clara, cielo de flores. Luz plana
-  de mediodía.
+  sombras duras. Los ojos de buey dejan ver agua azul. ⚠️ No se midió un
+  fotograma del interior (quedó pendiente, sobre todo de noche).
+- **De noche**: el mismo plano del Crustáceo con luna llena ([0:38](https://www.dailymotion.com/video/x3uvarj?t=38))
+  y la hoja `fondos_01.jpg`, n.º 94 (farolillos) ✅ visto.
+- **Cierre de cada episodio**: cartela amarilla con flores de fondo para
+  los «BACKGROUND PAINTERS» ([0:16](https://www.dailymotion.com/video/x3v1puo?t=16))
+  y el logo de **United Plankton Pictures** dibujado a mano, plancton a
+  rotulador sobre cian ([0:34](https://www.dailymotion.com/video/x3v1puo?t=34));
+  después, el logo de Nickelodeon garabateado en naranja sobre negro
+  ([0:39](https://www.dailymotion.com/video/x3v1puo?t=39)) ✅ visto.
 - Dato del subtítulo: **«the store closes at 6:00»** (03x10 00:12:43,
   vídeo de formación). Es de día.
 
@@ -419,14 +595,16 @@ Según [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Krusty_Krab)
 | Pantalón de Bob | `#AC5810` | medido en la portada ✅ |
 | Corbata de Bob | `#DE1A11` | medido en la portada ✅ |
 | Camisa de Bob | `#FCFAF1` | medido en la portada ✅ |
-| Don Cangrejo (rojo) | `#EA3941` | paleta de fans ⚠️ |
-| Calamardo (verde azulado) | `#54DBC2` | paleta de fans ⚠️ |
-| Patricio (rosa) | `#FF808B` | paleta de fans ⚠️ |
-| Plankton (verde) | `#68A079` | paleta de fans ⚠️ |
-| Karen (azul) | `#5886E8` | paleta de fans ⚠️ |
-| Logo: amarillo, amarillo oscuro, turquesa, azul | `#FFF56C` `#AEAD0D` `#26B9C8` `#0457A0` | [ColorsWall](https://colorswall.com/palette/3918), [SchemeColor](https://www.schemecolor.com/spongebob-squarepants-logo-colors.php) ⚠️ |
+| Don Cangrejo (rojo) | `#F04A3E` (hoja de modelo); `#D34835` (stock art) | medido, dos fuentes ✅ (antes `#EA3941` de fans) |
+| Calamardo (verde menta) | `#B6D5CA` (hoja); `#C3DDD3` (stock art) | medido, dos fuentes ✅ (antes `#54DBC2` de fans) |
+| Patricio (rosa salmón) | `#FE9285` (hoja); `#F4B1B5` (stock art) | medido, dos fuentes ✅ (antes `#FF808B` de fans) |
+| Plankton (verde) | `#00613B`, brillo `#6FA48C` | leído del SVG oficial ✅✅ (antes `#68A079` de fans) |
+| Karen (azul) | `#5886E8` | paleta de fans ⚠️ (no se midió en la segunda pasada) |
+| Logo (del SVG oficial) | `#FFF463` `#B2B618` `#919107` `#EF5240` `#EB1C22` `#B26E2D` | leído del código del vector ✅✅ (§3.3). Los de fans (`#FFF56C` `#AEAD0D` `#26B9C8` `#0457A0`, [ColorsWall](https://colorswall.com/palette/3918)) quedan sólo como contraste |
+| Cielo y agua de fuera | `#289FBF` `#4BC2AB`, arena `#D0CFBA` | medido en fotograma §5.4 ✅ |
 | Menú: crema, texto, título | `#E7D09C` `#51241D` `#954033` | medido §3.4 ✅ |
-| Caja registradora | `#427193` `#89BED7` | medido §3.4 ✅ |
+| Caja registradora (serie) | `#282927` | medida en fotograma §5.4 ✅ |
+| Caja registradora (textura de juego) | `#427193` `#89BED7` | medido §3.4 ✅ |
 | Letrero de concha | `#E4CBD6` | medido §3.4 ✅ |
 | Puertas y ventanas | `#4254A4` `#3B5DB3` | medido §3.4 ✅ |
 | Madera de la fachada | `#6A4B2D` | medido §3.4 ✅ |
@@ -440,8 +618,10 @@ y [Brand Palettes](https://brandpalettes.com/spongebob-squarepants-color-codes/)
 - Madera de la fachada y del barquito: [Weathered Planks](https://polyhaven.com/a/weathered_planks),
   [Wood Floor Deck](https://polyhaven.com/a/wood_floor_deck),
   [Wood Planks](https://polyhaven.com/a/wood_planks) (Poly Haven, CC0).
-- Papel del ticket: cualquier papel térmico; buscar en Poly Haven o
-  ambientCG (no lo busqué ⚠️).
+- Papel: [ambientCG Paper001](https://ambientcg.com/view?id=Paper001) a
+  Paper006, CC0, 2K ✅ (API comprobada en la segunda pasada). Sirve para el
+  grano de los fondos pintados. **Papel térmico** de ticket: no se
+  encontró uno libre ⚠️.
 - **Ojo**: la serie es **plana y pintada**. Si se usa textura real, que
   sea suave, como un fondo pintado a mano, no una foto.
 
@@ -481,6 +661,35 @@ lado del menú. **Anton** es la que más se parece al título del menú.
 > la lámina, cualquier frase del narrador va en Some Time Later, en
 > mayúsculas desiguales y en dos o tres líneas centradas.
 
+### 6.3 Segunda pasada: lo comprobado de nuevo
+
+- **Some Time Later, comprobada otra vez** ✅✅: el investigador de texto
+  bajó el `.otf` real ([archivo](https://github.com/Jordy3D/Jordy3D.github.io/raw/master/projects/sometimelater/Some%20Time%20Later.otf))
+  y con `TTFont(f).getBestCmap()` vio los 14 signos (á é í ó ú Á É Í Ó Ú
+  ñ Ñ ¿ ¡) entre **1177 glifos**. La tabla `name` del archivo dice «SIL
+  Open Font License, Version 1.1» (© 2016-2020 Fredrick R. Brennan).
+- `1001fonts.com`, `dafont.com` y `fontmeme.com` **ya no dan 403**. Los
+  datos no cambian; ahora se pueden enlazar.
+- Las letras del logo (**Krabby Patty** y **Las Vegas Jackpot**) siguen
+  con ⚠️: sólo las da FontMeme y no son libres para uso comercial.
+- **La letra de los globos de los cómics** (*SpongeBob Comics*, United
+  Plankton Pictures / Papercutz): **no la encontré** ⚠️. Sólo hay
+  generadores de texto que imitan el logo. Búsquedas: «SpongeBob comics
+  lettering font», «Papercutz SpongeBob lettering».
+
+### 6.4 Una letra para cada uso (todas libres y con tildes, ñ, ¿ y ¡)
+
+| Uso | En la serie | Letra libre | Comprobada |
+|---|---|---|---|
+| Logo o título | logo de la serie (Krabby Patty / Las Vegas Jackpot, no libres) | **Luckiest Guy** o **Titan One**, con los colores del SVG (`#FFF463` y contorno `#B2B618`) | ✅ fontTools |
+| Globo normal | **la serie no usa globos** (§7) | no aplica en pantalla; en la lámina el texto va en un objeto del mundo (menú, cartel, ticket) con **Anton** o **Chewy** | ✅ |
+| Grito | letras gordas y torcidas de los juegos («SUPER COMBO!», §3.1) | **Luckiest Guy** en mayúsculas, un poco girada | ✅ |
+| Pensamiento | no hay convención propia vista en pantalla ⚠️ | la tarjeta del narrador en **Some Time Later** hace de «voz de fuera» | ✅ letra; ⚠️ convención |
+| Onomatopeya | el «cha-ching» de la caja (§2.1) se oye, no se rotula ⚠️ | **Bangers** o **Luckiest Guy** | ✅ letra |
+| Cartel del mundo | «ORDER HERE» a mano, «NUT SHACK» en madera (§3.6, n.º 88), menú «Galley Grub» | **Chewy** (a mano), **Anton** (menú) | ✅ |
+| Interfaz de juego | rótulos amarillos redondos con borde oscuro de *BFBB* | **Titan One** o **Luckiest Guy**, amarillo con borde oscuro | ✅ |
+| Subtítulos o créditos | tarjetas de tiempo y créditos | **Some Time Later** | ✅✅ |
+
 ---
 
 ## 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
@@ -516,7 +725,19 @@ lámina:
 - **La concha del letrero** con «THE KRUSTY KRAB».
 - **El botón de Calamardo**: «**I Really Wish I Weren't Here Right Now**»
   (03x10 00:15:11). Un botón de uniforme con una frase: **un cuadro de
-  diálogo que existe en la serie**.
+  diálogo que existe en la serie**. **Visto** en la segunda pasada: en el
+  pecho, bien legible, mientras lee apoyado en la caja ([1:40](https://www.dailymotion.com/video/x3uvarj?t=100)) ✅.
+- **El tablero «YOUR WORK STATION»** con casillas rotuladas (Ketchup,
+  Mustard, Mayo, Patties…), visto en el *Training Video* ([1:20](https://www.dailymotion.com/video/x3uvarj?t=80)) ✅:
+  un cartel con casillas, bueno para una lista de tiendas.
+- **Carteles de oferta de la propia serie** ✅ vistos en la hoja
+  `fondos_01.jpg`: «DAILY SPECIAL BBQ NUTS» (n.º 86, rojo con letras
+  amarillas) y el cartel de madera «KOWBOY KRAB'S NUT SHACK» con
+  «NUTS…… 5.00» y «KRABBY PATTY…… 1.25» (n.º 88). **Es el mejor modelo
+  de cartel de precios**: madera colgada de una polea, puntos guía,
+  precio a la derecha.
+- **El tablón de corcho del Crustáceo** (hoja `objetos_01.jpg`, n.º 194) ✅:
+  notas de colores clavadas con chinchetas. Modelo para la lámina 2.
 - **La pantalla de Karen**: Karen es un ordenador; su cara es una pantalla
   ⚠️ (de memoria: una onda verde que se mueve al hablar; comprobar).
 - **El ticket de la caja**: no encontré una escena con ticket impreso ⚠️.
@@ -542,7 +763,14 @@ lámina:
   borde oscuro («SUPER COMBO!»), visto en la captura ✅.
 - Cajas de diálogo de los juegos: **no pude verlas**. Game UI Database
   tiene la ficha de *Rehydrated* ([id 1490](https://www.gameuidatabase.com/gameData.php?id=1490))
-  pero no abre desde aquí ⚠️.
+  pero no abre desde aquí ⚠️. En la segunda pasada tampoco: ni en directo
+  (403) ni en Wayback, que sólo guardó el armazón vacío de la web.
+- **Avisos de *Rehydrated*, con el icono del botón dentro de la frase** ✅
+  (segunda pasada): en el texto del juego se ve
+  `<GameCmd>Press</GameCmd> <img id="R1_Button"/> <GameCmd>to travel to the Spongeball Arena</GameCmd>`
+  ([The Cutting Room Floor vía Wayback](https://web.archive.org/web/20260911094445/https://tcrf.net/SpongeBob_SquarePants:_Battle_for_Bikini_Bottom_Rehydrated),
+  archivo `Game.locres`). El icono va **metido en la frase**, no aparte.
+  Modelo para un aviso corto: «Pulsa 🅡 para reclamarlo».
 
 ### 7.7 Cómo se traduce a una lámina fija
 
@@ -605,9 +833,11 @@ Las frases con minuto salen del subtítulo inglés (§2).
 - **Su debilidad para este canal**: **lo gratis que recibe le encanta**
   («any fella who's giving away free stuff is a friend o' mine», 02x08
   00:06:00); **lo gratis que da le duele** («it's f-f-f…», 15x11 00:01:20).
-- **Cuerpo** ⚠️ (de memoria; comprobar): ojos en **antenas** que se
-  estiran; **pinzas** que chasquean; camina de lado con un **ruido de
-  tacones**; cuando huele dinero, olfatea con la nariz al aire.
+- **Cuerpo**: ojos en **antenas** y **pinzas** enormes que se abren al
+  gritar ✅ visto (hoja `personajes_01.jpg`, n.º 3, 39 y 40; vídeo
+  [3:55](https://www.dailymotion.com/video/x3uvarj?t=235)). Que camine de
+  lado con **ruido de tacones** y que olfatee el dinero con la nariz al
+  aire sigue ⚠️ (de memoria).
 
 ### Bob Esponja — el protagonista, el cocinero
 
@@ -639,8 +869,9 @@ Las frases con minuto salen del subtítulo inglés (§2).
 - **Cómo se queja**: «I'm getting paid overtime for this, right, Mr.
   Krabs?» (03x10 00:15:20).
 - **Voz inglesa**: Rodger Bumpass ✅.
-- **Cuerpo** ⚠️: ojos medio cerrados, nariz larga caída, brazos
-  cruzados, apoyado en la caja.
+- **Cuerpo** ✅ visto: ojos medio cerrados, nariz larga caída, brazos
+  cruzados o caídos, **apoyado en la caja leyendo** ([1:40](https://www.dailymotion.com/video/x3uvarj?t=100);
+  hoja `personajes_01.jpg`, n.º 2).
 
 ### Patricio — el mejor amigo (el más votado en Ranker)
 
@@ -649,11 +880,12 @@ Las frases con minuto salen del subtítulo inglés (§2).
   Krab? — **No, this is Patrick**» (02x03 00:04:25) ✅. Y en *Band Geeks*:
   «**Is mayonnaise an instrument?**» (02x15 00:15:10) ✅.
 - **Qué le importa**: comer, dormir, su amigo.
-- **Cuerpo** ⚠️: panza fuera, brazos colgando, boca abierta.
+- **Cuerpo** ✅ visto: panza fuera, brazos colgando, boca abierta (hoja
+  `personajes_01.jpg`, n.º 8; tráiler 2025, [0:10](https://www.dailymotion.com/video/x9mmh7y?t=10)).
 
 ### Plankton y Karen — los del Balde de Carnada
 
-- **Quién es**: dueño del **Balde de Carnada** (enfrente del Crustáceo ⚠️).
+- **Quién es**: dueño del **Balde de Carnada** (enfrente del Crustáceo ✅, §5.3).
   Quiere **robar la fórmula secreta**. Diminuto, verde, **un solo ojo** ✅
   ([Wikipedia](https://en.wikipedia.org/wiki/Plankton_and_Karen)).
 - **Karen**: su esposa, **un ordenador**. En *Plankton: La película*
@@ -676,12 +908,64 @@ Las frases con minuto salen del subtítulo inglés (§2).
 - **Cómo habla**: calmado, admirado, con humor: «Yes, of course he lives
   in a pineapple, you silly» (01x01 00:01:11).
 
+### Su cara en cada emoción (segunda pasada, vista en vídeo)
+
+Dos tipos de minuto. Los que llevan enlace son de los clips de Dailymotion
+del investigador de vídeo ✅. Los que **no llevan enlace** los vio el
+investigador de voz en otras hojas de contacto: *Born Again Krabs* entero,
+*La Torta o la Vida* (*Dying for Pie*) y el tráiler de *Sponge Out of
+Water* (2015). Están vistos, pero **la copia no está enlazada** ⚠️ y el
+minuto puede no coincidir con otra copia.
+
+| | Alegría | Rabia | Tristeza | Miedo | Vergüenza |
+|---|---|---|---|---|---|
+| **Don Cangrejo** | brazos abiertos bajo «LIVE FOR TODAY», [3:12](https://www.dailymotion.com/video/x3uhkek?t=192) ✅; sonrisa ancha regalando comida y abrazando a Calamardo (*Born Again Krabs* entero, 6:33-7:17) | grita «THE MONEY IS ALWAYS RIGHT!», [3:55](https://www.dailymotion.com/video/x3uvarj?t=235) ✅; guantes de boxeo, [0:39](https://www.dailymotion.com/video/x9mmh7y?t=39) ✅; su fantasma verde furioso, dientes afilados (8:50-9:40) | ❌ no se encontró | la factura de $10 000, pinzas temblando, [3:47](https://www.dailymotion.com/video/x3uhkek?t=227) ✅; temblando en el congelador, antenas rígidas (0:30-0:50) | ❌ no se encontró |
+| **Calamardo** | sonrisa avergonzada abrazado a Bob con el libro «Friends 4-Ever» (*Dying for Pie*, 0:51-1:00) | fastidio, ojos entrecerrados, brazos caídos (*Born Again Krabs*, 6:39-7:15); desgana en la caja, [1:40](https://www.dailymotion.com/video/x3uvarj?t=100) ✅ | ojos rojos, grito mudo, temblando (*Dying for Pie*, 0:36-0:39) | ❌ no se encontró | la misma sonrisa avergonzada del final de *Dying for Pie* (0:51-1:00) |
+| **Bob Esponja** | sale de la piña sonriendo, opening [0:14](https://www.dailymotion.com/video/x8hj84s?t=14) ✅ | ❌ no se encontró | sentado, cabizbajo, junto a un ladrillo, [0:33](https://www.dailymotion.com/video/x9mmh7y?t=33) ✅ | grito a pantalla completa, [0:04](https://www.dailymotion.com/video/x9mmh7y?t=4) ✅; susto con lágrima y boca en «o» (*Born Again Krabs*, 9:50) | ❌ no se encontró |
+| **Patricio** | codo a codo con Bob, [0:57](https://www.dailymotion.com/video/x9mmh7y?t=57) ✅; puños en alto, gritando (tráiler 2015, 2:10-2:16) | cejas muy abajo, boca apretada, señalando (tráiler 2015, 1:15-1:16); asco, boca torcida (1:16) | ❌ no se encontró | boca abierta de golpe, [0:10](https://www.dailymotion.com/video/x9mmh7y?t=10) ✅ | ❌ no se encontró |
+| **Plankton** | ❌ no se encontró en vídeo (sí en la hoja: n.º 9, risa malvada) | ❌ no se encontró en vídeo | ❌ | preocupado con su mascota descontrolada, [0:22](https://www.dailymotion.com/video/x6i3rnb?t=22) ✅; la cetafobia (*One Coarse Meal*) sólo por texto de la wiki ⚠️ | ❌ |
+
+### Arcos, momentos clave y dinámicas
+
+- **Don Cangrejo no cambia** (es de *sitcom*: siempre vuelve a la
+  tacañería). El episodio que mejor lo explica es ***Born Again Krabs***:
+  cree que ha muerto, se vuelve generoso y feliz, y al volver a ser él una
+  cuenta de $10 000 lo destroza. Es **el** episodio para entender por qué
+  «dar gratis» le cuesta un mundo ✅ visto.
+- **Con quién**: se ríe con el ruido de las monedas, no con chistes;
+  **discute** con Plankton (rivales de toda la vida); **regaña** a
+  Calamardo por vago; trata a Bob **como a un hijo torpe pero querido** ✅
+  ([Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Eugene_H._Krabs)).
+- **Calamardo y Bob, odio y cariño**: en *La Torta o la Vida* cree que Bob
+  va a morir por su culpa, pasa del alivio secreto al remordimiento, y
+  acaban riéndose juntos ✅ visto ([Encyclopedia SpongeBobia: Dying for Pie](https://spongebob.fandom.com/wiki/Dying_for_Pie)).
+  Es el episodio que más citan los fans para explicar que **sí lo quiere**.
+- **Dinámica para una lámina en grupo** ✅ (patrón visto en las hojas):
+  Don Cangrejo cuenta el dinero → Calamardo pone los ojos en blanco → Bob
+  sonríe sin pillar el sarcasmo → Patricio pregunta algo fuera de lugar.
+- **Qué transmite cada uno**: Don Cangrejo, el jefe tacaño que todos
+  hemos tenido; Calamardo, el adulto atrapado en un trabajo que odia;
+  Patricio, el amigo que no juzga; Bob, la alegría sin freno (§21).
+
 ---
 
 ## 9 · ¿Quién es el más querido?
 
 - **No hay encuesta oficial** de Nickelodeon ni de Latinoamérica. Busqué
-  en español e inglés y **no la encontré**.
+  en español e inglés y **no la encontré** (en la segunda pasada tampoco).
+- **Corrección (segunda pasada): sí hay una votación grande**, aunque no es
+  de Nickelodeon. **The Ringer** hizo en 2021 el «Best Nickelodeon
+  Character Bracket»: **2,5 millones de votos** en 63 rondas entre todos
+  los personajes de Nickelodeon. **Ganó Bob Esponja** en la final, contra
+  Tommy Pickles (*Rugrats*) ✅ ([The Ringer](https://theringer.com/platform/amp/tv/2021/8/14/22624731/best-nickelodeon-character-bracket-final-results-spongebob-squarepants)).
+- **Kids' Choice Awards, Mejor Caricatura**: la serie ganó **17 años
+  seguidos** hasta 2025 (22 veces desde 2003; sólo perdió en 2008 contra
+  *Avatar*) ✅ ([Animation Magazine 2025](https://www.animationmagazine.net/2025/06/inside-out-2-spongebob-squarepants-jack-black-win-big-at-2025-nickelodeon-kids-choice-awards/),
+  [Wikipedia](https://en.wikipedia.org/wiki/Kids%27_Choice_Award_for_Favorite_Cartoon)).
+  No separa por personaje.
+- En 2001, en el episodio *Shanghaied*, el público votó quién se quedaba
+  con un deseo y ganó **Bob Esponja** ⚠️ (una fuente, sin la nota de
+  prensa original).
 - **Ranker** (votos de fans, más de 4000): 1.º **Patricio**, 2.º
   **Calamardo**, 3.º Bob Esponja ✅ ([Ranker](https://www.ranker.com/list/the-best-spongebob-squarepants-character/tvs-frank)).
 - **Calamardo** es el que más memes latinos tiene: «Calamardo guapo» y
@@ -714,17 +998,20 @@ confirma que DAT graba a Don Cangrejo desde México).
 | Personaje | Voz latina | Cuándo | Fuentes |
 |---|---|---|---|
 | Bob Esponja | **Luis Carreño** | desde la 2.ª temporada (2000) hasta hoy | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Luis_Carre%C3%B1o), [ANMTV 2025](https://www.anmtvla.com/2025/07/bob-esponja-en-busca-de-los-pantalones.html), [Xataka](https://www.xataka.com.mx/videojuegos/bob-esponja-the-cosmic-shake-se-actualiza-gratis-incluye-doblaje-latino-actores-serie-television) |
-| Bob Esponja (1.ª temporada) | Kaihiamal Martínez (habla); Luis Miguel Pérez (canto) | 1999 | ⚠️ sólo Doblaje Wiki |
+| Bob Esponja (1.ª temporada) | Kaihiamal Martínez (habla, hasta el ep. 17); Luis Miguel Pérez (canto) | 1999 | ✅ segunda pasada: [ficha de la serie](https://doblaje.fandom.com/es/wiki/Bob_Esponja), [Kaihiamal Martínez](https://doblaje.fandom.com/es/wiki/Kaihiamal_Mart%C3%ADnez) y [Noroeste](https://www.noroeste.com.mx/entretenimiento/gente/visita-mazatlan-kai-martinez-la-voz-oficial-de-la-primera-temporada-de-bob-esponja-HF2070595). En el especial 59 también le pone voz Luis Lugo |
 | Patricio | **Alfonso Soto** | desde la 4.ª temporada | ✅ Doblaje Wiki, ANMTV 2025, [VGEzone](https://vgezone.com/cinetv/noticias/voces-bob-esponja-al-rescate-doblaje-latino/) |
 | Calamardo | **Renzo Jiménez** | desde 1999, **todas** las temporadas | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Calamardo_Tent%C3%A1culos), ANMTV 2025, VGEzone |
-| Don Cangrejo | **Luis Pérez Pons** | temporadas 1 a mitad de la 6, y 9 a 13. **Murió el 24 de octubre de 2023**, a los 72 años | ✅ [El Financiero](https://www.elfinanciero.com.mx/espectaculos/2023/10/24/muere-luis-perez-pons-actor-de-don-cangrejo-en-bob-esponja-a-los-72-anos/), [El Tiempo](https://www.eltiempo.com/cultura/cine-y-tv/murio-luis-perez-pons-la-iconica-voz-en-espanol-latino-de-don-cangrejo-en-bob-esponja-819537), Doblaje Wiki |
+| Don Cangrejo | **Luis Pérez Pons** | **corregido**: temporadas 1-5, y de la 9 (ep. 190) a la 13. **Murió el 24 de octubre de 2023**, a los 72 años | ✅ [El Financiero](https://www.elfinanciero.com.mx/espectaculos/2023/10/24/muere-luis-perez-pons-actor-de-don-cangrejo-en-bob-esponja-a-los-72-anos/), [El Tiempo](https://www.eltiempo.com/cultura/cine-y-tv/murio-luis-perez-pons-la-iconica-voz-en-espanol-latino-de-don-cangrejo-en-bob-esponja-819537), Doblaje Wiki |
+| Don Cangrejo | **Carlos Vitale** | **nuevo**: temporadas 6 a 9 (ep. 102-189); su último episodio se estrenó el 29-ago-2015 | ✅ [ficha de la serie](https://doblaje.fandom.com/es/wiki/Bob_Esponja), [Carlos Vitale](https://doblaje.fandom.com/es/wiki/Carlos_Vitale) («segunda voz de Don Cangrejo, hasta la 9.ª temporada») y [Encyclopedia SpongeBobia](https://spongebob.fandom.com/wiki/Eugene_H._Krabs) (sección «International») |
+| Don Cangrejo | Walter Véliz | un solo episodio: temp. 7, ep. 148 («El Ataque de los Welk») | ⚠️ sólo la ficha de la serie |
 | Don Cangrejo | **Olin Garcés** (México) | desde la 14.ª temporada (2024) | ✅ [ANMTV](https://www.anmtvla.com/2024/04/bob-esponja-olin-garces-se-convierte-en.html), [SuperGeek](https://www.supergeek.cl/noticias/cultura-pop/escuchen-a-la-nueva-voz-latina-de-don-cangrejo-en-bob-esponja/2024-04-16/211945.html), [TikTok de Luis Carreño](https://www.tiktok.com/@luiscarrenovoz/video/7358633626436750635) |
 | Plankton | **Ángel Mujica** | desde la 9.ª temporada | ✅ Doblaje Wiki, ANMTV 2025 |
-| Plankton (antes) | Óscar Zuloaga, Luis Miguel Pérez, Héctor Indriago | temporadas anteriores | ⚠️ sólo el título de un [TikTok](https://www.tiktok.com/@nickvan029/video/7381272630441053446) |
+| Plankton (antes) | **Óscar Zuloaga** (temp. 1-2, ep. 3-28), **Luis Miguel Pérez** (temp. 2-8, desde el ep. 34), **Héctor Indriago** (sólo el ep. 183); Ángel Mujica desde el ep. 184 | temporadas 1-9 | ✅ segunda pasada: [ficha de la serie](https://doblaje.fandom.com/es/wiki/Bob_Esponja) y el [TikTok](https://www.tiktok.com/@nickvan029/video/7381272630441053446) de antes |
 | Arenita | **Lileana Chacón** | desde la 6.ª temporada | ✅ Doblaje Wiki, ANMTV 2025 |
-| Karen | Melanie Henríquez | antes; luego se mudó a España | ⚠️ sólo Doblaje Wiki. La voz actual: no la encontré |
+| Karen (hoy) | **Paulina Monfort** (México) | **nuevo**: desde el ep. 327A, temporada 16 (2025) | ✅ [ficha de la serie](https://doblaje.fandom.com/es/wiki/Bob_Esponja), [Paulina Monfort](https://doblaje.fandom.com/es/wiki/Paulina_Monfort) |
+| Karen (antes) | **Melanie Henríquez** (temp. 5-9, hasta el ep. 186); María José Estévez (temp. 8, ep. 170-177); Gabriela Belén (temp. 9, ep. 198-203); **Sixnalie Villalba** (Chile, temp. 10-16, ep. 230-325) | 2007-2025 | ✅ ficha de la serie. Melanie Henríquez **se retiró en julio de 2015 al mudarse a Tenerife** y volvió al doblaje en 2022 desde España ✅ ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Melanie_Henr%C3%ADquez), [entrevista en El Retake](https://www.tiktok.com/@elretake/video/7539562416858762518)). Mariangny Álvarez también pasó por Karen en ese cambio ⚠️ una fuente |
 | **Narrador Francés** y rótulos | **Orlando Noguera** | 1.ª temporada | ✅ Doblaje Wiki, [TikTok de Luis Carreño](https://www.tiktok.com/@luiscarrenovoz/video/7473616154968296734) |
-| **Narrador Francés** y rótulos | **Juan Guzmán** | desde la 2.ª temporada | ✅ Doblaje Wiki ([Juan Guzmán](https://doblaje.fandom.com/es/wiki/Juan_Guzm%C3%A1n), [Narrador francés](https://doblaje.fandom.com/es/wiki/Narrador_franc%C3%A9s)); una sola wiki, dos fichas |
+| **Narrador Francés** y rótulos | **Juan Guzmán** | desde la 2.ª temporada | ✅ Doblaje Wiki ([Juan Guzmán](https://doblaje.fandom.com/es/wiki/Juan_Guzm%C3%A1n), [Narrador francés](https://doblaje.fandom.com/es/wiki/Narrador_franc%C3%A9s)); en la segunda pasada, también en la [ficha de la serie](https://doblaje.fandom.com/es/wiki/Bob_Esponja) (tres páginas) |
 
 - En la película de 2025 **vuelven todos los actuales**: Carreño, Soto,
   Chacón, Jiménez, **Garcés** y Mujica; doblaje en México con
@@ -761,6 +1048,21 @@ confirma que DAT graba a Don Cangrejo desde México).
 DOOM* ni en *Christmas Who*. Las frases de la lámina basadas en esas
 escenas son **traducción mía** y hay que decirlo así.
 
+**Segunda pasada**:
+- Tercera fuente del estudio: la ficha de la **Fandub Database**
+  ([fandubdb](https://fandubdb.fandom.com/wiki/Bob_Esponja_(Latin_American_Spanish,_fictionalized)))
+  da Etcétera Group (Caracas y Miami) y, desde la temporada 14, **DAT** para
+  las líneas de **Olin Garcés** ✅. Pese al nombre, esa ficha documenta el
+  doblaje **oficial**.
+- Clips en latino **vistos**: *Se busca ayuda* entero ([Dailymotion x51sid2](https://www.dailymotion.com/video/x51sid2))
+  y el promocional oficial de **Nickelodeon Latinoamérica** «La Mascota de
+  Plankton», que cierra con el rótulo «Encuentra Bob Esponja más en Nick»
+  ([0:48](https://www.dailymotion.com/video/x6i3rnb?t=48)) ✅ visto.
+- **No se transcribió** ninguna frase nueva del doblaje con su minuto: los
+  clips se miraron por la imagen, no se pasaron por `voz.py` ⚠️. Las
+  frases latinas siguen siendo las de la tabla de arriba. Queda para oír en
+  persona (§28).
+
 ---
 
 ## 11 · Música
@@ -785,12 +1087,60 @@ escenas son **traducción mía** y hay que decirlo así.
   - «Counting me money, money sweeter than honey» (02x20 00:01:03).
 - Para un vídeo o GIF del canal: el **«cha-ching»** de la caja.
 
+**El opening, mirado plano a plano (segunda pasada)** ✅ visto: 42 s, 19
+planos ([Dailymotion x8hj84s](https://www.dailymotion.com/video/x8hj84s),
+versión original en inglés):
+
+| Minuto | Plano | Letra |
+|---|---|---|
+| [0:06](https://www.dailymotion.com/video/x8hj84s?t=6) | cortina negra y **retrato enmarcado del capitán pirata** | «Are you ready, kids?» |
+| 0:11 | agua con burbujas | «Aye, aye, Captain!» |
+| [0:14](https://www.dailymotion.com/video/x8hj84s?t=14) | Bob sale de su piña | «Who lives in a pineapple…?» |
+| [0:16](https://www.dailymotion.com/video/x8hj84s?t=16) | salpicón en la bañera y primer plano sonriendo | «SpongeBob SquarePants!» |
+| [0:22](https://www.dailymotion.com/video/x8hj84s?t=22) | **título «SpongeBob SquarePants»** en letras de colores tipo alga sobre violeta | el coro cantado |
+| [0:29](https://www.dailymotion.com/video/x8hj84s?t=29) | pez, algas, Bob baila y da golpes de kárate | los golpes rápidos del ukelele |
+| [0:38](https://www.dailymotion.com/video/x8hj84s?t=38) | bumper de Nickelodeon | — |
+| [0:41](https://www.dailymotion.com/video/x8hj84s?t=41) | «created by Stephen Hillenburg» | — |
+
+- **No hay ending cantado** ✅ visto: los créditos van sobre un fragmento
+  instrumental corto, la cartela amarilla con flores de los «Background
+  Painters» y el logo garabateado de United Plankton Pictures ([0:34](https://www.dailymotion.com/video/x3v1puo?t=34)).
+  No aplica un «ending» musical.
+- La letra latina del opening sigue ⚠️ (sólo letras de fans): el opening
+  visto es el inglés.
+
 ---
 
 ## 12 · Vídeos
 
-YouTube no abre desde aquí: **no tengo minutos de los vídeos**. Los
-minutos útiles están en §2 (subtítulos de los episodios).
+YouTube no abre desde aquí (en la segunda pasada dio **429**). Los
+minutos de episodios están en §2; los de clips vistos, en §2.4 y abajo.
+
+**Tráiler oficial doblado de «Bob Esponja: En busca de los pantalones
+cuadrados»** (2025), visto entero en la segunda pasada: 63 s, 31 planos
+([Dailymotion, canal sensacinemx](https://www.dailymotion.com/video/x9mmh7y)) ✅:
+
+| Minuto | Qué se ve | Pose |
+|---|---|---|
+| [0:04](https://www.dailymotion.com/video/x9mmh7y?t=4) | tarjetas «ESTE AÑO / ALGO GRANDE / LLEGA A LOS CINES» y **Bob gritando** a pantalla completa | urgencia |
+| [0:10](https://www.dailymotion.com/video/x9mmh7y?t=10) | **Patricio** abre la boca de golpe | sorpresa |
+| [0:13](https://www.dailymotion.com/video/x9mmh7y?t=13) | todo el reparto corre en un interior de madera | «todos a por la oferta» |
+| [0:31](https://www.dailymotion.com/video/x9mmh7y?t=31) | Don Cangrejo y Calamardo asustados ante un monstruo verde | miedo |
+| [0:33](https://www.dailymotion.com/video/x9mmh7y?t=33) | Bob sentado, cabizbajo, junto a un ladrillo | pensar, desánimo |
+| [0:39](https://www.dailymotion.com/video/x9mmh7y?t=39) | **Don Cangrejo con guantes de boxeo, furioso** | regañar |
+| [0:49](https://www.dailymotion.com/video/x9mmh7y?t=49) | logo «BOB ESPONJA — En busca de los pantalones cuadrados» | — |
+| [0:57](https://www.dailymotion.com/video/x9mmh7y?t=57) | **Bob y Patricio codo a codo**, listos | animar |
+| [0:59](https://www.dailymotion.com/video/x9mmh7y?t=59) | tarjeta final **«AGÁRRATE LOS PANTALONES»**, logos de Nickelodeon y Paramount | — |
+
+Es **CGI 3D**, más saturado y con luz de estudio: la franquicia tiene hoy
+**dos estilos a la vez** (2D en la serie, 3D en el cine; §18).
+
+**Clip oficial de Nickelodeon Latinoamérica**, «La Mascota de Plankton»
+([Dailymotion x6i3rnb](https://www.dailymotion.com/video/x6i3rnb)), 17
+planos ✅ visto. Poses de Plankton en §15.
+
+**No encontré** tráileres de temporada en Dailymotion (sólo de las
+películas de 2015, 2020 y 2025) ⚠️.
 
 **Canal oficial «Bob Esponja en Español»**
 ([@bobesponjaespanol](https://www.youtube.com/@bobesponjaespanol)) ✅:
@@ -821,10 +1171,12 @@ minutos útiles están en §2 (subtítulos de los episodios).
 |---|---|---|---|
 | **Bob Esponja: Titanes de la Marea** (*Titans of the Tide*) | 18 nov 2025 (Switch: 12 oct 2026) | Purple Lamp y THQ Nordic. **Está en Steam y en GOG**. En Steam Latinoamérica se llama «Bob Esponja: **Titanes de la Marea**» ([app 2479650](https://store.steampowered.com/app/2479650/SpongeBob_SquarePants_Titans_of_the_Tide/?l=latam)); ya tuvo rebajas del **40 %** y del **33 %**. | ✅ [Wikipedia](https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_Titans_of_the_Tide), [THQ Nordic](https://thqnordic.com/news/spongebob-squarepants-titans-of-the-tide-demo-available-on-steam-and-consoles), Steam |
 | *The Cosmic Shake* | 2023 | Purple Lamp. **Doblaje latino gratis** por parche. | ✅ |
-| *Battle for Bikini Bottom – Rehydrated* | 2020 | Remake. En Steam ([app 969990](https://store.steampowered.com/app/969990/SpongeBob_SquarePants_Battle_for_Bikini_Bottom__Rehydrated/)). Ficha en [TCRF](https://tcrf.net/SpongeBob_SquarePants:_Battle_for_Bikini_Bottom_Rehydrated) y [Game UI Database](https://www.gameuidatabase.com/gameData.php?id=1490) (no abrieron). | ✅ existe; interfaz ⚠️ |
+| *Battle for Bikini Bottom – Rehydrated* | 2020 | Remake. En Steam ([app 969990](https://store.steampowered.com/app/969990/SpongeBob_SquarePants_Battle_for_Bikini_Bottom__Rehydrated/)). **Segunda pasada**: TCRF leído por [Wayback](https://web.archive.org/web/20260911094445/https://tcrf.net/SpongeBob_SquarePants:_Battle_for_Bikini_Bottom_Rehydrated). Corre en **Unreal Engine** (rutas `Engine/Content/SlateDebug/…` y archivos `Game.locres`); nombre interno del proyecto, **«Pineapple»** ⚠️ una fuente. Avisos con el icono del botón dentro de la frase (§7.6). Game UI Database sigue sin abrir. | ✅ existe; interfaz a medias ⚠️ |
 | *Battle for Bikini Bottom* | 2003 | Rótulos amarillos redondos (§3.1). | ✅ visto |
-| *SpongeBob: Krusty Cook-Off* | móvil | Tilting Point. **Llevas el Crustáceo**: sirves clientes y ganas **monedas de concha**. Gratis con compras dentro. | ✅ [Tilting Point](https://www.tiltingpoint.com/games/crusty_game), [App Store](https://apps.apple.com/us/app/spongebob-krusty-cook-off/id1433784188) |
+| *SpongeBob: Krusty Cook-Off* | móvil | Tilting Point. **Llevas el Crustáceo**: sirves clientes y ganas **monedas de concha**. Gratis con compras dentro. Su interfaz la hizo [PUNCHev Group](https://punchev.com/cases/spongebob-krusty-cook-off-contributing-to-the-magic-of-deep-sea-cooking) y la revisó [Christopher Furniss](https://cargocollective.com/chrisfurniss/filter/ui/Spongebob-Squarepants-Krusty-Cookoff); no se pudieron ver sus pantallas ⚠️. | ✅ [Tilting Point](https://www.tiltingpoint.com/games/crusty_game), [App Store](https://apps.apple.com/us/app/spongebob-krusty-cook-off/id1433784188) |
 | *Lights, Camera, Pants!* | 2005 | Minijuego de **cocina del Crustáceo con reloj** (§3.1). | ✅ visto |
+| **Bob Esponja: El juego de Patricio Estrella** | 2024 | PHL Collective. Capturas 1920×1080 de Steam ([app 2322380](https://store.steampowered.com/app/2322380)) vistas en la segunda pasada: la piña y la roca en 3D **conservan el contorno negro grueso** (*toon shading* con línea); **nubes-flor** como líneas sueltas sin relleno; ventanas redondas de **portillo con remaches**; *Glove World!* muy saturado (magenta, amarillo canario, cian). | ✅ visto |
+| *Nickelodeon All-Star Brawl 2* | 2023-2024 | Juego de peleas. Bob y Patricio desde el 1; en el 2, **Calamardo**, **Plankton** (con Karen en su traje robótico) y **Don Cangrejo** (DLC, 2024). Render en la hoja de personajes, n.º 16. | ✅ [Nintendo Life](https://www.nintendolife.com/guides/nickelodeon-all-star-brawl-2-character-roster-every-new-and-returning-fighter), [wiki del juego](https://nickelodeon-allstar-brawl.fandom.com/wiki/SpongeBob_(NASB_2)) |
 
 > [!tip] Un ejemplo de oferta que es de la propia serie
 > **Titanes de la Marea** se vende en **Steam y GOG**, dos de las tres
@@ -851,9 +1203,33 @@ minutos útiles están en §2 (subtítulos de los episodios).
 - **«¿Es el Crustáceo Cascarudo? — No, soy Patricio»** ✅ en inglés
   (02x03 00:04:25); latino ⚠️.
 - **«Is mayonnaise an instrument?»** (02x15 00:15:10) ✅.
-- Otros memes muy conocidos, **de memoria** ⚠️: Bob Esponja burlón
-  (letras alternas), Patricio sorprendido, Don Cangrejo borroso y
+- Otros memes muy conocidos, **de memoria** ⚠️: Don Cangrejo borroso y
   confundido, Calamardo triste en la ventana.
+- **Confirmados en la segunda pasada** con la [Lista de memes de la Bob
+  Esponja Wiki](https://bobesponja.fandom.com/api.php?action=parse&format=json&prop=wikitext&page=Lista_de_memes)
+  (cita episodio y año) ✅:
+  - **«¡Máxima Potencia!»**: del **Vídeo de Entrenamiento del Crustáceo
+    Cascarudo**. Plankton huye montado en una Cangreburguer: «¡No cuando
+    cambio a máxima velocidad!». Lo siguen usando creadores como SMG4. **Es
+    el meme más pegado al canal**: sale de un vídeo institucional del
+    Crustáceo.
+  - **Patricio sorprendido**: fotograma de la película de 2004, boca
+    abierta. Nickelodeon lo reutiliza en juegos (*Rehydrated*,
+    *Nickelodeon Lanes*) y en un juguete.
+  - **«¡No! ¡Es Patricio!»**: de «Perdedor Rosado» (*Big Pink Loser*); la
+    wiki lo compara con «¡Esto es Esparta!».
+  - **Bob Esponja Prehistórico** («Spongegar»): de *SB-129*; meme desde
+    mayo de 2016; hay un huevo de pascua suyo como pintura rupestre en
+    *Rehydrated*.
+  - **Bob Esponja emo**: dibujo de fan (DeviantArt, 2007) en una página del
+    libro oficial *I Ripped My Pants!*; viral en 2008-2009.
+  - **Imaginación** (arcoíris con las manos): Bob se lo explica a
+    Calamardo; plantilla para «explicar algo mágico».
+  - **Calamardo guapo**, **«Hola, me gusta el dinero»** y **«¿La mayonesa
+    es un instrumento?»** tienen entrada propia.
+- **Bob Esponja burlón** (mayúsculas alternas, «Mocking SpongeBob»)
+  **no está** en la lista latina ⚠️: es un meme global, de una sola fuente
+  de memoria.
 
 ### Qué NO hacer (lo que un fan notaría)
 
@@ -870,6 +1246,11 @@ minutos útiles están en §2 (subtítulos de los episodios).
   negro. El 3D sólo para el objeto, y con aspecto pintado.
 - **El Balde de Carnada lleno de clientes**: sólo si es un chiste
   (como en *Plankton: La película*).
+- **Usar el Bob burlón de mayúsculas alternas** sin comprobar que el
+  canal lo usa: no está en la lista de memes latina. Mejor uno de los
+  confirmados. Y el meme del canal es **institucional** (el Vídeo de
+  Entrenamiento): un cartel o pantalla del Crustáceo, no una foto suelta
+  de reacción.
 - **Poner «$»** en la lámina: en la serie los precios van en dólares, pero
   el canal pide **soles (S/)**. Un guiño que pega: el menú del Crustáceo
   **reescrito en soles**.
