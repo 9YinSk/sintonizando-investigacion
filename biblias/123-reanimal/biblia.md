@@ -644,7 +644,7 @@ Reanimal no es manga: no hay tramas. Hay telas sucias, metal oxidado y madera. E
 5. **Cap. 6, *Nobody Left Behind*.** Huyen en un camión. Le quitan un ojo al Caballo del Arroyo y se lo dan a la Ballena Espiral para cruzar.
 6. **Cap. 7, *The Spoils*.** En el metro, la Niña vomita la oveja de sus visiones. Crece y se come a los tres amigos.
 7. **Caps. 8-9, *The Watcher* y *All-Consuming Past*.** Cruzan la ciudad en guerra en un tanque. La Oveja se los traga. Dentro, el recuerdo: el Niño y los amigos llevaron a la Niña atada al pozo. La Niña «reanima»; tras los créditos flota en el pozo.
-8. **DLC *The Prisoner*.** Nuevos protagonistas en una guerra estilo 1914 y un «Segundo Prisionero» misterioso. Faltan dos capítulos ⚠️.
+8. **DLC *The Prisoner*.** Nuevos protagonistas en una guerra estilo I Guerra Mundial y un «Segundo Prisionero» misterioso. Faltan dos capítulos ⚠️.
 
 **Símbolos que un fan reconoce al instante**
 - **Las dos máscaras:** saco de arpillera del Niño y conejo blanco de la Niña ✅
@@ -656,4 +656,55 @@ Reanimal no es manga: no hay tramas. Hay telas sucias, metal oxidado y madera. E
 - **El mechero y el farol:** las únicas luces de los hermanos ✅
 - **El camión de helados** de Sniffer y su jingle ✅
 - **Vocabulario:** the Island, the Well, Sniffer, Skins, Boomers, Critters, the Sheep Beast, the Spiral Whale, the Brook Horse, the Mother, Spider Kids, Coffins, Posters, the Prisoner, the Second Prisoner, the Expanded World.
+
+## 3 conceptos de lámina
+
+Tres ideas distintas: objeto, sitio, personaje y canal distintos. Las tres siguen las reglas del juego: niños pequeños, una sola luz, caras tapadas y **ningún globo blanco**. Hablan como habla el juego: **subtítulo** abajo, o **letra escrita sobre un objeto**. Los textos de la lámina van sin «·», sin «—» y sin paréntesis.
+
+### Concepto 1 · «El mapa del desván» · canal 🎮 `a-que-juegas` (propuesta principal)
+
+Texto del canal: «Lo que estás jugando, capturas y quién se apunta a una partida.»
+
+- **Objeto real en sitio real:** un **mapa enorme de papel, dibujado a mano**, en el suelo de tablones de un desván, bajo una lámpara colgante. Es la escena del artbook oficial, pág. 25 «Map», de Konstantin Kostadinov (#232). La Collector's Edition trae además un póster de mapa, «Unreliable Memories» ⚠️ (el sitio exacto del desván en el juego no está identificado). En Blender: papel con dobleces y esquinas levantadas, tablones con `Wood051`, lámpara de metal con `Metal041B` y una Spot cálida.
+- **Personajes:** **La Niña** (la protagonista más dibujada), de pie al borde del mapa, farol bajo a la altura de la cadera iluminando el papel: pose de «explicar» de la captura de la puerta circular (dccf…) y cuerpo del render `TheGirl.png` (#182). **El Niño** sentado enfrente, encogido, sin cara (pose del escondite, captura 82ca…). **Hood** sentada en el corro, como en #232. **Un hueco libre** en el corro con una máscara de zorro en el suelo: la máscara de disfraz que cualquiera puede ponerse. Es el «quién se apunta».
+- **Cómo habla:** dos formatos reales. El mapa lleva letra a mano en grafito `#131515`, en Permanent Marker ⚠️ (aproximación). Abajo, el **subtítulo del juego**: barra oscura semitransparente, Barlow Condensed blanco, con una frase real del doblaje latino.
+- **Dónde va cada texto:**
+  - Borde de arriba del mapa, a mano y grande: «¿A qué juegas?»
+  - Tres sitios del mapa marcados con una X: «Lo que estás jugando.» / «Tus capturas.» / «Quién se apunta a una partida.»
+  - Subtítulo abajo: «No te preocupes, vamos a salir de esta juntos, ¿sí?» (frase real, archivo «Kid» de Doblaje Wiki).
+- **Cómo se evita que quede plano:** cono de luz de la lámpara con polvo flotando; el farol de la Niña como segunda luz, baja y cálida; sombras largas de los niños sobre el papel. Delante, desenfocados, un tablón roto y la máscara de zorro. Al fondo, desván casi negro con una ventana azul, como en #232. Grano y viñeta.
+- **Referencias:** #232 (composición), #182 y #231 (la Niña), captura dccf… (pose de explicar), captura 82ca… (el Niño encogido), modelos de Sketchfab del punto 3.
+
+### Concepto 2 · «La marquesina del cine» · canal 🎮 `noticias-gaming`
+
+Texto del canal: «Videojuegos: salidas, parches y presentaciones. Las ofertas van en ofertas-y-gratis.»
+
+- **Objeto real en sitio real:** la **marquesina del cine de Small Forest Town** (cap. 2), con su neón rojo «CINEMA» y las bombillas debajo · hojas #1 y #8 · https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0/ss_7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0.1920x1080.jpg. Un cine anuncia estrenos: aquí anuncia las novedades. En Blender: marquesina con panel iluminado de letras sueltas ⚠️ (el panel de letras es añadido de la lámina; en la captura sólo se ven neón y bombillas), calle mojada y el coche blanco de #8.
+- **Personajes:** **La Niña y El Niño** cruzando la calle bajo el neón, como en el teaser (0:30 · https://www.dailymotion.com/video/xa1mxgm?t=30). Ella delante, farol en mano; él detrás, en sombra. Las puertas del cine entreabiertas y negras: ahí Sniffer arrastró a Hood. A lo lejos, dos faros: el camión de helados.
+- **Cómo habla:** el **neón** en Monoton, sin tildes. Las líneas de la marquesina en Anton negro sobre panel blanco iluminado. Un **subtítulo** abajo en Barlow Condensed, con la voz seca de la Niña ⚠️ (frase propuesta, no grabada).
+- **Dónde va cada texto:**
+  - Neón, arriba: «NOTICIAS».
+  - Marquesina, tres filas: «SALIDAS» / «PARCHES» / «PRESENTACIONES».
+  - Papel pegado en el cristal de la taquilla: «Las ofertas van en ofertas-y-gratis.»
+  - Subtítulo: «Mira. Hay algo nuevo en cartelera.»
+- **Cómo se evita que quede plano:** el neón `#c90030` es el único color y se refleja en el asfalto mojado (`#fe7471`, `#f9b07b`); el resto, azul frío `#262640`. Los niños a contraluz, delante. Lluvia fina, niebla al fondo, una farola cortando el cuadro. Grano y viñeta.
+- **Referencias:** #1 y #8, capturas de Steam 7c4e… y aab121…, teaser 0:30, paleta del punto 4.
+
+### Concepto 3 · «La reja de la tubería» · canal 🎯 `reto-de-la-semana`
+
+Texto del canal: «Un reto por semana: una línea, una escena, un tono. Se entrega dentro del hilo del reto. No se gana nada y esa es la gracia: es para grabar…» (el inventario lo trae cortado). Etiquetas: Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, Con trampa, Libre. El canal ya tiene una imagen fijada (`reto-de-la-semana.png`): esto es una alternativa.
+
+- **Objeto real en sitio real:** la **puerta circular de tubería con barrotes oxidados** del cap. 1 · https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/dccf798f7e98af871edc4b625700f2005854e9cb/ss_dccf798f7e98af871edc4b625700f2005854e9cb.1920x1080.jpg · en vídeo al 10:30 · https://www.dailymotion.com/video/x9tibzi?t=630 · y en la imagen de tienda #220. En Blender: tubo de hormigón, anillo y barrotes con `Metal041B`.
+- **Personajes:** **Hood**, la secundaria más querida, tras los barrotes: una mano en un barrote a la altura del hombro, cabeza gacha (pose del punto 14). **La Niña** fuera, de espaldas en primer plano, con el farol a la cadera iluminando dentro.
+- **Cómo habla:** la frase **real** de Capucha en el doblaje latino, como subtítulo del juego (Barlow Condensed blanco sobre barra oscura). Es la «línea de la semana» de ejemplo. Las reglas del canal van **escritas a mano en blanco** sobre el hormigón negro alrededor del anillo, como la pág. 55 del artbook (#225), con un tachón. Letra: Permanent Marker blanca ⚠️ (aproximación).
+- **Dónde va cada texto:**
+  - Pared, arriba del anillo: «Reto de la semana».
+  - A la izquierda: «Una línea. Una escena. Un tono.»
+  - A la derecha: «Se entrega en el hilo del reto.»
+  - Abajo, con una palabra tachada antes: «No se gana nada. Esa es la gracia.»
+  - Subtítulo: «Deberían irse, mientras aún pueden.»
+  - Etiquetas: tiras de papel atadas a los barrotes con cuerda (`Rope001`).
+- **Cómo se evita que quede plano:** el farol es la única luz cálida (`#71635a`) dentro de un tubo casi monocromo (`#33414a`, `#05121a`, `#051620`). Los barrotes quedan **delante** de Hood. La Niña, desenfocada en primer plano. Niebla dentro del tubo. Grano y viñeta.
+- **Lámina 2 si se satura:** las 8 etiquetas colgando de la reja, cada una con una línea de qué significa.
+- **Referencias:** captura dccf…, #220, #225 (letra a mano), concept de Hood #229, modelo de Hood en Sketchfab, audio de Hood en Doblaje Wiki (punto 8).
 

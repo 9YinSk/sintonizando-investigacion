@@ -360,3 +360,46 @@ También están la banda sonora del DLC *Shadow of the Erdtree* (20-jun-2024) y 
 - **Poner globos de cómic u onomatopeyas escritas** en una lámina del juego. Eso es cosa del manga de comedia, no del juego.
 - **Dibujarlo como un anime**, con cel shading y línea negra. El juego es realista y pintado (punto 18).
 
+## 13 · Personajes a fondo
+
+**Aviso.** Elden Ring no tiene primeros planos expresivos como un anime. Las caras casi no se mueven, y la emoción la llevan la voz, el texto y la luz.
+Se buscó la «cara en cada emoción» en el tráiler de historia entero (211 planos) y en el combate de Malenia. Hay poca variedad, y se dice en vez de inventarla.
+
+### Melina, la guía («doncella de encendido», según la parte de voz)
+
+- **Quién es.** Nació al pie del Árbol Áureo y es hija secreta de Marika. Es un espíritu: no puede tocar sin quemarse y tiene quemaduras curadas en las manos ([wiki](https://eldenring.fandom.com/wiki/Melina)) ✅.
+- **Su pacto.** Convierte las runas del jugador en fuerza a cambio de que la lleve al pie del Árbol.
+- **Qué transmite.** Misterio protector, ternura fría y sacrificio. En el final normal se prende fuego en la Forja para quemar el Árbol (nº 64-67).
+- **Si el jugador elige la Llama Frenética**, rompe el pacto y promete matarlo. Es su «Destined Death».
+- **Cómo habla.** Inglés arcaico («thou», «shouldst») y frases cortas y pesadas. Nunca grita ni bromea.
+- **Cómo se ve a sí misma.** Como un instrumento con un propósito que le dio su madre, hasta que elige.
+- **Dinámica.** Está siempre a solas con el jugador: a su lado junto a la gracia y en la Mesa Redonda.
+
+### Malenia, Hoja de Miquella
+
+- **Quién es.** Gemela de Miquella. Nació enferma de Podredumbre Escarlata, que le comió los ojos y varios miembros. Aun así, nunca ha perdido un combate.
+- **La Batalla de Aeonia.** Contra Radahn liberó la Podredumbre y lo dejó fuera de sí. Ella cayó en coma y la rescató su caballero Finlay ([wiki](https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella)) ✅.
+- **Qué transmite.** Grandeza trágica: la guerrera perfecta traicionada por su propio cuerpo.
+- **Cómo se expresa.** Apenas habla, porque es un jefe y no una NPC. Su «voz» son las estocadas dobles, el vuelo del Ave Acuática y la flor final.
+- **Cómo se ve a sí misma.** Su frase: «I am Malenia, Blade of Miquella. And I have never known defeat.» Se cree invicta mientras la enfermedad la mata por dentro.
+- **Dinámica.** Miquella, a quien sirve y quiere (en las estatuas aparecen abrazados, nº 7 y 27). Radahn, su rival. Finlay, su caballero.
+
+### Ranni la Bruja (la más querida)
+
+- **Quién es.** Hija de Radagon y Rennala, princesa de los Carian. Busca «robar la Muerte», acabar con el Orden Dorado y fundar el suyo: el final de la Era de las Estrellas ([wiki](https://eldenring.fandom.com/wiki/Ranni_the_Witch)) ✅.
+- **Por qué se la quiere.** Tiene el arco más largo y mejor hilado, uno de los pocos finales cálidos y un humor seco. Y el giro de que su cuerpo es una muñeca.
+- **Dinámica.** El lobo Blaidd e Iji son su familia adoptiva.
+
+### La cara en cada emoción (lo que hay de verdad)
+
+| Personaje | Emoción | Vídeo | Minuto | Fotograma |
+|---|---|---|---|---|
+| Melina | Seria, interrogante. Ceja fruncida y un ojo que brilla bajo la capucha | Tráiler de historia | 0:44 | [enlace](https://www.dailymotion.com/video/x8837gv?t=44) |
+| Melina | Calma triste. Mirada baja y boca tensa: «I offer you an accord» | Tráiler de historia | 1:32 | [enlace](https://www.dailymotion.com/video/x8837gv?t=92) |
+| Melina | Solemne y directa, mirando a cámara | Tráiler de historia | 3:20 | [enlace](https://www.dailymotion.com/video/x89nx9b?t=200) |
+| Malenia | Rabia. Sin cara: lleva el casco. La emoción es la Flor Escarlata | Combate | 1:45 | [enlace](https://www.dailymotion.com/video/x89wlj1?t=105) |
+| Malenia | Furia en el clímax | Combate | 3:00 | [enlace](https://www.dailymotion.com/video/x89wlj1?t=180) |
+
+⚠️ **No hay alegría, miedo ni vergüenza** en el material oficial de estos dos personajes: no ríen ni muestran miedo en pantalla. No es un fallo de búsqueda.
+Para las emociones que faltan, usa la postura y la luz (punto 17), no una cara inventada.
+
