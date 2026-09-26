@@ -445,6 +445,21 @@ clip de la escena Ann/Kamoshida (Dailymotion x5sfh6l) que dio «Not found» en y
 **Doblaje Wiki, contenido de fans:** blog de propuesta `Usuario_Blog:SupaKaminari/Propuesta:_Persona_5`
 y `propuestas-fanon.fandom.com/es/wiki/Persona_5` (reparto de fan-casting, punto 22).
 
+**Tanda de seguimiento (26-sep-2026), sólo punto 13 — caras que faltaban:** búsqueda en la API de
+Dailymotion con `Persona5 the Animation clip/scene/OVA/episode/eyecatch` (siempre devuelve el mismo
+puñado de tráilers, la búsqueda por texto de Dailymotion no filtra bien más allá de la frase exacta) ·
+revisado el catálogo del canal `kirill_y` (23 vídeos) hasta encontrar «First 6 Minutes» (382 s, episodio
+1 real) · descartado por no ser del anime: «Persona 5 - Ryuji Trailer» (Dailymotion x50lbl6, tráiler del
+videojuego con clasificación ESRB, no anime) y «ペルソナ(Persona) O.A.» (Dailymotion x6fevsz, resultó ser
+un vídeo de gameplay en directo de dos actores de voz japoneses, no la animación) · WebSearch: `"Persona
+5 the Animation" episode list "The Beach"` · `"Persona 5 the Animation" episode 1 title Sae
+interrogation` · `"Stars and Ours" persona 5 animation special beach synopsis` · `"Dark Sun" persona 5
+animation special synopsis Futaba beach` (para descartar que la playa fuera un especial y no un
+episodio normal) · `megamitensei.fandom.com/api.php` página `List_of_Persona_5_The_Animation_Episodes`
+(sinopsis oficial de cada episodio, confirma Episodio 1 y Episodio 18) · fotogramas.py sobre
+`x6gzgvk` (cada 3 s, 3 hojas) y repaso de `x6uu26k` (cada 2 s, 2 hojas) — ambos vistos con Read, no de
+oídas.
+
 ## Cumplimiento de mis puntos (7, 8, 12, 13, 20, 21, 22)
 
 | Punto | Estado | Por qué |
@@ -452,9 +467,7 @@ y `propuestas-fanon.fandom.com/es/wiki/Persona_5` (reparto de fan-casting, punto
 | 7 · Encuestas de popularidad | ✅ | Dos encuestas oficiales de Atlus/SEGA (2021 y 2023) con votos exactos, más AniList y Danbooru como contraste de fandom |
 | 8 · Doblaje latino y frases | ✅ (obra sin doblaje, documentado) | Confirmado con dos fuentes independientes que no existe doblaje latino oficial; se explica por qué y se da el reparto de seiyū/inglés como referencia |
 | 12 · Lo que ama el fandom / qué NO hacer | ✅ | Memes con fuente (TV Tropes) + lista concreta de qué NO hacer, incluido un caso real de colaboración oficial mal recibida |
-| 13 · Descripción profunda + cara en cada emoción | ⚠️ a medias | Carácter, citas reales y forma de hablar completos para 6+ personajes; la tabla de «cara en cada emoción» sólo cubre alegría, confianza/determinación y calma — faltan rabia, tristeza, miedo y vergüenza con fotograma propio (ver «No encontré») |
+| 13 · Descripción profunda + cara en cada emoción | ✅ | Carácter, citas reales y forma de hablar completos para 7 personajes; tabla fija de «cara en cada emoción» con las 4 que faltaban (rabia, tristeza, miedo, vergüenza) ya con fotograma propio, episodio identificado (Ep. 1 y Ep. 18) y minuto — extra pendiente (no obligatorio) en «No encontré» |
 | 20 · Gustos y detalles | ✅ | Tabla completa de 9 personajes con fuente; alturas contrastadas en dos fuentes (con aviso de discrepancia en dos casos) |
 | 21 · Por qué la aman | ✅ | Premios, notas de crítica y ventas con fuente; dos escenas que hacen llorar con música confirmada por capturas reales del juego |
 | 22 · Fan dubs y comunidad hispana | ✅ | Proyecto de fandub más grande documentado a fondo (estado, alcance, fuentes) + dos propuestas de fan-casting, claramente marcadas como no oficiales |
-
-Sigue: en el punto 13, conseguir fotogramas propios (con minuto) de rabia, tristeza, miedo y vergüenza de los personajes principales — se necesita un episodio completo del anime o más tiempo de búsqueda dirigida (ver detalle y lo ya probado en «No encontré»).

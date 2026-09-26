@@ -137,7 +137,7 @@ Hex sacados con `estilo.py` sobre fotogramas propios, no de memoria.
 - **Cuartel de Providence**: una **torre gris** que sale de un **cañón desértico**, cielo azul claro (hoja nº 36; «The tower», nº 50) ✅ visto. El retrato de Rex tiene el mismo cañón rojo detrás.
 - **Pasillos blancos** de Providence con agentes de negro (nº 34, nº 51).
 - **Abysus**, el feudo de Van Kleiss: no hay un plano general del sitio en las hojas. Las nº 20 y nº 27 son del episodio «Assault on Abysus» (interiores oscuros y cálidos) ⚠️.
-- **Ciudad en obras** y calles (nº 24 «201-Construction zone», nº 38) y **selva** (nº 65).
+- **Calles de ciudad** (nº 38, nº 64) y **selva** (nº 65).
 
 **Texturas reales equivalentes** (ambientCG, CC0, 2048×2048 citado, hasta 8K):
 - Metal cepillado para los *builds*: [Metal055A](https://ambientcg.com/view?id=Metal055A) ✅
@@ -180,4 +180,195 @@ Es una caricatura occidental: **en la serie no hay globos**. Los diálogos se oy
 4. **Por pantalla gigante**: el **Caballero Blanco** habla a los agentes desde un monitor enorme (hoja nº 110, «White Knight Lockdown») ✅ visto. Buen recurso para un jefe que «da avisos».
 - **Pensamiento**: no hay globo. Rex piensa con **voz en off** ⚠️ (dato de la parte de texto, sin captura).
 - **Onomatopeyas sobreimpresas**: no se encontró ninguna en la serie ⚠️. El estallido radial rojo y blanco de la hoja nº 28 sí es un fondo gráfico propio.
+
+## 7 · Personajes y popularidad
+
+⚠️ La parte de voz no llegó a este punto. Esto junta lo que trajeron las otras partes, el reparto de Doblaje Wiki y los nombres de archivo de la wiki (dicen quién sale con quién).
+
+**Principales**
+- **Rex Salazar**: el protagonista. Amnésico, saca máquinas de su cuerpo y cura EVOs. Piel morena, pelo negro hacia atrás en punta, ojos cafés, chamarra roja, goggles naranjas sobre la cabeza.
+- **Agente Seis (Six)**: el agente que lo cuida y lo vigila. Traje verde, gafas oscuras, **dos katanas a la espalda**. Callado y letal.
+- **Bobo Haha**: **chimpancé EVO** que habla (la ficha dice *Chimpanzee EVO*, no «mono»). Fez, parche, **dos pistolas láser**. El alivio cómico: gira balones, levanta el pulgar, lee cómics.
+- **Dra. Rebecca Holiday**: la científica de Providence. Sale examinando a Breach (nº 92) y peleando (nº 91). Rex coquetea con ella (nº 43, «Rex flirts with Dr. Holiday»).
+- **Noah Nixon**: el amigo «normal» de Rex, sin poderes (nº 45 «101-Rex and Noah», nº 95 «Noah and Rex double date»). En un episodio se vuelve EVO (nº 89).
+- **César Salazar**: sale en la 2.ª y 3.ª temporada (Doblaje Wiki). Que es el hermano mayor de Rex no está en las partes ⚠️ (de memoria).
+
+**Providence**
+- **Caballero Blanco** (White Knight): el jefe, abrigo blanco largo, cuello alto negro. Habla por pantalla (nº 110). Tiene traje de combate (nº 109).
+- **Caballero Negro** (Black Knight): 2.ª y 3.ª temporada (nº 19, junto a Van Kleiss).
+- **Agentes**: mono negro, peto blanco, casco (nº 34, nº 51).
+
+**Villanos**
+- **Van Kleiss**: el villano recurrente, ligado al origen del Evento. Capa negra, hombreras oliva, **brazo y cuello dorados** (hojas nº 5 y nº 19, visto). Vive en **Abysus**. Tiene tema musical propio.
+- **La manada de Van Kleiss** (*the Pack*): **Circe** (la chica que se hace amiga de Rex y luego deja a su banda, nº 59, nº 63, nº 69), **Breach** (abre portales, nº 53), **Bio-Lobo** y **Skalamandra**.
+- **Hunter Caín**: cazarrecompensas, con tema propio. **Quarry**: lo dobla Mark Hamill en la serie.
+
+**Popularidad** (⚠️ no hay encuesta oficial en las partes; no se buscó en japonés ni en revistas):
+- En [r/generatorrex](https://www.reddit.com/r/generatorrex) lo más votado es el **cruce con Ben 10**: [«This Iconic CN Crossover Is Forever Phenomenal»](https://www.reddit.com/r/generatorrex/comments/1h0nihy/this_iconic_cn_crossover_is_forever_phenomenal/) (379 votos) y [«Name a more iconic crossover»](https://www.reddit.com/r/generatorrex/comments/1ian7gg/name_a_more_iconic_crossover_go_on_ill_wait/) (146).
+- Hilos de «personaje favorito» con pocos votos: [general](https://www.reddit.com/r/generatorrex/comments/ps2rq0/hey_everyone_which_is_your_favorite_character_in/) (15), [«tu personaje latino favorito»](https://www.reddit.com/r/generatorrex/comments/1md66jb/who_was_your_favorite_latino_character_here/) (36) y [otro igual](https://www.reddit.com/r/generatorrex/comments/14bux7c/whos_your_favorite_hispaniclatino_character/) (14). Sólo se leyeron los títulos, no los comentarios ⚠️.
+- **Fan art**: todo lo hallado con la etiqueta de la serie es de **Rex** (8 dibujos útiles). Six sale en montajes de vídeo de fans sobre su relación con Rex.
+- **Conclusión**: Rex es la cara de la serie. Entre los secundarios, **Six** y **Bobo** son los que el encargo nombra y los que salen con Rex en el opening. Falta un dato que diga cuál quiere más la gente ⚠️.
+
+## 8 · Doblaje latino
+
+**Sí hay doblaje latino.** Título: **«Generador Rex»**. Ficha de [Doblaje Wiki por su API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Generador_Rex):
+- Estudio: **Sensaciones Sónicas** (México) ⚠️ una fuente.
+- Dirección: **Rossy Aguirre** (1.ª temporada), **Antonio Gálvez** (2.ª). Sin dirección acreditada en la 3.ª ⚠️.
+- Traducción: Arturo Cataño (todas) y Luis Leonardo Suárez (2.ª y 3.ª). Adaptación: **Carlos Hugo Hidalgo**, que además dobla a Noah ⚠️.
+- 60 episodios, 3 temporadas, emitida de 2010 a 2013 por Cartoon Network Latinoamérica ✅ (Doblaje Wiki y la [lista de episodios de la wiki](https://generatorrex.fandom.com/wiki/List_of_Generator_Rex_episodes)).
+
+| Personaje | Voz original | Voz latina | Fuentes |
+|---|---|---|---|
+| Rex Salazar | Daryl Sabara | **Irwin Daayán** | [serie](https://doblaje.fandom.com/es/wiki/Generador_Rex) + [actor](https://doblaje.fandom.com/es/wiki/Irwin_Daay%C3%A1n) |
+| Agente Seis | Wally Kurth | **Roberto Mendiola** | serie + [actor](https://doblaje.fandom.com/es/wiki/Roberto_Mendiola) |
+| Bobo Haha | John DiMaggio | **Gabriel Pingarrón** | serie + [actor](https://doblaje.fandom.com/es/wiki/Gabriel_Pingarr%C3%B3n) |
+| Dra. Rebecca Holiday | Grey DeLisle | Teresa Ibarrola | serie + [actor](https://doblaje.fandom.com/es/wiki/Teresa_Ibarrola) |
+| Noah Nixon | Fred Savage | Carlos Hugo Hidalgo | serie + [actor](https://doblaje.fandom.com/es/wiki/Carlos_Hugo_Hidalgo) |
+| César Salazar | Freddy Rodríguez | Daniel Lacy (2.ª-3.ª) | serie + [actor](https://doblaje.fandom.com/es/wiki/Daniel_Lacy) |
+| Caballero Blanco | J. K. Simmons | Pedro D'Aguillón Jr. | serie + [actor](https://doblaje.fandom.com/es/wiki/Pedro_D%27Aguill%C3%B3n_Jr.) |
+| Van Kleiss | Troy Baker | Ulises Maynardo Zavala | serie + [actor](https://doblaje.fandom.com/es/wiki/Ulises_Maynardo_Zavala) |
+| Circe | Tara Sands | Rossy Aguirre | serie + [actor](https://doblaje.fandom.com/es/wiki/Rossy_Aguirre) |
+| Bio-Lobo | Troy Baker | Juan Carlos Tinoco | serie + [actor](https://doblaje.fandom.com/es/wiki/Juan_Carlos_Tinoco) |
+| Skalamandra | John DiMaggio | Andrés García / Luis Alfonso Padilla (ep. 33) | serie + [actor](https://doblaje.fandom.com/es/wiki/Andr%C3%A9s_Garc%C3%ADa) |
+| Breach (Brecha) | Hynden Walch | Gaby Beltrán | serie + [actor](https://doblaje.fandom.com/es/wiki/Gaby_Beltr%C3%A1n) |
+| Caballero Negro | Jennifer Hale | Claudia Urbán (2.ª-3.ª) | serie + [actor](https://doblaje.fandom.com/es/wiki/Claudia_Urb%C3%A1n) |
+| Hunter Caín | John Cena / John DiMaggio | Humberto Vélez (1.ª-2.ª) / Jorge Palafox (3.ª) | serie + [actor](https://doblaje.fandom.com/es/wiki/Humberto_V%C3%A9lez) |
+
+- **Ojo con el ✅**: las dos fuentes son dos páginas distintas de **la misma wiki** (ficha de la serie y ficha del actor). Falta cruzarlo con **ANMTV** o con los créditos de emisión ⚠️.
+- **Frases icónicas del doblaje latino**: **no hay ninguna** en las partes, ni con vídeo ni con minuto (⚠️ la parte de voz no llegó). No se oyeron muestras con `voz.py`. Tampoco se sabe cómo dice el doblaje «Providence», «nanites» o «EVO» (¿«Providencia»?, ¿«nanitos»?): hay que oírlo antes de escribir textos de lámina en la voz latina.
+- Detalle útil para el servidor: **Rossy Aguirre** dirige la 1.ª temporada y a la vez dobla a **Circe**.
+
+## 9 · Música y sonido
+
+- **Opening: «Revolution»**, de la banda pop-punk **Orange** (Los Ángeles), del álbum *Phoenix* (2009) ✅ cuatro fuentes: créditos del episodio («Main Title Music by ORANGE», [0:20](https://www.dailymotion.com/video/x1n1tr1&t=20)), [ficha de la wiki](https://generatorrex.fandom.com/wiki/Orange), [Wikipedia](https://en.wikipedia.org/wiki/Orange_(band)) y [Bandcamp de la banda](https://orangeband.bandcamp.com/track/revolution). El productor **John Fang** los contactó cuando Cartoon Network buscaba un tema pop-punk.
+- Hay versiones posteriores **«Lofi Version»** y **«Orchestral Version»** con el subtítulo «Generator Rex Theme Song» ([Apple Music](https://music.apple.com/us/song/revolution-generator-rex-theme-song-lofi-version/1676200588) y Spotify) ✅.
+- **Música incidental: Kevin Manthei** ✅ (créditos del episodio y [ficha de la wiki](https://generatorrex.fandom.com/wiki/Kevin_Manthei)). Su web, [kmmproductions.com](https://www.kmmproductions.com), no se pudo abrir desde el contenedor.
+- **No hay ending con letra**: los créditos usan parte de **«The Zoo»**, el tema del paseo de Rex y Bobo por el zoo del episodio 1 ⚠️ una fuente.
+- **Temas por personaje** ([Soundtrack of Generator Rex](https://generatorrex.fandom.com/wiki/Soundtrack_of_Generator_Rex)) ⚠️ una fuente por pista:
+  - **Rex's Theme**: acción, hecho sobre el tema de Orange (1.01, 1.02, 1.05, 1.11, 1.13, 2.16, 3.10-11, 3.19).
+  - **Van Kleiss's Theme**: suena cada vez que aparece.
+  - **Hunter Cain Theme**: anuncia al cazarrecompensas.
+  - **Gatlocke's Theme**: mitad piano tranquilo, mitad guitarra rápida.
+  - **Frostbite Dream**: sólo violín, la ansiedad de los recuerdos de Rex (1.06).
+  - **Happy Birthday Rex**: cuando **Six le regala un tantō a Rex**, cierre emotivo de la 1.ª temporada (1.19, «Promises, Promises»). Es la escena emotiva mejor localizada.
+- **Álbum oficial**: no hay; lo que sale en [MusicBrainz](https://musicbrainz.org) con «Rex» es de otras obras ⚠️.
+- Sonido: casting y grabación **Collette Sunderman**; ingeniero **Robert Serda**; edición de sonido **Tom Syslo** y **Timothy J. Borquez** ✅ (créditos del episodio).
+- **Efectos de sonido reconocibles**: no se catalogaron (el zumbido de los nanitos o el ruido al formar un *build* no están descritos en las partes) ⚠️.
+
+## 10 · Vídeos y tendencias
+
+Buscados en la [API de Dailymotion](https://api.dailymotion.com/videos?search=generator+rex) e Internet Archive (YouTube pidió sesión).
+
+- **Opening en HD** con cada plano al segundo (§2): [xa14dbg](https://www.dailymotion.com/video/xa14dbg) ✅
+- **Tráiler del juego**: clasificación ESRB «E10+ Fantasy Violence» en 0:02-0:04; palabras de marketing **SHRED** ([0:18](https://www.dailymotion.com/video/x84bg5o&t=18)) y **BE** ([0:36](https://www.dailymotion.com/video/x84bg5o&t=36)) ✅
+- **Clip promocional de «Operation: Wingman»**, 2:59, con marca de Cartoon Network: [x2tkgs7](https://www.dailymotion.com/video/x2tkgs7) ✅
+- **Longplay completo del juego en PS3** (985 MB, para menús e interfaz): [Internet Archive](https://archive.org/details/PS3_Longplay_141_Generator_Rex_Agent_of_Providence) ✅ existe; no se miró fotograma a fotograma ⚠️
+- **Audio del opening** sin vídeo: [tvtunes_16677](https://archive.org/details/tvtunes_16677) ⚠️
+- **AMV de fans** «Kill The Lights»: [Internet Archive](https://archive.org/details/ytdown.com-you-tube-kill-the-lights-amv-generator-rex-media-hn-vevprww-gs-001-1080p) ⚠️
+- **Anuncio del opening en Cartoon Network Turquía** (alcance internacional): [Internet Archive](https://archive.org/details/cartoon-network-turkiye-generator-rex-acilis-2011-2016) ⚠️
+- Clips latinos sueltos que trajo el recolector, sin mirar: el cruce con Ben 10 ([x3ub8xe](https://www.dailymotion.com/video/x3ub8xe), [x2z8as2](https://www.dailymotion.com/video/x2z8as2)) y un fragmento del episodio 1 de 4:16 ([x31x2vw](https://www.dailymotion.com/video/x31x2vw)) ⚠️ no se comprobó si están en español.
+- **Tendencias de TikTok o YouTube**: no se encontró nada viral reciente ⚠️ (búsquedas «Generator Rex tiktok trend», «Generator Rex edit 2025/2026»). La serie no tiene un resurgir visible.
+
+## 11 · Videojuegos
+
+- **Generator Rex: Agent of Providence** (Activision; 1-nov-2011 en EE. UU., 4-nov en Reino Unido), para **DS, 3DS, Wii, PS3 y Xbox 360**. Es el único juego de consola ([wiki](https://generatorrex.fandom.com/wiki/Generator_Rex:_Agent_of_Providence), que cita a IGN) ✅.
+  - **Armas jugables**: Big Fat Sword, Smack Hands, Punk Busters, Slam Cannon, Rex Ride, Boogie Pack, Blast Caster, Bad Axes y Funchucks.
+  - **Niveles**: Sky Diving, México, La Jungla, Rex Ride, Hong Kong, Providence, Aquania, Dimensión de bolsillo y Abysus.
+  - En **3DS** cada arma tiene su árbol de golpes (la BFS: Circle Chop, Chain Saw, Joust, Air Strike, Dash).
+  - **Interfaz**: HUD de combate con el nombre corto del arma; conversaciones en pantallas de misión con subtítulo simple. Juego 3D con *cel-shading* (tráiler, §2).
+  - En el juego, a **Quarry** lo dobla John DiMaggio y no Mark Hamill ⚠️.
+  - Duncan Rouleau lo dio por **canon** en X (@rouleau1), según la wiki ⚠️ tuit no visto.
+- **Sitio oficial** (cartoonnetwork.com/generatorrex): **visor 3D de los *builds*** (arrastrar para girar) con pantalla «LOADING.» de juego, y minijuegos en Flash ✅ ([recorrido archivado](https://archive.org/details/generator-rex-website-tour), 0:02:29 y 0:04:59).
+- **Minijuegos de Cartoon Network**:
+  - [Nanite Master](https://generatorrex.fandom.com/wiki/Nanite_Master): Rex detiene a Biowulf en un rescate; espacio y flechas ✅.
+  - [Nanite Runner](https://generatorrex.fandom.com/wiki/Nanite_Runner): *endless runner*, Rex esquiva y golpea EVOs ✅.
+  - [Heroes United (online)](https://generatorrex.fandom.com/wiki/Heroes_United_(online_game)): WASD + Z/X/C ⚠️.
+  - [Titanic Kungfubot Offensive](https://generatorrex.fandom.com/wiki/Titanic_Kungfubot_Offensive): lucha de robots de 10 series de Cartoon Network; Rex y Six jugables ⚠️. Rex trae Smack Hands, Slam Cannon y su súper, la **B.F.S.**
+- **The Cutting Room Floor**: [tcrf.net](https://tcrf.net) bloqueó el acceso (Cloudflare) y no se halló entrada. «No encontré», no «no existe» ⚠️.
+- **Steam**: ningún juego de la serie ([búsqueda del recolector](https://store.steampowered.com)) ✅.
+
+## 12 · Lo que ama el fandom y qué NO hacer
+
+⚠️ La parte de voz no llegó a este punto. Esto sale de los hilos de Reddit (títulos y votos, del recolector) y de lo que vieron las otras partes.
+
+**Lo que el fandom ama**
+- **El cruce con Ben 10**, «Heroes United». Es lo más votado del subreddit (379 y 146 votos, §7) y la imagen oficial más grande (1920×1080, §1).
+- **Las máquinas de Rex** y cuál prefiere cada uno: hilo [«Each character favorite builds?»](https://www.reddit.com/r/generatorrex/comments/17iosj1/each_character_favorite_builds/) ⚠️.
+- **Que envejeció bien**: [«How well did Generator Rex hold up for you…»](https://www.reddit.com/r/generatorrex/comments/1qeiqv0/how_well_did_generator_rex_holds_up_for_you_since/) (102 votos, 22 comentarios) la llama «una de mis caricaturas favoritas de los 2010».
+- **Que el cocreador conteste**: Duncan Rouleau responde a fans sobre si Rex podría construir un Omnitrix (hoja nº 2).
+- **Parejas y discusiones**: hay hilos de *shipping* («unpopular opinion», 10 comentarios) y bromas internas como «Noah is my favorite female character» ⚠️ sin leer.
+- **Memes concretos, chistes internos o frases que todos citan**: no están en las partes ❌ no se buscó (sólo títulos de hilos).
+
+**Qué NO hacer** (sale de las partes)
+- **Bobo no es un mono cualquiera** ni lleva cresta ni boina: es un chimpancé EVO con **fez granate y borla negra** y **parche en el ojo izquierdo** (§15).
+- **La chamarra de Rex es roja**, no verde (la verde es de un fan art) y los goggles van **sobre la cabeza**, no puestos, salvo en acción.
+- **Nada de globos ni tramas de manga**: la serie es occidental, color plano (§6, §18).
+- **Nada de grano, VHS ni aberración cromática**: es animación digital limpia (§18).
+- **Las máquinas salen del cuerpo de Rex**: brazos, espalda o piernas se vuelven la máquina. No son armas que coja del suelo.
+- **Los nanitos se dibujan azules**, esferas con pinchos (hojas nº 37 y nº 71). Al activarse brillan en azul o verde (§18). El verde lima con negro es de las máquinas de la T3 y del cruce con Ben 10: no pintar así los *builds* clásicos.
+- **No mezclar con otros «Rex»**: el recolector trajo T-Rex, OSIRIS-REx y personajes de Teen Titans. Nada de eso es de esta serie.
+- **No usar la fuente de fan del logo**: licencia personal y sin ñ ni tildes (§5).
+
+## 13 · Personajes a fondo
+
+⚠️ A medias. La parte de voz no hizo este punto: faltan miedos, muletillas, cómo se ríe o se enfada cada uno y su cara en cada emoción **con minuto**. Lo que sigue junta los datos ciertos de las otras partes y lo que se ve en las hojas (número de imagen en lugar de minuto).
+
+### Rex Salazar
+- **Qué es**: un chico amnésico que controla sus nanitos. Genera máquinas con su cuerpo y **cura EVOs**, algo que nadie más puede ([wiki](https://generatorrex.fandom.com/wiki/Exponentially_Variegated_Organism)) ✅.
+- **Qué transmite**: seguridad, chulería simpática, energía. En el retrato oficial sonríe de lado mirando arriba; en el opening sonríe tras formar los Smack Hands ([0:04](https://www.dailymotion.com/video/xa14dbg&t=4)).
+- **Qué le pesa**: no recordar su pasado. El violín de «Frostbite Dream» suena en sus recuerdos con ansiedad (1.06) ⚠️.
+- **Relaciones**: Six lo cuida y lo vigila (le regala un tantō por su cumpleaños, 1.19) ⚠️; coquetea con Holiday (nº 43); Noah es su amigo de calle (nº 45, nº 95); Circe es su amiga en el bando contrario (nº 59, nº 63); pelea con Van Kleiss y lo cura (nº 40, nº 41).
+- **Caras vistas**:
+  - alegría y seguridad: opening [0:04](https://www.dailymotion.com/video/xa14dbg&t=4) y [0:11](https://www.dailymotion.com/video/xa14dbg&t=11); nº 39, sonriendo con un examen en la mano;
+  - explicar o avisar, cejas fruncidas y manos abiertas: tráiler del juego [0:33](https://www.dailymotion.com/video/x84bg5o&t=33);
+  - rabia o fuera de control: nº 57 «Broken», **ojos rojos que brillan** y boca abierta;
+  - ternura: nº 15, abrazo con Breach, ojos cerrados;
+  - miedo o esconderse: nº 44 «Rex hides from the Pack».
+  - tristeza y vergüenza: no localizadas ⚠️.
+
+### Agente Seis (Six)
+- **Qué es**: el agente de Providence que acompaña a Rex. Traje verde, gafas oscuras, perilla, dos katanas.
+- **Qué transmite**: calma total y peligro. Camina con la katana baja mirando al frente ([0:06](https://www.dailymotion.com/video/xa14dbg&t=6)); salta de un edificio de noche ([2:00](https://www.dailymotion.com/video/x2tkgs7&t=120)); nº 48, corre en diagonal con las katanas; nº 49, agachado en guardia con la katana.
+- **Con Rex**: la relación más querida por los fans que hacen montajes ([x2tkhza](https://www.dailymotion.com/video/x2tkhza&t=14)) ⚠️. Tras la dureza, el regalo de cumpleaños.
+- Cómo habla, si sonríe alguna vez, qué le da miedo: no está ⚠️.
+
+### Bobo Haha
+- **Qué es**: chimpancé EVO que habla, compañero de Rex en Providence. Fez, parche, dos pistolas enormes.
+- **Qué transmite**: relajo y burla. Gira un balón en el dedo ([0:13](https://www.dailymotion.com/video/xa14dbg&t=13)); levanta el pulgar con corbatín ([1:00](https://www.dailymotion.com/video/x2tkgs7&t=60)); lee un cómic sentado en una caja (tráiler, [0:26](https://www.dailymotion.com/video/x84bg5o&t=26)); se señala con el pulgar en su retrato; salta disparando (nº 28).
+- Muletillas, chistes, de dónde viene: no está ⚠️.
+
+### Los demás (breve)
+- **Rebecca Holiday**: científica; examina EVOs (nº 92), también pelea (nº 91). Joven en nº 112.
+- **Noah Nixon**: rubio, el amigo sin poderes; estudia (nº 78), sale en citas dobles con Rex (nº 95), se vuelve EVO una vez (nº 89).
+- **Van Kleiss**: villano con brazo dorado; de joven en nº 1; resucita (nº 74).
+- **Circe**: de la manada de Van Kleiss; grita con un poder sónico (nº 66-67); deja llorando a su banda (nº 69); se abre a Rex (nº 63).
+- **Breach**: abre portales (nº 53); la examina Holiday (nº 73).
+
+**Dinámicas para láminas en grupo**: Rex + Six (el chico chulo y el serio que no se ríe), Rex + Bobo (dos bromistas), Rex + Noah (amigos de instituto), Rex + Holiday (Rex le coquetea, nº 43).
+
+## 14 · Poses analizadas
+
+Poses de vídeo con minuto (mirado con `fotogramas.py`) ✅, más poses de las hojas (número).
+
+| Pose | Dónde | Minuto | Sirve para |
+|---|---|---|---|
+| Rex forma los **Smack Hands** naranjas y queda de pie, piernas abiertas, sonriendo | opening | [0:04-0:05](https://www.dailymotion.com/video/xa14dbg&t=4) | **celebrar**, presentar su poder |
+| Rex corre con **Punk Busters**, inclinado adelante, puños cerrados | opening | [0:09-0:10](https://www.dailymotion.com/video/xa14dbg&t=9) | **animar**, acción |
+| Six camina con la katana desenvainada y baja, mirada al frente | opening | [0:06-0:07](https://www.dailymotion.com/video/xa14dbg&t=6) | **regañar**, amenazar con calma |
+| Bobo gira un balón en un dedo, sonrisa ladeada, con Noah y Rex | opening | [0:13-0:14](https://www.dailymotion.com/video/xa14dbg&t=13) | **presentar** al trío, relajar |
+| Rex de perfil, sonrisa amplia, luz lateral fuerte | opening | [0:11](https://www.dailymotion.com/video/xa14dbg&t=11) | **presentar**, pose «sabelotodo» |
+| Six salta de un edificio de noche con línea de descenso, humo detrás | «Operation: Wingman» | [2:00-2:15](https://www.dailymotion.com/video/x2tkgs7&t=120) | entrada dramática |
+| Bobo con corbatín levanta el pulgar | «Operation: Wingman» | [1:00](https://www.dailymotion.com/video/x2tkgs7&t=60) | **animar**, aprobar |
+| Rex con las manos abiertas hacia cámara, cejas fruncidas | tráiler del juego | [0:33](https://www.dailymotion.com/video/x84bg5o&t=33) | **explicar**, avisar |
+| Rex clava su espada en el suelo, estocada baja, tres EVOs alrededor | tráiler del juego | [0:20-0:22](https://www.dailymotion.com/video/x84bg5o&t=20) | defender |
+| Rex con goggles puestos y sonrisa, Punk Busters humeando detrás | compilación T1 | [1:00](https://archive.org/details/rex-salazar-all-powers-fights-scenes-1-generator-rex-s-01&t=60) | triunfar tras la acción ⚠️ |
+| Bobo sentado en una caja, tablilla en una mano, la otra en el aire | tráiler del juego | [0:26](https://www.dailymotion.com/video/x84bg5o&t=26) | **pensar**, repasar un plan |
+
+**Poses de las hojas**
+- **Rex**: nº 105, brazos abiertos con los dos Smack Hands a los lados (presentar sus máquinas); nº 100, de frente entre dos hachas cian (Battle Axes); nº 98, apuntando con la BFS naranja; nº 23, con el Slam Cannon; nº 102-103, en la moto Rex Ride; nº 88, con el Boogie Pack; nº 96, saltando con los Punk Busters; nº 24, de pie en un interior blanco con los brazos algo abiertos (explicar).
+- **Six**: nº 48, carrera en diagonal con katanas; nº 49, en guardia; retrato oficial, de frente y quieto (presentar serio).
+- **Bobo**: nº 28-29, salto con dos pistolas hacia cámara (animar, gritar); retrato, pulgar hacia sí mismo (presentarse).
+- **Grupo**: nº 51, alineación de Providence (presentar al equipo); nº 79, Noah, Rex y dos chicas (amigos).
+
+**Por uso**: presentar = Rex nº 105 o Bobo en su retrato; explicar = Rex 0:33 o nº 24; celebrar = Rex 0:04; regañar = Six 0:06; pensar = Bobo 0:26; animar = Bobo 1:00 o Rex 0:09.
 

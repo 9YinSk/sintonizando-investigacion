@@ -333,3 +333,574 @@ Sugar Park. ✅ No hay fotogramas de ellos en las partes.
 - Asfalto húmedo para las calles de noche: `Asphalt012`. ⚠️ a ojo
 
 ---
+
+## 6 · Tipografía: una letra para cada uso
+
+Las ocho letras libres de abajo se comprobaron con fontTools: **todas
+traen á é í ó ú, ñ, ¿ y ¡** ✅. Todas son de Google Fonts, licencia OFL
+([repositorio](https://github.com/google/fonts)).
+
+| Uso | Cómo es en la serie | Letra libre | Tildes, ñ, ¿¡ |
+|---|---|---|---|
+| **Logo o título** | «SAKAMOTO DAYS» en mayúsculas negras muy gruesas y condensadas. La «O» es una **carita redonda con lentes redondos**. Debajo, サカモトデイズ en gótica simple (portada del cap. 1, [imagen](https://static.wikia.nocookie.net/sakamoto-days/images/6/66/Chapter_1.png/revision/latest?cb=20201121120346), y del tomo 9) | **Anton** (alternativa más redonda: **Titan One**). La carita se dibuja aparte | ✅ |
+| **Globo normal** | óvalo apaisado, trazo negro fino, sin color | **Patrick Hand** | ✅ |
+| **Grito** | igual que la onomatopeya: trazo grueso | **Bangers** | ✅ |
+| **Pensamiento** | Shin oye pensamientos: en el anime van en **nubes de pensamiento** (ficha de la wiki) | **Caveat** | ✅ |
+| **Onomatopeya** | pincelada negra, gruesa y angulosa, pintada a mano encima del dibujo, sin caja (ej. «触即発!!» en el cap. 43) | **Bangers**, o mejor pintada a mano | ✅ |
+| **Cartel del mundo** | rótulos de la tienda, el «営業» de la bandera, «坂本» en la portada del tomo 1 | **Archivo Black** | ✅ |
+| **Interfaz de juego** | caja del juego de móvil: sans de trazo uniforme, blanca | sans sencilla; **Press Start 2P** sólo si se quiere guiño retro | ✅ |
+| **Subtítulos o créditos** | tipo expediente de la JAA | **IBM Plex Mono** en negrita | ✅ |
+| **Japonés** | gótica gruesa | **Noto Sans JP** | — (es para kanji) |
+
+No se encontró el nombre de la letra del logo (parece hecha a medida). ⚠️
+
+---
+
+## 7 · Cómo hablan en pantalla: cartelas, globos y la caja del juego
+
+**Regla de oro:** Sakamoto Days casi nunca usa una burbuja blanca
+genérica fuera de las viñetas. Tiene tres cuadros propios.
+
+### 7.1 La cartela de título (la más reconocible)
+
+- **Caja negra de esquinas redondeadas.**
+- **Letras amarillas** gruesas, en vertical, con furigana gris pequeño.
+- Una **palabra clave suelta en rojo**, fuera de la caja y más pequeña,
+  para dar énfasis.
+- Ejemplo: portada del capítulo 2, «殺し屋商店始めました» («abrimos la
+  tienda de asesinos»), hoja 2 nº72,
+  [imagen](https://static.wikia.nocookie.net/sakamoto-days/images/c/c9/Chapter_2.png/revision/latest?cb=20201129174907)
+  (959×1400). ✅ forma y colores; ⚠️ la palabra roja no se lee bien.
+
+### 7.2 El globo del manga
+
+- Óvalo apaisado de **contorno negro fino** (~2 px), sin relleno de color.
+- Cola corta y recta.
+- Página del capítulo 43,
+  [imagen](https://static.wikia.nocookie.net/sakamoto-days/images/d/d9/Chapter_43.png/revision/latest?cb=20211209155326)
+  (2190×1600). ✅ forma; los globos están vacíos en esa copia.
+- **Onomatopeyas**: tinta negra a pincel, directamente encima de la
+  acción. Sin caja ni contorno. ✅
+
+### 7.3 La caja de diálogo del juego de móvil (medida)
+
+Captura oficial de Google Play,
+[escena de historia](https://play-lh.googleusercontent.com/4wGwCIQh7yq_WyHsio6T-ZOs65zm8zvfItFUlsgXw5N22YFOthap8_I7_YirCkcxUyziJtGV)
+(288×512), medida con Pillow. ✅ (una sola escena)
+
+- Caja **negra casi opaca `#1E1E1E`**, rectángulo redondeado abajo.
+- **Esquinas verde neón** marcando el marco.
+- **Placa de nombre naranja-amarilla `#FECB00`**, arriba a la izquierda,
+  con el nombre en negro y negrita. En la captura dice **«南雲»**
+  (Nagumo).
+- Texto **blanco**, dos líneas, a la izquierda, sin serifa.
+- Botón «スキップ» (saltar) en una píldora oscura translúcida.
+
+Otras pantallas del juego: formación de equipo con botón rosa pastel
+`#F6D6BA` sobre degradado lila `#B88ABD`
+([captura](https://play-lh.googleusercontent.com/AVxcy4VRwii-wZKhEz9h8R4QzTLNpYD26bYVcXU5JDH0L4BwnVUZpTOtxSP5Aqhe5pnBXOKb));
+escena de villano con **cinta de peligro amarilla y negra** en diagonal
+([captura](https://play-lh.googleusercontent.com/2I-64vrEFIUenNcp71WNZ0qlpO74EjvZwQK9CBN1-Ds5jzBxUa8rxzIFR29c1_il3xSI0sVM)). ✅
+
+### 7.4 Otras formas de «hablar» que da la serie
+
+- **El kairanban** (回覧板) de las fichas: cabecera con recuadro y
+  título manuscrito «さかてい!». Es el tablón de avisos de la tienda
+  (hoja 2 nº65). ✅ visto
+- **Los carteles de nombre** de la fila de fichaje del cap. 45 (hoja 2
+  nº81): cada personaje dice quién es con un cartel en la mano. ✅ visto
+- **Los rótulos verticales** de las portadas: frases cortas en vertical,
+  como «日常と非日常» o «守りたい かけがえのない 日常». ✅ visto
+
+**Qué NO hacer:** un globo blanco redondo con cola puntiaguda de cómic
+americano, o globos de colores vivos. La serie usa óvalos finos y
+cartelas negras con amarillo.
+
+---
+
+## 8 · Los personajes: qué transmiten, su cara y sus dinámicas
+
+Fuentes de carácter: la wiki en inglés (secciones *Personality* y
+*Trivia*, que citan el manga y el *Official Fan Book*) y
+[AniList](https://anilist.co/anime/177709). Caras: el tráiler oficial
+de Netflix doblado, mirado plano a plano (68 fotogramas).
+
+### Tarō Sakamoto (protagonista)
+
+- **Carácter.** Habla poco; deja que sus actos hablen. Ama a su familia
+  y dejó de matar por ella. Tiene una **política de no matar** que aplica
+  hasta a sus enemigos
+  ([wiki](https://sakamoto-days.fandom.com/wiki/Taro_Sakamoto#Personality)). ✅
+- **Su miedo.** Enojar a su mujer, **Aoi**: si vuelve a matar, ella lo
+  deja. Es su única fuente de pánico cómico. ✅ (wiki y TV Tropes)
+- **Qué transmite.** Ternura torpe. Un hombre letal escondido en un
+  cuerpo de tendero gordo y bonachón. Da risa y, de golpe, impone.
+- **Cómo se expresa.** Frases cortas y directas. Casi nunca grita.
+  Explica con calma y sin adornos. ✅ (doblaje, §10)
+- **Dos cuerpos.** Gordo y manso en el presente; **delgado y letal** («prime»)
+  tras un gran esfuerzo. Vuelve a engordar en un par de días. ✅
+- **Detalles.** Lloró la primera vez que Aoi le cocinó arroz con
+  tortilla; antes él y Shin vivían de raciones militares. Sabe origami
+  porque se lo enseñó su hija Hana (tomo 17). ⚠️ (una fuente)
+
+### Shin Asakura
+
+- **Carácter.** Honesto, directo, con los pies en la tierra. Tranquilo en
+  pelea, pero estalla en **rabietas cómicas** por cosas del día a día.
+  Analítico en combate
+  ([wiki](https://sakamoto-days.fandom.com/wiki/Shin_Asakura#Personality)). ✅
+- **Su poder.** **Lee mentes.** Eso lo vuelve un fastidio para sus amigos
+  (se entera de todo). ✅
+- **Qué transmite.** El chico leal que se siente «diferente» y aun así es
+  cariñoso. Es el que grita lo que el público piensa.
+- **Cómo se expresa.** Determinación simple («A partir de ahora, voy a
+  pelear en serio», 0:58). Cuando se indigna, grita cortado.
+- **Detalles.** Fumaba y lo dejó al entrar en la tienda. Le gustan los
+  algodones de azúcar y los perros bonitos. ⚠️ (una fuente)
+
+### Lu Shaotang (la Lu del trío)
+
+- **Carácter.** Alegre, relajada casi hasta el descuido: llegó 2 horas
+  tarde su primer día, con ropa casual bajo el delantal. Guarda con
+  cariño a sus padres y siente la tienda como **su nueva familia**
+  ([wiki](https://sakamoto-days.fandom.com/wiki/Lu_Shaotang#Personality)). ✅
+- **Modo «tríada borracha».** Con alcohol se vuelve dominante y
+  despiadada; sobria es dulce y despistada. ✅
+- **Aspecto.** Pelo **rosa-borgoña** (retrato de
+  [AniList](https://s4.anilist.co/file/anilistcdn/character/large/b207272-qQ7YZOKtbzzZ.png);
+  hoja 2 nº71 y nº81). ⚠️ Sus colores no se midieron (§16).
+- **Cómo se expresa.** Pocas líneas propias en el doblaje; su presencia es
+  física (mirada fija, dedo acusador). Coincide con el chiste del fandom
+  «¿quién es Lu?» (§14).
+
+### Yoichi Nagumo (el secundario más querido, §9)
+
+- **Carácter.** **Miente por costumbre**, hasta cuando se presenta «en
+  serio»: dice tener 18 años y trabajar en un súper que no existe.
+  Perezoso, duerme mucho, hace sudokus en la cama. Le dan miedo las
+  mañanas y se marea en coche
+  ([wiki, cita el *Official Fan Book*](https://sakamoto-days.fandom.com/wiki/Yoichi_Nagumo)). ✅
+- **Historia.** Rico, heredero de una familia de espías. Amigo de
+  Sakamoto desde la JCC. Miembro de la **Order**. ✅
+- **Qué transmite.** El bromista peligroso: nunca sabes si habla en serio.
+- **Arma.** Una herramienta plegable enorme (hoja 3 nº118; hoja 1 nº47).
+
+### Otros que importan
+
+- **Osaragi**: de la Order. Vestido largo negro de encaje y una **sierra
+  circular plegable**. 3ª en la 1ª encuesta. ✅
+- **Shishiba**: 4º en la 1ª encuesta y 3º en la 2ª. Las partes no
+  describen su carácter. ⚠️
+- **Heisuke Mashimo**: francotirador, amigo de Shin (sus pensamientos le
+  parecen «tontos» a Shin). ✅
+- **Aoi Sakamoto**: la mujer de Sakamoto, antes cajera de una tienda. Es
+  la única que le da miedo de verdad. ✅
+- **Hana Sakamoto**: la hija pequeña. ✅
+- **Lu Wutang**: chico chino alto, pesimista y poco sociable, con trenza
+  negra; se le ilumina la cara al ver a Lu Shaotang porque está enamorado
+  de ella. No es del trío. ✅ (wiki)
+
+### Dinámicas (para láminas en grupo)
+
+- **Nagumo saca de quicio a Shin y a Lu**: se presenta mintiendo hasta en
+  lo más tonto y acaban golpeándolo (TV Tropes, *Funny*, ep. 3). ⚠️
+- **Shin y Heisuke**: le molesta leerle la mente, pero lo valora. ✅
+- **Lu y Sakamoto**: ella lo mete en líos sin querer; él siempre acaba
+  ayudándola. ⚠️
+- **Sakamoto y Aoi**: todo el humor físico de los primeros capítulos es
+  no hacerla enojar. ✅
+- **Sakamoto y Shin**: el abrazo del tráiler (1:15) y el paseo al
+  atardecer del OP (1:25). Padre-hijo sin decirlo. ✅
+- **Shin y Wutang**: según la parte de voz, Wutang es el único al que Shin
+  no puede leer, y eso le da miedo de verdad. ⚠️ (revisar en la wiki)
+
+### Su cara en cada emoción (tráiler latino, un fotograma por plano)
+
+| Personaje | Emoción | Minuto | Enlace |
+|---|---|---|---|
+| Sakamoto | alegría: orgullo tranquilo, pulgar arriba | 0:27 | [x9a858e?t=27](https://www.dailymotion.com/video/x9a858e?t=27) |
+| Sakamoto | serio, en la tienda | 0:22 | [x9a858e?t=22](https://www.dailymotion.com/video/x9a858e?t=22) |
+| Sakamoto | miedo y pánico: boca abierta al oír «¡divorcio!» | 1:14 | [x9c2low?t=74](https://www.dailymotion.com/video/x9c2low?t=74) |
+| Sakamoto y Shin | sorpresa: ojos muy abiertos | 0:27 | [x9a858e?t=27](https://www.dailymotion.com/video/x9a858e?t=27) |
+| Shin | rabia: grito, cejas fruncidas | 0:23 | [x9a858e?t=23](https://www.dailymotion.com/video/x9a858e?t=23) |
+| Shin | determinación, fondo en llamas | 0:50 | [x9a858e?t=50](https://www.dailymotion.com/video/x9a858e?t=50) |
+| Shin | confianza, brazos cruzados | 1:00 | [x9a858e?t=60](https://www.dailymotion.com/video/x9a858e?t=60) |
+| Shin | rabia en pelea, dientes apretados | 1:14 | [x9a858e?t=74](https://www.dailymotion.com/video/x9a858e?t=74) |
+| Shin | rabia, puño apretado | 0:44 | [x9c2low?t=44](https://www.dailymotion.com/video/x9c2low?t=44) |
+| Lu | alegría: sonrisa amplia | 0:31 | [x9a858e?t=31](https://www.dailymotion.com/video/x9a858e?t=31) |
+| Lu | preocupación | 0:33 | [x9a858e?t=33](https://www.dailymotion.com/video/x9a858e?t=33) |
+
+**Faltan tristeza y vergüenza** con personaje claro. En 2:03 del tráiler
+final ([x9c2low?t=123](https://www.dailymotion.com/video/x9c2low?t=123))
+una chica de pelo negro se sonroja con la mano en la mejilla, pero no se
+sabe quién es. ⚠️ Hay que mirar un episodio entero.
+
+---
+
+## 9 · ¿Quién es el más querido?
+
+**No es el protagonista.** Shueisha hizo dos encuestas oficiales en
+Shōnen Jump, y Sakamoto no gana ninguna. Tablas completas en la
+[wiki](https://sakamoto-days.fandom.com/wiki/Popularity_Polls). ✅
+
+| Puesto | 1ª encuesta (71 357 votos) | 2ª encuesta (154 552 votos) |
+|---|---|---|
+| 1º | **Shin Asakura** (12 738) | **Yoichi Nagumo** (28 478) |
+| 2º | Nagumo (10 800) | Shin (27 689) |
+| 3º | Osaragi (6 689) | Shishiba (19 714) |
+| 4º | Shishiba (5 591) | Osaragi (11 129) |
+| 5º | **Tarō Sakamoto** (4 782) | Natsuki Seba (10 926) |
+| … | Lu Shaotang, 15º (1 048) | **Sakamoto, 8º** (7 449); Lu, 15ª (1 109) |
+
+- [Game Rant](https://gamerant.com/the-result-of-sakamoto-days-popularity-poll-is-out-and-there-is-one-major-shock/)
+  llama a la caída de Sakamoto al 8º puesto «one major shock». ✅
+- **AniList** (favoritos de usuarios, fandom internacional): 1º el
+  Narrador (2233), 2º Nagumo (2211), 3º Sakamoto (1857), 4º Osaragi
+  (1679), 5º Shin (1443), 6º Lu (700). ✅
+- **Danbooru** (lo que más se dibuja): Nagumo 325, Osaragi 197, Shin 153,
+  Sakamoto 146. ⚠️
+
+**Conclusión para las láminas:**
+- Si se quiere **el más querido**, es **Nagumo**: gana la 2ª encuesta, 2º
+  en AniList y el más dibujado.
+- Si se quiere **el trío del encargo**, el más popular es **Shin**.
+- **Lu** está muy por detrás (15ª en las dos). El fandom lo sabe y lo
+  convierte en chiste (§14).
+
+---
+
+## 10 · Doblaje latino y frases textuales
+
+**Estudio:** VSI México City. **Dirección:** Óscar Garibay (eps. 1-2),
+Roberto Salguero (el resto) y Stephanie Filigrana (algunos personajes).
+**Traducción:** Jennifer Medel. Guion de Netflix; audio de referencia,
+el japonés. 2 temporadas, 22 episodios. Fue el **quinto anime de
+Netflix con doblaje simultáneo** en todo el mundo. ✅
+([Doblaje Wiki por su API](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Sakamoto_Days))
+
+### 10.1 Quién dobla a quién
+
+| Personaje | Seiyū | Voz latina | Fuente 1 | Fuente 2 |
+|---|---|---|---|---|
+| Tarō Sakamoto | Tomokazu Sugita | **Óscar López** | Doblaje Wiki ✅ | [ANMTV](https://www.anmtvla.com/2025/01/sakamoto-days-netflix-estrena-la-serie.html) ✅ |
+| Shin Asakura | Nobunaga Shimazaki | **Geezuz González** | Doblaje Wiki ✅ | ANMTV ✅ |
+| Shin niño | Mutsumi Tamura | Kenneth Lavíll | Doblaje Wiki ✅ | ficha del actor, mismo sitio ⚠️ |
+| Lu Shaotang | Ayane Sakura | **Irene Ponce** | Doblaje Wiki ✅ | ANMTV ✅ |
+| Aoi Sakamoto | Nao Tōyama | Angélica «Angie» Villa | Doblaje Wiki ✅ | ANMTV ✅ |
+| Hana Sakamoto | Hina Kino | Ali Mercado Santos | Doblaje Wiki ✅ | ANMTV ✅ |
+| Heisuke Mashimo | Ryōta Suzuki | Eduardo Martínez | Doblaje Wiki ✅ | ANMTV ✅ |
+| Narrador | Hōchū Ōtsuka | Octavio Rojas | Doblaje Wiki ✅ | ANMTV ✅ |
+| Yoichi Nagumo | Natsuki Hanae | **Bruno Coronel** | Doblaje Wiki ✅ | [ficha del actor](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=Bruno_Coronel), mismo sitio ⚠️ |
+| Osaragi | Saori Hayami | Stephanie Filigrana | Doblaje Wiki ✅ | ficha de la actriz ⚠️ |
+| Shishiba | Taku Yashiro | Emmanuel Alejandro | Doblaje Wiki ✅ | ficha del actor ⚠️ |
+| Kei Uzuki (Slur) | Daisuke Namikawa | Armando Guerrero | Doblaje Wiki ✅ | ficha del actor ⚠️ |
+| Gaku | Kōki Uchiyama | Óscar Garibay (el director) | Doblaje Wiki ✅ | — ⚠️ |
+| Hyo | Hiroki Yasumoto | Héctor Estrada | Doblaje Wiki ✅ | ficha del actor ⚠️ |
+| Tatsu | Taishi Murata | Arturo Castañeda | Doblaje Wiki ✅ | AniList ⚠️ |
+
+Un buscador decía que a Nagumo lo dobla **Diego Becerril**. No se
+confirmó en ninguna página: se descartó. ⚠️
+
+### 10.2 Frases textuales (tráiler oficial de Netflix, doblaje latino)
+
+Oídas con `voz.py` (Whisper) y revisadas a oído, en el
+[tráiler doblado](https://www.dailymotion.com/video/x9a858e). ✅
+
+| Quién | Frase | Minuto |
+|---|---|---|
+| Narrador | «Él era el hombre que causaba temor en los villanos y todos los asesinos realmente lo admiraban» | [0:00](https://www.dailymotion.com/video/x9a858e?t=0) |
+| Narrador | «Pero un día el señor Sakamoto engordó mucho» | [0:09](https://www.dailymotion.com/video/x9a858e?t=9) |
+| Sakamoto | «No volveré a ser un asesino» | [0:22](https://www.dailymotion.com/video/x9a858e?t=22) |
+| Aoi y Sakamoto | «Si rompo las reglas de la familia, me matará» / «¿Cómo te atreves a llamarme?» | [0:24](https://www.dailymotion.com/video/x9a858e?t=24) |
+| Un enemigo, con sorna | «¡Ay, qué bonito tener amigos!» | [0:37](https://www.dailymotion.com/video/x9a858e?t=37) |
+| Shin | «A partir de ahora, voy a pelear en serio» | [0:58](https://www.dailymotion.com/video/x9a858e?t=58) |
+| Sakamoto | «Cuando la gente tiene algo que quiere proteger, obviamente pelea con todas sus fuerzas» | [1:09](https://www.dailymotion.com/video/x9a858e?t=69) |
+| Sakamoto | «Decidí que ahora la utilizaré para proteger a los que amo. Eso es lo que me hace más fuerte» | [1:19](https://www.dailymotion.com/video/x9a858e?t=79) |
+
+Dudosa: un grito de Shin en 0:35 que Whisper transcribió como «¡Esperas
+hermano, júdeme!». Parece mal oído. ⚠️ No usar sin escucharlo.
+
+Voz medida en el tráiler (mezcla de personajes): registro grave (138 Hz),
+muy expresiva (30,9 semitonos), velocidad normal (2,55 palabras/s). ✅
+
+### 10.3 Datos del doblaje que le gustan a un servidor de doblaje
+
+De los «Datos de interés» de [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Sakamoto_Days):
+
+- **Ep. 3**: el héroe disfrazado del parque de atracciones lo dobla
+  **Jorge Roig Jr.**, que fue Rocky, el segundo Ranger Rojo, en *Power
+  Rangers*. El disfraz imita a FiveRed de *Fiveman*. Guiño de casting.
+- **Ep. 2, min 10:00**: Lu repite dos veces «Matan a su objetivo de
+  manera infalible por precios exorbitantes». Se corrigió después.
+- **Eps. 4 y 9**: se acreditó por error a Pablo Mejía como Sakamoto;
+  sigue siendo Óscar López.
+- **Eps. 4 y 5**: a Boiled lo llaman «Boil», salvo en el ep. 4, min 0:50.
+- **Ep. 5**: pistas duplicadas de Óscar López (corregido a la semana); en
+  los min 20:43 y 21:03 Hana queda muda (se arregló sólo el 21:03).
+- **Ep. 7, min 7:10**: en la persecución en moto, un diálogo queda mudo.
+- **Ep. 8, min 20:10**: Shin dice «Leer la mente del enemigo me permite
+  saber dónde está. Pero no puedo hacer nada si no puedo leer la suya».
+  La wiki lo marca como incoherente.
+- Algunos gestos y reacciones se dejaron en japonés, sobre todo en peleas.
+- **El «¡Ay, caray!»**: Óscar López contó en el Rómpela Podcast que
+  metieron un «¡Ay, caray!» que no estaba en el guion japonés, para lograr
+  el mismo golpe de sorpresa. ⚠️ (sólo por un
+  [resumen en TikTok](https://www.tiktok.com/discover/oscar-lopez-doblaje);
+  no es cita textual)
+
+---
+
+## 11 · Música y sonido
+
+| Tema | Quién | Dónde | Estado |
+|---|---|---|---|
+| **Opening 1 «走れSAKAMOTO»** (*Hashire Sakamoto*, «Corre, Sakamoto»; en los créditos de Netflix, «RUN SAKAMOTO RUN») | **Vaundy** | eps. 1-11. «Vaundy» sale en pantalla en 0:14 del [OP](https://archive.org/details/sakamoto-days-op-1); [ficha](https://sakamoto-days.fandom.com/wiki/Hashire_Sakamoto) | ✅ |
+| **Ending 1 «普通»** (*Futsū*, «Normal») | **Conton Candy** | eps. 1-11 ([ficha](https://sakamoto-days.fandom.com/wiki/Futs%C5%AB)) | ⚠️ no se encontró el vídeo |
+| Ending especial «Somebody help us» | Vaundy | sólo ep. 7 | ⚠️ |
+| **Opening 2 «Method»** | **Kroi** | eps. 12-22; en pantalla en 1:10 del [tráiler Parte 2](https://www.dailymotion.com/video/x9k1124) | ✅ |
+| Banda sonora | **Yuki Hayashi** (林ゆうき) | [Wikipedia](https://en.wikipedia.org/wiki/Sakamoto_Days) y [MusicBrainz](https://musicbrainz.org/release-group/48a2b48a-6ecb-4c01-8ad4-9a670d7ab012): 4 álbumes en 2025 (*Anime original Mix* vol. 1-2 y *Hayashi special Mix* vol. 1-2) | ✅ |
+
+**El ambiente.** El OP alterna synth-pop urbano y rápido con cortes de
+acción en silencio. El ED «Futsū» es de medio tiempo y habla de la vida
+«normal» que Sakamoto eligió. ⚠️ (lectura del título y del OP, no de un
+análisis publicado)
+
+**Efectos.** En el tiroteo del ep. 1 los disparos suenan **secos y
+cercanos**, realistas, no exagerados. Los golpes de Sakamoto llevan un
+**golpe grave sin música encima** para remarcar su fuerza. ⚠️ (oído en un
+solo clip). Director de sonido: Jin Aketagawa; efectos: Rei Ueno
+(AniList). ✅
+
+**Onomatopeyas.** No hay una lista reconocida por el fandom. Las del
+manga están pintadas a pincel (§7). ⚠️
+
+**Música en las escenas emotivas:** no se pudo saber qué tema suena en
+cada una; los episodios completos no estaban accesibles. ⚠️
+
+---
+
+## 12 · Vídeos y tendencias
+
+| Vídeo | Minuto útil | Estado |
+|---|---|---|
+| [Tráiler oficial Netflix VOSTFR](https://www.dailymotion.com/video/x9c6rxi), 1:29 | 0:20 gag de que «engordó»; 1:05 créditos «RUN SAKAMOTO RUN» por Vaundy; 1:15 el abrazo | ✅ (la cifra de 73 millones de vistas de ese resubido parece inflada ⚠️) |
+| [Tráiler Parte 2](https://www.dailymotion.com/video/x9k1124), 1:55 (inglés: [x9ji7wi](https://www.dailymotion.com/video/x9ji7wi)) | 0:21 «Un tueur à gages à la retraite pris pour cible»; 1:10 «Method» por Kroi; 1:38 «Partie 2 / 14 juillet» | ✅ |
+| [Tráiler doblado al latino](https://www.dailymotion.com/video/x9a858e), 1:48 | todas las frases de §10.2 | ✅ |
+| [Escena del ep. 1](https://www.dailymotion.com/video/x9g89je), 2:03, subtítulos en inglés | 0:08 a 2:00, seis poses (§15) | ✅ |
+| [Opening 1 completo](https://archive.org/details/sakamoto-days-op-1), 1280×720 | 0:00, 0:45, 0:50, 1:00 y 1:25 (§5) | ✅ |
+| Tráiler oficial en YouTube (desde AniList): [CdnMoPIgC5s](https://www.youtube.com/watch?v=CdnMoPIgC5s) | — | ⚠️ no se pudo abrir |
+| Lista «Sakamoto Days Fight Analysis» ([YouTube](https://www.youtube.com/playlist?list=PLwzWP6A-AbgTMlIs82AaV8sGQwKQSYCaW)) | análisis de coreografías | ⚠️ no abierta |
+| «Sakamoto Days is OVERHATED?» ([YouTube](https://m.youtube.com/watch?v=ViBvEgPQeYQ)), ene-2025 | la recepción fría del anime al principio | ⚠️ no abierta |
+| «Sakamoto Days · Resumen en 30 minutos · Parte 1» ([YouTube](https://www.youtube.com/watch?v=wqrL9YbMYyQ)), en español | resumen para el público hispano | ⚠️ no abierta |
+| Tendencia TikTok **«Shin Sonic Sway»** ([TikTok](https://www.tiktok.com/discover/shin-sonic-sway-sakamoto-days)) | Shin esquivando ataques con el remix «Sonic Sway» | ⚠️ sin cifras |
+| Edits «Nagumo & Shin» y la etiqueta [#sakamoto](https://www.tiktok.com/tag/sakamoto) | edits de personajes | ⚠️ sin cifras |
+
+**Ficha técnica** (Wikipedia y AniList): TMS Entertainment; dirección
+**Masaki Watanabe**; guion **Taku Kishimoto**; diseño de personajes **Yō
+Moriyama**; dirección de arte Yukiko Maruyama; color Manami Sasa;
+fotografía Bolun Cai. Emitido en TV Tokyo y en
+[Netflix](https://www.netflix.com/title/81663325). ✅
+
+---
+
+## 13 · Videojuegos de la franquicia
+
+- **Sólo existe uno**: **«SAKAMOTO DAYS デンジャラスパズル»** (*Sakapazu*,
+  «Dangerous Puzzle»), de **GOODROID**, filial de CyberAgent. Móvil,
+  gratis con compras, **sólo en Japón**, desde el 2-abr-2025. ✅
+  ([Google Play](https://play.google.com/store/apps/details?id=jp.co.goodroid.sakapuzz&hl=en_US),
+  [nota de CyberAgent](https://www.cyberagent.co.jp/en/news/detail/id=31588))
+- **Mecánica**: puzle de combinar 3 por colores para dañar enemigos; se
+  arma un equipo con Sakamoto, Shin, Lu y otros. Sólo en japonés. ✅
+- **Voces**: las mismas del anime japonés (Sugita, Shimazaki, Sakura,
+  Tōyama, Kino, Suzuki, Hanae, Yashiro, Hayami). ✅
+- **Arte exclusivo** del juego, con historias cortas propias. ✅ (ficha);
+  ⚠️ no se pudo ver el catálogo.
+- **Interfaz**: la caja de diálogo negra con placa naranja (§7.3) y la
+  pantalla de equipo. No se consiguió captura del tablero en combate. ⚠️
+- **No hay** juego de PC ni consola: [Steam](https://store.steampowered.com)
+  vacío, y nada anunciado a 26-sep-2026. ✅
+- **The Cutting Room Floor**: tcrf.net respondió con un reto de
+  Cloudflare (dos intentos con `curl` y dos con `navegar.py`). No se pudo
+  comprobar. ⚠️
+
+---
+
+## 14 · Lo que ama el fandom, y qué NO hacer
+
+Fuentes: [TV Tropes (YMMV)](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/SakamotoDays)
+y [Reddit r/SakamotoDays](https://www.reddit.com/r/SakamotoDays).
+
+**Chistes y momentos que todos reconocen:**
+- **«¿Quién es Lu?»**: Lu es de las tres protagonistas, pero quedó tan
+  relegada que el chiste es poner su foto y preguntar quién es. TV Tropes
+  la pone como *Memetic Loser*. ⚠️ (una fuente, pero cuadra con su 15º
+  puesto en las dos encuestas)
+- **«Takamura Days»**: así rebautizaron el arco de la pelea 4 contra 1
+  contra Takamura, el viejo asesino que se robó la escena. ⚠️
+- **Boiled, el más fuerte en secreto**: Boiled es un antagonista menor y
+  fanfarrón; la broma es que en realidad es el más fuerte. ⚠️
+- **Slur divide al fandom**: trágico para unos, inconsistente para otros. ⚠️
+- **La comparación con John Wick**: el mejor sicario se retira por amor.
+  La diferencia: a Sakamoto no le matan a nadie; sigue siendo comedia. ⚠️
+- **Memes** que TV Tropes da por sabidos: «Bus jacking», «Coach Anzai»
+  (el parecido del Sakamoto gordo con el entrenador de SLAM DUNK),
+  «Ninong Ry.», «Sakamoto married Kobeni!» (cruce con *Chainsaw Man*),
+  «Tunnel Effect». ⚠️ sin el remate de cada uno
+- **La pelea Boiled contra Sakamoto (ep. 5)** es «la icónica»:
+  [387 votos y 162 comentarios](https://www.reddit.com/r/SakamotoDays/comments/1if8ftj/the_iconic_boiled_vs_sakamoto_fight_is_here/). ✅
+- Lo que enamora, según el hilo más votado sobre «por qué lo amo»
+  ([253 votos](https://www.reddit.com/r/SakamotoDays/comments/11xdqus/i_know_its_not_the_most_impressive_thing_hes_ever/)):
+  **los movimientos creativos de Sakamoto**, usar cualquier objeto como
+  arma. ⚠️
+
+**Qué NO hacer (a un fan le sonaría falso):**
+- **Burbuja blanca genérica.** La serie tiene sus cartelas (§7).
+- **Sakamoto sólo gordo y torpe.** El chiste es que además es letal. Si
+  pierde una de las dos mitades, pierde la gracia.
+- **Sakamoto matando o con sangre gratuita.** Su regla es **no matar**.
+  La violencia de la serie es «cool», no traumática: «evito la brutalidad
+  gratuita», dice su editor ([MangaPlus](https://mangaplus.shueisha.co.jp/web_pages/1293/)). ✅
+- **Nagumo serio y sincero.** Miente por costumbre; así se rompe.
+- **Lu con el mismo peso que Sakamoto o Shin**, como si nada. Mejor
+  jugar con el chiste o dejarla de apoyo.
+- **Vestir a Sakamoto de John Wick** (traje negro, perro) «para que se
+  entienda». Se pierde el tono de comedia doméstica.
+- **Confundir a Lu Shaotang (pelo rosa) con Lu Wutang** (chico de
+  trenza). Es el error que traían las partes (§28).
+- **Confundirla con *Sakamoto desu ga?*** (¿Soy Sakamoto?, 2016): otra
+  serie, otro Sakamoto (§23).
+
+---
+
+## 15 · Poses analizadas por personaje
+
+### Sakamoto
+
+| Pose | Dónde | Minuto | Sirve para |
+|---|---|---|---|
+| Silueta a contraluz hacia el atardecer junto a Shin, manos en los bolsillos | [OP1](https://archive.org/details/sakamoto-days-op-1) | 1:25 | **presentar** |
+| De pie con delantal, mano en el hombro herido, gesto resignado y cómico | [ep. 1](https://www.dailymotion.com/video/x9g89je) | 1:52 | **explicar** con humor |
+| Primer plano serio, cejas fruncidas tras los lentes | ep. 1 | 2:00 | **pensar** o **regañar** (impone sin gritar) |
+| Abraza a Shin, mano en la nuca | [tráiler](https://www.dailymotion.com/video/x9c6rxi) | 1:15 | **celebrar** o **animar** |
+| De rodillas en el sofá, exhausto, con Shin encima | tráiler | 0:15 | **animar** (gag doméstico) |
+| Pulgar arriba, orgullo tranquilo | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=27) | 0:27 | **celebrar** |
+| Sentado en la puerta de la tienda leyendo el periódico | portada cap. 221, hoja 1 nº15 | — | **explicar** o **informar** (§27 A) |
+| Cámara al hombro, gorra roja, andando | portada cap. 168, hoja 2 nº58 | — | **presentar** un rodaje (§27 B) |
+| Con delantal, sosteniendo su cartel de nombre en la fila de fichaje | portada cap. 45, hoja 2 nº81 | — | **presentar** (§27 C) |
+| Delantal verde, brazo extendido lanzando | hoja 1 nº39 | — | acción sin armas |
+
+### Shin
+
+| Pose | Dónde | Minuto | Sirve para |
+|---|---|---|---|
+| De rodillas, manos juntas, cabeza baja | [ep. 1](https://www.dailymotion.com/video/x9g89je) | 0:08 | **pedir** algo (súplica) |
+| Pistola a dos manos, mirada fija | ep. 1 | 0:16 | **explicar** con seriedad |
+| Corre agachado entre chispas | ep. 1 | 1:12 | **presentar** acción |
+| Delantal verde, brazos cruzados | [tráiler](https://www.dailymotion.com/video/x9c6rxi) | 1:00 | **explicar** o **regañar** desde el mostrador |
+| Tumbado sobre Sakamoto, ojos cerrados | tráiler | 0:15 | **animar** (alivio cómico) |
+| Grito con cejas fruncidas | [tráiler latino](https://www.dailymotion.com/video/x9a858e?t=23) | 0:23 | **regañar** |
+| Pistola en alto, delantal volando como capa | hoja 1 nº33 | — | **presentar** con fuerza |
+| Agachado en los escalones de la tienda | hoja 1 nº15 | — | **pensar** o esperar |
+| Con la pértiga del micrófono | hoja 2 nº58 | — | **animar** a grabar (§27 B) |
+
+### Nagumo
+
+| Pose | Dónde | Sirve para |
+|---|---|---|
+| Gabardina abierta, un **dado en la palma**, arma detrás | hoja 1 nº47 | **presentar** con misterio |
+| De pie, neutra, hoja de modelo | hoja 1 nº36 | base para Blender |
+| Fan art de pose libre | [safebooru](https://safebooru.org/images/1289/701051d231b83b62155c127225119146be41c78d.jpg) | ideas, nunca copiar |
+
+### Lu Shaotang
+
+| Pose | Dónde | Sirve para |
+|---|---|---|
+| Sonrisa amplia | [tráiler latino 0:31](https://www.dailymotion.com/video/x9a858e?t=31) | **celebrar** |
+| Preocupada | [tráiler latino 0:33](https://www.dailymotion.com/video/x9a858e?t=33) | **pensar** |
+| Sentada en la moto, ropa de playa | hoja 2 nº71 | **animar** (verano, relax) |
+| En la fila de fichaje, a la derecha | hoja 2 nº81 | **presentar** en grupo |
+
+⚠️ Faltan 6-10 poses por personaje de episodios completos: sólo se
+pudieron mirar tres tráileres, una escena y el opening. Para Nagumo y Lu
+no hay clip propio.
+
+---
+
+## 16 · Vestuario, con hex medidos
+
+Medidos con `estilo.py` sobre las hojas de modelo oficiales del anime. Cada
+hex se asignó a su prenda mirando la imagen. Sombra **plana, tipo *cel***.
+✅ (medido y mirado)
+
+| Personaje | Prenda | Hex | Imagen |
+|---|---|---|---|
+| Sakamoto (1ª parte) | camiseta mostaza con parche rojo | `#E6B740` | hoja 1 nº44 |
+| Sakamoto (1ª parte) | pantalón / su sombra | `#36515F` / `#22323A` | nº44 |
+| Sakamoto | piel | `#F5D2B9` | nº44 |
+| Sakamoto («2nd Season») | **delantal de la tienda** | `#2E664B` | hoja 1 nº39 |
+| Sakamoto («2nd Season») | camiseta bajo el delantal | `#BA8D45` | nº39 |
+| Sakamoto («2nd Season») | pantalón / sombras | `#385561` / `#1D383A`, `#112A2D` | nº39 |
+| Shin (1ª parte) | **sudadera con capucha** | `#3974B0` | hoja 1 nº42 |
+| Shin (1ª parte) | pantalón ancho | `#E0D7C9` | nº42 |
+| Shin (ilustración promo) | sudadera, tono rotulador | `#1093D0` | hoja 1 nº33 |
+| Shin (ilustración promo) | delantal verde volando / su línea | `#04A15D` / `#0A5858` | nº33 |
+| Nagumo | **gabardina beige** | `#DED0B3` | hoja 1 nº36 |
+| Nagumo | camisa estampada, rojo ladrillo con rombos verde azulado | `#7B584E` | nº36 |
+| Nagumo | pantalón | `#13181B` / `#38373A` | nº36 |
+| Osaragi | vestido de encaje / detalle | `#16141E` / `#373546` | hoja 1 nº43 |
+| Osaragi | velo y medias | `#9095A2` | nº43 |
+| Lu Wutang (no es Lu Shaotang) | changshan lila / ribete y pantalón | `#C1BCD5` / `#3A354C`, `#24212B` | hoja 2 nº50 |
+
+**Dos verdes distintos para el delantal:** `#2E664B` (oscuro, *cel* del
+anime) y `#04A15D` (vivo, ilustración a rotulador). Elegir uno según el
+estilo de la lámina; no mezclarlos.
+
+**La ropa icónica** que todos reconocen:
+- **Sakamoto**: camiseta mostaza + **delantal verde** + lentes redondos.
+  En las portadas el delantal casi siempre está (hoja 3 nº111, 140; hoja 2
+  nº81). ✅ visto
+- **Shin**: **sudadera azul con capucha**, pantalón claro, zapatillas
+  rojas y blancas; delantal verde cuando trabaja. ✅
+- **Nagumo**: **gabardina beige** sobre camisa estampada, tatuajes. ✅
+- **Lu Shaotang**: pelo rosa-borgoña, ropa casual bajo el delantal. ⚠️
+  sin hex medido.
+- **Ropa de otras etapas**: el Sakamoto delgado del pasado en traje (hoja
+  1 nº35 ⚠️; fondo de
+  [Wallhaven «suit and tie»](https://w.wallhaven.cc/full/gw/wallhaven-gw7ve7.jpg));
+  ropa de gala del café *Midnight Banquet* y disfraces de Halloween (§24).
+
+---
+
+## 17 · Paisajes y fondos de pantalla
+
+**Sitios con luz y hora**: ver §5 (tienda de día, salón de día, tejados
+al amanecer, azotea al anochecer violeta, río de tarde, calle con
+farolillos de noche, armería a oscuras).
+
+**Fondos de pantalla en alta** (fan o arte oficial suelto; sólo
+referencia):
+
+| Fondo | Tamaño | Subido por / origen |
+|---|---|---|
+| [Grupo completo bajo el cielo](https://w.wallhaven.cc/full/3q/wallhaven-3qzwp3.jpg) | 5792×4925 | Omelettte (Wallhaven) |
+| [Key art Sakamoto, Shin y Nagumo](https://images5.alphacoders.com/138/1383153.jpg) | 4096×2990 | Alphacoders (el mismo archivo está en Wallhaven) |
+| [Chica de pelo azul con cigarro](https://w.wallhaven.cc/full/p9/wallhaven-p97lz3.jpg) | 4096×2990 | orsted2222 |
+| [Grupo con moto](https://w.wallhaven.cc/full/x8/wallhaven-x86vyl.jpg) | 2868×4152 | dian34323 |
+| [Página de manga](https://w.wallhaven.cc/full/3z/wallhaven-3zl5d6.png) | 2844×2752 | dian34323 |
+| [Manga, cap. 12](https://w.wallhaven.cc/full/rd/wallhaven-rdd8m1.jpg) | 2212×1960 | dian34323 |
+| [Sakamoto en un puente al atardecer, junto al mar](https://w.wallhaven.cc/full/qz/wallhaven-qzxpw5.jpg) | 2048×1125 | ugurpiskin; origen @GordoObeso15 |
+| [Grupo](https://w.wallhaven.cc/full/ml/wallhaven-mld2v1.jpg) | 2048×1152 | Wallhaven |
+| [Ilustración colorida, piernas cruzadas](https://w.wallhaven.cc/full/m3/wallhaven-m3ryk8.jpg) | 2048×1496 | orsted2222 |
+| [Sakamoto de traje con Shin y Lu](https://w.wallhaven.cc/full/gw/wallhaven-gw7ve7.jpg) | 2000×1240 | Omelettte |
+| [Manga, pelo gris](https://w.wallhaven.cc/full/qz/wallhaven-qz6zmq.png) y [otro](https://w.wallhaven.cc/full/o5/wallhaven-o5x56l.png) | 2000×1200 | PossessDrift |
+| [Osaragi](https://w.wallhaven.cc/full/2y/wallhaven-2y7556.png) | 1920×1080 | thcz777 |
+| [Heisuke y Nagumo, con números](https://w.wallhaven.cc/full/zp/wallhaven-zpmkjy.png) | 1920×1080 | Omelettte |
+
+✅ Tamaños comprobados en Wallhaven. **No se encontró** un banco oficial
+de fondos para descargar, ni del estudio ni de Shueisha (búsquedas en
+inglés). ⚠️ Ojo: la parte de imagen buscó «CloverWorks Sakamoto Days
+download», pero el estudio del anime es **TMS Entertainment** (§12). Esa
+búsqueda habría que repetirla con TMS.
+
+---
