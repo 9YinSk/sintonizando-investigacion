@@ -157,3 +157,160 @@ Es un drama musical. Casi no hay gritos. Tres cosas delatan si no se investigó:
 - **Comedia**: en los gags (Tsubaki golpeando a Kousei o a Watari) sí hay globos de grito puntiagudos, rayos y sudor de cómic. Ejemplo: ep. 01, **11:00** (F8), con fondo de rayos de colores. ✅
 - **Subtítulos vistos**: los fotogramas llevan subtítulo blanco con borde negro, itálica, abajo al centro (F6, F11, F12). Los carteles de canción del OP van en romaji arriba y traducción abajo en serif (F14). ✅ (hoja propia)
 
+## 7 · Personajes y popularidad
+
+**Kaori es la más querida**, aunque en la trama sea la coprotagonista. Confirma lo que dijo el dueño: a veces no es el protagonista.
+
+| # | Personaje | Rol | Favoritos en AniList |
+|---|---|---|---|
+| 1 | Kaori Miyazono | Coprotagonista, violinista | 9323 |
+| 2 | Kousei Arima | Protagonista, pianista | 4810 |
+| 3 | Ryōta Watari | Amigo, capitán de fútbol | 551 |
+| 4 | Emi Igawa | Rival pianista | 454 |
+| 5 | Hiroko Seto | Pianista, amiga de la madre de Kousei | 354 |
+| 6 | Tsubaki Sawabe | Amiga de la infancia, sóftbol | 284 |
+| 7 | Takeshi Aiza | Rival pianista | 262 |
+
+- Fuente: [AniList](https://anilist.co/anime/20665). El ranking votado de [Ranker](https://www.ranker.com/list/best-your-lie-in-april-characters/rowan-blake) da el mismo orden arriba: Kaori, Kousei, Tsubaki. ✅ para Kaori primera.
+- En [MyAnimeList](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso) la serie es la n.º 24 en popularidad, con 2 461 037 miembros. ✅ La API de favoritos por personaje (Jikan) dio 504 tres veces. ⚠️
+- **No hay encuesta oficial japonesa** encontrada (búsqueda «四月は君の嘘 キャラクター人気投票» y Newtype). ⚠️
+- **Con quién aparece cada uno**: Kousei con Tsubaki (vecinos) y con Kaori (dúo musical); Watari con Tsubaki y Kousei (trío de la infancia); Kaori arrastra a Kousei. Rivales: Aiza y Emi con Kousei en Towa Hall.
+
+## 8 · Doblaje latino
+
+**El doblaje latino todavía no se ha estrenado.** Aniplex lo anunció en el panel de CCXP México 2025 (mayo de 2025), junto a Gurren Lagann, Madoka Magica y Fate/Zero ([ANMTV](https://www.anmtvla.com/2025/05/ccxpmx25-aniplex-anuncia-los-doblaje-de.html), [Animetrends en X](https://x.com/AnimetrendsLA/status/1928660977383350399)) ✅. World Dubbing News dice que llega «a finales de este año» (2026) ([X](https://x.com/wdn_es/status/1972010667239755817)) ⚠️.
+
+| Personaje | Voz japonesa | Voz latina | Fuentes |
+|---|---|---|---|
+| Kousei Arima | Natsuki Hanae | **Diego Becerril** | [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Your_Lie_in_April) + [Wikipedia ES](https://es.wikipedia.org/wiki/Shigatsu_wa_Kimi_no_Uso) ✅ |
+| Kaori Miyazono | Risa Taneda | **Alessia Becerril** | las mismas dos ✅ |
+| Tsubaki Sawabe | Ayane Sakura | **Casandra Acevedo** | las mismas dos ✅ |
+| Ryōta Watari | Ryōta Ōsaka | **Eduardo Martínez** | las mismas dos ✅ |
+| Resto (Aiza, Emi, Hiroko, Saki…) | — | «Próximamente» | Doblaje Wiki |
+
+- País: México. Licencia de guiones: Aniplex of America. Estudio y director: no publicados todavía. ⚠️
+- **No hay frases textuales del doblaje latino**: no existe ningún clip oficial doblado. Buscado en YouTube, Dailymotion y TikTok; sólo salen AMV con audio japonés. Las frases de esta biblia son subtítulos del audio original.
+- La ficha de España en [eldoblaje.com](https://www.eldoblaje.com/datos/FichaPelicula.asp?id=49255) da 404.
+- Streaming donde se ve (sin doblaje latino): [Crunchyroll](http://www.crunchyroll.com/your-lie-in-april), [Netflix](https://www.netflix.com/title/80041089), [Hulu](http://www.hulu.com/your-lie-in-april), [Bilibili TV](https://www.bilibili.tv/en/media/35121). Web oficial en inglés: [yourlieinapril.com](http://www.yourlieinapril.com/). ⚠️ (enlaces de AniList, no abiertos uno a uno)
+
+## 9 · Música y sonido
+
+Temas confirmados en la [página «Music» de la wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Hikaru_Nara) y vistos en los episodios.
+
+| Tema | Artista | Episodios | Visto en |
+|---|---|---|---|
+| OP1 «Hikaru Nara» (光るなら) | Goose house | 1-11 | ep. 2, **0:32-2:05** ✅ |
+| OP2 «Nanairo Symphony» (七色シンフォニー) | Coalamode. | 12-22 | sólo wiki ✅ (no hallado en el rip) |
+| ED1 «Kirameki» (キラメキ) | wacci | 1-11 | ep. 2, **22:00** ✅ |
+| ED2 «Orange» (オレンジ) | 7!! (Seven Oops) | 12-21 | ep. 12, **22:00** ✅ (es ending, no opening) |
+| ED3 «Orange (Acoustic Ver.)» | 7!! | 22 | ep. 22, **22:00** ✅ |
+
+- **Por qué esas bandas**: el director quería atraer a gente que no suele ver anime; por eso Goose house y wacci. A Coalamode. la eligió por una «melodía colorida» ([Wikipedia](https://en.wikipedia.org/wiki/Your_Lie_in_April), que cita a [Anime News Network](https://www.animenewsnetwork.com/news/2014-08-15/goose-house-to-perform-opening-cover-songs-for-shigatsu-wa-kimi-no-uso-anime/.77630)). ✅
+- **Banda sonora**: Masaru Yokoyama (横山克), créditos del ep. 2 (**1:36**) y [MusicBrainz](https://musicbrainz.org/release-group/5b3f29f0-646c-4276-9e65-86e8c5dcb8c6). Álbum «僕と君との音楽帳» (oct-2014, [MusicBrainz](https://musicbrainz.org/release-group/bcba1230-00c7-449d-82ee-d0ff3d85c8ef)). ✅
+- **Escena final** (ep. 22): Balada n.º 1 en sol menor, Op. 23, de Chopin (violín Sayaka Sezaki, piano Tomoki Sakata) y «Kirameki» cantada en versión de Kousei y Kaori. Según [AniPlaylist](https://aniplaylist.com/Your-Lie-in-April-IN-ep-22): «Kouiu Kimochi wo Nante Itta kana» de **15:34** a **17:46**, luego «Kirameki (Kousei & Kaori Performance Ver.)» de 17:46 a **21:20**. ⚠️ (una fuente para los nombres)
+- **Escena del tejado** (ep. 3, 17:00-21:00): Variaciones K.265 de Mozart («Twinkle Twinkle»), 3.er movimiento del Claro de Luna de Beethoven, Rondó Caprichoso de Saint-Saëns ([ficha del episodio](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Episode_03:_Inside_Spring)). ⚠️
+- **Piezas que un fan reconoce**: Estudio Op. 25 n.º 5 de Chopin (ficha propia en la [wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Chopin%27s_Etude_Opus_25_No._5)); la sonata «Kreutzer» de Beethoven (ep. 2, **10:00**, F12: «It's the set piece, the Kreutzer»).
+- **Ambiente**: piano y violín reales casi todo el tiempo, sin música electrónica. Cuando Kousei «no oye» su piano, el piano desaparece de la mezcla aunque siga tocando en pantalla (ep. 3, 18:00). ⚠️ (observación propia)
+- **Sonido reconocible**: el tictac de metrónomo o latido cuando Kousei entra en pánico. ⚠️
+- En el ep. 1 Kaori toca con la melódica «A Morning of the Slag Ravine», de *El castillo en el cielo* (Ghibli) ✅ (TV Tropes; ella dice «a Pazu sí le funcionó»).
+
+## 10 · Vídeos y tendencias
+
+- **Tráiler PV2**: ver punto 2.
+- **Reacciones al final** (ep. 21-22): «Kaori's Letter Reaction Mashup» ([YouTube](https://www.youtube.com/watch?v=jy4dsCBFe4g)), «Painfully Beautiful… Episodes 21-22 REACTION» ([YouTube](https://www.youtube.com/watch?v=gzckEJAN7m0)). Varios canales hacen vídeo sólo de la carta: es el momento más reaccionado. ✅ (varios vídeos) · Sin minuto: YouTube dio 429 desde el servidor. ⚠️
+- **TikTok**: la [etiqueta #yourlieinapril](https://www.tiktok.com/tag/yourlieinapril) se abrió de verdad. Vídeos reales: «Your Lie In April | EP 22 Full 1080 Quality» (Frigid Exe), «POV: You just finished Your Lie in April…» (HQYUE), un edit con «What if I miss you for the rest of my life?» de Janine Berdin (floraxox). ✅ Sin minutos ni vistas (el listado no los da).
+- **Tendencia «POV»**: «Your lie in April 😭🥀», texto «POV: April returned, but she didn't» sobre planos de Kousei y Kaori, vertical 9:16, **0:05-0:35** ([Dailymotion](https://www.dailymotion.com/video/xa3w48g?start=5)). ✅
+- **Edits «Twixtor»** (cámara lenta suave) del ep. 1 ([Dailymotion](https://www.dailymotion.com/video/x9hz552)). ⚠️
+- Canciones ajenas más usadas en edits: Sade «Like a Tattoo», Billie Eilish «Birds of a Feather», Laufey. ⚠️ (sólo buscador)
+- **Tono de las tendencias**: siempre triste y nostálgico, nunca cómico.
+- **Ojo, no confundir**: hay una película de imagen real (2016, Kento Yamazaki y Suzu Hirose), con [teaser](https://www.dailymotion.com/video/x9iiyhw) y [tráiler](https://www.dailymotion.com/video/x9iixgg) propios. ✅
+
+## 11 · Videojuegos
+
+- **No existe videojuego oficial**: ni en Steam (sólo un grupo y guías de fans; [Steam](https://store.steampowered.com/search/?term=your+lie+in+april)), ni en móvil (sólo apps de lectura: Palcy, Magapoke, Piccoma, y de fondos), ni en consola. Búsquedas en inglés y japonés («四月は君の嘘 ゲーム アプリ»). ⚠️ comprobado, no aplica.
+- [The Cutting Room Floor](https://tcrf.net/) no tiene página de la obra. Coherente con que no hay juego.
+- Consecuencia: no hay caja de diálogo de videojuego. El cuadro de la serie sale de la carta, la partitura y el programa de concurso (punto 6).
+
+## 12 · Lo que el fandom ama y qué NO hacer
+
+**Lo que todos reconocen:**
+- La **carta de Kaori** del ep. 22 (ver 21).
+- El gag de **violencia cómica** contra Kousei (Tsubaki y Kaori le pegan «en broma», estilo chibi con rayos y sudor), en contraste con los golpes reales de su madre ([allanimemags](https://allanimemags.com/your-lie-in-april-violence/)) ⚠️. Ejemplo: ep. 1, 11:00-11:20, la pelota de Tsubaki (F8). ✅
+- El título del ep. 1, **«Monotone/Colorful»**: el mundo gris de Kousei que Kaori llena de color. Cartela del título en el ep. 1, **21:20** ([BDRip del ep. 1](https://archive.org/details/lns-tsundere-shigatsu-wa-kimi-no-uso-01-bdrip-h-264-1920x-1080-10bit-flac-5506-b-58-e.-360)). ✅
+- La **maletita rosa del violín** de Kaori ⚠️ (wiki).
+- **Piano-senpai**, el apodo del fandom para el piano de Kousei ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Piano-senpai)). ✅
+- La **manzana acaramelada** (ep. 12) ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Candy_Apple)). ✅
+- Citas de **Snoopy/Peanuts** en boca de Kaori (ep. 6, 7, 11 y 21). ✅ (TV Tropes)
+
+**Qué NO hacer** (un fan lo notaría):
+- Kousei **sin sus gafas** de pasta gruesa. ✅
+- El violín de Kaori sin su **maletita rosa**, o de otro color. ✅
+- Una lámina 100% solemne o 100% cómica: la serie mezcla las dos. ⚠️
+- **Otra estación** que no sea primavera con cerezos. ✅
+- Kousei **sonriente y suelto** si la lámina es del inicio: al principio su cara es apagada. ✅
+- Una **burbuja de pensamiento en nube** (la serie no la usa, punto 6).
+- Escribir el nombre de Kaori como かおり: es **かをり**.
+- Poner **frases «del doblaje latino»**: aún no existe.
+- No se pudo leer la página de TV Tropes de humor (*Funny*); la de *Manga* sí. ⚠️
+
+## 13 · Descripción profunda de cada personaje
+
+Frases del ep. 1 (BDRip de Internet Archive, subtítulo de fans en inglés del audio japonés), vistas y oídas. ✅
+
+### Kousei Arima
+- **Quién es**: ex niño prodigio del piano, «el metrónomo humano». Calmado, introspectivo, algo ausente. Tras morir su madre (que lo entrenaba con dureza y a veces le pegaba) **no oye su propio piano** al tocar. ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kousei_Arima), [AniList](https://anilist.co/character/69407)) ✅
+- **Miedo**: repetir el trauma, no ser suficiente. **Le importa**: la música y sus tres amigos.
+- **Qué transmite**: una tristeza contenida que se va abriendo. Verlo deja un nudo y luego alivio.
+- **Arco**: de un mundo monocromo a recuperar color y sonido gracias a Kaori; aceptar que puede amar y ser amado.
+- **Cómo habla**: frases cortas, autocríticas, muchas en voz en off.
+  - «No one's gonna bother falling in love with me» (ep. 1, **7:40**), de perfil, mirando al suelo, resignado.
+  - «If it'll make you better…» (ep. 1, **13:40**, flashback de niño), voz temblorosa, sonrisa forzada de miedo.
+- **Cuerpo**: hombros caídos y mirada baja cuando está triste. De niño, postura rígida y perfecta al piano; tras Kaori, más suelta.
+
+### Kaori Miyazono
+- **Quién es**: violinista libre, impredecible, de carácter fuerte (agresiva si la ofenden) y generosa. Toca «mal» según la partitura pero conmueve. Sabe en secreto que está enferma. ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kaori_Miyazono)) ✅
+- **Qué transmite**: energía contagiosa y, al final, una tristeza honda.
+- **Arco**: entra en la vida apagada de Kousei, lo devuelve a la música, se opera para tocar con él otra vez y muere. Su carta revela que siempre lo amó a él, no a Watari.
+- **Cómo habla**:
+  - Rabia: «Dirty little camera creep! You won't get away with this, you perv!» (ep. 1, **18:20**), ojos afilados rojos de cómic, un megáfono como arma.
+  - Alegría: «Nice to meet you!» (ep. 1, 19:00), ojos cerrados, fondo de rosas.
+- Se ríe fuerte y abierta. Enfadada es explosiva y física (grita, persigue). Cuando habla de música se pone seria, casi como un reto.
+
+### Tsubaki Sawabe
+- **Quién es**: vecina y amiga de la infancia de Kousei; lo trata «como a un hermano menor» pero está enamorada de él. Jugadora de sóftbol, poco «femenina» por elección, protectora. ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Tsubaki_Sawabe)) ✅
+- **Qué transmite**: calidez; ternura y vergüenza al verla negar lo que siente.
+- **Arco**: descubre que ama a Kousei justo cuando él se aleja hacia Kaori. Se confiesa en el ep. 20. ⚠️ (minuto no verificado)
+- «If there's a lull in conversation, you could talk about instruments and stuff» (ep. 1, **12:55**), algo sonrojada, dando consejos de cita sin ver sus celos.
+- Directa y campechana con los chicos; torpe cuando el tema roza sus sentimientos. Se enfada rápido y se le pasa rápido.
+
+### Ryōta Watari
+- **Quién es**: amigo de la infancia, capitán de fútbol, ligón por fuera y frágil por dentro. Apoya a Kousei sin juzgarlo. ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Ryota_Watari)) ✅
+- **Qué transmite**: ligereza y humor; alivia las escenas pesadas.
+- «Oh, stop! You flatter me!» (ep. 1, **19:40**), con fondo de corazones, coqueto.
+- «Sweet! I got a text from Keiko!» (ep. 1, 7:00, F13), teléfono pegado a la cara.
+- **Cuerpo**: relajado, corbata floja, camisa fuera; choca la mano, palmea el hombro.
+
+### Dinámicas (para láminas de grupo)
+- Watari hace reír a Kousei y rompe la tensión.
+- Tsubaki riñe a Watari cuando «usa» a las chicas, y a Kousei cuando se encierra (F8).
+- Kaori arrastra a Kousei fuera de su zona de confort.
+- Tsubaki y Kousei: complicidad silenciosa de vecinos de toda la vida.
+([Relaciones en la wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kousei_Arima#Relationships)) ✅
+
+### Cara en cada emoción
+
+| Personaje | Emoción | Ep. | Minuto | Enlace |
+|---|---|---|---|---|
+| Kaori | Alegría | 1 | 19:00 | [IA ?t=1140](https://archive.org/details/lns-tsundere-shigatsu-wa-kimi-no-uso-01-bdrip-h-264-1920x-1080-10bit-flac-5506-b-58-e.-360?t=1140) |
+| Kaori | Rabia | 1 | 18:20 | [IA ?t=1100](https://archive.org/details/lns-tsundere-shigatsu-wa-kimi-no-uso-01-bdrip-h-264-1920x-1080-10bit-flac-5506-b-58-e.-360?t=1100) |
+| Kaori | Tristeza | 3 | 20:00 | F6 |
+| Kousei | Tristeza | 1 | 7:40 | [IA ?t=460](https://archive.org/details/lns-tsundere-shigatsu-wa-kimi-no-uso-01-bdrip-h-264-1920x-1080-10bit-flac-5506-b-58-e.-360?t=460) |
+| Kousei (niño) | Miedo | 1 | 13:40 | [IA ?t=820](https://archive.org/details/lns-tsundere-shigatsu-wa-kimi-no-uso-01-bdrip-h-264-1920x-1080-10bit-flac-5506-b-58-e.-360?t=820) |
+| Kousei | Susto cómico | 1 | 11:00 | F8 |
+| Tsubaki | Vergüenza | 1 | 12:55 | [IA ?t=775](https://archive.org/details/lns-tsundere-shigatsu-wa-kimi-no-uso-01-bdrip-h-264-1920x-1080-10bit-flac-5506-b-58-e.-360?t=775) |
+| Tsubaki | Rabia | 1 | 11:00 | F8 |
+| Tsubaki | Alegría | 6 | 4:00 | F18 |
+| Watari | Alegría | 1 | 7:00 | F13 |
+
+- Falta una cara de miedo adulto y más emociones de Watari. ⚠️
+

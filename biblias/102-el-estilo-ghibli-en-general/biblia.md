@@ -315,3 +315,86 @@ Todo sale de Doblaje Wiki por su API ([ejemplo](https://doblaje.fandom.com/es/ap
 - **Efectos de caricatura** sólo en *Laputa*, *Totoro* y *Kiki*: el estornudo de Totoro es «POOF, CARTOON - FOOF» de Sound Ideas; al tocarle la cola, «Anime Squeak Sound 20». ⚠️ ([Sound Effects Wiki](https://soundeffects.fandom.com/wiki/My_Neighbor_Totoro_(1988)))
 - El gruñido-ronroneo del Gatobús: efecto propio, muy imitado. ⚠️
 - **Onomatopeya en un título:** *Pom Poko* imita el tambor de la panza de los tanuki. ⚠️ ([Anime News Network](https://www.animenewsnetwork.com/feature/2018-08-08/isao-takahata-endless-memories/part-v-pom-poko/.135240))
+
+## 10. Vídeos
+
+YouTube pidió iniciar sesión en el contenedor. Los tráileres se vieron en Dailymotion plano a plano (`fotogramas.py --cortes`) y se oyeron con `voz.py`.
+
+| Tráiler | Idioma | Duración | Lo que sirve, con minuto |
+|---|---|---|---|
+| [*Mi vecino Totoro*](https://www.dailymotion.com/video/x9csuhi) | latino | 70 s | la espera en la parada [0:32](https://www.dailymotion.com/video/x9csuhi?t=32) |
+| [*Mi vecino Totoro*](https://www.dailymotion.com/video/x4mls0h) | latino | — | casa nueva [0:12](https://www.dailymotion.com/video/x4mls0h?t=12), sobre Totoro [0:51](https://www.dailymotion.com/video/x4mls0h?t=51), Satsuki llora [1:09](https://www.dailymotion.com/video/x4mls0h?t=69), dentro del Gatobús [1:15](https://www.dailymotion.com/video/x4mls0h?t=75) |
+| [*Kiki*](https://www.dailymotion.com/video/x88a5in) | japonés, subt. inglés | 118 s | vuelo sobre el mar [0:34](https://www.dailymotion.com/video/x88a5in?t=34), panadería [1:31](https://www.dailymotion.com/video/x88a5in?t=91), créditos 1:20-1:23 |
+| [*La princesa Mononoke*](https://www.dailymotion.com/video/x971hck) | inglés (Miramax) | 102 s | San sobre la aldea [0:33](https://www.dailymotion.com/video/x971hck?t=33), Caminante Nocturno 0:48, San con el arco [0:57](https://www.dailymotion.com/video/x971hck?t=57), maldición de Ashitaka [1:27](https://www.dailymotion.com/video/x971hck?t=87), abrazo [1:30](https://www.dailymotion.com/video/x971hck?t=90) |
+| [*El castillo ambulante*](https://www.dailymotion.com/video/x8x2lpe) | inglés (Disney) | 96 s | el castillo vuela 1:04 |
+| [*El castillo ambulante*](https://www.dailymotion.com/video/x889i5w) | latino (Zima, en pantalla a 0:03) | — | Sophie en la sombrerería [0:21](https://www.dailymotion.com/video/x889i5w?t=21), anciana [0:36](https://www.dailymotion.com/video/x889i5w?t=36), frente a la Bruja [0:57](https://www.dailymotion.com/video/x889i5w?t=57), estrellas fugaces [1:18](https://www.dailymotion.com/video/x889i5w?t=78) |
+| [*Ponyo*](https://www.dailymotion.com/video/x9mj300) | latino | 107 s | la tormenta entera 0:53-1:25 |
+
+✅ todos vistos.
+
+**La tendencia más grande: «estilo Ghibli» con IA, marzo de 2025.**
+- OpenAI sacó la generación de imágenes de GPT-4o y todo el mundo «ghiblificó» sus fotos. Se saturaron los servidores. ✅ ([CNN, 27-mar-2025](https://www.cnn.com/2025/03/27/style/chatgpt-studio-ghibli-ai-images-intl-hnk))
+- #GhibliAI en Instagram, TikTok y Pinterest. ✅ ([The Bridge Chronicle](https://www.thebridgechronicle.com/tech/top-ai-photo-trends-2025-ghibli-retro-saree-hug-younger-self-mp99))
+- Miyazaki: la IA es **«un insulto a la vida misma»**. ✅ ([Jerusalem Post](https://www.jpost.com/science/ai-news/article-848538))
+- ⚠️ Tendencias de TikTok de «comida Ghibli» (cocinar el desayuno de Howl o el ramen de Ponyo) salen citadas en artículos, pero TikTok no abrió: sin vídeo concreto ni vistas.
+
+## 11. Videojuegos
+
+- **Ghibli no hace videojuegos.** No hay franquicia propia ni caja de diálogo «de la casa». ✅ comprobado.
+- **La excepción: *Ni no Kuni*** (Level-5 + Ghibli + Joe Hisaishi). DS (2010), PS3 *La ira de la Bruja Blanca* (2011) con cinemáticas animadas por Ghibli, y hoy ***Ni no Kuni: Cross Worlds*** (2022), un **gacha para móvil**. Ghibli hizo diseño y storyboards (Yoshiyuki Momose). ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Ni_no_Kuni), [IGN, 2008](https://www.ign.com/articles/2008/09/24/level-5-teams-up-with-studio-ghibli), [Game Developer](https://www.gamedeveloper.com/game-platforms/-i-ni-no-kuni-i-level-5-s-collaboration-with-studio-ghibli-secures-600k-initial-shipment))
+- En Occidente, la reverencia de Oliver se cambió por un saludo occidental. ⚠️
+- ⚠️ **No se encontraron capturas fiables de los menús o de la caja de diálogo** de *Ni no Kuni*: Openverse sólo dio fotos de merchandising. Queda pendiente mirarlo en un vídeo de juego.
+- Las atracciones del Museo y de Ghibli Park son físicas, no juegos.
+
+## 12. Lo que ama el fandom y qué no hacer
+
+**Lo que ama:**
+- **La comida.** Tanto que el museo le dedicó una exposición (§ «El foco»).
+- **Totoro en la parada bajo la lluvia**: la pose más reconocible del estudio.
+- **Los compañeros mudos**: Jiji, Calcifer, el Gatobús, Sin Cara.
+- **El momento en que se enamoraron** ([r/ghibli, 324 puntos](https://www.reddit.com/r/ghibli/comments/1wh7x2y/what_was_the_moment_you_started_to_love_ghibli/), vía Arctic Shift): la música de *Totoro*, la decapitación de *Mononoke*, «*La tumba de las luciérnagas* me atrapó». ⚠️ comentarios.
+- **La cláusula «sin cortes» y la katana**: la anécdota favorita sobre el estudio (punto 8).
+- **Haku** como el más querido y **Kiki** como la más dibujada (punto 7).
+
+**Qué NO hacer:**
+- 🔴 **Nada con IA de imagen.** Tras la moda de 2025 y la frase de Miyazaki, una lámina «Ghibli» que parezca de IA es lo que más ofende a un fan.
+- **Fondo simple o plano.** El fan art lo hace así (punto 3); el estudio no. El fondo pintado es el estilo.
+- **Globos blancos, interfaces, letras de cómic.** Ghibli no tiene (punto 6).
+- **Pelos o colores imposibles, brillos de anime de TV, piel satinada.** Todo es natural y mate.
+- **Mezclar películas sin motivo** (Totoro en la casa de baños). Cada una tiene su paleta (punto 4).
+- **Recortar o «adaptar»** una escena o una frase: el estudio lo prohíbe por contrato (punto 8).
+- **Usar las voces de otra versión** sin decir de cuál: hay 2 o 3 doblajes por película.
+- **Villanizar a las ancianas** o convertir a una heroína en princesa Disney (punto 7).
+
+## 13. Los personajes a fondo (lo transversal)
+
+Los retratos completos están en su biblia: Chihiro, Haku, Sin Cara, Yubaba, Lin, Kamaji en la **98**; Howl, Sophie, Calcifer en la **99**; San, Ashitaka en la **100**. Aquí va **cómo se expresa un personaje Ghibli** y la cara de cada emoción con minuto.
+
+**Cómo actúa un personaje Ghibli:**
+- **Voz natural, de cine**: actores, no seiyū. Poca exageración (punto 8).
+- **Se detiene y respira** («ma»): los gestos pequeños importan tanto como la acción.
+- **Trabaja**: Kiki friega el suelo, Sophie limpia el castillo, Chihiro friega tinas. El trabajo diario es un rasgo de carácter.
+- **Come con ganas**: Ponyo con la cara metida en el tazón, mejillas infladas.
+- **Llora de verdad**: Satsuki con las manos en la cara.
+
+**La cara en cada emoción** (tráileres latinos, minuto de `fotogramas.py`):
+
+| Personaje | Emoción | Minuto |
+|---|---|---|
+| Satsuki (*Totoro*) | curiosidad, casa nueva | [0:12](https://www.dailymotion.com/video/x4mls0h?t=12) |
+| Satsuki | miedo, manos alzadas ante el Gatobús | [0:39](https://www.dailymotion.com/video/x4mls0h?t=39) |
+| Satsuki y Mei | alegría, trepando sobre Totoro | [0:51](https://www.dailymotion.com/video/x4mls0h?t=51) |
+| Satsuki | tristeza, llanto | [1:09](https://www.dailymotion.com/video/x4mls0h?t=69) |
+| Mei y Satsuki | emoción, riendo en el Gatobús | [1:15](https://www.dailymotion.com/video/x4mls0h?t=75) |
+| Sophie joven | timidez y sorpresa | [0:21](https://www.dailymotion.com/video/x889i5w?t=21) |
+| Sophie | miedo, se ve anciana | [0:36](https://www.dailymotion.com/video/x889i5w?t=36) |
+| Sophie anciana | desafío, cara a cara con la Bruja | [0:57](https://www.dailymotion.com/video/x889i5w?t=57) |
+| Sophie y Howl | ternura, estrellas fugaces | [1:18](https://www.dailymotion.com/video/x889i5w?t=78) |
+| San | rabia, arco tensado | [0:57](https://www.dailymotion.com/video/x971hck?t=57) |
+| San | determinación serena | [0:33](https://www.dailymotion.com/video/x971hck?t=33) |
+| Ashitaka | dolor contenido | [1:27](https://www.dailymotion.com/video/x971hck?t=87) |
+| Ashitaka y San | consuelo, abrazo | [1:30](https://www.dailymotion.com/video/x971hck?t=90) |
+
+✅ mirado en las hojas de contacto. ⚠️ **Vergüenza** no sale en ningún tráiler.
+
+**Dinámicas que sirven en grupo:** Kiki y Jiji (ella habla, él opina); Sophie y Calcifer (discuten y se ayudan); Satsuki y Mei (hermanas, una cuida de la otra); Totoro y los totoros pequeños. ⚠️ lectura de las escenas, sin segunda fuente.
