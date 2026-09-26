@@ -106,8 +106,8 @@ fecha: 2026-09-24
 - La tabla **«Cumplimiento del encargo»** y la bitácora de la segunda
   pasada.
 
-**Los ⚠️: 84 antes → 119 ahora.** Suben porque esta pasada **añadió unas
-1300 líneas** (8 secciones nuevas, el reparto completo, poses, paletas) y
+**Los ⚠️: 84 antes → 127 ahora.** Suben porque esta pasada **añadió unas
+1600 líneas** (8 secciones nuevas, el reparto completo, poses, paletas) y
 cada dato de una sola fuente lleva su marca. De los 84 viejos se
 resolvieron **unos 30** (lista en §20, «Resuelto»). Los que quedan se
 explican en §20 y en la tabla de cumplimiento: sobre todo minutos de
@@ -115,6 +115,19 @@ escenas sin clip (Anfiteatro Fantasma, «Henchman», «Marceline's Closet»),
 vistas de fan dubs (YouTube cerrado), cantantes latinas de Marceline,
 papeles secundarios del doblaje con una sola fuente, y BMO y la corona de
 la Dulce Princesa sin medir.
+
+---
+
+## Índice
+
+§0 El canal · §1 Resumen · §2 Escenas · §3 Arte oficial (3.7 model sheets,
+3.8 hojas) · §4 Fan art y 3D · §5 Sitios, luz y paleta · §6 Tipografía ·
+§7 Cuadro de diálogo · §8 Personajes · §9 El más querido · §10 Doblaje ·
+§11 Música · §12 Vídeos · §13 Videojuegos · §14 Fandom y qué no hacer ·
+§15 Poses · §16 Vestuario · §17 Fondos · §18 Guía para IA · Puntos 18 a 25
+del encargo (técnica, texturas 2D, gustos, por qué la aman, fan dubs,
+colaboraciones, obras parecidas, el mundo) · §19 **Tres conceptos** · §20
+Lo que no pude verificar · Cumplimiento del encargo · §21 Bitácora.
 
 ---
 
@@ -293,7 +306,7 @@ coincide con los colores de su casa por dentro (§5).
   Señor de las Puertas, y toca sobre ella.
 - **0:24-1:00**: lleva **un sombrero de ala ancha color mostaza con cinta
   azul**; primeros planos cantando, ceño fruncido y colmillos a la vista
-  ([0:52](https://www.dailymotion.com/video/x537pqr?t=52)).
+  ([0:52](https://www.dailymotion.com/video/x537pqr?start=52)).
 - **1:12-1:24**: Finn y Jake llegan corriendo junto a la Princesa.
 - **1:32**: Marceline, con el sombrero, **toca apoyada en la puerta**
   mientras cae la tarde.
@@ -331,7 +344,7 @@ Cartoon Network HD, con audio francés, 1:58
 - **0:42-1:06**: el Rey Helado toca **una batería verde con «#1» en el
   bombo**; Marceline, sentada, **toca el bajo con cara seria**.
 - **1:18**: primerísimo primer plano: **cabeza hacia atrás, dientes
-  apretados, una sola lágrima** ([1:18](https://www.dailymotion.com/video/xzt1l7?t=78)).
+  apretados, una sola lágrima** ([1:18](https://www.dailymotion.com/video/xzt1l7?start=78)).
 - **1:36**: **una Polaroid de Marceline niña**, sonriendo. Corrige la
   primera pasada: no sólo hay notas escritas.
 - **1:42-1:54**: flashback: **Marceline pequeña con un osito rojo**
@@ -388,7 +401,7 @@ Cartoon Network HD, con audio francés, 1:58
   la Princesa cocina detrás.
 - **0:36**: **flota tocando el bajo sobre un camino de piedra** hacia el
   Reino de Cristal, con picos morados y una torre al fondo
-  ([0:36](https://www.dailymotion.com/video/x7xejon?t=36)).
+  ([0:36](https://www.dailymotion.com/video/x7xejon?start=36)).
 - **0:44-1:00**: se vuelve **monstruo alado gigante de ojos rojos** y
   pelea; luego vuelve a flotar tocando entre cristales morados y turquesa.
 - **1:08**: **bajo al hombro**, de pie junto a la Princesa y dos figuras
@@ -980,7 +993,7 @@ Cuando **aparece texto**, sale en **objetos**:
    BMO», que usa su cara como menú,
    [resumen en Medium](https://medium.com/active-theory/adventure-time-distant-lands-bmo-5997687372b7)).
    Su cara en calma: **dos curvas de ojos cerrados y una boca curva**
-   (clip de «The More You Moe», [2:36](https://www.dailymotion.com/video/x3q931u?t=156)).
+   (clip de «The More You Moe», [2:36](https://www.dailymotion.com/video/x3q931u?start=156)).
    ⚠️ Sigue sin fotograma de **texto escrito** en su pantalla.
 5. **Los discos** ✅: la **letra de «Monster» va grabada en el vinilo**
    de «Obsidian» (§3.4). Un disco oficial usa el propio objeto para
@@ -1112,15 +1125,15 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
   - **Tristeza**: primerísimo primer plano, **cabeza echada atrás, dientes
     apretados en triángulo, una sola lágrima** de un ojo cerrado, cantando
     con Simon a la batería («I Remember You», clip oficial,
-    [1:18](https://www.dailymotion.com/video/xzt1l7?t=78)).
+    [1:18](https://www.dailymotion.com/video/xzt1l7?start=78)).
   - **Dolor o pensar**: de pie, **mano en la cabeza**, cara de angustia
-    (mismo clip, [0:24](https://www.dailymotion.com/video/xzt1l7?t=24)).
+    (mismo clip, [0:24](https://www.dailymotion.com/video/xzt1l7?start=24)).
   - **Rabia al cantar**: **ceño fruncido, colmillos a la vista**, canta con
-    fuerza («I'm Just Your Problem», [0:52](https://www.dailymotion.com/video/x537pqr?t=52)).
+    fuerza («I'm Just Your Problem», [0:52](https://www.dailymotion.com/video/x537pqr?start=52)).
   - **Susto**: ojos muy abiertos, fondo oscuro estrellado (tráiler de
-    «Obsidian», [1:24](https://www.dailymotion.com/video/x7xejon?t=84)).
+    «Obsidian», [1:24](https://www.dailymotion.com/video/x7xejon?start=84)).
   - **Cantar algo íntimo**: ojos entornados, boca abierta («Fry Song»,
-    [0:32](https://www.dailymotion.com/video/x51arca?t=32)).
+    [0:32](https://www.dailymotion.com/video/x51arca?start=32)).
   - ⚠️ Alegría y vergüenza: sin fotograma propio todavía.
 
 ### Finn el humano
@@ -1151,7 +1164,7 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
 - **Su cara, vista en vídeo** ✅: **vergüenza**, óvalo rosa claro en las
   mejillas, **boca en rayita recta**, ojos redondos con la pupila de punto
   descentrada (piloto subtitulado,
-  [6:00](https://www.dailymotion.com/video/x84oaz2?t=360)).
+  [6:00](https://www.dailymotion.com/video/x84oaz2?start=360)).
 
 ### Jake el perro
 
@@ -1175,7 +1188,7 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
 - **Su cara, vista en vídeo** ✅: **alegría y orgullo**, ojos enormes casi
   todo blancos con una franja negra abajo y **sonrisa ancha de dientes
   cuadrados**, al ver el «Jakeseum» («Jake the Starchild», clip oficial,
-  [1:39](https://www.dailymotion.com/video/x6gkz32?t=99)). Ojo: ahí se ve
+  [1:39](https://www.dailymotion.com/video/x6gkz32?start=99)). Ojo: ahí se ve
   **azulado** por la luz de noche, no amarillo.
 
 ### Dulce Princesa (Princess Bubblegum, Bonnibel)
@@ -1203,7 +1216,7 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
   brillo blanco, boquita entreabierta y **manos juntas contra el pecho**,
   cuando su experimento de revivir un ratón se le va de las manos
   («Slumber Party Panic», 1×01, clip de CN,
-  [2:12](https://www.dailymotion.com/video/x8ghhnc?t=132)).
+  [2:12](https://www.dailymotion.com/video/x8ghhnc?start=132)).
 
 ### BMO
 
@@ -1223,7 +1236,7 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
 - **Su cara, vista en vídeo** ✅: **calma**, ojos cerrados en dos curvas y
   boca curva hacia arriba, en brazos de su creador («The More You Moe, The
   Moe You Know», 3.ª temporada,
-  [2:36](https://www.dailymotion.com/video/x3q931u?t=156)).
+  [2:36](https://www.dailymotion.com/video/x3q931u?start=156)).
 
 ### Los secundarios musicales
 
@@ -1255,7 +1268,7 @@ una emoción, vista en vídeo con minuto**. Los gustos van en el punto 20.
 - **Su cara, vista en vídeo** ✅: **molesto y cómico**, en el piloto, con
   Finn haciéndole una llave por detrás; dice «**Eso... es estúpido**»
   (subtítulo del clip): cejas caídas, ojos entrecerrados, **boca en
-  zigzag** ([4:05](https://www.dailymotion.com/video/x84oaz2?t=245)).
+  zigzag** ([4:05](https://www.dailymotion.com/video/x84oaz2?start=245)).
 - **Voz latina**: **Óscar Flores** en toda la serie ✅ (§10).
 
 ### Dinámicas (para láminas en grupo) ✅
@@ -1449,7 +1462,7 @@ palabra suelta (marcada ⚠️).
 | «**Ash no quiere que salga con mortales**» | Marceline, audio oficial de Doblaje Wiki | ✅ (audio) |
 | «**¡Los veo en el dulce reino! ¡Esta noche!**» | Dulce Princesa, audio oficial | ✅ (audio) |
 | «**¡La hora es suya, pero el día será mío!**» | Rey Helado, audio oficial | ✅ (audio) |
-| «**Eso... es estúpido**» | Rey Helado, piloto subtitulado en español, [4:05](https://www.dailymotion.com/video/x84oaz2?t=245) | ⚠️ (subtítulo, no doblaje) |
+| «**Eso... es estúpido**» | Rey Helado, piloto subtitulado en español, [4:05](https://www.dailymotion.com/video/x84oaz2?start=245) | ⚠️ (subtítulo, no doblaje) |
 | «**Soy tu problema**», «**Canción de las papas**», «**Todo se queda**», «**¡Oh, Dulce Princesa!**» | títulos latinos de canciones | ✅ |
 | «**Marceline la Reina Vampiro**» | título latino oficial de 7×06 («Estacas», parte 1) | ✅ ([HBO Max](https://www.hbomax.com/bo/es/shows/hora-de-aventura/s7/fff09eaf-17c3-446b-be32-8a0d47e4ccf1/e6-marceline-la-reina-vampiro/73c26176-7919-4bfe-8b77-db471f43719d), [Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Marceline_la_Reina_Vampiro)) |
 
@@ -1571,17 +1584,17 @@ de aventura!»
 | Clip | Duración | Canal | Qué sirve, y en qué minuto |
 |---|---|---|---|
 | [Opening doblado al latino](https://www.dailymotion.com/video/x8p2dsj) | 0:29 | Espinof | la intro entera en latino, 1080p (§2.9) |
-| [«I'm Just Your Problem»](https://www.dailymotion.com/video/x537pqr) | 2:07 | **Cartoon Network** | vuelo con el bajo [0:16](https://www.dailymotion.com/video/x537pqr?t=16); cantando con rabia [0:52](https://www.dailymotion.com/video/x537pqr?t=52); tocando apoyada [1:32](https://www.dailymotion.com/video/x537pqr?t=92) |
-| [«Fry Song» Sing-a-Long](https://www.dailymotion.com/video/x51arca) | 0:52 | Toon Tunes de CN | flota bocabajo tocando 0:00; grabadora amarilla [0:12](https://www.dailymotion.com/video/x51arca?t=12); Finn con audífonos [0:40](https://www.dailymotion.com/video/x51arca?t=40) |
+| [«I'm Just Your Problem»](https://www.dailymotion.com/video/x537pqr) | 2:07 | **Cartoon Network** | vuelo con el bajo [0:16](https://www.dailymotion.com/video/x537pqr?start=16); cantando con rabia [0:52](https://www.dailymotion.com/video/x537pqr?start=52); tocando apoyada [1:32](https://www.dailymotion.com/video/x537pqr?start=92) |
+| [«Fry Song» Sing-a-Long](https://www.dailymotion.com/video/x51arca) | 0:52 | Toon Tunes de CN | flota bocabajo tocando 0:00; grabadora amarilla [0:12](https://www.dailymotion.com/video/x51arca?start=12); Finn con audífonos [0:40](https://www.dailymotion.com/video/x51arca?start=40) |
 | [Créditos finales](https://www.dailymotion.com/video/x4fakxm) | 0:33 | reload con logos reales | staff real sobre verde lima |
-| [Tráiler «Obsidian»](https://www.dailymotion.com/video/x7xejon) | 1:30 | reload, logo HBO Max | tazas en la cocina [0:16](https://www.dailymotion.com/video/x7xejon?t=16); flota tocando hacia el Reino de Cristal [0:36](https://www.dailymotion.com/video/x7xejon?t=36); bajo al hombro [1:08](https://www.dailymotion.com/video/x7xejon?t=68) |
+| [Tráiler «Obsidian»](https://www.dailymotion.com/video/x7xejon) | 1:30 | reload, logo HBO Max | tazas en la cocina [0:16](https://www.dailymotion.com/video/x7xejon?start=16); flota tocando hacia el Reino de Cristal [0:36](https://www.dailymotion.com/video/x7xejon?start=36); bajo al hombro [1:08](https://www.dailymotion.com/video/x7xejon?start=68) |
 | [Tráiler «BMO» doblado](https://www.dailymotion.com/video/x7vjn4d) | 1:54 | HobbyConsolas | tráiler oficial en español de «Tierras lejanas: BMO» |
-| [«I Remember You»](https://www.dailymotion.com/video/xzt1l7) | 1:58 | emisión CN HD, audio francés | batería del Rey Helado [0:42](https://www.dailymotion.com/video/xzt1l7?t=42); la lágrima [1:18](https://www.dailymotion.com/video/xzt1l7?t=78); la Polaroid [1:36](https://www.dailymotion.com/video/xzt1l7?t=96) |
+| [«I Remember You»](https://www.dailymotion.com/video/xzt1l7) | 1:58 | emisión CN HD, audio francés | batería del Rey Helado [0:42](https://www.dailymotion.com/video/xzt1l7?start=42); la lágrima [1:18](https://www.dailymotion.com/video/xzt1l7?start=78); la Polaroid [1:36](https://www.dailymotion.com/video/xzt1l7?start=96) |
 | [Tráiler «Fionna & Cake»](https://www.dailymotion.com/video/x8nce5e) | 2:05 | HobbyConsolas | 720p; no sale la Marceline clásica |
-| [Episodio piloto subtitulado](https://www.dailymotion.com/video/x84oaz2) | 7:30 | Capra TV | Rey Helado [4:05](https://www.dailymotion.com/video/x84oaz2?t=245); Finn avergonzado [6:00](https://www.dailymotion.com/video/x84oaz2?t=360) |
-| [«Slumber Party Panic»](https://www.dailymotion.com/video/x8ghhnc) | — | clip con logo CN | Dulce Princesa preocupada [2:12](https://www.dailymotion.com/video/x8ghhnc?t=132) |
-| [«Jake the Starchild»](https://www.dailymotion.com/video/x6gkz32) | — | clip oficial CN | Jake orgulloso [1:39](https://www.dailymotion.com/video/x6gkz32?t=99) |
-| [«The More You Moe…»](https://www.dailymotion.com/video/x3q931u) | — | clip con logo CN | BMO en calma [2:36](https://www.dailymotion.com/video/x3q931u?t=156) |
+| [Episodio piloto subtitulado](https://www.dailymotion.com/video/x84oaz2) | 7:30 | Capra TV | Rey Helado [4:05](https://www.dailymotion.com/video/x84oaz2?start=245); Finn avergonzado [6:00](https://www.dailymotion.com/video/x84oaz2?start=360) |
+| [«Slumber Party Panic»](https://www.dailymotion.com/video/x8ghhnc) | — | clip con logo CN | Dulce Princesa preocupada [2:12](https://www.dailymotion.com/video/x8ghhnc?start=132) |
+| [«Jake the Starchild»](https://www.dailymotion.com/video/x6gkz32) | — | clip oficial CN | Jake orgulloso [1:39](https://www.dailymotion.com/video/x6gkz32?start=99) |
+| [«The More You Moe…»](https://www.dailymotion.com/video/x3q931u) | — | clip con logo CN | BMO en calma [2:36](https://www.dailymotion.com/video/x3q931u?start=156) |
 
 ### 12.1 Oficiales (Cartoon Network)
 
@@ -1732,17 +1745,17 @@ juego real) ✅ ([Wikipedia](https://en.wikipedia.org/wiki/Card_Wars)).
 | # | Clip | Minuto | Qué hace: postura, manos, mirada | Sirve para |
 |---|---|---|---|---|
 | V1 | «Fry Song» | [0:00](https://www.dailymotion.com/video/x51arca) | **flota bocabajo tocando el bajo**, de espaldas | presentar el «estreno casero» |
-| V2 | «Fry Song» | [0:32](https://www.dailymotion.com/video/x51arca?t=32) | primer plano, **ojos entornados, boca abierta**, canta triste | emocionar |
-| V3 | «I'm Just Your Problem» | [0:16](https://www.dailymotion.com/video/x537pqr?t=16) | **vuela hacia la puerta con el bajo por delante**, sombrero de sol | **anunciar**, entrar en escena |
-| V4 | «I'm Just Your Problem» | [0:52](https://www.dailymotion.com/video/x537pqr?t=52) | primer plano, **ceño fruncido, colmillos**, canta con fuerza | **regañar** |
-| V5 | «I'm Just Your Problem» | [1:32](https://www.dailymotion.com/video/x537pqr?t=92) | **apoyada en la puerta, toca relajada** con el sombrero | pensar, tocar con calma |
-| V6 | «I Remember You» | [0:24](https://www.dailymotion.com/video/xzt1l7?t=24) | de pie, **una mano en la cabeza**, angustia | **pensar**, dolor |
-| V7 | «I Remember You» | [1:00](https://www.dailymotion.com/video/xzt1l7?t=60) | **sentada, toca con cara seria** junto al Rey Helado a la batería | tocar a dúo |
-| V8 | tráiler «Obsidian» | [0:16](https://www.dailymotion.com/video/x7xejon?t=16) | sentada en la cocina con **una taza humeante** | conversar, momento tranquilo |
-| V9 | tráiler «Obsidian» | [0:20](https://www.dailymotion.com/video/x7xejon?t=20) | sentada, **toca el bajo** con la Princesa cocinando detrás | **explicar** en casa |
-| V10 | tráiler «Obsidian» | [0:36](https://www.dailymotion.com/video/x7xejon?t=36) | **flota tocando** sobre un camino de piedra hacia el Reino de Cristal | **animar**, avanzar tocando |
-| V11 | tráiler «Obsidian» | [1:08](https://www.dailymotion.com/video/x7xejon?t=68) | de pie, **bajo al hombro**, con la Princesa y dos figuras de cristal | **presentar en grupo**, celebrar |
-| V12 | tráiler «Obsidian» | [1:24](https://www.dailymotion.com/video/x7xejon?t=84) | primer plano, **cara de susto** | sorpresa |
+| V2 | «Fry Song» | [0:32](https://www.dailymotion.com/video/x51arca?start=32) | primer plano, **ojos entornados, boca abierta**, canta triste | emocionar |
+| V3 | «I'm Just Your Problem» | [0:16](https://www.dailymotion.com/video/x537pqr?start=16) | **vuela hacia la puerta con el bajo por delante**, sombrero de sol | **anunciar**, entrar en escena |
+| V4 | «I'm Just Your Problem» | [0:52](https://www.dailymotion.com/video/x537pqr?start=52) | primer plano, **ceño fruncido, colmillos**, canta con fuerza | **regañar** |
+| V5 | «I'm Just Your Problem» | [1:32](https://www.dailymotion.com/video/x537pqr?start=92) | **apoyada en la puerta, toca relajada** con el sombrero | pensar, tocar con calma |
+| V6 | «I Remember You» | [0:24](https://www.dailymotion.com/video/xzt1l7?start=24) | de pie, **una mano en la cabeza**, angustia | **pensar**, dolor |
+| V7 | «I Remember You» | [1:00](https://www.dailymotion.com/video/xzt1l7?start=60) | **sentada, toca con cara seria** junto al Rey Helado a la batería | tocar a dúo |
+| V8 | tráiler «Obsidian» | [0:16](https://www.dailymotion.com/video/x7xejon?start=16) | sentada en la cocina con **una taza humeante** | conversar, momento tranquilo |
+| V9 | tráiler «Obsidian» | [0:20](https://www.dailymotion.com/video/x7xejon?start=20) | sentada, **toca el bajo** con la Princesa cocinando detrás | **explicar** en casa |
+| V10 | tráiler «Obsidian» | [0:36](https://www.dailymotion.com/video/x7xejon?start=36) | **flota tocando** sobre un camino de piedra hacia el Reino de Cristal | **animar**, avanzar tocando |
+| V11 | tráiler «Obsidian» | [1:08](https://www.dailymotion.com/video/x7xejon?start=68) | de pie, **bajo al hombro**, con la Princesa y dos figuras de cristal | **presentar en grupo**, celebrar |
+| V12 | tráiler «Obsidian» | [1:24](https://www.dailymotion.com/video/x7xejon?start=84) | primer plano, **cara de susto** | sorpresa |
 
 **Las 6 poses oficiales tocando el bajo** (model sheet, ep. 062 = 3×10,
 §3.7): **A** de pie en cuesta (**presentar**), **B** echada atrás cantando
@@ -1759,15 +1772,15 @@ abajo (guiño). Para **pensar**: la **V6**.
 
 | Personaje | Clip y minuto | Qué hace |
 |---|---|---|
-| Rey Helado | «I Remember You», [0:42](https://www.dailymotion.com/video/xzt1l7?t=42) | toca **una batería verde con «#1»** en el bombo |
-| Dulce Princesa | tráiler «Obsidian», [0:16](https://www.dailymotion.com/video/x7xejon?t=16) | sentada, **taza humeante** en las manos |
-| Dulce Princesa | tráiler «Obsidian», [1:12](https://www.dailymotion.com/video/x7xejon?t=72) | **conduce una moto** con Marceline detrás |
-| Dulce Princesa | «Slumber Party Panic», [2:12](https://www.dailymotion.com/video/x8ghhnc?t=132) | **manos juntas contra el pecho**, preocupada |
-| Finn | «Fry Song», [0:40](https://www.dailymotion.com/video/x51arca?t=40) | de pie, **audífonos puestos**, grabadora en alto |
-| Finn | piloto, [4:05](https://www.dailymotion.com/video/x84oaz2?t=245) | **llave de cabeza** al Rey Helado por detrás |
-| Jake | «I'm Just Your Problem», [0:04](https://www.dailymotion.com/video/x537pqr?t=4) | **corre tocando la viola** |
-| Jake | «Jake the Starchild», [1:39](https://www.dailymotion.com/video/x6gkz32?t=99) | sonrisa enorme de orgullo |
-| BMO | «The More You Moe…», [2:36](https://www.dailymotion.com/video/x3q931u?t=156) | en brazos, ojos cerrados, contento |
+| Rey Helado | «I Remember You», [0:42](https://www.dailymotion.com/video/xzt1l7?start=42) | toca **una batería verde con «#1»** en el bombo |
+| Dulce Princesa | tráiler «Obsidian», [0:16](https://www.dailymotion.com/video/x7xejon?start=16) | sentada, **taza humeante** en las manos |
+| Dulce Princesa | tráiler «Obsidian», [1:12](https://www.dailymotion.com/video/x7xejon?start=72) | **conduce una moto** con Marceline detrás |
+| Dulce Princesa | «Slumber Party Panic», [2:12](https://www.dailymotion.com/video/x8ghhnc?start=132) | **manos juntas contra el pecho**, preocupada |
+| Finn | «Fry Song», [0:40](https://www.dailymotion.com/video/x51arca?start=40) | de pie, **audífonos puestos**, grabadora en alto |
+| Finn | piloto, [4:05](https://www.dailymotion.com/video/x84oaz2?start=245) | **llave de cabeza** al Rey Helado por detrás |
+| Jake | «I'm Just Your Problem», [0:04](https://www.dailymotion.com/video/x537pqr?start=4) | **corre tocando la viola** |
+| Jake | «Jake the Starchild», [1:39](https://www.dailymotion.com/video/x6gkz32?start=99) | sonrisa enorme de orgullo |
+| BMO | «The More You Moe…», [2:36](https://www.dailymotion.com/video/x3q931u?start=156) | en brazos, ojos cerrados, contento |
 
 ### Marceline, de la primera pasada (transcripción, minuto estimado ⚠️)
 
@@ -2304,8 +2317,8 @@ Sección nueva de la segunda pasada.
 - **«I Remember You»** (4×25): Marceline canta la carta que Simon le
   escribió cuando aún era humano. **Cómo está dibujada** (vista en el
   clip): casa rosa con luz plana, **primerísimo primer plano con la cabeza
-  atrás y una sola lágrima** ([1:18](https://www.dailymotion.com/video/xzt1l7?t=78)),
-  **una Polaroid** de ella niña ([1:36](https://www.dailymotion.com/video/xzt1l7?t=96))
+  atrás y una sola lágrima** ([1:18](https://www.dailymotion.com/video/xzt1l7?start=78)),
+  **una Polaroid** de ella niña ([1:36](https://www.dailymotion.com/video/xzt1l7?start=96))
   y un **flashback entre ruinas** con Hambo. **Música**: «Remember You»
   con omnichord y la batería del Rey Helado. *io9*: «una de las cosas más
   intensas que he visto en años» ✅.
@@ -2533,7 +2546,7 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
     `#FBE0E8` y **sofá rojo `#D94344`** (medido en «Fry Song»); piso azul
     verdoso (hoja `escenas_09` n.º 385 y 386: el sofá rojo con Finn y
     Jake). Sobre la mesa, **la grabadora amarilla** de «Fry Song»
-    ([0:12](https://www.dailymotion.com/video/x51arca?t=12)): el objeto
+    ([0:12](https://www.dailymotion.com/video/x51arca?start=12)): el objeto
     con que Marceline graba sus estrenos.
 - **Personaje**: **Marceline flotando** encima de la caja, **sentada en
   el aire con el bajo**, como la **Special Pose D** del model sheet
@@ -2583,9 +2596,9 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   **Special Pose B** (echada atrás, ojos cerrados, cantando,
   [model sheet](https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d6/Modelsheet_marceline_innewoutfit_playinaxebass_-_specialposeb.jpg))
   o la **V4** (ceño y colmillos cantando con fuerza,
-  [0:52](https://www.dailymotion.com/video/x537pqr?t=52)). Alternativa:
+  [0:52](https://www.dailymotion.com/video/x537pqr?start=52)). Alternativa:
   **bajo al hombro** (tráiler «Obsidian»,
-  [1:08](https://www.dailymotion.com/video/x7xejon?t=68)) para «lo
+  [1:08](https://www.dailymotion.com/video/x7xejon?start=68)) para «lo
   siguiente».
 - **Cómo habla**: su saludo va **en el cartel del concierto** pegado a
   una lápida (cartel punk, **Bungee**), y la frase del personaje, **en la
@@ -2614,9 +2627,9 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
   BMO es un objeto que se puede modelar en Blender (una caja con
   pantalla y botones).
 - **Personajes**: **BMO** en la mesa; **Finn con audífonos** escuchando
-  (visto en «Fry Song», [0:40](https://www.dailymotion.com/video/x51arca?t=40))
+  (visto en «Fry Song», [0:40](https://www.dailymotion.com/video/x51arca?start=40))
   y **Jake con su viola** detrás (corre tocándola en «I'm Just Your
-  Problem», [0:04](https://www.dailymotion.com/video/x537pqr?t=4)),
+  Problem», [0:04](https://www.dailymotion.com/video/x537pqr?start=4)),
   escuchando como al final de la serie («Would you like to hear it?»
   «Sure!» «Yeah!», 10×13 ≈43:04). Marceline puede asomar flotando por la
   ventana con el bajo, para que la protagonista siga en la lámina.
@@ -2689,7 +2702,49 @@ juego de DS y menú de Card Wars].
 
 ---
 
+## Cumplimiento del encargo
+
+Estado tras la segunda pasada (25-sep-2026). ✅ hecho · ⚠️ a medias, con el
+porqué · ❌ no hecho.
+
+| Punto | Qué pide | Estado | Por qué |
+|---|---|---|---|
+| 1 | Arte oficial variado, poses vivas | ✅ | model sheets con ficha de producción, **6 poses oficiales tocando el bajo**, concept art de «Obsidian», discos, key art, cómics (§3); 3 hojas miradas |
+| 2 | Fotogramas de escenas icónicas con capítulo y minuto | ✅ | 4 escenas y el opening vistos en vídeo con minuto exacto (§2); 2 clips en 1080p, el resto 720p (no hay mejor en Dailymotion). Sin clip: «Henchman», «Marceline's Closet», 10×07 |
+| 3 | Fan art y 3D con licencia | ✅ | licencias leídas en la API de Sketchfab; bajo, Marceline, Finn, Jake, BMO y la casa del árbol en CC BY (§4) |
+| 4 | Fondos, luz, paleta hex y texturas reales | ✅ | casa por dentro y Reino de Cristal medidos; texturas CC0 de ambientCG y Poly Haven (§5). La cueva sigue sin fotograma |
+| 5 | Tipografía, una letra por uso, con tildes | ✅ | tabla por uso (§6.3); 6 letras y la fuente de fans revisadas con fontTools; letrista de BOOM! en dos fuentes |
+| 6 | Cómo hablan en pantalla | ✅ | notas en papel, cuaderno, cartelas, pantalla de BMO, retratos del juego de DS y menú de Card Wars (§7) |
+| 7 | Personajes y popularidad | ⚠️ | no encontré encuesta oficial numérica y Ranker da 401; sí crítica y datos oficiales con dos fuentes (§9) |
+| 8 | Doblaje latino verificado y frases textuales | ⚠️ | reparto principal en dos fuentes (§10.2) y 6 frases reales en audio; falta el episodio de cada audio, clips doblados con minuto (YouTube cerrado) y una segunda fuente para las cantantes |
+| 9 | Música y sonido | ✅ | autores, temas por ambiente, disco en español con títulos reales, lo que suena en las escenas tristes, sonidos reconocibles (§11) |
+| 10 | Vídeos con minuto exacto | ✅ | 12 clips vistos con minuto y enlace `?t=` (§12.0); TikTok comprobados por oEmbed. Los análisis de YouTube no se pudieron ver |
+| 11 | Videojuegos: interfaz y cajas de diálogo | ⚠️ | lista ampliada y dos interfaces vistas (§13, §7.3); faltan las cajas de texto de «Nameless Kingdom» y «Pirates of the Enchiridion» |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | memes, campaña por Karla Falcón, GLAAD, censura, reglas visuales (§14) |
+| 13 | Descripción profunda y cara en cada emoción | ⚠️ | carácter, arco y dinámicas de 6 personajes (§8); Marceline con 5 caras vistas, los demás con una: faltan más emociones por personaje |
+| 14 | Poses analizadas con minuto | ✅ | Marceline: 12 vistas en vídeo + 6 oficiales (§15); Finn, Jake, Princesa y BMO con 5-8 cada uno, parte por transcripción (⚠️ minuto) |
+| 15 | Vestuario con hex | ✅ | Marceline (3 trajes), Finn, Jake y Dulce Princesa medidos (§16); BMO y la corona sin medir |
+| 16 | Paisajes y fondos de pantalla con tamaño y autor | ✅ | 4 fondos de Wallhaven con tamaño, autor y favoritos; sitios en capturas oficiales; la casa del árbol en 3D (§17). No hay fondos oficiales para descargar |
+| 17 | Guía para IA de imagen y de texto | ✅ | rasgos fijos con hex medidos, palabras que ayudan y estropean, prompt, reglas de voz, frases reales por emoción y vocabulario de caras (§18) |
+| 18 | Técnica y cómo replicarla | ✅ | producción real, pasos en Photoshop y Blender, modelos CC BY; los encuadres salen de los clips, sin entrevista (Punto 18) |
+| 19 | Texturas 2D | ✅ | tramado de cartelas, texturas CC0 con nombre, packs de halftone con licencia (Punto 19) |
+| 20 | Gustos y detalles | ✅ | 6 personajes con episodio de cada dato; ningún infobox trae la altura; la Encyclopædia no se pudo leer (Punto 20) |
+| 21 | Por qué la aman y escenas que hacen llorar | ✅ | premios, crítica, identificación, escenas con cómo están dibujadas y votos de Reddit; faltan vídeos de reacción (Punto 21) |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | títulos y canales reales, la campaña por Karla Falcón y el disco en español; sin vistas ni fechas (YouTube y TikTok cerrados) (Punto 22) |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | Fortnite (con el bajo tocable), MultiVersus, LEGO, Minecraft, Brawlhalla, Funko #301, cosplay con materiales (Punto 23) |
+| 24 | Obras parecidas | ✅ | la familia de Flapjack con dos fuentes, influencias de Ward, aviso de la biblia de Steven Universe (Punto 24) |
+| 25 | Mundo, historia y símbolos | ✅ | reglas en 5 líneas, arcos por temporada, símbolos y vocabulario (Punto 25) |
+| Conceptos | 3 conceptos de lámina distintos | ✅ | A casa y caja de discos, B concierto, C BMO; con poses e imágenes reales de la segunda pasada (§19) |
+| Fuentes | 40 fuentes distintas | ✅ | más de 100 webs distintas enlazadas en el texto |
+| Tipos de fuente | Los de «Profundidad exigida» | ⚠️ | oficiales, wikis, TV Tropes, Reddit (Arctic Shift), DeviantArt, ArtStation, Dailymotion, TikTok, GitHub, Sketchfab, texturas y Doblaje Wiki, sí. **TCRF** dio 403 y **Wayback** se cortó; japonés sólo una fuente; coreano y chino no aplican (serie de EE. UU., entrevistas en inglés); sin Tumblr ni X del staff |
+| Hojas | 3 hojas de contacto | ✅ | `personajes_01`, `personajes_02`, `escenas_09`, JPEG de menos de 1 MB, miradas (§3.8) |
+| Referencias | `referencias.json` con 20 o más | ✅ | 134 referencias, las mejores primero (model sheets y capturas con tamaño medido) |
+
 ## 21 · Bitácora de búsqueda
+
+> 21.1 a 21.5 son de la **primera pasada** (24-sep, red cerrada). La
+> **segunda pasada** (25-sep, red abierta) va en 21.6 y en «Bitácora», al
+> final, con lo que anotó cada investigador.
 
 ### 21.1 Comprobación de red (24-sep-2026)
 
@@ -2803,3 +2858,263 @@ entrevistas originales están en inglés.
 - Capturas de las cajas de diálogo de los videojuegos.
 - Las licencias de 9 de los 10 modelos 3D del bajo.
 - El minuto exacto dentro de los vídeos de YouTube y TikTok.
+
+### 21.6 Segunda pasada: nota del redactor (25-sep-2026)
+
+- Juntadas las cuatro partes (imagen, vídeo, voz, texto) con
+  `juntar_referencias.py` (134 referencias tras quitar 2 sin relación:
+  una foto de Manaos y un modelo de Fiona de Shrek, y corregir 2
+  licencias de Sketchfab) y `juntar_bitacora.py`.
+- Busqué yo en la API de la wiki inglesa los tamaños de 5 capturas de la
+  hoja `escenas_09` y encontré las **6 «Special Pose» de Marceline tocando
+  el bajo** (ep. 062): las bajé y las miré.
+- Miré las 3 hojas de `hojas/` para numerar qué sirve de cada una (§3.8).
+- Choques entre partes resueltos: piel de Marceline `#D8E7E7` (model
+  sheet) frente a `#657471` (fotograma con luz): manda el model sheet; pelo
+  `#000000` frente a `#150209`: negro puro, con tinte rojo en escena.
+- Lo que no busqué: cafés temáticos y colaboraciones de moda con segunda
+  fuente; Tumblr y X del staff.
+
+## Bitácora
+
+### Bitácora de imagen
+
+- **API de Fandom** (`adventuretime.fandom.com/api.php`): `action=query&meta=siteinfo`
+  (confirmar subdominio), `action=query&list=search&srwhat=text` (Lego
+  Dimensions, MultiVersus, collaboration crossover, Vampire Kingdom emblem),
+  `action=parse&prop=wikitext&page=References_in_other_media` y
+  `page=LEGO_Dimensions`, `action=query&titles=...&prop=imageinfo` (tamaños
+  reales de Obsidian-concept y del logo).
+- **`herramientas/investigar_serie.py`**: 1 corrida completa (6 páginas,
+  `--wiki adventuretime`), 1188 imágenes indexadas, 13 hojas generadas.
+- **`herramientas/estilo.py`**: 4 corridas (11 imágenes/recortes en total)
+  para medir hex de Marceline, Finn, Jake, Dulce Princesa y BMO.
+- **Sketchfab API** (`api.sketchfab.com/v3/search`): 6 consultas (Ax Bass,
+  Finn, Jake, BMO, Marceline house, treehouse, Marceline guitar).
+- **Wallhaven API** (`wallhaven.cc/api/v1/search` y `/w/<id>`): 2 búsquedas
+  («adventure time», «Marceline») + 6 fichas individuales.
+- **ambientCG API** (`ambientcg.com/api/v2/full_json`): 7 consultas (paper,
+  fabric, denim, knit, vinyl record, cardboard, wood, leather).
+- **WebSearch** (4 de mi cupo de 50, todas en inglés): «Adventure Time
+  collaboration Vans OPI Uniqlo Hot Topic official merchandise»,
+  «Adventure Time MultiVersus Finn Jake Marceline playable character»,
+  «Adventure Time Funko Pop Marceline figure official Kidrobot vinyl»,
+  «Marceline cosplay ax bass build tutorial craftsmanship», «Adventure Time
+  Distant Lands Obsidian key art poster Bubblegum Marceline image», «free
+  halftone dithering texture pack CC0 Photoshop brushes public domain».
+- **Descargas directas** con `curl -H "Referer: https://www.fandom.com/"`:
+  9 imágenes (2 model sheets, 2 screenshots de Marceline, 2 concept art de
+  Obsidian, más 3 recortes con Pillow), todas miradas con `Read`.
+
+**Cumplo AYUDANTE.md**: hojas de contacto miradas (no descritas de oído),
+colores medidos con Pillow (no de memoria salvo donde digo ⚠️), licencias de
+Sketchfab confirmadas por su API, «no encontré» sólo tras buscar (nunca «no
+existe»).
+
+Sigue: nada obligatorio pendiente de mis puntos (1, 3, 15, 16, 19, 23). Si
+hay tiempo de sobra: medir el turquesa de BMO recortando a mano y la corona
+de la Dulce Princesa; comprobar una a una las 6 licencias de Sketchfab que
+quedaron sin campo de licencia.
+
+### Bitácora de video
+
+### Comprobación de red (25-sep-2026)
+
+- **Dailymotion API** (`api.dailymotion.com`): funciona bien, sin límite
+  aparente; usada para 9 búsquedas específicas por canción/escena.
+- **`herramientas/fotogramas.py`** sobre Dailymotion: funciona con
+  `yt-dlp`; en un intento dio error de «impersonation… firefox» (no 429) y
+  al reintentar una vez funcionó normal.
+- **TikTok oEmbed** (`www.tiktok.com/oembed?url=...`): funciona sin login,
+  da título completo y autor — mejor que sólo el título del buscador.
+- **MusicBrainz API**: funciona, `release-group` con `query=` da
+  resultados relevantes si se afina la búsqueda (con «Marceline» en vez de
+  sólo «Adventure Time», que traía discos sin relación por «Time»/«Hora»).
+- No probé YouTube (pide iniciar sesión desde este servidor, según
+  AYUDANTE.md) ni AnimeThemes (no aplica: es una serie occidental, no
+  anime, no tiene fichas ahí).
+
+### Búsquedas (12, todas en inglés salvo 3 en español — la serie es
+estadounidense, no hacía falta japonés/coreano para vídeo)
+
+| # | Idioma | Búsqueda | Qué salió |
+|---|---|---|---|
+| 1 | en | dailymotion API: Marceline bass Adventure Time | clips no oficiales, ninguno útil |
+| 2 | en | dailymotion API: Adventure Time opening theme song | «Theme Song» variantes (Islands, Stakes, Food Chain, Fionna&Cake) |
+| 3 | en | dailymotion API: Adventure Time trailer official | tráileres de «Fionna & Cake», «Side Quests», «Islands» |
+| 4 | en | dailymotion API: I'm Just Your Problem Adventure Time | clip oficial del canal Cartoon Network ✅ |
+| 5 | es | dailymotion API: Hora de Aventura intro español | intro real doblada (Espinof), piloto subtitulado (Capra TV) |
+| 6 | es | dailymotion API: Marceline Reina Vampiro español latino | sin resultado útil (falsos positivos por «Reina») |
+| 7 | es | dailymotion API: Hora de Aventura trailer HBO Max | tráiler de BMO (HobbyConsolas) ✅ |
+| 8 | en | dailymotion API: Adventure Time Come Along With Me ending | créditos finales reales (canal fan, contenido real) ✅ |
+| 9 | en | dailymotion API: I Remember You song Marceline Ice King | escena real (audio FR) ✅ |
+| 10 | en | dailymotion API: Monster Marceline Obsidian song | tráiler oficial de Obsidian ✅ |
+| 11 | en | dailymotion API: Slow Dance With You / Henchman | nada útil, sin coincidencias reales |
+| 12 | en | dailymotion API: Marceline's Closet Finn Jake | sólo un clip genérico sin la escena |
+
+### Herramientas usadas (con cupo)
+
+- `fotogramas.py`: 7 clips completos (contact sheets) + 4 fotogramas
+  individuales de alta resolución para medir color.
+- `estilo.py --colores`: 5 fotogramas (2 de «I'm Just Your Problem»/«Fry
+  Song», 3 de «Obsidian trailer»).
+- Pillow directo (`Image.getpixel`): puntos exactos de piel, top y sombrero
+  de Marceline en el fotograma 0:52 de «I'm Just Your Problem».
+- `curl` directo: Dailymotion API (fichas + búsquedas), TikTok oEmbed (4
+  vídeos), MusicBrainz API (release-group + tracklist).
+
+### Fuentes consultadas por tipo (para mis 5 puntos)
+
+- **Oficiales**: canal de Cartoon Network en Dailymotion, HBO Max (logo en
+  el tráiler de Obsidian), MusicBrainz (tracklist del álbum en español).
+- **Semioficiales/medios**: Espinof (intro), HobbyConsolas (tráiler BMO),
+  Capra TV (piloto subtitulado).
+- **Reloads de fans con contenido real**: canal que subió los créditos
+  finales y «Teaser Trailer» que subió el tráiler de Obsidian — el
+  contenido en sí es oficial (se ve el logo/staff real), el canal que lo
+  aloja no.
+- **TikTok**: 4 vídeos verificados por oEmbed (Rebecca Sugar, Evanescence,
+  2 creadores de fandom hispano).
+
+---
+
+### Bitácora de voz
+
+- **APIs directas** (no cuentan como «búsqueda web», pero son la base de casi
+  todo este documento): `doblaje.fandom.com/es/api.php` (wikitext completo de
+  «Hora de aventura», 87 135 caracteres, con `curl -A "Mozilla/5.0"` — sin
+  user-agent, tanto `curl` simple como `urllib` de Python daban 403/error);
+  `adventuretime.fandom.com/api.php` (wikitext de Marceline, Finn, Jake,
+  Princess Bubblegum, BMO, Ice King); `horadeaventura.fandom.com/es/api.php`
+  (funciona; la sugerida `adventuretimewithfinnandjake.fandom.com` del
+  encargo da 404, el dominio correcto en inglés es `adventuretime.fandom.com`).
+- **Audio real del doblaje**: 6 archivos `.ogg` bajados de
+  `static.wikia.nocookie.net/doblaje/...` (con cabecera `Referer:
+  https://www.fandom.com/`), transcritos con `herramientas/voz.py` (Whisper
+  local). Sin esto, `biblia.md` no tenía ninguna frase textual de Marceline
+  en el doblaje; ahora sí.
+- **Búsquedas web** (español e inglés): «Óscar Flores doblaje Rey Helado
+  director entrevista»; «Héctor Emmanuel Gómez BMO doblaje Hora de
+  aventura»; «Adventure Time character popularity poll official fan
+  favorite Cartoon Network»; «Adventure Time most popular character reddit
+  poll ranking 2023 2024»; «Adventure Time Marceline fan favorite most
+  popular character reddit»; «Hora de aventura fandub español cover opening
+  intro YouTube»; «Hora de aventura fandub latino Marceline parodia
+  TikTok»; «Everything Stays / Todo se queda cover español Marceline
+  Adventure Time»; «I Remember You español cover Marceline Simon Hora de
+  Aventura youtube»; «Princesa Grumosa oh por glob muletilla doblaje latino
+  Lumpy Space Princess»; «Adventure Time finale Come Along With Me
+  reception reddit tears music emotional analysis»; «Arturo Castañeda
+  director doblaje Hora de aventura»; «Adventure Time Encyclopedia book
+  official character profiles favorite food height»; «Guardian review
+  Adventure Time Marceline best character DVD»; «Vulture Eric Thurm Ice
+  King Best Character Adventure Time»; «Adventure Time awards Emmy Peabody
+  Annie won series list».
+- **Reddit vía Arctic Shift** (`arctic-shift.photon-reddit.com`):
+  `subreddit=adventuretime&title=cried` — **sí existe** el subreddit
+  r/adventuretime y está activo (esto corrige el «no encontré el subreddit»
+  del recolector automático, que seguramente buscó mal el nombre exacto).
+- **WebFetch**: `en.wikipedia.org/wiki/Marceline_the_Vampire_Queen`,
+  `en.wikipedia.org/wiki/Adventure_Time` (dos veces, para premios y
+  recepción crítica); falló en `ranker.com` (401), `youtube.com/watch`
+  (redirige a un CAPTCHA de Google), `tiktok.com` (sin datos sin JS) y
+  `scribd.com` (no cargó el documento).
+- **Dailymotion** (API): ya lo había cubierto el recolector; repetí
+  «Hora de aventura fandub» y «Adventure Time cover español opening» y sólo
+  salieron vídeos sin relación real (0-24 vistas, mal etiquetados) — confirmo
+  que Dailymotion **no tiene** contenido útil de doblaje o fandub para esta
+  serie, mejor concentrar el esfuerzo en Doblaje Wiki y la wiki en inglés.
+- Archivos de trabajo (fuera del repositorio, en
+  `/tmp/claude-0/trabajo/14-adventure-time-voz/`): wikitext descargado
+  (`doblaje_serie.json`, `en_Marceline.json`, `en_Finn.json`, `en_Jake.json`,
+  `en_Princess_Bubblegum.json`, `en_BMO.json`, `en_IceKing.json`), 6 muestras
+  de audio `.ogg` y sus transcripciones (`voz_*`).
+  Fotogramas del piloto en `pilot_frames/` y del trailer de «Fionna & Cake»
+  en `trailer_frames/` (este último no se usó: no sale la Marceline
+  clásica). Fotogramas de Marceline, Jake, Dulce Princesa y BMO (tanda del
+  punto 13) en la carpeta de scratchpad de esta sesión, `at_voz/`.
+
+Punto 13 («su cara en cada emoción con fotograma y minuto», §13) queda con
+los seis personajes pedidos (Finn, Rey Helado, Marceline, Jake, Dulce
+Princesa, BMO) con al menos una cara/emoción real, cada una con clip,
+minuto exacto y enlace `&t=` verificados con `fotogramas.py` sobre
+Dailymotion (YouTube bloqueado en este servidor). No probé Internet
+Archive: no hace falta, Dailymotion tuvo clips oficiales o subtitulados
+para los cinco personajes que faltaban. Queda para más adelante, si se
+retoma la biblia, ampliar a más emociones por personaje (rabia, miedo...)
+y a los secundarios del punto 20 — pero eso ya no es parte de este punto
+tal como se pidió.
+
+### Bitácora de texto
+
+### Comprobación de red (25-sep-2026)
+
+- **curl** funciona: `adventuretime.fandom.com/api.php` (200; ojo, el
+  subdominio correcto es `adventuretime`, **no** `adventuretimewithfinnandjake`
+  como sugería el encargo — comprobado con `action=query&meta=siteinfo`),
+  `doblaje.fandom.com` (200), `dl.dafont.com` (200, bajé un ttf real),
+  `spriters-resource.com` (200), `i.imgur.com` (200), `store.steampowered.com`
+  (200 pero `success:false` para esos dos appid), `cdn.jsdelivr.net/fontsource`
+  (200).
+- **curl** no conectó: `tcrf.net` (403), `web.archive.org` (cortado a media
+  conexión, un solo intento), `industriaanimacion.com` (503 dos veces, y
+  luego 000 con curl directo).
+- **WebFetch**: funcionó en Wikipedia, GitHub (repo `shishkabob27/CardWars`,
+  vía resumen), Spriters Resource. Bloqueado (403) en `medium.com` y `tcrf.net`.
+- El acceso a `raw.githubusercontent.com` está cerrado en este contenedor para
+  repos no vinculados con `add_repo` (probé bajar Google Fonts directo de ahí
+  y dio un JSON de error, no el archivo).
+
+### Búsquedas web (WebSearch, ~14 de las ~50 del cupo)
+
+| # | Idioma | Búsqueda | Qué salió |
+|---|---|---|---|
+| 1 | en | animación Toon Boom Harmony Photoshop backgrounds interview | nada específico de AT, sólo genérico |
+| 2 | en | Pendleton Ward influences interview D&D Flapjack | Mary Sue: cita de D&D; Wikipedia: Totoro, Home Movies |
+| 3 | en | background art Nick Jennings gouache watercolor Photoshop | ficha de Fandom, sin técnica concreta |
+| 4 | en | "Hey Ice King" DS game dialogue box screenshot portrait | Spriters Resource (clave) |
+| 5 | en | series similares Gravity Falls Regular Show Steven Universe Over the Garden Wall | primer indicio de Flapjack |
+| 6 | en | BOOM! Studios letterer Steve Wands | confirmado en Fandom + comics DB |
+| 7 | en | Sketchfab Finn Jake free rig | 5+ modelos CC BY |
+| 8 | en | line art black outline flat color cel shading style | análisis de estilo (⚠️, blogs) |
+| 9 | en | TV Tropes symbols Enchiridion Algebraic Mathematical | Enchiridion, catchphrases abandonados |
+| 10 | en | Blender Solidify Freestyle toon outline tutorial | técnica confirmada (Blender Studio, BlenderNation) |
+| 11 | en | Card Wars mobile game interface screenshot | repo de GitHub con capturas reales |
+| 12 | en | story arcs season by season Finn arm Elements finale | resumen T6-T10 (Wikipedia) |
+| 13 | en | "Card Wars" mobile game screenshot deck | mismo repo, confirmado |
+| 14 | en | Flapjack storyboard alumni Hirsch McHale Sugar | SlashFilm (segunda fuente para punto 24) |
+| 15 | en | Rynda Photoshop pre-production interview | sin la entrevista original, sólo referencias |
+| 16 | en | BMO screen face Nintendo parody interface | mod de GBC + sitio de Active Theory |
+| 17 | en | film grain post-production Adventure Time | nada específico de la serie |
+| 18 | en | dafont Adventure Time font ttf download | encontré el zip descargable real |
+
+No hice búsquedas en japonés/coreano/chino: la serie es estadounidense: sus
+entrevistas originales están en inglés (igual que anotó el pase anterior).
+
+### Fandom (API directa, sin gastar cupo de búsqueda)
+
+- `action=query&meta=siteinfo`: confirmé el subdominio correcto
+  (`adventuretime.fandom.com`).
+- `action=parse&prop=wikitext` en: Mushroom War, Land of Ooo, Ice King's
+  crown, Grass Sword, Nightosphere, Steve Wands, BMO (búsqueda), Card Wars
+  (redirección a desambiguación).
+- `action=query&list=search`: para encontrar los títulos reales detrás de
+  redirecciones (Mushroom War, story arc, BMO screen, crown ice king).
+
+### Fuentes consultadas por tipo
+
+- **Oficiales/semioficiales**: Wikipedia (artículo principal y temporadas
+  6-10), Fandom de la serie (varias páginas), sitio de Active Theory (sólo
+  resumen).
+- **Herramientas técnicas usadas de verdad**: `fontTools.ttLib` (tres veces:
+  fuente de fans de dafont, VT323, Press Start 2P + 4 más), API de Sketchfab
+  (licencias), `file`/Pillow-equivalente vía `file` de Linux para medir
+  imágenes.
+- **Comunidad/fans**: TV Tropes, SlashFilm, The Mary Sue, Instructables (mod
+  de BMO), GitHub (`shishkabob27/CardWars`, puerto no oficial con capturas).
+- **Videojuegos**: Giant Bomb, Nintendo Life, The Spriters Resource (hoja de
+  sprites vista y medida), GameFAQs (referencia, no citado directo).
+- **Letras/tipografía**: dafont.com (descarga real), Fontsource vía
+  `cdn.jsdelivr.net` (descarga real de 6 fuentes en subset «latin»).
+- **3D**: API de Sketchfab (`api.sketchfab.com/v3/search`), licencias CC BY
+  confirmadas por la respuesta de la API, no de la página web.

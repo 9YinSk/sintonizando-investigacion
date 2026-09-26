@@ -1764,3 +1764,93 @@ la serie (§7), nunca una burbuja. Textos del canal copiados de
 ⚠️ Ninguno de los tres se ha probado a 1200×800: si el A se satura, las
 etiquetas van a la lámina 2.
 
+## 28 · Lo que no pude verificar, y lo que corregí de las partes
+
+### Corregido al mirar las hojas (antes → ahora)
+
+| Parte | Decía | Es |
+|---|---|---|
+| imagen | El traje «Free» de Rumi es la cazadora amarilla | «Free» es **sudadera lila y vaqueros** (`personajes_01` nº 6). La cazadora amarilla es su look habitual (nº 17) |
+| imagen | Rumi con la espada, nº 8 y 23 | nº 8 y 23 son **Mira** con el gok-do. Rumi con espada: nº 7 y 15 |
+| imagen | Seúl de noche «desde la torre», nº 29-30 | Es el diseño del Honmoon de nachomolina: silueta en una colina |
+| imagen | Merch de Saja Boys, nº 46-49 | nº 46-48 (la hoja acaba en el 48) |
+| imagen | Hoja de gestos de combate de Rumi, nº 77 | nº 76-78 son las hojas de **invocación de armas** del Honmoon |
+| imagen | Honmoon *drum*, *ring* y *sprites*, nº 84-86 | Son nº 76-78. El 84 es **el trío comiendo ramyeon** |
+| imagen | Disfraces de Zoey, nº 449-456 | nº 436, 453-455 y 460. El 449 es Mira; el 456, Zoey en pijama |
+| imagen | Trajes dorados de Mira, nº 441-448 | nº 443-446. El 447 es Mira en una gala; el 448, Mira furiosa |
+| imagen | Jinu con capucha negra, nº 438 | Jinu «Your Idol»: silueta con *gat* y túnica |
+| imagen | Cazadora amarilla en «hoja 9, nº 63-64» | La hoja 9 no está en `hojas/`. Sí sale en `concept_02` nº 63-66 |
+| vídeo | En «Takedown» 1:48 Rumi lleva coleta, «distinto al habitual moño» | Lo habitual es **la trenza larga** (wiki); el moño sale en casa (nº 439) |
+| vídeo y voz | Zoey con dagas y «HUNTRIX DON'T QUIT!» | Vídeo lo pone en «How It's Done» 1:06; voz, en «Takedown» 1:06. Se sigue a vídeo, que sacó los fotogramas. ⚠️ |
+| texto | «50,000 fans are waiting for you» como pantalla de móvil | Es letra del grafismo (lo corrigió la propia parte de texto) |
+| voz | Recuento de Danbooru | Mezcla otras obras: descartado |
+
+### Lo que falta o sigue dudoso
+
+- **Hex de la cazadora amarilla**: sin medir. Medir en Rumi Portrait
+  (§16).
+- **Altura de Rumi**: no publicada.
+- **Minuto del sacrificio de Jinu** y de los ojos de corazón: no hay
+  clip. Sin música ni luz comprobadas.
+- **Caras de Mira, Gwi-Ma y Celine** con minuto: sólo hojas sin minuto.
+- **Fotogramas en 1080p**: `fotogramas.py` baja a 720p.
+- **YouTube**: pidió iniciar sesión. Sin vídeos de análisis, sin vistas
+  del cover de HitomiFlor, sin el vídeo de Gary Lee en Collider.
+- **Frases del doblaje**: minutos de la muestra, no de la película; no
+  hay clips oficiales doblados. Celine (canciones), Gwi-Ma y los
+  secundarios, una sola fuente.
+- **Letras sin comprobar**: Blanka (de pago); la letra exacta de
+  «SHINING» y «HAH».
+- **Caja de diálogo del juego de Roblox**: ninguna captura la muestra.
+- **Bloqueados**: The Cutting Room Floor (Cloudflare), Wayback Machine
+  (fallo de red), Screendaily (verificación), IMDb.
+- **Sistema facial «Chibi»**: nombre sacado de un resumen.
+- **Película entera con `episodio.py`**: no se hizo (presupuesto).
+- **Café temático, Uniqlo, Crocs**: no encontrados.
+- **GitHub**: no se buscó.
+
+## Cumplimiento del encargo
+
+✅ hecho y confirmado · ⚠️ a medias, una fuente o comprobado que no
+existe · ❌ no se buscó.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Artbook, libro de pósters, key art, 478 imágenes grandes de la wiki; 3 hojas miradas número a número (§3) |
+| 2 · Fotogramas con minuto | ⚠️ | 22 escenas con minuto del tráiler y 4 *lyric videos* oficiales (§2); a 720p, no 1080p; minutos del clip, no de la película; capturas 4K sin minuto |
+| 3 · Fan art y 3D con licencia | ✅ | Safebooru con autor original; 11 modelos de Sketchfab con licencia (§4). ⚠️ mallas sin abrir |
+| 4 · Fondos, paleta y texturas reales | ✅ | 16 paletas hex medidas, luz de cada sitio, texturas CC0 de AmbientCG (§5) |
+| 5 · Tipografía por uso | ✅ | 9 usos, 8 letras libres comprobadas con fontTools (§6). ⚠️ Blanka y «SHINING» sin comprobar |
+| 6 · Cómo hablan en pantalla | ✅ | Cinco recursos reales con minuto (§7). ⚠️ sin caja de diálogo en Roblox |
+| 7 · Popularidad | ⚠️ | No hay encuesta oficial por personaje (buscada). Sí YouGov, ranking de Collider y hilos de Reddit con votos (§9) |
+| 8 · Doblaje latino | ⚠️ | Reparto principal en dos o tres fuentes; 6 frases textuales de las muestras oficiales (§10). Minutos de la muestra, sin clip doblado; varios secundarios con una fuente |
+| 9 · Música y sonido | ✅ | Lista completa, voces reales, récords, escenas emotivas (§11). ⚠️ efectos de sonido, oídos en un clip |
+| 10 · Vídeos con minuto | ⚠️ | Tráiler, teaser, 4 *lyric videos*, *scenepack*, tendencias de TikTok (§12). YouTube bloqueado: sin análisis largos ni vistas de TikTok |
+| 11 · Videojuegos | ⚠️ | Juego oficial de Roblox con interfaz medida; comprobado que no hay juego de pago (§13). Sin caja de diálogo; TCRF bloqueado |
+| 12 · Lo que ama el fandom y qué no hacer | ✅ | Memes de TV Tropes y Netflix; 10 «no hacer» con fuente (§14) |
+| 13 · Personajes a fondo | ⚠️ | Rumi, Mira, Zoey, Jinu y secundarios con carácter, arco, voz medida y dinámicas (§8). Caras con minuto sólo de Rumi, Zoey y Jinu; Mira, en hojas sin minuto; Gwi-Ma y Celine, sólo voz |
+| 14 · Poses analizadas | ✅ | 10 de Rumi, 9 de Mira, 9 de Zoey, 7 de Jinu y los Saja Boys, con minuto u hoja, y qué pose para qué (§15) |
+| 15 · Vestuario con hex | ⚠️ | 6 trajes con hex medidos, prendas y rasgos fijos (§16). La cazadora amarilla, la ropa icónica, sin hex |
+| 16 · Ciudades y fondos de pantalla | ✅ | 11 sitios con hora y luz; 13 fondos de fans con tamaño, ♥ y autor (§17). ⚠️ sin fondos oficiales en alta |
+| 17 · Guía para IA | ✅ | Hecha por el redactor: rasgos, paleta, luz, encuadre, palabras, referencias y frases reales por emoción (§18) |
+| 18 · Estilo y técnica | ✅ | *Making of* con nombres y cargos, programas, encuadres, recetas de Photoshop y Blender (§19). ⚠️ nombre del sistema «Chibi» |
+| 19 · Texturas 2D | ✅ | 10 capas con equivalente libre o cómo hacerlas (§20). ⚠️ licencias de pinceles de terceros |
+| 20 · Gustos y detalles | ✅ | Tabla de los cuatro con cumpleaños, altura, comida, objeto y apodos (§21). ⚠️ altura de Rumi no publicada |
+| 21 · Por qué la aman | ⚠️ | Cifras, razones y 8 escenas (§22). El sacrificio de Jinu, la que más hace llorar, sin minuto ni música comprobada |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | Cover de HitomiFlor, TikTok, blog de fandub de Doblaje Wiki (§23). Sin vistas; no hay fandubs de escenas habladas (buscados) |
+| 23 · Colaboraciones, figuras y cosplay | ✅ | Fortnite, CookieRun, McDonald's, LEGO, *pop-up*, Youtooz, cosplay libre (§24) |
+| 24 · Obras parecidas | ✅ | Influencias de la directora, K-pop real, 5 obras parecidas y 6 láminas vecinas (§25) |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas en 5 líneas, historia por arcos, emblemas medidos, objetos y vocabulario (§26) |
+| Conceptos de lámina | ✅ | Tres distintos, con objeto en Blender, personaje, cuadro de diálogo, textos y profundidad (§27) |
+| Fuentes distintas | ✅ | Más de 40 webs distintas enlazadas en el cuerpo |
+| Fuentes oficiales | ✅ | Netflix Tudum, Picturemill, Unreal Engine, Twin Atlas, entrevistas a directores y staff con cargo |
+| Otros idiomas | ⚠️ | Obra de EE. UU. en inglés: se buscó en inglés y español; el coreano llega por la wiki (hangul) y la prensa coreana. Sin búsquedas en coreano, japonés ni chino |
+| Wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom, Doblaje Wiki y TV Tropes sí; TCRF y Wayback bloqueados en dos intentos |
+| Foros y comunidades | ✅ | Reddit (y Arctic Shift), theqoo vía Koreaboo, foro de dafont, foro de Roblox |
+| Arte | ✅ | Safebooru, X, Tumblr, Pixiv, ArtStation, DeviantArt, Wallhaven |
+| Vídeo | ⚠️ | Dailymotion e Internet Archive con minuto; YouTube pidió sesión |
+| Código y recursos | ⚠️ | Sketchfab, AmbientCG, Fontsource y API de Roblox sí; GitHub no se buscó |
+| Doblaje latino | ✅ | Doblaje Wiki por su API, ANMTV, Infobae |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 700 KB, miradas por el redactor (§3) |
+| `referencias.json` | ✅ | 186 referencias: 174 de las partes y 12 del redactor, con tamaño medido |
+

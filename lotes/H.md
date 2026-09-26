@@ -13,7 +13,7 @@ ahora lleva el lote H.)
 - 118 Hellblade: **COMPLETA** y subida (04:35). ✅27 ⚠️10 ❌0, 207 referencias, 78 webs, 142 minutos, 70 hex, 1930 líneas.
 - 119 A Plague Tale: **COMPLETA** y subida (13:41). ✅22 ⚠️15 ❌0, 124 referencias, 57 webs, 129 minutos, 85 hex, 872 líneas.
 - 120 Days Gone: **COMPLETA** y subida (18:32). ✅21 ⚠️16 ❌0, 114 referencias, 54 webs, 140 minutos, 38 hex, 856 líneas.
-- 121 Tomb Raider: imagen (Sonnet) en marcha.
+- 121 Tomb Raider: **COMPLETA** y subida (23:59). ✅22 ⚠️15 ❌0, 193 referencias, 56 webs, 91 minutos, 55 hex, 827 líneas.
 - 122: recolectado con hojas; 123-127 recolectando.
 - Cambio de cuenta (25-sep, 13:25 UTC, cuenta .108): rama juntada; guardar.sh cada 300 s.
   119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
@@ -41,6 +41,9 @@ ahora lleva el lote H.)
   - Corregido: el tráiler transcrito es el doblaje de España, no el latino; capturas de Steam mal
     descritas (n.º 2, n.º 13 y la del contraluz); el anillo que buscan los fans es el de Deacon.
   - Falta: no hay imagen de Boozer ni de Copeland en las partes (conceptos A y C con ⚠️/❌).
+
+- **121 Tomb Raider**: más querida, Lara Croft (encuesta BAFTA 2024: personaje de videojuego más icónico de todos los tiempos); secundaria más querida, Sam Nishimura. Cuadro de diálogo: sin globo, subtítulo blanco sin caja; tarjeta de objetivo (versales Oswald, icono redondo); ficha de reliquia (objeto 3D sobre negro, marco punteado); polaroid con pie. Letras TR Heavy, Oswald. Láminas: A #guia «El cuaderno de campo» (recomendada), B #recursos «La sala de reliquias», C #a-que-juegas «La hoguera del campamento».
+  - Avisos: no hay frases latinas del doblaje textual con minuto (YouTube pidió sesión; hay que oír Rise o Shadow en latino, Marisol Romero); juegos 1996-2013 sin doblaje latino confirmado; único fandub hispano (Croft Generation) es de España; textos de #guia y #recursos salen cortados en servidor/inventario.md (completar antes de lámina); concepto B usa bandeja de té de Winston pero sin imagen de Winston en partes; muertes de Roth y Alex (TR 2013) sin minuto (verlas en longplay); todos fotogramas 720p o menos (1080p solo en YouTube, bloqueado).
 
 - **119 A Plague Tale**: más querida, Amicia (la más dibujada; su actriz, nominada en The Game Awards
   2022); la secundaria con más cariño es Sophia (tiene juego propio, *Resonance*, 2026). No hay encuesta.
@@ -114,3 +117,4 @@ ahora lleva el lote H.)
 | 121 | voz (relanzado) | Sonnet | 13 | 200 mil |
 | 122 | imagen (relanzado) | Sonnet | 15 | 246 mil |
 | 120 | redactor (relanzado) | Opus | 19 | 325 mil |
+| 121 | redactor | Opus | 22 | 341 mil |

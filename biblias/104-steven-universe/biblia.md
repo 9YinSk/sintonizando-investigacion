@@ -755,8 +755,8 @@ Escrita por el redactor con lo de los puntos 1-16. Sirve para Firefly, Canva o c
 
 **Rasgos que nunca cambian**
 - **Steven:** niño rechoncho, pelo **negro rizado**, **camiseta con estrella amarilla** (`#F9E64C`), vaqueros (`#22739A`), sandalias. **Gema rosa en el ombligo.** Chaqueta rosa (`#FF80BD`) en los trajes de después. Escudo rosa con una rosa (hoja n.º 48).
-- **Garnet:** muy alta (2,21 m), **afro cuadrado**, **visor triangular**, piel granate oscura (`#BE4459`). **Dos gemas, una en cada palma**: la de Rubí, cuadrada; la de Zafiro, triangular (n.º 255-256). Guanteletes rojos con estrella (n.º 47). **Tres ojos** bajo el visor.
-- **Perla:** delgada y alta, **nariz puntiaguda**, pelo corto claro peinado hacia atrás en punta, **gema ovalada en la frente**. Top menta (`#92EBDA`), fajín turquesa (`#66FDF0`), pantalón corto amarillo (`#FFDF7A`). Lanza.
+- **Garnet:** muy alta (2,21 m), **afro cuadrado**, **visor triangular**, piel granate oscura (`#BE4459`). **Dos gemas**: la de Rubí, cuadrada, y la de Zafiro, triangular (n.º 255-256). ⚠️ En qué mano va cada una: mirarlo en la hoja de modelo antes de dibujar. Guanteletes rojos con estrella (n.º 47). **Tres ojos** bajo el visor.
+- **Perla:** delgada y alta, **nariz puntiaguda**, pelo corto claro peinado hacia atrás en punta, **gema en la frente**. Top menta (`#92EBDA`), fajín turquesa (`#66FDF0`), pantalón corto amarillo (`#FFDF7A`). Lanza.
 - **Amatista:** bajita y ancha, **melena lila larguísima** (`#D4C7EE`) que tapa un ojo, gema en el pecho, top oscuro (`#4F4B71`), **mallas con estrellas**. Látigo.
 - **Las formas de Kandinsky** (punto 18): **Garnet es un cuadrado, Amatista una esfera, Perla un cono.** Pídelo así si la IA las deforma.
 
@@ -835,3 +835,96 @@ Escrita por el redactor con lo de los puntos 1-16. Sirve para Firefly, Canva o c
 - Nada de onomatopeyas escritas: si hace falta un ruido, **se describe**.
 
 **Vocabulario propio** (punto 25): *poof*, *burbujear*, fusión, gema corrupta, Homeworld, Diamantes, Gemas de Cristal, Kindergarten, Templo, Ciudad Playa, Big Donut, *harmony*. ⚠️ Cómo se dicen en latino *poof*, *Homeworld* o *bubble*: sin comprobar.
+
+## Punto 18 · Estilo y técnica: cómo replicarlo
+
+**Cómo se hizo de verdad** (fuentes de producción, leídas por la parte de texto) · ✅
+- **Storyboard** en **Toon Boom Storyboard Pro**. Cita del blog de Toon Boom: «Created by Rebecca Sugar and planned in Toon Boom Storyboard Pro, Steven Universe…» · [Toon Boom](https://www.toonboom.com/top-animation-news-the-dragon-prince-steven-universe-and-more)
+- **Animación dibujada y entintada a mano en papel**, escaneada y coloreada en Corea del Sur por **Sunmin Image Pictures** y **Rough Draft Korea**. Burbank mandaba primero la versión en blanco y negro y, dos semanas después, la de color · [Wikipedia](https://en.wikipedia.org/wiki/Steven_Universe), que cita el artbook *Art & Origins* (pp. 197-202).
+- **Fondos**: primero en **acuarela superpuesta**; luego en **Photoshop**, porque la acuarela salía «demasiado tosca». **El color se deja un poco desalineado de la línea** a propósito: «las líneas son huesos descriptivos» (mismo artbook, pp. 174-175).
+- **La directora de arte Elle Michalka** cita a **Cézanne** (un foco que parece disperso y esconde detalle) y el ***Tao Te Ching*** (el valor del espacio vacío, «como el espacio dentro de un jarrón»).
+- **Diseño por formas (Bauhaus, Kandinsky)**: **Garnet = cuadrado, Amatista = esfera, Perla = cono**, según su carácter.
+- El desarrollo visual inicial fue del estudio **Chromosphere** (Kevin Dart) · [caso de estudio](https://chromosphere-la.com/case-study/steven/) · [Character Design References](https://characterdesignreferences.com/art-of-animation-1/art-of-steven-universe) · ✅ dos fuentes.
+
+**Película: 2D y 3D mezclados** ([Chromosphere](https://chromosphere-la.com/case-study/steven/)) · ✅
+- El libro que se abre al principio se armó **en After Effects**, no en un programa 3D.
+- **La gema que gira en el teaser se hizo en Blender**: muy reflectante, dentro de una esfera con patrones de color, luego transparente para ver a los personajes a través (`MOV` 0:04-0:12).
+- **El agua con grano**: herramienta *Shape* de After Effects, *Mesh Warp*, difuminado y **ruido en el canal alfa**.
+
+**Línea y sombra** (visto en las hojas de modelo) · ✅
+- Contorno grueso y limpio; más fino dentro. El grosor varía.
+- Sombra **plana**. Degradado sólo en gemas, luz y atardecer, hecho a pincel.
+
+**Encuadre y composición**
+- Fusiones y armas: **plano heroico** frontal, cuerpo entero, luz desde abajo o atrás · ⚠️ observación visual.
+- Los fondos dejan **espacio vacío** a propósito (el jarrón del *Tao Te Ching*): hay sitio para el texto de una lámina sin tapar nada.
+
+**Cómo replicarlo en Photoshop** (guía del redactor a partir de lo verificado)
+1. **Fondo** pintado con textura suave: pincel de grano fino o acuarela digital, encima Paper002 (punto 4).
+2. **Color plano** por zonas, en capa aparte de la línea.
+3. **Sombra plana**, un tono más oscuro y morado, en Multiplicar. Sin degradado salvo en gemas.
+4. **Brillos** puntuales en Superponer.
+5. **Línea**: pincel duro al 100 % con presión (grosor variable), y otro más fino para dentro.
+6. **Desalinea** el color de la línea en algún borde: es fiel al proceso, no un error.
+7. **Grano** final: ruido monocromo del 3 al 6 % en Superponer.
+
+**Cómo replicarlo en Blender**
+- **Contorno:** modificador **Solidify** invertido (normales hacia dentro, material negro) o **Freestyle** para afinar según la cámara. También vale **Line Art**.
+- **Sombreado:** nodo *Shader to RGB* con un *Color Ramp* de bordes duros (2 o 3 tonos). Nada de degradado suave salvo en gemas.
+- **Gemas:** material muy reflectante y transparente, como la gema del teaser (así lo hizo Chromosphere).
+- **Luz:** una luz de área grande y suave, más un relleno tenue del color contrario (frío con cálido). Render en **Eevee**. El grano se pone en *compositing* o en Photoshop, no en el *shader*.
+- **Mezclar 2D y 3D es fiel a la serie**: la película lo hizo.
+- **Modelos:** los CC BY del punto 3 (Big Donut, Garnet, Amatista). ⚠️ No hay modelo oficial libre ni *rig* comprobado.
+
+## Punto 19 · Texturas 2D
+
+- **Fondos pintados con grano**, no lisos; personajes en color plano. Estudio: Chromosphere; dirección de arte: Elle Michalka · ✅ dos fuentes (punto 18). La técnica: acuarela al principio y luego Photoshop ✅. ⚠️ «Gouache» no se confirmó.
+- **Papel de acuarela Paper002** (CC0, [AmbientCG](https://ambientcg.com/view?id=Paper002)) para el grano · ✅
+- **Tela Fabric038** (CC0, [AmbientCG](https://ambientcg.com/view?id=Fabric038)) para la ropa mate · ⚠️
+- **La estrella de cinco puntas amarilla**: el patrón que más se repite (camiseta de Steven, escudos, banderas del Templo). Se vectoriza a mano; icono limpio en la hoja n.º 260 (520×520) · ✅
+- **Rombos y diamantes**: en el top del debut de Garnet y en la arquitectura de Homeworld (hoja n.º 243, icono de Rubí) · ✅
+- **El símbolo de las Diamantes**: un rombo grande dividido en cuatro (punto 25). Sirve de sello o de marco.
+- **El logo**: letra redonda gruesa con una estrella por U (punto 5) · ⚠️ sin ficha oficial.
+- **Notas adhesivas y cuaderno de renglones rosas**: la textura de interfaz de *Unleash the Light* (punto 11). Útil para una lámina tipo «cuaderno».
+- **Lápiz de color**: los retratos del mismo juego (punto 11).
+- **No hay tramas de manga.** El cómic de KaBOOM! es de color plano, sin tramas: este punto no aplica tal cual.
+- ⚠️ **No se encontraron pinceles libres verificados**: ni pinceles filtrados del estudio ni un paquete de gouache con licencia clara (los que hay son de licencia dudosa y un enlace de itch.io dio 404). Las texturas CC0 de AmbientCG son la equivalencia segura.
+- Suelo de piedra, arena y más texturas: **biblia 64, puntos 4 y 19**.
+
+## Punto 20 · Gustos y detalles
+
+De la Trivia de cada ficha de la [wiki](https://steven-universe.fandom.com/wiki/Steven_Universe_(character)) · ⚠️ una fuente salvo donde se dice.
+
+| Personaje | Lo que le gusta, lo que odia, datos |
+|---|---|
+| **Steven** | Cumple el **15 de agosto** (Leo), como Steven Sugar, el hermano de Rebecca en quien se basa. **1,68 m y 65,8 kg a los 16 años**: el único con medidas canónicas. Toca **ukelele, guitarra, bajo, batería y piano**; tiene **oído absoluto**. Le encanta *Crying Breakfast Friends!* y cocinar (su pizza y sus papas fritas, mejores que las del pueblo). Odia los taparrabos. Alérgico al polen; se marea en los viajes. Siempre lleva su gema y, en la trama, la camiseta vieja de su papá. |
+| **Garnet** | **2,21 m** (dato de un post promocional de Cartoon Network con la NBA). Su música favorita: **las canciones de Estelle**, su actriz. No tiene cumpleaños: es una fusión permanente. |
+| **Perla** | **Colecciona espadas.** Odia comer (le da asco digerir), pero **disfruta haciendo té y horneando**. Según Matt Burnett, le gusta hacer un pay, no comérselo. **Organizar** es de sus aficiones favoritas. |
+| **Amatista** | Come cualquier cosa («le añadiría aceite de motor a la comida») y disfruta digiriendo. Alter ego: el **Puma Morado**. |
+| **Peridot** | Le gustan los clichés del **alienígena verde**: ropa con marcianitos, quiere un peluche de alien. Llama «clod» a quien no entiende algo. |
+| **Lapis** | Su instrumento es la **celesta** (Aivi & Surasshu). **Nunca usa zapatos**: tras milenios encerrada no «necesita» calzado (lo dijo el equipo en el pódcast oficial). |
+| **Connie** | Sus libros: la saga ficticia *The Spirit Morph Saga*. Ve con Steven *Under the Knife*, una sátira de series de médicos. Toca el violín. Odia el «ábaco de castigos» de sus padres. |
+| **Greg** | Su comida favorita, seguramente los perritos calientes. Le gustan los cómics de Richie Rich y Casper. **Es el personaje favorito de Rebecca Sugar.** |
+
+## Punto 21 · Por qué la aman
+
+**Razones concretas**
+- **Es cálida a propósito.** Rebecca Sugar: «Steven Universe is not a tragedy or a dark comedy, it will always be warm and sweet» (Inverse, 2016, citada en [TV Tropes, Heartwarming](https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/StevenUniverse)) · ✅
+- **Trata el trauma con terapia y familia**, no con otra pelea (*Future*) · ✅
+- **La representación**: la fusión y la boda de Rubí y Zafiro. Se estudia en libros académicos (punto 10) · ✅
+- **Premio Peabody** (2019): Rebecca Sugar y el reparto recogieron el premio · [foto oficial, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/15/Steven_Universe_-_78th_annual_Peabody_Awards_acceptance_speech.jpg) (CC BY-SA 3.0, 1600×900) · ✅
+- **Con quién se identifican:** con **Peridot**, por su arco de villana torpe a amiga leal (varios hilos de Reddit la nombran) · ⚠️
+
+**Las escenas que hacen llorar**
+| Escena | Qué pasa | Por qué duele | Música | Cómo está hecha | Reacción |
+|---|---|---|---|---|---|
+| **«It's Over, Isn't It»** (T3, «Mr. Greg») · `IOI` 0:00-2:38 | Perla imagina la boda de Rose y Greg, **vestida de esmoquin, con una rosa** | un duelo amoroso adulto en una serie para niños | la canción de Perla (Deedee Magno Hall) | mirada baja y hombros caídos (1:12); acaba con los **ojos muy abiertos y brillantes**, llorando (2:12) | la «que más rompe» del fandom · ✅ visto |
+| **El final de *Future*** («I Am My Monster», «The Future») | Steven llora abrazado por toda su familia tras un colapso | muestra la salud mental de frente: «pocas series presentan un colapso mental como algo que le pasa a mucha gente» | ⚠️ no anotada | **abrazo de todos**, hoja n.º 177; Connie llorando, n.º 178 | [hilo «the best scene from the finale»](https://www.reddit.com/r/stevenuniverse/comments/fq9wza/), 1090 votos, leído con [Arctic Shift](https://arctic-shift.photon-reddit.com) · ✅ |
+| **«Mr. Greg»** (T3, el primer capítulo todo cantado, 7 canciones) | envidia, esperanza y echar de menos | más maduro de lo normal en la franja infantil | siete canciones | — | favorito de los fans según [Wikipedia](https://en.wikipedia.org/wiki/Mr._Greg) · ⚠️ |
+
+**Las que hacen gritar de emoción**
+- **«Stronger Than You»** (`STY`): Garnet se revela fusión y gana cantando. **La escena con más vídeos de reacción** (punto 10). Luz blanca y verde, sin sombras (1:04); la cara de tres ojos (0:32).
+- **La aparición de Sardonyx** (`KYF` 1:10): la fusión más esperada de la primera mitad.
+
+**Las que hacen reír**
+- **Sugilite** avergonzando a Perla (`COA` 1:15-1:30) y la **carcajada de Amatista** (`COA` 1:10).

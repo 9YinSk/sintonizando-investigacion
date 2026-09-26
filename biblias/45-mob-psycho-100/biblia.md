@@ -1566,3 +1566,120 @@ Ekubo.ogg, 0:27) usa frases con voz oficial para comparar.
   CC BY-NC-ND ⚠️.
 
 ---
+
+## 25 · Obras parecidas y láminas vecinas
+
+### 25.1 La hermana de autor: *One Punch Man*
+
+- Las dos son de **ONE** (nacido en 1986 en Niigata). *Mob Psycho 100*
+  empezó en Ura Sunday en 2012, cuando ONE llevaba tres años con *One
+  Punch Man* como webcómic. Nick Creamer (ANN) dice que las ideas de Mob
+  «ya estaban» en *One Punch Man* ✅ (Wikipedia citando a ANN).
+- **La diferencia que importa**: en *One Punch Man* el manga lo dibuja
+  **Yusuke Murata**, con línea limpia y detallada; en *Mob Psycho 100*
+  **dibuja ONE**, tosco y simple. **No se ilustran igual** aunque
+  compartan humor. La biblia 35 usa Comic Neue y Anton; sirven, pero con
+  una línea más irregular (§19).
+- ONE y Murata ganaron el **Sugoi Japan Award 2016** ✅.
+- **Influencias de ONE**: no se encontró una entrevista donde las cite ⚠️.
+
+### 25.2 Parecidas según el público (recomendaciones de AniList)
+
+*One Punch Man* (5142 votos), *The Disastrous Life of Saiki K.* (891),
+*DAN DA DAN* (543), *Hunter x Hunter (2011)* (283), *Ranking of Kings*
+(272), *MASHLE* (235), *Jujutsu Kaisen* (211), *Hinamatsuri* (188),
+*JoJo: Diamond is Unbreakable* (149), *Scissor Seven* (71) ✅
+([AniList](https://anilist.co/anime/21507)).
+
+**Temas** (etiquetas de AniList): crecer, fantasía urbana, filosofía,
+fantasmas, comedia surrealista, discapacidad, exorcismo, acoso escolar,
+sectas.
+
+### 25.3 Las láminas vecinas del servidor (para no repetir)
+
+| Serie | Qué propone | Qué no repetir |
+|---|---|---|
+| 35 *One Punch Man* (mismo autor) | #en-directo, la tele de Saitama | el **marco de tele**: por eso aquí no se usa la pantalla de *Psychic Battle* |
+| 41 *Dandadan* | 📻 RADIO EN VIVO | también fantasmas y humor: no usar una radio |
+| 32 *Jujutsu Kaisen* | ➕ CREAR SALA y 🍟 General | también exorcismo: elegir otro canal |
+| 36 *Hunter x Hunter* | #castings | — |
+| 26 *Scooby-Doo* | **#dudas** (ya tiene lámina) | casos de fantasmas: la oficina de Reigen es otro sitio y otro tono |
+| 06 *Spy x Family* | **#presentaciones** (ya tiene lámina) | la cartela de Mob es blanca y seca; comparar con su lámina antes ⚠️ |
+
+**La idea propia de Mob Psycho 100** que no tiene ninguna otra lámina: la
+**tarjeta de emoción** y el **porcentaje**.
+
+---
+
+## 26 · El mundo, la historia por arcos y sus símbolos
+
+### 26.1 Las reglas en cinco líneas
+
+1. Mob tiene **telequinesis** desde que nació e intenta vivir normal.
+2. Lo que reprime se acumula en un **medidor de 0 a 100 %**; al llegar a
+   100 estalla con **la emoción que sienta**, sea rabia, gratitud,
+   tristeza o vergüenza ✅.
+3. Trabaja para **Reigen**, que **no tiene poderes**: el psíquico de
+   verdad es el ayudante ✅.
+4. Hay más **espers** por el mundo: unos en agencias rivales, otros en
+   bandas criminales.
+5. Todo pasa en **Seasoning City**, ciudad ficticia ✅.
+
+### 26.2 La historia por arcos
+
+Según la página «Story Arcs» de la
+[wiki](https://mob-psycho-100.fandom.com/wiki/Story_Arcs) (14 arcos) ✅:
+
+1. **Spring of Youth**: Reigen finge un exorcismo con «Salt Splash», no
+   funciona, llama a Mob; primer medidor en pantalla: **22 %**.
+2. **(LOL) Cult**: la secta de las sonrisas; **primera explosión al
+   100 %** (T1 ep. 3).
+3. **Teruki Hanazawa**: Mob contra Teru; **100 % Tristeza** (T1 ep. 5).
+4. **Big Cleanup** y **7th Division**: entra Claw; Reigen se enfrenta a
+   ella sin poderes (T1 ep. 12, «Don't Fight»).
+5. **Mob's Girlfriend** (mini), **Urban Legend**, **Keiji Mogami**.
+6. **Separate Ways**: Reigen, humillado en la tele; se separan y se
+   reconcilian.
+7. **World Domination**: Claw contra la ciudad; Serizawa cambia de bando.
+8. **Divine Tree**: el brócoli gigante; **muere Dimple** (T3 ep. 6).
+9. **Telepathy** (mini) y **???%**: Mob frente a todo lo que guardó.
+10. **Epílogo**.
+
+Qué escena cae en qué arco lo cruzó el equipo entre la wiki y los
+episodios vistos ⚠️ (sólo la T1 se vio entera en tres episodios).
+
+### 26.3 Grupos, emblemas y objetos
+
+- **霊とか相談所** (*Reitoka Sōdansho*), «oficina de consultas de
+  espíritus y esas cosas»: la de Reigen ✅. Hojas n.º 11 y 22.
+- **Claw** (爪, «Garra»): terroristas espers; el Boss **Toichiro Suzuki**;
+  debajo los **Ultimate 5** (5超), con Serizawa y su paraguas; luego los
+  **Scars** ✅. Emblema: una garra ([ClawLogo.png](https://static.wikia.nocookie.net/mob-psycho-100/images/7/77/ClawLogo.png)).
+- **Rising Sun Spiritual Union** (日輪霊能連合): la agencia rival, de Kirin
+  Jodo ✅.
+- **Club de Telepatía** (脳感電波部): de Tome; disuelto por jugar
+  videojuegos y comer en la sala, pero el **Club de Mejora Corporal**
+  (肉体改造部) les deja seguir allí ✅.
+- **Objetos**: la **sal** de Reigen, el **paraguas** de Serizawa, el
+  **brócoli** gigante, la **cuchara doblada** (figura oficial), el
+  **medidor de %**.
+
+### 26.4 Vocabulario que un fan reconoce al instante
+
+- **Mob**: «uno del montón» (*mob* = la gente anónima), no mafia ✅.
+- **Esper**: persona con poderes.
+- **100 %** y **???%**.
+- **Salt Splash** y **Curse Crush**: técnicas inventadas de Reigen ✅.
+- **Claw, Ultimate 5, Scars**.
+- **Shige-chan** y **Ricchan**: los apodos de Dimple.
+- **Maestro** (doblaje latino): así llama Mob a Reigen.
+
+### 26.5 Otras piezas de la misma franquicia
+
+Spin-off manga ***REIGEN*** (2018, app Manga ONE); película resumen
+*Mob Psycho 100 REIGEN ~Shirarezaru Kiseki Reinōryokusha~* (2018); OVA
+*The Spirits and Such Consultation Office's First Company Outing*
+(25-sep-2019); *Mob Psycho mini*; especial del 10.º aniversario ✅
+(AniList + TV Tropes).
+
+---

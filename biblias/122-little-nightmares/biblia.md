@@ -36,7 +36,7 @@ y lo que el redactor miró en las tres hojas de `hojas/`.
 - 25 · El mundo, la historia y sus símbolos
 - 3 conceptos de lámina
 - Cumplimiento del encargo
-- Bitácora de búsqueda
+- Bitácora
 
 Cómo citar las hojas: `hojas/arte_01.jpg` lleva los números #49-96,
 `hojas/colaboraciones_01.jpg` los #145-192 y `hojas/vestuario_01.jpg` los #433-480.
@@ -51,7 +51,7 @@ Cómo citar las hojas: `hojas/arte_01.jpg` lleva los números #49-96,
 - **Secundarios queridos:** los Nomes (la «mascota»), el Runaway Kid y Dime, la chica lámpara de 2026 ⚠️
 - **Cuadro de diálogo propio:** dentro del juego no hay ninguno. El formato oficial con letras es el **cuaderno de personaje** de la promo de LN2 (papel crema, boceto a lápiz, nombre en mayúsculas entre dos rayas) y la **cartela crema de borde ondulado** del cómic (punto 6) ✅
 - **Canal propuesto.** 🗺️ `guia` como principal: la saga va de orientarse en un sitio enorme y hostil. Alternativas: 📺 `que-estas-viendo` (los televisores de la Pale City) y 🎵 `canto` (la caja de música de la Dama). Ver «3 conceptos».
-- **Choque de canal (una línea):** Chainsaw Man y otras biblias también proponen `que-estas-viendo`, y varias mencionan `guia`. No bloquea nada.
+- **Choque de canal (una línea):** otras biblias (Chainsaw Man, K-On!, Rick and Morty…) también mencionan `que-estas-viendo`, y `guia` ya tiene láminas propias. No bloquea nada.
 - **Serie hermana:** no hay. *Reanimal* (encargo 123) es otra obra del mismo estudio original. No mezclar su estética con esta (punto 12).
 
 ## 1 · Arte oficial
@@ -162,7 +162,7 @@ Sólo como **referencia**. Nunca para pegar.
 **Fan art mejor valorado (Safebooru)**
 - Six, 2800×3300, 6 puntos, origen Pixiv 86185893 · https://safebooru.org/images/3195/cfaad5d6a9a5b0813cee33ebdc3fafed4d8cb9d2.png ⚠️ (Safebooru no guarda el nombre del artista, sólo el enlace de origen)
 - Recuento real de fan art por etiqueta en Danbooru · https://danbooru.donmai.us/posts?tags=six_%28little_nightmares%29 ✅
-- El redactor quitó de `referencias.json` 35 entradas que no eran de la saga (Link, VTubers, Danganronpa, My Little Pony): salían de etiquetas relacionadas.
+- El redactor quitó de `referencias.json` 35 entradas que no eran de la saga: 33 fan arts (Link, VTubers, Danganronpa), un modelo de My Little Pony y una foto de Flickr de 2009. Salían de etiquetas relacionadas.
 
 **Fotos reales con licencia libre**
 - 17 fotos de cosplay y *merch* de LN2 del usuario de Flickr Loyd✦, CC BY-NC 2.0 · https://live.staticflickr.com/65535/51682477669_2f947db7a4_b.jpg ✅
@@ -722,7 +722,7 @@ La saga no usa tramas de manga. Usa **superficies reales fotografiadas** con gra
 
 **Temas:** horror corporal, el miedo del niño al adulto («los adultos son a quien hay que temer»), la gula como monstruo, el muñeco y la marioneta que controla o es controlada.
 
-**Láminas del servidor que se le parecen:** ninguna hecha es de terror ni de muñecos. Choque de canal: `que-estas-viendo` lo propone también Chainsaw Man; no es problema. Para no repetir: nada de pantallas-interfaz sueltas (al dueño no le convencieron); sí objetos reales, como el disco de Bebop o la caja de Bocchi.
+**Láminas del servidor que se le parecen:** ninguna hecha es de terror ni de muñecos. Choque de canal: `que-estas-viendo` sale también en la biblia de Chainsaw Man; no es problema. Para no repetir: nada de pantallas-interfaz sueltas (al dueño no le convencieron); sí objetos reales, como el disco de Bebop o la caja de Bocchi.
 
 ## 25 · El mundo, la historia y sus símbolos
 
@@ -780,7 +780,7 @@ Tres ideas distintas: objeto, sitio, personaje y canal distintos. Las tres sigue
   - Debajo, en la pantalla: «Series, pelis, anime.» / «Lo que estás viendo y si lo recomiendas.»
   - La regla del *spoiler*, en una **tira de papel crema** pegada con cinta al marco de la tele (formato cuaderno, Caveat): «Con spoilers, marca el texto como spoiler.» Y en la pantalla, parte del texto **tapado por estática**: el *spoiler* hecho imagen.
 - **Cómo se evita que quede plano:** la tele es **la única luz** (`#F1F5EE` sobre `#131D26`), que recorta a Mono. Luz azul de lluvia por la ventana. Delante, desenfocadas, **las cabezas de dos Viewers** mirando la tele, o el cable de la antena. El Hombre Delgado, si sale, sólo como silueta quieta en la estática; nunca «recordando con rencor» (punto 12).
-- **Choque de canal:** Chainsaw Man también lo propone. No importa.
+- **Choque de canal:** sale también en la biblia de Chainsaw Man. No importa.
 
 ### Concepto 3 · «La caja de música de la Dama» · canal 🎵 `canto`
 
@@ -794,3 +794,137 @@ Tres ideas distintas: objeto, sitio, personaje y canal distintos. Las tres sigue
 - **Cómo se evita que quede plano:** una sola vela o bombilla cálida (`#EBE7C0`) en una sala casi negra (`#131416`, brillo 19 %). El brillo en el latón. El espejo abre un segundo fondo con la máscara. Delante, desenfocada, **una muñeca de la Dama** o un peine. La tira de papel cruza de delante atrás y da profundidad.
 - **Referencias:** fotogramas 17:40, 1:04:20 y 1:06:00 de LN1 · #459 (cara de la Dama) · #160 (boceto del reflejo) · `Six.png`.
 
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias o no existe (explicado) · ❌ no se buscó.
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial | ✅ | Renders, cuaderno de personaje (#447, abierto y leído), 20 promos de LN2, carteles con letra, portadas, concept. Los artbooks de pago no se abrieron ⚠️ |
+| 2 · Fotogramas con minuto | ✅ | 25 fotogramas de dos *longplays* (1080p y 4K) con minuto y zona, más tres tráilers. Falta *longplay* de LN3 ⚠️ |
+| 3 · Fan art y 3D con licencia | ✅ | 7 modelos de Sketchfab con licencia y autor, fan art de Safebooru, fotos CC de Flickr y Wikimedia, un cosplay técnico. Poly Haven no se miró; se usó ambientCG (CC0) |
+| 4 · Fondos y sitios | ✅ | 11 sitios con paleta medida, luz y textura real equivalente |
+| 5 · Tipografía | ⚠️ | Una letra libre por uso y tildes/ñ/¿¡ comprobadas en 8 letras. Pero la letra real del logo sólo tiene una fuente (con desacuerdo) y la del menú no se identificó |
+| 6 · Cómo hablan en pantalla | ✅ | Comprobado que no hay cuadros de diálogo; se documentan el cuaderno oficial, la cartela y el globo del cómic, las onomatopeyas y lo que no hay que hacer |
+| 7 · Popularidad | ✅ | No hay encuesta oficial (buscado en dos idiomas). Fan art medido en Danbooru y hilos de Reddit: Six primero; Nomes, Runaway Kid y Dime como secundarios |
+| 8 · Doblaje latino | ⚠️ | **No existe** y está comprobado: juego sin diálogo, Steam sin voces en español, Doblaje Wiki sin página. Voces originales documentadas; Low y Alone con una sola fuente |
+| 9 · Música y sonido | ✅ | Compositor, dos bandas sonoras con tema por zona, vinilo, sonidos reconocibles. No hay opening ni ending (instrumental) |
+| 10 · Vídeos | ✅ | Tráilers con minuto, *longplays*, análisis, entrevistas, TikTok. Algunos análisis sin metadatos ⚠️ |
+| 11 · Videojuegos | ⚠️ | Siete juegos con fecha y estudio; sin caja de diálogo ni HUD (comprobado). No se consiguió captura del menú ni de *Very Little Nightmares* |
+| 12 · Fandom y qué NO hacer | ✅ | Final de LN2, meme de la salchicha, Nomes, drama de Reanimal, teoría desmentida y lista de errores |
+| 13 · Personajes a fondo | ⚠️ | 14 personajes con carácter, arco y dinámicas. La cara casi nunca se ve: emociones por postura con minuto; rabia y vergüenza sin escena documentada |
+| 14 · Poses analizadas | ✅ | Six 8 fotogramas, Mono 6, Low y Alone 1, más poses de arte oficial, con su uso |
+| 15 · Vestuario | ✅ | Six y Mono medidos en render oficial; la ropa icónica (impermeable `#AA9C26`) clara. Dama, Chefs, Low y Alone sin hex fiable ⚠️ |
+| 16 · Fondos de pantalla | ✅ | 3 oficiales, fondos de videollamada, Wallhaven con tamaño, votos y autor |
+| 17 · Guía para IA | ✅ | Hecha por el redactor: rasgos fijos, escala, luz, paleta, palabras que ayudan y estropean, referencias, gestos y frases reales por emoción |
+| 18 · Estilo y técnica | ✅ | Motor, equipo, citas del staff, cómo está pintado, pasos para Photoshop y Blender, encuadres. No hay tutorial oficial ⚠️ |
+| 19 · Texturas 2D | ✅ | Texturas CC0 por material, emblemas, textura del cómic y papel del cuaderno medido |
+| 20 · Gustos y detalles | ⚠️ | Gustos, objetos y manías con fuente. Cumpleaños y alturas en cm: no encontrados |
+| 21 · Por qué la aman | ⚠️ | Razones, ventas, premios, la escena del final de LN2 con su música y luz. Falta el minuto exacto de la caída y vídeos de reacción medidos |
+| 22 · Fan dubs hispanos | ⚠️ | Un fandub medido (647 427 vistas); otros sin metadatos por bloqueo de YouTube; sin cifras de TikTok hispano. Covers de opening: no aplica |
+| 23 · Colaboraciones y figuras | ✅ | *Identity V* confirmado en tres fuentes, figuras Gecco, Monitor Tops, peluches, vinilo, camisetas. Descartados Fortnite y Brawl Stars. Un solo cosplay técnico ⚠️ |
+| 24 · Obras parecidas | ✅ | Influencias reconocidas por el estudio, comparaciones de prensa, juegos parecidos, láminas del servidor. TV Tropes dio 403 dos veces ⚠️ |
+| 25 · Mundo, historia y símbolos | ✅ | Cinco reglas, cinco arcos, símbolos y vocabulario |
+| 3 conceptos de lámina | ✅ | Cuaderno del Maw (`guia`), tele de la Pale City (`que-estas-viendo`), caja de música (`canto`) |
+| 40 fuentes distintas | ✅ | 54 webs distintas enlazadas en el cuerpo |
+| Tipos: oficiales | ✅ | Bandai Namco, Steam, Unreal, entrevistas a Mervik, Roussel, Lilja y Bergman |
+| Tipos: otros idiomas | ⚠️ | Inglés y español (Forbes México, Zonared). El estudio es sueco: no se buscó en sueco; Gecco (Japón) se leyó en su página en inglés |
+| Tipos: wikis, TV Tropes, TCRF, Wayback | ⚠️ | Fandom a fondo. TV Tropes 403 (dos intentos). Wayback bloqueado y 429 (dos intentos). The Cutting Room Floor ❌ no se consultó; lo más parecido son los archivos del juego citados en la wiki |
+| Tipos: foros | ✅ | Reddit por Arctic Shift, foros de dafont y de la wiki |
+| Tipos: arte | ⚠️ | Danbooru, Safebooru, DeviantArt, Wallhaven. Pixiv sólo como origen; ArtStation no se consultó |
+| Tipos: vídeo | ✅ | Internet Archive, Dailymotion, YouTube (metadatos), TikTok |
+| Tipos: código y recursos | ⚠️ | Sketchfab y ambientCG sí. GitHub ❌ no se buscó |
+| Tipos: doblaje latino | ✅ | Doblaje Wiki por su API (no hay página) y Steam (sin voces en español) |
+| Hojas | ✅ | 3 JPEG de menos de 1 MB en `hojas/` |
+| referencias.json | ✅ | 173 referencias (35 ajenas quitadas por el redactor) |
+
+## Bitácora
+
+### Bitácora de imagen
+
+- Español: no se buscó en español aparte (la wiki y casi toda la prensa de Little Nightmares es en inglés;
+  se comprobó que no hay wiki de Fandom en español para esta serie).
+- Inglés (WebSearch, ~10 consultas): `Little Nightmares collaboration crossover official event` ·
+  `"Little Nightmares" Identity V crossover` · `Little Nightmares Six Gecco statue figure official` ·
+  `Little Nightmares First4Figures OR Numskull OR Funko figure official` · `Little Nightmares cosplay Six
+  best costume` · `Little Nightmares cosplay Six worldcosplay OR deviantart handmade raincoat` ·
+  `Little Nightmares official wallpapers press kit site:bandainamcoent.com OR presskit` · `Little Nightmares
+  artbook "The Art of Little Nightmares" concept art book` · `Little Nightmares II Mono trench coat color
+  khaki concept art hex` · `"Little Nightmares" Fortnite OR Brawl Stars OR Dead by Daylight collaboration` ·
+  `"Little Nightmares" Brawl Stars official collaboration Supercell skin` · `"Little Nightmares" Fortnite
+  official skin Epic Games item shop` · `"Little Nightmares" vinyl soundtrack iam8bit "Music Box Collection"`
+  · `Little Nightmares Gecco Mono figure OR "The Guests" mini figure collection` · `"Very Little Nightmares"
+  Six white shirt shorts mobile spin-off screenshot`.
+- Directo (sin buscador, con curl/Python): API de Fandom (`littlenightmares.fandom.com/api.php`) para
+  `imageinfo` y `srsearch=collaboration` / `srsearch=merchandise` (encontró la novela *The Lonely Ones*, que
+  no estaba en `datos-imagen.md`); wikitext de "The Lonely Ones"; API de ambientCG (`type=Material&q=…`)
+  para rubber/wood/metal/paper/fabric/leather; `herramientas/estilo.py` sobre 9 imágenes oficiales para los
+  hex del punto 15; ZBrushCentral (WebFetch) para comprobar que el sculpt de Mono de "Lucas_Andrade1" es fan
+  art, no oficial.
+- Fuentes consultadas (ver URLs en cada punto de arriba): littlenightmares.fandom.com (wiki + API), Danbooru,
+  Safebooru, Wallhaven, Sketchfab, Openverse/Flickr, Wikimedia Commons, Sideshow Collectibles, gecco.co.jp,
+  Tokyo Otaku Mode, VGMdb, store.bandainamcoent.eu/.com, Siliconera, Bleeding Cool, X/Twitter (@LittleNights),
+  DeviantArt, ambientcg.com, YouTube (vídeo del artbook), ZBrushCentral.
+- Hojas de contacto usadas (11, ya hechas por `recolectar.py`/`investigar_serie.py`, en
+  `herramientas/referencias/little-nightmares/`): se miraron las 11 completas con Read antes de escribir esta
+  parte.
+
+### Bitácora de video
+
+- Español: "Little Nightmares sin diálogos diseño de sonido entrevista Tarsier Studios" (WebSearch) →
+  Forbes México, Zonared, confirmredes de "sin diálogos".
+- Inglés: "Tobias Lilja interview Little Nightmares soundtrack composer" (WebSearch) → thesoundarchitect.
+  co.uk, podcast Composing Fear, entrevista de audio de LN2, vídeo de Tarsier en Facebook.
+- Inglés: "Little Nightmares TikTok trend viral video" (WebSearch) → tiktok.com/tag/littlenightmares,
+  ejemplos de trend de animación y "Sinking Town Trend".
+- Inglés: "\"Little Nightmares\" analysis video essay YouTube design breakdown" (WebSearch) → GameLogic,
+  video ensayos varios, Game Dev Unchained (narrative design).
+- Fandom API (`action=parse&prop=wikitext`, con `curl -A "Mozilla/5.0"` porque sin cabecera User-Agent da
+  403): The Prison, The Lair, The Kitchen, The Guest Area, The Lady's Quarters, The Wilderness, The
+  School, The Hospital, The Pale City, The Transmission, Little Nightmares III (video game) — para
+  confirmar nombre y orden real de cada zona.
+- Fandom API `action=opensearch`: para resolver nombres exactos de página (The Lair, The Kitchen, etc.)
+  antes de pedir el wikitext.
+- MusicBrainz API (`ws/2/release-group`, `ws/2/release`): listas de pistas completas de los OST de LN1 y
+  LN2 (ya venían los release-group en `datos-video.md`, sólo faltaba entrar a la lista de pistas).
+- `yt-dlp -F`/`-j` sobre 12 vídeos de Dailymotion (de `datos-video.md`) para comprobar resolución real
+  disponible antes de descargar nada.
+- `yt-dlp -g`/`ffprobe`/`ffmpeg -ss … -i <url>` directamente sobre los dos ficheros mp4 de Internet
+  Archive (sin pasar por `fotogramas.py`, que habría bajado 11-33 GB): 35+ fotogramas de exploración a baja
+  resolución (320px) para ubicar capítulos, más 24 fotogramas a 1280px/1920px para las citas de arriba.
+  Sin esta técnica no habría sido posible cumplir el "1080p o más" del punto 2 sin descargar los vídeos
+  enteros.
+- `herramientas/estilo.py` sobre 13 fotogramas propios (LN1 ×4, LN2 ×6, LN3 ×3) para los hex y el tipo de
+  sombreado del punto 4.
+- `tesseract` sobre 2 fotogramas de créditos propios (LN1) para intentar leer nombres del equipo de audio
+  (resultado parcial, ver "No encontré").
+- Vídeos mirados enteros o por fotogramas con Read antes de describir cualquier escena: tráiler LN1 (32
+  fotogramas), tráiler LN2 (27 fotogramas), tráiler LN3 (23 fotogramas + 4 en grande), longplay LN1 (35
+  fotogramas de exploración + 9 en 1280px), longplay LN2 (26 fotogramas de exploración + 10 en 1280px).
+
+Parte completa: los 5 puntos asignados (2, 4, 9, 10, 14) están cubiertos con lo obligatorio de cada uno.
+No dejo línea "Sigue".
+
+### Bitácora de voz
+
+- Fandom `littlenightmares.fandom.com`: categoría completa de personajes (`Category:Characters`, ~150 páginas listadas) vía API `list=categorymembers` · wikitext completo (`action=parse&prop=wikitext`) de Six, Mono, The Runaway Kid, Low, Alone, The Lady, The Janitor, The Twin Chefs, The Hunter, The Thin Man, Nomes, The Teacher, The Doctor, Dime, The Sounds of Nightmares (audio-ficción oficial) — inglés.
+- Fandom, búsqueda de texto (`list=search&srwhat=text`): `voice actor`, `"voiced by"`, `Credits` — inglés, para localizar créditos de voz/vocalización de cada personaje.
+- Doblaje Wiki (`doblaje.fandom.com/es`): comprobación directa de título con `action=query&titles=` en seis variantes de "Little Nightmares" — todas `missing` (confirma que no hay doblaje latino, ya visto en `datos-voz.md`) — español.
+- Danbooru: conteo real de posts por personaje (`counts/posts.json?tags=`) para Six, Mono, la Lady, el Cazador, el Runaway Kid, Low, Alone, Nomes, el Conserje — medido, no de memoria.
+- Arctic Shift (Reddit r/LittleNightmares): búsquedas de texto `favorite character`, `BEST FEMALE CHARACTER`, `Dime favorite`, `top 5 favorite residents`, `made me cry`, `identify relate` — inglés.
+- `herramientas/voz.py` sobre un tráiler oficial de Dailymotion (Vidaextra, `x81lc28`) — confirma 0 palabras transcritas pese a 22.3 s de voz detectada (tono medio 152 Hz, muy expresivo, 33.2 semitonos): evidencia técnica adicional de que la saga no tiene diálogo hablado, sólo vocalización/música.
+- `yt-dlp --skip-download --print` para metadatos de vídeos de YouTube sin necesidad de iniciar sesión (título, canal, vistas, duración): funcionó para 2 de 5 intentos; los otros 3 dieron "Sign in to confirm you're not a bot" (no se insistió más de dos veces por vídeo, según la regla del equipo).
+- WebSearch (inglés y español, ~14 búsquedas de las ~50 disponibles para este rol): popularidad oficial/de fans, premios (BAFTA/D.I.C.E./NAVGTR/Golden Joystick), ventas de la saga (12 millones), reseñas sobre atmósfera y sonido, final de LN2 y reacción de jugadores, Reanimal y la reacción del fandom al cambio de estudio, memes de Six comiéndose al Nome, fandubs en español, cosplay hispano, gameplays en español (Fernanfloo).
+- No se repitieron las consultas ya hechas por `recolectar.py` en `datos-voz.md` (personalidad de Six/Mono/Janitor/Lady, Danbooru genérico, Dailymotion, Reddit "favorite character"/"best scene"/"iconic").
+
+### Bitácora de texto
+
+_pendiente_
+
+### Bitácora del redactor
+
+- La bitácora de texto quedó _pendiente_ en su parte. Del cuerpo de `texto.md` se ven sus búsquedas: foros de dafont (logo y promo), fontTools sobre Amatic SC, API de Fandom (`srsearch=onomatopoeia`, `scream bubble OR thought bubble`, `allimages` con «Menu»), capturas de Steam, entrevistas (Unreal, JetBrains, GamingBolt, Eurogamer, Xbox Wire, Hollywood Reporter) y TV Tropes (403 dos veces).
+- El redactor miró las tres hojas enteras, abrió y leyó dos promos de LN2 (#447 cuaderno de Mono, #448 manual del Cazador) y midió su paleta con `estilo.py`. Comprobó por petición HEAD más de 20 URL de la wiki de imágenes de las hojas (las que dieron 404 no se citan).
+- Comprobó con fontTools, desde Google Fonts, que Amatic SC, Oswald, Bebas Neue, Caveat, Permanent Marker, Special Elite, Nunito Sans y Work Sans traen ñ, tildes, ü, ¿ y ¡.
+- Correcciones a las partes: el concept de LN3 es la miniatura #456 (no #464); el vinilo es #157 y las camisetas #158 y #161 (no #156 y #157); las onomatopeyas sí existen en el cómic («SKREEK», «KAKKK»).
+- Quitó de `referencias.json` 35 entradas ajenas a la saga (33 fan arts, un modelo 3D y una foto).
