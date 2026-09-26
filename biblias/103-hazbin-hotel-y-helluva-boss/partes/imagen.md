@@ -150,3 +150,99 @@ la lámina — sirven de referencia de diseño):
 (la mayoría de packs de halftone «gratis» en Gumroad/Brusheezy no aclaran licencia reusable, sólo «uso
 personal»); los sustituí por CC0 confirmado de ambientCG/Poly Haven/Openverse arriba. Búsquedas: «free
 halftone screentone brush pack CC0» (web, en inglés).
+
+## 23 · Colaboraciones, cruces, figuras oficiales y cosplay
+
+**Cafés temáticos oficiales en Japón** (colaboración real, con arte y pose nuevos por evento):
+- «Hazbin Hotel × Animate Café», Tokio (Ikebukuro) y Osaka (Nipponbashi), 8 octubre – 2 diciembre 2025: menú
+  temático y 17 posavasos coleccionables al azar por pedido · essential-japan.com · ✅ (recogido también en el
+  cartel oficial de la wiki, ver abajo) · —
+- Cartel/anuncio oficial del pop-up de Ikebukuro (arte exclusivo del evento, no reciclado de la serie) ·
+  hazbinhotel.fandom (File:Ikebukuro Pop Up 2025 Ad.png) · https://static.wikia.nocookie.net/hazbinhotel/images/c/cf/Ikebukuro_Pop_Up_2025_Ad.png · ✅ · 1400×1981
+- «Helluva Boss × Hazbin Hotel × Smile Base Café», gira 2026: Nagoya (1-8 abr y 18-29 abr), Shinsaibashi
+  (2-13 may), Ikebukuro (23 may-4 jun) · essential-japan.com, x.com/smilebasecafe · ✅ (dos fuentes) · —
+- Figuras YouTooz (vinilo, oficiales) llegando a tiendas japonesas, anunciado por la cuenta oficial
+  @HELLAVERSE · x.com/HELLAVERSE (1949845490490593432) · ⚠️ (una fuente, cuenta oficial pero un solo tuit) · —
+
+**Merchandising oficial** (tienda propia y Hot Topic): pósters, playmats, figuras, peluches, standees, parches
+y pines — listado completo en la página «Official Merchandise» de ambas wikis (comparten contenido) ·
+hazbinhotel.fandom / helluvaboss.fandom, página «Official Merchandise» · ✅ (misma página en ambas wikis) · —
+
+**No hay colaboración confirmada con videojuegos o marcas grandes** (Fortnite, gachas): sólo circula un rumor
+de abril de 2024 marcado como broma de April Fools (@MisssCaitlyn en X) y especulación de TikTok sin fuente
+oficial. Lo dejo en «No encontré», no lo doy por hecho.
+
+**Cosplay real, con licencia CC BY (Wikimedia Commons, vía Openverse)**: fotos del encuentro de cosplay de
+Hazbin Hotel en la convención Animate! Miami 2025, tomadas por «Super Festivals»:
+- 10 fotos distintas del mismo evento, 6048×4032 a 4128×6192, licencia CC BY 2.0 · Wikimedia Commons ·
+  https://upload.wikimedia.org/wikipedia/commons/3/34/Hazbin_Hotel_Cosplay_Meet_Up_-_Animate%21_Miami_2025_3.jpg
+  (y las 9 restantes con el mismo patrón de nombre, `_1` a `_11`) · ✅ (mismo evento, misma fuente pero
+  fotógrafo verificado y licencia explícita) · 6048×4032 aprox.
+
+**Crossover propio de Vivziepop** (no es marca externa, pero es un cruce que la autora hizo a propósito, vale
+para «poses nuevas» del punto 1): Vaggie vestida de Sally y Charlie de Jack Skellington (Nightmare Before
+Christmas), arte de Halloween 2018 · hazbinhotel.fandom (File:Vaggie as Sally × Charlie as Jack
+Skellington.png) · https://static.wikia.nocookie.net/hazbinhotel/images/e/ea/Vaggie_as_Sally_%C3%97_Charlie_as_Jack_Skellington.png · ⚠️ (una fuente) · 1802×1578
+
+## Hojas de contacto elegidas (en `hojas/`)
+
+- `personajes_hazbin_01.jpg` — 96 imágenes de Charlie, Alastor, Angel Dust y Vaggie (renders oficiales,
+  turnarounds, fan art acreditado). Sirve para elegir pose y outfit de cada uno.
+- `personajes_helluva_01.jpg` — 48 imágenes de Stolas, los imps disfrazados (turnaround de modelo) y el logo
+  de I.M.P sobre trama de puntos (n.25, referencia directa para el punto 19).
+- `sitios_hazbin_01.jpg` — escenas con fondos variados: letrero de neón «Devil's Red Room», el club nocturno,
+  telarañas de neón rosa, el pasillo del hotel; sirve para paleta y luz de interiores.
+
+## Lo mejor para la lámina
+
+- El letrero de neón «HAZBIN HOTEL» (marquesina roja años 30, patrón art déco triangular) es el objeto real
+  más fuerte: se puede modelar en Blender y encender con luz real.
+- Alastor con su bastón-micrófono de radio antigua es la imagen que más pide el encargo («radio demoníaca»):
+  hay un modelo CC0 casi idéntico en Poly Haven (`vintage_radio_transceiver`).
+- El logo de I.M.P (círculo rojo + trama de puntos + letras a pincel) ya resuelve solo la textura del punto 19
+  y puede ir de fondo de un cuadro de diálogo sin inventar nada.
+- Angel Dust con el arnés de corazones rosa (n.40, ref sheet oficial) es la pose «viva» más reconocible fuera
+  de la ropa de piloto de Charlie.
+- Loona con su chaqueta roja sobre pelaje lavanda (paleta medida arriba) da color de contraste frío/cálido
+  fuerte si se combina con el hotel (rojos) en una lámina de dos series.
+
+## No encontré
+
+- Portadas oficiales de Blu-ray o single de la banda sonora fuera de la wiki: la serie es de streaming
+  (Prime Video), no hay ediciones físicas confirmadas con arte propio. Búsqueda: «Hazbin Hotel Blu-ray cover»
+  (web, inglés) — sin resultado oficial.
+- Colaboración confirmada con un videojuego grande o marca (Fortnite, gacha): sólo rumor de April Fools 2024.
+  Búsqueda: «Hazbin Hotel official collaboration Fortnite OR game OR brand crossover 2025» (web, inglés).
+- Pinceles o tramas de manga con licencia libre hechos específicamente al estilo de la serie: no es una obra
+  de manga, así que no hay screentones propios; usé CC0 genérico equivalente (ambientCG, Poly Haven, halftone
+  de Openverse). Búsqueda: «free halftone screentone brush pack CC0 procreate clip studio» (web, inglés).
+- Arte de Pixiv/ArtStation de artistas del staff en directo (no abrí esas webs por cupo de búsquedas): la vía
+  indirecta —créditos de fan art republicados en Fandom— cubrió lo esencial.
+- Modelos 3D de Poly Haven CON la marca de la serie: Poly Haven es un banco genérico CC0, no tiene assets con
+  IP de terceros; usé objetos genéricos que encajan (radio vintage, candelabro, televisores de tubo).
+
+## Bitácora
+
+- Fandom API: `hazbinhotel.fandom.com/api.php` y `helluvaboss.fandom.com/api.php` (ambas activas, comprobado
+  con `list=search`; `datos-imagen.md` decía que no había wiki puesta — sí la hay, con estos dos subdominios).
+- `python3 herramientas/investigar_serie.py --wiki hazbinhotel --paginas "Charlie Morningstar" "Alastor"
+  "Angel Dust" "Vaggie" "Hazbin Hotel"`: se cortó a los 600 s (timeout) con 666 imágenes ya bajadas en 13
+  hojas (`herramientas/referencias/hazbin-hotel/`); no llegó a procesar del todo la página general «Hazbin
+  Hotel», así que sus fondos y objetos se buscaron aparte con la API (`generator=images`).
+- `python3 herramientas/investigar_serie.py --wiki helluvaboss --paginas "Blitzo" "Loona" "Moxxie" "Millie"
+  "Stolas" "I.M.P"`: 4 hojas, 192 imágenes (`herramientas/referencias/helluva-boss/`).
+- API de Fandom directa (`generator=images`, `prop=pageimages`) para las páginas de sitio: «Hazbin Hotel
+  (location)», «Pentagram City», «Cannibal Town».
+- `herramientas/estilo.py --colores` sobre 11 imágenes descargadas (personajes y sitios) para los hex de los
+  puntos 15 y 16.
+- Sketchfab API (`api.sketchfab.com/v3/search`, `q=hazbin hotel` / `q=helluva boss`, `downloadable=true`):
+  todos los modelos con licencia CC Attribution o CC Attribution-NonCommercial (señalado donde aplica).
+- Poly Haven API (`api.polyhaven.com/assets`) y ambientCG API (`ambientcg.com/api/v2/full_json`): sólo assets
+  CC0, sin marca de la serie (genéricos que encajan con la estética).
+- Openverse API (`api.openverse.org/v1/images`): cosplay con licencia CC BY (Wikimedia Commons) y una textura
+  halftone CC0.
+- Wallhaven API (`wallhaven.cc/api/v1/search`, `q=hazbin+hotel` / `q=helluva+boss`, `sorting=favorites`).
+- Búsquedas web (inglés): «Hazbin Hotel official collaboration Fortnite OR game OR brand crossover 2025»,
+  «free halftone screentone brush pack CC0 procreate clip studio», «Hazbin Hotel Helluva Boss official pop-up
+  cafe collaboration event Japan 2025».
+- No usé git ni toqué `biblia.md`; sólo escribí en `partes/imagen.md`, `partes/imagen.json` y `hojas/`.

@@ -123,13 +123,13 @@ alta son de fans en Wallhaven, con origen a Pixiv/DeviantArt cuando lo dan.
 
 **Fondos de pantalla de fans en alta (Wallhaven, sólo aptos, 1920×1080+)**:
 
-| Resolución | ♥ | Enlace | Personaje/escena | Origen/autor |
-|---|---|---|---|---|
-| 4096×2542 | 215 | https://w.wallhaven.cc/full/73/wallhaven-7312je.jpg | Crossover *Isekai Quartet* (Aqua + otros isekai) | twitter.com/isekai_quartet |
-| 2793×4000 | 192 | https://w.wallhaven.cc/full/l3/wallhaven-l3g8w2.jpg | Darkness con kimono | deviantart.com/zarory "Kimono Darkness" |
-| 3440×1440 | 172 | https://w.wallhaven.cc/full/1p/wallhaven-1pzkk3.png | Crossover con *Frieren* y *Delicious in Dungeon* (ultra-panorámico) | pixiv.net/artworks/121786919 |
-| 1920×1080 | 453 | https://w.wallhaven.cc/full/k9/wallhaven-k9l3jd.png | Megumin, bruja, el más guardado de todos | wall.alphacoders.com |
-| 2339×3508 | 273 | https://w.wallhaven.cc/full/r2/wallhaven-r2xxvw.jpg | Megumin, formato vertical (sirve para móvil) | pixiv.net/en/artworks/79735954 |
+| Resolución | ♥ | Enlace | Personaje/escena | Subido por (Wallhaven) | Origen |
+|---|---|---|---|---|---|
+| 4096×2542 | 215 | https://w.wallhaven.cc/full/73/wallhaven-7312je.jpg | Crossover *Isekai Quartet* (Aqua + otros isekai) | Dokkar | twitter.com/isekai_quartet |
+| 2793×4000 | 192 | https://w.wallhaven.cc/full/l3/wallhaven-l3g8w2.jpg | Darkness con kimono | ThorRagnarok | deviantart.com/zarory "Kimono Darkness" |
+| 3440×1440 | 172 | https://w.wallhaven.cc/full/1p/wallhaven-1pzkk3.png | Crossover con *Frieren* y *Delicious in Dungeon* (ultra-panorámico) | Owl279 | pixiv.net/artworks/121786919 |
+| 1920×1080 | 453 | https://w.wallhaven.cc/full/k9/wallhaven-k9l3jd.png | Megumin, bruja, el más guardado de todos | Jeko98 | wall.alphacoders.com |
+| 2339×3508 | 273 | https://w.wallhaven.cc/full/r2/wallhaven-r2xxvw.jpg | Megumin, formato vertical (sirve para móvil) | ThorRagnarok | pixiv.net/en/artworks/79735954 |
 
 ✅ (Wallhaven, tamaños y corazones tomados directo de la API; todas confirmadas
 "sólo aptas"/SFW). Lista completa de 15 en `datos-imagen.md` e `imagen.json`.

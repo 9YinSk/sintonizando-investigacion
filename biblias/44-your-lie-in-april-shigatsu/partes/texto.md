@@ -470,4 +470,10 @@ sección «スペシャル» — no traducidas antes a español):**
   bajar del repo, no crítico: no se usó como recomendación final.)
 - Fuentes que fallaron sin insistir más de dos intentos: `tcrf.net` directo
   (Cloudflare); Wikipedia `pageimages` API (sin respuesta útil, se resolvió
-  extrayendo el `<img>` del HTML de la página en su lugar).
+  extrayendo el `<img>` del HTML de la página en su lugar); Wayback Machine
+  (`web.archive.org/cdx/search/cdx`) — el túnel del proxy se cerró a medio
+  intercambio en dos intentos (`ws_closed_mid_exchange`, ver
+  `__agentproxy/status`), parece un fallo transitorio del lado de Internet
+  Archive en este momento, no del proxy. No hizo falta insistir más: ninguno
+  de mis puntos tenía una página borrada específica que recuperar (no hay
+  videojuego ni sitio de franquicia desaparecido que rastrear).

@@ -19,9 +19,19 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
 - Cambio de cuenta (25-sep, 06:55 UTC, cuenta cuenta I50): herramientas instaladas; guardar.sh cada 300 s.
   59: revisar.py la da COMPLETA → subida. 60: 4 partes sin `Sigue:` obligatorio → redactor (Opus).
 - 63 K-pop: **COMPLETA** y subida (2026-09-26 00:02 UTC). ✅24 ⚠️13 ❌0, 186 referencias, 76 webs, 1974 líneas.
+- 62 Intensamente: **COMPLETA** y subida (2026-09-26 01:15 UTC). ✅22 ⚠️8 ❌0, 99 referencias, 64 webs, 797 líneas.
 
 ## Avisos para el dueño
 
+- **62 Intensamente**: más querido, Bing Bong (luego Tristeza y Alegría; en la de 2024, Ansiedad; ranking de un solo medio).
+  Cuadro de diálogo: placa de plástico biselada del color de la emoción (Baloo 2 / Fredoka). Láminas: A #reto-de-la-semana
+  la consola del Cuartel General con Alegría y Furia; B #demos la estantería de esferas con Bing Bong y Tristeza; C #castings
+  claqueta en Producciones de los Sueños con Ansiedad (la claqueta la propone el redactor, no sale en las partes).
+  - Voz latina de Ansiedad: seis periódicos dicen Nayeli Mendoza; Doblaje Wiki y la actriz en TikTok, María José Guerrero (se usó esta).
+  - Ennui en latino: «Aburrimiento» (Doblaje Wiki) o «Hastío»: confirmar oyendo la película.
+  - Tráiler doblado 1, min 1:50, «No puedes enfocarte en lo malo…»: ¿Tristeza o Alegría? Oírla.
+  - Falta una frase triste oída en audio latino («Llévala a la Luna de mi parte» sin oír).
+  - Sin película completa ni 1080p; Ansiedad (3 poses) y Desagrado (4) bajo las 6 pedidas.
 - **57 Coco**: más querido, Héctor (sólo por indicios ⚠️: no hay encuesta; fan art, Sketchfab y
   Kingdom Hearts IV); el corazón es Mamá Coco con «Recuérdame» (1:29:40-1:33:13). Cuadro de diálogo:
   marco rojo y dorado con borde de papel picado (el de Kingdom Hearts IV), nombre en Alfa Slab One,
@@ -133,3 +143,4 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
 | 60 | redactor (puntos 18-25 y cierre) | Opus | — | sin medir (aviso de fin no trajo tokens) |
 | 63 | equipo completo | Sonnet + Opus | — | — |
 | 64 | equipo completo | Sonnet + Opus | — | — |
+| 62 | redactor | Opus | 13 | 232 mil |

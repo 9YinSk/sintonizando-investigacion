@@ -141,6 +141,14 @@ Política de ambientCG: todo su catálogo es CC0 (dominio público), confirmado 
 - **Bricks097** (piedra/mampostería) — para castillo de Hyrule, templos · CC0 · https://ambientcg.com/view?id=Bricks097 · ✅
 - **Paper006** (papel/pergamino) — para mapas y el Sheikah Slate estilo pergamino, cartelas · CC0 · https://ambientcg.com/view?id=Paper006 · ✅
 
+### Pinceladas (el arte pintado tipo BotW/TotK es gouache/acuarela digital)
+
+`estilo.py` marcó el arte de BotW/TotK/ALBW como «sombreado degradado / pintado»
+(ver puntos 1 y 15): son pinceladas visibles tipo gouache, no cel plano.
+
+- **Free 33 Acrylic and Gouache Brushes for Photoshop** — pinceladas con textura real de gouache/acrílico, licencia gratuita · https://resourceflix.com/product/free-33-acrylic-and-gouache-brushes-for-photoshop/ · ⚠️ (una fuente)
+- **Brusheezy — Gouache** (2178 pinceles marcados Creative Commons/open source) · https://www.brusheezy.com/free/photoshop-gouache · ⚠️ (una fuente, licencia varía por pincel: revisar cada uno antes de usar)
+
 ### Emblemas y logos (referencia de trazo, NO para redistribuir como oficial)
 
 - Trifuerza (triángulo dorado, el símbolo más reconocible de toda la saga) · vista repetida en el arte oficial: hoja `personajes_02.jpg` nº 66, 71, 76, `objetos_01.jpg` nº 96 · ✅

@@ -2058,9 +2058,16 @@ Anno.
 ## 19 · Tres conceptos para la lámina de #demos
 
 Los tres usan los textos de §0. Las frases entre comillas de la serie son
-**traducción mía del subtítulo japonés**, no del doblaje latino (no las
-encontré con fuente; ver §10.3). Recortes siempre por `v3/integrar.py` y
-comprobados a 1:1.
+**traducción mía del subtítulo japonés**, salvo las marcadas «latino»,
+que se oyeron en el doblaje (§10.3). Recortes siempre por `v3/integrar.py`
+y comprobados a 1:1.
+
+**Qué cambió en la segunda pasada**: el concepto A gana su **cabecera
+real** (el rótulo de la prueba de sincronía de Kaworu, hoja 3 nº 99) y su
+**tarjeta real** (hoja 2 nº 71); las poses de Misato y Kaworu están ya
+vistas en fotograma; los modelos 3D tienen licencia comprobada; y hay una
+alternativa en latino para el concepto C. La idea de cada concepto no
+cambia.
 
 ### Concepto A — «La ficha del Instituto Marduk» (el objeto del plan, mejorado)
 
@@ -2074,15 +2081,31 @@ comprobados a 1:1.
   Papel: [ambientCG Paper 001](https://ambientcg.com/view?id=Paper001).
   En la tapa, el **logo de NERV** (hoja de higuera + «God's in his heaven,
   all's right with the world.», §7.1).
-  Referencias de `referencias.json` (por su posición en la lista): 10 (logo),
-  11 y 12 (tarjetas), 16 (tablilla), 20 (papel), 1 (subtítulos con minuto).
+  Referencias: [logo de NERV (EvaWiki)](https://wiki.evageeks.org/Nerv_Logo),
+  [tarjetas de piloto de reventa](https://paypayfleamarket.yahoo.co.jp/item/z62064902),
+  la **tarjeta «VIP:ID» de Shinji en la mano** (hoja
+  `vestuario_pantallazos_02.jpg`, nº 71), la tablilla (**CC BY, crédito a
+  cookiepop**), el papel `Paper001` de ambientCG (CC0) y los
+  [subtítulos con minuto](https://github.com/Ajatt-Tools/kitsunekko-mirror/tree/main/subtitles/anime_tv/Shin%20Seiki%20Evangelion).
+- **La cabecera de la hoja, copiada de la serie** (segunda pasada): el
+  rótulo naranja de la prueba de Kaworu, **«TEST PLUG-02 · HARMONICS TEST
+  PROCEEDING · LIVE»** arriba y **«SUBJECT : FIFTH C.»** con el nombre
+  abajo (hoja `settei_figuras_03.jpg`, nº 99). En la ficha: **«DEMO-01 ·
+  VOICE TEST PROCEEDING · LIVE»** y **«SUBJECT : [tu nombre]»**, en
+  naranja NERV sobre una franja negra. Así la hoja habla como la serie.
+- **Luz y color medidos**: el verde de la jaula y de la cápsula (`#3D4D2E`,
+  `#559671`, §5.2) en los cristales del fondo; la chaqueta de Misato
+  `#E02824`; el naranja de pantalla `#FF9830` ⚠️ (de fans).
 - **Por qué este objeto**: en la serie **las fichas se leen en voz alta**
   (Rei, ep. 5, 00:04:25; Kaworu, ep. 24, 00:05:58) y **los papeles
   oficiales llegan al día siguiente** (ep. 17, 00:08:22). Es exactamente un
   hilo de #demos.
-- **Personaje**: **Misato**, la que explica. Pose: **tender el folleto**
-  (ep. 1, 00:10:16) o **leer la ficha** mirando de reojo (ep. 24, 00:05:58).
-  Ropa: **chaqueta roja** y cruz (§16).
+- **Personaje**: **Misato**, la que explica. Pose: **quitarse las gafas de
+  sol de un tirón con media sonrisa** ([ep. 1, 6:20, visto ✅](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=380))
+  para presentar el canal, o **leer la ficha** mirando de reojo (ep. 24,
+  00:05:58 ⚠️ sin ver). Ojo: el «tender el folleto» (ep. 1, 10:16) no se
+  vio: en ese segundo el plano es de Shinji. Ropa: **chaqueta roja** y cruz
+  (§16.1); de arte oficial, la hoja 1 nº 26 y 34.
 - **Cómo habla**: su frase va como **una línea de subtítulo** blanca con
   borde negro fino abajo, en **Noto Serif Display** comprimida:
   **«Que nos enseñe lo que sabe hacer.»** (素直に彼の実力 見せてもらいましょ,
@@ -2113,7 +2136,7 @@ comprobados a 1:1.
 
 - **Objeto y sitio**: la **sala de SEELE**: negro total, suelo negro que
   refleja, y **monolitos negros** con su número y **«SOUND ONLY»** en rojo
-  (§5.1, §7.1; `referencias.json` 9, 8 y 2). En la serie los miembros
+  (§5.1, §7.1; [EvaWiki: SEELE](https://wiki.evageeks.org/SEELE)). En la serie los miembros
   **sólo ponen la voz, no la cara**:
   es lo que hace un actor de doblaje. En Blender son **losas negras
   brillantes** (fáciles de modelar) con el texto emisivo.
@@ -2121,9 +2144,12 @@ comprobados a 1:1.
   como losas sólidas para que la luz sea real. Si al dueño le parece «panel
   de interfaz suelto», pasa a A o C.
 - **Personaje**: **Kaworu**, el 2.º más votado, que llega **enviado por el
-  comité** (委員会が直で送ってきた子どもよ, ep. 24, 00:06:07). Pose: la de
-  presentarse con la mano abierta (ep. 24, 00:05:36) o sentado con la
-  cabeza girada (00:05:13). Uniforme escolar (§16).
+  comité** (委員会が直で送ってきた子どもよ, ep. 24, 00:06:07). Pose: la
+  **media sonrisa cálida mirando a Shinji** ([ep. 24, 00:05:40, visto ✅](https://archive.org/download/evangelion-the-full-series/3.30A%20Neon%20Genesis%20Evangelion%20-%20Episode%2024%20%28SUB%29%201920x1080%20-%20The%20Last%20Cometh.mp4?t=340)),
+  la de presentarse con la mano abierta (00:05:36 ⚠️) o sentado con la
+  cabeza girada (00:05:13 ⚠️). Uniforme escolar como el de Shinji; pelo
+  `#EAE4E7`, sombra `#B0ACB2` (§16.1). Su color es gris y blanco: nada
+  llamativo.
 - **Cómo habla**: su frase va **en su propio monolito**, el que está
   encendido, en mincho blanca: **«Cantar es bueno. Le da agua al
   corazón.»** (歌はいいね 歌は心を潤してくれる, ep. 24, 00:05:13). Si se
@@ -2138,7 +2164,10 @@ comprobados a 1:1.
     de abrir la tuya**; 07 **Ponle tus etiquetas**; 08 **Tus covers van a
     demos-canto**; 09 **Los papeles, a castings**.
   - Número de cada monolito en letra tipo Chicago (§6.2) y el texto en
-    mincho comprimida.
+    mincho comprimida. **ChiKareGo2 no trae «ú» ni «ü» minúsculas** (se
+    comprobó): úsala sólo en «DEMOS 01» y «SOUND ONLY», en mayúsculas.
+- **Sonido, si la lámina se anima**: la alarma de NERV (§11.2) al
+  encenderse el monolito.
 - **Para que no quede plano**: los monolitos **en semicírculo y a distinta
   distancia** (desenfoque en los de atrás); **reflejo rojo en el suelo**;
   Kaworu con **contraluz** del monolito encendido; uno de los monolitos
@@ -2151,20 +2180,26 @@ comprobados a 1:1.
 - **Objeto y sitio**: el **salón del piso de Misato de noche** (ep. 15,
   00:11:10 → 00:11:44): Shinji toca el **chelo** y **Asuka aplaude**
   apoyada en la puerta. Delante, un **atril con partituras** y el **SDAT**
-  con sus auriculares en la mesa baja. En Blender: [chelo](https://sketchfab.com/3d-models/cello-d67ed4cbbc0c4477ba5d89413e715c82),
-  atril, hojas, SDAT (a partir de un
-  [walkman](https://sketchfab.com/3d-models/sony-walkman-1985-70984e9a3bb4497da196275feb343713)
-  y del [render de Delphana Arts](https://www.artstation.com/artwork/gRq1gx);
-  `referencias.json` 13, 14, 15, 17 y 18).
+  con sus auriculares en la mesa baja. En Blender: [chelo](https://sketchfab.com/3d-models/cello-d67ed4cbbc0c4477ba5d89413e715c82)
+  (**CC BY, crédito a Lordricker**), atril, hojas, SDAT (a partir del
+  [Walkman TPS-L2](https://sketchfab.com/3d-models/none-3cad4141c9aa4e67ba1d2ab1e5b9d277),
+  **CC BY, crédito a berilbaska**, y del
+  [render de Delphana Arts](https://www.artstation.com/artwork/gRq1gx)
+  para las medidas). Para posar a Asuka aplaudiendo, el
+  [rig de Asuka](https://sketchfab.com/3d-models/none-5e66c14e43164330a6dbd4bc863913f7)
+  (**CC BY, JoeTrekV**) sirve de maniquí de pose y luz.
 - **Por qué esta escena**: es **alguien que enseña lo que hace y otro que le
   responde**. Y Shinji dice lo que siente cualquiera al subir su primera
   demo: «No tengo talento» (才能なんて別にないよ, 00:11:44).
 - **Personajes**: **Asuka** (la más votada, cara del 30 aniversario) como la
   que habla; **Shinji** con el chelo, de perfil. Asuka en ropa de casa ⚠️
-  (mira el fotograma), **con sus pinzas rojas**.
+  (el ep. 15 no se miró en esta pasada), **con sus pinzas rojas**; pelo
+  `#A5360F`. Si se prefiere el uniforme, los hex de §16.1.
 - **Cómo habla**: su frase como **subtítulo** bajo ella: **«No está nada mal.
   ¿Tenías eso guardado?»** (結構 いけるじゃない そんなの持ってたの？,
-  ep. 15, 00:11:37).
+  ep. 15, 00:11:37). Alternativa con frase **del doblaje latino** oída
+  (segunda pasada), si el concepto pasa a Shinji animando a otro: **«¿Por
+  qué no pruebas sonreír?»** (ep. 6, 00:21:34).
 - **Dónde va cada texto**:
   - **Cartela negra** arriba, como corte de Anno: **DEMOS**.
   - En la **partitura del atril** (la hoja de arriba), una línea cada uno,
@@ -2195,25 +2230,50 @@ comprobados a 1:1.
 
 ## 20 · Lo que no pude verificar
 
-- **Ninguna imagen**: Fandom, tiendas, Sketchfab, Game UI Database, The
-  Cutting Room Floor, Fonts In Use y EvaGeeks daban 403. No hay hojas de
-  contacto. Todo lo que **se ve** en un fotograma lo describo de memoria.
-- **Frases del doblaje latino**: ninguna frase exacta confirmada. «No debo
-  huir» es la traducción popular, no sé si la del doblaje.
-- **La voz latina original de Gendo** (sólo sé que es un actor mexicano
-  nacido en 1957, conocido por Raditz), de **Ritsuko** en el original, y
-  el estudio y director del doblaje de ***Renewal*** (Animax).
-- **Puestos 4.º a 7.º del voto de NHK** (una fuente).
-- **El 6.º Ángel del voto de NHK**: depende de la cuenta (TV o *Rebuild*).
-- **Cajas de diálogo de los videojuegos**: no vi ninguna captura.
-- **Lo que pone el folleto de NERV** del ep. 1 («ようこそNERV江», de memoria).
-- **Licencias exactas** de los modelos de Sketchfab.
-- **Colores de vestuario** (hex de memoria).
-- **Que *Cross Reflections* se retrase a 2027** (una fuente).
+**Primera pasada (24-sep), y cómo quedó en la segunda (26-sep):**
+
+- **Ninguna imagen** → **resuelto**: 455 imágenes de la wiki, 3 hojas en
+  `hojas/`, fotogramas vistos en Internet Archive.
+- **Frases del doblaje latino** → **resuelto en parte**: dos frases con
+  minuto oídas en los episodios doblados y seis muestras de Doblaje Wiki
+  (§10.3). Sigue sin saberse ⚠️ **de qué doblaje** es el ítem de Internet
+  Archive (probablemente Netflix) y cómo dice el latino «あんたバカ？» y
+  «歌はいいね». «No debo huir» sigue sin confirmarse en un doblaje ⚠️.
+- **Voz latina original de Gendo y de Ritsuko** → **resuelto** ✅
+  (Humberto Solórzano y Maru Guerrero). **Estudio de *Renewal*** →
+  Grabaciones y Doblajes Internacionales, con una sola fuente ⚠️.
+- **Puestos 4.º y 5.º del voto de NHK** → **resuelto** ✅. El 7.º (Kaji)
+  sigue con una fuente ⚠️.
+- **El 6.º Ángel del voto de NHK**: sigue sin saberse la cuenta ⚠️.
+- **Cajas de diálogo de los videojuegos**: siguen sin captura ⚠️. The
+  Cutting Room Floor tiene páginas de *Girlfriend of Steel*, pero no abre
+  desde aquí (§13).
+- **Lo que pone el folleto de NERV** del ep. 1: sin ver ⚠️ (el segundo
+  10:16 del archivo mirado es un plano de Shinji).
+- **Licencias de Sketchfab** → **resuelto** ✅ salvo la de lefort ⚠️ (§4).
+- **Colores de vestuario** → **resuelto** ✅ (§16.1), salvo el rojo del
+  traje de Asuka y el uniforme de Gendo, tintados por la luz ⚠️.
+- **Que *Cross Reflections* se retrase a 2027**: una fuente ⚠️.
 - **Si Evangelion sigue en Netflix Latinoamérica en 2026**: un resumen de
-  búsqueda dice que la exclusiva de Netflix acabó en 2025 ⚠️. Míralo en tu
-  cuenta antes de citar «en Netflix».
-- **Chicago libre** («ChiKareGo2»): no la bajé ni la comprobé.
+  búsqueda dice que la exclusiva acabó en 2025 ⚠️. Míralo antes de citar
+  «en Netflix».
+- **Chicago libre** → **resuelto** ✅ (le faltan ú y ü minúsculas).
+
+**Lo que sigue abierto tras la segunda pasada** ⚠️:
+
+- Un **fotograma propio de la pose Gendo** (manos delante de la boca).
+- **El piano o el tarareo de Kaworu** en el ep. 24: no se vio en el tramo
+  recorrido; falta oírlo.
+- **Fan dubs de voz en español**: YouTube pide sesión y TikTok no tiene
+  buscador abierto. Sólo hay un cover cantado del opening (Punto 22).
+- **Reddit**: ni reddit.com ni Arctic Shift encuentran el subreddit.
+- **El bocadillo del manga** visto de cerca en una página.
+- **Cosplay** mirado de cerca (materiales y volumen).
+- **Fotos de la ropa de GU × Evangelion**.
+- **Altura de Kaworu, Gendo y Ritsuko**: AniList no la trae.
+- **Qué programa digital** usó Gainax en 1995-96.
+- **Confirmación del staff** de que los Ángeles siguen las Sefirot (Anno
+  dice que no hay significado oculto).
 
 ---
 

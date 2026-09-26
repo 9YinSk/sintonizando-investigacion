@@ -81,3 +81,172 @@ oficiales de audio de Doblaje Wiki, Whisper en local; nombres propios repasados 
 - No hay clip oficial doblado con **minuto dentro de un vídeo completo** (tráiler o gameplay) que
   incluya estas líneas exactas: las muestras de Doblaje Wiki son clips cortos ya recortados, sin
   minutero propio; por eso el minuto citado es el de la propia muestra (0:00 = inicio del audio).
+
+### 12 · Lo que el fandom ama, y qué NO hacer
+Es una franquicia de 38 años con memes muy asentados y un fandom que nota enseguida un error de
+diseño (el Triforce mal puesto, la Espada Maestra mal dibujada). Esto es justo lo que pide el dueño:
+«que no parezca hecho por IA».
+
+**Lo que ama:**
+- El meme más viejo y más citado: en *Zelda II* (1987) un aldeano llamado **Error**, en la ciudad de
+  Ruto, dice «I am Error» (en japonés, literalmente «me llamo Error»). No es un fallo de traducción:
+  el juego tiene otro aldeano gemelo llamado **Bagu** («bug» en japonés), es un chiste de programadores.
+  Se hizo meme de internet hacia 2000 y hoy se referencia en *Super Paper Mario*, *The Binding of
+  Isaac*, *Terraria* · https://en.wikipedia.org/wiki/I_am_Error · ✅
+- «It's dangerous to go alone! Take this.» (el anciano de la cueva regalando la primera espada, 1986):
+  la frase más citada de toda la franquicia, meme fundacional de los videojuegos · dato de cultura
+  general, muy repetido en TV Tropes y KnowYourMeme · ⚠️ (no verifiqué una fuente primaria con fecha)
+- «Hey! Listen!»: la interjección de **Navi** (el hada de *Ocarina of Time*) avisando a Link sin parar,
+  uno de los memes más parodiados de la saga (hasta Nintendo la citó a modo de broma después) · TV
+  Tropes / cultura general · ⚠️
+- «Well excuuuuuse me, Princess!»: la frase de Link en los infames juegos de CD-i (*Faces of Evil*,
+  *Wand of Gamelon*, 1993), con animación torpe y actuación exagerada; se volvió meme viral por YouTube
+  Poop en los 2000, tanto que hoy el fandom la cita con cariño irónico. El vendedor **Morshu** de esos
+  mismos juegos quedó 3º en la encuesta de fans de Schaffrillas (ver punto 7) por la misma razón ·
+  https://en.wikipedia.org/wiki/The_Legend_of_Zelda_CD-i_games · ✅
+- El Triforce: el fandom es muy estricto con el orden correcto de sus 3 triángulos: **Poder** arriba
+  (con Ganondorf/Ganon), **Sabiduría** abajo-izquierda (con Zelda), **Valor** abajo-derecha (con Link)
+  · https://es.wikipedia.org/wiki/Trifuerza · ⚠️ (una fuente enciclopédica en español, conviene que el
+  redactor lo contraste con una imagen oficial antes de usarlo en la lámina)
+- Los Koroks y sus semillas (*Breath of the Wild*/*Tears of the Kingdom*): coleccionarlas todas (900)
+  es una broma recurrente del fandom por lo tedioso que es, y el propio juego se burla del jugador al
+  completarlas con un premio inútil (una caja de excremento dorada, «Hestu's Gift») · nota de cultura
+  general del juego, muy citada en reseñas · ⚠️
+- Glitches usados como arte de juego: «stasis+launch» (lanzar objetos a kilómetros con física) es una
+  técnica de speedrun y de vídeos virales que el fandom celebra como si fuera mecánica oficial · nota
+  de cultura general · ⚠️
+- El debate eterno de la **línea temporal** (Hyrule Historia, 2011, dividió la historia en 3 líneas:
+  Niño, Adulto y Derrota) sigue generando teorías y discusiones years after; es contenido oficial pero
+  discutido activamente por el fandom · https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Hyrule_Historia · ✅
+
+**Qué NO hacer (dolores reales del fandom):**
+- **Nunca llamar «Zelda» a Link.** Es el error más señalado de todos: mucha gente de fuera del fandom
+  cree que el protagonista (el de la espada y el escudo, con gorro verde) se llama Zelda, cuando Zelda
+  es la princesa. Hay memes enteros dedicados a corregir esto · https://www.thegamer.com/legend-of-zelda-zelda-is-link-memes/ · ✅ (el mismo tema aparece también en foros de Zelda Dungeon y Zelda Universe)
+- **No poner a Link a hablar con diálogo largo y con voz.** Link es mudo por diseño en casi todos los
+  juegos (sólo grita y gruñe); cada vez que se rumorea que un juego nuevo le dará voz, provoca debate
+  fuerte en el fandom. Para la lámina: si «habla», mejor con un globo de pensamiento o una frase corta
+  tipo gesto, no un párrafo largo · ver Ficha del punto 8 (Link = N/A en el doblaje) y la propia
+  «Personality» de Link en la wiki (ver `datos-voz.md`) · ✅
+- **No dibujar mal la Espada Maestra**: hoja azul con filo dorado, empuñadura púrpura con ala/adorno
+  dorado en la base y el símbolo del Triforce/ojo en la guarda; confundirla con una espada genérica
+  rompe la referencia para cualquier fan · imagen oficial (ver `hojas/` del investigador de imagen) ·
+  ⚠️ (dato visual, lo verifica mejor quien mida el hex del arte oficial)
+- **No poner el orden del Triforce al revés** (ver arriba): es de los detalles que el fandom nota
+  primero en fan art mal hecho.
+- **No mezclar diseños de "Link" de distintos juegos sin avisar**: hay muchas versiones (Link de
+  *Wind Waker*, *Twilight Princess*, *BOTW/TotK*…) con proporciones y estilos muy distintos; mezclarlas
+  sin criterio en una misma imagen se lee como error, no como referencia intencional · nota de
+  cultura general del fandom · ⚠️
+
+### 13 · Personajes a fondo: carácter, cómo se expresan y su cara en cada emoción
+Centrado en Link, Zelda y Ganon/Ganondorf (los 3 que pide el encargo para empezar), con base en
+*Breath of the Wild* / *Tears of the Kingdom* (las versiones más jugadas hoy) y contraste con otras
+eras cuando aporta matiz. Las descripciones de personalidad ya bajadas en `datos-voz.md` (Zelda Wiki,
+secciones «Personality») son la base; aquí se profundiza con arco, miedos y forma de hablar.
+
+**Link**
+- Carácter: fuerte sentido de la justicia, pero casi nunca habla directamente en los juegos
+  principales; se comunica con gruñidos y esfuerzos. En combate suelta gritos marcados («¡Hyaaa!!»)
+  con las técnicas de espada avanzadas. Fuera del combate, las versiones «realistas» (Twilight
+  Princess, BOTW) son serias y sonríen poco; el Link de *Wind Waker* es el opuesto, expresivo y se
+  ríe con facilidad · https://zelda.fandom.com/wiki/Link#Personality (ya en `datos-voz.md`) · ✅
+  (coincide con la ficha de doblaje: Link es N/A, sin diálogo, ver punto 8)
+- Historia/arco (BOTW): despierta con amnesia total en el Santuario de la Resurrección, 100 años
+  después de perder la batalla final contra Calamity Ganon; no recuerda ni su propio pasado como
+  Caballero de Hyrule, y recupera memoria poco a poco explorando Hyrule · https://zelda.fandom.com/wiki/Link (sección Breath of the Wild) · ✅
+- Miedo/lo que le importa: el peso de haber «fallado» en su misión de hace 100 años y no poder
+  proteger a Zelda; su vínculo con su caballo Epona/los caballos en general es un rasgo recurrente en
+  toda la saga · Zelda Wiki, Horse · ⚠️
+- Cómo se expresa: casi sin palabras; su lenguaje es gestual (asentir, señalar, sacar la espada). En
+  TotK tiene alguna línea de pensamiento en cartelas de texto, pero sigue sin voz hablada.
+- Cara en la emoción (fotograma medido, tráiler oficial *Tears of the Kingdom* «Tráiler definitivo»,
+  Dailymotion, doblado a otros idiomas pero mismo modelo 3D en todas las versiones):
+  primer plano, cejas fruncidas, mirada fija e intensa antes de una pelea → lectura: determinación /
+  tensión contenida (no llega a ser «rabia» abierta) · 3:18 · https://www.dailymotion.com/video/x8k22ef?t=198 · ✅ (fotograma propio, medido con `fotogramas.py`)
+
+**Zelda**
+- Carácter: bondadosa, sabia más allá de su edad, se sacrifica por los demás (ejemplo citado en la
+  wiki: salvó a Midna, la princesa del Crepúsculo, casi muerta). Como gobernante asume que debe tomar
+  las decisiones más sabias aunque le cuesten personalmente · https://zelda.fandom.com/wiki/Princess_Zelda#Personality (ya en `datos-voz.md`) · ✅
+- Historia/arco (BOTW): de niña le cuesta activar su poder sagrado (Trifuerza de la Sabiduría) pese a
+  entrenar y rezar sin parar; eso le genera muchísima presión, sobre todo tras la muerte de su madre.
+  Termina desarrollando pasión por la ciencia y la tecnología Sheikah antigua (Guardianes, Bestias
+  Divinas, Santuarios) casi como refugio de esa frustración; también le interesan la arquitectura, la
+  historia y observar la naturaleza · https://gamefaqs.gamespot.com/switch/189707-the-legend-of-zelda-breath-of-the-wild/faqs/75427/hobbies-of-the-rich y zelda-archive.fandom.com/wiki/Princess_Zelda · ⚠️ (agregadores de fans, sin ver el guion original)
+- Miedo/lo que le importa: no poder sellar a Ganon a tiempo y fallarle a su reino y a su padre; la
+  presión de ser «la elegida» sin sentir que lo merece.
+  - Frase textual del doblaje (ver punto 8): «Ruego que me digas, ¿qué es lo que estoy haciendo mal?»
+    (0:38 de la muestra) resume ese miedo con sus propias palabras · ✅
+- Cómo se expresa: pasa de la firmeza cortante («no requiero de tu protección», ver punto 8) a la
+  súplica científica entusiasmada («¡Por la ciencia!») y al pánico contenido cuando algo sale mal
+  («dense prisa o morirá»); tono agudo y muy expresivo (24,3 semitonos medidos con `voz.py`, ver
+  punto 8) — habla rápido cuando está nerviosa o emocionada.
+- Cara en la emoción (fotograma medido, mismo tráiler *Tears of the Kingdom* «Tráiler definitivo»):
+  perfil, una lágrima bajando por la mejilla, mirada baja → tristeza · 2:09 ·
+  https://www.dailymotion.com/video/x8k22ef?t=129 · ✅ (fotograma propio)
+
+**Ganon / Ganondorf**
+- Carácter: el villano principal de casi toda la saga, despiadado y muy destructivo; para él conquista
+  y destrucción son lo mismo. En algunas entregas se muestra sorprendentemente astuto, incluso un paso
+  por delante de Link y Zelda; pero su arrogancia acaba siéndole fatal · https://zelda.fandom.com/wiki/Ganon#Personality (ya en `datos-voz.md`) · ✅
+- Historia/arco: como Ganondorf (forma gerudo) es el único hombre nacido entre las gerudo en siglos;
+  su ambición lo lleva a robar la Trifuerza del Poder y buscar dominar Hyrule una y otra vez, a través
+  de reencarnaciones · Doblaje Wiki, ficha «Ganondorf» (ya visto en punto 8) · ✅
+- Miedo/lo que le importa: el poder mismo — es lo único que le importa, hasta el punto de dañar a sus
+  propios seguidores con tal de tener más; no muestra miedo abierto en las fuentes revisadas.
+- Cómo se expresa: sentencias cortas y con autoridad; en TotK varios fans destacan su nueva voz «más
+  gutural y ronca» tras la disección de la muestra oficial, pero no llegué a medirlo con `voz.py` (no
+  encontré una muestra de audio de Ganondorf en Doblaje Wiki, sólo su nombre en la ficha).
+- Cara en la emoción: no encontré un fotograma con minuto y enlace donde se le vea el rostro con una
+  emoción clara (en el tráiler medido arriba sale de espaldas o transformado en dragón con niebla
+  roja, sin rasgos visibles) — **pendiente**, ver «No encontré».
+
+| Personaje | Emoción | Episodio | Minuto | Fotograma (enlace) |
+|---|---|---|---|---|
+| Zelda | Tristeza | *Tears of the Kingdom*, tráiler definitivo (Nintendo, 2023) | 2:09 | https://www.dailymotion.com/video/x8k22ef?t=129 |
+| Link | Determinación / tensión | *Tears of the Kingdom*, tráiler definitivo (Nintendo, 2023) | 3:18 | https://www.dailymotion.com/video/x8k22ef?t=198 |
+| Rey Rhoam | Seriedad / autoridad | *BOTW: The Champions' Ballad*, tráiler DLC (Nintendo, 2017) | 1:44 | https://www.dailymotion.com/video/x6bc0bm?t=104 |
+| Link | Recién despierto, neutro/curioso | *BOTW*, primeros minutos (gameplay doblado, canal Hobby Consolas) | 2:15 | https://www.dailymotion.com/video/x5ahli0?t=135 |
+
+### 20 · Gustos y detalles de cada personaje
+Zelda no tiene *databook* de personaje al estilo anime (con cumpleaños y comida favorita fijados por
+el autor); los datos «duros» que sí existen (altura) salen del libro oficial *Hyrule Historia* (2011)
+y de la propia *Encyclopedia* (2018). Lo demás sale del comportamiento mostrado en el juego.
+
+- Altura de Link en *Ocarina of Time*: 170 cm (5'7") · fuente que resume *Hyrule Historia* (glitterberri.com, traducción/escaneo del libro) vía CBR · ⚠️ (no abrí el escaneo original, una sola fuente indirecta)
+- Altura de Ganon en *Hyrule Historia*: 7 pies 7 pulgadas (231 cm) en su forma bestia · misma fuente · ⚠️
+- Ninguno de los 3 (Link, Zelda, Ganon) tiene **cumpleaños oficial** publicado por Nintendo: busqué en
+  Hyrule Historia (resúmenes), Zelda Wiki y la Encyclopedia y no aparece una fecha. Un artículo de CBR
+  les **asigna** un signo zodiacal «a modo de análisis de personalidad» (Link Aries, Zelda Géminis,
+  Ganon Tauro) pero lo aclaran ellos mismos como interpretación, no una fecha oficial de Nintendo ·
+  https://www.cbr.com/loz-characters-age-height-zodiac-sign/ · ⚠️ NO usar como cumpleaños real.
+- Objeto que Link siempre lleva: la Espada Maestra y el Escudo Hyliano (o el Escudo Deku de niño); en
+  BOTW se suma la Sheikah Slate (tablet ancestral), que lleva todo el juego colgada al cinturón ·
+  Doblaje Wiki + Zelda Wiki (Link) · ✅
+- Objeto que Zelda siempre lleva: la Sheikah Slate al inicio de BOTW (se la da a Link), y en la mayoría
+  de juegos el Arco de Luz / arco y flecha cuando lucha junto a Link · Zelda Wiki (Zelda) · ⚠️ (una fuente agregadora)
+- Cómo se ve a sí mismo Link: casi no lo dice con palabras (es mudo), pero el juego lo trata como un
+  chico que carga con el peso de ser «el elegido» sin quejarse; su padre también fue Caballero de
+  Hyrule, y el juego sugiere que Link busca estar a la altura de ese legado · https://zelda.fandom.com/wiki/Link (sección BOTW) · ⚠️
+- Cómo se ve a sí misma Zelda: insegura de si merece su título pese a ser la princesa, porque su poder
+  mágico tardó años en manifestarse y eso la hizo sentir que fallaba a su pueblo · misma fuente que la
+  ficha de personalidad (punto 13) · ✅ (coincide con su frase textual del doblaje, «¿qué es lo que
+  estoy haciendo mal?», ver punto 8)
+- Aficiones de Zelda: investigación científica, tecnología Sheikah antigua, arquitectura, historia,
+  observar la naturaleza · https://gamefaqs.gamespot.com/switch/189707-the-legend-of-zelda-breath-of-the-wild/faqs/75427/hobbies-of-the-rich · ⚠️ (agregador de fans, sin el guion original)
+- Aficiones de Link: montar a caballo (su vínculo con Epona/los caballos es un rasgo que se repite en
+  casi todos los juegos), y en BOTW específicamente cocinar y explorar; el propio juego lo muestra
+  «dormitando» en muchas escenas promocionales y en la apertura de *Tears of the Kingdom* · Zelda Wiki
+  (Horse) · ⚠️ (no encontré una fuente oficial que lo llame «afición», es una lectura del propio juego)
+- Ganondorf: su vínculo con los caballos también existe del lado del villano — tiene su propio corcel
+  negro de ojos rojos («Ganondorf's Steed») en *Ocarina of Time*, *Twilight Princess* y *Tears of the
+  Kingdom* · https://zeldawiki.wiki/wiki/Ganondorf's_Horse · ⚠️ (una fuente, wiki de fans)
+- Lo que Ganondorf odia/no soporta: perder el control; su arrogancia lo lleva a subestimar a Link y a
+  Zelda una y otra vez, y esa soberbia es su propia perdición según la wiki (ver punto 13) · ✅
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente |
+|---|---|---|---|---|---|---|
+| Link | los caballos (Epona), la Espada Maestra, cocinar (BOTW) | fallarle a la gente que protege | montar a caballo, explorar, cocinar, dormitar | no encontré fecha oficial | 170 cm / 5'7" (OoT, *Hyrule Historia*) | Zelda Wiki + CBR (Hyrule Historia) ⚠️ |
+| Zelda | la ciencia, la tecnología Sheikah, la arquitectura, la historia, la naturaleza | sentir que no está a la altura de su título | investigar, observar la naturaleza | no encontré fecha oficial | 5'6" (CBR, sin confirmar en fuente oficial) | GameFAQs «Hobbies of the Rich» + CBR ⚠️ |
+| Ganon/Ganondorf | el poder, dominar Hyrule, su corcel negro | perder el control, que lo subestimen (irónico, porque él subestima a otros) | montar su corcel, la guerra | no encontré fecha oficial | 7'7" / 231 cm (forma bestia, *Hyrule Historia*) | Zelda Wiki (Ganon) + CBR (Hyrule Historia) ⚠️ |

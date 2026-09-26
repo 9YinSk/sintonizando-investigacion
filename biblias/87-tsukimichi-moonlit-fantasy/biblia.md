@@ -517,3 +517,145 @@ Hecha por el redactor con todo lo anterior. Sirve para Firefly, Canva o cualquie
 - ⚠️ Tomoe y Mio no son humanas: la wiki no les da cumpleaños ni altura. Es un dato que no existe, no que falte buscar.
 - ⚠️ No hay databook traducido con datos de Shiki, Eris, Sofia o Tsukuyomi: sus fichas en la wiki están vacías.
 
+## 21 · Por qué la gente la ama
+
+- **Mejora sobre la marcha.** Foros y reseñas la llaman de las isekai «más infravaloradas»: empieza pareciendo genérica y crece. Makoto construye un país desde cero, como en *Slime* ⚠️ ([reseñas de Anime-Planet](https://www.anime-planet.com/anime/tsukimichi-moonlit-fantasy/reviews); resumen de varias reseñas).
+- **Números**: 7.71 en [MyAnimeList](https://myanimelist.net/anime/43523) ⚠️ · nota media 77 en AniList, 174 112 personas la siguen, 5478 favoritos ✅.
+- **Con quién se identifican**: con Makoto, «el que nadie tomó en serio y acaba ganando»: conecta con quien se siente subestimado. Con Tomoe y Mio, por la comedia de su rivalidad (harén cómico, no dramático).
+- **El placer de odiar a la Diosa** (punto 12) ✅.
+
+**Escenas que hacen reír**
+- **La Diosa insulta a Makoto** (ep. 1, 5:00-5:11). Pasa de «héroe invocado» a comedia cruel en segundos. Makoto ríe forzado (4:58). Voz de Luz Menchaca, aguda y cortante ✅.
+- **Tomoe pide que la llamen samurái** (ep. 1, 22:00): guiño, sonrisa ladeada, Makoto en recuadro aparte ✅.
+
+**Escenas que hacen gritar de emoción**
+- **El arco contra Sofia** (ep. 24, 2:05-5:15). Makoto, tranquilo sobre una plataforma en llamas, nombra su arco Azusa, dice su nombre real y gana sólo con flechas. Fuego naranja y mirada serena. El público lo convirtió en el edit «all he did was shoot a bow» ✅.
+
+**Escenas que hacen llorar**
+- ⚠️ No se encontró ninguna con consenso de fans ni minuto (búsquedas en español e inglés en Reddit y MAL). La serie es comedia y acción, no drama.
+- Lo más triste que se vio: Makoto solo en el páramo (ep. 1, 8:01-8:16). Plano abierto, él pequeño, mirada baja, sólo viento. Monólogo lento que acaba en «¡Triste es mi vida!». Es tristeza cómica ✅.
+- ⚠️ No se hallaron comentarios con más votos ni vídeos de reacción con minuto.
+
+## 22 · Fan dubs y comunidad hispana
+
+Serie de nicho: la comunidad hispana comparte **recortes del doblaje oficial** más que fandubs propios.
+
+- **Cover del opening en español**: «Tsukimichi -Moonlit Fantasy- Opening [Gambling] Cover Español», [YouTube](https://www.youtube.com/watch?v=j1AqL2kd88k) ⚠️ (sin vistas ni canal: YouTube bloquea el servidor).
+- **Lista de fans «Tsuki ga Michibiku Isekai Douchuu - Español Latino»**: [YouTube](https://www.youtube.com/playlist?list=PLokpzhi9clP58Z-bl74_7CsEG5nszz0QY) ⚠️.
+- **TikTok @aoisamastudio**: sube la serie troceada con el doblaje latino oficial (#españollatino, #makotomisumi). Ejemplo: [T1 cap. 11](https://www.tiktok.com/@aoisamastudio/video/7514988922754174214) ⚠️ (sin contador de vistas).
+- **TikTok ♕Anime_Latino♕**: resume «T1 - Ep 12 (Parte 2)» con el título «Decimosegunda Noche: Guiado Por La Luna» ✅ (visto en la página del hashtag).
+- ⚠️ No hay fandub de voz completo ni parodias hispanas propias (buscado «Tsukimichi fandub español», «Tsukimichi doblaje fans», «Tsukimichi meme español», «Tsukimichi parodia latino»). Los memes de la Diosa circulan en inglés.
+- **Para el servidor**: la escena de la Diosa (ep. 1, 5:00) y el monólogo del páramo (ep. 1, 8:01) son dos retos de doblaje listos, con el original latino para comparar.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+- **Cruce en el juego**: *Peace Chronicles* × *The Unwanted Undead Adventurer* ⚠️ (una fuente).
+- **Arte con ropa nueva**: el anuncio de la T2 (biombo dorado, trajes de ceremonia verdes, punto 1) ✅; el arte de grupo del juego de navegador, 2560×1600 ⚠️; el arte de la cuenta oficial de Makoto con katana ✅.
+- **Figuras oficiales**: ⚠️ la wiki menciona figuras de Tomoe y Mio, pero no se halló imagen en alta con enlace.
+- **Cosplay**: ⚠️ sólo una foto pequeña de Makoto en la wiki ([608×411](https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/f/f5/Makoto_cosplay.png/revision/latest)). [Openverse](https://openverse.org) no dio fotos libres.
+- **Cafés temáticos**: ⚠️ hay menciones en redes, sin arte dedicado localizado.
+- **Gachas ajenos, Fortnite, marcas**: ⚠️ no se encontró nada. La serie no tiene ese alcance.
+
+## 24 · Obras parecidas y temas relacionados
+
+**Series de tono parecido** (recomendaciones de AniList, cruzadas con GameRant, Anime-Planet y HoneysAnime):
+- ***That Time I Got Reincarnated as a Slime***: la más parecida. Protagonista fuerte que funda una comunidad de semihumanos, aliado dragón con forma humana, economía y política ✅.
+- ***KonoSuba***: comedia isekai con protagonista normal y grupo disfuncional ✅.
+- ***Overlord***: ejército de subordinados leales que lo adoran; como Makoto con la Kuzunoha ✅.
+- ***Cautious Hero***: parodia isekai con dioses y humor meta ✅.
+- ***Arifureta*** y ***The Rising of the Shield Hero***: protagonista rechazado que sube desde abajo ✅.
+
+**Influencias del autor**: ⚠️ sin entrevista de Kei Azumi. Por la trama se nota el comercio (a lo *Spice and Wolf*), la comunidad de semihumanos (*Slime*) y la comedia meta (*KonoSuba*): es una lectura, no una cita.
+
+**Otras láminas del servidor que se le parecen** (revisadas sus biblias):
+- *Overlord* (83) propone #bienvenidas; *Shield Hero* (82), #proyectos y #guia; *Mushoku Tensei* (81), #reto-de-la-semana y #dudas; *KonoSuba* (88) aún no tiene biblia.
+- Para no repetir: nada de «protagonista con un aliado dragón al lado» en pose frontal (lo pueden hacer Slime o Shield Hero). Aquí manda la **tienda** y la **luna**.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Las reglas en cinco líneas** ✅ (wiki: [Goddess' World](https://tsukimichi.fandom.com/wiki/Goddess'_World), [Story Timeline](https://tsukimichi.fandom.com/wiki/Story_Timeline), [Magic](https://tsukimichi.fandom.com/wiki/Magic))
+1. Manda una Diosa que favorece a los hyumans, razas hechas por ella a imagen de estatuas griegas y romanas, por encima de todo.
+2. La magia gasta maná (魔力); su fuerza depende del nivel, la reserva y el conjuro recitado en la lengua correcta.
+3. Makoto, rechazado por «feo», cae en el páramo con la bendición del dios de la Luna Tsukuyomi. Pacta con Tomoe y Mio, que le dan acceso al mundo de bolsillo Asora.
+4. En el mundo hace de mercader con la Compañía Kuzunoha (medicinas y materias primas), la más influyente de Tsige y Rotsgard.
+5. Hay una guerra eterna entre hyumans y demonios. Makoto no toma partido oficial, pero acaba siendo el ser más poderoso y desafía a la Diosa.
+
+**La historia por arcos**
+- **Páramo** (T1 ep. 1-2): lo invocan, lo echan, conoce a los orcos de las tierras altas y pacta con la dragona (Tomoe) ✅.
+- **Mio** (T1 ep. 2-3): la Araña Negra que devora el páramo; la vence y pacta. Nace Asora ✅.
+- **Tsige** (T1 ep. 3-7): la ciudad fronteriza, Patrick Rembrandt, la tienda Kuzunoha; salva a los Rembrandt con sus medicinas ✅.
+- **Rotsgard** (T1 ep. 7-12, T2 ep. 1-10): profesor en la ciudad académica; el ataque a la academia; conoce a los otros héroes, Hibiki y Tomoki ✅.
+- **La guerra** (T2 ep. 10-25): Limia contra el territorio demonio, el antiguo reino de Kaleneon, generales demonio; Makoto se muestra al nivel de un dios. Clímax del arco con Sofia (ep. 24) ✅.
+- **T3** anunciada (punto 10).
+
+**Sitios clave**: el páramo del fin del mundo (suroeste), [Asora](https://tsukimichi.fandom.com/wiki/Subspace), Tsige, Rotsgard, los cuatro grandes poderes (Reino de Limia, Reino de Aion, Unión de Lorel, Imperio de Gritonia) y el territorio demonio al norte (Elysion, el fuerte Stella) ✅.
+
+**Emblemas y objetos**
+- **La luna creciente dorada**: dentro del 月 del título y en todo lo promocional ✅.
+- **El emblema Kuzunoha**: zorra alada sobre luna negra entre hojas; en el anime, letrero de madera con 葛 y 葉 ✅ ([ficha de la empresa](https://tsukimichi.fandom.com/wiki/Kuzunoha_Company)).
+- **El arco de Makoto**: arco japonés de madera que le dio Tsukuyomi; en la T2, uno dorado mejorado. En el ep. 24 lo llama Azusa ✅.
+- **La katana de Tomoe**: de época samurái ✅.
+- **Sakai (境界)**: el campo de Makoto para detectar, reforzar y controlar lo que le rodea ✅.
+
+**Palabras que un fan reconoce al instante**
+- **Megami / «Bug»**: la Diosa; Makoto y los suyos la llaman «Bug» con desprecio.
+- **Hyuman**: la raza favorita de la Diosa. No es lo mismo que «humano» (los de la Tierra).
+- **Asora (亜空)**: su mundo de bolsillo. El nombre es una romanización mal hecha que se hizo popular.
+- **Compañía Kuzunoha (葛葉商会)**: su empresa.
+- **Raidou**: su alias de mercader (en la novela); en manga y anime, «Makoto Kuzunoha».
+- **Aria o canto (詠唱)**: los conjuros, con «idiomas» de más o menos poder.
+- **Idioma Común**: lo habla todo el mundo por la bendición de la Diosa; Makoto habla con todo menos con los hyumans.
+
+## 3 conceptos de lámina
+
+La serie aún no tiene canal. Tres ideas distintas: de día en la tienda, de noche con niebla y luna, y al anochecer con fuego.
+Textos del canal sacados de `servidor/inventario.md`. En la lámina, sin «·», «—» ni paréntesis de relleno.
+
+### Concepto 1 · #ofertas-y-gratis · «La tienda Kuzunoha» (el canal que propongo)
+
+Texto del canal: «Juegos gratis y rebajas de Steam, Epic y GOG, con el precio en soles. Los gratis caducan: reclámalos.»
+
+- **Objeto y sitio**: el letrero de madera tallada de la Compañía Kuzunoha sobre la puerta de la tienda (`fanart_fondos_01.jpg` celda 7; [imagen 1643×1043](https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/e/ee/Kuzunoha.png/revision/latest?cb=20240930164259)). Debajo, un mostrador de madera con tablillas de precio colgadas de un cordel y frascos de medicina, que es lo que vende la Kuzunoha. En Blender: tablón con letras talladas y veta, tablillas con cuerda, frascos de vidrio. Calle de día con la luz de Obitt (#E5E9E5, #A59089, cielo #8BBEEF).
+- **Personajes**: Makoto con su ropa de mercader T2 (`personajes_01.jpg` celda 2), detrás del mostrador, rascándose la nuca con la sonrisa tímida del ep. 1, 11:57. Asomada por el borde, Mio (ficha T2, celda 4) con una muestra gratis en la mano: la que se lo comía todo.
+- **Cómo habla**: sin globo. El letrero y las tablillas son el cuadro de diálogo propio de la serie. El aparte de Makoto va en un círculo de luna, como el recuadro de reacción del ep. 1, 22:00.
+- **Letras**: letrero en Cinzel Black tallada. Tablillas en Noto Sans JP Bold quemada. Aparte en M PLUS Rounded 1c ExtraBold.
+- **Dónde va cada texto**:
+  - Letrero, entre 葛 y 葉: «Ofertas y gratis».
+  - Tres tablillas: «Steam», «Epic», «GOG».
+  - Tablilla grande: «Precio en soles».
+  - Nota clavada al mostrador: «Los gratis caducan. Reclámalos ya.»
+  - Círculo de luna de Makoto, mirando a Mio: «Mio, eso no era para ti.»
+- **Que no quede plano**: el mostrador y los frascos delante de Makoto, algo desenfocados. Luz de ventana cálida de lado. La sombra del letrero sobre la fachada. Mio saliendo por delante del borde.
+
+### Concepto 2 · #presentaciones · «El pacto bajo la luna»
+
+Texto del canal (foro): «Tu ficha del servidor. Es opcional, pero es lo que hace que la gente te ponga cara. Abre TU hilo con la plantilla fijada; nadie comenta…» (el inventario lo corta ahí; completar con el texto real del canal). Etiquetas: Sudamérica, México, Centroamérica y Caribe, España, Otro país, Doblaje, Canto, Locución, Edición, Arte, Escritura, Hacer amigos.
+
+- **Objeto y sitio**: un rollo de papel desplegado sobre una roca plana del páramo, sujeto con piedras. Es el «contrato» del pacto. En Blender: plano curvado en los extremos con dos varillas de madera; la tinta sigue la curva. Noche con la paleta del fondo oficial: luna #DAE7FD, cielo #1B3060 y #452D56, niebla #466690, rocas #576C6A.
+- **Personaje**: Tomoe, la más querida (1359 favoritos). Ficha HD T2 (`personajes_01.jpg` celda 3, 2200×2864) con los brazos cruzados y la sonrisa segura del opening T1, 2:00. Detrás, en la niebla, la silueta de su forma de dragona oriental (`wiki_galeria_01.jpg` celda 7).
+- **Cómo habla**: con su frase real del doblaje (ep. 1, 20:01) adaptada. El título va en cartela oscura de «noche», como los títulos de capítulo.
+- **Letras**: cartela en Noto Sans JP Black clara sobre oscuro. Rollo en Noto Sans JP Bold. ⚠️ Una letra de pincel quedaría mejor, pero no hay ninguna verificada.
+- **Dónde va cada texto**:
+  - Cartela arriba: «Primera noche: preséntate».
+  - Voz de Tomoe, junto a ella: «Visitante de otro mundo: dinos tu nombre.»
+  - Rollo, un renglón por idea: «Tu ficha del servidor.» · «Es opcional, pero así te ponen cara.» · «Abre TU hilo con la plantilla fijada.» · el resto del texto del canal.
+  - **Lámina 2**: un segundo rollo con las doce etiquetas como sellos rojos.
+- **Que no quede plano**: niebla delante de las piernas de Tomoe y del rollo. La luna detrás recorta su pelo turquesa. Piedras del rollo en primer plano. Estrellas fugaces del fondo oficial.
+
+### Concepto 3 · #reto-de-la-semana · «La diana de Makoto»
+
+Texto del canal (foro): «Un reto por semana: una línea, una escena, un tono. Se entrega dentro del hilo del reto. No se gana nada y esa es la gracia: es para grabar…». Etiquetas: Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, Con trampa, Libre.
+
+- **Objeto y sitio**: una diana de tiro con arco japonés, papel con anillos sobre un aro de madera, clavada en su soporte. Está en la plataforma de piedra del ep. 24, con brasas en el aire y la luna arriba. En Blender: disco de papel con anillos, aro de madera, flechas con pluma. Paleta: noche #2F56B0 y #0A113E con fuego naranja.
+- **Personaje**: Makoto T2 apuntando con el arco, tranquilo en pleno combate (ep. 24, 4:15-4:55). Es la escena viral de «sólo disparó una flecha».
+- **Cómo habla**: los anillos de la diana llevan la información. Su aparte va en el círculo de luna del ending, en el lugar de la luna.
+- **Letras**: anillos en Noto Sans JP Black. Etiqueta de la flecha en Noto Sans JP Bold. Círculo de luna en M PLUS Rounded 1c ExtraBold.
+- **Dónde va cada texto**:
+  - Anillos, de fuera adentro: «Una línea», «Una escena», «Un tono».
+  - Papel atado a la flecha del centro: «Se entrega dentro del hilo del reto.»
+  - Círculo de luna, Makoto: «No se gana nada. Es para grabar.»
+  - **Lámina 2**: un carcaj con ocho flechas; en cada pluma, una etiqueta del foro.
+- **Que no quede plano**: brasas desenfocadas delante. La flecha en primer plano entrando en la diana. Contraluz de fuego naranja detrás de Makoto y luna fría arriba. El arco cruza el cuadro en diagonal.
+
+**Otra idea en una línea**: #memes con la Diosa gritando «¡Puro pato y nada de cisne!» (ep. 1, 5:00) y Makoto con su risa forzada (4:58).
+

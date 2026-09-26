@@ -360,3 +360,287 @@ del uniforme), [Paper001](https://ambientcg.com/view?id=Paper001) (papel de
 cartas y notas).
 **Luz para Blender**: HDRI «Entrance Hall» de Sergej Majboroda, CC0 ·
 [polyhaven.com/a/entrance_hall](https://polyhaven.com/a/entrance_hall) ✅.
+
+## Punto 5 · Tipografía: una letra para cada uso
+
+**Hay dos logos** (§3):
+- **Manga**: かぐや様は告らせたい ～天才たちの恋愛頭脳戦～ en **gótica
+  redondeada muy gruesa**, con un **corazón rojo** sobre el 告 y una **línea
+  de pulso** (cardiograma) cruzando 恋愛頭脳戦. El relleno cambia de color
+  por tomo (amarillo, magenta, negro con contorno blanco), la forma no. ✅
+  (4 piezas oficiales: portadas de los caps. 21 y 27, anuncio del cap. 110 y
+  [banner de la T2](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/9/99/Season_2_Announcement_Banner.jpg)).
+- **Anime** (ep. 1, 1:10): **mincho** fina carmesí `#EC0C54` sobre blanco,
+  el 告 dentro de un **corazón de línea**, corazones rosa `#F494B4` y líneas
+  rojas finas que cruzan la pantalla ✅ (redactor).
+
+Todas las letras libres se comprobaron con `fontTools` sobre el subset
+**`latin`** de [Fontsource](https://fontsource.org/fonts/m-plus-rounded-1c)
+(ojo: `latin-ext` **no** trae á, ñ, ¿, ¡; hay que pedir `latin`).
+
+| Uso | Cómo es en la serie | Letra libre | á é í ó ú ñ ¿ ¡ |
+|---|---|---|---|
+| Logo del manga | gótica redondeada gruesa + corazón + pulso | [M PLUS Rounded 1c](https://fontsource.org/fonts/m-plus-rounded-1c) Black | ✅ |
+| **Logo del anime y cartela «本日の勝敗»** | mincho con remates, carmesí o negra, vertical | [Shippori Mincho](https://fontsource.org/fonts/shippori-mincho) 700 (alternativas: Noto Serif JP, Zen Antique) | ✅ (redactor) |
+| Globo normal | óvalo blanco de línea fina, sin cola cuando está pegado a la cara | [Patrick Hand](https://fontsource.org/fonts/patrick-hand) | ✅ |
+| Grito | óvalo con **picos cortos** (grito «de comedia», no el dentado de acción); en anuncios, mayúsculas gigantes amarillas y rosas con contorno negro | [Bangers](https://fontsource.org/fonts/bangers) | ✅ |
+| Pensamiento corto | cursiva a mano, pequeña, sin globo, junto a la cara | [Caveat](https://fontsource.org/fonts/caveat) | ✅ |
+| Onomatopeya | katakana enormes a mano («ゴゴゴ» en hoja 3 #100, «うるせぇバーカ!!» en hoja 2 #84) | [Luckiest Guy](https://fontsource.org/fonts/luckiest-guy) | ✅ (⚠️ la forma japonesa no se midió) |
+| Cartel del mundo (pancartas, campaña, festival) | sin fuente oficial; sobria y con peso | [Archivo Black](https://fontsource.org/fonts/archivo-black) | ✅ |
+| Interfaz de juego | botones redondeados, sans limpia (app de la pachislot, juego de Young Jump) | [Fredoka](https://fontsource.org/fonts/fredoka) | ✅ |
+| Subtítulos y créditos | créditos del anime en **mincho** blanca o carmesí (ep. 1, 1:33-1:53); subtítulo de streaming blanco con borde | [Anton](https://fontsource.org/fonts/anton) para subtítulo; Shippori Mincho para créditos | ✅ |
+
+## Punto 6 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
+
+**Lo más importante**: Kaguya-sama trata de **lo que piensan y no dicen**.
+El título lo dice: «guerra mental amorosa» (恋愛頭脳戦). Casi todo el
+conflicto pasa en la cabeza, y el anime lo enseña con recursos propios.
+
+### 6.1 · Los recursos reales, mirados
+
+1. **La cartela del resultado «本日の勝敗»** (ep. 1, 23:52-23:56; vuelve en
+   el ep. 3, 9:00) ✅ mirada. Cierra cada «batalla»:
+   - Rectángulo **vertical**, blanco `#FCFCFC`, **borde negro grueso**
+     `#040404` y **filete fino** por dentro, como una placa de madera japonesa.
+   - Texto **vertical**, negro, en **mincho**. Primero aparece vacía y luego
+     se llena (23:50 → 23:53).
+   - Una segunda cartela **escalonada** (dos rectángulos desplazados) da el
+     porqué y el ganador: «白銀の逃走により / **かぐやの勝**» = «Por la huida
+     de Shirogane / **gana Kaguya**». El ganador va en letra más gruesa, con
+     contorno.
+   - Va **sobre el objeto del gag** (aquí, el bento vacío con dos salchichas-
+     pulpo), en plano cenital.
+2. **El fondo psicodélico a cuadros** (ep. 1, 21:10; ep. 3, 6:50) ✅: cuando
+   dos mienten con nervios, el fondo se vuelve un **damero blanco y negro
+   deformado** y los personajes quedan a color, planos, en el centro.
+3. **El monólogo con fondo cambiado** (*Art Shift*, ✅ Tropedia + reseñas):
+   al pensar, el fondo pasa a color plano o a un escenario simbólico (campo
+   de batalla, montaña, ring) y la cara queda en primer plano. Ejemplo
+   mirado: ep. 1, 3:05, **negro con rayos blancos y billetes de 10 000 yenes
+   volando**, el personaje sólo en línea de neón.
+4. **El fondo de bajón**: **azul oscuro con rayas verticales**, ojos en
+   blanco y una lágrima (Ishigami,
+   [imagen de la wiki](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/3/38/Anime_Yu_Ishigami.jpg/revision/latest?cb=20190329224152), 1114×597) ✅.
+5. **El narrador**: voz en off de documental o de relator deportivo que
+   cuenta cada movimiento como una guerra. En latino, **Óscar Flores**
+   (punto 8). ⚠️ **No se encontró** una cartela gráfica propia del narrador:
+   es sobre todo **voz**.
+6. **Títulos de cada batalla**: cada episodio se parte en **batallas numeradas**
+   con su propio título, en la línea del personaje que protagoniza esa parte
+   (p. ej. «Miyuki Shirogane Wants Girls to Fall for Him») ✅ (wiki).
+7. **Rompe la cuarta pared**: en el ep. 1 el narrador habla al público y, al
+   final, Kaguya **rasga la pantalla** del «fin» para que la dejen en paz ⚠️
+   (Tropedia, sin segundo exacto).
+8. **Móviles de la ficción**: parodian el iPhone con el logo deformado y una
+   red social «tipo Twitter» con otro nombre ⚠️ (Tropedia). Kaguya tiene un
+   **teléfono plegable** desde preescolar (hoja 3 #97, ep. 24) ✅ imagen.
+9. **Tarjetas «retro»** con grano y sonido de proyector para el resumen de la
+   T1 al empezar la T2 ⚠️ (Tropedia).
+
+### 6.2 · En el manga
+
+- **Globos**: óvalos blancos de línea fina, sin color; en japonés el texto
+  va **vertical** (tategaki). ✅ (páginas de *preview* 176, 177 y 180 de la
+  wiki: [177](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/5/52/177_Preview.png),
+  [180](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/b/b4/180_Preview.png)).
+- **Pensamiento** en cursiva pequeña flotando junto a la cara; gritos de
+  comedia con picos cortos.
+- Página de ejemplo con globo de pensamiento de Kaguya:
+  [captura de la wiki](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/ef/Screen_Shot_2019-06-30_at_19.47.27.png).
+
+### 6.3 · En los juegos oficiales
+
+- El minijuego de navegador de Young Jump usa **elección de diálogo** tipo
+  novela visual: texto abajo, respuestas como botones (punto 11).
+
+### 6.4 · Qué cuadro usar en la lámina
+
+- **Para el texto principal**: la **cartela vertical «本日の勝敗»** pasada a
+  horizontal para el español (mismo marco: blanco, borde negro grueso,
+  filete fino), con **Shippori Mincho**. Es lo más reconocible y no es un
+  globo blanco genérico: es una **placa**.
+- **Para lo que piensa el personaje**: un recuadro con **fondo a cuadros**
+  (nervios) o **fondo de color plano** (monólogo), sin globo, con **Caveat**.
+- **Para el ganador o el remate**: la cartela escalonada, con la última
+  palabra en letra gruesa con contorno.
+- **Nunca**: globo blanco redondo con cola, ni el subtítulo de streaming.
+
+## Punto 7 · Los personajes y quién es el más querido
+
+**El hallazgo**: el protagonista **Miyuki Shirogane queda último** entre los
+seis principales en las encuestas y en AniList. Los que suben son los que
+**miran la guerra desde fuera**, como el público: Hayasaka, Ishigami y Miko.
+
+| Fuente | 1.º | 2.º | 3.º | 4.º | 5.º | 6.º |
+|---|---|---|---|---|---|---|
+| [AniList](https://anilist.co/anime/101921) (favoritos, internacional) | Kaguya 20 513 | Chika 16 164 | **Miko** 15 180 (secundaria) | Ishigami 14 674 | Hayasaka 10 924 | **Shirogane** 9128 |
+| [ねとらぼ調査隊](https://nlab.itmedia.co.jp/research/articles/229268/) (abr-2021, 3493 votos, Japón) | **Ai Hayasaka** 738 (20,5 %) | Ishigami 607 | Miko 541 | Kaguya 406 | Chika 378 | **Shirogane** 263 (7,3 %) |
+| [みんなのランキング](https://ranking.net/rankings/best-kaguya-characters) (en curso) | Hayasaka | Miko (89,1 pts, 2106 votantes) | Kaguya | — | — | — |
+| サブカルウォーカー (abr-2020, citada por [netabare](https://manga-comic-netabare.com/archives/28932/kaguyasama-character-popularity-results/)) | Kaguya | Hayasaka | Chika | — | — | — |
+
+- ⚠️ **Ninguna es oficial de Shueisha** (lo aclara el propio artículo de
+  netabare: 「どれも公式の発表ではない」). Son de un medio real (ITmedia) y de
+  webs de votos; coinciden entre sí y con AniList.
+- [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/KaguyaSamaLoveIsWar)
+  llama a Ishigami y Hayasaka *Ensemble Dark Horse* (secundarios que se
+  comen la serie) ✅.
+- **Para una lámina**: **Kaguya** si es para el público internacional y
+  latino; **Chika** si se busca alegría y meme; **Hayasaka** o **Miko** si se
+  quiere el secundario querido. **Shirogane** mejor acompañado.
+
+**Los principales, en una línea** (a fondo en el punto 13):
+- **Kaguya Shinomiya**: vicepresidenta, heredera Shinomiya, fría por fuera y
+  tierna por dentro. Ojos rojos, lazo rojo en la media coleta.
+- **Miyuki Shirogane**: presidente, pobre y trabajador, ojeras, cordón
+  dorado.
+- **Chika Fujiwara**: secretaria, caos alegre, lazo negro en el pelo rosa.
+- **Yu Ishigami**: tesorero, cínico, cascos al cuello, flequillo en el ojo.
+- **Ai Hayasaka**: la criada de Kaguya, cuatro caras, rubia.
+- **Miko Iino**: la del comité de disciplina, brazalete amarillo, la más
+  bajita (147 cm).
+- **El Narrador**: no es un personaje, pero es la voz de la serie.
+
+## Punto 8 · Doblaje latino: voces, frases textuales y datos
+
+**Estudio y equipo** ([Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War)
+por su API): **VSI Mexico City** (con MilVox en la T3). Dirección **Leyla
+Rangel** (T1-T2, su primer anime como directora) y **Jessica Ángeles** (T3).
+Traducción Jennifer Medel (T1) y Olinca Hidalgo (T2-T3). Grabado en mayo de
+2021 (T1-T2) y abril-junio de 2022 (T3).
+
+La **película** y el especial **«Stairway to Adulthood»** (Crunchyroll,
+20-ago-2026) **recuperaron al elenco original** tras la presión de los fans ✅
+([ANMTV](https://anmtvla.com/2026/08/kaguya-sama-love-is-war-stairway-to.html),
+[SomosKudasai](https://somoskudasai.com/noticias/kaguya-sama-love-is-war-recupera-al-elenco-de-doblaje-original/)).
+
+| Personaje | Seiyū | Voz latina | Dos fuentes |
+|---|---|---|---|
+| Kaguya Shinomiya | Aoi Koga | **Jessica Ángeles** | ✅ Doblaje Wiki + [ANMTV](https://anmtvla.com/2023/02/kaguya-sama-love-is-war-first-kiss-that_7.html) |
+| Miyuki Shirogane | Makoto Furukawa | **Enzo Fortuny** | ✅ |
+| Chika Fujiwara | Konomi Kohara | **Elizabeth Infante** | ✅ |
+| Yu Ishigami | Ryōta Suzuki | **Alejandro Orozco** | ✅ |
+| Ai Hayasaka | Yumiri Hanamori | **Leyla Rangel** | ✅ (SomosKudasai la nombra como directora y actriz) |
+| Miko Iino | Miyu Tomita | Desireé González | ⚠️ sólo Doblaje Wiki |
+| Kei Shirogane | Sayumi Suzushiro | Amanda Hinojosa | ⚠️ |
+| Narrador | Yutaka Aoyama | Óscar Flores | ⚠️ |
+| Sr. Shirogane (padre) | Takehito Koyasu | Rafael Pacheco | ⚠️ |
+| Maki Shijo | Kana Ichinose | Susana Cohe | ⚠️ |
+| Nagisa Kashiwagi | Momo Asakura | Yaha Lima | ⚠️ |
+| Tsubasa Tanuma | Taku Yashiro | Diego Becerril | ⚠️ |
+| Kobachi Osaragi | Rina Hidaka | Jocelyn Robles | ⚠️ |
+| Moeha Fujiwara | Ari Ozawa | Marisol Hamed | ⚠️ |
+| Tsubame Koyasu | Haruka Fukuhara | Erika Langarica | ⚠️ |
+| Adolphe Pescarolo | Itaru Yamamoto | Raúl Anaya | ⚠️ |
+| Miyuki niño (ep. 24) | Yō Taichi | Leyla Rangel | ⚠️ |
+
+(AniList da además Toyomi Fujiwara: Mónica Moreno; Erika Kose: Stephanie
+Filigrana ⚠️. Varios de fondo están como «¿?» en la propia Doblaje Wiki.)
+
+### 8.1 · Frases textuales, oídas con `voz.py`
+
+Muestras oficiales de Doblaje Wiki transcritas con Whisper; tono y velocidad
+**medidos**, no de oído.
+
+- **Kaguya** (Jessica Ángeles), [audio](https://static.wikia.nocookie.net/doblaje/images/a/a9/Kaguya-Sama_Kaguya_Shinomiya_%28ESP-LA%29.ogg), 0:00-0:33:
+  *«Estúpidos y vulgares plebeyos… ¿Qué ideas tan ridículas tienen sobre
+  mí? Soy de la familia Shinomiya, el corazón de este país… Es sólo cuestión
+  de tiempo.»* · grave (112 Hz), muy expresiva (18,7 semitonos), rápida
+  (3,12 palabras/s) ✅
+- **Shirogane** (Enzo Fortuny), [audio](https://static.wikia.nocookie.net/doblaje/images/d/d1/Kaguya-Sama_Miyuki_Shirogane_%28ESP-LA%29.ogg), 0:00-0:20:
+  *«Todos creen que Shinomiya y yo estamos saliendo, a las masas les encanta
+  inventar romances sin sentido, qué gente tan ingenua… Si Shinomiya me
+  pidiera que saliera con ella, entonces supongo que podría pensarlo.»* ·
+  151 Hz, 19,3 semitonos, 2,89 palabras/s ✅
+- **Chika** (Elizabeth Infante), [audio](https://static.wikia.nocookie.net/doblaje/images/a/ab/Kaguya-Sama_Chika_Fujiwara_%28ESP-LA%29.ogg), 0:00-0:09:
+  *«¡Ay, por favor! ¿Saben? Hace poco gané un par de boletos para ir al
+  cine, pero la verdad es que mis padres no me dan permiso para ir a ver esta
+  clase de películas. ¿A ustedes les interesaría ir juntos?»* · muy aguda
+  (377 Hz), 7,8 semitonos, 2,66 palabras/s ✅
+- **Ishigami** (Alejandro Orozco), [audio](https://static.wikia.nocookie.net/doblaje/images/9/95/Y%C5%AB_Ishigami_-_kaguya_sama.ogg), 0:00-0:15:
+  *«Así debemos reaccionar cuando una mujer está enojada por tonterías. De
+  cualquier modo, el que un hombre intente entender por completo a una mujer
+  tal vez es algo inútil… ¿No se da cuenta que ella cavó su propia tumba?»*
+  · grave (117 Hz), 19,7 semitonos, **el más rápido** (3,29 palabras/s) ✅
+- **Ai Hayasaka** (Leyla Rangel), [audio](https://static.wikia.nocookie.net/doblaje/images/9/9e/Kaguya-Sama_Ai_Hayasaka_%28ESP-LA%29.ogg), 0:00-0:12:
+  *«Señorita Kaguya, una pregunta hipotética: si algún día usted se enamorara
+  de verdad, ¿esperaría que él le confiese su amor, o lo haría usted
+  misma?»* · 192 Hz, **la más calmada** (7,5 semitonos), 2,6 palabras/s ✅
+- **Miko Iino** (Desireé González), [audio](https://static.wikia.nocookie.net/doblaje/images/5/53/Miko_Iino_%28ESP-LA%29.ogg), 0:00-0:21:
+  *«Las ideas no ideales carecen de significado… Eh, disculpe, quisiera
+  pedirle un favor. Cuando yo sea presidenta del consejo estudiantil, si no
+  es molestia, ¿sería usted mi vicepresidenta? […] ¿Qué no conocen la joya
+  que tienen en sus manos?»* · **la más aguda** (382 Hz), **la más
+  expresiva** (25,2 semitonos) ✅
+- **Narrador** (Óscar Flores), [audio](https://static.wikia.nocookie.net/doblaje/images/6/6b/Kaguya-Sama_Narrador_%28ESP-LA%29.ogg), 0:00-0:16:
+  *«Esta es la Academia Privada Shuchiin. Se trata de un honorable y antiguo
+  instituto de gran fama y enorme prestigio para educar a los jóvenes de alta
+  sociedad…»* · 159 Hz, 20,6 semitonos, rápida (3,08) — tono de noticiero ✅
+- Tráiler T3 subtitulado: *«Presi, ¿tienes a alguien que te gusta,
+  verdad?»* (0:56) y la voz en off *«me asusta confesar»* (0:47) ✅.
+
+### 8.2 · Lo que hay que saber del doblaje latino
+
+- **Mexicanismos y guiños añadidos** (no están en el original): «Jesús de
+  Veracruz», «metiche», «Perfectirijillo» (Ned Flanders), Chespirito, Pedro
+  Infante, Juan Gabriel (ep. 2), **«¡Quiero mi cocol!»** (Jorge Arvizu, ep.
+  13), **«Ola k ase?»** (ep. 17), **«maldita lisiada»** (María la del Barrio,
+  ep. 21 y 29), **«loquita del centro»** (Kaguya, ep. 26) ✅.
+- **Groserías reales**: «carajo»; en el ep. 29, «chingar», «¡qué cabrón!»,
+  «joder» (con pitido, como en japonés).
+- **Ishigod**: así llama Miyuki a Ishigami en el ep. 30; es el apodo del
+  fandom, adoptado en el doblaje.
+- Arsène pasa a **Arsenio** (ep. 35).
+- **Se dejaron en japonés**: el himno escolar (ep. 17), la canción de
+  Hayasaka (ep. 26 y 35) y la 2.ª canción de Kaguya (ep. 29). El resto de
+  escenas musicales sí están dobladas.
+- El OVA de 2021 **nunca se dobló**.
+
+## Punto 9 · Música y sonido
+
+Compositor: **Kei Haneoka** (羽岡佳) ✅ (AniList + créditos del opening, ep. 1,
+1:36-1:40; y del tráiler T3, 0:20). Sonido: Jin Aketagawa (明田川仁).
+
+| Tema | Quién | Dónde | Estado |
+|---|---|---|---|
+| OP T1 **«Love Dramatic feat. Rikka Ihara»** | Masayuki Suzuki, Rikka Ihara; letra y música Yoshiki Mizuno | ep. 1, ~0:30-2:00 (título en pantalla 1:53) | ✅ visto + [Wikipedia](https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War_season_1) |
+| ED T1 **«Sentimental Crisis»** | Halca | ep. 1, 23:00-24:56 (créditos sobre escena) | ✅ |
+| ED especial ep. 3 **«チカっとチカ千花っ♪»** | Konomi Kohara (en personaje) | ep. 3, 22:30-23:57; título en pantalla 23:24 | ✅ |
+| OP T2 **«Daddy! Daddy! Do!»** | Masayuki Suzuki feat. Airi Suzuki | — | ⚠️ una fuente |
+| ED T2 **«Kaze ni Fukarete»** (風に吹かれて) | Haruka Fukuhara según la web; el tráiler se leyó «藤原さくら» | — | ⚠️ (§3) |
+| OP T3 **«GIRI GIRI»** | Masayuki Suzuki feat. Suu (Silent Siren) | tráiler T3, 1:16 | ✅ |
+| ED T3 **«Heart wa Oteage»** | Airi Suzuki | — | ⚠️ |
+| ED especial T3 ep. 5 **«My Nonfiction»** | Makoto Furukawa y Konomi Kohara en personaje | — | ⚠️ ([Anime Corner](https://animecorner.me/)/ANN) |
+| Tema nuevo **«Check it LOVE!»** | pack de sonido de la app de la pachislot | 2025 | ✅ (punto 11) |
+
+- **El sello sonoro**: la música **orquestal falsamente épica** de Haneoka
+  bajo la voz seria del narrador, que convierte un «buenos días» en un
+  clímax. Es el chiste central y se reconoce en 5 segundos ✅.
+- **Onomatopeyas**: no hay un «¡boom!» propio como en un *shōnen*; en el
+  manga sí se ven «ゴゴゴ» (amenaza, hoja 3 #100) y katakana grandes a mano.
+- ⚠️ No se encontró el nombre de la pista de los **fuegos artificiales**
+  (T1 ep. 12).
+
+## Punto 10 · Vídeos, tráileres y tendencias
+
+- **Episodios completos** T1 1-3: [Internet Archive](https://archive.org/details/kaguya-sama_202403)
+  (vistos el 1 y el 3; el 2 no) ✅.
+- **Tráiler VO corto** (Sensacine): [Dailymotion x88pf8w](https://www.dailymotion.com/video/x88pf8w), 0:30, visto cada 3 s ✅.
+- **Tráiler T2** con textos japoneses:
+  [Internet Archive](https://archive.org/details/kaguyasamaloveiswaranimes2ndseasonofficialtrailerteasernewpreviewpv),
+  1:43, fecha de estreno «2020年4月11日» ✅.
+- **Tráiler T3 «Ultra Romantic»** subtitulado: [Dailymotion x8bc80m](https://www.dailymotion.com/video/x8bc80m),
+  1:55: Kaguya furiosa (0:45), Shirogane serio (0:50), la pregunta de Chika
+  (0:56), su cara de sorpresa (1:16), Ishigami lanza un puñetazo (1:24) ✅.
+- **Tráiler de la película**: [Dailymotion x8f2tz7](https://www.dailymotion.com/video/x8f2tz7),
+  0:35: ternura (0:03), Shirogane sonrojado (0:04), beso bajo pétalos de
+  corazón (0:05-0:08), Kaguya bajo la luna (0:25) ✅.
+- **Tendencia: el «Chika Dance»** (ep. 3). En TikTok, el reto «bailar el
+  Chika Dance cada día hasta conseguir novia» (9-feb-2020) ✅
+  ([Know Your Meme](https://knowyourmeme.com/memes/chika-dance-guy-doing-the-chika-dance-every-day-til-i-get-a-girlfriend));
+  clip con fondo verde en [Internet Archive](https://archive.org/details/chikaYo).
+- **Vídeo-ensayo** «How Kaguya-sama Won the War on Love: The Power of
+  Premise»: [Internet Archive](https://archive.org/details/how-kaguya-sama-won-the-war-on-love-the-power-of-premise) ⚠️ (no escuchado entero).
+- **Reacciones**: «A CONFESSION?! … Season 3 Episode 8 REACTION!» y «THE
+  CONFESSION!! … S3 Ep 12-13 REACTION» (YouTube) ⚠️ sin vistas: YouTube
+  pidió sesión.
+- OP y ED de la película: [Internet Archive](https://archive.org/details/kaguya-sama-love-is-war-the-first-kiss-that-never-ends-op-ed) ⚠️ llegaron truncados.
