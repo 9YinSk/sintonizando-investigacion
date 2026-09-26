@@ -119,3 +119,5 @@ Quirrel | Los misterios y lugares inexplorados; volver a ver la belleza del mund
 - 26-sep, inglés: «Hollow Knight character databook official height stats favorite food» (buscador web) → confirmó que no existe databook oficial.
 - 26-sep: `herramientas/navegar.py` sobre tvtropes.org (YMMV, TearJerker, Memes de Hollow Knight) → memes de gritos de combate, escenas tristes (Quirrel, Myla, Dirtmouth/Bretta), qué NO hacer (voz limpia hablada rompe el tono).
 - 26-sep, inglés: «Hollow Knight TV Tropes Tearjerker Quirrel Blue Lake reddit reaction» (buscador web) → confirmó la escena del Lago Azul como la más citada.
+
+Sigue: punto 13, fotograma + minuto exacto de la cara de Hornet, Quirrel y el Caballero en cada emoción (alegría, rabia, tristeza, miedo, vergüenza), tomados de un vídeo real (longplay de Internet Archive o Dailymotion) con `fotogramas.py`; en esta tanda no hubo acceso a un vídeo de historia reproducible, sólo ilustraciones fijas de la wiki.

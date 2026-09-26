@@ -28,6 +28,7 @@ Cuenta: cuenta A104
 - 86 Saga of Tanya the Evil: **COMPLETA y subida** (22:46 UTC). ✅15 ⚠️15 ❌0, 152 referencias, 51 webs, 946 líneas.
 - 87 Tsukimichi: **COMPLETA y subida** (2026-09-26 01:22 UTC). ✅14 ⚠️16 ❌0, 99 referencias, 45 webs, 809 líneas.
 - 89 Frieren, paisajes y memoria: **COMPLETA y subida** (23:57 UTC). ✅28 ⚠️3 ❌0, 165 referencias, 55 webs, 2278 líneas.
+- 88 Konosuba: **COMPLETA y subida** (14:32 UTC). ✅27 ⚠️3 ❌0, 163 referencias, 52 webs, 1189 líneas.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 
 ## Avisos para el dueño
@@ -109,6 +110,8 @@ Cuenta: cuenta A104
   episodio ni minuto (sólo Doblaje Wiki); las partes no coinciden en la enfermedad de
   Yuuki (lupus o VIH) — queda ⚠️ sin resolver. #reto-de-la-semana y #general-doblaje
   también los piden otras series (nota, no bloquea).
+
+- **88 Konosuba:** más querida, Megumin (encuesta Sneaker Bunko; 16.696 favoritos en AniList; 3.ª más dibujada en Danbooru); secundaria más querida, Yunyun. Cuadro de diálogo: pergamino de madera y papel con cinta de nombre, del juego oficial de Steam (#CCB47A, #D4AE67, #C08E53); letras Tiki Tropic y Anime Ace 2.0 BB. Láminas: A #presentaciones «Carnet de aventurero en el Gremio»; B #reto-de-la-semana «Tablón de misiones» (reto: la Explosión); C #castings «Pergamino sellado junto a la muralla». Quedan ⚠️: la escena que hace llorar (final de Legend of Crimson, explosión en forma de corazón) sólo está en YouTube — falta minuto y música; los 9 clips doblados de Crunchyroll están bloqueados por país — oírlos con IP latinoamericana; las frases latinas con minuto son del spin-off de Megumin (canal no oficial Rayvox). Fanservice: las imágenes n.º 26, 48, 66 y 109 de las hojas no sirven para el servidor. Dos textos de ejemplo de los conceptos son inventados «en su voz» — decidir si se usan.
 
 - 90 Kaguya-sama repite la serie de 43 (lote D) con otro enfoque («comedia y rótulos»). La dejo para el final del lote: si la 43 ya está, la 90 sólo profundiza en ese enfoque.
 - 79, 80 y 89 son segundas miradas a Demon Slayer (31), Solo Leveling (03) y Frieren (33) con un enfoque propio (paisajes, sistema, memoria): se parte de esas biblias para no repetir.

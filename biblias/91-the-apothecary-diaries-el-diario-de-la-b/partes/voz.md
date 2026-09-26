@@ -67,3 +67,24 @@ Jinshi | Sonrisa «angelical» (máscara pública) | — | — | descrito en tex
 Jinshi | Puchero infantil (fachada caída en privado) | — | — | descrito en texto, sin fotograma con minuto
 
 ⚠️ Esta tabla queda incompleta: capturar los fotogramas con minuto es tarea del investigador de vídeo (tiene `fotogramas.py`); aquí se documenta la emoción y la fuente textual, pero sin acceso a YouTube ni a los episodios completos no se pudo medir el minuto exacto.
+
+## 20 · Gustos y detalles de cada personaje
+
+De la wiki oficial en inglés (infobox por personaje, con ficha de edad, altura, familia) y descripción de personalidad. No hay «databook» oficial de gustos/comida traducido y accesible; hay un libro de recetas oficial anunciado para 2026 (aún no publicado), que confirma que la comida es parte central del mundo de la serie.
+
+Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Fuente
+---|---|---|---|---|---|---
+Maomao | Venenos y remedios raros (los prueba en sí misma); el alcohol, al que es muy resistente | Estudiar temas que no le interesan (reprobó el examen de dama de la corte por eso) | Boticaria; experimentar con plantas e insectos; anotar recetas en su cuaderno | ⚠️ no encontrado con fuente oficial | 153 cm ✅ | [kusuriya.fandom.com/wiki/Maomao](https://kusuriya.fandom.com/wiki/Maomao) (infobox) + [Saimoe Wiki](https://saimoe.miraheze.org/wiki/Maomao_(The_Apothecary_Diaries)) ✅
+Jinshi / Ka Zuigetsu | Usar su belleza como arma social; resolver misterios con ayuda de Maomao | Que lo comparen con el Emperador y salir perdiendo; ser visto como «solo una cara bonita» | Práctica con espada (sus manos tienen callos de manejarla) | ⚠️ no encontrado | 181 cm ✅ | [kusuriya.fandom.com/wiki/Jinshi](https://kusuriya.fandom.com/wiki/Jinshi) (infobox)
+
+- El objeto que Maomao siempre lleva: su cuaderno de apuntes de boticaria («Maomao's Memo», aparece como escena alterna en el manga) ✅ · [kusuriya.fandom.com/wiki/Maomao](https://kusuriya.fandom.com/wiki/Maomao), galería del infobox
+- Está anunciado «The Apothecary Diaries: Maomao's Recipe Collection», primer libro oficial de recetas de la serie, para el 13 de mayo de 2026 ✅ · [haveagood-holiday.com](https://www.haveagood-holiday.com/en/articles/apothecary-diaries-maomaos-recipe-collection-2026) · confirma que la comida/veneno es eje central del personaje, aunque no da la lista de platos favoritos todavía
+
+## 21 · Por qué la gente la ama
+
+Razones concretas encontradas: el misterio resuelto por deducción científica (no magia), la química Maomao-Jinshi sin ñoñería, y el uso del silencio/gesto en vez del diálogo para la emoción.
+
+- Escena que hace llorar ✅: episodio 48 (final de la 2ª temporada), Maomao lee una carta de Xiaolan y llora; la escena NO muestra su cara llorando, sólo la transmite por animación sutil — el público comentó «yo también lloré», «lloré con la carta» · [ABEMA TIMES / Anime News](https://times.abema.tv/en/articles/-/10187527) · ⚠️ (una fuente; falta minuto exacto dentro del episodio y confirmar con clip)
+- Episodio 19 («Maomao saves Jinshi») señalado por la prensa especializada como un punto de giro emocional de la relación central ✅ · [Sportskeeda](https://sportskeeda.com/anime/the-apothecary-diaries-episode-19-maomao-saves-jinshi) · ⚠️ (reseña, sin minuto)
+- Episodio 24 («Maomao's parents reunite») señalado como el reencuentro de Maomao con su madre biológica, momento clave del arco familiar ✅ · [Sportskeeda](https://www.sportskeeda.com/anime/the-apothecary-diaries-episode-24-maomao-s-parents-reunite) · ⚠️ (reseña, sin minuto)
+- CBR (crítica especializada) destaca que el público se identifica con Maomao por ser una protagonista femenina que resuelve problemas con inteligencia, no con romance forzado ni poderes; contraste que la prensa usa contra «heroínas típicas de Hollywood» ✅ · [CBR — Best Characters](https://www.cbr.com/apothecary-diaries-best-characters-maomao-jinshi/) y un video-ensayo citado en la propia wiki, «Why Maomao WORKS (and Hollywood's Female Leads FAIL)» (dumbo, YouTube, 19 mar 2025) · ⚠️ (referencia indirecta vía wiki, no se pudo abrir YouTube)

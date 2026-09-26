@@ -419,3 +419,276 @@ Vídeos: opening Remake (x89nb1q), demo PS3 (x89cm28), gameplay de Tifa en Remak
 
 **Resumen por uso:** presentar → Cloud 5:00 o Aerith con la flor; explicar → Sephiroth leyendo o Tifa en la Corriente Vital; celebrar → patada de Tifa; regañar → Sephiroth cayendo (sólo silueta); pensar → Aerith rezando; animar → Cloud dando la materia.
 
+## 15 · Vestuario
+
+Hex **medidos** con `estilo.py` sobre recortes de cada prenda en los renders oficiales (Remake; Sephiroth en *Crisis Core Reunion*). El traje base es el icónico.
+
+| Personaje | Prenda | Hex |
+|---|---|---|
+| Cloud | camiseta sin mangas negra (ex-SOLDIER) | `#151215` |
+| Cloud | pantalón índigo casi negro | `#0F0F15` |
+| Cloud | pelo rubio (luz / sombra) | `#E2C29B` / `#A58765` |
+| Cloud | guantes y muñequeras de cuero | `#211D1C` |
+| Cloud | hombrera metálica (izquierda) | `#343037` |
+| Cloud | botas | `#14171A` |
+| Tifa | top blanco corto | `#E7E8E7` |
+| Tifa | falda de cuero negra | `#141314` |
+| Tifa | medias hasta el muslo | `#100F10` |
+| Tifa | **botas rojas** | `#8A0507` |
+| Tifa | guantes de pelea | `#181715` |
+| Tifa | pelo negro-castaño | `#191311` |
+| Aerith | **chaqueta bolero roja** (luz `#932129`, sombra `#6E1217`) | `#7A1A20` |
+| Aerith | vestido rosa largo | `#D2BABC` |
+| Aerith | pelo castaño (sombra) ⚠️ una imagen | `#2A221A` |
+| Aerith | botas | `#161617` |
+| Sephiroth | abrigo largo negro | `#27252A` |
+| Sephiroth | hombreras plateadas (sombra / brillo) | `#776E6C` / `#999CAC` |
+| Sephiroth | pelo plateado ⚠️ contraluz, sale más claro | `#A19FAB` |
+| Sephiroth | botas | `#373741` |
+
+**Por arco** (en la wiki, sin hex propio ⚠️):
+- **Cloud:** uniforme SOLDIER clásico (1997) → ex-SOLDIER del Remake → abrigo largo de *Advent Children* → vestidos 1, 2 y 3 del Wall Market ([vestido 1, 2400×4266](https://static.wikia.nocookie.net/finalfantasy/images/9/98/Cloud_dress_1_from_FFVII_Remake_render.png)).
+- **Tifa:** base → vestidos del Wall Market → camuflaje «Midgar Infantry» ([1461×3748](https://static.wikia.nocookie.net/finalfantasy/images/3/3d/Tifa_Midgar_Infantry_outfit_from_FFVII_Rebirth_render.png)) → gala «Majestic Glamour» → delantal «Pride of Seventh Heaven».
+- **Aerith:** base → vestidos del Remake → «Pink Mermaid» de playa ([1274×3814](https://static.wikia.nocookie.net/finalfantasy/images/b/b1/Aerith_Pink_Mermaid_outfit_from_FFVII_Rebirth_render.png)) → «Floral Delight».
+- **Sephiroth:** abrigo largo (igual desde 1997) → uniforme SOLDIER 1st Class de joven (Nibelheim).
+
+**Lo que lo hace reconocible:**
+- Cloud: pendiente plateado en una oreja, ojos mako azules brillantes, Buster Sword a la espalda.
+- Tifa: pendiente blanco en forma de lágrima, pelo muy largo atado en la punta.
+- Aerith: **lazo rosa grande** en la trenza (dentro, la Materia Blanca), collar.
+- Sephiroth: pelo plateado hasta la cintura, pupilas de gato, Masamune larguísima.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+**Fondos oficiales de *Ever Crisis*** («Home Wallpaper», ✅):
+- «At Cosmo Canyon», 2436×1080 · [imagen](https://static.wikia.nocookie.net/finalfantasy/images/2/28/Home_Wallpaper_At_Cosmo_Canyon_from_FFVIIEC.png) · atardecer, roca roja.
+- «Beach Vacation», 2436×1080 · [imagen](https://static.wikia.nocookie.net/finalfantasy/images/6/65/Home_Wallpaper_Beach_Vacation_from_FFVIIEC.png) · Costa del Sol, mediodía, agua turquesa.
+- «Battle for the Planet», 2436×1080 · [imagen](https://static.wikia.nocookie.net/finalfantasy/images/3/34/Home_Wallpaper_Battle_for_the_Planet_from_FFVIIEC.png).
+- «Challenging Fate», 2436×1080 · [imagen](https://static.wikia.nocookie.net/finalfantasy/images/2/28/Home_Wallpaper_Challenging_Fate_from_FFVIIEC.png).
+- «Glory to Mankind», 2436×1080 · [imagen](https://static.wikia.nocookie.net/finalfantasy/images/e/e1/Glory_to_Mankind_from_FFVIIEC.png).
+- «Traces of Two Pasts», 2308×1080 · [imagen](https://static.wikia.nocookie.net/finalfantasy/images/f/fa/FFVIIEC_Wallpaper_TracesOfTwoPasts.jpg).
+- «The Demon King and the Captive Princess», 2336×1080 · [imagen](https://static.wikia.nocookie.net/finalfantasy/images/9/90/Home_Wallpaper_The_Demon_King_and_the_Captive_Princess_from_FFVIIEC.png).
+- Temporada 1, todo el elenco, 2400×1080 · [imagen](https://static.wikia.nocookie.net/finalfantasy/images/d/d3/FFVIIEC_Wallpaper_Season1.jpg).
+- Key art «Midgar Highway» (Remake), 2510×1080 · punto 1.
+
+**De fans (Wallhaven):** Nixeu 5077×6000 y WLOP 7680×4800 (punto 3); Psychofruit 4780×6500 ([imagen](https://w.wallhaven.cc/full/28/wallhaven-281x2x.jpg)) ⚠️ sin origen.
+
+**Los sitios y su luz:**
+- **Midgar:** un plato metálico gigante tapa el sol a los barrios de abajo (los tugurios). Abajo, luz artificial verde-azulada de neón y mako. Arriba, atardecer naranja sobre torres corporativas. Cada barrio es un **Sector** con número.
+- **Iglesia del Sector 5:** sol suave por el techo roto, flores entre las tablas. Alrededor, gris-marrón de chatarra.
+- **Séptimo Cielo (Sector 7):** el bar de Tifa, base de AVALANCHE. Diorama CC BY en el punto 3.
+- **Nibelheim:** pueblo de montaña, madera oscura. En el incendio, naranja de fuego contra azul de noche.
+- **Cosmo Canyon:** cañón rojo-naranja, atardecer, observatorio en la roca.
+- **Costa del Sol:** playa turquesa, luz blanca, sombrillas.
+- **Ciudad Olvidada:** turquesa, agua, luz difusa (paleta medida en el punto 4).
+
+## 17 · Guía para generar con IA (imagen y texto)
+
+### 17a · IA de imagen (Firefly, Canva)
+
+**Elige una época y no la mezcles.** Tres estilos:
+1. **Remake/Rebirth (el más útil):** 3D semirrealista estilizado, pelo en mechones finos, piel suave, luz cinematográfica.
+2. **Amano:** acuarela suelta sobre papel, líneas finas, colores lavados.
+3. **1997:** fondos pintados prerenderizados, un poco borrosos y con grano, personajes de pocos polígonos.
+
+**Rasgos que nunca cambian:**
+- **Cloud:** pelo rubio en picos grandes hacia arriba y atrás (`#E2C29B`), ojos azules brillantes (mako), camiseta sin mangas negra, **una sola hombrera** metálica, **Buster Sword enorme** (hoja ancha).
+- **Tifa:** pelo negro muy largo atado en la punta, top blanco corto, falda negra corta, **botas rojas** `#8A0507`, guantes de pelea.
+- **Aerith:** trenza castaña larga con **lazo rosa**, ojos verdes, vestido rosa largo `#D2BABC`, **bolero rojo** `#7A1A20`, vara de combate.
+- **Sephiroth:** pelo plateado hasta la cintura, un mechón delante, ojos verdes de pupila rasgada, abrigo largo negro de cuero `#27252A`, hombreras plateadas, **Masamune** muy larga.
+
+**Paleta de la serie:** noches de Midgar verde-gris (`#141618`, `#474F47`), verde mako brillante (`#3CB6AD`), fuego naranja de Nibelheim (`#D0633A`, `#F8CA56`), rojo Shinra `#B10711`, azul del menú `#000091`.
+
+**Línea y sombreado:** sin contorno negro de anime. Sombreado suave degradado. Luz de contorno fría (cian) detrás del personaje. Niebla y partículas verdes delante.
+
+**Palabras que ayudan:** «Final Fantasy VII Remake style», «semi-realistic 3D render», «cinematic lighting», «mako green glow», «industrial steampunk city at night», «rim light», «volumetric fog», «Unreal Engine».
+**Palabras que lo estropean:** «anime», «chibi» (salvo que quieras *Ever Crisis*), «cel shading», «thick black outline», «cute pastel», «fantasy medieval castle», «katana» para Cloud (su espada es ancha, no una katana).
+
+**Referencias de estilo y de pose:**
+- Estilo: renders de batalla de Cloud y Tifa, key art de Aerith (punto 1), key art «Midgar Highway».
+- Pose: los fotogramas del punto 14 (Cloud 5:00, Aerith con la flor 2:50, Sephiroth leyendo 0:40, patada de Tifa 2:50).
+- **Materia:** esfera de cristal translúcido con brillo interior del color de su tipo, un punto de luz blanca y un leve halo. Tamaño de una canica grande. Verde `#347035` magia, amarillo comando, rojo `#902B2D` invocación, morado independiente, azul apoyo.
+
+### 17b · IA de texto (diálogos en su voz)
+
+**Reglas:** frases cortas. Nada de «¡¡¡» en Sephiroth. Las citas van en inglés original; la traducción es **nuestra, no un doblaje** (no existe doblaje latino).
+
+- **Cloud:** seco, desganado, pocas palabras. Termina con punto, no con exclamación. Muletilla: «Let's mosey» (≈ «Vámonos, pues»). No explica sus sentimientos.
+- **Tifa:** cálida, pregunta por los demás, anima sin gritar. Usa el nombre de la persona.
+- **Aerith:** juguetona, bromea, provoca un poco a Cloud, y de golpe dice algo profundo. Muchas preguntas.
+- **Sephiroth:** solemne, habla del destino y de «los Ancianos», frases que suenan a profecía. Nunca levanta la voz.
+- **Barret:** gritón, exclamaciones, palabrotas suaves, metáforas de calle.
+
+**Frases reales por emoción** (todas de las partes; las que faltan se dicen):
+
+| Emoción | Frase real | Quién | Fuente |
+|---|---|---|---|
+| Alegre / pícaro | «Let's mosey» | Cloud | TV Tropes ✅ |
+| Enfadado | «Biggs!» (grito al encontrarlo herido) | Barret | [Sector 7, 3:20](https://www.dailymotion.com/video/x89clz1?t=200) ✅ |
+| Enfadado / acusa | «Sephiroth did this to you, didn't he?!» | ⚠️ atribuida a Tifa | [Nibelheim, 6:00](https://www.dailymotion.com/video/x2yc6on?t=360) |
+| Explicando | «The Jenova Project wanted to produce people with the power of the Ancients» | Sephiroth | [Nibelheim, 0:40](https://www.dailymotion.com/video/x2yc6on?t=40) ✅ |
+| Explicando (humor) | «that great big pizza in the sky» (la placa de Midgar) | Barret | [wiki, Midgar](https://finalfantasy.fandom.com/wiki/Midgar) ✅ |
+| Triste / despedida | «I'll be going now. I'll come back when it's all over» | Aerith | parte de voz ⚠️ una fuente |
+| Animando | ⚠️ no hay frase textual comprobada en las partes | — | — |
+
+**Vocabulario del mundo** para la IA: Mako, Materia, Lifestream (Corriente Vital), SOLDIER (en mayúsculas), Turks, Cetra, Jenova, Shinra, AVALANCHE, Sector 7, Gil, Limit Break, chocobo, Séptimo Cielo.
+**Vocabulario de gesto** (no es anime: no hay gotas de sudor ni fondos de emoción):
+- ojos mako = brillo azul-verde en el iris; la cara se queda quieta y habla la luz.
+- tristeza = cabeza gacha, plano muy cerrado, lluvia o agua.
+- amenaza = contraluz, silueta, fuego detrás.
+- *chibi* sólo existe en *Ever Crisis*.
+
+## 18 · Estilo de dibujo y técnica
+
+**Quién define el estilo** ✅:
+- Diseño de personajes: **Tetsuya Nomura** (desde 1997); en Remake, con **Roberto Ferrari** (crédito impreso en el propio menú del juego).
+- Logo: **Yoshitaka Amano**, 1997.
+- Director del original: Yoshinori Kitase. Productor: Hironobu Sakaguchi ([Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VII)).
+- Director de la trilogía Remake: **Naoki Hamaguchi** (codirector en Remake, director desde Rebirth).
+
+**Técnica por época:**
+- **1997:** modelado en **Alias PowerAnimator** y **Softimage|3D** sobre estaciones Silicon Graphics. Unas 120 personas, artistas de efectos de Hollywood, unos 45 millones de dólares. **Más de 700 fondos prerenderizados** a 320×224 píxeles, con personajes poligonales encima ([GamingBolt](https://gamingbolt.com/final-fantasy-7-a-tech-deep-dive-into-the-rpg-classic)) ✅.
+- **2005, *Advent Children*:** **Visual Works**, el estudio de CG de Square, dirigida por Nomura. Empezó como corto; tuvieron dos meses para tener 30 minutos para Venecia ([Wikipedia](https://en.wikipedia.org/wiki/Visual_Works)). Hecha «sobre todo con Maya» según [Blender Artists](https://blenderartists.org/t/final-fantasy-vii-advent-children-modeling-techniques/360552) ✅.
+- **2020-2027, trilogía Remake:** **Unreal Engine 4** «con muchas modificaciones» (Hamaguchi, [entrevista de Unreal Engine](https://www.unrealengine.com/developer-interviews/how-square-enix-leveraged-unreal-engine-to-modernize-final-fantasy-vii-remake)). Rehicieron escenas hasta que Nomura aprobó la expresión de Cloud.
+- **Pelo:** hebras finísimas que se «encienden y apagan» por píxel, suavizadas con **TAA**. Con escalado dinámico el pelo se ve más «erizado» ([AUTOMATON WEST](https://automaton-media.com/en/interviews/we-ask-final-fantasy-vii-remake-director-naoki-hamaguchi-about-the-switch-2-versions-hair-problem-why-does-it-happen-and-can-it-be-avoided/), cita del director) ✅.
+
+**En Photoshop (look de fondo 1997):**
+- Pinceles de textura suave, no lápiz duro. Cielo de Midgar de cian a violeta oscuro.
+- Capa de Curvas que baje el contraste medio (look de pantalla CRT).
+- Ruido 2-4 % y un desenfoque gaussiano muy leve: imita el fondo de 320×224 reescalado.
+- Caja de diálogo: degradado `#01017E` → `#000091` → `#000056`, esquinas redondeadas, borde claro de 2 px.
+
+**En Blender:**
+- **Fondos estilo 1997:** el add-on gratuito **Blam** encaja la cámara de Blender con la foto de un fondo (líneas de fuga). Encima se modela el suelo invisible (*walkmesh*) para poner personajes 3D con perspectiva correcta ([namelivia.com, tutorial en 3 partes](https://namelivia.com/final-fantasy-vii-scene-reconstruction-using-blender-part-1/)) ✅. La herramienta de fans *Makou Reactor* extrae cámaras reales del juego: sólo como medida, no para redistribuir.
+- **Look Remake:** pelo en tiras (*hair cards*) con Principled Hair BSDF en Cycles; en Eevee, activar el muestreo temporal para que no parpadee. Luz de contorno fría (cian) detrás, relleno suave delante.
+- **Nada de Freestyle ni Line Art:** el estilo no lleva contorno negro.
+- **Modelos y rigs libres:** Tifa T-Pose con rig, Cloud HD, Sephiroth HD, Buster Sword, iglesia, Séptimo Cielo, edificio Shinra (punto 3).
+
+**Encuadre y composición:**
+- Emoción: primer plano muy cerrado, la cara ocupa 2/3 del cuadro, luz de borde en el perfil.
+- Grupos: en **diagonal**, no en fila.
+- Profundidad: niebla, lluvia, chispas de materia o luciérnagas de mako **entre la cámara y el personaje**.
+- Amenaza: contraluz y silueta (Sephiroth en el fuego, 4:00).
+
+## 19 · Texturas 2D
+
+FFVII no tiene manga: no hay tramas propias. Su «papel» son los artbooks y la novela ilustrada *The Kids Are Alright* (arte de Sho-u Tajima, trazo fino y aguadas).
+
+**Tramas** (por si se imita cómic o libro ilustrado; ⚠️ comprobar la licencia del autor al bajarlas):
+- [Free Comic/Manga Screentone Brushes](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/) (Photoshop, Procreate, CSP).
+- [Comic Screentone Procreate Brushes](https://www.graphicsbunker.com/brushes/free-comic-screentone-procreate-brushes/) (23 pinceles).
+
+**Materiales reales, CC0 de ambientCG** ✅:
+- [Leather 030](https://ambientcg.com/view?id=Leather030): guantes y hombreras de Cloud y Tifa.
+- [Metal 063](https://ambientcg.com/view?id=Metal063): plato de Midgar, Masamune.
+- [Corrugated Steel 009](https://ambientcg.com/view?id=CorrugatedSteel009): chapas de los tugurios.
+- [Concrete 046](https://ambientcg.com/view?id=Concrete046): calles de Midgar.
+- [Fabric 061](https://ambientcg.com/view?id=Fabric061): vestido de Aerith.
+- [Paper 006](https://ambientcg.com/view?id=Paper006): papeles de la mansión Shinra.
+
+**Emblemas** (para calcar o vectorizar, no descargables sueltos):
+- Logo de Shinra: rombo rojo `#B10711`, kanji 神羅 en gris metálico, nombre en dorado ([PNG 7087×7072](https://static.wikia.nocookie.net/finalfantasy/images/8/82/Shinra_Electric_Power_Company_logo_from_Final_Fantasy_VII_Remake.png)) ✅.
+- Emblema de SOLDIER: ala estilizada en la hombrera de Cloud.
+- Símbolo de materia: orbe con destello en cruz, en el menú de materia.
+- AVALANCHE: ⚠️ no encontré un logo suelto documentado.
+- Vestido de Aerith: florcitas pequeñas repetidas; usar Fabric 061 y pintar encima.
+
+## 20 · Gustos y detalles
+
+Alturas de los *Ultimania* vía [Final Fantasy Wiki](https://finalfantasy.fandom.com/wiki/Barret_Wallace); cumpleaños de la página [«Birthday»](https://finalfantasy.fandom.com/wiki/Birthday).
+
+| Personaje | Le gusta | Odia | Aficiones | Cumpleaños | Altura | Siempre lleva |
+|---|---|---|---|---|---|---|
+| Cloud | parecer un profesional fuerte; cuidar a sus amigos sin decirlo | hablar de lo que siente; que lo traten de héroe | la moto (Fenrir), la espada | 11 de agosto ⚠️ (circula también el 19) | 173 cm | Buster Sword, luego Fusion Swords |
+| Tifa | cuidar del grupo, su bar, Marlene | que subestimen su fuerza; la crueldad de Shinra | artes marciales (Zangan), preparar bebidas | 3 de mayo | 167 cm | guantes de pelea |
+| Aerith | las flores, ayudar, bromear con Cloud | la violencia como primera opción; lo que Shinra hizo a su madre | cultivar flores en la iglesia, hablar con el planeta | 7 de febrero | 163 cm | Materia Blanca en el lazo (regalo de su madre) |
+| Sephiroth | el control, sentirse superior | que lo llamen arma o experimento | la esgrima, leer sobre los Cetra | ⚠️ no fijado | 185 cm | Masamune |
+| Barret | Marlene, AVALANCHE | Shinra, la contaminación de mako | liderar, cuidar a Marlene | 15 de diciembre | 197 cm | brazo-arma |
+
+Comida favorita: ⚠️ no encontrada en las partes.
+
+## 21 · Por qué la gente la ama
+
+- **Ventas:** 2 millones en Japón en 3 días (1997). 9,8 millones hasta 2005 ([Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VII)) ✅.
+- **Premios:** «Juego del siglo» de los lectores de IGN (2000); 2.º en el top 100 de Famitsu (2006); «Best Game Ever» de GameFAQs (2004 y 2005); mejor juego de la historia para los lectores de Dengeki (2008) ✅.
+- **Se identifican con Cloud:** su crisis de identidad. Debate intenso sobre Sephiroth como villano. En arte y cariño, Tifa y Aerith igualan o superan a Cloud.
+
+**La escena que hace llorar: la muerte de Aerith** ✅ ([TV Tropes, Tearjerker](https://tvtropes.org/pmwiki/pmwiki.php/Tearjerker/FinalFantasyVII)):
+- **Qué pasa:** Aerith reza arrodillada en el altar ([0:48](https://www.dailymotion.com/video/x89cm2f?t=48)). Sephiroth cae del cielo y la atraviesa ([0:44](https://www.dailymotion.com/video/x89cm2f?t=44)). Cloud la sostiene y la deja hundirse en el lago ([1:12](https://www.dailymotion.com/video/x89cm2f?t=72)).
+- **Música:** «Aeris' Theme».
+- **Cómo está hecha:** luz desde arriba sobre agua turquesa (`#C5E1E0`, `#75ADDD`), plano cenital final, halo azul-verde, silencio antes del tema.
+- **Por qué duele:** es jugable; el jugador la ha usado en combate y la pierde para siempre.
+- **Reacción:** jugadores japoneses mandaron una petición a Square para revivirla. Famitsu la votó 9.º juego más «lloroso» (2011).
+- **Después:** Barret pone la mano en el hombro de Cloud sin decir nada; Red XIII aúlla; Cait Sith intenta animar ⚠️ una fuente.
+
+**Otras que hacen gritar o llorar:**
+- La placa del Sector 7 cae sobre el barrio ([2:08](https://www.dailymotion.com/video/x89clz1?t=128)) y Barret grita «Biggs!».
+- Nibelheim en llamas, Sephiroth caminando por el fuego ([4:00](https://www.dailymotion.com/video/x2yc6on?t=240)).
+- El final: Midgar cubierta de bosque y Red XIII con sus cachorros ([0:56](https://www.dailymotion.com/video/x89clzs?t=56)).
+- **Para reír:** Cloud travestido en el Wall Market; «Let's mosey».
+
+## 22 · Fan dubs y comunidad hispana
+
+Sin doblaje latino, el fandom hispano lo hace por su cuenta:
+- **Voice Emotions** (España): más de 50 actores, 3 años de trabajo, las 9 horas de trama principal del Remake doblada al castellano. Tráiler, un vídeo por semana desde el 7 de septiembre y un mod para el juego ([Vandal](https://vandal.elespanol.com/noticia/1350765060/asi-suena-el-espectacular-doblaje-al-espanol-hecho-por-unos-fans-de-final-fantasy-vii-remake/) y [SomosXbox](https://www.somosxbox.com/final-fantasy-vii-remake-cuenta-con-doblaje-al-espanol-hecho-por-fans-un-proyecto-de-la-comunidad-que-da-forma-a-un-sueno/)) ✅.
+- **Fandub Latino:** «Final Fantasy VII ReBirth (Fandub Latino)», 22-sep-2023, 117 vistas ([YouTube](https://www.youtube.com/watch?v=gjgVcjKB3vk)) ⚠️.
+- **Duxa7iva:** «La Muerte De Aerith En Español, Escena Completa» (Rebirth), 9-mar-2024, 8008 vistas ([YouTube](https://www.youtube.com/watch?v=Zc2B_yuHzX0)) ⚠️.
+- **Reparto soñado** en un blog de Doblaje Wiki: un usuario propone actores latinos para un doblaje del Remake ([blog](https://doblaje.fandom.com/es/wiki/Usuario_Blog:Alquimista_Aventurero/Propuesta_de_Doblaje:_Final_Fantasy_VII_Remake)) ⚠️ no oficial.
+- **Covers y parodias hispanas en TikTok:** ⚠️ no encontrados. No hay *opening* cantado; lo único cantado es «Hollow» (Remake, en inglés).
+- **Para el servidor:** FFVII es un caso perfecto de «lo que falta por doblar». Da para un reto o un casting de fandub.
+
+## 23 · Colaboraciones, figuras y cosplay
+
+**Otros juegos** (página [«Collaboration»](https://finalfantasy.fandom.com/wiki/Collaboration) de la wiki) ✅:
+- **Super Smash Bros.:** Cloud desde 2016 (Buster Sword, Omnislash); Sephiroth en Ultimate desde 2021 ([arte 1777×2500](https://static.wikia.nocookie.net/finalfantasy/images/8/8f/Super_Smash_Bros._Tetsuya_Nomura.jpg)).
+- **Street Fighter 6:** Tifa ([arte 1500×1383](https://static.wikia.nocookie.net/finalfantasy/images/4/47/Tifa_Lockhart_from_Street_Fighter_6_promo_art.jpg)).
+- **Dissidia:** Cloud y Sephiroth desde 2008; Tifa en NT.
+- **LittleBigPlanet 2:** Sackboy vestido de Sephiroth ([1920×1200](https://static.wikia.nocookie.net/finalfantasy/images/1/1a/Lbp2_ffvii_sephiroth.jpg)).
+- **Dragon Quest Tact:** Sephiroth, Cloud y Aerith disfrazados de personajes de DQ ⚠️.
+
+**Dentro de *Ever Crisis*** (ropa y poses nuevas) ✅:
+- × FFIX (nov-2023): Cloud de Zidane, Tifa de Amarant, Aerith de Garnet, Sephiroth de Kuja ([arte](https://static.wikia.nocookie.net/finalfantasy/images/d/da/Zidane%27s_Outfit_set_from_FFVIIEC.png)).
+- × Monster Hunter (jun-2024): armaduras Glavenus, Zinogre, Kirin ([arte](https://static.wikia.nocookie.net/finalfantasy/images/f/f9/Glavenus_Armor_set_from_FFVIIEC.png)).
+- × FFVI (oct-dic 2024): Cloud de Locke, Aerith de Terra, Tifa de Sabin, Sephiroth de Edgar.
+- × FFXIII (nov-2025): uniforme de la Guardia de Cocoon ([arte](https://static.wikia.nocookie.net/finalfantasy/images/8/8a/Guardian_Corps_Uniform_%28Tifa%29_set_from_FFVIIEC.png)).
+- × NieR (nov-2025): Tifa de 2B, Cloud de 9S, Aerith de Kainé, Sephiroth de Nier ([arte](https://static.wikia.nocookie.net/finalfantasy/images/a/a0/Battler_Ensemble_set_from_FFVIIEC.png)).
+
+**Figuras oficiales:** Play Arts (2007: Cloud con manos extra, Tifa, Aerith con su vara); Play Arts Kai de Cloud con las Fusion Swords ([800×800](https://static.wikia.nocookie.net/finalfantasy/images/9/96/ACFFVII-Play-Arts-Kai-Cloud-Swords.jpg)); Play Arts Kai «Shin» de Cloud para Rebirth (2025) ✅.
+
+**Cosplay (Flickr, CC):**
+- Tifa, Saboten-Con, de kevin dooley, CC BY 2.0 ([foto](https://live.staticflickr.com/2688/4074334035_a198336231_b.jpg)): la falda de cuero y los guantes con volumen real.
+- Aerith, Anime Expo 2015, de Eras Photography, CC BY 2.0 ([foto](https://live.staticflickr.com/732/20700047449_1f210eccdb_b.jpg)): el lazo rosa en pelo real.
+- Yuffie, DragonCon 2015, CC BY-NC-ND ⚠️ sólo mirar.
+
+**No hay:** Fortnite con FFVII; cafés temáticos propios de FFVII fuera de Japón; ropa con Uniqlo, Vans o Gap (4 marcas buscadas) ⚠️.
+
+## 24 · Obras parecidas
+
+- **Influencias:** Sakaguchi dijo estar «muy inspirado por Final Fantasy VI». De niño montaba maquetas de Gundam y se preguntaba cómo sería caminar por un mundo de maquetas: la semilla de los fondos de Midgar ([Inverse](https://www.inverse.com/gaming/hironobu-sakaguchi-interview-final-fantasy-fantasian)) ⚠️ una entrevista.
+- **Parecidas:** *Xenogears*, *Chrono Trigger*, *NieR: Automata*, *Xenoblade*, *Xenosaga*, *Persona 3 Reload* ([GamesRadar+](https://www.gamesradar.com/games-like-final-fantasy/) y [iRankGames](https://irankgames.com/en/games-like/final-fantasy-vii/)) ✅.
+- **Kingdom Hearts:** mismo diseñador (Nomura); cremalleras, armas grandes ([wiki](https://finalfantasy.fandom.com/wiki/Tetsuya_Nomura)).
+- **En el servidor:** la parte de texto dice que no hay otros JRPG, pero **sí hay** biblias de juegos: 65 Zelda (propone #noticias-gaming), 117 God of War, 121 Tomb Raider, 124 No Man's Sky, 125 Elden Ring y 27 Cyberpunk (varias proponen #a-que-juegas). Para no repetir: nada de mapas de mundo abierto ni hogueras; FFVII se distingue por la **caja azul de diálogo** y la **materia**.
+
+## 25 · El mundo, la historia y sus símbolos
+
+**Reglas del mundo en 5 líneas:**
+1. El planeta vive por el **Lifestream** (Corriente Vital): energía de las almas que corre bajo tierra.
+2. **Mako** es esa energía, extraída y refinada por **Shinra** en reactores para dar electricidad.
+3. **Materia** es Lifestream cristalizado: cada orbe de color guarda un poder.
+4. Los **Cetra** (Ancianos) oían al planeta; casi todos murieron. Aerith es la última.
+5. **Jenova** es un ente alienígena desenterrado por Shinra; de él nace Sephiroth.
+
+**La historia por arcos:**
+1. **Midgar:** Cloud se une a AVALANCHE, que vuela reactores. Tifa, Barret, Aerith. Cae la placa del Sector 7. Huyen tras la muerte del presidente Shinra.
+2. **Viaje:** persiguen a Sephiroth por el mundo. Muere Aerith. Cloud descubre que es un experimento y se reconstruye.
+3. **Cráter Norte y final:** detienen a Sephiroth y el meteoro. El Lifestream salva al planeta. *Revelation* (2027) cerrará este tramo en el remake.
+4. **Epílogos y precuela:** *Advent Children* (2 años después, Geostigma), *Dirge of Cerberus* (Vincent), *Crisis Core* (Zack, origen de Cloud y Sephiroth).
+
+**Símbolos y objetos:**
+- **Buster Sword** (Cloud, heredada de Zack), **Masamune** (Sephiroth), **brazo-arma** (Barret).
+- **Materia** por colores; **Materia Blanca** en el lazo de Aerith.
+- Logo de **Shinra** (rombo rojo `#B10711`, 神羅). Emblema de SOLDIER.
+- **Chocobos**, **Gil** (moneda), **Limit Break**, **Highwind** (el dirigible), la **flor** de Aerith.
+
+**Vocabulario de fan:** Mako, Materia, Lifestream, SOLDIER, Turks, Cetra, Jenova, Geostigma, Shinra, AVALANCHE, chocobo, Gil, Limit Break, Highwind, Sector 7, Séptimo Cielo, «Let's mosey».
+

@@ -224,3 +224,152 @@ Chika Dance, fuegos) están en **43, punto 2**.
 **Lo que se aprende**: hay **cinco tipos de rótulo** en un solo episodio
 (cartela 3D, ficha «備考», versus, nombre flotante, cartel de marcador) más
 el globo de chat (7:12). El detalle, en el punto 6.
+
+## Punto 3 · Fan art y 3D con licencia libre
+
+43 tiene 4 modelos (Kaguya, Kaguya chibi, Chika, Miko) y la sala del consejo
+([modelo CC BY](https://sketchfab.com/3d-models/kaguya-samalove-is-war-student-council-ver-287ebc7d09b945589b70eeb9c8c37e0d)).
+Aquí, un **set de 5 modelos del mismo autor** (`maya_2023`), todos **CC
+Attribution 4.0** y descargables (API de Sketchfab, uno por uno) ✅. Al ser
+del mismo autor, **combinan** en un render de grupo:
+
+| Personaje | Caras | Enlace |
+|---|---|---|
+| Chika Fujiwara 藤原千花 | 121 548 | [sketchfab](https://sketchfab.com/3d-models/chika-fujiwara-1dc4c6832d904834ab5d6c8fd40efcdf) |
+| Kei Shirogane 白銀圭 | 145 168 | [sketchfab](https://sketchfab.com/3d-models/kei-shirogane-66b618113cb344f0afc1e9a13a4d58c9) |
+| Miyuki Shirogane 白銀御行 | 82 599 | [sketchfab](https://sketchfab.com/3d-models/miyuki-shirogane-7fb8a907e2114b2cad3a45fe8ac403c7) |
+| Yu Ishigami 石上優 | 92 412 | [sketchfab](https://sketchfab.com/3d-models/yu-ishigami-da365a42604842d093d5df14d43b47b0) |
+| Ai Hayasaka 早坂愛 | 49 406 | [sketchfab](https://sketchfab.com/3d-models/ai-hayasaka-3d3289eabb274ee9a64907780809114c) |
+
+Crédito exacto: «*<Nombre>* by maya_2023, CC BY 4.0, sketchfab.com». Con
+los de 43, **los 7 principales tienen modelo libre**.
+
+**Fan art (sólo referencia, nunca para pegar)**, de
+[Wallhaven](https://wallhaven.cc/w/g7dwle), sólo SFW:
+- Grupo de 4 (Kaguya, Chika, Hayasaka, Miko), semirrealista, etiqueta
+  «Wachiroku», **5032×2670**, 131 favoritos — [g7dwle](https://wallhaven.cc/w/g7dwle) ✅.
+- **Kaguya sonrojada y avergonzada**, primer plano, 2923×1886 — el gag
+  central de la serie — [xlo59d](https://wallhaven.cc/w/xlo59d) ✅.
+- Kaguya y Hayasaka de la mano, 2250×4000 — [3zvqed](https://wallhaven.cc/w/3zvqed) ✅.
+- Danbooru y Safebooru: sin nada de la serie (Cloudflare; y Safebooru no
+  tiene etiqueta propia) ⚠️. Pixiv no se miró en esta pasada ⚠️.
+
+## Punto 4 · Sitios, luz y paleta medida
+
+La sala del consejo, la calle y las texturas reales (madera
+[WoodFloor064](https://ambientcg.com/view?id=WoodFloor064), papel, alfombra)
+están en **43, punto 4**. En el ep. 2 la sala vuelve con **la misma paleta**
+(4:24, 18:00, 22:24): es el color fijo del sitio ✅. Dos sitios nuevos,
+medidos con `estilo.py`:
+
+- **Sendero de montaña** (flashback de excursión, luz de día franca; hoja 2
+  #11), ep. 2, 10:00: `#EEF4F6` 20 % · `#82D1D6` 18 % (cielo) · `#275848`
+  17 % (pinos) · `#171922` 14 % · `#4B8978` 12 % · `#843131` 8 % (chaqueta
+  roja) · `#BA9C7D` 7 % (camino) · `#E0752A` 4 % (mochila naranja). Línea
+  `#4E5C4E`, saturación 43 %, brillo 62 % ✅. La escena más luminosa vista de
+  la serie.
+- **Pasillo a contraluz** (ventanales en fila, atardecer morado-rosa; hoja 2
+  #12), ep. 2, 21:44: `#4D3248` · `#19101A` · `#332335` · `#674763` ·
+  `#FBF8FB` · `#D9B7D8` · `#84647E` · `#AE8BAE`. Línea `#8F708A`,
+  saturación 29 %, brillo 45 % ✅. Para persecuciones y momentos íntimos.
+
+**Paleta de los rótulos** (medida por el redactor sobre fotogramas propios):
+
+| Rótulo | Minuto | Colores medidos |
+|---|---|---|
+| 生徒会長 (cartela 3D) | 3:44 | negro `#0A0A0D` 41 % · gris `#373232` · blanco del rayo `#F6F6EC` · **dorado `#DEC07C`** · `#A7ABB6` |
+| 海 VS 山!! | 11:04 | fondo `#1E020D` · **rojo `#A50A23`** · rosa claro `#FADDE1` · `#DB6F78` · **verde `#77D2A6`**; saturación 75 % |
+| 備考：童貞 (damero) | 16:00 | `#403B39` · **blanco `#FBFBF5`** · negro `#0C080A` · pelo `#D7C185` |
+| バーナム効果 (espirales) | 8:08 | fondo `#DCE3E0` · **azul `#423BCA`** · `#7A698A` · `#332836` |
+| 本日の勝敗 largo | 22:24 | **blanco `#FCFBFC`** · marco `#2F2929` · alfombra `#B32B58` · madera `#684E4B` |
+
+Texturas reales para las láminas: papel
+[Paper001](https://ambientcg.com/view?id=Paper001) (CC0) para los carteles;
+HDRI [Entrance Hall](https://polyhaven.com/a/entrance_hall) para interiores
+(43). ⚠️ No hay HDRI de festival nocturno con farolillos en Poly Haven
+(filtros `festival`, `market`, `lantern`).
+
+## Punto 5 · Tipografía: los rótulos de dentro de la ficción
+
+Las 8 letras por uso (logo, globo, grito, pensamiento, onomatopeya, cartel,
+interfaz, subtítulos) están en **43, punto 5**, comprobadas con fontTools
+(p. ej. [Shippori Mincho y M PLUS Rounded](https://fontsource.org/fonts/m-plus-rounded-1c)).
+Aquí, **una letra para cada rótulo cómico**. Todas comprobadas con fontTools,
+subset `latin`: **á é í ó ú ñ ¿ ¡ Á Ñ** ✅.
+
+| Rótulo de la serie | Cómo es | Letra libre |
+|---|---|---|
+| Cartela dorada 3D «生徒会長» (ep. 2, 3:44) | Kanji gótico grueso, extruido, dorado `#DEC07C` con bisel | Letra de **grito** de 43 + bisel dorado en Photoshop o *Extrude* en Blender |
+| Ficha «備考：…» y «本日の勝敗» | Mincho negro vertical en caja blanca, borde doble | **Shippori Mincho** (43) |
+| Portada del spin-off *Kataritai* | Mincho negro muy grueso en **sello rojo**, estilo tabloide | **[Zen Old Mincho](https://fontsource.org/fonts/zen-old-mincho)** 900 |
+| Cartel «Biotic Hazard» de la casa del terror (ep. 35) | Pintado a mano, de feria | **[Nosifer](https://fontsource.org/fonts/nosifer)** |
+| Cartel de mano «Fooled You» de Kaguya | Rotulador grueso irregular sobre cartulina | **[Permanent Marker](https://fontsource.org/fonts/permanent-marker)** |
+| «かしわぎさん» flotante (ep. 2, 16:32) | Trazo fino a mano, gris | La de **pensamiento** de 43 (Caveat) |
+| Diadema 「おに」 de Chika | Imprenta gruesa negra estampada en tela blanca | Letra de globo de 43, en negrita |
+| Vallas paródicas de la película | Imitan logos ajenos (Harry Potter, Lupin III, Gundam…) | No se replica: se inventa un cartel propio (punto 24) |
+
+Fuentes: portada en la [wiki](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/File:Talk_Volume_01.png);
+carteles en [TV Tropes, Funny](https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar)
+y [TV Tropes, ShoutOut](https://tvtropes.org/pmwiki/pmwiki.php/ShoutOut/KaguyaSamaLoveIsWar) ✅.
+
+## Punto 6 · Cómo hablan y piensan: el catálogo de rótulos cómicos
+
+**Lo más importante.** 43 (punto 6) describe la cartela «本日の勝敗», el
+fondo a cuadros, el monólogo con fondo cambiado y el Narrador. Aquí, **los
+recursos que son sólo de comedia**, ordenados para usarlos:
+
+### 6.1 · Rótulos en pantalla (vistos en el ep. 2)
+
+1. **Cartela-título 3D** (3:44): palabra corta, enorme, dorada, con rayos y
+   fanfarria. **Para anunciar** algo con falsa solemnidad.
+2. **Ficha «備考» (nota)** (11:52 y 16:00): caja blanca vertical con borde
+   negro, «備考：» + un dato vergonzoso, sobre la escena o sobre un damero.
+   **Para el dato seco** que remata el chiste.
+3. **Versus de combate** (11:04): dos palabras enfrentadas, rojo contra
+   verde, «VS» en cursiva y «!!» amarillos. **Para una votación o un duelo**.
+4. **Nombre flotante escrito a mano** (16:32): gris, fino, junto a la cara.
+   **Para presentar** a alguien sin globo.
+5. **Término técnico en espiral** (8:08): «バーナム効果» girando en azul.
+   **Para explicar** un concepto (el Narrador lo pone en pantalla).
+6. **Cartel de marcador largo** (22:24): dos cajas: la estrecha «本日の勝敗» y
+   otra ancha con el resumen, el perdedor en letra gruesa. **Para el
+   resultado o la regla final**.
+7. **Globo de chat del móvil** (7:12): rectángulo gris claro redondeado,
+   texto negro horizontal, sin cola. **Para mensajes**.
+8. **Onomatopeya de intención**: «ワナ» (trampa) junto al puño (20:08) ⚠️ no
+   visto por el redactor; «ハッ» rojo con estallido junto a Tsubasa (hoja 3
+   #9) ✅.
+
+### 6.2 · Otros registros cómicos (de TV Tropes, con episodio)
+
+- **Cartela de comentario seco** en el manga: «daughter of a politician»
+  (tras un soborno torpe de Chika, cap. ~29) y «it took them 104 chapters
+  (two seasons in the anime) to find out his name» (el novio de Kashiwagi):
+  un chiste **meta** que cuenta capítulos ✅
+  ([Funny](https://tvtropes.org/pmwiki/pmwiki.php/Funny/KaguyaSamaLoveIsWar)).
+- **Cartel de mano «Fooled You»** que Kaguya levanta a cámara ✅.
+- **Caja de novela visual y forma *yukkuri*** (ep. 36): Hayasaka explica un
+  plan en una caja de diálogo con retrato, y las dos se dibujan como cabezas
+  redondas sin cuello, del meme de 2channel ✅
+  ([ShoutOut](https://tvtropes.org/pmwiki/pmwiki.php/ShoutOut/KaguyaSamaLoveIsWar)).
+- **Pantalla de invocación tipo *Fate/Grand Order*** (ep. 33) y **etiquetas
+  de tipo Pokémon** (Fuego, Agua, Planta) sobre una serpiente, una rana y
+  una babosa (ep. 30) ✅.
+- **4-koma** del spin-off *Kataritai*: 4 viñetas verticales, dos chicas del
+  Club de Medios comentando rumores ✅
+  ([wiki](https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kaguya-sama_wo_Kataritai)).
+- **Stickers oficiales de LINE con voz** (24, Aniplex, 23-jun-2020): frase +
+  cara + voz grabada, como «お可愛いこと» («qué mona…», de Kaguya) y
+  «ドーンだYO!» (Chika) ✅ ([Aniplex](https://www.aniplex.co.jp/lineup/kaguya04/news/detail/?id=62824)).
+  Es cómo la propia franquicia hace un «rótulo de reacción».
+
+### 6.3 · Qué cuadro usar en la lámina
+
+- **Texto principal**: la **ficha «備考»** en horizontal (blanco `#FBFBF5`,
+  borde negro doble) con **Shippori Mincho**: «Nota: …».
+- **Título del canal**: **cartela 3D dorada** `#DEC07C` sobre negro
+  `#0A0A0D`, con rayos blancos.
+- **Etiquetas o duelo**: el **versus** rojo `#A50A23` / verde `#77D2A6`.
+- **Regla final o resultado**: el **cartel de marcador largo**.
+- **Lo que dice un personaje**: nombre flotante a mano + frase corta, o el
+  **globo gris de chat** si es un mensaje. **Nunca** globo blanco con cola.

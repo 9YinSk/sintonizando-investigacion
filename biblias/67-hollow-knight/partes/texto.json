@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "url": "https://fonts.google.com/specimen/Cinzel",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Cinzel (mayúsculas romanas grabadas), sustituta de la Trajan Pro que usa Hollow Knight en logo, títulos y nombres de zona; comprobada con fontTools (tildes, ñ, ¿, ¡)",
+    "para_que": "Logo, títulos y cartelas de la lámina",
+    "licencia": "SIL Open Font License 1.1 (libre)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/EB+Garamond",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre EB Garamond, sustituta de Perpetua (la letra de los cuadros de diálogo del juego); comprobada con fontTools (tildes, ñ, ¿, ¡)",
+    "para_que": "Texto del cuadro de diálogo de la lámina",
+    "licencia": "SIL Open Font License 1.1 (libre)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Spectral",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre Spectral, alternativa a Perpetua más legible en pantalla pequeña; comprobada con fontTools",
+    "para_que": "Texto largo (cartelas, créditos) en la lámina",
+    "licencia": "SIL Open Font License 1.1 (libre)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/MedievalSharp",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre gótica a pluma, para un logo o rótulo con toque tallado/iglesia; comprobada con fontTools",
+    "para_que": "Rótulo alternativo o cartel del mundo de la lámina",
+    "licencia": "SIL Open Font License 1.1 (libre)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Metamorphous",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre gótica ornamental, alternativa a MedievalSharp; comprobada con fontTools",
+    "para_que": "Rótulo alternativo de la lámina",
+    "licencia": "SIL Open Font License 1.1 (libre)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Cardo",
+    "fuente": "Google Fonts",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Letra libre serif con muchos diacríticos, para citas largas de personaje; comprobada con fontTools",
+    "para_que": "Cita larga en la lámina (Seer, Confesor)",
+    "licencia": "SIL Open Font License 1.1 (libre)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hollowknight/images/9/9b/Hallownest_symbol.png/revision/latest?cb=20201228141752",
+    "fuente": "Hollow Knight Wiki (Fandom)",
+    "ancho": 378,
+    "alto": 371,
+    "que_es": "Símbolo/sello circular del reino de Hallownest, tal como aparece en las tablillas de piedra (Lore Tablets)",
+    "para_que": "Referencia de emblema del mundo para la lámina",
+    "licencia": "Fan art de la wiki, uso como referencia (crédito a la wiki y a Team Cherry)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/hollowknight/images/6/69/Mark_of_Pride.png/revision/latest?cb=20170508202722",
+    "fuente": "Hollow Knight Wiki (Fandom)",
+    "ancho": 123,
+    "alto": 125,
+    "que_es": "Mark of Pride, emblema de la tribu Mantis (Mantis Lords)",
+    "para_que": "Ejemplo de emblema de facción para la lámina",
+    "licencia": "Recurso del juego (Team Cherry), uso como referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_5384f9f8b96a0b9934b2bc35a4058376211636d2.1920x1080.jpg",
+    "fuente": "Steam (ficha oficial de Hollow Knight)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial 1080p con cuadro de diálogo e interfaz en juego",
+    "para_que": "Referencia de cuadro de diálogo y cenefa gótica para la lámina",
+    "licencia": "Material promocional oficial de Steam, uso como referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg",
+    "fuente": "Steam (ficha oficial de Hollow Knight: Silksong)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial 1080p de Silksong con interfaz y menú",
+    "para_que": "Referencia de interfaz del segundo juego para la lámina",
+    "licencia": "Material promocional oficial de Steam, uso como referencia"
+  },
+  {
+    "url": "https://www.teamcherry.com.au/faq",
+    "fuente": "Team Cherry (web oficial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "FAQ oficial del estudio: confirma que todo el arte y animación se dibujó en Photoshop, motor Unity",
+    "para_que": "Fuente para el punto 18 (técnica y cómo replicarla)",
+    "licencia": "Página informativa, no imagen"
+  },
+  {
+    "url": "https://champicky.com/2022/03/23/hollow-knight-interface-design-analysis/",
+    "fuente": "The Picky Champy (blog de diseño)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Análisis detallado de la interfaz gótica de Hollow Knight: cenefas, flechas, motivo insecto",
+    "para_que": "Fuente para el punto 6 (cuadros de diálogo e interfaz)",
+    "licencia": "Artículo de análisis, no imagen"
+  }
+]

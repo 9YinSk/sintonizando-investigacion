@@ -404,3 +404,226 @@ Medido con `estilo.py` sobre las hojas de modelo oficiales, zona por zona · ✅
 
 No hay banco oficial de fondos del estudio ni de Shueisha · ⚠️ (buscado, sin resultado).
 
+## §17 · Guía para generar con IA (imagen y texto)
+
+Hecha por el redactor con todo lo anterior. Sirve para Firefly, Canva o cualquier IA de imagen, y para una IA de texto que escriba diálogos.
+
+### A · IA de imagen
+
+**Estilo general (frase base):**
+> anime cel shading, clean thin uniform black lineart, flat two-tone shading, subtle paper grain only inside the shadows, warm muted colors, modern Japanese residential town, comedic action, Weekly Shonen Jump style
+
+**Rasgos que nunca cambian:**
+
+- **Sakamoto (gordo, presente):** hombre alto y muy grueso; pelo **gris peinado hacia atrás en una coleta corta (moño)**; **bigote pequeño de cepillo**; **gafas redondas cuyo reflejo tapa los ojos**; delantal verde `#2E664B` sobre camiseta mostaza `#BA8D45` (o amarilla `#E6B740` con parche rojo «RY»); pantalón largo azul pizarra `#36515F`; **zapatillas de casa incluso en la calle** ([wiki, Appearance](https://sakamoto-days.fandom.com/wiki/Taro_Sakamoto#Appearance)).
+- **Sakamoto «prime»:** delgado, sin bigote, rasgos marcados, ojos visibles tras las gafas, muy guapo. Se usa sólo para escenas de pelea seria.
+- **Shin:** joven delgado y fibroso; **pelo rubio medio**, raya en medio (`parted_bangs`); ojos azules en el anime; **sudadera azul de capucha** `#3974B0` y pantalón ancho crema `#E0D7C9`; en la tienda, camisa, pantalón y **delantal verde**.
+- **Nagumo:** muy alto (190 cm), pelo negro corto, ojos negros, sonrisa; **gabardina beige** `#DED0B3`, camisa estampada `#7B584E`, pantalón negro; **tatuajes en cuello, brazos, manos y dedos**.
+- **Lu Shaotang:** chica de 18 años; ropa casual bajo el delantal de la tienda. Pelo y ojos: usar su [retrato de AniList](https://s4.anilist.co/file/anilistcdn/character/large/b207272-qQ7YZOKtbzzZ.png) como referencia; **no** usar la hoja de «Lu Wutang».
+
+**Paleta:** la tienda `#54423E` `#987E71` `#B0A68E` `#E6E5C7`; el atardecer violeta del OP `#3C2E4F` `#715A88` `#C6ACDD`; la noche `#07060B` `#584736` (§4).
+
+**Línea y sombreado:** línea negra fina y de **grosor constante**; sombra plana de dos tonos; nada de degradados suaves ni brillo plástico; el grano de papel sólo dentro de las sombras (§18).
+
+**Luz:** interior cálido de tienda de día; atardeceres violeta; noches con una sola luz puntual.
+
+**Encuadre:** una silueta clara por plano; la acción congelada en su punto más alto; cámara sencilla (§18).
+
+**Palabras que ayudan:** `convenience store counter`, `green apron`, `round glasses glare`, `slippers`, `retired hitman`, `deadpan`, `comedic sweat drop`, `thought bubble`, `speed lines`, `ink brush sound effect`.
+
+**Palabras que lo estropean:** `John Wick suit`, `gore`, `blood splatter`, `neon cyberpunk`, `pastel kawaii`, `3D render`, `glossy`, `painterly soft shading`, `white rounded speech bubble`.
+
+**Vocabulario de expresiones:**
+- Gota de sudor en la sien: incomodidad (Sakamoto ante Aoi).
+- Ojos como platos y boca abierta: pánico cómico (tráiler final, 1:14).
+- Gafas con reflejo blanco que tapa los ojos: Sakamoto serio o misterioso.
+- Cejas fruncidas y dientes apretados: Shin enfadado (tráiler latino, 1:14).
+- Fondo en llamas detrás del personaje: determinación (Shin, 0:50).
+- Nube de pensamiento: lo que Shin lee en la mente de otro.
+- *Chibi*: la carita redonda con gafas del logo.
+
+**Imágenes de referencia de estilo o pose:**
+- Estilo cel del anime: hojas de modelo de §1 (hoja 1 nº 21-23).
+- Pose viva: [Shin de acción](https://static.wikia.nocookie.net/sakamoto-days/images/a/ad/Shin_Asakura.png) (hoja 1 nº 33).
+- Pose de grupo: [fondo de 5792×4925](https://w.wallhaven.cc/full/3q/wallhaven-3qzwp3.jpg).
+- Pose 3D: el modelo CC BY de Sakamoto (§3).
+
+### B · IA de texto (diálogos en su voz)
+
+**Sakamoto:** frases muy cortas. Tono plano, casi sin signos de exclamación. Sólo se altera por Aoi. Explica con calma y una sola idea.
+**Shin:** habla mucho y rápido. Se queja, grita cortado con «¡…!», se ofende por lo que lee en tu mente y lo dice en voz alta. Llama a Sakamoto «señor Sakamoto».
+**Nagumo:** amable, burlón, siempre con una mentira pequeña que luego desmiente. Tono ligero aunque hable de algo grave.
+**Lu:** alegre y despistada. Frases cortas con energía; si bebe, manda.
+
+**Frases reales del doblaje latino, por emoción** (§8):
+
+| Emoción | Frase | Quién, minuto |
+|---|---|---|
+| Alegre / sarcástico | «¡Ay, qué bonito tener amigos!» | enemigo, 0:37 |
+| Enfadado / firme | «¿Cómo te atreves a llamarme?» | Sakamoto, 0:24 |
+| Explicando | «Cuando la gente tiene algo que quiere proteger, obviamente pelea con todas sus fuerzas» | Sakamoto, 1:09 |
+| Explicando (Shin) | «Leer la mente del enemigo me permite saber dónde está» | Shin, ep. 8, 20:10 |
+| Animando / decidido | «A partir de ahora, voy a pelear en serio» | Shin, 0:58 |
+| Solemne / tierno | «Decidí que ahora la utilizaré para proteger a los que amo. Eso es lo que me hace más fuerte» | Sakamoto, 1:19 |
+| Promesa | «No volveré a ser un asesino» | Sakamoto, 0:22 |
+| Triste | no hay frase latina comprobada · ⚠️ | — |
+
+**Recursos de la serie para los textos:**
+- Exclamación sorprendida latina: **«¡Ay, caray!»** (la metió Óscar López, §8).
+- Onomatopeyas a pincel en mayúsculas con doble signo: «¡¡BAM!!».
+- El narrador solemne que cuenta algo ridículo («Pero un día el señor Sakamoto engordó mucho»).
+- La gente corriente que ve un tiroteo y sólo dice «oh, no» (§25).
+- Vocabulario: la tienda, el delantal, la regla de no matar, la JAA, la Order, la JCC, «prime».
+
+## §18 · Estilo de dibujo y cómo replicarlo
+
+**El manga (Yuto Suzuki).** Entrevista de su editor Sousuke Ishikawa en [MangaPlus](https://mangaplus.shueisha.co.jp/web_pages/1293/) y perfil japonés de [MEDIA DOGS](https://mediadogs.jp/2026/03/03/yuto-suzuki-sakamoto-days-career-fixed-2026/) · ✅:
+- Estudió **Nihonga** (pintura tradicional japonesa) en la Universidad de Bellas Artes de Tokio. De ahí su ojo para la silueta.
+- Antes dibujó **storyboards** de vídeo. Los lectores dicen que es «como ver un anime en papel».
+- Dibuja en **Clip Studio Paint** · ✅ ([Shonen Jump News en X](https://x.com/WSJ_manga/status/1607079895108050944)).
+- Busca **el instante en que arranca el golpe**, no coreografías largas. Cámara sencilla y legible.
+- Colecciona referencias en Pinterest y ve mucho cine.
+
+**El anime (TMS).** Entrevistas al director Masaki Watanabe en [AWN](https://www.awn.com/animationworld/masaki-watanabe-talks-sakamoto-days) y [ScreenRant](https://screenrant.com/sakamoto-days-anime-problem-biggest-challenge-character-designs/) · ✅:
+- Clip Studio Paint para el dibujo y Adobe para la composición.
+- **Filtro de papel:** una textura de papel sacada de las zonas de sombra, aplicada **sólo en las sombras**, en composición, y **fija** (no se mueve con el personaje). Idea del director de fotografía.
+- Diseños «engañosamente simples»: el parecido depende del **grosor exacto de la línea** y de la forma de la cara.
+- La montaña rusa del ep. 3 se hizo en **3D y luego se rotoscopió** a mano.
+- Las armas se dibujan realistas, con brillo del metal.
+
+**Cómo replicarlo en Photoshop:**
+1. Línea de **2-3 px constante** (presión casi plana o herramienta Pluma).
+2. Sombra plana de un tono en capa **Multiplicar** recortada sobre el color base.
+3. Capa de papel ([Paper001 de ambientCG](https://ambientcg.com/a/Paper001), CC0) en **Multiplicar o Luz suave al 15-25 %**, recortada **sólo** a la capa de sombra.
+4. Ruido muy leve al final. Nada de grano fuerte.
+
+**Cómo replicarlo en Blender:**
+1. Objeto con geometría simple y contorno con **Line Art** de Grease Pencil (o Freestyle).
+2. Shader de dos tonos: `Shader to RGB` → `ColorRamp` en corte duro (Constant).
+3. Metal con brillo especular marcado sólo en armas.
+4. Para una pose difícil: posar el [modelo CC BY de Sakamoto](https://sketchfab.com/3d-models/none-dd4d6ddc7424453c9d776e0e4cf5c36f) y repasar el contorno a mano en Photoshop, como la montaña rusa.
+5. Render del objeto solo y filtro de papel en Photoshop, recortado a sus sombras.
+
+**Encuadres:** una silueta clara por plano; la acción en su pico; plano medio para el humor doméstico; primer plano con reflejo en las gafas para el Sakamoto serio; contrapicado para el Sakamoto «prime».
+
+## §19 · Texturas 2D
+
+- **Sombreado:** plano (cel) en 6 de 7 imágenes medidas con `estilo.py` · ✅. En el manga en blanco y negro sí hay **trama de puntos y rayado** (hoja 1 nº 1, 10, 13, 21; hoja 2 nº 63, 76-78, 82-83, 90-91).
+- **Tramas:** [svg-halftone](https://github.com/evestera/svg-halftone), licencia **MIT**, genera tramas SVG (círculo, hexágono, rombo) desde cualquier imagen · ✅.
+- **Papel:** Paper001 y Paper004 de ambientCG, **CC0** · ✅.
+- **Tela:** [Fabric030](https://ambientcg.com/a/Fabric030) y Fabric036, **CC0**, para teñir con los hex de §15 · ✅.
+- **Estampado de la camisa de Nagumo:** [rombos sin costura de freesvg](https://freesvg.org/seamless-diamond-pattern), **CC0**, recolorear a `#7B584E` · ✅.
+- **Cinta de peligro amarilla y negra** del videojuego (§6): patrón fácil de hacer a mano.
+- **Emblemas:** la Order y la JCC **no tienen escudo dibujado**, sólo su nombre (comprobado en la wiki) · ⚠️. El símbolo gráfico de la serie es la **carita con gafas del logo** y el rótulo de la tienda.
+- **Tatuajes** de Nagumo y otros miembros de la Order: estilo personal, no símbolo de grupo · ⚠️.
+- **Pinceles de trama con licencia clara:** no encontrados · ⚠️.
+
+## §20 · Gustos y datos de cada personaje
+
+| Personaje | Le gusta | Odia o teme | Aficiones | Cumpleaños | Altura / peso |
+|---|---|---|---|---|---|
+| **Sakamoto** | su familia, la vida de tendero, la comida casera | que Aoi se enoje; que lo reconozcan como asesino | origami (se lo enseñó Hana) | 21 de noviembre | 188 cm; 140 kg (80 kg «prime») |
+| **Shin** | algodón de azúcar, perros bonitos | leer pensamientos molestos (Heisuke) | fotografiar a Sakamoto en forma «prime» | 7 de junio de 2000 | 172 cm, 67 kg |
+| **Lu Shaotang** | cocinar bollos de cerdo; los recuerdos de sus padres | que amenacen a la gente de la tienda | cocinar, beber (lo aguanta mal) | 8 de abril | 165 cm, 48 kg |
+| **Nagumo** | dormir, su cama, el silencio de la noche, bromas | las mañanas, madrugar, los coches rápidos | sudoku en la cama, mentir por diversión | 9 de julio | 190 cm, 78 kg |
+
+Fuentes: [AniList](https://anilist.co/character/207272) + wiki (Trivia, *Official Fan Book*) · ✅.
+
+- **Objeto que siempre lleva Sakamoto:** el **delantal de la tienda** («坂本商店», Sakamoto Shōten) y las gafas redondas.
+- **Cómo se ve Sakamoto:** como un tendero cualquiera, no como una leyenda.
+- **Comida favorita oficial:** no está en la wiki inglesa ni en AniList (quizá en el *Fan Book* japonés) · ⚠️.
+
+## §21 · Por qué la gente la ama
+
+- **Ventas:** más de **18 millones de copias** (2026); 7.º manga más vendido de Japón en 2025. [ComicBook.com](https://comicbook.com/anime/news/sakamoto-days-manga-ending-sales-milestone/) cita el tuit oficial de los 15 millones (ago-2025) · ✅.
+- **Netflix:** mejor estreno de un anime en su historia hasta entonces, **8,6 millones de vistas** la primera semana. En el primer semestre de 2025, el anime más visto de la plataforma (24,4 millones) · Game Rant, ScreenRant y CBR ✅.
+- **Recepción mixta al principio:** el director reconoció quejas («demasiado ligero», «colores más maduros») y prometió cambios en la Parte 2 · ✅.
+- **Con quién se identifica el público:** con Sakamoto, por el contraste entre padre común y leyenda oculta; con Shin, por sentirse diferente y seguir siendo leal · ⚠️ (deducido de reseñas y carácter).
+
+**Escenas que hacen llorar:**
+- **Cap. 202** (cárcel de la JAA): muere **Ando**, el padre adoptivo distante de Shin. Se interpone para salvarlo, bromea con que Shin «nunca tendría madera de asesino» y piensa «vaya que creciste». Shin llora al entender que sí lo quería · [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/SakamotoDays) ⚠️ (manga, no hay anime de este arco; no se vio en imagen, así que no hay música ni encuadre comprobados).
+
+**Escenas que enternecen** ([TV Tropes, Heartwarming](https://tvtropes.org/pmwiki/pmwiki.php/Heartwarming/SakamotoDays)) · ⚠️:
+- **Cap. 16:** Sakamoto pelea con otros padres en un centro comercial por la última mochila edición limitada que pidió Hana. Shin le lee la mente y ve el recuerdo del nacimiento de Hana.
+- **Primera viñeta:** Sakamoto con su hija recién nacida en brazos, sonrojado de felicidad.
+- **Cap. 177:** homenaje al final de *My Hero Academia*: Shin llora leyendo los tomos.
+- **Abrazo Sakamoto-Shin** en el tráiler (1:15).
+
+**Escenas que hacen reír** ([TV Tropes, Funny](https://tvtropes.org/pmwiki/pmwiki.php/Funny/SakamotoDays)) · ⚠️:
+- **Ep. 1:** Sakamoto imagina que mata a Shin y Shin lo lee en su mente, furioso.
+- **Ep. 1, 1:52:** Sakamoto herido se queja de las horas extra (visto en vídeo ✅).
+- **Ep. 4 «Hard-Boiled»:** la venganza de Boiled es que Sakamoto era más popular con las asesinas.
+- **Ep. 5:** Shin fotografía sin parar a Sakamoto en forma «prime» antes de que vuelva a engordar.
+
+**Escenas que hacen gritar de emoción:** la pelea **Boiled contra Sakamoto** (ep. 5), la más votada en Reddit · ✅.
+
+## §22 · Fan dubs y comunidad hispana
+
+**Aviso:** buscar «Sakamoto fandub» devuelve covers de *Sakamoto desu ga?*, otra serie. Se descartaron.
+
+- **Fandubs reales** (redoblaje de fans) de Sakamoto Days en español: **no se encontró ninguno** · ⚠️.
+- **Clips del doblaje oficial comentados:** canal **MigueBlue7u7**, «Una broma pesada a Shin» y «La ternura de Hana Sakamoto» · [Short 1](https://www.youtube.com/shorts/42r0GJpQ__4) y [Short 2](https://www.youtube.com/shorts/kZtfl-WjqQU) · ✅. Canal **Banzai Kaisen**, «Lo olvidé» · [vídeo](https://www.youtube.com/watch?v=s0w0KJoMZdE) · ⚠️.
+- **Comparativas del doblaje:** «Doblaje latino vs original japonés» (canal Nahu) · [vídeo](https://www.youtube.com/watch?v=LfB7qhFTork); «El doblaje de Sakamoto Days es el mejor de todos» (Palmerozky) · [vídeo](https://www.youtube.com/watch?v=5lojBZuCgJA); «Las voces detrás de Sakamoto Days» (Doblajes Geeks) · [vídeo](https://www.youtube.com/watch?v=iVrKFWnm3f4) · ⚠️ (títulos por oEmbed, no vistos).
+- **Entrevista a Roberto Salguero**, director del doblaje (y voz de Luigi) · [TikTok](https://www.tiktok.com/@etonvideos/video/7483204731574308151) · ⚠️.
+- **El «¡Ay, caray!» de Óscar López** (§8): el tipo de detalle que más comenta la comunidad de doblaje.
+- **Covers en español** del OP de Vaundy: no encontrados · ⚠️.
+- **Idea para el servidor:** es terreno libre. Un reto de fandub de la escena del ep. 1 (Shin suplica, Sakamoto se queja de las horas extra) no tiene competencia.
+
+## §23 · Colaboraciones, figuras y cosplay
+
+Casi todo es japonés y de vida corta. Cada colaboración trae **ilustraciones nuevas** con ropa y poses que no están en la serie.
+
+- **Sweets Paradise**, café temático en varias ciudades · [web oficial](https://www.sweets-paradise.jp/collaboration/sakamotodays) · ✅.
+- **«Midnight Banquet»**: personajes **de gala**, Tokio y Osaka, hasta el 8-dic-2025 · [Essential Japan](https://essential-japan.com/news/sakamoto-days-midnight-banquet-collaboration-cafe-now-open-in-tokyo-and-osaka/) · ✅.
+- **NAMJATOWN** (Ikebukuro): 10 ilustraciones originales y minijuegos, 10-oct a 23-nov-2025 · [Have a Good Holiday](https://www.haveagood-holiday.com/en/articles/sakamoto-days-namjatown-2025-oct) · ✅.
+- **Halloween «Sakamoto Festival»** en NATSLIVE CAFE, 10-oct a 2-nov-2025, disfraces · [collabo-cafe](https://collabo-cafe.com/events/collabo/sakamoto-days-helloween-cafe-natslive-2025/) · ✅.
+- **«Black Rose Garden»** (SMILE BASE CAFE, desde 23-jul-2026) y **X CAFE** (desde 15-may-2026) · [collabo-cafe](https://collabo-cafe.com/events/collabo/sakamoto-days-smile-base-cafe-2026-pre-info/) · ✅. Más pop-ups 2026 («Wizard School», «Seifuku Days», cumpleaños de Nagumo) en la misma web.
+- **Uniqlo UT** «MANGA UT Shueisha 100th» · [camiseta](https://www.uniqlo.com/us/en/products/E488256-000/00) · ✅. **GU**: sólo un vídeo en Facebook · ⚠️.
+- **Figuras Ichiban Kuji (Bandai Spirits):** Sakamoto de 20 cm (vol. 1, premio A), Osaragi «Masterlise Expiece» (~190 mm), set Sakamoto y Shin, y la Order en el vol. 3 · [Essential Japan](https://essential-japan.com/news/new-sakamoto-days-ichiban-kuji-features-figures-of-the-elite-order-assassins/) + [Jump Ichiban](https://jumpichiban.com/en-us/collections/sakamoto-days-figures) · ✅. Poses de acción útiles como referencia 3D.
+- **Cosplay:** Osaragi en Dokomi 2025 (Alemania), 9 fotos **CC BY-NC-SA 2.0** de esby.photo · [ejemplo en Flickr](https://live.staticflickr.com/65535/54590439657_8f2b49e4fe_b.jpg) (769×1024) · ✅. Buen volumen real del vestido de encaje.
+- **Película de acción real** «SAKAMOTO DAYS» (129 min, 29-abr-2026), con **Ren Meguro** (Snow Man) como Sakamoto, dirigida por **Yuichi Fukuda** · [Cinema Today](https://www.cinematoday.jp/movie/T0031496) + [Eiga Natalie](https://natalie.mu/eiga/film/201576) · ✅.
+- **Crossovers con juegos** (Fortnite, gachas): no encontrados · ⚠️.
+
+## §24 · Obras parecidas
+
+- ***The Way of the Househusband***: ex yakuza legendario que ahora es amo de casa. TV Tropes lo pone como comparación directa · [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/SakamotoDays) ✅.
+- ***SPY×FAMILY***: la recomendación más votada en AniList (162). Tiene biblia (`biblias/06-spy-x-family/`). Diferencia: allí la familia es falsa; aquí **ya existe** y se quiere.
+- ***One-Punch Man*** (37 votos; biblia 35) y ***Assassination Classroom*** (14; biblia 24): no repetir el «examen mortal» si la lámina usa la JCC.
+- Otras de AniList: Gintama, Buddy Daddies, Rurouni Kenshin 2023, Mission: Yozakura Family, The Fable, Lycoris Recoil, Kill Blue, Marriagetoxin · ⚠️.
+- **Influencias del autor:** el manga ***Domu*** de Katsuhiro Otomo, y ***John Wick*** y ***The Equalizer*** · ✅.
+- **Takehiko Inoue** (*Slam Dunk*): Suzuki lo admira; en dic-2025 Jump publicó una charla entre los dos, dibujándose mutuamente a sus protagonistas · ⚠️.
+- **No comparar con:** la ternura sentimental de Spy×Family ni el gore de Chainsaw Man.
+- **Láminas del servidor que se parecen:** la de Spy×Family (familia con doble vida) y la de One-Punch Man. #ofertas-y-gratis ya lo proponen otras biblias (Rick and Morty, Bob Esponja, Cyberpunk, One-Punch Man, Zelda, Reanimal, Tsukimichi): no es un problema, queda anotado.
+
+## §25 · El mundo, la historia y sus símbolos
+
+**El mundo en cinco líneas** ([wiki, JAA](https://sakamoto-days.fandom.com/wiki/Japanese_Association_of_Assassins) + TV Tropes) · ✅:
+1. Japón de hoy, con un submundo de asesinos tan organizado que casi sustituye a la policía.
+2. La **JAA** es el gremio legal de asesinos: 1000 miembros, nómina, seguro y escuela.
+3. La gente corriente vive al lado **sin inmutarse**: ante un tiroteo dice «oh, no».
+4. En casa de Sakamoto manda una regla: **no matar**, bajo pena de divorcio.
+5. La **Order** es la élite secreta de la JAA; **Slur** quiere destruirla desde dentro.
+
+**La historia por arcos** ([wiki, Story Arcs](https://sakamoto-days.fandom.com/wiki/Story_Arcs)) · ✅:
+
+| Arco | Qué pasa |
+|---|---|
+| Parque de atracciones | Shin se une a la tienda; rescatan a Lu; en Sugar Park reaparece Boiled |
+| Laboratorio | Secuestran a Lu; llega Heisuke, el francotirador; interviene la Order |
+| Presos del corredor | Cuatro condenados a muerte escapan; Slur se presenta |
+| Examen de la JCC | Sakamoto y Shin se examinan en la academia de asesinos |
+| Infiltración en la JCC | Buscan los datos de Slur |
+| El pasado de Sakamoto | Flashback con Nagumo, Rion y Kindaka |
+| Bangkok | Viaje tras Slur; Heisuke conoce a Hyo |
+| Exhibición del siglo | Choque total entre Slur, la Order y la familia Sakamoto |
+| Cárcel de la JAA | Sakamoto y Nagumo, perseguidos; Shin y Heisuke entran en la cárcel; muere Ando (cap. 202) |
+| Nueva JAA (en curso) | Slur toma el país y da un arma y 3 balas a cada ciudadano |
+
+El anime (22 episodios en 2025) cubre los primeros arcos.
+
+**Símbolos y vocabulario:**
+- **La tienda de Sakamoto** (坂本商店): dos plantas y un **almacén secreto de armas que se abre con un código en la caja registradora** · [wiki](https://sakamoto-days.fandom.com/wiki/Sakamoto%27s_Store) + TV Tropes ✅. Es el objeto-símbolo: vida normal por fuera, arsenal por dentro.
+- **JAA** (日本殺し屋連盟), **la Order** (オーダー), **Slur y su organización** ([X's Organization](https://sakamoto-days.fandom.com/wiki/X%27s_Organization), huérfanos del orfanato Al-Kamar), **JCC** ([Japan Clear Creation](https://sakamoto-days.fandom.com/wiki/Japan_Clear_Creation), isla, 10 % de graduados).
+- **La carita con gafas** que sustituye la «O» del logo.
+- **La regla de no matar** y **la forma «prime»**.
+
