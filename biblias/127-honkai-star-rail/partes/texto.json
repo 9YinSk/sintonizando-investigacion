@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Nadoor_Font_Demonstration.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom), página Typeface",
+    "ancho": 700,
+    "alto": 850,
+    "que_es": "Muestra de la tipografía Nadoor Bold Italic, base del logo \"Star-Rail\"",
+    "para_que": "Punto 5: referencia exacta de la letra del logo antes de buscar su sustituta libre",
+    "licencia": "© titulares (Summit Type / Fontworks); sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Universal_Script_Jarilo-VI.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom), página Universal Script",
+    "ancho": 2048,
+    "alto": 1152,
+    "que_es": "Fotograma con el alfabeto ficticio \"Universal Script\" en un cartel de Jarilo-VI",
+    "para_que": "Punto 5 y 25: cartelas del mundo con símbolos reales del juego, no letras latinas decorativas",
+    "licencia": "© HoYoverse; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Universal_Script_Penacony.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom), página Universal Script",
+    "ancho": 2048,
+    "alto": 1152,
+    "que_es": "Fotograma con el \"Penacony Script\" (variante del Universal Script) en un letrero de Penacony",
+    "para_que": "Punto 25: variante de alfabeto ficticio por planeta, para cartelas coherentes con el sitio",
+    "licencia": "© HoYoverse; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Universal_Script_The_Xianzhou_Luofu.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom), página Universal Script",
+    "ancho": 2048,
+    "alto": 1152,
+    "que_es": "Fotograma con el \"Xianzhou Script\" (cifrado letra-a-pinyin) en un cartel de la Flota Xianzhou",
+    "para_que": "Punto 25: alfabeto ficticio basado en pinyin chino, para cartelas de la zona Xianzhou",
+    "licencia": "© HoYoverse; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/Icon_Astral_Express.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom)",
+    "ancho": 64,
+    "alto": 64,
+    "que_es": "Icono/emblema oficial del Astral Express (el tren donde vive la tripulación)",
+    "para_que": "Punto 25: emblema para sello o textura de fondo en la lámina",
+    "licencia": "© HoYoverse; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Icon_Interastral_Peace_Corporation.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom)",
+    "ancho": 128,
+    "alto": 128,
+    "que_es": "Emblema oficial de la Interastral Peace Corporation (IPC), la mega-corporación del mundo",
+    "para_que": "Punto 25: emblema de facción, dorado, geométrico",
+    "licencia": "© HoYoverse; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Icon_Xianzhou_Alliance.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom)",
+    "ancho": 1000,
+    "alto": 1000,
+    "que_es": "Emblema oficial de la Alianza Xianzhou (flota inmortal de estética china)",
+    "para_que": "Punto 25: emblema de facción en alta resolución, útil como sello o textura",
+    "licencia": "© HoYoverse; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Icon_Stellaron_Hunters.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom)",
+    "ancho": 64,
+    "alto": 64,
+    "que_es": "Emblema oficial de los Cazadores de Stellaron (Kafka, Blade)",
+    "para_que": "Punto 25: emblema de facción secundaria",
+    "licencia": "© HoYoverse; sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Icon_Antimatter_Legion.png",
+    "fuente": "Honkai Star Rail Wiki (Fandom)",
+    "ancho": 128,
+    "alto": 128,
+    "que_es": "Emblema oficial de la Legión Antimateria (facción enemiga recurrente)",
+    "para_que": "Punto 25: emblema de facción antagonista",
+    "licencia": "© HoYoverse; sólo referencia"
+  },
+  {
+    "url": "https://fontstruct.com/fontstructions/show/2294689/honkai-star-rail-cipher",
+    "fuente": "FontStruct (Zigg13, 2023)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra construida a mano que imita el alfabeto \"Universal Script\" del juego",
+    "para_que": "Punto 5: letra libre para cartelas con el alfabeto ficticio del juego, sin inventar símbolos",
+    "licencia": "FontStruct License (libre, con crédito al autor)"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Titillium+Web",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre grotesca semicondensada, la más parecida a DIN Next (la del diálogo internacional)",
+    "para_que": "Punto 5: cuerpo de texto de la lámina; comprobada con fontTools (ñ, tildes, ¿, ¡)",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://fonts.google.com/specimen/Exo+2",
+    "fuente": "Google Fonts / Fontsource",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Letra libre grotesca angulosa con itálica, parecida a Nadoor Bold Italic (la del logo)",
+    "para_que": "Punto 5: título o logo de la lámina; comprobada con fontTools (ñ, tildes, ¿, ¡)",
+    "licencia": "SIL Open Font License 1.1"
+  },
+  {
+    "url": "https://github.com/festivities/Blender-StellarToon",
+    "fuente": "GitHub (festivities)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Shader para Goo Engine (fork de Blender) que replica el cel-shading de Honkai: Star Rail",
+    "para_que": "Punto 18: nodos de sombreado y contorno ya calibrados, como receta para Blender",
+    "licencia": "GPL-3.0"
+  },
+  {
+    "url": "https://github.com/stalomeow/StarRailNPRShader",
+    "fuente": "GitHub (stalomeow)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Shader para Unity URP que reingenierizó el shading real del juego (sombra propia, pelo semitransparente, bloom)",
+    "para_que": "Punto 18: descripción técnica de las capas de shading que hay que imitar en Blender/Photoshop",
+    "licencia": "Ver repositorio (código abierto)"
+  },
+  {
+    "url": "https://manga.honkaiimpact3.com/book/1021",
+    "fuente": "miHoYo (lector oficial de manga)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "\"Alien Space\", cómic oficial de 17 capítulos, precuela que conecta Honkai Impact 3rd con Star Rail",
+    "para_que": "Punto 6: único cómic oficial con globos de diálogo clásicos ligado a esta serie",
+    "licencia": "© miHoYo; lectura gratuita oficial, sólo como fuente"
+  },
+  {
+    "url": "https://www.oneesports.gg/genshin-impact/genshin-impact-players-honkai-star-rail/",
+    "fuente": "ONE Esports",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista exclusiva a HoYoverse sobre el estilo cel-shading y el mundo de ciencia ficción/fantasía",
+    "para_que": "Punto 18 y 25: cita textual del propio estudio sobre estilo visual y Aeon/Stellaron",
+    "licencia": "Artículo de prensa; sólo como fuente de datos"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/ShoutOut/HonkaiStarRail",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de guiños y referencias del juego (Galaxy Express 999, Trails, Disco Elysium, Fight Club, Bloodborne, Mistborn)",
+    "para_que": "Punto 24: obras parecidas e influencias reconocibles",
+    "licencia": "Artículo wiki; sólo como fuente de datos"
+  },
+  {
+    "url": "https://noisypixel.net/honkai-star-rail-producer-love-trails-interview/",
+    "fuente": "Noisy Pixel",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista al productor David Jiang sobre su afición a la serie Trails (Falcom)",
+    "para_que": "Punto 24: confirmación directa del estudio de la influencia de Trails en el combate",
+    "licencia": "Artículo de prensa; sólo como fuente de datos"
+  },
+  {
+    "url": "https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission",
+    "fuente": "Honkai Star Rail Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista completa de arcos y misiones principales (Herta Space Station a Planarcadia/Astropolis)",
+    "para_que": "Punto 25: la historia por arcos con sus nombres oficiales",
+    "licencia": "Artículo wiki; sólo como fuente de datos"
+  },
+  {
+    "url": "https://honkai-star-rail.fandom.com/wiki/Path",
+    "fuente": "Honkai Star Rail Wiki (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Explicación del sistema de \"Paths\" (los 18 caminos filosóficos ligados a cada Aeon)",
+    "para_que": "Punto 25: reglas del mundo y vocabulario propio",
+    "licencia": "Artículo wiki; sólo como fuente de datos"
+  }
+]

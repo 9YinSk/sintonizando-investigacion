@@ -649,6 +649,65 @@ Ver §13. De sus cajas de diálogo **no encontré capturas** ⚠️.
   Úsalo sólo como guiño.
 - **Voz**: Jason Spisak (inglés); **Nicolás Frías** (latino) ✅.
 
+### La cara en cada emoción (fotograma propio y minuto)
+
+> Segunda pasada (26-sep). Los investigadores de voz y de vídeo bajaron
+> los episodios de Internet Archive
+> ([T1](https://archive.org/details/arcane-season-1-60fps),
+> [T2](https://archive.org/details/arcane-season-2-60fps)) y **miraron
+> los fotogramas**. Los tres de 1×08 y 2×04 los volví a sacar y mirar
+> yo. El enlace lleva el segundo exacto (`?t=`).
+
+| Quién | Emoción | Ep. | Minuto | Qué se ve | Enlace |
+|---|---|---|---|---|---|
+| **Jinx** adulta | **Alegría** | 2×04 «Paint the Town Blue» | **6:10** | Sonrisa torcida y traviesa, dientes a la vista, una ceja arriba. Mira de lado y hacia abajo a **Isha**, a la que acaba de poner orejas de conejo. Un bicho pintado en el hombro; detrás, telas de colores y guirnaldas del escondite. Alegría de verdad, no la risa loca de las peleas | ✅ [`?t=370`](https://archive.org/download/arcane-season-2-60fps/ep%204.mp4?t=370) |
+| **Jinx** adulta | Tristeza, miedo | 1×05 | 11:10-11:20 | Encogida contra la baranda, rodillas al pecho, cara oculta, temblando: el pulso de luz azul le recuerda la explosión | ✅ [`?t=670`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E05.Everybody.Wants.to.Be.My.Enemy.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=670) |
+| **Jinx** adulta | Rabia | — | — | Sin fotograma. Lo más cercano: la splash S2 `Jinx_60` (ceño fruncido, directa a cámara, §15) | ⚠️ |
+| **Powder** (Jinx niña) | Tristeza | 1×03 | 24:45 | Sola, hombros caídos, mirada baja, boca tensa: Vi acaba de irse | ✅ [`?t=1485`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1485) |
+| **Powder** | Miedo | 1×03 | 27:15 | Primer plano del ojo muy abierto y húmedo, encogida, a la defensiva | ✅ [`?t=1635`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1635) |
+| **Powder** | Vergüenza, culpa | 1×03 | 38:00 | Ojos llorosos mirando hacia arriba, hombros encogidos, pelo tapando la cara. Llega Silco con un resplandor azul detrás; la consuela y la llama «Jinx» | ✅ [`?t=2280`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2280) + [Silco · Arcane Wiki](https://arcane.fandom.com/wiki/Silco) |
+| **Vi** | **Alegría** | 1×08 «Oil and Water» | **14:16** | Tumbada boca arriba en la cama de Caitlyn, cabeza echada atrás, **carcajada con la boca muy abierta**, aro en la nariz, pelo suelto. La mañana después de pasar la noche con Caitlyn | ✅ [`?t=856`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=856) |
+| **Vi** | **Vergüenza**, fuera de lugar | 1×08 «Oil and Water» | **13:40** | Boca abajo en la cama de sábanas verdes de la mansión Kiramman, barbilla sobre el antebrazo vendado, mirada baja y de lado, boca apretada. Sus vendas y tatuajes de Zaun contra el lujo de Piltóver. Es incomodidad más que sonrojo: lo más cercano a vergüenza que da la escena | ✅ [`?t=820`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=820) |
+| **Vi** | Rabia | 1×03 | 23:30 | Dientes apretados, ceño hundido, mirada de lado, sangre en la mejilla. Justo antes de llamar «jinx» a Powder | ✅ [`?t=1410`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1410) |
+| **Vi** | Tristeza | 1×07 | hacia 12:30 | Llorosa ante el mural de los Firelights, junto a Ekko (§2.2) | ✅ visto en la hoja; minuto aproximado ⚠️ |
+| **Vi** | Miedo | — | — | Sin fotograma | ⚠️ |
+| **Vi** y **Powder** | Ternura | 1×03 | 16:55 | Vi, con el brazo vendado, sobre el hombro de Powder; las dos miran abajo | ✅ [`?t=1015`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015) |
+| **Jayce** | Vergüenza, humillación | 1×02 | 14:48 | Solo y diminuto en un círculo de luz en la cámara del Consejo; todos lo miran desde arriba | ✅ [`?t=888`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=888) |
+| **Jayce** | Alegría, orgullo | 1×04 | 26:32 | Cejas arriba, boca abierta a media sonrisa, hablando con energía; aplausos y fuegos artificiales | ✅ [`?t=1592`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1592) |
+| **Viktor** | Alegría, ilusión | 1×03 | 17:30 | Cuaderno en mano, sonrisa leve, cejas relajadas ante el primer arco eléctrico azul con Jayce | ✅ [`?t=1050`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1050) |
+| **Caitlyn** | Miedo, tensión | 1×08 | 22:18 | Primer plano quieto en el Consejo: cejas apretadas, boca entreabierta, mirada fija | ✅ [`?t=1338`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=1338) |
+| **Ekko** adulto | Tristeza, recelo | 1×07 | 12:18 | Ceño fruncido, párpados caídos, junto a Vi ante el mural de sus muertos | ✅ [`?t=738`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=738) |
+| **Silco** | Rabia fría | 1×03 | 37:44 | De pie, mentón alto, mirada entornada hacia abajo, mandíbula tensa, relámpago azul detrás | ✅ [`?t=2264`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2264) |
+
+**Huecos** (sin fotograma todavía) ⚠️: rabia de Jinx adulta y miedo de Vi;
+miedo, tristeza y vergüenza de Viktor; alegría y rabia de Caitlyn y de
+Ekko; tristeza, miedo y vergüenza de Silco. Para la **alegría de Vi en
+otra escena**: 1×05, min 22:59, sonrisa irónica al ver a Caitlyn en el
+burdel ⚠️ (vista por el investigador, no por mí).
+
+**Lo que se ve en todas**: Arcane no exagera las caras como un anime.
+Nada de gotas de sudor ni ojos de estrella. La emoción va en **la
+mirada, la boca y los hombros**, y en **la luz** (azul frío en el
+trauma, cálida en el cariño, §5).
+
+### Dinámicas (para láminas en grupo)
+
+- **Vi y Jinx**: se quieren y se hieren. La escena del 1×03 (23:30) las
+  rompe; en la T2 sus carteles se leen juntos, con una diana pintada en
+  la espalda de Vi (§3.3).
+- **Vi y Caitlyn** («Caitvi», n.º 17 de AO3 en 2024): Vi la pica con
+  «bombón» / «pastelito»; con Caitlyn es con quien más se ríe (1×08,
+  14:16).
+- **Jayce y Viktor** («Jayvik», n.º 15): «**nuestro** sueño Hextech».
+  Viktor le devuelve la ilusión tras la expulsión (1×02 14:48 → 1×03
+  17:30). Jayce habla y convence; Viktor mira de cerca y corrige.
+- **Silco y Jinx**: padre adoptivo. La consuela y le pone nombre (1×03,
+  38:00); sus últimas palabras son de cariño (1×09).
+- **Ekko y Jinx**: amigos de infancia, luego enemigos. Su diseño final
+  mezcla las dos paletas (2×09, §8 Ekko).
+- **Jinx e Isha**: la única que la hace reír sin locura; pintan juntas
+  (2×04, 6:10).
+
 ### Secundarios a mano
 
 | Quién | Para qué sirve | Estado |

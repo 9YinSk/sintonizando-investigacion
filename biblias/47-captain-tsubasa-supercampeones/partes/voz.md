@@ -8,6 +8,32 @@ hermana (comprobado con `herramientas/hermanas.py`, sale «sin hermana»). `dato
 buscarlos como «Tsubasa Ozora», «Genzo Wakabayashi», «Kojiro Hyuga» en la wiki en inglés, y como «Súper
 Campeones» en Doblaje Wiki, no «Captain Tsubasa»).
 
+## 7 · Personajes principales y secundarios: popularidad
+
+- **Ninguna encuesta de popularidad *oficial* de Shueisha/Jump confirmada**: busqué en japonés
+  («キャプテン翼 人気投票 結果») y sólo aparecen recopilaciones de sitios de fans (`ranking.net`,
+  `kamo2kamo.com`, `rank1-media.com`); ninguna dice ser un sondeo de la revista · ⚠️ (no confirmado como
+  oficial, lo trato como fan).
+- Encuesta de fans «4ª ronda» (kamo2kamo.com, publicada 25-mar-2022): 1º Tsubasa Ozora (1538 votos), 2º
+  Taro Misaki (1129), 3º Kojiro Hyuga (952), 4º Takeshi Wakashimazu (634), 5º Hikaru Matsuyama (560) ·
+  fuente https://kamo2kamo.com/captain-tsubasa-rank4/ · ⚠️ (una fuente, sondeo de fans).
+- Encuesta de fans «3ª ronda» (mismo sitio, resumen visto por IA de búsqueda): **1º Taro Misaki (9374
+  votos), 2º Kojiro Hyuga (7576), 3º Takeshi Wakashimazu (6943), 4º Hikaru Matsuyama (6819), 5º Tsubasa
+  Ozora** — el protagonista **no** queda primero · fuente https://kamo2kamo.com/captain-tsubasa-rank3/ ·
+  ⚠️ (una fuente, sondeo de fans, no se abrió la página entera). **Esto es justo lo que pide el punto 7**:
+  Taro Misaki/Tom Misaki, un secundario, gana a Tsubasa en más de una ronda.
+- Ranking general (sin fecha, mismo tipo de sitio): 1º Tsubasa Ozora, 2º Taro Misaki, 3º Kojiro Hyuga, 4º
+  Genzo Wakabayashi, 5º Ken Wakashimazu, 6º Hikaru Matsuyama, 7º Jun Misugi, **8º Karl Heinz Schneider**
+  (rival alemán, personaje extranjero), 9º Ryo Ishizaki, 10º Yuzo Morisaki · misma fuente · ⚠️.
+- Los tres personajes del encargo (Tsubasa/Oliver, Wakabayashi/Genzo/Benji, Hyuga/Steve) están siempre en
+  el top 4 de todas las rondas encontradas: son el núcleo real del fandom, no una elección arbitraria del
+  encargo · ✅ (coincide en 3 rondas distintas).
+- Popularidad fuera de Japón: influencia confirmada en futbolistas reales — Lionel Messi, Andrés Iniesta,
+  Zinedine Zidane, Alessandro del Piero y Kylian Mbappé citaron el manga como inspiración, según nota de
+  Bagre.life y Récord (México, 40º aniversario) · fuentes https://bagre.life/contenido/cultura-pop/supercampeones-serie-futbol-mundial/
+  y https://www.record.com.mx/historia/supercampeones-cumplio-40-anos-y-sigue-siendo-un-fenomeno-en-latinoamerica-2025102004542882738
+  · ✅ (dos medios, mismo dato).
+
 ## 8 · Doblaje latino y frases icónicas
 
 Hay **dos doblajes latinos completos** con reparto distinto (nombres de personaje iguales, actores
@@ -61,27 +87,3 @@ años** (el que more gente cita en redes), porque se repitió muchísimo en TV a
   de mediotiempo dice que Rosalinda Márquez y Emilio Ángeles doblaron a Oliver niño/adolescente en esa
   versión de 2018) · ⚠️ (una fuente, no verificado en Doblaje Wiki directamente, la página de esa serie no
   apareció en la búsqueda de la wiki con ese título).
-
-- **Ninguna encuesta de popularidad *oficial* de Shueisha/Jump confirmada**: busqué en japonés
-  («キャプテン翼 人気投票 結果») y sólo aparecen recopilaciones de sitios de fans (`ranking.net`,
-  `kamo2kamo.com`, `rank1-media.com`); ninguna dice ser un sondeo de la revista · ⚠️ (no confirmado como
-  oficial, lo trato como fan).
-- Encuesta de fans «4ª ronda» (kamo2kamo.com, publicada 25-mar-2022): 1º Tsubasa Ozora (1538 votos), 2º
-  Taro Misaki (1129), 3º Kojiro Hyuga (952), 4º Takeshi Wakashimazu (634), 5º Hikaru Matsuyama (560) ·
-  fuente https://kamo2kamo.com/captain-tsubasa-rank4/ · ⚠️ (una fuente, sondeo de fans).
-- Encuesta de fans «3ª ronda» (mismo sitio, resumen visto por IA de búsqueda): **1º Taro Misaki (9374
-  votos), 2º Kojiro Hyuga (7576), 3º Takeshi Wakashimazu (6943), 4º Hikaru Matsuyama (6819), 5º Tsubasa
-  Ozora** — el protagonista **no** queda primero · fuente https://kamo2kamo.com/captain-tsubasa-rank3/ ·
-  ⚠️ (una fuente, sondeo de fans, no se abrió la página entera). **Esto es justo lo que pide el punto 7**:
-  Taro Misaki/Tom Misaki, un secundario, gana a Tsubasa en más de una ronda.
-- Ranking general (sin fecha, mismo tipo de sitio): 1º Tsubasa Ozora, 2º Taro Misaki, 3º Kojiro Hyuga, 4º
-  Genzo Wakabayashi, 5º Ken Wakashimazu, 6º Hikaru Matsuyama, 7º Jun Misugi, **8º Karl Heinz Schneider**
-  (rival alemán, personaje extranjero), 9º Ryo Ishizaki, 10º Yuzo Morisaki · misma fuente · ⚠️.
-- Los tres personajes del encargo (Tsubasa/Oliver, Wakabayashi/Genzo/Benji, Hyuga/Steve) están siempre en
-  el top 4 de todas las rondas encontradas: son el núcleo real del fandom, no una elección arbitraria del
-  encargo · ✅ (coincide en 3 rondas distintas).
-- Popularidad fuera de Japón: influencia confirmada en futbolistas reales — Lionel Messi, Andrés Iniesta,
-  Zinedine Zidane, Alessandro del Piero y Kylian Mbappé citaron el manga como inspiración, según nota de
-  Bagre.life y Récord (México, 40º aniversario) · fuentes https://bagre.life/contenido/cultura-pop/supercampeones-serie-futbol-mundial/
-  y https://www.record.com.mx/historia/supercampeones-cumplio-40-anos-y-sigue-siendo-un-fenomeno-en-latinoamerica-2025102004542882738
-  · ✅ (dos medios, mismo dato).

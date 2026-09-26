@@ -115,3 +115,44 @@ genérico"), sacados del wikitext de cada ficha (`action=parse&prop=wikitext`):
   - ⚠️ ninguno de los 15 fondos de Wallhaven es explícitamente "paisaje sin
     personaje" — todos incluyen a Maomao u otro personaje en primer plano; para
     un fondo limpio conviene recortar un fotograma del anime (trabajo de vídeo)
+
+## 19 · Texturas 2D
+
+Tramas del manga (capturas reales, no descripción de memoria) y sus equivalentes
+libres para replicarlas en Photoshop/Clip Studio.
+
+- Trama real vista en el propio manga: portadilla del capítulo 69 (「逆子」,
+  "parto de nalgas"), tapiz/alfombra con degradado de tono gris y un patrón
+  floral de puntitos, y el pelo con tono plano de sombreado — imagen 113 de la
+  hoja 3 (`KusuriyaHitorigoto-Chapter69.png`, 1097×1536) · fuente wiki (galería
+  Jinshi) ✅ (el mismo tipo de trama de puntos se repite en la portadilla del
+  capítulo 15, imagen 124 de la hoja 3)
+- El grueso de las ilustraciones de la wiki (novela ligera, no manga) usa tinta
+  y difuminado a mano, sin trama de puntos — comprobado mirando en grande las
+  imágenes 57 a 72 y 161 a 168 de las hojas 2 y 4 (todas "LN Vol…" o "Chapter…
+  jpg" de las novelas, con textura de pincel y aguada, no halftone) · esto es
+  relevante para no aplicar una trama de manga clásico donde el estudio en
+  realidad no la usó.
+- Patrón de tela con licencia libre equivalente al ribete dorado y al panel de
+  dragón bordado de Jinshi (ver punto 15): piezas reales de brocado de museo,
+  CC0 (Openverse, colección Smithsonian/rawpixel):
+  - "Shaped throne-back cover, imperial yellow" · CC0 · 5001×3461 · https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA4L2xyL21pYTE2NzgwLWltYWdlLmpwZw.jpg
+  - "Brocade panel" (Smithsonian) · CC0 · https://ids.si.edu/ids/deliveryService?id=FS-7814_04
+  - "Brocade, silk. Oblong panel; chair cover" (Smithsonian) · CC0 · https://ids.si.edu/ids/deliveryService?id=FS-6389_11
+- Trama de puntos (screentone) libre para Clip Studio Paint, gratis:
+  **"[FREE] Manga Screentone Pack 1"** de Aku86941878 · Clip Studio Assets,
+  id 2142037 · gratis, 678 likes · 10 tonos + 5 efectos de capa superior ·
+  https://assets.clip-studio.com/en-us/detail?id=2142037 · licencia: gratis
+  bajo las normas de uso de Clip Studio Assets (uso propio, no reventa) ·
+  comprobado con `navegar.py` (la página carga y confirma "Free / Download")
+- Grano de papel real libre (para la textura de fondo de una viñeta o de un
+  cuaderno): ambientCG `Paper001`, `Paper005`, `Paper006`, CC0, PBR completo ·
+  https://ambientcg.com/a/Paper001 (y Paper005/Paper006) · comprobado con la
+  API de ambientCG (`/api/v2/full_json?type=Material&q=paper`)
+- ⚠️ No encontré un **emblema o escudo** propio de un clan/gremio con diseño
+  gráfico fijo (tipo blasón) en la wiki: busqué `emblem`, `crest`, `insignia` en
+  el buscador de texto de la wiki y sólo salieron el clan Ka y el clan La (sin
+  imagen de escudo asociada, son apellidos de familia) — el motivo más cercano a
+  un "emblema" reconocible es el dragón bordado del panel de Jinshi T3 (arriba).
+  Si hace falta un logo, mejor usar el propio patrón de dragón que un escudo
+  inventado.

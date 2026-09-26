@@ -62,9 +62,10 @@ Bio y diálogos sacados de la wikitexto oficial del juego (Fandom HSR, páginas 
 | March 7th | Serenidad/nostalgia | mismo tráiler | 0:54 | https://www.dailymotion.com/video/x8a7le6 (fotograma 10, ojos cerrados, luz cálida) |
 | March 7th | Determinación (combate) | mismo tráiler | 1:30 | https://www.dailymotion.com/video/x8a7le6 (fotograma 16, en plena acción con hielo) |
 | Kafka | Calma/control | Tráiler «Ironía Dramática» (Dailymotion) | 1:20 | https://www.dailymotion.com/video/x8n3btc (fotograma 11, perfil sereno, media sonrisa) |
+| Firefly | Resignación serena (acepta su destino) | Tráiler oficial «Embers in a Shell» (Dailymotion) | 0:40 | https://www.dailymotion.com/video/x90j8pu?t=40 (ojos cerrados, rodeada de llamas, sin gesto de dolor) |
 
-- No conseguí primeros planos claros de Caelus/Stelle mostrando una emoción marcada en el tráiler «The Deliverer» (Dailymotion x9o6p18): es casi todo efectos abstractos y planos de acción lejanos, sin cara visible. Habría que sacarlo de una cinemática de misión principal (necesita el juego instalado o un canal de story cutscenes) o de las hojas de la wiki (`Trailblazer/Media`) que hace el investigador de imagen. ⚠️
-- Faltan Firefly y más emociones (rabia, tristeza, miedo, vergüenza) de los 3 personajes pedidos: no me dio el tiempo de esta tanda para más tráilers ni cinemáticas de historia. Ver «Sigue».
+- No conseguí primeros planos claros de Caelus/Stelle mostrando una emoción marcada: el tráiler «The Deliverer» (Dailymotion x9o6p18) es casi todo efectos abstractos y planos de acción lejanos, sin cara visible; probé también «1st anniversary trailer» y «Astral Express trailer» en Dailymotion y salieron los mismos tráilers generales ya usados, sin uno centrado en la cara del Trazacaminos. Habría que sacarlo de una cinemática de misión principal (necesita el juego instalado o un canal de story cutscenes) o de las hojas de la wiki (`Trailblazer/Media`) que hace el investigador de imagen. ⚠️
+- Sigue faltando rabia, tristeza, miedo y vergüenza de los 4 personajes (sólo tengo alegría/serenidad/determinación de March 7th, calma de Kafka y resignación de Firefly): no me dio el tiempo de esta tanda para más tráilers ni cinemáticas de historia. Ver «Sigue» al final.
 
 ## 20 · Gustos y detalles de cada personaje
 
@@ -75,7 +76,7 @@ Datos sacados de las líneas de diálogo interactivo del propio juego («Charact
 | March 7th | El jugo, tomar fotos, escribir su diario | Aburrirse cuando nadie le habla; la anguila en gelatina y el café de Himeko («difíciles de tragar») | Fotografía, llevar diario, esgrima (aprendida de Yanqing y Yunli) | «7 de marzo» (su propio nombre; no se conoce su fecha real de nacimiento, es amnésica) | No publicada | Fandom HSR, `March 7th/Voice-Overs` ✅ |
 | Kafka | Los abrigos de terciopelo («frágiles y hermosos»), el violín, charlar con Silver Wolf | Nada en concreto: se declara indiferente al pasado y al futuro por igual | Coleccionar y cuidar abrigos, tocar el violín | No publicado | ≈170 cm (ficha de busca «Suspect Kafka…») | Fandom HSR, `Kafka/Lore` (orden de busca) y `Kafka/Voice-Overs` ✅ |
 | Trazacaminos | Pom-Pom (lo disimula), explorar la Express, el Curio-arma que le asignó Herta | No especificado en las líneas revisadas | Explorar, combatir, ayudar a la tripulación | No aplica (personaje-avatar sin fecha propia) | No publicada | Fandom HSR, `Trailblazer/Voice-Overs` ✅ |
-| Firefly | — | — | — | No publicado | No publicada | ⚠️ no encontré líneas de «Hobbies/Annoyances» suyas en la wiki con el tiempo de esta tanda |
+| Firefly | Las excursiones al aire libre (hierba, moras, mariposas, «tocar con sus manos el mundo lleno de vida») | No especificado; le molesta no poder soñar (duerme mucho menos que una persona normal) | Salir de excursión, mirar el mar de estrellas desde el tejado por las noches | No publicado | No publicada | Fandom HSR, `Firefly/Voice-Overs` ✅ |
 
 - Nombre en español confirmado por la propia wiki (útil para textos del canal): «Siete de Marzo» (March 7th) y «Estela»/Caelus (Trazacaminos) · fuente: Fandom HSR, plantilla «Other Languages» de cada página · ✅
 
@@ -111,7 +112,7 @@ Sin doblaje oficial en español, la comunidad hispana hace principalmente **fand
 
 - Doblaje latino de voz: confirmado que no existe (no es un «no encontré», es un hecho con 3 fuentes).
 - Altura y cumpleaños oficiales de March 7th, Trazacaminos y Firefly: no están publicados por HoYoverse (busqué en `Character Infobox` y en `Voice-Overs` de cada uno); sólo Kafka trae altura aproximada por su ficha de «se busca».
-- Emociones de rabia, tristeza, miedo y vergüenza con fotograma propio de los 3 personajes pedidos: sólo saqué alegría/serenidad/determinación de March 7th y calma de Kafka en esta tanda (faltó tiempo para más tráilers/cinemáticas).
+- Emociones de rabia, tristeza, miedo y vergüenza con fotograma propio: sólo saqué alegría/serenidad/determinación de March 7th, calma de Kafka y resignación serena de Firefly en esta tanda (faltó tiempo para más tráilers/cinemáticas, y no encontré ningún tráiler centrado en la cara del Trazacaminos).
 - Reseñas de prensa especializada centradas en personajes (con premios o cifras de ventas por personaje): no existen para este juego gacha, según lo que busqué.
 - Parodias o memes hispanos propios de HSR con canal identificado: no encontré ninguno con nombre propio, sólo traducciones informales de los memes en inglés de Reddit.
 - Fandub latino de Kafka o del Trazacaminos en concreto (busqué «Kafka fandub español latino» y «Trazacaminos fandub español»): sólo aparecieron pruebas de casting sueltas en Instagram, sin canal ni vídeo terminado que pudiera verificar.
@@ -136,9 +137,9 @@ Sin doblaje oficial en español, la comunidad hispana hace principalmente **fand
 | 7 · Popularidad | ✅ | Encuesta oficial 2025 (2 fuentes) + Danbooru + Reddit |
 | 8 · Doblaje latino | ✅ | Confirmado que NO existe, con 3 fuentes; tabla EN/JP/CN/KR completa para los 4 personajes |
 | 12 · Fandom y qué no hacer | ✅ | Memes con repost verificado, aviso de Trazacaminos con voz propia, aviso de no inventar doblaje latino |
-| 13 · Carácter y forma de hablar | ⚠️ | 4 personajes descritos con fuente; emociones en imagen sólo cubren March 7th (3) y Kafka (1), faltan Trazacaminos y Firefly y las emociones negativas |
-| 20 · Gustos | ⚠️ | March 7th, Kafka y Trazacaminos completos; Firefly sin datos (no encontrados en el tiempo de esta tanda) |
+| 13 · Carácter y forma de hablar | ⚠️ | 4 personajes descritos con fuente; emociones en imagen cubren March 7th (3), Kafka (1) y Firefly (1), falta el Trazacaminos y las emociones negativas (rabia/tristeza/miedo/vergüenza) de todos |
+| 20 · Gustos | ✅ | March 7th, Kafka, Trazacaminos y Firefly completos, cada uno con fuente |
 | 21 · Por qué la aman | ✅ | Identificación por camino, escenas que hacen llorar (Penacony, 3.6) con reacción de Reddit |
 | 22 · Fan dubs | ✅ | 2 canales identificados con suscriptores y vídeos; aclarado por qué no hay covers de opening |
 
-Sigue: sacar «cara en cada emoción» (rabia, tristeza, miedo, vergüenza) del Trazacaminos y de Firefly con fotograma y minuto, y los gustos/aficiones de Firefly (punto 20) — es lo único obligatorio que quedó a medias.
+Sigue: sacar «cara en cada emoción» (al menos rabia, tristeza, miedo o vergüenza) de March 7th, Kafka, Trazacaminos y Firefly con fotograma y minuto — de una cinemática de misión principal o de un tráiler más centrado en el rostro (el punto 13 sólo tiene alegría/serenidad/determinación por ahora) — es lo único obligatorio que quedó a medias.

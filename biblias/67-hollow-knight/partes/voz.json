@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=OmlNd1LTVEQ",
+    "fuente": "YouTube (canal Z-LIVE)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Tutorial de instalación del mod de doblaje en español «Voces del Vacío» 0.1.5 para Hollow Knight (2:09 min, 20 308 vistas)",
+    "para_que": "Punto 22: fan dubs y comunidad hispana — prueba concreta de un proyecto de doblaje de fans activo",
+    "licencia": "Vídeo de YouTube, ver derechos del canal; sólo como referencia/enlace, no para descargar el vídeo"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JJ1TJL9F7a0",
+    "fuente": "YouTube (canal Feny777)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Vídeo de reacción a las voces enviadas para el mod de doblaje «Voces del Reino» (3h08min, 9230 vistas)",
+    "para_que": "Punto 22: muestra la comunidad hispana reaccionando/participando en el casting del doblaje de fans",
+    "licencia": "Vídeo de YouTube, ver derechos del canal; sólo como referencia/enlace"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lycfa1F23Ho",
+    "fuente": "YouTube (canal Khai Rap)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "«Hollow Knight Rap | Vacío», tema tributo original en español con letra (5:12 min, 793 350 vistas, subido 8-sep-2025)",
+    "para_que": "Punto 22: el tributo musical hispano más visto encontrado sobre la saga; útil como referencia de tono/lenguaje del fandom hispano",
+    "licencia": "Vídeo de YouTube, ver derechos del canal; sólo como referencia/enlace"
+  },
+  {
+    "url": "https://hollowknight.fandom.com/es/wiki/Hornet",
+    "fuente": "Hollow Knight Wiki en español (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guion de diálogo oficial de Hornet traducido al español, con la ubicación de cada encuentro en el juego",
+    "para_que": "Punto 8 y 13: frases textuales oficiales en español citadas con su lugar (sirve de «minuto» al no haber vídeo doblado)",
+    "licencia": "CC BY-SA (licencia estándar de Fandom); texto, no imagen"
+  },
+  {
+    "url": "https://hollowknight.fandom.com/es/wiki/Quirrel",
+    "fuente": "Hollow Knight Wiki en español (Fandom)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Guion de diálogo oficial de Quirrel traducido al español, incluida su despedida en el Lago Azul",
+    "para_que": "Punto 8, 13 y 21: frase de despedida citada como una de las escenas que más hacen llorar al fandom",
+    "licencia": "CC BY-SA (licencia estándar de Fandom); texto, no imagen"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/YMMV/HollowKnight",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Página de recepción del fandom: personajes más queridos de lo esperado, escenas que hacen llorar, memes",
+    "para_que": "Puntos 7, 12 y 21: fuente principal para popularidad de secundarios y qué ama el fandom",
+    "licencia": "CC BY-NC-SA 3.0 (Creative Commons, licencia propia de TV Tropes); texto, no imagen"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Memes/HollowKnight",
+    "fuente": "TV Tropes",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de memes del fandom, en especial los gritos mal-oídos de los personajes (SHAW!, GIT GUD!, Guaraná!, etc.)",
+    "para_que": "Puntos 8 y 12: material central para cuadros de diálogo o gags reconocibles por el fandom",
+    "licencia": "CC BY-NC-SA 3.0 (Creative Commons); texto, no imagen"
+  }
+]

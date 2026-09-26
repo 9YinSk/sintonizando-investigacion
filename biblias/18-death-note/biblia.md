@@ -474,9 +474,9 @@ wiki.
 - **No sirven de estilo** (imagen real): nº1-5 y 25 musical de Taiwán,
   nº18-20 y 28 musical coreano, nº21-24, 30, 45 y 47 películas
   japonesas, nº6, 32-33, 35, 43 y 48 película de Netflix 2017.
-- **Para qué**: nº8 y nº27 son las poses de Misa y Light de los
-  conceptos A y C; nº11 y nº26 sirven para L «explicando»; nº13 para
-  una lámina en grupo con los sucesores.
+- **Para qué**: nº8 es Misa para el concepto C; nº11 y nº26 sirven
+  para L «explicando» (concepto B); nº27, Light de perfil con el
+  uniforme; nº13, una lámina en grupo con los sucesores.
 
 **`hojas/colaboraciones_02.jpg`** (nº 241-288)
 
@@ -487,7 +487,7 @@ wiki.
   Force*** · nº255 hoja de modelo de Light a lápiz (Pp140-141) · nº256
   Light cara a cara con Near · nº258 Near *chibi* de *Jumputi Heroes* ·
   nº259-260 Mello de cuero rojo · nº261 L de pie, descalzo · nº262
-  página del manga con Near · nº265 Ryuk a color · nº267 Ryuk con una
+  página del manga con Near · nº265 Ryuk a color (concepto A) · nº267 Ryuk con una
   chica que abraza un Death Note (DNP 001, del piloto) · nº268 L y
   nº271 Near en el anime · nº272 Ryuk en rojo · nº276-285 fotogramas
   del ep. 1 (ojo rojo del shinigami, sonrisas de Ryuk, Light a
@@ -2075,7 +2075,7 @@ personaje» es **mía**, no del doblaje latino. Recortes siempre por
 ### Concepto A — «Cómo se usa» (el cuaderno del plan, mejorado)
 
 - **Objeto y sitio**: **el Death Note abierto sobre el escritorio de
-  Light**, de noche (su cuarto, ep. 1, 00:04:32). Al lado: **una manzana
+  Light**, de noche (su cuarto). Al lado: **una manzana
   roja mordida**, un bolígrafo, **la bolsa de papas** y **el cajón a medio
   abrir con el doble fondo** (ep. 2, 00:10:32). En Blender: cuaderno (caja
   con tapas y hojas curvadas), manzana, cajón. Texturas: cuero
@@ -2084,8 +2084,10 @@ personaje» es **mía**, no del doblaje latino. Recortes siempre por
   [Wood039](https://ambientcg.com/view?id=Wood039).
 - **Personaje**: **Ryuk**, porque **él escribió las instrucciones**.
   Detrás del escritorio, inclinado sobre el cuaderno, con la manzana en la
-  mano. Pose: ep. 1, 00:13:00 (aparece detrás de Light) o 00:16:12 (la
-  manzana). La mano que sostiene la manzana **se ve entera, con su brazo**
+  mano. Pose: ep. 1, 00:13:00 (**visto** ✅: contrapicado, enorme, alas
+  de pelo en punta llenando el plano) o la sonrisa de oreja a oreja del
+  ep. 1, 00:17:29 ([`?t=1049`](https://archive.org/download/DeathNoteTV/01%20-%20Rebirth.mp4?t=1049)).
+  Cuerpo entero a color: hoja 2, nº265; con Light: nº251. La mano que sostiene la manzana **se ve entera, con su brazo**
   (regla 7 del dueño).
 - **Cómo habla**: como en el manga, **la regla en inglés arriba y la
   traducción debajo**. Su frase, **garabateada en el margen** del cuaderno
@@ -2102,8 +2104,14 @@ personaje» es **mía**, no del doblaje latino. Recortes siempre por
     **Tipo** Monólogo, **Voces** Hombre adulto, **Duración** 40 segundos,
     **Tono** Contenido, **Uso** Libre para usar. Es el hilo de ejemplo del
     foro, y el **40** es el de la regla del cuaderno.
+- **Segunda pasada, la página**: la primera hoja del cuaderno es **negra
+  con letra blanca gótica** y una calavera con aureola (insert del ep. 1,
+  00:04:32, visto ✅). La página izquierda puede ser así (negro violeta
+  `#070311` a `#29202A`, medido) y la derecha, la hoja rayada hueso donde
+  se escribe a mano.
 - **Para que no quede plano**: lámpara de escritorio **cálida** a un lado,
-  cuarto **azul oscuro**; la manzana **desenfocada en primer plano**; los
+  cuarto **azul violeta casi negro** (`#0F1127`, `#030212`, `#1A2237`,
+  medidos en el ep. 1); la manzana **desenfocada en primer plano**; los
   ojos rojos de Ryuk como único brillo del fondo; **una gota de sangre**
   que cae de la punta del bolígrafo sobre el margen (sangre.py), y la
   sombra de Ryuk sobre la página derecha.
@@ -2120,8 +2128,12 @@ personaje» es **mía**, no del doblaje latino. Recortes siempre por
   clip. En Blender: tele de tubo, folios, clip, taza y **una torre de
   terrones de azúcar**.
 - **Personaje**: **L, el más querido** (§9). **En cuclillas en la silla**,
-  sujetando el guion **con dos dedos**. Pose: ep. 10, 00:08:14 (en
-  cuclillas) o ep. 9, 00:15:27 (pulgar en el labio).
+  sujetando el guion **con dos dedos**. Pose: ep. 10, 00:08:14 (**visto**
+  ✅: en cuclillas, dedo en el labio) o ep. 15, 00:08:04 (en cuclillas
+  sobre un banco, [`?t=484`](https://archive.org/download/DeathNoteTV/15%20-%20Wager.mp4?t=484)).
+  Arte oficial: hoja 1, nº11 (dedo en el labio) y nº26 (de blanco);
+  hoja 2, nº261 (de pie, descalzo). La tele del ep. 2 es un **CRT azul
+  sobre un mueble** (visto ✅).
 - **Cómo habla**: L habla **de usted y en porcentajes**. Su frase, **a
   máquina** (Special Elite) en un post-it pegado al guion: **«Si llenas la
   ficha, la probabilidad de que alguien lo grabe sube mucho.»**
@@ -2149,7 +2161,12 @@ personaje» es **mía**, no del doblaje latino. Recortes siempre por
   etiqueta, sobre, cámara, espejo.
 - **Personaje**: **Misa**, porque **es la que graba**. Pose: ep. 12,
   00:14:39 (posando) o 00:09:08 (va corriendo a grabar). Ropa gótica,
-  **cruz de plata**.
+  **cruz de plata**. **Visto** ✅ en el ep. 12, 00:14:39: labios rojos y
+  **bufanda roja tejida con un colgante «M»**. Arte oficial: hoja 1, nº8
+  («Saint Valentine's Day», vestido rojo `#A74E44` medido) y nº40.
+- **La cinta, tal cual sale** (ep. 11, 00:03:27, visto ✅): tele con
+  estática, un **cronómetro verde «5:59»** y **«KIRA» escrito a mano en
+  gótico**. Úsalo para la pantalla del fondo.
 - **Cómo habla**: **en tercera persona**, cantarina. Su frase en la
   **etiqueta de otra cinta**, a mano (Kalam), con un corazón negro:
   **«Misa ya grabó el suyo. ¡Ahora tú!»**
@@ -2163,8 +2180,9 @@ personaje» es **mía**, no del doblaje latino. Recortes siempre por
   primer plano; bombillas del espejo de camerino detrás; una **mancha de
   pintalabios rojo** en el sobre que pasa por sangre (sangre.py, con
   cuidado).
-- **Riesgo**: Misa no sale arriba en las encuestas ⚠️. Es la opción **más
-  «de doblaje»**, pero la menos querida de las tres.
+- **Riesgo**: Misa no sale arriba en las encuestas japonesas ⚠️; en
+  AniList es **4.ª**, casi empatada con Ryuk (7 010 contra 7 079) ✅. Es
+  la opción **más «de doblaje»**, pero la menos querida de las tres.
 
 ### ¿Cuál primero?
 
@@ -2200,6 +2218,78 @@ en el ep. 24, 00:11:55 a 00:13:09, cuando leen las reglas de la contratapa)
 - **Hex de la paleta**: estimados, no medidos.
 - La **entrevista de Araki** sobre color (fullfrontal.moe) y la de la web
   de Madhouse: sólo resúmenes.
+
+### 20.1 Tras la segunda pasada (26-sep-2026)
+
+**Resuelto**: hojas de contacto (3 en `hojas/`); 19 poses y 9 caras
+vistas en fotograma; voces de Sōichirō, Rem, Watari, Matsuda y Mikami;
+licencias de Sketchfab por su API; hex medidos (fondos en §5.5, ropa en
+§16.1); la entrevista de Araki (fullfrontal.moe); capturas de *Killer
+Within* (§13.1).
+
+**Sigue sin verificar** ⚠️:
+
+- **Frases del doblaje latino**: sólo «fritura» tiene audio; el orden
+  exacto de la frase y «Yo soy la justicia» / «Seré el dios del nuevo
+  mundo» siguen sin oírse en el doblaje.
+- **El estudio** del doblaje: AF The Dubbing House o Mystic Sound /
+  Fogarty Studios (las dos wikis no coinciden).
+- **Encuesta oficial** de la Jump: parece que no hubo.
+- **La letra de las reglas** y **las pausas (eyecatch)** episodio a
+  episodio.
+- **Capturas de Kira Game** (DS).
+- **Fotogramas a 1080p**: Internet Archive sólo tiene 720p; YouTube no
+  deja bajar.
+- **Minutos de los análisis de YouTube** y vistas de TikTok.
+- **Caras sin fotograma propio**: la risa de Light, la tristeza de L y
+  Matsuda disparando (hay clips doblados); Misa en el ep. 13 y Near en el
+  ep. 28 (mira ±10 s).
+- **Alturas y cumpleaños** de Mello, Matsuda, Mikami y Naomi (sólo
+  AniList).
+- **El libro «/A»** de la animación (nunca salió de Japón), la licencia
+  de «Death Font», el año de LINE Bubble 2 y la fecha de USJ.
+- **Portadas de los 12 tomos** con tamaño.
+- **Modelo 3D libre de Misa o Near**: no existe en Sketchfab.
+
+---
+
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Estado tras la
+segunda pasada (26-sep-2026).
+
+| Punto | Qué pide | Estado | Por qué y dónde |
+|---|---|---|---|
+| 1 | Arte oficial, mucho y variado | ✅ | §3.6 y «Las hojas de contacto»: 1181 imágenes de la wiki, color pages de Obata hasta 3466×5000, artbook, *Othellonia*, *Jump Force*. Faltan las portadas de los 12 tomos con tamaño |
+| 2 | Fotogramas de escenas icónicas con capítulo y minuto | ⚠️ | §2 (minuto del subtítulo) y §2.11 (11 escenas vistas en Internet Archive, más opening, ending y tráiler). A 720p, no a 1080p: YouTube no deja bajar |
+| 3 | Fan art, renders y modelos 3D con licencia | ✅ | §4: 11 modelos con la licencia leída en la API de Sketchfab (cuaderno, Ryuk, L, Light); fan art con autor. No hay Misa ni Near libres |
+| 4 | Fondos, luz, paleta en hex y texturas reales | ✅ | §5.5: 9 sitios y la página del cuaderno con hex medidos en fotograma; §5.4 texturas CC0 con licencia confirmada |
+| 5 | Tipografía por uso, letra libre y si trae tildes | ✅ | §6 y §6.3: 12 letras pasadas por fontTools (a Butcherman le falta el ¿), japonés, coreano y chino. La licencia de «Death Font» no salió: no se usa |
+| 6 | Cómo hablan y piensan en pantalla | ✅ | §7: página «HOW TO USE IT», la «L» gótica, monólogo interior, cómo habla cada uno; §13.1 el globo dentado y la hoja roja de *Killer Within* |
+| 7 | Personajes y encuestas de popularidad | ✅ | §8 y §9.1: Nlab, Namuwiki, Ranker y AniList (L 1.º); Matsuda, secundario de culto en Reddit |
+| 8 | Doblaje latino: frases y voces en dos fuentes | ⚠️ | §10: 14 voces en Doblaje Wiki y The Dubbing Database (las 5 que faltaban, resueltas); ficha de producción. Frases: sólo «fritura» con audio; el estudio, dos versiones |
+| 9 | Música, efectos de sonido y onomatopeyas | ✅ | §11.1: «Kyrie II» en la muerte de L (00:17:13), temas por episodio, tictac y campanas con minuto |
+| 10 | Vídeos con enlace y minuto | ⚠️ | §12.1: tráiler, opening y ending en Dailymotion con minuto; episodios con `?t=`; TikTok. Los análisis de YouTube, sin minuto |
+| 11 | Videojuegos: interfaz, menús y cajas de diálogo | ⚠️ | §13 y §13.1: seis capturas de *Killer Within* miradas (cuaderno, aviso de L, votación). *Kira Game* (DS), sin captura |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | §14 y §14.1: papa, *keikaku*, memes hispanos de más de 1 millón de vistas, uniforme y lolita; qué NO hacer |
+| 13 | Descripción profunda y cara en cada emoción | ✅ | §8 y §8.1: carácter, cómo habla, dinámicas; 9 caras, 6 vistas en fotograma con `?t=` (4 minutos corregidos). Tres, sólo con clip doblado |
+| 14 | Poses en varias escenas, por personaje | ✅ | §15: 5 a 10 poses con minuto por personaje; 19 filas vistas en fotograma, con correcciones |
+| 15 | Vestuario con hex | ✅ | §16.1: 10 hex medidos en arte oficial; la corbata de Light y el pantalón de Near en el anime, sin medir |
+| 16 | Ciudades, paisajes y fondos de pantalla con tamaño y autor | ✅ | §17.1: 4 key visuals oficiales a 1920×1080 y 6 de Wallhaven con tamaño, ♥ y autor |
+| 17 | Guía para IA de imagen y de texto | ✅ | §18: rasgos fijos, palabras que ayudan y estropean, vocabulario de gestos visto en fotograma, voz de cada uno y 13 frases reales por emoción |
+| 18 | Estilo de dibujo, técnica y cómo replicarlo | ✅ | «Punto 18»: línea y sombras de Obata, entrevista de Araki, encuadres vistos, recetas de Photoshop y Blender. El libro «/A» no se pudo leer |
+| 19 | Texturas 2D | ✅ | «Punto 19»: 5 packs de tramas con licencia, papel y cuero CC0, emblemas. Sin encaje gótico libre |
+| 20 | Gustos y detalles de cada personaje | ✅ | «Punto 20»: 10 personajes con cumpleaños y altura; 5 con una sola fuente |
+| 21 | Por qué la aman y escenas que hacen llorar | ✅ | «Punto 21»: ventas, premios, crítica, identificación; 5 escenas que hacen llorar con minuto y música. Sin vídeos de reacción con minuto |
+| 22 | Fan dubs y comunidad hispana | ✅ | «Punto 22»: 5 covers (hasta 3,6 millones) y 5 fandubs y parodias con canal y vistas. TikTok, sin vistas |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | «Punto 23»: *Jump Force*, USJ, *Othellonia*, LINE Bubble 2, Uniqlo, XLARGE, pachislot, figuras Nendoroid; cosplay de Reddit |
+| 24 | Obras parecidas y temas relacionados | ✅ | «Punto 24»: recomendaciones de AniList, cita de Ohba con dos fuentes, láminas del servidor parecidas, sin choque de canal |
+| 25 | El mundo, la historia y sus símbolos | ✅ | «Punto 25»: reglas en cinco líneas, dos arcos, grupos, objetos y vocabulario |
+| Conceptos de lámina (3) | Tres ideas distintas con objeto, personaje, letra y textos | ✅ | §19: A el cuaderno de Ryuk, B el guion de L, C la cinta de Misa; actualizados con fotogramas vistos, hex medidos y números de hoja |
+| Fuentes distintas (40) | Mínimo 40 webs | ✅ | Más de 100 webs distintas enlazadas en el cuerpo |
+| Tipos de fuente | Oficiales, otros idiomas, wikis, foros, arte, vídeo, código, doblaje | ⚠️ | Hay de todos: japonés (Nlab, 知恵袋, subtítulos), coreano (Namuwiki), chino (Bilibili), Reddit, TV Tropes, pixiv, GitHub, Doblaje Wiki. The Cutting Room Floor no se consultó para *Kira Game*; YouTube, sin vídeo |
+| Hojas de contacto | 3 JPEG de menos de 3 MB | ✅ | `hojas/`: 3 hojas de menos de 1 MB, miradas y explicadas (con dos correcciones a la parte de imagen) |
+| `referencias.json` | Mínimo 20, las mejores primero | ✅ | Más de 270 referencias; primero las de los investigadores |
 
 ---
 
@@ -2316,3 +2406,144 @@ en el ep. 24, 00:11:55 a 00:13:09, cuando leen las reglas de la contratapa)
   busqué (no hay juegos de Death Note con betas documentadas que yo
   sepa ⚠️). Wayback Machine: bloqueada.
 - Una hoja de modelo oficial del anime (Kitao).
+
+---
+
+## Bitácora de la segunda pasada (26-sep-2026)
+
+### Bitácora de imagen
+
+- Fandom API (`deathnote.fandom.com/api.php`) + `investigar_serie.py`:
+  1181 imágenes, 12 hojas — español/inglés — ✅.
+- `api.sketchfab.com/v3/search` (ES/EN): «death note notebook», «death
+  note l», «ryuk death note», «misa death note», «near death note»,
+  «death note» (ordenado por ♥) — licencias reales, no de resultado de
+  búsqueda — ✅.
+- WebSearch (español e inglés): «Death Note colaboración cafe merchandising
+  crossover pachislot figuras oficiales», «"Death Note" Jump Force
+  collaboration crossover game art», «"Death Note" Universal Studios Japan
+  Halloween Horror Nights maze attraction» (sin resultado de una casa del
+  terror propia; sí existe el evento «Jump Summer» ⚠️), «Death Note x BAPE
+  OR Uniqlo OR Loungefly collaboration merchandise art», «"Death Note"
+  XLARGE Ryuk varsity jacket 2022 collaboration highsnobiety», «Death Note
+  official wallpaper download site oficial fondo de escritorio Viz
+  Madhouse», «free manga screentone halftone pattern pack license CC0
+  download», «Clip Studio Assets free screentone brushes ink pinceles
+  gratis licencia», «ambientCG CC0 license public domain textures
+  confirmed».
+- `curl` directo con cabecera `Referer: https://www.fandom.com/` para bajar
+  las imágenes de color page (Light, L, Ryuk, Misa, Near) y medir hex con
+  Pillow (`sample.py` propio, mediana de zona con y sin máscara de color) —
+  ✅, archivos en `/tmp/claude-0/trabajo/18-death-note-imagen/color/`.
+- `curl -A "Mozilla/5.0"` a `zerochan.net` para el tamaño real de los
+  wallpapers oficiales (leído del `og:image` de cada página) — ✅.
+- `python3 herramientas/estilo.py` sobre las 6 imágenes de color page:
+  paleta dominante y estilo de sombreado por personaje — ✅.
+- Fandom API a `List_of_Death_Note_figurines` (wikitext): confirma que la
+  lista existe y qué marcas hicieron figuras, pero sin URLs de imagen
+  directas por personaje ⚠️.
+- No hizo falta usar `navegar.py` en esta tanda: todo respondió a `curl` o
+  a la API correspondiente.
+
+Nota de orden: el punto 3 quedó al final del archivo (no por delante del
+15) por un error mío al editar por partes; el contenido está completo, sólo
+el orden de guardado no siguió la numeración.
+
+### Bitácora de video
+
+- `yt-dlp` sobre `youtube.com/watch?v=NlJZ-YgAt-c` (tráiler AniList): **429 → «Sign in to confirm you're not a bot»**, dos intentos con minutos de por medio. No reintento más.
+- `fotogramas.py` sobre 13 episodios completos de Internet Archive (`archive.org/download/death-note-XX`, y `death-note-11_202008` para el 11): **funciona perfecto**, 1280×720, sin bloqueo. 30 fotogramas extraídos y mirados con Read.
+- `fotogramas.py` sobre 3 clips de Dailymotion (opening x31pve2, ending x6alujt, tráiler x89nprz): **funciona**, hojas de contacto de 6-8 fotogramas.
+- `api.dailymotion.com/videos?search=...` (dos búsquedas: «Death Note analisis L Light»): da resultados pero son de la película 2017, no del anime.
+- `api.animethemes.moe/anime?filter[name]=Death Note`: **403** (con `curl -g` y con `urllib` con cabeceras normales). No lo reintento (regla de dos intentos).
+- `estilo.py` (Pillow) sobre 11 fotogramas para medir paleta real: **funciona**, da hex + saturación/brillo, sin necesidad de red.
+- `wtas.moe/ost/death-note/25` y `/8` (WebFetch): da tracklist detectado por audio, con 5 bloques horarios por episodio.
+- Wikipedia `Death_Note_original_soundtracks` (WebFetch): tracklist oficial de las 3 OST, cruzado con wtas.moe.
+- WebSearch (es/en): «Death Note episode 25 death scene soundtrack», «Death Note TikTok trend keikaku doori potato chip», «potato chip Death Note TikTok trend». 3 búsquedas de las ~50 permitidas.
+- `www.tiktok.com/discover/...` con `curl` y con `navegar.py --selector body`: la página carga (200) pero sin contenido útil (JS puro, 0 caracteres con navegar.py). Uso los enlaces directos a vídeos/sonidos que sí dio la búsqueda web.
+- Metadatos de Internet Archive (`archive.org/metadata/death-note-XX`) para confirmar el nombre exacto del `.mp4` de cada episodio antes de pedir el fotograma: 13 episodios comprobados (01, 02, 08, 09, 10, 11, 12, 13, 24, 25, 27, 28, 33, 36, 37).
+- Disco: se borraron todos los `video.mp4` descargados por `fotogramas.py` en cuanto salieron las hojas (regla del disco compartido); sólo quedan los `.jpg` en `/tmp/claude-0/trabajo/18-death-note-video/` (2,6 MB en total).
+
+### Bitácora de voz
+
+- Continué una tanda cortada por límite de uso: `partes/voz.md` sólo
+  tenía el punto 7 escrito. Empecé desde el punto 8, sin repetir lo ya
+  confirmado.
+- `doblaje.fandom.com/es/api.php?action=parse&prop=wikitext&page=Death_Note`
+  (español, directo): wikitext completo con el reparto de 37 episodios;
+  resolvió el «no encontré» de Rem/Watari/Matsuda/Mikami que traía la
+  biblia.
+- `dubdb.fandom.com/api.php?action=parse&prop=wikitext&page=Death_Note_(Latin_American_Spanish)`
+  (inglés, wiki de doblaje): segunda fuente para cada nombre del reparto
+  latino, y plataformas oficiales.
+- `en.wikipedia.org/w/api.php` (inglés): dio «too many requests» dos
+  veces (varios ayudantes comparten IP); a la tercera con
+  `User-Agent` identificado sí respondió. Extraje ventas, premios y
+  reseñas (sección Reception).
+- `deathnote.fandom.com/api.php` (inglés, wiki de la serie): alturas de
+  Light, L, Misa, Near y Ryuk desde el infobox (cruce con AniList).
+- `anilist.co` (ya lo trajo `recolectar.py`; sólo leí lo que faltaba):
+  fichas de personaje completas para el punto 20.
+- `python3 herramientas/navegar.py` en **TV Tropes**
+  (`YMMV/DeathNote`, `TearJerker/DeathNote`) e inglés: la vista con
+  `--selector` no basta (folders colapsados por JS), tuve que pedir
+  `--html` y limpiar las etiquetas a mano para leer el contenido
+  plegado.
+- `python3 herramientas/navegar.py` en **YouTube** (`/results?search_query=…`,
+  español): funcionó bien para ver título, canal y vistas reales sin
+  necesitar login; hice un script propio con Playwright (basado en
+  `navegar.py`) para sacar también el `href` de cada vídeo. Búsquedas:
+  «death note fandub latino opening», «death note fandub español light».
+  `yt-dlp --dump-json` sigue bloqueado («sign in to confirm you're not a
+  bot») para bajar vídeo.
+- `api.dailymotion.com/videos?search=…` (varias consultas en español):
+  vistas muy bajas comparado con YouTube; sirve sólo como plan B si
+  YouTube falla, tal como dice AYUDANTE.md.
+- Reddit ya venía traído por `recolectar.py` (Arctic Shift); sólo lo leí,
+  no repetí la consulta.
+- **Tanda «seguir»**: la serie completa (37 episodios, TV) está en
+  Internet Archive, `archive.org/details/DeathNoteTV`
+  (`archive.org/metadata/DeathNoteTV` para el listado de archivos), en
+  MP4 con `moov` al principio (`ffprobe` lee la duración en ~1 s vía
+  HTTP sin bajar el archivo). Eso permite usar `ffmpeg -ss <seg> -i
+  <url-directa>.mp4 -frames:v 1` (la función `sacar()` de
+  `herramientas/fotogramas.py`) para un fotograma exacto sin pasar por
+  el paso de descarga completa de `bajar()`/yt-dlp, que sí sería
+  pesado (cada episodio pesa 130-200 MB).
+- Con eso saqué los 6 fotogramas que faltaban en la tabla del punto 13.
+  En 4 casos el minuto que traía la biblia (anotado sin vídeo, del
+  subtítulo japonés) no coincidía con la escena descrita: hice una hoja
+  de contacto (grid con `PIL`, igual que las hojas de
+  `fotogramas.py` pero apuntando directo a la URL) cada ~25-30 s
+  alrededor del minuto para localizar la escena real, y corregí el
+  minuto en la tabla (diferencias de 1 a 18 min, siempre dentro del
+  mismo episodio). Los dos que coincidían de entrada (Light-rabia,
+  Near-calma) se quedaron con su minuto original.
+- Probé además localizar la risa de Light en la tumba de L (fila
+  «Alegría/triunfo», ya con enlace de YouTube, no obligatoria):
+  escaneé el episodio 1 completo (fotograma en 00:22:32 sale
+  sobreexpuesto/blanco, un flash de transición) y el episodio 24 entero
+  cada 60 s sin encontrar la escena del cementerio; no insistí más por
+  no ser obligatoria.
+
+### Bitácora de texto
+
+- 26-sep-2026 (repaso, español/inglés): Fandom API de `deathnote.fandom.com` para reglas del mundo, el objeto Death Note, ojos de shinigami, grupo Yotsuba, Task Force y SPK — sin bloqueo, la API funciona directo.
+- 26-sep-2026 (inglés): Wikipedia `action=parse` sobre «Death Note» para la sección Plot completa, contrastada con la secuencia de arcos de Death Note Wiki (dos fuentes independientes para el punto 25).
+- 26-sep-2026 (inglés): TV Tropes `Franchise/DeathNote` con `navegar.py` (funciona en esta máquina) para el panorama de toda la franquicia (usado sólo de contexto, ya cubierto por `datos-texto.md`).
+- Sesión anterior (24/25-sep-2026, cortada por el límite de uso): fontTools sobre 12 fuentes descargadas de Google Fonts; entrevistas a Araki (fullfrontal.moe) y Obata (Tumblr); Inverse sobre Tsugumi Ohba; ComiPress/Yahoo con la cita original de Ohba; comparación con `encargos/` para el punto 24.
+
+### Del redactor
+
+- Juntó las cuatro partes en su sitio, sin rehacer la biblia: 2.11,
+  3.6, «Las hojas de contacto», 5.5, 6.3, 8.1, 9.1, 11.1, 12.1, 13.1,
+  14.1, 16.1, 17.1, la IA de texto en §18 y los puntos 18 a 25.
+- Miró las 3 hojas y corrigió a la parte de imagen: *Jump Force* es la
+  hoja 2, nº252-253 (no nº259-260, que son Mello); la nº261 es L de pie
+  y la nº267 es Ryuk con el cuaderno del piloto.
+- Leyó por la API de la wiki de Fandom el tamaño y la URL original de 24
+  imágenes de las hojas (inglés, `action=query&prop=imageinfo`).
+- Miró seis capturas oficiales de *Killer Within* en Steam (URL de
+  `partes/datos-texto.md`) para describir su interfaz (§13.1).
+- Avisó de que Internet Archive tiene dos copias de la serie que no van
+  al mismo segundo (§8.1).
