@@ -13,6 +13,23 @@ serie. Los "Steam" de `datos.json` (app 4905780, "The Apothecary Diaries: The
 False Imperial Brother") corresponden al punto 11 (videojuegos), del investigador
 de texto, no al mío; los dejo sin tocar.
 
+## Hojas de contacto elegidas (en `hojas/`)
+
+De las 4 hojas que montó `investigar_serie.py` (180 imágenes de la wiki),
+guardo 3 en `hojas/` (miradas las 4 completas antes de elegir):
+
+- `arte_oficial_01.jpg` (hoja 1 original, imágenes 1-48): portadas, LN, key
+  visuals — sirve para el punto 1.
+- `fondos_colabs_03.jpg` (hoja 3 original, imágenes 97-144): fotogramas del
+  anime con los sitios (patio, callejón de noche, baños, mercado — punto 16),
+  la portadilla de manga con trama real (imagen 113 — punto 19) y varios
+  pósters de eventos/colaboraciones (imágenes 111, 117, 118 — punto 23).
+- `vestuario_colabs_04.jpg` (hoja 4 original, imágenes 145-180): las 4 fichas
+  de diseño oficial de cuerpo entero de Maomao y Jinshi (imágenes 173-176 —
+  punto 15, hex medidos de ahí) y varios pósters más de evento/pop-up. El key
+  visual de la colaboración con Ibaraki (imagen 74, punto 23) está en la hoja 3
+  (`fondos_colabs_03.jpg`), no en ésta.
+
 ## 1 · Arte oficial, en cantidad y variado
 
 Hojas de contacto ya montadas (`herramientas/referencias/the-apothecary-diaries-el-diario-de-la-boticaria/`,
