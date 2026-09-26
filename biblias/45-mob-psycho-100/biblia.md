@@ -29,9 +29,10 @@ fecha: 2026-09-25
 > - **Redactada en dos sesiones** (25-sep): la primera llegó hasta §2; la
 >   segunda (modo «seguir») escribió §3-29 y la tabla sin rehacer §0-2.
 >   En esa segunda sesión se volvieron a mirar las hojas y salieron
->   **cuatro correcciones más** (el «RAINBOW SEAL!!!» es de Reigen, la
->   tarjeta ECSTASY es 快感, una foto «live-action» es de la obra de
->   teatro y la cajita «MOB 0% / REIGEN 1000%» es del manga; §28). En
+>   **siete correcciones más**; las principales: el «RAINBOW SEAL!!!» es
+>   de Reigen, la tarjeta ECSTASY es 快感, una foto «live-action» es de la
+>   obra de teatro y la cajita «MOB 0% / REIGEN 1000%» es del manga
+>   (§28). En
 >   `referencias.json` se quitaron 35 entradas de otras series y se
 >   arreglaron los enlaces de Dailymotion con minuto (`?start=`).
 
@@ -141,8 +142,9 @@ encaja palabra por palabra con el canal.
   Ekubo **Carlos Hernández**, Ritsu **Javier Olguín** ✅ (§10).
 - **Lo que no hay que hacer**: dibujar a Mob guapo y con ojos grandes;
   limpiar la línea tosca; dejar a Reigen sólo como bufón (§14).
-- **Láminas**: A #dudas (la oficina de Reigen), B #destacados (el medidor
-  de Mob al 100 %), C #presentaciones (la cartela de Dimple) (§27).
+- **Láminas**: A #dudas (la carta de cursos en la oficina de Reigen), B
+  #destacados (una tarjeta de emoción 感謝 al 100 % en el tablón del
+  colegio), C #presentaciones (el cartel de Dimple con la cartela) (§27).
 
 ---
 
@@ -1899,8 +1901,8 @@ dueño). Que dos series pidan el mismo canal no bloquea nada (§0).
   fondos de Naruto o One Piece; dos banderitas de 16×11) y cambié los
   enlaces de Dailymotion de `&t=` a `?start=`: quedan **108**.
 - Miré las 3 hojas enteras y amplié con Pillow los n.º 3, 41, 51, 52, 56,
-  59, 62, 66, 74, 76 y 77 para leer el texto: de ahí salen las diez
-  correcciones de §28.1.
+  59, 62, 66, 74, 76 y 77 para leer el texto: de ahí salen siete de las
+  diez correcciones de §28.1 (las otras tres son de la primera sesión).
 - Comprobé con `grep '^canal:'` los canales de las biblias 06, 26, 32, 35,
   36 y 41 para §25.
 - No busqué nada nuevo en la red: todo sale de las partes. Queda

@@ -1,974 +1,1343 @@
 [
-  {
-    "url": "https://w.wallhaven.cc/full/we/wallhaven-weqmlr.png",
-    "fuente": "Wallhaven",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Fondo de pantalla de fan, ilustración minimalista de Mob",
-    "para_que": "referencia de fondo de pantalla en alta resolución (punto 16)",
-    "licencia": "Wallhaven SFW; crédito de origen no confirmado, sólo referencia"
-  },
-  {
-    "url": "https://safebooru.org/images/3/b380e5fc613cd45367cbd409367576ea22725d23.jpg",
-    "fuente": "Safebooru (origen: Twitter/X @Pluvion_)",
-    "ancho": 2520,
-    "alto": 2608,
-    "que_es": "Fan art mejor valorado de Ekubo/Dimple en Safebooru",
-    "para_que": "referencia de pose y estilo, nunca para pegar (punto 3)",
-    "licencia": "© autor; sólo referencia, enlazar origen"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/7e/Psychic_Battle_3.jpg",
-    "fuente": "wiki de Fandom, captura oficial del juego móvil «Mob Psycho 100: Psychic Battle» (Crunchyroll Games, 2019-2021, cerrado)",
-    "ancho": 2660,
-    "alto": 1498,
-    "que_es": "Pantalla de carga del juego: marco de \"tele\" con sello 中継 (en directo), caja blanca redondeada \"Memory\", subtítulo con contorno negro y barra de carga morada",
-    "para_que": "referencia de interfaz y caja de diálogo de videojuego oficial de la franquicia (puntos 6 y 11)",
-    "licencia": "© Shogakukan/Mob Psycho 100 Project, distribuido por Crunchyroll Games (juego cerrado); imagen de la wiki de fans, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/3/3b/Mob_100%25_Anger.jpg",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 2210,
-    "alto": 1600,
-    "que_es": "Página de manga: tarjeta de emoción a página completa, kanji 怒り (Ira)",
-    "para_que": "textura y recurso gráfico propio de la serie para títulos/secciones (punto 19)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/3/3b/Mob_100%25_Anger.jpg/revision/latest?cb=20160722035054",
-    "fuente": "Mob Psycho 100 Wiki (Fandom)",
-    "ancho": 2210,
-    "alto": 1600,
-    "que_es": "Página de manga «怒り / ANGER» reutilizada como cartela en el anime",
-    "para_que": "referencia de la cartela tipográfica de emociones (punto 9, onomatopeyas)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/dp/wallhaven-dpklll.jpg",
-    "fuente": "Wallhaven (origen: ArtStation, Jacob Noble)",
-    "ancho": 1920,
-    "alto": 1714,
-    "que_es": "Fondo de pantalla de fan art digital pintado de Mob",
-    "para_que": "referencia de iluminación pintada (punto 16)",
-    "licencia": "© autor (Jacob Noble); sólo referencia, enlazar origen"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/1/1c/Psychic_Battle_9.jpg",
-    "fuente": "wiki de Fandom, arte clave oficial del juego móvil «Psychic Battle»",
-    "ancho": 1280,
-    "alto": 1920,
-    "que_es": "Póster del juego: logo rosa \"Mobpsycho100\" + subtítulo \"Psychic Battle\", fondo amarillo con el motivo gráfico \"100%\" repetido",
-    "para_que": "referencia de cómo la interfaz de mercadeo del juego reutiliza el logo y el medidor de 0-100% de la serie (puntos 5 y 11)",
-    "licencia": "© Shogakukan/Mob Psycho 100 Project, distribuido por Crunchyroll Games (juego cerrado); imagen de la wiki de fans, sólo referencia"
-  },
-  {
-    "url": "https://safebooru.org/images/4254/91a6f4870040a61acf3dd083c6e38ec1bf24f105.png",
-    "fuente": "Safebooru (origen: Tumblr reshanims)",
-    "ancho": 1275,
-    "alto": 1650,
-    "que_es": "Fan art mejor valorado de Reigen en Safebooru",
-    "para_que": "referencia de pose y estilo, nunca para pegar (punto 3)",
-    "licencia": "© autor; sólo referencia, enlazar origen"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/9/97/Awakening_Lab_People_Ending.png",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Fotograma diurno del ending con cielo despejado",
-    "para_que": "paleta y luz medidas (#9ED0E9 cielo, #F2E3C8) para fondos diurnos (punto 16)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://archive.org/details/kusathegrass-anime-mob-psycho-100-s1",
-    "fuente": "Internet Archive (rip 1080p con subs inglés, temporada 1 completa)",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Anime completo S1E01-E12, usado E01, E03 y E12 para escenas, poses y paleta",
-    "para_que": "fuente principal de fotogramas para puntos 2, 4 y 14",
-    "licencia": "© Shogakukan/Mob Psycho 100 Project; copia de fan (rip), sólo referencia de estudio, no redistribuir"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f3/Dimplemob.png/revision/latest?cb=20190409170203",
-    "fuente": "Mob Psycho 100 Wiki (Fandom)",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Fotograma oficial de Dimple en la escena de su aparición con Mob",
-    "para_que": "pose de Dimple, complemento del punto 14",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/84/Dimple_%28upper_class_evil_spirit%29.png",
-    "fuente": "wiki de Fandom (mob-psycho-100.fandom.com), escaneo del manga",
-    "ancho": 1084,
-    "alto": 1600,
-    "que_es": "Página de manga con la cartela de identificación de personaje: rectángulo blanco liso, descripción pequeña arriba (\"UPPER CLASS EVIL SPIRIT\") y nombre grande abajo (\"DIMPLE\")",
-    "para_que": "plantilla real de cartela de presentación de personaje para la lámina (punto 6)",
-    "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/3/34/Reigen_Fullbody.png",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 653,
-    "alto": 2244,
-    "que_es": "Cuerpo entero oficial de Reigen con el traje gris y corbata rosa",
-    "para_que": "medir hex del vestuario (traje #7C7882, corbata #C893BE)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/b/b7/Mob_Fullbody.png",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 546,
-    "alto": 2010,
-    "que_es": "Cuerpo entero oficial de Shigeo (Mob) con el gakuran negro",
-    "para_que": "medir hex del vestuario (gakuran negro #262629, botones #D0C85D)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/1/1a/Reigen_Special_Technique_-_Knee_Strike.png",
-    "fuente": "wiki de Fandom, escaneo del manga",
-    "ancho": 1130,
-    "alto": 940,
-    "que_es": "Panel del gag recurrente de Reigen: diagrama técnico con etiquetas de bordes irregulares unidas por líneas rectas (\"KNEE STRIKE\", \"EVIL SPIRIT\")",
-    "para_que": "referencia de cartela/infografía cómica propia de la serie (punto 6)",
-    "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/77/ClawLogo.png",
-    "fuente": "wiki de Fandom",
-    "ancho": 1366,
-    "alto": 768,
-    "que_es": "Logo de Claw (爪), la organización terrorista de espers liderada por Toichiro Suzuki",
-    "para_que": "emblema de grupo del mundo de la serie para el punto 25",
-    "licencia": "© ONE/Shogakukan/Mob Psycho 100 Project; imagen de la wiki de fans, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/5d/Second_Season_Poster.jpg",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 857,
-    "alto": 1212,
-    "que_es": "Key visual oficial de la 2ª temporada (Mob 100% con energía)",
-    "para_que": "arte oficial variado y paleta de acento cian #02EBFD para la lámina",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://archive.org/details/mob-psycho-100-opening-us-toonami-edit",
-    "fuente": "Internet Archive (captura Toonami EE.UU.)",
-    "ancho": 1280,
-    "alto": 720,
-    "que_es": "Opening 1 completo «99» (0:00-0:56), con créditos en pantalla",
-    "para_que": "ver el opening fotograma a fotograma; citar autores del tema (punto 2 y 9)",
-    "licencia": "© Shogakukan/Mob Psycho 100 Project; copia de fan, sólo referencia"
-  },
-  {
-    "url": "https://archive.org/details/turner_video_10908",
-    "fuente": "Internet Archive (colección Turner/Adult Swim movie_trailers)",
-    "ancho": 1280,
-    "alto": 720,
-    "que_es": "Tráiler oficial home-video de Funimation, 2 min, 2016",
-    "para_que": "escenas de tráiler con minuto exacto (punto 2 y 10)",
-    "licencia": "© Shogakukan/Mob Psycho 100 Project, licenciado a Funimation; sólo referencia"
-  },
-  {
-    "url": "https://www.dailymotion.com/video/x4g5kft?start=48",
-    "fuente": "Tráiler oficial «Mob Psycho 100» (Hitek, Dailymotion), fotograma propio con fotogramas.py",
-    "ancho": 1280,
-    "alto": 720,
-    "que_es": "Cara de Mob sonrojado y sonriendo (fondo de burbujas), reacción tímida al hablar de Tsubomi",
-    "para_que": "referencia de la cara de alegría/vergüenza de Mob para la lámina o guía de IA (punto 13/17)",
-    "licencia": "© BONES/titulares; sólo referencia, fotograma de tráiler oficial"
-  },
-  {
-    "url": "https://www.dailymotion.com/video/x84g6ar?start=114",
-    "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
-    "ancho": 1280,
-    "alto": 720,
-    "que_es": "Cara de Mob con miedo, ojos muy abiertos y sangre en la boca, durante la pelea contra Koyama (ep. 8)",
-    "para_que": "referencia de la cara de miedo de Mob",
-    "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
-  },
-  {
-    "url": "https://www.dailymotion.com/video/x84g6ar?start=42",
-    "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
-    "ancho": 1280,
-    "alto": 720,
-    "que_es": "Cara neutra de tensión de Mob (cejas rectas, boca en línea recta) justo antes de liberar poder",
-    "para_que": "referencia de la expresión «de aviso» de rabia contenida de Mob",
-    "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
-  },
-  {
-    "url": "https://www.dailymotion.com/video/x84g6ar?start=168",
-    "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
-    "ancho": 1280,
-    "alto": 720,
-    "que_es": "Mob en estado ???% (monocromo, pelo blanco, ojos rojos, cara inexpresiva)",
-    "para_que": "referencia del estado de poder máximo de Mob, para escenas de acción o lámina de highlights",
-    "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
-  },
-  {
-    "url": "https://www.dailymotion.com/video/x8ec8b9?start=96",
-    "fuente": "Tráiler oficial 3ª temporada, sub. español (Sensacine, Dailymotion), fotograma propio con fotogramas.py",
-    "ancho": 1280,
-    "alto": 720,
-    "que_es": "Mob con la mano levantada y la mirada oculta por el flequillo, diciendo «¡Detente!»",
-    "para_que": "referencia de tensión/desesperación de Mob con subtítulo en español oficial",
-    "licencia": "© BONES/titulares; sólo referencia, fotograma de tráiler oficial"
-  },
-  {
-    "url": "https://www.dailymotion.com/video/x4rj83n?start=0",
-    "fuente": "Clip «Mob vs Teru Explosion» (Dailymotion, corte de fan del ep. 5 con subtítulos en inglés), fotograma propio con fotogramas.py",
-    "ancho": 1280,
-    "alto": 720,
-    "que_es": "Cara de Mob llorando (100% Tristeza), enrojecida, ojos cerrados, boca abierta, diciendo «Voy a cambiar»",
-    "para_que": "referencia de la cara de tristeza de Mob para la lámina o guía de IA (punto 13/17)",
-    "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/7b/Dimplemusashi.png",
-    "fuente": "wiki de Fandom, escaneo del manga",
-    "ancho": 1278,
-    "alto": 719,
-    "que_es": "Fotograma del anime: Musashi Gouda poseído por Dimple (mejillas rojas), sobre fondo cian de cristales. OJO: el globo dentado «RAINBOW SEAL!!!» NO está aquí, está en la página de manga «Reigen Special Technique - Rainbow Seal» (hoja personajes_02, n.º 59)",
-    "para_que": "referencia del globo de grito/nombre de técnica para la lámina (puntos 5 y 6)",
-    "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/6/6c/Live_Dimple.jpg",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 1200,
-    "alto": 675,
-    "que_es": "Fotografía de la adaptación live-action con el traje real de Dimple",
-    "para_que": "colaboración/adaptación oficial con vestuario real (punto 23)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/4/47/Mob_100%25_Gratitude_%28Reigen_1000%25%29.jpg",
-    "fuente": "wiki de Fandom, fotograma del anime",
-    "ancho": 1060,
-    "alto": 750,
-    "que_es": "Tarjeta de título emocional 感謝/GRATITUDE con la caja de estado \"MOB 0% / REIGEN 1000%\" debajo",
-    "para_que": "referencia del único \"HUD\" de nombre+cifra de la serie, y de la tarjeta de emoción con subtítulo inglés a pincel (puntos 5 y 6)",
-    "licencia": "© ONE/Shogakukan/Mob Psycho 100 Project; imagen de la wiki de fans, sólo referencia"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mob_Psycho_100_logo.svg",
-    "fuente": "Wikimedia Commons (extraído y optimizado por Kuipuru/VulcanSphere de las webs oficiales)",
-    "ancho": 1200,
-    "alto": 646,
-    "que_es": "Logo oficial モブサイコ100, vectorial, magenta #C01B8B medido con Pillow, con todos los trazos cortados en diagonal",
-    "para_que": "referencia exacta del logo real para el punto 5 (tipografía del título) y para comparar con la letra libre Yukarimobile",
-    "licencia": "PD-textlogo (dominio público por no alcanzar el umbral de originalidad); aviso de marca registrada de ONE/Shogakukan/comité de producción"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/a/a5/Kageyama_Ritsu.png",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 501,
-    "alto": 1500,
-    "que_es": "Cuerpo entero oficial de Ritsu con bolso azul",
-    "para_que": "medir hex del vestuario (mismo gakuran que Mob #262628, bolso #285A90)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f1/Kindness.jpg",
-    "fuente": "wiki de Fandom, escaneo del manga",
-    "ancho": 715,
-    "alto": 1013,
-    "que_es": "Tarjeta de título emocional 優しさ/KINDNESS a toda página",
-    "para_que": "segunda referencia de tarjeta emocional, para confirmar el patrón repetido (kanji + subtítulo inglés) (puntos 5 y 6)",
-    "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/5d/Reigen_design_layout.jpg",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 1000,
-    "alto": 715,
-    "que_es": "Hoja de modelo oficial de Arataka Reigen (character design layout)",
-    "para_que": "proporciones y colores exactos del traje para dibujarlo o modelarlo",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/5b/Ritsu_design_layout.jpg",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 1000,
-    "alto": 715,
-    "que_es": "Hoja de modelo oficial de Ritsu Kageyama",
-    "para_que": "proporciones y colores exactos del uniforme para dibujarlo",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/7c/Dimpleshinra.png",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 940,
-    "alto": 655,
-    "que_es": "Fotograma nocturno de Dimple en una calle en penumbra",
-    "para_que": "paleta y luz medidas (#0D0E12, #1E2126) para fondos nocturnos (punto 16)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 640,
-    "alto": 960,
-    "que_es": "Portada de tomo/DVD con el grupo completo y el logo rosa de la serie",
-    "para_que": "arte oficial variado (grupo) y referencia del logo/tipografía",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/58/TeruHair12.png.png",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 766,
-    "alto": 786,
-    "que_es": "Retrato de Teruki Hanazawa con el blazer morado del instituto Black Vinegar",
-    "para_que": "medir hex del vestuario (blazer #7963A1, corbata #4B7D8E)",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f6/Ekubo-fixw-640-hq_orig.jpg",
-    "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
-    "ancho": 640,
-    "alto": 898,
-    "que_es": "Cartel promocional de la adaptación live-action con el traje real de Dimple/Ekubo",
-    "para_que": "referencia de volumen 3D y color real (capucha #47A9A8) para el punto 23",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://www.dafont.com/yukarimobile.font",
-    "fuente": "dafont.com (fuente de Vic Fieger)",
-    "ancho": 900,
-    "alto": 300,
-    "que_es": "Letra libre Yukarimobile: mismo corte diagonal que el logo real (comprobado renderizando \"Mob Psycho 100\" con la fuente descargada); con fontTools trae á é í ó ú ñ ¿ ¡ (16 comprobadas)",
-    "para_que": "sustituto gratuito del logo/título para rótulos en español (punto 5)",
-    "licencia": "100% gratis (dafont.com, categoría Techno)"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-d6cf914677a74d44b808ab9e542f39f2",
-    "fuente": "Sketchfab (API)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D descargable «Reigen Arataka Avatar Mob Psycho 100» por WackyDemonFire",
-    "para_que": "referencia 3D con licencia libre para pose/proporciones (punto 3)",
-    "licencia": "CC Attribution"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-5ce2e4e9b49c4bc2b164e161b116c53e",
-    "fuente": "Sketchfab (API)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D descargable de Shigeo (Mob) por ThirdSon",
-    "para_que": "referencia 3D con licencia libre para pose/proporciones (punto 3)",
-    "licencia": "CC Attribution"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-b940515878ba476099fd2f5b27052675",
-    "fuente": "Sketchfab (API)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D descargable «Chibi Reigen Arataka» por AldairianOne",
-    "para_que": "referencia 3D con licencia libre, versión chibi (punto 3)",
-    "licencia": "CC Attribution"
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Fabric032",
-    "fuente": "ambientCG (API)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura de tela/lana CC0",
-    "para_que": "dar volumen de tela al negro plano del gakuran de Mob/Ritsu (punto 19)",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://ambientcg.com/view?id=Paper006",
-    "fuente": "ambientCG (API)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura de grano de papel CC0",
-    "para_que": "grano de papel para fondos tipo manga (punto 19)",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://manga-with-stef.com/free-screen-tone-collection-1",
-    "fuente": "Manga with Stef",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Colección de screentones/tramas de manga de uso libre",
-    "para_que": "tramas de punto equivalentes a las del manga original (punto 19)",
-    "licencia": "Gratuita para uso en obra propia (declarada en la página)"
-  },
-  {
-    "url": "https://www.goodsmile.com/en/product/10623",
-    "fuente": "Good Smile Company",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Nendoroid oficial de Shigeo Kageyama (Mob), con accesorios (mini-Dimple, ramen)",
-    "para_que": "referencia 3D de pose y merchandising oficial (punto 23)",
-    "licencia": "© Good Smile Company / titulares; sólo referencia"
-  },
-  {
-    "url": "https://www.goodsmile.com/en/product/11013",
-    "fuente": "Good Smile Company",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Pop Up Parade de Shigeo Kageyama",
-    "para_que": "referencia de pose oficial en figura (punto 23)",
-    "licencia": "© Good Smile Company / titulares; sólo referencia"
-  },
-  {
-    "url": "https://web.archive.org/web/20161005170859/https://mobpsycho100-puzzle.com/",
-    "fuente": "Wayback Machine (página oficial archivada del primer juego, «Mob Psycho 100: Psychic Puzzle», Shogakukan, 2016-2018, cerrado)",
-    "ancho": 0,
-    "alto": 0,
-    "que_es": "Página web oficial archivada del primer juego móvil de la franquicia (puzzle de conectar 3), no es una imagen suelta",
-    "para_que": "fuente de fecha de lanzamiento y descripción del primer juego oficial (punto 11); sin medir porque es una página, no una imagen",
-    "licencia": "© Shogakukan; captura de archivo público (Wayback Machine), sólo referencia"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=mV39saBlBLI",
-    "fuente": "YouTube (canal oficial japonés)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "PV 3 (tráiler japonés oficial), 2:20",
-    "para_que": "tráiler oficial citado en punto 2 y 10 (metadatos confirmados, descarga bloqueada esta sesión)",
-    "licencia": "© Shogakukan/Mob Psycho 100 Project; sólo referencia"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=HSUljcXSdvI",
-    "fuente": "YouTube (Crunchyroll oficial)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Clip oficial «Mob Psycho 100 - Ending | Refrain Boy», 1:41",
-    "para_que": "candidato a mirar en un repaso si se levanta el bloqueo de YouTube (punto 2)",
-    "licencia": "© Shogakukan/Mob Psycho 100 Project, cuenta oficial Crunchyroll; sólo referencia"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=aT_P7R2ebsQ",
-    "fuente": "YouTube (Crunchyroll oficial)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Clip oficial «Mob Goes ???%» (Mob Psycho 100 II), 2:44",
-    "para_que": "escena icónica alternativa de temporada 2, para un repaso (punto 2)",
-    "licencia": "© Shogakukan/Mob Psycho 100 Project, cuenta oficial Crunchyroll; sólo referencia"
-  },
-  {
-    "url": "https://mob-psycho-100.fandom.com/wiki/99",
-    "fuente": "Mob Psycho 100 Wiki (Fandom, vía API)",
-    "ancho": 300,
-    "alto": null,
-    "que_es": "Ficha del tema «99» (OP1): artista, letra, composición, arreglos, fecha",
-    "para_que": "verificar créditos musicales del punto 9",
-    "licencia": "wiki de fans; datos, no imagen citable"
-  },
-  {
-    "url": "https://mob-psycho-100.fandom.com/wiki/Refrain_Boy",
-    "fuente": "Mob Psycho 100 Wiki (Fandom, vía API)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Ficha del tema «Refrain Boy» (ED1) con letra completa",
-    "para_que": "verificar créditos y letra del ending (punto 9)",
-    "licencia": "wiki de fans; datos, no imagen citable"
-  },
-  {
-    "url": "https://musicbrainz.org/release-group/73aadcfd-0136-4e8d-85ad-3127342a1293",
-    "fuente": "MusicBrainz",
-    "ancho": null,
-    "alto": null,
-    "que_es": "モブサイコ100 Original Soundtrack (Kenji Kawai, 2016)",
-    "para_que": "banda sonora oficial, punto 9",
-    "licencia": "datos abiertos MusicBrainz"
-  },
-  {
-    "url": "https://www.dailymotion.com/video/x4g5kft",
-    "fuente": "Dailymotion (canal Hitek)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Tráiler «Trailer - Mob Psycho 100», 1:56, 35 998 vistas",
-    "para_que": "vídeo más visto disponible fuera de YouTube, punto 10",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/doblaje/images/3/32/Mob.ogg/revision/latest?cb=20181029043436&path-prefix=es",
-    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
-    "ancho": 0,
-    "alto": 0,
-    "que_es": "Muestra de audio del doblaje latino de Mob (Carlos Siller), transcrita con voz.py",
-    "para_que": "frases textuales y ficha de voz (tono/velocidad) del punto 8 y 13; no es imagen, es audio",
-    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/doblaje/images/b/b3/Reigen.ogg/revision/latest?cb=20181029043457&path-prefix=es",
-    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
-    "ancho": 0,
-    "alto": 0,
-    "que_es": "Muestra de audio del doblaje latino de Reigen (Manuel Campuzano), transcrita con voz.py",
-    "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
-    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/doblaje/images/8/81/Ekubo.ogg/revision/latest?cb=20181029043532&path-prefix=es",
-    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
-    "ancho": 0,
-    "alto": 0,
-    "que_es": "Muestra de audio del doblaje latino de Dimple/Ekubo (Carlos Hernández), transcrita con voz.py",
-    "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
-    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Ritsu.ogg/revision/latest?cb=20181029043616&path-prefix=es",
-    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
-    "ancho": 0,
-    "alto": 0,
-    "que_es": "Muestra de audio del doblaje latino de Ritsu (Javier Olguín), transcrita con voz.py",
-    "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
-    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/doblaje/images/d/db/Teru.ogg/revision/latest?cb=20181029043632&path-prefix=es",
-    "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
-    "ancho": 0,
-    "alto": 0,
-    "que_es": "Muestra de audio del doblaje latino de Teruki Hanazawa (José A. Toledano/Pascual Meza), transcrita con voz.py",
-    "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
-    "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
-  },
-  {
-    "url": "https://safebooru.org/images/4094/e99422355be6210f4f1af871e40dbeca55aff7e3.jpg",
-    "fuente": "Safebooru (fan art)",
-    "ancho": 2883,
-    "alto": 4081,
-    "que_es": "Fan art de ekubo_(mob_psycho_100) (https://twitter.com/shipshipsheep/status/1623743109602631681)",
-    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-    "licencia": "© su autor; sólo referencia"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/p9/wallhaven-p9k2kj.jpg",
-    "fuente": "Wallhaven",
-    "ancho": 3840,
-    "alto": 2160,
-    "que_es": "Fondo de pantalla (Mob Psycho 100, Kageyama Shigeo, transformation, anime boys, minimalism)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por Xz0Philip; © su autor"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/gp/wallhaven-gpydql.jpg",
-    "fuente": "Wallhaven",
-    "ancho": 2160,
-    "alto": 3360,
-    "que_es": "Fondo de pantalla (Dandadan, Mob Psycho 100, Ken Takakura, Momo Ayase, Kageyama Shigeo, Arataka Reigen)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por ugurpiskin; © su autor"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/og/wallhaven-ogxjxm.png",
-    "fuente": "Wallhaven",
-    "ancho": 3000,
-    "alto": 2400,
-    "que_es": "Fondo de pantalla (speedloover, anime boys, Mob Psycho 100, eyes, monochrome, illustration)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por MrFav; © su autor"
-  },
-  {
-    "url": "https://safebooru.org/images/4013/d9d568d3b86f05771ebc06b460932a0e05c51d94.jpg",
-    "fuente": "Safebooru (fan art)",
-    "ancho": 2790,
-    "alto": 2100,
-    "que_es": "Fan art de reigen_arataka (https://twitter.com/AngieM_Z/status/1588881045612507142)",
-    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-    "licencia": "© su autor; sólo referencia"
-  },
-  {
-    "url": "https://safebooru.org/images/4160/0e913738728895abe6efc339d8501ace458c259a.jpg",
-    "fuente": "Safebooru (fan art)",
-    "ancho": 2017,
-    "alto": 2620,
-    "que_es": "Fan art de ekubo_(mob_psycho_100) (https://twitter.com/Ch0og0o/status/1651380825156382722)",
-    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-    "licencia": "© su autor; sólo referencia"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/p2/wallhaven-p2l61j.png",
-    "fuente": "Wallhaven",
-    "ancho": 2560,
-    "alto": 1440,
-    "que_es": "Fondo de pantalla (Mob Psycho 100, Kageyama Shigeo, Ekubo)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por CrisEVA01; © su autor"
-  },
-  {
-    "url": "https://safebooru.org/images/4620/763c35775250893777919fca90615a29f43bcd89.jpg",
-    "fuente": "Safebooru (fan art)",
-    "ancho": 1443,
-    "alto": 2048,
-    "que_es": "Fan art de reigen_arataka (https://twitter.com/sxxxkxxxo/status/1823851020210106707)",
-    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-    "licencia": "© su autor; sólo referencia"
-  },
-  {
-    "url": "https://safebooru.org/images/3082/6cca30e553187afc6f752244086e7ad8fba3644c.jpg",
-    "fuente": "Safebooru (fan art)",
-    "ancho": 1500,
-    "alto": 1864,
-    "que_es": "Fan art de ekubo_(mob_psycho_100) (https://twitter.com/rariatoo/status/1299475597819670529)",
-    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-    "licencia": "© su autor; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/4/43/Temporarymurderousintent.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Shigeo Kageyama: Temporarymurderousintent.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f3/Dimplemob.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Dimple: Dimplemob.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/9m/wallhaven-9mow7w.jpg",
-    "fuente": "Wallhaven",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Fondo de pantalla (Mob Psycho 100, anime boys, minimalism)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por EdwardKenwayEzio; © su autor"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/mp/wallhaven-mpvjp8.jpg",
-    "fuente": "Wallhaven",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Fondo de pantalla (Mob Psycho 100, anime, monochrome, glowing eyes)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por mrdexterito; © su autor"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/mp/wallhaven-mpvw71.jpg",
-    "fuente": "Wallhaven",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Fondo de pantalla (Mob Psycho 100, anime, Kageyama Shigeo, white background)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por SomeonePro99; © su autor"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/r2/wallhaven-r2e277.jpg",
-    "fuente": "Wallhaven",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Fondo de pantalla (Mob Psycho 100, collage, manga, text, Kageyama Shigeo)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por reymus619; © su autor"
-  },
-  {
-    "url": "https://w.wallhaven.cc/full/76/wallhaven-76w7r3.png",
-    "fuente": "Wallhaven",
-    "ancho": 1920,
-    "alto": 1080,
-    "que_es": "Fondo de pantalla (Mob Psycho 100, Kageyama Shigeo, Arataka Reigen, Ekubo, parody, crossover)",
-    "para_que": "fondo o paleta de sitio",
-    "licencia": "subido por CrisEVA01; © su autor"
-  },
-  {
-    "url": "https://safebooru.org/images/3907/fecf938537feb8873ad8df05eea3f460295b5fda.jpg",
-    "fuente": "Safebooru (fan art)",
-    "ancho": 1101,
-    "alto": 1200,
-    "que_es": "Fan art de reigen_arataka (https://twitter.com/Ch0og0o/status/1549158801726935040)",
-    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-    "licencia": "© su autor; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/b/ba/God-barrier.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 1363,
-    "alto": 969,
-    "que_es": "Dimple: God-barrier.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://safebooru.org/images/1318/e8e7533646035d738537fa64594422b8565344b9.jpg",
-    "fuente": "Safebooru (fan art)",
-    "ancho": 1200,
-    "alto": 900,
-    "que_es": "Fan art de ekubo_(mob_psycho_100) (https://zimternet.tumblr.com/post/773713548221333504)",
-    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-    "licencia": "© su autor; sólo referencia"
-  },
-  {
-    "url": "https://live.staticflickr.com/968/39934161660_535ebc84c1_b.jpg",
-    "fuente": "Openverse (flickr)",
-    "ancho": 890,
-    "alto": 1024,
-    "que_es": "14.2",
-    "para_que": "foto real (cosplay, objeto, evento)",
-    "licencia": "CC PDM 1.0, autor munozjrjesse"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f6/Dimplesecurity.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 1018,
-    "alto": 866,
-    "que_es": "Dimple: Dimplesecurity.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://live.staticflickr.com/4687/38133434545_cd3cb573b4_b.jpg",
-    "fuente": "Openverse (flickr)",
-    "ancho": 1024,
-    "alto": 683,
-    "que_es": "MOB PSYCHO 100",
-    "para_que": "foto real (cosplay, objeto, evento)",
-    "licencia": "CC BY-NC-ND 2.0, autor Henfermo"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/9/9c/Live_Mob2.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 625,
-    "alto": 952,
-    "que_es": "Shigeo Kageyama: Live Mob2.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/a/a6/50dd69a23cbb66d9abbdcaa8ee54e4db.jpg",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 640,
-    "alto": 905,
-    "que_es": "Shigeo Kageyama: 50dd69a23cbb66d9abbdcaa8ee54e4db.jpg",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://safebooru.org/images/1744/23e662919f381dd6f1cd2f51c0dc90e73f8dd5c4.jpg",
-    "fuente": "Safebooru (fan art)",
-    "ancho": 550,
-    "alto": 843,
-    "que_es": "Fan art de ekubo_(mob_psycho_100) (http://tsulala.tumblr.com/post/149152139628)",
-    "para_que": "referencia de pose y estilo de fans; nunca para pegar",
-    "licencia": "© su autor; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/4/40/Dimple.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 595,
-    "alto": 605,
-    "que_es": "Dimple: Dimple.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/85/ReigenDimple.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 435,
-    "alto": 435,
-    "que_es": "Dimple: ReigenDimple.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f3/DimplePossesRitsu.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 423,
-    "alto": 423,
-    "que_es": "Dimple: DimplePossesRitsu.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/ff/U3TCwxY.png",
-    "fuente": "Fandom mob-psycho-100",
-    "ancho": 141,
-    "alto": 419,
-    "que_es": "Shigeo Kageyama: U3TCwxY.png",
-    "para_que": "pose, ropa y colores del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Arataka Reigen",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Shigeo Kageyama",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Ekubo",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Teruki Hanazawa",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Narrator",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89618-iSTUyCdu1yZ8.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Ritsu Kageyama",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132972-OMoDKqJSfLjs.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Musashi Gouda",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89620-C1z1mMLIlO17.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Tome Kurata",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89619-gX9t6L2puNte.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Tenga Onigawara",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/n86029-iomUtQtGfJOU.png",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Puri-Puri Prisoner",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130683-TxUJVPKmUxrf.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Shou Suzuki",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/89622-2sQwqZ1Qkhmx.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Ichi Mezato",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/89623-9JhzOrRvzaII.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Tsubomi Takane",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133204-KKsIZxLqX7vF.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Toichirou Suzuki",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133195-fF7tNKmv6Ejy.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Retrato de Yusuke  Sakurai",
-    "para_que": "cara y colores base del personaje",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Portada oficial",
-    "para_que": "arte oficial / key visual",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21507-Qx8bGsLXUgLo.jpg",
-    "fuente": "AniList",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Banner oficial",
-    "para_que": "arte oficial / key visual",
-    "licencia": "© titulares; sólo referencia"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-1221755ff0b74f388a1080314c1f098c",
-    "fuente": "Sketchfab",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D: Shou de saphizzle",
-    "para_que": "objeto o personaje 3D para Blender",
-    "licencia": "CC Attribution"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-aeca7f83ce23441f8007f4a4f373ebec",
-    "fuente": "Sketchfab",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D: mob psycho 100 de onego121",
-    "para_que": "objeto o personaje 3D para Blender",
-    "licencia": "CC Attribution"
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/none-e57467e2cdf443d98b3c74d43d177c4e",
-    "fuente": "Sketchfab",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D: Mob (Shigeo Kageyama) de felipe.b.perosa",
-    "para_que": "objeto o personaje 3D para Blender",
-    "licencia": "CC Attribution"
-  }
+ {
+  "url": "https://w.wallhaven.cc/full/we/wallhaven-weqmlr.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla de fan, ilustración minimalista de Mob",
+  "para_que": "referencia de fondo de pantalla en alta resolución (punto 16)",
+  "licencia": "Wallhaven SFW; crédito de origen no confirmado, sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3/b380e5fc613cd45367cbd409367576ea22725d23.jpg",
+  "fuente": "Safebooru (origen: Twitter/X @Pluvion_)",
+  "ancho": 2520,
+  "alto": 2608,
+  "que_es": "Fan art mejor valorado de Ekubo/Dimple en Safebooru",
+  "para_que": "referencia de pose y estilo, nunca para pegar (punto 3)",
+  "licencia": "© autor; sólo referencia, enlazar origen"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/7e/Psychic_Battle_3.jpg",
+  "fuente": "wiki de Fandom, captura oficial del juego móvil «Mob Psycho 100: Psychic Battle» (Crunchyroll Games, 2019-2021, cerrado)",
+  "ancho": 2660,
+  "alto": 1498,
+  "que_es": "Pantalla de carga del juego: marco de \"tele\" con sello 中継 (en directo), caja blanca redondeada \"Memory\", subtítulo con contorno negro y barra de carga morada",
+  "para_que": "referencia de interfaz y caja de diálogo de videojuego oficial de la franquicia (puntos 6 y 11)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project, distribuido por Crunchyroll Games (juego cerrado); imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/3/3b/Mob_100%25_Anger.jpg",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 2210,
+  "alto": 1600,
+  "que_es": "Página de manga: tarjeta de emoción a página completa, kanji 怒り (Ira)",
+  "para_que": "textura y recurso gráfico propio de la serie para títulos/secciones (punto 19)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/3/3b/Mob_100%25_Anger.jpg/revision/latest?cb=20160722035054",
+  "fuente": "Mob Psycho 100 Wiki (Fandom)",
+  "ancho": 2210,
+  "alto": 1600,
+  "que_es": "Página de manga «怒り / ANGER» reutilizada como cartela en el anime",
+  "para_que": "referencia de la cartela tipográfica de emociones (punto 9, onomatopeyas)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/dp/wallhaven-dpklll.jpg",
+  "fuente": "Wallhaven (origen: ArtStation, Jacob Noble)",
+  "ancho": 1920,
+  "alto": 1714,
+  "que_es": "Fondo de pantalla de fan art digital pintado de Mob",
+  "para_que": "referencia de iluminación pintada (punto 16)",
+  "licencia": "© autor (Jacob Noble); sólo referencia, enlazar origen"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/1/1c/Psychic_Battle_9.jpg",
+  "fuente": "wiki de Fandom, arte clave oficial del juego móvil «Psychic Battle»",
+  "ancho": 1280,
+  "alto": 1920,
+  "que_es": "Póster del juego: logo rosa \"Mobpsycho100\" + subtítulo \"Psychic Battle\", fondo amarillo con el motivo gráfico \"100%\" repetido",
+  "para_que": "referencia de cómo la interfaz de mercadeo del juego reutiliza el logo y el medidor de 0-100% de la serie (puntos 5 y 11)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project, distribuido por Crunchyroll Games (juego cerrado); imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4254/91a6f4870040a61acf3dd083c6e38ec1bf24f105.png",
+  "fuente": "Safebooru (origen: Tumblr reshanims)",
+  "ancho": 1275,
+  "alto": 1650,
+  "que_es": "Fan art mejor valorado de Reigen en Safebooru",
+  "para_que": "referencia de pose y estilo, nunca para pegar (punto 3)",
+  "licencia": "© autor; sólo referencia, enlazar origen"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/9/97/Awakening_Lab_People_Ending.png",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma diurno del ending con cielo despejado",
+  "para_que": "paleta y luz medidas (#9ED0E9 cielo, #F2E3C8) para fondos diurnos (punto 16)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/kusathegrass-anime-mob-psycho-100-s1",
+  "fuente": "Internet Archive (rip 1080p con subs inglés, temporada 1 completa)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Anime completo S1E01-E12, usado E01, E03 y E12 para escenas, poses y paleta",
+  "para_que": "fuente principal de fotogramas para puntos 2, 4 y 14",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project; copia de fan (rip), sólo referencia de estudio, no redistribuir"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f3/Dimplemob.png/revision/latest?cb=20190409170203",
+  "fuente": "Mob Psycho 100 Wiki (Fandom)",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fotograma oficial de Dimple en la escena de su aparición con Mob",
+  "para_que": "pose de Dimple, complemento del punto 14",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/84/Dimple_%28upper_class_evil_spirit%29.png",
+  "fuente": "wiki de Fandom (mob-psycho-100.fandom.com), escaneo del manga",
+  "ancho": 1084,
+  "alto": 1600,
+  "que_es": "Página de manga con la cartela de identificación de personaje: rectángulo blanco liso, descripción pequeña arriba (\"UPPER CLASS EVIL SPIRIT\") y nombre grande abajo (\"DIMPLE\")",
+  "para_que": "plantilla real de cartela de presentación de personaje para la lámina (punto 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/3/34/Reigen_Fullbody.png",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 653,
+  "alto": 2244,
+  "que_es": "Cuerpo entero oficial de Reigen con el traje gris y corbata rosa",
+  "para_que": "medir hex del vestuario (traje #7C7882, corbata #C893BE)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/b/b7/Mob_Fullbody.png",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 546,
+  "alto": 2010,
+  "que_es": "Cuerpo entero oficial de Shigeo (Mob) con el gakuran negro",
+  "para_que": "medir hex del vestuario (gakuran negro #262629, botones #D0C85D)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/1/1a/Reigen_Special_Technique_-_Knee_Strike.png",
+  "fuente": "wiki de Fandom, escaneo del manga",
+  "ancho": 1130,
+  "alto": 940,
+  "que_es": "Panel del gag recurrente de Reigen: diagrama técnico con etiquetas de bordes irregulares unidas por líneas rectas (\"KNEE STRIKE\", \"EVIL SPIRIT\")",
+  "para_que": "referencia de cartela/infografía cómica propia de la serie (punto 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/77/ClawLogo.png",
+  "fuente": "wiki de Fandom",
+  "ancho": 1366,
+  "alto": 768,
+  "que_es": "Logo de Claw (爪), la organización terrorista de espers liderada por Toichiro Suzuki",
+  "para_que": "emblema de grupo del mundo de la serie para el punto 25",
+  "licencia": "© ONE/Shogakukan/Mob Psycho 100 Project; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/5d/Second_Season_Poster.jpg",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 857,
+  "alto": 1212,
+  "que_es": "Key visual oficial de la 2ª temporada (Mob 100% con energía)",
+  "para_que": "arte oficial variado y paleta de acento cian #02EBFD para la lámina",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/mob-psycho-100-opening-us-toonami-edit",
+  "fuente": "Internet Archive (captura Toonami EE.UU.)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Opening 1 completo «99» (0:00-0:56), con créditos en pantalla",
+  "para_que": "ver el opening fotograma a fotograma; citar autores del tema (punto 2 y 9)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project; copia de fan, sólo referencia"
+ },
+ {
+  "url": "https://archive.org/details/turner_video_10908",
+  "fuente": "Internet Archive (colección Turner/Adult Swim movie_trailers)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Tráiler oficial home-video de Funimation, 2 min, 2016",
+  "para_que": "escenas de tráiler con minuto exacto (punto 2 y 10)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project, licenciado a Funimation; sólo referencia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x4g5kft&t=48",
+  "fuente": "Tráiler oficial «Mob Psycho 100» (Hitek, Dailymotion), fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cara de Mob sonrojado y sonriendo (fondo de burbujas), reacción tímida al hablar de Tsubomi",
+  "para_que": "referencia de la cara de alegría/vergüenza de Mob para la lámina o guía de IA (punto 13/17)",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de tráiler oficial"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x84g6ar&t=114",
+  "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cara de Mob con miedo, ojos muy abiertos y sangre en la boca, durante la pelea contra Koyama (ep. 8)",
+  "para_que": "referencia de la cara de miedo de Mob",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x84g6ar&t=42",
+  "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cara neutra de tensión de Mob (cejas rectas, boca en línea recta) justo antes de liberar poder",
+  "para_que": "referencia de la expresión «de aviso» de rabia contenida de Mob",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x84g6ar&t=168",
+  "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Mob en estado ???% (monocromo, pelo blanco, ojos rojos, cara inexpresiva)",
+  "para_que": "referencia del estado de poder máximo de Mob, para escenas de acción o lámina de highlights",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8ec8b9&t=96",
+  "fuente": "Tráiler oficial 3ª temporada, sub. español (Sensacine, Dailymotion), fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Mob con la mano levantada y la mirada oculta por el flequillo, diciendo «¡Detente!»",
+  "para_que": "referencia de tensión/desesperación de Mob con subtítulo en español oficial",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de tráiler oficial"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x4rj83n&t=0",
+  "fuente": "Clip «Mob vs Teru Explosion» (Dailymotion, corte de fan del ep. 5 con subtítulos en inglés), fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cara de Mob llorando (100% Tristeza), enrojecida, ojos cerrados, boca abierta, diciendo «Voy a cambiar»",
+  "para_que": "referencia de la cara de tristeza de Mob para la lámina o guía de IA (punto 13/17)",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/7b/Dimplemusashi.png",
+  "fuente": "wiki de Fandom, escaneo del manga",
+  "ancho": 1278,
+  "alto": 719,
+  "que_es": "Panel con el globo dentado (de explosión) \"RAINBOW SEAL!!!\", el grito real de la serie, con líneas de velocidad",
+  "para_que": "referencia del globo de grito/nombre de técnica para la lámina (puntos 5 y 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/6/6c/Live_Dimple.jpg",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 1200,
+  "alto": 675,
+  "que_es": "Fotografía de la adaptación live-action con el traje real de Dimple",
+  "para_que": "colaboración/adaptación oficial con vestuario real (punto 23)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/4/47/Mob_100%25_Gratitude_%28Reigen_1000%25%29.jpg",
+  "fuente": "wiki de Fandom, fotograma del anime",
+  "ancho": 1060,
+  "alto": 750,
+  "que_es": "Tarjeta de título emocional 感謝/GRATITUDE con la caja de estado \"MOB 0% / REIGEN 1000%\" debajo",
+  "para_que": "referencia del único \"HUD\" de nombre+cifra de la serie, y de la tarjeta de emoción con subtítulo inglés a pincel (puntos 5 y 6)",
+  "licencia": "© ONE/Shogakukan/Mob Psycho 100 Project; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mob_Psycho_100_logo.svg",
+  "fuente": "Wikimedia Commons (extraído y optimizado por Kuipuru/VulcanSphere de las webs oficiales)",
+  "ancho": 1200,
+  "alto": 646,
+  "que_es": "Logo oficial モブサイコ100, vectorial, magenta #C01B8B medido con Pillow, con todos los trazos cortados en diagonal",
+  "para_que": "referencia exacta del logo real para el punto 5 (tipografía del título) y para comparar con la letra libre Yukarimobile",
+  "licencia": "PD-textlogo (dominio público por no alcanzar el umbral de originalidad); aviso de marca registrada de ONE/Shogakukan/comité de producción"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/a/a5/Kageyama_Ritsu.png",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 501,
+  "alto": 1500,
+  "que_es": "Cuerpo entero oficial de Ritsu con bolso azul",
+  "para_que": "medir hex del vestuario (mismo gakuran que Mob #262628, bolso #285A90)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f1/Kindness.jpg",
+  "fuente": "wiki de Fandom, escaneo del manga",
+  "ancho": 715,
+  "alto": 1013,
+  "que_es": "Tarjeta de título emocional 優しさ/KINDNESS a toda página",
+  "para_que": "segunda referencia de tarjeta emocional, para confirmar el patrón repetido (kanji + subtítulo inglés) (puntos 5 y 6)",
+  "licencia": "© ONE/Shogakukan; imagen de la wiki de fans, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/5d/Reigen_design_layout.jpg",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 1000,
+  "alto": 715,
+  "que_es": "Hoja de modelo oficial de Arataka Reigen (character design layout)",
+  "para_que": "proporciones y colores exactos del traje para dibujarlo o modelarlo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/5b/Ritsu_design_layout.jpg",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 1000,
+  "alto": 715,
+  "que_es": "Hoja de modelo oficial de Ritsu Kageyama",
+  "para_que": "proporciones y colores exactos del uniforme para dibujarlo",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/7/7c/Dimpleshinra.png",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 940,
+  "alto": 655,
+  "que_es": "Fotograma nocturno de Dimple en una calle en penumbra",
+  "para_que": "paleta y luz medidas (#0D0E12, #1E2126) para fondos nocturnos (punto 16)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/8b/Mob_Psycho_100_Cover.jpg",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 640,
+  "alto": 960,
+  "que_es": "Portada de tomo/DVD con el grupo completo y el logo rosa de la serie",
+  "para_que": "arte oficial variado (grupo) y referencia del logo/tipografía",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/5/58/TeruHair12.png.png",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 766,
+  "alto": 786,
+  "que_es": "Retrato de Teruki Hanazawa con el blazer morado del instituto Black Vinegar",
+  "para_que": "medir hex del vestuario (blazer #7963A1, corbata #4B7D8E)",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f6/Ekubo-fixw-640-hq_orig.jpg",
+  "fuente": "Wiki de Fandom (mob-psycho-100.fandom.com)",
+  "ancho": 640,
+  "alto": 898,
+  "que_es": "Cartel promocional de la adaptación live-action con el traje real de Dimple/Ekubo",
+  "para_que": "referencia de volumen 3D y color real (capucha #47A9A8) para el punto 23",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://www.dafont.com/yukarimobile.font",
+  "fuente": "dafont.com (fuente de Vic Fieger)",
+  "ancho": 900,
+  "alto": 300,
+  "que_es": "Letra libre Yukarimobile: mismo corte diagonal que el logo real (comprobado renderizando \"Mob Psycho 100\" con la fuente descargada); con fontTools trae á é í ó ú ñ ¿ ¡ (16 comprobadas)",
+  "para_que": "sustituto gratuito del logo/título para rótulos en español (punto 5)",
+  "licencia": "100% gratis (dafont.com, categoría Techno)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-d6cf914677a74d44b808ab9e542f39f2",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable «Reigen Arataka Avatar Mob Psycho 100» por WackyDemonFire",
+  "para_que": "referencia 3D con licencia libre para pose/proporciones (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-5ce2e4e9b49c4bc2b164e161b116c53e",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable de Shigeo (Mob) por ThirdSon",
+  "para_que": "referencia 3D con licencia libre para pose/proporciones (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-b940515878ba476099fd2f5b27052675",
+  "fuente": "Sketchfab (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D descargable «Chibi Reigen Arataka» por AldairianOne",
+  "para_que": "referencia 3D con licencia libre, versión chibi (punto 3)",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Fabric032",
+  "fuente": "ambientCG (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura de tela/lana CC0",
+  "para_que": "dar volumen de tela al negro plano del gakuran de Mob/Ritsu (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper006",
+  "fuente": "ambientCG (API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura de grano de papel CC0",
+  "para_que": "grano de papel para fondos tipo manga (punto 19)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://manga-with-stef.com/free-screen-tone-collection-1",
+  "fuente": "Manga with Stef",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Colección de screentones/tramas de manga de uso libre",
+  "para_que": "tramas de punto equivalentes a las del manga original (punto 19)",
+  "licencia": "Gratuita para uso en obra propia (declarada en la página)"
+ },
+ {
+  "url": "https://www.goodsmile.com/en/product/10623",
+  "fuente": "Good Smile Company",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nendoroid oficial de Shigeo Kageyama (Mob), con accesorios (mini-Dimple, ramen)",
+  "para_que": "referencia 3D de pose y merchandising oficial (punto 23)",
+  "licencia": "© Good Smile Company / titulares; sólo referencia"
+ },
+ {
+  "url": "https://www.goodsmile.com/en/product/11013",
+  "fuente": "Good Smile Company",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Pop Up Parade de Shigeo Kageyama",
+  "para_que": "referencia de pose oficial en figura (punto 23)",
+  "licencia": "© Good Smile Company / titulares; sólo referencia"
+ },
+ {
+  "url": "https://web.archive.org/web/20161005170859/https://mobpsycho100-puzzle.com/",
+  "fuente": "Wayback Machine (página oficial archivada del primer juego, «Mob Psycho 100: Psychic Puzzle», Shogakukan, 2016-2018, cerrado)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Página web oficial archivada del primer juego móvil de la franquicia (puzzle de conectar 3), no es una imagen suelta",
+  "para_que": "fuente de fecha de lanzamiento y descripción del primer juego oficial (punto 11); sin medir porque es una página, no una imagen",
+  "licencia": "© Shogakukan; captura de archivo público (Wayback Machine), sólo referencia"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=mV39saBlBLI",
+  "fuente": "YouTube (canal oficial japonés)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "PV 3 (tráiler japonés oficial), 2:20",
+  "para_que": "tráiler oficial citado en punto 2 y 10 (metadatos confirmados, descarga bloqueada esta sesión)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project; sólo referencia"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=HSUljcXSdvI",
+  "fuente": "YouTube (Crunchyroll oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip oficial «Mob Psycho 100 - Ending | Refrain Boy», 1:41",
+  "para_que": "candidato a mirar en un repaso si se levanta el bloqueo de YouTube (punto 2)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project, cuenta oficial Crunchyroll; sólo referencia"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=aT_P7R2ebsQ",
+  "fuente": "YouTube (Crunchyroll oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Clip oficial «Mob Goes ???%» (Mob Psycho 100 II), 2:44",
+  "para_que": "escena icónica alternativa de temporada 2, para un repaso (punto 2)",
+  "licencia": "© Shogakukan/Mob Psycho 100 Project, cuenta oficial Crunchyroll; sólo referencia"
+ },
+ {
+  "url": "https://mob-psycho-100.fandom.com/wiki/99",
+  "fuente": "Mob Psycho 100 Wiki (Fandom, vía API)",
+  "ancho": 300,
+  "alto": null,
+  "que_es": "Ficha del tema «99» (OP1): artista, letra, composición, arreglos, fecha",
+  "para_que": "verificar créditos musicales del punto 9",
+  "licencia": "wiki de fans; datos, no imagen citable"
+ },
+ {
+  "url": "https://mob-psycho-100.fandom.com/wiki/Refrain_Boy",
+  "fuente": "Mob Psycho 100 Wiki (Fandom, vía API)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Ficha del tema «Refrain Boy» (ED1) con letra completa",
+  "para_que": "verificar créditos y letra del ending (punto 9)",
+  "licencia": "wiki de fans; datos, no imagen citable"
+ },
+ {
+  "url": "https://musicbrainz.org/release-group/73aadcfd-0136-4e8d-85ad-3127342a1293",
+  "fuente": "MusicBrainz",
+  "ancho": null,
+  "alto": null,
+  "que_es": "モブサイコ100 Original Soundtrack (Kenji Kawai, 2016)",
+  "para_que": "banda sonora oficial, punto 9",
+  "licencia": "datos abiertos MusicBrainz"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x4g5kft",
+  "fuente": "Dailymotion (canal Hitek)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Tráiler «Trailer - Mob Psycho 100», 1:56, 35 998 vistas",
+  "para_que": "vídeo más visto disponible fuera de YouTube, punto 10",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/3/32/Mob.ogg/revision/latest?cb=20181029043436&path-prefix=es",
+  "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Mob (Carlos Siller), transcrita con voz.py",
+  "para_que": "frases textuales y ficha de voz (tono/velocidad) del punto 8 y 13; no es imagen, es audio",
+  "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/b/b3/Reigen.ogg/revision/latest?cb=20181029043457&path-prefix=es",
+  "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Reigen (Manuel Campuzano), transcrita con voz.py",
+  "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
+  "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/8/81/Ekubo.ogg/revision/latest?cb=20181029043532&path-prefix=es",
+  "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Dimple/Ekubo (Carlos Hernández), transcrita con voz.py",
+  "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
+  "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Ritsu.ogg/revision/latest?cb=20181029043616&path-prefix=es",
+  "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Ritsu (Javier Olguín), transcrita con voz.py",
+  "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
+  "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/doblaje/images/d/db/Teru.ogg/revision/latest?cb=20181029043632&path-prefix=es",
+  "fuente": "Doblaje Wiki (doblaje.fandom.com), muestra oficial de audio del reparto latino",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Muestra de audio del doblaje latino de Teruki Hanazawa (José A. Toledano/Pascual Meza), transcrita con voz.py",
+  "para_que": "frases textuales y ficha de voz del punto 8 y 13; no es imagen, es audio",
+  "licencia": "© titulares del doblaje; muestra pública de la wiki, sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3076/5fd4472ebc911ad8918af5e3efe9e716de1f03bf.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3840,
+  "alto": 4096,
+  "que_es": "Fan art de denji_(chainsaw_man) (https://twitter.com/KureNaiZ1/status/1665717188466974727)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/9/7738223b6311165089b02878cc05a9044eb90fcd.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 4444,
+  "que_es": "Fan art de takakura_ken_(dandadan) (https://i.pximg.net/img-original/img/2025/03/03/13/24/18/127820524_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1050/9136acb5f6c363830959f4d98ebdba109baed1ba.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3085,
+  "alto": 4096,
+  "que_es": "Fan art de ayase_momo (https://twitter.com/Yuqi_non/status/1963251057158393937)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4094/e99422355be6210f4f1af871e40dbeca55aff7e3.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2883,
+  "alto": 4081,
+  "que_es": "Fan art de ekubo_(mob_psycho_100) (https://twitter.com/shipshipsheep/status/1623743109602631681)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4620/d6987b07f3c70a54e34ccca93b03b09925facb1b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 3539,
+  "que_es": "Fan art de tatsumaki (https://twitter.com/bongftah/status/1917222982369571241)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/eo/wallhaven-eog7lr.png",
+  "fuente": "Wallhaven",
+  "ancho": 4096,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Son Goku, Monkey D. Luffy, Uzumaki Naruto, Gon Freecss, Dragneel Natsu, Elric Edward)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por PedroKun; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p9/wallhaven-p9k2kj.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Mob Psycho 100, Kageyama Shigeo, transformation, anime boys, minimalism)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Xz0Philip; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/1286/9e9f5c6596ad79f8d114cca07410730ca62889d9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2480,
+  "alto": 3007,
+  "que_es": "Fan art de denji_(chainsaw_man) (https://i.pximg.net/img-original/img/2025/01/24/23/35/20/126535199_p6.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1286/0497c69e91f2f8a858bc998f9e9a9cd3b3c53c2c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2480,
+  "alto": 3007,
+  "que_es": "Fan art de denji_(chainsaw_man) (https://i.pximg.net/img-original/img/2025/01/24/23/35/20/126535199_p12.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/gp/wallhaven-gpydql.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2160,
+  "alto": 3360,
+  "que_es": "Fondo de pantalla (Dandadan, Mob Psycho 100, Ken Takakura, Momo Ayase, Kageyama Shigeo, Arataka Reigen)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ugurpiskin; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/og/wallhaven-ogxjxm.png",
+  "fuente": "Wallhaven",
+  "ancho": 3000,
+  "alto": 2400,
+  "que_es": "Fondo de pantalla (speedloover, anime boys, Mob Psycho 100, eyes, monochrome, illustration)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por MrFav; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/514/b10cd2d30b08dc1c4af0902bcf86cf5d0593ef5b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2344,
+  "alto": 3001,
+  "que_es": "Fan art de ayase_momo (https://twitter.com/masoq095/status/1849907033379639673)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4031/05237a8a3e63d2eda6df5ea2a3c9d81d3d6a09b7.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2100,
+  "alto": 3000,
+  "que_es": "Fan art de anya_(spy_x_family) (https://twitter.com/khyleri/status/1595447090632527874)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4013/d9d568d3b86f05771ebc06b460932a0e05c51d94.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2790,
+  "alto": 2100,
+  "que_es": "Fan art de reigen_arataka (https://twitter.com/AngieM_Z/status/1588881045612507142)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4215/0e4cdd7bfe43987e99aae3a8e94051de15d152de.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2380,
+  "alto": 2400,
+  "que_es": "Fan art de anya_(spy_x_family) (https://twitter.com/asgykk/status/1638002970045599745)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/6/f56bc29f021807cb26114c8fc46a337f7298c12a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2245,
+  "alto": 2513,
+  "que_es": "Fan art de denji_(chainsaw_man) (https://twitter.com/OmarvinG94/status/1879536562675003523)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4160/0e913738728895abe6efc339d8501ace458c259a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2017,
+  "alto": 2620,
+  "que_es": "Fan art de ekubo_(mob_psycho_100) (https://twitter.com/Ch0og0o/status/1651380825156382722)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/yj/wallhaven-yjd3ld.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 2715,
+  "que_es": "Fondo de pantalla (Egor Klyuchnyk, 113 Character, Universe: 113 Character Poster, Portal (game), game posters, Sonic (series))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por vandal454; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/3381/eec5d67d2c0f6e85c1d5f2886a6de3e4c0715b2d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1636,
+  "alto": 2732,
+  "que_es": "Fan art de denji_(chainsaw_man) (https://i.pximg.net/img-original/img/2021/01/23/00/13/21/87230067_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/p2/wallhaven-p2l61j.png",
+  "fuente": "Wallhaven",
+  "ancho": 2560,
+  "alto": 1440,
+  "que_es": "Fondo de pantalla (Mob Psycho 100, Kageyama Shigeo, Ekubo)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CrisEVA01; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/1027/76c818ca9a8b7e21b6e5ec3e36f86ed2c4f3b43d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1541,
+  "alto": 2131,
+  "que_es": "Fan art de ayase_momo (https://i.pximg.net/img-original/img/2024/10/26/21/07/06/123699363_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3157/a4cd5f940a770de2caf9e2e73df7c66bb1d43fef.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1585,
+  "alto": 2048,
+  "que_es": "Fan art de tatsumaki (https://twitter.com/rakeemspoon/status/1328146685722316805)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Fan art de hatsune_miku (https://x.com/siro_itigo_o/status/1805557196505465262)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1027/f62bf7b94a0080299c29c2f5f037b41e0c13cf55.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Fan art de denji_(chainsaw_man) (https://twitter.com/kozzz_y/status/1858931469504442740)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1027/46e6c015770c915d390d01634e47f6be04a7c68a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1454,
+  "que_es": "Fan art de ayase_momo (https://x.com/swoomiko/status/1858780899548254684)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4620/763c35775250893777919fca90615a29f43bcd89.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1443,
+  "alto": 2048,
+  "que_es": "Fan art de reigen_arataka (https://twitter.com/sxxxkxxxo/status/1823851020210106707)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3082/6cca30e553187afc6f752244086e7ad8fba3644c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 1864,
+  "que_es": "Fan art de ekubo_(mob_psycho_100) (https://twitter.com/rariatoo/status/1299475597819670529)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/5g/wallhaven-5gpkk7.png",
+  "fuente": "Wallhaven",
+  "ancho": 2048,
+  "alto": 1337,
+  "que_es": "Fondo de pantalla (cartoon, anime girls, collage, monochrome, Ladybug (Miraculous Ladybug), BOCCHI THE ROCK!)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por pietech; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/4/2a8203e159f092aa213746db2977ef0903f6d0d6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1377,
+  "alto": 1602,
+  "que_es": "Fan art de ayase_momo (https://twitter.com/sardine_mush_/status/1860293629987946681)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4203/87f503c6563c3b2aa4329bc957c5142a6627d722.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1240,
+  "alto": 1754,
+  "que_es": "Fan art de anya_(spy_x_family) (https://twitter.com/tomata_y/status/1518955385020837889)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/4/43/Temporarymurderousintent.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Shigeo Kageyama: Temporarymurderousintent.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f3/Dimplemob.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Dimple: Dimplemob.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/dp/wallhaven-dpgdp3.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (city, Naruto (anime), One Piece, Spider-Man, Boku no Hero Academia, The Simpsons)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por káká311610; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/9m/wallhaven-9mow7w.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Mob Psycho 100, anime boys, minimalism)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por EdwardKenwayEzio; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/mp/wallhaven-mpvjp8.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Mob Psycho 100, anime, monochrome, glowing eyes)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por mrdexterito; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/mp/wallhaven-mpvw71.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Mob Psycho 100, anime, Kageyama Shigeo, white background)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por SomeonePro99; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/r2/wallhaven-r2e277.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Mob Psycho 100, collage, manga, text, Kageyama Shigeo)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por reymus619; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/76/wallhaven-76w7r3.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Mob Psycho 100, Kageyama Shigeo, Arataka Reigen, Ekubo, parody, crossover)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por CrisEVA01; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/225/98eef5c73db055ae0b0c38b74e8cac86c848129c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 516,
+  "alto": 3642,
+  "que_es": "Fan art de hatsune_miku (http://img03.pixiv.net/img/matilda/990992.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4221/54f22bb61e2114bde6dbe9ae3eae8becbce81f01.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1100,
+  "alto": 1500,
+  "que_es": "Fan art de anya_(spy_x_family) (https://twitter.com/koichame/status/1640881593886842884)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4175/d8a04410a6288b7d54453fba2753deb2e543f1cd.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 1200,
+  "que_es": "Fan art de anya_(spy_x_family) (https://twitter.com/spyfamily_anime/status/1656826531631738880)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/893/2503dd29b9dd16361d92f4399e6afb98d5413657.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1395,
+  "que_es": "Fan art de hatsune_miku (http://i2.pixiv.net/img24/img/sumairuclover/29784609.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/104/86fa3739aba84ed2a873c31bd53d5f73c7d8a517.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3907/fecf938537feb8873ad8df05eea3f460295b5fda.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1101,
+  "alto": 1200,
+  "que_es": "Fan art de reigen_arataka (https://twitter.com/Ch0og0o/status/1549158801726935040)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/b/ba/God-barrier.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 1363,
+  "alto": 969,
+  "que_es": "Dimple: God-barrier.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1572/a01a3f0fedf41dcdc8c4b999e3275300a30de909.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 1032,
+  "que_es": "Fan art de tatsumaki (http://i1.pixiv.net/img-original/img/2015/12/13/00/01/12/54008488_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1/b2ab1320f576d87b485e031e793652f52bf4526c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1280,
+  "alto": 960,
+  "que_es": "Fan art de hatsune_miku (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1574/8a695029318cfd9b63472c32210c3b138e322edb.png",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1268,
+  "alto": 925,
+  "que_es": "Fan art de tatsumaki (http://i4.pixiv.net/img-original/img/2015/12/17/04/08/55/54078307_p0.png)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1318/e8e7533646035d738537fa64594422b8565344b9.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 900,
+  "que_es": "Fan art de ekubo_(mob_psycho_100) (https://zimternet.tumblr.com/post/773713548221333504)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/259/27ead67d9e75631be7dd7bb5788d0802d7f9ca17.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1200,
+  "alto": 800,
+  "que_es": "Fan art de hatsune_miku (http://img11.pixiv.net/img/nekogamisama/1837016.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/968/39934161660_535ebc84c1_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 890,
+  "alto": 1024,
+  "que_es": "14.2",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC PDM 1.0, autor munozjrjesse"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f6/Dimplesecurity.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 1018,
+  "alto": 866,
+  "que_es": "Dimple: Dimplesecurity.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3435/41a38518991b7f4cd22a42620a8a696b.jpeg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 768,
+  "alto": 1024,
+  "que_es": "Fan art de tatsumaki (sin origen)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/4687/38133434545_cd3cb573b4_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "MOB PSYCHO 100",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-ND 2.0, autor Henfermo"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/9/9c/Live_Mob2.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 625,
+  "alto": 952,
+  "que_es": "Shigeo Kageyama: Live Mob2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2236/637988f22e6f13c0df0813465c6dacea329f12ca.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 500,
+  "alto": 1167,
+  "que_es": "Fan art de tatsumaki (https://i.pximg.net/img-original/img/2017/09/11/06/39/31/64903144_p0.jpg)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/a/a6/50dd69a23cbb66d9abbdcaa8ee54e4db.jpg",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 640,
+  "alto": 905,
+  "que_es": "Shigeo Kageyama: 50dd69a23cbb66d9abbdcaa8ee54e4db.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1744/23e662919f381dd6f1cd2f51c0dc90e73f8dd5c4.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 550,
+  "alto": 843,
+  "que_es": "Fan art de ekubo_(mob_psycho_100) (http://tsulala.tumblr.com/post/149152139628)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/4/40/Dimple.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 595,
+  "alto": 605,
+  "que_es": "Dimple: Dimple.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/8/85/ReigenDimple.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 435,
+  "alto": 435,
+  "que_es": "Dimple: ReigenDimple.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/f3/DimplePossesRitsu.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 423,
+  "alto": 423,
+  "que_es": "Dimple: DimplePossesRitsu.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/ff/U3TCwxY.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 141,
+  "alto": 419,
+  "que_es": "Shigeo Kageyama: U3TCwxY.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/fc/Japan.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 16,
+  "alto": 11,
+  "que_es": "Shigeo Kageyama: Japan.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/mob-psycho-100/images/0/0a/English.png",
+  "fuente": "Fandom mob-psycho-100",
+  "ancho": 16,
+  "alto": 11,
+  "que_es": "Shigeo Kageyama: English.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Arataka Reigen",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Shigeo Kageyama",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ekubo",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Teruki Hanazawa",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Narrator",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89618-iSTUyCdu1yZ8.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ritsu Kageyama",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132972-OMoDKqJSfLjs.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Musashi Gouda",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89620-C1z1mMLIlO17.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Tome Kurata",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89619-gX9t6L2puNte.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Tenga Onigawara",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n86029-iomUtQtGfJOU.png",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Puri-Puri Prisoner",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130683-TxUJVPKmUxrf.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Shou Suzuki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/89622-2sQwqZ1Qkhmx.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Ichi Mezato",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/89623-9JhzOrRvzaII.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Tsubomi Takane",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133204-KKsIZxLqX7vF.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Toichirou Suzuki",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133195-fF7tNKmv6Ejy.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Retrato de Yusuke  Sakurai",
+  "para_que": "cara y colores base del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Portada oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21507-Qx8bGsLXUgLo.jpg",
+  "fuente": "AniList",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Banner oficial",
+  "para_que": "arte oficial / key visual",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-1221755ff0b74f388a1080314c1f098c",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Shou de saphizzle",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-aeca7f83ce23441f8007f4a4f373ebec",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: mob psycho 100 de onego121",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-e57467e2cdf443d98b3c74d43d177c4e",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Mob (Shigeo Kageyama) de felipe.b.perosa",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x4g5kft?start=48",
+  "fuente": "Tráiler oficial «Mob Psycho 100» (Hitek, Dailymotion), fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cara de Mob sonrojado y sonriendo (fondo de burbujas), reacción tímida al hablar de Tsubomi",
+  "para_que": "referencia de la cara de alegría/vergüenza de Mob para la lámina o guía de IA (punto 13/17)",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de tráiler oficial"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x84g6ar?start=114",
+  "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cara de Mob con miedo, ojos muy abiertos y sangre en la boca, durante la pelea contra Koyama (ep. 8)",
+  "para_que": "referencia de la cara de miedo de Mob",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x84g6ar?start=42",
+  "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cara neutra de tensión de Mob (cejas rectas, boca en línea recta) justo antes de liberar poder",
+  "para_que": "referencia de la expresión «de aviso» de rabia contenida de Mob",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x84g6ar?start=168",
+  "fuente": "Clip «RAGE MODE FIGHT (Mob VS Koyama)», Dailymotion, fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Mob en estado ???% (monocromo, pelo blanco, ojos rojos, cara inexpresiva)",
+  "para_que": "referencia del estado de poder máximo de Mob, para escenas de acción o lámina de highlights",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x8ec8b9?start=96",
+  "fuente": "Tráiler oficial 3ª temporada, sub. español (Sensacine, Dailymotion), fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Mob con la mano levantada y la mirada oculta por el flequillo, diciendo «¡Detente!»",
+  "para_que": "referencia de tensión/desesperación de Mob con subtítulo en español oficial",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de tráiler oficial"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x4rj83n?start=0",
+  "fuente": "Clip «Mob vs Teru Explosion» (Dailymotion, corte de fan del ep. 5 con subtítulos en inglés), fotograma propio con fotogramas.py",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Cara de Mob llorando (100% Tristeza), enrojecida, ojos cerrados, boca abierta, diciendo «Voy a cambiar»",
+  "para_que": "referencia de la cara de tristeza de Mob para la lámina o guía de IA (punto 13/17)",
+  "licencia": "© BONES/titulares; sólo referencia, fotograma de clip oficial de escena"
+ }
 ]
