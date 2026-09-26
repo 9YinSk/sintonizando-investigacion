@@ -250,3 +250,52 @@ y de la propia *Encyclopedia* (2018). Lo demás sale del comportamiento mostrado
 | Link | los caballos (Epona), la Espada Maestra, cocinar (BOTW) | fallarle a la gente que protege | montar a caballo, explorar, cocinar, dormitar | no encontré fecha oficial | 170 cm / 5'7" (OoT, *Hyrule Historia*) | Zelda Wiki + CBR (Hyrule Historia) ⚠️ |
 | Zelda | la ciencia, la tecnología Sheikah, la arquitectura, la historia, la naturaleza | sentir que no está a la altura de su título | investigar, observar la naturaleza | no encontré fecha oficial | 5'6" (CBR, sin confirmar en fuente oficial) | GameFAQs «Hobbies of the Rich» + CBR ⚠️ |
 | Ganon/Ganondorf | el poder, dominar Hyrule, su corcel negro | perder el control, que lo subestimen (irónico, porque él subestima a otros) | montar su corcel, la guerra | no encontré fecha oficial | 7'7" / 231 cm (forma bestia, *Hyrule Historia*) | Zelda Wiki (Ganon) + CBR (Hyrule Historia) ⚠️ |
+
+### 21 · Por qué la gente la ama
+- Razón más citada en reseñas de *Breath of the Wild*: la libertad real de mundo abierto combinada con
+  un motor de físicas muy trabajado (fuego, viento, hielo, electricidad se combinan para resolver
+  puzles y pelear), «ningún recorrido es igual a otro» · https://www.3djuegos.com/juegos/the-legend-of-zelda-breath-of-the-wild/noticias/zelda-breath-of-the-wild-es-unico-razones-por-las-que-debes-jugarlo-190205-5216 · ✅ (coincide con Xataka y Vandal)
+- Recepción crítica: casi 4 decenas de reseñas con nota perfecta al lanzamiento (2017); descrito como
+  «una clase maestra en el diseño de mundo abierto que reinventa una franquicia de 30 años» ·
+  https://vandal.elespanol.com/analisis/switch/the-legend-of-zelda-breath-of-the-wild/43030 · ✅
+- Ventas: más de un millón de copias sólo en EE.UU. y casi 4 millones en todo el mundo en su primer
+  mes (2,76 millones en Switch + 1,08 millones en Wii U) · https://www.xataka.com/videojuegos/the-legend-of-zelda-breath-of-the-wild-ha-sido-mucho-mas-que-el-juego-del-ano · ✅
+- Con qué personaje se identifica más el público: con **Zelda** en su versión BOTW/TotK, según la
+  encuesta de fans de Schaffrillas (punto 7) — ganó por mostrarla insegura y humana antes de ser
+  «la princesa perfecta», algo que el público valora más que a la Zelda-damisela de juegos antiguos ·
+  https://www.thegamer.com/the-legend-of-zelda-fan-poll-top-five-characters/ · ⚠️
+- Escena que hace llorar (documentada dos veces, ver punto 8): el llanto de Zelda en el «Memoria: la
+  decisión final», grabado con la directora en cabina porque era una escena difícil emocionalmente
+  para la actriz · Doblaje Wiki, ficha BOTW · ⚠️ (una fuente, cita a un podcast que no verifiqué
+  directamente) — el fotograma equivalente (perfil, lágrima) está medido en el punto 13 con minuto y
+  enlace, del tráiler de *Tears of the Kingdom*.
+- Cómo está filmada esa escena (según el fotograma medido en el punto 13): primer plano cerrado de
+  perfil, luz baja y cálida detrás, silencio salvo la voz entrecortada — es un recurso muy típico de
+  Zelda: pausar la acción para un primer plano quieto en los momentos más tristes.
+
+### 22 · Fan dubs y comunidad hispana
+YouTube bloqueó el acceso desde este servidor durante toda la sesión (HTTP 429 / «confirma que no eres
+un bot», con y sin espera), así que los fandubs de YouTube sólo se pudieron citar por su título y canal
+(vía buscador), sin confirmar vistas ni bajar el vídeo. Dailymotion sí funcionó y dio resultados reales,
+aunque con pocas vistas: es un juego, no un anime, y el fandub hispano de Zelda es mucho más pequeño
+que el de series animadas.
+
+- Fandub real verificado en Dailymotion: «The Legend of Zelda Origenes - Skyward Sword [Fandub
+  Latino]», canal **ADRIAN COBOS 0.2**, 8:18 min, 20 vistas · https://www.dailymotion.com/video/x7g7gvb · ✅ (existe y se puede ver, vistas bajas)
+- Fandubs / parodias en YouTube encontrados por título (no verificados en vistas por el bloqueo):
+  «El Multiverso de Zelda (Serie Completa) — Fandub Español Latino» y «Zelda: Morshu RTX ON — Fandub
+  Español Latino», ambos aparecen en resultados de búsqueda como contenido real de comunidad hispana
+  de fandub · ⚠️ (título y canal sólo, sin confirmar vistas ni fecha)
+- La propia comunidad de doblaje profesional participa del fandom: la actriz **Jessica Ángeles** (voz
+  latina oficial de Zelda, ver punto 8) tiene presencia activa en TikTok interactuando con fans sobre
+  el personaje, y fue invitada como voz de Zelda a la convención mexicana **Frikiplaza** ·
+  https://www.3djuegos.lat/cine-y-tv/voz-zelda-tiene-sorpresa-para-fans-mexico-jessica-angeles-actriz-doblaje-estara-frikiplaza · ✅ (corroborado por la nota de TikTok "Jessica Angeles Zelda" en el buscador)
+- No encontré covers de openings en español: Zelda no tiene un tema de apertura cantado como los animes
+  (su música es instrumental), así que ese sub-punto de «covers de openings» **no aplica** igual que en
+  una serie animada — lo más parecido serían covers instrumentales de «Zelda's Lullaby» o el tema de
+  Hyrule Field, que no llegué a buscar por tiempo (queda en «No encontré»).
+- No encontré memes o parodias 100% hispanas y virales específicas de Zelda (tipo un audio de TikTok
+  reconocible); lo que sí es transversal en español latino es el meme «Well excuuuuuse me, Princess!»
+  de los CD-i, comentado y compartido igual que en inglés (ver punto 12), pero no encontré una versión
+  dramatizada o doblada en español de esa frase exacta con búsquedas específicas («Zelda CDi doblaje
+  parodia», «fandub español latino Zelda CDi») — sólo aparecieron parodias de otras franquicias.

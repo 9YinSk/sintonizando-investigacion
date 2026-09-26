@@ -165,7 +165,7 @@ Sin doblaje oficial todavía (punto 8), la comunidad hispana de fandub ya se ade
 - Clips oficiales del doblaje latino: no existen todavía (el doblaje no se ha estrenado). Busqué en Dailymotion, YouTube y TikTok bajo «Your Lie in April doblaje latino»; todo lo que aparece son AMV con audio japonés o instrumental.
 - TV Tropes (páginas Characters/YourLieInApril y Funny/YourLieInApril): da 403 con curl y `navegar.py` no funciona en este contenedor («BrowserType.launch: Executable doesn't exist at /opt/pw-browsers/...» — falta el binario del navegador headless). Lo dejo anotado para que se arregle el entorno; mientras tanto usé blogs de reseña como sustituto parcial (⚠️).
 - Ficha oficial completa (databook) con gustos/odios de Kousei, Tsubaki y Watari: sólo el gusto de Kaori por los canelés está documentado en una fuente de trivia de wiki. No encontré un artbook o databook digitalizado accesible desde este contenedor.
-- Minuto exacto verificado a ojo de la escena de la carta (ep. 22): sólo tengo el dato de una fuente de terceros (AniPlaylist) con las marcas de tiempo de la música; no llegué a ver el episodio 22 completo en esta tanda por límite de tiempo.
+- Nombre exacto de cada tema musical de la escena de la carta (ep. 22): tengo los minutos con nombre de tema de una fuente de terceros (AniPlaylist), pero no crucé cada nombre japonés con una segunda fuente (sí vi y oí la escena completa, ver punto 21). ⚠️ sólo en el nombre exacto del tema, no en el minuto ni en lo que se ve.
 - Reddit vía Arctic Shift: la API devolvió «Timeout. Maybe slow down a bit» en varios intentos con `/api/posts/search`; no pude sacar hilos de Reddit directamente (usé resultados de búsqueda web en su lugar, que sí encontraron reseñas y foros de MyAnimeList).
 
 ## Bitácora
@@ -178,7 +178,7 @@ Sin doblaje oficial todavía (punto 8), la comunidad hispana de fandub ya se ade
 - kimiuso.jp/character/: sitio oficial revisado con curl; sin texto de fichas (usa imágenes), sin encuesta.
 - eldoblaje.com: ficha de España (no Latinoamérica) con id capturado por recolectar.py da 404; descartado.
 - MyAnimeList / Jikan API (`api.jikan.moe/v4/anime/23273/characters`): 504 repetido, sin datos.
-- Internet Archive (`archive.org/advancedsearch.php`, `archive.org/metadata/...`): busqué «your lie in april» / «shigatsu wa kimi no uso»; encontré y usé el episodio 1 completo BDRip (`lns-tsundere-shigatsu-wa-kimi-no-uso-01-...`) con `fotogramas.py` (hojas de contacto cada 20 s + 5 fotogramas individuales en detalle).
+- Internet Archive (`archive.org/advancedsearch.php`, `archive.org/metadata/...`): busqué «your lie in april» / «shigatsu wa kimi no uso»; encontré y usé el episodio 1 completo BDRip (`lns-tsundere-shigatsu-wa-kimi-no-uso-01-...`) con `fotogramas.py` (hojas de contacto cada 20 s + 5 fotogramas individuales en detalle), y también la colección `EVYourLieinApril` (serie completa, 22 episodios + OVA): vi el episodio 22 completo entre el min. 15:30 y 21:22 (la escena de la carta) con fotogramas cada 8 s. Borré los `video.mp4` bajados al terminar de mirarlos (disco compartido).
 - Dailymotion (API, `datos-voz.md`): probé un AMV (`x479c6d`) con `fotogramas.py` como plan B; sirvió para confirmar estilo visual pero no lo usé para las citas finales (el episodio 1 de Internet Archive da capítulo y minuto reales, el AMV no).
 - yt-dlp (metadatos, `--skip-download --print`): usado para sacar título, canal, vistas y fecha de 8 vídeos de YouTube (fandubs y covers en español) sin descargar nada; funciona aunque la descarga de vídeo esté bloqueada por «inicia sesión».
 - navegar.py: falló con «BrowserType.launch: Executable doesn't exist» — el navegador headless no está instalado en este contenedor. Anotado como fallo de entorno, no de la web.
@@ -194,5 +194,5 @@ Sin doblaje oficial todavía (punto 8), la comunidad hispana de fandub ya se ade
 | 12 · Fandom y qué NO hacer | ⚠️ | Gags y objetos icónicos confirmados; sin TV Tropes (bloqueado + navegar.py roto en el contenedor) |
 | 13 · Personajes a fondo | ✅ | 4 personajes con personalidad, arco, relaciones, frases reales con minuto y 5 fotogramas de emociones vistos y medidos |
 | 20 · Gustos y detalles | ⚠️ | Cumpleaños/altura de los 4 con 2 fuentes; gustos/odios con 1 fuente para Kaori, inferidos para el resto (sin databook) |
-| 21 · Por qué la aman | ✅ | Premios, ventas, escena que hace llorar con minuto de la música y reacciones en vídeo |
+| 21 · Por qué la aman | ✅ | Premios, ventas, y la escena que hace llorar VISTA completa (ep.22, min. 15:30-21:22): qué pasa, encuadre, luz, música y reacción de la gente |
 | 22 · Fan dubs hispanos | ✅ | 6 vídeos con canal, escena y vistas medidas con yt-dlp |

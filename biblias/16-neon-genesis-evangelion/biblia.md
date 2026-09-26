@@ -2277,6 +2277,49 @@ cambia.
 
 ---
 
+## Cumplimiento del encargo
+
+✅ hecho · ⚠️ a medias (se dice qué falta) · ❌ no hecho. Estado tras la
+segunda pasada (26-sep-2026).
+
+| Punto | Qué pide | Estado | Por qué y dónde |
+|---|---|---|---|
+| 1 | Arte oficial, mucho y variado | ✅ | §3 y «Las hojas de contacto»: 455 imágenes de la wiki, portadas de laserdisc a 3660×3660, hojas de personaje, hojas de producción, figuras. Sin mirar: pósteres de EoE y *Rebuild*, carátulas de Blu-ray |
+| 2 | Fotogramas de escenas icónicas con capítulo y minuto | ✅ | §2 (minuto del subtítulo) y §2.3 (visto en Internet Archive, 720p y 1080p, con enlace al segundo) |
+| 3 | Fan art, renders y modelos 3D con licencia | ✅ | §4: 11 modelos con la licencia leída en la API de Sketchfab (rigs de Asuka, Unidad 01, Mari, Pen Pen); fan art con autor. La licencia de lefort no salió |
+| 4 | Fondos, luz, paleta en hex y texturas reales | ✅ | §5: 8 sitios con hex medidos en fotograma oficial; texturas CC0 de ambientCG comprobadas en su API |
+| 5 | Tipografía por uso, letra libre y si trae tildes | ✅ | §6: 12 letras de Google Fonts y ChiKareGo2 pasadas por fontTools (a ChiKareGo2 le faltan ú y ü minúsculas) |
+| 6 | Cómo hablan y piensan en pantalla | ✅ | §7: cartela negra, pantallas, monolitos «SOUND ONLY», rótulo «TEST PLUG-02… SUBJECT» (hoja 3, nº 99). El globo del manga, sin ver de cerca |
+| 7 | Personajes y encuestas de popularidad | ✅ | §8 y §9: voto de NHK 2020 con dos fuentes, favoritos de AniList y fan art de Danbooru. Asuka gana en las tres |
+| 8 | Doblaje latino: frases y voces en dos fuentes | ⚠️ | §10: reparto de los tres doblajes con dos fuentes (Gendo y Ritsuko resueltos); dos frases textuales con minuto y seis muestras oídas. Falta: «あんたバカ？» en latino, de qué doblaje es el ítem de Internet Archive, y una segunda fuente para el estudio de *Renewal* |
+| 9 | Música, efectos de sonido y onomatopeyas | ✅ | §11: opening y ending vistos, «Himno de la alegría» en el ep. 24, efectos con nombre de librería. El piano de Kaworu no se oyó |
+| 10 | Vídeos con enlace y minuto | ✅ | §12.5: tráiler oficial de GKIDS minuto a minuto, opening, episodios enteros en Internet Archive. Los análisis de YouTube siguen sin minuto (YouTube no abre) |
+| 11 | Videojuegos: interfaz, menús y cajas de diálogo | ⚠️ | §13: juegos y su tipo (novela visual, crianza) y páginas de The Cutting Room Floor localizadas, pero sin captura: TCRF y Wayback no abren desde aquí. Arte de *Girlfriend of Steel 2* en la hoja 3, nº 133 |
+| 12 | Lo que ama el fandom y qué NO hacer | ✅ | §14: memes confirmados en Know Your Meme; lista de errores que notaría un fan |
+| 13 | Descripción profunda y cara en cada emoción | ⚠️ | §8: carácter, historia, cómo habla, dinámicas, y 10 caras con fotograma y minuto. Faltan con fotograma: tristeza y vergüenza de varios, y todo Gendo menos la frialdad |
+| 14 | Poses en varias escenas, por personaje | ⚠️ | §15: 6 a 10 poses con minuto por personaje (Gendo, 4); unas 15 vistas en fotograma, el resto descritas de memoria |
+| 15 | Vestuario con hex | ✅ | §16.1: 21 hex medidos en arte oficial; dos tintados por la luz, marcados |
+| 16 | Ciudades, paisajes y fondos de pantalla con tamaño y autor | ✅ | §17: fondos oficiales (enlaces vivos) y los 5 más guardados de Wallhaven con tamaño y autor de su API |
+| 17 | Guía para IA de imagen y de texto | ✅ | §18: rasgos fijos con hex, palabras que ayudan y estropean, prompts, voz de cada uno y frases reales por emoción, vocabulario de gestos |
+| 18 | Estilo de dibujo, técnica y cómo replicarlo | ✅ | «Punto 18»: cómo se hizo, encuadres de Anno, recetas de Photoshop y Blender, rigs libres. Qué programa digital usó Gainax: no encontrado |
+| 19 | Texturas 2D | ✅ | «Punto 19»: tramas, papel CC0, emblemas, pantallas. No existe un pack de tramas 100 % CC0 |
+| 20 | Gustos y detalles de cada personaje | ✅ | «Punto 20»: tabla de AniList con cumpleaños y altura, objeto que llevan, cómo se ven. Faltan alturas de Kaworu, Gendo y Ritsuko |
+| 21 | Por qué la aman y escenas que hacen llorar | ✅ | «Punto 21»: dos escenas con minuto, música y reacción; las que hacen reír. Reddit no abre |
+| 22 | Fan dubs y comunidad hispana | ⚠️ | «Punto 22»: un cover cantado del opening oído y la discusión de los tres doblajes. Fan dubs de voz: no encontrados (YouTube pide sesión, TikTok sin buscador) |
+| 23 | Colaboraciones, figuras y cosplay | ✅ | «Punto 23»: *The First Descendant*, McDonald's Japón, Ichiban Kuji, figuras fotografiadas, dos cosplays. Fortnite: no es real |
+| 24 | Obras parecidas y temas relacionados | ✅ | «Punto 24»: influencias en japonés (Ultraman, Ideon), recomendaciones de AniList, ningún canal #demos repetido |
+| 25 | El mundo, la historia y sus símbolos | ✅ | «Punto 25»: reglas en cinco líneas, arcos, glosario con EvaWiki |
+| Conceptos de lámina (3) | Tres ideas distintas con objeto, personaje, letra y textos | ✅ | §19: A la ficha de Marduk, B «SOUND ONLY», C el chelo. Actualizados con las hojas y las poses vistas |
+| Fuentes distintas (40) | Mínimo 40 webs | ✅ | Más de 130 webs distintas enlazadas en el cuerpo |
+| Tipos de fuente | Oficiales, otros idiomas, wikis, foros, arte, vídeo, código, doblaje | ⚠️ | Hay de todos (japonés y chino incluidos; EvaGeeks; GitHub; Doblaje Wiki), pero Reddit, YouTube con minuto, The Cutting Room Floor y Wayback no abrieron |
+| Hojas de contacto | 3 JPEG de menos de 3 MB | ✅ | `hojas/`: 3 hojas de menos de 1 MB, miradas y explicadas |
+| `referencias.json` | Mínimo 20, las mejores primero | ✅ | 223 referencias con tamaño medido donde se pudo |
+
+**Los ⚠️ de todo el dossier**: 108 antes de la segunda pasada; los de
+ahora se cuentan en «Segunda pasada · qué cambió».
+
+---
+
 ## 21 · Bitácora de búsqueda
 
 ### Comprobación de red (24-sep-2026)
@@ -2387,3 +2430,192 @@ cambia.
   y Wayback Machine, bloqueados.
 - Una encuesta oficial en Latinoamérica.
 - Qué pone exactamente la tarjeta de seguridad de NERV (campos, código).
+
+## Bitácora de la segunda pasada (26-sep-2026)
+
+### Bitácora de imagen
+
+- `herramientas/investigar_serie.py --serie "Neon Genesis Evangelion" --wiki
+  evangelion --paginas "Shinji Ikari" "Rei Ayanami" "Asuka Langley Soryu"
+  "Misato Katsuragi" "Gendo Ikari" "Kaworu Nagisa"` → 455 imágenes, 208
+  grandes, 5 hojas (las 5 miradas con Read antes de elegir 3).
+- API de Sketchfab (`api.sketchfab.com/v3/search`) con los términos:
+  `evangelion`, `clipboard`, `cello`, `sony walkman`, `entry plug`, `eva unit
+  01 rigged`, `evangelion rigged` — todas devolvieron resultados con licencia
+  exacta.
+- API de ambientCG (`ambientcg.com/api/v2/full_json?type=Material&q=paper`) →
+  6 materiales de papel CC0.
+- API de Wallhaven (`wallhaven.cc/api/v1/search` y `/w/<id>`) → top 5 fondos
+  por favoritos, tamaño y autor reales.
+- `curl -I` (código de estado) a los 4 enlaces de Wallpaper Abyss de la biblia
+  vieja: los 4 siguen vivos (200).
+- Descargué y medí con Pillow (mediana de un parche de 6-12 px) 6 imágenes:
+  Shinji en plugsuit, Asuka con uniforme escolar, Rei con plugsuit dañado, la
+  figura S-FIRE de Asuka, Misato de cuerpo entero y un fotograma de Gendo/EoE.
+  Herramienta: script propio (no `estilo.py`, que da colores dominantes de
+  toda la imagen, no por prenda) en `/tmp/claude-0/trabajo/16-neon-genesis-evangelion-imagen/`.
+- Búsquedas web (WebSearch, en español e inglés): «free CC0 manga screentone
+  halftone brush pack», «Evangelion NERV logo emblem free vector download
+  license», «gumroad free screentone pack $0», «Evangelion Fortnite
+  collaboration skin OR pachinko OR cafe collaboration 2025 2026», «"The First
+  Descendant" Evangelion collaboration release date official skins»,
+  «Evangelion Uniqlo UT OR Sanrio OR Ichiban Kuji 30th anniversary
+  collaboration 2025», «EVANGELION:30+ McDonald's Japan GU collaboration
+  merchandise details».
+- No repetí ninguna consulta de `datos-imagen.md` (portada AniList, texto de
+  «Appearance» de la wiki, Danbooru, Safebooru, Openverse): las usé tal cual
+  llegaron, sólo verificando lo que hacía falta para mis puntos.
+
+### Bitácora de video
+
+- `curl` a `api.animethemes.moe` (dos veces) → HTTP 522, sin datos.
+- `archive.org/advancedsearch.php` (inglés): «Neon Genesis Evangelion»,
+  «Evangelion ending», «Evangelion trailer», «Neon Genesis Evangelion
+  Platinum Perfect Collection», «Evangelion 24 / Kaworu / 26» → encontré el
+  opening completo, el ending suelto, el tráiler oficial de GKIDS y 19
+  episodios sueltos con audio japonés y hardsubs en inglés.
+- `curl -I` a los `.mp4` de Internet Archive para comprobar tamaño real antes
+  de bajarlos (`content-length`).
+- `fotogramas.py` sobre 6 vídeos reales: opening (17 fotogramas + 4 sueltos),
+  ending (14 + 1), tráiler (15 + 3 sueltos), episodio 1 (6 fotogramas
+  sueltos), episodio 8 (3), episodio 6 (3).
+- `estilo.py` sobre 9 fotogramas para paleta real (k-means con Pillow).
+- `evangelion.fandom.com/api.php` (inglés): búsqueda de texto «synchronization
+  ratio warning sound» e intento de página «Pattern_Blue» (no existe).
+- `soundeffects.fandom.com/api.php` (inglés): wikitext completo de la página
+  «Neon Genesis Evangelion» → catálogo de efectos de sonido.
+- Búsqueda web (español): «Evangelion sonido reconocible alarma pattern
+  sincronización efecto de sonido icónico».
+- Búsqueda web (inglés): «Evangelion sound effects iconic "synchronization
+  ratio" alarm klaxon recognizable» → confirmó la librería Hollywood Edge (2.ª
+  fuente en `forum.evageeks.org`).
+- `curl -sSI` a los enlaces de TikTok de §12 de la biblia para comprobar que
+  siguen respondiendo.
+- **Segunda pasada (relanzo)**: bajé el episodio 5 completo (Rei I, 140 MB) y
+  el episodio 6 completo (Rei II, 140 MB) uno por uno del ítem de los 19
+  episodios sueltos, y el archivo combinado `.ia.mp4` de los episodios 22-24
+  (435 MB, Kaworu). Miré los tres con `fotogramas.py` en pasadas de 10-15 s
+  (contactos completos) y luego saqué fotogramas sueltos con `ffmpeg -ss` en
+  los segundos exactos para confirmar cada pose. `estilo.py` no hizo falta
+  esta vez (ya había paleta medida de los sitios principales).
+- `python3 herramientas/navegar.py "https://tvtropes.org/pmwiki/pmwiki.php/Awesome/NeonGenesisEvangelion" --selector 'div#main-article'`
+  (inglés) → sí funcionó esta vez (200, sin bloqueo); confirmé que «Ode to
+  Joy» suena en toda la escena final de Kaworu (punto 9).
+
+Corrección importante de esta pasada: la pose de §15 «silueta de pie, ep. 6,
+15:32» que se atribuía a Rei es en realidad **Shinji** (visto en el fotograma
+vecino); se retira de la lista de Rei arriba.
+
+- Episodios completos disponibles para mirar de verdad en Internet Archive
+  (ítem `neon-genesis-evangelion-episode-21-...`, 19 episodios sueltos +
+  tema de cierre) y episodios 22-26 combinados en otros dos ítems
+  (`neon-genesis-evangelion-22-al-24`, `evangelion-final-25-y-26_202609`):
+  dejo la ruta anotada para que cualquiera pueda seguir mirando capítulos
+  concretos sin depender de YouTube · ✅ (comprobé que los archivos existen y
+  pesan lo que dicen, con `curl -I`)
+
+### Bitácora de voz
+
+- Doblaje Wiki, API `action=parse&prop=wikitext`, página
+  `Neon_Genesis_Evangelion` (doblaje original) — wikitext completo leído con
+  Python, no con el navegador (evita el 402 de la web normal). Confirmó
+  Humberto Solórzano (Gendo) y Maru Guerrero (Ritsuko), datos que la biblia
+  tenía como huecos.
+- Doblaje Wiki, misma API, página `Renewal_of_Evangelion` — dio el estudio
+  (Grabaciones y Doblajes Internacionales), director (Gerardo García) y año
+  (2007 grabación / 2008 emisión) del 2.º doblaje, que la biblia no tenía.
+- `herramientas/voz.py` sobre 6 muestras `.ogg` de Doblaje Wiki (Gendo,
+  Ritsuko, Shinji, Asuka, Rei, Misato, todas del doblaje original) — Whisper
+  en local, `--idioma es`. Confirmé que transcribe mal los nombres propios
+  (aviso ya en AYUDANTE.md).
+- Know Your Meme, búsqueda directa de «Get in the Robot Shinji» y «Gendo
+  Pose» — confirmó los dos memes que la biblia tenía con ⚠️ en el nombre.
+- Intenté `fotogramas.py` sobre los clips de Dailymotion de `datos-video.md`
+  (`x89nqnd`, `x8czp5s`) buscando primeros planos de cara para el punto 13.2:
+  son montajes de acción, no sirven para la tabla de emociones.
+- Internet Archive, búsqueda `title:(Neon Genesis Evangelion) AND
+  mediatype:(movies)` — encontré `neon-genesis-evangelion-toonami-rip` (47
+  min, emisión real de Toonami con anuncios, doblaje inglés) y lo miré entero
+  con `fotogramas.py --cada 15` (192 fotogramas, 4 hojas de contacto) más
+  `--fotograma` en 6 segundos concretos para sacar caras en alta. Es el
+  episodio 8. También busqué `identifier:erai-raws-neon-genesis-evangelion*`:
+  sólo hay ep. 3 y 4 (japonés, sin los personajes que me faltaban).
+- Arctic Shift (Reddit): repetí la consulta del subreddit de Evangelion, con
+  el mismo resultado que `recolectar.py` (no lo encuentra) — no insistí más
+  de dos veces, según la regla de AYUDANTE.md.
+- Búsquedas de fan dub en Dailymotion (español y latino) — ya hechas por
+  `recolectar.py` en `datos-voz.md`: sólo devuelven tráilers oficiales y un
+  AMV, no fandubs de voz. Repetí con la API de Dailymotion con términos más
+  específicos («Cruel Angel Thesis cover español», «Evangelion fandub voz
+  español») y esta vez sí salió un cover cantado real del opening y un vídeo
+  etiquetado «fandub» de Asuka — confirmé el cover oyéndolo con `voz.py`.
+- No hay `biblias/131-evangelion-tarjetas-y-nerv/` con `voz.md` propio: el
+  encargo 131 comparte carpeta con esta serie (misma obra), pero no tiene
+  biblia escrita aún, así que no había nada que leer de una «serie hermana».
+  Sigue así en esta tanda (relanzo): comprobé de nuevo y la carpeta
+  `biblias/131-evangelion-tarjetas-y-nerv/` no existe todavía.
+- **Relanzo — resuelto el `Sigue:` de la tanda anterior**: busqué en Internet
+  Archive (`archive.org/advancedsearch.php?q=title:(neon genesis evangelion)
+  AND mediatype:(movies)`, más de 50 ítems) hasta encontrar
+  `evangelion-the-full-series` («Neon Genesis Evangelion - The Definitive
+  Release»), los **26 episodios completos** en 1080p, SUB (japonés+subtítulo
+  inglés, duración = corte japonés original) y DUB (inglés). Extraje
+  fotogramas de los episodios 2, 8 y 24 directamente por URL con `ffmpeg -ss
+  <segundo> -i "<url .mp4>" -frames:v 1 …` (range request HTTP: ~10-15 s por
+  fotograma, sin bajar los ~600 MB de cada episodio) para no gastar disco
+  compartido. Revisé varios segundos alrededor de cada minuto citado en
+  biblia §8 montando hojas de contacto propias (Pillow) antes de elegir el
+  fotograma final de cada personaje — así confirmé que los minutos que la
+  biblia ya tenía de oído (audio/subtítulo japonés) coinciden con la imagen
+  real. También descarté frames vecinos: el tramo 240-243 s del ep. 8 es un
+  gag cómico de un marinero levantando la falda de otra tripulante, y sólo al
+  segundo 244 aparece Asuka debajo, gritando de rabia — por eso el fotograma
+  final es 244 y no 246 (el que ya citaba biblia §8 de oído).
+
+### Bitácora de texto
+
+- WebSearch (inglés): «Cutting Room Floor Evangelion Girlfriend of Steel
+  prerelease»; «"Cutting Room Floor" Evangelion Shinji Ikari Raising
+  Project»; «Hideaki Anno interview Kabbalah Sephirot Evangelion symbolism
+  "no particular meaning"»; «Hideaki Anno influences Yoshiyuki Tomino Ideon
+  Kunihiko Ikuhara interview Evangelion»; «Evangelion production Gainax
+  limited budget still frames cel animation analog making of interview»;
+  «Blender Freestyle Line Art modifier anime outline toon shader tutorial
+  settings»; «Photoshop anime cel shading tutorial layers multiply screen
+  grain halation brushes»; «Evangelion manga Sadamoto speech bubbles panel
+  layout style analysis»; «"Anno shot" OR "Anno-shot" Hideaki Anno signature
+  framing composition style analysis»; «ChiKareGo2 font free download ttf».
+- WebSearch (japonés): «庵野秀明 エヴァンゲリオン 影響を受けた作品 イデオン
+  ウルトラマン»; «新世紀エヴァンゲリオン 使徒 名前 天使 由来 セフィロト».
+- Bajado y comprobado con **fontTools** (`TTFont.getBestCmap()`):
+  `ChiKareGo2.woff` (GitHub, helloedit/resources/fonts).
+- Leído directo con `curl` (sí responde, a diferencia de Fandom/TV Tropes):
+  `wiki.evageeks.org` — páginas Human_Instrumentality_Project, MAGI,
+  Second_Impact, AT_Field, Lance_of_Longinus, Children, Kabbalah (vacía),
+  Sephirot (no existe), Statements_by_Evangelion_Staff.
+- Intentado y **bloqueado**: `tcrf.net` (Cloudflare, 403 en WebFetch,
+  `ERR_CERT_AUTHORITY_INVALID` en navegar.py); `tvtropes.org` (mismo error
+  de certificado); `web.archive.org` (túnel del proxy se cerró 3 veces,
+  `ws_closed_mid_exchange` según `/__agentproxy/status`; `archive.org` sin
+  «web.» sí funcionó).
+- Repositorio propio: `grep -rl "demos" biblias/*/biblia.md` para el punto
+  24.3 (ningún canal #demos repetido).
+- Ya estaba en `datos-texto.md` y no repetí la consulta: AniList (obra,
+  equipo creativo, obras parecidas y relacionadas).
+
+### Bitácora del redactor
+
+- Corrí `juntar_referencias.py` y `juntar_bitacora.py` (en el intento
+  anterior); quité de `referencias.json` dos duplicados (la tablilla y el
+  chelo de Sketchfab, que salían dos veces con distinta URL): quedan 223.
+- Miré las 3 hojas de `hojas/` con Read y corregí sus números: las
+  portadas de laserdisc son la 16-24; la 55 es Shinji **señalando** (no
+  con pistola); y encontré la **71** (tarjeta «VIP:ID» de Shinji) y la
+  **99** (rótulo «TEST PLUG-02… SUBJECT: FIFTH C.»), que pasan al
+  concepto A.
+- Las referencias de los conceptos iban por posición en la lista vieja de
+  `referencias.json`; al rehacerse la lista, las cambié por enlaces
+  directos.
+- Donde el fotograma visto no coincidía con lo escrito de memoria (Misato
+  a 10:16, Asuka a 11:02, Rei a 15:32), dejé las dos cosas y lo marqué ⚠️,
+  sin borrar la cita del subtítulo, que sigue siendo buena.
