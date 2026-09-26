@@ -541,3 +541,184 @@ Clips oficiales de All-Out Attack (cámara fija de cómic), tráileres y anime, 
 
 **Pensar, en la serie:** Joker y las gemelas en el Velvet Room, cabeza inclinada, calma ([0:12](https://www.dailymotion.com/video/x89juaf?t=12)). ✅
 
+## 15 · Vestuario y colores
+
+Colores medidos con `estilo.py` sobre recortes de las imágenes oficiales. ✅
+
+| Personaje | Prenda | Hex | Imagen |
+|---|---|---|---|
+| Joker | Abrigo largo negro del traje de ladrón (icónico) | `#020202` | Phantom Unmasked, nº40 |
+| Joker | **Guantes rojos** (icónicos) | `#83161C` | Phantom Unmasked |
+| Joker | Americana negra del uniforme de Shujin | `#181516` | Uniforme de invierno |
+| Joker | Pantalón de cuadros del uniforme | `#4D4645` | Uniforme de invierno |
+| Morgana humano (*Royal*) | Cárdigan negro | `#161616` | nº12 |
+| Morgana humano | Camiseta gris oscuro | `#46484A` | nº12 |
+| Ann | Traje de Panther, látex rojo (icónico) | `#FF0100` | nº32 |
+| Ann | Mallas rojas de calle | `#AB2823` | nº113 |
+| Ryuji | Chaqueta de Skull | `#010101` | Ilustración de Skull |
+| Ryuji | Pañuelo rojo | `#830C09` | Ilustración de Skull |
+| Ryuji | Guantes amarillos | `#C7A513` | Ilustración de Skull |
+
+**Lo que todos reconocen**
+- **Joker:** abrigo negro, guantes rojos y máscara blanca de pájaro. En la calle, uniforme de Shujin y pelo negro despeinado (nº20, nº103). ✅
+- **Ann:** coletas rubias con mechas rojizas por dentro y **mallas rojas**; como Panther, látex rojo con cola, antifaz rojo de gata y látigo (nº96-97, nº104). ✅
+- **Ryuji:** rapado a los lados, cresta rubia teñida; cuero, pañuelo rojo, guantes amarillos y máscara de calavera. ✅
+- **Morgana:** gato blanco y negro, collar amarillo, ojos azules enormes. Sin máscara. ✅ Corregido en la parte de imagen tras mirar la imagen: no lleva bolsa.
+- **Uniforme de Shujin:** igual para todo el alumnado. Escudo blanco con chevron negro y «SYUJIN HIGH SCHOOL» en la solapa. ✅ De verano, camisa sin americana ([imagen](https://static.wikia.nocookie.net/megamitensei/images/c/c4/Shujin_Summer_Uniform.jpg)). ⚠️
+
+**Otros trajes con arte oficial**
+- Yukatas de festival y bañadores de playa en las CG de *Royal* (nº119, 123-125). ✅
+- Ropa de calle de *Royal* de Ryuji y Ann (nº16-19). ✅
+- Joker con traje rojo y saxofón (nº39). ⚠️
+- Trajes de *Dancing in Starlight* (nº90-98). ✅
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+**Sitios y su hora** (paletas en §4)
+- **Tokio de noche:** Shinjuku, neones morados, tarde-noche. Es la hora de «Beneath the Mask».
+- **Leblanc:** café pequeño y cálido, de madera, en un barrio tranquilo (Yongen-Jaya). La buhardilla, de noche, es donde Morgana manda a dormir.
+- **Shujin:** aulas de día, luz blanca de fluorescente (captura de Steam de §6).
+- **Palacios:** interiores cerrados, sin hora: castillo rojo, museo, banco, pirámide, nave, casino, barco (§25).
+- **Velvet Room:** celda azul con foco dorado. Fuera del tiempo.
+- **Mementos:** metro infinito (nº4-5 son sus pósters).
+
+**Fondos oficiales de Atlus** (colección de *Strikers*, [página oficial](https://atlus.com/persona-5-strikers-digital-wallpaper-collection/)) ✅
+- Escritorio: Joker con Arsène volando sobre Tokio de noche, 3840×2160 ([imagen](https://atlus.com/wp-content/uploads/2021/02/海外版2021FIX◆PC用壁紙_01.jpg)). ✅
+- Móvil, 1080×1920: Ann ([imagen](https://atlus.com/wp-content/uploads/2021/02/◆海外◆スマホ壁紙_杏.jpg)), Arsène ([imagen](https://atlus.com/wp-content/uploads/2021/02/◆海外◆スマホ壁紙_アルセーヌ.jpg)) y Ryuji ([imagen](https://atlus.com/wp-content/uploads/2021/02/◆海外◆スマホ壁紙_竜司ポーズ違い.jpg)). ✅
+- Ryuji con Captain Kidd, su galeón ([imagen](https://atlus.com/wp-content/uploads/2021/02/◆海外◆スマホ壁紙_竜司とキャプテンキッド-1.jpg)). ⚠️ Sin medir.
+- Fondo del festival del 25.º aniversario (nº87, 1920×2400). ✅
+
+**Fondos de fans en alta** (Wallhaven)
+- Tae Takemi, 3200×4000, el más guardado ([imagen](https://w.wallhaven.cc/full/6o/wallhaven-6o8ekw.jpg)). ✅
+- Ciudad de noche sin personajes, 3840×2160 ([imagen](https://w.wallhaven.cc/full/vm/wallhaven-vm69rm.jpg)). ⚠️
+- Makoto, 3840×2160, de m0nkie ([imagen](https://w.wallhaven.cc/full/5g/wallhaven-5g5zq3.png)). ⚠️
+- Las chicas del grupo, 2500×1500 ([imagen](https://w.wallhaven.cc/full/2e/wallhaven-2eqp3m.jpg)). ⚠️
+- Joker, 1920×1080 o más ([imagen](https://w.wallhaven.cc/full/p2/wallhaven-p2x7e9.jpg)). ⚠️
+
+## 17 · Guía para IA de imagen y de texto
+
+Hecha por el redactor con los puntos 4, 6, 8, 13, 14, 15 y 18. Sirve para Firefly, Canva o cualquier IA. **La IA no copia nada**: se usa para probar poses o fondos, y el resultado se repinta.
+
+### IA de imagen
+
+**Rasgos que nunca cambian**
+- Joker: pelo negro despeinado con flequillo; abrigo negro largo de cuello alto; **guantes rojos**; máscara blanca con forma de pico. En la calle, americana negra y pantalón de cuadros.
+- Ann: coletas rubias largas; mallas rojas; como Panther, látex rojo entero con látigo.
+- Ryuji: pelo rubio teñido rapado a los lados; chaqueta de cuero negra, pañuelo rojo, guantes amarillos; máscara de calavera.
+- Morgana: gato bípedo, cabeza enorme, blanco y negro, ojos azules redondos, collar amarillo.
+
+**Paleta**
+- Rojo `#BE0002` como único color fuerte. Negro `#020202`. Blanco `#FAFAF9`.
+- Noche de Tokio: `#494150`, `#372C35`, `#815662`. Velvet Room: `#302D42`, `#17172E` con foco `#D7A2AC`.
+- Nada de pasteles ni de verdes y azules alegres de relleno.
+
+**Línea, sombra y luz**
+- Contorno negro, grueso y constante, estilo cómic.
+- Sombra plana en 2 o 3 bandas, en rojo o morado oscuro, nunca gris.
+- Trama de puntos en cartelas y fondos de menú.
+- Luz dura. En el Metaverso, relleno rojo desde abajo. En el Velvet Room, un foco dorado cenital.
+
+**Encuadre**
+- Contrapicado y diagonales fuertes para presentar o celebrar.
+- Plano medio a la altura de los ojos para explicar.
+- Primer plano muy cerrado para amenazar.
+- El retrato del que habla, abajo a la izquierda, nunca centrado.
+
+**Palabras que ayudan (en inglés, que las IA entienden mejor)**
+`cel shading, bold black outline, flat red and black palette, halftone dots, pop punk collage, ransom note letters, low angle, dynamic diagonal composition, Tokyo at night, neon purple, comic book splash page, Shigenori Soejima style`
+
+**Palabras que lo estropean**
+`pastel, watercolor, soft gradient, chibi` (salvo que se quiera *chibi* a propósito), `realistic skin, bokeh, white speech bubble, rounded speech bubble, rainbow, cute kawaii background`
+
+**Imágenes de referencia**
+- Estilo: nº89 (key visual), nº30-33 (All-Out Attack), nº114 (portada del OST).
+- Pose con objeto: nº40 y nº76 (Joker con la máscara).
+- Grupo: nº24, nº59, Steelbook en [1:55](https://www.dailymotion.com/video/x89juaf?t=115).
+- Fondo: el fondo oficial de *Strikers* (§16) y Shinjuku en [0:45](https://www.dailymotion.com/video/x89juaf?t=45).
+
+**Vocabulario de gestos para pedir a la IA**
+- *sweat drop* (gota de sudor): Morgana sorprendido.
+- *wide eyes, tear* (ojos abiertos, lágrima): Joker con miedo.
+- *crossed arms, raised eyebrow, cocky grin*: Ryuji chulo.
+- *wink, tongue out*: Ann celebrando.
+- *red silhouette on black*: el final del All-Out Attack.
+- *speed lines, red slash*: golpe crítico.
+
+### IA de texto
+
+**Cómo habla cada uno**
+- **Ryuji:** grita, exclamaciones dobles «¿¡…!?», se come letras al final. Muletilla: «¡¿En serio?!» (por «FOR REAL?!»). Frases cortas.
+- **Morgana:** presume y manda. Llama «Lady Ann» a Ann y «Joker» a Joker. Termina con remate orgulloso.
+- **Ann:** directa, regaña sin rodeos, se ríe fuerte. Frases de una línea.
+- **Joker:** casi nada. Si habla, una frase corta y calmada.
+- **Yusuke:** solemne, de artista, exagera la belleza de cosas absurdas.
+- **Futaba:** tartamudea cuando le da vergüenza: «Q-qué…».
+
+**Frases reales por emoción** (en inglés, con fuente en §8; sin versión latina oficial)
+| Emoción | Frase | Quién |
+|---|---|---|
+| Alegre | «Swimsuits!» | Ryuji |
+| Alegre | «You look beautiful, Lady Ann!» | Morgana |
+| Alegre | «OMG! We are so awesome» | Ann |
+| Enfadado | «Hey, cut it out!» | Ann |
+| Explicando | «I found these on sale over there.» | Yusuke |
+| Explicando | «The moment I set eyes on this distinct shape, I was in love.» | Yusuke |
+| Animando | «Take 'em down, Joker!» | Morgana |
+| Animando | «Looking cool, Joker!» | Morgana |
+| Decidido | «I hear you… Carmen. You're right. No more holding back…!» | Ann |
+| Triste, reflexivo | «hangin' on to the past ain't gonna help anythin'.» | Ryuji |
+| Vergüenza | «W-What do you think?» | Futaba |
+| Sorpresa | «FOR REAL?!» | Ryuji |
+
+**Reglas para la IA de texto**
+- Frases de una idea. Exclamaciones cortas. Nada de párrafos.
+- Onomatopeyas en mayúsculas y letras recortadas: «HOLD UP!», «WEAK!», «BRING IT».
+- El lema del grupo es «TAKE YOUR HEART»: en español, «Te robaremos el corazón» es **traducción nuestra**.
+- Marcar siempre como traducción propia lo que no venga de §8.
+
+## 18 · Estilo de dibujo y cómo replicarlo
+
+**Cómo lo hizo Atlus** (charla CEDEC+KYUSHU 2017 de Kazuhisa Wada, productor, y Masayoshi Suto, director de arte y de interfaz, [Famitsu](https://www.famitsu.com/news/201711/13145540.html)) ✅
+- Programas: **Photoshop, Illustrator y After Effects**. Suto usa el mismo flujo desde hace 18 años.
+- Idea: **«pop punk»**. Pop, para todos; punk, contra el sistema.
+- Primero se elige **un color principal**: P5 rojo, P4 amarillo, P3 azul, *Catherine* rosa. Con él ya salen el logo y la letra clave.
+- Los personajes 3D de los menús: maqueta en Photoshop, pose de un animador, y al final una **ilustración 2D de remate** (*kime cut*) que calca la pose 3D.
+- Más de 1000 páginas de coordenadas en papel, ajustadas «un píxel, un fotograma».
+
+**El anime** (CloverWorks, 2018) ✅ ([All the Anime](https://blog.alltheanime.com/adapting-persona5/) · [Wikipedia](https://en.wikipedia.org/wiki/Persona_5:_The_Animation))
+- Director Masashi Ishihama, fan del juego. Diseño de personajes de Tomomi Ishikawa sobre Soejima: «muy pocos saben dibujar como Soejima».
+- Graphinica pasó los modelos 3D de las Sombras del juego al anime.
+- El opening lo animó **Production I.G**, con storyboard de **Sayo Yamamoto** ([Art of the Title](https://www.artofthetitle.com/title/persona-5/)). ✅
+- El manga: Murasaki elige «lo principal» de 100 horas de juego y poda el resto ([Ramen Para Dos](https://ramenparados.com/entrevista-a-hisato-murasaki-autor-del-manga-persona-5/)). ✅ Sin datos de programas.
+
+**Lo que se ve** (capturas oficiales miradas) ✅
+- Contorno negro grueso y constante.
+- Sombra plana de 2 o 3 bandas, en rojo o morado.
+- Trama de puntos en cartelas de cómic y menús.
+- Destellos de lente y líneas de velocidad en los golpes.
+- Grano y viñeta suaves en las cinemáticas 3D. Aberración cromática sin confirmar. ⚠️
+
+**Encuadres y composición**
+- Ilustraciones de remate: contrapicado, diagonales que parten la imagen en dos triángulos, como una página de cómic.
+- Diálogo: plano medio, retrato abajo a la izquierda.
+- Amenaza de un jefe: primer plano muy cerrado, ojos entornados, caja más grande.
+- Victoria: contrapicado, gran angular, fondo rojo saturado con siluetas, como una portada de disco punk.
+- Momento íntimo: sin captura propia. ⚠️ En el anime, el llanto de Ren va en primer plano frontal a cámara ([5:45](https://www.dailymotion.com/video/x6gzgvk?t=345)).
+
+**En Photoshop**
+1. Línea: pincel duro al 100 %, 2-3 px a 1080p, negro puro, capa propia en Multiplicar.
+2. Color: capas planas por zona, con el cubo. El rojo es lo más saturado; nada compite con él.
+3. Sombra: capa en Multiplicar, 1 o 2 tonos por zona, en rojo o morado oscuro.
+4. Trama: `Filtro > Pixelizar > Semitono de color` a un canal, o un patrón de puntos al 30-50 % sólo en sombras y cartelas.
+5. Calling card y cartelas: Lazo poligonal, borde de 6-10 px, letras en fichas sueltas giradas 2-8°.
+6. Destello: `Filtro > Interpretar > Destello`, muy suave, sólo en golpes.
+7. Grano: `Filtro > Ruido > Añadir ruido`, 3-5 %, monocromático, en Superponer.
+
+**En Blender**
+1. Contorno: Freestyle a 2-3 px negro, o Solidify con normales invertidas y material negro sin sombra.
+2. Shader: **Shader to RGB** y **Color Ramp** en Constante, 2-3 escalones.
+3. Luz: una de área dura y un relleno rojo tenue desde abajo.
+4. Render: Eevee con Bloom bajo para pruebas; Cycles con 32-64 muestras para la final.
+5. Trama: textura de puntos mezclada sólo en sombras con un Mix por máscara.
+6. Rigs: Joker de *Strikers* y Morgana de JulioSillet (§3). Recortes siempre por `v3/integrar.py`.
+

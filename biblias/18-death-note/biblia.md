@@ -634,14 +634,17 @@ Hay una guía de Wammy's House en [pixiv](https://www.pixiv.net/en/artworks/6050
   luz con brillo, humo, rayos ✅ (lo dice la presentación de la entrevista de
   [fullfrontal.moe](https://fullfrontal.moe/tetsuro-araki/)); el detalle de
   Death Note no lo pude leer.
-- **Los ojos de Light se ponen rojos** en los momentos de Kira ⚠️ (de
-  memoria; la wiki relaciona a Light con el rojo y a L con el azul ✅
+- **Los ojos de Light se ponen rojos** en los momentos de Kira ✅ (visto
+  en la segunda pasada: ep. 24, 00:05:42, ojos rojos brillantes; la wiki
+  relaciona a Light con el rojo y a L con el azul,
   [Fandom: Symbolism](https://deathnote.fandom.com/wiki/Symbolism)).
 - La lámpara de escritorio es **la única luz cálida** del cuarto.
 
 ### 5.3 Paleta
 
-Estimada por mí ⚠️ (compárala con un fotograma antes de fijarla):
+Estimada por mí en la primera pasada ⚠️. **Los fondos ya están medidos
+en 5.5** (usa esos); la ropa medida está en §16. Esta tabla sirve para
+los objetos que no salen medidos (manzana, sangre, papel):
 
 | Uso | Hex | Qué es |
 |---|---|---|
@@ -741,6 +744,21 @@ fontTools: **todas traen á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü** (sí = �
 **Mi elección**: título en **UnifrakturMaguntia**; reglas en **IM Fell
 English**; lo escrito a mano en **Kalam**; la «L» sola, en
 UnifrakturMaguntia negra sobre blanco.
+
+### 6.3 Segunda pasada: vuelta a comprobar
+
+- El investigador de texto **volvió a bajar los `.ttf`** de
+  `fonts.gstatic.com` y los pasó por `fontTools` (`getBestCmap()`): las
+  10 letras de la tabla traen á é í ó ú ñ Á É Í Ó Ú Ñ ¿ ¡ ü ✅, y a
+  **Butcherman le falta el ¿** ✅ (dos comprobaciones propias).
+- **Shippori Mincho B1** y **Zen Old Mincho** traen la katakana デスノート
+  y los kanji 死神使い方神様 ✅.
+- Para textos en **coreano o chino** (el juego *Killer Within* los trae):
+  **Noto Sans KR** (데스노트) y **Noto Sans SC** (死亡笔记), OFL ✅.
+- La licencia de «**Death Font**» sigue sin salir (dafont y fontbolt no
+  respondieron) ⚠️. **No la uses**: el logo se rehace con
+  UnifrakturMaguntia o UnifrakturCook, que son libres y ya están
+  comprobadas.
 
 ---
 
@@ -1048,6 +1066,46 @@ TikTok: retos de doblaje con Light y Misa
 
 **Para #textos**: la **reunión** de Killer Within es un **diálogo para
 varias voces**. Buena idea de guion, no de lámina.
+
+### 13.1 La interfaz real de Killer Within (segunda pasada, capturas miradas)
+
+Seis capturas oficiales de Steam a 1920×1080 (las URL están en
+`partes/datos-texto.md`; ejemplo:
+[captura 3](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213190/ss_427a9f56562d4a45862ecaf3d5514ac9c4bc468f.1920x1080.jpg)).
+Miradas por el redactor, 26-sep-2026 ✅ (una fuente: el propio juego).
+
+- **Escribir en el cuaderno**: panel a la derecha con tres pestañas
+  («Select Target», «Select Condition», «Write in Death Note»), la
+  frase «Enter the command and write in the Death Note!», una **hoja
+  rayada gris oscuro** y, encima, en **rojo a mano**, «004 Died in an
+  accident in front of the convenience store». Alrededor, **trazos rojos
+  de pincel** que salen en abanico, como un grito.
+- **El aviso de L**: un **portátil con la «L» gótica** «habla» con un
+  **globo blanco de cómic de borde dentado** y contorno negro: «A player
+  who could be Kira was found at Restroom!». El fondo se vuelve **gris,
+  desaturado**, y la cámara de vigilancia sale en una ventana con
+  «LIVE». Debajo, botones en cartela blanca: «Resolve the incident!»,
+  «Kira has been found!», «A body was found!».
+- **Siempre arriba a la izquierda**: un reloj redondo con un sector rojo
+  y «Day 01 · 77 seconds left». Arriba a la derecha, dos barras:
+  «Investigation Progress» (azul, con la cara de L) y «World Progress»
+  (roja, con la de Kira).
+- **Testimonio**: una cinta verde «Hear Testimony» sobre una mancha de
+  pincel negra, y un botón «OK».
+- **Votación**: fichas en rejilla «Standard Investigator 001…010», cada
+  una con un minibocadillo «C is Kira!», un sello rojo **«Suspect»**,
+  «Skip Vote» con una calavera y «Time until voting ends: 176 seconds ·
+  All votes are final».
+- **Las escenas**: los jugadores son **muñecos cabezones** de colores;
+  detrás, **Light gigante con ojos rojos** sobre una calle de noche con
+  una señal de velocidad «40», o **L gigante con el dedo en el labio**
+  junto a un cartel «近寄ってくる人に要注意!!».
+
+**Para la lámina**: el globo dentado de L y la hoja rayada con letra
+roja son **cuadros de diálogo oficiales de la franquicia**. Sirven para
+una lámina 2 o para el bot; en la lámina principal manda el cuaderno de
+papel (§7.3). El juego no trae español latino (sólo español de España)
+✅ (Steam).
 
 ---
 

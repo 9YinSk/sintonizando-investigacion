@@ -111,7 +111,7 @@ actor de la **voz original en inglés**.
 | **Powder (Jinx niña)** | Vergüenza / culpa | 1×03, ídem | 38:00 | ✅ vista: primer plano muy cerrado, ojos llorosos mirando hacia arriba, hombros encogidos, pelo tapándole la cara — justo después de que Silco llega (con un resplandor azul detrás) tras la explosión que mató a Mylo y Claggor; momentos después él la consuela y le pone el nombre «Jinx» ([Silco · Arcane Wiki](https://arcane.fandom.com/wiki/Silco): «al conocer a Powder... termina sintiendo empatía por ella y la consuela»). [Internet Archive, `?t=2280`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2280) |
 | **Vi** | Alegría | 1×08 «Oil and Water» | 14:16 | ✅ vista: tumbada en la cama de Caitlyn tras pasar la noche juntas, cabeza echada hacia atrás, boca abierta en una risa genuina, aro en la nariz, pelo suelto — la escena que confirma la relación Vi/Caitlyn. [Internet Archive, `?t=856`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=856) |
 | **Vi** | Vergüenza / fuera de lugar | 1×08 «Oil and Water», ídem | 13:40 | ✅ vista: bocabajo sobre la cama de sábanas verdes de seda de la mansión Kiramman, cara escondida de lado contra su propio antebrazo vendado, mirada baja — el contraste entre sus vendajes/tatuajes de Zaun y el lujo de Piltóver, justo antes de la escena de arriba. [Internet Archive, `?t=820`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=820) |
-| Jinx (adulta) | Alegría | — | — | ⚠️ no encontré: miré 1×09 min 19:00-23:00 (pelea con Sevika) y no es Jinx, es Sevika con guantelete morado — me confundí de personaje por el pelo oscuro; no me alcanzó el tiempo para localizar la escena de júbilo caótico de Jinx («Get Jinxed»/1×09) con minuto real. |
+| **Jinx** (adulta) | Alegría | 2×04 «Paint The Town Blue» | 6:10 | ✅ vista: sonrisa cómplice y traviesa, dientes a la vista, mirando de lado a **Isha** (a quien le acaba de poner unas orejas de conejo a juego con sus «bichos») en su escondite lleno de guirnaldas, bolas de espejo diminutas y luces de colores — la escena «Jinxers» que ya citaba `biblia.md` §18 (montaje de pelo azul + Jinx e Isha pintando), aquí con fotograma propio. [Internet Archive, `?t=370`](https://archive.org/download/arcane-season-2-60fps/ep%204.mp4?t=370) |
 | **Jayce** | Vergüenza / humillación pública | 1×02 «Some Mysteries Are Better Left Unsolved» | 14:48 | ✅ vista: juicio ante el Consejo por su hextech sin permiso (un niño hizo explotar un cristal robado en su taller); Jayce está solo, diminuto, de pie en un círculo de luz en medio de la cámara del Consejo, todos mirándolo desde arriba — la Consejera Kiramman le da la espalda y él termina expulsado de la Academia («su castigo fue peor que la muerte», [Jayce Talis · Arcane Wiki](https://arcane.fandom.com/wiki/Jayce_Talis)) · fotograma propio, Internet Archive [`?t=888`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=888) |
 | **Jayce** | Alegría / orgullo | 1×04 «Happy Progress Day!» | 26:32 | ✅ vista: primer plano en el discurso del Día del Progreso, cejas arriba, boca abierta a media sonrisa hablando con energía ante el público que aplaude y los fuegos artificiales (ver también `partes/video.md` §2 y §14, min 24:20-26:30) · fotograma propio, Internet Archive [`?t=1592`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1592) |
 | **Viktor** | Alegría / ilusión | 1×03 «The Base Violence Necessary for Change» | 17:30 | ✅ vista: junto a Jayce en el taller, cuaderno en mano, sonrisa leve y cejas relajadas mirando el primer experimento conjunto (un pequeño arco eléctrico azul) — escena justo después de que Viktor convence a Jayce de seguir investigando tras su expulsión («cuando vayas a cambiar el mundo, no pidas permiso», [Viktor · Arcane Wiki](https://arcane.fandom.com/wiki/Viktor)) · fotograma propio, Internet Archive [`?t=1050`](https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1050) |
@@ -126,16 +126,20 @@ actor de la **voz original en inglés**.
   huecos sueltos (miedo/tristeza/vergüenza de Viktor, alegría/rabia de
   Caitlyn y Ekko, tristeza/miedo/vergüenza de Silco) que no son obligatorios
   para esta tanda — no se pidieron explícitamente en el «Sigue» anterior.
-- De **Vi** y **Jinx** conseguí la vergüenza de Jinx-niña (arriba) y, en esta
-  tanda, **alegría y vergüenza de Vi adulta** (1×08, min 14:16 y 13:40: la
-  misma escena en la mansión Kiramman, antes y después de pasar la noche con
-  Caitlyn). Sigue faltando sólo **alegría de Jinx adulta** — la escena ya
-  está identificada (§18 de `biblia.md`, montaje «Jinxers» de 2×04 «Paint the
-  Town Blue»), falta el fotograma propio con minuto (ver Bitácora).
-- Los vídeos usados (1×01, 1×02, 1×03, 1×04, 1×07, 1×08, 1×09, 1080p) están
-  en `/tmp/claude-0/trabajo/17-arcane-voz/e0N.mp4`: el siguiente que los
-  necesite no tiene que volver a bajarlos. El de 1×03 también sigue en
-  `/tmp/claude-0/trabajo/17-arcane-video/`.
+- De **Vi** y **Jinx** conseguí lo que faltaba: la vergüenza de Jinx-niña (de
+  la tanda anterior) y, en esta tanda, **alegría y vergüenza de Vi adulta**
+  (1×08 «Oil and Water», min 14:16 y 13:40 — la misma escena en la mansión
+  Kiramman, antes y después de pasar la noche con Caitlyn) y **alegría de
+  Jinx adulta** (2×04 «Paint the Town Blue», min 6:10, con Isha). Con esto
+  quedan cubiertas las 5 emociones pedidas para Vi y Jinx (más la vergüenza de
+  Jinx-niña de la tanda anterior); no quedan huecos obligatorios del punto 13.
+- Los vídeos usados están en `/tmp/claude-0/…/scratchpad/17-arcane-voz/`
+  (carpeta de trabajo de **esta** tanda; el contenedor se reinició y los
+  `.mp4` de tandas previas ya no estaban, así que volví a bajar 1×05, 1×08 y
+  1×09 de `archive.org/details/arcane-season-1-60fps`, y sumé 2×04 de
+  `archive.org/details/arcane-season-2-60fps` — ninguno estaba bajado antes):
+  `e05.mp4`, `e08.mp4`, `e09.mp4`, `s2e04.mp4`. El siguiente que los necesite
+  no tiene que volver a bajarlos si el contenedor sigue vivo.
 
 ## 20 · Gustos y detalles de cada personaje
 
