@@ -252,3 +252,129 @@ Segunda fuente para el reparto principal: [anuncio de Crunchyroll del 29-ene-202
 - **Ambiente**: los openings son rock rápido de autor (syudou, Keina Suda); el gag suena a tema de época.
 - ⚠️ No se encontró qué tema suena en las escenas emotivas ni una lista de efectos de sonido u onomatopeyas con minuto. [MusicBrainz](https://musicbrainz.org) no dio nada de la serie y [AnimeThemes](https://api.animethemes.moe) respondió error 522 todas las veces.
 
+## 10 · Vídeos
+
+**Tráileres oficiales mirados enteros** (con minutos en el punto 2):
+- T1 en español: [Dailymotion x908684](https://www.dailymotion.com/video/x908684?t=63), 1:35 · otro tráiler VOSE de 1:45 en [x88q9zt](https://www.dailymotion.com/video/x88q9zt) ✅.
+- T2 en español: [Dailymotion x8r9ybf](https://www.dailymotion.com/video/x8r9ybf?t=27), 1:00 ✅.
+- Clip largo del ep. 24: [Dailymotion x9d51n2](https://www.dailymotion.com/video/x9d51n2?t=255), 6:35 ✅.
+
+**Vídeos oficiales en YouTube** (IDs sacados del HTML de la [página MOVIE oficial](https://tsukimichi.com/1st/movie/)) ✅, pero YouTube bloqueó este servidor (error 429) y no se vieron:
+[CM del anuncio de la T2](https://www.youtube.com/watch?v=WuqnD0LKdGQ) · [PV 2](https://www.youtube.com/watch?v=9KtypYdnDWY) · [PV 1](https://www.youtube.com/watch?v=O7m7Rc6PwfE) · [PV teaser](https://www.youtube.com/watch?v=R2pSRCxaw0o). Los de Dailymotion son esos mismos PV con voz o subtítulos en español.
+
+**Tendencias de TikTok** (página del [hashtag](https://www.tiktok.com/tag/tsukimichimoonlitfantasy) vista en vivo con `navegar.py`):
+- El edit viral del ep. 24: Makoto gana sólo con un arco, con el texto burlón «all he did was shoot a bow» ✅. Coincide con el clip, 4:15-5:15. Más en [edits de la serie](https://www.tiktok.com/discover/tsukimichi-moonlit-fantasy-edits).
+- La cuenta AnimeEchoes repite «Tomoe and Mio put arrogant adventurers in their place» y «shatter the power scales at the Adventurer Guild» ✅. ⚠️ No se localizó el minuto en el anime (escenas del gremio de los primeros episodios).
+- Edits de Makoto: «Bro is so tough», «Makoto's aura» ✅.
+
+**Análisis en YouTube**: abundan reseñas en inglés («This Is What Peak Isekai Looks Like!», «Anime Review: Tsukimichi Moonlit Fantasy»). Ejemplo: [Wi5k6q5ZKPg](https://www.youtube.com/watch?v=Wi5k6q5ZKPg) ⚠️ (no se pudo ver: 429).
+
+**Dónde se ve** (enlaces de AniList): [Crunchyroll](https://crunchyroll.com/series/GZJH3D719/tsukimichi-moonlit-fantasy-), [lista de YouTube](https://www.youtube.com/playlist?list=PLxSscENEp7Jjz3JEX5tSOiRFK59VGimN5), [Bilibili (China)](https://www.bilibili.com/bangumi/media/md28234623), [Bilibili TV](https://www.bilibili.tv/en/media/1010573), [Max](https://www.max.com/shows/1e81c647-5190-47a9-9a91-aea5224086b1), [Hulu](https://www.hulu.com/series/ccb93d4e-d865-444f-9054-115aadf95e0f).
+
+**3.ª temporada**: anunciada al acabar la T2, sin fecha ni tráiler en [Wikipedia](https://en.wikipedia.org/wiki/Tsukimichi:_Moonlit_Fantasy) ✅. [ComicBook](https://comicbook.com/anime/news/tsukimichi-season-3-moonlit-fantasy/) y otros medios la sitúan en 2026 ⚠️.
+
+## 11 · Videojuegos
+
+- ***TSUKIMICHI -Moonlit Fantasy-: Peace Chronicles***. RPG por turnos de navegador y móvil, gratis con gacha, de G123. Salió el 3-abr-2024. Más de 50 héroes, Tomoe y Mio incluidas, con arte del anime ✅ ([G123](https://g123.jp/game/tsukimichi?lang=en), [nota de prensa en ANN](https://www.animenewsnetwork.com/press-release/2024-04-03/celebrating-the-launch-of-tsukimichi-moonlit-fantasy-peace-chronicles/.209505), [MobyGames](https://www.mobygames.com/game/225293/tsukimichi-moonlit-fantasy-peace-chronicles/)).
+- Cruce con *The Unwanted Undead Adventurer* como evento del gacha ⚠️ (una guía de códigos de LDPlayer, 2025).
+- **Interfaz**: ⚠️ sin captura. El juego pide cuenta. Se describe como caja rectangular abajo, nombre en negrita encima, paleta azul marino, oro y negro con lunas crecientes (inferido de lo promocional).
+- **No hay juego de consola ni de PC**: la búsqueda en [Steam](https://store.steampowered.com) no dio nada ✅. Por eso no aplica The Cutting Room Floor.
+
+## 12 · Lo que el fandom ama y qué NO hacer
+
+**Lo que ama**
+- **Odiar a la Diosa.** Está fichada como «Hate Sink» (personaje hecho para odiarlo con gusto): vanidosa, juzga por la belleza, cobarde cuando alguien la iguala ✅ ([Hate Sink Wiki](https://hate-sink.fandom.com/wiki/The_Goddess_(TSUKIMICHI_-Moonlit_Fantasy-)) y [Villains Wiki](https://villains.fandom.com/wiki/The_Goddess_(TSUKIMICHI_-Moonlit_Fantasy-))). [Su arte](https://static.wikia.nocookie.net/hate-sink/images/0/0e/Goddess_Moonlit_Fantasy.png), 450×750.
+- **Makoto y su mala suerte.** Narra con ironía «esto me pasa siempre» (ep. 1, 0:01) ✅.
+- **El «sólo disparó una flecha».** Makoto humilla a la más fuerte con un arco (ep. 24) ✅.
+- **Tomoe y Mio poniendo en su sitio a aventureros arrogantes** en el gremio (edits de TikTok) ✅.
+- **La pelea Tomoe contra Mio** por la atención de Makoto ⚠️ (de sus fichas; no se halló recopilación de memes).
+
+**Qué NO hacer** (lo notaría un fan)
+- No pintar a Makoto seguro y heroico desde el principio. Su gracia es que se ve perdedor aunque tenga un país.
+- No poner a la Diosa simpática ni «graciosa sin más». Se la quiere odiar.
+- No confundir a Tomoe y Mio. Tomoe es la formal y samurái. Mio es la instintiva y posesiva.
+- No dibujar a Tomoe dragona como un dragón occidental con alas de murciélago. Es un dragón oriental, largo, de estética japonesa.
+- No dar a Makoto la katana como arma principal. Su arma es el **arco** (algún arte promocional lo muestra con espada ⚠️).
+- No usar el chibi fuera de gags o del ending: el anime normal no es chibi.
+
+## 13 · Cada personaje a fondo
+
+Visto en los episodios 1 y 2 en latino y cruzado con la [wiki de la obra](https://tsukimichi.fandom.com/wiki/Makoto_Misumi) y AniList.
+
+### Makoto Misumi · el «perdedor» que acaba señor de un país
+- **Carácter**: honesto, humilde, considerado. Se subestima: en el instituto sólo destacaba en tiro con arco. Muy unido a su familia, sobre todo a sus hermanas. Lento para notar que le gusta a alguien. Odia el abuso. Cuando alguien de los suyos corre peligro se vuelve frío y da miedo ✅.
+- **Miedo**: perder su humanidad. Tras matar por primera vez le asusta sentir tan poca culpa, y teme que los pactos lo hayan cambiado ✅.
+- **Le importa**: su gente de Asora, enseñar en la academia, el arco para calmarse.
+- **Qué transmite**: al principio ternura y vergüenza ajena (un chico solo en un páramo hablando consigo mismo). Después, el gusto del desquite: el despreciado construye su propio país.
+- **Arco**: la Diosa lo echa por feo (ep. 1, 5:00) → tres días solo (ep. 1, 8:00) → pacto con Tomoe (ep. 1, 20:00) → doma a la Araña Negra (ep. 2, 18:00) → funda la Compañía Kuzunoha → profesor en la Academia de Rotsgard → revela su nombre ante Sofia (ep. 24, 3:10).
+- **Cómo se expresa**: ironía seca en la voz en off. Explica con paciencia y orden. Saluda formal y algo torpe. Casi nunca grita, salvo peleando («¡Maldita!», ep. 2, 18:23).
+- **Cuerpo**: hombros caídos y sonrisa nerviosa, mano en la nuca, cuando está incómodo. Recto y quieto cuando amenaza en serio.
+- **Dinámicas**: Tomoe lo trata de señor pero le toma el pelo. Mio es posesiva y celosa de Tomoe. Con Shiki es maestro e investigador.
+
+### Tomoe · la dragona invencible que se aburría
+- **Carácter**: antes, una Gran Dragona invicta y aburrida que dormía en su cueva. Al ver los recuerdos de Makoto se obsesiona con los samuráis, el Japón de Edo, el teatro histórico y los libros. Confiada, juguetona, burlona. Muy perspicaz: adivina intenciones políticas. Consejera de Makoto y «hermana mayor» que regaña a Mio y a Shiki ✅ ([wiki](https://tsukimichi.fandom.com/wiki/Tomoe)).
+- **Arco**: dormida en su cueva → se presenta como «Shin» y prueba a Makoto → pelea en su forma de dragona (ep. 1, 16:03-16:38, ruge y escupe fuego) → pacto (ep. 1, 20:00) → consejera; en la novela, su pareja.
+- **Cómo se expresa**: habla como en un dorama de samuráis, formal, «mi señor». Ríe nerviosa cuando Makoto la sorprende. Guiña y bromea («Prefiero que me llames samurái», ep. 1, 22:00).
+- **Dinámicas**: rivalidad fuerte y cariñosa con Mio; se pelean y se cuidan.
+
+### Mio · la Araña Negra de la Calamidad que sólo quería comer
+- **Carácter**: antes, una bestia sin conciencia que lo devoraba todo, hasta objetos históricos. Tras el pacto, fiel hasta el extremo: mata sin dudar a quien amenace a Makoto. Aprende rápido a cocinar y a comportarse. Sensible a los halagos. Inocente con el romance: se sonroja por tomarse de la mano ✅ ([wiki](https://tsukimichi.fandom.com/wiki/Mio); AniList: «leal a Makoto hasta un nivel peligroso»).
+- **Arco**: ataca poblados → la atrae la sangre de Makoto → él la enfrenta y a ella le gusta la pelea → recupera la cordura, se enamora → sirvienta y cocinera. Forma humana y nombre en el ep. 3.
+- **Cómo se expresa**: como araña, gruñidos y siseos. Como humana, tímida pero directa cuando algo le importa.
+- **Dinámica clave**: la rivalidad con Tomoe por Makoto.
+
+### Secundarios queridos (ficha corta)
+- **Shiki**: liche e investigador de magia. Tranquilo y analítico. Ayudante en la academia. 3.º en las dos encuestas.
+- **Eris y Aqua**: ogras de la Kuzunoha, dúo cómico de comerciantes.
+- **Sofia Bulga**: la aventurera más fuerte antes de Tomoe y Mio. Rango SSS por matar a un dragón. Orgullosa pero noble.
+- **Tsukuyomi**: dios de la Luna de la Tierra. Envía a Makoto y lo bendice. Humilde; ayuda «hasta donde cree que debe».
+- **La Diosa**: antagonista. Hate sink (punto 12).
+
+### Su cara en cada emoción (fotogramas del doblaje latino, ±2 s)
+
+| Personaje | Emoción | Dónde | Qué se ve |
+|---|---|---|---|
+| Makoto | Alegría | ep. 1, 11:57 | Sonrisa tímida, se rasca la nuca |
+| Makoto | Vergüenza | ep. 1, 4:58 | Risa forzada ante la Diosa |
+| Makoto | Tristeza | ep. 1, 8:03 | Solo, mirada baja, hablando consigo mismo |
+| Makoto | Miedo | ep. 1, 15:40 | Susto cómico, ojos y boca muy abiertos, gotas de sudor |
+| Makoto | Rabia | ep. 2, 18:23 | Grita «¡Maldita!», ceño fruncido, primer plano |
+| Tomoe dragona | Rabia | ep. 1, 16:30-16:38 | Fauces abiertas, colmillos, escupe fuego |
+| Tomoe «Shin» | Seriedad | ep. 1, 20:01 | Presentación ceremoniosa |
+| Tomoe | Enfado cómico | T1 ep. 2, 20:00 | Marcas de enfado en la cabeza, boca abierta, persigue a Makoto |
+| Tomoe | Picardía | T1 ep. 1, 22:00 | Guiño y sonrisa ladeada |
+| Mio | Serenidad | T1 ep. 3, 23:20 | Recién humana, junto a Tomoe (ending) |
+
+⚠️ Faltan las cinco emociones de Mio y de Tomoe en forma humana. Harían falta episodios más avanzados.
+
+## 14 · Poses analizadas
+
+Todas de vídeo mirado con su minuto.
+
+| Pose | Dónde | Sirve para |
+|---|---|---|
+| Makoto sonríe muy abierto, mano brillante en alto, cielo de estrellas | T1 ep. 1, 5:00 | Animar, aceptar con humor |
+| Makoto de perfil, ojos cerrados, palma extendida invocando | T1 ep. 1, 12:30 | Pensar |
+| Makoto de espaldas, manos abiertas, sorprendido ante una criatura | T1 ep. 1, 15:00 | Sorpresa, alerta |
+| Makoto en la plataforma en llamas, apunta el arco, calmado | ep. 24, 4:15-4:55 | Explicar con acción |
+| Makoto primer plano serio revelando su nombre | ep. 24, 3:10 | Explicar, revelar |
+| Makoto camina de perfil, pensativo | T2 ep. 1 (opening), 1:26-1:34 | Pensar |
+| Makoto se rasca la nuca con sonrisa tímida | T1 ep. 1, 11:57 | Presentar con modestia |
+| Tomoe dragona herida protesta indignada | T1 ep. 1, 20:00 | Regañar en broma |
+| Tomoe sentada en un pico nevado mirando las estrellas | T2 ep. 1 (opening), 1:58 | Pensar, calma |
+| Tomoe sujeta la cara de Makoto con las dos manos | Tráiler T1, 1:03-1:06 | Celebrar, cercanía |
+| Tomoe recién humana, pelo al viento, mano en la cabeza, curiosa | T1 ep. 2, 3:20 | Presentar algo nuevo |
+| Tomoe con hacha al hombro y mano en la cadera, burlona | T1 ep. 2, 10:00 | Explicar con autoridad |
+| Tomoe furiosa persiguiendo a Makoto | T1 ep. 2, 20:00 | Regañar |
+| Tomoe guiña y pide que la llamen samurái | T1 ep. 1, 22:00 | Explicar con humor |
+| Tomoe de brazos cruzados y sonrisa segura, junto a Mio | T1 ep. 1 (opening), 2:00 | Presentar con seguridad |
+| Mio con la mano cerca del cuello del kimono (telaraña en el hombro), seria | T1 ep. 1 (opening), 2:00 | Pensar |
+| Mio araña, ojos amarillos en la oscuridad | T1 ep. 2, 16:40 | Amenaza |
+| Mio recién humana, serena | T1 ep. 3 (ending), 23:20 | Presentar |
+| El trío riendo en el círculo de luna | T1 ep. 3 (ending), 23:30 | Celebrar en grupo |
+| El trío chibi caminando bajo un sol sonriente | T2 ep. 1 (ending), 22:20-23:30 | Celebrar, cierre alegre |
+
+**Para cada uso**: presentar = Tomoe de brazos cruzados (OP 2:00) o Makoto rascándose la nuca · explicar = Tomoe con el hacha (ep. 2, 10:00) · celebrar = trío en el círculo de luna · regañar = Tomoe furiosa (ep. 2, 20:00) · pensar = Tomoe en el pico nevado o Makoto de perfil · animar = Makoto con la mano brillante (ep. 1, 5:00).
+Más poses dibujadas: bocetos CAGallery (punto 1) y el arte del juego de navegador.
+⚠️ Mio tiene sólo tres poses vistas: faltan escenas de la T1 ep. 3 en adelante.
+

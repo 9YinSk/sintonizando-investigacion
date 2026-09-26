@@ -1265,8 +1265,8 @@ en #demos.
 | Cosa | Dónde | Estado |
 |---|---|---|
 | «逃げちゃダメだ» / «No debo huir» | ep. 1, 00:18:33 | ✅ |
-| «Si vas a subir, hazlo ya» → el meme **«Get in the robot, Shinji»** | ep. 1, 00:15:38 | ✅ escena / ⚠️ nombre del meme |
-| **La pose Gendo** (manos juntas delante de la boca) | toda la serie | ⚠️ |
+| «Si vas a subir, hazlo ya» → el meme **«Get in the robot, Shinji»** | ep. 1, 00:15:38 | ✅ escena y ✅ nombre del meme ([Know Your Meme](https://knowyourmeme.com/memes/get-in-the-fucking-robot-shinji), segunda pasada) |
+| **La pose Gendo** (manos juntas delante de la boca) | toda la serie | ✅ ([Know Your Meme](https://knowyourmeme.com/memes/gendo-pose)); fotograma propio ⚠️ |
 | **«おめでとう»**: todos aplauden a Shinji en círculo, **hasta Pen Pen** («クッ クッ クーク！») | ep. 26, 00:21:33 → 00:21:53 | ✅ ([Know Your Meme](https://knowyourmeme.com/memes/subcultures/neon-genesis-evangelion)) |
 | **La sonrisa de Rei** | ep. 6, 00:21:30 | ✅ |
 | «あんたバカ？» | ep. 8, 00:11:02 | ✅ |
@@ -1277,6 +1277,7 @@ en #demos.
 | «Gendowned» | vídeos de fans | ✅ (Know Your Meme) |
 | El **dilema del erizo** | ep. 3, 00:04:53 | ✅ |
 | **«amigo» / «amiga»** del doblaje original; «Evanjelion» | doblaje de 1999 | ✅ (Doblaje Wiki) |
+| **Los monolitos de SEELE** como plantilla de «un jefe da órdenes sin dar la cara» | X/Twitter, Reddit | ⚠️ (uso visto en [X](https://twitter.com/search?q=seele%20meme), una fuente) |
 | Recopilación: [«20 of the best memes… Evangelion»](https://knowyourmeme.com/editorials/collections/20-of-the-best-memes-from-the-world-of-evangelion-to-commemorate-the-beloved-anime) | | |
 
 ### 14.2 Qué NO hacer (lo que un fan notaría)
@@ -1284,8 +1285,10 @@ en #demos.
 - **Nada de sexualizar a los pilotos.** Tienen **14 años** (lo dicen en la
   serie: «14歳の子どもたちに 委ねざるを得ないのよ», ep. 4, 00:08:27 ✅). Nada
   de poses de *fanservice* con los trajes de conector.
-- **Las Eva no son robots** ⚠️: el fandom insiste en que son seres vivos con
-  armadura. No las dibujes como mecha brillante de juguete.
+- **Las Eva no son robots** ✅ (segunda pasada: EvaWiki, Punto 25): son
+  seres vivos clonados, con un alma humana dentro, sangre y dolor. No las
+  dibujes como mecha brillante de juguete, **ni las llames «robots» en el
+  texto del canal**.
 - **No mezclar la serie con las *Rebuild*** sin querer: en las películas
   Asuka se apellida **Shikinami** (no Soryu), lleva parche en *3.0* ⚠️ y
   aparece **Mari**, que no existe en la serie.
@@ -1293,6 +1296,12 @@ en #demos.
   Rei no las lleva igual. No se las cambies.
 - **Rei no grita ni se ríe a carcajadas. Gendo no sonríe con calidez.
   Kaworu no se enfada.**
+- **No pongas a Rei sonriendo todo el rato**: su sonrisa (ep. 6) se
+  recuerda porque es rara.
+- **Kaworu no lleva colores llamativos**: su color es el **gris y el
+  blanco**, discreto.
+- **No lo mezcles con el dibujo moderno**: sombra de un solo tono, sin
+  degradados en la piel ni chibis (Punto 18 y §18.7).
 - **La cartela no va en color** ni con mincho fina (§7.4).
 - **No colores alegres de dibujos infantiles**. Evangelion es verano
   brillante, pero el tono es serio. El rojo de alerta, sólo para alertas.

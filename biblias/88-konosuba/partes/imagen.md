@@ -85,6 +85,44 @@ Pillow para evitar el contorno de línea negra.
 | Darkness | Traje de mucama, ribete rojo | #9A1F16 | `Darkness_Still_Refuses.jpg` |
 | Darkness | Vestido de novia ("Bride Darkness", especial T3) | tonos casi blancos, #F0F2F0 / #E6E7E5 (sin color saturado) | `Bride_Darkness.jpg` |
 
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+Konosuba se mueve en 4 sitios recurrentes; luz y paleta medidas con
+`estilo.py` sobre capturas/arte de la wiki. No encontré una galería de
+fondos de pantalla *oficiales* de Kadokawa/Crunchyroll (buscado
+"Konosuba official wallpaper" y en las webs de streaming); los mejores en
+alta son de fans en Wallhaven, con origen a Pixiv/DeviantArt cuando lo dan.
+
+- **Axel** (ciudad base, de día, luz cálida de mediodía): cielo azul claro
+  #A1DAF3, piedra clara/arena #EEECE6 y #CAB59F, tejados grises #686B6E ·
+  medido en `Axel Main Church.jpg` (1820×1480, wiki) · ✅
+- **Aldea de los Demonios Carmesí** (Crimson Demon Village, pueblo natal de
+  Megumin, atardecer/ocaso dorado): naranja quemado #7E3C0F, dorado #EEC96E
+  y #A77A17, tejas rojizas #A24F2C · saturación muy alta (63%), es la paleta
+  más cálida de las cuatro · medido en `Crimson Demon Village Buildings.png`
+  (2048×1310, wiki) · ✅
+- **Tienda de Wiz** (interior, penumbra, iluminación de velas/antorcha):
+  marrones muy oscuros #40342F y #221B1B, madera #644A3D, un acento crema
+  cálido #EFE3C0 (el único punto de luz) · brillo medio-bajo (51%, el más
+  oscuro de los cuatro sitios) · medido en `Wiz Shop Interior.png`
+  (2048×1310, wiki) · ✅
+- **Castillo Real / Reino de Belzerg** (Royal Castle, piedra y vidrieras,
+  luz fría de interior): azul grisáceo #6091B2 y #507A8E, verde piedra
+  #89AC97, crema #E4E3CE · medido en `Royal Castle.jpg` (1920×1080, wiki) · ✅
+
+**Fondos de pantalla de fans en alta (Wallhaven, sólo aptos, 1920×1080+)**:
+
+| Resolución | ♥ | Enlace | Personaje/escena | Origen/autor |
+|---|---|---|---|---|
+| 4096×2542 | 215 | https://w.wallhaven.cc/full/73/wallhaven-7312je.jpg | Crossover *Isekai Quartet* (Aqua + otros isekai) | twitter.com/isekai_quartet |
+| 2793×4000 | 192 | https://w.wallhaven.cc/full/l3/wallhaven-l3g8w2.jpg | Darkness con kimono | deviantart.com/zarory "Kimono Darkness" |
+| 3440×1440 | 172 | https://w.wallhaven.cc/full/1p/wallhaven-1pzkk3.png | Crossover con *Frieren* y *Delicious in Dungeon* (ultra-panorámico) | pixiv.net/artworks/121786919 |
+| 1920×1080 | 453 | https://w.wallhaven.cc/full/k9/wallhaven-k9l3jd.png | Megumin, bruja, el más guardado de todos | wall.alphacoders.com |
+| 2339×3508 | 273 | https://w.wallhaven.cc/full/r2/wallhaven-r2xxvw.jpg | Megumin, formato vertical (sirve para móvil) | pixiv.net/en/artworks/79735954 |
+
+✅ (Wallhaven, tamaños y corazones tomados directo de la API; todas confirmadas
+"sólo aptas"/SFW). Lista completa de 15 en `datos-imagen.md` e `imagen.json`.
+
 Notas de peinado y accesorios (visual, de las mismas hojas de modelo):
 - Kazuma: pelo castaño corto despeinado, cinturón marrón con hebilla, katana envainada al cinto · ✅ (visto en `Kazuma_Satou_3rd.png`)
 - Aqua: coleta alta con anillo/esfera azul, medias hasta el muslo, lanza-báculo con gema rosa · ✅
