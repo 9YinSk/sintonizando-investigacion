@@ -2079,7 +2079,7 @@ Las casillas con «—» son datos que **no se encontraron** en las fichas.
 **8 Primetime Emmy**, **1 Peabody**, **3 Annie**, **2 British Academy
 Children's Awards**, un Motion Picture Sound Editors Award y un premio
 *Kerrang!* ([Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time)).
-«**Simon & Marcy**» (4×24) fue nominado al Emmy en 2013; el final, «**Come
+«**Simon & Marcy**» (5×14) fue nominado al Emmy en 2013; el final, «**Come
 Along With Me**», al Emmy Creative Arts en 2019
 ([Wikipedia: Ice King](https://en.wikipedia.org/wiki/Ice_King),
 [Come Along with Me](https://en.wikipedia.org/wiki/Come_Along_with_Me_(Adventure_Time))).
@@ -2118,7 +2118,7 @@ Along With Me**», al Emmy Creative Arts en 2019
 | Escena | Qué pasa y por qué duele | Música | Cómo está dibujada | Cómo reaccionó la gente |
 |---|---|---|---|---|
 | **«I Remember You»** (4×25, ≈8:49 en el episodio) | Marceline le canta a Simon **la carta que él le escribió** cuando aún era humano y se volvía loco por la corona. Él no la recuerda | «Remember You» / «Recordándote»: **omnichord y batería** del Rey Helado, bajo de ella | visto en el clip: **casa rosa, luz plana**; primer plano con **una lágrima**; plano detalle de una **Polaroid** de ella niña; **flashback entre ruinas** con Hambo ([clip](https://www.dailymotion.com/video/xzt1l7?t=96)) ✅ | *io9*: «una de las cosas más intensas que he visto en años»; se tiene por el giro de la serie en salud mental ✅ |
-| **«Simon & Marcy»** (4×24) | Simon cuida a Marcy niña en el apocalipsis mientras pierde la cabeza | ⚠️ no consta | hoja 9 **#417-422** (ruinas, puente, moto) | nominado al Emmy; en los «10 mejores episodios» de *Geek.com* ✅ |
+| **«Simon & Marcy»** (5×14, como lo numeran la wiki y §8; la parte de voz lo daba como 4×24 ⚠️) | Simon cuida a Marcy niña en el apocalipsis mientras pierde la cabeza | ⚠️ no consta | hoja 9 **#417-422** (ruinas, puente) y hoja 1 **#35** (moto) | nominado al Emmy; en los «10 mejores episodios» de *Geek.com* ✅ |
 | **«Come Along With Me» / «Ven Conmigo»** (10×13) | el final: despedida de todo Ooo | «Come Along With Me» (Ashley Eriksson); «Time Adventure» | ⚠️ sin clip | crítica: «desgarrador», «extraño y triste y tonto y divertido». Reddit, r/adventuretime: «**I definitely cried on the last episode and my mom thought I was faking**» (**1186 puntos**) y «Just cried when finishing the last episode» (167) ✅ ([Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=adventuretime&title=cried&limit=15&sort=desc)) |
 | **«Obsidian»** (2020) | Marceline y la Princesa, por fin juntas y felices; ella canta «Monster» | «Monster» | tráiler visto: violetas y cian, luz de atardecer al final ✅ | nominación GLAAD; «por fin, felices juntas» ✅ |
 
@@ -2172,13 +2172,123 @@ comprobar** ⚠️. Se citan con lo que sí se vio (título, canal, tema).
 
 ## F · Colaboraciones, figuras y cosplay (punto 23)
 
-_(pendiente)_
+Fuente principal: la página **«References in other media»** de la wiki,
+leída entera por su API, contrastada con prensa para fechas y precios.
+
+### F.1 Videojuegos con personajes o pieles oficiales
+
+- **Fortnite** ✅: Finn, Jake, Dulce Princesa y Marceline como **skins**
+  (1500 V-Bucks cada uno, 3800 el lote), actualización **v34.30, abril de
+  2025** ([ScreenRant](https://screenrant.com/fortnite-adventure-time-skins/),
+  [Sportskeeda](https://www.sportskeeda.com/fortnite/how-get-finn-jake-princess-bubblegum-marceline-adventure-time-skins-fortnite)).
+  **Toca el objeto del plan**: el **«Marcy's Ax Bass»** es pico **y
+  también instrumento tocable en Fortnite Festival** («A family heirloom
+  converted into a wicked bass guitar»), junto a un *keytar* de la
+  Princesa y el «Candy Axe» ([Fortnite.gg](https://fortnite.gg/cosmetics?id=17683)).
+  Mochilas: Chicle Espacial, BMO, Hambo. Segunda tanda (Fionna, Cake,
+  Conde Limongrab, Rey Helado) el **15-ene-2026** ✅.
+- **MultiVersus** ✅: Finn, Jake y un Guardia Banana jugables desde 2024;
+  **Marceline** llegó el **20-dic-2024** (temporada 4)
+  ([GameRant](https://gamerant.com/multiversus-marceline-adventure-time-release-date-price/)).
+  El mapa «Tree Fort» es la casa del árbol. **Cerró sus servidores el
+  30-may-2025** ⚠️ (sólo quedan vídeos).
+- **LEGO Dimensions** (2016) ✅: *Level Pack* con Finn, *Team Pack* con
+  Jake y la Princesa Grumosa (27-sep-2016) y ***Fun Pack* con Marceline**
+  (18-nov-2016).
+- **Minecraft** ✅: el logro «**Adventuring Time!**» (visitar todos los
+  biomas) y el **«Adventure Time Mash-up Pack»** (mapa de Ooo, texturas y
+  skins, **30-may-2017**); ese julio, el episodio cruzado «Diamonds and
+  Lemons».
+- **Brawlhalla** ✅: Finn, Jake y la Princesa como skins, más mapa y efecto
+  de K.O. ([nota oficial](https://www.brawlhalla.com/news/what-time-is-it-adventure-time-in-valhalla-patch-3-44/)).
+- **Xbox Live** (2012) ✅: 30 prendas para el avatar, con la corona del Rey
+  Helado y **el bajo-hacha de Marceline**, de 1 a 4 dólares
+  ([Polygon](https://www.polygon.com/2012/10/9/3480640/adventure-time-avatar-items-xbox-live)).
+- Guiños ⚠️ (sólo la wiki): el baile de **Jinx** en *League of Legends*
+  copia el que Jake le enseña a un escarabajo («Power Animal»); la skin
+  «Galaxy Slayer Zed» cita casi igual al Lich; en *Skullgirls*, **Filia**
+  recuerda a **Fionna**.
+
+### F.2 Figuras oficiales (su pose es referencia 3D) ✅
+
+- **Funko Pop! Marceline #31** (botas marrones) y **#301 con guitarra**
+  (exclusivo de Hot Topic): **la referencia 3D más directa de Marceline
+  tocando** ([#31](https://www.tcgplayer.com/product/135801/funko-pop-vinyl-adventure-time-marceline),
+  [#301](https://www.tcgplayer.com/product/135786/funko-pop-vinyl-adventure-time-marceline-with-guitar)).
+- **Funko Adventure Time × Minecraft**, Marceline, ligada al mash-up
+  ([BoxLunch](https://www.boxlunch.com/product/funko-pop-adventure-time-x-minecraft-marceline-vinyl-figure/11442336.html)).
+- LEGO Dimensions *Fun Pack* de Marceline (arriba).
+
+### F.3 Cosplay y réplicas con materiales reales ✅
+
+Para dar **volumen de verdad** al bajo en Blender:
+- **MDF de ¼" y espuma aislante de ½"** a los dos lados, pegada con
+  espray y lijada ([2StoryProps](http://2storyprops.blogspot.com/2013/03/marcelines-axe-bass-adventure-time.html)).
+- Cuerpo de **pino** cortado con plantilla y mástil de **dos tablas de
+  2×3"** atornilladas, paso a paso en
+  [The RPF](https://www.therpf.com/forums/threads/marcelines-axe-bass-build-from-adventure-time.221761/),
+  el foro de referencia de réplicas.
+- Versión ligera, no tocable: **cartón piedra y goma EVA**, cuerdas de
+  alambre de colgar cuadros ([Nerd Caliber](https://www.nerdcaliber.com/making-good-cosplay-great-marcelines-guitar-a-tutorial/),
+  [Cosplay Sass](https://cosplaysass.wordpress.com/2019/02/20/marceline-axe/)).
+- Réplica **tocable** en DeviantArt (kazesamurai1000, §3.5).
+
+### F.4 Otros cruces ✅
+
+- ***MAD Magazine* #520**: portada con Finn como Alfred E. Neuman.
+- **Gaia Online** (2012): objetos virtuales y un evento en vivo con
+  Pendleton Ward (22-mar-2012).
+- Cameos en ***Steven Universe*** («Sadie's Song», un peluche que parece
+  Gunter) y ***OK K.O.!*** (Finn y Jake en «Crossover Nexus»).
+- **Cómic «Marceline and the Scream Queens»**: la banda de gira (§3.6).
+- **Moda**: **no encontré** una colaboración de diseño con Vans, OPI o
+  Uniqlo; sólo ropa con licencia en Hot Topic ⚠️. No se da por
+  colaboración.
+- Cafés temáticos o eventos en Latinoamérica: **no se buscaron** ⚠️.
 
 ---
 
 ## G · Obras parecidas y temas relacionados (punto 24)
 
-_(pendiente)_
+### G.1 La familia de *Flapjack* ✅
+
+**The Marvelous Misadventures of Flapjack** (Cartoon Network, 2008-2010)
+es el semillero: Pendleton Ward fue guionista y *storyboarder* allí antes
+de crear Hora de aventura ([SlashFilm](https://www.slashfilm.com/1581694/flapjack-cartoon-network-disney-nickelodeon-descendants/),
+[Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time)). Del mismo
+equipo salieron series de tono parecido (fantasía, humor y emoción):
+- **Gravity Falls** (Alex Hirsch, *storyboarder* en Flapjack).
+- **Over the Garden Wall** (Patrick McHale, *storyboarder* en Flapjack y
+  **director creativo de Hora de aventura hasta la T2**).
+- **Steven Universe** (Rebecca Sugar, *storyboarder* en Flapjack y luego
+  guionista aquí; autora de las canciones de Marceline, §11).
+- **Regular Show** (J. G. Quintel, director creativo de las 2 primeras
+  temporadas).
+
+### G.2 Influencias que reconoce Ward
+
+- **Dungeons & Dragons**: «Writing for the show is a lot like playing
+  DnD... I get all my dungeon crawls out in writing the show» ⚠️ (una
+  fuente, cita directa: [The Mary Sue](https://www.themarysue.com/pendleton-ward-interview/)).
+- **Hayao Miyazaki / *Mi vecino Totoro*** para los momentos bonitos en
+  medio del humor; ***Home Movies*** y ***Dr. Katz*** por el diálogo
+  relajado ⚠️ (Wikipedia, sin la entrevista original).
+- Fred Seibert: **Felix the Cat** y **Max Fleischer** (§A.1) ⚠️.
+- Las cartelas: novela *pulp*, D&D, Frank Frazetta, cine de artes
+  marciales de los 70 (§3.2) ✅.
+
+### G.3 Otras láminas del servidor que se le parecen
+
+- **64 · Steven Universe**: misma autora de canciones y mismo aire;
+  sólo tiene `partes/` por ahora. **No repetir** «personaje cantando con
+  su instrumento» si su lámina va por ahí.
+- **13 · Rick y Morty**: su biblia ya avisa de no repetir el «personaje
+  dentro de una pantalla» del concepto C de esta (BMO).
+- **57 · Coco**: también de música; marca #musica-nueva como **tomado por
+  Hora de aventura** y usa otro canal.
+- **09 · Mafalda**: su lámina de #sugerencias manda las peticiones de
+  artistas a #musica-nueva. Si las dos se hacen, que el texto
+  «pídelo en sugerencias» de aquí (§0) y el suyo casen.
 
 ---
 

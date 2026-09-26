@@ -1,0 +1,200 @@
+[
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/f/fa/SpongeBob-Main-Characters-sheet-color.jpg/revision/latest?cb=20260405224319",
+    "fuente": "Encyclopedia SpongeBobia (Fandom) — hoja de modelo oficial de Nickelodeon Animation Studio",
+    "ancho": 2200,
+    "alto": 2200,
+    "que_es": "Turnaround a color de los 10 personajes principales (2 páginas): Arenita, Gary, Bob, Patricio, Calamardo, Don Cangrejo, Sra. Puff, Perla",
+    "para_que": "Referencia de vestuario y proporciones; hex de Don Cangrejo, Calamardo y Patricio medidos aquí con estilo.py",
+    "licencia": "Copyright Nickelodeon Animation Studio, uso de referencia (material de producción filtrado/compartido por la wiki)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/8/8c/SpongeBob-character-model-colors-Pantone.jpg/revision/latest?cb=20210313185736",
+    "fuente": "Encyclopedia SpongeBobia (Fandom)",
+    "ancho": 800,
+    "alto": 1100,
+    "que_es": "Ficha oficial de colores de producción (Pantone y CMYK) de Bob, Arenita y Sra. Puff",
+    "para_que": "Colores exactos de vestuario y piel de Bob, sin aproximar",
+    "licencia": "Copyright Nickelodeon Animation Studio, uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/9/9a/Season_1_Complete_Model_Pack.png/revision/latest?cb=20190218054312",
+    "fuente": "Encyclopedia SpongeBobia (Fandom), página Main Model Pack",
+    "ancho": 909,
+    "alto": 532,
+    "que_es": "Foto real del cuaderno físico Main Model Pack abierto en la mesa de un animador, con las siluetas en color de temporada 1",
+    "para_que": "Mostrar cómo se hacía el arte de producción original; contexto para el punto 18 (técnica)",
+    "licencia": "Copyright Nickelodeon Animation Studio, uso de referencia"
+  },
+  {
+    "url": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/25_anniversary_jellyfish_final-1280.jpg",
+    "fuente": "Animation World Network (AWN), previsualización oficial de Nickelodeon",
+    "ancho": 620,
+    "alto": 413,
+    "que_es": "Key art del 25.º aniversario: los 6 principales cazando medusas con redes, Arenita con traje espacial, número 25 en medusas",
+    "para_que": "Pose de grupo en acción con objeto en mano (red); paleta de fondo turquesa/coral morado",
+    "licencia": "Copyright Nickelodeon/Paramount, uso de referencia (arte de prensa oficial)"
+  },
+  {
+    "url": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1062874-25anniversarybubblefinalforpressonly-1280.jpg",
+    "fuente": "Animation World Network (AWN) / Nickelodeon Press",
+    "ancho": 620,
+    "alto": 652,
+    "que_es": "Key art del 25.º aniversario: grupo mirando a cámara bajo una burbuja con forma de flor que dibuja el 25",
+    "para_que": "Pose de grupo 'presentando', ideal como referencia directa para un concepto de lámina",
+    "licencia": "Copyright Nickelodeon/Paramount, uso de referencia (arte de prensa oficial)"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/2/22/Sheldon_Plankton.svg/revision/latest?cb=20191117042039",
+    "fuente": "Encyclopedia SpongeBobia (Fandom)",
+    "ancho": 600,
+    "alto": 600,
+    "que_es": "Vector SVG oficial de Plankton con los hex exactos en el propio código",
+    "para_que": "Colores de piel/exoesqueleto de Plankton sin aproximar (reemplaza la paleta de fans)",
+    "licencia": "Copyright Nickelodeon, uso de referencia; vector redistribuido por la wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/4/46/SVG_SpongeBob_SquarePants.svg/revision/latest?cb=20181117230211",
+    "fuente": "Encyclopedia SpongeBobia (Fandom)",
+    "ancho": 600,
+    "alto": 600,
+    "que_es": "Vector SVG oficial del logo de la serie",
+    "para_que": "Hex exactos del logo (#FFF463, #B2B618, #EF5240, #B26E2D) para tipografía y branding del canal",
+    "licencia": "Copyright Nickelodeon/Viacom, uso de referencia; vector redistribuido por la wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/8/89/Krusty_Krab_logo.jpg/revision/latest?cb=20171102014937",
+    "fuente": "Encyclopedia SpongeBobia (Fandom)",
+    "ancho": 400,
+    "alto": 300,
+    "que_es": "Logo oficial del restaurante El Crustáceo Cascarudo",
+    "para_que": "Textura/emblema para el objeto del canal (caja registradora, cartel)",
+    "licencia": "Copyright Nickelodeon, uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/f/f1/SpongeBob-Karen-Chum-Bucket-logo.jpg/revision/latest?cb=20190803170616",
+    "fuente": "Encyclopedia SpongeBobia (Fandom)",
+    "ancho": 800,
+    "alto": 550,
+    "que_es": "Logo oficial del Balde de Carnada (Chum Bucket), con Karen",
+    "para_que": "Referencia de logo/emblema rival, contraste con el del Crustáceo",
+    "licencia": "Copyright Nickelodeon, uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/7/7f/Eugene_Krabs.png/revision/latest?cb=20251118195241",
+    "fuente": "Encyclopedia SpongeBobia (Fandom) — stock art oficial",
+    "ancho": 3000,
+    "alto": 3000,
+    "que_es": "Ilustración oficial de cuerpo entero de Don Cangrejo",
+    "para_que": "Hex de piel/ropa medidos con estilo.py (segunda fuente de color, junto a la hoja de modelo)",
+    "licencia": "Copyright Nickelodeon, uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/4/49/Squidward_unhappy_stock_art.png/revision/latest?cb=20251102234328",
+    "fuente": "Encyclopedia SpongeBobia (Fandom) — stock art oficial",
+    "ancho": 3500,
+    "alto": 3500,
+    "que_es": "Ilustración oficial de cuerpo entero de Calamardo",
+    "para_que": "Hex de piel/camisa medidos con estilo.py (segunda fuente de color)",
+    "licencia": "Copyright Nickelodeon, uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/5/5f/Patrick_stock_art_%28oil_painted%29.png/revision/latest?cb=20220801050245",
+    "fuente": "Encyclopedia SpongeBobia (Fandom) — stock art oficial (pintado al óleo)",
+    "ancho": 2500,
+    "alto": 2500,
+    "que_es": "Ilustración oficial de cuerpo entero de Patricio, estilo pintura",
+    "para_que": "Hex de piel/short medidos con estilo.py (segunda fuente de color)",
+    "licencia": "Copyright Nickelodeon, uso de referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/spongebob/images/6/6b/Spongebob_happy_stock_art_1.octet-stream.png/revision/latest?cb=20260401183834",
+    "fuente": "Encyclopedia SpongeBobia (Fandom) — stock art oficial",
+    "ancho": 4429,
+    "alto": 4368,
+    "que_es": "Ilustración oficial de Bob saltando feliz, brazos arriba",
+    "para_que": "Pose viva de celebración; máxima resolución encontrada en la wiki",
+    "licencia": "Copyright Nickelodeon, uso de referencia"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/dp/wallhaven-dpgdp3.jpg",
+    "fuente": "Wallhaven (ficha https://wallhaven.cc/w/dpgdp3)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de fans de SpongeBob, 188 favoritos",
+    "para_que": "Referencia de fondo de pantalla en alta resolución",
+    "licencia": "Fan art no oficial; uso de referencia, crédito al usuario káká311610 de Wallhaven"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/w8/wallhaven-w86qqp.jpg",
+    "fuente": "Wallhaven (ficha https://wallhaven.cc/w/w86qqp)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla de fans de SpongeBob, 59 favoritos",
+    "para_que": "Referencia de fondo de pantalla en alta resolución",
+    "licencia": "Fan art no oficial; uso de referencia, crédito al usuario felixal de Wallhaven"
+  },
+  {
+    "url": "https://ambientcg.com/get?file=Paper001_2K-JPG.zip",
+    "fuente": "ambientCG (https://ambientcg.com/view?id=Paper001)",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura de papel real, CC0",
+    "para_que": "Equivalente libre del grano de los fondos pintados a mano de la serie",
+    "licencia": "CC0 (dominio público)"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-d7e712d733ae4de69623cd408d68a289",
+    "fuente": "Sketchfab (API v3, licencia confirmada por endpoint /search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de Don Cangrejo, por Yanez Designs",
+    "para_que": "Referencia 3D directa del personaje, licencia libre confirmada",
+    "licencia": "CC Attribution (CC BY 4.0) — crédito: 'Mr Krabs (Spongebob)' por Yanez Designs, Sketchfab"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-6bf2dc6ffc594a8598bcf84f5d0325f1",
+    "fuente": "Sketchfab (API v3, licencia confirmada por endpoint /search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de la Cangreburger (Krabby Patty), por Yanez Designs",
+    "para_que": "Objeto suelto para Blender: la hamburguesa icónica",
+    "licencia": "CC Attribution (CC BY 4.0) — crédito: 'Krabby Patty (Spongebob)' por Yanez Designs, Sketchfab"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-2d19327e22284f7e85ffd444e55bbbc8",
+    "fuente": "Sketchfab (API v3, licencia confirmada por endpoint /search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D del menú del Crustáceo Cascarudo, por Yanez Designs",
+    "para_que": "Objeto para el canal #ofertas-y-gratis: menú con precios como referencia de layout",
+    "licencia": "CC Attribution (CC BY 4.0) — crédito: 'Krusty Krab Menu (Spongebob)' por Yanez Designs, Sketchfab"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-cc79260fc5f44d73b8268f68dfb83a3f",
+    "fuente": "Sketchfab (API v3, licencia confirmada por endpoint /search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D de la caja registradora del Crustáceo, sacado del videojuego Battle for Bikini Bottom: Rehydrated",
+    "para_que": "Referencia directa del objeto del canal (caja registradora)",
+    "licencia": "CC Attribution según Sketchfab, pero el modelo original es de THQ Nordic: mirar, no publicar/vender"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-e109df8b1cb1487dbf2553e5e2d7eff1",
+    "fuente": "Sketchfab (API v3, licencia confirmada por endpoint /search)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo 3D fan-made completo de El Crustáceo Cascarudo (interior y exterior), por Mrlunettes",
+    "para_que": "Referencia de conjunto del edificio para Blender",
+    "licencia": "CC Attribution-NonCommercial (CC BY-NC) — corrige lo que la biblia anterior daba como 'CC BY' sin verificar"
+  },
+  {
+    "url": "https://georgvw.gumroad.com/l/free_procreate_ink_brushes",
+    "fuente": "Gumroad (georgvw)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Set gratuito de 20+ pinceles de entintado para Procreate",
+    "para_que": "Equivalente libre de la pincelada de línea de la serie (comprobar licencia/precio al bajar)",
+    "licencia": "Gratis (comprobar términos exactos en la página al momento de usar)"
+  }
+]

@@ -372,6 +372,8 @@ biblia)
 | 19 · Texturas 2D | ✅ | Sección nueva completa: logos (Crustáceo, Balde de Carnada, serie) con hex; patrón de ropa de Patricio medido; grano de papel CC0 (ambientCG); pinceles de entintado libres; aviso de que no aplican tramas de manga (western/cel-shading) |
 | 23 · Colaboraciones y cruces | ✅ | Sección nueva completa: Fortnite, Vans, Krabby Patty Kollab/Wendy's y Nickelodeon All-Star Brawl 2, todos con dos fuentes; figuras Funko confirmadas; cosplay con crédito y McFarlane Toys dichos como "no encontré" con la búsqueda hecha, no como "no existe" |
 
-Sigue: nada obligatorio pendiente de mis puntos (1, 3, 15, 16, 19, 23). Como
-extra si hay tiempo: reconfirmar la licencia de «The Krusty Krab!» de
-pizzabrian y buscar el autor original del wallpaper de flores.
+Parte terminada: los 6 puntos (1, 3, 15, 16, 19, 23) están cubiertos, sin
+obligatorio pendiente. Extras para otra pasada si hay tiempo (no
+obligatorios, en «No encontré» arriba): reconfirmar la licencia de «The
+Krusty Krab!» de pizzabrian y buscar el autor original del wallpaper de
+flores.
