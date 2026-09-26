@@ -237,10 +237,10 @@ marco de tele falso, 512×288, [Dailymotion x51sid2](https://www.dailymotion.com
 
 ## 3 · Arte oficial y referencias visuales
 
-> [!warning] No hay hojas de contacto
-> `herramientas/investigar_serie.py` no funciona desde aquí: Fandom da 403.
-> Por eso **no hay carpeta `hojas/`**. Las imágenes de abajo las vi yo
-> bajándolas de GitHub al *scratchpad* (no se suben al repositorio).
+> [!note] Ya hay hojas de contacto (segunda pasada)
+> En la primera pasada Fandom daba 403. Ahora `investigar_serie.py` sacó
+> **214 imágenes grandes** de 6 fichas de la wiki en inglés. Las 3 mejores
+> hojas están en `hojas/`; qué número sirve para qué, en **§3.6**.
 
 ### 3.1 Portadas oficiales de videojuegos (arte promocional con poses vivas) ✅ visto
 
