@@ -17,7 +17,8 @@ ahora lleva el lote H.)
 - 122 Little Nightmares: **COMPLETA** y subida (00:01 UTC, 26-sep). ✅25 ⚠️11 ❌0, 208 referencias, 54 webs, 120 minutos, 80 hex, 930 líneas.
 - 124 No Man's Sky: **COMPLETA** y subida (00:21 UTC), ✅20 ⚠️10 ❌0, 120 referencias, 60 webs.
 - 123 Reanimal: **COMPLETA** y subida (01:48 UTC), ✅22 ⚠️8 ❌0, 108 referencias, 45 webs.
-- 125-127 recolectando.
+- 125 Elden Ring: **COMPLETA** y subida (01:54 UTC), ✅24 ⚠️13 ❌0, 205 referencias, 70 webs.
+- 126-127 recolectando.
 - Cambio de cuenta (25-sep, 13:25 UTC, cuenta .108): rama juntada; guardar.sh cada 300 s.
   119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
   120: imagen y voz listas; texto vacío y sin video → texto y video (Sonnet) relanzados.
@@ -102,6 +103,9 @@ ahora lleva el lote H.)
 - **123 Reanimal**: más querido, Hood (Capucha), la primera amiga rescatada; la más dibujada, La Niña (muestra mínima). Cuadro de diálogo: sin globos, subtítulos en barra oscura con texto blanco Barlow Condensed; dos formatos oficiales: marco de papel rasgado de tienda y letra blanca a mano sobre negro (artbook pág. 55). Doblaje latino (Made in Spanish, 7 actores). Láminas: A #a-que-juegas «El mapa del desván», B #noticias-gaming «La marquesina del cine», C #reto-de-la-semana «La reja de la tubería».
   - Avisos: redactor corrigió descripciones mal puestas en imagen (arte de prensa 1 es una bestia lanuda sobre ciudad, no hermanos en barca); reparto latino sin personaje asignado en Doblaje Wiki (hay que oír muestras; estudio solo tiene una fuente). Contradicciones marcadas ⚠️: banda sonora 30 o 33 pistas, Metacritic 81 o 80/83, director narrativo Mervik/Mervick, sexo del Prisionero DLC, si La Madre sale en DLC, Lisbeth Moller Fly como voz de La Niña y artista del artbook. #reto-de-la-semana ya tiene imagen fijada (concepto 3 es alternativa). Falta: URL del póster de Pascua, GitHub y Pixiv, texturas de papel, minutos de escenas que hacen llorar. No volver a correr juntar_referencias.py (volverían 57 referencias quitadas a propósito).
 
+- **125 Elden Ring**: más querida, Ranni (NPC n.º 1 de Famitsu con 918 votos; 1.ª en Danbooru con 2274 dibujos); entre jefes Radahn (687) gana a Malenia (658); Melina 5.ª (260). Cuadro de diálogo: caja semitransparente en el tercio inferior con el nombre encima y la lista de respuestas debajo; cartela de objeto con color de rareza, nombre de zona en letras doradas, barra de jefe, «YOU DIED»; nunca una burbuja. Letras Cinzel y EB Garamond con tildes, ñ, ¿ y ¡ comprobadas. Láminas: 1) #a-que-juegas «La Mesa Redonda»; 2) #reto-de-la-semana «La silla entre las raíces» (Malenia); 3) #castings «El grimorio de Raya Lucaria» (recomendada, Ranni). Corrigió descripciones de la parte de imagen mirando las hojas (melinaforge 64-67 es Melina prendiéndose fuego en la Forja; Malenia 50-51 y 57-60; Promotional Wallpaper 2 es el retrato de Melina) y quitó de referencias.json un wallpaper de Blade Runner.
+  - Avisos: no hay doblaje latino ni español (tuit oficial de @ELDENRING, Doblaje Wiki y Steam): sólo inglés original y fandubs; decidir el nombre del jugador en español (Sinluz / Sin Gracia / Desvaído): mirar los subtítulos latinos del juego; comprobar el color real de la caja de diálogo en una captura con interfaz (el de la biblia es aproximado); ver y oír con sesión en YouTube la escena de la Forja y el abrazo de Fía (sin minuto ni música); un hilo de Reddit de 7150 votos habla de una película con Alex Garland sin otra confirmación: decidir si se usa; otras biblias también proponen #reto-de-la-semana y #castings (sólo nota).
+
 - Herramienta: en videojuegos, la tabla «Reparto latino por personaje» de `recolectar.py` (Doblaje Wiki) sale rota: mete nombres de archivos de audio en la columna del personaje y no trae actor. El investigador de voz de 117 la rehízo a mano.
 - Herramienta: en 118 la wiki de Fandom buena es `thehellblade`, no `hellblade`.
 - Red: Wayback Machine está bloqueada por la política de red de este entorno; TCRF, Game UI Database y ArtStation dan 403 a curl y WebFetch.
@@ -137,3 +141,4 @@ ahora lleva el lote H.)
 | 122 | equipo completo | Sonnet + Opus | — | — |
 | 123 | redactor | Opus | 14 | 263 mil |
 | 124 | equipo completo | Sonnet + Opus | — | — |
+| 125 | redactor | Opus | 15 | 242 mil |
