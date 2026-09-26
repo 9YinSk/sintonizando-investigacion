@@ -33,10 +33,15 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
   14: las 4 partes terminadas sin Sigue → redactor (Opus, repaso) en marcha desde 08:27 (26-sep).
 - **Segundo corte por límite de sesión** (19:50 UTC del 25 a 08:26 UTC del 26): los 5 agentes vivos murieron a mitad de tanda (voz 14 y los 4 de 15). guardar.sh había subido lo hecho; sólo se perdió lo que voz de 15 llevaba a medio escribir en esa tanda concreta (84 líneas se quedaron).
   15: las 4 partes terminadas sin Sigue → redactor (Opus, repaso) en marcha desde 08:47.
+- 15 SpongeBob: **COMPLETA** y subida (08:56). ✅26 ⚠️11 ❌0, 126 referencias, 92 webs, 250 min citados, 77 hex, 2486 líneas.
+  16: 4 investigadores (Sonnet, repaso) en marcha desde 08:57.
 - 14 Adventure Time: **COMPLETA** y subida (08:52). ✅17 ⚠️13 ❌0, 157 referencias, 104 webs, 358 min citados, 55 hex, 3016 líneas.
   guardar.sh --cada 300 relanzado a las 08:26 UTC tras el segundo reinicio del contenedor.
 
 ## Avisos para el dueño
+
+- **15 SpongeBob** (repaso): no hay encuesta oficial de Nickelodeon por personaje; en el bracket de The Ringer (2021, 2.5M votos) ganó Bob, en Ranker ganan Patricio y luego Calamardo. Para el canal manda Don Cangrejo, con la frase vista en vídeo «THE MONEY IS ALWAYS RIGHT!» (Training Video, 3:55). Cuadro de diálogo propio: sin globos — la tarjeta del Narrador Francés, el cartel de precios «KOWBOY KRAB'S NUT SHACK», el botón de Calamardo, el tablón de corcho del Crustáceo. Láminas: A la caja de Don Cangrejo gris antracita `#282927` (recomendada), B Calamardo con su botón junto al cartel «DAILY SPECIAL», C el Crustáceo contra el Balde.
+  Corrección importante: Carlos Vitale dobló a Don Cangrejo en las temporadas 6-9, y Pérez Pons hizo la 1-5 y la 9-13 (antes no distinguía las etapas). Aviso: faltan frases del doblaje latino con minuto y 11 de las 25 caras por emoción — YouTube bloqueó y todo se vio en Dailymotion a 512×288, no en 1080p.
 
 - **14 Adventure Time** (repaso): más querida, Marceline (sin encuesta con números, pero reconocida por BOOM!, Cartoon Network UK y The Guardian; Vulture llama al Rey Helado/Simon «el mejor personaje», y BMO es el favorito del creador). Corregido: la piel de Marceline es `#D8E7E7` medida en el model sheet oficial (antes `#A9B8C2` de memoria). Cuadro de diálogo propio: sin globos — papel escrito a mano (la nota de Simón), cartelas con tramado, la pantalla de BMO (parodia de Game Boy) y texto grabado en vinilo. Láminas: A «La caja de discos Mondo» (recomendada, casa de Marceline `#F8AEC5`, grabadora amarilla de Fry Song), B el concierto con la setlist, C la mixtape de BMO en la casa del árbol.
   Aviso: las 6 frases latinas son textuales pero sin episodio ni minuto (audios de Doblaje Wiki, YouTube bloquea y no hay clips doblados en Dailymotion). Si ve la serie: el minuto de la lágrima de «I Remember You» (≈1:18, sin confirmar) y cómo dice Marceline en latino «Thanks for helping me record».
@@ -63,6 +68,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 15 | redactor (repaso) | Opus | 17 | 328 mil |
 | 14 | redactor (repaso) | Opus | 18 | 358 mil |
 | 13 | redactor (repaso) | Opus | 15 | 269 mil |
 | 12 | redactor (repaso) | Opus | 12 | 193 mil |
