@@ -152,6 +152,18 @@ fotograma con `fotogramas.py --cortes` (68 fotogramas, uno por plano, 0:00-1:47)
 - Es rico (piso entero en un edificio de lujo de Minato) y heredero de una familia de espías;
   aun así trabaja de encubierto y bromea todo el rato · misma fuente ✅
 
+### Dinámicas entre ellos (sirven para láminas en grupo)
+- Nagumo hace reír (o enojar) a Shin y Lu por sistema: se presenta mintiendo hasta en los
+  detalles más tontos, y los dos acaban golpeándolo · TV Tropes, Funny, ep. 3 ⚠️
+- Shin discute con Heisuke Mashimo: le molesta leerle la mente porque sus pensamientos son
+  «tontos», pero lo valora como aliado igual · https://sakamoto-days.fandom.com/wiki/Shin_Asakura ✅ (personaje propio + Trivia, misma wiki, dos secciones)
+- El único que deja mudo a Shin (no puede leerle la mente) es **Wutang Lu**, y eso lo
+  aterra de verdad, no en broma · misma fuente ✅
+- Lu y Sakamoto: ella lo mete en líos sin querer (arruina un pedido, desordena la tienda) y
+  él siempre acaba ayudándola de todos modos · TV Tropes, Funny, ep. 2-3 ⚠️
+- Aoi es la única que le da miedo real (cómico) a Sakamoto: todo su humor físico en los
+  primeros capítulos gira en torno a no hacerla enojar · ver ficha de Sakamoto arriba ✅
+
 ### Frases textuales por emoción (doblaje latino, con minuto)
 - **Explicando / decidido**: «Cuando la gente tiene algo que quiere proteger, obviamente pelea
   con todas sus fuerzas» — Sakamoto, tráiler, 1:09 · https://www.dailymotion.com/video/x9a858e?t=69

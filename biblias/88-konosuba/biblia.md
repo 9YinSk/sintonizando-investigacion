@@ -407,3 +407,98 @@ Juegos con interfaz propia (wiki de Fandom, Steam y AniList) ✅:
 
 **No encontré** capturas del HUD de *Fantastic Days* ni de *Labyrinth of Hope* ⚠️ (juegos cerrados; los vídeos están en YouTube). Tampoco la letra exacta del cuadro de diálogo de Steam.
 
+## 12 · Lo que el fandom ama y qué NO hacer
+
+**Lo que ama** (de [Know Your Meme](https://knowyourmeme.com/memes/subcultures/konosuba) y del archivo de Reddit en [Arctic Shift](https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=Konosuba)):
+
+- **Megumin es más grande que la serie.** r/Megumin tiene más de 4000 suscriptores, el doble que r/Konosuba (unos 2000) ✅.
+- **El conjuro de la Explosión** es la contraseña del fandom: lo citan entero ✅.
+- **«Waga na wa Megumin»** («mi nombre es Megumin») se usa como remate de broma ✅.
+- **La cara de suficiencia de Megumin** («Smug Megumin») es de los ejemplos más citados de cara smug de anime. Hubo hilos fijos «Megumin Monday» en 4chan /a/ en 2016-2017 ⚠️.
+- **Aqua siendo un desastre.** Los posts más votados de r/Konosuba son de ella: «Aqua is drunk again» (2105), «Lazy Goddess» (1819), «Poor aqua.» (1758), «Only buy what you need» (1454) ✅.
+- **Yunyun**: «Maid Yunyun» (2615) y «EVIL YunYun» con Kazuma (2388), de un artista hispano ✅.
+- Gags de siempre: Aqua y los sapos, Aqua borracha y sin dinero, Darkness disfrutando cualquier humillación, la suerte enorme de Kazuma en todo menos en el amor.
+
+**Qué NO hacer** (lo que a un fan le parecería falso):
+
+- **No quitarle a Megumin el sombrero, la capa, el báculo ni la venda de la pierna.** El parche en el ojo es opcional (sale en la T1, nº54; no en la hoja T3, nº4).
+- **No hacer a Darkness tímida.** Su sonrojo es de placer cuando la insultan o la golpean, no por un halago.
+- **No poner a Aqua solemne.** Una Aqua digna rompe el chiste: es llorona, bebe y no sabe llevar el dinero.
+- **No hacer de Kazuma un héroe noble.** Es tacaño y calculador; usa la «verdadera igualdad» como excusa para no ser caballeroso.
+- **No confundir a Megumin con Eris/Chris.** Eris es la diosa de la fortuna y, de incógnito, la ladrona Chris.
+- **No usar la Explosión como un fuego realista.** En pantalla es un destello a blanco (punto 6).
+- **No oscurecer la serie.** Colores claros, línea marrón, cielos de cuento (puntos 4 y 18).
+- **No usar el fanservice** (nº26, 48, 66, 109): el servidor es general.
+
+## 13 · Cada personaje a fondo
+
+Fuente principal: fichas completas de la wiki en inglés ([Kazuma](https://konosuba.fandom.com/wiki/Kazuma_Satou), [Aqua](https://konosuba.fandom.com/wiki/Aqua), [Megumin](https://konosuba.fandom.com/wiki/Megumin), [Darkness](https://konosuba.fandom.com/wiki/Darkness), [Yunyun](https://konosuba.fandom.com/wiki/Yunyun)) ✅, con AniList, Wikipedia y los tráileres.
+
+### Kazuma Satou
+
+- **Quién es.** Era un hikikomori que jugaba todo el día. Murió de vergüenza, por culpa de un tractor. En el otro mundo sigue siendo vago (duerme más de 12 horas) pero es muy listo con el dinero y los negocios.
+- **Cómo piensa.** Ve el mundo como un videojuego y clasifica a la gente en arquetipos de manga.
+- **Qué le importa.** Vivir cómodo. Con el tiempo, no fallar a su grupo. Es el «niñero» de tres «niñas problema» y eso lo tiene estresado.
+- **Cómo se expresa.** Sincero hasta herir. Sarcasmo seco, dobles sentidos. Cuando se enfada, grita y regaña sin rodeos.
+- **Qué transmite.** Alivio cómico: es el único que dice lo que el espectador piensa. Un crítico de ANN dice que muchas escenas no serían ni la mitad de graciosas sin la ironía de su actor, Jun Fukushima ([reseña](https://www.animenewsnetwork.com/review/konosuba-god-blessing-on-this-wonderful-world-2/episode-7/.112580)).
+- **Arco.** De cínico que sólo quiere sobrevivir a líder de verdad de su grupo.
+- **Dinámicas.** Discute sobre todo con Aqua (se llaman «NEET» e «inútil»). Con Megumin tiene la química de pareja no oficial.
+- Fue chūnibyō de pequeño: por eso entiende a Megumin.
+
+### Aqua
+
+- **Quién es.** Diosa del agua. Guiaba a los muertos al más allá. Kazuma se la llevó como «regalo».
+- **Carácter.** Descuidada, imprudente, chula y bocazas. Poco lista (olvida las cosas en tres días), pero a veces tiene intuición.
+- **Manías.** Bebe mucho. Duerme abrazada a una botella de espumante. Colecciona y pule piedras.
+- **Cómo se expresa.** Todo a gritos. Se ofende enseguida. Llora a la mínima y fuerte (lloró por perder una moneda de 100 eris para un helado).
+- **Autoimagen.** Se cree de «belleza deslumbrante»; Megumin y Darkness le parecen «relativamente bonitas».
+- **Miedo.** Que la vean como una diosa inútil y la manden al cielo en desgracia. Lo tapa con bravuconería.
+- **Qué transmite.** Risa de ella y con ella. También tiene un lado maternal real con quien está triste de verdad.
+
+### Megumin
+
+- **Quién es.** Archimaga de los Demonios Carmesí. De niña la salvó una desconocida con la Magia Explosión y desde entonces sólo quiere eso.
+- **La regla de su gag.** Sólo puede lanzar la Explosión **una vez al día** y después cae rendida. Aun así busca excusas para lanzarla cada día.
+- **Carácter.** Chūnibyō: se presenta como «la más grande archimaga», ensaya poses «geniales» que le salen mal. Le gusta lo gótico y los nombres raros. En secreto le encantan las mascotas monas, pero no lo admite.
+- **Cómo se expresa.** Segura, teatral. Saluda siempre con nombre y título. Risa malvada «¡Wahahahaha!». Su conjuro: «Darker than black, darker than darkness, combine with my intense crimson… Explosion!».
+- **Miedo.** Que le pase algo a su aldea y a su familia (película *Legend of Crimson*: ahí deja la broma y pelea en serio).
+- **Dinámicas.** Rival y mejor amiga de Yunyun desde niñas. Se pica si Kazuma se burla de su Explosión: «peor que burlarse de mi nombre».
+- **Qué transmite.** Orgullo, cariño y el placer de ver algo exagerado.
+
+### Darkness
+
+- **Quién es.** Cruzada (en el doblaje, «Paladín») de familia noble, la de los Dustiness, fieles a la diosa Eris.
+- **El gag.** Es masoquista: busca el dolor y la humillación. Se lanza contra los enemigos «por deber», pero quiere sus golpes. Su tipo ideal: vago, pervertido, sin oficio, alcohólico y que la trate mal. Por eso quiso entrar en el grupo de Kazuma.
+- **Cómo se expresa.** Noble y seria. Cuando algo la excita: sonrojo, jadeo, voz aguda. En vez de reír ante una humillación, gime.
+- **Lo que sí le duele.** Que hablen de su peso o de lo duros que son sus músculos. Le gusta la ropa mona, pero no soporta que se lo digan en público.
+- **Miedo.** Que la vean poco femenina por su fuerza.
+- **Dinámicas.** Es la que más veces salva al grupo con su aguante, y la que menos se queja de que se rían de ella.
+- Su presentación oficial en el [tráiler T3](https://www.dailymotion.com/video/x8qwfj9?t=34) (0:34) la llama «ドMのクルセイダー», la cruzada masoquista ✅.
+
+### Yunyun (la secundaria más querida)
+
+- **Quién es.** Otra Demonio Carmesí, pero tímida y sensible. Le dan vergüenza las poses de su clan. La tribu la ve rara y la aisló.
+- **Qué le importa.** Tener amigos. Los busca con desesperación, casi acosando, porque no se atreve a acercarse.
+- **El detalle que duele.** Celebra su cumpleaños sola: se compra regalos y monta la fiesta aunque sea la única invitada.
+- **Qué transmite.** Ternura triste. Es la «amiga» que todo el mundo quiere adoptar.
+
+### Su cara en cada emoción (fotograma y minuto)
+
+| Personaje | Emoción | Dónde | Minuto |
+|---|---|---|---|
+| Kazuma | Alegría: ríe a carcajadas | [tráiler OVA](https://www.dailymotion.com/video/x9avkfi?t=5) | 0:05 |
+| Kazuma | Miedo: grita con los ojos muy abiertos | [tráiler T3](https://www.dailymotion.com/video/x8qwfj9?t=18) | 0:18 |
+| Kazuma | Tristeza: apoya la cara en la mano, jarra y botella | nº45 «Depressed Kazuma» ([imagen](https://static.wikia.nocookie.net/konosuba/images/b/bb/Depressed_Kazuma.jpg)) | — |
+| Aqua | Miedo y sorpresa: boca abierta | [tráiler T3](https://www.dailymotion.com/video/x8qwfj9?t=17) | 0:17 |
+| Aqua | Rabia: señala y grita | [tráiler OVA](https://www.dailymotion.com/video/x9avkfi?t=2) | 0:02 |
+| Aqua | Tristeza: llora a gritos con el brazo estirado | T2 ep. 2 (Internet Archive) | 4:45 |
+| Aqua | Llanto de gag, boca enorme | nº141 «Crying Over Tuna» ([imagen](https://static.wikia.nocookie.net/konosuba/images/6/6a/Crying_Over_Tuna.jpg)) | — |
+| Megumin | Euforia: lanza la magia, ojos brillantes | [tráiler T3](https://www.dailymotion.com/video/x8qwfj9?t=30) | 0:30 |
+| Megumin | Miedo: primer plano, ojos muy abiertos | [10.º aniversario](https://www.dailymotion.com/video/xasu3fq?t=165) | 2:45 |
+| Megumin | Vergüenza: sonrojo con rayas en las mejillas | T2 ep. 2 (Internet Archive) | 21:58 |
+| Megumin | Tristeza de niña: sentada sola abrazando las rodillas | spin-off ep. 1 ([xa0oox0](https://www.dailymotion.com/video/xa0oox0)) | 18:15 |
+| Darkness | Placer contenido | [tráiler T3](https://www.dailymotion.com/video/x8qwfj9?t=34) | 0:34 |
+| Darkness | Grito con gusto (el gólem) | [clip](https://www.dailymotion.com/video/x5wd601) | 0:06-0:15 |
+
+Falta la cara de **vergüenza de Darkness** con fotograma propio ⚠️ (en la T2 ep. 2 casi no sale).
+

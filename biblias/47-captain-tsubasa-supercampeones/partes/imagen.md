@@ -62,3 +62,60 @@ descarga habilitada):
 - Danbooru/Safebooru: la obra no tiene etiqueta propia (confirmado por `recolectar.py`, poco fan art
   digital moderno bajo ese nombre en esos tableros) · ⚠️ una sola comprobación automática, no se
   insistió a mano porque no es obligatorio duplicar búsquedas que ya fallaron.
+
+## 15 · Vestuario (colores medidos con `herramientas/estilo.py` y Pillow)
+
+Cada personaje cambia de club varias veces; el hex sale de la imagen exacta citada (medido con
+`estilo.py --colores 6` o muestreo de píxel con Pillow cuando el PNG tiene fondo transparente).
+
+| Personaje | Prenda | Hex medido | De qué imagen |
+|---|---|---|---|
+| Tsubasa Ozora | Camiseta Nankatsu (secundaria, blanca con kanji 南葛) | #F5F5F5 blanco, #265BA9 azul cuello | `Tsubasa_Ozora_Nankatsu_MS_1.png` (wiki) |
+| Tsubasa Ozora | Camiseta selección de Japón (adidas, dorsal 10) | #061B51 azul marino, #0F41A5 azul medio, #EEECC4 crema (piel/brillo), franja roja en manga | `Tsubasa_2018_v2_jersey.jpg` (wiki) |
+| Tsubasa Ozora | Camiseta FC Barcelona (Golden Dream) | #4D63A5 azul, #CB4F49 grana/rojo (blaugrana) | portada `Barcelona_(Golden_Dream)_1.png` |
+| Genzo Wakabayashi | Uniforme de portero de Japón | #F7931B naranja, #010101 negro/short, gorra blanca, guantes negro-blanco-rojo | `Genzo_Wakabayashi_Japan_1.png` (wiki) |
+| Genzo Wakabayashi | Uniforme juvenil Shuutetsu | #BF3D48 rojo, #000000 negro (gorra con «W») | `Genzo_Wakabayashi_Shutetsu.png` (wiki) |
+| Kojiro Hyuga | Uniforme Meiwa FC (niño, kanji 明和) | #000000/#2A2A2E gris muy oscuro casi negro, zapatillas rojo oscuro ~#641C1A | `Kojiro_Hyuga_Meiwa_FC_2.png` (wiki) |
+| Kojiro Hyuga | Uniforme Toho Academy (dorsal 10) | #3D3E47 azul-negro, medias grises #6B6B6B | `Kojiro_Hyuga_Toho_Academy.png` (wiki) |
+| Kojiro Hyuga | Camiseta Juventus (Italia) | #1F2C34 negro azulado, #AAC6D5 blanco de hombros, escudo turquesa/dorado | `Hyuga_The_Champion.jpg` (wiki) |
+
+- Peinado: Tsubasa lleva flequillo castaño oscuro puntiagudo (mechón central hacia arriba), sin gorra
+  casi nunca · fuente hojas 01-03, ✅ (repetido en decenas de fotogramas). Genzo lleva el pelo negro
+  corto y SIEMPRE gorra de portero (blanca en Japón, distinta según club) · ✅. Hyuga lleva el pelo
+  negro largo y alborotado en picos hacia atrás, sin gorra en la mayoría de sus apariciones adultas
+  · ✅.
+- Accesorio icónico: Genzo casi nunca aparece sin sus guantes de portero puestos, incluso fuera de
+  cancha en algunas escenas · fuente hoja 02 (imágenes 62-67) · ⚠️ (visual, no confirmado en texto de
+  wiki).
+- Ropa «icónica» que todo fan reconoce: el uniforme blanco de Nankatsu con el «10» de Tsubasa, el
+  uniforme naranja/rojo con gorra blanca de Genzo en la selección, y el negro de Toho Academy con el
+  «10» de Hyuga — los tres se repiten en el arte promocional de todos los videojuegos de la
+  franquicia (Tecmo, Tamsoft) según sus páginas en la wiki · ✅ (coincide en portadas de juegos y en
+  las hojas de contacto).
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+- Los sitios principales son **estadios de fútbol** (Nankatsu, Hamburgo, Barcelona, Roma) con
+  gradas llenas, luz de tarde/noche con focos, y **la cancha del barrio** de Nankatsu junto al mar
+  (Shizuoka, ciudad costera japonesa donde vive Tsubasa de niño) · fuente páginas de equipo de
+  captaintsubasa.fandom.com (Nankatsu SC, Hamburger SV, FC Barcelona) · ✅.
+- Fondo de pantalla oficial-style «Captain Tsubasa» (fondo rojo liso, Tsubasa de Nankatsu y Hyuga
+  niño de Meiwa lado a lado, versiones chibi debajo, logo japonés del anime) · 1444×810 · SFW ·
+  subido por `danzey` · https://w.wallhaven.cc/full/ox/wallhaven-oxxo17.png · ⚠️ (una fuente,
+  Wallhaven no dice el artista original; parece arte promocional de un juego/evento) · 874 KB.
+- Fondo de pantalla de fans «1986 — Argentina» (estética retrowave/synthwave, sol y grid morados,
+  Tsubasa con camiseta de Argentina a rayas celestes) por `kowalart`, dos versiones · 5120×2880 ·
+  https://w.wallhaven.cc/full/q2/wallhaven-q2kvg7.png (18,6 MB) y
+  https://w.wallhaven.cc/full/1k/wallhaven-1kvwx9.png (20,8 MB) · ✅ (dos wallpapers del mismo autor,
+  mismo estilo, en el sitio) · etiquetas: retrowave, Argentina, synthwave, anime.
+- Otros resultados de la búsqueda «Captain Tsubasa» en Wallhaven (`we8xoq`, `42dj2g`, `oxl677`) son
+  **colages genéricos de nostalgia anime** (One Piece, Doraemon, Dragon Ball, Naruto…) que sólo
+  incluyen algún personaje de fondo: NO sirven como fondo de la serie, se descartan · fuente
+  wallhaven.cc/api/v1/search?q=Captain+Tsubasa · comprobado mirando cada miniatura.
+- No hay fondos de pantalla oficiales de alta resolución del estudio (David Production / Tokyo
+  Movie Shinsha) en circulación libre encontrados; los sitios oficiales japoneses de streaming no
+  publican wallpapers descargables públicamente · búsqueda en captaintsubasa-movie.com y en la wiki
+  (categoría «Wallpapers») sin resultados · ⚠️ dilo así en «No encontré».
+- Paleta de la cancha/estadio (medida sobre `hyuga_gwaka` recortado, fondo de cancha verde con
+  portería): verde césped #427156 y #63866E, verde oscuro de sombra #1C2D2D, blanco de red #C3C8C0 ·
+  fuente imagen «GWAKA.jpg» de la wiki (fondo de entrenamiento) · ✅ (medido con estilo.py).

@@ -1,299 +1,1784 @@
 [
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/riotxarcane_onlinegamemap.jpg",
-    "fuente": "Riot Games (RiotX Arcane) vía GitHub InFinity54/LoL_DDragon",
-    "ancho": 3000,
-    "alto": 2280,
-    "que_es": "Mapa-plano oficial de Piltóver: papel sepia #B39A84, lápiz #5B4D42, círculos de runas Hextech, notas en escritura inventada.",
-    "para_que": "Modelo exacto de los «planos Hextech» del concepto A (#proyectos): papel, trazo, runas y cajetín.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jayce_24.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Jayce Inventor»: Jayce en un atril de latón con bocinas, puño en alto con una gema azul, martillo en vitrina.",
-    "para_que": "Pose de PRESENTAR de Jayce (concepto A) y luz del laboratorio de Piltóver.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jayce_35.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Jayce Sobreviviente»: Jayce barbudo abrazado al martillo, mano en la cabeza.",
-    "para_que": "Pose de PENSAR o de «En pausa».",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Viktor_24.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Viktor Redentor» (T2): pelo blanco, túnica lila, bastón, mano abierta tendida.",
-    "para_que": "Pose de INVITAR; paleta lila #CC84FC de Viktor T2.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jinx_60.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Jinx Quebrantada»: Jinx con capucha y Pow-Pow; a la izquierda un vitral de ella pintado con garabatos neón.",
-    "para_que": "Estilo del grafiti de Jinx (rosa #FC6CFC, cian #6CCCFC) y pose de REGAÑAR. Concepto B.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jinx_37.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Jinx Enemiga»: Jinx en una calle de Zaun con farolas y niebla.",
-    "para_que": "Luz y ambiente de Zaun; pose de PRESENTAR con misterio.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Caitlyn_28.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Caitlyn Vigilante»: Caitlyn con el rifle entre cristales pintados por Jinx; el mono de juguete en primer plano.",
-    "para_que": "Grafiti de Jinx sobre cristal, primer plano desenfocado, niebla verde de Zaun.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Caitlyn_50.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Caitlyn Comandante» (T2): boina blanca, uniforme azul, rifle.",
-    "para_que": "Vestuario T2 de Caitlyn; azul #3C6CB4.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Vi_29.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Vi Suburbana»: chaqueta roja, guantelete Hextech enorme.",
-    "para_que": "Vestuario T1 de Vi; pose de REGAÑAR.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Ekko_36.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Ekko Firelight»: Ekko saltando con el bate.",
-    "para_que": "Pose de acción y ANIMAR de Ekko (concepto C).",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Heimerdinger_33.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Profesor Heimerdinger»: toca el banjo entre niños y pompas.",
-    "para_que": "Pose de CELEBRAR («Estrenado»).",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Mel_1.jpg",
-    "fuente": "Riot Games (Data Dragon) vía GitHub",
-    "ancho": 1215,
-    "alto": 717,
-    "que_es": "Splash «Arcane: Concejal Mel»: sala del Consejo con contraluz dorado de ventanal.",
-    "para_que": "Luz y arquitectura de Piltóver.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/avatars/jinx.jpg",
-    "fuente": "Riot Games (RiotX Arcane) vía GitHub",
-    "ancho": 736,
-    "alto": 736,
-    "que_es": "Retrato oficial de Jinx en estilo Arcane (hay 11: ambessa, caitlyn, ekko, heimerdinger, jayce, jinx, mel, sevika, vi, viktor, warwick).",
-    "para_que": "Caras, pelo y ropa en estilo de la serie para todos los personajes.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/wallpapers/riotxarcane_jinx.png",
-    "fuente": "Riot Games (RiotX Arcane) vía GitHub",
-    "ancho": 1440,
-    "alto": 2960,
-    "que_es": "Fondo de móvil oficial de Jinx (hay también vi, jayce y caitlyn), en estilo del JUEGO.",
-    "para_que": "Sólo pose en movimiento. La ropa es la del juego: no copiarla.",
-    "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
-  },
-  {
-    "url": "https://github.com/InFinity54/LoL_DDragon",
-    "fuente": "GitHub",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Espejo de Data Dragon: splash arts, avatares, fondos y datos es_MX (títulos y habilidades en latino).",
-    "para_que": "De aquí sale todo el arte oficial de la biblia; bajar por raw.githubusercontent.com.",
-    "licencia": "Archivos de Riot Games subidos por terceros. Sólo consulta."
-  },
-  {
-    "url": "https://www.netflix.com/tudum/galleries/arcane-season-2-character-posters",
-    "fuente": "Netflix Tudum",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Carteles oficiales de personaje de la temporada 2.",
-    "para_que": "Poses de la T2 (Vi y Jinx enfrentadas, Ekko).",
-    "licencia": "© Riot Games / Netflix. Sólo referencia."
-  },
-  {
-    "url": "https://www.netflix.com/tudum/features/arcane-season-two-behind-the-scenes",
-    "fuente": "Netflix Tudum",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Guía oficial del making of de la T2 (paletas de cada magia, diseño de Ekko).",
-    "para_que": "Reglas de color y vestuario.",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://80.lv/articles/riot-games-on-designing-arcane-s-piltover-zaun",
-    "fuente": "80.lv",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Entrevista a Arnaud-Loris Baudry sobre el diseño de Piltóver y Zaun.",
-    "para_que": "Art Déco frente a Art Nouveau; luz y materiales.",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://blog.syncsketch.com/creator-stories/arcane-fortiche/",
-    "fuente": "SyncSketch (entrevista a Alexis Wanneroy, Fortiche)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Cómo se animan los efectos 2D y los garabatos de Jinx (12 fps sobre 24).",
-    "para_que": "El «pensamiento» de Jinx como garabato encima de la imagen.",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://www.artstation.com/artwork/3qagn2",
-    "fuente": "ArtStation (Alexia Ferry)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«Arcane – Hextech Lab»: el laboratorio en 3D sobre conceptos de Arnaud-Loris Baudry.",
-    "para_que": "El sitio del concepto A.",
-    "licencia": "© la autora / Fortiche / Riot. Sólo mirar."
-  },
-  {
-    "url": "https://www.artstation.com/juliengeorgel",
-    "fuente": "ArtStation (Julien Georgel, director de arte)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Conceptos y fondos pintados de Arcane.",
-    "para_que": "Luz y paleta de los fondos.",
-    "licencia": "© el autor / Fortiche / Riot. Sólo mirar."
-  },
-  {
-    "url": "https://www.tumblr.com/art-of-arcane/770045202608111616/mariana-galiano",
-    "fuente": "Tumblr art-of-arcane",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Blog que recopila arte conceptual de Arcane con su autor (aquí, Mariana Galiano).",
-    "para_que": "Buscar más conceptos oficiales con crédito.",
-    "licencia": "Sólo mirar."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/orivers-hextech-hammer-arcane-f04d59aed16347a6b7b074a0b044ea7a",
-    "fuente": "Sketchfab (Frayseur)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D del martillo Hextech de Jayce.",
-    "para_que": "Martillo apoyado en la mesa del concepto A.",
-    "licencia": "Descarga libre según el buscador; comprobar la licencia exacta en la página. Crédito: Frayseur."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/orivers-hextech-gauntlet-arcane-71ff4266065e475d817ca882922137f0",
-    "fuente": "Sketchfab (Frayseur)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D del guantelete Hextech (los «Atlas» de 1×04).",
-    "para_que": "Pieza sobre la mesa del laboratorio.",
-    "licencia": "CC BY según el buscador; comprobar. Crédito: Frayseur."
-  },
-  {
-    "url": "https://sketchfab.com/3d-models/arcane-jinxs-grenade-82b0959b18524af2a6311586183bd8f7",
-    "fuente": "Sketchfab (Allan-Jay Branscombe)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de la granada de Jinx.",
-    "para_que": "Objeto en primer plano del concepto B.",
-    "licencia": "CC BY según el buscador; comprobar. Crédito: Allan-Jay Branscombe."
-  },
-  {
-    "url": "https://polyhaven.com/a/painted_brick",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Textura de ladrillo con pintura azul desconchada (hasta 16K).",
-    "para_que": "La pared de Zaun del concepto B.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://polyhaven.com/a/spray_paint_bottles",
-    "fuente": "Poly Haven",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Modelo 3D de botes de espray gastados, con goterones.",
-    "para_que": "Suelo y primer plano del concepto B.",
-    "licencia": "CC0"
-  },
-  {
-    "url": "https://www.leagueoflegends.com/es-mx/news/community/murales-arcane/",
-    "fuente": "League of Legends LATAM",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Murales de Arcane pintados en 2021 en Ciudad de México, Bogotá, Lima, Santiago y Buenos Aires.",
-    "para_que": "Grafiti de Arcane hecho por artistas latinos; argumento para #arte.",
-    "licencia": "Sólo consulta."
-  },
-  {
-    "url": "https://www.deviantart.com/meynirr/art/Jinx-Arcane-Neon-Graffiti-Digital-Art-1076440241",
-    "fuente": "DeviantArt (meynirr)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fan art: Jinx en grafiti neón.",
-    "para_que": "Cómo resuelven otros el grafiti de Jinx.",
-    "licencia": "Fan art: © su autor sobre personajes de Riot Games. Sólo mirar, nunca pegar."
-  },
-  {
-    "url": "https://www.deviantart.com/yazooor/art/Arcane-Jinx-Graffiti-Neon-Street-Art-1320844834",
-    "fuente": "DeviantArt (Yazooor)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Fan art: Jinx en grafiti callejero neón.",
-    "para_que": "Referencia de composición en pared.",
-    "licencia": "Fan art: © su autor sobre personajes de Riot Games. Sólo mirar, nunca pegar."
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=F5tSoaJ93ac",
-    "fuente": "YouTube (vídeo oficial de «Enemy»)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Vídeo oficial de Imagine Dragons y JID animado por Fortiche.",
-    "para_que": "Estilo, luz de Zaun y poses en movimiento.",
-    "licencia": "© Riot Games / Imagine Dragons. Sólo ver."
-  },
-  {
-    "url": "https://github.com/google/fonts",
-    "fuente": "GitHub (Google Fonts)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "Letras libres comprobadas con tildes: Sedgwick Ave Display, Permanent Marker, Architects Daughter, Caveat, Cinzel, Federo, Special Elite.",
-    "para_que": "Grafiti de Jinx, notas de los planos y títulos de Piltóver.",
-    "licencia": "OFL / Apache 2.0"
-  },
-  {
-    "url": "https://x.com/arcaneshow/status/1585300226247647232",
-    "fuente": "X (@arcaneshow, oficial)",
-    "ancho": null,
-    "alto": null,
-    "que_es": "«The colors of Piltover vs Zaun»: paletas oficiales de las dos ciudades.",
-    "para_que": "Comprobar los hex de §5.2 (no pude abrir la imagen).",
-    "licencia": "© Riot Games. Sólo referencia."
-  }
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/c/c6/Piltover_Crest.png/revision/latest?cb=20241118070136",
+  "fuente": "Arcane Wiki (Fandom)",
+  "ancho": 4042,
+  "alto": 4167,
+  "que_es": "Escudo oficial de Piltóver, PNG con fondo transparente",
+  "para_que": "Sello grabado en los planos de Hextech; oro medido #C7A965",
+  "licencia": "Arte oficial de Riot Games, vía Fandom (crédito a la wiki)"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/b/bc/Zaun_Crest.png/revision/latest?cb=20241123234130",
+  "fuente": "Fandom Arcane Wiki (campo crest de la ficha oficial de Zaun)",
+  "ancho": 3487,
+  "alto": 4167,
+  "que_es": "Escudo/emblema oficial de Zaun: un vial químico alado (símbolo oficial, campo 'symbol' de la ficha). No es un triángulo.",
+  "para_que": "Símbolo real de Zaun para decorar sin texto (ver punto 25), en contraste con el de Piltóver.",
+  "licencia": "© Riot Games. Material de ficha de wiki, fair use. Sólo referencia, no pegar sin comprobar más."
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/5/54/Silco_Season_1_Poster_1.jpg/revision/latest?cb=20241129110302",
+  "fuente": "Arcane Wiki (Fandom)",
+  "ancho": 2025,
+  "alto": 3000,
+  "que_es": "Cartel individual de Silco, temporada 1, con jeringa de Shimmer",
+  "para_que": "Pose de referencia: sostener un objeto pequeño y peligroso, mirando de lado",
+  "licencia": "Arte oficial de Riot Games / Netflix, vía Fandom"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=F5tSoaJ93ac",
+  "fuente": "YouTube, canal oficial Riot Games",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Vídeo musical oficial de \"Enemy\" (Imagine Dragons + JID), animado por Fortiche, 213 s",
+  "para_que": "Punto 9-10: opening/tema de Arcane; usar como referencia de estilo y poses de la banda en Zaun",
+  "licencia": "Oficial Riot Games / Imagine Dragons; YouTube bloqueó la descarga hoy (pide login), sólo metadatos confirmados"
+ },
+ {
+  "url": "https://archive.org/details/9convert.com-imagine-dragons-x-jid-enemy-from-the-series-arcane-league-of-legends-1080p",
+  "fuente": "Internet Archive (reupload del vídeo oficial de Enemy)",
+  "ancho": 1920,
+  "alto": 816,
+  "que_es": "Copia 1080p del vídeo musical oficial \"Enemy\" (Imagine Dragons x JID), 213 s, animado por Fortiche",
+  "para_que": "Punto 10: opening de la serie con fotograma propio y minuto exacto (logo ARCANE en 3:30), sin el bloqueo de login de YouTube",
+  "licencia": "Reupload de fans del vídeo oficial de Riot Games/Imagine Dragons; sólo como referencia de investigación"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x89n6ax&t=45",
+  "fuente": "Dailymotion (repost de JeuxVideo.com)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Teaser oficial de anuncio de Arcane (Worlds 2019, \"A New Adventure Awaits\")",
+  "para_que": "Punto 10: vídeo oficial con minuto exacto (0:45 streamer, 1:00 skyline, 1:45 logo)",
+  "licencia": "Oficial Riot Games, repost; usar como referencia, no como descarga propia"
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x85f7g5?t=114",
+  "fuente": "Netflix / Fortiche, fotograma propio del tráiler oficial T1 «Arcane - Trailer» (Dailymotion, mirror xataka)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Vi adolescente (pelo aún sin teñir), primer plano, minuto 1:54 del tráiler: ojos muy abiertos, boca entreabierta, expresión de miedo o alarma durante el atraco del episodio 1.",
+  "para_que": "Segunda referencia de MIEDO, esta vez de Vi joven, para completar la tabla del punto 13 si se necesita una cara de miedo fuera de Powder.",
+  "licencia": "© Netflix / Riot Games. Tráiler oficial promocional. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://www.dailymotion.com/video/x85f7g5?t=126",
+  "fuente": "Netflix / Fortiche, fotograma propio del tráiler oficial T1 «Arcane - Trailer» (Dailymotion, mirror xataka)",
+  "ancho": 1280,
+  "alto": 720,
+  "que_es": "Vi adulta, primer plano, minuto 2:06 del tráiler: mirada fija, mandíbula tensa, guanteletes puestos.",
+  "para_que": "Segunda referencia de RABIA/determinación de Vi adulta (con los guanteletes ya puestos), como alternativa a la del episodio 1×03 si se prefiere sin sangre.",
+  "licencia": "© Netflix / Riot Games. Tráiler oficial promocional. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1410",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×03 «The Base Violence Necessary for Change» (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Vi, primer plano, minuto 23:30: dientes apretados, ceño hundido, sangre y pecas en la mejilla — justo tras la muerte de Mylo y Claggor.",
+  "para_que": "Cara de RABIA de Vi para la tabla del punto 13 (cara en cada emoción) y para cualquier lámina que necesite a Vi seria/enfadada con fuente exacta.",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1485",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×03 (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Powder (Jinx niña), plano medio, minuto 24:45: sola, hombros caídos, mirada baja — justo después de que Vi se va.",
+  "para_que": "Cara de TRISTEZA de Powder/Jinx niña para la tabla del punto 13; también sirve para ilustrar la escena que hace llorar del punto 21 (abandono de Vi).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1635",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×03 (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Powder (Jinx niña), primerísimo primer plano del ojo, minuto 27:15: ojo muy abierto y húmedo, mirando de cerca a un pequeño autómata.",
+  "para_que": "Cara de MIEDO / vulnerabilidad de Powder/Jinx niña para la tabla del punto 13; el encuadre de ojo también sirve como referencia de encuadre extremo para el punto 17 (guía IA).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1015",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×03 (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Vi y Powder, plano medio, minuto 16:55: Vi con el brazo vendado sobre el hombro de Powder, las dos mirando hacia abajo, antes de la tragedia.",
+  "para_que": "Pose de ternura/cuidado entre hermanas: útil para una lámina que hable de equipo o de cuidar a alguien (dinámica Vi-Jinx del punto 13).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2280",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×03 «The Base Violence Necessary for Change» (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Powder (Jinx niña), primerísimo primer plano, minuto 38:00: ojos llorosos mirando hacia arriba, hombros encogidos, pelo cubriéndole la cara — justo antes de que Silco la consuele y le ponga el nombre «Jinx».",
+  "para_que": "Cara de VERGÜENZA / culpa de Powder/Jinx niña para la tabla del punto 13 (relanzo).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=888",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×02 «Some Mysteries Are Better Left Unsolved» (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Jayce, plano general, minuto 14:48: solo y diminuto de pie en un círculo de luz en medio de la cámara del Consejo, durante su juicio por hextech no autorizado.",
+  "para_que": "Cara/pose de VERGÜENZA (humillación pública) de Jayce para la tabla del punto 13 (relanzo).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1592",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×04 «Happy Progress Day!» (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Jayce, primer plano, minuto 26:32: cejas arriba, boca abierta a media sonrisa, hablando con energía durante el discurso del Día del Progreso.",
+  "para_que": "Cara de ALEGRÍA / orgullo de Jayce para la tabla del punto 13 (relanzo).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=1050",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×03 (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Viktor, plano medio junto a Jayce, minuto 17:30: cuaderno en mano, sonrisa leve, mirando el primer experimento conjunto (un pequeño arco eléctrico azul).",
+  "para_que": "Cara de ALEGRÍA / ilusión de Viktor para la tabla del punto 13 (relanzo, primer fotograma propio de Viktor).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=1338",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×08 «Oil and Water» (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Caitlyn, primer plano, minuto 22:18: cejas apretadas, boca entreabierta, mirada fija, de pie junto a Vi en una audiencia del Consejo.",
+  "para_que": "Cara de MIEDO / tensión de Caitlyn para la tabla del punto 13 (relanzo, primer fotograma propio de Caitlyn).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC.Homelander.mp4?t=738",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×07 «The Boy Savior» (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Ekko adulto, primer plano junto a Vi, minuto 12:18: ceño fruncido, mirada baja, mostrándole el mural pintado por los Firelights con los retratos de Vander, Powder, Mylo y Claggor.",
+  "para_que": "Cara de TRISTEZA / recelo de Ekko para la tabla del punto 13 (relanzo, primer fotograma propio de Ekko).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4?t=2264",
+  "fuente": "Netflix / Fortiche, fotograma propio del episodio 1×03 (rip 1080p 60fps en Internet Archive, arcane-season-1-60fps)",
+  "ancho": 1280,
+  "alto": 544,
+  "que_es": "Silco, plano contrapicado, minuto 37:44: mentón alto, mirada entornada hacia abajo, mandíbula tensa, con un relámpago azul detrás, llegando al edificio en llamas.",
+  "para_que": "Cara de RABIA fría/contenida de Silco para la tabla del punto 13 (relanzo, primer fotograma propio de Silco).",
+  "licencia": "© Netflix / Riot Games / Fortiche Productions. Fotograma del episodio oficial. Sólo referencia, no pegar tal cual."
+ },
+ {
+  "url": "https://merch.riotgames.com/en-us/product/tokidoki-arc-backpack/",
+  "fuente": "Riot Games Store (oficial)",
+  "ancho": 818,
+  "alto": 850,
+  "que_es": "Mochila tokidoki x Arcane, estampado con todo el reparto en estilo kawaii",
+  "para_que": "Ejemplo de colaboración de marca con arte nuevo (patrón/estampado)",
+  "licencia": "Producto con licencia oficial (colección, no descargable)"
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E03.the.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4",
+  "fuente": "Internet Archive (arcane-season-1-60fps)",
+  "ancho": 1130,
+  "alto": 480,
+  "que_es": "Episodio 1x03 completo (44:15), remux de fan del WEB-DL de Netflix",
+  "para_que": "Fuente de los fotogramas propios de la escena de Silco y Vander jóvenes (min 19:15-22:20)",
+  "licencia": "Reupload de fans sin licencia clara; sólo como referencia de investigación, no para redistribuir"
+ },
+ {
+  "url": "https://archive.org/download/arcane-season-1-60fps/%5B60FPS%5D.Arcane.S01E04.Happy.Progress.Day%21.1080p.NF.WEB-DL.DDP5.1.x265.Homelander.mp4",
+  "fuente": "Internet Archive (arcane-season-1-60fps)",
+  "ancho": 1130,
+  "alto": 480,
+  "que_es": "Episodio 1x04 completo (40:43), remux de fan del WEB-DL de Netflix",
+  "para_que": "Fuente de los fotogramas propios del Día del Progreso y de la gema Hextech con Heimerdinger",
+  "licencia": "Reupload de fans sin licencia clara; sólo como referencia de investigación, no para redistribuir"
+ },
+ {
+  "url": "https://archive.org/details/EnemywithJIDOpeningTitleVersion",
+  "fuente": "Internet Archive",
+  "ancho": 720,
+  "alto": 720,
+  "que_es": "\"Enemy with JID (Opening Title Version)\", recorte de 186 s (más corto que el vídeo musical completo)",
+  "para_que": "Punto 10: posible versión usada como cabecera de título dentro del reproductor, distinta del vídeo musical íntegro",
+  "licencia": "Reupload de fans; sólo metadatos comprobados, no se bajaron fotogramas"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-71ff4266065e475d817ca882922137f0",
+  "fuente": "Sketchfab (API v3 confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Orivers - Hextech Gauntlet - Arcane, modelo 3D del guantelete",
+  "para_que": "Referencia 3D del guantelete Hextech de Vi sobre la mesa de Jayce",
+  "licencia": "CC Attribution (autor Frayseur)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-f04d59aed16347a6b7b074a0b044ea7a",
+  "fuente": "Sketchfab (API v3 confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Orivers - Hextech hammer - Arcane, modelo 3D del martillo de Jayce",
+  "para_que": "Referencia 3D del martillo sobre la mesa de Jayce y Viktor",
+  "licencia": "CC Attribution (autor Frayseur)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-82b0959b18524af2a6311586183bd8f7",
+  "fuente": "Sketchfab (API v3 confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Game Ready - Arcane - Jinx's Grenade, modelo 3D de la granada de Jinx",
+  "para_que": "Objeto en la mano de Jinx o sobre su pared de grafiti",
+  "licencia": "CC Attribution (autor AllanJayBranscombe)"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-936a0976aab94e9ca9a7148aa1f11cf5",
+  "fuente": "Sketchfab (API v3 confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Chibi Vi – Arcane 3D Print Ready",
+  "para_que": "Referencia de proporciones chibi si la lámina va a un estilo más suave",
+  "licencia": "CC Attribution (autor sergei_8888)"
+ },
+ {
+  "url": "https://polyhaven.com/a/painted_brick",
+  "fuente": "Poly Haven (API confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura PBR de ladrillo pintado y desconchado (azul)",
+  "para_que": "Pared de Zaun detrás de Jinx, o textura de fondo del grafiti",
+  "licencia": "CC0 (autor Amal Kumar)"
+ },
+ {
+  "url": "https://polyhaven.com/a/spray_paint_bottles",
+  "fuente": "Poly Haven (API confirmada)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D de botes de espray con etiquetas y gotas",
+  "para_que": "Objetos sueltos junto a la pared de grafiti de Jinx",
+  "licencia": "CC0 (autor James Ray Cock)"
+ },
+ {
+  "url": "https://ambientcg.com/a/Paper006",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura PBR de papel beige-marrón (color, rugosidad, normal)",
+  "para_que": "Base del grano de papel de los planos Hextech (cerca de #B39A84)",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/a/Metal063",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura PBR de metal oscuro envejecido",
+  "para_que": "Tuberías y máquinas de Zaun",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/a/Fabric060",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura PBR de tela con patrón tartán/cuadros",
+  "para_que": "Chalecos o forros de la clase alta de Piltóver",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://ambientcg.com/a/Leather037",
+  "fuente": "ambientCG",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Textura PBR de cuero marrón limpio",
+  "para_que": "Guantes de Jayce, chaqueta de Caitlyn T1",
+  "licencia": "CC0"
+ },
+ {
+  "url": "https://myphotoshopbrushes.com/brushes/id/3570/",
+  "fuente": "MyPhotoshopBrushes",
+  "ancho": null,
+  "alto": null,
+  "que_es": "106 Concept Art Brushes (.abr), texturas orgánicas para pintura digital",
+  "para_que": "Imitar el pintado a mano de las texturas de Fortiche sobre el 3D",
+  "licencia": "Free for Commercial Use (declarado en la página)"
+ },
+ {
+  "url": "https://www.adobe.com/learn/photoshop/web/372-free-grunge-and-grit-brushes-for-photoshop",
+  "fuente": "Adobe (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Pack de pinceles grunge y grit para Photoshop",
+  "para_que": "El chisporroteo pintado a mano de los efectos de Jinx (2D sobre 3D, a 12 fps)",
+  "licencia": "Gratis, publicado por Adobe"
+ },
+ {
+  "url": "https://assets.clip-studio.com/en-us/detail?id=2142037",
+  "fuente": "Clip Studio Assets",
+  "ancho": null,
+  "alto": null,
+  "que_es": "[FREE] Manga Screentone Pack 1",
+  "para_que": "Tramas de manga si la lámina usa una viñeta estilo cómic",
+  "licencia": "Gratis (marcado FREE en la ficha)"
+ },
+ {
+  "url": "https://merch.riotgames.com/en-us/product/nendoroid-jinx-arcane-version/",
+  "fuente": "Riot Games Store (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Nendoroid Jinx (Arcane Ver.) nº 2678, figura oficial Good Smile Company",
+  "para_que": "Referencia 3D con pose y caras intercambiables (burlona, loca, seria)",
+  "licencia": "Producto con licencia oficial (colección, no descargable)"
+ },
+ {
+  "url": "https://youtooz.com/products/vi-and-jinx",
+  "fuente": "Youtooz (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Set de figuras de vinilo Vi y Jinx, 'Lookin' good, Sis'",
+  "para_que": "Referencia de volumen y pose de las dos hermanas juntas",
+  "licencia": "Producto con licencia oficial (colección, no descargable)"
+ },
+ {
+  "url": "https://www.arcane.com/en-us/news/announcements/watch-play-experience-heres-how-were-celebrating-arcane-season-2-across-the-globe/",
+  "fuente": "arcane.com (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Anuncio oficial de los pop-ups y cafés temáticos de la temporada 2",
+  "para_que": "Cómo Riot lleva la paleta de la serie a un espacio físico real",
+  "licencia": "Página oficial, no es un archivo descargable"
+ },
+ {
+  "url": "https://secretlair.wizards.com/us/en/product/696669/secret-lair-x-arcane",
+  "fuente": "Wizards of the Coast (oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Secret Lair x Arcane, cartas de Magic: The Gathering con escenas de la serie",
+  "para_que": "Referencia de paisaje pintado (la segunda tanda son tierras básicas de Piltóver/Zaun)",
+  "licencia": "Producto oficial con licencia (colección, no descargable)"
+ },
+ {
+  "url": "https://www.dafont.com/arcane-nine.font",
+  "fuente": "dafont.com (fuente: Chequered Ink)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Arcane Nine: letra libre (100% Free, comprobado bajando el .otf real) que imita el logo hecho a mano de Arcane. Con fontTools trae á é í ó ú ñ Ñ ¿ ¡ ü completos.",
+  "para_que": "Rótulos y título que imiten el logo de la serie sin usar una fuente de pago.",
+  "licencia": "100% Free (dafont)"
+ },
+ {
+  "url": "https://github.com/google/fonts",
+  "fuente": "GitHub (Google Fonts), vía API fonts.googleapis.com/css2",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Letras libres nuevas comprobadas por mí con fontTools (á é í ó ú ñ Ñ ¿ ¡ completos): Barlow (alternativa libre a Spiegel Sans, interfaz), Cardo (serif de cartela/créditos), Almendra Display (display fino con floritas), EB Garamond (serif clásica para créditos).",
+  "para_que": "Interfaz Hextech, cartelas de acto y créditos de estilo Arcane sin usar Beaufort/Spiegel (de pago).",
+  "licencia": "OFL (SIL Open Font License)"
+ },
+ {
+  "url": "https://wiki.play2xko.com/en-us/Jinx/Audio",
+  "fuente": "2XKO Wiki (wiki.play2xko.com)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Transcripción completa de las frases de Jinx en 2XKO (selección, intro, taunts, combate, especiales, supers, ultimate, outro). Sin captura del formato visual del subtítulo.",
+  "para_que": "Frases reales de Jinx para la guía de IA de texto (punto 17, la hace el redactor) y contexto del videojuego (punto 11).",
+  "licencia": "Contenido de Riot Games documentado por fans; wiki de comunidad."
+ },
+ {
+  "url": "https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/",
+  "fuente": "Destructoid",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Artículo que confirma que Path of Champions (Legends of Runeterra) cuenta las historias de Jinx y Vi como 'cómics animados con voces' (animated comics and voiceovers).",
+  "para_que": "Referencia de formato de caja de diálogo de videojuego de la franquicia (punto 11), como alternativa a un globo de manga.",
+  "licencia": "Artículo periodístico, sólo como fuente de texto, no imagen."
+ },
+ {
+  "url": "https://formeinfullbloom.wordpress.com/2021/11/14/the-anicamera-in-arcane/",
+  "fuente": "Blog atelier emily, autora ajthefourth",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Análisis de cómo Arcane usa la cámara virtual ('anicámara'): grounded (como cámara real) en escenas cotidianas, imposible/libre en momentos emocionales clave.",
+  "para_que": "Punto 18: cómo encuadrar cada emoción al replicar el estilo (planos imposibles para momentos íntimos, cámara 'real' para acción).",
+  "licencia": "Artículo de blog, sólo como fuente de texto."
+ },
+ {
+  "url": "https://arcane.fandom.com/wiki/Silco",
+  "fuente": "Arcane Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de Silco",
+  "para_que": "Confirma el origen de Silco en una explosión, consistente con el fotograma propio de 1x03 19:55",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://www.pcgamer.com/arcane-episode-4-recap-ghosts-of-the-past/",
+  "fuente": "PC Gamer",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Recap de 1x04 en texto",
+  "para_que": "Confirma la escena de Jayce enseñando la gema fortificada y los guanteletes Atlas a Heimerdinger, min 11:54-13:14",
+  "licencia": "Artículo editorial, sólo como referencia de texto"
+ },
+ {
+  "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/ArcaneS1E4HappyProgressDay",
+  "fuente": "TV Tropes",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Recap de 1x04",
+  "para_que": "Confirma el discurso del Día del Progreso como el mismo tramo que grabé (24:20-26:30)",
+  "licencia": "CC BY-NC-SA (TV Tropes)"
+ },
+ {
+  "url": "https://musicbrainz.org/release-group/35990e4e-72da-4ca1-9193-2ee30cc23050",
+  "fuente": "MusicBrainz",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha de \"Enemy (from the animated series Arcane: League of Legends)\", Imagine Dragons + JID, 2021-10-28",
+  "para_que": "Punto 9: confirma autores y fecha de lanzamiento del tema del opening",
+  "licencia": "CC0 / datos abiertos de MusicBrainz"
+ },
+ {
+  "url": "https://reddit.com/r/arcane/comments/1ogwy9g/enemy_start_playing_in_the_background/",
+  "fuente": "Reddit (r/arcane, vía arctic-shift.photon-reddit.com)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Post con 3041 votos y 21 comentarios sobre el momento en que suena \"Enemy\"",
+  "para_que": "Punto 10: evidencia de que el opening sigue siendo tendencia/meme del fandom",
+  "licencia": "Contenido de usuario de Reddit; sólo como referencia de investigación"
+ },
+ {
+  "url": "https://arcane.fandom.com/wiki/Everybody_Wants_to_Be_My_Enemy",
+  "fuente": "Arcane Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha y sinopsis del episodio 1x05",
+  "para_que": "Confirma la escena de Jinx con el dispositivo hextech (10:40-11:20) y el atraco a la caja fuerte (18:00) que grabé en fotogramas propios",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://arcane.fandom.com/wiki/When_These_Walls_Come_Tumbling_Down",
+  "fuente": "Arcane Wiki (Fandom)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Ficha y sinopsis del episodio 1x06",
+  "para_que": "Confirma la escena de Marcus, Ren y Silco (12:25-14:25) y el hex core en el laboratorio (27:00) que grabé en fotogramas propios",
+  "licencia": "CC BY-SA (Fandom)"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/d8/wallhaven-d83kkj.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5897,
+  "alto": 8719,
+  "que_es": "Fondo de pantalla (League of Legends, Jinx (League of Legends), Nixeu, looking at viewer, long hair, standing)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Bishoujo; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/y8/wallhaven-y899md.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 7680,
+  "alto": 4320,
+  "que_es": "Fondo de pantalla (League of Legends, Riot Games, GZG, digital art, Netflix, Adcarry)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Luiisgz; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/y8/wallhaven-y83g77.png",
+  "fuente": "Wallhaven",
+  "ancho": 7680,
+  "alto": 3265,
+  "que_es": "Fondo de pantalla (video game art, video games, artwork, digital art, League of Legends, Jinx (League of Legends))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por papa77; © su autor"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/c/c6/Piltover_Crest.png",
+  "fuente": "Fandom arcane",
+  "ancho": 4042,
+  "alto": 4167,
+  "que_es": "Caitlyn Kiramman: Piltover Crest.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/b/bc/Zaun_Crest.png",
+  "fuente": "Fandom arcane",
+  "ancho": 3487,
+  "alto": 4167,
+  "que_es": "Ekko: Zaun Crest.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4100/4af9ebd4ebc59674ae00f971263fca86916938f1.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3000,
+  "alto": 4244,
+  "que_es": "Fan art de silco_(arcane) (https://yyc992.artstation.com/projects/vb4X4a)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3920/c6aabb287f02ad2e0b16975d2a177ba9e5dc1dbf.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 4096,
+  "alto": 3011,
+  "que_es": "Fan art de caitlyn_(league) (https://x.com/wickesdt/status/2102099393801314328)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/70/fe29790d4f99ca732c3599548e5f0c9109424f19.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2894,
+  "alto": 4093,
+  "que_es": "Fan art de jinx_(league) (https://x.com/v_revedoll/status/1857032442244149749)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/zy/wallhaven-zykg2j.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 5120,
+  "alto": 2166,
+  "que_es": "Fondo de pantalla (Ekko (League of Legends), Arcane (League of Legends), League of Legends, Jinx (League of Legends), digital art, crescent moon)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Dragonetto; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/rd/wallhaven-rdwqej.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 2600,
+  "alto": 3600,
+  "que_es": "Fondo de pantalla (illustration, artwork, digital art, fan art, drawing, fantasy art)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Psychofruit; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/1101/5f0a43f7b997e5c159f04783d73954cf39b25d8d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2235,
+  "alto": 4096,
+  "que_es": "Fan art de vi_(league) (https://x.com/saudzai00/status/2093693540358598858)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1101/8aefd43837e32e740ed124bc64799cd9e8c4ef6b.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3127,
+  "alto": 2746,
+  "que_es": "Fan art de vi_(league) (https://x.com/saudzai00/status/2091885797817696425)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/l3/wallhaven-l3xoor.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Jinx (League of Legends), Arcane (League of Legends), blue hair, women, video game characters, digital art)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por arthurrckx; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/m9/wallhaven-m9j35y.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (League of Legends, Jinx (League of Legends), artwork, digital art, blue hair, braids)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por IsaacHo0113; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/wq/wallhaven-wqrk67.png",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Arcane (League of Legends), League of Legends, TV series, anime girls, digital art, Jinx (League of Legends))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Rensora; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/6o/wallhaven-6oe9j7.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 2160,
+  "que_es": "Fondo de pantalla (Arcane (League of Legends), League of Legends, Vi (League of Legends), Caio Santos, Jinx (League of Legends))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por leoscau; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/1099/3a6b522cc5952be04773b5ed4c423c89ce00217e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3695,
+  "alto": 2078,
+  "que_es": "Fan art de jayce_(league) (https://x.com/crownsforkings/status/1474135422116642838)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1099/217f02f4910a7745c6365859270de3731e2adcae.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3695,
+  "alto": 2078,
+  "que_es": "Fan art de jayce_(league) (https://x.com/crownsforkings/status/1474135422116642838)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1099/e39f58049fe82964591128319c2fa1c777e6e7e5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 3695,
+  "alto": 2078,
+  "que_es": "Fan art de jayce_(league) (https://x.com/crownsforkings/status/1474135422116642838)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/d/d9/Viktor_Season_2_Act_1_3.webp",
+  "fuente": "Fandom arcane",
+  "ancho": 3840,
+  "alto": 1634,
+  "que_es": "Viktor: Viktor Season 2 Act 1 3.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/6/68/JinxPrison.png",
+  "fuente": "Fandom arcane",
+  "ancho": 3840,
+  "alto": 1632,
+  "que_es": "Jinx: JinxPrison.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/m9/wallhaven-m9olo8.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 3840,
+  "alto": 1627,
+  "que_es": "Fondo de pantalla (Jinx (League of Legends), Arcane (League of Legends), League of Legends, women, looking at viewer)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por Yagasakii; © su autor"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/8/85/Viktor_Season_2_Act_2.png",
+  "fuente": "Fandom arcane",
+  "ancho": 3836,
+  "alto": 1626,
+  "que_es": "Viktor: Viktor Season 2 Act 2.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/0/02/Jinx_Season_1_Poster_1.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 2025,
+  "alto": 3000,
+  "que_es": "Jinx: Jinx Season 1 Poster 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/9/99/Vi_Season_1_Poster_1.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 2025,
+  "alto": 3000,
+  "que_es": "Vi: Vi Season 1 Poster 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/d/d9/Jayce_Season_1_Poster_1.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 2025,
+  "alto": 3000,
+  "que_es": "Jayce Talis: Jayce Season 1 Poster 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/a/a8/Viktor_Season_1_Poster_1.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 2025,
+  "alto": 3000,
+  "que_es": "Viktor: Viktor Season 1 Poster 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/3/37/Caitlyn_Season_1_Poster_1.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 2025,
+  "alto": 3000,
+  "que_es": "Caitlyn Kiramman: Caitlyn Season 1 Poster 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/5/54/Silco_Season_1_Poster_1.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 2025,
+  "alto": 3000,
+  "que_es": "Silco: Silco Season 1 Poster 1.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/7/77/Game_Jayce.png",
+  "fuente": "Fandom arcane",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Jayce Talis: Game Jayce.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/f/fc/ViktorDeathModel.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Viktor: ViktorDeathModel.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/2/2f/Game_Viktor.webp",
+  "fuente": "Fandom arcane",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Viktor: Game Viktor.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1567/f471deaeaa3008392012045e3ff41173aca059b6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2400,
+  "alto": 1680,
+  "que_es": "Fan art de silco_(arcane) (https://twitter.com/LeFrenchUnicorn/status/1771764789871509678)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3907/623fcf4ee80fd12a50615d335d64776f4ba5d5d2.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1821,
+  "alto": 2187,
+  "que_es": "Fan art de vi_(league) (https://x.com/fishsaysmoo/status/1649840514609434624)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1607/5ddd28e2e1989eaaa1b5752d007898caccfe4af6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2048,
+  "alto": 1884,
+  "que_es": "Fan art de ekko_(league) (https://x.com/julietthings/status/1870970229469413665)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/c/cc/Viktor_TFT.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 1893,
+  "alto": 2000,
+  "que_es": "Viktor: Viktor TFT.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1099/e1a9c74229a63375453db9bffcd8ab13328766b6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1834,
+  "alto": 2048,
+  "que_es": "Fan art de jayce_(league) (https://x.com/crownsforkings/status/1459741653778911236)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4174/d58aba7caaed4fffdaa4ba0ab64e3d02d7f5027c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1620,
+  "alto": 2284,
+  "que_es": "Fan art de caitlyn_(league) (https://x.com/marcerarts/status/1892778049847849381)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4100/c9c81919617ab7c7cdcbde9b923dc2187e430fa0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1289,
+  "alto": 2863,
+  "que_es": "Fan art de silco_(arcane) (https://twitter.com/eriochromatic/status/1851882499099484451)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/3/35/S2A3P.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 1639,
+  "alto": 2048,
+  "que_es": "Jinx: S2A3P.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/7/77/Vi_Promo2.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 1639,
+  "alto": 2048,
+  "que_es": "Vi: Vi Promo2.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/6/67/S2A2P.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 1638,
+  "alto": 2048,
+  "que_es": "Jinx: S2A2P.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/e/e3/Viktor_Promo2.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 1638,
+  "alto": 2048,
+  "que_es": "Viktor: Viktor Promo2.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4165/45743cf22e63471b9b045736116bea1264b85328.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1600,
+  "alto": 2048,
+  "que_es": "Fan art de vi_(league) (https://x.com/greeniris_/status/2075945682574164458)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4428/48fa69d5ccf449b904eb936703f82a2a346b872a.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1586,
+  "alto": 2048,
+  "que_es": "Fan art de vi_(league) (https://x.com/keidehoi/status/2091082151039254988)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4419/e0b2cc3267669d2db2e796c1584cb52644aee1b5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2030,
+  "alto": 1576,
+  "que_es": "Fan art de jinx_(league) (https://x.com/Ss22ingD/status/1860715033988382950)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/2/21/141.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1158,
+  "que_es": "Jayce Talis: 141.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/7/79/145.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1155,
+  "que_es": "Jinx: 145.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/e/e3/111.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2732,
+  "alto": 1152,
+  "que_es": "Jinx: 111.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/1/1d/2710.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1152,
+  "que_es": "Jayce Talis: 2710.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/4/4b/Jinx_HexcoreNights.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Jinx: Jinx HexcoreNights.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/d/d1/Caitvi_HexcoreNights.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 1536,
+  "alto": 2048,
+  "que_es": "Vi: Caitvi HexcoreNights.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1091/890140d4a16a06686a7076c1a4e1636645a29256.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1534,
+  "alto": 2048,
+  "que_es": "Fan art de ekko_(league) (https://x.com/IwachansArm/status/2057206825007583382)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/0/0a/148.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1149,
+  "que_es": "Jayce Talis: 148.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/2/2c/1420.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1148,
+  "que_es": "Jayce Talis: 1420.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/6/61/1418.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1148,
+  "que_es": "Caitlyn Kiramman: 1418.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/c/c0/144.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1148,
+  "que_es": "Ekko: 144.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/2/27/112.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2732,
+  "alto": 1147,
+  "que_es": "Jinx: 112.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/b/b7/Jayce_Hand.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1147,
+  "que_es": "Jayce Talis: Jayce Hand.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/0/04/2720jpeg.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1147,
+  "que_es": "Jayce Talis: 2720jpeg.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/2/26/1410.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1147,
+  "que_es": "Caitlyn Kiramman: 1410.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/c/c7/116.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2732,
+  "alto": 1146,
+  "que_es": "Jinx: 116.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/1/1b/1417.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1146,
+  "que_es": "Viktor: 1417.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/0/05/143.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1145,
+  "que_es": "Caitlyn Kiramman: 143.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/5/5f/1421.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1144,
+  "que_es": "Jinx: 1421.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/5/57/274.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1144,
+  "que_es": "Ekko: 274.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/c/cc/271.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1144,
+  "que_es": "Ekko: 271.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/0/0f/1110.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2732,
+  "alto": 1143,
+  "que_es": "Ekko: 1110.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/9/98/1422.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1143,
+  "que_es": "Caitlyn Kiramman: 1422.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/6/6d/1411.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1142,
+  "que_es": "Silco: 1411.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/a/a4/273.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2713,
+  "alto": 1148,
+  "que_es": "Ekko: 273.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/1/1b/2721.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1138,
+  "que_es": "Ekko: 2721.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/b/b6/115.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2732,
+  "alto": 1136,
+  "que_es": "Vi: 115.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/a/a0/2719.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2731,
+  "alto": 1136,
+  "que_es": "Ekko: 2719.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/1/1f/1112.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2732,
+  "alto": 1135,
+  "que_es": "Vi: 1112.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/e/ec/118.jpeg",
+  "fuente": "Fandom arcane",
+  "ancho": 2732,
+  "alto": 1134,
+  "que_es": "Vi: 118.jpeg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4163/fcd36705d165d55a7f9f5fa4abe7da7615f44761.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1846,
+  "alto": 1635,
+  "que_es": "Fan art de jinx_(league) (https://x.com/OmyChan2/status/2015999422329389211)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/2580/905c63fe6ed73ae9d11b06abdfd25cc4c5cb5cd6.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1500,
+  "alto": 2000,
+  "que_es": "Fan art de spider-gwen (https://twitter.com/taishi__nw/status/1059759906310385664)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/3340/64945dd67c899a0c28fa261ce0d599ec2a7d8385.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1448,
+  "alto": 2048,
+  "que_es": "Fan art de spider-gwen (https://twitter.com/shukei_CO/status/1393528273221550087)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1096/3b07461b4bfb8358a6bffd10653085c65e34dbe5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 1800,
+  "que_es": "Fan art de vi_(league) (https://www.facebook.com/photo.php?fbid=1249366413213466)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/329/025d70c6b58bb42583a579f9485c6124a1ad4d26.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 1800,
+  "que_es": "Fan art de caitlyn_(league) (https://www.facebook.com/photo.php?fbid=1206612310822210)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4165/06148f6825e419a19546e2aa72cc27157b1a0f0c.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1440,
+  "alto": 1791,
+  "que_es": "Fan art de ekko_(league) (https://x.com/Artgerm/status/1403280756936384515)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/4/49/CaitlynFinale.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 1579,
+  "alto": 1579,
+  "que_es": "Caitlyn Kiramman: CaitlynFinale.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/837/b97f009f4cc1d6a1adff50d9b8e26aebb5f77490.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1248,
+  "alto": 1920,
+  "que_es": "Fan art de ekko_(league) (https://x.com/KishiShiotani/status/1861748331032035782)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/3/36/CaitlynS2EP5.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 1515,
+  "alto": 1518,
+  "que_es": "Caitlyn Kiramman: CaitlynS2EP5.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4105/098b77b1be8d32e86565c7225f0fb5ca87d912ef.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1350,
+  "alto": 1600,
+  "que_es": "Fan art de silco_(arcane) (https://twitter.com/eriochromatic/status/1898282540428857807)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/4/47/Silco_speaking_to_Marcus.png",
+  "fuente": "Fandom arcane",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Silco: Silco speaking to Marcus.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/3/35/Silco_Headshot.jpg",
+  "fuente": "Fandom arcane",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Silco: Silco Headshot.jpg",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/z8/wallhaven-z827xy.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Jinx (League of Legends), Arcane (League of Legends), fan art, video game characters, video game girls, long hair)",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por ISPAN74; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/28/wallhaven-28v8wm.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (green hair, artwork, simple background, League of Legends, Jinx (League of Legends), Arcane (League of Legends))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por 2STUART; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/q2/wallhaven-q2p98l.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (League of Legends, Arcane (League of Legends), Jinx (League of Legends), mural, Vi (League of Legends), Ekko (League of Legends))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por leoscau; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/57/wallhaven-57pr63.jpg",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (Arcane (League of Legends), League of Legends, TV series, anime, Jinx (League of Legends), Vi (League of Legends))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por deleted; © su autor"
+ },
+ {
+  "url": "https://w.wallhaven.cc/full/1k/wallhaven-1ko8mg.png",
+  "fuente": "Wallhaven",
+  "ancho": 1920,
+  "alto": 1080,
+  "que_es": "Fondo de pantalla (League of Legends, Caitlyn (League of Legends), Arcane (League of Legends), Vi (League of Legends))",
+  "para_que": "fondo o paleta de sitio",
+  "licencia": "subido por leoscau; © su autor"
+ },
+ {
+  "url": "https://safebooru.org/images/3851/d000d810ba7b05e1edad1727458f7d910f334c43.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 2053,
+  "alto": 1000,
+  "que_es": "Fan art de silco_(arcane) (https://twitter.com/shark_cat8221/status/1529682012348743680)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1806/f210cddcc41feb55930d91c5ebab19505d9850d5.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1754,
+  "alto": 1012,
+  "que_es": "Fan art de silco_(arcane) (https://twitter.com/eriochromatic/status/1917984302635335808)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/1861/1d775b40e4bfcc52093b32977b7cf72b34e0614d.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1050,
+  "alto": 1597,
+  "que_es": "Fan art de jinx_(league) (https://x.com/wise_fully/status/1895434806265323938)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/b/be/Silco_Arcane_Shimmer.webp",
+  "fuente": "Fandom arcane",
+  "ancho": 1920,
+  "alto": 816,
+  "que_es": "Silco: Silco Arcane Shimmer.webp",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/7/78/Silco_Season_1_Episode_7_001.png",
+  "fuente": "Fandom arcane",
+  "ancho": 1920,
+  "alto": 814,
+  "que_es": "Silco: Silco Season 1 Episode 7 001.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/a/a3/Gallery.png",
+  "fuente": "Fandom arcane",
+  "ancho": 1162,
+  "alto": 1338,
+  "que_es": "Silco: Gallery.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/75/b0b320009593b0114dc0b6eceb92f765fefc26e0.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1080,
+  "alto": 1433,
+  "que_es": "Fan art de jayce_(league) (https://x.com/limxaewon/status/2078402441821946148)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://static.wikia.nocookie.net/arcane/images/7/7b/1212.png",
+  "fuente": "Fandom arcane",
+  "ancho": 1918,
+  "alto": 804,
+  "que_es": "Silco: 1212.png",
+  "para_que": "pose, ropa y colores del personaje",
+  "licencia": "© titulares; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/327/697b8e25d2dc90676a2ce1b8b1e764daf56c640e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1000,
+  "alto": 1414,
+  "que_es": "Fan art de jayce_(league) (https://x.com/Evanolge/status/1902756902142165148)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://safebooru.org/images/4419/64b7e00e74019778b4ae9d249abe2aebf685df4f.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 1146,
+  "alto": 878,
+  "que_es": "Fan art de jinx_(league) (https://x.com/LightcannonA/status/2071200429929566353)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/52062582085_4da56c4d83_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 819,
+  "alto": 1024,
+  "que_es": "Vi - Arcane League of Legends",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor timz2011"
+ },
+ {
+  "url": "https://live.staticflickr.com/65535/52042762178_283c9e0b1b_b.jpg",
+  "fuente": "Openverse (flickr)",
+  "ancho": 1024,
+  "alto": 683,
+  "que_es": "Shooting Casual Jinx - League Of Legends Arcane - Tetelle - Le Mugel - La…",
+  "para_que": "foto real (cosplay, objeto, evento)",
+  "licencia": "CC BY-NC-SA 2.0, autor esby.photo"
+ },
+ {
+  "url": "https://safebooru.org/images/4163/f536165ff09b5441444e16d6b8012310e57cb23e.jpg",
+  "fuente": "Safebooru (fan art)",
+  "ancho": 866,
+  "alto": 625,
+  "que_es": "Fan art de jinx_(league) (https://x.com/tablewood37/status/2070899933318709436)",
+  "para_que": "referencia de pose y estilo de fans; nunca para pegar",
+  "licencia": "© su autor; sólo referencia"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-b74f25a5ee6e43efbe9766b9fbebc705",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Arcane - Jinx de Craft Tama",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-794dfd320a694a36a5e5a79fb594a5ef",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: JINX! de eric3dee",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-f0c293932c3343e5a840e5367486d802",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Jinx Granade de PLAGO",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-52d63cbc920d46c090b803f8448c054e",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Jinx - Arcane (Fortnite) de TheBuffalo",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-cb89671c039c4881ad78be306d7236d9",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Arcane - #256fes fanart de Kirill Maslov",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-eaf70bc047d24bb49abf8414fbef29c2",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Jinx_lowpoly_fanmodel de yogdyr",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-7dc0ebd2584741f3a2eabc1929bdca8d",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Arcane Vi Gauntlet Fanart de potias",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution-NonCommercial-NoDerivs"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-a1baf46364134dccaa7f557618cf0b52",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Vi - Arcane (Fortnite) de TheBuffalo",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-745e4288da4243c78c925a6c0730a654",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Vi de NotSafe",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-0a69c8aee36a47c9b0e09cc33eaf5e57",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: VI arcane de mpolo0604",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-3d1bc27e2ad94490bff98d1c6c16ff50",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Vi and Jinx from Arcane - Handpaint diorama de Meleagors",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-07eb7ed62e1847d6847f8d6f114c9d74",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Arcane Chainbreaker Vi de AngelGamar",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-56b8b8d2f59842a3abc5c740cbc71823",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Arcane's Viktor de michael_grodkowski",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://sketchfab.com/3d-models/none-98746826bfdd47bbbf517b8fd6ccf60c",
+  "fuente": "Sketchfab",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Modelo 3D: Arcane Jayce Hammer de KarmaDiya",
+  "para_que": "objeto o personaje 3D para Blender",
+  "licencia": "CC Attribution"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/riotxarcane_onlinegamemap.jpg",
+  "fuente": "Riot Games (RiotX Arcane) vía GitHub InFinity54/LoL_DDragon",
+  "ancho": 3000,
+  "alto": 2280,
+  "que_es": "Mapa-plano oficial de Piltóver: papel sepia #B39A84, lápiz #5B4D42, círculos de runas Hextech, notas en escritura inventada.",
+  "para_que": "Modelo exacto de los «planos Hextech» del concepto A (#proyectos): papel, trazo, runas y cajetín.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jayce_24.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Jayce Inventor»: Jayce en un atril de latón con bocinas, puño en alto con una gema azul, martillo en vitrina.",
+  "para_que": "Pose de PRESENTAR de Jayce (concepto A) y luz del laboratorio de Piltóver.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jayce_35.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Jayce Sobreviviente»: Jayce barbudo abrazado al martillo, mano en la cabeza.",
+  "para_que": "Pose de PENSAR o de «En pausa».",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Viktor_24.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Viktor Redentor» (T2): pelo blanco, túnica lila, bastón, mano abierta tendida.",
+  "para_que": "Pose de INVITAR; paleta lila #CC84FC de Viktor T2.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jinx_60.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Jinx Quebrantada»: Jinx con capucha y Pow-Pow; a la izquierda un vitral de ella pintado con garabatos neón.",
+  "para_que": "Estilo del grafiti de Jinx (rosa #FC6CFC, cian #6CCCFC) y pose de REGAÑAR. Concepto B.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Jinx_37.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Jinx Enemiga»: Jinx en una calle de Zaun con farolas y niebla.",
+  "para_que": "Luz y ambiente de Zaun; pose de PRESENTAR con misterio.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Caitlyn_28.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Caitlyn Vigilante»: Caitlyn con el rifle entre cristales pintados por Jinx; el mono de juguete en primer plano.",
+  "para_que": "Grafiti de Jinx sobre cristal, primer plano desenfocado, niebla verde de Zaun.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Caitlyn_50.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Caitlyn Comandante» (T2): boina blanca, uniforme azul, rifle.",
+  "para_que": "Vestuario T2 de Caitlyn; azul #3C6CB4.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Vi_29.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Vi Suburbana»: chaqueta roja, guantelete Hextech enorme.",
+  "para_que": "Vestuario T1 de Vi; pose de REGAÑAR.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Ekko_36.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Ekko Firelight»: Ekko saltando con el bate.",
+  "para_que": "Pose de acción y ANIMAR de Ekko (concepto C).",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Heimerdinger_33.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Profesor Heimerdinger»: toca el banjo entre niños y pompas.",
+  "para_que": "Pose de CELEBRAR («Estrenado»).",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/img/champion/splash/Mel_1.jpg",
+  "fuente": "Riot Games (Data Dragon) vía GitHub",
+  "ancho": 1215,
+  "alto": 717,
+  "que_es": "Splash «Arcane: Concejal Mel»: sala del Consejo con contraluz dorado de ventanal.",
+  "para_que": "Luz y arquitectura de Piltóver.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/avatars/jinx.jpg",
+  "fuente": "Riot Games (RiotX Arcane) vía GitHub",
+  "ancho": 736,
+  "alto": 736,
+  "que_es": "Retrato oficial de Jinx en estilo Arcane (hay 11: ambessa, caitlyn, ekko, heimerdinger, jayce, jinx, mel, sevika, vi, viktor, warwick).",
+  "para_que": "Caras, pelo y ropa en estilo de la serie para todos los personajes.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://raw.githubusercontent.com/InFinity54/LoL_DDragon/master/extras/arcane/wallpapers/riotxarcane_jinx.png",
+  "fuente": "Riot Games (RiotX Arcane) vía GitHub",
+  "ancho": 1440,
+  "alto": 2960,
+  "que_es": "Fondo de móvil oficial de Jinx (hay también vi, jayce y caitlyn), en estilo del JUEGO.",
+  "para_que": "Sólo pose en movimiento. La ropa es la del juego: no copiarla.",
+  "licencia": "© Riot Games. Material oficial promocional. Sólo referencia, no pegar."
+ },
+ {
+  "url": "https://github.com/InFinity54/LoL_DDragon",
+  "fuente": "GitHub",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Espejo de Data Dragon: splash arts, avatares, fondos y datos es_MX (títulos y habilidades en latino).",
+  "para_que": "De aquí sale todo el arte oficial de la biblia; bajar por raw.githubusercontent.com.",
+  "licencia": "Archivos de Riot Games subidos por terceros. Sólo consulta."
+ },
+ {
+  "url": "https://www.netflix.com/tudum/galleries/arcane-season-2-character-posters",
+  "fuente": "Netflix Tudum",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Carteles oficiales de personaje de la temporada 2.",
+  "para_que": "Poses de la T2 (Vi y Jinx enfrentadas, Ekko).",
+  "licencia": "© Riot Games / Netflix. Sólo referencia."
+ },
+ {
+  "url": "https://www.netflix.com/tudum/features/arcane-season-two-behind-the-scenes",
+  "fuente": "Netflix Tudum",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Guía oficial del making of de la T2 (paletas de cada magia, diseño de Ekko).",
+  "para_que": "Reglas de color y vestuario.",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://80.lv/articles/riot-games-on-designing-arcane-s-piltover-zaun",
+  "fuente": "80.lv",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Entrevista a Arnaud-Loris Baudry sobre el diseño de Piltóver y Zaun.",
+  "para_que": "Art Déco frente a Art Nouveau; luz y materiales.",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://blog.syncsketch.com/creator-stories/arcane-fortiche/",
+  "fuente": "SyncSketch (entrevista a Alexis Wanneroy, Fortiche)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Cómo se animan los efectos 2D y los garabatos de Jinx (12 fps sobre 24).",
+  "para_que": "El «pensamiento» de Jinx como garabato encima de la imagen.",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://www.artstation.com/artwork/3qagn2",
+  "fuente": "ArtStation (Alexia Ferry)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«Arcane – Hextech Lab»: el laboratorio en 3D sobre conceptos de Arnaud-Loris Baudry.",
+  "para_que": "El sitio del concepto A.",
+  "licencia": "© la autora / Fortiche / Riot. Sólo mirar."
+ },
+ {
+  "url": "https://www.artstation.com/juliengeorgel",
+  "fuente": "ArtStation (Julien Georgel, director de arte)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Conceptos y fondos pintados de Arcane.",
+  "para_que": "Luz y paleta de los fondos.",
+  "licencia": "© el autor / Fortiche / Riot. Sólo mirar."
+ },
+ {
+  "url": "https://www.tumblr.com/art-of-arcane/770045202608111616/mariana-galiano",
+  "fuente": "Tumblr art-of-arcane",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Blog que recopila arte conceptual de Arcane con su autor (aquí, Mariana Galiano).",
+  "para_que": "Buscar más conceptos oficiales con crédito.",
+  "licencia": "Sólo mirar."
+ },
+ {
+  "url": "https://www.leagueoflegends.com/es-mx/news/community/murales-arcane/",
+  "fuente": "League of Legends LATAM",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Murales de Arcane pintados en 2021 en Ciudad de México, Bogotá, Lima, Santiago y Buenos Aires.",
+  "para_que": "Grafiti de Arcane hecho por artistas latinos; argumento para #arte.",
+  "licencia": "Sólo consulta."
+ },
+ {
+  "url": "https://www.deviantart.com/meynirr/art/Jinx-Arcane-Neon-Graffiti-Digital-Art-1076440241",
+  "fuente": "DeviantArt (meynirr)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fan art: Jinx en grafiti neón.",
+  "para_que": "Cómo resuelven otros el grafiti de Jinx.",
+  "licencia": "Fan art: © su autor sobre personajes de Riot Games. Sólo mirar, nunca pegar."
+ },
+ {
+  "url": "https://www.deviantart.com/yazooor/art/Arcane-Jinx-Graffiti-Neon-Street-Art-1320844834",
+  "fuente": "DeviantArt (Yazooor)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "Fan art: Jinx en grafiti callejero neón.",
+  "para_que": "Referencia de composición en pared.",
+  "licencia": "Fan art: © su autor sobre personajes de Riot Games. Sólo mirar, nunca pegar."
+ },
+ {
+  "url": "https://x.com/arcaneshow/status/1585300226247647232",
+  "fuente": "X (@arcaneshow, oficial)",
+  "ancho": null,
+  "alto": null,
+  "que_es": "«The colors of Piltover vs Zaun»: paletas oficiales de las dos ciudades.",
+  "para_que": "Comprobar los hex de §5.2 (no pude abrir la imagen).",
+  "licencia": "© Riot Games. Sólo referencia."
+ }
 ]

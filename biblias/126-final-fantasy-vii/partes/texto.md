@@ -52,6 +52,11 @@ La franquicia tiene 9+ juegos con interfaz propia; los reviso de más antiguo a 
 - **Ehrgeiz: God Bless the Ring** (arcade/PS1, 1998): juego de lucha de Square/DreamFactory con Cloud, Tifa, Sephiroth y Zack como personajes jugables invitados; su HUD es el de lucha estándar (barras de vida arriba, sin materia) · conocido por la crítica especializada como el primer «playable» 3D de Cloud ⚠️ (dato de memoria general del catálogo Square, no verifiqué una ficha en esta tanda)
 - **Final Fantasy VII: The First Soldier** (battle royale móvil, 2022-2023, cerrado): ya no tiene servidores activos · Wikipedia ⚠️ (no verifiqué capturas, servicio cerrado)
 
+**Contenido descartado (The Cutting Room Floor)**: tcrf.net bloquea el acceso directo (Cloudflare rechaza `curl` y `navegar.py`, y el proxy de este contenedor bloquea `tcrf.net` para WebFetch — 3 intentos distintos, ninguno pasó), así que estos datos vienen de los fragmentos que devolvió la búsqueda, no de la página completa; marco ⚠️ por eso:
+- Mensajes de depuración sin usar en la sala de debug de FFVII: *"This guy handles Gongaga Village!"*, *"This dude likes trains."*, *"In this room, Cloud is holding his sword for some reason."* — texto de prueba de los programadores, nunca pensado para el jugador final
+- Un fallo de traducción real: en la versión occidental hay una casilla de diálogo que los traductores dejaron en blanco, así que el juego salta directo al siguiente cuadro, que resulta ser un mensaje de depuración no traducido (se cuela en la versión final)
+- TCRF también documenta objetos clave sin usar (cartas descartadas a una hija y a una esposa) y una sala de depuración completa, más una página dedicada «Final Fantasy VII dummied content» en la propia Final Fantasy Wiki · búsqueda «tcrf.net "Final Fantasy VII" unused text debug room dummied dialogue» (en) ⚠️ (una fuente, vía snippets de búsqueda, no la página directa) · https://tcrf.net/Final_Fantasy_VII/Unused_Text y https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_dummied_content
+
 ## 18 · Estilo de dibujo y técnica, y cómo replicarlo
 
 Rigs y tramas: ver puntos 3 y 19. Aquí sólo línea/sombreado/técnica de producción y cómo reproducirla en Photoshop y Blender.
@@ -146,6 +151,8 @@ Punto de partida: `partes/datos-texto.md` (recolectado, capturas de Steam de 6 j
 - «Hironobu Sakaguchi Final Fantasy VII influences Star Wars interview inspiration»
 - «"Final Fantasy VII" similar games recommend if you like JRPG cyberpunk dystopia»
 - «"Final Fantasy VII Revelation" Steam app 4354570»
+- «tcrf.net "Final Fantasy VII" unused text debug room dummied dialogue»
+- «ファイナルファンタジー7 リメイク 書体 フォント インタビュー» (japonés)
 
 **Navegación directa (curl/API, sin gastar cupo de búsqueda)**:
 - dafont.com/reactor7.font (vía curl con user-agent; WebFetch lo bloquea el proxy) — descargado su mapa de caracteres y mirado con Read
@@ -155,5 +162,7 @@ Punto de partida: `partes/datos-texto.md` (recolectado, capturas de Steam de 6 j
 - namelivia.com (blog técnico, 2015) — leído por curl (WebFetch lo bloquea el proxy): técnica de reconstrucción de fondos de FFVII en Blender con el add-on Blam
 - automaton-media.com — leído por curl: entrevista completa a Naoki Hamaguchi sobre el pelo de Cloud (TAA/DRS/DLSS)
 - store.steampowered.com — ya recolectado en `datos-texto.md`; descargué y miré 3 capturas de Rebirth/Remake con Read para buscar UI en pantalla (no salió HUD en esas 3, sólo cinemáticas)
+- dotcolon.net/fonts/ferrum/ — leído por curl: fuente japonesa gratis «No Rights Reserved» hecha a propósito referenciando el logo de FINAL FANTASY; descargada y comprobada con fontTools (sólo ASCII, sin ñ/tildes/¿/¡)
+- automaton-media.com/articles/newsjp (japonés) y famitsu.com (japonés) — polémica de la fuente en inglés del Pixel Remaster
 
-**Bloqueado o sin poder verificar**: unrealengine.com (egress bloqueado por el proxy tanto en WebFetch como en curl, 403), dafont.com por WebFetch (funcionó por curl directo), gameuidatabase.com por curl directo (Cloudflare; resuelto con `navegar.py`).
+**Bloqueado o sin poder verificar**: unrealengine.com (egress bloqueado por el proxy tanto en WebFetch como en curl, 403); dafont.com por WebFetch (funcionó por curl directo); gameuidatabase.com por curl directo (Cloudflare; resuelto con `navegar.py`); **tcrf.net bloqueado por los 3 caminos** (Cloudflare a curl y a `navegar.py`, proxy del contenedor a WebFetch) — los datos de TCRF que aparecen en el punto 11 vienen de fragmentos de búsqueda, no de la página completa.

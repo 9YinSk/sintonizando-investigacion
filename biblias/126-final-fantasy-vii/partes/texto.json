@@ -9,6 +9,15 @@
     "licencia": "Gratis para descargar en dafont.com; licencia exacta no detallada en la ficha, revisar antes de uso comercial"
   },
   {
+    "url": "https://dotcolon.net/fonts/ferrum/",
+    "fuente": "dotcolon.net (Japón)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ferrum: fuente romana estrecha hecha a propósito tomando como referencia el logo de FINAL FANTASY",
+    "para_que": "Logotipo del canal en mayúsculas/inglés (punto 5) — OJO: no tiene ñ/tildes/¿/¡, sólo ASCII básico, comprobado con fontTools",
+    "licencia": "No Rights Reserved (la más libre posible; el propio autor permite modificar y redistribuir)"
+  },
+  {
     "url": "https://fonts.google.com/specimen/Cinzel",
     "fuente": "Google Fonts / Fontsource",
     "ancho": 0,
