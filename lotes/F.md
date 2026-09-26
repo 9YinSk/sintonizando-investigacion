@@ -30,6 +30,7 @@ Cuenta: cuenta A104
 - 89 Frieren, paisajes y memoria: **COMPLETA y subida** (23:57 UTC). ✅28 ⚠️3 ❌0, 165 referencias, 55 webs, 2278 líneas.
 - **Cuenta .104** (25-sep-2026, 06:55 UTC): la sesión .106 llevaba 2 h 30 sin subir nada. Herramientas instaladas, guardar.sh cada 300 s, comprobación cada hora. Relanzados: redactor de 80 (le faltaban tabla, bitácora y referencias.json), redactor de 81 (cortado en §1) e investigadores de texto, voz y vídeo de 82 (imagen ya está). 83-86 ya recolectadas; recolectando 87-88.
 - 88 Konosuba: **COMPLETA y subida** (2026-09-26 03:0x UTC). ✅27 ⚠️10 ❌0, 137 referencias, 52 webs, 1210 líneas.
+- 90 Kaguya-sama (comedia y rótulos): **COMPLETA y subida** (2026-09-26 03:0x UTC). ✅22 ⚠️15 ❌0, 56 referencias, 50 webs. La parte de voz se había cortado tras el punto 8: relanzada para 12, 13, 20, 21 y 22 y luego un redactor en modo seguir.
 
 ## Avisos para el dueño
 
@@ -122,6 +123,7 @@ Cuenta: cuenta A104
 
 - **89 Frieren, paisajes y memoria:** más querido, Himmel (1.º en las dos primeras encuestas oficiales: 1.239.533 de 12.688.733 votos, aunque muere en ep. 1). Cuadro de diálogo propio: sin globo; la memoria habla con un objeto del sitio (placa grabada de estatua en Kaisei Tokumin, mapa oficial, páginas en blanco de la autobiografía de Himmel) o con silencio (yohaku). Láminas: A #destacados («La estatua en el campo de hierba luna azul», ⭐ recomendada), B #fotos («El mapa del viaje»), C #textos («Las páginas en blanco»). Avisos: Oír el clip de Himmel K8XwKilGTg0 en 0:13 antes de poner la frase en cartela de concepto A (según 33, «futuro» está mal oída). Elegir entre concepto C de esta biblia (páginas en blanco) y concepto B de 33 (diario): mismo libro, no hacer los dos. En concepto B cartela lleva frase del redactor; la real del doblaje (los meteoros) sólo si no se hace concepto C de 33. El mapa de frieren-anime.jp/special/map/ requiere navegador real (Cloudflare); faltan títulos 16-21. Faltan minutos de cinco caras de Frieren y Fern (eps. 2, 7, 23, 25, 27), de Flamme en Aureole y de la cuna vacía.
 - **88 Konosuba:** más querida, Megumin (encuesta de la editorial, AniList 16 696, Danbooru); secundaria Yunyun. Cuadro: el pergamino enrollado del juego oficial de Steam (#CCB47A, #D4AE67, #C08E53; cinta roja #8B1E1E). Láminas: #presentaciones (Aqua y su carnet en el Gremio), #castings (Kazuma reparte misiones; Darkness elige la peor), #reto-de-la-semana (Explosión de Megumin con el pergamino del reto). Avisos: oír con IP latina los 9 clips doblados de Crunchyroll para frases con minuto de la serie principal; falta minuto y música del final de *Legend of Crimson* (sólo en YouTube); el texto de #presentaciones y #reto-de-la-semana en servidor/inventario.md está cortado; **no volver a correr juntar_referencias.py en 88** (mete 26 referencias de otras series); modelos 3D de Megumin de plaxa3 y Blueky son NC.
+- **90 Kaguya-sama (comedia y rótulos):** más querida, Kaguya (AniList 20 513); Chika es la cara de la comedia; en Japón gana Hayasaka. Cuadro: rótulos, no globos (cartela de oro 3D «生徒会長» #E2C47F, ficha vertical «備考» en Shippori Mincho, marcador «本日の勝敗»). Láminas: A ⭐ #🎞️・edicion «Rótulo de presidente», B #😂・memes «El chat del consejo», C #📖・textos «Guion en cartulina». Avisos: el inventario corta el texto de #🎞️・edicion tras «aquí»; #😂・memes manda a «fandub-de-memes», canal que no está en el inventario; **hojas/comedia_01.jpg trae miniaturas en bañador y portadas del doujin oficial +18** (#2, #16-18, #21-22, #28-29, #33; marcadas «no usar» en la biblia): decidir si la hoja se queda; cumpleaños de Kei: AniList «1/8» vs biblia 43 «8 de enero»; oír los chistes locales del doblaje latino.
 
 ## Wikis de Fandom del lote
 
@@ -184,6 +186,7 @@ Cuenta: cuenta A104
 | 89-frieren-paisajes-y-memoria | equipo completo | Sonnet + Opus | — | — |
 | 87-tsukimichi-moonlit-fantasy | redactor | Opus | 15 | 236 mil |
 | 88 | redactor (seguir) | Opus | 11 | 201 k |
+| 90 | redactor | Opus | — | — |
 
 ## En marcha (sesión reanudada 2026-09-25 ~19:55 UTC)
 
