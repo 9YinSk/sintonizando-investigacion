@@ -738,7 +738,7 @@ El fandub de Zelda es pequeño: es un juego, no un anime.
   - **Línea adulta** (Link vence de adulto): *The Wind Waker* (Hyrule bajo el mar), *Phantom Hourglass*, *Spirit Tracks*.
   - **Línea infantil** (Link vuelve a ser niño): *Majora's Mask*, *Twilight Princess*, *Four Swords Adventures*.
 - **BotW y TotK:** miles de años después, con Hyrule en ruinas. Nintendo no los sitúa en ninguna rama. ⚠️
-- ⚠️ Nota del redactor: la parte de texto ponía *Minish Cap* en la línea infantil y unía cada línea a un trozo de la Trifuerza. Eso no sale en las fuentes que cita; aquí se quitó. Comprobar en la wiki antes de usarlo.
+- ⚠️ Nota del redactor, de memoria y sin fuente nueva: la parte de texto ponía *Minish Cap* y *Four Swords* en la línea infantil y unía cada línea a un trozo de la Trifuerza. Hasta donde sé, *Minish Cap* y *Four Swords* van antes de *Ocarina*, y la que sigue a *Twilight Princess* es *Four Swords Adventures*. Lo de la Trifuerza se quitó. Comprobarlo en la [Zelda Timeline](https://zelda.fandom.com/wiki/Zelda_Timeline) antes de usarlo.
 
 **Momentos clave que todo fan reconoce:** sacar la Espada Maestra; el despertar de Link sin memoria en BotW; el llanto de Zelda; la despedida de Midna; Ganon convertido en bestia en el castillo.
 

@@ -293,9 +293,21 @@ https://en.wikipedia.org/wiki/Reanimal
    trama (2º y 3º capítulo del DLC aún sin publicar, TBA en la wiki) ⚠️.
 
 **Símbolos que un fan reconoce al instante**
-- **Las máscaras**: zorro (Boy) y cordero/muttonhead (Girl) dan nombre a la DLC
-  cosmética *Foxhead and Muttonhead Masks*; hay 20+ máscaras coleccionables en
-  total (pájaro, gusano, almeja, cerdo, cono…) · https://reanimal.fandom.com/wiki/Masks ✅
+- **Las máscaras de identidad, la más reconocible de todas**: **El Niño** lleva
+  capucha de **saco de arpillera** con cordón al cuello (cara siempre oculta,
+  sin agujeros de ojos ni boca) y **La Niña** lleva **máscara blanca de
+  conejo** con una oreja rota/torcida (única con algo de cara visible: deja
+  ver boca y barbilla) — descritas igual en sus fichas de personaje de la
+  wiki y confirmadas también por los investigadores de imagen, vídeo y voz de
+  este equipo (sin cruzarlos) ✅ https://reanimal.fandom.com/wiki/The_Boy y
+  https://reanimal.fandom.com/wiki/The_Girl. Aparte hay 20+ máscaras
+  coleccionables **intercambiables como disfraz** para cualquiera de los dos
+  (zorro, cordero/mutón, pájaro, gusano, cerdo, cono…), incluida la DLC de
+  pago *Foxhead and Muttonhead Masks* ✅ https://reanimal.fandom.com/wiki/Masks
+  — pero **ninguna fuente (ni la ficha de Steam de esa DLC) confirma que el
+  zorro sea fijo del Niño y el cordero fijo de la Niña**: son disfraces
+  desbloqueables, no la máscara de identidad de cada uno ⚠️ (corregido en esta
+  tanda: una versión anterior de esta línea sí los daba por fijos).
 - **El pozo (the Well):** origen de la pesadilla y de todo el ritual de sangre;
   aparece en el sueño inicial y en el final ✅.
 - **La oveja / Sheep Beast:** el monstruo central, nacido de la culpa y que se

@@ -263,18 +263,3 @@ anotado en «No encontré».
 - WebSearch (ja/en): Nendoroid Kaguya y Nendoroid Ishigami (faceplates),
   disfraces de festival/cosplay, LINE stickers oficiales, pinceles de líneas
   de velocidad — 5 búsquedas.
-
-## No encontré
-
-- (pendiente)
-
-## Bitácora
-
-- Leída entera `biblias/43-kaguya-sama-love-is-war/partes/imagen.md` (24 mil
-  caracteres) antes de empezar, para no repetir consultas ni datos.
-- `herramientas/investigar_serie.py --wiki kaguyasama-wa-kokurasetai --paginas
-  "Kaguya (Moron)" "Nagisa Kashiwagi" "Go Kazamatsuri" "Chika Fujiwara"`: 106
-  imágenes enlazadas, 46 grandes → 1 hoja (`comedia_01.jpg`), mirada entera.
-- Fandom API `list=categorymembers&cmtitle=Category:Omake` y `Category:Extra
-  Chapters` (en): confirma que "Talk Chapter" y "Doujinshi Chapter" son los
-  extras cómicos oficiales de la serie.

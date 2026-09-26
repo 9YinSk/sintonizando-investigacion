@@ -239,3 +239,36 @@ reutilizable: funciona para «alguien imponente entra en escena»).
 flojo que con Light/L/Ryuk (protagonistas, más fotogramas comprobados). Quien
 monte la lámina debería mirar ±10 s alrededor de los minutos con ⚠️ antes de
 usarlos como referencia exacta de pose.
+
+---
+
+## Lo mejor para la lámina
+
+- **La sonrisa de Light sosteniendo a L** (ep. 25, 18:00, luz roja de alarma) con **«Kyrie II»** sonando: el momento más fotografiado de la serie, con música confirmada.
+- **La papa frita con las dos manos** (ep. 8, 18:35): escribe y come a la vez — gesto perfecto para un personaje «multitarea» en una lámina de canal de textos.
+- **La «L» gótica en pantalla blanca** (ep. 2, 17:36): tipografía + revelación en un solo fotograma, ideal para una interfaz o pantalla dentro de la lámina.
+- **El insert «How to use it»** del tráiler (0:36-1:00) y del ep. 1 (04:32): el cuaderno explicando sus propias reglas es el objeto-narrador perfecto para el canal de guiones.
+- **Paleta medida real**: azul-violeta casi negro en interiores, dorado-oliva sólo en el café de L, rojo sólo en ojos/sangre/alarma — nunca de fondo.
+
+## No encontré
+
+- **Minuto de los vídeos de análisis en YouTube** («El IMPACTO de L», «Por qué perdió Light Yagami», etc.): YouTube bloqueado hoy dos veces (`yt-dlp`: «Sign in to confirm you're not a bot» y 429). Probé Dailymotion como alternativa (`api.dailymotion.com/videos?search=Death+Note+analisis+L+Light`): sólo salieron clips de la película Netflix 2017, no del anime.
+- **AnimeThemes** para vídeo directo de OP/ED: la API sigue caída (antes 522, hoy 403 con `filter[name]`); usé Dailymotion en su lugar.
+- **Vistas exactas y fecha de los vídeos de TikTok**: TikTok bloquea el HTML con contenido vacío incluso con `navegar.py` (0 caracteres); me quedé con los enlaces directos y lo que confirma Know Your Meme/la búsqueda web.
+- **Minuto por pista exacto de toda la OST del ep. 8 y 25** (sólo tengo el bloque de las 17:13 confirmado para el ep. 25): `wtas.moe` da la lista completa del episodio pero no el minuto de cada pista suelta.
+- **Confirmación visual exacta de Misa (13, 10:31) y Near (27, 02:01 y 28, 01:49)**: el segundo del subtítulo no coincidía con el personaje esperado en el fotograma; puede que el gesto caiga unos segundos antes o después dentro del mismo plano.
+
+## Bitácora de búsqueda
+
+- `yt-dlp` sobre `youtube.com/watch?v=NlJZ-YgAt-c` (tráiler AniList): **429 → «Sign in to confirm you're not a bot»**, dos intentos con minutos de por medio. No reintento más.
+- `fotogramas.py` sobre 13 episodios completos de Internet Archive (`archive.org/download/death-note-XX`, y `death-note-11_202008` para el 11): **funciona perfecto**, 1280×720, sin bloqueo. 30 fotogramas extraídos y mirados con Read.
+- `fotogramas.py` sobre 3 clips de Dailymotion (opening x31pve2, ending x6alujt, tráiler x89nprz): **funciona**, hojas de contacto de 6-8 fotogramas.
+- `api.dailymotion.com/videos?search=...` (dos búsquedas: «Death Note analisis L Light»): da resultados pero son de la película 2017, no del anime.
+- `api.animethemes.moe/anime?filter[name]=Death Note`: **403** (con `curl -g` y con `urllib` con cabeceras normales). No lo reintento (regla de dos intentos).
+- `estilo.py` (Pillow) sobre 11 fotogramas para medir paleta real: **funciona**, da hex + saturación/brillo, sin necesidad de red.
+- `wtas.moe/ost/death-note/25` y `/8` (WebFetch): da tracklist detectado por audio, con 5 bloques horarios por episodio.
+- Wikipedia `Death_Note_original_soundtracks` (WebFetch): tracklist oficial de las 3 OST, cruzado con wtas.moe.
+- WebSearch (es/en): «Death Note episode 25 death scene soundtrack», «Death Note TikTok trend keikaku doori potato chip», «potato chip Death Note TikTok trend». 3 búsquedas de las ~50 permitidas.
+- `www.tiktok.com/discover/...` con `curl` y con `navegar.py --selector body`: la página carga (200) pero sin contenido útil (JS puro, 0 caracteres con navegar.py). Uso los enlaces directos a vídeos/sonidos que sí dio la búsqueda web.
+- Metadatos de Internet Archive (`archive.org/metadata/death-note-XX`) para confirmar el nombre exacto del `.mp4` de cada episodio antes de pedir el fotograma: 13 episodios comprobados (01, 02, 08, 09, 10, 11, 12, 13, 24, 25, 27, 28, 33, 36, 37).
+- Disco: se borraron todos los `video.mp4` descargados por `fotogramas.py` en cuanto salieron las hojas (regla del disco compartido); sólo quedan los `.jpg` en `/tmp/claude-0/trabajo/18-death-note-video/` (2,6 MB en total).

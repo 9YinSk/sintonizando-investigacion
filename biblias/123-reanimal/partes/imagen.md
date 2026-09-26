@@ -24,7 +24,7 @@ Edition), con más de 60 páginas de bocetos firmados: se ve completo en la
 galería de la wiki. También hay tráilers, capturas 4K y dos piezas de arte
 oficial sueltas de prensa.
 
-- Portada de «Art of REANIMAL» (artbook oficial, incluido en la Collector's Edition) · https://static.wikia.nocookie.net/reanimal-vg/images/a/aa/ArtofReanimal_Cover.png (ver hoja `arte_oficial_01.jpg`, nº 269) · reanimal.fandom.com (galería «Art of REANIMAL») · ⚠️ · 1024×998
+- Portada de «Art of REANIMAL» (artbook oficial, incluido en la Collector's Edition) · https://static.wikia.nocookie.net/reanimal-vg/images/a/a8/ArtofReanimal_Cover.png (URL corregida contra la API de Fandom el 26-sep; la versión anterior de esta línea tenía el hash `a/aa`, que no existe) · reanimal.fandom.com (galería «Art of REANIMAL») · ⚠️ · 1024×998
 - Concept art de La Niña, firmado «by Konstantin Kostadinov» (diseñador de personajes) · pág. 9 del artbook, hoja `arte_oficial_01.jpg` nº 239 · ⚠️
 - Concept art de Hood (uno de los monstruos-niños con capucha), «by Konstantin Kostadinov» · pág. 11, hoja `arte_oficial_01.jpg` nº 231 (junto a La Niña, mismas proporciones para comparar altura) · ⚠️
 - Concept art de La Madre («The Mother», jefe final del cap. 5), «by Konstantin Kostadinov and Petrus Johansson» · pág. 26-27, hoja `arte_oficial_01.jpg` nº 228 · ⚠️
