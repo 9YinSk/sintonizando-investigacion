@@ -412,3 +412,82 @@ La interfaz de Persona 5 es la razón del encargo: la más copiada de los juegos
 - Idiomas: en *Royal*, *Strikers* y *Tactica* hay español de España, japonés, coreano y chino en texto ([Steam de *Strikers*](https://store.steampowered.com/app/1382330)). ✅
 - **The Cutting Room Floor** (contenido descartado): bloqueado por Cloudflare, 403 en dos intentos ([tcrf.net](https://tcrf.net/Persona_5)). ⚠️ Queda el *Prototype Soundtrack* de §9 como rastro de la beta.
 
+## 12 · Lo que el fandom ama y qué NO hacer
+
+**Memes y chistes internos** ([TV Tropes, Memes](https://tvtropes.org/pmwiki/pmwiki.php/Memes/Persona5))
+- **«FOR REAL?!»** de Ryuji. Atlus llamó «For Reels» a una tragaperras del juego. ✅
+- **«Looking cool, Joker!»** de Morgana, repetida en cada combate. Es una burla de Joker en *Smash Bros.* con la voz real de Morgana. ✅
+- **Morgana y la hora de dormir:** casi cada noche manda a Joker a la cama. Su actriz inglesa leyó un cuento infantil con esa voz de broma. ⚠️
+- **#FeedYusuke:** Yusuke pasó hambre con su maestro Madarame y ama la comida. En la playa compra dos langostas «para apreciarlas» ([1:32](https://www.dailymotion.com/video/x6uu26k?t=92)). ✅
+- **«Being Goro is suffering»:** se quiere a Akechi por su tragedia. ⚠️
+- Apodos de las Personas: la moto de Makoto, Johanna, es el «Popemobile». ⚠️
+- **Lala Escargot**, dueña del bar Crossroads, «best girl» sin ser jugable. ⚠️
+
+**Hilos de Reddit que más se votan** ([r/Persona5](https://www.reddit.com/r/Persona5))
+- «The Lovers arcana and misleading dialogue options, name a more iconic duo», 2191 votos ([hilo](https://www.reddit.com/r/Persona5/comments/p2i0zq/the_lovers_arcana_and_misleading_dialogue_options/)). ✅ Las respuestas que engañan al jugador son un chiste de todos.
+- «Any iconic line in the series ever top this savage shade?», 1563 votos ([hilo](https://www.reddit.com/r/Persona5/comments/v7u0vi/any_iconic_line_in_the_series_ever_top_this/)). ✅
+- «What is your most iconic Yusuke line?», 333 votos ([hilo](https://www.reddit.com/r/Persona5/comments/11ei4jz/what_is_your_most_iconic_yusuke_line_this_is_mine/)). ✅
+- Nadie vio que es un guiño a **Lupin III**, «hasta hace la carrera» ([hilo](https://www.reddit.com/r/Persona5/comments/yl4vau/im_surprised_no_one_realized_that_this_is_a_lupin/)). ✅
+
+**Qué NO hacer** (lo que un fan ve falso al instante)
+- **Joker sin guantes rojos.** El traje de Persona 5 para el avatar de *Sonic Forces* salió sin ellos y el fandom lo hizo meme: «NO GLOVES!» ([DLC en Steam](https://store.steampowered.com/app/715910)). ✅
+- **Morgana como «sólo un gato».** Se enfada: dice que es humano y ha perdido la memoria. ✅
+- **Ryuji tranquilo o educado.** Grita, se come letras y dice palabrotas suaves. ✅
+- **Akechi de villano plano.** Se le quiere por lo trágico. ✅
+- **Yusuke comiendo sin entusiasmo.** La comida es su chiste. ✅
+- **Colores de relleno.** Rojo, negro y blanco; el resto, muy poco (§18).
+- **Joker hablando mucho.** En el juego apenas dice nada: gestos y miradas.
+- **La máscara de Joker en otro color.** Es blanca, con forma de pico de pájaro.
+- **Mezclar mundos sin querer.** El traje de ladrón es del Metaverso; en Leblanc o en clase van de uniforme o de calle. ⚠️ Deducido de §25 y de las escenas; el arte promocional sí los mezcla a veces.
+
+## 13 · Personajes a fondo
+
+Vídeos mirados de verdad: tráiler #2 del anime, episodio 1 y episodio 18. Carácter cruzado entre la wiki y AniList.
+
+### Joker · Ren Amamiya
+- **Quién es.** Chico de instituto enviado a Tokio en libertad condicional tras una acusación injusta. Vive en la buhardilla de Leblanc. Líder callado y observador. ✅ ([AniList](https://anilist.co/character/121590) y [wiki](https://megamitensei.fandom.com/wiki/Ren_Amamiya))
+- **Qué le importa.** La justicia y la rebeldía. Su primera Persona, **Arsène**, es esa voluntad. ⚠️
+- **Qué transmite.** Aplomo frío por fuera. Da la sensación de que lo tiene todo bajo control, incluso esposado.
+- **Arco.** De marginado bajo sospecha a líder que cambia la sociedad. ⚠️ Deducido de la sinopsis.
+- **Cómo se expresa.** En el juego no habla: el jugador elige. En el anime, frases cortas y tono calmado. Sonrisa torcida al ponerse la máscara.
+- **Su cara en cada emoción** (vistas):
+  - Picardía y confianza al ponerse la máscara por primera vez ([0:15](https://www.dailymotion.com/video/x6gu5mf?t=15)). ✅
+  - Determinación, mirada fija ([1:19](https://www.dailymotion.com/video/x6gu5mf?t=79)). ✅
+  - Dolor, herida junto al ojo ([1:13](https://www.dailymotion.com/video/x6gu5mf?t=73)). ✅
+  - Miedo: ojo muy abierto, una lágrima, esposado en el suelo. Episodio 1 ([2:48](https://www.dailymotion.com/video/x6gzgvk?t=168)). ✅
+  - Tristeza: manos ensangrentadas a la cara, llora en silencio. Episodio 1 ([5:45](https://www.dailymotion.com/video/x6gzgvk?t=345)). ✅
+- **Dinámicas.** Morgana lo manda a dormir y le jalea en combate. Ryuji es su mejor amigo. Con Akechi, rivalidad cortés sobre un tablero de ajedrez (nº67). Sojiro, el dueño de Leblanc, llora cuando se va (§21).
+
+### Morgana · Mona
+- **Quién es.** Criatura con forma de gato que habla. Sin memoria, cree que fue humano. En el Metaverso se vuelve un autobús (nº11). ✅
+- **Carácter.** Orgulloso, se cree más grande de lo que es, algo manipulador para conseguir ayuda. ✅ ([wiki](https://megamitensei.fandom.com/wiki/Morgana))
+- **Miedo.** No ser humano de verdad; ser inútil. Se culpa cuando el grupo desaparece (§21). ⚠️
+- **Qué transmite.** Mascota con aires de caballero: da risa y ternura.
+- **Cómo se expresa.** Galante con Ann: «Lady Ann» ([0:40](https://www.dailymotion.com/video/x6uu26k?t=40)). Presume: «It's almost scary how good I am!». Manda: «You must be tired…». Se sienta de lado en una silla roja, ofendido ([0:28](https://www.dailymotion.com/video/x51by64?t=28)).
+- **Caras vistas.** Alegría en pleno salto ([0:30](https://www.dailymotion.com/video/x6gu5mf?t=30)) ✅. Sorpresa con gota de sudor ([0:24](https://www.dailymotion.com/video/x4ppmvg?t=24)) ✅. Rabia, miedo y tristeza sin fotograma. ⚠️
+- **Dinámicas.** Discute con Ryuji; adora a Ann; cuida de Joker.
+
+### Ann Takamaki · Panther
+- **Quién es.** Modelo, cuarto de sangre extranjera. Años aislada por su aspecto. ✅ ([wiki](https://megamitensei.fandom.com/wiki/Ann_Takamaki))
+- **Carácter.** Amable y compasiva. Retraída al principio, pero se abre con los suyos. Buena leyendo a la gente: fue la primera en creer en el protagonista. ✅
+- **Qué odia.** Que la juzguen por su aspecto.
+- **Qué transmite.** Fuerza que nace del enfado justo; calidez con los amigos.
+- **Cómo se expresa.** Directa, regaña en voz alta: «Hey, cut it out!» ([0:46](https://www.dailymotion.com/video/x6uu26k?t=46)). Se ríe con ganas, mano cerca de la cara ([0:32](https://www.dailymotion.com/video/x7cq9qv?t=32)). Explica con las manos abiertas ([0:24](https://www.dailymotion.com/video/x7cq9qv?t=24)).
+- **Caras vistas.** Rabia ✅. Risa ✅. Grito de victoria ([0:24](https://www.dailymotion.com/video/x4nn845?t=24)) ✅. Guiño con lengua fuera (nº32) ✅. Tristeza sin fotograma. ⚠️
+- **Dinámicas.** Regaña a Ryuji; Morgana la corteja y ella lo aguanta.
+
+### Ryuji Sakamoto · Skull
+- **Quién es.** Ex estrella de atletismo. El profesor Kamoshida le lesionó la pierna. Se declara «el problema» del instituto. ✅ ([wiki](https://megamitensei.fandom.com/wiki/Ryuji_Sakamoto))
+- **Carácter.** Rebelde, travieso, corto de genio. Por dentro, optimista, algo vago y hasta un poco cobarde. ✅
+- **Qué transmite.** Lealtad a lo bruto. Es el que se lanza primero.
+- **Arco.** Del rencor por el pasado a «ser libre» (su cita de §8). Su gran momento: corre con la pierna mala para salvar al grupo (§21).
+- **Cómo se expresa.** Grita, se come letras: «hangin'», «bein'». Muletilla «FOR REAL?!». Brazos cruzados y ceja alzada, sonrisa chulesca ([0:21](https://www.dailymotion.com/video/x4mxiax?t=21)).
+- **Caras vistas.** Euforia, puños cerrados ([0:16](https://www.dailymotion.com/video/x6uu26k?t=16)) ✅. Brazos en alto entre chispas ([0:15](https://www.dailymotion.com/video/x4mxiax?t=15)) ✅. Rabia, miedo y vergüenza sin fotograma. ⚠️
+
+### Los demás, en corto
+- **Makoto Niijima (Queen).** Presidenta del consejo, estudiosa, ama el orden y odia la injustica y sentirse inútil. Su Persona es una moto. 2.ª en las dos encuestas. ⚠️ Sin fotograma propio.
+- **Futaba Sakura (Oracle).** Hacker encerrada en casa, ansiedad social. Culpa por la muerte de su madre. Vergüenza vista: «W-What do you think?» ([0:24](https://www.dailymotion.com/video/x6uu26k?t=24)). ✅
+- **Yusuke Kitagawa (Fox).** Pintor, alumno de Madarame. Hambre crónica, amor por las langostas ([1:32](https://www.dailymotion.com/video/x6uu26k?t=92)). ✅
+- **Goro Akechi (Crow).** «Príncipe detective» de la tele. Cortés en público, medio sonrisa controlada ([0:29](https://www.dailymotion.com/video/x6gu5mf?t=29)). ✅ Trágico.
+- **Haru Okumura (Noir).** Heredera tratada como objeto por su familia. Jardinera; su arma es un hacha. ⚠️
+
