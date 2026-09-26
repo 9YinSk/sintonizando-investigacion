@@ -302,3 +302,72 @@ Lo más importante de esta biblia. **Persona 5 nunca usa una burbuja blanca redo
 - Morgana queda a media tabla, pero es el que más habla y más memes tiene (§12).
 - Ann gana en dibujos de fans, no en votos.
 
+## 8 · Doblaje latino y frases textuales
+
+**No hay doblaje latino oficial.** Ni del juego ni del anime *Persona 5 the Animation*. ✅ Dos comprobaciones:
+- Doblaje Wiki no tiene página de la obra. Buscado por su API con siete búsquedas distintas ([consulta](https://doblaje.fandom.com/es/api.php?action=query&list=allpages&apprefix=Persona)). ✅
+- La ficha internacional de doblajes del anime sólo tiene el inglés, de Aniplex of America, 2020 ([Dubbing Wiki](https://dubbing.fandom.com/wiki/Persona_5:_The_Animation)). ✅
+- ANMTV no se pudo abrir: el proxy lo bloquea. ⚠️
+
+**Español que sí existe: sólo texto, de España.** *Royal*, *Strikers* y *Tactica* traen subtítulos y menús en «Español de España», sin voces ([Steam de *Royal*](https://store.steampowered.com/app/1687950)). El mod latino parte de esa traducción ([GameBanana](https://gamebanana.com/wips/85365)). ✅ No hemos leído ninguna frase de esa traducción. ⚠️
+
+**Quién da voz a cada uno** (japonés e inglés; dos fuentes: [Dubbing Wiki](https://dubbing.fandom.com/wiki/Persona_5:_The_Animation) y [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Persona-5/))
+| Personaje | Seiyū | Voz latina | Voz inglesa |
+|---|---|---|---|
+| Joker / Ren Amamiya | Jun Fukuyama | no existe | Xander Mobus |
+| Ryuji Sakamoto | Mamoru Miyano | no existe | Max Mittelman |
+| Ann Takamaki | Nana Mizuki | no existe | Erika Harlacher |
+| Morgana | Ikue Ōtani | no existe | Cassandra Lee Morris |
+| Yusuke Kitagawa | Tomokazu Sugita | no existe | Matthew Mercer |
+| Makoto Niijima | Rina Satō | no existe | Cherami Leigh |
+| Futaba Sakura | Aoi Yūki | no existe | Erica Lindbeck |
+| Haru Okumura | Haruka Tomatsu | no existe | Xanthe Huynh |
+| Goro Akechi | Sōichirō Hoshi | no existe | Robbie Daymond ([Wikipedia](https://en.wikipedia.org/wiki/Goro_Akechi)) |
+
+✅ Toda la tabla con dos fuentes.
+
+**Frases textuales en inglés, con vídeo y minuto** (no hay latinas; la versión española va en cursiva y es **traducción nuestra**, para la lámina)
+| Quién | Frase real | Dónde | En español (nuestra) |
+|---|---|---|---|
+| Ryuji | «Swimsuits!» | Ep. 18, [0:16](https://www.dailymotion.com/video/x6uu26k?t=16) | *¡Trajes de baño!* |
+| Futaba | «W-What do you think?» | Ep. 18, [0:24](https://www.dailymotion.com/video/x6uu26k?t=24) | *¿Q-qué les parece?* |
+| Morgana | «You look beautiful, Lady Ann!» | Ep. 18, [0:40](https://www.dailymotion.com/video/x6uu26k?t=40) | *¡Estás preciosa, Lady Ann!* |
+| Ann | «Hey, cut it out!» | Ep. 18, [0:46](https://www.dailymotion.com/video/x6uu26k?t=46) | *¡Oye, ya basta!* |
+| Yusuke | «The moment I set eyes on this distinct shape, I was in love.» | Ep. 18, [1:32](https://www.dailymotion.com/video/x6uu26k?t=92) | *En cuanto vi esta forma tan singular, me enamoré.* |
+| Morgana | «Take 'em down, Joker!» | Tráiler, [0:40](https://www.dailymotion.com/video/x8afeg6?t=40) | *¡Acábalos, Joker!* |
+| Morgana | «A beautiful rose has thorns!» | Avance del ending 1, [vídeo](https://www.dailymotion.com/video/x6hui2b) | *¡Una rosa bella tiene espinas!* |
+
+✅ Las del episodio 18, vistas y oídas. ⚠️ Las dos últimas, una sola fuente.
+
+**Frases reales del juego, citadas por la wiki o por TV Tropes** (sin minuto)
+- Ryuji: «**FOR REAL?!**», su muletilla ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Memes/Persona5)). ✅
+- Morgana: «Looking cool, Joker!» y «It's almost scary how good I am!». Atlus las reusó en *Smash Bros.* ✅
+- Ann, al despertar a su Persona: «I hear you… Carmen. You're right. No more holding back…!» ([wiki](https://megamitensei.fandom.com/wiki/Ann_Takamaki)). ✅
+- Ryuji: «hangin' on to the past ain't gonna help anythin'. I'm just gonna focus on bein' myself now… on bein' free.» ([wiki](https://megamitensei.fandom.com/wiki/Ryuji_Sakamoto)). ✅
+- ⚠️ «I'm fine. You guys are here.» (Ep. 18, [0:32](https://www.dailymotion.com/video/x6uu26k?t=32)): la parte de voz la atribuye primero a Ren y luego a Futaba. **Autor dudoso: no usarla.**
+
+**Reparto soñado por fans, NUNCA real**
+- Blog en Doblaje Wiki: Moisés Iván Mora (Joker), Manuel Campuzano (Ryuji), Alondra Hidalgo (Ann), Isabel Martiñón (Morgana), Héctor Gómez Gil (Yusuke) ([propuesta](https://doblaje.fandom.com/es/wiki/Usuario_Blog:SupaKaminari/Propuesta:_Persona_5)). Existe como propuesta. ✅
+- Otra propuesta, con estudio y director inventados ([Propuestas Fanon](https://propuestas-fanon.fandom.com/es/wiki/Persona_5)). ✅
+- Nunca citarlas como doblaje real.
+
+## 9 · Música y sonido
+
+Compositor: **Shoji Meguro**, del Atlus Sound Team. Sale en los créditos en grafiti de la cinemática de título. ✅ Voz de casi todos los temas: **Lyn Inaizumi**.
+
+| Tema | Dónde suena | Qué ambiente da | Fuente |
+|---|---|---|---|
+| «Wake Up, Get Up, Get Out There» | Cinemática de título, 0:00-1:33 ([vídeo](https://www.dailymotion.com/video/x6cjlvb)) | Arranque, energía de atraco | ✅ créditos en pantalla |
+| «Beneath the Mask» | Tokio de noche. De día, versión de órgano; con lluvia, sin percusión | Calma nocturna, melancolía urbana | ✅ [wiki](https://megamitensei.fandom.com/wiki/Beneath_the_Mask) y [Internet Archive](https://archive.org/details/Persona5OST48BeneathTheMaskRain) |
+| «Last Surprise» | Combate normal. En *Royal*, las emboscadas usan «Take Over» | El tema de batalla que todos reconocen | ✅ [wiki](https://megamitensei.fandom.com/wiki/Last_Surprise) |
+| «Life Will Change» | En el Palacio, tras mandar la calling card | Clímax: el golpe está en marcha | ✅ [wiki](https://megamitensei.fandom.com/wiki/Life_Will_Change) |
+| «INFINITY» | Ending 1 del anime, créditos a [1:08](https://www.dailymotion.com/video/x6hui2b?t=68) | Cierre | ✅ |
+| «Collapse of Pride» | El «sacrificio» de Ryuji en el barco de Shido | Llanto | ✅ (§21) |
+| «Sunset Bridge» | La despedida del 19 de marzo | Despedida dulce | ✅ (§21) |
+| «Hoshi to Bokura to» (星と僕らと), instrumental | El grupo desapareciendo antes del final | Pena | ⚠️ una fuente |
+
+- **El estilo:** *acid jazz* urbano, guitarra funk, coros femeninos para explorar; sintetizadores y voces con eco para combatir. ⚠️ Deducido de las fichas.
+- **Efectos que todos reconocen:** el clic metálico y el destello rojo y negro al transformarse, y el grito «¡Persona!» al invocar ([0:20](https://www.dailymotion.com/video/x6cjlvb?t=20)). ⚠️
+- **Bandas sonoras publicadas:** OST en FLAC ([Internet Archive](https://archive.org/details/persona-5-ost-flac), 46 124 descargas), *Royal Straight Flush Edition* ([Internet Archive](https://archive.org/details/persona-5-royal-straight-flush-edition-original-soundtrack)), y hasta un *Prototype Soundtrack* ([MusicBrainz](https://musicbrainz.org/release-group/cf25ed0d-fa81-4d11-bf72-89cbf08140d3)). ✅
+- La portada del OST es el círculo rojo y negro en espiral con Joker (nº114). Sirve de disco en Blender.
+

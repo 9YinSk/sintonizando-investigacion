@@ -152,7 +152,7 @@ ep. 25).
 
 | Minuto | Qué pasa | Texto (japonés · inglés de fans) |
 |---|---|---|
-| 00:04:32 | Light abre el cuaderno en su cuarto y lee la primera página | «“使い方”» · «"How to use"...» |
+| 00:04:32 | Light lee la primera página. **Lo que se ve** (fotograma, 2.ª pasada): no es Light, es un **insert de la página negra** «DEATH NOTE / How to use it», letra blanca gótica, calavera con aureola, marco decorado ✅ | «“使い方”» · «"How to use"...» |
 | 00:04:33 | Regla I | «The human whose name is written in this note shall die» |
 | 00:05:09 | Regla II | «This note will not take effect unless the writer has the person's face in their mind…» |
 | 00:05:22 | Regla III | «“40秒以内に死因を書くと そのとおりになる”» · «If the cause of death is written within 40 seconds…» |
@@ -255,7 +255,7 @@ Que sea meme mundial: ver §14.
 | 00:14:45 | L: **«寂しいですね … もうすぐ お別れです»** («qué triste… pronto nos despediremos») |
 | 00:16:28 | Se va la luz, alarmas; muere Watari |
 | 00:17:12 a 00:17:15 | L: «皆さん しにが…» y cae de la silla |
-| 00:17:41 a 00:18:52 | Light lo sostiene: **la sonrisa** que todos recuerdan ⚠️ (se ve en el fotograma, no en el subtítulo) |
+| 00:17:41 a 00:18:52 | Light lo sostiene: **la sonrisa** que todos recuerdan. **Corregido en la 2.ª pasada**: la sonrisa nítida (boca abierta, dientes, luz roja de alarma) está a las **00:18:00**; a las 00:17:41 aún no se ve clara ✅ (fotograma). Suena **«Kyrie II»** (§11) |
 
 ### 2.9 «Sakujo» (ep. 31)
 
@@ -281,6 +281,49 @@ el número de la serie: 40 segundos para la causa de muerte (ep. 1),
 40 % de deducción de L (ep. 10) y la cuenta de Mikami (ep. 36). Y la
 sangre de verdad sale al final: **escribir con sangre** es la imagen
 «sangrienta» que no inventa nada.
+
+### 2.11 Lo que se ve en cada escena (segunda pasada, fotograma mirado)
+
+Episodios completos de Internet Archive (`archive.org/download/death-note-XX`,
+1280×720; el 11 es `death-note-11_202008`), fotograma sacado con
+`fotogramas.py --fotograma <segundo>` y mirado uno a uno. Minuto de
+partida: el de los subtítulos (coincide).
+
+| Escena | Ep., minuto | Qué se ve de verdad | Cambia algo |
+|---|---|---|---|
+| Las reglas del cuaderno | 1, 00:04:32 | Insert en primer plano de la página negra «DEATH NOTE / How to use it», letra blanca gótica, calavera con aureola, marco decorado. Es el mismo insert del tráiler (0:36 y 1:00) | Sí: no es Light con el cuaderno |
+| Ryuk se presenta | 1, 00:13:00 | Contrapicado: Ryuk enorme detrás de Light (de espaldas, en su escritorio), alas de pelo negro en punta, ventana con cortina azul, estantería | Confirma ✅ |
+| Ryuk y la manzana | 1, 00:16:12 | Silueta de Ryuk a contraluz azul noche, ojos amarillos, cinturón con hebilla de calavera. El mordisco cae ±2 s | ⚠️ ajustar ±2 s |
+| «¡Soy la justicia!» | 2, 00:16:24 | Primer plano de Light gritando a la tele, puño cerca de la cara | Confirma ✅ |
+| La «L» gótica | 2, 00:17:36 | Tele CRT azul sobre un mueble, pantalla blanca con la **L** caligráfica negra, suelo verde | Confirma ✅ |
+| La papa frita | 8, 00:18:35 | Plano dividido: la **derecha escribe** con bolígrafo en el cuaderno abierto mientras la **izquierda sube la papa** a la boca; bolsa naranja, luz lateral dura, estantería | Mejora: se ven las dos manos a la vez ✅ |
+| *Keikaku doori* | 24, 00:05:42 | Primerísimo plano: media cara en sombra, **ojos rojos brillantes**, sonrisa torcida, **auricular de manos libres** junto a la boca (está al teléfono), borde del cuaderno abajo | Añade el auricular ✅ |
+| L en cuclillas (café) | 10, 00:08:14 | L en cuclillas sobre la silla, dedo en el labio, jardinera verde detrás, luz cálida de persiana | Confirma ✅ |
+| Muerte de L | 25, 00:17:12 y 00:18:00 | 17:12: plano rojo de emergencia, L girado hacia un panel. **18:00: la sonrisa** de Light, boca abierta, luz roja | Sí: la sonrisa es 00:18:00 ✅ |
+| Light enloquece | 36, 00:21:12 | Primerísimo plano: pelo despeinado tapando un ojo, **bolígrafo entre los dientes**, mirada de locura, fondo blanco quemado | Nuevo ✅ |
+| «¡Con sangre!» | 37, 00:14:28 | Contrapicado de Aizawa gritando, gabardina gris, corbata naranja, vigas metálicas del almacén | Confirma ✅ |
+
+**Opening, ending y tráiler, mirados** (YouTube no deja bajar vídeo; se
+usó Dailymotion con `fotogramas.py`):
+
+- **Opening 1** «the WORLD» ([Dailymotion x31pve2](https://www.dailymotion.com/video/x31pve2)):
+  0:30 Light de gabardina por una calle de Tokio con una manzana en la
+  mano; 0:45 alguien en un sillón rojo envuelto en tela oscura; 1:00
+  silueta por un pasillo oscuro; 1:15 figura alada sobre fondo
+  dorado-rosado ✅.
+- **Ending 1** «Alumina» ([Dailymotion x6alujt](https://www.dailymotion.com/video/x6alujt)):
+  0:12 primer plano rojo de una mano o rostro con líneas de velocidad;
+  0:24 silueta cayendo contra un cielo azul; 0:48 andamio a contraluz;
+  1:00 rostro con ojos rojos muy cerca, rojo y negro ✅.
+- **Tráiler del anime** ([Dailymotion x89nprz](https://www.dailymotion.com/video/x89nprz),
+  el del anime, no el de la película de 2017: lleva el logo de la
+  calavera con aureola): 0:12 ojos de Light; 0:24 una mano abre el
+  cuaderno sobre un cadáver dibujado a tinta; 0:36 y 1:00 el insert
+  «How to use it» con las reglas en pantalla; 0:48 un auditorio mirando
+  la pantalla con la «L»; 1:12 Light y L cara a cara ✅.
+
+⚠️ No hay fotogramas a 1080p: Internet Archive sólo tiene 1280×720
+(`archive.org/metadata/death-note-01`) y YouTube no deja bajar.
 
 ---
 

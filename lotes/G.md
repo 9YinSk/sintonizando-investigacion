@@ -122,4 +122,4 @@ alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 | 101 | equipo completo | Sonnet + Opus | — | — |
 | 103 | equipo completo | Sonnet + Opus | — | — |
 | 102 | redactor (seguir) | Opus | 16 | 282.7 mil |
-| 105 | redactor | Opus | — | — |
+| 105 | redactor | Opus | 18 | 245 k |
