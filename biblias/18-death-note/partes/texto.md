@@ -107,3 +107,64 @@ lo repito aquí).
 - **Vinland Saga** y **Chainsaw Man** — mismo terreno de shonen oscuro con violencia real y dilema moral, aunque de acción más física que mental; ya señalados como parecidos entre sí en otras biblias de este mismo equipo (ver `biblias/32-jujutsu-kaisen/partes/texto.md`) ⚠️
 - No hay choque de **canal**: la propuesta de #textos (guiones de práctica) no se repite en ninguna de las anteriores por lo que dice `servidor/inventario.md`.
 
+
+---
+
+### Punto 25 · El mundo, la historia y sus símbolos
+
+**Las reglas del mundo, en cinco líneas** (fuente primaria: las 70 páginas «How to Use It» del propio manga)
+
+- Un cuaderno **Death Note** mata a quien tenga su nombre escrito en él, si quien escribe **tiene la cara de esa persona en mente**; sin causa especificada, muere de infarto en 40 segundos · [Death Note Wiki, «Rules of the Death Note» (wikitext vía API)](https://deathnote.fandom.com/wiki/Rules_of_the_Death_Note) ✅ (fuente primaria: son las reglas del propio manga, recogidas literalmente)
+- Si se especifica la causa de muerte, hay **40 segundos** para escribirla y **6 minutos 40 segundos** más para los detalles exactos de cómo ocurre · misma fuente ✅
+- Sólo puede verse (y tocarse) al **shinigami** dueño del cuaderno quien lo haya tocado una vez; un humano que usa el cuaderno **no vive ni más ni menos años** de los que le tocaban, pero un shinigami que interviene por un humano **sí puede acortar su propia vida** · misma fuente ✅ (regla base del contrato Light-Ryuk y Rem-Misa)
+- Existen **reglas falsas** deliberadamente escritas por los shinigami para asustar a los humanos (p. ej. que anotar 400 nombres cause la muerte del usuario), documentadas aparte como «Fake rules» en la propia wiki con las páginas donde Obata las dibujó · misma fuente ✅
+- El mundo es realista y contemporáneo (Japón de los 2000, luego con la ONU implicada) **con una sola regla sobrenatural** (el cuaderno y los shinigami) insertada encima; todo lo demás —policía, prensa, política— funciona como el mundo real · deducido de la sinopsis y etiquetas de AniList (`Urban Fantasy 76%`, `Police 87%`) `datos-texto.md` ✅
+
+**La historia por arcos** (división en dos partes que usa el propio recap oficial de episodios, TV Tropes, que replica los nombres reales de cada capítulo del anime)
+
+- **Parte I · Light contra L** (ep. 1-25, capítulos *Rebirth* a *Renewal*): Light encuentra el cuaderno, empieza a matar criminales como «Kira», aparece L para investigar, el duelo mental entre ambos (encadenamiento, la cámara oculta, el reloj de Kira Segundo), Misa se une como segunda Kira, y termina con **la muerte de L** · [TV Tropes, Recap/Death Note (lista oficial de episodios)](https://tvtropes.org/pmwiki/pmwiki.php/Recap/DeathNote) ✅
+- **Parte II · Near y Mello contra el nuevo Kira** (ep. 26-37, capítulos *Abduction* a *New World*): salto de tiempo de varios años, Near y Mello (sucesores de L en Wammy's House) se dividen la investigación por separado, aparece el **grupo Yotsuba** (empresarios que usan el cuaderno para manipular la bolsa), la **SPK** de Near se enfrenta a Kira, y el arco termina con **la muerte de Light** a manos de Ryuk · misma fuente ✅
+- Esta partición en dos («antes y después de la muerte de L») es la que usa el propio fandom y la ficha de la wiki para organizar personajes y episodios; no hay arcos con nombre oficial más allá de estos dos bloques narrativos · ✅
+
+**Emblemas, logos de grupos y objetos icónicos**
+
+- **El cuaderno Death Note**: tapa negra lisa con letras blancas en inglés «DEATH NOTE» centradas arriba, sin más decoración; el objeto icónico central de toda la serie y el que propone `encargos/18-death-note.md` como base de la lámina · [Death Note Wiki, «Death Note (Object)»](https://deathnote.fandom.com/wiki/Death_Note_(object)) ✅
+- **Grupo Yotsuba** (empresarios-Kira): un consorcio real dentro de la ficción, sin logo gráfico propio documentado más allá del nombre de la corporación «Yotsuba»; se identifican en pantalla por el logo corporativo genérico de oficina japonesa de los 2000 · [Death Note Wiki, «Yotsuba Group» (wikitext vía API)](https://deathnote.fandom.com/wiki/Yotsuba_Group) ⚠️ (una fuente; no hay imagen de un logo distintivo confirmado, sólo el nombre del grupo)
+- **SPK (Special Provision for Kira)**: equipo de Near, con base primero en Nueva York y luego en Japón; **su identidad visual es la máscara de payaso blanca y peluca que usa Near en las videollamadas** con la Fiscalía Kira japonesa, para ocultar su rostro real igual que hacía L · [Death Note Wiki, «Special Provision for Kira» (wikitext vía API)](https://deathnote.fandom.com/wiki/Special_Provision_for_Kira) ✅
+- **La letra gótica «L»**: la firma visual de L en pantalla (fuente ya verificada en el punto 5 de esta parte y en el punto 6 de la biblia) funciona como su «logo» personal; Near, Mello y Matt heredan el mismo recurso de identidad oculta tras un alias con letra propia, parte del lenguaje visual reconocible de la franquicia · deducido de biblia.md (sección 6 «Tipografía») + wiki citada arriba ✅
+- **Wammy's House**: el orfanato-academia de Watari en Winchester, Inglaterra, cuna de L, Near, Mello y Matt; funciona como el «cuartel» narrativo de los sucesores de L, sin logo gráfico propio documentado · [Death Note Wiki, «The Wammy's House»](https://deathnote.fandom.com/wiki/The_Wammy%27s_House) ⚠️ (una fuente, sin imagen de emblema confirmada)
+- **La manzana roja**: el objeto que más asocia el fandom a Ryuk (su vicio, lo que pide a cambio de "ayudar" a Light), y el segundo color que domina la paleta de toda la serie junto al negro del cuaderno (ya citado en el punto 18 de esta parte) ✅
+
+**Vocabulario propio que un fan reconoce al instante**
+
+- **Kira** (キラ, del inglés «killer»): el apodo que el propio público le da al usuario del cuaderno en la ficción; no es un nombre que se autoimponga Light, se lo pone la gente · [Death Note Wiki, «Kira»](https://deathnote.fandom.com/wiki/Kira) ✅
+- **Shinigami** (死神, dios de la muerte): los seres que originan los cuadernos; Ryuk y Rem son los dos con nombre propio en la trama principal · misma fuente + `datos-texto.md` (temas de AniList: `Gods 77%`) ✅
+- **«Ojos de shinigami» (Shinigami Eyes)**: el trato que le permite a un humano ver el nombre real y la esperanza de vida de cualquier persona con sólo mirarla, a cambio de la mitad de su vida restante — la apuesta central del final de la Parte I · [Death Note Wiki, «Shinigami Eyes»](https://deathnote.fandom.com/wiki/Shinigami_Eyes) ✅
+- **«I'll take a potato chip... and eat it!»**: la frase/gesto de Light comiendo papas fritas en cámara lenta mientras piensa un plan, uno de los memes más reconocidos de todo el anime (ya documentado como meme en el punto 12/14 «Lo que ama el fandom» de la biblia) ✅
+
+---
+
+## Lo mejor para la lámina
+
+- El **cuaderno negro con «DEATH NOTE» en blanco arriba** es el objeto que ya propone el encargo: úsalo tal cual, sin decorarlo de más (es deliberadamente austero).
+- Para el cuadro de diálogo de #textos: nada de burbuja blanca; usar el formato **cartela negra con letra gótica tipo «L»** (UnifrakturMaguntia u UnifrakturCook, ya comprobadas con á/ñ/¿/¡) o el monólogo interior en cursiva sobre fondo oscuro que ya usa la serie.
+- Iluminación de una sola fuente dura (lámpara de escritorio o persiana) que parte la cara del personaje en dos mitades: es el recurso más citado y más replicable en Photoshop/Blender (pasos detallados arriba, punto 18).
+- Paleta de dos colores sobre base desaturada: **negro del cuaderno + rojo de la manzana**; con eso solo ya se reconoce el tono de la serie.
+- Si se quiere una referencia de interfaz de videojuego con letra libre en coreano/chino (para un elemento de fondo o un guiño), **Noto Sans KR / Noto Sans SC** están comprobadas y son gratis.
+
+## No encontré
+
+- Licencia exacta de la fuente «**Death Font**» (imitación del logo, dafont.com/joshua1985): dafont.com y fontbolt.com no respondieron ni con `curl` ni con `navegar.py` ⚠️ — alternativa ya dada (UnifrakturMaguntia/UnifrakturCook).
+- Un logo gráfico propio (imagen) del **grupo Yotsuba** o de **Wammy's House**: las páginas de la wiki sólo dan el nombre, sin emblema documentado ⚠️.
+- El contenido exacto del *making of* oficial japonés (*Death Note /A Official Analysis Guide of the Animation*, Shueisha, 2007): existe y está catalogado, pero nunca se tradujo y no se pudo leer su interior ⚠️.
+- Confirmación directa de Madhouse (por nombre, en 2006) sobre qué software usaron; sólo hay contexto de industria general (RETAS) sin cita específica del estudio ⚠️.
+
+## Bitácora
+
+- Fandom API (`deathnote.fandom.com/api.php`, `action=parse&prop=wikitext`): páginas `Rules of the Death Note`, `Kira`, `Death Note (object)`, `Yotsuba Group`, `Wammy's House` (redirect a `The Wammy's House`), `Special Provision for Kira`, `Shinigami Eyes` — todas en español/inglés según disponibilidad de la wiki en inglés (la de español no tiene tanto detalle).
+- Fandom API `action=query&list=search`: búsquedas «rules», «story arc», «symbol logo» dentro de `deathnote.fandom.com` para ubicar páginas relevantes de punto 25.
+- `python3 herramientas/navegar.py` sobre TV Tropes: `StoryArc/DeathNote` (no existe, dio el índice de subpáginas) y `Recap/DeathNote` (sí, lista oficial de episodios en dos partes) — funcionó bien en esta máquina.
+- fontTools (`TTFont(...).getBestCmap()`) sobre 12 `.ttf` bajados de `fonts.gstatic.com`: verificación propia de tildes, ñ, ¿, ¡ para las 10 fuentes de rótulo/manuscrita + Shippori Mincho B1/Zen Old Mincho (japonés) + Noto Sans KR/SC (coreano/chino).
+- Búsquedas web (inglés): «Death Note art style analysis Obata», «Death Note anime director Araki interview influences», «Death Note manga arcs episode list».
+- `datos-texto.md` (dejado por `recolectar.py`, AniList): obra, equipo creativo, obras parecidas/relacionadas, capturas de Steam de *Killer Within* — no se repitieron esas consultas.
+- No usé búsqueda en japonés ni coreano en esta tanda (repaso corto, ya se citó la entrevista de Araki en inglés y la del propio Obata vía Tumblr); si se relanza, pendiente ampliar con fuentes directas en japonés para el punto 18 (making of, aunque el libro exacto no se tradujo nunca).

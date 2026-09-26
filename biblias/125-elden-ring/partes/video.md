@@ -20,6 +20,8 @@ Dailymotion (YouTube pide login en este servidor). Hojas de contacto en
   - 3:12-3:20 primer plano de una figura encapuchada con un cuerno/rama dorada en la cabeza (Melina) mirando a cámara · &t=192
   - 3:28 logo «ELDEN RING» sobre fondo negro, cierre de marca · &t=208
 - Escena de jefe «Elden Ring - Malenia» (JeuxVideo.com, 83 198 vistas, combate completo) · https://www.dailymotion.com/video/x89wlj1 · ✅ (gameplay oficial de medios + coincide con moveset documentado en la wiki) · 4:16, cada 8 s
+  - Moveset «Waterfowl Dance» (embestidas en el aire, 4ª muy peligrosa) y «Scarlet Aeonia» (flor gigante que estalla en Podredumbre) confirmados por dos wikis independientes: Fandom (`api.php`, página «Malenia, Blade of Miquella») https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella y Fextralife https://eldenring.wiki.fextralife.com/Malenia · ✅ (dos wikis distintas, mismo texto de habilidades) · coincide con lo visto en el fotograma 0:32-0:40 y 3:04.
+  - Ubicación real de la arena, «Elphael, Brace of the Haligtree» (tras el Site of Grace «Haligtree Roots»), confirmada en Fextralife · ✅.
   - 0:00 Malenia de pie, brazo protésico dorado, barra «Malenia, apex de Miquella» · &t=0
   - 0:32-0:40 «Waterfowl Dance»: gira en el aire dejando estelas blancas en abanico · &t=32
   - 2:16-3:12 fase 2: estalla en llamas rojas (Podredumbre Escarlata) y ataca envuelta en fuego · &t=136
@@ -68,6 +70,8 @@ de arriba (no de wallpapers; eso es del investigador de imagen). Enlaces con `&t
 Lista de pistas real del álbum oficial (Archive.org, subido por usuarios pero el tracklist coincide con el lanzamiento físico de Bandai Namco), MusicBrainz confirma el álbum.
 
 - «Elden Ring Original Soundtrack» (FromSoftware Sound Team), 2022-02-25, 2 discos completos · https://musicbrainz.org/release-group/d641ceb3-1833-41a7-9820-840a7234db3f · https://archive.org/details/shoi-miyazawa-yuka-kitamura-yoshimi-kudo-tai-tomisawa-elden-ring-original-game-soundtrack · ✅ (dos fuentes: MusicBrainz + Archive.org, mismo tracklist) · 15 148 descargas
+- Los cinco compositores (Tsukasa Saitoh, Shoi Miyazawa, Tai Tomisawa, Yuka Kitamura, Yoshimi Kudo) y la fecha de lanzamiento del juego (25-02-2022, misma fecha del OST) confirmados en Wikipedia ES https://es.wikipedia.org/wiki/Elden_Ring y también en Wikipedia EN https://en.wikipedia.org/wiki/Elden_Ring · ✅ (dos idiomas de Wikipedia, coincide con MusicBrainz).
+- VGMdb (fuente habitual para tracklists japoneses) bloqueado por Cloudflare desde este servidor (verificación de seguridad, `navegar.py` y `WebFetch` dan 403) · ⚠️ no se pudo cruzar el catálogo VGMdb, sustituido por MusicBrainz + Archive.org + Wikipedia.
   - Disco 1, pista 2 «Opening» (3:10): tema del cinemático de introducción del juego.
   - Disco 1, pista 17 «Leyndell, Royal Capital» (3:17): suena al entrar a la capital dorada.
   - Disco 1, pista 23 «Malenia, Blade of Miquella» (3:44): tema del combate contra Malenia, coral femenino + cuerdas urgentes.
@@ -84,6 +88,8 @@ Lista de pistas real del álbum oficial (Archive.org, subido por usuarios pero e
 ## 10 · Vídeos (tráileres, escenas, tendencias)
 
 - Tráiler oficial de lanzamiento «ELDEN RING – Rise, Tarnished | Official Launch Trailer» (Xataka México) · https://www.dailymotion.com/video/x886mjr · ✅ (mismo tráiler también en Vidaextra, ver siguiente línea) · 2:38
+- Cronología de tráilers confirmada en Wikipedia ES/EN: anuncio en el E3 2019, tráiler de gameplay en el Summer Game Fest de junio de 2021 (el «story trailer» / «Rise, Tarnished» son posteriores, ya cerca del lanzamiento de 25-02-2022) · https://es.wikipedia.org/wiki/Elden_Ring y https://en.wikipedia.org/wiki/Elden_Ring · ✅ (dos idiomas de Wikipedia).
+- Fecha de lanzamiento del juego (25-02-2022) también confirmada en 3DJuegos, ficha del juego (menciona además la colaboración de George R. R. Martin en el guion) · https://www.3djuegos.com/juegos/elden-ring/ · ✅ (coincide con Wikipedia y con los créditos vistos en el cinemático del punto 2).
 - El mismo tráiler doblado/subtitulado en español, «Elden Ring - Rise, Tarnished ~ Tráiler Oficial de Lanzamiento» (Vidaextra) · https://www.dailymotion.com/video/x884vgz · ✅ · 535 713 vistas, 2:38 — el más visto de todos los clips de Elden Ring en Dailymotion encontrados.
 - Tráiler de historia «elden ring - story trailer» (JeuxVideo.com) · https://www.dailymotion.com/video/x89nx9b · ✅ · 3 636 312 vistas, 3:50 (ver fotogramas en el punto 2).
 - Tráiler de gameplay «Elden Ring : Trailer de gameplay» (MGG France) · https://www.dailymotion.com/video/x84nwis · ⚠️ (una fuente, no mirado fotograma a fotograma por presupuesto) · 2:59
@@ -98,6 +104,13 @@ Lista de pistas real del álbum oficial (Archive.org, subido por usuarios pero e
 
 6-10 fotogramas por personaje pedidos por el encargo; Melina y Malenia son los dos personajes
 para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo exacto.
+
+- Identidad y relación entre ambas confirmada en dos wikis independientes (útil para que el
+  redactor no las confunda): Malenia y Melina son hermanas (hijas de Marika), diseño de Malenia
+  con brazo protésico dorado y alas de polilla, diseño de Melina con capucha/capa y cuerno
+  dorado en la sien · Fandom https://eldenring.fandom.com/wiki/Malenia,_Blade_of_Miquella y
+  https://eldenring.fandom.com/wiki/Melina, Fextralife https://eldenring.wiki.fextralife.com/Malenia
+  · ✅ (dos wikis, mismo dato de parentesco).
 
 ### Malenia
 
@@ -148,4 +161,6 @@ para empezar (`encargos/125-elden-ring.md`). Fotograma = enlace `&t=` al segundo
 - API de Dailymotion (`api.dailymotion.com/videos?search=…`): «Elden Ring Melina» (fr/en), «Elden Ring opening cinematic» (en), «Elden Ring cinématique d'ouverture» (fr), «Elden Ring Tarnished grace cinematic» (en) — 4 búsquedas.
 - Archive.org: metadata de la banda sonora oficial (tracklist completo, 2 discos) y de «PS5 Longplay Elden Ring» (comprobado pero descartado por peso).
 - MusicBrainz: confirmación de los 3 álbumes oficiales de banda sonora (base + Shadow of the Erdtree + Nightreign).
-- No se usó el buscador web (WebSearch) en esta tanda: todo salió de `datos-video.md` (ya recolectado) más red directa (Dailymotion, Archive.org, MusicBrainz).
+- Tanda anterior no usó WebSearch/WebFetch: todo salía de `datos-video.md` más red directa (Dailymotion, Archive.org, MusicBrainz), sólo 3 dominios. Esta tanda (`seguir`, tras aviso de `revisar_partes.py`: «FLOJA: 3 webs») se añadieron 5 dominios más: `eldenring.fandom.com` (vía `api.php`, dos páginas: Malenia y Melina), `eldenring.wiki.fextralife.com`, `es.wikipedia.org`, `en.wikipedia.org` y `3djuegos.com`.
+- IGN (`ign.com`), Vandal (`vandal.elespanol.com`), PCGamer (`pcgamer.com`) y GameSpot (`gamespot.com`) probados con `WebFetch`: 403/404 en todas las URLs intentadas (bloqueo o artículo movido); no insistido más de 1-2 intentos por sitio.
+- VGMdb probado con `WebFetch` y con `herramientas/navegar.py`: verificación de seguridad Cloudflare (403) las dos veces.

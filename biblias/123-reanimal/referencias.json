@@ -1,0 +1,929 @@
+[
+  {
+    "url": "https://polyhaven.com/a/hessian_380",
+    "fuente": "Poly Haven",
+    "ancho": 8327,
+    "alto": 8325,
+    "que_es": "Textura fotográfica de arpillera/saco (hessian), tejido más tupido",
+    "para_que": "Variante más gruesa del mismo material (arpillera)",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://polyhaven.com/a/hessian_230",
+    "fuente": "Poly Haven",
+    "ancho": 8129,
+    "alto": 8082,
+    "que_es": "Textura fotográfica de arpillera/saco (hessian), tejido más fino",
+    "para_que": "Equivalente libre de la capucha de arpillera de El Niño y la tela de Hood/Bandage",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/5g/wallhaven-5ge3p8.jpg",
+    "fuente": "Wallhaven (origen confirmado: https://x.com/TarsierStudios/status/1869782653903478935)",
+    "ancho": 4096,
+    "alto": 2612,
+    "que_es": "Fondo de pantalla oficial navideño: trineo, nieve, regalos",
+    "para_que": "Fondo de pantalla oficial en alta resolución",
+    "licencia": "Copyright Tarsier Studios, difundido por su cuenta oficial de X"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/e/ee/Reanimal%20screenshot1.jpg",
+    "fuente": "Fandom (Reanimal Wiki) / Steam",
+    "ancho": 3880,
+    "alto": 2183,
+    "que_es": "Captura 4K oficial del juego, tono azul-verde nocturno (una de 6 de la misma serie)",
+    "para_que": "Fondo de pantalla oficial en muy alta resolución; referencia de luz y paleta del sitio",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/yx/wallhaven-yxd1pk.jpg",
+    "fuente": "Wallhaven (origen confirmado: https://x.com/TarsierStudios/status/1851990606639206418)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla oficial (vía Wallhaven): Halloween, barca, señal de stop, calabaza, cuervo",
+    "para_que": "Fondo de pantalla oficial en alta resolución",
+    "licencia": "Copyright Tarsier Studios, difundido por su cuenta oficial de X"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/je/wallhaven-je13ew.jpg",
+    "fuente": "Wallhaven (origen confirmado: https://x.com/TarsierStudios/status/1924505813994852432)",
+    "ancho": 3840,
+    "alto": 2160,
+    "que_es": "Fondo de pantalla oficial: campo de flores amarillas con los dos niños, luz de luna",
+    "para_que": "Fondo de pantalla oficial en alta resolución",
+    "licencia": "Copyright Tarsier Studios, difundido por su cuenta oficial de X"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Fabric019",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura PBR de tela de lino/algodón basto tipo tejido",
+    "para_que": "Equivalente libre del camisón/vestido de saco de La Niña",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Metal041B",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura PBR de metal oxidado",
+    "para_que": "Equivalente libre de la linterna de aceite y el cuchillo de La Niña, y props oxidados de la isla",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=CorrugatedSteel007A",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura PBR de chapa/acero corrugado",
+    "para_que": "Equivalente libre de edificios y barracas del pueblo/orfanato",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Rope001",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura PBR de cuerda/soga trenzada",
+    "para_que": "Equivalente libre del cordón al cuello de El Niño",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://ambientcg.com/view?id=Wood051",
+    "fuente": "ambientCG",
+    "ancho": 2048,
+    "alto": 2048,
+    "que_es": "Textura PBR de madera vieja",
+    "para_que": "Equivalente libre de embarcaderos y el Faro",
+    "licencia": "CC0"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/6/64/DLCKeyArt.jpg",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 2000,
+    "alto": 2000,
+    "que_es": "Key art cuadrada del DLC 'REANIMAL: The Expanded World'",
+    "para_que": "Arte oficial variado, portada de expansión",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/6/6b/TheGirl.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1470,
+    "alto": 2160,
+    "que_es": "Render 3D oficial de La Niña de pie, con máscara de conejo, cuchillo y linterna, fondo transparente",
+    "para_que": "Base para medir los hex de vestuario (punto 15) y como recorte de personaje principal",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/6/6b/TheGirl.png/revision/latest?cb=20260808164445",
+    "fuente": "reanimal.fandom.com (File:TheGirl.png)",
+    "ancho": 1470,
+    "alto": 2160,
+    "que_es": "Render oficial de La Niña: máscara blanca de conejo tipo antifaz (deja ver boca y barbilla), farol y cuchillo",
+    "para_que": "Referencia de cara/expresión en reposo y vestuario para la lámina de personajes",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/qr/wallhaven-qrddmq.jpg",
+    "fuente": "Wallhaven (origen confirmado: https://x.com/TarsierStudios/status/1924505813994852432)",
+    "ancho": 1365,
+    "alto": 2048,
+    "que_es": "Fondo de pantalla oficial vertical (celular), misma escena del campo de flores",
+    "para_que": "Fondo de pantalla oficial en alta resolución",
+    "licencia": "Copyright Tarsier Studios, difundido por su cuenta oficial de X"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/5/52/Collectorsedition.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1950,
+    "alto": 1097,
+    "que_es": "Foto de producto de la Collector's Edition: caja con figura de Pig y estatuilla de Bucket",
+    "para_que": "Referencia de figuras oficiales (pose 3D) y de la caja física",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/je/wallhaven-jee8zp.png",
+    "fuente": "Wallhaven (origen confirmado: https://x.com/TarsierStudios/status/1851990606639206418)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Fondo de pantalla oficial horizontal, misma escena de Halloween",
+    "para_que": "Fondo de pantalla oficial en alta resolución",
+    "licencia": "Copyright Tarsier Studios, difundido por su cuenta oficial de X"
+  },
+  {
+    "url": "https://w.wallhaven.cc/full/je/wallhaven-je129w.png",
+    "fuente": "Wallhaven (subido por SAKAEIH, sin origen declarado)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de juego en luz baja usada como fondo de pantalla",
+    "para_que": "Fondo de pantalla de fan en alta resolución",
+    "licencia": "Uso personal (Wallhaven, no comercial) — origen sin confirmar"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430060/2ce879b678581a26e0540f892a5e3ac8a3e73573/ss_2ce879b678581a26e0540f892a5e3ac8a3e73573.1920x1080.jpg",
+    "fuente": "Steam (captura oficial de la DLC REANIMAL Soundtrack, app 4430060), medida con Pillow",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Carátula del álbum con el logo «REANIMAL» en mayúsculas muy condensadas y remates rectos, rojo sobre negro, y la espiral de la Ballena Espiral",
+    "para_que": "Referencia real de tipografía para el logo/título de la lámina (punto 5) y del símbolo de la ballena espiral (punto 25); base para proponer Anton como letra libre equivalente",
+    "licencia": "Captura oficial de THQ Nordic/Tarsier Studios en Steam; sólo como referencia, no reutilizable comercialmente"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0/ss_7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0.1920x1080.jpg",
+    "fuente": "Steam (captura oficial del juego base, app 2129530), medida con Pillow",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Rótulo de neón rojo «CINEMA» sobre la marquesina del cine del pueblo inundado, tubo redondeado con relleno de bombillas",
+    "para_que": "Referencia real de tipografía y rótulo del mundo del juego (punto 5); base para proponer Monoton/Bungee como letra libre de neón",
+    "licencia": "Captura oficial de THQ Nordic/Tarsier Studios en Steam; sólo como referencia, no reutilizable comercialmente"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/aab121e5bdaf552e60ed7e7503368fcc4e3bfaab/ss_aab121e5bdaf552e60ed7e7503368fcc4e3bfaab.1920x1080.jpg",
+    "fuente": "Steam (ficha oficial de REANIMAL, app 2129530)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: persecución bajo el neón rojo 'CINEMA' de Small Forest Town (cap. 2, The Cleaning House)",
+    "para_que": "Fondo/escena icónica con paleta de neón (#c90030/#fe7471) para la lámina",
+    "licencia": "© Tarsier Studios / THQ Nordic; material de prensa/tienda, sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/19a638fbf5e2821fae387f88e492c44801f47885/ss_19a638fbf5e2821fae387f88e492c44801f47885.1920x1080.jpg",
+    "fuente": "Steam (ficha oficial de REANIMAL, app 2129530)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: los tres niños esperando el autobús bajo la lluvia (cap. 4, No Shelter)",
+    "para_que": "Composición de luz cálida aislada en un fondo azul-noche saturado",
+    "licencia": "© Tarsier Studios / THQ Nordic; material de prensa/tienda, sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/dccf798f7e98af871edc4b625700f2005854e9cb/ss_dccf798f7e98af871edc4b625700f2005854e9cb.1920x1080.jpg",
+    "fuente": "Steam (ficha oficial de REANIMAL, app 2129530)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial (cap. 1, Dead in the Water): la Niña (máscara de conejo, farol) y el Niño (saco de arpillera) miran por una tubería con barrotes donde está Hood, de saco puntiagudo",
+    "para_que": "Pose de 'explicar/mostrar': la Niña ilumina con el farol a la cadera, el Niño apoya la mano en los barrotes; paleta azul-teal casi monocroma",
+    "licencia": "© Tarsier Studios / THQ Nordic; material de prensa/tienda, sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/82ca7105ed03969d014465312fb15050b029fc94/ss_82ca7105ed03969d014465312fb15050b029fc94.1920x1080.jpg",
+    "fuente": "Steam (ficha oficial de REANIMAL, app 2129530)",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura oficial: la Niña sujeta con los dos brazos un cajón de madera contra un monstruo gigante; el Niño (y Hood) agachados junto al farol",
+    "para_que": "Pose de 'animar/proteger'; luz de farol cálida sobre madera contra negro casi total",
+    "licencia": "© Tarsier Studios / THQ Nordic; material de prensa/tienda, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/7/7a/Reanimal-Officialart-1.jpg",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1356,
+    "alto": 1188,
+    "que_es": "Arte de prensa oficial: los hermanos en una barca con antorcha, paleta verde/azulado",
+    "para_que": "Arte oficial en acción, pose de grupo con objeto (antorcha)",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/1/10/Mother_Spider_Kids_trading_card.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1466,
+    "alto": 967,
+    "que_es": "Tarjeta coleccionable 'Mother Spider Kids' estilo cromo antiguo, La Madre araña con los dos niños",
+    "para_que": "Arte oficial variado, pose de grupo (Madre + hermanos)",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/0/05/Feature-graphic-1.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1485,
+    "alto": 816,
+    "que_es": "Feature graphic horizontal de tienda: castillo/torre en acantilado",
+    "para_que": "Arte oficial de sitio para fondo o encabezado",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/0/0f/Feature-graphic-2.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1485,
+    "alto": 816,
+    "que_es": "Feature graphic horizontal de tienda: La Madre araña gigante emergiendo",
+    "para_que": "Arte oficial de criatura para escena de tensión",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/9/9a/Feature-graphic-3.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1485,
+    "alto": 816,
+    "que_es": "Feature graphic horizontal de tienda: la piara/cerdo con gorro cónico",
+    "para_que": "Arte oficial secundario, tono más ligero/humor negro",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/9/9c/Reanimal-Officialart-2.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1438,
+    "alto": 810,
+    "que_es": "Arte de prensa oficial 2 (pareja de la anterior, misma paleta verde/azulado)",
+    "para_que": "Arte oficial en acción, pose de grupo",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/1/16/ArtofReanimal_Page27_Mother_by_Konstantin_Kostadinov_and_Petrus_Johansson.png",
+    "fuente": "Fandom (Reanimal Wiki), artbook 'Art of REANIMAL' pág. 27",
+    "ancho": 1024,
+    "alto": 1022,
+    "que_es": "Concept art de La Madre (jefe final, cap. 5), por Konstantin Kostadinov y Petrus Johansson",
+    "para_que": "Arte oficial de diseño del jefe final",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/a/a8/ArtofReanimal_Page11_Hood_by_Konstantin_Kostadinov.png",
+    "fuente": "Fandom (Reanimal Wiki), artbook 'Art of REANIMAL' pág. 11",
+    "ancho": 1024,
+    "alto": 1020,
+    "que_es": "Concept art de Hood (amiga de los hermanos, saco puntiagudo), por Konstantin Kostadinov",
+    "para_que": "Arte oficial de diseño de personaje secundario, referencia de proporciones junto a los hermanos",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/a/a8/ArtofReanimal_Cover.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 1024,
+    "alto": 998,
+    "que_es": "Portada del artbook oficial digital 'Art of REANIMAL' (Collector's Edition)",
+    "para_que": "Arte oficial variado: portada de artbook",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/xa1mxgm?t=30",
+    "fuente": "Dailymotion (JeuxVideo.com, tráiler de lanzamiento 'Available Now')",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): dos siluetas cruzan la calle huyendo bajo el neón del cine (cap. 2)",
+    "para_que": "Escena icónica de huida; paleta roja de neón sobre negro",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/xa1mxgm?t=45",
+    "fuente": "Dailymotion (JeuxVideo.com, tráiler de lanzamiento 'Available Now')",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): Sniffer agachado planchando pieles sobre lavadoras, luz verde-blanca (cap. 2)",
+    "para_que": "Ambientación de sitio (lavandería/dominio de Sniffer) y paleta enfermiza verde-blanca",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9o072c?t=45",
+    "fuente": "Dailymotion (gryonline, 'What Happens After The Flood Gameplay Trailer')",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): el bote de apertura frente al buque hundido, el Niño rema y la Niña sostiene el farol",
+    "para_que": "Pose de 'presentar' a los dos hermanos; paleta azul-petróleo nocturna",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9o072c?t=39",
+    "fuente": "Dailymotion (gryonline, 'What Happens After The Flood Gameplay Trailer')",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): los tres niños esperando el autobús bajo lluvia intensa (cap. 4)",
+    "para_que": "Pose de 'pensar/esperar' en grupo; composición de luz cálida aislada",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9o072c?t=60",
+    "fuente": "Dailymotion (gryonline, 'What Happens After The Flood Gameplay Trailer')",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): trinchera del Warzone en rojo de bengala, un niño corre hacia otro caído",
+    "para_que": "Escena icónica de peligro/urgencia; paleta roja saturada sobre negro puro",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9ve578?t=56",
+    "fuente": "Dailymotion (gamesworld, 'Release Date and Co-Op Gameplay Trailer')",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): ruinas en llamas del Warzone al anochecer",
+    "para_que": "Paleta de sitio: ámbar apagado por humo contra sombras azul-verdosas",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9ve578?t=36",
+    "fuente": "Dailymotion (gamesworld, 'Release Date and Co-Op Gameplay Trailer')",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): celda con cerca de alambre de púas, paleta teal fría",
+    "para_que": "Referencia de paleta para un sitio de encierro/prisión",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9ve578?t=57",
+    "fuente": "Dailymotion (gamesworld, 'Release Date and Co-Op Gameplay Trailer')",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio (fotogramas.py): autobús escolar hundido en pasillo inundado, máscara flotando en el agua",
+    "para_que": "Escena icónica de 'The Flooded Town'; haz de luz cenital",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x9tibzi?t=630",
+    "fuente": "Dailymotion (HappyPlayz/WildGamerSK, 'REANIMAL Full Gameplay Demo 45 Minutes', con entrevista a David Mervik, director narrativo)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio: confirma en vídeo (no sólo en captura fija) la escena de la celda circular del capítulo 1, con Hood tras los barrotes",
+    "para_que": "Segunda fuente para el sitio de la celda: resuelve si es campaña base (sí) o DLC 'The Prisoner' (no)",
+    "licencia": "© Tarsier Studios / THQ Nordic; vídeo de preview oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x94c4ui?t=45",
+    "fuente": "Dailymotion (3djuegos, Tráiler de anuncio de REANIMAL)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio: el Niño y la Niña corren agachados por un pasillo/almacén en penumbra, luz cenital al fondo",
+    "para_que": "Pose de 'huir' distinta a la del neón del cine; composición de luz puntual en pasillo oscuro",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.dailymotion.com/video/x94c4ui?t=59",
+    "fuente": "Dailymotion (3djuegos, Tráiler de anuncio de REANIMAL)",
+    "ancho": 1280,
+    "alto": 720,
+    "que_es": "Fotograma propio: monstruo de extremidades largas tipo araña agazapado sobre un tejado bajo la lluvia, dos siluetas pequeñas debajo",
+    "para_que": "Referencia de un 'Spider Kid' o monstruo similar en silueta, útil para composición de amenaza en vertical",
+    "licencia": "© Tarsier Studios / THQ Nordic; tráiler oficial, sólo referencia"
+  },
+  {
+    "url": "https://www.deviantart.com/charlotteln/art/REANIMAL-1089731049",
+    "fuente": "DeviantArt (CharlotteLn)",
+    "ancho": 997,
+    "alto": 802,
+    "que_es": "Fan art de Reanimal",
+    "para_que": "Referencia de estilo de fan (no pegar), citar autor",
+    "licencia": "Todos los derechos del autor, sólo referencia"
+  },
+  {
+    "url": "https://www.deviantart.com/urbruhski/art/Made-some-Reanimal-fanart-1229534541",
+    "fuente": "DeviantArt (UrBruhski)",
+    "ancho": 779,
+    "alto": 1026,
+    "que_es": "Fan art de La Niña con su linterna, primer plano de la máscara, lápices de color",
+    "para_que": "Referencia de pose e interpretación de fan (no pegar), citar autor",
+    "licencia": "Todos los derechos del autor, sólo referencia"
+  },
+  {
+    "url": "https://www.deviantart.com/hisoki777/art/REANIMAL-TARSIER-STUDIOS-Fanart-3-1230406808",
+    "fuente": "DeviantArt (Hisoki777)",
+    "ancho": 719,
+    "alto": 1111,
+    "que_es": "Fan art de los dos hermanos juntos",
+    "para_que": "Referencia de pose de grupo de fan (no pegar), citar autor",
+    "licencia": "Todos los derechos del autor, sólo referencia"
+  },
+  {
+    "url": "https://www.deviantart.com/rogerzilla25/art/REANIMAL-Drawing-Concept-Poster-1167634826",
+    "fuente": "DeviantArt (ROGERZILLA25)",
+    "ancho": 798,
+    "alto": 1001,
+    "que_es": "Fan art tipo 'poster de concepto' de Reanimal",
+    "para_que": "Referencia de composición tipo cartel (no pegar), citar autor",
+    "licencia": "Todos los derechos del autor, sólo referencia"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/e/e1/Boy.png",
+    "fuente": "Fandom (Reanimal Wiki)",
+    "ancho": 401,
+    "alto": 822,
+    "que_es": "Render 3D oficial coloreado de El Niño con capucha de arpillera",
+    "para_que": "Base para medir los hex de vestuario (punto 15) y como recorte de personaje principal",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/b/bb/Hood_render.png/revision/latest?cb=20260228001605",
+    "fuente": "reanimal.fandom.com (File:Hood_render.png)",
+    "ancho": 328,
+    "alto": 760,
+    "que_es": "Render oficial de Capucha (Hood): máscara puntiaguda de tela con parche naranja cosido, imagen oscura",
+    "para_que": "Referencia de vestuario; no confirma si tiene agujeros para ojos (imagen muy oscura)",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://static.wikia.nocookie.net/reanimal-vg/images/4/42/The_Boy.png/revision/latest?cb=20260228001457",
+    "fuente": "reanimal.fandom.com (File:The_Boy.png)",
+    "ancho": 313,
+    "alto": 550,
+    "que_es": "Render oficial de El Niño: máscara de saco de arpillera sin agujeros para ojos ni boca, vacío negro total",
+    "para_que": "Referencia clave: nunca darle rasgos faciales al dibujarlo",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic, uso editorial vía wiki"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/reanimal-the-girl-b6694df5a3f24ab7998563951513846e",
+    "fuente": "Sketchfab (extracción/'rip' del juego, OutGameRips)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "The Girl (La Niña), 51 265 vértices",
+    "para_que": "Base 3D con licencia libre de La Niña para posar en Blender",
+    "licencia": "CC BY-NC 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/reanimal-the-boy-533847f610574fe4abf7c897644a58b9",
+    "fuente": "Sketchfab (extracción/'rip' del juego, OutGameRips)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "The Boy (El Niño)",
+    "para_que": "Base 3D con licencia libre de El Niño para posar en Blender",
+    "licencia": "CC BY-NC 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/reanimal-mother-c1d994838ec24cc389de038b18aa5aba",
+    "fuente": "Sketchfab (extracción/'rip' del juego, OutGameRips)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "The Mother (jefe final araña)",
+    "para_que": "Referencia 3D del jefe final para escena de amenaza",
+    "licencia": "CC BY-NC 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/reanimal-hood-24fb5e0998bf4358944a59b8b062d8ad",
+    "fuente": "Sketchfab (extracción/'rip' del juego, OutGameRips)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Hood (niño-monstruo con capucha)",
+    "para_que": "Referencia 3D de monstruo secundario",
+    "licencia": "CC BY-NC 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/reanimal-sniffer-6efa301fa2b84779b2fdbac7807000c8",
+    "fuente": "Sketchfab (extracción/'rip' del juego, OutGameRips)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Sniffer (monstruo olfateador)",
+    "para_que": "Referencia 3D de monstruo secundario",
+    "licencia": "CC BY-NC 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/reanimal-bandage-010ebfd6326a49648a527515d92beed8",
+    "fuente": "Sketchfab (extracción/'rip' del juego, OutGameRips)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Bandage (monstruo vendado)",
+    "para_que": "Referencia 3D de monstruo secundario",
+    "licencia": "CC BY-NC 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/reanimal-bucket-4e9dae3e31934f759f981d04d9620589",
+    "fuente": "Sketchfab (extracción/'rip' del juego, OutGameRips)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Bucket (monstruo con cubo en la cabeza)",
+    "para_que": "Referencia 3D de monstruo secundario, también en Collector's Edition",
+    "licencia": "CC BY-NC 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/reanimal-whale-b0650bc9094c441898724e733c4d52f8",
+    "fuente": "Sketchfab (extracción/'rip' del juego, OutGameRips)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Whale (Spiral Whale)",
+    "para_que": "Referencia 3D de criatura/set-piece marino",
+    "licencia": "CC BY-NC 4.0"
+  },
+  {
+    "url": "https://sketchfab.com/3d-models/none-f15cb06749924c17acf464b1bd79a23d",
+    "fuente": "Sketchfab (extracción del juego)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Hood, otra subida del mismo modelo",
+    "para_que": "Referencia 3D alternativa, licencia más permisiva",
+    "licencia": "CC BY 4.0"
+  },
+  {
+    "url": "https://store.ign.com/pages/reanimal",
+    "fuente": "IGN Store (tienda oficial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Colección oficial de merchandising REANIMAL (ropa, gorras, tazas) hecha con Tarsier Studios y THQ Nordic",
+    "para_que": "Referencia de colaboración/merchandising oficial",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic / IGN"
+  },
+  {
+    "url": "https://store.ign.com/collections/reanimal",
+    "fuente": "IGN Store (tienda oficial)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Set de figuras oficiales 'Reanimal Orphan': La Niña, El Niño, Bucket, Hood y Bandage",
+    "para_que": "Figuras oficiales, su pose es referencia 3D válida",
+    "licencia": "Copyright Tarsier Studios / THQ Nordic / IGN"
+  },
+  {
+    "url": "https://www.myminifactory.com/object/3d-print-reanimal-cosplay-bunny-mask-sks-props-767424",
+    "fuente": "MyMiniFactory (SKS Props)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Modelo imprimible en 3D de la máscara de conejo de La Niña, para cosplay",
+    "para_que": "Prop 3D descargable de la máscara icónica (licencia exacta sin confirmar, bloqueado por verificación)",
+    "licencia": "Licencia sin confirmar (web bloquea lectura de ficha); listada como 'Free 3D Print Model'"
+  },
+  {
+    "url": "https://store.steampowered.com/app/2129530/REANIMAL/",
+    "fuente": "Ficha oficial de Steam (app 2129530)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tabla de idiomas (interfaz, voces y subtítulos en 15 idiomas incluidos japonés, coreano, chino tradicional y simplificado, español España y Latam), descripción y categorías",
+    "para_que": "Confirmar idiomas CJK para el punto 5 (letras libres Noto Sans) y datos de doblaje para el investigador de voz (punto 8)",
+    "licencia": "Página oficial de la tienda Steam, contenido con derechos de THQ Nordic"
+  },
+  {
+    "url": "https://reanimal.thqnordic.com",
+    "fuente": "Web oficial de THQ Nordic para Reanimal (HTML/CSS descargado y filtrado)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Declaración CSS de la letra de pago «Fabrikat» (Regular, Italic, Black, BlackItalic) autoalojada en /fonts/fabrikat-*.woff",
+    "para_que": "Confirmar la letra real de la web oficial (punto 5) y proponer Barlow Condensed como letra libre equivalente",
+    "licencia": "Web oficial de THQ Nordic; la fuente Fabrikat es de pago, no reutilizable"
+  },
+  {
+    "url": "https://github.com/google/fonts",
+    "fuente": "Google Fonts (6 familias bajadas y comprobadas con fontTools.ttLib.TTFont.getBestCmap)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Anton, Barlow Condensed, Big Shoulders Display, Permanent Marker, Yanone Kaffeesatz y Noto Sans JP: comprobadas con glifos á é í ó ú ñ Ñ ü ¿ ¡ completos (Noto Sans JP además con hiragana/katakana/kanji)",
+    "para_que": "Letras libres recomendadas por uso (logo, web/interfaz, subtítulos, CJK) del punto 5",
+    "licencia": "SIL Open Font License (OFL), libre incluso para uso comercial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/The_Boy",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del personaje The Boy: capucha de saco de arpillera con cordón, sin agujeros de ojos ni boca, y resumen del argumento por capítulos",
+    "para_que": "Confirmar la máscara de identidad fija del Niño para el punto 25 y la estructura de la historia por arcos",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/The_Girl",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Ficha del personaje The Girl: máscara blanca de conejo con una oreja rota/torcida, única con algo de cara visible (boca y barbilla)",
+    "para_que": "Confirmar la máscara de identidad fija de la Niña para el punto 25",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/Masks",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Lista de 20+ máscaras coleccionables intercambiables como disfraz (zorro, cordero/mutón, pájaro, gusano, cerdo, cono...), distintas de las máscaras fijas de identidad de los hermanos",
+    "para_que": "Evitar el error de dar el zorro/cordero como máscaras fijas (punto 25) y documentar el DLC Foxhead and Muttonhead Masks (punto 11)",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/Controls",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Tabla completa de controles por plataforma (PS5, Xbox Series X/S, Switch 2, teclado): moverse, mechero/linterna, llamar al otro jugador, controles de vehículo",
+    "para_que": "Documentar la interfaz y mandos del videojuego para el punto 11",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/The_Island",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Descripción de la Isla: lugar inundado, en ruinas y en guerra donde crecieron los hermanos, con sus ciudades y pueblos abandonados",
+    "para_que": "Reglas del mundo en cinco líneas del punto 25",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://reanimal.fandom.com/wiki/Coffins",
+    "fuente": "Reanimal Wiki (Fandom), vía api.php action=parse",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Coleccionables «Coffins» que muestran los espíritus de los tres amigos y de un conejo; desbloquean un final secreto",
+    "para_que": "Símbolo adicional del mundo para el punto 25",
+    "licencia": "Contenido de la comunidad de Fandom (CC BY-SA); wiki no oficial"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Reanimal",
+    "fuente": "Wikipedia en inglés (artículo con referencias primarias)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Artículo completo: desarrollo (Unreal Engine 5, cámara compartida, inspiración en It Takes Two/Wind Waker/Silent Hill 2), argumento por capítulos y recepción (Metacritic, OpenCritic)",
+    "para_que": "Base principal de los puntos 18 (estilo y técnica), 24 (obras parecidas) y 25 (historia por arcos)",
+    "licencia": "Texto de Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "url": "https://gamecritics.com/jason-ricci/reanimal-review/",
+    "fuente": "Gamecritics (reseña de Jason Ricci)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña con cita textual sobre subtitulado obligatorio, ausencia de pistas sólo de audio, y descripción de la decadencia visual del mundo",
+    "para_que": "Cita literal para el punto 6 (subtítulos) y descripción de estilo para el punto 18",
+    "licencia": "Artículo periodístico con derechos de Gamecritics; sólo cita corta, no reutilizable entero"
+  },
+  {
+    "url": "https://www.cubed3.com/features/interviews/tarsier-interview",
+    "fuente": "Cubed3 (entrevista a Andreas Johnsson, cofundador de Tarsier Studios)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Entrevista sobre la presentación de Reanimal en el Tokyo Game Show y el cariño del público japonés por los juegos del estudio",
+    "para_que": "Confirmar presencia del juego en mercados asiáticos para el punto 24",
+    "licencia": "Artículo periodístico con derechos de Cubed3"
+  },
+  {
+    "url": "https://techraptor.net/gaming/previews/tarsier-studios-reanimal-introduces-tense-and-terrifying-journey",
+    "fuente": "TechRaptor (preview)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Cita textual sobre la paleta fría con acentos cálidos puntuales (neón, fuego, faros)",
+    "para_que": "Descripción de paleta para el punto 18 (estilo de dibujo)",
+    "licencia": "Artículo periodístico con derechos de TechRaptor; sólo cita corta"
+  },
+  {
+    "url": "https://www.eurogamer.net/reanimal-review",
+    "fuente": "Eurogamer (reseña, 4/5)",
+    "ancho": null,
+    "alto": null,
+    "que_es": "Reseña con nota y cita sobre la artesanía visual y el ambiente del juego",
+    "para_que": "Comparación de prensa para el punto 24",
+    "licencia": "Artículo periodístico con derechos de Eurogamer; sólo cita corta"
+  },
+  {
+    "url": "https://youtu.be/GH5FWvE3VCQ",
+    "fuente": "YouTube ('Reanimal - Topic', canal oficial autogenerado de la BSO)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pista 'The Buoy's Theme' (2:21), tema del menú principal",
+    "para_que": "Motivo sonoro reconocible de la serie (motivo de la boya/farol)",
+    "licencia": "© Christian Vasselbring / Jacob Carlsson / Stefan Almqvist; sólo referencia"
+  },
+  {
+    "url": "https://youtu.be/y9xi94mIQEU",
+    "fuente": "YouTube ('Reanimal - Topic', canal oficial autogenerado de la BSO)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Pista 'The Mother Facade' (3:00), tema del combate final contra La Madre (cap. 5)",
+    "para_que": "Referencia de música para una escena de tensión/clímax",
+    "licencia": "© Christian Vasselbring / Jacob Carlsson / Stefan Almqvist; sólo referencia"
+  },
+  {
+    "url": "https://www.tiktok.com/@.reanimal_ln/video/7633451294702800141",
+    "fuente": "TikTok (cuenta de fans @.reanimal_ln)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Clip de fans sobre la persecución en triciclo de Sniffer (cap. 2, The Cleaning House), tendencia viral",
+    "para_que": "Referencia de la tendencia de TikTok más repetida de la serie",
+    "licencia": "© su autor/TikTok; sólo referencia"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/3c5db4e2-fb76-47e1-b3ec-80d329abe612",
+    "fuente": "MusicBrainz",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha del álbum 'REANIMAL (Original Game Soundtrack)', autoría y fecha de lanzamiento",
+    "para_que": "Fuente para confirmar compositores y fecha de la BSO",
+    "licencia": "Datos abiertos (CC0/PDDL, MusicBrainz)"
+  },
+  {
+    "url": "https://opencritic.com/game/19727/reanimal",
+    "fuente": "OpenCritic (agregador de reseñas)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Top Critic Average 80/100 sobre 153 reseñas, con IGN (9/10), Eurogamer (4/5) y PC Gamer (74/100) listadas",
+    "para_que": "Dato de recepción crítica para el punto 21, cruzado con Metacritic",
+    "licencia": "No es imagen; página de referencia, sin licencia de uso gráfico"
+  },
+  {
+    "url": "https://vandal.elespanol.com/analisis/ps5/reanimal/182453",
+    "fuente": "Vandal (El Español)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Análisis en español con nota 8.4/10: 'sucesor espiritual de Little Nightmares' con cooperativo bien pensado",
+    "para_que": "Cita de prensa en español para el punto 21, fuente de dominio distinto",
+    "licencia": "No es imagen; página de referencia, sin licencia de uso gráfico"
+  },
+  {
+    "url": "https://www.3djuegos.com/juegos/reanimal/analisis/tiene-gran-pega-te-voy-a-recomendar-igualmente-analisis-reanimal",
+    "fuente": "3DJuegos",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Análisis en español, 'Recomendado', sin nota numérica publicada: 'juego de 6 horas fluidas que sabe cuándo tiene que terminar'",
+    "para_que": "Cita de prensa en español para el punto 21, fuente de dominio distinto",
+    "licencia": "No es imagen; página de referencia, sin licencia de uso gráfico"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/f61e62d193307ea39c7f9efaeb751070bc2b1758/ss_f61e62d193307ea39c7f9efaeb751070bc2b1758.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733900/a6c0fb7109ae837abd7d1175cff540d11d410b53/ss_a6c0fb7109ae837abd7d1175cff540d11d410b53.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL: The Prisoner",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733900/1b1c7d8b085b814747316793770ec8424b4a480e/ss_1b1c7d8b085b814747316793770ec8424b4a480e.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL: The Prisoner",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733900/b875a7d8ce23429cf299c31d0d2d993c91fb4fa8/ss_b875a7d8ce23429cf299c31d0d2d993c91fb4fa8.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL: The Prisoner",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733900/4a80f5cc6e321ea8b00f25e772dfeb1af7da7166/ss_4a80f5cc6e321ea8b00f25e772dfeb1af7da7166.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL: The Prisoner",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733900/c9af5aeb724eada8f5bfbdaa9c7d8bc7ba21d17f/ss_c9af5aeb724eada8f5bfbdaa9c7d8bc7ba21d17f.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL: The Prisoner",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112550/a78294cbaff7c3ed9d8528e9901e2e6371b19949/ss_a78294cbaff7c3ed9d8528e9901e2e6371b19949.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL – Season Pass",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112550/3a411db7ab33ca69bd75702e91900bbdd3cc75ae/ss_3a411db7ab33ca69bd75702e91900bbdd3cc75ae.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL – Season Pass",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112550/2a45cb60f6bdbb9f8c3c14bcbcb178bd8630b5f4/ss_2a45cb60f6bdbb9f8c3c14bcbcb178bd8630b5f4.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL – Season Pass",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112550/e883ba6dad8d2936f7f6ae16738235413760a7ee/ss_e883ba6dad8d2936f7f6ae16738235413760a7ee.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL – Season Pass",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112550/1a409262ec3d8072707ac07f7df22450b9ec973b/ss_1a409262ec3d8072707ac07f7df22450b9ec973b.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL – Season Pass",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112550/e34f3834be99b0e671d79621684a538558ef4265/ss_e34f3834be99b0e671d79621684a538558ef4265.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL – Season Pass",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954470/e34f3834be99b0e671d79621684a538558ef4265/ss_e34f3834be99b0e671d79621684a538558ef4265.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL - Foxhead and Muttonhead Masks",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954470/905fe236a32858064a96a2a60bf4eb8fd792df96/ss_905fe236a32858064a96a2a60bf4eb8fd792df96.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL - Foxhead and Muttonhead Masks",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/7a0a57325b6cf2b89a4dd65d47923efb0c9b6292/ss_7a0a57325b6cf2b89a4dd65d47923efb0c9b6292.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL Demo",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/dd3164af87e50375d7f057509a683a3ec77b069f/ss_dd3164af87e50375d7f057509a683a3ec77b069f.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL Demo",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/d1cee580cbd2719ac274ad942eb4f9ae85b2c10a/ss_d1cee580cbd2719ac274ad942eb4f9ae85b2c10a.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL Demo",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/e6d1ef3f199a4e2362fd653e8b9b93572a0b5b6a/ss_e6d1ef3f199a4e2362fd653e8b9b93572a0b5b6a.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL Demo",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  },
+  {
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019420/d7f093cbbf88d4a823dbe65b7d8e8df4839a4036/ss_d7f093cbbf88d4a823dbe65b7d8e8df4839a4036.1920x1080.jpg",
+    "fuente": "Steam",
+    "ancho": 1920,
+    "alto": 1080,
+    "que_es": "Captura de REANIMAL Demo",
+    "para_que": "interfaz, menús y cuadro de diálogo del juego",
+    "licencia": "© titulares; sólo referencia"
+  }
+]

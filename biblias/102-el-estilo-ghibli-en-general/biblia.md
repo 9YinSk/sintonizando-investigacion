@@ -90,3 +90,65 @@ Lo que pide este encargo, en una página. El detalle está en los puntos que se 
 - **Cómo se dibuja:** pelo, vestido y hierba se mueven juntos. Kiki volando con el vestido al viento ([0:34](https://www.dailymotion.com/video/x88a5in?t=34)), Ponyo corriendo con el vestido rojo al viento ([ponyo028](https://www.ghibli.jp/gallery/ponyo028.jpg)), Sophie anciana con el pelo blanco al viento ([0:36](https://www.dailymotion.com/video/x889i5w?t=36)). ✅
 - **Cómo suena:** en el vuelo de Kiki sobre el mar **sólo se oye el viento**, sin música ([0:34](https://www.dailymotion.com/video/x88a5in?t=34)). ✅ (oído en el tráiler)
 - **Por qué importa:** volar es liberarse. Kiki pierde el vuelo cuando duda de sí; Nausicaä vuela en planeador sobre la jungla tóxica. Punto 25.
+
+## 1. Arte oficial
+
+El arte oficial de *Chihiro* está entero en la biblia 98 (50 fotogramas, pósters, storyboards, Blu-ray). Aquí va el nivel **estudio**.
+
+- **La galería oficial cubre las 26 obras.** Formato `https://www.ghibli.jp/gallery/<obra>NNN.jpg`, 1920×1038, 50 por película. Nombres: aya, baron, chihiro, ged, ghiblies, hotarunohaka, howl, kaguyahime, karigurashi, kazetachinu, kimitachi, kokurikozaka, laputa, majo, marnie, mimi, mononoke, nausicaa, omoide, onyourmark, ponyo, porco, tanuki, totoro, umi, yamada. ✅ (código 200 en las 26)
+- **La licencia.** El 18-sep-2020 el estudio liberó 400 imágenes con una nota a mano de Toshio Suzuki: «Úsenlas libremente dentro del sentido común». En diciembre de 2020 ya eran 1178. ✅ ([Open Culture](https://www.openculture.com/2020/12/studio-ghibli-makes-1178-images-free-to-download.html), [Siliconera](https://www.siliconera.com/studio-ghibli-uploads-400-images-for-free-use/))
+- **Fondos «para videollamada»** por película en `ghibli.jp/info/013251/`. ✅
+- **Arte grande de la wiki de Ghibli** ([ghibli.fandom.com](https://ghibli.fandom.com/wiki/Studio_Ghibli)): «All Characters» 3556×2844 (todos los personajes juntos), un fondo de 4664×2160, *Totoro* 3622×1936. ✅ medido.
+- **Pinturas de Kazuo Oga** en la wiki: «Totoro Oga» 2098×1336, fondo de *Recuerdos del ayer* 2512×850. ✅
+- **Lo que hay en las hojas** (ver «Las 3 hojas»): pósters de 6 películas, storyboard de *Totoro* a lápiz, el logo de *Kiki*, celdas originales y a Oga pintando.
+- **Selección para el foco** (medida con `estilo.py`):
+  - Comida: [ponyo035](https://www.ghibli.jp/gallery/ponyo035.jpg) (ramen), kazetachinu015 (bento en furoshiki: `#322923` `#847864` `#B19770` `#5B3D28`), totoro015 (onigiri). ✅
+  - Luz: totoro025 (komorebi), howl020 (vapor verde de la Bruja del Páramo: tierras `#9F9C88` `#BAB39A` `#D4C8A4`). ✅
+  - Viento: kazetachinu001 (Jiro vuela), kazetachinu025 (avión entre nubes doradas `#D1BB9A` `#C3A77A`). ✅
+- **No hay tomos ni singles como en un anime de TV.** Son películas. El único manga propio grande es *Nausicaä* (punto 19).
+
+## 2. Fotogramas de escenas icónicas
+
+Once escenas de 6 películas, elegidas por el foco. Los fotogramas oficiales no traen minuto de la película: cuando sale en un tráiler, va el segundo exacto.
+
+| Escena | Foco | Oficial | En vídeo |
+|---|---|---|---|
+| Totoro en la parada del autobús bajo la lluvia | luz, agua | [totoro034](https://www.ghibli.jp/gallery/totoro034.jpg) | tráiler latino [0:32](https://www.dailymotion.com/video/x9csuhi?t=32) ✅ |
+| El Gatobús llega de noche, ojos-faro | luz | [totoro031](https://www.ghibli.jp/gallery/totoro031.jpg) | Satsuki retrocede ante él [0:39](https://www.dailymotion.com/video/x4mls0h?t=39) ✅ |
+| Los totoros pequeños por el túnel de árboles | viento | [totoro019](https://www.ghibli.jp/gallery/totoro019.jpg) | ⚠️ sin minuto |
+| Kiki vuela de noche sobre el mar con Jiji | viento | [majo010](https://www.ghibli.jp/gallery/majo010.jpg) | [0:34](https://www.dailymotion.com/video/x88a5in?t=34) ✅ |
+| La panadería con el pan recién hecho | comida | [majo028](https://www.ghibli.jp/gallery/majo028.jpg) | [1:31-1:40](https://www.dailymotion.com/video/x88a5in?t=91) ✅ |
+| El Espíritu del Bosque entre rayos dorados | luz | [mononoke010](https://www.ghibli.jp/gallery/mononoke010.jpg) | [1:32](https://www.dailymotion.com/video/x971hck?t=92) ✅ |
+| El Caminante Nocturno, azul translúcido | luz | [mononoke025](https://www.ghibli.jp/gallery/mononoke025.jpg) | [0:48](https://www.dailymotion.com/video/x971hck?t=48) ✅ |
+| Tocino y huevos en la sartén de Calcifer | comida | [howl016](https://www.ghibli.jp/gallery/howl016.jpg) | ⚠️ no sale en el tráiler |
+| El castillo volando entre nubes al amanecer | luz, viento | [howl049](https://www.ghibli.jp/gallery/howl049.jpg) | [1:04](https://www.dailymotion.com/video/x8x2lpe?t=64) ✅ |
+| Ponyo corre sobre las olas-pez en la tormenta | viento, agua | [ponyo028](https://www.ghibli.jp/gallery/ponyo028.jpg) | tormenta [0:53-1:25](https://www.dailymotion.com/video/x9mj300?t=53) ⚠️ no ese plano |
+| Ponyo come ramen con jamón | comida | [ponyo034](https://www.ghibli.jp/gallery/ponyo034.jpg) | ⚠️ sin minuto |
+| Jiro vuela; Naoko pinta con el bosque al viento | viento | [kazetachinu001](https://www.ghibli.jp/gallery/kazetachinu001.jpg), [kazetachinu028](https://www.ghibli.jp/gallery/kazetachinu028.jpg) | ⚠️ no se encontró tráiler |
+
+## 3. Fan art y 3D con licencia
+
+Los modelos de *Chihiro* (Aburaya, Haku, Sin Cara) están en la biblia 98. Aquí van los **de todo el estudio**. Licencias leídas en la API de [Sketchfab](https://sketchfab.com/3d-models/none-e326c36890364526910cba03c1393ebc), no de memoria.
+
+**Modelos 3D con licencia libre (crédito: «Autor, título, Sketchfab, CC BY»):**
+- **Desayuno de *El castillo ambulante*** (tocino y huevos): CC BY, 714 likes, *Zeps3D*. El mejor «plato Ghibli». ✅ ([enlace](https://sketchfab.com/3d-models/none-0e8fde91fdb5413494e878b0fef85cda))
+- **Nubes estilizadas**: CC BY, 557 likes, *lavakongen*. Sirve para el cielo de cualquier lámina. ✅
+- **Ramen de *Ponyo***: CC BY, 200 likes, *Discovered*. ✅ ([enlace](https://sketchfab.com/3d-models/none-5e614fea3aaf4e78bd82cf2b6e0e5c7a)). ⚠️ La variante de *ckaosatom* es CC BY-NC-SA: no comercial.
+- **Totoro** (CC BY, 60 likes, *Vanillaburp*, [enlace](https://sketchfab.com/3d-models/none-ffb11769e03e4a9395416d714ccd66ce)); **los tres Totoros** y **Mei** (CC BY, 380 y 488 likes, *goart*). ✅
+- **Gatobús**, tres versiones CC BY: *Valentine_Ventura*, *AcalliTwissLART*, *jason.lp.davis*. ⚠️ La más votada (169 likes, *Patrickart.hk*) es CC BY-NC-ND: descartada.
+- **Robot de Laputa** (CC BY, *zionkoenig*, [enlace](https://sketchfab.com/3d-models/none-a659068938054b64bbac15110ffd2fa1)); **Kamaji** (CC BY, *godislove431*); **Calcifer** (CC BY, *berchello* y *DonikXD*); **Cabeza de Nabo** (CC BY, *ncd.blueberry*); **Nausicaä** (CC BY, *lages.miguel*). ✅
+- **Props de *Kiki*** (CC BY, 163 likes, *Kanna-nakajima*) y **la corona de pan** de la panadería (CC BY). ✅
+- **Biplano rojo** estilo *Porco Rosso* (CC BY, *won1*); **casa-cabeza** diorama «Ghibli Head house» (CC BY, *Mars_Sobaka*). ✅
+- **Susuwatari** (CC BY-NC, 205 likes, *duz_vr*): ⚠️ no comercial.
+- **Poly Haven**: no se buscó para esta serie; las texturas CC0 salen de ambientCG (puntos 4 y 19).
+
+**Fan art de referencia (nunca para pegar):**
+- 2952×2075, origen [x.com/endlessrz](https://x.com/endlessrz/status/1267082711153422336), imagen en [Safebooru](https://safebooru.org/images/1096/db3d1c9105029bf9f66d68bc2cfcfa1d6241f771.jpg). ✅
+- 1946×2048, comparación de estilo, origen *gan2* en X. ✅
+- Dos versiones de 1261×1600 y 1535×2037, mismo autor en [ArtStation](https://www.artstation.com/artwork/zOoZm6). ✅
+- Totoro por *ayasal* en DeviantArt, 1280×1979 (marca de agua). ✅
+- Fondo de Totoro por *DannyLaiLai*, 3072×1452, 535 favoritos ([Wallhaven](https://wallhaven.cc/w/x8oxez)). ⚠️ licencia del autor.
+
+**Fotos CC para volumen real:** 10 fotos del **Museo Ghibli** (robot de Laputa en la azotea, jardín, fachada), CC BY-SA 2.0, 1024×768, en [Flickr](https://live.staticflickr.com/8313/8025600359_b89c00a1c1_b.jpg). ✅ (licencia en la API de Openverse)
+
+**Lo que dice el fan art del estilo:** en [Danbooru](https://danbooru.donmai.us/posts?tags=studio_ghibli), las etiquetas de Kiki, San, Howl, Chihiro, Jiji y Nausicaä repiten pelo natural, ropa sencilla y **fondo simple**. Es lo contrario del estudio, que pinta el fondo con detalle. Es justo lo que falla al imitar Ghibli (punto 17).
