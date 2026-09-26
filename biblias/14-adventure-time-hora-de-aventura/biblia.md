@@ -2360,44 +2360,68 @@ equipo salieron series de tono parecido (fantasía, humor y emoción):
 
 ---
 
-## 18 · Guía para generar con IA (Firefly, Canva)
+## 18 · Guía para generar con IA (Firefly, Canva) — punto 17
 
 > La IA sólo para **fondos, poses de apoyo o bocetos**. El personaje
 > final, mejor redibujado o sacado de un fotograma real. Y todo lo que
-> salga de la IA se compara con las referencias de §3 y §15.
+> salga de la IA se compara con las referencias de §3.0 y §15.0.
 
 ### 18.1 El estilo en pocas palabras (lo que nunca cambia)
 
-- **Línea**: contorno **fino, uniforme, oscuro** (no negro puro:
-  marrón o morado muy oscuro en los personajes) ⚠️; sin variación de
-  grosor tipo pincel.
-- **Color**: **plano**, casi sin sombras; cuando hay sombra, **una sola
-  mancha de sombra dura** ⚠️.
+- **Línea**: contorno **fino y uniforme**, sin variación de grosor tipo
+  pincel, con un leve temblor de mano ✅ (§A.2). Su color: la primera
+  pasada decía «marrón o morado muy oscuro»; la parte de técnica dice
+  «negro limpio» ⚠️ (ninguna lo midió). En la duda, **casi negro**.
+- **Color**: **plano y saturado**; cuando hay sombra, **una sola mancha
+  dura** (1-2 tonos) ✅ (§A.2, visto en la casa de Marceline).
 - **Formas**: círculos, óvalos y triángulos; **brazos y piernas de
-  fideo** «al dente» sin codos ✅ ([notas de Pendleton Ward, Acclaim](https://acclaimmag.com/culture/learn-draw-adventure-time-creator-pendleton-wards-detailed-occasionally-bizarre-notes/)).
+  fideo** «al dente», sin codos ✅ ([notas de Pendleton Ward, Acclaim](https://acclaimmag.com/culture/learn-draw-adventure-time-creator-pendleton-wards-detailed-occasionally-bizarre-notes/)).
 - **Caras**: **ojos de punto negro** y **boca de una línea** o una
-  curva ✅ (mismas fuentes).
-- **Fondos**: **pintados**, con más textura y detalle que los
-  personajes, y colores más suaves ⚠️.
+  curva ✅ (visto en el piloto, §8.2).
+- **Fondos**: más detalle que los personajes; en «Tierras lejanas»,
+  **pintados con degradado** ✅ (§5.2).
+- **Luz**: plana y cálida en interiores; violeta y cian en el Reino de
+  Cristal; tarde despejada en exteriores (§5.2).
+- **Encuadre**: primer plano para tristeza y rabia; plano general con el
+  personaje pequeño para viajar; plano detalle para un objeto (§A.3).
 
 ### 18.2 Marceline, rasgos fijos
 
-- Piel **gris azulada pálida**, **pelo negro lisísimo** hasta más abajo
-  de la cintura, flequillo partido ⚠️, **orejas puntiagudas**, colmillos
-  pequeños, **dos puntos de mordida en el cuello** ⚠️.
-- **Flota**. Cuerpo largo y delgado.
+- **Piel casi blanca con un toque menta, `#D8E7E7`** ✅ (medida; **no**
+  gris: el `#A9B8C2` de antes era de memoria). **Pelo negro puro
+  `#000000`**, lisísimo, hasta las rodillas ✅; flequillo partido ⚠️;
+  **orejas puntiagudas** ✅; colmillos pequeños; **dos puntos de mordida
+  en el cuello** ⚠️.
+- **Flota**. Cuerpo largo y delgado (*model sheet* «Stock Night», hoja 1
+  **#1**).
 - Ropa por defecto: **camiseta gris de tirantes, vaqueros, botas rojas**
-  ✅.
-- **El bajo-hacha**: hacha de doble filo **roja**, mástil de madera,
-  **cuatro cuerdas**, **dos clavijas a cada lado** de la pala ✅.
+  ✅ (hoja 2 **#51**). Alternativa medida: vestido camisero **`#83A5BC`** y
+  zapatos **`#8C284F`** (hoja 1 **#9**). De día, **sombrero mostaza
+  `#BBAB4C`** con cinta `#4A7AA2` y guantes (hoja 1 **#20**).
+- Siempre **algo rojo** en la ropa (§C).
+- **El bajo-hacha**: hacha de doble filo **roja** (`#9E1B1E`-`#C22B2F`
+  ⚠️), mástil de madera, **cuatro cuerdas**, **dos clavijas a cada lado**
+  de la pala ✅ (hoja 1 **#5**, hoja 2 **#49**).
+
+**Paleta para el *prompt*** (medida, §5.3): pared rosa `#F8AEC5`, techo
+`#FBE0E8`, sillón `#D94344`; Reino de Cristal `#422D6B`, `#6A53A0`,
+`#E1F7F9`, `#9055C3`; Finn `#018BCB`/`#7BBB59`/`#FDE5DA`; Jake
+`#FEB925`; Princesa `#ED8ACE`/`#F3BBFB`.
 
 ### 18.3 Palabras que ayudan
 
 `flat 2D cartoon, thin uniform outline, flat colors, simple dot eyes,
 noodle limbs, whimsical post-apocalyptic fantasy, painted background,
 gouache background, soft pastel palette, Cartoon Network 2010s style`
-y, para el sitio: `cave with stalactites, small pink suburban house
-inside a cave, lagoon, candles, night`.
+y, para el sitio: `small pink suburban house inside a cave, pink walls,
+red armchair, flat warm light` (la casa por dentro, vista) o `purple
+crystal peaks, cyan crystal tower, stone path, violet night` (el Reino
+de Cristal, visto). La cueva: `cave with stalactites, lagoon, candles,
+night` ⚠️ (de memoria).
+
+Para Marceline: `pale mint-white skin, pure black very long straight
+hair, pointed ears, floating in the air, playing a double-bladed battle
+axe shaped bass guitar, 4 strings, red blades`.
 
 Para el título: `vintage paper border, halftone dithering, pulp
 paperback cover, hand-lettered title` (el estilo de las cartelas, §3.2).
@@ -2406,17 +2430,82 @@ paperback cover, hand-lettered title` (el estilo de las cartelas, §3.2).
 
 `anime, manga, big eyes, detailed shading, cel shading with gradients,
 realistic, 3D render, glossy, Pixar`, `vampire blood, gore` (Marceline
-**no** es de sangre), `electric guitar` (sale una guitarra normal: pedir
-**`double-bladed battle axe shaped bass guitar, 4 strings`**).
+**no** es de sangre), `grey skin, blue skin` (sale gris), `electric
+guitar` (sale una guitarra normal: pedir **`double-bladed battle axe
+shaped bass guitar, 4 strings`**), `speech bubble` (la serie no usa
+globos, §7).
 
 ### 18.5 Qué referencias usar
 
-- **De estilo**: el arte de los discos oficiales (§3.4) y las cartelas
-  (§3.2).
-- **De pose**: los momentos de §15 (sobre todo Marceline 6, 8 y 10).
-- **Del objeto**: el modelo 3D de Yogensia (§4.1) y las fotos de
-  réplicas reales (§3.5).
-- **De luz para Blender**: el [HDRI Cave Wall](https://polyhaven.com/a/cave_wall) (§5.4).
+- **De estilo**: los *model sheets* oficiales (hoja 1 **#1**, **#9**,
+  **#48**, **#45**), el arte de los discos (§3.4) y las cartelas (§3.2).
+- **De pose**: hoja 1 **#36** (tocando de pie, guiño), hoja 2 **#51**
+  (cuerpo entero sobre blanco), hoja 9 **#393** (cantando sobre la
+  puerta) y **#396** (dúo); en vídeo, las **V1, V3, V10 y V11** de §15.0.
+- **Del objeto**: hoja 1 **#5** y hoja 2 **#49**; en 3D, el bajo de
+  **Haxis** (CC BY) o el de Yogensia (§4.1); réplicas reales (§F.3).
+- **De luz para Blender**: el [HDRI Cave Wall](https://polyhaven.com/a/cave_wall)
+  (§5.4) y la paleta medida (§5.3).
+
+### 18.6 Vocabulario de gestos (para la IA de imagen)
+
+No es anime: **no hay gotas de sudor, venas ni fondos de emoción** de
+manga. Lo que usa la serie (visto, §8.2):
+- **Vergüenza**: óvalo **rosa en las mejillas**, boca en rayita, ojos de
+  punto muy abiertos (Finn, piloto 6:00).
+- **Llanto**: cabeza atrás, dientes apretados en **mueca triangular**,
+  **una sola lágrima** (Marceline, «I Remember You»).
+- **Rabia**: ceño fruncido, **colmillos**; en extremo, **ojos rojos** y
+  forma de **murciélago o monstruo** (hoja 1 **#15**, §8).
+- **Miedo o nervios**: ojos muy redondos con brillo blanco, **manos juntas
+  contra el pecho** (la Princesa, 2:12).
+- **Alegría**: ojos enormes, sonrisa ancha de **dientes cuadrados** (Jake,
+  1:39); **ojos cerrados en dos curvas** (BMO, 2:36).
+- **Burla**: **guiño** (Marceline, hoja 1 **#36**; «[Winks]», 1×22).
+- **«Chibi»**: la versión simplificada existe en los retratos del juego
+  de DS (§7.3).
+
+### 18.7 Para una IA de texto: cómo escribir en su voz
+
+**Marceline**: burlona, tranquila, frases cortas; llama «**weenies**» a
+Finn y Jake; presume sin esfuerzo; **sisea** cuando se enfada; cuando se
+pone seria, baja la voz y va al grano. Grita poco: cuando se enfada de
+verdad, **sisea y se transforma**.
+**Finn**: todo con **¡!**; «**¡Matemático!**», «**¡Algebraico!**»;
+caballeroso («m'lady»); heroico y rápido (3,49 palabras/s, §8.4).
+**Jake**: relajado, consejero, **modismos mexicanos** en el doblaje
+clásico («¡Ay, Jojutla!», «Nunca me hagan eso»); «hermano».
+**Dulce Princesa**: correcta, mandona, técnica («triplet quavers in
+mixolydian mode»); juguetona sólo con Marceline.
+**BMO**: niño seguro de sí mismo, a veces **en tercera persona**, risa
+larga («¡Jajajajajaja!»).
+**Princesa Grumosa**: «**¡Oh por Glob!**».
+
+**Frases reales por emoción** (en latino, oídas en las muestras de
+Doblaje Wiki, §10.4, ✅; en inglés, de las transcripciones, con mi
+traducción):
+
+| Emoción | Frase | Quién, fuente |
+|---|---|---|
+| Alegre | «**¡Los veo en el dulce reino! ¡Esta noche!**» | Dulce Princesa, muestra de Doblaje Wiki ✅ |
+| Alegre | «¡Jajajajajaja! ¡Juguemos a policías y ladrones!» | BMO, muestra ⚠️ (dos palabras reconstruidas) |
+| Alegre | «**¡Matemático!**» | Finn ✅ |
+| Enfadada | «¿Qué estás haciendo? No puedes estar aquí. **Ash no quiere que salga con mortales**» | Marceline, muestra ✅ |
+| Enfadada | «[Eyes turn red] My bass. **MY BASS!**» («¡Mi bajo!») | Marceline, «Obsidian» ≈33:37, transcripción |
+| Enfadado (villano) | «¡La hora es suya, pero el día será mío!» | Rey Helado, muestra ✅ |
+| Explicando | «Tienes razón, sólo hay una forma de salir. […] No traten de convencerme» | Finn, muestra ✅ |
+| Explicando | «Music is powerful, man. It speaks to a primal pit in our brains» («La música es poderosa, viejo») | Jake, 10×13 ≈42:39, transcripción |
+| Explicando | «I wrote this next song about a fisherman» («Esta canción la escribí sobre un pescador») | Marceline, 1×22 ≈6:35, transcripción |
+| Animando | «**Estoy para ti, hermano.** […] **Todo estará bien. Vayamos de compras**» | Jake, muestra ✅ |
+| Animando | «Los amigos se ayudan siempre, ¡SIEMPRE!» | Finn ⚠️ (una fuente) |
+| Animando | «I've been working on a new song myself… Would you like to hear it?» («Tengo una canción nueva. ¿Quieren oírla?») | el Hoyo Musical, 10×13 ≈43:04, transcripción |
+| Triste | «But you ate them, yeah, you ate my fries… and I cried» | Marceline, subtítulo del clip «Fry Song» 0:28 ✅ (inglés) |
+| Triste | «I was so afraid something bad would happen to you, and I wouldn't be there» | Marceline, 10×13 ≈33:06, transcripción |
+
+**Cómo exagera**: Marceline con **siseo y transformación** más que
+con gritos; Finn con **mayúsculas y ¡!**; Jake con **modismos y risas**; la
+Princesa con **palabras técnicas**. **Puntuación latina**: ¿? y ¡!
+siempre, y «Hora de aventura» sin «s».
 
 ---
 

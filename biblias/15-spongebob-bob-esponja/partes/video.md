@@ -162,6 +162,12 @@ Pictures y de Nickelodeon** (arriba, §4) como remate visual, con el listado
 de «Background Painters» en letras rosa sobre fondo de flores amarillo — dato
 nuevo para la biblia, no estaba.
 
+Además, clip promocional oficial de **Nickelodeon Latinoamérica** («La
+Mascota de Plankton», con bumper final «Encuentra Bob Esponja más en Nick»,
+0:48-0:49) ✅ visto entero, 17 planos, [Dailymotion](https://www.dailymotion.com/video/x6i3rnb):
+confirma que sí hay clips oficiales en español disponibles vía Dailymotion,
+no sólo fan-made (usado también en el punto 14, Plankton).
+
 ### Punto 10 · Vídeos (tráiler oficial con minuto, mirado plano a plano)
 
 **Tráiler oficial doblado de «Bob Esponja: En busca de los pantalones
@@ -249,6 +255,16 @@ personaje · qué hace · para qué sirve · fuente y minuto real.
 - Codo a codo con Bob Esponja, pose heroica de pie, 0:57, tráiler 2025 —
   **animar/celebrar** — [`&t=57`](https://www.dailymotion.com/video/x9mmh7y?t=57) ✅.
 
+**Plankton** (clip promocional oficial en español, *«La Mascota de
+Plankton»*, [Dailymotion, con bumper final «Encuentra Bob Esponja más en
+Nick»](https://www.dailymotion.com/video/x6i3rnb) → confirma fuente
+Nickelodeon LA, no fan-made):
+- Camina junto a su mascota gigante (un gusano rosa con dientes) que se le
+  descontrola, antena hacia arriba, ojo único preocupado, 0:22-0:25 —
+  **explicar un problema / preocupación** — [`&t=22`](https://www.dailymotion.com/video/x6i3rnb?t=22) ✅.
+- De pie, diminuto junto a los barrotes de una jaula de refugio de
+  animales, mirando hacia arriba, 0:31 — **pensar/plan** — [`&t=31`](https://www.dailymotion.com/video/x6i3rnb?t=31) ✅.
+
 > Todas estas poses están vistas fotograma a fotograma con `fotogramas.py
 > --cortes` (contact sheets en la carpeta de trabajo) y confirmadas con Read;
 > ninguna es deducción del subtítulo.
@@ -304,8 +320,9 @@ personaje · qué hace · para qué sirve · fuente y minuto real.
   training video», «bob esponja crustaceo cascarudo escena», «Selling Out
   cha ching bob esponja español», «Born Again Krabs free toys», «bob
   esponja capitulo final creditos», «bob esponja pelicula 2025 trailer
-  español», «En busca de los pantalones cuadrados trailer 2025» → varias
-  decenas de resultados filtrados, 6 vídeos usados.
+  español», «En busca de los pantalones cuadrados trailer 2025»,
+  «Plankton formula secreta bob esponja», «Plankton Karen escena bob
+  esponja» → varias decenas de resultados filtrados, 7 vídeos usados.
 - Inglés — Dailymotion: «SpongeBob opening intro official», «SpongeBob
   credits ending», «Krusty Krab Training Video clip» → 2 vídeos usados
   (opening x8hj84s, créditos x3v1puo).
@@ -324,7 +341,8 @@ personaje · qué hace · para qué sirve · fuente y minuto real.
   (fotograma por plano) + Read de las hojas de contacto: opening (19
   planos), 2 cierres (5+4 planos), tráiler (31 planos), Krusty Krab
   Training Video (119 planos, 2 hojas), Se busca ayuda (11 planos), Born
-  Again Krabs (93 planos, 2 hojas) — **282 fotogramas mirados en total**.
+  Again Krabs (93 planos, 2 hojas), La Mascota de Plankton (17 planos) —
+  **299 fotogramas mirados en total**, 7 vídeos.
 - Paleta medida con `herramientas/estilo.py --colores` sobre 2 fotogramas a
   1280 px extraídos con `--fotograma`: exterior del Crustáceo (día) y caja
   registradora en primer plano.
