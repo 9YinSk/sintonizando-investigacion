@@ -71,7 +71,7 @@ Hex sacados con `estilo.py` sobre fotogramas propios (no de memoria).
   explotando el tema años después · https://music.apple.com/us/song/revolution-generator-rex-theme-song-lofi-version/1676200588 · ✅ (dos plataformas: Apple Music y Spotify)
 - «The Zoo» (tema del paseo de Rex y Bobo por el zoo en el episodio 1) se
   reutiliza en parte como música de los créditos de cierre · wiki
-  `Soundtrack of Generator Rex` · ⚠️ (una fuente)
+  https://generatorrex.fandom.com/wiki/Soundtrack_of_Generator_Rex · ⚠️ (una fuente)
 - Leitmotivs por personaje, con episodio de origen (de la wiki, con las
   referencias a episodios que trae la propia tabla):
   - «Rex's Theme»: tema de acción de Rex, variantes en 1.01, 1.02, 1.05, 1.11,

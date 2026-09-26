@@ -63,9 +63,12 @@ Bio y diálogos sacados de la wikitexto oficial del juego (Fandom HSR, páginas 
 | March 7th | Determinación (combate) | mismo tráiler | 1:30 | https://www.dailymotion.com/video/x8a7le6 (fotograma 16, en plena acción con hielo) |
 | Kafka | Calma/control | Tráiler «Ironía Dramática» (Dailymotion) | 1:20 | https://www.dailymotion.com/video/x8n3btc (fotograma 11, perfil sereno, media sonrisa) |
 | Firefly | Resignación serena (acepta su destino) | Tráiler oficial «Embers in a Shell» (Dailymotion) | 0:40 | https://www.dailymotion.com/video/x90j8pu?t=40 (ojos cerrados, rodeada de llamas, sin gesto de dolor) |
+| March 7th | Miedo/sobresalto | mismo tráiler «Bande-annonce de March 7th» | 0:24 | https://www.dailymotion.com/video/x8a7le6?t=24 (fotograma de plano, boca abierta y ojos muy abiertos, retrocede dentro de una tienda) ⚠️ (un solo mirror) |
+| Kafka | Rabia/furia (en combate) | mismo tráiler «Ironía Dramática» | 0:49 | https://www.dailymotion.com/video/x8n3btc?t=49 (primer plano, ceño fruncido, gafas bajadas, mirada fija y agresiva mientras dispara) ⚠️ (interpretación de una expresión de combate, no de una escena emocional dedicada) |
+| Firefly | Dolor/miedo (transformación en Género Pícaro) | mismo tráiler «Embers in a Shell» | 0:28 | https://www.dailymotion.com/video/x90j8pu?t=28 (ojos cerrados con fuerza, boca entreabierta, rodeada de fuego, gesto de sufrimiento a diferencia del de 0:40) ⚠️ |
 
 - No conseguí primeros planos claros de Caelus/Stelle mostrando una emoción marcada: el tráiler «The Deliverer» (Dailymotion x9o6p18) es casi todo efectos abstractos y planos de acción lejanos, sin cara visible; probé también «1st anniversary trailer» y «Astral Express trailer» en Dailymotion y salieron los mismos tráilers generales ya usados, sin uno centrado en la cara del Trazacaminos. Habría que sacarlo de una cinemática de misión principal (necesita el juego instalado o un canal de story cutscenes) o de las hojas de la wiki (`Trailblazer/Media`) que hace el investigador de imagen. ⚠️
-- Sigue faltando rabia, tristeza, miedo y vergüenza de los 4 personajes (sólo tengo alegría/serenidad/determinación de March 7th, calma de Kafka y resignación de Firefly): no me dio el tiempo de esta tanda para más tráilers ni cinemáticas de historia. Ver «Sigue» al final.
+- Revisé plano a plano (con `fotogramas.py --cortes`) los 3 tráilers de personaje ya usados (Kafka «Ironía Dramática» x8n3btc, 61 planos; Firefly «Embers in a Shell» x90j8pu, 85 planos; March 7th «Bande-annonce» x8a7le6, 45 planos) y la cinemática de apertura (x8bbisq, 25 planos): saqué miedo/sobresalto de March 7th y dolor/miedo de Firefly (transformación) además de la rabia de Kafka en combate; sigue faltando tristeza y vergüenza de los 3, y cualquier emoción marcada del Trazacaminos (la apertura x8bbisq lo muestra casi siempre de espaldas o en planos generales, nunca la cara).
 
 ## 20 · Gustos y detalles de cada personaje
 
@@ -112,7 +115,8 @@ Sin doblaje oficial en español, la comunidad hispana hace principalmente **fand
 
 - Doblaje latino de voz: confirmado que no existe (no es un «no encontré», es un hecho con 3 fuentes).
 - Altura y cumpleaños oficiales de March 7th, Trazacaminos y Firefly: no están publicados por HoYoverse (busqué en `Character Infobox` y en `Voice-Overs` de cada uno); sólo Kafka trae altura aproximada por su ficha de «se busca».
-- Emociones de rabia, tristeza, miedo y vergüenza con fotograma propio: sólo saqué alegría/serenidad/determinación de March 7th, calma de Kafka y resignación serena de Firefly en esta tanda (faltó tiempo para más tráilers/cinemáticas, y no encontré ningún tráiler centrado en la cara del Trazacaminos).
+- Tristeza y vergüenza con fotograma propio, de los 4 personajes: revisé plano a plano los 4 tráilers/cinemática disponibles (ver Bitácora) y no aparece ninguna escena de tristeza o vergüenza marcada en la cara, sólo combate, sorpresa o resolución; haría falta una cinemática de misión principal (fuera de alcance sin el juego instalado).
+- Cualquier emoción con fotograma propio del Trazacaminos: revisé la cinemática de apertura (x8bbisq) y el tráiler «The Deliverer» (x9o6p18) plano a plano; el personaje sale casi siempre de espaldas, en planos generales o con la cámara en primera persona (es protagonista silencioso); no hay un solo plano con su cara en un tráiler oficial.
 - Reseñas de prensa especializada centradas en personajes (con premios o cifras de ventas por personaje): no existen para este juego gacha, según lo que busqué.
 - Parodias o memes hispanos propios de HSR con canal identificado: no encontré ninguno con nombre propio, sólo traducciones informales de los memes en inglés de Reddit.
 - Fandub latino de Kafka o del Trazacaminos en concreto (busqué «Kafka fandub español latino» y «Trazacaminos fandub español»): sólo aparecieron pruebas de casting sueltas en Instagram, sin canal ni vídeo terminado que pudiera verificar.
@@ -128,6 +132,7 @@ Sin doblaje oficial en español, la comunidad hispana hace principalmente **fand
 - `fotogramas.py` sobre los 4 tráilers anteriores (cada 6-8 s) → hojas de contacto miradas con Read; fotogramas citados en el punto 13.
 - Arctic Shift (Reddit r/HonkaiStarRail): `query=cried`, `made me cry`, `saddest scene`, `silent protagonist`, `Evernight reveal`, `cringe` → hilos usados en los puntos 12 y 21.
 - `navegar.py` sobre HoYoLAB (`hoyolab.com/article/40440025`): la página no renderiza contenido sin sesión (queda en «Cargando…»); me apoyé en el resumen de X/StarRailVerse1 y en Sportskeeda (bloqueado por captcha) para la encuesta.
+- (Tanda «seguir») Dailymotion API: `search=Honkai Star Rail Astral Express opening cutscene` → confirmó que x8bbisq es la cinemática de apertura oficial (69 s); `fotogramas.py --cortes` sobre x8n3btc, x90j8pu, x8a7le6 y x8bbisq (contactos de 25-85 planos cada uno, mirados con Read) para buscar rabia/tristeza/miedo/vergüenza del punto 13.
 - No usé más de dos intentos por web bloqueada (regla de AYUDANTE.md): X/Twitter dio 403 directo con navegar.py, así que no insistí más ahí.
 
 ## Cumplimiento (mis puntos)
@@ -137,7 +142,7 @@ Sin doblaje oficial en español, la comunidad hispana hace principalmente **fand
 | 7 · Popularidad | ✅ | Encuesta oficial 2025 (2 fuentes) + Danbooru + Reddit |
 | 8 · Doblaje latino | ✅ | Confirmado que NO existe, con 3 fuentes; tabla EN/JP/CN/KR completa para los 4 personajes |
 | 12 · Fandom y qué no hacer | ✅ | Memes con repost verificado, aviso de Trazacaminos con voz propia, aviso de no inventar doblaje latino |
-| 13 · Carácter y forma de hablar | ⚠️ | 4 personajes descritos con fuente; emociones en imagen cubren March 7th (3), Kafka (1) y Firefly (1), falta el Trazacaminos y las emociones negativas (rabia/tristeza/miedo/vergüenza) de todos |
+| 13 · Carácter y forma de hablar | ⚠️ | 4 personajes descritos con fuente; emociones en imagen cubren March 7th (alegría, serenidad, determinación, miedo), Kafka (calma, rabia en combate) y Firefly (resignación, dolor/miedo); revisados los 4 tráilers/cinemática disponibles plano a plano y no hay tristeza ni vergüenza marcadas, ni ningún plano de cara del Trazacaminos (protagonista silencioso, siempre de espaldas o en plano general) |
 | 20 · Gustos | ✅ | March 7th, Kafka, Trazacaminos y Firefly completos, cada uno con fuente |
 | 21 · Por qué la aman | ✅ | Identificación por camino, escenas que hacen llorar (Penacony, 3.6) con reacción de Reddit |
 | 22 · Fan dubs | ✅ | 2 canales identificados con suscriptores y vídeos; aclarado por qué no hay covers de opening |
