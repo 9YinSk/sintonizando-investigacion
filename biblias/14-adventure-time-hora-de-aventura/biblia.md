@@ -8,6 +8,29 @@ fecha: 2026-09-24
 # Biblia · Hora de aventura — para #musica-nueva
 
 > [!important] Cómo se hizo, y sus límites
+> - **Segunda pasada (25-26 sep 2026, red abierta)**: un equipo de cuatro
+>   investigadores (imagen, vídeo, voz, texto) y un redactor. Se pudo usar:
+>   la API de la wiki en inglés (**`adventuretime.fandom.com`**: el
+>   subdominio del encargo redirige ahí), la de **Doblaje Wiki** (con
+>   `curl -A "Mozilla/5.0"`) y la de Hora de Aventura Wiki en español;
+>   **1188 imágenes de la wiki en 13 hojas de contacto** (3 en `hojas/`,
+>   §3.0); **7 clips reales en Dailymotion** (opening latino, créditos,
+>   «Fry Song», «I'm Just Your Problem», «I Remember You», tráiler de
+>   «Obsidian» y el piloto) mirados con `fotogramas.py`; `estilo.py` y
+>   Pillow para **medir colores**; **6 muestras de audio del doblaje**
+>   oídas con `voz.py`; APIs de Sketchfab, Wallhaven, ambientCG,
+>   MusicBrainz, TikTok (oEmbed) y Arctic Shift (Reddit); fontTools.
+> - **Lo que no se pudo en la segunda pasada**: YouTube pidió iniciar
+>   sesión todo el día (los enlaces de YouTube de abajo son de la primera
+>   pasada, sin mirar). TCRF dio 403, la Wayback Machine cortó la conexión,
+>   Ranker dio 401 y TikTok no deja contar vistas. Los clips de
+>   Dailymotion son de **720p** casi todos (sólo el opening y el tráiler
+>   de «Obsidian» llegan a 1080p). Crunchyroll no se usa.
+> - Los minutos **vistos** en vídeo llevan el enlace `?t=` o dicen «visto»;
+>   los de la primera pasada siguen como «≈» (calculados por la
+>   transcripción).
+>
+> **Primera pasada (24 sep 2026)**:
 > - **La red estaba cerrada.** Fandom (las tres wikis: inglés, Hora de
 >   Aventura y Doblaje Wiki), Discogs, Mondo, iam8bit, Flickr, Sketchfab
 >   (web y API), OpenSubtitles, Subtitle Cat, Art of the Title,
@@ -38,6 +61,9 @@ fecha: 2026-09-24
 > - ✅ **confirmado**: dos fuentes, o lo dice la transcripción.
 >   ⚠️ **dudoso**: una sola fuente, o lo digo de memoria. Lo de memoria
 >   siempre va marcado.
+
+> [!note] Segunda pasada · qué cambió
+> _(se rellena al terminar el repaso)_
 
 ---
 
@@ -92,14 +118,14 @@ campos como si fuera la lista de canciones (ver §19, concepto A).
 | Pregunta | Respuesta |
 |---|---|
 | Por qué encaja con #musica-nueva | En la serie **se graban discos**. Marceline graba la «Canción de las papas» con Finn haciendo beatbox («Thanks for helping me record, Finn», 2×01, ≈0:07) ✅. En «Marceline's Closet» (3×21, ≈6:05) enciende su equipo de grabación y dice: «Toma uno para mi **nuevo álbum conceptual**, basado en quinientos años de mi diario» ✅. Y la serie **termina con un estreno**: el Hoyo Musical dice «he estado trabajando en **una canción nueva**. ¿Quieren oírla?» y suena el tema final (10×13, ≈43:04) ✅. |
-| El objeto | **El bajo-hacha de Marceline**, que era **el hacha de la familia** («Is this the family ax? Did you turn it into some kind of lute?», dice su padre en 2×01, ≈2:15) ✅. Y los **discos oficiales que existen de verdad**: la **caja de Mondo** con tres LP de 12", un 10", un CD y un casete (2019) ✅, el LP «Come Along With Me» ✅, el doble LP de «Obsidian» ✅ y «BMO's Mixtape» ✅. Hay **modelos 3D del bajo en Sketchfab**, al menos uno con licencia CC BY-NC-SA ✅. |
+| El objeto | **El bajo-hacha de Marceline**, que era **el hacha de la familia** («Is this the family ax? Did you turn it into some kind of lute?», dice su padre en 2×01, ≈2:15) ✅. Y los **discos oficiales que existen de verdad**: la **caja de Mondo** con tres LP de 12", un 10", un CD y un casete (2019) ✅, el LP «Come Along With Me» ✅, el doble LP de «Obsidian» ✅ y «BMO's Mixtape» ✅. Hay **seis modelos 3D del bajo en Sketchfab** con licencia leída en su API; el de **Haxis** es **CC BY** (deja uso comercial con crédito) ✅ (§4). |
 | Cuadro de diálogo propio | **No hay globos.** La serie pone el texto en **papeles escritos a mano**: la nota de Finn («MARCY, PLEASE COME TO THE TREEHOUSE—IT'S AN AMERGENCY!», 3×21) ✅, las **notas de Simón que Marceline canta** en «I Remember You» (4×25, ≈8:49) ✅ y **el cuaderno de letras** de Marceline (3×21, ≈6:36) ✅. Y las **cartelas de título**, pintadas sobre **papel antiguo escaneado** y con **tramado de cómic viejo** ✅. |
-| Personaje | **Marceline**, sin duda: es la música de la serie. Es la favorita de mucha gente (la editorial BOOM! la llamó «fan-favorite» ⚠️; tuvo su miniserie «Estacas» y su especial «Obsidian» ✅). **No encontré una encuesta oficial** de popularidad. Secundarios que suman: **BMO** (tiene su propio disco), **Finn** (beatbox), **Jake** (viola) y la **Dulce Princesa**. |
-| Voz latina de Marceline | **Isabel Martiñón** (habla) ✅. Sus canciones las cantaron otras: **Claudia Urbán** (temporadas 1-2), **Patty Urbán** (3-4) y **Carla Cerda** (5 en adelante, «Estacas», «Tierras lejanas») ⚠️. |
+| Personaje | **Marceline**, sin duda: es la música de la serie. Es la favorita de mucha gente: BOOM! la llamó «fan-favorite» en su nota de prensa ✅, Cartoon Network UK la hizo «Character of the Week» (24-ene-2012) ✅ y *The Guardian* la llamó lo mejor de la serie ✅; tuvo su miniserie «Estacas» y su especial «Obsidian» ✅. **No encontré una encuesta oficial** con números. Secundarios que suman: el **Rey Helado/Simon** (*Vulture*: «el mejor personaje») ✅, **BMO** (el favorito del creador, Pendleton Ward) ✅, **Finn** (beatbox), **Jake** (viola) y la **Dulce Princesa** (§9). |
+| Voz latina de Marceline | **Isabel Martiñón** (habla), en **toda** la serie: su voz y la de Finn nunca cambiaron ✅ (Doblaje Wiki + dos entrevistas). Frase real oída: «No puedes estar aquí. Ash no quiere que salga con mortales» (§10.4). Sus canciones las cantaron otras: **Claudia Urbán** (temporadas 1-2), **Patty Urbán** (3-4) y **Carla Cerda** (5 en adelante, «Estacas», «Tierras lejanas») ⚠️. |
 | Voces latinas del resto | Finn **José Antonio Toledano** ✅, Jake **José Arenas** ✅, Dulce Princesa **Karla Falcón** ✅, Rey Helado **Óscar Flores** ✅. Estudio **Sensaciones Sónicas** (hasta media temporada 5) y luego **SDI Media de México** ✅. |
 | Noticia que viene justo | **«Hora de aventura: Misiones Secundarias»** llega a **Cartoon Network y HBO Max en Latinoamérica el 5 de octubre de 2026**, doblada, con **José Arenas** otra vez como Jake ✅. |
 | Letras | Títulos: **Chewy** o **Luckiest Guy** (redondas y gorditas, como el logo). Letra de Marceline a mano: **Rock Salt** o **Permanent Marker**. Pantalla de BMO: **VT323**. Todas con tildes, ñ, ¿ y ¡: **comprobado en el archivo**. |
-| Tono | Colores vivos, **línea fina y uniforme**, **brazos de fideo** sin codos, **ojos de punto**. Las escenas de Marceline son **de noche o en su cueva**: morados, rojos y velas. Divertido, pero con un fondo melancólico. |
+| Tono | Colores vivos y **planos**, **línea fina y uniforme**, **brazos de fideo** sin codos, **ojos de punto**. Las escenas de Marceline van de **su casa rosa por dentro** (`#F8AEC5`, medido) a la **noche** y a los **violetas del Reino de Cristal** (`#422D6B`, medido en «Obsidian»). Divertido, pero con un fondo melancólico. |
 
 ---
 
@@ -109,6 +135,12 @@ Todas salen de las transcripciones de
 [guiszk/adventuretime-transcripts](https://github.com/guiszk/adventuretime-transcripts).
 El texto entre comillas es **el inglés original**; la traducción es mía,
 salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
+
+**Segunda pasada: vistas en vídeo real.** Cuatro de estas escenas se
+miraron fotograma a fotograma con `fotogramas.py` en clips de Dailymotion
+(YouTube pedía iniciar sesión). Donde pone **«visto»**, el minuto es el
+**del clip**, no el del episodio, con su enlace `?t=`. Las escenas 2.2,
+2.5 y 2.8 no tienen clip real: siguen con el minuto estimado ⚠️.
 
 ### 2.1 Marceline graba una canción (2×01 «It Came from the Nightosphere», latino «Llegó de la Nocheósfera») ✅
 
@@ -123,8 +155,9 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
 - **≈0:25**: canta la **Canción de las papas** («Fry Song»). En latino se
   llama «**Canción de las Papas**» ✅
   ([Hora de Aventura Wiki](https://horadeaventura.fandom.com/es/wiki/Canci%C3%B3n_de_las_Papas));
-  un vídeo de la página latina de la serie en Facebook se titula
-  «Marceline: **Papi, te comiste mis papas**» ⚠️ (sólo vi el título).
+  en el disco oficial en español la pista 6 se llama «**Papi, te
+  comiste mis papas**» (1:43) ✅ (MusicBrainz + el vídeo de la página
+  latina de la serie en Facebook).
 - **≈2:15**: su padre, Hunson Abadeer, ve el bajo: «Whoa! **Is this the
   family ax?** Did you turn it into some kind of lute?» (¿es el hacha de
   la familia? ¿la convertiste en una especie de laúd?). Y se lo lleva.
@@ -133,8 +166,26 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
   para distraer al padre. El disco que grabaron al principio **salva el
   episodio**.
 
+**Visto en vídeo** ([«Marceline Sing-a-Long Fry Song»](https://www.dailymotion.com/video/x51arca),
+52 s, 1280×720; es el montaje «Toon Tunes» de Cartoon Network con la letra
+en pantalla, en inglés):
+- **0:00**: Finn hace beatbox de pie; **Marceline flota bocabajo tocando
+  el bajo-hacha**, en un cuarto de paredes **rosa** con sillones rojos y
+  puerta doble azul ✅ ([`?t=0`](https://www.dailymotion.com/video/x51arca?t=0)).
+- **0:12**: primer plano de **una grabadora amarilla** sobre la mesa, con
+  el cable enchufado: el objeto que graba la canción ✅
+  ([`?t=12`](https://www.dailymotion.com/video/x51arca?t=12)).
+- **0:28-0:36**: **primer plano de Marceline cantando triste**, ojos
+  entornados y boca abierta: «But you ate them, yeah, you ate my fries…
+  and I cried» ✅ ([`?t=28`](https://www.dailymotion.com/video/x51arca?t=28)).
+- **0:40-0:44**: Finn con **audífonos**, levanta la grabadora ✅
+  ([`?t=40`](https://www.dailymotion.com/video/x51arca?t=40)).
+- **0:48**: «Daddy, there were tears there», con la mirada baja ✅.
+- Ojo: el fondo del montaje puede ser un decorado simplificado para el
+  vídeo musical; coincide en color con la casa de Marceline (§5).
+
 > Para la lámina: esta es la escena del **estreno casero**. Un bajo, un
-> micro, un amigo haciendo ritmo y una grabadora.
+> micro, un amigo haciendo ritmo y una grabadora amarilla.
 
 ### 2.2 El álbum conceptual secreto (3×21 «Marceline's Closet») ✅
 
@@ -178,8 +229,28 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
 - **≈8:41**: Finn canta «My Best Friends in the World» y **reúne otra vez
   a la banda**.
 
+**Visto en vídeo** ([«I'm Just Your Problem», canal oficial de Cartoon
+Network en Dailymotion](https://www.dailymotion.com/video/x537pqr), 2:07,
+1280×720):
+- **0:00**: la Dulce Princesa sostiene **un aparato verde tipo Game Boy**
+  (control de sonido) junto a BMO ✅.
+- **0:04-0:08**: **Jake corre tocando la viola** ✅
+  ([`?t=4`](https://www.dailymotion.com/video/x537pqr?t=4)).
+- **0:12-0:24**: **Marceline entra volando con el bajo por delante**
+  (filos rojos) hacia la **puerta de piedra en arco con círculos dorados**
+  del Señor de las Puertas y toca sobre ella ✅
+  ([`?t=12`](https://www.dailymotion.com/video/x537pqr?t=12)).
+- **0:24-1:00**: lleva un **sombrero de ala ancha mostaza con cinta
+  azul** (medido: `#BBAB4C`, cinta `#4A7AA2`); primeros planos cantando,
+  ceño fruncido y **colmillos a la vista** ✅
+  ([`?t=52`](https://www.dailymotion.com/video/x537pqr?t=52)).
+- **1:32**: con el sombrero, **toca apoyada en la puerta** mientras cae
+  la tarde ✅ ([`?t=92`](https://www.dailymotion.com/video/x537pqr?t=92)).
+- La luz es de **tarde con cielo despejado**, no de cueva.
+
 > Para la lámina: la única escena con **los cinco tocando juntos**. Sirve
-> para un concepto de grupo.
+> para un concepto de grupo. Fotograma de la wiki: hoja 9, **#393**
+> («S3e10 Marceline singing», 1920×1080).
 
 ### 2.4 Canciones escritas en notas (4×25 «I Remember You», latino «Te recuerdo») ✅
 
@@ -195,10 +266,33 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
 - **≈8:49 a 10:29**: Marceline **canta leyendo las notas** que Simón le
   escribió hace mil años («Singing and reading note»). La letra de
   «**Remember You**» sale de esos papeles. En latino, «**Recordándote**»
-  ⚠️ (lo da la lista del disco en español, abajo).
+  ✅ (Doblaje Wiki + MusicBrainz: pista 4 del disco en español, 2:19).
+
+**Visto en vídeo** ([«Marceline & Ice King — I Remember You»](https://www.dailymotion.com/video/xzt1l7),
+1:58, 1280×720; grabación de la emisión de Cartoon Network HD **en
+francés**: vale para la imagen, no para frases):
+- **0:00-0:12**: el Rey Helado toca un teclado; Marceline entra por la
+  puerta de su casa (paredes rosa, suelo verde azulado) **con un papel en
+  la mano** ✅.
+- **0:18-0:30**: **primer plano de Marceline con una mano en la cabeza**,
+  cara de angustia ✅ ([`?t=18`](https://www.dailymotion.com/video/xzt1l7?t=18)).
+- **0:42-1:06**: el Rey Helado toca **una batería verde con un «#1» en el
+  bombo**; Marceline, sentada, **toca el bajo con cara seria** ✅
+  ([`?t=42`](https://www.dailymotion.com/video/xzt1l7?t=42)).
+- **1:18**: **una sola lágrima**, la cabeza hacia atrás, dientes
+  apretados ✅ ([`?t=78`](https://www.dailymotion.com/video/xzt1l7?t=78)).
+- **1:36**: primer plano de **una foto Polaroid** de Marceline niña.
+  **Corrección**: además de las notas de Simón, en la escena hay **una
+  foto** ✅ ([`?t=96`](https://www.dailymotion.com/video/xzt1l7?t=96)).
+- **1:42-1:54**: flashback: **Marceline niña con un osito rojo (Hambo)**
+  entre ruinas, se acerca a Simon ✅.
+- Fotogramas de la wiki: hoja 9, **#396** (tocan juntos), **#403**
+  (Marceline con el omnichord), **#404** (la lágrima) y **#408** (la nota
+  de Simón: «Marceline, is it just you & me in the wreckage of the
+  world?…»), todos 1920×1080.
 
 > Para la lámina: **la letra de una canción escrita en un papel viejo**.
-> Es la escena que más lloran los fans (ver §14).
+> Es la escena que más lloran los fans (ver §14 y §D).
 
 ### 2.5 El concierto en el cementerio (10×07 «Marcy & Hunson») ✅
 
@@ -214,7 +308,9 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
   (¡estoy orgulloso de mi hija punk!).
 
 > Para la lámina: **escenario, niebla y público de fantasmas**. Es el
-> «estreno en directo» de la serie.
+> «estreno en directo» de la serie. ⚠️ **Sin clip real**: se buscó en
+> Dailymotion por canción y por escena («Slow Dance With You Marceline
+> concert Hunson») y no salió nada; el minuto sigue estimado.
 
 ### 2.6 «Obsidian», el especial de Marceline y la Dulce Princesa (2020) ✅
 
@@ -239,6 +335,26 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
   dibujadas**.
 - Glassboy es **fan** de Marceline: tiene **una muñeca suya**. Simón le
   dice: «big Marcy fan, huh?».
+
+**Visto en el tráiler oficial** ([«Adventure Time Distant Lands Trailer —
+Obsidian»](https://www.dailymotion.com/video/x7xejon), 1:30, **1920×1080**,
+termina con el logo de HBO Max):
+- **0:16**: Marceline y la Princesa **en la cocina** (suelo turquesa,
+  armarios verdes), **cada una con una taza humeante** ✅
+  ([`?t=16`](https://www.dailymotion.com/video/x7xejon?t=16)).
+- **0:20**: Marceline, en camiseta gris, **toca el bajo sentada** mientras
+  la Princesa cocina detrás ✅ ([`?t=20`](https://www.dailymotion.com/video/x7xejon?t=20)).
+- **0:36**: **flota tocando el bajo** sobre un camino de piedra hacia el
+  Reino de Cristal, con **picos morados y una torre de cristal** al fondo ✅
+  ([`?t=36`](https://www.dailymotion.com/video/x7xejon?t=36)).
+- **0:44-1:00**: convertida en **monstruo alado de ojos rojos**, pelea;
+  luego vuelve a flotar tocando entre picos morados y turquesa ✅.
+- **1:08**: de pie, **bajo al hombro**, junto a la Princesa y dos figuras
+  de cristal, luz cálida de atardecer ✅ ([`?t=68`](https://www.dailymotion.com/video/x7xejon?t=68)).
+- **1:12**: las dos **en una motocicleta**, entrando en la ciudad de
+  cristal ✅.
+- **1:24**: primer plano de **Marceline asustada**, fondo oscuro
+  estrellado ✅ ([`?t=84`](https://www.dailymotion.com/video/x7xejon?t=84)).
 
 ### 2.7 El estreno con que termina la serie (10×13 «Come Along With Me», latino «¡Ven conmigo!») ✅
 
@@ -271,7 +387,25 @@ salvo donde digo que es del doblaje. **Minutos estimados** (ver arriba).
   bailar». En este episodio los filos del bajo aún son **plateados**.
 
 > Para la lámina: Marceline ya era **una artista con conciertos
-> anunciados** desde la temporada 1.
+> anunciados** desde la temporada 1. ⚠️ **Sin clip real** (buscado en
+> Dailymotion: «Henchman Marceline plays bass party»); minuto estimado.
+
+### 2.9 El opening y los créditos, vistos ✅
+
+- **Opening doblado al latino** ([Dailymotion, «'Hora de Aventuras'
+  intro», Espinof](https://www.dailymotion.com/video/x8p2dsj), 0:29,
+  **1920×1080**), 10 fotogramas: laguna helada con montañas, el castillo
+  del Dulce Reino con personajes, valle verde, la casa del árbol por
+  dentro con Finn, Jake y un perrito caliente gigante, Jake tocándose las
+  orejas, Finn y Jake corriendo por una cresta bajo nubes de tormenta, y
+  el logo «ADVENTURE TIME — Created by Pendleton Ward» ✅.
+- **Créditos finales en inglés** ([Dailymotion](https://www.dailymotion.com/video/x4fakxm),
+  0:33, 1280×720), 12 fotogramas: **fondo verde lima plano** con abejas y
+  mariposas animadas y los nombres reales del staff («Supervising
+  Director Larry Leichliter», «Lead Character & Prop Designer Phil
+  Rynda», «Character & Prop Designers Natasha Allegri, Tom Herpich»…);
+  cierran los logos de **Frederator Studios** y **Cartoon Network
+  Studios** ✅.
 
 ---
 
@@ -1158,6 +1292,54 @@ colores, piernas y brazos finitos.
 
 ---
 
+## A · Estilo de dibujo y técnica, y cómo replicarlo (punto 18)
+
+_(pendiente)_
+
+---
+
+## B · Texturas 2D (punto 19)
+
+_(pendiente)_
+
+---
+
+## C · Gustos y detalles de cada personaje (punto 20)
+
+_(pendiente)_
+
+---
+
+## D · Por qué la gente la ama (punto 21)
+
+_(pendiente)_
+
+---
+
+## E · Fan dubs y comunidad hispana (punto 22)
+
+_(pendiente)_
+
+---
+
+## F · Colaboraciones, figuras y cosplay (punto 23)
+
+_(pendiente)_
+
+---
+
+## G · Obras parecidas y temas relacionados (punto 24)
+
+_(pendiente)_
+
+---
+
+## H · El mundo, la historia y sus símbolos (punto 25)
+
+_(pendiente)_
+
+---
+
 ## 18 · Guía para generar con IA (Firefly, Canva)
 
 > La IA sólo para **fondos, poses de apoyo o bocetos**. El personaje
@@ -1353,6 +1535,12 @@ Los tres usan los textos de §0. Las frases «en la voz de la serie» son
 - **Colores**: todos los hex son aproximados.
 - **«El sicario»** = «Hitman» (3×04): deducción mía.
 - La **fuente de fans «Adventure Time Logo»**: no sé si trae tildes.
+
+---
+
+## Cumplimiento del encargo
+
+_(pendiente)_
 
 ---
 
