@@ -588,7 +588,7 @@ Ver §13. De sus cajas de diálogo **no encontré capturas** ⚠️.
   Hextech») ✅. ⚠️ de memoria: gesticula con las manos abiertas, se
   inclina sobre la mesa de trabajo, levanta las piezas para enseñarlas.
 - **Objetos**: el **martillo de Mercurio**, las gemas, sus planos.
-- **Voz**: Kevin Alejandro (inglés) ✅ ([Infobae](https://www.infobae.com/latinpower/gaming/2021/11/14/kevin-alejandro-actor-de-voz-de-arcane-cuando-le-dije-a-mi-hijo-que-iba-a-participar-me-dijo-emocionado-papa-sabes-lo-que-estas-haciendo/)); latino, ver §10 ⚠️.
+- **Voz**: Kevin Alejandro (inglés) ✅ ([Infobae](https://www.infobae.com/latinpower/gaming/2021/11/14/kevin-alejandro-actor-de-voz-de-arcane-cuando-le-dije-a-mi-hijo-que-iba-a-participar-me-dijo-emocionado-papa-sabes-lo-que-estas-haciendo/)); latino **Miguel de León** ✅ (Doblaje Wiki + reparto por capítulo de [Desde La Cuna](https://www.desdelacuna.net/series/arcane-league-of-legends-serie-netflix-doblaje-voces-actores-elenco-personajes-reparto/), §10).
 
 ### Viktor — de ayudante a «Heraldo»
 
@@ -633,7 +633,7 @@ Ver §13. De sus cajas de diálogo **no encontré capturas** ⚠️.
   propósito ✅ ([Netflix Tudum](https://www.netflix.com/tudum/features/arcane-season-two-behind-the-scenes)).
 - **Cómo se expresa** ⚠️ de memoria: seguro, callado, líder; aerotabla;
   bate con engranajes. Bufanda naranja (avatar R6 ✅).
-- **Voz**: Reed Shannon (inglés) ⚠️ de memoria; **José Antonio Toledano** (latino) ✅.
+- **Voz**: Reed Shannon (inglés; ya era Ekko en *Legends of Runeterra*, lo dice Doblaje Wiki) ✅; **José Antonio Toledano** (latino) ✅. Enmascarado, con filtro grave, lo dobla **Roberto Cuevas** (Doblaje Wiki).
 
 ### Silco — el villano que el fandom adora
 
