@@ -56,6 +56,11 @@ Cuenta: cuenta I34
   - Sin fotogramas de T2 ni T3 (muerte de Dimple, rueda de prensa, Reigen llorando) por YouTube; IDs de clips de Crunchyroll en §2.6 y §12.1. No se buscó en coreano, chino ni GitHub (⚠️).
   - El texto de #presentaciones está cortado en servidor/inventario.md. Medir el verde de Dimple antes de pintar A y C (no azul).
   - Siete correcciones a las partes en §28.1 (p. ej. «RAINBOW SEAL!!!» es de Reigen; la foto «live-action» es de la obra de teatro).
+- **44 Shigatsu** propone 3 láminas: A #canto (carta manuscrita de Kaori en el atril del piano de cola), B (alternativa) #demos-canto o sala 🎶 Karaoke. Concepto alternativo: programa de concierto en butaca; maletita rosa del violín bajo cerezos con Watari.
+  - ⚠️ **Avisos del redactor**: doblaje latino anunciado pero no estrenado (4 voces confirmadas, ninguna frase que citar).
+  - La figura de Kaori de kimiuso.jp (feb-2025) tiene una sola fuente y no hay foto de la pose: mirarla a mano en kimiuso.jp y MyFigureCollection.
+  - #demos-canto 2 ya usa teclado y Violet Evergarden (#poemas) ya usa cartas: el concepto 1 debe diferenciarse con piano de cola entero y carta pequeña; decidir el canal y si el concepto 2 lleva lámina 2.
+  - La pose de Watari «cantando» (PV2, 0:45) es dudosa: verla antes de usarla.
 
 ## Costos
 
