@@ -119,3 +119,81 @@ Cada personaje cambia de club varias veces; el hex sale de la imagen exacta cita
 - Paleta de la cancha/estadio (medida sobre `hyuga_gwaka` recortado, fondo de cancha verde con
   portería): verde césped #427156 y #63866E, verde oscuro de sombra #1C2D2D, blanco de red #C3C8C0 ·
   fuente imagen «GWAKA.jpg» de la wiki (fondo de entrenamiento) · ✅ (medido con estilo.py).
+
+## 19 · Texturas 2D (tramas, grano de papel, patrones) con licencia libre
+
+Complementa el punto 3 (3D) y el 4 (texturas reales) para que no falte capa al ilustrador.
+
+- Grano de papel de manga: assets `Paper001`, `Paper003`, `Paper005`, `Paper006` de AmbientCG ·
+  https://ambientcg.com/view?id=Paper001 (y 003/005/006) · CC0 (dominio público, sin atribución
+  necesaria) · descarga en PNG/JPG a 1K-8K · ✅ (confirmado por API `ambientcg.com/api/v2`) · sirve
+  para simular el papel del tomo de manga bajo la tinta.
+- Cuero de balón de fútbol: assets `Leather026`, `Leather030`, `Leather034C`, `Leather037`,
+  `Leather038` de AmbientCG · https://ambientcg.com/view?id=Leather037 (y variantes) · CC0 · PBR
+  completo (difuso, normal, rugosidad) · ✅ · sirve para el balón clásico blanco-negro con textura de
+  cuero repujado que aparece en primer plano en las portadas.
+- Césped de la cancha: assets `Grass001`, `Grass004`, `Grass005` de AmbientCG ·
+  https://ambientcg.com/view?id=Grass001 · CC0 · ✅ · complementa la paleta verde medida en el punto
+  16 con una textura real descargable, no sólo el color plano.
+- Tramas/screentone de manga (patrón de puntos para sombra, típico de Shueisha en los 80): «Free
+  Screen Tone Collection 1» de Manga with Stef, compatible con Krita/Procreate/CSP, distintas
+  densidades de punto para simular grises · https://manga-with-stef.com/free-screen-tone-collection-1
+  · ⚠️ (licencia de uso libre declarada por la autora en su web, pero no es CC0/dominio público —
+  revisar términos exactos antes de redistribuir) · una sola fuente.
+- Pack alternativo con licencia más clara: «Manga Screentone Pack 1» en CLIP STUDIO ASSETS (gratis,
+  requiere cuenta CSP pero sin coste) · https://assets.clip-studio.com/en-us/detail?id=2142037 · ⚠️
+  (gratis pero no es archivo descargable suelto, sólo se importa desde Clip Studio Paint) · anotado
+  como alternativa si Manga with Stef no sirve.
+- No encontré screentones bajo licencia CC0 estricta (dominio público) en AmbientCG ni OpenGameArt
+  (búsqueda «halftone» sin resultados en ambos) · sí hay muchas opciones gratis-con-condiciones de
+  atribución/uso personal, listadas arriba · ⚠️ dilo en «No encontré» además.
+- Patrón de kanji/emblema de club (referencia, no descargable libre): el kanji 南葛 (Nankatsu) bordado
+  en el pecho de la camiseta blanca es el patrón/logo más repetido de toda la serie · fuente hojas
+  01-03 y ficha `Nankatsu_SC_(CT)` de la wiki · ✅ (aparece en decenas de imágenes).
+
+## 23 · Colaboraciones y cruces
+
+- **eFootball × Captain Tsubasa** (Konami, dos volúmenes, hasta 20 feb 2025 la primera tanda): el
+  propio autor Yoichi Takahashi dibujó ilustraciones nuevas de Messi y Kubo con uniforme del
+  «Nankatsu Junior High School» de ficción; cartas cruzadas jugador real × personaje (Hikaru
+  Matsuyama × Joshua Kimmich, Ryo Ishizaki × Dayot Upamecano); modo Time Attack jugable con Tsubasa
+  Ozora y Taro Misaki · fuente konami.com/games/eu/en/topics/18358 y /18458 · ✅ (dos comunicados
+  oficiales de Konami, vol. 1 y vol. 2) · arte nuevo con ropa y poses inéditas, útil de referencia.
+- **Captain Tsubasa: Dream Team × ZOIDS** (KLab Inc., anunciado sept. 2026): colaboración limitada
+  «Dream Transfer» con versiones cruzadas de Tsubasa Ozora y Taro Misaki mezcladas con el diseño
+  mecha de Zoids (Takara Tomy) · fuente Anime News Network,
+  animenewsnetwork.com/press-release/2026-09-02/captain-tsubasa-dream-team-announces-collaboration-with-zoids
+  · ✅ (comunicado de prensa) · trae diseños alternativos raros (fútbol + mecha) que sirven de
+  referencia de crossover visual.
+- **Figuras oficiales** (referencia de pose y volumen 3D real): Banpresto «Vibration Stars — Ozora
+  Tsubasa», ~16 cm, PVC/ABS, pose de disparo · https://www.bigbadtoystore.com/product/variationdetails/256951
+  · ✅; Banpresto «Grandista — Tsubasa Ozora», 23,5 cm, PVC de alta calidad, pose de pie con balón ·
+  https://kurogami.com/en/product/ozora-tsubasa-figure-captain-tsubasa-grandista · ✅ (dos figuras
+  oficiales distintas de la misma línea Bandai Spirits, ambas con foto de producto en 360°) · sirven
+  de referencia 3D de pose y proporción corporal real del personaje.
+- No se encontró en la búsqueda un evento de café temático (`themed cafe`) específico de Captain
+  Tsubasa en curso en 2025-2026, a diferencia de otras franquicias de Shueisha · ⚠️ dilo en «No
+  encontré».
+- Cosplay bien hecho: no se profundizó por límite de tiempo de esta tanda (búsqueda pendiente en
+  Reddit/Instagram de materiales y volumen reales del uniforme Nankatsu) · ⚠️ dilo en «No encontré».
+
+## Lo mejor para la lámina
+
+- Pose icónica: Tsubasa a media chilena en el aire, uniforme blanco de Nankatsu con el «10» rojo, sobre el verde de cancha (#427156/#63866E) al atardecer.
+- Vestuario clave contrastado: blanco-azul de Nankatsu (Tsubasa) contra el naranja/negro del portero Genzo con gorra y guantes — el par visual más reconocible de la serie.
+- Textura real disponible: cuero de balón (AmbientCG Leather037) + grano de papel de manga (AmbientCG Paper006) para dar profundidad sin perder el línea-arte plano del 81.
+- Fondo alternativo: estadio con gradas llenas y focos de noche (Hamburgo/Barcelona) en vez de la cancha de barrio, para una lámina de «gloria internacional».
+- Detalle de colaboración para guiño moderno: la ilustración nueva de Takahashi para eFootball (uniforme «Nankatsu Junior High») es la referencia oficial más reciente y menos vista por el público latino.
+
+## No encontré
+
+- Wallpapers oficiales de alta resolución del estudio (David Production/TMS): búsqueda en captaintsubasa-movie.com y categoría «Wallpapers» de la wiki, sin resultados.
+- Screentones bajo licencia CC0/dominio público estricta: búsqueda «halftone» en ambientcg.com/api/v2 y opengameart.org/art-search-advanced, ambas sin resultados; sólo hay gratis-con-condiciones (Manga with Stef, Clip Studio Assets).
+- Café temático activo de Captain Tsubasa en 2025-2026: búsqueda web general, sin resultados (a diferencia de otras franquicias Shueisha).
+- Cosplay documentado con materiales/volumen reales del uniforme: no se llegó a buscar por límite de tiempo de la tanda anterior y de esta.
+- Página propia de la obra en Danbooru/Safebooru para fan art digital: confirmado por `recolectar.py` que no existe con ese nombre.
+
+## Bitácora
+
+- Tanda 1 (cortada por límite de uso): puntos 1, 3, 15 y la mayor parte del 16, con 3 hojas de contacto en `hojas/` (`personajes_01.jpg`, `personajes_02.jpg`, `personajes_03.jpg`, generadas con `investigar_serie.py`).
+- Tanda 2 (esta): cerrado el punto 16 (ya estaba completo, sólo se revisó), añadidos los puntos 19 (texturas 2D vía API de AmbientCG, CC0) y 23 (colaboraciones eFootball/Konami, Dream Team × Zoids, figuras oficiales Banpresto, vía WebSearch). Sin `Sigue:` porque los 6 puntos obligatorios quedan cubiertos.

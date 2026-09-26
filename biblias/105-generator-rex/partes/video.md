@@ -13,9 +13,21 @@ Mirado con `fotogramas.py` (hojas de contacto de verdad, no descripciones).
   Punk Busters corriendo (0:09) → Holiday y Rex de perfil (0:10-0:11) → Bobo hace girar un
   balón en el dedo junto a Noah y Rex (0:13-0:14) → Rex en hoverboard (0:15) →
   logo «GENERATOR REX, creado por Man of Action» (0:20) · https://www.dailymotion.com/video/xa14dbg (World Cartoon Videos, resube el opening real de Cartoon Network) · ✅ (coincide con la 2.ª hoja de créditos abajo y con el logo oficial de la wiki) · fotogramas cada 1 s, hoja en /tmp/claude-0/trabajo/105-generator-rex-video/opening_hd/hoja_01.jpg
+- Ficha oficial de la serie (premiere 23-abr-2010, final 3-ene-2013, 60
+  episodios, especial cruce «Ben 10/Generator Rex: Heroes United»
+  25-nov-2011, basada en el cómic «M. Rex» de Image Comics 1999) ·
+  https://en.wikipedia.org/wiki/Generator_Rex · ✅ (coincide con las fechas de
+  emisión que dan los créditos de Cartoon Network y con la ficha de la wiki
+  del fandom)
 - Créditos de cierre (0:16-0:52 del mismo clip combinado): «Music by KEVIN
   MANTHEI», «Main Title Music by ORANGE», «For Cartoon Network Studios»,
   ejecutivos Tramm Wigzell/Rob Swartz/Rob Sorcher · https://www.dailymotion.com/video/x1n1tr1&t=20 · ✅ (coincide con la wiki de doblaje/crew) · hoja en /tmp/claude-0/trabajo/105-generator-rex-video/introending/hoja_01.jpg
+- Ficha en doblaje latino de la serie: estudio **Sensaciones Sónicas**
+  (México), dirección de Rossy Aguirre (1.ª temp.) y Antonio Gálvez (2.ª
+  temp.), traducción de Arturo Cataño y Luis Leonardo Suárez, estreno en
+  Latinoamérica 29-ago-2010 · https://doblaje.fandom.com/es/wiki/Generador_Rex
+  (vía API `action=parse&prop=wikitext&page=Generador%20Rex`) · ✅ (coincide
+  con el número de episodios y fechas de https://en.wikipedia.org/wiki/Generator_Rex)
 - Tráiler oficial del videojuego «Generator Rex: Agent of Providence»
   (Activision, 2010-11, PS3/Xbox 360/Wii/DS): Rex 2D estilo serie → gameplay 3D
   cel-shaded, Rex golpea EVOs con Smack Hands en un patio con arcos → Bobo lee
@@ -56,14 +68,18 @@ Hex sacados con `estilo.py` sobre fotogramas propios (no de memoria).
 - Compositor de la banda sonora orquestal/incidental: **Kevin Manthei**
   (créditos «Music by KEVIN MANTHEI» en el propio episodio) ·
   https://www.dailymotion.com/video/x1n1tr1&t=20 y ficha de la wiki
-  `generatorrex.fandom.com/wiki/Kevin_Manthei` · ✅
+  https://generatorrex.fandom.com/wiki/Kevin_Manthei · ✅
 - Tema de apertura **«Revolution»**, interpretado por la banda pop-punk
   **Orange** (Los Ángeles, ex Hellcat/Epitaph): créditos «Main Title Music by
-  ORANGE» en el propio episodio, ficha `generatorrex.fandom.com/wiki/Orange`
+  ORANGE» en el propio episodio, ficha https://generatorrex.fandom.com/wiki/Orange
   (contactados por el productor John Fang cuando Cartoon Network buscaba un
-  tema pop-punk) y confirmado además en Wikipedia (`en.wikipedia.org/wiki/
-  Orange_(band)`) y en Bandcamp de la banda (`orangeband.bandcamp.com/track/
-  revolution`, del álbum «Phoenix», 2009) · ✅ (cuatro fuentes)
+  tema pop-punk), confirmado en Wikipedia
+  (https://en.wikipedia.org/wiki/Orange_(band)), en Bandcamp de la banda
+  (https://orangeband.bandcamp.com/track/revolution, del álbum «Phoenix»,
+  2009) y en TV Tropes, que cita la canción como epígrafe de la ficha de la
+  serie («— Theme song ("Revolution" by Orange)») ·
+  https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GeneratorRex · ✅
+  (cinco fuentes)
 - La canción «Revolution» tiene versiones publicadas después en streaming:
   «Lofi Version» y «Orchestral Version» en Apple Music/Spotify (con el
   subtítulo «Generator Rex Theme Song»), señal de que la banda sigue

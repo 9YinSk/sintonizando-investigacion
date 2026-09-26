@@ -27,6 +27,12 @@ fecha: 2026-09-24
 >   Arcane tiene 2 temporadas de 9 episodios, en 3 actos cada una.
 > - ✅ **confirmado**: dos fuentes. ⚠️ **dudoso**: una sola fuente, o lo
 >   describo de memoria. Lo de memoria siempre va marcado.
+> - **Segunda pasada (26-sep-2026), con la red abierta**: lo de arriba
+>   era la primera. Ahora sí corrió `investigar_serie.py` (hay 3 hojas en
+>   `hojas/`, §3.7), se miró la T1 en 1080p con `fotogramas.py` (minutos
+>   reales en §2, §8, §12 y §15), se cruzó el doblaje con Doblaje Wiki y
+>   otra fuente (§10) y se añadieron los puntos 18-25 (§18b). Lo que
+>   cambió está en «Segunda pasada · qué cambió», antes de la bitácora.
 
 ---
 
@@ -331,21 +337,26 @@ regeneran con el mismo comando. Los originales de cada número están en
 
 > Los modelos de Sketchfab son **fan art de algo que es de Riot**. La
 > licencia CC BY cubre el trabajo del modelador, no la marca. Para una
-> lámina sin fines comerciales vale, **con crédito**. La licencia la
-> sacó el buscador: **ábrela en la página antes de usar** ⚠️.
+> lámina sin fines comerciales vale, **con crédito**. **Segunda pasada**:
+> las licencias ya no son del buscador, están **comprobadas una a una por
+> la API de Sketchfab** y la de Poly Haven.
 
 | Objeto | Modelo | Autor | Licencia | Enlace |
 |---|---|---|---|---|
-| Guantelete Hextech (los «Atlas» de 1×04) | Orivers - Hextech Gauntlet - Arcane | Frayseur | CC BY ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/orivers-hextech-gauntlet-arcane-71ff4266065e475d817ca882922137f0) |
-| Martillo de Jayce | Orivers - Hextech hammer - Arcane | Frayseur | descarga libre ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/orivers-hextech-hammer-arcane-f04d59aed16347a6b7b074a0b044ea7a) |
-| Martillo de Jayce | Arcane Jayce Hammer | KarmaDiya | descarga libre ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/arcane-jayce-hammer-98746826bfdd47bbbf517b8fd6ccf60c) |
-| Martillo de Jayce | Jayce Hammer | GageCriscione | descarga libre ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/jayce-hammer-143c80c529424bfc8a00c75c2f0412fa) |
-| Granada «mascafuegos» de Jinx | Game Ready - Arcane - Jinx's Grenade | Allan-Jay Branscombe | CC BY ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/arcane-jinxs-grenade-82b0959b18524af2a6311586183bd8f7) |
-| Guantelete de Vi | Arcane Vi Gauntlet Fanart | potias | descarga libre ⚠️ | [Sketchfab](https://sketchfab.com/3d-models/arcane-vi-gauntlet-fanart-7dc0ebd2584741f3a2eabc1929bdca8d) |
+| Guantelete Hextech (los «Atlas» de 1×04) | Orivers - Hextech Gauntlet - Arcane | Frayseur | **CC BY** ✅ (API) | [Sketchfab](https://sketchfab.com/3d-models/orivers-hextech-gauntlet-arcane-71ff4266065e475d817ca882922137f0) |
+| Martillo de Jayce | Orivers - Hextech hammer - Arcane | Frayseur | **CC BY** ✅ (API) | [Sketchfab](https://sketchfab.com/3d-models/orivers-hextech-hammer-arcane-f04d59aed16347a6b7b074a0b044ea7a) |
+| Martillo de Jayce | Arcane Jayce Hammer | KarmaDiya | **CC BY** ✅ (API) | [Sketchfab](https://sketchfab.com/3d-models/arcane-jayce-hammer-98746826bfdd47bbbf517b8fd6ccf60c) |
+| Martillo de Jayce | Jayce Hammer | GageCriscione | descarga libre ⚠️ (no se volvió a comprobar) | [Sketchfab](https://sketchfab.com/3d-models/jayce-hammer-143c80c529424bfc8a00c75c2f0412fa) |
+| Granada «mascafuegos» de Jinx | Game Ready - Arcane - Jinx's Grenade | **AllanJayBranscombe** (así, es el usuario) | **CC BY** ✅ (API) | [Sketchfab](https://sketchfab.com/3d-models/arcane-jinxs-grenade-82b0959b18524af2a6311586183bd8f7) |
+| Granada de Jinx (otra) | Jin'x Grenade GAME READY | pipaboba530 | **CC BY** ✅ (API) | [Sketchfab](https://sketchfab.com/3d-models/none-3db9ceaa9516460f9e53d59c7ced90f2) |
+| Guantelete de Vi | Arcane Vi Gauntlet Fanart | potias | **CC BY-NC-ND** ✅ (API): sólo mirar, no modificar | [Sketchfab](https://sketchfab.com/3d-models/arcane-vi-gauntlet-fanart-7dc0ebd2584741f3a2eabc1929bdca8d) |
+| Guantelete de Vi | Vi Arcane Gauntlet | karmadiya | **CC BY** ✅ (API) | [Sketchfab](https://sketchfab.com/3d-models/none-16863169437d4050b307b9be759fe08a) |
+| Guantelete de Vi (del juego) | Vi Gauntlet - League of Legends | Gustavo_Ribeiro | **CC BY** ✅ (API) | [Sketchfab](https://sketchfab.com/3d-models/none-46092034259442ec91346f202fb2393e) |
+| Vi en chibi (proporciones) | Chibi Vi – Arcane 3D Print Ready | sergei_8888 | **CC BY** ✅ (API) | [Sketchfab](https://sketchfab.com/3d-models/none-936a0976aab94e9ca9a7148aa1f11cf5) |
 | Colección con cajas de cristales Hextech | «arcane» | shipyarn | varias ⚠️ | [Sketchfab](https://sketchfab.com/shipyarn/collections/arcane-3c0d007fa9364aa0a52dbd4778f3b300) |
 | Todo lo etiquetado «hextech» | — | — | varias | [Sketchfab](https://sketchfab.com/tags/hextech) |
-| **Botes de espray** (con gotas y etiquetas) | Spray Paint Bottles | Poly Haven | **CC0** ✅ | [Poly Haven](https://polyhaven.com/a/spray_paint_bottles) |
-| **Ladrillo pintado y desconchado** (azul) | Painted Brick | Poly Haven | **CC0** ✅ | [Poly Haven](https://polyhaven.com/a/painted_brick) |
+| **Botes de espray** (con gotas y etiquetas) | Spray Paint Bottles | **James Ray Cock** (Poly Haven) | **CC0** ✅ (API) | [Poly Haven](https://polyhaven.com/a/spray_paint_bottles) |
+| **Ladrillo pintado y desconchado** (azul) | Painted Brick | **Amal Kumar** (Poly Haven) | **CC0** ✅ (API) | [Poly Haven](https://polyhaven.com/a/painted_brick) |
 
 Personajes en 3D (sólo para **mirar poses**, nunca pegar):
 [Arcane - Jinx, Craft Tama](https://sketchfab.com/3d-models/arcane-jinx-b74f25a5ee6e43efbe9766b9fbebc705) ·
@@ -417,15 +428,46 @@ Muestreo de JPG, margen ±10 por canal.
 | Rojo de Vi | `#9C3C3C` · `#CC3C54` | `Vi_29` | Chaqueta de Vi |
 | Lila de Viktor (T2) | `#CC84FC` · `#E484FC` | `Viktor_24` | Viktor final ⚠️ |
 | Negro de Zaun | `#202026` · `#141416` | `Jinx_37`, `Vi_48` | Sombras (nunca `#000`) |
+| **Oro de los escudos** (sin luz de escena) | `#C7A965` | `Piltover_Crest.png` y `Zaun_Crest.png` (§3.3) | Sello grabado, emblema ✅ |
+
+### 5.2b La luz de verdad, medida en fotogramas (segunda pasada)
+
+Color **medio** de fotogramas propios del episodio (Pillow,
+`ImageStat.mean`), no un píxel suelto. Da el tono ambiente real, que es
+más sucio y más oscuro que el de las splash arts.
+
+| Escena | Color medio | Qué dice | Estado |
+|---|---|---|---|
+| Discurso del Día del Progreso, **1×04 24:30** | `#6B5B67` | Luz de escenario, magenta apagado: **no es oro puro** | ✅ medido |
+| La gema en la mano de Jayce, **1×04 12:12** | `#D7F0F8` | El foco Hextech es **casi blanco**; el azul `#3C6CB4` es el halo ya atenuado | ✅ medido |
+| Calle de Zaun, **1×04 6:45** | `#58615E` | La niebla verde de Zaun es **más gris** que en la splash | ✅ medido |
+| Explosión y cara pálida, **1×03 19:55** | `#19314D` | Azul eléctrico: luz fría dentro de Zaun | ✅ medido |
+| Jinx ante su aparato, **1×05 11:00** | `#213369` | Azul violeta: el color del trauma de Jinx | ✅ medido |
+| Caja fuerte de los túneles, **1×05 18:00** | `#9C6751` | Cobre cálido de antorcha: el único acento cálido de Zaun | ✅ medido |
+| Pasillo con cortinas, **1×06 21:50** | `#191117` | Casi negro con tinte granate: Zaun también es oscuridad | ✅ medido |
+| Núcleo hex en el laboratorio, **1×06 27:00** | `#1D2632` | Azul pizarra: el núcleo brilla pero no quema el plano, al revés que la gema | ✅ medido |
+
+**Para la lámina**: la mesa de Hextech va con la luz de 1×04 12:12 (centro
+casi blanco, el resto en sombra). La pared de Jinx, con el verde sucio
+`#58615E`, no con un verde saturado. Fuente de los fotogramas: T1 en 1080p
+de [Internet Archive](https://archive.org/details/arcane-season-1-60fps).
 
 ### 5.3 Texturas reales equivalentes
 
+Licencias comprobadas por la API de Poly Haven y la de
+[ambientCG](https://ambientcg.com/) (segunda pasada).
+
 | Para | Textura | Licencia |
 |---|---|---|
-| Pared de Zaun | [Painted Brick](https://polyhaven.com/a/painted_brick), Poly Haven: ladrillo con pintura azul desconchada | CC0 ✅ |
-| Botes de espray en el suelo | [Spray Paint Bottles](https://polyhaven.com/a/spray_paint_bottles), Poly Haven | CC0 ✅ |
-| Papel de los planos | Papel kraft o de calco envejecido: el color objetivo es `#B39A84` | Buscar en ambientCG / Poly Haven ⚠️ |
-| Latón de Piltóver | Metal cepillado con pátina | Buscar en Poly Haven ⚠️ |
+| Pared de Zaun | [Painted Brick](https://polyhaven.com/a/painted_brick), Poly Haven (Amal Kumar): ladrillo con pintura azul desconchada | CC0 ✅ |
+| Botes de espray en el suelo | [Spray Paint Bottles](https://polyhaven.com/a/spray_paint_bottles), Poly Haven (James Ray Cock) | CC0 ✅ |
+| Papel de los planos | [Paper006](https://ambientcg.com/a/Paper006), ambientCG: papel beige-marrón con normal y rugosidad; su color base se acerca al `#B39A84` de R1 | CC0 ✅ |
+| Tuberías y máquinas de Zaun | [Metal063](https://ambientcg.com/a/Metal063) (metal oscuro envejecido) | CC0 ✅ |
+| Óxido de Zaun | [Metal041B](https://ambientcg.com/a/Metal041B) · pasarela [MetalWalkway014](https://ambientcg.com/a/MetalWalkway014) | CC0 ✅ |
+| Suelo o mesa del laboratorio | [DiamondPlate009](https://ambientcg.com/a/DiamondPlate009), chapa estriada | CC0 ✅ |
+| Latón de Piltóver | [Metal049A](https://ambientcg.com/a/Metal049A): metal plateado limpio. ambientCG no tiene latón: teñirlo hacia `#C7A965` | CC0 ✅; que sirva de latón ⚠️ |
+| Guantes de Jayce, chaqueta de Caitlyn T1 | [Leather037](https://ambientcg.com/a/Leather037), cuero marrón | CC0 ✅ |
+| Chaleco a cuadros de Piltóver | [Fabric060](https://ambientcg.com/a/Fabric060) · [Fabric054](https://ambientcg.com/a/Fabric054) | CC0 ✅ |
 
 ---
 
@@ -436,10 +478,12 @@ Muestreo de JPG, margen ±10 por canal.
 | Dónde | Qué es | Estado |
 |---|---|---|
 | **Logo «ARCANE»** | Rotulado **hecho a mano, a medida**: no existe como fuente | ✅ ([Made Good Designs](https://madegooddesigns.com/arcane-font/), [Font In Logo](https://www.fontinlogo.com/famous-fonts/arcane-font)) |
-| Imitación de fans del logo | **Arcane Nine**, de Chequered Ink | ✅ existe ([dafont](https://www.dafont.com/arcane-nine.font)); licencia y tildes ⚠️ (dafont no abría) |
-| Imitación de fans de los rótulos de la serie | **Piltover x Zaun Regular**, de arcanafoundry | ✅ existe ([DeviantArt](https://www.deviantart.com/arcanafoundry/art/Piltover-x-Zaun-Regular-Arcane-font-1129768780)); licencia ⚠️ |
-| Letras de *League of Legends* (el juego) | Beaufort (títulos) y Spiegel (texto), de Riot | ⚠️ de memoria; **no son libres** |
-| Runas Hextech | Glifos inventados, sin fuente oficial (ver el mapa R1) | ✅ se ven en R1; «fuente» ⚠️ |
+| Imitación de fans del logo | **Arcane Nine**, de Chequered Ink | ✅ **«100% Free»** en [dafont](https://www.dafont.com/arcane-nine.font); el `.otf` real, comprobado con fontTools, trae **á é í ó ú Á É Í Ó Ú ñ Ñ ¿ ¡ ü Ü** (segunda pasada) |
+| Imitación de fans de los rótulos de la serie | **Piltover x Zaun Regular**, de arcanafoundry | ✅ existe, pero **es de pago** (la ficha manda a Shoptly): **no usar como letra libre** ([DeviantArt](https://www.deviantart.com/arcanafoundry/art/Piltover-x-Zaun-Regular-Arcane-font-1129768780)) |
+| Letras de *League of Legends* (el juego) | **Beaufort for LoL** (títulos; variante de la Beaufort de Nick Shinn, adaptada por Monotype) y **Spiegel Sans** (texto; de Lucas de Groot). De pago y exclusivas de Riot | ✅ ([Fonts In Use](https://fontsinuse.com/uses/26935/league-of-legends-game-and-website)) |
+| Cartelas de episodio y créditos | Serif refinada o display elegante, **rotulada a medida**, sin nombre publicado | ⚠️ una fuente ([Made Good Designs](https://madegooddesigns.com/arcane-font/)). Se descartó un «Sharp Sans ExtraBold» que sólo salía en un resumen automático del buscador, no en la página |
+| Subtítulos de Netflix | Letra de la plataforma (Netflix Sans), no de Arcane | ⚠️ visto en créditos; no comprobado con fontTools |
+| Runas Hextech | Glifos inventados, sin fuente oficial ni de fans (ver el mapa R1) | ✅ se ven en R1; buscada en inglés y coreano, **no hay fuente** ⚠️ |
 
 ### 6.2 Letras libres comprobadas por mí
 
@@ -463,6 +507,21 @@ con fontTools: todas traen **á é í ó ú ñ Ñ ¿ ¡ ü** ✅.
 | Expediente de Caitlyn | Special Elite | Apache | Máquina de escribir |
 | ⚠️ Evitar | Limelight | OFL | Su **¿** se parece a **¡** en mi prueba |
 | ⚠️ Evitar | Poiret One | OFL | El **¿** queda descolgado |
+| **Interfaz de juego** (sustituto de Spiegel) | **Barlow** | OFL | Sans humanista; tildes, ñ, ¿ y ¡ comprobados con fontTools (segunda pasada) ✅ |
+| Cartelas de acto, créditos largos | **Cardo** | OFL | Serif de libro antiguo; tildes comprobadas ✅ |
+| Subtítulo elegante | **Almendra Display** | OFL | Display fino con floritas; tildes comprobadas ✅ |
+| Texto corrido, créditos | **EB Garamond** | OFL | Serif clásica; tildes comprobadas ✅ |
+| Logo imitado (sólo el título) | **Arcane Nine** | «100% Free» (dafont) | Tildes, ñ, ¿ y ¡ comprobados ✅; es imitación de fans |
+
+**Una letra por uso** (lo que pide el encargo): logo o título **Arcane
+Nine** o Cinzel · «globo» normal (la frase de un personaje) **Permanent
+Marker** si la dice Jinx, **Architects Daughter** si va en un plano ·
+grito **Sedgwick Ave Display** · pensamiento **Rock Salt** · onomatopeya
+**Rubik Wet Paint** · cartel del mundo **Cinzel** (Piltóver) o **Sedgwick
+Ave Display** (Zaun) · interfaz de juego **Cinzel** (títulos, como
+Beaufort) y **Barlow** (texto, como Spiegel) · subtítulos o créditos
+**Cardo** o **EB Garamond**. Cinzel como sustituto libre de Beaufort lo
+recomienda también [DesignYourWay](https://www.designyourway.net/blog/league-of-legends-font/) ✅.
 
 ---
 
@@ -481,6 +540,9 @@ texto **sí aparece sobre objetos del mundo**:
 | **Planos Hextech** | Papel sepia, lápiz, **círculos de runas**, escritura inventada (R1). El libro de arte trae «un plano del mundo» | ✅ |
 | **Mural de los Firelights** | 1×07, retratos pintados de los muertos, uno a medio pintar | ✅ |
 | **Pintura azul de los Jinxers** | 2×04: pelo azul, caras pintadas en las paredes | ✅ |
+| **Cartelas de acto** | Cada temporada va en 3 actos; la cartela es texto sobrio en mayúsculas sobre el arte | ✅ que existen; la letra ⚠️ (§6.1) |
+| **Interfaz Hextech** (el núcleo hex, el laboratorio) | Proyecciones azules de líneas finas y texto pequeño tipo HUD; **1×06 27:00** el núcleo flota al fondo del laboratorio ([archivo 1×06](https://archive.org/details/arcane-season-1-60fps)) | ✅ el núcleo visto; el hex del HUD sin medir ⚠️ |
+| **Créditos finales** | **1×03 42:40-44:00** y **1×06 40:10-41:40**: rótulo de Riot Games y Fortiche, reparto en letra limpia | ✅ vistos en fotograma |
 
 ### 7.2 Cómo habla cada uno
 
@@ -512,7 +574,19 @@ texto **sí aparece sobre objetos del mundo**:
 
 ### 7.4 En los videojuegos de la franquicia
 
-Ver §13. De sus cajas de diálogo **no encontré capturas** ⚠️.
+Ver §13. Segunda pasada:
+- **Legends of Runeterra: Path of Champions** cuenta la historia de Jinx y
+  Vi con «**cómics animados con voces**» ✅
+  ([Destructoid](https://www.destructoid.com/legends-of-runeterra-path-of-champions-single-player-story-jinx-vi-jayce/)).
+  La caja de texto en sí **sigue sin captura**: su tráiler está en YouTube,
+  que pidió sesión, y no está en Dailymotion ni en Internet Archive ⚠️.
+- **2XKO** (lucha, con Jinx, Vi, Ekko y Caitlyn): su wiki transcribe las
+  frases por momento (selección, intro, burlas, combate, *supers*,
+  *outro*), sin captura del subtítulo ⚠️
+  ([2XKO Wiki: Jinx/Audio](https://wiki.play2xko.com/en-us/Jinx/Audio)).
+- Los **cómics de Runeterra** de Riot sí usan **globo clásico de contorno
+  negro**, pero no hay uno centrado en los personajes de Arcane ⚠️
+  ([LoL Wiki: Universe:Arcane](https://wiki.leagueoflegends.com/en-us/Universe:Arcane)).
 
 ### 7.5 Qué NO hacer con el texto
 

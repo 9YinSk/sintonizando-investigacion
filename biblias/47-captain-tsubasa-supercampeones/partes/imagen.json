@@ -115,5 +115,68 @@
   "que_es": "Uniforme de Meiwa FC de Kojiro Hyuga (kanji 明和 en el pecho)",
   "para_que": "vestuario con hex medido, uniforme icónico de la infancia (punto 15)",
   "licencia": "uso editorial de wiki de fans, sin licencia libre; sólo referencia"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Paper006",
+  "fuente": "AmbientCG (api.ambientcg.com/v2)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de grano de papel (Paper006), foto real PBR",
+  "para_que": "capa de grano de papel de manga bajo la tinta (punto 19)",
+  "licencia": "CC0 (dominio público)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Leather037",
+  "fuente": "AmbientCG (api.ambientcg.com/v2)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de cuero (Leather037), foto real PBR",
+  "para_que": "cuero repujado del balón de fútbol clásico (punto 19)",
+  "licencia": "CC0 (dominio público)"
+ },
+ {
+  "url": "https://ambientcg.com/view?id=Grass001",
+  "fuente": "AmbientCG (api.ambientcg.com/v2)",
+  "ancho": 2048,
+  "alto": 2048,
+  "que_es": "Textura de césped (Grass001), foto real PBR",
+  "para_que": "césped de cancha, complementa paleta verde medida (punto 19)",
+  "licencia": "CC0 (dominio público)"
+ },
+ {
+  "url": "https://manga-with-stef.com/free-screen-tone-collection-1",
+  "fuente": "Manga with Stef",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Colección de tramas/screentone de manga en varias densidades",
+  "para_que": "trama de sombreado estilo manga 80s (punto 19)",
+  "licencia": "gratis, uso libre declarado por la autora (no es CC0 confirmado; revisar términos)"
+ },
+ {
+  "url": "https://www.konami.com/games/eu/en/topics/18358/",
+  "fuente": "Konami (comunicado oficial)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Colaboración eFootball x Captain Tsubasa, vol. 1, con arte nuevo de Yoichi Takahashi",
+  "para_que": "arte oficial reciente con ropa/poses nuevas (punto 23)",
+  "licencia": "material promocional oficial de Konami/Shueisha, sólo referencia"
+ },
+ {
+  "url": "https://www.animenewsnetwork.com/press-release/2026-09-02/captain-tsubasa-dream-team-announces-collaboration-with-zoids/.241224",
+  "fuente": "Anime News Network",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Colaboración Captain Tsubasa: Dream Team x ZOIDS (KLab, sept. 2026)",
+  "para_que": "crossover con diseño alternativo de personajes (punto 23)",
+  "licencia": "comunicado de prensa, sólo referencia"
+ },
+ {
+  "url": "https://kurogami.com/en/product/ozora-tsubasa-figure-captain-tsubasa-grandista",
+  "fuente": "Kurogami (tienda, ficha de producto Banpresto)",
+  "ancho": 0,
+  "alto": 0,
+  "que_es": "Figura oficial Banpresto Grandista de Tsubasa Ozora, 23.5cm PVC",
+  "para_que": "referencia 3D real de pose y proporción corporal (punto 23)",
+  "licencia": "producto oficial licenciado, foto de producto sólo como referencia visual"
  }
 ]

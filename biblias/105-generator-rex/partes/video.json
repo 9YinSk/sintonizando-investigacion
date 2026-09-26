@@ -124,5 +124,32 @@
     "que_es": "Artículo sobre la banda pop-punk Orange",
     "para_que": "Tercera fuente de autoría del opening; punto 9",
     "licencia": "CC BY-SA (Wikipedia)"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Generator_Rex",
+    "fuente": "Wikipedia (inglés)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la serie: fechas de emisión (23-abr-2010 a 3-ene-2013), 60 episodios, especial cruce con Ben 10, origen en el cómic M. Rex",
+    "para_que": "Confirmar fechas y datos generales citados en puntos 2 y 9",
+    "licencia": "CC BY-SA (Wikipedia)"
+  },
+  {
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GeneratorRex",
+    "fuente": "TV Tropes",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de tropos de la serie, cita el tema «Revolution» de Orange como epígrafe",
+    "para_que": "Quinta fuente de autoría del opening; punto 9",
+    "licencia": "CC BY-SA (TV Tropes) — sólo referencia"
+  },
+  {
+    "url": "https://doblaje.fandom.com/es/wiki/Generador_Rex",
+    "fuente": "Doblaje Wiki (vía API es.api.php)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de doblaje latino: estudio Sensaciones Sónicas, directores Rossy Aguirre y Antonio Gálvez, estreno 29-ago-2010",
+    "para_que": "Contexto de doblaje latino de los créditos vistos en vídeo; punto 9",
+    "licencia": "CC BY-SA (Fandom) — sólo referencia"
   }
 ]

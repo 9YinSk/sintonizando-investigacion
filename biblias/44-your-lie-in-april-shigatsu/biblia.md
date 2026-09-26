@@ -670,3 +670,81 @@ Sin doblaje oficial, la comunidad hispana ya se adelantó. Vistas medidas con `y
 - En TikTok sólo aparece la categoría «Your Lie in April Doblaje Español», sin vídeos medibles. ⚠️
 - **Dato para el servidor:** el cover de Luxe KO pasa el millón. La comunidad hispana se quedó con el opening antes que con el doblaje. Es ideal para #canto.
 
+
+## 23 · Colaboraciones, figuras y cosplay
+
+Es una serie cerrada en 2015, sin juego ni gacha. Casi no hay cruces con marcas.
+
+**Colaboraciones:**
+- **Goose house** hizo el ED «Hikaru Nara» con arte propio de Kaori. Es la colaboración más conocida ([arte en la wiki](https://static.wikia.nocookie.net/shigatsu-wa-kimi-no-uso/images/8/85/Miyazono.Kaori.full.1800153.jpg)). ✅
+- Marcas, Fortnite, gachas, cafés temáticos: **no hay nada confirmado**. Se buscó en inglés y japonés («コラボ», «カフェ») y en la wiki. ⚠️ comprobado que no aparece.
+- **Otras versiones oficiales** (sirven como «cruce» de arte y ropa nueva): película *live-action* de 2016 con Kento Yamazaki y Suzu Hirose, y un **musical** con canciones de Frank Wildhorn (Japón 2020; luego Londres y Corea) ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/YourLieInApril)). ✅
+
+**Figuras oficiales:**
+- El [sitio oficial japonés](https://www.kimiuso.jp/) sigue vivo y anunció una **figura de Kaori** en febrero de 2025 (visto en la página por la parte de vídeo). ⚠️ una fuente, sin marca ni foto de la pose.
+- Good Smile, Kotobukiya y Banpresto: no se pudo confirmar ninguna. [MyFigureCollection](https://myfigurecollection.net/) bloqueó la consulta. ⚠️
+- **Qué hacer:** si hace falta pose 3D, abrir a mano la noticia de kimiuso.jp y MyFigureCollection.
+
+**Cosplay bien hecho** (fotos con licencia libre de [Openverse](https://openverse.org/) y Flickr):
+
+| Evento | Qué se ve | Licencia | Enlace |
+|---|---|---|---|
+| Sakura-Con 2016 | Kaori con violín y cárdigan | CC BY-NC-SA 2.0 | [foto](https://live.staticflickr.com/1471/26020166541_970134c2d9_b.jpg) |
+| AMG 2015 | Grupo de la serie | CC BY 2.0 | [foto](https://live.staticflickr.com/615/21352086818_0f268d44fc_b.jpg) |
+| ACMY 2015 | Kaori de cuerpo entero | CC BY 2.0 | [foto](https://live.staticflickr.com/8755/17062071412_bfa90e5fb7_b.jpg) |
+| ACMY 2015 | Otra Kaori, vertical | CC BY 2.0 | [foto](https://live.staticflickr.com/8795/17122785730_1f59de6bec_b.jpg) |
+| Kuantan CosWalk 2016 | Cosplay vertical | CC BY 2.0 | [foto](https://live.staticflickr.com/1606/25179898674_0466ef48d7_b.jpg) |
+| AMG 2015 | Pareja, dos tomas | CC BY 2.0 | [foto 1](https://live.staticflickr.com/5800/21527961892_27c0651cf8_b.jpg) · [foto 2](https://live.staticflickr.com/683/21351358908_728a7626a0_b.jpg) |
+
+- **Lo que enseña el cosplay:** el cárdigan es de punto grueso y cae ancho. El violín pesa y obliga a alzar el hombro. La maletita rosa es rígida. ✅ se repite en varias convenciones.
+- **Modelos 3D libres:** ninguno en [Sketchfab](https://sketchfab.com/) con licencia descargable. ⚠️ comprobado.
+
+## 24 · Obras parecidas
+
+**Del mismo tono (recomendadas por [AniList](https://anilist.co/anime/20665)):** ✅
+- *Kids on the Slope*: música y adolescencia. La más cercana en tema.
+- *A Silent Voice*, *I Want to Eat Your Pancreas*, *Anohana*, *Clannad: After Story*: drama escolar que hace llorar.
+- *Violet Evergarden*: cartas y duelo.
+- *March Comes in Like a Lion*, *Blue Period*: un talento que duele.
+- *Golden Time*, *Your Name.*
+
+**Del mismo autor, Naoshi Arakawa:** *Sayonara Football* y *Farewell, My Dear Cramer* (fútbol femenino). Él dice que cambió a la música para no repetir deporte ([entrevista oficial](https://www.kimiuso.jp/special/05_05.html)). ✅
+
+**Guiños dentro de la serie** ([TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Manga/YourLieInApril)):
+- Ep. 1: Kaori toca con la melódica «A Morning of the Slag Ravine», de *El castillo en el cielo* (Ghibli). Dice: «a Pazu sí le funcionó». ✅
+- Kaori cita a **Snoopy y Charlie Brown** en los episodios 6, 7, 11 y 21. ✅
+- Eiichiro Oda (*One Piece*) dijo que envidiaba cómo «muestra la música en el dibujo». El manga se agotó tras esa entrevista ([TV Tropes, Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/YourLieInApril)). ✅
+
+**Láminas del servidor que se le parecen (para no repetir):**
+- **#demos-canto 2** ya usa un **teclado** (reglas del dueño). Si esta va a #canto, el piano no puede ser un teclado visto igual: mejor el piano de cola entero, o el violín.
+- **Violet Evergarden** (encargo 22, #poemas) también vive de **cartas**. La carta de Kaori debe verse distinta: papel de carta pequeño, pétalos, letra de chica de 14 años, no máquina de escribir.
+- **K-On!** (encargo 10, #general): banda escolar y música alegre. Esta es música clásica y melancolía; no mezclar el tono.
+- Bocchi (la caja que le gustó al dueño): mismo principio de objeto real, otro objeto.
+
+## 25 · Mundo, historia y símbolos
+
+**Las reglas del mundo en cinco líneas:**
+1. Japón de hoy, barrio de Nerima (Tokio), fondos de sitios reales. ⚠️ una fuente.
+2. No hay magia. El «poder» es tocar y hacer sentir algo a quien escucha.
+3. Dos capas: **monótono** cuando Kousei no oye su música, **a todo color** cuando sí. Lo confirma el director ([entrevista](https://www.kimiuso.jp/special/05_01.html)). ✅
+4. Empieza y acaba en **abril**, con cerezos. De ahí el título.
+5. Los concursos de piano ordenan la trama, como torneos.
+
+**La historia por arcos:**
+- **1 · El reencuentro (ep. 1-6):** Kaori arrastra a Kousei a acompañarla al piano. Momento clave: el tejado del Ep. 3 (17:00-21:00), Kaori llora y él acepta ser su acompañante.
+- **2 · Los concursos (ep. 7-14):** [Maihou Competition](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Maihou_Competition) y [Eastern Japan Piano Competition](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Eastern_Japan_Piano_Competition), en Towa Hall. Rivales: Takeshi Aiza y Emi Igawa. ✅
+- **3 · La enfermedad (ep. 15-20):** Kaori está grave. Decide operarse para tocar una vez más con él. Tsubaki se confiesa (Ep. 20).
+- **4 · El final (ep. 21-22):** Kaori muere. La carta revela la mentira de abril. Kousei toca, ya en color.
+
+**Símbolos y vocabulario que un fan reconoce:**
+- **Piano-senpai:** el apodo del piano de Kousei; la wiki le dedica una página en broma ([Fandom](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Piano-senpai)). ✅ Listo para textos del canal.
+- **Towa Hall:** el «coliseo» de la serie. ✅
+- **La manzana acaramelada** (*ringo ame*), Ep. 12: un rato dulce entre los dos ([Fandom](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Candy_Apple)). ✅
+- **Los gatos:** el gato negro que acaricia Kaori muere atropellado justo antes que ella ([análisis de raianimeblog](https://raianimeblog.wordpress.com/2016/08/18/analysis-the-use-of-symbolism-and-metaphor-in-your-lie-in-april/) y TV Tropes). ✅ Lo de los ojos amarillos y azules es lectura de un fan. ⚠️
+- **El océano oscuro:** Kousei se hunde cuando no oye su piano. En el Ep. 12 la piscina lo resuelve: ve luz desde arriba. ✅
+- **Rojo y azul:** Kaori y Emi, rojas (pasión); Kousei y Takeshi, azules (constancia). Ep. 9 lo marca con color. ✅
+- **Bengalas que se apagan** (Ep. 12): anuncian su muerte. ✅
+- **かをり (Kawori):** la grafía rara de su nombre. ✅
+- **Étude Op. 25 n.º 5 de Chopin**, con ficha propia en la [wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Chopin%27s_Etude_Opus_25_No._5). ✅
+- **«El metrónomo humano»:** el apodo de Kousei de niño.
+- Objetos: carta, violín con maletita rosa, lentes negros, piano de cola, cerezos, melódica.
