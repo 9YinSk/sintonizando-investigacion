@@ -3,18 +3,29 @@ tags: [biblia, serie, laminas]
 serie: "Neon Genesis Evangelion"
 canal: "#demos"
 fecha: 2026-09-24
+repaso: 2026-09-26
 ---
 
 # Biblia · Neon Genesis Evangelion — para #demos
 
 > [!important] Cómo se hizo, y sus límites
-> - La red de esta sesión estaba cerrada. Fandom (y Doblaje Wiki), Wikipedia,
->   YouTube, Reddit, Wayback Machine, Google Sites, ANMTV y Xataka daban
->   **403 o «egress blocked»** por curl o por WebFetch. Por eso **no se pudo
->   correr** `herramientas/investigar_serie.py`: **no hay hojas de
->   contacto** ni carpeta `hojas/`. Todas las imágenes van como **enlace**.
-> - La fuente principal fueron las **búsquedas web** (la lista completa, con
->   su idioma, está al final, en la bitácora).
+> - **Segunda pasada, 26-sep-2026, con la red abierta.** Un equipo de
+>   cuatro investigadores (imagen, vídeo, voz, texto) y un redactor. Se
+>   pudo usar: la wiki de Fandom por su API (`investigar_serie.py`, 455
+>   imágenes, **3 hojas en `hojas/`**), Doblaje Wiki por su API y sus
+>   muestras de audio (`voz.py`), **Internet Archive** (episodios
+>   completos, opening, ending y el tráiler de GKIDS, mirados con
+>   `fotogramas.py`), la API de Sketchfab (licencias exactas), las de
+>   Wallhaven y ambientCG, EvaWiki, Know Your Meme y TV Tropes. Siguen
+>   cerrados: YouTube (pide sesión), Reddit (ni por Arctic Shift), The
+>   Cutting Room Floor y Wayback Machine (fallo de certificado y de túnel).
+>   Lo que cambió va justo debajo, en «Segunda pasada · qué cambió».
+> - **Primera pasada, 24-sep-2026, con la red cerrada**: Fandom (y Doblaje
+>   Wiki), Wikipedia, YouTube, Reddit, Wayback Machine, Google Sites, ANMTV
+>   y Xataka daban **403 o «egress blocked»**. Por eso entonces no hubo
+>   hojas de contacto y todas las imágenes iban como **enlace**.
+> - En la primera pasada la fuente principal fueron las **búsquedas web**
+>   (la lista completa, con su idioma, está al final, en la bitácora).
 > - GitHub sí respondía. De ahí saqué lo más útil de todo el trabajo:
 >   **los subtítulos japoneses de los 26 episodios y de The End of
 >   Evangelion, con sus tiempos**, del repositorio
@@ -35,6 +46,107 @@ fecha: 2026-09-24
 >   siempre va marcado. Lo que **se ve** en un fotograma (postura, luz) lo
 >   describo de memoria ⚠️ aunque el minuto esté comprobado: mira el
 >   fotograma antes de dibujar.
+> - **Segunda pasada**: lo que ya **se vio** en un fotograma lleva ✅ y un
+>   enlace al segundo exacto en Internet Archive (`?t=` en segundos). Ese
+>   minuto es el **del archivo**, que puede ir unos segundos desfasado del
+>   de Netflix; se dice en cada caso.
+
+---
+
+## Segunda pasada · qué cambió
+
+Fecha: 26-sep-2026. Se corrigió y completó la biblia en su sitio, sin
+rehacerla. Las fuentes de cada dato están en su sección.
+
+**Corregido (antes → ahora)**
+
+- **Voz latina de Gendo** (doblaje de 1999): «no pude sacar el nombre» →
+  **Humberto Solórzano** ✅ (Doblaje Wiki por su API y AniList).
+- **Voz latina de Ritsuko**: ⚠️ → **Maru Guerrero** ✅ (las mismas dos).
+- **Estudio de *Renewal of Evangelion***: «no lo encontré» → Grabaciones y
+  Doblajes Internacionales, dirección de Gerardo García, grabado en 2007 y
+  emitido en 2008 ⚠️ (sólo lo dice Doblaje Wiki).
+- **Pose «silueta de Rei», ep. 6, 15:32** → es **Shinji llorando** (visto
+  en los fotogramas vecinos). Se quita de las poses de Rei.
+- **«La ficha de Rei», ep. 5, 4:25** (era de memoria) → **no existe** ese
+  plano. Ese tramo es un resumen técnico de la Unidad 00. Lo que sí hay: la
+  placa «402 綾波» en la puerta de Rei (13:12) y sus gafas rotas (14:15).
+- **Vestuario**: hex «de memoria» → **medidos** en arte oficial con fondo
+  transparente: traje de Shinji `#036ED3`, pichi de Asuka `#022A51`, traje
+  de Rei `#E9EDF3`, chaqueta de Misato `#E02824`.
+- **Paleta de los sitios**: paletas de fans → **medidas en fotogramas
+  oficiales** con `estilo.py` (jaula de las Eva `#3D4D2E` `#536347`
+  `#88A27E`).
+- **Encuesta NHK 2020**: puestos 4 (Shinji) y 5 (Misato) con una fuente →
+  ✅ con Kimigaku.
+- **Memes «Get in the robot, Shinji» y «pose Gendo»**: ⚠️ → ✅ (Know Your
+  Meme).
+- **Chicago (monolitos de SEELE)**: «no lo comprobé» → ChiKareGo2 pasado
+  por fontTools: trae á é í ó ñ ¿ ¡; **le faltan ú y ü** minúsculas.
+- **Caras de Asuka (ep. 8), Misato (ep. 2) y Kaworu (ep. 24)**: minuto de
+  oído → **visto en fotograma** ✅. La de Asuka es el segundo 244 (4:04),
+  no el 246.
+
+**Añadido**
+
+- **Hojas de contacto**: 3 en `hojas/`, con qué número sirve para qué
+  (sección nueva «Las hojas de contacto», tras la 3).
+- **`referencias.json`**: 225 referencias, juntadas de las cuatro partes y
+  del recolector.
+- **12 modelos 3D** de Sketchfab con la licencia leída en su API, entre
+  ellos un **rig de Asuka** (CC BY) y una tablilla para la ficha de piloto.
+- **Fotogramas vistos de verdad** con su segundo: ep. 1, 2, 5, 6, 8, 24,
+  el opening, el ending y el tráiler oficial de GKIDS.
+- **Frases del doblaje latino textuales con minuto**, oídas en los
+  episodios doblados: «¿Por qué no pruebas sonreír, Rei?» (ep. 6, 21:34) y
+  «¡Yo te amo, Shinji!» (ep. 24, 9:37). Y seis muestras oficiales de
+  Doblaje Wiki transcritas y medidas con `voz.py`.
+- **Efectos de sonido** con el nombre exacto de su librería (la sirena de
+  NERV es de Hollywood Edge).
+- **Secciones nuevas de los puntos 18 a 25** del encargo: técnica y cómo
+  replicarla, texturas 2D, gustos de cada personaje, por qué la aman, fan
+  dubs, colaboraciones (McDonald's Japón, *The First Descendant*, Ichiban
+  Kuji del 30 aniversario), obras parecidas y el mundo con su glosario.
+- La tabla **«Cumplimiento del encargo»** y la bitácora de la segunda
+  pasada.
+
+**Los ⚠️**: había **108** antes de esta pasada. Los que quedan se cuentan
+al final de la tabla de cumplimiento. Siguen abiertos, sobre todo: las
+cajas de diálogo de los juegos (The Cutting Room Floor no abre), el
+bocadillo del manga visto en una página, fan dubs de voz en español
+(YouTube no abre), el piano de Kaworu y un fotograma propio de la pose
+Gendo.
+
+## Índice
+
+Ojo: los números de sección son los de la primera pasada, no los del
+encargo. La tabla «Cumplimiento del encargo» dice dónde está cada punto.
+
+- 0 · El canal y lo que tiene que decir
+- 1 · Resumen para quien tenga prisa
+- 2 · Las escenas que sirven para #demos (con minuto)
+- 3 · Arte oficial · y «Las hojas de contacto»
+- 4 · Fan art y 3D
+- 5 · Sitios, luz, paleta y texturas
+- 6 · Tipografía
+- 7 · Cómo hablan y piensan en pantalla (el cuadro de diálogo)
+- 8 · Los personajes
+- 9 · ¿Quién es el más querido?
+- 10 · Doblaje latino
+- 11 · Música y sonido
+- 12 · Vídeos
+- 13 · Videojuegos de la franquicia
+- 14 · Lo que ama el fandom, y qué NO hacer
+- 15 · Poses analizadas por personaje
+- 16 · Vestuario
+- 17 · Paisajes y fondos de pantalla
+- 18 · Guía para generar con IA (imagen y texto)
+- Puntos 18 a 25 del encargo: técnica · texturas 2D · gustos · por qué la
+  aman · fan dubs · colaboraciones · obras parecidas · el mundo
+- 19 · Tres conceptos para la lámina de #demos
+- 20 · Lo que no pude verificar
+- Cumplimiento del encargo
+- 21 · Bitácora de búsqueda (y la de la segunda pasada)
 
 ---
 
@@ -1121,6 +1233,103 @@ lo ceñido: son menores).
   y [nerv-ui](https://github.com/TheGreatGildo/nerv-ui).
 - **Estilo de cartela**: cualquier título de episodio (el del ep. 1 en
   00:01:33, tras el opening ⚠️).
+- **Segunda pasada, fotogramas ya vistos** (Internet Archive, con su
+  segundo): la jaula de las Eva ([ep. 1, 20:58](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2001%20Angel%20Attack%20%5B5F116C28%5D.mp4?t=1258))
+  para el verde de NERV; el apartamento a oscuras de Rei
+  ([ep. 6, 14:45](https://archive.org/download/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12/Neon%20Genesis%20Evangelion%20Episode%2006%20Rei%20II%20%5B6F5224E2%5D.mp4?t=885))
+  para una habitación vacía; la luna del ending
+  ([ending, 0:20](https://archive.org/details/neon-genesis-evangelion-episode-21-he-was-aware-that-he-was-still-a-child-dc-b-3-c-5-af-12))
+  para el azul noche. Hojas: `settei_figuras_03.jpg` nº 105-119 para la
+  línea de los diseños y `arte_oficial_01.jpg` nº 9-15 para el color.
+
+### 18.5 Cómo describir a cada personaje (sin nombrarlo)
+
+Rasgos que **nunca cambian**, con los hex **medidos** en arte oficial (§16)
+y las etiquetas de Danbooru que más se repiten al dibujarlos (es el
+vocabulario que entienden las IA de imagen; [Danbooru](https://danbooru.donmai.us/posts?tags=neon_genesis_evangelion),
+sacado en `partes/datos-imagen.md`).
+
+| Personaje | Cómo describirlo | Hex | Etiquetas que ayudan |
+|---|---|---|---|
+| Asuka | 14 años, pelo largo **rojo anaranjado** con dos pinzas rojas a los lados, ojos azules, barbilla alta | pelo `#A5360F`, pichi `#022A51`, blusa `#D5E0DA`, lazo `#A5190D` | two_side_up, interface_headset, red_bodysuit, tokyo-3_middle_school_uniform |
+| Shinji | 14 años, pelo **castaño corto**, ojos azules, camisa blanca de manga corta y pantalón negro, auriculares | pelo `#583535`, traje `#036ED3`, torso `#DCEFF3` | short_hair, white_shirt, black_pants, holding |
+| Rei | pelo **azul claro muy corto**, ojos rojos, piel pálida, **cara casi sin expresión** | pelo `#B0C4E4`, traje `#E9EDF3` | expressionless, parted_lips, white_bodysuit |
+| Misato | mujer adulta, pelo **largo morado oscuro**, chaqueta roja, vestido negro sin mangas, cruz al cuello, lata en la mano | chaqueta `#E02824`, vestido `#100B0D`, pelo `#1C1231` | red_jacket, cross_necklace, beer_can |
+| Gendo | hombre, barba, **gafas de cristal naranja** que no dejan ver los ojos, guantes blancos, uniforme oscuro | gafas `#E97151`, uniforme `#413C53` ⚠️ | gendou_pose, interlocked_fingers, opaque_glasses |
+| Kaworu | chico de pelo **gris claro**, ojos rojos, sonrisa tranquila, camisa blanca | pelo `#EAE4E7`, sombra `#8797C6`, pantalón `#3F3B54` | grey_hair, red_eyes, smile, school_uniform |
+
+- **Traje de conexión**: descríbelo como «sleek bodysuit with hard
+  shoulder and chest plates, neural clips in the hair». Nunca «armor» ni
+  «robot suit».
+- **Encuadre**: pide «static shot, low angle» o «extreme close-up on the
+  eyes». Los fotogramas vistos del ep. 1 (15:38 las gafas de Gendo, 18:33
+  el ojo de Shinji) son el modelo.
+
+### 18.6 Para una IA de texto: cómo escribir en su voz
+
+**Reglas generales** (de §7.2 y de los clips oídos en la segunda pasada):
+frases cortas; nada de onomatopeyas escritas en pantalla (la serie usa
+cartelas y subtítulos, no globos); las emociones fuertes van en **una
+línea sola**, no en párrafos.
+
+| Personaje | Puntuación y tics | Cómo exagera |
+|---|---|---|
+| Asuka | Signos de exclamación, preguntas retóricas, mete palabras en inglés y alemán | Insulta para no mostrar miedo: «¿Eres idiota?» |
+| Shinji | Puntos suspensivos, se disculpa sin motivo, se repite frases | Se habla a sí mismo: «No debo huir» tres veces |
+| Rei | Punto final, una o dos palabras, **nunca** exclamación | No exagera: el silencio es su énfasis |
+| Misato | Tutea, pregunta primero por radio, inglés macarrónico al celebrar | Celebra a lo grande, luego se hunde en serio |
+| Gendo | Imperativo seco, sin saludo | Nunca grita salvo al dar un ultimátum |
+| Kaworu | Frases largas y suaves, llama a la gente por su nombre | Habla de música y de «los Lilin» |
+
+**Frases reales, por emoción** (japonés del subtítulo con su minuto, o
+español del doblaje latino oído):
+
+- **Alegre**: Misato, «ハ〜イ ユーアー ナンバーワン！» (¡Eres el número uno!,
+  ep. 16) · Misato con la cerveza, ojos cerrados (ep. 2, 00:13:14) ·
+  Kaworu, «アッ ハハ» (ep. 24, 00:05:51) · Misato, «この次も サービス
+  サービス！» (ep. 1, 00:23:19).
+- **Enfadado**: Asuka, «あんたバカァ？» (¿Eres idiota?, ep. 8, 00:11:02) ·
+  Asuka, «何すんのよ！» (¿Qué haces?, ep. 8, 00:04:04) · Gendo, «乗るなら早く
+  しろ でなければ帰れ！» (Si vas a subir, hazlo ya. Si no, vete, ep. 1,
+  00:15:38) · Misato en latino: «¡Lo odio!» (muestra de Doblaje Wiki).
+- **Explicando**: Misato, el plan de la Operación Yashima (ep. 6,
+  00:09:20) · Rei, «絆だから» (Porque es un vínculo, ep. 6, 00:16:25) ·
+  Gendo, «説明を受けろ» (Que te lo expliquen) · Gendo en latino: «Todo está
+  en mi corazón, es suficiente con eso».
+- **Animando**: Rei, «あなたは死なないわ 私が守るもの» (No morirás. Yo te
+  protegeré, ep. 6, 00:15:32) · Ritsuko, «10日で8よ 大したものだわ» (ep. 12)
+  · Shinji en latino: **«¿Por qué no pruebas sonreír, Rei?»** (ep. 6,
+  00:21:34) · Shinji, «逃げちゃダメだ» (No debo huir, ep. 1).
+- **Triste**: Asuka en latino: «No valgo nada. Nadie me necesita» · «La
+  basura soy yo» · Rei en latino: «Estoy apenada. No tengo idea de lo que
+  debo hacer o sentir en un momento como este» (ep. 6, segundos antes de
+  00:21:34) · Shinji
+  en latino: «¡Díganme qué debo hacer!» · Ritsuko en latino: «Yo no era
+  nada, nada, nada».
+- **Tierno**: Kaworu en latino: **«¡Yo te amo, Shinji!»** (ep. 24,
+  00:09:37).
+
+⚠️ Cómo dice el doblaje latino «あんたバカ？» sigue sin comprobarse (§10).
+Si la IA lo necesita, que use «¿Eres idiota?» y lo marque como traducción.
+
+### 18.7 Vocabulario de gestos para la IA de imagen
+
+En los fotogramas vistos esta pasada (ep. 1, 2, 6, 8 y 24) **no sale ni un
+chibi, ni una gota de sudor de caricatura, ni fondos de emoción**. Las
+emociones se dibujan así:
+
+- **Miedo**: ojos muy abiertos, sudor real en la frente, boca tensa
+  (Shinji). Prompt: «wide eyes, cold sweat, tense mouth, extreme close-up».
+- **Rabia**: boca muy abierta gritando, cara roja (Asuka, ep. 8, 04:04).
+  Prompt: «shouting, flushed face, clenched fists».
+- **Alegría**: ojos cerrados en arco, sonrisa enorme (Misato, ep. 2).
+- **Ternura**: media sonrisa, luz de atardecer (Kaworu, ep. 24, 05:40).
+- **La sonrisa rara**: sonrisa pequeña, mirada de lado (Rei, ep. 6, 21:45).
+- **Frialdad**: gafas opacas que reflejan, manos juntas delante de la boca
+  (Gendo). Prompt: «opaque glasses reflecting light, hands clasped in front
+  of mouth».
+- **Palabras que lo estropean** (además de §18.3): «sweat drop», «anime
+  reaction face», «chibi», «speech bubble».
 
 ---
 
