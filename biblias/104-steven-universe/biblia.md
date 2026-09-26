@@ -999,7 +999,7 @@ Canal y título confirmados con la API oEmbed de YouTube (la página completa da
 | **Sardonyx** | Garnet + Perla | alta y esbelta, **sombrero de copa**, destellos, mazo; showman | `KYF` 1:10-2:34 |
 | **Sugilite** | Garnet + Amatista | enorme y bruta; en latino se dejó «Sugilite» | `COA` 1:15-1:30 |
 | **Alexandrite** | las tres Gemas de Cristal | se mueve como la Unidad-01 de *Evangelion* (punto 24) | ⚠️ sin escena mirada |
-| **Obsidian** | las cuatro y Steven | la fusión más grande del grupo | ⚠️ sin escena mirada |
+| **Obsidian** | las cuatro y Steven | ⚠️ sin escena mirada | — |
 | **Cuarzo Ahumado** | Steven + Amatista | voz latina: Mariangny Álvarez | hoja n.º 263 |
 | **Stevonnie** | Steven + Connie (el nombre lo dice) | ⚠️ sin ficha en las partes | hoja n.º 254 |
 
@@ -1044,3 +1044,118 @@ Canal y título confirmados con la API oEmbed de YouTube (la página completa da
 - **La película (2019):** **Spinel**, abandonada por Diamante Rosa hace 6000 años, ataca la Tierra.
 - ***Future* (2019-20):** epílogo sobre la **salud mental** de Steven, su trauma y la terapia.
 - ***Lars of the Stars*** (anunciada en 2025): la secuela, con Lars de pirata espacial (punto 10).
+
+## 3 conceptos de lámina
+
+Reglas del dueño que se aplican: un objeto real en un sitio real (hecho en Blender si se puede), pose y cara que vayan con lo que dicen, recortes por `v3/integrar.py`, textos cortos en la voz de la serie, sin «·», «—» ni paréntesis. **Tono: cálido y pastel**, con grano; sombras moradas, nada oscuro ni sangriento. **Letra de todo el texto: Crewniverse** (la única con tildes, ñ, ¿ y ¡). **Cómo hablan: la caja de diálogo de *Unleash the Light*** en el color de cada uno (punto 6). Ninguno repite los de la biblia 64 (cancionero, *Guía de las Gemas*, Puerta del Templo).
+
+### A · #🎨・arte — «El cuaderno de la estrella en el Big Donut» ⭐ recomendado (foco: colores pastel)
+
+- **Objeto y sitio:** un **cuaderno de renglones rosas** abierto, con la **estrella de cinco puntas** dibujada a lápiz de color y las cuatro Gemas de pie encima. Es el menú de equipo de *Unleash the Light* hecho objeto (punto 11). Pegadas al borde, **notas adhesivas amarillas** como los botones del mismo juego. Está sobre el **mostrador del Big Donut** (hoja n.º 181), con las vitrinas de rosquillas detrás y, por el escaparate, **la calle de Ciudad Playa al atardecer** (`OP` 0:12). En Blender: el cuaderno con las páginas curvadas y Paper002, las notas un poco levantadas, el edificio del [modelo CC BY de Kekê](https://sketchfab.com/3d-models/none-b44b20b741ce4dbba2339fec366cc3c9).
+- **Quién:** **Perla**, la más dibujada por los fans (415 en Danbooru) y la que organiza por gusto. De pie tras el mostrador, **mano abierta hacia el cuaderno** (hoja n.º 23), con la **sonrisa grande y los ojos brillantes** de `KYF` 0:28: está orgullosa del dibujo. **Amatista** asoma delante, cortada por el borde, con una rosquilla en la mano y la **carcajada** de `COA` 1:10. Es su dinámica real: Perla ordena, Amatista se ríe.
+- **Cómo habla:** caja de *Unleash the Light*. La de Perla, rellena de menta `#92EBDA`, borde turquesa `#66FDF0`, rabito hacia ella y el nombre «PERLA» arriba. La de Amatista, lila `#D4C7EE` con borde `#4F4B71`. ⚠️ Colores propuestos desde su ropa: el juego no mostró sus cajas.
+- **Dónde va cada texto:**
+  - Cabecera del cuaderno, como cartela: «arte».
+  - Caja de Perla: «Dibujo, ilustración, diseño y fanart.»
+  - Escrito a mano en los renglones: «Un hilo por pieza o por serie.»
+  - Nota adhesiva: «¿Aceptas encargos? Ponle la etiqueta.»
+  - Caja de Amatista: «¡Los bocetos también valen!»
+  - Todo sale del texto real del canal: «Dibujo, ilustración, diseño y fanart. Un hilo por pieza o por serie. Etiqueta si aceptas encargos.»
+- **Para que no quede plano:** luz de atardecer entrando por el escaparate (`#EABFCE`, `#F87D9B`), con la **sombra morada** `#653861` del marco cruzando el mostrador. **La rosquilla de Amatista, delante y desenfocada.** La tinta sigue la curva de las páginas. Las vitrinas, desenfocadas detrás. Grano de papel encima.
+- **Lámina 2:** las diez etiquetas como **notas adhesivas** en las puntas de la estrella: Dibujo, Digital, Fanart, Miniatura, Diseno, Edit o AMV, Boceto, Proceso, Terminado, Acepto encargos. ⚠️ En el servidor la etiqueta se escribe «Diseno», sin ñ: confirmar si es a propósito.
+
+### B · #🎯・reto-de-la-semana — «El sombrero de Sardonyx» (foco: fusiones)
+
+- **Objeto y sitio:** **el sombrero de copa de Sardonyx** (`KYF` 1:10), boca arriba sobre la arena de la **playa del Templo**, de día. De dentro salen **tres papeles doblados**: el reto de la semana. En Blender: el sombrero (cilindro y ala, fieltro), los papeles con la tinta siguiendo el pliegue, arena de playa.
+- **Quién:** **Sardonyx**, la fusión de Perla y Garnet que el fandom quiso «de la noche a la mañana» por teatral. Pose de **showman con el brazo extendido** (`KYF` 1:52) señalando el sombrero, sonrisa enorme. **Steven** a su lado, pequeño, mirando hacia arriba con el **puño listo para chocar** (`KYF` 2:06). La diferencia de tamaño cuenta lo que es una fusión.
+- **Cómo habla:** el título, como la **cartela de un capítulo**, en Crewniverse. Sardonyx, en una caja de *Unleash the Light* con **borde magenta** `#E03183`, el acento de color de las fusiones (punto 4). Steven, en **su caja real del juego**: celeste casi blanco, borde rosa, texto coral.
+- **Dónde va cada texto:**
+  - Cartela en el cielo: «reto de la semana».
+  - Caja de Sardonyx: «¡Damas y caballeros, el reto de la semana!»
+  - Los tres papeles: «Una línea.» «Una escena.» «Un tono.»
+  - Caja de Steven: «Se entrega dentro del hilo del reto.»
+  - Segunda caja de Sardonyx: «No se gana nada. ¡Esa es la gracia!»
+  - ⚠️ El texto del canal está cortado en el inventario («es para grabar…»): confirmar cómo termina antes de rotular.
+- **Para que no quede plano:** el **sombrero en primer plano**, grande y cerca de la cámara, con Sardonyx detrás en **plano heroico desde abajo** (como las fusiones, punto 14). Fondo claro de cielo y arena en la paleta de fusión de `COA` 1:36 (`#61C4F9`, `#BFEBFE`) y **un solo acento magenta** en los destellos que la rodean. Los destellos pasan por delante de ella.
+- **Lámina 2:** las ocho etiquetas como papeles que salen del sombrero: Reto activo, Cerrado, Doblaje, Canto, Locución, Para empezar, **Con trampa** (un papel con doble fondo, el truco del mago) y Libre.
+- ⚠️ Mirar `KYF` 1:10 para copiar el sombrero y los colores exactos de Sardonyx: no se midieron. ⚠️ La parte de vídeo no describe dónde ocurre la escena: la playa del Templo es propuesta del redactor.
+
+### C · #🎼・demos-canto — «La mano de la estatua» (foco: música)
+
+- **Objeto y sitio:** **la enorme mano de piedra de la estatua del Templo**, de noche, **como en los créditos de cada capítulo** (`END` 0:02). Los créditos de «Love Like You» son ya **una lista de voces que sube por el cielo**: aquí, la lista es tu ficha. En Blender: la mano de piedra con relieve, el cielo con nubes, la luna.
+- **Quién:** **Steven**, que cierra cada capítulo estirando la mano hacia la estatua y que en latino **canta el opening** (Leisha Medina, biblia 64). De pie sobre la palma de piedra, **guiñando y haciendo la V** (hoja n.º 42): saluda al que llega. Al pie de la estatua, pequeñas, **Garnet, Amatista y Perla** como en `OP` 0:02.
+- **Cómo habla:** el texto del canal **sube como los créditos** (`END` 0:02-0:10), en Crewniverse (Creditverse no trae tildes). Steven, en **su caja real de *Unleash the Light***: celeste casi blanco, borde rosa, texto coral.
+- **Dónde va cada texto:**
+  - Arriba, cartela: «demos-canto».
+  - Créditos que suben: «Tu ficha de canto.» «Aparte de la de doblaje.» «Un hilo con tu registro y tus covers.»
+  - Caja de Steven: «¡Tu voz también sale en los créditos!»
+  - Todo sale del texto real del canal: «Tu ficha de CANTO, aparte de la de doblaje: un hilo con tu registro y tus covers.»
+- **Para que no quede plano:** la paleta medida de los créditos (`#5DBCDE`, `#0E4F77`, `#96DFF5`, `#E8FDFD`). **Luz de luna de contra** en el pelo de Steven. **Los dedos de piedra cortan la esquina de abajo**, delante de todo. Los créditos pasan **por detrás** de la mano. Las tres Gemas, pequeñas y desenfocadas abajo, dan la escala.
+- **Lámina 2:** las catorce etiquetas como **reparto de créditos** en columnas: «Registro» (Soprano, Mezzosoprano, Contralto, Tenor, Barítono, Bajo, Falsete, Growl), «Estilo» (Balada, Rock, Pop, Anime OP/ED) y, al final, «Disponible» y «Ocupado».
+- ⚠️ La posición exacta de la mano de piedra (palma arriba o de lado) no está descrita: mirar `END` 0:02 antes de modelarla.
+
+**Otra idea para más adelante:** #🎧・que-estas-escuchando, con el remix lo-fi del opening de L.Dre como tema (punto 10).
+
+## Lo que corregí de las partes y lo que no se pudo verificar
+
+**Correcciones (antes → ahora)**
+- Parte de imagen: las n.º 246-248 eran «arte del juego de cartas *Guess Things Take Time / GTTCG*» → son **páginas del libro *Guide to the Crystal Gems*** (GTTCG = *Guide To The Crystal Gems*), con el mismo formato que la n.º 4 (campos de ficha, número de página). Visto en la hoja.
+- Parte de imagen: citaba fondos con los n.º 73, 95-96, 100, 108, 111, 123-124 y 214 (Big Donut, Templo, Homeworld, Granero) y los n.º 228 y 250 de texturas → **esos números no están en las 3 hojas guardadas** (van del 145 al 192 y del 241 al 270; son de las otras hojas que no se subieron). La n.º 250 es Perla de agua, no el símbolo de las Diamantes. En su lugar: Big Donut por dentro, n.º 181; la Fragua, 146 y 189-190; sala de un color, 161. El Granero no está en las hojas.
+- Parte de imagen: «n.º 46-48, armas y guanteletes de Garnet» → la 46 es **el látigo con púas de Amatista**; la 47, los guanteletes de Garnet; la 48, **el escudo de Steven**.
+- Parte de imagen: las n.º 1-2, 11-13 y 25-27 como arte de la wiki sin más → sus nombres de archivo dicen «By TheOffColors», «Request by RylerGamerDBS» y «By Kmes»: son **vectores de fans**. Valen de pose, no de arte oficial.
+- Parte de imagen: la tabla del punto 19 daba por «confirmado» el estilo «gouache/acuarela», pero su texto decía que gouache no se confirmó → **acuarela al principio y luego Photoshop** ✅ (parte de texto, Wikipedia citando el artbook); gouache, sin confirmar.
+- Partes de imagen, vídeo y voz: «no hay serie hermana» → **sí la hay: la biblia 64** (lo avisó la parte de texto).
+- Parte de voz: la sorpresa de Steven en `STYcn` 0:36 → ese minuto es del vídeo de **Internet Archive** (`STY`); el clip de Cartoon Network es otro montaje y puede no coincidir ⚠️.
+- Parte de voz: la vergüenza de Perla en `COA` 1:20 → la parte de vídeo pone el gesto de manos arriba en **1:15** y en 1:20 a Perla ya agachada explicando. Queda «entre 1:15 y 1:20» ⚠️.
+- Parte de vídeo: «Jail Break» T1-E49 → así lo numera Wikipedia; la biblia 64 y los vídeos de reacción dicen **T1-E52**. Se dejan las dos.
+- Parte de imagen: *Tap Together* confirmado con BroadwayWorld → **esa nota es de julio de 2016** y quizá hable de otra app; el post de Cartoon Network en X sí es del juego ⚠️.
+- Parte de voz: Perla con 415 dibujos en Danbooru; la biblia 64 decía 414 → se deja **415**, el recuento más nuevo.
+- Biblia 64: Crystal Universe «sin comprobar» → **no trae tildes, ñ, ¿ ni ¡** (la parte de texto sí la bajó).
+
+**Lo que no se pudo verificar** (va con ⚠️ en su punto)
+- **Fotogramas con minuto en 1080p**: fuera de YouTube sólo hay 720p.
+- **Vistas y comentarios** de los fandubs de YouTube (la página da 429).
+- **Cajas de diálogo del juego para Perla, Garnet y Amatista**: sólo se vieron la de Steven y la de una Gema de Homeworld.
+- **Colores de Sardonyx y de las demás fusiones**; hex de la película y de *Future*.
+- **El rotulista y la letra del cómic**; si existe un globo de grito.
+- **Contenido descartado de *Save the Light*** (TCRF, bloqueado por cuatro vías).
+- **Licencia de la Gem Glyph Font** de Ayelis.
+- **Si los modelos 3D libres traen esqueleto.**
+- **Opal, Alexandrite y Obsidian**: no se miró ninguna escena suya.
+- **Cómo se dicen en latino** *poof*, *Homeworld*, *bubble* y «clod».
+- **Cifras del remix de L.Dre** con una segunda fuente de prensa.
+
+## Cumplimiento del encargo
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 1 · Arte oficial variado | ✅ | Hojas de modelo oficiales de Perla, Garnet (2) y Amatista, ficha de producción, *Guía de las Gemas*, 2 artbooks, 2 cómics, arte de 2 juegos y de *Future*; 48 imágenes en la hoja de personajes. Se avisa de qué imágenes son vectores de fans. |
+| 2 · Fotogramas de escenas icónicas | ⚠️ | Opening, créditos, 2 tráileres y 3 escenas mirados minuto a minuto (`OP`, `END`, `STY`, `COA`, `KYF`), más 48 fotogramas 1920×1080 de la wiki. Los que llevan minuto están en 720p: YouTube bloqueado. |
+| 3 · Fan art y 3D con licencia | ✅ | 7 fan art con autor y origen (incluye Japón y China) y 8 modelos de Sketchfab con licencia y crédito exacto; aviso de los CC BY-NC. Sin esqueleto comprobado. |
+| 4 · Sitios, luz, paleta y texturas | ✅ | 6 paletas medidas con `estilo.py` en 6 sitios, la regla de color de las fusiones y 2 texturas CC0. |
+| 5 · Tipografía, una letra por uso | ⚠️ | Logo, cartela, créditos, Gem Glyph e interfaz con letra libre y tildes comprobadas con fontTools. Globo del cómic sin identificar; grito, pensamiento y onomatopeya no existen como recurso (buscado). |
+| 6 · Cómo hablan en pantalla | ✅ | La caja de diálogo real de *Unleash the Light*, vista en capturas, más cartelas, pantallas, Comunicador, Gem Glyph, carteles del pueblo y series dentro de la serie. |
+| 7 · Personajes y popularidad | ✅ | Danbooru (11 personajes), 3 hilos de Reddit con votos y TV Tropes. No hay encuesta oficial: buscada en dos idiomas. |
+| 8 · Doblaje latino | ✅ | Ficha técnica, 16 personajes con su voz confirmada en dos fuentes, 13 frases textuales oídas con minuto y 8 voces medidas en Hz. Las muestras no dicen de qué capítulo son. |
+| 9 · Música y sonido | ✅ | Opening, créditos y su evolución, las canciones de Garnet y Perla, 7 discos en MusicBrainz, ambiente por tipo de escena y el *poof*. El ambiente es impresión de oído. |
+| 10 · Vídeos y tendencias | ⚠️ | Tráileres con minuto, reacciones, un ensayo, un libro académico, el remix de TikTok y la secuela. Los vídeos de YouTube y TikTok no se pudieron reproducir. |
+| 11 · Videojuegos | ✅ | 7 juegos; la interfaz de *Unleash the Light* vista en 4 capturas (caja, menú, botones, cartel). TCRF bloqueado. |
+| 12 · Lo que ama el fandom y qué NO hacer | ✅ | 7 cosas que ama (TV Tropes y Reddit con votos) y 8 cosas que no hacer. |
+| 13 · Personajes a fondo | ✅ | 8 personajes y 4 fusiones con carácter, voz y caras con minuto; dinámicas de grupo. Faltan algunas combinaciones de cara y emoción (están en la 64). |
+| 14 · Poses analizadas | ✅ | 6-8 poses por personaje de Steven, Garnet, Amatista y Perla, más 5 de fusiones, cada una con su uso. |
+| 15 · Vestuario y hex | ✅ | 20 hex medidos con Pillow en hojas oficiales (Steven aproximado); trajes por arco en las hojas. Sin hex de película ni *Future*. |
+| 16 · Ciudades y fondos de pantalla | ✅ | 6 sitios con luz y hora; 6 fondos de pantalla con tamaño, autor y enlace (3 oficiales de CN). |
+| 17 · Guía para IA de imagen y texto | ✅ | Escrita por el redactor: rasgos fijos, paleta, línea, encuadre, palabras que ayudan y que estropean, etiquetas de Danbooru, cómo pedir una fusión, vocabulario de gestos y frases reales por emoción. |
+| 18 · Estilo y técnica | ✅ | Proceso real (Storyboard Pro, papel en Corea, acuarela y Photoshop, Kandinsky, Chromosphere con Blender y After Effects) y cómo replicarlo en Photoshop y Blender. |
+| 19 · Texturas 2D | ⚠️ | Papel y tela CC0, estrella, rombos, emblemas y la interfaz de cuaderno. No hay tramas (no aplica) ni pinceles libres verificados. |
+| 20 · Gustos y detalles | ⚠️ | 8 personajes con cumpleaños, alturas, aficiones y manías. Casi todo de una fuente (la wiki). |
+| 21 · Por qué la aman | ✅ | Razones con fuente, Peabody, 3 escenas que hacen llorar con minuto, música y reacción, más las que hacen gritar y reír. |
+| 22 · Fan dubs y comunidad hispana | ⚠️ | 4 fandubs con canal confirmado, un cover con vistas exactas y el Smule de la actriz de Steven. Vistas de YouTube y TikTok sin ver. |
+| 23 · Colaboraciones y cruces | ✅ | Battle Crashers, Tap Together, Hot Topic, Funko y 5 fotos de cosplay y figuras con licencia. No hubo Fortnite, gacha ni cafés (buscado). |
+| 24 · Obras parecidas | ✅ | Influencias citadas por la autora (CBR), 11 series de tono parecido y 5 láminas del servidor con las que no chocar. |
+| 25 · Mundo, historia y símbolos | ✅ | Reglas en 5 líneas, **tabla de 8 fusiones**, Gem Glyph, emblemas, objetos, vocabulario y la historia por arcos hasta *Lars of the Stars*. |
+| Conceptos de lámina (3) | ✅ | Tres distintos, uno por foco del encargo (pastel, fusiones, música), con objeto y sitio, personaje, cuadro, textos y profundidad; ninguno repite los de la 64. |
+| Fuentes distintas (40 o más) | ✅ | Más de 50 webs distintas enlazadas en el cuerpo. |
+| Tipos de fuente de «Profundidad exigida» | ⚠️ | Oficiales, wikis, TV Tropes, Reddit, arte (Safebooru, Pixiv, Tumblr, DeviantArt, bcy), vídeo, repositorios de modelos y texturas, doblaje. Otros idiomas: sólo fan art japonés y chino (obra de EE. UU.). TCRF y Comic Vine bloqueados; ANMTV sin resultados. |
+| Hojas de contacto | ✅ | 3 JPEG de menos de 1 MB, miradas y citadas por número. |
+| `referencias.json` | ✅ | 138 referencias de las partes, las mejores primero. |

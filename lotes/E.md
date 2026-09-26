@@ -18,6 +18,7 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
   60: los 4 investigadores (Sonnet) relanzados desde cero a las 04:03.
 - Cambio de cuenta (25-sep, 06:55 UTC, cuenta cuenta I50): herramientas instaladas; guardar.sh cada 300 s.
   59: revisar.py la da COMPLETA → subida. 60: 4 partes sin `Sigue:` obligatorio → redactor (Opus).
+- 63 K-pop: **COMPLETA** y subida (2026-09-26 00:02 UTC). ✅24 ⚠️13 ❌0, 186 referencias, 76 webs, 1974 líneas.
 
 ## Avisos para el dueño
 
@@ -83,6 +84,20 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
   - Por comprobar de oído: las frases latinas del incinerador (Dailymotion `x3mvnel`) y las de los
     Marcianitos, que nadie transcribió. 19 de las 55 webs enlazan a la portada del medio, no al artículo.
 
+- **63 Las Guerreras K-pop (KPop Demon Hunters)** (COMPLETA, 1974 líneas, 186 referencias, 76 webs; ✅24 ⚠️13 ❌0):
+  más querida, **Rumi** (1.ª en Collider, «la más identificable» en Reddit); secundario sorpresa Bobby; favorito de
+  memes Derpy. Cuadro de diálogo: sin globos; grafismo de concierto (letras enormes que laten, letra libre Anton);
+  en lo íntimo, letra a mano en el vaho de un espejo (Caveat); para lo neutro, subtítulo de Netflix. Láminas:
+  A #🎼・demos-canto «Cuaderno de letras en la cabina de grabación» (HUNTR/X Tower), B #🎭・Escenario «Escenario
+  de los Idol Awards», C #😂・memes «Tres vasos de ramyeon con Derpy».
+  - ⚠️ El inventario se contradice entre #🎵・canto y #🎼・demos-canto sobre dónde van los covers; el concepto A
+    usa el texto de demos-canto.
+  - Por medir: los hex de la cazadora amarilla de Rumi (hoja personajes_01 nº 17).
+  - Por comprobar: las 6 frases latinas salen de muestras de Doblaje Wiki (minuto de la muestra, no de la película);
+    «¡Huntrix no se rinde!» sin confirmar; sin clips oficiales doblados; el sacrificio de Jinu sin minuto ni música;
+    el fotograma de Zoey con dagas y «HUNTRIX DON'T QUIT!» va en «How It's Done» 1:06 según vídeo (biblia sigue a
+    vídeo, no a «Takedown» 1:06 según voz).
+
 - **61 Kung Fu Panda** (COMPLETA, 1147 líneas, 159 referencias, 52 webs; ✅21 ⚠️16 ❌0): más querida,
   **Tigresa** (80 dibujos en Danbooru contra 37 de Tai Lung y 35 de Po; sin encuesta oficial). Tai Lung
   es el villano favorito en Reddit; Po es la cara de la saga (Omar Chaparro en las 4 películas en
@@ -116,4 +131,5 @@ con redactor y 60 con sus 4 partes; antes, `claude/lote-e-serie-equipo-sh35c4` (
 | 59 | imagen | Sonnet | 17 | 261 mil |
 | 59 | video, voz, texto y redactor | Sonnet / Opus | — | sin medir (sesión .105; su aviso de fin se perdió) |
 | 60 | redactor (puntos 18-25 y cierre) | Opus | — | sin medir (aviso de fin no trajo tokens) |
+| 63 | equipo completo | Sonnet + Opus | — | — |
 | 64 | equipo completo | Sonnet + Opus | — | — |

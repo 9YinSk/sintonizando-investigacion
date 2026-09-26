@@ -87,6 +87,13 @@ ahora lleva el lote H.)
     nórdica el tatuaje sigue rojo; en la captura de Ragnarök lleva las Espadas del Caos, no el Hacha.
   - Sin escenas en 1080p ni vistas de los fandubs (YouTube bloqueado). La trilogía griega nunca se dobló al
     latino; las nórdicas, sí (Pink Noise, México: Kratos, Idzi Dutkiewicz).
+
+- **122 Little Nightmares**: más querida, Six (94 fan arts en Danbooru frente a 40 de Mono; sin encuesta oficial); secundarios queridos: Nomes, Runaway Kid, Dime. Cuadro de diálogo: la saga es muda (sin doblaje latino, comprobado en Steam y Doblaje Wiki); formato oficial con letras es el cuaderno de personaje de la promo de LN2 (papel crema #E2D6C9, boceto a lápiz, nombre en mayúsculas entre dos rayas, manuscrito) y la cartela crema con borde negro ondulado del cómic. Láminas: A #guia «El cuaderno del Maw», B #que-estas-viendo «La tele de la Pale City», C #canto «La caja de música de la Dama».
+  - Avisos: servidor/inventario.md, descripción de guia sale cortada (completar antes de lámina). Sin doblaje latino (nadie habla); hay fandubs del cómic (el mejor 647.427 vistas).
+  - Quitó 35 entradas ajenas de referencias.json que venían de etiquetas de Danbooru; si se vuelve a correr juntar_referencias.py vuelven: hay que corregirlo en el recolector para que no las vuelva a meter.
+  - Falta minuto exacto en que Six suelta a Mono (antes de 2:48:20 del longplay de LN2) y fotograma del folleto del Maw del final secreto.
+  - Sin buscar: TCRF, GitHub, ArtStation, fuentes en sueco; TV Tropes y Wayback fallaron dos veces.
+
 - Herramienta: en videojuegos, la tabla «Reparto latino por personaje» de `recolectar.py` (Doblaje Wiki) sale rota: mete nombres de archivos de audio en la columna del personaje y no trae actor. El investigador de voz de 117 la rehízo a mano.
 - Herramienta: en 118 la wiki de Fandom buena es `thehellblade`, no `hellblade`.
 - Red: Wayback Machine está bloqueada por la política de red de este entorno; TCRF, Game UI Database y ArtStation dan 403 a curl y WebFetch.
@@ -119,3 +126,4 @@ ahora lleva el lote H.)
 | 122 | imagen (relanzado) | Sonnet | 15 | 246 mil |
 | 120 | redactor (relanzado) | Opus | 19 | 325 mil |
 | 121 | redactor | Opus | 22 | 341 mil |
+| 122 | equipo completo | Sonnet + Opus | — | — |

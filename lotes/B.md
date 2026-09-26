@@ -36,6 +36,9 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 ## Avisos para el dueño
 
+- **14 Adventure Time (Hora de aventura)** (segunda pasada): más querida, Marceline (voz latina Isabel Martiñón). Mejor secundario: Rey Helado/Simon; BMO favorito de Pendleton Ward. Cuadro de diálogo: sin globos — texto en objetos (nota de Simon a Marcy, cuaderno de Marceline, nota de Finn, pantalla de BMO en VT323, cartelas de papel viejo). Láminas: A caja de discos en la casa rosa de Marceline (#F8AEC5); B concierto en el Anfiteatro Fantasma; C mixtape de BMO en la casa del árbol.
+  Avisos: 6 model sheets oficiales de Marceline con el bajo (Special Pose A-F, ep. 062) en §3.7 y referencias.json. Confirmar de oído las frases latinas marcadas ⚠️ (transcritas con Whisper de Doblaje Wiki, sin episodio). El concierto de 10×07 (concepto B), «Henchman» y «Marceline's Closet» con minuto estimado: comprobar en el episodio. Decidir los campos de la lámina 2 (artista, título, tipo, fecha, enlace): no están en el inventario. Licencias 3D: bajo de Haxis CC BY; Yogensia CC BY-NC-SA; low poly de cuxilrodas NO es CC (sólo mirar). Las frases de los conceptos son traducción del redactor, no del doblaje. Cantantes latinas de Marceline (Claudia Urbán, Patty Urbán, Carla Cerda) con una sola fuente; vistas de fan dubs sin ver (YouTube y TikTok cerrados). Dailymotion: ?t= cambiado por ?start=.
+
 - **15 SpongeBob (Bob Esponja)** (repaso): más querido no hay encuesta oficial; en Ranker gana Patricio y los adultos se identifican con Calamardo. Para #ofertas-y-gratis manda Don Cangrejo (el dinero es suyo). Cuadro de diálogo propio: la serie no usa globos — se usan la tarjeta de tiempo del Narrador Francés (tela tiki y letra Some Time Later, OFL), el menú GALLEY GRUB con los céntimos pequeños y arriba, el cartel rojo «DAILY SPECIAL» pegado con cinta y el botón lila de Calamardo. Láminas: A «la caja de Don Cangrejo en el barquito» (recomendada, con la pose vista en la hoja C1), B Calamardo en la caja con el menú en soles y su botón, C el Crustáceo (fachada).
 
 - **13 Rick and Morty** (repaso): más querido, Rick, pero el secundario que más tira es **Pepinillo Rick** (Emmy 2018, 3.º en Ranker); el Sr. Meeseeks es el segundo gancho (el bot MEE6 de Discord lleva su nombre). Cuadro de diálogo propio: no hay globos — el rótulo de la tele, con nombre y eslogan abajo en pantalla (1×08, 11:18); en los videojuegos el texto va en objetos del mundo. Láminas: A «TV infinita» (recomendada, la tele del salón con la caja del cable), B Pepinillo Rick en el banco del garaje, C la caja Meeseeks en la mesa de la cocina (modelo 3D de pythagean, CC BY).
@@ -60,6 +63,7 @@ que dejó 10 COMPLETA, 11 y 12 a medias; su último guardado fue a las 02:50 UTC
 
 | Serie | Rol | Modelo | Minutos | Tokens |
 |---|---|---|---|---|
+| 14 | equipo completo | Sonnet + Opus | — | — |
 | 15 | equipo completo | Sonnet + Opus | — | — |
 | 13 | redactor (repaso) | Opus | 15 | 269 mil |
 | 12 | redactor (repaso) | Opus | 12 | 193 mil |
