@@ -188,3 +188,4 @@ no 522. El investigador de vídeo de 87 lo consiguió pasando un User-Agent norm
 los próximos investigadores de vídeo lo intenten así antes de darlo por muerto.
 | 87-tsukimichi-moonlit-fantasy | video | sonnet | 17 | 219627 |
 | 86-saga-of-tanya-the-evil | redactor (opus) | opus | 19 | 312238 |
+| 87-tsukimichi-moonlit-fantasy | voz | sonnet | 28 | 272460 |
