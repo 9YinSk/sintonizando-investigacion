@@ -169,3 +169,15 @@ Cuenta: cuenta A104
 - 87-tsukimichi-moonlit-fantasy: imagen + texto investigadores lanzados
 - guardar.sh --cada 300 relanzado (pid 24162)
 - send_later check-in: trig_011nfztpARXkZgq8C5ZHstJH (20:56 UTC)
+
+## Sesión nueva (26-sep-2026, 18:21 UTC)
+
+Sesión: https://claude.ai/code/session_01DDNVaCpYyiQfao1M598h9e · rama `claude/sweet-wozniak-vmvzo4`
+(el contenedor de la sesión anterior de esta rama se reinició de verdad; sin pérdida de datos.
+Junté `claude/lote-f-local`, que otras cuentas habían llevado hasta 85 completas y 86-87 en marcha —
+gracias a eso no repetí ese trabajo.)
+
+Herramientas ya estaban instaladas (verificado). guardar.sh y el enlace de sesión de subir.sh/guardar.sh
+al día. Retomo la cadena: 86 Saga of Tanya the Evil sin `Sigue:` obligatorio → redactor. 87 Tsukimichi
+(imagen+texto listos, faltan vídeo+voz) → investigadores. 88-95 con datos recolectados, listas para
+investigadores. 96 Bubble sin recolectar.
