@@ -322,7 +322,7 @@ en biblia.md.
 - **Vistas exactas** de los covers de «Enemy» y de los fandubs en TikTok/YouTube: YouTube devolvió **429** a `navegar.py` en esta tanda (IP compartida); no reintenté más de una vez por vídeo, como pide `AYUDANTE.md` — punto 22.
 - **Fandub completo de una escena larga** (varios personajes, edición propia) en español: lo que hay es sobre todo covers de canciones y comparaciones del doblaje oficial — punto 22.
 - **Música exacta** en las muertes de Vander (1×06) y de Isha (2×06) — punto 21.
-- **Cara en cada emoción** de Jayce, Viktor, Caitlyn, Ekko y Silco (alegría, miedo, vergüenza en general): sólo me dio tiempo a bajar y mirar 1×03 (Vi y Jinx) — punto 13. **Sigue** abajo.
+- **Cara en cada emoción, huecos sueltos que no eran obligatorios esta tanda** (no pedidos en el «Sigue» anterior): miedo/tristeza/vergüenza de Viktor, alegría/rabia de Caitlyn y de Ekko, tristeza/miedo/vergüenza de Silco — punto 13. Las 5 emociones de Vi y de Jinx (adulta y niña) sí quedaron completas esta tanda.
 
 ## Bitácora
 

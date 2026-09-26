@@ -722,3 +722,22 @@ Hecha por el redactor con los puntos 4, 6, 8, 13, 14, 15 y 18. Sirve para Firefl
 5. Trama: textura de puntos mezclada sólo en sombras con un Mix por máscara.
 6. Rigs: Joker de *Strikers* y Morgana de JulioSillet (§3). Recortes siempre por `v3/integrar.py`.
 
+## 19 · Texturas 2D
+
+Junto con los modelos de §3 y las texturas reales de §4, estas son todas las capas.
+
+**Vistas en la obra**
+- **Calling card:** cara A, sombrero de copa negro y máscara roja sobre espiral roja y negra con trama; cara B, letras recortadas en cajas negras con texto blanco y rojo ([imagen](https://static.wikia.nocookie.net/megamitensei/images/4/49/Phantom_Thief_Calling_Card.PNG), 512×512). ✅ Todas las del juego siguen ese diseño.
+- **La espiral roja y negra** de la portada del OST (nº114) y de la ilustración nº26. ✅
+- **Trama de puntos** de la página de Confidente (§6). ✅
+- **Escudo de Shujin:** chevron negro triple sobre blanco ([imagen](https://static.wikia.nocookie.net/megamitensei/images/1/19/Shujin_Male_Winter_Uniform.jpg)). ✅
+- **Logo de los Ladrones Fantasma:** máscara u ojo estilizado, blanco sobre negro, 529×615 ([imagen](https://static.wikia.nocookie.net/megamitensei/images/2/28/Phantom_Thieves_Logo.png/revision/latest?cb=20170528120634)). ✅
+- **Cuadros del uniforme:** tartán de Shujin en el pantalón (§15). ✅
+- **Trama del manga:** sólo vimos portadas; las páginas interiores son de pago. ⚠️
+
+**Pinceles y tramas libres**
+- *SuperScreentones*, tramas para Clip Studio y Photoshop, a 0 $ en Gumroad ([Graphics Bunker](https://www.graphicsbunker.com/brushes/free-comic-manga-screentone-brushes/)). ⚠️ Descarga sin probar.
+- 34 pinceles de semitono en alta ([Brusheezy](https://www.brusheezy.com/brushes/50379-mabecman-s-screentones-halftone-brushes)). ⚠️ Revisar la licencia antes de usar.
+- Papel para la calling card: [Paper006](https://ambientcg.com/view?id=Paper006), CC0. ✅
+- Generador de calling cards de fans, para ver la composición ([p5cc](https://skyventuree.github.io/p5cc/)). ✅ No para pegar.
+
