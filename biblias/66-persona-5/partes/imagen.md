@@ -22,8 +22,10 @@ Todo mirado, no sólo enlazado.
 - Splash art de victoria «All-Out Attack» de Ann/Panther, primer plano, guiño y lengua fuera, fondo rojo puro · https://static.wikia.nocookie.net/megamitensei/images/2/25/Ann_All_Out.png · ✅ (misma escena sale también en gameplay, YouTube) · 3840×3200
 - Splash art «All-Out Attack» de Morgana · https://static.wikia.nocookie.net/megamitensei/images/b/be/Morgana_All_Out.png · ⚠️ · 3840×3200
 - Ilustración conmemorativa «Protagonista y Morgana», PlayStation Awards 2016, Soejima · https://static.wikia.nocookie.net/megamitensei/images/8/8b/Illustration_of_the_Protagonist_and_Morgana_for_Playstation_Awards_2016.png · ⚠️ · 3088×4096
-- Ilustración conmemorativa por 550.000 copias vendidas, del protagonista solo, Soejima · https://static.wikia.nocookie.net/megamitensei/images/... (ver Category:Persona_5_Artwork_Images, «P5 Illustration of the Protagonist for celebration of 550,00 copies shipped by Shigenori Soejima.jpg») · ⚠️ · —
+- Ilustración conmemorativa por 550.000 copias vendidas, del protagonista solo, Soejima · https://static.wikia.nocookie.net/megamitensei/images/0/0f/P5_Illustration_of_the_Protagonist_for_celebration_of_550%2C00_copies_shipped_by_Shigenori_Soejima.jpg · ⚠️ · 584×625
 - Ilustraciones de artistas invitados por aniversario (arte oficial encargado por Atlus, no fan art): Futaba por Namori (autora de YuruYuri), Ryuji por Yoko Nihonbashi, protagonista+Goro por Rokuro Saito (mangaka de Persona 4U2) y por Teita (Norn9); confirman la lista de la categoría de la wiki · https://megamitensei.fandom.com/wiki/Category:Persona_5_Artwork_Images · ⚠️ (categoría de la wiki, sin ver cada una en grande) · —
+- **Cartones de cuenta atrás** (countdown cards) oficiales de Atlus Japón antes del lanzamiento, uno por personaje: Ren/Joker · https://static.wikia.nocookie.net/megamitensei/images/e/e0/MMCountdownRen.png · ⚠️ · 800×566 — también hay de Akechi, Ryuji, Ann, Makoto, Yusuke, Futaba y Haru en la misma categoría de la wiki (`Category:Persona_5_Artwork_Images`). ⚠️ (comprobados el título y dos de las URL, el resto sólo listado)
+- Portadas de los 16 tomos del manga (Hisato Murasaki, Shogakukan): tomo 1 a color con Joker de espaldas, resto con distintos personajes en primer plano · https://static.wikia.nocookie.net/megamitensei/images/8/82/P5_Vol_1_Cover.jpg (tomo 1) · ✅ (wiki + Wikipedia confirman la serie y su editorial) · 564×841
 - Hoja de modelo del uniforme de invierno de Shujin, chico: americana negra, pantalón de cuadros (tartán rojo/negro), jersey de cuello alto blanco, escudo del instituto (escudo blanco con chevron negro, «SYUJIN HIGH SCHOOL») · https://static.wikia.nocookie.net/megamitensei/images/1/19/Shujin_Male_Winter_Uniform.jpg · ✅ (visto en la imagen) · 1349×1685
 - Artbook oficial completo escaneado en inglés (Internet Archive, para consulta, no para descargar de golpe) · https://archive.org/details/persona-5-official-artbook-english · ✅ (existencia confirmada por IA + búsqueda web) · —
 
@@ -169,20 +171,28 @@ calidad) por variedad de contenido, miradas una a una:
 
 ## Lo mejor para la lámina
 
-- El key visual grupal de Soejima (2522×1664) da a los 4 personajes juntos y con pose.
-- «Ann All Out.png»: primer plano expresivo, fondo rojo puro (#FF0100 medido), sirve de referencia de color y de cara.
-- La hoja de modelo de Ann en ropa de calle (mallas rojas, cazadora «S») es su look más reconocible fuera del traje ladrón.
-- El concept art del abrigo de Joker sin máscara puesta es la pose «viva» que pide el dueño (con su objeto, la máscara).
-- El escudo de Shujin (chevron + «SYUJIN HIGH SCHOOL») sirve como emblema realista para grabar en un objeto de Blender.
+- El fondo de pantalla oficial de escritorio de «Strikers» (Joker + Arsene volando sobre Tokio de noche, 3840×2160) da paleta, luz y un Persona en acción listo para usar de fondo.
+- El escudo de Shujin (chevron + «SYUJIN HIGH SCHOOL», visto en Shujin_Male_Winter_Uniform.jpg) sirve como emblema realista para grabar en un objeto de Blender.
+- La calling card (Phantom_Thief_Calling_Card.PNG) da un cuadro de diálogo/anuncio ya con la tipografía y la trama espiral roja/negra propias de la serie, ideal si el canal necesita «texto en su voz».
+- El concept art del abrigo de Joker sin máscara puesta (Phantom_Unmasked_Concept_Art_P5) es la pose «viva» que pide el dueño (con su objeto, la máscara), y ya trae el hex del abrigo (#020202) y del guante (#83161C).
+- La hoja de modelo de Ann en ropa de calle (mallas rojas #AB2823, cazadora «S») es su look más reconocible fuera del traje ladrón — el dueño pidió variedad de vestuario, no sólo el traje de combate.
 
 ## No encontré
 
-_(se completa al terminar los demás puntos)_
+- Página oficial de Poly Haven con modelos de Persona 5: comprobado por su API (`api.polyhaven.com/assets?t=models`, 521 modelos) — no existe ninguno con «Persona» o «Joker» en el nombre; es una librería CC0 genérica, no aporta al punto 3. ⚠️
+- Páginas interiores del manga (para ver la trama/screentone real, no sólo la portada): sólo se encontraron portadas de tomos en la wiki; las páginas están en los tomos impresos/Viz Media, de pago. Búsquedas: «Persona 5 manga interior pages scan», wiki de Fandom (sólo covers indexadas). ⚠️
+- Textura Sketchfab específica del interior de Leblanc o de un vagón de Mementos con licencia libre: se buscó «Leblanc Persona 5», «Mementos Persona 5», «Morgana van Persona» en la API de Sketchfab y no dio resultados relevantes (sólo coincidencias de nombre con otros juegos, como el mapa de Halo 5). ⚠️
+- Arma exacta de Ryuji (maza/palanca) o el látigo de Ann como modelo 3D con licencia: sin resultados en Sketchfab con esos términos. ⚠️
 
 ## Bitácora
 
-- Fandom megamitensei (API): páginas correctas de personajes — la del protagonista es «Ren Amamiya», no «Joker»; Ann y Ryuji sin desambiguación. ES/EN.
-- `Category:Persona 5 Artwork Images` (82 archivos) y galerías de Ren Amamiya, Ryuji Sakamoto, Ann Takamaki vía `generator=images`.
-- Colores medidos con `herramientas/estilo.py` sobre las URLs directas (cabecera Referer a fandom.com).
-- Búsqueda web (inglés): «Persona 5 Shigenori Soejima key visual official artbook cover», «Persona 5 Royal Strikers Tactica key visual official art».
-- `atlus.com` bloqueado por el proxy de salida (WebFetch); `persona.atlus.com` sí responde por curl (200). Pendiente para el resto de puntos.
+- Fandom megamitensei (API `api.php`): páginas correctas de personajes — la del protagonista es «Ren Amamiya», no «Joker»; Ann y Ryuji sin desambiguación (búsqueda `list=search`). ES/EN.
+- `Category:Persona 5 Artwork Images` (82 archivos) y galerías de Ren Amamiya, Ryuji Sakamoto, Ann Takamaki vía `generator=images`, filtradas por tamaño.
+- Página de texto `Calling Card` leída con `prop=revisions&rvprop=content` para encontrar el archivo de la tarjeta física (evita adivinar el nombre del archivo).
+- Colores medidos con `herramientas/estilo.py` sobre las URLs directas (cabecera Referer a fandom.com) y sobre recortes propios (Ann casual, uniforme de Shujin) cuando el fondo blanco dominaba la paleta.
+- Sketchfab: API `v3/search` y `v3/models/<uid>` para comprobar licencia (todas CC BY 4.0) y que `isDownloadable` fuera `true`, no sólo confiar en el filtro `downloadable=true` de la búsqueda.
+- ambientcg: API `v2/full_json?type=Material&q=…` para Leather, Fabric, Carpet, Bricks, Paper (todas CC0).
+- Búsqueda web (inglés): «Persona 5 Shigenori Soejima key visual official artbook cover», «Persona 5 Royal Strikers Tactica key visual official art», «Persona 5 Joker fan art ArtStation illustration», «manga screentone halftone brushes free CC0», «Persona 5 manga Hisato Murasaki comic adaptation cover».
+- `atlus.com` bloqueado por el WebFetch de Claude (proxy de salida), pero `curl` directo sí responde (200): así se sacó la colección de wallpapers oficiales de Strikers, incluido el archivo `海外版2021FIX◆PC用壁紙_01.jpg` (3840×2160). Algunos nombres de archivo con caracteres japoneses dieron 404 al re-tipearlos a mano; se resolvió extrayendo la URL exacta del HTML con una regex en vez de copiarla.
+- `investigar_serie.py` tuvo que relanzarse: las hojas de contacto de la primera pasada de `recolectar.py` ya no estaban en el disco compartido (`herramientas/referencias/` es de todo el contenedor, no persiste). Relanzado con los 4 títulos correctos de página; se detuvo el proceso tras generar 16 hojas porque las 3 primeras (ordenadas por resolución) ya cubrían de sobra los 6 puntos.
+- Morgana en forma de gato: comprobado mirando la imagen (`Morgana_(Cat_Version,_P5T).png`) — blanco y negro (tuxedo), collar amarillo, sin bolsa; una primera lectura de memoria decía «bolsa amarilla cruzada» y se corrigió tras ver la imagen.

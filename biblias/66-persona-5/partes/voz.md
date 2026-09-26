@@ -301,12 +301,116 @@ identificas»)
   inglés de referencia y otro doblaje ficticio para *Persona 5 Royal* con Gabriel Ramos como Joker ·
   https://propuestas-fanon.fandom.com/es/wiki/Persona_5 · ✅ (existe, también NO oficial)
 - **Covers de openings en español:** no se encontró ninguno específico de Persona 5 en la búsqueda de
-  Dailymotion de `datos-voz.md» («Persona 5 fandub español/latino»); tampoco apareció uno claro en las
+  Dailymotion de `datos-voz.md` («Persona 5 fandub español/latino»); tampoco apareció uno claro en las
   búsquedas web de esta sesión (se hallaron sobre todo el mod de doblaje y el fandub de YouTube ya
   citados) · ⚠️ búsqueda hecha, sin resultado confirmado.
 
 ## Lo mejor para la lámina
 
+- El protagonista gana las dos encuestas oficiales de Atlus, pero Makoto Niijima es la constante en 2º
+  lugar: pareja segura para una lámina (protagonista + secundaria más querida de verdad).
+- No hay doblaje latino oficial (ni juego ni anime): cualquier cuadro de diálogo debe citar la frase
+  real en japonés/inglés con su fuente, o un meme ya asumido por el fandom hispano — nunca inventar
+  una voz latina que no existe.
+- Joker sin sus guantes rojos y su antifaz no es Joker para el fandom (meme «NO GLOVES!» real, de una
+  colaboración oficial): son irrenunciables en cualquier pose.
+- Morgana es el personaje más «universal» para un canal ligero o de bienvenida: entra siempre en el
+  top 8 de las encuestas, tiene frases cortas y repetibles («Looking cool, Joker!», reusadas hasta en
+  Smash Bros.) y una expresión de alegría ya verificada con minuto (0:30 del tráiler del anime).
+- Las dos escenas que más hacen llorar (el «sacrificio» de Ryuji, música «Collapse of Pride»; la
+  despedida final con «Sunset Bridge») tienen música identificada y confirmada con capturas reales del
+  juego: buen gancho si el concepto de lámina busca pegar fuerte emocionalmente.
+
 ## No encontré
 
+- Encuesta oficial sólo entre personajes secundarios (sin el protagonista compitiendo): no se buscó a
+  fondo · ⚠️ extra, no obligatorio.
+- Créditos de estudio y director de un doblaje latino oficial: no existen a la fecha (26-sep-2026);
+  comprobado con Doblaje Wiki (`allpages`, varias búsquedas de texto) y con la ficha internacional de
+  doblajes (dubbing.fandom.com, sólo inglés) — ver punto 8.
+- Covers de openings de Persona 5 en español (punto 22): buscado en Dailymotion (`datos-voz.md`) y en
+  esta sesión (WebSearch), sin resultado claro más allá del mod de doblaje y un fandub de YouTube sin
+  verificar · ⚠️.
+- Contenido completo de ANMTV sobre Persona 5: el dominio `anmtv.la` está bloqueado por la política de
+  red del proxy de este contenedor (egress denegado) y también por `navegar.py`
+  (`ERR_TUNNEL_CONNECTION_FAILED`); se cubrió el mismo terreno con WebSearch y otras fuentes (Xataka,
+  GameBanana) · ⚠️.
+- Hilo del foro `foroseldoblaje.com` sobre Persona 5 Royal (posible discusión de doblaje/localización):
+  `navegar.py` dio error 502 dos veces seguidas; no se insistió más, según la regla de dos intentos ·
+  ⚠️.
+- Texto completo de los artículos de 3DJuegos LATAM y del vídeo de TikTok sobre el mod LATAM Visions:
+  bloqueados por el proxy o sin transcripción disponible; se dejaron enlazados sin verificar del todo
+  · ⚠️.
+- El post de Reddit con 891 votos («Don't get me wrong, I love Makoto…») está borrado: no se pudo leer
+  su contenido real, sólo el título y los votos que ya traía `datos-voz.md` · ⚠️.
+- **Caras en cada emoción, cobertura incompleta (punto 13):** se consiguieron fotogramas reales con
+  minuto para alegría (Ryuji, Morgana), confianza/determinación (Joker) y calma (Akechi), pero **no**
+  se encontraron fotogramas limpios y atribuibles con seguridad a rabia, tristeza, miedo o vergüenza
+  de los personajes principales dentro del cupo de esta tanda. Se probó con: el tráiler de aniversario
+  P-Studio (mezcla varios juegos de Persona, un fotograma de «furia» resultó ser un personaje
+  secundario/villano — Kaneshiro — y otro de «grito» parece ser de Persona 3, no de Persona 5, así que
+  se descartaron ambos por no ser fiables); un vídeo de la escena Ann/Kamoshida en YouTube-alternativo
+  que dio «Not found» en yt-dlp; clips de gameplay en francés (JeuxVideo.com) sin primeros planos de
+  cara aprovechables. Se necesitaría un episodio completo del anime (o más tiempo de búsqueda dirigida)
+  para completar esta tabla con las 5 emociones pedidas por personaje.
+
 ## Bitácora de búsqueda
+
+**WebSearch (inglés):** "Persona 5 Royal character popularity poll official Atlus ranking" ·
+"Persona 5 doblaje latino español actores de voz" · ""Persona 5" anime doblaje latino Crunchyroll
+español" · ""Persona 5" ANMTV doblaje español latino" · "Persona 5 Ryuji 'sacrifice' scene Shido's
+Palace music 'reaction' chapter" · "Persona 5 ending Phantom Thieves disappearing Yaldabaoth scene
+music track name" · "Persona 5 Royal sales copies sold Metacritic score Game Awards Best RPG" ·
+""Persona 5" "The Game Awards" 2017 "Best Role-Playing Game" winner".
+
+**WebSearch (japonés):** "ペルソナ5 人気投票 結果 公式".
+
+**Doblaje Wiki** (`doblaje.fandom.com/es/api.php`, nunca la web normal que da 402): `list=search`
+con "Persona 5", "intitle:Persona", "\"Futaba Sakura\"", "\"Ann Takamaki\"", "\"Ryuji Sakamoto\"",
+"Joker Persona", "Morgana Persona"; `list=allpages&apprefix=Persona` → confirmado: no existe página
+de la obra (punto 8).
+
+**Otras APIs de Fandom:** `dubbing.fandom.com/api.php` (ficha internacional de doblajes, página
+"Persona 5: The Animation") · `megamitensei.fandom.com/api.php` (infobox y sección Personality de Ren
+Amamiya, Ryuji Sakamoto, Ann Takamaki y Morgana, con `list=search` primero para encontrar el título
+exacto de cada página).
+
+**`navegar.py`** (páginas que bloquean curl o cargan con JavaScript): famitsu.com/news/… (encuesta
+2021 completa) · mynintendonews.com (encuesta 2023) · crunchyroll.com/es (sin datos de audio, sólo
+aviso de cookies) · foroseldoblaje.com (502 dos veces, sin insistir más) · xataka.com.mx (detalles del
+mod LATAM Visions) · gamebanana.com/wips/85365 (estado del mod) · tvtropes.org (Memes, TearJerker y
+Funny de Persona 5 — con `--html` y un script propio para leer el texto de las carpetas plegables que
+un `inner_text` normal no muestra) · reddit.com (comprobar el post borrado de 891 votos).
+
+**WebFetch:** nintendosoup.com, famitsu.com, nintendolife.com, xataka.com.mx, 3djuegos.lat,
+lparchive.org → **bloqueados por la política de red del proxy** (`EGRESS_BLOCKED`); se resolvieron con
+`navegar.py` cuando fue posible (famitsu, xataka) o se dejaron como «no encontré» (nintendosoup,
+nintendolife, 3djuegos, lparchive).
+
+**ANMTV** (anmtv.la): bloqueado por la política de red del proxy y por `navegar.py`
+(`ERR_TUNNEL_CONNECTION_FAILED`); no se pudo consultar directamente.
+
+**Vídeos mirados de verdad** (`herramientas/fotogramas.py`, hojas de contacto miradas con Read):
+tráiler 20º aniversario Persona (Dailymotion x48wb94, HobbyConsolas) — resultó ser un tráiler cruzado
+de Persona 3/4/5, poco útil para caras propias de P5 · tráiler oficial del anime «Persona 5 the
+Animation - Trailer #2» (Dailymotion x6gu5mf, Gematsu/Siliconera) · clip doblado al inglés del
+episodio de playa (Dailymotion x6uu26k, canal !t Live) · clip de gameplay francés del Palacio de
+Kamoshida (Dailymotion x89nco2, JeuxVideo.com) — sin primeros planos útiles. Se intentó también un
+clip de la escena Ann/Kamoshida (Dailymotion x5sfh6l) que dio «Not found» en yt-dlp.
+
+**Doblaje Wiki, contenido de fans:** blog de propuesta `Usuario_Blog:SupaKaminari/Propuesta:_Persona_5`
+y `propuestas-fanon.fandom.com/es/wiki/Persona_5` (reparto de fan-casting, punto 22).
+
+## Cumplimiento de mis puntos (7, 8, 12, 13, 20, 21, 22)
+
+| Punto | Estado | Por qué |
+|---|---|---|
+| 7 · Encuestas de popularidad | ✅ | Dos encuestas oficiales de Atlus/SEGA (2021 y 2023) con votos exactos, más AniList y Danbooru como contraste de fandom |
+| 8 · Doblaje latino y frases | ✅ (obra sin doblaje, documentado) | Confirmado con dos fuentes independientes que no existe doblaje latino oficial; se explica por qué y se da el reparto de seiyū/inglés como referencia |
+| 12 · Lo que ama el fandom / qué NO hacer | ✅ | Memes con fuente (TV Tropes) + lista concreta de qué NO hacer, incluido un caso real de colaboración oficial mal recibida |
+| 13 · Descripción profunda + cara en cada emoción | ⚠️ a medias | Carácter, citas reales y forma de hablar completos para 6+ personajes; la tabla de «cara en cada emoción» sólo cubre alegría, confianza/determinación y calma — faltan rabia, tristeza, miedo y vergüenza con fotograma propio (ver «No encontré») |
+| 20 · Gustos y detalles | ✅ | Tabla completa de 9 personajes con fuente; alturas contrastadas en dos fuentes (con aviso de discrepancia en dos casos) |
+| 21 · Por qué la aman | ✅ | Premios, notas de crítica y ventas con fuente; dos escenas que hacen llorar con música confirmada por capturas reales del juego |
+| 22 · Fan dubs y comunidad hispana | ✅ | Proyecto de fandub más grande documentado a fondo (estado, alcance, fuentes) + dos propuestas de fan-casting, claramente marcadas como no oficiales |
+
+Sigue: en el punto 13, conseguir fotogramas propios (con minuto) de rabia, tristeza, miedo y vergüenza de los personajes principales — se necesita un episodio completo del anime o más tiempo de búsqueda dirigida (ver detalle y lo ya probado en «No encontré»).

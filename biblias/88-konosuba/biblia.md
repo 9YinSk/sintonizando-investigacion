@@ -502,3 +502,137 @@ Fuente principal: fichas completas de la wiki en inglés ([Kazuma](https://konos
 
 Falta la cara de **vergüenza de Darkness** con fotograma propio ⚠️ (en la T2 ep. 2 casi no sale).
 
+## 14 · Poses analizadas
+
+Los minutos son del clip citado. Las ilustraciones y capturas de la wiki van con su número de hoja y su enlace. Clips: «last fight» = [x4wslwi](https://www.dailymotion.com/video/x4wslwi); «recopilación Aqua» = [x9ta1ve](https://www.dailymotion.com/video/x9ta1ve); «origen» = [x8prbvb](https://www.dailymotion.com/video/x8prbvb); «gólem» = [x5wd601](https://www.dailymotion.com/video/x5wd601).
+
+### Kazuma
+
+| Dónde | Minuto | Qué hace | Sirve para |
+|---|---|---|---|
+| last fight | 1:00 | Señala al enemigo y alza una ceja para picar a Megumin | Animar, retar |
+| last fight | 1:16 | Camina al lado de Megumin, relajado, de tres cuartos por detrás | Presentar a un dúo |
+| recopilación Aqua | 2:32 | Cara seria y neutra: «esos 300 000 eris son tuyos» | Explicar, negociar |
+| recopilación Aqua | 5:28 | Cara de hastío: «¿a cuántos molestaste hoy?» | Regañar con cariño |
+| gólem | 0:00 | Sorprendido, señala a Darkness con la mano | Reacción cómica |
+| opening 1 | 0:28 | De pie en el campo, tranquilo, mirando a Aqua | Pensar |
+| nº143 [120 Points](https://static.wikia.nocookie.net/konosuba/images/a/ae/120_Points.jpg) | — | Pulgar arriba, guiño y sonrisa grande, cielo azul | **Celebrar, aprobar** |
+| nº22 [Swarp](https://static.wikia.nocookie.net/konosuba/images/f/fe/Swarp.jpg) | — | Mano abierta a media altura, cara de sorpresa, capa verde | Explicar con duda |
+| nº13 [Bringing Wiz](https://static.wikia.nocookie.net/konosuba/images/c/c1/Bringing_Wiz.jpg) | — | Lleva a Wiz a la espalda por la calle | Ayudar, grupo |
+| nº70 [Elegant Kazuma](https://static.wikia.nocookie.net/konosuba/images/b/b2/Elegant_Kazuma.jpg) | — | Traje verde, se ajusta la pajarita, cara seria | Presentar algo formal |
+
+### Aqua
+
+| Dónde | Minuto | Qué hace | Sirve para |
+|---|---|---|---|
+| recopilación Aqua | 0:32 | Señala una rana, sonrisa boba, cabeza ladeada | Comentario ingenuo |
+| recopilación Aqua | 1:12-1:28 | Brazos arriba, ojos cerrados, «¡Purificación!» en bucle | Ritual, gag de repetición |
+| recopilación Aqua | 3:36 | De perfil, manos juntas, «¡Sacred Create Water!» | Momento solemne (raro en ella) |
+| recopilación Aqua | 5:04 | Boca abierta, grito de esfuerzo, «¡God Blow!» | Celebrar con fuerza |
+| recopilación Aqua | 5:20 | Llora exagerada: «¡Sólo fui a los baños!» | Quejarse de una injusticia |
+| recopilación Aqua | 2:16-2:24 | Sentada en el suelo de una jaula, hundida | Derrota, vergüenza |
+| nº14 [Time to Take Action](https://static.wikia.nocookie.net/konosuba/images/9/9a/Time_to_Take_Action.jpg) | — | De pie en una mesa de taberna, puño en alto, gritando | **Animar, arengar** |
+| nº126 [Aqua and her Statue](https://static.wikia.nocookie.net/konosuba/images/8/8d/Aqua_and_her_Statue.jpg) | — | Brazos abiertos del todo ante su estatua, cielo | Presentar a lo grande |
+| nº113 [Aqua Drinking](https://static.wikia.nocookie.net/konosuba/images/8/84/Aqua_Drinking.jpg) | — | Jarra en alto, ojos cerrados, boca abierta | Celebrar, fiesta |
+| nº121 [Adventurer Card](https://static.wikia.nocookie.net/konosuba/images/a/a9/Aqua_Showing_her_Adventurer_Card.jpg) | — | Enseña su carnet de aventurera a cámara | **Explicar una ficha** |
+
+### Megumin
+
+| Dónde | Minuto | Qué hace | Sirve para |
+|---|---|---|---|
+| origen | 0:32 | De perfil, mirando lejos, decidida | Pensar, decidir |
+| origen | 1:36 | Primer plano, ojos rojos brillando | Mostrar poder |
+| origen | 2:32 | Media cara iluminada, recita el conjuro | Discurso teatral |
+| origen | 3:04-3:08 | Brazo y báculo extendidos, capa al viento: «¡Soy Megumin!» | **Presentarse** |
+| last fight | 1:12 | Ceño fruncido, ofendida | Regañar, ofenderse |
+| tráiler T3 | 1:00 | Báculo cruzado en X, capa roja al viento | Pose de acción |
+| gólem | 0:21 | Cara impasible: «vamos a esperar a ver qué pasa» | Indiferencia cómica |
+| nº44 [Megumin Confident](https://static.wikia.nocookie.net/konosuba/images/4/4d/Megumin_Confident.jpg) | — | Sobre una muralla, mano en V junto al ojo, pierna adelantada | **Presentarse, pose de firma** |
+| nº56 [Thrilled Megumin](https://static.wikia.nocookie.net/konosuba/images/9/91/Thrilled_Megumin.jpg) | — | Sonrojada, mano en la barbilla, sonrisa pícara | Tramar algo |
+| nº65 [Fulfilled Megumin](https://static.wikia.nocookie.net/konosuba/images/9/9e/Fulfilled_Megumin.jpg) | — | En la noche, iluminada de naranja, ojos cerrados, satisfecha | Después de la Explosión |
+
+### Darkness
+
+| Dónde | Minuto | Qué hace | Sirve para |
+|---|---|---|---|
+| gólem | 0:06-0:15 | Atrapada en el puño de un gólem, tensa, «¡Qué indecente!» con gusto | **Su gag**: reaccionar |
+| tráiler T3 | 0:32 | Primer plano con armadura, mirada firme | Presentar como guerrera |
+| opening 1 | 1:24 | Espadón en alto sobre la cabeza | Animar al grupo |
+| recopilación Aqua | 1:36-1:44 | Alerta con escudo junto a Megumin y Kazuma | Proteger |
+| [x7yuuzw](https://www.dailymotion.com/video/x7yuuzw?t=55) | 0:55 | Estira el brazo y tira de las mejillas a Aqua, inclinada hacia delante | Regañar |
+| nº42 [Winter Shogun](https://static.wikia.nocookie.net/konosuba/images/e/e3/Facing_the_Winter_Shogun.jpg) | — | Espada en mano, capa de piel, noche con nieve | Plantar cara |
+| nº67 [What is the Destroyer](https://static.wikia.nocookie.net/konosuba/images/d/da/What_is_the_Destroyer.jpg) | — | De pie, segura, delante de un edificio de piedra | Explicar con autoridad |
+| nº12 [Darkness Shows Up](https://static.wikia.nocookie.net/konosuba/images/f/f3/Darkness_Shows_Up.jpg) | — | Llega de noche entre farolas, brazos caídos | Entrada en escena |
+
+**Qué pose para qué:** presentar → Megumin nº44 o el minuto 3:04; explicar → Aqua nº121 o Kazuma 2:32; celebrar → Kazuma nº143 o Aqua nº113; regañar → Kazuma 5:28 o Darkness 0:55; pensar → Megumin 0:32; animar → Aqua nº14 o Darkness con el espadón (opening, 1:24).
+
+## 15 · Vestuario
+
+Colores medidos con Pillow sobre las hojas de modelo de la T3 (fondo aplanado a blanco, parches de 9×9 px para no coger la línea) ✅.
+
+| Personaje | Prenda | Hex |
+|---|---|---|
+| Kazuma | Capa corta verde azulada con capucha | `#357679` |
+| Kazuma | Borde de la capa, crema dorado | `#EDD58E` |
+| Kazuma | Camisa blanca | `#EFF1F0` |
+| Kazuma | Pantalón azul marino | `#4E525E` |
+| Aqua | Vestido azul marino | `#434B88` |
+| Aqua | Lazo del pecho, verde menta | `#71DDBA` |
+| Aqua | Ribete dorado | `#F9CD7B` |
+| Megumin | Vestido rojo | `#C24148` |
+| Megumin | Capa, malva oscuro | `#6A4856` |
+| Megumin | Puños y ribetes dorados | `#F9C667` |
+| Megumin | Botas naranja | `#E36C4C` |
+| Darkness | Armadura dorada | `#FCC046` |
+| Darkness | Falda interior, negro azulado | `#38363B` |
+| Darkness | Hombrera marfil | `#F3E3E4` |
+| Darkness de mucama (nº11) | Vestido y mangas negros | `#322F34` y `#38363D` |
+| Darkness de mucama (nº11) | Cofia blanca | `#EAE6E0` |
+| Darkness de mucama (nº11) | Medias negras | `#302D35` |
+| Darkness con vestido de volantes (nº10) | Blusa blanca | `#F1F3F4` |
+| Darkness con vestido de volantes (nº10) | Lazo verde | `#44BC96` |
+| Darkness con vestido de volantes (nº10) | Falda rosa | `#ED908C` ⚠️ |
+| Darkness de novia | Casi blanco | `#F0F2F0` y `#E6E7E5` |
+
+**Corrección:** la parte de imagen midió el «traje de mucama» sobre `Darkness_Still_Refuses.jpg`, pero esa imagen es el **vestido de volantes** (nº10), no la mucama (nº11). Sus tres hex (`#414050`, `#F7E4B6`, `#9A1F16`) no son de un traje de mucama: salen sobre todo del fondo (alfombra roja, un traje gris) y de los volantes. Los volví a medir yo con Pillow (parches de 17 px) sobre [Maid_Darkness.jpg](https://static.wikia.nocookie.net/konosuba/images/5/56/Maid_Darkness.jpg) y [Darkness_Still_Refuses.jpg](https://static.wikia.nocookie.net/konosuba/images/3/36/Darkness_Still_Refuses.jpg). La falda rosa lleva ⚠️ porque el parche cogía algo de sombra.
+
+**Peinado y accesorios** (vistos en las hojas de modelo):
+
+- **Kazuma:** pelo castaño corto y despeinado; cinturón marrón con hebilla; espada corta envainada. Cejas en V.
+- **Aqua:** pelo azul muy largo con un aro recogido arriba y una esfera azul; mangas sueltas; medias hasta el muslo; báculo con gema.
+- **Megumin:** pelo castaño oscuro **corto**, con dos mechones y adornos dorados a los lados; sombrero de bruja marrón con banda naranja en zigzag; gargantilla; guantes sin dedos; venda blanca en una pierna; báculo con esfera roja. Ojos rojos.
+- **Darkness:** pelo rubio en coleta alta con adorno en X; guantes negros largos; espadón a dos manos.
+
+**Trajes por arco:** Darkness de mucama (nº11), con vestido de volantes (nº10), de novia (T3, nº23 y nº74), con kimono (fan art); Kazuma de traje verde (nº70); Aqua de invierno (nº34); Megumin y Yunyun de conejitas (nº26, no apta).
+
+**El traje icónico** es el de portada y opening de la tabla. Es el del 90 % del merchandising ⚠️ (a ojo, sin encuesta).
+
+**Patrón propio:** el aspa dorada del sombrero de Megumin y la X del pelo de Darkness son el mismo tipo de símbolo. El borde de la capa de Megumin es una fila de rombos dentados dorados ✅.
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+Cuatro sitios con paleta medida con `estilo.py` sobre capturas de la wiki ✅:
+
+- **Axel**, la ciudad base, a mediodía: cielo `#A1DAF3`, piedra clara `#EEECE6` y `#CAB59F`, tejados grises `#686B6E` ([Axel_Main_Church.jpg](https://static.wikia.nocookie.net/konosuba/images/6/67/Axel_Main_Church.jpg), 1820×1480). Luz cálida de día.
+- **Aldea de los Demonios Carmesí**, el pueblo de Megumin, al atardecer: naranja quemado `#7E3C0F`, dorado `#EEC96E` y `#A77A17`, tejas `#A24F2C`. Saturación 63 %: la paleta más cálida ([imagen](https://static.wikia.nocookie.net/konosuba/images/f/f9/Crimson_Demon_Village_Buildings.png), 2048×1310). Ver también nº75 «Arriving in the Village».
+- **Tienda de Wiz**, interior en penumbra con velas: `#40342F`, `#221B1B`, madera `#644A3D` y un único punto de luz crema `#EFE3C0`. Lo más oscuro (brillo 51 %) ([imagen](https://static.wikia.nocookie.net/konosuba/images/d/dc/Wiz_Shop_Interior.png)).
+- **Castillo real de Belzerg**, por dentro, luz fría: `#6091B2`, `#507A8E`, verde piedra `#89AC97`, crema `#E4E3CE` ([imagen](https://static.wikia.nocookie.net/konosuba/images/6/6d/Royal_Castle.jpg), 1920×1080).
+- Más sitios del punto 4: el castillo al atardecer, el campo con muralla, la mansión y la puerta de Axel. Y del ending 1: Axel desde el río, con puente y molinos (22:50).
+
+**Hora del día típica:** mediodía claro para Axel y el grupo; atardecer dorado para la aldea carmesí y los momentos épicos; noche con farolas para las escenas de Darkness (nº12, nº42) y de Megumin tras la Explosión (nº65).
+
+**Fondos de pantalla de fans en alta** ([Wallhaven](https://w.wallhaven.cc/full/k9/wallhaven-k9l3jd.png), sólo aptos) ✅:
+
+| Tamaño | ♥ | Enlace | Qué es | Subido por | Origen |
+|---|---|---|---|---|---|
+| 1920×1080 | 453 | [k9l3jd](https://w.wallhaven.cc/full/k9/wallhaven-k9l3jd.png) | Megumin bruja, el más guardado | Jeko98 | [alphacoders](https://wall.alphacoders.com/big.php?i=782992) |
+| 1920×1200 | 344 | [j89655](https://w.wallhaven.cc/full/j8/wallhaven-j89655.jpg) | Megumin | drobbe | Pixiv |
+| 2339×3508 | 273 | [r2xxvw](https://w.wallhaven.cc/full/r2/wallhaven-r2xxvw.jpg) | Megumin vertical (móvil) | ThorRagnarok | [Pixiv](https://www.pixiv.net/en/artworks/79735954) |
+| 4096×2542 | 215 | [7312je](https://w.wallhaven.cc/full/73/wallhaven-7312je.jpg) | *Isekai Quartet* | Dokkar | cuenta oficial |
+| 2793×4000 | 192 | [l3g8w2](https://w.wallhaven.cc/full/l3/wallhaven-l3g8w2.jpg) | Darkness con kimono | ThorRagnarok | zarory |
+| 3440×1440 | 172 | [1pzkk3](https://w.wallhaven.cc/full/1p/wallhaven-1pzkk3.png) | Cruce con *Frieren* y *Dungeon Meshi*, ultrapanorámico | Owl279 | [Pixiv](https://www.pixiv.net/artworks/121786919) |
+| 2339×3508 | 156 | [mdveoy](https://w.wallhaven.cc/full/md/wallhaven-mdveoy.jpg) | Aqua vertical | ThorRagnarok | Pixiv |
+| 4096×2444 | 141 | [9orkjd](https://w.wallhaven.cc/full/9o/wallhaven-9orkjd.jpg) | Megumin con báculo | Ramces | X |
+
+No hay fondos de pantalla oficiales descargables de Kadokawa ni de Crunchyroll ⚠️ (buscado en inglés y español).
+

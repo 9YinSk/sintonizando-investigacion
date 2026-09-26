@@ -43,5 +43,32 @@
     "que_es": "Tráiler VO corto (0:30), ya visto fotograma a fotograma por la biblia hermana; se reconfirma como fuente principal de tráiler",
     "para_que": "Vídeos y tráileres oficiales (punto 10)",
     "licencia": "Material promocional oficial redistribuido por medio de prensa"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War_season_1",
+    "fuente": "Wikipedia (en), «Kaguya-sama: Love Is War season 1»",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha de la T1: director (Mamoru Hatakeyama), estudio (A-1 Pictures), compositor (Kei Haneoka), fechas de emisión (12-ene a 30-mar-2019) e intérpretes exactos del OP «Love Dramatic feat. Rikka Ihara» (Masayuki Suzuki, Rikka Ihara, Yoshiki Mizuno) y del ED «Sentimental Crisis» (Halca)",
+    "para_que": "Segunda fuente de texto para música y sonido (punto 9), confirma lo ya visto en pantalla en el episodio 2",
+    "licencia": "Wikipedia, CC BY-SA"
+  },
+  {
+    "url": "https://musicbrainz.org/release-group/20231932-89cd-4306-93d8-5987ab273576",
+    "fuente": "MusicBrainz, release-group «センチメンタルクライシス» (Sentimental Crisis)",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha discográfica del ending «Sentimental Crisis» de halca: single, sello SACRA MUSIC, publicado 2019-02-20",
+    "para_que": "Segunda fuente propia (no sólo texto) para el ending del punto 9, con fecha exacta de publicación",
+    "licencia": "MusicBrainz, CC0/dominio público de los datos"
+  },
+  {
+    "url": "https://anilist.co/anime/101921",
+    "fuente": "AniList, ficha 101921 de Kaguya-sama: Love is War",
+    "ancho": 0,
+    "alto": 0,
+    "que_es": "Ficha oficial con el tráiler de YouTube (IwpJJiQkZzI), la web japonesa (kaguya.love/1st) y los enlaces de streaming (Crunchyroll, Netflix, iQ)",
+    "para_que": "Fuente propia para diferenciar el tráiler oficial de YouTube del recorte de Turner en Internet Archive (punto 10)",
+    "licencia": "AniList, datos de la comunidad bajo su API pública"
   }
 ]

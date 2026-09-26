@@ -305,3 +305,180 @@ Confirmado con la wiki (página de cada tema) y visto en los episodios.
 - Mezclar con la película de imagen real o con el musical: son otras versiones.
 - No hay lista oficial de memes. TV Tropes al principio dio 403; luego se leyó con `navegar.py` arreglado (parte de texto). ⚠️
 
+## 13 · Cada personaje a fondo
+
+Las frases son del **audio japonés con subtítulos de fans en inglés** (no hay doblaje latino aún). Vistas y oídas en el Ep. 1 completo ([BDRip en Internet Archive](https://archive.org/details/lns-tsundere-shigatsu-wa-kimi-no-uso-01-bdrip-h-264-1920x-1080-10bit-flac-5506-b-58-e.-360)) y en el rip de la serie.
+
+### Kousei Arima · el protagonista
+
+- **Quién es.** Ex niño prodigio del piano, «el metrónomo humano». Calmado, introspectivo, algo ausente. ✅ ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kousei_Arima) y [AniList](https://anilist.co/character/69407))
+- **Su herida.** Su madre lo entrenó con dureza y a veces lo golpeaba. Tras su muerte dejó de oír su piano.
+- **Su miedo.** Repetir el trauma y no ser «suficiente».
+- **Qué le importa.** La música y sus tres amigos, aunque no lo diga.
+- **Qué transmite.** Tristeza callada al principio; alivio y ternura cuando vuelve a tocar. Da ganas de abrazarlo.
+- **Su arco.** De un mundo monótono a recuperar color y sonido gracias a Kaori. Aprende que puede amar y ser amado.
+- **Momentos clave.** Ep. 3, 18:00, toca a oscuras. Ep. 22, 20:00, lee la carta.
+- **Cómo habla.** Frases cortas, autocríticas, muchas en voz en off. «No one's gonna bother falling in love with me» (Ep. 1, 7:40), de perfil, mirando al suelo. ✅
+- **De niño.** «If it'll make you better…» (Ep. 1, 13:40), voz temblorosa, sonrisa forzada. ✅
+- **Cuerpo.** Hombros caídos y mirada baja cuando sufre. De niño, postura rígida y perfecta al piano. Tras Kaori, más suelto.
+
+### Kaori Miyazono · la más querida
+
+- **Quién es.** Violinista libre, independiente, impredecible. Carácter fuerte, hasta agresiva si la ofenden. Ayuda sin pedir nada. ✅ ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kaori_Miyazono))
+- **Cómo toca.** «Mal» según la partitura, pero conmueve: pone la emoción antes que la técnica.
+- **Su secreto.** Sabe que está enferma y por eso vive a toda velocidad.
+- **Qué transmite.** Energía contagiosa. Al saber su historia, una tristeza muy honda.
+- **Su arco.** Entra en la vida apagada de Kousei para devolverle la música. Muere tras una operación. Su carta revela que siempre lo amó a él, no a Watari.
+- **Cómo habla.** Explosiva cuando se enfada: «Dirty little camera creep! You won't get away with this, you perv!» (Ep. 1, 18:20), ojos rojos afilados, un megáfono como arma. ✅
+- **Cómo saluda.** «Nice to meet you!» (Ep. 1, 19:00), sonrisa enorme con ojos cerrados, fondo de rosas. ✅
+- **Cómo ríe y explica.** Ríe fuerte y abierta. Cuando habla de música se pone seria y directa, como un reto.
+
+### Tsubaki Sawabe · la amiga de siempre
+
+- **Quién es.** Vecina y amiga de la infancia de Kousei. Lo trata como a un hermano menor, pero está enamorada de él. Jugadora de sóftbol. ✅ ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Tsubaki_Sawabe))
+- **Qué le importa.** Que Kousei vuelva a ser feliz. Se enfada rápido y se le pasa rápido.
+- **Qué transmite.** Calidez y preocupación. Da ternura verla negar lo que siente.
+- **Su arco.** Descubre que ama a Kousei justo cuando él se aleja hacia Kaori. Se lo dice en el Ep. 20.
+- **Cómo habla.** Directa y campechana con los chicos; torpe cuando roza sus sentimientos. «If there's a lull in conversation, you could talk about instruments and stuff» (Ep. 1, 12:55), sonrojada. ✅
+- Regaña: «Doesn't your youth mean anything to you?» (Ep. 1, 11:00, fotogramas_03 #8).
+
+### Ryota Watari · el alegre
+
+- **Quién es.** Amigo de la infancia, capitán del equipo de fútbol, popular y coqueto. Por dentro, frágil e inseguro. ✅ ([wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Ryota_Watari))
+- **Qué transmite.** Ligereza y humor: alivia las escenas pesadas.
+- **Cómo habla.** «Oh, stop! You flatter me!» (Ep. 1, 19:40), con fondo de corazones. «Sweet! I got a text from Keiko!» (Ep. 1, 7:00). ✅
+- **Su momento serio.** Ep. 17, 8:55-9:10: confiesa a Kousei «I don't think I'm the one for Kaori». ✅
+- **Cuerpo.** Choca la mano, palmea el hombro. Corbata floja, camisa fuera.
+
+### Dinámicas para láminas en grupo
+
+- Watari hace reír a Kousei y rompe la tensión.
+- Tsubaki discute con Watari cuando él «usa» a las chicas.
+- Kaori arrastra a Kousei fuera de su zona de confort.
+- Tsubaki y Kousei: complicidad silenciosa de vecinos de toda la vida.
+- Fuente: [relaciones en la wiki](https://shigatsu-wa-kimi-no-uso.fandom.com/wiki/Kousei_Arima#Relationships). ✅
+
+### Su cara en cada emoción
+
+| Personaje | Emoción | Episodio · minuto | Dónde verla | Estado |
+|---|---|---|---|---|
+| Kaori | Alegría | Ep. 1 · 19:00 | fotogramas_03 #1 | ✅ |
+| Kaori | Rabia | Ep. 1 · 18:20 | [Ep. 1, t=1100](https://archive.org/details/lns-tsundere-shigatsu-wa-kimi-no-uso-01-bdrip-h-264-1920x-1080-10bit-flac-5506-b-58-e.-360) | ✅ |
+| Kaori | Tristeza | Ep. 3 · 20:00 | fotogramas_03 #6 | ✅ |
+| Kaori | Ánimo, ojos de estrella | archivo «Ep6 - Courage!» | personajes_01 #15-16 | ⚠️ sin minuto |
+| Kaori | Travesura, dedo en los labios («That's how you make the most beautiful lie») | sin episodio | personajes_02 #53 | ⚠️ |
+| Kousei | Tristeza | Ep. 1 · 7:40 | Ep. 1, t=460 | ✅ |
+| Kousei | Miedo (niño) | Ep. 1 · 13:40 | Ep. 1, t=820 | ✅ |
+| Kousei | Susto cómico | Ep. 1 · 11:00 | fotogramas_03 #8 | ✅ |
+| Kousei | Alegría, risa | sin episodio | personajes_01 #21 y #29 | ⚠️ |
+| Kousei | Pánico (océano oscuro) | sin episodio | personajes_01 #22 | ⚠️ |
+| Tsubaki | Vergüenza | Ep. 1 · 12:55 | Ep. 1, t=775 | ✅ |
+| Tsubaki | Rabia (regaña) | Ep. 1 · 11:00 | fotogramas_03 #8 | ✅ |
+| Tsubaki | Alegría | Ep. 6 · 4:00 | fotogramas_03 #18 | ✅ |
+| Watari | Alegría | Ep. 1 · 7:00 | fotogramas_03 #13 | ✅ |
+| Watari | Seriedad, vulnerable | Ep. 17 · 8:55 | [Ep. 17](https://archive.org/download/EVYourLieinApril/17.mp4#t=535) | ✅ |
+
+Faltan: miedo y vergüenza de Kousei adulto; rabia y tristeza de Watari. ⚠️ No salieron en los episodios revisados.
+
+## 14 · Poses por personaje
+
+Fotogramas propios del rip de [Internet Archive](https://archive.org/details/EVYourLieinApril), mirados uno a uno. Identidad comprobada con los retratos de AniList: Kousei pelo azul oscuro y gafas; Kaori rubia; Watari castaño anaranjado sin gafas; Tsubaki castaña corta.
+
+**Corrección importante al mirar la hoja `fotogramas_03`:** tres planos que la parte de vídeo daba a otro personaje no son suyos.
+- Ep. 2, 1:04 (OP) es **Watari** pensativo, no Kousei (#14).
+- Ep. 3, 21:00 («If you need time to prepare, you got it!») es **Watari** inclinado, no Kousei (#15).
+- Ep. 10, 8:00 («Is this the Arima I know?») es **Takeshi Aiza**, no Watari (#16).
+
+### Kaori
+
+| Pose | Ep. · min | Manos, mirada, gesto | Sirve para | Hoja |
+|---|---|---|---|---|
+| «Nice to meet you!» entre rosas | 1 · 19:00 | ojos cerrados, sonrisa enorme | **presentar** | fotogramas_03 #1 |
+| De perfil bajo los cerezos | 1 · 20:30 | mejilla ladeada, mirada de reojo | presentar, celebrar | #2 |
+| Puño en alto (OP) | 2 · 0:40 | brazo doblado, sonrisa pícara | **animar** | #3 |
+| Toca el violín en el escenario | 2 · 9:00 | cuerpo inclinado hacia el instrumento | explicar | #4 |
+| Señala al frente, sonrisa de lado | 6 · 5:00 | índice hacia el que mira, mano en la cadera | **explicar**, animar, **regañar** | #5 |
+| Llora con el puño en el ojo | 3 · 20:00 | hombros caídos | vulnerable (la más citada) | #6 |
+| Salta descalza (PV2) | tráiler · 1:15 | de espaldas, pelo al viento | **celebrar** | — |
+
+### Kousei
+
+| Pose | Ep. · min | Manos, mirada, gesto | Sirve para | Hoja |
+|---|---|---|---|---|
+| Solo al piano, a oscuras | 3 · 18:00 | cabeza hundida sobre el teclado | **pensar** | #9 |
+| Cansado, ojos entrecerrados, junto a Tsubaki | 1 · 7:05 | de perfil, sin fuerza | pensar | #7 |
+| Se encoge con manos arriba y sudor (gag) | 1 · 11:00 | susto cómico | humor | #8 |
+| De pie detrás de Kaori, manos a la espalda (OP) | 2 · 0:40 | tímido | presentar en pareja | #3 |
+| Al piano de cola con niños en su cuarto | 22 · 18:00 | sentado, relajado | **explicar** (enseñar) | #10 |
+| Lee la carta, serio, cerezos | 22 · 20:00 | papel en las manos | pensar, explicar | #11 |
+
+### Tsubaki
+
+| Pose | Ep. · min | Manos, mirada, gesto | Sirve para | Hoja |
+|---|---|---|---|---|
+| Mano en la cintura, índice a Kousei, marcas de enfado | 1 · 11:00 | de espaldas, brazo estirado | **regañar** | #8 |
+| En la grada, inclinada, explicando la «Kreutzer» | 2 · 10:00 | boca abierta, hacia delante | **explicar** | #12 |
+| De espaldas con el trío bajo los cerezos | 1 · 6:00 | mochila de tirantes rojos | presentar | #17 |
+| Gorra y guante de sóftbol, ojos entornados | 6 · 4:00 | guante alzado, sonrisa | **celebrar**, animar | #18 |
+| Corre descalza de noche con los zapatos en la mano | 14 · 20:00 | pelo al viento, sonriendo | celebrar | [Ep. 14](https://archive.org/download/EVYourLieinApril/14.mp4#t=1200) |
+| Brazos cruzados, cabeza ladeada, escéptica | 19 · ~19:30 | entre Takeshi y Kousei | explicar con duda | ⚠️ minuto ±10 s |
+
+### Watari
+
+| Pose | Ep. · min | Manos, mirada, gesto | Sirve para | Hoja |
+|---|---|---|---|---|
+| Móvil rojo pegado a la cara, cejas arriba («Sweet! I got a text from Keiko!») | 1 · 7:00 | sonrisa amplia | **celebrar**, animar | #13 |
+| En la grada, riendo, junto a Tsubaki y Kousei | 2 · 10:00 | boca abierta | reaccionar | #12 |
+| Pensativo, mano en la barbilla (OP) | 2 · 1:04 | mira arriba | **pensar** | #14 |
+| Inclinado hacia delante («If you need time to prepare, you got it!») | 3 · 21:00 | brazo tendido | **animar** | #15 |
+| En cuclillas con la camiseta n.º 11, como si cantara (PV2) | tráiler · 0:45 | aparato pegado a la boca | celebrar, **karaoke** | ⚠️ la parte dice «micrófono» y «teléfono» |
+| Manos en los bolsillos ante el tablón de resultados | 11 · 9:00 | semiperfil | explicar | [Ep. 11](https://archive.org/download/EVYourLieinApril/11.mp4#t=540) |
+| Serio, cabeza gacha, confiesa sobre Kaori | 17 · 8:55 | primer plano | confesar | — |
+| Pulgar arriba, sonrisa (arte de la wiki) | — | pulgar, guiño | **animar** | personajes_01 #42 |
+
+## 15 · Vestuario y colores
+
+Uniforme del Colegio Sumiya para los cuatro: **saco gris, camisa celeste, corbata roja y blanca a rayas**. Hex medidos con Pillow, recorte por prenda. Ojo: la luz de atardecer tiñe todo de naranja; se marca.
+
+| Personaje | Prenda | Hex | De qué imagen |
+|---|---|---|---|
+| Kaori | Cárdigan gris (el look icónico con violín) | #9C9F9E | key visual, personajes_01 #9 |
+| Kaori | Top celeste bajo el cárdigan | #BBE2EC | ídem |
+| Kaori | Falda a cuadros gris y negro | #8A898A | ídem |
+| Kaori | Medias azul marino | #3A323E | ídem |
+| Kaori | Mocasines marrón oscuro | #5C4138 | ídem |
+| Kaori | Saco escolar gris | #B0A48E ⚠️ luz cálida | infobox de la wiki |
+| Kaori | Camisa celeste | #BFCBCD ⚠️ luz cálida | ídem |
+| Tsubaki | Saco escolar gris | #879096 | credencial |
+| Tsubaki | Camisa celeste | #AACCDC | credencial |
+| Tsubaki | Corbata roja | #D06A4E ⚠️ el real es más rojo | fotograma de la wiki |
+| Tsubaki | Camiseta blanca de sóftbol | #DADCDB | «Softballtsubaki.png» |
+| Tsubaki | Cuello rojo de sóftbol | #C7465F | ídem |
+| Tsubaki | Pelo castaño | #593A29 | ídem |
+| Watari | Saco gris desalineado | #918D81 | credencial |
+| Watari | Camisa celeste | #B0BEBE | credencial |
+| Kousei | Mismo uniforme | usar los de Tsubaki y Watari ⚠️ | sus imágenes están a contraluz |
+
+- **Ropa icónica:** Kaori con cárdigan gris, top celeste y violín (personajes_01 #9). Kaori en concierto con **vestido blanco o rosa** (personajes_01 #34, #35; fotogramas_03 #4). Kousei en concierto con **traje azul** (personajes_01 #18-19). Tsubaki con uniforme de sóftbol y gorra blanca (fotogramas_03 #18). Watari con la camiseta de fútbol n.º 11.
+- Kousei casual: polo azul oscuro, camisa gris encima, pantalón caqui (sólo descripción de la wiki). ⚠️
+- Kaori de niña: vestido rosa, pelo al mentón; a los 12 años, gafas negras gruesas y coletas bajas. ⚠️ sin imagen.
+- **Objetos:** lentes de pasta negra de Kousei; violín y maletita rosa de Kaori; mochila de tirantes rojos de Tsubaki; móvil rojo de tapa de Watari (fotogramas_03 #13).
+
+## 16 · Ciudades, paisajes y fondos de pantalla
+
+Los sitios y su luz están en el punto 4. Aquí, fondos de pantalla en alta, todos de fans en [Wallhaven](https://wallhaven.cc).
+
+| Motivo | Tamaño | Autor | Enlace |
+|---|---|---|---|
+| Kousei con piano entre cielo y nubes | 3840×2160 | canadianakin | [imagen](https://w.wallhaven.cc/full/j8/wallhaven-j8x1yw.jpg) |
+| Kaori y Kousei con gatos (deja aire arriba para texto) | 5414×3045 | Deireadh | [imagen](https://w.wallhaven.cc/full/0q/wallhaven-0qwmqq.jpg) |
+| Arte digital de fan | 3840×3070 | Jakkeriy | [imagen](https://w.wallhaven.cc/full/lm/wallhaven-lmr2qq.jpg) |
+| Kaori y Kousei con piano y violín | 1920×1080 | Reym | [imagen](https://w.wallhaven.cc/full/lq/wallhaven-lqmrwl.png) |
+| Kaori con violín y vestido, ojos cerrados | 1920×1080 | canadianakin | [imagen](https://w.wallhaven.cc/full/gj/wallhaven-gjpqdq.png) |
+| Piano y notas, tono cian | 2171×1220 | Zeref | [imagen](https://w.wallhaven.cc/full/qd/wallhaven-qd6ew7.jpg) |
+| Kaori y Kousei, gran formato | 3500×2450 | Enlightenment | [imagen](https://w.wallhaven.cc/full/ne/wallhaven-nej6gr.jpg) |
+| Kaori con violín, fondo simple (origen [4chan /w/](https://boards.4chan.org/w/catalog)) | 1920×1080 | ludendorf | [imagen](https://w.wallhaven.cc/full/4x/wallhaven-4xx76l.jpg) |
+
+- **Fondos oficiales descargables:** no se hallaron. Aniplex y Crunchyroll no los publican; sólo el banner de AniList (punto 1). ⚠️
+- **Hora del día típica:** tarde dorada en la calle y el colegio; noche azul sólo en el camino de Kaori; luz cálida cenital en el cuarto del piano; luz de escenario en Towa Hall.
+

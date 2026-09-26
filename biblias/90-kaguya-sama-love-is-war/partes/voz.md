@@ -21,24 +21,36 @@ escenas que hacen **reír**, no llorar (43 ya cubrió el llanto).
 43 ya cubrió las 3 encuestas japonesas (nlab, ranking.net, subculwalker) y
 AniList a fondo — mismo patrón: Shirogane último, Hayasaka/Ishigami/Miko por
 delante. Dato nuevo, ligado a comedia: **Chika Fujiwara tiene su propia
-página en Wikipedia en inglés** (`en.wikipedia.org/wiki/Chika_Fujiwara`),
-algo que muy pocos personajes secundarios de un anime logran — la propia
-página lo dice: *"Chika has become an extremely popular and somewhat of a
-breakout character in anime and manga fandom"* ✅ (en.wikipedia.org/wiki/Chika_Fujiwara,
-que a su vez cita Crunchyroll Anime Awards y Anime News Network — dos fuentes
-primarias detrás del resumen de Wikipedia).
-- **Nominada a "Best Girl" en los 4º Crunchyroll Anime Awards** (2019-2020) ✅.
-- El propio autor **Aka Akasaka**, en entrevista de **febrero de 2020**
-  (citada por Wikipedia con la revista de origen), explica por qué Chika casi
-  no tiene monólogos internos como el resto: *"Fujiwara is exactly who she
-  is. She doesn't harbor any darkness (...) I draw Fujiwara like she's
-  everyone's heroine. Please feel free to like her."* — y admite que **él
-  mismo se parece a Chika**, porque ama los juegos de mesa alemanes y actúa
-  como ella cuando recibe visita de amigos o familia ✅ — dato de creación
-  directo del autor, no de la wiki de fans.
+página en Wikipedia en inglés**, algo que muy pocos personajes secundarios de
+un anime logran — la propia página lo dice: *"Chika has become an extremely
+popular and somewhat of a breakout character in anime and manga fandom"* ✅
+fuente: https://en.wikipedia.org/wiki/Chika_Fujiwara (sección «Popularity»;
+página comprobada 26-sep-2026, HTTP 200).
+- **Nominada a "Best Girl" en los 4º Crunchyroll Anime Awards** (2019-2020)
+  ✅ misma fuente: https://en.wikipedia.org/wiki/Chika_Fujiwara (sección
+  «Popularity», nota 22).
+- El propio autor **Aka Akasaka**, en entrevista de **16 de febrero de 2020**
+  con Daisuke Okamoto (la cita Wikipedia en la nota 3 de esa misma página),
+  explica por qué Chika casi no tiene monólogos internos como el resto:
+  *"Fujiwara is exactly who she is. She doesn't harbor any darkness (...) I
+  draw Fujiwara like she's everyone's heroine. Please feel free to like
+  her."* — y admite que **él mismo se parece a Chika**, porque ama los juegos
+  de mesa alemanes y actúa como ella cuando recibe visita de amigos o familia
+  ✅ fuente 1: https://guya.moe/pages/livedoor-aka-akasaka-interview/ (la
+  entrevista original traducida) · fuente 2:
+  https://en.wikipedia.org/wiki/Chika_Fujiwara (nota 3, que cita esa misma
+  entrevista) — dato de creación directo del autor, no de la wiki de fans.
 - Cosplay: su popularidad la volvió **una de las más cosplayeadas** de la
-  serie entre fans mujeres; Good Smile Company le sacó Nendoroid y Figma, y
-  Crunchyroll sacó una figura a escala 1/7 en 2020 ✅ (mismo artículo).
+  serie entre fans mujeres ✅ fuente 1:
+  https://www.bitme.gg/noticias/cultura-geek/cosplay-nos-muestra-a-la-simpatica-chika-fujiwara-de-kaguya-sama-love-is-war/
+  · fuente 2:
+  https://codigoespagueti.com/noticias/cultura/kaguya-sama-chica-consigue-un-increible-cosplay-de-chika-fujiwara/
+  (ambas citadas en https://en.wikipedia.org/wiki/Chika_Fujiwara, notas 20-21).
+  Good Smile Company le sacó Nendoroid
+  (https://www.goodsmile.com/en/product/9336/Nendoroid+Doll+Chika+Fujiwara) y
+  Figma (https://www.goodsmile.com/en/product/9407/figma+Chika+Fujiwara), y
+  Crunchyroll sacó una figura a escala 1/7 en 2020 ✅
+  https://www.crunchyroll.com/news/latest/2020/7/2/take-chika-fujiwara-from-kaguya-sama-love-is-war-to-the-beach-with-her-newest-17-scale-figure
 
 ### Punto 8 — Doblaje latino (dos fuentes por nombre) y frases textuales
 
@@ -46,26 +58,33 @@ primarias detrás del resumen de Wikipedia).
 Aquí sumo **3 secundarios que 43 dejó en ⚠️ (una sola fuente)** — ahora con
 segunda fuente independiente (`funianime.com`, reparto publicado el
 26-jul-2021 al estrenarse el doblaje en Funimation, y `anmtvla.com`, tráiler
-doblado de la película, feb-2023) — y **transcribo con `voz.py` 6 muestras de
-audio que 43 no había oído** (todas cómicas: la hermana rebelde, la pareja
-"empalagosa" del consejo, el mayordomo francés estricto, la compañera
-silenciosa y el padre de Miyuki):
+doblado de la película, feb-2023, ambas comprobadas por texto el
+26-sep-2026) — y **transcribo con `voz.py` 6 muestras de audio que 43 no
+había oído** (todas cómicas: la hermana rebelde, la pareja "empalagosa" del
+consejo, el mayordomo francés estricto, la compañera silenciosa y el padre de
+Miyuki):
 
 | Personaje | Seiyū | Voz latina | Fuente 1 | Fuente 2 |
 |---|---|---|---|---|
-| Kei Shirogane | Sayumi Suzushiro | **Amanda Hinojosa** | ✅ Doblaje Wiki | ✅ funianime.com/este-es-el-cast-de-kaguya-sama-love-is-war/ |
-| Tsubasa Tanuma | Taku Yashiro | **Diego Becerril** | ✅ Doblaje Wiki | ✅ funianime.com (mismo artículo) |
-| Nagisa Kashiwagi | Momo Asakura | **Yaha Lima** | ✅ Doblaje Wiki | ✅ anmtvla.com/2023/02/kaguya-sama-love-is-war-first-kiss-that_7.html (reparto de la película) |
-| Adolphe Pescarolo | Itaru Yamamoto | Raúl Anaya | ⚠️ sólo Doblaje Wiki | — (no aparece en artículos de reparto: personaje muy secundario, un solo episodio) |
-| Kobachi Osaragi | Rina Hidaka | Jocelyn Robles | ⚠️ sólo Doblaje Wiki | — |
-| Sr. Shirogane (padre) | Takehito Koyasu | Rafael Pacheco | ⚠️ sólo Doblaje Wiki | — |
+| Kei Shirogane | Sayumi Suzushiro | **Amanda Hinojosa** | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) | ✅ [funianime.com](https://funianime.com/este-es-el-cast-de-kaguya-sama-love-is-war/) — «Amanda Hinojosa como Kei Shirogane», 26-jul-2021 |
+| Tsubasa Tanuma | Taku Yashiro | **Diego Becerril** | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) | ✅ [funianime.com](https://funianime.com/este-es-el-cast-de-kaguya-sama-love-is-war/) — «Diego Becerril como Tsubasa Tanuma» (mismo artículo) |
+| Nagisa Kashiwagi | Momo Asakura | **Yaha Lima** | ✅ [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) | ✅ [anmtvla.com](https://www.anmtvla.com/2023/02/kaguya-sama-love-is-war-first-kiss-that_7.html) — «Yaha Lima como Nagisa Kashiwagi» (reparto de la película) |
+| Adolphe Pescarolo | Itaru Yamamoto | Raúl Anaya | ⚠️ sólo [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) | — (no aparece en funianime.com ni anmtvla.com: personaje muy secundario, un solo episodio; búsqueda web sin resultado adicional) |
+| Kobachi Osaragi | Rina Hidaka | Jocelyn Robles | ⚠️ sólo [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) | — (misma búsqueda, sin resultado adicional) |
+| Sr. Shirogane (padre) | Takehito Koyasu | Rafael Pacheco | ⚠️ sólo [Doblaje Wiki](https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War) | — (misma búsqueda, sin resultado adicional) |
 
 **Premio de doblaje que 43 no encontró**: **Elizabeth Infante (voz de Chika)
 fue nominada a Mejor Interpretación de Voz en Español en los 7º Crunchyroll
 Anime Awards (2023)** por su trabajo en *Ultra Romantic* — perdió contra
 **Alejandro Orozco** (el propio actor de Ishigami en esta serie), premiado
-por su papel de Gyutaro en *Demon Slayer* ✅ (en.wikipedia.org/wiki/Chika_Fujiwara,
-que cita Crunchyroll; segunda fuente: otakustudy.com/anime/2023/03/winners-of-7th-annual-crunchyroll-anime-awards-unveiled-in-live-ceremony-this-weekend/).
+por su papel de Gyutaro en *Demon Slayer* ✅ fuente 1:
+https://en.wikipedia.org/wiki/Chika_Fujiwara (sección «Popularity», nota 23)
+· fuente 2 (la que cita esa nota, con el detalle completo del premio):
+https://www.animenewsnetwork.com/interest/2023-03-04/all-the-winners-of-the-7th-annual-crunchyroll-anime-awards/.195535
+(esta última devuelve un captcha de seguridad al pedirla desde este
+servidor, tanto por curl como por navegador sin ventana; el dato queda
+confirmado igual porque el wikitexto de Wikipedia trae la cita completa con
+autor, título y fecha).
 Dato curioso para el redactor: dos actores del mismo reparto latino
 compitiendo entre sí en la misma categoría de premios.
 
@@ -80,7 +99,10 @@ actor imitando acento francés):
   los clubes, escuché un rumor: un presidente del Consejo recién llegado a la
   escuela tuvo que salir del país por desafiar a los líderes de los
   clubes."* — voz medida: **registro agudo (258 Hz)**, **muy expresiva (18,9
-  semitonos)**, **rápida (3,14 palabras/s)** ✅ (static.wikia.nocookie.net/doblaje/…/Kei_Shirogane).
+  semitonos)**, **rápida (3,14 palabras/s)** ✅ fuente (muestra oficial de
+  audio, medida con `voz.py`):
+  https://static.wikia.nocookie.net/doblaje/images/4/4e/Kei_Shirogane_%28ESP-LA%29.ogg/revision/latest?cb=20220502182134&path-prefix=es
+  (de https://doblaje.fandom.com/es/wiki/Kaguya-sama%3A_Love_is_War).
   Tono de reportera seria — encaja con su papel de "hermana que sabe más de
   lo que aparenta", un contraste cómico con Miyuki.
 - **Nagisa Kashiwagi** (Yaha Lima), 0:00-0:13: *"No tengo idea de qué hacer

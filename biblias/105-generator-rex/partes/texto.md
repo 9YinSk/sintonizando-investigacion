@@ -20,7 +20,7 @@ angular, todo mayúsculas, con una «O» sustituida por un engranaje de 8 diente
 - Interfaz de videojuego (HUD sci-fi, ver punto 11): letra libre recomendada **Audiowide** (OFL, técnica/futurista, la usa el propio Fontsource en subset latin) · comprobada con fontTools: tildes, ñ, ¿, ¡ completos
 - Subtítulos o créditos (limpia, legible en celular): **Oswald** u **Barlow**-tipo condensada; comprobado con Oswald: completo
 - La serie se dobló al coreano (temporada 1, con intérprete de lengua de señas) bajo el título «제너레이터 렉스»; no hay logo coreano rediseñado documentado, sólo el rótulo estándar de Cartoon Network Korea · https://ko.wikipedia.org/wiki/제너레이터_렉스 · ⚠️ (una fuente, no se encontró el logo coreano en sí) · si hiciera falta letra para hangul en la lámina, libre y con licencia abierta: **Noto Sans KR** (Google Fonts/Fontsource, OFL)
-- Rex Salazar's machines usan carteles «viñeta» al presentarse (splash names como «BFS», «Smack Hands») dentro de los episodios en letra de la misma familia del logo (bloque naranja) · confirmado por captura de video (fotogramas.py, ver «No encontré» sobre acceso al mp4 de escena) · ⚠️ (una fuente, sin minuto exacto propio, lo tiene el investigador de vídeo en sus fotogramas)
+- En el videojuego «Agent of Providence» cada arma de Rex tiene nombre corto en pantalla (BFS, Smack Hands, Slam Cannon, Punk Busters) dentro del HUD de combate; no se pudo confirmar si la serie animada usa el mismo tipo de cartela de nombre de arma en pantalla (no se encontró captura de episodio con ese rótulo) · https://generatorrex.fandom.com/wiki/Generator_Rex:_Agent_of_Providence · ⚠️ (sólo confirmado para el juego, no para la serie; queda en «No encontré» para la serie)
 
 ## 6 · Cuadros de diálogo, cartelas y videojuegos
 
@@ -108,4 +108,35 @@ Fuente de las cinco líneas: https://generatorrex.fandom.com/wiki/Nanite_Event ,
 - Categoría de género oficial «Nanopunk» en Wikipedia: confirma que la estética de la franquicia gira en torno a lo nano/biotecnológico, no a magia ni a robots clásicos · https://en.wikipedia.org/wiki/Generator_Rex · ✅
 - Providence, como organización, tiene certificados, sellos y protocolos con estética burocrática/militar (ver punto 5): el mundo se siente «agencia gubernamental secreta», no laboratorio brillante de ciencia ficción limpia.
 - Historia por arcos (resumen, cruzando wiki + sinopsis del juego): T1 introduce a Rex/Providence y a Van Kleiss como amenaza recurrente en Abysus; el crossover «Heroes United» (T3) cruza el universo con Ben 10; el juego «Agent of Providence» es una historia paralela reconocida como canon por Duncan Rouleau en X/Twitter (@rouleau1) · https://generatorrex.fandom.com/wiki/Generator_Rex:_Agent_of_Providence (sección Trivia, cita el tuit) · ⚠️ (una fuente, tuit citado de segunda mano en la wiki, no verificado en Twitter directamente por bloqueo de la red del contenedor)
+
+## Lo mejor para la lámina
+
+- El logo real «GENERATOR REX» (bloque naranja, engranaje de 8 dientes en la O) está confirmado por captura del sitio oficial, no sólo por la wiki: úsalo como referencia exacta, con **Black Ops One** (libre, con tildes/ñ/¿/¡) como letra de reemplazo para el título del canal.
+- El marco de «chasis con dientes de engranaje recortados» del sitio oficial es una cartela lista para usar: encaja perfecto con el tema «nanites/máquinas» que pide el encargo.
+- El certificado «Decree of Commendation» de Providence es el objeto ideal para una lámina-documento (diploma, sello, texto burocrático) con **Special Elite** u **Oswald** como letra libre.
+- Para el cuadro de diálogo: nada de burbuja blanca de manga — usa el panel HUD azul-gris con borde cian y retrato lateral que ya usaba el sitio oficial, con **Comic Neue** para el texto y **Bangers** si el personaje grita.
+- El personaje mejor documentado en técnica es Rex (diseño de Jose Lopez, línea gruesa uniforme, color plano tipo cel-shading, sin degradados): sirve de base para la guía de Photoshop/Blender de cualquier lámina de la serie.
+
+## No encontré
+
+- **TCRF** (The Cutting Room Floor): no tiene entrada indexada para «Generator Rex: Agent of Providence» ni para ningún otro juego de la franquicia. Búsquedas hechas: `tcrf.net` vía curl (bloqueado por Cloudflare «Just a moment», tanto en `/index.php?action=raw` como en `/api.php`), vía `navegar.py` (403), y `"Generator Rex" thecuttingroomfloor.com` en el buscador web (sin resultados del propio dominio). ⚠️
+- Nombre exacto del **estudio de animación tercerizado** (el que dibujó los fotogramas fuera de Cartoon Network Studios): no confirmado. Búsquedas hechas: `"Generator Rex" animation "Rough Draft" OR "Moi Animation" OR "Digital eMation"`, `"Generator Rex" overseas animation studio`. Sólo se infiere por apellidos de directores de episodio (Seung-Hyun Oh, Kenji Ono) que hubo animación de apoyo asiática. ⚠️
+- **Onomatopeyas en pantalla dentro de la serie animada** (tipo «BOOM»/«CRASH» sobreimpreso): no se encontró ninguna captura ni mención que confirme que la serie las usa (si las usa, siguen sin catalogar). Búsqueda hecha en el wikitext de la wiki (`onomatopoeia OR "sound effect"`): sin resultados relevantes. ⚠️
+- **TV Tropes**, listado completo de tropos de la página `WesternAnimation/GeneratorRex`: el contenido de las carpetas (#-E, F-J, K-O, P-T, U-Z) no cargó con `navegar.py` (la página nueva de TV Tropes carga esas listas por JavaScript/scroll y no quedaron en el HTML capturado); sólo se pudo leer la introducción. Quedó pendiente si el jefe quiere ese detalle exacto de tropos. ⚠️
+- **Wayback Machine**, consulta directa a la API `archive.org/wayback/available` para `cartoonnetwork.com/generatorrex`: dio 429 (límite compartido del contenedor) en los dos intentos permitidos. Se cubrió el hueco con el vídeo-recorrido del sitio archivado en Internet Archive (`generator-rex-website-tour`), que es equivalente o mejor (interactivo, con audio) que una captura estática de Wayback.
+- **Logo coreano rediseñado** para «제너레이터 렉스» (si existiera uno propio, más allá del rótulo estándar de Cartoon Network Korea): no se encontró imagen. ⚠️
+
+## Bitácora
+
+- generatorrex.fandom.com vía api.php (`action=query`, `list=search`, `list=allpages`, `list=allimages`, `prop=revisions`): páginas de Generator Rex, M. Rex, Man of Action, Cartoon Network Action Pack, Nanite Event, Providence, EVO, Consortium, Jose Lopez, juegos (Agent of Providence, Nanite Master, Nanite Runner, Heroes United online, Titanic Kungfubot Offensive) — español no aplica, wiki en inglés.
+- en.wikipedia.org/wiki/Generator_Rex vía curl directo (funcionó; WebFetch a Wikipedia salió bloqueado por el proxy de red) — inglés.
+- tcrf.net vía curl y `navegar.py` — bloqueado por Cloudflare en los dos casos (403 / challenge JS), dos intentos, no se insistió más.
+- tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GeneratorRex vía `navegar.py` (funciona en esta máquina) — sólo cargó la introducción, no las carpetas de tropos — inglés.
+- dafont.com/generator-rex.font vía `navegar.py` (bloqueado por WebFetch, funcionó por `navegar.py`); descarga del .ttf vía `dl.dafont.com` y comprobación de glifos con `fontTools` — inglés.
+- api.fontsource.org (`/v1/fonts`, `/v1/fonts/<id>`) + descarga de .ttf desde `cdn.jsdelivr.net/fontsource` + `fontTools.getBestCmap()` para comprobar á é í ó ú ñ ¿ ¡: Black Ops One, Bangers, Comic Neue, Luckiest Guy, Special Elite, Audiowide, Oswald — todas completas.
+- archive.org: `/metadata/generator-rex-website-tour` y `/metadata/PS3_Longplay_141_Generator_Rex_Agent_of_Providence`; miniaturas del recorrido del sitio bajadas y miradas directamente (contact sheet propio, `web_sheet.jpg`).
+- archive.org/wayback/available: 429 en dos intentos (límite compartido), no se insistió más.
+- Búsquedas web (`WebSearch`, en inglés y coreano): `"Generator Rex" logo font typeface`; `"Generator Rex" animation studio Flash Toon Boom production`; `"Generator Rex" thecuttingroomfloor.com`; `"Generator Rex" animation "Rough Draft" OR "Moi Animation" OR "Digital eMation" OR overseas animation studio`; `"Generator Rex" character design interview Duncan Rouleau art style influences`; `"Generator Rex" 제너레이터 렉스 한국 카툰네트워크`.
+- `servidor/inventario.md`: revisado por «rex», no hay canal ni lámina existente que choque; `biblias/` revisado por series de género parecido (nanotecnología/cyborg adolescente): ninguna biblia terminada todavía comparte ese género exacto (106-glitch-techs existe como carpeta pero sin `biblia.md`).
+- Aviso del jefe sobre datos-texto.md mezclado con otras obras: comprobado, el archivo estaba casi vacío (un único bloque de Steam sin resultados) y no se usó nada de él.
 
