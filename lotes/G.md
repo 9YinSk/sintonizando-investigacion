@@ -46,6 +46,7 @@ Cuenta: cuenta R49
 - 99 El Castillo Ambulante: el redactor llegó a cerrar la biblia antes del corte. `revisar.py`: **COMPLETA**
   (✅27 ⚠️12 ❌0, 993 líneas, 62 webs, 251 minutos, 98 hex). Subida.
 - 100 La princesa Mononoke: **COMPLETA y subida** (23:50 UTC). `revisar.py`: ✅30 ⚠️10 ❌0, 1080 líneas, 177 referencias (87 webs distintas, 226 minutos, 90 hex medidos).
+- 104 Steven Universe: **COMPLETA y subida** (20:30 UTC). `revisar.py`: ✅23 ⚠️7 ❌0, 1318 líneas, 125 referencias, 53 webs.
 
 ### Para quien siga (paso a la compu del dueño con MWAPI, 25-sep 19:20 UTC)
 
@@ -84,6 +85,7 @@ alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 - 98 El viaje de Chihiro: la descripción de #presentaciones sigue cortada en `servidor/inventario.md`
   («nadie comenta…»); falta confirmar cómo termina antes de rotular la lámina.
 - 100 La princesa Mononoke: Tres doblajes latinos (Buena Vista 2001, Zima 2010, Wild Bunch/Netflix 2020); hay que decidir cuál se usa. Las frases de los conceptos son del de Netflix. «¡Odio a los humanos!» sin comprobar en doblaje latino; mejor usar «¡Silencio! Yo no recibo órdenes de humanos» (Netflix). Color de ojos de San sin resolver (wiki azul real, Danbooru castaños). YouTube pidió sesión (sin ver tráiler japonés 1997 ni análisis en español). Sketchfab CC BY exige crédito. recolectar.py falló dos veces aquí (bajó reparto de 2007 de Mononoke y fan art de otras películas Ghibli): revisar en demás series Ghibli.
+- 104 Steven Universe: Etiqueta «Diseno» sin ñ en #🎨・arte (¿a propósito o errata?). Texto de #🎯・reto-de-la-semana cortado en servidor/inventario.md. Revisar KYF 1:10 (sombrero y colores de Sardonyx, sin medir) y END 0:02 (mano de la estatua) antes de modelar. Crystal Universe (logo) no trae á í ó ú ñ ¿ ¡ (corrige a la 64). Licencia de Gem Glyph Font (Ayelis, itch.io) poco clara; modelos 3D CC BY-NC no comerciales; CC BY para atrezo: Big Donut, Garnet, Amatista. Faltan vistas de fandubs y minutos en 1080p (YouTube).
 
 ## Costos
 
@@ -108,3 +110,4 @@ alto) y lo dejé en `~/.config/mwapi/modelo-opus` para que el dueño lo ponga en
 | 99 | redactor (cortado al cerrar) | Opus | ? | ? (sin aviso de fin) |
 | 100 | redactor | Opus | 18 | 256 mil |
 | 101 | 4 investigadores (cortados) | Sonnet | ? | ? (sin aviso de fin) |
+| 104 | equipo completo | Sonnet + Opus | — | — |
