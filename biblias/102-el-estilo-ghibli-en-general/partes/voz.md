@@ -344,9 +344,44 @@ encontré»).
 
 - Chihiro (versión argentina), muestra de voz: `EVDC-ARG-Chihiro.ogg` ·
   [Doblaje Wiki — audio](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=El_viaje_de_Chihiro) · ⚠️ (es muestra de identificación, no cita narrativa con contexto)
-- Howl (versión Zima), muestra de voz: `Howlhowl1.ogg`; Howl (versión Wild
-  Bunch): `HowlWBhowl1.ogg` — permiten comparar el mismo personaje en dos
-  actores distintos (Gerardo García vs. Alan Prieto) · [Doblaje Wiki](https://doblaje.fandom.com/es/api.php?action=parse&format=json&prop=wikitext&page=El_incre%C3%ADble_castillo_vagabundo) · ⚠️
+- **Actualizado en esta tanda — ya no es sólo el nombre del archivo, se
+  transcribió la frase completa con `herramientas/voz.py` (Whisper) sobre el
+  audio real, con ficha de voz):**
+- **Howl, versión Zima (Gerardo García)**, escena en el mercado escoltando a
+  Sophie de los soldados que flotan: *«Ah, aquí estás. Te estaba buscando. No
+  me digan. A mí me pareció que estaban a punto de irse. No les guardes
+  rencor. No son tan malos. Vámonos. Seré tu escolta toda la tarde. No te
+  asustes. Alguien me sigue. Camina. Creo que te quieren a ti. Estira las
+  piernas y empieza a caminar. ¿Lo ves? No es tan difícil. Me aseguraré que se
+  vayan. Pero espera un momento antes de salir.»* · audio: `Howlhowl1.ogg`
+  ([enlace directo](https://static.wikia.nocookie.net/doblaje/images/e/e8/Howlhowl1.ogg/revision/latest?cb=20200330152228&path-prefix=es)) · ✅ (transcrito con voz.py en esta tanda, sobre el audio oficial de Doblaje Wiki). Voz medida: registro grave (129 Hz), muy expresiva (21.1 semitonos), velocidad rápida (3.12 palabras/s).
+- **La MISMA escena, versión Wild Bunch (Alan Prieto)**: *«¿Qué tal? Ahora
+  también te buscan. Por aquí, sujétate. Ahora estira las piernas y empieza a
+  caminar. ¿Lo lograste? No tengas miedo. Lo haces muy bien.»* · audio:
+  `HowlWBhowl1.ogg` ([enlace directo](https://static.wikia.nocookie.net/doblaje/images/a/ae/HowlWBhowl1.ogg/revision/latest?cb=20200330160251&path-prefix=es)) · ✅ (transcrito con voz.py, mismo método). Voz medida: registro grave
+  (128 Hz), muy expresiva (25.2 semitonos), velocidad normal (2.7
+  palabras/s) — casi el mismo registro que la versión Zima, pero MÁS
+  expresiva y más lenta: mismo Howl «galán tranquilizador», dos actores,
+  distinto ritmo de adaptación.
+- **San (Mononoke), versión Buena Vista/Disney**, escena enfrentando al clan
+  de simios: *«Su propia gente le disparó. ¡Está muriendo! ¿Por qué no me
+  dejaste matarla? ¡Dímelo mientras sigas vivo! ¡No temo a la muerte! ¡Haré lo
+  que sea para sacar a los humanos del bosque! ¡Y no te tengo miedo! ¡Te
+  mataría por haberla salvado! Lady Eboshi es una mujer malvada y nadie
+  evitará que yo la mate. ¿Están locos? ¿Qué sucedió para que los simios
+  cambiaran sus costumbres? ¡Díganme desde cuándo comen carne humana!»*
+  (Whisper transcribió mal «Eboshi» como «Evochy»/«Tevería»; corregido a oído
+  para esta cita) · audio: `MononokeDisneySan.ogg` ([enlace directo](https://static.wikia.nocookie.net/doblaje/images/8/8c/MononokeDisneySan.ogg/revision/latest?cb=20180710222055&path-prefix=es)) · ✅ (transcrito con voz.py en esta tanda). Voz medida: registro muy agudo (323 Hz), muy expresiva (12.9 semitonos), velocidad rápida (3.52 palabras/s).
+- **La MISMA escena, versión Zima**: *«Déjalo, él es mío. ¿Acaso te
+  lastimaron? ¿Moriste? ¿Por qué me detuviste? Habla mientras sigues vivo. Lo
+  supe en cuanto te vi. ¿Por qué demonios te metiste en mis asuntos? Te
+  degollaré. Eso te callará. No desperdicio mi tiempo escuchando a los
+  humanos. Dinos algo. ¿Por qué querría la tribu de los simios comerse a un
+  hombre? Además, esta presa es nuestra.»* · audio: `MononokeZimaSan.ogg`
+  ([enlace directo](https://static.wikia.nocookie.net/doblaje/images/7/7b/MononokeZimaSan.ogg/revision/latest?cb=20180710222109&path-prefix=es)) · ✅ (transcrito con voz.py). Voz medida: registro muy agudo (322 Hz), muy expresiva (10.0 semitonos), velocidad rápida (3.36 palabras/s) — casi
+  idéntica en tono a la versión Disney (323 Hz): San suena igual de fiera y
+  aguda en los dos doblajes, aunque el guion cambie bastante (la de Zima es
+  más directa y cortante: «Te degollaré» vs. «Te mataría»).
 
 ## Punto 22 — Fan dubs y comunidad hispana
 
@@ -377,14 +412,24 @@ encontré»).
    para explicar la "firma sonora" en dos palabras.
 5. Top de fan art de Danbooru (Kiki, San, Howl, Chihiro) como medida de cariño
    distinta a "quién es el protagonista".
+6. Haku es el personaje Ghibli más querido a nivel estudio en 3 encuestas
+   independientes (Simeji Gen Z, ranking.net de fans, Nlab boys-2022 en su
+   categoría) — sirve como «campeón general» del catálogo si la lámina
+   necesita un personaje secundario (no protagonista de su propia película
+   como tal, ya que Chihiro es la protagonista de esa cinta) que represente
+   a todo Ghibli.
+7. La historia de «Guerreros del viento» → cláusula de «no cortes» → katana
+   a Weinstein: en tres frases explica por qué Ghibli es tan estricto con
+   adaptar/cortar su obra, y es un argumento fuerte para «que no parezca
+   hecho por IA» / «no recortar información» del propio dueño del servidor.
 
 ## No encontré
 
-- ⚠️ Un ranking oficial de "personaje favorito" de Ghibli (encuestas NHK,
-  Oricon u otra encuestadora japonesa): busqué «Studio Ghibli personaje
-  favorito encuesta Oricon NHK ranking» y sólo aparecieron rankings de fans
-  no oficiales (TierMaker, blogs). La encuesta oficial que sí encontré (LINE
-  Research) mide películas, no personajes.
+- ⚠️ Un ranking OFICIAL de "personaje favorito" (organizado por el propio
+  Studio Ghibli, tipo Oricon/NHK): sigue sin aparecer — lo más cercano son
+  encuestas de medios serios (LINE Research para películas, Nlab para
+  personajes por categoría) y voto abierto de fans (ranking.net, Simeji). Se
+  documentan las 4 como aproximaciones válidas pero ninguna es "de Ghibli".
 - ⚠️ Muestras de audio de Doblaje Wiki para el tema en general vía
   `datos-voz.md` — la recolección automática marcó que "no encontré la
   página de la obra" porque 102 es un tema, no una película con ficha propia;

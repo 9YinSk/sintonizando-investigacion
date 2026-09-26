@@ -152,3 +152,34 @@ que citan es la cuenta oficial de X @TarsierStudios; confirmado abriendo cada
 - 1920×1080 · 4 ♥ · https://w.wallhaven.cc/full/je/wallhaven-je129w.png · subido por SAKAEIH, sin origen declarado · captura de juego en luz baja · ⚠️
 - No encontré más fondos de fans en alta fuera de Wallhaven: probé Arctic Shift en r/wallpapers («reanimal», dio timeout, «Maybe slow down a bit») y el buscador HTML de Steam Workshop para Wallpaper Engine (no devolvió resultados visibles sin JavaScript). Ninguna de las dos búsquedas es concluyente; quedan pendientes si hace falta profundizar más.
 
+## 19 · Texturas 2D (con enlace a libres equivalentes)
+
+Reanimal no es manga (no hay tramas/screentone); es un videojuego en 3D con
+telas y superficies sucias. Busqué el equivalente real de cada material de
+vestuario y de algunos props, todo CC0 o con licencia libre declarada:
+
+Material del juego | Dónde se ve | Textura libre equivalente | Licencia | Enlace
+---|---|---|---
+Arpillera/saco (capucha de El Niño, cara de varios monstruos) | The Boy, Hood, Bandage | Hessian 230 (foto real de arpillera, hasta 8129×8082) | CC0 | https://polyhaven.com/a/hessian_230
+Arpillera/saco, variante más tupida | igual | Hessian 380 | CC0 | https://polyhaven.com/a/hessian_380
+Tela de lino/algodón basto (camisón de La Niña) | The Girl | Fabric019 (weave, wool, blanco) | CC0 (ambientCG) | https://ambientcg.com/view?id=Fabric019
+Metal oxidado (linterna, cuchillo, tanques y barcos varados de la isla) | props de la isla | Metal041B | CC0 (ambientCG) | https://ambientcg.com/view?id=Metal041B
+Chapa/acero corrugado (edificios y barracas del pueblo) | pueblo, orfanato | CorrugatedSteel007A | CC0 (ambientCG) | https://ambientcg.com/view?id=CorrugatedSteel007A
+Cuerda/soga (la que El Niño lleva al cuello) | The Boy | Rope001 | CC0 (ambientCG) | https://ambientcg.com/view?id=Rope001
+Madera vieja (embarcaderos, el faro) | Lighthouse, muelles | Wood051 | CC0 (ambientCG) | https://ambientcg.com/view?id=Wood051
+
+- No encontré una textura libre específica de «vendas/gasa» para el monstruo
+  Bandage: busqué «gauze» y «bandage» en ambientCG y Poly Haven sin
+  resultado. ⚠️ (no encontré, búsqueda hecha en ambas).
+- Logo del juego: el título «REANIMAL» en mayúsculas, letra condensada,
+  desgastada/rayada, casi siempre en blanco sobre fondo oscuro (se ve en
+  «Feature-graphic-*.jpg» y en la carátula) — de la letra concreta y su
+  alternativa libre se encarga el investigador de texto (punto 5); aquí sólo
+  se deja dicho para no perder la pista.
+- Grano de la imagen: los tráilers y capturas oficiales muestran una capa de
+  grano/ruido fotográfico y viñeteado, típico del estilo stop-motion de
+  Tarsier (igual que en Little Nightmares); es un filtro de post-proceso del
+  motor, no una textura descargable — se replica en Photoshop con un ajuste
+  de grano + viñeta (así lo hizo el equipo en la biblia de Little Nightmares,
+  encargo 122, según su propio archivo de imagen) ⚠️ (una fuente, sin comprobar contra 122 directamente).
+

@@ -196,3 +196,51 @@ tutorial oficial del estudio ⚠️)
 6. Modelos y *rigs* libres del personaje: **ver puntos 3 y 19** (el
    investigador de imagen ya trae los de Sketchfab: The Boy, The Girl, Mother,
    Hood, Sniffer, Bandage).
+
+## 24 · Obras parecidas
+
+**Influencias que reconoce el estudio** (citas directas, no de fans)
+- ***It Takes Two***, ***The Legend of Zelda: The Wind Waker*** y ***Silent
+  Hill 2*** — inspiraron «un sentido de aventura y un sentido de temor» y el
+  diseño cooperativo, según el artículo de desarrollo de Wikipedia (con
+  fuentes primarias) ✅ https://en.wikipedia.org/wiki/Reanimal
+- **Su propio antecesor espiritual, *Little Nightmares* I y II** (mismo
+  estudio): «REANIMAL proves that Tarsier doesn't need access to the IP in
+  order to make *Little Nightmares*» [Reanimal demuestra que Tarsier no
+  necesita los derechos de la saga para hacer *Little Nightmares*],
+  Gamecritics ✅. *Little Nightmares III* pasó a Supermassive Games mientras
+  Tarsier creaba esta IP nueva, confirmado por Wikipedia y por la propia
+  biblia 122 ✅.
+- Tarsier reconoce el cariño del público japonés por sus juegos y usó el Tokyo
+  Game Show para mostrar Reanimal, entrevista de Cubed3 con Andreas Johnsson
+  (cofundador) ✅ https://www.cubed3.com/features/interviews/tarsier-interview
+
+**Comparaciones de prensa** (⚠️ salvo lo dicho)
+- ***Coraline*** y el cine de Laika/Tim Burton, por el mismo motivo que en
+  *Little Nightmares*: niños con máscaras cosidas o de tela ⚠️ (comparación
+  del investigador, no citada literalmente en las reseñas revisadas).
+- ***LIMBO*** e ***INSIDE*** (Playdead): comparación habitual del género de
+  «puzzle-plataformas de terror atmosférico», mismo patrón que con *Little
+  Nightmares* (ver punto 24 de 122-little-nightmares) ⚠️.
+- Metacritic: 80/100 (PC y PS5), 83/100 (Xbox Series X/S); 82 % de
+  recomendación en OpenCritic ✅ https://en.wikipedia.org/wiki/Reanimal
+- Eurogamer, 4/5: «a thing of phenomenal artistry and mood» [algo de artesanía
+  y ambiente fenomenales] ✅ https://www.eurogamer.net/reanimal-review
+- Game Informer, 8.25/10, «Macabre Merit» ✅ https://gameinformer.com/review/reanimal/macabre-merit
+- Destructoid, 8/10, «Frightful and delightful, very short and sweet» ✅
+  https://www.destructoid.com/reviews/reanimal-review/
+
+**Temas compartidos con *Little Nightmares*:** el miedo del niño al mundo
+adulto/a la guerra de los adultos, el hambre y la mutación del cuerpo (la
+oveja que devora y crece), las máscaras que ocultan identidad, la culpa y el
+sacrificio entre hermanos.
+
+**Láminas del servidor que se le parecen:** la única biblia de terror hecha
+hasta ahora es **122-little-nightmares** (mismo estudio, mismo servidor). Para
+no repetir sus 3 conceptos (el cuaderno del Maw → canal `guia`, la tele de la
+Pale City → canal `que-estas-viendo`, la caja de música → canal `canto`):
+*Reanimal* puede apuntar a **`noticias-gaming`** (canal ya existente, sin
+lámina de terror todavía) o a un objeto propio de la isla (un poster
+coleccionable, un mapa, una máscara) que no repita ni la tele ni el cuaderno.
+No hay más biblias de terror ni de muñecos/máscaras en el servidor por ahora
+✅ (comprobado con `ls biblias/`).
