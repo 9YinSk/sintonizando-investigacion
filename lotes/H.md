@@ -15,6 +15,7 @@ ahora lleva el lote H.)
 - 120 Days Gone: **COMPLETA** y subida (18:32). ✅21 ⚠️16 ❌0, 114 referencias, 54 webs, 140 minutos, 38 hex, 856 líneas.
 - 121 Tomb Raider: **COMPLETA** y subida (23:59). ✅22 ⚠️15 ❌0, 193 referencias, 56 webs, 91 minutos, 55 hex, 827 líneas.
 - 122 Little Nightmares: **COMPLETA** y subida (00:01 UTC, 26-sep). ✅25 ⚠️11 ❌0, 208 referencias, 54 webs, 120 minutos, 80 hex, 930 líneas.
+- 124 No Man's Sky: **COMPLETA** y subida (00:21 UTC), ✅20 ⚠️10 ❌0, 120 referencias, 60 webs.
 - 123-127 recolectando.
 - Cambio de cuenta (25-sep, 13:25 UTC, cuenta .108): rama juntada; guardar.sh cada 300 s.
   119: 4 partes listas, el redactor se había cortado sin dejar biblia → redactor (Opus) relanzado.
@@ -94,6 +95,9 @@ ahora lleva el lote H.)
   - Falta minuto exacto en que Six suelta a Mono (antes de 2:48:20 del longplay de LN2) y fotograma del folleto del Maw del final secreto.
   - Sin buscar: TCRF, GitHub, ArtStation, fuentes en sueco; TV Tropes y Wayback fallaron dos veces.
 
+- **124 No Man's Sky**: más querido, sin encuesta oficial (buscada); el fandom dibuja a su propio Viajero; los Gek (Polo) son «los adorables»; Nada y Polo la pareja más recordada. Cuadro de diálogo: caja azul translúcida (#193D5D a #222E3C) con trama de hexágonos, arco de puntos arriba, pestaña con el nombre y texto blanco en Roboto; opciones [1] a [4]; estática «kzzkt»; nunca globo. Láminas: A #a-que-juegas «El portal de la sabana» (recomendada); B #proyectos «El Nexo de la Anomalía» con Polo y Nada; C #eventos «El parche de la Expedición».
+  - Avisos: sin doblaje ni texto oficial en español latino (comprobado en Steam y Doblaje Wiki); textos en español neutro del servidor. Modelos 3D del portal, Atlas y Centinelas en Sketchfab son CC BY-NC (con crédito, no para vender). Pose base de A y C en hoja 3 n.º 10 (cartel de Cosmos, 1:52). Tráiler de Rutger Hauer (Dailymotion x443lhp) sin fandub en español: posible evento de doblaje. Concepto C: no documentada la cuenta atrás de las Expediciones en pantalla. Firefly puede bloquear el nombre «No Man's Sky»: la guía describe el estilo sin nombrarlo.
+
 - Herramienta: en videojuegos, la tabla «Reparto latino por personaje» de `recolectar.py` (Doblaje Wiki) sale rota: mete nombres de archivos de audio en la columna del personaje y no trae actor. El investigador de voz de 117 la rehízo a mano.
 - Herramienta: en 118 la wiki de Fandom buena es `thehellblade`, no `hellblade`.
 - Red: Wayback Machine está bloqueada por la política de red de este entorno; TCRF, Game UI Database y ArtStation dan 403 a curl y WebFetch.
@@ -127,3 +131,4 @@ ahora lleva el lote H.)
 | 120 | redactor (relanzado) | Opus | 19 | 325 mil |
 | 121 | redactor | Opus | 22 | 341 mil |
 | 122 | equipo completo | Sonnet + Opus | — | — |
+| 124 | equipo completo | Sonnet + Opus | — | — |

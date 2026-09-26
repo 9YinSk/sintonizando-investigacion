@@ -14,7 +14,7 @@ de reseñas):
 - Tráiler oficial T1 (Dailymotion, doblado/subtitulado, canal `adorocinema`) — `fotogramas.py --cada 3`.
 - Tráiler oficial T2 (Dailymotion, canal `FilmAffinity`, **audio/subtítulos en español**) — `fotogramas.py --cada 3`.
 - «Highlight Moment 2024» (Dailymotion, canal The World Of Isekai - Clip): resultó ser un fragmento largo (6:35) **entero del episodio 24** (subtitulado en inglés), no un resumen — `fotogramas.py --cada 5`.
-- Episodios 1 y 2 completos (T1), archivos `Tsuki 1.mp4` y `Tsuki 2.mp4` (Internet Archive, ítem `tsuki-ga-michibiku-isekai-douchuu`, sub. español de AnimeFenix, 1920×1080) — vistos con `ffmpeg -ss` directo sobre la URL (sin bajar el archivo entero: el servidor de Internet Archive acepta *range requests*).
+- Episodios 1, 2 y 3 completos (T1), archivos `Tsuki 1.mp4`, `Tsuki 2.mp4` y `Tsuki 3.mp4` (Internet Archive, ítem `tsuki-ga-michibiku-isekai-douchuu`, sub. español de AnimeFenix, 1920×1080) — vistos con `ffmpeg -ss` directo sobre la URL (sin bajar el archivo entero: el servidor de Internet Archive acepta *range requests*).
 - Episodio 1 de la 2ª temporada completo, archivo `[SubsPlease] ...S2 - 01 (1080p)` (Internet Archive, ítem `subs-please-tsuki-ga-michibiku-isekai-douchuu-s-2-01-1080p-0316510-f.mkv`, derivado 1280×720, sub. inglés) — mismo método.
 - Un tercer clip de Dailymotion resultó ser **contenido ajeno** (gameplay de un shooter con una vtuber, mal etiquetado como «episodio 5»): descartado, no se cita.
 
@@ -51,6 +51,9 @@ repositorio; se borran los `video.mp4` al terminar).
 
 **Escena icónica: contrato de sangre con Tomoe (forma de dragón), episodio 1** · `Tsuki 1.mp4` · minuto 20:00:
 - Tomoe en forma de dragón (verde azulado, herida ardiente en la cabeza) protesta «¿Una herida? ¿Cómo? ¡Si soy resistente al fuego!» mientras una criatura chibi dorada la molesta y Makoto pide «Por favor, para» · ✅ (la wiki confirma que Tomoe es una dragona que se transforma en humana tras jurar lealtad a Makoto en el episodio 1) · 20:00
+
+**Escena icónica: debut de Mio como «Araña Negra», episodio 2** · `Tsuki 2.mp4` · minuto 16:40:
+- Una criatura enorme, oscura, con múltiples ojos amarillos brillando en la penumbra, se regenera mientras alguien comenta «pero si se sigue regenerando así, esto no tendrá fin» · https://archive.org/details/tsuki-ga-michibiku-isekai-douchuu (archivo «Tsuki 2.mp4») · ✅ (la lista de personajes de «Anime Episode 02» confirma el debut de «Mio, la Araña Negra»; en el episodio 2 todavía no tiene forma humana, la consigue recién en el episodio 3 junto con el nombre «Mio», según la wiki) · 16:40
 
 ## 4 · Fondos y sitios: luz y paleta medida en fotograma
 
@@ -93,11 +96,15 @@ Todas de vídeo mirado con `ffmpeg`/`fotogramas.py` (episodios y tráilers de ar
 | Tomoe en forma de dragón, cabeza herida, protesta indignada mientras una criatura la molesta | T1 ep. 1 | 20:00 | Regañar (en broma) |
 | Tomoe humana sentada en un pico nevado, mirando las estrellas, rodillas recogidas | T2 ep. 1 (OP) | 1:58 | Pensar / momento de calma |
 | Tomoe sujeta la cara de Makoto con ambas manos, de cerca | Tráiler T1 | 1:03-1:06 | Celebrar reencuentro / cercanía |
-| Tomoe humana recién transformada, pelo al viento, mano en la cabeza, mirando alrededor con curiosidad | T1 ep. 2 | 3:20 | Presentar / explicar situación nueva |
+| Tomoe humana recién transformada («Shin»), pelo al viento, mano en la cabeza, mirando alrededor con curiosidad | T1 ep. 2 | 3:20 | Presentar / explicar situación nueva |
 | Tomoe con un hacha al hombro, mano en la cadera, tono burlón hacia unos orcos | T1 ep. 2 | 10:00 | Explicar con autoridad / burla |
 | Tomoe furiosa, marcas de enfado sobre la cabeza, boca abierta gritando, persiguiendo a Makoto | T1 ep. 2 | 20:00 | Regañar |
-| Mio guiña un ojo, mano cerca de la cara, sonrisa ladeada, pide que la llamen «samurái» | T1 ep. 1 | 22:00 | Explicar con humor / broma de personalidad |
-| Mio narra en off «quiero ver qué hace mi amo, ya no puedo esperar», silueta alada emergiendo | T1 ep. 1 | 21:40 | Animar / lealtad expectante |
+| Tomoe («Shin») guiña un ojo, mano cerca de la cara, sonrisa ladeada, pide que la llamen «samurái» | T1 ep. 1 | 22:00 | Explicar con humor / broma de personalidad |
+| Tomoe de pie, brazos cruzados, sonrisa segura, mirando al frente (opening, junto a Mio) | T1 ep. 1 (OP) | 2:00 | Presentar / explicar con seguridad |
+| Mio de pie, mano cerca del cuello de su kimono (con emblema de telaraña en el hombro), mirada seria y pensativa | T1 ep. 1 (OP) | 2:00 | Pensar |
+| Mio en su forma original de Araña Negra, múltiples ojos amarillos brillando en la oscuridad, regenerándose | T1 ep. 2 | 16:40 | Alerta / amenaza (antes de tener forma humana) |
+| Mio ya humana, pelo oscuro corto, adorno rojo, expresión serena junto a Tomoe (viñeta circular del ending) | T1 ep. 3 (ED) | 23:20 | Presentar (primera vez en forma humana) |
+| Trío Makoto-Tomoe-Mio riendo juntos dentro de la viñeta circular de la luna (ending) | T1 ep. 3 (ED) | 23:30 | Celebrar / cierre alegre en grupo |
 | Trío Makoto-Tomoe-Mio caminando de espaldas, en *chibi*, bajo un sol sonriente (ending) | T2 ep. 1 (ED) | 22:20-23:30 | Celebrar / cierre alegre en grupo |
 
 ## Lo mejor para la lámina
@@ -127,3 +134,4 @@ Todas de vídeo mirado con `ffmpeg`/`fotogramas.py` (episodios y tráilers de ar
 - WebSearch (inglés): «Tsukimichi Moonlit Fantasy TikTok viral clip edit», «Tsukimichi Moonlit Fantasy YouTube analysis video explained», «Tsukimichi Moonlit Fantasy season 3 release date 2026».
 - `herramientas/estilo.py` sobre 3 fotogramas propios de 1280 px para las paletas del punto 4.
 - Un clip de Dailymotion descartado por no ser contenido real de la serie (gameplay de shooter con vtuber mal etiquetado); anotado arriba para que nadie lo reuse.
+- Aviso de corrección propia: en un primer repaso confundí a Tomoe con Mio en dos fotogramas del episodio 1 (ambas pueden llevar tonos claros en el pelo a primera vista). Se corrigió comparando el color de pelo de la ficha de cada personaje en la wiki (Tomoe «light blue», Mio «black») y la lista oficial de «Characters in Order of Appearance» de cada episodio (Mio no aparece en el episodio 1; debuta como «Black Spider» en el 2 y consigue forma humana y nombre en el 3). La tabla del punto 14 ya queda con la atribución correcta.

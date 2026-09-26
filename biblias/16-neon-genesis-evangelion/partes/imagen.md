@@ -115,8 +115,9 @@ imágenes oficiales de abajo — no son de fans.
 | Gendo Ikari | Uniforme de comandante | `#413C53`⚠️ | fotograma de *EoE* («Gendo threatening Ritsuko»), con luz ambiental roja de la escena: el tono real es más neutro, casi negro-azulado |
 | Gendo Ikari | Lentes (filtro naranja) | `#E97151` | mismo fotograma |
 | Kaworu Nagisa | Uniforme escolar (confirmado visualmente: camisa blanca manga corta + pantalón azul marino, **mismo corte que el de Shinji**) | sin hex limpio ⚠️ — en [Shinji Rei Kaworu (EoE).png](https://static.wikia.nocookie.net/evangelion/images/4/44/Shinji_Rei_Kaworu_%28EoE%29.png) se ve el corte exacto, pero la escena tiene un tinte azul-verde de agua que falsea cualquier medición; usar los hex de Shinji (arriba) como aproximación | Shinji Rei Kaworu (EoE).png |
-| Kaworu Nagisa | Pelo gris | `#A9A9A0`⚠️ | mismo fotograma (tinte de agua) |
-| Kaworu Nagisa | Ropa de calle (no uniforme): camisa abierta azul/blanco | `#E8E3D6` camisa, `#1A2A4A` pantalón | [Kaworu Nagisa Promotional Artwork.png](https://static.wikia.nocookie.net/evangelion/images/c/c3/Kaworu_Nagisa_Promotional_Artwork.png), fondo beige liso |
+| Kaworu Nagisa | Ropa de calle (no uniforme): camisa blanca, sombra azulada | `#F5F8F3` (luz) / `#8797C6` (sombra) | [Kaworu Nagisa Promotional Artwork.png](https://static.wikia.nocookie.net/evangelion/images/c/c3/Kaworu_Nagisa_Promotional_Artwork.png), fondo beige liso |
+| Kaworu Nagisa | Ropa de calle: pantalón oscuro | `#3F3B54` | misma imagen |
+| Kaworu Nagisa | Pelo gris (ropa de calle, luz neutra) | `#EAE4E7`* | misma imagen (*mechón claro; en sombra es más gris medio, tipo `#B0ACB2`) |
 
 **Ojo con la luz ambiental**: los fotogramas de *End of Evangelion* casi
 siempre tienen un tinte rojo o violeta de la escena (apocalipsis), así que

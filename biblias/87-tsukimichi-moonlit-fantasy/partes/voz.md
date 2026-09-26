@@ -5,9 +5,7 @@ Puntos 7, 8, 12, 13, 20, 21 y 22 de ENCARGO.md. Parte de `datos-voz.md`
 Doblaje Wiki (la tabla de `datos-voz.md` sólo traía personajes secundarios;
 la principal se sacó aparte). No hay serie hermana para este encargo.
 
-## Hallazgos
-
-### 7 · Personajes principales y secundarios: encuestas de popularidad
+## 7 · Personajes principales y secundarios: encuestas de popularidad
 
 No hay encuesta oficial de Kadokawa/Crunchyroll publicada como tal (busqué en
 japonés «人気投票» y en español); sí hay dos medidas independientes de fans que
@@ -30,7 +28,7 @@ coinciden en el podio: Makoto, Tomoe, Shiki y Mio arriba, el resto muy lejos.
   real para láminas es el trío, no sólo el protagonista — encaja con el aviso del dueño de que «un
   secundario puede ser más querido».
 
-### 8 · Frases icónicas en el doblaje latino y quién dobla a cada uno
+## 8 · Frases icónicas en el doblaje latino y quién dobla a cada uno
 
 Ficha técnica (Doblaje Wiki, `action=parse&prop=wikitext`, la web normal da 402): estudio **VSI
 Mexico City**, dirección Alex Delint (T1) / Betzabé Jara (T2), traducción Amalia Bobadilla, edición
@@ -105,7 +103,7 @@ velocidad por palabras/segundo; en clips donde habla sólo un personaje):
   Valca Ponzanelli, Diana Nolan, Ferso Velázquez, Arturo Cataño: ninguna trae `.ogg`/`.mp3`
   incrustado para esta serie); por eso usé episodios completos en vez de esas muestras.
 
-### 13 · Descripción profunda de cada personaje (Makoto, Tomoe y Mio a fondo; el resto en ficha corta)
+## 13 · Descripción profunda de cada personaje (Makoto, Tomoe y Mio a fondo; el resto en ficha corta)
 
 Mirado en los episodios 1 y 2 completos (doblaje latino, Internet Archive) y cruzado con la
 wiki de la obra (`tsukimichi.fandom.com`, wikitext vía `api.php`) y AniList.
@@ -194,7 +192,7 @@ gigante) y las 5 emociones completas de Tomoe/Mio en forma humana: harían falta
 avanzados (ella toma forma humana desde el ep. 2 en adelante, en escenas que no llegué a bajar en
 esta tanda). Lo dejo en «Sigue» si hace falta profundizar más.
 
-### 20 · Gustos y detalles de cada personaje
+## 20 · Gustos y detalles de cada personaje
 
 De la wiki de la obra (`tsukimichi.fandom.com`, secciones «Personality»/«Trivia») y AniList,
 cruzados entre sí. Tomoe y Mio no son humanas: la propia wiki no les da cumpleaños ni altura en cm
@@ -219,7 +217,7 @@ Shiki, Eris, Sofia Bulga o Tsukuyomi: sus páginas de la wiki de la obra no tien
 personalidad/trivia rellenada (dice `{{Stub}}`), y no hay artbook oficial traducido al español o
 inglés que haya encontrado (busqué «Tsukimichi databook height birthday» en inglés y japonés).
 
-### 21 · Por qué la gente la ama
+## 21 · Por qué la gente la ama
 
 - Género que reconoce sus propios defectos y por eso gusta: reseñas y foros la llaman de las isekai
   «más infravaloradas» — empieza pareciendo genérica (comedia de armas mágicas y niveles) pero mejora
@@ -244,7 +242,7 @@ inglés que haya encontrado (busqué «Tsukimichi databook height birthday» en 
   reddit/MAL» en español e inglés y sólo salieron listas genéricas sin minuto. Lo dejo como hueco, no
   como invención.
 
-### 12 · Lo que el fandom ama / qué NO hacer
+## 12 · Lo que el fandom ama / qué NO hacer
 
 - La Diosa (Megami) es el gran chiste interno negativo de la comunidad: está catalogada como «Hate
   Sink» en wikis dedicadas a personajes hechos para odiar (Hate Sink Wiki, Villains Wiki) por ser
@@ -268,7 +266,7 @@ inglés que haya encontrado (busqué «Tsukimichi databook height birthday» en 
   - No dibujar a Tomoe en su forma de dragón como un dragón occidental genérico: es un dragón oriental
     alargado (serpentino, sin alas de murciélago clásicas), con estética claramente japonesa.
 
-### 22 · Fan dubs y comunidad hispana
+## 22 · Fan dubs y comunidad hispana
 
 Serie de nicho dentro del isekai (no es Naruto ni Demon Slayer): la comunidad hispana la comparte
 sobre todo recortando el doblaje OFICIAL en clips (TikTok) más que doblándola de cero (fandub de voz
