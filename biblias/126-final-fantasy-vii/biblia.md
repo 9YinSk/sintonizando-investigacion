@@ -683,7 +683,7 @@ Hex medidos con `estilo.py` en recortes de cada prenda, sobre renders oficiales 
 **Cómo se hizo, por época**
 - **1997:** modelos y animación en **Alias PowerAnimator** y **Softimage 3D**, en estaciones Silicon Graphics. Unas 120 personas y unos 45 millones de dólares. **Más de 700 fondos pre-renderizados** a 320×224, con los personajes poligonales encima ([GamingBolt](https://gamingbolt.com/final-fantasy-7-a-tech-deep-dive-into-the-rpg-classic)) ✅.
 - **2005, Advent Children:** hecha por **Visual Works**, el estudio de CG de Square, dirigida por Nomura. Tuvieron dos meses para tener 30 minutos listos para Venecia. Según la comunidad, sobre todo con Maya ([Visual Works](https://en.wikipedia.org/wiki/Visual_Works), [Blender Artists](https://blenderartists.org/t/final-fantasy-vii-advent-children-modeling-techniques/360552)) ✅.
-- **2020-2027, trilogía Remake:** **Unreal Engine 4** «con muchas modificaciones». Rehicieron escenas hasta que Nomura aprobó la expresión de Cloud ([entrevista a Hamaguchi](https://www.unrealengine.com/developer-interviews/how-square-enix-leveraged-unreal-engine-to-modernize-final-fantasy-vii-remake)) ✅.
+- **2020-2027, trilogía Remake:** **Unreal Engine 4** «con muchas modificaciones». Rehicieron escenas hasta que Nomura aprobó la expresión de Cloud ([entrevista a Hamaguchi](https://www.unrealengine.com/developer-interviews/how-square-enix-leveraged-unreal-engine-to-modernize-final-fantasy-vii-remake)) ⚠️ la web estaba bloqueada por el proxy: el dato viene del resumen del buscador.
 - **El pelo, según Hamaguchi:** mechones finísimos que se encienden y apagan por píxel, cosidos con TAA. Si baja la resolución, el pelo se eriza; con DLSS en Switch 2 se ve dentado ([AUTOMATON](https://automaton-media.com/en/interviews/we-ask-final-fantasy-vii-remake-director-naoki-hamaguchi-about-the-switch-2-versions-hair-problem-why-does-it-happen-and-can-it-be-avoided/)) ✅.
 
 **Medido:** sombreado en degradado y pintado, línea débil o normal, nunca negra dura. En las capturas del bar, saturación 54-56 % y brillo 33-35 %.
@@ -1050,3 +1050,11 @@ Punto de partida: `partes/datos-texto.md` (recolectado, capturas de Steam de 6 j
 - automaton-media.com/articles/newsjp (japonés) y famitsu.com (japonés) — polémica de la fuente en inglés del Pixel Remaster
 
 **Bloqueado o sin poder verificar**: unrealengine.com (egress bloqueado por el proxy tanto en WebFetch como en curl, 403); dafont.com por WebFetch (funcionó por curl directo); gameuidatabase.com por curl directo (Cloudflare; resuelto con `navegar.py`); **tcrf.net bloqueado por los 3 caminos** (Cloudflare a curl y a `navegar.py`, proxy del contenedor a WebFetch) — los datos de TCRF que aparecen en el punto 11 vienen de fragmentos de búsqueda, no de la página completa.
+
+### Bitácora del redactor
+
+- Leídas las cuatro partes enteras y, de los `datos-*.md`, sólo las secciones que hacían falta: etiquetas de Danbooru, «Appearance» de la wiki, «Datos de interés» de Doblaje Wiki, recuento de Danbooru, hilos de Reddit e Internet Archive.
+- Miradas las 3 hojas enteras y ampliados 11 recortes. Así se leyeron los subtítulos de Remake en nº 86 y nº 133 («Zack», «Flower Peddler») y se midieron con `estilo.py` los tonos del bar (nº 91 y 138), la iglesia (nº 116), la torre de agua (nº 142) y la Corriente Vital (nº 33), a tamaño de miniatura.
+- `juntar_referencias.py` dio 211 referencias. Quité 12 fan arts de Kirby y 2B y 2 modelos de Vivi (colados por la etiqueta de franquicia) y corregí un fan art de grupo que figuraba como de Tifa: quedan 197.
+- Corregido: la parte de texto decía que no había otras biblias de videojuegos; sí las hay (Elden Ring, Zelda, Cyberpunk y más). Los conceptos se escribieron para no repetir sus objetos.
+- Con la red cerrada no se buscó nada nuevo. Lo pendiente: 1080p con minuto, miedo y vergüenza en cara, cómo va el nombre en la caja clásica y fuentes en coreano o chino.

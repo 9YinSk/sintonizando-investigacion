@@ -327,7 +327,7 @@ Cada repaso sigue `COMPLEMENTO.md` (y `AYUDANTE.md`, que explica cómo trabaja c
 > Haz la tanda S32 de `TANDAS.md` siguiendo `ENCARGO.md`: `encargos/125-elden-ring.md`, `encargos/126-final-fantasy-vii.md`, `encargos/127-honkai-star-rail.md`, `encargos/128-ghost-of-tsushima.md`. Un ayudante por encargo, en paralelo. Al terminar, commit y push de tu rama.
 
 - [x] 125-elden-ring
-- [ ] 126-final-fantasy-vii
+- [x] 126-final-fantasy-vii
 - [ ] 127-honkai-star-rail
 - [ ] 128-ghost-of-tsushima
 

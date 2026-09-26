@@ -28,6 +28,7 @@ ahora lleva el lote H.)
   de 121, e imagen y video de 122 (sin dejar nada escrito). Relanzados los 5 a las 18:12.
 - 122-126: datos recolectados; Fandom repetido con su wiki (littlenightmares, reanimal, nomanssky,
   eldenring, finalfantasy) porque los encargos no la traen.
+- 126 Final Fantasy VII: **COMPLETA y subida** (2026-09-26 03:0x UTC). ✅25 ⚠️12 ❌0, 197 referencias, 48 webs, 1061 líneas.
 
 ## Avisos para el dueño
 
@@ -109,6 +110,7 @@ ahora lleva el lote H.)
 - Herramienta: en videojuegos, la tabla «Reparto latino por personaje» de `recolectar.py` (Doblaje Wiki) sale rota: mete nombres de archivos de audio en la columna del personaje y no trae actor. El investigador de voz de 117 la rehízo a mano.
 - Herramienta: en 118 la wiki de Fandom buena es `thehellblade`, no `hellblade`.
 - Red: Wayback Machine está bloqueada por la política de red de este entorno; TCRF, Game UI Database y ArtStation dan 403 a curl y WebFetch.
+- **126 Final Fantasy VII:** más querido, Cloud en votos (Famitsu 2020, NHK 2020); Tifa en fan art (Danbooru 17 112). Cuadro: caja azul marino en degradado (#01017E, #000091, #000056) con píxel blanco (Reactor7); en Remake, subtítulo sin caja. Láminas: #a-que-juegas (Tifa en el Séptimo Cielo, textos en botellas), #reto-de-la-semana (Sephiroth con expediente de Shinra en Nibelheim), #castings ⭐ (Aerith con su cesta en la iglesia del Sector 5). Sin doblaje latino de ningún FFVII (el primero doblado es FFXVI). Avisos: fotogramas con minuto sólo a 512×288; faltan caras de miedo y vergüenza de los cuatro; mirar el fotograma 3:20 de dailymotion x89clz1 antes del concepto 1; licencia de Reactor7 y modelos Sketchfab CC BY-NC por revisar; etiquetas de botellas, ramos y sello de Shinra son invención (lo dice la biblia).
 
 ## Costos
 
@@ -142,3 +144,4 @@ ahora lleva el lote H.)
 | 123 | redactor | Opus | 14 | 263 mil |
 | 124 | equipo completo | Sonnet + Opus | — | — |
 | 125 | redactor | Opus | 15 | 242 mil |
+| 126 | redactor | Opus | — | — |
