@@ -1127,6 +1127,12 @@ el **bastón** de Viktor, el **rifle** de Caitlyn.
 - **Zaun**: neblina verde, farolas, tuberías, grafiti (splash `Jinx_37`,
   `Caitlyn_28`) ✅.
 - **El árbol de los Firelights**: el único árbol grande de Zaun ✅; su luz ⚠️.
+- **Segunda pasada**: la luz real de cada sitio, medida en fotogramas
+  (calle de Zaun `#58615E`, túneles `#9C6751`, laboratorio de noche
+  `#1D2632`, escenario del Día del Progreso `#6B5B67`): §5.2.
+- **Piltóver y Zaun pintados como paisaje**: las tierras básicas de
+  *Magic* · Secret Lair x Arcane (§18b.6). Y los *pop-ups* de RiotX
+  (Seúl, Yakarta) llevan la paleta a un sitio real.
 
 ### 17.2 Fondos de pantalla oficiales y de fans
 
@@ -1137,6 +1143,13 @@ el **bastón** de Viktor, el **rifle** de Caitlyn.
 | Splash arts «Arcane» | 1215×717 | Riot Games | mismo repositorio, `img/champion/splash/` ✅ |
 | Fondos de los murales LATAM (la web de los murales tenía fondos descargables) | ⚠️ | los muralistas | [LoL LATAM](https://www.leagueoflegends.com/es-mx/news/community/murales-arcane/) ⚠️ no abrí |
 | Fondos 4K de móvil (fan) | ⚠️ | yonecraft | [Gumroad](https://yonecraft.gumroad.com/l/Arcane4KWallpapersForMobile) ⚠️ |
+| Vi y Jinx, fan art (Wallhaven, etiqueta «Caio Santos») | 3840×2160 | subido por leoscau; autor del dibujo ⚠️ | [Wallhaven](https://w.wallhaven.cc/full/6o/wallhaven-6oe9j7.jpg) ✅ tamaño |
+| Ekko y Jinx, panorámico (Wallhaven) | 5120×2166 | subido por Dragonetto; autor ⚠️ | [Wallhaven](https://w.wallhaven.cc/full/zy/wallhaven-zykg2j.jpg) ✅ tamaño |
+| Jinx y Vi ante un mural (Wallhaven) | 1920×1080 | subido por leoscau | [Wallhaven](https://w.wallhaven.cc/full/q2/wallhaven-q2p98l.png) ✅ tamaño |
+| Jinx de Nixeu (fan art vertical) | 5897×8719 | Nixeu (etiqueta), subido por Bishoujo | [Wallhaven](https://w.wallhaven.cc/full/d8/wallhaven-d83kkj.jpg) ✅ tamaño |
+
+Más fondos, con tamaño medido, en `referencias.json` (fuente «Wallhaven»).
+Todos son de fans: **sólo referencia**, nunca pegar.
 
 ---
 
